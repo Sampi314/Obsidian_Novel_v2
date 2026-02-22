@@ -1,0 +1,33 @@
+name: Auto-merge Jules PRs
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge-jules:
+    # Only run for PRs created by Jules (jules-app[bot]) or from Jules-style branches
+    if: >-
+      github.event.pull_request.user.login == 'jules-app[bot]'
+      || startsWith(github.event.pull_request.head.ref, 'jules/')
+      || startsWith(github.event.pull_request.head.ref, 'jules-')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Auto-approve Jules PR
+        uses: hmarr/auto-approve-action@v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Enable auto-merge
+        run: gh pr merge --auto --merge "$PR_URL"
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
