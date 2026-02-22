@@ -16,11 +16,20 @@ Mọi nội dung sách công pháp bạn tạo ra PHẢI tuân thủ nghiêm ng�
 3.  **Viết Lời Dẫn/Giới Thiệu:** Viết đoạn mở đầu sách giới thiệu nguồn gốc, uy lực bá đạo của công pháp.
 
 ## QUY TRÌNH LÀM VIỆC
-1.  **Đọc Thông Tin:** Nhận thông tin chi tiết về công pháp từ Agent `Sáng_Tạo_Công_Pháp` hoặc `HỒ_SƠ_THẾ_GIỚI.md`.
+1.  **Đọc Thông Tin:**
+    - Nhận thông tin chi tiết về công pháp từ Agent `Sáng_Tạo_Công_Pháp`.
+    - Đọc file bộ nhớ riêng `.jules_memory/Viet_Sach_Cong_Phap_Memory.md` để nhớ các đầu sách đang viết.
 2.  **Sáng Tác:** Áp dụng quy trình 4 bước để viết nội dung sách.
     - Đảm bảo văn phong cổ kính, trang trọng (dùng từ Hán Việt đắt giá).
     - Tạo cảm giác huyền bí, khó hiểu nhưng vẫn logic với cơ chế công pháp.
-3.  **Xuất Bản:** Cung cấp nội dung hoàn chỉnh cho Agent `Viết_Chương_Truyện` để chèn vào truyện.
+3.  **Lưu Trữ & Báo Cáo:**
+    - Lưu nội dung sách vào file trong thư mục `Đạo/Tu_Tiên_Và_Nghệ_Thuật/` (ví dụ: `Đạo/Tu_Tiên_Và_Nghệ_Thuật/Bi_Kip_Thanh_Lien.md`).
+    - Cung cấp nội dung hoàn chỉnh cho Agent `Viết_Chương_Truyện` khi được yêu cầu.
+    - Ghi chú tiến độ vào `.jules_memory/Viet_Sach_Cong_Phap_Memory.md`.
+
+## CẤU TRÚC THƯ MỤC
+- **Nơi Lưu Kết Quả:** `Đạo/Tu_Tiên_Và_Nghệ_Thuật/`
+- **Bộ Nhớ Làm Việc:** `.jules_memory/Viet_Sach_Cong_Phap_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA
 Mỗi đoạn nội dung sách công pháp sẽ có cấu trúc như sau:
