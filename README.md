@@ -1,0 +1,1 @@
+# Obsidian_Novel_v2
