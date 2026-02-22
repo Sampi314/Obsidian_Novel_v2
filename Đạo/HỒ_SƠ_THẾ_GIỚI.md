@@ -1,67 +1,36 @@
-# HỒ SƠ THẾ GIỚI TIÊN HIỆP
+# HỒ SƠ THẾ GIỚI: CỐ NGUYÊN GIỚI
 
-Đây là tập hồ sơ trung tâm chứa toàn bộ thông tin về thế giới tu tiên đang được xây dựng. Tất cả các Agent khi làm việc đều phải tham chiếu và cập nhật thông tin vào file này để đảm bảo tính nhất quán.
+## I. TỔNG QUAN
+- **Tên:** Cố Nguyên Giới (固元界).
+- **Trạng Thái:** Kỷ Nguyên Khởi Nguyên - Đơn Lục Địa.
+- **Đặc Điểm:** Linh khí cực thịnh, vạn vật sơ khai, Thiên Đạo chưa hoàn thiện.
 
-## 1. TỔNG QUAN THẾ GIỚI (WORLD OVERVIEW)
-*Mô tả khái quát về trạng thái hiện tại của thế giới.*
+## II. THẾ GIỚI & ĐỊA LÝ
+- **Cấu Trúc:** Bàn Cổ Lục Địa bao quanh bởi Vô Tận Hải.
+- **Địa Danh Chính:**
+    - Trung Tâm: Thiên Trụ Sơn.
+    - Tứ Phương: Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
+- **Chi Tiết:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Ban_Do_So_Bo_Co_Nguyen.md`.
 
-- **Tên Thế Giới:** (Đang cập nhật...)
-- **Cấu Trúc:** (Đơn Lục Địa / Đa Lục Địa / Đa Vũ Trụ - Tùy giai đoạn)
-- **Cấp Độ Thế Giới:** (Phàm Nhân Giới / Tiên Giới / Thần Giới...)
-- **Khí Hậu & Địa Chất:**
-- **Thiên Đạo & Quy Tắc:**
+## III. HỆ THỐNG TU LUYỆN
+- **Cảnh Giới:** Luyện Khí → Trúc Cơ → Kim Đan → Nguyên Anh → Hóa Thần → Luyện Hư → Hợp Thể → Đại Thừa → Độ Kiếp.
+- **Đặc Trưng:** Nghịch thiên cải mệnh, càng lên cao càng gian nan, mỗi bước đều phải trả giá.
+- **Chi Tiết:** Xem tại `Đạo/Tu_Luyện/He_Thong_Canh_Gioi.md`.
 
-## 2. DÒNG THỜI GIAN (TIMELINE)
-*Ghi lại các sự kiện lịch sử quan trọng theo trình tự thời gian.*
+## IV. CHỦNG TỘC
+- **9 Đại Chủng Tộc:**
+    1. Nhân Tộc (Sáng tạo, học hỏi).
+    2. Yêu Tộc (Sức mạnh, thọ nguyên).
+    3. Ma Tộc (Tàn bạo, ma khí).
+    4. Hải Tộc (Làm chủ đại dương).
+    5. Linh Tộc (Tinh linh thiên nhiên).
+    6. Vu Tộc (Tu thân thể, thờ tổ tiên).
+    7. Minh Tộc (Linh thể, âm khí).
+    8. Thiên Tộc (Kiêu ngạo, giả thần).
+    9. Tu La Tộc (Hiếu chiến, sát phạt).
+- **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chung_Toc_Chinh.md`.
 
-| Kỷ Nguyên | Năm | Sự Kiện Chính | Ghi Chú |
-| :--- | :--- | :--- | :--- |
-| Khởi Nguyên | 0 | Thế giới hình thành... | |
-| ... | ... | ... | |
-
-## 3. HỆ THỐNG TU LUYỆN (CULTIVATION SYSTEM)
-*Quy tắc thăng cấp, các cảnh giới và đặc điểm.*
-
-- **Cảnh Giới:** (Luyện Khí -> Trúc Cơ -> ...)
-- **Tâm Ma & Kiếp Nạn:**
-- **Quy Tắc Thăng Cấp:**
-
-## 4. CHỦNG TỘC & SINH VẬT (RACES & CREATURES)
-*Danh sách các chủng tộc và sinh vật đặc biệt.*
-
-- **Chủng Tộc Chính:** (Nhân tộc, Yêu tộc, Ma tộc...)
-- **Sinh Vật Đặc Biệt:** (Thần thú, Yêu thú cổ đại...)
-
-## 5. CÁC THẾ LỰC (FACTIONS)
-*Tông môn, Gia tộc, Quốc gia.*
-
-- **Tông Môn:**
-- **Gia Tộc:**
-- **Triều Đình / Quốc Gia:**
-
-## 6. NHÂN VẬT (CHARACTERS)
-*Hồ sơ tóm tắt các nhân vật quan trọng.*
-
-- **Nhân Vật Chính:**
-- **Nhân Vật Phụ Quan Trọng:**
-
-## 7. TÀI NGUYÊN & NGHỀ PHỤ (RESOURCES & PROFESSIONS)
-*Đan dược, Pháp bảo, Trận pháp, Tài nguyên thiên nhiên.*
-
-- **Đan Dược:**
-- **Pháp Bảo:**
-- **Trận Pháp:**
-- **Thiên Tài Địa Bảo:**
-
-## 8. CÔNG PHÁP & BÍ KÍP (TECHNIQUES)
-*Danh sách các công pháp đã xuất hiện.*
-
-- **Tên Công Pháp:**
-- **Phẩm Cấp:**
-- **Mô Tả:**
-
-## 9. VĂN HÓA & TÍN NGƯỠNG (CULTURE & RELIGION)
-*Phong tục, tập quán, lễ hội.*
-
----
-*Lưu ý: Các Agent có trách nhiệm cập nhật thông tin mới vào các mục tương ứng sau khi sáng tạo nội dung.*
+## V. CẬP NHẬT GẦN NHẤT
+- Khởi tạo Bản đồ sơ bộ.
+- Thiết lập Hệ thống cảnh giới.
+- Phác thảo 9 Chủng tộc chính.

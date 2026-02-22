@@ -1,31 +1,10 @@
-# BÁO CÁO CHẤT LƯỢNG
+# BÁO CÁO CHẤT LƯỢNG - DỰ ÁN CỐ NGUYÊN
 
-File này dùng để ghi lại các lỗi, nhận xét và yêu cầu chỉnh sửa trong quá trình viết tiểu thuyết.
-Mọi Agent có vai trò kiểm tra chất lượng cần ghi chép vào đây.
+## NHẬT KÝ KIỂM TRA
 
-## MẪU BÁO CÁO
-
-### [Ngày/Tháng/Năm] - [Tên Chương/Đoạn Văn]
-
-**1. Lỗi Chính Tả & Ngữ Pháp:**
-- *Dòng/Câu:* [Trích dẫn lỗi]
-- *Sửa Lại:* [Đề xuất sửa]
-
-**2. Lỗi Logic & Cốt Truyện:**
-- *Mô tả lỗi:* [Giải thích mâu thuẫn hoặc sự vô lý]
-- *Ảnh hưởng:* [Mức độ nghiêm trọng đối với cốt truyện]
-- *Đề xuất sửa:* [Gợi ý cách khắc phục]
-
-**3. Nhận Xét Văn Phong:**
-- *Điểm tốt:* [Những điểm hay cần phát huy]
-- *Điểm cần cải thiện:* [Những chỗ chưa mượt mà, từ ngữ lặp lại...]
-
-**4. Yêu Cầu Khác:**
-- [Ghi chú thêm nếu có]
-
----
-
-## LOG BÁO CÁO (Cập nhật mới nhất lên trên cùng)
-
-### [Ngày Bắt Đầu] - Khởi tạo báo cáo
-- Bắt đầu ghi nhận chất lượng nội dung.
+| Ngày | Agent | Nội Dung | Trạng Thái | Ghi Chú |
+|---|---|---|---|---|
+| 2024-05-23 | Tổng Quản | Khởi tạo cấu trúc dự án | Hoàn Thành | Đã tạo thư mục và memory file. |
+| 2024-05-23 | Kiến Tạo Thế Giới | Tạo bản đồ sơ bộ | Hoàn Thành | Cần bổ sung chi tiết các bí cảnh sau. |
+| 2024-05-23 | Thiết Kế Tu Luyện | Tạo hệ thống cảnh giới | Hoàn Thành | Cần thêm chi tiết về Tâm Ma Kiếp. |
+| 2024-05-23 | Kiến Tạo Chủng Tộc | Tạo 9 chủng tộc | Hoàn Thành | Cần phát triển mối quan hệ giữa các tộc. |
