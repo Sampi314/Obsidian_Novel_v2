@@ -43,6 +43,19 @@ Mỗi vết sẹo chiến tranh được họ mài giũa thành hoa văn tinh x�
 - **Dị Ứng Nước:** Dù không sợ nước, nhưng Thạch Tộc rất ghét bị ướt vì cảm giác "nhớt nhát" của rêu. Họ thường dùng cát nóng để tắm khô.
 - **Tiếng Ngáy:** Khi một Thạch Tộc ngáy, nó nghe giống như tiếng đá lở. Các ngôi làng gần Thạch Lâm thường xuyên phải hứng chịu những trận "động đất nhẹ" mỗi đêm.
 
+### Xung Đột & Thần Thoại Theo Dòng Thời Gian
+- **Thuở Hỗn Mang - Giấc Ngủ Vô Tận:** Thạch Tộc không quan tâm đến thế sự. Họ ngủ trong lòng núi, mặc kệ Thần Ma đại chiến bên trên.
+- **Kỷ Nguyên Khởi Nguyên - Bị Khai Thác:** Nhân Tộc và Cự Tộc đào núi lấy quặng, vô tình giết chết nhiều Thạch Tộc đang ngủ (vì nhầm là đá). Điều này khiến Thạch Tộc thức tỉnh và nổi giận.
+- **Hiện Tại - Người Canh Giữ:** Thạch Tộc thỏa hiệp với các tộc khác: Họ sẽ canh giữ khoáng mạch, đổi lại không ai được phép xâm phạm giấc ngủ của họ.
+
+### Mục Tiêu Tối Thượng
+- **Trở Thành Núi:** Một Thạch Tộc tu luyện đến đỉnh cao sẽ hóa thân thành một ngọn linh sơn vĩnh cửu, hòa mình vào Bàn Cổ Lục Địa.
+- **Tìm Kiếm Trái Tim Đá:** Tìm kiếm loại "Tâm Thạch" huyền thoại có thể ban cho họ cảm xúc trọn vẹn như sinh vật hữu tình.
+
+### Lời Răn Của Tổ Tiên
+- *"Nói ít, làm nhiều. Lời nói gió bay, đá tạc bia còn mãi."*
+- *"Kiên nhẫn là sức mạnh lớn nhất."*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các mỏ khoáng sản, hang động sâu, núi đá trọc.
 - **Thức Ăn:** Linh thạch, quặng sắt, tinh thể quý.

@@ -52,6 +52,19 @@ Trải qua hàng ngàn năm, Linh Thạch không chỉ là tài nguyên tu luy�
 - **Văn Hóa Trà Đạo:** Người Nhân Tộc có thể ngồi cả ngày chỉ để bàn luận về vị đắng của một chén trà, coi đó là "ngộ đạo". Các tộc khác (như Cự Tộc) thấy điều này cực kỳ khó hiểu và lãng phí thời gian.
 - **Sợ Vợ:** Một thống kê thú vị cho thấy 80% các đại cao thủ Nhân Tộc đều có một đạo lữ (vợ) cực kỳ hung dữ hoặc quản lý tài chính rất chặt.
 
+### Xung Đột & Thần Thoại Theo Dòng Thời Gian
+- **Thuở Khai Thiên - Quan Hệ Với Thần Ma:** Nhân Tộc sinh sau đẻ muộn, ban đầu là nô lệ cho các Cổ Thần. Truyền thuyết kể rằng "Nghịch Thiên Chi Chiến" đầu tiên chính là khi Nhân Tổ đánh cắp Lửa Thiêng của Thần Mặt Trời, mở ra kỷ nguyên tu luyện.
+- **Kỷ Nguyên Chiến Quốc - Mâu Thuẫn Với Yêu Tộc:** Vì tranh giành linh mạch để tu luyện, Nhân Tộc và Yêu Tộc đã có huyết hải thâm thù suốt vạn năm. Yêu Tộc gọi Nhân Tộc là "Lũ Hai Chân Tham Lam", còn Nhân Tộc gọi Yêu Tộc là "Súc Sinh Vô Đạo".
+- **Hiện Tại - Liên Minh Với Hải Tộc:** Để đối phó với sự trỗi dậy của Ma Tộc (nếu có) hoặc các hiểm họa từ Vô Tận Hải, Nhân Tộc đã ký "Hiệp Ước Giao Thương" với Hải Tộc, đổi đan dược lấy tài nguyên biển.
+
+### Mục Tiêu Tối Thượng
+- **Trường Sinh Bất Tử:** Khát vọng lớn nhất của mọi tu sĩ Nhân Tộc là phá vỡ giới hạn thọ nguyên, phi thăng Tiên Giới.
+- **Thống Nhất Lục Địa:** Các Hoàng Triều phàm nhân luôn mơ về việc thống nhất Bàn Cổ Lục Địa dưới một lá cờ.
+
+### Lời Răn Của Tổ Tiên
+- *"Phi tộc loại kỳ tâm tất dị."* (Không phải tộc mình thì lòng dạ ắt khác biệt). Đây là câu nói được khắc trên bia đá của mọi tông môn lớn, nhắc nhở hậu thế luôn cảnh giác với ngoại tộc.
+- *"Thiên đạo vô tình, nhân đạo hữu tình."* Nhắc nhở tu sĩ dù tu tiên cũng không được đánh mất nhân tính.
+
 ## IV. NƠI SINH SỐNG
 - **Phân Bố:** Rộng khắp Bàn Cổ Lục Địa.
 - **Trung Tâm:** Trung Châu (nơi linh khí hội tụ, văn minh rực rỡ nhất). Ngoài ra còn có Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
