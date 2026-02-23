@@ -34,7 +34,12 @@
 - **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diep_Tinh_Suong.md`.
 
-## VI. CẬP NHẬT GẦN NHẤT
+## VI. KHO TÀNG VĂN HỌC
+- **Thơ Ca:**
+    - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
+
+## VII. CẬP NHẬT GẦN NHẤT
+- Sáng tác thơ: Hàn Mai Kiếm Ca.
 - Khởi tạo Bản đồ sơ bộ.
 - Thiết lập Hệ thống cảnh giới.
 - Phác thảo 9 Chủng tộc chính.
