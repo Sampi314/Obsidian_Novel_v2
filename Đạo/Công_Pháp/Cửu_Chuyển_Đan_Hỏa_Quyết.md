@@ -12,7 +12,12 @@
     - Có khả năng hấp thụ hỏa khí từ môi trường để hồi phục nhanh chóng.
     - Đặc biệt hiệu quả trong việc luyện đan, giúp kiểm soát nhiệt độ lò cực kỳ chính xác.
 
-## III. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 9 tầng)
+## III. CÔNG DỤNG & HIỆU QUẢ
+- **Lợi Ích Tu Luyện:** Giúp cơ thể được tôi luyện liên tục qua ngọn lửa, kinh mạch dẻo dai, tạp chất bị đốt cháy hết, khiến tốc độ tu luyện về sau càng nhanh.
+- **Khả Năng Chiến Đấu:** Sát thương hỏa hệ cực mạnh, có khả năng thiêu đốt cả vật chất lẫn linh lực của đối thủ. Khả năng phòng thủ bằng lửa cũng rất đáng gờm.
+- **Hỗ Trợ Khác:** Đây là công pháp tối thượng cho Luyện Đan Sư. Việc kiểm soát lửa (Khống Hỏa) đạt đến độ tinh diệu giúp tăng tỷ lệ thành đan và phẩm chất đan dược lên rất nhiều.
+
+## IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 9 tầng)
 
 ### 1. Tầng 1: Dẫn Hỏa Nhập Thể (引火入體)
 - **Mô Tả:** Giai đoạn đầu tiên, người tu luyện hấp thụ hỏa linh khí từ môi trường vào cơ thể, tôi luyện kinh mạch sơ bộ để chịu đựng nhiệt độ cao.
@@ -158,24 +163,40 @@
         > Khi đan hỏa tắt đi (ẩn vào trong), vạn vật sinh sôi nảy nở.
         > Tâm này chính là đạo, ánh sáng tồn tại vĩnh hằng.
 
-## IV. HỆ THỐNG CHIÊU THỨC (5 Chiêu)
+## V. HỆ THỐNG CHIÊU THỨC (5 Chiêu)
 
 1.  **Cửu Chuyển Hỏa Đỉnh (九轉火鼎):**
-    - Ngưng tụ hỏa linh khí thành hình một chiếc đỉnh (vạc) khổng lồ bao quanh cơ thể để phòng thủ, hoặc nhốt đối thủ vào bên trong để thiêu đốt. Lớp vỏ đỉnh kiên cố, có thể chịu được công kích mạnh mẽ từ bên ngoài.
+    - **Mô Tả:** Ngưng tụ hỏa linh khí thành hình một chiếc đỉnh (vạc) khổng lồ bao quanh cơ thể để phòng thủ, hoặc nhốt đối thủ vào bên trong để thiêu đốt. Lớp vỏ đỉnh kiên cố, có thể chịu được công kích mạnh mẽ từ bên ngoài.
+    - **Yêu Cầu:** Đạt Tầng 3 (Đan Hỏa Sơ Thành).
+    - **Uy Lực Tăng Tiến:** Tầng 3 tạo ra đỉnh lửa mờ ảo; Tầng 6 đỉnh lửa hóa thực thể, có hoa văn cổ ngữ; Tầng 9 đỉnh có thể thu nhỏ phóng to tùy ý, giam cầm được cả Nguyên Anh.
 
 2.  **Đan Hỏa Liên Tâm (丹火連心):**
-    - Phóng ra một luồng lửa nhỏ màu xanh lam, tấn công trực tiếp vào tâm thần (linh hồn) đối phương, gây ảo giác nóng rát từ bên trong, khiến đối thủ mất tập trung và rối loạn kinh mạch.
+    - **Mô Tả:** Phóng ra một luồng lửa nhỏ màu xanh lam, tấn công trực tiếp vào tâm thần (linh hồn) đối phương, gây ảo giác nóng rát từ bên trong, khiến đối thủ mất tập trung và rối loạn kinh mạch.
+    - **Yêu Cầu:** Đạt Tầng 4 (Tam Muội Chân Hỏa).
+    - **Uy Lực Tăng Tiến:** Ban đầu chỉ gây rối loạn nhẹ; Tầng 7 có thể đốt cháy thần thức đối thủ, gây tổn thương vĩnh viễn cho linh hồn.
 
 3.  **Hỏa Vũ Lưu Tinh (火雨流星):**
-    - Triệu hồi hàng trăm quả cầu lửa từ trên cao rơi xuống như mưa sao băng, bao phủ một phạm vi rộng lớn. Mỗi quả cầu khi chạm đất sẽ phát nổ, tạo thành biển lửa thiêu rụi mọi thứ.
+    - **Mô Tả:** Triệu hồi hàng trăm quả cầu lửa từ trên cao rơi xuống như mưa sao băng, bao phủ một phạm vi rộng lớn. Mỗi quả cầu khi chạm đất sẽ phát nổ, tạo thành biển lửa thiêu rụi mọi thứ.
+    - **Yêu Cầu:** Đạt Tầng 5 (Ngũ Hành Tương Sinh).
+    - **Uy Lực Tăng Tiến:** Số lượng và kích thước cầu lửa tăng theo tầng; Tầng 8 cầu lửa chuyển sang màu tím (Tử Hỏa), không thể bị dập tắt bởi nước thường.
 
 4.  **Đan Dương Chân Hỏa (丹陽真火):**
-    - Kích phát bản nguyên hỏa lực, tạo ra ngọn lửa màu vàng rực rỡ mang sức nóng cực đại. Chiêu này tiêu hao rất nhiều linh lực nhưng có khả năng thiêu hủy cả pháp bảo cấp thấp.
+    - **Mô Tả:** Kích phát bản nguyên hỏa lực, tạo ra ngọn lửa màu vàng rực rỡ mang sức nóng cực đại. Chiêu này tiêu hao rất nhiều linh lực nhưng có khả năng thiêu hủy cả pháp bảo cấp thấp.
+    - **Yêu Cầu:** Đạt Tầng 6 (Liệt Diễm Phần Thân).
+    - **Uy Lực Tăng Tiến:** Tầng 6 lửa vàng; Tầng 9 lửa chuyển sang màu trắng lóa mắt (Bạch Hỏa), nhiệt độ đủ để nung chảy kim loại hiếm trong nháy mắt.
 
 5.  **Phần Thiên Nhất Chỉ (焚天一指):**
-    - Tuyệt kỹ tối thượng, tụ toàn bộ hỏa lực toàn thân vào đầu ngón tay, nén lại đến cực hạn rồi bắn ra một tia nhiệt năng cực mảnh nhưng xuyên thấu cực mạnh. Một chỉ này có thể xuyên thủng cả mây trời và lớp phòng ngự kiên cố nhất.
+    - **Mô Tả:** Tuyệt kỹ tối thượng, tụ toàn bộ hỏa lực toàn thân vào đầu ngón tay, nén lại đến cực hạn rồi bắn ra một tia nhiệt năng cực mảnh nhưng xuyên thấu cực mạnh. Một chỉ này có thể xuyên thủng cả mây trời và lớp phòng ngự kiên cố nhất.
+    - **Yêu Cầu:** Đạt Tầng 8 (Thần Hồn Niết Bàn).
+    - **Uy Lực Tăng Tiến:** Khi đạt Tầng 9, tia nhiệt năng không còn màu sắc (Vô Hình Hỏa), tấn công không tiếng động, xuyên thủng không gian.
 
-## V. YÊU CẦU & HẠN CHẾ
+## VI. YÊU CẦU & HẠN CHẾ
 - **Công Hiệu Đặc Biệt:** Giúp cơ thể kháng lửa cực tốt, luyện đan xác suất thành công tăng cao.
 - **Tác Dụng Phụ:** Nếu không kiểm soát tốt "tâm hỏa" (sự nóng nảy, dục vọng), dễ bị tẩu hỏa nhập ma, tự thiêu đốt bản thân thành tro bụi.
 - **Yêu Cầu Tu Luyện:** Người tu luyện cần có Hỏa Linh Căn cực phẩm (hoặc Thiên Linh Căn hệ Hỏa). Quá trình tu luyện vô cùng đau đớn do phải dùng lửa tôi luyện kinh mạch.
+
+## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
+*Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
+- **Ý Nghĩa Khẩu Quyết:** Bộ khẩu quyết của Cửu Chuyển Đan Hỏa Quyết mô tả hành trình của một người tu đạo từ lúc sơ khai (Dẫn Hỏa) đến khi đạt đạo (Quy Chân). Con số 9 (Cửu) trong văn hóa phương Đông tượng trưng cho sự cực hạn và hoàn mỹ. Việc "tự thiêu đốt" ở tầng 6 ám chỉ sự hy sinh cái tôi cũ kỹ để tái sinh một bản thể mới tốt đẹp hơn (Niết Bàn).
+- **Cơ Chế Sức Mạnh:** Sức mạnh của công pháp này nằm ở sự "Tinh Khiết" và "Nén". Lửa càng được tôi luyện nhiều lần (Cửu Chuyển) thì nhiệt lượng càng cao và càng ít tạp chất. Việc kết hợp với Mộc khí (Tầng 5) giải quyết điểm yếu "nhanh tàn" của lửa, tạo ra nguồn năng lượng bền bỉ.
+- **Lời Bình:** Đây là công pháp trấn phái của một tông môn luyện đan, nên nó thiên về kiểm soát và bền bỉ hơn là bộc phá tức thời như các công pháp chiến đấu thuần túy. Tuy nhiên, khi đạt đến đỉnh cao, khả năng hủy diệt của nó là không thể xem thường.

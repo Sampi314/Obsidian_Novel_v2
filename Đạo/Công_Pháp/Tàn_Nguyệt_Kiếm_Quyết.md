@@ -9,7 +9,12 @@
 - **Nguyên Lý:** Lấy "Hàn Khí" làm gốc, "Tốc Độ" làm trọng. Công pháp tập trung vào việc ngưng tụ linh khí hệ Băng thành lưỡi kiếm mỏng, sắc bén như ánh trăng khuyết.
 - **Đặc Điểm:** Chiêu thức không cầu kỳ, hoa mỹ mà tập trung vào sự hiệu quả, tàn độc, nhắm thẳng vào điểm yếu (yết hầu, tim, đan điền) của đối thủ. Phương châm là "Tấn công là cách phòng thủ tốt nhất".
 
-## III. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 4 tầng)
+## III. CÔNG DỤNG & HIỆU QUẢ
+- **Lợi Ích Tu Luyện:** Tăng cường khả năng ẩn nấp hơi thở (Quy Tức), giúp người tu luyện dễ dàng hòa mình vào môi trường. Rèn luyện tâm tính lạnh lùng, quyết đoán.
+- **Khả Năng Chiến Đấu:** Tối ưu hóa cho việc ám sát và kết liễu nhanh. Không thích hợp cho đánh lâu dài (sức bền kém) hay đối đầu trực diện với số đông.
+- **Hỗ Trợ Khác:** "Nhãn Lực" được tôi luyện giúp nhìn xuyên bóng tối và phát hiện sơ hở nhỏ nhất của đối thủ.
+
+## IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 4 tầng)
 
 ### 1. Tầng 1: Tân Nguyệt Vô Ngân (新月無痕)
 - **Mô Tả:** Giai đoạn trăng non, ánh sáng yếu ớt khó phát hiện. Luyện kiếm khí mỏng như sợi chỉ, ẩn nấp trong bóng tối, ra đòn bất ngờ.
@@ -75,30 +80,50 @@
         > Dốc toàn bộ vốn liếng vào một lần (đánh cược tất cả), thiêu đốt thân xác này.
         > Đạo kiếm không hối hận, chỉ có chết mới dừng lại.
 
-## IV. HỆ THỐNG CHIÊU THỨC (7 Chiêu)
+## V. HỆ THỐNG CHIÊU THỨC (7 Chiêu)
 
 1.  **Nguyệt Ảnh Trảm (月影斬):**
-    - Xuất kiếm cực nhanh, tạo ra một đường kiếm khí mờ ảo như bóng trăng dưới nước. Khi đối thủ nhận ra thì kiếm đã kề cổ. Khó bị phát hiện hướng tấn công.
+    - **Mô Tả:** Xuất kiếm cực nhanh, tạo ra một đường kiếm khí mờ ảo như bóng trăng dưới nước. Khi đối thủ nhận ra thì kiếm đã kề cổ. Khó bị phát hiện hướng tấn công.
+    - **Yêu Cầu:** Đạt Tầng 1 (Tân Nguyệt Vô Ngân).
+    - **Uy Lực Tăng Tiến:** Tầng 1 tầm đánh 3 trượng; Tầng 3 tầm đánh 10 trượng, kiếm khí gần như vô hình.
 
 2.  **Hư Ảnh Bộ (虛影步):**
-    - Di chuyển nhanh tạo ra các tàn ảnh đánh lừa thị giác, giúp tiếp cận mục tiêu hoặc né tránh đòn đánh trong gang tấc.
+    - **Mô Tả:** Di chuyển nhanh tạo ra các tàn ảnh đánh lừa thị giác, giúp tiếp cận mục tiêu hoặc né tránh đòn đánh trong gang tấc.
+    - **Yêu Cầu:** Đạt Tầng 1 (Tân Nguyệt Vô Ngân).
+    - **Uy Lực Tăng Tiến:** Số lượng tàn ảnh tăng theo tầng; Tầng 4 có thể để lại "ảnh giả" đánh trả lại đòn tấn công vật lý.
 
 3.  **Hàn Băng Ngục (寒冰獄):**
-    - Phóng ra vô số luồng kiếm khí nhỏ li ti mang theo hơi lạnh thấu xương, bao vây đối thủ trong phạm vi hẹp. Làm chậm cử động của đối phương, gây tê liệt kinh mạch tạm thời.
+    - **Mô Tả:** Phóng ra vô số luồng kiếm khí nhỏ li ti mang theo hơi lạnh thấu xương, bao vây đối thủ trong phạm vi hẹp. Làm chậm cử động của đối phương, gây tê liệt kinh mạch tạm thời.
+    - **Yêu Cầu:** Đạt Tầng 2 (Bán Nguyệt Trảm Hồn).
+    - **Uy Lực Tăng Tiến:** Phạm vi đóng băng rộng hơn; Tầng 4 gây hiệu ứng "Đông Cứng" vĩnh viễn lên các bộ phận cơ thể bị trúng đòn.
 
 4.  **Ám Dạ Truy Hồn (暗夜追魂):**
-    - Chiêu thức ám sát, lợi dụng bóng tối hoặc điểm mù của đối thủ để tung ra đòn đánh bất ngờ vào tử huyệt từ phía sau.
+    - **Mô Tả:** Chiêu thức ám sát, lợi dụng bóng tối hoặc điểm mù của đối thủ để tung ra đòn đánh bất ngờ vào tử huyệt từ phía sau.
+    - **Yêu Cầu:** Đạt Tầng 2 (Bán Nguyệt Trảm Hồn).
+    - **Uy Lực Tăng Tiến:** Tầng 2 chỉ tăng tốc độ tiếp cận; Tầng 3 giúp che giấu sát khí hoàn toàn cho đến giây cuối cùng.
 
 5.  **Lãnh Nguyệt Vô Tình (冷月無情):**
-    - Kiếm khí mang theo ý chí lạnh lùng tuyệt đối, chém ra một đường cong hoàn hảo như trăng khuyết, cắt đứt mọi vật cản trên đường đi.
+    - **Mô Tả:** Kiếm khí mang theo ý chí lạnh lùng tuyệt đối, chém ra một đường cong hoàn hảo như trăng khuyết, cắt đứt mọi vật cản trên đường đi.
+    - **Yêu Cầu:** Đạt Tầng 3 (Huyền Nguyệt Truy Ảnh).
+    - **Uy Lực Tăng Tiến:** Tầng 3 chém đứt vũ khí cấp thấp; Tầng 4 chém đứt cả hộ thể linh khí của tu sĩ cùng cấp.
 
 6.  **Tàn Nguyệt Toái Hư (殘月碎虛):**
-    - Dồn toàn bộ linh lực và tinh thần vào một điểm duy nhất trên mũi kiếm, đâm thẳng vào điểm yếu nhất trong phòng ngự của đối phương. Có thể phá vỡ hộ thể linh khí.
+    - **Mô Tả:** Dồn toàn bộ linh lực và tinh thần vào một điểm duy nhất trên mũi kiếm, đâm thẳng vào điểm yếu nhất trong phòng ngự của đối phương. Có thể phá vỡ hộ thể linh khí.
+    - **Yêu Cầu:** Đạt Tầng 3 (Huyền Nguyệt Truy Ảnh).
+    - **Uy Lực Tăng Tiến:** Sức xuyên phá tăng mạnh; Tầng 4 có thể xuyên qua không gian ngắn để tấn công trực tiếp vào nội tạng.
 
 7.  **Nguyệt Hạ Độc Hành (月下獨行):**
-    - Trạng thái tâm cảnh đặc biệt, giúp người tu luyện gạt bỏ mọi tạp niệm, tập trung hoàn toàn vào mục tiêu, tăng cường thính giác và cảm nhận linh lực xung quanh.
+    - **Mô Tả:** Trạng thái tâm cảnh đặc biệt, giúp người tu luyện gạt bỏ mọi tạp niệm, tập trung hoàn toàn vào mục tiêu, tăng cường thính giác và cảm nhận linh lực xung quanh.
+    - **Yêu Cầu:** Đạt Tầng 4 (Tàn Nguyệt Tuyệt Sát).
+    - **Uy Lực Tăng Tiến:** Thời gian duy trì trạng thái lâu hơn; Tầng cao nhất giúp miễn nhiễm với các đòn tấn công tinh thần cấp thấp.
 
-## V. YÊU CẦU & HẠN CHẾ
+## VI. YÊU CẦU & HẠN CHẾ
 - **Công Hiệu Đặc Biệt:** Sát Thủ Chi Đạo giúp ẩn nấp hơi thở tốt, Nhãn Lực tăng khả năng quan sát dòng chảy khí huyết.
 - **Tác Dụng Phụ:** Do công pháp thiếu phần điều hòa khí huyết, mỗi khi vận công quá độ, người sử dụng sẽ bị luồng khí lạnh chạy ngược vào tim phổi (Hàn Độc Phản Phệ), gây đau đớn và suy yếu. Kiếm quyết này hoàn toàn không có chiêu thức phòng ngự.
 - **Yêu Cầu Tu Luyện:** Bắt buộc phải có Băng Linh Căn hoặc Thủy Linh Căn biến dị. Tâm tính cần sự lạnh lùng, quyết đoán.
+
+## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
+*Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
+- **Ý Nghĩa Khẩu Quyết:** Hình ảnh "Tàn Nguyệt" (Trăng khuyết/Trăng tàn) tượng trưng cho sự không trọn vẹn, sự mất mát và cái chết sắp đến. Bộ kiếm pháp này mang đậm màu sắc bi quan nhưng quyết liệt: biết mình sẽ chết nhưng vẫn tung ra đòn cuối cùng. Tầng 4 (Tuyệt Sát) thể hiện tinh thần "Cùng chết" (Mutually Assured Destruction).
+- **Cơ Chế Sức Mạnh:** Tàn Nguyệt Kiếm Quyết không mạnh về tổng thể (thiếu phòng thủ, sức bền kém) nhưng cực mạnh ở điểm "Bộc Phá" (Burst Damage). Nó đánh đổi mọi thứ để lấy một khoảnh khắc tỏa sáng, giống như ánh trăng trước khi lặn.
+- **Lời Bình:** Đây là công pháp dành cho những kẻ cảm tử, những người không còn gì để mất, hoặc những sát thủ chuyên nghiệp coi mạng sống nhẹ tựa lông hồng.

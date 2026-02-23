@@ -9,7 +9,12 @@
 - **Nguyên Lý:** Vận dụng linh lực hệ Băng ngưng tụ thành kiếm khí sắc bén như băng vỡ. Hấp thu hàn khí từ môi trường để gia tăng uy lực chiêu thức.
 - **Đặc Điểm:** Kiếm ý lạnh lẽo, thấu xương, không chỉ cắt đứt cơ thể vật lý mà còn làm đông cứng kinh mạch đối thủ. Khi thi triển, nhiệt độ xung quanh giảm mạnh.
 
-## III. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 4 tầng)
+## III. CÔNG DỤNG & HIỆU QUẢ
+- **Lợi Ích Tu Luyện:** Giúp người tu luyện giữ được cái đầu lạnh (tĩnh tâm), loại bỏ tạp niệm nóng nảy. Cơ thể trở nên bền bỉ trước môi trường khắc nghiệt.
+- **Khả Năng Chiến Đấu:** Thiên về khống chế (làm chậm, đóng băng) và phá giáp (nhờ độ cứng của băng). Đặc biệt lợi hại khi đối đầu với kẻ địch hệ Thủy hoặc Mộc.
+- **Hỗ Trợ Khác:** Có thể dùng hàn khí để bảo quản dược liệu, thi thể hoặc tạo ra môi trường tu luyện đặc biệt (Băng thất).
+
+## IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 4 tầng)
 
 ### 1. Tầng 1: Sương Hàn Sơ Hiện (霜寒初現)
 - **Mô Tả:** Luyện khí hóa sương, kiếm khí mang theo hơi lạnh mờ ảo, làm chậm cử động của đối thủ.
@@ -75,27 +80,45 @@
         > Cái lạnh tuyệt đối, không có sinh cũng không có diệt.
         > Chỉ có ta là tỉnh táo, nắm giữ quyền kiểm soát băng tuyết.
 
-## IV. HỆ THỐNG CHIÊU THỨC (6 Chiêu)
+## V. HỆ THỐNG CHIÊU THỨC (6 Chiêu)
 
 1.  **Tuyết Lạc Vô Thanh (雪落無聲):**
-    - Kiếm chiêu cực nhanh và nhẹ, không phát ra tiếng động khi xé gió, tấn công vào điểm yếu đối thủ một cách bất ngờ như tuyết rơi thầm lặng.
+    - **Mô Tả:** Kiếm chiêu cực nhanh và nhẹ, không phát ra tiếng động khi xé gió, tấn công vào điểm yếu đối thủ một cách bất ngờ như tuyết rơi thầm lặng.
+    - **Yêu Cầu:** Đạt Tầng 1 (Sương Hàn Sơ Hiện).
+    - **Uy Lực Tăng Tiến:** Tầng 1 gây xước da; Tầng 3 kiếm khí không còn hình dạng, hoàn toàn vô thanh vô tức.
 
 2.  **Sương Hàn Thấu Cốt (霜寒透骨):**
-    - Kiếm khí mang theo âm hàn cực độ, khi chạm vào đối thủ sẽ xâm nhập vào cơ thể, gây cảm giác lạnh buốt tận xương tủy, làm chậm phản xạ thần kinh.
+    - **Mô Tả:** Kiếm khí mang theo âm hàn cực độ, khi chạm vào đối thủ sẽ xâm nhập vào cơ thể, gây cảm giác lạnh buốt tận xương tủy, làm chậm phản xạ thần kinh.
+    - **Yêu Cầu:** Đạt Tầng 2 (Băng Phong Tam Xích).
+    - **Uy Lực Tăng Tiến:** Tầng 2 làm tê liệt cục bộ; Tầng 4 có thể đóng băng kinh mạch vĩnh viễn nếu không được giải trừ kịp thời.
 
 3.  **Băng Tinh Kiếm Thuẫn (冰晶劍盾):**
-    - Ngưng tụ hơi nước trong không khí thành những tinh thể băng hình kiếm xoay quanh người, vừa có tác dụng phòng thủ vừa phản sát thương khi kẻ địch tấn công gần.
+    - **Mô Tả:** Ngưng tụ hơi nước trong không khí thành những tinh thể băng hình kiếm xoay quanh người, vừa có tác dụng phòng thủ vừa phản sát thương khi kẻ địch tấn công gần.
+    - **Yêu Cầu:** Đạt Tầng 2 (Băng Phong Tam Xích).
+    - **Uy Lực Tăng Tiến:** Số lượng kiếm băng tăng lên; Tầng 4 kiếm băng trở nên trong suốt, khó bị phát hiện bằng mắt thường.
 
 4.  **Hàn Ảnh Trùng Trùng (寒影重重):**
-    - Di chuyển nhanh tạo ra nhiều tàn ảnh từ hơi lạnh, khiến đối thủ hoa mắt khó phân biệt hư thực, đồng thời mỗi tàn ảnh đều toả ra hàn khí gây rối loạn cảm giác.
+    - **Mô Tả:** Di chuyển nhanh tạo ra nhiều tàn ảnh từ hơi lạnh, khiến đối thủ hoa mắt khó phân biệt hư thực, đồng thời mỗi tàn ảnh đều toả ra hàn khí gây rối loạn cảm giác.
+    - **Yêu Cầu:** Đạt Tầng 3 (Hàn Tủy Thấu Tâm).
+    - **Uy Lực Tăng Tiến:** Tầng 3 tạo 3 ảnh ảo; Tầng 4 tạo 9 ảnh, mỗi ảnh có thể phóng ra một đòn kiếm khí yếu.
 
 5.  **Băng Phong Thiên Lý (冰封千里):**
-    - Cắm kiếm xuống đất hoặc chém mạnh vào không gian, phóng ra luồng kiếm khí cực hàn trên diện rộng, đóng băng mặt đất và làm chậm chuyển động của toàn bộ kẻ địch trong phạm vi.
+    - **Mô Tả:** Cắm kiếm xuống đất hoặc chém mạnh vào không gian, phóng ra luồng kiếm khí cực hàn trên diện rộng, đóng băng mặt đất và làm chậm chuyển động của toàn bộ kẻ địch trong phạm vi.
+    - **Yêu Cầu:** Đạt Tầng 3 (Hàn Tủy Thấu Tâm).
+    - **Uy Lực Tăng Tiến:** Phạm vi tăng từ 10 trượng lên 100 trượng; Tầng 4 có thể biến cả một hồ nước thành tảng băng lớn.
 
 6.  **Hàn Băng Tuyệt Vực (寒冰絕域):**
-    - Tuyệt kỹ tối thượng, tạo ra một vùng không gian lạnh giá tuyệt đối xung quanh, trong đó mọi chuyển động của vật chất đều bị đình trệ, kẻ địch như bị giam cầm trong khối băng vĩnh cửu.
+    - **Mô Tả:** Tuyệt kỹ tối thượng, tạo ra một vùng không gian lạnh giá tuyệt đối xung quanh, trong đó mọi chuyển động của vật chất đều bị đình trệ, kẻ địch như bị giam cầm trong khối băng vĩnh cửu.
+    - **Yêu Cầu:** Đạt Tầng 4 (Tuyệt Đối Linh Độ).
+    - **Uy Lực Tăng Tiến:** Tầng 4 không gian đóng băng trong 3 hơi thở; Nếu đạt cảnh giới cao hơn (như Nguyên Anh), có thể đóng băng cả linh hồn (Nguyên Thần).
 
-## V. YÊU CẦU & HẠN CHẾ
+## VI. YÊU CẦU & HẠN CHẾ
 - **Công Hiệu Đặc Biệt:** Làm chậm dòng chảy linh lực trong cơ thể địch nhân (Hiệu ứng Trì Trệ), gây áp lực tinh thần lớn.
 - **Tác Dụng Phụ:** Nếu lạm dụng quá mức hoặc cưỡng ép thi triển khi linh lực cạn kiệt, hàn khí sẽ xâm nhập ngược vào kinh mạch người sử dụng (Hàn Độc), gây tê liệt tạm thời hoặc tổn thương gốc rễ tu luyện.
 - **Yêu Cầu Tu Luyện:** Người tu luyện phải có Băng Linh Căn hoặc thể chất mang tính Hàn. Cần tu luyện ở nơi lạnh giá để đạt hiệu quả tốt nhất.
+
+## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
+*Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
+- **Ý Nghĩa Khẩu Quyết:** Bộ khẩu quyết nhấn mạnh vào sự "Tĩnh Lặng" và "Tuyệt Tình". Băng tuyết không biết nói, cũng không biết yêu thương. Người luyện kiếm này phải học cách đóng cửa trái tim, trở nên lạnh lùng như băng để đạt đến cảnh giới tối cao.
+- **Cơ Chế Sức Mạnh:** Sức mạnh của Hàn Sương Kiếm Quyết không nằm ở sự hủy diệt bùng nổ mà ở sự "Tước Đoạt". Nó tước đoạt nhiệt lượng, tước đoạt sự chuyển động, và cuối cùng là tước đoạt sự sống một cách từ từ nhưng không thể cưỡng lại.
+- **Lời Bình:** Đây là công pháp đáng sợ, biến người sử dụng thành một cỗ máy giết chóc lạnh lùng. Tuy nhiên, cái giá phải trả là sự cô đơn (Tầng 4: Duy ngã độc tỉnh - Chỉ mình ta tỉnh thức giữa sự chết chóc).
