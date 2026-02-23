@@ -42,8 +42,14 @@
 - **Cửu Hoa Kiếm Tông (Đông Hoang):**
     - Tông môn kiếm tu hạng Nhất, nổi tiếng với quy tắc nghiêm khắc và kiếm trận hộ sơn.
     - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Cuu_Hoa_Kiem_Tong.md`.
+- **Đan Hà Cốc (Nam Cương):**
+    - Tông môn đan đạo hạng Nhất, nằm trong miệng núi lửa, nổi tiếng với thuật luyện đan và hỏa công.
+    - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Đan_Hà_Cốc.md`.
 
 ## VII. CÔNG PHÁP & BÍ KÍP
+- **Cửu Chuyển Đan Hỏa Quyết (Thiên Cấp Hạ Phẩm):**
+    - Công pháp trấn phái của Đan Hà Cốc, tu luyện ra ngọn lửa đặc biệt dùng để luyện đan và chiến đấu.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Cửu_Chuyển_Đan_Hỏa_Quyết.md`.
 - **Cửu Hoa Kiếm Quyết (Thiên Cấp Hạ Phẩm):**
     - Công pháp trấn phái của Cửu Hoa Kiếm Tông, thiên về tốc độ và sát thương diện rộng (dạng hoa sen).
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Cuu_Hoa_Kiem_Quyet.md`.
@@ -52,11 +58,15 @@
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Hàn_Sương_Kiếm_Quyết.md`.
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
+- **Vạn Hỏa Phần Thiên Trận (Cửu Cấp):**
+    - Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù.
+    - **Chi Tiết:** Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
 - **Cửu Hoa Tru Tiên Trận (Cửu Cấp):**
     - Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện.
     - **Chi Tiết:** Xem tại `Đạo/Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md`.
 
 ## IX. CẬP NHẬT GẦN NHẤT
+- **Mới:** Xây dựng Đan Hà Cốc (Thế lực, Công pháp, Trận pháp).
 ## VI. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
     - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
