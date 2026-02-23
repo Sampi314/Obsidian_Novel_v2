@@ -49,6 +49,7 @@ Khi mô tả một công pháp, hãy sử dụng định dạng sau:
 
 ## IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành [X] tầng)
 *Công pháp được chia làm nhiều tầng, mỗi tầng có khẩu quyết tâm pháp riêng. Tầng càng cao khẩu quyết càng thâm sâu.*
+*Lưu ý về hình thức khẩu quyết: Có thể là thơ (4 chữ, 5 chữ, 7 chữ...), văn xuôi (kệ, cú pháp cổ...), hoặc câu đố thiền. Tuy nhiên, **phải thống nhất một hình thức duy nhất xuyên suốt toàn bộ các tầng của công pháp đó**.*
 
 ### 1. Tầng [Số]: [Tên Tầng - Hán Việt]
 - **Mô Tả:** [Quá trình tu luyện, trạng thái đạt được ở tầng này]
@@ -80,7 +81,7 @@ Khi mô tả một công pháp, hãy sử dụng định dạng sau:
 
 ## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
-- **Ý Nghĩa Khẩu Quyết:** [Giải thích sâu hơn về triết lý đạo pháp ẩn trong các câu thơ]
+- **Ý Nghĩa Khẩu Quyết:** [Giải thích sâu hơn về triết lý đạo pháp ẩn trong các câu thơ/văn xuôi]
 - **Cơ Chế Sức Mạnh:** [Giải thích tại sao công pháp lại mạnh/yếu như vậy]
 - **Lời Bình:** [Nhận xét về vị thế của công pháp trong thế giới tu tiên]
 
