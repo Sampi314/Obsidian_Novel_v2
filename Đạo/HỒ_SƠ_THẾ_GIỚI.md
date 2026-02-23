@@ -37,6 +37,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lam_Phong.md`.
 - **Sở Lăng Sương (Băng Phách Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, trọng nghĩa. Sở hữu *Hàn Sương Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Sở_Lăng_Sương.md`.
+- **Hàn Thanh Nguyệt (Tàn Nguyệt Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Xuất thân bần hàn, tính cách thực dụng, lạnh lùng nhưng bảo vệ kẻ yếu. Sở hữu *Tàn Nguyệt Kiếm Quyết*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hàn_Thanh_Nguyệt.md`.
 
 ## VI. CÁC THẾ LỰC
 - **Cửu Hoa Kiếm Tông (Đông Hoang):**
@@ -50,6 +52,9 @@
 - **Hàn Sương Kiếm Quyết (Huyền Cấp Thượng Phẩm):**
     - Công pháp hệ Băng, thiên về khống chế và làm chậm, có thể gây Hàn Độc.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Hàn_Sương_Kiếm_Quyết.md`.
+- **Tàn Nguyệt Kiếm Quyết (Huyền Cấp Trung Phẩm):**
+    - Kiếm pháp tàn khuyết hệ Băng, thiên về tốc độ và sát thương điểm yếu, cực kỳ hiểm hóc.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Tàn_Nguyệt_Kiếm_Quyết.md`.
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Cửu Hoa Tru Tiên Trận (Cửu Cấp):**
@@ -80,3 +85,4 @@
 - Thêm mới Kỳ vật: Hỏa Linh Thảo.
 - **Mới:** Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc (Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch).
 - **Mới:** Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
+- **Mới:** Tạo nhân vật Hàn Thanh Nguyệt và công pháp Tàn Nguyệt Kiếm Quyết.
