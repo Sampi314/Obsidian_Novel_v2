@@ -22,6 +22,13 @@ Tuy nhiên, sau khi Nhân Tộc trỗi dậy và sáng tạo ra vô số công p
 > *"Đừng để nụ cười của ả hồ ly đánh lừa ngươi. Bên dưới lớp lụa là móng vuốt, và bên trong lời đường mật là nọc độc ngàn năm."*
 > — *Lời cảnh báo của sư phụ dành cho đệ tử xuống núi*
 
+### Lễ Hội Huyết Nguyệt (Tế Tổ)
+Cứ mỗi trăm năm, khi mặt trăng chuyển sang màu đỏ như máu (Huyết Nguyệt), Yêu Tộc khắp nơi sẽ gác lại ân oán để cùng hướng về Vạn Yêu Sơn.
+Tại đây, họ tổ chức đại lễ tế tổ, đánh thức dòng máu Thượng Cổ đang ngủ quên trong huyết quản. Trong đêm này, nhiều Yêu thú bình thường có thể đột phá giới hạn, thức tỉnh huyết mạch Chân Linh (như Hóa Rồng, Hóa Phượng), nhưng cũng có kẻ phát điên vì không chịu nổi sức mạnh hoang dã trỗi dậy.
+
+> *"Máu gọi máu, hồn gọi hồn. Dưới ánh trăng đỏ, chúng ta trở về với bản nguyên hoang dã nhất."*
+> — *Lời cầu nguyện của Đại Tế Tư Hồ Tộc*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Đông Hoang (Vạn Yêu Sơn Mạch), rừng rậm nguyên sinh.
 - **Đặc Thù:** Những nơi linh khí hỗn loạn, hoang dã.

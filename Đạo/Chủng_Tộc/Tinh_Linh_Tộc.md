@@ -22,3 +22,10 @@
 ## V. LỊCH SỬ & HUYỀN THOẠI
 - **Nguồn Gốc:** Tương truyền sinh ra từ những giọt nước mắt của Nữ Thần Sinh Mệnh rơi xuống lá cây đầu tiên của thế giới.
 - **Bi Kịch Thời Đại:** Trong Kỷ Nguyên Khởi Nguyên, khi các tộc khác tranh giành lãnh thổ, rừng rậm bị tàn phá. Tinh Linh Tộc buộc phải rút lui sâu vào những bí cảnh cuối cùng, mang theo nỗi buồn vĩnh cửu về một thế giới xanh tươi đang chết dần.
+
+### Lời Than Khóc Của Thần Mộc (Sự Suy Tàn)
+Mỗi bộ tộc Tinh Linh đều gắn liền sinh mệnh với một cây Thần Mộc cổ thụ. Nhưng ở Kỷ Nguyên này, khi linh khí ô trược, nhiều Thần Mộc bắt đầu héo úa từ bên trong.
+Để cứu vãn, Tinh Linh Tộc đã phải thực hiện nghi thức "Hiến Tế Sinh Mệnh", dùng tuổi thọ của chính mình để nuôi dưỡng rễ cây. Điều này khiến tuổi thọ trung bình của Tinh Linh giảm mạnh so với thời Thượng Cổ, và nụ cười trên môi họ cũng ngày càng hiếm hoi. Họ trở thành những kẻ canh giữ nỗi buồn, đẹp đẽ nhưng mong manh.
+
+> *"Khi chiếc lá cuối cùng rơi xuống, chúng ta cũng sẽ tan vào gió. Nhưng chừng nào rễ cây còn bám đất, Tinh Linh sẽ không bao giờ cúi đầu."*
+> — *Nữ Hoàng Tinh Linh đệ nhất*

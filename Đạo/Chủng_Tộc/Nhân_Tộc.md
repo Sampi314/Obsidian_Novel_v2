@@ -31,6 +31,13 @@ Nhân tộc tự hào về nền ẩm thực phong phú, coi việc dùng lửa 
 > Bước vào Tiên lộ, mệnh do Ta."*
 > — *Câu đối trước cổng Thanh Vân Môn*
 
+### Sự Tiến Hóa Của Giao Thương & Tiền Tệ
+Vào thuở sơ khai, Nhân Tộc trao đổi hàng hóa bằng vật phẩm (lấy gạo đổi muối). Khi Tu Tiên Giới hình thành, các tu sĩ phát hiện ra Linh Thạch - loại đá chứa linh khí tinh thuần.
+Trải qua hàng ngàn năm, Linh Thạch không chỉ là tài nguyên tu luyện mà đã trở thành đồng tiền chung cho cả phàm nhân và tu sĩ. Hệ thống quy đổi từ Hạ Phẩm, Trung Phẩm đến Thượng Phẩm và Cực Phẩm Linh Thạch đã tạo nên một nền kinh tế phức tạp, nơi một viên Linh Thạch có thể mua được cả một thành trì phàm nhân nhưng chỉ đủ mua một ấm trà đạo ngộ.
+
+> *"Đừng hỏi giá trị của viên đá, hãy hỏi xem mạng của ngươi đáng bao nhiêu linh khí."*
+> — *Lời răn của Thương Hội Vạn Bảo*
+
 ## IV. NƠI SINH SỐNG
 - **Phân Bố:** Rộng khắp Bàn Cổ Lục Địa.
 - **Trung Tâm:** Trung Châu (nơi linh khí hội tụ, văn minh rực rỡ nhất). Ngoài ra còn có Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.

@@ -22,6 +22,13 @@ Tuy nhiên, trong Kỷ Nguyên Khởi Nguyên đầy loạn lạc, nhiều kẻ 
 > *"Đừng chôn ta dưới đất lạnh lẽo, hãy để gió cuốn ta đi. Ta muốn được nhìn ngắm thế gian này lần cuối từ trên cao, tự do như thuở ban đầu."*
 > — *Di ngôn của Cánh Trắng - Tộc trưởng Vũ Tộc đời thứ 9*
 
+### Vũ Điệu Cầu Phong (Vũ Khúc)
+Vũ Tộc không dùng lời nói để tỏ tình hay tuyên chiến, họ dùng vũ điệu trên không.
+"Vũ Điệu Cầu Phong" ban đầu là nghi thức cầu mưa thuận gió hòa. Dần dần, nó phát triển thành một nghệ thuật chiến đấu và giao tiếp tinh tế. Những cú lộn vòng, bổ nhào cắt gió không chỉ đẹp mắt mà còn chứa đựng ám hiệu quân sự hoặc lời thề nguyện ước lứa đôi. Một vũ công Vũ Tộc giỏi cũng chính là một sát thủ bầu trời đáng sợ nhất.
+
+> *"Gió là nhạc, cánh là đàn. Mỗi nhịp đập là một nốt nhạc của sự sống và cái chết."*
+> — *Thi sĩ Vũ Tộc - Thanh Phong*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các đỉnh núi cao (Thiên Sơn), đảo bay lơ lửng (nếu có), rừng già tầng thượng.
 - **Khí Hậu:** Ưa thích nơi thoáng đãng, nhiều gió.

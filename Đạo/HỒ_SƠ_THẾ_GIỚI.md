@@ -126,3 +126,4 @@
 - **Mới:** Bồi đắp chi tiết Nhân Tộc (Ẩm thực & Nghi lễ trưởng thành).
 - **Mới:** Bồi đắp chi tiết toàn bộ các chủng tộc (Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch) với yếu tố thời gian và sự tiến hóa tập tục.
 - **Mới:** Khởi tạo chủng tộc Tinh Linh Tộc (Ngoại hình, Văn hóa, Lịch sử).
+- **Mới:** Bồi đắp chuyên sâu lần 2 cho 10 chủng tộc (Kinh tế, Sinh tồn, Nghệ thuật, Tín ngưỡng).

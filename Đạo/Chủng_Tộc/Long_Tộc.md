@@ -22,6 +22,13 @@ Ngày nay, phần lớn Long Tộc đã di cư xuống Vô Tận Hải, xây d�
 > *"Xưa kia vỗ cánh che trời, nay lại cuộn mình dưới đáy nước sâu. Phải chăng biển cả bao dung hơn bầu trời, hay vì lòng kiêu hãnh đã bị thời gian bào mòn?"*
 > — *Trích "Long Tộc Sử Ký" - Chương Di Cư*
 
+### Nghi Thức Ấp Trứng & Nỗi Lo Duy Trì Nòi Giống
+Trong Kỷ Nguyên Khởi Nguyên, tỷ lệ sinh của Long Tộc giảm sút nghiêm trọng do linh khí thiên địa không còn đủ tinh thuần để nuôi dưỡng Long Thai. Một quả trứng rồng có thể mất cả ngàn năm mới nở, hoặc vĩnh viễn hóa đá.
+Để đối phó, Long Tộc đã phát triển "Long Huyết Trận" - một nghi thức tàn khốc buộc các Long Tộc cấp thấp (Giao, Á Long) phải hiến tế huyết tinh để nuôi dưỡng trứng của Chân Long. Điều này đã tạo ra sự phân hóa giai cấp sâu sắc và mâu thuẫn ngầm trong nội bộ tộc rồng.
+
+> *"Một tiếng rồng gầm chào đời, đánh đổi bằng vạn tiếng khóc than của đồng loại. Sự cao quý này liệu có bền lâu?"*
+> — *Lời tự sự của một Giao Long lưu lạc*
+
 ## IV. NƠI SINH SỐNG
 - **Chính:** Vô Tận Hải (Đông Hải Long Cung, Tây Hải...).
 - **Phụ:** Các đại trạch, đầm lầy lớn hoặc long mạch linh thiêng trên đất liền.
