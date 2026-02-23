@@ -1,7 +1,7 @@
 ---
 dạng_cấu_trúc: C3
 ---
-**Khởi Nguyên Đạo Ca (起源道歌)**
+**Vấn Đạo Hành (問道行)**
 
 ### 📐 Cấu Trúc Đã Chọn
 > Dạng: C3 (Cổ Phong Tự Sự) | Tổng chữ mục tiêu: ~250 | Ngôn ngữ: 60% văn ngôn
