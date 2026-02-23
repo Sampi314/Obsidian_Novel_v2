@@ -1,0 +1,2 @@
+- **Đã tạo:** Hàn Ngọc Kiếm (Huyền Cấp Thượng Phẩm).
+- **Mô tả:** Kiếm hàn băng của Sở Lăng Sương, làm từ Hàn Ngọc.
