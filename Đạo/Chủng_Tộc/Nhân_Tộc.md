@@ -15,6 +15,22 @@
 - **Giá Trị Quan:** Coi trọng Tình (Hiếu, Nghĩa, Trung) và Đạo (Lý tưởng tu hành).
 - **Tín Ngưỡng:** Thờ phụng Thiên Địa, Tổ Tiên, hoặc các bậc Đại Năng (Thánh Nhân, Tiên Đế).
 
+### Ẩm Thực Truyền Thống
+Nhân tộc tự hào về nền ẩm thực phong phú, coi việc dùng lửa nấu chín thức ăn (Hỏa Thực) là ranh giới phân biệt với dã thú.
+- **Ngũ Cốc:** Là nguồn sống chính, mang ý nghĩa tinh thần về sự ấm no. Trong các dịp lễ, họ thường làm "Bánh Ngũ Sắc" từ năm loại gạo nếp nhuộm màu thảo mộc, tượng trưng cho Ngũ Hành tương sinh.
+- **Rượu:** Được xem là tinh hoa của ngũ cốc, dùng để tế lễ và giao đãi. Các tu sĩ còn ủ "Linh Tửu" từ linh dược để gia tăng tu vi.
+
+> *"Bát cơm dẻo thơm mùi lúa mới, hơn cả ngàn vạn sơn hào hải vị. Đó là hương vị của Đất Mẹ, của mồ hôi và sự sống."*
+> — *Thi Tiên Lý Bạch (dân gian truyền tụng)*
+
+### Nghi Lễ Trưởng Thành
+- **Phàm Nhân - Lễ Quán Tuế:** Khi nam nữ tròn 16 tuổi, họ sẽ được trưởng bối làm lễ búi tóc (nam) hoặc cài trâm (nữ), chính thức được coi là người lớn, phải gánh vác trách nhiệm gia đình.
+- **Tu Tiên Giới - Lễ Khai Linh:** Trẻ em lên 6 tuổi sẽ được tham gia Lễ Khai Linh (hoặc Trắc Linh) để kiểm tra Linh Căn. Khoảnh khắc bàn tay đứa trẻ chạm vào Trắc Linh Thạch là giây phút định đoạt vận mệnh: một bước lên tiên hoặc ở lại trần gian.
+
+> *"Phàm trần trăm năm như mộng ảo,
+> Bước vào Tiên lộ, mệnh do Ta."*
+> — *Câu đối trước cổng Thanh Vân Môn*
+
 ## IV. NƠI SINH SỐNG
 - **Phân Bố:** Rộng khắp Bàn Cổ Lục Địa.
 - **Trung Tâm:** Trung Châu (nơi linh khí hội tụ, văn minh rực rỡ nhất). Ngoài ra còn có Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.

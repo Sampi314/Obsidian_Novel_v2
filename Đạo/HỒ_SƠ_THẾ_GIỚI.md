@@ -122,3 +122,4 @@
 - **Mới:** Sáng tác thơ "Độc Ẩm Dưới Trăng".
 - **Mới:** Tạo nhân vật Triệu Thanh Hằng và công pháp Lãnh Phong Kiếm Quyết.
 - **Mới:** Sáng tác ca khúc "Hồng Trần Vọng".
+- **Mới:** Bồi đắp chi tiết Nhân Tộc (Ẩm thực & Nghi lễ trưởng thành).
