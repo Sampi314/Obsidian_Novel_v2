@@ -12,25 +12,151 @@
     - Có khả năng hấp thụ hỏa khí từ môi trường để hồi phục nhanh chóng.
     - Đặc biệt hiệu quả trong việc luyện đan, giúp kiểm soát nhiệt độ lò cực kỳ chính xác.
 
-## III. KHẨU QUYẾT & TỔNG CƯƠNG (MANTRA)
+## III. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 9 tầng)
 
-1.  **Nguyên Văn (Trung):**
-    > 地火焚天，丹心煉道。
-    > 九轉金身，神魂不滅。
-    > 欲求長生，先死後生。
-    > 萬法歸一，火中涅槃。
+### 1. Tầng 1: Dẫn Hỏa Nhập Thể (引火入體)
+- **Mô Tả:** Giai đoạn đầu tiên, người tu luyện hấp thụ hỏa linh khí từ môi trường vào cơ thể, tôi luyện kinh mạch sơ bộ để chịu đựng nhiệt độ cao.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 天地之火，源於自然。
+        > 引氣入體，鍛造金堅。
+        > 初心不改，烈火燎原。
+    2.  **Phiên Âm Hán Việt:**
+        > Thiên địa chi hỏa, nguyên ư tự nhiên.
+        > Dẫn khí nhập thể, đoán tạo kim kiên.
+        > Sơ tâm bất cải, liệt hỏa liêu nguyên.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Lửa của trời đất có nguồn gốc từ tự nhiên.
+        > Dẫn khí vào cơ thể, rèn luyện cho cứng như vàng.
+        > Giữ vững tâm ban đầu không thay đổi, lửa mạnh sẽ lan ra khắp đồng bằng.
 
-2.  **Phiên Âm Hán Việt:**
-    > Địa hỏa phần thiên, đan tâm luyện đạo.
-    > Cửu chuyển kim thân, thần hồn bất diệt.
-    > Dục cầu trường sinh, tiên tử hậu sinh.
-    > Vạn pháp quy nhất, hỏa trung niết bàn.
+### 2. Tầng 2: Luyện Tinh Hóa Khí (煉精化氣)
+- **Mô Tả:** Chuyển hóa tinh hoa của cơ thể và hỏa khí thành chân khí bản mệnh, bắt đầu hình thành "Đan Hỏa" trong đan điền.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 精氣合一，火種深藏。
+        > 百脈通達，神采飛揚。
+        > 煉去凡胎，始見真陽。
+    2.  **Phiên Âm Hán Việt:**
+        > Tinh khí hợp nhất, hỏa chủng thâm tàng.
+        > Bách mạch thông đạt, thần thải phi dương.
+        > Luyện khứ phàm thai, thủy kiến chân dương.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Tinh và khí hợp làm một, mầm lửa giấu kín bên trong.
+        > Trăm kinh mạch đều thông suốt, thần thái rạng rỡ bay bổng.
+        > Luyện bỏ đi cốt phàm, mới bắt đầu thấy được dương khí chân chính.
 
-3.  **Dịch Nghĩa (Sát Nghĩa):**
-    > Lửa từ lòng đất thiêu đốt bầu trời, tấm lòng son sắt (hoặc trái tim đan dược) tôi luyện Đạo.
-    > Chín lần chuyển hóa tạo nên thân thể vàng ròng, linh hồn thần thánh không bao giờ bị tiêu diệt.
-    > Muốn cầu được sự sống lâu dài (trường sinh), trước hết phải trải qua cái chết rồi mới được sống lại.
-    > Vạn pháp thuật quay về một mối, trong ngọn lửa mà đạt được niết bàn (tái sinh).
+### 3. Tầng 3: Đan Hỏa Sơ Thành (丹火初成)
+- **Mô Tả:** Ngọn lửa Đan Hỏa chính thức hình thành, có màu đỏ rực, nóng hơn lửa thường gấp mười lần.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 丹田火起，色若紅蓮。
+        > 焚燒雜質，淨化心田。
+        > 掌控自如，意動火燃。
+    2.  **Phiên Âm Hán Việt:**
+        > Đan điền hỏa khởi, sắc nhược hồng liên.
+        > Phần thiêu tạp chất, tịnh hóa tâm điền.
+        > Chưởng khống tự như, ý động hỏa nhiên.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Lửa nổi lên ở đan điền, màu sắc như hoa sen đỏ.
+        > Thiêu đốt các tạp chất, làm sạch ruộng tâm (tâm hồn).
+        > Kiểm soát tự nhiên như ý muốn, ý nghĩ vừa động thì lửa đã cháy.
+
+### 4. Tầng 4: Tam Muội Chân Hỏa (三昧真火)
+- **Mô Tả:** Lửa biến đổi về chất, có khả năng thiêu đốt cả những vật vô hình như tà khí, ma niệm.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 精氣神聚，三昧火生。
+        > 無物不焚，破除妄情。
+        > 煉魔蕩穢，道心澄明。
+    2.  **Phiên Âm Hán Việt:**
+        > Tinh khí thần tụ, tam muội hỏa sinh.
+        > Vô vật bất phần, phá trừ vọng tình.
+        > Luyện ma đãng uế, đạo tâm trừng minh.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Tinh, Khí, Thần tụ lại, lửa Tam Muội sinh ra.
+        > Không vật gì không đốt cháy được, phá bỏ những tình cảm hư vọng.
+        > Luyện hóa ma quỷ, quét sạch nhơ bẩn, lòng đạo trở nên trong sáng.
+
+### 5. Tầng 5: Ngũ Hành Tương Sinh (五行相生)
+- **Mô Tả:** Dùng Mộc khí để nuôi dưỡng Hỏa khí, khiến lửa cháy mãi không tắt, sinh sôi bất tận.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 木能生火，生生不息。
+        > 五行流轉，陰陽調適。
+        > 枯木逢春，火勢更烈。
+    2.  **Phiên Âm Hán Việt:**
+        > Mộc năng sinh hỏa, sinh sinh bất tức.
+        > Ngũ hành lưu chuyển, âm dương điều thích.
+        > Khô mộc phùng xuân, hỏa thế canh liệt.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Gỗ có thể sinh ra lửa, sự sống tiếp diễn không ngừng nghỉ.
+        > Ngũ hành luân chuyển, âm dương điều hòa thích hợp.
+        > Cây khô gặp mùa xuân (hồi sinh), thế lửa càng thêm mãnh liệt.
+
+### 6. Tầng 6: Liệt Diễm Phần Thân (烈焰焚身)
+- **Mô Tả:** Giai đoạn nguy hiểm nhất, dùng chính ngọn lửa của mình để thiêu đốt cơ thể, tái tạo lại xương cốt và da thịt.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 欲成大道，必承其重。
+        > 引火自焚，脫胎換骨。
+        > 痛苦極致，方得超脫。
+    2.  **Phiên Âm Hán Việt:**
+        > Dục thành đại đạo, tất thừa kỳ trọng.
+        > Dẫn hỏa tự phần, thoát thai hoán cốt.
+        > Thống khổ cực trí, phương đắc siêu thoát.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Muốn thành tựu đại đạo, ắt phải chịu đựng sức nặng của nó.
+        > Dẫn lửa tự thiêu đốt mình, thay da đổi thịt (tái sinh).
+        > Đau khổ đến cùng cực, mới có thể đạt được sự siêu thoát.
+
+### 7. Tầng 7: Cửu Chuyển Kim Thân (九轉金身)
+- **Mô Tả:** Cơ thể sau khi tái tạo trở nên cứng rắn như vàng ròng, bách độc bất xâm, thủy hỏa bất nhập.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 九轉功成，金身顯現。
+        > 刀槍不入，萬法難變。
+        > 屹立天地，唯我獨尊。
+    2.  **Phiên Âm Hán Việt:**
+        > Cửu chuyển công thành, kim thân hiển hiện.
+        > Đao thương bất nhập, vạn pháp nan biến.
+        > Ngật lập thiên địa, duy ngã độc tôn.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Chín lần chuyển hóa thành công, thân thể vàng ròng hiện ra.
+        > Đao thương không đâm vào được, vạn phép thuật khó làm thay đổi.
+        > Đứng sừng sững giữa trời đất, chỉ có ta là tôn quý nhất.
+
+### 8. Tầng 8: Thần Hồn Niết Bàn (神魂涅槃)
+- **Mô Tả:** Lửa không chỉ tôi luyện thân thể mà còn tôi luyện linh hồn, giúp thần hồn trở nên tinh khiết và mạnh mẽ.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 形神俱妙，火裡栽蓮。
+        > 魂游太虛，亦幻亦真。
+        > 死生契闊，涅槃重生。
+    2.  **Phiên Âm Hán Việt:**
+        > Hình thần câu diệu, hỏa lý tài liên.
+        > Hồn du thái hư, diệc ảo diệc chân.
+        > Tử sinh khế khoát, niết bàn trùng sinh.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Hình thể và tinh thần đều kỳ diệu, như trồng hoa sen trong lửa.
+        > Linh hồn dạo chơi nơi thái hư, vừa là ảo vừa là thật.
+        > Sống chết gắn bó, niết bàn để sống lại lần nữa.
+
+### 9. Tầng 9: Cửu Chuyển Quy Chân (九轉歸真)
+- **Mô Tả:** Cảnh giới tối cao, lửa đã trở thành một phần của bản nguyên, tùy tâm sở dục, đạt đến trạng thái phản phác quy chân.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 九九歸一，大道無形。
+        > 丹火熄滅，萬物生靈。
+        > 此心即道，永恆光明。
+    2.  **Phiên Âm Hán Việt:**
+        > Cửu cửu quy nhất, đại đạo vô hình.
+        > Đan hỏa tức diệt, vạn vật sinh linh.
+        > Thử tâm tức đạo, vĩnh hằng quang minh.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Chín chín quay về một, đại đạo không có hình dáng.
+        > Khi đan hỏa tắt đi (ẩn vào trong), vạn vật sinh sôi nảy nở.
+        > Tâm này chính là đạo, ánh sáng tồn tại vĩnh hằng.
 
 ## IV. HỆ THỐNG CHIÊU THỨC (5 Chiêu)
 

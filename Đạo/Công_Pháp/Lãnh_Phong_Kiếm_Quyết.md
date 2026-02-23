@@ -9,25 +9,71 @@
 - **Nguyên Lý:** Lấy tốc độ của gió làm chủ đạo, gia thêm cái lạnh thấu xương của băng tuyết. Kiếm chiêu không chỉ nhanh mà còn mang theo kình lực sắc bén như dao cắt của gió bão.
 - **Đặc Điểm:** Tập trung vào việc "bào mòn" và "cắt xẻ". Hàn khí xâm nhập qua vết thương, làm đông cứng máu huyết và kinh mạch từ bên trong, khiến đối thủ càng đánh càng chậm chạp.
 
-## III. KHẨU QUYẾT & TỔNG CƯƠNG (MANTRA)
+## III. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 4 tầng)
 
-1.  **Nguyên Văn (Trung):**
-    > 風起雲散，冷月如鉤。
-    > 劍行無影，寒氣封喉。
-    > 狂風卷雪，萬里皆愁。
-    > 唯快不破，一劍斷流。
+### 1. Tầng 1: Tật Phong Vô Ảnh (疾風無影)
+- **Mô Tả:** Luyện kiếm nhanh như gió lốc, chú trọng thân pháp và tốc độ xuất chiêu, khiến đối thủ không kịp nhìn thấy bóng kiếm.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 風起雲湧，動若脫兔。
+        > 劍走偏鋒，快如雷露。
+        > 身隨風行，去留無路。
+    2.  **Phiên Âm Hán Việt:**
+        > Phong khởi vân dũng, động nhược thoát thố.
+        > Kiếm tẩu thiên phong, khoái như lôi lộ.
+        > Thân tùy phong hành, khứ lưu vô lộ.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Gió nổi lên mây cuồn cuộn, động tác nhanh như thỏ chạy.
+        > Kiếm đi theo đường hiểm, nhanh như sấm chớp.
+        > Thân thể nương theo gió mà đi, đến hay đi đều không để lại dấu vết.
 
-2.  **Phiên Âm Hán Việt:**
-    > Phong khởi vân tán, lãnh nguyệt như câu.
-    > Kiếm hành vô ảnh, hàn khí phong hầu.
-    > Cuồng phong quyển tuyết, vạn lý giai sầu.
-    > Duy khoái bất phá, nhất kiếm đoạn lưu.
+### 2. Tầng 2: Liệt Phong Đoạn Thạch (烈風斷石)
+- **Mô Tả:** Gió không chỉ nhanh mà còn mạnh, ngưng tụ thành lưỡi dao vô hình có thể cắt đá phá sắt.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 狂風怒號，裂石穿金。
+        > 氣貫長虹，銳不可侵。
+        > 劍鋒所至，無堅不摧。
+    2.  **Phiên Âm Hán Việt:**
+        > Cuồng phong nộ hào, liệt thạch xuyên kim.
+        > Khí quán trường hồng, nhuệ bất khả xâm.
+        > Kiếm phong sở chí, vô kiên bất tồi.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Gió điên cuồng gào thét, nứt đá xuyên vàng.
+        > Khí thế xuyên suốt cầu vồng, sắc bén không thể xâm phạm.
+        > Mũi kiếm đi đến đâu, không vật cứng nào không bị phá hủy.
 
-3.  **Dịch Nghĩa (Sát Nghĩa):**
-    > Gió nổi lên mây tan tác, trăng lạnh cong như lưỡi câu.
-    > Kiếm đi không để lại bóng dáng, khí lạnh phong tỏa yết hầu.
-    > Gió cuồng cuốn theo tuyết, vạn dặm đều nhuốm màu sầu thảm.
-    > Chỉ có tốc độ là không thể phá vỡ, một kiếm chém đứt dòng chảy.
+### 3. Tầng 3: Hàn Phong Thấu Cốt (寒風透骨)
+- **Mô Tả:** Kết hợp hàn khí vào trong gió, mỗi nhát kiếm chém ra mang theo luồng khí lạnh buốt, làm đông cứng máu huyết nơi vết thương.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 冷風蕭瑟，寒氣逼人。
+        > 凍結經脈，封鎖心神。
+        > 劍帶霜雪，絕情斷魂。
+    2.  **Phiên Âm Hán Việt:**
+        > Lãnh phong tiêu sắt, hàn khí bức nhân.
+        > Đống kết kinh mạch, phong tỏa tâm thần.
+        > Kiếm đai sương tuyết, tuyệt tình đoạn hồn.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Gió lạnh hiu hắt, khí lạnh ép người.
+        > Đóng băng kinh mạch, phong tỏa tâm thần.
+        > Kiếm mang theo sương tuyết, dứt tình đoạn hồn.
+
+### 4. Tầng 4: Tịch Diệt Hư Phong (寂滅虛風)
+- **Mô Tả:** Gió biến mất, chỉ còn lại sự trống rỗng (chân không) và cái lạnh của vũ trụ, hủy diệt mọi sự sống trong phạm vi.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 風過無痕，萬籟俱寂。
+        > 虛空破碎，歸於塵溺。
+        > 唯有一劍，永恆孤立。
+    2.  **Phiên Âm Hán Việt:**
+        > Phong quá vô ngân, vạn lại câu tịch.
+        > Hư không phá toái, quy ư trần nịch.
+        > Duy hữu nhất kiếm, vĩnh hằng cô lập.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Gió đi qua không dấu vết, mọi âm thanh đều im lặng (chết chóc).
+        > Hư không vỡ nát, quay về với bụi trần chìm đắm.
+        > Chỉ có một thanh kiếm, cô độc vĩnh hằng.
 
 ## IV. HỆ THỐNG CHIÊU THỨC (7 Chiêu)
 

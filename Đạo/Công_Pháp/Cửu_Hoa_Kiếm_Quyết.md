@@ -9,25 +9,87 @@
 - **Nguyên Lý:** Lấy sắc bén của Kim khí kết hợp với sinh cơ của Mộc khí. Kiếm khí không chỉ sắc bén mà còn biến ảo, tụ tán vô thường như hoa nở hoa tàn.
 - **Đặc Điểm:** Khi thi triển, kiếm khí ngưng tụ thành hình hoa sen 9 cánh. Mỗi cánh hoa là một đạo kiếm khí cực mạnh. Khi chạm vào mục tiêu, "hoa" sẽ "nở" (bùng nổ), tạo ra sát thương diện rộng và cắt nát đối thủ từ bên trong.
 
-## III. KHẨU QUYẾT & TỔNG CƯƠNG (MANTRA)
+## III. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 5 tầng)
 
-1.  **Nguyên Văn (Trung):**
-    > 九花劍意，生於寸心。
-    > 形如蓮綻，氣若寒深。
-    > 九轉歸一，破碎蒼穹。
-    > 花開頃刻，萬化皆空。
+### 1. Tầng 1: Hàm Bao Đãi Phóng (含苞待放)
+- **Mô Tả:** Giai đoạn tích tụ kiếm ý, như nụ hoa e ấp chờ ngày nở rộ. Kiếm khí ẩn trong vỏ bọc, chưa lộ ra sự sắc bén nhưng chứa đựng nội lực thâm hậu.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 劍意深藏，含苞未吐。
+        > 靜若處子，動如雷鼓。
+        > 蓄勢待發，一擊破土。
+    2.  **Phiên Âm Hán Việt:**
+        > Kiếm ý thâm tàng, hàm bao vị thổ.
+        > Tĩnh nhược xử tử, động như lôi cổ.
+        > Súc thế đãi phát, nhất kích phá thổ.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Ý kiếm giấu kín bên trong, như nụ hoa chưa hé nở.
+        > Im lặng như cô gái trinh nữ, khi động thì mạnh mẽ như tiếng trống sấm.
+        > Tích lũy thế lực chờ thời điểm phát ra, một đòn đánh phá vỡ mặt đất.
 
-2.  **Phiên Âm Hán Việt:**
-    > Cửu hoa kiếm ý, sinh ư thốn tâm.
-    > Hình như liên trán, khí nhược hàn thâm.
-    > Cửu chuyển quy nhất, phá toái thương khung.
-    > Hoa khai khoảnh khắc, vạn hóa giai không.
+### 2. Tầng 2: Sơ Trán Phương Hoa (初綻芳華)
+- **Mô Tả:** Kiếm khí bắt đầu bộc lộ, sắc bén và rực rỡ. Những đường kiếm đầu tiên mang theo hương thơm của hoa cỏ, mê hoặc đối thủ.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 花開一瞬，劍氣如虹。
+        > 芳香四溢，迷醉英雄。
+        > 剛柔並濟，變幻無窮。
+    2.  **Phiên Âm Hán Việt:**
+        > Hoa khai nhất thuấn, kiếm khí như hồng.
+        > Phương hương tứ dật, mê túy anh hùng.
+        > Cương nhu tịnh tế, biến ảo vô cùng.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Hoa nở chỉ trong một chớp mắt, khí kiếm rực rỡ như cầu vồng.
+        > Hương thơm tỏa ra bốn phía, làm say lòng các bậc anh hùng.
+        > Cứng và mềm hỗ trợ lẫn nhau, biến hóa khôn lường.
 
-3.  **Dịch Nghĩa (Sát Nghĩa):**
-    > Ý kiếm Cửu Hoa sinh ra từ trong tấc lòng (tâm).
-    > Hình dáng như hoa sen nở rộ, khí thế lạnh lẽo thâm sâu.
-    > Chín lần chuyển hóa quy về một mối, đập tan cả bầu trời xanh.
-    > Hoa nở chỉ trong khoảnh khắc, vạn sự biến hóa đều trở về hư không.
+### 3. Tầng 3: Bách Hoa Tranh Diễm (百花爭豔)
+- **Mô Tả:** Kiếm pháp đạt đến độ phồn hoa, chiêu thức liên miên bất tuyệt, rực rỡ chói mắt khiến địch nhân không biết đâu là hư đâu là thực.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 萬紫千紅，劍影重重。
+        > 虛實難辨，意在其中。
+        > 亂花迷眼，生死從容。
+    2.  **Phiên Âm Hán Việt:**
+        > Vạn tử thiên hồng, kiếm ảnh trùng trùng.
+        > Hư thực nan biện, ý tại kỳ trung.
+        > Loạn hoa mê nhãn, sinh tử thung dung.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Muôn ngàn sắc tía hồng rực rỡ, bóng kiếm chồng chất lên nhau.
+        > Thật và giả khó phân biệt, ý niệm nằm ngay trong đó.
+        > Hoa bay loạn làm rối mắt, đối mặt sống chết vẫn ung dung.
+
+### 4. Tầng 4: Lạc Hoa Vô Tình (落花無情)
+- **Mô Tả:** Hoa nở rồi tàn, kiếm pháp từ rực rỡ chuyển sang bi thương, tàn khốc. Mỗi cánh hoa rơi là một sát chiêu chí mạng.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 花落無情，流水無心。
+        > 繁華落盡，殺意森森。
+        > 一劍絕塵，萬古銷沉。
+    2.  **Phiên Âm Hán Việt:**
+        > Hoa lạc vô tình, lưu thủy vô tâm.
+        > Phồn hoa lạc tận, sát ý sâm sâm.
+        > Nhất kiếm tuyệt trần, vạn cổ tiêu trầm.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Hoa rơi không có tình cảm, nước chảy không có tâm tư.
+        > Sự phồn hoa rụng rơi hết, chỉ còn lại sát ý dày đặc lạnh lẽo.
+        > Một kiếm cắt đứt bụi trần, vạn đời sau đều chìm đắm trong quên lãng.
+
+### 5. Tầng 5: Cửu Hoa Quy Nhất (九花歸一)
+- **Mô Tả:** Cảnh giới tối cao, vạn hoa quy về một cội, mọi biến hóa trở về sự đơn giản nhất nhưng cũng mạnh mẽ nhất.
+- **Khẩu Quyết Tâm Pháp:**
+    1.  **Nguyên Văn (Trung):**
+        > 九轉歸原，大道至簡。
+        > 花非花處，劍非劍顯。
+        > 天地同壽，日月同勉。
+    2.  **Phiên Âm Hán Việt:**
+        > Cửu chuyển quy nguyên, đại đạo chí giản.
+        > Hoa phi hoa xứ, kiếm phi kiếm hiển.
+        > Thiên địa đồng thọ, nhật nguyệt đồng miễn.
+    3.  **Dịch Nghĩa (Sát Nghĩa):**
+        > Chín lần chuyển hóa quay về nguồn cội, đạo lớn là sự đơn giản nhất.
+        > Nơi hoa không phải là hoa, kiếm không hiện ra hình dáng kiếm.
+        > Sống lâu cùng trời đất, cùng nỗ lực với mặt trăng mặt trời.
 
 ## IV. HỆ THỐNG CHIÊU THỨC (7 Chiêu)
 
