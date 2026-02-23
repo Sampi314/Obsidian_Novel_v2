@@ -15,6 +15,13 @@
 - **Tín Ngưỡng:** Thờ Phượng Hoàng hoặc Đại Bàng Kim Sí Điểu (Biểu tượng của bầu trời).
 - **Kiến Trúc:** Xây nhà trên cây cổ thụ cao chót vót hoặc vách núi dựng đứng.
 
+### Nghi Lễ Thiên Táng (Sky Burial)
+Từ ngàn xưa, Vũ Tộc quan niệm "Sinh từ trời, thác về trời". Khi một tộc nhân qua đời, thi thể của họ sẽ được đặt trên đỉnh núi cao nhất (Thiên Táng Đài) để các thần điểu (hoặc kền kền linh thú) đưa linh hồn trở về với bầu trời.
+Tuy nhiên, trong Kỷ Nguyên Khởi Nguyên đầy loạn lạc, nhiều kẻ tà tu đã lén đánh cắp thi thể Vũ Tộc để luyện chế pháp bảo bay lượn (Vũ Dực). Vì thế, nghi lễ Thiên Táng ngày nay đã thay đổi: Thi thể sẽ được hỏa thiêu bằng Liệt Phong Hỏa, tro cốt rải vào gió, đảm bảo sự thanh sạch tuyệt đối cho người đã khuất.
+
+> *"Đừng chôn ta dưới đất lạnh lẽo, hãy để gió cuốn ta đi. Ta muốn được nhìn ngắm thế gian này lần cuối từ trên cao, tự do như thuở ban đầu."*
+> — *Di ngôn của Cánh Trắng - Tộc trưởng Vũ Tộc đời thứ 9*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các đỉnh núi cao (Thiên Sơn), đảo bay lơ lửng (nếu có), rừng già tầng thượng.
 - **Khí Hậu:** Ưa thích nơi thoáng đãng, nhiều gió.

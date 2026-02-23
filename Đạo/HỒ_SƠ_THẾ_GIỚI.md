@@ -28,6 +28,7 @@
     7. Yêu Tộc (Hoang dã, sức mạnh).
     8. Vũ Tộc (Chinh phục bầu trời).
     9. Thạch Tộc (Kiên định, bất hoại).
+    10. Tinh Linh Tộc (Hòa mình thiên nhiên, thanh cao).
 - **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chung_Toc_Chinh.md`.
 
 ## V. NHÂN VẬT TIÊU BIỂU
@@ -123,3 +124,5 @@
 - **Mới:** Tạo nhân vật Triệu Thanh Hằng và công pháp Lãnh Phong Kiếm Quyết.
 - **Mới:** Sáng tác ca khúc "Hồng Trần Vọng".
 - **Mới:** Bồi đắp chi tiết Nhân Tộc (Ẩm thực & Nghi lễ trưởng thành).
+- **Mới:** Bồi đắp chi tiết toàn bộ các chủng tộc (Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch) với yếu tố thời gian và sự tiến hóa tập tục.
+- **Mới:** Khởi tạo chủng tộc Tinh Linh Tộc (Ngoại hình, Văn hóa, Lịch sử).

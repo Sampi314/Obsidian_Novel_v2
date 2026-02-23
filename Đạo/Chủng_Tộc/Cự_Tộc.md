@@ -15,6 +15,13 @@
 - **Sinh Hoạt:** Sống đơn giản, gần gũi thiên nhiên. Thích đấu vật, uống rượu mạnh.
 - **Tín Ngưỡng:** Thờ phụng Bàn Cổ (Vị thần khai thiên lập địa khổng lồ).
 
+### Sự Thay Đổi Về Kích Thước Qua Các Kỷ Nguyên
+Thời Thượng Cổ, linh khí trời đất còn đậm đặc, một đứa trẻ Cự Tộc sinh ra đã cao trăm trượng, trưởng thành có thể hái sao bắt nguyệt.
+Tuy nhiên, khi Kỷ Nguyên Khởi Nguyên dần trôi qua, linh khí loãng dần, Cự Tộc buộc phải "tự phong ấn" huyết mạch để sinh tồn. Thế hệ ngày nay tuy chỉ cao vài trượng nhưng bù lại, mật độ cơ bắp và xương cốt lại cứng chắc gấp trăm lần tổ tiên, trở thành những "Kim Cương Cự Nhân" bất hoại.
+
+> *"Ngày xưa ông cha ta bước một bước qua sông, nay con cháu ta phải lội nước. Nhưng đừng buồn, vì đôi chân nhỏ bé này giờ đây có thể dẫm nát cả Thần Binh."*
+> — *Trưởng Lão Cự Tộc răn dạy con cháu bên đống lửa*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các vùng núi cao hiểm trở (Dãy Thiên Trụ), hoang mạc cằn cỗi (Tây Mạc).
 - **Lý Do:** Chỉ những nơi này mới đủ không gian và thức ăn cho họ.

@@ -15,6 +15,13 @@
 - **Tổ Chức:** Sống rải rác hoặc tụ tập thành các "Thạch Lâm" yên tĩnh. Ít giao du với bên ngoài.
 - **Giá Trị:** Coi trọng sự vĩnh cửu và tĩnh lặng.
 
+### Chu Kỳ Ngủ Say (Trầm Miên)
+Với Thạch Tộc, khái niệm thời gian hoàn toàn khác biệt. Một giấc ngủ trưa của họ có thể kéo dài vài thập kỷ.
+Vào thời Thượng Cổ linh khí dồi dào, Thạch Tộc thường thức giấc để hấp thu tinh hoa nhật nguyệt. Nhưng ở Kỷ Nguyên hiện tại, khi linh khí suy giảm và lòng người tham lam (thường săn Thạch Tộc để lấy Lõi Đá làm nguyên liệu luyện khí), họ chọn cách ngủ say sâu hơn trong lòng đất, ngụy trang thành những dãy núi vô danh, chờ đợi thời cơ linh khí phục hồi hoặc khi có người đánh thức bằng bí thuật cổ xưa.
+
+> *"Đừng đánh thức tảng đá đang ngủ, trừ khi ngươi chuẩn bị sẵn sàng để nghe câu chuyện của ngàn năm trước, hoặc hứng chịu cơn giận của cả một ngọn núi."*
+> — *Lời cảnh báo khắc trước cửa Thạch Lâm Cấm Địa*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các mỏ khoáng sản, hang động sâu, núi đá trọc.
 - **Thức Ăn:** Linh thạch, quặng sắt, tinh thể quý.
