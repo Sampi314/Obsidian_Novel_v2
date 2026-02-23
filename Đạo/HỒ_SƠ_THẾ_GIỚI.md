@@ -60,6 +60,7 @@
 ## VI. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
     - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
+    - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
 
 ## VII. CẬP NHẬT GẦN NHẤT
 - Sáng tác thơ: Hàn Mai Kiếm Ca.
@@ -80,3 +81,4 @@
 - Thêm mới Kỳ vật: Hỏa Linh Thảo.
 - **Mới:** Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc (Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch).
 - **Mới:** Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
+- **Mới:** Sáng tác thơ "Độc Ẩm Dưới Trăng".
