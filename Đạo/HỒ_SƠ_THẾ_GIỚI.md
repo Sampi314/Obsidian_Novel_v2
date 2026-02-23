@@ -105,7 +105,11 @@
     - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
     - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
 - **Âm Nhạc:**
+    - **[DANH SÁCH TÁC PHẨM (MỚI)](Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md):** Thư viện tổng hợp 100+ tác phẩm âm nhạc (bao gồm 90 bài hát mới).
     - [Hồng Trần Vọng](Âm_Nhạc/Hồng_Trần_Vọng.md): Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần.
+    - [Đan Hỏa Trường Ca](Âm_Nhạc/Đan_Hỏa_Trường_Ca.md): Ca khúc hùng tráng về Đan đạo và Đan Hà Cốc.
+    - [Tiêu Dao Du](Âm_Nhạc/Tiêu_Dao_Du.md): Ca khúc vui tươi, phóng khoáng của tán tu.
+    - [Ma Tâm](Âm_Nhạc/Ma_Tâm.md): Khúc ca đen tối về sự sa ngã vào Ma đạo.
 
 ## X. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Bản đồ sơ bộ.
@@ -119,20 +123,23 @@
 - Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc.
 - Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
 - Sáng tác thơ: Hàn Mai Kiếm Ca.
-- **Mới:** Thêm Kỳ vật: Hàn Ngọc.
-- **Mới:** Thêm Pháp bảo: Hàn Ngọc Kiếm.
-- **Mới:** Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc (Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch).
-- **Mới:** Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
-- **Mới:** Tạo nhân vật Hàn Thanh Nguyệt và công pháp Tàn Nguyệt Kiếm Quyết.
-- **Mới:** Sáng tác thơ "Độc Ẩm Dưới Trăng".
-- **Mới:** Tạo nhân vật Triệu Thanh Hằng và công pháp Lãnh Phong Kiếm Quyết.
-- **Mới:** Sáng tác ca khúc "Hồng Trần Vọng".
-- **Mới:** Bồi đắp chi tiết Nhân Tộc (Ẩm thực & Nghi lễ trưởng thành).
-- **Mới:** Bồi đắp chi tiết toàn bộ các chủng tộc (Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch) với yếu tố thời gian và sự tiến hóa tập tục.
-- **Mới:** Khởi tạo chủng tộc Tinh Linh Tộc (Ngoại hình, Văn hóa, Lịch sử).
-- **Mới:** Bồi đắp chuyên sâu lần 2 cho 10 chủng tộc (Kinh tế, Sinh tồn, Nghệ thuật, Tín ngưỡng).
-- **Mới:** Bổ sung "Dòng Chảy Lịch Sử" (Timeline) chi tiết với các mốc thời gian cụ thể cho toàn bộ 10 Đại Chủng Tộc.
-- **Mới:** Thêm mục "Giai Thoại & Điều Thú Vị" (Văn hóa đời thường) cho tất cả các chủng tộc, tăng tính phong phú và sinh động.
-- **Mới:** Tái cấu trúc thư mục Chủng Tộc (Đại Tộc/Tiểu Tộc).
-- **Mới:** Bổ sung chi tiết "Xung Đột & Thần Thoại Theo Dòng Thời Gian", "Mục Tiêu Tối Thượng", "Lời Răn Tổ Tiên" cho 10 Đại Tộc.
-- **Mới:** Tạo mới 3 Tiểu Tộc lai tạo (Bán Yêu, Long Nhân, Thạch Mộc Linh).
+- Thêm Kỳ vật: Hàn Ngọc.
+- Thêm Pháp bảo: Hàn Ngọc Kiếm.
+- Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc (Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch).
+- Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
+- Tạo nhân vật Hàn Thanh Nguyệt và công pháp Tàn Nguyệt Kiếm Quyết.
+- Sáng tác thơ "Độc Ẩm Dưới Trăng".
+- Tạo nhân vật Triệu Thanh Hằng và công pháp Lãnh Phong Kiếm Quyết.
+- Sáng tác ca khúc "Hồng Trần Vọng".
+- Bồi đắp chi tiết Nhân Tộc (Ẩm thực & Nghi lễ trưởng thành).
+- Bồi đắp chi tiết toàn bộ các chủng tộc (Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch) với yếu tố thời gian và sự tiến hóa tập tục.
+- Khởi tạo chủng tộc Tinh Linh Tộc (Ngoại hình, Văn hóa, Lịch sử).
+- Bồi đắp chuyên sâu lần 2 cho 10 chủng tộc (Kinh tế, Sinh tồn, Nghệ thuật, Tín ngưỡng).
+- Bổ sung "Dòng Chảy Lịch Sử" (Timeline) chi tiết với các mốc thời gian cụ thể cho toàn bộ 10 Đại Chủng Tộc.
+- Làm lại bài hát "Hồng Trần Vọng" với cấu trúc đầy đủ.
+- Sáng tác bài hát "Đan Hỏa Trường Ca" cho Đan Hà Cốc.
+- Sắp xếp và dọn dẹp file Hồ sơ thế giới.
+- **Mới:** Sáng tác thêm 9 bài hát đa dạng chủ đề (Tiêu dao, Hài hước, Chiến tranh, Tình yêu, Ma đạo, Triết lý, Thiên nhiên, Yêu tộc).
+- **Mới:** Loại bỏ hoàn toàn hình ảnh Phật giáo khỏi thế giới, thay thế bằng thuật ngữ Đạo gia.
+- **Mới:** Sáng tác thêm 90 bài hát (Chia thành 9 tuyển tập) bao phủ mọi khía cạnh tu chân (Cảnh giới, Binh khí, Ngũ hành, Cảm xúc, Thiên nhiên, Nhân duyên, Sinh hoạt, Linh thú, Thời tiết, Tông môn).
+- **Mới:** Tạo thư viện âm nhạc trung tâm `Đạo/Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md`.
