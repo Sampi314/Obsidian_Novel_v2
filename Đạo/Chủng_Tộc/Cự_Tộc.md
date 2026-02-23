@@ -29,6 +29,15 @@ Tuy nhiên, khi Cự Thú dần tuyệt chủng, Cự Tộc đã thay đổi c�
 > *"Một ngụm canh nóng làm ấm lòng người chiến sĩ, một tảng đá giòn tan làm chắc thêm nắm đấm."*
 > — *Bài ca mời rượu của Cự Tộc*
 
+### Dòng Chảy Lịch Sử
+- **Thuở Khai Thiên:** Cự Tộc là những kẻ đầu tiên bước đi trên mặt đất, giúp Thần Bàn Cổ nâng đỡ bầu trời (theo truyền thuyết).
+- **Kỷ Nguyên Khởi Nguyên (Sơ Kỳ):** "Kỷ Nguyên Vàng". Cự Tộc thống trị mặt đất nhờ kích thước khổng lồ. Họ xây dựng những thành phố đá vĩ đại mà nay chỉ còn là tàn tích.
+- **Kỷ Nguyên Khởi Nguyên (Năm 1200):** "Cuộc Di Cư Vĩ Đại". Linh khí suy giảm khiến cơ thể họ teo nhỏ. Cự Tộc buộc phải rời bỏ đồng bằng để lui về những vùng núi cao và hoang mạc, nhường chỗ cho Nhân Tộc và Yêu Tộc.
+- **Hiện Tại:** Sống cô lập thành từng bộ lạc nhỏ. Dù số lượng ít ỏi nhưng mỗi chiến binh Cự Tộc đều là một cỗ máy chiến tranh đáng sợ.
+
+> *"Chúng ta đã từng chạm tay vào những vì sao, giờ đây chúng ta cúi đầu hôn lên mặt đất. Đó không phải là thất bại, đó là sự khiêm nhường của núi non."*
+> — *Trưởng Lão Cự Tộc*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các vùng núi cao hiểm trở (Dãy Thiên Trụ), hoang mạc cằn cỗi (Tây Mạc).
 - **Lý Do:** Chỉ những nơi này mới đủ không gian và thức ăn cho họ.

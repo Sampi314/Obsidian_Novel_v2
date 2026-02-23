@@ -29,6 +29,15 @@ Một cuộc phẫu thuật của Vi Tộc giống như một chiến dịch qu�
 > *"Thế giới trong một giọt máu cũng bao la như biển cả, và chúng ta là những người lính gác của sự sống nơi đó."*
 > — *Thần Y Vi Tộc - Bạch Diệp*
 
+### Dòng Chảy Lịch Sử
+- **Thuở Hồng Hoang:** Vi Tộc sống cộng sinh trên cơ thể các Thần Thụ cổ đại, được bảo vệ tuyệt đối.
+- **Kỷ Nguyên Khởi Nguyên (Năm 300):** "Đại Dịch Đen". Một loài nấm độc tấn công các khu rừng, Vi Tộc suýt bị diệt vong. Những người sống sót bắt đầu nghiên cứu y thuật và độc dược để tự cứu mình.
+- **Kỷ Nguyên Khởi Nguyên (Năm 1800):** "Liên Minh Thảo Dược". Vi Tộc ký thỏa thuận với Đan Hà Cốc và các tông môn đan đạo, cung cấp dược liệu quý để đổi lấy sự bảo hộ.
+- **Hiện Tại:** Vi Tộc nắm giữ bí mật của 80% các loại kỳ hoa dị thảo trên thế gian. Họ là những thương nhân thầm lặng nhưng quyền lực nhất trong giới Đan Dược.
+
+> *"Kẻ nhỏ bé nhất lại nắm giữ chìa khóa của sự sống và cái chết."*
+> — *Lời đề từ trong "Vi Thảo Bách Khoa Toàn Thư"*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Những khu rừng già nguyên sinh (Đông Hoang), vườn thảo dược của các đại tông môn.
 - **Môi Trường:** Cần nơi yên tĩnh, ít gió bão.

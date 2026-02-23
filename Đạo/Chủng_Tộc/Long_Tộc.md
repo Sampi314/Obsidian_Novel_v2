@@ -29,6 +29,15 @@ Trong Kỷ Nguyên Khởi Nguyên, tỷ lệ sinh của Long Tộc giảm sút n
 > *"Một tiếng rồng gầm chào đời, đánh đổi bằng vạn tiếng khóc than của đồng loại. Sự cao quý này liệu có bền lâu?"*
 > — *Lời tự sự của một Giao Long lưu lạc*
 
+### Dòng Chảy Lịch Sử
+- **Thuở Khai Thiên:** Long Tộc cùng Phượng Hoàng cai trị bầu trời. Thời kỳ này được gọi là "Long Phượng Tranh Bá", kết thúc bằng sự kiệt quệ của cả hai tộc.
+- **Kỷ Nguyên Khởi Nguyên (Sơ Kỳ):** Rút lui khỏi bầu trời, Long Tộc chiếm lĩnh Vô Tận Hải, lập nên Tứ Hải Long Cung. Họ bắt đầu thiết lập trật tự cho các loài thủy tộc.
+- **Kỷ Nguyên Khởi Nguyên (Năm 2000):** "Đại Nạn Săn Rồng". Các tu sĩ Nhân Tộc bắt đầu săn bắt Long Tộc để lấy nguyên liệu luyện đan, luyện khí. Long Tộc đóng cửa biên giới biển, cắt đứt giao thương.
+- **Hiện Tại:** Long Tộc sống ẩn dật, chỉ xuất hiện khi có đại sự kiện hoặc thiên tai. Quan hệ với Nhân Tộc ở mức "nước sông không phạm nước giếng", nhưng vẫn ngấm ngầm hỗ trợ một số thế lực phàm trần.
+
+> *"Biển cả nhớ mọi thứ, kể cả những vết sẹo trên vảy rồng."*
+> — *Tộc trưởng Đông Hải*
+
 ## IV. NƠI SINH SỐNG
 - **Chính:** Vô Tận Hải (Đông Hải Long Cung, Tây Hải...).
 - **Phụ:** Các đại trạch, đầm lầy lớn hoặc long mạch linh thiêng trên đất liền.

@@ -29,6 +29,15 @@ Ngày nay, các kỵ sĩ Hải Tộc cưỡi trên lưng Cá Mập Búa hay rùa
 > *"Khi tiếng tù và vang lên, biển cả cũng phải cúi đầu nghe lệnh."*
 > — *Khúc ca khải hoàn của kỵ binh Cá Ngựa*
 
+### Dòng Chảy Lịch Sử
+- **Thuở Sơ Khai:** Hải Tộc sinh ra từ bọt biển và ánh trăng. Họ sống lang thang, làm mồi cho Long Tộc và thủy quái.
+- **Kỷ Nguyên Khởi Nguyên (Năm 800):** "Thời Đại Thành Bang". Hải Tộc học được cách xây dựng thành trì dưới nước từ đá san hô, bắt đầu hình thành các quốc gia nhỏ (Hải Quốc).
+- **Kỷ Nguyên Khởi Nguyên (Năm 1500):** "Hiệp Ước Biển Cả". Hải Tộc ký hiệp ước quy phục Long Tộc để được bảo hộ khỏi sự săn bắt của Nhân Tộc.
+- **Hiện Tại:** Hải Tộc phát triển rực rỡ về văn hóa và thương mại. Họ đóng vai trò trung gian vận chuyển hàng hóa giữa các châu lục qua đường biển, trở nên giàu có nhưng cũng đầy mưu mô.
+
+> *"Sóng sau xô sóng trước, lịch sử của chúng ta được viết trên cát, nhưng khắc sâu vào lòng đại dương."*
+> — *Sử gia Người Cá*
+
 ## IV. NƠI SINH SỐNG
 - **Vùng Biển:** Vô Tận Hải, các hải đảo xa xôi.
 - **Kiến Trúc:** Xây dựng thành phố từ san hô và đá biển dưới đáy đại dương.

@@ -38,6 +38,15 @@ Trải qua hàng ngàn năm, Linh Thạch không chỉ là tài nguyên tu luy�
 > *"Đừng hỏi giá trị của viên đá, hãy hỏi xem mạng của ngươi đáng bao nhiêu linh khí."*
 > — *Lời răn của Thương Hội Vạn Bảo*
 
+### Dòng Chảy Lịch Sử
+- **Thuở Hồng Hoang:** Nhân Tộc được Nữ Oa tạo ra, sống yếu ớt giữa các loài Cự Thú và Thần Ma. Thời kỳ này họ sống trong hang đá, thờ phụng Lửa và Sấm Sét.
+- **Kỷ Nguyên Khởi Nguyên (Năm 1-500):** "Thời Đại Khai Sáng". Các bậc Tiên Hiền (Tam Hoàng Ngũ Đế) xuất hiện, sáng tạo ra công pháp tu luyện đầu tiên, giúp Nhân Tộc bước lên con đường nghịch thiên.
+- **Kỷ Nguyên Khởi Nguyên (Năm 1000-3000):** "Thời Đại Chiến Quốc". Nhân Tộc chia rẽ thành vô số tông môn và quốc gia, chiến tranh liên miên để giành giật tài nguyên.
+- **Hiện Tại:** Nhân Tộc đã kiểm soát Trung Châu và phần lớn các vùng đất màu mỡ, đẩy lùi Yêu Tộc và Ma Tộc ra biên cương. Tuy nhiên, nội bộ vẫn chưa bao giờ thống nhất.
+
+> *"Lịch sử của chúng ta được viết bằng máu của kẻ thù và nước mắt của đồng bào."*
+> — *Sử Ký Nhân Tộc - Quyển 1*
+
 ## IV. NƠI SINH SỐNG
 - **Phân Bố:** Rộng khắp Bàn Cổ Lục Địa.
 - **Trung Tâm:** Trung Châu (nơi linh khí hội tụ, văn minh rực rỡ nhất). Ngoài ra còn có Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
