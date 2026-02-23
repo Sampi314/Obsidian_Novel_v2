@@ -1,35 +1,58 @@
-# CÔNG PHÁP: LÃNH PHONG KIẾM QUYẾT
+# LÃNH PHONG KIẾM QUYẾT (冷風劍訣)
 
-## THÔNG TIN CƠ BẢN
-- **Tên Công Pháp:** Lãnh Phong Kiếm Quyết (冷風劍訣).
-- **Phẩm Cấp:** Huyền Cấp Thượng Phẩm (Mystic Rank High Grade).
+## I. TỔNG QUAN
+- **Phẩm Cấp:** Huyền Cấp Thượng Phẩm.
 - **Thuộc Tính:** Phong (Gió) kết hợp Hàn (Lạnh).
 - **Nguồn Gốc:** Sáng tạo bởi một tán tu vô danh tại Bắc Băng, sau thất truyền và được Triệu Thanh Hằng tìm thấy trong một hang động băng giá.
 
-## CƠ CHẾ HOẠT ĐỘNG
+## II. CƠ CHẾ HOẠT ĐỘNG
 - **Nguyên Lý:** Lấy tốc độ của gió làm chủ đạo, gia thêm cái lạnh thấu xương của băng tuyết. Kiếm chiêu không chỉ nhanh mà còn mang theo kình lực sắc bén như dao cắt của gió bão.
-- **Đặc Điểm:** Khác với các công pháp hệ Băng thuần túy thiên về đóng băng và khống chế cứng, Lãnh Phong Kiếm Quyết tập trung vào việc "bào mòn" và "cắt xẻ". Hàn khí xâm nhập qua vết thương, làm đông cứng máu huyết và kinh mạch từ bên trong, khiến đối thủ càng đánh càng chậm chạp.
+- **Đặc Điểm:** Tập trung vào việc "bào mòn" và "cắt xẻ". Hàn khí xâm nhập qua vết thương, làm đông cứng máu huyết và kinh mạch từ bên trong, khiến đối thủ càng đánh càng chậm chạp.
 
-## CHIÊU THỨC TIÊU BIỂU
+## III. KHẨU QUYẾT & TỔNG CƯƠNG (MANTRA)
+
+1.  **Nguyên Văn (Trung):**
+    > 風起雲散，冷月如鉤。
+    > 劍行無影，寒氣封喉。
+    > 狂風卷雪，萬里皆愁。
+    > 唯快不破，一劍斷流。
+
+2.  **Phiên Âm Hán Việt:**
+    > Phong khởi vân tán, lãnh nguyệt như câu.
+    > Kiếm hành vô ảnh, hàn khí phong hầu.
+    > Cuồng phong quyển tuyết, vạn lý giai sầu.
+    > Duy khoái bất phá, nhất kiếm đoạn lưu.
+
+3.  **Dịch Nghĩa (Sát Nghĩa):**
+    > Gió nổi lên mây tan tác, trăng lạnh cong như lưỡi câu.
+    > Kiếm đi không để lại bóng dáng, khí lạnh phong tỏa yết hầu.
+    > Gió cuồng cuốn theo tuyết, vạn dặm đều nhuốm màu sầu thảm.
+    > Chỉ có tốc độ là không thể phá vỡ, một kiếm chém đứt dòng chảy.
+
+## IV. HỆ THỐNG CHIÊU THỨC (7 Chiêu)
+
 1.  **Phong Tuyết Vô Ngân (風雪無痕):**
-    -   *Loại:* Thân pháp.
-    -   *Mô Tả:* Người sử dụng di chuyển nương theo chiều gió, nhẹ nhàng và phiêu hốt như bông tuyết rơi. Khi thi triển, để lại tàn ảnh mờ ảo, khiến đối phương khó xác định vị trí thực.
-    -   *Hiệu Quả:* Tăng tốc độ di chuyển và khả năng né tránh trong thời gian ngắn.
+    - Thân pháp di chuyển nương theo chiều gió, nhẹ nhàng và phiêu hốt như bông tuyết rơi. Khi thi triển, để lại tàn ảnh mờ ảo, khiến đối phương khó xác định vị trí thực.
 
 2.  **Hàn Phong Trảm (寒風斬):**
-    -   *Loại:* Công kích đơn mục tiêu.
-    -   *Mô Tả:* Tụ linh khí vào lưỡi kiếm, chém ra một đường kiếm khí mỏng manh nhưng sắc bén cực độ. Kiếm khí đi đến đâu, không khí xung quanh bị xé toạc và đóng băng tức thì.
-    -   *Hiệu Quả:* Gây sát thương cắt sâu, kèm theo hiệu ứng "Hàn Độc" làm tê liệt vùng bị thương.
+    - Tụ linh khí vào lưỡi kiếm, chém ra một đường kiếm khí mỏng manh nhưng sắc bén cực độ. Kiếm khí đi đến đâu, không khí xung quanh bị xé toạc và đóng băng tức thì.
 
-3.  **Lãnh Nguyệt Toàn Phong (冷月旋風):**
-    -   *Loại:* Công kích diện rộng.
-    -   *Mô Tả:* Xoay người múa kiếm tạo thành một cơn lốc xoáy nhỏ chứa đầy kiếm khí lạnh lẽo. Cơn lốc này vừa bảo vệ người dùng, vừa cuốn phăng và cắt nát mọi thứ trong phạm vi gần.
-    -   *Hiệu Quả:* Phản đòn các công kích tầm xa yếu, gây sát thương liên tục cho kẻ địch áp sát.
+3.  **Phong Nhẫn Loạn Vũ (風刃亂舞):**
+    - Múa kiếm tốc độ cực cao, phóng ra hàng chục lưỡi dao gió (phong nhẫn) lạnh buốt bao vây đối thủ từ mọi hướng, gây khó khăn cho việc phòng thủ.
 
-## CÔNG HIỆU ĐẶC BIỆT
-- **Thanh Tẩy Tâm Ma:** Tu luyện lâu dài giúp tâm cảnh trở nên tĩnh lặng như mặt hồ đóng băng, khó bị ngoại cảnh tác động.
-- **Kháng Hàn:** Cơ thể người tu luyện sẽ dần thích nghi với nhiệt độ cực thấp, có thể chiến đấu trong môi trường băng tuyết mà không bị ảnh hưởng.
+4.  **Lãnh Nguyệt Toàn Phong (冷月旋風):**
+    - Xoay người tạo thành một cơn lốc xoáy nhỏ chứa đầy kiếm khí lạnh lẽo. Cơn lốc này vừa bảo vệ người dùng, vừa cuốn phăng và cắt nát mọi thứ trong phạm vi gần.
 
-## TÁC DỤNG PHỤ & HẠN CHẾ
-- **Tiêu Hao:** Đòi hỏi lượng linh lực lớn để duy trì vừa tốc độ vừa hàn khí. Không thích hợp cho đánh lâu dài nếu chưa đạt cảnh giới Kim Đan.
-- **Phản Phệ:** Nếu vận khí quá gấp hoặc cưỡng ép thi triển chiêu thức vượt cấp, hàn khí sẽ chạy ngược vào kinh mạch, gây ra chứng "Phong Hàn Nhập Thể", làm đau nhức xương cốt mỗi khi trời trở lạnh.
+5.  **Tuyết Ảnh Truy Phong (雪影追風):**
+    - Chiêu thức truy đuổi, người và kiếm hợp nhất thành một đạo ánh sáng trắng lạnh lẽo, bám sát mục tiêu không buông tha dù đối thủ có chạy trốn bao xa.
+
+6.  **Hàn Lưu Phá Không (寒流破空):**
+    - Tập trung toàn bộ hàn khí vào mũi kiếm, đâm mạnh vào hư không tạo ra một luồng khí lạnh cực mạnh bắn thẳng về phía trước, có thể xuyên thủng các lớp khiên phòng ngự ma pháp.
+
+7.  **Lãnh Phong Tuyệt Sát (冷風絕殺):**
+    - Tuyệt kỹ tất sát, kết hợp tốc độ cực đại của gió và độ lạnh tuyệt đối, chém ra một nhát kiếm vô hình, khi đối thủ nhận ra thì cổ họng đã bị đông cứng và cắt đứt.
+
+## V. YÊU CẦU & HẠN CHẾ
+- **Công Hiệu Đặc Biệt:** Thanh tẩy tâm ma giúp tâm cảnh tĩnh lặng, cơ thể kháng hàn tốt.
+- **Tác Dụng Phụ:** Nếu vận khí quá gấp hoặc cưỡng ép thi triển chiêu thức vượt cấp, hàn khí sẽ chạy ngược vào kinh mạch, gây ra chứng "Phong Hàn Nhập Thể", làm đau nhức xương cốt.
+- **Yêu Cầu Tu Luyện:** Đòi hỏi lượng linh lực lớn để duy trì tốc độ và hàn khí.
