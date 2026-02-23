@@ -86,6 +86,9 @@
     - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
 - **Âm Nhạc:**
     - **[DANH SÁCH TÁC PHẨM (MỚI)](Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md):** Thư viện tổng hợp 100+ tác phẩm âm nhạc (bao gồm 90 bài hát mới).
+    - [Hồng Hoang Cổ Ca](Âm_Nhạc/Hồng_Hoang/Hồng_Hoang_Cổ_Ca.md): Khúc ca cổ về thuở khai thiên lập địa.
+    - [Thái Cổ Chiến Ca](Âm_Nhạc/Thái_Cổ/Thái_Cổ_Chiến_Ca.md): Bản hùng ca bi tráng về cuộc chiến Thần Ma.
+    - [Khởi Nguyên Đạo Ca](Âm_Nhạc/Khởi_Nguyên/Khởi_Nguyên_Đạo_Ca.md): Bài ca về con đường tu đạo đầy gian nan trong thời đại hiện tại.
     - [Hồng Trần Vọng](Âm_Nhạc/Hồng_Trần_Vọng.md): Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần.
     - [Đan Hỏa Trường Ca](Âm_Nhạc/Đan_Hỏa_Trường_Ca.md): Ca khúc hùng tráng về Đan đạo và Đan Hà Cốc.
     - [Tiêu Dao Du](Âm_Nhạc/Tiêu_Dao_Du.md): Ca khúc vui tươi, phóng khoáng của tán tu.
