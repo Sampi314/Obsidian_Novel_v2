@@ -38,6 +38,11 @@ Tại đây, họ tổ chức đại lễ tế tổ, đánh thức dòng máu Th
 > *"Chúng ta không còn là cầm thú, nhưng cũng chưa bao giờ muốn làm con người. Chúng ta là Yêu - Kiêu hãnh và Hoang dã."*
 > — *Hồ Vương - Thanh Khâu Quốc*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Ngôn Ngữ Đuôi:** Khi giao tiếp ở dạng người, Yêu Tộc vẫn vô thức dùng đuôi (nếu chưa giấu đi) để thể hiện cảm xúc. Đuôi dựng đứng là cảnh giác, đuôi quấn quanh chân là xấu hổ. Các thương nhân Nhân Tộc tinh ranh thường nhìn đuôi để ép giá.
+- **Cỏ Mèo (Yêu Mê Thảo):** Loài cỏ này có tác dụng gây hưng phấn cho phần lớn Yêu Tộc (đặc biệt là họ Mèo và Hổ). Ngay cả một Yêu Vương uy nghiêm cũng có thể lăn lộn như trẻ con nếu ngửi thấy mùi này.
+- **Dị Ứng:** Nhiều Yêu Tộc hùng mạnh lại bị dị ứng phấn hoa hoặc lông của... loài khác, gây ra những tràng hắt hơi làm rung chuyển cả ngọn núi.
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Đông Hoang (Vạn Yêu Sơn Mạch), rừng rậm nguyên sinh.
 - **Đặc Thù:** Những nơi linh khí hỗn loạn, hoang dã.

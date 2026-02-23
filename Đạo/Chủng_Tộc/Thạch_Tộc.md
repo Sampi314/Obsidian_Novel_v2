@@ -38,6 +38,11 @@ Mỗi vết sẹo chiến tranh được họ mài giũa thành hoa văn tinh x�
 > *"Chúng ta không vội. Ngươi sống một trăm năm, ta chợp mắt một cái đã qua ngàn năm."*
 > — *Thạch Tộc Trưởng Lão*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Cá Cược Rêu Phong:** Trò chơi tiêu khiển phổ biến nhất của Thạch Tộc là... ngồi im xem rêu mọc trên người ai nhanh hơn. Một ván cược có thể kéo dài 50 năm.
+- **Dị Ứng Nước:** Dù không sợ nước, nhưng Thạch Tộc rất ghét bị ướt vì cảm giác "nhớt nhát" của rêu. Họ thường dùng cát nóng để tắm khô.
+- **Tiếng Ngáy:** Khi một Thạch Tộc ngáy, nó nghe giống như tiếng đá lở. Các ngôi làng gần Thạch Lâm thường xuyên phải hứng chịu những trận "động đất nhẹ" mỗi đêm.
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các mỏ khoáng sản, hang động sâu, núi đá trọc.
 - **Thức Ăn:** Linh thạch, quặng sắt, tinh thể quý.

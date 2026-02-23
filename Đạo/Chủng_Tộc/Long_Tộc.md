@@ -38,6 +38,11 @@ Trong Kỷ Nguyên Khởi Nguyên, tỷ lệ sinh của Long Tộc giảm sút n
 > *"Biển cả nhớ mọi thứ, kể cả những vết sẹo trên vảy rồng."*
 > — *Tộc trưởng Đông Hải*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Hội Chứng "Sưu Tầm":** Long Tộc có bản năng không thể cưỡng lại với những vật lấp lánh. Không chỉ vàng bạc, họ còn sưu tập cả vỏ chai thủy tinh, mảnh gương vỡ, hay thậm chí là... trọc đầu của các nhà sư (vì nó bóng).
+- **Giấc Ngủ Ngàn Năm:** Khi một con rồng nói "Ta đi chợp mắt một lát", điều đó có nghĩa là: "Hẹn gặp lại vào thế kỷ sau". Đừng bao giờ dại dột đợi cửa.
+- **Món Ăn Khoái Khẩu:** Mặc dù ăn sơn hào hải vị, nhưng món ăn vặt yêu thích nhất của Rồng con lại là "Than Nướng" (than củi tẩm mật ong).
+
 ## IV. NƠI SINH SỐNG
 - **Chính:** Vô Tận Hải (Đông Hải Long Cung, Tây Hải...).
 - **Phụ:** Các đại trạch, đầm lầy lớn hoặc long mạch linh thiêng trên đất liền.

@@ -38,6 +38,11 @@ Kết quả là những chiến binh Trùng Tộc đời mới (như Liệt Hỏ
 > *"Cái chết không phải là kết thúc, nó chỉ là nhiên liệu cho lứa kế tiếp."*
 > — *Thông điệp tâm linh của Trùng Mẫu*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Vị Giác Kỳ Quặc:** Trùng Tộc cực kỳ ghét đồ ngọt nhưng lại nghiện vị cay nồng của các loại độc dược và quặng lưu huỳnh. Một bữa tiệc "ngon" của họ trông giống như một phòng thí nghiệm hóa học phát nổ.
+- **Nghệ Thuật Xây Tổ:** Kiến trúc tổ của Trùng Tộc phức tạp đến mức các Trận Pháp Sư Nhân Tộc thường lén bắt cóc Trùng Thợ về để... học hỏi cách thiết kế mê cung.
+- **Tiếng Hát Ru:** Khi Trùng Mẫu ngủ, bà ta phát ra một sóng âm tần số thấp khiến tất cả sinh vật trong bán kính trăm dặm đều gặp ác mộng.
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Nam Cương (nơi rừng thiêng nước độc), các hang động sâu trong lòng đất, hoặc các bí cảnh bị bỏ hoang.
 - **Môi Trường:** Ưa thích nơi ẩm thấp, âm u, nhiều chướng khí.

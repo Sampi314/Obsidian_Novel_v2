@@ -38,6 +38,11 @@ Tuy nhiên, khi Cự Thú dần tuyệt chủng, Cự Tộc đã thay đổi c�
 > *"Chúng ta đã từng chạm tay vào những vì sao, giờ đây chúng ta cúi đầu hôn lên mặt đất. Đó không phải là thất bại, đó là sự khiêm nhường của núi non."*
 > — *Trưởng Lão Cự Tộc*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Thú Vui Tao Nhã:** Cự Tộc tuy thô kệch nhưng lại rất thích làm vườn. Họ nhổ cả cây cổ thụ ngàn năm để... trồng vào chậu cảnh (thực ra là một cái hồ nhỏ). Một "hòn non bộ" của Cự Tộc chính là một ngọn núi thật.
+- **Tiếng Huýt Sáo:** Khi Cự Tộc huýt sáo, âm thanh đó vang xa hàng trăm dặm và thường bị các tộc khác nhầm là bão sắp tới.
+- **Sợ Chuột:** Kẻ khổng lồ không sợ trời không sợ đất, nhưng lại sợ những sinh vật nhỏ bé chui vào tai hoặc mũi mình. Vi Tộc thường lợi dụng điểm này để "bắt nạt" Cự Tộc.
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các vùng núi cao hiểm trở (Dãy Thiên Trụ), hoang mạc cằn cỗi (Tây Mạc).
 - **Lý Do:** Chỉ những nơi này mới đủ không gian và thức ăn cho họ.

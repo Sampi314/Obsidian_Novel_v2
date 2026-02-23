@@ -38,3 +38,8 @@ Mỗi bộ tộc Tinh Linh đều gắn liền sinh mệnh với một cây Th�
 
 > *"Quá khứ xanh tươi, hiện tại tro tàn, tương lai là một hạt mầm chưa nảy."*
 > — *Lời tiên tri của Tinh Linh Tiên Tri*
+
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Say Sương:** Tinh Linh Tộc có tửu lượng cực kém. Chỉ một chén rượu gạo của Nhân Tộc cũng đủ làm họ ngủ li bì ba ngày. Vì thế, họ chỉ uống "Mật Sương Mai" - thứ nước hứng từ lá cây vào buổi sáng, có nồng độ cồn... 0.01%.
+- **Cuộc Thi Hát Ru Cây:** Vào đêm trăng tròn, các thiếu nữ Tinh Linh sẽ thi nhau hát để dỗ cho cây cối ngủ. Người ta đồn rằng giọng hát của họ ngọt ngào đến mức có thể làm tan chảy cả trái tim của một Thạch Tộc.
+- **Ghét Sắt Thép:** Tinh Linh Tộc tin rằng sắt thép mang "hơi thở của cái chết" (vì dùng để rèn vũ khí). Họ chỉ dùng công cụ bằng gỗ cứng, đá hoặc xương thú đã chết già.

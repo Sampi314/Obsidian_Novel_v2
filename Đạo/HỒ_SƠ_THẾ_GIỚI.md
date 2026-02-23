@@ -128,3 +128,4 @@
 - **Mới:** Khởi tạo chủng tộc Tinh Linh Tộc (Ngoại hình, Văn hóa, Lịch sử).
 - **Mới:** Bồi đắp chuyên sâu lần 2 cho 10 chủng tộc (Kinh tế, Sinh tồn, Nghệ thuật, Tín ngưỡng).
 - **Mới:** Bổ sung "Dòng Chảy Lịch Sử" (Timeline) chi tiết với các mốc thời gian cụ thể cho toàn bộ 10 Đại Chủng Tộc.
+- **Mới:** Thêm mục "Giai Thoại & Điều Thú Vị" (Văn hóa đời thường) cho tất cả các chủng tộc, tăng tính phong phú và sinh động.

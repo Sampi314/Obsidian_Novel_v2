@@ -38,6 +38,11 @@ Ngày nay, các kỵ sĩ Hải Tộc cưỡi trên lưng Cá Mập Búa hay rùa
 > *"Sóng sau xô sóng trước, lịch sử của chúng ta được viết trên cát, nhưng khắc sâu vào lòng đại dương."*
 > — *Sử gia Người Cá*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Tiền Tệ Ký Ức:** Ở "Chợ Vực Sâu" (nơi tối tăm nhất đại dương), Hải Tộc không dùng vàng, họ dùng "Bọt Ký Ức" để trao đổi. Một ký ức vui vẻ về nụ cười của người yêu có giá trị bằng một tòa thành san hô.
+- **Thời Trang Vỏ Sò:** Hải Tộc rất coi trọng thời trang. Việc đeo một chiếc vỏ ốc sên cạn (hàng nhập khẩu từ đất liền) được coi là đẳng cấp thượng lưu, giống như Nhân Tộc đeo ngọc trai biển sâu vậy.
+- **Thú Cưng:** Người Nhân Tộc nuôi chó mèo, còn Hải Tộc nuôi... Hải Quỳ. Loài vật này vừa làm cảnh (phát sáng), vừa làm vũ khí (phóng độc), vừa làm... thùng rác (ăn mọi thứ).
+
 ## IV. NƠI SINH SỐNG
 - **Vùng Biển:** Vô Tận Hải, các hải đảo xa xôi.
 - **Kiến Trúc:** Xây dựng thành phố từ san hô và đá biển dưới đáy đại dương.

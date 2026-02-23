@@ -47,6 +47,11 @@ Trải qua hàng ngàn năm, Linh Thạch không chỉ là tài nguyên tu luy�
 > *"Lịch sử của chúng ta được viết bằng máu của kẻ thù và nước mắt của đồng bào."*
 > — *Sử Ký Nhân Tộc - Quyển 1*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Tục "Chơi Đẹp":** Phàm nhân thường tin rằng nếu dâng cúng cho tu sĩ một con gà luộc ngậm hoa hồng, họ sẽ được ban phúc. Thực tế, đa số tu sĩ Trúc Cơ trở lên đã tịch cốc (nhịn ăn), nên con gà thường... chui vào bụng linh thú cưỡi của họ.
+- **Văn Hóa Trà Đạo:** Người Nhân Tộc có thể ngồi cả ngày chỉ để bàn luận về vị đắng của một chén trà, coi đó là "ngộ đạo". Các tộc khác (như Cự Tộc) thấy điều này cực kỳ khó hiểu và lãng phí thời gian.
+- **Sợ Vợ:** Một thống kê thú vị cho thấy 80% các đại cao thủ Nhân Tộc đều có một đạo lữ (vợ) cực kỳ hung dữ hoặc quản lý tài chính rất chặt.
+
 ## IV. NƠI SINH SỐNG
 - **Phân Bố:** Rộng khắp Bàn Cổ Lục Địa.
 - **Trung Tâm:** Trung Châu (nơi linh khí hội tụ, văn minh rực rỡ nhất). Ngoài ra còn có Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
