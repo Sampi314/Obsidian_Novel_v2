@@ -18,16 +18,16 @@
 - **Chi Tiết:** Xem tại `Đạo/Tu_Luyện/He_Thong_Canh_Gioi.md`.
 
 ## IV. CHỦNG TỘC
-- **9 Đại Chủng Tộc:**
+- **9 Đại Chủng Tộc (Kỷ Nguyên Khởi Nguyên):**
     1. Nhân Tộc (Sáng tạo, học hỏi).
-    2. Yêu Tộc (Sức mạnh, thọ nguyên).
-    3. Ma Tộc (Tàn bạo, ma khí).
+    2. Long Tộc (Uy quyền, mưa gió).
+    3. Trùng Tộc (Số lượng, thích nghi).
     4. Hải Tộc (Làm chủ đại dương).
-    5. Linh Tộc (Tinh linh thiên nhiên).
-    6. Vu Tộc (Tu thân thể, thờ tổ tiên).
-    7. Minh Tộc (Linh thể, âm khí).
-    8. Thiên Tộc (Kiêu ngạo, giả thần).
-    9. Tu La Tộc (Hiếu chiến, sát phạt).
+    5. Cự Tộc (Sức mạnh dời non).
+    6. Vi Tộc (Tinh tế, ẩn mình).
+    7. Yêu Tộc (Hoang dã, sức mạnh).
+    8. Vũ Tộc (Chinh phục bầu trời).
+    9. Thạch Tộc (Kiên định, bất hoại).
 - **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chung_Toc_Chinh.md`.
 
 ## V. NHÂN VẬT TIÊU BIỂU
@@ -73,3 +73,4 @@
 - Tạo nhân vật mới: Lâm Phong.
 - Thêm mới Đan dược: Kim Đan Phá Chướng Đan.
 - Thêm mới Kỳ vật: Hỏa Linh Thảo.
+- **Mới:** Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc (Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch).

@@ -1,60 +1,42 @@
 # CÁC CHỦNG TỘC CHÍNH (CỐ NGUYÊN GIỚI)
 
 ## TỔNG QUAN
-Cố Nguyên Giới là nơi sinh sống của vạn tộc, nhưng nổi bật nhất là Cửu Đại Chủng Tộc, phân chia thiên hạ.
+Trong kỷ nguyên Khởi Nguyên, Cố Nguyên Giới được chia sẻ bởi **Cửu Đại Chủng Tộc**. Mỗi tộc đều nắm giữ những thế mạnh riêng biệt, tạo nên sự cân bằng mong manh giữa các thế lực trong thiên địa.
 
 ## CHI TIẾT 9 CHỦNG TỘC
 
 ### 1. Nhân Tộc (人族)
-- **Ngoại Hình & Sinh Lý:** Cơ thể yếu đuối, tuổi thọ ngắn (dưới 100 năm), nhưng sinh sản nhanh, khả năng học hỏi và sáng tạo vô hạn.
-- **Khả Năng Đặc Biệt:** Linh căn đa dạng, ngộ tính cao nhất trong các tộc, dễ dàng dung hợp các loại công pháp khác nhau.
-- **Văn Hóa & Xã Hội:** Sống quần cư, có tôn ti trật tự, coi trọng tình nghĩa và đạo đức. Xây dựng tông môn, triều đình.
-- **Nơi Sinh Sống:** Phân bố khắp nơi, tập trung đông nhất ở Trung Châu (gần Thiên Trụ Sơn).
+- **Đặc Trưng:** Tuy sinh sau đẻ muộn và thể chất yếu đuối, nhưng Nhân Tộc sở hữu trí tuệ và khả năng sáng tạo vô hạn. Họ là bậc thầy của Đan, Khí, Trận, Phù.
+- **Chi Tiết:** Xem tại [Nhan_Toc.md](Nhan_Toc.md).
 
-### 2. Yêu Tộc (妖族)
-- **Ngoại Hình & Sinh Lý:** Nguyên hình là cầm thú, cây cỏ. Có thể hóa hình người khi tu luyện cao. Tuổi thọ rất dài, thân thể cường hãn.
-- **Khả Năng Đặc Biệt:** Bản năng chiến đấu bẩm sinh, huyết mạch truyền thừa (Thiên Phú Thần Thông).
-- **Văn Hóa & Xã Hội:** Tôn sùng kẻ mạnh (Cường giả vi tôn), sống theo bộ lạc hoặc lãnh địa riêng.
-- **Nơi Sinh Sống:** Đông Hoang, rừng rậm nguyên sinh.
+### 2. Long Tộc (龍族)
+- **Đặc Trưng:** Chủng tộc cổ xưa và hùng mạnh bậc nhất. Họ làm chủ mưa gió, sấm sét và đại dương.
+- **Chi Tiết:** Xem tại [Long_Toc.md](Long_Toc.md).
 
-### 3. Ma Tộc (魔族)
-- **Ngoại Hình & Sinh Lý:** Thường có sừng, da màu tối hoặc đỏ, khí tức hung sát. Thích nghi với môi trường khắc nghiệt, ma khí.
-- **Khả Năng Đặc Biệt:** Thao túng cảm xúc tiêu cực, hấp thụ oán khí để tu luyện, sức mạnh bùng nổ nhưng dễ mất kiểm soát.
-- **Văn Hóa & Xã Hội:** Tàn nhẫn, hiếu chiến, coi trọng sức mạnh cá nhân tuyệt đối.
-- **Nơi Sinh Sống:** Vùng đất giáp ranh Cửu U, nơi âm khí nặng nề.
+### 3. Trùng Tộc (蟲族)
+- **Đặc Trưng:** Số lượng vô tận, sinh sản cực nhanh và khả năng tiến hóa đáng sợ. Là nỗi kinh hoàng của mọi sinh linh khác.
+- **Chi Tiết:** Xem tại [Trung_Toc.md](Trung_Toc.md).
 
 ### 4. Hải Tộc (海族)
-- **Ngoại Hình & Sinh Lý:** Có vây, mang, đuôi cá hoặc vỏ cứng. Sống dưới nước, chịu áp lực nước cực lớn.
-- **Khả Năng Đặc Biệt:** Điều khiển thủy hệ pháp thuật (Thủy Độn, Thủy Lao), giao tiếp bằng sóng âm.
-- **Văn Hóa & Xã Hội:** Sống trong các Long Cung, Thủy Phủ dưới đáy biển. Thờ phụng Long Thần.
-- **Nơi Sinh Sống:** Vô Tận Hải.
+- **Đặc Trưng:** Những đứa con của biển cả, thống trị Vô Tận Hải. Họ sở hữu nền văn minh rực rỡ dưới đáy đại dương.
+- **Chi Tiết:** Xem tại [Hai_Toc.md](Hai_Toc.md).
 
-### 5. Linh Tộc (靈族)
-- **Ngoại Hình & Sinh Lý:** Sinh ra từ linh khí tinh thuần (Tinh linh hoa cỏ, đá, mây...). Hình dáng thanh thoát, xinh đẹp.
-- **Khả Năng Đặc Biệt:** Thân cận với thiên nhiên, điều khiển mộc hệ, thổ hệ pháp thuật cực tốt. Khả năng chữa trị.
-- **Văn Hóa & Xã Hội:** Yêu hòa bình, ghét chiến tranh, sống ẩn dật, bảo vệ thiên nhiên.
-- **Nơi Sinh Sống:** Các bí cảnh, rừng sâu núi thẳm nơi linh khí đậm đặc.
+### 5. Cự Tộc (巨族)
+- **Đặc Trưng:** Những người khổng lồ với sức mạnh dời non lấp biển. Họ sống đơn giản, bộc trực và hòa hợp với thiên nhiên hoang dã.
+- **Chi Tiết:** Xem tại [Cu_Toc.md](Cu_Toc.md).
 
-### 6. Vu Tộc (巫族)
-- **Ngoại Hình & Sinh Lý:** Thân hình cao lớn vạm vỡ, xăm mình bằng các ký tự cổ xưa. Không tu Nguyên Thần, chỉ tu Nhục Thân.
-- **Khả Năng Đặc Biệt:** Sức mạnh cơ bắp dời non lấp biển, sử dụng Vu Thuật (Lời nguyền, điều khiển trùng độc, cầu mưa).
-- **Văn Hóa & Xã Hội:** Thờ phụng Thập Nhị Tổ Vu, sống bộ lạc du mục, coi trọng tổ tiên.
-- **Nơi Sinh Sống:** Nam Cương.
+### 6. Vi Tộc (微族)
+- **Đặc Trưng:** Kích thước siêu nhỏ, khó bị phát hiện. Họ là những nghệ nhân tinh tế và bậc thầy của sự lén lút.
+- **Chi Tiết:** Xem tại [Vi_Toc.md](Vi_Toc.md).
 
-### 7. Minh Tộc (冥族) / Quỷ Tộc
-- **Ngoại Hình & Sinh Lý:** Cơ thể bán thực thể hoặc linh thể, không có hơi ấm. Sợ ánh nắng mặt trời (trừ khi tu vi cao).
-- **Khả Năng Đặc Biệt:** Đi xuyên vật chất, tấn công linh hồn trực tiếp, đoạt xá.
-- **Văn Hóa & Xã Hội:** Sống trong bóng tối, cai quản việc luân hồi, trừng phạt tội ác.
-- **Nơi Sinh Sống:** Các vùng đất Âm Sát, huyệt mộ cổ xưa.
+### 7. Yêu Tộc (妖族)
+- **Đặc Trưng:** Muôn thú tu luyện thành tinh. Sức sống mãnh liệt, hoang dã và tôn sùng sức mạnh tuyệt đối.
+- **Chi Tiết:** Xem tại [Yeu_Toc.md](Yeu_Toc.md).
 
-### 8. Thiên Tộc (天族) / Thần Tộc Giả
-- **Ngoại Hình & Sinh Lý:** Có cánh trắng hoặc hào quang sau lưng. Tự xưng là hậu duệ của Thần.
-- **Khả Năng Đặc Biệt:** Sử dụng Quang hệ pháp thuật (Thánh Quang), thanh tẩy tà ác, tốc độ cực nhanh.
-- **Văn Hóa & Xã Hội:** Kiêu ngạo, coi các tộc khác là hạ đẳng, tự cho mình quyền phán xét thế gian.
-- **Nơi Sinh Sống:** Các đảo lơ lửng trên không trung (Thiên Không Đảo).
+### 8. Vũ Tộc (羽族)
+- **Đặc Trưng:** Những kẻ chinh phục bầu trời với đôi cánh rộng lớn. Tốc độ và sự kiêu hãnh là biểu tượng của họ.
+- **Chi Tiết:** Xem tại [Vu_Toc.md](Vu_Toc.md).
 
-### 9. Tu La Tộc (修羅族)
-- **Ngoại Hình & Sinh Lý:** Nam xấu xí dữ tợn, Nữ xinh đẹp quyến rũ. Sinh ra trong biển máu.
-- **Khả Năng Đặc Biệt:** Sát khí ngập trời, càng chiến đấu càng mạnh (Cuồng Hóa), không biết sợ hãi.
-- **Văn Hóa & Xã Hội:** Chỉ biết giết chóc và dục vọng. Nam làm nô lệ chiến tranh, nữ làm công cụ mua vui hoặc sát thủ.
-- **Nơi Sinh Sống:** Huyết Hải (Một vùng biển đỏ như máu).
+### 9. Thạch Tộc (石族)
+- **Đặc Trưng:** Sinh ra từ đất đá, cơ thể kim cương bất hoại. Họ trầm ổn, kiên nhẫn và sống lâu như trời đất.
+- **Chi Tiết:** Xem tại [Thach_Toc.md](Thach_Toc.md).
