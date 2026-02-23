@@ -242,14 +242,8 @@ dạng_cấu_trúc: [C1/C2/C3/Tứ Tuyệt/Luật Thi/Từ-{tên từ bài}/Khú
 
 Markdown mặc định **nuốt xuống dòng đơn** — hai dòng liền nhau sẽ bị gộp thành một đoạn. Lời nhạc PHẢI hiển thị đúng từng dòng riêng biệt.
 
-**Luôn dùng một trong hai cách sau:**
-
-### Cách 1: Hai khoảng trắng cuối dòng (trailing spaces)
-Thiên địa huyền hoàng··↵ Vũ trụ hồng hoang··↵ Nhật nguyệt doanh trắc··↵ Thần tinh liệt trương··↵
-
-(Mỗi `··` = 2 dấu cách ở cuối dòng trước khi Enter)
-
-### Cách 2: Dòng trống giữa mỗi dòng lời (preferred — ổn định hơn)
+**Luôn dùng cách sau:**
+### Cách: Dòng trống giữa mỗi dòng lời (preferred — ổn định hơn)
 Thiên địa huyền hoàng
 
 Vũ trụ hồng hoang
@@ -259,14 +253,6 @@ Nhật nguyệt doanh trắc
 Thần tinh liệt trương
 
 
-### Cách 3: Thẻ HTML `<br>` (dùng khi cần chắc chắn 100%)
-Thiên địa huyền hoàng
-Vũ trụ hồng hoang
-Nhật nguyệt doanh trắc
-Thần tinh liệt trương
-
-
-**Ưu tiên:** Cách 2 (dòng trống) cho lời nhạc dài, Cách 1 cho đoạn ngắn gọn.
 
 **KHÔNG BAO GIỜ** viết lời nhạc liền nhau như văn xuôi:
 ❌ SAI: Thiên địa huyền hoàng Vũ trụ hồng hoang Nhật nguyệt doanh trắc
