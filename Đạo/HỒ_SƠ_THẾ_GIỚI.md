@@ -63,6 +63,8 @@
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Tàn_Nguyệt_Kiếm_Quyết.md`.
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
+- **Trận Pháp:**
+    - *Cửu Hoa Tru Tiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện. Xem tại `Đạo/Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md`.
 - **Vạn Hỏa Phần Thiên Trận (Cửu Cấp):**
     - Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù.
     - **Chi Tiết:** Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
@@ -82,18 +84,30 @@
 ## VI. TÀI NGUYÊN & NGHỀ PHỤ
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Dan_Pha_Chuong_Dan.md`.
+- **Pháp Bảo:**
+    - *Hàn Ngọc Kiếm (Huyền Cấp Thượng Phẩm):* Kiếm hàn băng của Sở Lăng Sương. Xem tại `Đạo/Luyện_Khí/Hàn_Ngọc_Kiếm.md`.
 - **Kỳ Vật:**
     - *Hỏa Linh Thảo:* Thảo dược hệ Hỏa, mọc ở nơi hỏa khí nồng đậm. Xem tại `Đạo/Kỳ_Vật/Hoa_Linh_Thao.md`.
+    - *Hàn Ngọc:* Khoáng thạch hệ Băng, dùng luyện khí và tu luyện. Xem tại `Đạo/Kỳ_Vật/Hàn_Ngọc.md`.
 
-## VII. CẬP NHẬT GẦN NHẤT
+## IX. KHO TÀNG VĂN HỌC
+- **Thơ Ca:**
+    - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
+
+## X. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Bản đồ sơ bộ.
 - Thiết lập Hệ thống cảnh giới.
 - Phác thảo 9 Chủng tộc chính.
 - Tạo nhân vật mới: Diệp Tĩnh Sương.
-- **Mới:** Xây dựng Cửu Hoa Kiếm Tông (Thế lực, Công pháp, Trận pháp).
+- Xây dựng Cửu Hoa Kiếm Tông (Thế lực, Công pháp, Trận pháp).
 - Tạo nhân vật mới: Lâm Phong.
 - Thêm mới Đan dược: Kim Đan Phá Chướng Đan.
 - Thêm mới Kỳ vật: Hỏa Linh Thảo.
+- Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc.
+- Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
+- Sáng tác thơ: Hàn Mai Kiếm Ca.
+- **Mới:** Thêm Kỳ vật: Hàn Ngọc.
+- **Mới:** Thêm Pháp bảo: Hàn Ngọc Kiếm.
 - **Mới:** Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc (Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch).
 - **Mới:** Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
 - **Mới:** Tạo nhân vật Hàn Thanh Nguyệt và công pháp Tàn Nguyệt Kiếm Quyết.

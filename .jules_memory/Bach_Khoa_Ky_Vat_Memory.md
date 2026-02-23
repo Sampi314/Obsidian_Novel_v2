@@ -1,0 +1,2 @@
+- **Đã tạo:** Hàn Ngọc (Linh Phẩm Trung Cấp).
+- **Mô tả:** Khoáng thạch hệ Băng, tìm thấy ở Bắc Băng, dùng luyện khí và tu luyện.
