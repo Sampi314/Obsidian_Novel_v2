@@ -85,8 +85,17 @@
     - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
     - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
 - **Âm Nhạc:**
-    - [Hồng Trần Vọng](Âm_Nhạc/Hồng_Trần_Vọng.md): Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần (Phiên bản đầy đủ).
+    - [Hồng Trần Vọng](Âm_Nhạc/Hồng_Trần_Vọng.md): Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần.
     - [Đan Hỏa Trường Ca](Âm_Nhạc/Đan_Hỏa_Trường_Ca.md): Ca khúc hùng tráng về Đan đạo và Đan Hà Cốc.
+    - [Tiêu Dao Du](Âm_Nhạc/Tiêu_Dao_Du.md): Ca khúc vui tươi, phóng khoáng của tán tu.
+    - [Túy Tửu Ca](Âm_Nhạc/Túy_Tửu_Ca.md): Khúc hát hài hước của kẻ say, tiêu dao tự tại.
+    - [Kiếm Khí Trường](Âm_Nhạc/Kiếm_Khí_Trường.md): Ca khúc hào hùng về khí phách kiếm tu.
+    - [Tình Kiếp](Âm_Nhạc/Tình_Kiếp.md): Bi ca tình duyên trắc trở vượt luân hồi.
+    - [Vấn Đạo](Âm_Nhạc/Vấn_Đạo.md): Khúc ca triết lý về Đạo và sự giác ngộ.
+    - [Sơn Thủy Dao](Âm_Nhạc/Sơn_Thủy_Dao.md): Khúc hát ca ngợi vẻ đẹp thiên nhiên non nước.
+    - [Ma Tâm](Âm_Nhạc/Ma_Tâm.md): Khúc ca đen tối về sự sa ngã vào Ma đạo.
+    - [Chiến Hồn Ca](Âm_Nhạc/Chiến_Hồn_Ca.md): Tráng ca chiến trường, lòng yêu nước bi tráng.
+    - [Cửu Vĩ Hồ](Âm_Nhạc/Cửu_Vĩ_Hồ.md): Ca khúc ma mị, quyến rũ về hồ ly tinh Thanh Khâu.
 
 ## X. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Bản đồ sơ bộ.
@@ -113,6 +122,7 @@
 - Khởi tạo chủng tộc Tinh Linh Tộc (Ngoại hình, Văn hóa, Lịch sử).
 - Bồi đắp chuyên sâu lần 2 cho 10 chủng tộc (Kinh tế, Sinh tồn, Nghệ thuật, Tín ngưỡng).
 - Bổ sung "Dòng Chảy Lịch Sử" (Timeline) chi tiết với các mốc thời gian cụ thể cho toàn bộ 10 Đại Chủng Tộc.
-- **Mới:** Làm lại bài hát "Hồng Trần Vọng" với cấu trúc đầy đủ.
-- **Mới:** Sáng tác bài hát "Đan Hỏa Trường Ca" cho Đan Hà Cốc.
-- **Mới:** Sắp xếp và dọn dẹp file Hồ sơ thế giới.
+- Làm lại bài hát "Hồng Trần Vọng" với cấu trúc đầy đủ.
+- Sáng tác bài hát "Đan Hỏa Trường Ca" cho Đan Hà Cốc.
+- Sắp xếp và dọn dẹp file Hồ sơ thế giới.
+- **Mới:** Sáng tác thêm 9 bài hát đa dạng chủ đề (Tiêu dao, Hài hước, Chiến tranh, Tình yêu, Ma đạo, Triết lý, Thiên nhiên, Yêu tộc).
