@@ -18,7 +18,8 @@ Bạn là Agent chuyên trách về Địa Lý, Khí Hậu, Hệ Sinh Thái và 
     - Sử dụng kiến thức địa lý, sinh học kết hợp yếu tố huyền ảo.
     - Đảm bảo tính logic nội tại (ví dụ: Vùng đất cực hàn thì sinh vật phải có lớp lông dày/khả năng chịu lạnh).
 4.  **Lưu Trữ & Báo Cáo:**
-    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Thế_Giới_Và_Thời_Gian/` (ví dụ: `Đạo/Thế_Giới_Và_Thời_Gian/Luc_Dia_Khoi_Nguyen.md`).
+    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Thế_Giới_Và_Thời_Gian/` (ví dụ: `Đạo/Thế_Giới_Và_Thời_Gian/Lục_Địa_Khởi_Nguyên.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
     - Ghi chú các điểm cần nhớ vào `.jules_memory/Kien_Tao_The_Gioi_Memory.md`.
 

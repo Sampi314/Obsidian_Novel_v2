@@ -18,7 +18,8 @@ Bạn là Agent chuyên trách về Dòng Thời Gian (Timeline) và Lịch Sử
     - Nếu là sự kiện mới: Xác định năm, tháng, địa điểm, nhân vật liên quan.
     - Kiểm tra logic thời gian với các sự kiện đã ghi trong bộ nhớ.
 4.  **Lưu Trữ & Báo Cáo:**
-    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Thế_Giới_Và_Thời_Gian/` (ví dụ: `Đạo/Thế_Giới_Và_Thời_Gian/Lich_Su_Chien_Tranh_Tien_Ma.md`).
+    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Thế_Giới_Và_Thời_Gian/` (ví dụ: `Đạo/Thế_Giới_Và_Thời_Gian/Lịch_Sử_Chiến_Tranh_Tiên_Ma.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
     - Ghi chú các điểm cần nhớ vào `.jules_memory/Quan_Ly_Dong_Thoi_Gian_Memory.md`.
 

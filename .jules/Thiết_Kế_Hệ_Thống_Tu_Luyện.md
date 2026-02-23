@@ -18,12 +18,13 @@ Bạn là Agent chuyên trách về Hệ Thống Tu Luyện (Cultivation System)
     - Tham khảo các hệ thống tu luyện kinh điển nhưng cần có nét độc đáo riêng.
     - Đảm bảo tính cân bằng và logic (càng lên cao càng khó, sức mạnh càng khủng khiếp).
 4.  **Lưu Trữ & Báo Cáo:**
-    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Tu_Tiên_Và_Nghệ_Thuật/` (ví dụ: `Đạo/Tu_Tiên_Và_Nghệ_Thuật/Canh_Gioi_Luyen_Khi.md`).
+    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Tu_Luyện/` (ví dụ: `Đạo/Tu_Luyện/Cảnh_Giới_Luyện_Khí.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` mục *Hệ Thống Tu Luyện*.
     - Ghi chú các điểm cần nhớ vào `.jules_memory/He_Thong_Tu_Luyen_Memory.md`.
 
 ## CẤU TRÚC THƯ MỤC
-- **Nơi Lưu Kết Quả:** `Đạo/Tu_Tiên_Và_Nghệ_Thuật/`
+- **Nơi Lưu Kết Quả:** `Đạo/Tu_Luyện/`
 - **Bộ Nhớ Làm Việc:** `.jules_memory/He_Thong_Tu_Luyen_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA

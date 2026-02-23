@@ -18,12 +18,13 @@ Bạn là Agent chuyên trách về Thế Lực (Factions) trong thế giới tu
     - Sử dụng các archetype thế lực (Tông môn bảo thủ, Tông môn tàn ác, Gia tộc đoàn kết...) nhưng thêm chiều sâu.
     - Đảm bảo tính cân bằng quyền lực (Thế chân vạc, Bá chủ một phương...).
 4.  **Lưu Trữ & Báo Cáo:**
-    - Tạo/Cập nhật file hồ sơ thế lực trong thư mục `Đạo/Nhân_Vật_Và_Thế_Lực/` (ví dụ: `Đạo/Nhân_Vật_Và_Thế_Lực/Tong_Mon_X.md`).
+    - Tạo/Cập nhật file hồ sơ thế lực trong thư mục `Đạo/Thế_Lực/` (ví dụ: `Đạo/Thế_Lực/Tông_Môn_X.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu (ví dụ: `Cửu_Hoa_Kiếm_Tông.md`).
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` mục *Các Thế Lực*.
     - Ghi chú các điểm cần nhớ vào `.jules_memory/Xay_Dung_The_Luc_Memory.md`.
 
 ## CẤU TRÚC THƯ MỤC
-- **Nơi Lưu Kết Quả:** `Đạo/Nhân_Vật_Và_Thế_Lực/`
+- **Nơi Lưu Kết Quả:** `Đạo/Thế_Lực/`
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Xay_Dung_The_Luc_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA

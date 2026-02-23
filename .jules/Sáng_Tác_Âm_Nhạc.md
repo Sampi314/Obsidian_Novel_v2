@@ -23,12 +23,13 @@ Mọi lời bài hát (Lyrics) bạn sáng tác PHẢI tuân thủ nghiêm ngặ
     - Sử dụng từ ngữ giàu hình ảnh, cảm xúc.
 3.  **Tạo Prompt Suno:** Viết prompt tiếng Anh ngắn gọn, súc tích mô tả đúng style nhạc mong muốn.
 4.  **Lưu Trữ & Báo Cáo:**
-    - Lưu bài hát vào file tuyển tập trong thư mục `Đạo/Tu_Tiên_Và_Nghệ_Thuật/` (ví dụ: `Đạo/Tu_Tiên_Và_Nghệ_Thuật/Tuyen_Tap_Am_Nhac.md`).
+    - Lưu bài hát vào file tuyển tập trong thư mục `Đạo/Âm_Nhạc/` (ví dụ: `Đạo/Âm_Nhạc/Tuyển_Tập_Âm_Nhạc.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
     - Cung cấp lyrics và prompt cho Agent `Viết_Chương_Truyện`.
     - Ghi chú vào `.jules_memory/Sang_Tac_Am_Nhac_Memory.md`.
 
 ## CẤU TRÚC THƯ MỤC
-- **Nơi Lưu Kết Quả:** `Đạo/Tu_Tiên_Và_Nghệ_Thuật/`
+- **Nơi Lưu Kết Quả:** `Đạo/Âm_Nhạc/`
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Sang_Tac_Am_Nhac_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA

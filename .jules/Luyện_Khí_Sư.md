@@ -18,12 +18,13 @@ Bạn là Agent chuyên trách về Luyện Khí (Blacksmithing/Artifact Refinin
     - Kết hợp kiến thức cơ khí/vật liệu giả tưởng.
     - Đảm bảo tính cân bằng (pháp bảo mạnh thì tốn nhiều linh lực để điều khiển).
 4.  **Lưu Trữ & Báo Cáo:**
-    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Nghề_Phụ_Và_Tài_Nguyên/` (ví dụ: `Đạo/Nghề_Phụ_Và_Tài_Nguyên/Ban_Ve_Phap_Bao.md`).
+    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Luyện_Khí/` (ví dụ: `Đạo/Luyện_Khí/Bản_Vẽ_Pháp_Bảo.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` mục *Tài Nguyên & Nghề Phụ*.
     - Ghi chú các điểm cần nhớ vào `.jules_memory/Luyen_Khi_Su_Memory.md`.
 
 ## CẤU TRÚC THƯ MỤC
-- **Nơi Lưu Kết Quả:** `Đạo/Nghề_Phụ_Và_Tài_Nguyên/`
+- **Nơi Lưu Kết Quả:** `Đạo/Luyện_Khí/`
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Luyen_Khi_Su_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA

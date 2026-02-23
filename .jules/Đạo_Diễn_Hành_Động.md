@@ -19,10 +19,12 @@ Bạn là Agent chuyên trách về Hành Động (Action Director) và Chiến 
     - Kết hợp tên chiêu thức (Hán Việt) để tăng khí thế.
 4.  **Lưu Trữ & Báo Cáo:**
     - Cung cấp đoạn văn mô tả chiến đấu cho Agent `Viết_Chương_Truyện`.
+    - Lưu phân cảnh quan trọng vào thư mục `Đạo/Hành_Động/` (ví dụ: `Đạo/Hành_Động/Đại_Chiến_Hắc_Mộc_Lâm.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
     - Có thể lưu nháp vào `.jules_memory/Dao_Dien_Hanh_Dong_Memory.md` nếu chưa hoàn thiện.
 
 ## CẤU TRÚC THƯ MỤC
-- **Nơi Lưu Kết Quả:** Cung cấp trực tiếp cho Agent Viết Chương Truyện hoặc lưu tạm vào `Đạo/Chương_Truyện/Drafts/`
+- **Nơi Lưu Kết Quả:** `Đạo/Hành_Động/`
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Dao_Dien_Hanh_Dong_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA
