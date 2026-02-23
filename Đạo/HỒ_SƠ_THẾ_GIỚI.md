@@ -98,6 +98,9 @@
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
     - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
+    - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
+- **Âm Nhạc:**
+    - [Hồng Trần Vọng](Âm_Nhạc/Hồng_Trần_Vọng.md): Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần.
 
 ## X. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Bản đồ sơ bộ.
@@ -118,3 +121,4 @@
 - **Mới:** Tạo nhân vật Hàn Thanh Nguyệt và công pháp Tàn Nguyệt Kiếm Quyết.
 - **Mới:** Sáng tác thơ "Độc Ẩm Dưới Trăng".
 - **Mới:** Tạo nhân vật Triệu Thanh Hằng và công pháp Lãnh Phong Kiếm Quyết.
+- **Mới:** Sáng tác ca khúc "Hồng Trần Vọng".
