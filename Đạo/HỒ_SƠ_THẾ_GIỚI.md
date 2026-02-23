@@ -35,6 +35,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diep_Tinh_Suong.md`.
 - **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lam_Phong.md`.
+- **Sở Lăng Sương (Băng Phách Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, trọng nghĩa. Sở hữu *Hàn Sương Kiếm Quyết*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Sở_Lăng_Sương.md`.
 
 ## VI. CÁC THẾ LỰC
 - **Cửu Hoa Kiếm Tông (Đông Hoang):**
@@ -45,6 +47,9 @@
 - **Cửu Hoa Kiếm Quyết (Thiên Cấp Hạ Phẩm):**
     - Công pháp trấn phái của Cửu Hoa Kiếm Tông, thiên về tốc độ và sát thương diện rộng (dạng hoa sen).
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Cuu_Hoa_Kiem_Quyet.md`.
+- **Hàn Sương Kiếm Quyết (Huyền Cấp Thượng Phẩm):**
+    - Công pháp hệ Băng, thiên về khống chế và làm chậm, có thể gây Hàn Độc.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Hàn_Sương_Kiếm_Quyết.md`.
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Cửu Hoa Tru Tiên Trận (Cửu Cấp):**
@@ -74,3 +79,4 @@
 - Thêm mới Đan dược: Kim Đan Phá Chướng Đan.
 - Thêm mới Kỳ vật: Hỏa Linh Thảo.
 - **Mới:** Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc (Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch).
+- **Mới:** Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
