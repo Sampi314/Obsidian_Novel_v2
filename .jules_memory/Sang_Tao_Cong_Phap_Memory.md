@@ -8,3 +8,7 @@
 - **Tạo Mới:** Tàn Nguyệt Kiếm Quyết (Huyền Cấp Trung Phẩm).
 - **Đặc Điểm:** Hệ Băng, tàn khuyết, thiên về tốc độ và sát thương hiểm hóc.
 - **Ghi Chú:** Nhấn mạnh sự "không trọn vẹn" và rủi ro phản phệ. Chiêu thức không đẹp mắt nhưng hiệu quả chết người.
+
+- **Tạo Mới:** Lãnh Phong Kiếm Quyết (Huyền Cấp Thượng Phẩm).
+- **Đặc Điểm:** Phong kết hợp Băng, thiên về tốc độ và cắt xẻ, gây Hàn Độc.
+- **Ghi Chú:** Bổ sung vào kho tàng công pháp hệ Băng/Phong, tạo sự đa dạng so với Băng thuần túy.

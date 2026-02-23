@@ -20,3 +20,8 @@
 - **Đặc Điểm:** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ, xuất thân bần hàn.
 - **Vai Trò:** Tán tu thực dụng, lạnh lùng, bảo vệ kẻ yếu.
 - **Ghi Chú:** Khai thác góc độ "sinh tồn" và "nghĩa khí giang hồ" của tầng lớp đáy xã hội. Đối lập với các nhân vật xuất thân tông môn hoặc gia thế.
+
+- **Tạo Mới:** Triệu Thanh Hằng (Hàn Sương Khách).
+- **Đặc Điểm:** Nữ kiếm tu Nhân tộc, Trúc Cơ Trung Kỳ, Phong-Băng Linh Căn.
+- **Vai Trò:** Độc hành, lạnh lùng nhưng trọng ân nghĩa, sinh tồn khắc nghiệt.
+- **Ghi Chú:** Mở rộng tuyến nhân vật sinh tồn từ thảm họa (dịch bệnh).
