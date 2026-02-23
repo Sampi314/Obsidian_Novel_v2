@@ -10,8 +10,8 @@
 尽头可是大罗楼？
 
 **(Pre-Chorus)**
-观自在，照五蕴，
-空即是色色即空。
+观自在，守丹田，
+精气神满入先天。
 梦里不知身是客，
 醒来方觉万事空。
 
@@ -24,21 +24,21 @@
 得道易，易在一念间。
 
 **(Interlude)**
-(Instrumental - Temple Bells, Guqin (Seven-string zither), Deep Chanting Monk Choir)
+(Instrumental - Jade Chimes, Guqin (Seven-string zither), Daoist Chanting)
 
 **(Verse 2)**
 朝闻道，夕死可，
 寻寻觅觅为何果？
 长生不老非真谛，
 逍遥自在是心魔。
-打破虚空见真如，
+打破虚空见真我，
 方知我是我非我。
 
 **(Pre-Chorus)**
 水无常形，云无常势，
 万法归一，一归何处？
-菩提本无树，明镜亦非台，
-本来无一物，何处惹尘埃。
+心若止水映千江，
+本无一物何惹尘。
 
 **(Chorus)**
 道可道，非常道，
@@ -78,8 +78,8 @@ Ngã dục vấn thiên nả nhất đầu,
 Tận đầu khả thị Đại La lâu?
 
 **(Pre-Chorus)**
-Quán tự tại, chiếu ngũ uẩn,
-Không tức thị sắc sắc tức không.
+Quán tự tại, thủ đan điền,
+Tinh khí thần mãn nhập tiên thiên.
 Mộng lý bất tri thân thị khách,
 Tỉnh lai phương giác vạn sự không.
 
@@ -92,21 +92,21 @@ Cầu đạo nan, nan ư thượng thanh thiên,
 Đắc đạo dị, dị tại nhất niệm gian.
 
 **(Interlude)**
-(Nhạc cụ - Chuông chùa, Cổ cầm (đàn 7 dây), Dàn đồng ca tu sĩ tụng kinh trầm)
+(Instrumental - Khánh ngọc, Cổ cầm (đàn 7 dây), Tiếng ngâm đạo ca trầm hùng)
 
 **(Verse 2)**
 Triêu văn đạo, tịch tử khả,
 Tầm tầm mịch mịch vi hà quả?
 Trường sinh bất lão phi chân đế,
 Tiêu dao tự tại thị tâm ma.
-Đả phá hư không kiến chân như,
+Đả phá hư không kiến chân ngã,
 Phương tri ngã thị ngã phi ngã.
 
 **(Pre-Chorus)**
 Thủy vô thường hình, vân vô thường thế,
 Vạn pháp quy nhất, nhất quy hà xứ?
-Bồ đề bản vô thụ, minh kính diệc phi đài,
-Bản lai vô nhất vật, hà xứ nhạ trần ai.
+Tâm nhược chỉ thủy ánh thiên giang,
+Bản vô nhất vật hà nhạ trần.
 
 **(Chorus)**
 Đạo khả đạo, phi thường đạo,
@@ -146,8 +146,8 @@ Ta muốn hỏi đầu bên kia của bầu trời,
 Tận cùng có phải là lầu Đại La không?
 
 **(Pre-Chorus)**
-Quán Tự Tại, soi rọi năm uẩn (sắc, thọ, tưởng, hành, thức),
-Không chính là sắc, sắc chính là không.
+Quan sát sự tự tại, giữ vững đan điền,
+Tinh khí thần đầy đủ bước vào cảnh giới Tiên Thiên.
 Trong mộng không biết mình là khách trọ,
 Tỉnh dậy mới thấy vạn sự đều hư không.
 
@@ -160,21 +160,21 @@ Cầu đạo khó, khó hơn lên trời xanh,
 Đắc đạo dễ, dễ ở trong một ý niệm.
 
 **(Interlude)**
-(Nhạc cụ - Chuông chùa, Cổ cầm (đàn 7 dây), Dàn đồng ca tu sĩ tụng kinh trầm)
+(Nhạc cụ - Khánh ngọc, Cổ cầm (đàn 7 dây), Tiếng ngâm đạo ca trầm hùng)
 
 **(Verse 2)**
 Sáng nghe được đạo, chiều chết cũng cam lòng,
 Tìm tìm kiếm kiếm vì kết quả gì?
 Trường sinh bất lão không phải chân lý,
 Tiêu dao tự tại (nếu chấp vào đó) chính là tâm ma.
-Đập vỡ hư không thấy được bản chất thật,
+Đập vỡ hư không thấy được cái tôi chân thật,
 Mới biết ta là ta mà cũng không phải là ta.
 
 **(Pre-Chorus)**
 Nước không có hình dạng cố định, mây không có thế cố định,
 Vạn pháp quy về một, một quy về đâu?
-Bồ đề vốn không phải là cây, gương sáng cũng không phải là đài,
-Xưa nay vốn không có một vật gì, nơi nào để bám bụi trần.
+Tâm như nước lặng chiếu rọi ngàn dòng sông,
+Vốn không có vật gì sao lại bám bụi trần.
 
 **(Chorus)**
 Đạo mà có thể diễn tả được thì không phải là đạo vĩnh cửu,
@@ -206,7 +206,7 @@ Mặt đất trắng xóa thật sạch sẽ (hư vô).
 
 ### IV. THÔNG TIN BỔ SUNG
 *   **Ý Nghĩa/Thông Điệp:**
-    - **Chủ đề:** Sự trăn trở, truy cầu chân lý tối thượng (Đạo) của người tu hành. Kết hợp triết lý Đạo gia (Đạo Đức Kinh) và Phật gia (Bát Nhã Tâm Kinh, Lục Tổ Huệ Năng).
+    - **Chủ đề:** Sự trăn trở, truy cầu chân lý tối thượng (Đạo) của người tu hành. Dựa trên triết lý Đạo gia (Đạo Đức Kinh).
     - **Ý nghĩa:** Bài hát không có cốt truyện cụ thể mà là những câu hỏi lớn về vũ trụ, nhân sinh, sự tồn tại. Nhấn mạnh vào sự "ngộ" (hiểu ra) - khoảng cách giữa phàm và tiên chỉ là một ý niệm.
 *   **Suno AI Style Prompt:**
-    > Meditative Chinese Ambient, Spiritual, Mystical. Instruments: Guqin (Zither), Bells, Singing Bowls, Xiao (Flute). Mood: Philosophical, Calm, Deep, Mysterious. Vocals: Male deep voice, half-singing half-chanting (Sprechgesang), with background choir chanting "Om" or mantras. Tempo: Very Slow and atmospheric.
+    > Meditative Chinese Ambient, Spiritual, Mystical. Instruments: Guqin (Zither), Bells, Singing Bowls, Xiao (Flute). Mood: Philosophical, Calm, Deep, Mysterious. Vocals: Male deep voice, half-singing half-chanting (Sprechgesang). Tempo: Very Slow and atmospheric.

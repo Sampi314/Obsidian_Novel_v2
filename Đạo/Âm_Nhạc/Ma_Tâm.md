@@ -2,10 +2,10 @@
 
 ### I. NGUYÊN VĂN TIẾNG TRUNG (CHINESE LYRICS)
 **(Verse 1)**
-佛说回头是岸，
-我道苦海无边。
+圣曰顺天者昌，
+我道逆天者狂。
 心中种下业火，
-焚尽九世青莲。
+焚尽九世沧桑。
 正邪谁来定夺？
 胜者书写简篇。
 
@@ -78,10 +78,10 @@
 
 ### II. PHIÊN ÂM HÁN VIỆT (SINO-VIETNAMESE LYRICS)
 **(Verse 1)**
-Phật thuyết hồi đầu thị ngạn,
-Ngã đạo khổ hải vô biên.
+Thánh viết thuận thiên giả xương,
+Ngã đạo nghịch thiên giả cuồng.
 Tâm trung chủng hạ nghiệp hỏa,
-Phần tận cửu thế thanh liên.
+Phần tận cửu thế thương tang.
 Chính tà thùy lai định đoạt?
 Thắng giả thư tả giản thiên.
 
@@ -154,10 +154,10 @@ Khứ tử ba.
 
 ### III. DỊCH SÁT NGHĨA (LITERAL TRANSLATION)
 **(Verse 1)**
-Phật nói quay đầu là bờ,
-Ta nói biển khổ vô biên (quay đầu cũng chẳng thấy bờ).
+Thánh nhân nói thuận theo trời thì hưng thịnh,
+Ta nói nghịch lại trời thì ngông cuồng.
 Trong lòng gieo xuống ngọn lửa nghiệp chướng,
-Thiêu rụi đóa sen xanh của chín kiếp tu hành.
+Thiêu rụi chín kiếp dâu bể (thay vì hoa sen).
 Chính tà do ai đến định đoạt?
 Kẻ thắng viết nên lịch sử (sách sử).
 
@@ -231,6 +231,6 @@ Ta đến để "độ" (giải thoát/giết) các ngươi...
 ### IV. THÔNG TIN BỔ SUNG
 *   **Ý Nghĩa/Thông Điệp:**
     - **Chủ đề:** Sự sa ngã vào Ma đạo do thù hận, chấp niệm hoặc sự bất công của thế giới. Tâm lý điên cuồng, phản nghịch, muốn hủy diệt tất cả.
-    - **Ý nghĩa:** Bài hát khai thác góc tối của tu tiên giới. Nhân vật chính không tin vào Phật, không tin vào Trời, chỉ tin vào sức mạnh và sự trả thù.
+    - **Ý nghĩa:** Bài hát khai thác góc tối của tu tiên giới. Nhân vật chính không tin vào Thánh, không tin vào Trời, chỉ tin vào sức mạnh và sự trả thù.
 *   **Suno AI Style Prompt:**
     > Dark Fantasy Soundtrack, Horror, Heavy Metal influence. Instruments: Distorted guitars, low drones, discordant strings, throat singing. Mood: Evil, Terrifying, Insane, Intense. Vocals: Male, transitioning from whisper to screaming/growling. Tempo: Slow and heavy (Doom metal style).

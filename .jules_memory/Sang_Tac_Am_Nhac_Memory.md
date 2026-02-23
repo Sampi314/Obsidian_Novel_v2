@@ -68,3 +68,14 @@
     - **Chủ đề:** Tình yêu và thân phận của Yêu tộc (Cửu Vĩ Hồ), quyến rũ nhưng si tình.
     - **Phong cách:** Mystical Chinese Pop, Enchanting.
     - **Nhạc cụ:** Guzheng, Bells, Flute.
+
+## Các Tuyển Tập Mới (90 Bài Hát)
+- **[Tuyển Tập Cảnh Giới Tu Luyện](Đạo/Âm_Nhạc/Tuyển_Tập_Cảnh_Giới.md):** 10 bài hát về quá trình tu hành (Luyện Khí -> Độ Kiếp).
+- **[Tuyển Tập Binh Khí & Pháp Bảo](Đạo/Âm_Nhạc/Tuyển_Tập_Binh_Khí.md):** 10 bài hát về vũ khí (Kiếm, Đao, Thương...).
+- **[Tuyển Tập Ngũ Hành & Nguyên Tố](Đạo/Âm_Nhạc/Tuyển_Tập_Ngũ_Hành.md):** 10 bài hát về nguyên tố (Kim, Mộc, Thủy, Hỏa...).
+- **[Tuyển Tập Cảm Xúc & Tâm Ma](Đạo/Âm_Nhạc/Tuyển_Tập_Cảm_Xúc.md):** 10 bài hát về tâm trạng (Hỉ, Nộ, Ái, Ố...).
+- **[Tuyển Tập Thiên Nhiên & Địa Danh](Đạo/Âm_Nhạc/Tuyển_Tập_Thiên_Nhiên.md):** 10 bài hát về phong cảnh (Núi, Sông, Mây, Mưa...).
+- **[Tuyển Tập Nhân Duyên & Tình Nghĩa](Đạo/Âm_Nhạc/Tuyển_Tập_Nhân_Duyên.md):** 10 bài hát về quan hệ (Sư đồ, Huynh đệ, Đạo lữ...).
+- **[Tuyển Tập Sinh Hoạt & Nghề Phụ](Đạo/Âm_Nhạc/Tuyển_Tập_Sinh_Hoạt.md):** 10 bài hát về đời sống (Luyện đan, Vẽ bùa, Trồng trọt...).
+- **[Tuyển Tập Linh Thú & Yêu Tộc](Đạo/Âm_Nhạc/Tuyển_Tập_Linh_Thú.md):** 10 bài hát về sinh vật (Long, Phượng, Hổ, Hạc...).
+- **[Tuyển Tập Thời Tiết & Tông Môn](Đạo/Âm_Nhạc/Tuyển_Tập_Thời_Tiết.md):** 10 bài hát về 4 mùa và các thế lực lớn.

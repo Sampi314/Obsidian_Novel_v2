@@ -32,7 +32,7 @@
 风雷激荡震山河，
 鼎内金光映碧波。
 去伪存真除杂质，
-洗尽铅华始见佛。
+洗尽铅华始见真。
 
 **(Chorus)**
 丹火熊熊照碧霄，
@@ -90,7 +90,7 @@ Thùy tri đan trung hữu chân vi.
 Phong lôi kích đãng chấn sơn hà,
 Đỉnh nội kim quang ánh bích ba.
 Khứ ngụy tồn chân trừ tạp chất,
-Tẩy tận duyên hoa thủy kiến Phật.
+Tẩy tận duyên hoa thủy kiến chân.
 
 **(Chorus)**
 Đan hỏa hùng hùng chiếu bích tiêu,
@@ -148,7 +148,7 @@ Ai biết được trong viên đan có điều tinh vi chân thật.
 Gió sấm kích động làm rung chuyển núi sông,
 Ánh vàng trong đỉnh chiếu rọi sóng biếc.
 Loại bỏ cái giả, giữ lại cái thật, trừ đi tạp chất,
-Rửa sạch hết bụi trần hoa lệ mới thấy được chân như (Phật tính).
+Rửa sạch hết bụi trần hoa lệ mới thấy được chân lý.
 
 **(Chorus)**
 Lửa luyện đan cháy hừng hực chiếu sáng bầu trời xanh,
@@ -179,4 +179,4 @@ Soi tỏ ngàn thu vạn cổ núi sông.
     - **Chủ đề:** Khát vọng trường sinh và ý chí nghịch thiên cải mệnh của các tu sĩ Đan Hà Cốc thông qua đan đạo.
     - **Ý nghĩa:** Bài hát ca ngợi sự kiên trì, chịu đựng gian khổ (nóng, lạnh, cô đơn) của người luyện đan. Ngọn lửa không chỉ luyện thuốc mà còn luyện tâm, luyện thân. "Đan tâm" vừa có nghĩa là tâm của người luyện đan, vừa là tấm lòng son sắt. Điệp khúc nhấn mạnh vào khoảnh khắc thành tựu (Cửu chuyển công thành) và sự giải thoát (Nhậm tiêu dao).
 *   **Suno AI Style Prompt:**
-    > Epic Chinese Orchestral, Cinematic, Majestic. Instruments: Heavy Taiko drums, Suona (Chinese trumpet) for high notes, large String section, Gong hits. Vocals: Powerful Male Chorus (Monk style) combined with a clear Tenor lead. Atmosphere: Intense heat, mystical ritual, triumphant. Tempo: Medium-Fast, driving rhythm.
+    > Epic Chinese Orchestral, Cinematic, Majestic. Instruments: Heavy Taiko drums, Suona (Chinese trumpet) for high notes, large String section, Gong hits. Vocals: Powerful Male Chorus (Daoist Chanting style) combined with a clear Tenor lead. Atmosphere: Intense heat, mystical ritual, triumphant. Tempo: Medium-Fast, driving rhythm.

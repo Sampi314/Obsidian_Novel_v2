@@ -85,17 +85,11 @@
     - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
     - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
 - **Âm Nhạc:**
+    - **[DANH SÁCH TÁC PHẨM (MỚI)](Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md):** Thư viện tổng hợp 100+ tác phẩm âm nhạc (bao gồm 90 bài hát mới).
     - [Hồng Trần Vọng](Âm_Nhạc/Hồng_Trần_Vọng.md): Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần.
     - [Đan Hỏa Trường Ca](Âm_Nhạc/Đan_Hỏa_Trường_Ca.md): Ca khúc hùng tráng về Đan đạo và Đan Hà Cốc.
     - [Tiêu Dao Du](Âm_Nhạc/Tiêu_Dao_Du.md): Ca khúc vui tươi, phóng khoáng của tán tu.
-    - [Túy Tửu Ca](Âm_Nhạc/Túy_Tửu_Ca.md): Khúc hát hài hước của kẻ say, tiêu dao tự tại.
-    - [Kiếm Khí Trường](Âm_Nhạc/Kiếm_Khí_Trường.md): Ca khúc hào hùng về khí phách kiếm tu.
-    - [Tình Kiếp](Âm_Nhạc/Tình_Kiếp.md): Bi ca tình duyên trắc trở vượt luân hồi.
-    - [Vấn Đạo](Âm_Nhạc/Vấn_Đạo.md): Khúc ca triết lý về Đạo và sự giác ngộ.
-    - [Sơn Thủy Dao](Âm_Nhạc/Sơn_Thủy_Dao.md): Khúc hát ca ngợi vẻ đẹp thiên nhiên non nước.
     - [Ma Tâm](Âm_Nhạc/Ma_Tâm.md): Khúc ca đen tối về sự sa ngã vào Ma đạo.
-    - [Chiến Hồn Ca](Âm_Nhạc/Chiến_Hồn_Ca.md): Tráng ca chiến trường, lòng yêu nước bi tráng.
-    - [Cửu Vĩ Hồ](Âm_Nhạc/Cửu_Vĩ_Hồ.md): Ca khúc ma mị, quyến rũ về hồ ly tinh Thanh Khâu.
 
 ## X. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Bản đồ sơ bộ.
@@ -126,3 +120,6 @@
 - Sáng tác bài hát "Đan Hỏa Trường Ca" cho Đan Hà Cốc.
 - Sắp xếp và dọn dẹp file Hồ sơ thế giới.
 - **Mới:** Sáng tác thêm 9 bài hát đa dạng chủ đề (Tiêu dao, Hài hước, Chiến tranh, Tình yêu, Ma đạo, Triết lý, Thiên nhiên, Yêu tộc).
+- **Mới:** Loại bỏ hoàn toàn hình ảnh Phật giáo khỏi thế giới, thay thế bằng thuật ngữ Đạo gia.
+- **Mới:** Sáng tác thêm 90 bài hát (Chia thành 9 tuyển tập) bao phủ mọi khía cạnh tu chân (Cảnh giới, Binh khí, Ngũ hành, Cảm xúc, Thiên nhiên, Nhân duyên, Sinh hoạt, Linh thú, Thời tiết, Tông môn).
+- **Mới:** Tạo thư viện âm nhạc trung tâm `Đạo/Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md`.
