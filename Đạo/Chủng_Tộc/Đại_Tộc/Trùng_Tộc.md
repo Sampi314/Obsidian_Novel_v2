@@ -38,6 +38,24 @@ Kết quả là những chiến binh Trùng Tộc đời mới (như Liệt Hỏ
 > *"Cái chết không phải là kết thúc, nó chỉ là nhiên liệu cho lứa kế tiếp."*
 > — *Thông điệp tâm linh của Trùng Mẫu*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Vị Giác Kỳ Quặc:** Trùng Tộc cực kỳ ghét đồ ngọt nhưng lại nghiện vị cay nồng của các loại độc dược và quặng lưu huỳnh. Một bữa tiệc "ngon" của họ trông giống như một phòng thí nghiệm hóa học phát nổ.
+- **Nghệ Thuật Xây Tổ:** Kiến trúc tổ của Trùng Tộc phức tạp đến mức các Trận Pháp Sư Nhân Tộc thường lén bắt cóc Trùng Thợ về để... học hỏi cách thiết kế mê cung.
+- **Tiếng Hát Ru:** Khi Trùng Mẫu ngủ, bà ta phát ra một sóng âm tần số thấp khiến tất cả sinh vật trong bán kính trăm dặm đều gặp ác mộng.
+
+### Xung Đột & Thần Thoại Theo Dòng Thời Gian
+- **Thuở Hỗn Mang - Sự Ghê Tởm Của Vạn Vật:** Trùng Tộc bị tất cả các loài khác ghê tởm và xua đuổi vì ngoại hình và tập tính ăn xác thối. Điều này hun đúc nên lòng thù hận sâu sắc của Trùng Mẫu đối với "cái đẹp" của các tộc khác.
+- **Kỷ Nguyên Khởi Nguyên - Chiến Tranh Với Vi Tộc:** Vi Tộc (nhỏ bé nhưng tinh ranh) là kẻ thù tự nhiên đáng sợ nhất của Trùng Tộc. Vi Tộc thường dùng độc dược và ký sinh ngược lại vào trứng Trùng, gây ra những đại dịch khủng khiếp trong tổ.
+- **Hiện Tại - Sự Cân Bằng Mong Manh:** Trùng Tộc đang giữ thế cân bằng với Nhân Tộc ở biên giới Nam Cương. Họ cung cấp độc dược và nguyên liệu (vỏ giáp) để đổi lấy không bị tấn công tổng lực.
+
+### Mục Tiêu Tối Thượng
+- **Trùng Hóa Thế Giới:** Biến toàn bộ Bàn Cổ Lục Địa thành một cái tổ khổng lồ, nơi mọi sinh vật đều trở thành thức ăn hoặc vật chủ cho Trùng Tộc.
+- **Bất Tử Qua Sự Sinh Sôi:** Trùng Mẫu tin rằng chỉ cần nòi giống còn tồn tại, bà ta sẽ bất tử.
+
+### Lời Răn Của Tổ Tiên
+- *"Ăn, hoặc bị ăn. Đó là chân lý duy nhất."*
+- *"Đừng thương xót con mồi, vì con mồi không bao giờ thương xót cái kén."*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Nam Cương (nơi rừng thiêng nước độc), các hang động sâu trong lòng đất, hoặc các bí cảnh bị bỏ hoang.
 - **Môi Trường:** Ưa thích nơi ẩm thấp, âm u, nhiều chướng khí.

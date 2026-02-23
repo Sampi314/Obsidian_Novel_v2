@@ -38,6 +38,24 @@ Trong Kỷ Nguyên Khởi Nguyên, tỷ lệ sinh của Long Tộc giảm sút n
 > *"Biển cả nhớ mọi thứ, kể cả những vết sẹo trên vảy rồng."*
 > — *Tộc trưởng Đông Hải*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Hội Chứng "Sưu Tầm":** Long Tộc có bản năng không thể cưỡng lại với những vật lấp lánh. Không chỉ vàng bạc, họ còn sưu tập cả vỏ chai thủy tinh, mảnh gương vỡ, hay thậm chí là... trọc đầu của các nhà sư (vì nó bóng).
+- **Giấc Ngủ Ngàn Năm:** Khi một con rồng nói "Ta đi chợp mắt một lát", điều đó có nghĩa là: "Hẹn gặp lại vào thế kỷ sau". Đừng bao giờ dại dột đợi cửa.
+- **Món Ăn Khoái Khẩu:** Mặc dù ăn sơn hào hải vị, nhưng món ăn vặt yêu thích nhất của Rồng con lại là "Than Nướng" (than củi tẩm mật ong).
+
+### Xung Đột & Thần Thoại Theo Dòng Thời Gian
+- **Thuở Hồng Hoang - Long Phượng Đại Kiếp:** Long Tộc (bá chủ bầu trời và biển) và Phượng Tộc (bá chủ núi lửa và mặt đất) đã có một cuộc chiến hủy diệt kéo dài 3000 năm. Kết quả là cả hai tộc đều suy yếu, nhường quyền cai trị thế giới cho các tộc yếu hơn.
+- **Kỷ Nguyên Khởi Nguyên - Mối Thù Với Cự Tộc:** Cự Tộc thời xưa từng săn rồng để ăn thịt (Rồng nướng). Cho đến nay, Long Tộc vẫn giữ thói quen tấn công bất cứ thứ gì to lớn và di chuyển chậm chạp.
+- **Hiện Tại - Sự Kiêu Hãnh Bị Tổn Thương:** Long Tộc buộc phải giao thương với Nhân Tộc để đổi lấy các bảo vật duy trì nòi giống, nhưng trong thâm tâm họ vẫn coi Nhân Tộc là lũ sâu kiến trộm cắp tri thức cổ đại.
+
+### Mục Tiêu Tối Thượng
+- **Phục Hưng Thiên Cung:** Ước mơ cháy bỏng của mọi Chân Long là một ngày nào đó có thể đưa Long Tộc trở lại bầu trời, xây dựng lại Thiên Cung đã mất.
+- **Bảo Vệ Huyết Mạch:** Tìm cách khôi phục tỷ lệ sinh sản và độ tinh thuần của huyết mạch Rồng.
+
+### Lời Răn Của Tổ Tiên
+- *"Đừng bao giờ cúi đầu trước kẻ yếu, vì vương miện sẽ rơi."*
+- *"Vàng bạc là phù du, vảy rồng mới là vĩnh cửu."*
+
 ## IV. NƠI SINH SỐNG
 - **Chính:** Vô Tận Hải (Đông Hải Long Cung, Tây Hải...).
 - **Phụ:** Các đại trạch, đầm lầy lớn hoặc long mạch linh thiêng trên đất liền.

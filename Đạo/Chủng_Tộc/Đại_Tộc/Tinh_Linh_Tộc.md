@@ -38,3 +38,21 @@ Mỗi bộ tộc Tinh Linh đều gắn liền sinh mệnh với một cây Th�
 
 > *"Quá khứ xanh tươi, hiện tại tro tàn, tương lai là một hạt mầm chưa nảy."*
 > — *Lời tiên tri của Tinh Linh Tiên Tri*
+
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Say Sương:** Tinh Linh Tộc có tửu lượng cực kém. Chỉ một chén rượu gạo của Nhân Tộc cũng đủ làm họ ngủ li bì ba ngày. Vì thế, họ chỉ uống "Mật Sương Mai" - thứ nước hứng từ lá cây vào buổi sáng, có nồng độ cồn... 0.01%.
+- **Cuộc Thi Hát Ru Cây:** Vào đêm trăng tròn, các thiếu nữ Tinh Linh sẽ thi nhau hát để dỗ cho cây cối ngủ. Người ta đồn rằng giọng hát của họ ngọt ngào đến mức có thể làm tan chảy cả trái tim của một Thạch Tộc.
+- **Ghét Sắt Thép:** Tinh Linh Tộc tin rằng sắt thép mang "hơi thở của cái chết" (vì dùng để rèn vũ khí). Họ chỉ dùng công cụ bằng gỗ cứng, đá hoặc xương thú đã chết già.
+
+### Xung Đột & Thần Thoại Theo Dòng Thời Gian
+- **Thuở Khai Thiên - Đứa Con Của Rừng:** Tinh Linh Tộc sống hòa bình tuyệt đối dưới tán Cây Thế Giới. Họ không biết đến chiến tranh hay hận thù.
+- **Kỷ Nguyên Khởi Nguyên - Sự Phản Bội Của Nhân Tộc:** Nhân Tộc ban đầu học hỏi cách trồng trọt từ Tinh Linh, nhưng sau đó lại đốt rừng để lấy đất làm ruộng và xây thành. Tinh Linh Tộc coi đây là sự phản bội không thể tha thứ.
+- **Hiện Tại - Ẩn Dật:** Tinh Linh Tộc đóng cửa rừng, sử dụng Mê Hồn Trận để ngăn cản người ngoài. Họ thà để nền văn minh của mình lụi tàn trong bóng tối còn hơn để nó bị ô uế bởi lòng tham.
+
+### Mục Tiêu Tối Thượng
+- **Hồi Sinh Cây Thế Giới:** Tìm kiếm Hạt Giống Hy Vọng để trồng lại Yggdrasil, khôi phục Kỷ Nguyên Xanh.
+- **Thanh Tẩy Thế Giới:** Loại bỏ sự ô nhiễm linh khí do các tộc khác gây ra.
+
+### Lời Răn Của Tổ Tiên
+- *"Đừng bao giờ quay lưng lại với rừng, vì rừng là mẹ, cũng là nấm mồ."*
+- *"Lòng người dễ thay đổi như gió, chỉ có rễ cây là bám chặt vào đất."*

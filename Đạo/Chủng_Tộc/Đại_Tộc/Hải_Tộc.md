@@ -38,6 +38,24 @@ Ngày nay, các kỵ sĩ Hải Tộc cưỡi trên lưng Cá Mập Búa hay rùa
 > *"Sóng sau xô sóng trước, lịch sử của chúng ta được viết trên cát, nhưng khắc sâu vào lòng đại dương."*
 > — *Sử gia Người Cá*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Tiền Tệ Ký Ức:** Ở "Chợ Vực Sâu" (nơi tối tăm nhất đại dương), Hải Tộc không dùng vàng, họ dùng "Bọt Ký Ức" để trao đổi. Một ký ức vui vẻ về nụ cười của người yêu có giá trị bằng một tòa thành san hô.
+- **Thời Trang Vỏ Sò:** Hải Tộc rất coi trọng thời trang. Việc đeo một chiếc vỏ ốc sên cạn (hàng nhập khẩu từ đất liền) được coi là đẳng cấp thượng lưu, giống như Nhân Tộc đeo ngọc trai biển sâu vậy.
+- **Thú Cưng:** Người Nhân Tộc nuôi chó mèo, còn Hải Tộc nuôi... Hải Quỳ. Loài vật này vừa làm cảnh (phát sáng), vừa làm vũ khí (phóng độc), vừa làm... thùng rác (ăn mọi thứ).
+
+### Xung Đột & Thần Thoại Theo Dòng Thời Gian
+- **Thuở Sơ Khai - Nô Lệ Của Rồng:** Hải Tộc từng là nô lệ xây dựng cung điện cho Long Tộc dưới đáy biển. Những bài hát cổ xưa của Hải Tộc đầy rẫy sự oán hận và khát vọng tự do.
+- **Kỷ Nguyên Khởi Nguyên - Cuộc Nổi Dậy Thầm Lặng:** Tuy bề ngoài vẫn quy phục, nhưng Hải Tộc đã bí mật tích trữ lương thảo và rèn luyện quân đội riêng. Họ chờ đợi ngày Long Tộc suy yếu hoàn toàn để chiếm lấy Đông Hải.
+- **Hiện Tại - Tranh Chấp Với Nhân Tộc:** Ngư dân và tu sĩ Nhân Tộc thường xuyên săn bắt Hải Tộc để lấy ngọc trai và mỡ cá. Đây là nguồn gốc của những cơn sóng thần "trả thù" tàn phá duyên hải.
+
+### Mục Tiêu Tối Thượng
+- **Làm Chủ Đại Dương:** Đẩy lùi Long Tộc, thống nhất các bộ lạc biển cả dưới một Vương Triều Hải Tộc duy nhất.
+- **Mở Rộng Lên Bờ:** Tìm cách biến đổi cơ thể hoặc cải tạo môi trường để có thể xâm chiếm đất liền (Dự án "Biển Hóa").
+
+### Lời Răn Của Tổ Tiên
+- *"Nước chảy đá mòn. Sự kiên nhẫn là vũ khí mạnh nhất của biển cả."*
+- *"Đừng tin lời hứa viết trên cát, hãy tin lời thề khắc vào san hô."*
+
 ## IV. NƠI SINH SỐNG
 - **Vùng Biển:** Vô Tận Hải, các hải đảo xa xôi.
 - **Kiến Trúc:** Xây dựng thành phố từ san hô và đá biển dưới đáy đại dương.

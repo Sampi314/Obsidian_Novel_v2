@@ -38,6 +38,24 @@ Vũ Tộc không dùng lời nói để tỏ tình hay tuyên chiến, họ dùn
 > *"Đôi cánh có thể gãy, nhưng khát vọng bay lượn thì không bao giờ tắt."*
 > — *Lời thề của Chiến Binh Bầu Trời*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Cuộc Thi "Lông Vũ Vàng":** Hàng năm, Vũ Tộc tổ chức cuộc thi sắc đẹp, nơi họ chải chuốt bộ lông cánh của mình bằng dầu thơm. Kẻ chiến thắng không phải là kẻ mạnh nhất, mà là kẻ có bộ cánh bóng mượt nhất.
+- **Bói Lông Vũ:** Họ tin rằng khi một chiếc lông vũ tự nhiên rụng xuống, hướng bay của nó sẽ chỉ dẫn đến định mệnh. Nếu lông rơi vào bát canh... đó là điềm báo hôm nay sẽ bị sặc.
+- **Ghét Mưa:** Dù điều khiển gió, Vũ Tộc cực ghét bị ướt lông. Khi trời mưa, họ thường trú trong những chiếc ô khổng lồ làm từ lá chuối hoặc... tranh thủ tắm luôn.
+
+### Xung Đột & Thần Thoại Theo Dòng Thời Gian
+- **Thuở Khai Thiên - Cuộc Chiến Giành Bầu Trời:** Vũ Tộc tự coi mình là con của Gió, nhưng Long Tộc lại tự xưng là chủ của Mây. Cuộc chiến giành quyền kiểm soát không phận đã khiến Vũ Tộc thua trận và mất đi "Đôi Cánh Thần" (khả năng bay vượt tầng khí quyển).
+- **Kỷ Nguyên Khởi Nguyên - Săn Bắn & Bị Săn:** Vũ Tộc thường săn bắt Vi Tộc và Hải Tộc nhỏ, nhưng chính họ cũng bị Nhân Tộc săn bắt để lấy lông vũ làm quạt hoặc áo choàng pháp bảo.
+- **Hiện Tại - Trung Lập Trên Cao:** Vũ Tộc giữ thái độ trung lập, làm lính đánh thuê cho bất kỳ ai trả giá cao, miễn là không phải Long Tộc.
+
+### Mục Tiêu Tối Thượng
+- **Tìm Lại Cánh Thần:** Khát vọng tìm lại bí mật thượng cổ để khôi phục đôi cánh có thể bay lên tận Tiên Giới (vượt qua Cửu Thiên Cương Phong).
+- **Tự Do Tuyệt Đối:** Không chịu sự cai quản của bất kỳ luật pháp mặt đất nào.
+
+### Lời Răn Của Tổ Tiên
+- *"Đất là nhà tù, bầu trời là tự do."*
+- *"Chết trên trời cao còn hơn sống quỳ dưới đất."*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các đỉnh núi cao (Thiên Sơn), đảo bay lơ lửng (nếu có), rừng già tầng thượng.
 - **Khí Hậu:** Ưa thích nơi thoáng đãng, nhiều gió.
