@@ -15,6 +15,13 @@
 - **Tính Cách:** Tinh nghịch, hiếu động, thích ca hát nhảy múa. Coi trọng cái đẹp tinh tế.
 - **Quan Hệ:** Thường bị các tộc lớn coi thường hoặc săn bắt làm thú cưng, nhưng cũng được kính nể vì khả năng chữa bệnh hoặc độc dược.
 
+### Sự Tiến Hóa Của Nền Văn Minh Vi Mô
+Ở thuở hồng hoang, Vi Tộc sống dựa vào sự che chở của Thần Thụ, hiếm khi rời khỏi tán lá quê hương.
+Đến Kỷ Nguyên Khởi Nguyên, họ nhận ra sự yếu ớt của mình trước các cơn bão linh khí. Vi Tộc bắt đầu nghiên cứu "Cơ Quan Thuật" (công nghệ chế tạo rối/máy móc nhỏ). Họ tạo ra những cỗ máy chiến đấu tí hon từ xác côn trùng và tinh thể, cho phép một chiến binh Vi Tộc điều khiển "Giáp Bọ Ngựa" có thể chém đứt cổ một tu sĩ Trúc Cơ.
+
+> *"Kẻ khổng lồ có thể dời non lấp bể, nhưng chỉ có kẻ tí hon mới nhìn thấy vết nứt trên đê."*
+> — *Ngạn ngữ Vi Tộc khắc trên hạt gạo*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Những khu rừng già nguyên sinh (Đông Hoang), vườn thảo dược của các đại tông môn.
 - **Môi Trường:** Cần nơi yên tĩnh, ít gió bão.

@@ -15,6 +15,13 @@
 - **Tín Ngưỡng:** Không có tín ngưỡng, chỉ có bản năng sinh tồn và bành trướng.
 - **Giao Tiếp:** Thông qua pheromone hoặc sóng tâm linh đặc thù.
 
+### Sự Tiến Hóa Của Trí Tuệ Bầy Đàn
+Trong quá khứ, Trùng Tộc chỉ biết lao lên chém giết theo bản năng đói khát, dễ dàng bị các tu sĩ dùng bẫy hoặc trận pháp tiêu diệt.
+Trải qua hàng vạn năm đấu tranh sinh tồn, "Trí Tuệ Bầy Đàn" (Hive Mind) đã có sự tiến hóa vượt bậc. Các Trùng Mẫu đời sau không chỉ biết sinh sản mà còn học được cách bày binh bố trận, thậm chí cài cắm "Trùng Gián Điệp" giả dạng sinh vật khác vào nội bộ kẻ thù.
+
+> *"Đừng nhìn vào mắt của một con bọ, hãy sợ cái cách cả đàn chúng cùng nhìn về một hướng. Đó không phải là ngẫu nhiên, đó là mệnh lệnh của Tử Thần."*
+> — *Lời cảnh báo của một thợ săn Trùng lão luyện tại Nam Cương*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Nam Cương (nơi rừng thiêng nước độc), các hang động sâu trong lòng đất, hoặc các bí cảnh bị bỏ hoang.
 - **Môi Trường:** Ưa thích nơi ẩm thấp, âm u, nhiều chướng khí.
