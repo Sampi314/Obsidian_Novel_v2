@@ -10,7 +10,8 @@
 - **Địa Danh Chính:**
     - Trung Tâm: Thiên Trụ Sơn.
     - Tứ Phương: Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
-- **Chi Tiết:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Ban_Do_So_Bo_Co_Nguyen.md`.
+- **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Ban_Do_So_Bo_Co_Nguyen.md`.
+- **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
 
 ## III. HỆ THỐNG TU LUYỆN
 - **Cảnh Giới:** Luyện Khí → Trúc Cơ → Kim Đan → Nguyên Anh → Hóa Thần → Luyện Hư → Hợp Thể → Đại Thừa → Độ Kiếp.
@@ -120,4 +121,5 @@
 - Bồi đắp chuyên sâu lần 2 cho 10 chủng tộc (Kinh tế, Sinh tồn, Nghệ thuật, Tín ngưỡng).
 - Bổ sung "Dòng Chảy Lịch Sử" (Timeline) chi tiết với các mốc thời gian cụ thể cho toàn bộ 10 Đại Chủng Tộc.
 - Sắp xếp và dọn dẹp file Hồ sơ thế giới.
+- Khởi tạo Niên Biểu Chính và chuẩn hóa Kỷ Nguyên Hồng Hoang - Khởi Nguyên.
 
