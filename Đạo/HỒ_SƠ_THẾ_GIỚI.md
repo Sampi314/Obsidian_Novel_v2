@@ -36,6 +36,22 @@
 - **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lam_Phong.md`.
 
+## VI. CÁC THẾ LỰC
+- **Cửu Hoa Kiếm Tông (Đông Hoang):**
+    - Tông môn kiếm tu hạng Nhất, nổi tiếng với quy tắc nghiêm khắc và kiếm trận hộ sơn.
+    - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Cuu_Hoa_Kiem_Tong.md`.
+
+## VII. CÔNG PHÁP & BÍ KÍP
+- **Cửu Hoa Kiếm Quyết (Thiên Cấp Hạ Phẩm):**
+    - Công pháp trấn phái của Cửu Hoa Kiếm Tông, thiên về tốc độ và sát thương diện rộng (dạng hoa sen).
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Cuu_Hoa_Kiem_Quyet.md`.
+
+## VIII. TÀI NGUYÊN & NGHỀ PHỤ
+- **Cửu Hoa Tru Tiên Trận (Cửu Cấp):**
+    - Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện.
+    - **Chi Tiết:** Xem tại `Đạo/Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md`.
+
+## IX. CẬP NHẬT GẦN NHẤT
 ## VI. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
     - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
@@ -53,6 +69,7 @@
 - Thiết lập Hệ thống cảnh giới.
 - Phác thảo 9 Chủng tộc chính.
 - Tạo nhân vật mới: Diệp Tĩnh Sương.
+- **Mới:** Xây dựng Cửu Hoa Kiếm Tông (Thế lực, Công pháp, Trận pháp).
 - Tạo nhân vật mới: Lâm Phong.
 - Thêm mới Đan dược: Kim Đan Phá Chướng Đan.
 - Thêm mới Kỳ vật: Hỏa Linh Thảo.
