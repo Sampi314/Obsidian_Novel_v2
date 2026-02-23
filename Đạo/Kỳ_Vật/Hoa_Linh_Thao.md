@@ -1,0 +1,23 @@
+# HỒ SƠ KỲ VẬT: HỎA LINH THẢO
+
+- **Tên Vật Phẩm:** Hỏa Linh Thảo (火灵草)
+- **Phẩm Cấp:** Tam Phẩm (Linh Dược)
+- **Loại Hình:** Thảo dược
+- **Mô Tả Ngoại Hình:**
+  - Thân cỏ màu đỏ rực, cao khoảng ba tấc.
+  - Lá thuôn dài, viền lá có răng cưa nhỏ phát ra ánh sáng đỏ nhạt.
+  - Khi trưởng thành (500 năm), đỉnh ngọn sẽ nở ra một bông hoa nhỏ màu vàng cam, tỏa nhiệt lượng ấm áp.
+  - Rễ bám sâu vào đá, hút hỏa khí từ lòng đất.
+- **Nơi Sinh Trưởng:**
+  - Mọc ở những nơi có hỏa khí nồng đậm như miệng núi lửa, hang động dung nham, hoặc nơi có hỏa mạch đi qua.
+  - Thường tìm thấy ở khu vực Nam Cương hoặc sâu trong dãy Thiên Trụ Sơn.
+- **Công Dụng/Khả Năng:**
+  - Chứa đựng hỏa linh lực tinh thuần, dùng để gia tăng tu vi cho tu sĩ mang Hỏa Linh Căn.
+  - Là chủ dược không thể thiếu để luyện chế các loại đan dược hệ Hỏa (như Hỏa Long Đan, Trúc Cơ Đan hệ Hỏa).
+  - Đặc biệt quan trọng trong việc luyện chế **Kim Đan Phá Chướng Đan**, giúp ổn định hỏa khí khi công kích bình cảnh.
+- **Giá Trị:**
+  - Khá cao đối với tu sĩ Trúc Cơ và Kim Đan.
+  - Một cây Hỏa Linh Thảo 500 năm tuổi có thể đổi được một món pháp khí trung phẩm hoặc hàng trăm linh thạch hạ phẩm.
+- **Nguy Hiểm:**
+  - Nơi sinh trưởng thường có Yêu thú hệ Hỏa (như Hỏa Tích Dịch, Xích Diễm Xà) canh giữ.
+  - Thu hái cần dùng hộp ngọc hàn băng để bảo quản, tránh làm mất dược tính.
