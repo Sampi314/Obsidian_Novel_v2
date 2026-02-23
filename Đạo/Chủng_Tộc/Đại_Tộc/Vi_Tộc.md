@@ -43,6 +43,19 @@ Một cuộc phẫu thuật của Vi Tộc giống như một chiến dịch qu�
 - **Thú Cưỡi:** Họ thuần hóa bọ chét và chuồn chuồn làm thú cưỡi. Một kỵ sĩ Vi Tộc cưỡi chuồn chuồn ngô được coi là "Không quân Hoàng gia".
 - **Bí Mật Rượu:** Vi Tộc ủ rượu trong các hạt sương sớm. Chỉ cần một giọt rượu này cũng đủ làm một con trâu say mềm, vì độ tinh khiết cực cao.
 
+### Xung Đột & Thần Thoại Theo Dòng Thời Gian
+- **Thuở Hồng Hoang - Nạn Nhân Của Sự Dẫm Đạp:** Vi Tộc từng chết hàng loạt vì... bị các loài Cự Thú và Rồng vô tình dẫm phải. Nỗi sợ hãi "bị đè bẹp" ăn sâu vào tiềm thức của họ.
+- **Kỷ Nguyên Khởi Nguyên - Cuộc Chiến Sinh Tồn Với Trùng Tộc:** Trùng Tộc coi Vi Tộc là thức ăn, còn Vi Tộc coi Trùng Tộc là quái vật. Đây là cuộc chiến tàn khốc nhất ở thế giới vi mô mà các tộc lớn không hề hay biết.
+- **Hiện Tại - Kẻ Nắm Giữ Sự Sống:** Nhờ nắm giữ y thuật, Vi Tộc trở thành "vùng bất khả xâm phạm". Bất kỳ ai dám tấn công Vi Tộc sẽ bị toàn bộ giới Đan Sư và Y Sư trên thế giới tẩy chay.
+
+### Mục Tiêu Tối Thượng
+- **Xây Dựng Vi Giới:** Tạo ra một không gian riêng biệt (Tiểu Thế Giới) an toàn tuyệt đối, nơi không có kẻ khổng lồ nào có thể bước vào.
+- **Bảo Tồn Tri Thức:** Ghi chép lại mọi bí mật của thế giới vào trong các hạt bụi (Lưu Ảnh Trần), để dù thế giới có bị hủy diệt, tri thức vẫn còn mãi.
+
+### Lời Răn Của Tổ Tiên
+- *"Nhỏ không có nghĩa là yếu. Một hạt bụi cũng có thể làm mù mắt một con rồng."*
+- *"Sống sót là sự trả thù ngọt ngào nhất."*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Những khu rừng già nguyên sinh (Đông Hoang), vườn thảo dược của các đại tông môn.
 - **Môi Trường:** Cần nơi yên tĩnh, ít gió bão.

@@ -18,18 +18,22 @@
 - **Chi Tiết:** Xem tại `Đạo/Tu_Luyện/He_Thong_Canh_Gioi.md`.
 
 ## IV. CHỦNG TỘC
-- **9 Đại Chủng Tộc (Kỷ Nguyên Khởi Nguyên):**
-    1. Nhân Tộc (Sáng tạo, học hỏi).
-    2. Long Tộc (Uy quyền, mưa gió).
-    3. Trùng Tộc (Số lượng, thích nghi).
-    4. Hải Tộc (Làm chủ đại dương).
-    5. Cự Tộc (Sức mạnh dời non).
-    6. Vi Tộc (Tinh tế, ẩn mình).
-    7. Yêu Tộc (Hoang dã, sức mạnh).
-    8. Vũ Tộc (Chinh phục bầu trời).
-    9. Thạch Tộc (Kiên định, bất hoại).
-    10. Tinh Linh Tộc (Hòa mình thiên nhiên, thanh cao).
-- **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chung_Toc_Chinh.md`.
+- **10 Đại Chủng Tộc (Đại Tộc):**
+    1. **Nhân Tộc** (Sáng tạo, học hỏi). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Nhân_Tộc.md`.
+    2. **Long Tộc** (Uy quyền, mưa gió). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Long_Tộc.md`.
+    3. **Trùng Tộc** (Số lượng, thích nghi). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Trùng_Tộc.md`.
+    4. **Hải Tộc** (Làm chủ đại dương). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Hải_Tộc.md`.
+    5. **Cự Tộc** (Sức mạnh dời non). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Cự_Tộc.md`.
+    6. **Vi Tộc** (Tinh tế, ẩn mình). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Vi_Tộc.md`.
+    7. **Yêu Tộc** (Hoang dã, sức mạnh). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Yêu_Tộc.md`.
+    8. **Vũ Tộc** (Chinh phục bầu trời). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Vũ_Tộc.md`.
+    9. **Thạch Tộc** (Kiên định, bất hoại). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Thạch_Tộc.md`.
+    10. **Tinh Linh Tộc** (Hòa mình thiên nhiên). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Tinh_Linh_Tộc.md`.
+
+- **Các Tiểu Tộc & Lai Tạo (Tiểu Tộc):**
+    - **Bán Yêu (Half-Demon):** Con lai Nhân - Yêu. Sức mạnh và bi kịch. Xem tại `Đạo/Chủng_Tộc/Tiểu_Tộc/Bán_Yêu.md`.
+    - **Long Nhân (Dragonkin):** Con lai Nhân - Long. Sứ giả hòa bình. Xem tại `Đạo/Chủng_Tộc/Tiểu_Tộc/Long_Nhân.md`.
+    - **Thạch Mộc Linh (Moss Spirit):** Cộng sinh Thạch - Tinh Linh. Xem tại `Đạo/Chủng_Tộc/Tiểu_Tộc/Thạch_Mộc_Linh.md`.
 
 ## V. NHÂN VẬT TIÊU BIỂU
 - **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*.
@@ -71,7 +75,23 @@
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Trận Pháp:**
     - *Cửu Hoa Tru Tiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện. Xem tại `Đạo/Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md`.
-    - *Vạn Hỏa Phần Thiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
+- **Vạn Hỏa Phần Thiên Trận (Cửu Cấp):**
+    - Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù.
+    - **Chi Tiết:** Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
+- **Cửu Hoa Tru Tiên Trận (Cửu Cấp):**
+    - Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện.
+    - **Chi Tiết:** Xem tại `Đạo/Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md`.
+
+## IX. CẬP NHẬT GẦN NHẤT
+- **Mới:** Xây dựng Đan Hà Cốc (Thế lực, Công pháp, Trận pháp).
+## VI. KHO TÀNG VĂN HỌC
+- **Thơ Ca:**
+    - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
+    - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
+
+## VII. CẬP NHẬT GẦN NHẤT
+- Sáng tác thơ: Hàn Mai Kiếm Ca.
+## VI. TÀI NGUYÊN & NGHỀ PHỤ
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Dan_Pha_Chuong_Dan.md`.
 - **Pháp Bảo:**
@@ -86,16 +106,6 @@
     - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
 - **Âm Nhạc:**
     - [Hồng Trần Vọng](Âm_Nhạc/Hồng_Trần_Vọng.md): Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần.
-    - [Đan Hỏa Trường Ca](Âm_Nhạc/Đan_Hỏa_Trường_Ca.md): Ca khúc hùng tráng về Đan đạo và Đan Hà Cốc.
-    - [Tiêu Dao Du](Âm_Nhạc/Tiêu_Dao_Du.md): Ca khúc vui tươi, phóng khoáng của tán tu.
-    - [Túy Tửu Ca](Âm_Nhạc/Túy_Tửu_Ca.md): Khúc hát hài hước của kẻ say, tiêu dao tự tại.
-    - [Kiếm Khí Trường](Âm_Nhạc/Kiếm_Khí_Trường.md): Ca khúc hào hùng về khí phách kiếm tu.
-    - [Tình Kiếp](Âm_Nhạc/Tình_Kiếp.md): Bi ca tình duyên trắc trở vượt luân hồi.
-    - [Vấn Đạo](Âm_Nhạc/Vấn_Đạo.md): Khúc ca triết lý về Đạo và sự giác ngộ.
-    - [Sơn Thủy Dao](Âm_Nhạc/Sơn_Thủy_Dao.md): Khúc hát ca ngợi vẻ đẹp thiên nhiên non nước.
-    - [Ma Tâm](Âm_Nhạc/Ma_Tâm.md): Khúc ca đen tối về sự sa ngã vào Ma đạo.
-    - [Chiến Hồn Ca](Âm_Nhạc/Chiến_Hồn_Ca.md): Tráng ca chiến trường, lòng yêu nước bi tráng.
-    - [Cửu Vĩ Hồ](Âm_Nhạc/Cửu_Vĩ_Hồ.md): Ca khúc ma mị, quyến rũ về hồ ly tinh Thanh Khâu.
 
 ## X. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Bản đồ sơ bộ.
@@ -123,20 +133,6 @@
 - **Mới:** Bồi đắp chuyên sâu lần 2 cho 10 chủng tộc (Kinh tế, Sinh tồn, Nghệ thuật, Tín ngưỡng).
 - **Mới:** Bổ sung "Dòng Chảy Lịch Sử" (Timeline) chi tiết với các mốc thời gian cụ thể cho toàn bộ 10 Đại Chủng Tộc.
 - **Mới:** Thêm mục "Giai Thoại & Điều Thú Vị" (Văn hóa đời thường) cho tất cả các chủng tộc, tăng tính phong phú và sinh động.
-- Thêm Kỳ vật: Hàn Ngọc.
-- Thêm Pháp bảo: Hàn Ngọc Kiếm.
-- Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc (Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch).
-- Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
-- Tạo nhân vật Hàn Thanh Nguyệt và công pháp Tàn Nguyệt Kiếm Quyết.
-- Sáng tác thơ "Độc Ẩm Dưới Trăng".
-- Tạo nhân vật Triệu Thanh Hằng và công pháp Lãnh Phong Kiếm Quyết.
-- Sáng tác ca khúc "Hồng Trần Vọng".
-- Bồi đắp chi tiết Nhân Tộc (Ẩm thực & Nghi lễ trưởng thành).
-- Bồi đắp chi tiết toàn bộ các chủng tộc (Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch) với yếu tố thời gian và sự tiến hóa tập tục.
-- Khởi tạo chủng tộc Tinh Linh Tộc (Ngoại hình, Văn hóa, Lịch sử).
-- Bồi đắp chuyên sâu lần 2 cho 10 chủng tộc (Kinh tế, Sinh tồn, Nghệ thuật, Tín ngưỡng).
-- Bổ sung "Dòng Chảy Lịch Sử" (Timeline) chi tiết với các mốc thời gian cụ thể cho toàn bộ 10 Đại Chủng Tộc.
-- Làm lại bài hát "Hồng Trần Vọng" với cấu trúc đầy đủ.
-- Sáng tác bài hát "Đan Hỏa Trường Ca" cho Đan Hà Cốc.
-- Sắp xếp và dọn dẹp file Hồ sơ thế giới.
-- **Mới:** Sáng tác thêm 9 bài hát đa dạng chủ đề (Tiêu dao, Hài hước, Chiến tranh, Tình yêu, Ma đạo, Triết lý, Thiên nhiên, Yêu tộc).
+- **Mới:** Tái cấu trúc thư mục Chủng Tộc (Đại Tộc/Tiểu Tộc).
+- **Mới:** Bổ sung chi tiết "Xung Đột & Thần Thoại Theo Dòng Thời Gian", "Mục Tiêu Tối Thượng", "Lời Răn Tổ Tiên" cho 10 Đại Tộc.
+- **Mới:** Tạo mới 3 Tiểu Tộc lai tạo (Bán Yêu, Long Nhân, Thạch Mộc Linh).
