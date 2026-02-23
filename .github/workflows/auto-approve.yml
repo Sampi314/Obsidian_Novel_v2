@@ -1,16 +1,19 @@
-name: Auto-approve Google.Jules AI PRs
+name: Auto Merge
 
-on: pull_request
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
 
 permissions:
+  contents: write
   pull-requests: write
 
 jobs:
-  auto-approve:
+  auto-merge:
     runs-on: ubuntu-latest
-    if: github.event.pull_request.user.login == 'Google.Jules AI' && github.repository == 'Sampi314/Obsidian_Novel_v2'
+    if: github.actor == 'google-labs-jules[bot]'
     steps:
-      - name: Approve pull request
-        run: gh pr review --approve "${{ github.event.pull_request.number }}"
+      - name: Enable auto-merge for Jules PRs
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr merge --merge "${{ github.event.pull_request.html_url }}"
