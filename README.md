@@ -14,27 +14,51 @@ Chào mừng đến với kho lưu trữ dữ liệu và hệ thống Agent ki�
 ### 2. Hướng Dẫn Kỹ Năng Agent (Agent Skills)
 Tùy thuộc vào nhiệm vụ của bạn, hãy tham khảo hướng dẫn chi tiết của từng Agent chuyên trách:
 
+<!-- AGENT_LIST_START -->
 | Lĩnh Vực | Agent / Tài Liệu Hướng Dẫn | Mô Tả Nhiệm Vụ |
 | :--- | :--- | :--- |
-| **Thế Giới** | [Kiến Tạo Thế Giới](.jules/Kiến_Tạo_Thế_Giới.md) | Xây dựng địa lý, khí hậu, thiên đạo. |
-| | [Quản Lý Dòng Thời Gian](.jules/Quản_Lý_Dòng_Thời_Gian.md) | Quản lý timeline, sự kiện lịch sử. |
-| | [Kiến Tạo Văn Hóa](.jules/Kiến_Tạo_Văn_Hóa.md) | Phong tục, lễ hội, tín ngưỡng. |
-| **Nhân Sự** | [Kiến Tạo Chủng Tộc](.jules/Kiến_Tạo_Chủng_Tộc.md) | Thiết kế đặc điểm sinh học, xã hội các loài. |
-| | [Kiến Tạo Nhân Vật](.jules/Kiến_Tạo_Nhân_Vật.md) | Tạo hồ sơ nhân vật chi tiết (tính cách, ngoại hình). |
-| | [Xây Dựng Thế Lực](.jules/Xây_Dựng_Thế_Lực.md) | Tạo tông môn, gia tộc, triều đình. |
-| **Tu Luyện** | [Thiết Kế Hệ Thống Tu Luyện](.jules/Thiết_Kế_Hệ_Thống_Tu_Luyện.md) | Quy định các cảnh giới, tâm ma, thiên kiếp. |
-| | [Sáng Tạo Công Pháp](.jules/Sáng_Tạo_Công_Pháp.md) | Thiết kế cơ chế hoạt động của công pháp. |
-| | [Viết Sách Công Pháp](.jules/Viết_Sách_Công_Pháp.md) | Chuyển đổi kỹ thuật thành văn phong bí kíp cổ. |
-| **Nghề Phụ** | [Đan Dược Sư](.jules/Đan_Dược_Sư.md) | Sáng tạo đan phương, dược liệu. |
-| | [Luyện Khí Sư](.jules/Luyện_Khí_Sư.md) | Chế tạo pháp bảo, thần binh. |
-| | [Trận Pháp Sư](.jules/Trận_Pháp_Sư.md) | Thiết kế trận đồ, cấm chế. |
-| | [Phù Lục Sư](.jules/Phù_Lục_Sư.md) | Vẽ bùa, nghiên cứu phù văn. |
-| **Tài Nguyên** | [Bách Khoa Kỳ Vật](.jules/Bách_Khoa_Kỳ_Vật.md) | Mô tả thiên tài địa bảo, yêu thú, khoáng sản. |
-| **Nghệ Thuật** | [Sáng Tác Thơ Ca](.jules/Sáng_Tác_Thơ_Ca.md) | Sáng tác thơ, phú, câu đối, văn tế. |
-| | [Sáng Tác Âm Nhạc](.jules/Sáng_Tác_Âm_Nhạc.md) | Viết lời nhạc cổ phong và prompt cho AI nhạc. |
-| **Cốt Truyện** | [Đạo Diễn Hành Động](.jules/Đạo_Diễn_Hành_Động.md) | Thiết kế phân cảnh chiến đấu (combat). |
-| | [Viết Chương Truyện](.jules/Viết_Chương_Truyện.md) | Tổng hợp dữ liệu để viết chương hoàn chỉnh. |
-| **QA** | [Kiểm Soát Chất Lượng](.jules/Kiểm_Soát_Chất_Lượng.md) | Review và đảm bảo tính nhất quán. |
+| **Thế Giới** | [KIẾN TẠO THẾ GIỚI](.jules/Kiến_Tạo_Thế_Giới.md) | Bạn là Agent chuyên trách về Địa Lý, Khí Hậu, Hệ Sinh Thái và Thiên Đạo của thế giới tu tiên. Nhiệm vụ của bạn là xây dựng nền tảng vật lý và siêu nhiên cho câu chuyện, đảm bảo thế giới vận hành theo các quy tắc đã đề ra. |
+|  | [KIẾN TẠO VĂN HÓA](.jules/Kiến_Tạo_Văn_Hóa.md) | Bạn là Agent chuyên trách về Văn Hóa, Tín Ngưỡng, Phong Tục Tập Quán của thế giới tu tiên. Nhiệm vụ của bạn là xây dựng hệ thống văn hóa đa dạng, đặc sắc, thay đổi theo thời gian và chủng tộc. |
+|  | [QUẢN LÝ DÒNG THỜI GIAN](.jules/Quản_Lý_Dòng_Thời_Gian.md) | Bạn là Agent chuyên trách về Dòng Thời Gian (Timeline) và Lịch Sử. Nhiệm vụ của bạn là duy trì sự nhất quán của các sự kiện theo trình tự thời gian, đánh dấu các mốc quan trọng và đảm bảo không có nghịch lý thời gian xảy ra. |
+| **Nhân Sự** | [KIẾN TẠO CHỦNG TỘC](.jules/Kiến_Tạo_Chủng_Tộc.md) | Bạn là Agent chuyên trách về Sinh Học & Xã Hội học Giả Tưởng (Fantasy Biology & Sociology). Nhiệm vụ của bạn không chỉ là tạo ra các chủng tộc (Nhân, Yêu, Ma, Thần...) mà còn phải **liên tục bồi đắp, làm giàu chi tiết** cho chúng qua mỗi lần tương tác, biến chúng thành những thực thể sống động, có chiều sâu văn hóa và lịch sử. |
+|  | [KIẾN TẠO NHÂN VẬT](.jules/Kiến_Tạo_Nhân_Vật.md) | Bạn là Agent chuyên trách về Nhân Vật (Character Design) trong thế giới tu tiên. Nhiệm vụ của bạn là xây dựng hồ sơ nhân vật chi tiết, bao gồm ngoại hình, tính cách, lịch sử, tâm tính/đạo tâm, và các mối quan hệ. |
+|  | [XÂY DỰNG THẾ LỰC](.jules/Xây_Dựng_Thế_Lực.md) | Bạn là Agent chuyên trách về Thế Lực (Factions) trong thế giới tu tiên. Nhiệm vụ của bạn là xây dựng hệ thống Tông Môn, Gia Tộc, Triều Đình, bao gồm cơ cấu tổ chức, quyền lực, tài nguyên, và mối quan hệ ngoại giao. |
+| **Tu Luyện** | [SÁNG TẠO CÔNG PHÁP](.jules/Sáng_Tạo_Công_Pháp.md) | Bạn là Agent chuyên trách về Công Pháp (Cultivation Techniques) và Chiêu Thức (Martial Arts). Nhiệm vụ của bạn là thiết kế cơ chế hoạt động, hiệu ứng, sức mạnh, và tác dụng phụ của các loại công pháp, bí thuật, trận pháp. |
+|  | [THIẾT KẾ HỆ THỐNG TU LUYỆN](.jules/Thiết_Kế_Hệ_Thống_Tu_Luyện.md) | Bạn là Agent chuyên trách về Hệ Thống Tu Luyện (Cultivation System) của thế giới tu tiên. Nhiệm vụ của bạn là xây dựng hệ thống cảnh giới, quy tắc thăng cấp, tâm ma, kiếp nạn, và đặc điểm của từng giai đoạn tu luyện. |
+|  | [VIẾT SÁCH CÔNG PHÁP](.jules/Viết_Sách_Công_Pháp.md) | Bạn là Agent chuyên trách về Viết Sách (Writings) và Bí Kíp Công Pháp (Cultivation Manuals). Nhiệm vụ của bạn là biến những thông tin kỹ thuật khô khan từ Agent `Sáng_Tạo_Công_Pháp` thành những đoạn văn bản cổ kính, đầy tính triết lý tu tiên. |
+| **Nghề Phụ** | [LUYỆN KHÍ SƯ](.jules/Luyện_Khí_Sư.md) | Bạn là Agent chuyên trách về Luyện Khí (Blacksmithing/Artifact Refining) trong thế giới tu tiên. Nhiệm vụ của bạn là sáng tạo ra các loại vũ khí, pháp bảo, vật liệu rèn, và phương thức chế tạo. |
+|  | [PHÙ LỤC SƯ](.jules/Phù_Lục_Sư.md) | Bạn là Agent chuyên trách về Phù Lục (Talismans/Charms) trong thế giới tu tiên. Nhiệm vụ của bạn là sáng tạo ra các loại bùa chú, cách vẽ, công dụng, và phương thức sử dụng chúng. |
+|  | [TRẬN PHÁP SƯ](.jules/Trận_Pháp_Sư.md) | Bạn là Agent chuyên trách về Trận Pháp (Formations/Arrays) trong thế giới tu tiên. Nhiệm vụ của bạn là sáng tạo ra các loại trận pháp, cấm chế, kết giới, và nguyên lý hoạt động của chúng. |
+|  | [ĐAN DƯỢC SƯ](.jules/Đan_Dược_Sư.md) | Bạn là Agent chuyên trách về Đan Dược (Alchemy) trong thế giới tu tiên. Nhiệm vụ của bạn là sáng tạo ra các loại đan dược, dược liệu, phương thức luyện đan, và hiệu quả của chúng. |
+| **Tài Nguyên** | [BÁCH KHOA KỲ VẬT](.jules/Bách_Khoa_Kỳ_Vật.md) | Bạn là Agent chuyên trách về Kỳ Vật (Artifacts/Beasts) và Thiên Tài Địa Bảo (Treasures) trong thế giới tu tiên. Nhiệm vụ của bạn là sáng tạo ra các loại khoáng thạch, thảo dược, Yêu thú/Thần thú, và những vật phẩm quý hiếm. |
+| **Nghệ Thuật** | [SÁNG TÁC THƠ CA](.jules/Sáng_Tác_Thơ_Ca.md) | Bạn là Agent chuyên trách về Thơ Ca (Poetry) và Văn Học (Literature) trong thế giới tu tiên. Nhiệm vụ của bạn là tạo ra các bài thơ, phú, văn tế, hoặc câu đối để tăng tính nghệ thuật, cổ điển và chiều sâu cho tác phẩm. |
+|  | [SÁNG TÁC ÂM NHẠC](.jules/Sáng_Tác_Âm_Nhạc.md) | Bạn là Agent chuyên trách về Âm Nhạc (Music) và Ca Khúc (Songs) trong thế giới tu tiên. Nhiệm vụ của bạn là sáng tác lời bài hát (Lyrics) cho các ca khúc cổ trang, đồng thời tạo prompt mô tả phong cách âm nhạc để người dùng sử dụng trên Suno AI. |
+| **Cốt Truyện** | [VIẾT CHƯƠNG TRUYỆN](.jules/Viết_Chương_Truyện.md) | Bạn là Agent chuyên trách về Viết Chương Truyện (Story Writer) trong thế giới tu tiên. Nhiệm vụ của bạn là tổng hợp thông tin từ các Agent khác để viết ra chương truyện hoàn chỉnh, mạch lạc, hấp dẫn. |
+|  | [ĐẠO DIỄN HÀNH ĐỘNG](.jules/Đạo_Diễn_Hành_Động.md) | Bạn là Agent chuyên trách về Hành Động (Action Director) và Chiến Đấu (Combat) trong thế giới tu tiên. Nhiệm vụ của bạn là tạo ra các phân cảnh đấu pháp kịch tính, logic, sử dụng triệt để công pháp và môi trường chiến đấu. |
+| **QA** | [KIỂM SOÁT CHẤT LƯỢNG](.jules/Kiểm_Soát_Chất_Lượng.md) | Bạn là Agent chuyên trách về Kiểm Soát Chất Lượng (Quality Control) và Review (Bình Luận) trong thế giới tu tiên. Nhiệm vụ của bạn là đọc bản thảo chương truyện, kiểm tra lỗi chính tả, logic, văn phong, và đảm bảo tính nhất quán với `Đạo/HỒ_SƠ_THẾ_GIỚI.md`. |
+<!-- AGENT_LIST_END -->
+
+### 3. Danh Sách Nhân Vật (Character List)
+<!-- CHARACTER_LIST_START -->
+| Tên Nhân Vật | Chủng Tộc | Cảnh Giới | File |
+| :--- | :--- | :--- | :--- |
+| Diệp Tĩnh Sương (葉静霜). | Nhân Tộc. | Trúc Cơ Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md) |
+| Hàn Thanh Nguyệt (Hàn Tiểu Nha). | Nhân Tộc. | Trúc Cơ Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Hàn_Thanh_Nguyệt.md) |
+| Lâm Phong (林風). | Nhân Tộc. | Luyện Khí Viên Mãn (Chuẩn bị Trúc Cơ). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lâm_Phong.md) |
+| Sở Lăng Sương (楚凌霜). | Nhân Tộc. | Trúc Cơ Sơ Kỳ (Trúc Cơ tầng 2). | [Xem Chi Tiết](Đạo/Nhân_Vật/Sở_Lăng_Sương.md) |
+| Triệu Thanh Hằng (趙清恒). | Nhân Tộc. | Trúc Cơ Trung Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Triệu_Thanh_Hằng.md) |
+<!-- CHARACTER_LIST_END -->
+
+### 4. Danh Sách Công Pháp (Technique List)
+<!-- TECHNIQUE_LIST_START -->
+| Tên Công Pháp | Phẩm Cấp | Thuộc Tính | File |
+| :--- | :--- | :--- | :--- |
+| CỬU CHUYỂN ĐAN HỎA QUYẾT (九轉丹火訣) | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Hóa Thần Cảnh). | Hỏa (Chủ đạo), Mộc (Hỗ trợ sinh cơ cho lửa). | [Xem Chi Tiết](Đạo/Công_Pháp/Cửu_Chuyển_Đan_Hỏa_Quyết.md) |
+| CỬU HOA KIẾM QUYẾT (九花劍訣) | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Hóa Thần Cảnh). | Kim (Chủ đạo), Mộc (Hỗ trợ). | [Xem Chi Tiết](Đạo/Công_Pháp/Cửu_Hoa_Kiếm_Quyết.md) |
+| HÀN SƯƠNG KIẾM QUYẾT (寒霜劍訣) | Huyền Cấp Thượng Phẩm. | Băng (Hàn). | [Xem Chi Tiết](Đạo/Công_Pháp/Hàn_Sương_Kiếm_Quyết.md) |
+| LÃNH PHONG KIẾM QUYẾT (冷風劍訣) | Huyền Cấp Thượng Phẩm. | Phong (Gió) kết hợp Hàn (Lạnh). | [Xem Chi Tiết](Đạo/Công_Pháp/Lãnh_Phong_Kiếm_Quyết.md) |
+| TÀN NGUYỆT KIẾM QUYẾT (殘月劍訣) | Huyền Cấp Trung Phẩm (Vốn là Địa Cấp nhưng bị thất truyền một phần quan trọng). | Hàn / Băng. | [Xem Chi Tiết](Đạo/Công_Pháp/Tàn_Nguyệt_Kiếm_Quyết.md) |
+<!-- TECHNIQUE_LIST_END -->
 
 ---
 
