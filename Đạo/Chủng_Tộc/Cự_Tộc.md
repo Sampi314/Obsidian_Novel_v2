@@ -13,7 +13,7 @@
 ## III. VĂN HÓA & XÃ HỘI
 - **Tính Cách:** Thẳng thắn, bộc trực, đôi khi ngây ngô nhưng rất trọng tình nghĩa. Nổi giận thì cực kỳ đáng sợ.
 - **Sinh Hoạt:** Sống đơn giản, gần gũi thiên nhiên. Thích đấu vật, uống rượu mạnh.
-- **Tín Ngưỡng:** Thờ phụng Bàn Cổ (Vị thần khai thiên lập địa khổng lồ).
+- **Tín Ngưỡng:** Thờ phụng Khai Thiên Cổ Thần (Vị thần khai thiên lập địa khổng lồ).
 
 ### Sự Thay Đổi Về Kích Thước Qua Các Kỷ Nguyên
 Thời Thượng Cổ, linh khí trời đất còn đậm đặc, một đứa trẻ Cự Tộc sinh ra đã cao trăm trượng, trưởng thành có thể hái sao bắt nguyệt.
@@ -30,7 +30,7 @@ Tuy nhiên, khi Cự Thú dần tuyệt chủng, Cự Tộc đã thay đổi c�
 > — *Bài ca mời rượu của Cự Tộc*
 
 ### Dòng Chảy Lịch Sử
-- **Thuở Khai Thiên:** Cự Tộc là những kẻ đầu tiên bước đi trên mặt đất, giúp Thần Bàn Cổ nâng đỡ bầu trời (theo truyền thuyết).
+- **Thuở Khai Thiên:** Cự Tộc là những kẻ đầu tiên bước đi trên mặt đất, giúp Cổ Thần nâng đỡ bầu trời (theo truyền thuyết).
 - **Kỷ Nguyên Khởi Nguyên (Sơ Kỳ):** "Kỷ Nguyên Vàng". Cự Tộc thống trị mặt đất nhờ kích thước khổng lồ. Họ xây dựng những thành phố đá vĩ đại mà nay chỉ còn là tàn tích.
 - **Kỷ Nguyên Khởi Nguyên (Năm 1200):** "Cuộc Di Cư Vĩ Đại". Linh khí suy giảm khiến cơ thể họ teo nhỏ. Cự Tộc buộc phải rời bỏ đồng bằng để lui về những vùng núi cao và hoang mạc, nhường chỗ cho Nhân Tộc và Yêu Tộc.
 - **Hiện Tại:** Sống cô lập thành từng bộ lạc nhỏ. Dù số lượng ít ỏi nhưng mỗi chiến binh Cự Tộc đều là một cỗ máy chiến tranh đáng sợ.

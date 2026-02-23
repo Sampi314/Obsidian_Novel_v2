@@ -6,7 +6,7 @@
 - **Đặc Điểm:** Linh khí cực thịnh, vạn vật sơ khai, Thiên Đạo chưa hoàn thiện.
 
 ## II. THẾ GIỚI & ĐỊA LÝ
-- **Cấu Trúc:** Bàn Cổ Lục Địa bao quanh bởi Vô Tận Hải.
+- **Cấu Trúc:** Cố Nguyên Lục Địa bao quanh bởi Vô Tận Hải.
 - **Địa Danh Chính:**
     - Trung Tâm: Thiên Trụ Sơn.
     - Tứ Phương: Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.

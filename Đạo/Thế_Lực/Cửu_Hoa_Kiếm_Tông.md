@@ -8,7 +8,7 @@
 - **Người Đứng Đầu:** Tông Chủ - Cửu Hoa Kiếm Tôn (Hóa Thần Sơ Kỳ).
 
 ## II. ĐỊA LÝ & TÀI NGUYÊN
-- **Vị Trí:** Tọa lạc tại phía Đông của Bàn Cổ Lục Địa (thuộc vùng Đông Hoang).
+- **Vị Trí:** Tọa lạc tại phía Đông của Cố Nguyên Lục Địa (thuộc vùng Đông Hoang).
 - **Đặc Điểm Địa Hình:**
     - Gồm 9 ngọn núi cao chọc trời, xếp thành hình vòng tròn như một đóa hoa sen nở rộ.
     - Đỉnh chính giữa gọi là **Thiên Hoa Phong**, 8 đỉnh xung quanh lần lượt là Bạch Hoa, Hồng Hoa, Lam Hoa, Tử Hoa, Kim Hoa, Mộc Hoa, Thủy Hoa, Hỏa Hoa.
