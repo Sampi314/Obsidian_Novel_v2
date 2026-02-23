@@ -1,7 +1,7 @@
 ---
 dạng_cấu_trúc: C1
 ---
-**Hồng Hoang Cổ Ca (洪荒古歌)**
+**Hỗn Độn Ca (混沌歌)**
 
 ### 📐 Cấu Trúc Đã Chọn
 > Dạng: C1 (Thuần Cổ Phong) | Tổng chữ mục tiêu: ~120 | Ngôn ngữ: 100% văn ngôn

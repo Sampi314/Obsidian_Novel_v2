@@ -1,7 +1,7 @@
 ---
 dạng_cấu_trúc: Từ (Niệm Nô Kiều)
 ---
-**Thái Cổ Chiến Ca (太古戰歌)**
+**Thần Ma Lệ (神魔淚)**
 
 ### 📐 Cấu Trúc Đã Chọn
 > Dạng: Từ (Niệm Nô Kiều) | Tổng chữ mục tiêu: ~100 | Ngôn ngữ: 90% văn ngôn
