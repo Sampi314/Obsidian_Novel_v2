@@ -38,6 +38,11 @@ Vũ Tộc không dùng lời nói để tỏ tình hay tuyên chiến, họ dùn
 > *"Đôi cánh có thể gãy, nhưng khát vọng bay lượn thì không bao giờ tắt."*
 > — *Lời thề của Chiến Binh Bầu Trời*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Cuộc Thi "Lông Vũ Vàng":** Hàng năm, Vũ Tộc tổ chức cuộc thi sắc đẹp, nơi họ chải chuốt bộ lông cánh của mình bằng dầu thơm. Kẻ chiến thắng không phải là kẻ mạnh nhất, mà là kẻ có bộ cánh bóng mượt nhất.
+- **Bói Lông Vũ:** Họ tin rằng khi một chiếc lông vũ tự nhiên rụng xuống, hướng bay của nó sẽ chỉ dẫn đến định mệnh. Nếu lông rơi vào bát canh... đó là điềm báo hôm nay sẽ bị sặc.
+- **Ghét Mưa:** Dù điều khiển gió, Vũ Tộc cực ghét bị ướt lông. Khi trời mưa, họ thường trú trong những chiếc ô khổng lồ làm từ lá chuối hoặc... tranh thủ tắm luôn.
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các đỉnh núi cao (Thiên Sơn), đảo bay lơ lửng (nếu có), rừng già tầng thượng.
 - **Khí Hậu:** Ưa thích nơi thoáng đãng, nhiều gió.

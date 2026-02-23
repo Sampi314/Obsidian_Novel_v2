@@ -38,6 +38,11 @@ Một cuộc phẫu thuật của Vi Tộc giống như một chiến dịch qu�
 > *"Kẻ nhỏ bé nhất lại nắm giữ chìa khóa của sự sống và cái chết."*
 > — *Lời đề từ trong "Vi Thảo Bách Khoa Toàn Thư"*
 
+### Giai Thoại & Điều Thú Vị (Bí Mật Văn Hóa)
+- **Đua Thuyền Lá:** Môn thể thao vua của Vi Tộc là đua thuyền trên những chiếc lá thả trôi theo dòng suối. Khán giả cổ vũ nhiệt tình đến mức tiếng reo hò nghe như... tiếng muỗi vo ve.
+- **Thú Cưỡi:** Họ thuần hóa bọ chét và chuồn chuồn làm thú cưỡi. Một kỵ sĩ Vi Tộc cưỡi chuồn chuồn ngô được coi là "Không quân Hoàng gia".
+- **Bí Mật Rượu:** Vi Tộc ủ rượu trong các hạt sương sớm. Chỉ cần một giọt rượu này cũng đủ làm một con trâu say mềm, vì độ tinh khiết cực cao.
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Những khu rừng già nguyên sinh (Đông Hoang), vườn thảo dược của các đại tông môn.
 - **Môi Trường:** Cần nơi yên tĩnh, ít gió bão.

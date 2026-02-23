@@ -109,6 +109,20 @@
 - Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc.
 - Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
 - Sáng tác thơ: Hàn Mai Kiếm Ca.
+- **Mới:** Thêm Kỳ vật: Hàn Ngọc.
+- **Mới:** Thêm Pháp bảo: Hàn Ngọc Kiếm.
+- **Mới:** Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc (Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch).
+- **Mới:** Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
+- **Mới:** Tạo nhân vật Hàn Thanh Nguyệt và công pháp Tàn Nguyệt Kiếm Quyết.
+- **Mới:** Sáng tác thơ "Độc Ẩm Dưới Trăng".
+- **Mới:** Tạo nhân vật Triệu Thanh Hằng và công pháp Lãnh Phong Kiếm Quyết.
+- **Mới:** Sáng tác ca khúc "Hồng Trần Vọng".
+- **Mới:** Bồi đắp chi tiết Nhân Tộc (Ẩm thực & Nghi lễ trưởng thành).
+- **Mới:** Bồi đắp chi tiết toàn bộ các chủng tộc (Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch) với yếu tố thời gian và sự tiến hóa tập tục.
+- **Mới:** Khởi tạo chủng tộc Tinh Linh Tộc (Ngoại hình, Văn hóa, Lịch sử).
+- **Mới:** Bồi đắp chuyên sâu lần 2 cho 10 chủng tộc (Kinh tế, Sinh tồn, Nghệ thuật, Tín ngưỡng).
+- **Mới:** Bổ sung "Dòng Chảy Lịch Sử" (Timeline) chi tiết với các mốc thời gian cụ thể cho toàn bộ 10 Đại Chủng Tộc.
+- **Mới:** Thêm mục "Giai Thoại & Điều Thú Vị" (Văn hóa đời thường) cho tất cả các chủng tộc, tăng tính phong phú và sinh động.
 - Thêm Kỳ vật: Hàn Ngọc.
 - Thêm Pháp bảo: Hàn Ngọc Kiếm.
 - Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc (Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch).
