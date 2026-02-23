@@ -36,9 +36,17 @@
 - **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lam_Phong.md`.
 
-## VI. CẬP NHẬT GẦN NHẤT
+## VI. TÀI NGUYÊN & NGHỀ PHỤ
+- **Đan Dược:**
+    - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Dan_Pha_Chuong_Dan.md`.
+- **Kỳ Vật:**
+    - *Hỏa Linh Thảo:* Thảo dược hệ Hỏa, mọc ở nơi hỏa khí nồng đậm. Xem tại `Đạo/Kỳ_Vật/Hoa_Linh_Thao.md`.
+
+## VII. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Bản đồ sơ bộ.
 - Thiết lập Hệ thống cảnh giới.
 - Phác thảo 9 Chủng tộc chính.
 - Tạo nhân vật mới: Diệp Tĩnh Sương.
 - Tạo nhân vật mới: Lâm Phong.
+- Thêm mới Đan dược: Kim Đan Phá Chướng Đan.
+- Thêm mới Kỳ vật: Hỏa Linh Thảo.
