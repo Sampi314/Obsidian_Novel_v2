@@ -125,5 +125,6 @@
 ## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
 - **Ý Nghĩa Khẩu Quyết:** Lãnh Phong Kiếm Quyết là sự kết hợp giữa "Động" (Gió/Tốc độ) và "Tĩnh" (Lạnh/Đóng băng). Mâu thuẫn này tạo nên sức mạnh đặc biệt: bên ngoài cuồng loạn như bão tố nhưng bên trong lạnh lùng tĩnh lặng. Tầng 4 (Tịch Diệt) là sự thăng hoa của triết lý này: khi tốc độ đạt cực hạn, mọi thứ dường như đứng yên (Thuyết tương đối hẹp trong tu tiên?).
+- **Hình Thức Khẩu Quyết:** Thơ Tứ Ngôn (4 chữ), nhịp điệu nhanh và mạnh, mô phỏng tiếng gió rít.
 - **Cơ Chế Sức Mạnh:** Tận dụng động năng (Kinetic Energy) từ gió và nhiệt năng âm (Cold Energy) để tối đa hóa sát thương cắt. Lưỡi kiếm gió cực mỏng cộng với độ cứng của băng tạo ra khả năng xuyên phá giáp cực tốt.
 - **Lời Bình:** Một bộ kiếm pháp "nhanh - hiểm - độc", rất phù hợp cho những kẻ lãng khách cô độc hay sát thủ.

@@ -198,5 +198,6 @@
 ## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
 - **Ý Nghĩa Khẩu Quyết:** Bộ khẩu quyết của Cửu Chuyển Đan Hỏa Quyết mô tả hành trình của một người tu đạo từ lúc sơ khai (Dẫn Hỏa) đến khi đạt đạo (Quy Chân). Con số 9 (Cửu) trong văn hóa phương Đông tượng trưng cho sự cực hạn và hoàn mỹ. Việc "tự thiêu đốt" ở tầng 6 ám chỉ sự hy sinh cái tôi cũ kỹ để tái sinh một bản thể mới tốt đẹp hơn (Niết Bàn).
+- **Hình Thức Khẩu Quyết:** Thơ Tứ Ngôn (4 chữ), thể hiện sự ngắn gọn, súc tích và mạnh mẽ như ngọn lửa.
 - **Cơ Chế Sức Mạnh:** Sức mạnh của công pháp này nằm ở sự "Tinh Khiết" và "Nén". Lửa càng được tôi luyện nhiều lần (Cửu Chuyển) thì nhiệt lượng càng cao và càng ít tạp chất. Việc kết hợp với Mộc khí (Tầng 5) giải quyết điểm yếu "nhanh tàn" của lửa, tạo ra nguồn năng lượng bền bỉ.
 - **Lời Bình:** Đây là công pháp trấn phái của một tông môn luyện đan, nên nó thiên về kiểm soát và bền bỉ hơn là bộc phá tức thời như các công pháp chiến đấu thuần túy. Tuy nhiên, khi đạt đến đỉnh cao, khả năng hủy diệt của nó là không thể xem thường.
