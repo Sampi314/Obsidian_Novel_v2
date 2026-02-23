@@ -36,6 +36,12 @@
 - **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lam_Phong.md`.
 
+## VI. KHO TÀNG VĂN HỌC
+- **Thơ Ca:**
+    - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
+
+## VII. CẬP NHẬT GẦN NHẤT
+- Sáng tác thơ: Hàn Mai Kiếm Ca.
 ## VI. TÀI NGUYÊN & NGHỀ PHỤ
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Dan_Pha_Chuong_Dan.md`.
