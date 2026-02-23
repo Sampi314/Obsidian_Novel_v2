@@ -1,0 +1,24 @@
+# CỰ TỘC (巨族)
+
+## I. NGOẠI HÌNH & SINH LÝ
+- **Đặc Điểm:** Kích thước khổng lồ, cao từ vài trượng đến hàng trăm trượng. Da dày như đá, cơ bắp cuồn cuộn.
+- **Ưu Điểm:** Sức mạnh thể chất vô song, có thể dùng tay không bẻ gãy pháp bảo. Sinh mệnh lực dồi dào.
+- **Nhược Điểm:** Thân hình to lớn khiến di chuyển kém linh hoạt, dễ trở thành mục tiêu của pháp thuật diện rộng. Tiêu tốn lượng thức ăn/năng lượng khổng lồ.
+
+## II. KHẢ NĂNG ĐẶC BIỆT
+- **Pháp Thiên Tượng Địa (Bẩm Sinh):** Có thể biến đổi kích thước cơ thể lớn hơn nữa trong thời gian ngắn để chiến đấu.
+- **Kháng Phép:** Lớp da dày có khả năng kháng lại phần lớn pháp thuật nguyên tố cấp thấp.
+- **Chấn Động:** Mỗi bước chân hoặc cú đấm có thể tạo ra động đất, sóng xung kích phá hủy địa hình.
+
+## III. VĂN HÓA & XÃ HỘI
+- **Tính Cách:** Thẳng thắn, bộc trực, đôi khi ngây ngô nhưng rất trọng tình nghĩa. Nổi giận thì cực kỳ đáng sợ.
+- **Sinh Hoạt:** Sống đơn giản, gần gũi thiên nhiên. Thích đấu vật, uống rượu mạnh.
+- **Tín Ngưỡng:** Thờ phụng Bàn Cổ (Vị thần khai thiên lập địa khổng lồ).
+
+## IV. NƠI SINH SỐNG
+- **Địa Bàn:** Các vùng núi cao hiểm trở (Dãy Thiên Trụ), hoang mạc cằn cỗi (Tây Mạc).
+- **Lý Do:** Chỉ những nơi này mới đủ không gian và thức ăn cho họ.
+
+## V. LỊCH SỬ & HUYỀN THOẠI
+- **Chiến Tranh:** Trong quá khứ từng bị các tộc nhỏ bé hơn (như Nhân Tộc) dùng mưu trí lừa gạt và đẩy lùi vào những vùng đất hoang vu.
+- **Di Sản:** Những công trình kiến trúc cổ đại khổng lồ rải rác khắp thế giới thường được cho là do Cự Tộc xây dựng.

@@ -1,0 +1,24 @@
+# TRÙNG TỘC (蟲族)
+
+## I. NGOẠI HÌNH & SINH LÝ
+- **Đặc Điểm:** Hình dạng côn trùng khổng lồ hoặc bầy đàn nhỏ bé vô tận. Có lớp vỏ giáp xác cứng, nhiều chân, cánh.
+- **Ưu Điểm:** Sức sống mãnh liệt, khả năng thích nghi môi trường cực nhanh. Một số loài có thể ký sinh, thôn phệ vạn vật để tiến hóa.
+- **Nhược Điểm:** Trí tuệ cá thể thấp (trừ Trùng Vương/Trùng Mẫu), sợ lửa và sấm sét (Lôi kiếp).
+
+## II. KHẢ NĂNG ĐẶC BIỆT
+- **Biển Trùng (Trùng Hải):** Tấn công bằng số lượng áp đảo, lấy thịt đè người.
+- **Độc Tố & Ký Sinh:** Sở hữu các loại độc tố chí mạng, khả năng điều khiển vật chủ hoặc ăn mòn linh khí.
+- **Tiến Hóa:** Thông qua việc thôn phệ huyết nhục hoặc kim loại quý, Trùng Tộc có thể biến đổi hình dạng và năng lực ngay trong trận chiến.
+
+## III. VĂN HÓA & XÃ HỘI
+- **Tổ Chức:** Xã hội bầy đàn tuyệt đối (Hive Mind). Tất cả phục tùng mệnh lệnh của Trùng Mẫu (Nữ Hoàng).
+- **Tín Ngưỡng:** Không có tín ngưỡng, chỉ có bản năng sinh tồn và bành trướng.
+- **Giao Tiếp:** Thông qua pheromone hoặc sóng tâm linh đặc thù.
+
+## IV. NƠI SINH SỐNG
+- **Địa Bàn:** Nam Cương (nơi rừng thiêng nước độc), các hang động sâu trong lòng đất, hoặc các bí cảnh bị bỏ hoang.
+- **Môi Trường:** Ưa thích nơi ẩm thấp, âm u, nhiều chướng khí.
+
+## V. LỊCH SỬ & HUYỀN THOẠI
+- **Tai Ương:** Trong lịch sử từng có "Trùng Hạo Kiếp" khi một Trùng Mẫu đạt cấp bậc Đại Thừa, suýt nữa nuốt chửng cả một châu lục.
+- **Hiện Tại:** Bị các tộc khác kiềm chế và tiêu diệt thường xuyên, nhưng chưa bao giờ bị diệt tận gốc nhờ khả năng ẩn nấp và sinh sản đáng sợ.
