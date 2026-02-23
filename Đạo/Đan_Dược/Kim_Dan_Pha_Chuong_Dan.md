@@ -1,0 +1,27 @@
+# HỒ SƠ ĐAN DƯỢC: KIM ĐAN PHÁ CHƯỚNG ĐAN
+
+- **Tên Đan Dược:** Kim Đan Phá Chướng Đan (金丹破障丹)
+- **Phẩm Cấp:** Tam Phẩm Thượng Đẳng (Huyền Giai)
+- **Công Dụng:**
+  - Là thánh dược hỗ trợ tu sĩ Trúc Cơ Kỳ viên mãn đột phá lên cảnh giới Kim Đan.
+  - Gia tăng 30% tỷ lệ kết đan thành công, giúp ngưng tụ linh lực thành đan hạch vững chắc.
+  - Tạo ra một lớp màng bảo vệ tâm mạch, giúp chống lại tâm ma xâm nhập trong quá trình độ kiếp.
+  - Nếu kết đan thất bại, đan dược có thể bảo toàn tính mạng và một phần tu vi, tránh bị tẩu hỏa nhập ma phế bỏ căn cơ.
+- **Thành Phần Chính:**
+  - **Chủ Dược:** Hỏa Linh Thảo (trên 500 năm tuổi) - Cung cấp nguồn hỏa lực thuần khiết để tôi luyện linh khí.
+  - **Phụ Dược:**
+    - Mật Yêu Thú Kết Đan Kỳ (tốt nhất là loại có thuộc tính Hỏa hoặc Trung tính) - Làm chất dẫn dung hòa.
+    - Tuyết Liên (trên 100 năm tuổi) - Để trung hòa hỏa tính mãnh liệt của Hỏa Linh Thảo, tránh thiêu đốt kinh mạch.
+    - Bạch Ngọc Chi - Tăng cường sự dẻo dai của kinh mạch.
+- **Quy Trình Luyện Chế:**
+  - **Giai đoạn 1 (3 ngày):** Dùng Văn Hỏa (lửa nhỏ) nung chảy Hỏa Linh Thảo và Mật Yêu Thú thành dịch lỏng màu đỏ thẫm.
+  - **Giai đoạn 2 (2 ngày):** Thêm Tuyết Liên và Bạch Ngọc Chi vào, chuyển sang Vũ Hỏa (lửa lớn) để loại bỏ tạp chất. Lúc này lò luyện sẽ rung chuyển dữ dội.
+  - **Giai đoạn 3 (2 ngày cuối):** Dùng thần thức khống chế ngọn lửa, nén dịch thuốc lại thành viên tròn. Đây là giai đoạn quan trọng nhất, quyết định phẩm cấp đan dược.
+  - Tổng thời gian luyện chế: 7 ngày 7 đêm liên tục.
+- **Tỷ Lệ Thành Đan:**
+  - Khó. Yêu cầu Đan Sư phải có ít nhất tu vi Trúc Cơ Hậu Kỳ và sở hữu Chân Hỏa hoặc Địa Hỏa ổn định.
+  - Tỷ lệ thành công thông thường khoảng 20-30%. Nếu có lò luyện tốt và tay nghề cao có thể lên 50%.
+- **Lưu Ý/Cấm Kỵ:**
+  - Tu sĩ mang Thủy Linh Căn hoặc Hàn Băng Thể chất **cấm dùng** loại này (do xung khắc với Hỏa Linh Thảo), nếu dùng sẽ bị nổ tan đan điền. Với trường hợp này cần dùng "Thủy Nguyên Phá Chướng Đan" (biến thể khác).
+  - Mỗi người cả đời chỉ nên dùng 1 viên để đột phá. Dùng viên thứ 2 hiệu quả giảm đi 9 phần.
+  - Sau khi uống phải lập tức bế quan vận công, không được để ngoại cảnh tác động.
