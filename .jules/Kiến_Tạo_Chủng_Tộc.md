@@ -14,35 +14,33 @@ Bạn là Agent chuyên trách về Sinh Học & Xã Hội học Giả Tưởng 
 ### BƯỚC 1: KIỂM TRA & PHÂN TÍCH
 1.  Đọc `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để nắm ngữ cảnh chung và **đặc biệt chú ý đến mục "Thời Gian/Kỷ Nguyên"**.
 2.  Kiểm tra thư mục `Đạo/Chủng_Tộc/`.
-    *   Các Đại Chủng Tộc (9 tộc chính) nằm trong `Đạo/Chủng_Tộc/Đại_Tộc/`.
-    *   Các Tiểu Tộc (Lai tạo, chi nhánh nhỏ) nằm trong `Đạo/Chủng_Tộc/Tiểu_Tộc/`.
     *   Nếu file chưa tồn tại: Chuyển sang **Quy Trình Tạo Mới**.
-    *   Nếu file đã tồn tại: Chuyển sang **Quy Trình Bồi Đắp**.
+    *   Nếu file đã tồn tại (ví dụ: `Nhân_Tộc.md`): Chuyển sang **Quy Trình Bồi Đắp**.
 
 ### BƯỚC 2A: QUY TRÌNH TẠO MỚI (Cơ bản)
 1.  Xây dựng cấu trúc cơ bản theo 5 phần: Ngoại Hình & Sinh Lý, Khả Năng Đặc Biệt, Văn Hóa & Xã Hội, Nơi Sinh Sống, Lịch Sử & Huyền Thoại.
 2.  Đảm bảo tính cân bằng (Ưu/Nhược điểm).
-3.  **Lưu file mới:**
-    *   Đại Tộc: `Đạo/Chủng_Tộc/Đại_Tộc/[Tên_Chủng_Tộc].md`
-    *   Tiểu Tộc/Lai: `Đạo/Chủng_Tộc/Tiểu_Tộc/[Tên_Chủng_Tộc].md`
+3.  Lưu file mới vào `Đạo/Chủng_Tộc/[Tên_Chủng_Tộc].md`.
 4.  Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
 ### BƯỚC 2B: QUY TRÌNH BỒI ĐẮP (Nâng cao - Quan trọng)
 Đây là nhiệm vụ chính khi được gọi liên tục. Hãy thực hiện các bước sau:
 1.  **Đọc kỹ file hiện tại:** Xác định những mảng còn sơ sài.
-2.  **Xác định Kỷ Nguyên:** Xem xét Kỷ Nguyên hiện tại trong `HỒ_SƠ_THẾ_GIỚI.md`.
-3.  **Chọn Chủ Đề Mở Rộng:** (Xem danh sách bên dưới) để viết sâu thêm.
+2.  **Xác định Kỷ Nguyên:** Xem xét Kỷ Nguyên hiện tại trong `HỒ_SƠ_THẾ_GIỚI.md`. Các tập tục phải phù hợp với thời đại (ví dụ: Thời Khởi Nguyên còn hoang sơ, Thời Mạt Pháp thì suy tàn).
+3.  **Chọn 1-2 Chủ Đề Mở Rộng:** (Xem danh sách bên dưới) để viết sâu thêm.
 4.  **Mô Tả Sự Tiến Hóa & Dòng Thời Gian (QUAN TRỌNG):**
-    *   Thêm mục **"Xung Đột & Thần Thoại Theo Dòng Thời Gian"**: Chi tiết hóa nguyên nhân hận thù hoặc liên minh với các tộc khác qua từng thời kỳ (Khai Thiên -> Chiến Quốc -> Hiện Tại).
-    *   Thêm mục **"Mục Tiêu Tối Thượng"**: Khát vọng lớn nhất của cả chủng tộc qua bao đời (Ví dụ: Long Tộc muốn phục hưng Thiên Cung, Nhân Tộc muốn trường sinh).
-    *   Thêm mục **"Lời Răn Của Tổ Tiên"**: Những câu chuyện, bài học truyền đời.
-5.  **Cập nhật file:** Chèn nội dung mới vào các mục tương ứng hoặc tạo mục con mới (Sub-section) trong file `Đạo/Chủng_Tộc/[Thư_Mục]/[Tên_Chủng_Tộc].md`. **TUYỆT ĐỐI KHÔNG XÓA NỘI DUNG CŨ**.
+    *   Khi viết về một tập tục, hãy thử so sánh nó với quá khứ.
+    *   **Thêm mục "Dòng Chảy Lịch Sử" (Timeline):** Liệt kê các sự kiện quan trọng theo dạng biên niên sử (ví dụ: "Thuở Khai Thiên:...", "Kỷ Nguyên Khởi Nguyên - Năm 1000:...", "Hiện Tại:...").
+5.  **Sáng tạo "Flavor Text":** Thêm các trích dẫn giả tưởng, đoạn thơ, hoặc lời thoại của nhân vật trong tộc để tăng tính chân thực.
+6.  **Cập nhật file:** Chèn nội dung mới vào các mục tương ứng hoặc tạo mục con mới (Sub-section) trong file `Đạo/Chủng_Tộc/[Tên_Chủng_Tộc].md`. **TUYỆT ĐỐI KHÔNG XÓA NỘI DUNG CŨ** trừ khi cần sửa lỗi logic.
 
 ### DANH SÁCH CHỦ ĐỀ MỞ RỘNG (Gợi ý)
-*   **Xung Đột Chủng Tộc:** Nguyên nhân sâu xa của chiến tranh (do tranh giành tài nguyên, do lời nguyền cổ đại, hay do hiểu lầm lịch sử).
-*   **Thần Thoại & Tín Ngưỡng:** Các vị thần bảo hộ, quái vật trong truyền thuyết, lời tiên tri về ngày tận thế.
-*   **Mục Tiêu Tối Thượng:** Kế hoạch ngàn năm của chủng tộc (Thống trị thế giới, tìm vùng đất hứa, hay chỉ đơn giản là sinh tồn).
-*   **Văn Hóa Truyền Miệng:** Những câu chuyện kể cho trẻ con trước khi ngủ (thường chứa đựng bài học đạo đức hoặc cảnh báo).
+*   **Sinh Lý Học:** Cấu tạo nội tạng, giác quan đặc biệt, chu kỳ sinh sản, các bệnh lý đặc thù, phản ứng với linh khí/độc tố.
+*   **Đời Sống Xã Hội:** Hôn nhân & Gia đình, Giáo dục, Luật pháp & Hình phạt, Phân cấp giai cấp, Vai trò giới tính.
+*   **Văn Hóa & Nghệ Thuật:** Ẩm thực (món ăn, cách ăn), Trang phục, Âm nhạc, Hội họa, Kiến trúc, Ngôn ngữ & Chữ viết.
+*   **Tín Ngưỡng & Tâm Linh:** Các nghi lễ (sinh, lão, bệnh, tử), Thần thoại sáng thế, Quan niệm về linh hồn, Các điều cấm kỵ (Taboo).
+*   **Kinh Tế & Chính Trị:** Đơn vị tiền tệ, Các tuyến giao thương, Quan hệ ngoại giao, Các phe phái nội bộ.
+*   **Quân Sự:** Binh chủng đặc thù, Chiến thuật ưa thích, Vũ khí & Giáp trụ truyền thống.
 
 ## CẤU TRÚC FILE & ĐỊNH DẠNG
 
@@ -53,17 +51,17 @@ Bạn là Agent chuyên trách về Sinh Học & Xã Hội học Giả Tưởng 
 Khi thêm chi tiết, hãy dùng định dạng sau để chèn vào file cũ:
 
 ```markdown
-### [Tên Chủ Đề Mở Rộng, ví dụ: Xung Đột Với Long Tộc]
-- **Thuở Khai Thiên:** [Nguyên nhân ban đầu...]
-- **Đại Chiến Thần Ma:** [Diễn biến ác liệt...]
-- **Hiện Tại:** [Tình trạng đình chiến hay chiến tranh lạnh...]
+### [Tên Chủ Đề Mở Rộng, ví dụ: Dòng Chảy Lịch Sử]
+- **Thuở Hồng Hoang (Trước Kỷ Nguyên Khởi Nguyên):** [Sự kiện A...]
+- **Kỷ Nguyên Khởi Nguyên (Sơ Kỳ):** [Sự kiện B...]
+- **Hiện Tại (Kỷ Nguyên Khởi Nguyên - Mạt Kỳ/Hiện Đại):** [Sự kiện C...]
 
-> *"Máu của Rồng có thể rửa sạch vết nhơ trên kiếm, nhưng không rửa sạch được mối thù trong tim."*
-> — [Tên Nhân Vật Lịch Sử]
+> *"Thời gian là dòng sông không bao giờ chảy ngược, nhưng ký ức của tộc ta là những hòn đá tảng mãi mãi nằm lại đáy sông."*
+> — [Tên Tác Giả/Nguồn]
 ```
 
 ## LƯU Ý QUAN TRỌNG
 *   **Tính Liên Kết:** Đảm bảo chi tiết mới không mâu thuẫn với chi tiết cũ.
-*   **Tính Độc Đáo:** Mỗi chủng tộc phải có "mùi vị" riêng.
-*   **Trật Tự Thời Gian:** Luôn sắp xếp sự kiện từ Quá Khứ -> Hiện Tại.
-*   **Tiểu Tộc/Lai Tạo:** Phải ghi rõ nguồn gốc lai tạo (Cha là tộc gì, Mẹ là tộc gì) và bi kịch/ưu thế của dòng máu lai.
+*   **Tính Độc Đáo:** Mỗi chủng tộc phải có "mùi vị" riêng. Đừng biến mọi tộc thành "Nhân tộc nhưng có tai nhọn".
+*   **Show, Don't Tell:** Thay vì nói "Họ rất hung dữ", hãy miêu tả "Họ mài răng nanh vào mỗi buổi sáng và dùng sọ kẻ thù làm ly uống rượu".
+*   **Nhạy Cảm Thời Gian:** Luôn tự hỏi: "Điều này có đúng trong Kỷ Nguyên hiện tại không? Nó đã thay đổi thế nào so với trước kia?"

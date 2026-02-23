@@ -18,22 +18,18 @@
 - **Chi Tiết:** Xem tại `Đạo/Tu_Luyện/He_Thong_Canh_Gioi.md`.
 
 ## IV. CHỦNG TỘC
-- **10 Đại Chủng Tộc (Đại Tộc):**
-    1. **Nhân Tộc** (Sáng tạo, học hỏi). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Nhân_Tộc.md`.
-    2. **Long Tộc** (Uy quyền, mưa gió). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Long_Tộc.md`.
-    3. **Trùng Tộc** (Số lượng, thích nghi). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Trùng_Tộc.md`.
-    4. **Hải Tộc** (Làm chủ đại dương). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Hải_Tộc.md`.
-    5. **Cự Tộc** (Sức mạnh dời non). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Cự_Tộc.md`.
-    6. **Vi Tộc** (Tinh tế, ẩn mình). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Vi_Tộc.md`.
-    7. **Yêu Tộc** (Hoang dã, sức mạnh). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Yêu_Tộc.md`.
-    8. **Vũ Tộc** (Chinh phục bầu trời). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Vũ_Tộc.md`.
-    9. **Thạch Tộc** (Kiên định, bất hoại). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Thạch_Tộc.md`.
-    10. **Tinh Linh Tộc** (Hòa mình thiên nhiên). Xem tại `Đạo/Chủng_Tộc/Đại_Tộc/Tinh_Linh_Tộc.md`.
-
-- **Các Tiểu Tộc & Lai Tạo (Tiểu Tộc):**
-    - **Bán Yêu (Half-Demon):** Con lai Nhân - Yêu. Sức mạnh và bi kịch. Xem tại `Đạo/Chủng_Tộc/Tiểu_Tộc/Bán_Yêu.md`.
-    - **Long Nhân (Dragonkin):** Con lai Nhân - Long. Sứ giả hòa bình. Xem tại `Đạo/Chủng_Tộc/Tiểu_Tộc/Long_Nhân.md`.
-    - **Thạch Mộc Linh (Moss Spirit):** Cộng sinh Thạch - Tinh Linh. Xem tại `Đạo/Chủng_Tộc/Tiểu_Tộc/Thạch_Mộc_Linh.md`.
+- **9 Đại Chủng Tộc (Kỷ Nguyên Khởi Nguyên):**
+    1. Nhân Tộc (Sáng tạo, học hỏi).
+    2. Long Tộc (Uy quyền, mưa gió).
+    3. Trùng Tộc (Số lượng, thích nghi).
+    4. Hải Tộc (Làm chủ đại dương).
+    5. Cự Tộc (Sức mạnh dời non).
+    6. Vi Tộc (Tinh tế, ẩn mình).
+    7. Yêu Tộc (Hoang dã, sức mạnh).
+    8. Vũ Tộc (Chinh phục bầu trời).
+    9. Thạch Tộc (Kiên định, bất hoại).
+    10. Tinh Linh Tộc (Hòa mình thiên nhiên, thanh cao).
+- **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chung_Toc_Chinh.md`.
 
 ## V. NHÂN VẬT TIÊU BIỂU
 - **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*.
@@ -75,23 +71,7 @@
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Trận Pháp:**
     - *Cửu Hoa Tru Tiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện. Xem tại `Đạo/Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md`.
-- **Vạn Hỏa Phần Thiên Trận (Cửu Cấp):**
-    - Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù.
-    - **Chi Tiết:** Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
-- **Cửu Hoa Tru Tiên Trận (Cửu Cấp):**
-    - Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện.
-    - **Chi Tiết:** Xem tại `Đạo/Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md`.
-
-## IX. CẬP NHẬT GẦN NHẤT
-- **Mới:** Xây dựng Đan Hà Cốc (Thế lực, Công pháp, Trận pháp).
-## VI. KHO TÀNG VĂN HỌC
-- **Thơ Ca:**
-    - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
-    - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
-
-## VII. CẬP NHẬT GẦN NHẤT
-- Sáng tác thơ: Hàn Mai Kiếm Ca.
-## VI. TÀI NGUYÊN & NGHỀ PHỤ
+    - *Vạn Hỏa Phần Thiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Dan_Pha_Chuong_Dan.md`.
 - **Pháp Bảo:**
