@@ -71,23 +71,7 @@
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Trận Pháp:**
     - *Cửu Hoa Tru Tiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện. Xem tại `Đạo/Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md`.
-- **Vạn Hỏa Phần Thiên Trận (Cửu Cấp):**
-    - Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù.
-    - **Chi Tiết:** Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
-- **Cửu Hoa Tru Tiên Trận (Cửu Cấp):**
-    - Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện.
-    - **Chi Tiết:** Xem tại `Đạo/Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md`.
-
-## IX. CẬP NHẬT GẦN NHẤT
-- **Mới:** Xây dựng Đan Hà Cốc (Thế lực, Công pháp, Trận pháp).
-## VI. KHO TÀNG VĂN HỌC
-- **Thơ Ca:**
-    - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
-    - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
-
-## VII. CẬP NHẬT GẦN NHẤT
-- Sáng tác thơ: Hàn Mai Kiếm Ca.
-## VI. TÀI NGUYÊN & NGHỀ PHỤ
+    - *Vạn Hỏa Phần Thiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Dan_Pha_Chuong_Dan.md`.
 - **Pháp Bảo:**
@@ -101,7 +85,8 @@
     - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
     - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
 - **Âm Nhạc:**
-    - [Hồng Trần Vọng](Âm_Nhạc/Hồng_Trần_Vọng.md): Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần.
+    - [Hồng Trần Vọng](Âm_Nhạc/Hồng_Trần_Vọng.md): Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần (Phiên bản đầy đủ).
+    - [Đan Hỏa Trường Ca](Âm_Nhạc/Đan_Hỏa_Trường_Ca.md): Ca khúc hùng tráng về Đan đạo và Đan Hà Cốc.
 
 ## X. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Bản đồ sơ bộ.
@@ -115,16 +100,19 @@
 - Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc.
 - Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
 - Sáng tác thơ: Hàn Mai Kiếm Ca.
-- **Mới:** Thêm Kỳ vật: Hàn Ngọc.
-- **Mới:** Thêm Pháp bảo: Hàn Ngọc Kiếm.
-- **Mới:** Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc (Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch).
-- **Mới:** Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
-- **Mới:** Tạo nhân vật Hàn Thanh Nguyệt và công pháp Tàn Nguyệt Kiếm Quyết.
-- **Mới:** Sáng tác thơ "Độc Ẩm Dưới Trăng".
-- **Mới:** Tạo nhân vật Triệu Thanh Hằng và công pháp Lãnh Phong Kiếm Quyết.
-- **Mới:** Sáng tác ca khúc "Hồng Trần Vọng".
-- **Mới:** Bồi đắp chi tiết Nhân Tộc (Ẩm thực & Nghi lễ trưởng thành).
-- **Mới:** Bồi đắp chi tiết toàn bộ các chủng tộc (Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch) với yếu tố thời gian và sự tiến hóa tập tục.
-- **Mới:** Khởi tạo chủng tộc Tinh Linh Tộc (Ngoại hình, Văn hóa, Lịch sử).
-- **Mới:** Bồi đắp chuyên sâu lần 2 cho 10 chủng tộc (Kinh tế, Sinh tồn, Nghệ thuật, Tín ngưỡng).
-- **Mới:** Bổ sung "Dòng Chảy Lịch Sử" (Timeline) chi tiết với các mốc thời gian cụ thể cho toàn bộ 10 Đại Chủng Tộc.
+- Thêm Kỳ vật: Hàn Ngọc.
+- Thêm Pháp bảo: Hàn Ngọc Kiếm.
+- Cập nhật hồ sơ chi tiết 9 Đại Chủng Tộc (Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch).
+- Tạo nhân vật Sở Lăng Sương và công pháp Hàn Sương Kiếm Quyết.
+- Tạo nhân vật Hàn Thanh Nguyệt và công pháp Tàn Nguyệt Kiếm Quyết.
+- Sáng tác thơ "Độc Ẩm Dưới Trăng".
+- Tạo nhân vật Triệu Thanh Hằng và công pháp Lãnh Phong Kiếm Quyết.
+- Sáng tác ca khúc "Hồng Trần Vọng".
+- Bồi đắp chi tiết Nhân Tộc (Ẩm thực & Nghi lễ trưởng thành).
+- Bồi đắp chi tiết toàn bộ các chủng tộc (Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch) với yếu tố thời gian và sự tiến hóa tập tục.
+- Khởi tạo chủng tộc Tinh Linh Tộc (Ngoại hình, Văn hóa, Lịch sử).
+- Bồi đắp chuyên sâu lần 2 cho 10 chủng tộc (Kinh tế, Sinh tồn, Nghệ thuật, Tín ngưỡng).
+- Bổ sung "Dòng Chảy Lịch Sử" (Timeline) chi tiết với các mốc thời gian cụ thể cho toàn bộ 10 Đại Chủng Tộc.
+- **Mới:** Làm lại bài hát "Hồng Trần Vọng" với cấu trúc đầy đủ.
+- **Mới:** Sáng tác bài hát "Đan Hỏa Trường Ca" cho Đan Hà Cốc.
+- **Mới:** Sắp xếp và dọn dẹp file Hồ sơ thế giới.
