@@ -23,12 +23,13 @@ Mọi nội dung sách công pháp bạn tạo ra PHẢI tuân thủ nghiêm ng�
     - Đảm bảo văn phong cổ kính, trang trọng (dùng từ Hán Việt đắt giá).
     - Tạo cảm giác huyền bí, khó hiểu nhưng vẫn logic với cơ chế công pháp.
 3.  **Lưu Trữ & Báo Cáo:**
-    - Lưu nội dung sách vào file trong thư mục `Đạo/Tu_Tiên_Và_Nghệ_Thuật/` (ví dụ: `Đạo/Tu_Tiên_Và_Nghệ_Thuật/Bi_Kip_Thanh_Lien.md`).
+    - Lưu nội dung sách vào file trong thư mục `Đạo/Công_Pháp/` (ví dụ: `Đạo/Công_Pháp/Bí_Kíp_Thanh_Liên.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
     - Cung cấp nội dung hoàn chỉnh cho Agent `Viết_Chương_Truyện` khi được yêu cầu.
     - Ghi chú tiến độ vào `.jules_memory/Viet_Sach_Cong_Phap_Memory.md`.
 
 ## CẤU TRÚC THƯ MỤC
-- **Nơi Lưu Kết Quả:** `Đạo/Tu_Tiên_Và_Nghệ_Thuật/`
+- **Nơi Lưu Kết Quả:** `Đạo/Công_Pháp/`
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Viet_Sach_Cong_Phap_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA

@@ -18,12 +18,13 @@ Bạn là Agent chuyên trách về Văn Hóa, Tín Ngưỡng, Phong Tục Tập
     - Sử dụng kiến thức nhân chủng học, xã hội học giả tưởng.
     - Đảm bảo tính nhất quán giữa văn hóa và môi trường sống/chủng tộc.
 4.  **Lưu Trữ & Báo Cáo:**
-    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Thế_Giới_Và_Thời_Gian/` (ví dụ: `Đạo/Thế_Giới_Và_Thời_Gian/Le_Hoi_Dang_Long.md`).
+    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Văn_Hóa/` (ví dụ: `Đạo/Văn_Hóa/Lễ_Hội_Đăng_Long.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
     - Ghi chú các điểm cần nhớ vào `.jules_memory/Kien_Tao_Van_Hoa_Memory.md`.
 
 ## CẤU TRÚC THƯ MỤC
-- **Nơi Lưu Kết Quả:** `Đạo/Thế_Giới_Và_Thời_Gian/`
+- **Nơi Lưu Kết Quả:** `Đạo/Văn_Hóa/`
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Kien_Tao_Van_Hoa_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA

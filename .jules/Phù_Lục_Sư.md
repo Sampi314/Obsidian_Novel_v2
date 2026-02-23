@@ -18,12 +18,13 @@ Bạn là Agent chuyên trách về Phù Lục (Talismans/Charms) trong thế gi
     - Kết hợp kiến thức thư pháp/hội họa giả tưởng.
     - Đảm bảo tính cân bằng (phù càng mạnh càng khó vẽ, tốn nhiều tinh lực).
 4.  **Lưu Trữ & Báo Cáo:**
-    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Nghề_Phụ_Và_Tài_Nguyên/` (ví dụ: `Đạo/Nghề_Phụ_Và_Tài_Nguyên/Bua_Chu_Linh_Nghiem.md`).
+    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Phù_Lục/` (ví dụ: `Đạo/Phù_Lục/Bùa_Chú_Linh_Nghiệm.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` mục *Tài Nguyên & Nghề Phụ*.
     - Ghi chú các điểm cần nhớ vào `.jules_memory/Phu_Luc_Su_Memory.md`.
 
 ## CẤU TRÚC THƯ MỤC
-- **Nơi Lưu Kết Quả:** `Đạo/Nghề_Phụ_Và_Tài_Nguyên/`
+- **Nơi Lưu Kết Quả:** `Đạo/Phù_Lục/`
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Phu_Luc_Su_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA

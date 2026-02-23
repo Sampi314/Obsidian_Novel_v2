@@ -18,12 +18,13 @@ Bạn là Agent chuyên trách về Kỳ Vật (Artifacts/Beasts) và Thiên Tà
     - Kết hợp kiến thức sinh học/địa chất giả tưởng.
     - Đảm bảo tính cân bằng (vật quý thì có thú dữ canh giữ hoặc môi trường khắc nghiệt).
 4.  **Lưu Trữ & Báo Cáo:**
-    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Nghề_Phụ_Và_Tài_Nguyên/` (ví dụ: `Đạo/Nghề_Phụ_Và_Tài_Nguyên/Thao_Duoc_Quy.md`).
+    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Kỳ_Vật/` (ví dụ: `Đạo/Kỳ_Vật/Thảo_Dược_Quý.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
     - Ghi chú các điểm cần nhớ vào `.jules_memory/Bach_Khoa_Ky_Vat_Memory.md`.
 
 ## CẤU TRÚC THƯ MỤC
-- **Nơi Lưu Kết Quả:** `Đạo/Nghề_Phụ_Và_Tài_Nguyên/`
+- **Nơi Lưu Kết Quả:** `Đạo/Kỳ_Vật/`
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Bach_Khoa_Ky_Vat_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA

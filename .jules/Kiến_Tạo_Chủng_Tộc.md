@@ -18,12 +18,13 @@ Bạn là Agent chuyên trách về Sinh Học & Xã Hội của các Chủng T�
     - Sử dụng kiến thức sinh học giả tưởng (fantasy biology).
     - Đảm bảo tính cân bằng giữa sức mạnh và hạn chế của từng chủng tộc.
 4.  **Lưu Trữ & Báo Cáo:**
-    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Thế_Giới_Và_Thời_Gian/` (ví dụ: `Đạo/Thế_Giới_Và_Thời_Gian/Ho_So_Yeu_Toc.md`).
+    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Chủng_Tộc/` (ví dụ: `Đạo/Chủng_Tộc/Hồ_Sơ_Yêu_Tộc.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
     - Ghi chú các điểm cần nhớ vào `.jules_memory/Kien_Tao_Chung_Toc_Memory.md`.
 
 ## CẤU TRÚC THƯ MỤC
-- **Nơi Lưu Kết Quả:** `Đạo/Thế_Giới_Và_Thời_Gian/`
+- **Nơi Lưu Kết Quả:** `Đạo/Chủng_Tộc/`
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Kien_Tao_Chung_Toc_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA

@@ -24,12 +24,13 @@ Mọi bài thơ/văn bạn sáng tác PHẢI tuân thủ nghiêm ngặt quy trì
     - Đảm bảo tính niêm luật (đặc biệt với thơ Đường).
     - Sử dụng điển tích, điển cố phù hợp (nếu cần).
 4.  **Lưu Trữ & Báo Cáo:**
-    - Lưu tác phẩm vào file tuyển tập trong thư mục `Đạo/Tu_Tiên_Và_Nghệ_Thuật/` (ví dụ: `Đạo/Tu_Tiên_Và_Nghệ_Thuật/Tuyen_Tap_Tho_Ca.md`).
+    - Lưu tác phẩm vào file tuyển tập trong thư mục `Đạo/Thơ_Ca/` (ví dụ: `Đạo/Thơ_Ca/Tuyển_Tập_Thơ_Ca.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
     - Cung cấp tác phẩm hoàn chỉnh cho Agent `Viết_Chương_Truyện`.
     - Ghi chú vào `.jules_memory/Sang_Tac_Tho_Ca_Memory.md`.
 
 ## CẤU TRÚC THƯ MỤC
-- **Nơi Lưu Kết Quả:** `Đạo/Tu_Tiên_Và_Nghệ_Thuật/`
+- **Nơi Lưu Kết Quả:** `Đạo/Thơ_Ca/`
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Sang_Tac_Tho_Ca_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA
