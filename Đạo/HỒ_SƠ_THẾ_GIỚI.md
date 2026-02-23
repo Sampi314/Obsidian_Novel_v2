@@ -33,6 +33,8 @@
 ## V. NHÂN VẬT TIÊU BIỂU
 - **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diep_Tinh_Suong.md`.
+- **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lam_Phong.md`.
 
 ## VI. TÀI NGUYÊN & NGHỀ PHỤ
 - **Đan Dược:**
@@ -45,5 +47,6 @@
 - Thiết lập Hệ thống cảnh giới.
 - Phác thảo 9 Chủng tộc chính.
 - Tạo nhân vật mới: Diệp Tĩnh Sương.
+- Tạo nhân vật mới: Lâm Phong.
 - Thêm mới Đan dược: Kim Đan Phá Chướng Đan.
 - Thêm mới Kỳ vật: Hỏa Linh Thảo.
