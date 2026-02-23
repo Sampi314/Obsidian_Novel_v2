@@ -116,10 +116,5 @@
 - Khởi tạo chủng tộc Tinh Linh Tộc (Ngoại hình, Văn hóa, Lịch sử).
 - Bồi đắp chuyên sâu lần 2 cho 10 chủng tộc (Kinh tế, Sinh tồn, Nghệ thuật, Tín ngưỡng).
 - Bổ sung "Dòng Chảy Lịch Sử" (Timeline) chi tiết với các mốc thời gian cụ thể cho toàn bộ 10 Đại Chủng Tộc.
-- Làm lại bài hát "Hồng Trần Vọng" với cấu trúc đầy đủ.
-- Sáng tác bài hát "Đan Hỏa Trường Ca" cho Đan Hà Cốc.
 - Sắp xếp và dọn dẹp file Hồ sơ thế giới.
-- **Mới:** Sáng tác thêm 9 bài hát đa dạng chủ đề (Tiêu dao, Hài hước, Chiến tranh, Tình yêu, Ma đạo, Triết lý, Thiên nhiên, Yêu tộc).
-- **Mới:** Loại bỏ hoàn toàn hình ảnh Phật giáo khỏi thế giới, thay thế bằng thuật ngữ Đạo gia.
-- **Mới:** Sáng tác thêm 90 bài hát (Chia thành 9 tuyển tập) bao phủ mọi khía cạnh tu chân (Cảnh giới, Binh khí, Ngũ hành, Cảm xúc, Thiên nhiên, Nhân duyên, Sinh hoạt, Linh thú, Thời tiết, Tông môn).
-- **Mới:** Tạo thư viện âm nhạc trung tâm `Đạo/Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md`.
+
