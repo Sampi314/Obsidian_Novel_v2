@@ -120,5 +120,6 @@
 ## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
 - **Ý Nghĩa Khẩu Quyết:** Bộ khẩu quyết nhấn mạnh vào sự "Tĩnh Lặng" và "Tuyệt Tình". Băng tuyết không biết nói, cũng không biết yêu thương. Người luyện kiếm này phải học cách đóng cửa trái tim, trở nên lạnh lùng như băng để đạt đến cảnh giới tối cao.
+- **Hình Thức Khẩu Quyết:** Thơ Tứ Ngôn (4 chữ), mỗi câu như một khối băng lạnh lẽo, chắc chắn và dứt khoát.
 - **Cơ Chế Sức Mạnh:** Sức mạnh của Hàn Sương Kiếm Quyết không nằm ở sự hủy diệt bùng nổ mà ở sự "Tước Đoạt". Nó tước đoạt nhiệt lượng, tước đoạt sự chuyển động, và cuối cùng là tước đoạt sự sống một cách từ từ nhưng không thể cưỡng lại.
 - **Lời Bình:** Đây là công pháp đáng sợ, biến người sử dụng thành một cỗ máy giết chóc lạnh lùng. Tuy nhiên, cái giá phải trả là sự cô đơn (Tầng 4: Duy ngã độc tỉnh - Chỉ mình ta tỉnh thức giữa sự chết chóc).

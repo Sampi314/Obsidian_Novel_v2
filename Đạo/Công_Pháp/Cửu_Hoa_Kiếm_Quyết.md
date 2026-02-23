@@ -141,5 +141,6 @@
 ## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
 - **Ý Nghĩa Khẩu Quyết:** Cửu Hoa Kiếm Quyết mô tả vòng đời của một đóa hoa cũng như đời người. Từ lúc "Hàm Bao" (trẻ thơ/tiềm năng) đến "Sơ Trán" (thanh xuân), rồi "Bách Hoa" (trưởng thành/rực rỡ), đến "Lạc Hoa" (già đi/suy tàn), và cuối cùng là "Quy Nhất" (trở về với đất mẹ/đạo).
+- **Hình Thức Khẩu Quyết:** Thơ Tứ Ngôn (4 chữ) và Lục Ngôn (6 chữ), mang âm hưởng nhẹ nhàng, thanh thoát như hoa rơi.
 - **Cơ Chế Sức Mạnh:** Sức mạnh của kiếm pháp này nằm ở sự kết hợp mâu thuẫn giữa "vẻ đẹp" (Hoa) và "sát khí" (Kiếm). Kẻ địch thường bị vẻ đẹp làm xao nhãng trước khi nhận ra sự nguy hiểm. Tầng 4 (Lạc Hoa Vô Tình) là bước ngoặt quan trọng, chuyển từ dương (sự sống) sang âm (cái chết).
 - **Lời Bình:** Đây là một kiếm pháp hoa mỹ và đầy triết lý, phù hợp với những nhân vật có tâm hồn nghệ sĩ nhưng nội tâm sâu sắc, lạnh lùng.

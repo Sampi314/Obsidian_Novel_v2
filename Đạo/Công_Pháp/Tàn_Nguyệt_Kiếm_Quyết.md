@@ -125,5 +125,6 @@
 ## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
 - **Ý Nghĩa Khẩu Quyết:** Hình ảnh "Tàn Nguyệt" (Trăng khuyết/Trăng tàn) tượng trưng cho sự không trọn vẹn, sự mất mát và cái chết sắp đến. Bộ kiếm pháp này mang đậm màu sắc bi quan nhưng quyết liệt: biết mình sẽ chết nhưng vẫn tung ra đòn cuối cùng. Tầng 4 (Tuyệt Sát) thể hiện tinh thần "Cùng chết" (Mutually Assured Destruction).
+- **Hình Thức Khẩu Quyết:** Thơ Tứ Ngôn (4 chữ), u ám và sắc lạnh như ánh trăng đêm.
 - **Cơ Chế Sức Mạnh:** Tàn Nguyệt Kiếm Quyết không mạnh về tổng thể (thiếu phòng thủ, sức bền kém) nhưng cực mạnh ở điểm "Bộc Phá" (Burst Damage). Nó đánh đổi mọi thứ để lấy một khoảnh khắc tỏa sáng, giống như ánh trăng trước khi lặn.
 - **Lời Bình:** Đây là công pháp dành cho những kẻ cảm tử, những người không còn gì để mất, hoặc những sát thủ chuyên nghiệp coi mạng sống nhẹ tựa lông hồng.
