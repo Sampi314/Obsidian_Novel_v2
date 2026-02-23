@@ -10,11 +10,13 @@ permissions:
 
 jobs:
   auto-merge-jules:
-    # Only run for PRs created by Jules or from Jules-style branches
+    # Only run for PRs created by Jules (Google Labs) or from Jules-style branches
     if: >-
       github.event.pull_request.user.login == 'jules-app[bot]'
+      || github.event.pull_request.user.login == 'google-labs-jules[bot]'
       || startsWith(github.event.pull_request.head.ref, 'jules/')
       || startsWith(github.event.pull_request.head.ref, 'jules-')
+      || startsWith(github.event.pull_request.head.ref, 'feat/')
     runs-on: ubuntu-latest
 
     steps:
