@@ -30,7 +30,12 @@
     9. Tu La Tộc (Hiếu chiến, sát phạt).
 - **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chung_Toc_Chinh.md`.
 
-## V. CẬP NHẬT GẦN NHẤT
+## V. NHÂN VẬT TIÊU BIỂU
+- **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diep_Tinh_Suong.md`.
+
+## VI. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Bản đồ sơ bộ.
 - Thiết lập Hệ thống cảnh giới.
 - Phác thảo 9 Chủng tộc chính.
+- Tạo nhân vật mới: Diệp Tĩnh Sương.
