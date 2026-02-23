@@ -3,6 +3,7 @@
 ### I. NGUYÊN VĂN TIẾNG TRUNG (CHINESE LYRICS)
 **(Verse 1)**
 青丘之山有狐仙，
+
 九尾摇曳戏人间。
 回眸一笑百媚生，
 六宫粉黛无颜色。
