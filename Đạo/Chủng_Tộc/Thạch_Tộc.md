@@ -22,6 +22,13 @@ Vào thời Thượng Cổ linh khí dồi dào, Thạch Tộc thường thức 
 > *"Đừng đánh thức tảng đá đang ngủ, trừ khi ngươi chuẩn bị sẵn sàng để nghe câu chuyện của ngàn năm trước, hoặc hứng chịu cơn giận của cả một ngọn núi."*
 > — *Lời cảnh báo khắc trước cửa Thạch Lâm Cấm Địa*
 
+### Nghệ Thuật Điêu Khắc Bản Thân
+Thạch Tộc không có khái niệm về quần áo. Thay vào đó, họ dùng pháp thuật Kim-Thổ để tự điêu khắc cơ thể mình.
+Mỗi vết sẹo chiến tranh được họ mài giũa thành hoa văn tinh xảo. Những bậc trưởng lão cao tuổi thường khảm lên người những loại đá quý hiếm nhất (Hắc Kim, Kim Cương), biến cơ thể thành một tác phẩm nghệ thuật sống động và cũng là bộ giáp bất hoại. Nhìn vào hoa văn trên người một Thạch Tộc, ta có thể đọc được cả cuộc đời và đẳng cấp của họ.
+
+> *"Đau đớn là cái đục, thời gian là cái búa. Ta tự tạc nên chính mình, không phải để đẹp cho đời, mà để khẳng định sự tồn tại vĩnh cửu."*
+> — *Thạch Tượng Vương - Kẻ tự tạc trái tim mình bằng Hồng Ngọc*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các mỏ khoáng sản, hang động sâu, núi đá trọc.
 - **Thức Ăn:** Linh thạch, quặng sắt, tinh thể quý.

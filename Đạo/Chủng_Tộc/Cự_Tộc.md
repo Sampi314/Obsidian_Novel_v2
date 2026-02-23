@@ -22,6 +22,13 @@ Tuy nhiên, khi Kỷ Nguyên Khởi Nguyên dần trôi qua, linh khí loãng d�
 > *"Ngày xưa ông cha ta bước một bước qua sông, nay con cháu ta phải lội nước. Nhưng đừng buồn, vì đôi chân nhỏ bé này giờ đây có thể dẫm nát cả Thần Binh."*
 > — *Trưởng Lão Cự Tộc răn dạy con cháu bên đống lửa*
 
+### Ẩm Thực & Năng Lượng
+Để duy trì cơ thể khổng lồ, Cự Tộc cần một lượng năng lượng khủng khiếp. Vào thời kỳ đầu, họ săn bắt các loài thú khổng lồ (Cự Thú).
+Tuy nhiên, khi Cự Thú dần tuyệt chủng, Cự Tộc đã thay đổi cấu trúc dạ dày để tiêu hóa khoáng thạch. Món ăn khoái khẩu của họ giờ đây là "Canh Dung Nham" (magma nóng chảy trộn với quặng sắt) và "Bánh Thiên Thạch". Việc ăn uống này không chỉ no bụng mà còn giúp gia cố lớp da đá của họ thêm phần cứng cáp.
+
+> *"Một ngụm canh nóng làm ấm lòng người chiến sĩ, một tảng đá giòn tan làm chắc thêm nắm đấm."*
+> — *Bài ca mời rượu của Cự Tộc*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các vùng núi cao hiểm trở (Dãy Thiên Trụ), hoang mạc cằn cỗi (Tây Mạc).
 - **Lý Do:** Chỉ những nơi này mới đủ không gian và thức ăn cho họ.

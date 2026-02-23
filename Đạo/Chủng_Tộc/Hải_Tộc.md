@@ -22,6 +22,13 @@ Tuy nhiên, khi Nhân Tộc phát triển kỹ thuật đóng tàu và săn bắ
 > *"Những tòa tháp ngọc trai tỏa sáng trong đêm tối vĩnh hằng của vực sâu, vừa là thiên đường của cái đẹp, vừa là nấm mồ cho kẻ tham lam."*
 > — *Nhật ký thám hiểm Vô Tận Hải - Quyển 3*
 
+### Thuần Hóa Hải Thú
+Thời xa xưa, Hải Tộc thường xuyên bị các loài thủy quái khổng lồ (Hải Vương Loại) săn đuổi. Nhưng qua hàng vạn năm, họ đã học được cách sử dụng "Hải Loa" (tù và biển) để phát ra những sóng âm đặc biệt.
+Ngày nay, các kỵ sĩ Hải Tộc cưỡi trên lưng Cá Mập Búa hay rùa biển khổng lồ là hình ảnh quen thuộc. Họ biến kẻ thù tự nhiên thành những người bạn đồng hành trung thành nhất, tạo nên sức mạnh quân sự đáng gờm.
+
+> *"Khi tiếng tù và vang lên, biển cả cũng phải cúi đầu nghe lệnh."*
+> — *Khúc ca khải hoàn của kỵ binh Cá Ngựa*
+
 ## IV. NƠI SINH SỐNG
 - **Vùng Biển:** Vô Tận Hải, các hải đảo xa xôi.
 - **Kiến Trúc:** Xây dựng thành phố từ san hô và đá biển dưới đáy đại dương.

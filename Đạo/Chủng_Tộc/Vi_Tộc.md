@@ -22,6 +22,13 @@
 > *"Kẻ khổng lồ có thể dời non lấp bể, nhưng chỉ có kẻ tí hon mới nhìn thấy vết nứt trên đê."*
 > — *Ngạn ngữ Vi Tộc khắc trên hạt gạo*
 
+### Y Thuật Vi Mô (Micro-Medicine)
+Vi Tộc không có sức mạnh để đối đầu trực diện, nhưng họ là những lương y vĩ đại nhất. Nhờ kích thước nhỏ bé, họ có thể chui vào bên trong cơ thể người bệnh để loại bỏ khối u, nối lại kinh mạch đứt gãy hoặc trục xuất cổ trùng.
+Một cuộc phẫu thuật của Vi Tộc giống như một chiến dịch quân sự thu nhỏ, nơi các bác sĩ chiến đấu với vi khuẩn và bệnh tật ngay tại chiến trường tế bào. Đây là bí mật giúp họ duy trì vị thế trung lập và được các đại tông môn che chở.
+
+> *"Thế giới trong một giọt máu cũng bao la như biển cả, và chúng ta là những người lính gác của sự sống nơi đó."*
+> — *Thần Y Vi Tộc - Bạch Diệp*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Những khu rừng già nguyên sinh (Đông Hoang), vườn thảo dược của các đại tông môn.
 - **Môi Trường:** Cần nơi yên tĩnh, ít gió bão.
