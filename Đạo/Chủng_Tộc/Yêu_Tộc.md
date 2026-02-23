@@ -29,6 +29,15 @@ Tại đây, họ tổ chức đại lễ tế tổ, đánh thức dòng máu Th
 > *"Máu gọi máu, hồn gọi hồn. Dưới ánh trăng đỏ, chúng ta trở về với bản nguyên hoang dã nhất."*
 > — *Lời cầu nguyện của Đại Tế Tư Hồ Tộc*
 
+### Dòng Chảy Lịch Sử
+- **Thuở Hồng Hoang:** Muôn thú sinh sôi, kẻ mạnh nuốt kẻ yếu. Chưa có khái niệm "Yêu", chỉ có "Thú".
+- **Kỷ Nguyên Khởi Nguyên (Năm 100):** "Sự Khai Trí". Linh khí tràn về, một số loài thú hấp thu tinh hoa nhật nguyệt, mở ra linh trí, tự xưng là Yêu Tộc.
+- **Kỷ Nguyên Khởi Nguyên (Năm 2000-2500):** "Đại Chiến Nhân - Yêu". Yêu Tộc tấn công Nhân Tộc để tranh giành linh mạch nhưng thất bại. Các Đại Yêu Vương buộc phải ký "Huyết Thệ", rút về Đông Hoang.
+- **Hiện Tại:** Yêu Tộc đang chia rẽ thành hai phe: Phe "Hòa Bình" muốn giao thương và học hỏi Nhân Tộc, phe "Cực Đoan" muốn phục thù và khôi phục vinh quang thượng cổ.
+
+> *"Chúng ta không còn là cầm thú, nhưng cũng chưa bao giờ muốn làm con người. Chúng ta là Yêu - Kiêu hãnh và Hoang dã."*
+> — *Hồ Vương - Thanh Khâu Quốc*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Đông Hoang (Vạn Yêu Sơn Mạch), rừng rậm nguyên sinh.
 - **Đặc Thù:** Những nơi linh khí hỗn loạn, hoang dã.

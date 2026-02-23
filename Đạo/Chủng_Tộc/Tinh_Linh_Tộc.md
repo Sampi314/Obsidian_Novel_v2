@@ -29,3 +29,12 @@ Mỗi bộ tộc Tinh Linh đều gắn liền sinh mệnh với một cây Th�
 
 > *"Khi chiếc lá cuối cùng rơi xuống, chúng ta cũng sẽ tan vào gió. Nhưng chừng nào rễ cây còn bám đất, Tinh Linh sẽ không bao giờ cúi đầu."*
 > — *Nữ Hoàng Tinh Linh đệ nhất*
+
+### Dòng Chảy Lịch Sử
+- **Thuở Khai Thiên:** Cây Thế Giới (Yggdrasil phương Đông) mọc lên, Tinh Linh Tộc sinh ra từ những quả của nó.
+- **Kỷ Nguyên Khởi Nguyên (Sơ Kỳ):** "Kỷ Nguyên Xanh". Rừng rậm bao phủ 80% lục địa. Tinh Linh Tộc đi đến đâu, cây cối xanh tốt đến đó.
+- **Kỷ Nguyên Khởi Nguyên (Năm 1200):** "Đại Hỏa Hoạn". Chiến tranh giữa các chủng tộc khác khiến Cây Thế Giới bị tổn thương, rừng rậm bị thiêu rụi quá nửa.
+- **Hiện Tại:** Tinh Linh Tộc rút về Vĩnh Hằng Sâm Lâm, dựng kết giới cô lập với thế giới bên ngoài. Họ đang tìm kiếm "Hạt Giống Hy Vọng" để hồi sinh Cây Thế Giới.
+
+> *"Quá khứ xanh tươi, hiện tại tro tàn, tương lai là một hạt mầm chưa nảy."*
+> — *Lời tiên tri của Tinh Linh Tiên Tri*

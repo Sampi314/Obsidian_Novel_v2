@@ -29,6 +29,15 @@ Kết quả là những chiến binh Trùng Tộc đời mới (như Liệt Hỏ
 > *"Lửa không thiêu rụi được chúng, lửa chỉ tr tôi luyện chúng thành những thanh gươm sống."*
 > — *Nhật ký chiến trường Nam Cương*
 
+### Dòng Chảy Lịch Sử
+- **Thuở Hỗn Mang:** Trùng Tộc là những sinh vật đầu tiên bò lên mặt đất từ vực thẳm Vô Minh. Chúng không có trí tuệ, chỉ biết ăn và sinh sản.
+- **Kỷ Nguyên Khởi Nguyên (Năm 500):** "Sự Thức Tỉnh Của Trùng Mẫu". Con Trùng Mẫu đầu tiên đạt được linh trí, thống nhất các bầy đàn nhỏ lẻ thành "Đế Chế Trùng".
+- **Kỷ Nguyên Khởi Nguyên (Năm 2500):** "Trùng Hạo Kiếp". Trùng Tộc tràn ra khỏi Nam Cương, tấn công Trung Châu. Liên minh Nhân-Yêu phải hợp lực dùng "Thiên Hỏa Trận" đốt cháy mười vạn dặm rừng mới đẩy lùi được chúng.
+- **Hiện Tại:** Trùng Tộc đang trong giai đoạn hồi phục, âm thầm tích lũy lực lượng và tiến hóa gen để chuẩn bị cho cuộc xâm lăng tiếp theo.
+
+> *"Cái chết không phải là kết thúc, nó chỉ là nhiên liệu cho lứa kế tiếp."*
+> — *Thông điệp tâm linh của Trùng Mẫu*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Nam Cương (nơi rừng thiêng nước độc), các hang động sâu trong lòng đất, hoặc các bí cảnh bị bỏ hoang.
 - **Môi Trường:** Ưa thích nơi ẩm thấp, âm u, nhiều chướng khí.

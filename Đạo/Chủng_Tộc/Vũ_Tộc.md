@@ -29,6 +29,15 @@ Vũ Tộc không dùng lời nói để tỏ tình hay tuyên chiến, họ dùn
 > *"Gió là nhạc, cánh là đàn. Mỗi nhịp đập là một nốt nhạc của sự sống và cái chết."*
 > — *Thi sĩ Vũ Tộc - Thanh Phong*
 
+### Dòng Chảy Lịch Sử
+- **Thuở Khai Thiên:** Vũ Tộc được sinh ra từ những chiếc lông vũ của Phượng Hoàng Tiên Tổ rơi xuống trần gian (theo truyền thuyết).
+- **Kỷ Nguyên Khởi Nguyên (Sơ Kỳ):** "Cuộc Chiến Bầu Trời". Vũ Tộc và Long Tộc tranh giành quyền kiểm soát tầng mây. Vũ Tộc thất bại do thể chất yếu hơn, bị đẩy xuống sống ở các đỉnh núi cao.
+- **Kỷ Nguyên Khởi Nguyên (Năm 1600):** "Sự Kiện Gãy Cánh". Một thảm họa không rõ nguyên nhân khiến nhiều trẻ em Vũ Tộc sinh ra không có cánh hoặc cánh bị dị tật. Họ bắt đầu nghiên cứu "Khí Cụ Bay" để bù đắp.
+- **Hiện Tại:** Vũ Tộc là những người đưa thư, trinh sát và lính đánh thuê đắt giá nhất lục địa. Họ vẫn mơ về ngày quay lại làm chủ bầu trời tuyệt đối.
+
+> *"Đôi cánh có thể gãy, nhưng khát vọng bay lượn thì không bao giờ tắt."*
+> — *Lời thề của Chiến Binh Bầu Trời*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các đỉnh núi cao (Thiên Sơn), đảo bay lơ lửng (nếu có), rừng già tầng thượng.
 - **Khí Hậu:** Ưa thích nơi thoáng đãng, nhiều gió.

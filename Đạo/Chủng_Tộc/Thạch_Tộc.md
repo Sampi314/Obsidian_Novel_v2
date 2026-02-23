@@ -29,6 +29,15 @@ Mỗi vết sẹo chiến tranh được họ mài giũa thành hoa văn tinh x�
 > *"Đau đớn là cái đục, thời gian là cái búa. Ta tự tạc nên chính mình, không phải để đẹp cho đời, mà để khẳng định sự tồn tại vĩnh cửu."*
 > — *Thạch Tượng Vương - Kẻ tự tạc trái tim mình bằng Hồng Ngọc*
 
+### Dòng Chảy Lịch Sử
+- **Thuở Hỗn Mang:** Thạch Tộc chỉ là những tảng đá có sinh mệnh, ngủ vùi trong lòng đất.
+- **Kỷ Nguyên Khởi Nguyên (Năm 1500):** "Cơn Sốt Linh Thạch". Các tộc khác bắt đầu khai thác mỏ điên cuồng, vô tình đánh thức hàng ngàn Thạch Tộc đang ngủ say. Họ nổi dậy để bảo vệ "thân thể" của mình (chính là các ngọn núi).
+- **Kỷ Nguyên Khởi Nguyên (Năm 2200):** "Hiệp Ước Đá Vàng". Thạch Tộc đồng ý làm lính canh gác cho các mỏ khoáng sản của Nhân Tộc, đổi lại họ được ăn những loại quặng hiếm nhất mà con người tìm được.
+- **Hiện Tại:** Thạch Tộc sống hòa bình nhưng biệt lập. Một số cá thể mạnh mẽ được tôn sùng như Thần Núi.
+
+> *"Chúng ta không vội. Ngươi sống một trăm năm, ta chợp mắt một cái đã qua ngàn năm."*
+> — *Thạch Tộc Trưởng Lão*
+
 ## IV. NƠI SINH SỐNG
 - **Địa Bàn:** Các mỏ khoáng sản, hang động sâu, núi đá trọc.
 - **Thức Ăn:** Linh thạch, quặng sắt, tinh thể quý.
