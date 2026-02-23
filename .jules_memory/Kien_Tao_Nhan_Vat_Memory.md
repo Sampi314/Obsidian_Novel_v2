@@ -10,3 +10,8 @@
 - **Đặc Điểm:** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn, Mộc-Phong Linh Căn.
 - **Vai Trò:** Thợ săn, tự do tự tại, tìm kiếm cơ duyên Trúc Cơ.
 - **Ghi Chú:** Nhân vật mang màu sắc tươi sáng, đối lập với Diệp Tĩnh Sương. Có thể trở thành đồng đội hoặc bằng hữu. Chú ý khai thác sự phóng khoáng và kỹ năng sinh tồn.
+
+- **Tạo Mới:** Sở Lăng Sương (Băng Phách Kiếm).
+- **Đặc Điểm:** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ, Băng Linh Căn (Biến dị).
+- **Vai Trò:** Tán tu lạnh lùng, trọng nghĩa, có quá khứ bi thương.
+- **Ghi Chú:** Khác với Diệp Tĩnh Sương, Sở Lăng Sương mang vẻ đẹp băng giá hơn và ít nói hơn. Cần khai thác sự cô độc và đạo tâm kiên định.
