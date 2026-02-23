@@ -2,6 +2,7 @@
 
 ## THÔNG TIN CƠ BẢN
 - **Tên Nhân Vật:** Lâm Phong (林風).
+- **Chủng Tộc:** Nhân Tộc.
 - **Danh Hiệu/Đạo Hiệu:** Truy Phong Khách (追風客).
 - **Tuổi/Thọ Nguyên:** 18 / 100 (Luyện Khí).
 - **Cảnh Giới:** Luyện Khí Viên Mãn (Chuẩn bị Trúc Cơ).

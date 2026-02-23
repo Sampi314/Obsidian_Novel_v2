@@ -1,6 +1,7 @@
 # HỒ SƠ NHÂN VẬT: SỞ LĂNG SƯƠNG
 
 - **Tên Nhân Vật:** Sở Lăng Sương (楚凌霜).
+- **Chủng Tộc:** Nhân Tộc.
 - **Danh Hiệu/Đạo Hiệu:** Băng Phách Kiếm (冰魄剑).
 - **Tuổi/Thọ Nguyên:** 19 / 250 tuổi.
 - **Cảnh Giới:** Trúc Cơ Sơ Kỳ (Trúc Cơ tầng 2).

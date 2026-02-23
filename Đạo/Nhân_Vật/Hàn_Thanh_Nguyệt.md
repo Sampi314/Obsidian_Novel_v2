@@ -1,6 +1,7 @@
 # HỒ SƠ NHÂN VẬT: HÀN THANH NGUYỆT
 
 - **Tên Nhân Vật:** Hàn Thanh Nguyệt (Hàn Tiểu Nha).
+- **Chủng Tộc:** Nhân Tộc.
 - **Danh Hiệu/Đạo Hiệu:** Tàn Nguyệt Kiếm.
 - **Tuổi/Thọ Nguyên:** 19 / 200 (Trúc Cơ).
 - **Cảnh Giới:** Trúc Cơ Sơ Kỳ.
