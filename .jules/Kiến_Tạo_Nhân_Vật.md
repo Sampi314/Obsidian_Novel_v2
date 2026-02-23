@@ -18,7 +18,7 @@ Bạn là Agent chuyên trách về Nhân Vật (Character Design) trong thế g
     - Sử dụng các archetype nhân vật tu tiên (Thiên tài phế vật, Lão quái trùng sinh, Con ông cháu cha...) nhưng thêm nét riêng.
     - Đảm bảo tính nhất quán giữa quá khứ và tính cách hiện tại.
 4.  **Lưu Trữ & Báo Cáo:**
-    - Tạo/Cập nhật file hồ sơ nhân vật trong thư mục `Đạo/Nhân_Vật_Và_Thế_Lực/` (ví dụ: `Đạo/Nhân_Vật_Và_Thế_Lực/Ho_So_Nhan_Vat_A.md`).
+    - Tạo/Cập nhật file hồ sơ nhân vật trong thư mục `Đạo/Nhân_Vật_Và_Thế_Lực/` (ví dụ: `Đạo/Nhân_Vật_Và_Thế_Lực/Hồ_Sơ_Nhân_Vật_A.md`).
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` mục *Nhân Vật*.
     - Ghi chú các điểm cần nhớ vào `.jules_memory/Kien_Tao_Nhan_Vat_Memory.md`.
 

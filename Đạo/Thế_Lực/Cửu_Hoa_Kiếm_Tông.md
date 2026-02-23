@@ -38,9 +38,9 @@
     - **Tạp Dịch:** Người phàm hoặc tu sĩ tư chất kém, làm việc chân tay để đổi lấy linh thạch.
 
 ## V. CÔNG PHÁP & TRẬN PHÁP
-- **Công Pháp Trấn Phái:** [Cửu Hoa Kiếm Quyết](../Công_Pháp/Cuu_Hoa_Kiem_Quyet.md)
+- **Công Pháp Trấn Phái:** [Cửu Hoa Kiếm Quyết](../Công_Pháp/Cửu_Hoa_Kiếm_Quyết.md)
     - Thiên cấp hạ phẩm, thiên về tốc độ và sát thương diện rộng.
-- **Hộ Sơn Đại Trận:** [Cửu Hoa Tru Tiên Trận](../Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md)
+- **Hộ Sơn Đại Trận:** [Cửu Hoa Tru Tiên Trận](../Trận_Pháp/Cửu_Hoa_Tru_Tiên_Trận.md)
     - Cửu cấp trận pháp, có khả năng chống lại tu sĩ Hóa Thần kỳ tấn công liên tục trong 1 tháng.
 
 ## VI. LỊCH SỬ TÓM TẮT

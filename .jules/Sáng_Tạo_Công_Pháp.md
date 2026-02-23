@@ -18,7 +18,7 @@ Bạn là Agent chuyên trách về Công Pháp (Cultivation Techniques) và Chi
     - Kết hợp yếu tố Ngũ Hành, Bát Quái, Âm Dương hoặc các khái niệm độc lạ.
     - Đảm bảo tính cân bằng (mạnh quá mức cần có hạn chế lớn).
 4.  **Lưu Trữ & Báo Cáo:**
-    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Tu_Tiên_Và_Nghệ_Thuật/` (ví dụ: `Đạo/Tu_Tiên_Và_Nghệ_Thuật/Thanh_Lien_Kiem_Quyet.md`).
+    - Tạo/Cập nhật file chi tiết trong thư mục `Đạo/Tu_Tiên_Và_Nghệ_Thuật/` (ví dụ: `Đạo/Tu_Tiên_Và_Nghệ_Thuật/Thanh_Liên_Kiếm_Quyết.md`).
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` mục *Công Pháp & Bí Kíp*.
     - Ghi chú các điểm cần nhớ vào `.jules_memory/Sang_Tao_Cong_Phap_Memory.md`.
 

@@ -77,7 +77,9 @@ Nhiều yêu cầu cần phối hợp nhiều Agent. Ví dụ:
 - Ghi bộ nhớ vào `.jules_memory/`.
 
 ## QUY TẮC BẮT BUỘC
-1. **Ngôn ngữ:** Nội dung sáng tạo bằng Tiếng Việt. Thuật ngữ tu tiên giữ Hán Việt gốc.
+1. **Ngôn ngữ & Tên File:**
+   - Nội dung sáng tạo bằng Tiếng Việt. Thuật ngữ tu tiên giữ Hán Việt gốc.
+   - **Tên file phải đặt bằng Tiếng Việt có dấu**, thay thế khoảng trắng bằng dấu gạch dưới `_`. Ví dụ: `Hồ_Sơ_Nhân_Vật.md`, `Cửu_Hoa_Kiếm_Pháp.md`.
 2. **Nhất quán:** Mọi sáng tạo phải tham chiếu `HỒ_SƠ_THẾ_GIỚI.md` — không được mâu thuẫn.
 3. **Bộ nhớ:** Luôn đọc và ghi `.jules_memory/` để duy trì ngữ cảnh giữa các phiên.
 4. **Cổ điển:** Giọng văn Tiên Hiệp phải mang tính cổ điển, hùng tráng, huyền ảo.
