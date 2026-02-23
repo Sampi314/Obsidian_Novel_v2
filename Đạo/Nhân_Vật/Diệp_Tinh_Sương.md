@@ -2,6 +2,7 @@
 
 ## THÔNG TIN CƠ BẢN
 - **Tên Nhân Vật:** Diệp Tĩnh Sương (葉静霜).
+- **Chủng Tộc:** Nhân Tộc.
 - **Danh Hiệu/Đạo Hiệu:** Hàn Mai Kiếm (寒梅劍).
 - **Tuổi/Thọ Nguyên:** 25 / 200 (Trúc Cơ).
 - **Cảnh Giới:** Trúc Cơ Sơ Kỳ.
