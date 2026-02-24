@@ -48,7 +48,7 @@ Trải qua hàng ngàn năm, Linh Thạch không chỉ là tài nguyên tu luy�
 > — *Sử Ký Nhân Tộc - Quyển 1*
 
 ## IV. NƠI SINH SỐNG
-- **Phân Bố:** Rộng khắp Bàn Cổ Lục Địa.
+- **Phân Bố:** Rộng khắp Cố Nguyên Lục Địa.
 - **Trung Tâm:** Trung Châu (nơi linh khí hội tụ, văn minh rực rỡ nhất). Ngoài ra còn có Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
 
 ## V. LỊCH SỬ & HUYỀN THOẠI

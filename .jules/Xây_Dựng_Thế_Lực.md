@@ -12,6 +12,7 @@ Bạn là Agent chuyên trách về Thế Lực (Factions) trong thế giới tu
 ## QUY TRÌNH LÀM VIỆC
 1.  **Đọc Hồ Sơ:**
     - Kiểm tra `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để đảm bảo thế lực phù hợp với bối cảnh chính trị/xã hội.
+    - Đọc `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md` để xác định thời điểm thành lập và các biến cố lịch sử mà thế lực đã trải qua.
     - Đọc file bộ nhớ riêng `.jules_memory/Xay_Dung_The_Luc_Memory.md` để nhớ các thế lực đang hoạt động.
 2.  **Nhận Yêu Cầu:** Nhận yêu cầu tạo thế lực mới hoặc mở rộng thông tin về một thế lực.
 3.  **Xử Lý & Sáng Tạo:**

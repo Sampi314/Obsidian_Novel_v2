@@ -3,7 +3,7 @@
 ## THÔNG TIN CHUNG
 - **Tên Thế Giới:** Cố Nguyên Giới (固元界).
 - **Kỷ Nguyên:** Khởi Nguyên Kỷ (Khởi đầu của vạn vật).
-- **Cấu Trúc:** Đơn Lục Địa (Bàn Cổ Lục Địa).
+- **Cấu Trúc:** Đơn Lục Địa (Cố Nguyên Lục Địa).
 - **Quy Mô:** Rộng lớn vô biên, chưa ai đi hết được biên giới.
 - **Mức Độ Linh Khí:** Cực thịnh (Tiên Thiên Linh Khí dồi dào).
 
@@ -23,7 +23,7 @@
 - **Bắc Băng (北冰):** Băng tuyết vĩnh cửu bao phủ, lạnh thấu xương tủy. Nơi ngự trị của các loài Băng Thú và Hàn Băng Tinh Phách.
 
 ### 3. Bao Quanh: Vô Tận Hải (無盡海)
-- **Vị Trí:** Bao quanh Bàn Cổ Lục Địa.
+- **Vị Trí:** Bao quanh Cố Nguyên Lục Địa.
 - **Đặc Điểm:** Biển nước mênh mông, sóng cao vạn trượng. Nơi sinh sống của Hải Tộc và các loài thủy quái khổng lồ.
 - **Bí Ẩn:** Tận cùng của Vô Tận Hải là "Hỗn Độn Hư Không", ranh giới của thế giới.
 

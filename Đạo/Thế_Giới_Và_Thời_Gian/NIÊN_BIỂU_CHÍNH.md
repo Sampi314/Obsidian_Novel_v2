@@ -15,7 +15,7 @@
 
 ### Dòng Sự Kiện Chính
 - **[Thuở Ban Sơ]:** Hỗn Độn sơ khai, Thần Ma tranh đấu sinh tồn.
-- **[Giữa Kỷ Nguyên]:** Bàn Cổ Đại Thần xuất thế, dùng búa khai thiên lập địa, tách Hỗn Độn thành Thanh Khí (Trời) và Tr浊 Khí (Đất).
+- **[Giữa Kỷ Nguyên]:** Khai Thiên Cổ Thần xuất thế, dùng búa khai thiên lập địa, tách Hỗn Độn thành Thanh Khí (Trời) và Tr浊 Khí (Đất).
 - **[Cuối Kỷ Nguyên - Đại Kiếp Diệt Thế]:** Các Thần Ma còn lại giao chiến dữ dội để tranh đoạt quyền kiểm soát thế giới mới. Cuộc chiến khiến hầu hết Thần Ma ngã xuống, máu thịt và linh hồn họ hòa vào trời đất, tạo nên linh mạch và vạn vật.
 - **[Kết Thúc]:** Linh khí hỗn độn dần lắng xuống, chuyển hóa thành Thiên Địa Linh Khí ôn hòa hơn. Kỷ nguyên Hồng Hoang kết thúc, nhường chỗ cho sự sống nảy mầm.
 
@@ -26,7 +26,7 @@
 **Bối cảnh:**
 - **Linh Khí:** Cực thịnh, tinh thuần, thích hợp cho tu luyện.
 - **Thiên Đạo:** Đã hoàn thiện, xuất hiện Thiên Kiếp để thử thách tu sĩ.
-- **Địa Lý:** Bàn Cổ Lục Địa rộng lớn, bao quanh là Vô Tận Hải.
+- **Địa Lý:** Cố Nguyên Lục Địa rộng lớn, bao quanh là Vô Tận Hải.
 **Thế lực thống trị:**
 - **Thập Đại Chủng Tộc:** Nhân, Long, Trùng, Hải, Cự, Vi, Yêu, Vũ, Thạch, Tinh Linh.
 
