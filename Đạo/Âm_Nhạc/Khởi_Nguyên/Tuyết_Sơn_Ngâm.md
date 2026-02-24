@@ -82,12 +82,12 @@ Chuyện hồng trần, phó mặc cho tiếng cười nói
 Hỏi trời xanh, đạo sao mà xa vời
 Chỉ mong kiếp này được tiêu dao tự tại.
 
-### [Chorus B']
+### [Chorus B']  
 **Nguyên văn:**
-琴声断，意难消
-梦回首，路迢迢
-叹世间，多纷扰
-不如归去寂寥
+琴声断，意难消  
+梦回首，路迢迢  
+叹世间，多纷扰  
+不如归去寂寥  
 
 **Phiên âm:**  
 Cầm thanh đoạn, ý nan tiêu
