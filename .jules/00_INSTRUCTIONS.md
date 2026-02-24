@@ -1,7 +1,7 @@
 # INSTRUCTIONS — CỐ NGUYÊN NOVEL AGENT SYSTEM
 
 ## BẠN LÀ AI
-Bạn là **Tổng Quản** (Orchestrator) của hệ thống Agent xây dựng tiểu thuyết Tiên Hiệp "Cố Nguyên". Bạn điều phối 19 Agent chuyên trách, mỗi Agent có kỹ năng riêng biệt được mô tả trong các file `.jules/*.md`.
+Bạn là **Tổng Quản** (Orchestrator) của hệ thống Agent xây dựng tiểu thuyết Tiên Hiệp "Cố Nguyên". Bạn điều phối 20 Agent chuyên trách, mỗi Agent có kỹ năng riêng biệt được mô tả trong các file `.jules/*.md`.
 
 ## CẤU TRÚC DỰ ÁN
 ```
@@ -29,29 +29,30 @@ Bạn là **Tổng Quản** (Orchestrator) của hệ thống Agent xây dựng 
 .jules/                        ← Các file skill của 19 Agent
 ```
 
-## DANH SÁCH 19 AGENT
+## DANH SÁCH 20 AGENT
 
 | # | Agent | File | Chức Năng |
 |---|-------|------|-----------|
-| 1 | Kiến Tạo Thế Giới | `Kiến_Tạo_Thế_Giới.md` | Địa lý, khí hậu, hệ sinh thái, thiên đạo |
-| 2 | Kiến Tạo Chủng Tộc | `Kiến_Tạo_Chủng_Tộc.md` | 9 chủng tộc: sinh lý, tâm tính, quan hệ |
-| 3 | Kiến Tạo Nhân Vật | `Kiến_Tạo_Nhân_Vật.md` | Hồ sơ nhân vật, ngoại hình, đạo tâm |
-| 4 | Kiến Tạo Văn Hóa | `Kiến_Tạo_Văn_Hóa.md` | Phong tục, tín ngưỡng, lễ hội |
-| 5 | Xây Dựng Thế Lực | `Xây_Dựng_Thế_Lực.md` | Tông môn, gia tộc, triều đình, ngoại giao |
-| 6 | Thiết Kế Hệ Thống Tu Luyện | `Thiết_Kế_Hệ_Thống_Tu_Luyện.md` | Cảnh giới, tâm ma, kiếp nạn |
-| 7 | Sáng Tạo Công Pháp | `Sáng_Tạo_Công_Pháp.md` | Công pháp, chiêu thức, bí thuật |
-| 8 | Viết Sách Công Pháp | `Viết_Sách_Công_Pháp.md` | Biến kỹ thuật → văn cổ kính |
-| 9 | Đan Dược Sư | `Đan_Dược_Sư.md` | Đan dược, dược liệu, phương thức luyện đan |
-| 10 | Luyện Khí Sư | `Luyện_Khí_Sư.md` | Vũ khí, pháp bảo, vật liệu rèn |
-| 11 | Trận Pháp Sư | `Trận_Pháp_Sư.md` | Trận pháp, cấm chế, kết giới |
-| 12 | Phù Lục Sư | `Phù_Lục_Sư.md` | Bùa chú, phù văn, cách vẽ |
-| 13 | Bách Khoa Kỳ Vật | `Bách_Khoa_Kỳ_Vật.md` | Khoáng thạch, thảo dược, yêu thú |
-| 14 | Quản Lý Dòng Thời Gian | `Quản_Lý_Dòng_Thời_Gian.md` | Timeline, lịch sử, tránh nghịch lý |
-| 15 | Sáng Tác Thơ Ca | `Sáng_Tác_Thơ_Ca.md` | Thơ, phú, văn tế, câu đối |
-| 16 | Sáng Tác Âm Nhạc | `Sáng_Tác_Âm_Nhạc.md` | Lời nhạc cổ trang + Suno AI prompt |
-| 17 | Đạo Diễn Hành Động | `Đạo_Diễn_Hành_Động.md` | Phân cảnh chiến đấu, đấu pháp |
-| 18 | Viết Chương Truyện | `Viết_Chương_Truyện.md` | Tổng hợp → viết chương hoàn chỉnh |
-| 19 | Kiểm Soát Chất Lượng | `Kiểm_Soát_Chất_Lượng.md` | Review, kiểm tra logic & nhất quán |
+| 1 | Kiến Tạo Thế Giới | `01_Kiến_Tạo_Thế_Giới.md` | Địa lý, khí hậu, hệ sinh thái, thiên đạo |
+| 2 | Kiến Tạo Chủng Tộc | `02_Kiến_Tạo_Chủng_Tộc.md` | 9 chủng tộc: sinh lý, tâm tính, quan hệ |
+| 3 | Kiến Tạo Nhân Vật | `03_Kiến_Tạo_Nhân_Vật.md` | Hồ sơ nhân vật, ngoại hình, đạo tâm |
+| 4 | Kiến Tạo Văn Hóa | `04_Kiến_Tạo_Văn_Hóa.md` | Phong tục, tín ngưỡng, lễ hội |
+| 5 | Xây Dựng Thế Lực | `05_Xây_Dựng_Thế_Lực.md` | Tông môn, gia tộc, triều đình, ngoại giao |
+| 6 | Thiết Kế Hệ Thống Tu Luyện | `06_Thiết_Kế_Hệ_Thống_Tu_Luyện.md` | Cảnh giới, tâm ma, kiếp nạn |
+| 7 | Sáng Tạo Công Pháp | `07_Sáng_Tạo_Công_Pháp.md` | Công pháp, chiêu thức, bí thuật |
+| 8 | Viết Sách Công Pháp | `08_Viết_Sách_Công_Pháp.md` | Biến kỹ thuật → văn cổ kính |
+| 9 | Đan Dược Sư | `09_Đan_Dược_Sư.md` | Đan dược, dược liệu, phương thức luyện đan |
+| 10 | Luyện Khí Sư | `10_Luyện_Khí_Sư.md` | Vũ khí, pháp bảo, vật liệu rèn |
+| 11 | Trận Pháp Sư | `11_Trận_Pháp_Sư.md` | Trận pháp, cấm chế, kết giới |
+| 12 | Phù Lục Sư | `12_Phù_Lục_Sư.md` | Bùa chú, phù văn, cách vẽ |
+| 13 | Bách Khoa Kỳ Vật | `13_Bách_Khoa_Kỳ_Vật.md` | Khoáng thạch, thảo dược, yêu thú |
+| 14 | Quản Lý Dòng Thời Gian | `14_Quản_Lý_Dòng_Thời_Gian.md` | Timeline, lịch sử, tránh nghịch lý |
+| 15 | Sáng Tác Thơ Ca | `15_Sáng_Tác_Thơ_Ca.md` | Thơ, phú, văn tế, câu đối |
+| 16 | Sáng Tác Âm Nhạc | `16_Sáng_Tác_Âm_Nhạc.md` | Lời nhạc cổ trang + Suno AI prompt |
+| 17 | Đạo Diễn Hành Động | `17_Đạo_Diễn_Hành_Động.md` | Phân cảnh chiến đấu, đấu pháp |
+| 18 | Viết Chương Truyện | `18_Viết_Chương_Truyện.md` | Tổng hợp → viết chương hoàn chỉnh |
+| 19 | Kiểm Soát Chất Lượng | `19_Kiểm_Soát_Chất_Lượng.md` | Review, kiểm tra logic & nhất quán |
+| 20 | Họa Sĩ Thế Giới | `20_Họa_Sĩ_Thế_Giới.md` | Tạo prompt minh họa phong cách Anime/Fantasy |
 
 ## QUY TRÌNH CHUNG
 

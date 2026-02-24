@@ -14,26 +14,26 @@ MARKER_TECH_START = "<!-- TECHNIQUE_LIST_START -->"
 MARKER_TECH_END = "<!-- TECHNIQUE_LIST_END -->"
 
 CATEGORY_MAP = {
-    "Kiến_Tạo_Thế_Giới.md": "Thế Giới",
-    "Quản_Lý_Dòng_Thời_Gian.md": "Thế Giới",
-    "Kiến_Tạo_Văn_Hóa.md": "Thế Giới",
-    "Kiến_Tạo_Chủng_Tộc.md": "Nhân Sự",
-    "Kiến_Tạo_Nhân_Vật.md": "Nhân Sự",
-    "Xây_Dựng_Thế_Lực.md": "Nhân Sự",
-    "Thiết_Kế_Hệ_Thống_Tu_Luyện.md": "Tu Luyện",
-    "Sáng_Tạo_Công_Pháp.md": "Tu Luyện",
-    "Viết_Sách_Công_Pháp.md": "Tu Luyện",
-    "Đan_Dược_Sư.md": "Nghề Phụ",
-    "Luyện_Khí_Sư.md": "Nghề Phụ",
-    "Trận_Pháp_Sư.md": "Nghề Phụ",
-    "Phù_Lục_Sư.md": "Nghề Phụ",
-    "Bách_Khoa_Kỳ_Vật.md": "Tài Nguyên",
-    "Sáng_Tác_Thơ_Ca.md": "Nghệ Thuật",
-    "Sáng_Tác_Âm_Nhạc.md": "Nghệ Thuật",
-    "Họa_Sĩ_Thế_Giới.md": "Nghệ Thuật",
-    "Đạo_Diễn_Hành_Động.md": "Cốt Truyện",
-    "Viết_Chương_Truyện.md": "Cốt Truyện",
-    "Kiểm_Soát_Chất_Lượng.md": "QA",
+    "01_Kiến_Tạo_Thế_Giới.md": "Thế Giới",
+    "14_Quản_Lý_Dòng_Thời_Gian.md": "Thế Giới",
+    "04_Kiến_Tạo_Văn_Hóa.md": "Thế Giới",
+    "02_Kiến_Tạo_Chủng_Tộc.md": "Nhân Sự",
+    "03_Kiến_Tạo_Nhân_Vật.md": "Nhân Sự",
+    "05_Xây_Dựng_Thế_Lực.md": "Nhân Sự",
+    "06_Thiết_Kế_Hệ_Thống_Tu_Luyện.md": "Tu Luyện",
+    "07_Sáng_Tạo_Công_Pháp.md": "Tu Luyện",
+    "08_Viết_Sách_Công_Pháp.md": "Tu Luyện",
+    "09_Đan_Dược_Sư.md": "Nghề Phụ",
+    "10_Luyện_Khí_Sư.md": "Nghề Phụ",
+    "11_Trận_Pháp_Sư.md": "Nghề Phụ",
+    "12_Phù_Lục_Sư.md": "Nghề Phụ",
+    "13_Bách_Khoa_Kỳ_Vật.md": "Tài Nguyên",
+    "15_Sáng_Tác_Thơ_Ca.md": "Nghệ Thuật",
+    "16_Sáng_Tác_Âm_Nhạc.md": "Nghệ Thuật",
+    "20_Họa_Sĩ_Thế_Giới.md": "Nghệ Thuật",
+    "17_Đạo_Diễn_Hành_Động.md": "Cốt Truyện",
+    "18_Viết_Chương_Truyện.md": "Cốt Truyện",
+    "19_Kiểm_Soát_Chất_Lượng.md": "QA",
 }
 
 CATEGORY_ORDER = [
@@ -123,7 +123,8 @@ def generate_agent_table():
     agents = []
     if os.path.exists(JULES_DIR):
         for filename in os.listdir(JULES_DIR):
-            if filename.endswith(".md") and filename != "INSTRUCTIONS.md":
+            # Check for the renamed instructions file (or old one if it existed)
+            if filename.endswith(".md") and filename not in ["INSTRUCTIONS.md", "00_INSTRUCTIONS.md"]:
                 filepath = os.path.join(JULES_DIR, filename)
                 agents.append(extract_agent_info(filepath))
 
