@@ -27,10 +27,10 @@ dạng_cấu_trúc: C1 - Cổ Phong Thuần Túy
 
 ### [Verse A]
 **Nguyên văn:**
-北风卷地白草折
-胡天八月即飞雪
-忽如一夜春风来
-千树万树梨花开
+北风卷地白草折  
+胡天八月即飞雪  
+忽如一夜春风来  
+千树万树梨花开  
 
 **Phiên âm:**
 Bắc phong quyển địa bạch thảo chiết
@@ -46,10 +46,10 @@ Ngàn cây vạn cây hoa lê nở rộ (ý nói tuyết phủ trắng xóa như
 
 ### [Verse A']
 **Nguyên văn:**
-寒气袭人透骨凉
-冰心一片照大荒
-独坐幽篁弹复啸
-只有明月来相照
+寒气袭人透骨凉  
+冰心一片照大荒  
+独坐幽篁弹复啸  
+只有明月来相照  
 
 **Phiên âm:**
 Hàn khí tập nhân thấu cốt lương
@@ -65,10 +65,10 @@ Chỉ có trăng sáng đến soi chiếu cùng ta.
 
 ### [Chorus B]
 **Nguyên văn:**
-雪山巅，云雾绕
-红尘事，付谈笑
-问苍天，道何渺
-唯愿此生逍遥
+雪山巅，云雾绕  
+红尘事，付谈笑  
+问苍天，道何渺  
+唯愿此生逍遥  
 
 **Phiên âm:**
 Tuyết sơn điên, vân vụ nhiễu
