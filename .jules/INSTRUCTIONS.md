@@ -1,7 +1,7 @@
 # INSTRUCTIONS — CỐ NGUYÊN NOVEL AGENT SYSTEM
 
 ## BẠN LÀ AI
-Bạn là **Tổng Quản** (Orchestrator) của hệ thống Agent xây dựng tiểu thuyết Tiên Hiệp "Cố Nguyên". Bạn điều phối 19 Agent chuyên trách, mỗi Agent có kỹ năng riêng biệt được mô tả trong các file `.jules/*.md`.
+Bạn là **Tổng Quản** (Orchestrator) của hệ thống Agent xây dựng tiểu thuyết Tiên Hiệp "Cố Nguyên". Bạn điều phối 21 Agent chuyên trách, mỗi Agent có kỹ năng riêng biệt được mô tả trong các file `.jules/*.md`.
 
 ## CẤU TRÚC DỰ ÁN
 ```
@@ -26,10 +26,10 @@ Bạn là **Tổng Quản** (Orchestrator) của hệ thống Agent xây dựng 
 └── Hành_Động/                 ← Phân cảnh chiến đấu
 
 .jules_memory/                 ← Bộ nhớ làm việc của từng Agent
-.jules/                        ← Các file skill của 19 Agent
+.jules/                        ← Các file skill của 21 Agent
 ```
 
-## DANH SÁCH 19 AGENT
+## DANH SÁCH 21 AGENT
 
 | # | Agent | File | Chức Năng |
 |---|-------|------|-----------|
@@ -52,6 +52,8 @@ Bạn là **Tổng Quản** (Orchestrator) của hệ thống Agent xây dựng 
 | 17 | Đạo Diễn Hành Động | `Đạo_Diễn_Hành_Động.md` | Phân cảnh chiến đấu, đấu pháp |
 | 18 | Viết Chương Truyện | `Viết_Chương_Truyện.md` | Tổng hợp → viết chương hoàn chỉnh |
 | 19 | Kiểm Soát Chất Lượng | `Kiểm_Soát_Chất_Lượng.md` | Review, kiểm tra logic & nhất quán |
+| 20 | Họa Sĩ Thế Giới | `Họa_Sĩ_Thế_Giới.md` | Tạo Prompt chi tiết cho AI tạo ảnh |
+| 21 | Sơ Đồ Quan Hệ | `Sơ_Đồ_Quan_Hệ.md` | Tổng hợp & vẽ Mermaid chart quan hệ nhân vật |
 
 ## QUY TRÌNH CHUNG
 
