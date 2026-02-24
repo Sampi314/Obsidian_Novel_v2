@@ -11,7 +11,7 @@
     - Trung Tâm: Thiên Trụ Sơn.
     - Tứ Phương: Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
     - **Bắc Băng (Northern Ice Region):** Vùng đất băng giá vĩnh cửu, nơi ngự trị của Huyền Băng Cung và Băng Tộc. Nổi tiếng với Cực Quang và Băng Linh Khí.
-- **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Ban_Do_So_Bo_Co_Nguyen.md`.
+- **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`.
 - **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
 
 ## III. HỆ THỐNG TU LUYỆN
@@ -33,6 +33,7 @@
     10. Tinh Linh Tộc (Hòa mình thiên nhiên, thanh cao).
 - **Các Tiểu Tộc & Biến Thể:**
     - *Băng Tộc (Ice Kin):* Nhánh Nhân Tộc thích nghi với giá lạnh phương Bắc. Xem tại `Đạo/Chủng_Tộc/Tiểu_Tộc/Băng_Tộc.md`.
+- **Quan Hệ Ngoại Giao:** Xem tại `Đạo/Chủng_Tộc/Quan_Hệ_Chủng_Tộc.md`.
 - **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chung_Toc_Chinh.md`.
 
 ## V. NHÂN VẬT TIÊU BIỂU
@@ -145,4 +146,5 @@
 - Khởi tạo Niên Biểu Chính và chuẩn hóa Kỷ Nguyên Hồng Hoang - Khởi Nguyên.
 - Tái cấu trúc và bồi đắp Băng Tộc (Tiểu Tộc), bổ sung giai thoại và timeline.
 - Sáng tác ca khúc "Đan Hỏa Trường Ca" (Cổ Phong Tự Sự).
+- Tạo hồ sơ quan hệ ngoại giao giữa 10 Đại Chủng Tộc (Quan_Hệ_Chủng_Tộc.md).
 

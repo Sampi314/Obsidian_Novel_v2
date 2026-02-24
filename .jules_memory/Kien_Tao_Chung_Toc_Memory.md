@@ -12,6 +12,7 @@
   8. Vũ Tộc
   9. Thạch Tộc
 - **Cập nhật:** Đã cập nhật `Đạo/Chủng_Tộc/Chung_Toc_Chinh.md` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+- **Cập nhật:** 2024-05-25: Tạo file `Đạo/Chủng_Tộc/Quan_Hệ_Chủng_Tộc.md` mô tả ma trận quan hệ ngoại giao giữa 10 Đại Chủng Tộc.
 
 ## GHI CHÚ
 - Các chủng tộc cũ (Ma, Linh, Vu, Minh, Thiên, Tu La) đã được thay thế hoặc tạm thời không được liệt kê trong danh sách chính của kỷ nguyên này để phù hợp với yêu cầu mới.
