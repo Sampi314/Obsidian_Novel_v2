@@ -36,4 +36,5 @@
 - **[Năm 20.000 - Thời Đại Huyết Lửa]:** Xung đột lãnh thổ giữa Yêu Tộc và Cự Tộc lan rộng, cuốn các tộc khác vào cuộc chiến dai dẳng.
 - **[Năm 50.000]:** Thiết lập "Minh Ước Vạn Tộc", chia lại lãnh thổ (Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng).
 - **[Năm 80.000]:** Sự trỗi dậy của các Tông môn tu tiên. Cửu Hoa Kiếm Tông và Đan Hà Cốc được thành lập.
+- **[Năm 90.000]:** Huyền Băng Cung được thành lập tại Bắc Băng bởi Lý Tuyết Ưng, đánh dấu sự trỗi dậy của tu chân giới tại vùng cực hàn.
 - **[Hiện Tại]:** Thế giới đang trong giai đoạn phát triển rực rỡ nhưng ngầm chứa sóng gió.
