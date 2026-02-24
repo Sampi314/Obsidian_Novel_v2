@@ -30,6 +30,7 @@ CATEGORY_MAP = {
     "Bách_Khoa_Kỳ_Vật.md": "Tài Nguyên",
     "Sáng_Tác_Thơ_Ca.md": "Nghệ Thuật",
     "Sáng_Tác_Âm_Nhạc.md": "Nghệ Thuật",
+    "Họa_Sĩ_Thế_Giới.md": "Nghệ Thuật",
     "Đạo_Diễn_Hành_Động.md": "Cốt Truyện",
     "Viết_Chương_Truyện.md": "Cốt Truyện",
     "Kiểm_Soát_Chất_Lượng.md": "QA",
