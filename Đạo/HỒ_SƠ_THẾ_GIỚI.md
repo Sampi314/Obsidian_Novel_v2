@@ -10,6 +10,7 @@
 - **Địa Danh Chính:**
     - Trung Tâm: Thiên Trụ Sơn.
     - Tứ Phương: Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
+    - **Bắc Băng (Northern Ice Region):** Vùng đất băng giá vĩnh cửu, nơi ngự trị của Huyền Băng Cung và Băng Tộc. Nổi tiếng với Cực Quang và Băng Linh Khí.
 - **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Ban_Do_So_Bo_Co_Nguyen.md`.
 - **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
 
@@ -30,6 +31,8 @@
     8. Vũ Tộc (Chinh phục bầu trời).
     9. Thạch Tộc (Kiên định, bất hoại).
     10. Tinh Linh Tộc (Hòa mình thiên nhiên, thanh cao).
+- **Các Tiểu Tộc & Biến Thể:**
+    - *Băng Tộc (Ice Kin):* Nhánh Nhân Tộc thích nghi với giá lạnh phương Bắc. Xem tại `Đạo/Chủng_Tộc/Băng_Tộc.md`.
 - **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chung_Toc_Chinh.md`.
 
 ## V. NHÂN VẬT TIÊU BIỂU
@@ -43,6 +46,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hàn_Thanh_Nguyệt.md`.
 - **Triệu Thanh Hằng (Hàn Sương Khách):** Nữ kiếm tu Nhân tộc, Trúc Cơ Trung Kỳ. Xuất thân bần hàn, tính cách lạnh lùng nhưng ân oán phân minh. Sở hữu *Lãnh Phong Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Triệu_Thanh_Hằng.md`.
+- **Lý Tuyết Ưng (Hàn Băng Tiên Tử):** Cung Chủ Huyền Băng Cung, Nguyên Anh Hậu Kỳ. Người lai Băng Tộc, tính cách lạnh lùng, bảo vệ tộc nhân. Sở hữu *Băng Tâm Quyết*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lý_Tuyết_Ưng.md`.
 
 ## VI. CÁC THẾ LỰC
 - **Cửu Hoa Kiếm Tông (Đông Hoang):**
@@ -51,8 +56,17 @@
 - **Đan Hà Cốc (Nam Cương):**
     - Tông môn đan đạo hạng Nhất, nằm trong miệng núi lửa, nổi tiếng với thuật luyện đan và hỏa công.
     - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Đan_Hà_Cốc.md`.
+- **Huyền Băng Cung (Bắc Băng):**
+    - Tông môn ẩn thế tại vùng cực hàn, chuyên tu luyện Băng công và Âm luật.
+    - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Huyền_Băng_Cung.md`.
 
 ## VII. CÔNG PHÁP & BÍ KÍP
+- **Băng Tâm Quyết (Thiên Cấp Hạ Phẩm):**
+    - Công pháp trấn phái của Huyền Băng Cung, rèn luyện tâm tính như băng giá để kháng Tâm Ma.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Băng_Tâm_Quyết.md`.
+- **Thiên Âm Băng Phách (Thiên Cấp Hạ Phẩm):**
+    - Bí kỹ dùng tiếng đàn điều khiển hàn khí, giết người vô hình.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Thiên_Âm_Băng_Phách.md`.
 - **Cửu Chuyển Đan Hỏa Quyết (Thiên Cấp Hạ Phẩm):**
     - Công pháp trấn phái của Đan Hà Cốc, tu luyện ra ngọn lửa đặc biệt dùng để luyện đan và chiến đấu.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Cửu_Chuyển_Đan_Hỏa_Quyết.md`.
@@ -73,18 +87,24 @@
 - **Trận Pháp:**
     - *Cửu Hoa Tru Tiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện. Xem tại `Đạo/Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md`.
     - *Vạn Hỏa Phần Thiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
+    - *Cửu Thiên Hàn Băng Trận (Cửu Cấp):* Trận pháp hộ sơn của Huyền Băng Cung, tạo ra bão tuyết và ảo ảnh băng giá. Xem tại `Đạo/Trận_Pháp/Cửu_Thiên_Hàn_Băng_Trận.md`.
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Dan_Pha_Chuong_Dan.md`.
+    - *Băng Tâm Đan (Huyền Cấp Hạ Phẩm):* Giúp tĩnh tâm, giải trừ hỏa độc, tăng khả năng tu luyện hệ Băng. Xem tại `Đạo/Đan_Dược/Băng_Tâm_Đan.md`.
 - **Pháp Bảo:**
     - *Hàn Ngọc Kiếm (Huyền Cấp Thượng Phẩm):* Kiếm hàn băng của Sở Lăng Sương. Xem tại `Đạo/Luyện_Khí/Hàn_Ngọc_Kiếm.md`.
+    - *Băng Huyền Cầm (Thiên Cấp Hạ Phẩm):* Đàn cổ làm từ băng ngàn năm, vũ khí của Lý Tuyết Ưng. Xem tại `Đạo/Luyện_Khí/Băng_Huyền_Cầm.md`.
+    - *Băng Phong Phù (Cấp 3):* Phù lục phong ấn mục tiêu trong băng. Xem tại `Đạo/Phù_Lục/Băng_Phong_Phù.md`.
 - **Kỳ Vật:**
     - *Hỏa Linh Thảo:* Thảo dược hệ Hỏa, mọc ở nơi hỏa khí nồng đậm. Xem tại `Đạo/Kỳ_Vật/Hoa_Linh_Thao.md`.
     - *Hàn Ngọc:* Khoáng thạch hệ Băng, dùng luyện khí và tu luyện. Xem tại `Đạo/Kỳ_Vật/Hàn_Ngọc.md`.
+    - *Tuyết Liên Hoa:* Linh dược quý hiếm vùng Bắc Băng, 100 năm mới nở, có tác dụng cải lão hoàn đồng. Xem tại `Đạo/Kỳ_Vật/Tuyết_Liên_Hoa.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
     - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
     - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
+    - [Băng Cung Dạ Khúc](Thơ_Ca/Băng_Cung_Dạ_Khúc.md): Bài thơ về nỗi cô đơn của người tu đạo trên đỉnh Tuyết Sơn.
 - **Âm Nhạc:**
     - **[DANH SÁCH TÁC PHẨM (MỚI)](Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md):** Thư viện tổng hợp 100+ tác phẩm âm nhạc (bao gồm 90 bài hát mới).
     - [Hỗn Độn Ca](Âm_Nhạc/Hồng_Hoang/Hỗn_Độn_Ca.md): Khúc ca cổ về thuở khai thiên lập địa.
@@ -94,6 +114,7 @@
     - [Đan Hỏa Trường Ca](Âm_Nhạc/Đan_Hỏa_Trường_Ca.md): Ca khúc hùng tráng về Đan đạo và Đan Hà Cốc.
     - [Tiêu Dao Du](Âm_Nhạc/Tiêu_Dao_Du.md): Ca khúc vui tươi, phóng khoáng của tán tu.
     - [Ma Tâm](Âm_Nhạc/Ma_Tâm.md): Khúc ca đen tối về sự sa ngã vào Ma đạo.
+    - [Tuyết Sơn Ngâm](Âm_Nhạc/Khởi_Nguyên/Tuyết_Sơn_Ngâm.md): Khúc ca cổ phong về sự cô độc và đạo tâm kiên định giữa bão tuyết.
 
 ## X. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Bản đồ sơ bộ.
