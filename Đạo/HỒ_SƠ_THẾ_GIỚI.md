@@ -60,6 +60,9 @@
 - **Huyền Băng Cung (Bắc Băng):**
     - Tông môn ẩn thế tại vùng cực hàn, chuyên tu luyện Băng công và Âm luật.
     - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Huyền_Băng_Cung.md`.
+- **Vạn Độc Môn (Nam Cương):**
+    - Tông môn tà đạo hạng Nhất, chuyên dùng độc và Cổ Trùng, kẻ thù truyền kiếp của Đan Hà Cốc.
+    - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Vạn_Độc_Môn.md`.
 
 ## VII. CÔNG PHÁP & BÍ KÍP
 - **Băng Tâm Quyết (Thiên Cấp Hạ Phẩm):**
@@ -83,12 +86,16 @@
 - **Lãnh Phong Kiếm Quyết (Huyền Cấp Thượng Phẩm):**
     - Công pháp Phong-Băng, thiên về tốc độ và sự sắc bén lạnh lẽo, có thể gây hiệu ứng Hàn Độc.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Lãnh_Phong_Kiếm_Quyết.md`.
+- **Vạn Độc Chân Kinh (Thiên Cấp Hạ Phẩm):**
+    - Công pháp trấn phái của Vạn Độc Môn, hấp thụ vạn loại độc dược để luyện thành độc thể.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Vạn_Độc_Chân_Kinh.md`.
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Trận Pháp:**
     - *Cửu Hoa Tru Tiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện. Xem tại `Đạo/Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md`.
     - *Vạn Hỏa Phần Thiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
     - *Cửu Thiên Hàn Băng Trận (Cửu Cấp):* Trận pháp hộ sơn của Huyền Băng Cung, tạo ra bão tuyết và ảo ảnh băng giá. Xem tại `Đạo/Trận_Pháp/Cửu_Thiên_Hàn_Băng_Trận.md`.
+    - *Vạn Độc Phệ Tâm Trận (Cửu Cấp):* Trận pháp hộ sơn của Vạn Độc Môn, dùng độc vụ và ảo giác giết chết kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Độc_Phệ_Tâm_Trận.md`.
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Dan_Pha_Chuong_Dan.md`.
     - *Băng Tâm Đan (Huyền Cấp Hạ Phẩm):* Giúp tĩnh tâm, giải trừ hỏa độc, tăng khả năng tu luyện hệ Băng. Xem tại `Đạo/Đan_Dược/Băng_Tâm_Đan.md`.

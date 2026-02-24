@@ -44,6 +44,6 @@
     - Cửu cấp trận pháp. Kích hoạt toàn bộ địa hỏa dưới lòng đất, biến cả vùng thung lũng thành biển lửa thiêu rụi mọi kẻ xâm nhập.
 
 ## VI. LỊCH SỬ TÓM TẮT
-- **Sáng Lập:** 5000 năm trước bởi **Đan Hà Lão Tổ**, một kỳ tài đan đạo đã tìm ra mạch địa hỏa này và lập tông.
+- **Sáng Lập:** Năm 80.000 (Kỷ Nguyên Khởi Nguyên) bởi **Đan Hà Lão Tổ**, một kỳ tài đan đạo đã tìm ra mạch địa hỏa này và lập tông.
 - **Phát Triển:** Nhờ vị trí đắc địa và nguồn đan dược chất lượng, Đan Hà Cốc nhanh chóng trở nên giàu có và có tiếng nói trọng lượng ở Nam Cương.
 - **Quan Hệ:** Giữ mối quan hệ giao thương tốt với hầu hết các thế lực lớn (kể cả Ma đạo), miễn là họ trả đủ giá. Tuy nhiên, họ có hiềm khích ngầm với **Vạn Độc Môn** do tranh chấp tài nguyên dược liệu.
