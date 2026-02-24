@@ -32,7 +32,7 @@
     9. Thạch Tộc (Kiên định, bất hoại).
     10. Tinh Linh Tộc (Hòa mình thiên nhiên, thanh cao).
 - **Các Tiểu Tộc & Biến Thể:**
-    - *Băng Tộc (Ice Kin):* Nhánh Nhân Tộc thích nghi với giá lạnh phương Bắc. Xem tại `Đạo/Chủng_Tộc/Băng_Tộc.md`.
+    - *Băng Tộc (Ice Kin):* Nhánh Nhân Tộc thích nghi với giá lạnh phương Bắc. Xem tại `Đạo/Chủng_Tộc/Tiểu_Tộc/Băng_Tộc.md`.
 - **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chung_Toc_Chinh.md`.
 
 ## V. NHÂN VẬT TIÊU BIỂU
@@ -111,7 +111,7 @@
     - [Thần Ma Lệ](Âm_Nhạc/Thái_Cổ/Thần_Ma_Lệ.md): Bản hùng ca bi tráng về cuộc chiến Thần Ma.
     - [Vấn Đạo Hành](Âm_Nhạc/Khởi_Nguyên/Vấn_Đạo_Hành.md): Bài ca về con đường tu đạo đầy gian nan trong thời đại hiện tại.
     - [Hồng Trần Vọng](Âm_Nhạc/Hồng_Trần_Vọng.md): Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần.
-    - [Đan Hỏa Trường Ca](Âm_Nhạc/Đan_Hỏa_Trường_Ca.md): Ca khúc hùng tráng về Đan đạo và Đan Hà Cốc.
+    - [Đan Hỏa Trường Ca](Âm_Nhạc/Khởi_Nguyên/Đan_Hỏa_Trường_Ca.md): Ca khúc hùng tráng về Đan đạo và Đan Hà Cốc.
     - [Tiêu Dao Du](Âm_Nhạc/Tiêu_Dao_Du.md): Ca khúc vui tươi, phóng khoáng của tán tu.
     - [Ma Tâm](Âm_Nhạc/Ma_Tâm.md): Khúc ca đen tối về sự sa ngã vào Ma đạo.
     - [Tuyết Sơn Ngâm](Âm_Nhạc/Khởi_Nguyên/Tuyết_Sơn_Ngâm.md): Khúc ca cổ phong về sự cô độc và đạo tâm kiên định giữa bão tuyết.
@@ -143,4 +143,6 @@
 - Bổ sung "Dòng Chảy Lịch Sử" (Timeline) chi tiết với các mốc thời gian cụ thể cho toàn bộ 10 Đại Chủng Tộc.
 - Sắp xếp và dọn dẹp file Hồ sơ thế giới.
 - Khởi tạo Niên Biểu Chính và chuẩn hóa Kỷ Nguyên Hồng Hoang - Khởi Nguyên.
+- Tái cấu trúc và bồi đắp Băng Tộc (Tiểu Tộc), bổ sung giai thoại và timeline.
+- Sáng tác ca khúc "Đan Hỏa Trường Ca" (Cổ Phong Tự Sự).
 
