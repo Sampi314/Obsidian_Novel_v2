@@ -161,3 +161,15 @@
   - Viết `Chương_7_Dấu_Vết_Cổ_Xưa.md`.
   - Cập nhật `HỒ_SƠ_THẾ_GIỚI.md` và `BÁO_CÁO_CHẤT_LƯỢNG.md`.
 - **Ghi chú:** Cần phát triển tiếp diễn biến tại Phế Tích (gặp quái vật mạnh hơn hoặc tìm lối ra).
+
+## [2024-06-21] Phiên Làm Việc: Huyết Tướng Truy Sát
+- **Trạng thái:** Hoàn thành Chương 8, bổ sung lore cây cối và prompt ảnh.
+- **Chi tiết:**
+  - Tạo `Đạo/Kỳ_Vật/Huyết_Đằng.md` (Lore cây ký sinh hút máu).
+  - Tạo `Đạo/Kỳ_Vật/Nguyệt_Quang_Thảo.md` (Lore thảo dược giải độc).
+  - Tạo `Đạo/Ảnh/Rừng_Huyết_Độc_Prompt.md` (Hướng dẫn vẽ cho Họa Sĩ).
+  - Viết `Đạo/Chương_Truyện/Chương_8_Huyết_Tướng_Truy_Sát.md` (Cuộc đua sinh tử).
+  - Cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md` (102 links checked & valid).
+- **Ghi chú:**
+  - Nhân vật đã thoát khỏi trung tâm đầm lầy, đến rìa núi Độc Long.
+  - Cần chuẩn bị bối cảnh "Tây Mạc" hoặc "Dãy Núi Độc Long" cho chương tiếp theo.

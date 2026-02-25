@@ -170,6 +170,8 @@
     - *Huyết Thần Độc:* Cấm kỵ cổ độc của Vạn Độc Môn, biến sinh vật thành Huyết Thi, khắc chế Mộc Linh Căn. Xem tại `Đạo/Kỳ_Vật/Huyết_Thần_Độc.md`.
     - *Huyết Độc Lang:* Sói biến dị nhiễm Huyết Thần Độc, săn mồi theo đàn. Xem tại `Đạo/Kỳ_Vật/Huyết_Độc_Lang.md`.
     - *Tinh Linh Cổ Ngọc:* Tín vật cổ đại của Tinh Linh Tộc, có khả năng đẩy lùi chướng khí. Xem tại `Đạo/Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md`.
+    - *Huyết Đằng:* Dây leo hút máu, vật liệu chế tạo Truy Phong Cung. Xem tại `Đạo/Kỳ_Vật/Huyết_Đằng.md`.
+    - *Nguyệt Quang Thảo:* Linh thảo hấp thụ ánh trăng, có khả năng thanh lọc độc tố. Xem tại `Đạo/Kỳ_Vật/Nguyệt_Quang_Thảo.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -206,8 +208,13 @@
     - [Chương 5: Dưới Bóng Ma Rừng Thẳm](Chương_Truyện/Chương_5_Dưới_Bóng_Ma_Rừng_Thẳm.md)
     - [Chương 6: Huyết Chiến Đầm Lầy](Chương_Truyện/Chương_6_Huyết_Chiến_Đầm_Lầy.md)
     - [Chương 7: Dấu Vết Cổ Xưa](Chương_Truyện/Chương_7_Dấu_Vết_Cổ_Xưa.md)
+    - [Chương 8: Huyết Tướng Truy Sát](Chương_Truyện/Chương_8_Huyết_Tướng_Truy_Sát.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 8 - Huyết Tướng Truy Sát.
+- Tạo Kỳ vật: Huyết Đằng.
+- Tạo Kỳ vật: Nguyệt Quang Thảo.
+- Tạo Prompt Ảnh: Rừng Huyết Độc.
 - Viết Chương Truyện: Chương 7 - Dấu Vết Cổ Xưa.
 - Thêm Kỳ vật: Tinh Linh Cổ Ngọc.
 - Thêm Địa danh: Phế Tích Nguyệt Quang.
