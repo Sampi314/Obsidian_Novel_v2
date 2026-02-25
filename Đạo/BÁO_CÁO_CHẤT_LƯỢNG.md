@@ -34,3 +34,4 @@
 | 2024-06-15 | Tổng Quản | Viết Chương 2 & Sáng tác Hồng Trần Vọng | Hoàn Thành | Viết Chương 2 Huyết Độc Chi Họa, sáng tác ca khúc Hồng Trần Vọng. |
 | 2024-06-15 | Tổng Quản | Viết Chương 3 & Tạo Huyết Tướng | Hoàn Thành | Viết tiếp diễn biến tại Thôn Lạc Diệp và tạo quái vật Huyết Tướng. |
 | 2024-06-16 | Tổng Quản | Tạo Huyết Thần Độc & Viết Chương 4 | Hoàn Thành | Tạo Kỳ vật Huyết Thần Độc và viết chương đối đầu Lệ Vô Tâm. |
+| 2024-06-17 | Tổng Quản | Viết Chương 5 & Tạo Truy Phong Cung | Hoàn Thành | Viết Chương 5 mô tả cuộc thoát hiểm vào Đầm Lầy Tử Thần và tạo vũ khí mới cho Lâm Phong. |
