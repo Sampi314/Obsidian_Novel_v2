@@ -101,6 +101,12 @@
 - **Thanh Nang Trường Sinh Quyết (Thiên Cấp Trung Phẩm):**
     - Công pháp trấn phái của Dược Vương Cốc, chuyên về hồi phục sinh mệnh và điều khiển thảo mộc.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Thanh_Nang_Trường_Sinh_Quyết.md`.
+- **Liệt Diễm Sa Công (Huyền Cấp Thượng Phẩm):**
+    - Công pháp Hỏa-Thổ cổ truyền của tu sĩ Tây Mạc, được Thiên Sa Thương Hội bảo tồn. Kết hợp thiêu đốt và mài mòn, cực mạnh trong môi trường sa mạc.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Liệt_Diễm_Sa_Công.md`.
+- **Thiên Cơ Toán Thuật (Thiên Cấp Hạ Phẩm):**
+    - Công pháp bốc toán thất truyền từ Thái Cổ, dùng thần thức để dự đoán tương lai, phá giải trận pháp, và đọc mệnh vận. Phi chiến đấu, cực kỳ hiếm.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Thiên_Cơ_Toán_Thuật.md`.
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Trận Pháp:**
@@ -177,3 +183,5 @@
 - Tạo thế lực mới: Dược Vương Cốc (Trung Thổ).
 - Tạo nhân vật Diệp Thanh Y (Cốc Chủ Dược Vương Cốc).
 - Tạo công pháp mới: Thanh Nang Trường Sinh Quyết.
+- Tạo công pháp mới: Liệt Diễm Sa Công (Hỏa-Thổ, Huyền Cấp Thượng Phẩm, Tây Mạc / Thiên Sa Thương Hội).
+- Tạo công pháp mới: Thiên Cơ Toán Thuật (Đạo Vận, Thiên Cấp Hạ Phẩm, bốc toán/tiên tri phi chiến đấu).
