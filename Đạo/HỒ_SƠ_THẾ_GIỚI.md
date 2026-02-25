@@ -173,6 +173,7 @@
     - *Tinh Linh Cổ Ngọc:* Tín vật cổ đại của Tinh Linh Tộc, có khả năng đẩy lùi chướng khí. Xem tại `Đạo/Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md`.
     - *Huyết Đằng:* Dây leo hút máu, vật liệu chế tạo Truy Phong Cung. Xem tại `Đạo/Kỳ_Vật/Huyết_Đằng.md`.
     - *Nguyệt Quang Thảo:* Linh thảo hấp thụ ánh trăng, có khả năng thanh lọc độc tố. Xem tại `Đạo/Kỳ_Vật/Nguyệt_Quang_Thảo.md`.
+    - *Độc Long Tích:* Thằn lằn độc khổng lồ sống tại Núi Độc Long, có vảy đá và máu độc. Xem tại `Đạo/Kỳ_Vật/Độc_Long_Tích.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -211,8 +212,11 @@
     - [Chương 7: Dấu Vết Cổ Xưa](Chương_Truyện/Chương_7_Dấu_Vết_Cổ_Xưa.md)
     - [Chương 8: Huyết Tướng Truy Sát](Chương_Truyện/Chương_8_Huyết_Tướng_Truy_Sát.md)
     - [Chương 9: Núi Độc Long](Chương_Truyện/Chương_9_Núi_Độc_Long.md)
+    - [Chương 10: Độc Long Xuất Thế](Chương_Truyện/Chương_10_Độc_Long_Xuất_Thế.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 10 - Độc Long Xuất Thế.
+- Tạo Kỳ vật: Độc Long Tích (Quái vật Chương 10).
 - Viết Chương Truyện: Chương 9 - Núi Độc Long.
 - Tạo Địa danh: Núi Độc Long.
 - Viết Chương Truyện: Chương 8 - Huyết Tướng Truy Sát.
