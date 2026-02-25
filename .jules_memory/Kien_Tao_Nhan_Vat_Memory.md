@@ -25,3 +25,13 @@
 - **Đặc Điểm:** Nữ kiếm tu Nhân tộc, Trúc Cơ Trung Kỳ, Phong-Băng Linh Căn.
 - **Vai Trò:** Độc hành, lạnh lùng nhưng trọng ân nghĩa, sinh tồn khắc nghiệt.
 - **Ghi Chú:** Mở rộng tuyến nhân vật sinh tồn từ thảm họa (dịch bệnh).
+
+- **Tạo Mới:** Đan Dương Tử (Hỏa Long Tôn Giả).
+- **Đặc Điểm:** Cốc Chủ Đan Hà Cốc, Hóa Thần Sơ Kỳ, Hỏa Linh Căn.
+- **Vai Trò:** Lãnh tụ tinh thần của Đan đạo Nam Cương, đối trọng với Vạn Độc Môn.
+- **Ghi Chú:** Tính cách nóng nảy nhưng sòng phẳng. Mối thù mất tay với Độc Cô Lão Quái là động lực chính.
+
+- **Tạo Mới:** Độc Cô Lão Quái (Vạn Độc Ma Quân).
+- **Đặc Điểm:** Môn Chủ Vạn Độc Môn, Hóa Thần Sơ Kỳ, Độc Linh Căn.
+- **Vai Trò:** Phản diện chính tại Nam Cương, tàn nhẫn và quỷ quyệt.
+- **Ghi Chú:** Khai thác sự biến thái trong việc dùng người làm vật thí nghiệm.
