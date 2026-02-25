@@ -1,8 +1,8 @@
 # Chương 11: Bão Cát Tây Mạc
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../Nhân_Vật/Lâm_Phong.md), Trần Kim Long
-**Địa điểm:** [Tây Mạc](../Thế_Giới_Và_Thời_Gian/Tây_Mạc.md)
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md), Trần Kim Long
+**Địa điểm:** [Tây Mạc](../../Thế_Giới_Và_Thời_Gian/Tây_Mạc.md)
 
 ---
 
@@ -14,7 +14,7 @@ Diệp Tĩnh Sương khẽ nhíu mày. Là một kiếm tu hệ Băng, nàng c�
 
 Trần Kim Long điều khiển con Thằn Lằn Sa Mạc đi chậm lại, đưa cho nàng một túi da nhỏ màu đỏ cam.
 
-"Đây là [Sa Viêm Tán](../Đan_Dược/Sa_Viêm_Tán.md), đặc sản của Thiên Sa Thương Hội chúng tôi. Tuy mùi vị hơi nồng, nhưng có thể giúp cô chống lại cái nóng của sa mạc. Cứ pha một ít vào nước mà uống."
+"Đây là [Sa Viêm Tán](../../Đan_Dược/Sa_Viêm_Tán.md), đặc sản của Thiên Sa Thương Hội chúng tôi. Tuy mùi vị hơi nồng, nhưng có thể giúp cô chống lại cái nóng của sa mạc. Cứ pha một ít vào nước mà uống."
 
 Diệp Tĩnh Sương nhận lấy, mở ra ngửi thử. Một mùi khô nồng xộc lên mũi. Nàng do dự một chút rồi làm theo lời hắn. Thứ bột này vừa vào miệng liền tỏa da một luồng nhiệt ấm áp, kỳ lạ thay lại khiến cảm giác thiêu đốt bên ngoài dịu đi rất nhiều. Chỉ có điều, luồng nhiệt này xung đột nhẹ với hàn khí trong đan điền nàng, tạo ra cảm giác nôn nao khó tả.
 
@@ -72,7 +72,7 @@ Tên cướp kinh hãi nghiêng đầu né tránh. Mũi tên sượt qua má h�
 
 "Cái gì..." Tên cướp ngã gục xuống cát, mắt vẫn mở trừng trừng.
 
-Lâm Phong đứng trên lưng lạc đà, tay cầm [Truy Phong Cung](../Luyện_Khí/Truy_Phong_Cung.md), dây cung vẫn còn rung lên khe khẽ. Gió bão xung quanh dường như không cản trở hắn, ngược lại còn trở thành trợ lực cho hắn.
+Lâm Phong đứng trên lưng lạc đà, tay cầm [Truy Phong Cung](../../Luyện_Khí/Truy_Phong_Cung.md), dây cung vẫn còn rung lên khe khẽ. Gió bão xung quanh dường như không cản trở hắn, ngược lại còn trở thành trợ lực cho hắn.
 
 "Ở nơi khác ta không dám nói, nhưng trong gió bão thế này..." Lâm Phong nhếch mép, ánh mắt sắc lạnh. "Ta là vua!"
 
@@ -100,7 +100,7 @@ Lâm Phong thu cung lại, cười hì hì: "Cũng may thôi. Mà này, chúng t
 
 Trần Kim Long chỉ tay về phía xa, nơi một ốc đảo xanh tươi hiện ra mờ ảo trong ánh nắng chiều tà.
 
-"Sắp đến rồi. Đó là trạm dừng chân số 7 của Thiên Sa Thương Hội. Ở đó, chúng ta sẽ được gặp người quản lý vùng này - [Hứa Nhược Thủy](../Nhân_Vật/Hứa_Nhược_Thủy.md) phu nhân. Bà ấy chắc chắn sẽ rất hứng thú với câu chuyện về Độc Long Tích của chúng ta."
+"Sắp đến rồi. Đó là trạm dừng chân số 7 của Thiên Sa Thương Hội. Ở đó, chúng ta sẽ được gặp người quản lý vùng này - [Hứa Nhược Thủy](../../Nhân_Vật/Hứa_Nhược_Thủy.md) phu nhân. Bà ấy chắc chắn sẽ rất hứng thú với câu chuyện về Độc Long Tích của chúng ta."
 
 Diệp Tĩnh Sương nhìn theo hướng tay hắn, ánh mắt kiên định. Dù là Tây Mạc khắc nghiệt hay Vạn Độc Môn hiểm ác, con đường nàng đi vẫn chỉ có một: Trảm gian trừ ác, bảo vệ chính đạo.
 

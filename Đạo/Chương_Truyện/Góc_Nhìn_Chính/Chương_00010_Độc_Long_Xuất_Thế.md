@@ -1,15 +1,15 @@
 # Chương 10: Độc Long Xuất Thế
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../Nhân_Vật/Lâm_Phong.md)
-**Phản diện:** Độc Hạt Tử (Vạn Độc Môn), [Độc Long Tích](../Kỳ_Vật/Độc_Long_Tích.md)
-**Địa điểm:** [Núi Độc Long](../Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md)
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
+**Phản diện:** Độc Hạt Tử (Vạn Độc Môn), [Độc Long Tích](../../Kỳ_Vật/Độc_Long_Tích.md)
+**Địa điểm:** [Núi Độc Long](../../Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md)
 
 ---
 
 "Hàn Mai Kiếm Quyết – Tuyết Vũ!"
 
-Giữa không trung, [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md) quát khẽ. [Hàn Mai Kiếm](../Luyện_Khí/Hàn_Mai_Kiếm.md) trong tay nàng vẽ nên một vòng cung sáng rực. Vô số bông tuyết sắc bén được ngưng tụ từ linh lực, xoáy tròn như cơn bão nhỏ, ập xuống đầu đám đệ tử Vạn Độc Môn.
+Giữa không trung, [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md) quát khẽ. [Hàn Mai Kiếm](../../Luyện_Khí/Hàn_Mai_Kiếm.md) trong tay nàng vẽ nên một vòng cung sáng rực. Vô số bông tuyết sắc bén được ngưng tụ từ linh lực, xoáy tròn như cơn bão nhỏ, ập xuống đầu đám đệ tử Vạn Độc Môn.
 
 *Keng! Keng! Phập!*
 
@@ -23,9 +23,9 @@ Nhưng luồng hỏa độc chưa kịp chạm đến nàng thì đã bị một
 
 *Vút! Bốp!*
 
-Mũi tên từ [Truy Phong Cung](../Luyện_Khí/Truy_Phong_Cung.md) mang theo kình lực xoáy tròn, va chạm với luồng lửa, tạo ra một vụ nổ nhỏ hất văng khói bụi mù mịt.
+Mũi tên từ [Truy Phong Cung](../../Luyện_Khí/Truy_Phong_Cung.md) mang theo kình lực xoáy tròn, va chạm với luồng lửa, tạo ra một vụ nổ nhỏ hất văng khói bụi mù mịt.
 
-Trên vách núi, [Lâm Phong](../Nhân_Vật/Lâm_Phong.md) đứng hiên ngang, tay trái cầm cung, tay phải kẹp ba mũi tên, khóe miệng nhếch lên nụ cười ngạo nghễ: "Xin lỗi, tay trượt."
+Trên vách núi, [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md) đứng hiên ngang, tay trái cầm cung, tay phải kẹp ba mũi tên, khóe miệng nhếch lên nụ cười ngạo nghễ: "Xin lỗi, tay trượt."
 
 "Cửu Hoa Kiếm Tông? Tán tu?" Độc Hạt Tử nheo mắt, sát khí bùng lên. "Hừ, đường có lối không đi, địa ngục không cửa lại lao vào. Giết hết cho ta!"
 
@@ -55,7 +55,7 @@ Một vết nứt lớn bất ngờ xuất hiện ngay giữa chiến trường,
 
 Tiếng gầm thấu tận trời xanh vang lên. Một cái đầu khổng lồ, phủ đầy vảy đá xám tro, từ từ trồi lên khỏi mặt đất. Đôi mắt vàng hổ phách to như cái thúng, dựng đứng đầy giận dữ, quét qua đám sinh vật nhỏ bé đang làm ồn trước cửa nhà mình.
 
-Là [Độc Long Tích](../Kỳ_Vật/Độc_Long_Tích.md)! Và không phải loại thường, kích thước này... là Độc Long Tích Vương cấp Giả Đan!
+Là [Độc Long Tích](../../Kỳ_Vật/Độc_Long_Tích.md)! Và không phải loại thường, kích thước này... là Độc Long Tích Vương cấp Giả Đan!
 
 "Chết tiệt! Là lão quái vật của ngọn núi này!" Lâm Phong tái mặt, tay nắm chặt cung. "Tĩnh Sương! Mau lùi lại!"
 
@@ -85,7 +85,7 @@ Nhưng đúng như Lâm Phong dự đoán, khi vừa chạm đến ranh giới c
 
 Diệp Tĩnh Sương ngã ngồi xuống cát nóng, thở dốc. Mồ hôi ướt đẫm lưng áo, nhưng ánh mắt nàng vẫn ánh lên vẻ nhẹ nhõm.
 
-Trần Kim Long bước tới, chắp tay cúi đầu thật sâu: "Đa tạ nhị vị ân nhân cứu mạng. Tại hạ là Trần Kim Long, thuộc [Kim Sa Trần Gia](../Thế_Lực/Thiên_Sa_Thương_Hội.md). Nếu không có hai vị, e rằng chuyến hàng này đã mất trắng."
+Trần Kim Long bước tới, chắp tay cúi đầu thật sâu: "Đa tạ nhị vị ân nhân cứu mạng. Tại hạ là Trần Kim Long, thuộc [Kim Sa Trần Gia](../../Thế_Lực/Thiên_Sa_Thương_Hội.md). Nếu không có hai vị, e rằng chuyến hàng này đã mất trắng."
 
 Lâm Phong xua tay, vừa thở vừa cười: "Tiện tay thôi, tiện tay thôi. Với lại... ta cũng không nỡ nhìn thuốc cứu mạng bị hủy."
 

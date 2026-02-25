@@ -1,7 +1,7 @@
 # Chương 2: Phản Kích và Vòng Vây
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../Nhân_Vật/Lâm_Phong.md)
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
 **Địa điểm:** Thôn Lạc Diệp, biên giới Nam Cương.
 **Thời điểm:** Tiếp nối Chương 1.
 
@@ -11,9 +11,9 @@ Cánh hạc giấy vừa khuất dạng sau màn sương mù dày đặc, tiến
 
 Không, chúng không còn là người nữa.
 
-Da thịt chúng nứt toác, rỉ ra thứ dịch lỏng màu đỏ sẫm tanh nồng. Đôi mắt đỏ ngầu không có tiêu cự, chỉ có sự thèm khát máu tươi điên cuồng. Đây chính là [Huyết Thi](../Kỳ_Vật/Huyết_Thi.md) – những nạn nhân tội nghiệp của Huyết Thần Độc.
+Da thịt chúng nứt toác, rỉ ra thứ dịch lỏng màu đỏ sẫm tanh nồng. Đôi mắt đỏ ngầu không có tiêu cự, chỉ có sự thèm khát máu tươi điên cuồng. Đây chính là [Huyết Thi](../../Kỳ_Vật/Huyết_Thi.md) – những nạn nhân tội nghiệp của Huyết Thần Độc.
 
-Diệp Tĩnh Sương siết chặt [Hàn Mai Kiếm](../Luyện_Khí/Hàn_Ngọc_Kiếm.md), trán lấm tấm mồ hôi lạnh. Dù là đệ tử chân truyền của Cửu Hoa Kiếm Tông, nàng cũng chưa bao giờ đối mặt với số lượng quái vật đông đảo đến thế này. Hơn nữa, không khí xung quanh dường như đang bị độc tố xâm chiếm, khiến việc vận chuyển linh lực hệ Băng của nàng trở nên khó khăn hơn bình thường.
+Diệp Tĩnh Sương siết chặt [Hàn Mai Kiếm](../../Luyện_Khí/Hàn_Ngọc_Kiếm.md), trán lấm tấm mồ hôi lạnh. Dù là đệ tử chân truyền của Cửu Hoa Kiếm Tông, nàng cũng chưa bao giờ đối mặt với số lượng quái vật đông đảo đến thế này. Hơn nữa, không khí xung quanh dường như đang bị độc tố xâm chiếm, khiến việc vận chuyển linh lực hệ Băng của nàng trở nên khó khăn hơn bình thường.
 
 "Grào!!!"
 
@@ -47,7 +47,7 @@ Từ trên ngọn cây cổ thụ gần đó, một giọng nói nam nhân hào 
 
 Một bóng người nhảy xuống, đáp đất nhẹ nhàng như một chiếc lá. Đó là một nam tử trẻ tuổi, vận y phục màu xanh lá gọn gàng, sau lưng đeo cung lớn. Hắn nháy mắt với nàng, tay trái đã kịp lắp thêm ba mũi tên lên dây cung.
 
-[Lâm Phong](../Nhân_Vật/Lâm_Phong.md) – hay còn gọi là Truy Phong Khách.
+[Lâm Phong](../../Nhân_Vật/Lâm_Phong.md) – hay còn gọi là Truy Phong Khách.
 
 "Tán tu?" Diệp Tĩnh Sương nhíu mày, nhưng không hạ kiếm xuống.
 
@@ -69,11 +69,11 @@ Lâm Phong dừng lại bên một con suối nhỏ, vục nước rửa mặt. 
 
 "Đa tạ," nàng nói, giọng nói tuy lạnh nhưng chân thành.
 
-"Không có gì," Lâm Phong nhún vai, ngồi xuống tảng đá lớn. "Ta cũng đang điều tra vụ này. Mấy ngày nay rừng rậm này lạ lắm. Thú rừng bỏ đi hết, cây cối thì héo úa hoặc rỉ máu. Ta đoán là do đám độc sư của [Vạn Độc Môn](../Thế_Lực/Vạn_Độc_Môn.md) giở trò."
+"Không có gì," Lâm Phong nhún vai, ngồi xuống tảng đá lớn. "Ta cũng đang điều tra vụ này. Mấy ngày nay rừng rậm này lạ lắm. Thú rừng bỏ đi hết, cây cối thì héo úa hoặc rỉ máu. Ta đoán là do đám độc sư của [Vạn Độc Môn](../../Thế_Lực/Vạn_Độc_Môn.md) giở trò."
 
 "Là Huyết Thần Độc," Diệp Tĩnh Sương nói, "Ta đã gửi tin về tông môn. Chắc chắn các trưởng lão sẽ sớm có mặt."
 
-Lâm Phong lắc đầu, vẻ mặt nghiêm trọng: "E là không kịp đâu. Ta ngửi thấy mùi 'Thiên Tinh Cổ' trong gió. Nếu ta đoán không lầm, kẻ đứng sau vụ này không chỉ là mấy tên độc sư tép riu, mà là [Lệ Vô Tâm](../Nhân_Vật/Lệ_Vô_Tâm.md)."
+Lâm Phong lắc đầu, vẻ mặt nghiêm trọng: "E là không kịp đâu. Ta ngửi thấy mùi 'Thiên Tinh Cổ' trong gió. Nếu ta đoán không lầm, kẻ đứng sau vụ này không chỉ là mấy tên độc sư tép riu, mà là [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)."
 
 Nghe đến cái tên này, đồng tử Diệp Tĩnh Sương co rút lại. Vạn Độc Thánh Tử – kẻ thù truyền kiếp của chính đạo thế hệ trẻ. Nếu hắn thực sự ở đây, thì Thôn Lạc Diệp chỉ là một cái bẫy.
 
@@ -91,4 +91,4 @@ Diệp Tĩnh Sương khẽ nhếch mép, một nụ cười hiếm hoi thoáng q
 
 "Được."
 
-Hai người, một kiếm một cung, một chính một tà (trong mắt người đời), lại lặng lẽ quay ngược về phía Thôn Lạc Diệp, nơi màn đêm đang dần buông xuống, che giấu những âm mưu đen tối nhất của [Vạn Độc Môn](../Thế_Lực/Vạn_Độc_Môn.md).
+Hai người, một kiếm một cung, một chính một tà (trong mắt người đời), lại lặng lẽ quay ngược về phía Thôn Lạc Diệp, nơi màn đêm đang dần buông xuống, che giấu những âm mưu đen tối nhất của [Vạn Độc Môn](../../Thế_Lực/Vạn_Độc_Môn.md).

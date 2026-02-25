@@ -1,9 +1,9 @@
 # Chương 9: Núi Độc Long
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../Nhân_Vật/Lâm_Phong.md)
-**Phản diện:** Đệ tử [Vạn Độc Môn](../Thế_Lực/Vạn_Độc_Môn.md)
-**Địa điểm:** [Núi Độc Long](../Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md)
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
+**Phản diện:** Đệ tử [Vạn Độc Môn](../../Thế_Lực/Vạn_Độc_Môn.md)
+**Địa điểm:** [Núi Độc Long](../../Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md)
 
 ---
 
@@ -11,9 +11,9 @@ Gió.
 
 Gió ở đây không mang theo hơi ẩm mốc của đầm lầy, mà khô khốc và nóng rát như lưỡi dao nung đỏ.
 
-[Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md) tựa lưng vào một tảng đá đen trần trụi, hơi thở dần ổn định lại. Vết thương trên vai nàng đã được băng bó sơ sài bằng vải xé từ tay áo, thấm đẫm dược bột cầm máu. Dù linh lực trong cơ thể đã cạn kiệt đến đáy, nhưng ánh mắt nàng vẫn sắc bén như kiếm, cảnh giác quan sát xung quanh.
+[Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md) tựa lưng vào một tảng đá đen trần trụi, hơi thở dần ổn định lại. Vết thương trên vai nàng đã được băng bó sơ sài bằng vải xé từ tay áo, thấm đẫm dược bột cầm máu. Dù linh lực trong cơ thể đã cạn kiệt đến đáy, nhưng ánh mắt nàng vẫn sắc bén như kiếm, cảnh giác quan sát xung quanh.
 
-Cách đó không xa, [Lâm Phong](../Nhân_Vật/Lâm_Phong.md) đang ngồi xếp bằng, hai tay nâng niu miếng [Tinh Linh Cổ Ngọc](../Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md). Miếng ngọc bội vốn dĩ tỏa sáng xanh biếc giờ đây ảm đạm như một hòn đá bình thường, bên trên còn xuất hiện vài vết rạn nhỏ.
+Cách đó không xa, [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md) đang ngồi xếp bằng, hai tay nâng niu miếng [Tinh Linh Cổ Ngọc](../../Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md). Miếng ngọc bội vốn dĩ tỏa sáng xanh biếc giờ đây ảm đạm như một hòn đá bình thường, bên trên còn xuất hiện vài vết rạn nhỏ.
 
 "Nó... hỏng rồi sao?" Diệp Tĩnh Sương khẽ hỏi, giọng khàn đặc.
 
@@ -21,7 +21,7 @@ Lâm Phong lắc đầu, cẩn thận cất ngọc bội vào ngực áo: "Chưa
 
 Hắn ngẩng đầu nhìn lên bầu trời xám xịt đặc trưng của vùng giao thoa giữa Nam Cương và Tây Mạc.
 
-"Chúng ta đang ở [Núi Độc Long](../Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md). Bên kia sườn núi là địa phận của Tây Mạc. Đám quái vật của Vạn Độc Môn không dám bén mảng tới đây đâu, chúng sợ cái nóng khô của sa mạc."
+"Chúng ta đang ở [Núi Độc Long](../../Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md). Bên kia sườn núi là địa phận của Tây Mạc. Đám quái vật của Vạn Độc Môn không dám bén mảng tới đây đâu, chúng sợ cái nóng khô của sa mạc."
 
 "Vậy là an toàn rồi?"
 
@@ -33,9 +33,9 @@ Diệp Tĩnh Sương gật đầu, định nói lời cảm ơn thì bỗng dưn
 
 Hắn trườn người lên mỏm đá cao, nheo mắt nhìn xuống thung lũng phía dưới. Diệp Tĩnh Sương cũng nén đau, rón rén bò tới bên cạnh.
 
-Phía dưới chân núi, trên con đường mòn đầy sỏi đá, một đoàn xe kỳ lạ đang chậm rãi tiến bước. Đó không phải là xe ngựa thông thường, mà là những toa xe khổng lồ được kéo bởi những con sâu cát to như thùng nước, da vàng óng ánh – [Sa Trùng](../Thế_Lực/Thiên_Sa_Thương_Hội.md). Trên mỗi toa xe cắm một lá cờ màu vàng cát, thêu hình ba ngọn tháp đan xen.
+Phía dưới chân núi, trên con đường mòn đầy sỏi đá, một đoàn xe kỳ lạ đang chậm rãi tiến bước. Đó không phải là xe ngựa thông thường, mà là những toa xe khổng lồ được kéo bởi những con sâu cát to như thùng nước, da vàng óng ánh – [Sa Trùng](../../Thế_Lực/Thiên_Sa_Thương_Hội.md). Trên mỗi toa xe cắm một lá cờ màu vàng cát, thêu hình ba ngọn tháp đan xen.
 
-"Là người của [Thiên Sa Thương Hội](../Thế_Lực/Thiên_Sa_Thương_Hội.md)," Lâm Phong thì thào. "Sao họ lại đi vào vùng biên giới nguy hiểm này? Lại còn hướng về phía đầm lầy?"
+"Là người của [Thiên Sa Thương Hội](../../Thế_Lực/Thiên_Sa_Thương_Hội.md)," Lâm Phong thì thào. "Sao họ lại đi vào vùng biên giới nguy hiểm này? Lại còn hướng về phía đầm lầy?"
 
 "Nhìn kìa," Diệp Tĩnh Sương chỉ tay.
 
@@ -53,7 +53,7 @@ Một tiếng hét vang lên từ toa xe dẫn đầu. Một tráng hán cầm �
 
 "Hừ, thuốc cứu mạng sao? Ta lại thấy nó giống thuốc tiễn các ngươi xuống hoàng tuyền hơn."
 
-Một giọng nói âm lãnh vang vọng khắp thung lũng. Từ trong làn sương mù xanh lục vừa xuất hiện, một gã nam tử mặc áo bào tím bước ra. Trên vai hắn đậu một con bọ cạp đỏ rực to bằng bàn tay – [Hỏa Hạt](../Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md).
+Một giọng nói âm lãnh vang vọng khắp thung lũng. Từ trong làn sương mù xanh lục vừa xuất hiện, một gã nam tử mặc áo bào tím bước ra. Trên vai hắn đậu một con bọ cạp đỏ rực to bằng bàn tay – [Hỏa Hạt](../../Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md).
 
 "Người của Vạn Độc Môn!" Diệp Tĩnh Sương siết chặt chuôi kiếm, sát khí trong mắt bùng lên.
 
@@ -67,9 +67,9 @@ Lâm Phong nhăn mặt: "Cô điên à? Linh lực cạn kiệt, vai thì trọn
 
 "Đó là thuốc cứu trợ cho Dược Vương Cốc. Nếu không có nó, hàng ngàn người nhiễm độc trong rừng sẽ chết."
 
-Nàng không đợi hắn trả lời, gắng gượng đứng dậy, rút [Hàn Mai Kiếm](../Luyện_Khí/Hàn_Mai_Kiếm.md) ra. Dù tay run rẩy, nhưng mũi kiếm vẫn chỉ thẳng xuống dưới.
+Nàng không đợi hắn trả lời, gắng gượng đứng dậy, rút [Hàn Mai Kiếm](../../Luyện_Khí/Hàn_Mai_Kiếm.md) ra. Dù tay run rẩy, nhưng mũi kiếm vẫn chỉ thẳng xuống dưới.
 
-Lâm Phong nhìn nàng, rồi nhìn xuống đám người đang chém giết phía dưới, thở dài sườn sượt. Hắn tháo [Truy Phong Cung](../Luyện_Khí/Truy_Phong_Cung.md) xuống, lắp ba mũi tên gỗ lên dây.
+Lâm Phong nhìn nàng, rồi nhìn xuống đám người đang chém giết phía dưới, thở dài sườn sượt. Hắn tháo [Truy Phong Cung](../../Luyện_Khí/Truy_Phong_Cung.md) xuống, lắp ba mũi tên gỗ lên dây.
 
 "Được rồi, được rồi. Ta cũng ghét cái bọn chơi độc này."
 

@@ -1,8 +1,8 @@
 # Chương 14: Sa Mạc Mê Cung
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../Nhân_Vật/Lâm_Phong.md)
-**Địa điểm:** [Lưu Sa Phế Tích](../Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md) (Lòng Đất)
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
+**Địa điểm:** [Lưu Sa Phế Tích](../../Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md) (Lòng Đất)
 
 ---
 
@@ -70,7 +70,7 @@ Nhưng nụ cười của hắn vụt tắt khi một luồng sát khí lạnh l
 
 Một bóng đen khổng lồ lao vụt ra từ cửa hang, đập mạnh vào nơi Lâm Phong vừa đứng, làm nền đá vỡ nát.
 
-Đó là một con [Sa Thạch Khôi Lỗi](../Kỳ_Vật/Kỳ_Vật_Tây_Mạc.md) (Sandstone Golem) cao hơn ba trượng, toàn thân được ghép từ những khối đá sa thạch cứng chắc, khớp nối chảy ra dòng cát lỏng như máu. Đôi mắt nó rực lửa đỏ ngầu, tay cầm một thanh đại đao bằng đá sứt mẻ.
+Đó là một con [Sa Thạch Khôi Lỗi](../../Kỳ_Vật/Kỳ_Vật_Tây_Mạc.md) (Sandstone Golem) cao hơn ba trượng, toàn thân được ghép từ những khối đá sa thạch cứng chắc, khớp nối chảy ra dòng cát lỏng như máu. Đôi mắt nó rực lửa đỏ ngầu, tay cầm một thanh đại đao bằng đá sứt mẻ.
 
 "Kẻ... xâm nhập... Chết!"
 
@@ -114,7 +114,7 @@ Bên trong cái kén đã bị vỡ một phần do dư chấn trận chiến, l
 
 Lâm Phong vội chạy tới, dùng dao găm cạy lớp cát cứng ra. Hứa Thanh Vân ngã vào lòng hắn, hơi thở yếu ớt, môi tím tái như trúng độc.
 
-"Hắn bị trúng [Huyết Thần Độc](../Kỳ_Vật/Huyết_Thần_Độc.md) biến thể." Diệp Tĩnh Sương kiểm tra mạch tượng, sắc mặt nghiêm trọng. "Chất độc đã ngấm vào kinh mạch, phong tỏa đan điền. Nếu không có thuốc giải ngay, hắn sẽ chết hoặc biến thành Huyết Thi trong vòng ba canh giờ nữa."
+"Hắn bị trúng [Huyết Thần Độc](../../Kỳ_Vật/Huyết_Thần_Độc.md) biến thể." Diệp Tĩnh Sương kiểm tra mạch tượng, sắc mặt nghiêm trọng. "Chất độc đã ngấm vào kinh mạch, phong tỏa đan điền. Nếu không có thuốc giải ngay, hắn sẽ chết hoặc biến thành Huyết Thi trong vòng ba canh giờ nữa."
 
 "Thuốc giải... Sa Sương!" Lâm Phong lục lọi túi trữ vật của mình, nhưng hắn nhớ ra lọ Sa Sương duy nhất đã dùng để đổi lấy thông tin từ một tên Sa Tặc trước đó. "Chết tiệt!"
 
