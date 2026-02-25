@@ -38,7 +38,7 @@
 - **Hiện Tại:**
     - Đứng đầu mảng kinh doanh dược liệu của Thiên Sa Thương Hội.
     - Trong sự kiện "Huyết Độc Chi Họa", bà đóng vai trò quan trọng khi nắm giữ nguồn cung cấp dược liệu giải độc (Sa Sương, Thiên Niên Sa Nhẫm) mà Dược Vương Cốc đang khao khát, đồng thời cũng là người duy nhất dám buôn bán với Vạn Độc Môn.
-    - [Chương 12: Thương Vụ Bạc Tỷ](../Chương_Truyện/Chương_12_Thương_Vụ_Bạc_Tỷ.md): Gặp gỡ nhóm Diệp Tĩnh Sương và Lâm Phong, giao nhiệm vụ tìm kiếm con trai Hứa Thanh Vân.
+    - [Chương 12: Thương Vụ Bạc Tỷ](../Chương_Truyện/Chương_00012_Thương_Vụ_Bạc_Tỷ.md): Gặp gỡ nhóm Diệp Tĩnh Sương và Lâm Phong, giao nhiệm vụ tìm kiếm con trai Hứa Thanh Vân.
 
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 - **Sở Trường:**

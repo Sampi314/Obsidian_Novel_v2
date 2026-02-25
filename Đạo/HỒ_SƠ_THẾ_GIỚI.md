@@ -214,20 +214,20 @@
 
 ## XI. DANH SÁCH CHƯƠNG TRUYỆN
 - **Huyết Độc Chi Họa:**
-    - [Chương 1: Dấu Hiệu Tai Ương](Chương_Truyện/Chương_1_Dấu_Hiệu_Tai_Ương.md)
-    - [Chương 2: Phản Kích và Vòng Vây](Chương_Truyện/Chương_2_Phản_Kích_Và_Vòng_Vây.md)
-    - [Chương 3: Bóng Ma Trong Màn Sương](Chương_Truyện/Chương_3_Bóng_Ma_Trong_Màn_Sương.md)
-    - [Chương 4: Vạn Độc Thánh Tử](Chương_Truyện/Chương_4_Vạn_Độc_Thánh_Tử.md)
-    - [Chương 5: Dưới Bóng Ma Rừng Thẳm](Chương_Truyện/Chương_5_Dưới_Bóng_Ma_Rừng_Thẳm.md)
-    - [Chương 6: Huyết Chiến Đầm Lầy](Chương_Truyện/Chương_6_Huyết_Chiến_Đầm_Lầy.md)
-    - [Chương 7: Dấu Vết Cổ Xưa](Chương_Truyện/Chương_7_Dấu_Vết_Cổ_Xưa.md)
-    - [Chương 8: Huyết Tướng Truy Sát](Chương_Truyện/Chương_8_Huyết_Tướng_Truy_Sát.md)
-    - [Chương 9: Núi Độc Long](Chương_Truyện/Chương_9_Núi_Độc_Long.md)
-    - [Chương 10: Độc Long Xuất Thế](Chương_Truyện/Chương_10_Độc_Long_Xuất_Thế.md)
-    - [Chương 11: Bão Cát Tây Mạc](Chương_Truyện/Chương_11_Bão_Cát_Tây_Mạc.md)
-    - [Chương 12: Thương Vụ Bạc Tỷ](Chương_Truyện/Chương_12_Thương_Vụ_Bạc_Tỷ.md)
-    - [Chương 13: Lạc Lối Trong Cát](Chương_Truyện/Chương_13_Lạc_Lối_Trong_Cát.md)
-    - [Chương 14: Sa Mạc Mê Cung](Chương_Truyện/Chương_14_Sa_Mạc_Mê_Cung.md)
+    - [Chương 1: Dấu Hiệu Tai Ương](Chương_Truyện/Chương_00001_Dấu_Hiệu_Tai_Ương.md)
+    - [Chương 2: Phản Kích và Vòng Vây](Chương_Truyện/Chương_00002_Phản_Kích_Và_Vòng_Vây.md)
+    - [Chương 3: Bóng Ma Trong Màn Sương](Chương_Truyện/Chương_00003_Bóng_Ma_Trong_Màn_Sương.md)
+    - [Chương 4: Vạn Độc Thánh Tử](Chương_Truyện/Chương_00004_Vạn_Độc_Thánh_Tử.md)
+    - [Chương 5: Dưới Bóng Ma Rừng Thẳm](Chương_Truyện/Chương_00005_Dưới_Bóng_Ma_Rừng_Thẳm.md)
+    - [Chương 6: Huyết Chiến Đầm Lầy](Chương_Truyện/Chương_00006_Huyết_Chiến_Đầm_Lầy.md)
+    - [Chương 7: Dấu Vết Cổ Xưa](Chương_Truyện/Chương_00007_Dấu_Vết_Cổ_Xưa.md)
+    - [Chương 8: Huyết Tướng Truy Sát](Chương_Truyện/Chương_00008_Huyết_Tướng_Truy_Sát.md)
+    - [Chương 9: Núi Độc Long](Chương_Truyện/Chương_00009_Núi_Độc_Long.md)
+    - [Chương 10: Độc Long Xuất Thế](Chương_Truyện/Chương_00010_Độc_Long_Xuất_Thế.md)
+    - [Chương 11: Bão Cát Tây Mạc](Chương_Truyện/Chương_00011_Bão_Cát_Tây_Mạc.md)
+    - [Chương 12: Thương Vụ Bạc Tỷ](Chương_Truyện/Chương_00012_Thương_Vụ_Bạc_Tỷ.md)
+    - [Chương 13: Lạc Lối Trong Cát](Chương_Truyện/Chương_00013_Lạc_Lối_Trong_Cát.md)
+    - [Chương 14: Sa Mạc Mê Cung](Chương_Truyện/Chương_00014_Sa_Mạc_Mê_Cung.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
 - Viết Chương Truyện: Chương 14 - Sa Mạc Mê Cung.
