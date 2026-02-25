@@ -74,6 +74,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hứa_Nhược_Thủy.md`.
 - **Hứa Thanh Vân:** Con trai Hứa Nhược Thủy, Luyện Khí Kỳ. Tính cách hào sảng, muốn làm hiệp khách nhưng thiếu kinh nghiệm, hiện đang mất tích. Sở hữu *Lưu Sa Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hứa_Thanh_Vân.md`.
+- **Tư Đồ Sát (Huyết Sa Trưởng Lão):** Trưởng lão Vạn Độc Môn chi nhánh Tây Mạc, Trúc Cơ Hậu Kỳ. Kẻ âm mưu biến Lưu Sa Phế Tích thành Huyết Trì. Sở hữu *Huyết Sa Ma Công*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Tư_Đồ_Sát.md`.
 
 ## VI. CÁC THẾ LỰC
 - **Dược Vương Cốc (Trung Thổ):**
@@ -228,8 +230,12 @@
     - [Chương 12: Thương Vụ Bạc Tỷ](Chương_Truyện/Chương_00012_Thương_Vụ_Bạc_Tỷ.md)
     - [Chương 13: Lạc Lối Trong Cát](Chương_Truyện/Chương_00013_Lạc_Lối_Trong_Cát.md)
     - [Chương 14: Sa Mạc Mê Cung](Chương_Truyện/Chương_00014_Sa_Mạc_Mê_Cung.md)
+    - [Chương 15: Bí Mật Dưới Lòng Cát](Chương_Truyện/Chương_00015_Bí_Mật_Dưới_Lòng_Cát.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 15 - Bí Mật Dưới Lòng Cát.
+- Tạo Nhân vật: Tư Đồ Sát (Huyết Sa Trưởng Lão).
+- Cập nhật Địa danh: Lưu Sa Phế Tích (Thêm Hoàng Sa Địa Cung & Sa Thạch Khôi Lỗi).
 - Viết Chương Truyện: Chương 14 - Sa Mạc Mê Cung.
 - Viết Chương Truyện: Chương 13 - Lạc Lối Trong Cát.
 - Tạo Kỳ vật: Sa Hồn (Quái vật Chương 13).

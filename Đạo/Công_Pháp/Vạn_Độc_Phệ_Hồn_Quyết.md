@@ -17,23 +17,23 @@
 ### Tầng 1: Mê Hồn (迷魂)
 Dùng độc khí để tạo ra ảo giác, khiến kẻ địch mất phương hướng, tâm thần bất định.
 > **Khẩu Quyết:**
-> 毒雾弥漫，幻象丛生。
-> *Độc vụ di mạn, huyễn tượng tùng sinh.*
-> (Sương mù độc lan tràn, ảo ảnh thi nhau nảy sinh.)
+> *   **Hán Tự:** 毒霧瀰漫，幻象叢生。
+> *   **Hán Việt:** Độc vụ di mạn, huyễn tượng tùng sinh.
+> *   **Dịch Nghĩa:** Sương mù độc lan tràn, ảo ảnh thi nhau nảy sinh.
 
 ### Tầng 2: Phệ Hồn (噬魂)
 Dùng độc để tấn công trực tiếp vào linh hồn, gây đau đớn như bị ngàn con kiến cắn xé.
 > **Khẩu Quyết:**
-> 万蛊噬心，魂飞魄散。
-> *Vạn cổ phệ tâm, hồn phi phách tán.*
-> (Vạn con cổ trùng cắn tim, hồn xiêu phách lạc.)
+> *   **Hán Tự:** 萬蠱噬心，魂飛魄散。
+> *   **Hán Việt:** Vạn cổ phệ tâm, hồn phi phách tán.
+> *   **Dịch Nghĩa:** Vạn con cổ trùng cắn tim, hồn xiêu phách lạc.
 
 ### Tầng 3: Luyện Hồn (炼魂)
 Biến linh hồn kẻ địch thành năng lượng bổ sung cho bản thân, hoặc luyện thành Độc Khôi Lỗi.
 > **Khẩu Quyết:**
-> 以毒炼魂，借尸还魂。
-> *Dĩ độc luyện hồn, tá thi hoàn hồn.*
-> (Dùng độc luyện linh hồn, mượn xác trả hồn.)
+> *   **Hán Tự:** 以毒煉魂，借屍還魂。
+> *   **Hán Việt:** Dĩ độc luyện hồn, tá thi hoàn hồn.
+> *   **Dịch Nghĩa:** Dùng độc luyện linh hồn, mượn xác trả hồn.
 
 ## IV. HỆ THỐNG CHIÊU THỨC
 

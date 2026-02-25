@@ -8,11 +8,18 @@
 - **Yêu Cầu:** Người tu luyện phải có Mộc Linh Căn tinh thuần và cảm thụ âm luật cực cao. Tâm tính phải hòa hợp với thiên nhiên.
 
 ## II. KHẨU QUYẾT (MANTRA)
-> *"Vạn vật hữu linh, thanh âm vi dẫn.
+> *   **Hán Tự:**
+> 萬物有靈，聲音為引。
+> 草木同心，天地共鳴。
+> 一曲定魂，二曲生花，三曲化神。
+> *   **Hán Việt:**
+> Vạn vật hữu linh, thanh âm vi dẫn.
 > Thảo mộc đồng tâm, thiên địa cộng hưởng.
-> Nhất khúc định hồn, nhị khúc sinh hoa, tam khúc hóa thần."*
-
-*(Dịch nghĩa: Vạn vật đều có linh hồn, âm thanh là vật dẫn dắt. Cây cỏ cùng một lòng, trời đất cùng vang vọng. Một khúc nhạc định hồn phách, hai khúc nhạc làm hoa nở, ba khúc nhạc hóa thành thần thánh.)*
+> Nhất khúc định hồn, nhị khúc sinh hoa, tam khúc hóa thần.
+> *   **Dịch Nghĩa:**
+> Vạn vật đều có linh hồn, âm thanh là vật dẫn dắt.
+> Cây cỏ cùng một lòng, trời đất cùng vang vọng.
+> Một khúc nhạc định hồn phách, hai khúc nhạc làm hoa nở, ba khúc nhạc hóa thành thần thánh.
 
 ## III. CÁC TẦNG CẢNH GIỚI (LAYERS)
 

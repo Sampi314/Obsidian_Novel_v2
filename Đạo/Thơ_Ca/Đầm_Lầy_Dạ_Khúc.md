@@ -9,15 +9,15 @@
 <!-- TODO: Thêm bản Tiếng Trung -->
 ## II. NỘI DUNG
 
-### 1. Nguyên Tác (Hán Việt)
-> *Dạ ám đầm hoang sương mãn thiên,*
-> *Tử khí trầm trầm đoạn nhân duyên.*
-> *Huyết thảo âm thầm thôn cốt nhục,*
-> *Độc trùng tịch mịch tống hoàng tuyền.*
-> *Lang hào vọng nguyệt kinh hồn phách,*
-> *Quỷ ảnh tùy hình loạn tâm điền.*
-> *Nhất nhập mê đồ vô lối thoát,*
-> *Vạn cổ sầu bi hận cửu thiên.*
+### 1. Nguyên Tác (Hán Tự & Hán Việt)
+> 夜暗潭荒霜滿天 (Dạ ám đàm hoang sương mãn thiên)
+> 死氣沉沉斷人緣 (Tử khí trầm trầm đoạn nhân duyên)
+> 血草陰沈吞骨肉 (Huyết thảo âm trầm thôn cốt nhục)
+> 毒蟲寂寞送黃泉 (Độc trùng tịch mịch tống hoàng tuyền)
+> 狼嚎望月驚魂魄 (Lang hào vọng nguyệt kinh hồn phách)
+> 鬼影隨形亂心田 (Quỷ ảnh tùy hình loạn tâm điền)
+> 一入迷途無路脫 (Nhất nhập mê đồ vô lộ thoát)
+> 萬古愁悲恨九天 (Vạn cổ sầu bi hận cửu thiên)
 
 ### 2. Dịch Thơ (Lục Bát)
 > *Đầm hoang sương phủ trắng trời,*

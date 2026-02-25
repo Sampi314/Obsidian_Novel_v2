@@ -53,9 +53,9 @@ Khi mô tả một công pháp, hãy sử dụng định dạng sau:
 
 ### 1. Tầng [Số]: [Tên Tầng - Hán Việt]
 - **Mô Tả:** [Quá trình tu luyện, trạng thái đạt được ở tầng này]
-- **Khẩu Quyết Tâm Pháp:**
+- **Khẩu Quyết Tâm Pháp:** (BẮT BUỘC PHẢI CÓ ĐỦ 3 PHẦN)
     1.  **Nguyên Văn (Trung):**
-        > [Chèn đoạn thơ/khẩu quyết tiếng Trung (Hán Văn)]
+        > [Chèn đoạn thơ/khẩu quyết tiếng Trung (Hán Văn). Nếu cần, hãy sử dụng công cụ dịch thuật để tạo ra.]
     2.  **Phiên Âm Hán Việt:**
         > [Phiên âm Hán Việt tương ứng]
     3.  **Dịch Nghĩa (Sát Nghĩa):**
