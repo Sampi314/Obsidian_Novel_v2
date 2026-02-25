@@ -27,3 +27,4 @@
 | 2024-06-08 | Tổng Quản | Tạo Nữ Hoàng Tinh Linh | Hoàn Thành | Tạo nhân vật Nguyệt Dao, công pháp Nguyệt Linh Trường Sinh Quyết, pháp bảo Nguyệt Thần Cung, thơ Nguyệt Hạ Tinh Linh. |
 | 2024-06-09 | Nhạc Sĩ Thiên Cung | Sáng tác Khúc Nhạc Mở Đầu | Hoàn Thành | Cập nhật file README, Yêu Cầu Sáng Tạo và Hồ Sơ Thế Giới. |
 | 2024-06-10 | Tổng Quản | Fix Lỗi Chủng Tộc & Thêm Nhạc | Hoàn Thành | Cập nhật Chủng_Tộc_Chính.md (đủ 10 tộc + fix link), sáng tác Tinh Linh Trường Ca. |
+| 2024-06-11 | Tổng Quản | Đồng bộ Thiên Sa Thương Hội | Hoàn Thành | Thêm thế lực vào Index (trước đó bị ẩn) và tạo nhân vật Hứa Nhược Thủy (Gia Chủ Hứa Gia). |

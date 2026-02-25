@@ -61,6 +61,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Tiêu.md`.
 - **Nguyệt Dao (Nữ Hoàng Tinh Linh):** Nữ hoàng Tinh Linh Tộc đời thứ 6, Hóa Thần Sơ Kỳ. Người bảo vệ Thần Mộc và lãnh đạo bộ tộc trong thời kỳ Huyết Độc Chi Họa. Sở hữu *Nguyệt Linh Trường Sinh Quyết* và *Nguyệt Thần Cung*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Nguyệt_Dao.md`.
+- **Hứa Nhược Thủy (Sa Dược Phu Nhân):** Gia Chủ Hứa Gia (Thiên Sa Thương Hội), Nguyên Anh Sơ Kỳ. Thương nhân thực dụng và trung lập, nắm giữ nguồn dược liệu sa mạc quan trọng cho cả Chính và Tà đạo. Sở hữu *Thủy Sa Hóa Linh Quyết*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hứa_Nhược_Thủy.md`.
 
 ## VI. CÁC THẾ LỰC
 - **Dược Vương Cốc (Trung Thổ):**
@@ -78,6 +80,9 @@
 - **Vạn Độc Môn (Nam Cương):**
     - Tông môn tà đạo hạng Nhất, chuyên dùng độc và Cổ Trùng, kẻ thù truyền kiếp của Đan Hà Cốc.
     - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Vạn_Độc_Môn.md`.
+- **Thiên Sa Thương Hội (Tây Mạc):**
+    - Liên minh thương nhân hạng Nhất, kiểm soát kinh tế Tây Mạc và giữ vị thế trung lập tuyệt đối.
+    - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Thiên_Sa_Thương_Hội.md`.
 
 ## VII. CÔNG PHÁP & BÍ KÍP
 - **Băng Tâm Quyết (Thiên Cấp Hạ Phẩm):**
