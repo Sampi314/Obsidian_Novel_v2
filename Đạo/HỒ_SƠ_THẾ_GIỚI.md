@@ -13,6 +13,7 @@
     - **Bắc Băng (Northern Ice Region):** Vùng đất băng giá vĩnh cửu, nơi ngự trị của Huyền Băng Cung và Băng Tộc. Nổi tiếng với Cực Quang và Băng Linh Khí.
     - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
+        - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
 - **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`.
 - **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
 
@@ -168,6 +169,7 @@
     - *Huyết Tướng:* Biến thể cao cấp của Huyết Thi, có trí tuệ và khả năng chỉ huy. Xem tại `Đạo/Kỳ_Vật/Huyết_Tướng.md`.
     - *Huyết Thần Độc:* Cấm kỵ cổ độc của Vạn Độc Môn, biến sinh vật thành Huyết Thi, khắc chế Mộc Linh Căn. Xem tại `Đạo/Kỳ_Vật/Huyết_Thần_Độc.md`.
     - *Huyết Độc Lang:* Sói biến dị nhiễm Huyết Thần Độc, săn mồi theo đàn. Xem tại `Đạo/Kỳ_Vật/Huyết_Độc_Lang.md`.
+    - *Tinh Linh Cổ Ngọc:* Tín vật cổ đại của Tinh Linh Tộc, có khả năng đẩy lùi chướng khí. Xem tại `Đạo/Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -203,8 +205,12 @@
     - [Chương 4: Vạn Độc Thánh Tử](Chương_Truyện/Chương_4_Vạn_Độc_Thánh_Tử.md)
     - [Chương 5: Dưới Bóng Ma Rừng Thẳm](Chương_Truyện/Chương_5_Dưới_Bóng_Ma_Rừng_Thẳm.md)
     - [Chương 6: Huyết Chiến Đầm Lầy](Chương_Truyện/Chương_6_Huyết_Chiến_Đầm_Lầy.md)
+    - [Chương 7: Dấu Vết Cổ Xưa](Chương_Truyện/Chương_7_Dấu_Vết_Cổ_Xưa.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 7 - Dấu Vết Cổ Xưa.
+- Thêm Kỳ vật: Tinh Linh Cổ Ngọc.
+- Thêm Địa danh: Phế Tích Nguyệt Quang.
 - Sáng tác thơ: Đầm Lầy Dạ Khúc.
 - Viết Chương Truyện: Chương 6 - Huyết Chiến Đầm Lầy.
 - Tạo Đầm Lầy Tử Thần (Địa điểm Chương 6).
