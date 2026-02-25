@@ -38,7 +38,7 @@
 
 ## V. NHÂN VẬT TIÊU BIỂU
 - **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*.
-- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diep_Tinh_Suong.md`.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md`.
 - **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lam_Phong.md`.
 - **Sở Lăng Sương (Băng Phách Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, trọng nghĩa. Sở hữu *Hàn Sương Kiếm Quyết*.
@@ -53,7 +53,7 @@
 ## VI. CÁC THẾ LỰC
 - **Cửu Hoa Kiếm Tông (Đông Hoang):**
     - Tông môn kiếm tu hạng Nhất, nổi tiếng với quy tắc nghiêm khắc và kiếm trận hộ sơn.
-    - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Cuu_Hoa_Kiem_Tong.md`.
+    - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Cửu_Hoa_Kiếm_Tông.md`.
 - **Đan Hà Cốc (Nam Cương):**
     - Tông môn đan đạo hạng Nhất, nằm trong miệng núi lửa, nổi tiếng với thuật luyện đan và hỏa công.
     - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Đan_Hà_Cốc.md`.
@@ -76,7 +76,7 @@
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Cửu_Chuyển_Đan_Hỏa_Quyết.md`.
 - **Cửu Hoa Kiếm Quyết (Thiên Cấp Hạ Phẩm):**
     - Công pháp trấn phái của Cửu Hoa Kiếm Tông, thiên về tốc độ và sát thương diện rộng (dạng hoa sen).
-    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Cuu_Hoa_Kiem_Quyet.md`.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Cửu_Hoa_Kiếm_Quyết.md`.
 - **Hàn Sương Kiếm Quyết (Huyền Cấp Thượng Phẩm):**
     - Công pháp hệ Băng, thiên về khống chế và làm chậm, có thể gây Hàn Độc.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Hàn_Sương_Kiếm_Quyết.md`.
@@ -92,7 +92,7 @@
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Trận Pháp:**
-    - *Cửu Hoa Tru Tiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện. Xem tại `Đạo/Trận_Pháp/Cuu_Hoa_Tru_Tien_Tran.md`.
+    - *Cửu Hoa Tru Tiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Cửu Hoa Kiếm Tông, công thủ toàn diện. Xem tại `Đạo/Trận_Pháp/Cửu_Hoa_Tru_Tiên_Trận.md`.
     - *Vạn Hỏa Phần Thiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
     - *Cửu Thiên Hàn Băng Trận (Cửu Cấp):* Trận pháp hộ sơn của Huyền Băng Cung, tạo ra bão tuyết và ảo ảnh băng giá. Xem tại `Đạo/Trận_Pháp/Cửu_Thiên_Hàn_Băng_Trận.md`.
     - *Vạn Độc Phệ Tâm Trận (Cửu Cấp):* Trận pháp hộ sơn của Vạn Độc Môn, dùng độc vụ và ảo giác giết chết kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Độc_Phệ_Tâm_Trận.md`.
@@ -156,3 +156,4 @@
 - Tạo hồ sơ quan hệ ngoại giao giữa 10 Đại Chủng Tộc (Quan_Hệ_Chủng_Tộc.md).
 - Bồi đắp chi tiết Huyền Băng Cung (Thêm Giai thoại & Bí mật).
 
+- Bồi đắp chi tiết Cửu Hoa Kiếm Tông (Thêm Giai thoại & Bí mật: Thất Lạc Kiếm Phong, Táng Kiếm Trì, Huyết Hoa Kiếm).
