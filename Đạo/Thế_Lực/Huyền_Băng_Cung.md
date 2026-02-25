@@ -45,5 +45,15 @@
 - **Đồng Minh:** Đan Hà Cốc (Trao đổi dược liệu nóng-lạnh), Cửu Hoa Kiếm Tông (Tôn trọng lẫn nhau).
 - **Kẻ Thù:** Yêu Tộc Bắc Băng (Tranh chấp lãnh thổ), Huyết Ma Tông (Tà đạo muốn chiếm đoạt huyết mạch Băng Tộc).
 
+## VII. GIAI THOẠI & BÍ MẬT
+- **Bí Mật Băng Huyền Cầm:**
+    - Tương truyền *Băng Huyền Cầm* không phải do con người chế tạo, mà được điêu khắc từ xương của một con Băng Phượng Hoàng thượng cổ đã ngã xuống tại đỉnh Tuyết Sơn. Dây đàn được làm từ gân rồng băng, mỗi lần gảy lên đều có tiếng phượng hót rồng ngâm, chấn nhiếp tâm hồn.
+- **Lời Nguyền Cấm Hỏa:**
+    - Luật lệ cấm Hỏa công pháp không chỉ để bảo vệ môi trường băng giá, mà còn vì một bí mật đáng sợ hơn: Dưới sâu lòng đất của Huyền Băng Cung là nơi phong ấn một con *Thái Cổ Hỏa Ma*. Băng khí tích tụ ngàn năm chính là xiềng xích giam giữ nó. Nếu hỏa khí quá thịnh, phong ấn sẽ yếu đi, dẫn đến thảm họa diệt môn.
+- **Hàn Băng Cấm Địa:**
+    - Nơi Lý Tuyết Ưng từng bế quan ngộ đạo suốt 100 năm. Người ta đồn rằng trong hang động đó vẫn còn lưu lại "Đạo Ngân" của nàng khắc trên vách đá. Bất kỳ đệ tử nào có duyên bước vào và chịu đựng được hàn khí thấu xương đều có cơ hội lĩnh ngộ được một phần *Băng Tâm Quyết* nguyên bản.
+- **Tuyết Liên Hoa Ngàn Năm:**
+    - Loài hoa này chỉ nở khi có một vị đại năng của Cung qua đời và hóa đạo về với thiên nhiên. Do đó, mỗi đóa Tuyết Liên Hoa nở rộ đều đánh dấu sự ra đi của một bậc tiền bối đáng kính, là dịp để toàn cung mặc niệm chứ không phải ăn mừng.
+
 > *"Nơi lạnh nhất không phải là đỉnh núi tuyết, mà là lòng người không có Đạo."*
 > — Lý Tuyết Ưng
