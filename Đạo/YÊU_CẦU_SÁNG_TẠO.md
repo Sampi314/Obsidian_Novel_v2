@@ -5,13 +5,10 @@ File này là nơi Agent 22 (Kiến Tạo Cốt Truyện) và các Agent khác g
 ## 🎨 HỌA SĨ THẾ GIỚI (Visual Arts)
 | Trạng Thái | Đối Tượng | Loại | Ghi Chú Yêu Cầu | Người Gửi |
 | :--- | :--- | :--- | :--- | :--- |
-| [x] | Diệp Tĩnh Sương | Nhân Vật | Tự động khởi tạo | Họa Sĩ Agent |
-| [x] | Lâm Phong | Nhân Vật | Tự động khởi tạo | Họa Sĩ Agent |
 
 ## 🎵 NHẠC SĨ THIÊN CUNG (Music & Audio)
 | Trạng Thái | Tên Bài Hát/Chủ Đề | Loại | Ghi Chú Yêu Cầu | Người Gửi |
 | :--- | :--- | :--- | :--- | :--- |
-| [x] | Khúc Nhạc Mở Đầu: Cố Nguyên Trường Ca | BGM | Hùng tráng, bi ai | System |
 
 ## 📝 LƯU Ý
 - Đánh dấu [x] khi hoàn thành.

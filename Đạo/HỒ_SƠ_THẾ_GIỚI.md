@@ -34,7 +34,7 @@
 - **Các Tiểu Tộc & Biến Thể:**
     - *Băng Tộc (Ice Kin):* Nhánh Nhân Tộc thích nghi với giá lạnh phương Bắc. Xem tại `Đạo/Chủng_Tộc/Tiểu_Tộc/Băng_Tộc.md`.
 - **Quan Hệ Ngoại Giao:** Xem tại `Đạo/Chủng_Tộc/Quan_Hệ_Chủng_Tộc.md`.
-- **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chung_Toc_Chinh.md`.
+- **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chủng_Tộc_Chính.md`.
 
 ## V. NHÂN VẬT TIÊU BIỂU
 - **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*.
