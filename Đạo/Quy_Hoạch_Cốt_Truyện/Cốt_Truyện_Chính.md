@@ -30,6 +30,8 @@
 - **Hành động:**
     -   Diệp Tĩnh Sương (Cửu Hoa Kiếm Tông) nhận nhiệm vụ điều tra sự mất tích của một nhóm thương buôn thuốc.
     -   Phát hiện ra "Huyết Thi" (xác chết bị điều khiển bởi máu độc).
+    -   Đụng độ Vạn Độc Thánh Tử Lệ Vô Tâm tại Thôn Lạc Diệp (Chương 4).
+    -   Diệp Tĩnh Sương và Lâm Phong trốn chạy vào Đầm Lầy Tử Thần để tránh sự truy sát của Vạn Độc Môn (Chương 5-6).
 
 ### Giai Đoạn 2: Bí Mật Dưới Lòng Đất (Chương 21-50)
 - **Sự kiện:** Diệp Thanh Y (Dược Vương Cốc) phát hiện ra chất độc không phải tự nhiên mà là Cổ Độc nhân tạo, được nuôi bằng sinh mệnh lực của rễ cây cổ thụ.

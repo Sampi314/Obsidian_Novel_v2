@@ -176,6 +176,7 @@
     - [Băng Cung Dạ Khúc](Thơ_Ca/Băng_Cung_Dạ_Khúc.md): Bài thơ về nỗi cô đơn của người tu đạo trên đỉnh Tuyết Sơn.
     - [Khúc Nhạc Rừng Xanh](Thơ_Ca/Khúc_Nhạc_Rừng_Xanh.md): Bài thơ về nỗi lòng của Tinh Linh Tộc trước cảnh rừng già bị tàn phá.
     - [Nguyệt Hạ Tinh Linh](Thơ_Ca/Nguyệt_Hạ_Tinh_Linh.md): Bài thơ về nỗi cô đơn và quyết tâm của Nữ Hoàng Nguyệt Dao.
+    - [Đầm Lầy Dạ Khúc](Thơ_Ca/Đầm_Lầy_Dạ_Khúc.md): Bài thơ về sự nguy hiểm và chết chóc của Đầm Lầy Tử Thần.
 - **Âm Nhạc:**
     - **[DANH SÁCH TÁC PHẨM (MỚI)](Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md):** Thư viện tổng hợp 100+ tác phẩm âm nhạc (bao gồm 90 bài hát mới).
     - [Khúc Nhạc Mở Đầu: Cố Nguyên Trường Ca](Âm_Nhạc/Khởi_Nguyên/Khúc_Nhạc_Mở_Đầu.md): BGM hùng tráng, bi ai mô tả thế giới.
@@ -201,8 +202,11 @@
     - [Chương 3: Bóng Ma Trong Màn Sương](Chương_Truyện/Chương_3_Bóng_Ma_Trong_Màn_Sương.md)
     - [Chương 4: Vạn Độc Thánh Tử](Chương_Truyện/Chương_4_Vạn_Độc_Thánh_Tử.md)
     - [Chương 5: Dưới Bóng Ma Rừng Thẳm](Chương_Truyện/Chương_5_Dưới_Bóng_Ma_Rừng_Thẳm.md)
+    - [Chương 6: Huyết Chiến Đầm Lầy](Chương_Truyện/Chương_6_Huyết_Chiến_Đầm_Lầy.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Sáng tác thơ: Đầm Lầy Dạ Khúc.
+- Viết Chương Truyện: Chương 6 - Huyết Chiến Đầm Lầy.
 - Tạo Đầm Lầy Tử Thần (Địa điểm Chương 6).
 - Tạo Huyết Độc Lang (Quái vật Chương 6).
 - Tạo Pháp bảo: Truy Phong Cung (Vũ khí của Lâm Phong).
