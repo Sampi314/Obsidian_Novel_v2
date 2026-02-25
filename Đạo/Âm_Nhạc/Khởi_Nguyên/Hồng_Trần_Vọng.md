@@ -27,6 +27,43 @@ Bài hát sử dụng cấu trúc **Verse-Chorus** truyền thống của Cổ P
 
 **(Intro: Tiếng Cầm rải nhẹ, từng giọt như mưa rơi trên mái hiên cũ)**
 
+### I. Nguyên Tác (Hán Tự & Hán Việt)
+
+**[Verse 1]**
+> 薄酒盡，月掛山頭 (Bạc tửu tận, nguyệt quải sơn đầu)
+> 故鄉遙，夢裡憂愁 (Cố hương dao, mộng lý ưu sầu)
+> 去時日，桃花沾衣袖 (Khứ thời nhật, đào hoa triêm y tụ)
+> 歸來期，白髮滿頭 (Quy lai kỳ, bạch phát mãn đầu)
+
+> 劍在肩，斬斷情絲 (Kiếm tại kiên, trảm đoạn tình ti)
+> 步步由，拋卻浮生 (Bộ bộ du, phao khước phù sinh)
+> 修仙路，艱難千萬里 (Tu tiên lộ, gian nan thiên vạn lý)
+> 回首望，唯見獨行 (Hồi thủ vọng, duy kiến độc hành)
+
+**[Chorus]**
+> 紅塵望，望一劫虛無 (Hồng trần vọng, vọng nhất kiếp hư vô)
+> 故人去，今已化荒蕪 (Cố nhân khứ, kim dĩ hóa hoang vu)
+> 長生丹，換得千年寂 (Trường sinh đan, hoán đắc thiên niên tịch)
+> 立高處，冷冽風霜途 (Lập cao xứ, lãnh liệt phong sương đồ)
+
+> 長生夢，或是孤寥夢 (Trường sinh mộng, hoặc thị cô liêu mộng)
+> 天地間，身若斷線鳶 (Thiên địa gian, thân nhược đoạn tuyến diên)
+> 斷紅塵，然心猶牽掛 (Đoạn hồng trần, nhiên tâm do khiên quải)
+> 一琴聲，寄風卷逍遙 (Nhất cầm thanh, ký phong quyển tiêu dao)
+
+**[Verse 2]**
+> 古城郭，苔蘚覆歸途 (Cổ thành quách, đài tiển phú quy đồ)
+> 童子聲，今已落迷津 (Đồng tử thanh, kim dĩ lạc mê tân)
+> 舊情人，已隨夫遠去 (Cựu tình nhân, dĩ tùy phu viễn khứ)
+> 唯餘我，面對舊盟誓 (Duy dư ngã, diện đối cựu minh thệ)
+
+> 大道彼，無情或有意 (Đại đạo bỉ, vô tình hoặc hữu ý)
+> 遣人去，忘卻是非事 (Khiển nhân khứ, vong khước thị phi sự)
+> 然夜深，當心魔來襲 (Nhiên dạ thâm, đương tâm ma lai tập)
+> 方知曉，凡心未忍離 (Phương tri hiểu, phàm tâm vị nhẫn ly)
+
+### II. Lời Việt
+
 **[Verse 1]**
 Rượu nhạt vơi, trăng treo đỉnh núi mờ
 Cố hương xa, nay chỉ còn trong mơ
@@ -63,10 +100,7 @@ Mới hay rằng, phàm tâm chưa nỡ đi.
 **(Bridge: Tiếng Tiêu vút lên cao vút, xé toạc màn đêm, như tiếng khóc nghẹn ngào rồi lại trầm xuống thì thầm)**
 
 **[Chorus]**
-Hồng trần vọng, vọng một kiếp hư vô
-Người năm xưa, nay đã hóa nấm mồ
-Trường sinh đan, đổi lấy ngàn năm lẻ
-Đứng trên cao, lạnh lẽo gió sương mờ.
+(Lặp lại Chorus)
 
 **[Outro]**
 (Tiếng Cầm chậm lại, từng nốt rời rạc)

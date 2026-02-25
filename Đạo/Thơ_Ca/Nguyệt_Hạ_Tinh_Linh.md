@@ -8,7 +8,17 @@
 
 ## II. NỘI DUNG
 
-### Nguyên Văn (Hán Việt)
+### 1. Nguyên Văn (Trung)
+> 萬古森林寂寞愁
+> 孤芳獨影月登樓
+> 神木凋零花淚血
+> 故鄉漂泊水東流
+> 弓張玉指驚天地
+> 箭發寒光破鬼謀
+> 願捨金身成皓月
+> 照萬里斷恩仇
+
+### 2. Phiên Âm Hán Việt
 > Vạn cổ sâm lâm tịch mịch sầu,
 > Cô phương độc ảnh nguyệt đăng lầu.
 > Thần mộc điêu linh hoa lệ huyết,
@@ -18,7 +28,7 @@
 > Nguyện xả kim thân thành hạo nguyệt,
 > Chiếu minh vạn dặm đoạn ân cừu.
 
-### Dịch Nghĩa
+### 3. Dịch Nghĩa
 > Rừng già vạn cổ buồn tĩnh mịch,
 > Bóng lẻ loi một mình trăng lên lầu cao.
 > Thần mộc tàn úa như hoa khóc da máu,

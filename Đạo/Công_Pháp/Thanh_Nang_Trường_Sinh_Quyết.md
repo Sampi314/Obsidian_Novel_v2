@@ -17,23 +17,23 @@
 ### Tầng 1: Khô Mộc Phùng Xuân (枯木逢春)
 Kích thích sinh cơ trong cơ thể, chữa lành các vết thương nội ngoại, tẩy kinh phạt tủy.
 > **Khẩu Quyết:**
-> 草木有情，春風化雨。
-> *Thảo mộc hữu tình, xuân phong hóa vũ.*
-> (Cỏ cây có tình, gió xuân hóa thành mưa.)
+> *   **Hán Tự:** 草木有情，春風化雨。
+> *   **Hán Việt:** Thảo mộc hữu tình, xuân phong hóa vũ.
+> *   **Dịch Nghĩa:** Cỏ cây có tình, gió xuân hóa thành mưa.
 
 ### Tầng 2: Vạn Vật Sinh Trưởng (萬物生長)
 Lan tỏa sinh mệnh lực ra bên ngoài, thúc đẩy sự phát triển của cây cối và chữa trị cho người khác.
 > **Khẩu Quyết:**
-> 生生不息，源遠流長。
-> *Sinh sinh bất tức, nguyên viễn lưu trường.*
-> (Sự sống không ngừng nghỉ, nguồn xa dòng dài.)
+> *   **Hán Tự:** 生生不息，源遠流長。
+> *   **Hán Việt:** Sinh sinh bất tức, nguyên viễn lưu trường.
+> *   **Dịch Nghĩa:** Sự sống không ngừng nghỉ, nguồn xa dòng dài.
 
 ### Tầng 3: Thiên Nhân Hợp Nhất (天人合一)
 Hòa mình vào thiên nhiên, mượn sức sống của trời đất để bổ sung cho bản thân, đạt đến cảnh giới trường sinh.
 > **Khẩu Quyết:**
-> 道法自然，壽與天齊。
-> *Đạo pháp tự nhiên, thọ dữ thiên tề.*
-> (Đạo tuân theo tự nhiên, tuổi thọ ngang bằng trời.)
+> *   **Hán Tự:** 道法自然，壽與天齊。
+> *   **Hán Việt:** Đạo pháp tự nhiên, thọ dữ thiên tề.
+> *   **Dịch Nghĩa:** Đạo tuân theo tự nhiên, tuổi thọ ngang bằng trời.
 
 ## IV. CÔNG DỤNG & HIỆU QUẢ
 - **Bất Tử Chi Thân (Tiểu Thành):** Chỉ cần còn một hơi thở, có thể tự hồi phục lại trạng thái đỉnh cao trong thời gian ngắn.
