@@ -118,6 +118,8 @@
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Dan_Pha_Chuong_Dan.md`.
     - *Băng Tâm Đan (Huyền Cấp Hạ Phẩm):* Giúp tĩnh tâm, giải trừ hỏa độc, tăng khả năng tu luyện hệ Băng. Xem tại `Đạo/Đan_Dược/Băng_Tâm_Đan.md`.
+    - *Hồi Nguyên Đan (Huyền Cấp Thượng Phẩm):* Phục hồi đan điền và kinh mạch bị tổn thương do tẩu hỏa nhập ma, ổn định căn cơ. Công thức gốc của Dược Vương Cốc, dẫn thuốc là Tam Sinh Huyết Lệ cực kỳ khan hiếm. Xem tại `Đạo/Đan_Dược/Hồi_Nguyên_Đan.md`.
+    - *Sa Viêm Tán (Hoàng Cấp Thượng Phẩm):* Tán dược sa mạc của Thiên Sa Thương Hội, dùng Sa Chưng Pháp bào chế. Phòng hộ sa nhiệt, tăng cường hỏa tính tu luyện, sát khuẩn vết thương. Xem tại `Đạo/Đan_Dược/Sa_Viêm_Tán.md`.
 - **Pháp Bảo:**
     - *Hàn Ngọc Kiếm (Huyền Cấp Thượng Phẩm):* Kiếm hàn băng của Sở Lăng Sương. Xem tại `Đạo/Luyện_Khí/Hàn_Ngọc_Kiếm.md`.
     - *Băng Huyền Cầm (Thiên Cấp Hạ Phẩm):* Đàn cổ làm từ băng ngàn năm, vũ khí của Lý Tuyết Ưng. Xem tại `Đạo/Luyện_Khí/Băng_Huyền_Cầm.md`.
@@ -185,3 +187,7 @@
 - Tạo công pháp mới: Thanh Nang Trường Sinh Quyết.
 - Tạo công pháp mới: Liệt Diễm Sa Công (Hỏa-Thổ, Huyền Cấp Thượng Phẩm, Tây Mạc / Thiên Sa Thương Hội).
 - Tạo công pháp mới: Thiên Cơ Toán Thuật (Đạo Vận, Thiên Cấp Hạ Phẩm, bốc toán/tiên tri phi chiến đấu).
+- Thêm mới Đan dược: Hồi Nguyên Đan (Huyền Cấp Thượng Phẩm) — phục hồi đan điền/kinh mạch, công thức Dược Vương Cốc.
+- Thêm mới Tán dược: Sa Viêm Tán (Hoàng Cấp Thượng Phẩm) — bột sa mạc của Thiên Sa Thương Hội, dùng Sa Chưng Pháp.
+- Thêm mới dược liệu: Địa Tủy Đằng, Thanh Mạch Thảo, Hồn Quy Quả, Vân Nhũ Thạch, Tam Sinh Huyết Lệ (Trung Thổ/Đông Hoang).
+- Thêm mới dược liệu sa mạc: Viêm Sa Tinh, Hỏa Tích Thảo, Khô Địa Long Giáp, Cam Lộ Diêm, Nhật Phần Trùng Thi (Tây Mạc).
