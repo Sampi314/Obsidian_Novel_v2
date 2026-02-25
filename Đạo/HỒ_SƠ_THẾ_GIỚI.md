@@ -57,6 +57,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Thanh_Y.md`.
 - **Lục Trần (Cửu Hoa Kiếm Tôn):** Tông Chủ Cửu Hoa Kiếm Tông, Hóa Thần Sơ Kỳ. Người duy nhất sống sót sau đại chiến Huyết Hoa, tính cách trầm tĩnh, đạo tâm kiên định. Sở hữu *Thanh Liên Kiếm*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Trần.md`.
+- **Lục Tiêu (Thanh Âm Sứ Giả):** Sứ Giả Tinh Linh Tộc, Kim Đan Sơ Kỳ. Đệ tử của Nữ Hoàng Nguyệt Dao, dùng tiếng sáo để giao tiếp với thiên nhiên. Sở hữu *Thanh Âm Vạn Vật Quyết* và *Ngọc Tiêu Cửu Khúc*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Tiêu.md`.
 
 ## VI. CÁC THẾ LỰC
 - **Dược Vương Cốc (Trung Thổ):**
@@ -109,6 +111,9 @@
 - **Thiên Cơ Toán Thuật (Thiên Cấp Hạ Phẩm):**
     - Công pháp bốc toán thất truyền từ Thái Cổ, dùng thần thức để dự đoán tương lai, phá giải trận pháp, và đọc mệnh vận. Phi chiến đấu, cực kỳ hiếm.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Thiên_Cơ_Toán_Thuật.md`.
+- **Thanh Âm Vạn Vật Quyết (Thiên Cấp Hạ Phẩm):**
+    - Công pháp Tinh Linh Tộc kết hợp Âm Luật và Mộc Linh, dùng tiếng tiêu điều khiển thực vật và chữa trị.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Thanh_Âm_Vạn_Vật_Quyết.md`.
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Trận Pháp:**
@@ -128,6 +133,7 @@
     - *Mộc Linh Trượng (Pháp Bảo Cực Phẩm):* Trượng gỗ Cửu Thiên Linh Mộc của Diệp Thanh Y, khuếch đại mộc thuật và hồi phục sinh mệnh. Xem tại `Đạo/Luyện_Khí/Mộc_Linh_Trượng.md`.
     - *Thanh Liên Kiếm (Thiên Cấp Hạ Phẩm):* Kiếm bản mệnh của Lục Trần, rèn từ thân sen ngàn năm, kiếm khí như hoa sen nở rộ. Xem tại `Đạo/Luyện_Khí/Thanh_Liên_Kiếm.md`.
     - *Băng Phong Phù (Cấp 3):* Phù lục phong ấn mục tiêu trong băng. Xem tại `Đạo/Phù_Lục/Băng_Phong_Phù.md`.
+    - *Ngọc Tiêu Cửu Khúc (Pháp Bảo Cực Phẩm):* Sáo ngọc làm từ Thần Mộc, vũ khí của Lục Tiêu, khuếch đại âm luật và điều khiển thực vật. Xem tại `Đạo/Luyện_Khí/Ngọc_Tiêu_Cửu_Khúc.md`.
 - **Kỳ Vật:**
     - *Hỏa Linh Thảo:* Thảo dược hệ Hỏa, mọc ở nơi hỏa khí nồng đậm. Xem tại `Đạo/Kỳ_Vật/Hỏa_Linh_Thảo.md`.
     - *Hàn Ngọc:* Khoáng thạch hệ Băng, dùng luyện khí và tu luyện. Xem tại `Đạo/Kỳ_Vật/Hàn_Ngọc.md`.
@@ -139,6 +145,7 @@
     - [Hàn Mai Kiếm Ca](Thơ_Ca/Hàn_Mai_Kiếm_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
     - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
     - [Băng Cung Dạ Khúc](Thơ_Ca/Băng_Cung_Dạ_Khúc.md): Bài thơ về nỗi cô đơn của người tu đạo trên đỉnh Tuyết Sơn.
+    - [Khúc Nhạc Rừng Xanh](Thơ_Ca/Khúc_Nhạc_Rừng_Xanh.md): Bài thơ về nỗi lòng của Tinh Linh Tộc trước cảnh rừng già bị tàn phá.
 - **Âm Nhạc:**
     - **[DANH SÁCH TÁC PHẨM (MỚI)](Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md):** Thư viện tổng hợp 100+ tác phẩm âm nhạc (bao gồm 90 bài hát mới).
     - [Hỗn Độn Ca](Âm_Nhạc/Hồng_Hoang/Hỗn_Độn_Ca.md): Khúc ca cổ về thuở khai thiên lập địa.
@@ -205,3 +212,7 @@
 - Tạo nhân vật: Lục Trần (Cửu Hoa Kiếm Tôn).
 - Tạo Pháp bảo: Thanh Liên Kiếm (Vũ khí của Lục Trần).
 - Cập nhật hồ sơ Cửu Hoa Kiếm Tông (Link Tông Chủ).
+- Tạo nhân vật: Lục Tiêu (Sứ Giả Tinh Linh).
+- Tạo công pháp: Thanh Âm Vạn Vật Quyết (Tinh Linh Tộc).
+- Tạo Pháp bảo: Ngọc Tiêu Cửu Khúc (Vũ khí của Lục Tiêu).
+- Sáng tác thơ: Khúc Nhạc Rừng Xanh.
