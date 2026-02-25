@@ -17,6 +17,7 @@
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
     - **Tây Mạc (Western Desert):** Vùng sa mạc khắc nghiệt phía Tây, nơi ngự trị của Thiên Sa Thương Hội.
         - *Lưu Sa Phế Tích:* Di tích cổ đại đầy cạm bẫy và ảo ảnh. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md`.
+        - *Hắc Sa Bão:* Hiện tượng thiên nhiên tàn khốc đặc trưng của Tây Mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hắc_Sa_Bão.md`.
 - **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`.
 - **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
 
@@ -93,6 +94,9 @@
 - **Thiên Sa Thương Hội (Tây Mạc):**
     - Liên minh thương nhân hạng Nhất, kiểm soát kinh tế Tây Mạc và giữ vị thế trung lập tuyệt đối.
     - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Thiên_Sa_Thương_Hội.md`.
+- **Sa Tặc Liên Minh (Tây Mạc):**
+    - Thế lực tà đạo chuyên cướp bóc và buôn lậu, đối trọng với Thiên Sa Thương Hội.
+    - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Sa_Tặc_Liên_Minh.md`.
 
 ## VII. CÔNG PHÁP & BÍ KÍP
 - **Băng Tâm Quyết (Thiên Cấp Hạ Phẩm):**
@@ -178,6 +182,7 @@
     - *Huyết Đằng:* Dây leo hút máu, vật liệu chế tạo Truy Phong Cung. Xem tại `Đạo/Kỳ_Vật/Huyết_Đằng.md`.
     - *Nguyệt Quang Thảo:* Linh thảo hấp thụ ánh trăng, có khả năng thanh lọc độc tố. Xem tại `Đạo/Kỳ_Vật/Nguyệt_Quang_Thảo.md`.
     - *Độc Long Tích:* Thằn lằn độc khổng lồ sống tại Núi Độc Long, có vảy đá và máu độc. Xem tại `Đạo/Kỳ_Vật/Độc_Long_Tích.md`.
+    - *Sa Sương:* Tinh thể băng kết tinh vào đêm sa mạc, dùng để chế thuốc giải hỏa độc. Xem tại `Đạo/Kỳ_Vật/Sa_Sương.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
