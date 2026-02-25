@@ -14,6 +14,7 @@
     - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
+        - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
 - **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`.
 - **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
 
@@ -209,8 +210,11 @@
     - [Chương 6: Huyết Chiến Đầm Lầy](Chương_Truyện/Chương_6_Huyết_Chiến_Đầm_Lầy.md)
     - [Chương 7: Dấu Vết Cổ Xưa](Chương_Truyện/Chương_7_Dấu_Vết_Cổ_Xưa.md)
     - [Chương 8: Huyết Tướng Truy Sát](Chương_Truyện/Chương_8_Huyết_Tướng_Truy_Sát.md)
+    - [Chương 9: Núi Độc Long](Chương_Truyện/Chương_9_Núi_Độc_Long.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 9 - Núi Độc Long.
+- Tạo Địa danh: Núi Độc Long.
 - Viết Chương Truyện: Chương 8 - Huyết Tướng Truy Sát.
 - Tạo Kỳ vật: Huyết Đằng.
 - Tạo Kỳ vật: Nguyệt Quang Thảo.

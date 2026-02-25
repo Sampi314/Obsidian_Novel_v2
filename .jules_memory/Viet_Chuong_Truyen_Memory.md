@@ -7,3 +7,9 @@
 - **Vật phẩm:** Tinh Linh Cổ Ngọc.
 - **Địa điểm:** Phế Tích Nguyệt Quang.
 - **Tiến độ Arc:** Giai đoạn 1 - Dấu Hiệu Tai Ương (Đang trốn chạy).
+
+## [2024-06-22] Chương 9: Núi Độc Long
+- **Nội dung:** Diệp Tĩnh Sương và Lâm Phong đến Núi Độc Long. Chứng kiến đoàn xe cứu trợ Dược Vương Cốc (trá hình Thiên Sa Thương Hội) bị Vạn Độc Môn phục kích.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Đệ tử Vạn Độc Môn, Hộ vệ Thiên Sa.
+- **Địa điểm:** Núi Độc Long.
+- **Tiến độ Arc:** Chuyển giao sang Giai đoạn 2 (Bí Mật Dưới Lòng Đất/Cứu Trợ).

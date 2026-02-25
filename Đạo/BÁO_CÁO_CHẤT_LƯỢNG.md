@@ -39,3 +39,4 @@
 | 2024-06-19 | Tổng Quản | Viết Chương 6 & Sáng tác Thơ Đầm Lầy | Hoàn Thành | Viết Chương 6, sáng tác thơ cổ phong, cập nhật cốt truyện và hồ sơ thế giới. |
 | 2024-06-20 | Tổng Quản | Viết Chương 7 & Tạo Phế Tích | Hoàn Thành | Viết Chương 7, tạo Phế Tích Nguyệt Quang và Tinh Linh Cổ Ngọc. |
 | 2024-06-21 | Tổng Quản | Viết Chương 8 & Tạo Huyết Đằng | Hoàn Thành | Viết Chương 8, tạo Kỳ vật Huyết Đằng & Nguyệt Quang Thảo, Prompt Rừng Huyết Độc. |
+| 2024-06-22 | Tổng Quản | Viết Chương 9 & Tạo Núi Độc Long | Hoàn Thành | Viết Chương 9, tạo địa danh Núi Độc Long. |

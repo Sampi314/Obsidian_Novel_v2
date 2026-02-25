@@ -37,3 +37,7 @@
     - Sa Tộc chưa có file riêng trong thư mục Chủng_Tộc/Tiểu_Tộc/ (tương tự Băng Tộc).
     - Công pháp Hoàng Sa Quyết chưa có file chi tiết.
     - NIÊN_BIỂU_CHÍNH.md cần bổ sung các mốc lịch sử Tây Mạc (năm 60.000, 70.000, 75.000).
+
+#### 3. Nam Cương - Tây Mạc (Biên Giới)
+- **File:** `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`
+- **Nội Dung:** Dãy núi biên giới, môi trường khắc nghiệt, hang động Huyết Tinh, Độc Long Tích.
