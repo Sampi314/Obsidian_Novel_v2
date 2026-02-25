@@ -32,6 +32,10 @@
     -   Phát hiện ra "Huyết Thi" (xác chết bị điều khiển bởi máu độc).
     -   Đụng độ Vạn Độc Thánh Tử Lệ Vô Tâm tại Thôn Lạc Diệp (Chương 4).
     -   Diệp Tĩnh Sương và Lâm Phong trốn chạy vào Đầm Lầy Tử Thần để tránh sự truy sát của Vạn Độc Môn (Chương 5-6).
+    -   Khám phá Phế Tích Nguyệt Quang và tìm thấy Tinh Linh Cổ Ngọc (Chương 7).
+    -   Bị Huyết Tướng truy sát, chạy đến Núi Độc Long và chứng kiến âm mưu vận chuyển của Vạn Độc Môn (Chương 8-10).
+    -   Tiến vào Tây Mạc, hợp tác với Thiên Sa Thương Hội để tìm kiếm Hứa Thanh Vân tại Lưu Sa Phế Tích (Chương 11-13).
+    -   Khám phá bí mật dưới lòng đất Hoàng Sa Quốc, giải cứu Hứa Thanh Vân và phát hiện manh mối về Huyết Trì (Chương 14).
 
 ### Giai Đoạn 2: Bí Mật Dưới Lòng Đất (Chương 21-50)
 - **Sự kiện:** Diệp Thanh Y (Dược Vương Cốc) phát hiện ra chất độc không phải tự nhiên mà là Cổ Độc nhân tạo, được nuôi bằng sinh mệnh lực của rễ cây cổ thụ.

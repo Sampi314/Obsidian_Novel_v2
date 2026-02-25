@@ -227,8 +227,10 @@
     - [Chương 11: Bão Cát Tây Mạc](Chương_Truyện/Chương_11_Bão_Cát_Tây_Mạc.md)
     - [Chương 12: Thương Vụ Bạc Tỷ](Chương_Truyện/Chương_12_Thương_Vụ_Bạc_Tỷ.md)
     - [Chương 13: Lạc Lối Trong Cát](Chương_Truyện/Chương_13_Lạc_Lối_Trong_Cát.md)
+    - [Chương 14: Sa Mạc Mê Cung](Chương_Truyện/Chương_14_Sa_Mạc_Mê_Cung.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 14 - Sa Mạc Mê Cung.
 - Viết Chương Truyện: Chương 13 - Lạc Lối Trong Cát.
 - Tạo Kỳ vật: Sa Hồn (Quái vật Chương 13).
 - Viết Chương Truyện: Chương 12 - Thương Vụ Bạc Tỷ.
