@@ -49,3 +49,5 @@
 | 2024-06-28 | Tổng Quản | Viết Chương 14 & Cập Nhật Lore | Hoàn Thành | Viết Chương 14 (Sa Mạc Mê Cung) và cập nhật cốt truyện. |
 | 2024-06-29 | Tổng Quản | Viết Chương 15 & Tạo Hoàng Sa Địa Cung | Hoàn Thành | Viết Chương 15 (Bí Mật Hoàng Sa), tạo Địa danh Hoàng Sa Địa Cung và Kỳ vật Long Cốt. |
 | 2024-06-30 | Tổng Quản | Viết Chương 16 & Tạo Ốc Đảo Thanh Lương | Hoàn Thành | Viết Chương 16 (Trở Về Cát Bụi), tạo địa danh Ốc Đảo Thanh Lương. |
+| 2024-07-01 | Tổng Quản | Tạo Trạm Dừng Chân Số 7 | Hoàn Thành | Tạo địa danh chi tiết phục vụ Chương 17. |
+| 2024-07-01 | Tổng Quản | Viết Chương 17 & Mở Arc Mới | Hoàn Thành | Viết Chương 17 (Mưu Đồ Bóng Tối), bắt đầu cao trào tại Trạm Dừng Chân. |
