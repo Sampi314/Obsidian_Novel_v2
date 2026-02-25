@@ -11,6 +11,8 @@
     - Trung Tâm: Thiên Trụ Sơn.
     - Tứ Phương: Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
     - **Bắc Băng (Northern Ice Region):** Vùng đất băng giá vĩnh cửu, nơi ngự trị của Huyền Băng Cung và Băng Tộc. Nổi tiếng với Cực Quang và Băng Linh Khí.
+    - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc.
+        - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
 - **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`.
 - **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
 
@@ -165,6 +167,7 @@
     - *Huyết Thi:* Sinh vật bị nhiễm độc biến thành quái vật khát máu. Xem tại `Đạo/Kỳ_Vật/Huyết_Thi.md`.
     - *Huyết Tướng:* Biến thể cao cấp của Huyết Thi, có trí tuệ và khả năng chỉ huy. Xem tại `Đạo/Kỳ_Vật/Huyết_Tướng.md`.
     - *Huyết Thần Độc:* Cấm kỵ cổ độc của Vạn Độc Môn, biến sinh vật thành Huyết Thi, khắc chế Mộc Linh Căn. Xem tại `Đạo/Kỳ_Vật/Huyết_Thần_Độc.md`.
+    - *Huyết Độc Lang:* Sói biến dị nhiễm Huyết Thần Độc, săn mồi theo đàn. Xem tại `Đạo/Kỳ_Vật/Huyết_Độc_Lang.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -200,6 +203,8 @@
     - [Chương 5: Dưới Bóng Ma Rừng Thẳm](Chương_Truyện/Chương_5_Dưới_Bóng_Ma_Rừng_Thẳm.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Tạo Đầm Lầy Tử Thần (Địa điểm Chương 6).
+- Tạo Huyết Độc Lang (Quái vật Chương 6).
 - Tạo Pháp bảo: Truy Phong Cung (Vũ khí của Lâm Phong).
 - Viết Chương Truyện: Chương 5 - Dưới Bóng Ma Rừng Thẳm.
 - Khởi tạo Cốt Truyện Chính: Huyết Độc Chi Họa.
