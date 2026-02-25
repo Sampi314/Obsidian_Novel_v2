@@ -19,3 +19,4 @@
 | 2024-06-01 | Tổng Quản | Tạo Dược Vương Cốc | Hoàn Thành | Tạo Thế lực, Nhân vật (Diệp Thanh Y) & Công pháp (Thanh Nang). |
 | 2024-06-02 | Tổng Quản | Tạo Vạn Mộc Hồi Xuân Trận | Hoàn Thành | Trận pháp hộ sơn của Dược Vương Cốc. |
 | 2024-06-03 | Họa Sĩ Thế Giới | Khởi tạo Visual Assets & Prompt | Hoàn Thành | Đã tạo cấu trúc Đạo/Ảnh, Yêu Cầu Sáng Tạo và Prompt cho Diệp Tĩnh Sương, Lâm Phong. |
+| 2024-06-04 | Luyện Khí Sư | Tạo Pháp Bảo Mộc Linh Trượng | Hoàn Thành | Tạo pháp bảo bản mệnh cho Diệp Thanh Y và cập nhật Hồ Sơ Thế Giới. |

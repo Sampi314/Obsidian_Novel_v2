@@ -115,6 +115,7 @@
 - **Pháp Bảo:**
     - *Hàn Ngọc Kiếm (Huyền Cấp Thượng Phẩm):* Kiếm hàn băng của Sở Lăng Sương. Xem tại `Đạo/Luyện_Khí/Hàn_Ngọc_Kiếm.md`.
     - *Băng Huyền Cầm (Thiên Cấp Hạ Phẩm):* Đàn cổ làm từ băng ngàn năm, vũ khí của Lý Tuyết Ưng. Xem tại `Đạo/Luyện_Khí/Băng_Huyền_Cầm.md`.
+    - *Mộc Linh Trượng (Pháp Bảo Cực Phẩm):* Cây gậy làm từ cành Cửu Thiên Linh Mộc, tăng cường Mộc pháp gấp 5 lần. Xem tại `Đạo/Luyện_Khí/Mộc_Linh_Trượng.md`.
     - *Băng Phong Phù (Cấp 3):* Phù lục phong ấn mục tiêu trong băng. Xem tại `Đạo/Phù_Lục/Băng_Phong_Phù.md`.
 - **Kỳ Vật:**
     - *Hỏa Linh Thảo:* Thảo dược hệ Hỏa, mọc ở nơi hỏa khí nồng đậm. Xem tại `Đạo/Kỳ_Vật/Hỏa_Linh_Thảo.md`.
@@ -177,3 +178,4 @@
 - Tạo thế lực mới: Dược Vương Cốc (Trung Thổ).
 - Tạo nhân vật Diệp Thanh Y (Cốc Chủ Dược Vương Cốc).
 - Tạo công pháp mới: Thanh Nang Trường Sinh Quyết.
+- Tạo pháp bảo mới: Mộc Linh Trượng.
