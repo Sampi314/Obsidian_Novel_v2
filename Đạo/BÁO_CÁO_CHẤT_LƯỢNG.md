@@ -22,3 +22,4 @@
 | 2024-06-03 | Họa Sĩ Thế Giới | Khởi tạo Visual Assets & Prompt | Hoàn Thành | Đã tạo cấu trúc Đạo/Ảnh, Yêu Cầu Sáng Tạo và Prompt cho Diệp Tĩnh Sương, Lâm Phong. |
 | 2024-06-04 | Luyện Khí Sư | Tạo Pháp Bảo Mộc Linh Trượng | Hoàn Thành | Tạo pháp bảo bản mệnh cho Diệp Thanh Y và cập nhật Hồ Sơ Thế Giới. |
 | 2024-06-05 | Kiến Tạo Cốt Truyện | Khởi tạo Cốt Truyện Chính (Huyết Độc Chi Họa) | Hoàn Thành | Đã tạo file Cốt_Truyện_Chính.md và cập nhật Hồ Sơ Thế Giới. |
+| 2024-06-06 | Tổng Quản | Tạo Cửu Hoa Kiếm Tôn | Hoàn Thành | Tạo nhân vật Lục Trần và pháp bảo Thanh Liên Kiếm. Cập nhật hồ sơ Cửu Hoa Kiếm Tông. |

@@ -90,7 +90,7 @@ def extract_character_info(filepath):
     race = extract_field(r'-\s*\*\*Chủng Tộc:\*\*\s*(.+)', content)
 
     # Realm (Cultivation Level)
-    realm = extract_field(r'-\s*\*\*Cảnh Giới:\*\*\s*(.+)', content)
+    realm = extract_field(r'-\s*\*\*(?:Cảnh Giới|Tu Vi):\*\*\s*(.+)', content)
 
     return {
         "filename": filename,

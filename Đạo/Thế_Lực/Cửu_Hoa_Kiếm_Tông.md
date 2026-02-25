@@ -5,7 +5,7 @@
 - **Loại Hình:** Tông Môn (Chính Đạo).
 - **Cấp Bậc:** Hạng Nhất (Thế lực hàng đầu tại Đông Hoang).
 - **Trụ Sở:** Cửu Hoa Sơn (Nine Flowers Mountain).
-- **Người Đứng Đầu:** Tông Chủ - Cửu Hoa Kiếm Tôn (Hóa Thần Sơ Kỳ).
+- **Người Đứng Đầu:** Tông Chủ - [Cửu Hoa Kiếm Tôn (Lục Trần)](../Nhân_Vật/Lục_Trần.md) (Hóa Thần Sơ Kỳ).
 
 ## II. ĐỊA LÝ & TÀI NGUYÊN
 - **Vị Trí:** Tọa lạc tại phía Đông của Cố Nguyên Lục Địa (thuộc vùng Đông Hoang).

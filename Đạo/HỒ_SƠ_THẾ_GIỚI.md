@@ -55,6 +55,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Độc_Cô_Lão_Quái.md`.
 - **Diệp Thanh Y (Dược Tôn):** Cốc Chủ Dược Vương Cốc, Hóa Thần Sơ Kỳ. Một trong Tam Đại Thần Y, tính cách nhân hậu nhưng cương quyết với cái ác. Sở hữu *Thanh Nang Trường Sinh Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Thanh_Y.md`.
+- **Lục Trần (Cửu Hoa Kiếm Tôn):** Tông Chủ Cửu Hoa Kiếm Tông, Hóa Thần Sơ Kỳ. Người duy nhất sống sót sau đại chiến Huyết Hoa, tính cách trầm tĩnh, đạo tâm kiên định. Sở hữu *Thanh Liên Kiếm*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Trần.md`.
 
 ## VI. CÁC THẾ LỰC
 - **Dược Vương Cốc (Trung Thổ):**
@@ -123,9 +125,9 @@
 - **Pháp Bảo:**
     - *Hàn Ngọc Kiếm (Huyền Cấp Thượng Phẩm):* Kiếm hàn băng của Sở Lăng Sương. Xem tại `Đạo/Luyện_Khí/Hàn_Ngọc_Kiếm.md`.
     - *Băng Huyền Cầm (Thiên Cấp Hạ Phẩm):* Đàn cổ làm từ băng ngàn năm, vũ khí của Lý Tuyết Ưng. Xem tại `Đạo/Luyện_Khí/Băng_Huyền_Cầm.md`.
-    - *Mộc Linh Trượng (Pháp Bảo Cực Phẩm):* Cây gậy làm từ cành Cửu Thiên Linh Mộc, tăng cường Mộc pháp gấp 5 lần. Xem tại `Đạo/Luyện_Khí/Mộc_Linh_Trượng.md`.
-    - *Băng Phong Phù (Cấp 3):* Phù lục phong ấn mục tiêu trong băng. Xem tại `Đạo/Phù_Lục/Băng_Phong_Phù.md`.
     - *Mộc Linh Trượng (Pháp Bảo Cực Phẩm):* Trượng gỗ Cửu Thiên Linh Mộc của Diệp Thanh Y, khuếch đại mộc thuật và hồi phục sinh mệnh. Xem tại `Đạo/Luyện_Khí/Mộc_Linh_Trượng.md`.
+    - *Thanh Liên Kiếm (Thiên Cấp Hạ Phẩm):* Kiếm bản mệnh của Lục Trần, rèn từ thân sen ngàn năm, kiếm khí như hoa sen nở rộ. Xem tại `Đạo/Luyện_Khí/Thanh_Liên_Kiếm.md`.
+    - *Băng Phong Phù (Cấp 3):* Phù lục phong ấn mục tiêu trong băng. Xem tại `Đạo/Phù_Lục/Băng_Phong_Phù.md`.
 - **Kỳ Vật:**
     - *Hỏa Linh Thảo:* Thảo dược hệ Hỏa, mọc ở nơi hỏa khí nồng đậm. Xem tại `Đạo/Kỳ_Vật/Hỏa_Linh_Thảo.md`.
     - *Hàn Ngọc:* Khoáng thạch hệ Băng, dùng luyện khí và tu luyện. Xem tại `Đạo/Kỳ_Vật/Hàn_Ngọc.md`.
@@ -199,5 +201,7 @@
 - Thêm mới Tán dược: Sa Viêm Tán (Hoàng Cấp Thượng Phẩm) — bột sa mạc của Thiên Sa Thương Hội, dùng Sa Chưng Pháp.
 - Thêm mới dược liệu: Địa Tủy Đằng, Thanh Mạch Thảo, Hồn Quy Quả, Vân Nhũ Thạch, Tam Sinh Huyết Lệ (Trung Thổ/Đông Hoang).
 - Thêm mới dược liệu sa mạc: Viêm Sa Tinh, Hỏa Tích Thảo, Khô Địa Long Giáp, Cam Lộ Diêm, Nhật Phần Trùng Thi (Tây Mạc).
-- Tạo pháp bảo mới: Mộc Linh Trượng.
 - Tạo Pháp bảo: Mộc Linh Trượng (Vũ khí của Diệp Thanh Y).
+- Tạo nhân vật: Lục Trần (Cửu Hoa Kiếm Tôn).
+- Tạo Pháp bảo: Thanh Liên Kiếm (Vũ khí của Lục Trần).
+- Cập nhật hồ sơ Cửu Hoa Kiếm Tông (Link Tông Chủ).
