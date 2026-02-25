@@ -148,7 +148,13 @@
     - [Ma Tâm](Âm_Nhạc/Ma_Tâm.md): Khúc ca đen tối về sự sa ngã vào Ma đạo.
     - [Tuyết Sơn Ngâm](Âm_Nhạc/Khởi_Nguyên/Tuyết_Sơn_Ngâm.md): Khúc ca cổ phong về sự cô độc và đạo tâm kiên định giữa bão tuyết.
 
-## X. CẬP NHẬT GẦN NHẤT
+## X. CỐT TRUYỆN CHÍNH
+- **Huyết Độc Chi Họa (Giai đoạn hiện tại):**
+    - Đại chiến khu vực Nam Cương giữa Vạn Độc Môn và Liên minh Dược Vương Cốc - Tinh Linh Tộc - Đan Hà Cốc - Cửu Hoa Kiếm Tông.
+    - **Chi Tiết:** Xem tại `Đạo/Quy_Hoạch_Cốt_Truyện/Cốt_Truyện_Chính.md`.
+
+## XI. CẬP NHẬT GẦN NHẤT
+- Khởi tạo Cốt Truyện Chính: Huyết Độc Chi Họa.
 - Khởi tạo Bản đồ sơ bộ.
 - Thiết lập Hệ thống cảnh giới.
 - Phác thảo 9 Chủng tộc chính.

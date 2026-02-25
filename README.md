@@ -63,8 +63,10 @@ Tùy thuộc vào nhiệm vụ của bạn, hãy tham khảo hướng dẫn chi 
 | CỬU CHUYỂN ĐAN HỎA QUYẾT (九轉丹火訣) | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Hóa Thần Cảnh). | Hỏa (Chủ đạo), Mộc (Hỗ trợ sinh cơ cho lửa). | [Xem Chi Tiết](Đạo/Công_Pháp/Cửu_Chuyển_Đan_Hỏa_Quyết.md) |
 | CỬU HOA KIẾM QUYẾT (九花劍訣) | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Hóa Thần Cảnh). | Kim (Chủ đạo), Mộc (Hỗ trợ). | [Xem Chi Tiết](Đạo/Công_Pháp/Cửu_Hoa_Kiếm_Quyết.md) |
 | HÀN SƯƠNG KIẾM QUYẾT (寒霜劍訣) | Huyền Cấp Thượng Phẩm. | Băng (Hàn). | [Xem Chi Tiết](Đạo/Công_Pháp/Hàn_Sương_Kiếm_Quyết.md) |
+| LIỆT DIỄM SA CÔNG (烈焰沙功) | Huyền Cấp Thượng Phẩm (Có thể tu luyện đến Kim Đan Cảnh). | Hỏa (Chủ đạo) + Thổ (Phụ trợ). | [Xem Chi Tiết](Đạo/Công_Pháp/Liệt_Diễm_Sa_Công.md) |
 | LÃNH PHONG KIẾM QUYẾT (冷風劍訣) | Huyền Cấp Thượng Phẩm. | Phong (Gió) kết hợp Hàn (Lạnh). | [Xem Chi Tiết](Đạo/Công_Pháp/Lãnh_Phong_Kiếm_Quyết.md) |
 | THANH NANG TRƯỜNG SINH QUYẾT (青囊長生訣) | Thiên Cấp Trung Phẩm. | Mộc (Wood) / Sinh Mệnh (Life). | [Xem Chi Tiết](Đạo/Công_Pháp/Thanh_Nang_Trường_Sinh_Quyết.md) |
+| THIÊN CƠ TOÁN THUẬT (天機算術) | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Nguyên Anh Cảnh). | Không thuộc tính nguyên tố cụ thể — thuộc về "Đạo Vận" (Vận Mệnh / Nhân Quả). | [Xem Chi Tiết](Đạo/Công_Pháp/Thiên_Cơ_Toán_Thuật.md) |
 | THIÊN ÂM BĂNG PHÁCH (天音冰魄) | Thiên Cấp Hạ Phẩm (Đi kèm với Băng Tâm Quyết). | Âm (Sound) kết hợp Hàn (Ice). | [Xem Chi Tiết](Đạo/Công_Pháp/Thiên_Âm_Băng_Phách.md) |
 | TÀN NGUYỆT KIẾM QUYẾT (殘月劍訣) | Huyền Cấp Trung Phẩm (Vốn là Địa Cấp nhưng bị thất truyền một phần quan trọng). | Hàn / Băng. | [Xem Chi Tiết](Đạo/Công_Pháp/Tàn_Nguyệt_Kiếm_Quyết.md) |
 | VẠN ĐỘC CHÂN KINH (万毒真经) | Thiên Cấp Hạ Phẩm (Có thể tiến hóa nếu hấp thụ đủ kỳ độc). | Độc (Poison) / Âm (Yin). | [Xem Chi Tiết](Đạo/Công_Pháp/Vạn_Độc_Chân_Kinh.md) |
