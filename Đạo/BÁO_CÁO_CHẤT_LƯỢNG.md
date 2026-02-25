@@ -29,3 +29,4 @@
 | 2024-06-10 | Tổng Quản | Fix Lỗi Chủng Tộc & Thêm Nhạc | Hoàn Thành | Cập nhật Chủng_Tộc_Chính.md (đủ 10 tộc + fix link), sáng tác Tinh Linh Trường Ca. |
 | 2024-06-11 | Tổng Quản | Đồng bộ Thiên Sa Thương Hội | Hoàn Thành | Thêm thế lực vào Index (trước đó bị ẩn) và tạo nhân vật Hứa Nhược Thủy (Gia Chủ Hứa Gia). |
 | 2024-06-12 | Tổng Quản | Tạo Vạn Độc Thánh Tử | Hoàn Thành | Tạo nhân vật Lệ Vô Tâm và sáng tác Vạn Độc Ca. Cập nhật cốt truyện chính. |
+| 2024-06-13 | Tổng Quản | Tạo Bộ Pháp Bảo Lệ Vô Tâm | Hoàn Thành | Tạo Huyết Độc Phiến, Thiên Tinh Cổ, Vạn Độc Phệ Hồn Quyết. |

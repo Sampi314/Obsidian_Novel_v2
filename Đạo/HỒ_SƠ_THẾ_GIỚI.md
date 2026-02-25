@@ -17,7 +17,7 @@
 ## III. HỆ THỐNG TU LUYỆN
 - **Cảnh Giới:** Luyện Khí → Trúc Cơ → Kim Đan → Nguyên Anh → Hóa Thần → Luyện Hư → Hợp Thể → Đại Thừa → Độ Kiếp.
 - **Đặc Trưng:** Nghịch thiên cải mệnh, càng lên cao càng gian nan, mỗi bước đều phải trả giá.
-- **Chi Tiết:** Xem tại `Đạo/Tu_Luyện/He_Thong_Canh_Gioi.md`.
+- **Chi Tiết:** Xem tại `Đạo/Tu_Luyện/Hệ_Thống_Cảnh_Giới.md`.
 
 ## IV. CHỦNG TỘC
 - **10 Đại Chủng Tộc (Kỷ Nguyên Khởi Nguyên):**
@@ -111,6 +111,9 @@
 - **Vạn Độc Chân Kinh (Thiên Cấp Hạ Phẩm):**
     - Công pháp trấn phái của Vạn Độc Môn, hấp thụ vạn loại độc dược để luyện thành độc thể.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Vạn_Độc_Chân_Kinh.md`.
+- **Vạn Độc Phệ Hồn Quyết (Thiên Cấp Hạ Phẩm):**
+    - Nhánh tà đạo của Vạn Độc Môn, thiên về tấn công linh hồn và ảo giác.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Vạn_Độc_Phệ_Hồn_Quyết.md`.
 - **Thanh Nang Trường Sinh Quyết (Thiên Cấp Trung Phẩm):**
     - Công pháp trấn phái của Dược Vương Cốc, chuyên về hồi phục sinh mệnh và điều khiển thảo mộc.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Thanh_Nang_Trường_Sinh_Quyết.md`.
@@ -135,7 +138,7 @@
     - *Vạn Độc Phệ Tâm Trận (Cửu Cấp):* Trận pháp hộ sơn của Vạn Độc Môn, dùng độc vụ và ảo giác giết chết kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Độc_Phệ_Tâm_Trận.md`.
     - *Vạn Mộc Hồi Xuân Trận (Cửu Cấp):* Trận pháp hộ sơn của Dược Vương Cốc, biến cây cối thành chiến binh và hồi phục linh lực vô tận. Xem tại `Đạo/Trận_Pháp/Vạn_Mộc_Hồi_Xuân_Trận.md`.
 - **Đan Dược:**
-    - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Dan_Pha_Chuong_Dan.md`.
+    - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Đan_Phá_Chướng_Đan.md`.
     - *Băng Tâm Đan (Huyền Cấp Hạ Phẩm):* Giúp tĩnh tâm, giải trừ hỏa độc, tăng khả năng tu luyện hệ Băng. Xem tại `Đạo/Đan_Dược/Băng_Tâm_Đan.md`.
     - *Hồi Nguyên Đan (Huyền Cấp Thượng Phẩm):* Phục hồi đan điền và kinh mạch bị tổn thương do tẩu hỏa nhập ma, ổn định căn cơ. Công thức gốc của Dược Vương Cốc, dẫn thuốc là Tam Sinh Huyết Lệ cực kỳ khan hiếm. Xem tại `Đạo/Đan_Dược/Hồi_Nguyên_Đan.md`.
     - *Sa Viêm Tán (Hoàng Cấp Thượng Phẩm):* Tán dược sa mạc của Thiên Sa Thương Hội, dùng Sa Chưng Pháp bào chế. Phòng hộ sa nhiệt, tăng cường hỏa tính tu luyện, sát khuẩn vết thương. Xem tại `Đạo/Đan_Dược/Sa_Viêm_Tán.md`.
@@ -144,6 +147,7 @@
     - *Băng Huyền Cầm (Thiên Cấp Hạ Phẩm):* Đàn cổ làm từ băng ngàn năm, vũ khí của Lý Tuyết Ưng. Xem tại `Đạo/Luyện_Khí/Băng_Huyền_Cầm.md`.
     - *Mộc Linh Trượng (Pháp Bảo Cực Phẩm):* Trượng gỗ Cửu Thiên Linh Mộc của Diệp Thanh Y, khuếch đại mộc thuật và hồi phục sinh mệnh. Xem tại `Đạo/Luyện_Khí/Mộc_Linh_Trượng.md`.
     - *Thanh Liên Kiếm (Thiên Cấp Hạ Phẩm):* Kiếm bản mệnh của Lục Trần, rèn từ thân sen ngàn năm, kiếm khí như hoa sen nở rộ. Xem tại `Đạo/Luyện_Khí/Thanh_Liên_Kiếm.md`.
+    - *Huyết Độc Phiến (Huyền Cấp Thượng Phẩm):* Quạt xương của Lệ Vô Tâm, tạo ra gió độc ăn mòn và ảo giác. Xem tại `Đạo/Luyện_Khí/Huyết_Độc_Phiến.md`.
     - *Băng Phong Phù (Cấp 3):* Phù lục phong ấn mục tiêu trong băng. Xem tại `Đạo/Phù_Lục/Băng_Phong_Phù.md`.
     - *Ngọc Tiêu Cửu Khúc (Pháp Bảo Cực Phẩm):* Sáo ngọc làm từ Thần Mộc, vũ khí của Lục Tiêu, khuếch đại âm luật và điều khiển thực vật. Xem tại `Đạo/Luyện_Khí/Ngọc_Tiêu_Cửu_Khúc.md`.
     - *Nguyệt Thần Cung (Pháp Bảo Cực Phẩm):* Cung thần của Nữ Hoàng Tinh Linh, không cần tên thật, bắn ra ánh sáng thanh tẩy tà ma. Xem tại `Đạo/Luyện_Khí/Nguyệt_Thần_Cung.md`.
@@ -152,6 +156,7 @@
     - *Hàn Ngọc:* Khoáng thạch hệ Băng, dùng luyện khí và tu luyện. Xem tại `Đạo/Kỳ_Vật/Hàn_Ngọc.md`.
     - *Tuyết Liên Hoa:* Linh dược quý hiếm vùng Bắc Băng, 100 năm mới nở, có tác dụng cải lão hoàn đồng. Xem tại `Đạo/Kỳ_Vật/Tuyết_Liên_Hoa.md`.
     - *Vạn Độc Châu:* Nội đan độc trùng ngàn năm, dùng tu luyện độc công và nuôi Cổ. Xem tại `Đạo/Kỳ_Vật/Vạn_Độc_Châu.md`.
+    - *Thiên Tinh Cổ:* Cổ trùng cấp 3 của Lệ Vô Tâm, có khả năng ký sinh và khống chế vật chủ. Xem tại `Đạo/Kỳ_Vật/Thiên_Tinh_Cổ.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -236,3 +241,6 @@
 - Tạo công pháp: Nguyệt Linh Trường Sinh Quyết.
 - Tạo Pháp bảo: Nguyệt Thần Cung.
 - Sáng tác thơ: Nguyệt Hạ Tinh Linh.
+- Tạo Pháp bảo: Huyết Độc Phiến (Vũ khí của Lệ Vô Tâm).
+- Tạo Kỳ vật: Thiên Tinh Cổ (Bản mệnh cổ của Lệ Vô Tâm).
+- Tạo Công pháp: Vạn Độc Phệ Hồn Quyết (Công pháp của Lệ Vô Tâm).
