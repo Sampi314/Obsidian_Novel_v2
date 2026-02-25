@@ -30,3 +30,4 @@
 | 2024-06-11 | Tổng Quản | Đồng bộ Thiên Sa Thương Hội | Hoàn Thành | Thêm thế lực vào Index (trước đó bị ẩn) và tạo nhân vật Hứa Nhược Thủy (Gia Chủ Hứa Gia). |
 | 2024-06-12 | Tổng Quản | Tạo Vạn Độc Thánh Tử | Hoàn Thành | Tạo nhân vật Lệ Vô Tâm và sáng tác Vạn Độc Ca. Cập nhật cốt truyện chính. |
 | 2024-06-13 | Tổng Quản | Tạo Bộ Pháp Bảo Lệ Vô Tâm | Hoàn Thành | Tạo Huyết Độc Phiến, Thiên Tinh Cổ, Vạn Độc Phệ Hồn Quyết. |
+| 2024-06-14 | Tổng Quản | Viết Chương 1 & Tạo Huyết Thi | Hoàn Thành | Viết Chương 1 Huyết Độc Chi Họa, tạo hồ sơ Huyết Thi và Truyền Âm Phù. |
