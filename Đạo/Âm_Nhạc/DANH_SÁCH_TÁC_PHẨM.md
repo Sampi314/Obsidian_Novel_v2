@@ -13,6 +13,9 @@ Thư viện lưu trữ các tác phẩm âm nhạc, ca khúc, và trường ca c
     *   *Nội dung:* Khúc tráng ca về cuộc chiến giữa Thần và Ma, sự trỗi dậy của các chủng tộc sơ khai.
 
 ## III. KỶ KHỞI NGUYÊN (ORIGIN ERA - HIỆN TẠI)
+*   **[Khúc Nhạc Mở Đầu: Cố Nguyên Trường Ca](Khởi_Nguyên/Khúc_Nhạc_Mở_Đầu.md)**
+    *   *Thể loại:* Giao Hưởng Sử Thi (Epic Orchestral).
+    *   *Nội dung:* Khúc nhạc nền (BGM) hùng tráng và bi ai, mô tả sự vĩ đại và tàn khốc của Cố Nguyên Giới.
 *   **[Vấn Đạo Hành](Khởi_Nguyên/Vấn_Đạo_Hành.md)**
     *   *Thể loại:* Cổ Phong Tự Sự (C3).
     *   *Nội dung:* Hành trình cầu đạo, tu tiên đầy gian nan và cô độc trong thời đại tông môn lâm lập.

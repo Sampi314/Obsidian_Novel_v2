@@ -18,3 +18,8 @@ Hệ thống âm nhạc đã được tái cấu trúc theo dòng thời gian l�
 - **Cấu Trúc Bài Hát:** BẮT BUỘC phải có cấu trúc đầy đủ (Intro, Verse 1, Chorus, Verse 2, Chorus, Bridge, Outro). Các bài hát ngắn đã được tự động mở rộng bằng cách lặp lại cấu trúc.
 - **Không Tôn Giáo:** Tuyệt đối không sử dụng thuật ngữ Phật giáo.
 - **Định Dạng:** 3 phần tách biệt (Trung - Hán Việt - Dịch Nghĩa).
+
+## [Ngày 2024-06-09]
+- **Tác phẩm mới:** [Khúc Nhạc Mở Đầu: Cố Nguyên Trường Ca](Đạo/Âm_Nhạc/Khởi_Nguyên/Khúc_Nhạc_Mở_Đầu.md)
+- **Thể loại:** BGM / Giao Hưởng Sử Thi.
+- **Ghi chú:** Đã cập nhật vào Danh Sách Tác Phẩm và Hồ Sơ Thế Giới.

@@ -11,7 +11,7 @@ File này là nơi Agent 22 (Kiến Tạo Cốt Truyện) và các Agent khác g
 ## 🎵 NHẠC SĨ THIÊN CUNG (Music & Audio)
 | Trạng Thái | Tên Bài Hát/Chủ Đề | Loại | Ghi Chú Yêu Cầu | Người Gửi |
 | :--- | :--- | :--- | :--- | :--- |
-| [ ] | Ví dụ: Khúc Nhạc Mở Đầu | BGM | Hùng tráng, bi ai | System |
+| [x] | Khúc Nhạc Mở Đầu: Cố Nguyên Trường Ca | BGM | Hùng tráng, bi ai | System |
 
 ## 📝 LƯU Ý
 - Đánh dấu [x] khi hoàn thành.

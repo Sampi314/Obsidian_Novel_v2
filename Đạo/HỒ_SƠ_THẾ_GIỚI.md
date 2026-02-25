@@ -155,6 +155,7 @@
     - [Nguyệt Hạ Tinh Linh](Thơ_Ca/Nguyệt_Hạ_Tinh_Linh.md): Bài thơ về nỗi cô đơn và quyết tâm của Nữ Hoàng Nguyệt Dao.
 - **Âm Nhạc:**
     - **[DANH SÁCH TÁC PHẨM (MỚI)](Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md):** Thư viện tổng hợp 100+ tác phẩm âm nhạc (bao gồm 90 bài hát mới).
+    - [Khúc Nhạc Mở Đầu: Cố Nguyên Trường Ca](Âm_Nhạc/Khởi_Nguyên/Khúc_Nhạc_Mở_Đầu.md): BGM hùng tráng, bi ai mô tả thế giới.
     - [Hỗn Độn Ca](Âm_Nhạc/Hồng_Hoang/Hỗn_Độn_Ca.md): Khúc ca cổ về thuở khai thiên lập địa.
     - [Thần Ma Lệ](Âm_Nhạc/Thái_Cổ/Thần_Ma_Lệ.md): Bản hùng ca bi tráng về cuộc chiến Thần Ma.
     - [Vấn Đạo Hành](Âm_Nhạc/Khởi_Nguyên/Vấn_Đạo_Hành.md): Bài ca về con đường tu đạo đầy gian nan trong thời đại hiện tại.
