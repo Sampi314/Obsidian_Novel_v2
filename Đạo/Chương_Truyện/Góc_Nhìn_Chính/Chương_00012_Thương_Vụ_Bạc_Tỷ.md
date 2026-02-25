@@ -1,7 +1,7 @@
 # Chương 12: Thương Vụ Bạc Tỷ
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../Nhân_Vật/Lâm_Phong.md), [Hứa Nhược Thủy](../Nhân_Vật/Hứa_Nhược_Thủy.md)
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md), [Hứa Nhược Thủy](../../Nhân_Vật/Hứa_Nhược_Thủy.md)
 **Địa điểm:** Trạm Dừng Chân Số 7 - Thiên Sa Thương Hội (Tây Mạc)
 
 ---
@@ -14,7 +14,7 @@ Khác với vẻ hoang vu chết chóc bên ngoài, bên trong kết giới là 
 
 Lâm Phong nheo mắt nhìn quanh. Nơi này tuy gọi là "Trạm Dừng Chân" nhưng quy mô không kém gì một thị trấn nhỏ ở Trung Thổ. Các gian hàng san sát nhau, bày bán đủ loại kỳ trân dị bảo từ khắp nơi. Tiếng rao hàng, tiếng mặc cả ồn ào náo nhiệt.
 
-"Này, cái kia là [Hỏa Linh Thảo](../Kỳ_Vật/Hỏa_Linh_Thảo.md) phải không? Ở đây bán rẻ như rau vậy?" Lâm Phong chỉ vào một sạp hàng ven đường, mắt sáng lên.
+"Này, cái kia là [Hỏa Linh Thảo](../../Kỳ_Vật/Hỏa_Linh_Thảo.md) phải không? Ở đây bán rẻ như rau vậy?" Lâm Phong chỉ vào một sạp hàng ven đường, mắt sáng lên.
 
 "Đừng để bị lừa." Diệp Tĩnh Sương lạnh nhạt nói, ánh mắt vẫn cảnh giác quét xung quanh. "Đó chỉ là Hỏa Diễm Thảo bình thường, linh khí kém xa Hỏa Linh Thảo thật. Thương nhân ở đây mài giũa miệng lưỡi còn sắc hơn cả kiếm của ngươi đấy."
 
@@ -30,7 +30,7 @@ Sa Nguyệt Lâu là kiến trúc cao nhất tại ốc đảo, được xây d�
 
 Tại tầng cao nhất, trong một căn phòng bài trí trang nhã, một người phụ nữ trung niên đang ngồi thưởng trà. Bà mặc y phục lụa màu vàng nhạt thêu hoa văn sóng nước, tay cầm chiếc quạt lụa phe phẩy nhẹ nhàng. Dù đã qua tuổi tứ tuần, nhưng dung mạo bà vẫn mặn mà, đôi mắt phượng sắc sảo toát lên vẻ uy quyền khó tả.
 
-Đó chính là [Hứa Nhược Thủy](../Nhân_Vật/Hứa_Nhược_Thủy.md) - Sa Dược Phu Nhân danh trấn Tây Mạc.
+Đó chính là [Hứa Nhược Thủy](../../Nhân_Vật/Hứa_Nhược_Thủy.md) - Sa Dược Phu Nhân danh trấn Tây Mạc.
 
 "Vãn bối Diệp Tĩnh Sương, tham kiến Hứa gia chủ." Diệp Tĩnh Sương chắp tay hành lễ đúng mực.
 
@@ -52,9 +52,9 @@ Nụ cười trên môi Hứa Nhược Thủy không hề thay đổi, nhưng á
 
 "Sa Sương? Đó là dược liệu cấm, chuyên dùng để chế tạo độc dược hoặc giải độc cực mạnh. Diệp cô nương là người của Cửu Hoa Kiếm Tông, sao lại quan tâm đến thứ này?"
 
-"Ta cần nó để giúp Dược Vương Cốc chế tạo thuốc giải cho [Huyết Thần Độc](../Kỳ_Vật/Huyết_Thần_Độc.md)." Diệp Tĩnh Sương nói thẳng. "Ta nghe nói Vạn Độc Môn đang thu mua số lượng lớn."
+"Ta cần nó để giúp Dược Vương Cốc chế tạo thuốc giải cho [Huyết Thần Độc](../../Kỳ_Vật/Huyết_Thần_Độc.md)." Diệp Tĩnh Sương nói thẳng. "Ta nghe nói Vạn Độc Môn đang thu mua số lượng lớn."
 
-Hứa Nhược Thủy phe phẩy chiếc quạt, trầm ngâm một chút rồi nói: "Tin tức của cô nương rất nhanh nhạy. Đúng vậy, mười ngày trước, một 'Sa Ảnh' của Vạn Độc Môn đã đến đây, đặt mua toàn bộ kho dự trữ Sa Sương và [Hỏa Tích Thảo](../Kỳ_Vật/Hỏa_Tích_Thảo.md) của Hứa Gia. Giá gấp ba lần bình thường."
+Hứa Nhược Thủy phe phẩy chiếc quạt, trầm ngâm một chút rồi nói: "Tin tức của cô nương rất nhanh nhạy. Đúng vậy, mười ngày trước, một 'Sa Ảnh' của Vạn Độc Môn đã đến đây, đặt mua toàn bộ kho dự trữ Sa Sương và [Hỏa Tích Thảo](../../Kỳ_Vật/Hỏa_Tích_Thảo.md) của Hứa Gia. Giá gấp ba lần bình thường."
 
 "Bà đã bán cho chúng?" Diệp Tĩnh Sương siết chặt nắm tay.
 
@@ -94,7 +94,7 @@ Khi hai người rời đi, Hứa Nhược Thủy đứng bên cửa sổ, nhìn
 
 Bà ngẩng đầu nhìn trăng, thở dài: "Thanh Vân, con đừng xảy ra chuyện gì đấy..."
 
-Bên ngoài, bài thơ [Ốc Đảo Dạ Khúc](../Thơ_Ca/Ốc_Đảo_Dạ_Khúc.md) văng vẳng từ một quán trọ nào đó, tiếng sáo ai oán hòa vào tiếng gió sa mạc:
+Bên ngoài, bài thơ [Ốc Đảo Dạ Khúc](../../Thơ_Ca/Ốc_Đảo_Dạ_Khúc.md) văng vẳng từ một quán trọ nào đó, tiếng sáo ai oán hòa vào tiếng gió sa mạc:
 
 *Cát vàng trải rộng ánh trăng soi,*
 *Ốc đảo xanh tươi giữa đất trời...*

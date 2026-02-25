@@ -1,8 +1,8 @@
 # Chương 6: Huyết Chiến Đầm Lầy
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../Nhân_Vật/Lâm_Phong.md)
-**Địa điểm:** [Đầm Lầy Tử Thần](../Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md) - Rìa phía Đông.
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
+**Địa điểm:** [Đầm Lầy Tử Thần](../../Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md) - Rìa phía Đông.
 **Thời điểm:** Đêm khuya về sáng.
 
 ---
@@ -11,7 +11,7 @@ Bầu trời phía trên Đầm Lầy Tử Thần như bị một tấm màn đe
 
 *Bõm... Bõm...*
 
-Tiếng bước chân nặng nề vang lên trong đêm tĩnh mịch. [Lâm Phong](../Nhân_Vật/Lâm_Phong.md) dìu [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), mỗi bước đi đều phải dò dẫm cẩn thận. Bùn lầy ở đây chỗ nông chỗ sâu, chỉ cần sơ sẩy một chút là có thể bị nuốt chửng vào cái bụng không đáy của đầm lầy.
+Tiếng bước chân nặng nề vang lên trong đêm tĩnh mịch. [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md) dìu [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), mỗi bước đi đều phải dò dẫm cẩn thận. Bùn lầy ở đây chỗ nông chỗ sâu, chỉ cần sơ sẩy một chút là có thể bị nuốt chửng vào cái bụng không đáy của đầm lầy.
 
 "Ngươi... thả ta xuống đi," Diệp Tĩnh Sương khó nhọc lên tiếng, hơi thở đứt quãng. Độc khí trong người nàng cộng hưởng với chướng khí nơi đây khiến kinh mạch đau nhức như bị kim châm.
 
@@ -19,9 +19,9 @@ Tiếng bước chân nặng nề vang lên trong đêm tĩnh mịch. [Lâm Phon
 
 Hắn dừng lại, nheo mắt nhìn về phía trước. Cây cối ở đây đều vặn vẹo kỳ dị, thân cây đen đúa đầy những u bướu sần sùi, rễ cây trồi lên mặt bùn như những con trăn khổng lồ đang ngủ đông.
 
-"Chúng đến rồi," Lâm Phong thì thào, tay phải vô thức nắm chặt cây [Truy Phong Cung](../Luyện_Khí/Truy_Phong_Cung.md).
+"Chúng đến rồi," Lâm Phong thì thào, tay phải vô thức nắm chặt cây [Truy Phong Cung](../../Luyện_Khí/Truy_Phong_Cung.md).
 
-Từ màn sương mù phía sau, hàng chục đốm sáng đỏ rực lần lượt hiện ra. Tiếng gầm gừ trầm thấp vang vọng, hòa lẫn với tiếng lội nước *ì oạp*. Đàn [Huyết Độc Lang](../Kỳ_Vật/Huyết_Độc_Lang.md) không vội vàng tấn công, chúng tản ra hai cánh, hình thành thế bao vây gọng kìm.
+Từ màn sương mù phía sau, hàng chục đốm sáng đỏ rực lần lượt hiện ra. Tiếng gầm gừ trầm thấp vang vọng, hòa lẫn với tiếng lội nước *ì oạp*. Đàn [Huyết Độc Lang](../../Kỳ_Vật/Huyết_Độc_Lang.md) không vội vàng tấn công, chúng tản ra hai cánh, hình thành thế bao vây gọng kìm.
 
 Diệp Tĩnh Sương cố gắng vận chuyển chân khí, *Hàn Ngọc Kiếm* trong tay nàng tỏa ra luồng hàn khí yếu ớt.
 

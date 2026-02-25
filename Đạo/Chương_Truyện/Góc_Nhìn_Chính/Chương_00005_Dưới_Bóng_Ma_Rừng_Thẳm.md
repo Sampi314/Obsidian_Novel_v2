@@ -1,7 +1,7 @@
 # Chương 5: Dưới Bóng Ma Rừng Thẳm
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../Nhân_Vật/Lâm_Phong.md)
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
 **Địa điểm:** Rừng sâu cách Thôn Lạc Diệp 30 dặm về phía Nam.
 **Thời điểm:** Đêm khuya, trăng bị mây đen che khuất.
 
@@ -9,11 +9,11 @@
 
 *Phập!*
 
-Mặt đất ẩm ướt dưới gốc cây cổ thụ nứt toác, hai bóng người chật vật chui lên từ lòng đất. [Lâm Phong](../Nhân_Vật/Lâm_Phong.md) thở hồng hộc, mồ hôi ướt đẫm lưng áo. Việc duy trì *Mộc Độn Thuật* để mang theo một người khác di chuyển dưới lòng đất trong thời gian dài đã vắt kiệt linh lực của hắn.
+Mặt đất ẩm ướt dưới gốc cây cổ thụ nứt toác, hai bóng người chật vật chui lên từ lòng đất. [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md) thở hồng hộc, mồ hôi ướt đẫm lưng áo. Việc duy trì *Mộc Độn Thuật* để mang theo một người khác di chuyển dưới lòng đất trong thời gian dài đã vắt kiệt linh lực của hắn.
 
-"Chúng ta... tạm thời an toàn rồi," Lâm Phong nói, giọng khàn đặc, buông tay [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md) ra.
+"Chúng ta... tạm thời an toàn rồi," Lâm Phong nói, giọng khàn đặc, buông tay [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md) ra.
 
-Diệp Tĩnh Sương lảo đảo, phải chống kiếm xuống đất mới đứng vững. Gương mặt vốn lạnh lùng của nàng giờ đây tái nhợt, trên cổ xuất hiện vài vệt đen mờ chạy dọc theo kinh mạch. Độc khí của [Lệ Vô Tâm](../Nhân_Vật/Lệ_Vô_Tâm.md) tuy chưa xâm nhập vào tâm mạch nhưng đã bắt đầu ăn mòn chân khí hộ thể.
+Diệp Tĩnh Sương lảo đảo, phải chống kiếm xuống đất mới đứng vững. Gương mặt vốn lạnh lùng của nàng giờ đây tái nhợt, trên cổ xuất hiện vài vệt đen mờ chạy dọc theo kinh mạch. Độc khí của [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md) tuy chưa xâm nhập vào tâm mạch nhưng đã bắt đầu ăn mòn chân khí hộ thể.
 
 "Ngươi trúng độc rồi," Lâm Phong nhíu mày, tiến lại gần xem xét.
 
@@ -35,9 +35,9 @@ Lâm Phong biến sắc, áp tai xuống đất nghe ngóng.
 
 "Chết tiệt! Bọn chúng đuổi theo rồi. Nhanh như vậy sao?"
 
-"Là thứ gì?" Diệp Tĩnh Sương nắm chặt [Hàn Ngọc Kiếm](../Luyện_Khí/Hàn_Ngọc_Kiếm.md), cố gắng điều hòa hơi thở.
+"Là thứ gì?" Diệp Tĩnh Sương nắm chặt [Hàn Ngọc Kiếm](../../Luyện_Khí/Hàn_Ngọc_Kiếm.md), cố gắng điều hòa hơi thở.
 
-"Không phải Huyết Thi... là Sói! Một đàn Sói Độc bị nhiễm [Huyết Thần Độc](../Kỳ_Vật/Huyết_Thần_Độc.md)!"
+"Không phải Huyết Thi... là Sói! Một đàn Sói Độc bị nhiễm [Huyết Thần Độc](../../Kỳ_Vật/Huyết_Thần_Độc.md)!"
 
 Vừa dứt lời, từ trong màn sương đen kịt xung quanh, hàng chục đôi mắt đỏ ngầu như máu hiện ra. Những con sói to lớn, lông rụng từng mảng lộ ra lớp da thịt lở loét, nhe nanh gầm gừ. Nước dãi của chúng nhỏ xuống đất, bốc lên khói trắng.
 
@@ -45,7 +45,7 @@ Vừa dứt lời, từ trong màn sương đen kịt xung quanh, hàng chục �
 
 Con sói đầu đàn tru lên một tiếng chói tai, cả đàn sói lao vào tấn công như vũ bão.
 
-"Lên cây!" Lâm Phong hét lớn. Hắn rút cây [Truy Phong Cung](../Luyện_Khí/Truy_Phong_Cung.md) từ sau lưng ra, động tác nhanh như chớp.
+"Lên cây!" Lâm Phong hét lớn. Hắn rút cây [Truy Phong Cung](../../Luyện_Khí/Truy_Phong_Cung.md) từ sau lưng ra, động tác nhanh như chớp.
 
 *Vút! Vút! Vút!*
 

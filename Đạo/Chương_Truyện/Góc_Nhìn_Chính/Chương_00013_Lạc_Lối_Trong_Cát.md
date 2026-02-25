@@ -1,8 +1,8 @@
 # Chương 13: Lạc Lối Trong Cát
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../Nhân_Vật/Lâm_Phong.md)
-**Địa điểm:** [Lưu Sa Phế Tích](../Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md) (Tây Mạc)
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
+**Địa điểm:** [Lưu Sa Phế Tích](../../Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md) (Tây Mạc)
 
 ---
 
@@ -30,7 +30,7 @@ Họ thận trọng tiến vào khu vực phế tích. Những bức tường th
 
 "Thanh Vân! Hứa Thanh Vân!" Lâm Phong gọi lớn, tiếng vọng va đập vào vách đá rồi tan biến vào hư không.
 
-"Đừng ồn ào." Diệp Tĩnh Sương quát khẽ. "Ngươi muốn gọi cả lũ [Sa Trùng](../Thế_Giới_Và_Thời_Gian/Tây_Mạc.md#sa-trùng-沙蟲) đến đây sao?"
+"Đừng ồn ào." Diệp Tĩnh Sương quát khẽ. "Ngươi muốn gọi cả lũ [Sa Trùng](../../Thế_Giới_Và_Thời_Gian/Tây_Mạc.md#sa-trùng-沙蟲) đến đây sao?"
 
 Đột nhiên, mặt đất dưới chân họ rung chuyển nhẹ.
 
@@ -38,13 +38,13 @@ Họ thận trọng tiến vào khu vực phế tích. Những bức tường th
 
 Từ những đống cát xung quanh, vô số hình bóng mờ ảo từ từ trồi lên. Chúng không có hình dạng cố định, chỉ là những cơn lốc xoáy nhỏ mang theo cát bụi, nhưng đôi mắt lại sáng rực màu xanh lục đầy oán khí.
 
-"[Sa Hồn](../Kỳ_Vật/Sa_Hồn.md)!" Diệp Tĩnh Sương hét lên, rút kiếm ra khỏi vỏ.
+"[Sa Hồn](../../Kỳ_Vật/Sa_Hồn.md)!" Diệp Tĩnh Sương hét lên, rút kiếm ra khỏi vỏ.
 
 *Hàn Mai Kiếm - Tuyết Vũ!*
 
 Một luồng kiếm khí lạnh lẽo quét ngang, chém bay những bóng ma cát gần nhất. Nhưng kiếm khí vừa đi qua, những hạt cát lại tự động tụ lại, hình thành nên cơ thể mới, lành lặn như chưa từng bị tổn thương.
 
-"Vô dụng thôi! Chúng không có thực thể!" Lâm Phong hét lên, đồng thời giương [Truy Phong Cung](../Luyện_Khí/Truy_Phong_Cung.md), bắn ra ba mũi tên liên tiếp.
+"Vô dụng thôi! Chúng không có thực thể!" Lâm Phong hét lên, đồng thời giương [Truy Phong Cung](../../Luyện_Khí/Truy_Phong_Cung.md), bắn ra ba mũi tên liên tiếp.
 
 Mũi tên xuyên qua ngực một con Sa Hồn, nhưng nó chỉ khựng lại một chút rồi tiếp tục lao tới, miệng phát ra tiếng rít chói tai khiến đầu óc hai người đau như búa bổ.
 
@@ -52,7 +52,7 @@ Mũi tên xuyên qua ngực một con Sa Hồn, nhưng nó chỉ khựng lại m
 
 Lâm Phong ngẩn người: "Ta làm gì có lửa? Ta là Phong Mộc song linh căn mà!"
 
-"Ngu ngốc! Dùng [Sa Viêm Tán](../Đan_Dược/Sa_Viêm_Tán.md)!"
+"Ngu ngốc! Dùng [Sa Viêm Tán](../../Đan_Dược/Sa_Viêm_Tán.md)!"
 
 Lâm Phong sực nhớ ra, vội vàng móc trong túi trữ vật ra một nắm bột màu đỏ rực - thứ thuốc mà Hứa Nhược Thủy đã đưa cho họ (vốn để chống lạnh, nhưng tính Hỏa cực mạnh). Hắn tung nắm bột về phía trước, đồng thời quạt mạnh một luồng gió.
 

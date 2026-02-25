@@ -1,7 +1,7 @@
 # Chương 1: Dấu Hiệu Tai Ương
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md)
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)
 **Địa điểm:** Thôn Lạc Diệp, biên giới Nam Cương.
 **Thời điểm:** Đầu mùa thu, năm 100.005 Kỷ Nguyên Khởi Nguyên.
 
@@ -13,7 +13,7 @@ Diệp Tĩnh Sương dừng bước trên một mỏm đá cao, tà áo trắng 
 
 "Quá yên tĩnh," nàng lẩm bẩm, giọng nói trong trẻo nhưng lạnh lùng như băng tuyết.
 
-Tay phải nàng vô thức đặt lên chuôi [Hàn Mai Kiếm](../Luyện_Khí/Hàn_Ngọc_Kiếm.md) đeo bên hông. Nhiệm vụ lần này của nàng là điều tra sự mất tích bí ẩn của đoàn thương buôn dược liệu thuộc [Thiên Sa Thương Hội](../Thế_Lực/Thiên_Sa_Thương_Hội.md). Họ đã mất liên lạc ba ngày nay, ngay sau khi đi qua khu vực này để tiến vào [Dược Vương Cốc](../Thế_Lực/Dược_Vương_Cốc.md).
+Tay phải nàng vô thức đặt lên chuôi [Hàn Mai Kiếm](../../Luyện_Khí/Hàn_Ngọc_Kiếm.md) đeo bên hông. Nhiệm vụ lần này của nàng là điều tra sự mất tích bí ẩn của đoàn thương buôn dược liệu thuộc [Thiên Sa Thương Hội](../../Thế_Lực/Thiên_Sa_Thương_Hội.md). Họ đã mất liên lạc ba ngày nay, ngay sau khi đi qua khu vực này để tiến vào [Dược Vương Cốc](../../Thế_Lực/Dược_Vương_Cốc.md).
 
 Diệp Tĩnh Sương khẽ nhún chân, thân hình nhẹ nhàng như cánh nhạn lướt xuống sườn núi. Vận dụng khinh công, nàng đáp xuống cổng làng mà không gây ra tiếng động nào.
 
@@ -23,7 +23,7 @@ Nàng bước đến bên một gốc cổ thụ già nua giữa sân đình. V�
 
 "Huyết Thần Độc?"
 
-Diệp Tĩnh Sương giật mình, nhớ lại những ghi chép trong tông môn về loại kịch độc thất truyền của [Vạn Độc Môn](../Thế_Lực/Vạn_Độc_Môn.md). Nàng rút một chiếc kim châm bạc từ trong túi trữ vật, khẽ chạm vào dòng nhựa đỏ. Cây kim lập tức xỉn màu đen kịt, bốc lên làn khói xanh lơ lửng.
+Diệp Tĩnh Sương giật mình, nhớ lại những ghi chép trong tông môn về loại kịch độc thất truyền của [Vạn Độc Môn](../../Thế_Lực/Vạn_Độc_Môn.md). Nàng rút một chiếc kim châm bạc từ trong túi trữ vật, khẽ chạm vào dòng nhựa đỏ. Cây kim lập tức xỉn màu đen kịt, bốc lên làn khói xanh lơ lửng.
 
 Đúng lúc đó, một âm thanh lạ vang lên từ phía sau ngôi đình.
 
@@ -33,7 +33,7 @@ Tiếng rên rỉ khàn đục, nghe như tiếng đá nghiến vào nhau, lại
 
 Từ trong bóng tối của ngôi đình đổ nát, một bóng người lảo đảo bước ra. Đó là một nam nhân trung niên, quần áo rách nát, trên người đầy vết cào xước. Nhưng điều đáng sợ nhất là đôi mắt hắn – đỏ ngầu như hai hòn than cháy, không hề có lòng đen. Trên cổ và tay chân hắn, những đường gân máu đỏ rực nổi lên cuồn cuộn, đập thình thịch theo nhịp điệu quái dị.
 
-Hắn là một [Huyết Thi](../Kỳ_Vật/Huyết_Thi.md).
+Hắn là một [Huyết Thi](../../Kỳ_Vật/Huyết_Thi.md).
 
 "Grào!"
 
@@ -51,7 +51,7 @@ Nhưng quái vật kia dường như không biết đau. Hắn vẫn lao tới, 
 
 "Nghiệt súc!"
 
-Diệp Tĩnh Sương lùi lại một bước, mũi kiếm rung lên, vẽ thành ba đóa hoa mai bằng băng tuyết giữa không trung. Đây chính là chiêu thức nhập môn của [Hàn Sương Kiếm Quyết](../Công_Pháp/Hàn_Sương_Kiếm_Quyết.md) – *Hàn Mai Tam Điểm*.
+Diệp Tĩnh Sương lùi lại một bước, mũi kiếm rung lên, vẽ thành ba đóa hoa mai bằng băng tuyết giữa không trung. Đây chính là chiêu thức nhập môn của [Hàn Sương Kiếm Quyết](../../Công_Pháp/Hàn_Sương_Kiếm_Quyết.md) – *Hàn Mai Tam Điểm*.
 
 Ba đóa hoa mai xuyên thẳng vào trán, tim và đan điền của tên Huyết Thi.
 
@@ -63,7 +63,7 @@ Diệp Tĩnh Sương thu kiếm, hơi thở vẫn đều đặn nhưng ánh mắ
 
 Cả ngôi làng này đã biến thành sào huyệt của quái vật. Và đây mới chỉ là sự khởi đầu.
 
-Nàng lấy ra một tấm [Truyền Âm Phù](../Phù_Lục/Truyền_Âm_Phù.md), truyền vào một tia linh lực, giọng nói gấp gáp:
+Nàng lấy ra một tấm [Truyền Âm Phù](../../Phù_Lục/Truyền_Âm_Phù.md), truyền vào một tia linh lực, giọng nói gấp gáp:
 
 "Đệ tử Diệp Tĩnh Sương bẩm báo. Thôn Lạc Diệp đã bị tàn sát, nghi ngờ có dấu hiệu của Huyết Thần Độc và Vạn Độc Môn. Yêu cầu chi viện khẩn cấp!"
 

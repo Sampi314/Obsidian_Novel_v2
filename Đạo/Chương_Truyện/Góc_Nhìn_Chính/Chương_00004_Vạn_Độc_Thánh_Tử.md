@@ -1,9 +1,9 @@
 # Chương 4: Vạn Độc Thánh Tử
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../Nhân_Vật/Lâm_Phong.md)
-**Phản diện:** [Lệ Vô Tâm](../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Địa điểm:** Thôn Lạc Diệp (Bên cạnh xác [Huyết Tướng](../Kỳ_Vật/Huyết_Tướng.md)).
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
+**Phản diện:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
+**Địa điểm:** Thôn Lạc Diệp (Bên cạnh xác [Huyết Tướng](../../Kỳ_Vật/Huyết_Tướng.md)).
 **Thời điểm:** Ngay sau khi Huyết Tướng bị tiêu diệt.
 
 ---
@@ -14,25 +14,25 @@ Tiếng cười lạnh lẽo như dao cạo vào xương tủy vẫn còn vang v
 
 "Không tệ, thật sự không tệ," hắn cất tiếng, giọng nói nhẹ nhàng nhưng chứa đầy sự ngạo mạn. "Một kiếm tu Trúc Cơ Sơ Kỳ và một tán tu Luyện Khí Viên Mãn lại có thể phối hợp giết chết Huyết Tướng của ta. Đáng khen."
 
-[Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md) siết chặt chuôi kiếm, ánh mắt như băng giá nhìn chằm chằm kẻ mới đến. Nàng nhận ra ngay vết xăm trên trán hắn – dấu hiệu của người kế thừa Vạn Độc Môn.
+[Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md) siết chặt chuôi kiếm, ánh mắt như băng giá nhìn chằm chằm kẻ mới đến. Nàng nhận ra ngay vết xăm trên trán hắn – dấu hiệu của người kế thừa Vạn Độc Môn.
 
-"Vạn Độc Thánh Tử... [Lệ Vô Tâm](../Nhân_Vật/Lệ_Vô_Tâm.md)!"
+"Vạn Độc Thánh Tử... [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)!"
 
 Lâm Phong đứng bên cạnh, toàn thân căng cứng như dây cung sắp đứt. Hắn cảm nhận được một luồng áp lực kinh khủng từ kẻ đối diện. Đây không phải là khí thế của Trúc Cơ bình thường, mà là Trúc Cơ Viên Mãn, nửa bước Chân Đan!
 
-"Ồ? Ngươi nhận ra ta sao?" Lệ Vô Tâm mỉm cười, nụ cười không hề chạm tới đáy mắt. Hắn liếc nhìn xác con Huyết Tướng đang tan chảy dần, rồi chậc lưỡi. "Đáng tiếc, đây là vật thí nghiệm thứ 49, ta đã tốn không ít [Huyết Thần Độc](../Kỳ_Vật/Huyết_Thần_Độc.md) để nuôi nó."
+"Ồ? Ngươi nhận ra ta sao?" Lệ Vô Tâm mỉm cười, nụ cười không hề chạm tới đáy mắt. Hắn liếc nhìn xác con Huyết Tướng đang tan chảy dần, rồi chậc lưỡi. "Đáng tiếc, đây là vật thí nghiệm thứ 49, ta đã tốn không ít [Huyết Thần Độc](../../Kỳ_Vật/Huyết_Thần_Độc.md) để nuôi nó."
 
 "Huyết Thần Độc?" Lâm Phong lầm bầm, trong lòng dấy lên dự cảm chẳng lành.
 
 "Các ngươi đã phá hỏng đồ chơi của ta," Lệ Vô Tâm khẽ khép chiếc quạt lại, phát ra tiếng 'cạch' khô khốc. "Vậy thì hãy dùng mạng của mình để đền bù đi."
 
-Vừa dứt lời, hắn vung mạnh [Huyết Độc Phiến](../Luyện_Khí/Huyết_Độc_Phiến.md).
+Vừa dứt lời, hắn vung mạnh [Huyết Độc Phiến](../../Luyện_Khí/Huyết_Độc_Phiến.md).
 
 *Vù!*
 
 Một cơn gió tanh hôi bốc lên, cuốn theo vô số bụi phấn màu đỏ rực. Trong nháy mắt, cả không gian xung quanh ba người bị bao phủ bởi một màn sương mù dày đặc.
 
-"Cẩn thận! Độc khí!" Diệp Tĩnh Sương hét lớn, lập tức nín thở. Nàng vận chuyển linh lực, [Hàn Ngọc Kiếm](../Luyện_Khí/Hàn_Ngọc_Kiếm.md) chém ra liên tiếp ba nhát.
+"Cẩn thận! Độc khí!" Diệp Tĩnh Sương hét lớn, lập tức nín thở. Nàng vận chuyển linh lực, [Hàn Ngọc Kiếm](../../Luyện_Khí/Hàn_Ngọc_Kiếm.md) chém ra liên tiếp ba nhát.
 
 *Hàn Sương Kiếm Quyết – Băng Phong Tam Xích!*
 
@@ -70,8 +70,8 @@ Mặt đất nơi đó bị chưởng lực của Lệ Vô Tâm đánh nát vụ
 
 Lệ Vô Tâm đứng trên mép hố, nhìn theo hướng hai người vừa tẩu thoát, nhưng hắn không hề đuổi theo. Hắn mở quạt ra, phe phẩy nhẹ nhàng, khóe miệng nhếch lên một nụ cười thâm hiểm.
 
-"Chạy đi... Chạy nhanh lên..." hắn lẩm bẩm. "Dẫn đường cho ta đến chỗ đám người Dược Vương Cốc. Ta đang chờ xem [Diệp Thanh Y](../Nhân_Vật/Diệp_Thanh_Y.md) sẽ làm thế nào để giải *Huyết Thần Độc* khi chính bản thân nàng cũng rơi vào bẫy."
+"Chạy đi... Chạy nhanh lên..." hắn lẩm bẩm. "Dẫn đường cho ta đến chỗ đám người Dược Vương Cốc. Ta đang chờ xem [Diệp Thanh Y](../../Nhân_Vật/Diệp_Thanh_Y.md) sẽ làm thế nào để giải *Huyết Thần Độc* khi chính bản thân nàng cũng rơi vào bẫy."
 
-Từ trong tay áo hắn, một con rết nhỏ màu đỏ tía ([Thiên Tinh Cổ](../Kỳ_Vật/Thiên_Tinh_Cổ.md)) bò ra, rít lên khe khẽ rồi biến mất vào lòng đất, âm thầm bám theo dấu vết linh lực của Lâm Phong.
+Từ trong tay áo hắn, một con rết nhỏ màu đỏ tía ([Thiên Tinh Cổ](../../Kỳ_Vật/Thiên_Tinh_Cổ.md)) bò ra, rít lên khe khẽ rồi biến mất vào lòng đất, âm thầm bám theo dấu vết linh lực của Lâm Phong.
 
 Cuộc đi săn mới chỉ thực sự bắt đầu.

@@ -1,17 +1,17 @@
 # Chương 7: Dấu Vết Cổ Xưa
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../Nhân_Vật/Lâm_Phong.md)
-**Địa điểm:** [Phế Tích Nguyệt Quang](../Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md)
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
+**Địa điểm:** [Phế Tích Nguyệt Quang](../../Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md)
 **Thời điểm:** Rạng sáng, sương mù dày đặc.
 
 ---
 
-Bùn lầy dưới chân [Lâm Phong](../Nhân_Vật/Lâm_Phong.md) càng lúc càng lún sâu. Mỗi bước đi của hắn giờ đây đều nặng tựa ngàn cân. Trên lưng, hơi thở của [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md) ngày càng yếu ớt, tựa như ngọn đèn trước gió. Độc tính từ vết cào của Huyết Độc Lang cộng thêm việc cưỡng ép vận công đã khiến kinh mạch nàng tổn thương nghiêm trọng.
+Bùn lầy dưới chân [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md) càng lúc càng lún sâu. Mỗi bước đi của hắn giờ đây đều nặng tựa ngàn cân. Trên lưng, hơi thở của [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md) ngày càng yếu ớt, tựa như ngọn đèn trước gió. Độc tính từ vết cào của Huyết Độc Lang cộng thêm việc cưỡng ép vận công đã khiến kinh mạch nàng tổn thương nghiêm trọng.
 
 "Đừng ngủ..." Lâm Phong khàn giọng nhắc nhở, mồ hôi trộn lẫn với bùn đất chảy ròng ròng trên mặt. "Chúng ta sắp thoát rồi."
 
-Đó là lời nói dối. Hắn biết rõ điều đó. Xung quanh bốn phía vẫn là màn sương lục nhạt chết chóc của [Đầm Lầy Tử Thần](../Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md). Tiếng hú của bầy sói vẫn văng vẳng phía sau, kiên nhẫn và đáng sợ như những bóng ma đòi mạng.
+Đó là lời nói dối. Hắn biết rõ điều đó. Xung quanh bốn phía vẫn là màn sương lục nhạt chết chóc của [Đầm Lầy Tử Thần](../../Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md). Tiếng hú của bầy sói vẫn văng vẳng phía sau, kiên nhẫn và đáng sợ như những bóng ma đòi mạng.
 
 Đột nhiên, Lâm Phong cảm thấy không khí xung quanh có chút thay đổi. Mùi hôi thối nồng nặc của xác chết dường như loãng đi đôi chút, thay vào đó là một luồng khí tức thanh mát, dịu nhẹ như hương cỏ dại sau mưa.
 
@@ -35,7 +35,7 @@ Lâm Phong không chần chừ, lấy dao găm rạch nhẹ đầu ngón tay, é
 
 Diệp Tĩnh Sương cảm thấy một luồng ấm áp len lỏi vào kinh mạch, cơn đau dịu đi phần nào. Nàng nhìn quanh, ánh mắt dừng lại ở những cột đá đổ nát.
 
-"Kiến trúc này... giống như trong sách cổ mô tả về [Tinh Linh Tộc](../Chủng_Tộc/Chủng_Tộc_Chính.md)," nàng thì thào.
+"Kiến trúc này... giống như trong sách cổ mô tả về [Tinh Linh Tộc](../../Chủng_Tộc/Chủng_Tộc_Chính.md)," nàng thì thào.
 
 "Tinh Linh? Ở cái đầm lầy chết tiệt này sao?" Lâm Phong nhíu mày. Hắn vốn là tán tu, kiến thức về lịch sử không thâm sâu như đệ tử tông môn lớn.
 
@@ -47,7 +47,7 @@ Hắn đưa tay gạt lớp rêu đi. Một mảnh ngọc bội hình trăng lư
 
 "Cái gì đây?" Hắn cầm lên. Miếng ngọc mát lạnh, tỏa ra ánh sáng xanh lục bảo dịu mắt. Ngay khi hắn chạm vào, luồng mộc linh khí trong người hắn như được kích thích, chạy rần rần trong kinh mạch.
 
-"[Tinh Linh Cổ Ngọc](../Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md)..." Diệp Tĩnh Sương kinh ngạc thốt lên. "Đây là tín vật của Tinh Linh cổ đại. Tại sao nó lại ở đây?"
+"[Tinh Linh Cổ Ngọc](../../Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md)..." Diệp Tĩnh Sương kinh ngạc thốt lên. "Đây là tín vật của Tinh Linh cổ đại. Tại sao nó lại ở đây?"
 
 "Có lẽ chủ nhân của nó đã bỏ mạng tại đây, hoặc vội vã rời đi," Lâm Phong suy đoán, cẩn thận cất miếng ngọc vào lòng. "Dù sao cũng là đồ tốt. Nó dường như đang giúp đẩy lùi chướng khí xung quanh."
 
