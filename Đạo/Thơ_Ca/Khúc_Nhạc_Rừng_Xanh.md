@@ -6,7 +6,7 @@
 - **Tác Giả:** [Lục Tiêu](../Nhân_Vật/Lục_Tiêu.md) (Sưu tầm từ dân gian Tinh Linh).
 - **Nhạc Cụ:** [Ngọc Tiêu Cửu Khúc](../Luyện_Khí/Ngọc_Tiêu_Cửu_Khúc.md).
 - **Hoàn Cảnh Sáng Tác:** Thường được Lục Tiêu thổi vào những đêm trăng sáng khi nhớ về quê hương Vĩnh Hằng Sâm Lâm, hoặc để an ủi những linh hồn cây cối bị tàn phá bởi chiến tranh.
-
+<!-- TODO: Thêm bản Tiếng Trung -->
 ## II. NỘI DUNG (HÁN VIỆT)
 > *Thương hải tang điền, vạn cổ sầu.  
 > Thần mộc điêu linh, lệ ngân thâu.  
