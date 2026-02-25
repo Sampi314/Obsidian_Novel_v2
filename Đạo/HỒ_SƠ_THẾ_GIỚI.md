@@ -213,8 +213,10 @@
     - [Chương 8: Huyết Tướng Truy Sát](Chương_Truyện/Chương_8_Huyết_Tướng_Truy_Sát.md)
     - [Chương 9: Núi Độc Long](Chương_Truyện/Chương_9_Núi_Độc_Long.md)
     - [Chương 10: Độc Long Xuất Thế](Chương_Truyện/Chương_10_Độc_Long_Xuất_Thế.md)
+    - [Chương 11: Bão Cát Tây Mạc](Chương_Truyện/Chương_11_Bão_Cát_Tây_Mạc.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 11 - Bão Cát Tây Mạc.
 - Viết Chương Truyện: Chương 10 - Độc Long Xuất Thế.
 - Tạo Kỳ vật: Độc Long Tích (Quái vật Chương 10).
 - Viết Chương Truyện: Chương 9 - Núi Độc Long.
