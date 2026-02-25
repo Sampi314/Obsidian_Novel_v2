@@ -14,3 +14,4 @@
 | 2024-05-27 | Tổng Quản | Sửa Lore & Bồi đắp Thế Lực | Hoàn Thành | Sửa Niên Biểu (Hỗn Độn Liên Hoa) & thêm Giai Thoại cho Đan Hà Cốc/Vạn Độc Môn. |
 | 2024-05-28 | Tổng Quản | Bồi đắp Huyền Băng Cung | Hoàn Thành | Thêm mục "Giai Thoại & Bí Mật" (Băng Huyền Cầm, Cấm Hỏa, Cấm Địa). |
 | 2024-05-29 | Tổng Quản | Sửa Lỗi & Bồi Đắp Cửu Hoa | Hoàn Thành | Sửa 6 broken links và thêm 3 giai thoại cho Cửu Hoa Kiếm Tông. |
+| 2024-05-30 | Tổng Quản | Sửa Lỗi Link & Thêm Vạn Độc Châu | Hoàn Thành | Sửa 4 broken links, rename Hỏa Linh Thảo, tạo Vạn Độc Châu. |

@@ -20,7 +20,7 @@
 - **Chi Tiết:** Xem tại `Đạo/Tu_Luyện/He_Thong_Canh_Gioi.md`.
 
 ## IV. CHỦNG TỘC
-- **9 Đại Chủng Tộc (Kỷ Nguyên Khởi Nguyên):**
+- **10 Đại Chủng Tộc (Kỷ Nguyên Khởi Nguyên):**
     1. Nhân Tộc (Sáng tạo, học hỏi).
     2. Long Tộc (Uy quyền, mưa gió).
     3. Trùng Tộc (Số lượng, thích nghi).
@@ -40,7 +40,7 @@
 - **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md`.
 - **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật.
-- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lam_Phong.md`.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lâm_Phong.md`.
 - **Sở Lăng Sương (Băng Phách Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, trọng nghĩa. Sở hữu *Hàn Sương Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Sở_Lăng_Sương.md`.
 - **Hàn Thanh Nguyệt (Tàn Nguyệt Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Xuất thân bần hàn, tính cách thực dụng, lạnh lùng nhưng bảo vệ kẻ yếu. Sở hữu *Tàn Nguyệt Kiếm Quyết*.
@@ -104,13 +104,14 @@
     - *Băng Huyền Cầm (Thiên Cấp Hạ Phẩm):* Đàn cổ làm từ băng ngàn năm, vũ khí của Lý Tuyết Ưng. Xem tại `Đạo/Luyện_Khí/Băng_Huyền_Cầm.md`.
     - *Băng Phong Phù (Cấp 3):* Phù lục phong ấn mục tiêu trong băng. Xem tại `Đạo/Phù_Lục/Băng_Phong_Phù.md`.
 - **Kỳ Vật:**
-    - *Hỏa Linh Thảo:* Thảo dược hệ Hỏa, mọc ở nơi hỏa khí nồng đậm. Xem tại `Đạo/Kỳ_Vật/Hoa_Linh_Thao.md`.
+    - *Hỏa Linh Thảo:* Thảo dược hệ Hỏa, mọc ở nơi hỏa khí nồng đậm. Xem tại `Đạo/Kỳ_Vật/Hỏa_Linh_Thảo.md`.
     - *Hàn Ngọc:* Khoáng thạch hệ Băng, dùng luyện khí và tu luyện. Xem tại `Đạo/Kỳ_Vật/Hàn_Ngọc.md`.
     - *Tuyết Liên Hoa:* Linh dược quý hiếm vùng Bắc Băng, 100 năm mới nở, có tác dụng cải lão hoàn đồng. Xem tại `Đạo/Kỳ_Vật/Tuyết_Liên_Hoa.md`.
+    - *Vạn Độc Châu:* Nội đan độc trùng ngàn năm, dùng tu luyện độc công và nuôi Cổ. Xem tại `Đạo/Kỳ_Vật/Vạn_Độc_Châu.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
-    - [Hàn Mai Kiếm Ca](Thơ_Ca/Han_Mai_Kiem_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
+    - [Hàn Mai Kiếm Ca](Thơ_Ca/Hàn_Mai_Kiếm_Ca.md): Bài thơ thất ngôn tứ tuyệt về Diệp Tĩnh Sương.
     - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
     - [Băng Cung Dạ Khúc](Thơ_Ca/Băng_Cung_Dạ_Khúc.md): Bài thơ về nỗi cô đơn của người tu đạo trên đỉnh Tuyết Sơn.
 - **Âm Nhạc:**
@@ -157,3 +158,4 @@
 - Bồi đắp chi tiết Huyền Băng Cung (Thêm Giai thoại & Bí mật).
 
 - Bồi đắp chi tiết Cửu Hoa Kiếm Tông (Thêm Giai thoại & Bí mật: Thất Lạc Kiếm Phong, Táng Kiếm Trì, Huyết Hoa Kiếm).
+- Sửa lỗi liên kết, cập nhật tên file và thêm Kỳ vật: Vạn Độc Châu.
