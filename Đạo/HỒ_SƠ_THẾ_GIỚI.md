@@ -53,6 +53,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Đan_Dương_Tử.md`.
 - **Độc Cô Lão Quái (Vạn Độc Ma Quân):** Môn Chủ Vạn Độc Môn, Hóa Thần Sơ Kỳ. Tính cách tàn nhẫn, đa nghi, chuyên dùng độc và cổ trùng. Sở hữu *Vạn Độc Chân Kinh*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Độc_Cô_Lão_Quái.md`.
+- **Lệ Vô Tâm (Vạn Độc Thánh Tử):** Đại đệ tử Vạn Độc Môn, Trúc Cơ Viên Mãn. Kẻ thù truyền kiếp của thế hệ trẻ chính đạo, sở hữu *Huyết Độc Phiến* và *Thiên Tinh Cổ*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lệ_Vô_Tâm.md`.
 - **Diệp Thanh Y (Dược Tôn):** Cốc Chủ Dược Vương Cốc, Hóa Thần Sơ Kỳ. Một trong Tam Đại Thần Y, tính cách nhân hậu nhưng cương quyết với cái ác. Sở hữu *Thanh Nang Trường Sinh Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Thanh_Y.md`.
 - **Lục Trần (Cửu Hoa Kiếm Tôn):** Tông Chủ Cửu Hoa Kiếm Tông, Hóa Thần Sơ Kỳ. Người duy nhất sống sót sau đại chiến Huyết Hoa, tính cách trầm tĩnh, đạo tâm kiên định. Sở hữu *Thanh Liên Kiếm*.
@@ -169,6 +171,7 @@
     - [Tiêu Dao Du](Âm_Nhạc/Tiêu_Dao_Du.md): Ca khúc vui tươi, phóng khoáng của tán tu.
     - [Ma Tâm](Âm_Nhạc/Ma_Tâm.md): Khúc ca đen tối về sự sa ngã vào Ma đạo.
     - [Tuyết Sơn Ngâm](Âm_Nhạc/Khởi_Nguyên/Tuyết_Sơn_Ngâm.md): Khúc ca cổ phong về sự cô độc và đạo tâm kiên định giữa bão tuyết.
+    - [Vạn Độc Ca](Âm_Nhạc/Khởi_Nguyên/Vạn_Độc_Ca.md): Khúc nhạc u ám, rùng rợn của Vạn Độc Môn, thường vang lên khi tế lễ hoặc xuất trận.
 
 ## X. CỐT TRUYỆN CHÍNH
 - **Huyết Độc Chi Họa (Giai đoạn hiện tại):**
