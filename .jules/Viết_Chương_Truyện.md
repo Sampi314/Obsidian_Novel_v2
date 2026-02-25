@@ -52,8 +52,9 @@ Mỗi chương truyện hoàn chỉnh sẽ có cấu trúc như sau:
     - Nếu giao nhau với nhân vật chính, hãy đánh dấu rõ ràng ở mục **Giao Điểm Cốt Truyện**.
 - **Tập trung nội tâm:** Khai thác sâu sắc suy nghĩ (monologue), động cơ, cảm xúc méo mó của nhân vật.
 - **Sắp xếp thời gian linh hoạt:**
-    - Sử dụng số âm (ví dụ: `Chương_-001`) cho các chương tiền truyện/quá khứ.
-    - Sử dụng số dương tương ứng với mốc thời gian của cốt truyện chính (ví dụ: `Chương 3` của Lệ Vô Tâm xảy ra cùng thời điểm hoặc ngay trước `Chương 3` của Diệp Tĩnh Sương).
+    - Bắt đầu tuyến truyện riêng của nhân vật từ `Chương 00001` (Khởi đầu/Quá khứ).
+    - Sử dụng số nguyên dương. Nếu cần chèn chương vào giữa (ví dụ chèn quá khứ vào trước chương hiện tại), hãy tự động đánh lại số chương (bump) các chương phía sau để đảm bảo tính liên tục và logic.
+    - Có thể giữ nguyên số chương song song với tuyến chính (ví dụ: Chương 3 song song Chương 3 chính) nếu không gây xung đột về thứ tự đọc.
 - **Giọng văn:** Giữ vững chất Tiên Hiệp nhưng điều chỉnh sắc thái phù hợp với tính cách nhân vật.
 
 ---
