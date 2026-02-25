@@ -26,3 +26,10 @@
 - **Địa điểm:** Tây Mạc (Sa mạc).
 - **Vật phẩm:** Sa Viêm Tán.
 - **Tiến độ Arc:** Bắt đầu hành trình trở về Dược Vương Cốc (đường vòng).
+
+## [2024-06-24] Chương 12: Thương Vụ Bạc Tỷ
+- **Nội dung:** Nhóm Diệp Tĩnh Sương và Lâm Phong đến Trạm Dừng Chân Số 7 của Thiên Sa Thương Hội. Gặp gỡ Hứa Nhược Thủy (Sa Dược Phu Nhân). Nhận nhiệm vụ tìm kiếm Hứa Thanh Vân tại Lưu Sa Phế Tích để đổi lấy Sa Sương (thuốc giải Huyết Thần Độc).
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy, Trần Kim Long.
+- **Địa điểm:** Trạm Dừng Chân Số 7 (Tây Mạc).
+- **Vật phẩm:** Sa Sương (mục tiêu), Linh Thạch, Mũi tên xương rồng.
+- **Tiến độ Arc:** Giai đoạn 2 - Chuẩn bị tài nguyên và đồng minh. Mở rộng sang nhánh truyện phụ tìm người thân.

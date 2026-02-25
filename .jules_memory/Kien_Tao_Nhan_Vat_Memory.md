@@ -45,3 +45,8 @@
 - **Đặc Điểm:** Nữ Hoàng Tinh Linh Tộc, Hóa Thần Sơ Kỳ, Mộc-Quang Linh Căn.
 - **Vai Trò:** Lãnh đạo Tinh Linh Tộc trong sự kiện Huyết Độc Chi Họa.
 - **Ghi Chú:** Nhân vật này là sự hy sinh và trách nhiệm. Cần khai thác mâu thuẫn nội tâm giữa việc giữ gìn truyền thống (cô lập) và cứu lấy giống nòi (hòa nhập). Tương tác với Diệp Thanh Y và Lục Tiêu là trọng điểm.
+
+- **Tạo Mới:** Hứa Nhược Thủy (Sa Dược Phu Nhân).
+- **Đặc Điểm:** Gia Chủ Hứa Gia (Thiên Sa Thương Hội), Nguyên Anh Sơ Kỳ, Song Linh Căn Thủy-Mộc.
+- **Vai Trò:** Thương nhân trung lập, cung cấp dược liệu quan trọng cho cả hai phe. Người giao nhiệm vụ.
+- **Ghi Chú:** Tính cách thực dụng, uy quyền nhưng có tình mẫu tử sâu sắc. Là nhân vật cầu nối tại Tây Mạc.
