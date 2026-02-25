@@ -49,6 +49,7 @@ Tùy thuộc vào nhiệm vụ của bạn, hãy tham khảo hướng dẫn chi 
 | Hàn Thanh Nguyệt (Hàn Tiểu Nha). | Nhân Tộc. | Trúc Cơ Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Hàn_Thanh_Nguyệt.md) |
 | Lâm Phong (林風). | Nhân Tộc. | Luyện Khí Viên Mãn (Chuẩn bị Trúc Cơ). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lâm_Phong.md) |
 | Lý Tuyết Ưng (Li Xue Ying). | Băng Tộc (Nhân Tộc Biến Thể). | Nguyên Anh Hậu Kỳ (gần viên mãn). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lý_Tuyết_Ưng.md) |
+| Lục Tiêu (Luc Tieu). | [Tinh Linh Tộc](../Chủng_Tộc/Chủng_Tộc_Chính.md#tinh-linh-tộc). | Kim Đan Sơ Kỳ (Core Formation Early Stage). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lục_Tiêu.md) |
 | Lục Trần (陸塵). | Nhân Tộc. | Hóa Thần Sơ Kỳ (化神初期). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lục_Trần.md) |
 | Sở Lăng Sương (楚凌霜). | Nhân Tộc. | Trúc Cơ Sơ Kỳ (Trúc Cơ tầng 2). | [Xem Chi Tiết](Đạo/Nhân_Vật/Sở_Lăng_Sương.md) |
 | Triệu Thanh Hằng (趙清恒). | Nhân Tộc. | Trúc Cơ Trung Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Triệu_Thanh_Hằng.md) |
@@ -67,6 +68,7 @@ Tùy thuộc vào nhiệm vụ của bạn, hãy tham khảo hướng dẫn chi 
 | LIỆT DIỄM SA CÔNG (烈焰沙功) | Huyền Cấp Thượng Phẩm (Có thể tu luyện đến Kim Đan Cảnh). | Hỏa (Chủ đạo) + Thổ (Phụ trợ). | [Xem Chi Tiết](Đạo/Công_Pháp/Liệt_Diễm_Sa_Công.md) |
 | LÃNH PHONG KIẾM QUYẾT (冷風劍訣) | Huyền Cấp Thượng Phẩm. | Phong (Gió) kết hợp Hàn (Lạnh). | [Xem Chi Tiết](Đạo/Công_Pháp/Lãnh_Phong_Kiếm_Quyết.md) |
 | THANH NANG TRƯỜNG SINH QUYẾT (青囊長生訣) | Thiên Cấp Trung Phẩm. | Mộc (Wood) / Sinh Mệnh (Life). | [Xem Chi Tiết](Đạo/Công_Pháp/Thanh_Nang_Trường_Sinh_Quyết.md) |
+| THANH ÂM VẠN VẬT QUYẾT (清音萬物訣) | Thiên Cấp Hạ Phẩm (Thien Cap Ha Pham). | Mộc (Wood), Âm Luật (Sound). | [Xem Chi Tiết](Đạo/Công_Pháp/Thanh_Âm_Vạn_Vật_Quyết.md) |
 | THIÊN CƠ TOÁN THUẬT (天機算術) | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Nguyên Anh Cảnh). | Không thuộc tính nguyên tố cụ thể — thuộc về "Đạo Vận" (Vận Mệnh / Nhân Quả). | [Xem Chi Tiết](Đạo/Công_Pháp/Thiên_Cơ_Toán_Thuật.md) |
 | THIÊN ÂM BĂNG PHÁCH (天音冰魄) | Thiên Cấp Hạ Phẩm (Đi kèm với Băng Tâm Quyết). | Âm (Sound) kết hợp Hàn (Ice). | [Xem Chi Tiết](Đạo/Công_Pháp/Thiên_Âm_Băng_Phách.md) |
 | TÀN NGUYỆT KIẾM QUYẾT (殘月劍訣) | Huyền Cấp Trung Phẩm (Vốn là Địa Cấp nhưng bị thất truyền một phần quan trọng). | Hàn / Băng. | [Xem Chi Tiết](Đạo/Công_Pháp/Tàn_Nguyệt_Kiếm_Quyết.md) |

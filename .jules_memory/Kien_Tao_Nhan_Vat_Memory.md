@@ -35,3 +35,8 @@
 - **Đặc Điểm:** Môn Chủ Vạn Độc Môn, Hóa Thần Sơ Kỳ, Độc Linh Căn.
 - **Vai Trò:** Phản diện chính tại Nam Cương, tàn nhẫn và quỷ quyệt.
 - **Ghi Chú:** Khai thác sự biến thái trong việc dùng người làm vật thí nghiệm.
+
+- **Tạo Mới:** Lục Tiêu (Thanh Âm Sứ Giả).
+- **Đặc Điểm:** Sứ Giả Tinh Linh Tộc, Kim Đan Sơ Kỳ, Mộc Linh Căn + Âm Luật.
+- **Vai Trò:** Cầu nối giữa Tinh Linh Tộc và thế giới bên ngoài trong sự kiện Huyết Độc Chi Họa.
+- **Ghi Chú:** Tính cách ôn hòa nhưng kiên định. Cần khai thác sự bỡ ngỡ khi lần đầu rời rừng già và nỗi đau nhìn thiên nhiên bị tàn phá.

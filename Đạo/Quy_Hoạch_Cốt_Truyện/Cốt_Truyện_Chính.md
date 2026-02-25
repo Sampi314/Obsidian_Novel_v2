@@ -56,9 +56,9 @@
 1.  **Diệp Tĩnh Sương:** Người thực thi công lý, kiếm sắc bén nhất chiến trường.
 2.  **Lâm Phong:** Kẻ dẫn đường thông thạo địa hình, liên kết các phe phái.
 3.  **Diệp Thanh Y:** Trái tim của liên minh, chữa trị và hòa giải.
-4.  **Sứ Giả Tinh Linh (Nhân vật mới - Cần tạo):** Đại diện cho tiếng nói của rừng.
+4.  **Sứ Giả Tinh Linh ([Lục Tiêu](../Nhân_Vật/Lục_Tiêu.md)):** Đại diện cho tiếng nói của rừng.
 
 ## V. GHI CHÚ CHO CÁC AGENT KHÁC
-- **Kiến Tạo Nhân Vật:** Cần tạo thêm nhân vật "Sứ Giả Tinh Linh" (đề xuất tên: Mộc Lan hoặc Lục Tiêu).
+- **Kiến Tạo Nhân Vật:** [Hoàn Thành] Đã tạo nhân vật Lục Tiêu.
 - **Họa Sĩ Thế Giới:** Cần tranh minh họa cảnh "Rừng cây rỉ máu" và "Huyết Trì".
 - **Đạo Diễn Hành Động:** Chuẩn bị các cảnh chiến đấu giữa Tu sĩ và Huyết Thi/Cổ Thú.
