@@ -33,7 +33,7 @@
 
 ### Giai Đoạn 2: Bí Mật Dưới Lòng Đất (Chương 21-50)
 - **Sự kiện:** Diệp Thanh Y (Dược Vương Cốc) phát hiện ra chất độc không phải tự nhiên mà là Cổ Độc nhân tạo, được nuôi bằng sinh mệnh lực của rễ cây cổ thụ.
-- **Cao trào nhỏ:** Đệ tử Vạn Độc Môn phục kích đoàn cứu trợ. Lâm Phong (Tán tu) vô tình bị cuốn vào khi đang săn thú, cứu được đệ tử Dược Vương Cốc.
+- **Cao trào nhỏ:** Vạn Độc Thánh Tử **Lệ Vô Tâm** dẫn đầu đoàn phục kích đoàn cứu trợ. Lâm Phong (Tán tu) vô tình bị cuốn vào khi đang săn thú, giải cứu được đệ tử Dược Vương Cốc nhưng bị Lệ Vô Tâm ghi thù.
 
 ### Giai Đoạn 3: Lời Cầu Cứu Của Rừng Già (Chương 51-80)
 - **Sự kiện:** Huyết Thần Độc lan đến Vĩnh Hằng Sâm Lâm. Một Cây Thần Mộc con chết khô.
@@ -57,6 +57,7 @@
 2.  **Lâm Phong:** Kẻ dẫn đường thông thạo địa hình, liên kết các phe phái.
 3.  **Diệp Thanh Y:** Trái tim của liên minh, chữa trị và hòa giải.
 4.  **Sứ Giả Tinh Linh ([Lục Tiêu](../Nhân_Vật/Lục_Tiêu.md)):** Đại diện cho tiếng nói của rừng.
+5.  **Lệ Vô Tâm ([Hồ Sơ](../Nhân_Vật/Lệ_Vô_Tâm.md)):** Phản diện chính đối đầu với Diệp Tĩnh Sương và Lâm Phong.
 
 ## V. GHI CHÚ CHO CÁC AGENT KHÁC
 - **Kiến Tạo Nhân Vật:** [Hoàn Thành] Đã tạo nhân vật Lục Tiêu.

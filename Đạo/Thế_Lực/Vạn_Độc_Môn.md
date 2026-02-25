@@ -34,6 +34,7 @@
     - 5 vị trưởng lão (Nguyên Anh Hậu Kỳ) đại diện cho 5 chi nhánh: Xà (Rắn), Rết (Ngô Công), Bò Cạp (Hạt), Cóc (Thiềm Thừ), Nhện (Chu).
 3.  **Hệ Thống Đệ Tử:**
     - **Chân Truyền (Độc Tử):** Những kẻ sống sót qua Lễ Tế Cổ, được truyền dạy bí kíp cao cấp.
+        - *Đứng đầu:* **Vạn Độc Thánh Tử - [Lệ Vô Tâm](../Nhân_Vật/Lệ_Vô_Tâm.md)** (Trúc Cơ Viên Mãn). Kẻ được mệnh danh là "Huyết Thủ Thư Sinh", tương lai sẽ kế thừa chức Môn Chủ.
     - **Nội Môn (Cổ Sư):** Đã luyện thành bản mệnh Cổ Trùng cấp 3 trở lên.
     - **Ngoại Môn (Dược Nô):** Đệ tử mới nhập môn, thường bị dùng làm vật thử thuốc hoặc thức ăn cho Cổ Trùng nếu không tiến bộ.
 
