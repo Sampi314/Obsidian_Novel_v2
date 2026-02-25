@@ -74,8 +74,6 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hứa_Nhược_Thủy.md`.
 - **Hứa Thanh Vân:** Con trai Hứa Nhược Thủy, Luyện Khí Kỳ. Tính cách hào sảng, muốn làm hiệp khách nhưng thiếu kinh nghiệm, hiện đang mất tích. Sở hữu *Lưu Sa Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hứa_Thanh_Vân.md`.
-- **Tư Đồ Sát (Huyết Sa Trưởng Lão):** Trưởng lão Vạn Độc Môn chi nhánh Tây Mạc, Trúc Cơ Hậu Kỳ. Kẻ âm mưu biến Lưu Sa Phế Tích thành Huyết Trì. Sở hữu *Huyết Sa Ma Công*.
-- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Tư_Đồ_Sát.md`.
 
 ## VI. CÁC THẾ LỰC
 - **Dược Vương Cốc (Trung Thổ):**
@@ -216,26 +214,27 @@
 
 ## XI. DANH SÁCH CHƯƠNG TRUYỆN
 - **Huyết Độc Chi Họa:**
-    - [Chương 1: Dấu Hiệu Tai Ương](Chương_Truyện/Chương_00001_Dấu_Hiệu_Tai_Ương.md)
-    - [Chương 2: Phản Kích và Vòng Vây](Chương_Truyện/Chương_00002_Phản_Kích_Và_Vòng_Vây.md)
-    - [Chương 3: Bóng Ma Trong Màn Sương](Chương_Truyện/Chương_00003_Bóng_Ma_Trong_Màn_Sương.md)
-    - [Chương 4: Vạn Độc Thánh Tử](Chương_Truyện/Chương_00004_Vạn_Độc_Thánh_Tử.md)
-    - [Chương 5: Dưới Bóng Ma Rừng Thẳm](Chương_Truyện/Chương_00005_Dưới_Bóng_Ma_Rừng_Thẳm.md)
-    - [Chương 6: Huyết Chiến Đầm Lầy](Chương_Truyện/Chương_00006_Huyết_Chiến_Đầm_Lầy.md)
-    - [Chương 7: Dấu Vết Cổ Xưa](Chương_Truyện/Chương_00007_Dấu_Vết_Cổ_Xưa.md)
-    - [Chương 8: Huyết Tướng Truy Sát](Chương_Truyện/Chương_00008_Huyết_Tướng_Truy_Sát.md)
-    - [Chương 9: Núi Độc Long](Chương_Truyện/Chương_00009_Núi_Độc_Long.md)
-    - [Chương 10: Độc Long Xuất Thế](Chương_Truyện/Chương_00010_Độc_Long_Xuất_Thế.md)
-    - [Chương 11: Bão Cát Tây Mạc](Chương_Truyện/Chương_00011_Bão_Cát_Tây_Mạc.md)
-    - [Chương 12: Thương Vụ Bạc Tỷ](Chương_Truyện/Chương_00012_Thương_Vụ_Bạc_Tỷ.md)
-    - [Chương 13: Lạc Lối Trong Cát](Chương_Truyện/Chương_00013_Lạc_Lối_Trong_Cát.md)
-    - [Chương 14: Sa Mạc Mê Cung](Chương_Truyện/Chương_00014_Sa_Mạc_Mê_Cung.md)
-    - [Chương 15: Bí Mật Dưới Lòng Cát](Chương_Truyện/Chương_00015_Bí_Mật_Dưới_Lòng_Cát.md)
+    - [Chương 1: Dấu Hiệu Tai Ương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00001_Dấu_Hiệu_Tai_Ương.md)
+    - [Chương 2: Phản Kích và Vòng Vây](Chương_Truyện/Góc_Nhìn_Chính/Chương_00002_Phản_Kích_Và_Vòng_Vây.md)
+    - [Chương 3: Bóng Ma Trong Màn Sương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00003_Bóng_Ma_Trong_Màn_Sương.md)
+    - [Chương 4: Vạn Độc Thánh Tử](Chương_Truyện/Góc_Nhìn_Chính/Chương_00004_Vạn_Độc_Thánh_Tử.md)
+    - [Chương 5: Dưới Bóng Ma Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00005_Dưới_Bóng_Ma_Rừng_Thẳm.md)
+    - [Chương 6: Huyết Chiến Đầm Lầy](Chương_Truyện/Góc_Nhìn_Chính/Chương_00006_Huyết_Chiến_Đầm_Lầy.md)
+    - [Chương 7: Dấu Vết Cổ Xưa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00007_Dấu_Vết_Cổ_Xưa.md)
+    - [Chương 8: Huyết Tướng Truy Sát](Chương_Truyện/Góc_Nhìn_Chính/Chương_00008_Huyết_Tướng_Truy_Sát.md)
+    - [Chương 9: Núi Độc Long](Chương_Truyện/Góc_Nhìn_Chính/Chương_00009_Núi_Độc_Long.md)
+    - [Chương 10: Độc Long Xuất Thế](Chương_Truyện/Góc_Nhìn_Chính/Chương_00010_Độc_Long_Xuất_Thế.md)
+    - [Chương 11: Bão Cát Tây Mạc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00011_Bão_Cát_Tây_Mạc.md)
+    - [Chương 12: Thương Vụ Bạc Tỷ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00012_Thương_Vụ_Bạc_Tỷ.md)
+    - [Chương 13: Lạc Lối Trong Cát](Chương_Truyện/Góc_Nhìn_Chính/Chương_00013_Lạc_Lối_Trong_Cát.md)
+    - [Chương 14: Sa Mạc Mê Cung](Chương_Truyện/Góc_Nhìn_Chính/Chương_00014_Sa_Mạc_Mê_Cung.md)
+- **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
+    - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
+        - [Chương -1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_-001_Đường_Đến_Thánh_Vị.md) (Quá khứ 10 năm trước)
+        - [Chương 3: Thí Nghiệm Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00003_Thí_Nghiệm_Máu.md) (Song song Chương 3 chính)
+        - [Chương 4: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00004_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
-- Viết Chương Truyện: Chương 15 - Bí Mật Dưới Lòng Cát.
-- Tạo Nhân vật: Tư Đồ Sát (Huyết Sa Trưởng Lão).
-- Cập nhật Địa danh: Lưu Sa Phế Tích (Thêm Hoàng Sa Địa Cung & Sa Thạch Khôi Lỗi).
 - Viết Chương Truyện: Chương 14 - Sa Mạc Mê Cung.
 - Viết Chương Truyện: Chương 13 - Lạc Lối Trong Cát.
 - Tạo Kỳ vật: Sa Hồn (Quái vật Chương 13).

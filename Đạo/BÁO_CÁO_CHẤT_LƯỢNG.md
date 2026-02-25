@@ -47,4 +47,3 @@
 | 2024-06-26 | Tổng Quản | Tạo Hồ Sơ Tây Mạc (Phần 2) | Hoàn Thành | Tạo Kỳ vật Sa Sương, Hắc Sa Bão và Sa Tặc Liên Minh. |
 | 2024-06-27 | Tổng Quản | Viết Chương 13 & Tạo Sa Hồn | Hoàn Thành | Triển khai cốt truyện tại Lưu Sa Phế Tích và tạo quái vật Sa Hồn. |
 | 2024-06-28 | Tổng Quản | Viết Chương 14 & Cập Nhật Lore | Hoàn Thành | Viết Chương 14 (Sa Mạc Mê Cung) và cập nhật cốt truyện. |
-| 2024-06-29 | Tổng Quản | Mở Rộng Tây Mạc & Viết Chương 15 | Hoàn Thành | Tạo Huyết Sa Trưởng Lão, mở rộng Lưu Sa Phế Tích (Ngầm), viết chương đối đầu Tư Đồ Sát. |

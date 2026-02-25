@@ -17,23 +17,23 @@
 ### Tầng 1: Nhập Độc (入毒)
 Dẫn độc nhập thể, rèn luyện da thịt kháng độc.
 > **Khẩu Quyết:**
-> *   **Hán Tự:** 萬毒噬身，心如止水。
-> *   **Hán Việt:** Vạn độc phệ thân, tâm như chỉ thủy.
-> *   **Dịch Nghĩa:** Vạn loại độc cắn nuốt thân thể, lòng vẫn tĩnh lặng như nước.
+> 萬毒噬身，心如止水。
+> *Vạn độc phệ thân, tâm như chỉ thủy.*
+> (Vạn loại độc cắn nuốt thân thể, lòng vẫn tĩnh lặng như nước.)
 
 ### Tầng 2: Huyết Độc (血毒)
 Hòa tan độc vào máu, biến máu thành vũ khí chí mạng.
 > **Khẩu Quyết:**
-> *   **Hán Tự:** 血染青山，毒流萬世。
-> *   **Hán Việt:** Huyết nhiễm thanh sơn, độc lưu vạn thế.
-> *   **Dịch Nghĩa:** Máu nhuộm xanh núi, độc lưu truyền muôn đời.
+> 血染青山，毒流萬世。
+> *Huyết nhiễm thanh sơn, độc lưu vạn thế.*
+> (Máu nhuộm xanh núi, độc lưu truyền muôn đời.)
 
 ### Tầng 3: Vạn Độc Bất Xâm (万毒不侵)
 Cơ thể trở thành vương giả của loài độc, bách độc bất xâm, hơi thở cũng giết người.
 > **Khẩu Quyết:**
-> *   **Hán Tự:** 天地無情，以毒證道。
-> *   **Hán Việt:** Thiên địa vô tình, dĩ độc chứng đạo.
-> *   **Dịch Nghĩa:** Trời đất không có tình thương, dùng độc để chứng minh đạo của mình.
+> 天地無情，以毒證道。
+> *Thiên địa vô tình, dĩ độc chứng đạo.*
+> (Trời đất không có tình thương, dùng độc để chứng minh đạo của mình.)
 
 ## IV. CÔNG DỤNG & HIỆU QUẢ
 - **Vạn Độc Chi Thể:** Miễn nhiễm với hầu hết các loại độc dược dưới cấp Thiên.
