@@ -173,3 +173,14 @@
 - **Ghi chú:**
   - Nhân vật đã thoát khỏi trung tâm đầm lầy, đến rìa núi Độc Long.
   - Cần chuẩn bị bối cảnh "Tây Mạc" hoặc "Dãy Núi Độc Long" cho chương tiếp theo.
+
+## [2024-06-25] Phiên Làm Việc: Hồ Sơ Tây Mạc (Phần 1)
+- **Trạng thái:** Tạo nhân vật và địa danh bổ sung cho Chương 12.
+- **Chi tiết:**
+  - Tạo `Đạo/Nhân_Vật/Hứa_Thanh_Vân.md` (Con trai Hứa Nhược Thủy, nhân vật cốt lõi nhiệm vụ Chương 12).
+  - Tạo `Đạo/Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md` (Địa điểm nhiệm vụ, di tích cổ đại Tây Mạc).
+  - Cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md` (Bổ sung vào danh sách Nhân Vật và Địa Danh Tây Mạc).
+  - Cập nhật `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+- **Ghi chú:**
+  - Đã khắc phục việc thiếu hồ sơ cho các thực thể được nhắc đến trong Chương 12.
+  - Cần chuẩn bị cốt truyện cho hành trình khám phá Lưu Sa Phế Tích (Chương 13+).
