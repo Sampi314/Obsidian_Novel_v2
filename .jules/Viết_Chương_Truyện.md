@@ -42,15 +42,19 @@ Mỗi chương truyện hoàn chỉnh sẽ có cấu trúc như sau:
 
 ---
 **Chương [Số Chương]: [Tên Chương]**
+**Giao Điểm Cốt Truyện:** [Nếu có, ghi tên và link đến Chương Chính. Nếu không, ghi "Tuyến độc lập"]
 
 **(Nội dung chương truyện...)**
 
 **Lưu ý khi viết Góc Nhìn Khác:**
+- **Xây dựng Tuyến Truyện Độc Lập:** Hãy viết góc nhìn của nhân vật khác như một câu chuyện hoàn chỉnh, trọn vẹn của riêng họ.
+    - Nếu có khoảng trống trong dòng thời gian chính, hãy tự do viết các sự kiện xảy ra với nhân vật đó trong khoảng thời gian ấy.
+    - Nếu giao nhau với nhân vật chính, hãy đánh dấu rõ ràng ở mục **Giao Điểm Cốt Truyện**.
 - **Tập trung nội tâm:** Khai thác sâu sắc suy nghĩ (monologue), động cơ, cảm xúc méo mó của nhân vật.
-- **Sắp xếp thời gian:**
-    - Có thể viết các chương **Tiền Truyện** (Prequel) sử dụng số âm (ví dụ: `Chương_-001`, `Chương_-002`) để mô tả quá khứ, quá trình trưởng thành hoặc sự kiện dẫn đến hiện tại.
-    - Có thể viết các chương **Lấp Đầy** (Interlude) xen kẽ vào dòng thời gian chính (ví dụ: Nhân vật chính đang ở Chương 4, nhưng góc nhìn khác có thể viết Chương 3 để mô tả sự chuẩn bị của phản diện).
-- **Giọng văn:** Giữ vững chất Tiên Hiệp nhưng điều chỉnh sắc thái phù hợp với tính cách nhân vật (ví dụ: Lệ Vô Tâm tàn nhẫn, ngạo mạn; Diệp Thanh Y điềm đạm, nhân hậu).
+- **Sắp xếp thời gian linh hoạt:**
+    - Sử dụng số âm (ví dụ: `Chương_-001`) cho các chương tiền truyện/quá khứ.
+    - Sử dụng số dương tương ứng với mốc thời gian của cốt truyện chính (ví dụ: `Chương 3` của Lệ Vô Tâm xảy ra cùng thời điểm hoặc ngay trước `Chương 3` của Diệp Tĩnh Sương).
+- **Giọng văn:** Giữ vững chất Tiên Hiệp nhưng điều chỉnh sắc thái phù hợp với tính cách nhân vật.
 
 ---
 
