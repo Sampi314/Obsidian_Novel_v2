@@ -33,3 +33,29 @@
 - **Địa điểm:** Trạm Dừng Chân Số 7 (Tây Mạc).
 - **Vật phẩm:** Sa Sương (mục tiêu), Linh Thạch, Mũi tên xương rồng.
 - **Tiến độ Arc:** Giai đoạn 2 - Chuẩn bị tài nguyên và đồng minh. Mở rộng sang nhánh truyện phụ tìm người thân.
+
+## [2024-06-27] Chương 13: Lạc Lối Trong Cát
+- **Nội dung:** Nhóm Diệp Tĩnh Sương và Lâm Phong thâm nhập Lưu Sa Phế Tích. Đối mặt với ảo ảnh và sự khắc nghiệt của môi trường. Chạm trán Sa Hồn.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Sa Hồn.
+- **Địa điểm:** Lưu Sa Phế Tích (Tây Mạc).
+- **Quái vật:** Sa Hồn (Oán linh cát).
+- **Tiến độ Arc:** Khám phá phế tích cổ đại.
+
+## [2024-06-28] Chương 14: Sa Mạc Mê Cung
+- **Nội dung:** Cả hai bị rơi xuống tầng ngầm của phế tích - dấu tích của Hoàng Sa Quốc. Mắc kẹt trong mê cung cạm bẫy.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong.
+- **Địa điểm:** Hầm ngầm Lưu Sa Phế Tích.
+- **Tiến độ Arc:** Đi sâu vào bí mật lịch sử.
+
+## [2024-06-29] Chương 15: Bí Mật Hoàng Sa
+- **Nội dung:** Tìm thấy và giải cứu Hứa Thanh Vân đang bị Sa Hồn vây công. Phát hiện bí mật về Long Cốt và nguyên nhân diệt vong của Hoàng Sa Quốc qua bức phù điêu. Thoát khỏi Sa Hồn Vương.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Sa Hồn Vương.
+- **Địa điểm:** Hoàng Sa Địa Cung.
+- **Vật phẩm:** Bản đồ Long Cốt (bản sao).
+- **Tiến độ Arc:** Cao trào của nhánh truyện Tây Mạc - Hé lộ manh mối quan trọng về Long Cốt.
+
+## [2024-06-30] Chương 16: Trở Về Cát Bụi
+- **Nội dung:** Nhóm thoát ra ngoài và hồi phục tại Ốc Đảo Thanh Lương. Hứa Thanh Vân tiết lộ Long Cốt là chìa khóa Long Mạch. Quyết định quay về Thiên Sa Thương Hội báo tin.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân.
+- **Địa điểm:** Ốc Đảo Thanh Lương.
+- **Tiến độ Arc:** Kết thúc nhánh truyện giải cứu, chuẩn bị cho cuộc chiến tranh giành Long Cốt.

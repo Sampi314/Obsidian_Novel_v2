@@ -41,3 +41,12 @@
 #### 3. Nam Cương - Tây Mạc (Biên Giới)
 - **File:** `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`
 - **Nội Dung:** Dãy núi biên giới, môi trường khắc nghiệt, hang động Huyết Tinh, Độc Long Tích.
+
+## Phiên Làm Việc: 2024-06-30
+
+#### 4. Ốc Đảo Thanh Lương (清凉绿洲)
+- **File:** `Đạo/Thế_Giới_Và_Thời_Gian/Ốc_Đảo_Thanh_Lương.md`
+- **Nội Dung:**
+    - Vị trí: Tây Mạc, gần Lưu Sa Phế Tích.
+    - Đặc điểm: Hồ Thanh Lương Tuyền (chữa thương, giải hỏa độc), Nguyệt Quang Chưởng (ánh sáng, quả ngọt).
+    - Vai trò: Điểm hồi phục sau chương 15, nơi hé lộ bí mật Long Cốt.
