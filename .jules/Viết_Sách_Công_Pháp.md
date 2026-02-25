@@ -33,18 +33,16 @@ Mọi nội dung sách công pháp bạn tạo ra PHẢI tuân thủ nghiêm ng�
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Viet_Sach_Cong_Phap_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA
-Mỗi đoạn nội dung sách công pháp sẽ có cấu trúc như sau. **Lưu ý: Cuối mỗi dòng trong các phần trích dẫn phải có 2 khoảng trắng.**
+Mỗi đoạn nội dung sách công pháp sẽ có cấu trúc như sau:
 
 ---
 **[Tên Công Pháp - Phần/Chiêu Thức]**
 
 1.  **Nguyên Văn (Trung):**
     > [Nội dung tiếng Trung]
-    > [Dòng tiếp theo...]
 
 2.  **Hán Việt:**
     > [Nội dung phiên âm Hán Việt]
-    > [Dòng tiếp theo...]
 
 3.  **Dịch Nghĩa:**
     > [Nội dung dịch sát nghĩa]

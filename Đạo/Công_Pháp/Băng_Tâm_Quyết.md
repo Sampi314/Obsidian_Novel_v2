@@ -12,7 +12,7 @@
 
 ### Tầng 1: Ngưng Băng (Tương ứng Luyện Khí Kỳ)
 Tâm phải tĩnh lặng như mặt hồ đóng băng, không gợn sóng mới có thể cảm nhận được linh khí hàn băng trong trời đất.
-
+<!-- TODO: Sửa lại là Tiếng Trung xong hết mới đến bản dịch tiếng Hán Việt rồi Dịch Nghĩa -->
 **Khẩu Quyết (Thơ Tứ Ngôn):**
 > **Nguyên văn:**
 > 心若冰清 (Tâm nhược băng thanh)

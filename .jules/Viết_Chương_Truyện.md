@@ -46,9 +46,11 @@ Mỗi chương truyện hoàn chỉnh sẽ có cấu trúc như sau:
 **(Nội dung chương truyện...)**
 
 **Lưu ý khi viết Góc Nhìn Khác:**
-- Tập trung sâu sắc vào **suy nghĩ nội tâm** (monologue) của nhân vật đó.
-- Khai thác động cơ, cảm xúc, và cách nhìn nhận của họ về sự kiện đang diễn ra (thường là méo mó hoặc khác biệt so với nhân vật chính).
-- Giữ vững giọng văn Tiên Hiệp nhưng điều chỉnh sắc thái phù hợp với tính cách nhân vật (ví dụ: Lệ Vô Tâm thì giọng văn tàn nhẫn, ngạo mạn, toan tính).
+- **Tập trung nội tâm:** Khai thác sâu sắc suy nghĩ (monologue), động cơ, cảm xúc méo mó của nhân vật.
+- **Sắp xếp thời gian:**
+    - Có thể viết các chương **Tiền Truyện** (Prequel) sử dụng số âm (ví dụ: `Chương_-001`, `Chương_-002`) để mô tả quá khứ, quá trình trưởng thành hoặc sự kiện dẫn đến hiện tại.
+    - Có thể viết các chương **Lấp Đầy** (Interlude) xen kẽ vào dòng thời gian chính (ví dụ: Nhân vật chính đang ở Chương 4, nhưng góc nhìn khác có thể viết Chương 3 để mô tả sự chuẩn bị của phản diện).
+- **Giọng văn:** Giữ vững chất Tiên Hiệp nhưng điều chỉnh sắc thái phù hợp với tính cách nhân vật (ví dụ: Lệ Vô Tâm tàn nhẫn, ngạo mạn; Diệp Thanh Y điềm đạm, nhân hậu).
 
 ---
 

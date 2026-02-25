@@ -17,103 +17,58 @@ dạng_cấu_trúc: [Verse - Pre-Chorus - Chorus - Bridge - Outro]
 
 ## 🎵 LỜI BÀI HÁT (LYRICS)
 
-### I. NGUYÊN VĂN TIẾNG TRUNG (CHINESE LYRICS)
-**(Verse 1)**
-萬蟲噬骨血如霜
-百毒攻心淚斷腸
-草木皆兵魂不散
-生靈塗炭怨無疆
-
-**(Pre-Chorus)**
-以毒入道以殺證神
-天道不仁吾為魔尊
-
-**(Chorus)**
-萬毒門開死門現
-血池沸騰祭蒼天
-一念成魔萬骨枯
-獨霸南疆夢九天
-
-**(Verse 2)**
-青蛇纏首蠍尾針
-蛛絲縛命蠱蟲吟
-人心險惡勝毒藥
-世態人情薄如灰
-
-**(Bridge)**
-血... 血... 血...
-毒... 毒... 毒...
-吞噬... 吞噬...
-永生... 永生...
-
-**(Outro)**
-萬毒... 歸宗...
-血染... 山河...
-
-### II. PHIÊN ÂM HÁN VIỆT (SINO-VIETNAMESE LYRICS)
-**(Verse 1)**
-Vạn trùng phệ cốt, huyết như sương
-Bách độc công tâm, lệ đoạn trường
-Thảo mộc giai binh, hồn bất tán
-Sinh linh đồ thán, oán vô cương
-
-**(Pre-Chorus)**
-Dĩ độc nhập đạo, dĩ sát chứng thần
-Thiên đạo bất nhân, ngô vi ma tôn
-
-**(Chorus)**
-Vạn Độc môn khai, tử môn hiện
-Huyết trì sôi sục, tế thương thiên
-Nhất niệm thành ma, vạn cốt khô
-Độc bá Nam Cương, mộng cửu thiên
-
-**(Verse 2)**
-Thanh xà triền thủ, hạt vĩ châm
-Chu tơ phược mệnh, cổ trùng ngâm
-Nhân tâm hiểm ác thắng độc dược
-Thế thái nhân tình bạc như hôi
-
-**(Bridge)**
-Huyết... Huyết... Huyết...
-Độc... Độc... Độc...
-Thôn phệ... Thôn phệ...
-Vĩnh sinh... Vĩnh sinh...
-
-**(Outro)**
-Vạn độc... quy tông...
-Huyết nhiễm... sơn hà...
-
-### III. DỊCH SÁT NGHĨA (LITERAL TRANSLATION)
-**(Verse 1)**
+### Verse 1
+(Tiếng trống chậm rãi, nặng nề như tiếng tim đập)
+**Vạn trùng phệ cốt, huyết như sương**
 (Vạn con sâu ăn xương, máu như sương)
+**Bách độc công tâm, lệ đoạn trường**
 (Trăm loại độc tấn công tim, nước mắt đứt ruột)
+**Thảo mộc giai binh, hồn bất tán**
 (Cỏ cây đều là binh lính, hồn không tan)
+**Sinh linh đồ thán, oán vô cương**
 (Sinh linh lầm than, oán hận không biên giới)
 
-**(Pre-Chorus)**
+### Pre-Chorus
+(Tiếng sáo xương rít lên the thé)
+**Dĩ độc nhập đạo, dĩ sát chứng thần**
 (Dùng độc để vào đạo, dùng giết chóc để chứng thần)
+**Thiên đạo bất nhân, ngô vi ma tôn**
 (Thiên đạo không nhân từ, ta làm ma tôn)
 
-**(Chorus)**
+### Chorus
+(Đồng ca nam trầm, âm hưởng như tụng kinh)
+**Vạn Độc môn khai, tử môn hiện**
 (Cửa Vạn Độc mở ra, cửa tử hiện ra)
+**Huyết trì sôi sục, tế thương thiên**
 (Ao máu sôi sục, tế trời xanh)
+**Nhất niệm thành ma, vạn cốt khô**
 (Một ý niệm thành ma, vạn xương khô)
+**Độc bá Nam Cương, mộng cửu thiên**
 (Độc chiếm Nam Cương, mơ về chín tầng trời)
 
-**(Verse 2)**
+### Verse 2
+(Tiếng chuông đồng rung lắc, tiếng côn trùng rả rích)
+**Thanh xà triền thủ, hạt vĩ châm**
 (Rắn xanh quấn cổ, đuôi bọ cạp châm)
+**Chu tơ phược mệnh, cổ trùng ngâm**
 (Tơ nhện trói mệnh, cổ trùng ngâm nga)
+**Nhân tâm hiểm ác hơn độc dược**
 (Lòng người hiểm ác hơn thuốc độc)
-(Thói đời tình người bạc như tro bụi)
+**Thế thái nhân tình bạc như vôi**
+(Thói đời tình người bạc như vôi)
 
-**(Bridge)**
-(Máu... Máu... Máu...)
-(Độc... Độc... Độc...)
-(Nuốt trọn... Nuốt trọn...)
-(Sống mãi... Sống mãi...)
+### Bridge
+(Tiết tấu dồn dập, tiếng la hét vọng từ xa)
+**Máu... Máu... Máu...** (Huyết... Huyết... Huyết...)
+**Độc... Độc... Độc...** (Độc... Độc... Độc...)
+**Nuốt trọn... Nuốt trọn...** (Thôn phệ... Thôn phệ...)
+**Vĩnh sinh... Vĩnh sinh...** (Vĩnh sinh... Vĩnh sinh...)
 
-**(Outro)**
+### Outro
+(Tiếng sáo nhỏ dần, chỉ còn tiếng gió rít qua khe núi)
+**Vạn độc... quy tông...**
 (Vạn độc... quay về tông môn...)
+**Huyết nhiễm... sơn hà...**
 (Máu nhuộm... núi sông...)
 
 ---
