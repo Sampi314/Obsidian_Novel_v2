@@ -108,7 +108,7 @@
     - *Vạn Hỏa Phần Thiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
     - *Cửu Thiên Hàn Băng Trận (Cửu Cấp):* Trận pháp hộ sơn của Huyền Băng Cung, tạo ra bão tuyết và ảo ảnh băng giá. Xem tại `Đạo/Trận_Pháp/Cửu_Thiên_Hàn_Băng_Trận.md`.
     - *Vạn Độc Phệ Tâm Trận (Cửu Cấp):* Trận pháp hộ sơn của Vạn Độc Môn, dùng độc vụ và ảo giác giết chết kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Độc_Phệ_Tâm_Trận.md`.
-- **Vạn Mộc Hồi Xuân Trận (Cửu Cấp):** Trận pháp hộ sơn của Dược Vương Cốc, biến cây cối thành chiến binh và hồi phục linh lực vô tận.
+    - *Vạn Mộc Hồi Xuân Trận (Cửu Cấp):* Trận pháp hộ sơn của Dược Vương Cốc, biến cây cối thành chiến binh và hồi phục linh lực vô tận. Xem tại `Đạo/Trận_Pháp/Vạn_Mộc_Hồi_Xuân_Trận.md`.
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Dan_Pha_Chuong_Dan.md`.
     - *Băng Tâm Đan (Huyền Cấp Hạ Phẩm):* Giúp tĩnh tâm, giải trừ hỏa độc, tăng khả năng tu luyện hệ Băng. Xem tại `Đạo/Đan_Dược/Băng_Tâm_Đan.md`.
