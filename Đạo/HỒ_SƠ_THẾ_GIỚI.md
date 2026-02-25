@@ -183,6 +183,7 @@
     - [Khúc Nhạc Rừng Xanh](Thơ_Ca/Khúc_Nhạc_Rừng_Xanh.md): Bài thơ về nỗi lòng của Tinh Linh Tộc trước cảnh rừng già bị tàn phá.
     - [Nguyệt Hạ Tinh Linh](Thơ_Ca/Nguyệt_Hạ_Tinh_Linh.md): Bài thơ về nỗi cô đơn và quyết tâm của Nữ Hoàng Nguyệt Dao.
     - [Đầm Lầy Dạ Khúc](Thơ_Ca/Đầm_Lầy_Dạ_Khúc.md): Bài thơ về sự nguy hiểm và chết chóc của Đầm Lầy Tử Thần.
+    - [Ốc Đảo Dạ Khúc](Thơ_Ca/Ốc_Đảo_Dạ_Khúc.md): Bài thơ về vẻ đẹp và sự nguy hiểm của ốc đảo sa mạc.
 - **Âm Nhạc:**
     - **[DANH SÁCH TÁC PHẨM (MỚI)](Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md):** Thư viện tổng hợp 100+ tác phẩm âm nhạc (bao gồm 90 bài hát mới).
     - [Khúc Nhạc Mở Đầu: Cố Nguyên Trường Ca](Âm_Nhạc/Khởi_Nguyên/Khúc_Nhạc_Mở_Đầu.md): BGM hùng tráng, bi ai mô tả thế giới.
@@ -214,8 +215,11 @@
     - [Chương 9: Núi Độc Long](Chương_Truyện/Chương_9_Núi_Độc_Long.md)
     - [Chương 10: Độc Long Xuất Thế](Chương_Truyện/Chương_10_Độc_Long_Xuất_Thế.md)
     - [Chương 11: Bão Cát Tây Mạc](Chương_Truyện/Chương_11_Bão_Cát_Tây_Mạc.md)
+    - [Chương 12: Thương Vụ Bạc Tỷ](Chương_Truyện/Chương_12_Thương_Vụ_Bạc_Tỷ.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 12 - Thương Vụ Bạc Tỷ.
+- Sáng tác thơ: Ốc Đảo Dạ Khúc.
 - Viết Chương Truyện: Chương 11 - Bão Cát Tây Mạc.
 - Viết Chương Truyện: Chương 10 - Độc Long Xuất Thế.
 - Tạo Kỳ vật: Độc Long Tích (Quái vật Chương 10).
