@@ -15,6 +15,8 @@
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
+    - **Tây Mạc (Western Desert):** Vùng sa mạc khắc nghiệt phía Tây, nơi ngự trị của Thiên Sa Thương Hội.
+        - *Lưu Sa Phế Tích:* Di tích cổ đại đầy cạm bẫy và ảo ảnh. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md`.
 - **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`.
 - **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
 
@@ -69,6 +71,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Nguyệt_Dao.md`.
 - **Hứa Nhược Thủy (Sa Dược Phu Nhân):** Gia Chủ Hứa Gia (Thiên Sa Thương Hội), Nguyên Anh Sơ Kỳ. Thương nhân thực dụng và trung lập, nắm giữ nguồn dược liệu sa mạc quan trọng cho cả Chính và Tà đạo. Sở hữu *Thủy Sa Hóa Linh Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hứa_Nhược_Thủy.md`.
+- **Hứa Thanh Vân:** Con trai Hứa Nhược Thủy, Luyện Khí Kỳ. Tính cách hào sảng, muốn làm hiệp khách nhưng thiếu kinh nghiệm, hiện đang mất tích. Sở hữu *Lưu Sa Kiếm Quyết*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hứa_Thanh_Vân.md`.
 
 ## VI. CÁC THẾ LỰC
 - **Dược Vương Cốc (Trung Thổ):**
