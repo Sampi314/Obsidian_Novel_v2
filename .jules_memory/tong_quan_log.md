@@ -1,21 +1,12 @@
-# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI
 
-## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
-- **Mục tiêu:** Tiếp tục cốt truyện "Huyết Độc Chi Họa" với bối cảnh Lưu Sa Phế Tích.
-
-## 2. CÔNG VIỆC ĐÃ LÀM
-- **Sáng tạo:**
-  - `Đạo/Chương_Truyện/Chương_13_Lạc_Lối_Trong_Cát.md`: Chương khám phá Lưu Sa Phế Tích.
-  - `Đạo/Kỳ_Vật/Sa_Hồn.md`: Hồ sơ quái vật (Lore) cho khu vực này.
-- **Cập nhật:**
-  - Bổ sung danh sách chương truyện và vật phẩm mới vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-  - Ghi log vào `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
-
-## 3. TRẠNG THÁI HỆ THỐNG
-- **Tiến độ:** Cốt truyện đã chuyển sang giai đoạn khám phá bí cảnh.
-- **Chất lượng:** Các liên kết trong file mới đã được kiểm tra và đảm bảo tính nhất quán.
-
-## 4. KẾ HOẠCH TIẾP THEO
-- Viết tiếp Chương 14: Rơi xuống tầng sâu của phế tích hoặc đối đầu với Sa Hồn Tướng.
-- Có thể tạo thêm một số kỳ vật/pháp bảo cổ đại tìm thấy trong phế tích.
+## Phiên 2024-06-29: Tây Mạc Huyết Chiến
+- **Tổng quan:** Tiếp tục mạch truyện tại Tây Mạc. Phát hiện dấu vết Vạn Độc Môn tại Lưu Sa Phế Tích.
+- **Thay đổi người dùng:** Không phát hiện thay đổi đáng kể.
+- **Công việc đã làm:**
+    - Cập nhật `Lưu_Sa_Phế_Tích.md`: Thêm khu vực Hoàng Sa Địa Cung và quái vật Sa Thạch Khôi Lỗi.
+    - Tạo `Tư_Đồ_Sát.md`: Trưởng lão Vạn Độc Môn, phản diện chính của arc này.
+    - Viết `Chương_00015_Bí_Mật_Dưới_Lòng_Cát.md`: Nhóm nhân vật chính đối đầu Tư Đồ Sát và thoát khỏi phế tích.
+- **Dự định tiếp theo:**
+    - Hồi phục tại ốc đảo bí mật.
+    - Liên lạc với Thiên Sa Thương Hội.
+    - Chuẩn bị cho cuộc phản công hoặc chạy trốn khỏi sự truy sát của Vạn Độc Môn.

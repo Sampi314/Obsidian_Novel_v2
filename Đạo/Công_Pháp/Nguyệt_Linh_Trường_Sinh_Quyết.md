@@ -21,7 +21,6 @@
 ## III. CÁC TẦNG CẢNH GIỚI (KHẨU QUYẾT)
 
 ### Tầng 1: Sơ Nguyệt (Trăng Non) - Luyện Khí/Trúc Cơ
-<!-- TODO: Thêm bản Tiếng Trung -->
 - **Khẩu Quyết:**
   > Nguyệt xuất đông sơn, thanh quang sơ hiện.
   > Tâm như chỉ thủy, vạn vật giai không.
@@ -32,7 +31,6 @@
   - Sơ bộ lĩnh ngộ thuật hồi phục vết thương nhỏ.
 
 ### Tầng 2: Bán Nguyệt (Trăng Khuyết) - Kim Đan/Nguyên Anh
-<!-- TODO: Thêm bản Tiếng Trung -->
 - **Khẩu Quyết:**
   > Bán luân minh nguyệt, chiếu ảnh hàn đàm.
   > Sinh sinh bất tức, độc khí tiêu tan.
@@ -44,7 +42,6 @@
   - Tuổi thọ gia tăng đáng kể, dung nhan trẻ mãi không già.
 
 ### Tầng 3: Viên Nguyệt (Trăng Tròn) - Hóa Thần trở lên
-<!-- TODO: Thêm bản Tiếng Trung -->
 - **Khẩu Quyết:**
   > Viên nguyệt đương không, vạn dặm thanh huy.
   > Thần mộc giao cảm, thiên địa đồng quy.

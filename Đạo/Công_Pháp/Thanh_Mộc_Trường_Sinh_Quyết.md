@@ -14,26 +14,26 @@
 
 ## III. CẢNH GIỚI & KHẨU QUYẾT
 
-### Tầng 1: Mộc Khí Nhập Thể (木气入体)
+### Tầng 1: Mộc Khí Nhập Thể (木氣入體)
 Dẫn dụ mộc linh khí vào cơ thể, cường hóa da thịt trở nên dẻo dai như vỏ cây, tăng khả năng hồi phục vết thương nhẹ.
-<!-- TODO: Thêm bản Tiếng Trung -->
 > **Khẩu Quyết:**
-> Thanh mộc vi căn, sinh cơ bất tuyệt.
-> (Cây xanh làm gốc, sự sống không dứt.)
+> *   **Hán Tự:** 青木為根，生機不絕。
+> *   **Hán Việt:** Thanh mộc vi căn, sinh cơ bất tuyệt.
+> *   **Dịch Nghĩa:** Cây xanh làm gốc, sự sống không dứt.
 
-### Tầng 2: Diệp Vũ Phong Hành (叶舞风行)
+### Tầng 2: Diệp Vũ Phong Hành (葉舞風行)
 Kết hợp Mộc khí và Phong khí, giúp thân pháp nhẹ nhàng như lá bay trong gió, tăng tốc độ di chuyển và phản xạ.
-<!-- TODO: Thêm bản Tiếng Trung -->
 > **Khẩu Quyết:**
-> Tùy phong nhi động, diệp lạc vô thanh.
-> (Nương gió mà động, lá rơi không tiếng.)
+> *   **Hán Tự:** 隨風而動，葉落無聲。
+> *   **Hán Việt:** Tùy phong nhi động, diệp lạc vô thanh.
+> *   **Dịch Nghĩa:** Nương gió mà động, lá rơi không tiếng.
 
-### Tầng 3: Sâm La Vạn Tượng (森罗万象) - Sơ Cấp
+### Tầng 3: Sâm La Vạn Tượng (森羅萬象) - Sơ Cấp
 Điều khiển cây cỏ xung quanh hỗ trợ chiến đấu, biến rừng rậm thành sân nhà.
-<!-- TODO: Thêm bản Tiếng Trung -->
 > **Khẩu Quyết:**
-> Vạn mộc đồng tâm, thảo mộc giai binh.
-> (Vạn cây cùng lòng, cỏ cây đều là lính.)
+> *   **Hán Tự:** 萬木同心，草木皆兵。
+> *   **Hán Việt:** Vạn mộc đồng tâm, thảo mộc giai binh.
+> *   **Dịch Nghĩa:** Vạn cây cùng lòng, cỏ cây đều là lính.
 
 ## IV. HỆ THỐNG CHIÊU THỨC
 
