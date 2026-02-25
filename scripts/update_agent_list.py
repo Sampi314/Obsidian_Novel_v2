@@ -73,21 +73,24 @@ def extract_agent_info(filepath):
         "category": CATEGORY_MAP.get(filename, "Khác")
     }
 
+def extract_field(pattern, content, default="N/A", flags=0):
+    match = re.search(pattern, content, flags)
+    return match.group(1).strip() if match else default
+
 def extract_character_info(filepath):
     filename = os.path.basename(filepath)
     content = read_file_content(filepath)
 
     # Try multiple patterns for Name
-    name_match = re.search(r'-\s*\*\*Tên Nhân Vật:\*\*\s*(.+)', content)
-    name = name_match.group(1).strip() if name_match else filename.replace(".md", "").replace("_", " ")
+    name = extract_field(r'-\s*\*\*(?:Tên Nhân Vật|Tên Gọi|Tên):\*\*\s*(.+)', content, default=None)
+    if not name:
+        name = filename.replace(".md", "").replace("_", " ")
 
     # Race
-    race_match = re.search(r'-\s*\*\*Chủng Tộc:\*\*\s*(.+)', content)
-    race = race_match.group(1).strip() if race_match else "N/A"
+    race = extract_field(r'-\s*\*\*Chủng Tộc:\*\*\s*(.+)', content)
 
     # Realm (Cultivation Level)
-    realm_match = re.search(r'-\s*\*\*Cảnh Giới:\*\*\s*(.+)', content)
-    realm = realm_match.group(1).strip() if realm_match else "N/A"
+    realm = extract_field(r'-\s*\*\*Cảnh Giới:\*\*\s*(.+)', content)
 
     return {
         "filename": filename,
@@ -101,16 +104,15 @@ def extract_technique_info(filepath):
     content = read_file_content(filepath)
 
     # Name from first header
-    name_match = re.search(r'^#\s*(.+)', content)
-    name = name_match.group(1).strip() if name_match else filename.replace(".md", "").replace("_", " ")
+    name = extract_field(r'^#\s*(.+)', content, default=None)
+    if not name:
+        name = filename.replace(".md", "").replace("_", " ")
 
     # Rank
-    rank_match = re.search(r'-\s*\*\*Phẩm Cấp:\*\*\s*(.+)', content)
-    rank = rank_match.group(1).strip() if rank_match else "N/A"
+    rank = extract_field(r'-\s*\*\*Phẩm Cấp:\*\*\s*(.+)', content)
 
     # Element
-    element_match = re.search(r'-\s*\*\*Thuộc Tính:\*\*\s*(.+)', content)
-    element = element_match.group(1).strip() if element_match else "N/A"
+    element = extract_field(r'-\s*\*\*(?:Thuộc Tính|Hệ):\*\*\s*(.+)', content)
 
     return {
         "filename": filename,

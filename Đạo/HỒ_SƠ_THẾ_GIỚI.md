@@ -53,8 +53,13 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Đan_Dương_Tử.md`.
 - **Độc Cô Lão Quái (Vạn Độc Ma Quân):** Môn Chủ Vạn Độc Môn, Hóa Thần Sơ Kỳ. Tính cách tàn nhẫn, đa nghi, chuyên dùng độc và cổ trùng. Sở hữu *Vạn Độc Chân Kinh*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Độc_Cô_Lão_Quái.md`.
+- **Diệp Thanh Y (Dược Tôn):** Cốc Chủ Dược Vương Cốc, Hóa Thần Sơ Kỳ. Một trong Tam Đại Thần Y, tính cách nhân hậu nhưng cương quyết với cái ác. Sở hữu *Thanh Nang Trường Sinh Quyết*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Thanh_Y.md`.
 
 ## VI. CÁC THẾ LỰC
+- **Dược Vương Cốc (Trung Thổ):**
+    - Thánh địa y học của Cố Nguyên Giới, chuyên cứu người độ thế, đối lập hoàn toàn với Vạn Độc Môn.
+    - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Dược_Vương_Cốc.md`.
 - **Cửu Hoa Kiếm Tông (Đông Hoang):**
     - Tông môn kiếm tu hạng Nhất, nổi tiếng với quy tắc nghiêm khắc và kiếm trận hộ sơn.
     - **Chi Tiết:** Xem tại `Đạo/Thế_Lực/Cửu_Hoa_Kiếm_Tông.md`.
@@ -93,6 +98,9 @@
 - **Vạn Độc Chân Kinh (Thiên Cấp Hạ Phẩm):**
     - Công pháp trấn phái của Vạn Độc Môn, hấp thụ vạn loại độc dược để luyện thành độc thể.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Vạn_Độc_Chân_Kinh.md`.
+- **Thanh Nang Trường Sinh Quyết (Thiên Cấp Trung Phẩm):**
+    - Công pháp trấn phái của Dược Vương Cốc, chuyên về hồi phục sinh mệnh và điều khiển thảo mộc.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Thanh_Nang_Trường_Sinh_Quyết.md`.
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Trận Pháp:**
@@ -100,6 +108,7 @@
     - *Vạn Hỏa Phần Thiên Trận (Cửu Cấp):* Trận pháp hộ sơn của Đan Hà Cốc, kích hoạt địa hỏa thiêu đốt kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md`.
     - *Cửu Thiên Hàn Băng Trận (Cửu Cấp):* Trận pháp hộ sơn của Huyền Băng Cung, tạo ra bão tuyết và ảo ảnh băng giá. Xem tại `Đạo/Trận_Pháp/Cửu_Thiên_Hàn_Băng_Trận.md`.
     - *Vạn Độc Phệ Tâm Trận (Cửu Cấp):* Trận pháp hộ sơn của Vạn Độc Môn, dùng độc vụ và ảo giác giết chết kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Độc_Phệ_Tâm_Trận.md`.
+- **Vạn Mộc Hồi Xuân Trận (Cửu Cấp):** Trận pháp hộ sơn của Dược Vương Cốc, biến cây cối thành chiến binh và hồi phục linh lực vô tận.
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Dan_Pha_Chuong_Dan.md`.
     - *Băng Tâm Đan (Huyền Cấp Hạ Phẩm):* Giúp tĩnh tâm, giải trừ hỏa độc, tăng khả năng tu luyện hệ Băng. Xem tại `Đạo/Đan_Dược/Băng_Tâm_Đan.md`.
@@ -165,3 +174,6 @@
 - Sửa lỗi liên kết, cập nhật tên file và thêm Kỳ vật: Vạn Độc Châu.
 - Tạo nhân vật Đan Dương Tử (Cốc Chủ Đan Hà Cốc).
 - Tạo nhân vật Độc Cô Lão Quái (Môn Chủ Vạn Độc Môn).
+- Tạo thế lực mới: Dược Vương Cốc (Trung Thổ).
+- Tạo nhân vật Diệp Thanh Y (Cốc Chủ Dược Vương Cốc).
+- Tạo công pháp mới: Thanh Nang Trường Sinh Quyết.
