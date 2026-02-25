@@ -17,6 +17,7 @@
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
     - **Tây Mạc (Western Desert):** Vùng sa mạc khắc nghiệt phía Tây, nơi ngự trị của Thiên Sa Thương Hội.
         - *Lưu Sa Phế Tích:* Di tích cổ đại đầy cạm bẫy và ảo ảnh. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md`.
+        - *Hoàng Sa Địa Cung:* Lăng mộ ngầm chứa bí mật của Hoàng Sa Quốc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hoàng_Sa_Địa_Cung.md`.
         - *Hắc Sa Bão:* Hiện tượng thiên nhiên tàn khốc đặc trưng của Tây Mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hắc_Sa_Bão.md`.
 - **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`.
 - **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
@@ -184,6 +185,7 @@
     - *Độc Long Tích:* Thằn lằn độc khổng lồ sống tại Núi Độc Long, có vảy đá và máu độc. Xem tại `Đạo/Kỳ_Vật/Độc_Long_Tích.md`.
     - *Sa Sương:* Tinh thể băng kết tinh vào đêm sa mạc, dùng để chế thuốc giải hỏa độc. Xem tại `Đạo/Kỳ_Vật/Sa_Sương.md`.
     - *Sa Hồn (Sand Wraith):* Oán linh tại Lưu Sa Phế Tích, có khả năng tạo ảo giác và nhập vào cát. Xem tại `Đạo/Kỳ_Vật/Sa_Hồn.md`.
+    - *Long Cốt:* Di cốt rồng thần hệ Thổ, chìa khóa nắm giữ long mạch Tây Mạc. Xem tại `Đạo/Kỳ_Vật/Long_Cốt.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -228,6 +230,7 @@
     - [Chương 12: Thương Vụ Bạc Tỷ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00012_Thương_Vụ_Bạc_Tỷ.md)
     - [Chương 13: Lạc Lối Trong Cát](Chương_Truyện/Góc_Nhìn_Chính/Chương_00013_Lạc_Lối_Trong_Cát.md)
     - [Chương 14: Sa Mạc Mê Cung](Chương_Truyện/Góc_Nhìn_Chính/Chương_00014_Sa_Mạc_Mê_Cung.md)
+    - [Chương 15: Bí Mật Hoàng Sa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00015_Bí_Mật_Hoàng_Sa.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương -1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_-001_Đường_Đến_Thánh_Vị.md) (Quá khứ 10 năm trước)
@@ -235,6 +238,9 @@
         - [Chương 4: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00004_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 15 - Bí Mật Hoàng Sa.
+- Tạo Địa danh: Hoàng Sa Địa Cung.
+- Tạo Kỳ vật: Long Cốt.
 - Viết Chương Truyện: Chương 14 - Sa Mạc Mê Cung.
 - Viết Chương Truyện: Chương 13 - Lạc Lối Trong Cát.
 - Tạo Kỳ vật: Sa Hồn (Quái vật Chương 13).
