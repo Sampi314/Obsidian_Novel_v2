@@ -11,3 +11,4 @@
 | 2024-05-24 | Tổng Quản | Chạy thử nghiệm toàn bộ 19 Agent (Demo: Huyền Băng Cung) | Hoàn Thành | Đã tạo đầy đủ các thành phần liên quan đến Huyền Băng Cung và Băng Tộc. Bao gồm: Hồ sơ thế lực, Nhân vật, Công pháp, Văn hóa, Nghề phụ, Thơ ca, Âm nhạc và Chương truyện mẫu. |
 | 2024-05-25 | Kiến Tạo Chủng Tộc | Xây dựng quan hệ ngoại giao (10 Đại Tộc) | Hoàn Thành | Đã tạo file Quan_Hệ_Chủng_Tộc.md, giải quyết vấn đề tồn đọng ngày 23/05. |
 | 2024-05-26 | Tổng Quản | Tạo Vạn Độc Môn & Fix Đan Hà Cốc | Hoàn Thành | Đã thêm thế lực đối trọng tại Nam Cương và đồng bộ timeline. |
+| 2024-05-27 | Tổng Quản | Sửa Lore & Bồi đắp Thế Lực | Hoàn Thành | Sửa Niên Biểu (Hỗn Độn Liên Hoa) & thêm Giai Thoại cho Đan Hà Cốc/Vạn Độc Môn. |
