@@ -35,3 +35,4 @@
 | 2024-06-15 | Tổng Quản | Viết Chương 3 & Tạo Huyết Tướng | Hoàn Thành | Viết tiếp diễn biến tại Thôn Lạc Diệp và tạo quái vật Huyết Tướng. |
 | 2024-06-16 | Tổng Quản | Tạo Huyết Thần Độc & Viết Chương 4 | Hoàn Thành | Tạo Kỳ vật Huyết Thần Độc và viết chương đối đầu Lệ Vô Tâm. |
 | 2024-06-17 | Tổng Quản | Viết Chương 5 & Tạo Truy Phong Cung | Hoàn Thành | Viết Chương 5 mô tả cuộc thoát hiểm vào Đầm Lầy Tử Thần và tạo vũ khí mới cho Lâm Phong. |
+| 2024-06-18 | Tổng Quản | Tạo Đầm Lầy Tử Thần & Huyết Độc Lang | Hoàn Thành | Chuẩn bị tài nguyên cho Chương 6 (Địa điểm và Quái vật). |
