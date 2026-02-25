@@ -3,7 +3,7 @@
 **Thể loại:** Thất Ngôn Bát Cú
 **Tác giả:** Tổng Quản (Jules)
 **Xuất xứ:** [Chương 12: Thương Vụ Bạc Tỷ](../Chương_Truyện/Chương_00012_Thương_Vụ_Bạc_Tỷ.md)
-
+<!-- TODO: Thêm bản Tiếng Trung -->
 ---
 
 Cát vàng trải rộng ánh trăng soi,
