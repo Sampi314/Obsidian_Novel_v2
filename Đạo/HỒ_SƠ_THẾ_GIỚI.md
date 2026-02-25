@@ -173,7 +173,7 @@
     - Hỗn Độn Ca: Khúc ca cổ về thuở khai thiên lập địa. (Đang thất truyền)
     - Thần Ma Lệ: Bản hùng ca bi tráng về cuộc chiến Thần Ma. (Đang thất truyền)
     - [Vấn Đạo Hành](Âm_Nhạc/Khởi_Nguyên/Vấn_Đạo_Hành.md): Bài ca về con đường tu đạo đầy gian nan trong thời đại hiện tại.
-    - Hồng Trần Vọng: Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần. (Chưa ghi chép)
+    - [Hồng Trần Vọng](Âm_Nhạc/Khởi_Nguyên/Hồng_Trần_Vọng.md): Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần.
     - [Đan Hỏa Trường Ca](Âm_Nhạc/Khởi_Nguyên/Đan_Hỏa_Trường_Ca.md): Ca khúc hùng tráng về Đan đạo và Đan Hà Cốc.
     - Tiêu Dao Du: Ca khúc vui tươi, phóng khoáng của tán tu. (Chưa ghi chép)
     - Ma Tâm: Khúc ca đen tối về sự sa ngã vào Ma đạo. (Chưa ghi chép)
@@ -188,6 +188,7 @@
 ## XI. DANH SÁCH CHƯƠNG TRUYỆN
 - **Huyết Độc Chi Họa:**
     - [Chương 1: Dấu Hiệu Tai Ương](Chương_Truyện/Chương_1_Dấu_Hiệu_Tai_Ương.md)
+    - [Chương 2: Phản Kích và Vòng Vây](Chương_Truyện/Chương_2_Phản_Kích_Và_Vòng_Vây.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Cốt Truyện Chính: Huyết Độc Chi Họa.
@@ -253,3 +254,5 @@
 - Tạo Phù Lục: Truyền Âm Phù.
 - Tạo Kỳ vật: Huyết Thi (Yêu vật nhiễm độc).
 - Viết Chương Truyện: Chương 1 - Dấu Hiệu Tai Ương.
+- Viết Chương Truyện: Chương 2 - Phản Kích và Vòng Vây.
+- Sáng tác Âm nhạc: Hồng Trần Vọng.

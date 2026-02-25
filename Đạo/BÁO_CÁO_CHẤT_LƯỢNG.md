@@ -31,3 +31,4 @@
 | 2024-06-12 | Tổng Quản | Tạo Vạn Độc Thánh Tử | Hoàn Thành | Tạo nhân vật Lệ Vô Tâm và sáng tác Vạn Độc Ca. Cập nhật cốt truyện chính. |
 | 2024-06-13 | Tổng Quản | Tạo Bộ Pháp Bảo Lệ Vô Tâm | Hoàn Thành | Tạo Huyết Độc Phiến, Thiên Tinh Cổ, Vạn Độc Phệ Hồn Quyết. |
 | 2024-06-14 | Tổng Quản | Viết Chương 1 & Tạo Huyết Thi | Hoàn Thành | Viết Chương 1 Huyết Độc Chi Họa, tạo hồ sơ Huyết Thi và Truyền Âm Phù. |
+| 2024-06-15 | Tổng Quản | Viết Chương 2 & Sáng tác Hồng Trần Vọng | Hoàn Thành | Viết Chương 2 Huyết Độc Chi Họa, sáng tác ca khúc Hồng Trần Vọng. |
