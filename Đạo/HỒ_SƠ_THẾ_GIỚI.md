@@ -149,6 +149,7 @@
     - *Thanh Liên Kiếm (Thiên Cấp Hạ Phẩm):* Kiếm bản mệnh của Lục Trần, rèn từ thân sen ngàn năm, kiếm khí như hoa sen nở rộ. Xem tại `Đạo/Luyện_Khí/Thanh_Liên_Kiếm.md`.
     - *Huyết Độc Phiến (Huyền Cấp Thượng Phẩm):* Quạt xương của Lệ Vô Tâm, tạo ra gió độc ăn mòn và ảo giác. Xem tại `Đạo/Luyện_Khí/Huyết_Độc_Phiến.md`.
     - *Băng Phong Phù (Cấp 3):* Phù lục phong ấn mục tiêu trong băng. Xem tại `Đạo/Phù_Lục/Băng_Phong_Phù.md`.
+    - *Truyền Âm Phù (Cấp 1-5):* Phù lục dùng để liên lạc từ xa. Xem tại `Đạo/Phù_Lục/Truyền_Âm_Phù.md`.
     - *Ngọc Tiêu Cửu Khúc (Pháp Bảo Cực Phẩm):* Sáo ngọc làm từ Thần Mộc, vũ khí của Lục Tiêu, khuếch đại âm luật và điều khiển thực vật. Xem tại `Đạo/Luyện_Khí/Ngọc_Tiêu_Cửu_Khúc.md`.
     - *Nguyệt Thần Cung (Pháp Bảo Cực Phẩm):* Cung thần của Nữ Hoàng Tinh Linh, không cần tên thật, bắn ra ánh sáng thanh tẩy tà ma. Xem tại `Đạo/Luyện_Khí/Nguyệt_Thần_Cung.md`.
 - **Kỳ Vật:**
@@ -157,6 +158,7 @@
     - *Tuyết Liên Hoa:* Linh dược quý hiếm vùng Bắc Băng, 100 năm mới nở, có tác dụng cải lão hoàn đồng. Xem tại `Đạo/Kỳ_Vật/Tuyết_Liên_Hoa.md`.
     - *Vạn Độc Châu:* Nội đan độc trùng ngàn năm, dùng tu luyện độc công và nuôi Cổ. Xem tại `Đạo/Kỳ_Vật/Vạn_Độc_Châu.md`.
     - *Thiên Tinh Cổ:* Cổ trùng cấp 3 của Lệ Vô Tâm, có khả năng ký sinh và khống chế vật chủ. Xem tại `Đạo/Kỳ_Vật/Thiên_Tinh_Cổ.md`.
+    - *Huyết Thi:* Sinh vật bị nhiễm độc biến thành quái vật khát máu. Xem tại `Đạo/Kỳ_Vật/Huyết_Thi.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -168,13 +170,13 @@
 - **Âm Nhạc:**
     - **[DANH SÁCH TÁC PHẨM (MỚI)](Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md):** Thư viện tổng hợp 100+ tác phẩm âm nhạc (bao gồm 90 bài hát mới).
     - [Khúc Nhạc Mở Đầu: Cố Nguyên Trường Ca](Âm_Nhạc/Khởi_Nguyên/Khúc_Nhạc_Mở_Đầu.md): BGM hùng tráng, bi ai mô tả thế giới.
-    - [Hỗn Độn Ca](Âm_Nhạc/Hồng_Hoang/Hỗn_Độn_Ca.md): Khúc ca cổ về thuở khai thiên lập địa.
-    - [Thần Ma Lệ](Âm_Nhạc/Thái_Cổ/Thần_Ma_Lệ.md): Bản hùng ca bi tráng về cuộc chiến Thần Ma.
+    - Hỗn Độn Ca: Khúc ca cổ về thuở khai thiên lập địa. (Đang thất truyền)
+    - Thần Ma Lệ: Bản hùng ca bi tráng về cuộc chiến Thần Ma. (Đang thất truyền)
     - [Vấn Đạo Hành](Âm_Nhạc/Khởi_Nguyên/Vấn_Đạo_Hành.md): Bài ca về con đường tu đạo đầy gian nan trong thời đại hiện tại.
-    - [Hồng Trần Vọng](Âm_Nhạc/Hồng_Trần_Vọng.md): Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần.
+    - Hồng Trần Vọng: Ca khúc cổ trang buồn về nỗi lòng người tu tiên dứt bỏ hồng trần. (Chưa ghi chép)
     - [Đan Hỏa Trường Ca](Âm_Nhạc/Khởi_Nguyên/Đan_Hỏa_Trường_Ca.md): Ca khúc hùng tráng về Đan đạo và Đan Hà Cốc.
-    - [Tiêu Dao Du](Âm_Nhạc/Tiêu_Dao_Du.md): Ca khúc vui tươi, phóng khoáng của tán tu.
-    - [Ma Tâm](Âm_Nhạc/Ma_Tâm.md): Khúc ca đen tối về sự sa ngã vào Ma đạo.
+    - Tiêu Dao Du: Ca khúc vui tươi, phóng khoáng của tán tu. (Chưa ghi chép)
+    - Ma Tâm: Khúc ca đen tối về sự sa ngã vào Ma đạo. (Chưa ghi chép)
     - [Tuyết Sơn Ngâm](Âm_Nhạc/Khởi_Nguyên/Tuyết_Sơn_Ngâm.md): Khúc ca cổ phong về sự cô độc và đạo tâm kiên định giữa bão tuyết.
     - [Vạn Độc Ca](Âm_Nhạc/Khởi_Nguyên/Vạn_Độc_Ca.md): Khúc nhạc u ám, rùng rợn của Vạn Độc Môn, thường vang lên khi tế lễ hoặc xuất trận.
 
@@ -183,7 +185,11 @@
     - Đại chiến khu vực Nam Cương giữa Vạn Độc Môn và Liên minh Dược Vương Cốc - Tinh Linh Tộc - Đan Hà Cốc - Cửu Hoa Kiếm Tông.
     - **Chi Tiết:** Xem tại `Đạo/Quy_Hoạch_Cốt_Truyện/Cốt_Truyện_Chính.md`.
 
-## XI. CẬP NHẬT GẦN NHẤT
+## XI. DANH SÁCH CHƯƠNG TRUYỆN
+- **Huyết Độc Chi Họa:**
+    - [Chương 1: Dấu Hiệu Tai Ương](Chương_Truyện/Chương_1_Dấu_Hiệu_Tai_Ương.md)
+
+## XII. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Cốt Truyện Chính: Huyết Độc Chi Họa.
 - Khởi tạo Bản đồ sơ bộ.
 - Thiết lập Hệ thống cảnh giới.
@@ -244,3 +250,6 @@
 - Tạo Pháp bảo: Huyết Độc Phiến (Vũ khí của Lệ Vô Tâm).
 - Tạo Kỳ vật: Thiên Tinh Cổ (Bản mệnh cổ của Lệ Vô Tâm).
 - Tạo Công pháp: Vạn Độc Phệ Hồn Quyết (Công pháp của Lệ Vô Tâm).
+- Tạo Phù Lục: Truyền Âm Phù.
+- Tạo Kỳ vật: Huyết Thi (Yêu vật nhiễm độc).
+- Viết Chương Truyện: Chương 1 - Dấu Hiệu Tai Ương.

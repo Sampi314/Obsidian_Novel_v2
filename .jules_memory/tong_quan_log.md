@@ -59,3 +59,28 @@
 ## 4. KẾ HOẠCH TIẾP THEO
 - Kiểm tra xem còn nhân vật nào có tham chiếu ảo tương tự không (ví dụ: Diệp Tĩnh Sương, Lâm Phong).
 - Triển khai chương truyện mở đầu cho arc "Huyết Độc Chi Họa".
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC [2024-06-14]
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Khởi động arc "Huyết Độc Chi Họa" bằng chương truyện đầu tiên và xây dựng lore cho quái vật.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Bảo trì:** Tạo script `scripts/check_links.py` để thay thế pytest, kiểm tra toàn bộ liên kết.
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Chương_1_Dấu_Hiệu_Tai_Ương.md`: Chương mở đầu arc.
+  - `Đạo/Kỳ_Vật/Huyết_Thi.md`: Hồ sơ quái vật (Lore).
+  - `Đạo/Phù_Lục/Truyền_Âm_Phù.md`: Vật phẩm hỗ trợ cốt truyện.
+- **Cập nhật:**
+  - Bổ sung danh sách chương truyện và vật phẩm mới vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+  - Ghi log vào `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Cốt truyện chính đã chính thức bắt đầu với chương 1.
+- **Chất lượng:** Các liên kết trong file mới đã được kiểm tra và đảm bảo tính nhất quán.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết tiếp Chương 2: Điều tra sâu hơn hoặc cuộc đụng độ tiếp theo.
+- Tạo hồ sơ cho "Huyết Tướng" nếu xuất hiện.
+- Kiểm tra lại các nhân vật phụ (như Trưởng thôn Lạc Diệp - nếu cần).
