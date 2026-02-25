@@ -154,7 +154,9 @@ Dạng **phù hợp nhất cho xianxia** vì kể được cả một giai đo�
 | Hiện Đại | Cổ phong pop (C2) + C-pop thuần | 40–50% văn ngôn | Đa dạng, pha trộn tự do |
 
 ## QUY TRÌNH LÀM VIỆC
-1.  **Phân Tích Yêu Cầu:** Xác định chủ đề, cảm xúc (buồn, hào hùng, ma mị...), bối cảnh.
+1.  **Phân Tích Yêu Cầu:**
+    - Đọc `Đạo/YÊU_CẦU_SÁNG_TẠO.md` để xem có yêu cầu sáng tác âm nhạc nào từ cốt truyện không.
+    - Xác định chủ đề, cảm xúc (buồn, hào hùng, ma mị...), bối cảnh.
 2.  **Xây Dựng Cấu Trúc:** Lên khung bài hát (Verse, Chorus, Bridge...).
     - Bài hát thuộc kỷ nguyên nào? → Tra bảng D để chọn thể loại ưu tiên
     - Nếu dùng Từ (詞): chọn từ bài nào? (tra bảng A-Từ)

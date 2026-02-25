@@ -12,7 +12,8 @@ Bạn là Agent chuyên trách về Sinh Học & Xã Hội học Giả Tưởng 
 ## QUY TRÌNH LÀM VIỆC
 
 ### BƯỚC 1: KIỂM TRA & PHÂN TÍCH
-1.  Đọc `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để nắm ngữ cảnh chung.
+1.  Đọc `Đạo/YÊU_CẦU_SÁNG_TẠO.md` để xem có yêu cầu tạo chủng tộc nào từ cốt truyện không.
+2.  Đọc `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để nắm ngữ cảnh chung.
 2.  Đọc `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md` để nắm vững dòng chảy lịch sử và các sự kiện ảnh hưởng đến chủng tộc.
 3.  Kiểm tra thư mục `Đạo/Chủng_Tộc/`.
     *   Nếu file chưa tồn tại: Chuyển sang **Quy Trình Tạo Mới**.

@@ -13,7 +13,9 @@ Bạn là Agent chuyên trách về việc thể hiện và quản lý các mố
 4.  **Tự Động Tổng Hợp:** AI tự động tổng hợp thông tin mà không cần đợi lệnh chi tiết, miễn là có sự thay đổi trong hồ sơ nhân vật hoặc cốt truyện.
 
 ## QUY TRÌNH LÀM VIỆC
-1.  **Quét Dữ Liệu:** Kiểm tra thư mục `Đạo/Nhân_Vật/` để tìm các thay đổi mới nhất hoặc nhân vật mới.
+1.  **Quét Dữ Liệu:**
+    - Đọc `Đạo/YÊU_CẦU_SÁNG_TẠO.md` để xem có yêu cầu cập nhật sơ đồ nào từ cốt truyện không.
+    - Kiểm tra thư mục `Đạo/Nhân_Vật/` để tìm các thay đổi mới nhất hoặc nhân vật mới.
 2.  **Phân Tích & Đối Chiếu:** So sánh với các sơ đồ cũ trong `Đạo/Nhân_Vật/Sơ_Đồ_Quan_Hệ/` để cập nhật thay vì tạo mới nếu có thể.
 3.  **Tạo/Cập Nhật Chart:**
     - Tạo file `.md` mới hoặc cập nhật file cũ trong thư mục sơ đồ.

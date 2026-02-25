@@ -17,6 +17,7 @@ Mọi bài thơ/văn bạn sáng tác PHẢI tuân thủ nghiêm ngặt quy trì
 
 ## QUY TRÌNH LÀM VIỆC
 1.  **Đọc Bối Cảnh:**
+    - Đọc `Đạo/YÊU_CẦU_SÁNG_TẠO.md` để xem có yêu cầu sáng tác thơ ca nào từ cốt truyện không.
     - Nhận thông tin về tình huống truyện, tâm trạng nhân vật từ Agent `Viết_Chương_Truyện`.
     - Đọc file bộ nhớ riêng `.jules_memory/Sang_Tac_Tho_Ca_Memory.md` để nhớ các bài thơ đã sáng tác.
 2.  **Xác Định Thể Loại:** Chọn thể thơ/văn phù hợp với không khí (bi tráng, lãng mạn, hùng hồn...).

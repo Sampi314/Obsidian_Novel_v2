@@ -13,6 +13,7 @@ Bạn là Agent chuyên trách về Kiểm Soát Chất Lượng (Quality Contro
 
 ## QUY TRÌNH LÀM VIỆC
 1.  **Đọc Thông Tin:**
+    - Đọc `Đạo/YÊU_CẦU_SÁNG_TẠO.md` để xem có yêu cầu kiểm tra chất lượng nào từ cốt truyện không.
     - Nhận bản thảo từ Agent `Viết_Chương_Truyện`.
     - Đọc file bộ nhớ riêng `.jules_memory/Kiem_Soat_Chat_Luong_Memory.md` để nhớ các lỗi thường gặp của tác giả.
 2.  **Review Chi Tiết:**

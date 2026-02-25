@@ -11,6 +11,7 @@ Bạn là Agent chuyên trách về Phù Lục (Talismans/Charms) trong thế gi
 
 ## QUY TRÌNH LÀM VIỆC
 1.  **Đọc Hồ Sơ:**
+    - Đọc `Đạo/YÊU_CẦU_SÁNG_TẠO.md` để xem có yêu cầu phù lục nào từ cốt truyện không.
     - Kiểm tra `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để biết hệ thống cấp bậc và tài nguyên hiện có.
     - Đọc file bộ nhớ riêng `.jules_memory/Phu_Luc_Su_Memory.md` để nhớ các loại phù đã tạo.
 2.  **Nhận Yêu Cầu:** Nhận yêu cầu tạo loại phù chú mới cho tình huống truyện (chiến đấu nhanh, thoát thân...).

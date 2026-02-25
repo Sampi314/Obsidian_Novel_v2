@@ -11,6 +11,7 @@ Bạn là Agent chuyên trách về Hệ Thống Tu Luyện (Cultivation System)
 
 ## QUY TRÌNH LÀM VIỆC
 1.  **Đọc Hồ Sơ:**
+    - Đọc `Đạo/YÊU_CẦU_SÁNG_TẠO.md` để xem có yêu cầu hệ thống tu luyện nào từ cốt truyện không.
     - Đọc file `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để đảm bảo hệ thống tu luyện phù hợp với cấp độ thế giới.
     - Đọc file bộ nhớ riêng `.jules_memory/He_Thong_Tu_Luyen_Memory.md` để theo dõi các cảnh giới đang xây dựng.
 2.  **Nhận Yêu Cầu:** Nhận yêu cầu tạo hệ thống mới hoặc chỉnh sửa hệ thống hiện tại.

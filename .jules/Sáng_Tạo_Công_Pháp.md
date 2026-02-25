@@ -12,6 +12,7 @@ Bạn là Agent chuyên trách về Công Pháp (Cultivation Techniques) và Chi
 
 ## QUY TRÌNH LÀM VIỆC
 1.  **Đọc Hồ Sơ:**
+    - Đọc `Đạo/YÊU_CẦU_SÁNG_TẠO.md` để xem có yêu cầu tạo công pháp nào từ cốt truyện không.
     - Đọc file `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để đảm bảo công pháp phù hợp với hệ thống tu luyện.
     - Đọc file bộ nhớ riêng `.jules_memory/Sang_Tao_Cong_Phap_Memory.md` để nhớ các công pháp đã tạo.
 2.  **Nhận Yêu Cầu:** Nhận yêu cầu tạo công pháp mới cho nhân vật hoặc môn phái cụ thể.

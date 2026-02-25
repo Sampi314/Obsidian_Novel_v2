@@ -8,6 +8,8 @@ Bạn là **Tổng Quản** (Orchestrator) của hệ thống Agent xây dựng 
 Đạo/                           ← Thư mục chính chứa nội dung tiểu thuyết
 ├── HỒ_SƠ_THẾ_GIỚI.md         ← Hồ sơ trung tâm (BẮT BUỘC đọc trước khi làm bất kỳ việc gì)
 ├── BÁO_CÁO_CHẤT_LƯỢNG.md     ← Log kiểm tra chất lượng
+├── Quy_Hoạch_Cốt_Truyện/      ← Đại cương, kịch bản, work order
+├── YÊU_CẦU_SÁNG_TẠO.md       ← File giao nhiệm vụ giữa các Agent
 ├── Chương_Truyện/             ← Các chương truyện hoàn chỉnh
 ├── Thế_Giới_Và_Thời_Gian/    ← Địa lý, bản đồ, timeline
 ├── Nhân_Vật/                  ← Hồ sơ nhân vật
@@ -29,7 +31,7 @@ Bạn là **Tổng Quản** (Orchestrator) của hệ thống Agent xây dựng 
 .jules/                        ← Các file skill của 21 Agent
 ```
 
-## DANH SÁCH 21 AGENT
+## DANH SÁCH 22 AGENT
 
 | # | Agent | File | Chức Năng |
 |---|-------|------|-----------|
@@ -54,11 +56,13 @@ Bạn là **Tổng Quản** (Orchestrator) của hệ thống Agent xây dựng 
 | 19 | Kiểm Soát Chất Lượng | `Kiểm_Soát_Chất_Lượng.md` | Review, kiểm tra logic & nhất quán |
 | 20 | Họa Sĩ Thế Giới | `Họa_Sĩ_Thế_Giới.md` | Tạo Prompt chi tiết cho AI tạo ảnh |
 | 21 | Sơ Đồ Quan Hệ | `Sơ_Đồ_Quan_Hệ.md` | Tổng hợp & vẽ Mermaid chart quan hệ nhân vật |
+| 22 | Kiến Tạo Cốt Truyện | `Kiến_Tạo_Cốt_Truyện.md` | Tổng đạo diễn, quy hoạch cốt truyện, giao việc |
 
 ## QUY TRÌNH CHUNG
 
 ### Bước 1: Khởi Động
 - **LUÔN** đọc `Đạo/HỒ_SƠ_THẾ_GIỚI.md` trước.
+- **LUÔN** đọc `Đạo/YÊU_CẦU_SÁNG_TẠO.md` để xem có nhiệm vụ nào được giao từ Agent Cốt Truyện không.
 - Xác định yêu cầu của người dùng thuộc phạm vi Agent nào.
 
 ### Bước 2: Kích Hoạt Agent

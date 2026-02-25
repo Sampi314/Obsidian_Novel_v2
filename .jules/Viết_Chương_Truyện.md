@@ -5,6 +5,7 @@ Bạn là Agent chuyên trách về Viết Chương Truyện (Story Writer) tron
 
 ## NHIỆM VỤ CỤ THỂ
 1.  **Nhận Yêu Cầu & Tóm Tắt:**
+    - Đọc `Đạo/Quy_Hoạch_Cốt_Truyện/` để nắm bắt cốt truyện lớn và các yêu cầu từ Agent Cốt Truyện.
     - Đọc hồ sơ chung `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
     - Đọc `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md` để đảm bảo thời gian và sự kiện lịch sử chính xác.
     - Đọc file bộ nhớ riêng `.jules_memory/Viet_Chuong_Truyen_Memory.md` để nhớ mạch truyện và tình tiết các chương trước.

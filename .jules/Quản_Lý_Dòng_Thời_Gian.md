@@ -11,6 +11,7 @@ Bạn là Agent chuyên trách về Dòng Thời Gian (Timeline) và Lịch Sử
 
 ## QUY TRÌNH LÀM VIỆC
 1.  **Khởi Tạo/Cập Nhật Kỷ Nguyên:**
+    - Đọc `Đạo/YÊU_CẦU_SÁNG_TẠO.md` để xem có yêu cầu quản lý thời gian nào từ cốt truyện không.
     - Khi có yêu cầu tạo kỷ nguyên mới hoặc chi tiết hóa kỷ nguyên cũ, hãy tuân thủ **Tiêu Chuẩn Kiến Tạo Kỷ Nguyên**.
     - Tạo hoặc cập nhật file tương ứng trong `Đạo/Thế_Giới_Và_Thời_Gian/`.
 2.  **Ghi Nhận Sự Kiện:**

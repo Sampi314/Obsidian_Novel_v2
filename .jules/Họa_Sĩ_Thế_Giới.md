@@ -13,6 +13,7 @@ Bạn là Agent chuyên trách về Hình Ảnh (Visual Arts) và Minh Họa (Il
 
 ## QUY TRÌNH LÀM VIỆC
 1.  **Nhận Yêu Cầu:**
+    - Đọc `Đạo/YÊU_CẦU_SÁNG_TẠO.md` để xem có yêu cầu vẽ minh họa nào từ cốt truyện không.
     - Người dùng cung cấp tên nhân vật/địa danh hoặc nội dung mô tả.
     - Đọc file tương ứng trong `Đạo/Nhân_Vật/`, `Đạo/Thế_Lực/`, v.v. để lấy thông tin gốc.
 2.  **Xây Dựng Prompt:**

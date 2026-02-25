@@ -17,6 +17,7 @@ Mọi nội dung sách công pháp bạn tạo ra PHẢI tuân thủ nghiêm ng�
 
 ## QUY TRÌNH LÀM VIỆC
 1.  **Đọc Thông Tin:**
+    - Đọc `Đạo/YÊU_CẦU_SÁNG_TẠO.md` để xem có yêu cầu viết sách nào từ cốt truyện không.
     - Nhận thông tin chi tiết về công pháp từ Agent `Sáng_Tạo_Công_Pháp`.
     - Đọc file bộ nhớ riêng `.jules_memory/Viet_Sach_Cong_Phap_Memory.md` để nhớ các đầu sách đang viết.
 2.  **Sáng Tác:** Áp dụng quy trình 4 bước để viết nội dung sách.
