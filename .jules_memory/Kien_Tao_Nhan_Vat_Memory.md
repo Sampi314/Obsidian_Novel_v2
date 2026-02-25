@@ -40,3 +40,8 @@
 - **Đặc Điểm:** Sứ Giả Tinh Linh Tộc, Kim Đan Sơ Kỳ, Mộc Linh Căn + Âm Luật.
 - **Vai Trò:** Cầu nối giữa Tinh Linh Tộc và thế giới bên ngoài trong sự kiện Huyết Độc Chi Họa.
 - **Ghi Chú:** Tính cách ôn hòa nhưng kiên định. Cần khai thác sự bỡ ngỡ khi lần đầu rời rừng già và nỗi đau nhìn thiên nhiên bị tàn phá.
+
+- **Tạo Mới:** Nguyệt Dao (Nữ Hoàng Tinh Linh).
+- **Đặc Điểm:** Nữ Hoàng Tinh Linh Tộc, Hóa Thần Sơ Kỳ, Mộc-Quang Linh Căn.
+- **Vai Trò:** Lãnh đạo Tinh Linh Tộc trong sự kiện Huyết Độc Chi Họa.
+- **Ghi Chú:** Nhân vật này là sự hy sinh và trách nhiệm. Cần khai thác mâu thuẫn nội tâm giữa việc giữ gìn truyền thống (cô lập) và cứu lấy giống nòi (hòa nhập). Tương tác với Diệp Thanh Y và Lục Tiêu là trọng điểm.
