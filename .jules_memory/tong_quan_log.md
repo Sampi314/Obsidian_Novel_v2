@@ -128,3 +128,27 @@
 ## 4. KẾ HOẠCH TIẾP THEO
 - Triển khai giai đoạn "Phục Kích Đoàn Cứu Trợ" (như Lệ Vô Tâm đã tiết lộ).
 - Giới thiệu Diệp Thanh Y và Dược Vương Cốc vào mạch truyện chính.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC [2024-06-17]
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Tiếp diễn mạch truyện sau cuộc đối đầu với Lệ Vô Tâm và trang bị vũ khí chính thức cho Lâm Phong.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Chương_5_Dưới_Bóng_Ma_Rừng_Thẳm.md`: Cuộc thoát hiểm của Lâm Phong và Diệp Tĩnh Sương vào Đầm Lầy Tử Thần.
+  - `Đạo/Luyện_Khí/Truy_Phong_Cung.md`: Pháp bảo (vũ khí chính) của Lâm Phong.
+- **Cập nhật:**
+  - Bổ sung vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+  - Cập nhật liên kết vũ khí trong `Đạo/Nhân_Vật/Lâm_Phong.md`.
+  - Ghi log vào `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+  - Chạy script kiểm tra liên kết (86/86 links valid).
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Cốt truyện:** Chuyển sang bối cảnh mới (Đầm Lầy Tử Thần), mở rộng không gian phiêu lưu.
+- **Nhân vật:** Lâm Phong được định hình rõ hơn với vũ khí chuyên dụng và khả năng sinh tồn.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Triển khai các diễn biến tại Đầm Lầy Tử Thần (quái vật đầm lầy, độc trùng).
+- Có thể cho nhóm Lâm Phong gặp gỡ người của Dược Vương Cốc hoặc Tinh Linh Tộc tại đây (như trong cốt truyện chính).

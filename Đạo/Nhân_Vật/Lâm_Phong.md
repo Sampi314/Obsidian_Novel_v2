@@ -11,7 +11,7 @@
 ## NGOẠI HÌNH
 - **Vóc Dáng:** Cao ráo, săn chắc, nước da bánh mật khỏe khoắn do thường xuyên hoạt động ngoài trời.
 - **Khuôn Mặt:** Gương mặt góc cạnh, đôi mắt sáng và linh hoạt như loài ưng, luôn quan sát xung quanh. Khóe miệng thường nở nụ cười phóng khoáng.
-- **Trang Phục:** Thường mặc y phục gọn gàng màu xanh lá hoặc nâu đất để dễ ngụy trang trong rừng. Sau lưng luôn đeo một cây cung lớn chế tác từ gỗ Huyết Đằng và một ống tên đầy.
+- **Trang Phục:** Thường mặc y phục gọn gàng màu xanh lá hoặc nâu đất để dễ ngụy trang trong rừng. Sau lưng luôn đeo [Truy Phong Cung](../Luyện_Khí/Truy_Phong_Cung.md) và một ống tên đầy.
 - **Khí Chất:** Tự do, hoang dã, nhưng cũng rất cẩn trọng và nhạy bén.
 
 ## TÍNH CÁCH & ĐẠO TÂM

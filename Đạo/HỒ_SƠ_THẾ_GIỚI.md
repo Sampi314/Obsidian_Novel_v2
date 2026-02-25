@@ -155,6 +155,7 @@
     - *Truyền Âm Phù (Cấp 1-5):* Phù lục dùng để liên lạc từ xa. Xem tại `Đạo/Phù_Lục/Truyền_Âm_Phù.md`.
     - *Ngọc Tiêu Cửu Khúc (Pháp Bảo Cực Phẩm):* Sáo ngọc làm từ Thần Mộc, vũ khí của Lục Tiêu, khuếch đại âm luật và điều khiển thực vật. Xem tại `Đạo/Luyện_Khí/Ngọc_Tiêu_Cửu_Khúc.md`.
     - *Nguyệt Thần Cung (Pháp Bảo Cực Phẩm):* Cung thần của Nữ Hoàng Tinh Linh, không cần tên thật, bắn ra ánh sáng thanh tẩy tà ma. Xem tại `Đạo/Luyện_Khí/Nguyệt_Thần_Cung.md`.
+    - *Truy Phong Cung (Huyền Cấp Hạ Phẩm):* Cung gỗ Huyết Đằng của Lâm Phong, tăng tốc độ mũi tên và điều khiển hướng đi. Xem tại `Đạo/Luyện_Khí/Truy_Phong_Cung.md`.
 - **Kỳ Vật:**
     - *Hỏa Linh Thảo:* Thảo dược hệ Hỏa, mọc ở nơi hỏa khí nồng đậm. Xem tại `Đạo/Kỳ_Vật/Hỏa_Linh_Thảo.md`.
     - *Hàn Ngọc:* Khoáng thạch hệ Băng, dùng luyện khí và tu luyện. Xem tại `Đạo/Kỳ_Vật/Hàn_Ngọc.md`.
@@ -196,8 +197,11 @@
     - [Chương 2: Phản Kích và Vòng Vây](Chương_Truyện/Chương_2_Phản_Kích_Và_Vòng_Vây.md)
     - [Chương 3: Bóng Ma Trong Màn Sương](Chương_Truyện/Chương_3_Bóng_Ma_Trong_Màn_Sương.md)
     - [Chương 4: Vạn Độc Thánh Tử](Chương_Truyện/Chương_4_Vạn_Độc_Thánh_Tử.md)
+    - [Chương 5: Dưới Bóng Ma Rừng Thẳm](Chương_Truyện/Chương_5_Dưới_Bóng_Ma_Rừng_Thẳm.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Tạo Pháp bảo: Truy Phong Cung (Vũ khí của Lâm Phong).
+- Viết Chương Truyện: Chương 5 - Dưới Bóng Ma Rừng Thẳm.
 - Khởi tạo Cốt Truyện Chính: Huyết Độc Chi Họa.
 - Khởi tạo Bản đồ sơ bộ.
 - Thiết lập Hệ thống cảnh giới.
