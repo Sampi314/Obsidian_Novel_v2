@@ -17,3 +17,4 @@
 | 2024-05-30 | Tổng Quản | Sửa Lỗi Link & Thêm Vạn Độc Châu | Hoàn Thành | Sửa 4 broken links, rename Hỏa Linh Thảo, tạo Vạn Độc Châu. |
 | 2024-05-31 | Tổng Quản | Tạo Lãnh Đạo Nam Cương | Hoàn Thành | Tạo Đan Dương Tử (Đan Hà Cốc) & Độc Cô Lão Quái (Vạn Độc Môn). |
 | 2024-06-01 | Tổng Quản | Tạo Dược Vương Cốc | Hoàn Thành | Tạo Thế lực, Nhân vật (Diệp Thanh Y) & Công pháp (Thanh Nang). |
+| 2024-06-02 | Tổng Quản | Tạo Vạn Mộc Hồi Xuân Trận | Hoàn Thành | Trận pháp hộ sơn của Dược Vương Cốc. |
