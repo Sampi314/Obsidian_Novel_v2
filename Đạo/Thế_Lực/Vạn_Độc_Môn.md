@@ -49,3 +49,8 @@
 - **Quan Hệ:**
     - **Kẻ thù không đội trời chung:** Đan Hà Cốc (Tranh chấp tài nguyên, tư tưởng đối lập).
     - **Đồng minh tạm thời:** Huyết Ma Tông (Khi cần đối phó với các thế lực Chính đạo từ Trung Thổ).
+
+## VII. GIAI THOẠI & BÍ MẬT
+- **Bí Mật Huyết Trì:** Có kẻ nói rằng Huyết Trì không chỉ là máu, mà là nơi Độc Cô Lão Quái nuôi dưỡng một bào thai Quỷ Thần dùng để đoạt xá nếu hắn thất bại trong việc độ kiếp.
+- **Tiếng Sáo Đêm Trăng:** Vào những đêm trăng tròn, người ta thường nghe thấy tiếng sáo ai oán vọng ra từ Vạn Độc Cốc. Nghe nói đó là tiếng oan hồn của người vợ đã bị chính Độc Cô Thiên Sát luyện thành Cổ Nhân.
+- **Lời Nguyền Của Rừng Già:** Bất cứ ai mang theo vật phẩm từ Vạn Độc Môn ra khỏi Nam Cương mà không được phép sẽ bị rễ cây trong rừng siết chết vào đêm thứ 7.

@@ -47,3 +47,8 @@
 - **Sáng Lập:** Năm 80.000 (Kỷ Nguyên Khởi Nguyên) bởi **Đan Hà Lão Tổ**, một kỳ tài đan đạo đã tìm ra mạch địa hỏa này và lập tông.
 - **Phát Triển:** Nhờ vị trí đắc địa và nguồn đan dược chất lượng, Đan Hà Cốc nhanh chóng trở nên giàu có và có tiếng nói trọng lượng ở Nam Cương.
 - **Quan Hệ:** Giữ mối quan hệ giao thương tốt với hầu hết các thế lực lớn (kể cả Ma đạo), miễn là họ trả đủ giá. Tuy nhiên, họ có hiềm khích ngầm với **Vạn Độc Môn** do tranh chấp tài nguyên dược liệu.
+
+## VII. GIAI THOẠI & BÍ MẬT
+- **Truyền Thuyết Hỏa Long:** Tương truyền bên dưới dòng Đan Hà giam giữ linh hồn của một con Hỏa Long thời Thượng Cổ. Tiếng gầm của nó thỉnh thoảng vang lên tạo thành những đợt sóng nhiệt khổng lồ.
+- **Lời Nguyền Đan Dược:** Có lời đồn rằng bất kỳ ai dùng đan dược cực phẩm của Đan Hà Cốc để đột phá Nguyên Anh đều sẽ mắc phải một tâm ma kỳ lạ liên quan đến lửa.
+- **Mật Thất Của Tổ Sư:** Người ta tin rằng Đan Hà Lão Tổ chưa chết mà đã tự phong ấn mình trong một mật thất bí mật để luyện viên "Cửu Chuyển Hoàn Hồn Đan", chờ ngày tái xuất.
