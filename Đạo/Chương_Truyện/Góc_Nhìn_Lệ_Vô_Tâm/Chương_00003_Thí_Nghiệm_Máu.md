@@ -4,7 +4,8 @@
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
 **Nhân vật liên quan:** [Huyết Tướng](../../Kỳ_Vật/Huyết_Tướng.md) (Số 49).
 **Địa điểm:** Căn hầm bí mật dưới giếng nước tại Thôn Lạc Diệp.
-**Thời điểm:** Trước khi Diệp Tĩnh Sương và Lâm Phong đến Thôn Lạc Diệp (Song song với [Chương 3: Bóng Ma Trong Màn Sương](../Góc_Nhìn_Chính/Chương_00003_Bóng_Ma_Trong_Màn_Sương.md)).
+**Thời điểm:** Trước khi Diệp Tĩnh Sương và Lâm Phong đến Thôn Lạc Diệp.
+**Giao Điểm Cốt Truyện:** Song song với [Chương 3: Bóng Ma Trong Màn Sương](../Góc_Nhìn_Chính/Chương_00003_Bóng_Ma_Trong_Màn_Sương.md).
 
 ---
 

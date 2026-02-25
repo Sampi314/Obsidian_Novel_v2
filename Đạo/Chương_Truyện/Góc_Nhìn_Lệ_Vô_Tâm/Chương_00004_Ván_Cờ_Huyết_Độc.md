@@ -4,7 +4,8 @@
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
 **Nhân vật liên quan:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
 **Địa điểm:** Thôn Lạc Diệp.
-**Thời điểm:** Song song với [Chương 4: Vạn Độc Thánh Tử](../Góc_Nhìn_Chính/Chương_00004_Vạn_Độc_Thánh_Tử.md).
+**Thời điểm:** Ngay sau khi Huyết Tướng bị tiêu diệt.
+**Giao Điểm Cốt Truyện:** Trực tiếp đối đầu trong [Chương 4: Vạn Độc Thánh Tử](../Góc_Nhìn_Chính/Chương_00004_Vạn_Độc_Thánh_Tử.md).
 
 ---
 

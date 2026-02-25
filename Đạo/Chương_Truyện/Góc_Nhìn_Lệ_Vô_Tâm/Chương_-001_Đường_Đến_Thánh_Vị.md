@@ -4,6 +4,7 @@
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
 **Địa điểm:** Vạn Độc Môn (Huyết Trì).
 **Thời điểm:** 10 năm trước sự kiện "Huyết Độc Chi Họa".
+**Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ).
 
 ---
 
