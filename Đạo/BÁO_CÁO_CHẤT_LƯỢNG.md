@@ -37,3 +37,4 @@
 | 2024-06-17 | Tổng Quản | Viết Chương 5 & Tạo Truy Phong Cung | Hoàn Thành | Viết Chương 5 mô tả cuộc thoát hiểm vào Đầm Lầy Tử Thần và tạo vũ khí mới cho Lâm Phong. |
 | 2024-06-18 | Tổng Quản | Tạo Đầm Lầy Tử Thần & Huyết Độc Lang | Hoàn Thành | Chuẩn bị tài nguyên cho Chương 6 (Địa điểm và Quái vật). |
 | 2024-06-19 | Tổng Quản | Viết Chương 6 & Sáng tác Thơ Đầm Lầy | Hoàn Thành | Viết Chương 6, sáng tác thơ cổ phong, cập nhật cốt truyện và hồ sơ thế giới. |
+| 2024-06-20 | Tổng Quản | Viết Chương 7 & Tạo Phế Tích | Hoàn Thành | Viết Chương 7, tạo Phế Tích Nguyệt Quang và Tinh Linh Cổ Ngọc. |

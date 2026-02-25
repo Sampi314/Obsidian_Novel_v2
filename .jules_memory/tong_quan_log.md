@@ -152,3 +152,12 @@
 ## 4. KẾ HOẠCH TIẾP THEO
 - Triển khai các diễn biến tại Đầm Lầy Tử Thần (quái vật đầm lầy, độc trùng).
 - Có thể cho nhóm Lâm Phong gặp gỡ người của Dược Vương Cốc hoặc Tinh Linh Tộc tại đây (như trong cốt truyện chính).
+
+## [2024-06-20] Phiên Làm Việc: Dấu Vết Cổ Xưa
+- **Trạng thái:** Hoàn thành Chương 7, tạo địa điểm và vật phẩm hỗ trợ.
+- **Chi tiết:**
+  - Tạo `Phế_Tích_Nguyệt_Quang.md` (Địa điểm trú ẩn trong Đầm Lầy).
+  - Tạo `Tinh_Linh_Cổ_Ngọc.md` (Key item cho arc Tinh Linh).
+  - Viết `Chương_7_Dấu_Vết_Cổ_Xưa.md`.
+  - Cập nhật `HỒ_SƠ_THẾ_GIỚI.md` và `BÁO_CÁO_CHẤT_LƯỢNG.md`.
+- **Ghi chú:** Cần phát triển tiếp diễn biến tại Phế Tích (gặp quái vật mạnh hơn hoặc tìm lối ra).
