@@ -129,6 +129,9 @@
 - **Nguyệt Linh Trường Sinh Quyết (Thiên Cấp Trung Phẩm):**
     - Công pháp trấn tộc của Tinh Linh, hấp thụ ánh trăng để thanh tẩy độc tố và hồi phục sinh mệnh.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Nguyệt_Linh_Trường_Sinh_Quyết.md`.
+- **Thanh Mộc Trường Sinh Quyết (Hoàng Cấp Cực Phẩm):**
+    - Công pháp Mộc-Phong của tán tu Lâm Phong, thiên về sinh tồn và trói buộc.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Thanh_Mộc_Trường_Sinh_Quyết.md`.
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Trận Pháp:**
@@ -159,6 +162,7 @@
     - *Vạn Độc Châu:* Nội đan độc trùng ngàn năm, dùng tu luyện độc công và nuôi Cổ. Xem tại `Đạo/Kỳ_Vật/Vạn_Độc_Châu.md`.
     - *Thiên Tinh Cổ:* Cổ trùng cấp 3 của Lệ Vô Tâm, có khả năng ký sinh và khống chế vật chủ. Xem tại `Đạo/Kỳ_Vật/Thiên_Tinh_Cổ.md`.
     - *Huyết Thi:* Sinh vật bị nhiễm độc biến thành quái vật khát máu. Xem tại `Đạo/Kỳ_Vật/Huyết_Thi.md`.
+    - *Huyết Tướng:* Biến thể cao cấp của Huyết Thi, có trí tuệ và khả năng chỉ huy. Xem tại `Đạo/Kỳ_Vật/Huyết_Tướng.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -189,6 +193,7 @@
 - **Huyết Độc Chi Họa:**
     - [Chương 1: Dấu Hiệu Tai Ương](Chương_Truyện/Chương_1_Dấu_Hiệu_Tai_Ương.md)
     - [Chương 2: Phản Kích và Vòng Vây](Chương_Truyện/Chương_2_Phản_Kích_Và_Vòng_Vây.md)
+    - [Chương 3: Bóng Ma Trong Màn Sương](Chương_Truyện/Chương_3_Bóng_Ma_Trong_Màn_Sương.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Cốt Truyện Chính: Huyết Độc Chi Họa.
@@ -256,3 +261,6 @@
 - Viết Chương Truyện: Chương 1 - Dấu Hiệu Tai Ương.
 - Viết Chương Truyện: Chương 2 - Phản Kích và Vòng Vây.
 - Sáng tác Âm nhạc: Hồng Trần Vọng.
+- Tạo Công pháp: Thanh Mộc Trường Sinh Quyết (Lâm Phong).
+- Tạo Kỳ vật: Huyết Tướng (Quái vật cấp Trúc Cơ).
+- Viết Chương Truyện: Chương 3 - Bóng Ma Trong Màn Sương.

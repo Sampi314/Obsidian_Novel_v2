@@ -84,3 +84,26 @@
 - Viết tiếp Chương 2: Điều tra sâu hơn hoặc cuộc đụng độ tiếp theo.
 - Tạo hồ sơ cho "Huyết Tướng" nếu xuất hiện.
 - Kiểm tra lại các nhân vật phụ (như Trưởng thôn Lạc Diệp - nếu cần).
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC [2024-06-15]
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Tiếp tục triển khai cốt truyện "Huyết Độc Chi Họa" và bổ sung các yếu tố còn thiếu cho nhân vật chính Lâm Phong.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Chương_3_Bóng_Ma_Trong_Màn_Sương.md`: Chương 3 - Đối đầu với Huyết Tướng tại Thôn Lạc Diệp.
+  - `Đạo/Công_Pháp/Thanh_Mộc_Trường_Sinh_Quyết.md`: Công pháp trấn thân của Lâm Phong.
+  - `Đạo/Kỳ_Vật/Huyết_Tướng.md`: Hồ sơ quái vật cấp Trúc Cơ (Boss nhỏ).
+- **Cập nhật:**
+  - Bổ sung liên kết và log cập nhật vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Cốt truyện đang diễn ra đúng hướng. Nhân vật Lâm Phong đã có đủ bộ kỹ năng để chiến đấu.
+- **Lore:** Huyết Tướng được thêm vào làm phong phú hệ thống quái vật của Vạn Độc Môn.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Phân tích tấm lệnh bài "Vạn Độc Lệnh" trong các chương sau.
+- Có thể giới thiệu thêm về "Huyết Vương" hoặc sự xuất hiện trực tiếp của Lệ Vô Tâm.
+- Xem xét vai trò của Dược Vương Cốc trong việc giải độc cho thôn dân (nếu còn ai sống sót).
