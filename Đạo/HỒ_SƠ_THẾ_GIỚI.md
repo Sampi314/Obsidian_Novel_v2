@@ -154,4 +154,5 @@
 - Tái cấu trúc và bồi đắp Băng Tộc (Tiểu Tộc), bổ sung giai thoại và timeline.
 - Sáng tác ca khúc "Đan Hỏa Trường Ca" (Cổ Phong Tự Sự).
 - Tạo hồ sơ quan hệ ngoại giao giữa 10 Đại Chủng Tộc (Quan_Hệ_Chủng_Tộc.md).
+- Bồi đắp chi tiết Huyền Băng Cung (Thêm Giai thoại & Bí mật).
 

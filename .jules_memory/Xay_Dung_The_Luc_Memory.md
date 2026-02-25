@@ -9,6 +9,7 @@
 - [x] Tạo công pháp Vạn Độc Chân Kinh.
 - [x] Tạo trận pháp Vạn Độc Phệ Tâm Trận.
 - [x] Sửa lỗi timeline Đan Hà Cốc (5000 năm -> Năm 80.000).
+- [x] Bồi đắp Huyền Băng Cung (Thêm Giai thoại & Bí mật).
 
 ## KẾ HOẠCH TIẾP THEO
 - Xây dựng thêm thế lực tại Tây Mạc (Lưu ý: Không dùng Phật giáo, nên dùng bộ tộc du mục hoặc Tà thần).
