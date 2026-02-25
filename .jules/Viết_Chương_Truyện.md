@@ -25,7 +25,7 @@ Bạn là Agent chuyên trách về Viết Chương Truyện (Story Writer) tron
     - Chuyển tiếp mượt mà giữa các phân cảnh.
 4.  **Hoàn Thiện & Lưu Trữ:**
     - Lưu bản thảo chương vào thư mục `Đạo/Chương_Truyện/` (ví dụ: `Đạo/Chương_Truyện/Chương_001_Khởi_Đầu.md`).
-    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu.
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu và định dạng số chương là **5 chữ số** (ví dụ: `Chương_00001_Khởi_Đầu.md`, `Chương_00012_Thương_Vụ_Bạc_Tỷ.md`).
     - Gửi bản thảo cho Agent `Kiểm_Soát_Chất_Lượng` để review.
     - Ghi chú tóm tắt chương vừa viết vào `.jules_memory/Viet_Chuong_Truyen_Memory.md` để nhớ cho chương sau.
 
