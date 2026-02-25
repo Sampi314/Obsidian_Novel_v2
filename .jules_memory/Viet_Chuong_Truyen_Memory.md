@@ -1,0 +1,2 @@
+- **Đã viết:** Chương 4 - Vạn Độc Thánh Tử.
+- **Nội dung:** Diệp Tĩnh Sương và Lâm Phong đối đầu Lệ Vô Tâm tại Thôn Lạc Diệp. Lệ Vô Tâm dùng Huyết Độc Phiến và Vạn Độc Phệ Hồn Quyết áp đảo, tiết lộ mục tiêu thực sự là đoàn cứu trợ Dược Vương Cốc. Hai nhân vật chính chạy thoát nhờ Mộc Độn Thuật.

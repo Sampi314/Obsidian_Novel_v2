@@ -1,2 +1,4 @@
 - **Đã tạo:** Hàn Ngọc (Linh Phẩm Trung Cấp).
 - **Mô tả:** Khoáng thạch hệ Băng, tìm thấy ở Bắc Băng, dùng luyện khí và tu luyện.
+- **Đã tạo:** Huyết Thần Độc (Cấm Kỵ Cổ Độc).
+- **Mô tả:** Độc dược nguồn gốc từ rễ Thần Mộc ô nhiễm và máu độc thú, do Vạn Độc Môn luyện chế. Biến sinh vật thành Huyết Thi/Huyết Tướng, khắc chế Mộc Linh Căn.

@@ -163,6 +163,7 @@
     - *Thiên Tinh Cổ:* Cổ trùng cấp 3 của Lệ Vô Tâm, có khả năng ký sinh và khống chế vật chủ. Xem tại `Đạo/Kỳ_Vật/Thiên_Tinh_Cổ.md`.
     - *Huyết Thi:* Sinh vật bị nhiễm độc biến thành quái vật khát máu. Xem tại `Đạo/Kỳ_Vật/Huyết_Thi.md`.
     - *Huyết Tướng:* Biến thể cao cấp của Huyết Thi, có trí tuệ và khả năng chỉ huy. Xem tại `Đạo/Kỳ_Vật/Huyết_Tướng.md`.
+    - *Huyết Thần Độc:* Cấm kỵ cổ độc của Vạn Độc Môn, biến sinh vật thành Huyết Thi, khắc chế Mộc Linh Căn. Xem tại `Đạo/Kỳ_Vật/Huyết_Thần_Độc.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -194,6 +195,7 @@
     - [Chương 1: Dấu Hiệu Tai Ương](Chương_Truyện/Chương_1_Dấu_Hiệu_Tai_Ương.md)
     - [Chương 2: Phản Kích và Vòng Vây](Chương_Truyện/Chương_2_Phản_Kích_Và_Vòng_Vây.md)
     - [Chương 3: Bóng Ma Trong Màn Sương](Chương_Truyện/Chương_3_Bóng_Ma_Trong_Màn_Sương.md)
+    - [Chương 4: Vạn Độc Thánh Tử](Chương_Truyện/Chương_4_Vạn_Độc_Thánh_Tử.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
 - Khởi tạo Cốt Truyện Chính: Huyết Độc Chi Họa.
@@ -264,3 +266,5 @@
 - Tạo Công pháp: Thanh Mộc Trường Sinh Quyết (Lâm Phong).
 - Tạo Kỳ vật: Huyết Tướng (Quái vật cấp Trúc Cơ).
 - Viết Chương Truyện: Chương 3 - Bóng Ma Trong Màn Sương.
+- Tạo Kỳ vật: Huyết Thần Độc (Cấm Kỵ Cổ Độc).
+- Viết Chương Truyện: Chương 4 - Vạn Độc Thánh Tử.
