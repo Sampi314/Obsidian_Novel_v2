@@ -16,18 +16,21 @@
 
 ### Tầng 1: Mộc Khí Nhập Thể (木气入体)
 Dẫn dụ mộc linh khí vào cơ thể, cường hóa da thịt trở nên dẻo dai như vỏ cây, tăng khả năng hồi phục vết thương nhẹ.
+<!-- TODO: Thêm bản Tiếng Trung -->
 > **Khẩu Quyết:**
 > Thanh mộc vi căn, sinh cơ bất tuyệt.
 > (Cây xanh làm gốc, sự sống không dứt.)
 
 ### Tầng 2: Diệp Vũ Phong Hành (叶舞风行)
 Kết hợp Mộc khí và Phong khí, giúp thân pháp nhẹ nhàng như lá bay trong gió, tăng tốc độ di chuyển và phản xạ.
+<!-- TODO: Thêm bản Tiếng Trung -->
 > **Khẩu Quyết:**
 > Tùy phong nhi động, diệp lạc vô thanh.
 > (Nương gió mà động, lá rơi không tiếng.)
 
 ### Tầng 3: Sâm La Vạn Tượng (森罗万象) - Sơ Cấp
 Điều khiển cây cỏ xung quanh hỗ trợ chiến đấu, biến rừng rậm thành sân nhà.
+<!-- TODO: Thêm bản Tiếng Trung -->
 > **Khẩu Quyết:**
 > Vạn mộc đồng tâm, thảo mộc giai binh.
 > (Vạn cây cùng lòng, cỏ cây đều là lính.)
