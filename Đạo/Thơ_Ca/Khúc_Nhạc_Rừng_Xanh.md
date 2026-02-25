@@ -16,22 +16,22 @@
 > 回頭望月故鄉何
 
 ### 2. Phiên Âm Hán Việt
-> *Thương hải tang điền, vạn cổ sầu.  
-> Thần mộc điêu linh, lệ ngân thâu.  
-> Nhất khúc tiêu dao, thiên địa thán.  
+> *Thương hải tang điền, vạn cổ sầu.
+> Thần mộc điêu linh, lệ ngân thâu.
+> Nhất khúc tiêu dao, thiên địa thán.
 > Hồi đầu vọng nguyệt, cố hương hà?*
 
 ### 3. Dịch Thơ (Lục Bát)
-> *Rừng xưa giờ hóa nương dâu,  
-> Ngàn năm cây cối âu sầu khóc than.  
-> Sáo ai thổi khúc ly tan,  
-> Trăng soi bóng lẻ, muôn vàn xót xa.  
+> *Rừng xưa giờ hóa nương dâu,
+> Ngàn năm cây cối âu sầu khóc than.
+> Sáo ai thổi khúc ly tan,
+> Trăng soi bóng lẻ, muôn vàn xót xa.
 >
-> Gió đưa cành lá la đà,  
-> Hỏi mây hỏi gió, quê nhà ở đâu?  
-> Rễ cây bám chặt vực sâu,  
-> Chờ ngày xuân đến, bắt đầu mầm xanh.*  
-  
+> Gió đưa cành lá la đà,
+> Hỏi mây hỏi gió, quê nhà ở đâu?
+> Rễ cây bám chặt vực sâu,
+> Chờ ngày xuân đến, bắt đầu mầm xanh.*
+
 ## IV. Ý NGHĨA & BÌNH GIẢI
 - **Hai câu đầu:** Nói về sự biến đổi khốc liệt của thế gian ("Thương hải tang điền" - Bãi bể nương dâu), khiến cho ngay cả loài cây thần thánh ("Thần mộc") cũng phải héo úa ("điêu linh"), nhựa chảy như nước mắt ("lệ ngân thâu").
 - **Hai câu sau:** Tiếng sáo ("tiêu dao") vang lên giữa trời đất như một tiếng thở dài ("thiên địa thán"). Người thổi sáo ngoảnh đầu nhìn trăng ("vọng nguyệt"), tự hỏi quê hương thanh bình ngày xưa giờ còn đâu giữa khói lửa chiến tranh.

@@ -35,16 +35,18 @@ Mọi bài thơ/văn bạn sáng tác PHẢI tuân thủ nghiêm ngặt quy trì
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Sang_Tac_Tho_Ca_Memory.md`
 
 ## ĐỊNH DẠNG ĐẦU RA
-Mỗi tác phẩm thơ ca sẽ có cấu trúc như sau:
+Mỗi tác phẩm thơ ca sẽ có cấu trúc như sau. **Lưu ý quan trọng: Cuối mỗi dòng thơ phải có 2 khoảng trắng (spaces) để xuống dòng đúng trong Markdown.**
 
 ---
 **[Tên Bài Thơ/Văn - Tác Giả (nếu có)]**
 
 1.  **Nguyên Văn (Trung):**
     > [Nội dung tiếng Trung]
+    > [Dòng tiếp theo...]
 
 2.  **Hán Việt:**
     > [Nội dung phiên âm Hán Việt]
+    > [Dòng tiếp theo...]
 
 3.  **Dịch Nghĩa:**
     > [Nội dung dịch sát nghĩa]
