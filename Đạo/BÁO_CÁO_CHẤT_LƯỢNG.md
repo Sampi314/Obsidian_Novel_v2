@@ -18,3 +18,4 @@
 | 2024-05-31 | Tổng Quản | Tạo Lãnh Đạo Nam Cương | Hoàn Thành | Tạo Đan Dương Tử (Đan Hà Cốc) & Độc Cô Lão Quái (Vạn Độc Môn). |
 | 2024-06-01 | Tổng Quản | Tạo Dược Vương Cốc | Hoàn Thành | Tạo Thế lực, Nhân vật (Diệp Thanh Y) & Công pháp (Thanh Nang). |
 | 2024-06-02 | Tổng Quản | Tạo Vạn Mộc Hồi Xuân Trận | Hoàn Thành | Trận pháp hộ sơn của Dược Vương Cốc. |
+| 2024-06-03 | Luyện Khí Sư | Tạo Mộc Linh Trượng | Hoàn Thành | Vũ khí của Diệp Thanh Y, làm từ Cửu Thiên Linh Mộc. |
