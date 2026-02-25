@@ -19,6 +19,7 @@
         - *Lưu Sa Phế Tích:* Di tích cổ đại đầy cạm bẫy và ảo ảnh. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md`.
         - *Hoàng Sa Địa Cung:* Lăng mộ ngầm chứa bí mật của Hoàng Sa Quốc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hoàng_Sa_Địa_Cung.md`.
         - *Ốc Đảo Thanh Lương:* Điểm dừng chân an toàn với nguồn nước chữa lành. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Ốc_Đảo_Thanh_Lương.md`.
+        - *Trạm Dừng Chân Số 7:* Pháo đài trung chuyển của Thiên Sa Thương Hội, cửa ngõ vào sa mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Trạm_Dừng_Chân_Số_7.md`.
         - *Hắc Sa Bão:* Hiện tượng thiên nhiên tàn khốc đặc trưng của Tây Mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hắc_Sa_Bão.md`.
 - **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`.
 - **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
@@ -233,6 +234,7 @@
     - [Chương 14: Sa Mạc Mê Cung](Chương_Truyện/Góc_Nhìn_Chính/Chương_00014_Sa_Mạc_Mê_Cung.md)
     - [Chương 15: Bí Mật Hoàng Sa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00015_Bí_Mật_Hoàng_Sa.md)
     - [Chương 16: Trở Về Cát Bụi](Chương_Truyện/Góc_Nhìn_Chính/Chương_00016_Trở_Về_Cát_Bụi.md)
+    - [Chương 17: Mưu Đồ Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00017_Mưu_Đồ_Bóng_Tối.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -240,6 +242,8 @@
         - [Chương 4: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00004_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 17 - Mưu Đồ Bóng Tối.
+- Tạo Địa danh: Trạm Dừng Chân Số 7.
 - Viết Chương Truyện: Chương 16 - Trở Về Cát Bụi.
 - Tạo Địa danh: Ốc Đảo Thanh Lương.
 - Viết Chương Truyện: Chương 15 - Bí Mật Hoàng Sa.
