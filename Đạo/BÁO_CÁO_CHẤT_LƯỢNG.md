@@ -45,3 +45,4 @@
 | 2024-06-24 | Tổng Quản | Viết Chương 12 & Sáng tác Thơ | Hoàn Thành | Viết Chương 12 (Thương Vụ Bạc Tỷ), sáng tác Ốc Đảo Dạ Khúc. |
 | 2024-06-25 | Tổng Quản | Tạo Hồ Sơ Tây Mạc (Phần 1) | Hoàn Thành | Tạo nhân vật Hứa Thanh Vân và địa danh Lưu Sa Phế Tích để phục vụ cốt truyện Chương 12. |
 | 2024-06-26 | Tổng Quản | Tạo Hồ Sơ Tây Mạc (Phần 2) | Hoàn Thành | Tạo Kỳ vật Sa Sương, Hắc Sa Bão và Sa Tặc Liên Minh. |
+| 2024-06-27 | Tổng Quản | Viết Chương 13 & Tạo Sa Hồn | Hoàn Thành | Triển khai cốt truyện tại Lưu Sa Phế Tích và tạo quái vật Sa Hồn. |

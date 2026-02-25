@@ -183,6 +183,7 @@
     - *Nguyệt Quang Thảo:* Linh thảo hấp thụ ánh trăng, có khả năng thanh lọc độc tố. Xem tại `Đạo/Kỳ_Vật/Nguyệt_Quang_Thảo.md`.
     - *Độc Long Tích:* Thằn lằn độc khổng lồ sống tại Núi Độc Long, có vảy đá và máu độc. Xem tại `Đạo/Kỳ_Vật/Độc_Long_Tích.md`.
     - *Sa Sương:* Tinh thể băng kết tinh vào đêm sa mạc, dùng để chế thuốc giải hỏa độc. Xem tại `Đạo/Kỳ_Vật/Sa_Sương.md`.
+    - *Sa Hồn (Sand Wraith):* Oán linh tại Lưu Sa Phế Tích, có khả năng tạo ảo giác và nhập vào cát. Xem tại `Đạo/Kỳ_Vật/Sa_Hồn.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -225,8 +226,11 @@
     - [Chương 10: Độc Long Xuất Thế](Chương_Truyện/Chương_10_Độc_Long_Xuất_Thế.md)
     - [Chương 11: Bão Cát Tây Mạc](Chương_Truyện/Chương_11_Bão_Cát_Tây_Mạc.md)
     - [Chương 12: Thương Vụ Bạc Tỷ](Chương_Truyện/Chương_12_Thương_Vụ_Bạc_Tỷ.md)
+    - [Chương 13: Lạc Lối Trong Cát](Chương_Truyện/Chương_13_Lạc_Lối_Trong_Cát.md)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 13 - Lạc Lối Trong Cát.
+- Tạo Kỳ vật: Sa Hồn (Quái vật Chương 13).
 - Viết Chương Truyện: Chương 12 - Thương Vụ Bạc Tỷ.
 - Sáng tác thơ: Ốc Đảo Dạ Khúc.
 - Viết Chương Truyện: Chương 11 - Bão Cát Tây Mạc.
