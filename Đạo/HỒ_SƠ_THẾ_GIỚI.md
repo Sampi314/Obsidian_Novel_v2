@@ -59,6 +59,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Trần.md`.
 - **Lục Tiêu (Thanh Âm Sứ Giả):** Sứ Giả Tinh Linh Tộc, Kim Đan Sơ Kỳ. Đệ tử của Nữ Hoàng Nguyệt Dao, dùng tiếng sáo để giao tiếp với thiên nhiên. Sở hữu *Thanh Âm Vạn Vật Quyết* và *Ngọc Tiêu Cửu Khúc*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Tiêu.md`.
+- **Nguyệt Dao (Nữ Hoàng Tinh Linh):** Nữ hoàng Tinh Linh Tộc đời thứ 6, Hóa Thần Sơ Kỳ. Người bảo vệ Thần Mộc và lãnh đạo bộ tộc trong thời kỳ Huyết Độc Chi Họa. Sở hữu *Nguyệt Linh Trường Sinh Quyết* và *Nguyệt Thần Cung*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Nguyệt_Dao.md`.
 
 ## VI. CÁC THẾ LỰC
 - **Dược Vương Cốc (Trung Thổ):**
@@ -114,6 +116,9 @@
 - **Thanh Âm Vạn Vật Quyết (Thiên Cấp Hạ Phẩm):**
     - Công pháp Tinh Linh Tộc kết hợp Âm Luật và Mộc Linh, dùng tiếng tiêu điều khiển thực vật và chữa trị.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Thanh_Âm_Vạn_Vật_Quyết.md`.
+- **Nguyệt Linh Trường Sinh Quyết (Thiên Cấp Trung Phẩm):**
+    - Công pháp trấn tộc của Tinh Linh, hấp thụ ánh trăng để thanh tẩy độc tố và hồi phục sinh mệnh.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Nguyệt_Linh_Trường_Sinh_Quyết.md`.
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Trận Pháp:**
@@ -134,6 +139,7 @@
     - *Thanh Liên Kiếm (Thiên Cấp Hạ Phẩm):* Kiếm bản mệnh của Lục Trần, rèn từ thân sen ngàn năm, kiếm khí như hoa sen nở rộ. Xem tại `Đạo/Luyện_Khí/Thanh_Liên_Kiếm.md`.
     - *Băng Phong Phù (Cấp 3):* Phù lục phong ấn mục tiêu trong băng. Xem tại `Đạo/Phù_Lục/Băng_Phong_Phù.md`.
     - *Ngọc Tiêu Cửu Khúc (Pháp Bảo Cực Phẩm):* Sáo ngọc làm từ Thần Mộc, vũ khí của Lục Tiêu, khuếch đại âm luật và điều khiển thực vật. Xem tại `Đạo/Luyện_Khí/Ngọc_Tiêu_Cửu_Khúc.md`.
+    - *Nguyệt Thần Cung (Pháp Bảo Cực Phẩm):* Cung thần của Nữ Hoàng Tinh Linh, không cần tên thật, bắn ra ánh sáng thanh tẩy tà ma. Xem tại `Đạo/Luyện_Khí/Nguyệt_Thần_Cung.md`.
 - **Kỳ Vật:**
     - *Hỏa Linh Thảo:* Thảo dược hệ Hỏa, mọc ở nơi hỏa khí nồng đậm. Xem tại `Đạo/Kỳ_Vật/Hỏa_Linh_Thảo.md`.
     - *Hàn Ngọc:* Khoáng thạch hệ Băng, dùng luyện khí và tu luyện. Xem tại `Đạo/Kỳ_Vật/Hàn_Ngọc.md`.
@@ -146,6 +152,7 @@
     - [Độc Ẩm Dưới Trăng](Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md): Bài thơ thất ngôn tứ tuyệt về kiếm khách uống rượu trước trận chiến.
     - [Băng Cung Dạ Khúc](Thơ_Ca/Băng_Cung_Dạ_Khúc.md): Bài thơ về nỗi cô đơn của người tu đạo trên đỉnh Tuyết Sơn.
     - [Khúc Nhạc Rừng Xanh](Thơ_Ca/Khúc_Nhạc_Rừng_Xanh.md): Bài thơ về nỗi lòng của Tinh Linh Tộc trước cảnh rừng già bị tàn phá.
+    - [Nguyệt Hạ Tinh Linh](Thơ_Ca/Nguyệt_Hạ_Tinh_Linh.md): Bài thơ về nỗi cô đơn và quyết tâm của Nữ Hoàng Nguyệt Dao.
 - **Âm Nhạc:**
     - **[DANH SÁCH TÁC PHẨM (MỚI)](Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md):** Thư viện tổng hợp 100+ tác phẩm âm nhạc (bao gồm 90 bài hát mới).
     - [Hỗn Độn Ca](Âm_Nhạc/Hồng_Hoang/Hỗn_Độn_Ca.md): Khúc ca cổ về thuở khai thiên lập địa.
@@ -216,3 +223,7 @@
 - Tạo công pháp: Thanh Âm Vạn Vật Quyết (Tinh Linh Tộc).
 - Tạo Pháp bảo: Ngọc Tiêu Cửu Khúc (Vũ khí của Lục Tiêu).
 - Sáng tác thơ: Khúc Nhạc Rừng Xanh.
+- Tạo nhân vật: Nguyệt Dao (Nữ Hoàng Tinh Linh).
+- Tạo công pháp: Nguyệt Linh Trường Sinh Quyết.
+- Tạo Pháp bảo: Nguyệt Thần Cung.
+- Sáng tác thơ: Nguyệt Hạ Tinh Linh.
