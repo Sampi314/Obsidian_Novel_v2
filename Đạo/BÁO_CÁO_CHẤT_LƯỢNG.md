@@ -99,3 +99,4 @@
 | 2026-03-13 | Tổng Quản | Viết Chương 49: Bí Mật Mộc Linh Trận | Hoàn Thành | Viết Chương 49 (Bí Mật Mộc Linh Trận), tiết lộ cơ chế phá Vạn Độc Huyết Tế Đại Trận. |
 | 2026-03-14 | Tổng Quản | Viết Chương 50: Cuộc Chiến Thủ Thành | Hoàn Thành | Mô tả trận chiến phòng thủ tại Mộc Linh Trận Địa. |
 | 2026-03-15 | Tổng Quản | Viết Chương 51 & Tạo Huyết Nha | Hoàn Thành | Viết Chương 51 (Đột Kích Mắt Trận) và tạo Kỳ vật Huyết Nha. |
+| 2026-03-16 | Tổng Quản | Viết Chương 52: Đột Kích Mắt Trận (Phần 2) | Hoàn Thành | Mô tả trận chiến phá hủy Mắt Trận Phụ. |
