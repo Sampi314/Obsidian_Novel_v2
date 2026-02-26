@@ -292,6 +292,7 @@
     - [Chương 41: Mê Cung Tơ Độc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00041_Mê_Cung_Tơ_Độc.md)
     - [Chương 42: Huyết Chiến Nhện Chúa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00042_Huyết_Chiến_Nhện_Chúa.md)
     - [Chương 43: Thoát Khỏi Hang Động](Chương_Truyện/Góc_Nhìn_Chính/Chương_00043_Thoát_Khỏi_Hang_Động.md)
+    - [Chương 44: Hồi Sinh Trong Tử Địa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00044_Hồi_Sinh_Trong_Tử_Địa.md)
     - [Chương 44: Ánh Sáng Và Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00044_Ánh_Sáng_Và_Bóng_Tối.md)
     - [Chương 45: Huyết Trận Khởi Động](Chương_Truyện/Góc_Nhìn_Chính/Chương_00045_Huyết_Trận_Khởi_Động.md)
     - [Chương 46: Vòng Vây Sinh Tử](Chương_Truyện/Góc_Nhìn_Chính/Chương_00046_Vòng_Vây_Sinh_Tử.md)
@@ -313,6 +314,7 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 44 - Hồi Sinh Trong Tử Địa.
 - Viết Chương Truyện: Chương 53 - Vòng Vây Siết Chặt.
 - Viết Chương Truyện: Chương 52 - Đột Kích Mắt Trận (Phần 2).
 - Viết Chương Truyện: Chương 51 - Đột Kích Mắt Trận (Phần 1).

@@ -143,6 +143,32 @@
 - **Quái vật:** Vong Linh.
 - **Tiến độ Arc:** Vào hang (Dungeon phase 2).
 
+## [2026-03-08] Chương 41: Mê Cung Tơ Độc
+- **Nội dung:** Nhóm lạc vào mê cung tơ nhện. Đối đầu với ảo giác và ma trận của Nhện Mặt Quỷ.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân.
+- **Địa điểm:** Hang Động Nhện Quỷ.
+- **Tiến độ Arc:** Khám phá sâu hơn vào hang động.
+
+## [2026-03-08] Chương 42: Huyết Chiến Nhện Chúa
+- **Nội dung:** Cuộc chiến sinh tử với Huyết Nhện Chúa. Lâm Phong và Diệp Tĩnh Sương phối hợp tiêu diệt boss. Hang động bắt đầu sụp đổ.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Huyết Nhện Chúa.
+- **Địa điểm:** Hang Động Nhện Quỷ (Tổ Nhện).
+- **Quái vật:** Huyết Nhện Chúa.
+- **Tiến độ Arc:** Tiêu diệt Boss, bắt đầu thoát hiểm.
+
+## [2026-03-09] Chương 43: Thoát Khỏi Hang Động
+- **Nội dung:** Nhóm thoát khỏi hang động đang sụp đổ. Tìm thấy Huyết Linh Chi tại cửa hang (Vùng Đất Chết).
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Hứa Nhược Thủy.
+- **Địa điểm:** Ranh giới Vùng Đất Chết - Rừng Huyết Độc.
+- **Vật phẩm:** Huyết Linh Chi.
+- **Tiến độ Arc:** Thoát hiểm thành công, tìm được thuốc chữa.
+
+## [2026-03-09] Chương 44: Hồi Sinh Trong Tử Địa
+- **Nội dung:** Nhóm nhân vật tìm nơi trú ẩn trong hốc cây hóa thạch tại Vùng Đất Chết. Lâm Phong dùng Huyết Linh Chi cứu chữa Hứa Nhược Thủy. Hứa Nhược Thủy hồi phục, tiết lộ bí mật về Vùng Đất Chết và Địa Sát. Vong Linh trỗi dậy khi đêm xuống.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Hứa Nhược Thủy, Vong Linh.
+- **Địa điểm:** Vùng Đất Chết (Rừng Huyết Độc).
+- **Vật phẩm:** Huyết Linh Chi.
+- **Tiến độ Arc:** Hồi phục lực lượng, chuẩn bị đối mặt làn sóng quái vật đêm.
 ## [2026-03-12] Chương 46: Vòng Vây Sinh Tử
 - **Nội dung:** Vạn Độc Huyết Tế Đại Trận kích hoạt, tạo ra vòng vây khép kín. Nhóm nhân vật đối mặt với bầy Huyết Vệ và Huyết Tướng. Hứa Nhược Thủy dùng Thủy Linh Châu hỗ trợ, Lâm Phong tìm ra Mắt Trận Phụ.
 - **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy, Huyết Vệ, Huyết Tướng.
