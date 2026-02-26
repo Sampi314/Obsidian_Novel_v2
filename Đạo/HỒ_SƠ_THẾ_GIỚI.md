@@ -15,6 +15,7 @@
         - *Rừng Huyết Độc:* Khu rừng biên giới với những thân cây đỏ như máu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md`.
             - *Hang Động Nhện Quỷ:* Hệ thống hang động ngầm nơi Vạn Độc Môn thực hiện thí nghiệm Huyết Thi. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
             - *Mộc Linh Trận Địa:* Căn cứ tạm thời của Tinh Linh Tộc và Dược Vương Cốc nằm sâu trong rừng. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md`.
+            - *Huyết Vụ Lâm:* Vùng đệm sương mù đỏ thẫm giáp ranh Vạn Độc Cốc, nơi ảo ảnh và tâm ma ngự trị. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Huyết_Vụ_Lâm.md`.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
@@ -303,6 +304,7 @@
     - [Chương 51: Đột Kích Mắt Trận (Phần 1)](Chương_Truyện/Góc_Nhìn_Chính/Chương_00051_Đột_Kích_Mắt_Trận_1.md)
     - [Chương 52: Đột Kích Mắt Trận (Phần 2)](Chương_Truyện/Góc_Nhìn_Chính/Chương_00052_Đột_Kích_Mắt_Trận_2.md)
     - [Chương 53: Vòng Vây Siết Chặt](Chương_Truyện/Góc_Nhìn_Chính/Chương_00053_Vòng_Vây_Siết_Chặt.md)
+    - [Chương 54: Bóng Ma Trong Sương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00054_Bóng_Ma_Trong_Sương.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -315,6 +317,9 @@
 
 ## XII. CẬP NHẬT GẦN NHẤT
 - Viết Chương Truyện: Chương 44 - Hồi Sinh Trong Tử Địa.
+- Viết Chương Truyện: Chương 54 - Bóng Ma Trong Sương.
+- Tạo Địa danh: Huyết Vụ Lâm.
+- Cập nhật Thế lực: Vạn Độc Môn (Thêm Vạn Độc Thất Sát).
 - Viết Chương Truyện: Chương 53 - Vòng Vây Siết Chặt.
 - Viết Chương Truyện: Chương 52 - Đột Kích Mắt Trận (Phần 2).
 - Viết Chương Truyện: Chương 51 - Đột Kích Mắt Trận (Phần 1).

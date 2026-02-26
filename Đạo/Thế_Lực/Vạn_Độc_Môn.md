@@ -32,7 +32,10 @@
 1.  **Môn Chủ (Độc Cô Lão Quái):** Kẻ sống sót sau cuộc chiến tranh giành quyền lực tàn khốc nhất lịch sử môn phái. Tính tình hỉ nộ vô thường.
 2.  **Ngũ Độc Trưởng Lão:**
     - 5 vị trưởng lão (Nguyên Anh Hậu Kỳ) đại diện cho 5 chi nhánh: Xà (Rắn), Rết (Ngô Công), Bò Cạp (Hạt), Cóc (Thiềm Thừ), Nhện (Chu).
-3.  **Hệ Thống Đệ Tử:**
+3.  **Vạn Độc Thất Sát (Lực Lượng Đặc Nhiệm):**
+    - 7 sát thủ tinh nhuệ (Giả Đan Cảnh) được đào tạo đặc biệt để thực hiện các nhiệm vụ ám sát và truy kích.
+    - Không có tên, chỉ được gọi theo số thứ tự từ Nhất Sát đến Thất Sát. Chúng là những cỗ máy giết chóc không cảm xúc, tuyệt đối trung thành.
+4.  **Hệ Thống Đệ Tử:**
     - **Chân Truyền (Độc Tử):** Những kẻ sống sót qua Lễ Tế Cổ, được truyền dạy bí kíp cao cấp.
         - *Đứng đầu:* **Vạn Độc Thánh Tử - [Lệ Vô Tâm](../Nhân_Vật/Lệ_Vô_Tâm.md)** (Trúc Cơ Viên Mãn). Kẻ được mệnh danh là "Huyết Thủ Thư Sinh", tương lai sẽ kế thừa chức Môn Chủ.
     - **Nội Môn (Cổ Sư):** Đã luyện thành bản mệnh Cổ Trùng cấp 3 trở lên.
