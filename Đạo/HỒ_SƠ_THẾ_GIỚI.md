@@ -154,6 +154,9 @@
 - **Thanh Mộc Trường Sinh Quyết (Hoàng Cấp Cực Phẩm):**
     - Công pháp Mộc-Phong của tán tu Lâm Phong, thiên về sinh tồn và trói buộc.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Thanh_Mộc_Trường_Sinh_Quyết.md`.
+- **Hàn Băng Bộ (Huyền Cấp Hạ Phẩm):**
+    - Thân pháp hệ Băng của Diệp Tĩnh Sương, để lại dấu chân băng giá và tàn ảnh.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Hàn_Băng_Bộ.md`.
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Trận Pháp:**
@@ -178,6 +181,7 @@
     - *Ngọc Tiêu Cửu Khúc (Pháp Bảo Cực Phẩm):* Sáo ngọc làm từ Thần Mộc, vũ khí của Lục Tiêu, khuếch đại âm luật và điều khiển thực vật. Xem tại `Đạo/Luyện_Khí/Ngọc_Tiêu_Cửu_Khúc.md`.
     - *Nguyệt Thần Cung (Pháp Bảo Cực Phẩm):* Cung thần của Nữ Hoàng Tinh Linh, không cần tên thật, bắn ra ánh sáng thanh tẩy tà ma. Xem tại `Đạo/Luyện_Khí/Nguyệt_Thần_Cung.md`.
     - *Truy Phong Cung (Huyền Cấp Hạ Phẩm):* Cung gỗ Huyết Đằng của Lâm Phong, tăng tốc độ mũi tên và điều khiển hướng đi. Xem tại `Đạo/Luyện_Khí/Truy_Phong_Cung.md`.
+    - *Hỏa Linh Tiễn (Nhất Giai Thượng Phẩm):* Tên nổ hệ Hỏa, gây sát thương diện rộng. Xem tại `Đạo/Luyện_Khí/Hỏa_Linh_Tiễn.md`.
 - **Kỳ Vật:**
     - *Hỏa Linh Thảo:* Thảo dược hệ Hỏa, mọc ở nơi hỏa khí nồng đậm. Xem tại `Đạo/Kỳ_Vật/Hỏa_Linh_Thảo.md`.
     - *Hàn Ngọc:* Khoáng thạch hệ Băng, dùng luyện khí và tu luyện. Xem tại `Đạo/Kỳ_Vật/Hàn_Ngọc.md`.
@@ -205,6 +209,7 @@
     - *Thiên Trụ Tương:* Nhựa cây quý hiếm từ Xương Rồng Thiên Trụ cổ đại, có khả năng hồi phục cực mạnh. Xem tại `Đạo/Kỳ_Vật/Thiên_Trụ_Tương.md`.
     - *Sa Hồ:* Loài cáo sa mạc thông minh, có khả năng tìm nước và dự báo bão. Xem tại `Đạo/Kỳ_Vật/Sa_Hồ.md`.
     - *Mộc Linh Vệ:* Tinh linh thực vật bảo vệ Pháo Đài Xanh, kết từ dây leo và rễ cây. Xem tại `Đạo/Kỳ_Vật/Mộc_Linh_Vệ.md`.
+    - *Huyết Độc Lang Vương:* Thủ lĩnh biến dị của bầy Huyết Độc Lang, có giáp cốt và khả năng điều khiển bầy đàn. Xem tại `Đạo/Kỳ_Vật/Huyết_Độc_Lang_Vương.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -273,6 +278,7 @@
     - [Chương 35: Lối Mòn Trong Bão](Chương_Truyện/Góc_Nhìn_Chính/Chương_00035_Lối_Mòn_Trong_Bão.md)
     - [Chương 36: Ranh Giới Tử Thần](Chương_Truyện/Góc_Nhìn_Chính/Chương_00036_Ranh_Giới_Tử_Thần.md)
     - [Chương 37: Vòng Vây Huyết Lang](Chương_Truyện/Góc_Nhìn_Chính/Chương_00037_Vòng_Vây_Huyết_Lang.md)
+    - [Chương 38: Huyết Chiến Lang Vương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00038_Huyết_Chiến_Lang_Vương.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -284,6 +290,11 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 38 - Huyết Chiến Lang Vương.
+- Tạo Kỳ vật: Huyết Độc Lang Vương.
+- Tạo Công pháp: Hàn Băng Bộ.
+- Tạo Pháp bảo: Hỏa Linh Tiễn.
+- Tạo Prompt Ảnh: Huyết Chiến Lang Vương (Chương 38).
 - Viết Chương Truyện: Chương 37 - Vòng Vây Huyết Lang.
 - Tạo Kỳ vật: Huyết Mộc.
 - Tạo Prompt Ảnh: Vòng Vây Huyết Lang (Chương 37).

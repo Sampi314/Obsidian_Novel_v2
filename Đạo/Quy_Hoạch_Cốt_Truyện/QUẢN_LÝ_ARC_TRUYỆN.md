@@ -19,7 +19,7 @@
     - **Sự Kiện Mới:** Tìm thấy Pháo Đài Xanh, phát hiện manh mối về hệ thống trấn áp Địa Mạch (Long Cốt - Pháo Đài Xanh - Nam Cương).
     - **Tiếp Theo:** Tìm đường hầm bí mật xuyên qua bão cát để đến biên giới Nam Cương (Hoàn thành - Chương 35).
     - **Sự Kiện Mới:** Chính thức bước vào Nam Cương, đối mặt với môi trường khắc nghiệt và sự truy sát của Vạn Độc Môn.
-    - **Nhiệm Vụ Hiện Tại:** Vượt qua Rừng Huyết Độc (Đang diễn ra - Chương 37: Đã vào sâu trong rừng, bị Huyết Độc Lang vây hãm).
+    - **Nhiệm Vụ Hiện Tại:** Vượt qua Rừng Huyết Độc (Đang diễn ra - Chương 38: Tiêu diệt Lang Vương, tiến vào "Vùng Đất Chết").
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
@@ -67,8 +67,8 @@
 
 | Nhân Vật | Góc Nhìn | Trạng Thái | Ghi Chú |
 | :--- | :--- | :--- | :--- |
-| **Lâm Phong** | Chính | Hoạt động | Đang chiến đấu với Huyết Độc Lang tại Rừng Huyết Độc (Nam Cương). |
-| **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đã hoàn thành 4 chương (POV). Đang chiến đấu với Huyết Độc Lang tại Rừng Huyết Độc. |
+| **Lâm Phong** | Chính | Hoạt động | Đã cùng Diệp Tĩnh Sương tiêu diệt Lang Vương, đang tiến vào Vùng Đất Chết. |
+| **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đã hoàn thành 4 chương (POV). Đã tiêu diệt Huyết Độc Lang Vương, đang tiến vào Vùng Đất Chết. |
 | **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoạt động | Đã hoàn thành 8 chương. Đang truy đuổi trong Hắc Sa Bão. |
 | **Hứa Nhược Thủy** | Phụ (NPC) | Ổn định (Tạm thời) | Đã được chữa trị, nhưng Long Cốt phong ấn đã vỡ. |
 | **Hứa Thanh Vân** | Phụ (NPC) | Hoạt động | Đã thoát khỏi Địa Cung. |
