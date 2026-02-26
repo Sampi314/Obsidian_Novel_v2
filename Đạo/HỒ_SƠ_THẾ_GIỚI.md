@@ -205,6 +205,7 @@
     - [Nguyệt Hạ Tinh Linh](Thơ_Ca/Nguyệt_Hạ_Tinh_Linh.md): Bài thơ về nỗi cô đơn và quyết tâm của Nữ Hoàng Nguyệt Dao.
     - [Đầm Lầy Dạ Khúc](Thơ_Ca/Đầm_Lầy_Dạ_Khúc.md): Bài thơ về sự nguy hiểm và chết chóc của Đầm Lầy Tử Thần.
     - [Ốc Đảo Dạ Khúc](Thơ_Ca/Ốc_Đảo_Dạ_Khúc.md): Bài thơ về vẻ đẹp và sự nguy hiểm của ốc đảo sa mạc.
+    - [Long Cốt Bi Ca](Thơ_Ca/Long_Cốt_Bi_Ca.md): Bài thơ bi tráng về sự sụp đổ của phong ấn Long Cốt.
 - **Âm Nhạc:**
     - **[DANH SÁCH TÁC PHẨM (MỚI)](Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md):** Thư viện tổng hợp 100+ tác phẩm âm nhạc (bao gồm 90 bài hát mới).
     - [Khúc Nhạc Mở Đầu: Cố Nguyên Trường Ca](Âm_Nhạc/Khởi_Nguyên/Khúc_Nhạc_Mở_Đầu.md): BGM hùng tráng, bi ai mô tả thế giới.
@@ -254,6 +255,7 @@
     - [Chương 27: Bí Mật Dưới Đáy Hồ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00027_Bí_Mật_Dưới_Đáy_Hồ.md)
     - [Chương 28: Thử Thách Của Lục Ly](Chương_Truyện/Góc_Nhìn_Chính/Chương_00028_Thử_Thách_Của_Lục_Ly.md)
     - [Chương 29: Bí Mật Long Cốt](Chương_Truyện/Góc_Nhìn_Chính/Chương_00029_Bí_Mật_Long_Cốt.md)
+    - [Chương 30: Đại Nạn Long Mạch](Chương_Truyện/Góc_Nhìn_Chính/Chương_00030_Đại_Nạn_Long_Mạch.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -265,6 +267,8 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 30 - Đại Nạn Long Mạch.
+- Sáng tác Thơ: Long Cốt Bi Ca.
 - Viết Chương Truyện: Chương 29 - Bí Mật Long Cốt.
 - Hoàn thành Arc: Tiền Truyện Lệ Vô Tâm (5 Chương).
 - Viết Chương Truyện: Chương 28 - Thử Thách Của Lục Ly.
