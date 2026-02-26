@@ -270,6 +270,7 @@
     - [Chương 33: Bí Mật Rừng Thiên Trụ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00033_Bí_Mật_Rừng_Thiên_Trụ.md)
     - [Chương 34: Pháo Đài Xanh](Chương_Truyện/Góc_Nhìn_Chính/Chương_00034_Pháo_Đài_Xanh.md)
     - [Chương 35: Lối Mòn Trong Bão](Chương_Truyện/Góc_Nhìn_Chính/Chương_00035_Lối_Mòn_Trong_Bão.md)
+    - [Chương 36: Ranh Giới Tử Thần](Chương_Truyện/Góc_Nhìn_Chính/Chương_00036_Ranh_Giới_Tử_Thần.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -281,6 +282,7 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 36 - Ranh Giới Tử Thần.
 - Viết Chương Truyện: Chương 35 - Lối Mòn Trong Bão.
 - Tạo Kỳ vật: Mộc Linh Vệ.
 - Viết Chương Truyện: Chương 34 - Pháo Đài Xanh.
