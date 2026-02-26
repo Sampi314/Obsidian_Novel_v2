@@ -258,6 +258,7 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Cập nhật Thơ ca & Công pháp: Thêm bản Hán Văn (Đầm Lầy Dạ Khúc, Khúc Nhạc Rừng Xanh, Nguyệt Hạ Tinh Linh, Nguyệt Linh Quyết, Thanh Mộc Quyết).
 - Viết Chương Truyện: Chương 26 - Hoàng Sa Thâm Cung.
 - Cập nhật Địa danh: Hoàng Sa Địa Cung (Thêm Khu Vực Thâm Cung & Hồ Nguyệt Ảnh).
 - Viết Chương Truyện: Chương 25 - Mạch Ngầm Bí Ẩn.

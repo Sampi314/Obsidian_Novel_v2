@@ -70,3 +70,4 @@
 | 2026-02-27 | Tổng Quản | Viết Chương 24: Huyết Thi Trỗi Dậy | Hoàn Thành | Tiếp nối mạch truyện tại Rừng Huyết Độc. |
 | 2026-02-28 | Tổng Quản | Tạo Địa Danh: Hang Động Nhện Quỷ | Hoàn Thành | Tạo hồ sơ chi tiết hang động, bao gồm Dưỡng Thi Địa và Mạch Ngầm. |
 | 2026-02-28 | Tổng Quản | Viết Chương 25: Mạch Ngầm Bí Ẩn | Hoàn Thành | Tiếp nối mạch truyện, kết nối Rừng Huyết Độc với Hoàng Sa Địa Cung. |
+| 2026-03-01 | Tổng Quản | Cập nhật Hán Văn cho Thơ Ca & Công Pháp | Hoàn Thành | Thêm Nguyên Văn (Hán Văn) và chuẩn hóa Hán Việt cho 3 bài thơ và 2 công pháp theo yêu cầu người dùng. |
