@@ -195,6 +195,7 @@
     - *Nhện Mặt Quỷ:* Nhện độc khổng lồ, lưng có hình mặt quỷ, giăng tơ vô hình và tạo ảo giác. Xem tại `Đạo/Kỳ_Vật/Nhện_Mặt_Quỷ.md`.
     - *Thủy Linh Châu:* Bảo vật trấn quốc của Hoàng Sa Quốc, có khả năng thanh tẩy độc tố và điều khiển thủy lực. Xem tại `Đạo/Kỳ_Vật/Thủy_Linh_Châu.md`.
     - *Thủy Thi:* Xác chết dưới nước bị biến đổi thành quái vật, da trắng bệch, sợ lửa. Xem tại `Đạo/Kỳ_Vật/Thủy_Thi.md`.
+    - *Xương Rồng Thiên Trụ:* Thực vật khổng lồ vùng Tây Mạc, nhựa có khả năng giải độc và hồi phục. Xem tại `Đạo/Kỳ_Vật/Xương_Rồng_Thiên_Trụ.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -258,6 +259,7 @@
     - [Chương 30: Đại Nạn Long Mạch](Chương_Truyện/Góc_Nhìn_Chính/Chương_00030_Đại_Nạn_Long_Mạch.md)
     - [Chương 31: Hắc Sa Bão Trỗi Dậy](Chương_Truyện/Góc_Nhìn_Chính/Chương_00031_Hắc_Sa_Bão_Trỗi_Dậy.md)
     - [Chương 32: Sa Hồn Truy Kích](Chương_Truyện/Góc_Nhìn_Chính/Chương_00032_Sa_Hồn_Truy_Kích.md)
+    - [Chương 33: Bí Mật Rừng Thiên Trụ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00033_Bí_Mật_Rừng_Thiên_Trụ.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -269,6 +271,8 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 33 - Bí Mật Rừng Thiên Trụ.
+- Tạo Kỳ vật: Xương Rồng Thiên Trụ.
 - Viết Chương Truyện: Chương 32 - Sa Hồn Truy Kích.
 - Viết Chương Truyện: Chương 31 - Hắc Sa Bão Trỗi Dậy.
 - Viết Chương Truyện: Chương 30 - Đại Nạn Long Mạch.
