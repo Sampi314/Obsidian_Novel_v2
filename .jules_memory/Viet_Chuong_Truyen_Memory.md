@@ -114,3 +114,24 @@
 - **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Thủy Xà Biến Dị.
 - **Địa điểm:** Mạch Ngầm (Hang Động Nhện Quỷ) -> Hoàng Sa Địa Cung.
 - **Tiến độ Arc:** Kết nối hai vùng đất (Nam Cương - Tây Mạc) qua hệ thống ngầm.
+
+## [2026-03-02] Chương 26: Hoàng Sa Thâm Cung
+- **Nội dung:** Nhóm rơi xuống hồ nước ngầm tại Hoàng Sa Thâm Cung. Chiến đấu với Thủy Quái. Phát hiện kiến trúc cung điện dưới nước.
+- **Địa điểm:** Hồ Nguyệt Ảnh (Hoàng Sa Địa Cung).
+
+## [2026-03-02] Chương 27: Bí Mật Dưới Đáy Hồ
+- **Nội dung:** Khám phá bức phù điêu dưới đáy hồ, hé lộ lịch sử phong ấn Long Cốt.
+- **Địa điểm:** Đáy Hồ Nguyệt Ảnh.
+
+## [2026-03-02] Chương 28: Thử Thách Của Lục Ly
+- **Nội dung:** Gặp gỡ Hộ Pháp Tinh Linh Lục Ly. Trải qua thử thách tâm ma để được tiếp cận Long Cốt.
+- **Nhân vật:** Lục Ly.
+
+## [2026-03-03] Chương 29: Bí Mật Long Cốt
+- **Nội dung:** Tiếp cận Long Cốt. Dùng Thủy Linh Châu chữa trị cho Hứa Nhược Thủy. Phong ấn bị vỡ.
+
+## [2026-03-04] Chương 30: Đại Nạn Long Mạch
+- **Nội dung:** Địa Sát thoát ra. Lục Ly hy sinh thân mình. Nhóm nhân vật chính theo dòng nước ngầm thoát lên mặt đất Tây Mạc. Hắc Sa Bão bắt đầu.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Hứa Nhược Thủy, Lục Ly, Địa Sát.
+- **Địa điểm:** Hoàng Sa Địa Cung -> Tây Mạc.
+- **Tiến độ Arc:** Kết thúc giai đoạn Địa Cung, mở ra tai kiếp Tây Mạc.

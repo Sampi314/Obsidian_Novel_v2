@@ -8,11 +8,13 @@
 *   **Nhân Vật Chính:** Diệp Tĩnh Sương, Lâm Phong.
 *   **Nhân Vật Phụ:** Hứa Nhược Thủy, Hứa Thanh Vân.
 *   **Mục Tiêu:**
-    - Khám phá bí mật Hoàng Sa Địa Cung (Khu vực Thâm Cung).
-    - Tìm thuốc chữa độc cho Hứa Nhược Thủy (Sa Sương hoặc Long Cốt chi lực).
+    - Khám phá bí mật Hoàng Sa Địa Cung (Khu vực Thâm Cung) (Đã hoàn thành).
+    - Tìm thuốc chữa độc cho Hứa Nhược Thủy (Sa Sương hoặc Long Cốt chi lực) (Đã hoàn thành).
     - Vượt qua thử thách của Hộ Pháp Tinh Linh Lục Ly để tiếp cận Long Cốt (Đã hoàn thành).
     - Dùng Thủy Linh Châu và Long Cốt để chữa trị/trấn áp độc tố (Đã hoàn thành).
-    - Đối đầu với nguy cơ từ Long Cốt (Phong ấn vỡ) và tìm lối thoát.
+    - **Sự Kiện Mới:** Phong ấn Long Cốt bị vỡ, Địa Sát thức tỉnh.
+    - **Nhiệm Vụ:** Thoát khỏi Hoàng Sa Địa Cung đang sụp đổ và trở lại mặt đất (Đã hoàn thành chương 30).
+    - **Tiếp theo:** Đối mặt với hậu quả của việc vỡ phong ấn (Hắc Sa Bão) và tìm đường đến Rừng Huyết Độc.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Hoàn Thành (Tiền Truyện).
@@ -55,11 +57,12 @@
 
 | Nhân Vật | Góc Nhìn | Trạng Thái | Ghi Chú |
 | :--- | :--- | :--- | :--- |
-| **Lâm Phong** | Chính | Hoạt động | Đang ở Tây Mạc. |
-| **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đang ở Tây Mạc. Có tuyến truyện nội tâm riêng. |
+| **Lâm Phong** | Chính | Hoạt động | Đang ở Tây Mạc (Bề mặt). |
+| **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đang ở Tây Mạc (Bề mặt). |
 | **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoàn Thành (Tiền Truyện) | Đã hoàn thành 5 chương tiền truyện. Sẵn sàng xuất hiện ở mạch chính. |
-| **Hứa Nhược Thủy** | Phụ (NPC) | Ổn định (Tạm thời) | Đã được chữa trị bằng Long Cốt, độc tố tạm thời bị đẩy lùi. |
-| **Hứa Thanh Vân** | Phụ (NPC) | Hoạt động | Đã được giải cứu. |
+| **Hứa Nhược Thủy** | Phụ (NPC) | Ổn định (Tạm thời) | Đã được chữa trị, nhưng Long Cốt phong ấn đã vỡ. |
+| **Hứa Thanh Vân** | Phụ (NPC) | Hoạt động | Đã thoát khỏi Địa Cung. |
+| **Lục Ly** | Phụ (NPC) | Hy Sinh / Phong Ấn | Đã dùng linh hồn để tạm thời trấn áp Địa Sát. |
 
 ---
 
