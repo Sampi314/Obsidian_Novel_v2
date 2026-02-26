@@ -85,6 +85,8 @@
 | 2026-03-07 | Tổng Quản | Viết Chương 40: Huyết Chiến Cửa Hang | Hoàn Thành | Tiếp nối mạch truyện, mô tả cuộc chiến với Vong Linh tại cửa hang. |
 | 2026-03-07 | Tổng Quản | Tạo Kỳ vật: Vong Linh | Hoàn Thành | Quái vật xương cốt bị Địa Sát thao túng. |
 | 2026-03-08 | Tổng Quản | Viết Chương 41: Mê Cung Tơ Độc | Hoàn Thành | Tiếp nối mạch truyện tại Hang Động Nhện Quỷ. |
+| 2026-03-08 | Tổng Quản | Viết Chương 42: Huyết Chiến Nhện Chúa | Hoàn Thành | Kết thúc phân đoạn Hang Động Nhện Quỷ, mở đường về mặt đất. |
+| 2026-03-08 | Tổng Quản | Tạo Kỳ vật: Huyết Nhện Chúa | Hoàn Thành | Boss của Hang Động Nhện Quỷ, bị biến đổi bởi Địa Sát. |
 | 2026-03-08 | Tổng Quản | Viết Chương 42: Huyết Chiến Nhện Chúa | Hoàn Thành | Tiếp nối mạch truyện, tiêu diệt Boss Nhện Chúa và thoát khỏi hang động. |
 | 2026-03-09 | Tổng Quản | Viết Chương 43: Thoát Khỏi Hang Động | Hoàn Thành | Mô tả cuộc đào thoát và tìm thấy Huyết Linh Chi. |
 | 2026-03-09 | Tổng Quản | Tạo Kỳ vật: Huyết Linh Chi | Hoàn Thành | Linh thảo giúp hồi phục khí huyết và giải độc. |

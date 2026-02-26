@@ -213,6 +213,7 @@
     - *Mộc Linh Vệ:* Tinh linh thực vật bảo vệ Pháo Đài Xanh, kết từ dây leo và rễ cây. Xem tại `Đạo/Kỳ_Vật/Mộc_Linh_Vệ.md`.
     - *Huyết Độc Lang Vương:* Thủ lĩnh biến dị của bầy Huyết Độc Lang, có giáp cốt và khả năng điều khiển bầy đàn. Xem tại `Đạo/Kỳ_Vật/Huyết_Độc_Lang_Vương.md`.
     - *Vong Linh (Undead Spirit):* Hài cốt bị Địa Sát thao túng, có lửa linh hồn xanh lục, miễn nhiễm sát thương vật lý. Xem tại `Đạo/Kỳ_Vật/Vong_Linh.md`.
+    - *Huyết Nhện Chúa:* Thủ lĩnh biến dị của bầy Nhện Mặt Quỷ, hấp thụ Địa Sát và Huyết Thần Độc. Xem tại `Đạo/Kỳ_Vật/Huyết_Nhện_Chúa.md`.
     - *Huyết Nhện Chúa:* Yêu thú biến dị cấp Trúc Cơ Trung Kỳ, thủ lĩnh của Nhện Mặt Quỷ. Xem tại `Đạo/Kỳ_Vật/Huyết_Nhện_Chúa.md`.
     - *Huyết Linh Chi:* Linh thảo hệ Huyết mọc trên rễ Huyết Mộc cổ thụ, có khả năng hồi phục khí huyết và giải độc. Xem tại `Đạo/Kỳ_Vật/Huyết_Linh_Chi.md`.
     - *Huyết Vệ:* Tu sĩ bị Vạn Độc Môn cải tạo thành cỗ máy giết chóc, vô cảm và có sức mạnh thể chất kinh hồn. Xem tại `Đạo/Kỳ_Vật/Huyết_Vệ.md`.
