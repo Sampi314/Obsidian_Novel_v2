@@ -1,104 +1,123 @@
 ---
-dạng_cấu_trúc: [Intro-Verse-Chorus-Verse-Chorus-Bridge-Chorus-Outro]
+dạng_cấu_trúc: Epic Orchestral - Tự Sự (Narrative)
 ---
 
+# TINH LINH TRƯỜNG CA (精靈長歌)
+
 ### 📍 Cấu Trúc Đã Chọn
+- **Thể loại:** Epic Orchestral, Ethereal, Fantasy Music.
 - **Intro:** Tiếng sáo ngọc (Ngọc Tiêu) réo rắt, buồn thương, hòa cùng tiếng hạc cầm (Harp) nhẹ nhàng như suối chảy.
 - **Verse 1 & 2:** Giọng nữ cao (Soprano) trong trẻo, hát chậm rãi, kể lể.
 - **Chorus:** Dàn hợp xướng nữ bè trầm hỗ trợ, tạo cảm giác thiêng liêng, hùng tráng. Nhịp điệu dồn dập hơn với tiếng trống da (Taiko) xa xăm.
 - **Bridge:** Cao trào cảm xúc, tiếng Violin réo rắt mô tả nỗi đau của rừng.
 - **Outro:** Quay lại tiếng sáo đơn độc, kết thúc bằng một nốt ngân dài tan vào hư không.
 
-## I. THÔNG TIN TÁC PHẨM
-- **Tên Tác Phẩm:** Tinh Linh Trường Ca (Tinh Linh Trường Ca - 精靈長歌).
-- **Phân Loại:** Nhạc Chủ Đề Chủng Tộc (Race Theme) / BGM Sự Kiện Huyết Độc Chi Họa.
-- **Sáng Tác:** Nhạc Sĩ Thiên Cung.
-- **Thời Điểm:** Kỷ Nguyên Khởi Nguyên - Năm 100.005 (Giai đoạn Tinh Linh Tộc mở kết giới).
-- **Cảm Hứng:** Lấy cảm hứng từ nỗi đau của Nữ Hoàng Nguyệt Dao khi nhìn thấy Thần Mộc héo úa và quyết định bước ra khỏi rừng già để tìm đường sống.
+### I. NGUYÊN VĂN TIẾNG TRUNG (CHINESE LYRICS)
+**(Verse 1)**
+萬古青森，今凋零
+神木垂淚，化悲鳴
+寂寞幽谷，人蹤滅
+唯有殘陽，照孤城
 
-## II. LỜI BÀI HÁT (LYRICS)
+**(Chorus)**
+願以我血，祭蒼天
+喚醒生機，綠野原
+月下弓張，箭破煞
+守護最後，一分緣
 
-### [Verse 1]
-(Hán Việt)
-Vạn cổ thanh sâm, kim điêu linh.
-Thần mộc thùy lệ, hóa bi minh.
-Tịch mịch u cốc, nhân tung diệt.
-Duy hữu tàn dương, chiếu cô thành.
+**(Verse 2)**
+風起東荒，亂雲飛
+血染山河，夢已違
+回首故鄉，霜滿地
+何時得見，故人歸？
 
-(Tiếng Việt)
-Rừng xanh vạn cổ, nay điêu tàn.
-Thần mộc rơi lệ, hóa tiếng than bi thương.
-Hang sâu vắng lặng, không dấu người.
-Chỉ còn tà dương, chiếu rọi tòa thành cô độc.
+**(Bridge)**
+聽！萬葉之歌，奏悲涼
+看！生命之火，燃未央
+縱使天地，皆歸塵
+我心不悔，向前方！
 
-### [Chorus]
-(Hán Việt)
-Nguyện dĩ ngã huyết, tế thương thiên.
-Hoán tỉnh sinh cơ, lục dã nguyên.
-Nguyệt hạ cung trương, tiễn phá sát.
-Thủ hộ tối hậu, nhất phân duyên.
+**(Chorus)**
+願以我血，祭蒼天
+喚醒生機，綠野原
+月下弓張，箭破煞
+守護最後，一分緣
 
-(Tiếng Việt)
-Nguyện dùng máu ta, tế trời xanh.
-Đánh thức sự sống, trên thảo nguyên xanh ngát.
-Dưới trăng giương cung, mũi tên phá tan sát khí.
-Gìn giữ chút duyên phận cuối cùng này.
+**(Outro)**
+生如夏花... 死如秋葉...
+願劫來生... 復見青林...
 
-### [Verse 2]
-(Hán Việt)
-Phong khởi đông hoang, loạn vân phi.
-Huyết nhiễm sơn hà, mộng dĩ vi.
-Hồi thủ cố hương, sương mãn địa.
+### II. PHIÊN ÂM HÁN VIỆT (SINO-VIETNAMESE LYRICS)
+**(Verse 1)**
+Vạn cổ thanh sâm, kim điêu linh
+Thần mộc thùy lệ, hóa bi minh
+Tịch mịch u cốc, nhân tung diệt
+Duy hữu tàn dương, chiếu cô thành
+
+**(Chorus)**
+Nguyện dĩ ngã huyết, tế thương thiên
+Hoán tỉnh sinh cơ, lục dã nguyên
+Nguyệt hạ cung trương, tiễn phá sát
+Thủ hộ tối hậu, nhất phân duyên
+
+**(Verse 2)**
+Phong khởi đông hoang, loạn vân phi
+Huyết nhiễm sơn hà, mộng dĩ vi
+Hồi thủ cố hương, sương mãn địa
 Hà thời đắc kiến, cố nhân quy?
 
-(Tiếng Việt)
-Gió nổi Đông Hoang, mây loạn bay.
-Máu nhuộm non sông, mộng đã trái ngang.
-Ngoảnh lại cố hương, sương phủ đầy đất.
-Bao giờ mới thấy, người xưa trở về?
-
-### [Bridge]
-(Hán Việt)
-Thính! Vạn diệp chi ca, tấu bi lương.
-Khán! Sinh mệnh chi hỏa, nhiên vị ương.
-Dù cho thiên địa, giai quy trần.
+**(Bridge)**
+Thính! Vạn diệp chi ca, tấu bi lương
+Khán! Sinh mệnh chi hỏa, nhiên vị ương
+Túng sử thiên địa, giai quy trần
 Ngã tâm bất hối, hướng tiền phương!
 
-(Tiếng Việt)
-Hãy nghe! Khúc ca của vạn chiếc lá, tấu lên nỗi bi lương.
-Hãy nhìn! Ngọn lửa sinh mệnh, cháy chưa bao giờ tắt.
-Dù cho trời đất, đều trở về cát bụi.
-Lòng ta không hối hận, vẫn hướng về phía trước!
+**(Chorus)**
+Nguyện dĩ ngã huyết, tế thương thiên
+Hoán tỉnh sinh cơ, lục dã nguyên
+Nguyệt hạ cung trương, tiễn phá sát
+Thủ hộ tối hậu, nhất phân duyên
 
-### [Chorus]
-(Hán Việt)
-Nguyện dĩ ngã huyết, tế thương thiên.
-Hoán tỉnh sinh cơ, lục dã nguyên.
-Nguyệt hạ cung trương, tiễn phá sát.
-Thủ hộ tối hậu, nhất phân duyên.
-
-(Tiếng Việt)
-Nguyện dùng máu ta, tế trời xanh.
-Đánh thức sự sống, trên thảo nguyên xanh ngát.
-Dưới trăng giương cung, mũi tên phá tan sát khí.
-Gìn giữ chút duyên phận cuối cùng này.
-
-### [Outro]
-(Hán Việt)
+**(Outro)**
 Sinh như hạ hoa... tử như thu diệp...
 Nguyện kiếp lai sinh... phục kiến thanh lâm...
 
-(Tiếng Việt)
-Sống như hoa mùa hạ... chết như lá mùa thu...
+### III. DỊCH SÁT NGHĨA (VIETNAMESE MEANING)
+**(Verse 1)**
+Rừng xanh vạn cổ, nay điêu tàn
+Thần mộc rơi lệ, hóa tiếng than bi thương
+Hang sâu vắng lặng, không dấu người
+Chỉ còn tà dương, chiếu rọi tòa thành cô độc
+
+**(Chorus)**
+Nguyện dùng máu ta, tế trời xanh
+Đánh thức sự sống, trên thảo nguyên xanh ngát
+Dưới trăng giương cung, mũi tên phá tan sát khí
+Gìn giữ chút duyên phận cuối cùng này
+
+**(Verse 2)**
+Gió nổi Đông Hoang, mây loạn bay
+Máu nhuộm non sông, mộng đã trái ngang
+Ngoảnh lại cố hương, sương phủ đầy đất
+Bao giờ mới thấy, người xưa trở về?
+
+**(Bridge)**
+Hãy nghe! Khúc ca của vạn chiếc lá, tấu lên nỗi bi lương
+Hãy nhìn! Ngọn lửa sinh mệnh, cháy chưa bao giờ tắt
+Dù cho trời đất, đều trở về cát bụi
+Lòng ta không hối hận, vẫn hướng về phía trước!
+
+**(Chorus)**
+Nguyện dùng máu ta, tế trời xanh
+Đánh thức sự sống, trên thảo nguyên xanh ngát
+Dưới trăng giương cung, mũi tên phá tan sát khí
+Gìn giữ chút duyên phận cuối cùng này
+
+**(Outro)**
+Sống rực rỡ như hoa mùa hạ... chết lặng lẽ như lá mùa thu...
 Nguyện kiếp sau... lại thấy rừng xanh...
 
-## III. SUNO AI PROMPT (Gợi Ý Tạo Nhạc)
-
-```yaml
-Style: Epic Orchestral, Ethereal, Fantasy Music, Celtic Influence
-Instruments: Bamboo Flute (Xiao), Harp, Strings Section, Taiko Drums (Background), Female Soprano Vocals
-Mood: Melancholic, Majestic, Hopeful, Determination
-Tempo: Slow build-up (60 BPM) to Epic Climax (90 BPM)
-Lyrics_Language: Vietnamese (Sino-Vietnamese style)
-Description: A sorrowful but majestic song about the Elf Race facing extinction. Starts with a lonely flute, builds up with orchestral strings and female choir, expressing the determination to protect the dying World Tree.
-```
+### IV. THÔNG TIN BỔ SUNG
+*   **Ý Nghĩa/Thông Điệp:** Bài hát thể hiện nỗi đau mất mát quê hương của tộc Tinh Linh và ý chí hy sinh để bảo vệ mầm sống cuối cùng.
+*   **Suno AI Style Prompt:**
+    > Epic Orchestral, Ethereal, Fantasy Music, Celtic Influence, Bamboo Flute (Xiao), Harp, Strings Section, Taiko Drums (Background), Female Soprano Vocals, Melancholic, Majestic, Hopeful, Determination.

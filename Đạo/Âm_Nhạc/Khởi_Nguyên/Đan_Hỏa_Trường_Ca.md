@@ -9,161 +9,103 @@ dạng_cấu_trúc: C3
 ### I. NGUYÊN VĂN TIẾNG TRUNG (CHINESE LYRICS)
 **(Intro)**
 南疆烈火燒千古
-
 丹河谷深藏仙途
-
 紅蓮綻放映蒼穹
-
 一爐丹藥問天數
 
 **(Verse 1)**
 五千歲月彈指間
-
 祖師尋火入深山
-
 地心熔岩如血脈
-
 鑄就丹塔聳雲端
-
 凡塵俗世皆拋卻
-
 唯有丹道在心田
 
 **(Chorus)**
 丹火熊熊九轉功
-
 心如洪爐意無窮
-
 煉得金丹成大道
-
 不負韶華不負卿
-
 烈焰焚身何所懼
-
 只為長生逆蒼穹
 
 **(Verse 2)**
 草木枯榮皆有數
-
 陰陽調和火候殊
-
 汗水滴落成靈液
-
 几度寒暑几度秋
-
 外人只見丹香溢
-
 誰知其中苦與憂
 
 **(Chorus)**
 丹火熊熊九轉功
-
 心如洪爐意無窮
-
 煉得金丹成大道
-
 不負韶華不負卿
-
 烈焰焚身何所懼
-
 只為長生逆蒼穹
 
 **(Bridge)**
 萬火焚天陣法開
-
 妖魔鬼怪不敢來
-
 守護宗門千秋業
-
 丹心一片照靈台
 
 **(Outro)**
 爐火漸熄煙未散
-
 丹成之日道自寬
-
 留得清名在人間
-
 丹河長流永不乾
 
 ### II. PHIÊN ÂM HÁN VIỆT (SINO-VIETNAMESE LYRICS)
 **(Intro)**
 Nam Cương liệt hỏa thiêu thiên cổ
-
 Đan Hà cốc thâm tàng tiên đồ
-
 Hồng liên trán phóng ánh thương khung
-
 Nhất lô đan dược vấn thiên số
 
 **(Verse 1)**
 Ngũ thiên tuế nguyệt đàn chỉ gian
-
 Tổ sư tầm hỏa nhập thâm sơn
-
 Địa tâm dung nham như huyết mạch
-
 Chú tựu đan tháp tủng vân đoan
-
 Phàm trần tục thế giai phao khước
-
 Duy hữu đan đạo tại tâm điền
 
 **(Chorus)**
 Đan hỏa hùng hùng cửu chuyển công
-
 Tâm như hồng lô ý vô cùng
-
 Luyện đắc kim đan thành đại đạo
-
 Bất phụ thiều hoa bất phụ khanh
-
 Liệt diễm phần thân hà sở cụ
-
 Chỉ vi trường sinh nghịch thương khung
 
 **(Verse 2)**
 Thảo mộc khô vinh giai hữu số
-
 Âm dương điều hòa hỏa hầu thù
-
 Hãn thủy tích lạc thành linh dịch
-
 Kỷ độ hàn thử kỷ độ thu
-
 Ngoại nhân chỉ kiến đan hương dật
-
 Thùy tri kỳ trung khổ dữ ưu
 
 **(Chorus)**
 Đan hỏa hùng hùng cửu chuyển công
-
 Tâm như hồng lô ý vô cùng
-
 Luyện đắc kim đan thành đại đạo
-
 Bất phụ thiều hoa bất phụ khanh
-
 Liệt diễm phần thân hà sở cụ
-
 Chỉ vi trường sinh nghịch thương khung
 
 **(Bridge)**
 Vạn hỏa phần thiên trận pháp khai
-
 Yêu ma quỷ quái bất cảm lai
-
 Thủ hộ tông môn thiên thu nghiệp
-
 Đan tâm nhất phiến chiếu linh đài
 
 **(Outro)**
 Lô hỏa tiệm tức yên vị tán
-
 Đan thành chi nhật đạo tự khoan
-
 Lưu đắc thanh danh tại nhân gian
-
 Đan hà trường lưu vĩnh bất can
 
 ### III. DỊCH SÁT NGHĨA (LITERAL TRANSLATION)

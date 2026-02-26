@@ -242,23 +242,17 @@ dạng_cấu_trúc: [C1/C2/C3/Tứ Tuyệt/Luật Thi/Từ-{tên từ bài}/Khú
 
 Markdown mặc định **nuốt xuống dòng đơn** — hai dòng liền nhau sẽ bị gộp thành một đoạn. Lời nhạc PHẢI hiển thị đúng từng dòng riêng biệt.
 
-**Luôn dùng cách sau:**
-### Cách: Dòng trống giữa mỗi dòng lời (preferred — ổn định hơn)
-Thiên địa huyền hoàng
+**BẮT BUỘC thực hiện cách sau:**
+### Cách: Thêm 2 khoảng trắng (spaces) ở cuối mỗi dòng lời.
+Ví dụ (dấu `_` tượng trưng cho khoảng trắng):
+Thiên địa huyền hoàng__
+Vũ trụ hồng hoang__
+Nhật nguyệt doanh trắc__
+Thần tinh liệt trương__
 
-Vũ trụ hồng hoang
+Lưu ý: Nếu không thêm 2 khoảng trắng, Markdown sẽ hiển thị thành một đoạn văn xuôi liền mạch, làm mất cấu trúc thơ/nhạc.
 
-Nhật nguyệt doanh trắc
-
-Thần tinh liệt trương
-
-
-
-**KHÔNG BAO GIỜ** viết lời nhạc liền nhau như văn xuôi:
-❌ SAI: Thiên địa huyền hoàng Vũ trụ hồng hoang Nhật nguyệt doanh trắc
-
-
-Quy tắc này áp dụng cho **tất cả 4 phần**: Lời Gốc Trung Văn, Phiên Âm Hán Việt, Dịch Sát Nghĩa, và Style Nhạc / Suno Prompt (phần có cấu trúc [Verse], [Chorus]).
+**Quy tắc này áp dụng cho tất cả các phần lời nhạc:** Lời Gốc Trung Văn, Phiên Âm Hán Việt, Dịch Sát Nghĩa.
 
 ## LƯU Ý
 - **Về Nhạc Cụ:** Khuyến khích kết hợp nhạc cụ dân tộc (Đàn Tranh, Sáo Trúc, Nhị Hồ...) với phối khí hiện đại (Piano, String section, Bass) để tạo độ dày cho âm thanh, giống các bài hát Cổ Phong hiện đại.
