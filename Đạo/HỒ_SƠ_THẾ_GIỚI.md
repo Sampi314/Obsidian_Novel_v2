@@ -190,6 +190,7 @@
     - *Huyết Độc Lang:* Sói biến dị nhiễm Huyết Thần Độc, săn mồi theo đàn. Xem tại `Đạo/Kỳ_Vật/Huyết_Độc_Lang.md`.
     - *Tinh Linh Cổ Ngọc:* Tín vật cổ đại của Tinh Linh Tộc, có khả năng đẩy lùi chướng khí. Xem tại `Đạo/Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md`.
     - *Huyết Đằng:* Dây leo hút máu, vật liệu chế tạo Truy Phong Cung. Xem tại `Đạo/Kỳ_Vật/Huyết_Đằng.md`.
+    - *Huyết Mộc:* Loài cây biến dị đặc hữu của Rừng Huyết Độc, thân rỉ nhựa như máu, gây ảo giác. Xem tại `Đạo/Kỳ_Vật/Huyết_Mộc.md`.
     - *Nguyệt Quang Thảo:* Linh thảo hấp thụ ánh trăng, có khả năng thanh lọc độc tố. Xem tại `Đạo/Kỳ_Vật/Nguyệt_Quang_Thảo.md`.
     - *Độc Long Tích:* Thằn lằn độc khổng lồ sống tại Núi Độc Long, có vảy đá và máu độc. Xem tại `Đạo/Kỳ_Vật/Độc_Long_Tích.md`.
     - *Sa Sương:* Tinh thể băng kết tinh vào đêm sa mạc, dùng để chế thuốc giải hỏa độc. Xem tại `Đạo/Kỳ_Vật/Sa_Sương.md`.
@@ -271,6 +272,7 @@
     - [Chương 34: Pháo Đài Xanh](Chương_Truyện/Góc_Nhìn_Chính/Chương_00034_Pháo_Đài_Xanh.md)
     - [Chương 35: Lối Mòn Trong Bão](Chương_Truyện/Góc_Nhìn_Chính/Chương_00035_Lối_Mòn_Trong_Bão.md)
     - [Chương 36: Ranh Giới Tử Thần](Chương_Truyện/Góc_Nhìn_Chính/Chương_00036_Ranh_Giới_Tử_Thần.md)
+    - [Chương 37: Vòng Vây Huyết Lang](Chương_Truyện/Góc_Nhìn_Chính/Chương_00037_Vòng_Vây_Huyết_Lang.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -282,6 +284,9 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 37 - Vòng Vây Huyết Lang.
+- Tạo Kỳ vật: Huyết Mộc.
+- Tạo Prompt Ảnh: Vòng Vây Huyết Lang (Chương 37).
 - Viết Chương Truyện: Chương 36 - Ranh Giới Tử Thần.
 - Viết Chương Truyện: Chương 35 - Lối Mòn Trong Bão.
 - Tạo Kỳ vật: Mộc Linh Vệ.
