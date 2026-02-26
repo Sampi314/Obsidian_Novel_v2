@@ -16,9 +16,17 @@
 - **Huyết Vụ Điểu (Blood Mist Bird):** Loài chim có bộ lông màu đỏ hòa lẫn vào sương mù, mỏ sắc nhọn như dao găm. Chúng không kêu bằng tiếng chim mà nhại lại tiếng người kêu cứu để dụ con mồi vào bẫy.
 - **Ảo Ảnh Ma:** Những bóng ma vô hình được tạo ra từ tâm trí của kẻ xâm nhập, tấn công bằng sát thương tinh thần.
 
-## IV. VAI TRÒ CHIẾN LƯỢC
+## IV. ĐỊA ĐIỂM ĐẶC BIỆT
+- **Huyết Mạch Thượng Cổ (Ancient Blood Veins):**
+    - Là hệ thống rễ cây khổng lồ đã hóa thạch nằm sâu dưới lòng đất Huyết Vụ Lâm.
+    - Được cho là tàn tích của Cây Thế Giới (Thần Mộc) từ thời Thượng Cổ.
+    - Lòng rễ rỗng tạo thành những đường hầm tự nhiên, bên trong vách rễ vẫn còn lưu lại Mộc Linh Khí tinh thuần, có khả năng đẩy lùi Huyết Vụ và độc tố bên ngoài.
+    - Đây là nơi ẩn náu duy nhất an toàn trong khu rừng chết chóc này, nhưng lối vào thường bị che khuất bởi ảo ảnh.
+
+## V. VAI TRÒ CHIẾN LƯỢC
 - Là "Bức Tường Thành Tự Nhiên" bảo vệ Vạn Độc Cốc khỏi sự xâm nhập từ bên ngoài.
 - Nơi Vạn Độc Môn thường thả những kẻ phản bội hoặc tù binh vào để "thử thách tâm tính" (thực chất là để làm thức ăn cho Huyết Vụ Điểu).
 
-## V. SỰ KIỆN LIÊN QUAN
+## VI. SỰ KIỆN LIÊN QUAN
 - [Chương 54: Bóng Ma Trong Sương](../Chương_Truyện/Góc_Nhìn_Chính/Chương_00054_Bóng_Ma_Trong_Sương.md): Nhóm Diệp Tĩnh Sương lạc vào đây sau khi phá vỡ vòng vây.
+- [Chương 55: Huyết Mạch Thượng Cổ](../Chương_Truyện/Góc_Nhìn_Chính/Chương_00055_Huyết_Mạch_Thượng_Cổ.md): Nhóm nhân vật tìm thấy lối vào Huyết Mạch để tránh sự truy sát của Thất Sát.
