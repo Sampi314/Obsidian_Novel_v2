@@ -77,3 +77,4 @@
 | 2026-03-02 | Tổng Quản | Viết Chương 28: Thử Thách Của Lục Ly | Hoàn Thành | Tiếp nối mạch truyện tại Thâm Cung, tạo nhân vật Lục Ly và Kỳ vật Thủy Linh Châu. |
 | 2026-03-03 | Tổng Quản | Viết Chương 31: Hắc Sa Bão Trỗi Dậy | Hoàn Thành | Tiếp nối mạch truyện, mô tả hậu quả vỡ phong ấn và sự xuất hiện của Hắc Sa Bão. |
 | 2026-03-04 | Tổng Quản | Viết Chương 32: Sa Hồn Truy Kích | Hoàn Thành | Tiếp nối mạch truyện, mô tả cuộc trốn chạy khỏi Hắc Sa Bão và tìm nơi trú ẩn. |
+| 2026-03-05 | Tổng Quản | Viết Chương 34 & Tạo Pháo Đài Xanh | Hoàn Thành | Tiếp nối mạch truyện Rừng Thiên Trụ, tạo thêm Kỳ vật Thiên Trụ Tương & Sa Hồ. |
