@@ -236,6 +236,7 @@
     - [Chương 16: Trở Về Cát Bụi](Chương_Truyện/Góc_Nhìn_Chính/Chương_00016_Trở_Về_Cát_Bụi.md)
     - [Chương 17: Mưu Đồ Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00017_Mưu_Đồ_Bóng_Tối.md)
     - [Chương 18: Huyết Chiến Trạm Dừng Chân](Chương_Truyện/Góc_Nhìn_Chính/Chương_00018_Huyết_Chiến_Trạm_Dừng_Chân.md)
+    - [Chương 19: Hành Trình Về Phía Đông](Chương_Truyện/Góc_Nhìn_Chính/Chương_00019_Hành_Trình_Về_Phía_Đông.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -245,6 +246,8 @@
         - [Chương 5: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00005_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 19 - Hành Trình Về Phía Đông.
+- Cập nhật Hồ sơ nhân vật: Hứa Nhược Thủy (Sửa lỗi cảnh giới con trai & thêm trạng thái trúng độc).
 - Viết Chương Truyện: Chương 18 - Huyết Chiến Trạm Dừng Chân.
 - Viết Chương Truyện: Chương 17 - Mưu Đồ Bóng Tối.
 - Tạo Địa danh: Trạm Dừng Chân Số 7.
