@@ -80,3 +80,5 @@
 | 2026-03-05 | Tổng Quản | Viết Chương 34 & Tạo Pháo Đài Xanh | Hoàn Thành | Tiếp nối mạch truyện Rừng Thiên Trụ, tạo thêm Kỳ vật Thiên Trụ Tương & Sa Hồ. |
 | 2026-03-06 | Tổng Quản | Viết Chương 35 & Tạo Mộc Linh Vệ | Hoàn Thành | Tiếp nối mạch truyện Rừng Thiên Trụ, mở đường về Nam Cương. |
 | 2026-03-07 | Tổng Quản | Viết Chương 36: Ranh Giới Tử Thần | Hoàn Thành | Chính thức bước vào Rừng Huyết Độc (Nam Cương), đối mặt với chướng khí. |
+| 2026-03-07 | Tổng Quản | Viết Chương 39: Vùng Đất Chết | Hoàn Thành | Tiếp nối mạch truyện, mô tả vùng đất bị nguyền rủa bởi Địa Sát. |
+| 2026-03-07 | Tổng Quản | Tạo Địa Danh: Vùng Đất Chết | Hoàn Thành | Tạo hồ sơ chi tiết khu vực cấm địa mới trong Rừng Huyết Độc. |
