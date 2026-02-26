@@ -238,6 +238,7 @@
     - [Chương 18: Huyết Chiến Trạm Dừng Chân](Chương_Truyện/Góc_Nhìn_Chính/Chương_00018_Huyết_Chiến_Trạm_Dừng_Chân.md)
     - [Chương 19: Hành Trình Về Phía Đông](Chương_Truyện/Góc_Nhìn_Chính/Chương_00019_Hành_Trình_Về_Phía_Đông.md)
     - [Chương 20: Ranh Giới Sinh Tử](Chương_Truyện/Góc_Nhìn_Chính/Chương_00020_Ranh_Giới_Sinh_Tử.md)
+    - [Chương 21: Độc Khí Công Tâm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00021_Độc_Khí_Công_Tâm.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -247,6 +248,7 @@
         - [Chương 5: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00005_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 21 - Độc Khí Công Tâm.
 - Viết Chương Truyện: Chương 20 - Ranh Giới Sinh Tử.
 - Hoàn thiện hồ sơ: Băng Tâm Quyết (Cấu trúc Hán - Việt - Dịch).
 - Hoàn thiện hồ sơ: Ốc Đảo Dạ Khúc (Thêm bản Tiếng Trung).
