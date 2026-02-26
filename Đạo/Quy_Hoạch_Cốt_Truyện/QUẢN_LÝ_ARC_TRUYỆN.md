@@ -21,7 +21,9 @@
     - **Sự Kiện Mới:** Chính thức bước vào Nam Cương, đối mặt với môi trường khắc nghiệt và sự truy sát của Vạn Độc Môn.
     - **Nhiệm Vụ Hiện Tại:** Vượt qua Rừng Huyết Độc (Đang diễn ra - Chương 38: Tiêu diệt Lang Vương, tiến vào "Vùng Đất Chết").
     - **Sự Kiện Mới:** Tiến vào Vùng Đất Chết, đối mặt với tử khí và vong linh do Địa Sát thao túng.
-    - **Nhiệm Vụ Hiện Tại:** Sinh tồn trong Vùng Đất Chết và tìm lối vào Hang Động Nhện Quỷ (Chương 39).
+    - **Nhiệm Vụ Hiện Tại:** Sinh tồn trong Vùng Đất Chết và tìm lối vào Hang Động Nhện Quỷ (Hoàn thành - Chương 40).
+    - **Sự Kiện Mới:** Tiến vào Hang Động Nhện Quỷ, thoát khỏi bầy Vong Linh nhưng rơi vào hang ổ của quái vật.
+    - **Nhiệm Vụ Tiếp Theo:** Khám phá lại hệ thống hang động, đối mặt với Nhện Mặt Quỷ và tìm đường xuống Mạch Ngầm.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).

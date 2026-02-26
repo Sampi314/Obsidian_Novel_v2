@@ -135,3 +135,10 @@
 - **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Hứa Nhược Thủy, Lục Ly, Địa Sát.
 - **Địa điểm:** Hoàng Sa Địa Cung -> Tây Mạc.
 - **Tiến độ Arc:** Kết thúc giai đoạn Địa Cung, mở ra tai kiếp Tây Mạc.
+
+## [2026-03-07] Chương 40: Huyết Chiến Cửa Hang
+- **Nội dung:** Nhóm nhân vật chính chiến đấu với bầy Vong Linh tại cửa Hang Động Nhện Quỷ. Diệp Tĩnh Sương dùng "Sương Hàn Cửu Thiên" mở đường. Cả nhóm chạy vào hang, thoát khỏi sự truy đuổi của Vong Linh (chúng sợ thứ bên trong hang).
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Vong Linh.
+- **Địa điểm:** Cửa Hang Động Nhện Quỷ (Vùng Đất Chết).
+- **Quái vật:** Vong Linh.
+- **Tiến độ Arc:** Vào hang (Dungeon phase 2).
