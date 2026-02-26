@@ -279,6 +279,7 @@
     - [Chương 36: Ranh Giới Tử Thần](Chương_Truyện/Góc_Nhìn_Chính/Chương_00036_Ranh_Giới_Tử_Thần.md)
     - [Chương 37: Vòng Vây Huyết Lang](Chương_Truyện/Góc_Nhìn_Chính/Chương_00037_Vòng_Vây_Huyết_Lang.md)
     - [Chương 38: Huyết Chiến Lang Vương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00038_Huyết_Chiến_Lang_Vương.md)
+    - [Chương 39: Vùng Đất Chết](Chương_Truyện/Góc_Nhìn_Chính/Chương_00039_Vùng_Đất_Chết.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -290,6 +291,8 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 39 - Vùng Đất Chết.
+- Tạo Địa danh: Vùng Đất Chết.
 - Viết Chương Truyện: Chương 38 - Huyết Chiến Lang Vương.
 - Tạo Kỳ vật: Huyết Độc Lang Vương.
 - Tạo Công pháp: Hàn Băng Bộ.

@@ -1,22 +1,22 @@
-# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2024-07-09)
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-03-07)
 
 ## 1. TỔNG QUAN
 - **Agent:** Tổng Quản (Jules).
-- **Mục tiêu:** Khắc phục sự cố thiếu Chapter 21 và xây dựng bối cảnh Nam Cương.
+- **Mục tiêu:** Viết tiếp mạch truyện sau khi tiêu diệt Lang Vương, đưa nhóm nhân vật vào Vùng Đất Chết.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00021_Độc_Khí_Công_Tâm.md`: Chương tiếp nối sau khi nhóm nhân vật vào Nam Cương.
-  - `Đạo/Thế_Giới_Và_Thời_Gian/Nam_Cương.md`: Hồ sơ vùng đất mới.
-  - `Đạo/Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md`: Hồ sơ địa điểm cụ thể cho chương 21.
+  - `Đạo/Thế_Giới_Và_Thời_Gian/Vùng_Đất_Chết.md`: Hồ sơ địa danh mới, mô tả vùng đất bị ảnh hưởng bởi Địa Sát.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00039_Vùng_Đất_Chết.md`: Chương tiếp nối, nhóm nhân vật đối mặt với Vong Linh.
 - **Cập nhật:**
-  - Bổ sung liên kết và danh sách chương vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-  - Ghi log vào `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm chương 39 và địa danh mới vào danh sách.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ Arc và trạng thái nhân vật.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi log hoạt động.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
-- **Tiến độ:** Cốt truyện đã chính thức chuyển sang Arc Nam Cương (Huyết Độc Chi Họa cao trào).
-- **Chất lượng:** Đã xác minh file chương 21 tồn tại và nội dung phù hợp với mạch truyện.
+- **Tiến độ:** Cốt truyện đang ở cao trào Arc Vượt Rừng Huyết Độc, chuyển sang giai đoạn khám phá Vùng Đất Chết / Hang Động Nhện Quỷ (phiên bản Địa Sát).
+- **Chất lượng:** Nội dung nhất quán với sự kiện Long Cốt vỡ (Chương 30).
 
 ## 4. KẾ HOẠCH TIẾP THEO
-- Viết tiếp Chương 22: Tìm kiếm nơi trú ẩn hoặc thuốc giải trong Rừng Huyết Độc.
-- Phát triển thêm các địa điểm phụ trong Nam Cương (Vạn Độc Cốc, Hỏa Vân Sơn).
+- Viết Chương 40: Trận chiến với Vong Linh và tiến sâu vào Hang Động.
+- Cập nhật hồ sơ quái vật: Vong Linh, Biến Dị Nhện (nếu cần).
