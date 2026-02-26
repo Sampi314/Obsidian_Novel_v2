@@ -4,30 +4,34 @@
 **Agent:** Tổng Quản (Jules)
 
 ## 1. TỔNG QUAN
-Đã hoàn thành viết Chương 27: Bí Mật Dưới Đáy Hồ cho góc nhìn chính. Cốt truyện đã chuyển sang giai đoạn khám phá bí mật lịch sử của Hoàng Sa Quốc và tiếp cận Long Cốt.
+Đã hoàn thành viết Chương 28: Thử Thách Của Lục Ly. Nhóm nhân vật chính đã vượt qua thử thách tâm ma của Hộ Pháp Tinh Linh và tiếp cận hòn đảo trung tâm nơi có Long Cốt.
 
 ## 2. NỘI DUNG ĐÃ THỰC HIỆN
-- **Viết Chương 27:**
-  - Nhóm nhân vật chiến đấu với Thủy Thi tại Ngự Hoa Viên.
-  - Khám phá bức bích họa tại Điện Thái Hòa, hé lộ nguyên nhân diệt vong do "Lời nguyền Vu Tộc" và vai trò của Long Cốt.
-  - Xác nhận Hứa Nhược Thủy nắm giữ mảnh vỡ Thủy Linh Châu.
-  - Kết thúc chương tại cầu đá dẫn đến Long Cốt, đối mặt với Hộ Pháp Tinh Linh Lục Ly.
-- **Cập nhật Hồ Sơ:**
-  - Thêm Chương 27 vào `HỒ_SƠ_THẾ_GIỚI.md`.
-  - Cập nhật tiến độ `QUẢN_LÝ_ARC_TRUYỆN.md`.
+- **Viết Chương 28:**
+  - Cuộc chiến giữa Lục Ly (Thủy Long Ngâm) và Diệp Tĩnh Sương (Băng Phong).
+  - Hé lộ vai trò của Thủy Linh Châu (Mảnh vỡ) trên người Hứa Nhược Thủy.
+  - Thử thách "Tâm Ma Ảnh" (Bích Hải Triều Sinh Khúc): Cả 3 nhân vật đều vượt qua nhờ ý chí kiên định.
+  - Lục Ly chấp nhận cho qua cầu.
+- **Tạo Hồ Sơ Mới:**
+  - Nhân vật: **Lục Ly** (Hộ Pháp Tinh Linh - Áo trắng, sáo ngọc).
+  - Kỳ vật: **Thủy Linh Châu** (Mảnh vỡ), **Thủy Thi**.
+- **Cập nhật Hồ Sơ Thế Giới:**
+  - Thêm Chương 28 và các liên kết mới.
 
 ## 3. THÔNG TIN QUAN TRỌNG MỚI
-- **Lục Ly:** Hộ Pháp Tinh Linh của Hoàng Sa Quốc, sử dụng sáo ngọc và công pháp *Thanh Âm Vạn Vật Quyết*. Là nhân vật mới (Undead/Spirit guardian).
-- **Thủy Thi:** Quái vật mới tại Thâm Cung (dạng nâng cấp của xác chết trôi sông).
-- **Thủy Linh Châu:** Vật phẩm chìa khóa để kích hoạt Long Cốt (hiện chỉ là mảnh vỡ trên dây chuyền của Hứa Nhược Thủy).
-- **Lời Nguyền Vu Tộc:** Nguyên nhân sâu xa của Huyết Độc (Lore mới cần khai thác thêm).
+- **Lục Ly:** Không phải kẻ thù hoàn toàn, mà là người bảo vệ có nguyên tắc.
+- **Thủy Linh Châu:** Chìa khóa để tương tác với Long Cốt.
+- **Long Cốt:** Được mô tả là "Phong ấn của Đất Mẹ", không chỉ đơn thuần là thuốc chữa bệnh.
 
 ## 4. KẾ HOẠCH TIẾP THEO (TODO)
-- **Viết Chương 28:** Cuộc chiến/Thử thách của Lục Ly. Diệp Tĩnh Sương hoặc Lâm Phong cần chứng minh tư cách để qua cầu.
-- **Tạo Hồ Sơ Nhân Vật:** Tạo file cho **Lục Ly** (NPC/Boss).
-- **Tạo Hồ Sơ Kỳ Vật:** Cập nhật **Thủy Linh Châu** và **Thủy Thi**.
-- **Cập nhật Lore:** Bổ sung thông tin về "Vu Tộc" vào lịch sử thế giới (nếu cần phát triển nhánh này).
+- **Viết Chương 29:**
+  - Tiếp cận Long Cốt.
+  - Sử dụng Thủy Linh Châu để kích hoạt Long Cốt.
+  - Điều trị cho Hứa Nhược Thủy (hoặc ít nhất là trấn áp độc tố tạm thời).
+  - Biến cố mới: Có thể là sự xuất hiện của kẻ thù (Huyết Tướng đuổi kịp?) hoặc tác dụng phụ của việc mở phong ấn.
+- **Cập nhật Lore:**
+  - Cần làm rõ hơn về "Lời nguyền Vu Tộc" nếu cốt truyện đi sâu vào lịch sử.
 
 ## 5. BÀI HỌC KINH NGHIỆM
-- Cần duy trì nhịp độ dồn dập trong các phân cảnh chiến đấu.
-- Việc kết hợp yếu tố lịch sử/bí ẩn (Lore dump qua bích họa) giúp làm sâu sắc thêm cốt truyện thay vì chỉ đánh nhau.
+- Việc sử dụng "Tâm Ma Ảnh" giúp phát triển chiều sâu nhân vật rất tốt (Diệp Tĩnh Sương nhớ sư phụ, Lâm Phong nhớ tự do, Hứa Thanh Vân vượt qua sợ hãi).
+- Cần duy trì sự nhất quán về màu sắc trang phục nhân vật (Lục Ly - Áo trắng theo chương 27).

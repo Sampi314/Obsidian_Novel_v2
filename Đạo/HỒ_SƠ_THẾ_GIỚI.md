@@ -79,6 +79,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hứa_Nhược_Thủy.md`.
 - **Hứa Thanh Vân:** Con trai Hứa Nhược Thủy, Luyện Khí Kỳ. Tính cách hào sảng, muốn làm hiệp khách nhưng thiếu kinh nghiệm, hiện đang mất tích. Sở hữu *Lưu Sa Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hứa_Thanh_Vân.md`.
+- **Lục Ly:** Hộ Pháp Tinh Linh của Hoàng Sa Địa Cung, tồn tại dưới dạng linh hồn. Tính cách lạnh lùng, trung thành tuyệt đối với nhiệm vụ canh giữ Long Cốt. Sở hữu *Thanh Âm Vạn Vật Quyết*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Ly.md`.
 
 ## VI. CÁC THẾ LỰC
 - **Dược Vương Cốc (Trung Thổ):**
@@ -191,6 +193,8 @@
     - *Sa Hồn (Sand Wraith):* Oán linh tại Lưu Sa Phế Tích, có khả năng tạo ảo giác và nhập vào cát. Xem tại `Đạo/Kỳ_Vật/Sa_Hồn.md`.
     - *Long Cốt:* Di cốt rồng thần hệ Thổ, chìa khóa nắm giữ long mạch Tây Mạc. Xem tại `Đạo/Kỳ_Vật/Long_Cốt.md`.
     - *Nhện Mặt Quỷ:* Nhện độc khổng lồ, lưng có hình mặt quỷ, giăng tơ vô hình và tạo ảo giác. Xem tại `Đạo/Kỳ_Vật/Nhện_Mặt_Quỷ.md`.
+    - *Thủy Linh Châu:* Bảo vật trấn quốc của Hoàng Sa Quốc, có khả năng thanh tẩy độc tố và điều khiển thủy lực. Xem tại `Đạo/Kỳ_Vật/Thủy_Linh_Châu.md`.
+    - *Thủy Thi:* Xác chết dưới nước bị biến đổi thành quái vật, da trắng bệch, sợ lửa. Xem tại `Đạo/Kỳ_Vật/Thủy_Thi.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -248,6 +252,7 @@
     - [Chương 25: Mạch Ngầm Bí Ẩn](Chương_Truyện/Góc_Nhìn_Chính/Chương_00025_Mạch_Ngầm_Bí_Ẩn.md)
     - [Chương 26: Hoàng Sa Thâm Cung](Chương_Truyện/Góc_Nhìn_Chính/Chương_00026_Hoàng_Sa_Thâm_Cung.md)
     - [Chương 27: Bí Mật Dưới Đáy Hồ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00027_Bí_Mật_Dưới_Đáy_Hồ.md)
+    - [Chương 28: Thử Thách Của Lục Ly](Chương_Truyện/Góc_Nhìn_Chính/Chương_00028_Thử_Thách_Của_Lục_Ly.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -259,6 +264,9 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 28 - Thử Thách Của Lục Ly.
+- Tạo Nhân vật: Lục Ly (Hộ Pháp Tinh Linh).
+- Tạo Kỳ vật: Thủy Linh Châu & Thủy Thi.
 - Cập nhật Thơ ca & Công pháp: Thêm bản Hán Văn (Đầm Lầy Dạ Khúc, Khúc Nhạc Rừng Xanh, Nguyệt Hạ Tinh Linh, Nguyệt Linh Quyết, Thanh Mộc Quyết).
 - Viết Chương Truyện: Chương 27 - Bí Mật Dưới Đáy Hồ.
 - Viết Chương Truyện: Chương 26 - Hoàng Sa Thâm Cung.
