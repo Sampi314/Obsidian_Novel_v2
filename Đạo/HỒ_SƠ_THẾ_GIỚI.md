@@ -73,6 +73,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Trần.md`.
 - **Lục Tiêu (Thanh Âm Sứ Giả):** Sứ Giả Tinh Linh Tộc, Kim Đan Sơ Kỳ. Đệ tử của Nữ Hoàng Nguyệt Dao, dùng tiếng sáo để giao tiếp với thiên nhiên. Sở hữu *Thanh Âm Vạn Vật Quyết* và *Ngọc Tiêu Cửu Khúc*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Tiêu.md`.
+- **Lục Ly (Hộ Pháp Tinh Linh):** Hộ Pháp Tinh Linh của Hoàng Sa Quốc, tồn tại dưới dạng hồn thể. Trấn thủ Long Cốt và sở hữu *Thủy Long Ngâm*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Ly.md`.
 - **Nguyệt Dao (Nữ Hoàng Tinh Linh):** Nữ hoàng Tinh Linh Tộc đời thứ 6, Hóa Thần Sơ Kỳ. Người bảo vệ Thần Mộc và lãnh đạo bộ tộc trong thời kỳ Huyết Độc Chi Họa. Sở hữu *Nguyệt Linh Trường Sinh Quyết* và *Nguyệt Thần Cung*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Nguyệt_Dao.md`.
 - **Hứa Nhược Thủy (Sa Dược Phu Nhân):** Gia Chủ Hứa Gia (Thiên Sa Thương Hội), Nguyên Anh Sơ Kỳ. Thương nhân thực dụng và trung lập, nắm giữ nguồn dược liệu sa mạc quan trọng cho cả Chính và Tà đạo. Sở hữu *Thủy Sa Hóa Linh Quyết*.
@@ -191,6 +193,8 @@
     - *Sa Hồn (Sand Wraith):* Oán linh tại Lưu Sa Phế Tích, có khả năng tạo ảo giác và nhập vào cát. Xem tại `Đạo/Kỳ_Vật/Sa_Hồn.md`.
     - *Long Cốt:* Di cốt rồng thần hệ Thổ, chìa khóa nắm giữ long mạch Tây Mạc. Xem tại `Đạo/Kỳ_Vật/Long_Cốt.md`.
     - *Nhện Mặt Quỷ:* Nhện độc khổng lồ, lưng có hình mặt quỷ, giăng tơ vô hình và tạo ảo giác. Xem tại `Đạo/Kỳ_Vật/Nhện_Mặt_Quỷ.md`.
+    - *Thủy Linh Châu (Mảnh Vỡ):* Kỳ vật hệ Thủy có khả năng thanh tẩy độc tố và điều khiển dòng nước. Xem tại `Đạo/Kỳ_Vật/Thủy_Linh_Châu.md`.
+    - *Thủy Thi:* Xác chết biến dị do ngâm nước nhiễm âm khí, sống dai và có độc. Xem tại `Đạo/Kỳ_Vật/Thủy_Thi.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -248,6 +252,7 @@
     - [Chương 25: Mạch Ngầm Bí Ẩn](Chương_Truyện/Góc_Nhìn_Chính/Chương_00025_Mạch_Ngầm_Bí_Ẩn.md)
     - [Chương 26: Hoàng Sa Thâm Cung](Chương_Truyện/Góc_Nhìn_Chính/Chương_00026_Hoàng_Sa_Thâm_Cung.md)
     - [Chương 27: Bí Mật Dưới Đáy Hồ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00027_Bí_Mật_Dưới_Đáy_Hồ.md)
+    - [Chương 28: Thử Thách Của Lục Ly](Chương_Truyện/Góc_Nhìn_Chính/Chương_00028_Thử_Thách_Của_Lục_Ly.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -260,6 +265,9 @@
 
 ## XII. CẬP NHẬT GẦN NHẤT
 - Cập nhật Thơ ca & Công pháp: Thêm bản Hán Văn (Đầm Lầy Dạ Khúc, Khúc Nhạc Rừng Xanh, Nguyệt Hạ Tinh Linh, Nguyệt Linh Quyết, Thanh Mộc Quyết).
+- Viết Chương Truyện: Chương 28 - Thử Thách Của Lục Ly.
+- Tạo Nhân Vật: Lục Ly (Hộ Pháp Tinh Linh).
+- Tạo Kỳ Vật: Thủy Linh Châu & Thủy Thi.
 - Viết Chương Truyện: Chương 27 - Bí Mật Dưới Đáy Hồ.
 - Viết Chương Truyện: Chương 26 - Hoàng Sa Thâm Cung.
 - Cập nhật Địa danh: Hoàng Sa Địa Cung (Thêm Khu Vực Thâm Cung & Hồ Nguyệt Ảnh).
