@@ -59,3 +59,5 @@
 | 2024-07-07 | Tổng Quản | Viết Chương 21 (Góc Nhìn Diệp Tĩnh Sương) | Hoàn Thành | Mô tả nội tâm Diệp Tĩnh Sương khi hy sinh tu vi cứu Hứa Nhược Thủy tại Rừng Huyết Độc. |
 | 2024-07-08 | Tổng Quản | Tạo Góc Nhìn Diệp Tĩnh Sương | Hoàn Thành | Tạo folder mới và viết Chương 1: Nhiệm Vụ Đơn Độc (Song song Chương 1 Chính). |
 | 2024-07-08 | Tổng Quản | Tạo Tâm Sự Diệp Tĩnh Sương | Hoàn Thành | Viết Ngoại Truyện: Tâm Sự Hàn Mai (Độc Thoại Nội Tâm). |
+| 2024-07-09 | Tổng Quản | Tạo Hồ Sơ Nam Cương & Rừng Huyết Độc | Hoàn Thành | Tạo file thế giới cho Nam Cương và Rừng Huyết Độc. |
+| 2024-07-09 | Tổng Quản | Viết Chương 21 (Chính) | Hoàn Thành | Tạo lại Chương 21: Độc Khí Công Tâm (bị thiếu file). |
