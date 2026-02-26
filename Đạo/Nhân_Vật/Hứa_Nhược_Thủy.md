@@ -39,6 +39,7 @@
     - Đứng đầu mảng kinh doanh dược liệu của Thiên Sa Thương Hội.
     - Trong sự kiện "Huyết Độc Chi Họa", bà đóng vai trò quan trọng khi nắm giữ nguồn cung cấp dược liệu giải độc (Sa Sương, Thiên Niên Sa Nhẫm) mà Dược Vương Cốc đang khao khát, đồng thời cũng là người duy nhất dám buôn bán với Vạn Độc Môn.
     - [Chương 12: Thương Vụ Bạc Tỷ](../Chương_Truyện/Góc_Nhìn_Chính/Chương_00012_Thương_Vụ_Bạc_Tỷ.md): Gặp gỡ nhóm Diệp Tĩnh Sương và Lâm Phong, giao nhiệm vụ tìm kiếm con trai Hứa Thanh Vân.
+    - [Chương 18: Huyết Chiến Trạm Dừng Chân](../Chương_Truyện/Góc_Nhìn_Chính/Chương_00018_Huyết_Chiến_Trạm_Dừng_Chân.md): Bị ám sát bởi cao thủ Vạn Độc Môn ngay tại Trạm Dừng Chân Số 7. Hiện đã trúng "Huyết Thần Độc" biến thể, sinh mệnh nguy kịch, đang cùng nhóm Diệp Tĩnh Sương trốn chạy.
 
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 - **Sở Trường:**
@@ -50,7 +51,7 @@
     - **Thiên Sa Toán Pháp:** Một môn thuật toán dùng để tính toán lợi nhuận, nhưng cũng có thể dùng để tính toán đường đi nước bước trong chiến đấu, dự đoán chiêu thức đối thủ dựa trên quy luật "trao đổi".
 
 ## VI. QUAN HỆ
-- **Gia Đình:** Có một con trai độc nhất là **Hứa Thanh Vân** (Kết Đan Kỳ), nhưng hắn lại chán ghét việc buôn bán, chỉ thích làm du hiệp, khiến bà rất đau đầu.
+- **Gia Đình:** Có một con trai độc nhất là **Hứa Thanh Vân** (Luyện Khí Viên Mãn), nhưng hắn lại chán ghét việc buôn bán, chỉ thích làm du hiệp, khiến bà rất đau đầu.
 - **Đồng Minh (Thương Mại):**
     - **Trần Kim Lưu (Gia Chủ Kim Sa Trần Gia):** Đối tác lâu năm, tuy hay tranh giành quyền lợi nhưng luôn đoàn kết khi đối ngoại.
     - **Đan Dương Tử (Đan Hà Cốc):** Khách hàng lớn nhất về dược liệu hỏa hệ.

@@ -53,3 +53,4 @@
 | 2024-07-01 | Tổng Quản | Viết Chương 17 & Mở Arc Mới | Hoàn Thành | Viết Chương 17 (Mưu Đồ Bóng Tối), bắt đầu cao trào tại Trạm Dừng Chân. |
 | 2024-07-02 | Tổng Quản | Viết Chương 18 & Huyết Chiến | Hoàn Thành | Viết Chương 18 (Huyết Chiến Trạm Dừng Chân), tiếp nối diễn biến kịch tính. |
 | 2024-07-03 | Tổng Quản | Mở Rộng Góc Nhìn Lệ Vô Tâm | Hoàn Thành | Viết thêm Chương 2 (Huyết Độc Phiến), Chương 3 (Mệnh Lệnh Bóng Tối) cho Lệ Vô Tâm. Sắp xếp lại timeline. |
+| 2024-07-04 | Tổng Quản | Fix Hứa Nhược Thủy & Viết Chương 19 | Hoàn Thành | Sửa lỗi cảnh giới con trai Hứa Nhược Thủy, viết chương hành trình về Trung Thổ. |

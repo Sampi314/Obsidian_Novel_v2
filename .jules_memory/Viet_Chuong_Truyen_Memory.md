@@ -59,3 +59,22 @@
 - **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân.
 - **Địa điểm:** Ốc Đảo Thanh Lương.
 - **Tiến độ Arc:** Kết thúc nhánh truyện giải cứu, chuẩn bị cho cuộc chiến tranh giành Long Cốt.
+
+## [2024-07-01] Chương 17: Mưu Đồ Bóng Tối
+- **Nội dung:** Nhóm nhân vật trở về Trạm Dừng Chân Số 7. Hứa Nhược Thủy bị ám sát bằng độc dược "Phệ Linh Tán" bởi cao thủ Vạn Độc Môn. Trạm dừng chân bị phong tỏa.
+- **Nhân vật:** Hứa Nhược Thủy (bị thương), Hứa Thanh Vân, Diệp Tĩnh Sương, Sát thủ Vạn Độc Môn.
+- **Địa điểm:** Trạm Dừng Chân Số 7.
+- **Tiến độ Arc:** Mở đầu cho cuộc chiến trực diện với Vạn Độc Môn tại Tây Mạc.
+
+## [2024-07-02] Chương 18: Huyết Chiến Trạm Dừng Chân
+- **Nội dung:** Cuộc chiến sinh tử trong mật thất giữa nhóm nhân vật chính và sát thủ Kim Đan Kỳ. Hứa Nhược Thủy trúng "Huyết Thần Độc" biến thể. Nhóm kích hoạt cơ quan mật đạo để trốn thoát.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Hứa Nhược Thủy.
+- **Địa điểm:** Mật thất Trạm Dừng Chân Số 7 -> Mật đạo ngầm.
+- **Tiến độ Arc:** Cao trào chiến đấu, chuyển sang giai đoạn chạy đua thời gian.
+
+## [2024-07-04] Chương 19: Hành Trình Về Phía Đông
+- **Nội dung:** Nhóm thoát khỏi mật đạo ra sa mạc đêm. Quyết định đưa Hứa Nhược Thủy đến Dược Vương Cốc (Trung Thổ) để giải độc. Khởi đầu hành trình mới đầy gian nan.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân (trưởng thành hơn), Hứa Nhược Thủy (hôn mê).
+- **Địa điểm:** Sa mạc đêm (gần Trạm Dừng Chân Số 7).
+- **Thơ ca:** Sa Mạc Độc Hành.
+- **Tiến độ Arc:** Mở ra hành trình xuyên lục địa (Tây Mạc -> Trung Thổ).
