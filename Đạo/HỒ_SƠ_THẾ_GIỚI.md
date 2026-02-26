@@ -189,6 +189,7 @@
     - *Sa Sương:* Tinh thể băng kết tinh vào đêm sa mạc, dùng để chế thuốc giải hỏa độc. Xem tại `Đạo/Kỳ_Vật/Sa_Sương.md`.
     - *Sa Hồn (Sand Wraith):* Oán linh tại Lưu Sa Phế Tích, có khả năng tạo ảo giác và nhập vào cát. Xem tại `Đạo/Kỳ_Vật/Sa_Hồn.md`.
     - *Long Cốt:* Di cốt rồng thần hệ Thổ, chìa khóa nắm giữ long mạch Tây Mạc. Xem tại `Đạo/Kỳ_Vật/Long_Cốt.md`.
+    - *Nhện Mặt Quỷ:* Nhện độc khổng lồ, lưng có hình mặt quỷ, giăng tơ vô hình và tạo ảo giác. Xem tại `Đạo/Kỳ_Vật/Nhện_Mặt_Quỷ.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -241,6 +242,7 @@
     - [Chương 20: Ranh Giới Sinh Tử](Chương_Truyện/Góc_Nhìn_Chính/Chương_00020_Ranh_Giới_Sinh_Tử.md)
     - [Chương 21: Độc Khí Công Tâm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00021_Độc_Khí_Công_Tâm.md)
     - [Chương 22: Huyết Đằng Vây Hãm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00022_Huyết_Đằng_Vây_Hãm.md)
+    - [Chương 23: Hang Động Nhện Quỷ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00023_Hang_Động_Nhện_Quỷ.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -252,6 +254,8 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 23 - Hang Động Nhện Quỷ.
+- Tạo Kỳ vật: Nhện Mặt Quỷ (Quái vật Chương 23).
 - Viết Chương Truyện: Chương 22 - Huyết Đằng Vây Hãm.
 - Khôi phục Chương 21: Độc Khí Công Tâm (Bị thiếu file).
 - Viết lại Chương 15-20: Chuẩn hóa định dạng văn xuôi (Xóa bỏ cấu trúc đề cương).
