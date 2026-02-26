@@ -216,6 +216,7 @@
     - *Huyết Nhện Chúa:* Yêu thú biến dị cấp Trúc Cơ Trung Kỳ, thủ lĩnh của Nhện Mặt Quỷ. Xem tại `Đạo/Kỳ_Vật/Huyết_Nhện_Chúa.md`.
     - *Huyết Linh Chi:* Linh thảo hệ Huyết mọc trên rễ Huyết Mộc cổ thụ, có khả năng hồi phục khí huyết và giải độc. Xem tại `Đạo/Kỳ_Vật/Huyết_Linh_Chi.md`.
     - *Huyết Vệ:* Tu sĩ bị Vạn Độc Môn cải tạo thành cỗ máy giết chóc, vô cảm và có sức mạnh thể chất kinh hồn. Xem tại `Đạo/Kỳ_Vật/Huyết_Vệ.md`.
+    - *Huyết Nha:* Quạ biến dị nhiễm Huyết Thần Độc, đóng vai trò trinh sát của Vạn Độc Môn. Xem tại `Đạo/Kỳ_Vật/Huyết_Nha.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -297,6 +298,7 @@
     - [Chương 48: Tiếng Sáo Vượt Rừng](Chương_Truyện/Góc_Nhìn_Chính/Chương_00048_Tiếng_Sáo_Vượt_Rừng.md)
     - [Chương 49: Bí Mật Mộc Linh Trận](Chương_Truyện/Góc_Nhìn_Chính/Chương_00049_Bí_Mật_Mộc_Linh_Trận.md)
     - [Chương 50: Cuộc Chiến Thủ Thành](Chương_Truyện/Góc_Nhìn_Chính/Chương_00050_Cuộc_Chiến_Thủ_Thành.md)
+    - [Chương 51: Đột Kích Mắt Trận (Phần 1)](Chương_Truyện/Góc_Nhìn_Chính/Chương_00051_Đột_Kích_Mắt_Trận_1.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -308,6 +310,9 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 51 - Đột Kích Mắt Trận (Phần 1).
+- Tạo Kỳ vật: Huyết Nha (Blood Crows).
+- Viết Chương Truyện: Chương 50 - Cuộc Chiến Thủ Thành.
 - Viết Chương Truyện: Chương 49 - Bí Mật Mộc Linh Trận.
 - Viết Chương Truyện: Chương 48 - Tiếng Sáo Vượt Rừng.
 - Tạo Địa danh: Mộc Linh Trận Địa.
