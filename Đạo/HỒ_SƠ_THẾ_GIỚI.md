@@ -300,6 +300,7 @@
     - [Chương 50: Cuộc Chiến Thủ Thành](Chương_Truyện/Góc_Nhìn_Chính/Chương_00050_Cuộc_Chiến_Thủ_Thành.md)
     - [Chương 51: Đột Kích Mắt Trận (Phần 1)](Chương_Truyện/Góc_Nhìn_Chính/Chương_00051_Đột_Kích_Mắt_Trận_1.md)
     - [Chương 52: Đột Kích Mắt Trận (Phần 2)](Chương_Truyện/Góc_Nhìn_Chính/Chương_00052_Đột_Kích_Mắt_Trận_2.md)
+    - [Chương 53: Vòng Vây Siết Chặt](Chương_Truyện/Góc_Nhìn_Chính/Chương_00053_Vòng_Vây_Siết_Chặt.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -311,6 +312,7 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 53 - Vòng Vây Siết Chặt.
 - Viết Chương Truyện: Chương 52 - Đột Kích Mắt Trận (Phần 2).
 - Viết Chương Truyện: Chương 51 - Đột Kích Mắt Trận (Phần 1).
 - Tạo Kỳ vật: Huyết Nha (Blood Crows).
