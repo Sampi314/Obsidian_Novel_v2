@@ -235,6 +235,7 @@
     - [Chương 15: Bí Mật Hoàng Sa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00015_Bí_Mật_Hoàng_Sa.md)
     - [Chương 16: Trở Về Cát Bụi](Chương_Truyện/Góc_Nhìn_Chính/Chương_00016_Trở_Về_Cát_Bụi.md)
     - [Chương 17: Mưu Đồ Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00017_Mưu_Đồ_Bóng_Tối.md)
+    - [Chương 18: Huyết Chiến Trạm Dừng Chân](Chương_Truyện/Góc_Nhìn_Chính/Chương_00018_Huyết_Chiến_Trạm_Dừng_Chân.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -242,6 +243,7 @@
         - [Chương 4: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00004_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 18 - Huyết Chiến Trạm Dừng Chân.
 - Viết Chương Truyện: Chương 17 - Mưu Đồ Bóng Tối.
 - Tạo Địa danh: Trạm Dừng Chân Số 7.
 - Viết Chương Truyện: Chương 16 - Trở Về Cát Bụi.
