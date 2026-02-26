@@ -8,9 +8,9 @@
 *   **Nhân Vật Chính:** Diệp Tĩnh Sương, Lâm Phong.
 *   **Nhân Vật Phụ:** Hứa Nhược Thủy, Hứa Thanh Vân.
 *   **Mục Tiêu:**
-    - Khám phá bí mật Hoàng Sa Địa Cung.
-    - Tìm thuốc chữa độc cho Hứa Nhược Thủy (Sa Sương).
-    - Đối đầu với các thế lực tại Tây Mạc (Sa Tặc, Vạn Độc Môn).
+    - Khám phá bí mật Hoàng Sa Địa Cung (Khu vực Thâm Cung).
+    - Tìm thuốc chữa độc cho Hứa Nhược Thủy (Sa Sương hoặc Long Cốt chi lực).
+    - Tìm lối ra khỏi Thâm Cung và đối đầu với các thế lực tại Tây Mạc.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Tiền Truyện).
@@ -56,7 +56,7 @@
 | **Lâm Phong** | Chính | Hoạt động | Đang ở Tây Mạc. |
 | **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đang ở Tây Mạc. Có tuyến truyện nội tâm riêng. |
 | **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoạt động | Đang ở giai đoạn Tiền Truyện (Quá khứ). |
-| **Hứa Nhược Thủy** | Phụ (NPC) | Bị thương | Đang đi cùng nhóm chính. |
+| **Hứa Nhược Thủy** | Phụ (NPC) | Nguy kịch | Đang đi cùng nhóm chính, trúng Huyết Thần Độc. |
 | **Hứa Thanh Vân** | Phụ (NPC) | Hoạt động | Đã được giải cứu. |
 
 ---

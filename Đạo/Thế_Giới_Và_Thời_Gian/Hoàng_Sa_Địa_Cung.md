@@ -30,6 +30,11 @@
 4.  **Kho Tàng Bí Mật (Hidden Treasury):**
     - Nơi cất giấu tài sản của Hoàng Sa Quốc. Tuy nhiên, phần lớn đã bị thời gian và trộm mộ phá hủy.
     - Nơi được cho là cất giữ mảnh bản đồ dẫn đến nơi phong ấn Long Cốt thực sự.
+5.  **Khu Vực Thâm Cung (The Deep Palace):**
+    - Là tầng sâu nhất của Địa Cung, nằm dưới lòng đất, được bao bọc bởi một hồ nước ngầm khổng lồ gọi là **Hồ Nguyệt Ảnh**.
+    - Nơi đây có hệ sinh thái riêng biệt nhờ nguồn nước và linh khí Thổ-Thủy giao thoa.
+    - Chứa các công trình quan trọng nhất như: *Ngự Hoa Viên Hoàng Gia* (nơi trồng linh dược), *Tẩm Cung Hoàng Đế*, và lối vào *Long Huyệt* thực sự.
+    - Kết nối với Rừng Huyết Độc qua một mạch nước ngầm bí ẩn.
 
 ## IV. HỆ THỐNG CẠM BẪY & QUÁI VẬT
 - **Cạm Bẫy:**
@@ -40,6 +45,7 @@
     - *Sa Hồn (Sand Wraith):* Oán linh nhập vào cát, miễn nhiễm với tấn công vật lý thông thường, sợ nước và lửa.
     - *Hoàng Sa Thủ Vệ (Sand Golem):* Tượng đá/cát khổng lồ, sức mạnh cơ bắp kinh hồn, lõi là "Viêm Sa Tinh".
     - *Sa Hồn Vương (Boss):* Oán linh của Đại Tướng quân Hoàng Sa Quốc, trấn giữ Quảng Trường Hiến Tế.
+    - *Thủy Quái Biến Dị:* Các sinh vật sống dưới Hồ Nguyệt Ảnh, bị biến đổi do ảnh hưởng của linh khí và độc tố trôi dạt từ Rừng Huyết Độc.
 
 ## V. LỊCH SỬ & BÍ MẬT
 - **Lịch Sử:**

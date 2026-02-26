@@ -246,6 +246,7 @@
     - [Chương 23: Hang Động Nhện Quỷ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00023_Hang_Động_Nhện_Quỷ.md)
     - [Chương 24: Huyết Thi Trỗi Dậy](Chương_Truyện/Góc_Nhìn_Chính/Chương_00024_Huyết_Thi_Trỗi_Dậy.md)
     - [Chương 25: Mạch Ngầm Bí Ẩn](Chương_Truyện/Góc_Nhìn_Chính/Chương_00025_Mạch_Ngầm_Bí_Ẩn.md)
+    - [Chương 26: Hoàng Sa Thâm Cung](Chương_Truyện/Góc_Nhìn_Chính/Chương_00026_Hoàng_Sa_Thâm_Cung.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -257,6 +258,8 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 26 - Hoàng Sa Thâm Cung.
+- Cập nhật Địa danh: Hoàng Sa Địa Cung (Thêm Khu Vực Thâm Cung & Hồ Nguyệt Ảnh).
 - Viết Chương Truyện: Chương 25 - Mạch Ngầm Bí Ẩn.
 - Tạo Địa danh: Hang Động Nhện Quỷ (Quỷ Chu Động).
 - Viết Chương Truyện: Chương 24 - Huyết Thi Trỗi Dậy.
