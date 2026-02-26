@@ -14,7 +14,8 @@
     - Dùng Thủy Linh Châu và Long Cốt để chữa trị/trấn áp độc tố (Đã hoàn thành).
     - **Sự Kiện Mới:** Phong ấn Long Cốt bị vỡ, Địa Sát thức tỉnh.
     - **Nhiệm Vụ:** Thoát khỏi Hoàng Sa Địa Cung đang sụp đổ và trở lại mặt đất (Đã hoàn thành chương 30).
-    - **Tiếp theo:** Đối mặt với hậu quả của việc vỡ phong ấn (Hắc Sa Bão) và tìm đường đến Rừng Huyết Độc.
+    - **Sự Kiện Mới:** Hắc Sa Bão trỗi dậy do dư chấn Địa Sát.
+    - **Nhiệm Vụ Hiện Tại:** Thoát khỏi cơn bão và chạy trốn về phía Rừng Huyết Độc (Đang diễn ra - Chương 31).
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Hoàn Thành (Tiền Truyện).
