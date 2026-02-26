@@ -248,6 +248,7 @@
         - [Chương 5: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00005_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết lại Chương 15-20: Chuẩn hóa định dạng văn xuôi (Xóa bỏ cấu trúc đề cương).
 - Viết Chương Truyện: Chương 21 - Độc Khí Công Tâm.
 - Viết Chương Truyện: Chương 20 - Ranh Giới Sinh Tử.
 - Hoàn thiện hồ sơ: Băng Tâm Quyết (Cấu trúc Hán - Việt - Dịch).
