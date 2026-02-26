@@ -93,3 +93,4 @@
 | 2026-03-11 | Tổng Quản | Viết Chương 45: Huyết Trận Khởi Động | Hoàn Thành | Tiếp nối mạch truyện, mô tả cuộc tấn công của Huyết Vệ và sự biến đổi của Rừng Huyết Độc. |
 | 2026-03-11 | Tổng Quản | Tạo Kỳ vật: Huyết Vệ | Hoàn Thành | Khôi lỗi sinh học của Vạn Độc Môn. |
 | 2026-03-11 | Tổng Quản | Tạo Trận pháp: Vạn Độc Huyết Tế Đại Trận | Hoàn Thành | Cấm trận bao trùm Rừng Huyết Độc. |
+| 2026-03-12 | Tổng Quản | Viết Chương 46: Vòng Vây Sinh Tử | Hoàn Thành | Tiếp nối mạch truyện, mô tả cuộc chiến sinh tử trong Vạn Độc Huyết Tế Đại Trận. |
