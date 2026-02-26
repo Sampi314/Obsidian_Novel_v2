@@ -33,9 +33,10 @@
     - **Sự Kiện Mới:** Thoát khỏi Hang Động Nhện Quỷ, trở lại mặt đất Rừng Huyết Độc (Vùng Đất Chết).
     - **Nhiệm Vụ Hiện Tại:** Tìm nơi ẩn náu và chữa trị cho Hứa Nhược Thủy bằng Huyết Linh Chi (Hoàn thành - Chương 43).
     - **Sự Kiện Mới:** Tìm thấy Huyết Linh Chi, tạm thời thoát khỏi sự truy sát của bầy nhện.
-    - **Sự Kiện Mới:** Chữa trị thành công cho Hứa Nhược Thủy tại Vùng Đất Chết (Chương 44).
-    - **Nhiệm Vụ Hiện Tại:** Sinh tồn qua đêm tối tại Vùng Đất Chết trước sự tấn công của Vong Linh.
-    - **Nhiệm Vụ Tiếp Theo:** Tìm đường thoát khỏi Rừng Huyết Độc để về Nam Cương.
+    - **Sự Kiện Mới:** Chữa trị thành công cho Hứa Nhược Thủy tại Vùng Đất Chết (Chương 44 - Ánh Sáng Và Bóng Tối).
+    - **Sự Kiện Mới:** Vạn Độc Huyết Tế Đại Trận kích hoạt, nhóm nhân vật chính rơi vào vòng vây.
+    - **Nhiệm Vụ Hiện Tại:** Phá vòng vây và tìm đường thoát khỏi đại trận đang co lại (Chương 45, 46).
+    - **Nhiệm Vụ Tiếp Theo:** Tìm và phá hủy các Mắt Trận để làm suy yếu kết giới.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
@@ -49,7 +50,7 @@
     - Truy vết nhóm nhân vật chính vào Tây Mạc (Chương 6).
     - Đối mặt với sự sụp đổ của Long Cốt và Hắc Sa Bão (Chương 7).
     - **Mới:** Truy đuổi nhóm nhân vật chính xuyên qua bão cát để đến Rừng Thiên Trụ (Chương 8).
-    - **Tiếp theo:** Đụng độ tại Pháo Đài Xanh.
+    - **Tiếp theo:** Đụng độ tại Pháo Đài Xanh và rút lui về Nam Cương để bày binh bố trận (Chương 9).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
@@ -59,8 +60,9 @@
     - Quá khứ tu luyện cùng sư phụ Cổ Kiếm Mạc.
     - Gặp gỡ và đồng hành cùng Lâm Phong (Chương 2).
     - Bảo vệ Hứa Nhược Thủy trong Rừng Huyết Độc (Chương 3).
-    - **Mới:** Chiến đấu dưới Hồ Nguyệt Ảnh - Hoàng Sa Địa Cung (Chương 4).
-    - **Tiếp theo:** Đối mặt với sự sụp đổ của Địa Cung và bảo vệ nhóm thoát ra ngoài.
+    - Chiến đấu dưới Hồ Nguyệt Ảnh - Hoàng Sa Địa Cung (Chương 4).
+    - **Mới:** Thoát khỏi Địa Cung sụp đổ và Lục Ly hy sinh (Chương 5).
+    - **Tiếp theo:** Hành trình sinh tồn trong Hắc Sa Bão.
 
 ---
 
@@ -84,8 +86,8 @@
 | Nhân Vật | Góc Nhìn | Trạng Thái | Ghi Chú |
 | :--- | :--- | :--- | :--- |
 | **Lâm Phong** | Chính | Hoạt động | Đang sinh tồn trong Vùng Đất Chết, đối mặt với Vong Linh. |
-| **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đã hoàn thành 4 chương (POV). Đang dẫn đầu nhóm tiến vào Vùng Đất Chết. |
-| **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoạt động | Đã hoàn thành 8 chương. Đang truy đuổi trong Hắc Sa Bão. |
+| **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đã hoàn thành 5 chương (POV). Đang dẫn đầu nhóm tiến vào Vùng Đất Chết. |
+| **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoạt động | Đã hoàn thành 9 chương. Rút về Nam Cương chuẩn bị trận địa. |
 | **Hứa Nhược Thủy** | Phụ (NPC) | Ổn định (Tạm thời) | Đã được chữa trị, nhưng Long Cốt phong ấn đã vỡ. |
 | **Hứa Thanh Vân** | Phụ (NPC) | Hoạt động | Đã thoát khỏi Địa Cung. |
 | **Lục Ly** | Phụ (NPC) | Hy Sinh / Phong Ấn | Đã dùng linh hồn để tạm thời trấn áp Địa Sát. |

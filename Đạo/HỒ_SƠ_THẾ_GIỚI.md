@@ -313,12 +313,19 @@
         - [Chương 3: Mệnh Lệnh Bóng Tối](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00003_Mệnh_Lệnh_Bóng_Tối.md) (Dẫn nhập Huyết Độc Chi Họa)
         - [Chương 4: Thí Nghiệm Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00004_Thí_Nghiệm_Máu.md) (Song song Chương 3 chính)
         - [Chương 5: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00005_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
+        - [Chương 2.5: Diệt Môn Chi Họa](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00002_5_Diệt_Môn_Chi_Họa.md) (Quá khứ 8 năm trước)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm):**
+        - [Chương 0: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00000_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
+    - **Lâm Phong (Truy Phong Khách):**
+        - [Chương 1: Cơ Duyên Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00001_Cơ_Duyên_Rừng_Thẳm.md) (Quá khứ 6 năm trước)
 
 ## XII. CẬP NHẬT GẦN NHẤT
 - Viết Chương Truyện: Chương 55 - Huyết Mạch Thượng Cổ.
 - Cập nhật Địa danh: Huyết Vụ Lâm (Thêm Huyết Mạch Thượng Cổ).
+- Viết Chương Truyện: Chương 2.5 Lệ Vô Tâm (Diệt Môn Chi Họa).
+- Viết Chương Truyện: Chương 0 Diệp Tĩnh Sương (Tuyết Phủ Mộ Phần).
+- Viết Chương Truyện: Chương 1 Lâm Phong (Cơ Duyên Rừng Thẳm).
 - Viết Chương Truyện: Chương 44 - Hồi Sinh Trong Tử Địa.
 - Viết Chương Truyện: Chương 54 - Bóng Ma Trong Sương.
 - Tạo Địa danh: Huyết Vụ Lâm.
