@@ -8,22 +8,27 @@
 *   **Nhân Vật Chính:** Diệp Tĩnh Sương, Lâm Phong.
 *   **Nhân Vật Phụ:** Hứa Nhược Thủy, Hứa Thanh Vân.
 *   **Mục Tiêu:**
-    - Khám phá bí mật Hoàng Sa Địa Cung (Khu vực Thâm Cung).
-    - Tìm thuốc chữa độc cho Hứa Nhược Thủy (Sa Sương hoặc Long Cốt chi lực).
-    - [HOÀN THÀNH] Vượt qua thử thách của Hộ Pháp Tinh Linh Lục Ly.
-    - Thanh tẩy Long Cốt và sử dụng sức mạnh rồng để giải độc (Đang thực hiện).
-    - Tìm lối ra khỏi Thâm Cung và đối đầu với các thế lực tại Tây Mạc.
+    - Khám phá bí mật Hoàng Sa Địa Cung (Khu vực Thâm Cung) (Đã hoàn thành).
+    - Tìm thuốc chữa độc cho Hứa Nhược Thủy (Sa Sương hoặc Long Cốt chi lực) (Đã hoàn thành).
+    - Vượt qua thử thách của Hộ Pháp Tinh Linh Lục Ly để tiếp cận Long Cốt (Đã hoàn thành).
+    - Dùng Thủy Linh Châu và Long Cốt để chữa trị/trấn áp độc tố (Đã hoàn thành).
+    - **Sự Kiện Mới:** Phong ấn Long Cốt bị vỡ, Địa Sát thức tỉnh.
+    - **Nhiệm Vụ:** Thoát khỏi Hoàng Sa Địa Cung đang sụp đổ và trở lại mặt đất (Đã hoàn thành chương 30).
+    - **Sự Kiện Mới:** Hắc Sa Bão trỗi dậy do dư chấn Địa Sát.
+    - **Nhiệm Vụ Hiện Tại:** Sinh tồn trong Rừng Xương Rồng Thiên Trụ, khám phá bí mật của "Pháo Đài Xanh" (Đang diễn ra - Chương 33).
+    - **Tiếp Theo:** Tìm đường về Nam Cương và đối mặt với hệ quả của việc Long Cốt bị phá hủy.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
-*   **Trạng Thái:** Đang diễn ra (Tiền Truyện).
-*   **Tên Arc:** Đường Đến Thánh Vị (The Path to Sainthood).
+*   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
+*   **Tên Arc:** Mạng Lưới Vô Hình (Invisible Web).
 *   **Nhân Vật Chính:** Lệ Vô Tâm (Hữu Tâm).
-*   **Nhân Vật Phụ:** Các đệ tử Vạn Độc Môn khác, Các trưởng lão, Vật thí nghiệm.
+*   **Nhân Vật Phụ:** Huyết Vệ, Thiên Tinh Cổ.
 *   **Mục Tiêu:**
-    - Sống sót qua Huyết Trì.
-    - Tiêu diệt các đối thủ cạnh tranh.
-    - Trở thành Vạn Độc Thánh Tử duy nhất.
-    - **Yêu Cầu:** Hoàn thành 3-5 chương tiền truyện trước khi hợp lưu với cốt truyện chính.
+    - Sống sót qua Huyết Trì (Hoàn thành).
+    - Tiêu diệt các đối thủ cạnh tranh (Hoàn thành).
+    - Trở thành Vạn Độc Thánh Tử duy nhất (Hoàn thành).
+    - **Mới:** Truy vết nhóm nhân vật chính vào Tây Mạc (Chương 6).
+    - **Tiếp theo:** Giăng bẫy tại biên giới Rừng Huyết Độc chờ đợi mục tiêu trở về.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
@@ -32,6 +37,7 @@
 *   **Mục Tiêu:**
     - Quá khứ tu luyện cùng sư phụ Cổ Kiếm Mạc.
     - Những nhiệm vụ đơn độc tách rời khỏi Lâm Phong.
+    - Gặp gỡ và đồng hành cùng Lâm Phong (Chương 2).
     - Nội tâm dằng xé giữa tình cảm và kiếm đạo.
 
 ---
@@ -55,11 +61,12 @@
 
 | Nhân Vật | Góc Nhìn | Trạng Thái | Ghi Chú |
 | :--- | :--- | :--- | :--- |
-| **Lâm Phong** | Chính | Hoạt động | Đang ở Tây Mạc. |
-| **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đang ở Tây Mạc. Có tuyến truyện nội tâm riêng. |
-| **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoạt động | Đang ở giai đoạn Tiền Truyện (Quá khứ). |
-| **Hứa Nhược Thủy** | Phụ (NPC) | Nguy kịch | Đang đi cùng nhóm chính, trúng Huyết Thần Độc. |
-| **Hứa Thanh Vân** | Phụ (NPC) | Hoạt động | Đã được giải cứu. |
+| **Lâm Phong** | Chính | Hoạt động | Đang ở Tây Mạc (Bề mặt). |
+| **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đang ở Tây Mạc (Bề mặt). |
+| **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoạt động | Đã hoàn thành 6 chương. Đang truy đuổi nhóm nhân vật chính. |
+| **Hứa Nhược Thủy** | Phụ (NPC) | Ổn định (Tạm thời) | Đã được chữa trị, nhưng Long Cốt phong ấn đã vỡ. |
+| **Hứa Thanh Vân** | Phụ (NPC) | Hoạt động | Đã thoát khỏi Địa Cung. |
+| **Lục Ly** | Phụ (NPC) | Hy Sinh / Phong Ấn | Đã dùng linh hồn để tạm thời trấn áp Địa Sát. |
 
 ---
 

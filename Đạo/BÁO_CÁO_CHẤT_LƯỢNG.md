@@ -74,3 +74,6 @@
 | 2026-03-02 | Tổng Quản | Viết Chương 27: Bí Mật Dưới Đáy Hồ | Hoàn Thành | Tiếp nối mạch truyện tại Hoàng Sa Thâm Cung, khám phá bí mật lịch sử. |
 | 2026-03-02 | Tổng Quản | Tạo Nhân Vật & Kỳ Vật | Hoàn Thành | Tạo Lục Ly, Thủy Linh Châu (Mảnh Vỡ), Thủy Thi. |
 | 2026-03-02 | Tổng Quản | Viết Chương 28: Thử Thách Của Lục Ly | Hoàn Thành | Tiếp nối mạch truyện, nhân vật chính vượt qua thử thách tâm ma. |
+| 2026-03-02 | Tổng Quản | Viết Chương 28: Thử Thách Của Lục Ly | Hoàn Thành | Tiếp nối mạch truyện tại Thâm Cung, tạo nhân vật Lục Ly và Kỳ vật Thủy Linh Châu. |
+| 2026-03-03 | Tổng Quản | Viết Chương 31: Hắc Sa Bão Trỗi Dậy | Hoàn Thành | Tiếp nối mạch truyện, mô tả hậu quả vỡ phong ấn và sự xuất hiện của Hắc Sa Bão. |
+| 2026-03-04 | Tổng Quản | Viết Chương 32: Sa Hồn Truy Kích | Hoàn Thành | Tiếp nối mạch truyện, mô tả cuộc trốn chạy khỏi Hắc Sa Bão và tìm nơi trú ẩn. |

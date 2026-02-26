@@ -1,6 +1,7 @@
 ---
 title: "Chương 28: Thử Thách Của Lục Ly"
 description: "Đối mặt với Hộ Pháp Tinh Linh Lục Ly và vượt qua ảo ảnh tâm ma để tiếp cận Long Cốt."
+description: "Đối đầu với Hộ Pháp Tinh Linh Lục Ly và vượt qua ảo cảnh tâm ma để tiếp cận Long Cốt."
 position: 28
 created_at: 2026-03-02
 authors:
@@ -20,6 +21,15 @@ artifacts:
   - Ngọc Tiêu
   - Hàn Ngọc Kiếm
   - Truy Phong Cung
+  - Hồ Nguyệt Ảnh
+  - Cầu Đá
+artifacts:
+  - Hàn Ngọc Kiếm
+  - Truy Phong Cung
+  - Thủy Linh Châu
+  - Ngọc Tiêu
+monsters:
+  - Rồng Nước (Triệu hồi)
 ---
 
 # Chương 28: Thử Thách Của Lục Ly
