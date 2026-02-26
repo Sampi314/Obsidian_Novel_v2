@@ -24,7 +24,27 @@ Nàng nhớ lại ánh mắt lo lắng của Tông Chủ. Người đã phái n�
 
 "Hơi ấm sao?"
 
-Diệp Tĩnh Sương cười nhạt. Với nàng, hơi ấm là thứ xa xỉ. Kể từ ngày gia đình bị sát hại, trái tim nàng đã sớm bị chôn vùi dưới lớp băng tuyết vĩnh cửu. Nàng tu kiếm không phải để tìm kiếm đại đạo, mà để có sức mạnh bảo vệ những gì còn sót lại, và trừng phạt cái ác.
+Diệp Tĩnh Sương cười nhạt, một nụ cười chua chát thoáng qua trên môi.
+
+Với nàng, hơi ấm là thứ xa xỉ đã chết cùng quá khứ. Kể từ ngày gia đình bị sát hại, trái tim nàng đã sớm bị chôn vùi dưới lớp băng tuyết vĩnh cửu.
+
+*Sư phụ... người có thấy không?*
+
+Trong tâm trí nàng bỗng hiện lên hình ảnh người thầy quá cố. Những bông tuyết đầu mùa bắt đầu rơi lả tả, đậu trắng xóa trên vai áo nàng, lạnh buốt như chính tâm can lúc này. Nàng nhớ sư phụ từng dạy: *"Kiếm của người tu đạo, sắc bén ở lưỡi, nhưng phải ấm áp ở chuôi. Nếu lòng người cầm kiếm cũng lạnh như sắt thép, thì đó chỉ là công cụ giết chóc, không phải là Đạo."*
+
+Nàng đã luôn khắc cốt ghi tâm lời dạy ấy. Nhưng làm sao nàng có thể giữ cho lòng mình ấm áp khi mà mỗi đêm nhắm mắt lại, hình ảnh cha mẹ nằm trên vũng máu, hình ảnh cả thôn làng chìm trong biển lửa vẫn cứ hiện về như một cơn ác mộng không hồi kết?
+
+Huyết Sát Minh... Vạn Độc Môn... những cái tên ấy như những mũi dao găm vào tim nàng mỗi ngày. Chúng cướp đi gia đình nàng, cướp đi tuổi thơ, và cướp đi cả nụ cười của người con gái tên Tĩnh Sương ngày nào.
+
+Người đời nói nàng có tư chất ngàn năm có một, sinh ra là để làm bạn với kiếm. Nàng đã luyện *Hàn Sương Kiếm Quyết* đến tầng thứ bảy, có thể đóng băng cả một dòng sông đang chảy xiết. Nhưng nàng lại bất lực, không thể đóng băng được ngọn lửa hận thù đang thiêu đốt tâm can mình.
+
+Mỗi lần rút kiếm, nàng thấy mình như đang múa trên lưỡi dao. Một bên là Đạo, là sự từ bi, là bảo vệ kẻ yếu mà Cửu Hoa Kiếm Tông tôn thờ. Một bên là Ma, là sự tàn nhẫn, là khát vọng trả thù đến cùng cực.
+
+*Con sợ... con sợ một ngày nào đó, con sẽ lạc lối. Con sợ thanh Hàn Mai Kiếm này sẽ không còn là kiếm của chính nghĩa, mà trở thành kiếm của ma đạo.*
+
+Tông Chủ bảo nàng đi tìm "hơi ấm nhân gian". Nhưng nhân gian này liệu có còn hơi ấm nào dành cho nàng không? Hay chỉ toàn là lừa lọc, phản bội và máu tanh?
+
+Nàng tu kiếm không phải để tìm kiếm đại đạo, mà để có sức mạnh bảo vệ những gì còn sót lại, và trừng phạt cái ác. Nếu nàng không thể trở về sau nhiệm vụ này, nàng chỉ mong sư phụ tha thứ cho đứa đệ tử bất hiếu. Nàng không sợ chết. Nàng chỉ sợ chết đi mà chưa trả được thù, chưa diệt sạch lũ tà ma ngoại đạo kia.
 
 Càng đi sâu về phía Nam, cảnh vật càng trở nên hoang vu. Những cánh rừng lá kim thưa thớt dần, nhường chỗ cho những dãy núi đá vôi lởm chởm. Mùi thảo mộc đặc trưng của Dược Vương Cốc thoang thoảng trong gió, nhưng hôm nay, nó có gì đó khác lạ.
 
@@ -49,6 +69,8 @@ Nàng nheo mắt nhìn xuống. Thôn Lạc Diệp nằm im lìm trong sương s
 "Quá yên tĩnh," nàng tự nói với chính mình.
 
 Bàn tay nàng siết chặt chuôi kiếm. Nhiệm vụ đơn độc này, e rằng sẽ không đơn giản như nàng nghĩ. Và lời dạy của Tông Chủ về "hơi ấm nhân gian", có lẽ phải gác lại sau. Trước mắt nàng bây giờ, chỉ có lạnh lẽo và máu tanh.
+
+Gió lạnh quá. Nhưng nàng không thấy lạnh. Vì tim nàng... đã đóng băng từ lâu rồi.
 
 Diệp Tĩnh Sương hít sâu một hơi, để luồng chân khí lạnh lẽo lưu chuyển khắp kinh mạch, sẵn sàng cho một cuộc tàn sát.
 
