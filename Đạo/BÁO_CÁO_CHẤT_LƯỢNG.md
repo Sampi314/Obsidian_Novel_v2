@@ -103,3 +103,4 @@
 | 2026-03-16 | Tổng Quản | Viết Chương 52: Đột Kích Mắt Trận (Phần 2) | Hoàn Thành | Mô tả trận chiến phá hủy Mắt Trận Phụ. |
 | 2026-03-17 | Tổng Quản | Viết Chương 53: Vòng Vây Siết Chặt | Hoàn Thành | Nhóm nhân vật thoát vây và tiến vào Huyết Vụ Lâm. |
 | 2026-03-18 | Tổng Quản | Viết Chương 54: Bóng Ma Trong Sương | Hoàn Thành | Khai thác ảo giác trong Huyết Vụ Lâm, giới thiệu kẻ địch Vạn Độc Thất Sát. |
+| 2026-03-19 | Tổng Quản | Viết Chương 55: Huyết Mạch Thượng Cổ | Hoàn Thành | Khám phá Huyết Mạch bên dưới Huyết Vụ Lâm, tìm lối đi bí mật. |
