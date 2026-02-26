@@ -257,6 +257,7 @@
     - [Chương 29: Bí Mật Long Cốt](Chương_Truyện/Góc_Nhìn_Chính/Chương_00029_Bí_Mật_Long_Cốt.md)
     - [Chương 30: Đại Nạn Long Mạch](Chương_Truyện/Góc_Nhìn_Chính/Chương_00030_Đại_Nạn_Long_Mạch.md)
     - [Chương 31: Hắc Sa Bão Trỗi Dậy](Chương_Truyện/Góc_Nhìn_Chính/Chương_00031_Hắc_Sa_Bão_Trỗi_Dậy.md)
+    - [Chương 32: Sa Hồn Truy Kích](Chương_Truyện/Góc_Nhìn_Chính/Chương_00032_Sa_Hồn_Truy_Kích.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -268,6 +269,7 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 32 - Sa Hồn Truy Kích.
 - Viết Chương Truyện: Chương 31 - Hắc Sa Bão Trỗi Dậy.
 - Viết Chương Truyện: Chương 30 - Đại Nạn Long Mạch.
 - Sáng tác Thơ: Long Cốt Bi Ca.
