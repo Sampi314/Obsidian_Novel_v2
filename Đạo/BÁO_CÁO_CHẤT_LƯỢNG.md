@@ -57,3 +57,4 @@
 | 2024-07-05 | Tổng Quản | Hoàn thiện Băng Tâm Quyết & Thơ ca | Hoàn Thành | Cập nhật cấu trúc Hán-Việt-Dịch cho Băng Tâm Quyết và thêm bản tiếng Trung cho Ốc Đảo Dạ Khúc theo chỉ dẫn người dùng. |
 | 2024-07-06 | Tổng Quản | Viết Chương 20 & Sáng tác Thơ | Hoàn Thành | Mô tả hành trình vượt biên giới Tây Mạc - Nam Cương. |
 | 2024-07-07 | Tổng Quản | Viết Chương 21 (Góc Nhìn Diệp Tĩnh Sương) | Hoàn Thành | Mô tả nội tâm Diệp Tĩnh Sương khi hy sinh tu vi cứu Hứa Nhược Thủy tại Rừng Huyết Độc. |
+| 2024-07-08 | Tổng Quản | Tạo Góc Nhìn Diệp Tĩnh Sương | Hoàn Thành | Tạo folder mới và viết Chương 1: Nhiệm Vụ Đơn Độc (Song song Chương 1 Chính). |
