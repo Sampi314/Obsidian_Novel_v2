@@ -98,3 +98,4 @@
 | 2026-03-13 | Tổng Quản | Viết Chương 48 & Tạo Mộc Linh Trận Địa | Hoàn Thành | Viết Chương 48 (Tiếng Sáo Vượt Rừng) và tạo địa danh Mộc Linh Trận Địa. |
 | 2026-03-13 | Tổng Quản | Viết Chương 49: Bí Mật Mộc Linh Trận | Hoàn Thành | Viết Chương 49 (Bí Mật Mộc Linh Trận), tiết lộ cơ chế phá Vạn Độc Huyết Tế Đại Trận. |
 | 2026-03-14 | Tổng Quản | Viết Chương 50: Cuộc Chiến Thủ Thành | Hoàn Thành | Mô tả trận chiến phòng thủ tại Mộc Linh Trận Địa. |
+| 2026-03-15 | Tổng Quản | Viết Chương 51 & Tạo Huyết Nha | Hoàn Thành | Viết Chương 51 (Đột Kích Mắt Trận) và tạo Kỳ vật Huyết Nha. |
