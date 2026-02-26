@@ -1,39 +1,29 @@
-# THỦY THI (水尸)
+# YÊU THÚ: THỦY THI
 
-## I. THÔNG TIN CƠ BẢN
-- **Tên:** Thủy Thi.
+## 1. TỔNG QUAN
+- **Tên Gọi:** Thủy Thi (水尸).
 - **Phân Loại:** Yêu Ma / Vong Linh (Undead).
-- **Cấp Độ:**
-    - **Thủy Thi Thường:** Tương đương Luyện Khí Kỳ (Trung - Hậu Kỳ).
-    - **Thủy Thi Tinh Anh:** Tương đương Trúc Cơ Sơ Kỳ.
-- **Thuộc Tính:** Thủy - Âm (Water - Yin).
-- **Môi Trường Sống:** Các vùng nước tù đọng, ô nhiễm âm khí hoặc độc tố (Đầm lầy, Hồ nước ngầm, Giếng cổ).
-- **Xuất Hiện Tại:** *Hồ Nguyệt Ảnh* (Hoàng Sa Địa Cung - Thâm Cung).
+- **Cấp Độ:** Tương đương Luyện Khí Viên Mãn -> Trúc Cơ Sơ Kỳ (Tùy thuộc vào thời gian ngâm mình).
+- **Môi Trường Sống:** Các vùng nước tù đọng, âm hàn, đặc biệt là *Hồ Nguyệt Ảnh* và hệ thống cống ngầm của *Hoàng Sa Địa Cung*.
 
-## II. ĐẶC ĐIỂM
-- **Ngoại Hình:**
-    - Hình dáng con người nhưng cơ thể trương phình do ngâm nước lâu ngày.
-    - Da thịt trắng bệch, nhợt nhạt như sáp nến, trơn tuột và lạnh lẽo.
-    - Mắt không có tròng đen, chỉ một màu đỏ ngầu hoặc trắng dã.
-    - Móng vuốt dài, sắc nhọn, đen sì.
-    - Một số con còn mặc giáp trụ rỉ sét của binh lính cổ đại.
-- **Tập Tính:**
-    - Hoạt động theo bầy đàn.
-    - Nhạy cảm với mùi máu và sinh khí của người sống.
-    - Di chuyển cực nhanh dưới nước, nhưng chậm chạp hơn khi lên cạn.
+## 2. ĐẶC ĐIỂM NHẬN DẠNG
+- **Hình Dáng:** Giống con người nhưng cơ thể trương phình do ngâm nước lâu ngày. Da thịt trắng bệch, nhợt nhạt như sáp nến, bong tróc từng mảng.
+- **Khuôn Mặt:** Biến dạng, mắt không có tròng đen, miệng rộng hoác đầy răng nhọn. Tóc tai rũ rượi như rong rêu bám đầy bùn đất.
+- **Trang Phục:** Thường mặc những bộ giáp trụ rỉ sét hoặc y phục rách nát của binh lính, cung nữ thời xưa.
 
-## III. KHẢ NĂNG & CHIẾN ĐẤU
-1.  **Thủy Chiến:**
-    - Bơi lội linh hoạt, có thể lặn sâu và tấn công bất ngờ từ dưới mặt nước.
-    - Có khả năng phun ra luồng nước đen chứa độc tố (*Thủy Độc*).
-2.  **Cơ Thể Bất Hoại (Tương đối):**
-    - Da thịt dai và trơn, khó bị thương bởi vũ khí thông thường.
-    - Không biết đau đớn, chỉ dừng lại khi bị chặt đầu hoặc phá hủy hoàn toàn cơ thể.
-3.  **Điểm Yếu:**
-    - **Hỏa:** Sợ lửa và nhiệt độ cao (làm khô lớp da bảo vệ).
-    - **Lôi:** Dẫn điện tốt, dễ bị tê liệt bởi sấm sét.
-    - **Rời Khỏi Nước:** Sức mạnh giảm sút đáng kể khi bị kéo lên bờ khô ráo.
+## 3. KHẢ NĂNG & SỨC MẠNH
+- **Thủy Chiến:** Cực kỳ linh hoạt trong môi trường nước. Tốc độ bơi lội nhanh như cá, sức mạnh cơ bắp tăng gấp bội khi ở dưới nước.
+- **Da Đồng Vách Sắt:** Lớp da ngâm nước lâu năm trở nên dai và trơn trượt, có khả năng giảm thiểu sát thương từ vũ khí sắc nhọn thông thường.
+- **Thủy Độc:** Móng vuốt và răng chứa độc tố xác chết (Thi Độc) kết hợp với âm hàn chi lực. Người bị thương sẽ cảm thấy lạnh buốt, vết thương khó lành và hoại tử nhanh chóng.
+- **Bất Tử (Giả):** Không biết đau đớn, không sợ chết. Trừ khi phá hủy đầu hoặc đốt cháy hoàn toàn, chúng vẫn sẽ tiếp tục tấn công dù mất tay chân.
 
-## IV. NGUỒN GỐC
-- Là những xác chết của binh lính, cung nữ hoặc dân thường bị chết đuối hoặc bị ném xuống nước trong các nghi thức hiến tế hoặc thảm họa cổ xưa.
-- Do oán khí không tan và âm khí dưới nước nuôi dưỡng, chúng biến thành quái vật khát máu, mãi mãi bị giam cầm trong thân xác trương phình.
+## 4. ĐIỂM YẾU
+- **Lửa & Nhiệt:** Rất sợ lửa và nhiệt độ cao (như *Sa Viêm Tán*, Hỏa công pháp). Khi bị đốt, cơ thể chúng khô lại nhanh chóng và mất đi khả năng phòng ngự.
+- **Trên Cạn:** Di chuyển chậm chạp và vụng về hơn khi rời khỏi môi trường nước.
+- **Ánh Sáng Mặt Trời:** Âm khí trên người sẽ bị tiêu tán nếu tiếp xúc trực tiếp với ánh nắng gay gắt (Tuy nhiên trong Địa Cung thì không có nắng).
+- **Pháp Bảo Hệ Mộc/Lôi:** Dễ bị khắc chế bởi sấm sét (dẫn điện trong nước) hoặc rễ cây trói buộc.
+
+## 5. CHIẾN THUẬT ĐỐI PHÓ
+- **Đóng Băng:** Sử dụng hàn khí để đóng băng mặt nước, hạn chế khả năng di chuyển của chúng.
+- **Thiêu Đốt:** Dùng hỏa công diện rộng để làm bốc hơi độ ẩm trên cơ thể chúng.
+- **Tấn Công Đầu:** Nhắm vào đầu để tiêu diệt triệt để.
