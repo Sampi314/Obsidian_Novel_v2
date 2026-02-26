@@ -29,6 +29,8 @@
     - **Sự Kiện Mới:** Thoát khỏi Hang Động Nhện Quỷ, trở lại mặt đất Rừng Huyết Độc (Vùng Đất Chết).
     - **Nhiệm Vụ Hiện Tại:** Tìm nơi ẩn náu và chữa trị cho Hứa Nhược Thủy bằng Huyết Linh Chi (Hoàn thành - Chương 43).
     - **Sự Kiện Mới:** Tìm thấy Huyết Linh Chi, tạm thời thoát khỏi sự truy sát của bầy nhện.
+    - **Sự Kiện Mới:** Chữa trị thành công cho Hứa Nhược Thủy tại Vùng Đất Chết (Chương 44).
+    - **Nhiệm Vụ Hiện Tại:** Sinh tồn qua đêm tối tại Vùng Đất Chết trước sự tấn công của Vong Linh.
     - **Nhiệm Vụ Tiếp Theo:** Tìm đường thoát khỏi Rừng Huyết Độc để về Nam Cương.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
