@@ -15,8 +15,8 @@
     - **Sự Kiện Mới:** Phong ấn Long Cốt bị vỡ, Địa Sát thức tỉnh.
     - **Nhiệm Vụ:** Thoát khỏi Hoàng Sa Địa Cung đang sụp đổ và trở lại mặt đất (Đã hoàn thành chương 30).
     - **Sự Kiện Mới:** Hắc Sa Bão trỗi dậy do dư chấn Địa Sát.
-    - **Nhiệm Vụ Hiện Tại:** Tìm nơi trú ẩn trong Hắc Sa Bão và bảo vệ Hứa Nhược Thủy (Đã hoàn thành - Chương 32).
-    - **Tiếp Theo:** Sinh tồn trong Rừng Xương Rồng Thiên Trụ và tìm đường về Nam Cương.
+    - **Nhiệm Vụ Hiện Tại:** Sinh tồn trong Rừng Xương Rồng Thiên Trụ, khám phá bí mật của "Pháo Đài Xanh" (Đang diễn ra - Chương 33).
+    - **Tiếp Theo:** Tìm đường về Nam Cương và đối mặt với hệ quả của việc Long Cốt bị phá hủy.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Hoàn Thành (Tiền Truyện).

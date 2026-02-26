@@ -1,0 +1,84 @@
+---
+Tác_Giả: Jules (Tổng Quản)
+Ngày_Viết: 2024-05-24
+Góc_Nhìn: Góc_Nhìn_Chính
+Bối_Cảnh: Rừng Xương Rồng Thiên Trụ - Đêm khuya
+Nhân_Vật: Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Hứa Nhược Thủy
+Ghi_Chú: Tiếp nối sự kiện Chương 32, khám phá bí mật của loài thực vật khổng lồ.
+---
+
+***
+
+Tiếng gió rít bên ngoài bức tường xương rồng vẫn nghe như tiếng khóc than của hàng vạn oán linh, nhưng bên trong "Pháo Đài Xanh" này, không gian lại tĩnh lặng đến kỳ lạ.
+
+Diệp Tĩnh Sương ngồi xếp bằng trên một tảng đá phẳng, *Hàn Ngọc Kiếm* đặt ngang trên đầu gối. Nàng nhẹ nhàng dùng một mảnh vải trắng lau đi những vết máu đen bám trên lưỡi kiếm - tàn dư của trận chiến với Sa Hồn. Mỗi lần lau, nàng lại cảm nhận được sự rung động khe khẽ từ thân kiếm, như thể nó đang kể lể về sự mệt mỏi sau một đêm dài tử chiến.
+
+"Cô nương, uống chút nước đi."
+
+Lâm Phong bước tới, tay cầm một chiếc túi da dê đã xẹp lép. Hắn dốc ngược túi, nhưng chỉ còn vài giọt nước rơi ra. Hắn cười khổ, lắc đầu: "Có vẻ như chúng ta đã cạn kiệt lương thực và nước uống rồi."
+
+Diệp Tĩnh Sương mở mắt, lắc đầu nhẹ: "Ta không khát. Ngươi giữ cho Hứa phu nhân đi."
+
+Nàng nhìn về phía hốc cây lớn. Hứa Nhược Thủy vẫn nằm bất động, sắc mặt tuy đã bớt xanh xao nhờ *Thủy Linh Châu*, nhưng đôi môi khô nứt nẻ báo hiệu cơ thể bà đang thiếu nước trầm trọng. Hứa Thanh Vân ngồi bên cạnh mẹ, đôi mắt đỏ hoe, tay nắm chặt lấy bàn tay gầy guộc của bà.
+
+"Nếu cứ thế này, dù không bị bão cát giết chết, chúng ta cũng sẽ chết khát." Lâm Phong ngồi xuống cạnh nàng, thở dài thườn thượt. "Rừng xương rồng này tuy cản được gió, nhưng lại khô cằn quá. Ta đã thử tìm kiếm xung quanh nhưng không thấy mạch nước nào."
+
+Diệp Tĩnh Sương không đáp. Ánh mắt nàng lơ đãng nhìn lên những thân cây xương rồng khổng lồ vươn lên trời cao, che khuất cả bầu trời đêm đen kịt. Đột nhiên, nàng nheo mắt lại.
+
+"Nhìn kìa."
+
+Lâm Phong nhìn theo hướng nàng chỉ. Trên thân cây xương rồng gần đó, nơi có một vết nứt lớn do có lẽ bị đá bay trúng trong cơn bão, đang rỉ ra một chất lỏng màu trắng đục. Điều kỳ lạ là chất lỏng đó đang phát ra ánh sáng huỳnh quang dìu dịu, tựa như ánh trăng.
+
+"Đó là..." Lâm Phong ngẩn người.
+
+"Thiên Trụ Tương." Diệp Tĩnh Sương khẽ nói, trong giọng nói hiếm hoi lộ ra chút ngạc nhiên. "Ta từng đọc trong cổ tịch của tông môn. Xương Rồng Thiên Trụ là linh thực của Tây Mạc, nhựa của nó có thể giải độc và hồi phục thể lực rất tốt. Không ngờ lại gặp được ở đây."
+
+Cả hai vội vàng đứng dậy, tiến lại gần gốc cây. Một mùi hương thanh khiết, ngai ngái tỏa ra từ dòng nhựa trắng.
+
+Lâm Phong cẩn thận dùng ngón tay chấm một chút đưa lên mũi ngửi, rồi nếm thử. Vị chát nhẹ tan nhanh trên đầu lưỡi, thay vào đó là một luồng khí mát lạnh chạy dọc xuống cổ họng, khiến tinh thần hắn lập tức phấn chấn hẳn lên.
+
+"Tốt quá rồi!" Hắn reo lên, vội vàng lấy bình nước rỗng ra hứng lấy từng giọt nhựa quý giá. "Có thứ này, Hứa phu nhân và Thanh Vân được cứu rồi!"
+
+Trong khi Lâm Phong đang bận rộn hứng nhựa, Diệp Tĩnh Sương lại cảnh giác quan sát xung quanh. Loài linh thực quý giá thế này thường có yêu thú canh giữ, hoặc ít nhất cũng thu hút những kẻ săn mồi.
+
+*Soạt!*
+
+Một bóng đen nhỏ xíu vụt qua bụi cỏ gai gần đó.
+
+"Ai?"
+
+Diệp Tĩnh Sương quát khẽ, *Hàn Ngọc Kiếm* lập tức rời vỏ một tấc, hàn khí tỏa ra bức người.
+
+Từ trong bụi gai, một cái đầu nhỏ nhắn thò ra, run rẩy. Đó là một con Cáo Sa Mạc (Sa Hồ) với bộ lông màu vàng cát và đôi tai to quá khổ. Nó nhìn chằm chằm vào dòng nhựa đang chảy, đôi mắt đen láy ánh lên vẻ thèm thuồng nhưng lại sợ hãi trước sát khí của Diệp Tĩnh Sương.
+
+Lâm Phong quay lại, thấy cảnh này liền bật cười: "Chỉ là một con tiểu yêu thú thôi. Có lẽ nó cũng khát nước."
+
+Hắn hứng đầy bình nước, rồi tiện tay ngắt một chiếc lá xương rồng nhỏ, hứng vài giọt nhựa đặt xuống đất, đẩy nhẹ về phía con cáo.
+
+"Này, cho ngươi đó."
+
+Con Sa Hồ do dự một chút, rồi nhanh như chớp lao tới liếm sạch những giọt nhựa, sau đó không bỏ chạy mà ngồi xuống, vẫy vẫy cái đuôi xù, nhìn Lâm Phong với vẻ biết ơn.
+
+Diệp Tĩnh Sương thu kiếm, ánh mắt dịu đi đôi chút. Giữa vùng đất chết chóc này, sự xuất hiện của một sinh linh nhỏ bé khiến lòng người ta cảm thấy ấm áp hơn.
+
+Lâm Phong mang bình nhựa về cho Hứa Thanh Vân. Thiếu niên mừng rỡ, cẩn thận bón từng thìa nhỏ cho mẹ. Hiệu quả thật thần kỳ, chỉ sau vài ngụm, hơi thở của Hứa Nhược Thủy đã trở nên đều đặn hơn, đôi môi cũng hồng hào trở lại.
+
+"Đa tạ Lâm huynh, đa tạ Diệp tỷ tỷ." Hứa Thanh Vân rưng rưng nước mắt.
+
+"Đừng vội cảm tạ." Diệp Tĩnh Sương nói, ánh mắt nhìn sâu vào rừng cây tối tăm. "Ta cảm nhận được một luồng linh lực dao động rất lạ ở sâu bên trong khu rừng này. Nó không giống oán khí của Sa Hồn, cũng không giống linh khí tự nhiên."
+
+"Ý cô là..." Lâm Phong nghiêm mặt lại.
+
+"Có thể là một di tích, hoặc một hang động của yêu thú cấp cao." Diệp Tĩnh Sương trầm ngâm. "Nhưng quan trọng hơn, luồng khí đó đang áp chế bão cát. Đó là lý do tại sao khu rừng này vẫn đứng vững."
+
+Đêm đó, họ thay phiên nhau canh gác.
+
+Gần về sáng, khi Lâm Phong đang mơ màng, con Sa Hồ lúc nãy bỗng quay lại. Nó rên ư ử, dùng răng kéo ống quần hắn, rồi chạy vài bước về phía sâu trong rừng, quay đầu lại nhìn như muốn dẫn đường.
+
+Lâm Phong lay Diệp Tĩnh Sương dậy: "Hình như nó muốn chỉ cho chúng ta cái gì đó."
+
+Diệp Tĩnh Sương nhìn con cáo, rồi nhìn vào màn đêm sâu thẳm.
+
+"Đi theo nó." Nàng quyết định. "Ở đây mãi cũng không phải là cách. Có lẽ sâu bên trong kia có lối thoát."
+
+Cả nhóm thu dọn hành lý, dìu Hứa Nhược Thủy dậy, bắt đầu đi theo con vật nhỏ bé tiến vào bóng tối của rừng Thiên Trụ, không biết rằng họ đang bước đến gần một bí mật đã bị chôn vùi hàng ngàn năm dưới lớp cát vàng.
