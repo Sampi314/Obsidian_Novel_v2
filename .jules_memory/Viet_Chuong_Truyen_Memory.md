@@ -169,3 +169,8 @@
 - **Địa điểm:** Vùng Đất Chết (Rừng Huyết Độc).
 - **Vật phẩm:** Huyết Linh Chi.
 - **Tiến độ Arc:** Hồi phục lực lượng, chuẩn bị đối mặt làn sóng quái vật đêm.
+## [2026-03-12] Chương 46: Vòng Vây Sinh Tử
+- **Nội dung:** Vạn Độc Huyết Tế Đại Trận kích hoạt, tạo ra vòng vây khép kín. Nhóm nhân vật đối mặt với bầy Huyết Vệ và Huyết Tướng. Hứa Nhược Thủy dùng Thủy Linh Châu hỗ trợ, Lâm Phong tìm ra Mắt Trận Phụ.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy, Huyết Vệ, Huyết Tướng.
+- **Địa điểm:** Rừng Huyết Độc (Trong Trận Pháp).
+- **Tiến độ Arc:** Cao trào trận chiến sinh tử, bắt đầu phá trận.

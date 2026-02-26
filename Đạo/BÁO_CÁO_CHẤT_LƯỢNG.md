@@ -85,7 +85,22 @@
 | 2026-03-07 | Tổng Quản | Viết Chương 40: Huyết Chiến Cửa Hang | Hoàn Thành | Tiếp nối mạch truyện, mô tả cuộc chiến với Vong Linh tại cửa hang. |
 | 2026-03-07 | Tổng Quản | Tạo Kỳ vật: Vong Linh | Hoàn Thành | Quái vật xương cốt bị Địa Sát thao túng. |
 | 2026-03-08 | Tổng Quản | Viết Chương 41: Mê Cung Tơ Độc | Hoàn Thành | Tiếp nối mạch truyện tại Hang Động Nhện Quỷ. |
+| 2026-03-08 | Tổng Quản | Viết Chương 42: Huyết Chiến Nhện Chúa | Hoàn Thành | Kết thúc phân đoạn Hang Động Nhện Quỷ, mở đường về mặt đất. |
+| 2026-03-08 | Tổng Quản | Tạo Kỳ vật: Huyết Nhện Chúa | Hoàn Thành | Boss của Hang Động Nhện Quỷ, bị biến đổi bởi Địa Sát. |
 | 2026-03-08 | Tổng Quản | Viết Chương 42: Huyết Chiến Nhện Chúa | Hoàn Thành | Tiếp nối mạch truyện, tiêu diệt Boss Nhện Chúa và thoát khỏi hang động. |
 | 2026-03-09 | Tổng Quản | Viết Chương 43: Thoát Khỏi Hang Động | Hoàn Thành | Mô tả cuộc đào thoát và tìm thấy Huyết Linh Chi. |
 | 2026-03-09 | Tổng Quản | Tạo Kỳ vật: Huyết Linh Chi | Hoàn Thành | Linh thảo giúp hồi phục khí huyết và giải độc. |
 | 2026-03-09 | Tổng Quản | Viết Chương 44: Hồi Sinh Trong Tử Địa | Hoàn Thành | Tiếp nối mạch truyện, Hứa Nhược Thủy hồi phục, Vong Linh tấn công. |
+| 2026-03-10 | Tổng Quản | Tạo Prompt Ảnh: Huyết Linh Chi | Hoàn Thành | Tạo prompt visual cho Huyết Linh Chi trong Rừng Huyết Độc. |
+| 2026-03-10 | Tổng Quản | Viết Chương 44: Ánh Sáng Và Bóng Tối | Hoàn Thành | Tiếp nối mạch truyện, mô tả việc chữa trị cho Hứa Nhược Thủy và phát hiện vòng vây của Vạn Độc Môn. |
+| 2026-03-11 | Tổng Quản | Viết Chương 45: Huyết Trận Khởi Động | Hoàn Thành | Tiếp nối mạch truyện, mô tả cuộc tấn công của Huyết Vệ và sự biến đổi của Rừng Huyết Độc. |
+| 2026-03-11 | Tổng Quản | Tạo Kỳ vật: Huyết Vệ | Hoàn Thành | Khôi lỗi sinh học của Vạn Độc Môn. |
+| 2026-03-11 | Tổng Quản | Tạo Trận pháp: Vạn Độc Huyết Tế Đại Trận | Hoàn Thành | Cấm trận bao trùm Rừng Huyết Độc. |
+| 2026-03-12 | Tổng Quản | Viết Chương 46: Vòng Vây Sinh Tử | Hoàn Thành | Tiếp nối mạch truyện, mô tả cuộc chiến sinh tử trong Vạn Độc Huyết Tế Đại Trận. |
+| 2026-03-12 | Tổng Quản | Viết Chương 47: Huyết Lộ Phá Trận | Hoàn Thành | Tiếp nối mạch truyện, tiêu diệt Huyết Tướng và phá hủy Mắt Trận Phụ. |
+| 2026-03-13 | Tổng Quản | Viết Chương 48 & Tạo Mộc Linh Trận Địa | Hoàn Thành | Viết Chương 48 (Tiếng Sáo Vượt Rừng) và tạo địa danh Mộc Linh Trận Địa. |
+| 2026-03-13 | Tổng Quản | Viết Chương 49: Bí Mật Mộc Linh Trận | Hoàn Thành | Viết Chương 49 (Bí Mật Mộc Linh Trận), tiết lộ cơ chế phá Vạn Độc Huyết Tế Đại Trận. |
+| 2026-03-14 | Tổng Quản | Viết Chương 50: Cuộc Chiến Thủ Thành | Hoàn Thành | Mô tả trận chiến phòng thủ tại Mộc Linh Trận Địa. |
+| 2026-03-15 | Tổng Quản | Viết Chương 51 & Tạo Huyết Nha | Hoàn Thành | Viết Chương 51 (Đột Kích Mắt Trận) và tạo Kỳ vật Huyết Nha. |
+| 2026-03-16 | Tổng Quản | Viết Chương 52: Đột Kích Mắt Trận (Phần 2) | Hoàn Thành | Mô tả trận chiến phá hủy Mắt Trận Phụ. |
+| 2026-03-17 | Tổng Quản | Viết Chương 53: Vòng Vây Siết Chặt | Hoàn Thành | Nhóm nhân vật thoát vây và tiến vào Huyết Vụ Lâm. |

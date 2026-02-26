@@ -14,6 +14,7 @@
     - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nam_Cương.md`.
         - *Rừng Huyết Độc:* Khu rừng biên giới với những thân cây đỏ như máu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md`.
             - *Hang Động Nhện Quỷ:* Hệ thống hang động ngầm nơi Vạn Độc Môn thực hiện thí nghiệm Huyết Thi. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
+            - *Mộc Linh Trận Địa:* Căn cứ tạm thời của Tinh Linh Tộc và Dược Vương Cốc nằm sâu trong rừng. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md`.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
@@ -165,6 +166,7 @@
     - *Cửu Thiên Hàn Băng Trận (Cửu Cấp):* Trận pháp hộ sơn của Huyền Băng Cung, tạo ra bão tuyết và ảo ảnh băng giá. Xem tại `Đạo/Trận_Pháp/Cửu_Thiên_Hàn_Băng_Trận.md`.
     - *Vạn Độc Phệ Tâm Trận (Cửu Cấp):* Trận pháp hộ sơn của Vạn Độc Môn, dùng độc vụ và ảo giác giết chết kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Độc_Phệ_Tâm_Trận.md`.
     - *Vạn Mộc Hồi Xuân Trận (Cửu Cấp):* Trận pháp hộ sơn của Dược Vương Cốc, biến cây cối thành chiến binh và hồi phục linh lực vô tận. Xem tại `Đạo/Trận_Pháp/Vạn_Mộc_Hồi_Xuân_Trận.md`.
+    - *Vạn Độc Huyết Tế Đại Trận (Thiên Cấp Hạ Phẩm):* Cấm trận huyết đạo của Vạn Độc Môn, dùng để giam cầm, lùa địch và hấp thụ huyết khí. Xem tại `Đạo/Trận_Pháp/Vạn_Độc_Huyết_Tế_Đại_Trận.md`.
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Đan_Phá_Chướng_Đan.md`.
     - *Băng Tâm Đan (Huyền Cấp Hạ Phẩm):* Giúp tĩnh tâm, giải trừ hỏa độc, tăng khả năng tu luyện hệ Băng. Xem tại `Đạo/Đan_Dược/Băng_Tâm_Đan.md`.
@@ -211,8 +213,11 @@
     - *Mộc Linh Vệ:* Tinh linh thực vật bảo vệ Pháo Đài Xanh, kết từ dây leo và rễ cây. Xem tại `Đạo/Kỳ_Vật/Mộc_Linh_Vệ.md`.
     - *Huyết Độc Lang Vương:* Thủ lĩnh biến dị của bầy Huyết Độc Lang, có giáp cốt và khả năng điều khiển bầy đàn. Xem tại `Đạo/Kỳ_Vật/Huyết_Độc_Lang_Vương.md`.
     - *Vong Linh (Undead Spirit):* Hài cốt bị Địa Sát thao túng, có lửa linh hồn xanh lục, miễn nhiễm sát thương vật lý. Xem tại `Đạo/Kỳ_Vật/Vong_Linh.md`.
+    - *Huyết Nhện Chúa:* Thủ lĩnh biến dị của bầy Nhện Mặt Quỷ, hấp thụ Địa Sát và Huyết Thần Độc. Xem tại `Đạo/Kỳ_Vật/Huyết_Nhện_Chúa.md`.
     - *Huyết Nhện Chúa:* Yêu thú biến dị cấp Trúc Cơ Trung Kỳ, thủ lĩnh của Nhện Mặt Quỷ. Xem tại `Đạo/Kỳ_Vật/Huyết_Nhện_Chúa.md`.
     - *Huyết Linh Chi:* Linh thảo hệ Huyết mọc trên rễ Huyết Mộc cổ thụ, có khả năng hồi phục khí huyết và giải độc. Xem tại `Đạo/Kỳ_Vật/Huyết_Linh_Chi.md`.
+    - *Huyết Vệ:* Tu sĩ bị Vạn Độc Môn cải tạo thành cỗ máy giết chóc, vô cảm và có sức mạnh thể chất kinh hồn. Xem tại `Đạo/Kỳ_Vật/Huyết_Vệ.md`.
+    - *Huyết Nha:* Quạ biến dị nhiễm Huyết Thần Độc, đóng vai trò trinh sát của Vạn Độc Môn. Xem tại `Đạo/Kỳ_Vật/Huyết_Nha.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -288,6 +293,16 @@
     - [Chương 42: Huyết Chiến Nhện Chúa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00042_Huyết_Chiến_Nhện_Chúa.md)
     - [Chương 43: Thoát Khỏi Hang Động](Chương_Truyện/Góc_Nhìn_Chính/Chương_00043_Thoát_Khỏi_Hang_Động.md)
     - [Chương 44: Hồi Sinh Trong Tử Địa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00044_Hồi_Sinh_Trong_Tử_Địa.md)
+    - [Chương 44: Ánh Sáng Và Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00044_Ánh_Sáng_Và_Bóng_Tối.md)
+    - [Chương 45: Huyết Trận Khởi Động](Chương_Truyện/Góc_Nhìn_Chính/Chương_00045_Huyết_Trận_Khởi_Động.md)
+    - [Chương 46: Vòng Vây Sinh Tử](Chương_Truyện/Góc_Nhìn_Chính/Chương_00046_Vòng_Vây_Sinh_Tử.md)
+    - [Chương 47: Huyết Lộ Phá Trận](Chương_Truyện/Góc_Nhìn_Chính/Chương_00047_Huyết_Lộ_Phá_Trận.md)
+    - [Chương 48: Tiếng Sáo Vượt Rừng](Chương_Truyện/Góc_Nhìn_Chính/Chương_00048_Tiếng_Sáo_Vượt_Rừng.md)
+    - [Chương 49: Bí Mật Mộc Linh Trận](Chương_Truyện/Góc_Nhìn_Chính/Chương_00049_Bí_Mật_Mộc_Linh_Trận.md)
+    - [Chương 50: Cuộc Chiến Thủ Thành](Chương_Truyện/Góc_Nhìn_Chính/Chương_00050_Cuộc_Chiến_Thủ_Thành.md)
+    - [Chương 51: Đột Kích Mắt Trận (Phần 1)](Chương_Truyện/Góc_Nhìn_Chính/Chương_00051_Đột_Kích_Mắt_Trận_1.md)
+    - [Chương 52: Đột Kích Mắt Trận (Phần 2)](Chương_Truyện/Góc_Nhìn_Chính/Chương_00052_Đột_Kích_Mắt_Trận_2.md)
+    - [Chương 53: Vòng Vây Siết Chặt](Chương_Truyện/Góc_Nhìn_Chính/Chương_00053_Vòng_Vây_Siết_Chặt.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -300,6 +315,21 @@
 
 ## XII. CẬP NHẬT GẦN NHẤT
 - Viết Chương Truyện: Chương 44 - Hồi Sinh Trong Tử Địa.
+- Viết Chương Truyện: Chương 53 - Vòng Vây Siết Chặt.
+- Viết Chương Truyện: Chương 52 - Đột Kích Mắt Trận (Phần 2).
+- Viết Chương Truyện: Chương 51 - Đột Kích Mắt Trận (Phần 1).
+- Tạo Kỳ vật: Huyết Nha (Blood Crows).
+- Viết Chương Truyện: Chương 50 - Cuộc Chiến Thủ Thành.
+- Viết Chương Truyện: Chương 49 - Bí Mật Mộc Linh Trận.
+- Viết Chương Truyện: Chương 48 - Tiếng Sáo Vượt Rừng.
+- Tạo Địa danh: Mộc Linh Trận Địa.
+- Viết Chương Truyện: Chương 47 - Huyết Lộ Phá Trận.
+- Viết Chương Truyện: Chương 46 - Vòng Vây Sinh Tử.
+- Viết Chương Truyện: Chương 45 - Huyết Trận Khởi Động.
+- Tạo Trận pháp: Vạn Độc Huyết Tế Đại Trận.
+- Tạo Kỳ vật: Huyết Vệ.
+- Viết Chương Truyện: Chương 44 - Ánh Sáng Và Bóng Tối.
+- Tạo Prompt Ảnh: Huyết Linh Chi (Rừng Huyết Độc).
 - Viết Chương Truyện: Chương 43 - Thoát Khỏi Hang Động.
 - Tạo Kỳ vật: Huyết Linh Chi.
 - Viết Chương Truyện: Chương 42 - Huyết Chiến Nhện Chúa.
