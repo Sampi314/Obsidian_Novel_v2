@@ -84,3 +84,4 @@
 | 2026-03-07 | Tổng Quản | Tạo Địa Danh: Vùng Đất Chết | Hoàn Thành | Tạo hồ sơ chi tiết khu vực cấm địa mới trong Rừng Huyết Độc. |
 | 2026-03-07 | Tổng Quản | Viết Chương 40: Huyết Chiến Cửa Hang | Hoàn Thành | Tiếp nối mạch truyện, mô tả cuộc chiến với Vong Linh tại cửa hang. |
 | 2026-03-07 | Tổng Quản | Tạo Kỳ vật: Vong Linh | Hoàn Thành | Quái vật xương cốt bị Địa Sát thao túng. |
+| 2026-03-08 | Tổng Quản | Viết Chương 41: Mê Cung Tơ Độc | Hoàn Thành | Tiếp nối mạch truyện tại Hang Động Nhện Quỷ. |

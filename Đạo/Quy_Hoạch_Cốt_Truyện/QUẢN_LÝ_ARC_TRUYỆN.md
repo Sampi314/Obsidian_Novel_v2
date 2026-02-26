@@ -23,7 +23,9 @@
     - **Sự Kiện Mới:** Tiến vào Vùng Đất Chết, đối mặt với tử khí và vong linh do Địa Sát thao túng.
     - **Nhiệm Vụ Hiện Tại:** Sinh tồn trong Vùng Đất Chết và tìm lối vào Hang Động Nhện Quỷ (Hoàn thành - Chương 40).
     - **Sự Kiện Mới:** Tiến vào Hang Động Nhện Quỷ, thoát khỏi bầy Vong Linh nhưng rơi vào hang ổ của quái vật.
-    - **Nhiệm Vụ Tiếp Theo:** Khám phá lại hệ thống hang động, đối mặt với Nhện Mặt Quỷ và tìm đường xuống Mạch Ngầm.
+    - **Nhiệm Vụ Hiện Tại:** Khám phá lại hệ thống hang động, đối mặt với Nhện Mặt Quỷ (Hoàn thành - Chương 41).
+    - **Sự Kiện Mới:** Phát hiện đường xuống Mạch Ngầm bị sập, bị vây hãm bởi Nhện Chúa và ổ trứng.
+    - **Nhiệm Vụ Tiếp Theo:** Tìm lối thoát hiểm qua khe nứt trên cao, chiến đấu mở đường máu.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
