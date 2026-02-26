@@ -296,6 +296,7 @@
     - [Chương 47: Huyết Lộ Phá Trận](Chương_Truyện/Góc_Nhìn_Chính/Chương_00047_Huyết_Lộ_Phá_Trận.md)
     - [Chương 48: Tiếng Sáo Vượt Rừng](Chương_Truyện/Góc_Nhìn_Chính/Chương_00048_Tiếng_Sáo_Vượt_Rừng.md)
     - [Chương 49: Bí Mật Mộc Linh Trận](Chương_Truyện/Góc_Nhìn_Chính/Chương_00049_Bí_Mật_Mộc_Linh_Trận.md)
+    - [Chương 50: Cuộc Chiến Thủ Thành](Chương_Truyện/Góc_Nhìn_Chính/Chương_00050_Cuộc_Chiến_Thủ_Thành.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
