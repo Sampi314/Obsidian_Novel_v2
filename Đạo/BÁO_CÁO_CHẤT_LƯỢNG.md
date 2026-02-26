@@ -55,3 +55,4 @@
 | 2024-07-03 | Tổng Quản | Mở Rộng Góc Nhìn Lệ Vô Tâm | Hoàn Thành | Viết thêm Chương 2 (Huyết Độc Phiến), Chương 3 (Mệnh Lệnh Bóng Tối) cho Lệ Vô Tâm. Sắp xếp lại timeline. |
 | 2024-07-04 | Tổng Quản | Fix Hứa Nhược Thủy & Viết Chương 19 | Hoàn Thành | Sửa lỗi cảnh giới con trai Hứa Nhược Thủy, viết chương hành trình về Trung Thổ. |
 | 2024-07-05 | Tổng Quản | Hoàn thiện Băng Tâm Quyết & Thơ ca | Hoàn Thành | Cập nhật cấu trúc Hán-Việt-Dịch cho Băng Tâm Quyết và thêm bản tiếng Trung cho Ốc Đảo Dạ Khúc theo chỉ dẫn người dùng. |
+| 2024-07-06 | Tổng Quản | Viết Chương 20 & Sáng tác Thơ | Hoàn Thành | Mô tả hành trình vượt biên giới Tây Mạc - Nam Cương. |
