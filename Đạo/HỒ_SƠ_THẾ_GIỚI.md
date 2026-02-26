@@ -13,6 +13,7 @@
     - **Bắc Băng (Northern Ice Region):** Vùng đất băng giá vĩnh cửu, nơi ngự trị của Huyền Băng Cung và Băng Tộc. Nổi tiếng với Cực Quang và Băng Linh Khí.
     - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nam_Cương.md`.
         - *Rừng Huyết Độc:* Khu rừng biên giới với những thân cây đỏ như máu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md`.
+            - *Hang Động Nhện Quỷ:* Hệ thống hang động ngầm nơi Vạn Độc Môn thực hiện thí nghiệm Huyết Thi. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
@@ -244,6 +245,7 @@
     - [Chương 22: Huyết Đằng Vây Hãm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00022_Huyết_Đằng_Vây_Hãm.md)
     - [Chương 23: Hang Động Nhện Quỷ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00023_Hang_Động_Nhện_Quỷ.md)
     - [Chương 24: Huyết Thi Trỗi Dậy](Chương_Truyện/Góc_Nhìn_Chính/Chương_00024_Huyết_Thi_Trỗi_Dậy.md)
+    - [Chương 25: Mạch Ngầm Bí Ẩn](Chương_Truyện/Góc_Nhìn_Chính/Chương_00025_Mạch_Ngầm_Bí_Ẩn.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -255,6 +257,8 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 25 - Mạch Ngầm Bí Ẩn.
+- Tạo Địa danh: Hang Động Nhện Quỷ (Quỷ Chu Động).
 - Viết Chương Truyện: Chương 24 - Huyết Thi Trỗi Dậy.
 - Viết Chương Truyện: Chương 23 - Hang Động Nhện Quỷ.
 - Tạo Kỳ vật: Nhện Mặt Quỷ (Quái vật Chương 23).
