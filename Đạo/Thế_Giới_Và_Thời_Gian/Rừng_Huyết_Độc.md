@@ -26,3 +26,6 @@
 ## V. VAI TRÒ TRONG CỐT TRUYỆN
 - Là cửa ngõ đầu tiên mà nhóm nhân vật chính phải vượt qua khi tiến vào Nam Cương từ Tây Mạc.
 - Nơi diễn ra các cuộc phục kích của Vạn Độc Môn nhằm ngăn chặn kẻ thù xâm nhập sâu vào nội địa.
+
+## VI. ĐỊA ĐIỂM QUAN TRỌNG
+- **[Hang Động Nhện Quỷ](Hang_Động_Nhện_Quỷ.md):** Một hệ thống hang động ngầm chứa đầy rẫy Nhện Mặt Quỷ và bí mật thí nghiệm Huyết Thi của Vạn Độc Môn.

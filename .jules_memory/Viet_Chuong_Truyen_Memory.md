@@ -78,3 +78,39 @@
 - **Địa điểm:** Sa mạc đêm (gần Trạm Dừng Chân Số 7).
 - **Thơ ca:** Sa Mạc Độc Hành.
 - **Tiến độ Arc:** Mở ra hành trình xuyên lục địa (Tây Mạc -> Trung Thổ).
+
+## [2024-07-06] Chương 20: Ranh Giới Sinh Tử
+- **Nội dung:** Nhóm nhân vật vượt qua biên giới Tây Mạc - Nam Cương. Đối đầu Độc Nhãn Ngô Công.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Độc Nhãn Ngô Công.
+- **Địa điểm:** Biên giới Tây Mạc - Nam Cương.
+- **Tiến độ Arc:** Bước vào Nam Cương đầy nguy hiểm.
+
+## [2024-07-09] Chương 21: Độc Khí Công Tâm
+- **Nội dung:** Hứa Nhược Thủy phát độc tại Rừng Huyết Độc. Diệp Tĩnh Sương hy sinh tu vi dùng Hàn Mai Kiếm Quyết trấn áp độc tố.
+- **Nhân vật:** Diệp Tĩnh Sương, Hứa Nhược Thủy.
+- **Địa điểm:** Rừng Huyết Độc.
+- **Tiến độ Arc:** Tình trạng nguy kịch của Hứa Nhược Thủy.
+
+## [2026-02-26] Chương 22: Huyết Đằng Vây Hãm
+- **Nội dung:** Nhóm bị Huyết Đằng tấn công. Phải vừa chiến đấu vừa bảo vệ người bệnh.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Huyết Đằng.
+- **Địa điểm:** Rừng Huyết Độc.
+- **Tiến độ Arc:** Chiến đấu sinh tồn.
+
+## [2026-02-27] Chương 23: Hang Động Nhện Quỷ
+- **Nội dung:** Nhóm tìm thấy hang động để trú ẩn nhưng lạc vào ổ Nhện Mặt Quỷ.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Nhện Mặt Quỷ.
+- **Địa điểm:** Hang Động Nhện Quỷ.
+- **Tiến độ Arc:** Mắc kẹt trong hang động.
+
+## [2026-02-27] Chương 24: Huyết Thi Trỗi Dậy
+- **Nội dung:** Phát hiện hang động là nơi nuôi Huyết Thi (Dưỡng Thi Địa). Chiến đấu với xác sống của thương buôn Thiên Sa Thương Hội. Phá cầu đá để thoát thân.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Huyết Thi.
+- **Địa điểm:** Dưỡng Thi Địa (Hang Động Nhện Quỷ).
+- **Tiến độ Arc:** Khám phá bí mật thí nghiệm của Vạn Độc Môn.
+
+## [2026-02-28] Chương 25: Mạch Ngầm Bí Ẩn
+- **Nội dung:** Nhóm đi sâu vào hang động, tìm thấy mạch nước ngầm độc hại. Sử dụng bè gỗ của Vạn Độc Môn để di chuyển. Chiến đấu với Thủy Xà Biến Dị. Rơi xuống vực thẳm và phát hiện lối vào Hoàng Sa Địa Cung ngầm.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Thủy Xà Biến Dị.
+- **Địa điểm:** Mạch Ngầm (Hang Động Nhện Quỷ) -> Hoàng Sa Địa Cung.
+- **Tiến độ Arc:** Kết nối hai vùng đất (Nam Cương - Tây Mạc) qua hệ thống ngầm.
