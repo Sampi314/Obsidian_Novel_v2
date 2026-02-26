@@ -1,5 +1,7 @@
 # HỒ SƠ NHÂN VẬT: LỆ VÔ TÂM
 
+[ToDo: Thêm thông tin là Lệ Hữu Tâm Trước khi trở thành thánh tử]
+
 ## I. THÔNG TIN CƠ BẢN
 - **Tên:** Lệ Vô Tâm (厲無心).
 - **Danh Hiệu:** Vạn Độc Thánh Tử (萬毒聖子), Huyết Thủ Thư Sinh (血手書生).
@@ -62,4 +64,4 @@
 > *"Gặp Diêm Vương còn có đường sống, gặp Vô Tâm chỉ còn đường chết."*
 > — Câu nói lưu truyền trong giới tán tu Nam Cương.
 
-- **Thí Nghiệm Sống:** Nghe đồn trong động phủ của Lệ Vô Tâm có một "Vườn Dược Nhân", nơi hắn nuôi những tu sĩ bị bắt làm tù binh, hàng ngày cho uống độc dược để quan sát phản ứng, biến họ thành những quái vật nửa người nửa ngứa.
+- **Thí Nghiệm Sống:** Nghe đồn trong động phủ của Lệ Vô Tâm có một "Vườn Dược Nhân", nơi hắn nuôi những tu sĩ bị bắt làm tù binh, hàng ngày cho uống độc dược để quan sát phản ứng, biến họ thành những quái vật nửa người nửa mộc yêu.
