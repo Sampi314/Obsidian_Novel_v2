@@ -21,10 +21,16 @@
 ## III. CÁC TẦNG CẢNH GIỚI (KHẨU QUYẾT)
 
 ### Tầng 1: Sơ Nguyệt (Trăng Non) - Luyện Khí/Trúc Cơ
-<!-- TODO: Thêm bản Tiếng Trung -->
 - **Khẩu Quyết:**
+  > **Nguyên Văn:**
+  > 月出東山，清光初現。
+  > 心如止水，萬物皆空。
+  >
+  > **Phiên Âm:**
   > Nguyệt xuất đông sơn, thanh quang sơ hiện.
   > Tâm như chỉ thủy, vạn vật giai không.
+  >
+  > **Dịch Nghĩa:**
   > (Trăng lên núi đông, ánh sáng vừa hiện.
   > Lòng như nước lặng, vạn vật đều không.)
 - **Hiệu Quả:**
@@ -32,10 +38,16 @@
   - Sơ bộ lĩnh ngộ thuật hồi phục vết thương nhỏ.
 
 ### Tầng 2: Bán Nguyệt (Trăng Khuyết) - Kim Đan/Nguyên Anh
-<!-- TODO: Thêm bản Tiếng Trung -->
 - **Khẩu Quyết:**
+  > **Nguyên Văn:**
+  > 半輪明月，照影寒潭。
+  > 生生不息，毒氣消散。
+  >
+  > **Phiên Âm:**
   > Bán luân minh nguyệt, chiếu ảnh hàn đàm.
-  > Sinh sinh bất tức, độc khí tiêu tan.
+  > Sinh sinh bất tức, độc khí tiêu tán.
+  >
+  > **Dịch Nghĩa:**
   > (Nửa vầng trăng sáng, soi bóng đầm lạnh.
   > Sức sống không dứt, độc khí tiêu tan.)
 - **Hiệu Quả:**
@@ -44,10 +56,16 @@
   - Tuổi thọ gia tăng đáng kể, dung nhan trẻ mãi không già.
 
 ### Tầng 3: Viên Nguyệt (Trăng Tròn) - Hóa Thần trở lên
-<!-- TODO: Thêm bản Tiếng Trung -->
 - **Khẩu Quyết:**
+  > **Nguyên Văn:**
+  > 圓月當空，萬里清輝。
+  > 神木交感，天地同歸。
+  >
+  > **Phiên Âm:**
   > Viên nguyệt đương không, vạn dặm thanh huy.
   > Thần mộc giao cảm, thiên địa đồng quy.
+  >
+  > **Dịch Nghĩa:**
   > (Trăng tròn giữa trời, vạn dặm sáng trong.
   > Thần cây giao cảm, trời đất về một.)
 - **Hiệu Quả:**

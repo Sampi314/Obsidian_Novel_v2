@@ -6,20 +6,29 @@
 - **Tác Giả:** Vô Danh Khách (Lời đồn là của một tu sĩ đã bỏ mạng tại đây).
 - **Xuất Xứ:** Khắc trên một tấm bia đá vỡ nát ở rìa Đầm Lầy Tử Thần.
 - **Cảm Hứng:** Sự tĩnh lặng chết chóc và nỗi tuyệt vọng của những kẻ lạc lối trong đầm lầy.
-<!-- TODO: Thêm bản Tiếng Trung -->
 ## II. NỘI DUNG
 
-### 1. Nguyên Tác (Hán Việt)
-> *Dạ ám đầm hoang sương mãn thiên,*
+### 1. Nguyên Tác (Hán Văn)
+> 夜暗荒澤霜滿天，
+> 死氣沉沉斷因緣。
+> 血草陰沈吞骨肉，
+> 毒蟲寂寞送黃泉。
+> 狼嚎望月驚魂魄，
+> 鬼影隨形亂心田。
+> 一入迷途無出路，
+> 萬古愁悲恨九天。
+
+### 2. Phiên Âm (Hán Việt)
+> *Dạ ám hoang trạch sương mãn thiên,*
 > *Tử khí trầm trầm đoạn nhân duyên.*
 > *Huyết thảo âm thầm thôn cốt nhục,*
 > *Độc trùng tịch mịch tống hoàng tuyền.*
 > *Lang hào vọng nguyệt kinh hồn phách,*
 > *Quỷ ảnh tùy hình loạn tâm điền.*
-> *Nhất nhập mê đồ vô lối thoát,*
+> *Nhất nhập mê đồ vô xuất lộ,*
 > *Vạn cổ sầu bi hận cửu thiên.*
 
-### 2. Dịch Thơ (Lục Bát)
+### 3. Dịch Thơ (Lục Bát)
 > *Đầm hoang sương phủ trắng trời,*
 > *Tử khí chia cách duyên người âm dương.*
 > *Cỏ máu rình rập ven đường,*
@@ -29,5 +38,5 @@
 > *Lạc vào đường chết tối đen,*
 > *Ngàn năm ôm hận oán hờn trời cao.*
 
-### 3. Ý Nghĩa
+### 4. Ý Nghĩa
 Bài thơ cảnh báo về sự nguy hiểm tột cùng của Đầm Lầy Tử Thần. Không chỉ có quái vật hữu hình (Huyết Thảo, Độc Trùng, Sói), mà còn có những mối nguy vô hình (Tử khí, ảo giác - Quỷ ảnh). Câu cuối "Hận cửu thiên" ám chỉ những tu sĩ chết oan ức tại đây, oán khí không tan, tích tụ ngàn năm tạo nên sự hung hiểm của vùng đất này.
