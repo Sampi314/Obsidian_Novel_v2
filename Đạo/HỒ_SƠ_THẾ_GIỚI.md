@@ -252,6 +252,7 @@
         - [Ngoại Truyện: Tâm Sự Hàn Mai](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Ngoại_Truyện_Tâm_Sự.md) (Độc Thoại Nội Tâm)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Khôi phục Chương 21: Độc Khí Công Tâm (Bị thiếu file).
 - Viết lại Chương 15-20: Chuẩn hóa định dạng văn xuôi (Xóa bỏ cấu trúc đề cương).
 - Viết Chương Truyện: Chương 21 - Độc Khí Công Tâm.
 - Viết Chương Truyện: Chương 20 - Ranh Giới Sinh Tử.
