@@ -240,6 +240,7 @@
     - [Chương 19: Hành Trình Về Phía Đông](Chương_Truyện/Góc_Nhìn_Chính/Chương_00019_Hành_Trình_Về_Phía_Đông.md)
     - [Chương 20: Ranh Giới Sinh Tử](Chương_Truyện/Góc_Nhìn_Chính/Chương_00020_Ranh_Giới_Sinh_Tử.md)
     - [Chương 21: Độc Khí Công Tâm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00021_Độc_Khí_Công_Tâm.md)
+    - [Chương 22: Huyết Đằng Vây Hãm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00022_Huyết_Đằng_Vây_Hãm.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -251,6 +252,7 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 22 - Huyết Đằng Vây Hãm.
 - Khôi phục Chương 21: Độc Khí Công Tâm (Bị thiếu file).
 - Viết lại Chương 15-20: Chuẩn hóa định dạng văn xuôi (Xóa bỏ cấu trúc đề cương).
 - Viết Chương Truyện: Chương 21 - Độc Khí Công Tâm.
