@@ -246,6 +246,9 @@
         - [Chương 3: Mệnh Lệnh Bóng Tối](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00003_Mệnh_Lệnh_Bóng_Tối.md) (Dẫn nhập Huyết Độc Chi Họa)
         - [Chương 4: Thí Nghiệm Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00004_Thí_Nghiệm_Máu.md) (Song song Chương 3 chính)
         - [Chương 5: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00005_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
+    - **Diệp Tĩnh Sương (Hàn Mai Kiếm):**
+        - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
+        - [Ngoại Truyện: Tâm Sự Hàn Mai](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Ngoại_Truyện_Tâm_Sự.md) (Độc Thoại Nội Tâm)
 
 ## XII. CẬP NHẬT GẦN NHẤT
 - Viết lại Chương 15-20: Chuẩn hóa định dạng văn xuôi (Xóa bỏ cấu trúc đề cương).
