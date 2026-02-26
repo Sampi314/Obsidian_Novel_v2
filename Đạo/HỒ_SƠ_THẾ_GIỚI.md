@@ -287,6 +287,7 @@
     - [Chương 41: Mê Cung Tơ Độc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00041_Mê_Cung_Tơ_Độc.md)
     - [Chương 42: Huyết Chiến Nhện Chúa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00042_Huyết_Chiến_Nhện_Chúa.md)
     - [Chương 43: Thoát Khỏi Hang Động](Chương_Truyện/Góc_Nhìn_Chính/Chương_00043_Thoát_Khỏi_Hang_Động.md)
+    - [Chương 44: Ánh Sáng Và Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00044_Ánh_Sáng_Và_Bóng_Tối.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -298,6 +299,8 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 44 - Ánh Sáng Và Bóng Tối.
+- Tạo Prompt Ảnh: Huyết Linh Chi (Rừng Huyết Độc).
 - Viết Chương Truyện: Chương 43 - Thoát Khỏi Hang Động.
 - Tạo Kỳ vật: Huyết Linh Chi.
 - Viết Chương Truyện: Chương 42 - Huyết Chiến Nhện Chúa.

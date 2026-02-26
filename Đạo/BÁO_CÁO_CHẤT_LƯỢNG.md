@@ -88,3 +88,5 @@
 | 2026-03-08 | Tổng Quản | Viết Chương 42: Huyết Chiến Nhện Chúa | Hoàn Thành | Tiếp nối mạch truyện, tiêu diệt Boss Nhện Chúa và thoát khỏi hang động. |
 | 2026-03-09 | Tổng Quản | Viết Chương 43: Thoát Khỏi Hang Động | Hoàn Thành | Mô tả cuộc đào thoát và tìm thấy Huyết Linh Chi. |
 | 2026-03-09 | Tổng Quản | Tạo Kỳ vật: Huyết Linh Chi | Hoàn Thành | Linh thảo giúp hồi phục khí huyết và giải độc. |
+| 2026-03-10 | Tổng Quản | Tạo Prompt Ảnh: Huyết Linh Chi | Hoàn Thành | Tạo prompt visual cho Huyết Linh Chi trong Rừng Huyết Độc. |
+| 2026-03-10 | Tổng Quản | Viết Chương 44: Ánh Sáng Và Bóng Tối | Hoàn Thành | Tiếp nối mạch truyện, mô tả việc chữa trị cho Hứa Nhược Thủy và phát hiện vòng vây của Vạn Độc Môn. |
