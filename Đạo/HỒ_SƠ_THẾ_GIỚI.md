@@ -248,6 +248,7 @@
         - [Chương 5: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00005_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm):**
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
+        - [Ngoại Truyện: Tâm Sự Hàn Mai](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Ngoại_Truyện_Tâm_Sự.md) (Độc Thoại Nội Tâm)
 
 ## XII. CẬP NHẬT GẦN NHẤT
 - Viết Chương Truyện: Chương 21 - Độc Khí Công Tâm.
