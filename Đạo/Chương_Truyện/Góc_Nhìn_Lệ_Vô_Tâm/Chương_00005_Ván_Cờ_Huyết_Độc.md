@@ -1,4 +1,4 @@
-# Chương 4: Ván Cờ Huyết Độc
+# Chương 5: Ván Cờ Huyết Độc
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)

@@ -1,4 +1,4 @@
-# Chương 3: Thí Nghiệm Máu
+# Chương 4: Thí Nghiệm Máu
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
