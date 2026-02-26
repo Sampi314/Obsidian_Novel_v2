@@ -26,8 +26,10 @@
     - **Nhiệm Vụ Hiện Tại:** Khám phá lại hệ thống hang động, đối mặt với Nhện Mặt Quỷ (Hoàn thành - Chương 41).
     - **Sự Kiện Mới:** Phát hiện đường xuống Mạch Ngầm bị sập, bị vây hãm bởi Nhện Chúa và ổ trứng.
     - **Nhiệm Vụ Hiện Tại:** Tìm lối thoát hiểm qua khe nứt trên cao, chiến đấu mở đường máu (Hoàn thành - Chương 42).
-    - **Sự Kiện Mới:** Thoát khỏi Hang Động Nhện Quỷ, trở lại mặt đất Rừng Huyết Độc.
-    - **Nhiệm Vụ Tiếp Theo:** Tìm đường trở về Nam Cương hoặc tìm nơi ẩn náu mới trước khi trời tối.
+    - **Sự Kiện Mới:** Thoát khỏi Hang Động Nhện Quỷ, trở lại mặt đất Rừng Huyết Độc (Vùng Đất Chết).
+    - **Nhiệm Vụ Hiện Tại:** Tìm nơi ẩn náu và chữa trị cho Hứa Nhược Thủy bằng Huyết Linh Chi (Hoàn thành - Chương 43).
+    - **Sự Kiện Mới:** Tìm thấy Huyết Linh Chi, tạm thời thoát khỏi sự truy sát của bầy nhện.
+    - **Nhiệm Vụ Tiếp Theo:** Tìm đường thoát khỏi Rừng Huyết Độc để về Nam Cương.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
