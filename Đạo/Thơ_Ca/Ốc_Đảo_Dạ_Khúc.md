@@ -3,9 +3,30 @@
 **Thể loại:** Thất Ngôn Bát Cú
 **Tác giả:** Tổng Quản (Jules)
 **Xuất xứ:** [Chương 12: Thương Vụ Bạc Tỷ](../Chương_Truyện/Góc_Nhìn_Chính/Chương_00012_Thương_Vụ_Bạc_Tỷ.md)
-<!-- TODO: Thêm bản Tiếng Trung -->
+
 ---
 
+### Nguyên văn (Hán Tự):
+黃沙遍地月光垂
+綠洲青翠立天涯
+夜靜風高寒露冷
+湖光水碧弄雲姿
+商賈停驂忘舊恨
+劍俠磨刃待佳期
+片時且寄風塵外
+明日還登萬里逵
+
+### Phiên âm (Hán Việt):
+Hoàng sa biến địa nguyệt quang thùy,
+Lục châu thanh thúy lập thiên nhai.
+Dạ tĩnh phong cao hàn lộ lãnh,
+Hồ quang thủy bích lộng vân tư.
+Thương cổ đình tham vong cựu hận,
+Kiếm hiệp ma nhận đãi giai kỳ.
+Phiến thời thả ký phong trần ngoại,
+Minh nhật hoàn đăng vạn lý quỳ.
+
+### Dịch thơ (Tiếng Việt):
 Cát vàng trải rộng ánh trăng soi,
 Ốc đảo xanh tươi giữa đất trời.
 Gió lộng đêm thanh sương lạnh lẽo,
@@ -18,11 +39,11 @@ Ngày mai lại bước dặm đường khơi.
 ---
 
 **Dịch Nghĩa:**
-Cát vàng trải rộng dưới ánh trăng chiếu rọi,
-Ốc đảo xanh tươi nằm giữa đất trời bao la.
-Gió thổi mạnh trong đêm thanh vắng mang theo sương lạnh,
-Hồ nước trong xanh phản chiếu bóng mây trôi.
-Người thương nhân dừng chân tạm quên đi những lo âu,
-Người kiếm khách mài gươm chờ đợi "bữa tiệc" (ám chỉ trận chiến).
-Chỉ là một thoáng bình yên giữa vùng bão cát,
-Ngày mai lại tiếp tục bước đi trên dặm đường xa xôi.
+Cát vàng trải rộng khắp nơi, ánh trăng rủ xuống.
+Ốc đảo xanh tươi đứng nơi chân trời.
+Đêm tĩnh lặng, gió cao, sương móc lạnh lẽo.
+Ánh hồ nước biếc đùa giỡn với dáng mây.
+Người thương nhân dừng ngựa, quên đi những hận cũ (lo âu).
+Người kiếm khách mài lưỡi đao, chờ đợi thời cơ tốt (hoặc cuộc vui).
+Một chốc lát gửi mình bên ngoài cõi phong trần bão táp.
+Ngày mai lại lên đường vạn dặm xa xôi.

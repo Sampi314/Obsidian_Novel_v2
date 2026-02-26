@@ -246,6 +246,8 @@
         - [Chương 5: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00005_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Hoàn thiện hồ sơ: Băng Tâm Quyết (Cấu trúc Hán - Việt - Dịch).
+- Hoàn thiện hồ sơ: Ốc Đảo Dạ Khúc (Thêm bản Tiếng Trung).
 - Viết Chương Truyện: Chương 19 - Hành Trình Về Phía Đông.
 - Cập nhật Hồ sơ nhân vật: Hứa Nhược Thủy (Sửa lỗi cảnh giới con trai & thêm trạng thái trúng độc).
 - Viết Chương Truyện: Chương 18 - Huyết Chiến Trạm Dừng Chân.
