@@ -57,6 +57,10 @@
 | 2024-07-05 | Tổng Quản | Hoàn thiện Băng Tâm Quyết & Thơ ca | Hoàn Thành | Cập nhật cấu trúc Hán-Việt-Dịch cho Băng Tâm Quyết và thêm bản tiếng Trung cho Ốc Đảo Dạ Khúc theo chỉ dẫn người dùng. |
 | 2024-07-06 | Tổng Quản | Viết Chương 20 & Sáng tác Thơ | Hoàn Thành | Mô tả hành trình vượt biên giới Tây Mạc - Nam Cương. |
 | 2024-07-07 | Tổng Quản | Viết Chương 21 (Góc Nhìn Diệp Tĩnh Sương) | Hoàn Thành | Mô tả nội tâm Diệp Tĩnh Sương khi hy sinh tu vi cứu Hứa Nhược Thủy tại Rừng Huyết Độc. |
+| 2024-07-08 | Tổng Quản | Viết lại Chương 15-20 | Hoàn Thành | Chuẩn hóa định dạng văn xuôi, loại bỏ cấu trúc đề cương. Sửa lỗi thơ ca Chương 19-20. |
 | 2024-07-08 | Tổng Quản | Tạo Góc Nhìn Diệp Tĩnh Sương | Hoàn Thành | Tạo folder mới và viết Chương 1: Nhiệm Vụ Đơn Độc (Song song Chương 1 Chính). |
 | 2024-07-08 | Tổng Quản | Tạo Tâm Sự Diệp Tĩnh Sương | Hoàn Thành | Viết Ngoại Truyện: Tâm Sự Hàn Mai (Độc Thoại Nội Tâm). |
 | 2024-07-08 | Tổng Quản | Hợp nhất Góc Nhìn Diệp Tĩnh Sương | Hoàn Thành | Tích hợp nội dung Tâm Sự vào Chương 1 để mạch văn liền mạch hơn theo yêu cầu. |
+| 2024-07-09 | Tổng Quản | Tạo Hồ Sơ Nam Cương & Rừng Huyết Độc | Hoàn Thành | Tạo file thế giới cho Nam Cương và Rừng Huyết Độc. |
+| 2024-07-09 | Tổng Quản | Viết Chương 21 (Chính) | Hoàn Thành | Tạo lại Chương 21: Độc Khí Công Tâm (bị thiếu file). |
+| 2024-07-10 | Tổng Quản | Khôi phục Chương 21 | Hoàn Thành | Tạo lại file bị thiếu, xác minh nội dung Rừng Huyết Độc. |

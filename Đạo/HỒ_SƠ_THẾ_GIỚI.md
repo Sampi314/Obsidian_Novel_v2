@@ -11,7 +11,8 @@
     - Trung Tâm: Thiên Trụ Sơn.
     - Tứ Phương: Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
     - **Bắc Băng (Northern Ice Region):** Vùng đất băng giá vĩnh cửu, nơi ngự trị của Huyền Băng Cung và Băng Tộc. Nổi tiếng với Cực Quang và Băng Linh Khí.
-    - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc.
+    - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nam_Cương.md`.
+        - *Rừng Huyết Độc:* Khu rừng biên giới với những thân cây đỏ như máu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md`.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
@@ -250,6 +251,8 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Khôi phục Chương 21: Độc Khí Công Tâm (Bị thiếu file).
+- Viết lại Chương 15-20: Chuẩn hóa định dạng văn xuôi (Xóa bỏ cấu trúc đề cương).
 - Viết Chương Truyện: Chương 21 - Độc Khí Công Tâm.
 - Viết Chương Truyện: Chương 20 - Ranh Giới Sinh Tử.
 - Hoàn thiện hồ sơ: Băng Tâm Quyết (Cấu trúc Hán - Việt - Dịch).
