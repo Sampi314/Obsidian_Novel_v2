@@ -1,9 +1,8 @@
 # HỒ SƠ NHÂN VẬT: LỆ VÔ TÂM
 
-[ToDo: Thêm thông tin là Lệ Hữu Tâm Trước khi trở thành thánh tử]
-
 ## I. THÔNG TIN CƠ BẢN
 - **Tên:** Lệ Vô Tâm (厲無心).
+- **Tên Khai Sinh:** Lệ Hữu Tâm (厲有心).
 - **Danh Hiệu:** Vạn Độc Thánh Tử (萬毒聖子), Huyết Thủ Thư Sinh (血手書生).
 - **Tuổi/Thọ Nguyên:** 28/200 tuổi.
 - **Cảnh Giới:** Trúc Cơ Viên Mãn (Sắp ngưng tụ Giả Đan).
@@ -31,12 +30,15 @@
     - Hắn tin rằng Độc là cội nguồn của sự thanh lọc. Chỉ có kẻ mạnh nhất mới xứng đáng tồn tại sau khi trải qua vạn độc phệ thân.
 
 ## IV. LỊCH SỬ & XUẤT THÂN
-- **Xuất Thân:**
-    - Là trẻ mồ côi trong một ngôi làng bị dịch bệnh tàn phá (thực chất là do Vạn Độc Môn thả độc thử nghiệm).
-    - Hắn là người duy nhất sống sót trong ngôi làng đó nhờ cơ thể bẩm sinh kháng độc kỳ lạ.
+- **Xuất Thân (Thời kỳ Hữu Tâm):**
+    - Sinh ra với tên gọi **Lệ Hữu Tâm**, là một đứa trẻ mồ côi trong một ngôi làng biên giới bị dịch bệnh tàn phá (thực chất là do Vạn Độc Môn thả độc thử nghiệm).
+    - Hắn là người duy nhất sống sót nhờ cơ thể bẩm sinh kháng độc kỳ lạ. Năm 13 tuổi, hắn bị bắt về Vạn Độc Môn cùng với 99 đứa trẻ khác để làm "thức ăn" trong Huyết Trì.
+- **Biến Cố Huyết Trì (Sự ra đời của Vô Tâm):**
+    - Trong cuộc chiến sinh tồn tại Huyết Trì, hắn đã chứng kiến cái chết của **Tiểu Lan** - người bạn duy nhất chia sẻ bánh bao với mình - bị Huyết Rết sát hại.
+    - Sự kiện này đã giết chết phần "Hữu Tâm" lương thiện. Hắn điên cuồng giết chết con rết, uống máu độc của nó, và tàn sát 98 đứa trẻ còn lại để trở thành kẻ sống sót duy nhất.
 - **Gia Nhập Môn Phái:**
-    - Được Độc Cô Lão Quái phát hiện khi đi thu thập kết quả thí nghiệm. Lão Quái ấn tượng trước ánh mắt vô cảm của đứa trẻ ngồi giữa đống xác chết, bèn đem về nhận làm đệ tử.
-    - Trải qua 10 năm trong "Vạn Độc Quật", chiến thắng hàng trăm đệ tử khác trong các cuộc tàn sát đẫm máu để giành lấy vị trí Thánh Tử.
+    - Độc Cô Lão Quái ấn tượng trước sự tàn nhẫn và khả năng hấp thụ độc của hắn, bèn ban tên **Lệ Vô Tâm** và nhận làm đệ tử chân truyền.
+    - Trải qua 10 năm địa ngục trong "Vạn Độc Quật", hắn chiến thắng hàng trăm đệ tử khác trong các cuộc tàn sát đẫm máu để giành lấy vị trí Thánh Tử.
 - **Chiến Tích:**
     - Năm 20 tuổi (Trúc Cơ Sơ Kỳ), một mình độc chết toàn bộ gia tộc họ Lý ở biên giới Nam Cương chỉ vì họ từ chối nộp cống phẩm.
     - Năm 25 tuổi (Trúc Cơ Hậu Kỳ), hạ độc thủ trọng thương một trưởng lão Kim Đan Sơ Kỳ của tiểu tông môn, sau đó trốn thoát an toàn.
