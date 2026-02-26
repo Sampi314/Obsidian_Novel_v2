@@ -165,6 +165,7 @@
     - *Cửu Thiên Hàn Băng Trận (Cửu Cấp):* Trận pháp hộ sơn của Huyền Băng Cung, tạo ra bão tuyết và ảo ảnh băng giá. Xem tại `Đạo/Trận_Pháp/Cửu_Thiên_Hàn_Băng_Trận.md`.
     - *Vạn Độc Phệ Tâm Trận (Cửu Cấp):* Trận pháp hộ sơn của Vạn Độc Môn, dùng độc vụ và ảo giác giết chết kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Độc_Phệ_Tâm_Trận.md`.
     - *Vạn Mộc Hồi Xuân Trận (Cửu Cấp):* Trận pháp hộ sơn của Dược Vương Cốc, biến cây cối thành chiến binh và hồi phục linh lực vô tận. Xem tại `Đạo/Trận_Pháp/Vạn_Mộc_Hồi_Xuân_Trận.md`.
+    - *Vạn Độc Huyết Tế Đại Trận (Thiên Cấp Hạ Phẩm):* Cấm trận huyết đạo của Vạn Độc Môn, dùng để giam cầm, lùa địch và hấp thụ huyết khí. Xem tại `Đạo/Trận_Pháp/Vạn_Độc_Huyết_Tế_Đại_Trận.md`.
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Đan_Phá_Chướng_Đan.md`.
     - *Băng Tâm Đan (Huyền Cấp Hạ Phẩm):* Giúp tĩnh tâm, giải trừ hỏa độc, tăng khả năng tu luyện hệ Băng. Xem tại `Đạo/Đan_Dược/Băng_Tâm_Đan.md`.
@@ -213,6 +214,7 @@
     - *Vong Linh (Undead Spirit):* Hài cốt bị Địa Sát thao túng, có lửa linh hồn xanh lục, miễn nhiễm sát thương vật lý. Xem tại `Đạo/Kỳ_Vật/Vong_Linh.md`.
     - *Huyết Nhện Chúa:* Yêu thú biến dị cấp Trúc Cơ Trung Kỳ, thủ lĩnh của Nhện Mặt Quỷ. Xem tại `Đạo/Kỳ_Vật/Huyết_Nhện_Chúa.md`.
     - *Huyết Linh Chi:* Linh thảo hệ Huyết mọc trên rễ Huyết Mộc cổ thụ, có khả năng hồi phục khí huyết và giải độc. Xem tại `Đạo/Kỳ_Vật/Huyết_Linh_Chi.md`.
+    - *Huyết Vệ:* Tu sĩ bị Vạn Độc Môn cải tạo thành cỗ máy giết chóc, vô cảm và có sức mạnh thể chất kinh hồn. Xem tại `Đạo/Kỳ_Vật/Huyết_Vệ.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -288,6 +290,7 @@
     - [Chương 42: Huyết Chiến Nhện Chúa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00042_Huyết_Chiến_Nhện_Chúa.md)
     - [Chương 43: Thoát Khỏi Hang Động](Chương_Truyện/Góc_Nhìn_Chính/Chương_00043_Thoát_Khỏi_Hang_Động.md)
     - [Chương 44: Ánh Sáng Và Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00044_Ánh_Sáng_Và_Bóng_Tối.md)
+    - [Chương 45: Huyết Trận Khởi Động](Chương_Truyện/Góc_Nhìn_Chính/Chương_00045_Huyết_Trận_Khởi_Động.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -299,6 +302,9 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 45 - Huyết Trận Khởi Động.
+- Tạo Trận pháp: Vạn Độc Huyết Tế Đại Trận.
+- Tạo Kỳ vật: Huyết Vệ.
 - Viết Chương Truyện: Chương 44 - Ánh Sáng Và Bóng Tối.
 - Tạo Prompt Ảnh: Huyết Linh Chi (Rừng Huyết Độc).
 - Viết Chương Truyện: Chương 43 - Thoát Khỏi Hang Động.
