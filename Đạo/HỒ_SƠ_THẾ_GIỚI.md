@@ -282,6 +282,7 @@
     - [Chương 38: Huyết Chiến Lang Vương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00038_Huyết_Chiến_Lang_Vương.md)
     - [Chương 39: Vùng Đất Chết](Chương_Truyện/Góc_Nhìn_Chính/Chương_00039_Vùng_Đất_Chết.md)
     - [Chương 40: Huyết Chiến Cửa Hang](Chương_Truyện/Góc_Nhìn_Chính/Chương_00040_Huyết_Chiến_Cửa_Hang.md)
+    - [Chương 41: Mê Cung Tơ Độc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00041_Mê_Cung_Tơ_Độc.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -293,6 +294,7 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 41 - Mê Cung Tơ Độc.
 - Viết Chương Truyện: Chương 40 - Huyết Chiến Cửa Hang.
 - Tạo Kỳ vật: Vong Linh (Undead Spirit).
 - Viết Chương Truyện: Chương 39 - Vùng Đất Chết.
