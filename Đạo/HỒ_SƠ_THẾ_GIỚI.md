@@ -203,6 +203,7 @@
     - *Xương Rồng Thiên Trụ:* Thực vật khổng lồ vùng Tây Mạc, nhựa có khả năng giải độc và hồi phục. Xem tại `Đạo/Kỳ_Vật/Xương_Rồng_Thiên_Trụ.md`.
     - *Thiên Trụ Tương:* Nhựa cây quý hiếm từ Xương Rồng Thiên Trụ cổ đại, có khả năng hồi phục cực mạnh. Xem tại `Đạo/Kỳ_Vật/Thiên_Trụ_Tương.md`.
     - *Sa Hồ:* Loài cáo sa mạc thông minh, có khả năng tìm nước và dự báo bão. Xem tại `Đạo/Kỳ_Vật/Sa_Hồ.md`.
+    - *Mộc Linh Vệ:* Tinh linh thực vật bảo vệ Pháo Đài Xanh, kết từ dây leo và rễ cây. Xem tại `Đạo/Kỳ_Vật/Mộc_Linh_Vệ.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -268,6 +269,7 @@
     - [Chương 32: Sa Hồn Truy Kích](Chương_Truyện/Góc_Nhìn_Chính/Chương_00032_Sa_Hồn_Truy_Kích.md)
     - [Chương 33: Bí Mật Rừng Thiên Trụ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00033_Bí_Mật_Rừng_Thiên_Trụ.md)
     - [Chương 34: Pháo Đài Xanh](Chương_Truyện/Góc_Nhìn_Chính/Chương_00034_Pháo_Đài_Xanh.md)
+    - [Chương 35: Lối Mòn Trong Bão](Chương_Truyện/Góc_Nhìn_Chính/Chương_00035_Lối_Mòn_Trong_Bão.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -279,6 +281,8 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 35 - Lối Mòn Trong Bão.
+- Tạo Kỳ vật: Mộc Linh Vệ.
 - Viết Chương Truyện: Chương 34 - Pháo Đài Xanh.
 - Tạo Địa danh: Pháo Đài Xanh.
 - Tạo Kỳ vật: Thiên Trụ Tương & Sa Hồ.

@@ -15,9 +15,9 @@
     - **Sự Kiện Mới:** Phong ấn Long Cốt bị vỡ, Địa Sát thức tỉnh.
     - **Nhiệm Vụ:** Thoát khỏi Hoàng Sa Địa Cung đang sụp đổ và trở lại mặt đất (Đã hoàn thành chương 30).
     - **Sự Kiện Mới:** Hắc Sa Bão trỗi dậy do dư chấn Địa Sát.
-    - **Nhiệm Vụ Hiện Tại:** Sinh tồn trong Rừng Xương Rồng Thiên Trụ, khám phá bí mật của "Pháo Đài Xanh" (Đang diễn ra - Chương 34).
+    - **Nhiệm Vụ Hiện Tại:** Sinh tồn trong Rừng Xương Rồng Thiên Trụ, khám phá bí mật của "Pháo Đài Xanh" (Hoàn thành - Chương 34).
     - **Sự Kiện Mới:** Tìm thấy Pháo Đài Xanh, phát hiện manh mối về hệ thống trấn áp Địa Mạch (Long Cốt - Pháo Đài Xanh - Nam Cương).
-    - **Tiếp Theo:** Tìm đường về Nam Cương để tìm "Mộc Linh Châu" hoặc manh mối cân bằng địa mạch.
+    - **Tiếp Theo:** Tìm đường hầm bí mật xuyên qua bão cát để đến biên giới Nam Cương (Đang diễn ra - Chương 35).
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
