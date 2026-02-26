@@ -11,19 +11,19 @@
     - Khám phá bí mật Hoàng Sa Địa Cung (Khu vực Thâm Cung).
     - Tìm thuốc chữa độc cho Hứa Nhược Thủy (Sa Sương hoặc Long Cốt chi lực).
     - Vượt qua thử thách của Hộ Pháp Tinh Linh Lục Ly để tiếp cận Long Cốt (Đã hoàn thành).
-    - Dùng Thủy Linh Châu và Long Cốt để chữa trị/trấn áp độc tố.
-    - Tìm lối ra khỏi Thâm Cung và đối đầu với các thế lực tại Tây Mạc.
+    - Dùng Thủy Linh Châu và Long Cốt để chữa trị/trấn áp độc tố (Đã hoàn thành).
+    - Đối đầu với nguy cơ từ Long Cốt (Phong ấn vỡ) và tìm lối thoát.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
-*   **Trạng Thái:** Đang diễn ra (Tiền Truyện).
+*   **Trạng Thái:** Hoàn Thành (Tiền Truyện).
 *   **Tên Arc:** Đường Đến Thánh Vị (The Path to Sainthood).
 *   **Nhân Vật Chính:** Lệ Vô Tâm (Hữu Tâm).
 *   **Nhân Vật Phụ:** Các đệ tử Vạn Độc Môn khác, Các trưởng lão, Vật thí nghiệm.
 *   **Mục Tiêu:**
-    - Sống sót qua Huyết Trì.
-    - Tiêu diệt các đối thủ cạnh tranh.
-    - Trở thành Vạn Độc Thánh Tử duy nhất.
-    - **Yêu Cầu:** Hoàn thành 3-5 chương tiền truyện trước khi hợp lưu với cốt truyện chính.
+    - Sống sót qua Huyết Trì (Hoàn thành).
+    - Tiêu diệt các đối thủ cạnh tranh (Hoàn thành).
+    - Trở thành Vạn Độc Thánh Tử duy nhất (Hoàn thành).
+    - **Tiếp theo:** Hợp lưu với cốt truyện chính tại Nam Cương.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
@@ -57,8 +57,8 @@
 | :--- | :--- | :--- | :--- |
 | **Lâm Phong** | Chính | Hoạt động | Đang ở Tây Mạc. |
 | **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đang ở Tây Mạc. Có tuyến truyện nội tâm riêng. |
-| **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoạt động | Đang ở giai đoạn Tiền Truyện (Quá khứ). |
-| **Hứa Nhược Thủy** | Phụ (NPC) | Nguy kịch | Đang đi cùng nhóm chính, trúng Huyết Thần Độc. |
+| **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoàn Thành (Tiền Truyện) | Đã hoàn thành 5 chương tiền truyện. Sẵn sàng xuất hiện ở mạch chính. |
+| **Hứa Nhược Thủy** | Phụ (NPC) | Ổn định (Tạm thời) | Đã được chữa trị bằng Long Cốt, độc tố tạm thời bị đẩy lùi. |
 | **Hứa Thanh Vân** | Phụ (NPC) | Hoạt động | Đã được giải cứu. |
 
 ---
