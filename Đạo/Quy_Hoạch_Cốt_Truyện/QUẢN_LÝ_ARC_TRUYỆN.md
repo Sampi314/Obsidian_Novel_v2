@@ -19,15 +19,16 @@
     - **Tiếp Theo:** Tìm đường về Nam Cương và đối mặt với hệ quả của việc Long Cốt bị phá hủy.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
-*   **Trạng Thái:** Hoàn Thành (Tiền Truyện).
-*   **Tên Arc:** Đường Đến Thánh Vị (The Path to Sainthood).
+*   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
+*   **Tên Arc:** Mạng Lưới Vô Hình (Invisible Web).
 *   **Nhân Vật Chính:** Lệ Vô Tâm (Hữu Tâm).
-*   **Nhân Vật Phụ:** Các đệ tử Vạn Độc Môn khác, Các trưởng lão, Vật thí nghiệm.
+*   **Nhân Vật Phụ:** Huyết Vệ, Thiên Tinh Cổ.
 *   **Mục Tiêu:**
     - Sống sót qua Huyết Trì (Hoàn thành).
     - Tiêu diệt các đối thủ cạnh tranh (Hoàn thành).
     - Trở thành Vạn Độc Thánh Tử duy nhất (Hoàn thành).
-    - **Tiếp theo:** Hợp lưu với cốt truyện chính tại Nam Cương.
+    - **Mới:** Truy vết nhóm nhân vật chính vào Tây Mạc (Chương 6).
+    - **Tiếp theo:** Giăng bẫy tại biên giới Rừng Huyết Độc chờ đợi mục tiêu trở về.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
@@ -36,6 +37,7 @@
 *   **Mục Tiêu:**
     - Quá khứ tu luyện cùng sư phụ Cổ Kiếm Mạc.
     - Những nhiệm vụ đơn độc tách rời khỏi Lâm Phong.
+    - Gặp gỡ và đồng hành cùng Lâm Phong (Chương 2).
     - Nội tâm dằng xé giữa tình cảm và kiếm đạo.
 
 ---
@@ -61,7 +63,7 @@
 | :--- | :--- | :--- | :--- |
 | **Lâm Phong** | Chính | Hoạt động | Đang ở Tây Mạc (Bề mặt). |
 | **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đang ở Tây Mạc (Bề mặt). |
-| **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoàn Thành (Tiền Truyện) | Đã hoàn thành 5 chương tiền truyện. Sẵn sàng xuất hiện ở mạch chính. |
+| **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoạt động | Đã hoàn thành 6 chương. Đang truy đuổi nhóm nhân vật chính. |
 | **Hứa Nhược Thủy** | Phụ (NPC) | Ổn định (Tạm thời) | Đã được chữa trị, nhưng Long Cốt phong ấn đã vỡ. |
 | **Hứa Thanh Vân** | Phụ (NPC) | Hoạt động | Đã thoát khỏi Địa Cung. |
 | **Lục Ly** | Phụ (NPC) | Hy Sinh / Phong Ấn | Đã dùng linh hồn để tạm thời trấn áp Địa Sát. |
