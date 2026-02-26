@@ -95,3 +95,4 @@
 | 2026-03-11 | Tổng Quản | Tạo Trận pháp: Vạn Độc Huyết Tế Đại Trận | Hoàn Thành | Cấm trận bao trùm Rừng Huyết Độc. |
 | 2026-03-12 | Tổng Quản | Viết Chương 46: Vòng Vây Sinh Tử | Hoàn Thành | Tiếp nối mạch truyện, mô tả cuộc chiến sinh tử trong Vạn Độc Huyết Tế Đại Trận. |
 | 2026-03-12 | Tổng Quản | Viết Chương 47: Huyết Lộ Phá Trận | Hoàn Thành | Tiếp nối mạch truyện, tiêu diệt Huyết Tướng và phá hủy Mắt Trận Phụ. |
+| 2026-03-13 | Tổng Quản | Viết Chương 48 & Tạo Mộc Linh Trận Địa | Hoàn Thành | Viết Chương 48 (Tiếng Sáo Vượt Rừng) và tạo địa danh Mộc Linh Trận Địa. |
