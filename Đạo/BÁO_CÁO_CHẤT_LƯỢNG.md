@@ -67,3 +67,4 @@
 | 2026-02-26 | Tổng Quản | Viết Chương 22 & Cập nhật Hồ sơ | Hoàn Thành | Tiếp nối mạch truyện tại Rừng Huyết Độc. |
 | 2026-02-27 | Tổng Quản | Tạo Kỳ vật: Nhện Mặt Quỷ | Hoàn Thành | Quái vật chương 23. |
 | 2026-02-27 | Tổng Quản | Viết Chương 23: Hang Động Nhện Quỷ | Hoàn Thành | Tiếp nối mạch truyện tại Rừng Huyết Độc. |
+| 2026-02-27 | Tổng Quản | Viết Chương 24: Huyết Thi Trỗi Dậy | Hoàn Thành | Tiếp nối mạch truyện tại Rừng Huyết Độc. |

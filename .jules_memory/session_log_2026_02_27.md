@@ -20,3 +20,15 @@
 - **Ưu Tiên:**
     - Viết Chương 24: Tiếp tục diễn biến sau đêm nghỉ ngơi. Có thể là cuộc đụng độ trực tiếp với đệ tử Vạn Độc Môn hoặc tìm cách phá vòng vây.
     - Kiểm tra xem có cần bổ sung hồ sơ về "Thiên La Địa Võng" (Trận pháp vây hãm) hay không.
+
+## 5. Phiên Làm Việc 2 (Cùng Ngày)
+- **Mục Tiêu:** Viết tiếp Chương 24 theo kế hoạch.
+- **Thực Hiện:**
+    - Tạo `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00024_Huyết_Thi_Trỗi_Dậy.md`: Nhóm nhân vật phát hiện âm mưu "Dưỡng Thi" của Vạn Độc Môn và phải chiến đấu với Huyết Thi ngay trong hang động trú ẩn.
+    - Cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md` và `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+- **Ghi Chú Cốt Truyện:**
+    - Hang động không an toàn, nhóm nhân vật bị ép phải đi sâu vào lòng đất, mở ra hướng đi mới (Dungeon exploration).
+    - Hứa Nhược Thủy trúng độc nặng hơn do âm khí trong hang thúc đẩy.
+- **Kế Hoạch Tiếp Theo:**
+    - Viết Chương 25: Khám phá sâu hơn trong lòng đất, có thể gặp lối thoát hoặc bí mật lớn hơn của Vạn Độc Môn (Huyết Tướng?).
+    - Cân nhắc tạo hồ sơ cho địa danh mới dưới lòng đất nếu họ đi sâu vào (ví dụ: "Huyết Thi Huyệt" hoặc "Mạch Ngầm U Minh").
