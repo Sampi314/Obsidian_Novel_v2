@@ -36,13 +36,17 @@ def check_links(index_file="Đạo/HỒ_SƠ_THẾ_GIỚI.md"):
         if path.startswith("http") or path.startswith("https"):
             continue
 
+        if path.startswith("mailto:"):
+            continue
+
         # Determine full path
         if path.startswith("Đạo/"):
             # Path relative to repo root
             full_path = os.path.join(repo_root, path)
         elif path.startswith("/"):
-            # Absolute path (unlikely in MD but possible)
-            full_path = path
+             # If it starts with /, assume it's relative to repo root (GitHub style)
+            # Remove leading slash
+            full_path = os.path.join(repo_root, path.lstrip("/"))
         else:
             # Relative path to the file location
             full_path = os.path.join(base_dir, path)
@@ -61,6 +65,11 @@ def check_links(index_file="Đạo/HỒ_SƠ_THẾ_GIỚI.md"):
         return True
 
 if __name__ == "__main__":
-    success = check_links()
+    if len(sys.argv) > 1:
+        target_file = sys.argv[1]
+        success = check_links(target_file)
+    else:
+        success = check_links()
+
     if not success:
         sys.exit(1)
