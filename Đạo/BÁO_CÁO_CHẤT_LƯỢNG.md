@@ -71,3 +71,4 @@
 | 2026-02-28 | Tổng Quản | Tạo Địa Danh: Hang Động Nhện Quỷ | Hoàn Thành | Tạo hồ sơ chi tiết hang động, bao gồm Dưỡng Thi Địa và Mạch Ngầm. |
 | 2026-02-28 | Tổng Quản | Viết Chương 25: Mạch Ngầm Bí Ẩn | Hoàn Thành | Tiếp nối mạch truyện, kết nối Rừng Huyết Độc với Hoàng Sa Địa Cung. |
 | 2026-03-01 | Tổng Quản | Cập nhật Hán Văn cho Thơ Ca & Công Pháp | Hoàn Thành | Thêm Nguyên Văn (Hán Văn) và chuẩn hóa Hán Việt cho 3 bài thơ và 2 công pháp theo yêu cầu người dùng. |
+| 2026-03-02 | Tổng Quản | Viết Chương 27: Bí Mật Dưới Đáy Hồ | Hoàn Thành | Tiếp nối mạch truyện tại Hoàng Sa Thâm Cung, khám phá bí mật lịch sử. |

@@ -10,6 +10,7 @@
 *   **Mục Tiêu:**
     - Khám phá bí mật Hoàng Sa Địa Cung (Khu vực Thâm Cung).
     - Tìm thuốc chữa độc cho Hứa Nhược Thủy (Sa Sương hoặc Long Cốt chi lực).
+    - Vượt qua thử thách của Hộ Pháp Tinh Linh Lục Ly để tiếp cận Long Cốt.
     - Tìm lối ra khỏi Thâm Cung và đối đầu với các thế lực tại Tây Mạc.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
