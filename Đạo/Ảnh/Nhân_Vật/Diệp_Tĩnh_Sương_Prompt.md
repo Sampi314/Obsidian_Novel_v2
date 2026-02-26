@@ -1,31 +1,37 @@
 ---
-tên_nhân_vật: Diệp Tĩnh Sương
-loại: Nhân Vật
-nguồn_gốc: Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md
-người_tạo: Họa Sĩ Agent
+source: Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md
 ---
 
-# 🎨 YÊU CẦU VẼ: DIỆP TĨNH SƯƠNG
+# DIỆP TĨNH SƯƠNG (DIEP TINH SUONG)
 
-## 1. PHÂN TÍCH NHANH
-- **Chủ thể:** Nữ tu sĩ trẻ (25 tuổi), khí chất lạnh lùng như băng tuyết.
-- **Trang phục:** Bạch y (trắng tinh khôi) thêu hoa mai đỏ nhạt, kiếm vỏ trắng đeo hông.
-- **Bối cảnh:** Vùng tuyết phủ hoặc rừng mai trong tuyết.
-- **Điểm nhấn:** Đôi mắt lạnh lẽo, thanh thoát nhưng sắc bén.
+## MÔ TẢ CHI TIẾT (DESCRIPTION)
 
-## 2. PROMPT (NANO BANANA / ANIME STYLE)
-```text
-(masterpiece, best quality, ultra-detailed), (nano banana style),
-1girl, solo, young adult female, cultivation world, (martial arts aesthetic:1.2),
-(white hanfu:1.3), (red plum blossom patterns on clothes:1.1), wide sleeves, flowing fabric, elegant traditional chinese clothes,
-long black hair, straight hair, hair ornament,
-(cold expression:1.2), (black eyes:1.1), pale skin, sharp features, high nose, aloof, intense gaze,
-(white sword at waist:1.2), ornate sword hilt, hand resting on sword handle, ready to draw,
-(snowy background:1.3), falling snow, winter, ice crystals, frost, blooming red plum blossom tree in background,
-cinematic lighting, cold blue ambient light, depth of field, sharp focus, dynamic angle.
-Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, western clothes, modern clothes, warm colors, smile.
+**Bối cảnh (Setting):**
+Đứng giữa trời tuyết rơi hoặc trên đỉnh núi băng giá. Khung cảnh lạnh lẽo, cô độc.
+
+**Yếu tố chính (Key Elements):**
+1.  **Ngoại hình (Appearance):** Nữ tu sĩ 25 tuổi, cao ráo, mảnh mai. Làn da trắng như tuyết, đôi mắt đen láy, lạnh lùng và sâu thẳm.
+2.  **Trang phục (Attire):** Y phục tu tiên màu trắng tinh khôi (white cultivation robe), vạt áo thêu họa tiết hoa mai đỏ nhạt (red plum blossoms).
+3.  **Vũ khí (Weapon):** Thanh trường kiếm "Tuyết Ảnh" (Snow Shadow) vỏ trắng, toát ra hàn khí.
+4.  **Khí chất (Aura):** Lãnh đạm, xa cách, sắc bén như kiếm, thanh cao như hoa mai trong tuyết.
+
+**Phong cách (Style):**
+-   Xianxia / Anime Style (Nano Banana).
+-   Tông màu chủ đạo: Trắng (White), Xanh băng (Ice Blue), Điểm xuyết Đỏ (Red).
+-   Cảm giác: Lạnh lùng (Cold), Cô độc (Solitary), Kiên cường.
+
+## GỢI Ý PROMPT (ENGLISH)
+
+```
+(best quality, masterpiece, ultra-detailed, 8k wallpaper), (nano banana style),
+1girl, solo, 25 years old, cold beauty, ice princess vibe, white skin, intense black eyes,
+wearing white hanfu with red plum blossom embroidery, flowing robes,
+holding a white sheathed sword (Snow Shadow sword), ice aura, snowflakes falling,
+winter mountain background, snowy peak, overcast sky,
+cold lighting, sharp focus, ethereal, elegant, aloof.
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, warm colors, smiling, sexy, heavy armor.
 ```
 
-## 3. GỢI Ý LƯU TRỮ
-- **Tên file:** `Diep_Tinh_Suong_Chan_Dung.png`
-- **Thư mục:** `Đạo/Ảnh/Nhân_Vật/`
+## GHI CHÚ CHO HỌA SĨ
+-   Điểm nhấn là họa tiết hoa mai đỏ trên nền áo trắng.
+-   Biểu cảm gương mặt phải lạnh lùng, không cười.

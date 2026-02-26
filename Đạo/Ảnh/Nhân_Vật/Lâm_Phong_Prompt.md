@@ -1,31 +1,38 @@
 ---
-tên_nhân_vật: Lâm Phong
-loại: Nhân Vật
-nguồn_gốc: Đạo/Nhân_Vật/Lâm_Phong.md
-người_tạo: Họa Sĩ Agent
+source: Đạo/Nhân_Vật/Lâm_Phong.md
 ---
 
-# 🎨 YÊU CẦU VẼ: LÂM PHONG
+# LÂM PHONG (LAM PHONG)
 
-## 1. PHÂN TÍCH NHANH
-- **Chủ thể:** Nam thiếu niên (18 tuổi), thợ săn, khỏe khoắn.
-- **Trang phục:** Y phục gọn gàng màu xanh lá/nâu đất, đeo cung lớn (Huyết Đằng) và ống tên sau lưng.
-- **Bối cảnh:** Rừng già u tối hoặc bìa rừng ngập nắng.
-- **Điểm nhấn:** Làn da bánh mật, nụ cười phóng khoáng, ánh mắt sắc như ưng.
+## MÔ TẢ CHI TIẾT (DESCRIPTION)
 
-## 2. PROMPT (NANO BANANA / ANIME STYLE)
-```text
-(masterpiece, best quality, ultra-detailed), (nano banana style),
-1boy, solo, young adult male, 18 years old, hunter, cultivation world,
-(tanned skin:1.2), fit physique, angular face, sharp eyes, confident smile, smirk,
-(green and brown hunter clothes:1.2), simple tunic, leather accessories, arm guards, practical outfit,
-(large wooden bow on back:1.3), red wood bow, (quiver of arrows:1.2),
-short messy brown hair, windblown, energetic vibe,
-(forest background:1.3), ancient trees, jungle, sunlight filtering through leaves, nature, lush greenery,
-cinematic lighting, warm dappled light, depth of field, sharp focus, dynamic angle, looking afar.
-Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, formal wear, heavy armor, sword, indoor, pale skin.
+**Bối cảnh (Setting):**
+Giữa sa mạc nắng cháy hoặc trong một tàn tích cổ đại.
+
+**Yếu tố chính (Key Elements):**
+1.  **Ngoại hình (Appearance):** Nam thanh niên 18-20 tuổi, rắn rỏi, da ngăm đen vì nắng gió sa mạc. Khuôn mặt kiên nghị, đôi mắt sáng và tinh anh.
+2.  **Trang phục (Attire):** Y phục gọn gàng màu xám hoặc xanh đen (bụi bặm), quấn khăn che mặt hoặc khăn trùm đầu đặc trưng của dân du mục sa mạc.
+3.  **Vũ khí/Công pháp:** Sử dụng "Liệt Diễm Sa Công", quanh người có cát nóng và lửa bao quanh. Tay có thể cầm một thanh đao hoặc kiếm cũ kỹ nhưng sắc bén.
+4.  **Khí chất (Aura):** Mạnh mẽ, sinh tồn, không khuất phục.
+
+**Phong cách (Style):**
+-   Shonen / Xianxia Style.
+-   Tông màu chủ đạo: Vàng cam (Desert/Fire), Xám (Grey), Đỏ (Red).
+-   Cảm giác: Nóng bỏng (Heat), Bụi bặm (Gritty), Quyết tâm (Determined).
+
+## GỢI Ý PROMPT (ENGLISH)
+
+```
+(best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),
+1boy, solo, 20 years old, rogue cultivator, tough look, tanned skin, messy black hair,
+wearing worn-out grey desert traveler clothes, scarf around neck,
+surrounded by swirling sand and fire aura (Lie Diem Sa Cong),
+holding a weathered blade, desert background, sand dunes, scorching sun,
+heat haze, dynamic pose, fighting stance,
+cinematic lighting, intense expression.
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, noble clothes, clean, ice, snow, water.
 ```
 
-## 3. GỢI Ý LƯU TRỮ
-- **Tên file:** `Lam_Phong_Chan_Dung.png`
-- **Thư mục:** `Đạo/Ảnh/Nhân_Vật/`
+## GHI CHÚ CHO HỌA SĨ
+-   Nhân vật phải toát lên vẻ "bụi đời" và sự khắc nghiệt của môi trường sa mạc.
+-   Hiệu ứng lửa và cát phải hòa quyện vào nhau.
