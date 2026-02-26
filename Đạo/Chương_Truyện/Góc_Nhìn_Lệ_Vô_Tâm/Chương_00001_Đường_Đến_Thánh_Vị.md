@@ -53,7 +53,7 @@ Ta quỳ xuống, cúi đầu thật thấp, che giấu nụ cười méo mó tr
 *Tiểu Lan à, cái bánh bao đó... ta đã trả lại bằng chín mươi tám mạng người và cả một con Huyết Rết ngàn năm. Đủ chưa?*
 
 ***
-
+[TODO:  Cần phải có thêm những chap thể hiện 10 năm qua hắn sống như thế nào. AI hãy tạo thêm 1 nhánh và cốt truyện riêng cho Lệ Vô Tâm. Trước khi gặp góc nhìn chính]
 Mười năm trôi qua.
 
 Mười năm sống trong Vạn Độc Môn, ta đã học được cách biến cơ thể mình thành một vũ khí sống. [Vạn Độc Chân Kinh](../../Công_Pháp/Vạn_Độc_Chân_Kinh.md) đã tôi luyện kinh mạch ta, khiến mỗi giọt máu của ta đều chứa kịch độc. Ta đã thu phục [Thiên Tinh Cổ](../../Kỳ_Vật/Thiên_Tinh_Cổ.md), luyện chế [Huyết Độc Phiến](../../Luyện_Khí/Huyết_Độc_Phiến.md), và dẫm đạp lên xương cốt của vô số sư huynh đệ đồng môn để giữ vững vị trí Thánh Tử.
