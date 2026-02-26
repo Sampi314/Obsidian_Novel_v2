@@ -65,3 +65,5 @@
 | 2024-07-09 | Tổng Quản | Viết Chương 21 (Chính) | Hoàn Thành | Tạo lại Chương 21: Độc Khí Công Tâm (bị thiếu file). |
 | 2024-07-10 | Tổng Quản | Khôi phục Chương 21 | Hoàn Thành | Tạo lại file bị thiếu, xác minh nội dung Rừng Huyết Độc. |
 | 2026-02-26 | Tổng Quản | Viết Chương 22 & Cập nhật Hồ sơ | Hoàn Thành | Tiếp nối mạch truyện tại Rừng Huyết Độc. |
+| 2026-02-27 | Tổng Quản | Tạo Kỳ vật: Nhện Mặt Quỷ | Hoàn Thành | Quái vật chương 23. |
+| 2026-02-27 | Tổng Quản | Viết Chương 23: Hang Động Nhện Quỷ | Hoàn Thành | Tiếp nối mạch truyện tại Rừng Huyết Độc. |
