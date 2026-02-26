@@ -82,3 +82,5 @@
 | 2026-03-07 | Tổng Quản | Viết Chương 36: Ranh Giới Tử Thần | Hoàn Thành | Chính thức bước vào Rừng Huyết Độc (Nam Cương), đối mặt với chướng khí. |
 | 2026-03-07 | Tổng Quản | Viết Chương 39: Vùng Đất Chết | Hoàn Thành | Tiếp nối mạch truyện, mô tả vùng đất bị nguyền rủa bởi Địa Sát. |
 | 2026-03-07 | Tổng Quản | Tạo Địa Danh: Vùng Đất Chết | Hoàn Thành | Tạo hồ sơ chi tiết khu vực cấm địa mới trong Rừng Huyết Độc. |
+| 2026-03-07 | Tổng Quản | Viết Chương 40: Huyết Chiến Cửa Hang | Hoàn Thành | Tiếp nối mạch truyện, mô tả cuộc chiến với Vong Linh tại cửa hang. |
+| 2026-03-07 | Tổng Quản | Tạo Kỳ vật: Vong Linh | Hoàn Thành | Quái vật xương cốt bị Địa Sát thao túng. |
