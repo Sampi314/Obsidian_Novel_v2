@@ -2,9 +2,9 @@
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Địa điểm:** Vạn Độc Môn (Huyết Trì) và Thôn Lạc Diệp.
-**Thời điểm:** Từ 10 năm trước đến Hiện tại (Bắt đầu "Huyết Độc Chi Họa").
-**Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ) dẫn đến [Chương 1: Dấu Hiệu Tai Ương](../Góc_Nhìn_Chính/Chương_00001_Dấu_Hiệu_Tai_Ương.md).
+**Địa điểm:** Vạn Độc Môn (Huyết Trì).
+**Thời điểm:** 10 năm trước (Hữu Tâm 13 tuổi).
+**Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ).
 
 ---
 
@@ -51,29 +51,3 @@ Khi bình minh lên, chỉ còn một mình ta đứng vững giữa biển xác
 Ta quỳ xuống, cúi đầu thật thấp, che giấu nụ cười méo mó trên môi.
 
 *Tiểu Lan à, cái bánh bao đó... ta đã trả lại bằng chín mươi tám mạng người và cả một con Huyết Rết ngàn năm. Đủ chưa?*
-
-***
-[TODO:  Cần phải có thêm những chap thể hiện 10 năm qua hắn sống như thế nào. AI hãy tạo thêm 1 nhánh và cốt truyện riêng cho Lệ Vô Tâm. Trước khi gặp góc nhìn chính]
-Mười năm trôi qua.
-
-Mười năm sống trong Vạn Độc Môn, ta đã học được cách biến cơ thể mình thành một vũ khí sống. [Vạn Độc Chân Kinh](../../Công_Pháp/Vạn_Độc_Chân_Kinh.md) đã tôi luyện kinh mạch ta, khiến mỗi giọt máu của ta đều chứa kịch độc. Ta đã thu phục [Thiên Tinh Cổ](../../Kỳ_Vật/Thiên_Tinh_Cổ.md), luyện chế [Huyết Độc Phiến](../../Luyện_Khí/Huyết_Độc_Phiến.md), và dẫm đạp lên xương cốt của vô số sư huynh đệ đồng môn để giữ vững vị trí Thánh Tử.
-
-Nhưng tham vọng của ta không dừng lại ở đó. Độc Cô Lão Quái muốn ta trở thành con chó trung thành của lão, nhưng ta muốn nhiều hơn thế. Ta muốn sức mạnh tuyệt đối.
-
-"Thánh Tử," một tên đệ tử áo đen quỳ xuống trước mặt ta, cắt ngang dòng suy nghĩ. "Sư tôn có lệnh."
-
-Ta phe phẩy chiếc quạt xương, lạnh nhạt hỏi: "Chuyện gì?"
-
-"Thôn Lạc Diệp. Kế hoạch [Huyết Thần Độc](../../Kỳ_Vật/Huyết_Thần_Độc.md) đã đến giai đoạn thử nghiệm cuối cùng. Sư tôn muốn ngài đích thân đến đó giám sát và... dọn dẹp nếu có biến."
-
-Lạc Diệp. Cái tên nghe thật thê lương. Ta nhếch mép cười. Một ngôi làng nhỏ bé nằm ở rìa Vĩnh Hằng Sâm Lâm, nơi sẽ trở thành nấm mồ chôn vùi những sinh mạng vô tội để phục vụ cho đại nghiệp của Vạn Độc Môn.
-
-"Ta hiểu rồi. Chuẩn bị đi."
-
-Ta đứng dậy, nhìn về phía chân trời đỏ rực ánh hoàng hôn. Mười năm trước, ta là nạn nhân của sự tàn độc. Mười năm sau, ta là kẻ gieo rắc nó.
-
-Đường đến thánh vị, trải đầy xương trắng và máu tươi. Và Lạc Diệp Thôn... sẽ là nấc thang tiếp theo của ta.
-
-Ta bước ra khỏi đại điện, bóng áo bào đen dài quét trên nền đá lạnh lẽo, để lại phía sau một vệt khói độc mờ ảo.
-
-*Hữu Tâm đã chết. Giờ đây, chỉ còn lại Lệ Vô Tâm.*
