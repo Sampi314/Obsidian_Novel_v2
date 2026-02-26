@@ -23,6 +23,7 @@
         - *Ốc Đảo Thanh Lương:* Điểm dừng chân an toàn với nguồn nước chữa lành. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Ốc_Đảo_Thanh_Lương.md`.
         - *Trạm Dừng Chân Số 7:* Pháo đài trung chuyển của Thiên Sa Thương Hội, cửa ngõ vào sa mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Trạm_Dừng_Chân_Số_7.md`.
         - *Hắc Sa Bão:* Hiện tượng thiên nhiên tàn khốc đặc trưng của Tây Mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hắc_Sa_Bão.md`.
+        - *Pháo Đài Xanh:* Thánh địa ẩn giấu trong Rừng Thiên Trụ, nơi trấn áp Phong Sát. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Pháo_Đài_Xanh.md`.
 - **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`.
 - **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
 
@@ -196,6 +197,8 @@
     - *Thủy Linh Châu:* Bảo vật trấn quốc của Hoàng Sa Quốc, có khả năng thanh tẩy độc tố và điều khiển thủy lực. Xem tại `Đạo/Kỳ_Vật/Thủy_Linh_Châu.md`.
     - *Thủy Thi:* Xác chết dưới nước bị biến đổi thành quái vật, da trắng bệch, sợ lửa. Xem tại `Đạo/Kỳ_Vật/Thủy_Thi.md`.
     - *Xương Rồng Thiên Trụ:* Thực vật khổng lồ vùng Tây Mạc, nhựa có khả năng giải độc và hồi phục. Xem tại `Đạo/Kỳ_Vật/Xương_Rồng_Thiên_Trụ.md`.
+    - *Thiên Trụ Tương:* Nhựa cây quý hiếm từ Xương Rồng Thiên Trụ cổ đại, có khả năng hồi phục cực mạnh. Xem tại `Đạo/Kỳ_Vật/Thiên_Trụ_Tương.md`.
+    - *Sa Hồ:* Loài cáo sa mạc thông minh, có khả năng tìm nước và dự báo bão. Xem tại `Đạo/Kỳ_Vật/Sa_Hồ.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -260,6 +263,7 @@
     - [Chương 31: Hắc Sa Bão Trỗi Dậy](Chương_Truyện/Góc_Nhìn_Chính/Chương_00031_Hắc_Sa_Bão_Trỗi_Dậy.md)
     - [Chương 32: Sa Hồn Truy Kích](Chương_Truyện/Góc_Nhìn_Chính/Chương_00032_Sa_Hồn_Truy_Kích.md)
     - [Chương 33: Bí Mật Rừng Thiên Trụ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00033_Bí_Mật_Rừng_Thiên_Trụ.md)
+    - [Chương 34: Pháo Đài Xanh](Chương_Truyện/Góc_Nhìn_Chính/Chương_00034_Pháo_Đài_Xanh.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -271,6 +275,9 @@
         - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 34 - Pháo Đài Xanh.
+- Tạo Địa danh: Pháo Đài Xanh.
+- Tạo Kỳ vật: Thiên Trụ Tương & Sa Hồ.
 - Viết Chương Truyện: Chương 33 - Bí Mật Rừng Thiên Trụ.
 - Tạo Kỳ vật: Xương Rồng Thiên Trụ.
 - Viết Chương Truyện: Chương 32 - Sa Hồn Truy Kích.
