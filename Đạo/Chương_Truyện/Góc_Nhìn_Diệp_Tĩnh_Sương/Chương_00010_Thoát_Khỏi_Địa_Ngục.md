@@ -4,7 +4,7 @@
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 11: Thoát Khỏi Địa Ngục
+# Chương 10: Thoát Khỏi Địa Ngục
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)

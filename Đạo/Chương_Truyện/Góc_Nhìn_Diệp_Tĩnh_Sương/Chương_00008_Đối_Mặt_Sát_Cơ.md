@@ -12,7 +12,7 @@ Ghi_Chú: Suy nghĩ nội tâm của Diệp Tĩnh Sương trên đường tiến
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 9: Đối Mặt Sát Cơ
+# Chương 8: Đối Mặt Sát Cơ
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)

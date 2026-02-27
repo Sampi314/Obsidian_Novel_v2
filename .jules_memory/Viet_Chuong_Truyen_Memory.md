@@ -174,3 +174,18 @@
 - **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy, Huyết Vệ, Huyết Tướng.
 - **Địa điểm:** Rừng Huyết Độc (Trong Trận Pháp).
 - **Tiến độ Arc:** Cao trào trận chiến sinh tử, bắt đầu phá trận.
+
+## [2026-03-31] Chương 54: Thí Nghiệm Trên Người Sống (Lệ Vô Tâm)
+- **Nội dung:** Lệ Vô Tâm dùng tán tu để thử nghiệm Huyết Độc Dung Dịch và sáng tạo ra Vạn Độc Thối Thể Dịch.
+- **Nhân vật:** Lệ Vô Tâm.
+- **Địa điểm:** Hang Động Bí Mật.
+
+## [2026-03-31] Chương 55: Đột Phá Trúc Cơ Trung Kỳ (Lệ Vô Tâm)
+- **Nội dung:** Hắn dùng Vạn Độc Thối Thể Dịch rèn luyện kinh mạch trong đau đớn, đột phá Trúc Cơ Trung Kỳ và hình thành Huyết Độc Chân Khí.
+- **Nhân vật:** Lệ Vô Tâm.
+- **Địa điểm:** Hang Động Bí Mật.
+
+## [2026-03-31] Chương 56: Sự Ghen Ghét Của Đồng Môn (Lệ Vô Tâm)
+- **Nội dung:** Lệ Vô Tâm trở thành mối đe dọa với các đệ tử chân truyền khác. Triệu Hàn, Tôn Mộc lập mưu dùng Vạn Tinh Tuyệt Sát Trận hãm hại hắn tại Quỷ Khốc Cốc.
+- **Nhân vật:** Lệ Vô Tâm, Triệu Hàn, Tôn Mộc.
+- **Địa điểm:** Vạn Độc Môn.

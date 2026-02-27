@@ -297,28 +297,28 @@ window.chapterData = {
       "title": "Chương 4: Nhiệm Vụ Đơn Độc"
     },
     {
-      "filename": "Chương_00006_Hội_Ngộ_Bất_Ngờ.md",
-      "title": "Chương 6: Hội Ngộ Bất Ngờ"
+      "filename": "Chương_00005_Hội_Ngộ_Bất_Ngờ.md",
+      "title": "Chương 5: Hội Ngộ Bất Ngờ"
     },
     {
-      "filename": "Chương_00007_Quyết_Định_Sinh_Tử.md",
-      "title": "Chương 7: Quyết Định Sinh Tử"
+      "filename": "Chương_00006_Quyết_Định_Sinh_Tử.md",
+      "title": "Chương 6: Quyết Định Sinh Tử"
     },
     {
-      "filename": "Chương_00008_Lời_Thề_Kiếm_Khách.md",
-      "title": "Chương 8: Lời Thề Kiếm Khách"
+      "filename": "Chương_00007_Lời_Thề_Kiếm_Khách.md",
+      "title": "Chương 7: Lời Thề Kiếm Khách"
     },
     {
-      "filename": "Chương_00009_Đối_Mặt_Sát_Cơ.md",
-      "title": "Chương 9: Đối Mặt Sát Cơ"
+      "filename": "Chương_00008_Đối_Mặt_Sát_Cơ.md",
+      "title": "Chương 8: Đối Mặt Sát Cơ"
     },
     {
-      "filename": "Chương_00010_Lạc_Giữa_Thâm_Cung.md",
-      "title": "Chương 10: Lạc Giữa Thâm Cung"
+      "filename": "Chương_00009_Lạc_Giữa_Thâm_Cung.md",
+      "title": "Chương 9: Lạc Giữa Thâm Cung"
     },
     {
-      "filename": "Chương_00011_Thoát_Khỏi_Địa_Ngục.md",
-      "title": "Chương 11: Thoát Khỏi Địa Ngục"
+      "filename": "Chương_00010_Thoát_Khỏi_Địa_Ngục.md",
+      "title": "Chương 10: Thoát Khỏi Địa Ngục"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
@@ -447,52 +447,140 @@ window.chapterData = {
       "title": "Chương 31: Huyết Độc Phiến"
     },
     {
+      "filename": "Chương_00032_Thử_Nghiệm_Vũ_Khí.md",
+      "title": "Chương 32: Thử Nghiệm Vũ Khí"
+    },
+    {
       "filename": "Chương_00033_Bẫy_Rập_Rừng_Sương.md",
-      "title": "Chương 2.2: Bẫy Rập Rừng Sương"
+      "title": "Chương 33: Bẫy Rập Rừng Sương"
+    },
+    {
+      "filename": "Chương_00034_Mạng_Lưới_Tình_Báo.md",
+      "title": "Chương 34: Mạng Lưới Tình Báo"
+    },
+    {
+      "filename": "Chương_00035_Nhiệm_Vụ_Đầu_Tiên.md",
+      "title": "Chương 35: Nhiệm Vụ Đầu Tiên"
     },
     {
       "filename": "Chương_00036_Diệt_Môn_Chi_Họa.md",
-      "title": "Chương 2.5: Diệt Môn Chi Họa"
+      "title": "Chương 36: Diệt Môn Chi Họa"
+    },
+    {
+      "filename": "Chương_00037_Bí_Mật_Huyết_Tinh_Sa.md",
+      "title": "Chương 37: Bí Mật Huyết Tinh Sa"
+    },
+    {
+      "filename": "Chương_00038_Đối_Đầu_Tán_Tu.md",
+      "title": "Chương 38: Đối Đầu Tán Tu"
     },
     {
       "filename": "Chương_00039_Thanh_Trừng_Nội_Bộ.md",
-      "title": "Chương 2.8: Thanh Trừng Nội Bộ"
+      "title": "Chương 39: Thanh Trừng Nội Bộ"
+    },
+    {
+      "filename": "Chương_00040_Dục_Vọng_Và_Quyền_Lực.md",
+      "title": "Chương 40: Dục Vọng Và Quyền Lực"
+    },
+    {
+      "filename": "Chương_00041_Bóng_Ma_Rừng_Trúc.md",
+      "title": "Chương 41: Bóng Ma Rừng Trúc"
+    },
+    {
+      "filename": "Chương_00042_Huyết_Ảnh_Bộ.md",
+      "title": "Chương 42: Huyết Ảnh Bộ"
+    },
+    {
+      "filename": "Chương_00043_Cuộc_Săn_Đêm.md",
+      "title": "Chương 43: Cuộc Săn Đêm"
+    },
+    {
+      "filename": "Chương_00044_Huyết_Chiến_Sơn_Tặc.md",
+      "title": "Chương 44: Huyết Chiến Sơn Tặc"
+    },
+    {
+      "filename": "Chương_00045_Đối_Thủ_Xứng_Tầm.md",
+      "title": "Chương 45: Đối Thủ Xứng Tầm"
+    },
+    {
+      "filename": "Chương_00046_Vết_Thương_Chí_Mạng.md",
+      "title": "Chương 46: Vết Thương Chí Mạng"
+    },
+    {
+      "filename": "Chương_00047_Chữa_Thương_Trong_Hang_Độc.md",
+      "title": "Chương 47: Chữa Thương Trong Hang Độc"
+    },
+    {
+      "filename": "Chương_00048_Sự_Trở_Lại_Tàn_Khốc.md",
+      "title": "Chương 48: Sự Trở Lại Tàn Khốc"
+    },
+    {
+      "filename": "Chương_00049_Danh_Hiệu_Huyết_Thủ.md",
+      "title": "Chương 49: Danh Hiệu Huyết Thủ"
+    },
+    {
+      "filename": "Chương_00050_Cơn_Ác_Mộng_Nam_Cương.md",
+      "title": "Chương 50: Cơn Ác Mộng Nam Cương"
+    },
+    {
+      "filename": "Chương_00051_Lời_Mời_Từ_Bóng_Tối.md",
+      "title": "Chương 51: Lời Mời Từ Bóng Tối"
+    },
+    {
+      "filename": "Chương_00052_Giao_Dịch_Ngầm.md",
+      "title": "Chương 52: Giao Dịch Ngầm"
+    },
+    {
+      "filename": "Chương_00053_Bí_Mật_Cổ_Trùng.md",
+      "title": "Chương 53: Bí Mật Cổ Trùng"
+    },
+    {
+      "filename": "Chương_00054_Thí_Nghiệm_Trên_Người_Sống.md",
+      "title": "Chương 54: Thí Nghiệm Trên Người Sống"
+    },
+    {
+      "filename": "Chương_00055_Đột_Phá_Trúc_Cơ_Trung_Kỳ.md",
+      "title": "Chương 55: Đột Phá Trúc Cơ Trung Kỳ"
+    },
+    {
+      "filename": "Chương_00056_Sự_Ghen_Ghét_Của_Đồng_Môn.md",
+      "title": "Chương 56: Sự Ghen Ghét Của Đồng Môn"
     },
     {
       "filename": "Chương_00061_Mệnh_Lệnh_Bóng_Tối.md",
-      "title": "Chương 3: Mệnh Lệnh Bóng Tối"
+      "title": "Chương 61: Mệnh Lệnh Bóng Tối"
     },
     {
       "filename": "Chương_00062_Thí_Nghiệm_Máu.md",
-      "title": "Chương 4: Thí Nghiệm Máu"
+      "title": "Chương 62: Thí Nghiệm Máu"
     },
     {
       "filename": "Chương_00063_Ván_Cờ_Huyết_Độc.md",
-      "title": "Chương 5: Ván Cờ Huyết Độc"
+      "title": "Chương 63: Ván Cờ Huyết Độc"
     },
     {
       "filename": "Chương_00064_Truy_Vết_Tử_Thần.md",
-      "title": "Chương 6: Truy Vết Tử Thần"
+      "title": "Chương 64: Truy Vết Tử Thần"
     },
     {
       "filename": "Chương_00065_Dưới_Bóng_Hắc_Sa.md",
-      "title": "Chương 7: Dưới Bóng Hắc Sa"
+      "title": "Chương 65: Dưới Bóng Hắc Sa"
     },
     {
       "filename": "Chương_00066_Huyết_Tế_Sa_Mạc.md",
-      "title": "Chương 8: Huyết Tế Sa Mạc"
+      "title": "Chương 66: Huyết Tế Sa Mạc"
     },
     {
       "filename": "Chương_00067_Sát_Ý_Rừng_Gai.md",
-      "title": "Chương 9: Sát Ý Rừng Gai"
+      "title": "Chương 67: Sát Ý Rừng Gai"
     },
     {
       "filename": "Chương_00068_Mạng_Lưới_Tử_Thần.md",
-      "title": "Chương 10: Mạng Lưới Tử Thần"
+      "title": "Chương 68: Mạng Lưới Tử Thần"
     },
     {
       "filename": "Chương_00069_Con_Mồi_Vào_Rọ.md",
-      "title": "Chương 11: Con Mồi Vào Rọ"
+      "title": "Chương 69: Con Mồi Vào Rọ"
     }
   ]
 };
