@@ -16,6 +16,7 @@
             - *Hang Động Nhện Quỷ:* Hệ thống hang động ngầm nơi Vạn Độc Môn thực hiện thí nghiệm Huyết Thi. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
             - *Mộc Linh Trận Địa:* Căn cứ tạm thời của Tinh Linh Tộc và Dược Vương Cốc nằm sâu trong rừng. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md`.
             - *Huyết Vụ Lâm:* Vùng đệm sương mù đỏ thẫm giáp ranh Vạn Độc Cốc, nơi ảo ảnh và tâm ma ngự trị. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Huyết_Vụ_Lâm.md`.
+            - *Huyết Mạch Thượng Cổ:* Tàn tích rễ Cây Thế Giới nằm sâu dưới lòng đất, nơi duy nhất không bị độc khí xâm lấn. Xem tại `Đạo/Kỳ_Vật/Huyết_Mạch_Thượng_Cổ.md`.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
@@ -70,6 +71,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Độc_Cô_Lão_Quái.md`.
 - **Lệ Vô Tâm (Vạn Độc Thánh Tử):** Đại đệ tử Vạn Độc Môn, Trúc Cơ Viên Mãn. Kẻ thù truyền kiếp của thế hệ trẻ chính đạo, sở hữu *Huyết Độc Phiến* và *Thiên Tinh Cổ*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lệ_Vô_Tâm.md`.
+- **Ngô Công Trưởng Lão (Ngũ Độc):** Một trong Ngũ Độc Trưởng Lão của Vạn Độc Môn, Nguyên Anh Hậu Kỳ. Chuyên dùng rết độc (Ngô Công), tính cách tàn nhẫn, thích hành hạ con mồi.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Ngô_Công_Trưởng_Lão.md`.
 - **Diệp Thanh Y (Dược Tôn):** Cốc Chủ Dược Vương Cốc, Hóa Thần Sơ Kỳ. Một trong Tam Đại Thần Y, tính cách nhân hậu nhưng cương quyết với cái ác. Sở hữu *Thanh Nang Trường Sinh Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Thanh_Y.md`.
 - **Lục Trần (Cửu Hoa Kiếm Tôn):** Tông Chủ Cửu Hoa Kiếm Tông, Hóa Thần Sơ Kỳ. Người duy nhất sống sót sau đại chiến Huyết Hoa, tính cách trầm tĩnh, đạo tâm kiên định. Sở hữu *Thanh Liên Kiếm*.
@@ -293,7 +296,6 @@
     - [Chương 41: Mê Cung Tơ Độc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00041_Mê_Cung_Tơ_Độc.md)
     - [Chương 42: Huyết Chiến Nhện Chúa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00042_Huyết_Chiến_Nhện_Chúa.md)
     - [Chương 43: Thoát Khỏi Hang Động](Chương_Truyện/Góc_Nhìn_Chính/Chương_00043_Thoát_Khỏi_Hang_Động.md)
-    - [Chương 44: Hồi Sinh Trong Tử Địa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00044_Hồi_Sinh_Trong_Tử_Địa.md)
     - [Chương 44: Ánh Sáng Và Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00044_Ánh_Sáng_Và_Bóng_Tối.md)
     - [Chương 45: Huyết Trận Khởi Động](Chương_Truyện/Góc_Nhìn_Chính/Chương_00045_Huyết_Trận_Khởi_Động.md)
     - [Chương 46: Vòng Vây Sinh Tử](Chương_Truyện/Góc_Nhìn_Chính/Chương_00046_Vòng_Vây_Sinh_Tử.md)
@@ -306,6 +308,7 @@
     - [Chương 53: Vòng Vây Siết Chặt](Chương_Truyện/Góc_Nhìn_Chính/Chương_00053_Vòng_Vây_Siết_Chặt.md)
     - [Chương 54: Bóng Ma Trong Sương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00054_Bóng_Ma_Trong_Sương.md)
     - [Chương 55: Huyết Mạch Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00055_Huyết_Mạch_Thượng_Cổ.md)
+    - [Chương 56: Bí Mật Dưới Lòng Đất](Chương_Truyện/Góc_Nhìn_Chính/Chương_00056_Bí_Mật_Dưới_Lòng_Đất.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -321,6 +324,9 @@
         - [Chương 1: Cơ Duyên Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00001_Cơ_Duyên_Rừng_Thẳm.md) (Quá khứ 6 năm trước)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 56 - Bí Mật Dưới Lòng Đất.
+- Tạo Kỳ vật: Huyết Mạch Thượng Cổ.
+- Tạo Nhân vật: Ngô Công Trưởng Lão.
 - Viết Chương Truyện: Chương 55 - Huyết Mạch Thượng Cổ.
 - Cập nhật Địa danh: Huyết Vụ Lâm (Thêm Huyết Mạch Thượng Cổ).
 - Viết Chương Truyện: Chương 2.5 Lệ Vô Tâm (Diệt Môn Chi Họa).
