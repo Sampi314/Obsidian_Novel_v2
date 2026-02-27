@@ -2,24 +2,25 @@
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00000_Tuyết_Phủ_Mộ_Phần.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00002_Dấu_Vết_Tàn_Khốc.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00001_Nhiệm_Vụ_Đơn_Độc.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00004_Nhiệm_Vụ_Đơn_Độc.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
 <summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
 <ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
-<li style="padding: 5px; "><a href="Chương_00000_Tuyết_Phủ_Mộ_Phần.html">Chương 0: Tuyết Phủ Mộ Phần</a></li>
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00000_5_Thử_Thách_Đầu_Tiên.html">Chương 0.5: Thử Thách Đầu Tiên</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_Nhiệm_Vụ_Đơn_Độc.html">Chương 1: Nhiệm Vụ Đơn Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_5_Dấu_Vết_Tàn_Khốc.html">Chương 1.5: Dấu Vết Tàn Khốc</a></li>
-<li style="padding: 5px; "><a href="Chương_00002_Hội_Ngộ_Bất_Ngờ.html">Chương 2: Hội Ngộ Bất Ngờ</a></li>
-<li style="padding: 5px; "><a href="Chương_00003_Lời_Thề_Kiếm_Khách.html">Chương 3: Lời Thề Kiếm Khách</a></li>
-<li style="padding: 5px; "><a href="Chương_00004_Lạc_Giữa_Thâm_Cung.html">Chương 4: Lạc Giữa Thâm Cung</a></li>
-<li style="padding: 5px; "><a href="Chương_00005_Thoát_Khỏi_Địa_Ngục.html">Chương 5: Thoát Khỏi Địa Ngục</a></li>
-<li style="padding: 5px; "><a href="Chương_00006_Quyết_Định_Sinh_Tử.html">Chương 6: Quyết Định Sinh Tử</a></li>
+<li style="padding: 5px; "><a href="Chương_00001_Tuyết_Phủ_Mộ_Phần.html">Chương 1: Tuyết Phủ Mộ Phần</a></li>
+<li style="padding: 5px; "><a href="Chương_00002_Dấu_Vết_Tàn_Khốc.html">Chương 2: Dấu Vết Tàn Khốc</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00003_Thử_Thách_Đầu_Tiên.html">Chương 3: Thử Thách Đầu Tiên</a></li>
+<li style="padding: 5px; "><a href="Chương_00004_Nhiệm_Vụ_Đơn_Độc.html">Chương 4: Nhiệm Vụ Đơn Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00006_Hội_Ngộ_Bất_Ngờ.html">Chương 6: Hội Ngộ Bất Ngờ</a></li>
+<li style="padding: 5px; "><a href="Chương_00007_Quyết_Định_Sinh_Tử.html">Chương 7: Quyết Định Sinh Tử</a></li>
+<li style="padding: 5px; "><a href="Chương_00008_Lời_Thề_Kiếm_Khách.html">Chương 8: Lời Thề Kiếm Khách</a></li>
+<li style="padding: 5px; "><a href="Chương_00009_Đối_Mặt_Sát_Cơ.html">Chương 9: Đối Mặt Sát Cơ</a></li>
+<li style="padding: 5px; "><a href="Chương_00010_Lạc_Giữa_Thâm_Cung.html">Chương 10: Lạc Giữa Thâm Cung</a></li>
+<li style="padding: 5px; "><a href="Chương_00011_Thoát_Khỏi_Địa_Ngục.html">Chương 11: Thoát Khỏi Địa Ngục</a></li>
 </ul>
 </details>
 <div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
@@ -31,12 +32,12 @@
   <button id="btn-stop" onclick="window.stopReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏹️ Dừng</button>
 </div>
 <script>
-  window.nextChapterUrl = "Chương_00001_Nhiệm_Vụ_Đơn_Độc.html";
+  window.nextChapterUrl = "Chương_00004_Nhiệm_Vụ_Đơn_Độc.html";
 </script>
 <script src="../../../scripts/tts_player.js"></script>
 </div>
 <!-- NAVIGATION_END -->
-# Chương 0.5: Thử Thách Đầu Tiên
+# Chương 3: Thử Thách Đầu Tiên
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)
