@@ -320,6 +320,7 @@
     - [Chương 60: Hỗn Loạn Tại Kho Chứa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00060_Hỗn_Loạn_Tại_Kho_Chứa.md)
     - [Chương 61: Mê Cung Nấm Độc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00061_Mê_Cung_Nấm_Độc.md)
     - [Chương 62: Bí Mật Huyết Trì](Chương_Truyện/Góc_Nhìn_Chính/Chương_00062_Bí_Mật_Huyết_Trì.md)
+    - [Chương 63: Huyết Chiến Bên Hồ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00063_Huyết_Chiến_Bên_Hồ.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -335,6 +336,7 @@
         - [Chương 1: Cơ Duyên Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00001_Cơ_Duyên_Rừng_Thẳm.md) (Quá khứ 6 năm trước)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 63 - Huyết Chiến Bên Hồ.
 - Viết Chương Truyện: Chương 62 - Bí Mật Huyết Trì.
 - Tạo Kỳ vật: Dược Nhân.
 - Cập nhật Địa danh: Vườn Dược Liệu (Nam Cương & Vạn Độc Môn).
