@@ -118,3 +118,4 @@
 | 2026-03-30 | Tổng Quản | Viết Chương 51-53 (Lệ Vô Tâm) | Hoàn Thành | Viết 3 chương tiếp theo Arc 2: Lời Mời Từ Bóng Tối, Giao Dịch Ngầm, Bí Mật Cổ Trùng. |
 | 2026-03-31 | Tổng Quản | Viết Chương 54-56 (Lệ Vô Tâm) | Hoàn Thành | Viết 3 chương tiếp theo Arc 2: Thí Nghiệm Trên Người Sống, Đột Phá Trúc Cơ Trung Kỳ, Sự Ghen Ghét Của Đồng Môn. |
 | 2026-03-31 | Tổng Quản | Viết Chương 57 & Tạo Quỷ Khốc Cốc, Trận Pháp | Hoàn Thành | Viết Chương 57 (Cái Bẫy Liên Hoàn), tạo địa danh Quỷ Khốc Cốc và Vạn Tinh Tuyệt Sát Trận phục vụ diễn biến truyện. |
+| 2026-03-31 | Tổng Quản | Viết Chương 58 (Lệ Vô Tâm) | Hoàn Thành | Viết Chương 58 (Phản Đòn), mô tả Lệ Vô Tâm dùng Vạn Độc Thân phá Vạn Tinh Tuyệt Sát Trận, lật ngược thế cờ tiêu diệt nhóm Triệu Hàn. |

@@ -551,6 +551,10 @@ window.chapterData = {
       "title": "Chương 57: Cái Bẫy Liên Hoàn"
     },
     {
+      "filename": "Chương_00058_Phản_Đòn.md",
+      "title": "Chương 58: Phản Đòn"
+    },
+    {
       "filename": "Chương_00061_Mệnh_Lệnh_Bóng_Tối.md",
       "title": "Chương 61: Mệnh Lệnh Bóng Tối"
     },
