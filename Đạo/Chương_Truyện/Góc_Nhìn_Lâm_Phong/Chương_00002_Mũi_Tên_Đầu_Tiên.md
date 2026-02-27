@@ -1,21 +1,21 @@
 <!-- NAVIGATION_START -->
 <div style="text-align: center; margin-bottom: 20px;">
-    <table style="width: 100%; text-align: center; border: none;">
-        <tr>
-            <td style="border: none; padding: 5px;"><a href="Chương_00001_Cơ_Duyên_Rừng_Thẳm.md">⬅️ Chương Trước</a></td>
-            <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
-            <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-            <td style="border: none; padding: 5px;"><a href="Chương_00003_Rời_Khỏi_Rừng_Thẳm.md">Chương Sau ➡️</a></td>
-        </tr>
-    </table>
-    <details style="margin-top: 10px;">
-        <summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
-        <ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
-            <li style="padding: 5px; "><a href="Chương_00001_Cơ_Duyên_Rừng_Thẳm.md">Chương 1: Cơ Duyên Rừng Thẳm</a></li>
-            <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00002_Mũi_Tên_Đầu_Tiên.md">Chương 2: Mũi Tên Đầu Tiên</a></li>
-            <li style="padding: 5px; "><a href="Chương_00003_Rời_Khỏi_Rừng_Thẳm.md">Chương 3: Rời Khỏi Rừng Thẳm</a></li>
-        </ul>
-    </details>
+<table style="width: 100%; text-align: center; border: none;">
+<tr>
+<td style="border: none; padding: 5px;"><a href="Chương_00001_Cơ_Duyên_Rừng_Thẳm">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
+<td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00003_Rời_Khỏi_Rừng_Thẳm">Chương Sau ➡️</a></td>
+</tr>
+</table>
+<details style="margin-top: 10px;">
+<summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
+<ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
+<li style="padding: 5px; "><a href="Chương_00001_Cơ_Duyên_Rừng_Thẳm">Chương 1: Cơ Duyên Rừng Thẳm</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00002_Mũi_Tên_Đầu_Tiên">Chương 2: Mũi Tên Đầu Tiên</a></li>
+<li style="padding: 5px; "><a href="Chương_00003_Rời_Khỏi_Rừng_Thẳm">Chương 3: Rời Khỏi Rừng Thẳm</a></li>
+</ul>
+</details>
 </div>
 <!-- NAVIGATION_END -->
 # Chương 2: Mũi Tên Đầu Tiên
@@ -127,3 +127,23 @@ Hôm nay, ta đã học được bài học quan trọng nhất của thế gi�
 Nếu ta muốn bảo vệ gia đình, bảo vệ bản thân, ta phải mạnh hơn nữa. Mạnh đến mức không kẻ nào dám bén mảng đến gần những người ta yêu thương.
 
 Ta siết chặt cây cung trong tay, bóng dáng cô độc khuất dần sau những tán cây đen thẫm. Từ nay, Hắc Mộc Lâm có thêm một thợ săn. Thợ săn những kẻ ác.
+<!-- NAVIGATION_START -->
+<div style="text-align: center; margin-bottom: 20px;">
+<table style="width: 100%; text-align: center; border: none;">
+<tr>
+<td style="border: none; padding: 5px;"><a href="Chương_00001_Cơ_Duyên_Rừng_Thẳm">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
+<td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00003_Rời_Khỏi_Rừng_Thẳm">Chương Sau ➡️</a></td>
+</tr>
+</table>
+<details style="margin-top: 10px;">
+<summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
+<ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
+<li style="padding: 5px; "><a href="Chương_00001_Cơ_Duyên_Rừng_Thẳm">Chương 1: Cơ Duyên Rừng Thẳm</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00002_Mũi_Tên_Đầu_Tiên">Chương 2: Mũi Tên Đầu Tiên</a></li>
+<li style="padding: 5px; "><a href="Chương_00003_Rời_Khỏi_Rừng_Thẳm">Chương 3: Rời Khỏi Rừng Thẳm</a></li>
+</ul>
+</details>
+</div>
+<!-- NAVIGATION_END -->

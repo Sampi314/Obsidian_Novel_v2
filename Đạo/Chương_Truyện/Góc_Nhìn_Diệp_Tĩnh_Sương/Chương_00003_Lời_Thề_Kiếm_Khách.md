@@ -1,26 +1,26 @@
 <!-- NAVIGATION_START -->
 <div style="text-align: center; margin-bottom: 20px;">
-    <table style="width: 100%; text-align: center; border: none;">
-        <tr>
-            <td style="border: none; padding: 5px;"><a href="Chương_00002_Hội_Ngộ_Bất_Ngờ.md">⬅️ Chương Trước</a></td>
-            <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
-            <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-            <td style="border: none; padding: 5px;"><a href="Chương_00004_Lạc_Giữa_Thâm_Cung.md">Chương Sau ➡️</a></td>
-        </tr>
-    </table>
-    <details style="margin-top: 10px;">
-        <summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
-        <ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
-            <li style="padding: 5px; "><a href="Chương_00000_Tuyết_Phủ_Mộ_Phần.md">Chương 0: Tuyết Phủ Mộ Phần</a></li>
-            <li style="padding: 5px; "><a href="Chương_00000_5_Thử_Thách_Đầu_Tiên.md">Chương 0.5: Thử Thách Đầu Tiên</a></li>
-            <li style="padding: 5px; "><a href="Chương_00001_Nhiệm_Vụ_Đơn_Độc.md">Chương 1: Nhiệm Vụ Đơn Độc</a></li>
-            <li style="padding: 5px; "><a href="Chương_00001_5_Dấu_Vết_Tàn_Khốc.md">Chương 1.5: Dấu Vết Tàn Khốc</a></li>
-            <li style="padding: 5px; "><a href="Chương_00002_Hội_Ngộ_Bất_Ngờ.md">Chương 2: Hội Ngộ Bất Ngờ</a></li>
-            <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00003_Lời_Thề_Kiếm_Khách.md">Chương 3: Lời Thề Kiếm Khách</a></li>
-            <li style="padding: 5px; "><a href="Chương_00004_Lạc_Giữa_Thâm_Cung.md">Chương 4: Lạc Giữa Thâm Cung</a></li>
-            <li style="padding: 5px; "><a href="Chương_00005_Thoát_Khỏi_Địa_Ngục.md">Chương 5: Thoát Khỏi Địa Ngục</a></li>
-        </ul>
-    </details>
+<table style="width: 100%; text-align: center; border: none;">
+<tr>
+<td style="border: none; padding: 5px;"><a href="Chương_00002_Hội_Ngộ_Bất_Ngờ">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
+<td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00004_Lạc_Giữa_Thâm_Cung">Chương Sau ➡️</a></td>
+</tr>
+</table>
+<details style="margin-top: 10px;">
+<summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
+<ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
+<li style="padding: 5px; "><a href="Chương_00000_Tuyết_Phủ_Mộ_Phần">Chương 0: Tuyết Phủ Mộ Phần</a></li>
+<li style="padding: 5px; "><a href="Chương_00000_5_Thử_Thách_Đầu_Tiên">Chương 0.5: Thử Thách Đầu Tiên</a></li>
+<li style="padding: 5px; "><a href="Chương_00001_Nhiệm_Vụ_Đơn_Độc">Chương 1: Nhiệm Vụ Đơn Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00001_5_Dấu_Vết_Tàn_Khốc">Chương 1.5: Dấu Vết Tàn Khốc</a></li>
+<li style="padding: 5px; "><a href="Chương_00002_Hội_Ngộ_Bất_Ngờ">Chương 2: Hội Ngộ Bất Ngờ</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00003_Lời_Thề_Kiếm_Khách">Chương 3: Lời Thề Kiếm Khách</a></li>
+<li style="padding: 5px; "><a href="Chương_00004_Lạc_Giữa_Thâm_Cung">Chương 4: Lạc Giữa Thâm Cung</a></li>
+<li style="padding: 5px; "><a href="Chương_00005_Thoát_Khỏi_Địa_Ngục">Chương 5: Thoát Khỏi Địa Ngục</a></li>
+</ul>
+</details>
 </div>
 <!-- NAVIGATION_END -->
 # Chương 3: Lời Thề Kiếm Khách
@@ -91,3 +91,28 @@ Hắn quay lại ngay lập tức.
 "Ta không sao," ta ngắt lời hắn, tay siết chặt chuôi kiếm bên hông. "Ta vẫn còn đủ sức để chém đôi bất cứ thứ gì cản đường chúng ta."
 
 Đêm trong Rừng Huyết Độc vẫn dài đằng đẵng, nhưng trong lòng ta, bình minh đã bắt đầu ló dạng.
+<!-- NAVIGATION_START -->
+<div style="text-align: center; margin-bottom: 20px;">
+<table style="width: 100%; text-align: center; border: none;">
+<tr>
+<td style="border: none; padding: 5px;"><a href="Chương_00002_Hội_Ngộ_Bất_Ngờ">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
+<td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00004_Lạc_Giữa_Thâm_Cung">Chương Sau ➡️</a></td>
+</tr>
+</table>
+<details style="margin-top: 10px;">
+<summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
+<ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
+<li style="padding: 5px; "><a href="Chương_00000_Tuyết_Phủ_Mộ_Phần">Chương 0: Tuyết Phủ Mộ Phần</a></li>
+<li style="padding: 5px; "><a href="Chương_00000_5_Thử_Thách_Đầu_Tiên">Chương 0.5: Thử Thách Đầu Tiên</a></li>
+<li style="padding: 5px; "><a href="Chương_00001_Nhiệm_Vụ_Đơn_Độc">Chương 1: Nhiệm Vụ Đơn Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00001_5_Dấu_Vết_Tàn_Khốc">Chương 1.5: Dấu Vết Tàn Khốc</a></li>
+<li style="padding: 5px; "><a href="Chương_00002_Hội_Ngộ_Bất_Ngờ">Chương 2: Hội Ngộ Bất Ngờ</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00003_Lời_Thề_Kiếm_Khách">Chương 3: Lời Thề Kiếm Khách</a></li>
+<li style="padding: 5px; "><a href="Chương_00004_Lạc_Giữa_Thâm_Cung">Chương 4: Lạc Giữa Thâm Cung</a></li>
+<li style="padding: 5px; "><a href="Chương_00005_Thoát_Khỏi_Địa_Ngục">Chương 5: Thoát Khỏi Địa Ngục</a></li>
+</ul>
+</details>
+</div>
+<!-- NAVIGATION_END -->
