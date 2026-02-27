@@ -1,5 +1,6 @@
 import os
 import re
+from scripts.utils import get_chapter_title, extract_chapter_number
 
 # Regex for existing navigation block
 NAV_PATTERN = re.compile(r"<!-- NAVIGATION_START -->.*?<!-- NAVIGATION_END -->\s*", re.DOTALL)
@@ -7,60 +8,6 @@ NAV_PATTERN = re.compile(r"<!-- NAVIGATION_START -->.*?<!-- NAVIGATION_END -->\s
 # Regex for YAML Front Matter
 # Matches start of file, ---, content, ---
 FRONT_MATTER_PATTERN = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
-
-def get_chapter_title(filepath):
-    """
-    Extracts the first H1 title from a markdown file.
-    """
-    try:
-        with open(filepath, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-            # First pass: look for # Title
-            for line in lines:
-                if line.startswith("# "):
-                    return line.strip()[2:]
-
-            # Second pass: look for Title\n=== or similar if using setext style (less likely but possible)
-            # or maybe it's inside metadata? The file we saw has YAML frontmatter then comments then content.
-            # Let's look for the first line that looks like a title after YAML frontmatter
-
-            in_yaml = False
-            for line in lines:
-                stripped = line.strip()
-                if stripped == "---":
-                    in_yaml = not in_yaml
-                    continue
-                if in_yaml:
-                    continue
-
-                # Ignore comments
-                if stripped.startswith("<!--") or stripped.endswith("-->"):
-                    continue
-
-                # Ignore navigation block lines (which we inject)
-                if "<div" in stripped or "<table" in stripped or "<td" in stripped or "<tr" in stripped:
-                    continue
-
-                # Check for standard markdown headers
-                if stripped.startswith("# "):
-                    return stripped[2:]
-
-    except Exception as e:
-        print(f"Error reading {filepath}: {e}")
-    return "Không có tiêu đề"
-
-def extract_chapter_number(filename):
-    """
-    Extracts the chapter number from the filename for sorting.
-    Handles formats like Chương_00001_... -> 1.0
-    and Chương_00001_5_... -> 1.5
-    """
-    match = re.search(r'Chương_(\d+)(?:_(\d+))?_', filename)
-    if match:
-        major = int(match.group(1))
-        minor = int(match.group(2)) if match.group(2) else 0
-        return major + (minor / 10.0)
-    return float('inf') # Put non-matching files at the end
 
 def generate_navigation(repo_root):
     story_dir = os.path.join(repo_root, "Đạo", "Chương_Truyện")
