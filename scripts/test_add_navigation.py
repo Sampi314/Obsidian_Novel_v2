@@ -1,5 +1,5 @@
 import unittest
-from scripts.add_navigation import extract_chapter_number
+from scripts.utils import extract_chapter_number
 
 class TestExtractChapterNumber(unittest.TestCase):
     def test_standard_chapter(self):
