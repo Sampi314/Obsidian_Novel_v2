@@ -7,9 +7,37 @@ def get_chapter_title(filepath):
     """
     try:
         with open(filepath, "r", encoding="utf-8") as f:
-            for line in f:
+            lines = f.readlines()
+            # First pass: look for # Title
+            for line in lines:
                 if line.startswith("# "):
                     return line.strip()[2:]
+
+            # Second pass: look for Title\n=== or similar if using setext style (less likely but possible)
+            # or maybe it's inside metadata? The file we saw has YAML frontmatter then comments then content.
+            # Let's look for the first line that looks like a title after YAML frontmatter
+
+            in_yaml = False
+            for line in lines:
+                stripped = line.strip()
+                if stripped == "---":
+                    in_yaml = not in_yaml
+                    continue
+                if in_yaml:
+                    continue
+
+                # Ignore comments
+                if stripped.startswith("<!--") or stripped.endswith("-->"):
+                    continue
+
+                # Ignore navigation block lines (which we inject)
+                if "<div" in stripped or "<table" in stripped or "<td" in stripped or "<tr" in stripped:
+                    continue
+
+                # Check for standard markdown headers
+                if stripped.startswith("# "):
+                    return stripped[2:]
+
     except Exception as e:
         print(f"Error reading {filepath}: {e}")
     return "Không có tiêu đề"
@@ -62,39 +90,39 @@ def generate_navigation(repo_root):
             nav_html.append('<div style="text-align: center; margin-bottom: 20px;">')
 
             # Use a table for layout to mimic a button bar
-            nav_html.append('    <table style="width: 100%; text-align: center; border: none;">')
-            nav_html.append('        <tr>')
+            nav_html.append('<table style="width: 100%; text-align: center; border: none;">')
+            nav_html.append('<tr>')
 
             # Previous Button
             if prev_chapter:
-                nav_html.append(f'            <td style="border: none; padding: 5px;"><a href="{prev_chapter["filename"]}">⬅️ Chương Trước</a></td>')
+                nav_html.append(f'<td style="border: none; padding: 5px;"><a href="{prev_chapter["filename"].replace(".md", ".html")}">⬅️ Chương Trước</a></td>')
             else:
-                nav_html.append('            <td style="border: none; padding: 5px; color: #adb5bd;">⬅️ Chương Trước</td>')
+                nav_html.append('<td style="border: none; padding: 5px; color: #adb5bd;">⬅️ Chương Trước</td>')
 
             # Home & TOC
-            nav_html.append('            <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>')
-            nav_html.append('            <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>')
+            nav_html.append('<td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>')
+            nav_html.append('<td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>')
 
             # Next Button
             if next_chapter:
-                nav_html.append(f'            <td style="border: none; padding: 5px;"><a href="{next_chapter["filename"]}">Chương Sau ➡️</a></td>')
+                nav_html.append(f'<td style="border: none; padding: 5px;"><a href="{next_chapter["filename"].replace(".md", ".html")}">Chương Sau ➡️</a></td>')
             else:
-                nav_html.append('            <td style="border: none; padding: 5px; color: #adb5bd;">Chương Sau ➡️</td>')
+                nav_html.append('<td style="border: none; padding: 5px; color: #adb5bd;">Chương Sau ➡️</td>')
 
-            nav_html.append('        </tr>')
-            nav_html.append('    </table>')
+            nav_html.append('</tr>')
+            nav_html.append('</table>')
 
             # Dropdown
-            nav_html.append('    <details style="margin-top: 10px;">')
-            nav_html.append('        <summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>')
-            nav_html.append('        <ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">')
+            nav_html.append('<details style="margin-top: 10px;">')
+            nav_html.append('<summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>')
+            nav_html.append('<ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">')
 
             for chap in chapter_list:
                 is_active = 'font-weight: bold; background-color: #f0f0f0;' if chap["filename"] == current_chapter["filename"] else ''
-                nav_html.append(f'            <li style="padding: 5px; {is_active}"><a href="{chap["filename"]}">{chap["title"]}</a></li>')
+                nav_html.append(f'<li style="padding: 5px; {is_active}"><a href="{chap["filename"].replace(".md", ".html")}">{chap["title"]}</a></li>')
 
-            nav_html.append('        </ul>')
-            nav_html.append('    </details>')
+            nav_html.append('</ul>')
+            nav_html.append('</details>')
             nav_html.append('</div>')
             nav_html.append("<!-- NAVIGATION_END -->")
             nav_html.append("") # Empty line after
