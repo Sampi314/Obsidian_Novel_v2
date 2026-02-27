@@ -4,7 +4,7 @@
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 8: Lời Thề Kiếm Khách
+# Chương 7: Lời Thề Kiếm Khách
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)
