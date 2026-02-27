@@ -495,6 +495,18 @@ window.chapterData = {
       "title": "Chương 43: Cuộc Săn Đêm"
     },
     {
+      "filename": "Chương_00044_Huyết_Chiến_Sơn_Tặc.md",
+      "title": "Chương 44: Huyết Chiến Sơn Tặc"
+    },
+    {
+      "filename": "Chương_00045_Đối_Thủ_Xứng_Tầm.md",
+      "title": "Chương 45: Đối Thủ Xứng Tầm"
+    },
+    {
+      "filename": "Chương_00046_Vết_Thương_Chí_Mạng.md",
+      "title": "Chương 46: Vết Thương Chí Mạng"
+    },
+    {
       "filename": "Chương_00061_Mệnh_Lệnh_Bóng_Tối.md",
       "title": "Chương 61: Mệnh Lệnh Bóng Tối"
     },
