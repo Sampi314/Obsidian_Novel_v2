@@ -42,7 +42,7 @@ def generate_navigation(repo_root):
 
             nav_html = []
             nav_html.append("<!-- NAVIGATION_START -->")
-            nav_html.append('<div style="text-align: center; margin-bottom: 20px;">')
+            nav_html.append('<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">')
 
             # Use a table for layout to mimic a button bar
             nav_html.append('<table style="width: 100%; text-align: center; border: none;">')
@@ -78,6 +78,58 @@ def generate_navigation(repo_root):
 
             nav_html.append('</ul>')
             nav_html.append('</details>')
+
+            # Audio Player Controls
+            nav_html.append('<div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">')
+            nav_html.append('  <strong>🎧 Nghe Chương Này:</strong>')
+            nav_html.append('  <br>')
+            nav_html.append('  <button onclick="speakChapter()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button>')
+            nav_html.append('  <button onclick="pauseSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏸️ Tạm Dừng</button>')
+            nav_html.append('  <button onclick="resumeSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏯️ Tiếp Tục</button>')
+            nav_html.append('  <button onclick="stopSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏹️ Dừng</button>')
+            nav_html.append('</div>')
+
+            # JavaScript for TTS
+            nav_html.append('<script>')
+            nav_html.append('var synth = window.speechSynthesis;')
+            nav_html.append('var utterance = null;')
+            nav_html.append('')
+            nav_html.append('function speakChapter() {')
+            nav_html.append('  if (synth.speaking) {')
+            nav_html.append('    console.error("speechSynthesis.speaking");')
+            nav_html.append('    return;')
+            nav_html.append('  }')
+            nav_html.append('  // Clone body to remove navigation before reading')
+            nav_html.append('  var content = document.body.cloneNode(true);')
+            nav_html.append('  var nav = content.querySelector("#chapter-navigation");')
+            nav_html.append('  if (nav) {')
+            nav_html.append('    nav.remove();')
+            nav_html.append('  }')
+            nav_html.append('  var text = content.innerText;')
+            nav_html.append('  utterance = new SpeechSynthesisUtterance(text);')
+            nav_html.append('  utterance.lang = "vi-VN";')
+            nav_html.append('  synth.speak(utterance);')
+            nav_html.append('}')
+            nav_html.append('')
+            nav_html.append('function pauseSpeech() {')
+            nav_html.append('  if (synth.speaking && !synth.paused) {')
+            nav_html.append('    synth.pause();')
+            nav_html.append('  }')
+            nav_html.append('}')
+            nav_html.append('')
+            nav_html.append('function resumeSpeech() {')
+            nav_html.append('  if (synth.paused) {')
+            nav_html.append('    synth.resume();')
+            nav_html.append('  }')
+            nav_html.append('}')
+            nav_html.append('')
+            nav_html.append('function stopSpeech() {')
+            nav_html.append('  if (synth.speaking) {')
+            nav_html.append('    synth.cancel();')
+            nav_html.append('  }')
+            nav_html.append('}')
+            nav_html.append('</script>')
+
             nav_html.append('</div>')
             nav_html.append("<!-- NAVIGATION_END -->")
             nav_html.append("") # Empty line after
