@@ -111,3 +111,4 @@
 | 2026-03-24 | Tổng Quản | Viết Chương 61 & Tạo Nấm Độc | Hoàn Thành | Viết Chương 61, tạo Nấm Độc Lâm, Nấm Mặt Quỷ và cập nhật Mộc Độc Sư. |
 | 2026-03-25 | Tổng Quản | Viết Chương 62 & Tạo Dược Nhân | Hoàn Thành | Viết Chương 62 (Bí Mật Huyết Trì) và tạo Kỳ Vật Dược Nhân. |
 | 2026-03-25 | Tổng Quản | Viết Chương 63 & Cập Nhật | Hoàn Thành | Viết Chương 63 (Huyết Chiến Bên Hồ). |
+| 2026-03-26 | Tổng Quản | Viết Chương 64 & 65, Tạo Kỳ Vật Huyết Vụ | Hoàn Thành | Viết Chương 64, 65. Tạo Huyết Vụ Điểu, Mộng Yểm Hoa. Cập nhật Huyết Vụ Lâm. |

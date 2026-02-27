@@ -227,6 +227,8 @@
     - *Sa Bạo Cổ:* Cổ Trùng hệ Thổ-Phong tạo bão cát, vũ khí bí mật của Hứa Nhược Thủy. Xem tại `Đạo/Kỳ_Vật/Sa_Bạo_Cổ.md`.
     - *Nấm Mặt Quỷ:* Loài nấm có hình mặt người cười, phấn hoa gây ảo giác kinh hoàng. Xem tại `Đạo/Kỳ_Vật/Nấm_Mặt_Quỷ.md`.
     - *Dược Nhân:* Tu sĩ bị cấy ghép linh dược vào cơ thể để làm vật chủ nuôi dưỡng. Xem tại `Đạo/Kỳ_Vật/Dược_Nhân.md`.
+    - *[Huyết Vụ Điểu](Kỳ_Vật/Huyết_Vụ_Điểu.md):* Loài chim biết nhại tiếng người sống trong Huyết Vụ Lâm. Xem tại `Đạo/Kỳ_Vật/Huyết_Vụ_Điểu.md`.
+    - *[Mộng Yểm Hoa](Kỳ_Vật/Mộng_Yểm_Hoa.md):* Loài hoa gây ảo giác ký sinh trong Huyết Vụ Lâm. Xem tại `Đạo/Kỳ_Vật/Mộng_Yểm_Hoa.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -321,6 +323,8 @@
     - [Chương 61: Mê Cung Nấm Độc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00061_Mê_Cung_Nấm_Độc.md)
     - [Chương 62: Bí Mật Huyết Trì](Chương_Truyện/Góc_Nhìn_Chính/Chương_00062_Bí_Mật_Huyết_Trì.md)
     - [Chương 63: Huyết Chiến Bên Hồ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00063_Huyết_Chiến_Bên_Hồ.md)
+    - [Chương 64: Bóng Ma Trong Sương Đỏ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00064_Bóng_Ma_Trong_Sương_Đỏ.md)
+    - [Chương 65: Tiếng Gọi Nơi Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00065_Tiếng_Gọi_Nơi_Rừng_Thẳm.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
