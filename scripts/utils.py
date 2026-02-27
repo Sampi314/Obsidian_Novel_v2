@@ -64,3 +64,14 @@ def extract_chapter_number(filename):
         minor = int(match.group(2)) if match.group(2) else 0
         return major + (minor / 10.0)
     return float('inf') # Put non-matching files at the end
+
+def extract_chapter_index(filename):
+    """
+    Extracts the integer chapter index from the filename.
+    Chương_00001_Title.md -> 1
+    This ignores fractional parts, useful for simple indexing or matching.
+    """
+    match = CHAPTER_NUM_PATTERN.search(filename)
+    if match:
+        return int(match.group(1))
+    return None
