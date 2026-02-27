@@ -52,6 +52,7 @@
     -   Xâm nhập vào Kho Chứa Ngầm và gây hỗn loạn (Chương 59-60).
     -   Vượt qua Mê Cung Nấm Độc và tiến vào Vườn Dược Liệu (Chương 61-62).
     -   Chứng kiến sự tàn khốc của Vạn Độc Huyết Tế Đại Trận tại Huyết Trì và Mẫu Cổ thức tỉnh (Chương 62).
+    -   Giao chiến với Xà Trưởng Lão và dùng Phệ Linh Tán đầu độc Mẫu Cổ, gây ra hỗn loạn để thoát thân (Chương 63).
 
 ### Giai Đoạn 4: Liên Minh Rạn Nứt (Chương 81-120)
 - **Sự kiện:** Các thế lực hội tụ tại Nam Cương.
