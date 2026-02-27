@@ -547,6 +547,10 @@ window.chapterData = {
       "title": "Chương 56: Sự Ghen Ghét Của Đồng Môn"
     },
     {
+      "filename": "Chương_00057_Cái_Bẫy_Liên_Hoàn.md",
+      "title": "Chương 57: Cái Bẫy Liên Hoàn"
+    },
+    {
       "filename": "Chương_00061_Mệnh_Lệnh_Bóng_Tối.md",
       "title": "Chương 61: Mệnh Lệnh Bóng Tối"
     },

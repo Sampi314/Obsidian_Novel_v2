@@ -16,6 +16,7 @@
             - *Hang Động Nhện Quỷ:* Hệ thống hang động ngầm nơi Vạn Độc Môn thực hiện thí nghiệm Huyết Thi. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
             - *Mộc Linh Trận Địa:* Căn cứ tạm thời của Tinh Linh Tộc và Dược Vương Cốc nằm sâu trong rừng (Hiện đang trong tình trạng nguy kịch). Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md`.
             - *Huyết Vụ Lâm:* Vùng đệm sương mù đỏ thẫm giáp ranh Vạn Độc Cốc, nơi ảo ảnh và tâm ma ngự trị. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Huyết_Vụ_Lâm.md`.
+            - *Quỷ Khốc Cốc:* Thung lũng âm u tại biên giới Bắc Nam Cương, nơi chứa lượng lớn Huyết Tinh Sa. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Quỷ_Khốc_Cốc.md`.
             - *Huyết Mạch Thượng Cổ:* Tàn tích rễ Cây Thế Giới nằm sâu dưới lòng đất, chứa Hồ Thanh Mộc Dịch và tinh thể Mộc Tinh. Xem tại `Đạo/Kỳ_Vật/Huyết_Mạch_Thượng_Cổ.md`.
             - *Nấm Độc Lâm:* Rừng nấm khổng lồ nằm sâu dưới lòng đất, vùng đệm giữa Kho Chứa Ngầm và Vườn Dược Liệu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nấm_Độc_Lâm.md`.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
@@ -35,6 +36,7 @@
 - **Cảnh Giới:** Luyện Khí → Trúc Cơ → Kim Đan → Nguyên Anh → Hóa Thần → Luyện Hư → Hợp Thể → Đại Thừa → Độ Kiếp.
 - **Đặc Trưng:** Nghịch thiên cải mệnh, càng lên cao càng gian nan, mỗi bước đều phải trả giá.
 - **Chi Tiết:** Xem tại `Đạo/Tu_Luyện/Hệ_Thống_Cảnh_Giới.md`.
+- **Trận Pháp:** Cấm trận của Vạn Độc Môn. Xem tại [Vạn Tinh Tuyệt Sát Trận](Trận_Pháp/Vạn_Tinh_Tuyệt_Sát_Trận.md).
 
 ## IV. CHỦNG TỘC
 - **10 Đại Chủng Tộc (Kỷ Nguyên Khởi Nguyên):**
@@ -127,6 +129,7 @@
         - [Chương 54: Thí Nghiệm Trên Người Sống](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00054_Thí_Nghiệm_Trên_Người_Sống.md)
         - [Chương 55: Đột Phá Trúc Cơ Trung Kỳ](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00055_Đột_Phá_Trúc_Cơ_Trung_Kỳ.md)
         - [Chương 56: Sự Ghen Ghét Của Đồng Môn](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00056_Sự_Ghen_Ghét_Của_Đồng_Môn.md)
+        - [Chương 57: Cái Bẫy Liên Hoàn](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00057_Cái_Bẫy_Liên_Hoàn.md)
         - [Chương 61: Mệnh Lệnh Bóng Tối](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00061_Mệnh_Lệnh_Bóng_Tối.md)
         - [Chương 62: Thí Nghiệm Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00062_Thí_Nghiệm_Máu.md)
         - [Chương 63: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00063_Ván_Cờ_Huyết_Độc.md)
