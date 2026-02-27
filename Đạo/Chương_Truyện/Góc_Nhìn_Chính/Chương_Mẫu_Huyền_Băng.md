@@ -1,5 +1,5 @@
 <!-- NAVIGATION_START -->
-<div style="text-align: center; margin-bottom: 20px;">
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
 <td style="border: none; padding: 5px;"><a href="Chương_00061_Mê_Cung_Nấm_Độc.html">⬅️ Chương Trước</a></td>
@@ -75,6 +75,53 @@
 <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_Mẫu_Huyền_Băng.html">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
 </ul>
 </details>
+<div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
+  <strong>🎧 Nghe Chương Này:</strong>
+  <br>
+  <button onclick="speakChapter()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button>
+  <button onclick="pauseSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏸️ Tạm Dừng</button>
+  <button onclick="resumeSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏯️ Tiếp Tục</button>
+  <button onclick="stopSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏹️ Dừng</button>
+</div>
+<script>
+var synth = window.speechSynthesis;
+var utterance = null;
+
+function speakChapter() {
+  if (synth.speaking) {
+    console.error("speechSynthesis.speaking");
+    return;
+  }
+  // Clone body to remove navigation before reading
+  var content = document.body.cloneNode(true);
+  var nav = content.querySelector("#chapter-navigation");
+  if (nav) {
+    nav.remove();
+  }
+  var text = content.innerText;
+  utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = "vi-VN";
+  synth.speak(utterance);
+}
+
+function pauseSpeech() {
+  if (synth.speaking && !synth.paused) {
+    synth.pause();
+  }
+}
+
+function resumeSpeech() {
+  if (synth.paused) {
+    synth.resume();
+  }
+}
+
+function stopSpeech() {
+  if (synth.speaking) {
+    synth.cancel();
+  }
+}
+</script>
 </div>
 <!-- NAVIGATION_END -->
 # CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)
