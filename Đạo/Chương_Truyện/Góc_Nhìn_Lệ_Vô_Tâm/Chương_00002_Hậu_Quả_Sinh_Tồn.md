@@ -2,17 +2,17 @@
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px; color: #adb5bd;">⬅️ Chương Trước</td>
+<td style="border: none; padding: 5px;"><a href="Chương_00001_Đường_Đến_Thánh_Vị.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00002_Hậu_Quả_Sinh_Tồn.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00003_Bài_Học_Vô_Cảm.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
 <summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
 <ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00001_Đường_Đến_Thánh_Vị.html">Chương 1: Đường Đến Thánh Vị</a></li>
-<li style="padding: 5px; "><a href="Chương_00002_Hậu_Quả_Sinh_Tồn.html">Chương 2: Hậu Quả Sinh Tồn</a></li>
+<li style="padding: 5px; "><a href="Chương_00001_Đường_Đến_Thánh_Vị.html">Chương 1: Đường Đến Thánh Vị</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00002_Hậu_Quả_Sinh_Tồn.html">Chương 2: Hậu Quả Sinh Tồn</a></li>
 <li style="padding: 5px; "><a href="Chương_00003_Bài_Học_Vô_Cảm.html">Chương 3: Bài Học Vô Cảm</a></li>
 <li style="padding: 5px; "><a href="Chương_00004_Sự_Phản_Bội_Đầu_Tiên.html">Chương 4: Sự Phản Bội Đầu Tiên</a></li>
 <li style="padding: 5px; "><a href="Chương_00005_Bóng_Tối_Cô_Độc.html">Chương 5: Bóng Tối Cô Độc</a></li>
@@ -54,7 +54,7 @@
     var contentElements = [];
 
     // Next chapter URL
-    var nextChapterUrl = "Chương_00002_Hậu_Quả_Sinh_Tồn.html";
+    var nextChapterUrl = "Chương_00003_Bài_Học_Vô_Cảm.html";
 
     function getReadableElements() {
         // Collect all paragraph-like elements in the body
@@ -223,56 +223,72 @@
 
 </div>
 <!-- NAVIGATION_END -->
-# Chương 1: Đường Đến Thánh Vị
+# Chương 2: Hậu Quả Sinh Tồn
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Địa điểm:** Vạn Độc Môn (Huyết Trì).
-**Thời điểm:** 10 năm trước (Hữu Tâm 13 tuổi).
+**Địa điểm:** Vạn Độc Môn (Hang động Tạp Dịch).
+**Thời điểm:** Ngay sau sự kiện Huyết Trì (Hữu Tâm 13 tuổi).
 **Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ).
 
 ---
 
-Máu. Mùi tanh nồng của máu lấp đầy khoang mũi ta, đặc quánh đến mức ta cảm tưởng như mình đang hít thở trong một bể nước đỏ lòm. Mà thực tế thì đúng là như vậy.
+Đêm đầu tiên sau khi rời khỏi Huyết Trì, ta không thể ngủ.
 
-Ta, Hữu Tâm — cái tên mà cha mẹ đã đặt cho ta với mong ước ta sống một đời có tình có nghĩa — khi ấy chỉ là một đứa trẻ mười ba tuổi gầy gò, đang ngâm mình trong Huyết Trì cùng với chín mươi chín đứa trẻ khác. Chúng ta đều là những cô nhi, những kẻ bị cha mẹ bỏ rơi, bị bán đi, hoặc bị bắt cóc từ những ngôi làng biên giới. Chúng ta được đưa về đây, Vạn Độc Môn, không phải để được nuôi dưỡng, mà để trở thành *thức ăn*.
+Cơ thể ta rã rời, từng thớ thịt như muốn tách rời khỏi khung xương. Da thịt phồng rộp vì ngâm lâu trong độc huyết, cảm giác ngứa ngáy và đau rát xen lẫn khiến ta muốn điên lên. Nhưng cơn đau thể xác chẳng là gì so với cơn ác mộng đang chờ chực mỗi khi ta nhắm mắt.
 
-"Kẻ sống sót cuối cùng sẽ là Thánh Tử."
+*“Hữu Tâm ca ca...”*
 
-Giọng nói khàn đục của Độc Cô Lão Quái vang lên từ trên bờ đá cao ngất, lạnh lùng và vô cảm như tiếng gọi của tử thần.
+Tiếng gọi của Tiểu Lan cứ văng vẳng bên tai ta, lúc gần lúc xa. Hình ảnh con rết khổng lồ cắn nát cổ họng nó, máu tươi bắn tung tóe... và rồi ánh mắt tuyệt vọng của nó khi chìm dần xuống đáy hồ. Ánh mắt ấy không oán trách, nhưng lại xoáy sâu vào tâm can ta như một lời nguyền rủa.
 
-Ta nhìn sang bên cạnh. Một đứa bé gái trạc tuổi ta, đôi mắt to tròn ngập nước, tay nắm chặt vạt áo rách rưới. Nó tên là Tiểu Lan. Mới hôm qua thôi, nó còn chia cho ta nửa cái bánh bao mốc meo mà nó giấu được.
+Ta bật dậy, mồ hôi lạnh toát ra như tắm.
 
-*“Hữu Tâm ca ca, muội sợ lắm...”*
+Xung quanh ta là vách đá ẩm ướt của hang động dành cho đám tạp dịch mới nhập môn. Không chăn ấm nệm êm, chỉ có những bó rơm mục nát và mùi nấm mốc nồng nặc.
 
-Tiếng thì thầm của nó vừa dứt thì một con rết khổng lồ từ đáy hồ trồi lên, hàm răng sắc nhọn cắm phập vào cổ nó. Máu phun ra, hòa vào dòng nước vốn đã đỏ ngầu. Tiểu Lan không kịp hét lên tiếng nào, thân xác nhỏ bé lập tức bị kéo tuột xuống đáy sâu.
+Ta nhìn xuống đôi bàn tay mình. Trong ánh trăng lờ mờ hắt vào từ cửa hang, ta vẫn thấy những vệt đỏ loang lổ. Dù ta đã kỳ cọ đến trầy da tróc vảy dưới suối, nhưng dường như màu máu của 98 đứa trẻ kia đã thấm sâu vào tận xương tủy.
 
-Ta không hét lên. Ta cũng không khóc. Trong khoảnh khắc đó, Hữu Tâm đã chết đi, và một thứ khác... đen tối hơn, lạnh lẽo hơn... bắt đầu trỗi dậy.
+"Quái vật..."
 
-Sợ hãi? Vô ích.
-Cầu xin? Nực cười.
-Ở cái nơi địa ngục này, lòng trắc ẩn là thứ độc dược chết người nhất. Muốn sống, ta phải trở thành kẻ ác nhất.
+Ta nhớ lại ánh mắt của đám đệ tử ngoại môn khi nhìn thấy ta bước lên từ Huyết Trì. Kinh hãi, ghê tởm, và cả sự đề phòng. Không ai dám đến gần ta. Ngay cả những tên cai ngục vốn hung hăng cũng phải lùi lại vài bước.
 
-Ta lặn xuống, không phải để trốn chạy, mà để tìm kiếm. Ta tìm thấy xác của Tiểu Lan, và cả con rết đang ngấu nghiến nó. Ta rút ra mảnh xương sườn sắc nhọn mà ta đã lén mài từ xác của một đứa trẻ khác đã chết hôm trước.
+Ta là kẻ sống sót duy nhất. Ta là "Thánh Tử" tương lai theo lời Độc Cô Lão Quái. Nhưng hiện tại, ta chỉ là một đứa trẻ cô độc giữa bầy sói.
 
-*Phập!*
+Bụng ta réo lên cồn cào. Đã hai ngày ta chưa có gì bỏ vào bụng ngoài máu độc của con rết kia. Cơn đói cào xé ruột gan, nhưng cơn khát máu còn mãnh liệt hơn.
 
-Ta đâm mạnh vào mắt con rết. Nó quằn quại, điên cuồng quẫy đạp. Ta bám chặt lấy lưng nó, mặc cho lớp vỏ cứng cứa vào da thịt ta ứa máu. Ta cắn. Đúng, ta cắn vào vết thương của nó, uống lấy dòng máu độc màu xanh lục đang chảy ra.
+Ta lảo đảo đứng dậy, bước ra khỏi hang. Gió đêm ở Vạn Độc Môn lạnh buốt, mang theo mùi tử khí đặc trưng. Ta men theo con đường mòn dẫn xuống khu nhà bếp.
 
-Cơn đau đớn như thiêu đốt lục phủ ngũ tạng ập đến. Ta cảm thấy như có ngàn vạn con kiến lửa đang gặm nhấm từng thớ thịt. Nhưng ta không buông tay. Ta uống, uống đến khi bụng căng cứng, uống đến khi con rết kia lịm đi vì mất máu.
+Ở đó, ta nhìn thấy một con chó hoang đang gặm xương thừa. Một con chó gầy trơ xương, lông rụng từng mảng lở loét. Nó nhìn thấy ta, gầm gừ đe dọa.
 
-Khi ta trồi lên mặt nước lần nữa, chín mươi tám đứa trẻ còn lại đều nhìn ta bằng ánh mắt kinh hoàng. Chúng thấy một con quỷ dữ, toàn thân nhuộm máu xanh đỏ lẫn lộn, đôi mắt rực lên ánh sáng man dại.
+Bình thường, Hữu Tâm của ngày xưa sẽ sợ hãi bỏ chạy. Nhưng Hữu Tâm của bây giờ...
 
-"Giết," ta gầm lên, giọng nói không còn là của một đứa trẻ.
+Ta cảm thấy một luồng nhiệt chạy dọc sống lưng. Đồng tử ta co lại. Ta không thấy con chó, ta chỉ thấy một khối thịt và máu đang di chuyển.
 
-Đêm đó, Huyết Trì dậy sóng. Ta không nhớ mình đã giết bao nhiêu người, hay bao nhiêu con độc trùng. Ta chỉ nhớ cảm giác máu nóng hổi chảy qua kẽ tay, nhớ tiếng xương gãy giòn tan dưới chân mình.
+Ta lao tới.
 
-Khi bình minh lên, chỉ còn một mình ta đứng vững giữa biển xác chết.
+Con chó sủa lên một tiếng kinh ngạc rồi chồm tới cắn ta. Nhưng ta nhanh hơn. Ta né được cú táp của nó, tay trái túm lấy gáy nó, đè nghiến xuống đất. Tay phải ta vớ lấy một hòn đá sắc cạnh bên đường.
 
-Độc Cô Lão Quái bước xuống, nhìn ta với ánh mắt hài lòng hiếm thấy. Lão đưa bàn tay khô khốc vuốt lên trán ta, để lại một dấu ấn đau rát.
+*Bộp!*
 
-"Từ nay, cái tên Hữu Tâm đã chết. Ngươi là Vô Tâm. Lệ Vô Tâm."
+Hòn đá đập mạnh vào đầu con chó. Nó rên ư ử, giãy giụa yếu ớt.
 
-Ta quỳ xuống, cúi đầu thật thấp, che giấu nụ cười méo mó trên môi.
+*Bộp! Bộp!*
 
-*Tiểu Lan à, cái bánh bao đó... ta đã trả lại bằng chín mươi tám mạng người và cả một con Huyết Rết ngàn năm. Đủ chưa?*
+Ta đập thêm hai nhát nữa. Máu văng lên mặt ta, nóng hổi. Mùi tanh nồng xộc vào mũi, nhưng thay vì buồn nôn, ta lại cảm thấy... hưng phấn. Cơn đói cồn cào trong bụng dịu đi một chút, thay vào đó là một cảm giác thỏa mãn kỳ lạ.
+
+Ta buông tay. Con chó nằm bất động, óc trắng chảy ra hòa lẫn với máu.
+
+Ta ngồi bệt xuống đất, thở hổn hển. Nhìn đôi tay nhuốm máu của mình, rồi nhìn xác con vật vô tội.
+
+Nước mắt ta trào ra.
+
+"Tiểu Lan... ta xin lỗi..." ta nấc lên, tiếng khóc nghẹn ngào trong cổ họng. "Ta không muốn... ta thực sự không muốn..."
+
+Nhưng sâu thẳm trong ta, một giọng nói lạnh lẽo vang lên: *Khóc lóc cái gì? Muốn sống thì phải giết. Mày đã giết Tiểu Lan, giết cả đám bạn bè của mày. Bây giờ mày còn giả nhân giả nghĩa với một con chó sao?*
+
+Ta lau nước mắt, nghiến chặt răng.
+
+Đúng vậy. Hữu Tâm đã chết rồi. Chết ở dưới đáy Huyết Trì kia rồi.
+
+Ta đứng dậy, đá cái xác con chó xuống vực thẳm.
+
+Từ ngày mai, ta sẽ không khóc nữa. Ta sẽ sống. Sống để chứng minh cho thế giới này thấy, kẻ sống sót cuối cùng mới là kẻ mạnh nhất.

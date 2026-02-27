@@ -2,35 +2,25 @@
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px; color: #adb5bd;">⬅️ Chương Trước</td>
+<td style="border: none; padding: 5px;"><a href="Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00002_Hậu_Quả_Sinh_Tồn.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00017_Những_Bữa_Ăn_Vụng_Trộm.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
 <summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
 <ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00001_Đường_Đến_Thánh_Vị.html">Chương 1: Đường Đến Thánh Vị</a></li>
+<li style="padding: 5px; "><a href="Chương_00001_Đường_Đến_Thánh_Vị.html">Chương 1: Đường Đến Thánh Vị</a></li>
 <li style="padding: 5px; "><a href="Chương_00002_Hậu_Quả_Sinh_Tồn.html">Chương 2: Hậu Quả Sinh Tồn</a></li>
 <li style="padding: 5px; "><a href="Chương_00003_Bài_Học_Vô_Cảm.html">Chương 3: Bài Học Vô Cảm</a></li>
 <li style="padding: 5px; "><a href="Chương_00004_Sự_Phản_Bội_Đầu_Tiên.html">Chương 4: Sự Phản Bội Đầu Tiên</a></li>
 <li style="padding: 5px; "><a href="Chương_00005_Bóng_Tối_Cô_Độc.html">Chương 5: Bóng Tối Cô Độc</a></li>
 <li style="padding: 5px; "><a href="Chương_00006_Thử_Thách_Vạn_Độc.html">Chương 6: Thử Thách Vạn Độc</a></li>
 <li style="padding: 5px; "><a href="Chương_00007_Huyết_Nguyệt_Sát_Cơ.html">Chương 7: Huyết Nguyệt Sát Cơ</a></li>
+<li style="padding: 5px; "><a href="Chương_00008_Diện_Kiến_Lão_Quái.html">Chương 8: Diện Kiến Lão Quái</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00016_Người_Bạn_Câm.html">Chương 16: Người Bạn Câm</a></li>
 <li style="padding: 5px; "><a href="Chương_00031_Huyết_Độc_Phiến.html">Chương 31: Huyết Độc Phiến</a></li>
-<li style="padding: 5px; "><a href="Chương_00033_Bẫy_Rập_Rừng_Sương.html">Chương 33: Bẫy Rập Rừng Sương</a></li>
-<li style="padding: 5px; "><a href="Chương_00036_Diệt_Môn_Chi_Họa.html">Chương 36: Diệt Môn Chi Họa</a></li>
-<li style="padding: 5px; "><a href="Chương_00039_Thanh_Trừng_Nội_Bộ.html">Chương 39: Thanh Trừng Nội Bộ</a></li>
-<li style="padding: 5px; "><a href="Chương_00061_Mệnh_Lệnh_Bóng_Tối.html">Chương 61: Mệnh Lệnh Bóng Tối</a></li>
-<li style="padding: 5px; "><a href="Chương_00062_Thí_Nghiệm_Máu.html">Chương 62: Thí Nghiệm Máu</a></li>
-<li style="padding: 5px; "><a href="Chương_00063_Ván_Cờ_Huyết_Độc.html">Chương 63: Ván Cờ Huyết Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00064_Truy_Vết_Tử_Thần.html">Chương 64: Truy Vết Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00065_Dưới_Bóng_Hắc_Sa.html">Chương 65: Dưới Bóng Hắc Sa</a></li>
-<li style="padding: 5px; "><a href="Chương_00066_Huyết_Tế_Sa_Mạc.html">Chương 66: Huyết Tế Sa Mạc</a></li>
-<li style="padding: 5px; "><a href="Chương_00067_Sát_Ý_Rừng_Gai.html">Chương 67: Sát Ý Rừng Gai</a></li>
-<li style="padding: 5px; "><a href="Chương_00068_Mạng_Lưới_Tử_Thần.html">Chương 68: Mạng Lưới Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00069_Con_Mồi_Vào_Rọ.html">Chương 69: Con Mồi Vào Rọ</a></li>
 </ul>
 </details>
 <div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
@@ -54,7 +44,7 @@
     var contentElements = [];
 
     // Next chapter URL
-    var nextChapterUrl = "Chương_00002_Hậu_Quả_Sinh_Tồn.html";
+    var nextChapterUrl = "Chương_00017_Những_Bữa_Ăn_Vụng_Trộm.html";
 
     function getReadableElements() {
         // Collect all paragraph-like elements in the body
@@ -223,56 +213,68 @@
 
 </div>
 <!-- NAVIGATION_END -->
-# Chương 1: Đường Đến Thánh Vị
+# Chương 16: Người Bạn Câm
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Địa điểm:** Vạn Độc Môn (Huyết Trì).
-**Thời điểm:** 10 năm trước (Hữu Tâm 13 tuổi).
+**Địa điểm:** Vạn Độc Môn (Dược Điền).
+**Thời điểm:** 2 năm sau Huyết Trì (Hữu Tâm 15 tuổi).
 **Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ).
 
 ---
 
-Máu. Mùi tanh nồng của máu lấp đầy khoang mũi ta, đặc quánh đến mức ta cảm tưởng như mình đang hít thở trong một bể nước đỏ lòm. Mà thực tế thì đúng là như vậy.
+Hai năm đã trôi qua. Ta mười lăm tuổi, nhưng nhìn vào gương nước, ta thấy một gương mặt già nua của một kẻ đã sống cả trăm năm. Da ta trắng bệch như sáp nến, đôi mắt sâu hoắm, và trên cơ thể không còn một tấc da thịt nào nguyên vẹn.
 
-Ta, Hữu Tâm — cái tên mà cha mẹ đã đặt cho ta với mong ước ta sống một đời có tình có nghĩa — khi ấy chỉ là một đứa trẻ mười ba tuổi gầy gò, đang ngâm mình trong Huyết Trì cùng với chín mươi chín đứa trẻ khác. Chúng ta đều là những cô nhi, những kẻ bị cha mẹ bỏ rơi, bị bán đi, hoặc bị bắt cóc từ những ngôi làng biên giới. Chúng ta được đưa về đây, Vạn Độc Môn, không phải để được nuôi dưỡng, mà để trở thành *thức ăn*.
+Ta được phép ra ngoài. Độc Cô Lão Quái giao cho ta nhiệm vụ chăm sóc khu Dược Điền phía tây, nơi trồng những cây Huyết Mộc non. Công việc này không nặng nhọc, nhưng đòi hỏi sự tỉ mỉ. Nếu để chết một cây, ta sẽ bị phạt ngâm mình trong bể axit ba ngày.
 
-"Kẻ sống sót cuối cùng sẽ là Thánh Tử."
+Ta đang lúi húi xới đất, chợt nghe tiếng sột soạt sau lưng.
 
-Giọng nói khàn đục của Độc Cô Lão Quái vang lên từ trên bờ đá cao ngất, lạnh lùng và vô cảm như tiếng gọi của tử thần.
+Ta quay phắt lại, tay đã thủ sẵn một con dao găm tẩm độc.
 
-Ta nhìn sang bên cạnh. Một đứa bé gái trạc tuổi ta, đôi mắt to tròn ngập nước, tay nắm chặt vạt áo rách rưới. Nó tên là Tiểu Lan. Mới hôm qua thôi, nó còn chia cho ta nửa cái bánh bao mốc meo mà nó giấu được.
+Một bóng người nhỏ bé đang co rúm lại sau gốc cây Huyết Mộc. Đó là một tên tạp dịch, mặc bộ quần áo rách nát, mặt mày lấm lem bùn đất. Hắn nhìn ta với đôi mắt to tròn, sợ hãi.
 
-*“Hữu Tâm ca ca, muội sợ lắm...”*
+"Ai?" Ta gằn giọng.
 
-Tiếng thì thầm của nó vừa dứt thì một con rết khổng lồ từ đáy hồ trồi lên, hàm răng sắc nhọn cắm phập vào cổ nó. Máu phun ra, hòa vào dòng nước vốn đã đỏ ngầu. Tiểu Lan không kịp hét lên tiếng nào, thân xác nhỏ bé lập tức bị kéo tuột xuống đáy sâu.
+Hắn không trả lời, chỉ lắc đầu lia lịa, tay chân run rẩy. Hắn chỉ vào cái giỏ mây bên cạnh, rồi lại chỉ vào miệng mình, ra hiệu xin ăn.
 
-Ta không hét lên. Ta cũng không khóc. Trong khoảnh khắc đó, Hữu Tâm đã chết đi, và một thứ khác... đen tối hơn, lạnh lẽo hơn... bắt đầu trỗi dậy.
+Ta cau mày. "Ngươi bị câm?"
 
-Sợ hãi? Vô ích.
-Cầu xin? Nực cười.
-Ở cái nơi địa ngục này, lòng trắc ẩn là thứ độc dược chết người nhất. Muốn sống, ta phải trở thành kẻ ác nhất.
+Hắn gật đầu.
 
-Ta lặn xuống, không phải để trốn chạy, mà để tìm kiếm. Ta tìm thấy xác của Tiểu Lan, và cả con rết đang ngấu nghiến nó. Ta rút ra mảnh xương sườn sắc nhọn mà ta đã lén mài từ xác của một đứa trẻ khác đã chết hôm trước.
+Ta nhìn hắn một lúc lâu. Hắn gầy gò, yếu ớt, chẳng khác gì con chó hoang mà ta đã giết hai năm trước. Trong Vạn Độc Môn này, những kẻ như hắn thường không sống quá ba tháng. Vậy mà hắn vẫn sống, vẫn đi xin ăn.
 
-*Phập!*
+Ta hạ con dao xuống. Một cảm giác kỳ lạ dâng lên trong lòng. Có lẽ vì hắn giống ta của ngày xưa. Có lẽ vì đôi mắt hắn không chứa đựng sự toan tính hay thù hận, chỉ đơn thuần là bản năng sinh tồn.
 
-Ta đâm mạnh vào mắt con rết. Nó quằn quại, điên cuồng quẫy đạp. Ta bám chặt lấy lưng nó, mặc cho lớp vỏ cứng cứa vào da thịt ta ứa máu. Ta cắn. Đúng, ta cắn vào vết thương của nó, uống lấy dòng máu độc màu xanh lục đang chảy ra.
+"Biến đi," ta nói, nhưng tay lại ném cho hắn nửa cái bánh bao khô khốc mà ta mang theo.
 
-Cơn đau đớn như thiêu đốt lục phủ ngũ tạng ập đến. Ta cảm thấy như có ngàn vạn con kiến lửa đang gặm nhấm từng thớ thịt. Nhưng ta không buông tay. Ta uống, uống đến khi bụng căng cứng, uống đến khi con rết kia lịm đi vì mất máu.
+Hắn chộp lấy cái bánh như vớ được vàng, cúi đầu cảm tạ rối rít rồi chạy biến vào rừng.
 
-Khi ta trồi lên mặt nước lần nữa, chín mươi tám đứa trẻ còn lại đều nhìn ta bằng ánh mắt kinh hoàng. Chúng thấy một con quỷ dữ, toàn thân nhuộm máu xanh đỏ lẫn lộn, đôi mắt rực lên ánh sáng man dại.
+Ngày hôm sau, hắn lại đến. Lần này hắn mang theo một nắm quả dại màu đỏ mọng. Hắn rụt rè đặt xuống trước mặt ta, rồi lùi lại vài bước, chờ đợi.
 
-"Giết," ta gầm lên, giọng nói không còn là của một đứa trẻ.
+Ta nhìn nắm quả dại. Đây là Huyết Long Quả, một loại quả có độc tính nhẹ, nhưng lại rất tốt cho việc bồi bổ khí huyết. Hắn tìm đâu ra thứ này?
 
-Đêm đó, Huyết Trì dậy sóng. Ta không nhớ mình đã giết bao nhiêu người, hay bao nhiêu con độc trùng. Ta chỉ nhớ cảm giác máu nóng hổi chảy qua kẽ tay, nhớ tiếng xương gãy giòn tan dưới chân mình.
+"Ngươi... cho ta?" Ta hỏi.
 
-Khi bình minh lên, chỉ còn một mình ta đứng vững giữa biển xác chết.
+Hắn gật đầu, mỉm cười. Nụ cười ngây ngô, để lộ hàm răng sún.
 
-Độc Cô Lão Quái bước xuống, nhìn ta với ánh mắt hài lòng hiếm thấy. Lão đưa bàn tay khô khốc vuốt lên trán ta, để lại một dấu ấn đau rát.
+Ta cầm một quả lên, cắn thử. Vị chua ngọt lan tỏa trong miệng, làm dịu đi vị đắng ngắt của thuốc độc mà ta phải uống hàng ngày.
 
-"Từ nay, cái tên Hữu Tâm đã chết. Ngươi là Vô Tâm. Lệ Vô Tâm."
+"Tên ngươi là gì?"
 
-Ta quỳ xuống, cúi đầu thật thấp, che giấu nụ cười méo mó trên môi.
+Hắn lấy một cành cây khô, viết lên mặt đất chữ "Mộc" nghuệch ngoạc.
 
-*Tiểu Lan à, cái bánh bao đó... ta đã trả lại bằng chín mươi tám mạng người và cả một con Huyết Rết ngàn năm. Đủ chưa?*
+"A Mộc?"
+
+Hắn gật đầu lia lịa, ánh mắt sáng lên.
+
+Từ hôm đó, A Mộc trở thành cái bóng của ta. Hắn giúp ta xới đất, tưới nước cho cây Huyết Mộc. Hắn không nói được, nhưng hắn rất thạo việc. Những lúc rảnh rỗi, hắn thường ngồi bên cạnh ta, nghe ta kể lảm nhảm về những thứ vô nghĩa mà ta nhìn thấy trong sách độc dược.
+
+Hắn là người duy nhất không sợ ta. Hắn là người duy nhất nhìn ta như một con người, chứ không phải một con quái vật.
+
+Ta bắt đầu dạy hắn một vài chiêu thức phòng thân cơ bản. Ta chia sẻ cho hắn những khẩu phần ăn ít ỏi của mình. Ta thậm chí còn lén lấy thuốc trị thương của Lão Quái để bôi lên những vết roi trên lưng hắn.
+
+Dần dần, ta cảm thấy mình đang sống lại. Trái tim băng giá của ta bắt đầu tan chảy. Ta tự nhủ, có lẽ trong cái địa ngục trần gian này, vẫn còn tồn tại một chút gì đó gọi là tình người.
+
+A Mộc... ta sẽ bảo vệ ngươi. Dù có phải chống lại cả Vạn Độc Môn này, ta cũng sẽ không để ai làm hại ngươi.
+
+Nhưng lúc đó, ta đâu biết rằng, chính sự tin tưởng ngây thơ ấy lại là nhát dao chí mạng, đẩy ta xuống vực thẳm tăm tối hơn cả cái chết.
