@@ -1,78 +1,29 @@
 <!-- NAVIGATION_START -->
-<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
+<div style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00000_Tuyết_Phủ_Mộ_Phần.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00001_Tuyết_Phủ_Mộ_Phần.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a href="Chương_00001_Nhiệm_Vụ_Đơn_Độc.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00003_Nhiệm_Vụ_Đơn_Độc.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
 <summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
 <ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
-<li style="padding: 5px; "><a href="Chương_00000_Tuyết_Phủ_Mộ_Phần.html">Chương 0: Tuyết Phủ Mộ Phần</a></li>
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00000_5_Thử_Thách_Đầu_Tiên.html">Chương 0.5: Thử Thách Đầu Tiên</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_Nhiệm_Vụ_Đơn_Độc.html">Chương 1: Nhiệm Vụ Đơn Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_5_Dấu_Vết_Tàn_Khốc.html">Chương 1.5: Dấu Vết Tàn Khốc</a></li>
-<li style="padding: 5px; "><a href="Chương_00002_Hội_Ngộ_Bất_Ngờ.html">Chương 2: Hội Ngộ Bất Ngờ</a></li>
-<li style="padding: 5px; "><a href="Chương_00003_Lời_Thề_Kiếm_Khách.html">Chương 3: Lời Thề Kiếm Khách</a></li>
-<li style="padding: 5px; "><a href="Chương_00004_Lạc_Giữa_Thâm_Cung.html">Chương 4: Lạc Giữa Thâm Cung</a></li>
-<li style="padding: 5px; "><a href="Chương_00005_Thoát_Khỏi_Địa_Ngục.html">Chương 5: Thoát Khỏi Địa Ngục</a></li>
-<li style="padding: 5px; "><a href="Chương_00006_Quyết_Định_Sinh_Tử.html">Chương 6: Quyết Định Sinh Tử</a></li>
-<li style="padding: 5px; "><a href="Chương_00007_Đối_Mặt_Sát_Cơ.html">Chương 7: Đối Mặt Sát Cơ</a></li>
+<li style="padding: 5px; "><a href="Chương_00001_Tuyết_Phủ_Mộ_Phần.html">Chương 1: Tuyết Phủ Mộ Phần</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00002_Thử_Thách_Đầu_Tiên.html">Chương 2: Thử Thách Đầu Tiên</a></li>
+<li style="padding: 5px; "><a href="Chương_00003_Nhiệm_Vụ_Đơn_Độc.html">Chương 3: Nhiệm Vụ Đơn Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00004_Dấu_Vết_Tàn_Khốc.html">Chương 4: Dấu Vết Tàn Khốc</a></li>
+<li style="padding: 5px; "><a href="Chương_00005_Hội_Ngộ_Bất_Ngờ.html">Chương 5: Hội Ngộ Bất Ngờ</a></li>
+<li style="padding: 5px; "><a href="Chương_00006_Lời_Thề_Kiếm_Khách.html">Chương 6: Lời Thề Kiếm Khách</a></li>
+<li style="padding: 5px; "><a href="Chương_00007_Lạc_Giữa_Thâm_Cung.html">Chương 7: Lạc Giữa Thâm Cung</a></li>
+<li style="padding: 5px; "><a href="Chương_00008_Thoát_Khỏi_Địa_Ngục.html">Chương 8: Thoát Khỏi Địa Ngục</a></li>
 </ul>
 </details>
-<div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
-  <strong>🎧 Nghe Chương Này:</strong>
-  <br>
-  <button onclick="speakChapter()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button>
-  <button onclick="pauseSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏸️ Tạm Dừng</button>
-  <button onclick="resumeSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏯️ Tiếp Tục</button>
-  <button onclick="stopSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏹️ Dừng</button>
-</div>
-<script>
-var synth = window.speechSynthesis;
-var utterance = null;
-
-function speakChapter() {
-  if (synth.speaking) {
-    console.error("speechSynthesis.speaking");
-    return;
-  }
-  // Clone body to remove navigation before reading
-  var content = document.body.cloneNode(true);
-  var nav = content.querySelector("#chapter-navigation");
-  if (nav) {
-    nav.remove();
-  }
-  var text = content.innerText;
-  utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = "vi-VN";
-  synth.speak(utterance);
-}
-
-function pauseSpeech() {
-  if (synth.speaking && !synth.paused) {
-    synth.pause();
-  }
-}
-
-function resumeSpeech() {
-  if (synth.paused) {
-    synth.resume();
-  }
-}
-
-function stopSpeech() {
-  if (synth.speaking) {
-    synth.cancel();
-  }
-}
-</script>
 </div>
 <!-- NAVIGATION_END -->
-# Chương 0.5: Thử Thách Đầu Tiên
+# Chương 2: Thử Thách Đầu Tiên
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)

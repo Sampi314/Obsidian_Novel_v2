@@ -1,82 +1,30 @@
 <!-- NAVIGATION_START -->
-<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
+<div style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00001_3_Sự_Phản_Bội_Đầu_Tiên.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00001_Đường_Đến_Thánh_Vị.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a href="Chương_00002_2_Bẫy_Rập_Rừng_Sương.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00003_Bẫy_Rập_Rừng_Sương.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
 <summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
 <ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
 <li style="padding: 5px; "><a href="Chương_00001_Đường_Đến_Thánh_Vị.html">Chương 1: Đường Đến Thánh Vị</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_1_Hậu_Quả_Sinh_Tồn.html">Chương 1.1: Hậu Quả Sinh Tồn</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_2_Bài_Học_Vô_Cảm.html">Chương 1.2: Bài Học Vô Cảm</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_3_Sự_Phản_Bội_Đầu_Tiên.html">Chương 1.3: Sự Phản Bội Đầu Tiên</a></li>
 <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00002_Huyết_Độc_Phiến.html">Chương 2: Huyết Độc Phiến</a></li>
-<li style="padding: 5px; "><a href="Chương_00002_2_Bẫy_Rập_Rừng_Sương.html">Chương 2.2: Bẫy Rập Rừng Sương</a></li>
-<li style="padding: 5px; "><a href="Chương_00002_5_Diệt_Môn_Chi_Họa.html">Chương 2.5: Diệt Môn Chi Họa</a></li>
-<li style="padding: 5px; "><a href="Chương_00002_8_Thanh_Trừng_Nội_Bộ.html">Chương 2.8: Thanh Trừng Nội Bộ</a></li>
-<li style="padding: 5px; "><a href="Chương_00003_Mệnh_Lệnh_Bóng_Tối.html">Chương 3: Mệnh Lệnh Bóng Tối</a></li>
-<li style="padding: 5px; "><a href="Chương_00004_Thí_Nghiệm_Máu.html">Chương 4: Thí Nghiệm Máu</a></li>
-<li style="padding: 5px; "><a href="Chương_00005_Ván_Cờ_Huyết_Độc.html">Chương 5: Ván Cờ Huyết Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00006_Truy_Vết_Tử_Thần.html">Chương 6: Truy Vết Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00007_Dưới_Bóng_Hắc_Sa.html">Chương 7: Dưới Bóng Hắc Sa</a></li>
-<li style="padding: 5px; "><a href="Chương_00008_Huyết_Tế_Sa_Mạc.html">Chương 8: Huyết Tế Sa Mạc</a></li>
-<li style="padding: 5px; "><a href="Chương_00009_Sát_Ý_Rừng_Gai.html">Chương 9: Sát Ý Rừng Gai</a></li>
-<li style="padding: 5px; "><a href="Chương_00010_Mạng_Lưới_Tử_Thần.html">Chương 10: Mạng Lưới Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00011_Con_Mồi_Vào_Rọ.html">Chương 11: Con Mồi Vào Rọ</a></li>
+<li style="padding: 5px; "><a href="Chương_00003_Bẫy_Rập_Rừng_Sương.html">Chương 3: Bẫy Rập Rừng Sương</a></li>
+<li style="padding: 5px; "><a href="Chương_00004_Diệt_Môn_Chi_Họa.html">Chương 4: Diệt Môn Chi Họa</a></li>
+<li style="padding: 5px; "><a href="Chương_00005_Thanh_Trừng_Nội_Bộ.html">Chương 5: Thanh Trừng Nội Bộ</a></li>
+<li style="padding: 5px; "><a href="Chương_00006_Mệnh_Lệnh_Bóng_Tối.html">Chương 6: Mệnh Lệnh Bóng Tối</a></li>
+<li style="padding: 5px; "><a href="Chương_00007_Thí_Nghiệm_Máu.html">Chương 7: Thí Nghiệm Máu</a></li>
+<li style="padding: 5px; "><a href="Chương_00008_Ván_Cờ_Huyết_Độc.html">Chương 8: Ván Cờ Huyết Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00009_Truy_Vết_Tử_Thần.html">Chương 9: Truy Vết Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00010_Dưới_Bóng_Hắc_Sa.html">Chương 10: Dưới Bóng Hắc Sa</a></li>
+<li style="padding: 5px; "><a href="Chương_00011_Huyết_Tế_Sa_Mạc.html">Chương 11: Huyết Tế Sa Mạc</a></li>
+<li style="padding: 5px; "><a href="Chương_00012_Sát_Ý_Rừng_Gai.html">Chương 12: Sát Ý Rừng Gai</a></li>
 </ul>
 </details>
-<div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
-  <strong>🎧 Nghe Chương Này:</strong>
-  <br>
-  <button onclick="speakChapter()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button>
-  <button onclick="pauseSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏸️ Tạm Dừng</button>
-  <button onclick="resumeSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏯️ Tiếp Tục</button>
-  <button onclick="stopSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏹️ Dừng</button>
-</div>
-<script>
-var synth = window.speechSynthesis;
-var utterance = null;
-
-function speakChapter() {
-  if (synth.speaking) {
-    console.error("speechSynthesis.speaking");
-    return;
-  }
-  // Clone body to remove navigation before reading
-  var content = document.body.cloneNode(true);
-  var nav = content.querySelector("#chapter-navigation");
-  if (nav) {
-    nav.remove();
-  }
-  var text = content.innerText;
-  utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = "vi-VN";
-  synth.speak(utterance);
-}
-
-function pauseSpeech() {
-  if (synth.speaking && !synth.paused) {
-    synth.pause();
-  }
-}
-
-function resumeSpeech() {
-  if (synth.paused) {
-    synth.resume();
-  }
-}
-
-function stopSpeech() {
-  if (synth.speaking) {
-    synth.cancel();
-  }
-}
-</script>
 </div>
 <!-- NAVIGATION_END -->
 # Chương 2: Huyết Độc Phiến
