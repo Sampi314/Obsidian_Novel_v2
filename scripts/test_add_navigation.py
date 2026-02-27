@@ -34,5 +34,23 @@ class TestExtractChapterNumber(unittest.TestCase):
         filename = "Chương_000_Mở_Đầu.md"
         self.assertEqual(extract_chapter_number(filename), 0.0)
 
+    def test_search_anywhere(self):
+        filename = "path/to/Chương_010_Tiêu_Đề.md"
+        self.assertEqual(extract_chapter_number(filename), 10.0)
+
+    def test_requires_trailing_underscore(self):
+        filename = "Chương_010.md"
+        self.assertEqual(extract_chapter_number(filename), float('inf'))
+
+    def test_case_sensitivity(self):
+        filename = "chương_010_Tiêu_Đề.md"
+        self.assertEqual(extract_chapter_number(filename), float('inf'))
+
+    def test_multi_digit_minor(self):
+        # Current implementation divides minor by 10.0
+        # So 10 / 10.0 = 1.0. Major 1 + 1.0 = 2.0
+        filename = "Chương_001_10_Tiêu_Đề.md"
+        self.assertEqual(extract_chapter_number(filename), 2.0)
+
 if __name__ == '__main__':
     unittest.main()
