@@ -2,10 +2,10 @@
 <div style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00005_Dưới_Bóng_Ma_Rừng_Thẳm.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00061_Mê_Cung_Nấm_Độc.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a href="Chương_00007_Dấu_Vết_Cổ_Xưa.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_Mẫu_Huyền_Băng.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
@@ -16,7 +16,7 @@
 <li style="padding: 5px; "><a href="Chương_00003_Bóng_Ma_Trong_Màn_Sương.html">Chương 3: Bóng Ma Trong Màn Sương</a></li>
 <li style="padding: 5px; "><a href="Chương_00004_Vạn_Độc_Thánh_Tử.html">Chương 4: Vạn Độc Thánh Tử</a></li>
 <li style="padding: 5px; "><a href="Chương_00005_Dưới_Bóng_Ma_Rừng_Thẳm.html">Chương 5: Dưới Bóng Ma Rừng Thẳm</a></li>
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00006_Huyết_Chiến_Đầm_Lầy.html">Chương 6: Huyết Chiến Đầm Lầy</a></li>
+<li style="padding: 5px; "><a href="Chương_00006_Huyết_Chiến_Đầm_Lầy.html">Chương 6: Huyết Chiến Đầm Lầy</a></li>
 <li style="padding: 5px; "><a href="Chương_00007_Dấu_Vết_Cổ_Xưa.html">Chương 7: Dấu Vết Cổ Xưa</a></li>
 <li style="padding: 5px; "><a href="Chương_00008_Huyết_Tướng_Truy_Sát.html">Chương 8: Huyết Tướng Truy Sát</a></li>
 <li style="padding: 5px; "><a href="Chương_00009_Núi_Độc_Long.html">Chương 9: Núi Độc Long</a></li>
@@ -72,97 +72,82 @@
 <li style="padding: 5px; "><a href="Chương_00059_Lối_Mòn_Trong_Lòng_Đất.html">Chương 59: Lối Mòn Trong Lòng Đất</a></li>
 <li style="padding: 5px; "><a href="Chương_00060_Hỗn_Loạn_Tại_Kho_Chứa.html">Chương 60: Hỗn Loạn Tại Kho Chứa</a></li>
 <li style="padding: 5px; "><a href="Chương_00061_Mê_Cung_Nấm_Độc.html">Chương 61: Mê Cung Nấm Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00062_Bí_Mật_Huyết_Trì.html">Chương 62: Bí Mật Huyết Trì (血池之秘)</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00062_Bí_Mật_Huyết_Trì.html">Chương 62: Bí Mật Huyết Trì (血池之秘)</a></li>
 <li style="padding: 5px; "><a href="Chương_Mẫu_Huyền_Băng.html">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
 </ul>
 </details>
 </div>
 <!-- NAVIGATION_END -->
-# Chương 6: Huyết Chiến Đầm Lầy
+# Chương 62: Bí Mật Huyết Trì (血池之秘)
 
-**Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
-**Địa điểm:** [Đầm Lầy Tử Thần](../../Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md) - Rìa phía Đông.
-**Thời điểm:** Đêm khuya về sáng.
+Sau khi thoát khỏi vòng vây điên cuồng của đám Mộc Độc Sư trong Nấm Độc Lâm, ba người Diệp Tĩnh Sương, Lâm Phong và Hứa Nhược Thủy thở hổn hển, dựa lưng vào một vách đá ẩm ướt. Không gian xung quanh bắt đầu thay đổi rõ rệt. Cái lạnh ẩm thấp và mùi mốc meo của nấm độc dần bị thay thế bởi một luồng khí nóng hầm hập, mang theo mùi tanh nồng đặc trưng của máu tươi pha lẫn dược liệu.
 
----
+"Chúng ta đã đến nơi rồi," Hứa Nhược Thủy thì thầm, ánh mắt bà nhìn chằm chằm về phía trước, nơi ánh sáng đỏ rực đang hắt lên vòm hang động cao vút. "Vườn Dược Liệu của Vạn Độc Môn."
 
-Bầu trời phía trên Đầm Lầy Tử Thần như bị một tấm màn đen kịt che phủ, không chút ánh sao. Thay vào đó là màn sương lục nhạt lờ lờ, bốc lên mùi hôi thối nồng nặc của xác chết phân hủy và bùn lầy ngàn năm.
+Lâm Phong nheo mắt nhìn theo hướng bà chỉ. Trước mặt họ là một thung lũng ngầm khổng lồ, rộng lớn đến mức không thấy điểm cuối. Nhưng cảnh tượng bên trong khiến hắn, một kẻ đã từng vào sinh ra tử nhiều lần, cũng phải rùng mình kinh hãi.
 
-*Bõm... Bõm...*
+Đây không phải là vườn cây thuốc bình thường.
 
-Tiếng bước chân nặng nề vang lên trong đêm tĩnh mịch. [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md) dìu [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), mỗi bước đi đều phải dò dẫm cẩn thận. Bùn lầy ở đây chỗ nông chỗ sâu, chỉ cần sơ sẩy một chút là có thể bị nuốt chửng vào cái bụng không đáy của đầm lầy.
+Hàng vạn "cây thuốc" được trồng ngay ngắn thành từng luống, trải dài tít tắp. Nhưng những "cây thuốc" đó lại mọc ra từ cơ thể con người!
 
-"Ngươi... thả ta xuống đi," Diệp Tĩnh Sương khó nhọc lên tiếng, hơi thở đứt quãng. Độc khí trong người nàng cộng hưởng với chướng khí nơi đây khiến kinh mạch đau nhức như bị kim châm.
+Đó là những tu sĩ và phàm nhân bị lột trần, chôn nửa người xuống đất bùn đỏ quạch. Da thịt họ nứt nẻ, mạch máu nổi lên chằng chịt như rễ cây, xuyên qua lớp da để cắm sâu vào lòng đất hút dưỡng chất. Từ đỉnh đầu, vai, ngực, thậm chí hốc mắt của họ, những cây linh dược kỳ dị vươn lên, lá xanh mơn mởn, hoa nở rực rỡ.
 
-"Im lặng và tiết kiệm sức lực đi," Lâm Phong gắt gỏng, nhưng tay vẫn giữ chặt lấy nàng. "Nếu ta thả cô xuống, cô sẽ chìm nghỉm trong vũng bùn này trước khi kịp rút kiếm ra đấy."
+"Dược Nhân..." Diệp Tĩnh Sương siết chặt chuôi kiếm, giọng nói run rẩy vì giận dữ. "Lũ súc sinh này dám dùng người sống để nuôi thuốc!"
 
-Hắn dừng lại, nheo mắt nhìn về phía trước. Cây cối ở đây đều vặn vẹo kỳ dị, thân cây đen đúa đầy những u bướu sần sùi, rễ cây trồi lên mặt bùn như những con trăn khổng lồ đang ngủ đông.
+"Không chỉ là nuôi thuốc," Hứa Nhược Thủy giải thích, giọng bà lạnh lẽo nhưng không giấu được sự ghê tởm. "Chúng dùng bí thuật gieo hạt giống độc dược vào kinh mạch, dùng máu huyết và linh lực của vật chủ để nuôi dưỡng. Khi cây thuốc trưởng thành, cũng là lúc vật chủ khô héo mà chết."
 
-"Chúng đến rồi," Lâm Phong thì thào, tay phải vô thức nắm chặt cây [Truy Phong Cung](../../Luyện_Khí/Truy_Phong_Cung.md).
+Lâm Phong nhìn thấy một Dược Nhân gần đó. Đó là một nam tử trẻ tuổi, có lẽ từng là một tán tu Trúc Cơ kỳ. Giờ đây, thân thể hắn gầy guộc như que củi, đôi mắt trợn trừng vô hồn nhưng miệng vẫn phát ra những tiếng rên rỉ yếu ớt. Trên đỉnh đầu hắn, một đóa hoa màu tím sẫm đang nở rộ, tỏa ra mùi hương ngào ngạt.
 
-Từ màn sương mù phía sau, hàng chục đốm sáng đỏ rực lần lượt hiện ra. Tiếng gầm gừ trầm thấp vang vọng, hòa lẫn với tiếng lội nước *ì oạp*. Đàn [Huyết Độc Lang](../../Kỳ_Vật/Huyết_Độc_Lang.md) không vội vàng tấn công, chúng tản ra hai cánh, hình thành thế bao vây gọng kìm.
+Một tên đệ tử Vạn Độc Môn mặc áo xám đi tới, tay cầm một con dao bạc sắc lẹm. Hắn không chút thương xót, cắt phăng đóa hoa trên đầu nam tử kia. Máu tươi phun ra, nam tử co giật dữ dội rồi lịm đi vĩnh viễn. Tên đệ tử thản nhiên ném cái xác khô quắt sang một bên, nơi đã chất đống hàng trăm thi thể khác.
 
-Diệp Tĩnh Sương cố gắng vận chuyển chân khí, *Hàn Ngọc Kiếm* trong tay nàng tỏa ra luồng hàn khí yếu ớt.
+"Chúng ta phải làm gì đó!" Lâm Phong nghiến răng, tay đã đặt lên dây cung.
 
-"Đừng dùng linh lực!" Lâm Phong quát khẽ. "Ở đây chướng khí dày đặc, cô càng vận công thì độc khí xâm nhập càng nhanh."
+"Đừng manh động!" Hứa Nhược Thủy giữ tay hắn lại. "Nhìn kĩ đi."
 
-"Chẳng lẽ đứng chờ chết?" Nàng cắn môi, ánh mắt quật cường.
+Bà chỉ tay về phía trung tâm thung lũng. Ở đó, một hồ nước đỏ như máu đang sôi sục, bọt khí nổi lên ùng ục, tỏa ra làn khói đỏ dày đặc. Đó chính là Huyết Trì - trái tim của Vạn Độc Môn.
 
-"Chờ chết không phải phong cách của Lâm mỗ."
+Xung quanh Huyết Trì là hàng trăm cây cột đá khắc đầy phù văn cổ quái. Trên mỗi cây cột đều trói chặt một tu sĩ cấp cao, máu từ cơ thể họ bị rút ra theo những rãnh nhỏ, chảy xuôi xuống hồ.
 
-Lâm Phong hít sâu một hơi, đột ngột giẫm mạnh chân xuống bùn.
+"Đó là Vạn Độc Huyết Tế Đại Trận," Diệp Tĩnh Sương nhận ra ngay. "Chúng đang dùng máu của tu sĩ để kích hoạt trận pháp và nuôi dưỡng thứ gì đó dưới đáy hồ."
 
-*Mộc Độn - Kinh Cức Thuật!*
+Đột nhiên, tiếng trống da người vang lên dồn dập. Từ phía xa, một đoàn người mặc áo đỏ rực tiến vào. Đi đầu là một lão già lưng gù, tay cầm gậy đầu rắn.
 
-Từ dưới lớp bùn đen, những dây gai nhọn hoắt bất ngờ phóng lên, đan chéo vào nhau tạo thành một bức tường rào chắn trước mặt hai người. Cùng lúc đó, hắn kéo dây cung, ba mũi tên kẹp giữa các ngón tay đồng loạt rời dây.
+"Là Huyết Vệ!" Hứa Nhược Thủy cảnh báo. "Mau ẩn nấp!"
 
-*Vút! Vút! Vút!*
+Ba người vội vàng nép vào sau một tảng đá lớn, nín thở theo dõi.
 
-Ba con sói đi đầu đang định lao tới vồ mồi thì bị mũi tên xuyên thủng yết hầu, ngã vật xuống bùn giãy đành đạch. Máu đen từ vết thương chảy ra, sôi xèo xèo khi chạm vào bùn lầy.
+Đoàn Huyết Vệ áp giải một nhóm Dược Nhân thất bại – những kẻ mà cây thuốc trên người đã héo úa hoặc không đạt chất lượng – đến bên bờ Huyết Trì. Lão già lưng gù giơ cao gậy đầu rắn, miệng lẩm bẩm những câu chú ngữ quái dị.
 
-Nhưng đàn sói này không phải loại dã thú tầm thường. Chúng bị nhiễm *Huyết Thần Độc*, lý trí đã bị cơn khát máu nuốt chửng. Cái chết của đồng loại chỉ khiến chúng thêm điên cuồng.
+"Huyết Thần vạn tuế! Mẫu Cổ vạn tuế!"
 
-*Gào!*
+Theo tiếng hô của lão, đám Huyết Vệ đồng loạt đẩy những Dược Nhân kia xuống hồ.
 
-Con Sói Đầu Đàn to lớn như một con bê con từ trong bóng tối nhảy vọt ra. Nó không lao thẳng vào Lâm Phong mà đạp lên lưng những con sói khác, lấy đà phóng lên không trung, vượt qua hàng rào gai nhọn, hướng thẳng vào Diệp Tĩnh Sương đang suy yếu.
+"Aaaaaa!"
 
-"Cẩn thận!"
+Tiếng la hét thảm thiết vang vọng khắp hang động, nhưng nhanh chóng bị tiếng sôi sục của hồ máu nuốt chửng. Chỉ trong chớp mắt, da thịt của những kẻ xấu số tan chảy, xương cốt bị ăn mòn, chỉ còn lại những vũng máu hòa vào dòng Huyết Trì.
 
-Lâm Phong không kịp nạp tên, hắn xoay ngược cây cung, dùng sống cung quất mạnh vào hông con sói. *Bốp!* Cú đánh trúng đích nhưng chỉ khiến con quái vật loạng choạng một chút. Móng vuốt sắc lẹm của nó vẫn kịp sượt qua vai Diệp Tĩnh Sương, xé toạc y phục, để lại ba vệt cào sâu hoắm.
+Mặt hồ bỗng nhiên cuộn sóng dữ dội. Từ dưới lòng hồ, một cái bóng khổng lồ từ từ trồi lên. Đó là một con rết trắng toát, dài đến cả trăm trượng, toàn thân trong suốt như pha lê, có thể nhìn thấy rõ từng dòng máu đang lưu chuyển bên trong cơ thể nó.
 
-Máu tươi chảy ra, mùi tanh nồng lập tức kích thích cả đàn sói. Chúng điên cuồng lao vào hàng rào gai, mặc kệ gai nhọn đâm thủng da thịt, dùng sức nặng cơ thể đè bẹp chướng ngại vật.
+"Mẫu Cổ..." Hứa Nhược Thủy thì thầm, mặt cắt không còn giọt máu. "Nó đã thức tỉnh rồi."
 
-"Đáng chết!" Diệp Tĩnh Sương nghiến răng, cơn đau làm nàng tỉnh táo hơn một chút. Nàng không nghe lời Lâm Phong, cưỡng ép thôi động linh lực còn sót lại.
+Con Mẫu Cổ rít lên một tiếng chói tai, âm thanh như khoan vào não bộ khiến Lâm Phong và Diệp Tĩnh Sương phải vận công chống đỡ. Nó há cái miệng đầy răng nhọn, hút lấy tinh huyết vừa được tế hiến. Cơ thể nó dần chuyển sang màu hồng nhạt, khí tức càng lúc càng kinh khủng.
 
-*Hàn Sương Kiếm Quyết – Băng Phong Thiên Lý!*
+"Nếu để nó hoàn toàn chuyển sang màu đỏ, Vạn Độc Môn sẽ có một con quái vật cấp Hóa Thần," Diệp Tĩnh Sương nói, mồ hôi lạnh chảy ròng ròng trên trán. "Chúng ta phải ngăn chặn nó."
 
-Nàng cắm phập thanh kiếm xuống bùn. *Rắc rắc rắc...* Một luồng hàn khí cực mạnh lan tỏa, đóng băng mặt bùn lầy trong bán kính ba trượng. Những con sói đang lao tới bị băng giá giữ chặt chân, biến thành những bức tượng sống.
+"Nhưng làm sao?" Lâm Phong hỏi. "Xung quanh Huyết Trì có ít nhất mười tên Huyết Vệ cấp Trúc Cơ Hậu Kỳ, chưa kể lão già kia chắc chắn là Kim Đan kỳ."
 
-Lâm Phong tranh thủ cơ hội ngàn vàng, *Truy Phong Cung* liên tục rung lên. Mỗi mũi tên bắn ra đều mang theo tiếng gió rít chói tai, ghim chặt những con sói bị đóng băng vào gốc cây, tảng đá.
+"Ta có cách," Hứa Nhược Thủy lấy từ trong tay áo ra một chiếc lọ ngọc màu đen. "Đây là 'Phệ Linh Tán', một loại độc dược chuyên phá hủy linh lực. Nếu ta có thể ném nó vào miệng con Mẫu Cổ..."
 
-Chỉ trong nháy mắt, mười mấy con Huyết Độc Lang đã ngã xuống. Nhưng con Sói Đầu Đàn vẫn còn đó. Lớp lông dày và cơ thể cường tráng giúp nó phá vỡ lớp băng trói buộc. Nó gầm lên một tiếng đầy giận dữ, toàn thân tỏa ra làn sương máu đỏ rực - *Huyết Cuồng*.
+"Cẩn thận! Có kẻ đột nhập!"
 
-Tốc độ của nó tăng vọt. Lâm Phong chỉ kịp thấy một bóng đỏ lao tới, rồi một lực đập khủng khiếp hất văng hắn vào gốc cây cổ thụ phía sau.
+Một tiếng quát lớn vang lên cắt ngang lời bà. Một tên Huyết Vệ tuần tra gần đó đã phát hiện ra khí tức dao động của họ.
 
-"Khụ!" Hắn ho ra một ngụm máu, cảm giác xương sườn như gãy vụn.
+"Chết tiệt!" Lâm Phong chửi thề, lập tức giương cung bắn một mũi tên xuyên thủng cổ họng tên Huyết Vệ. Nhưng tiếng quát đã đánh động cả khu vực.
 
-Con sói chồm tới, cái miệng rộng ngoác đầy răng nanh nhắm thẳng cổ họng hắn mà cắn xuống.
+"Bắt lấy chúng!" Lão già lưng gù chỉ gậy về phía họ, ánh mắt sắc lạnh như dao.
 
-Trong khoảnh khắc sinh tử, một vệt sáng lạnh lẽo xẹt qua.
+Hàng chục tên Huyết Vệ cùng đám Dược Nô điên cuồng lao tới. Con Mẫu Cổ dưới hồ cũng quay đầu lại, đôi mắt đỏ ngầu nhìn chằm chằm vào ba con mồi nhỏ bé.
 
-*Phập!*
+"Chạy hay chiến?" Lâm Phong hỏi, tay đã kẹp sẵn ba mũi tên.
 
-Thanh *Hàn Ngọc Kiếm* xuyên táo qua đầu con sói, đóng đinh nó vào thân cây ngay sát mặt Lâm Phong. Nước dãi thối rữa của nó nhỏ xuống má hắn, nóng hổi và tanh tưởi.
-
-Diệp Tĩnh Sương đứng đó, tay vẫn giữ tư thế phóng kiếm, nhưng cả người nàng run rẩy dữ dội rồi ngã quỵ xuống đất. Đòn vừa rồi đã rút cạn chút sức lực cuối cùng của nàng.
-
-Lâm Phong đẩy xác con sói ra, lồm cồm bò dậy chạy đến bên nàng. Hơi thở của nàng đã yếu ớt như tơ nhện, khuôn mặt trắng bệch không còn chút máu, đôi môi tím tái.
-
-"Đừng... đừng chết ở đây..." Hắn lẩm bẩm, vội vàng lấy ra một viên *Hồi Nguyên Đan* nhét vào miệng nàng, rồi cõng nàng lên lưng.
-
-Đàn sói mất đi thủ lĩnh, lại thấy đồng loại chết la liệt, bắt đầu gầm gừ lùi lại rồi lẩn khuất vào màn sương. Nhưng Lâm Phong biết chúng sẽ không bỏ cuộc, chúng chỉ đang chờ đợi con mồi kiệt sức hoàn toàn.
-
-Hắn cõng Diệp Tĩnh Sương tiếp tục đi sâu vào đầm lầy. Phía trước, sương mù càng lúc càng dày đặc, che khuất mọi tầm nhìn. Hắn không biết mình đang đi đâu, chỉ biết rằng dừng lại đồng nghĩa với cái chết.
-
-Xa xa trong màn sương, một bóng đen khổng lồ lướt qua, kèm theo tiếng thở dài não nề như tiếng gió rên rỉ qua khe núi. Đầm Lầy Tử Thần dường như mới chỉ bắt đầu "thức giấc".
+"Chiến để mở đường sống!" Diệp Tĩnh Sương đáp, Hàn Mai Kiếm bùng lên ánh sáng lạnh lẽo. "Mục tiêu là Huyết Trì!"

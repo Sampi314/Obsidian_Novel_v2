@@ -48,6 +48,10 @@
     -   Nhóm Diệp Tĩnh Sương đột kích phá hủy mắt trận phụ của Vạn Độc Huyết Tế Đại Trận (Chương 51-52).
     -   Thoát khỏi vòng vây và lạc vào Huyết Vụ Lâm (Chương 53-54).
     -   Khám phá Huyết Mạch Thượng Cổ bên dưới Huyết Vụ Lâm, tìm đường tiến sâu vào Vạn Độc Cốc (Chương 55).
+    -   Chiến đấu với Ngô Công Trưởng Lão và thoát khỏi sự truy sát (Chương 57).
+    -   Xâm nhập vào Kho Chứa Ngầm và gây hỗn loạn (Chương 59-60).
+    -   Vượt qua Mê Cung Nấm Độc và tiến vào Vườn Dược Liệu (Chương 61-62).
+    -   Chứng kiến sự tàn khốc của Vạn Độc Huyết Tế Đại Trận tại Huyết Trì và Mẫu Cổ thức tỉnh (Chương 62).
 
 ### Giai Đoạn 4: Liên Minh Rạn Nứt (Chương 81-120)
 - **Sự kiện:** Các thế lực hội tụ tại Nam Cương.

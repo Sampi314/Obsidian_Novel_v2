@@ -15,6 +15,7 @@
 2. **[Đầm Lầy Tử Thần](Đầm_Lầy_Tử_Thần.md):** Vùng đất chết chóc nơi không loài chim nào dám bay qua, ẩn chứa [Phế Tích Nguyệt Quang](Phế_Tích_Nguyệt_Quang.md).
 3. **[Núi Độc Long](Núi_Độc_Long.md):** Dãy núi biên giới ngăn cách với Tây Mạc, nơi trú ngụ của [Độc Long Tích](../Kỳ_Vật/Độc_Long_Tích.md).
 4. **Vạn Độc Cốc:** Tổng đàn của Vạn Độc Môn, nằm sâu trong thung lũng đầy rắn rết.
+    - *Vườn Dược Liệu:* Khu vực trồng linh dược bằng cơ thể người sống (Dược Nhân).
 5. **Hỏa Vân Sơn:** Miệng núi lửa đang hoạt động, nơi tọa lạc của Đan Hà Cốc.
 
 ## IV. THẾ LỰC
