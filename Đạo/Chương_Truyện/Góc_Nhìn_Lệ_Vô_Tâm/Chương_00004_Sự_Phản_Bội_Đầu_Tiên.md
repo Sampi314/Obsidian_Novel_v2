@@ -51,7 +51,7 @@ function stopSpeech() {
 </script>
 </div>
 <!-- NAVIGATION_END -->
-# Chương 1.3: Sự Phản Bội Đầu Tiên
+# Chương 4: Sự Phản Bội Đầu Tiên
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)

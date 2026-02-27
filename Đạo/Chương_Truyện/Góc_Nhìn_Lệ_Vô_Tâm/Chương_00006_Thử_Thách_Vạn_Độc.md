@@ -51,7 +51,7 @@ function stopSpeech() {
 </script>
 </div>
 <!-- NAVIGATION_END -->
-# Chương 1.5: Thử Thách Vạn Độc
+# Chương 6: Thử Thách Vạn Độc
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)

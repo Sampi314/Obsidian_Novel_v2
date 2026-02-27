@@ -403,6 +403,46 @@ window.chapterData = {
       "title": "Chương 20: Đêm Mưa Bão"
     },
     {
+      "filename": "Chương_00021_Lối_Mòn_Bí_Mật.md",
+      "title": "Chương 21: Lối Mòn Bí Mật"
+    },
+    {
+      "filename": "Chương_00022_Cạm_Bẫy.md",
+      "title": "Chương 22: Cạm Bẫy"
+    },
+    {
+      "filename": "Chương_00023_Bộ_Mặt_Thật.md",
+      "title": "Chương 23: Bộ Mặt Thật"
+    },
+    {
+      "filename": "Chương_00024_Vòng_Vây_Kẻ_Thù.md",
+      "title": "Chương 24: Vòng Vây Kẻ Thù"
+    },
+    {
+      "filename": "Chương_00025_Tuyệt_Vọng_Cùng_Cực.md",
+      "title": "Chương 25: Tuyệt Vọng Cùng Cực"
+    },
+    {
+      "filename": "Chương_00026_Sự_Trỗi_Dậy_Của_Vô_Tâm.md",
+      "title": "Chương 26: Sự Trỗi Dậy Của Vô Tâm"
+    },
+    {
+      "filename": "Chương_00027_Thoát_Ngục.md",
+      "title": "Chương 27: Thoát Ngục"
+    },
+    {
+      "filename": "Chương_00028_Cuộc_Truy_Sát_A_Mộc.md",
+      "title": "Chương 28: Cuộc Truy Sát A Mộc"
+    },
+    {
+      "filename": "Chương_00029_Đoạn_Tuyệt_Nhân_Tính.md",
+      "title": "Chương 29: Đoạn Tuyệt Nhân Tính"
+    },
+    {
+      "filename": "Chương_00030_Tên_Mới_Lệ_Vô_Tâm.md",
+      "title": "Chương 30: Tên Mới: Lệ Vô Tâm"
+    },
+    {
       "filename": "Chương_00031_Huyết_Độc_Phiến.md",
       "title": "Chương 31: Huyết Độc Phiến"
     },
