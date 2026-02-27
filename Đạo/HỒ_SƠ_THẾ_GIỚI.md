@@ -309,6 +309,7 @@
     - [Chương 54: Bóng Ma Trong Sương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00054_Bóng_Ma_Trong_Sương.md)
     - [Chương 55: Huyết Mạch Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00055_Huyết_Mạch_Thượng_Cổ.md)
     - [Chương 56: Bí Mật Dưới Lòng Đất](Chương_Truyện/Góc_Nhìn_Chính/Chương_00056_Bí_Mật_Dưới_Lòng_Đất.md)
+    - [Chương 57: Huyết Chiến Ngô Công](Chương_Truyện/Góc_Nhìn_Chính/Chương_00057_Huyết_Chiến_Ngô_Công.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -324,6 +325,9 @@
         - [Chương 1: Cơ Duyên Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00001_Cơ_Duyên_Rừng_Thẳm.md) (Quá khứ 6 năm trước)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 57 - Huyết Chiến Ngô Công.
+- Cập nhật Nhân vật: Ngô Công Trưởng Lão (Thêm chiêu thức & vai trò).
+- Cập nhật Thế lực: Vạn Độc Môn (Thêm bí mật về Cấm Trận).
 - Viết Chương Truyện: Chương 56 - Bí Mật Dưới Lòng Đất.
 - Tạo Kỳ vật: Huyết Mạch Thượng Cổ.
 - Tạo Nhân vật: Ngô Công Trưởng Lão.

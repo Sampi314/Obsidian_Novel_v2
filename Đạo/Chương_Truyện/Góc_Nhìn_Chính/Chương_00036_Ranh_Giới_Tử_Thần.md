@@ -74,12 +74,13 @@ Ghi_Chú: Nhóm nhân vật chính chính thức bước vào vùng đất tử 
             <li style="padding: 5px; "><a href="Chương_00053_Vòng_Vây_Siết_Chặt.md">Chương 53: Vòng Vây Siết Chặt (圍困・緊)</a></li>
             <li style="padding: 5px; "><a href="Chương_00054_Bóng_Ma_Trong_Sương.md">Chương 54: Bóng Ma Trong Sương</a></li>
             <li style="padding: 5px; "><a href="Chương_00055_Huyết_Mạch_Thượng_Cổ.md">Chương 55: Huyết Mạch Thượng Cổ</a></li>
+            <li style="padding: 5px; "><a href="Chương_00056_Bí_Mật_Dưới_Lòng_Đất.md">Chương 56: Bí Mật Dưới Lòng Đất</a></li>
+            <li style="padding: 5px; "><a href="Chương_00057_Huyết_Chiến_Ngô_Công.md">Chương 57: Huyết Chiến Ngô Công</a></li>
             <li style="padding: 5px; "><a href="Chương_Mẫu_Huyền_Băng.md">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
         </ul>
     </details>
 </div>
 <!-- NAVIGATION_END -->
-
 ***
 
 Con đường mòn dẫn xuống từ vách đá dựng đứng giống như một vết sẹo dài ngoằn ngoèo rạch nát sườn núi. Càng xuống sâu, không khí càng trở nên đặc quánh và ẩm ướt, khác hẳn với sự khô hanh, bỏng rát của Tây Mạc mà họ đã quen thuộc suốt thời gian qua.

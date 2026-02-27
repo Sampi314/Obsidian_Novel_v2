@@ -46,6 +46,8 @@
     - Thiên cấp hạ phẩm. Hấp thụ vạn loại độc dược vào cơ thể để luyện thành "Vạn Độc Bất Xâm Chi Thể", hơi thở và máu đều là kịch độc.
 - **Hộ Sơn Đại Trận:** [Vạn Độc Phệ Tâm Trận](../Trận_Pháp/Vạn_Độc_Phệ_Tâm_Trận.md)
     - Cửu cấp trận pháp. Tạo ra ảo ảnh và độc vụ ăn mòn tâm trí lẫn cơ thể kẻ xâm nhập, khiến họ chết trong đau đớn tột cùng.
+- **Cấm Trận:** [Vạn Độc Huyết Tế Đại Trận](../Trận_Pháp/Vạn_Độc_Huyết_Tế_Đại_Trận.md)
+    - Thiên cấp hạ phẩm. Cấm trận huyết đạo dùng để hấp thụ huyết khí và biến đổi địa hình. Được sáng tạo bởi Sư đệ của Độc Cô Thiên Sát.
 
 ## VI. LỊCH SỬ TÓM TẮT
 - **Sáng Lập:** Năm 82.000 (Khởi Nguyên) bởi **Độc Cô Thiên Sát**, một phản đồ của Dược Vương Cốc (Trung Thổ) chạy trốn đến Nam Cương.
@@ -56,5 +58,5 @@
 
 ## VII. GIAI THOẠI & BÍ MẬT
 - **Bí Mật Huyết Trì:** Có kẻ nói rằng Huyết Trì không chỉ là máu, mà là nơi Độc Cô Lão Quái nuôi dưỡng một bào thai Quỷ Thần dùng để đoạt xá nếu hắn thất bại trong việc độ kiếp.
-- **Tiếng Sáo Đêm Trăng:** Vào những đêm trăng tròn, người ta thường nghe thấy tiếng sáo ai oán vọng ra từ Vạn Độc Cốc. Nghe nói đó là tiếng oan hồn của người vợ đã bị chính Độc Cô Thiên Sát luyện thành Cổ Nhân.
+- **Tiếng Sáo Đêm Trăng:** Vào những đêm trăng tròn, người ta thường nghe thấy tiếng sáo ai oán vọng ra từ Vạn Độc Cốc. Giai thoại mới nhất tiết lộ rằng đó là tiếng sáo của sư đệ Độc Cô Thiên Sát, người đã bị chính sư huynh mình phản bội và giam cầm linh hồn vào cây sáo trúc để duy trì [Vạn Độc Huyết Tế Đại Trận](../Trận_Pháp/Vạn_Độc_Huyết_Tế_Đại_Trận.md).
 - **Lời Nguyền Của Rừng Già:** Bất cứ ai mang theo vật phẩm từ Vạn Độc Môn ra khỏi Nam Cương mà không được phép sẽ bị rễ cây trong rừng siết chết vào đêm thứ 7.

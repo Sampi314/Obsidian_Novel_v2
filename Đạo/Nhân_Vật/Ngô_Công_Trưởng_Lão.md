@@ -2,7 +2,7 @@
 
 ## I. THÔNG TIN CƠ BẢN
 - **Tên:** Ngô Công (Centipede Elder).
-- **Danh Hiệu:** Thiên T足 Lão Quái (Thiên Túc Lão Quái - Quái Vật Ngàn Chân).
+- **Danh Hiệu:** Thiên Túc Lão Quái (Thiên Túc Lão Quái - Quái Vật Ngàn Chân).
 - **Chức Vụ:** Một trong Ngũ Độc Trưởng Lão của [Vạn Độc Môn](../Thế_Lực/Vạn_Độc_Môn.md) (Phụ trách chi nhánh Rết).
 - **Tu Vi:** Nguyên Anh Hậu Kỳ.
 - **Vũ Khí/Pháp Bảo:**
@@ -27,8 +27,9 @@
     1. **Vạn Ngô Phệ Tâm:** Triệu hồi hàng vạn con rết độc từ dưới đất chui lên tấn công kẻ thù.
     2. **Huyết Vụ Chướng:** Phun ra làn khói độc màu đỏ, làm tan chảy da thịt và che khuất tầm nhìn.
     3. **Địa Long Phiên Thân:** Điều khiển rết khổng lồ đào xới lòng đất, tạo ra địa chấn hoặc sụp đổ hầm ngầm.
+    4. **Thiên Túc Hóa Hình:** Biến đổi cơ thể thành bán nhân bán rết, tăng cường sức mạnh thể chất và tốc độ lên gấp nhiều lần.
 
 ## IV. VAI TRÒ TRONG CỐT TRUYỆN
 - Là kẻ trực tiếp truy đuổi nhóm nhân vật chính tại Huyết Vụ Lâm.
-- Chỉ huy lực lượng Vạn Độc Môn vây hãm cửa hang Huyết Mạch Thượng Cổ.
+- Chỉ huy lực lượng Vạn Độc Môn dùng rết khổng lồ khoan thủng lớp vỏ bảo vệ của [Huyết Mạch Thượng Cổ](../Kỳ_Vật/Huyết_Mạch_Thượng_Cổ.md) để truy sát nhóm Lâm Phong.
 - Đại diện cho sự tàn độc và sức mạnh áp đảo của Vạn Độc Môn mà nhóm nhân vật chính phải đối mặt.
