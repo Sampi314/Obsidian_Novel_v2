@@ -12,7 +12,7 @@ Ghi_Chú: Khoảnh khắc bình yên ngắn ngủi trước khi rời Pháo Đà
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 7: Quyết Định Sinh Tử
+# Chương 6: Quyết Định Sinh Tử
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)
