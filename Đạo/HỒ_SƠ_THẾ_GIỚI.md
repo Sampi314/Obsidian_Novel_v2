@@ -311,6 +311,7 @@
     - [Chương 56: Bí Mật Dưới Lòng Đất](Chương_Truyện/Góc_Nhìn_Chính/Chương_00056_Bí_Mật_Dưới_Lòng_Đất.md)
     - [Chương 57: Huyết Chiến Ngô Công](Chương_Truyện/Góc_Nhìn_Chính/Chương_00057_Huyết_Chiến_Ngô_Công.md)
     - [Chương 58: Giao Ước Trong Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00058_Giao_Ước_Trong_Bóng_Tối.md)
+    - [Chương 59: Lối Mòn Trong Lòng Đất](Chương_Truyện/Góc_Nhìn_Chính/Chương_00059_Lối_Mòn_Trong_Lòng_Đất.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -326,6 +327,9 @@
         - [Chương 1: Cơ Duyên Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00001_Cơ_Duyên_Rừng_Thẳm.md) (Quá khứ 6 năm trước)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 59 - Lối Mòn Trong Lòng Đất.
+- Cập nhật Thế lực: Vạn Độc Môn (Thêm Kho Chứa Ngầm).
+- Cập nhật Nhân vật: Hứa Nhược Thủy (Thêm quá khứ buôn lậu).
 - Viết Chương Truyện: Chương 58 - Giao Ước Trong Bóng Tối.
 - Cập nhật Lore: Huyết Mạch Thượng Cổ (Hồ Thanh Mộc Dịch).
 - Cập nhật Nhân vật: Ngô Công Trưởng Lão (Trọng thương).
