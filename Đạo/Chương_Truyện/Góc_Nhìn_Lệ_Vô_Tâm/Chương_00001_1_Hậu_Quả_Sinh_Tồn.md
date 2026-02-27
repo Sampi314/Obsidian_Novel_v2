@@ -15,6 +15,9 @@
 <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00001_1_Hậu_Quả_Sinh_Tồn.html">Chương 1.1: Hậu Quả Sinh Tồn</a></li>
 <li style="padding: 5px; "><a href="Chương_00001_2_Bài_Học_Vô_Cảm.html">Chương 1.2: Bài Học Vô Cảm</a></li>
 <li style="padding: 5px; "><a href="Chương_00001_3_Sự_Phản_Bội_Đầu_Tiên.html">Chương 1.3: Sự Phản Bội Đầu Tiên</a></li>
+<li style="padding: 5px; "><a href="Chương_00001_4_Bóng_Tối_Cô_Độc.html">Chương 1.4: Bóng Tối Cô Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00001_5_Thử_Thách_Vạn_Độc.html">Chương 1.5: Thử Thách Vạn Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00001_6_Huyết_Nguyệt_Sát_Cơ.html">Chương 1.6: Huyết Nguyệt Sát Cơ</a></li>
 <li style="padding: 5px; "><a href="Chương_00002_Huyết_Độc_Phiến.html">Chương 2: Huyết Độc Phiến</a></li>
 <li style="padding: 5px; "><a href="Chương_00002_2_Bẫy_Rập_Rừng_Sương.html">Chương 2.2: Bẫy Rập Rừng Sương</a></li>
 <li style="padding: 5px; "><a href="Chương_00002_5_Diệt_Môn_Chi_Họa.html">Chương 2.5: Diệt Môn Chi Họa</a></li>
