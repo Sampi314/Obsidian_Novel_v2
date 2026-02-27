@@ -10,27 +10,37 @@ def get_chapter_title(filepath):
     """
     try:
         with open(filepath, "r", encoding="utf-8") as f:
-            # First pass: look for # Title
-            for line in f:
-                if line.startswith("# "):
-                    return line.strip()[2:]
-
-            # Second pass: look for the first line that looks like a title after YAML frontmatter
-            f.seek(0)
             in_yaml = False
+            in_comment = False
+
             for line in f:
                 stripped = line.strip()
+                if not stripped:
+                    continue
+
+                # Handle YAML Frontmatter
                 if stripped == "---":
                     in_yaml = not in_yaml
                     continue
                 if in_yaml:
                     continue
 
-                # Ignore comments
-                if stripped.startswith("<!--") or stripped.endswith("-->"):
+                # Handle HTML Comments
+                # If line starts with <!--, it might be a single line or start of a block
+                if stripped.startswith("<!--"):
+                    if "-->" not in stripped:
+                        in_comment = True
+                    continue
+
+                # If we are inside a comment block, look for the closing tag
+                if in_comment:
+                    if "-->" in stripped:
+                        in_comment = False
                     continue
 
                 # Ignore navigation block lines (which we inject)
+                # These might not be wrapped in <!-- comments --> in older versions,
+                # or we just want to be extra safe ignoring raw HTML nav elements.
                 if "<div" in stripped or "<table" in stripped or "<td" in stripped or "<tr" in stripped:
                     continue
 
