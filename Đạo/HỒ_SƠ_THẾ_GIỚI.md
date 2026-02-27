@@ -131,6 +131,8 @@
         - [Chương 56: Sự Ghen Ghét Của Đồng Môn](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00056_Sự_Ghen_Ghét_Của_Đồng_Môn.md)
         - [Chương 57: Cái Bẫy Liên Hoàn](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00057_Cái_Bẫy_Liên_Hoàn.md)
         - [Chương 58: Phản Đòn](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00058_Phản_Đòn.md)
+        - [Chương 59: Độc Cô Lão Quái Hài Lòng](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00059_Độc_Cô_Lão_Quái_Hài_Lòng.md)
+        - [Chương 60: Chuẩn Bị Cho Đại Sự](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00060_Chuẩn_Bị_Cho_Đại_Sự.md)
         - [Chương 61: Mệnh Lệnh Bóng Tối](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00061_Mệnh_Lệnh_Bóng_Tối.md)
         - [Chương 62: Thí Nghiệm Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00062_Thí_Nghiệm_Máu.md)
         - [Chương 63: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00063_Ván_Cờ_Huyết_Độc.md)

@@ -555,6 +555,14 @@ window.chapterData = {
       "title": "Chương 58: Phản Đòn"
     },
     {
+      "filename": "Chương_00059_Độc_Cô_Lão_Quái_Hài_Lòng.md",
+      "title": "Chương 59: Độc Cô Lão Quái Hài Lòng"
+    },
+    {
+      "filename": "Chương_00060_Chuẩn_Bị_Cho_Đại_Sự.md",
+      "title": "Chương 60: Chuẩn Bị Cho Đại Sự"
+    },
+    {
       "filename": "Chương_00061_Mệnh_Lệnh_Bóng_Tối.md",
       "title": "Chương 61: Mệnh Lệnh Bóng Tối"
     },
