@@ -507,6 +507,22 @@ window.chapterData = {
       "title": "Chương 46: Vết Thương Chí Mạng"
     },
     {
+      "filename": "Chương_00047_Chữa_Thương_Trong_Hang_Độc.md",
+      "title": "Chương 47: Chữa Thương Trong Hang Độc"
+    },
+    {
+      "filename": "Chương_00048_Sự_Trở_Lại_Tàn_Khốc.md",
+      "title": "Chương 48: Sự Trở Lại Tàn Khốc"
+    },
+    {
+      "filename": "Chương_00049_Danh_Hiệu_Huyết_Thủ.md",
+      "title": "Chương 49: Danh Hiệu Huyết Thủ"
+    },
+    {
+      "filename": "Chương_00050_Cơn_Ác_Mộng_Nam_Cương.md",
+      "title": "Chương 50: Cơn Ác Mộng Nam Cương"
+    },
+    {
       "filename": "Chương_00061_Mệnh_Lệnh_Bóng_Tối.md",
       "title": "Chương 61: Mệnh Lệnh Bóng Tối"
     },
