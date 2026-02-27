@@ -20,6 +20,9 @@
     - **Hệ Thống Ám Đạo & Kho Chứa Ngầm:**
         - Mạng lưới đường hầm bí mật nằm sâu dưới lòng đất, được đào từ 300 năm trước để vận chuyển hàng lậu và nguyên liệu cấm mà không bị Chính đạo phát hiện.
         - **Kho Chứa Ngầm (Underground Depot):** Nơi tập kết dược liệu và nô lệ trước khi đưa vào Huyết Trì. Có trạm trung chuyển huyết khí và nuôi dưỡng các sinh vật thí nghiệm thất bại như "Sa Bạo Cổ".
+    - **Vườn Dược Liệu (Dược Nhân):**
+        - Khu vực nằm sâu trong nội cốc, nơi trồng hàng vạn cây thuốc quý hiếm.
+        - Đặc biệt, "đất trồng" ở đây không phải đất thường mà là cơ thể sống của các tu sĩ bị bắt cóc (gọi là [Dược Nhân](../Kỳ_Vật/Dược_Nhân.md)). Máu thịt và linh lực của họ nuôi dưỡng dược liệu, tạo ra những biến thể có độc tính cực mạnh.
 
 ## III. VĂN HÓA & TÍN NGƯỠNG
 - **Triết Lý:** "Vạn vật sinh ra từ độc, chết đi cũng về với độc". Họ tin rằng độc không chỉ là vũ khí mà là bản chất của sự sống, sự đào thải yếu kém.
