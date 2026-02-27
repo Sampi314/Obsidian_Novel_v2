@@ -41,16 +41,16 @@
 <li style="padding: 5px; "><a href="Chương_00028_Thử_Thách_Của_Lục_Ly.html">Chương 28: Thử Thách Của Lục Ly</a></li>
 <li style="padding: 5px; "><a href="Chương_00029_Bí_Mật_Long_Cốt.html">Chương 29: Bí Mật Long Cốt</a></li>
 <li style="padding: 5px; "><a href="Chương_00030_Đại_Nạn_Long_Mạch.html">Chương 30: Đại Nạn Long Mạch</a></li>
-<li style="padding: 5px; "><a href="Chương_00031_Hắc_Sa_Bão_Trỗi_Dậy.html">Không có tiêu đề</a></li>
-<li style="padding: 5px; "><a href="Chương_00032_Sa_Hồn_Truy_Kích.html">Không có tiêu đề</a></li>
+<li style="padding: 5px; "><a href="Chương_00031_Hắc_Sa_Bão_Trỗi_Dậy.html">Chương 31: Hắc Sa Bão Trỗi Dậy</a></li>
+<li style="padding: 5px; "><a href="Chương_00032_Sa_Hồn_Truy_Kích.html">Chương 32: Sa Hồn Truy Kích</a></li>
 <li style="padding: 5px; "><a href="Chương_00033_Bí_Mật_Rừng_Thiên_Trụ.html">Không có tiêu đề</a></li>
-<li style="padding: 5px; "><a href="Chương_00034_Pháo_Đài_Xanh.html">Không có tiêu đề</a></li>
+<li style="padding: 5px; "><a href="Chương_00034_Pháo_Đài_Xanh.html">Chương 34: Pháo Đài Xanh</a></li>
 <li style="padding: 5px; "><a href="Chương_00035_Lối_Mòn_Trong_Bão.html">Không có tiêu đề</a></li>
 <li style="padding: 5px; "><a href="Chương_00036_Ranh_Giới_Tử_Thần.html">Không có tiêu đề</a></li>
 <li style="padding: 5px; "><a href="Chương_00037_Vòng_Vây_Huyết_Lang.html">Không có tiêu đề</a></li>
-<li style="padding: 5px; "><a href="Chương_00038_Huyết_Chiến_Lang_Vương.html">Không có tiêu đề</a></li>
-<li style="padding: 5px; "><a href="Chương_00039_Vùng_Đất_Chết.html">Không có tiêu đề</a></li>
-<li style="padding: 5px; "><a href="Chương_00040_Huyết_Chiến_Cửa_Hang.html">Không có tiêu đề</a></li>
+<li style="padding: 5px; "><a href="Chương_00038_Huyết_Chiến_Lang_Vương.html">Chương 38: Huyết Chiến Lang Vương</a></li>
+<li style="padding: 5px; "><a href="Chương_00039_Vùng_Đất_Chết.html">Chương 39: Vùng Đất Chết</a></li>
+<li style="padding: 5px; "><a href="Chương_00040_Huyết_Chiến_Cửa_Hang.html">Chương 40: Huyết Chiến Cửa Hang</a></li>
 <li style="padding: 5px; "><a href="Chương_00041_Mê_Cung_Tơ_Độc.html">Chương 41: Mê Cung Tơ Độc</a></li>
 <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00042_Huyết_Chiến_Nhện_Chúa.html">Chương 42: Huyết Chiến Nhện Chúa</a></li>
 <li style="padding: 5px; "><a href="Chương_00043_Thoát_Khỏi_Hang_Động.html">Chương 43: Thoát Khỏi Hang Động</a></li>
@@ -68,6 +68,9 @@
 <li style="padding: 5px; "><a href="Chương_00055_Huyết_Mạch_Thượng_Cổ.html">Chương 55: Huyết Mạch Thượng Cổ</a></li>
 <li style="padding: 5px; "><a href="Chương_00056_Bí_Mật_Dưới_Lòng_Đất.html">Chương 56: Bí Mật Dưới Lòng Đất</a></li>
 <li style="padding: 5px; "><a href="Chương_00057_Huyết_Chiến_Ngô_Công.html">Chương 57: Huyết Chiến Ngô Công</a></li>
+<li style="padding: 5px; "><a href="Chương_00058_Giao_Ước_Trong_Bóng_Tối.html">Chương 58: Giao Ước Trong Bóng Tối</a></li>
+<li style="padding: 5px; "><a href="Chương_00059_Lối_Mòn_Trong_Lòng_Đất.html">Chương 59: Lối Mòn Trong Lòng Đất</a></li>
+<li style="padding: 5px; "><a href="Chương_00060_Hỗn_Loạn_Tại_Kho_Chứa.html">Chương 60: Hỗn Loạn Tại Kho Chứa</a></li>
 <li style="padding: 5px; "><a href="Chương_Mẫu_Huyền_Băng.html">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
 </ul>
 </details>

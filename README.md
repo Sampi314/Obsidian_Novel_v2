@@ -13,7 +13,7 @@ Truy cập ngay vào mục lục tổng hợp để đọc các chương truyệ
 
 Thông tin chi tiết về thế giới, nhân vật và hệ thống tu luyện.
 
-*   **[Hồ Sơ Thế Giới (World Profile)](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/HỒ_SƠ_THẾ_GIỚI.md)**: Tài liệu quan trọng nhất chứa thông tin nền tảng về địa lý, cảnh giới, và lịch sử.
+*   **[Hồ Sơ Thế Giới (World Profile)](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/HỒ_SƠ_THẾ_GIỚI)**: Tài liệu quan trọng nhất chứa thông tin nền tảng về địa lý, cảnh giới, và lịch sử.
 
 ### 1. Danh Sách Nhân Vật (Character List)
 <!-- CHARACTER_LIST_START -->
@@ -56,8 +56,8 @@ Thông tin chi tiết về thế giới, nhân vật và hệ thống tu luyện
 
 ## 📂 Tài Liệu Tham Khảo (Documentation)
 
-*   **[Hướng Dẫn Hệ Thống (.jules/INSTRUCTIONS.md)](https://sampi314.github.io/Obsidian_Novel_v2/.jules/INSTRUCTIONS.md)**: Tài liệu mô tả cấu trúc dự án và quy trình làm việc.
-*   **[Báo Cáo Chất Lượng (Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md)](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md)**: Ghi nhận các vấn đề cần khắc phục.
+*   **[Hướng Dẫn Hệ Thống (.jules/INSTRUCTIONS.md)](https://sampi314.github.io/Obsidian_Novel_v2/.jules/INSTRUCTIONS)**: Tài liệu mô tả cấu trúc dự án và quy trình làm việc.
+*   **[Báo Cáo Chất Lượng (Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md)](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/BÁO_CÁO_CHẤT_LƯỢNG)**: Ghi nhận các vấn đề cần khắc phục.
 
 ---
 
