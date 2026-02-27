@@ -2,10 +2,10 @@
 <div style="text-align: center; margin-bottom: 20px;">
     <table style="width: 100%; text-align: center; border: none;">
         <tr>
-            <td style="border: none; padding: 5px;"><a href="Chương_00052_Đột_Kích_Mắt_Trận_2.md">⬅️ Chương Trước</a></td>
+            <td style="border: none; padding: 5px;"><a href="Chương_00056_Bí_Mật_Dưới_Lòng_Đất.md">⬅️ Chương Trước</a></td>
             <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
             <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-            <td style="border: none; padding: 5px;"><a href="Chương_00054_Bóng_Ma_Trong_Sương.md">Chương Sau ➡️</a></td>
+            <td style="border: none; padding: 5px;"><a href="Chương_Mẫu_Huyền_Băng.md">Chương Sau ➡️</a></td>
         </tr>
     </table>
     <details style="margin-top: 10px;">
@@ -63,84 +63,106 @@
             <li style="padding: 5px; "><a href="Chương_00050_Cuộc_Chiến_Thủ_Thành.md">Chương 50: Cuộc Chiến Thủ Thành (守城之戰)</a></li>
             <li style="padding: 5px; "><a href="Chương_00051_Đột_Kích_Mắt_Trận_1.md">Chương 51: Đột Kích Mắt Trận (Phần 1) (突襲陣眼・上)</a></li>
             <li style="padding: 5px; "><a href="Chương_00052_Đột_Kích_Mắt_Trận_2.md">Chương 52: Đột Kích Mắt Trận (Phần 2) (突襲陣眼・下)</a></li>
-            <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00053_Vòng_Vây_Siết_Chặt.md">Chương 53: Vòng Vây Siết Chặt (圍困・緊)</a></li>
+            <li style="padding: 5px; "><a href="Chương_00053_Vòng_Vây_Siết_Chặt.md">Chương 53: Vòng Vây Siết Chặt (圍困・緊)</a></li>
             <li style="padding: 5px; "><a href="Chương_00054_Bóng_Ma_Trong_Sương.md">Chương 54: Bóng Ma Trong Sương</a></li>
             <li style="padding: 5px; "><a href="Chương_00055_Huyết_Mạch_Thượng_Cổ.md">Chương 55: Huyết Mạch Thượng Cổ</a></li>
             <li style="padding: 5px; "><a href="Chương_00056_Bí_Mật_Dưới_Lòng_Đất.md">Chương 56: Bí Mật Dưới Lòng Đất</a></li>
-            <li style="padding: 5px; "><a href="Chương_00057_Huyết_Chiến_Ngô_Công.md">Chương 57: Huyết Chiến Ngô Công</a></li>
+            <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00057_Huyết_Chiến_Ngô_Công.md">Chương 57: Huyết Chiến Ngô Công</a></li>
             <li style="padding: 5px; "><a href="Chương_Mẫu_Huyền_Băng.md">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
         </ul>
     </details>
 </div>
 <!-- NAVIGATION_END -->
-# Chương 53: Vòng Vây Siết Chặt (圍困・緊)
+# Chương 57: Huyết Chiến Ngô Công
 
-## I. THÔNG TIN CHUNG
-- **Người Viết:** Tổng Quản (Jules)
-- **Ngày Viết:** 2026-03-17
-- **Góc Nhìn:** Ngôi thứ ba (Tổng quát)
-- **Bối Cảnh:** [Rừng Huyết Độc](../../Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md), khu vực đầm lầy phía Đông Nam → Rừng Huyết Vụ.
+Tiếng nổ kinh thiên động địa vang vọng khắp hệ thống Huyết Mạch Thượng Cổ. Đất đá, vụn gỗ hóa thạch và nước từ hồ Thanh Mộc Dịch bắn tung tóe. Từ trong đám bụi mù mịt, một thân ảnh khổng lồ từ từ trườn xuống, chặn đứng đường lui của ba người.
 
-## II. NỘI DUNG CHÍNH
+Đó là một con rết đỏ thẫm dài hơn mười trượng, lớp vỏ giáp xác sáng bóng như được đúc từ máu tươi, mỗi đốt lưng đều có gai nhọn tua tủa. Nhưng điều kinh khủng nhất là phần đầu của nó – không phải đầu rết thông thường, mà là nửa thân trên của một lão già lưng gù, mọc ra từ chính đốt cổ của con quái vật.
 
-Tiếng nổ lớn từ Mắt Trận Phụ như một lời tuyên chiến vang vọng khắp Rừng Huyết Độc. Ngay lập tức, bầu trời đêm bị xé toạc bởi hàng chục tín hiệu cầu lửa màu xanh lục bắn lên từ các hướng khác nhau.
+Ngô Công Trưởng Lão!
 
-"Đi mau! Đừng quay đầu lại!" [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md) hét lớn, tay nắm chặt [Truy Phong Cung](../../Luyện_Khí/Truy_Phong_Cung.md), dẫn đầu nhóm lao vào màn sương dày đặc.
+"Chạy? Các ngươi nghĩ có thể chạy thoát khỏi lòng bàn tay của lão phu sao?"
 
-[Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md) đoạn hậu, [Hàn Mai Kiếm](../../Luyện_Khí/Hàn_Ngọc_Kiếm.md) trong tay nàng liên tục vung lên, tạo ra những bức tường băng mỏng manh nhưng sắc bén để ngăn cản bước chân kẻ thù. [Hứa Nhược Thủy](../../Nhân_Vật/Hứa_Nhược_Thủy.md) ở giữa, vừa chạy vừa rải [Sa Viêm Tán](../../Đan_Dược/Sa_Viêm_Tán.md) xuống đất. Loại bột này khi gặp máu độc của đám quái vật sẽ bùng cháy dữ dội, tạo thành những rào cản lửa ngăn cách.
+Ngô Công cười khè khè, âm thanh như tiếng kim loại cọ xát vào nhau, chói tai nhức óc. Hắn vung tay, hàng trăm cái chân rết ở phần thân dưới đồng loạt chuyển động, tạo ra tiếng rào rào như mưa rào, lao thẳng về phía nhóm Lâm Phong với tốc độ kinh hoàng.
 
-Nhưng kẻ thù không chỉ ở phía sau.
+"Tản ra!"
 
-"Cẩn thận!" Lâm Phong đột ngột dừng lại, giương cung bắn một mũi tên về phía tán cây bên trái.
+Lâm Phong hét lớn, đẩy Hứa Nhược Thủy về phía sau một tảng tinh thể lớn. Đồng thời, hắn giương Truy Phong Cung, ba mũi Hỏa Linh Tiễn rời dây cung, xé gió lao đi, để lại ba vệt lửa dài trong không trung.
 
-*Keng!*
+"Vút! Vút! Vút!"
 
-Mũi tên bị một luồng khí đen đánh bật. Từ trong bóng tối bước ra một bóng người cao gầy, tay cầm chiếc quạt xương trắng toát. Không phải Lệ Vô Tâm, nhưng khí tức trên người kẻ này cũng khiến người ta lạnh gáy. Hắn là một trong "Vạn Độc Thất Sát" – nhóm sát thủ tinh nhuệ nhất của Vạn Độc Môn.
+"Bụp! Bụp! Bụp!"
 
-"Phá hỏng đại sự của Thánh Tử, các ngươi nghĩ có thể trốn thoát sao?" Tên sát thủ cười khẩy, phất tay.
+Ngô Công Trưởng Lão không hề né tránh. Hắn chỉ đơn giản là giơ một cánh tay rết lên che mặt. Mũi tên nổ tung trên lớp vỏ giáp cứng ngắc, lửa bùng lên rồi tắt ngấm, chỉ để lại vài vệt đen mờ nhạt.
 
-Ngay lập tức, từ bốn phía xung quanh, hàng chục con [Huyết Độc Lang](../../Kỳ_Vật/Huyết_Độc_Lang.md) với đôi mắt đỏ ngầu lao ra, nhe nanh múa vuốt bao vây ba người.
+"Trò trẻ con!"
 
-"Chúng ta bị bao vây rồi!" Hứa Nhược Thủy kinh hãi thốt lên.
+Ngô Công cười gằn, phần thân rết quất mạnh một cái. Cái đuôi đầy gai nhọn quét ngang như một cây roi khổng lồ, đập nát tảng đá bên cạnh Lâm Phong, khiến hắn phải lăn mình tránh né trong gang tấc.
 
-Diệp Tĩnh Sương không nói gì, ánh mắt lạnh lẽo quét một vòng. "Mở đường máu."
+"Hàn Băng Kiếm Quyết - Băng Phong Thiên Lý!"
 
-Nàng dứt lời, cả người hóa thành một luồng kiếm quang trắng xóa lao thẳng vào tên sát thủ. Lâm Phong hiểu ý, lập tức bắn liên tiếp ba mũi [Hỏa Linh Tiễn](../../Luyện_Khí/Hỏa_Linh_Tiễn.md) vào bầy sói để tạo hỗn loạn, mở đường cho Diệp Tĩnh Sương.
+Diệp Tĩnh Sương nhân cơ hội lao tới từ bên hông. Hàn Mai Kiếm trong tay nàng tỏa ra hàn khí trắng xóa, lưỡi kiếm vẽ nên một đường vòng cung tuyệt đẹp, nhắm thẳng vào phần eo nối liền giữa thân người và thân rết của Ngô Công – điểm yếu duy nhất mà nàng quan sát được.
 
-Tên sát thủ không ngờ cô gái trẻ này lại liều mạng đến vậy. Hắn vội vàng dùng quạt đỡ đòn, nhưng hàn khí từ kiếm của Diệp Tĩnh Sương quá mạnh, khiến cánh tay hắn tê dại.
+"Keng!"
 
-"Chết đi!" Diệp Tĩnh Sương quát khẽ, kiếm chiêu biến ảo, đâm thẳng vào vai trái kẻ địch.
+Tiếng kim loại va chạm vang lên chát chúa. Kiếm của Diệp Tĩnh Sương bị một cái chân rết to lớn chặn lại. Ngô Công Trưởng Lão quay đầu nhìn nàng, đôi mắt ti hí ánh lên vẻ thèm thuồng.
 
-*Phập!*
+"Kiếm tu Cửu Hoa Kiếm Tông? Khá lắm! Máu của ngươi chắc chắn sẽ rất bổ dưỡng cho bầy con của ta!"
 
-Máu tươi bắn ra, nhưng ngay lập tức hóa thành khói đen. Tên sát thủ đau đớn lùi lại, để lộ một khoảng trống trong vòng vây.
+Hắn há miệng, phun ra một luồng khói độc màu tím đen. "Huyết Vụ Chướng!"
 
-"Chạy về phía rừng sương mù!" Lâm Phong hét lên, kéo Hứa Nhược Thủy lao qua lỗ hổng đó. Diệp Tĩnh Sương tung thêm một chưởng đẩy lùi đám sói rồi nhanh chóng đuổi theo.
+Diệp Tĩnh Sương vội vàng nín thở, lui lại phía sau. Nhưng làn khói độc lan tỏa cực nhanh, bao trùm lấy không gian chật hẹp. Chỉ cần da thịt chạm nhẹ vào làn khói, cảm giác nóng rát như bị axit ăn mòn lập tức truyền đến.
 
-Họ chạy thục mạng vào khu vực "Huyết Vụ Lâm" – nơi sương mù dày đặc đến mức đưa tay không thấy ngón. Đây là vùng đất chết mà ngay cả đệ tử Vạn Độc Môn cũng e ngại, nhưng lúc này đó là con đường sống duy nhất.
+"Khụ... Độc này... có tính ăn mòn linh lực!" Diệp Tĩnh Sương sắc mặt tái nhợt, lớp hộ thể kiếm khí quanh người nàng đang bị khói độc bào mòn nhanh chóng.
 
-Phía sau lưng, tiếng tù và thúc giục và tiếng sói tru vẫn văng vẳng, nhưng khoảng cách dường như đã được nới rộng.
+"Thủy Linh Châu - Tịnh Hóa!"
 
-"Tạm thời an toàn..." Lâm Phong thở dốc, dựa lưng vào một gốc cây cổ thụ. "Nhưng chúng ta không thể quay lại Mộc Linh Trận Địa theo đường cũ được nữa. Bọn chúng chắc chắn đã phong tỏa mọi lối ra."
+Đúng lúc nguy cấp, một luồng ánh sáng xanh lam dịu nhẹ bùng lên từ phía sau. Hứa Nhược Thủy hai tay nâng một mảnh vỡ Thủy Linh Châu, linh lực hệ Thủy cuồn cuộn đổ vào. Một màn nước trong suốt hình cầu bao bọc lấy ba người, đẩy lùi làn khói độc ra ngoài.
 
-Hứa Nhược Thủy lấy ra một bình đan dược, chia cho hai người. "Huyết Thần Độc trong sương mù ở đây rất đậm đặc. Uống cái này vào để trấn áp."
+"Đa tạ, Hứa tiền bối!" Lâm Phong thở phào nhẹ nhõm, nhưng hắn biết đây chỉ là giải pháp tạm thời. Thủy Linh Châu chỉ là mảnh vỡ, không thể duy trì mãi.
 
-Diệp Tĩnh Sương nhận lấy viên thuốc, nuốt xuống, rồi nhìn về phía sâu trong rừng sương mù. "Chúng ta phải đi đâu bây giờ?"
+"Chúng ta không thể đánh lâu với hắn ở đây," Hứa Nhược Thủy nói nhanh, mồ hôi lấm tấm trên trán. "Không gian quá hẹp, độc khí của hắn sẽ sớm lấp đầy nơi này. Chúng ta sẽ chết ngạt trước khi bị hắn giết."
 
-Lâm Phong nhíu mày suy nghĩ, rồi lấy ra tấm bản đồ da thú cũ kỹ. "Có một con đường mòn cổ xưa dẫn xuyên qua Huyết Vụ Lâm, đi thẳng đến chân núi Độc Long. Nếu may mắn, chúng ta có thể vòng qua đó để trở về."
+"Phải dụ hắn vào sâu hơn," Lâm Phong nhìn về phía lối đi tối tăm mà bóng ma sư đệ Độc Cô Thiên Sát đã chỉ. "Lối đó dẫn đến mắt trận trung tâm. Ở đó có thể có cơ quan hoặc cạm bẫy gì đó chúng ta tận dụng được."
 
-"Nhưng con đường đó..." Hứa Nhược Thủy ngập ngừng. "Nghe nói chưa ai đi vào mà trở ra được."
+"Muốn dụ hắn đi, phải làm hắn đau trước đã," Diệp Tĩnh Sương cắn răng, ánh mắt kiên định. "Lâm Phong, ngươi còn bao nhiêu Hỏa Linh Tiễn?"
 
-"Còn hơn là quay lại nộp mạng cho Lệ Vô Tâm," Diệp Tĩnh Sương lạnh lùng nói, ánh mắt kiên định. "Đi thôi."
+"Còn năm mũi cuối cùng."
 
-Ba bóng người lại tiếp tục dấn thân vào màn sương đỏ quạch, không biết rằng phía trước họ còn những nguy hiểm kinh hoàng hơn cả sự truy đuổi của kẻ thù.
+"Đủ rồi. Ta sẽ tạo cơ hội. Ngươi hãy nhắm vào mắt trái của phần thân người. Đó là nơi hắn điều khiển thần thức kết nối với thân rết."
 
-Trong khi đó, tại trung tâm Vạn Độc Cốc, [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md) đang ngồi thiền bên bờ Huyết Trì. Hắn mở mắt, khóe miệng nhếch lên một nụ cười tàn độc.
+Không đợi Lâm Phong trả lời, Diệp Tĩnh Sương đã lao ra khỏi màn nước bảo vệ.
 
-"Chuột nhắt chạy vào bẫy rồi. Kích hoạt... Huyết Mạng."
+"Hàn Mai Tam Tuyệt - Nhất Kiếm Định Giang Sơn!"
 
-## III. GHI CHÚ
-- **Action:** Trận chiến ngắn nhưng kịch tính, thể hiện sự quyết đoán của nhóm nhân vật.
-- **Atmosphere:** Bầu không khí ngột ngạt, căng thẳng, nguy hiểm rình rập từ mọi phía.
-- **Plot Progression:** Nhóm nhân vật bị đẩy vào tình thế "tránh vỏ dưa gặp vỏ dừa", buộc phải khám phá vùng đất mới nguy hiểm hơn.
-- **Foreshadowing:** Sự xuất hiện của "Huyết Mạng" và con đường mòn cổ xưa hứa hẹn những thử thách mới.
+Nàng dồn toàn bộ linh lực còn lại vào đòn đánh này. Hàn Mai Kiếm rung lên bần bật, hóa thành một luồng sáng trắng chói lòa, đâm thẳng vào Ngô Công Trưởng Lão.
+
+"Muốn chết!" Ngô Công gầm lên, vung cả chục cái chân rết lên đỡ.
+
+Nhưng lần này, Diệp Tĩnh Sương không đánh trực diện. Ngay khi lưỡi kiếm sắp chạm vào, nàng đột ngột đổi hướng, trượt người xuống dưới bụng con rết, chém mạnh vào phần giáp bụng mềm hơn.
+
+"Xoẹt!"
+
+Máu xanh phun ra xối xả. Ngô Công Trưởng Lão đau đớn rống lên, thân hình khổng lồ quẫy đạp điên cuồng, làm rung chuyển cả đường hầm.
+
+"Ngay lúc này! Lâm Phong!"
+
+Lâm Phong đã chờ sẵn thời khắc này. Hắn nhảy lên một tảng đá cao, dây cung kéo căng hết mức. Năm mũi Hỏa Linh Tiễn được nạp cùng lúc, đầu mũi tên rực lửa.
+
+"Thiên Tinh Liên Châu!"
+
+Năm mũi tên bay ra, nối đuôi nhau thành một đường thẳng tắp. Mũi thứ nhất phá vỡ lớp hộ thể khí của Ngô Công. Mũi thứ hai xuyên qua bàn tay đang che mặt hắn. Mũi thứ ba, thứ tư và thứ năm găm thẳng vào hốc mắt trái của hắn.
+
+"BÙM!!!"
+
+Tiếng nổ vang trời. Ngô Công Trưởng Lão ôm mặt gào thét thảm thiết, nửa khuôn mặt của hắn đã bị nổ nát bét, máu me be bét trộn lẫn với dịch xanh của rết.
+
+"Lũ sâu kiến!!! Ta sẽ giết các ngươi!!!"
+
+Hắn điên cuồng lao tới, không còn giữ được sự bình tĩnh ban đầu, húc đổ mọi chướng ngại vật trên đường đi.
+
+"Chạy!"
+
+Lâm Phong kéo Diệp Tĩnh Sương đang kiệt sức, cùng Hứa Nhược Thủy lao vào lối đi tối tăm.
+
+Phía sau, tiếng gầm rú của Ngô Công Trưởng Lão vẫn đuổi sát nút, nhưng lần này, trong bóng tối, một luồng sáng xanh lục nhạt từ vách hầm Huyết Mạch Thượng Cổ bắt đầu dao động, như thể đang đáp lại sự xâm nhập thô bạo của kẻ thù...
