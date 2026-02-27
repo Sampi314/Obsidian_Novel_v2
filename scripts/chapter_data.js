@@ -523,6 +523,18 @@ window.chapterData = {
       "title": "Chương 50: Cơn Ác Mộng Nam Cương"
     },
     {
+      "filename": "Chương_00051_Lời_Mời_Từ_Bóng_Tối.md",
+      "title": "Chương 51: Lời Mời Từ Bóng Tối"
+    },
+    {
+      "filename": "Chương_00052_Giao_Dịch_Ngầm.md",
+      "title": "Chương 52: Giao Dịch Ngầm"
+    },
+    {
+      "filename": "Chương_00053_Bí_Mật_Cổ_Trùng.md",
+      "title": "Chương 53: Bí Mật Cổ Trùng"
+    },
+    {
       "filename": "Chương_00061_Mệnh_Lệnh_Bóng_Tối.md",
       "title": "Chương 61: Mệnh Lệnh Bóng Tối"
     },

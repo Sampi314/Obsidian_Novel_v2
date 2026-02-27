@@ -115,3 +115,4 @@
 | 2026-03-27 | Tổng Quản | Mở Rộng Backstory Lệ Vô Tâm | Hoàn Thành | Quy hoạch lại 3 Arc lớn (~30 chương/arc). Reindex lại toàn bộ chương cũ theo số thứ tự mới. Viết thêm chương 8 & 16. |
 | 2026-03-28 | Tổng Quản | Viết Chương 41-43 (Lệ Vô Tâm) | Hoàn Thành | Viết 3 chương mới cho Arc 2, hoàn thiện hồ sơ cốt truyện. |
 | 2026-03-29 | Tổng Quản | Viết Chương 44-46 (Lệ Vô Tâm) | Hoàn Thành | Viết 3 chương tiếp theo Arc 2: Huyết Chiến Sơn Tặc, Đối Thủ Xứng Tầm, Vết Thương Chí Mạng. |
+| 2026-03-30 | Tổng Quản | Viết Chương 51-53 (Lệ Vô Tâm) | Hoàn Thành | Viết 3 chương tiếp theo Arc 2: Lời Mời Từ Bóng Tối, Giao Dịch Ngầm, Bí Mật Cổ Trùng. |
