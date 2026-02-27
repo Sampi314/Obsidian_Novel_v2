@@ -60,6 +60,8 @@ Khi viết các chương truyện cho từng nhân vật, hãy tuân thủ đị
     - Đảm bảo mạch văn trôi chảy, logic.
     - Chuyển tiếp mượt mà giữa các phân cảnh.
 4.  **Hoàn Thiện & Lưu Trữ:**
+    - Lưu bản thảo chương vào thư mục `Đạo/Chương_Truyện/` (ví dụ: `Đạo/Chương_Truyện/Chương_001_Khởi_Đầu.md`).
+    - **Lưu ý:** Tên file phải dùng Tiếng Việt có dấu và định dạng số chương là **5 chữ số** (ví dụ: `Chương_00001_Khởi_Đầu.md`, `Chương_00012_Thương_Vụ_Bạc_Tỷ.md`).
     - Lưu bản thảo chương vào thư mục tương ứng trong `Đạo/Chương_Truyện/`.
         - Nếu là góc nhìn chính (Diệp Tĩnh Sương/Lâm Phong): `Đạo/Chương_Truyện/Góc_Nhìn_Chính/`.
         - Nếu là góc nhìn nhân vật khác (Ví dụ: Lệ Vô Tâm): `Đạo/Chương_Truyện/Góc_Nhìn_[Tên_Nhân_Vật]/`.
