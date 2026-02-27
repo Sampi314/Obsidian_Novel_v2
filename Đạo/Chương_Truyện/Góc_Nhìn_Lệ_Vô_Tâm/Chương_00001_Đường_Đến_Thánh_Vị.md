@@ -13,16 +13,16 @@
 <ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
 <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00001_Đường_Đến_Thánh_Vị.html">Chương 1: Đường Đến Thánh Vị</a></li>
 <li style="padding: 5px; "><a href="Chương_00002_Huyết_Độc_Phiến.html">Chương 2: Huyết Độc Phiến</a></li>
-<li style="padding: 5px; "><a href="Chương_00002_2_Bẫy_Rập_Rừng_Sương.html">Chương 2.2: Bẫy Rập Rừng Sương</a></li>
-<li style="padding: 5px; "><a href="Chương_00002_5_Diệt_Môn_Chi_Họa.html">Chương 2.5: Diệt Môn Chi Họa</a></li>
-<li style="padding: 5px; "><a href="Chương_00002_8_Thanh_Trừng_Nội_Bộ.html">Chương 2.8: Thanh Trừng Nội Bộ</a></li>
-<li style="padding: 5px; "><a href="Chương_00003_Mệnh_Lệnh_Bóng_Tối.html">Chương 3: Mệnh Lệnh Bóng Tối</a></li>
-<li style="padding: 5px; "><a href="Chương_00004_Thí_Nghiệm_Máu.html">Chương 4: Thí Nghiệm Máu</a></li>
-<li style="padding: 5px; "><a href="Chương_00005_Ván_Cờ_Huyết_Độc.html">Chương 5: Ván Cờ Huyết Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00006_Truy_Vết_Tử_Thần.html">Chương 6: Truy Vết Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00007_Dưới_Bóng_Hắc_Sa.html">Chương 7: Dưới Bóng Hắc Sa</a></li>
-<li style="padding: 5px; "><a href="Chương_00008_Huyết_Tế_Sa_Mạc.html">Chương 8: Huyết Tế Sa Mạc</a></li>
-<li style="padding: 5px; "><a href="Chương_00009_Sát_Ý_Rừng_Gai.html">Chương 9: Sát Ý Rừng Gai</a></li>
+<li style="padding: 5px; "><a href="Chương_00003_Bẫy_Rập_Rừng_Sương.html">Chương 3: Bẫy Rập Rừng Sương</a></li>
+<li style="padding: 5px; "><a href="Chương_00004_Diệt_Môn_Chi_Họa.html">Chương 4: Diệt Môn Chi Họa</a></li>
+<li style="padding: 5px; "><a href="Chương_00005_Thanh_Trừng_Nội_Bộ.html">Chương 5: Thanh Trừng Nội Bộ</a></li>
+<li style="padding: 5px; "><a href="Chương_00006_Mệnh_Lệnh_Bóng_Tối.html">Chương 6: Mệnh Lệnh Bóng Tối</a></li>
+<li style="padding: 5px; "><a href="Chương_00007_Thí_Nghiệm_Máu.html">Chương 7: Thí Nghiệm Máu</a></li>
+<li style="padding: 5px; "><a href="Chương_00008_Ván_Cờ_Huyết_Độc.html">Chương 8: Ván Cờ Huyết Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00009_Truy_Vết_Tử_Thần.html">Chương 9: Truy Vết Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00010_Dưới_Bóng_Hắc_Sa.html">Chương 10: Dưới Bóng Hắc Sa</a></li>
+<li style="padding: 5px; "><a href="Chương_00011_Huyết_Tế_Sa_Mạc.html">Chương 11: Huyết Tế Sa Mạc</a></li>
+<li style="padding: 5px; "><a href="Chương_00012_Sát_Ý_Rừng_Gai.html">Chương 12: Sát Ý Rừng Gai</a></li>
 </ul>
 </details>
 </div>

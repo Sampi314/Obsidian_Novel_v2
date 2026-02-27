@@ -51,10 +51,10 @@ Ghi_Chú: Hành trình sinh tồn trong vùng đất bị nguyền rủa bởi �
 <li style="padding: 5px; "><a href="Chương_00030_Đại_Nạn_Long_Mạch.html">Chương 30: Đại Nạn Long Mạch</a></li>
 <li style="padding: 5px; "><a href="Chương_00031_Hắc_Sa_Bão_Trỗi_Dậy.html">Chương 31: Hắc Sa Bão Trỗi Dậy</a></li>
 <li style="padding: 5px; "><a href="Chương_00032_Sa_Hồn_Truy_Kích.html">Chương 32: Sa Hồn Truy Kích</a></li>
-<li style="padding: 5px; "><a href="Chương_00033_Bí_Mật_Rừng_Thiên_Trụ.html">Không có tiêu đề</a></li>
+<li style="padding: 5px; "><a href="Chương_00033_Bí_Mật_Rừng_Thiên_Trụ.html">Chương 33: Bí Mật Rừng Thiên Trụ</a></li>
 <li style="padding: 5px; "><a href="Chương_00034_Pháo_Đài_Xanh.html">Chương 34: Pháo Đài Xanh</a></li>
-<li style="padding: 5px; "><a href="Chương_00035_Lối_Mòn_Trong_Bão.html">Không có tiêu đề</a></li>
-<li style="padding: 5px; "><a href="Chương_00036_Ranh_Giới_Tử_Thần.html">Không có tiêu đề</a></li>
+<li style="padding: 5px; "><a href="Chương_00035_Lối_Mòn_Trong_Bão.html">Chương 35: Lối Mòn Trong Bão</a></li>
+<li style="padding: 5px; "><a href="Chương_00036_Ranh_Giới_Tử_Thần.html">Chương 36: Ranh Giới Tử Thần</a></li>
 <li style="padding: 5px; "><a href="Chương_00037_Vòng_Vây_Huyết_Lang.html">Không có tiêu đề</a></li>
 <li style="padding: 5px; "><a href="Chương_00038_Huyết_Chiến_Lang_Vương.html">Chương 38: Huyết Chiến Lang Vương</a></li>
 <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00039_Vùng_Đất_Chết.html">Chương 39: Vùng Đất Chết</a></li>
