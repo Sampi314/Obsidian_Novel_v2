@@ -2,7 +2,7 @@
 <div style="text-align: center; margin-bottom: 20px;">
     <table style="width: 100%; text-align: center; border: none;">
         <tr>
-            <td style="border: none; padding: 5px;"><a href="Chương_00058_Giao_Ước_Trong_Bóng_Tối.md">⬅️ Chương Trước</a></td>
+            <td style="border: none; padding: 5px;"><a href="Chương_00059_Lối_Mòn_Trong_Lòng_Đất.md">⬅️ Chương Trước</a></td>
             <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
             <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
             <td style="border: none; padding: 5px; color: #adb5bd;">Chương Sau ➡️</td>
@@ -69,6 +69,7 @@
             <li style="padding: 5px; "><a href="Chương_00056_Bí_Mật_Dưới_Lòng_Đất.md">Chương 56: Bí Mật Dưới Lòng Đất</a></li>
             <li style="padding: 5px; "><a href="Chương_00057_Huyết_Chiến_Ngô_Công.md">Chương 57: Huyết Chiến Ngô Công</a></li>
             <li style="padding: 5px; "><a href="Chương_00058_Giao_Ước_Trong_Bóng_Tối.md">Chương 58: Giao Ước Trong Bóng Tối</a></li>
+            <li style="padding: 5px; "><a href="Chương_00059_Lối_Mòn_Trong_Lòng_Đất.md">Chương 59: Lối Mòn Trong Lòng Đất</a></li>
             <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_Mẫu_Huyền_Băng.md">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
         </ul>
     </details>

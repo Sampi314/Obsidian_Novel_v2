@@ -2,10 +2,10 @@
 <div style="text-align: center; margin-bottom: 20px;">
     <table style="width: 100%; text-align: center; border: none;">
         <tr>
-            <td style="border: none; padding: 5px;"><a href="Chương_00008_Huyết_Tướng_Truy_Sát.md">⬅️ Chương Trước</a></td>
+            <td style="border: none; padding: 5px;"><a href="Chương_00058_Giao_Ước_Trong_Bóng_Tối.md">⬅️ Chương Trước</a></td>
             <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
             <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-            <td style="border: none; padding: 5px;"><a href="Chương_00010_Độc_Long_Xuất_Thế.md">Chương Sau ➡️</a></td>
+            <td style="border: none; padding: 5px;"><a href="Chương_Mẫu_Huyền_Băng.md">Chương Sau ➡️</a></td>
         </tr>
     </table>
     <details style="margin-top: 10px;">
@@ -19,7 +19,7 @@
             <li style="padding: 5px; "><a href="Chương_00006_Huyết_Chiến_Đầm_Lầy.md">Chương 6: Huyết Chiến Đầm Lầy</a></li>
             <li style="padding: 5px; "><a href="Chương_00007_Dấu_Vết_Cổ_Xưa.md">Chương 7: Dấu Vết Cổ Xưa</a></li>
             <li style="padding: 5px; "><a href="Chương_00008_Huyết_Tướng_Truy_Sát.md">Chương 8: Huyết Tướng Truy Sát</a></li>
-            <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00009_Núi_Độc_Long.md">Chương 9: Núi Độc Long</a></li>
+            <li style="padding: 5px; "><a href="Chương_00009_Núi_Độc_Long.md">Chương 9: Núi Độc Long</a></li>
             <li style="padding: 5px; "><a href="Chương_00010_Độc_Long_Xuất_Thế.md">Chương 10: Độc Long Xuất Thế</a></li>
             <li style="padding: 5px; "><a href="Chương_00011_Bão_Cát_Tây_Mạc.md">Chương 11: Bão Cát Tây Mạc</a></li>
             <li style="padding: 5px; "><a href="Chương_00012_Thương_Vụ_Bạc_Tỷ.md">Chương 12: Thương Vụ Bạc Tỷ</a></li>
@@ -69,93 +69,94 @@
             <li style="padding: 5px; "><a href="Chương_00056_Bí_Mật_Dưới_Lòng_Đất.md">Chương 56: Bí Mật Dưới Lòng Đất</a></li>
             <li style="padding: 5px; "><a href="Chương_00057_Huyết_Chiến_Ngô_Công.md">Chương 57: Huyết Chiến Ngô Công</a></li>
             <li style="padding: 5px; "><a href="Chương_00058_Giao_Ước_Trong_Bóng_Tối.md">Chương 58: Giao Ước Trong Bóng Tối</a></li>
-            <li style="padding: 5px; "><a href="Chương_00059_Lối_Mòn_Trong_Lòng_Đất.md">Chương 59: Lối Mòn Trong Lòng Đất</a></li>
+            <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00059_Lối_Mòn_Trong_Lòng_Đất.md">Chương 59: Lối Mòn Trong Lòng Đất</a></li>
             <li style="padding: 5px; "><a href="Chương_Mẫu_Huyền_Băng.md">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
         </ul>
     </details>
 </div>
 <!-- NAVIGATION_END -->
-# Chương 9: Núi Độc Long
+# Chương 59: Lối Mòn Trong Lòng Đất
 
-**Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
-**Phản diện:** Đệ tử [Vạn Độc Môn](../../Thế_Lực/Vạn_Độc_Môn.md)
-**Địa điểm:** [Núi Độc Long](../../Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md)
+Bóng tối trong Ám Đạo đặc quánh như mực, khác hẳn với thứ ánh sáng xanh lục dịu dàng của Huyết Mạch Thượng Cổ. Không khí ở đây ẩm ướt, mang theo mùi tanh nồng của đất bùn trộn lẫn với hương vị gay mũi của các loại hóa chất luyện độc.
 
----
+Hứa Nhược Thủy đi đầu, tay cầm một viên Dạ Minh Châu nhỏ, ánh sáng yếu ớt chỉ đủ soi rọi vài bước chân phía trước. Lâm Phong đi đoạn hậu, tay luôn đặt trên dây cung, tai dỏng lên nghe ngóng mọi động tĩnh. Diệp Tĩnh Sương đi ở giữa, Hàn Mai Kiếm đã ra khỏi vỏ, hàn khí tỏa ra nhè nhẹ xua tan bớt sự ngột ngạt.
 
-Gió.
+"Con đường này..." Hứa Nhược Thủy khẽ nói, giọng bà vang vọng trong đường hầm hẹp, nghe như tiếng thở dài của oan hồn. "Được đào từ ba trăm năm trước. Khi đó, Vạn Độc Môn chỉ là một môn phái nhỏ, còn Hứa gia cũng chưa gia nhập Thiên Sa Thương Hội."
 
-Gió ở đây không mang theo hơi ẩm mốc của đầm lầy, mà khô khốc và nóng rát như lưỡi dao nung đỏ.
+Bà dừng lại trước một ngã ba, đưa tay sờ lên vách đá trơn nhẫy. Những ký hiệu cổ xưa khắc chìm vào đá, hình thù kỳ dị như những con bọ cạp đang giương nanh vuốt.
 
-[Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md) tựa lưng vào một tảng đá đen trần trụi, hơi thở dần ổn định lại. Vết thương trên vai nàng đã được băng bó sơ sài bằng vải xé từ tay áo, thấm đẫm dược bột cầm máu. Dù linh lực trong cơ thể đã cạn kiệt đến đáy, nhưng ánh mắt nàng vẫn sắc bén như kiếm, cảnh giác quan sát xung quanh.
+"Chúng ta đã cung cấp cho họ 'Huyết Tinh Sa' từ Tây Mạc để đổi lấy 'Giải Độc Đan' độc quyền. Một sự trao đổi công bằng, ta đã từng nghĩ vậy." Hứa Nhược Thủy cười chua chát. "Nhưng ta không ngờ rằng, chính Huyết Tinh Sa đó lại là nguyên liệu chính để họ luyện ra Huyết Thi."
 
-Cách đó không xa, [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md) đang ngồi xếp bằng, hai tay nâng niu miếng [Tinh Linh Cổ Ngọc](../../Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md). Miếng ngọc bội vốn dĩ tỏa sáng xanh biếc giờ đây ảm đạm như một hòn đá bình thường, bên trên còn xuất hiện vài vết rạn nhỏ.
+"Thương nhân trục lợi là bản tính, nhưng biết quay đầu là bờ," Diệp Tĩnh Sương lạnh lùng nói, mắt vẫn quan sát xung quanh. "Hiện tại bà đang dẫn chúng ta đi phá hủy tâm huyết của họ, coi như chuộc tội."
 
-"Nó... hỏng rồi sao?" Diệp Tĩnh Sương khẽ hỏi, giọng khàn đặc.
+"Chuộc tội sao? E là không đủ." Hứa Nhược Thủy lắc đầu, tiếp tục bước đi. "Các ngươi có nghe thấy tiếng gì không?"
 
-Lâm Phong lắc đầu, cẩn thận cất ngọc bội vào ngực áo: "Chưa hỏng, nhưng linh khí bên trong đã bị vắt kiệt để đối phó với con Huyết Tướng kia. Cần ít nhất ba tháng hấp thụ ánh trăng mới phục hồi được."
+Lâm Phong lập tức áp tai vào vách đá. "Tiếng nước chảy? Không... giống tiếng trườn bò hơn."
 
-Hắn ngẩng đầu nhìn lên bầu trời xám xịt đặc trưng của vùng giao thoa giữa Nam Cương và Tây Mạc.
+"Là 'Thủy Cổ' (水蠱)," Hứa Nhược Thủy biến sắc, lập tức lùi lại. "Cẩn thận! Đừng để nước chạm vào da!"
 
-"Chúng ta đang ở [Núi Độc Long](../../Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md). Bên kia sườn núi là địa phận của Tây Mạc. Đám quái vật của Vạn Độc Môn không dám bén mảng tới đây đâu, chúng sợ cái nóng khô của sa mạc."
+Vừa dứt lời, mặt đất dưới chân họ bỗng sụp xuống một mảng lớn, để lộ ra một rãnh nước đen ngòm chảy xiết bên dưới. Từ trong dòng nước đen, hàng vạn sinh vật nhỏ bé trong suốt như thạch, hình dạng giống đỉa nhưng có hàng trăm chân nhỏ, lao lên vách đá với tốc độ kinh hoàng.
 
-"Vậy là an toàn rồi?"
+"Kítttt!"
 
-"Tạm thời." Lâm Phong thở hắt ra, lau mồ hôi trộn lẫn bụi đất trên trán. "Nhưng muốn quay về Dược Vương Cốc, chúng ta phải đi đường vòng qua hẻm núi này. Con đường ngắn nhất xuyên qua đầm lầy đã bị chặn rồi."
+Tiếng rít chói tai vang lên. Một con Thủy Cổ nhảy vọt về phía Lâm Phong. Hắn nhanh như chớp lách người, đồng thời vung Truy Phong Cung quất mạnh.
 
-Diệp Tĩnh Sương gật đầu, định nói lời cảm ơn thì bỗng dưng Lâm Phong giơ tay ra hiệu im lặng. Tai hắn khẽ động đậy.
+*Vút!*
 
-"Có tiếng động."
+Con quái vật bị đánh bay vào vách đá, vỡ tan thành một vũng nước đen, nhưng ngay lập tức những giọt nước đó lại ngọ nguậy, tụ lại thành những con Thủy Cổ nhỏ hơn.
 
-Hắn trườn người lên mỏm đá cao, nheo mắt nhìn xuống thung lũng phía dưới. Diệp Tĩnh Sương cũng nén đau, rón rén bò tới bên cạnh.
+"Chúng bất tử sao?" Lâm Phong kinh ngạc.
 
-Phía dưới chân núi, trên con đường mòn đầy sỏi đá, một đoàn xe kỳ lạ đang chậm rãi tiến bước. Đó không phải là xe ngựa thông thường, mà là những toa xe khổng lồ được kéo bởi những con sâu cát to như thùng nước, da vàng óng ánh – [Sa Trùng](../../Thế_Lực/Thiên_Sa_Thương_Hội.md). Trên mỗi toa xe cắm một lá cờ màu vàng cát, thêu hình ba ngọn tháp đan xen.
+"Không phải bất tử, là phân tách!" Hứa Nhược Thủy hét lên, tay kết ấn. Một luồng cát vàng từ tay áo bà bay ra, tạo thành bức tường chắn trước mặt. "Thủy Cổ gặp lực tác động vật lý sẽ phân tách. Dùng lửa hoặc băng!"
 
-"Là người của [Thiên Sa Thương Hội](../../Thế_Lực/Thiên_Sa_Thương_Hội.md)," Lâm Phong thì thào. "Sao họ lại đi vào vùng biên giới nguy hiểm này? Lại còn hướng về phía đầm lầy?"
+"Để ta!"
 
-"Nhìn kìa," Diệp Tĩnh Sương chỉ tay.
+Diệp Tĩnh Sương bước lên một bước, Hàn Mai Kiếm vẽ một đường vòng cung tuyệt đẹp trong không trung.
 
-Xung quanh đoàn xe là hàng chục hộ vệ mặc giáp vàng, cưỡi trên những con thằn lằn sa mạc. Họ di chuyển trong đội hình phòng thủ cực kỳ nghiêm ngặt, thần sắc căng thẳng.
+*"Hàn Sương Kiếm Quyết - Băng Phong Vạn Lý!"*
 
-Đột nhiên, từ trong những khe nứt của vách núi hai bên đường, vô số bóng đen lao xuống như dơi đêm.
+Một luồng hàn khí cực độ bùng phát từ mũi kiếm, quét qua rãnh nước đen. Những con Thủy Cổ đang lao lên giữa không trung lập tức bị đông cứng lại thành những khối băng kỳ dị, rơi loảng xoảng xuống đất vỡ vụn. Lần này, chúng không thể tụ lại được nữa.
 
-*Vút! Vút! Vút!*
+Mặt nước đen ngòm bên dưới rãnh cũng nhanh chóng đóng băng, tạo thành một lớp vỏ trắng xóa.
 
-Hàng trăm mũi kim tẩm độc xanh lét bắn ra như mưa rào. Những hộ vệ đi đầu không kịp phản ứng, trúng kim lập tức ngã gục, toàn thân co giật rồi hóa thành vũng máu đen chỉ trong nháy mắt.
+"Đi mau! Băng của ta không giữ được lâu đâu, đám Thủy Cổ này có tính ăn mòn rất mạnh," Diệp Tĩnh Sương thu kiếm, sắc mặt hơi tái đi vì tiêu hao linh lực.
 
-"Địch tập kích!"
+Ba người vội vã vượt qua khu vực nguy hiểm. Tiếng rắc rắc vang lên sau lưng họ khi lớp băng bắt đầu nứt vỡ dưới sự tấn công điên cuồng của bầy Thủy Cổ bên dưới.
 
-Một tiếng hét vang lên từ toa xe dẫn đầu. Một tráng hán cầm đại đao nhảy vọt lên nóc xe, đao khí bùng nổ chém bay đám kim độc còn lại. "Bảo vệ hàng hóa! Đây là thuốc cứu mạng cho Dược Vương Cốc! Sống chết cũng không được để mất!"
+Sau gần hai canh giờ luồn lách qua những đoạn hầm chật hẹp và tránh né vài bẫy rập cơ quan đã hỏng hóc theo thời gian, không gian trước mặt họ bỗng mở rộng ra.
 
-"Hừ, thuốc cứu mạng sao? Ta lại thấy nó giống thuốc tiễn các ngươi xuống hoàng tuyền hơn."
+Một luồng ánh sáng đỏ rực hắt ra từ cuối đường hầm, kèm theo đó là mùi tanh nồng nặc đến mức Lâm Phong phải bịt mũi.
 
-Một giọng nói âm lãnh vang vọng khắp thung lũng. Từ trong làn sương mù xanh lục vừa xuất hiện, một gã nam tử mặc áo bào tím bước ra. Trên vai hắn đậu một con bọ cạp đỏ rực to bằng bàn tay – [Hỏa Hạt](../../Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md).
+"Đến rồi," Hứa Nhược Thủy thì thầm, dập tắt Dạ Minh Châu.
 
-"Người của Vạn Độc Môn!" Diệp Tĩnh Sương siết chặt chuôi kiếm, sát khí trong mắt bùng lên.
+Họ nấp sau một tảng đá lớn, nhìn xuống bên dưới. Đó là một hang động khổng lồ tự nhiên, rộng lớn đến mức có thể chứa được cả một tòa thành nhỏ.
 
-Gã nam tử áo tím phất tay, đám đệ tử áo đen phía sau lập tức thả ra vô số rết, rắn, và cóc độc. "Giết sạch bọn chúng. Đốt hết xe hàng. Thánh Tử đã ra lệnh, một viên thuốc cũng không được lọt vào Nam Cương."
+Khắp nơi trong hang động là hàng trăm bể chứa lớn nhỏ, được nối với nhau bằng hệ thống ống dẫn chằng chịt làm từ thân cây rỗng. Bên trong các bể chứa là thứ chất lỏng màu xanh lục sủi bọt ùng ục - chính là độc dược đang được tinh luyện.
 
-Hỗn chiến nổ ra ngay tức khắc. Dù hộ vệ của Thiên Sa Thương Hội dũng mãnh, nhưng đối thủ của họ là những kẻ dùng độc quỷ quyệt. Chỉ sau vài nhịp thở, phe thương hội đã rơi vào thế hạ phong.
+Nhưng điều đáng sợ nhất là ở trung tâm hang động. Một cái lồng sắt khổng lồ treo lơ lửng giữa không trung, bên trong giam giữ hàng chục sinh vật kỳ dị - nửa người nửa thú, đang gào thét trong đau đớn. Bên dưới cái lồng là một cái ao nhỏ chứa đầy chất lỏng màu đỏ tươi, bốc lên những làn khói hình đầu lâu.
 
-"Lâm Phong," Diệp Tĩnh Sương quay sang, ánh mắt kiên định. "Ta phải xuống đó."
+"Đó là... Kho Chứa Ngầm," Hứa Nhược Thủy run rẩy chỉ tay. "Và cái ao kia... là trạm trung chuyển huyết khí dẫn thẳng tới Huyết Trì."
 
-Lâm Phong nhăn mặt: "Cô điên à? Linh lực cạn kiệt, vai thì trọng thương. Xuống đó để làm mồi cho rắn rết sao?"
+Lâm Phong nheo mắt nhìn kỹ. Hắn thấy những bóng áo đen của đệ tử Vạn Độc Môn đang đi lại tấp nập, vận chuyển những thùng gỗ lớn từ các đường hầm khác đổ vào ao máu.
 
-"Đó là thuốc cứu trợ cho Dược Vương Cốc. Nếu không có nó, hàng ngàn người nhiễm độc trong rừng sẽ chết."
+"Chúng đang tập trung toàn lực cho Vạn Độc Huyết Tế Đại Trận," Diệp Tĩnh Sương nhận định. "Đây là cơ hội tốt. Nếu chúng ta phá hủy trạm trung chuyển này, dòng chảy huyết khí về Huyết Trì sẽ bị gián đoạn."
 
-Nàng không đợi hắn trả lời, gắng gượng đứng dậy, rút [Hàn Mai Kiếm](../../Luyện_Khí/Hàn_Mai_Kiếm.md) ra. Dù tay run rẩy, nhưng mũi kiếm vẫn chỉ thẳng xuống dưới.
+"Nhưng làm sao để qua mắt được bọn chúng?" Lâm Phong lo lắng. "Ở đây ít nhất cũng có cả trăm tên Cổ Sư, chưa kể những tên Trưởng Lão canh gác."
 
-Lâm Phong nhìn nàng, rồi nhìn xuống đám người đang chém giết phía dưới, thở dài sườn sượt. Hắn tháo [Truy Phong Cung](../../Luyện_Khí/Truy_Phong_Cung.md) xuống, lắp ba mũi tên gỗ lên dây.
+Hứa Nhược Thủy bỗng mỉm cười, một nụ cười đầy toan tính của thương nhân đã trở lại trên gương mặt bà.
 
-"Được rồi, được rồi. Ta cũng ghét cái bọn chơi độc này."
+"Các ngươi quên ta là ai sao? Ta là Sa Dược Phu Nhân. Nơi nào có độc, nơi đó có ta. Và nơi nào có hàng hóa..." Bà rút ra một chiếc túi gấm nhỏ từ thắt lưng. "...nơi đó có giao dịch."
 
-Hắn nhếch mép cười, ánh mắt trở nên sắc lạnh.
+"Ý bà là gì?" Diệp Tĩnh Sương nhíu mày.
 
-"Cô cứ việc lao xuống làm anh hùng. Còn ta sẽ tỉa từng tên một từ trên này. Cược xem ai giết được tên cầm đầu kia trước nhé?"
+"Trong kho này, có một thứ mà ta đã bán cho chúng cách đây mười năm. Một loại 'Hàng' đặc biệt, nếu được kích hoạt đúng cách, nó sẽ gây ra một sự hỗn loạn thú vị."
 
-Diệp Tĩnh Sương khẽ nhếch môi, nụ cười hiếm hoi nở trên gương mặt lạnh lùng.
+Hứa Nhược Thủy nhìn về phía một góc khuất của kho chứa, nơi xếp đống những chiếc vò gốm niêm phong bùa chú màu vàng.
 
-"Được."
+"Đó là 'Sa Bạo Cổ' (Cổ Trùng Bão Cát) - một thất bại của ta khi cố gắng lai tạo Cổ Trùng với tinh linh sa mạc. Nó cực kỳ không ổn định và ghét nước."
 
-Nàng vận chút linh lực cuối cùng, nhảy vọt xuống từ vách núi, tựa như một đóa mai trắng lao thẳng vào giữa bầy quạ đen.
+"Và ở đây..." Lâm Phong nhìn xuống những bể độc dược lỏng xung quanh. "...toàn là nước."
+
+"Chính xác," Hứa Nhược Thủy nhếch mép. "Chỉ cần một mồi lửa nhỏ."
+
+Ba người nhìn nhau, ánh mắt lóe lên sự quyết tâm. Kế hoạch điên rồ này có thể là chìa khóa để lật ngược thế cờ.
