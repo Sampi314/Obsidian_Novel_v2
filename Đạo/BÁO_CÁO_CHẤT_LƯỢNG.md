@@ -108,3 +108,4 @@
 | 2026-03-21 | Tổng Quản | Cập nhật Lore Huyết Mạch & Viết Chương 58 | Hoàn Thành | Cập nhật Huyết Mạch Thượng Cổ, Ngô Công, Mộc Linh Trận Địa và viết Chương 58. |
 | 2026-03-22 | Tổng Quản | Viết Chương 59 & Cập Nhật Lore Vạn Độc | Hoàn Thành | Viết Chương 59, thêm Kho Chứa Ngầm vào Vạn Độc Môn và quá khứ vào Hứa Nhược Thủy. |
 | 2026-03-23 | Tổng Quản | Viết Chương 60 & Tạo Kỳ Vật | Hoàn Thành | Viết Chương 60, tạo Kỳ Vật Thủy Cổ & Sa Bạo Cổ. |
+| 2026-03-24 | Tổng Quản | Viết Chương 61 & Tạo Nấm Độc | Hoàn Thành | Viết Chương 61, tạo Nấm Độc Lâm, Nấm Mặt Quỷ và cập nhật Mộc Độc Sư. |
