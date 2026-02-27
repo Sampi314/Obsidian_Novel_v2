@@ -105,3 +105,4 @@
 | 2026-03-18 | Tổng Quản | Viết Chương 54: Bóng Ma Trong Sương | Hoàn Thành | Khai thác ảo giác trong Huyết Vụ Lâm, giới thiệu kẻ địch Vạn Độc Thất Sát. |
 | 2026-03-19 | Tổng Quản | Viết Chương 55: Huyết Mạch Thượng Cổ | Hoàn Thành | Khám phá Huyết Mạch bên dưới Huyết Vụ Lâm, tìm lối đi bí mật. |
 | 2026-03-20 | Tổng Quản | Viết Chương 57: Huyết Chiến Ngô Công | Hoàn Thành | Cuộc chiến Boss đầu tiên trong lòng đất, cập nhật hồ sơ Ngô Công và Vạn Độc Môn. |
+| 2026-03-21 | Tổng Quản | Cập nhật Lore Huyết Mạch & Viết Chương 58 | Hoàn Thành | Cập nhật Huyết Mạch Thượng Cổ, Ngô Công, Mộc Linh Trận Địa và viết Chương 58. |
