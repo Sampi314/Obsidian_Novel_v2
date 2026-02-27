@@ -1,6 +1,13 @@
 import os
 import re
 
+# Regex for existing navigation block
+NAV_PATTERN = re.compile(r"<!-- NAVIGATION_START -->.*?<!-- NAVIGATION_END -->\s*", re.DOTALL)
+
+# Regex for YAML Front Matter
+# Matches start of file, ---, content, ---
+FRONT_MATTER_PATTERN = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
+
 def get_chapter_title(filepath):
     """
     Extracts the first H1 title from a markdown file.
@@ -135,17 +142,10 @@ def generate_navigation(repo_root):
                 with open(filepath, "r", encoding="utf-8") as f:
                     content = f.read()
 
-                # Regex for existing navigation block
-                nav_pattern = re.compile(r"<!-- NAVIGATION_START -->.*?<!-- NAVIGATION_END -->\s*", re.DOTALL)
-
                 # Remove existing navigation first
-                content_without_nav = nav_pattern.sub("", content)
+                content_without_nav = NAV_PATTERN.sub("", content)
 
-                # Regex for YAML Front Matter
-                # Matches start of file, ---, content, ---
-                front_matter_pattern = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
-
-                match = front_matter_pattern.match(content_without_nav)
+                match = FRONT_MATTER_PATTERN.match(content_without_nav)
 
                 if match:
                     # Insert after front matter
