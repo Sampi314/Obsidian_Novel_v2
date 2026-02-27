@@ -1,22 +1,24 @@
 import os
 import re
 import html
+import json
 from scripts.utils import get_chapter_title, extract_chapter_number
 
 # Regex for existing navigation block
 NAV_PATTERN = re.compile(r"<!-- NAVIGATION_START -->.*?<!-- NAVIGATION_END -->\s*", re.DOTALL)
 
 # Regex for YAML Front Matter
-# Matches start of file, ---, content, ---
 FRONT_MATTER_PATTERN = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
 
-def generate_navigation(repo_root):
+def collect_chapter_data(repo_root):
     story_dir = os.path.join(repo_root, "Đạo", "Chương_Truyện")
     if not os.path.exists(story_dir):
         print(f"Directory not found: {story_dir}")
-        return
+        return {}
 
     pov_dirs = [d for d in os.listdir(story_dir) if os.path.isdir(os.path.join(story_dir, d))]
+
+    all_chapters = {}
 
     for pov in pov_dirs:
         pov_path = os.path.join(story_dir, pov)
@@ -28,79 +30,53 @@ def generate_navigation(repo_root):
         # Sort files based on extracted chapter number
         files.sort(key=extract_chapter_number)
 
-        # Pre-calculate titles for the dropdown
         chapter_list = []
         for filename in files:
             filepath = os.path.join(pov_path, filename)
             title = get_chapter_title(filepath)
-            chapter_list.append({"filename": filename, "title": title})
+            chapter_list.append({
+                "filename": filename,
+                "title": title
+            })
 
-        # Generate navigation for each file
-        for i, current_chapter in enumerate(chapter_list):
-            prev_chapter = chapter_list[i-1] if i > 0 else None
-            next_chapter = chapter_list[i+1] if i < len(chapter_list) - 1 else None
+        all_chapters[pov] = chapter_list
+
+    return all_chapters
+
+def generate_chapter_data_js(repo_root, data):
+    js_content = f"window.chapterData = {json.dumps(data, ensure_ascii=False, indent=2)};"
+    js_path = os.path.join(repo_root, "scripts", "chapter_data.js")
+    with open(js_path, "w", encoding="utf-8") as f:
+        f.write(js_content)
+    print(f"Generated {js_path}")
+
+def generate_navigation(repo_root):
+    # 1. Collect all chapter data
+    print("Collecting chapter data...")
+    all_data = collect_chapter_data(repo_root)
+
+    # 2. Generate the JS data file
+    generate_chapter_data_js(repo_root, all_data)
+
+    # 3. Update individual files with minimal placeholder and script tags
+    story_dir = os.path.join(repo_root, "Đạo", "Chương_Truyện")
+
+    for pov, chapter_list in all_data.items():
+        pov_path = os.path.join(story_dir, pov)
+
+        for current_chapter in chapter_list:
 
             nav_html = []
             nav_html.append("<!-- NAVIGATION_START -->")
-            nav_html.append('<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">')
+            nav_html.append('<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>')
 
-            # Use a table for layout to mimic a button bar
-            nav_html.append('<table style="width: 100%; text-align: center; border: none;">')
-            nav_html.append('<tr>')
-
-            # Previous Button
-            if prev_chapter:
-                nav_html.append(f'<td style="border: none; padding: 5px;"><a href="{prev_chapter["filename"].replace(".md", ".html")}">⬅️ Chương Trước</a></td>')
-            else:
-                nav_html.append('<td style="border: none; padding: 5px; color: #adb5bd;">⬅️ Chương Trước</td>')
-
-            # Home & TOC
-            nav_html.append('<td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>')
-            nav_html.append('<td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>')
-
-            # Next Button
-            next_link_url = next_chapter["filename"].replace(".md", ".html") if next_chapter else "#"
-            if next_chapter:
-                nav_html.append(f'<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="{next_link_url}">Chương Sau ➡️</a></td>')
-            else:
-                nav_html.append('<td style="border: none; padding: 5px; color: #adb5bd;">Chương Sau ➡️</td>')
-
-            nav_html.append('</tr>')
-            nav_html.append('</table>')
-
-            # Dropdown
-            nav_html.append('<details style="margin-top: 10px;">')
-            nav_html.append('<summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>')
-            nav_html.append('<ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">')
-
-            for chap in chapter_list:
-                is_active = 'font-weight: bold; background-color: #f0f0f0;' if chap["filename"] == current_chapter["filename"] else ''
-                nav_html.append(f'<li style="padding: 5px; {is_active}"><a href="{chap["filename"].replace(".md", ".html")}">{html.escape(chap["title"])}</a></li>')
-
-            nav_html.append('</ul>')
-            nav_html.append('</details>')
-
-            # Audio Player Controls
-            nav_html.append('<div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">')
-            nav_html.append('  <strong>🎧 Nghe Chương Này:</strong>')
-            nav_html.append('  <br>')
-            nav_html.append('  <button id="btn-play" onclick="window.startReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button>')
-            nav_html.append('  <button id="btn-pause" onclick="window.pauseReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏸️ Tạm Dừng</button>')
-            nav_html.append('  <button id="btn-resume" onclick="window.resumeReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏯️ Tiếp Tục</button>')
-            nav_html.append('  <button id="btn-stop" onclick="window.stopReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏹️ Dừng</button>')
-            nav_html.append('</div>')
-
-            # Inject Configuration
-            nav_html.append('<script>')
-            nav_html.append(f'  window.nextChapterUrl = "{next_link_url}";')
-            nav_html.append('</script>')
-
-            # Inject External Script
-            # Path is relative from Đạo/Chương_Truyện/POV/Chapter.md to scripts/tts_player.js
+            # Script injections
+            # Path is relative from Đạo/Chương_Truyện/POV/Chapter.md to scripts/
             # POV is 3 levels deep (Đạo/Chương_Truyện/POV), so ../../../ takes us to root
+            nav_html.append('<script src="../../../scripts/chapter_data.js"></script>')
+            nav_html.append('<script src="../../../scripts/navigation.js"></script>')
             nav_html.append('<script src="../../../scripts/tts_player.js"></script>')
 
-            nav_html.append('</div>')
             nav_html.append("<!-- NAVIGATION_END -->")
             nav_html.append("") # Empty line after
 
@@ -128,10 +104,12 @@ def generate_navigation(repo_root):
                 with open(filepath, "w", encoding="utf-8") as f:
                     f.write(new_content)
 
-                print(f"Updated navigation for {current_chapter['filename']}")
+                # print(f"Updated navigation for {current_chapter['filename']}") # Reduce spam
 
             except Exception as e:
                 print(f"Error updating {filepath}: {e}")
+
+    print("Navigation injection complete.")
 
 if __name__ == "__main__":
     repo_root = os.getcwd()

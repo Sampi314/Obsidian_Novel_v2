@@ -1,34 +1,8 @@
 <!-- NAVIGATION_START -->
-<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
-<table style="width: 100%; text-align: center; border: none;">
-<tr>
-<td style="border: none; padding: 5px; color: #adb5bd;">⬅️ Chương Trước</td>
-<td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
-<td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00002_Mũi_Tên_Đầu_Tiên.html">Chương Sau ➡️</a></td>
-</tr>
-</table>
-<details style="margin-top: 10px;">
-<summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
-<ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00001_Cơ_Duyên_Rừng_Thẳm.html">Chương 1: Cơ Duyên Rừng Thẳm</a></li>
-<li style="padding: 5px; "><a href="Chương_00002_Mũi_Tên_Đầu_Tiên.html">Chương 2: Mũi Tên Đầu Tiên</a></li>
-<li style="padding: 5px; "><a href="Chương_00003_Rời_Khỏi_Rừng_Thẳm.html">Chương 3: Rời Khỏi Rừng Thẳm</a></li>
-</ul>
-</details>
-<div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
-  <strong>🎧 Nghe Chương Này:</strong>
-  <br>
-  <button id="btn-play" onclick="window.startReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button>
-  <button id="btn-pause" onclick="window.pauseReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏸️ Tạm Dừng</button>
-  <button id="btn-resume" onclick="window.resumeReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏯️ Tiếp Tục</button>
-  <button id="btn-stop" onclick="window.stopReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏹️ Dừng</button>
-</div>
-<script>
-  window.nextChapterUrl = "Chương_00002_Mũi_Tên_Đầu_Tiên.html";
-</script>
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
-</div>
 <!-- NAVIGATION_END -->
 # Chương 1: Cơ Duyên Rừng Thẳm
 
