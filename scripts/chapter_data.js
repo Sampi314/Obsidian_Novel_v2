@@ -535,6 +535,18 @@ window.chapterData = {
       "title": "Chương 53: Bí Mật Cổ Trùng"
     },
     {
+      "filename": "Chương_00054_Thí_Nghiệm_Trên_Người_Sống.md",
+      "title": "Chương 54: Thí Nghiệm Trên Người Sống"
+    },
+    {
+      "filename": "Chương_00055_Đột_Phá_Trúc_Cơ_Trung_Kỳ.md",
+      "title": "Chương 55: Đột Phá Trúc Cơ Trung Kỳ"
+    },
+    {
+      "filename": "Chương_00056_Sự_Ghen_Ghét_Của_Đồng_Môn.md",
+      "title": "Chương 56: Sự Ghen Ghét Của Đồng Môn"
+    },
+    {
       "filename": "Chương_00061_Mệnh_Lệnh_Bóng_Tối.md",
       "title": "Chương 61: Mệnh Lệnh Bóng Tối"
     },
