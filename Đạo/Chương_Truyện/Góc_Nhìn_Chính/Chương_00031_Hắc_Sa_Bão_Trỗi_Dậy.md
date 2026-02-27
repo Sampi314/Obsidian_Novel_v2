@@ -80,6 +80,10 @@ Ghi_Chú: Tiếp nối sự kiện Chương 30, mô tả hậu quả của việ
 <li style="padding: 5px; "><a href="Chương_00059_Lối_Mòn_Trong_Lòng_Đất.html">Chương 59: Lối Mòn Trong Lòng Đất</a></li>
 <li style="padding: 5px; "><a href="Chương_00060_Hỗn_Loạn_Tại_Kho_Chứa.html">Chương 60: Hỗn Loạn Tại Kho Chứa</a></li>
 <li style="padding: 5px; "><a href="Chương_00061_Mê_Cung_Nấm_Độc.html">Chương 61: Mê Cung Nấm Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00062_Bí_Mật_Huyết_Trì.html">Chương 62: Bí Mật Huyết Trì (血池之秘)</a></li>
+<li style="padding: 5px; "><a href="Chương_00063_Huyết_Chiến_Bên_Hồ.html">Chương 63: Huyết Chiến Bên Hồ (血池激戰)</a></li>
+<li style="padding: 5px; "><a href="Chương_00064_Bóng_Ma_Trong_Sương_Đỏ.html">Chương 64: Bóng Ma Trong Sương Đỏ (紅霧魅影)</a></li>
+<li style="padding: 5px; "><a href="Chương_00065_Tiếng_Gọi_Nơi_Rừng_Thẳm.html">Chương 65: Tiếng Gọi Nơi Rừng Thẳm (深林之聲)</a></li>
 <li style="padding: 5px; "><a href="Chương_Mẫu_Huyền_Băng.html">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
 </ul>
 </details>
