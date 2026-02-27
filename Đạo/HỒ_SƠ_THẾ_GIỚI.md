@@ -222,6 +222,9 @@
     - *Huyết Linh Chi:* Linh thảo hệ Huyết mọc trên rễ Huyết Mộc cổ thụ, có khả năng hồi phục khí huyết và giải độc. Xem tại `Đạo/Kỳ_Vật/Huyết_Linh_Chi.md`.
     - *Huyết Vệ:* Tu sĩ bị Vạn Độc Môn cải tạo thành cỗ máy giết chóc, vô cảm và có sức mạnh thể chất kinh hồn. Xem tại `Đạo/Kỳ_Vật/Huyết_Vệ.md`.
     - *Huyết Nha:* Quạ biến dị nhiễm Huyết Thần Độc, đóng vai trò trinh sát của Vạn Độc Môn. Xem tại `Đạo/Kỳ_Vật/Huyết_Nha.md`.
+    - *Thủy Cổ:* Cổ trùng sống dưới nước, có khả năng phân tách khi bị tấn công. Xem tại `Đạo/Kỳ_Vật/Thủy_Cổ.md`.
+    - *Sa Bạo Cổ:* Cổ trùng nhân tạo chứa năng lượng bão cát, cực kỳ không ổn định. Xem tại `Đạo/Kỳ_Vật/Sa_Bạo_Cổ.md`.
+    - *Huyết Tinh Sa:* Khoáng vật Tây Mạc dùng để luyện Huyết Thi. Xem tại `Đạo/Kỳ_Vật/Huyết_Tinh_Sa.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
