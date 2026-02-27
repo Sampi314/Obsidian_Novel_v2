@@ -14,9 +14,9 @@
     - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nam_Cương.md`.
         - *Rừng Huyết Độc:* Khu rừng biên giới với những thân cây đỏ như máu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md`.
             - *Hang Động Nhện Quỷ:* Hệ thống hang động ngầm nơi Vạn Độc Môn thực hiện thí nghiệm Huyết Thi. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
-            - *Mộc Linh Trận Địa:* Căn cứ tạm thời của Tinh Linh Tộc và Dược Vương Cốc nằm sâu trong rừng. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md`.
+            - *Mộc Linh Trận Địa:* Căn cứ tạm thời của Tinh Linh Tộc và Dược Vương Cốc nằm sâu trong rừng (Hiện đang trong tình trạng nguy kịch). Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md`.
             - *Huyết Vụ Lâm:* Vùng đệm sương mù đỏ thẫm giáp ranh Vạn Độc Cốc, nơi ảo ảnh và tâm ma ngự trị. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Huyết_Vụ_Lâm.md`.
-            - *Huyết Mạch Thượng Cổ:* Tàn tích rễ Cây Thế Giới nằm sâu dưới lòng đất, nơi duy nhất không bị độc khí xâm lấn. Xem tại `Đạo/Kỳ_Vật/Huyết_Mạch_Thượng_Cổ.md`.
+            - *Huyết Mạch Thượng Cổ:* Tàn tích rễ Cây Thế Giới nằm sâu dưới lòng đất, chứa Hồ Thanh Mộc Dịch và tinh thể Mộc Tinh. Xem tại `Đạo/Kỳ_Vật/Huyết_Mạch_Thượng_Cổ.md`.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
@@ -71,7 +71,7 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Độc_Cô_Lão_Quái.md`.
 - **Lệ Vô Tâm (Vạn Độc Thánh Tử):** Đại đệ tử Vạn Độc Môn, Trúc Cơ Viên Mãn. Kẻ thù truyền kiếp của thế hệ trẻ chính đạo, sở hữu *Huyết Độc Phiến* và *Thiên Tinh Cổ*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lệ_Vô_Tâm.md`.
-- **Ngô Công Trưởng Lão (Ngũ Độc):** Một trong Ngũ Độc Trưởng Lão của Vạn Độc Môn, Nguyên Anh Hậu Kỳ. Chuyên dùng rết độc (Ngô Công), tính cách tàn nhẫn, thích hành hạ con mồi.
+- **Ngô Công Trưởng Lão (Ngũ Độc):** Một trong Ngũ Độc Trưởng Lão của Vạn Độc Môn, Nguyên Anh Hậu Kỳ. Chuyên dùng rết độc (Ngô Công), tính cách tàn nhẫn. (Hiện đang bị trọng thương).
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Ngô_Công_Trưởng_Lão.md`.
 - **Diệp Thanh Y (Dược Tôn):** Cốc Chủ Dược Vương Cốc, Hóa Thần Sơ Kỳ. Một trong Tam Đại Thần Y, tính cách nhân hậu nhưng cương quyết với cái ác. Sở hữu *Thanh Nang Trường Sinh Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Thanh_Y.md`.
@@ -310,6 +310,7 @@
     - [Chương 55: Huyết Mạch Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00055_Huyết_Mạch_Thượng_Cổ.md)
     - [Chương 56: Bí Mật Dưới Lòng Đất](Chương_Truyện/Góc_Nhìn_Chính/Chương_00056_Bí_Mật_Dưới_Lòng_Đất.md)
     - [Chương 57: Huyết Chiến Ngô Công](Chương_Truyện/Góc_Nhìn_Chính/Chương_00057_Huyết_Chiến_Ngô_Công.md)
+    - [Chương 58: Giao Ước Trong Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00058_Giao_Ước_Trong_Bóng_Tối.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -325,6 +326,10 @@
         - [Chương 1: Cơ Duyên Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00001_Cơ_Duyên_Rừng_Thẳm.md) (Quá khứ 6 năm trước)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 58 - Giao Ước Trong Bóng Tối.
+- Cập nhật Lore: Huyết Mạch Thượng Cổ (Hồ Thanh Mộc Dịch).
+- Cập nhật Nhân vật: Ngô Công Trưởng Lão (Trọng thương).
+- Cập nhật Địa danh: Mộc Linh Trận Địa (Nguy kịch).
 - Viết Chương Truyện: Chương 57 - Huyết Chiến Ngô Công.
 - Cập nhật Nhân vật: Ngô Công Trưởng Lão (Thêm chiêu thức & vai trò).
 - Cập nhật Thế lực: Vạn Độc Môn (Thêm bí mật về Cấm Trận).
