@@ -71,6 +71,7 @@
 <li style="padding: 5px; "><a href="Chương_00058_Giao_Ước_Trong_Bóng_Tối.html">Chương 58: Giao Ước Trong Bóng Tối</a></li>
 <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00059_Lối_Mòn_Trong_Lòng_Đất.html">Chương 59: Lối Mòn Trong Lòng Đất</a></li>
 <li style="padding: 5px; "><a href="Chương_00060_Hỗn_Loạn_Tại_Kho_Chứa.html">Chương 60: Hỗn Loạn Tại Kho Chứa</a></li>
+<li style="padding: 5px; "><a href="Chương_00061_Mê_Cung_Nấm_Độc.html">Chương 61: Mê Cung Nấm Độc</a></li>
 <li style="padding: 5px; "><a href="Chương_Mẫu_Huyền_Băng.html">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
 </ul>
 </details>
