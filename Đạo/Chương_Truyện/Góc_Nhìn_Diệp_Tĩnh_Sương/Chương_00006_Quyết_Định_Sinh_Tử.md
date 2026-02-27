@@ -13,7 +13,7 @@ Ghi_Chú: Khoảnh khắc bình yên ngắn ngủi trước khi rời Pháo Đà
 <td style="border: none; padding: 5px;"><a href="Chương_00005_Thoát_Khỏi_Địa_Ngục.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px; color: #adb5bd;">Chương Sau ➡️</td>
+<td style="border: none; padding: 5px;"><a href="Chương_00007_Đối_Mặt_Sát_Cơ.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
@@ -28,6 +28,7 @@ Ghi_Chú: Khoảnh khắc bình yên ngắn ngủi trước khi rời Pháo Đà
 <li style="padding: 5px; "><a href="Chương_00004_Lạc_Giữa_Thâm_Cung.html">Chương 4: Lạc Giữa Thâm Cung</a></li>
 <li style="padding: 5px; "><a href="Chương_00005_Thoát_Khỏi_Địa_Ngục.html">Chương 5: Thoát Khỏi Địa Ngục</a></li>
 <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00006_Quyết_Định_Sinh_Tử.html">Chương 6: Quyết Định Sinh Tử</a></li>
+<li style="padding: 5px; "><a href="Chương_00007_Đối_Mặt_Sát_Cơ.html">Chương 7: Đối Mặt Sát Cơ</a></li>
 </ul>
 </details>
 <div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
