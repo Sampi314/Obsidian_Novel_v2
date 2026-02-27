@@ -1,0 +1,290 @@
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
+<table style="width: 100%; text-align: center; border: none;">
+<tr>
+<td style="border: none; padding: 5px;"><a href="Chương_00018_Thí_Nghiệm_Máu.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
+<td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
+<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00020_Truy_Vết_Tử_Thần.html">Chương Sau ➡️</a></td>
+</tr>
+</table>
+<details style="margin-top: 10px;">
+<summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
+<ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
+<li style="padding: 5px; "><a href="Chương_00001_Đường_Đến_Thánh_Vị.html">Chương 1: Đường Đến Thánh Vị</a></li>
+<li style="padding: 5px; "><a href="Chương_00002_Hậu_Quả_Sinh_Tồn.html">Chương 2: Hậu Quả Sinh Tồn</a></li>
+<li style="padding: 5px; "><a href="Chương_00003_Bài_Học_Vô_Cảm.html">Chương 3: Bài Học Vô Cảm</a></li>
+<li style="padding: 5px; "><a href="Chương_00004_Sự_Phản_Bội_Đầu_Tiên.html">Chương 4: Sự Phản Bội Đầu Tiên</a></li>
+<li style="padding: 5px; "><a href="Chương_00005_Bóng_Tối_Cô_Độc.html">Chương 5: Bóng Tối Cô Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00006_Thử_Thách_Vạn_Độc.html">Chương 6: Thử Thách Vạn Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00007_Huyết_Nguyệt_Sát_Cơ.html">Chương 7: Huyết Nguyệt Sát Cơ</a></li>
+<li style="padding: 5px; "><a href="Chương_00008_Đêm_Dài_Vô_Tận.html">Chương 8: Đêm Dài Vô Tận</a></li>
+<li style="padding: 5px; "><a href="Chương_00009_Bình_Minh_Đẫm_Máu.html">Chương 9: Bình Minh Đẫm Máu</a></li>
+<li style="padding: 5px; "><a href="Chương_00010_Phần_Thưởng_Và_Cái_Giá.html">Chương 10: Phần Thưởng Và Cái Giá</a></li>
+<li style="padding: 5px; "><a href="Chương_00011_Vạn_Độc_Phệ_Thân.html">Chương 11: Vạn Độc Phệ Thân</a></li>
+<li style="padding: 5px; "><a href="Chương_00012_Ngục_Tù_Tâm_Trí.html">Chương 12: Ngục Tù Tâm Trí</a></li>
+<li style="padding: 5px; "><a href="Chương_00013_Huyết_Độc_Phiến.html">Chương 13: Huyết Độc Phiến</a></li>
+<li style="padding: 5px; "><a href="Chương_00014_Bẫy_Rập_Rừng_Sương.html">Chương 14: Bẫy Rập Rừng Sương</a></li>
+<li style="padding: 5px; "><a href="Chương_00015_Diệt_Môn_Chi_Họa.html">Chương 15: Diệt Môn Chi Họa</a></li>
+<li style="padding: 5px; "><a href="Chương_00016_Thanh_Trừng_Nội_Bộ.html">Chương 16: Thanh Trừng Nội Bộ</a></li>
+<li style="padding: 5px; "><a href="Chương_00017_Mệnh_Lệnh_Bóng_Tối.html">Chương 17: Mệnh Lệnh Bóng Tối</a></li>
+<li style="padding: 5px; "><a href="Chương_00018_Thí_Nghiệm_Máu.html">Chương 18: Thí Nghiệm Máu</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00019_Ván_Cờ_Huyết_Độc.html">Chương 19: Ván Cờ Huyết Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00020_Truy_Vết_Tử_Thần.html">Chương 20: Truy Vết Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00021_Dưới_Bóng_Hắc_Sa.html">Chương 21: Dưới Bóng Hắc Sa</a></li>
+<li style="padding: 5px; "><a href="Chương_00022_Mạng_Lưới_Tử_Thần.html">Chương 22: Mạng Lưới Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00023_Huyết_Tế_Sa_Mạc.html">Chương 23: Huyết Tế Sa Mạc</a></li>
+<li style="padding: 5px; "><a href="Chương_00024_Con_Mồi_Vào_Rọ.html">Chương 24: Con Mồi Vào Rọ</a></li>
+<li style="padding: 5px; "><a href="Chương_00025_Sát_Ý_Rừng_Gai.html">Chương 25: Sát Ý Rừng Gai</a></li>
+</ul>
+</details>
+<div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
+  <strong>🎧 Nghe Chương Này:</strong>
+  <br>
+  <button id="btn-play" onclick="startReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button>
+  <button id="btn-pause" onclick="pauseReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏸️ Tạm Dừng</button>
+  <button id="btn-resume" onclick="resumeReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏯️ Tiếp Tục</button>
+  <button id="btn-stop" onclick="stopReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏹️ Dừng</button>
+</div>
+
+<script>
+    var synth = window.speechSynthesis;
+    var currentUtterance = null;
+    var readingQueue = [];
+    var currentIndex = 0;
+    var isPaused = false;
+    var isStopped = false;
+
+    // Elements to read
+    var contentElements = [];
+
+    // Next chapter URL
+    var nextChapterUrl = "Chương_00020_Truy_Vết_Tử_Thần.html";
+
+    function getReadableElements() {
+        // Collect all paragraph-like elements in the body
+        // Filter out navigation, headers, footers, and specific unwanted text
+        var all = document.body.querySelectorAll('p, h1, h2, h3, h4, h5, h6, li, blockquote');
+        var readable = [];
+
+        for (var i = 0; i < all.length; i++) {
+            var el = all[i];
+
+            // Skip navigation block
+            if (el.closest('#chapter-navigation')) continue;
+
+            // Skip invisible elements
+            if (el.offsetParent === null) continue;
+
+            var text = el.innerText.trim();
+            if (text.length === 0) continue;
+
+            // Skip specific unwanted text
+            if (text.includes("Obsidian_Novel_v2")) continue;
+            if (text.includes("Mục Lục Tổng Hợp")) continue;
+
+            readable.push(el);
+        }
+        return readable;
+    }
+
+    function startReading() {
+        if (synth.speaking && !isPaused) return;
+
+        isStopped = false;
+
+        // Reset controls
+        document.getElementById("btn-play").style.display = "none";
+        document.getElementById("btn-pause").style.display = "inline-block";
+        document.getElementById("btn-resume").style.display = "none";
+        document.getElementById("btn-stop").style.display = "inline-block";
+
+        contentElements = getReadableElements();
+
+        if (currentIndex >= contentElements.length) {
+            currentIndex = 0; // Restart if finished
+        }
+
+        readNextChunk();
+    }
+
+    function readNextChunk() {
+        if (isStopped) return;
+
+        if (currentIndex >= contentElements.length) {
+            // Finished reading the chapter
+            stopReading();
+
+            // Auto-advance to next chapter if available
+            if (nextChapterUrl && nextChapterUrl !== "#") {
+                // Add autoplay param
+                var separator = nextChapterUrl.includes('?') ? '&' : '?';
+                window.location.href = nextChapterUrl + separator + 'autoplay=true';
+            }
+            return;
+        }
+
+        var el = contentElements[currentIndex];
+
+        // Highlight current element
+        el.style.backgroundColor = "#e6f7ff";
+        el.style.borderLeft = "4px solid #1890ff";
+        el.style.paddingLeft = "10px";
+        el.scrollIntoView({behavior: "smooth", block: "center"});
+
+        var text = el.innerText;
+        var utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = "vi-VN";
+
+        utterance.onend = function() {
+            if (isStopped) return;
+
+            // Remove highlight
+            el.style.backgroundColor = "";
+            el.style.borderLeft = "";
+            el.style.paddingLeft = "";
+
+            currentIndex++;
+            if (!isPaused && synth.speaking === false) {
+                 readNextChunk();
+            }
+        };
+
+        utterance.onerror = function(event) {
+            if (isStopped) return;
+
+            console.error("Speech error", event);
+            // Try to skip to next chunk on error
+            el.style.backgroundColor = "";
+            el.style.borderLeft = "";
+            el.style.paddingLeft = "";
+            currentIndex++;
+            readNextChunk();
+        };
+
+        currentUtterance = utterance;
+        synth.speak(utterance);
+    }
+
+    function pauseReading() {
+        if (synth.speaking && !isPaused) {
+            synth.pause();
+            isPaused = true;
+            document.getElementById("btn-pause").style.display = "none";
+            document.getElementById("btn-resume").style.display = "inline-block";
+        }
+    }
+
+    function resumeReading() {
+        if (isPaused) {
+            synth.resume();
+            isPaused = false;
+            document.getElementById("btn-pause").style.display = "inline-block";
+            document.getElementById("btn-resume").style.display = "none";
+        } else if (!synth.speaking && currentIndex < contentElements.length) {
+            // Resume from stop or clean state
+            startReading();
+        }
+    }
+
+    function stopReading() {
+        isStopped = true;
+        synth.cancel();
+        isPaused = false;
+
+        // Clean up highlights
+        if (contentElements.length > 0 && currentIndex < contentElements.length) {
+            var el = contentElements[currentIndex];
+            if (el) {
+                el.style.backgroundColor = "";
+                el.style.borderLeft = "";
+                el.style.paddingLeft = "";
+            }
+        }
+
+        currentIndex = 0;
+
+        document.getElementById("btn-play").style.display = "inline-block";
+        document.getElementById("btn-pause").style.display = "none";
+        document.getElementById("btn-resume").style.display = "none";
+        document.getElementById("btn-stop").style.display = "none";
+    }
+
+    // Auto-play check
+    window.onload = function() {
+        var urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.get('autoplay') === 'true') {
+            // Delay slightly to ensure voices are loaded
+            setTimeout(startReading, 1000);
+        }
+    };
+
+    // Handle page unload to stop speech
+    window.onbeforeunload = function() {
+        isStopped = true;
+        synth.cancel();
+    };
+</script>
+
+</div>
+<!-- NAVIGATION_END -->
+# Chương 19: Ván Cờ Huyết Độc
+
+**Tác giả:** Tổng Quản (Jules)
+**Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
+**Nhân vật liên quan:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
+**Địa điểm:** Thôn Lạc Diệp.
+**Thời điểm:** Ngay sau khi Huyết Tướng bị tiêu diệt.
+**Giao Điểm Cốt Truyện:** Trực tiếp đối đầu trong [Chương 4: Vạn Độc Thánh Tử](../Góc_Nhìn_Chính/Chương_00004_Vạn_Độc_Thánh_Tử.md).
+
+---
+
+Bóng tối nơi góc khuất của giếng nước như một tấm áo choàng hoàn hảo, che giấu sự hiện diện của ta. Ta đứng đó, nhịp thở hòa làm một với màn đêm, đôi mắt lạnh lùng quan sát hai con chuột nhắt đang vùng vẫy trước con mồi mà ta dày công nuôi dưỡng.
+
+*“Khá lắm,”* ta thầm nghĩ, khóe môi khẽ nhếch lên một nụ cười khinh miệt.
+
+Con [Huyết Tướng](../../Kỳ_Vật/Huyết_Tướng.md) kia là vật thí nghiệm thứ 49, một sản phẩm thất bại nhưng cũng đủ để ta tiêu tốn không ít tâm huyết. Ta muốn xem thử, liệu một con rối được nuôi bằng [Huyết Thần Độc](../../Kỳ_Vật/Huyết_Thần_Độc.md) có thể chịu đựng được bao lâu trước sự tấn công của tu sĩ chính đạo.
+
+Cô ả Kiếm tu kia... Diệp Tĩnh Sương. Kiếm pháp cũng có chút sắc bén đấy, nhưng vẫn còn quá non nớt. Nàng ta vung kiếm như múa, đẹp thì có đẹp, nhưng thiếu đi sự tàn độc cần thiết để sinh tồn. Còn tên tán tu đi cùng? Một kẻ dùng cung, Luyện Khí Viên Mãn. Hắn ta di chuyển khá linh hoạt, nhưng trong mắt ta, cũng chỉ là một con bọ chét nhảy nhót mà thôi.
+
+Khi Huyết Tướng gục ngã, ta biết màn kịch này đã đến lúc phải hạ màn. Ta bước ra khỏi bóng tối, tận hưởng khoảnh khắc nỗi sợ hãi len lỏi vào ánh mắt bọn chúng.
+
+"Không tệ, thật sự không tệ..." ta cất tiếng, cố tình để giọng nói trở nên nhẹ nhàng, lịch thiệp, nhưng từng chữ đều như lưỡi dao tẩm độc.
+
+Nhìn vẻ mặt kinh hoàng của Diệp Tĩnh Sương khi nhận ra ta, ta cảm thấy một khoái cảm dâng trào. *Đúng rồi, hãy sợ hãi đi. Cái danh Vạn Độc Thánh Tử này không phải để trưng.*
+
+Ta phe phẩy chiếc [Huyết Độc Phiến](../../Luyện_Khí/Huyết_Độc_Phiến.md), cảm nhận luồng hắc khí quen thuộc lan tỏa từ những nan quạt xương trắng. Bọn chúng nghĩ rằng đã chiến thắng? Nực cười. Ta chỉ đang chơi đùa với thức ăn của mình mà thôi.
+
+"Các ngươi đã phá hỏng đồ chơi của ta," ta nói, giọng điệu tiếc nuối giả tạo. "Vậy thì hãy dùng mạng của mình để đền bù đi."
+
+Một cú vung tay, [Vạn Độc Phệ Hồn Quyết](../../Công_Pháp/Vạn_Độc_Phệ_Hồn_Quyết.md) được kích hoạt. Sương mù đỏ rực bùng lên, mang theo hơi thở của tử thần. Ta đứng giữa màn sương, nhắm mắt lại, lắng nghe tiếng nhịp tim hoảng loạn của hai kẻ đối diện. Ta muốn thấy chúng giãy giụa, muốn thấy chúng tuyệt vọng khi nhận ra mọi sự kháng cự đều vô ích.
+
+Nhưng rồi, một điều bất ngờ xảy ra.
+
+Tên tán tu kia... Hắn không hề hoảng loạn như ta dự đoán. Hắn bắn ra ba mũi tên lửa. *Lửa?* Ta cau mày. Hắn không nhắm vào ta, mà nhắm vào những mái nhà tranh khô khốc xung quanh.
+
+*Bùng!*
+
+Ngọn lửa bùng lên, đẩy lùi độc khí của ta trong chốc lát. Một nước đi thông minh. Ta phải thừa nhận, tên này có chút thú vị hơn vẻ bề ngoài tầm thường của hắn.
+
+Và rồi, *Mộc Độn Thuật*.
+
+Ta nhìn cái hố sâu hoắm nơi bọn chúng vừa biến mất, trong lòng dâng lên một sự khó chịu nhẹ. Con mồi đã tuột khỏi tay. Ta giơ tay lên, định tung một chưởng truy kích, nhưng rồi lại hạ xuống.
+
+Giết chúng bây giờ thì quá dễ dàng. Và cũng quá nhàm chán.
+
+Ta đứng trên mép hố, nhìn về hướng cánh rừng đen kịt phía xa. Trong đầu ta, một kế hoạch mới, tàn độc hơn, thú vị hơn bắt đầu hình thành.
+
+"Chạy đi... Chạy nhanh lên..." ta lẩm bẩm, nụ cười trên môi càng thêm sâu độc.
+
+Ta cần một người đưa tin. Ta cần một con cừu dẫn đường để dụ con sói đầu đàn ra khỏi hang. [Diệp Thanh Y](../../Nhân_Vật/Diệp_Thanh_Y.md)... Dược Tôn của Dược Vương Cốc. Nàng ta mới là mục tiêu thực sự của ta. Ta muốn xem, khi đối mặt với loại độc dược mà chính nàng cũng bó tay, nàng sẽ giữ được vẻ thanh cao, nhân từ đó được bao lâu?
+
+Từ trong tay áo, ta thả ra một con [Thiên Tinh Cổ](../../Kỳ_Vật/Thiên_Tinh_Cổ.md). Con rết nhỏ màu đỏ tía rít lên khe khẽ, như hiểu được ý đồ của chủ nhân. Nó nhanh chóng chui xuống đất, lần theo dấu vết linh lực còn vương lại của tên tán tu kia.
+
+"Đi đi, bé cưng. Đừng để mất dấu bọn chúng."
+
+Ta quay người lại, bỏ mặc đống tro tàn và xác con Huyết Tướng đang tan chảy. Trò chơi này mới chỉ bắt đầu thôi. Và trên bàn cờ này, ta là người cầm quân, còn bọn chúng... chỉ là những con tốt thí mạng.
+
+Cơn gió đêm thổi qua, mang theo mùi tanh của máu và độc dược. Ta hít một hơi thật sâu, cảm thấy lồng ngực tràn đầy sự hưng phấn.
+
+*Cố Nguyên Giới này, sớm muộn gì cũng sẽ quỳ rạp dưới chân Vạn Độc Môn ta.*

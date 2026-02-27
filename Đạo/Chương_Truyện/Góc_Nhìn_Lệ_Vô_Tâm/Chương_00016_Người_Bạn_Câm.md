@@ -2,24 +2,25 @@
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00001_Nhiệm_Vụ_Đơn_Độc.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00002_Hội_Ngộ_Bất_Ngờ.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00017_Những_Bữa_Ăn_Vụng_Trộm.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
 <summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
 <ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
-<li style="padding: 5px; "><a href="Chương_00000_Tuyết_Phủ_Mộ_Phần.html">Chương 0: Tuyết Phủ Mộ Phần</a></li>
-<li style="padding: 5px; "><a href="Chương_00000_5_Thử_Thách_Đầu_Tiên.html">Chương 0.5: Thử Thách Đầu Tiên</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_Nhiệm_Vụ_Đơn_Độc.html">Chương 1: Nhiệm Vụ Đơn Độc</a></li>
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00001_5_Dấu_Vết_Tàn_Khốc.html">Chương 1.5: Dấu Vết Tàn Khốc</a></li>
-<li style="padding: 5px; "><a href="Chương_00002_Hội_Ngộ_Bất_Ngờ.html">Chương 2: Hội Ngộ Bất Ngờ</a></li>
-<li style="padding: 5px; "><a href="Chương_00003_Lời_Thề_Kiếm_Khách.html">Chương 3: Lời Thề Kiếm Khách</a></li>
-<li style="padding: 5px; "><a href="Chương_00004_Lạc_Giữa_Thâm_Cung.html">Chương 4: Lạc Giữa Thâm Cung</a></li>
-<li style="padding: 5px; "><a href="Chương_00005_Thoát_Khỏi_Địa_Ngục.html">Chương 5: Thoát Khỏi Địa Ngục</a></li>
-<li style="padding: 5px; "><a href="Chương_00006_Quyết_Định_Sinh_Tử.html">Chương 6: Quyết Định Sinh Tử</a></li>
+<li style="padding: 5px; "><a href="Chương_00001_Đường_Đến_Thánh_Vị.html">Chương 1: Đường Đến Thánh Vị</a></li>
+<li style="padding: 5px; "><a href="Chương_00002_Hậu_Quả_Sinh_Tồn.html">Chương 2: Hậu Quả Sinh Tồn</a></li>
+<li style="padding: 5px; "><a href="Chương_00003_Bài_Học_Vô_Cảm.html">Chương 3: Bài Học Vô Cảm</a></li>
+<li style="padding: 5px; "><a href="Chương_00004_Sự_Phản_Bội_Đầu_Tiên.html">Chương 4: Sự Phản Bội Đầu Tiên</a></li>
+<li style="padding: 5px; "><a href="Chương_00005_Bóng_Tối_Cô_Độc.html">Chương 5: Bóng Tối Cô Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00006_Thử_Thách_Vạn_Độc.html">Chương 6: Thử Thách Vạn Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00007_Huyết_Nguyệt_Sát_Cơ.html">Chương 7: Huyết Nguyệt Sát Cơ</a></li>
+<li style="padding: 5px; "><a href="Chương_00008_Diện_Kiến_Lão_Quái.html">Chương 8: Diện Kiến Lão Quái</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00016_Người_Bạn_Câm.html">Chương 16: Người Bạn Câm</a></li>
+<li style="padding: 5px; "><a href="Chương_00031_Huyết_Độc_Phiến.html">Chương 31: Huyết Độc Phiến</a></li>
 </ul>
 </details>
 <div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
@@ -37,12 +38,13 @@
     var readingQueue = [];
     var currentIndex = 0;
     var isPaused = false;
+    var isStopped = false;
 
     // Elements to read
     var contentElements = [];
 
     // Next chapter URL
-    var nextChapterUrl = "Chương_00002_Hội_Ngộ_Bất_Ngờ.html";
+    var nextChapterUrl = "Chương_00017_Những_Bữa_Ăn_Vụng_Trộm.html";
 
     function getReadableElements() {
         // Collect all paragraph-like elements in the body
@@ -74,6 +76,8 @@
     function startReading() {
         if (synth.speaking && !isPaused) return;
 
+        isStopped = false;
+
         // Reset controls
         document.getElementById("btn-play").style.display = "none";
         document.getElementById("btn-pause").style.display = "inline-block";
@@ -90,6 +94,8 @@
     }
 
     function readNextChunk() {
+        if (isStopped) return;
+
         if (currentIndex >= contentElements.length) {
             // Finished reading the chapter
             stopReading();
@@ -116,6 +122,8 @@
         utterance.lang = "vi-VN";
 
         utterance.onend = function() {
+            if (isStopped) return;
+
             // Remove highlight
             el.style.backgroundColor = "";
             el.style.borderLeft = "";
@@ -128,6 +136,8 @@
         };
 
         utterance.onerror = function(event) {
+            if (isStopped) return;
+
             console.error("Speech error", event);
             // Try to skip to next chunk on error
             el.style.backgroundColor = "";
@@ -163,6 +173,7 @@
     }
 
     function stopReading() {
+        isStopped = true;
         synth.cancel();
         isPaused = false;
 
@@ -195,74 +206,75 @@
 
     // Handle page unload to stop speech
     window.onbeforeunload = function() {
+        isStopped = true;
         synth.cancel();
     };
 </script>
 
 </div>
 <!-- NAVIGATION_END -->
-# Chương 1.5: Dấu Vết Tàn Khốc
+# Chương 16: Người Bạn Câm
 
 **Tác giả:** Tổng Quản (Jules)
-**Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)
-**Địa điểm:** Đường mòn ven rừng Vĩnh Hằng Sâm Lâm - Gần Thôn Lạc Diệp.
-**Thời điểm:** Giữa Chương 1 và trước khi đến Thôn Lạc Diệp.
-**Giao Điểm Cốt Truyện:** Tuyến độc lập.
+**Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
+**Địa điểm:** Vạn Độc Môn (Dược Điền).
+**Thời điểm:** 2 năm sau Huyết Trì (Hữu Tâm 15 tuổi).
+**Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ).
 
 ---
 
-Cơn mưa rừng bất chợt đổ xuống, nặng hạt và lạnh buốt như ngàn mũi kim châm vào da thịt. Nhưng Diệp Tĩnh Sương vẫn không dừng bước. Tà áo trắng của nàng ướt đẫm, bám sát vào thân hình mảnh mai, nhưng đôi mắt phượng vẫn kiên định nhìn về phía trước, xuyên qua màn mưa trắng xóa.
+Hai năm đã trôi qua. Ta mười lăm tuổi, nhưng nhìn vào gương nước, ta thấy một gương mặt già nua của một kẻ đã sống cả trăm năm. Da ta trắng bệch như sáp nến, đôi mắt sâu hoắm, và trên cơ thể không còn một tấc da thịt nào nguyên vẹn.
 
-Mùi máu tanh mà nàng ngửi thấy ở thượng nguồn con suối ban nãy càng lúc càng nồng nặc, hòa lẫn với mùi ẩm mốc của lá mục và... một mùi gì đó khác lạ. Mùi hăng hắc, ngọt lợ, khiến người ta buồn nôn.
+Ta được phép ra ngoài. Độc Cô Lão Quái giao cho ta nhiệm vụ chăm sóc khu Dược Điền phía tây, nơi trồng những cây Huyết Mộc non. Công việc này không nặng nhọc, nhưng đòi hỏi sự tỉ mỉ. Nếu để chết một cây, ta sẽ bị phạt ngâm mình trong bể axit ba ngày.
 
-Đó là mùi của Độc Dược.
+Ta đang lúi húi xới đất, chợt nghe tiếng sột soạt sau lưng.
 
-"Chết tiệt!"
+Ta quay phắt lại, tay đã thủ sẵn một con dao găm tẩm độc.
 
-Diệp Tĩnh Sương rủa thầm, vận *Hàn Sương Kiếm Quyết* lên mức cao nhất, tạo thành một lớp màn chắn vô hình xung quanh cơ thể, ngăn cách nước mưa và độc khí.
+Một bóng người nhỏ bé đang co rúm lại sau gốc cây Huyết Mộc. Đó là một tên tạp dịch, mặc bộ quần áo rách nát, mặt mày lấm lem bùn đất. Hắn nhìn ta với đôi mắt to tròn, sợ hãi.
 
-Nàng lao đi như một tia chớp trắng, bỏ lại sau lưng những vũng nước bắn tung tóe.
+"Ai?" Ta gằn giọng.
 
-Chỉ lát sau, một cảnh tượng kinh hoàng hiện ra trước mắt nàng.
+Hắn không trả lời, chỉ lắc đầu lia lịa, tay chân run rẩy. Hắn chỉ vào cái giỏ mây bên cạnh, rồi lại chỉ vào miệng mình, ra hiệu xin ăn.
 
-Một ngôi làng nhỏ, chỉ chừng mười mấy nóc nhà, nằm lọt thỏm giữa thung lũng. Nhưng giờ đây, nó đã biến thành một bãi tha ma.
+Ta cau mày. "Ngươi bị câm?"
 
-Khói đen bốc lên nghi ngút từ những mái nhà tranh đang cháy dở. Xác người nằm la liệt khắp nơi, từ sân nhà ra đến ngõ xóm. Già trẻ, lớn bé, không một ai sống sót.
+Hắn gật đầu.
 
-Điều đáng sợ nhất là cái chết của họ.
+Ta nhìn hắn một lúc lâu. Hắn gầy gò, yếu ớt, chẳng khác gì con chó hoang mà ta đã giết hai năm trước. Trong Vạn Độc Môn này, những kẻ như hắn thường không sống quá ba tháng. Vậy mà hắn vẫn sống, vẫn đi xin ăn.
 
-Tất cả đều có làn da tím tái, thất khiếu chảy máu đen, cơ thể co quắp trong đau đớn tột cùng. Một số cái xác thậm chí còn đang rỉ ra thứ chất lỏng màu xanh lục, bốc mùi hôi thối nồng nặc.
+Ta hạ con dao xuống. Một cảm giác kỳ lạ dâng lên trong lòng. Có lẽ vì hắn giống ta của ngày xưa. Có lẽ vì đôi mắt hắn không chứa đựng sự toan tính hay thù hận, chỉ đơn thuần là bản năng sinh tồn.
 
-"Vạn Độc Môn..."
+"Biến đi," ta nói, nhưng tay lại ném cho hắn nửa cái bánh bao khô khốc mà ta mang theo.
 
-Diệp Tĩnh Sương nghiến răng, tay siết chặt chuôi kiếm đến mức đốt ngón tay trắng bệch. Nàng nhận ra thủ đoạn tàn độc này. Chính là lũ súc sinh đó.
+Hắn chộp lấy cái bánh như vớ được vàng, cúi đầu cảm tạ rối rít rồi chạy biến vào rừng.
 
-Nàng bước chậm rãi vào ngôi làng chết chóc. Mỗi bước chân như đeo chì.
+Ngày hôm sau, hắn lại đến. Lần này hắn mang theo một nắm quả dại màu đỏ mọng. Hắn rụt rè đặt xuống trước mặt ta, rồi lùi lại vài bước, chờ đợi.
 
-Một người phụ nữ ôm chặt đứa con nhỏ trong lòng, cả hai đều đã chết cứng. Đứa trẻ vẫn còn ngậm chặt núm vú mẹ, nhưng thay vì sữa, thứ chảy vào miệng nó là máu độc.
+Ta nhìn nắm quả dại. Đây là Huyết Long Quả, một loại quả có độc tính nhẹ, nhưng lại rất tốt cho việc bồi bổ khí huyết. Hắn tìm đâu ra thứ này?
 
-Diệp Tĩnh Sương quỳ xuống, nhẹ nhàng vuốt mắt cho hai mẹ con. Một giọt nước mắt lăn dài trên má nàng, hòa vào nước mưa mặn chát.
+"Ngươi... cho ta?" Ta hỏi.
 
-"Xin lỗi... ta đến muộn rồi."
+Hắn gật đầu, mỉm cười. Nụ cười ngây ngô, để lộ hàm răng sún.
 
-Nàng đứng dậy, ánh mắt rực lửa hận thù. Nàng rút thanh *Hàn Mai Kiếm* ra. Lưỡi kiếm sáng loáng phản chiếu ánh chớp xẹt ngang bầu trời, lạnh lẽo đến thấu xương.
+Ta cầm một quả lên, cắn thử. Vị chua ngọt lan tỏa trong miệng, làm dịu đi vị đắng ngắt của thuốc độc mà ta phải uống hàng ngày.
 
-*Bọn chúng chưa đi xa.*
+"Tên ngươi là gì?"
 
-Nàng cảm nhận được tàn dư linh lực của kẻ thi triển độc thuật vẫn còn vương lại trong không khí. Một luồng khí tức âm hàn, tà ác, đang hướng về phía Đông Nam.
+Hắn lấy một cành cây khô, viết lên mặt đất chữ "Mộc" nghuệch ngoạc.
 
-Phía Đông Nam... đó là hướng đi về Thôn Lạc Diệp.
+"A Mộc?"
 
-"Thôn Lạc Diệp!"
+Hắn gật đầu lia lịa, ánh mắt sáng lên.
 
-Tim Diệp Tĩnh Sương thắt lại. Nếu bọn chúng đang hướng về đó, thì ngôi làng kia...
+Từ hôm đó, A Mộc trở thành cái bóng của ta. Hắn giúp ta xới đất, tưới nước cho cây Huyết Mộc. Hắn không nói được, nhưng hắn rất thạo việc. Những lúc rảnh rỗi, hắn thường ngồi bên cạnh ta, nghe ta kể lảm nhảm về những thứ vô nghĩa mà ta nhìn thấy trong sách độc dược.
 
-Không chần chừ thêm một giây nào nữa, nàng vận toàn lực, lao đi như một mũi tên xé gió.
+Hắn là người duy nhất không sợ ta. Hắn là người duy nhất nhìn ta như một con người, chứ không phải một con quái vật.
 
-*Ta thề, ta sẽ bắt các ngươi phải trả giá. Máu nợ máu!*
+Ta bắt đầu dạy hắn một vài chiêu thức phòng thân cơ bản. Ta chia sẻ cho hắn những khẩu phần ăn ít ỏi của mình. Ta thậm chí còn lén lấy thuốc trị thương của Lão Quái để bôi lên những vết roi trên lưng hắn.
 
-Gió gào thét bên tai nàng như tiếng oan hồn đòi mạng. Mưa quất vào mặt nàng rát buốt. Nhưng trong lòng Diệp Tĩnh Sương giờ đây chỉ có một ngọn lửa duy nhất đang bùng cháy dữ dội: Ngọn lửa của sự trừng phạt.
+Dần dần, ta cảm thấy mình đang sống lại. Trái tim băng giá của ta bắt đầu tan chảy. Ta tự nhủ, có lẽ trong cái địa ngục trần gian này, vẫn còn tồn tại một chút gì đó gọi là tình người.
 
-Con đường tu tiên của nàng có thể cô độc, có thể lạnh lẽo, nhưng nàng tuyệt đối sẽ không để cái ác lộng hành ngay trước mắt mình.
+A Mộc... ta sẽ bảo vệ ngươi. Dù có phải chống lại cả Vạn Độc Môn này, ta cũng sẽ không để ai làm hại ngươi.
 
-Thanh kiếm trong tay nàng rung lên bần bật, như cảm nhận được sát ý ngút trời của chủ nhân. Nó đang khát máu. Máu của những kẻ thủ ác.
+Nhưng lúc đó, ta đâu biết rằng, chính sự tin tưởng ngây thơ ấy lại là nhát dao chí mạng, đẩy ta xuống vực thẳm tăm tối hơn cả cái chết.
