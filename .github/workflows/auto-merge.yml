@@ -13,9 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     if: github.actor == 'google-labs-jules[bot]'
     steps:
-      - name: Configure Git to handle UTF-8 paths
-        run: git config --global core.quotePath false
-
       - name: Enable auto-merge for Jules PRs
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
