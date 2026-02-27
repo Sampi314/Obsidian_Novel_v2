@@ -35,6 +35,7 @@
 - **Biến Cố:**
     - Năm 100 tuổi (Trúc Cơ Viên Mãn), đoàn thương đội của bà bị cướp sa mạc tấn công. Thay vì cầu xin tha mạng, bà đã thương lượng với thủ lĩnh cướp: chia 30% lợi nhuận đổi lấy sự bảo kê.
     - Sự kiện này giúp bà nhận ra sức mạnh của sự thỏa hiệp và lợi ích. Bà dùng tiền mua chuộc, dùng lợi ích trói buộc các thế lực, dần dần đưa Hứa Gia trở thành một trong Tứ Đại Thương Gia.
+    - **Quá Khứ Đen Tối:** Đã từng bí mật buôn bán "Huyết Tinh Sa" cho Vạn Độc Môn để đổi lấy công thức Giải Độc Đan, gián tiếp giúp Vạn Độc Môn phát triển "Huyết Thi" và xây dựng hệ thống Ám Đạo. Đây là vết nhơ mà bà luôn muốn che giấu.
 - **Hiện Tại:**
     - Đứng đầu mảng kinh doanh dược liệu của Thiên Sa Thương Hội.
     - Trong sự kiện "Huyết Độc Chi Họa", bà đóng vai trò quan trọng khi nắm giữ nguồn cung cấp dược liệu giải độc (Sa Sương, Thiên Niên Sa Nhẫm) mà Dược Vương Cốc đang khao khát, đồng thời cũng là người duy nhất dám buôn bán với Vạn Độc Môn.
@@ -58,4 +59,6 @@
 - **Khách Hàng Đặc Biệt:**
     - **Diệp Thanh Y (Dược Vương Cốc):** Bà nể phục y đức của Diệp Thanh Y nhưng không đồng tình với cách làm "cứu người không màng lợi" của cô.
     - **Độc Cô Lão Quái (Vạn Độc Môn):** Khách hàng nguy hiểm nhất. Bà bán độc dược cho hắn nhưng luôn giữ đường lui, không bao giờ gặp mặt trực tiếp mà thông qua "Sa Ảnh Sát Thủ" để giao dịch.
+- **Vật Phẩm Liên Quan:**
+    - **Sa Bạo Cổ (Sandstorm Gu):** Một sản phẩm thí nghiệm thất bại do Hứa Gia lai tạo, đã bán cho Vạn Độc Môn mười năm trước và hiện đang nằm trong Kho Chứa Ngầm.
 - **Kẻ Thù:** Những kẻ muốn phá vỡ sự trung lập của Thiên Sa Thương Hội hoặc cướp phá thương đạo.

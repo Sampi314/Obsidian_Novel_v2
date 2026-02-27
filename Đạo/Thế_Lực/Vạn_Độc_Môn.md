@@ -17,6 +17,9 @@
     - **Ngũ Độc Thảo:** Năm loại cỏ độc cực mạnh dùng để luyện Cổ.
     - **Huyết Tinh:** Tinh thể ngưng tụ từ máu của hàng vạn sinh linh, dùng để nâng cao tu vi tà đạo.
     - **Vạn Độc Chi Nguyên:** Nguồn nước ngầm chứa kịch độc, người thường uống vào chết ngay tức khắc, tu sĩ dùng để tôi luyện cơ thể.
+    - **Hệ Thống Ám Đạo & Kho Chứa Ngầm:**
+        - Mạng lưới đường hầm bí mật nằm sâu dưới lòng đất, được đào từ 300 năm trước để vận chuyển hàng lậu và nguyên liệu cấm mà không bị Chính đạo phát hiện.
+        - **Kho Chứa Ngầm (Underground Depot):** Nơi tập kết dược liệu và nô lệ trước khi đưa vào Huyết Trì. Có trạm trung chuyển huyết khí và nuôi dưỡng các sinh vật thí nghiệm thất bại như "Sa Bạo Cổ".
 
 ## III. VĂN HÓA & TÍN NGƯỠNG
 - **Triết Lý:** "Vạn vật sinh ra từ độc, chết đi cũng về với độc". Họ tin rằng độc không chỉ là vũ khí mà là bản chất của sự sống, sự đào thải yếu kém.
