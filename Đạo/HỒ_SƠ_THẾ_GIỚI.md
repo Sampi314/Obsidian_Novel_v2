@@ -328,14 +328,14 @@
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
-        - [Chương 2: Huyết Độc Phiến](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00002_Huyết_Độc_Phiến.md) (Quá khứ 5 năm trước)
-        - [Chương 3: Mệnh Lệnh Bóng Tối](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00003_Mệnh_Lệnh_Bóng_Tối.md) (Dẫn nhập Huyết Độc Chi Họa)
-        - [Chương 4: Thí Nghiệm Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00004_Thí_Nghiệm_Máu.md) (Song song Chương 3 chính)
-        - [Chương 5: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00005_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
-        - [Chương 2.5: Diệt Môn Chi Họa](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00002_5_Diệt_Môn_Chi_Họa.md) (Quá khứ 8 năm trước)
+        - [Chương 13: Huyết Độc Phiến](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00013_Huyết_Độc_Phiến.md) (Quá khứ 5 năm trước)
+        - [Chương 15: Diệt Môn Chi Họa](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00015_Diệt_Môn_Chi_Họa.md) (Quá khứ 8 năm trước)
+        - [Chương 17: Mệnh Lệnh Bóng Tối](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00017_Mệnh_Lệnh_Bóng_Tối.md) (Dẫn nhập Huyết Độc Chi Họa)
+        - [Chương 18: Thí Nghiệm Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00018_Thí_Nghiệm_Máu.md) (Song song Chương 3 chính)
+        - [Chương 19: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00019_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm):**
-        - [Chương 0: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00000_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
-        - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
+        - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
+        - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
     - **Lâm Phong (Truy Phong Khách):**
         - [Chương 1: Cơ Duyên Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00001_Cơ_Duyên_Rừng_Thẳm.md) (Quá khứ 6 năm trước)
 

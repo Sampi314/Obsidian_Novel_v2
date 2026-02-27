@@ -1,0 +1,283 @@
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
+<table style="width: 100%; text-align: center; border: none;">
+<tr>
+<td style="border: none; padding: 5px;"><a href="Chương_00007_Quyết_Định_Sinh_Tử.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
+<td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
+<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00009_Đối_Mặt_Sát_Cơ.html">Chương Sau ➡️</a></td>
+</tr>
+</table>
+<details style="margin-top: 10px;">
+<summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
+<ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
+<li style="padding: 5px; "><a href="Chương_00001_Tuyết_Phủ_Mộ_Phần.html">Chương 1: Tuyết Phủ Mộ Phần</a></li>
+<li style="padding: 5px; "><a href="Chương_00002_Dấu_Vết_Tàn_Khốc.html">Chương 2: Dấu Vết Tàn Khốc</a></li>
+<li style="padding: 5px; "><a href="Chương_00003_Thử_Thách_Đầu_Tiên.html">Chương 3: Thử Thách Đầu Tiên</a></li>
+<li style="padding: 5px; "><a href="Chương_00004_Nhiệm_Vụ_Đơn_Độc.html">Chương 4: Nhiệm Vụ Đơn Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00006_Hội_Ngộ_Bất_Ngờ.html">Chương 6: Hội Ngộ Bất Ngờ</a></li>
+<li style="padding: 5px; "><a href="Chương_00007_Quyết_Định_Sinh_Tử.html">Chương 7: Quyết Định Sinh Tử</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00008_Lời_Thề_Kiếm_Khách.html">Chương 8: Lời Thề Kiếm Khách</a></li>
+<li style="padding: 5px; "><a href="Chương_00009_Đối_Mặt_Sát_Cơ.html">Chương 9: Đối Mặt Sát Cơ</a></li>
+<li style="padding: 5px; "><a href="Chương_00010_Lạc_Giữa_Thâm_Cung.html">Chương 10: Lạc Giữa Thâm Cung</a></li>
+<li style="padding: 5px; "><a href="Chương_00011_Thoát_Khỏi_Địa_Ngục.html">Chương 11: Thoát Khỏi Địa Ngục</a></li>
+</ul>
+</details>
+<div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
+  <strong>🎧 Nghe Chương Này:</strong>
+  <br>
+  <button id="btn-play" onclick="startReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button>
+  <button id="btn-pause" onclick="pauseReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏸️ Tạm Dừng</button>
+  <button id="btn-resume" onclick="resumeReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏯️ Tiếp Tục</button>
+  <button id="btn-stop" onclick="stopReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏹️ Dừng</button>
+</div>
+
+<script>
+    var synth = window.speechSynthesis;
+    var currentUtterance = null;
+    var readingQueue = [];
+    var currentIndex = 0;
+    var isPaused = false;
+    var isStopped = false;
+
+    // Elements to read
+    var contentElements = [];
+
+    // Next chapter URL
+    var nextChapterUrl = "Chương_00009_Đối_Mặt_Sát_Cơ.html";
+
+    function getReadableElements() {
+        // Collect all paragraph-like elements in the body
+        // Filter out navigation, headers, footers, and specific unwanted text
+        var all = document.body.querySelectorAll('p, h1, h2, h3, h4, h5, h6, li, blockquote');
+        var readable = [];
+
+        for (var i = 0; i < all.length; i++) {
+            var el = all[i];
+
+            // Skip navigation block
+            if (el.closest('#chapter-navigation')) continue;
+
+            // Skip invisible elements
+            if (el.offsetParent === null) continue;
+
+            var text = el.innerText.trim();
+            if (text.length === 0) continue;
+
+            // Skip specific unwanted text
+            if (text.includes("Obsidian_Novel_v2")) continue;
+            if (text.includes("Mục Lục Tổng Hợp")) continue;
+
+            readable.push(el);
+        }
+        return readable;
+    }
+
+    function startReading() {
+        if (synth.speaking && !isPaused) return;
+
+        isStopped = false;
+
+        // Reset controls
+        document.getElementById("btn-play").style.display = "none";
+        document.getElementById("btn-pause").style.display = "inline-block";
+        document.getElementById("btn-resume").style.display = "none";
+        document.getElementById("btn-stop").style.display = "inline-block";
+
+        contentElements = getReadableElements();
+
+        if (currentIndex >= contentElements.length) {
+            currentIndex = 0; // Restart if finished
+        }
+
+        readNextChunk();
+    }
+
+    function readNextChunk() {
+        if (isStopped) return;
+
+        if (currentIndex >= contentElements.length) {
+            // Finished reading the chapter
+            stopReading();
+
+            // Auto-advance to next chapter if available
+            if (nextChapterUrl && nextChapterUrl !== "#") {
+                // Add autoplay param
+                var separator = nextChapterUrl.includes('?') ? '&' : '?';
+                window.location.href = nextChapterUrl + separator + 'autoplay=true';
+            }
+            return;
+        }
+
+        var el = contentElements[currentIndex];
+
+        // Highlight current element
+        el.style.backgroundColor = "#e6f7ff";
+        el.style.borderLeft = "4px solid #1890ff";
+        el.style.paddingLeft = "10px";
+        el.scrollIntoView({behavior: "smooth", block: "center"});
+
+        var text = el.innerText;
+        var utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = "vi-VN";
+
+        utterance.onend = function() {
+            if (isStopped) return;
+
+            // Remove highlight
+            el.style.backgroundColor = "";
+            el.style.borderLeft = "";
+            el.style.paddingLeft = "";
+
+            currentIndex++;
+            if (!isPaused && synth.speaking === false) {
+                 readNextChunk();
+            }
+        };
+
+        utterance.onerror = function(event) {
+            if (isStopped) return;
+
+            console.error("Speech error", event);
+            // Try to skip to next chunk on error
+            el.style.backgroundColor = "";
+            el.style.borderLeft = "";
+            el.style.paddingLeft = "";
+            currentIndex++;
+            readNextChunk();
+        };
+
+        currentUtterance = utterance;
+        synth.speak(utterance);
+    }
+
+    function pauseReading() {
+        if (synth.speaking && !isPaused) {
+            synth.pause();
+            isPaused = true;
+            document.getElementById("btn-pause").style.display = "none";
+            document.getElementById("btn-resume").style.display = "inline-block";
+        }
+    }
+
+    function resumeReading() {
+        if (isPaused) {
+            synth.resume();
+            isPaused = false;
+            document.getElementById("btn-pause").style.display = "inline-block";
+            document.getElementById("btn-resume").style.display = "none";
+        } else if (!synth.speaking && currentIndex < contentElements.length) {
+            // Resume from stop or clean state
+            startReading();
+        }
+    }
+
+    function stopReading() {
+        isStopped = true;
+        synth.cancel();
+        isPaused = false;
+
+        // Clean up highlights
+        if (contentElements.length > 0 && currentIndex < contentElements.length) {
+            var el = contentElements[currentIndex];
+            if (el) {
+                el.style.backgroundColor = "";
+                el.style.borderLeft = "";
+                el.style.paddingLeft = "";
+            }
+        }
+
+        currentIndex = 0;
+
+        document.getElementById("btn-play").style.display = "inline-block";
+        document.getElementById("btn-pause").style.display = "none";
+        document.getElementById("btn-resume").style.display = "none";
+        document.getElementById("btn-stop").style.display = "none";
+    }
+
+    // Auto-play check
+    window.onload = function() {
+        var urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.get('autoplay') === 'true') {
+            // Delay slightly to ensure voices are loaded
+            setTimeout(startReading, 1000);
+        }
+    };
+
+    // Handle page unload to stop speech
+    window.onbeforeunload = function() {
+        isStopped = true;
+        synth.cancel();
+    };
+</script>
+
+</div>
+<!-- NAVIGATION_END -->
+# Chương 8: Lời Thề Kiếm Khách
+
+**Tác giả:** Tổng Quản (Jules)
+**Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)
+**Nhân vật liên quan:** [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md), [Hứa Nhược Thủy](../../Nhân_Vật/Hứa_Nhược_Thủy.md)
+**Địa điểm:** [Rừng Huyết Độc](../../Kỳ_Vật/Rừng_Huyết_Độc.md).
+**Thời điểm:** Song song với [Chương 21: Độc Khí Công Tâm](../Góc_Nhìn_Chính/Chương_00021_Độc_Khí_Công_Tâm.md).
+**Giao Điểm Cốt Truyện:** Khoảnh khắc Diệp Tĩnh Sương dùng nội lực áp chế độc tố cho Hứa Nhược Thủy.
+
+---
+
+Rừng rậm tối đen như mực, chỉ có ánh lửa bập bùng từ đống củi khô ẩm ướt hắt lên những bóng ma trập trùng trên vách đá. Tiếng gió rít qua tán lá rậm rạp nghe như tiếng cười man dại của ma quỷ.
+
+Ta ngồi xếp bằng bên cạnh [Hứa Nhược Thủy](../../Nhân_Vật/Hứa_Nhược_Thủy.md), trán lấm tấm mồ hôi. Hơi thở của nàng yếu ớt như ngọn đèn trước gió, khuôn mặt vốn thanh tú giờ đây tái nhợt, đôi môi tím đen vì độc tố lan tràn.
+
+"Cố lên, Nhược Thủy..." Ta thì thầm, bàn tay áp lên lưng nàng, truyền từng luồng chân khí lạnh buốt vào cơ thể mảnh mai ấy.
+
+[Hàn Mai Kiếm Quyết](../../Luyện_Khí/Hàn_Ngọc_Kiếm.md) – tâm pháp trấn phái của Cửu Hoa Kiếm Tông, vốn dĩ dùng để giết người, nay lại trở thành chiếc phao cứu sinh duy nhất níu giữ mạng sống của cô nương này.
+
+Sư phụ từng nói: *"Kiếm là vật vô tình, người cầm kiếm cũng phải vô tâm. Chỉ khi gạt bỏ hết hỉ nộ ái ố, kiếm ý mới đạt đến cảnh giới tối cao."*
+
+Bao năm qua, ta đã sống như một thanh kiếm sắc bén nhưng lạnh lẽo. Ta diệt trừ yêu ma, bảo vệ chính đạo, nhưng chưa bao giờ thực sự quan tâm đến những kẻ ta cứu giúp. Với ta, đó chỉ là nhiệm vụ, là trách nhiệm của một đệ tử tông môn.
+
+Nhưng giờ đây, nhìn Hứa Nhược Thủy đang thoi thóp trong vòng tay mình, ta cảm thấy một nỗi đau nhói lên trong lồng ngực. Không phải vì trúng độc, mà vì sự bất lực.
+
+Ta nhớ lại ánh mắt trong veo của nàng khi đưa cho ta bát nước, nụ cười hiền hậu khi nàng băng bó vết thương cho Lâm Phong. Một người con gái yếu đuối, không chút võ công, lại dám cùng chúng ta dấn thân vào chốn địa ngục trần gian này chỉ để tìm thuốc cứu cha.
+
+Sự kiên cường ấy khiến ta hổ thẹn.
+
+"Khụ khụ..." Hứa Nhược Thủy ho khẽ, một dòng máu đen rỉ ra từ khóe miệng.
+
+"Đừng nói gì cả," ta vội vàng trấn an, gia tăng lực đạo chân khí. "Ta sẽ không để muội chết đâu."
+
+Lâm Phong đang canh gác ở phía cửa hang, quay lại nhìn ta với ánh mắt đầy lo lắng. Hắn không nói gì, nhưng ta hiểu sự dằn vặt trong lòng hắn. Hắn cũng như ta, cảm thấy bản thân vô dụng khi không thể bảo vệ được người bạn đồng hành yếu ớt này.
+
+"Diệp cô nương," giọng Lâm Phong khàn đặc. "Liệu nàng ấy có qua khỏi đêm nay không?"
+
+Ta không dám nhìn thẳng vào mắt hắn. Độc tính của [Huyết Độc](../../Kỳ_Vật/Huyết_Thần_Độc.md) quá mạnh, hàn khí của ta chỉ có thể tạm thời phong bế kinh mạch, ngăn nó công tâm, chứ không thể giải độc hoàn toàn.
+
+"Ta sẽ cố hết sức," ta đáp, giọng kiên định nhưng lòng dậy sóng.
+
+Ta nhắm mắt lại, điều động toàn bộ tinh thần lực. Trong đan điền, một đóa hàn mai bằng băng tuyết đang từ từ nở rộ, tỏa ra luồng khí lạnh thấu xương. Ta dẫn luồng khí ấy đi qua từng huyệt đạo, bao bọc lấy trái tim đang đập yếu ớt của Nhược Thủy.
+
+Mỗi giây trôi qua là một sự tra tấn về thể xác lẫn tinh thần. Chân khí tiêu hao nhanh chóng khiến ta xây xẩm mặt mày. Nhưng ta không dám buông tay. Chỉ cần ta lơ là một chút, độc tố sẽ tràn vào tim phổi, cướp đi sinh mạng của nàng ngay lập tức.
+
+Sư phụ... có lẽ người đã sai rồi. Hoặc có lẽ, đệ tử quá ngu muội nên không thể lĩnh ngộ được kiếm đạo vô tình.
+
+Nhưng nếu vô tình đồng nghĩa với việc trơ mắt nhìn người bên cạnh mình chết đi, thì ta thà làm một kiếm khách hữu tình, dù kiếm pháp có bị vấy bẩn bởi cảm xúc tầm thường.
+
+Ta là Diệp Tĩnh Sương. Ta thề trên thanh kiếm của mình, ta sẽ đưa Hứa Nhược Thủy ra khỏi khu rừng này. Dù có phải đối mặt với [Huyết Đằng](../../Kỳ_Vật/Huyết_Đằng.md), [Nhện Mặt Quỷ](../../Kỳ_Vật/Nhện_Mặt_Quỷ.md) hay cả đại quân của Vạn Độc Môn, ta cũng sẽ không lùi bước.
+
+Một luồng kiếm ý mới mẻ bỗng nhiên bùng lên trong tâm trí ta. Nó không còn lạnh lẽo cô độc như trước, mà mang theo sự ấm áp, kiên cường của ý chí bảo vệ.
+
+Trong khoảnh khắc sinh tử này, ta chợt nhận ra: *Kiếm không chỉ để giết, mà còn để bảo vệ.*
+
+Ta mở mắt ra, ánh nhìn sắc bén như lưỡi gươm vừa được tôi luyện qua lửa đỏ.
+
+"Lâm Phong," ta gọi khẽ.
+
+Hắn quay lại ngay lập tức.
+
+"Chuẩn bị đi. Ngay khi trời sáng, chúng ta sẽ đi tìm lối thoát. Ta sẽ cõng Nhược Thủy."
+
+"Nhưng cô đã kiệt sức rồi..."
+
+"Ta không sao," ta ngắt lời hắn, tay siết chặt chuôi kiếm bên hông. "Ta vẫn còn đủ sức để chém đôi bất cứ thứ gì cản đường chúng ta."
+
+Đêm trong Rừng Huyết Độc vẫn dài đằng đẵng, nhưng trong lòng ta, bình minh đã bắt đầu ló dạng.
