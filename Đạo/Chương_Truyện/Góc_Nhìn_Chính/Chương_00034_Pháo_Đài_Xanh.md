@@ -81,6 +81,7 @@ Ghi_Chú: Khám phá bí mật về hệ thống Long Mạch và tìm ra manh m�
 <li style="padding: 5px; "><a href="Chương_00060_Hỗn_Loạn_Tại_Kho_Chứa.html">Chương 60: Hỗn Loạn Tại Kho Chứa</a></li>
 <li style="padding: 5px; "><a href="Chương_00061_Mê_Cung_Nấm_Độc.html">Chương 61: Mê Cung Nấm Độc</a></li>
 <li style="padding: 5px; "><a href="Chương_00062_Bí_Mật_Huyết_Trì.html">Chương 62: Bí Mật Huyết Trì (血池之秘)</a></li>
+<li style="padding: 5px; "><a href="Chương_00063_Huyết_Chiến_Bên_Hồ.html">Chương 63: Huyết Chiến Bên Hồ (血池激戰)</a></li>
 <li style="padding: 5px; "><a href="Chương_Mẫu_Huyền_Băng.html">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
 </ul>
 </details>
