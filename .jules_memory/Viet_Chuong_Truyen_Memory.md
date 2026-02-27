@@ -189,3 +189,13 @@
 - **Nội dung:** Lệ Vô Tâm trở thành mối đe dọa với các đệ tử chân truyền khác. Triệu Hàn, Tôn Mộc lập mưu dùng Vạn Tinh Tuyệt Sát Trận hãm hại hắn tại Quỷ Khốc Cốc.
 - **Nhân vật:** Lệ Vô Tâm, Triệu Hàn, Tôn Mộc.
 - **Địa điểm:** Vạn Độc Môn.
+
+## [2026-03-31] Chương 57 & 58: Cái Bẫy Liên Hoàn & Phản Đòn (Lệ Vô Tâm)
+- **Nội dung:** Lệ Vô Tâm rơi vào bẫy Vạn Tinh Tuyệt Sát Trận nhưng đã dùng Vạn Độc Thân và Huyết Độc Chân Khí để lật ngược thế cờ, diệt sát đám đệ tử chân truyền.
+- **Nhân vật:** Lệ Vô Tâm, Triệu Hàn, Tôn Mộc, Mặt Sẹo.
+- **Địa điểm:** Quỷ Khốc Cốc.
+
+## [2026-04-01] Chương 59 & 60: Độc Cô Lão Quái Hài Lòng & Chuẩn Bị Cho Đại Sự (Lệ Vô Tâm)
+- **Nội dung:** Lệ Vô Tâm báo cáo công việc và nhận thưởng từ Môn Chủ, phát hiện ra ý đồ thật sự của hắn, chuẩn bị bí mật để chống lại ở đại điển sắc phong sắp tới.
+- **Nhân vật:** Lệ Vô Tâm, Độc Cô Lão Quái.
+- **Địa điểm:** Vạn Độc Môn.
