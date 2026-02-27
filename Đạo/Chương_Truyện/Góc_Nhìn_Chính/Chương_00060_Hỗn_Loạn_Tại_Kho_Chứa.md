@@ -2,10 +2,10 @@
 <div style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00043_Thoát_Khỏi_Hang_Động.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00059_Lối_Mòn_Trong_Lòng_Đất.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a href="Chương_00045_Huyết_Trận_Khởi_Động.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_Mẫu_Huyền_Băng.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
@@ -54,7 +54,7 @@
 <li style="padding: 5px; "><a href="Chương_00041_Mê_Cung_Tơ_Độc.html">Chương 41: Mê Cung Tơ Độc</a></li>
 <li style="padding: 5px; "><a href="Chương_00042_Huyết_Chiến_Nhện_Chúa.html">Chương 42: Huyết Chiến Nhện Chúa</a></li>
 <li style="padding: 5px; "><a href="Chương_00043_Thoát_Khỏi_Hang_Động.html">Chương 43: Thoát Khỏi Hang Động</a></li>
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00044_Ánh_Sáng_Và_Bóng_Tối.html">Chương 44: Ánh Sáng Và Bóng Tối</a></li>
+<li style="padding: 5px; "><a href="Chương_00044_Ánh_Sáng_Và_Bóng_Tối.html">Chương 44: Ánh Sáng Và Bóng Tối</a></li>
 <li style="padding: 5px; "><a href="Chương_00045_Huyết_Trận_Khởi_Động.html">Chương 45: Huyết Trận Khởi Động</a></li>
 <li style="padding: 5px; "><a href="Chương_00046_Vòng_Vây_Sinh_Tử.html">Chương 46: Vòng Vây Sinh Tử (生死圍困)</a></li>
 <li style="padding: 5px; "><a href="Chương_00047_Huyết_Lộ_Phá_Trận.html">Chương 47: Huyết Lộ Phá Trận (血路破陣)</a></li>
@@ -70,78 +70,102 @@
 <li style="padding: 5px; "><a href="Chương_00057_Huyết_Chiến_Ngô_Công.html">Chương 57: Huyết Chiến Ngô Công</a></li>
 <li style="padding: 5px; "><a href="Chương_00058_Giao_Ước_Trong_Bóng_Tối.html">Chương 58: Giao Ước Trong Bóng Tối</a></li>
 <li style="padding: 5px; "><a href="Chương_00059_Lối_Mòn_Trong_Lòng_Đất.html">Chương 59: Lối Mòn Trong Lòng Đất</a></li>
-<li style="padding: 5px; "><a href="Chương_00060_Hỗn_Loạn_Tại_Kho_Chứa.html">Chương 60: Hỗn Loạn Tại Kho Chứa</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00060_Hỗn_Loạn_Tại_Kho_Chứa.html">Chương 60: Hỗn Loạn Tại Kho Chứa</a></li>
 <li style="padding: 5px; "><a href="Chương_Mẫu_Huyền_Băng.html">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
 </ul>
 </details>
 </div>
 <!-- NAVIGATION_END -->
-# Chương 44: Ánh Sáng Và Bóng Tối
+# Chương 60: Hỗn Loạn Tại Kho Chứa
 
-Màn sương đỏ quạch trong Rừng Huyết Độc dường như đặc quánh lại, bám dính lấy da thịt như những bàn tay vô hình nhớp nháp. Không gian tĩnh mịch đến rợn người, hoàn toàn trái ngược với sự ầm ĩ, rung chuyển long trời lở đất khi Hang Động Nhện Quỷ sụp đổ phía sau lưng.
+Lâm Phong nín thở nhìn Hứa Nhược Thủy nhẹ nhàng mở một khe nhỏ trên chiếc bình gốm niêm phong. Bên trong, một luồng khí nóng hầm hập phả ra, mang theo mùi cát khô đặc trưng của Tây Mạc, hoàn toàn lạc lõng giữa không gian ẩm ướt và tanh tưởi của Kho Chứa Ngầm.
 
-"Chúng ta không thể dừng lại ở đây lâu được."
+"Các ngươi lùi lại," Hứa Nhược Thủy thì thầm, ánh mắt sắc lạnh. "Thứ này một khi tỉnh giấc sẽ rất cáu kỉnh đấy."
 
-Diệp Tĩnh Sương thu hồi thần thức, ánh mắt sắc lạnh quét qua những tán cây Huyết Mộc đen đúa đang rũ xuống như những bóng ma khổng lồ. "Mùi máu tanh từ vụ sập hang sẽ dẫn dụ lũ súc sinh trong rừng tới rất nhanh. Hơn nữa, mùi hương của Huyết Linh Chi..."
+Bà lấy ra một viên đá lửa nhỏ, đánh nhẹ. Tia lửa bắn vào miệng bình.
 
-Nàng bỏ lửng câu nói, liếc nhìn chiếc túi trữ vật bên hông Lâm Phong. Dù đã được phong ấn kỹ lưỡng, nhưng đối với những loài yêu thú có khứu giác nhạy bén, thứ thiên địa linh vật này chẳng khác nào một ngọn hải đăng giữa biển đêm.
+*Vù vù!*
 
-Lâm Phong gật đầu, xốc lại Hứa Nhược Thủy trên lưng. Hắn có thể cảm nhận được hơi thở của bà ngày càng yếu ớt, nhịp tim mong manh như ngọn đèn trước gió. Huyết Thần Độc biến thể trong cơ thể bà đang nhân lúc bà suy kiệt mà bùng phát dữ dội.
+Một tiếng rít chói tai vang lên từ trong bình, như thể có ngàn vạn con ong đang đập cánh cùng lúc. Chiếc bình gốm rung lên bần bật trên tay Hứa Nhược Thủy rồi nứt toác.
 
-"Đi về phía Đông Nam," Lâm Phong chỉ tay. "Lúc nãy khi ở trên cao, ta thoáng thấy địa thế bên đó cao hơn, cây cối thưa thớt hơn. Có lẽ sẽ tìm được nơi trú ẩn tạm thời."
+"Chạy!"
 
-Hứa Thanh Vân gật đầu lia lịa, tay nắm chặt thanh trường kiếm, khuôn mặt lấm lem bụi đất nhưng ánh mắt đã bớt đi vài phần hoảng loạn. Trải qua sinh tử trong hang động, thiếu niên ngây ngô ngày nào dường như đã trưởng thành hơn rất nhiều.
+Bà ném mạnh chiếc bình về phía đống vò gốm chứa "Sa Bạo Cổ" ở góc kho, rồi xoay người lao về phía đường hầm nơi họ vừa đi tới. Lâm Phong và Diệp Tĩnh Sương không cần nhắc lần hai, lập tức thi triển thân pháp phóng theo.
 
-Bốn người di chuyển nhanh nhưng thận trọng, cố gắng không gây ra tiếng động lớn. Dưới chân là lớp lá mục dày, thỉnh thoảng lại phát ra tiếng "xạo xạo" ghê người như thể đang dẫm lên xương cốt khô khốc.
+*BÙM!*
 
-Sau nửa canh giờ len lỏi, bọn họ tìm thấy một hốc đá nhỏ nằm khuất sau một tảng đá lớn rêu phong, được che chắn bởi một bụi gai rậm rạp nhưng không có dấu hiệu của Huyết Đằng.
+Một tiếng nổ trầm đục vang lên, theo sau là cơn chấn động dữ dội khiến cả hang động rung chuyển. Từ vị trí chiếc bình vỡ, một cơn lốc xoáy màu vàng nâu bùng phát, cuốn theo đất đá và những mảnh gốm vỡ vụn.
 
-"Nơi này tạm ổn," Diệp Tĩnh Sương kiểm tra một lượt, rồi nhanh chóng bố trí vài tấm Băng Phong Phù quanh cửa hốc đá để che giấu khí tức. "Lâm Phong, ngươi lo cho phu nhân. Ta và Thanh Vân sẽ canh gác."
+Cơn lốc xoáy nhanh chóng lan rộng, nuốt chửng lấy đống vò gốm bên cạnh. Những chiếc vò này cũng lần lượt nổ tung, giải phóng thêm hàng trăm con Sa Bạo Cổ khác. Chúng cộng hưởng với nhau, tạo thành một cơn bão cát kinh hoàng ngay trong lòng đất.
 
-Lâm Phong đặt Hứa Nhược Thủy nằm xuống phiến đá phẳng bên trong hốc. Khuôn mặt bà tái nhợt, đôi môi tím ngắt, trên cổ và tay bắt đầu xuất hiện những đường gân máu màu đen lan rộng như mạng nhện.
+"Cái gì thế này?!"
 
-Hắn không dám chậm trễ, lấy Huyết Linh Chi từ túi trữ vật ra. Cụm nấm đỏ rực tỏa ra ánh sáng hồng ngọc dìu dịu, xua tan đi phần nào sự u ám trong hốc đá.
+"Địch tập kích! Có kẻ xâm nhập!"
 
-"Thứ này dược tính quá mạnh, phu nhân hiện tại không thể chịu nổi nếu dùng trực tiếp," Lâm Phong nhíu mày lẩm bẩm. Hắn quay sang Diệp Tĩnh Sương. "Tĩnh Sương, ta cần mượn hàn khí của nàng để trung hòa bớt hỏa tính của nó."
+Đám đệ tử Vạn Độc Môn đang vận chuyển huyết khí hoảng loạn hét lên. Nhưng tiếng hét của chúng nhanh chóng bị tiếng gió rít át đi. Cát bụi mịt mù che khuất tầm nhìn, những hạt cát sắc như dao cứa vào da thịt, xé toạc y phục của chúng.
 
-Diệp Tĩnh Sương không nói hai lời, lập tức ngồi xuống đối diện, đặt một bàn tay lên Huyết Linh Chi. Một luồng hàn khí trắng xóa từ lòng bàn tay nàng tuôn ra, bao bọc lấy cây nấm. Lâm Phong vận chuyển thanh mộc linh lực, cẩn thận bóc tách từng sợi dược lực tinh thuần từ Huyết Linh Chi, hòa quyện với hàn khí rồi từ từ đưa vào cơ thể Hứa Nhược Thủy.
+"Aaaa! Mắt ta!"
 
-"Ư..."
+"Cứu mạng! Không thở được!"
 
-Hứa Nhược Thủy khẽ rên lên một tiếng đau đớn khi luồng dược lực mạnh mẽ bắt đầu chạy dọc kinh mạch, xung đột gay gắt với độc tố. Cơ thể bà run lên bần bật, mồ hôi lạnh toát ra như tắm.
+Cơn bão cát điên cuồng càn quét qua Kho Chứa Ngầm, đập vỡ những bể chứa độc dược. Chất lỏng màu xanh lục trào ra, hòa lẫn với cát bụi tạo thành một hỗn hợp bùn độc chết người.
 
-"Cố lên, mẹ ơi..." Hứa Thanh Vân đứng bên cạnh, nắm chặt tay, mắt đỏ hoe nhưng không dám lên tiếng làm phiền.
+Hứa Nhược Thủy, Lâm Phong và Diệp Tĩnh Sương nấp sau một tảng đá lớn ở cửa đường hầm, quan sát cảnh tượng hỗn loạn bên dưới.
 
-Thời gian trôi qua từng chút một, nặng nề như đeo đá. Bên ngoài hốc đá, tiếng gió rít qua kẽ lá càng lúc càng dữ dội, xen lẫn tiếng tru tréo xa xăm của bầy sói hoang.
+"Hiệu quả hơn ta mong đợi," Hứa Nhược Thủy nhếch mép, phủi bụi trên tay áo. "Lũ ngu ngốc đó đã xếp chúng quá gần nhau."
 
-Bỗng nhiên, Hứa Nhược Thủy ho khan một tiếng, phun ra một ngụm máu đen đặc. Sắc mặt bà tuy vẫn nhợt nhạt nhưng những đường gân đen trên cổ đã mờ đi trông thấy, hơi thở cũng dần ổn định lại.
+"Nhưng cái lồng sắt..." Lâm Phong chỉ tay về phía trung tâm hang động.
 
-Bà từ từ mở mắt, ánh nhìn mệt mỏi nhưng vẫn giữ được sự sắc sảo vốn có.
+Cái lồng sắt chứa những sinh vật thí nghiệm đang lắc lư dữ dội trong cơn bão. Những sợi xích treo lồng bắt đầu nứt ra. Bên dưới, cái ao huyết khí đang sủi bọt ùng ục, bị cát bụi lấp dần.
 
-"Mẹ! Mẹ tỉnh rồi!" Hứa Thanh Vân reo lên, nhào tới đỡ lấy bà.
+"Mục tiêu của chúng ta là phá hủy trạm trung chuyển huyết khí," Diệp Tĩnh Sương nói, ánh mắt kiên định. "Cơn bão này đã làm rối loạn đội hình của chúng, nhưng chưa đủ để phá hủy cái ao đó. Ta cần bồi thêm một đòn."
 
-Hứa Nhược Thủy vỗ nhẹ tay con trai trấn an, rồi nhìn sang Lâm Phong và Diệp Tĩnh Sương, gật đầu yếu ớt: "Đa tạ... hai vị ân nhân."
+Nàng rút Hàn Mai Kiếm, linh lực toàn thân dồn vào mũi kiếm.
 
-"Phu nhân đừng nói nhiều, độc tố chỉ mới tạm thời bị áp chế, chưa giải được hoàn toàn đâu," Lâm Phong lau mồ hôi trên trán, cất phần còn lại của Huyết Linh Chi đi. "Chúng ta cần đưa bà về Dược Vương Cốc hoặc tìm một nơi an toàn hơn để tĩnh dưỡng."
+*"Hàn Sương Kiếm Quyết - Băng Long Phá!"*
 
-Hứa Nhược Thủy lắc đầu, giọng khàn đặc: "Không... không còn nơi nào an toàn đâu."
+Một con rồng băng khổng lồ hình thành từ không khí lạnh lẽo, gầm lên một tiếng rồi lao thẳng vào cơn bão cát, hướng về phía cái ao huyết khí.
 
-Bà hít sâu một hơi, cố gắng ngồi dậy dựa vào vách đá: "Trước khi bị tập kích ở trạm dừng chân, ta đã nhận được tin tức từ mạng lưới tình báo của Thương Hội... Vạn Độc Môn không chỉ muốn chiếm Nam Cương."
+Sự va chạm giữa Băng và Thổ tạo ra một vụ nổ kinh thiên động địa. Cái ao huyết khí bị đóng băng tức thì, sau đó vỡ vụn dưới sức ép của cơn bão cát. Những mảnh băng đỏ rực bắn tung tóe khắp nơi.
 
-"Ý bà là sao?" Diệp Tĩnh Sương cau mày.
+"Rút lui!"
 
-"Chúng đang giăng một cái bẫy lớn," Hứa Nhược Thủy nói, ánh mắt lộ vẻ sợ hãi hiếm thấy. "Rừng Huyết Độc này... không phải tự nhiên mà biến đổi nhanh như vậy. Ta cảm nhận được, toàn bộ khu rừng đang sống dậy... Nó đang di chuyển."
+Thấy mục tiêu đã hoàn thành, ba người lập tức quay đầu chạy sâu vào trong Ám Đạo. Phía sau lưng họ, Kho Chứa Ngầm đang sụp đổ từng mảng lớn, chôn vùi toàn bộ độc dược và huyết khí dưới lớp đất đá dày đặc.
 
-"Di chuyển?" Lâm Phong và Diệp Tĩnh Sương nhìn nhau, sững sờ.
+---
 
-"Phải... Theo một trận đồ bát quái khổng lồ," Hứa Nhược Thủy chỉ tay ra bên ngoài. "Chúng ta không phải đang đi ra ngoài... mà là đang bị lùa vào trung tâm. Vạn Độc Môn muốn dùng máu của tất cả sinh linh trong rừng này để tế luyện thứ gì đó... kinh khủng hơn cả Huyết Thần Độc."
+Trong khi đó, tại một gian mật thất sang trọng nằm sâu hơn trong Vạn Độc Cốc.
 
-Đúng lúc đó, một tiếng nổ lớn vang lên từ phía xa, kèm theo cột sáng màu xanh lục bắn thẳng lên trời, nhuộm cả bầu trời đêm thành một màu xanh chết chóc.
+Độc Cô Lão Quái đang ngồi thiền trên một chiếc giường làm bằng ngọc đen, xung quanh là những làn khói độc màu tím. Đột nhiên, hắn mở bừng mắt, đôi đồng tử dựng đứng như mắt rắn lóe lên tia nhìn chết chóc.
 
-"Đó là..." Hứa Thanh Vân run rẩy.
+"Huyết khí... bị gián đoạn?"
 
-"Tín hiệu của Vạn Độc Môn," Diệp Tĩnh Sương siết chặt chuôi kiếm, giọng lạnh băng. "Vòng vây... bắt đầu khép lại rồi."
+Hắn cảm nhận được dòng chảy năng lượng từ các trạm trung chuyển đang yếu đi rõ rệt. Một cơn giận dữ bùng lên trong lòng hắn.
 
-Lâm Phong nhìn cột sáng xanh, rồi nhìn Huyết Linh Chi trong tay, chợt hiểu ra. Bọn họ vừa thoát khỏi miệng cọp, lại rơi vào hang rồng. Ánh sáng của Huyết Linh Chi đã cứu mạng Hứa Nhược Thủy, nhưng có lẽ cũng chính nó, cùng với sự náo động dưới lòng đất, đã đánh động kẻ đi săn thực sự của khu rừng này.
+"Kẻ nào to gan dám phá hoại đại sự của bản tọa?!"
 
-"Chuẩn bị chiến đấu," Lâm Phong trầm giọng, ánh mắt kiên định. "Đêm nay sẽ dài lắm đây."
+Hắn phất tay áo, một luồng kình phong đánh bay cánh cửa đá nặng ngàn cân.
+
+"Truyền lệnh cho Ngũ Độc Trưởng Lão! Phong tỏa toàn bộ lối ra vào! Kích hoạt 'Vạn Độc Phệ Tâm Trận' ở mức cao nhất! Ta muốn bắt sống kẻ xâm nhập, lột da tróc xương hắn!"
+
+Tiếng gầm của Độc Cô Lão Quái vang vọng khắp Vạn Độc Cốc, khiến muôn loài độc trùng đều run rẩy sợ hãi.
+
+---
+
+Trở lại với nhóm Lâm Phong. Họ đang chạy thục mạng trong đường hầm tối tăm, tiếng sụp đổ vẫn ầm ầm đuổi theo sau lưng.
+
+"Chúng ta đã chọc giận ổ kiến lửa rồi," Hứa Nhược Thủy vừa chạy vừa thở dốc. "Độc Cô Lão Quái chắc chắn đã phát hiện ra."
+
+"Đó là điều chúng ta muốn, không phải sao?" Lâm Phong đáp, tay vẫn nắm chặt cung. "Thu hút sự chú ý của chúng về phía này để giảm áp lực cho Diệp tiền bối và mọi người bên ngoài."
+
+"Đúng vậy," Diệp Tĩnh Sương gật đầu. "Nhưng giờ chúng ta phải tìm đường thoát. Ám Đạo này thông tới đâu?"
+
+"Theo bản đồ cũ của Hứa gia, nhánh này dẫn thẳng tới khu vực 'Vườn Dược Liệu' của Vạn Độc Môn," Hứa Nhược Thủy nói. "Nhưng cẩn thận, nơi đó được canh gác bởi 'Mộc Độc Sư' - những kẻ chuyên dùng độc thảo để giết người."
+
+Họ chạy thêm một đoạn nữa thì thấy ánh sáng phía trước. Đó không phải là ánh sáng mặt trời, mà là một thứ ánh sáng ma quái màu xanh lam phát ra từ những cây nấm khổng lồ mọc đầy hai bên vách đá.
+
+Họ đã ra khỏi Ám Đạo, nhưng lại bước vào một nơi còn nguy hiểm hơn gấp bội.
+
+Trước mặt họ là một khu rừng nấm khổng lồ, mỗi cây cao đến vài trượng, tán nấm xòe rộng như những chiếc ô che kín bầu trời. Không khí ở đây nồng nặc mùi phấn hoa ngọt ngậy đến buồn nôn.
+
+"Chào mừng đến với 'Nấm Độc Lâm'," Hứa Nhược Thủy cười khổ. "Hy vọng các ngươi đã uống thuốc giải độc."
