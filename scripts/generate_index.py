@@ -15,14 +15,14 @@ def get_chapter_title(filepath):
 
 def generate_pov_index(pov_dir, pov_name):
     """
-    Generates a MỤC_LỤC.md file for a specific POV directory.
+    Generates an index.md file for a specific POV directory.
     """
-    index_path = os.path.join(pov_dir, "MỤC_LỤC.md")
+    index_path = os.path.join(pov_dir, "index.md")
     content = [f"# Mục Lục: {pov_name}\n"]
 
     files = []
     for filename in os.listdir(pov_dir):
-        if filename.endswith(".md") and filename != "MỤC_LỤC.md":
+        if filename.endswith(".md") and filename != "index.md" and filename != "MỤC_LỤC.md":
             files.append(filename)
 
     files.sort()
@@ -39,9 +39,9 @@ def generate_pov_index(pov_dir, pov_name):
 
 def generate_root_index(repo_root):
     """
-    Generates the root MỤC_LỤC.md file.
+    Generates the root index.md file.
     """
-    index_path = os.path.join(repo_root, "MỤC_LỤC.md")
+    index_path = os.path.join(repo_root, "index.md")
 
     content = [
         "# Mục Lục Tổng Hợp\n",
@@ -59,7 +59,7 @@ def generate_root_index(repo_root):
         for pov_dir_name in pov_dirs:
             # Human readable name
             display_name = pov_dir_name.replace("Góc_Nhìn_", "").replace("_", " ")
-            link_path = f"Đạo/Chương_Truyện/{pov_dir_name}/MỤC_LỤC.md"
+            link_path = f"Đạo/Chương_Truyện/{pov_dir_name}/index.md"
             content.append(f"- [Góc Nhìn {display_name}]({link_path})")
 
             # Generate the POV index while we are here
