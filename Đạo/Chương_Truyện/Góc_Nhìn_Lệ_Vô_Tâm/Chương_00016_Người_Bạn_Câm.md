@@ -18,9 +18,32 @@
 <li style="padding: 5px; "><a href="Chương_00005_Bóng_Tối_Cô_Độc.html">Chương 5: Bóng Tối Cô Độc</a></li>
 <li style="padding: 5px; "><a href="Chương_00006_Thử_Thách_Vạn_Độc.html">Chương 6: Thử Thách Vạn Độc</a></li>
 <li style="padding: 5px; "><a href="Chương_00007_Huyết_Nguyệt_Sát_Cơ.html">Chương 7: Huyết Nguyệt Sát Cơ</a></li>
-<li style="padding: 5px; "><a href="Chương_00008_Diện_Kiến_Lão_Quái.html">Chương 8: Diện Kiến Lão Quái</a></li>
+<li style="padding: 5px; "><a href="Chương_00008_Đêm_Dài_Vô_Tận.html">Chương 8: Đêm Dài Vô Tận</a></li>
+<li style="padding: 5px; "><a href="Chương_00009_Bình_Minh_Đẫm_Máu.html">Chương 9: Bình Minh Đẫm Máu</a></li>
+<li style="padding: 5px; "><a href="Chương_00010_Phần_Thưởng_Và_Cái_Giá.html">Chương 10: Phần Thưởng Và Cái Giá</a></li>
+<li style="padding: 5px; "><a href="Chương_00011_Vạn_Độc_Phệ_Thân.html">Chương 11: Vạn Độc Phệ Thân</a></li>
+<li style="padding: 5px; "><a href="Chương_00012_Ngục_Tù_Tâm_Trí.html">Chương 12: Ngục Tù Tâm Trí</a></li>
+<li style="padding: 5px; "><a href="Chương_00013_Thuốc_Giải_Của_Quỷ.html">Chương 13: Thuốc Giải Của Quỷ</a></li>
+<li style="padding: 5px; "><a href="Chương_00014_Lột_Xác_Lần_Đầu.html">Chương 14: Lột Xác Lần Đầu</a></li>
+<li style="padding: 5px; "><a href="Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html">Chương 15: Ánh Mắt Của Sư Phụ</a></li>
 <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00016_Người_Bạn_Câm.html">Chương 16: Người Bạn Câm</a></li>
+<li style="padding: 5px; "><a href="Chương_00017_Những_Bữa_Ăn_Vụng_Trộm.html">Chương 17: Những Bữa Ăn Vụng Trộm</a></li>
+<li style="padding: 5px; "><a href="Chương_00018_Giấc_Mơ_Tự_Do.html">Chương 18: Giấc Mơ Tự Do</a></li>
+<li style="padding: 5px; "><a href="Chương_00019_Kế_Hoạch_Đào_Tẩu.html">Chương 19: Kế Hoạch Đào Tẩu</a></li>
+<li style="padding: 5px; "><a href="Chương_00020_Đêm_Mưa_Bão.html">Chương 20: Đêm Mưa Bão</a></li>
 <li style="padding: 5px; "><a href="Chương_00031_Huyết_Độc_Phiến.html">Chương 31: Huyết Độc Phiến</a></li>
+<li style="padding: 5px; "><a href="Chương_00033_Bẫy_Rập_Rừng_Sương.html">Chương 2.2: Bẫy Rập Rừng Sương</a></li>
+<li style="padding: 5px; "><a href="Chương_00036_Diệt_Môn_Chi_Họa.html">Chương 2.5: Diệt Môn Chi Họa</a></li>
+<li style="padding: 5px; "><a href="Chương_00039_Thanh_Trừng_Nội_Bộ.html">Chương 2.8: Thanh Trừng Nội Bộ</a></li>
+<li style="padding: 5px; "><a href="Chương_00061_Mệnh_Lệnh_Bóng_Tối.html">Chương 3: Mệnh Lệnh Bóng Tối</a></li>
+<li style="padding: 5px; "><a href="Chương_00062_Thí_Nghiệm_Máu.html">Chương 4: Thí Nghiệm Máu</a></li>
+<li style="padding: 5px; "><a href="Chương_00063_Ván_Cờ_Huyết_Độc.html">Chương 5: Ván Cờ Huyết Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00064_Truy_Vết_Tử_Thần.html">Chương 6: Truy Vết Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00065_Dưới_Bóng_Hắc_Sa.html">Chương 7: Dưới Bóng Hắc Sa</a></li>
+<li style="padding: 5px; "><a href="Chương_00066_Huyết_Tế_Sa_Mạc.html">Chương 8: Huyết Tế Sa Mạc</a></li>
+<li style="padding: 5px; "><a href="Chương_00067_Sát_Ý_Rừng_Gai.html">Chương 9: Sát Ý Rừng Gai</a></li>
+<li style="padding: 5px; "><a href="Chương_00068_Mạng_Lưới_Tử_Thần.html">Chương 10: Mạng Lưới Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00069_Con_Mồi_Vào_Rọ.html">Chương 11: Con Mồi Vào Rọ</a></li>
 </ul>
 </details>
 <div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">

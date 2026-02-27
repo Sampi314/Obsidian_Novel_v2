@@ -2,10 +2,10 @@
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00022_Mạng_Lưới_Tử_Thần.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00018_Giấc_Mơ_Tự_Do.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00024_Con_Mồi_Vào_Rọ.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00020_Đêm_Mưa_Bão.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
@@ -23,19 +23,27 @@
 <li style="padding: 5px; "><a href="Chương_00010_Phần_Thưởng_Và_Cái_Giá.html">Chương 10: Phần Thưởng Và Cái Giá</a></li>
 <li style="padding: 5px; "><a href="Chương_00011_Vạn_Độc_Phệ_Thân.html">Chương 11: Vạn Độc Phệ Thân</a></li>
 <li style="padding: 5px; "><a href="Chương_00012_Ngục_Tù_Tâm_Trí.html">Chương 12: Ngục Tù Tâm Trí</a></li>
-<li style="padding: 5px; "><a href="Chương_00013_Huyết_Độc_Phiến.html">Chương 13: Huyết Độc Phiến</a></li>
-<li style="padding: 5px; "><a href="Chương_00014_Bẫy_Rập_Rừng_Sương.html">Chương 14: Bẫy Rập Rừng Sương</a></li>
-<li style="padding: 5px; "><a href="Chương_00015_Diệt_Môn_Chi_Họa.html">Chương 15: Diệt Môn Chi Họa</a></li>
-<li style="padding: 5px; "><a href="Chương_00016_Thanh_Trừng_Nội_Bộ.html">Chương 16: Thanh Trừng Nội Bộ</a></li>
-<li style="padding: 5px; "><a href="Chương_00017_Mệnh_Lệnh_Bóng_Tối.html">Chương 17: Mệnh Lệnh Bóng Tối</a></li>
-<li style="padding: 5px; "><a href="Chương_00018_Thí_Nghiệm_Máu.html">Chương 18: Thí Nghiệm Máu</a></li>
-<li style="padding: 5px; "><a href="Chương_00019_Ván_Cờ_Huyết_Độc.html">Chương 19: Ván Cờ Huyết Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00020_Truy_Vết_Tử_Thần.html">Chương 20: Truy Vết Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00021_Dưới_Bóng_Hắc_Sa.html">Chương 21: Dưới Bóng Hắc Sa</a></li>
-<li style="padding: 5px; "><a href="Chương_00022_Mạng_Lưới_Tử_Thần.html">Chương 22: Mạng Lưới Tử Thần</a></li>
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00023_Huyết_Tế_Sa_Mạc.html">Chương 23: Huyết Tế Sa Mạc</a></li>
-<li style="padding: 5px; "><a href="Chương_00024_Con_Mồi_Vào_Rọ.html">Chương 24: Con Mồi Vào Rọ</a></li>
-<li style="padding: 5px; "><a href="Chương_00025_Sát_Ý_Rừng_Gai.html">Chương 25: Sát Ý Rừng Gai</a></li>
+<li style="padding: 5px; "><a href="Chương_00013_Thuốc_Giải_Của_Quỷ.html">Chương 13: Thuốc Giải Của Quỷ</a></li>
+<li style="padding: 5px; "><a href="Chương_00014_Lột_Xác_Lần_Đầu.html">Chương 14: Lột Xác Lần Đầu</a></li>
+<li style="padding: 5px; "><a href="Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html">Chương 15: Ánh Mắt Của Sư Phụ</a></li>
+<li style="padding: 5px; "><a href="Chương_00016_Người_Bạn_Câm.html">Chương 16: Người Bạn Câm</a></li>
+<li style="padding: 5px; "><a href="Chương_00017_Những_Bữa_Ăn_Vụng_Trộm.html">Chương 17: Những Bữa Ăn Vụng Trộm</a></li>
+<li style="padding: 5px; "><a href="Chương_00018_Giấc_Mơ_Tự_Do.html">Chương 18: Giấc Mơ Tự Do</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00019_Kế_Hoạch_Đào_Tẩu.html">Chương 19: Kế Hoạch Đào Tẩu</a></li>
+<li style="padding: 5px; "><a href="Chương_00020_Đêm_Mưa_Bão.html">Chương 20: Đêm Mưa Bão</a></li>
+<li style="padding: 5px; "><a href="Chương_00031_Huyết_Độc_Phiến.html">Chương 31: Huyết Độc Phiến</a></li>
+<li style="padding: 5px; "><a href="Chương_00033_Bẫy_Rập_Rừng_Sương.html">Chương 2.2: Bẫy Rập Rừng Sương</a></li>
+<li style="padding: 5px; "><a href="Chương_00036_Diệt_Môn_Chi_Họa.html">Chương 2.5: Diệt Môn Chi Họa</a></li>
+<li style="padding: 5px; "><a href="Chương_00039_Thanh_Trừng_Nội_Bộ.html">Chương 2.8: Thanh Trừng Nội Bộ</a></li>
+<li style="padding: 5px; "><a href="Chương_00061_Mệnh_Lệnh_Bóng_Tối.html">Chương 3: Mệnh Lệnh Bóng Tối</a></li>
+<li style="padding: 5px; "><a href="Chương_00062_Thí_Nghiệm_Máu.html">Chương 4: Thí Nghiệm Máu</a></li>
+<li style="padding: 5px; "><a href="Chương_00063_Ván_Cờ_Huyết_Độc.html">Chương 5: Ván Cờ Huyết Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00064_Truy_Vết_Tử_Thần.html">Chương 6: Truy Vết Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00065_Dưới_Bóng_Hắc_Sa.html">Chương 7: Dưới Bóng Hắc Sa</a></li>
+<li style="padding: 5px; "><a href="Chương_00066_Huyết_Tế_Sa_Mạc.html">Chương 8: Huyết Tế Sa Mạc</a></li>
+<li style="padding: 5px; "><a href="Chương_00067_Sát_Ý_Rừng_Gai.html">Chương 9: Sát Ý Rừng Gai</a></li>
+<li style="padding: 5px; "><a href="Chương_00068_Mạng_Lưới_Tử_Thần.html">Chương 10: Mạng Lưới Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00069_Con_Mồi_Vào_Rọ.html">Chương 11: Con Mồi Vào Rọ</a></li>
 </ul>
 </details>
 <div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
@@ -59,7 +67,7 @@
     var contentElements = [];
 
     // Next chapter URL
-    var nextChapterUrl = "Chương_00024_Con_Mồi_Vào_Rọ.html";
+    var nextChapterUrl = "Chương_00020_Đêm_Mưa_Bão.html";
 
     function getReadableElements() {
         // Collect all paragraph-like elements in the body
@@ -228,71 +236,62 @@
 
 </div>
 <!-- NAVIGATION_END -->
-# Chương 23: Huyết Tế Sa Mạc
+# Chương 19: Kế Hoạch Đào Tẩu
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Nhân vật liên quan:** [Huyết Vệ](../../Nhân_Vật/Huyết_Vệ.md)
-**Địa điểm:** Trong lòng [Hắc Sa Bão](../../Kỳ_Vật/Hắc_Sa_Bão.md).
-**Thời điểm:** Song song với [Chương 32: Sa Hồn Truy Kích](../Góc_Nhìn_Chính/Chương_00032_Sa_Hồn_Truy_Kích.md).
-**Giao Điểm Cốt Truyện:** Lệ Vô Tâm nhận ra điểm yếu của Sa Hồn và tìm ra hướng đi tới Rừng Thiên Trụ.
+**Địa điểm:** Vạn Độc Môn - Hang Bí Mật (Nơi ở của Lệ Vô Tâm).
+**Thời điểm:** Hai ngày trước khi trốn (Lệ Vô Tâm 15 tuổi 10 tháng).
+**Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ).
 
 ---
 
-Cát đen quất vào mặt ta như hàng ngàn mũi kim châm. Tầm nhìn bị hạn chế chỉ còn vài bước chân. Nhưng đáng sợ hơn cả sức gió là những bóng đen lờ mờ đang trồi lên từ lòng đất.
+Quyết tâm đã có, nhưng kế hoạch phải hoàn hảo. Ở Vạn Độc Môn, thất bại đồng nghĩa với cái chết. Không, còn tệ hơn cái chết.
 
-[Sa Hồn](../../Kỳ_Vật/Sa_Hồn.md).
+Ta trải một tấm da thú khô lên bàn đá, bên cạnh là một ngọn đèn dầu nhỏ. Trên tấm da là bản đồ sơ bộ của Vạn Độc Cốc mà ta đã bí mật vẽ lại từ trí nhớ và những lần đi thu thập dược liệu.
 
-Lũ quái vật được sinh ra từ oán khí và cát bụi này không có hình thù cố định. Chúng như những đống cát biết đi, rên rỉ những âm thanh ai oán có thể khiến kẻ yếu tim phát điên.
+"Chúng ta đang ở đây," ta chỉ vào một chấm đỏ ở phía Tây. "Dược Điền."
 
-"Thánh Tử! Kiếm khí vô dụng với chúng!"
+A Mộc gật đầu, mắt chăm chú nhìn bản đồ.
 
-Một tên Huyết Vệ gào lên, thanh đao của hắn chém xuyên qua người một con Sa Hồn nhưng chỉ làm cát bay tứ tung, rồi ngay lập tức tụ lại thành hình. Con quái vật vung tay, một dòng cát đen sắc như dao cạo cắt phăng cánh tay cầm đao của tên lính.
+"Đường ra gần nhất là Cổng Chính phía Nam, nhưng ở đó có hai trạm gác và một bầy *Huyết Độc Lang* canh giữ. Chúng ta không thể qua được."
 
-"Aaaaa!" Tiếng hét thảm thiết bị tiếng gió nuốt chửng.
+A Mộc lắc đầu, chỉ tay về phía Bắc. Hắn vẽ một đường ngoằn ngoèo đi qua khu Rừng Cấm, vòng qua vách núi dựng đứng, rồi đi thẳng vào lòng đất.
 
-Ta nheo mắt quan sát. Đúng như lời đồn, Sa Hồn miễn nhiễm với sát thương vật lý. Bọn chúng là những thực thể bán linh hồn. Muốn giết chúng, phải dùng hỏa, lôi, hoặc... tà thuật.
+"Đường hầm?" Ta nhíu mày. "Ngươi biết đường hầm này sao?"
 
-"Ngu xuẩn," ta lẩm bẩm, không chút thương xót nhìn tên thuộc hạ đang quằn quại. "Máu của ngươi có giá trị hơn cái mạng của ngươi đấy."
+A Mộc gật đầu lia lịa. Hắn khoa tay múa chân, diễn tả rằng đó là một con đường cũ mà các đời trước dùng để vận chuyển xác chết ra khỏi cốc. Nó bị bỏ hoang đã lâu vì sập hầm, nhưng A Mộc đã tìm ra một khe hở nhỏ có thể chui qua được.
 
-Ta phẩy tay. *Thiên Tinh Cổ* bay vút ra, lao thẳng vào vết thương đang chảy máu của tên Huyết Vệ.
+Ta nhìn hắn, ngạc nhiên. "Làm sao ngươi biết?"
 
-"Thánh... Thánh Tử?" Hắn mở to mắt nhìn ta, sự kinh hoàng thay thế nỗi đau đớn.
+A Mộc chỉ vào mũi mình, rồi chỉ vào tai. Ý hắn là hắn đã ngửi thấy mùi gió lùa và nghe thấy tiếng nước chảy ngầm.
 
-"Cống hiến cho ta là vinh dự của ngươi."
+"Được," ta gật đầu. "Chúng ta sẽ đi đường đó. Nhưng trước tiên, ta cần chuẩn bị một thứ."
 
-Ta niệm chú. *Thiên Tinh Cổ* chui tọt vào mạch máu hắn, bơm vào đó một lượng lớn [Huyết Độc](../../Kỳ_Vật/Huyết_Thần_Độc.md) đậm đặc đã được tinh luyện. Cơ thể tên Huyết Vệ lập tức co giật, làn da chuyển sang màu đỏ tím, rồi phồng lên như một quả bóng sắp nổ.
+Ta lấy từ trong túi trữ vật ra một nắm lá cây *Mê Hồn Thảo* và vài quả *Mộng Yểm Hoa* khô. Đây là những thứ ta đã lén lút thu thập trong suốt sáu tháng qua, mỗi ngày một ít để không bị phát hiện.
 
-Lũ Sa Hồn đánh hơi thấy mùi máu tươi nồng nặc tử khí liền khựng lại. Bản năng khao khát sinh mệnh khiến chúng bỏ qua những kẻ khác, lao nhao về phía tên Huyết Vệ xấu số.
+"Ta sẽ chế tạo *Mê Hồn Hương*. Nếu gặp lính canh, chúng ta sẽ dùng nó."
 
-Một con, hai con... rồi hàng chục con Sa Hồn vây lấy hắn, xâu xé hắn.
+Ta bắt đầu nghiền nát thảo dược, trộn chúng với mỡ trăn và bột lưu huỳnh. Mùi hương hăng hắc bốc lên, làm A Mộc nhăn mũi.
 
-"Chính là lúc này."
+"Đừng lo," ta cười. "Thứ này không giết người, chỉ làm họ ngủ say như chết trong ba canh giờ. Đủ để chúng ta cao chạy xa bay."
 
-Ta nắm chặt tay lại.
+A Mộc nhìn ta làm việc, ánh mắt hắn ánh lên vẻ ngưỡng mộ xen lẫn lo lắng. Hắn biết rõ quy định của môn phái về việc tàng trữ độc dược trái phép.
 
-*Bùm!*
+"Còn hai ngày nữa là đến đêm trăng khuyết," ta nói, tay vẫn thoăn thoắt trộn thuốc. "Lúc đó thủy triều xuống thấp nhất, mực nước trong hang ngầm sẽ giảm. Đó là cơ hội duy nhất của chúng ta."
 
-Cơ thể tên Huyết Vệ phát nổ. Máu độc bắn tung tóe, nhuộm đỏ cả một vùng cát đen. Nhưng đó không phải là máu thường. Nó chứa đựng oán khí của kẻ chết oan và kịch độc của Vạn Độc Môn.
+A Mộc gật đầu, nắm chặt tay ta. Bàn tay hắn lạnh ngắt, nhưng lại truyền cho ta một sức mạnh vô hình.
 
-Lũ Sa Hồn dính phải máu độc rống lên đau đớn. Thân thể cát của chúng xèo xèo bốc khói, tan chảy như nến gặp lửa. Độc tính ăn mòn linh hồn chúng, biến chúng trở về cát bụi vô tri.
+"Chúng ta sẽ làm được," ta thì thầm, không biết là nói với hắn hay nói với chính mình. "Chúng ta sẽ tự do."
 
-Đám Huyết Vệ còn lại nhìn ta với ánh mắt khiếp sợ tột độ. Chúng sợ Sa Hồn một, thì sợ ta mười.
+Đêm đó, chúng ta thức trắng để hoàn thiện bản đồ và gói ghém hành lý. Một ít lương khô, hai bầu nước, con dao găm của ta và một cây gậy gỗ chắc chắn cho A Mộc.
 
-"Thấy chưa?" Ta lạnh lùng nói, bước qua vũng máu đen ngòm. "Trên thế gian này, không có gì là bất tử. Chỉ là cái giá phải trả để giết nó đắt đến đâu mà thôi."
+Mọi thứ đã sẵn sàng. Chỉ còn chờ thời cơ.
 
-Ta ngẩng đầu nhìn về phía trước. Cơn bão vẫn gào thét, nhưng nhờ *Thiên Tinh Cổ*, ta lờ mờ cảm nhận được một luồng linh lực thanh khiết đang di chuyển cách đây không xa.
+Nhưng trong lòng ta vẫn dấy lên một nỗi bất an mơ hồ. A Mộc... hắn biết quá nhiều về địa hình nơi này. Hắn chỉ là một tên tạp dịch, làm sao có thể thông thạo đường đi nước bước trong Rừng Cấm như vậy?
 
-Đó là [Thủy Linh Châu](../../Kỳ_Vật/Thủy_Linh_Châu.md).
+Ta nhìn A Mộc đang ngủ say bên cạnh đống lửa tàn. Khuôn mặt hắn bình yên, ngây thơ như một đứa trẻ.
 
-Hứa Nhược Thủy... Con bé đó đang dùng bảo vật để bảo vệ nhóm người kia. Ánh sáng của Thủy Linh Châu giữa biển tử khí này chẳng khác nào ngọn hải đăng dẫn đường cho ta.
+*Không, mình đa nghi quá rồi,* ta tự trấn an. *Hắn là bạn ta. Hắn đã cứu mạng ta. Hắn cũng muốn tự do như ta.*
 
-"Đi thôi," ta ra lệnh. "Chúng đang hướng về phía Rừng Xương Rồng."
-
-"Thánh Tử... chúng ta còn bao nhiêu người?" Tên thủ lĩnh rụt rè hỏi.
-
-Ta liếc nhìn lại. Quân số đã giảm đi một nửa chỉ sau vài canh giờ trong bão. Nhưng ta không bận tâm.
-
-"Đủ để dọn xác bọn chúng," ta nhếch mép cười. "Và nếu không đủ... thì các ngươi chính là vũ khí mạnh nhất của ta rồi."
-
-Ta tiếp tục bước đi, dáng vẻ ung dung như đang dạo chơi trong vườn hoa của Vạn Độc Môn, mặc kệ bão cát và lũ quái vật đang rình rập xung quanh. Mục tiêu đã ở ngay trước mắt, và lần này, ta sẽ không để bất cứ kẻ nào cướp mất chiến lợi phẩm của mình.
+Ta gạt bỏ những nghi ngờ đó sang một bên, nhắm mắt lại. Ta cần ngủ để lấy sức cho đêm định mệnh sắp tới.

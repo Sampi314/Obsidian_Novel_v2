@@ -2,10 +2,10 @@
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00013_Huyết_Độc_Phiến.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00013_Thuốc_Giải_Của_Quỷ.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00015_Diệt_Môn_Chi_Họa.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
@@ -23,19 +23,27 @@
 <li style="padding: 5px; "><a href="Chương_00010_Phần_Thưởng_Và_Cái_Giá.html">Chương 10: Phần Thưởng Và Cái Giá</a></li>
 <li style="padding: 5px; "><a href="Chương_00011_Vạn_Độc_Phệ_Thân.html">Chương 11: Vạn Độc Phệ Thân</a></li>
 <li style="padding: 5px; "><a href="Chương_00012_Ngục_Tù_Tâm_Trí.html">Chương 12: Ngục Tù Tâm Trí</a></li>
-<li style="padding: 5px; "><a href="Chương_00013_Huyết_Độc_Phiến.html">Chương 13: Huyết Độc Phiến</a></li>
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00014_Bẫy_Rập_Rừng_Sương.html">Chương 14: Bẫy Rập Rừng Sương</a></li>
-<li style="padding: 5px; "><a href="Chương_00015_Diệt_Môn_Chi_Họa.html">Chương 15: Diệt Môn Chi Họa</a></li>
-<li style="padding: 5px; "><a href="Chương_00016_Thanh_Trừng_Nội_Bộ.html">Chương 16: Thanh Trừng Nội Bộ</a></li>
-<li style="padding: 5px; "><a href="Chương_00017_Mệnh_Lệnh_Bóng_Tối.html">Chương 17: Mệnh Lệnh Bóng Tối</a></li>
-<li style="padding: 5px; "><a href="Chương_00018_Thí_Nghiệm_Máu.html">Chương 18: Thí Nghiệm Máu</a></li>
-<li style="padding: 5px; "><a href="Chương_00019_Ván_Cờ_Huyết_Độc.html">Chương 19: Ván Cờ Huyết Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00020_Truy_Vết_Tử_Thần.html">Chương 20: Truy Vết Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00021_Dưới_Bóng_Hắc_Sa.html">Chương 21: Dưới Bóng Hắc Sa</a></li>
-<li style="padding: 5px; "><a href="Chương_00022_Mạng_Lưới_Tử_Thần.html">Chương 22: Mạng Lưới Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00023_Huyết_Tế_Sa_Mạc.html">Chương 23: Huyết Tế Sa Mạc</a></li>
-<li style="padding: 5px; "><a href="Chương_00024_Con_Mồi_Vào_Rọ.html">Chương 24: Con Mồi Vào Rọ</a></li>
-<li style="padding: 5px; "><a href="Chương_00025_Sát_Ý_Rừng_Gai.html">Chương 25: Sát Ý Rừng Gai</a></li>
+<li style="padding: 5px; "><a href="Chương_00013_Thuốc_Giải_Của_Quỷ.html">Chương 13: Thuốc Giải Của Quỷ</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00014_Lột_Xác_Lần_Đầu.html">Chương 14: Lột Xác Lần Đầu</a></li>
+<li style="padding: 5px; "><a href="Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html">Chương 15: Ánh Mắt Của Sư Phụ</a></li>
+<li style="padding: 5px; "><a href="Chương_00016_Người_Bạn_Câm.html">Chương 16: Người Bạn Câm</a></li>
+<li style="padding: 5px; "><a href="Chương_00017_Những_Bữa_Ăn_Vụng_Trộm.html">Chương 17: Những Bữa Ăn Vụng Trộm</a></li>
+<li style="padding: 5px; "><a href="Chương_00018_Giấc_Mơ_Tự_Do.html">Chương 18: Giấc Mơ Tự Do</a></li>
+<li style="padding: 5px; "><a href="Chương_00019_Kế_Hoạch_Đào_Tẩu.html">Chương 19: Kế Hoạch Đào Tẩu</a></li>
+<li style="padding: 5px; "><a href="Chương_00020_Đêm_Mưa_Bão.html">Chương 20: Đêm Mưa Bão</a></li>
+<li style="padding: 5px; "><a href="Chương_00031_Huyết_Độc_Phiến.html">Chương 31: Huyết Độc Phiến</a></li>
+<li style="padding: 5px; "><a href="Chương_00033_Bẫy_Rập_Rừng_Sương.html">Chương 2.2: Bẫy Rập Rừng Sương</a></li>
+<li style="padding: 5px; "><a href="Chương_00036_Diệt_Môn_Chi_Họa.html">Chương 2.5: Diệt Môn Chi Họa</a></li>
+<li style="padding: 5px; "><a href="Chương_00039_Thanh_Trừng_Nội_Bộ.html">Chương 2.8: Thanh Trừng Nội Bộ</a></li>
+<li style="padding: 5px; "><a href="Chương_00061_Mệnh_Lệnh_Bóng_Tối.html">Chương 3: Mệnh Lệnh Bóng Tối</a></li>
+<li style="padding: 5px; "><a href="Chương_00062_Thí_Nghiệm_Máu.html">Chương 4: Thí Nghiệm Máu</a></li>
+<li style="padding: 5px; "><a href="Chương_00063_Ván_Cờ_Huyết_Độc.html">Chương 5: Ván Cờ Huyết Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00064_Truy_Vết_Tử_Thần.html">Chương 6: Truy Vết Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00065_Dưới_Bóng_Hắc_Sa.html">Chương 7: Dưới Bóng Hắc Sa</a></li>
+<li style="padding: 5px; "><a href="Chương_00066_Huyết_Tế_Sa_Mạc.html">Chương 8: Huyết Tế Sa Mạc</a></li>
+<li style="padding: 5px; "><a href="Chương_00067_Sát_Ý_Rừng_Gai.html">Chương 9: Sát Ý Rừng Gai</a></li>
+<li style="padding: 5px; "><a href="Chương_00068_Mạng_Lưới_Tử_Thần.html">Chương 10: Mạng Lưới Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00069_Con_Mồi_Vào_Rọ.html">Chương 11: Con Mồi Vào Rọ</a></li>
 </ul>
 </details>
 <div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
@@ -59,7 +67,7 @@
     var contentElements = [];
 
     // Next chapter URL
-    var nextChapterUrl = "Chương_00015_Diệt_Môn_Chi_Họa.html";
+    var nextChapterUrl = "Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html";
 
     function getReadableElements() {
         // Collect all paragraph-like elements in the body
@@ -228,102 +236,86 @@
 
 </div>
 <!-- NAVIGATION_END -->
-# Chương 14: Bẫy Rập Rừng Sương
+# Chương 14: Lột Xác Lần Đầu
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Địa điểm:** Độc Trùng Cốc (Biên giới Vạn Độc Môn).
-**Thời điểm:** 1 năm sau khi chế tạo Huyết Độc Phiến (Lệ Vô Tâm 19 tuổi).
+**Địa điểm:** Vạn Độc Môn - Mật Thất.
+**Thời điểm:** Ba tháng sau khi bắt đầu dùng *Tử Phụ Tử* (Lệ Vô Tâm 14 tuổi).
 **Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ).
 
 ---
 
-Sương mù độc chướng trong Độc Trùng Cốc quanh năm không tan, đặc quánh như sữa và mang theo mùi hương hoa ngào ngạt chết người.
+Đêm nay, trăng tròn.
 
-Ta, Lệ Vô Tâm, đang nép mình sau một tảng đá phủ đầy rêu phong, đôi mắt dõi theo ba bóng người đang thận trọng di chuyển phía trước.
+Những ngày trăng tròn là những ngày đáng sợ nhất đối với những kẻ tu luyện *Vạn Độc Chân Kinh*. Âm khí trong trời đất dâng cao, kích thích mọi loại độc tố trong cơ thể bùng phát.
 
-Đó là nhóm của Vương Thông – một tên đệ tử nội môn Luyện Khí tầng chín, kẻ nổi tiếng với tính cách hung hăng và hay bắt nạt kẻ yếu. Hắn đang dẫn theo hai tên đàn em đi săn tìm [Thiên Tinh Cổ](../../Kỳ_Vật/Thiên_Tinh_Cổ.md) – loài độc trùng quý hiếm dùng để luyện *Vạn Độc Chân Kinh* tầng bốn.
+Ta nằm cuộn tròn trong mật thất tối tăm, mồ hôi ướt đẫm tấm nệm rơm. Cơn ngứa ngáy khủng khiếp đang lan khắp toàn thân, từ đỉnh đầu xuống gót chân. Nó không phải là ngứa ngoài da, mà là ngứa từ bên trong xương tủy.
 
-"Sư huynh, có chắc là ở đây không?" Một tên đàn em thì thào hỏi, giọng run rẩy vì sợ hãi.
+Cơ thể ta đang thay đổi.
 
-"Im mồm!" Vương Thông quát khẽ. "Ta đã mua tin tức này từ lão già giữ Tàng Kinh Các với giá mười viên linh thạch đấy. Chắc chắn con Thiên Tinh Cổ chúa đang ẩn nấp trong cái hang động phía trước kia."
+Ba tháng nay, Độc Cô Lão Quái đã ép ta uống không dưới trăm loại độc dược khác nhau. Mỗi loại một tính chất, một tác dụng. Chúng tích tụ trong gan, thận, phổi của ta, biến đổi cấu trúc cơ thể ta từng chút một.
 
-Hắn chỉ tay về phía một hang động tối om, nơi có những sợi tơ nhện giăng mắc chằng chịt.
+"Aaaaa..."
 
-Ta nhếch mép cười. Tin tức đó... là do ta cố tình để lộ ra. Lão già giữ Tàng Kinh Các kia cũng là người của ta mua chuộc.
+Ta rên rỉ, móng tay cào cấu điên cuồng lên cánh tay trái. Lớp da mỏng manh rách toạc, nhưng không có máu chảy ra. Thay vào đó là một lớp dịch nhầy màu vàng nhạt.
 
-Mục tiêu của ta không phải là Thiên Tinh Cổ. Ta đã có nó từ lâu rồi. Mục tiêu của ta... chính là cái mạng của Vương Thông.
+Bên dưới lớp da rách, ta nhìn thấy... một lớp da mới.
 
-Hắn là chướng ngại vật lớn nhất trên con đường thăng tiến của ta trong nội môn lúc này. Hắn ỷ vào thế lực gia tộc sau lưng để chèn ép các đệ tử khác, và tệ hơn nữa, hắn dám nhòm ngó đến vị trí Thánh Tử tương lai.
+Nó trắng bệch, nhẵn thín và cứng như vảy cá.
 
-"Vào đi," Vương Thông ra lệnh.
+"Lột xác..." Ta lẩm bẩm, nhớ lại lời Lão Quái nói. *"Khi cơ thể ngươi không còn chịu đựng được độc tố, nó sẽ tự phá hủy lớp vỏ cũ để sinh ra lớp vỏ mới. Đó là 'Phá Cũ Xây Mới'."*
 
-Hai tên đàn em ngập ngừng một chút rồi cũng phải cắn răng bước vào hang. Vương Thông đi sau cùng, tay lăm lăm thanh đại đao tẩm độc.
+Cơn đau chuyển từ ngứa sang rát bỏng. Ta cảm giác như cả người mình đang bị thiêu đốt.
 
-Ta chờ cho bóng dáng bọn chúng khuất hẳn trong hang, rồi mới từ từ bước ra.
+Ta bắt đầu lột da.
 
-Ta lấy từ trong túi trữ vật ra một chiếc lọ nhỏ chứa *Mê Hồn Hương* đặc chế. Đây là loại hương không màu, không mùi, nhưng khi kết hợp với *Huyết Độc Phiến* của ta, nó sẽ trở thành một loại độc dược cực mạnh, khiến người trúng phải sinh ra ảo giác và tự tàn sát lẫn nhau.
+Ta dùng móng tay bóc từng mảng da chết trên cánh tay, trên ngực, trên đùi. Mỗi mảng da bong ra là một lần ta hét lên đau đớn. Nhưng ta không dừng lại được. Bản năng thôi thúc ta phải loại bỏ lớp vỏ cũ kỹ này.
 
-Ta nhẹ nhàng thả chiếc lọ xuống cửa hang, rồi dùng chưởng phong đánh vỡ nó.
+Mất một canh giờ, ta mới lột xong cánh tay trái. Lớp da mới lộ ra, lấp lánh dưới ánh trăng mờ ảo xuyên qua khe cửa. Ta thử cấu mạnh vào nó. Không đau. Ta lấy con dao găm cứa nhẹ. Chỉ để lại một vệt trắng mờ.
 
-*Choang!*
+*Nó cứng hơn da người thường rất nhiều.*
 
-Làn khói mỏng manh bay vào trong hang, hòa lẫn với không khí ẩm thấp.
+Ta tiếp tục lột da trên mặt. Đây là phần đau đớn nhất. Ta phải cẩn thận để không làm hỏng mắt và mũi.
 
-"Ai đó?!" Tiếng quát của Vương Thông vọng ra.
+Khi mảng da cuối cùng trên trán rơi xuống, ta cảm thấy nhẹ nhõm lạ thường. Một luồng linh khí mát lạnh tràn vào cơ thể qua lỗ chân lông mới, xua tan đi cái nóng hầm hập trong người.
 
-Ta không trả lời, chỉ khẽ phẩy [Huyết Độc Phiến](../../Luyện_Khí/Huyết_Độc_Phiến.md).
+Ta bò đến bên vại nước, soi mình xuống.
 
-*Vù!*
+Trong bóng tối, ta nhìn thấy một khuôn mặt xa lạ.
 
-Một cơn gió lốc cuốn theo độc khí từ chiếc quạt thốc thẳng vào trong hang.
+Đó không còn là Hữu Tâm nữa. Khuôn mặt đó gầy gò, hốc hác, làn da trắng bệch thiếu sức sống, nhưng đôi mắt lại sáng rực một cách quỷ dị. Đồng tử của ta đã biến đổi, không còn tròn như người thường mà hơi dẹt dọc giống như mắt loài bò sát.
 
-"Aaaaa!"
+Ta thử nhìn xung quanh. Trong bóng tối đen đặc của mật thất, ta lại nhìn thấy rõ mồn một từng hạt bụi đang bay lơ lửng, từng vết nứt nhỏ trên vách đá.
 
-Tiếng hét thảm thiết vang lên ngay lập tức. Sau đó là tiếng vũ khí va chạm loảng xoảng, tiếng chửi rủa, tiếng gầm gừ điên loạn.
+Thị lực ban đêm. Một khả năng mới.
 
-"Sư huynh! Sao huynh lại chém đệ?!"
+Ta giơ tay lên, vận chuyển linh lực. Một luồng khí độc màu xanh nhạt bao phủ lấy bàn tay ta. Ta phất tay về phía con chuột đang lén lút bò qua góc phòng.
 
-"Con quái vật! Chết đi!"
+*Vút!*
 
-"Cứu mạng! Có ma!"
+Luồng khí độc bay đi, trúng phóc con chuột. Nó giãy đành đạch vài cái rồi lăn ra chết cứng, toàn thân tím ngắt.
 
-Ta đứng bên ngoài, khoanh tay trước ngực, lắng nghe bản giao hưởng hỗn loạn ấy với một sự thỏa mãn khó tả.
+Ta nhìn xác con chuột, rồi nhìn bàn tay mình.
 
-Lũ ngu xuẩn. Chúng không biết rằng, kẻ thù đáng sợ nhất không phải là quái vật trong bóng tối, mà chính là sự nghi kỵ trong lòng mỗi người.
+Ta đã mạnh lên. Rất nhiều.
 
-Mười lăm phút sau, tiếng động trong hang tắt hẳn. Chỉ còn lại tiếng thở dốc nặng nhọc của một người.
+Luyện Khí tầng 7. Chỉ sau một đêm lột xác, ta đã đột phá một tầng cảnh giới.
 
-Ta bước vào hang.
+Nhưng cái giá phải trả... Ta sờ lên khuôn mặt lạnh lẽo của mình. Ta không còn là con người nữa. Ta đã trở thành một thứ quái vật bán nhân bán độc.
 
-Cảnh tượng bên trong thật thê thảm. Hai tên đàn em đã chết, thân thể bị chém nát bươm. Vương Thông ngồi dựa lưng vào vách đá, toàn thân đẫm máu, một cánh tay đã bị chặt đứt lìa. Hắn đang thoi thóp, đôi mắt dại đi vì ảo giác.
+Cánh cửa mật thất kẽo kẹt mở ra. Độc Cô Lão Quái bước vào, trên tay cầm ngọn đèn dầu leo lét.
 
-Nhìn thấy ta, hắn cố gắng gượng dậy, nhưng không thể.
+Lão nhìn đống da chết vương vãi trên sàn, rồi nhìn ta. Ánh mắt lão lóe lên vẻ hài lòng.
 
-"Lệ... Lệ Vô Tâm?" Hắn lắp bắp, nhận ra kẻ đứng trước mặt mình. "Ngươi... là ngươi làm sao?"
+"Chúc mừng," lão nói, giọng khàn khàn. "Ngươi đã hoàn thành lần lột xác đầu tiên. Giờ đây, ngươi mới thực sự là đệ tử của Vạn Độc Môn."
 
-Ta mỉm cười, ngồi xổm xuống trước mặt hắn, phe phẩy chiếc quạt xương.
+Ta đứng dậy, cúi đầu chào. "Đệ tử tạ ơn ân điển của sư phụ."
 
-"Vương sư huynh, huynh vất vả rồi. Thiên Tinh Cổ đâu?"
+Giọng nói của ta cũng đã thay đổi. Nó khàn hơn, lạnh hơn, nghe như tiếng gió rít qua kẽ đá.
 
-"Ngươi... đồ khốn nạn! Ta sẽ mách sư phụ..."
+"Tốt. Từ ngày mai, ngươi sẽ được chuyển sang khu Dược Điền. Ở đó có nhiều thứ hay ho hơn để ngươi học hỏi."
 
-"Sư phụ?" Ta cắt lời hắn, giọng lạnh băng. "Sư phụ sẽ chỉ quan tâm đến kẻ sống sót mạnh nhất thôi. Còn kẻ thua cuộc... chỉ là phân bón cho độc trùng."
+Lão quay lưng bỏ đi. Ta nhìn theo bóng lưng gù gù của lão, bàn tay nắm chặt.
 
-Ta giơ tay lên. Một con rết đỏ tía từ ống tay áo bò ra – chính là [Thiên Tinh Cổ](../../Kỳ_Vật/Thiên_Tinh_Cổ.md) bản mệnh của ta.
-
-"Tiễn sư huynh một đoạn đường."
-
-Con rết lao tới, cắn phập vào cổ họng Vương Thông. Hắn giật nảy mình, hai mắt trợn ngược, rồi từ từ gục xuống. Độc tố lan nhanh, biến cơ thể hắn thành một vũng nước đen ngòm chỉ trong nháy mắt.
-
-Ta đứng dậy, thu hồi Thiên Tinh Cổ. Nó vừa được ăn no nê một bữa tiệc linh lực Luyện Khí tầng chín, vỏ ngoài trở nên bóng loáng hơn hẳn.
-
-Ta lục soát túi trữ vật của Vương Thông, lấy đi toàn bộ linh thạch và đan dược, rồi ung dung bước ra khỏi hang.
-
-Một mũi tên trúng hai đích. Vừa loại bỏ được đối thủ, vừa thu được chiến lợi phẩm.
-
-Đường đến vị trí Thánh Tử... ngày càng rộng mở.
-
-Ta ngước nhìn bầu trời xám xịt của Độc Trùng Cốc.
-
-"Còn ai muốn cản đường ta nữa không?"
+Dược Điền sao? Dù là ở đâu, ta cũng sẽ sống. Và ta sẽ trở nên mạnh hơn nữa. Mạnh đến mức không ai có thể điều khiển ta được nữa.

@@ -2,10 +2,10 @@
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00007_Huyết_Nguyệt_Sát_Cơ.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00019_Kế_Hoạch_Đào_Tẩu.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00009_Bể_Dược_Độc.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00031_Huyết_Độc_Phiến.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
@@ -18,8 +18,32 @@
 <li style="padding: 5px; "><a href="Chương_00005_Bóng_Tối_Cô_Độc.html">Chương 5: Bóng Tối Cô Độc</a></li>
 <li style="padding: 5px; "><a href="Chương_00006_Thử_Thách_Vạn_Độc.html">Chương 6: Thử Thách Vạn Độc</a></li>
 <li style="padding: 5px; "><a href="Chương_00007_Huyết_Nguyệt_Sát_Cơ.html">Chương 7: Huyết Nguyệt Sát Cơ</a></li>
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00008_Diện_Kiến_Lão_Quái.html">Chương 8: Diện Kiến Lão Quái</a></li>
+<li style="padding: 5px; "><a href="Chương_00008_Đêm_Dài_Vô_Tận.html">Chương 8: Đêm Dài Vô Tận</a></li>
+<li style="padding: 5px; "><a href="Chương_00009_Bình_Minh_Đẫm_Máu.html">Chương 9: Bình Minh Đẫm Máu</a></li>
+<li style="padding: 5px; "><a href="Chương_00010_Phần_Thưởng_Và_Cái_Giá.html">Chương 10: Phần Thưởng Và Cái Giá</a></li>
+<li style="padding: 5px; "><a href="Chương_00011_Vạn_Độc_Phệ_Thân.html">Chương 11: Vạn Độc Phệ Thân</a></li>
+<li style="padding: 5px; "><a href="Chương_00012_Ngục_Tù_Tâm_Trí.html">Chương 12: Ngục Tù Tâm Trí</a></li>
+<li style="padding: 5px; "><a href="Chương_00013_Thuốc_Giải_Của_Quỷ.html">Chương 13: Thuốc Giải Của Quỷ</a></li>
+<li style="padding: 5px; "><a href="Chương_00014_Lột_Xác_Lần_Đầu.html">Chương 14: Lột Xác Lần Đầu</a></li>
+<li style="padding: 5px; "><a href="Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html">Chương 15: Ánh Mắt Của Sư Phụ</a></li>
+<li style="padding: 5px; "><a href="Chương_00016_Người_Bạn_Câm.html">Chương 16: Người Bạn Câm</a></li>
+<li style="padding: 5px; "><a href="Chương_00017_Những_Bữa_Ăn_Vụng_Trộm.html">Chương 17: Những Bữa Ăn Vụng Trộm</a></li>
+<li style="padding: 5px; "><a href="Chương_00018_Giấc_Mơ_Tự_Do.html">Chương 18: Giấc Mơ Tự Do</a></li>
+<li style="padding: 5px; "><a href="Chương_00019_Kế_Hoạch_Đào_Tẩu.html">Chương 19: Kế Hoạch Đào Tẩu</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00020_Đêm_Mưa_Bão.html">Chương 20: Đêm Mưa Bão</a></li>
 <li style="padding: 5px; "><a href="Chương_00031_Huyết_Độc_Phiến.html">Chương 31: Huyết Độc Phiến</a></li>
+<li style="padding: 5px; "><a href="Chương_00033_Bẫy_Rập_Rừng_Sương.html">Chương 2.2: Bẫy Rập Rừng Sương</a></li>
+<li style="padding: 5px; "><a href="Chương_00036_Diệt_Môn_Chi_Họa.html">Chương 2.5: Diệt Môn Chi Họa</a></li>
+<li style="padding: 5px; "><a href="Chương_00039_Thanh_Trừng_Nội_Bộ.html">Chương 2.8: Thanh Trừng Nội Bộ</a></li>
+<li style="padding: 5px; "><a href="Chương_00061_Mệnh_Lệnh_Bóng_Tối.html">Chương 3: Mệnh Lệnh Bóng Tối</a></li>
+<li style="padding: 5px; "><a href="Chương_00062_Thí_Nghiệm_Máu.html">Chương 4: Thí Nghiệm Máu</a></li>
+<li style="padding: 5px; "><a href="Chương_00063_Ván_Cờ_Huyết_Độc.html">Chương 5: Ván Cờ Huyết Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00064_Truy_Vết_Tử_Thần.html">Chương 6: Truy Vết Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00065_Dưới_Bóng_Hắc_Sa.html">Chương 7: Dưới Bóng Hắc Sa</a></li>
+<li style="padding: 5px; "><a href="Chương_00066_Huyết_Tế_Sa_Mạc.html">Chương 8: Huyết Tế Sa Mạc</a></li>
+<li style="padding: 5px; "><a href="Chương_00067_Sát_Ý_Rừng_Gai.html">Chương 9: Sát Ý Rừng Gai</a></li>
+<li style="padding: 5px; "><a href="Chương_00068_Mạng_Lưới_Tử_Thần.html">Chương 10: Mạng Lưới Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00069_Con_Mồi_Vào_Rọ.html">Chương 11: Con Mồi Vào Rọ</a></li>
 </ul>
 </details>
 <div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
@@ -43,7 +67,7 @@
     var contentElements = [];
 
     // Next chapter URL
-    var nextChapterUrl = "Chương_00009_Bể_Dược_Độc.html";
+    var nextChapterUrl = "Chương_00031_Huyết_Độc_Phiến.html";
 
     function getReadableElements() {
         // Collect all paragraph-like elements in the body
@@ -212,67 +236,74 @@
 
 </div>
 <!-- NAVIGATION_END -->
-# Chương 8: Diện Kiến Lão Quái
+# Chương 20: Đêm Mưa Bão
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Địa điểm:** Vạn Độc Cốc (Động phủ Độc Cô Lão Quái).
-**Thời điểm:** 6 tháng sau Huyết Trì (Hữu Tâm 13.5 tuổi).
+**Địa điểm:** Vạn Độc Môn - Bìa Rừng Cấm.
+**Thời điểm:** Đêm đào tẩu (Lệ Vô Tâm 16 tuổi).
 **Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ).
 
 ---
 
-Sáu tháng.
-Sáu tháng kể từ ngày ta trở thành kẻ sống sót duy nhất của Huyết Trì.
+Sấm chớp rạch ngang bầu trời đêm, soi sáng từng hạt mưa to như hạt đậu quất xuống mái ngói. Tiếng gió rít qua khe cửa sổ như tiếng quỷ khóc thần gào. Đêm nay, trời đất như muốn nhấn chìm Vạn Độc Cốc trong biển nước.
 
-Sáu tháng ta sống như một con chuột trong hang đá, ăn thịt chuột sống, uống nước đọng, và giết bất cứ thứ gì dám bén mảng đến gần nơi trú ẩn của ta. Ta không còn là Hữu Tâm ngây thơ ngày nào. Ta đã học được cách phân biệt tiếng bước chân của kẻ thù, cách nhận biết các loại độc dược cơ bản qua mùi, và quan trọng nhất: cách giết người nhanh nhất mà không cần vũ khí.
+Hoàn hảo.
 
-Hôm nay, một Huyết Vệ mặc giáp đỏ xuất hiện trước cửa hang của ta. Hắn không nói gì, chỉ ném cho ta một bộ áo choàng đen và ra hiệu đi theo.
+Ta khoác chiếc áo tơi làm bằng lá cọ lên người, giắt con dao găm vào thắt lưng. Túi đồ đã được buộc chặt. A Mộc đứng ngay cửa, đôi mắt sáng quắc trong bóng tối. Hắn ra hiệu cho ta im lặng.
 
-Ta biết ngày này sẽ đến. Độc Cô Lão Quái muốn gặp "tác phẩm" của mình.
+"Đi," ta thì thầm, đẩy cửa bước ra ngoài mưa.
 
-Động phủ của lão nằm sâu trong lòng núi, nơi mà ánh sáng mặt trời không bao giờ chạm tới. Càng đi vào sâu, không khí càng trở nên đặc quánh, nồng nặc mùi lưu huỳnh và thảo dược thối rữa. Ta nhìn thấy những cái lồng sắt treo lơ lửng trên trần hang, bên trong nhốt đủ loại sinh vật kỳ dị: những con rắn hai đầu, những con cóc to bằng cái thúng, và cả... những con người bị biến dạng.
+Nước mưa lạnh buốt táp vào mặt, làm ta tỉnh táo hơn bao giờ hết. Chúng ta di chuyển men theo bóng tối của những dãy nhà kho, hướng về phía cổng sau của Dược Điền.
 
-Có kẻ mọc đầy vảy như cá, có kẻ da thịt thối rữa lộ cả xương trắng, có kẻ thì tứ chi teo tóp như cành củi khô. Tất cả bọn họ đều nhìn ta với ánh mắt trống rỗng, vô hồn.
+Hai tên lính canh đang đứng co ro trong chòi gác, vừa uống rượu vừa chửi thề vì thời tiết. Tiếng mưa át đi tiếng bước chân của chúng ta.
 
-"Sợ sao?"
+Ta lấy ra quả cầu *Mê Hồn Hương* đã chuẩn bị sẵn, châm lửa vào ngòi dẫn rồi ném nhẹ vào trong chòi gác.
 
-Giọng nói khàn đục vang lên từ trong bóng tối. Ta rùng mình, không phải vì sợ, mà vì áp lực vô hình đè nặng lên vai.
+*Bụp!*
 
-Độc Cô Lão Quái ngồi trên một chiếc ghế làm từ xương cốt của một loài yêu thú khổng lồ nào đó. Lão gầy gò, da nhăn nheo như vỏ cây cổ thụ, đôi mắt hẹp dài ánh lên tia nhìn sắc lạnh như dao cạo.
+Một làn khói mờ ảo bốc lên, nhanh chóng bị gió cuốn đi nhưng đã kịp lọt vào trong chòi.
 
-Ta quỳ xuống, dập đầu sát đất. "Đệ tử tham kiến Sư Tôn."
+"Mùi gì thế này?" Một tên lính khụt khịt mũi.
 
-"Sư Tôn?" Lão cười khẩy, tiếng cười như tiếng móng tay cào lên bảng đá. "Ngươi chưa xứng đáng gọi ta là Sư Tôn. Ngươi chỉ là một con tốt thí nghiệm may mắn sống sót mà thôi."
+"Chắc là mùi rượu thối của ngươi... oáp..." Tên kia ngáp dài một cái, rồi gục đầu xuống bàn.
 
-Ta im lặng. Ta biết lão nói đúng. Ở Vạn Độc Môn, mạng sống rẻ mạt như cỏ rác.
+Chỉ vài nhịp thở sau, cả hai tên lính đều ngáy khò khò.
 
-Lão phất tay. Một cái vạc lớn đặt giữa hang bỗng nhiên sôi sùng sục. Chất lỏng bên trong có màu xanh đen, tỏa ra làn khói tím ngắt.
+Ta và A Mộc nhanh chóng lẻn qua cổng, lao vào rừng rậm.
 
-"Nhảy vào," lão ra lệnh ngắn gọn.
+Rừng Cấm trong đêm mưa bão càng trở nên đáng sợ. Cây cối ngả nghiêng, cành gãy răng rắc. Đất dưới chân trơn trượt như bôi mỡ. Nhưng A Mộc vẫn đi thoăn thoắt như một con báo. Hắn dường như biết rõ từng gốc cây, từng hòn đá ở đây.
 
-Ta ngẩng đầu nhìn cái vạc. Nhiệt độ tỏa ra từ đó đủ để làm cháy sém lông mày ta. Mùi độc dược xộc vào mũi khiến ta choáng váng.
+Ta bám sát theo hắn, trong lòng không khỏi thắc mắc. Tại sao một tên tạp dịch lại thông thạo đường đi nước bước trong khu rừng này đến thế? Hắn nói hắn đi tìm thức ăn, nhưng đi xa thế này vào rừng cấm thì quả là liều mạng.
 
-"Sợ chết?" Lão Quái nhếch mép. "Nếu không dám, ngươi có thể quay lại làm thức ăn cho lũ rắn ngoài kia."
+"A Mộc," ta gọi nhỏ, cố gắng át tiếng mưa. "Còn bao xa nữa?"
 
-Ta đứng dậy, cởi bỏ bộ áo choàng đen, để lộ cơ thể gầy gò đầy sẹo. Ta bước đến bên cái vạc, không một chút do dự.
+A Mộc quay lại, chỉ tay về phía một vách núi dựng đứng trước mặt, bị dây leo phủ kín.
 
-Chết? Ta đã chết một lần ở Huyết Trì rồi. Cái chết bây giờ đối với ta chẳng qua chỉ là một giấc ngủ dài.
+Chúng ta đến nơi.
 
-Ta trèo lên thành vạc, nhắm mắt lại và nhảy xuống.
+A Mộc vạch đám dây leo dày đặc ra, để lộ một khe nứt nhỏ vừa đủ một người chui lọt. Hơi lạnh từ bên trong phả ra, mang theo mùi ẩm mốc của đất đá lâu ngày không thấy ánh sáng.
 
-*Xèo!*
+Ta định bước vào, nhưng bỗng nhiên khựng lại.
 
-Da thịt ta như bị tẩm axit. Cơn đau khủng khiếp ập đến, xé toạc từng dây thần kinh. Ta muốn hét lên, nhưng cổ họng ta như bị bóp nghẹt. Ta vùng vẫy trong tuyệt vọng, cảm nhận từng tấc da thịt mình đang tan chảy.
+Đám dây leo này... có gì đó không đúng.
 
-Nhưng rồi, một luồng khí lạnh buốt chạy dọc sống lưng ta, đối chọi với sức nóng thiêu đốt của độc dược. Đó là luồng khí ta hấp thụ được từ con rết ở Huyết Trì. Hai luồng khí nóng lạnh giao tranh trong cơ thể ta, biến ta thành một bãi chiến trường.
+Dây leo *Quỷ Kiến Sầu* thường bám rất chặt vào đá, phải dùng dao mới cắt đứt được. Nhưng đám dây leo ở đây lại lỏng lẻo, như thể đã có ai đó gỡ chúng ra rồi đắp lại một cách vội vàng.
 
-Ta cắn chặt môi đến bật máu, cố gắng giữ cho mình tỉnh táo. Ta không thể chết ở đây. Ta phải sống. Ta phải sống để trả thù cho Tiểu Lan, trả thù cho chính bản thân mình.
+"A Mộc," ta giữ tay hắn lại, ánh mắt nghi ngờ. "Đám dây leo này... sao lại lỏng lẻo thế?"
 
-Qua làn khói mờ ảo, ta thấy Độc Cô Lão Quái đang nhìn mình chằm chằm. Trong ánh mắt lão không có sự thương xót, chỉ có sự tò mò của một kẻ điên đang quan sát thí nghiệm của mình.
+A Mộc nhìn ta, đôi mắt thoáng bối rối. Rồi hắn nhanh chóng khoa tay múa chân, diễn tả hành động của một con gấu hay con lợn rừng nào đó đã húc vào đây tìm chỗ trú ẩn.
 
-"Tốt," lão lầm bầm. "Ý chí khá lắm. Xem ra ngươi chịu được 'Vạn Độc Phệ Thân' cấp một."
+Ta nhìn hắn chằm chằm. Lời giải thích có vẻ hợp lý. Trong rừng này đầy rẫy thú dữ.
 
-Ta không nghe rõ lão nói gì nữa. Ý thức ta dần chìm vào bóng tối. Điều cuối cùng ta nhớ được là nụ cười méo mó trên khuôn mặt lão già ấy.
+Nhưng linh tính mách bảo ta có điều gì đó không ổn.
 
-Địa ngục thực sự... bây giờ mới bắt đầu.
+"Đi thôi," A Mộc kéo tay ta, vẻ mặt hối thúc. Hắn chỉ lên trời, ý bảo cơn bão sắp tạnh và lính canh sẽ sớm phát hiện ra chúng ta.
+
+Ta gạt bỏ sự nghi ngờ trong đầu. Đã đến nước này rồi, không thể quay lại được nữa.
+
+"Được. Vào thôi."
+
+Ta hít sâu một hơi, chui vào khe nứt tối tăm. A Mộc theo sát phía sau.
+
+Bóng tối nuốt chửng lấy hai chúng ta. Ta không biết rằng, mình vừa bước chân vào một cái bẫy đã được giăng sẵn từ lâu. Và người bạn thân thiết nhất của ta... đang dẫn ta đi thẳng vào chỗ chết.

@@ -2,10 +2,10 @@
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00014_Bẫy_Rập_Rừng_Sương.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00016_Người_Bạn_Câm.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00016_Thanh_Trừng_Nội_Bộ.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00018_Giấc_Mơ_Tự_Do.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
@@ -23,19 +23,27 @@
 <li style="padding: 5px; "><a href="Chương_00010_Phần_Thưởng_Và_Cái_Giá.html">Chương 10: Phần Thưởng Và Cái Giá</a></li>
 <li style="padding: 5px; "><a href="Chương_00011_Vạn_Độc_Phệ_Thân.html">Chương 11: Vạn Độc Phệ Thân</a></li>
 <li style="padding: 5px; "><a href="Chương_00012_Ngục_Tù_Tâm_Trí.html">Chương 12: Ngục Tù Tâm Trí</a></li>
-<li style="padding: 5px; "><a href="Chương_00013_Huyết_Độc_Phiến.html">Chương 13: Huyết Độc Phiến</a></li>
-<li style="padding: 5px; "><a href="Chương_00014_Bẫy_Rập_Rừng_Sương.html">Chương 14: Bẫy Rập Rừng Sương</a></li>
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00015_Diệt_Môn_Chi_Họa.html">Chương 15: Diệt Môn Chi Họa</a></li>
-<li style="padding: 5px; "><a href="Chương_00016_Thanh_Trừng_Nội_Bộ.html">Chương 16: Thanh Trừng Nội Bộ</a></li>
-<li style="padding: 5px; "><a href="Chương_00017_Mệnh_Lệnh_Bóng_Tối.html">Chương 17: Mệnh Lệnh Bóng Tối</a></li>
-<li style="padding: 5px; "><a href="Chương_00018_Thí_Nghiệm_Máu.html">Chương 18: Thí Nghiệm Máu</a></li>
-<li style="padding: 5px; "><a href="Chương_00019_Ván_Cờ_Huyết_Độc.html">Chương 19: Ván Cờ Huyết Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00020_Truy_Vết_Tử_Thần.html">Chương 20: Truy Vết Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00021_Dưới_Bóng_Hắc_Sa.html">Chương 21: Dưới Bóng Hắc Sa</a></li>
-<li style="padding: 5px; "><a href="Chương_00022_Mạng_Lưới_Tử_Thần.html">Chương 22: Mạng Lưới Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00023_Huyết_Tế_Sa_Mạc.html">Chương 23: Huyết Tế Sa Mạc</a></li>
-<li style="padding: 5px; "><a href="Chương_00024_Con_Mồi_Vào_Rọ.html">Chương 24: Con Mồi Vào Rọ</a></li>
-<li style="padding: 5px; "><a href="Chương_00025_Sát_Ý_Rừng_Gai.html">Chương 25: Sát Ý Rừng Gai</a></li>
+<li style="padding: 5px; "><a href="Chương_00013_Thuốc_Giải_Của_Quỷ.html">Chương 13: Thuốc Giải Của Quỷ</a></li>
+<li style="padding: 5px; "><a href="Chương_00014_Lột_Xác_Lần_Đầu.html">Chương 14: Lột Xác Lần Đầu</a></li>
+<li style="padding: 5px; "><a href="Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html">Chương 15: Ánh Mắt Của Sư Phụ</a></li>
+<li style="padding: 5px; "><a href="Chương_00016_Người_Bạn_Câm.html">Chương 16: Người Bạn Câm</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00017_Những_Bữa_Ăn_Vụng_Trộm.html">Chương 17: Những Bữa Ăn Vụng Trộm</a></li>
+<li style="padding: 5px; "><a href="Chương_00018_Giấc_Mơ_Tự_Do.html">Chương 18: Giấc Mơ Tự Do</a></li>
+<li style="padding: 5px; "><a href="Chương_00019_Kế_Hoạch_Đào_Tẩu.html">Chương 19: Kế Hoạch Đào Tẩu</a></li>
+<li style="padding: 5px; "><a href="Chương_00020_Đêm_Mưa_Bão.html">Chương 20: Đêm Mưa Bão</a></li>
+<li style="padding: 5px; "><a href="Chương_00031_Huyết_Độc_Phiến.html">Chương 31: Huyết Độc Phiến</a></li>
+<li style="padding: 5px; "><a href="Chương_00033_Bẫy_Rập_Rừng_Sương.html">Chương 2.2: Bẫy Rập Rừng Sương</a></li>
+<li style="padding: 5px; "><a href="Chương_00036_Diệt_Môn_Chi_Họa.html">Chương 2.5: Diệt Môn Chi Họa</a></li>
+<li style="padding: 5px; "><a href="Chương_00039_Thanh_Trừng_Nội_Bộ.html">Chương 2.8: Thanh Trừng Nội Bộ</a></li>
+<li style="padding: 5px; "><a href="Chương_00061_Mệnh_Lệnh_Bóng_Tối.html">Chương 3: Mệnh Lệnh Bóng Tối</a></li>
+<li style="padding: 5px; "><a href="Chương_00062_Thí_Nghiệm_Máu.html">Chương 4: Thí Nghiệm Máu</a></li>
+<li style="padding: 5px; "><a href="Chương_00063_Ván_Cờ_Huyết_Độc.html">Chương 5: Ván Cờ Huyết Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00064_Truy_Vết_Tử_Thần.html">Chương 6: Truy Vết Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00065_Dưới_Bóng_Hắc_Sa.html">Chương 7: Dưới Bóng Hắc Sa</a></li>
+<li style="padding: 5px; "><a href="Chương_00066_Huyết_Tế_Sa_Mạc.html">Chương 8: Huyết Tế Sa Mạc</a></li>
+<li style="padding: 5px; "><a href="Chương_00067_Sát_Ý_Rừng_Gai.html">Chương 9: Sát Ý Rừng Gai</a></li>
+<li style="padding: 5px; "><a href="Chương_00068_Mạng_Lưới_Tử_Thần.html">Chương 10: Mạng Lưới Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00069_Con_Mồi_Vào_Rọ.html">Chương 11: Con Mồi Vào Rọ</a></li>
 </ul>
 </details>
 <div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
@@ -59,7 +67,7 @@
     var contentElements = [];
 
     // Next chapter URL
-    var nextChapterUrl = "Chương_00016_Thanh_Trừng_Nội_Bộ.html";
+    var nextChapterUrl = "Chương_00018_Giấc_Mơ_Tự_Do.html";
 
     function getReadableElements() {
         // Collect all paragraph-like elements in the body
@@ -228,88 +236,66 @@
 
 </div>
 <!-- NAVIGATION_END -->
-# Chương 15: Diệt Môn Chi Họa
+# Chương 17: Những Bữa Ăn Vụng Trộm
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Địa điểm:** Lý Gia (Biên giới Nam Cương).
-**Thời điểm:** 8 năm trước (Lệ Vô Tâm 20 tuổi).
+**Địa điểm:** Vạn Độc Môn - Góc khuất Dược Điền.
+**Thời điểm:** Vài tháng sau khi gặp A Mộc (Lệ Vô Tâm 15 tuổi).
 **Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ).
 
 ---
 
-Ánh trăng đêm rằm tròn vành vạnh, soi rọi xuống tòa phủ đệ nguy nga của Lý Gia, gia tộc tu tiên giàu có nhất vùng biên giới Nam Cương. Tiếng đàn sáo réo rắt, tiếng cười nói rộn ràng vọng ra từ đại sảnh, nơi đang diễn ra yến tiệc mừng thọ lão tổ Lý Gia tròn 200 tuổi.
+Gió đông bắc bắt đầu thổi về, mang theo cái lạnh thấu xương của núi cao. Ở khu Dược Điền, sương muối phủ trắng xóa lên những tán lá *Huyết Mộc*, khiến chúng càng thêm đỏ rực như máu đông.
 
-Ta đứng trên mái ngói cong vút của cổng chính, chiếc [Huyết Độc Phiến](../../Luyện_Khí/Huyết_Độc_Phiến.md) phe phẩy trên tay. Gió đêm thổi tung tà áo tím than thêu hoa văn độc trùng, nhưng không thể xua tan được mùi rượu nồng nặc và... mùi chết chóc đang đến gần.
+Ta co ro trong chiếc áo choàng mỏng manh, cố gắng che chắn ngọn lửa nhỏ nhoi vừa nhóm được. Bên cạnh ta, A Mộc đang ngồi xoa hai bàn tay nứt nẻ vào nhau, miệng xuýt xoa vì lạnh.
 
-"Lý Gia..." Ta lẩm bẩm, khóe môi nhếch lên một nụ cười lạnh. "Hưởng lạc thế là đủ rồi."
+"Ăn đi," ta bẻ đôi củ khoai nướng cháy sém, đưa phần lớn hơn cho hắn.
 
-Lý do ta đến đây? Đơn giản thôi. Ba tháng trước, đoàn xe chở cống phẩm của Vạn Độc Môn đi ngang qua địa bàn Lý Gia đã bị chặn lại. Lũ ngu xuẩn này dám đòi tiền mãi lộ, thậm chí còn đánh trọng thương đệ tử áp tải.
+A Mộc lắc đầu, đẩy tay ta lại, ý bảo ta ăn trước.
 
-Độc Cô Lão Quái không nói gì, chỉ ném cho ta một cái nhìn sắc lẹm: *"Vô Tâm, thể diện của tông môn, ngươi tự biết phải làm gì."*
+"Ta không đói. Ngươi gầy như que củi thế kia, không ăn thì lấy sức đâu mà làm việc," ta gắt gỏng, dúi củ khoai vào tay hắn.
 
-Thể diện. Hai chữ đó nặng ngàn cân. Và cái giá để rửa sạch nó phải trả bằng máu.
+A Mộc nhìn ta, đôi mắt đen láy ánh lên vẻ biết ơn. Hắn cắn một miếng nhỏ, rồi lại bẻ một nửa phần của mình, đưa lại cho ta.
 
-Ta nhảy xuống sân trước, nhẹ nhàng như một chiếc lá rơi. Hai tên lính gác cổng còn chưa kịp nhìn thấy bóng dáng ai đã ngã gục, cổ họng trào máu đen.
+Ta thở dài, nhận lấy. "Ngươi thật cứng đầu."
 
-"Ai đó?!"
+Chúng ta ngồi ăn trong im lặng. Tiếng gió rít qua khe đá, tiếng củi nổ lách tách, và tiếng nhai nhóp nhép của hai kẻ đói khát. Đó là những âm thanh bình yên nhất mà ta từng nghe ở cái nơi địa ngục này.
 
-Tiếng hô hoán vang lên. Một đội tuần tra mười người lao tới, đao kiếm sáng loáng.
+A Mộc không biết nói, nhưng hắn rất biết lắng nghe. Mỗi tối, sau khi hoàn thành công việc, chúng ta lại lén lút trốn vào hang đá nhỏ này để sưởi ấm và chia sẻ chút thức ăn ít ỏi mà hắn kiếm được.
 
-"Khách không mời mà đến," ta đáp, giọng bình thản nhưng vang vọng khắp sân. "Mang quà mừng thọ đến cho Lý lão tổ đây."
+Hắn có một biệt tài kỳ lạ: tìm kiếm thức ăn. Dù là trong bụi rậm đầy gai, hay dưới lớp tuyết dày, hắn luôn tìm được những quả dại, củ rừng, hay thậm chí là trứng chim. Hắn biết loại nào ăn được, loại nào có độc. Đôi khi, ta tự hỏi liệu hắn có phải là một thiên tài bẩm sinh về thảo dược hay không.
 
-Ta phất tay áo. Một làn khói màu hồng phấn bay ra, thơm ngát mùi hoa đào.
+"A Mộc," ta gọi.
 
-[Mê Hồn Hương](../../Kỳ_Vật/Mê_Hồn_Hương.md).
+Hắn ngẩng đầu lên, miệng vẫn còn dính lọ lem.
 
-Đám lính hít phải hương thơm, mắt đờ đẫn, tay buông lỏng vũ khí. Chúng bắt đầu cười ngây dại, rồi quay sang chém giết lẫn nhau trong cơn ảo giác. Tiếng la hét thảm thiết xé toạc màn đêm yên tĩnh.
+"Ngươi có muốn học võ không?"
 
-"Dừng tay!"
+Đôi mắt hắn mở to, ngạc nhiên. Hắn lắc đầu nguầy nguậy, xua tay lia lịa. Trong Vạn Độc Môn, tạp dịch học lén võ công là trọng tội, nhẹ thì bị cắt gân tay, nặng thì bị ném vào hầm rắn.
 
-Một tiếng quát uy lực vang lên từ đại sảnh. Một lão già râu tóc bạc phơ, mặc áo gấm thêu rồng, bay vút ra. Theo sau là hàng chục tu sĩ Trúc Cơ kỳ của Lý Gia.
+"Đừng sợ," ta hạ giọng thì thầm. "Không ai biết đâu. Ta sẽ dạy ngươi những chiêu đơn giản nhất để phòng thân. Ít nhất... khi bị đánh, ngươi cũng biết cách đỡ để không bị gãy xương."
 
-Lý Thiên Bá - Gia chủ Lý Gia, Trúc Cơ Hậu Kỳ.
+A Mộc nhìn ta, do dự. Rồi hắn nhìn xuống đôi bàn tay chai sạn đầy vết sẹo của mình. Hắn gật đầu.
 
-"Ngươi là kẻ nào? Dám đến Lý Gia ta làm loạn?" Lão trừng mắt nhìn ta, sát khí đằng đằng.
+Ta mỉm cười. Đó là nụ cười thật lòng đầu tiên của ta sau bao nhiêu năm.
 
-Ta mỉm cười, chắp tay thi lễ một cách nho nhã: "Vạn Độc Môn, Lệ Vô Tâm. Nghe danh Lý Gia đã lâu, nay đặc biệt đến... tiễn đưa."
+Ta bắt đầu dạy hắn bộ pháp di chuyển cơ bản của *Vạn Độc Chân Kinh*. Tất nhiên, ta không dám dạy hắn cách vận khí, vì điều đó đòi hỏi linh căn và sự hướng dẫn của sư phụ. Ta chỉ dạy hắn cách di chuyển linh hoạt, cách né tránh đòn tấn công, và cách sử dụng con dao găm cùn mà ta tặng hắn.
 
-"Vạn Độc Môn?!"
+A Mộc học rất nhanh. Cơ thể hắn tuy gầy gò nhưng lại rất dẻo dai. Hắn có thể uốn người tránh né như một con rắn nước.
 
-Sắc mặt Lý Thiên Bá biến đổi. Cái tên này ở Nam Cương đồng nghĩa với tai ương. Nhưng ỷ vào số đông và tu vi cao hơn, lão vẫn cứng giọng: "Tiểu tử cuồng vọng! Một mình ngươi dám chống lại cả Lý Gia ta sao? Giết hắn!"
+Đêm đó, sau buổi tập, chúng ta nằm dài trên nền đá lạnh lẽo, nhìn lên bầu trời đầy sao qua kẽ nứt trên trần hang.
 
-Cả đám tu sĩ lao lên, pháp bảo bay rợp trời. Kiếm khí, đao quang, hỏa cầu... tất cả nhắm thẳng vào ta.
+A Mộc chỉ tay lên một ngôi sao sáng nhất, rồi vẽ lên mặt đất hình một con chim đang bay.
 
-Ta không hề nao núng. Ta mở Huyết Độc Phiến, vận chuyển [Vạn Độc Phệ Hồn Quyết](../../Công_Pháp/Vạn_Độc_Phệ_Hồn_Quyết.md).
+"Ngươi muốn bay sao?" Ta hỏi.
 
-"Vạn Độc... Phệ Tâm!"
+Hắn gật đầu, rồi lại lắc đầu. Hắn vẽ thêm một cái lồng bao quanh con chim.
 
-Từ chiếc quạt, hàng ngàn con Cổ trùng vô hình bay ra, lách qua khe hở của pháp bảo, chui tọt vào cơ thể đối phương.
+Ta hiểu ý hắn. Hắn muốn tự do.
 
-*Á á á!*
+"Một ngày nào đó," ta thì thầm, "chúng ta sẽ phá vỡ cái lồng này. Ta hứa với ngươi."
 
-Tiếng kêu la thảm thiết vang lên liên hồi. Những kẻ trúng chiêu ôm ngực lăn lộn dưới đất, mặt mày tím tái, thất khiếu chảy máu. Tim bọn chúng đang bị Cổ trùng gặm nhấm từng chút một.
+A Mộc quay sang nhìn ta, mỉm cười. Nụ cười của hắn trong sáng và thuần khiết đến mức khiến ta cảm thấy đau lòng.
 
-Lý Thiên Bá kinh hoàng nhìn cảnh tượng trước mắt. Đám con cháu, đệ tử tinh anh của lão ngã rạ như ngả rạ chỉ sau một chiêu.
-
-"Ngươi... ngươi là quỷ dữ!"
-
-Lão gầm lên, tế ra một thanh phi kiếm thượng phẩm, định liều chết với ta.
-
-Nhưng ta đã nhanh hơn.
-
-*Vút!*
-
-Một bóng đỏ lướt qua. Con [Thiên Tinh Cổ](../../Kỳ_Vật/Thiên_Tinh_Cổ.md) bản mệnh của ta đã cắn phập vào cổ lão.
-
-"Ư..."
-
-Lý Thiên Bá cứng đờ người, thanh kiếm rơi xuống đất *keng* một tiếng. Độc tố lan nhanh, biến lão thành một bức tượng máu sống động.
-
-Ta bước tới gần, nhìn vào đôi mắt đang dần mất đi sự sống của lão.
-
-"Kiếp sau nhớ kỹ," ta thì thầm vào tai lão. "Đừng bao giờ động vào đồ của Vạn Độc Môn."
-
-Đêm hôm đó, Lý Gia diệt môn. Máu chảy thành sông, nhuộm đỏ cả sân gạch trắng. Ta đứng giữa biển xác chết, phe phẩy chiếc quạt xương, cảm thấy lòng bình thản đến lạ lùng.
-
-Từ nay về sau, cái tên [Huyết Thủ Thư Sinh] sẽ vang danh khắp Nam Cương. Và không kẻ nào dám coi thường Lệ Vô Tâm ta nữa.
+Ta thầm thề với bản thân, dù có phải trả giá bằng tính mạng, ta cũng sẽ đưa hắn rời khỏi đây. Bởi vì hắn là người duy nhất trên thế giới này khiến ta cảm thấy mình vẫn còn là một con người.
