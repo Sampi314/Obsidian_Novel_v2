@@ -1,22 +1,24 @@
-# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-03-07)
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-03-31)
 
 ## 1. TỔNG QUAN
 - **Agent:** Tổng Quản (Jules).
-- **Mục tiêu:** Viết tiếp mạch truyện sau khi tiêu diệt Lang Vương, đưa nhóm nhân vật vào Vùng Đất Chết.
+- **Mục tiêu:** Viết tiếp mạch truyện Arc 2 "Huyết Thủ Thư Sinh" cho Lệ Vô Tâm (Chương 54, 55, 56).
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
-  - `Đạo/Thế_Giới_Và_Thời_Gian/Vùng_Đất_Chết.md`: Hồ sơ địa danh mới, mô tả vùng đất bị ảnh hưởng bởi Địa Sát.
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00039_Vùng_Đất_Chết.md`: Chương tiếp nối, nhóm nhân vật đối mặt với Vong Linh.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00054_Thí_Nghiệm_Trên_Người_Sống.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00055_Đột_Phá_Trúc_Cơ_Trung_Kỳ.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00056_Sự_Ghen_Ghét_Của_Đồng_Môn.md`
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm chương 39 và địa danh mới vào danh sách.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ Arc và trạng thái nhân vật.
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 3 chương mới.
+  - `.jules_memory/session_log_2026_03_31_le_vo_tam_arc2.md`: Ghi chép chi tiết của phiên này.
   - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi log hoạt động.
+  - Chạy test script và cập nhật điều hướng.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
-- **Tiến độ:** Cốt truyện đang ở cao trào Arc Vượt Rừng Huyết Độc, chuyển sang giai đoạn khám phá Vùng Đất Chết / Hang Động Nhện Quỷ (phiên bản Địa Sát).
-- **Chất lượng:** Nội dung nhất quán với sự kiện Long Cốt vỡ (Chương 30).
+- **Tiến độ:** Cốt truyện đang ở giai đoạn Lệ Vô Tâm dần chiếm được quyền lực trong Vạn Độc Môn. Hắn vừa đột phá Trúc Cơ Trung Kỳ, khơi dậy sát ý từ các đệ tử chân truyền khác.
+- **Chất lượng:** Nội dung bám sát outline Arc 2.
 
 ## 4. KẾ HOẠCH TIẾP THEO
-- Viết Chương 40: Trận chiến với Vong Linh và tiến sâu vào Hang Động.
-- Cập nhật hồ sơ quái vật: Vong Linh, Biến Dị Nhện (nếu cần).
+- Viết Chương 57: Cái Bẫy Liên Hoàn. Mô tả trận chiến sống còn trong Vạn Tinh Tuyệt Sát Trận tại Quỷ Khốc Cốc.
+- Cập nhật hồ sơ trận pháp nếu cần.
