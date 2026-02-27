@@ -222,6 +222,8 @@
     - *Huyết Linh Chi:* Linh thảo hệ Huyết mọc trên rễ Huyết Mộc cổ thụ, có khả năng hồi phục khí huyết và giải độc. Xem tại `Đạo/Kỳ_Vật/Huyết_Linh_Chi.md`.
     - *Huyết Vệ:* Tu sĩ bị Vạn Độc Môn cải tạo thành cỗ máy giết chóc, vô cảm và có sức mạnh thể chất kinh hồn. Xem tại `Đạo/Kỳ_Vật/Huyết_Vệ.md`.
     - *Huyết Nha:* Quạ biến dị nhiễm Huyết Thần Độc, đóng vai trò trinh sát của Vạn Độc Môn. Xem tại `Đạo/Kỳ_Vật/Huyết_Nha.md`.
+    - *Thủy Cổ:* Loài ký sinh trùng hệ Thủy, gác cổng cho Ám Đạo của Vạn Độc Môn. Xem tại `Đạo/Kỳ_Vật/Thủy_Cổ.md`.
+    - *Sa Bạo Cổ:* Cổ Trùng hệ Thổ-Phong tạo bão cát, vũ khí bí mật của Hứa Nhược Thủy. Xem tại `Đạo/Kỳ_Vật/Sa_Bạo_Cổ.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -312,6 +314,7 @@
     - [Chương 57: Huyết Chiến Ngô Công](Chương_Truyện/Góc_Nhìn_Chính/Chương_00057_Huyết_Chiến_Ngô_Công.md)
     - [Chương 58: Giao Ước Trong Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00058_Giao_Ước_Trong_Bóng_Tối.md)
     - [Chương 59: Lối Mòn Trong Lòng Đất](Chương_Truyện/Góc_Nhìn_Chính/Chương_00059_Lối_Mòn_Trong_Lòng_Đất.md)
+    - [Chương 60: Hỗn Loạn Tại Kho Chứa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00060_Hỗn_Loạn_Tại_Kho_Chứa.md)
 - **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
     - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
         - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
@@ -327,6 +330,8 @@
         - [Chương 1: Cơ Duyên Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00001_Cơ_Duyên_Rừng_Thẳm.md) (Quá khứ 6 năm trước)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 60 - Hỗn Loạn Tại Kho Chứa.
+- Tạo Kỳ vật: Thủy Cổ & Sa Bạo Cổ.
 - Viết Chương Truyện: Chương 59 - Lối Mòn Trong Lòng Đất.
 - Cập nhật Thế lực: Vạn Độc Môn (Thêm Kho Chứa Ngầm).
 - Cập nhật Nhân vật: Hứa Nhược Thủy (Thêm quá khứ buôn lậu).

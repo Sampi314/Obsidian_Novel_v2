@@ -107,3 +107,4 @@
 | 2026-03-20 | Tổng Quản | Viết Chương 57: Huyết Chiến Ngô Công | Hoàn Thành | Cuộc chiến Boss đầu tiên trong lòng đất, cập nhật hồ sơ Ngô Công và Vạn Độc Môn. |
 | 2026-03-21 | Tổng Quản | Cập nhật Lore Huyết Mạch & Viết Chương 58 | Hoàn Thành | Cập nhật Huyết Mạch Thượng Cổ, Ngô Công, Mộc Linh Trận Địa và viết Chương 58. |
 | 2026-03-22 | Tổng Quản | Viết Chương 59 & Cập Nhật Lore Vạn Độc | Hoàn Thành | Viết Chương 59, thêm Kho Chứa Ngầm vào Vạn Độc Môn và quá khứ vào Hứa Nhược Thủy. |
+| 2026-03-23 | Tổng Quản | Viết Chương 60 & Tạo Kỳ Vật | Hoàn Thành | Viết Chương 60, tạo Kỳ Vật Thủy Cổ & Sa Bạo Cổ. |
