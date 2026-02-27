@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tuyến Truyện & Kế Hoạch - Cố Nguyên Giới</title>
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --secondary-color: #2c3e50;
+            --bg-color: #f4f4f9;
+            --card-bg: #ffffff;
+            --text-color: #333333;
+            --border-color: #e0e0e0;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: var(--secondary-color);
+            text-align: center;
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: var(--primary-color);
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 5px;
+            margin-top: 40px;
+        }
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: #7f8c8d;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        .back-link:hover {
+            color: var(--primary-color);
+        }
+        .arcs-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .arc-card {
+            background: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            padding: 20px;
+            border-left: 5px solid var(--primary-color);
+            transition: transform 0.2s;
+        }
+        .arc-card:hover {
+            transform: translateY(-5px);
+        }
+        .arc-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: var(--secondary-color);
+            margin-bottom: 10px;
+        }
+        .arc-meta {
+            font-size: 0.9em;
+            color: #555;
+            margin-bottom: 15px;
+        }
+        .arc-meta strong {
+            color: var(--secondary-color);
+        }
+        .arc-tasks {
+            margin: 0;
+            padding-left: 20px;
+            font-size: 0.95em;
+        }
+        .arc-tasks li {
+            margin-bottom: 8px;
+        }
+        .completed {
+            color: #27ae60;
+            text-decoration: line-through;
+            opacity: 0.8;
+        }
+        .in-progress {
+            color: #e67e22;
+            font-weight: 500;
+        }
+        .future {
+            color: #2980b9;
+        }
+        .table-wrapper {
+            overflow-x: auto;
+            background: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            padding: 20px;
+            margin-top: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid var(--border-color);
+        }
+        th {
+            background-color: var(--bg-color);
+            color: var(--secondary-color);
+            font-weight: 600;
+        }
+        tr:hover {
+            background-color: var(--bg-color);
+        }
+        .footer {
+            margin-top: 50px;
+            text-align: center;
+            font-size: 0.9em;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <h1>Tuyến Truyện & Kế Hoạch (Story Planner)</h1>
+
+<h2>Arc Hiện Tại</h2>
+<div class="arcs-grid">
+   <div class="arc-card">
+       <div class="arc-title">Góc Nhìn Chính (Main Story)</div>
+       <div class="arc-meta">
+           <div><strong>Tên Arc:</strong> Khởi Đầu & Lưu Sa Phế Tích.</div>
+           <div><strong>Trạng Thái:</strong> Đang diễn ra.</div>
+           <div><strong>NV Chính:</strong> Diệp Tĩnh Sương, Lâm Phong.</div>
+           <div><strong>NV Phụ:</strong> Hứa Nhược Thủy, Hứa Thanh Vân.</div>
+       </div>
+       <strong>Mục Tiêu & Tiến Độ:</strong>
+       <ul class="arc-tasks">
+           <li class="completed">Khám phá bí mật Hoàng Sa Địa Cung (Khu vực Thâm Cung) (Đã hoàn thành).</li>
+           <li class="completed">Tìm thuốc chữa độc cho Hứa Nhược Thủy (Sa Sương hoặc Long Cốt chi lực) (Đã hoàn thành).</li>
+           <li class="completed">Vượt qua thử thách của Hộ Pháp Tinh Linh Lục Ly để tiếp cận Long Cốt (Đã hoàn thành).</li>
+           <li class="completed">Dùng Thủy Linh Châu và Long Cốt để chữa trị/trấn áp độc tố (Đã hoàn thành).</li>
+           <li class="in-progress">**Sự Kiện Mới:** Phong ấn Long Cốt bị vỡ, Địa Sát thức tỉnh.</li>
+           <li class="completed">**Nhiệm Vụ:** Thoát khỏi Hoàng Sa Địa Cung đang sụp đổ và trở lại mặt đất (Đã hoàn thành chương 30).</li>
+           <li class="in-progress">**Sự Kiện Mới:** Hắc Sa Bão trỗi dậy do dư chấn Địa Sát.</li>
+           <li class="completed">**Nhiệm Vụ Hiện Tại:** Sinh tồn trong Rừng Xương Rồng Thiên Trụ, khám phá bí mật của "Pháo Đài Xanh" (Hoàn thành - Chương 34).</li>
+           <li class="in-progress">**Sự Kiện Mới:** Tìm thấy Pháo Đài Xanh, phát hiện manh mối về hệ thống trấn áp Địa Mạch (Long Cốt - Pháo Đài Xanh - Nam Cương).</li>
+           <li class="completed">**Tiếp Theo:** Tìm đường hầm bí mật xuyên qua bão cát để đến biên giới Nam Cương (Hoàn thành - Chương 35).</li>
+           <li class="in-progress">**Sự Kiện Mới:** Chính thức bước vào Nam Cương, đối mặt với môi trường khắc nghiệt và sự truy sát của Vạn Độc Môn.</li>
+           <li class="in-progress">**Nhiệm Vụ Hiện Tại:** Vượt qua Rừng Huyết Độc (Đang diễn ra - Chương 38: Tiêu diệt Lang Vương, tiến vào "Vùng Đất Chết").</li>
+           <li class="in-progress">**Sự Kiện Mới:** Tiến vào Vùng Đất Chết, đối mặt với tử khí và vong linh do Địa Sát thao túng.</li>
+           <li class="completed">**Nhiệm Vụ Hiện Tại:** Sinh tồn trong Vùng Đất Chết và tìm lối vào Hang Động Nhện Quỷ (Hoàn thành - Chương 40).</li>
+           <li class="in-progress">**Sự Kiện Mới:** Tiến vào Hang Động Nhện Quỷ, thoát khỏi bầy Vong Linh nhưng rơi vào hang ổ của quái vật.</li>
+           <li class="completed">**Nhiệm Vụ Hiện Tại:** Khám phá lại hệ thống hang động, đối mặt với Nhện Mặt Quỷ (Hoàn thành - Chương 41).</li>
+           <li class="in-progress">**Sự Kiện Mới:** Bị vây hãm bởi Huyết Nhện Chúa, chiến đấu sinh tử và phá vỡ trần hang để thoát thân.</li>
+           <li class="completed">**Nhiệm Vụ Hiện Tại:** Thoát khỏi Hang Động Nhện Quỷ, trở lại mặt đất (Hoàn thành - Chương 42).</li>
+           <li class="in-progress">**Sự Kiện Mới:** Trở lại Rừng Huyết Độc nhưng nhận thấy sự biến đổi do Địa Sát lan rộng.</li>
+           <li class="future">**Nhiệm Vụ Tiếp Theo:** Tìm nơi an toàn để hồi phục và định hướng trở về biên giới Nam Cương.</li>
+           <li class="in-progress">**Sự Kiện Mới:** Phát hiện đường xuống Mạch Ngầm bị sập, bị vây hãm bởi Nhện Chúa và ổ trứng.</li>
+           <li class="completed">**Nhiệm Vụ Hiện Tại:** Tìm lối thoát hiểm qua khe nứt trên cao, chiến đấu mở đường máu (Hoàn thành - Chương 42).</li>
+           <li class="in-progress">**Sự Kiện Mới:** Thoát khỏi Hang Động Nhện Quỷ, trở lại mặt đất Rừng Huyết Độc (Vùng Đất Chết).</li>
+           <li class="completed">**Nhiệm Vụ Hiện Tại:** Tìm nơi ẩn náu và chữa trị cho Hứa Nhược Thủy bằng Huyết Linh Chi (Hoàn thành - Chương 43).</li>
+           <li class="in-progress">**Sự Kiện Mới:** Tìm thấy Huyết Linh Chi, tạm thời thoát khỏi sự truy sát của bầy nhện.</li>
+           <li class="in-progress">**Sự Kiện Mới:** Chữa trị thành công cho Hứa Nhược Thủy tại Vùng Đất Chết (Chương 44 - Ánh Sáng Và Bóng Tối).</li>
+           <li class="in-progress">**Sự Kiện Mới:** Vạn Độc Huyết Tế Đại Trận kích hoạt, nhóm nhân vật chính rơi vào vòng vây.</li>
+           <li class="in-progress">**Nhiệm Vụ Hiện Tại:** Phá vòng vây và tìm đường thoát khỏi đại trận đang co lại (Chương 45, 46).</li>
+           <li class="future">**Nhiệm Vụ Tiếp Theo:** Tìm và phá hủy các Mắt Trận để làm suy yếu kết giới.</li>
+       </ul>
+   </div>
+   <div class="arc-card">
+       <div class="arc-title">Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)</div>
+       <div class="arc-meta">
+           <div><strong>Tên Arc:</strong> Mạng Lưới Vô Hình (Invisible Web).</div>
+           <div><strong>Trạng Thái:</strong> Đang diễn ra (Song Song / Giao Điểm).</div>
+           <div><strong>NV Chính:</strong> Lệ Vô Tâm (Hữu Tâm).</div>
+           <div><strong>NV Phụ:</strong> Huyết Vệ, Thiên Tinh Cổ.</div>
+       </div>
+       <strong>Mục Tiêu & Tiến Độ:</strong>
+       <ul class="arc-tasks">
+           <li class="completed">Sống sót qua Huyết Trì (Hoàn thành).</li>
+           <li class="completed">Tiêu diệt các đối thủ cạnh tranh (Hoàn thành).</li>
+           <li class="completed">Trở thành Vạn Độc Thánh Tử duy nhất (Hoàn thành).</li>
+           <li class="future">Truy vết nhóm nhân vật chính vào Tây Mạc (Chương 6).</li>
+           <li class="future">Đối mặt với sự sụp đổ của Long Cốt và Hắc Sa Bão (Chương 7).</li>
+           <li class="in-progress">**Mới:** Truy đuổi nhóm nhân vật chính xuyên qua bão cát để đến Rừng Thiên Trụ (Chương 8).</li>
+           <li class="future">**Tiếp theo:** Đụng độ tại Pháo Đài Xanh và rút lui về Nam Cương để bày binh bố trận (Chương 9).</li>
+       </ul>
+   </div>
+   <div class="arc-card">
+       <div class="arc-title">Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)</div>
+       <div class="arc-meta">
+           <div><strong>Tên Arc:</strong> Kiếm Tâm Cô Độc.</div>
+           <div><strong>Trạng Thái:</strong> Đang diễn ra.</div>
+           <div><strong>NV Chính:</strong> Diệp Tĩnh Sương.</div>
+       </div>
+       <strong>Mục Tiêu & Tiến Độ:</strong>
+       <ul class="arc-tasks">
+           <li class="future">Quá khứ tu luyện cùng sư phụ Cổ Kiếm Mạc.</li>
+           <li class="future">Gặp gỡ và đồng hành cùng Lâm Phong (Chương 2).</li>
+           <li class="future">Bảo vệ Hứa Nhược Thủy trong Rừng Huyết Độc (Chương 3).</li>
+           <li class="future">Chiến đấu dưới Hồ Nguyệt Ảnh - Hoàng Sa Địa Cung (Chương 4).</li>
+           <li class="in-progress">**Mới:** Thoát khỏi Địa Cung sụp đổ và Lục Ly hy sinh (Chương 5).</li>
+           <li class="future">**Tiếp theo:** Hành trình sinh tồn trong Hắc Sa Bão.</li>
+       </ul>
+   </div>
+</div>
+<h2>Các Arc Dự Kiến</h2>
+<div class="arcs-grid">
+   <div class="arc-card" style="border-left-color: #9b59b6;">
+       <div class="arc-title">Huyết Độc Rừng Thiêng (Kết Nối)</div>
+       <p style="font-size: 0.95em; margin-bottom: 10px;">Nơi các tuyến truyện bắt đầu giao nhau. Lệ Vô Tâm dẫn quân truy sát, nhóm nhân vật chính phải chạy trốn vào Rừng Huyết Độc.</p>
+       <div class="arc-meta"><strong>Nhân vật:</strong> Tất cả (Diệp Tĩnh Sương, Lâm Phong, Lệ Vô Tâm, v.v.).</div>
+   </div>
+   <div class="arc-card" style="border-left-color: #9b59b6;">
+       <div class="arc-title">Đại Chiến Tông Môn (Quy Mô Lớn)</div>
+       <p style="font-size: 0.95em; margin-bottom: 10px;">Cuộc chiến giữa Chính Đạo và Ma Đạo, quy tụ nhiều nhân vật từ các tông môn khác nhau.</p>
+       <div class="arc-meta"><strong>Nhân vật:</strong> Diệp Thanh Y (Mộc Linh Thể)., Lý Tuyết Ưng (Băng Tộc)., Đan Dương Tử.</div>
+   </div>
+</div>
+<h2>Trạng Thái Nhân Vật</h2>
+<div class="table-wrapper">
+   <table>
+       <thead>
+           <tr>
+               <th>Nhân Vật</th>
+               <th>Góc Nhìn</th>
+               <th>Trạng Thái</th>
+               <th>Ghi Chú</th>
+           </tr>
+       </thead>
+       <tbody>
+           <tr>
+               <td><strong>Lâm Phong</strong></td>
+               <td>Chính</td>
+               <td style="color: #27ae60; font-weight: 500;">Hoạt động</td>
+               <td>Đang sinh tồn trong Vùng Đất Chết, đối mặt với Vong Linh.</td>
+           </tr>
+           <tr>
+               <td><strong>Diệp Tĩnh Sương</strong></td>
+               <td>Chính / Riêng</td>
+               <td style="color: #27ae60; font-weight: 500;">Hoạt động</td>
+               <td>Đã hoàn thành 5 chương (POV). Đang dẫn đầu nhóm tiến vào Vùng Đất Chết.</td>
+           </tr>
+           <tr>
+               <td><strong>Lệ Vô Tâm</strong></td>
+               <td>Riêng (Phản Diện)</td>
+               <td style="color: #27ae60; font-weight: 500;">Hoạt động</td>
+               <td>Đã hoàn thành 9 chương. Rút về Nam Cương chuẩn bị trận địa.</td>
+           </tr>
+           <tr>
+               <td><strong>Hứa Nhược Thủy</strong></td>
+               <td>Phụ (NPC)</td>
+               <td style="color: #f39c12; font-weight: 500;">Ổn định (Tạm thời)</td>
+               <td>Đã được chữa trị, nhưng Long Cốt phong ấn đã vỡ.</td>
+           </tr>
+           <tr>
+               <td><strong>Hứa Thanh Vân</strong></td>
+               <td>Phụ (NPC)</td>
+               <td style="color: #27ae60; font-weight: 500;">Hoạt động</td>
+               <td>Đã thoát khỏi Địa Cung.</td>
+           </tr>
+           <tr>
+               <td><strong>Lục Ly</strong></td>
+               <td>Phụ (NPC)</td>
+               <td style="color: #e74c3c; font-weight: 500;">Hy Sinh / Phong Ấn</td>
+               <td>Đã dùng linh hồn để tạm thời trấn áp Địa Sát.</td>
+           </tr>
+       </tbody>
+   </table>
+</div>
+
+        <div class="footer">
+            <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+        </div>
+    </div>
+</body>
+</html>
