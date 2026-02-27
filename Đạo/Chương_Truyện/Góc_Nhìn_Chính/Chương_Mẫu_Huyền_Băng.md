@@ -2,7 +2,7 @@
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00063_Huyết_Chiến_Bên_Hồ.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00061_Mê_Cung_Nấm_Độc.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
 <td style="border: none; padding: 5px; color: #adb5bd;">Chương Sau ➡️</td>
@@ -43,10 +43,10 @@
 <li style="padding: 5px; "><a href="Chương_00030_Đại_Nạn_Long_Mạch.html">Chương 30: Đại Nạn Long Mạch</a></li>
 <li style="padding: 5px; "><a href="Chương_00031_Hắc_Sa_Bão_Trỗi_Dậy.html">Chương 31: Hắc Sa Bão Trỗi Dậy</a></li>
 <li style="padding: 5px; "><a href="Chương_00032_Sa_Hồn_Truy_Kích.html">Chương 32: Sa Hồn Truy Kích</a></li>
-<li style="padding: 5px; "><a href="Chương_00033_Bí_Mật_Rừng_Thiên_Trụ.html">Chương 33: Bí Mật Rừng Thiên Trụ</a></li>
+<li style="padding: 5px; "><a href="Chương_00033_Bí_Mật_Rừng_Thiên_Trụ.html">Không có tiêu đề</a></li>
 <li style="padding: 5px; "><a href="Chương_00034_Pháo_Đài_Xanh.html">Chương 34: Pháo Đài Xanh</a></li>
-<li style="padding: 5px; "><a href="Chương_00035_Lối_Mòn_Trong_Bão.html">Chương 35: Lối Mòn Trong Bão</a></li>
-<li style="padding: 5px; "><a href="Chương_00036_Ranh_Giới_Tử_Thần.html">Chương 36: Ranh Giới Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00035_Lối_Mòn_Trong_Bão.html">Không có tiêu đề</a></li>
+<li style="padding: 5px; "><a href="Chương_00036_Ranh_Giới_Tử_Thần.html">Không có tiêu đề</a></li>
 <li style="padding: 5px; "><a href="Chương_00037_Vòng_Vây_Huyết_Lang.html">Không có tiêu đề</a></li>
 <li style="padding: 5px; "><a href="Chương_00038_Huyết_Chiến_Lang_Vương.html">Chương 38: Huyết Chiến Lang Vương</a></li>
 <li style="padding: 5px; "><a href="Chương_00039_Vùng_Đất_Chết.html">Chương 39: Vùng Đất Chết</a></li>
@@ -72,8 +72,6 @@
 <li style="padding: 5px; "><a href="Chương_00059_Lối_Mòn_Trong_Lòng_Đất.html">Chương 59: Lối Mòn Trong Lòng Đất</a></li>
 <li style="padding: 5px; "><a href="Chương_00060_Hỗn_Loạn_Tại_Kho_Chứa.html">Chương 60: Hỗn Loạn Tại Kho Chứa</a></li>
 <li style="padding: 5px; "><a href="Chương_00061_Mê_Cung_Nấm_Độc.html">Chương 61: Mê Cung Nấm Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00062_Bí_Mật_Huyết_Trì.html">Chương 62: Bí Mật Huyết Trì (血池之秘)</a></li>
-<li style="padding: 5px; "><a href="Chương_00063_Huyết_Chiến_Bên_Hồ.html">Chương 63: Huyết Chiến Bên Hồ (血池激戰)</a></li>
 <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_Mẫu_Huyền_Băng.html">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
 </ul>
 </details>
@@ -92,6 +90,7 @@
     var readingQueue = [];
     var currentIndex = 0;
     var isPaused = false;
+    var isStopped = false;
 
     // Elements to read
     var contentElements = [];
@@ -129,6 +128,8 @@
     function startReading() {
         if (synth.speaking && !isPaused) return;
 
+        isStopped = false;
+
         // Reset controls
         document.getElementById("btn-play").style.display = "none";
         document.getElementById("btn-pause").style.display = "inline-block";
@@ -145,6 +146,8 @@
     }
 
     function readNextChunk() {
+        if (isStopped) return;
+
         if (currentIndex >= contentElements.length) {
             // Finished reading the chapter
             stopReading();
@@ -171,6 +174,8 @@
         utterance.lang = "vi-VN";
 
         utterance.onend = function() {
+            if (isStopped) return;
+
             // Remove highlight
             el.style.backgroundColor = "";
             el.style.borderLeft = "";
@@ -183,6 +188,8 @@
         };
 
         utterance.onerror = function(event) {
+            if (isStopped) return;
+
             console.error("Speech error", event);
             // Try to skip to next chunk on error
             el.style.backgroundColor = "";
@@ -218,6 +225,7 @@
     }
 
     function stopReading() {
+        isStopped = true;
         synth.cancel();
         isPaused = false;
 
@@ -250,6 +258,7 @@
 
     // Handle page unload to stop speech
     window.onbeforeunload = function() {
+        isStopped = true;
         synth.cancel();
     };
 </script>

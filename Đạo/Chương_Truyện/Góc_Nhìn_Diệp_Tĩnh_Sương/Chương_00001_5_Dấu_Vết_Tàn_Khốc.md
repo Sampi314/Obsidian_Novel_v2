@@ -2,19 +2,19 @@
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00000_Tuyết_Phủ_Mộ_Phần.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00001_Nhiệm_Vụ_Đơn_Độc.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00001_Nhiệm_Vụ_Đơn_Độc.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00002_Hội_Ngộ_Bất_Ngờ.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
 <summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
 <ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
 <li style="padding: 5px; "><a href="Chương_00000_Tuyết_Phủ_Mộ_Phần.html">Chương 0: Tuyết Phủ Mộ Phần</a></li>
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00000_5_Thử_Thách_Đầu_Tiên.html">Chương 0.5: Thử Thách Đầu Tiên</a></li>
+<li style="padding: 5px; "><a href="Chương_00000_5_Thử_Thách_Đầu_Tiên.html">Chương 0.5: Thử Thách Đầu Tiên</a></li>
 <li style="padding: 5px; "><a href="Chương_00001_Nhiệm_Vụ_Đơn_Độc.html">Chương 1: Nhiệm Vụ Đơn Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_5_Dấu_Vết_Tàn_Khốc.html">Chương 1.5: Dấu Vết Tàn Khốc</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00001_5_Dấu_Vết_Tàn_Khốc.html">Chương 1.5: Dấu Vết Tàn Khốc</a></li>
 <li style="padding: 5px; "><a href="Chương_00002_Hội_Ngộ_Bất_Ngờ.html">Chương 2: Hội Ngộ Bất Ngờ</a></li>
 <li style="padding: 5px; "><a href="Chương_00003_Lời_Thề_Kiếm_Khách.html">Chương 3: Lời Thề Kiếm Khách</a></li>
 <li style="padding: 5px; "><a href="Chương_00004_Lạc_Giữa_Thâm_Cung.html">Chương 4: Lạc Giữa Thâm Cung</a></li>
@@ -43,7 +43,7 @@
     var contentElements = [];
 
     // Next chapter URL
-    var nextChapterUrl = "Chương_00001_Nhiệm_Vụ_Đơn_Độc.html";
+    var nextChapterUrl = "Chương_00002_Hội_Ngộ_Bất_Ngờ.html";
 
     function getReadableElements() {
         // Collect all paragraph-like elements in the body
@@ -212,150 +212,68 @@
 
 </div>
 <!-- NAVIGATION_END -->
-# Chương 0.5: Thử Thách Đầu Tiên
+# Chương 1.5: Dấu Vết Tàn Khốc
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)
-**Địa điểm:** Cửu Hoa Kiếm Tông (Đỉnh Cửu Hoa).
-**Thời điểm:** 3 năm sau "Tuyết Phủ Mộ Phần" (Diệp Tĩnh Sương 18 tuổi).
-**Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ).
+**Địa điểm:** Đường mòn ven rừng Vĩnh Hằng Sâm Lâm - Gần Thôn Lạc Diệp.
+**Thời điểm:** Giữa Chương 1 và trước khi đến Thôn Lạc Diệp.
+**Giao Điểm Cốt Truyện:** Tuyến độc lập.
 
 ---
 
-Gió đông lạnh buốt thổi ào ạt qua đỉnh Cửu Hoa, mang theo những bông tuyết trắng xóa. Đây là nơi cao nhất, lạnh nhất của Cửu Hoa Kiếm Tông, nơi mà chỉ những đệ tử nội môn xuất sắc nhất mới được phép đặt chân tới để luyện kiếm.
+Cơn mưa rừng bất chợt đổ xuống, nặng hạt và lạnh buốt như ngàn mũi kim châm vào da thịt. Nhưng Diệp Tĩnh Sương vẫn không dừng bước. Tà áo trắng của nàng ướt đẫm, bám sát vào thân hình mảnh mai, nhưng đôi mắt phượng vẫn kiên định nhìn về phía trước, xuyên qua màn mưa trắng xóa.
 
-Ta, Diệp Tĩnh Sương, đứng một mình trên mỏm đá chênh vênh, tà áo trắng bay phần phật trong gió. Tay ta nắm chặt chuôi [Hàn Mai Kiếm](../../Luyện_Khí/Hàn_Ngọc_Kiếm.md), mắt nhìn đăm đăm vào vực sâu thăm thẳm bên dưới.
+Mùi máu tanh mà nàng ngửi thấy ở thượng nguồn con suối ban nãy càng lúc càng nồng nặc, hòa lẫn với mùi ẩm mốc của lá mục và... một mùi gì đó khác lạ. Mùi hăng hắc, ngọt lợ, khiến người ta buồn nôn.
 
-"Tĩnh Sương sư muội, ngươi đã chuẩn bị xong chưa?"
+Đó là mùi của Độc Dược.
 
-Giọng nói trầm ấm của Đại sư huynh Lý Thiên Quân vang lên sau lưng. Hắn là người phụ trách kỳ sát hạch nội môn năm nay.
+"Chết tiệt!"
 
-"Đệ tử đã sẵn sàng," ta đáp, không quay đầu lại.
+Diệp Tĩnh Sương rủa thầm, vận *Hàn Sương Kiếm Quyết* lên mức cao nhất, tạo thành một lớp màn chắn vô hình xung quanh cơ thể, ngăn cách nước mưa và độc khí.
 
-Hôm nay là ngày quyết định. Ta phải vượt qua "Kiếm Tâm Chi Lộ" – con đường thử thách tâm tính và kiếm pháp khắc nghiệt nhất của tông môn. Nếu thất bại, ta sẽ mãi mãi chỉ là một đệ tử ngoại môn tầm thường, không bao giờ có cơ hội trả thù cho sư phụ Cổ Kiếm Mạc.
+Nàng lao đi như một tia chớp trắng, bỏ lại sau lưng những vũng nước bắn tung tóe.
 
-"Tốt," Lý Thiên Quân gật đầu. "Luật lệ ngươi đã rõ. Đi hết con đường này, chém đứt ba con Tinh Linh Thú canh giữ, lấy được 'Tuyết Liên Hoa' trên đỉnh núi đối diện mang về đây. Thời gian là một nén hương."
+Chỉ lát sau, một cảnh tượng kinh hoàng hiện ra trước mắt nàng.
 
-Một nén hương. Quá ngắn.
+Một ngôi làng nhỏ, chỉ chừng mười mấy nóc nhà, nằm lọt thỏm giữa thung lũng. Nhưng giờ đây, nó đã biến thành một bãi tha ma.
 
-Nhưng ta không có quyền lựa chọn. Ta gật đầu, hít sâu một hơi khí lạnh vào buồng phổi, để cái lạnh thấu xương làm tê liệt những nỗi sợ hãi vụn vặt trong lòng.
+Khói đen bốc lên nghi ngút từ những mái nhà tranh đang cháy dở. Xác người nằm la liệt khắp nơi, từ sân nhà ra đến ngõ xóm. Già trẻ, lớn bé, không một ai sống sót.
 
-*Bắt đầu!*
+Điều đáng sợ nhất là cái chết của họ.
 
-Ta lao mình xuống vực, đạp lên những mỏm đá nhô ra, di chuyển nhanh như một con én trắng.
+Tất cả đều có làn da tím tái, thất khiếu chảy máu đen, cơ thể co quắp trong đau đớn tột cùng. Một số cái xác thậm chí còn đang rỉ ra thứ chất lỏng màu xanh lục, bốc mùi hôi thối nồng nặc.
 
-Vừa đặt chân lên cầu treo bắc ngang qua hai ngọn núi, một tiếng gầm vang lên.
+"Vạn Độc Môn..."
 
-*Grào!*
+Diệp Tĩnh Sương nghiến răng, tay siết chặt chuôi kiếm đến mức đốt ngón tay trắng bệch. Nàng nhận ra thủ đoạn tàn độc này. Chính là lũ súc sinh đó.
 
-Một con Bạch Hổ to lớn nhảy ra chặn đường, móng vuốt sắc nhọn cào nát mặt ván cầu gỗ. Tinh Linh Thú cấp hai – Tương đương Luyện Khí tầng tám.
+Nàng bước chậm rãi vào ngôi làng chết chóc. Mỗi bước chân như đeo chì.
 
-Ta không dừng lại. Ta rút kiếm.
+Một người phụ nữ ôm chặt đứa con nhỏ trong lòng, cả hai đều đã chết cứng. Đứa trẻ vẫn còn ngậm chặt núm vú mẹ, nhưng thay vì sữa, thứ chảy vào miệng nó là máu độc.
 
-*Hàn Sương Kiếm Quyết – Tầng Một: Băng Phong Tam Xích!*
+Diệp Tĩnh Sương quỳ xuống, nhẹ nhàng vuốt mắt cho hai mẹ con. Một giọt nước mắt lăn dài trên má nàng, hòa vào nước mưa mặn chát.
 
-Một luồng kiếm khí lạnh lẽo quét ngang.
+"Xin lỗi... ta đến muộn rồi."
 
-*Keng!*
+Nàng đứng dậy, ánh mắt rực lửa hận thù. Nàng rút thanh *Hàn Mai Kiếm* ra. Lưỡi kiếm sáng loáng phản chiếu ánh chớp xẹt ngang bầu trời, lạnh lẽo đến thấu xương.
 
-Móng vuốt Bạch Hổ va chạm với kiếm khí, tóe lửa. Nó bị đẩy lùi vài bước, trên trán xuất hiện một vệt máu đỏ tươi.
+*Bọn chúng chưa đi xa.*
 
-Nhưng nó chưa chết. Nó gầm lên giận dữ, lao vào ta lần nữa.
+Nàng cảm nhận được tàn dư linh lực của kẻ thi triển độc thuật vẫn còn vương lại trong không khí. Một luồng khí tức âm hàn, tà ác, đang hướng về phía Đông Nam.
 
-Lần này, ta không dùng sức mạnh đối đầu. Ta lách người sang bên, mũi kiếm điểm nhẹ vào huyệt đạo dưới cổ nó.
+Phía Đông Nam... đó là hướng đi về Thôn Lạc Diệp.
 
-*Phập!*
+"Thôn Lạc Diệp!"
 
-Bạch Hổ rống lên đau đớn rồi ngã gục xuống vực sâu.
+Tim Diệp Tĩnh Sương thắt lại. Nếu bọn chúng đang hướng về đó, thì ngôi làng kia...
 
-Một con.
+Không chần chừ thêm một giây nào nữa, nàng vận toàn lực, lao đi như một mũi tên xé gió.
 
-Ta tiếp tục chạy. Thời gian không chờ đợi ai.
+*Ta thề, ta sẽ bắt các ngươi phải trả giá. Máu nợ máu!*
 
-Con thứ hai là một con Băng Xà khổng lồ quấn quanh thân cây cổ thụ chặn lối đi. Nó phun ra nọc độc màu xanh lam, ăn mòn cả đá tảng.
+Gió gào thét bên tai nàng như tiếng oan hồn đòi mạng. Mưa quất vào mặt nàng rát buốt. Nhưng trong lòng Diệp Tĩnh Sương giờ đây chỉ có một ngọn lửa duy nhất đang bùng cháy dữ dội: Ngọn lửa của sự trừng phạt.
 
-Ta vận chân khí bảo hộ toàn thân, lao thẳng vào đám sương độc.
+Con đường tu tiên của nàng có thể cô độc, có thể lạnh lẽo, nhưng nàng tuyệt đối sẽ không để cái ác lộng hành ngay trước mắt mình.
 
-*Hàn Sương Kiếm Quyết – Tầng Hai: Tuyết Lạc Vô Thanh!*
-
-Thanh kiếm trong tay ta múa lên những đường hoa mỹ nhưng chết người. Những bông tuyết kiếm khí rơi lả tả xung quanh con rắn, cắt nát lớp vảy cứng của nó.
-
-*Xoẹt!*
-
-Đầu rắn rơi xuống đất. Máu phun ra, nhuộm đỏ cả nền tuyết trắng.
-
-Hai con.
-
-Chỉ còn lại một con cuối cùng. Và đỉnh núi đối diện đã ở ngay trước mắt.
-
-Nhưng khi ta đặt chân lên đỉnh núi, ta sững sờ.
-
-Không có Tinh Linh Thú nào cả.
-
-Chỉ có một người đang đứng đó, quay lưng lại phía ta.
-
-Người đó mặc y phục đen tuyền, tóc buộc cao, tay cầm một thanh kiếm gỉ sét.
-
-Hắn quay lại.
-
-Tim ta thắt lại.
-
-Đó là... Sư phụ Cổ Kiếm Mạc?!
-
-"Tĩnh Sương, con đến muộn rồi."
-
-Giọng nói ấy... khuôn mặt ấy... không thể nhầm lẫn vào đâu được. Sư phụ đang nhìn ta, ánh mắt nghiêm khắc nhưng chan chứa yêu thương như ngày nào.
-
-"Sư... sư phụ?" Ta lắp bắp, kiếm trên tay run rẩy. "Người... người chưa chết sao?"
-
-"Ta chưa chết," ông mỉm cười, tiến lại gần ta. "Ta chỉ đang đợi con thôi. Nào, đưa kiếm cho ta. Con đã vất vả rồi."
-
-Ta chần chừ. Sư phụ đã chết rồi mà. Chính tay ta chôn cất người. Chính tay ta khắc bia mộ.
-
-Nhưng người trước mặt này... quá thật. Hơi ấm tỏa ra từ người ông, mùi hương trầm quen thuộc trên áo ông...
-
-"Sao thế? Con không nhận ra ta sao?" Ông cau mày, giọng trách móc. "Đưa kiếm đây!"
-
-Ông đưa tay ra, định chộp lấy Hàn Mai Kiếm.
-
-Trong khoảnh khắc đó, một luồng sát khí lạnh lẽo bỗng bùng lên trong lòng ta.
-
-Không đúng! Sư phụ ta... người đã chết. Người đã truyền lại kiếm và ý chí cho ta. Người tuyệt đối sẽ không bao giờ bảo ta buông kiếm.
-
-Kẻ này là giả!
-
-"Ngươi không phải sư phụ ta!"
-
-Ta hét lên, vung kiếm chém mạnh.
-
-*Xoạt!*
-
-Thanh kiếm xuyên qua ngực "sư phụ".
-
-Cả người ông ta vỡ tan thành từng mảnh sương mù, rồi tụ lại thành một con Tinh Linh Thú hình dạng giống hồ ly – Ảo Ảnh Hồ.
-
-Nó rên rỉ thảm thiết rồi tan biến vào hư vô.
-
-Ba con.
-
-Ta thở hồng hộc, mồ hôi ướt đẫm trán dù trời lạnh cắt da.
-
-Ảo Ảnh Hồ... Thử thách cuối cùng không phải là sức mạnh, mà là tâm ma.
-
-Ta bước tới vách đá, ngắt lấy bông Tuyết Liên Hoa đang nở rộ trong gió lạnh. Cánh hoa trắng muốt, tinh khiết như băng tuyết ngàn năm.
-
-Ta đã chiến thắng. Chiến thắng nỗi sợ hãi, chiến thắng quá khứ, và chiến thắng chính bản thân mình.
-
-Ta quay trở lại đỉnh Cửu Hoa, đặt bông hoa vào tay Lý Thiên Quân đúng lúc nén hương vừa cháy hết.
-
-"Khá lắm," Đại sư huynh gật đầu hài lòng. "Từ hôm nay, ngươi chính thức là đệ tử nội môn của Cửu Hoa Kiếm Tông. Danh hiệu của ngươi sẽ là..."
-
-Hắn nhìn thanh kiếm trên tay ta, rồi nhìn vào đôi mắt kiên định nhưng lạnh lùng của ta.
-
-"...Hàn Mai Kiếm."
-
-Ta cúi đầu tạ ơn.
-
-Gió tuyết vẫn thổi, nhưng lòng ta giờ đây đã bình lặng như mặt hồ đóng băng. Ta biết con đường phía trước còn dài và gian nan hơn nhiều, nhưng ta đã sẵn sàng.
-
-*Sư phụ, con đã làm được. Con sẽ không để danh hiệu Hàn Mai Kiếm này bị lu mờ.*
+Thanh kiếm trong tay nàng rung lên bần bật, như cảm nhận được sát ý ngút trời của chủ nhân. Nó đang khát máu. Máu của những kẻ thủ ác.

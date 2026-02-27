@@ -31,6 +31,7 @@
     var readingQueue = [];
     var currentIndex = 0;
     var isPaused = false;
+    var isStopped = false;
 
     // Elements to read
     var contentElements = [];
@@ -68,6 +69,8 @@
     function startReading() {
         if (synth.speaking && !isPaused) return;
 
+        isStopped = false;
+
         // Reset controls
         document.getElementById("btn-play").style.display = "none";
         document.getElementById("btn-pause").style.display = "inline-block";
@@ -84,6 +87,8 @@
     }
 
     function readNextChunk() {
+        if (isStopped) return;
+
         if (currentIndex >= contentElements.length) {
             // Finished reading the chapter
             stopReading();
@@ -110,6 +115,8 @@
         utterance.lang = "vi-VN";
 
         utterance.onend = function() {
+            if (isStopped) return;
+
             // Remove highlight
             el.style.backgroundColor = "";
             el.style.borderLeft = "";
@@ -122,6 +129,8 @@
         };
 
         utterance.onerror = function(event) {
+            if (isStopped) return;
+
             console.error("Speech error", event);
             // Try to skip to next chunk on error
             el.style.backgroundColor = "";
@@ -157,6 +166,7 @@
     }
 
     function stopReading() {
+        isStopped = true;
         synth.cancel();
         isPaused = false;
 
@@ -189,6 +199,7 @@
 
     // Handle page unload to stop speech
     window.onbeforeunload = function() {
+        isStopped = true;
         synth.cancel();
     };
 </script>

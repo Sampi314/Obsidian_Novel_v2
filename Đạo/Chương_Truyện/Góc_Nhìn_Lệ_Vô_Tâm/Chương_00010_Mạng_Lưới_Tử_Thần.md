@@ -13,19 +13,13 @@ Ghi_Chú: Chuẩn bị cho trận phục kích tại Rừng Huyết Độc (Chư
 <td style="border: none; padding: 5px;"><a href="Chương_00009_Sát_Ý_Rừng_Gai.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a href="Chương_00011_Con_Mồi_Vào_Rọ.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px; color: #adb5bd;">Chương Sau ➡️</td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
 <summary style="cursor: pointer; font-weight: bold;">Chọn Chương</summary>
 <ul style="max-height: 200px; overflow-y: auto; list-style: none; padding: 0; text-align: left;">
 <li style="padding: 5px; "><a href="Chương_00001_Đường_Đến_Thánh_Vị.html">Chương 1: Đường Đến Thánh Vị</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_1_Hậu_Quả_Sinh_Tồn.html">Chương 1.1: Hậu Quả Sinh Tồn</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_2_Bài_Học_Vô_Cảm.html">Chương 1.2: Bài Học Vô Cảm</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_3_Sự_Phản_Bội_Đầu_Tiên.html">Chương 1.3: Sự Phản Bội Đầu Tiên</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_4_Bóng_Tối_Cô_Độc.html">Chương 1.4: Bóng Tối Cô Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_5_Thử_Thách_Vạn_Độc.html">Chương 1.5: Thử Thách Vạn Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00001_6_Huyết_Nguyệt_Sát_Cơ.html">Chương 1.6: Huyết Nguyệt Sát Cơ</a></li>
 <li style="padding: 5px; "><a href="Chương_00002_Huyết_Độc_Phiến.html">Chương 2: Huyết Độc Phiến</a></li>
 <li style="padding: 5px; "><a href="Chương_00002_2_Bẫy_Rập_Rừng_Sương.html">Chương 2.2: Bẫy Rập Rừng Sương</a></li>
 <li style="padding: 5px; "><a href="Chương_00002_5_Diệt_Môn_Chi_Họa.html">Chương 2.5: Diệt Môn Chi Họa</a></li>
@@ -38,7 +32,6 @@ Ghi_Chú: Chuẩn bị cho trận phục kích tại Rừng Huyết Độc (Chư
 <li style="padding: 5px; "><a href="Chương_00008_Huyết_Tế_Sa_Mạc.html">Chương 8: Huyết Tế Sa Mạc</a></li>
 <li style="padding: 5px; "><a href="Chương_00009_Sát_Ý_Rừng_Gai.html">Chương 9: Sát Ý Rừng Gai</a></li>
 <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00010_Mạng_Lưới_Tử_Thần.html">Chương 10: Mạng Lưới Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00011_Con_Mồi_Vào_Rọ.html">Chương 11: Con Mồi Vào Rọ</a></li>
 </ul>
 </details>
 <div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
@@ -56,6 +49,7 @@ Ghi_Chú: Chuẩn bị cho trận phục kích tại Rừng Huyết Độc (Chư
     var readingQueue = [];
     var currentIndex = 0;
     var isPaused = false;
+    var isStopped = false;
 
     // Elements to read
     var contentElements = [];
@@ -93,6 +87,8 @@ Ghi_Chú: Chuẩn bị cho trận phục kích tại Rừng Huyết Độc (Chư
     function startReading() {
         if (synth.speaking && !isPaused) return;
 
+        isStopped = false;
+
         // Reset controls
         document.getElementById("btn-play").style.display = "none";
         document.getElementById("btn-pause").style.display = "inline-block";
@@ -109,6 +105,8 @@ Ghi_Chú: Chuẩn bị cho trận phục kích tại Rừng Huyết Độc (Chư
     }
 
     function readNextChunk() {
+        if (isStopped) return;
+
         if (currentIndex >= contentElements.length) {
             // Finished reading the chapter
             stopReading();
@@ -135,6 +133,8 @@ Ghi_Chú: Chuẩn bị cho trận phục kích tại Rừng Huyết Độc (Chư
         utterance.lang = "vi-VN";
 
         utterance.onend = function() {
+            if (isStopped) return;
+
             // Remove highlight
             el.style.backgroundColor = "";
             el.style.borderLeft = "";
@@ -147,6 +147,8 @@ Ghi_Chú: Chuẩn bị cho trận phục kích tại Rừng Huyết Độc (Chư
         };
 
         utterance.onerror = function(event) {
+            if (isStopped) return;
+
             console.error("Speech error", event);
             // Try to skip to next chunk on error
             el.style.backgroundColor = "";
@@ -182,6 +184,7 @@ Ghi_Chú: Chuẩn bị cho trận phục kích tại Rừng Huyết Độc (Chư
     }
 
     function stopReading() {
+        isStopped = true;
         synth.cancel();
         isPaused = false;
 
@@ -214,6 +217,7 @@ Ghi_Chú: Chuẩn bị cho trận phục kích tại Rừng Huyết Độc (Chư
 
     // Handle page unload to stop speech
     window.onbeforeunload = function() {
+        isStopped = true;
         synth.cancel();
     };
 </script>
