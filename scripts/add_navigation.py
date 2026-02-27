@@ -1,5 +1,6 @@
 import os
 import re
+import html
 from scripts.utils import get_chapter_title, extract_chapter_number
 
 # Regex for existing navigation block
@@ -73,7 +74,7 @@ def generate_navigation(repo_root):
 
             for chap in chapter_list:
                 is_active = 'font-weight: bold; background-color: #f0f0f0;' if chap["filename"] == current_chapter["filename"] else ''
-                nav_html.append(f'<li style="padding: 5px; {is_active}"><a href="{chap["filename"].replace(".md", ".html")}">{chap["title"]}</a></li>')
+                nav_html.append(f'<li style="padding: 5px; {is_active}"><a href="{chap["filename"].replace(".md", ".html")}">{html.escape(chap["title"])}</a></li>')
 
             nav_html.append('</ul>')
             nav_html.append('</details>')
