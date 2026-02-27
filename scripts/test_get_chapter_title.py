@@ -53,5 +53,14 @@ class TestGetChapterTitle(unittest.TestCase):
         filepath = self.create_test_file("nav_block.md", content)
         self.assertEqual(get_chapter_title(filepath), "Chương 6: Kết Thúc")
 
+    def test_multiline_comment(self):
+        content = """<!--
+# Fake Title
+-->
+# Real Title
+"""
+        filepath = self.create_test_file("multiline_comment.md", content)
+        self.assertEqual(get_chapter_title(filepath), "Real Title")
+
 if __name__ == '__main__':
     unittest.main()
