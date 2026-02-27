@@ -53,6 +53,20 @@ Mỗi tác phẩm thơ ca sẽ có cấu trúc như sau:
 
 ---
 
+## ⚠️ QUY TẮC XUỐNG DÒNG TRONG MARKDOWN (BẮT BUỘC)
+
+Markdown mặc định **nuốt xuống dòng đơn** — hai dòng liền nhau sẽ bị gộp thành một đoạn. Thơ ca PHẢI hiển thị đúng từng dòng riêng biệt.
+
+**BẮT BUỘC thực hiện cách sau:**
+### Cách: Thêm 2 khoảng trắng (spaces) ở cuối mỗi dòng thơ.
+Ví dụ (dấu `_` tượng trưng cho khoảng trắng):
+Thiên địa huyền hoàng__
+Vũ trụ hồng hoang__
+Nhật nguyệt doanh trắc__
+Thần tinh liệt trương__
+
+Lưu ý: Nếu không thêm 2 khoảng trắng, Markdown sẽ hiển thị thành một đoạn văn xuôi liền mạch, làm mất cấu trúc thơ.
+
 ## LƯU Ý
 - Thơ ca là linh hồn của văn học cổ điển, cần trau chuốt từng từ ngữ.
 - Bài thơ hay phải có "Cảnh" và "Tình" hòa quyện.

@@ -44,6 +44,10 @@
 ### Giai Đoạn 3: Lời Cầu Cứu Của Rừng Già (Chương 51-80)
 - **Sự kiện:** Huyết Thần Độc lan đến Vĩnh Hằng Sâm Lâm. Một Cây Thần Mộc con chết khô.
 - **Bước ngoặt:** Tinh Linh Tộc mở kết giới. Nữ Hoàng Nguyệt Dao cử sứ giả đến Dược Vương Cốc cầu viện. Đây là lần đầu tiên sau 5 vạn năm Tinh Linh Tộc xuất hiện công khai.
+- **Hành động:**
+    -   Nhóm Diệp Tĩnh Sương đột kích phá hủy mắt trận phụ của Vạn Độc Huyết Tế Đại Trận (Chương 51-52).
+    -   Thoát khỏi vòng vây và lạc vào Huyết Vụ Lâm (Chương 53-54).
+    -   Khám phá Huyết Mạch Thượng Cổ bên dưới Huyết Vụ Lâm, tìm đường tiến sâu vào Vạn Độc Cốc (Chương 55).
 
 ### Giai Đoạn 4: Liên Minh Rạn Nứt (Chương 81-120)
 - **Sự kiện:** Các thế lực hội tụ tại Nam Cương.

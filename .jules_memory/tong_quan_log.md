@@ -1,21 +1,22 @@
-# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-03-07)
 
 ## 1. TỔNG QUAN
 - **Agent:** Tổng Quản (Jules).
-- **Mục tiêu:** Tiếp tục cốt truyện "Huyết Độc Chi Họa" với bối cảnh Lưu Sa Phế Tích.
+- **Mục tiêu:** Viết tiếp mạch truyện sau khi tiêu diệt Lang Vương, đưa nhóm nhân vật vào Vùng Đất Chết.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
-  - `Đạo/Chương_Truyện/Chương_13_Lạc_Lối_Trong_Cát.md`: Chương khám phá Lưu Sa Phế Tích.
-  - `Đạo/Kỳ_Vật/Sa_Hồn.md`: Hồ sơ quái vật (Lore) cho khu vực này.
+  - `Đạo/Thế_Giới_Và_Thời_Gian/Vùng_Đất_Chết.md`: Hồ sơ địa danh mới, mô tả vùng đất bị ảnh hưởng bởi Địa Sát.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00039_Vùng_Đất_Chết.md`: Chương tiếp nối, nhóm nhân vật đối mặt với Vong Linh.
 - **Cập nhật:**
-  - Bổ sung danh sách chương truyện và vật phẩm mới vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-  - Ghi log vào `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm chương 39 và địa danh mới vào danh sách.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ Arc và trạng thái nhân vật.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi log hoạt động.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
-- **Tiến độ:** Cốt truyện đã chuyển sang giai đoạn khám phá bí cảnh.
-- **Chất lượng:** Các liên kết trong file mới đã được kiểm tra và đảm bảo tính nhất quán.
+- **Tiến độ:** Cốt truyện đang ở cao trào Arc Vượt Rừng Huyết Độc, chuyển sang giai đoạn khám phá Vùng Đất Chết / Hang Động Nhện Quỷ (phiên bản Địa Sát).
+- **Chất lượng:** Nội dung nhất quán với sự kiện Long Cốt vỡ (Chương 30).
 
 ## 4. KẾ HOẠCH TIẾP THEO
-- Viết tiếp Chương 14: Rơi xuống tầng sâu của phế tích hoặc đối đầu với Sa Hồn Tướng.
-- Có thể tạo thêm một số kỳ vật/pháp bảo cổ đại tìm thấy trong phế tích.
+- Viết Chương 40: Trận chiến với Vong Linh và tiến sâu vào Hang Động.
+- Cập nhật hồ sơ quái vật: Vong Linh, Biến Dị Nhện (nếu cần).

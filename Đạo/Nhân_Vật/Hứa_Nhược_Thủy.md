@@ -35,10 +35,12 @@
 - **Biến Cố:**
     - Năm 100 tuổi (Trúc Cơ Viên Mãn), đoàn thương đội của bà bị cướp sa mạc tấn công. Thay vì cầu xin tha mạng, bà đã thương lượng với thủ lĩnh cướp: chia 30% lợi nhuận đổi lấy sự bảo kê.
     - Sự kiện này giúp bà nhận ra sức mạnh của sự thỏa hiệp và lợi ích. Bà dùng tiền mua chuộc, dùng lợi ích trói buộc các thế lực, dần dần đưa Hứa Gia trở thành một trong Tứ Đại Thương Gia.
+    - **Quá Khứ Đen Tối:** Đã từng bí mật buôn bán "Huyết Tinh Sa" cho Vạn Độc Môn để đổi lấy công thức Giải Độc Đan, gián tiếp giúp Vạn Độc Môn phát triển "Huyết Thi" và xây dựng hệ thống Ám Đạo. Đây là vết nhơ mà bà luôn muốn che giấu.
 - **Hiện Tại:**
     - Đứng đầu mảng kinh doanh dược liệu của Thiên Sa Thương Hội.
     - Trong sự kiện "Huyết Độc Chi Họa", bà đóng vai trò quan trọng khi nắm giữ nguồn cung cấp dược liệu giải độc (Sa Sương, Thiên Niên Sa Nhẫm) mà Dược Vương Cốc đang khao khát, đồng thời cũng là người duy nhất dám buôn bán với Vạn Độc Môn.
-    - [Chương 12: Thương Vụ Bạc Tỷ](../Chương_Truyện/Chương_00012_Thương_Vụ_Bạc_Tỷ.md): Gặp gỡ nhóm Diệp Tĩnh Sương và Lâm Phong, giao nhiệm vụ tìm kiếm con trai Hứa Thanh Vân.
+    - [Chương 12: Thương Vụ Bạc Tỷ](../Chương_Truyện/Góc_Nhìn_Chính/Chương_00012_Thương_Vụ_Bạc_Tỷ.md): Gặp gỡ nhóm Diệp Tĩnh Sương và Lâm Phong, giao nhiệm vụ tìm kiếm con trai Hứa Thanh Vân.
+    - [Chương 18: Huyết Chiến Trạm Dừng Chân](../Chương_Truyện/Góc_Nhìn_Chính/Chương_00018_Huyết_Chiến_Trạm_Dừng_Chân.md): Bị ám sát bởi cao thủ Vạn Độc Môn ngay tại Trạm Dừng Chân Số 7. Hiện đã trúng "Huyết Thần Độc" biến thể, sinh mệnh nguy kịch, đang cùng nhóm Diệp Tĩnh Sương trốn chạy.
 
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 - **Sở Trường:**
@@ -50,11 +52,13 @@
     - **Thiên Sa Toán Pháp:** Một môn thuật toán dùng để tính toán lợi nhuận, nhưng cũng có thể dùng để tính toán đường đi nước bước trong chiến đấu, dự đoán chiêu thức đối thủ dựa trên quy luật "trao đổi".
 
 ## VI. QUAN HỆ
-- **Gia Đình:** Có một con trai độc nhất là **Hứa Thanh Vân** (Kết Đan Kỳ), nhưng hắn lại chán ghét việc buôn bán, chỉ thích làm du hiệp, khiến bà rất đau đầu.
+- **Gia Đình:** Có một con trai độc nhất là **Hứa Thanh Vân** (Luyện Khí Viên Mãn), nhưng hắn lại chán ghét việc buôn bán, chỉ thích làm du hiệp, khiến bà rất đau đầu.
 - **Đồng Minh (Thương Mại):**
     - **Trần Kim Lưu (Gia Chủ Kim Sa Trần Gia):** Đối tác lâu năm, tuy hay tranh giành quyền lợi nhưng luôn đoàn kết khi đối ngoại.
     - **Đan Dương Tử (Đan Hà Cốc):** Khách hàng lớn nhất về dược liệu hỏa hệ.
 - **Khách Hàng Đặc Biệt:**
     - **Diệp Thanh Y (Dược Vương Cốc):** Bà nể phục y đức của Diệp Thanh Y nhưng không đồng tình với cách làm "cứu người không màng lợi" của cô.
     - **Độc Cô Lão Quái (Vạn Độc Môn):** Khách hàng nguy hiểm nhất. Bà bán độc dược cho hắn nhưng luôn giữ đường lui, không bao giờ gặp mặt trực tiếp mà thông qua "Sa Ảnh Sát Thủ" để giao dịch.
+- **Vật Phẩm Liên Quan:**
+    - **Sa Bạo Cổ (Sandstorm Gu):** Một sản phẩm thí nghiệm thất bại do Hứa Gia lai tạo, đã bán cho Vạn Độc Môn mười năm trước và hiện đang nằm trong Kho Chứa Ngầm.
 - **Kẻ Thù:** Những kẻ muốn phá vỡ sự trung lập của Thiên Sa Thương Hội hoặc cướp phá thương đạo.

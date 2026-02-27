@@ -11,13 +11,22 @@
     - Trung Tâm: Thiên Trụ Sơn.
     - Tứ Phương: Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
     - **Bắc Băng (Northern Ice Region):** Vùng đất băng giá vĩnh cửu, nơi ngự trị của Huyền Băng Cung và Băng Tộc. Nổi tiếng với Cực Quang và Băng Linh Khí.
-    - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc.
+    - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nam_Cương.md`.
+        - *Rừng Huyết Độc:* Khu rừng biên giới với những thân cây đỏ như máu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md`.
+            - *Hang Động Nhện Quỷ:* Hệ thống hang động ngầm nơi Vạn Độc Môn thực hiện thí nghiệm Huyết Thi. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
+            - *Mộc Linh Trận Địa:* Căn cứ tạm thời của Tinh Linh Tộc và Dược Vương Cốc nằm sâu trong rừng (Hiện đang trong tình trạng nguy kịch). Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md`.
+            - *Huyết Vụ Lâm:* Vùng đệm sương mù đỏ thẫm giáp ranh Vạn Độc Cốc, nơi ảo ảnh và tâm ma ngự trị. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Huyết_Vụ_Lâm.md`.
+            - *Huyết Mạch Thượng Cổ:* Tàn tích rễ Cây Thế Giới nằm sâu dưới lòng đất, chứa Hồ Thanh Mộc Dịch và tinh thể Mộc Tinh. Xem tại `Đạo/Kỳ_Vật/Huyết_Mạch_Thượng_Cổ.md`.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
     - **Tây Mạc (Western Desert):** Vùng sa mạc khắc nghiệt phía Tây, nơi ngự trị của Thiên Sa Thương Hội.
         - *Lưu Sa Phế Tích:* Di tích cổ đại đầy cạm bẫy và ảo ảnh. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md`.
+        - *Hoàng Sa Địa Cung:* Lăng mộ ngầm chứa bí mật của Hoàng Sa Quốc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hoàng_Sa_Địa_Cung.md`.
+        - *Ốc Đảo Thanh Lương:* Điểm dừng chân an toàn với nguồn nước chữa lành. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Ốc_Đảo_Thanh_Lương.md`.
+        - *Trạm Dừng Chân Số 7:* Pháo đài trung chuyển của Thiên Sa Thương Hội, cửa ngõ vào sa mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Trạm_Dừng_Chân_Số_7.md`.
         - *Hắc Sa Bão:* Hiện tượng thiên nhiên tàn khốc đặc trưng của Tây Mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hắc_Sa_Bão.md`.
+        - *Pháo Đài Xanh:* Thánh địa ẩn giấu trong Rừng Thiên Trụ, nơi trấn áp Phong Sát. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Pháo_Đài_Xanh.md`.
 - **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`.
 - **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
 
@@ -62,18 +71,24 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Độc_Cô_Lão_Quái.md`.
 - **Lệ Vô Tâm (Vạn Độc Thánh Tử):** Đại đệ tử Vạn Độc Môn, Trúc Cơ Viên Mãn. Kẻ thù truyền kiếp của thế hệ trẻ chính đạo, sở hữu *Huyết Độc Phiến* và *Thiên Tinh Cổ*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lệ_Vô_Tâm.md`.
+- **Ngô Công Trưởng Lão (Ngũ Độc):** Một trong Ngũ Độc Trưởng Lão của Vạn Độc Môn, Nguyên Anh Hậu Kỳ. Chuyên dùng rết độc (Ngô Công), tính cách tàn nhẫn. (Hiện đang bị trọng thương).
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Ngô_Công_Trưởng_Lão.md`.
 - **Diệp Thanh Y (Dược Tôn):** Cốc Chủ Dược Vương Cốc, Hóa Thần Sơ Kỳ. Một trong Tam Đại Thần Y, tính cách nhân hậu nhưng cương quyết với cái ác. Sở hữu *Thanh Nang Trường Sinh Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Thanh_Y.md`.
 - **Lục Trần (Cửu Hoa Kiếm Tôn):** Tông Chủ Cửu Hoa Kiếm Tông, Hóa Thần Sơ Kỳ. Người duy nhất sống sót sau đại chiến Huyết Hoa, tính cách trầm tĩnh, đạo tâm kiên định. Sở hữu *Thanh Liên Kiếm*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Trần.md`.
 - **Lục Tiêu (Thanh Âm Sứ Giả):** Sứ Giả Tinh Linh Tộc, Kim Đan Sơ Kỳ. Đệ tử của Nữ Hoàng Nguyệt Dao, dùng tiếng sáo để giao tiếp với thiên nhiên. Sở hữu *Thanh Âm Vạn Vật Quyết* và *Ngọc Tiêu Cửu Khúc*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Tiêu.md`.
+- **Lục Ly (Hộ Pháp Tinh Linh):** Hộ Pháp Tinh Linh của Hoàng Sa Quốc, tồn tại dưới dạng hồn thể. Trấn thủ Long Cốt và sở hữu *Thủy Long Ngâm*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Ly.md`.
 - **Nguyệt Dao (Nữ Hoàng Tinh Linh):** Nữ hoàng Tinh Linh Tộc đời thứ 6, Hóa Thần Sơ Kỳ. Người bảo vệ Thần Mộc và lãnh đạo bộ tộc trong thời kỳ Huyết Độc Chi Họa. Sở hữu *Nguyệt Linh Trường Sinh Quyết* và *Nguyệt Thần Cung*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Nguyệt_Dao.md`.
 - **Hứa Nhược Thủy (Sa Dược Phu Nhân):** Gia Chủ Hứa Gia (Thiên Sa Thương Hội), Nguyên Anh Sơ Kỳ. Thương nhân thực dụng và trung lập, nắm giữ nguồn dược liệu sa mạc quan trọng cho cả Chính và Tà đạo. Sở hữu *Thủy Sa Hóa Linh Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hứa_Nhược_Thủy.md`.
 - **Hứa Thanh Vân:** Con trai Hứa Nhược Thủy, Luyện Khí Kỳ. Tính cách hào sảng, muốn làm hiệp khách nhưng thiếu kinh nghiệm, hiện đang mất tích. Sở hữu *Lưu Sa Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hứa_Thanh_Vân.md`.
+- **Lục Ly:** Hộ Pháp Tinh Linh của Hoàng Sa Địa Cung, tồn tại dưới dạng linh hồn. Tính cách lạnh lùng, trung thành tuyệt đối với nhiệm vụ canh giữ Long Cốt. Sở hữu *Thanh Âm Vạn Vật Quyết*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lục_Ly.md`.
 
 ## VI. CÁC THẾ LỰC
 - **Dược Vương Cốc (Trung Thổ):**
@@ -144,6 +159,9 @@
 - **Thanh Mộc Trường Sinh Quyết (Hoàng Cấp Cực Phẩm):**
     - Công pháp Mộc-Phong của tán tu Lâm Phong, thiên về sinh tồn và trói buộc.
     - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Thanh_Mộc_Trường_Sinh_Quyết.md`.
+- **Hàn Băng Bộ (Huyền Cấp Hạ Phẩm):**
+    - Thân pháp hệ Băng của Diệp Tĩnh Sương, để lại dấu chân băng giá và tàn ảnh.
+    - **Chi Tiết:** Xem tại `Đạo/Công_Pháp/Hàn_Băng_Bộ.md`.
 
 ## VIII. TÀI NGUYÊN & NGHỀ PHỤ
 - **Trận Pháp:**
@@ -152,6 +170,7 @@
     - *Cửu Thiên Hàn Băng Trận (Cửu Cấp):* Trận pháp hộ sơn của Huyền Băng Cung, tạo ra bão tuyết và ảo ảnh băng giá. Xem tại `Đạo/Trận_Pháp/Cửu_Thiên_Hàn_Băng_Trận.md`.
     - *Vạn Độc Phệ Tâm Trận (Cửu Cấp):* Trận pháp hộ sơn của Vạn Độc Môn, dùng độc vụ và ảo giác giết chết kẻ thù. Xem tại `Đạo/Trận_Pháp/Vạn_Độc_Phệ_Tâm_Trận.md`.
     - *Vạn Mộc Hồi Xuân Trận (Cửu Cấp):* Trận pháp hộ sơn của Dược Vương Cốc, biến cây cối thành chiến binh và hồi phục linh lực vô tận. Xem tại `Đạo/Trận_Pháp/Vạn_Mộc_Hồi_Xuân_Trận.md`.
+    - *Vạn Độc Huyết Tế Đại Trận (Thiên Cấp Hạ Phẩm):* Cấm trận huyết đạo của Vạn Độc Môn, dùng để giam cầm, lùa địch và hấp thụ huyết khí. Xem tại `Đạo/Trận_Pháp/Vạn_Độc_Huyết_Tế_Đại_Trận.md`.
 - **Đan Dược:**
     - *Kim Đan Phá Chướng Đan:* Hỗ trợ đột phá Kim Đan, tăng 30% tỷ lệ. Xem tại `Đạo/Đan_Dược/Kim_Đan_Phá_Chướng_Đan.md`.
     - *Băng Tâm Đan (Huyền Cấp Hạ Phẩm):* Giúp tĩnh tâm, giải trừ hỏa độc, tăng khả năng tu luyện hệ Băng. Xem tại `Đạo/Đan_Dược/Băng_Tâm_Đan.md`.
@@ -168,6 +187,7 @@
     - *Ngọc Tiêu Cửu Khúc (Pháp Bảo Cực Phẩm):* Sáo ngọc làm từ Thần Mộc, vũ khí của Lục Tiêu, khuếch đại âm luật và điều khiển thực vật. Xem tại `Đạo/Luyện_Khí/Ngọc_Tiêu_Cửu_Khúc.md`.
     - *Nguyệt Thần Cung (Pháp Bảo Cực Phẩm):* Cung thần của Nữ Hoàng Tinh Linh, không cần tên thật, bắn ra ánh sáng thanh tẩy tà ma. Xem tại `Đạo/Luyện_Khí/Nguyệt_Thần_Cung.md`.
     - *Truy Phong Cung (Huyền Cấp Hạ Phẩm):* Cung gỗ Huyết Đằng của Lâm Phong, tăng tốc độ mũi tên và điều khiển hướng đi. Xem tại `Đạo/Luyện_Khí/Truy_Phong_Cung.md`.
+    - *Hỏa Linh Tiễn (Nhất Giai Thượng Phẩm):* Tên nổ hệ Hỏa, gây sát thương diện rộng. Xem tại `Đạo/Luyện_Khí/Hỏa_Linh_Tiễn.md`.
 - **Kỳ Vật:**
     - *Hỏa Linh Thảo:* Thảo dược hệ Hỏa, mọc ở nơi hỏa khí nồng đậm. Xem tại `Đạo/Kỳ_Vật/Hỏa_Linh_Thảo.md`.
     - *Hàn Ngọc:* Khoáng thạch hệ Băng, dùng luyện khí và tu luyện. Xem tại `Đạo/Kỳ_Vật/Hàn_Ngọc.md`.
@@ -180,10 +200,28 @@
     - *Huyết Độc Lang:* Sói biến dị nhiễm Huyết Thần Độc, săn mồi theo đàn. Xem tại `Đạo/Kỳ_Vật/Huyết_Độc_Lang.md`.
     - *Tinh Linh Cổ Ngọc:* Tín vật cổ đại của Tinh Linh Tộc, có khả năng đẩy lùi chướng khí. Xem tại `Đạo/Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md`.
     - *Huyết Đằng:* Dây leo hút máu, vật liệu chế tạo Truy Phong Cung. Xem tại `Đạo/Kỳ_Vật/Huyết_Đằng.md`.
+    - *Huyết Mộc:* Loài cây biến dị đặc hữu của Rừng Huyết Độc, thân rỉ nhựa như máu, gây ảo giác. Xem tại `Đạo/Kỳ_Vật/Huyết_Mộc.md`.
     - *Nguyệt Quang Thảo:* Linh thảo hấp thụ ánh trăng, có khả năng thanh lọc độc tố. Xem tại `Đạo/Kỳ_Vật/Nguyệt_Quang_Thảo.md`.
     - *Độc Long Tích:* Thằn lằn độc khổng lồ sống tại Núi Độc Long, có vảy đá và máu độc. Xem tại `Đạo/Kỳ_Vật/Độc_Long_Tích.md`.
     - *Sa Sương:* Tinh thể băng kết tinh vào đêm sa mạc, dùng để chế thuốc giải hỏa độc. Xem tại `Đạo/Kỳ_Vật/Sa_Sương.md`.
     - *Sa Hồn (Sand Wraith):* Oán linh tại Lưu Sa Phế Tích, có khả năng tạo ảo giác và nhập vào cát. Xem tại `Đạo/Kỳ_Vật/Sa_Hồn.md`.
+    - *Long Cốt:* Di cốt rồng thần hệ Thổ, chìa khóa nắm giữ long mạch Tây Mạc. Xem tại `Đạo/Kỳ_Vật/Long_Cốt.md`.
+    - *Nhện Mặt Quỷ:* Nhện độc khổng lồ, lưng có hình mặt quỷ, giăng tơ vô hình và tạo ảo giác. Xem tại `Đạo/Kỳ_Vật/Nhện_Mặt_Quỷ.md`.
+    - *Thủy Linh Châu (Mảnh Vỡ):* Kỳ vật hệ Thủy có khả năng thanh tẩy độc tố và điều khiển dòng nước. Xem tại `Đạo/Kỳ_Vật/Thủy_Linh_Châu.md`.
+    - *Thủy Thi:* Xác chết biến dị do ngâm nước nhiễm âm khí, sống dai và có độc. Xem tại `Đạo/Kỳ_Vật/Thủy_Thi.md`.
+    - *Thủy Linh Châu:* Bảo vật trấn quốc của Hoàng Sa Quốc, có khả năng thanh tẩy độc tố và điều khiển thủy lực. Xem tại `Đạo/Kỳ_Vật/Thủy_Linh_Châu.md`.
+    - *Thủy Thi:* Xác chết dưới nước bị biến đổi thành quái vật, da trắng bệch, sợ lửa. Xem tại `Đạo/Kỳ_Vật/Thủy_Thi.md`.
+    - *Xương Rồng Thiên Trụ:* Thực vật khổng lồ vùng Tây Mạc, nhựa có khả năng giải độc và hồi phục. Xem tại `Đạo/Kỳ_Vật/Xương_Rồng_Thiên_Trụ.md`.
+    - *Thiên Trụ Tương:* Nhựa cây quý hiếm từ Xương Rồng Thiên Trụ cổ đại, có khả năng hồi phục cực mạnh. Xem tại `Đạo/Kỳ_Vật/Thiên_Trụ_Tương.md`.
+    - *Sa Hồ:* Loài cáo sa mạc thông minh, có khả năng tìm nước và dự báo bão. Xem tại `Đạo/Kỳ_Vật/Sa_Hồ.md`.
+    - *Mộc Linh Vệ:* Tinh linh thực vật bảo vệ Pháo Đài Xanh, kết từ dây leo và rễ cây. Xem tại `Đạo/Kỳ_Vật/Mộc_Linh_Vệ.md`.
+    - *Huyết Độc Lang Vương:* Thủ lĩnh biến dị của bầy Huyết Độc Lang, có giáp cốt và khả năng điều khiển bầy đàn. Xem tại `Đạo/Kỳ_Vật/Huyết_Độc_Lang_Vương.md`.
+    - *Vong Linh (Undead Spirit):* Hài cốt bị Địa Sát thao túng, có lửa linh hồn xanh lục, miễn nhiễm sát thương vật lý. Xem tại `Đạo/Kỳ_Vật/Vong_Linh.md`.
+    - *Huyết Nhện Chúa:* Thủ lĩnh biến dị của bầy Nhện Mặt Quỷ, hấp thụ Địa Sát và Huyết Thần Độc. Xem tại `Đạo/Kỳ_Vật/Huyết_Nhện_Chúa.md`.
+    - *Huyết Nhện Chúa:* Yêu thú biến dị cấp Trúc Cơ Trung Kỳ, thủ lĩnh của Nhện Mặt Quỷ. Xem tại `Đạo/Kỳ_Vật/Huyết_Nhện_Chúa.md`.
+    - *Huyết Linh Chi:* Linh thảo hệ Huyết mọc trên rễ Huyết Mộc cổ thụ, có khả năng hồi phục khí huyết và giải độc. Xem tại `Đạo/Kỳ_Vật/Huyết_Linh_Chi.md`.
+    - *Huyết Vệ:* Tu sĩ bị Vạn Độc Môn cải tạo thành cỗ máy giết chóc, vô cảm và có sức mạnh thể chất kinh hồn. Xem tại `Đạo/Kỳ_Vật/Huyết_Vệ.md`.
+    - *Huyết Nha:* Quạ biến dị nhiễm Huyết Thần Độc, đóng vai trò trinh sát của Vạn Độc Môn. Xem tại `Đạo/Kỳ_Vật/Huyết_Nha.md`.
 
 ## IX. KHO TÀNG VĂN HỌC
 - **Thơ Ca:**
@@ -194,6 +232,7 @@
     - [Nguyệt Hạ Tinh Linh](Thơ_Ca/Nguyệt_Hạ_Tinh_Linh.md): Bài thơ về nỗi cô đơn và quyết tâm của Nữ Hoàng Nguyệt Dao.
     - [Đầm Lầy Dạ Khúc](Thơ_Ca/Đầm_Lầy_Dạ_Khúc.md): Bài thơ về sự nguy hiểm và chết chóc của Đầm Lầy Tử Thần.
     - [Ốc Đảo Dạ Khúc](Thơ_Ca/Ốc_Đảo_Dạ_Khúc.md): Bài thơ về vẻ đẹp và sự nguy hiểm của ốc đảo sa mạc.
+    - [Long Cốt Bi Ca](Thơ_Ca/Long_Cốt_Bi_Ca.md): Bài thơ bi tráng về sự sụp đổ của phong ấn Long Cốt.
 - **Âm Nhạc:**
     - **[DANH SÁCH TÁC PHẨM (MỚI)](Âm_Nhạc/DANH_SÁCH_TÁC_PHẨM.md):** Thư viện tổng hợp 100+ tác phẩm âm nhạc (bao gồm 90 bài hát mới).
     - [Khúc Nhạc Mở Đầu: Cố Nguyên Trường Ca](Âm_Nhạc/Khởi_Nguyên/Khúc_Nhạc_Mở_Đầu.md): BGM hùng tráng, bi ai mô tả thế giới.
@@ -214,22 +253,180 @@
 
 ## XI. DANH SÁCH CHƯƠNG TRUYỆN
 - **Huyết Độc Chi Họa:**
-    - [Chương 1: Dấu Hiệu Tai Ương](Chương_Truyện/Chương_00001_Dấu_Hiệu_Tai_Ương.md)
-    - [Chương 2: Phản Kích và Vòng Vây](Chương_Truyện/Chương_00002_Phản_Kích_Và_Vòng_Vây.md)
-    - [Chương 3: Bóng Ma Trong Màn Sương](Chương_Truyện/Chương_00003_Bóng_Ma_Trong_Màn_Sương.md)
-    - [Chương 4: Vạn Độc Thánh Tử](Chương_Truyện/Chương_00004_Vạn_Độc_Thánh_Tử.md)
-    - [Chương 5: Dưới Bóng Ma Rừng Thẳm](Chương_Truyện/Chương_00005_Dưới_Bóng_Ma_Rừng_Thẳm.md)
-    - [Chương 6: Huyết Chiến Đầm Lầy](Chương_Truyện/Chương_00006_Huyết_Chiến_Đầm_Lầy.md)
-    - [Chương 7: Dấu Vết Cổ Xưa](Chương_Truyện/Chương_00007_Dấu_Vết_Cổ_Xưa.md)
-    - [Chương 8: Huyết Tướng Truy Sát](Chương_Truyện/Chương_00008_Huyết_Tướng_Truy_Sát.md)
-    - [Chương 9: Núi Độc Long](Chương_Truyện/Chương_00009_Núi_Độc_Long.md)
-    - [Chương 10: Độc Long Xuất Thế](Chương_Truyện/Chương_00010_Độc_Long_Xuất_Thế.md)
-    - [Chương 11: Bão Cát Tây Mạc](Chương_Truyện/Chương_00011_Bão_Cát_Tây_Mạc.md)
-    - [Chương 12: Thương Vụ Bạc Tỷ](Chương_Truyện/Chương_00012_Thương_Vụ_Bạc_Tỷ.md)
-    - [Chương 13: Lạc Lối Trong Cát](Chương_Truyện/Chương_00013_Lạc_Lối_Trong_Cát.md)
-    - [Chương 14: Sa Mạc Mê Cung](Chương_Truyện/Chương_00014_Sa_Mạc_Mê_Cung.md)
+    - [Chương 1: Dấu Hiệu Tai Ương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00001_Dấu_Hiệu_Tai_Ương.md)
+    - [Chương 2: Phản Kích và Vòng Vây](Chương_Truyện/Góc_Nhìn_Chính/Chương_00002_Phản_Kích_Và_Vòng_Vây.md)
+    - [Chương 3: Bóng Ma Trong Màn Sương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00003_Bóng_Ma_Trong_Màn_Sương.md)
+    - [Chương 4: Vạn Độc Thánh Tử](Chương_Truyện/Góc_Nhìn_Chính/Chương_00004_Vạn_Độc_Thánh_Tử.md)
+    - [Chương 5: Dưới Bóng Ma Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00005_Dưới_Bóng_Ma_Rừng_Thẳm.md)
+    - [Chương 6: Huyết Chiến Đầm Lầy](Chương_Truyện/Góc_Nhìn_Chính/Chương_00006_Huyết_Chiến_Đầm_Lầy.md)
+    - [Chương 7: Dấu Vết Cổ Xưa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00007_Dấu_Vết_Cổ_Xưa.md)
+    - [Chương 8: Huyết Tướng Truy Sát](Chương_Truyện/Góc_Nhìn_Chính/Chương_00008_Huyết_Tướng_Truy_Sát.md)
+    - [Chương 9: Núi Độc Long](Chương_Truyện/Góc_Nhìn_Chính/Chương_00009_Núi_Độc_Long.md)
+    - [Chương 10: Độc Long Xuất Thế](Chương_Truyện/Góc_Nhìn_Chính/Chương_00010_Độc_Long_Xuất_Thế.md)
+    - [Chương 11: Bão Cát Tây Mạc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00011_Bão_Cát_Tây_Mạc.md)
+    - [Chương 12: Thương Vụ Bạc Tỷ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00012_Thương_Vụ_Bạc_Tỷ.md)
+    - [Chương 13: Lạc Lối Trong Cát](Chương_Truyện/Góc_Nhìn_Chính/Chương_00013_Lạc_Lối_Trong_Cát.md)
+    - [Chương 14: Sa Mạc Mê Cung](Chương_Truyện/Góc_Nhìn_Chính/Chương_00014_Sa_Mạc_Mê_Cung.md)
+    - [Chương 15: Bí Mật Hoàng Sa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00015_Bí_Mật_Hoàng_Sa.md)
+    - [Chương 16: Trở Về Cát Bụi](Chương_Truyện/Góc_Nhìn_Chính/Chương_00016_Trở_Về_Cát_Bụi.md)
+    - [Chương 17: Mưu Đồ Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00017_Mưu_Đồ_Bóng_Tối.md)
+    - [Chương 18: Huyết Chiến Trạm Dừng Chân](Chương_Truyện/Góc_Nhìn_Chính/Chương_00018_Huyết_Chiến_Trạm_Dừng_Chân.md)
+    - [Chương 19: Hành Trình Về Phía Đông](Chương_Truyện/Góc_Nhìn_Chính/Chương_00019_Hành_Trình_Về_Phía_Đông.md)
+    - [Chương 20: Ranh Giới Sinh Tử](Chương_Truyện/Góc_Nhìn_Chính/Chương_00020_Ranh_Giới_Sinh_Tử.md)
+    - [Chương 21: Độc Khí Công Tâm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00021_Độc_Khí_Công_Tâm.md)
+    - [Chương 22: Huyết Đằng Vây Hãm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00022_Huyết_Đằng_Vây_Hãm.md)
+    - [Chương 23: Hang Động Nhện Quỷ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00023_Hang_Động_Nhện_Quỷ.md)
+    - [Chương 24: Huyết Thi Trỗi Dậy](Chương_Truyện/Góc_Nhìn_Chính/Chương_00024_Huyết_Thi_Trỗi_Dậy.md)
+    - [Chương 25: Mạch Ngầm Bí Ẩn](Chương_Truyện/Góc_Nhìn_Chính/Chương_00025_Mạch_Ngầm_Bí_Ẩn.md)
+    - [Chương 26: Hoàng Sa Thâm Cung](Chương_Truyện/Góc_Nhìn_Chính/Chương_00026_Hoàng_Sa_Thâm_Cung.md)
+    - [Chương 27: Bí Mật Dưới Đáy Hồ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00027_Bí_Mật_Dưới_Đáy_Hồ.md)
+    - [Chương 28: Thử Thách Của Lục Ly](Chương_Truyện/Góc_Nhìn_Chính/Chương_00028_Thử_Thách_Của_Lục_Ly.md)
+    - [Chương 29: Bí Mật Long Cốt](Chương_Truyện/Góc_Nhìn_Chính/Chương_00029_Bí_Mật_Long_Cốt.md)
+    - [Chương 30: Đại Nạn Long Mạch](Chương_Truyện/Góc_Nhìn_Chính/Chương_00030_Đại_Nạn_Long_Mạch.md)
+    - [Chương 31: Hắc Sa Bão Trỗi Dậy](Chương_Truyện/Góc_Nhìn_Chính/Chương_00031_Hắc_Sa_Bão_Trỗi_Dậy.md)
+    - [Chương 32: Sa Hồn Truy Kích](Chương_Truyện/Góc_Nhìn_Chính/Chương_00032_Sa_Hồn_Truy_Kích.md)
+    - [Chương 33: Bí Mật Rừng Thiên Trụ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00033_Bí_Mật_Rừng_Thiên_Trụ.md)
+    - [Chương 34: Pháo Đài Xanh](Chương_Truyện/Góc_Nhìn_Chính/Chương_00034_Pháo_Đài_Xanh.md)
+    - [Chương 35: Lối Mòn Trong Bão](Chương_Truyện/Góc_Nhìn_Chính/Chương_00035_Lối_Mòn_Trong_Bão.md)
+    - [Chương 36: Ranh Giới Tử Thần](Chương_Truyện/Góc_Nhìn_Chính/Chương_00036_Ranh_Giới_Tử_Thần.md)
+    - [Chương 37: Vòng Vây Huyết Lang](Chương_Truyện/Góc_Nhìn_Chính/Chương_00037_Vòng_Vây_Huyết_Lang.md)
+    - [Chương 38: Huyết Chiến Lang Vương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00038_Huyết_Chiến_Lang_Vương.md)
+    - [Chương 39: Vùng Đất Chết](Chương_Truyện/Góc_Nhìn_Chính/Chương_00039_Vùng_Đất_Chết.md)
+    - [Chương 40: Huyết Chiến Cửa Hang](Chương_Truyện/Góc_Nhìn_Chính/Chương_00040_Huyết_Chiến_Cửa_Hang.md)
+    - [Chương 41: Mê Cung Tơ Độc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00041_Mê_Cung_Tơ_Độc.md)
+    - [Chương 42: Huyết Chiến Nhện Chúa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00042_Huyết_Chiến_Nhện_Chúa.md)
+    - [Chương 43: Thoát Khỏi Hang Động](Chương_Truyện/Góc_Nhìn_Chính/Chương_00043_Thoát_Khỏi_Hang_Động.md)
+    - [Chương 44: Ánh Sáng Và Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00044_Ánh_Sáng_Và_Bóng_Tối.md)
+    - [Chương 45: Huyết Trận Khởi Động](Chương_Truyện/Góc_Nhìn_Chính/Chương_00045_Huyết_Trận_Khởi_Động.md)
+    - [Chương 46: Vòng Vây Sinh Tử](Chương_Truyện/Góc_Nhìn_Chính/Chương_00046_Vòng_Vây_Sinh_Tử.md)
+    - [Chương 47: Huyết Lộ Phá Trận](Chương_Truyện/Góc_Nhìn_Chính/Chương_00047_Huyết_Lộ_Phá_Trận.md)
+    - [Chương 48: Tiếng Sáo Vượt Rừng](Chương_Truyện/Góc_Nhìn_Chính/Chương_00048_Tiếng_Sáo_Vượt_Rừng.md)
+    - [Chương 49: Bí Mật Mộc Linh Trận](Chương_Truyện/Góc_Nhìn_Chính/Chương_00049_Bí_Mật_Mộc_Linh_Trận.md)
+    - [Chương 50: Cuộc Chiến Thủ Thành](Chương_Truyện/Góc_Nhìn_Chính/Chương_00050_Cuộc_Chiến_Thủ_Thành.md)
+    - [Chương 51: Đột Kích Mắt Trận (Phần 1)](Chương_Truyện/Góc_Nhìn_Chính/Chương_00051_Đột_Kích_Mắt_Trận_1.md)
+    - [Chương 52: Đột Kích Mắt Trận (Phần 2)](Chương_Truyện/Góc_Nhìn_Chính/Chương_00052_Đột_Kích_Mắt_Trận_2.md)
+    - [Chương 53: Vòng Vây Siết Chặt](Chương_Truyện/Góc_Nhìn_Chính/Chương_00053_Vòng_Vây_Siết_Chặt.md)
+    - [Chương 54: Bóng Ma Trong Sương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00054_Bóng_Ma_Trong_Sương.md)
+    - [Chương 55: Huyết Mạch Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00055_Huyết_Mạch_Thượng_Cổ.md)
+    - [Chương 56: Bí Mật Dưới Lòng Đất](Chương_Truyện/Góc_Nhìn_Chính/Chương_00056_Bí_Mật_Dưới_Lòng_Đất.md)
+    - [Chương 57: Huyết Chiến Ngô Công](Chương_Truyện/Góc_Nhìn_Chính/Chương_00057_Huyết_Chiến_Ngô_Công.md)
+    - [Chương 58: Giao Ước Trong Bóng Tối](Chương_Truyện/Góc_Nhìn_Chính/Chương_00058_Giao_Ước_Trong_Bóng_Tối.md)
+    - [Chương 59: Lối Mòn Trong Lòng Đất](Chương_Truyện/Góc_Nhìn_Chính/Chương_00059_Lối_Mòn_Trong_Lòng_Đất.md)
+- **Góc Nhìn Khác (Ngoại Truyện / Song Song):**
+    - **Lệ Vô Tâm (Vạn Độc Thánh Tử):**
+        - [Chương 1: Đường Đến Thánh Vị](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00001_Đường_Đến_Thánh_Vị.md) (Khởi đầu - Quá khứ 10 năm trước)
+        - [Chương 2: Huyết Độc Phiến](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00002_Huyết_Độc_Phiến.md) (Quá khứ 5 năm trước)
+        - [Chương 3: Mệnh Lệnh Bóng Tối](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00003_Mệnh_Lệnh_Bóng_Tối.md) (Dẫn nhập Huyết Độc Chi Họa)
+        - [Chương 4: Thí Nghiệm Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00004_Thí_Nghiệm_Máu.md) (Song song Chương 3 chính)
+        - [Chương 5: Ván Cờ Huyết Độc](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00005_Ván_Cờ_Huyết_Độc.md) (Song song Chương 4 chính)
+        - [Chương 2.5: Diệt Môn Chi Họa](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00002_5_Diệt_Môn_Chi_Họa.md) (Quá khứ 8 năm trước)
+    - **Diệp Tĩnh Sương (Hàn Mai Kiếm):**
+        - [Chương 0: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00000_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
+        - [Chương 1: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
+    - **Lâm Phong (Truy Phong Khách):**
+        - [Chương 1: Cơ Duyên Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00001_Cơ_Duyên_Rừng_Thẳm.md) (Quá khứ 6 năm trước)
 
 ## XII. CẬP NHẬT GẦN NHẤT
+- Viết Chương Truyện: Chương 59 - Lối Mòn Trong Lòng Đất.
+- Cập nhật Thế lực: Vạn Độc Môn (Thêm Kho Chứa Ngầm).
+- Cập nhật Nhân vật: Hứa Nhược Thủy (Thêm quá khứ buôn lậu).
+- Viết Chương Truyện: Chương 58 - Giao Ước Trong Bóng Tối.
+- Cập nhật Lore: Huyết Mạch Thượng Cổ (Hồ Thanh Mộc Dịch).
+- Cập nhật Nhân vật: Ngô Công Trưởng Lão (Trọng thương).
+- Cập nhật Địa danh: Mộc Linh Trận Địa (Nguy kịch).
+- Viết Chương Truyện: Chương 57 - Huyết Chiến Ngô Công.
+- Cập nhật Nhân vật: Ngô Công Trưởng Lão (Thêm chiêu thức & vai trò).
+- Cập nhật Thế lực: Vạn Độc Môn (Thêm bí mật về Cấm Trận).
+- Viết Chương Truyện: Chương 56 - Bí Mật Dưới Lòng Đất.
+- Tạo Kỳ vật: Huyết Mạch Thượng Cổ.
+- Tạo Nhân vật: Ngô Công Trưởng Lão.
+- Viết Chương Truyện: Chương 55 - Huyết Mạch Thượng Cổ.
+- Cập nhật Địa danh: Huyết Vụ Lâm (Thêm Huyết Mạch Thượng Cổ).
+- Viết Chương Truyện: Chương 2.5 Lệ Vô Tâm (Diệt Môn Chi Họa).
+- Viết Chương Truyện: Chương 0 Diệp Tĩnh Sương (Tuyết Phủ Mộ Phần).
+- Viết Chương Truyện: Chương 1 Lâm Phong (Cơ Duyên Rừng Thẳm).
+- Viết Chương Truyện: Chương 44 - Hồi Sinh Trong Tử Địa.
+- Viết Chương Truyện: Chương 54 - Bóng Ma Trong Sương.
+- Tạo Địa danh: Huyết Vụ Lâm.
+- Cập nhật Thế lực: Vạn Độc Môn (Thêm Vạn Độc Thất Sát).
+- Viết Chương Truyện: Chương 53 - Vòng Vây Siết Chặt.
+- Viết Chương Truyện: Chương 52 - Đột Kích Mắt Trận (Phần 2).
+- Viết Chương Truyện: Chương 51 - Đột Kích Mắt Trận (Phần 1).
+- Tạo Kỳ vật: Huyết Nha (Blood Crows).
+- Viết Chương Truyện: Chương 50 - Cuộc Chiến Thủ Thành.
+- Viết Chương Truyện: Chương 49 - Bí Mật Mộc Linh Trận.
+- Viết Chương Truyện: Chương 48 - Tiếng Sáo Vượt Rừng.
+- Tạo Địa danh: Mộc Linh Trận Địa.
+- Viết Chương Truyện: Chương 47 - Huyết Lộ Phá Trận.
+- Viết Chương Truyện: Chương 46 - Vòng Vây Sinh Tử.
+- Viết Chương Truyện: Chương 45 - Huyết Trận Khởi Động.
+- Tạo Trận pháp: Vạn Độc Huyết Tế Đại Trận.
+- Tạo Kỳ vật: Huyết Vệ.
+- Viết Chương Truyện: Chương 44 - Ánh Sáng Và Bóng Tối.
+- Tạo Prompt Ảnh: Huyết Linh Chi (Rừng Huyết Độc).
+- Viết Chương Truyện: Chương 43 - Thoát Khỏi Hang Động.
+- Tạo Kỳ vật: Huyết Linh Chi.
+- Viết Chương Truyện: Chương 42 - Huyết Chiến Nhện Chúa.
+- Tạo Kỳ vật: Huyết Nhện Chúa.
+- Viết Chương Truyện: Chương 41 - Mê Cung Tơ Độc.
+- Viết Chương Truyện: Chương 40 - Huyết Chiến Cửa Hang.
+- Tạo Kỳ vật: Vong Linh (Undead Spirit).
+- Viết Chương Truyện: Chương 39 - Vùng Đất Chết.
+- Tạo Địa danh: Vùng Đất Chết.
+- Viết Chương Truyện: Chương 38 - Huyết Chiến Lang Vương.
+- Tạo Kỳ vật: Huyết Độc Lang Vương.
+- Tạo Công pháp: Hàn Băng Bộ.
+- Tạo Pháp bảo: Hỏa Linh Tiễn.
+- Tạo Prompt Ảnh: Huyết Chiến Lang Vương (Chương 38).
+- Viết Chương Truyện: Chương 37 - Vòng Vây Huyết Lang.
+- Tạo Kỳ vật: Huyết Mộc.
+- Tạo Prompt Ảnh: Vòng Vây Huyết Lang (Chương 37).
+- Viết Chương Truyện: Chương 36 - Ranh Giới Tử Thần.
+- Viết Chương Truyện: Chương 35 - Lối Mòn Trong Bão.
+- Tạo Kỳ vật: Mộc Linh Vệ.
+- Viết Chương Truyện: Chương 34 - Pháo Đài Xanh.
+- Tạo Địa danh: Pháo Đài Xanh.
+- Tạo Kỳ vật: Thiên Trụ Tương & Sa Hồ.
+- Viết Chương Truyện: Chương 33 - Bí Mật Rừng Thiên Trụ.
+- Tạo Kỳ vật: Xương Rồng Thiên Trụ.
+- Viết Chương Truyện: Chương 32 - Sa Hồn Truy Kích.
+- Viết Chương Truyện: Chương 31 - Hắc Sa Bão Trỗi Dậy.
+- Viết Chương Truyện: Chương 30 - Đại Nạn Long Mạch.
+- Sáng tác Thơ: Long Cốt Bi Ca.
+- Viết Chương Truyện: Chương 29 - Bí Mật Long Cốt.
+- Hoàn thành Arc: Tiền Truyện Lệ Vô Tâm (5 Chương).
+- Viết Chương Truyện: Chương 28 - Thử Thách Của Lục Ly.
+- Tạo Nhân vật: Lục Ly (Hộ Pháp Tinh Linh).
+- Tạo Kỳ vật: Thủy Linh Châu & Thủy Thi.
+- Cập nhật Thơ ca & Công pháp: Thêm bản Hán Văn (Đầm Lầy Dạ Khúc, Khúc Nhạc Rừng Xanh, Nguyệt Hạ Tinh Linh, Nguyệt Linh Quyết, Thanh Mộc Quyết).
+- Viết Chương Truyện: Chương 28 - Thử Thách Của Lục Ly.
+- Tạo Nhân Vật: Lục Ly (Hộ Pháp Tinh Linh).
+- Tạo Kỳ Vật: Thủy Linh Châu & Thủy Thi.
+- Viết Chương Truyện: Chương 27 - Bí Mật Dưới Đáy Hồ.
+- Viết Chương Truyện: Chương 26 - Hoàng Sa Thâm Cung.
+- Cập nhật Địa danh: Hoàng Sa Địa Cung (Thêm Khu Vực Thâm Cung & Hồ Nguyệt Ảnh).
+- Viết Chương Truyện: Chương 25 - Mạch Ngầm Bí Ẩn.
+- Tạo Địa danh: Hang Động Nhện Quỷ (Quỷ Chu Động).
+- Viết Chương Truyện: Chương 24 - Huyết Thi Trỗi Dậy.
+- Viết Chương Truyện: Chương 23 - Hang Động Nhện Quỷ.
+- Tạo Kỳ vật: Nhện Mặt Quỷ (Quái vật Chương 23).
+- Viết Chương Truyện: Chương 22 - Huyết Đằng Vây Hãm.
+- Khôi phục Chương 21: Độc Khí Công Tâm (Bị thiếu file).
+- Viết lại Chương 15-20: Chuẩn hóa định dạng văn xuôi (Xóa bỏ cấu trúc đề cương).
+- Viết Chương Truyện: Chương 21 - Độc Khí Công Tâm.
+- Viết Chương Truyện: Chương 20 - Ranh Giới Sinh Tử.
+- Hoàn thiện hồ sơ: Băng Tâm Quyết (Cấu trúc Hán - Việt - Dịch).
+- Hoàn thiện hồ sơ: Ốc Đảo Dạ Khúc (Thêm bản Tiếng Trung).
+- Viết Chương Truyện: Chương 19 - Hành Trình Về Phía Đông.
+- Cập nhật Hồ sơ nhân vật: Hứa Nhược Thủy (Sửa lỗi cảnh giới con trai & thêm trạng thái trúng độc).
+- Viết Chương Truyện: Chương 18 - Huyết Chiến Trạm Dừng Chân.
+- Viết Chương Truyện: Chương 17 - Mưu Đồ Bóng Tối.
+- Tạo Địa danh: Trạm Dừng Chân Số 7.
+- Viết Chương Truyện: Chương 16 - Trở Về Cát Bụi.
+- Tạo Địa danh: Ốc Đảo Thanh Lương.
+- Viết Chương Truyện: Chương 15 - Bí Mật Hoàng Sa.
+- Tạo Địa danh: Hoàng Sa Địa Cung.
+- Tạo Kỳ vật: Long Cốt.
 - Viết Chương Truyện: Chương 14 - Sa Mạc Mê Cung.
 - Viết Chương Truyện: Chương 13 - Lạc Lối Trong Cát.
 - Tạo Kỳ vật: Sa Hồn (Quái vật Chương 13).

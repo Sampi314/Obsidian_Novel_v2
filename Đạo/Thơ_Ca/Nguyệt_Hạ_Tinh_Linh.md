@@ -5,20 +5,29 @@
 - **Thể Loại:** Thất Ngôn Bát Cú (Seven-Character Octave).
 - **Tác Giả:** Vô Danh Thi Nhân (Ghi lại lời than thở của Nữ Hoàng Nguyệt Dao).
 - **Bối Cảnh:** Đêm trước khi Tinh Linh Tộc quyết định mở kết giới Vĩnh Hằng Sâm Lâm để đối mặt với Huyết Độc Chi Họa.
-
 ## II. NỘI DUNG
 
-### Nguyên Văn (Hán Việt)
-> Vạn cổ sâm lâm tịch mịch sầu,
-> Cô phương độc ảnh nguyệt đăng lầu.
-> Thần mộc điêu linh hoa lệ huyết,
-> Cố hương phiêu bạt thủy đông lưu.
-> Cung trương ngọc chỉ kinh thiên địa,
-> Tiễn phát hàn quang phá quỷ mưu.
-> Nguyện xả kim thân thành hạo nguyệt,
-> Chiếu minh vạn dặm đoạn ân cừu.
+### 1. Nguyên Tác (Hán Văn)
+> 萬古森林寂寞愁，
+> 孤芳獨影月登樓。
+> 神木凋零花淚血，
+> 故鄉漂泊水東流。
+> 弓張玉指驚天地，
+> 箭發寒光破鬼謀。
+> 願捨金身成皓月，
+> 照明萬里斷恩仇。
 
-### Dịch Nghĩa
+### 2. Phiên Âm (Hán Việt)
+> *Vạn cổ sâm lâm tịch mịch sầu,*
+> *Cô phương độc ảnh nguyệt đăng lầu.*
+> *Thần mộc điêu linh hoa lệ huyết,*
+> *Cố hương phiêu bạt thủy đông lưu,*
+> *Cung trương ngọc chỉ kinh thiên địa,*
+> *Tiễn phát hàn quang phá quỷ mưu.*
+> *Nguyện xả kim thân thành hạo nguyệt,*
+> *Chiếu minh vạn dặm đoạn ân cừu.*
+
+### 3. Dịch Nghĩa
 > Rừng già vạn cổ buồn tĩnh mịch,
 > Bóng lẻ loi một mình trăng lên lầu cao.
 > Thần mộc tàn úa như hoa khóc da máu,
@@ -28,7 +37,7 @@
 > Nguyện bỏ thân vàng hóa thành trăng sáng,
 > Soi sáng vạn dặm cắt đứt ân oán hận thù.
 
-### Dịch Thơ (Lục Bát)
+### 4. Dịch Thơ (Lục Bát)
 > *Rừng già vạn cổ u sầu,*
 > *Bóng ai đơn lẻ trên lầu vọng trăng.*
 > *Thần cây nhựa chảy, hoa tàn,*

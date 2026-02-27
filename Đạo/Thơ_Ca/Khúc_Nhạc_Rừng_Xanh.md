@@ -6,14 +6,21 @@
 - **Tác Giả:** [Lục Tiêu](../Nhân_Vật/Lục_Tiêu.md) (Sưu tầm từ dân gian Tinh Linh).
 - **Nhạc Cụ:** [Ngọc Tiêu Cửu Khúc](../Luyện_Khí/Ngọc_Tiêu_Cửu_Khúc.md).
 - **Hoàn Cảnh Sáng Tác:** Thường được Lục Tiêu thổi vào những đêm trăng sáng khi nhớ về quê hương Vĩnh Hằng Sâm Lâm, hoặc để an ủi những linh hồn cây cối bị tàn phá bởi chiến tranh.
+## II. NỘI DUNG
 
-## II. NỘI DUNG (HÁN VIỆT)
-> *Thương hải tang điền, vạn cổ sầu.
-> Thần mộc điêu linh, lệ ngân thâu.
-> Nhất khúc tiêu dao, thiên địa thán.
-> Hồi đầu vọng nguyệt, cố hương đâu?*
+### 1. Nguyên Tác (Hán Văn)
+> 滄海桑田萬古愁，
+> 神木凋零淚痕收。
+> 一曲逍遙天地嘆，
+> 回頭望月故鄉求。
 
-## III. NỘI DUNG (DỊCH THƠ - LỤC BÁT)
+### 2. Phiên Âm (Hán Việt)
+> *Thương hải tang điền, vạn cổ sầu.*
+> *Thần mộc điêu linh, lệ ngân thâu.*
+> *Nhất khúc tiêu dao, thiên địa thán.*
+> *Hồi đầu vọng nguyệt, cố hương cầu.*
+
+## III. DỊCH THƠ (LỤC BÁT)
 > *Rừng xưa giờ hóa nương dâu,
 > Ngàn năm cây cối âu sầu khóc than.
 > Sáo ai thổi khúc ly tan,

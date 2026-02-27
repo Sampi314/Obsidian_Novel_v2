@@ -49,9 +49,9 @@ Tùy thuộc vào nhiệm vụ của bạn, hãy tham khảo hướng dẫn chi 
 | Hàn Thanh Nguyệt (Hàn Tiểu Nha). | Nhân Tộc. | Trúc Cơ Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Hàn_Thanh_Nguyệt.md) |
 | Lâm Phong (林風). | Nhân Tộc. | Luyện Khí Viên Mãn (Chuẩn bị Trúc Cơ). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lâm_Phong.md) |
 | Lý Tuyết Ưng (Li Xue Ying). | Băng Tộc (Nhân Tộc Biến Thể). | Nguyên Anh Hậu Kỳ (gần viên mãn). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lý_Tuyết_Ưng.md) |
-| Lục Tiêu (Luc Tieu). | [Tinh Linh Tộc](../Chủng_Tộc/Chủng_Tộc_Chính.md#tinh-linh-tộc). | Kim Đan Sơ Kỳ (Core Formation Early Stage). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lục_Tiêu.md) |
+| Lục Tiêu (Luc Tieu). | [Tinh Linh Tộc](Đạo/Chủng_Tộc/Chủng_Tộc_Chính.md#tinh-linh-tộc). | Kim Đan Sơ Kỳ (Core Formation Early Stage). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lục_Tiêu.md) |
 | Lục Trần (陸塵). | Nhân Tộc. | Hóa Thần Sơ Kỳ (化神初期). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lục_Trần.md) |
-| Nguyệt Dao (Moon Yao). | [Tinh Linh Tộc](../Chủng_Tộc/Chủng_Tộc_Chính.md#tinh-linh-tộc) (Hoàng Tộc). | Hóa Thần Sơ Kỳ (Soul Transformation Early Stage). | [Xem Chi Tiết](Đạo/Nhân_Vật/Nguyệt_Dao.md) |
+| Nguyệt Dao (Moon Yao). | [Tinh Linh Tộc](Đạo/Chủng_Tộc/Chủng_Tộc_Chính.md#tinh-linh-tộc) (Hoàng Tộc). | Hóa Thần Sơ Kỳ (Soul Transformation Early Stage). | [Xem Chi Tiết](Đạo/Nhân_Vật/Nguyệt_Dao.md) |
 | Sở Lăng Sương (楚凌霜). | Nhân Tộc. | Trúc Cơ Sơ Kỳ (Trúc Cơ tầng 2). | [Xem Chi Tiết](Đạo/Nhân_Vật/Sở_Lăng_Sương.md) |
 | Triệu Thanh Hằng (趙清恒). | Nhân Tộc. | Trúc Cơ Trung Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Triệu_Thanh_Hằng.md) |
 | Đan Dương Tử (丹陽子). | Nhân Tộc. | Hóa Thần Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Đan_Dương_Tử.md) |
@@ -101,6 +101,20 @@ Mọi dữ liệu thế giới được lưu trữ trong thư mục `Đạo/`:
 5.  **Cập Nhật:**
     *   Thêm tóm tắt nội dung mới vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
     *   Ghi lại log vào `.jules_memory/`.
+
+## 🔧 Cài Đặt (Setup)
+
+Nếu bạn thấy tên file bị lỗi hiển thị (ví dụ `\\304\\220...`), hãy chạy lệnh sau để khắc phục:
+
+```bash
+bash scripts/setup_git.sh
+```
+
+Hoặc chạy thủ công lệnh:
+
+```bash
+git config core.quotePath false
+```
 
 ---
 *Dự án được vận hành bởi đội ngũ AI Agents chuyên biệt.*
