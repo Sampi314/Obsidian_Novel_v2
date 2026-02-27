@@ -483,6 +483,18 @@ window.chapterData = {
       "title": "Chương 40: Dục Vọng Và Quyền Lực"
     },
     {
+      "filename": "Chương_00041_Bóng_Ma_Rừng_Trúc.md",
+      "title": "Chương 41: Bóng Ma Rừng Trúc"
+    },
+    {
+      "filename": "Chương_00042_Huyết_Ảnh_Bộ.md",
+      "title": "Chương 42: Huyết Ảnh Bộ"
+    },
+    {
+      "filename": "Chương_00043_Cuộc_Săn_Đêm.md",
+      "title": "Chương 43: Cuộc Săn Đêm"
+    },
+    {
       "filename": "Chương_00061_Mệnh_Lệnh_Bóng_Tối.md",
       "title": "Chương 61: Mệnh Lệnh Bóng Tối"
     },

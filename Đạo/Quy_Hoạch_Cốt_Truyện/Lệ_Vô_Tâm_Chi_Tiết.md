@@ -1,7 +1,6 @@
 # QUY HOẠCH CỐT TRUYỆN CHI TIẾT: LỆ VÔ TÂM
 
 ## MỤC TIÊU
-Mở rộng tuyến truyện của Lệ Vô Tâm để khắc họa rõ nét quá trình biến đổi tâm lý từ một đứa trẻ lương thiện (Hữu Tâm) thành một ma đầu tàn độc (Vô Tâm). Giải thích rõ động cơ và sự hình thành nhân cách méo mó của hắn thông qua những biến cố cụ thể. Cấu trúc chương sẽ tuân theo thứ tự số nguyên liên tục, không dùng số thập phân.
 Mở rộng tuyến truyện của Lệ Vô Tâm để khắc họa rõ nét quá trình biến đổi tâm lý từ một đứa trẻ lương thiện (Hữu Tâm) thành một ma đầu tàn độc (Vô Tâm). Cốt truyện được chia thành 3 Arc lớn, mỗi Arc gồm 30 chương, được đánh số liên tục.
 
 ---
@@ -12,100 +11,45 @@ Mở rộng tuyến truyện của Lệ Vô Tâm để khắc họa rõ nét qu�
 **Chủ đề:** Sinh Tồn & Đánh Mất Nhân Tính.
 **Số lượng dự kiến:** 30 chương (Chương 1 - 30).
 
-### Diễn Biến Chính:
-1.  **Hậu Quả Của Sự Sống Sót (Chương 1 - 7):**
-    *   **Chương 1-3:** Hồi tưởng và hiện thực sau khi bước ra khỏi Huyết Trì. Hữu Tâm bị coi là "quái vật". Ám ảnh tâm lý về cái chết của Tiểu Lan và 98 đứa trẻ khác.
-    *   **Chương 4-5:** Sự cô lập và những nỗ lực sinh tồn đầu tiên trong hang động ẩm thấp. Những mâu thuẫn nội tâm giữa bản ngã lương thiện và bản năng sát thủ.
-    *   **Chương 6-7:** Cuộc săn đêm Huyết Nguyệt. Lần đầu tiên chủ động giết người không vì tự vệ mà vì sự khẳng định vị thế.
-
-2.  **Địa Ngục Huấn Luyện (Chương 8 - 15):**
-    *   **Chương 8: Đêm Dài Vô Tận:** Hậu quả trực tiếp của đêm Huyết Nguyệt. Sự truy sát của các phe phái trong ngoại môn không dừng lại khi trời sáng.
-    *   **Chương 9: Bình Minh Đẫm Máu:** Kết thúc cuộc săn. Sự thay đổi trong ánh mắt của đồng môn: từ khinh miệt sang sợ hãi tột độ.
-    *   **Chương 10: Phần Thưởng Và Cái Giá:** Độc Cô Lão Quái xuất hiện, ban thưởng nhưng kèm theo sự trừng phạt tinh thần. Bài học đầu tiên: "Quyền lực được xây bằng máu và nỗi đau".
-    *   **Chương 11: Vạn Độc Phệ Thân:** Bắt đầu nghi thức ngâm mình trong dược độc. Mô tả chi tiết sự đau đớn về thể xác khi da thịt bị ăn mòn và tái tạo.
-    *   **Chương 12: Ngục Tù Tâm Trí:** Trong cơn mê sảng vì độc, Hữu Tâm đối mặt với ảo ảnh của quá khứ. Hắn phải tự tay "giết chết" hình ảnh cha mẹ và Tiểu Lan trong tâm trí để vượt qua tâm ma.
-    *   **Chương 13-15:** Quá trình huấn luyện tàn khốc tiếp diễn. Học cách chế tạo độc dược cơ bản và điều khiển côn trùng.
-
-3.  **Tia Sáng & Sự Phản Bội (Chương 16 - 25):**
-    *   Hữu Tâm gặp gỡ **A Mộc**, một tạp dịch câm điếc trong dược điền. A Mộc không sợ hắn, thường lén mang đồ ăn cho hắn.
-    *   Hữu Tâm dần mở lòng, coi A Mộc là người bạn duy nhất. Hắn bắt đầu mơ về việc trốn khỏi Vạn Độc Môn cùng A Mộc.
-    *   Biến cố: A Mộc thực chất là tai mắt do một trưởng lão khác cài vào để tìm điểm yếu của "Thánh Tử". A Mộc phản bội, dẫn dụ Hữu Tâm vào bẫy.
-
-4.  **Cái Chết Của Hữu Tâm (Chương 26 - 30):**
-    *   Hữu Tâm thoát chết trong gang tấc nhưng bị thương nặng.
-    *   Hắn tìm đến A Mộc. A Mộc lộ nguyên hình, chế giễu sự ngây thơ của hắn.
-    *   Hữu Tâm tự tay giết chết A Mộc. Khoảnh khắc này đánh dấu sự chấm dứt hoàn toàn của nhân tính. Hắn thề sẽ không bao giờ tin tưởng bất cứ ai nữa.
-    *   Kết thúc Arc: Hắn đổi tên hoàn toàn thành Lệ Vô Tâm, bắt đầu tu luyện *Vạn Độc Chân Kinh* một cách điên cuồng.
-**Số lượng:** 30 chương (Chương 1 - 30).
-
-### Danh Sách Chương Dự Kiến:
+### Danh Sách Chương:
 
 #### Phần 1: Hậu Quả Của Sự Sống Sót (Chương 1 - 7)
-*   **Chương 1:** Đường Đến Thánh Vị (Hiện tại: Chương 1 gốc).
-*   **Chương 2:** Hậu Quả Sinh Tồn (Hiện tại: Chương 1.1).
-    -   Mô tả đêm đầu tiên sau khi rời Huyết Trì. Hữu Tâm bị ám ảnh bởi cái chết của Tiểu Lan.
-*   **Chương 3:** Bài Học Vô Cảm (Hiện tại: Chương 1.2).
-    -   Hữu Tâm giết con chó hoang vì cơn đói và bản năng sinh tồn trỗi dậy.
-*   **Chương 4:** Sự Phản Bội Đầu Tiên (Hiện tại: Chương 1.3).
-    -   Bị một nhóm tạp dịch cũ lừa gạt và đánh đập. Hữu Tâm nhận ra lòng tốt là thứ xa xỉ.
-*   **Chương 5:** Bóng Tối Cô Độc (Hiện tại: Chương 1.4).
-    -   Hữu Tâm tìm được một hang động bí mật để ẩn náu và tự chữa thương.
-*   **Chương 6:** Thử Thách Vạn Độc (Hiện tại: Chương 1.5).
-    -   Lần đầu tiên tiếp xúc với độc dược sơ cấp của Vạn Độc Môn.
-*   **Chương 7:** Huyết Nguyệt Sát Cơ (Hiện tại: Chương 1.6).
-    -   Đêm trăng máu, Hữu Tâm phải đối mặt với một đợt thanh trừng ngầm.
+*   **Chương 1:** Đường Đến Thánh Vị.
+*   **Chương 2:** Hậu Quả Sinh Tồn.
+*   **Chương 3:** Bài Học Vô Cảm.
+*   **Chương 4:** Sự Phản Bội Đầu Tiên.
+*   **Chương 5:** Bóng Tối Cô Độc.
+*   **Chương 6:** Thử Thách Vạn Độc.
+*   **Chương 7:** Huyết Nguyệt Sát Cơ.
 
 #### Phần 2: Địa Ngục Huấn Luyện (Chương 8 - 15)
-*   **Chương 8:** Diện Kiến Lão Quái.
-    -   Độc Cô Lão Quái triệu tập Hữu Tâm, bắt đầu quá trình huấn luyện tàn khốc.
-*   **Chương 9:** Bể Dược Độc.
-    -   Ngâm mình trong bể thuốc độc để rèn luyện Độc Thể.
-*   **Chương 10:** Đối Thủ Vô Hình.
-    -   Bị thả vào mê cung với những cái bẫy chết người.
-*   **Chương 11:** Giết Hoặc Bị Giết.
-    -   Buộc phải chiến đấu với một con quái vật đói khát.
-*   **Chương 12:** Tàn Phế.
-    -   Hữu Tâm bị thương nặng, suýt mất đi một cánh tay.
+*   **Chương 8:** Diện Kiến Lão Quái. (Đã đổi tên thành Đêm Dài Vô Tận)
+*   **Chương 9:** Bể Dược Độc. (Đã đổi tên thành Bình Minh Đẫm Máu)
+*   **Chương 10:** Đối Thủ Vô Hình. (Đã đổi tên thành Phần Thưởng Và Cái Giá)
+*   **Chương 11:** Giết Hoặc Bị Giết. (Đã đổi tên thành Vạn Độc Phệ Thân)
+*   **Chương 12:** Tàn Phế. (Đã đổi tên thành Ngục Tù Tâm Trí)
 *   **Chương 13:** Thuốc Giải Của Quỷ.
-    -   Lão Quái đưa thuốc giải nhưng bắt Hữu Tâm phải làm một việc trái đạo đức để đổi lấy.
 *   **Chương 14:** Lột Xác Lần Đầu.
-    -   Cơ thể Hữu Tâm bắt đầu biến đổi, da dẻ trở nên nhợt nhạt và kháng độc.
 *   **Chương 15:** Ánh Mắt Của Sư Phụ.
-    -   Hữu Tâm nhận ra Lão Quái không coi mình là đệ tử, mà là một công cụ.
 
 #### Phần 3: Tia Sáng & Sự Phản Bội (Chương 16 - 25)
 *   **Chương 16:** Người Bạn Câm.
-    -   Gặp gỡ A Mộc tại dược điền.
 *   **Chương 17:** Những Bữa Ăn Vụng Trộm.
-    -   A Mộc lén mang đồ ăn cho Hữu Tâm. Tình bạn nảy nở.
 *   **Chương 18:** Giấc Mơ Tự Do.
-    -   Hữu Tâm và A Mộc cùng nhau mơ về thế giới bên ngoài.
 *   **Chương 19:** Kế Hoạch Đào Tẩu.
-    -   Cả hai bắt đầu lên kế hoạch trốn khỏi Vạn Độc Môn.
 *   **Chương 20:** Đêm Mưa Bão.
-    -   Thời điểm thực hiện kế hoạch đã đến.
 *   **Chương 21:** Lối Mòn Bí Mật.
-    -   A Mộc dẫn Hữu Tâm đi theo một con đường tắt.
 *   **Chương 22:** Cạm Bẫy.
-    -   Hữu Tâm phát hiện ra những dấu hiệu bất thường.
 *   **Chương 23:** Bộ Mặt Thật.
-    -   A Mộc lộ diện là gián điệp.
 *   **Chương 24:** Vòng Vây Kẻ Thù.
-    -   Hữu Tâm bị bao vây bởi đám đệ tử chấp pháp.
 *   **Chương 25:** Tuyệt Vọng Cùng Cực.
-    -   Hữu Tâm bị bắt lại và tra tấn dã man.
 
 #### Phần 4: Cái Chết Của Hữu Tâm (Chương 26 - 30)
 *   **Chương 26:** Sự Trỗi Dậy Của Vô Tâm.
-    -   Trong ngục tối, Hữu Tâm ngộ ra chân lý của kẻ mạnh.
 *   **Chương 27:** Thoát Ngục.
-    -   Dùng mưu kế và độc dược tích tụ trong người để thoát ra.
 *   **Chương 28:** Cuộc Truy Sát A Mộc.
-    -   Hữu Tâm săn lùng kẻ phản bội.
 *   **Chương 29:** Đoạn Tuyệt Nhân Tính.
-    -   Hữu Tâm tự tay giết chết A Mộc.
 *   **Chương 30:** Tên Mới: Lệ Vô Tâm.
-    -   Kết thúc Arc 1. Hắn chính thức đổi tên và thề độc.
 
 ---
 
@@ -115,36 +59,73 @@ Mở rộng tuyến truyện của Lệ Vô Tâm để khắc họa rõ nét qu�
 **Chủ đề:** Trỗi Dậy & Tàn Sát.
 **Số lượng dự kiến:** 30 chương (Chương 31 - 60).
 
-*(Nội dung chi tiết sẽ được cập nhật sau khi hoàn thành Arc 1)*
-**Số lượng:** 30 chương (Chương 31 - 60).
+### Danh Sách Chương:
 
-### Danh Sách Chương Dự Kiến:
-
-#### Phần 1: Chế Tạo Vũ Khí (Chương 31 - 38)
-*   **Chương 31:** Huyết Độc Phiến (Hiện tại: Chương 2 gốc).
+#### Phần 1: Chế Tạo Vũ Khí & Xây Dựng Thế Lực (Chương 31 - 40)
+*   **Chương 31:** Huyết Độc Phiến.
     -   Chế tạo vũ khí bản mệnh.
 *   **Chương 32:** Thử Nghiệm Vũ Khí.
     -   Dùng Huyết Độc Phiến tiêu diệt một nhóm quái vật.
-*   **Chương 33:** Bẫy Rập Rừng Sương (Hiện tại: Chương 2.2).
+*   **Chương 33:** Bẫy Rập Rừng Sương.
     -   Thanh trừng đám đệ tử ngoại môn.
 *   **Chương 34:** Mạng Lưới Tình Báo.
     -   Bắt đầu thu phục tay chân.
 *   **Chương 35:** Nhiệm Vụ Đầu Tiên.
     -   Nhận nhiệm vụ rời khỏi tông môn.
-*   **Chương 36:** Diệt Môn Chi Họa (Hiện tại: Chương 2.5).
+*   **Chương 36:** Diệt Môn Chi Họa.
     -   Tiêu diệt Lý Gia.
 *   **Chương 37:** Bí Mật Huyết Tinh Sa.
     -   Khám phá kho báu của Lý Gia.
 *   **Chương 38:** Đối Đầu Tán Tu.
     -   Chiến đấu với các tu sĩ lang thang.
-
-#### Phần 2: Hành Trình Đẫm Máu (Chương 39 - 50)
-*   **Chương 39:** Thanh Trừng Nội Bộ (Hiện tại: Chương 2.8).
+*   **Chương 39:** Thanh Trừng Nội Bộ.
     -   Giải quyết mâu thuẫn trong nội bộ Vạn Độc Môn.
-*   **Chương 40 - 50:** (Phát triển tiếp các cuộc phiêu lưu và tàn sát để xây dựng danh hiệu Huyết Thủ Thư Sinh).
+*   **Chương 40:** Dục Vọng Và Quyền Lực.
+    -   Lệ Vô Tâm củng cố vị thế, tham vọng lớn dần.
 
-#### Phần 3: Danh Tiếng Vang Xa (Chương 51 - 60)
-*   **Chương 51 - 60:** (Lệ Vô Tâm đạt Trúc Cơ, trở thành nỗi khiếp sợ của Nam Cương).
+#### Phần 2: Hành Trình Đẫm Máu (Chương 41 - 50)
+*   **Chương 41:** Bóng Ma Rừng Trúc.
+    -   Nhiệm vụ ám sát trưởng lão một tiểu tông môn để đoạt bí kíp.
+*   **Chương 42:** Huyết Ảnh Bộ.
+    -   Đoạt được bí kíp thân pháp, bắt đầu tu luyện để gia tăng tốc độ.
+*   **Chương 43:** Cuộc Săn Đêm.
+    -   Thử nghiệm thân pháp mới kết hợp với Huyết Độc Phiến.
+*   **Chương 44:** Huyết Chiến Sơn Tặc.
+    -   Tiêu diệt một trại sơn tặc dám cướp hàng của Vạn Độc Môn.
+*   **Chương 45:** Đối Thủ Xứng Tầm.
+    -   Gặp gỡ và giao đấu với một đệ tử thiên tài của Chính Đạo.
+*   **Chương 46:** Vết Thương Chí Mạng.
+    -   Bị thương nặng sau trận chiến, phải trốn chạy.
+*   **Chương 47:** Chữa Thương Trong Hang Độc.
+    -   Sử dụng độc dược để chữa thương, rèn luyện khả năng chịu đựng.
+*   **Chương 48:** Sự Trở Lại Tàn Khốc.
+    -   Quay lại trả thù kẻ đã làm mình bị thương.
+*   **Chương 49:** Danh Hiệu Huyết Thủ.
+    -   Giang hồ bắt đầu đồn đại về cái tên "Huyết Thủ Thư Sinh".
+*   **Chương 50:** Cơn Ác Mộng Nam Cương.
+    -   Sự tàn bạo của Lệ Vô Tâm khiến các tông môn nhỏ khiếp sợ.
+
+#### Phần 3: Danh Tiếng Vang Xa & Đột Phá (Chương 51 - 60)
+*   **Chương 51:** Lời Mời Từ Bóng Tối.
+    -   Được các thế lực hắc ám khác chú ý và lôi kéo.
+*   **Chương 52:** Giao Dịch Ngầm.
+    -   Thực hiện các giao dịch phi pháp để tích lũy tài nguyên.
+*   **Chương 53:** Bí Mật Cổ Trùng.
+    -   Tìm hiểu sâu hơn về Cổ Trùng và cách điều khiển chúng.
+*   **Chương 54:** Thí Nghiệm Trên Người Sống.
+    -   Bắt đầu thực hiện các thí nghiệm tàn độc để nâng cao công pháp.
+*   **Chương 55:** Đột Phá Trúc Cơ Trung Kỳ.
+    -   Thành công nâng cao cảnh giới nhờ các thí nghiệm.
+*   **Chương 56:** Sự Ghen Ghét Của Đồng Môn.
+    -   Các đệ tử chân truyền khác bắt đầu lo sợ và tìm cách hãm hại.
+*   **Chương 57:** Cái Bẫy Liên Hoàn.
+    -   Bị cuốn vào một âm mưu hãm hại tinh vi.
+*   **Chương 58:** Phản Đòn.
+    -   Lệ Vô Tâm lật ngược tình thế, tiêu diệt kẻ chủ mưu.
+*   **Chương 59:** Độc Cô Lão Quái Hài Lòng.
+    -   Được sư phụ khen ngợi và ban thưởng thêm tài nguyên.
+*   **Chương 60:** Chuẩn Bị Cho Đại Sự.
+    -   Kết thúc Arc 2, chuẩn bị bước vào giai đoạn Vạn Độc Thánh Tử.
 
 ---
 
@@ -152,19 +133,63 @@ Mở rộng tuyến truyện của Lệ Vô Tâm để khắc họa rõ nét qu�
 **Thời điểm:** 22 tuổi - Hiện tại.
 **Bối cảnh:** Nội Môn & Chiến Trường.
 **Chủ đề:** Quyền Lực & Âm Mưu.
-**Số lượng dự kiến:** 30 chương (Chương 61 trở đi).
+**Số lượng dự kiến:** 30 chương (Chương 61 - 90).
 
-*(Nội dung chi tiết sẽ được cập nhật sau khi hoàn thành Arc 2)*
-**Số lượng:** 30 chương (Chương 61 - 90).
+### Danh Sách Chương:
 
-### Danh Sách Chương Dự Kiến:
-*   **Chương 61:** Mệnh Lệnh Bóng Tối (Hiện tại: Chương 3 gốc).
-*   **Chương 62:** Thí Nghiệm Máu (Hiện tại: Chương 4 gốc).
-*   **Chương 63:** Ván Cờ Huyết Độc (Hiện tại: Chương 5 gốc).
-*   **Chương 64:** Truy Vết Tử Thần (Hiện tại: Chương 6 gốc).
-*   **Chương 65:** Dưới Bóng Hắc Sa (Hiện tại: Chương 7 gốc).
-*   **Chương 66:** Huyết Tế Sa Mạc (Hiện tại: Chương 8 gốc).
-*   **Chương 67:** Sát Ý Rừng Gai (Hiện tại: Chương 9 gốc).
-*   **Chương 68:** Mạng Lưới Tử Thần (Hiện tại: Chương 10 gốc).
-*   **Chương 69:** Con Mồi Vào Rọ (Hiện tại: Chương 11 gốc).
-*   **Chương 70 - 90:** (Kết nối trực tiếp với mạch truyện chính Huyết Độc Chi Họa).
+#### Phần 1: Mở Đầu Huyết Độc Chi Họa (Chương 61 - 69)
+*   **Chương 61:** Mệnh Lệnh Bóng Tối.
+*   **Chương 62:** Thí Nghiệm Máu.
+*   **Chương 63:** Ván Cờ Huyết Độc.
+*   **Chương 64:** Truy Vết Tử Thần.
+*   **Chương 65:** Dưới Bóng Hắc Sa.
+*   **Chương 66:** Huyết Tế Sa Mạc.
+*   **Chương 67:** Sát Ý Rừng Gai.
+*   **Chương 68:** Mạng Lưới Tử Thần.
+*   **Chương 69:** Con Mồi Vào Rọ.
+
+#### Phần 2: Đối Đầu Chính Diện (Chương 70 - 80)
+*   **Chương 70:** Cuộc Chiến Rừng Huyết Độc.
+    -   Chỉ huy quân đoàn Huyết Thi tấn công phe chính đạo.
+*   **Chương 71:** Đối Đầu Diệp Tĩnh Sương.
+    -   Trận chiến định mệnh với nữ kiếm tu của Cửu Hoa Kiếm Tông.
+*   **Chương 72:** Cạm Bẫy Của Lâm Phong.
+    -   Bị Lâm Phong dùng mưu kế dụ vào bẫy.
+*   **Chương 73:** Thoát Hiểm Gang Tấc.
+    -   Dùng khổ nhục kế để thoát thân.
+*   **Chương 74:** Cơn Giận Của Thánh Tử.
+    -   Quay lại trừng phạt những kẻ thuộc hạ làm việc không hiệu quả.
+*   **Chương 75:** Kế Hoạch Phản Công.
+    -   Xây dựng kế hoạch tấn công mới tàn độc hơn.
+*   **Chương 76:** Triệu Hồi Độc Long.
+    -   Sử dụng bí pháp để triệu hồi Độc Long Tích hỗ trợ.
+*   **Chương 77:** Trận Chiến Đẫm Máu.
+    -   Cuộc chiến tổng lực giữa hai phe.
+*   **Chương 78:** Sự Hy Sinh Của Con Tốt.
+    -   Sẵn sàng hy sinh thuộc hạ để đạt được mục đích.
+*   **Chương 79:** Bước Ngoặt Bất Ngờ.
+    -   Một biến cố xảy ra làm thay đổi cục diện trận chiến.
+*   **Chương 80:** Rút Lui Chiến Thuật.
+    -   Tạm thời rút lui để bảo toàn lực lượng.
+
+#### Phần 3: Đỉnh Cao Quyền Lực (Chương 81 - 90)
+*   **Chương 81:** Củng Cố Lực Lượng.
+    -   Hồi phục và tập hợp lại quân đội.
+*   **Chương 82:** Âm Mưu Thôn Tính.
+    -   Lên kế hoạch thôn tính các thế lực nhỏ xung quanh.
+*   **Chương 83:** Sự Trỗi Dậy Của Ma Đầu.
+    -   Danh tiếng Lệ Vô Tâm đạt đến đỉnh cao.
+*   **Chương 84:** Thử Thách Của Thiên Đạo.
+    -   Đối mặt với tâm ma khi tu luyện lên tầng cao mới.
+*   **Chương 85:** Vượt Qua Tâm Ma.
+    -   Chiến thắng bản thân, trở nên lạnh lùng và tàn nhẫn hơn.
+*   **Chương 86:** Chuẩn Bị Cho Trận Chiến Cuối Cùng.
+    -   Tích lũy tài nguyên cho trận quyết chiến.
+*   **Chương 87:** Lời Tuyên Chiến.
+    -   Gửi lời khiêu chiến đến toàn bộ giới tu chân Nam Cương.
+*   **Chương 88:** Bóng Tối Bao Trùm.
+    -   Vạn Độc Môn bắt đầu chiến dịch xâm lược quy mô lớn.
+*   **Chương 89:** Vị Vua Không Ngai.
+    -   Lệ Vô Tâm trở thành nỗi khiếp sợ thực sự, một vị vua trong bóng tối.
+*   **Chương 90:** Hồi Kết Của Một Chặng Đường.
+    -   Kết thúc Arc 3, mở ra một kỷ nguyên đen tối mới cho Nam Cương.
