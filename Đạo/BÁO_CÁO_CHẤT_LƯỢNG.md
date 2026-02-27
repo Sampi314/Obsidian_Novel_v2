@@ -112,3 +112,4 @@
 | 2026-03-25 | Tổng Quản | Viết Chương 62 & Tạo Dược Nhân | Hoàn Thành | Viết Chương 62 (Bí Mật Huyết Trì) và tạo Kỳ Vật Dược Nhân. |
 | 2026-03-25 | Tổng Quản | Viết Chương 63 & Cập Nhật | Hoàn Thành | Viết Chương 63 (Huyết Chiến Bên Hồ). |
 | 2026-03-26 | Tổng Quản | Viết Chương 64 & 65, Tạo Kỳ Vật Huyết Vụ | Hoàn Thành | Viết Chương 64, 65. Tạo Huyết Vụ Điểu, Mộng Yểm Hoa. Cập nhật Huyết Vụ Lâm. |
+| 2026-03-27 | Tổng Quản | Mở Rộng Backstory Lệ Vô Tâm | Hoàn Thành | Quy hoạch lại 3 Arc lớn (~30 chương/arc). Reindex lại toàn bộ chương cũ theo số thứ tự mới. Viết thêm chương 8 & 16. |
