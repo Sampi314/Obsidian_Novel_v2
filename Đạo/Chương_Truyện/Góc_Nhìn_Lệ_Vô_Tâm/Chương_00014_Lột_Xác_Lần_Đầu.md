@@ -27,109 +27,295 @@
 <li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00014_Lột_Xác_Lần_Đầu.html">Chương 14: Lột Xác Lần Đầu</a></li>
 <li style="padding: 5px; "><a href="Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html">Chương 15: Ánh Mắt Của Sư Phụ</a></li>
 <li style="padding: 5px; "><a href="Chương_00016_Người_Bạn_Câm.html">Chương 16: Người Bạn Câm</a></li>
+<li style="padding: 5px; "><a href="Chương_00017_Những_Bữa_Ăn_Vụng_Trộm.html">Chương 17: Những Bữa Ăn Vụng Trộm</a></li>
+<li style="padding: 5px; "><a href="Chương_00018_Giấc_Mơ_Tự_Do.html">Chương 18: Giấc Mơ Tự Do</a></li>
+<li style="padding: 5px; "><a href="Chương_00019_Kế_Hoạch_Đào_Tẩu.html">Chương 19: Kế Hoạch Đào Tẩu</a></li>
+<li style="padding: 5px; "><a href="Chương_00020_Đêm_Mưa_Bão.html">Chương 20: Đêm Mưa Bão</a></li>
 <li style="padding: 5px; "><a href="Chương_00031_Huyết_Độc_Phiến.html">Chương 31: Huyết Độc Phiến</a></li>
-<li style="padding: 5px; "><a href="Chương_00033_Bẫy_Rập_Rừng_Sương.html">Chương 33: Bẫy Rập Rừng Sương</a></li>
-<li style="padding: 5px; "><a href="Chương_00036_Diệt_Môn_Chi_Họa.html">Chương 36: Diệt Môn Chi Họa</a></li>
-<li style="padding: 5px; "><a href="Chương_00039_Thanh_Trừng_Nội_Bộ.html">Chương 39: Thanh Trừng Nội Bộ</a></li>
-<li style="padding: 5px; "><a href="Chương_00061_Mệnh_Lệnh_Bóng_Tối.html">Chương 61: Mệnh Lệnh Bóng Tối</a></li>
-<li style="padding: 5px; "><a href="Chương_00062_Thí_Nghiệm_Máu.html">Chương 62: Thí Nghiệm Máu</a></li>
-<li style="padding: 5px; "><a href="Chương_00063_Ván_Cờ_Huyết_Độc.html">Chương 63: Ván Cờ Huyết Độc</a></li>
-<li style="padding: 5px; "><a href="Chương_00064_Truy_Vết_Tử_Thần.html">Chương 64: Truy Vết Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00065_Dưới_Bóng_Hắc_Sa.html">Chương 65: Dưới Bóng Hắc Sa</a></li>
-<li style="padding: 5px; "><a href="Chương_00066_Huyết_Tế_Sa_Mạc.html">Chương 66: Huyết Tế Sa Mạc</a></li>
-<li style="padding: 5px; "><a href="Chương_00067_Sát_Ý_Rừng_Gai.html">Chương 67: Sát Ý Rừng Gai</a></li>
-<li style="padding: 5px; "><a href="Chương_00068_Mạng_Lưới_Tử_Thần.html">Chương 68: Mạng Lưới Tử Thần</a></li>
-<li style="padding: 5px; "><a href="Chương_00069_Con_Mồi_Vào_Rọ.html">Chương 69: Con Mồi Vào Rọ</a></li>
+<li style="padding: 5px; "><a href="Chương_00033_Bẫy_Rập_Rừng_Sương.html">Chương 2.2: Bẫy Rập Rừng Sương</a></li>
+<li style="padding: 5px; "><a href="Chương_00036_Diệt_Môn_Chi_Họa.html">Chương 2.5: Diệt Môn Chi Họa</a></li>
+<li style="padding: 5px; "><a href="Chương_00039_Thanh_Trừng_Nội_Bộ.html">Chương 2.8: Thanh Trừng Nội Bộ</a></li>
+<li style="padding: 5px; "><a href="Chương_00061_Mệnh_Lệnh_Bóng_Tối.html">Chương 3: Mệnh Lệnh Bóng Tối</a></li>
+<li style="padding: 5px; "><a href="Chương_00062_Thí_Nghiệm_Máu.html">Chương 4: Thí Nghiệm Máu</a></li>
+<li style="padding: 5px; "><a href="Chương_00063_Ván_Cờ_Huyết_Độc.html">Chương 5: Ván Cờ Huyết Độc</a></li>
+<li style="padding: 5px; "><a href="Chương_00064_Truy_Vết_Tử_Thần.html">Chương 6: Truy Vết Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00065_Dưới_Bóng_Hắc_Sa.html">Chương 7: Dưới Bóng Hắc Sa</a></li>
+<li style="padding: 5px; "><a href="Chương_00066_Huyết_Tế_Sa_Mạc.html">Chương 8: Huyết Tế Sa Mạc</a></li>
+<li style="padding: 5px; "><a href="Chương_00067_Sát_Ý_Rừng_Gai.html">Chương 9: Sát Ý Rừng Gai</a></li>
+<li style="padding: 5px; "><a href="Chương_00068_Mạng_Lưới_Tử_Thần.html">Chương 10: Mạng Lưới Tử Thần</a></li>
+<li style="padding: 5px; "><a href="Chương_00069_Con_Mồi_Vào_Rọ.html">Chương 11: Con Mồi Vào Rọ</a></li>
 </ul>
 </details>
 <div style="margin-top: 15px; border-top: 1px solid #ccc; padding-top: 10px;">
   <strong>🎧 Nghe Chương Này:</strong>
   <br>
-  <button id="btn-play" onclick="window.startReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button>
-  <button id="btn-pause" onclick="window.pauseReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏸️ Tạm Dừng</button>
-  <button id="btn-resume" onclick="window.resumeReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏯️ Tiếp Tục</button>
-  <button id="btn-stop" onclick="window.stopReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏹️ Dừng</button>
+  <button id="btn-play" onclick="startReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button>
+  <button id="btn-pause" onclick="pauseReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏸️ Tạm Dừng</button>
+  <button id="btn-resume" onclick="resumeReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏯️ Tiếp Tục</button>
+  <button id="btn-stop" onclick="stopReading()" style="cursor: pointer; padding: 5px 10px; margin: 5px; display: none;">⏹️ Dừng</button>
 </div>
+
 <script>
-  window.nextChapterUrl = "Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html";
+    var synth = window.speechSynthesis;
+    var currentUtterance = null;
+    var readingQueue = [];
+    var currentIndex = 0;
+    var isPaused = false;
+    var isStopped = false;
+
+    // Elements to read
+    var contentElements = [];
+
+    // Next chapter URL
+    var nextChapterUrl = "Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html";
+
+    function getReadableElements() {
+        // Collect all paragraph-like elements in the body
+        // Filter out navigation, headers, footers, and specific unwanted text
+        var all = document.body.querySelectorAll('p, h1, h2, h3, h4, h5, h6, li, blockquote');
+        var readable = [];
+
+        for (var i = 0; i < all.length; i++) {
+            var el = all[i];
+
+            // Skip navigation block
+            if (el.closest('#chapter-navigation')) continue;
+
+            // Skip invisible elements
+            if (el.offsetParent === null) continue;
+
+            var text = el.innerText.trim();
+            if (text.length === 0) continue;
+
+            // Skip specific unwanted text
+            if (text.includes("Obsidian_Novel_v2")) continue;
+            if (text.includes("Mục Lục Tổng Hợp")) continue;
+
+            readable.push(el);
+        }
+        return readable;
+    }
+
+    function startReading() {
+        if (synth.speaking && !isPaused) return;
+
+        isStopped = false;
+
+        // Reset controls
+        document.getElementById("btn-play").style.display = "none";
+        document.getElementById("btn-pause").style.display = "inline-block";
+        document.getElementById("btn-resume").style.display = "none";
+        document.getElementById("btn-stop").style.display = "inline-block";
+
+        contentElements = getReadableElements();
+
+        if (currentIndex >= contentElements.length) {
+            currentIndex = 0; // Restart if finished
+        }
+
+        readNextChunk();
+    }
+
+    function readNextChunk() {
+        if (isStopped) return;
+
+        if (currentIndex >= contentElements.length) {
+            // Finished reading the chapter
+            stopReading();
+
+            // Auto-advance to next chapter if available
+            if (nextChapterUrl && nextChapterUrl !== "#") {
+                // Add autoplay param
+                var separator = nextChapterUrl.includes('?') ? '&' : '?';
+                window.location.href = nextChapterUrl + separator + 'autoplay=true';
+            }
+            return;
+        }
+
+        var el = contentElements[currentIndex];
+
+        // Highlight current element
+        el.style.backgroundColor = "#e6f7ff";
+        el.style.borderLeft = "4px solid #1890ff";
+        el.style.paddingLeft = "10px";
+        el.scrollIntoView({behavior: "smooth", block: "center"});
+
+        var text = el.innerText;
+        var utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = "vi-VN";
+
+        utterance.onend = function() {
+            if (isStopped) return;
+
+            // Remove highlight
+            el.style.backgroundColor = "";
+            el.style.borderLeft = "";
+            el.style.paddingLeft = "";
+
+            currentIndex++;
+            if (!isPaused && synth.speaking === false) {
+                 readNextChunk();
+            }
+        };
+
+        utterance.onerror = function(event) {
+            if (isStopped) return;
+
+            console.error("Speech error", event);
+            // Try to skip to next chunk on error
+            el.style.backgroundColor = "";
+            el.style.borderLeft = "";
+            el.style.paddingLeft = "";
+            currentIndex++;
+            readNextChunk();
+        };
+
+        currentUtterance = utterance;
+        synth.speak(utterance);
+    }
+
+    function pauseReading() {
+        if (synth.speaking && !isPaused) {
+            synth.pause();
+            isPaused = true;
+            document.getElementById("btn-pause").style.display = "none";
+            document.getElementById("btn-resume").style.display = "inline-block";
+        }
+    }
+
+    function resumeReading() {
+        if (isPaused) {
+            synth.resume();
+            isPaused = false;
+            document.getElementById("btn-pause").style.display = "inline-block";
+            document.getElementById("btn-resume").style.display = "none";
+        } else if (!synth.speaking && currentIndex < contentElements.length) {
+            // Resume from stop or clean state
+            startReading();
+        }
+    }
+
+    function stopReading() {
+        isStopped = true;
+        synth.cancel();
+        isPaused = false;
+
+        // Clean up highlights
+        if (contentElements.length > 0 && currentIndex < contentElements.length) {
+            var el = contentElements[currentIndex];
+            if (el) {
+                el.style.backgroundColor = "";
+                el.style.borderLeft = "";
+                el.style.paddingLeft = "";
+            }
+        }
+
+        currentIndex = 0;
+
+        document.getElementById("btn-play").style.display = "inline-block";
+        document.getElementById("btn-pause").style.display = "none";
+        document.getElementById("btn-resume").style.display = "none";
+        document.getElementById("btn-stop").style.display = "none";
+    }
+
+    // Auto-play check
+    window.onload = function() {
+        var urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.get('autoplay') === 'true') {
+            // Delay slightly to ensure voices are loaded
+            setTimeout(startReading, 1000);
+        }
+    };
+
+    // Handle page unload to stop speech
+    window.onbeforeunload = function() {
+        isStopped = true;
+        synth.cancel();
+    };
 </script>
-<script src="../../../scripts/tts_player.js"></script>
+
 </div>
 <!-- NAVIGATION_END -->
 # Chương 14: Lột Xác Lần Đầu
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Địa điểm:** Vạn Độc Môn (Động Luyện Công).
-**Thời điểm:** 1 tháng sau sự kiện Mã Lương (Hữu Tâm 14 tuổi 6 tháng).
+**Địa điểm:** Vạn Độc Môn - Mật Thất.
+**Thời điểm:** Ba tháng sau khi bắt đầu dùng *Tử Phụ Tử* (Lệ Vô Tâm 14 tuổi).
 **Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ).
 
 ---
 
-Ba ngày.
-Đã ba ngày nay ta không ngủ được.
+Đêm nay, trăng tròn.
 
-Cơ thể ta nóng rực như một lò luyện đan. Da thịt ngứa ngáy dữ dội, như thể có hàng ngàn con bọ đang bò lổm ngổm bên dưới lớp biểu bì. Máu trong người sôi sục, chảy cuồn cuộn qua từng huyệt đạo, mỗi lần đi qua đều mang theo một luồng đau đớn xé thịt.
+Những ngày trăng tròn là những ngày đáng sợ nhất đối với những kẻ tu luyện *Vạn Độc Chân Kinh*. Âm khí trong trời đất dâng cao, kích thích mọi loại độc tố trong cơ thể bùng phát.
 
-Ta nằm cuộn tròn trên giường đá, cắn chặt vào cánh tay đến bật máu để không hét lên. Những vết thương cũ từ đêm Huyết Nguyệt, từ những lần luyện công thất bại, bỗng chốc sưng tấy lên, rỉ ra thứ dịch vàng nhờn nhợt.
+Ta nằm cuộn tròn trong mật thất tối tăm, mồ hôi ướt đẫm tấm nệm rơm. Cơn ngứa ngáy khủng khiếp đang lan khắp toàn thân, từ đỉnh đầu xuống gót chân. Nó không phải là ngứa ngoài da, mà là ngứa từ bên trong xương tủy.
 
-Ta biết chuyện gì đang xảy ra.
-Độc Cô Lão Quái đã nói trước. Đây là "Lột Xác".
+Cơ thể ta đang thay đổi.
 
-Ở Vạn Độc Môn, phàm nhân muốn tu luyện Độc Đạo phải trải qua quá trình này. Cơ thể người phàm quá yếu ớt, không thể chứa đựng độc khí nồng đậm. Chỉ có lột bỏ lớp da phàm thai, thay thế bằng Độc Thể, mới có thể tiếp tục con đường này.
+Ba tháng nay, Độc Cô Lão Quái đã ép ta uống không dưới trăm loại độc dược khác nhau. Mỗi loại một tính chất, một tác dụng. Chúng tích tụ trong gan, thận, phổi của ta, biến đổi cấu trúc cơ thể ta từng chút một.
 
-"Cố lên... Hữu Tâm... mày phải cố lên..."
+"Aaaaa..."
 
-Ta tự lẩm bẩm trong cơn mê sảng. Hình ảnh Mã Lương với ánh mắt oán trách hiện lên trước mặt ta. Hình ảnh A Tứ bị rạch nát trong lồng sắt. Hình ảnh Tiểu Lan bị rết cắn.
+Ta rên rỉ, móng tay cào cấu điên cuồng lên cánh tay trái. Lớp da mỏng manh rách toạc, nhưng không có máu chảy ra. Thay vào đó là một lớp dịch nhầy màu vàng nhạt.
 
-Tất cả bọn họ đã chết. Chỉ có ta còn sống.
+Bên dưới lớp da rách, ta nhìn thấy... một lớp da mới.
 
-Ta không thể chết ở đây được. Ta đã bán rẻ linh hồn mình để đổi lấy mạng sống. Nếu chết bây giờ, cái giá ta trả là vô nghĩa.
+Nó trắng bệch, nhẵn thín và cứng như vảy cá.
 
-*Rắc!*
+"Lột xác..." Ta lẩm bẩm, nhớ lại lời Lão Quái nói. *"Khi cơ thể ngươi không còn chịu đựng được độc tố, nó sẽ tự phá hủy lớp vỏ cũ để sinh ra lớp vỏ mới. Đó là 'Phá Cũ Xây Mới'."*
 
-Một âm thanh khô khốc vang lên từ bả vai ta. Lớp da bên ngoài nứt toác ra như vỏ trứng vỡ. Một dòng máu đen ngòm trào ra, mang theo mùi hôi thối nồng nặc. Nhưng kỳ lạ thay, bên dưới lớp da chết đó, một lớp da mới, trắng bệch và nhẵn thín, đang dần lộ diện.
+Cơn đau chuyển từ ngứa sang rát bỏng. Ta cảm giác như cả người mình đang bị thiêu đốt.
 
-Cơn đau lên đến đỉnh điểm. Ta cảm giác như có ai đó đang dùng dao lột sống da mình.
+Ta bắt đầu lột da.
 
-"ÁAAAAAAA!"
+Ta dùng móng tay bóc từng mảng da chết trên cánh tay, trên ngực, trên đùi. Mỗi mảng da bong ra là một lần ta hét lên đau đớn. Nhưng ta không dừng lại được. Bản năng thôi thúc ta phải loại bỏ lớp vỏ cũ kỹ này.
 
-Ta không kìm được nữa, gào lên thảm thiết. Tiếng hét vang vọng trong động đá, dội vào vách núi rồi vọng lại, nghe như tiếng thú hoang bị thương.
+Mất một canh giờ, ta mới lột xong cánh tay trái. Lớp da mới lộ ra, lấp lánh dưới ánh trăng mờ ảo xuyên qua khe cửa. Ta thử cấu mạnh vào nó. Không đau. Ta lấy con dao găm cứa nhẹ. Chỉ để lại một vệt trắng mờ.
 
-Ta lăn lộn trên sàn, cào cấu vào vách đá đến mức móng tay gãy nát. Từng mảng da khô tróc ra, rơi lả tả xuống đất. Tóc ta rụng từng nắm lớn, để lộ da đầu trọc lốc, rồi lại mọc lên những sợi tóc mới đen nhánh nhưng cứng như rễ cây.
+*Nó cứng hơn da người thường rất nhiều.*
 
-Mắt ta mờ đi, rồi bừng sáng trở lại. Tầm nhìn của ta thay đổi. Ta có thể nhìn rõ những hạt bụi lơ lửng trong không khí, những đường vân nhỏ xíu trên vách đá cách xa cả trượng. Mọi thứ trở nên sắc nét đến lạ thường.
+Ta tiếp tục lột da trên mặt. Đây là phần đau đớn nhất. Ta phải cẩn thận để không làm hỏng mắt và mũi.
 
-Khi cơn đau dịu đi, ta nằm thở dốc giữa đống da chết hỗn độn.
+Khi mảng da cuối cùng trên trán rơi xuống, ta cảm thấy nhẹ nhõm lạ thường. Một luồng linh khí mát lạnh tràn vào cơ thể qua lỗ chân lông mới, xua tan đi cái nóng hầm hập trong người.
 
-Ta từ từ ngồi dậy, nhìn vào vũng nước đọng ở góc hang.
+Ta bò đến bên vại nước, soi mình xuống.
 
-Trong hình ảnh phản chiếu không còn là Hữu Tâm gầy gò đen nhẻm của ngày xưa. Trước mặt ta là một thiếu niên xa lạ. Da trắng bệch như sáp nến, đôi môi tím tái, đôi mắt hẹp dài ánh lên tia nhìn lạnh lẽo.
+Trong bóng tối, ta nhìn thấy một khuôn mặt xa lạ.
 
-Ta đưa tay lên sờ mặt mình. Lạnh ngắt. Không còn chút hơi ấm nào của con người.
+Đó không còn là Hữu Tâm nữa. Khuôn mặt đó gầy gò, hốc hác, làn da trắng bệch thiếu sức sống, nhưng đôi mắt lại sáng rực một cách quỷ dị. Đồng tử của ta đã biến đổi, không còn tròn như người thường mà hơi dẹt dọc giống như mắt loài bò sát.
 
-Ta đã lột xác. Ta đã trở thành một con quái vật thực sự.
+Ta thử nhìn xung quanh. Trong bóng tối đen đặc của mật thất, ta lại nhìn thấy rõ mồn một từng hạt bụi đang bay lơ lửng, từng vết nứt nhỏ trên vách đá.
 
-Độc Cô Lão Quái bước vào hang, nhìn ta với ánh mắt hài lòng.
+Thị lực ban đêm. Một khả năng mới.
 
-"Chúc mừng. Ngươi đã sống sót."
+Ta giơ tay lên, vận chuyển linh lực. Một luồng khí độc màu xanh nhạt bao phủ lấy bàn tay ta. Ta phất tay về phía con chuột đang lén lút bò qua góc phòng.
 
-Lão ném cho ta một bộ y phục màu đen mới tinh.
+*Vút!*
 
-"Mặc vào đi. Từ hôm nay, ngươi chính thức là đệ tử nội môn."
+Luồng khí độc bay đi, trúng phóc con chuột. Nó giãy đành đạch vài cái rồi lăn ra chết cứng, toàn thân tím ngắt.
 
-Ta cầm bộ y phục, cảm giác vải lụa mát lạnh trên da thịt mới tái sinh.
+Ta nhìn xác con chuột, rồi nhìn bàn tay mình.
 
-"Sư phụ..." Ta cất tiếng, giọng nói khàn đục hơn trước rất nhiều. "Con cảm thấy... rất mạnh."
+Ta đã mạnh lên. Rất nhiều.
 
-"Đương nhiên. Độc Thể Sơ Thành. Giờ đây, máu của ngươi đã có độc tính. Hơi thở của ngươi cũng có thể giết người phàm. Ngươi không còn là người nữa rồi, Hữu Tâm à."
+Luyện Khí tầng 7. Chỉ sau một đêm lột xác, ta đã đột phá một tầng cảnh giới.
 
-Lão Quái cười khùng khục, xoay người bước ra ngoài.
+Nhưng cái giá phải trả... Ta sờ lên khuôn mặt lạnh lẽo của mình. Ta không còn là con người nữa. Ta đã trở thành một thứ quái vật bán nhân bán độc.
 
-"Chuẩn bị đi. Ngày mai ta sẽ dạy ngươi cách điều khiển Cổ Trùng. Đừng làm ta thất vọng."
+Cánh cửa mật thất kẽo kẹt mở ra. Độc Cô Lão Quái bước vào, trên tay cầm ngọn đèn dầu leo lét.
 
-Ta đứng dậy, mặc y phục vào. Ta nhìn đống da chết trên sàn, rồi đá chúng vào góc hang.
+Lão nhìn đống da chết vương vãi trên sàn, rồi nhìn ta. Ánh mắt lão lóe lên vẻ hài lòng.
 
-Đó là cái xác của Hữu Tâm. Hữu Tâm đã chết đêm qua rồi.
+"Chúc mừng," lão nói, giọng khàn khàn. "Ngươi đã hoàn thành lần lột xác đầu tiên. Giờ đây, ngươi mới thực sự là đệ tử của Vạn Độc Môn."
 
-Giờ đây, chỉ còn lại một kẻ mang tên Vô Tâm. Một kẻ không còn biết đau, không còn biết khóc, chỉ biết sống và giết chóc.
+Ta đứng dậy, cúi đầu chào. "Đệ tử tạ ơn ân điển của sư phụ."
+
+Giọng nói của ta cũng đã thay đổi. Nó khàn hơn, lạnh hơn, nghe như tiếng gió rít qua kẽ đá.
+
+"Tốt. Từ ngày mai, ngươi sẽ được chuyển sang khu Dược Điền. Ở đó có nhiều thứ hay ho hơn để ngươi học hỏi."
+
+Lão quay lưng bỏ đi. Ta nhìn theo bóng lưng gù gù của lão, bàn tay nắm chặt.
+
+Dược Điền sao? Dù là ở đâu, ta cũng sẽ sống. Và ta sẽ trở nên mạnh hơn nữa. Mạnh đến mức không ai có thể điều khiển ta được nữa.

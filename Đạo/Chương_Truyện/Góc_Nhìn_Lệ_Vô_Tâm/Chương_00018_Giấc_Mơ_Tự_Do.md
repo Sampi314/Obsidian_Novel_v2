@@ -2,10 +2,10 @@
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;">
 <table style="width: 100%; text-align: center; border: none;">
 <tr>
-<td style="border: none; padding: 5px;"><a href="Chương_00012_Ngục_Tù_Tâm_Trí.html">⬅️ Chương Trước</a></td>
+<td style="border: none; padding: 5px;"><a href="Chương_00017_Những_Bữa_Ăn_Vụng_Trộm.html">⬅️ Chương Trước</a></td>
 <td style="border: none; padding: 5px;"><a href="../../../index.html">🏠 Trang Chủ</a></td>
 <td style="border: none; padding: 5px;"><a href="index.html">📖 Mục Lục</a></td>
-<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00014_Lột_Xác_Lần_Đầu.html">Chương Sau ➡️</a></td>
+<td style="border: none; padding: 5px;"><a id="next-chapter-link" href="Chương_00019_Kế_Hoạch_Đào_Tẩu.html">Chương Sau ➡️</a></td>
 </tr>
 </table>
 <details style="margin-top: 10px;">
@@ -23,12 +23,12 @@
 <li style="padding: 5px; "><a href="Chương_00010_Phần_Thưởng_Và_Cái_Giá.html">Chương 10: Phần Thưởng Và Cái Giá</a></li>
 <li style="padding: 5px; "><a href="Chương_00011_Vạn_Độc_Phệ_Thân.html">Chương 11: Vạn Độc Phệ Thân</a></li>
 <li style="padding: 5px; "><a href="Chương_00012_Ngục_Tù_Tâm_Trí.html">Chương 12: Ngục Tù Tâm Trí</a></li>
-<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00013_Thuốc_Giải_Của_Quỷ.html">Chương 13: Thuốc Giải Của Quỷ</a></li>
+<li style="padding: 5px; "><a href="Chương_00013_Thuốc_Giải_Của_Quỷ.html">Chương 13: Thuốc Giải Của Quỷ</a></li>
 <li style="padding: 5px; "><a href="Chương_00014_Lột_Xác_Lần_Đầu.html">Chương 14: Lột Xác Lần Đầu</a></li>
 <li style="padding: 5px; "><a href="Chương_00015_Ánh_Mắt_Của_Sư_Phụ.html">Chương 15: Ánh Mắt Của Sư Phụ</a></li>
 <li style="padding: 5px; "><a href="Chương_00016_Người_Bạn_Câm.html">Chương 16: Người Bạn Câm</a></li>
 <li style="padding: 5px; "><a href="Chương_00017_Những_Bữa_Ăn_Vụng_Trộm.html">Chương 17: Những Bữa Ăn Vụng Trộm</a></li>
-<li style="padding: 5px; "><a href="Chương_00018_Giấc_Mơ_Tự_Do.html">Chương 18: Giấc Mơ Tự Do</a></li>
+<li style="padding: 5px; font-weight: bold; background-color: #f0f0f0;"><a href="Chương_00018_Giấc_Mơ_Tự_Do.html">Chương 18: Giấc Mơ Tự Do</a></li>
 <li style="padding: 5px; "><a href="Chương_00019_Kế_Hoạch_Đào_Tẩu.html">Chương 19: Kế Hoạch Đào Tẩu</a></li>
 <li style="padding: 5px; "><a href="Chương_00020_Đêm_Mưa_Bão.html">Chương 20: Đêm Mưa Bão</a></li>
 <li style="padding: 5px; "><a href="Chương_00031_Huyết_Độc_Phiến.html">Chương 31: Huyết Độc Phiến</a></li>
@@ -67,7 +67,7 @@
     var contentElements = [];
 
     // Next chapter URL
-    var nextChapterUrl = "Chương_00014_Lột_Xác_Lần_Đầu.html";
+    var nextChapterUrl = "Chương_00019_Kế_Hoạch_Đào_Tẩu.html";
 
     function getReadableElements() {
         // Collect all paragraph-like elements in the body
@@ -236,80 +236,78 @@
 
 </div>
 <!-- NAVIGATION_END -->
-# Chương 13: Thuốc Giải Của Quỷ
+# Chương 18: Giấc Mơ Tự Do
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Địa điểm:** Vạn Độc Môn - Đan Phòng.
-**Thời điểm:** Một tháng sau khi bắt đầu huấn luyện.
+**Địa điểm:** Vạn Độc Môn - Dược Điền.
+**Thời điểm:** Sáu tháng sau (Lệ Vô Tâm 15 tuổi rưỡi).
 **Giao Điểm Cốt Truyện:** Tuyến độc lập (Quá khứ).
 
 ---
 
-Một tháng trôi qua, ta đã học được một điều: Ở Vạn Độc Môn, thứ giết chết ngươi nhanh nhất không phải là kẻ thù, mà là sự thiếu hiểu biết.
+Sáu tháng trôi qua. Sự thân thiết giữa ta và A Mộc càng ngày càng lớn. Chúng ta không chỉ chia sẻ thức ăn, mà còn chia sẻ những giấc mơ.
 
-Đan phòng của Độc Cô Lão Quái rộng lớn như một mê cung, chứa đầy những kệ sách gỗ mục nát và hàng ngàn lọ thuốc không nhãn mác. Nhiệm vụ của ta là ghi nhớ tên, dược tính, và cách bào chế của từng loại độc dược.
+Mỗi khi đêm xuống, khi sương mù bao phủ khu Dược Điền, ta lại kể cho A Mộc nghe về thế giới bên ngoài.
 
-"Sai rồi."
+"Ở đó, có những thành phố lớn, đèn đuốc sáng trưng cả đêm. Có những quán ăn bán bánh bao nóng hổi, thịt quay thơm lừng. Có những lễ hội thả đèn trời, mọi người cùng nhau nhảy múa, ca hát."
 
-Lão Quái gõ mạnh chiếc thước gỗ lên bàn tay ta. Cơn đau điếng người làm ta suýt đánh rơi lọ *Thất Bộ Xà Độc*.
+A Mộc ngồi bó gối, đôi mắt sáng rực lên, nuốt lấy từng lời của ta. Hắn dùng cành cây vẽ lên mặt đất những hình ảnh méo mó về những ngôi nhà cao tầng, những chiếc đèn lồng, những con người cười nói vui vẻ.
 
-"Đây là *Hắc Mamba*, không phải *Thất Bộ Xà*. Một giọt *Thất Bộ Xà* làm tim ngừng đập sau bảy bước chân. Một giọt *Hắc Mamba* làm tan chảy nội tạng sau ba nhịp thở. Ngươi nhầm lẫn như vậy, chưa kịp hạ độc kẻ thù thì đã tự giết mình rồi."
+Thực ra, trí nhớ của ta về thế giới bên ngoài đã phai nhạt đi nhiều. Những gì ta kể cho hắn nghe, phần lớn là do ta đọc được trong những cuốn sách cũ nát ở Đan Phòng, hoặc do ta tự tưởng tượng ra. Nhưng điều đó không quan trọng. Quan trọng là chúng mang lại hy vọng.
 
-Ta cúi đầu, cắn răng chịu đựng. Bàn tay ta đã sưng vù lên, tím ngắt.
+"A Mộc," ta chỉ vào bức tranh hắn vừa vẽ. "Nếu được ra ngoài, ngươi muốn làm gì?"
 
-"Uống đi."
+Hắn ngẫm nghĩ một lúc, rồi vẽ hình một ngôi nhà nhỏ bên cạnh một dòng suối. Hắn vẽ thêm hai hình người que đang ngồi câu cá. Hắn chỉ vào một người là hắn, rồi chỉ vào người kia là ta.
 
-Lão đẩy về phía ta một chén thuốc màu xanh lục, sủi bọt nhẹ.
+Ta bật cười, nhưng trong lòng lại thấy xót xa. "Chỉ vậy thôi sao? Một ngôi nhà và hai cần câu?"
 
-Ta nhìn chén thuốc, do dự. "Sư phụ, đây là..."
+Hắn gật đầu mạnh mẽ, vẻ mặt nghiêm túc.
 
-"Đây là hình phạt cho sự ngu dốt của ngươi. *Phệ Tâm Tán*. Nó sẽ khiến ngươi cảm thấy như có ngàn con kiến đang gặm nhấm tim gan mình."
+Đột nhiên, tiếng bước chân sột soạt vang lên từ phía bìa rừng.
 
-Ta biết không thể từ chối. Ta cầm chén thuốc lên, uống cạn một hơi.
+Ta giật mình, vội vàng dập tắt đống lửa nhỏ, kéo A Mộc nấp vào sau tảng đá lớn.
 
-Vị đắng chát xộc lên mũi. Ngay sau đó, một cơn đau quặn thắt ập đến từ lồng ngực. Ta ngã quỵ xuống sàn, ôm ngực thở dốc. Cảm giác đúng như lão nói, từng thớ thịt trong tim ta như bị ai đó dùng kìm kẹp nát.
+"Ai đó?" Giọng nói lanh lảnh của Vương Xà vang lên.
 
-"Đau không?" Lão Quái ngồi xuống ghế, thản nhiên lật giở một cuốn sách cổ.
+Hắn đang đi tuần tra đêm nay. Trên tay hắn cầm một chiếc đèn lồng *Dạ Minh Châu*, ánh sáng xanh lét quét qua từng bụi cây.
 
-"Đau..." Ta rên rỉ, mồ hôi vã ra như tắm.
+Tim ta đập thình thịch. Nếu bị phát hiện trốn việc và tụ tập trái phép, cả hai chúng ta sẽ bị phạt nặng. Nhẹ thì đòn roi, nặng thì bị ném vào hầm rắn.
 
-"Tốt. Nhớ lấy cái đau này. Lần sau trước khi cầm một lọ thuốc lên, hãy nghĩ đến nó."
+Vương Xà đang tiến lại gần chỗ chúng ta ẩn nấp. Hắn dường như đã đánh hơi thấy mùi khói còn sót lại.
 
-Lão để mặc ta quằn quại trên sàn suốt hai canh giờ. Khi ta tưởng như mình sắp chết vì kiệt sức, lão mới đứng dậy, lấy ra một viên đan dược màu đen tuyền.
+"Hừ, lũ chuột nhắt nào dám lén lút ở đây?"
 
-"Thuốc giải đây."
+Ta nắm chặt con dao găm trong tay, mồ hôi lạnh toát ra trên trán. Ta ra hiệu cho A Mộc nằm im, chuẩn bị tinh thần liều chết.
 
-Ta vươn tay ra định chộp lấy, nhưng lão rụt tay lại.
+Nhưng A Mộc bỗng nhiên vùng dậy. Hắn nhặt một hòn đá, ném mạnh về phía bụi rậm đối diện.
 
-"Khoan đã. Trên đời này không có bữa ăn nào miễn phí. Viên *Giải Độc Đan* này có thể cứu mạng ngươi, nhưng nó cũng có cái giá của nó."
+*Bốp!*
 
-Ta nhìn lão, đôi mắt mờ đi vì đau đớn. "Giá... giá gì?"
+Tiếng động làm Vương Xà giật mình quay lại.
 
-"Viên thuốc này chứa *Tử Phụ Tử*. Nó giải được *Phệ Tâm Tán*, nhưng nó sẽ để lại một hạt giống độc trong cơ thể ngươi. Hạt giống này sẽ ngủ yên nếu ngươi uống thuốc định kỳ hàng tháng. Nhưng nếu ngươi bỏ thuốc..." Lão cười gằn, "Nó sẽ nở hoa. Và khi nó nở hoa, ngươi sẽ ước gì mình được chết ngay lập tức."
+"Ai?!"
 
-Ta chết lặng. Đây không phải là thuốc giải. Đây là một sợi xích. Một sợi xích vô hình buộc chặt ta vào lão.
+A Mộc lao ra khỏi tảng đá, chạy vụt về phía ngược lại, giả vờ như một con thú hoảng sợ.
 
-"Sao? Không muốn uống? Vậy cứ nằm đó mà chết."
+"Đứng lại!" Vương Xà quát lên, lập tức đuổi theo.
 
-Cơn đau từ *Phệ Tâm Tán* lại dội lên, mạnh hơn lúc trước gấp bội. Ta cảm thấy tim mình sắp vỡ tung.
+Ta nhìn theo bóng lưng nhỏ bé của A Mộc biến mất trong màn đêm, lòng thắt lại. Hắn đang đánh lạc hướng Vương Xà để cứu ta.
 
-Sống. Ta phải sống. Dù có phải làm nô lệ, ta cũng phải sống.
+Ta cắn răng, lợi dụng cơ hội đó lẻn về phía lán trại của mình.
 
-"Đưa... đưa cho con..." Ta thều thào.
+Đêm hôm đó, ta không ngủ được. Ta nằm trằn trọc, lắng nghe tiếng động bên ngoài, lo sợ A Mộc sẽ bị bắt.
 
-Lão Quái mỉm cười hài lòng, ném viên thuốc xuống đất ngay trước mặt ta.
+Đến gần sáng, A Mộc mới trở về. Người hắn đầy vết trầy xước do gai góc, quần áo rách bươm. Nhưng khuôn mặt hắn vẫn tươi tỉnh. Hắn nhìn thấy ta đang ngồi chờ, liền nhe răng cười, giơ ngón tay cái lên ra hiệu "an toàn".
 
-"Ăn đi."
+Ta lao tới, ôm chầm lấy hắn.
 
-Ta bò tới, nhặt viên thuốc lên, nuốt chửng không chút do dự.
+"Đồ ngốc! Ngươi có biết nguy hiểm thế nào không?"
 
-Một luồng khí mát lạnh lan tỏa từ dạ dày, dập tắt ngọn lửa trong tim ta. Cơn đau dịu đi nhanh chóng. Ta nằm vật ra sàn, thở hắt ra nhẹ nhõm.
+A Mộc vỗ nhẹ vào lưng ta, miệng ú ớ những âm thanh vô nghĩa.
 
-"Từ nay về sau," Lão Quái nói, giọng lạnh lùng vọng xuống từ trên cao, "Mạng sống của ngươi nằm trong tay ta. Mỗi tháng, ta sẽ ban cho ngươi một viên thuốc giải. Đổi lại, ngươi phải hoàn thành mọi nhiệm vụ ta giao. Dù đó là giết người, hay tự sát."
+Khoảnh khắc đó, ta nhận ra một điều. Ta không chỉ muốn sống sót. Ta muốn tự do. Và ta muốn đưa A Mộc cùng đi.
 
-Ta nhắm mắt lại. Ta biết mình vừa bán linh hồn cho quỷ dữ lần thứ hai. Nhưng lần này, cái giá phải trả không chỉ là lương tâm, mà là cả tự do của ta.
+Chúng ta sẽ xây ngôi nhà nhỏ bên suối. Chúng ta sẽ câu cá. Chúng ta sẽ sống một cuộc đời bình thường như những con người thực thụ.
 
-"Con đã rõ... Sư phụ."
-
-Ta nắm chặt tay. Móng tay cắm sâu vào da thịt, bật máu. Một ngày nào đó... ta sẽ tìm ra cách giải loại độc này. Và ngày đó, sẽ là ngày tàn của lão.
+Đó không còn là giấc mơ nữa. Đó là mục tiêu.
