@@ -4,7 +4,7 @@
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 4: Thí Nghiệm Máu
+# Chương 62: Thí Nghiệm Máu
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)

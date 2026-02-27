@@ -4,7 +4,7 @@
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 8: Huyết Tế Sa Mạc
+# Chương 66: Huyết Tế Sa Mạc
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)

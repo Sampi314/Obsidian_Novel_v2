@@ -51,7 +51,7 @@ function stopSpeech() {
 </script>
 </div>
 <!-- NAVIGATION_END -->
-# Chương 1.2: Bài Học Vô Cảm
+# Chương 3: Bài Học Vô Cảm
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)

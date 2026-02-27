@@ -12,7 +12,7 @@ Ghi_Chú: Chuẩn bị cho trận phục kích tại Rừng Huyết Độc (Chư
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 10: Mạng Lưới Tử Thần
+# Chương 68: Mạng Lưới Tử Thần
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)

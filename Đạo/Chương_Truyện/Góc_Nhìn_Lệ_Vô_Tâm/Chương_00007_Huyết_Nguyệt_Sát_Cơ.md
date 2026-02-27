@@ -51,7 +51,7 @@ function stopSpeech() {
 </script>
 </div>
 <!-- NAVIGATION_END -->
-# Chương 1.6: Huyết Nguyệt Sát Cơ
+# Chương 7: Huyết Nguyệt Sát Cơ
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)

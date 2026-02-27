@@ -4,7 +4,7 @@
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 2.2: Bẫy Rập Rừng Sương
+# Chương 33: Bẫy Rập Rừng Sương
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
