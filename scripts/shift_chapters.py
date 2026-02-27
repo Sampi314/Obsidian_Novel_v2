@@ -1,16 +1,7 @@
 import os
 import re
 import argparse
-
-def extract_chapter_index(filename):
-    """
-    Extracts the integer chapter index from the filename.
-    Chương_00001_Title.md -> 1
-    """
-    match = re.search(r'Chương_(\d+)_', filename)
-    if match:
-        return int(match.group(1))
-    return None
+from scripts.utils import extract_chapter_index
 
 def shift_chapters(directory, start_index, offset):
     """

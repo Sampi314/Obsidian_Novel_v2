@@ -1,18 +1,6 @@
 import os
 import re
-
-def extract_chapter_number(filename):
-    """
-    Extracts the chapter number from the filename for sorting.
-    Handles formats like Chương_00001_... -> 1.0
-    and Chương_00001_5_... -> 1.5
-    """
-    match = re.search(r'Chương_(\d+)(?:_(\d+))?_', filename)
-    if match:
-        major = int(match.group(1))
-        minor = int(match.group(2)) if match.group(2) else 0
-        return major + (minor / 10.0)
-    return float('inf') # Put non-matching files at the end
+from scripts.utils import extract_chapter_number
 
 def reindex_chapters(repo_root):
     story_dir = os.path.join(repo_root, "Đạo", "Chương_Truyện")

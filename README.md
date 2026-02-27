@@ -17,39 +17,47 @@ Thông tin chi tiết về thế giới, nhân vật và hệ thống tu luyện
 
 ### 1. Danh Sách Nhân Vật (Character List)
 <!-- CHARACTER_LIST_START -->
-| Tên Nhân Vật | Chủng Tộc | Cảnh Giới | File |
-| :--- | :--- | :--- | :--- |
-| Diệp Thanh Y (葉青衣). | Nhân Tộc (Mộc Linh Thể). | Hóa Thần Sơ Kỳ. | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Nhân_Vật/Diệp_Thanh_Y.md) |
-| Diệp Tĩnh Sương (葉静霜). | Nhân Tộc. | Trúc Cơ Sơ Kỳ. | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md) |
-| Hàn Thanh Nguyệt (Hàn Tiểu Nha). | Nhân Tộc. | Trúc Cơ Sơ Kỳ. | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Nhân_Vật/Hàn_Thanh_Nguyệt.md) |
-| Lâm Phong (林風). | Nhân Tộc. | Luyện Khí Viên Mãn (Chuẩn bị Trúc Cơ). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Nhân_Vật/Lâm_Phong.md) |
-| Lý Tuyết Ưng (Li Xue Ying). | Băng Tộc (Nhân Tộc Biến Thể). | Nguyên Anh Hậu Kỳ (gần viên mãn). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Nhân_Vật/Lý_Tuyết_Ưng.md) |
-| Lục Tiêu (Luc Tieu). | [Tinh Linh Tộc](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Chủng_Tộc/Chủng_Tộc_Chính.md#tinh-linh-tộc). | Kim Đan Sơ Kỳ (Core Formation Early Stage). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Nhân_Vật/Lục_Tiêu.md) |
-| Lục Trần (陸塵). | Nhân Tộc. | Hóa Thần Sơ Kỳ (化神初期). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Nhân_Vật/Lục_Trần.md) |
-| Nguyệt Dao (Moon Yao). | [Tinh Linh Tộc](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Chủng_Tộc/Chủng_Tộc_Chính.md#tinh-linh-tộc) (Hoàng Tộc). | Hóa Thần Sơ Kỳ (Soul Transformation Early Stage). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Nhân_Vật/Nguyệt_Dao.md) |
-| Sở Lăng Sương (楚凌霜). | Nhân Tộc. | Trúc Cơ Sơ Kỳ (Trúc Cơ tầng 2). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Nhân_Vật/Sở_Lăng_Sương.md) |
-| Triệu Thanh Hằng (趙清恒). | Nhân Tộc. | Trúc Cơ Trung Kỳ. | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Nhân_Vật/Triệu_Thanh_Hằng.md) |
-| Đan Dương Tử (丹陽子). | Nhân Tộc. | Hóa Thần Sơ Kỳ. | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Nhân_Vật/Đan_Dương_Tử.md) |
-| Độc Cô Lão Quái (独孤老怪). | Nhân Tộc (Đã biến đổi cơ thể nhờ Độc công). | Hóa Thần Sơ Kỳ. | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Nhân_Vật/Độc_Cô_Lão_Quái.md) |
+| Tên Nhân Vật | Thông Tin (Chủng Tộc / Cảnh Giới) | File |
+| :--- | :--- | :--- |
+| Diệp Thanh Y | Nhân Tộc (Mộc Linh Thể). Hóa Thần Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Diệp_Thanh_Y.md) |
+| Diệp Tĩnh Sương | Nhân Tộc. Trúc Cơ Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md) |
+| Hàn Thanh Nguyệt | Nhân Tộc. Trúc Cơ Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Hàn_Thanh_Nguyệt.md) |
+| Hứa Nhược Thủy | Nguyên Anh Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Hứa_Nhược_Thủy.md) |
+| Hứa Thanh Vân | Nhân Tộc. Luyện Khí Tầng 9 (Đỉnh Phong). | [Xem Chi Tiết](Đạo/Nhân_Vật/Hứa_Thanh_Vân.md) |
+| Lâm Phong | Nhân Tộc. Luyện Khí Viên Mãn (Chuẩn bị Trúc Cơ). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lâm_Phong.md) |
+| Lý Tuyết Ưng | Băng Tộc (Nhân Tộc Biến Thể). Nguyên Anh Hậu Kỳ (gần viên mãn). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lý_Tuyết_Ưng.md) |
+| Lệ Vô Tâm | Trúc Cơ Viên Mãn (Sắp ngưng tụ Giả Đan). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lệ_Vô_Tâm.md) |
+| Lục Ly | Tinh Linh Tộc (Hồn Thể / Spirit Form). Tương đương Trúc Cơ Viên Mãn / Nửa bước Kim Đan (Dựa trên sức mạnh Hồn Lực và Địa Lợi). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lục_Ly.md) |
+| Lục Tiêu | [Tinh Linh Tộc](../Chủng_Tộc/Chủng_Tộc_Chính.md#tinh-linh-tộc). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lục_Tiêu.md) |
+| Lục Trần | Nhân Tộc. | [Xem Chi Tiết](Đạo/Nhân_Vật/Lục_Trần.md) |
+| Nguyệt Dao | [Tinh Linh Tộc](../Chủng_Tộc/Chủng_Tộc_Chính.md#tinh-linh-tộc) (Hoàng Tộc). | [Xem Chi Tiết](Đạo/Nhân_Vật/Nguyệt_Dao.md) |
+| Ngô Công Trưởng Lão | N/A | [Xem Chi Tiết](Đạo/Nhân_Vật/Ngô_Công_Trưởng_Lão.md) |
+| Sở Lăng Sương | Nhân Tộc. Trúc Cơ Sơ Kỳ (Trúc Cơ tầng 2). | [Xem Chi Tiết](Đạo/Nhân_Vật/Sở_Lăng_Sương.md) |
+| Triệu Thanh Hằng | Nhân Tộc. Trúc Cơ Trung Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Triệu_Thanh_Hằng.md) |
+| Đan Dương Tử | Nhân Tộc. Hóa Thần Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Đan_Dương_Tử.md) |
+| Độc Cô Lão Quái | Nhân Tộc (Đã biến đổi cơ thể nhờ Độc công). Hóa Thần Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Độc_Cô_Lão_Quái.md) |
 <!-- CHARACTER_LIST_END -->
 
 ### 2. Danh Sách Công Pháp (Technique List)
 <!-- TECHNIQUE_LIST_START -->
-| Tên Công Pháp | Phẩm Cấp | Thuộc Tính | File |
-| :--- | :--- | :--- | :--- |
-| BĂNG TÂM QUYẾT (冰心诀) | Thiên Cấp Hạ Phẩm (Heaven Rank Low Grade). | Băng (Hàn). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Băng_Tâm_Quyết.md) |
-| CỬU CHUYỂN ĐAN HỎA QUYẾT (九轉丹火訣) | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Hóa Thần Cảnh). | Hỏa (Chủ đạo), Mộc (Hỗ trợ sinh cơ cho lửa). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Cửu_Chuyển_Đan_Hỏa_Quyết.md) |
-| CỬU HOA KIẾM QUYẾT (九花劍訣) | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Hóa Thần Cảnh). | Kim (Chủ đạo), Mộc (Hỗ trợ). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Cửu_Hoa_Kiếm_Quyết.md) |
-| HÀN SƯƠNG KIẾM QUYẾT (寒霜劍訣) | Huyền Cấp Thượng Phẩm. | Băng (Hàn). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Hàn_Sương_Kiếm_Quyết.md) |
-| LIỆT DIỄM SA CÔNG (烈焰沙功) | Huyền Cấp Thượng Phẩm (Có thể tu luyện đến Kim Đan Cảnh). | Hỏa (Chủ đạo) + Thổ (Phụ trợ). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Liệt_Diễm_Sa_Công.md) |
-| LÃNH PHONG KIẾM QUYẾT (冷風劍訣) | Huyền Cấp Thượng Phẩm. | Phong (Gió) kết hợp Hàn (Lạnh). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Lãnh_Phong_Kiếm_Quyết.md) |
-| NGUYỆT LINH TRƯỜNG SINH QUYẾT (月靈長生訣) | N/A | Mộc (Wood) - Quang (Light/Moon). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Nguyệt_Linh_Trường_Sinh_Quyết.md) |
-| THANH NANG TRƯỜNG SINH QUYẾT (青囊長生訣) | Thiên Cấp Trung Phẩm. | Mộc (Wood) / Sinh Mệnh (Life). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Thanh_Nang_Trường_Sinh_Quyết.md) |
-| THANH ÂM VẠN VẬT QUYẾT (清音萬物訣) | Thiên Cấp Hạ Phẩm (Thien Cap Ha Pham). | Mộc (Wood), Âm Luật (Sound). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Thanh_Âm_Vạn_Vật_Quyết.md) |
-| THIÊN CƠ TOÁN THUẬT (天機算術) | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Nguyên Anh Cảnh). | Không thuộc tính nguyên tố cụ thể — thuộc về "Đạo Vận" (Vận Mệnh / Nhân Quả). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Thiên_Cơ_Toán_Thuật.md) |
-| THIÊN ÂM BĂNG PHÁCH (天音冰魄) | Thiên Cấp Hạ Phẩm (Đi kèm với Băng Tâm Quyết). | Âm (Sound) kết hợp Hàn (Ice). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Thiên_Âm_Băng_Phách.md) |
-| TÀN NGUYỆT KIẾM QUYẾT (殘月劍訣) | Huyền Cấp Trung Phẩm (Vốn là Địa Cấp nhưng bị thất truyền một phần quan trọng). | Hàn / Băng. | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Tàn_Nguyệt_Kiếm_Quyết.md) |
-| VẠN ĐỘC CHÂN KINH (万毒真经) | Thiên Cấp Hạ Phẩm (Có thể tiến hóa nếu hấp thụ đủ kỳ độc). | Độc (Poison) / Âm (Yin). | [Xem Chi Tiết](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/Công_Pháp/Vạn_Độc_Chân_Kinh.md) |
+| Tên Công Pháp | Thông Tin (Phẩm Cấp / Thuộc Tính) | File |
+| :--- | :--- | :--- |
+| Băng Tâm Quyết | Thiên Cấp Hạ Phẩm (Heaven Rank Low Grade). Băng (Hàn). | [Xem Chi Tiết](Đạo/Công_Pháp/Băng_Tâm_Quyết.md) |
+| Cửu Chuyển Đan Hỏa Quyết | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Hóa Thần Cảnh). Hỏa (Chủ đạo), Mộc (Hỗ trợ sinh cơ cho lửa). | [Xem Chi Tiết](Đạo/Công_Pháp/Cửu_Chuyển_Đan_Hỏa_Quyết.md) |
+| Cửu Hoa Kiếm Quyết | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Hóa Thần Cảnh). Kim (Chủ đạo), Mộc (Hỗ trợ). | [Xem Chi Tiết](Đạo/Công_Pháp/Cửu_Hoa_Kiếm_Quyết.md) |
+| Hàn Băng Bộ | 1. **Sơ Thành:** Bước đi nhẹ nhàng, để lại sương trắng. | [Xem Chi Tiết](Đạo/Công_Pháp/Hàn_Băng_Bộ.md) |
+| Hàn Sương Kiếm Quyết | Huyền Cấp Thượng Phẩm. Băng (Hàn). | [Xem Chi Tiết](Đạo/Công_Pháp/Hàn_Sương_Kiếm_Quyết.md) |
+| Liệt Diễm Sa Công | Huyền Cấp Thượng Phẩm (Có thể tu luyện đến Kim Đan Cảnh). Hỏa (Chủ đạo) + Thổ (Phụ trợ). | [Xem Chi Tiết](Đạo/Công_Pháp/Liệt_Diễm_Sa_Công.md) |
+| Lãnh Phong Kiếm Quyết | Huyền Cấp Thượng Phẩm. Phong (Gió) kết hợp Hàn (Lạnh). | [Xem Chi Tiết](Đạo/Công_Pháp/Lãnh_Phong_Kiếm_Quyết.md) |
+| Nguyệt Linh Trường Sinh Quyết | N/A | [Xem Chi Tiết](Đạo/Công_Pháp/Nguyệt_Linh_Trường_Sinh_Quyết.md) |
+| Thanh Mộc Trường Sinh Quyết | Hoàng Cấp Cực Phẩm (Yellow Rank Ultimate Grade). | [Xem Chi Tiết](Đạo/Công_Pháp/Thanh_Mộc_Trường_Sinh_Quyết.md) |
+| Thanh Nang Trường Sinh Quyết | Thiên Cấp Trung Phẩm. | [Xem Chi Tiết](Đạo/Công_Pháp/Thanh_Nang_Trường_Sinh_Quyết.md) |
+| Thanh Âm Vạn Vật Quyết | Thiên Cấp Hạ Phẩm (Thien Cap Ha Pham). | [Xem Chi Tiết](Đạo/Công_Pháp/Thanh_Âm_Vạn_Vật_Quyết.md) |
+| Thiên Cơ Toán Thuật | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Nguyên Anh Cảnh). Không thuộc tính nguyên tố cụ thể — thuộc về "Đạo Vận" (Vận Mệnh / Nhân Quả). | [Xem Chi Tiết](Đạo/Công_Pháp/Thiên_Cơ_Toán_Thuật.md) |
+| Thiên Âm Băng Phách | Thiên Cấp Hạ Phẩm (Đi kèm với Băng Tâm Quyết). Âm (Sound) kết hợp Hàn (Ice). | [Xem Chi Tiết](Đạo/Công_Pháp/Thiên_Âm_Băng_Phách.md) |
+| Tàn Nguyệt Kiếm Quyết | Huyền Cấp Trung Phẩm (Vốn là Địa Cấp nhưng bị thất truyền một phần quan trọng). Hàn / Băng. | [Xem Chi Tiết](Đạo/Công_Pháp/Tàn_Nguyệt_Kiếm_Quyết.md) |
+| Vạn Độc Chân Kinh | Thiên Cấp Hạ Phẩm (Có thể tiến hóa nếu hấp thụ đủ kỳ độc). | [Xem Chi Tiết](Đạo/Công_Pháp/Vạn_Độc_Chân_Kinh.md) |
+| Vạn Độc Phệ Hồn Quyết | Thiên Cấp Hạ Phẩm (Bản giản lược thiên về linh hồn). | [Xem Chi Tiết](Đạo/Công_Pháp/Vạn_Độc_Phệ_Hồn_Quyết.md) |
 <!-- TECHNIQUE_LIST_END -->
 
 ---
