@@ -1,3 +1,9 @@
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
+<!-- NAVIGATION_END -->
 # Chương 74: Âm Vang Quỷ Khốc
 
 Sương mù xám xịt, đặc quánh như cháo, cuồn cuộn dâng lên từ đáy thung lũng, mang theo hơi lạnh buốt thấu xương. Gió lùa qua những vách đá dựng đứng, bị xé toạc ra, tạo thành những âm thanh rít gào thê lương như hàng vạn oan hồn đang nức nở.

@@ -57,7 +57,8 @@
     - **Nhiệm Vụ Hiện Tại:** Lợi dụng Đại Điển Sắc Phong Vạn Độc Thánh Tử (Lệ Vô Tâm) để vượt qua vòng vây phòng thủ đang lỏng lẻo ở Quỷ Khốc Cốc và thoát khỏi Nam Cương (Hoàn thành - Chương 75).
     - **Sự Kiện Mới:** Rời khỏi hang động, phát hiện không gian bất thường, ngay sau đó bị bao vây bởi quân đoàn Huyết Thi từ Rừng Huyết Độc.
     - **Nhiệm Vụ Hiện Tại:** Dùng Huyết Sa Lôi phá vây nhưng nhận ra đã rơi vào thế trận của Lệ Vô Tâm (Hoàn thành - Chương 76).
-    - **Nhiệm Vụ Tiếp Theo:** Chống lại Lệ Vô Tâm và tìm đường sống sót.
+    - **Sự Kiện Mới:** Đối thoại căng thẳng với Lệ Vô Tâm và bị dồn vào tuyệt cảnh khi Nhện Mặt Quỷ khổng lồ xuất hiện (Chương 71 Góc Nhìn Lệ Vô Tâm).
+    - **Nhiệm Vụ Tiếp Theo:** Chống lại vòng vây Huyết Thi và Nhện Mặt Quỷ, tìm con đường sống sót cuối cùng.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
@@ -74,7 +75,8 @@
     - Đụng độ tại Pháo Đài Xanh và rút lui về Nam Cương để bày binh bố trận (Hoàn thành).
     - **Sự Kiện Mới:** Bước vào Arc 3: Khởi động Đại Điển Sắc Phong Vạn Độc Thánh Tử, Lệ Vô Tâm điều động quân đoàn Huyết Thi để đối phó Độc Cô Lão Quái và bắt giữ nhóm Diệp Tĩnh Sương (Chương 70).
     - **Nhiệm Vụ Hiện Tại:** Dồn nhóm nhân vật chính vào vòng vây tại Rừng Huyết Độc và Quỷ Khốc Cốc (Hoàn thành - Chương 76 Góc Nhìn Chính).
-    - **Nhiệm Vụ Tiếp Theo:** Bắt sống Diệp Tĩnh Sương hoặc tiêu diệt toàn bộ.
+    - **Sự Kiện Mới:** Đối thoại với Diệp Tĩnh Sương và dùng Nhện Mặt Quỷ kết hợp Huyết Thi để vây khốn (Chương 71 Góc Nhìn Lệ Vô Tâm).
+    - **Nhiệm Vụ Tiếp Theo:** Tiêu diệt nhóm Diệp Tĩnh Sương hoặc ép họ vào đường cùng.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

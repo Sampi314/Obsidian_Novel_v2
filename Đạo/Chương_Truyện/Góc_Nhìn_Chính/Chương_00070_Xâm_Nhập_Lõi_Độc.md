@@ -1,3 +1,9 @@
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
+<!-- NAVIGATION_END -->
 # Chương 70: Xâm Nhập Lõi Độc
 
 Sâu thẳm dưới lòng đất Nam Cương, bên trong mạng lưới rễ khổng lồ của Huyết Mạch Thượng Cổ, một không gian tĩnh lặng và u ám bao trùm. Từng đoạn rễ hóa thạch đan xen vào nhau, tạo thành những đường hầm khổng lồ, vững chãi như thép nguội. Trên vách hầm, những tinh thể Mộc Tinh thi thoảng lại phát ra ánh sáng nhạt nhòa, soi rọi lối đi ẩm ướt rêu phong.

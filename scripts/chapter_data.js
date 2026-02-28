@@ -283,6 +283,42 @@ window.chapterData = {
       "title": "Chương 67: Bước Nhảy Sinh Tử (生死一躍)"
     },
     {
+      "filename": "Chương_00068_Bóng_Tối_Huyết_Uyên.md",
+      "title": "Chương 68: Bóng Tối Huyết Uyên (血淵之暗)"
+    },
+    {
+      "filename": "Chương_00069_Nguồn_Cội_Thượng_Cổ.md",
+      "title": "Chương 69: Nguồn Cội Thượng Cổ (上古之源)"
+    },
+    {
+      "filename": "Chương_00070_Xâm_Nhập_Lõi_Độc.md",
+      "title": "Chương 70: Xâm Nhập Lõi Độc"
+    },
+    {
+      "filename": "Chương_00071_Trận_Chiến_Dưới_Lòng_Đất.md",
+      "title": "Chương 71: Trận Chiến Dưới Lòng Đất"
+    },
+    {
+      "filename": "Chương_00072_Bóng_Tối_Bủa_Vây.md",
+      "title": "Chương 72: Bóng Tối Bủa Vây"
+    },
+    {
+      "filename": "Chương_00073_Ánh_Sáng_Nơi_Lõi_Độc.md",
+      "title": "Chương 73: Ánh Sáng Nơi Lõi Độc"
+    },
+    {
+      "filename": "Chương_00074_Âm_Vang_Quỷ_Khốc.md",
+      "title": "Chương 74: Âm Vang Quỷ Khốc"
+    },
+    {
+      "filename": "Chương_00075_Luyện_Hóa_Tinh_Sa.md",
+      "title": "Chương 75: Luyện Hóa Tinh Sa"
+    },
+    {
+      "filename": "Chương_00076_Vòng_Vây_Huyết_Thi.md",
+      "title": "Chương 76: Vòng Vây Huyết Thi"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -605,6 +641,14 @@ window.chapterData = {
     {
       "filename": "Chương_00069_Con_Mồi_Vào_Rọ.md",
       "title": "Chương 69: Con Mồi Vào Rọ"
+    },
+    {
+      "filename": "Chương_00070_Quân_Đoàn_Máu.md",
+      "title": "Chương 70: Quân Đoàn Máu"
+    },
+    {
+      "filename": "Chương_00071_Đối_Thoại_Trong_Sương.md",
+      "title": "Chương 71: Đối Thoại Trong Sương"
     }
   ]
 };
