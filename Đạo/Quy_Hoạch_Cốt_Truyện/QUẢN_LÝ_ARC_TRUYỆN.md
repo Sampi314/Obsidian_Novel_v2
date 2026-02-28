@@ -37,6 +37,10 @@
     - **Sự Kiện Mới:** Vạn Độc Huyết Tế Đại Trận kích hoạt, nhóm nhân vật chính rơi vào vòng vây.
     - **Nhiệm Vụ Hiện Tại:** Phá vòng vây và tìm đường thoát khỏi đại trận đang co lại (Chương 45, 46).
     - **Nhiệm Vụ Tiếp Theo:** Tìm và phá hủy các Mắt Trận để làm suy yếu kết giới.
+    - **Sự Kiện Mới:** Tiến sâu vào Huyết Vụ Lâm, chạm trán bầy Huyết Vụ Điểu và Mộng Yểm Hoa.
+    - **Nhiệm Vụ Hiện Tại:** Chống lại ảo giác và thoát khỏi bầy chim (Chương 64, 65).
+    - **Sự Kiện Mới:** Được cứu bởi tiếng sáo bí ẩn, chạy trốn nhưng bị dồn đến vực thẳm.
+    - **Nhiệm Vụ Tiếp Theo:** Sinh tồn trước vực thẳm (Chương 66).
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
