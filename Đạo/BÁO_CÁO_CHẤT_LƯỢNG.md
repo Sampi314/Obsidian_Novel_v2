@@ -142,3 +142,5 @@
 | Hôm nay | Tổng Quản | Viết Chương 74 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm dung hợp Mẫu Cổ, hút sức mạnh Nhện Mặt Quỷ trong Mật Thất Huyết Trì và chính thức nắm quyền Vạn Độc Môn. |
 | Hôm nay | Tổng Quản | Viết Chương 81 (Góc Nhìn Chính) | Hoàn Thành | Nhóm Diệp Tĩnh Sương chia tay Sở Lăng Sương và bước vào Vùng Đất Chết, đối mặt đội quân Vong Linh. |
 | Hôm nay | Tổng Quản | Viết Chương 75 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm xuất quan, bố trí quân đoàn Huyết Thi phòng thủ Đầm Lầy Tử Thần và Vùng Đất Chết. |
+| Hôm nay | Tổng Quản | Viết Chương 82 (Góc Nhìn Chính) | Hoàn Thành | Nhóm Diệp Tĩnh Sương đối mặt với Vong Linh Tướng Quân, tìm thấy Mắt Trận phụ nhưng bị Huyết Vệ số Một cản đường. |
+| Hôm nay | Tổng Quản | Viết Chương 76 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm điều động Huyết Vệ số Một và dùng Trận Pháp Huyễn Ảnh để đối phó nhóm Diệp Tĩnh Sương. |
