@@ -5,7 +5,7 @@ import { StoryPlanner } from './components/StoryPlanner';
 import { Wiki } from './components/Wiki';
 import { AnnotationPanel } from './components/AnnotationPanel';
 import { KanbanData } from './types';
-import { exportStoryPlannerToMarkdown, downloadTextFile } from './utils/markdownSync';
+import { exportStoryPlannerToMarkdown, exportAnnotationsToMarkdown, exportWikiPageToMarkdown } from './utils/markdownSync';
 import { theme } from './theme';
 
 type Tab = 'timeline' | 'dashboard' | 'planner' | 'wiki' | 'annotations';
@@ -74,14 +74,12 @@ const App: React.FC = () => {
       // Load and export annotations
       const storedAnnotations = localStorage.getItem('co-nguyen-annotations');
       if (storedAnnotations) {
-          const { exportAnnotationsToMarkdown } = await import('./utils/markdownSync');
           zip.file('annotations.md', exportAnnotationsToMarkdown(JSON.parse(storedAnnotations)));
       }
 
       // Load and export wiki
       const storedWiki = localStorage.getItem('co-nguyen-wiki');
       if (storedWiki) {
-          const { exportWikiPageToMarkdown } = await import('./utils/markdownSync');
           const wikiPages: any[] = JSON.parse(storedWiki);
           const wikiFolder = zip.folder('wiki');
           if (wikiFolder) {
