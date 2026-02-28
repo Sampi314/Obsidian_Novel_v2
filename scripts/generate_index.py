@@ -179,13 +179,6 @@ def generate_root_index_html(repo_root):
 
     print(f"Generated root HTML index at {index_path}")
 
-    # Generate story planner
-    try:
-        from scripts.generate_story_planner import generate_story_planner_html
-        generate_story_planner_html(repo_root)
-    except ImportError as e:
-        print(f"Warning: Could not import generate_story_planner: {e}")
-
 if __name__ == "__main__":
     repo_root = os.getcwd()
     generate_root_index_html(repo_root)
