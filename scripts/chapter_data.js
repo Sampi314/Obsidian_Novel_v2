@@ -319,6 +319,38 @@ window.chapterData = {
       "title": "Chương 76: Vòng Vây Huyết Thi"
     },
     {
+      "filename": "Chương_00077_Tuyệt_Cảnh_Phá_Vây.md",
+      "title": "Chương 77: Tuyệt Cảnh Phá Vây"
+    },
+    {
+      "filename": "Chương_00078_Băng_Kiếm_Lai_Lâm.md",
+      "title": "Chương 78: Băng Kiếm Lai Lâm"
+    },
+    {
+      "filename": "Chương_00079_Tạm_Lánh_Phong_Ba.md",
+      "title": "Chương 79: Tạm Lánh Phong Ba (Góc Nhìn Chính)"
+    },
+    {
+      "filename": "Chương_00080_Hội_Bàn_Đối_Sách.md",
+      "title": "Chương 80: Hội Bàn Đối Sách"
+    },
+    {
+      "filename": "Chương_00081_Trở_Lại_Tử_Địa.md",
+      "title": "Chương 81: Trở Lại Tử Địa"
+    },
+    {
+      "filename": "Chương_00082_Trận_Chiến_Vùng_Đất_Chết.md",
+      "title": "Chương 82: Trận Chiến Vùng Đất Chết"
+    },
+    {
+      "filename": "Chương_00083_Phá_Giải_Huyễn_Ảnh.md",
+      "title": "Chương 83: Phá Giải Huyễn Ảnh"
+    },
+    {
+      "filename": "Chương_00084_Phá_Hủy_Mắt_Trận.md",
+      "title": "Chương 84: Phá Hủy Mắt Trận"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -649,6 +681,34 @@ window.chapterData = {
     {
       "filename": "Chương_00071_Đối_Thoại_Trong_Sương.md",
       "title": "Chương 71: Đối Thoại Trong Sương"
+    },
+    {
+      "filename": "Chương_00072_Hàn_Băng_Phá_Trận.md",
+      "title": "Chương 72: Hàn Băng Phá Trận"
+    },
+    {
+      "filename": "Chương_00073_Nuốt_Hận_Dưỡng_Thương.md",
+      "title": "Chương 73: Nuốt Hận Dưỡng Thương (Góc Nhìn Lệ Vô Tâm)"
+    },
+    {
+      "filename": "Chương_00074_Vạn_Độc_Trọng_Sinh.md",
+      "title": "Chương 74: Vạn Độc Trọng Sinh"
+    },
+    {
+      "filename": "Chương_00075_Bố_Cục_Tử_Địa.md",
+      "title": "Chương 75: Bố Cục Tử Địa"
+    },
+    {
+      "filename": "Chương_00076_Huyết_Vệ_Xuất_Kích.md",
+      "title": "Chương 76: Huyết Vệ Xuất Kích"
+    },
+    {
+      "filename": "Chương_00077_Biến_Số_Từ_Đầm_Lầy.md",
+      "title": "Chương 77: Biến Số Từ Đầm Lầy"
+    },
+    {
+      "filename": "Chương_00078_Đại_Chiến_Đầm_Lầy.md",
+      "title": "Chương 78: Đại Chiến Đầm Lầy"
     }
   ]
 };

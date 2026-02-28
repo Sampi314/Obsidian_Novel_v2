@@ -326,3 +326,17 @@
 - **Góc Nhìn:** Lệ Vô Tâm
 - **Tóm tắt:** Từ Mật Thất Huyết Trì, Lệ Vô Tâm thông qua Vạn Độc Huyết Tế Đại Trận quan sát trận chiến tại Vùng Đất Chết. Thấy Vong Linh Tướng Quân bị áp chế, hắn hạ lệnh Huyết Vệ số Một xuất kích, đồng thời kích hoạt Trận Pháp Huyễn Ảnh để chia cắt và vây khốn nhóm Diệp Tĩnh Sương.
 - **Tình trạng:** Hoàn thành. Song song với diễn biến Chương 82 Góc Nhìn Chính.
+
+## Phiên làm việc: Viết Chương 84 (Góc Nhìn Chính)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 84: Phá Hủy Mắt Trận
+- **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
+- **Tóm tắt:** Thoát khỏi Huyễn Ảnh Trận, nhóm Diệp Tĩnh Sương hợp lực đánh bại Huyết Vệ số Một. Họ tiếp cận Mắt Trận phụ, Lâm Phong dùng Thanh Mộc Trường Sinh Quyết cắt đứt liên kết của nó với rễ cây ngầm, tạo cơ hội cho Diệp Tĩnh Sương dùng Hàn Mai Kiếm Quyết phá nát khối Huyết Tinh thạch khổng lồ. Mắt Trận phụ bị phá hủy, đại trận suy yếu, nhóm chuẩn bị hướng về Đầm Lầy Tử Thần trợ giúp.
+- **Tình trạng:** Hoàn thành. Phá Mắt Trận phụ thành công.
+
+## Phiên làm việc: Viết Chương 78 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 78: Đại Chiến Đầm Lầy
+- **Góc Nhìn:** Lệ Vô Tâm
+- **Tóm tắt:** Lệ Vô Tâm dồn toàn lực bảo vệ Mắt Trận chính tại Đầm Lầy Tử Thần trước cuộc tổng tiến công của Sở Lăng Sương, Cửu Hoa Kiếm Tông và Dược Vương Cốc. Hắn dùng Mẫu Cổ và Huyết Độc Chân Khí triệu hồi Huyết Độc Lang và quái vật Độc Oán Mãng Xà khổng lồ để đối phó với đội hình địch. Trận đại chiến chính tà bùng nổ khốc liệt.
+- **Tình trạng:** Hoàn thành. Cao trào của cuộc đại chiến.

@@ -1,8 +1,9 @@
 <!-- NAVIGATION_START -->
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-
 # Chương 81: Trở Lại Tử Địa
 
 Ánh nắng lờ mờ của buổi bình minh khó nhọc xuyên qua lớp sương mù độc hại đang bao phủ Nam Cương, hắt những tia sáng yếu ớt lên vách đá Quỷ Khốc Cốc. Tại một mỏm đá nhô ra giữa không trung, bốn bóng người đang đứng lặng lẽ, hướng mắt về phía xa. Không khí tĩnh mịch, chỉ có tiếng gió rít qua những khe đá tạo nên âm thanh nỉ non như tiếng quỷ khóc.
@@ -63,6 +64,3 @@ Tuy nhiên, Vong Linh Tướng Quân không hề bận tâm đến sự tổn th
 
 Trận chiến tại Vùng Đất Chết chính thức bắt đầu. Lần này, họ không chỉ đối mặt với sương độc và Huyết Thi, mà còn phải vượt qua đội quân Vong Linh cường đại được thao túng bởi Vạn Độc Huyết Tế Đại Trận. Không có đường lui, chỉ có tiến lên phía trước, phá hủy Mắt Trận, hoặc vĩnh viễn nằm lại nơi tử địa này.
 
-<!-- NAVIGATION_START -->
-<div id="chapter-navigation-bottom" style="text-align: center; margin-top: 20px;"></div>
-<!-- NAVIGATION_END -->
