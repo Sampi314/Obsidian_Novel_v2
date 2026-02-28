@@ -146,6 +146,7 @@
         - [Chương 68: Mạng Lưới Tử Thần](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00068_Mạng_Lưới_Tử_Thần.md)
         - [Chương 69: Con Mồi Vào Rọ](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00069_Con_Mồi_Vào_Rọ.md)
         - [Chương 70: Quân Đoàn Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00070_Quân_Đoàn_Máu.md)
+        - [Chương 71: Đối Thoại Trong Sương](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00071_Đối_Thoại_Trong_Sương.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
         - [Chương 70: Xâm Nhập Lõi Độc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00070_Xâm_Nhập_Lõi_Độc.md)

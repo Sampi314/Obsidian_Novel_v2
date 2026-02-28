@@ -1,3 +1,9 @@
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
+<!-- NAVIGATION_END -->
 # Chương 68: Bóng Tối Huyết Uyên (血淵之暗)
 
 Màn sương đỡ màu hồng nhạt lơ lửng dưới đáy Huyết Uyên như một tấm thảm khổng lồ được dệt từ máu và chướng khí. Ba người Diệp Tĩnh Sương, Lâm Phong và Hứa Nhược Thủy từ từ đứng dậy sau cú ngã định mệnh. Sự may mắn kỳ diệu này dường như càng làm tôn thêm vẻ quỷ dị của nơi họ vừa đặt chân đến.
