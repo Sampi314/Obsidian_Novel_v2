@@ -211,3 +211,10 @@
 - **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy.
 - **Địa điểm:** Huyết Uyên (dưới đáy Huyết Vụ Lâm).
 - **Tiến độ Arc:** Sống sót và bắt đầu khám phá vực sâu bí ẩn.
+
+## Phiên làm việc: Viết Chương 69 (Góc Nhìn Chính)
+- **Ngày:** 2026-04-03
+- **Chương:** Chương 69: Nguồn Cội Thượng Cổ
+- **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
+- **Tóm tắt:** Ba người đi dọc Huyết Hà đến thượng nguồn, phát hiện mạng lưới rễ hóa thạch khổng lồ của Huyết Mạch Thượng Cổ. Họ dùng Thanh Mộc Dịch để chữa lành vết thương cho Hứa Nhược Thủy và phục hồi thể lực. Diệp Tĩnh Sương cảm nhận ký ức Thần Mộc và phát hiện ra hệ thống rễ rỗng ruột này là đường hầm xuyên suốt Nam Cương, dẫn thẳng vào lõi Vạn Độc Môn.
+- **Tình trạng:** Hoàn thành tốt, bám sát lore của Huyết Mạch Thượng Cổ.

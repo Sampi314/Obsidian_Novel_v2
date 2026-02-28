@@ -42,8 +42,10 @@
     - **Sự Kiện Mới:** Được cứu bởi tiếng sáo bí ẩn, chạy trốn nhưng bị dồn đến vực thẳm.
     - **Nhiệm Vụ Hiện Tại:** Sinh tồn trước vực thẳm (Hoàn thành - Chương 66).
     - **Sự Kiện Mới:** Nhảy xuống vực thẳm để thoát khỏi Huyết Vụ Điểu, tiếp đất an toàn tại Huyết Uyên.
-    - **Nhiệm Vụ Tiếp Theo:** Khám phá Huyết Uyên và tìm hiểu về Khí Tức Thượng Cổ (Chương 67).
+    - **Nhiệm Vụ Hiện Tại:** Khám phá Huyết Uyên và tìm hiểu về Khí Tức Thượng Cổ (Hoàn thành - Chương 67, 68).
     - **Sự Kiện Mới:** Nhóm tiến dọc theo dòng sông ngầm, chạm trán Dơi Huyết Mù và Rết Lân Tinh (Chương 68).
+    - **Nhiệm Vụ Hiện Tại:** Khám phá ngọn nguồn của Khí Tức Thượng Cổ và tìm được lối vào Huyết Mạch Thượng Cổ, sử dụng Thanh Mộc Dịch để chữa trị (Hoàn thành - Chương 69).
+    - **Nhiệm Vụ Tiếp Theo:** Tiến sâu vào Huyết Mạch Thượng Cổ, luồn qua hệ thống phòng thủ để tìm cách lật đổ Vạn Độc Môn.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
