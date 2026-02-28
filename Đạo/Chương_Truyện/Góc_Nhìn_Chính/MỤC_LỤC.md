@@ -70,4 +70,5 @@
 - [Chương 68: Bóng Tối Huyết Uyên](Chương_00068_Bóng_Tối_Huyết_Uyên.md)
 - [Chương 69: Nguồn Cội Thượng Cổ](Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
 - [Chương 70: Xâm Nhập Lõi Độc](Chương_00070_Xâm_Nhập_Lõi_Độc.md)
+- [Chương 71: Trận Chiến Dưới Lòng Đất](Chương_00071_Trận_Chiến_Dưới_Lòng_Đất.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)
