@@ -49,7 +49,9 @@
     - **Nhiệm Vụ Hiện Tại:** Phá hủy hệ thống phòng thủ ngầm và phòng thí nghiệm ngầm của Vạn Độc Môn (Hoàn thành - Chương 71).
     - **Sự Kiện Mới:** Trận chiến khốc liệt dưới lòng đất đã phá hủy hoàn toàn cơ sở nghiên cứu ngầm, nhưng cảnh báo cho toàn bộ Vạn Độc Môn.
     - **Nhiệm Vụ Hiện Tại:** Chạy trốn khỏi sự truy sát trong hệ thống đường hầm sụp đổ, đối mặt với Vong Linh (Hoàn thành - Chương 72).
-    - **Nhiệm Vụ Tiếp Theo:** Tìm đường thoát hiểm hoặc tiến sâu hơn nữa vào căn cứ của Vạn Độc Môn để phá vỡ toàn bộ trận pháp.
+    - **Sự Kiện Mới:** Khám phá ra khe nứt thông lên mặt đất, Diệp Tĩnh Sương dùng tàn lực cuối cùng mở đường và ở lại chặn hậu để Hứa Nhược Thủy và Lâm Phong thoát ra.
+    - **Nhiệm Vụ Hiện Tại:** Trốn thoát lên mặt đất, nhưng lại rơi vào Quỷ Khốc Cốc (Hoàn thành - Chương 73).
+    - **Nhiệm Vụ Tiếp Theo:** Tìm cách sinh tồn trong Quỷ Khốc Cốc và tái hợp.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
