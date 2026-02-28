@@ -20,3 +20,5 @@
 - [Chương 15: Nuốt Hận Dưỡng Thương](Chương_00073_Nuốt_Hận_Dưỡng_Thương.md)
 - [Chương 74: Vạn Độc Trọng Sinh](Chương_00074_Vạn_Độc_Trọng_Sinh.md)
 - [Chương 75: Bố Cục Tử Địa](Chương_00075_Bố_Cục_Tử_Địa.md)
+- [Chương 76: Huyết Vệ Xuất Kích](Chương_00076_Huyết_Vệ_Xuất_Kích.md)
+- [Chương 77: Biến Số Từ Đầm Lầy](Chương_00077_Biến_Số_Từ_Đầm_Lầy.md)

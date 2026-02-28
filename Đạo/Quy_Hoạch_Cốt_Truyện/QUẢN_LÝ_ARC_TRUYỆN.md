@@ -67,7 +67,9 @@
     - **Sự Kiện Mới:** Nhóm Diệp Tĩnh Sương chia tay Sở Lăng Sương và tiến vào Vùng Đất Chết (Chương 81 Góc Nhìn Chính).
     - **Nhiệm Vụ Hiện Tại:** Vượt qua đội quân Vong Linh và Vong Linh Tướng Quân để tiến sâu vào Vùng Đất Chết, tìm cách phá Mắt Trận (Hoàn thành - Chương 82 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương phát hiện manh mối của Mắt Trận nhưng bị Huyết Vệ số Một của Lệ Vô Tâm chặn đánh và rơi vào Trận Pháp Huyễn Ảnh (Chương 82 Góc Nhìn Chính / Chương 76 Góc Nhìn Lệ Vô Tâm).
-    - **Nhiệm Vụ Hiện Tại:** Chống lại Huyết Vệ số Một và phá giải Huyễn Ảnh để phá hủy Mắt Trận.
+    - **Nhiệm Vụ Hiện Tại:** Chống lại Huyết Vệ số Một và phá giải Huyễn Ảnh để phá hủy Mắt Trận (Hoàn thành - Chương 83 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Đại quân Chính Đạo do Sở Lăng Sương dẫn đầu tấn công Đầm Lầy Tử Thần, chia sẻ áp lực cho nhóm Diệp Tĩnh Sương, giúp họ phá vỡ Trận Pháp Huyễn Ảnh.
+    - **Nhiệm Vụ Hiện Tại:** Tiêu diệt Huyết Vệ số Một và phá hủy hoàn toàn Mắt Trận phụ tại Vùng Đất Chết.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
@@ -91,6 +93,8 @@
     - **Sự Kiện Mới:** Lệ Vô Tâm xuất quan, bố trí quân đoàn Huyết Thi phòng thủ Đầm Lầy Tử Thần và Vùng Đất Chết để giăng bẫy đại quân Chính Đạo (Hoàn thành - Chương 75 Góc Nhìn Lệ Vô Tâm).
     - **Nhiệm Vụ Hiện Tại:** Theo dõi và triệt hạ nhóm Diệp Tĩnh Sương tại Vùng Đất Chết bằng Huyết Vệ số Một và đội quân Vong Linh (Hoàn thành - Chương 76 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Lệ Vô Tâm điều động Huyết Vệ số Một và Trận Pháp Huyễn Ảnh để đối phó nhóm Tĩnh Sương khi Vong Linh Tướng Quân thất bại.
+    - **Sự Kiện Mới:** Đại quân Chính Đạo tấn công Đầm Lầy Tử Thần, buộc Lệ Vô Tâm phải chia sẻ sức mạnh từ Trận Pháp Huyễn Ảnh sang Mắt Trận chính, tạo cơ hội cho nhóm Tĩnh Sương phá vỡ ảo giác (Hoàn thành - Chương 77 Góc Nhìn Lệ Vô Tâm).
+    - **Nhiệm Vụ Hiện Tại:** Chống lại đại quân Chính Đạo tại Đầm Lầy Tử Thần và bảo vệ Mắt Trận chính.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
