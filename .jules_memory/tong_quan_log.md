@@ -83,3 +83,26 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Khám phá Huyết Uyên, tìm hiểu sâu hơn về Khí Tức Thượng Cổ và tìm đường đến Huyết Mạch Thượng Cổ hoặc chạm trán sinh vật ngầm.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-03 - Phần 2)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 68 "Bóng Tối Huyết Uyên" cho Góc Nhìn Chính và tạo các sinh vật ngầm tại Huyết Uyên.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Kỳ_Vật/Dơi_Huyết_Mù.md`: Loài dơi dưới Huyết Uyên dùng sóng âm và hút máu.
+  - `Đạo/Kỳ_Vật/Rết_Lân_Tinh.md`: Loài rết khổng lồ chứa nọc Hỏa Tinh.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00068_Bóng_Tối_Huyết_Uyên.md`: Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy bị tập kích bởi hai loài yêu thú nhưng đã vượt qua và tiếp tục theo dòng Huyết Hà để tìm nguồn gốc Khí Tức Thượng Cổ.
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 kỳ vật và chương 68.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm các chương còn thiếu và Chương 68.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Nhóm nhân vật chính đang men theo sông ngầm để tìm Thượng Cổ Huyết Mạch. Tình tiết chặt chẽ và nhất quán với thế giới.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết Chương 69: Khám phá bí ẩn tại thượng nguồn dòng sông ngầm, hoặc có thể đụng độ tàn tích Huyết Mạch Thượng Cổ.
