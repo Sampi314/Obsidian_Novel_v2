@@ -61,7 +61,8 @@
     - **Nhiệm Vụ Hiện Tại:** Chống lại vòng vây Huyết Thi và Nhện Mặt Quỷ bằng mọi giá (Hoàn thành - Chương 77 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Sở Lăng Sương (Cửu Hoa Kiếm Tông) xuất hiện ứng cứu, dùng Băng Phách Kiếm cùng Diệp Tĩnh Sương tạo ra cơn lốc băng tuyết cản Lệ Vô Tâm và giải vây.
     - **Nhiệm Vụ Hiện Tại:** Rút lui khỏi Quỷ Khốc Cốc an toàn (Hoàn thành - Chương 78 Góc Nhìn Chính).
-    - **Nhiệm Vụ Tiếp Theo:** Tìm nơi an toàn để dưỡng thương và bàn tính kế hoạch chống lại Vạn Độc Môn.
+    - **Sự Kiện Mới:** Nhóm Tĩnh Sương tìm được nơi ẩn náu tạm thời, nhận được tình báo từ Cửu Hoa Kiếm Tông thông qua Sở Lăng Sương (Hoàn thành - Chương 79 Góc Nhìn Chính).
+    - **Nhiệm Vụ Tiếp Theo:** Chữa thương cho Hứa Nhược Thủy và lập kế hoạch đối phó với Vạn Độc Môn.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
@@ -80,7 +81,8 @@
     - **Nhiệm Vụ Hiện Tại:** Dồn nhóm nhân vật chính vào vòng vây tại Rừng Huyết Độc và Quỷ Khốc Cốc (Hoàn thành - Chương 76 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Đối thoại với Diệp Tĩnh Sương và dùng Nhện Mặt Quỷ kết hợp Huyết Thi để vây khốn (Chương 71 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Đối mặt với Sở Lăng Sương, bị Sương Hàn Cửu Thiên đẩy lùi và đánh mất con mồi. Lệ Vô Tâm nhận ra cần phải củng cố sức mạnh Vạn Độc Thân (Hoàn thành - Chương 72 Góc Nhìn Lệ Vô Tâm).
-    - **Nhiệm Vụ Tiếp Theo:** Rút lui, dung hợp sức mạnh và chuẩn bị kế hoạch tiếp theo chống lại Cửu Hoa Kiếm Tông.
+    - **Nhiệm Vụ Hiện Tại:** Rút lui, điều tức áp chế hàn khí và quyết tâm dung hợp Mẫu Cổ để mạnh lên (Hoàn thành - Chương 73 Góc Nhìn Lệ Vô Tâm).
+    - **Nhiệm Vụ Tiếp Theo:** Hoàn thiện Vạn Độc Thân và vạch kế hoạch đối phó Cửu Hoa Kiếm Tông.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
