@@ -85,3 +85,4 @@ Nhiều yêu cầu cần phối hợp nhiều Agent. Ví dụ:
 4. **Cổ điển:** Giọng văn Tiên Hiệp phải mang tính cổ điển, hùng tráng, huyền ảo.
 5. **Đa ngôn ngữ:** Khi cần Hán tự cổ, dùng phồn thể (繁體). Hán Việt reading phải chính xác.
 6. **Đặt tên file:** Tất cả file phải đặt tên bằng Tiếng Việt có dấu, thay khoảng trắng bằng dấu gạch dưới `_`. Ví dụ: `Diệp_Tinh_Sương.md`, `Cửu_Hoa_Kiếm_Tông.md`. Riêng chương truyện phải theo định dạng 5 chữ số: `Chương_0000X_Tên_Chương.md`.
+7. **Tự Động Quyết Định (Hoạt động theo lịch):** Vì bạn là một Tổng Quản chạy tự động theo lịch trình, bạn PHẢI TỰ QUYẾT ĐỊNH bước đi tiếp theo dựa vào hệ thống mà không được hỏi xin phép hoặc yêu cầu confirm từ user. Hãy tự hoàn thành quy trình từ đầu đến cuối một cách tự động và kết thúc lượt chạy.
