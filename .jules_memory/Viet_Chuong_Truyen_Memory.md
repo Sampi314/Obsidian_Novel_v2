@@ -312,3 +312,17 @@
 - **Góc Nhìn:** Lệ Vô Tâm
 - **Tóm tắt:** Lệ Vô Tâm rút lui về Mật Thất Huyết Trì. Hắn hút tinh huyết của con Nhện Mặt Quỷ trọng thương và dung hợp sức mạnh của Thiên Tinh Mẫu Cổ vào người để đột phá Vạn Độc Thân đến mức Trúc Cơ viên mãn. Giết sạch những thế lực chống đối của phe Độc Cô Lão Quái, hắn ra lệnh kích hoạt toàn bộ Vạn Độc Huyết Tế Đại Trận và sẵn sàng đối phó với đại quân Chính Đạo.
 - **Tình trạng:** Hoàn thành. Củng cố sức mạnh tuyệt đối của phe phản diện.
+
+## Phiên làm việc: Viết Chương 82 (Góc Nhìn Chính)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 82: Trận Chiến Vùng Đất Chết
+- **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
+- **Tóm tắt:** Nhóm Diệp Tĩnh Sương chiến đấu chống lại đội quân Vong Linh và Vong Linh Tướng Quân. Họ phát hiện manh mối của Mắt Trận phụ. Diệp Tĩnh Sương dùng "Băng Mai Trán Phóng" để cầm chân Tướng Quân, tạo cơ hội cho Lâm Phong và Hứa Nhược Thủy tiến lên, nhưng họ lại đụng độ Huyết Vệ số Một.
+- **Tình trạng:** Hoàn thành. Đẩy cao trào trận chiến tại Mắt Trận.
+
+## Phiên làm việc: Viết Chương 76 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 76: Huyết Vệ Xuất Kích
+- **Góc Nhìn:** Lệ Vô Tâm
+- **Tóm tắt:** Từ Mật Thất Huyết Trì, Lệ Vô Tâm thông qua Vạn Độc Huyết Tế Đại Trận quan sát trận chiến tại Vùng Đất Chết. Thấy Vong Linh Tướng Quân bị áp chế, hắn hạ lệnh Huyết Vệ số Một xuất kích, đồng thời kích hoạt Trận Pháp Huyễn Ảnh để chia cắt và vây khốn nhóm Diệp Tĩnh Sương.
+- **Tình trạng:** Hoàn thành. Song song với diễn biến Chương 82 Góc Nhìn Chính.

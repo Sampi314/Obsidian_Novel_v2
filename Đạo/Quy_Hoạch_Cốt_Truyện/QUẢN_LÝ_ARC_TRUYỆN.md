@@ -65,7 +65,9 @@
     - **Nhiệm Vụ Hiện Tại:** Chữa thương cho Hứa Nhược Thủy và lập kế hoạch đối phó với Vạn Độc Môn (Hoàn thành - Chương 80 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Sở Lăng Sương chia sẻ tình báo quan trọng, tiết lộ Độc Cô Lão Quái đang bế quan và Lệ Vô Tâm đã nắm toàn quyền kiểm soát Vạn Độc Môn. Bản đồ các mắt trận của Vạn Độc Huyết Tế Đại Trận được hé lộ.
     - **Sự Kiện Mới:** Nhóm Diệp Tĩnh Sương chia tay Sở Lăng Sương và tiến vào Vùng Đất Chết (Chương 81 Góc Nhìn Chính).
-    - **Nhiệm Vụ Hiện Tại:** Vượt qua đội quân Vong Linh và Vong Linh Tướng Quân để tiến sâu vào Vùng Đất Chết, tìm cách phá Mắt Trận.
+    - **Nhiệm Vụ Hiện Tại:** Vượt qua đội quân Vong Linh và Vong Linh Tướng Quân để tiến sâu vào Vùng Đất Chết, tìm cách phá Mắt Trận (Hoàn thành - Chương 82 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Nhóm Tĩnh Sương phát hiện manh mối của Mắt Trận nhưng bị Huyết Vệ số Một của Lệ Vô Tâm chặn đánh và rơi vào Trận Pháp Huyễn Ảnh (Chương 82 Góc Nhìn Chính / Chương 76 Góc Nhìn Lệ Vô Tâm).
+    - **Nhiệm Vụ Hiện Tại:** Chống lại Huyết Vệ số Một và phá giải Huyễn Ảnh để phá hủy Mắt Trận.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
@@ -87,7 +89,8 @@
     - **Nhiệm Vụ Hiện Tại:** Rút lui, điều tức áp chế hàn khí và quyết tâm dung hợp Mẫu Cổ để mạnh lên (Hoàn thành - Chương 73 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Hấp thụ tinh huyết Nhện Mặt Quỷ và dung hợp thành công Mẫu Cổ trong Mật Thất Huyết Trì. Đột phá Vạn Độc Thân, củng cố quyền lực tuyệt đối tại Vạn Độc Môn (Hoàn thành - Chương 74 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Lệ Vô Tâm xuất quan, bố trí quân đoàn Huyết Thi phòng thủ Đầm Lầy Tử Thần và Vùng Đất Chết để giăng bẫy đại quân Chính Đạo (Hoàn thành - Chương 75 Góc Nhìn Lệ Vô Tâm).
-    - **Nhiệm Vụ Hiện Tại:** Theo dõi và triệt hạ nhóm Diệp Tĩnh Sương tại Vùng Đất Chết bằng Huyết Vệ số Một và đội quân Vong Linh.
+    - **Nhiệm Vụ Hiện Tại:** Theo dõi và triệt hạ nhóm Diệp Tĩnh Sương tại Vùng Đất Chết bằng Huyết Vệ số Một và đội quân Vong Linh (Hoàn thành - Chương 76 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Lệ Vô Tâm điều động Huyết Vệ số Một và Trận Pháp Huyễn Ảnh để đối phó nhóm Tĩnh Sương khi Vong Linh Tướng Quân thất bại.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
