@@ -1,0 +1,41 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Chào mừng đến với kho lưu trữ dữ liệu thế giới Tiên Hiệp \"Cố Nguyên\". Đây là nơi lưu trữ toàn bộ thông tin về nhân vật, tông môn, công pháp, lịch sử và văn hóa của thế giới tu chân này.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/generate_wiki_index.mjs && tsc && vite build && cp -r Đạo dist/Đạo",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sampi314/Obsidian_Novel_v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sampi314/Obsidian_Novel_v2/issues"
+  },
+  "homepage": "https://github.com/Sampi314/Obsidian_Novel_v2#readme",
+  "devDependencies": {
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.4",
+    "jszip": "^3.10.1",
+    "lucide-react": "^0.575.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
