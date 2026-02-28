@@ -150,6 +150,7 @@
         - [Chương 72: Hàn Băng Phá Trận](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00072_Hàn_Băng_Phá_Trận.md)
         - [Chương 73: Nuốt Hận Dưỡng Thương](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00073_Nuốt_Hận_Dưỡng_Thương.md)
         - [Chương 74: Vạn Độc Trọng Sinh](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00074_Vạn_Độc_Trọng_Sinh.md)
+        - [Chương 75: Bố Cục Tử Địa](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00075_Bố_Cục_Tử_Địa.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -164,6 +165,7 @@
         - [Chương 78: Băng Kiếm Lai Lâm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00078_Băng_Kiếm_Lai_Lâm.md)
         - [Chương 79: Tạm Lánh Phong Ba](Chương_Truyện/Góc_Nhìn_Chính/Chương_00079_Tạm_Lánh_Phong_Ba.md)
         - [Chương 80: Hội Bàn Đối Sách](Chương_Truyện/Góc_Nhìn_Chính/Chương_00080_Hội_Bàn_Đối_Sách.md)
+        - [Chương 81: Trở Lại Tử Địa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00081_Trở_Lại_Tử_Địa.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)

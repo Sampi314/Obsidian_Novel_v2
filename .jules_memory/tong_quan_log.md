@@ -397,3 +397,20 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Diễn biến các trận đánh phá trận ở Đầm Lầy Tử Thần và Vùng Đất Chết.
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 9)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 81 "Trở Lại Tử Địa" (Góc Nhìn Chính) và Chương 75 "Bố Cục Tử Địa" (Góc Nhìn Lệ Vô Tâm).
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00081_Trở_Lại_Tử_Địa.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00075_Bố_Cục_Tử_Địa.md`
+- **Cập nhật:** HỒ_SƠ_THẾ_GIỚI.md, QUẢN_LÝ_ARC_TRUYỆN.md, MỤC_LỤC.md (cả 2 góc nhìn), BÁO_CÁO_CHẤT_LƯỢNG.md, tong_quan_log.md. Cập nhật và build file tĩnh.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Lệ Vô Tâm đã xuất quan, biết được ý định tấn công của Chính Đạo và đã giăng bẫy sẵn tại Đầm Lầy Tử Thần và Vùng Đất Chết. Nhóm Diệp Tĩnh Sương vừa chia tay Sở Lăng Sương, chính thức tiến vào Vùng Đất Chết và phải đối mặt với đội quân Vong Linh cường đại.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Tiếp tục diễn biến tại Vùng Đất Chết (Góc Nhìn Chính) hoặc bắt đầu diễn tả trận chiến ở Đầm Lầy Tử Thần (Góc Nhìn Chính Đạo/Khác).
