@@ -279,6 +279,10 @@ window.chapterData = {
       "title": "Chương 66: Ảo Giác Mộng Yểm (幻覺夢魘)"
     },
     {
+      "filename": "Chương_00067_Bước_Nhảy_Sinh_Tử.md",
+      "title": "Chương 67: Bước Nhảy Sinh Tử (生死一躍)"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }

@@ -16,6 +16,7 @@
             - *Hang Động Nhện Quỷ:* Hệ thống hang động ngầm nơi Vạn Độc Môn thực hiện thí nghiệm Huyết Thi. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
             - *Mộc Linh Trận Địa:* Căn cứ tạm thời của Tinh Linh Tộc và Dược Vương Cốc nằm sâu trong rừng (Hiện đang trong tình trạng nguy kịch). Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md`.
             - *Huyết Vụ Lâm:* Vùng đệm sương mù đỏ thẫm giáp ranh Vạn Độc Cốc, nơi ảo ảnh và tâm ma ngự trị. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Huyết_Vụ_Lâm.md`.
+            - *Huyết Uyên:* Vực sâu bí ẩn dưới đáy Huyết Vụ Lâm, chứa sương đỡ và luồng khí tức Thượng Cổ. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Huyết_Uyên.md`.
             - *Quỷ Khốc Cốc:* Thung lũng âm u tại biên giới Bắc Nam Cương, nơi chứa lượng lớn Huyết Tinh Sa. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Quỷ_Khốc_Cốc.md`.
             - *Huyết Mạch Thượng Cổ:* Tàn tích rễ Cây Thế Giới nằm sâu dưới lòng đất, chứa Hồ Thanh Mộc Dịch và tinh thể Mộc Tinh. Xem tại `Đạo/Kỳ_Vật/Huyết_Mạch_Thượng_Cổ.md`.
             - *Nấm Độc Lâm:* Rừng nấm khổng lồ nằm sâu dưới lòng đất, vùng đệm giữa Kho Chứa Ngầm và Vườn Dược Liệu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nấm_Độc_Lâm.md`.
