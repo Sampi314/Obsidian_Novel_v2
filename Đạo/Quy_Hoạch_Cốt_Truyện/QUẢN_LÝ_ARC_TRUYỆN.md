@@ -53,7 +53,9 @@
     - **Nhiệm Vụ Hiện Tại:** Trốn thoát lên mặt đất, nhưng lại rơi vào Quỷ Khốc Cốc (Hoàn thành - Chương 73).
     - **Sự Kiện Mới:** Khám phá môi trường khắc nghiệt tại Quỷ Khốc Cốc, chạm trán đệ tử Vạn Độc Môn đang thu thập Huyết Tinh Sa.
     - **Nhiệm Vụ Hiện Tại:** Tiêu diệt nhóm đệ tử, thu thập Huyết Tinh Sa và tìm nơi an toàn để dưỡng thương (Hoàn thành - Chương 74).
-    - **Nhiệm Vụ Tiếp Theo:** Tìm cách sinh tồn trong Quỷ Khốc Cốc, sử dụng Huyết Tinh Sa để chế tạo vũ khí/bùa chú và tái hợp với các thế lực khác.
+    - **Sự Kiện Mới:** Ẩn nấp trong hang động, luyện hóa Huyết Tinh Sa thành ám khí Huyết Sa Lôi.
+    - **Nhiệm Vụ Hiện Tại:** Lợi dụng Đại Điển Sắc Phong Vạn Độc Thánh Tử (Lệ Vô Tâm) để vượt qua vòng vây phòng thủ đang lỏng lẻo ở Quỷ Khốc Cốc và thoát khỏi Nam Cương (Hoàn thành - Chương 75).
+    - **Nhiệm Vụ Tiếp Theo:** Chạy trốn khỏi Quỷ Khốc Cốc và tái hợp với các thế lực khác hoặc đối đầu trực diện trong trận đại chiến.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
