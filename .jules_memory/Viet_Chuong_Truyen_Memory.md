@@ -246,3 +246,10 @@
 - **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
 - **Tóm tắt:** Nhóm Diệp Tĩnh Sương tìm được hang động ẩn nấp tại Quỷ Khốc Cốc. Hứa Nhược Thủy sử dụng bí pháp của Thiên Sa Thương Hội và Sa Lô để luyện hóa Huyết Tinh Sa thành "Huyết Sa Lôi" - một loại vũ khí ám khí có sức sát thương cao nhờ hỏa độc. Diệp Tĩnh Sương đã khôi phục lại phần lớn thực lực và đề xuất lợi dụng sự kiện Đại Điển Sắc Phong Vạn Độc Thánh Tử sắp tới, khi phòng thủ vòng ngoài lỏng lẻo, để tìm đường thoát khỏi Nam Cương.
 - **Tình trạng:** Hoàn thành.
+
+## Phiên làm việc: Viết Chương 70 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 70: Quân Đoàn Máu
+- **Góc Nhìn:** Lệ Vô Tâm
+- **Tóm tắt:** Trước thềm Đại Điển Sắc Phong, Lệ Vô Tâm biết Độc Cô Lão Quái định dùng mình làm vật tế cho Huyết Trì. Hắn lật lọng, dùng Huyết Độc Phiến đã được dung hợp với Thiên Tinh Mẫu Cổ để triệu hồi và điều khiển năm ngàn Huyết Thi, bao vây Rừng Huyết Độc và Quỷ Khốc Cốc để thanh trừng Vạn Độc Môn và săn lùng nhóm Diệp Tĩnh Sương.
+- **Tình trạng:** Hoàn thành, khởi đầu Arc 3.
