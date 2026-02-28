@@ -43,6 +43,7 @@
     - **Nhiệm Vụ Hiện Tại:** Sinh tồn trước vực thẳm (Hoàn thành - Chương 66).
     - **Sự Kiện Mới:** Nhảy xuống vực thẳm để thoát khỏi Huyết Vụ Điểu, tiếp đất an toàn tại Huyết Uyên.
     - **Nhiệm Vụ Tiếp Theo:** Khám phá Huyết Uyên và tìm hiểu về Khí Tức Thượng Cổ (Chương 67).
+    - **Sự Kiện Mới:** Nhóm tiến dọc theo dòng sông ngầm, chạm trán Dơi Huyết Mù và Rết Lân Tinh (Chương 68).
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
