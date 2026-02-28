@@ -1,3 +1,9 @@
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
+<!-- NAVIGATION_END -->
 # Chương 77: Tuyệt Cảnh Phá Vây
 
 Sương mù Quỷ Khốc Cốc, vốn dĩ chỉ mang một màu trắng xám ảm đạm, nay đã hoàn toàn bị nhuộm thành một sắc đỏ tươi nhức mắt. Mùi tử khí nồng nặc đến mức khiến người ta buồn nôn. Tiếng sáo trúc lanh lảnh, ma mị của Lệ Vô Tâm như một mệnh lệnh tử thần, giáng xuống đầu Diệp Tĩnh Sương, Lâm Phong và Hứa Nhược Thủy.

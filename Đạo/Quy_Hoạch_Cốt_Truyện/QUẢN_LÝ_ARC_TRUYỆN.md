@@ -69,7 +69,9 @@
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương phát hiện manh mối của Mắt Trận nhưng bị Huyết Vệ số Một của Lệ Vô Tâm chặn đánh và rơi vào Trận Pháp Huyễn Ảnh (Chương 82 Góc Nhìn Chính / Chương 76 Góc Nhìn Lệ Vô Tâm).
     - **Nhiệm Vụ Hiện Tại:** Chống lại Huyết Vệ số Một và phá giải Huyễn Ảnh để phá hủy Mắt Trận (Hoàn thành - Chương 83 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Đại quân Chính Đạo do Sở Lăng Sương dẫn đầu tấn công Đầm Lầy Tử Thần, chia sẻ áp lực cho nhóm Diệp Tĩnh Sương, giúp họ phá vỡ Trận Pháp Huyễn Ảnh.
-    - **Nhiệm Vụ Hiện Tại:** Tiêu diệt Huyết Vệ số Một và phá hủy hoàn toàn Mắt Trận phụ tại Vùng Đất Chết.
+    - **Nhiệm Vụ Hiện Tại:** Tiêu diệt Huyết Vệ số Một và phá hủy hoàn toàn Mắt Trận phụ tại Vùng Đất Chết (Hoàn thành - Chương 84 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Huyết Vệ số Một bị tiêu diệt, khối Huyết Tinh thạch vỡ nát, Mắt Trận phụ tại Vùng Đất Chết chính thức sụp đổ.
+    - **Nhiệm Vụ Hiện Tại:** Hướng về Đầm Lầy Tử Thần để trợ giúp đại quân Chính Đạo phá hủy Mắt Trận chính.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
@@ -94,7 +96,8 @@
     - **Nhiệm Vụ Hiện Tại:** Theo dõi và triệt hạ nhóm Diệp Tĩnh Sương tại Vùng Đất Chết bằng Huyết Vệ số Một và đội quân Vong Linh (Hoàn thành - Chương 76 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Lệ Vô Tâm điều động Huyết Vệ số Một và Trận Pháp Huyễn Ảnh để đối phó nhóm Tĩnh Sương khi Vong Linh Tướng Quân thất bại.
     - **Sự Kiện Mới:** Đại quân Chính Đạo tấn công Đầm Lầy Tử Thần, buộc Lệ Vô Tâm phải chia sẻ sức mạnh từ Trận Pháp Huyễn Ảnh sang Mắt Trận chính, tạo cơ hội cho nhóm Tĩnh Sương phá vỡ ảo giác (Hoàn thành - Chương 77 Góc Nhìn Lệ Vô Tâm).
-    - **Nhiệm Vụ Hiện Tại:** Chống lại đại quân Chính Đạo tại Đầm Lầy Tử Thần và bảo vệ Mắt Trận chính.
+    - **Nhiệm Vụ Hiện Tại:** Chống lại đại quân Chính Đạo tại Đầm Lầy Tử Thần và bảo vệ Mắt Trận chính (Hoàn thành - Chương 78 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Sử dụng Mẫu Cổ và Huyết Độc Chân Khí triệu hồi Huyết Độc Lang và Độc Oán Mãng Xà chống lại Cửu Hoa Kiếm Tông và Dược Vương Cốc.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

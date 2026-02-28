@@ -1,7 +1,9 @@
 <!-- NAVIGATION_START -->
-[Chương Trước](Chương_00078_Băng_Kiếm_Lai_Lâm.md) | [Mục Lục](MỤC_LỤC.md) | Chương Tiếp
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-
 # Chương 79: Tạm Lánh Phong Ba (Góc Nhìn Chính)
 
 Tiếng sáo trúc quỷ dị của Lệ Vô Tâm cuối cùng cũng mờ dần, nhường chỗ cho tiếng gió rít qua những khe đá lởm chởm của Quỷ Khốc Cốc. Bão tuyết do Sở Lăng Sương tạo ra từ Băng Phách Kiếm đã kịp thời che khuất tầm nhìn của bầy Huyết Thi, tạo ra một khe hở sinh tử.
@@ -42,6 +44,3 @@ Bốn người tạm thời gác lại những căng thẳng, bắt đầu nhắ
 
 Trong lúc điều tức, Diệp Tĩnh Sương để tâm trí chìm vào khoảng không vô tận. Kiếm ý của nàng dường như lại sắc bén hơn một phần sau trận tử chiến. Nàng thầm thề, lần tới gặp lại, chắc chắn sẽ không để Lệ Vô Tâm chiếm thế thượng phong như vậy nữa.
 
-<!-- NAVIGATION_START -->
-[Chương Trước](Chương_00078_Băng_Kiếm_Lai_Lâm.md) | [Mục Lục](MỤC_LỤC.md) | Chương Tiếp
-<!-- NAVIGATION_END -->

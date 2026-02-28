@@ -83,4 +83,5 @@
 - [Chương 81: Trở Lại Tử Địa](Chương_00081_Trở_Lại_Tử_Địa.md)
 - [Chương 82: Trận Chiến Vùng Đất Chết](Chương_00082_Trận_Chiến_Vùng_Đất_Chết.md)
 - [Chương 83: Phá Giải Huyễn Ảnh](Chương_00083_Phá_Giải_Huyễn_Ảnh.md)
+- [Chương 84: Phá Hủy Mắt Trận](Chương_00084_Phá_Hủy_Mắt_Trận.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)

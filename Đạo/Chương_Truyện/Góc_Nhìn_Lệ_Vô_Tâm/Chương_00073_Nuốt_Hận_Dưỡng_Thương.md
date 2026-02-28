@@ -1,7 +1,9 @@
 <!-- NAVIGATION_START -->
-[Chương Trước](Chương_00072_Hàn_Băng_Phá_Trận.md) | [Mục Lục](MỤC_LỤC.md) | Chương Tiếp
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-
 # Chương 73: Nuốt Hận Dưỡng Thương (Góc Nhìn Lệ Vô Tâm)
 
 Hơi lạnh của Sương Hàn Cửu Thiên vẫn còn bám chặt trên từng tấc da thịt, Lệ Vô Tâm đứng trên mỏm đá cao nhất của Quỷ Khốc Cốc, ánh mắt hằn học nhìn theo bóng lưng của bốn kẻ vừa tẩu thoát. Hắn nghiến răng ken két, sát khí trong người cuồn cuộn không dứt, khiến Huyết Độc Chân Khí trong kinh mạch trở nên hỗn loạn.
@@ -34,6 +36,3 @@ Hắn mở mắt ra, nhìn về phía vạc lớn đang sủi bọt ở góc han
 
 Đây chỉ là sự bắt đầu của một cuộc chiến khốc liệt hơn, một bàn cờ lớn mà Lệ Vô Tâm quyết tâm sẽ là người chiếu tướng cuối cùng.
 
-<!-- NAVIGATION_START -->
-[Chương Trước](Chương_00072_Hàn_Băng_Phá_Trận.md) | [Mục Lục](MỤC_LỤC.md) | Chương Tiếp
-<!-- NAVIGATION_END -->

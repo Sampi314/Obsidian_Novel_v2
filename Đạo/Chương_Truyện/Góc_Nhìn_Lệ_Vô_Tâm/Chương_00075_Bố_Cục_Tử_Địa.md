@@ -1,8 +1,9 @@
 <!-- NAVIGATION_START -->
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-
 # Chương 75: Bố Cục Tử Địa
 
 Sâu thẳm dưới lòng đất Nam Cương, bên trong Mật Thất Huyết Trì của Vạn Độc Môn.
@@ -63,6 +64,3 @@ Huyết Vệ số Một không nói gì, chỉ cúi đầu nhận lệnh, đôi 
 
 Bố cục đã xong. Lưới đã giăng. Giờ đây, Lệ Vô Tâm chỉ cần kiên nhẫn chờ đợi những con mồi tự chui đầu vào rọ. Nam Cương sắp sửa chìm trong một trận cuồng phong đẫm máu.
 
-<!-- NAVIGATION_START -->
-<div id="chapter-navigation-bottom" style="text-align: center; margin-top: 20px;"></div>
-<!-- NAVIGATION_END -->
