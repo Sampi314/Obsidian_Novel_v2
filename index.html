@@ -4,6 +4,19 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Cố Nguyên Story Hub</title>
+    <style>
+      html, body { margin: 0; background-color: #0a0a0f; color: #e8dcc8; }
+      #root:empty::after {
+        content: 'Đang tải...';
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        font-family: sans-serif;
+        color: #d4a843;
+        font-size: 1.2rem;
+      }
+    </style>
   </head>
   <body>
     <div id="root"></div>
