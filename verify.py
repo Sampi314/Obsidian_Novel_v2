@@ -8,7 +8,7 @@ def verify_app():
 
         try:
             # Go to app
-            page.goto("http://localhost:4175/Obsidian_Novel_v2/")
+            page.goto("http://localhost:4173/Obsidian_Novel_v2/")
             page.wait_for_timeout(1000)
 
             # Click on Wiki tab
