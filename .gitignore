@@ -9,3 +9,5 @@ scripts/verification/*.html
 
 # OS generated files
 .DS_Store
+node_modules/
+dist/
