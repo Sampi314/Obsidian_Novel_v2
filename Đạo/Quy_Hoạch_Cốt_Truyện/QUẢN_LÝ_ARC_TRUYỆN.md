@@ -48,7 +48,14 @@
     - **Sự Kiện Mới:** Nhóm tiến sâu vào Huyết Mạch Thượng Cổ và phát hiện phòng thí nghiệm ngầm của Vạn Độc Môn.
     - **Nhiệm Vụ Hiện Tại:** Phá hủy hệ thống phòng thủ ngầm và phòng thí nghiệm ngầm của Vạn Độc Môn (Hoàn thành - Chương 71).
     - **Sự Kiện Mới:** Trận chiến khốc liệt dưới lòng đất đã phá hủy hoàn toàn cơ sở nghiên cứu ngầm, nhưng cảnh báo cho toàn bộ Vạn Độc Môn.
-    - **Nhiệm Vụ Tiếp Theo:** Tiến sâu hơn nữa vào căn cứ của Vạn Độc Môn để phá vỡ toàn bộ trận pháp.
+    - **Nhiệm Vụ Hiện Tại:** Chạy trốn khỏi sự truy sát trong hệ thống đường hầm sụp đổ, đối mặt với Vong Linh (Hoàn thành - Chương 72).
+    - **Sự Kiện Mới:** Khám phá ra khe nứt thông lên mặt đất, Diệp Tĩnh Sương dùng tàn lực cuối cùng mở đường và ở lại chặn hậu để Hứa Nhược Thủy và Lâm Phong thoát ra.
+    - **Nhiệm Vụ Hiện Tại:** Trốn thoát lên mặt đất, nhưng lại rơi vào Quỷ Khốc Cốc (Hoàn thành - Chương 73).
+    - **Sự Kiện Mới:** Khám phá môi trường khắc nghiệt tại Quỷ Khốc Cốc, chạm trán đệ tử Vạn Độc Môn đang thu thập Huyết Tinh Sa.
+    - **Nhiệm Vụ Hiện Tại:** Tiêu diệt nhóm đệ tử, thu thập Huyết Tinh Sa và tìm nơi an toàn để dưỡng thương (Hoàn thành - Chương 74).
+    - **Sự Kiện Mới:** Ẩn nấp trong hang động, luyện hóa Huyết Tinh Sa thành ám khí Huyết Sa Lôi.
+    - **Nhiệm Vụ Hiện Tại:** Lợi dụng Đại Điển Sắc Phong Vạn Độc Thánh Tử (Lệ Vô Tâm) để vượt qua vòng vây phòng thủ đang lỏng lẻo ở Quỷ Khốc Cốc và thoát khỏi Nam Cương (Hoàn thành - Chương 75).
+    - **Nhiệm Vụ Tiếp Theo:** Chạy trốn khỏi Quỷ Khốc Cốc và tái hợp với các thế lực khác hoặc đối đầu trực diện trong trận đại chiến.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).

@@ -71,4 +71,8 @@
 - [Chương 69: Nguồn Cội Thượng Cổ](Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
 - [Chương 70: Xâm Nhập Lõi Độc](Chương_00070_Xâm_Nhập_Lõi_Độc.md)
 - [Chương 71: Trận Chiến Dưới Lòng Đất](Chương_00071_Trận_Chiến_Dưới_Lòng_Đất.md)
+- [Chương 72: Bóng Tối Bủa Vây](Chương_00072_Bóng_Tối_Bủa_Vây.md)
+- [Chương 73: Ánh Sáng Nơi Lõi Độc](Chương_00073_Ánh_Sáng_Nơi_Lõi_Độc.md)
+- [Chương 74: Âm Vang Quỷ Khốc](Chương_00074_Âm_Vang_Quỷ_Khốc.md)
+- [Chương 75: Luyện Hóa Tinh Sa](Chương_00075_Luyện_Hóa_Tinh_Sa.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)

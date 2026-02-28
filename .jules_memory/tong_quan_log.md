@@ -169,3 +169,90 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Viết Chương 72 để tiếp tục miêu tả hành trình thoát khỏi sự truy bắt của Vạn Độc Môn, hoặc chuyển sang Góc Nhìn Lệ Vô Tâm.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-06)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 72 "Bóng Tối Bủa Vây" cho Góc Nhìn Chính.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00072_Bóng_Tối_Bủa_Vây.md`: Nhóm nhân vật chính tháo chạy khỏi căn cứ ngầm sụp đổ, đối mặt với sự truy sát của Vạn Độc Môn và bầy Vong Linh tràn vào đường hầm rễ cây hóa thạch.
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 72.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm liên kết chương 72.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ ARC hiện tại.
+  - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung chương mới.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Góc Nhìn Chính đang bị kẹt giữa làn sóng độc dịch và bầy Vong Linh, phải tranh giành từng giây để thoát ra ngoài bằng đường hầm dốc. Diễn biến căng thẳng, kịch tính tột độ.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết Chương 73 để tiếp tục miêu tả việc tìm thấy lối ra ánh sáng hoặc đối mặt với kẻ thù chặn đường cuối cùng. Hoặc chuyển sang Góc Nhìn Lệ Vô Tâm để tiếp tục ARC 3.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-07)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 73 "Ánh Sáng Nơi Lõi Độc" cho Góc Nhìn Chính.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00073_Ánh_Sáng_Nơi_Lõi_Độc.md`: Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy phá vỡ kết giới của Vạn Độc Môn để trốn lên mặt đất, thoát khỏi sự truy đuổi của Vong Linh. Cả nhóm an toàn nhưng phát hiện mình đang ở trên mép vực thẳm của Quỷ Khốc Cốc.
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 73.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm liên kết chương 73.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ ARC hiện tại.
+  - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung chương mới.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Góc Nhìn Chính đã thoát khỏi lòng đất, nhưng tiếp tục bị rơi vào Vùng đất Quỷ Khốc Cốc - một cứ điểm của Vạn Độc Môn. Diễn biến đang chuẩn bị tái hợp với nhóm Lệ Vô Tâm hoặc tiến vào một Arc sinh tồn mới.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết Chương 74 cho Góc Nhìn Chính để đối mặt với địa hình Quỷ Khốc Cốc, hoặc chuyển sang Góc Nhìn Lệ Vô Tâm để bắt đầu ARC 3.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-07 - Phần 2)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 74 "Âm Vang Quỷ Khốc" cho Góc Nhìn Chính.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00074_Âm_Vang_Quỷ_Khốc.md`: Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy nghỉ ngơi trên vách đá Quỷ Khốc Cốc và tiêu diệt nhóm đệ tử Vạn Độc Môn đang khai thác Huyết Tinh Sa.
+- **Cập nhật:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm liên kết chương 74.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ ARC hiện tại.
+  - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung chương mới.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Nhóm nhân vật chính đã bắt đầu đối diện với hoàn cảnh sinh tồn tại Quỷ Khốc Cốc, thu được chiến lợi phẩm gồm đan dược và Huyết Tinh Sa.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Tiếp tục viết diễn biến cho Góc Nhìn Chính để dùng Huyết Tinh Sa vượt qua Quỷ Khốc Cốc, hoặc chuyển sang góc nhìn của Lệ Vô Tâm Arc 3.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 75 "Luyện Hóa Tinh Sa" cho Góc Nhìn Chính.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00075_Luyện_Hóa_Tinh_Sa.md`: Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy nghỉ ngơi trong hang động ẩn. Hứa Nhược Thủy dùng bí thuật Thiên Sa Thương Hội chế tạo "Huyết Sa Lôi" từ Huyết Tinh Sa để làm ám khí. Tĩnh Sương vạch kế hoạch nhân lúc Vạn Độc Môn bận rộn với Đại Điển Sắc Phong Vạn Độc Thánh Tử để thoát khỏi khu vực Quỷ Khốc Cốc.
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 75.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm liên kết chương 75.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ ARC hiện tại.
+  - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung chương mới.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Nhóm Góc Nhìn Chính đã ổn định lại thể lực và có thêm vũ khí mới. Họ đã có mục tiêu và kế hoạch rõ ràng để lợi dụng Đại Điển của Lệ Vô Tâm để tẩu thoát. Cốt truyện của hai tuyến chính đang tiến sát đến điểm giao nhau (Arc: Huyết Độc Rừng Thiêng).
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Chuyển sang Góc Nhìn Lệ Vô Tâm để bắt đầu Arc 3 (Chương 70), mô tả việc hắn dẫn dắt quân đoàn Huyết Thi trong Cuộc Chiến Rừng Huyết Độc, đẩy hai tuyến truyện gặp nhau.
