@@ -293,3 +293,10 @@
 - **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
 - **Tóm tắt:** Nhóm Diệp Tĩnh Sương chiến đấu ngoan cường nhưng tuyệt vọng trước số lượng áp đảo của Huyết Thi và độc tính của Nhện Mặt Quỷ. Ngay khi họ sắp cạn kiệt linh lực và chuẩn bị tung đòn quyết tử, một luồng kiếm ý cường đại bất ngờ giáng xuống từ phía Đông, xé toạc vòng vây Huyết Thi và mang đến tia hy vọng mới.
 - **Tình trạng:** Hoàn thành. Kết thúc mở, tạo sự tò mò về nhân vật mới xuất hiện.
+
+## Phiên làm việc: Viết Chương 78 (Góc Nhìn Chính)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 78: Băng Kiếm Lai Lâm
+- **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy, Sở Lăng Sương)
+- **Tóm tắt:** Luồng kiếm ý cường đại đã phá vỡ sương độc của Quỷ Khốc Cốc, và nữ kiếm tu Sở Lăng Sương xuất hiện giải vây cho nhóm của Diệp Tĩnh Sương. Mặc dù Lệ Vô Tâm có Nhện Mặt Quỷ và số lượng lớn Huyết Thi, nhưng nhờ sự cộng hưởng của Hàn Sương Kiếm Quyết và Hàn Mai Kiếm Quyết, nhóm đã phá vây và rút lui thành công. Lệ Vô Tâm tức giận và thề sẽ báo thù Cửu Hoa Kiếm Tông.
+- **Tình trạng:** Hoàn thành. Kết thúc trận chiến Quỷ Khốc Cốc, nhóm nhân vật chính rút lui.

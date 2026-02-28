@@ -157,6 +157,7 @@
         - [Chương 75: Luyện Hóa Tinh Sa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00075_Luyện_Hóa_Tinh_Sa.md)
         - [Chương 76: Vòng Vây Huyết Thi](Chương_Truyện/Góc_Nhìn_Chính/Chương_00076_Vòng_Vây_Huyết_Thi.md)
         - [Chương 77: Tuyệt Cảnh Phá Vây](Chương_Truyện/Góc_Nhìn_Chính/Chương_00077_Tuyệt_Cảnh_Phá_Vây.md)
+        - [Chương 78: Băng Kiếm Lai Lâm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00078_Băng_Kiếm_Lai_Lâm.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
