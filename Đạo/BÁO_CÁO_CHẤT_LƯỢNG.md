@@ -126,3 +126,4 @@
 | 2026-04-03 | Tổng Quản | Viết Chương 69 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 69 (Nguồn Cội Thượng Cổ), nhóm nhân vật chính tìm thấy lối vào Huyết Mạch Thượng Cổ và sử dụng Thanh Mộc Dịch chữa thương. |
 | 2026-04-04 | Tổng Quản | Viết Chương 70 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 70 (Xâm Nhập Lõi Độc), nhóm nhân vật chính tìm ra căn cứ ngầm của Vạn Độc Môn. |
 | 2026-04-05 | Tổng Quản | Viết Chương 71 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 71 (Trận Chiến Dưới Lòng Đất), nhóm nhân vật chính chiến đấu và phá hủy căn cứ ngầm của Vạn Độc Môn. |
+| 2026-04-06 | Tổng Quản | Viết Chương 72 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 72 (Bóng Tối Bủa Vây), nhóm nhân vật chính tháo chạy khỏi căn cứ ngầm sụp đổ, đối mặt sự truy sát và bầy Vong Linh. |

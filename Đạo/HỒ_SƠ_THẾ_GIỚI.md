@@ -149,6 +149,7 @@
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
         - [Chương 70: Xâm Nhập Lõi Độc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00070_Xâm_Nhập_Lõi_Độc.md)
         - [Chương 71: Trận Chiến Dưới Lòng Đất](Chương_Truyện/Góc_Nhìn_Chính/Chương_00071_Trận_Chiến_Dưới_Lòng_Đất.md)
+        - [Chương 72: Bóng Tối Bủa Vây](Chương_Truyện/Góc_Nhìn_Chính/Chương_00072_Bóng_Tối_Bủa_Vây.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
