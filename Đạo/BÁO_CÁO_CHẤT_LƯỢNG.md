@@ -144,3 +144,4 @@
 | Hôm nay | Tổng Quản | Viết Chương 75 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm xuất quan, bố trí quân đoàn Huyết Thi phòng thủ Đầm Lầy Tử Thần và Vùng Đất Chết. |
 | Hôm nay | Tổng Quản | Viết Chương 82 (Góc Nhìn Chính) | Hoàn Thành | Nhóm Diệp Tĩnh Sương đối mặt với Vong Linh Tướng Quân, tìm thấy Mắt Trận phụ nhưng bị Huyết Vệ số Một cản đường. |
 | Hôm nay | Tổng Quản | Viết Chương 76 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm điều động Huyết Vệ số Một và dùng Trận Pháp Huyễn Ảnh để đối phó nhóm Diệp Tĩnh Sương. |
+| Hôm nay | Tổng Quản | Viết Chương 83 (Góc Nhìn Chính) & Chương 77 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Nhóm Tĩnh Sương phá vỡ Huyễn Ảnh Trận nhờ sự hỗ trợ gián tiếp từ cuộc tổng tiến công của đại quân Chính Đạo (Sở Lăng Sương) vào Đầm Lầy Tử Thần khiến Lệ Vô Tâm phân tâm. |

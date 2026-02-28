@@ -81,4 +81,6 @@
 - [Chương 79: Tạm Lánh Phong Ba](Chương_00079_Tạm_Lánh_Phong_Ba.md)
 - [Chương 80: Hội Bàn Đối Sách](Chương_00080_Hội_Bàn_Đối_Sách.md)
 - [Chương 81: Trở Lại Tử Địa](Chương_00081_Trở_Lại_Tử_Địa.md)
+- [Chương 82: Trận Chiến Vùng Đất Chết](Chương_00082_Trận_Chiến_Vùng_Đất_Chết.md)
+- [Chương 83: Phá Giải Huyễn Ảnh](Chương_00083_Phá_Giải_Huyễn_Ảnh.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)
