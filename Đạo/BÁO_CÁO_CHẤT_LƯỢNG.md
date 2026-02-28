@@ -138,3 +138,5 @@
 | Hôm nay | Tổng Quản | Viết Chương 72 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Mô tả Lệ Vô Tâm đối đầu với Diệp Tĩnh Sương và Sở Lăng Sương, bị Sương Hàn Cửu Thiên đẩy lùi và đánh mất con mồi. |
 | Hôm nay | Tổng Quản | Viết Chương 79 (Góc Nhìn Chính) | Hoàn Thành | Nhóm Tĩnh Sương rút lui, dưỡng thương và phân tích cục diện Vạn Độc Môn. |
 | Hôm nay | Tổng Quản | Viết Chương 73 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm rút lui, hấp thụ sức mạnh Mẫu Cổ và rèn luyện Vạn Độc Thân. |
+| Hôm nay | Tổng Quản | Viết Chương 80 (Góc Nhìn Chính) | Hoàn Thành | Lên kế hoạch phá 2 mắt trận tại Đầm Lầy Tử Thần và Vùng Đất Chết cùng Sở Lăng Sương. |
+| Hôm nay | Tổng Quản | Viết Chương 74 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm dung hợp Mẫu Cổ, hút sức mạnh Nhện Mặt Quỷ trong Mật Thất Huyết Trì và chính thức nắm quyền Vạn Độc Môn. |

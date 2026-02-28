@@ -298,3 +298,17 @@
 - **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy, Sở Lăng Sương)
 - **Tóm tắt:** Luồng kiếm ý cường đại đã phá vỡ sương độc của Quỷ Khốc Cốc, và nữ kiếm tu Sở Lăng Sương xuất hiện giải vây cho nhóm của Diệp Tĩnh Sương. Mặc dù Lệ Vô Tâm có Nhện Mặt Quỷ và số lượng lớn Huyết Thi, nhưng nhờ sự cộng hưởng của Hàn Sương Kiếm Quyết và Hàn Mai Kiếm Quyết, nhóm đã phá vây và rút lui thành công. Lệ Vô Tâm tức giận và thề sẽ báo thù Cửu Hoa Kiếm Tông.
 - **Tình trạng:** Hoàn thành. Kết thúc trận chiến Quỷ Khốc Cốc, nhóm nhân vật chính rút lui.
+
+## Phiên làm việc: Viết Chương 80 (Góc Nhìn Chính)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 80: Hội Bàn Đối Sách
+- **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy, Sở Lăng Sương)
+- **Tóm tắt:** Nhóm Diệp Tĩnh Sương đã hồi phục thể lực trong hang đá. Sở Lăng Sương cung cấp thông tin Độc Cô Lão Quái bế quan, Lệ Vô Tâm lên nắm quyền. Lăng Sương dùng ngọc giản chiếu bản đồ các mắt trận của Vạn Độc Huyết Tế Đại Trận ở Đầm Lầy Tử Thần, Vùng Đất Chết và Huyết Uyên. Nhóm quyết định phân làm hai hướng: Lăng Sương đi liên lạc đại quân Chính Đạo tấn công Đầm Lầy Tử Thần, nhóm Tĩnh Sương sẽ tìm cách phá mắt trận ở Vùng Đất Chết.
+- **Tình trạng:** Hoàn thành. Mở ra kế hoạch phá đại trận.
+
+## Phiên làm việc: Viết Chương 74 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 74: Vạn Độc Trọng Sinh
+- **Góc Nhìn:** Lệ Vô Tâm
+- **Tóm tắt:** Lệ Vô Tâm rút lui về Mật Thất Huyết Trì. Hắn hút tinh huyết của con Nhện Mặt Quỷ trọng thương và dung hợp sức mạnh của Thiên Tinh Mẫu Cổ vào người để đột phá Vạn Độc Thân đến mức Trúc Cơ viên mãn. Giết sạch những thế lực chống đối của phe Độc Cô Lão Quái, hắn ra lệnh kích hoạt toàn bộ Vạn Độc Huyết Tế Đại Trận và sẵn sàng đối phó với đại quân Chính Đạo.
+- **Tình trạng:** Hoàn thành. Củng cố sức mạnh tuyệt đối của phe phản diện.

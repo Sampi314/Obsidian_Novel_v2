@@ -18,3 +18,4 @@
 - [Chương 13: Đối Thoại Trong Sương](Chương_00071_Đối_Thoại_Trong_Sương.md)
 - [Chương 14: Hàn Băng Phá Trận](Chương_00072_Hàn_Băng_Phá_Trận.md)
 - [Chương 15: Nuốt Hận Dưỡng Thương](Chương_00073_Nuốt_Hận_Dưỡng_Thương.md)
+- [Chương 74: Vạn Độc Trọng Sinh](Chương_00074_Vạn_Độc_Trọng_Sinh.md)
