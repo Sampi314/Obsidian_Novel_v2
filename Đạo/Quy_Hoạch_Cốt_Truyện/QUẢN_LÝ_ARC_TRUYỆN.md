@@ -45,7 +45,9 @@
     - **Nhiệm Vụ Hiện Tại:** Khám phá Huyết Uyên và tìm hiểu về Khí Tức Thượng Cổ (Hoàn thành - Chương 67, 68).
     - **Sự Kiện Mới:** Nhóm tiến dọc theo dòng sông ngầm, chạm trán Dơi Huyết Mù và Rết Lân Tinh (Chương 68).
     - **Nhiệm Vụ Hiện Tại:** Khám phá ngọn nguồn của Khí Tức Thượng Cổ và tìm được lối vào Huyết Mạch Thượng Cổ, sử dụng Thanh Mộc Dịch để chữa trị (Hoàn thành - Chương 69).
-    - **Nhiệm Vụ Tiếp Theo:** Tiến sâu vào Huyết Mạch Thượng Cổ, luồn qua hệ thống phòng thủ để tìm cách lật đổ Vạn Độc Môn.
+    - **Sự Kiện Mới:** Nhóm tiến sâu vào Huyết Mạch Thượng Cổ và phát hiện phòng thí nghiệm ngầm của Vạn Độc Môn.
+    - **Nhiệm Vụ Hiện Tại:** Phá hủy hệ thống phòng thủ ngầm và phòng thí nghiệm điều chế Vạn Độc Thối Thể Dịch (Chương 70).
+    - **Nhiệm Vụ Tiếp Theo:** Tiến sâu hơn nữa vào căn cứ của Vạn Độc Môn để phá vỡ toàn bộ trận pháp.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
