@@ -68,4 +68,5 @@
 - [Chương 66: Ảo Giác Mộng Yểm](Chương_00066_Ảo_Giác_Mộng_Yểm.md)
 - [Chương 67: Bước Nhảy Sinh Tử](Chương_00067_Bước_Nhảy_Sinh_Tử.md)
 - [Chương 68: Bóng Tối Huyết Uyên](Chương_00068_Bóng_Tối_Huyết_Uyên.md)
+- [Chương 69: Nguồn Cội Thượng Cổ](Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)

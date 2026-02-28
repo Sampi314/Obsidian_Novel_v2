@@ -1,0 +1,64 @@
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
+<!-- NAVIGATION_END -->
+# Chương 69: Nguồn Cội Thượng Cổ (上古之源)
+
+**Tác giả:** Tổng Quản (Jules)
+**Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md), [Hứa Nhược Thủy](../../Nhân_Vật/Hứa_Nhược_Thủy.md)
+**Địa điểm:** [Huyết Uyên](../../Thế_Giới_Và_Thời_Gian/Huyết_Uyên.md) - [Huyết Mạch Thượng Cổ](../../Kỳ_Vật/Huyết_Mạch_Thượng_Cổ.md)
+
+---
+
+Dòng Huyết Hà ngầm chảy mãi vào sâu thẳm Huyết Uyên, nước sông đỏ quạch nhè nhẹ vỗ vào bờ đá vỡ vụn. Âm thanh róc rách trong không gian tĩnh mịch càng lúc càng trở nên rõ ràng. Ba người Diệp Tĩnh Sương, Lâm Phong và Hứa Nhược Thủy cẩn thận dò dẫm từng bước, dọc theo mép nước lầy lội đầy mùi tanh hôi.
+
+Càng đi về phía thượng nguồn, lớp sương mù đỏ thẫm dần nhạt bớt, thay vào đó là một thứ ánh sáng lờ mờ màu xanh lục nhạt len lỏi từ phía trước. Ánh sáng ấy yếu ớt nhưng lại mang theo một loại sinh cơ kỳ lạ, đối lập hoàn toàn với tử khí ngột ngạt của Nam Cương.
+
+"Có ánh sáng," Lâm Phong nheo mắt nhìn về phía xa, bàn tay khẽ vuốt dọc thân cây Truy Phong Cung, cảm nhận một luồng sức mạnh quen thuộc đang rạo rực. "Là Mộc linh khí... rất thuần khiết, thuần khiết hơn bất cứ nơi nào ta từng đến."
+
+Diệp Tĩnh Sương khẽ gật đầu, Hàn Mai Kiếm trong tay nàng cũng bớt lạnh lẽo phần nào. "Khí tức cổ xưa mà chúng ta cảm nhận được... chính là phát ra từ nơi đó."
+
+Sau hơn một canh giờ chật vật bước đi, họ cuối cùng cũng đến được nơi dòng sông ngầm uốn lượn hẹp lại. Trước mắt họ không phải là một vách núi cụt đường, mà là một cảnh tượng hùng vĩ đến mức khiến cả ba sững sờ, quên cả thở.
+
+Chắn ngang lòng vực là một bức tường khổng lồ được tạo nên từ vô số những rễ cây hóa thạch đan xen vào nhau. Chúng to lớn như những con cự long ngủ say, vỏ ngoài cứng cáp như kim loại xám xịt nhưng lại lấp lánh những tinh thể Mộc Tinh (木晶) phát ra thứ ánh sáng xanh lục ma mị. Từ những kẽ nứt của rễ cây khổng lồ, một vài khe hở tối om hiện ra, tựa như những cánh cửa dẫn vào một mê cung vô tận.
+
+"Đây là..." Hứa Nhược Thủy run rẩy, ánh mắt ngước lên nhìn mạng lưới rễ cây bao trùm cả vòm trời Huyết Uyên. "Một cái cây sao? Dưới lòng đất sâu nhường này?"
+
+"Không phải cây bình thường," Diệp Tĩnh Sương tiến lên một bước, vươn tay chạm nhẹ vào bề mặt thô ráp của một rễ cây gần nhất. Một luồng hơi ấm kỳ lạ truyền vào lòng bàn tay nàng, mang theo cảm giác tĩnh lặng và từ bi vạn vật. "Đây là Huyết Mạch Thượng Cổ (上古血脈). Tàn tích của Cây Thế Giới từ thời Hồng Hoang."
+
+Lâm Phong cũng bước đến, hít một hơi thật sâu. Không khí ở gần hệ thống rễ cây không còn mùi tanh của máu, mà thoang thoảng mùi gỗ mục và nhựa cây cổ đại. "Thật không thể tin nổi. Vạn Độc Môn lại được xây dựng ngay trên một thứ thần thánh thế này."
+
+"Chính vì thế," Diệp Tĩnh Sương rút tay lại, ánh mắt trở nên sắc bén. "Bọn chúng lợi dụng chướng khí và độc vật bên trên để che giấu sự tồn tại của nơi này, đồng thời có thể đang âm thầm hút lấy sinh cơ của nó để nuôi dưỡng Huyết Trì."
+
+Đột nhiên, từ sâu trong một khe hở lớn giữa hai chiếc rễ khổng lồ, một luồng Mộc linh khí nồng đậm tuôn trào ra, cuốn theo một vài giọt chất lỏng màu xanh ngọc bích rơi tí tách xuống nền đá.
+
+"Thanh Mộc Dịch (青木液)!" Lâm Phong kinh ngạc thốt lên, vội vã chạy đến. Dưới ánh sáng lân tinh, hắn nhận ra có một vũng nước nhỏ đọng lại ngay lối vào khe hở, chứa đầy thứ chất lỏng sền sệt tỏa ra sinh cơ mãnh liệt. "Đây là linh dược chữa trị tuyệt đỉnh của hệ Mộc! Chỉ cần vài giọt cũng có thể nối lại kinh mạch đứt gãy."
+
+"Nhược Thủy," Diệp Tĩnh Sương quay sang, dìu bà bước tới gần. "Người đang bị thương nội tạng do hàn khí và dư âm độc tố. Nước hồ này có thể giúp người hồi phục hoàn toàn."
+
+Hứa Nhược Thủy ngập ngừng nhìn vũng nước lấp lánh, rồi từ từ quỳ xuống. Bà cẩn thận vốc một vốc Thanh Mộc Dịch lên, dòng nước mát lạnh chạm vào môi lập tức hóa thành một dòng suối ấm áp chảy dọc kinh mạch. Cơn đau âm ỉ trong ngực nhanh chóng dịu đi, sắc mặt nhợt nhạt của bà dần hồng hào trở lại.
+
+"Kỳ diệu thật," Hứa Nhược Thủy mừng rỡ lau khóe miệng, cảm giác toàn thân như nhẹ bẫng đi mười phần.
+
+Lâm Phong và Diệp Tĩnh Sương cũng tranh thủ uống vài ngụm, bổ sung lại chân khí đã cạn kiệt sau trận chiến sinh tử trên vực và dưới lòng sông ngầm. Cảm giác mệt mỏi tan biến, thay vào đó là một luồng sức mạnh mới tràn trề, tinh thần minh mẫn dị thường.
+
+Tuy nhiên, khi Diệp Tĩnh Sương vừa định đứng lên, một ảo ảnh kỳ lạ xẹt qua tâm trí nàng. Nàng thấy một cái cây khổng lồ vươn cành lá che khuất cả bầu trời, rễ của nó cắm sâu vào trung tâm đại địa, dung dưỡng hàng vạn sinh linh. Rồi ngọn lửa đen từ đâu ập tới, thiêu rụi bầu trời, Cây Thế Giới gãy gục, tiếng khóc than vang vọng khắp cõi thiên địa.
+
+"A..." Diệp Tĩnh Sương ôm đầu lùi lại, sắc mặt hơi biến đổi.
+
+"Cô sao vậy?" Lâm Phong vội vàng đỡ lấy nàng.
+
+"Ký ức của Thần Mộc," Diệp Tĩnh Sương thở dốc, lắc đầu xua đi ảo ảnh. Nàng nhìn sâu vào lối đi tối om hình thành từ mạng lưới rễ cây rỗng ruột. "Nơi này... Huyết Mạch Thượng Cổ... có ý thức riêng. Nó đang khóc."
+
+Lâm Phong im lặng, cảm nhận luồng Mộc linh khí đang bao bọc lấy họ. Hắn cũng nhận ra sự u uất lẩn khuất trong sự thuần khiết đó. "Nó bảo chúng ta điều gì?"
+
+"Nó dẫn đường," Diệp Tĩnh Sương chỉ mũi kiếm vào khe hở đen ngòm, nơi mạng lưới đường hầm bằng gỗ hóa thạch đan xen như một mê cung. "Những rễ cây này xuyên qua toàn bộ Nam Cương. Lối đi này... sẽ dẫn chúng ta luồn qua các tầng phòng thủ của Vạn Độc Môn, đi thẳng vào lõi của chúng mà không bị phát hiện."
+
+Lâm Phong và Hứa Nhược Thủy nhìn nhau, trong mắt ánh lên tia hy vọng nhưng cũng đầy vẻ lo âu. Bước vào Huyết Mạch Thượng Cổ đồng nghĩa với việc họ có thể tìm thấy đường sống, nhưng cũng có thể mãi mãi lạc lối trong mê cung rễ cây khổng lồ này, đối mặt với những nguy hiểm chưa từng được biết đến từ thời Hồng Hoang.
+
+"Đi thôi," Diệp Tĩnh Sương quyết đoán bước lên phía trước, hình bóng áo trắng gầy guộc chìm dần vào ánh sáng xanh lục ma mị của Huyết Mạch Thượng Cổ. Ở nơi tận cùng của cái chết, họ đã tìm thấy nguồn cội của sự sống, và cũng là chìa khóa để lật đổ ách thống trị tàn bạo của Vạn Độc Môn.
+
+---
+*Hết chương 69.*
