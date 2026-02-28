@@ -125,3 +125,4 @@
 | 2026-04-03 | Tổng Quản | Viết Chương 68 & Tạo Sinh Vật Huyết Uyên | Hoàn Thành | Viết Chương 68 (Bóng Tối Huyết Uyên), tạo Dơi Huyết Mù và Rết Lân Tinh, bám sát cốt truyện Góc Nhìn Chính. |
 | 2026-04-03 | Tổng Quản | Viết Chương 69 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 69 (Nguồn Cội Thượng Cổ), nhóm nhân vật chính tìm thấy lối vào Huyết Mạch Thượng Cổ và sử dụng Thanh Mộc Dịch chữa thương. |
 | 2026-04-04 | Tổng Quản | Viết Chương 70 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 70 (Xâm Nhập Lõi Độc), nhóm nhân vật chính tìm ra căn cứ ngầm của Vạn Độc Môn. |
+| 2026-04-05 | Tổng Quản | Viết Chương 71 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 71 (Trận Chiến Dưới Lòng Đất), nhóm nhân vật chính chiến đấu và phá hủy căn cứ ngầm của Vạn Độc Môn. |
