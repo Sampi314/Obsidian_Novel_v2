@@ -225,3 +225,10 @@
 - **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
 - **Tóm tắt:** Sau khi phá hủy bể độc dịch dưới lòng đất, nhóm nhân vật chính chạy trốn khỏi sự truy sát của đệ tử Vạn Độc Môn và dòng thác bùn máu đang tràn tới. Họ đi sâu vào rễ cây hóa thạch đang dốc lên, nhưng bất ngờ đụng độ bầy Vong Linh (nghi ngờ do dư chấn Địa Sát ở Tây Mạc lan đến hoặc Vạn Độc Môn dẫn dụ). Diệp Tĩnh Sương dùng "Băng Phong Vạn Dặm" đóng băng độc dịch và một phần Vong Linh để kéo dài thời gian. Cả nhóm lao về phía trước, đối mặt với bóng tối vô tận trong một trận đua nước rút sinh tử.
 - **Tình trạng:** Hoàn thành tốt, đẩy nhanh nhịp độ và sự kịch tính.
+
+## Phiên làm việc: Viết Chương 73 (Góc Nhìn Chính)
+- **Ngày:** 2026-04-07
+- **Chương:** Chương 73: Ánh Sáng Nơi Lõi Độc
+- **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
+- **Tóm tắt:** Nhóm nhân vật chính chạy dọc theo nhánh rễ khổng lồ của Huyết Mạch Thượng Cổ để thoát khỏi sự truy sát của Vong Linh. Tĩnh Sương dùng tàn lực chém thủng trần hang để tạo lối thoát, đẩy Lâm Phong và Hứa Nhược Thủy ra ngoài. Nhờ Lâm Phong quăng dây leo cứu giúp, Tĩnh Sương thoát khỏi hố ngay trước khi nó sập xuống. Cả nhóm thoát ra ngoài nhưng phát hiện mình đang ở trên vách Quỷ Khốc Cốc.
+- **Tình trạng:** Hoàn thành.
