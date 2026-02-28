@@ -51,7 +51,9 @@
     - **Nhiệm Vụ Hiện Tại:** Chạy trốn khỏi sự truy sát trong hệ thống đường hầm sụp đổ, đối mặt với Vong Linh (Hoàn thành - Chương 72).
     - **Sự Kiện Mới:** Khám phá ra khe nứt thông lên mặt đất, Diệp Tĩnh Sương dùng tàn lực cuối cùng mở đường và ở lại chặn hậu để Hứa Nhược Thủy và Lâm Phong thoát ra.
     - **Nhiệm Vụ Hiện Tại:** Trốn thoát lên mặt đất, nhưng lại rơi vào Quỷ Khốc Cốc (Hoàn thành - Chương 73).
-    - **Nhiệm Vụ Tiếp Theo:** Tìm cách sinh tồn trong Quỷ Khốc Cốc và tái hợp.
+    - **Sự Kiện Mới:** Khám phá môi trường khắc nghiệt tại Quỷ Khốc Cốc, chạm trán đệ tử Vạn Độc Môn đang thu thập Huyết Tinh Sa.
+    - **Nhiệm Vụ Hiện Tại:** Tiêu diệt nhóm đệ tử, thu thập Huyết Tinh Sa và tìm nơi an toàn để dưỡng thương (Hoàn thành - Chương 74).
+    - **Nhiệm Vụ Tiếp Theo:** Tìm cách sinh tồn trong Quỷ Khốc Cốc, sử dụng Huyết Tinh Sa để chế tạo vũ khí/bùa chú và tái hợp với các thế lực khác.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
