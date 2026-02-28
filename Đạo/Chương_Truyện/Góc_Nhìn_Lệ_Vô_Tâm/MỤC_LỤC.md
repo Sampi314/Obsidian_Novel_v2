@@ -16,3 +16,4 @@
 - [Chương 11: Con Mồi Vào Rọ](Chương_00069_Con_Mồi_Vào_Rọ.md)
 - [Chương 12: Quân Đoàn Máu](Chương_00070_Quân_Đoàn_Máu.md)
 - [Chương 13: Đối Thoại Trong Sương](Chương_00071_Đối_Thoại_Trong_Sương.md)
+- [Chương 14: Hàn Băng Phá Trận](Chương_00072_Hàn_Băng_Phá_Trận.md)
