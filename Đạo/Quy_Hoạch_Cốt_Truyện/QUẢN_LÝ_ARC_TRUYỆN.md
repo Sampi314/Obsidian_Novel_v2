@@ -58,7 +58,9 @@
     - **Sự Kiện Mới:** Rời khỏi hang động, phát hiện không gian bất thường, ngay sau đó bị bao vây bởi quân đoàn Huyết Thi từ Rừng Huyết Độc.
     - **Nhiệm Vụ Hiện Tại:** Dùng Huyết Sa Lôi phá vây nhưng nhận ra đã rơi vào thế trận của Lệ Vô Tâm (Hoàn thành - Chương 76).
     - **Sự Kiện Mới:** Đối thoại căng thẳng với Lệ Vô Tâm và bị dồn vào tuyệt cảnh khi Nhện Mặt Quỷ khổng lồ xuất hiện (Chương 71 Góc Nhìn Lệ Vô Tâm).
-    - **Nhiệm Vụ Tiếp Theo:** Chống lại vòng vây Huyết Thi và Nhện Mặt Quỷ, tìm con đường sống sót cuối cùng.
+    - **Nhiệm Vụ Hiện Tại:** Chống lại vòng vây Huyết Thi và Nhện Mặt Quỷ bằng mọi giá (Hoàn thành - Chương 77 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Một luồng kiếm ý cường đại bất ngờ phá vỡ vòng vây Huyết Thi từ bên ngoài, mang theo tia hy vọng sống sót.
+    - **Nhiệm Vụ Tiếp Theo:** Tái hợp với cứu binh, tìm cơ hội phản công hoặc rút lui an toàn khỏi Quỷ Khốc Cốc.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).

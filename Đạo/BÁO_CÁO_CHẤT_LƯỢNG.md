@@ -133,3 +133,4 @@
 | Hôm nay | Tổng Quản | Viết Chương 70 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Viết Chương 70 (Quân Đoàn Máu), Lệ Vô Tâm điều khiển Huyết Thi bao vây Rừng Huyết Độc và Quỷ Khốc Cốc, khởi đầu Arc 3. |
 | Hôm nay | Tổng Quản | Viết Chương 76 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 76 (Vòng Vây Huyết Thi), nhóm Diệp Tĩnh Sương rời khỏi hang động ở Quỷ Khốc Cốc thì gặp phải vòng vây của quân đoàn Huyết Thi do Lệ Vô Tâm điều khiển, hai tuyến truyện chính thức giao nhau. |
 | Hôm nay | Tổng Quản | Viết Chương 71 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Viết Chương 71 (Đối Thoại Trong Sương), mô tả cuộc chạm trán căng thẳng giữa Lệ Vô Tâm và nhóm Diệp Tĩnh Sương, kết thúc bằng việc Lệ Vô Tâm triệu hồi Nhện Mặt Quỷ. |
+| Hôm nay | Tổng Quản | Viết Chương 77 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 77 (Tuyệt Cảnh Phá Vây), mô tả trận chiến tuyệt vọng của nhóm Diệp Tĩnh Sương và sự xuất hiện của một kiếm ý lạ cuối chương. |
