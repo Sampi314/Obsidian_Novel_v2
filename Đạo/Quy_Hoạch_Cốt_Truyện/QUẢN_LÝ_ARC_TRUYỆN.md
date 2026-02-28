@@ -79,7 +79,8 @@
     - **Sự Kiện Mới:** Bước vào Arc 3: Khởi động Đại Điển Sắc Phong Vạn Độc Thánh Tử, Lệ Vô Tâm điều động quân đoàn Huyết Thi để đối phó Độc Cô Lão Quái và bắt giữ nhóm Diệp Tĩnh Sương (Chương 70).
     - **Nhiệm Vụ Hiện Tại:** Dồn nhóm nhân vật chính vào vòng vây tại Rừng Huyết Độc và Quỷ Khốc Cốc (Hoàn thành - Chương 76 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Đối thoại với Diệp Tĩnh Sương và dùng Nhện Mặt Quỷ kết hợp Huyết Thi để vây khốn (Chương 71 Góc Nhìn Lệ Vô Tâm).
-    - **Nhiệm Vụ Tiếp Theo:** Tiêu diệt nhóm Diệp Tĩnh Sương hoặc ép họ vào đường cùng.
+    - **Sự Kiện Mới:** Đối mặt với Sở Lăng Sương, bị Sương Hàn Cửu Thiên đẩy lùi và đánh mất con mồi. Lệ Vô Tâm nhận ra cần phải củng cố sức mạnh Vạn Độc Thân (Hoàn thành - Chương 72 Góc Nhìn Lệ Vô Tâm).
+    - **Nhiệm Vụ Tiếp Theo:** Rút lui, dung hợp sức mạnh và chuẩn bị kế hoạch tiếp theo chống lại Cửu Hoa Kiếm Tông.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

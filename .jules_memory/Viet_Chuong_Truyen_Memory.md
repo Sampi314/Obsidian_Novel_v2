@@ -283,9 +283,7 @@
 - **Nhện Mặt Quỷ:** Sự xuất hiện của loại quái vật mới (hoặc quái vật cũ bị biến đổi) tạo thêm áp lực khổng lồ.
 
 ## 4. KẾ HOẠCH TIẾP THEO (TODO)
-- **Viết Chương 77 (Góc Nhìn Chính):**
-  - Trận chiến tuyệt vọng chống lại Nhện Mặt Quỷ và Huyết Thi.
-  - Tìm ra tia hy vọng mong manh nào đó để phá vây, hoặc chờ đợi một biến số mới xuất hiện (Ví dụ: sự can thiệp từ thế lực khác, sức mạnh tiềm ẩn, hoặc sai lầm của Lệ Vô Tâm).
+- **Viết tiếp:** Tìm nơi an toàn dưỡng thương, bàn tính kế hoạch chống lại Vạn Độc Môn (Góc Nhìn Chính) hoặc Trở lại Vạn Độc Cốc chuẩn bị đại kế (Góc Nhìn Lệ Vô Tâm).
 
 ## Phiên làm việc: Viết Chương 77 (Góc Nhìn Chính)
 - **Ngày:** Hôm nay
