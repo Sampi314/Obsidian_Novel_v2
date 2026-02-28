@@ -684,6 +684,12 @@
     "path": "/Đạo/Thế_Lực/Ảo_Ảnh_Lâm_Tộc.md"
   },
   {
+    "id": "kỳ_vật-dơi_huyết_mù",
+    "title": "Dơi Huyết Mù",
+    "category": "Kỳ Vật",
+    "path": "/Đạo/Kỳ_Vật/Dơi_Huyết_Mù.md"
+  },
+  {
     "id": "kỳ_vật-dược_nhân",
     "title": "Dược Nhân",
     "category": "Kỳ Vật",
@@ -820,6 +826,12 @@
     "title": "Nấm Mặt Quỷ",
     "category": "Kỳ Vật",
     "path": "/Đạo/Kỳ_Vật/Nấm_Mặt_Quỷ.md"
+  },
+  {
+    "id": "kỳ_vật-rết_lân_tinh",
+    "title": "Rết Lân Tinh",
+    "category": "Kỳ Vật",
+    "path": "/Đạo/Kỳ_Vật/Rết_Lân_Tinh.md"
   },
   {
     "id": "kỳ_vật-sa_bạo_cổ",
