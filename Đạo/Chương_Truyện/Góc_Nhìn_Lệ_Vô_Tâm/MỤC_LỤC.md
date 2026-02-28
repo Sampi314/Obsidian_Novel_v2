@@ -19,3 +19,4 @@
 - [Chương 14: Hàn Băng Phá Trận](Chương_00072_Hàn_Băng_Phá_Trận.md)
 - [Chương 15: Nuốt Hận Dưỡng Thương](Chương_00073_Nuốt_Hận_Dưỡng_Thương.md)
 - [Chương 74: Vạn Độc Trọng Sinh](Chương_00074_Vạn_Độc_Trọng_Sinh.md)
+- [Chương 75: Bố Cục Tử Địa](Chương_00075_Bố_Cục_Tử_Địa.md)

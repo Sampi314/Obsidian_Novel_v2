@@ -80,4 +80,5 @@
 - [Chương 78: Băng Kiếm Lai Lâm](Chương_00078_Băng_Kiếm_Lai_Lâm.md)
 - [Chương 79: Tạm Lánh Phong Ba](Chương_00079_Tạm_Lánh_Phong_Ba.md)
 - [Chương 80: Hội Bàn Đối Sách](Chương_00080_Hội_Bàn_Đối_Sách.md)
+- [Chương 81: Trở Lại Tử Địa](Chương_00081_Trở_Lại_Tử_Địa.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)
