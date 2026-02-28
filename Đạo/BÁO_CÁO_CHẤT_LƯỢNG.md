@@ -135,5 +135,6 @@
 | Hôm nay | Tổng Quản | Viết Chương 71 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Viết Chương 71 (Đối Thoại Trong Sương), mô tả cuộc chạm trán căng thẳng giữa Lệ Vô Tâm và nhóm Diệp Tĩnh Sương, kết thúc bằng việc Lệ Vô Tâm triệu hồi Nhện Mặt Quỷ. |
 | Hôm nay | Tổng Quản | Viết Chương 77 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 77 (Tuyệt Cảnh Phá Vây), mô tả trận chiến tuyệt vọng của nhóm Diệp Tĩnh Sương và sự xuất hiện của một kiếm ý lạ cuối chương. |
 | Hôm nay | Tổng Quản | Viết Chương 78 (Góc Nhìn Chính) | Hoàn Thành | Mô tả Sở Lăng Sương xuất hiện cứu nguy tại Quỷ Khốc Cốc, giúp nhóm Tĩnh Sương rút lui an toàn khỏi sự vây hãm của Lệ Vô Tâm. |
-
 | Hôm nay | Tổng Quản | Viết Chương 72 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Mô tả Lệ Vô Tâm đối đầu với Diệp Tĩnh Sương và Sở Lăng Sương, bị Sương Hàn Cửu Thiên đẩy lùi và đánh mất con mồi. |
+| Hôm nay | Tổng Quản | Viết Chương 79 (Góc Nhìn Chính) | Hoàn Thành | Nhóm Tĩnh Sương rút lui, dưỡng thương và phân tích cục diện Vạn Độc Môn. |
+| Hôm nay | Tổng Quản | Viết Chương 73 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm rút lui, hấp thụ sức mạnh Mẫu Cổ và rèn luyện Vạn Độc Thân. |

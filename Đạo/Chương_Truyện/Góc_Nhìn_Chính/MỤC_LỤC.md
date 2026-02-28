@@ -78,4 +78,5 @@
 - [Chương 76: Vòng Vây Huyết Thi](Chương_00076_Vòng_Vây_Huyết_Thi.md)
 - [Chương 77: Tuyệt Cảnh Phá Vây](Chương_00077_Tuyệt_Cảnh_Phá_Vây.md)
 - [Chương 78: Băng Kiếm Lai Lâm](Chương_00078_Băng_Kiếm_Lai_Lâm.md)
+- [Chương 79: Tạm Lánh Phong Ba](Chương_00079_Tạm_Lánh_Phong_Ba.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)
