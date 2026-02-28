@@ -62,7 +62,9 @@
     - **Sự Kiện Mới:** Sở Lăng Sương (Cửu Hoa Kiếm Tông) xuất hiện ứng cứu, dùng Băng Phách Kiếm cùng Diệp Tĩnh Sương tạo ra cơn lốc băng tuyết cản Lệ Vô Tâm và giải vây.
     - **Nhiệm Vụ Hiện Tại:** Rút lui khỏi Quỷ Khốc Cốc an toàn (Hoàn thành - Chương 78 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương tìm được nơi ẩn náu tạm thời, nhận được tình báo từ Cửu Hoa Kiếm Tông thông qua Sở Lăng Sương (Hoàn thành - Chương 79 Góc Nhìn Chính).
-    - **Nhiệm Vụ Tiếp Theo:** Chữa thương cho Hứa Nhược Thủy và lập kế hoạch đối phó với Vạn Độc Môn.
+    - **Nhiệm Vụ Hiện Tại:** Chữa thương cho Hứa Nhược Thủy và lập kế hoạch đối phó với Vạn Độc Môn (Hoàn thành - Chương 80 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Sở Lăng Sương chia sẻ tình báo quan trọng, tiết lộ Độc Cô Lão Quái đang bế quan và Lệ Vô Tâm đã nắm toàn quyền kiểm soát Vạn Độc Môn. Bản đồ các mắt trận của Vạn Độc Huyết Tế Đại Trận được hé lộ.
+    - **Nhiệm Vụ Tiếp Theo:** Nhóm Diệp Tĩnh Sương chia làm hai hướng: Sở Lăng Sương liên lạc đại quân Chính Đạo để đánh mắt trận tại Đầm Lầy Tử Thần, trong khi nhóm Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy tìm cách tiến vào Vùng Đất Chết để phá mắt trận còn lại.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
@@ -82,7 +84,8 @@
     - **Sự Kiện Mới:** Đối thoại với Diệp Tĩnh Sương và dùng Nhện Mặt Quỷ kết hợp Huyết Thi để vây khốn (Chương 71 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Đối mặt với Sở Lăng Sương, bị Sương Hàn Cửu Thiên đẩy lùi và đánh mất con mồi. Lệ Vô Tâm nhận ra cần phải củng cố sức mạnh Vạn Độc Thân (Hoàn thành - Chương 72 Góc Nhìn Lệ Vô Tâm).
     - **Nhiệm Vụ Hiện Tại:** Rút lui, điều tức áp chế hàn khí và quyết tâm dung hợp Mẫu Cổ để mạnh lên (Hoàn thành - Chương 73 Góc Nhìn Lệ Vô Tâm).
-    - **Nhiệm Vụ Tiếp Theo:** Hoàn thiện Vạn Độc Thân và vạch kế hoạch đối phó Cửu Hoa Kiếm Tông.
+    - **Sự Kiện Mới:** Hấp thụ tinh huyết Nhện Mặt Quỷ và dung hợp thành công Mẫu Cổ trong Mật Thất Huyết Trì. Đột phá Vạn Độc Thân, củng cố quyền lực tuyệt đối tại Vạn Độc Môn (Hoàn thành - Chương 74 Góc Nhìn Lệ Vô Tâm).
+    - **Nhiệm Vụ Tiếp Theo:** Chuẩn bị quân đoàn Huyết Thi để đối đầu với đại quân Chính Đạo tại Nam Cương.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
