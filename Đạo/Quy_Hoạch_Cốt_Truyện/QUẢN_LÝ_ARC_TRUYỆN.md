@@ -48,7 +48,8 @@
     - **Sự Kiện Mới:** Nhóm tiến sâu vào Huyết Mạch Thượng Cổ và phát hiện phòng thí nghiệm ngầm của Vạn Độc Môn.
     - **Nhiệm Vụ Hiện Tại:** Phá hủy hệ thống phòng thủ ngầm và phòng thí nghiệm ngầm của Vạn Độc Môn (Hoàn thành - Chương 71).
     - **Sự Kiện Mới:** Trận chiến khốc liệt dưới lòng đất đã phá hủy hoàn toàn cơ sở nghiên cứu ngầm, nhưng cảnh báo cho toàn bộ Vạn Độc Môn.
-    - **Nhiệm Vụ Tiếp Theo:** Tiến sâu hơn nữa vào căn cứ của Vạn Độc Môn để phá vỡ toàn bộ trận pháp.
+    - **Nhiệm Vụ Hiện Tại:** Chạy trốn khỏi sự truy sát trong hệ thống đường hầm sụp đổ, đối mặt với Vong Linh (Hoàn thành - Chương 72).
+    - **Nhiệm Vụ Tiếp Theo:** Tìm đường thoát hiểm hoặc tiến sâu hơn nữa vào căn cứ của Vạn Độc Môn để phá vỡ toàn bộ trận pháp.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).

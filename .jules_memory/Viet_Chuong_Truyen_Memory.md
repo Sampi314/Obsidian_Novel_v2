@@ -218,3 +218,10 @@
 - **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
 - **Tóm tắt:** Ba người đi dọc Huyết Hà đến thượng nguồn, phát hiện mạng lưới rễ hóa thạch khổng lồ của Huyết Mạch Thượng Cổ. Họ dùng Thanh Mộc Dịch để chữa lành vết thương cho Hứa Nhược Thủy và phục hồi thể lực. Diệp Tĩnh Sương cảm nhận ký ức Thần Mộc và phát hiện ra hệ thống rễ rỗng ruột này là đường hầm xuyên suốt Nam Cương, dẫn thẳng vào lõi Vạn Độc Môn.
 - **Tình trạng:** Hoàn thành tốt, bám sát lore của Huyết Mạch Thượng Cổ.
+
+## Phiên làm việc: Viết Chương 72 (Góc Nhìn Chính)
+- **Ngày:** 2026-04-06
+- **Chương:** Chương 72: Bóng Tối Bủa Vây
+- **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
+- **Tóm tắt:** Sau khi phá hủy bể độc dịch dưới lòng đất, nhóm nhân vật chính chạy trốn khỏi sự truy sát của đệ tử Vạn Độc Môn và dòng thác bùn máu đang tràn tới. Họ đi sâu vào rễ cây hóa thạch đang dốc lên, nhưng bất ngờ đụng độ bầy Vong Linh (nghi ngờ do dư chấn Địa Sát ở Tây Mạc lan đến hoặc Vạn Độc Môn dẫn dụ). Diệp Tĩnh Sương dùng "Băng Phong Vạn Dặm" đóng băng độc dịch và một phần Vong Linh để kéo dài thời gian. Cả nhóm lao về phía trước, đối mặt với bóng tối vô tận trong một trận đua nước rút sinh tử.
+- **Tình trạng:** Hoàn thành tốt, đẩy nhanh nhịp độ và sự kịch tính.
