@@ -55,7 +55,9 @@
     - **Nhiệm Vụ Hiện Tại:** Tiêu diệt nhóm đệ tử, thu thập Huyết Tinh Sa và tìm nơi an toàn để dưỡng thương (Hoàn thành - Chương 74).
     - **Sự Kiện Mới:** Ẩn nấp trong hang động, luyện hóa Huyết Tinh Sa thành ám khí Huyết Sa Lôi.
     - **Nhiệm Vụ Hiện Tại:** Lợi dụng Đại Điển Sắc Phong Vạn Độc Thánh Tử (Lệ Vô Tâm) để vượt qua vòng vây phòng thủ đang lỏng lẻo ở Quỷ Khốc Cốc và thoát khỏi Nam Cương (Hoàn thành - Chương 75).
-    - **Nhiệm Vụ Tiếp Theo:** Chạy trốn khỏi Quỷ Khốc Cốc và tái hợp với các thế lực khác hoặc đối đầu trực diện trong trận đại chiến.
+    - **Sự Kiện Mới:** Rời khỏi hang động, phát hiện không gian bất thường, ngay sau đó bị bao vây bởi quân đoàn Huyết Thi từ Rừng Huyết Độc.
+    - **Nhiệm Vụ Hiện Tại:** Dùng Huyết Sa Lôi phá vây nhưng nhận ra đã rơi vào thế trận của Lệ Vô Tâm (Hoàn thành - Chương 76).
+    - **Nhiệm Vụ Tiếp Theo:** Chống lại Lệ Vô Tâm và tìm đường sống sót.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
@@ -71,7 +73,8 @@
     - Truy đuổi nhóm nhân vật chính xuyên qua bão cát để đến Rừng Thiên Trụ (Hoàn thành).
     - Đụng độ tại Pháo Đài Xanh và rút lui về Nam Cương để bày binh bố trận (Hoàn thành).
     - **Sự Kiện Mới:** Bước vào Arc 3: Khởi động Đại Điển Sắc Phong Vạn Độc Thánh Tử, Lệ Vô Tâm điều động quân đoàn Huyết Thi để đối phó Độc Cô Lão Quái và bắt giữ nhóm Diệp Tĩnh Sương (Chương 70).
-    - **Nhiệm Vụ Hiện Tại:** Dồn nhóm nhân vật chính vào vòng vây tại Rừng Huyết Độc và Quỷ Khốc Cốc.
+    - **Nhiệm Vụ Hiện Tại:** Dồn nhóm nhân vật chính vào vòng vây tại Rừng Huyết Độc và Quỷ Khốc Cốc (Hoàn thành - Chương 76 Góc Nhìn Chính).
+    - **Nhiệm Vụ Tiếp Theo:** Bắt sống Diệp Tĩnh Sương hoặc tiêu diệt toàn bộ.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

@@ -75,4 +75,5 @@
 - [Chương 73: Ánh Sáng Nơi Lõi Độc](Chương_00073_Ánh_Sáng_Nơi_Lõi_Độc.md)
 - [Chương 74: Âm Vang Quỷ Khốc](Chương_00074_Âm_Vang_Quỷ_Khốc.md)
 - [Chương 75: Luyện Hóa Tinh Sa](Chương_00075_Luyện_Hóa_Tinh_Sa.md)
+- [Chương 76: Vòng Vây Huyết Thi](Chương_00076_Vòng_Vây_Huyết_Thi.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)

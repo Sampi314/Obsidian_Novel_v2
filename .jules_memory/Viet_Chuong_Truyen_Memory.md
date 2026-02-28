@@ -253,3 +253,10 @@
 - **Góc Nhìn:** Lệ Vô Tâm
 - **Tóm tắt:** Trước thềm Đại Điển Sắc Phong, Lệ Vô Tâm biết Độc Cô Lão Quái định dùng mình làm vật tế cho Huyết Trì. Hắn lật lọng, dùng Huyết Độc Phiến đã được dung hợp với Thiên Tinh Mẫu Cổ để triệu hồi và điều khiển năm ngàn Huyết Thi, bao vây Rừng Huyết Độc và Quỷ Khốc Cốc để thanh trừng Vạn Độc Môn và săn lùng nhóm Diệp Tĩnh Sương.
 - **Tình trạng:** Hoàn thành, khởi đầu Arc 3.
+
+## Phiên làm việc: Viết Chương 76 (Góc Nhìn Chính)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 76: Vòng Vây Huyết Thi
+- **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
+- **Tóm tắt:** Nhóm Diệp Tĩnh Sương rời khỏi hang động ẩn nấp ở Quỷ Khốc Cốc, phát hiện sương mù biến thành màu đỏ thẫm và có mùi tử khí. Họ ngay lập tức bị bao vây bởi hàng ngàn Huyết Thi tràn ra từ Rừng Huyết Độc. Nhờ sự hỗ trợ của "Sương Hàn Cửu Thiên", tiễn thuật của Lâm Phong và "Huyết Sa Lôi" của Hứa Nhược Thủy, họ phá được một lỗ hổng trong vòng vây, nhưng phát hiện toàn bộ khu vực đã bị khống chế. Trên vách đá cao nhất, Lệ Vô Tâm xuất hiện, thổi sáo trúc, báo hiệu cuộc đụng độ sinh tử đã bắt đầu.
+- **Tình trạng:** Hoàn thành. Cốt truyện 2 tuyến chính và phản diện chính thức giao thoa tại Arc Huyết Độc Rừng Thiêng.
