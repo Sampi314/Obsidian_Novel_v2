@@ -151,6 +151,7 @@
         - [Chương 71: Trận Chiến Dưới Lòng Đất](Chương_Truyện/Góc_Nhìn_Chính/Chương_00071_Trận_Chiến_Dưới_Lòng_Đất.md)
         - [Chương 72: Bóng Tối Bủa Vây](Chương_Truyện/Góc_Nhìn_Chính/Chương_00072_Bóng_Tối_Bủa_Vây.md)
         - [Chương 73: Ánh Sáng Nơi Lõi Độc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00073_Ánh_Sáng_Nơi_Lõi_Độc.md)
+        - [Chương 74: Âm Vang Quỷ Khốc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00074_Âm_Vang_Quỷ_Khốc.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)

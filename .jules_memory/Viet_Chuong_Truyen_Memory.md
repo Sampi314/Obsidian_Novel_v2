@@ -232,3 +232,10 @@
 - **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
 - **Tóm tắt:** Nhóm nhân vật chính chạy dọc theo nhánh rễ khổng lồ của Huyết Mạch Thượng Cổ để thoát khỏi sự truy sát của Vong Linh. Tĩnh Sương dùng tàn lực chém thủng trần hang để tạo lối thoát, đẩy Lâm Phong và Hứa Nhược Thủy ra ngoài. Nhờ Lâm Phong quăng dây leo cứu giúp, Tĩnh Sương thoát khỏi hố ngay trước khi nó sập xuống. Cả nhóm thoát ra ngoài nhưng phát hiện mình đang ở trên vách Quỷ Khốc Cốc.
 - **Tình trạng:** Hoàn thành.
+
+## Phiên làm việc: Viết Chương 74 (Góc Nhìn Chính)
+- **Ngày:** 2026-04-07
+- **Chương:** Chương 74: Âm Vang Quỷ Khốc
+- **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
+- **Tóm tắt:** Diệp Tĩnh Sương, Lâm Phong, và Hứa Nhược Thủy nghỉ ngơi trên vách đá sương mù của Quỷ Khốc Cốc. Tĩnh Sương vận công chữa thương, trong khi cả ba phát hiện một nhóm đệ tử Vạn Độc Môn đang thu thập Huyết Tinh Sa. Họ ra tay tiêu diệt nhóm đệ tử này để tránh bị lộ tung tích, thu được một ít đan dược trị thương cùng Huyết Tinh Sa. Cả nhóm tiếp tục men theo vách núi tìm nơi ẩn nấp, chuẩn bị đối phó với những thử thách mới tại Nam Cương.
+- **Tình trạng:** Hoàn thành.
