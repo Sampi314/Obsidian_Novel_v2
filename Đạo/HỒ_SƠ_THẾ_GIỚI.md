@@ -147,6 +147,7 @@
         - [Chương 69: Con Mồi Vào Rọ](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00069_Con_Mồi_Vào_Rọ.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
+        - [Chương 70: Xâm Nhập Lõi Độc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00070_Xâm_Nhập_Lõi_Độc.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
