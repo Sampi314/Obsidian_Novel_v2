@@ -205,3 +205,9 @@
 - **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy, Lục Trần (ảo giác).
 - **Địa điểm:** Huyết Vụ Lâm.
 - **Tiến độ Arc:** Rơi vào đường cùng.
+
+## [2026-04-03] Chương 67: Bước Nhảy Sinh Tử (Góc Nhìn Chính)
+- **Nội dung:** Bị bầy Huyết Vụ Điểu dồn đến đường cùng, Diệp Tĩnh Sương quyết định đưa Lâm Phong và Hứa Nhược Thủy nhảy xuống vực thẳm. Cả ba may mắn sống sót nhờ một lớp sương mù đặc quánh ở lưng chừng vực (Huyết Khí Thăng Hoa) đỡ lấy. Tại đáy vực (Huyết Uyên), họ cảm nhận được một luồng khí tức Thượng Cổ mờ nhạt.
+- **Nhân vật:** Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy.
+- **Địa điểm:** Huyết Uyên (dưới đáy Huyết Vụ Lâm).
+- **Tiến độ Arc:** Sống sót và bắt đầu khám phá vực sâu bí ẩn.

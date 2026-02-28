@@ -40,7 +40,9 @@
     - **Sự Kiện Mới:** Tiến sâu vào Huyết Vụ Lâm, chạm trán bầy Huyết Vụ Điểu và Mộng Yểm Hoa.
     - **Nhiệm Vụ Hiện Tại:** Chống lại ảo giác và thoát khỏi bầy chim (Chương 64, 65).
     - **Sự Kiện Mới:** Được cứu bởi tiếng sáo bí ẩn, chạy trốn nhưng bị dồn đến vực thẳm.
-    - **Nhiệm Vụ Tiếp Theo:** Sinh tồn trước vực thẳm (Chương 66).
+    - **Nhiệm Vụ Hiện Tại:** Sinh tồn trước vực thẳm (Hoàn thành - Chương 66).
+    - **Sự Kiện Mới:** Nhảy xuống vực thẳm để thoát khỏi Huyết Vụ Điểu, tiếp đất an toàn tại Huyết Uyên.
+    - **Nhiệm Vụ Tiếp Theo:** Khám phá Huyết Uyên và tìm hiểu về Khí Tức Thượng Cổ (Chương 67).
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).

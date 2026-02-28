@@ -121,3 +121,4 @@
 | 2026-03-31 | Tổng Quản | Viết Chương 58 (Lệ Vô Tâm) | Hoàn Thành | Viết Chương 58 (Phản Đòn), mô tả Lệ Vô Tâm dùng Vạn Độc Thân phá Vạn Tinh Tuyệt Sát Trận, lật ngược thế cờ tiêu diệt nhóm Triệu Hàn. |
 | 2026-04-01 | Tổng Quản | Viết Chương 59 & 60 (Lệ Vô Tâm) | Hoàn Thành | Viết Chương 59 (Độc Cô Lão Quái Hài Lòng) và Chương 60 (Chuẩn Bị Cho Đại Sự) để kết thúc Arc 2 của Lệ Vô Tâm. |
 | 2026-04-02 | Tổng Quản | Viết Chương 66 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 66 (Ảo Giác Mộng Yểm), mô tả nhóm nhân vật rơi vào ảo giác của Mộng Yểm Hoa và được cứu bởi tiếng sáo. |
+| 2026-04-03 | Tổng Quản | Viết Chương 67 & Tạo Huyết Uyên | Hoàn Thành | Viết Chương 67 (Bước Nhảy Sinh Tử), tạo địa danh Huyết Uyên (Vực Sâu Máu) dưới đáy Huyết Vụ Lâm. |
