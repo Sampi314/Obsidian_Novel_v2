@@ -66,10 +66,12 @@
     - Sống sót qua Huyết Trì (Hoàn thành).
     - Tiêu diệt các đối thủ cạnh tranh (Hoàn thành).
     - Trở thành Vạn Độc Thánh Tử duy nhất (Hoàn thành).
-    - Truy vết nhóm nhân vật chính vào Tây Mạc (Chương 6).
-    - Đối mặt với sự sụp đổ của Long Cốt và Hắc Sa Bão (Chương 7).
-    - **Mới:** Truy đuổi nhóm nhân vật chính xuyên qua bão cát để đến Rừng Thiên Trụ (Chương 8).
-    - **Tiếp theo:** Đụng độ tại Pháo Đài Xanh và rút lui về Nam Cương để bày binh bố trận (Chương 9).
+    - Truy vết nhóm nhân vật chính vào Tây Mạc (Hoàn thành).
+    - Đối mặt với sự sụp đổ của Long Cốt và Hắc Sa Bão (Hoàn thành).
+    - Truy đuổi nhóm nhân vật chính xuyên qua bão cát để đến Rừng Thiên Trụ (Hoàn thành).
+    - Đụng độ tại Pháo Đài Xanh và rút lui về Nam Cương để bày binh bố trận (Hoàn thành).
+    - **Sự Kiện Mới:** Bước vào Arc 3: Khởi động Đại Điển Sắc Phong Vạn Độc Thánh Tử, Lệ Vô Tâm điều động quân đoàn Huyết Thi để đối phó Độc Cô Lão Quái và bắt giữ nhóm Diệp Tĩnh Sương (Chương 70).
+    - **Nhiệm Vụ Hiện Tại:** Dồn nhóm nhân vật chính vào vòng vây tại Rừng Huyết Độc và Quỷ Khốc Cốc.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
