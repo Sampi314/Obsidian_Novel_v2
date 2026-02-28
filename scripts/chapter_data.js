@@ -275,6 +275,10 @@ window.chapterData = {
       "title": "Chương 65: Tiếng Gọi Nơi Rừng Thẳm (深林之聲)"
     },
     {
+      "filename": "Chương_00066_Ảo_Giác_Mộng_Yểm.md",
+      "title": "Chương 66: Ảo Giác Mộng Yểm (幻覺夢魘)"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
