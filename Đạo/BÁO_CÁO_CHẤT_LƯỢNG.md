@@ -129,3 +129,4 @@
 | 2026-04-06 | Tổng Quản | Viết Chương 72 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 72 (Bóng Tối Bủa Vây), nhóm nhân vật chính tháo chạy khỏi căn cứ ngầm sụp đổ, đối mặt sự truy sát và bầy Vong Linh. |
 | 2026-04-07 | Tổng Quản | Viết Chương 73 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 73 (Ánh Sáng Nơi Lõi Độc), nhóm nhân vật chính thoát khỏi đường hầm ngầm nhưng lại rơi vào Quỷ Khốc Cốc. |
 | 2026-04-07 | Tổng Quản | Viết Chương 74 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 74 (Âm Vang Quỷ Khốc), nhóm nhân vật chính nghỉ ngơi trên vách đá Quỷ Khốc Cốc và tiêu diệt một đội đệ tử Vạn Độc Môn. |
+| Hôm nay | Tổng Quản | Viết Chương 75 (Góc Nhìn Chính) | Hoàn Thành | Viết Chương 75 (Luyện Hóa Tinh Sa), Hứa Nhược Thủy chế Huyết Sa Lôi, Diệp Tĩnh Sương đề xuất tẩu thoát trong Đại Điển Sắc Phong Vạn Độc Thánh Tử. |

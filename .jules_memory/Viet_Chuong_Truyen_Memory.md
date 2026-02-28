@@ -239,3 +239,10 @@
 - **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
 - **Tóm tắt:** Diệp Tĩnh Sương, Lâm Phong, và Hứa Nhược Thủy nghỉ ngơi trên vách đá sương mù của Quỷ Khốc Cốc. Tĩnh Sương vận công chữa thương, trong khi cả ba phát hiện một nhóm đệ tử Vạn Độc Môn đang thu thập Huyết Tinh Sa. Họ ra tay tiêu diệt nhóm đệ tử này để tránh bị lộ tung tích, thu được một ít đan dược trị thương cùng Huyết Tinh Sa. Cả nhóm tiếp tục men theo vách núi tìm nơi ẩn nấp, chuẩn bị đối phó với những thử thách mới tại Nam Cương.
 - **Tình trạng:** Hoàn thành.
+
+## Phiên làm việc: Viết Chương 75 (Góc Nhìn Chính)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 75: Luyện Hóa Tinh Sa
+- **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
+- **Tóm tắt:** Nhóm Diệp Tĩnh Sương tìm được hang động ẩn nấp tại Quỷ Khốc Cốc. Hứa Nhược Thủy sử dụng bí pháp của Thiên Sa Thương Hội và Sa Lô để luyện hóa Huyết Tinh Sa thành "Huyết Sa Lôi" - một loại vũ khí ám khí có sức sát thương cao nhờ hỏa độc. Diệp Tĩnh Sương đã khôi phục lại phần lớn thực lực và đề xuất lợi dụng sự kiện Đại Điển Sắc Phong Vạn Độc Thánh Tử sắp tới, khi phòng thủ vòng ngoài lỏng lẻo, để tìm đường thoát khỏi Nam Cương.
+- **Tình trạng:** Hoàn thành.
