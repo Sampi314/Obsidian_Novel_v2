@@ -286,3 +286,10 @@
 - **Viết Chương 77 (Góc Nhìn Chính):**
   - Trận chiến tuyệt vọng chống lại Nhện Mặt Quỷ và Huyết Thi.
   - Tìm ra tia hy vọng mong manh nào đó để phá vây, hoặc chờ đợi một biến số mới xuất hiện (Ví dụ: sự can thiệp từ thế lực khác, sức mạnh tiềm ẩn, hoặc sai lầm của Lệ Vô Tâm).
+
+## Phiên làm việc: Viết Chương 77 (Góc Nhìn Chính)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 77: Tuyệt Cảnh Phá Vây
+- **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy)
+- **Tóm tắt:** Nhóm Diệp Tĩnh Sương chiến đấu ngoan cường nhưng tuyệt vọng trước số lượng áp đảo của Huyết Thi và độc tính của Nhện Mặt Quỷ. Ngay khi họ sắp cạn kiệt linh lực và chuẩn bị tung đòn quyết tử, một luồng kiếm ý cường đại bất ngờ giáng xuống từ phía Đông, xé toạc vòng vây Huyết Thi và mang đến tia hy vọng mới.
+- **Tình trạng:** Hoàn thành. Kết thúc mở, tạo sự tò mò về nhân vật mới xuất hiện.
