@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00098 Bế Quan Tu Luyện</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00098_Bế_Quan_Tu_Luyện.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 98: Bế Quan Tu Luyện</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Góc nhìn:</strong> Chính (Diệp Tĩnh Sương, Lâm Phong)</p>
+<p><strong>Địa điểm:</strong> <a href="../../Thế_Lực/Cửu_Hoa_Kiếm_Tông.html">Cửu Hoa Kiếm Tông</a> (Thiên Hoa Phong)</p>
+<br>
+<p>---</p>
+<br>
+<p>Những đám khói đen bốc lên từ ngoại môn Cửu Hoa Kiếm Tông đã dần tan đi, nhưng mùi máu tanh và không khí tang thương vẫn còn vương vấn trong không trung. Trận chiến với Huyết Sát Minh đã để lại một vết thương lớn trên một trong những tông môn mạnh nhất của Chính Đạo.</p>
+<br>
+<p>Trên đỉnh Thiên Hoa Phong, linh khí vẫn dạt dào, tinh khiết như chưa hề có cuộc đụng độ nào xảy ra. Tuy nhiên, sự tĩnh lặng nơi đây lại mang một sức nặng vô hình.</p>
+<br>
+<p>Diệp Tĩnh Sương ngồi xếp bằng trên một tảng hàn ngọc, trong tay nàng là thanh Hàn Mai Kiếm. Nàng nhắm nghiền mắt, đang nỗ lực điều tức, nhưng tâm trí vẫn không ngừng hiện lên những hình ảnh từ trận chiến khốc liệt vừa qua.</p>
+<br>
+<p>Sức mạnh áp đảo của Lệ Vô Tâm với Vạn Độc Thân Trúc Cơ Hậu Kỳ, sự vô lực của nàng khi đối diện với cái chết, và cuối cùng là uy áp nghẹt thở của Đại Trưởng Lão Thanh Hư. Cảnh giới Hóa Thần Sơ Kỳ... Một cái phất tay của ông cũng đủ để phá nát Vạn Độc Thân cường hãn kia.</p>
+<br>
+<p>"Mình vẫn còn quá yếu," Diệp Tĩnh Sương lẩm bẩm, mở bừng mắt. Trong đáy mắt nàng không có sự chán nản, mà là một ngọn lửa quyết tâm rực cháy. Kiếm tâm của nàng – "Kiếm Trảm Bất Bình" – dường như lại được tôi luyện thêm một tầng sắc bén sau sinh tử.</p>
+<br>
+<p>Bước chân nhè nhẹ vang lên, Lâm Phong tiến vào, tay bưng một bát linh dược bốc khói nghi ngút. Hắn mặc bộ y phục mới của khách khanh Cửu Hoa Kiếm Tông, gương mặt đã khôi phục lại sự rạng rỡ, nhưng ánh mắt cũng phảng phất vẻ trưởng thành hơn.</p>
+<br>
+<p>"Uống chút linh dược đi, Tĩnh Sương. Đại Trưởng Lão đã đích thân phân phó Dược Đường sắc riêng cho chúng ta đó," Lâm Phong nói, đặt bát thuốc xuống chiếc bàn đá.</p>
+<br>
+<p>"Cảm ơn huynh," Tĩnh Sương khẽ gật đầu, nhận lấy bát thuốc. Mùi thơm ngát của thảo dược lan tỏa, xua tan đi sự mệt mỏi trong kinh mạch.</p>
+<br>
+<p>Lâm Phong ngồi xuống đối diện, lấy Truy Phong Cung ra cẩn thận lau chùi. "Huynh cũng đang nghĩ về trận chiến đó phải không?" Tĩnh Sương lên tiếng, phá vỡ sự im lặng.</p>
+<br>
+<p>Lâm Phong dừng tay, khẽ thở dài. "Lệ Vô Tâm... tốc độ thăng tiến của hắn quá đáng sợ. Nếu không có Đại Trưởng Lão, chúng ta e rằng..." Hắn lắc đầu, không nói hết câu. "Nhưng điều huynh lo lắng hơn là Huyết Sát Minh. Bọn chúng có thể dễ dàng chọc thủng Hộ Sơn Đại Trận của Cửu Hoa Kiếm Tông. Quy mô và dã tâm của chúng lớn hơn rất nhiều so với những gì chúng ta tưởng tượng."</p>
+<br>
+<p>"Vì thế, chúng ta không thể giậm chân tại chỗ," Tĩnh Sương kiên định nói, đặt bát thuốc xuống. "Sở Lăng Sương đã bắt đầu bế quan để xung kích Trúc Cơ Trung Kỳ. Ta cũng cần phải mạnh lên. Hàn Mai Kiếm Quyết của ta mới chỉ dừng lại ở tầng thứ ba, ta cảm giác mình đang chạm đến ngưỡng cửa đột phá."</p>
+<br>
+<p>"Thanh Mộc Quyết của huynh cũng vậy. Trải qua những trận chiến sinh tử, mộc linh khí trong cơ thể huynh ngày càng dồi dào, sinh cơ bất tuyệt. Huynh dự định sẽ xin phép vào Tàng Kinh Các của Cửu Hoa Kiếm Tông để tìm hiểu thêm về các trận pháp tự nhiên kết hợp với tiễn thuật," Lâm Phong đáp, ánh mắt sáng lên.</p>
+<br>
+<p>Đúng lúc đó, một bóng người thanh tao lướt đến. Sở Lăng Sương xuất hiện, trên người nàng toát ra một luồng hàn khí nhè nhẹ, nhưng uy áp đã mạnh mẽ hơn trước rất nhiều. Nàng đã chạm tới bình cảnh của Trúc Cơ Trung Kỳ.</p>
+<br>
+<p>"Tĩnh Sương, Lâm Phong," Sở Lăng Sương khẽ gật đầu chào. "Đại Trưởng Lão vừa truyền lệnh xuống. Cửu Hoa Kiếm Tông sẽ đóng cửa sơn môn trong ba tháng để khắc phục hậu quả và củng cố đại trận. Trong khoảng thời gian này, các đệ tử nội môn và khách khanh sẽ được mở cửa Tàng Kinh Các tầng hai, đồng thời được phân bổ tài nguyên tu luyện gấp đôi."</p>
+<br>
+<p>"Đây là cơ hội tuyệt vời," Lâm Phong mừng rỡ.</p>
+<br>
+<p>"Đúng vậy. Đại Trưởng Lão còn đặc biệt nhắn nhủ hai người. Các người đã góp công lớn trong việc vạch trần Lục Trần và bảo vệ ngoại môn. Cửu Hoa Kiếm Tông không bao giờ bạc đãi ân nhân," Sở Lăng Sương mỉm cười nhẹ.</p>
+<br>
+<p>"Đa tạ Đại Trưởng Lão," Diệp Tĩnh Sương chắp tay hướng về phía đỉnh cao nhất của Thiên Hoa Phong.</p>
+<br>
+<p>"Ba tháng," Tĩnh Sương quay sang nhìn Lâm Phong, ánh mắt kiên định. "Trong ba tháng này, chúng ta phải tận dụng mọi tài nguyên, nỗ lực hết mình. Khi sơn môn mở lại, chúng ta phải sẵn sàng đối mặt với bất kỳ cơn bão nào mà Huyết Sát Minh mang đến."</p>
+<br>
+<p>Cả ba người nhìn nhau, không ai nói thêm lời nào, nhưng trong lòng mỗi người đều hiểu rõ. Cuộc chiến thực sự chỉ mới bắt đầu, và để sinh tồn trong thời đại hỗn loạn này, sức mạnh là thứ duy nhất có thể tin tưởng.</p>
+<br>
+<p>Trên đỉnh Thiên Hoa Phong, linh khí bắt đầu hội tụ, báo hiệu một thời kỳ bế quan tu luyện cường độ cao của những thiên tài trẻ tuổi, chuẩn bị cho những thử thách lớn lao ở phía trước.</p>
+<br>
+<p>---</p>
+<p><em>Hết chương 98.</em></p>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

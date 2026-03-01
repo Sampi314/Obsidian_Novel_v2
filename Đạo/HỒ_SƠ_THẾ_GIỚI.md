@@ -177,6 +177,7 @@
         - [Chương 89: Sức Mạnh Tuyệt Đối](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00089_Sức_Mạnh_Tuyệt_Đối.md)
         - [Chương 90: Uy Áp Hóa Thần](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00090_Uy_Áp_Hóa_Thần.md)
         - [Chương 91: Báo Cáo Thất Bại](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00091_Báo_Cáo_Thất_Bại.md)
+        - [Chương 92: Dã Tâm Bừng Sáng](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00092_Dã_Tâm_Bừng_Sáng.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -208,6 +209,7 @@
         - [Chương 95: Huyết Chiến Ngoại Môn](Chương_Truyện/Góc_Nhìn_Chính/Chương_00095_Huyết_Chiến_Ngoại_Môn.md)
         - [Chương 96: Cường Giả Hàng Lâm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00096_Cường_Giả_Hàng_Lâm.md)
         - [Chương 97: Khắc Phục Hậu Quả](Chương_Truyện/Góc_Nhìn_Chính/Chương_00097_Khắc_Phục_Hậu_Quả.md)
+        - [Chương 98: Bế Quan Tu Luyện](Chương_Truyện/Góc_Nhìn_Chính/Chương_00098_Bế_Quan_Tu_Luyện.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)

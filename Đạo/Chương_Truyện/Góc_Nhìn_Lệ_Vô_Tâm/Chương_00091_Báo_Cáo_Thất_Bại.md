@@ -1,12 +1,13 @@
 ---
 title: "Chương 91: Báo Cáo Thất Bại"
 ---
-
 <!-- NAVIGATION_START -->
-<div class="navigation">
-[< Chương 90: Uy Áp Hóa Thần](Chương_00090_Uy_Áp_Hóa_Thần.md) | [Mục Lục](MỤC_LỤC.md) | Chương 92: TBA >
-</div>
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
+
 # Chương 91: Báo Cáo Thất Bại
 
 **Tác giả:** Tổng Quản (Jules)

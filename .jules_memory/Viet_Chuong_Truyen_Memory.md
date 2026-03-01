@@ -409,3 +409,11 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Hạm đội Huyết Sát Minh rút lui. Cửu Hoa Kiếm Tông bắt tay vào dọn dẹp và khắc phục hậu quả ở ngoại môn. Diệp Tĩnh Sương và Lâm Phong nhận ra sự chênh lệch to lớn giữa tu vi của họ và các cường giả chân chính, đồng thời quyết tâm mạnh mẽ hơn. Ở phía bên kia, Lệ Vô Tâm trở về báo cáo với Huyết Tước. Hắn hiểu rõ mình chỉ là quân cờ của Huyết Sát Minh, nhưng mượn lấy tham vọng đó để nuôi dã tâm riêng, tự hứa sẽ đè bẹp cả Chính và Tà.
 - **Tình trạng:** Hoàn thành. Bước chuyển tiếp quan trọng chuẩn bị cho giai đoạn tu luyện cường độ cao và xung đột ở tầm vóc mới.
+
+## Phiên làm việc: Viết Chương 98 (Góc Nhìn Chính) & Chương 92 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 98:** Bế Quan Tu Luyện
+- **Chương 92:** Dã Tâm Bừng Sáng
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Cửu Hoa Kiếm Tông đóng cửa sơn môn ba tháng để khắc phục. Nhóm Tĩnh Sương, Lâm Phong và Lăng Sương nhận được đặc quyền sử dụng tài nguyên tu luyện và Tàng Kinh Các, bắt đầu đợt bế quan cường độ cao để xung kích cảnh giới mới. Về phần Lệ Vô Tâm, hắn được Huyết Thần Tử chữa trị bằng Huyết Độc, tuy đau đớn nhưng hắn coi đây là cơ hội để đột phá và củng cố dã tâm phản nghịch cả Huyết Sát Minh, sẵn sàng dùng mọi thủ đoạn để đạt đến đỉnh cao.
+- **Tình trạng:** Hoàn thành. Kết thúc Arc 4.
