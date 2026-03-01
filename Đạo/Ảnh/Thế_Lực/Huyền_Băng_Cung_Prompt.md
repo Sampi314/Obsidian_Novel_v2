@@ -4,7 +4,7 @@ source: Đạo/Thế_Lực/Huyền_Băng_Cung.md
 
 # HUYỀN BĂNG CUNG (MYSTIC ICE PALACE)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một cung điện lộng lẫy làm hoàn toàn bằng băng tuyết trên đỉnh núi cao.
@@ -20,7 +20,7 @@ Một cung điện lộng lẫy làm hoàn toàn bằng băng tuyết trên đ�
 -   Tông màu chủ đạo: Trắng (White), Xanh băng (Ice Blue), Tím nhạt (Aurora).
 -   Cảm giác: Lạnh giá (Freezing), Cao quý (Royal), Thần tiên (Magical).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),

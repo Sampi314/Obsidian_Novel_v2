@@ -4,7 +4,7 @@ source: Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md
 
 # NÚI ĐỘC LONG (POISON DRAGON MOUNTAIN)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một dãy núi đá đen trần trụi, hình dáng như xương sống rồng.
@@ -20,7 +20,7 @@ Một dãy núi đá đen trần trụi, hình dáng như xương sống rồng.
 -   Tông màu chủ đạo: Đen (Black), Đỏ (Red), Tím (Purple).
 -   Cảm giác: Khắc nghiệt (Harsh), Đe dọa (Threatening), Hùng vĩ (Majestic).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),

@@ -4,7 +4,7 @@ source: Đạo/Thế_Giới_Và_Thời_Gian/Hắc_Sa_Bão.md
 
 # HẮC SA BÃO (BLACK SANDSTORM)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Giữa sa mạc mênh mông, một cơn bão cát đen kịt đang ập tới.
@@ -20,7 +20,7 @@ Giữa sa mạc mênh mông, một cơn bão cát đen kịt đang ập tới.
 -   Tông màu chủ đạo: Đen (Black), Xám đậm (Dark Grey), Nâu (Brown).
 -   Cảm giác: Hủy diệt (Destructive), Tuyệt vọng (Despair), Hùng vĩ (Overwhelming).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (realistic),

@@ -3,13 +3,13 @@
 ## DANH SÁCH VĂN HÓA ĐÃ TẠO
 
 ### 1. Lễ Hội Cực Quang (Aurora Festival)
-- **File:** `Đạo/Văn_Hóa/Lễ_Hội_Cực_Quang.md`
+- **Tệp Tin:** `Đạo/Văn_Hóa/Lễ_Hội_Cực_Quang.md`
 - **Khu vực:** Bắc Băng (Huyền Băng Cung, Băng Tộc)
 - **Thời gian:** Ngày Đông Chí
 - **Tóm tắt:** Lễ hội tưởng nhớ người đã khuất, tín ngưỡng Cực Quang là linh hồn tổ tiên trở về. Nghi thức: Thắp nến băng, Vũ điệu tuyết, Hòa nhạc Băng Cầm, Thả đèn trời. Ẩm thực: Rượu Băng Phách, Cá Hồi Tuyết Sống, Bánh Tuyết.
 
 ### 2. Lễ Hội Kiếm Hoa (Sword Blossom Festival)
-- **File:** `Đạo/Văn_Hóa/Lễ_Hội_Kiếm_Hoa.md`
+- **Tệp Tin:** `Đạo/Văn_Hóa/Lễ_Hội_Kiếm_Hoa.md`
 - **Khu vực:** Đông Hoang (Cửu Hoa Kiếm Tông, Cửu Hoa Sơn)
 - **Thời gian:** Trọng Xuân, kéo dài 9 ngày 9 đêm khi Kiếm Hoa nở
 - **Tóm tắt:** Đại lễ hàng năm lớn nhất của Cửu Hoa Kiếm Tông. Mục đích: tuyển đệ tử, giao lưu kiếm thuật, thi đấu kiếm pháp, kính lễ tiền nhân. Nghi thức chính:
@@ -23,7 +23,7 @@
 - **Liên kết:** Kiếm Hoa là loại linh hoa chỉ mọc ở Cửu Hoa Sơn, 9 cánh Kim quang, nở 9 ngày rồi tàn. Phản ánh triết lý "Kiếm là sinh mạng, hoa là vô thường" của Cửu Hoa Kiếm Quyết.
 
 ### 3. Tang Lễ Tu Sĩ (Cultivator Funeral Rites)
-- **File:** `Đạo/Văn_Hóa/Tang_Lễ_Tu_Sĩ.md`
+- **Tệp Tin:** `Đạo/Văn_Hóa/Tang_Lễ_Tu_Sĩ.md`
 - **Khu vực:** Toàn Cố Nguyên Giới
 - **Tóm tắt:** Hệ thống tang lễ phổ quát của giới tu tiên, phân loại theo cảnh giới:
   - **Luyện Khí - Trúc Cơ:** Hỏa táng đơn giản, Hồn Đăng 49 ngày.
@@ -45,4 +45,4 @@
 - Vạn Cổ Băng Cung (nơi Băng Táng) là địa danh mới, chưa có trong hồ sơ Huyền Băng Cung.
 - Đan Linh Tháp (nơi lưu Linh Cốt Đan) là địa danh mới, chưa có trong hồ sơ Đan Hà Cốc.
 - Linh Đường (祠堂) là công trình phổ biến của mọi tông môn, nơi đặt linh bài tiền bối.
-- Quy Hồn Chú là bài chú phổ biến dùng trong tang lễ, chưa có file riêng.
+- Quy Hồn Chú là bài chú phổ biến dùng trong tang lễ, chưa có Tệp Tin riêng.

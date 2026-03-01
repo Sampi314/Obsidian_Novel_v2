@@ -1,6 +1,6 @@
 ---
-title: "Chương 29: Bí Mật Long Cốt"
-description: "Tại tế đàn trung tâm, nhóm người tìm thấy Long Cốt và phát hiện ra bí mật phong ấn của nó."
+Tiêu Đề: "Chương 29: Bí Mật Long Cốt"
+Mô Tả: "Tại tế đàn trung tâm, nhóm người tìm thấy Long Cốt và phát hiện ra bí mật phong ấn của nó."
 position: 29
 created_at: 2026-03-03
 authors:

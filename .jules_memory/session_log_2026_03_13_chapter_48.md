@@ -1,4 +1,4 @@
-# Session Log: 2026-03-13 (Chapter 48)
+# Session Log: 2026-03-13 (Chương 48)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Tiếp nối mạch truyện sau khi phá hủy Mắt Trận Phụ ở Chương 47. Đưa nhóm nhân vật chính đến nơi an toàn.

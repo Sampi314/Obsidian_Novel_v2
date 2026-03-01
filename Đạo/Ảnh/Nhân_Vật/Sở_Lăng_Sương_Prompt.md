@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Sở_Lăng_Sương.md
 
 # SỞ LĂNG SƯƠNG (SO LANG SUONG)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong hang động băng hoặc rừng tuyết.
@@ -20,7 +20,7 @@ Trong hang động băng hoặc rừng tuyết.
 -   Tông màu chủ đạo: Trắng (White), Xanh nhạt (Pale Blue).
 -   Cảm giác: Tinh khiết (Pure), Kiên cường (Strong-willed), Lạnh (Cold).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (nano banana style),

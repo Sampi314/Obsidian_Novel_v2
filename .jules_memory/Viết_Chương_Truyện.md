@@ -1,7 +1,7 @@
 # NHẬT KÝ HOẠT ĐỘNG: VIẾT CHƯƠNG TRUYỆN
 
 **Phiên làm việc:** 2026-03-02
-**Agent:** Tổng Quản (Jules)
+**Đại Diện:** Tổng Quản (Jules)
 
 ## 1. TỔNG QUAN
 Đã hoàn thành viết Chương 28: Thử Thách Của Lục Ly. Nhóm nhân vật chính đã vượt qua thử thách tâm ma của Hộ Pháp Tinh Linh và được phép tiếp cận Long Cốt.

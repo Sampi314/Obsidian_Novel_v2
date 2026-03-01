@@ -4,7 +4,7 @@ source: Đạo/Luyện_Khí/Nguyệt_Thần_Cung.md
 
 # NGUYỆT THẦN CUNG (MOON GOD BOW)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Đang được kéo căng hoặc đặt trên bệ thờ.
@@ -20,7 +20,7 @@ source: Đạo/Luyện_Khí/Nguyệt_Thần_Cung.md
 -   Tông màu chủ đạo: Bạc (Silver), Xanh lam nhạt (Pale Blue), Trắng (White light).
 -   Cảm giác: Nhẹ nhàng (Lightweight), Quyền năng (Powerful), Thánh khiết (Holy).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (object focus),

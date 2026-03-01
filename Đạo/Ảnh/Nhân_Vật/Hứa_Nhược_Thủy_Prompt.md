@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Hứa_Nhược_Thủy.md
 
 # HỨA NHƯỢC THỦY (HUA RUO SHUI)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong thư phòng sang trọng hoặc giữa sa mạc mênh mông.
@@ -20,7 +20,7 @@ Trong thư phòng sang trọng hoặc giữa sa mạc mênh mông.
 -   Tông màu chủ đạo: Vàng cát (Sand Gold), Xanh lam (Blue), Vàng kim (Gold).
 -   Cảm giác: Sang trọng (Luxurious), Quyền uy (Authoritative), Thông minh (Intelligent).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),

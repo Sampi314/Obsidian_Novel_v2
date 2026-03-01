@@ -7,13 +7,13 @@
 ## 2. CÔNG VIỆC ĐÃ THỰC HIỆN
 
 ### A. Sửa Lỗi Hồ Sơ Nhân Vật
-- **File:** `Đạo/Nhân_Vật/Hứa_Nhược_Thủy.md`
+- **Tệp Tin:** `Đạo/Nhân_Vật/Hứa_Nhược_Thủy.md`
 - **Nội dung sửa:**
   - Thay đổi cảnh giới của con trai Hứa Thanh Vân từ "Kết Đan Kỳ" (sai lệch) thành "Luyện Khí Viên Mãn" (khớp với hồ sơ gốc).
   - Cập nhật trạng thái hiện tại: Đã bị trúng "Huyết Thần Độc" biến thể tại Chương 18.
 
 ### B. Sáng Tạo Nội Dung Mới
-- **File:** `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00019_Hành_Trình_Về_Phía_Đông.md`
+- **Tệp Tin:** `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00019_Hành_Trình_Về_Phía_Đông.md`
 - **Nội dung:**
   - Tiếp nối cliffhanger của Chương 18.
   - Nhóm nhân vật thoát khỏi mật đạo, đối mặt với sa mạc đêm.
@@ -24,10 +24,10 @@
 ### C. Cập Nhật Hệ Thống
 - **Hồ Sơ Thế Giới:** Thêm Chương 19 vào danh sách và cập nhật log hoạt động.
 - **Báo Cáo Chất Lượng:** Ghi nhận phiên làm việc.
-- **Bộ Nhớ Agent:** Cập nhật `Viet_Chuong_Truyen_Memory.md` với tóm tắt của 3 chương mới nhất (17, 18, 19).
+- **Bộ Nhớ Đại Diện:** Cập nhật `Viet_Chuong_Truyen_Memory.md` với tóm tắt của 3 chương mới nhất (17, 18, 19).
 
 ## 3. BÀI HỌC & LƯU Ý
-- **Lưu ý về liên kết:** Cần chú ý đường dẫn tương đối khi tạo file ở các thư mục sâu (ví dụ: từ `Chương_Truyện/Góc_Nhìn_Chính` đến `Nhân_Vật` phải dùng `../../`).
+- **Lưu ý về liên kết:** Cần chú ý đường dẫn tương đối khi tạo Tệp Tin ở các thư mục sâu (ví dụ: từ `Chương_Truyện/Góc_Nhìn_Chính` đến `Nhân_Vật` phải dùng `../../`).
 - **Tính nhất quán:** Việc kiểm tra chéo thông tin giữa các hồ sơ nhân vật (Hứa Nhược Thủy vs Hứa Thanh Vân) là rất quan trọng để tránh sạn logic.
 
 ## 4. KẾ HOẠCH TIẾP THEO

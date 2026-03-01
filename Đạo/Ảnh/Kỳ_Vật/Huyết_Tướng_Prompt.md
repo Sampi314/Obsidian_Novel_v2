@@ -4,7 +4,7 @@ source: Đạo/Kỳ_Vật/Huyết_Tướng.md
 
 # HUYẾT TƯỚNG (BLOOD GENERAL)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Chiến trường hoặc hang động lớn.
@@ -20,7 +20,7 @@ Chiến trường hoặc hang động lớn.
 -   Tông màu chủ đạo: Đỏ thẫm (Crimson), Đen (Black), Cam lửa (Fire Orange).
 -   Cảm giác: Mạnh mẽ (Powerful), Áp đảo (Overwhelming), Tàn ác (Brutal).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (concept art),

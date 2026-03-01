@@ -1,6 +1,6 @@
 ---
-title: "Chương 27: Bí Mật Dưới Đáy Hồ"
-description: "Cuộc chiến sinh tồn tại Ngự Hoa Viên và khám phá bí mật diệt vong của Hoàng Sa Quốc."
+Tiêu Đề: "Chương 27: Bí Mật Dưới Đáy Hồ"
+Mô Tả: "Cuộc chiến sinh tồn tại Ngự Hoa Viên và khám phá bí mật diệt vong của Hoàng Sa Quốc."
 position: 27
 created_at: 2024-05-23
 authors:

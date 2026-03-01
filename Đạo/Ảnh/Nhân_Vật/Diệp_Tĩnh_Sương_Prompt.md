@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md
 
 # DIỆP TĨNH SƯƠNG (DIEP TINH SUONG)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Đứng giữa trời tuyết rơi hoặc trên đỉnh núi băng giá. Khung cảnh lạnh lẽo, cô độc.
@@ -20,7 +20,7 @@ source: Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md
 -   Tông màu chủ đạo: Trắng (White), Xanh băng (Ice Blue), Điểm xuyết Đỏ (Red).
 -   Cảm giác: Lạnh lùng (Cold), Cô độc (Solitary), Kiên cường.
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (nano banana style),

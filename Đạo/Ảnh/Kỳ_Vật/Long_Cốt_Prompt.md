@@ -4,7 +4,7 @@ source: Đạo/Kỳ_Vật/Long_Cốt.md
 
 # LONG CỐT (DRAGON BONE)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Nằm sâu trong hang động hoặc trên tế đàn cổ.
@@ -20,7 +20,7 @@ Nằm sâu trong hang động hoặc trên tế đàn cổ.
 -   Tông màu chủ đạo: Vàng kim (Gold), Trắng ngà (Ivory), Nâu đá (Stone).
 -   Cảm giác: Huyền thoại (Legendary), Sức mạnh tiềm ẩn (Dormant Power).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (concept art),

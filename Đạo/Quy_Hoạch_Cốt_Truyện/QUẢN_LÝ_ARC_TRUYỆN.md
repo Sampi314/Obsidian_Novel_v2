@@ -2,7 +2,7 @@
 
 ## ARC HIỆN TẠI
 
-### 1. Góc Nhìn Chính (Main Story)
+### 1. Góc Nhìn Chính (Main Câu Truyện)
 *   **Trạng Thái:** Đã hoàn thành (Chuyển sang Arc mới).
 *   **Tên Arc:** Khởi Đầu & Lưu Sa Phế Tích -> Huyết Độc Rừng Thiêng (Đã xong).
 *   **Nhân Vật Chính:** Diệp Tĩnh Sương, Lâm Phong.
@@ -150,5 +150,5 @@
 ---
 
 ## HƯỚNG DẪN CẬP NHẬT
-*   Khi mở một Arc mới hoặc thêm một nhân vật quan trọng vào mạch truyện, hãy cập nhật file này.
+*   Khi mở một Arc mới hoặc thêm một nhân vật quan trọng vào mạch truyện, hãy cập nhật Tệp Tin này.
 *   Khi hoàn thành một Arc (ví dụ: xong 5 chương tiền truyện của Lệ Vô Tâm), hãy đổi trạng thái sang "Hoàn Thành" và cập nhật mục tiêu mới.

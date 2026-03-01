@@ -4,7 +4,7 @@ source: Đạo/Đan_Dược/Băng_Tâm_Đan.md
 
 # BĂNG TÂM ĐAN (ICE HEART PILL)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Đặt trong hộp ngọc hoặc cầm trên tay.
@@ -20,7 +20,7 @@ source: Đạo/Đan_Dược/Băng_Tâm_Đan.md
 -   Tông màu chủ đạo: Trắng (White), Xanh dương (Blue).
 -   Cảm giác: Lạnh (Cold), Tinh khiết (Pure), Huyền diệu (Magical).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (macro shot),

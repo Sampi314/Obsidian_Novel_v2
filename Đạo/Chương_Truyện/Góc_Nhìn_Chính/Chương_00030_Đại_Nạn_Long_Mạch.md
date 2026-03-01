@@ -1,6 +1,6 @@
 ---
-title: "Chương 30: Đại Nạn Long Mạch"
-description: "Phong ấn Long Cốt vỡ nát, Địa Sát thoát ra. Lục Ly hy sinh thân mình để mở đường máu cho nhóm người chạy thoát."
+Tiêu Đề: "Chương 30: Đại Nạn Long Mạch"
+Mô Tả: "Phong ấn Long Cốt vỡ nát, Địa Sát thoát ra. Lục Ly hy sinh thân mình để mở đường máu cho nhóm người chạy thoát."
 position: 30
 created_at: 2026-03-04
 authors:

@@ -4,7 +4,7 @@ source: Đạo/Kỳ_Vật/Tuyết_Liên_Hoa.md
 
 # TUYẾT LIÊN HOA (SNOW LOTUS)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Nở trên đỉnh núi tuyết vĩnh cửu.
@@ -20,7 +20,7 @@ Nở trên đỉnh núi tuyết vĩnh cửu.
 -   Tông màu chủ đạo: Trắng (White), Xanh băng (Ice Blue).
 -   Cảm giác: Lạnh giá (Cold), Tinh khiết (Pure), Quý hiếm (Rare).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (macro shot),

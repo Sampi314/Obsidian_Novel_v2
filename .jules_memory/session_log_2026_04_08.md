@@ -1,7 +1,7 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC 2026-04-08
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 72 "Hàn Băng Phá Trận" cho Góc Nhìn Lệ Vô Tâm, khép lại trận chiến tại Quỷ Khốc Cốc.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM

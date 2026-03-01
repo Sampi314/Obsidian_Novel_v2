@@ -2,7 +2,7 @@
 
 ## 1. Tổng Quan
 - **Vai Trò:** Tổng Quản (Jules)
-- **Mục Tiêu:** Tiếp nối mạch truyện chính sau Chương 22 và mở rộng World Building cho khu vực Rừng Huyết Độc.
+- **Mục Tiêu:** Tiếp nối mạch truyện chính sau Chương 22 và mở rộng Thế Giới Kiến Trúc cho khu vực Rừng Huyết Độc.
 
 ## 2. Các Thay Đổi
 - **Tạo Mới:**
@@ -14,7 +14,7 @@
 
 ## 3. Phân Tích & Ghi Chú
 - **Cốt Truyện:** Nhóm nhân vật chính đã đi vào sâu trong Rừng Huyết Độc. Họ tìm thấy hang động trú ẩn nhưng đó thực chất là một cái bẫy ("điểm tập kết") do Vạn Độc Môn sắp đặt. Chi tiết này mở đường cho việc họ nhận ra mình đang bị lùa vào một khu vực cụ thể để bị tiêu diệt tập trung.
-- **World Building:** Nhện Mặt Quỷ được thêm vào để làm phong phú hệ sinh thái Rừng Huyết Độc, đồng thời cung cấp vật liệu (nội đan, túi độc) cho nhân vật sau này.
+- **Thế Giới Kiến Trúc:** Nhện Mặt Quỷ được thêm vào để làm phong phú hệ sinh thái Rừng Huyết Độc, đồng thời cung cấp vật liệu (nội đan, túi độc) cho nhân vật sau này.
 
 ## 4. Kế Hoạch Tiếp Theo (TODO)
 - **Ưu Tiên:**

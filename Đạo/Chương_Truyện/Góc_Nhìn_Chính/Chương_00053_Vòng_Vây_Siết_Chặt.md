@@ -71,7 +71,7 @@ Trong khi đó, tại trung tâm Vạn Độc Cốc, [Lệ Vô Tâm](../../Nhân
 "Chuột nhắt chạy vào bẫy rồi. Kích hoạt... Huyết Mạng."
 
 ## III. GHI CHÚ
-- **Action:** Trận chiến ngắn nhưng kịch tính, thể hiện sự quyết đoán của nhóm nhân vật.
+- **Hành Động:** Trận chiến ngắn nhưng kịch tính, thể hiện sự quyết đoán của nhóm nhân vật.
 - **Atmosphere:** Bầu không khí ngột ngạt, căng thẳng, nguy hiểm rình rập từ mọi phía.
-- **Plot Progression:** Nhóm nhân vật bị đẩy vào tình thế "tránh vỏ dưa gặp vỏ dừa", buộc phải khám phá vùng đất mới nguy hiểm hơn.
+- **Cốt Truyện Progression:** Nhóm nhân vật bị đẩy vào tình thế "tránh vỏ dưa gặp vỏ dừa", buộc phải khám phá vùng đất mới nguy hiểm hơn.
 - **Foreshadowing:** Sự xuất hiện của "Huyết Mạng" và con đường mòn cổ xưa hứa hẹn những thử thách mới.

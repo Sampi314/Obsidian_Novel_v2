@@ -1,6 +1,6 @@
 ---
-title: "Chương 81: Bí Cảnh Huyết Sát"
-description: "Lệ Vô Tâm dưỡng thương tại Huyết Uyên Đảo của Huyết Sát Minh, đối mặt với sự thao túng mới từ Minh Chủ và quyết tâm tái khởi động đại kế báo thù."
+Tiêu Đề: "Chương 81: Bí Cảnh Huyết Sát"
+Mô Tả: "Lệ Vô Tâm dưỡng thương tại Huyết Uyên Đảo của Huyết Sát Minh, đối mặt với sự thao túng mới từ Minh Chủ và quyết tâm tái khởi động đại kế báo thù."
 ---
 <!-- NAVIGATION_START -->
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>

@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Đan_Dương_Tử.md
 
 # ĐAN DƯƠNG TỬ (DAN DUONG TU)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong phòng luyện đan với lò đan khổng lồ hoặc biển lửa.
@@ -20,7 +20,7 @@ Trong phòng luyện đan với lò đan khổng lồ hoặc biển lửa.
 -   Tông màu chủ đạo: Đỏ (Red), Cam (Orange), Vàng (Gold).
 -   Cảm giác: Nóng (Hot), Mạnh mẽ (Powerful), Bùng nổ (Explosive).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),

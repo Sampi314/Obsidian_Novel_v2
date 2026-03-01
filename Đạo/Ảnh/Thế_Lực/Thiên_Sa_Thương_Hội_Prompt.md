@@ -4,7 +4,7 @@ source: Đạo/Thế_Lực/Thiên_Sa_Thương_Hội.md
 
 # THIÊN SA THƯƠNG HỘI (HEAVENLY SAND MERCHANT GUILD)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một tòa thương các lộng lẫy giữa ốc đảo hoặc thành phố sa mạc.
@@ -20,7 +20,7 @@ Một tòa thương các lộng lẫy giữa ốc đảo hoặc thành phố sa 
 -   Tông màu chủ đạo: Vàng kim (Gold), Đỏ nhung (Velvet Red), Xanh ngọc (Turquoise).
 -   Cảm giác: Sang trọng (Opulent), Quyền lực tài chính (Financial Power), Nhộn nhịp (Bustling).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (concept art),

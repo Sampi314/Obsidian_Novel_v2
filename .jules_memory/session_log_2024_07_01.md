@@ -10,11 +10,11 @@
 ## II. CHI TIẾT THỰC HIỆN
 
 ### 1. Kiến Tạo Địa Danh
-- **File:** `Đạo/Thế_Giới_Và_Thời_Gian/Trạm_Dừng_Chân_Số_7.md`
+- **Tệp Tin:** `Đạo/Thế_Giới_Và_Thời_Gian/Trạm_Dừng_Chân_Số_7.md`
 - **Nội dung:** Mô tả chi tiết kiến trúc, hệ thống phòng thủ, nhân vật quan trọng (Trạm Trưởng Lão Hắc) và vai trò trong cốt truyện.
 
 ### 2. Viết Chương Truyện
-- **File:** `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00017_Mưu_Đồ_Bóng_Tối.md`
+- **Tệp Tin:** `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00017_Mưu_Đồ_Bóng_Tối.md`
 - **Nội dung:**
     - Nhóm nhân vật chính trở về an toàn.
     - Hứa Thanh Vân đoàn tụ với mẹ (Hứa Nhược Thủy).
@@ -28,7 +28,7 @@
 
 ## III. BÀI HỌC & LƯU Ý
 - Cần chú ý phát triển thêm tuyến nhân vật phản diện (Vạn Độc Môn) trong các chương tới để tăng sức ép.
-- Chương 18 nên là một chương hành động dồn dập (Action-packed) để giải quyết tình huống cliffhanger hiện tại.
+- Chương 18 nên là một chương hành động dồn dập (Hành Động-packed) để giải quyết tình huống cliffhanger hiện tại.
 
 ## IV. TODO CHO PHIÊN SAU
 1.  Viết `Chương 18: Huyết Chiến Trạm Dừng Chân`.

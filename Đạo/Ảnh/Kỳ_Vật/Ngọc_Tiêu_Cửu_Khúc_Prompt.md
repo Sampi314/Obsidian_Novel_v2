@@ -4,7 +4,7 @@ source: Đạo/Luyện_Khí/Ngọc_Tiêu_Cửu_Khúc.md
 
 # NGỌC TIÊU CỬU KHÚC (NINE MELODIES JADE FLUTE)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Cầm trên tay hoặc đặt bên cạnh hoa.
@@ -20,7 +20,7 @@ Cầm trên tay hoặc đặt bên cạnh hoa.
 -   Tông màu chủ đạo: Xanh lục (Green), Vàng (Gold tassels).
 -   Cảm giác: Thanh tao (Elegant), Nghệ thuật (Artistic), Cổ điển (Classic).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (object focus),

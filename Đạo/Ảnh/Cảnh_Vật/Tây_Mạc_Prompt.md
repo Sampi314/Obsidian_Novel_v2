@@ -4,7 +4,7 @@ source: Đạo/Thế_Giới_Và_Thời_Gian/Tây_Mạc.md
 
 # TÂY MẠC (WESTERN DESERT)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Sa mạc mênh mông bát ngát, cồn cát nối tiếp nhau đến tận chân trời.
@@ -20,7 +20,7 @@ Sa mạc mênh mông bát ngát, cồn cát nối tiếp nhau đến tận chân
 -   Tông màu chủ đạo: Vàng (Gold), Cam (Orange), Xanh trời (Sky Blue).
 -   Cảm giác: Rộng lớn (Vast), Cô quạnh (Lonely), Khắc nghiệt (Harsh).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),

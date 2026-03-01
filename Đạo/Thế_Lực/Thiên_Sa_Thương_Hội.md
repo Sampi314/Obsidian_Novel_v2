@@ -120,7 +120,7 @@ Bốn gia tộc thương nhân hùng mạnh nhất, mỗi gia tộc kiểm soát
 ---
 
 ## V. CÔNG PHÁP & BÍ KỸ
-- **Công Pháp Trấn Hội:** *(Sẽ được tạo chi tiết bởi Agent Công Pháp)*
+- **Công Pháp Trấn Hội:** *(Sẽ được tạo chi tiết bởi Đại Diện Công Pháp)*
     - Tương truyền Thương Hội sở hữu một bộ công pháp bí truyền gọi là **Sa Hà Bảo Điển** — công pháp hệ Thổ-Phong chuyên về phòng ngự và ẩn thân, cho phép tu sĩ hóa thân thành cát, di chuyển xuyên sa mạc như cá bơi trong nước.
     - Sa Ảnh Sát Thủ tu luyện nhánh sát thủ của bộ công pháp này: **Sa Ảnh Quyết** — bí thuật ẩn mình trong bóng cát, xuất thủ nhanh như chớp.
 - **Hộ Sơn Đại Trận:** **Sa Thành Hộ Giới Trận** — trận pháp phòng thủ đa tầng bao phủ toàn Thiên Sa Thương Thành, huy động Sa Linh Khí tạo thành bức tường cát bất khả xâm phạm.

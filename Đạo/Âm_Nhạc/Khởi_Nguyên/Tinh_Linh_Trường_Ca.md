@@ -119,5 +119,5 @@ Nguyện kiếp sau... lại thấy rừng xanh...
 
 ### IV. THÔNG TIN BỔ SUNG
 *   **Ý Nghĩa/Thông Điệp:** Bài hát thể hiện nỗi đau mất mát quê hương của tộc Tinh Linh và ý chí hy sinh để bảo vệ mầm sống cuối cùng.
-*   **Suno AI Style Prompt:**
-    > Epic Orchestral, Ethereal, Fantasy Music, Celtic Influence, Bamboo Flute (Xiao), Harp, Strings Section, Taiko Drums (Background), Female Soprano Vocals, Melancholic, Majestic, Hopeful, Determination.
+*   **Suno AI Style Chỉ Lệnh:**
+    > Epic Orchestral, Ethereal, Fantasy Music, Celtic Influence, Bamboo Flute (Xiao), Harp, Strings Section, Taiko Drums (Bối Cảnh), Female Soprano Vocals, Melancholic, Majestic, Hopeful, Determination.

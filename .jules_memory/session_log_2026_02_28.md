@@ -7,7 +7,7 @@
 
 ## 2. CÔNG VIỆC THỰC HIỆN
 - **Khởi tạo Lore:**
-  - Tạo file `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
+  - Tạo Tệp Tin `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
   - Mô tả chi tiết 3 khu vực: Ổ Nhện, Dưỡng Thi Địa, Mạch Ngầm.
   - Cập nhật `Đạo/Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md` để thêm liên kết.
 

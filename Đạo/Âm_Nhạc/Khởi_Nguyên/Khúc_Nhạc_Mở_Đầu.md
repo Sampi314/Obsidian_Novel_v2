@@ -12,7 +12,7 @@ dạng_cấu_trúc: BGM / Giao Hưởng Sử Thi (Epic Orchestral)
 
 ---
 
-## 🎵 Mô Tả Chi Tiết (Musical Description)
+## 🎵 Mô Tả Chi Tiết (Musical Mô Tả)
 
 ### 1. Mở Đầu (Intro - 0:00 ~ 0:45)
 *   **Âm thanh:** Tiếng gió rít qua khe núi (hiệu ứng môi trường), tiếng chuông gió xa xăm.
@@ -36,13 +36,13 @@ dạng_cấu_trúc: BGM / Giao Hưởng Sử Thi (Epic Orchestral)
 
 ---
 
-## 📝 Gợi Ý Prompt (Suno AI / Udio)
+## 📝 Gợi Ý Chỉ Lệnh (Suno AI / Udio)
 
 > **Style:** Cinematic, Epic Orchestral, Chinese Traditional Instruments, Guzheng, Erhu, War Drums, Majestic, Sorrowful, Atmospheric.
 >
-> **Description:** A grand and sorrowful orchestral piece depicting an ancient cultivation world. Starts with a lonely Guqin, builds up with emotional Erhu and heavy strings. Explodes into a majestic climax with war drums and brass horns, representing epic battles. Ends with a fading, melancholic Erhu solo and a temple bell.
+> **Mô Tả:** A grand and sorrowful orchestral piece depicting an ancient cultivation Thế Giới. Starts with a lonely Guqin, builds up with emotional Erhu and heavy strings. Explodes into a majestic climax with war drums and brass horns, representing epic battles. Ends with a fading, melancholic Erhu solo and a temple bell.
 
 ---
 
-## 📜 Lời Bình (Creator's Note)
+## 📜 Lời Bình (Creator's Lưu Ý)
 *"Đây là khúc nhạc dành cho màn sương mù của lịch sử, nơi vạn vật sinh sôi từ hỗn mang và những kẻ cầu đạo ngã xuống để lót đường cho kẻ đi sau. Nó không phải là khúc ca khải hoàn, mà là khúc niệm cho sự vĩ đại của sinh mệnh."*

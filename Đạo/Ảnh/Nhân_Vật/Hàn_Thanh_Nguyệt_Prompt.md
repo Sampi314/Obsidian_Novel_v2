@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Hàn_Thanh_Nguyệt.md
 
 # HÀN THANH NGUYỆT (HAN THANH NGUYET)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong một con hẻm tối hoặc trên mái nhà dưới ánh trăng khuyết. Không gian u tối, bí ẩn.
@@ -20,7 +20,7 @@ Trong một con hẻm tối hoặc trên mái nhà dưới ánh trăng khuyết.
 -   Tông màu chủ đạo: Đen (Black), Xanh đêm (Midnight Blue), Bạc (Silver Moonlight).
 -   Cảm giác: Bí ẩn (Mysterious), Nguy hiểm (Dangerous), Sắc bén.
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),

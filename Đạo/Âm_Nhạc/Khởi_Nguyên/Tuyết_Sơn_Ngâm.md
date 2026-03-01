@@ -1,5 +1,5 @@
 ---
-title: Tuyết Sơn Ngâm
+Tiêu Đề: Tuyết Sơn Ngâm
 era: Khởi Nguyên
 dạng_cấu_trúc: C1 - Cổ Phong Thuần Túy
 ---
@@ -89,5 +89,5 @@ Chi bằng quay về với sự tịch liêu cô độc
 
 ### IV. THÔNG TIN BỔ SUNG
 *   **Ý Nghĩa/Thông Điệp:** Bài hát mượn cảnh tuyết rơi ở biên ải (lấy ý từ thơ Sầm Tham và Vương Duy) để nói lên nỗi lòng cô độc nhưng thanh cao của người tu tiên. Giữa thiên nhiên khắc nghiệt, đạo tâm vẫn sáng như băng tuyết.
-*   **Suno AI Style Prompt:**
+*   **Suno AI Style Chỉ Lệnh:**
     > Traditional Chinese Instruments, Ethereal Vocals, Guqin Solo, Melancholic, Slow Tempo, Cinematic Atmosphere, Xianxia, Ice, Snow, Solitude, Cultivation.

@@ -4,7 +4,7 @@ source: Đạo/Luyện_Khí/Huyết_Độc_Phiến.md
 
 # HUYẾT ĐỘC PHIẾN (BLOOD POISON FAN)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Mở ra trên tay hoặc bay lơ lửng.
@@ -21,7 +21,7 @@ Mở ra trên tay hoặc bay lơ lửng.
 -   Tông màu chủ đạo: Trắng xương (Bone White), Đỏ huyết (Blood Red), Tím (Purple).
 -   Cảm giác: Sắc bén (Sharp), Độc địa (Venomous), Nghệ thuật (Artistic but deadly).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (object focus),

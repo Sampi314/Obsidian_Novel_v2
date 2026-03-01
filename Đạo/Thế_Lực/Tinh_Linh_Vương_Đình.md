@@ -23,7 +23,7 @@ Hệ thống quân chủ được Tự Nhiên (Cây Thế Giới) lựa chọn.
 - **Kỹ Năng:** Chữa lành, Nói chuyện với thực vật, Ẩn mình trong rừng, Bắn cung xa vạn dặm bách phát bách trúng.
 
 ## 4. Lịch Sử & Nguồn Gốc
-Là một trong những chủng tộc lâu đời nhất, được sinh ra từ hạt giống của Cây Thế Giới (World Tree) ở Kỷ Nguyên Khởi Nguyên. Tinh Linh từng có quan hệ tốt với các tộc, nhưng sau khi bị săn lùng vì vẻ đẹp và năng lượng thanh tẩy, họ đã cô lập mình trong Vĩnh Hằng Sâm Lâm.
+Là một trong những chủng tộc lâu đời nhất, được sinh ra từ hạt giống của Cây Thế Giới (Thế Giới Tree) ở Kỷ Nguyên Khởi Nguyên. Tinh Linh từng có quan hệ tốt với các tộc, nhưng sau khi bị săn lùng vì vẻ đẹp và năng lượng thanh tẩy, họ đã cô lập mình trong Vĩnh Hằng Sâm Lâm.
 
 ## 5. Quan Hệ Chủng Tộc & Thế Lực Khác
 - **Thân thiện:** Yêu Tộc (tôn trọng rừng), Thạch Tộc.

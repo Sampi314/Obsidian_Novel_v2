@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Lục_Tiêu.md
 
 # LỤC TIÊU (LUC TIEU)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong rừng sâu, ngồi trên cành cây cổ thụ hoặc bên suối.
@@ -20,7 +20,7 @@ Trong rừng sâu, ngồi trên cành cây cổ thụ hoặc bên suối.
 -   Tông màu chủ đạo: Xanh lá (Green), Nắng vàng (Sunlight), Nâu gỗ (Wood).
 -   Cảm giác: Thơ mộng (Poetic), Bình yên (Peaceful), Tự nhiên (Natural).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),

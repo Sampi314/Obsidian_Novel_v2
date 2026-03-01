@@ -4,7 +4,7 @@ source: Đạo/Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md
 
 # TINH LINH CỔ NGỌC (ANCIENT ELF JADE)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Cầm trên tay hoặc đeo trên cổ.
@@ -20,7 +20,7 @@ Cầm trên tay hoặc đeo trên cổ.
 -   Tông màu chủ đạo: Xanh ngọc (Jade Green), Bạc (Silver), Trắng (White light).
 -   Cảm giác: Cổ xưa (Ancient), Tinh khiết (Pure), Huyền bí (Magical).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (close up),

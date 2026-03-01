@@ -1,4 +1,4 @@
-# Session Log: 2026-03-12 (Chapter 47)
+# Session Log: 2026-03-12 (Chương 47)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Viết tiếp mạch truyện đang dang dở tại Rừng Huyết Độc (Chương 46).

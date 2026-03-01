@@ -151,5 +151,5 @@ Giấc mộng hồng trần... khi tỉnh giấc... tay trắng...
 
 ### IV. THÔNG TIN BỔ SUNG
 *   **Ý Nghĩa/Thông Điệp:** Bài hát là tiếng lòng của một tu sĩ đã đạt được trường sinh nhưng đánh đổi bằng sự cô độc vĩnh cửu. Nhìn lại quê hương, người thân, người yêu đều đã hóa thành cát bụi, hắn tự hỏi "Trường sinh để làm gì?".
-*   **Suno AI Style Prompt:**
+*   **Suno AI Style Chỉ Lệnh:**
     > Ancient Chinese Style, Guqin, Xiao Flute, Melancholic, Ballad, Male Vocals, Slow Tempo, Emotional, Ethereal, Reverb.

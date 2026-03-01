@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Lục_Trần.md
 
 # LỤC TRẦN (LUC TRAN)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trên đỉnh núi cao mây mù bao phủ (Thiên Hoa Phong), bên cạnh hồ sen.
@@ -20,7 +20,7 @@ Trên đỉnh núi cao mây mù bao phủ (Thiên Hoa Phong), bên cạnh hồ s
 -   Tông màu chủ đạo: Trắng (White), Xanh ngọc (Jade Green), Mây trắng (Cloud White).
 -   Cảm giác: Thanh cao (Noble), Trí tuệ (Wise), Tĩnh lặng (Calm).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),

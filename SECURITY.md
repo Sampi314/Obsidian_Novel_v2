@@ -12,7 +12,7 @@ Chúng tôi hỗ trợ các phiên bản mới nhất của dự án trên nhán
 
 ## 🐛 Báo Cáo Lỗ Hổng Bảo Mật (Reporting a Vulnerability)
 
-Nếu bạn phát hiện bất kỳ vấn đề nào liên quan đến bảo mật (ví dụ: lộ thông tin cá nhân trong file Markdown, script độc hại), vui lòng làm theo các bước sau:
+Nếu bạn phát hiện bất kỳ vấn đề nào liên quan đến bảo mật (ví dụ: lộ thông tin cá nhân trong Tệp Tin Markdown, script độc hại), vui lòng làm theo các bước sau:
 
 1.  **KHÔNG** mở Issue công khai.
 2.  Gửi báo cáo chi tiết đến email: `security@example.com` (Thay bằng email thực tế của người duy trì nếu có).

@@ -4,7 +4,7 @@
 
 ---
 
-## I. CÁC FILE ĐÃ TẠO
+## I. CÁC Tệp Tin ĐÃ TẠO
 
 ### 1. `Đạo/Tu_Luyện/Hệ_Thống_Cảnh_Giới.md`
 - **Nội dung:** 9 đại cảnh giới từ Luyện Khí đến Độ Kiếp.
@@ -50,7 +50,7 @@
 
 ## III. ĐIỂM CẦN LƯU Ý
 
-- **HỒ SƠ THẾ GIỚI chưa cập nhật** hai file mới (Tâm_Ma_Kiếp_Nạn.md, Phân_Loại_Tu_Sĩ.md). Cần agent khác hoặc lần chạy sau bổ sung.
+- **HỒ SƠ THẾ GIỚI chưa cập nhật** hai Tệp Tin mới (Tâm_Ma_Kiếp_Nạn.md, Phân_Loại_Tu_Sĩ.md). Cần Đại Diện khác hoặc lần chạy sau bổ sung.
 - Cửu Thiên Thần Lôi chưa ghi nhận tại Kỷ Nguyên Khởi Nguyên (vì chưa ai đạt Độ Kiếp).
 - Hệ thống phân loại hiện tại chưa có **Lôi Tu** (Sấm Sét) và **Phật Tu** --- có thể bổ sung sau.
 - Thể Tu liên hệ mật thiết với Cự Tộc và Thạch Tộc --- nên tham khảo khi viết arc liên quan.

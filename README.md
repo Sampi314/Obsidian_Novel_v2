@@ -2,22 +2,22 @@
 
 Chào mừng đến với kho lưu trữ dữ liệu thế giới Tiên Hiệp "Cố Nguyên". Đây là nơi lưu trữ toàn bộ thông tin về nhân vật, tông môn, công pháp, lịch sử và văn hóa của thế giới tu chân này.
 
-## 📖 Đọc Truyện (Read Story)
+## 📖 Đọc Truyện (Read Câu Truyện)
 
 Truy cập ngay vào mục lục tổng hợp để đọc các chương truyện mới nhất:
 👉 **[Mục Lục Tổng Hợp (Story Index)](https://sampi314.github.io/Obsidian_Novel_v2/index.html)**
 
 ---
 
-## 📚 Hồ Sơ Thế Giới (World Wiki)
+## 📚 Hồ Sơ Thế Giới (Thế Giới Wiki)
 
 Thông tin chi tiết về thế giới, nhân vật và hệ thống tu luyện.
 
 *   **[Hồ Sơ Thế Giới (World Profile)](https://sampi314.github.io/Obsidian_Novel_v2/Đạo/HỒ_SƠ_THẾ_GIỚI)**: Tài liệu quan trọng nhất chứa thông tin nền tảng về địa lý, cảnh giới, và lịch sử.
 
-### 1. Danh Sách Nhân Vật (Character List)
+### 1. Danh Sách Nhân Vật (Nhân Vật List)
 <!-- CHARACTER_LIST_START -->
-| Tên Nhân Vật | Thông Tin (Chủng Tộc / Cảnh Giới) | File |
+| Tên Nhân Vật | Thông Tin (Chủng Tộc / Cảnh Giới) | Tệp Tin |
 | :--- | :--- | :--- |
 | Diệp Thanh Y | Nhân Tộc (Mộc Linh Thể). Hóa Thần Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Diệp_Thanh_Y.md) |
 | Diệp Tĩnh Sương | Nhân Tộc. Trúc Cơ Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md) |
@@ -40,7 +40,7 @@ Thông tin chi tiết về thế giới, nhân vật và hệ thống tu luyện
 
 ### 2. Danh Sách Công Pháp (Technique List)
 <!-- TECHNIQUE_LIST_START -->
-| Tên Công Pháp | Thông Tin (Phẩm Cấp / Thuộc Tính) | File |
+| Tên Công Pháp | Thông Tin (Phẩm Cấp / Thuộc Tính) | Tệp Tin |
 | :--- | :--- | :--- |
 | Băng Tâm Quyết | Thiên Cấp Hạ Phẩm (Heaven Rank Low Grade). Băng (Hàn). | [Xem Chi Tiết](Đạo/Công_Pháp/Băng_Tâm_Quyết.md) |
 | Cửu Chuyển Đan Hỏa Quyết | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Hóa Thần Cảnh). Hỏa (Chủ đạo), Mộc (Hỗ trợ sinh cơ cho lửa). | [Xem Chi Tiết](Đạo/Công_Pháp/Cửu_Chuyển_Đan_Hỏa_Quyết.md) |
@@ -85,14 +85,14 @@ Mọi dữ liệu thế giới được lưu trữ trong thư mục `Đạo/`:
 1.  **Đọc Hồ Sơ:** Luôn bắt đầu bằng việc kiểm tra `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để nắm bối cảnh.
 2.  **Thực Thi:** Sử dụng các công cụ có sẵn để tạo nội dung mới.
 3.  **Lưu Trữ:**
-    *   Lưu file vào đúng thư mục con trong `Đạo/`.
-    *   Tên file phải là Tiếng Việt có dấu, thay khoảng trắng bằng `_`.
+    *   Lưu Tệp Tin vào đúng thư mục con trong `Đạo/`.
+    *   Tên Tệp Tin phải là Tiếng Việt có dấu, thay khoảng trắng bằng `_`.
 4.  **Cập Nhật:**
     *   Thêm tóm tắt nội dung mới vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
 ## 🔧 Cài Đặt (Setup)
 
-Nếu bạn thấy tên file bị lỗi hiển thị (ví dụ `\\304\\220...`), hãy chạy lệnh sau để khắc phục:
+Nếu bạn thấy tên Tệp Tin bị lỗi hiển thị (ví dụ `\\304\\220...`), hãy chạy lệnh sau để khắc phục:
 
 ```bash
 bash scripts/setup_git.sh

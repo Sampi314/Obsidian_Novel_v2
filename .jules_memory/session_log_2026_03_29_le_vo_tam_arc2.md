@@ -1,8 +1,8 @@
 # Session Log - 2026-03-29 (Lệ Vô Tâm - Arc 2)
 
 ## 1. Thông tin phiên
-- **Role:** Tổng Quản
-- **Date:** 2026-03-29
+- **Vai Trò:** Tổng Quản
+- **Ngày:** 2026-03-29
 - **Focus:** Viết tiếp Arc 2 "Huyết Thủ Thư Sinh" cho Lệ Vô Tâm (Chương 44-46).
 
 ## 2. Các thay đổi đã thực hiện

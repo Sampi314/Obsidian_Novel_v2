@@ -4,7 +4,7 @@ source: Đạo/Kỳ_Vật/Hỏa_Linh_Thảo.md
 
 # HỎA LINH THẢO (FIRE SPIRIT HERB)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Mọc trên đá núi lửa đen hoặc gần dung nham.
@@ -20,7 +20,7 @@ Mọc trên đá núi lửa đen hoặc gần dung nham.
 -   Tông màu chủ đạo: Đỏ (Red), Cam (Orange), Đen (Black rock).
 -   Cảm giác: Năng lượng (Energetic), Nóng (Hot), Sức sống (Vitality).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (macro shot),

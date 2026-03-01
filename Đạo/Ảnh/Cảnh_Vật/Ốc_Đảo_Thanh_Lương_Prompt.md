@@ -4,7 +4,7 @@ source: Đạo/Thế_Giới_Và_Thời_Gian/Ốc_Đảo_Thanh_Lương.md
 
 # ỐC ĐẢO THANH LƯƠNG (REFRESHING OASIS)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một thiên đường xanh tươi giữa lòng sa mạc nóng bỏng.
@@ -20,7 +20,7 @@ Một thiên đường xanh tươi giữa lòng sa mạc nóng bỏng.
 -   Tông màu chủ đạo: Xanh ngọc (Turquoise), Xanh lá (Green), Vàng nhạt (Sand surrounding).
 -   Cảm giác: Tươi mát (Refreshing), Bình yên (Peaceful), Sống động (Lively).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),

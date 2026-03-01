@@ -1,7 +1,7 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC (2026-03-23)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 60 và tạo hồ sơ kỳ vật mới xuất hiện.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM

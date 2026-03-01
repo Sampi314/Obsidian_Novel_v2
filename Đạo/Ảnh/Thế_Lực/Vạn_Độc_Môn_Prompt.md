@@ -4,7 +4,7 @@ source: Đạo/Thế_Lực/Vạn_Độc_Môn.md
 
 # VẠN ĐỘC MÔN (TEN THOUSAND POISONS SECT)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một thung lũng âm u, đầy chướng khí và côn trùng độc.
@@ -20,7 +20,7 @@ Một thung lũng âm u, đầy chướng khí và côn trùng độc.
 -   Tông màu chủ đạo: Tím (Purple), Xanh lục neon (Toxic Green), Đen (Black).
 -   Cảm giác: Nguy hiểm (Toxic), Ghê rợn (Creepy), Bí ẩn (Occult).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),

@@ -4,7 +4,7 @@ source: Đạo/Kỳ_Vật/Vạn_Độc_Châu.md
 
 # VẠN ĐỘC CHÂU (TEN THOUSAND POISONS PEARL)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Bay lơ lửng hoặc đặt trên bệ đá.
@@ -20,7 +20,7 @@ Bay lơ lửng hoặc đặt trên bệ đá.
 -   Tông màu chủ đạo: Tím đen (Dark Purple), Xanh lục (Green glow).
 -   Cảm giác: Nguy hiểm (Toxic), Quyền lực (Power), Ma mị (Evil).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (close up),

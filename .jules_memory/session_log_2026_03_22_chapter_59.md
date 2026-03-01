@@ -1,7 +1,7 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC (2026-03-22)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 59 và cập nhật hồ sơ liên quan đến hệ thống Ám Đạo của Vạn Độc Môn.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM

@@ -4,7 +4,7 @@ source: Đạo/Thế_Giới_Và_Thời_Gian/Nam_Cương.md
 
 # NAM CƯƠNG (SOUTHERN BORDER)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Vùng rừng núi nhiệt đới rậm rạp, hoang sơ và nguy hiểm.
@@ -20,7 +20,7 @@ Vùng rừng núi nhiệt đới rậm rạp, hoang sơ và nguy hiểm.
 -   Tông màu chủ đạo: Xanh lá (Green), Xanh rêu (Mossy), Sương mù (Mist).
 -   Cảm giác: Bí hiểm (Mysterious), Tràn đầy sức sống (Vibrant but deadly).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),
