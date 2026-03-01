@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HỒ SƠ NHÂN VẬT: HẮC HẠT MA TRÙNG (黑蝎魔蟲)</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Nhân_Vật/Hắc_Hạt_Ma_Trùng.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<h1>HỒ SƠ NHÂN VẬT: HẮC HẠT MA TRÙNG (黑蝎魔蟲)</h1>
+<br>
+<h2>1. THÔNG TIN CƠ BẢN</h2>
+<ul>
+<li><strong>Tên Đầy Đủ:</strong> Hắc Hạt Ma Trùng (Tự phong: Ma Trùng Đại Đế - 魔蟲大帝).</li>
+<li><strong>Tuổi:</strong> Không xác định (Tái sinh liên tục qua hàng ngàn năm).</li>
+<li><strong>Giới Tính:</strong> Lưỡng tính / Không xác định (Bản thể là một Hive Mind có thể hóa hình).</li>
+<li><strong>Chủng Tộc:</strong> Trùng Tộc.</li>
+<li><strong>Tu Vi / Cảnh Giới:</strong> Tương đương Nguyên Anh Hậu Kỳ (Nhưng có khả năng bùng phát Trùng Triều uy hiếp Hóa Thần Cảnh).</li>
+<li><strong>Thế Lực Trực Thuộc:</strong> Vạn Trùng Cốc (Bên ngoài) / Trùng Sào Vô Tận (Thực chất).</li>
+</ul>
+<h2>2. VAI TRÒ TRONG TRUYỆN</h2>
+<ul>
+<li><strong>Phe Phái:</strong> Phản diện thứ yếu (Cơn ác mộng tự nhiên).</li>
+<li><strong>Cốt Truyện Chính:</strong> Là một trong những "Trùng Đế" đang ngủ say tại Nam Cương. Hắn lợi dụng sự trỗi dậy của Vạn Độc Môn và Huyết Thi để hấp thu máu thịt của chiến trường, từ đó thức tỉnh hoàn toàn. Sự hiện diện của hắn là mối đe dọa không phân biệt địch ta đối với cả Nhân Tộc, Yêu Tộc và Tinh Linh Tộc.</li>
+</ul>
+<h2>3. NGOẠI HÌNH & KHÍ CHẤT</h2>
+<ul>
+<li><strong>Ngoại Hình (Khi Hóa Hình Nhân Tộc):</strong> Một nam tử gầy gò, da dẻ tái nhợt như xác chết, khoác trên mình bộ hắc bào. Đôi mắt đen kịt không có tròng trắng (như hố đen). Miệng có thể xẻ dọc đến mang tai, để lộ những chiếc răng nhọn hoắt như dao bào. Hai tay thon dài gân guốc, móng vuốt sắc lẻm rỉ ra nọc độc màu xanh lục.</li>
+<li><strong>Ngoại Hình (Bản Thể Thực Tế):</strong> Một con bọ cạp khổng lồ lai tạp với rết và nhện. Dài đến mấy chục trượng. Lớp mai đen bóng như thép nguội đúc thành. Phía sau lưng là vô số khối u phình to (Trùng Nang - túi chứa hàng vạn trứng sâu). Hai chiếc càng khổng lồ có thể kẹp gãy núi.</li>
+<li><strong>Khí Chất:</strong> Lạnh lẽo, vô cảm, phàm ăn và luôn tỏa ra mùi tanh hôi của máu thịt thối rữa xen lẫn mùi chua của axit. Không mang ý niệm đạo đức hay thù hận, chỉ có cơn đói nguyên thủy của một kẻ đi săn khát máu.</li>
+</ul>
+<h2>4. TÍNH CÁCH</h2>
+<ul>
+<li><strong>Tàn Nhẫn Tuyệt Đối:</strong> Coi sinh mệnh của các chủng tộc khác chỉ là thức ăn và chất dinh dưỡng để tiến hóa. Không mảy may run tay hay thấy tội lỗi khi thảm sát hàng vạn sinh linh.</li>
+<li><strong>Lý Trí Máy Móc:</strong> Đánh giá mọi tình huống dựa trên xác suất sinh tồn và lợi ích năng lượng thu được. Nếu gặp đối thủ mạnh hơn, hắn sẵn sàng hy sinh hàng vạn cá thể con để đổi lấy cơ hội bỏ chạy và tiến hóa tiếp.</li>
+<li><strong>Hành Động Khát Máu:</strong> Luôn trong trạng thái cắn nuốt, nhai nhóp nhép xương cốt. Thích cách ký sinh bào mòn dần từ trong ra ngoài.</li>
+</ul>
+<h2>5. KỸ NĂNG & SỨC MẠNH</h2>
+<ul>
+<li><strong>Công Pháp Chính:</strong> <a href="../Công_Pháp/Thiên_Trùng_Đồng_Hóa_Quyết.html">Thiên Trùng Đồng Hóa Quyết</a> (Tu đến Tầng 4 - Phá Kiển Trọng Sinh).</li>
+<li><strong>Kỹ Năng Nổi Bật:</strong></li>
+<li><em>Hắc Hạt Độc Châm (黑蝎毒針):</em> Phóng ra nọc độc từ đuôi bọ cạp, có khả năng hòa tan linh khí bảo vệ và gây ăn mòn da thịt kẻ địch cực mạnh. Nọc độc không thể chữa bằng Đan Dược thông thường.</li>
+<li><em>Khống Trùng Thuật (控蟲術):</em> Điều khiển hàng ức con côn trùng nhỏ (Kiến, muỗi, rết...) từ khoảng cách xa, dùng chúng như tai mắt để tình báo, hoặc làm bia thịt cản đòn.</li>
+<li><em>Ký Sinh Khôi Lỗi (寄生傀儡):</em> Bắn trứng trùng vào cơ thể Yêu thú hoặc tu sĩ đã chết (thậm chí đang hấp hối) để biến họ thành con rối máu phục vụ mình. Khác với Huyết Thi của Vạn Độc Môn, khôi lỗi trùng vẫn giữ được kỹ năng phép thuật khi còn sống.</li>
+<li><strong>Vũ Khí:</strong></li>
+<li>Không dùng pháp bảo (vì cơ thể và các bộ phận tiến hóa chính là pháp bảo mạnh nhất). Lớp mai đen cứng hơn cả pháp bảo phòng ngự cấp Cực Phẩm.</li>
+</ul>
+<h2>6. QUAN HỆ NHÂN VẬT</h2>
+<ul>
+<li><strong>Với Lệ Vô Tâm (Vạn Độc Môn):</strong> Quan hệ "cộng sinh" tạm thời nhưng đầy nguy hiểm. Lệ Vô Tâm nuôi dưỡng hắn bằng xác chết và máu, đổi lại mượn lực lượng Trùng Triều để tấn công Cửu Hoa Kiếm Tông. Hắc Hạt Ma Trùng luôn chực chờ cơ hội ăn tươi nuốt sống Lệ Vô Tâm nếu hắn sơ hở.</li>
+<li><strong>Với Tinh Linh Tộc (Nguyệt Dao, Lục Tiêu):</strong> Kẻ thù không đội trời chung, thiên địch của tự nhiên. Tinh Linh căm hận lũ trùng tàn phá rừng rậm.</li>
+<li><strong>Với Vũ Tộc:</strong> Khắc tinh sợ hãi, vì Vũ Tộc chuyên trị côn trùng từ trên không. Hắc Hạt luôn tránh né giao tranh trực diện với Vũ Tộc.</li>
+</ul>
+<h2>7. LỊCH SỬ & CỐT TRUYỆN (Tiểu Sử)</h2>
+<ul>
+<li><strong>Quá Khứ:</strong> Sinh ra từ một cái kén tăm tối dưới lòng đất Vạn Trùng Cốc ở Nam Cương. Ban đầu chỉ là một con bọ cạp nhỏ bé. Qua hàng ngàn trận tàn sát cắn nuốt đồng loại, hắn đã giành được vị trí "Trùng Đế" và tiến hóa lên hình dáng hiện tại. Hắn từng gieo rắc một trận Trùng Triều quy mô nhỏ khiến một số tông môn Nhân Tộc biến mất khỏi bản đồ trước khi bị một vị Hóa Thần Cảnh ép phải phong ấn.</li>
+<li><strong>Hiện Tại:</strong> Được đánh thức bởi sự hỗn loạn của cuộc chiến tranh giữa Đạo môn và Ma đạo do Lệ Vô Tâm khơi mào. Hắn mượn những vũng máu khổng lồ của chiến trường để hồi phục thực lực và ấp ủ một đợt "Tiến Hóa Cực Đại" mới.</li>
+<li><strong>Tương Lai:</strong> Sẽ trở thành một chướng ngại khổng lồ khi các nhân vật chính (Diệp Tĩnh Sương, Lâm Phong...) tiến sâu vào Nam Cương để tìm hiểu về Vạn Độc Môn, buộc họ phải hợp lực với kẻ thù cũ để chống lại thảm họa diệt vong do hắn mang tới.</li>
+</ul>
+<h2>8. GHI CHÚ</h2>
+<ul>
+<li><em>Lưu ý cho tác giả:</em> Miêu tả sự xuất hiện của Hắc Hạt Ma Trùng luôn đi kèm với âm thanh răng rắc (như côn trùng nhai vỏ cây), mùi axit chua loét và tiếng vo ve đinh tai nhức óc của hàng triệu con sâu bọ. Các cảnh chiến đấu với hắn thiên về khống chế diện rộng và dùng lửa (Đan Hỏa, Thiên Hỏa) để khắc chế. Hắn không chết ngay nếu một cơ thể bị chém đứt, trừ khi tiêu diệt tận gốc phần "Trùng Nang".</li>
+</ul>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00085 Giao Dịch Bóng Tối</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00085_Giao_Dịch_Bóng_Tối.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<p>---</p>
+<p>title: "Chương 85: Giao Dịch Bóng Tối"</p>
+<p>description: "Lệ Vô Tâm dùng Huyết Ảnh Độn và lớp ngụy trang hoàn hảo tiến vào vùng ngoại vi của Cửu Hoa Kiếm Tông. Cuộc gặp gỡ bí mật với Lục Trần đã diễn ra, giao nộp thành công 'Huyết Tinh Oán Linh', kích hoạt mũi nhọn phá hoại hệ thống phòng thủ từ bên trong."</p>
+<p>---</p>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 85: Giao Dịch Bóng Tối</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Nhân vật chính:</strong> <a href="../../Nhân_Vật/Lệ_Vô_Tâm.html">Lệ Vô Tâm</a></p>
+<p><strong>Địa điểm:</strong> Ngoại vi <a href="../../Thế_Lực/Cửu_Hoa_Kiếm_Tông.html">Cửu Hoa Kiếm Tông</a></p>
+<br>
+<p>---</p>
+<br>
+<p>Cửu Hoa Kiếm Tông, biểu tượng của sự uy nghiêm Chính Đạo, tọa lạc sừng sững trên đỉnh núi cao với linh khí bức người. Những đệ tử mặc đạo bào trắng muốt như tuyết đi lại tấp nập, thanh kiếm đeo bên hông phát ra những tiếng ngân nga thanh thúy.</p>
+<br>
+<p>Lệ Vô Tâm đứng dưới chân núi, lẫn trong dòng người hành hương đông đúc. Hắn khoác một bộ y phục giản dị, vẻ mặt tái nhợt và ho khan vài tiếng như một lữ khách mắc bệnh nan y đang tìm đến vùng đất phật để cầu xin sự che chở. Tuyệt nhiên không một tia sát khí, không một giọt Huyết Độc Chân Khí nào lộ ra. Thiên Tinh Mẫu Cổ trong tim hắn đã được phong bế hoàn toàn nhờ bí pháp của Huyết Thần Tử, khiến hắn trông như một phàm nhân ốm yếu.</p>
+<br>
+<p>Tuy nhiên, đằng sau lớp vỏ bọc hoàn hảo đó, Lệ Vô Tâm đang nở một nụ cười lạnh lẽo.</p>
+<br>
+<p><em>Cửu Hoa Kiếm Tông... các ngươi tự hào về trận pháp phòng ngự kiên cố của mình, nhưng lại không biết rằng móng vuốt của Huyết Sát Minh đã bóp nghẹt yết hầu các ngươi từ lâu.</em></p>
+<br>
+<p>Mục tiêu của hắn đêm nay rất rõ ràng: Lục Trần, Trưởng Lão Ngoại Môn.</p>
+<br>
+<p>Lệ Vô Tâm không mạo hiểm đi theo con đường chính. Hắn lách qua một con đường mòn nhỏ ven vách đá, một lối đi bí mật mà chỉ những kẻ am hiểu địa hình nội khu và được cài cắm tình báo mới biết đến. Bóng tối buông xuống, che khuất hoàn toàn hình bóng hắn.</p>
+<br>
+<p>Hắn nhắm mắt lại, vận dụng Huyết Ảnh Độn. Cơ thể hắn lập tức hóa thành một làn sương đỏ thẫm vô hình, lẩn khuất vào những tán lá rậm rạp và những kẽ đá tối tăm. Từng cơn gió lạnh buốt của núi cao rít gào, nhưng không thể xua tan được làn sương chết chóc ấy.</p>
+<br>
+<p>Hơn một canh giờ di chuyển, hắn dừng lại tại một khu rừng trúc u tối nằm sâu trong khu vực cấm địa của ngoại môn, nơi ít có đệ tử tuần tra lui tới.</p>
+<br>
+<p>Một bóng người cao gầy mặc đạo bào màu tro đã đứng đợi sẵn ở đó. Dưới ánh trăng mờ nhạt, nét mặt Lục Trần hiện ra, không còn vẻ hiền từ và uy nghiêm thường ngày, thay vào đó là sự lạnh lùng và cảnh giác tột độ.</p>
+<br>
+<p>"Ngươi đến muộn." Lục Trần lên tiếng, giọng trầm đục mang theo một tia bất mãn, nhưng đôi mắt vẫn không ngừng láo liên quan sát xung quanh.</p>
+<br>
+<p>"Đường xá xa xôi, lại phải tránh né những con chó săn mũi thính của Cửu Hoa Kiếm Tông, làm sao ta có thể đến sớm hơn được, thưa Lục trưởng lão?"</p>
+<br>
+<p>Lệ Vô Tâm từ từ ngưng tụ lại thành hình người từ làn sương mỏng, tay vờn chiếc Huyết Độc Phiến. Hắn không hề e ngại khí tức Kim Đan Kỳ của Lục Trần. Bây giờ hắn là sứ giả của Huyết Sát Minh, kẻ cầm chuôi trong cuộc giao dịch này.</p>
+<br>
+<p>"Hừ, bớt dài dòng đi. Huyết Tước phái ngươi mang thứ gì đến?" Lục Trần cau mày, không che giấu sự khinh thường đối với tên tiểu bối trước mặt. Tuy biết Lệ Vô Tâm đã đạt Trúc Cơ Hậu Kỳ, nhưng với ông, một kẻ tu ma đạo bằng tà pháp vẫn chỉ là một công cụ hạ cấp.</p>
+<br>
+<p>Lệ Vô Tâm không tức giận. Hắn phẩy tay áo, chiếc hộp ngọc tinh xảo lập tức xuất hiện, lơ lửng giữa không trung. Ngay khi chiếc hộp xuất hiện, nhiệt độ xung quanh dường như giảm xuống, một luồng oán khí và mùi máu tanh tưởi phảng phất bay ra dù hộp chưa được mở.</p>
+<br>
+<p>"Đồ vật Minh Chủ đích thân giao phó. 'Huyết Tinh Oán Linh'." Lệ Vô Tâm đẩy chiếc hộp về phía Lục Trần. "Huyết Tước nhắn với ngươi, chỉ cần dùng thứ này dung nhập vào mắt trận phụ của Hộ Sơn Đại Trận ở ngoại môn. Nó sẽ như một loại ký sinh trùng, từ từ ăn mòn hệ thống linh mạch của trận pháp mà không gây ra bất kỳ biến động linh lực lớn nào."</p>
+<br>
+<p>Lục Trần cẩn thận đón lấy chiếc hộp, đôi mắt ánh lên sự tham lam pha lẫn lo âu. "Ăn mòn trận pháp? Mất bao lâu?"</p>
+<br>
+<p>"Nửa tháng." Lệ Vô Tâm thản nhiên đáp. "Trong vòng nửa tháng, mạng lưới phòng thủ ngoại vi của Cửu Hoa Kiếm Tông sẽ hoàn toàn tê liệt. Khi đó, đại quân Huyết Sát Minh sẽ tiến thẳng vào ngọn núi này như vào chốn không người. Và ngươi... sẽ được Minh Chủ ban thưởng loại đan dược giúp đột phá Nguyên Anh Kỳ."</p>
+<br>
+<p>Nghe đến "Nguyên Anh Kỳ", hơi thở Lục Trần trở nên dồn dập. Đó là cảnh giới mà ông đã khao khát suốt hàng chục năm qua nhưng không thể chạm tới vì tư chất có hạn. Tham vọng đã che mờ lý trí của vị trưởng lão đạo mạo.</p>
+<br>
+<p>"Tốt. Ta sẽ làm theo kế hoạch. Nhưng các ngươi phải đảm bảo không để lộ tung tích của ta." Lục Trần cất chiếc hộp ngọc vào trong nhẫn trữ vật.</p>
+<br>
+<p>"Minh Chủ luôn giữ chữ tín với những kẻ biết nghe lời." Lệ Vô Tâm cười khẩy, chuẩn bị xoay người rời đi. "Nhân tiện, nhắc ngươi một chuyện. Nhóm của Diệp Tĩnh Sương đã trở về từ Nam Cương. Bọn chúng giống như những con bọ chét dai dẳng. Ngươi cẩn thận một chút, đừng để bọn chúng ngửi thấy mùi gì bất thường."</p>
+<br>
+<p>"Chỉ là một đám ranh con Luyện Khí, Trúc Cơ. Chúng ở ngay dưới mắt ta, nếu dám có hành động thiếu suy nghĩ, ta sẽ tự tay bóp chết." Lục Trần gắt gỏng.</p>
+<br>
+<p>Lệ Vô Tâm nhún vai, không nói thêm lời nào. Hắn biết rất rõ thực lực và sự lì lợm của Diệp Tĩnh Sương. Nếu Lục Trần khinh địch, kẻ gánh chịu hậu quả sẽ là lão ta.</p>
+<br>
+<p>Một cơn gió mạnh thổi qua rừng trúc. Khi Lục Trần nhìn lại, bóng dáng Lệ Vô Tâm đã tan biến hoàn toàn vào màn đêm vô tận, không để lại dù chỉ là một dấu vết linh lực nhỏ nhoi.</p>
+<br>
+<p><em>Tuyệt kỹ ẩn nấp thật đáng sợ.</em> Lục Trần thầm nghĩ, mồ hôi lạnh toát ra sau gáy. Lão nắm chặt chiếc hộp ngọc trong tay áo, nhanh chóng rời khỏi cấm địa.</p>
+<br>
+<p>Ở một ngọn đồi nhỏ cách đó không xa, Lệ Vô Tâm đang đứng dưới bóng một cây tùng cổ thụ, ánh mắt lạnh lẽo hướng về phía khu rừng trúc.</p>
+<br>
+<p>"Làm tốt nhiệm vụ của mình đi, Lục Trần." Hắn lẩm bẩm. "Khi Cửu Hoa Kiếm Tông sụp đổ, cũng là lúc ta sẽ tận tay ban cho Diệp Tĩnh Sương một cái chết đau đớn nhất."</p>
+<br>
+<p>Cơn bão máu đã được gieo mầm ngay giữa lòng thánh địa Chính Đạo.</p>
+<br>
+<p>---</p>
+<p><em>Hết chương 85.</em></p>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

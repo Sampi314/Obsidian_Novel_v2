@@ -32,10 +32,10 @@ Mỗi công pháp phải đạt chuẩn như `Cửu_Chuyển_Đan_Hỏa_Quyết.
 **Đã Hoàn Thành (Run hiện tại):**
 1. **Nhân Tộc:** `Thái_Cực_Vạn_Pháp_Quyết.md` + Nhân vật `Phương_Vô_Kỵ.md`. (Đặc trưng: "Vạn Pháp Giai Thông").
 2. **Long Tộc:** `Thái_Cổ_Long_Thần_Quyết.md` + Nhân vật `Ngao_Đình.md`. (Đặc trưng: "Thiên Sinh Vương Giả").
+3. **Trùng Tộc:** `Thiên_Trùng_Đồng_Hóa_Quyết.md` + Nhân vật `Hắc_Hạt_Ma_Trùng.md`. (Đặc trưng: Tiến Hóa Tu, hấp thu huyết mạch kẻ địch, Quần thể ý thức).
+4. **Hải Tộc:** `Âm_Dương_Thủy_Nguyệt_Quyết.md` + Nhân vật `Lệ_Nhược_Thủy.md`. (Đặc trưng: Luyện Hồn, Âm Tu, Thủy/Nguyệt Đạo, Ảo ảnh).
 
 **Cần Hoàn Thành Trong Các Run Tiếp Theo (Định hướng từ User):**
-3. **Trùng Tộc:** "Tiến Hóa Vô Cực" (Độc quyền: Tiến Hóa Tu, hấp thu huyết mạch kẻ địch, Quần thể ý thức).
-4. **Hải Tộc:** "Âm Dương Thủy Nguyệt" (Sở trường: Luyện Hồn, Âm Tu, Thủy/Nguyệt Đạo. Yếu điểm: Lên cạn yếu).
 5. **Cự Tộc:** "Thiên Địa Đồng Thọ" (Đỉnh cao Luyện Thể, Địa/Sơn Đạo, Thiên Địa Thể).
 6. **Vi Tộc:** "Vô Hình Vô Tung" (Siêu nhỏ, Phù Tu + Trận Tu tàng hình, Vi Quan Thiên Địa bẻ khóa vạn vật).
 7. **Yêu Tộc:** "Bách Thú Thiên Phú" (Huyết Tu, Biến Hóa Tu, Thức tỉnh huyết mạch Thần Thú cổ đại).

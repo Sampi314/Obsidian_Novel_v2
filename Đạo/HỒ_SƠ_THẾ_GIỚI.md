@@ -67,6 +67,10 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Phương_Vô_Kỵ.md`.
 - **Ngao Đình (Lôi Minh Thái Tử):** Nam, Long Tộc (Chân Long huyết mạch), Nguyên Anh Trung Kỳ. Tính cách kiêu ngạo, hiếu chiến, sức mạnh Luyện Thể cái thế. Sở hữu *Thái Cổ Long Thần Quyết*. (Đang ở Vô Tận Hải/Thiên Trụ Sơn)
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Ngao_Đình.md`.
+- **Hắc Hạt Ma Trùng (Ma Trùng Đại Đế):** Lưỡng tính, Trùng Tộc. Tương đương Nguyên Anh Hậu Kỳ (khả năng bùng phát uy hiếp Hóa Thần). Bản thể là một Hive Mind tàn nhẫn, xem vạn vật là thức ăn. Sở hữu *Thiên Trùng Đồng Hóa Quyết*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hắc_Hạt_Ma_Trùng.md`.
+- **Lệ Nhược Thủy (Hải Yêu Vương):** Nữ, Hải Tộc (Giao Nhân Hoàng Tộc), Hóa Thần Sơ Kỳ. Tính cách u buồn, tách biệt nhưng tàn nhẫn với kẻ thù. Sở hữu *Âm Dương Thủy Nguyệt Quyết*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lệ_Nhược_Thủy.md`.
 - **Sở Lăng Sương (Băng Phách Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, trọng nghĩa. Sở hữu *Hàn Sương Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Sở_Lăng_Sương.md`.
 - **Hàn Thanh Nguyệt (Tàn Nguyệt Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Xuất thân bần hàn, tính cách thực dụng, lạnh lùng nhưng bảo vệ kẻ yếu. Sở hữu *Tàn Nguyệt Kiếm Quyết*.
