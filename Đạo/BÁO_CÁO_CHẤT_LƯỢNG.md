@@ -184,7 +184,8 @@
 | Hôm nay | Tổng Quản | Viết Chương 95 (Góc Nhìn Chính) & Chương 89 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm thể hiện sức mạnh Vạn Độc Thân, áp đảo và suýt giết Diệp Tĩnh Sương, trước khi một cường giả Hóa Thần xuất hiện ngăn cản. |
 | Hôm nay | Tổng Quản | Sửa Lỗi Ngữ Pháp & Bổ Sung Bí Cảnh | Hoàn Thành | Chuẩn hóa các dấu chấm than dư thừa (`!!!`) thành `!` trong một số chương, bổ sung các Bí Cảnh (Phế Tích Nguyệt Quang, Hoàng Sa Địa Cung, Lưu Sa Phế Tích, Huyết Uyên, Bí Cảnh Huyết Sát) vào Bản Đồ Sơ Bộ theo yêu cầu tồn đọng. |
 | Hôm nay | Tổng Quản | Viết Chương 96 (Góc Nhìn Chính) & Chương 90 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Cường giả Hóa Thần (Thanh Hư) xuất hiện phá vỡ Vạn Độc Thân. Lệ Vô Tâm dùng Huyết Độn Phù chạy thoát, đại quân rút lui, kết thúc đợt tấn công đầu tiên. |
-| Hôm nay | Tổng Quản | Viết Chương 97 (Góc Nhìn Chính) & Chương 91 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Nhóm Tĩnh Sương cứu thương tại ngoại môn tàn tạ. Cửu Hoa Kiếm Tông phát hiện 12 điểm định vị và kích hoạt Cửu Thiên Huyền Sương Trận. Lệ Vô Tâm trở về báo cáo với Huyết Tước và bắt đầu dưỡng thương chuẩn bị đợt tổng tiến công. |
+| Hôm nay | Tổng Quản | Viết Chương 97 (Góc Nhìn Chính) & Chương 91 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Cửu Hoa Kiếm Tông khắc phục hậu quả đợt tấn công, Diệp Tĩnh Sương và Lâm Phong nhận ra uy lực của Hóa Thần nên quyết tâm tu luyện mạnh hơn. Lệ Vô Tâm báo cáo về Minh Chủ và nhận thức rõ thân phận là con cờ để nuôi tiếp tham vọng báo thù của bản thân. |
+| Hôm nay | Tổng Quản | Viết Chương 98 (Góc Nhìn Chính) & Chương 92 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Cửu Hoa Kiếm Tông đóng cửa sơn môn ba tháng, nhóm Tĩnh Sương bế quan tu luyện. Lệ Vô Tâm được Huyết Thần Tử chữa trị và nung nấu dã tâm lật đổ tất cả, bước vào quá trình tu luyện điên cuồng mới. Khép lại Arc 4. |
 
 ## 5. Kết Luận Chung
 Đã hoàn thành các tác vụ bổ sung cho các yêu cầu tồn đọng từ 2024-05-23:

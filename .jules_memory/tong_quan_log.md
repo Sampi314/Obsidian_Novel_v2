@@ -734,24 +734,50 @@
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tình trạng:** Các lỗi định dạng nhỏ đã được xử lý. Bản đồ thế giới đã cung cấp chi tiết tốt hơn về các bí cảnh quan trọng đóng vai trò làm bối cảnh cho các Arc đã qua và hiện tại.
 
-# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Hậu Quả Trận Chiến)
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Hậu Chiến Cửu Hoa)
 
 ## 1. TỔNG QUAN
 - **Agent:** Tổng Quản (Jules).
-- **Mục tiêu:** Viết Chương 97 (Góc Nhìn Chính) và Chương 91 (Góc Nhìn Lệ Vô Tâm) khắc họa hậu quả sau đợt tấn công ngoại môn của Huyết Sát Minh.
+- **Mục tiêu:** Viết Chương 97 "Khắc Phục Hậu Quả" (Góc Nhìn Chính) và Chương 91 "Báo Cáo Thất Bại" (Góc Nhìn Lệ Vô Tâm) để tiếp tục Arc 4.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00097_Tàn_Tích_Ngoại_Môn.md`
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00091_Báo_Cáo_Trong_Máu.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00097_Khắc_Phục_Hậu_Quả.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00091_Báo_Cáo_Thất_Bại.md`
 - **Cập nhật:**
   - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện phát hiện 12 điểm định vị và Lệ Vô Tâm báo cáo Huyết Tước.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật diễn biến hậu chiến ở Cửu Hoa và nội tâm của Lệ Vô Tâm.
   - `MỤC_LỤC.md` của cả hai góc nhìn.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md` và các file bộ nhớ (`Viet_Chuong_Truyen_Memory.md`).
+  - Cập nhật website HTML.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
-- **Tiến độ:** Khúc dạo đầu của cuộc đại chiến đã xong. Cửu Hoa Kiếm Tông bước vào trạng thái phòng thủ cao nhất (Cửu Thiên Huyền Sương Trận) để đối phó với cuộc tổng tiến công sắp tới từ Huyết Sát Minh. Lệ Vô Tâm đang dưỡng thương chờ đợi ngày tàn sát.
+- **Tiến độ:** Nhóm Tĩnh Sương đã giúp sức phục hồi một phần Cửu Hoa Kiếm Tông và được Đại Trưởng Lão ưu tiên nguồn lực dưỡng thương. Đồng thời, Lệ Vô Tâm đã quay lại Huyết Sát Minh, nhận rõ vị trí của mình và càng nuôi thêm dã tâm phát triển sức mạnh để lật ngược tình thế.
+- **Tình trạng:** Quá trình chuyển tiếp mượt mà để các nhân vật có thể phát triển tu vi sau những biến cố lớn.
 
 ## 4. KẾ HOẠCH TIẾP THEO
-- Viết tiếp các chương mô tả đợt tổng tiến công thứ hai của Huyết Sát Minh và sự phản kháng của Cửu Hoa Kiếm Tông.
+- Viết các diễn biến tĩnh: Các nhân vật trải qua tu luyện cường độ cao hoặc tiếp nhận các nhiệm vụ/hỗ trợ mới để tiến tới cảnh giới cao hơn, chuẩn bị cho Arc 5.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Chuẩn Bị Tương Lai)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 98 "Bế Quan Tu Luyện" (Góc Nhìn Chính) và Chương 92 "Dã Tâm Bừng Sáng" (Góc Nhìn Lệ Vô Tâm) để kết thúc Arc 4.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00098_Bế_Quan_Tu_Luyện.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00092_Dã_Tâm_Bừng_Sáng.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật diễn biến tĩnh.
+  - `MỤC_LỤC.md` của cả hai góc nhìn.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md` và các file bộ nhớ (`Viet_Chuong_Truyen_Memory.md`).
+  - Cập nhật website HTML.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Khép lại Arc 4. Nhóm Diệp Tĩnh Sương bước vào đợt bế quan ba tháng tại Cửu Hoa Kiếm Tông. Lệ Vô Tâm cũng bước vào giai đoạn tu luyện điên cuồng nhất, mang dã tâm lật đổ tất cả.
+- **Tình trạng:** Quá trình chuẩn bị tốt cho Arc 5 với quy mô lớn hơn và cảnh giới cao hơn.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Chuẩn bị bước vào Arc 5, mở rộng ra Đông Hoang hoặc tập trung vào cuộc đại chiến tiếp theo khi nhóm Tĩnh Sương đã mạnh hơn.

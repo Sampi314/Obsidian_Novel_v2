@@ -401,3 +401,19 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Ngay khi Lệ Vô Tâm chuẩn bị hạ sát Diệp Tĩnh Sương, Đại Trưởng Lão Thanh Hư với tu vi Hóa Thần Sơ Kỳ đã xuất hiện. Bằng uy áp khổng lồ, ông phá nát Vạn Độc Thân của Lệ Vô Tâm. Đứng trước sức mạnh tuyệt đối, Lệ Vô Tâm phải sử dụng Huyết Độn Phù (bảo vật của Huyết Sát Minh) để trốn thoát. Cuộc tấn công ngoại môn tạm lắng, hạm đội Huyết Vân Chu cũng rút lui, để lại Cửu Hoa Kiếm Tông đối mặt với sự tàn phá nặng nề.
 - **Tình trạng:** Hoàn thành. Kết thúc đợt tấn công đầu tiên của Huyết Sát Minh vào Cửu Hoa Kiếm Tông.
+
+## Phiên làm việc: Viết Chương 97 (Góc Nhìn Chính) & Chương 91 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 97:** Khắc Phục Hậu Quả
+- **Chương 91:** Báo Cáo Thất Bại
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Hạm đội Huyết Sát Minh rút lui. Cửu Hoa Kiếm Tông bắt tay vào dọn dẹp và khắc phục hậu quả ở ngoại môn. Diệp Tĩnh Sương và Lâm Phong nhận ra sự chênh lệch to lớn giữa tu vi của họ và các cường giả chân chính, đồng thời quyết tâm mạnh mẽ hơn. Ở phía bên kia, Lệ Vô Tâm trở về báo cáo với Huyết Tước. Hắn hiểu rõ mình chỉ là quân cờ của Huyết Sát Minh, nhưng mượn lấy tham vọng đó để nuôi dã tâm riêng, tự hứa sẽ đè bẹp cả Chính và Tà.
+- **Tình trạng:** Hoàn thành. Bước chuyển tiếp quan trọng chuẩn bị cho giai đoạn tu luyện cường độ cao và xung đột ở tầm vóc mới.
+
+## Phiên làm việc: Viết Chương 98 (Góc Nhìn Chính) & Chương 92 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 98:** Bế Quan Tu Luyện
+- **Chương 92:** Dã Tâm Bừng Sáng
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Cửu Hoa Kiếm Tông đóng cửa sơn môn ba tháng để khắc phục. Nhóm Tĩnh Sương, Lâm Phong và Lăng Sương nhận được đặc quyền sử dụng tài nguyên tu luyện và Tàng Kinh Các, bắt đầu đợt bế quan cường độ cao để xung kích cảnh giới mới. Về phần Lệ Vô Tâm, hắn được Huyết Thần Tử chữa trị bằng Huyết Độc, tuy đau đớn nhưng hắn coi đây là cơ hội để đột phá và củng cố dã tâm phản nghịch cả Huyết Sát Minh, sẵn sàng dùng mọi thủ đoạn để đạt đến đỉnh cao.
+- **Tình trạng:** Hoàn thành. Kết thúc Arc 4.

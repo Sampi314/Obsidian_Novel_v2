@@ -399,8 +399,12 @@ window.chapterData = {
       "title": "Chương 00096: Cường Giả Hàng Lâm"
     },
     {
-      "filename": "Chương_00097_Tàn_Tích_Ngoại_Môn.md",
-      "title": "Chương 97: Tàn Tích Ngoại Môn"
+      "filename": "Chương_00097_Khắc_Phục_Hậu_Quả.md",
+      "title": "Chương 97: Khắc Phục Hậu Quả"
+    },
+    {
+      "filename": "Chương_00098_Bế_Quan_Tu_Luyện.md",
+      "title": "Chương 98: Bế Quan Tu Luyện"
     },
     {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
@@ -811,8 +815,12 @@ window.chapterData = {
       "title": "Chương 00090: Uy Áp Hóa Thần"
     },
     {
-      "filename": "Chương_00091_Báo_Cáo_Trong_Máu.md",
-      "title": "Chương 91: Báo Cáo Trong Máu"
+      "filename": "Chương_00091_Báo_Cáo_Thất_Bại.md",
+      "title": "Chương 91: Báo Cáo Thất Bại"
+    },
+    {
+      "filename": "Chương_00092_Dã_Tâm_Bừng_Sáng.md",
+      "title": "Chương 92: Dã Tâm Bừng Sáng (Góc Nhìn Lệ Vô Tâm)"
     }
   ]
 };

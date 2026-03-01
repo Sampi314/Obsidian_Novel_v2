@@ -88,7 +88,10 @@
     - **Sự Kiện Mới:** Huyết Sát Minh bắt đầu oanh tạc Cửu Hoa Tru Tiên Trận. Nhóm Tĩnh Sương, Lâm Phong, Lăng Sương lao xuống bảo vệ ngoại môn và đụng độ Lệ Vô Tâm cùng đại quân Huyết Thi (Hoàn thành - Chương 94 Góc Nhìn Chính).
     - **Nhiệm Vụ Hiện Tại:** Phối hợp tác chiến chống lại Vạn Độc Thân Trúc Cơ Hậu Kỳ của Lệ Vô Tâm, cố gắng câu giờ chờ trưởng lão chi viện (Hoàn thành - Chương 95 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Cường giả Hóa Thần Sơ Kỳ (Đại Trưởng Lão Thanh Hư) xuất hiện ứng cứu, đánh lui Lệ Vô Tâm bằng uy áp. Lệ Vô Tâm dùng Huyết Độn Phù chạy thoát. Cuộc tấn công ngoại môn tạm lắng (Hoàn thành - Chương 96 Góc Nhìn Chính).
-    - **Nhiệm Vụ Hiện Tại:** Khắc phục hậu quả trận chiến, đếm thương vong và chuẩn bị cho các đợt tấn công tiếp theo của Huyết Sát Minh.
+    - **Nhiệm Vụ Hiện Tại:** Khắc phục hậu quả trận chiến, đếm thương vong và chuẩn bị cho các đợt tấn công tiếp theo của Huyết Sát Minh (Hoàn thành - Chương 97 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Diệp Tĩnh Sương và Lâm Phong nhận ra sức mạnh thực sự của cường giả Hóa Thần, quyết tâm tu luyện mạnh mẽ hơn để có thể bảo vệ mình và đối đầu với Huyết Sát Minh trong tương lai.
+    - **Nhiệm Vụ Hiện Tại:** Cửu Hoa Kiếm Tông đóng cửa sơn môn, nhóm Tĩnh Sương bước vào đợt bế quan tu luyện cường độ cao với nhiều tài nguyên mới để xung kích cảnh giới (Hoàn thành - Chương 98 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Cả nhóm tĩnh tâm chuẩn bị cho một giai đoạn mới, hướng đến việc trở thành những trụ cột chống lại Huyết Sát Minh trong tương lai (Tiền đề Arc 5).
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đã hoàn thành (Chuyển sang Arc mới).
@@ -132,7 +135,9 @@
     - **Sự Kiện Mới:** Lệ Vô Tâm tàn sát ngoại môn, thể hiện sức mạnh Vạn Độc Thân và đối đầu trực diện nhóm Diệp Tĩnh Sương, Lâm Phong (Hoàn thành - Chương 88 Góc Nhìn Lệ Vô Tâm).
     - **Nhiệm Vụ Hiện Tại:** Đùa giỡn và áp đảo hoàn toàn nhóm Diệp Tĩnh Sương, chuẩn bị kết liễu thì bị uy áp Hóa Thần Kỳ ngăn cản (Hoàn thành - Chương 89 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Đối mặt với uy áp Hóa Thần của Đại Trưởng Lão Thanh Hư, Vạn Độc Thân bị phá vỡ. Lệ Vô Tâm sử dụng Huyết Độn Phù tẩu thoát thành công cùng lúc hạm đội Huyết Vân Chu rút lui (Hoàn thành - Chương 90 Góc Nhìn Lệ Vô Tâm).
-    - **Nhiệm Vụ Hiện Tại:** Rút lui về căn cứ Huyết Sát Minh dưỡng thương, báo cáo kết quả phá hoại và chuẩn bị cho bước tiếp theo của Huyết Thần Tử.
+    - **Nhiệm Vụ Hiện Tại:** Rút lui về căn cứ Huyết Sát Minh dưỡng thương, báo cáo kết quả phá hoại và chuẩn bị cho bước tiếp theo của Huyết Thần Tử (Hoàn thành - Chương 91 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Lệ Vô Tâm báo cáo thất bại với Huyết Tước. Ý thức được sự chênh lệch với Hóa Thần Kỳ, hắn càng thêm khao khát quyền lực và sức mạnh để không bị Huyết Sát Minh tiếp tục thao túng.
+    - **Nhiệm Vụ Hiện Tại:** Lệ Vô Tâm được Huyết Thần Tử chữa trị thương thế từ Hóa Thần kỳ và bị gieo Huyết Độc sâu hơn vào linh hồn. Hắn dấy lên một dã tâm phản nghịch cả Huyết Sát Minh, và bước vào quá trình tu luyện điên cuồng nhất để thăng cấp, chờ đợi đợt tấn công kế tiếp (Hoàn thành - Chương 92 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

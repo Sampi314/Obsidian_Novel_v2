@@ -70,7 +70,7 @@ Ta dồn toàn bộ linh lực vào chiếc quạt, tung ra tuyệt kỹ *Huyế
 
 Hàng ngàn mũi kim độc từ chiếc quạt bắn ra như mưa rào, bao trùm cả một vùng rộng lớn.
 
-"Không!!"
+"Không!"
 
 Gã kiếm khách múa kiếm tuyệt vọng để đỡ gạt, nhưng kim độc quá dày đặc. Hắn bị găm chi chít kim vào người, ngã gục xuống như con nhím.
 
