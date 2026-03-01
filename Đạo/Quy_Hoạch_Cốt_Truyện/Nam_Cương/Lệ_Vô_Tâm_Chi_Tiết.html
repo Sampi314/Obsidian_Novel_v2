@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUY HOẠCH CỐT TRUYỆN CHI TIẾT: LỆ VÔ TÂM</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lệ_Vô_Tâm_Chi_Tiết.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<h1>QUY HOẠCH CỐT TRUYỆN CHI TIẾT: LỆ VÔ TÂM</h1>
+<br>
+<h2>MỤC TIÊU</h2>
+<p>Mở rộng tuyến truyện của Lệ Vô Tâm để khắc họa rõ nét quá trình biến đổi tâm lý từ một đứa trẻ lương thiện (Hữu Tâm) thành một ma đầu tàn độc (Vô Tâm). Cốt truyện được chia thành 3 Arc lớn, mỗi Arc gồm 30 chương, được đánh số liên tục.</p>
+<br>
+<p>---</p>
+<br>
+<h2>ARC 1: HUYẾT TRÌ CHI TỬ (Đứa Con Của Huyết Trì)</h2>
+<p><strong>Thời điểm:</strong> 13 - 16 tuổi.</p>
+<p><strong>Bối cảnh:</strong> Vạn Độc Môn (Khu vực Ngoại Môn & Huyết Trì).</p>
+<p><strong>Chủ đề:</strong> Sinh Tồn & Đánh Mất Nhân Tính.</p>
+<p><strong>Số lượng dự kiến:</strong> 30 chương (Chương 1 - 30).</p>
+<br>
+<h3>Danh Sách Chương:</h3>
+<br>
+<p>#### Phần 1: Hậu Quả Của Sự Sống Sót (Chương 1 - 7)</p>
+<ul>
+<li>  <strong>Chương 1:</strong> Đường Đến Thánh Vị.</li>
+<li>  <strong>Chương 2:</strong> Hậu Quả Sinh Tồn.</li>
+<li>  <strong>Chương 3:</strong> Bài Học Vô Cảm.</li>
+<li>  <strong>Chương 4:</strong> Sự Phản Bội Đầu Tiên.</li>
+<li>  <strong>Chương 5:</strong> Bóng Tối Cô Độc.</li>
+<li>  <strong>Chương 6:</strong> Thử Thách Vạn Độc.</li>
+<li>  <strong>Chương 7:</strong> Huyết Nguyệt Sát Cơ.</li>
+</ul>
+<p>#### Phần 2: Địa Ngục Huấn Luyện (Chương 8 - 15)</p>
+<ul>
+<li>  <strong>Chương 8:</strong> Diện Kiến Lão Quái. (Đã đổi tên thành Đêm Dài Vô Tận)</li>
+<li>  <strong>Chương 9:</strong> Bể Dược Độc. (Đã đổi tên thành Bình Minh Đẫm Máu)</li>
+<li>  <strong>Chương 10:</strong> Đối Thủ Vô Hình. (Đã đổi tên thành Phần Thưởng Và Cái Giá)</li>
+<li>  <strong>Chương 11:</strong> Giết Hoặc Bị Giết. (Đã đổi tên thành Vạn Độc Phệ Thân)</li>
+<li>  <strong>Chương 12:</strong> Tàn Phế. (Đã đổi tên thành Ngục Tù Tâm Trí)</li>
+<li>  <strong>Chương 13:</strong> Thuốc Giải Của Quỷ.</li>
+<li>  <strong>Chương 14:</strong> Lột Xác Lần Đầu.</li>
+<li>  <strong>Chương 15:</strong> Ánh Mắt Của Sư Phụ.</li>
+</ul>
+<p>#### Phần 3: Tia Sáng & Sự Phản Bội (Chương 16 - 25)</p>
+<ul>
+<li>  <strong>Chương 16:</strong> Người Bạn Câm.</li>
+<li>  <strong>Chương 17:</strong> Những Bữa Ăn Vụng Trộm.</li>
+<li>  <strong>Chương 18:</strong> Giấc Mơ Tự Do.</li>
+<li>  <strong>Chương 19:</strong> Kế Hoạch Đào Tẩu.</li>
+<li>  <strong>Chương 20:</strong> Đêm Mưa Bão.</li>
+<li>  <strong>Chương 21:</strong> Lối Mòn Bí Mật.</li>
+<li>  <strong>Chương 22:</strong> Cạm Bẫy.</li>
+<li>  <strong>Chương 23:</strong> Bộ Mặt Thật.</li>
+<li>  <strong>Chương 24:</strong> Vòng Vây Kẻ Thù.</li>
+<li>  <strong>Chương 25:</strong> Tuyệt Vọng Cùng Cực.</li>
+</ul>
+<p>#### Phần 4: Cái Chết Của Hữu Tâm (Chương 26 - 30)</p>
+<ul>
+<li>  <strong>Chương 26:</strong> Sự Trỗi Dậy Của Vô Tâm.</li>
+<li>  <strong>Chương 27:</strong> Thoát Ngục.</li>
+<li>  <strong>Chương 28:</strong> Cuộc Truy Sát A Mộc.</li>
+<li>  <strong>Chương 29:</strong> Đoạn Tuyệt Nhân Tính.</li>
+<li>  <strong>Chương 30:</strong> Tên Mới: Lệ Vô Tâm.</li>
+</ul>
+<p>---</p>
+<br>
+<h2>ARC 2: HUYẾT THỦ THƯ SINH (Thư Sinh Tay Máu)</h2>
+<p><strong>Thời điểm:</strong> 17 - 21 tuổi.</p>
+<p><strong>Bối cảnh:</strong> Biên giới Nam Cương.</p>
+<p><strong>Chủ đề:</strong> Trỗi Dậy & Tàn Sát.</p>
+<p><strong>Số lượng dự kiến:</strong> 30 chương (Chương 31 - 60).</p>
+<br>
+<h3>Danh Sách Chương:</h3>
+<br>
+<p>#### Phần 1: Chế Tạo Vũ Khí & Xây Dựng Thế Lực (Chương 31 - 40)</p>
+<ul>
+<li>  <strong>Chương 31:</strong> Huyết Độc Phiến.</li>
+<li>  Chế tạo vũ khí bản mệnh.</li>
+<li>  <strong>Chương 32:</strong> Thử Nghiệm Vũ Khí.</li>
+<li>  Dùng Huyết Độc Phiến tiêu diệt một nhóm quái vật.</li>
+<li>  <strong>Chương 33:</strong> Bẫy Rập Rừng Sương.</li>
+<li>  Thanh trừng đám đệ tử ngoại môn.</li>
+<li>  <strong>Chương 34:</strong> Mạng Lưới Tình Báo.</li>
+<li>  Bắt đầu thu phục tay chân.</li>
+<li>  <strong>Chương 35:</strong> Nhiệm Vụ Đầu Tiên.</li>
+<li>  Nhận nhiệm vụ rời khỏi tông môn.</li>
+<li>  <strong>Chương 36:</strong> Diệt Môn Chi Họa.</li>
+<li>  Tiêu diệt Lý Gia.</li>
+<li>  <strong>Chương 37:</strong> Bí Mật Huyết Tinh Sa.</li>
+<li>  Khám phá kho báu của Lý Gia.</li>
+<li>  <strong>Chương 38:</strong> Đối Đầu Tán Tu.</li>
+<li>  Chiến đấu với các tu sĩ lang thang.</li>
+<li>  <strong>Chương 39:</strong> Thanh Trừng Nội Bộ.</li>
+<li>  Giải quyết mâu thuẫn trong nội bộ Vạn Độc Môn.</li>
+<li>  <strong>Chương 40:</strong> Dục Vọng Và Quyền Lực.</li>
+<li>  Lệ Vô Tâm củng cố vị thế, tham vọng lớn dần.</li>
+</ul>
+<p>#### Phần 2: Hành Trình Đẫm Máu (Chương 41 - 50)</p>
+<ul>
+<li>  <strong>Chương 41:</strong> Bóng Ma Rừng Trúc.</li>
+<li>  Nhiệm vụ ám sát trưởng lão một tiểu tông môn để đoạt bí kíp.</li>
+<li>  <strong>Chương 42:</strong> Huyết Ảnh Bộ.</li>
+<li>  Đoạt được bí kíp thân pháp, bắt đầu tu luyện để gia tăng tốc độ.</li>
+<li>  <strong>Chương 43:</strong> Cuộc Săn Đêm.</li>
+<li>  Thử nghiệm thân pháp mới kết hợp với Huyết Độc Phiến.</li>
+<li>  <strong>Chương 44:</strong> Huyết Chiến Sơn Tặc.</li>
+<li>  Tiêu diệt một trại sơn tặc dám cướp hàng của Vạn Độc Môn.</li>
+<li>  <strong>Chương 45:</strong> Đối Thủ Xứng Tầm.</li>
+<li>  Gặp gỡ và giao đấu với một đệ tử thiên tài của Chính Đạo.</li>
+<li>  <strong>Chương 46:</strong> Vết Thương Chí Mạng.</li>
+<li>  Bị thương nặng sau trận chiến, phải trốn chạy.</li>
+<li>  <strong>Chương 47:</strong> Chữa Thương Trong Hang Độc.</li>
+<li>  Sử dụng độc dược để chữa thương, rèn luyện khả năng chịu đựng.</li>
+<li>  <strong>Chương 48:</strong> Sự Trở Lại Tàn Khốc.</li>
+<li>  Quay lại trả thù kẻ đã làm mình bị thương.</li>
+<li>  <strong>Chương 49:</strong> Danh Hiệu Huyết Thủ.</li>
+<li>  Giang hồ bắt đầu đồn đại về cái tên "Huyết Thủ Thư Sinh".</li>
+<li>  <strong>Chương 50:</strong> Cơn Ác Mộng Nam Cương.</li>
+<li>  Sự tàn bạo của Lệ Vô Tâm khiến các tông môn nhỏ khiếp sợ.</li>
+</ul>
+<p>#### Phần 3: Danh Tiếng Vang Xa & Đột Phá (Chương 51 - 60)</p>
+<ul>
+<li>  <strong>Chương 51:</strong> Lời Mời Từ Bóng Tối.</li>
+<li>  Được các thế lực hắc ám khác chú ý và lôi kéo.</li>
+<li>  <strong>Chương 52:</strong> Giao Dịch Ngầm.</li>
+<li>  Thực hiện các giao dịch phi pháp để tích lũy tài nguyên.</li>
+<li>  <strong>Chương 53:</strong> Bí Mật Cổ Trùng.</li>
+<li>  Tìm hiểu sâu hơn về Cổ Trùng và cách điều khiển chúng.</li>
+<li>  <strong>Chương 54:</strong> Thí Nghiệm Trên Người Sống.</li>
+<li>  Bắt đầu thực hiện các thí nghiệm tàn độc để nâng cao công pháp.</li>
+<li>  <strong>Chương 55:</strong> Đột Phá Trúc Cơ Trung Kỳ.</li>
+<li>  Thành công nâng cao cảnh giới nhờ các thí nghiệm.</li>
+<li>  <strong>Chương 56:</strong> Sự Ghen Ghét Của Đồng Môn.</li>
+<li>  Các đệ tử chân truyền khác bắt đầu lo sợ và tìm cách hãm hại.</li>
+<li>  <strong>Chương 57:</strong> Cái Bẫy Liên Hoàn.</li>
+<li>  Bị cuốn vào một âm mưu hãm hại tinh vi.</li>
+<li>  <strong>Chương 58:</strong> Phản Đòn.</li>
+<li>  Lệ Vô Tâm lật ngược tình thế, tiêu diệt kẻ chủ mưu.</li>
+<li>  <strong>Chương 59:</strong> Độc Cô Lão Quái Hài Lòng.</li>
+<li>  Được sư phụ khen ngợi và ban thưởng thêm tài nguyên.</li>
+<li>  <strong>Chương 60:</strong> Chuẩn Bị Cho Đại Sự.</li>
+<li>  Kết thúc Arc 2, chuẩn bị bước vào giai đoạn Vạn Độc Thánh Tử.</li>
+</ul>
+<p>---</p>
+<br>
+<h2>ARC 3: VẠN ĐỘC THÁNH TỬ</h2>
+<p><strong>Thời điểm:</strong> 22 tuổi - Hiện tại.</p>
+<p><strong>Bối cảnh:</strong> Nội Môn & Chiến Trường.</p>
+<p><strong>Chủ đề:</strong> Quyền Lực & Âm Mưu.</p>
+<p><strong>Số lượng dự kiến:</strong> 30 chương (Chương 61 - 90).</p>
+<br>
+<h3>Danh Sách Chương:</h3>
+<br>
+<p>#### Phần 1: Mở Đầu Huyết Độc Chi Họa (Chương 61 - 69)</p>
+<ul>
+<li>  <strong>Chương 61:</strong> Mệnh Lệnh Bóng Tối.</li>
+<li>  <strong>Chương 62:</strong> Thí Nghiệm Máu.</li>
+<li>  <strong>Chương 63:</strong> Ván Cờ Huyết Độc.</li>
+<li>  <strong>Chương 64:</strong> Truy Vết Tử Thần.</li>
+<li>  <strong>Chương 65:</strong> Dưới Bóng Hắc Sa.</li>
+<li>  <strong>Chương 66:</strong> Huyết Tế Sa Mạc.</li>
+<li>  <strong>Chương 67:</strong> Sát Ý Rừng Gai.</li>
+<li>  <strong>Chương 68:</strong> Mạng Lưới Tử Thần.</li>
+<li>  <strong>Chương 69:</strong> Con Mồi Vào Rọ.</li>
+</ul>
+<p>#### Phần 2: Đối Đầu Chính Diện (Chương 70 - 80)</p>
+<ul>
+<li>  <strong>Chương 70:</strong> Cuộc Chiến Rừng Huyết Độc.</li>
+<li>  Chỉ huy quân đoàn Huyết Thi tấn công phe chính đạo.</li>
+<li>  <strong>Chương 71:</strong> Đối Đầu Diệp Tĩnh Sương.</li>
+<li>  Trận chiến định mệnh với nữ kiếm tu của Cửu Hoa Kiếm Tông.</li>
+<li>  <strong>Chương 72:</strong> Cạm Bẫy Của Lâm Phong.</li>
+<li>  Bị Lâm Phong dùng mưu kế dụ vào bẫy.</li>
+<li>  <strong>Chương 73:</strong> Thoát Hiểm Gang Tấc.</li>
+<li>  Dùng khổ nhục kế để thoát thân.</li>
+<li>  <strong>Chương 74:</strong> Cơn Giận Của Thánh Tử.</li>
+<li>  Quay lại trừng phạt những kẻ thuộc hạ làm việc không hiệu quả.</li>
+<li>  <strong>Chương 75:</strong> Kế Hoạch Phản Công.</li>
+<li>  Xây dựng kế hoạch tấn công mới tàn độc hơn.</li>
+<li>  <strong>Chương 76:</strong> Triệu Hồi Độc Long.</li>
+<li>  Sử dụng bí pháp để triệu hồi Độc Long Tích hỗ trợ.</li>
+<li>  <strong>Chương 77:</strong> Trận Chiến Đẫm Máu.</li>
+<li>  Cuộc chiến tổng lực giữa hai phe.</li>
+<li>  <strong>Chương 78:</strong> Sự Hy Sinh Của Con Tốt.</li>
+<li>  Sẵn sàng hy sinh thuộc hạ để đạt được mục đích.</li>
+<li>  <strong>Chương 79:</strong> Bước Ngoặt Bất Ngờ.</li>
+<li>  Một biến cố xảy ra làm thay đổi cục diện trận chiến.</li>
+<li>  <strong>Chương 80:</strong> Rút Lui Chiến Thuật.</li>
+<li>  Tạm thời rút lui để bảo toàn lực lượng.</li>
+</ul>
+<p>#### Phần 3: Đỉnh Cao Quyền Lực (Chương 81 - 90)</p>
+<ul>
+<li>  <strong>Chương 81:</strong> Củng Cố Lực Lượng.</li>
+<li>  Hồi phục và tập hợp lại quân đội.</li>
+<li>  <strong>Chương 82:</strong> Âm Mưu Thôn Tính.</li>
+<li>  Lên kế hoạch thôn tính các thế lực nhỏ xung quanh.</li>
+<li>  <strong>Chương 83:</strong> Sự Trỗi Dậy Của Ma Đầu.</li>
+<li>  Danh tiếng Lệ Vô Tâm đạt đến đỉnh cao.</li>
+<li>  <strong>Chương 84:</strong> Thử Thách Của Thiên Đạo.</li>
+<li>  Đối mặt với tâm ma khi tu luyện lên tầng cao mới.</li>
+<li>  <strong>Chương 85:</strong> Vượt Qua Tâm Ma.</li>
+<li>  Chiến thắng bản thân, trở nên lạnh lùng và tàn nhẫn hơn.</li>
+<li>  <strong>Chương 86:</strong> Chuẩn Bị Cho Trận Chiến Cuối Cùng.</li>
+<li>  Tích lũy tài nguyên cho trận quyết chiến.</li>
+<li>  <strong>Chương 87:</strong> Lời Tuyên Chiến.</li>
+<li>  Gửi lời khiêu chiến đến toàn bộ giới tu chân Nam Cương.</li>
+<li>  <strong>Chương 88:</strong> Bóng Tối Bao Trùm.</li>
+<li>  Vạn Độc Môn bắt đầu chiến dịch xâm lược quy mô lớn.</li>
+<li>  <strong>Chương 89:</strong> Vị Vua Không Ngai.</li>
+<li>  Lệ Vô Tâm trở thành nỗi khiếp sợ thực sự, một vị vua trong bóng tối.</li>
+<li>  <strong>Chương 90:</strong> Hồi Kết Của Một Chặng Đường.</li>
+<li>  Kết thúc Arc 3, mở ra một kỷ nguyên đen tối mới cho Nam Cương.</li>
+</ul>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

@@ -73,13 +73,21 @@ def markdown_to_html(md_text):
 
     return html
 
-def get_html_header(title, level_to_root):
+def get_html_header(title, level_to_root, rel_path=None):
     # Adjust path to root based on folder depth
     # e.g. Đạo/HỒ_SƠ_THẾ_GIỚI.md -> depth 1 -> ../
     # e.g. Đạo/Nhân_Vật/Diệp_Thanh_Y.md -> depth 2 -> ../../
     root_path = "../" * level_to_root
     if level_to_root == 0:
         root_path = "./"
+
+    # Construct Edit on GitHub Link
+    edit_link_html = ""
+    if rel_path:
+        # Convert path separators to forward slashes for URLs
+        github_path = rel_path.replace("\\", "/")
+        edit_url = f"https://github.com/sampi314/Obsidian_Novel_v2/edit/main/{github_path}"
+        edit_link_html = f'<a href="{edit_url}" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>'
 
     return f"""<!DOCTYPE html>
 <html lang="vi">
@@ -212,6 +220,32 @@ def get_html_header(title, level_to_root):
             background: rgba(212, 175, 55, 0.05);
         }}
 
+        .header-links {{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }}
+
+        .edit-link {{
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }}
+
+        .edit-link:hover {{
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }}
+
         /* Table styles for character/technique lists */
         table {{
             width: 100%;
@@ -243,7 +277,10 @@ def get_html_header(title, level_to_root):
     </style>
 </head>
 <body>
-    <a href="{root_path}index.html" class="back-link">← Quay lại Trang Chủ</a>
+    <div class="header-links">
+        <a href="{root_path}index.html" class="back-link">← Quay lại Trang Chủ</a>
+        {edit_link_html}
+    </div>
 """
 
 def get_html_footer():
@@ -281,7 +318,7 @@ def process_markdown_file(filepath, repo_root):
     html_content = re.sub(r'^<p>---</p>.*?<p>---</p><br>', '', html_content, flags=re.DOTALL)
 
     # Wrap in template
-    full_html = get_html_header(title, level_to_root) + html_content + get_html_footer()
+    full_html = get_html_header(title, level_to_root, rel_path) + html_content + get_html_footer()
 
     # Save as .html
     html_filepath = filepath.replace('.md', '.html')
