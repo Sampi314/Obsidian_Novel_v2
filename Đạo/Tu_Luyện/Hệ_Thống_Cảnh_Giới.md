@@ -70,3 +70,20 @@ Hệ thống tu luyện của Cố Nguyên Giới chia thành 9 đại cảnh gi
     - **Thành Công:** Phi thăng Tiên Giới, thành Chân Tiên.
     - **Thất Bại (Nhẹ):** Binh giải thành Tán Tiên (Địa Tiên), chịu kiếp nạn mỗi 1000 năm.
     - **Thất Bại (Nặng):** Hồn phi phách tán, vĩnh viễn biến mất.
+
+## CHI TIẾT VỀ CÁC KIẾP NẠN (TÂM MA & LÔI KIẾP)
+
+### Tâm Ma Kiếp (心魔劫)
+Tâm Ma Kiếp không chỉ là một rào cản thông thường mà là một bài kiểm tra sinh tử nhắm thẳng vào đạo tâm của tu sĩ. Nó thường xuất hiện ở những thời khắc đột phá quan trọng (đặc biệt là kết Kim Đan và hóa Nguyên Anh).
+- **Nguồn Gốc:** Sinh ra từ những dục vọng, nỗi sợ hãi, ân oán, hoặc những hối tiếc sâu kín nhất trong quá khứ của người tu luyện.
+- **Biểu Hiện:** Tu sĩ sẽ rơi vào một thế giới huyễn cảnh vô cùng chân thực. Ở đó, họ phải đối mặt và giải quyết những chướng ngại tinh thần của chính mình.
+- **Hệ Quả:**
+  - *Vượt Qua:* Đạo tâm kiên định, tu vi tăng tiến, nguyên thần trong sáng hơn.
+  - *Thất Bại:* Tâm trí sụp đổ, nhẹ thì tẩu hỏa nhập ma, tu vi thụt lùi; nặng thì trở thành phế nhân hoặc bị Tâm Ma chiếm đoạt thể xác, biến thành Ma Tu vô tri.
+
+### Lôi Kiếp (雷劫)
+Lôi Kiếp là sự trừng phạt và cũng là sự công nhận của Thiên Đạo đối với những kẻ dám "nghịch thiên cải mệnh".
+- **Các Loại Lôi Kiếp:**
+  - *Tiểu Thiên Kiếp (Trúc Cơ / Nguyên Anh):* Thường từ 3 đến 9 luồng sét, thử thách nhục thân và linh lực cơ bản.
+  - *Đại Thiên Kiếp (Hóa Thần / Luyện Hư):* Sức tàn phá khủng khiếp, mang theo pháp tắc thiên địa, đòi hỏi sự chuẩn bị kỹ lưỡng về pháp bảo và trận pháp hộ pháp.
+  - *Phi Thăng Lôi Kiếp (Độ Kiếp Kỳ):* Cửu Thiên Thần Lôi uy chấn hoàn vũ, là thử thách cuối cùng để lột xác thành Tiên.
