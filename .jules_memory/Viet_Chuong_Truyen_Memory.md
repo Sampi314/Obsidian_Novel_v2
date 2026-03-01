@@ -401,3 +401,11 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Ngay khi Lệ Vô Tâm chuẩn bị hạ sát Diệp Tĩnh Sương, Đại Trưởng Lão Thanh Hư với tu vi Hóa Thần Sơ Kỳ đã xuất hiện. Bằng uy áp khổng lồ, ông phá nát Vạn Độc Thân của Lệ Vô Tâm. Đứng trước sức mạnh tuyệt đối, Lệ Vô Tâm phải sử dụng Huyết Độn Phù (bảo vật của Huyết Sát Minh) để trốn thoát. Cuộc tấn công ngoại môn tạm lắng, hạm đội Huyết Vân Chu cũng rút lui, để lại Cửu Hoa Kiếm Tông đối mặt với sự tàn phá nặng nề.
 - **Tình trạng:** Hoàn thành. Kết thúc đợt tấn công đầu tiên của Huyết Sát Minh vào Cửu Hoa Kiếm Tông.
+
+## Phiên làm việc: Viết Chương 97 (Góc Nhìn Chính) & Chương 91 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 97:** Khắc Phục Hậu Quả
+- **Chương 91:** Báo Cáo Thất Bại
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Hạm đội Huyết Sát Minh rút lui. Cửu Hoa Kiếm Tông bắt tay vào dọn dẹp và khắc phục hậu quả ở ngoại môn. Diệp Tĩnh Sương và Lâm Phong nhận ra sự chênh lệch to lớn giữa tu vi của họ và các cường giả chân chính, đồng thời quyết tâm mạnh mẽ hơn. Ở phía bên kia, Lệ Vô Tâm trở về báo cáo với Huyết Tước. Hắn hiểu rõ mình chỉ là quân cờ của Huyết Sát Minh, nhưng mượn lấy tham vọng đó để nuôi dã tâm riêng, tự hứa sẽ đè bẹp cả Chính và Tà.
+- **Tình trạng:** Hoàn thành. Bước chuyển tiếp quan trọng chuẩn bị cho giai đoạn tu luyện cường độ cao và xung đột ở tầm vóc mới.
