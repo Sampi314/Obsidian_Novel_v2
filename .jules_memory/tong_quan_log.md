@@ -596,3 +596,28 @@
 ## 4. KẾ HOẠCH TIẾP THEO
 - Viết tiếp Chương 90 (Góc Nhìn Chính): Nhóm Diệp Tĩnh Sương đến được Cửu Hoa Kiếm Tông và gặp Lục Trần/Tông Chủ báo cáo tình hình.
 - Viết tiếp Chương 84 (Góc Nhìn Lệ Vô Tâm): Hành trình đột nhập Trung Tâm của Lệ Vô Tâm và thực hiện vụ ám sát đầu tiên tại đây.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Thâm Nhập Trung Tâm)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 90 "Đến Cửu Hoa" (Góc Nhìn Chính) và Chương 84 "Bóng Ma Trung Tâm" (Góc Nhìn Lệ Vô Tâm) để tiếp tục Arc 4.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00090_Đến_Cửu_Hoa.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00084_Bóng_Ma_Trung_Tâm.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết hai chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật trạng thái diễn biến đến Cửu Hoa Kiếm Tông và vụ tàn sát đầu tiên của Lệ Vô Tâm.
+  - `Đạo/Chương_Truyện/.../MỤC_LỤC.md`: Thêm hai chương mới vào mục lục của mỗi góc nhìn.
+  - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Thêm tóm tắt hai chương mới.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Nhóm Tĩnh Sương đã an toàn đến Cửu Hoa Kiếm Tông, báo cáo và nhận được sự hỗ trợ. Tĩnh Sương bắt đầu nảy sinh nghi ngờ đối với Lục Trần. Cùng lúc, Lệ Vô Tâm đã chính thức vươn vòi rồng tới Trung Tâm, tàn sát Phi Long Tiêu Cục để rèn luyện và che giấu, hiện đang nhắm thẳng Cửu Hoa Kiếm Tông.
+- **Tình trạng:** Quá trình chuẩn bị xung đột diễn ra trơn tru.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết Chương 91 (Góc Nhìn Chính): Diễn biến tại Cửu Hoa Kiếm Tông, Tĩnh Sương bí mật điều tra.
+- Viết Chương 85 (Góc Nhìn Lệ Vô Tâm): Lệ Vô Tâm tiếp cận ngoại môn Cửu Hoa Kiếm Tông và bàn giao món quà cho Lục Trần.

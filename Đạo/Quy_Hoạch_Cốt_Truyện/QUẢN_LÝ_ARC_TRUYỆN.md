@@ -78,7 +78,8 @@
     - **Nhiệm Vụ Hiện Tại:** Rời khỏi Đầm Lầy Tử Thần, hội ngộ và cùng Sở Lăng Sương tiến về Trung Tâm (Hoàn thành - Chương 87 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Tiến vào lãnh thổ Trung Tâm (Bình Nguyên Vạn Tượng), nhận thức rõ hơn về thế lực Huyết Sát Minh và bị phục kích bởi một nhóm sát thủ của tổ chức này.
     - **Nhiệm Vụ Hiện Tại:** Đánh bại nhóm sát thủ Huyết Sát Minh và tiếp tục hành trình đến Cửu Hoa Kiếm Tông (Hoàn thành - Chương 89 Góc Nhìn Chính).
-    - **Sự Kiện Mới:** Nhận ra sự thâm nhập đáng sợ của Huyết Sát Minh vào khu vực Trung Tâm, quyết tâm đến Cửu Hoa Kiếm Tông cảnh báo.
+    - **Sự Kiện Mới:** Nhận ra sự thâm nhập đáng sợ của Huyết Sát Minh vào khu vực Trung Tâm, đến Cửu Hoa Kiếm Tông và báo cáo tình hình với Tông Chủ, Lục Trần (Hoàn thành - Chương 90 Góc Nhìn Chính).
+    - **Nhiệm Vụ Hiện Tại:** Dưỡng thương tại Cửu Hoa Kiếm Tông và chuẩn bị tham gia đại hội các tông môn Chính Đạo.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đã hoàn thành (Chuyển sang Arc mới).
@@ -112,6 +113,8 @@
     - **Sự Kiện Mới:** Chịu đựng cơn đau đớn tột cùng khi hấp thụ Huyết Tinh Nguyên, Thiên Tinh Mẫu Cổ dung hợp hoàn toàn. Vạn Độc Thân được tái tạo và đột phá lên Trúc Cơ Hậu Kỳ. Lệ Vô Tâm nhận nhiệm vụ mới từ Huyết Thần Tử: đối phó với nhóm Diệp Tĩnh Sương đang trên đường đến Cửu Hoa Kiếm Tông (Hoàn thành - Chương 82 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Lệ Vô Tâm diện kiến Huyết Tước, nhận hộp ngọc "Huyết Tinh Oán Linh" để giao cho Lục Trần - Trưởng Lão Ngoại Môn Cửu Hoa Kiếm Tông.
     - **Nhiệm Vụ Hiện Tại:** Lên đường tiến vào Trung Tâm để thực hiện nhiệm vụ phá hoại và chuẩn bị trả thù nhóm Diệp Tĩnh Sương (Hoàn thành - Chương 83 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Thử nghiệm sức mạnh Vạn Độc Thân Trúc Cơ Hậu Kỳ, tàn sát Phi Long Tiêu Cục ở Trung Tâm (Hoàn thành - Chương 84 Góc Nhìn Lệ Vô Tâm).
+    - **Nhiệm Vụ Hiện Tại:** Tiến đến Cửu Hoa Kiếm Tông, liên lạc với Lục Trần để kích hoạt Huyết Tinh Oán Linh.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
