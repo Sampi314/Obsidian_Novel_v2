@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00091 Báo Cáo Thất Bại</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00091_Báo_Cáo_Thất_Bại.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<br>
+<!-- NAVIGATION_START -->
+<div class="navigation">
+<a href="Chương_00090_Uy_Áp_Hóa_Thần.html">< Chương 90: Uy Áp Hóa Thần</a> | <a href="MỤC_LỤC.html">Mục Lục</a> | Chương 92: TBA >
+</div>
+<!-- NAVIGATION_END -->
+<h1>Chương 91: Báo Cáo Thất Bại</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Góc nhìn:</strong> <a href="../../Nhân_Vật/Lệ_Vô_Tâm.html">Lệ Vô Tâm</a></p>
+<p><strong>Địa điểm:</strong> Căn cứ bí mật của Huyết Sát Minh (Vô Tận Hải).</p>
+<p><strong>Thời điểm:</strong> Sau cuộc tấn công vào Cửu Hoa Kiếm Tông.</p>
+<p><strong>Giao Điểm Cốt Truyện:</strong> Arc 4 - Huyết Sát Tại Trung Tâm (Chương 11).</p>
+<br>
+<p>---</p>
+<br>
+<p>Không gian xung quanh ta như bị xé toạc, vặn xoắn thành những mảng màu đỏ thẫm đáng sợ. Huyết Độn Phù quả thực là một bảo vật cứu mạng tuyệt vời, nhưng cái giá phải trả cũng không hề nhỏ. Mỗi lần sử dụng, nó rút đi một lượng lớn tinh huyết và linh lực, khiến cơ thể người dùng như bị rút cạn.</p>
+<br>
+<p>Khi cảnh vật xung quanh dần ổn định lại, ta thấy mình đang quỳ gối trên nền đá lạnh lẽo của đại điện tại Huyết Uyên Đảo. Mùi tanh của máu và sự ẩm ướt của biển khơi xộc vào mũi, nhắc nhở ta rằng ta đã trở về sào huyệt của Huyết Sát Minh.</p>
+<br>
+<p>Cơn đau buốt từ lồng ngực truyền đến khiến ta phải ho khan vài tiếng. Vạn Độc Thân của ta đã bị phá vỡ dưới uy áp của lão già Hóa Thần Kỳ kia. Dù đã dùng Huyết Tinh Nguyên để tái tạo, nhưng tổn thương ở bản nguyên vẫn là quá lớn.</p>
+<br>
+<p>Ta ngước mắt lên. Huyết Tước đang đứng đó, khoanh tay trước ngực, ánh mắt lạnh lẽo nhìn xuống ta.</p>
+<br>
+<p>"Ngươi trông thảm hại hơn ta nghĩ đấy, Vạn Độc Thánh Tử," hắn cất giọng mỉa mai.</p>
+<br>
+<p>Ta cắn răng, từ từ đứng dậy. Dù cơ thể đang rệu rã, ta vẫn cố gắng giữ thẳng lưng. Ta không thể để bọn chúng thấy sự yếu đuối của mình, đặc biệt là ở nơi cá lớn nuốt cá bé này.</p>
+<br>
+<p>"Nhiệm vụ thất bại," ta lạnh lùng nói, không thèm để tâm đến lời mỉa mai của hắn. "Lục Trần đã làm hỏng việc, khiến Hộ Sơn Đại Trận không bị phá hủy hoàn toàn. Và... một lão già Hóa Thần Kỳ đã xuất hiện."</p>
+<br>
+<p>Ánh mắt Huyết Tước lóe lên một tia kinh ngạc, nhưng rất nhanh sau đó lại trở về vẻ lạnh nhạt thường thấy.</p>
+<br>
+<p>"Thanh Hư sao?" hắn lẩm bẩm. "Không ngờ lão quái vật đó lại xuất quan sớm như vậy. Xem ra, tin tình báo của chúng ta có chút sai lệch."</p>
+<br>
+<p>Hắn bước tới gần ta, quan sát những vết thương trên người ta.</p>
+<br>
+<p>"Dù sao thì, ngươi cũng đã hoàn thành phần lớn nhiệm vụ. Việc định vị bằng Huyết Tinh Phù đã thành công, và chúng ta cũng đã gây ra một tổn thất không nhỏ cho ngoại môn Cửu Hoa Kiếm Tông. Minh Chủ sẽ không trách phạt ngươi quá nặng đâu."</p>
+<br>
+<p>"Minh Chủ muốn gặp ta sao?" ta nhướng mày hỏi.</p>
+<br>
+<p>"Không," Huyết Tước đáp, lắc đầu. "Ngài đang bận chuẩn bị cho kế hoạch tiếp theo. Ngươi chỉ cần ở lại đây dưỡng thương. Khi nào cần, ta sẽ gọi."</p>
+<br>
+<p>Ta không nói gì thêm, quay lưng bước đi. Trong đầu ta lúc này ngổn ngang những suy nghĩ.</p>
+<br>
+<p>Lão già Hóa Thần Kỳ đó... uy áp của lão thật khủng khiếp. Nó không chỉ là sức mạnh vật lý, mà là một sự chấn nhiếp từ tận sâu thẳm linh hồn. Đứng trước lão, ta cảm thấy mình nhỏ bé và vô lực như một con kiến.</p>
+<br>
+<p>Ta nhìn xuống bàn tay mình. Những ngón tay đang run rẩy, không phải vì sợ hãi, mà vì tức giận. Tức giận vì sự yếu kém của bản thân.</p>
+<br>
+<p>"Vạn Độc Thân Trúc Cơ Hậu Kỳ... vẫn chưa đủ," ta nghiến răng, lẩm bẩm.</p>
+<br>
+<p>Ta nhớ lại khoảnh khắc đối mặt với Diệp Tĩnh Sương. Nàng ta chỉ là một kiếm tu Trúc Cơ Sơ Kỳ, nhưng ý chí chiến đấu của nàng, cộng với thanh Hàn Mai Kiếm kia, đã gây cho ta không ít phiền toái. Nếu không có sự xuất hiện của Thanh Hư, có lẽ ta đã tự tay nghiền nát nàng.</p>
+<br>
+<p>Nhưng thực tế là ta đã phải bỏ chạy.</p>
+<br>
+<p>"Huyết Sát Minh... bọn chúng đang lợi dụng ta," ta thầm nghĩ, nhớ lại ánh mắt của Huyết Thần Tử khi trao cho ta Huyết Tinh Nguyên. "Bọn chúng cho ta sức mạnh, nhưng cũng đồng thời trói buộc ta."</p>
+<br>
+<p>Ta biết rõ điều đó. Nhưng hiện tại, ta không còn lựa chọn nào khác. Vạn Độc Môn đã nằm trong tay ta, nhưng để chống lại Cửu Hoa Kiếm Tông và toàn bộ Chính Đạo, ta cần một thế lực lớn hơn chống lưng.</p>
+<br>
+<p>"Ta sẽ dùng sức mạnh của chúng để mạnh lên," ta hạ quyết tâm, đôi mắt lóe lên tia sáng lạnh lẽo. "Đến khi ta đủ mạnh, ta sẽ tự tay hủy diệt tất cả. Cửu Hoa Kiếm Tông, Huyết Sát Minh... không một kẻ nào có thể cản đường Lệ Vô Tâm này!"</p>
+<br>
+<p>Ta bước vào mật thất dưỡng thương, đóng sầm cửa lại. Bên trong, một luồng Huyết Khí nồng đậm đang cuộn trào, chờ đợi ta hấp thụ.</p>
+<br>
+<p>Cuộc chiến này chỉ mới bắt đầu. Lần tới gặp lại, ta sẽ không để bọn chúng có cơ hội thở dốc.</p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

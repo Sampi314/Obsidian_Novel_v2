@@ -96,4 +96,5 @@
 - [Chương 94: Bão Táp Cửu Hoa](Chương_00094_Bão_Táp_Cửu_Hoa.md)
 - [Chương 95: Huyết Chiến Ngoại Môn](Chương_00095_Huyết_Chiến_Ngoại_Môn.md)
 - [Chương 96: Cường Giả Hàng Lâm](Chương_00096_Cường_Giả_Hàng_Lâm.md)
+- [Chương 97: Khắc Phục Hậu Quả](Chương_00097_Khắc_Phục_Hậu_Quả.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)
