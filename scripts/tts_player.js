@@ -4,7 +4,10 @@
     var currentIndex = 0;
     var isPaused = false;
     var isStopped = true; // start as true until play is hit
-    var currentSpeed = 1.0;
+
+    // Load saved speed or default to 1.0
+    var savedSpeed = localStorage.getItem('tts_speed');
+    var currentSpeed = savedSpeed ? parseFloat(savedSpeed) : 1.0;
 
     // Elements to read
     var contentElements = [];
@@ -67,6 +70,7 @@
     function increaseSpeed() {
         if (currentSpeed < 2.5) {
             currentSpeed += 0.1;
+            localStorage.setItem('tts_speed', currentSpeed.toFixed(1));
             updateSpeedDisplay();
             restartCurrentUtteranceIfPlaying();
         }
@@ -75,6 +79,7 @@
     function decreaseSpeed() {
         if (currentSpeed > 0.5) {
             currentSpeed -= 0.1;
+            localStorage.setItem('tts_speed', currentSpeed.toFixed(1));
             updateSpeedDisplay();
             restartCurrentUtteranceIfPlaying();
         }
@@ -300,6 +305,9 @@
 
         // Initial control state
         toggleControls('stopped');
+
+        // Update speed display to reflect saved settings
+        updateSpeedDisplay();
 
         var urlParams = new URLSearchParams(window.location.search);
         if (urlParams.get('autoplay') === 'true') {
