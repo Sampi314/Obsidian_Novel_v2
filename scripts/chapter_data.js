@@ -351,6 +351,18 @@ window.chapterData = {
       "title": "Chương 84: Phá Hủy Mắt Trận"
     },
     {
+      "filename": "Chương_00085_Hội_Sư_Đầm_Lầy.md",
+      "title": "Chương 85: Hội Sư Đầm Lầy"
+    },
+    {
+      "filename": "Chương_00086_Trảm_Độc_Kiếm_Tâm.md",
+      "title": "Chương 86: Trảm Độc Kiếm Tâm"
+    },
+    {
+      "filename": "Chương_00087_Hành_Trình_Mới.md",
+      "title": "Chương 87: Hành Trình Mới"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -709,6 +721,18 @@ window.chapterData = {
     {
       "filename": "Chương_00078_Đại_Chiến_Đầm_Lầy.md",
       "title": "Chương 78: Đại Chiến Đầm Lầy"
+    },
+    {
+      "filename": "Chương_00079_Tử_Chiến_Đầm_Lầy.md",
+      "title": "Chương 79: Tử Chiến Đầm Lầy"
+    },
+    {
+      "filename": "Chương_00080_Kết_Cục_Phệ_Hồn.md",
+      "title": "Chương 80: Kết Cục Phệ Hồn"
+    },
+    {
+      "filename": "Chương_00081_Bí_Cảnh_Huyết_Sát.md",
+      "title": "Chương 81: Bí Cảnh Huyết Sát"
     }
   ]
 };
