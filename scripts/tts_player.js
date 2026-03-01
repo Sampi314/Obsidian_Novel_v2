@@ -125,10 +125,11 @@
             stopReading();
 
             // Auto-advance to next chapter if available
-            if (nextChapterUrl && nextChapterUrl !== "#") {
+            var currentNextChapterUrl = window.nextChapterUrl || "#";
+            if (currentNextChapterUrl && currentNextChapterUrl !== "#") {
                 // Add autoplay param
-                var separator = nextChapterUrl.includes('?') ? '&' : '?';
-                window.location.href = nextChapterUrl + separator + 'autoplay=true';
+                var separator = currentNextChapterUrl.includes('?') ? '&' : '?';
+                window.location.href = currentNextChapterUrl + separator + 'autoplay=true';
             }
             return;
         }
