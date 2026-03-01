@@ -23,3 +23,4 @@
 - [Chương 76: Huyết Vệ Xuất Kích](Chương_00076_Huyết_Vệ_Xuất_Kích.md)
 - [Chương 77: Biến Số Từ Đầm Lầy](Chương_00077_Biến_Số_Từ_Đầm_Lầy.md)
 - [Chương 78: Đại Chiến Đầm Lầy](Chương_00078_Đại_Chiến_Đầm_Lầy.md)
+- [Chương 79: Tử Chiến Đầm Lầy](Chương_00079_Tử_Chiến_Đầm_Lầy.md)
