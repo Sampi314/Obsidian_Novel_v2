@@ -1,11 +1,11 @@
-# TÂY MẠC (西漠) — HOÀNG KIM SA HẢI
+# Tây Mạc (西漠) — Hoàng Kim Sa Hải
 
 > *"Ngàn dặm cát vàng phủ kín trời, gió thổi xương tàn lộ tích xưa. Kẻ nào dám bước vào Tây Mạc, hoặc vùi thân cát, hoặc đắc đạo quy."*
 > — Ca dao cổ của Sa Tộc
 
 ---
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 
 - **Tên Gọi:** Tây Mạc (西漠), còn được gọi là Hoàng Kim Sa Hải, Tử Vong Chi Địa.
 - **Vị Trí:** Phía Tây Cố Nguyên Lục Địa, giáp ranh Trung Thổ (phía Đông), Bắc Băng (phía Bắc), Vô Tận Hải (phía Tây và Tây Nam).
@@ -15,7 +15,7 @@
 
 ---
 
-## II. ĐỊA HÌNH
+## Ii. Địa Hình
 
 Tây Mạc không phải chỉ là một vùng cát đơn điệu mà là một thế giới đa tầng, biến ảo khôn lường.
 
@@ -50,7 +50,7 @@ Tây Mạc không phải chỉ là một vùng cát đơn điệu mà là một 
 
 ---
 
-## III. KHÍ HẬU
+## Iii. Khí Hậu
 
 ### Ban Ngày
 - Nhiệt độ cực cao, ánh mặt trời thiêu đốt, mặt cát có thể nóng đến mức nung chảy kim loại thấp cấp. Tu sĩ Luyện Khí trở xuống nếu không có bảo hộ sẽ mất thủy phần và tử vong trong vòng nửa ngày.
@@ -70,7 +70,7 @@ Tây Mạc không phải chỉ là một vùng cát đơn điệu mà là một 
 
 ---
 
-## IV. LINH KHÍ
+## Iv. Linh Khí
 
 ### Đặc Tính
 - **Chủ Đạo:** Thổ Linh Khí và Phong Linh Khí đan xen, tạo thành dạng linh khí đặc trưng gọi là **Sa Linh Khí (沙靈氣)** — linh khí mang tính chất cát bụi, thô ráp nhưng hùng hậu.
@@ -88,7 +88,7 @@ Tây Mạc không phải chỉ là một vùng cát đơn điệu mà là một 
 
 ---
 
-## V. HỆ SINH THÁI
+## V. Hệ Sinh Thái
 
 ### Linh Thú Sa Mạc
 
@@ -131,7 +131,7 @@ Tây Mạc không phải chỉ là một vùng cát đơn điệu mà là một 
 
 ---
 
-## VI. TÀI NGUYÊN
+## Vi. Tài Nguyên
 
 ### Khoáng Sản
 
@@ -160,7 +160,7 @@ Tây Mạc không phải chỉ là một vùng cát đơn điệu mà là một 
 
 ---
 
-## VII. CƯ DÂN
+## Vii. Cư Dân
 
 ### Sa Tộc (沙族) — Nhánh Nhân Tộc
 
@@ -198,7 +198,7 @@ Sa Tộc vốn là một nhánh Nhân Tộc di cư về phía Tây sau Minh Ư�
 
 ---
 
-## VIII. ĐỊA ĐIỂM ĐẶC BIỆT
+## Viii. Địa Điểm Đặc Biệt
 
 ### 1. Lưu Sa Cổ Thành (流沙古城)
 - **Vị Trí:** Bị chôn vùi sâu dưới Lưu Sa Khu, trung tâm Tây Mạc. Vị trí chính xác không cố định vì cát liên tục di chuyển.
@@ -226,7 +226,7 @@ Sa Tộc vốn là một nhánh Nhân Tộc di cư về phía Tây sau Minh Ư�
 
 ---
 
-## IX. BÍ CẢNH
+## Ix. Bí Cảnh
 
 ### Sa Mạc Sâu — Vĩnh Tịch Chi Địa (永寂之地)
 - **Vị Trí:** Tận cùng phía Tây của Tây Mạc, nơi sa mạc gặp Vô Tận Hải. Không ai biết chính xác vị trí vì chưa có người trở về.
@@ -243,7 +243,7 @@ Sa Tộc vốn là một nhánh Nhân Tộc di cư về phía Tây sau Minh Ư�
 
 ---
 
-## X. NGUY HIỂM
+## X. Nguy Hiểm
 
 ### Mười Đại Hiểm Họa Của Tây Mạc (Sa Tộc tổng kết)
 
@@ -260,7 +260,7 @@ Sa Tộc vốn là một nhánh Nhân Tộc di cư về phía Tây sau Minh Ư�
 
 ---
 
-## XI. LỊCH SỬ & TRUYỀN THUYẾT
+## Xi. Lịch Sử & Truyền Thuyết
 
 ### Dòng Chảy Lịch Sử
 
@@ -285,7 +285,7 @@ Sa Tộc vốn là một nhánh Nhân Tộc di cư về phía Tây sau Minh Ư�
 
 ---
 
-## XII. QUAN HỆ VỚI CÁC VÙNG KHÁC
+## Xii. Quan Hệ Với Các Vùng Khác
 
 | Vùng | Quan Hệ | Ghi Chú |
 |------|----------|---------|

@@ -1,4 +1,4 @@
-# THIÊN ĐẠO QUY TẮC (天道規則)
+# Thiên Đạo Quy Tắc (天道規則)
 
 > *"Thiên Đạo vô thân, thường dữ thiện nhân. Nhiên Thiên Đạo diệc vô tình, thuận chi giả xương, nghịch chi giả vong."*
 > *(Thiên Đạo không thiên vị, thường giúp người lương thiện. Nhưng Thiên Đạo cũng vô tình, thuận theo thì hưng thịnh, nghịch lại thì diệt vong.)*
@@ -6,7 +6,7 @@
 
 ---
 
-## I. TỔNG QUAN THIÊN ĐẠO
+## I. Tổng Quan Thiên Đạo
 
 ### Định Nghĩa
 **Thiên Đạo (天道)** là tập hợp tất cả quy tắc vận hành của Cố Nguyên Giới — từ quy luật vật chất (trọng lực, thời gian, không gian) đến quy luật siêu nhiên (linh khí, tu luyện, kiếp nạn). Thiên Đạo không phải một thực thể có ý thức, mà là một **hệ thống quy tắc tự vận hành**, giống như luật tự nhiên nhưng bao hàm cả chiều thần bí.
@@ -25,7 +25,7 @@ Thiên Đạo không nói, không hiện hình, nhưng biểu hiện qua:
 
 ---
 
-## II. QUY TẮC ÂM DƯƠNG (陰陽)
+## Ii. Quy Tắc Âm Dương (陰陽)
 
 ### Nguyên Lý Cơ Bản
 Âm Dương là nền tảng cơ bản nhất của Thiên Đạo trong Cố Nguyên Giới. Mọi sự vật, hiện tượng đều chứa đựng hai mặt đối lập nhưng bổ sung cho nhau.
@@ -58,7 +58,7 @@ Thiên Đạo không nói, không hiện hình, nhưng biểu hiện qua:
 
 ---
 
-## III. NHÂN QUẢ LUẬT (因果律)
+## Iii. Nhân Quả Luật (因果律)
 
 ### Định Nghĩa
 Nhân Quả Luật là quy tắc của Thiên Đạo quy định rằng **mọi hành động đều tạo ra hệ quả tương ứng**. Không phải thưởng thiện phạt ác đơn giản, mà là một hệ thống cân bằng phức tạp.
@@ -94,7 +94,7 @@ Nhân Quả Luật là quy tắc của Thiên Đạo quy định rằng **mọi 
 
 ---
 
-## IV. THIÊN KIẾP (天劫)
+## Iv. Thiên Kiếp (天劫)
 
 ### Tổng Quan
 Thiên Kiếp là thử thách do Thiên Đạo giáng xuống khi tu sĩ đột phá cảnh giới, nhằm **xác nhận** xem sinh linh đó có đủ tư cách nắm giữ sức mạnh lớn hơn hay không. Thiên Kiếp càng mạnh, chứng tỏ tiềm năng của tu sĩ càng cao — nhưng nguy hiểm cũng tương ứng.
@@ -147,7 +147,7 @@ Ngoài các thiên kiếp khi đột phá, còn tồn tại một số kiếp n�
 
 ---
 
-## V. CẤM CHẾ (禁制)
+## V. Cấm Chế (禁制)
 
 ### Định Nghĩa
 Cấm Chế là những quy tắc bất khả xâm phạm của Thiên Đạo. Vi phạm sẽ bị **Thiên Phạt** — hình phạt tự động từ Thiên Đạo, không thể tránh né, không thể xin tha.
@@ -183,7 +183,7 @@ Cấm Chế là những quy tắc bất khả xâm phạm của Thiên Đạo. V
 
 ---
 
-## VI. THIÊN ĐẠO CHƯA HOÀN THIỆN — ĐẶC TRƯNG KỶ NGUYÊN KHỞI NGUYÊN
+## Vi. Thiên Đạo Chưa Hoàn Thiện — Đặc Trưng Kỷ Nguyên Khởi Nguyên
 
 ### Bối Cảnh
 Thiên Đạo của Cố Nguyên Giới hình thành từ Kỷ Nguyên Hồng Hoang và đang trong quá trình tự hoàn thiện. So với một Thiên Đạo trưởng thành (nếu tồn tại ở thế giới khác), Thiên Đạo Cố Nguyên Giới có nhiều **kẽ hở và bất toàn**.
@@ -223,7 +223,7 @@ Thiên Đạo chưa hoàn thiện là yếu tố cốt lõi tạo nên sự hấ
 
 ---
 
-## VII. ẢNH HƯỞNG LÊN TU SĨ
+## Vii. Ảnh Hưởng Lên Tu Sĩ
 
 ### Tu Luyện
 - Tu sĩ hấp thụ linh khí trời đất để tu luyện, bản chất là **đi ngược Thiên Đạo** (vì linh khí lẽ ra thuộc về trời đất, không phải cá nhân).
@@ -250,7 +250,7 @@ Thiên Đạo chưa hoàn thiện là yếu tố cốt lõi tạo nên sự hấ
 
 ---
 
-## VIII. ẢNH HƯỞNG LÊN YÊU THÚ
+## Viii. Ảnh Hưởng Lên Yêu Thú
 
 ### Hóa Hình (化形)
 - Yêu Thú và Linh Thú tu luyện đến bậc nhất định có thể **Hóa Hình** — biến thành hình người. Đây là bước quan trọng trong tu đạo của phi nhân tộc.
@@ -267,7 +267,7 @@ Thiên Đạo chưa hoàn thiện là yếu tố cốt lõi tạo nên sự hấ
 
 ---
 
-## IX. ẢNH HƯỞNG LÊN TRẬN PHÁP
+## Ix. Ảnh Hưởng Lên Trận Pháp
 
 ### Linh Khí Và Trận Pháp
 - Trận pháp hoạt động bằng cách **tái tổ chức linh khí** trong một khu vực theo cấu trúc nhất định, tạo ra hiệu ứng siêu nhiên (công kích, phòng thủ, ảo giác, phong ấn...).
@@ -283,7 +283,7 @@ Thiên Đạo chưa hoàn thiện là yếu tố cốt lõi tạo nên sự hấ
 
 ---
 
-## X. TỔNG KẾT — BẢN CHẤT THIÊN ĐẠO CỐ NGUYÊN GIỚI
+## X. Tổng Kết — Bản Chất Thiên Đạo Cố Nguyên Giới
 
 > *Thiên Đạo Cố Nguyên Giới như một đứa trẻ đang lớn — có quy tắc nhưng chưa hoàn hảo, có uy nghiêm nhưng còn sơ hở, có quyền năng nhưng chưa toàn tri. Đây vừa là phước lành vừa là nguyền rủa cho vạn sinh linh: phước vì còn có thể lách luật, vượt quy tắc, tìm cơ duyên nghịch thiên; rủa vì sự bất định khiến không ai có thể an tâm — ngay cả bậc đại năng cũng có thể bị Thiên Đạo "nhầm lẫn" mà giáng kiếp.*
 

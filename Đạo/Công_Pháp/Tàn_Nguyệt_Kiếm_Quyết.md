@@ -1,20 +1,20 @@
-# TÀN NGUYỆT KIẾM QUYẾT (殘月劍訣)
+# Tàn Nguyệt Kiếm Quyết (殘月劍訣)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Phẩm Cấp:** Huyền Cấp Trung Phẩm (Vốn là Địa Cấp nhưng bị thất truyền một phần quan trọng).
 - **Thuộc Tính:** Hàn / Băng.
 - **Nguồn Gốc:** Một tàn quyển cũ nát tìm thấy trong di vật của một tu sĩ vô danh.
 
-## II. CƠ CHẾ HOẠT ĐỘNG
+## Ii. Cơ Chế Hoạt Động
 - **Nguyên Lý:** Lấy "Hàn Khí" làm gốc, "Tốc Độ" làm trọng. Công pháp tập trung vào việc ngưng tụ linh khí hệ Băng thành lưỡi kiếm mỏng, sắc bén như ánh trăng khuyết.
 - **Đặc Điểm:** Chiêu thức không cầu kỳ, hoa mỹ mà tập trung vào sự hiệu quả, tàn độc, nhắm thẳng vào điểm yếu (yết hầu, tim, đan điền) của đối thủ. Phương châm là "Tấn công là cách phòng thủ tốt nhất".
 
-## III. CÔNG DỤNG & HIỆU QUẢ
+## Iii. Công Dụng & Hiệu Quả
 - **Lợi Ích Tu Luyện:** Tăng cường khả năng ẩn nấp hơi thở (Quy Tức), giúp người tu luyện dễ dàng hòa mình vào môi trường. Rèn luyện tâm tính lạnh lùng, quyết đoán.
 - **Khả Năng Chiến Đấu:** Tối ưu hóa cho việc ám sát và kết liễu nhanh. Không thích hợp cho đánh lâu dài (sức bền kém) hay đối đầu trực diện với số đông.
 - **Hỗ Trợ Khác:** "Nhãn Lực" được tôi luyện giúp nhìn xuyên bóng tối và phát hiện sơ hở nhỏ nhất của đối thủ.
 
-## IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 4 tầng)
+## Iv. Các Tầng Tu Luyện & Khẩu Quyết (Phân Chia Thành 4 Tầng)
 
 ### 1. Tầng 1: Tân Nguyệt Vô Ngân (新月無痕)
 - **Mô Tả:** Giai đoạn trăng non, ánh sáng yếu ớt khó phát hiện. Luyện kiếm khí mỏng như sợi chỉ, ẩn nấp trong bóng tối, ra đòn bất ngờ.
@@ -80,7 +80,7 @@
         > Dốc toàn bộ vốn liếng vào một lần (đánh cược tất cả), thiêu đốt thân xác này.
         > Đạo kiếm không hối hận, chỉ có chết mới dừng lại.
 
-## V. HỆ THỐNG CHIÊU THỨC (7 Chiêu)
+## V. Hệ Thống Chiêu Thức (7 Chiêu)
 
 1.  **Nguyệt Ảnh Trảm (月影斬):**
     - **Mô Tả:** Xuất kiếm cực nhanh, tạo ra một đường kiếm khí mờ ảo như bóng trăng dưới nước. Khi đối thủ nhận ra thì kiếm đã kề cổ. Khó bị phát hiện hướng tấn công.
@@ -117,12 +117,12 @@
     - **Yêu Cầu:** Đạt Tầng 4 (Tàn Nguyệt Tuyệt Sát).
     - **Uy Lực Tăng Tiến:** Thời gian duy trì trạng thái lâu hơn; Tầng cao nhất giúp miễn nhiễm với các đòn tấn công tinh thần cấp thấp.
 
-## VI. YÊU CẦU & HẠN CHẾ
+## Vi. Yêu Cầu & Hạn Chế
 - **Công Hiệu Đặc Biệt:** Sát Thủ Chi Đạo giúp ẩn nấp hơi thở tốt, Nhãn Lực tăng khả năng quan sát dòng chảy khí huyết.
 - **Tác Dụng Phụ:** Do công pháp thiếu phần điều hòa khí huyết, mỗi khi vận công quá độ, người sử dụng sẽ bị luồng khí lạnh chạy ngược vào tim phổi (Hàn Độc Phản Phệ), gây đau đớn và suy yếu. Kiếm quyết này hoàn toàn không có chiêu thức phòng ngự.
 - **Yêu Cầu Tu Luyện:** Bắt buộc phải có Băng Linh Căn hoặc Thủy Linh Căn biến dị. Tâm tính cần sự lạnh lùng, quyết đoán.
 
-## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
+## Vii. Luận Giải & Chú Thích (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
 - **Ý Nghĩa Khẩu Quyết:** Hình ảnh "Tàn Nguyệt" (Trăng khuyết/Trăng tàn) tượng trưng cho sự không trọn vẹn, sự mất mát và cái chết sắp đến. Bộ kiếm pháp này mang đậm màu sắc bi quan nhưng quyết liệt: biết mình sẽ chết nhưng vẫn tung ra đòn cuối cùng. Tầng 4 (Tuyệt Sát) thể hiện tinh thần "Cùng chết" (Mutually Assured Destruction).
 - **Hình Thức Khẩu Quyết:** Thơ Tứ Ngôn (4 chữ), u ám và sắc lạnh như ánh trăng đêm.

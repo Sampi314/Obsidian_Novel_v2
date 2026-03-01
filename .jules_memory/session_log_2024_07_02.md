@@ -14,8 +14,8 @@
         - Sử dụng yếu tố trận pháp và địa lợi để cân bằng sức mạnh.
         - Kết thúc mở: Hứa Nhược Thủy trúng kịch độc, cả nhóm phải bỏ trốn vào đường hầm bí mật.
 - **Cập nhật hệ thống:**
-    - Cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md` (Thêm chương mới và log cập nhật).
-    - Cập nhật `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md` (Ghi nhận công việc hoàn thành).
+    - Cập nhật `Đạo/Hồ_Sơ_Thế_Giới.md` (Thêm chương mới và log cập nhật).
+    - Cập nhật `Đạo/Báo_Cáo_Chất_Lượng.md` (Ghi nhận công việc hoàn thành).
 
 ## 3. GHI CHÚ QUAN TRỌNG
 - **Cốt truyện:** Hứa Nhược Thủy đang trong tình trạng nguy kịch. Cần thuốc giải hoặc thầy thuốc giỏi (Dược Vương Cốc).

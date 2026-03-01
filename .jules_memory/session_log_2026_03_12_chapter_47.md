@@ -1,4 +1,4 @@
-# Session Log: 2026-03-12 (Chapter 47)
+# Session Log: 2026-03-12 (Chương 47)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Viết tiếp mạch truyện đang dang dở tại Rừng Huyết Độc (Chương 46).
@@ -12,8 +12,8 @@
     - Phá hủy Mắt Trận phụ (Huyết Mộc).
     - Kết thúc: Nghe thấy tiếng sáo của Tinh Linh Tộc.
 - **Cập nhật hệ thống:**
-    - `HỒ_SƠ_THẾ_GIỚI.md`: Thêm Chương 47 vào danh sách và log cập nhật.
-    - `BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoạt động sáng tác.
+    - `Hồ_Sơ_Thế_Giới.md`: Thêm Chương 47 vào danh sách và log cập nhật.
+    - `Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoạt động sáng tác.
 
 ## 3. Thay Đổi Của Người Dùng
 - Không phát hiện thay đổi trực tiếp (comment/TODO) trong phiên này.

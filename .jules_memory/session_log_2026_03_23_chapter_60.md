@@ -1,7 +1,7 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC (2026-03-23)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 60 và tạo hồ sơ kỳ vật mới xuất hiện.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
@@ -11,8 +11,8 @@
   - `Đạo/Kỳ_Vật/Thủy_Cổ.md`: Loài ký sinh trùng canh gác Ám Đạo.
   - `Đạo/Kỳ_Vật/Sa_Bạo_Cổ.md`: Cổ trùng hệ Thổ-Phong tạo bão cát.
 - **Hệ Thống:**
-  - Cập nhật `HỒ_SƠ_THẾ_GIỚI.md` (Thêm 2 kỳ vật và chương mới).
-  - Cập nhật `BÁO_CÁO_CHẤT_LƯỢNG.md`.
+  - Cập nhật `Hồ_Sơ_Thế_Giới.md` (Thêm 2 kỳ vật và chương mới).
+  - Cập nhật `Báo_Cáo_Chất_Lượng.md`.
   - Chạy `add_navigation.py` và `generate_index.py`.
 
 ## 3. TRẠNG THÁI HỆ THỐNG

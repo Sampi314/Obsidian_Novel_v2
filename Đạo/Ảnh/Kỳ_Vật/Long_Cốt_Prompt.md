@@ -2,9 +2,9 @@
 source: Đạo/Kỳ_Vật/Long_Cốt.md
 ---
 
-# LONG CỐT (DRAGON BONE)
+# Long Cốt (Dragon Bone)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Nằm sâu trong hang động hoặc trên tế đàn cổ.
@@ -20,7 +20,7 @@ Nằm sâu trong hang động hoặc trên tế đàn cổ.
 -   Tông màu chủ đạo: Vàng kim (Gold), Trắng ngà (Ivory), Nâu đá (Stone).
 -   Cảm giác: Huyền thoại (Legendary), Sức mạnh tiềm ẩn (Dormant Power).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (concept art),
@@ -32,5 +32,5 @@ imposing aura, epic scale.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, small, plastic, fake, blood.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Kích thước phải lớn để thấy được sự vĩ đại của loài rồng.

@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Nguyệt_Dao.md
 ---
 
-# NGUYỆT DAO (NGUYET DAO)
+# Nguyệt Dao (Nguyet Dao)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong khu rừng thần tiên (Vĩnh Hằng Sâm Lâm) vào ban đêm, dưới ánh trăng sáng rực.
@@ -20,7 +20,7 @@ Trong khu rừng thần tiên (Vĩnh Hằng Sâm Lâm) vào ban đêm, dưới �
 -   Tông màu chủ đạo: Bạc (Silver), Trắng (White), Xanh lục bảo (Emerald), Tím nhạt (Lavender).
 -   Cảm giác: Lộng lẫy (Majestic), Huyền ảo (Magical), Buồn bã (Melancholic).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (nano banana style),
@@ -33,6 +33,6 @@ ethereal lighting, soft focus, sad but strong expression.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, dark, evil, scary, modern clothes.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Vẻ đẹp phải "không thuộc về trần gian" (unearthly beauty).
 -   Ánh sáng đóng vai trò quan trọng, nhân vật như đang tự phát sáng dưới trăng.

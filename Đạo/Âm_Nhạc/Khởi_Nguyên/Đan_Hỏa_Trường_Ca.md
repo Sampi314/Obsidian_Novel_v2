@@ -6,7 +6,7 @@ dạng_cấu_trúc: C3
 ### 📏 Cấu Trúc Đã Chọn
 > Dạng: C3 (Cổ Phong Tự Sự) | Tổng chữ mục tiêu: 200–300 | Ngôn ngữ: 60% văn ngôn
 
-### I. NGUYÊN VĂN TIẾNG TRUNG (CHINESE LYRICS)
+### I. Nguyên Văn Tiếng Trung (Chinese Lyrics)
 **(Intro)**
 南疆烈火燒千古
 丹河谷深藏仙途
@@ -57,7 +57,7 @@ dạng_cấu_trúc: C3
 留得清名在人間
 丹河長流永不乾
 
-### II. PHIÊN ÂM HÁN VIỆT (SINO-VIETNAMESE LYRICS)
+### Ii. Phiên Âm Hán Việt (Sino-Vietnamese Lyrics)
 **(Intro)**
 Nam Cương liệt hỏa thiêu thiên cổ
 Đan Hà cốc thâm tàng tiên đồ
@@ -108,7 +108,7 @@ Lô hỏa tiệm tức yên vị tán
 Lưu đắc thanh danh tại nhân gian
 Đan hà trường lưu vĩnh bất can
 
-### III. DỊCH SÁT NGHĨA (LITERAL TRANSLATION)
+### Iii. Dịch Sát Nghĩa (Literal Translation)
 **(Intro)**
 Lửa mạnh ở Nam Cương cháy suốt nghìn xưa
 Trong Đan Hà Cốc ẩn giấu con đường tiên
@@ -159,7 +159,7 @@ Ngày đan thành con đường đạo tự mở rộng
 Lưu lại tiếng thơm ở nhân gian
 Sông Đan Hà chảy mãi không bao giờ cạn
 
-### IV. THÔNG TIN BỔ SUNG
+### Iv. Thông Tin Bổ Sung
 *   **Ý Nghĩa/Thông Điệp:** Bài hát ca ngợi tinh thần kiên trì, chịu đựng gian khổ của các luyện đan sư Đan Hà Cốc. Hình ảnh "lửa thiêu đốt thân" (Liệt diễm phần thân) ám chỉ sự hy sinh và nỗ lực phi thường để đạt được thành tựu (Kim Đan). Đồng thời khẳng định sức mạnh bảo vệ tông môn trước ngoại địch.
-*   **Suno AI Style Prompt:**
-    > Epic Chinese Orchestral, Male Choir, Powerful Drums, Guzheng, Erhu, Heroic, Majestic, Intense, Building Up, Historical, Fantasy.
+*   **Suno AI Style Chỉ Lệnh:**
+    > Epic Chinese Orchestral, Male Choir, Powerful Drums, Guzheng, Erhu, Heroic, Majestic, Intense, Kiến Trúc Up, Historical, Fantasy.

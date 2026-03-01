@@ -2,9 +2,9 @@
 source: Đạo/Kỳ_Vật/Huyết_Độc_Lang.md
 ---
 
-# HUYẾT ĐỘC LANG (BLOOD POISON WOLF)
+# Huyết Độc Lang (Blood Poison Wolf)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong rừng đêm hoặc đầm lầy.
@@ -20,7 +20,7 @@ Trong rừng đêm hoặc đầm lầy.
 -   Tông màu chủ đạo: Tím đen (Dark Purple), Xám (Grey), Đỏ (Red eyes).
 -   Cảm giác: Hung dữ (Ferocious), Nhiễm độc (Toxic), Nhanh nhẹn (Agile).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (realistic),
@@ -31,5 +31,5 @@ aggressive stance, night time, rim light.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, cute dog, fluffy, clean, healthy.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Thể hiện sự "bệnh tật" và "biến dị" của con sói.

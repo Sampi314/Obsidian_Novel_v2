@@ -1,11 +1,11 @@
-# THẾ LỰC: SA TẶC LIÊN MINH (沙贼联盟)
+# Thế Lực: Sa Tặc Liên Minh (沙贼联盟)
 
 > *"Cát là cha, gió là mẹ, lưỡi dao là huynh đệ. Trên lưng lạc đà, mạng sống rẻ hơn nước."*
 > — Luật lệ của Sa Tặc
 
 ---
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Tên:** Sa Tặc Liên Minh (Sand Bandit Alliance).
 - **Phân Loại:** Thế lực tà đạo / Băng đảng tự phát (Hạng Ba - Tam Lưu).
 - **Vị Trí:** Rải rác khắp Tây Mạc, không có căn cứ cố định. Thường ẩn náu trong các hẻm núi đá (Xích Nham Sơn Mạch) hoặc ốc đảo bí mật.
@@ -15,7 +15,7 @@
 
 ---
 
-## II. TỔ CHỨC & CẤU TRÚC
+## Ii. Tổ Chức & Cấu Trúc
 
 ### 1. Lãnh Đạo Cao Nhất
 - **Minh Chủ:** [Hắc Phong (Trúc Cơ Hậu Kỳ)](../Nhân_Vật/Nhân_Vật_Phụ_Tây_Mạc.md).
@@ -33,7 +33,7 @@
 
 ---
 
-## III. CHIẾN THUẬT & SỨC MẠNH
+## Iii. Chiến Thuật & Sức Mạnh
 
 ### Chiến Thuật "Sói Săn Mồi"
 1.  **Trinh Sát:** Dùng [Sa Ưng](../Kỳ_Vật/Kỳ_Vật_Tây_Mạc.md) hoặc Ảnh Sa Đội để xác định lộ trình và sức mạnh hộ vệ của thương đoàn.
@@ -48,7 +48,7 @@
 
 ---
 
-## IV. QUAN HỆ NGOẠI GIAO
+## Iv. Quan Hệ Ngoại Giao
 
 - **Với Thiên Sa Thương Hội:** Kẻ thù không đội trời chung. Thương Hội thường xuyên treo thưởng cao cho đầu của các thủ lĩnh Sa Tặc.
 - **Với Vạn Độc Môn:** Quan hệ "đối tác đen tối".
@@ -58,12 +58,12 @@
 
 ---
 
-## V. VAI TRÒ TRONG CỐT TRUYỆN
+## V. Vai Trò Trong Cốt Truyện
 
 - **Chương 11 & 12:**
     - Sa Tặc Liên Minh, dưới sự chỉ đạo ngầm của [Lệ Vô Tâm](../Nhân_Vật/Lệ_Vô_Tâm.md), đã tăng cường hoạt động nhằm cắt đứt đường tiếp tế dược liệu từ Tây Mạc về Trung Thổ và Nam Cương.
     - Chúng phục kích nhóm của [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md) trong [Hắc Sa Bão](../Thế_Giới_Và_Thời_Gian/Hắc_Sa_Bão.md) nhưng bị đẩy lùi.
     - Sự trỗi dậy của Sa Tặc là dấu hiệu cho thấy bàn tay của Vạn Độc Môn đã vươn dài đến tận Tây Mạc.
 
-## VI. CĂN CỨ BÍ MẬT
+## Vi. Căn Cứ Bí Mật
 - **Hắc Phong Trại:** Một hệ thống hang động ngầm dưới lòng một ốc đảo đã khô cạn (Khô Tuyền Châu), được che giấu bằng ảo trận. Đây là nơi chứa của cải cướp bóc và giam giữ tù nhân.

@@ -1,13 +1,13 @@
-# TRẬN CHIẾN TRÊN BĂNG (冰原之战)
+# Trận Chiến Trên Băng (冰原之战)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Địa Điểm:** Thung Lũng Chết (Ngoại vi Huyền Băng Cung), nơi gió tuyết gào thét quanh năm.
 - **Thời Gian:** Đêm trăng tròn, khi âm khí và hàn khí mạnh nhất.
 - **Phe A (Nhân Vật Chính):** Lý Tuyết Ưng (Nguyên Anh Hậu Kỳ).
 - **Phe B (Đối Thủ):** Tuyết Lang Vương (Yêu Thú Cấp 4 Đỉnh Phong - Tương đương Nguyên Anh Viên Mãn).
 - **Mục Tiêu:** Ngăn cản Tuyết Lang Vương xâm nhập vào lãnh địa Băng Tộc để tìm *Tuyết Liên Hoa*.
 
-## II. DIỄN BIẾN (ACTION SEQUENCE)
+## Ii. Diễn Biến (Hành Động Sequence)
 
 ### 1. Khai Cuộc (Opening)
 - **Bối Cảnh:** Tuyết Lang Vương xuất hiện với hình dạng khổng lồ, cao 3 trượng, lông trắng như tuyết, mắt đỏ như máu. Nó gầm lên một tiếng, sóng âm làm nứt vỡ tảng băng dưới chân.

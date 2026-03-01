@@ -6,7 +6,7 @@ dạng_cấu_trúc: C3
 ### 📐 Cấu Trúc Đã Chọn
 > Dạng: C3 (Cổ Phong Tự Sự) | Tổng chữ mục tiêu: ~250 | Ngôn ngữ: 60% văn ngôn
 
-### I. NGUYÊN VĂN TIẾNG TRUNG (CHINESE LYRICS)
+### I. Nguyên Văn Tiếng Trung (Chinese Lyrics)
 **(Intro - Spoken)**
 光陰似箭催人老
 仙路渺渺何處尋
@@ -47,7 +47,7 @@ dạng_cấu_trúc: C3
 我命由我
 不由天
 
-### II. PHIÊN ÂM HÁN VIỆT (SINO-VIETNAMESE LYRICS)
+### Ii. Phiên Âm Hán Việt (Sino-Vietnamese Lyrics)
 **(Intro - Spoken)**
 Quang âm tự tiễn thôi nhân lão
 Tiên lộ diểu diểu hà xứ tầm
@@ -88,7 +88,7 @@ Khởi Nguyên chi giới
 Ngã mệnh do ngã
 Bất do thiên
 
-### III. DỊCH SÁT NGHĨA (LITERAL TRANSLATION)
+### Iii. Dịch Sát Nghĩa (Literal Translation)
 **(Intro - Spoken)**
 Thời gian như mũi tên giục người già đi
 Đường tu tiên xa vời biết tìm nơi đâu
@@ -129,7 +129,7 @@ Giới Khởi Nguyên
 Mệnh ta do ta định đoạt
 Chẳng do trời
 
-### IV. THÔNG TIN BỔ SUNG
+### Iv. Thông Tin Bổ Sung
 *   **Ý Nghĩa/Thông Điệp:** Bài hát kể về hành trình của một tu sĩ trong kỷ nguyên Khởi Nguyên, từ lúc là thiếu niên tầm đạo đến khi đối mặt với sự cô độc của trường sinh. Nó phản ánh tinh thần "nghịch thiên cải mệnh" đặc trưng của tu tiên, đồng thời khắc họa bối cảnh tông môn tranh đấu.
-*   **Suno AI Style Prompt:**
+*   **Suno AI Style Chỉ Lệnh:**
     > Chinese Pop (Gufeng), Melodic, Emotional, Flute intro, Orchestra build-up, Strong male vocals, Storytelling, Epic Chorus, Drum beats in Verse 2, Melancholic Bridge.

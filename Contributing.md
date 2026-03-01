@@ -9,14 +9,14 @@ Vui lòng dành chút thời gian đọc qua các hướng dẫn sau đây để
 Để đảm bảo tính nhất quán và chất lượng của dự án, vui lòng tuân thủ quy trình sau:
 
 1.  **Đọc Hồ Sơ Thế Giới:**
-    *   Trước khi bắt đầu, hãy đọc kỹ **[Hồ Sơ Thế Giới (World Profile)](Đạo/HỒ_SƠ_THẾ_GIỚI.md)** để nắm vững bối cảnh, lịch sử và các quy tắc của thế giới "Cố Nguyên". Điều này giúp tránh các mâu thuẫn trong cốt truyện hoặc thiết lập.
+    *   Trước khi bắt đầu, hãy đọc kỹ **[Hồ Sơ Thế Giới (World Profile)](Đạo/Hồ_Sơ_Thế_Giới.md)** để nắm vững bối cảnh, lịch sử và các quy tắc của thế giới "Cố Nguyên". Điều này giúp tránh các mâu thuẫn trong cốt truyện hoặc thiết lập.
 
 2.  **Thực Thi (Execute):**
     *   Sử dụng các công cụ có sẵn để tạo nội dung mới hoặc chỉnh sửa nội dung hiện có.
     *   Đảm bảo nội dung mới phù hợp với văn phong Tiên Hiệp và logic của thế giới.
 
 3.  **Lưu Trữ (Store):**
-    *   Lưu file vào đúng thư mục con trong `Đạo/` tương ứng với loại nội dung:
+    *   Lưu Tệp Tin vào đúng thư mục con trong `Đạo/` tương ứng với loại nội dung:
         *   `Đạo/Nhân_Vật/`: Hồ sơ nhân vật.
         *   `Đạo/Thế_Lực/`: Tông môn, tổ chức.
         *   `Đạo/Công_Pháp/`: Bí kíp, công pháp.
@@ -24,17 +24,17 @@ Vui lòng dành chút thời gian đọc qua các hướng dẫn sau đây để
         *   `Đạo/Kỳ_Vật/`, `Đạo/Đan_Dược/`, `Đạo/Luyện_Khí/`: Vật phẩm, tài nguyên.
         *   `Đạo/Chương_Truyện/`: Bản thảo chương truyện.
 
-4.  **Quy Tắc Đặt Tên File:**
-    *   Tên file **bắt buộc** phải là **Tiếng Việt có dấu**.
+4.  **Quy Tắc Đặt Tên Tệp Tin:**
+    *   Tên Tệp Tin **bắt buộc** phải là **Tiếng Việt có dấu**.
     *   Thay thế tất cả khoảng trắng (spaces) bằng dấu gạch dưới `_`.
     *   Ví dụ: `Đạo/Nhân_Vật/Lâm_Phong.md`, `Đạo/Công_Pháp/Băng_Tâm_Quyết.md`.
 
-5.  **Cập Nhật (Update):**
-    *   Sau khi thêm file mới, hãy cập nhật tóm tắt nội dung hoặc liên kết vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` nếu cần thiết để mọi người dễ dàng theo dõi.
+5.  **Cập Nhật (Cập Nhật):**
+    *   Sau khi thêm Tệp Tin mới, hãy cập nhật tóm tắt nội dung hoặc liên kết vào `Đạo/Hồ_Sơ_Thế_Giới.md` nếu cần thiết để mọi người dễ dàng theo dõi.
 
 ## 🔧 Cài Đặt Môi Trường (Setup)
 
-Dự án sử dụng tên file tiếng Việt, điều này có thể gây ra lỗi hiển thị trên một số cấu hình Git (ví dụ: tên file bị mã hóa thành `\\304\\220...`).
+Dự án sử dụng tên Tệp Tin tiếng Việt, điều này có thể gây ra lỗi hiển thị trên một số cấu hình Git (ví dụ: tên Tệp Tin bị mã hóa thành `\\304\\220...`).
 
 Để khắc phục, hãy chạy lệnh sau trong thư mục gốc của dự án:
 
@@ -52,7 +52,7 @@ git config core.quotePath false
 
 Nếu bạn phát hiện lỗi logic, sai sót chính tả, hoặc vấn đề kỹ thuật:
 *   Hãy mở một **Issue** trên GitHub.
-*   Mô tả rõ ràng vấn đề và vị trí (tên file, dòng) để chúng tôi dễ dàng khắc phục.
+*   Mô tả rõ ràng vấn đề và vị trí (tên Tệp Tin, dòng) để chúng tôi dễ dàng khắc phục.
 
 ## 📝 Pull Requests
 

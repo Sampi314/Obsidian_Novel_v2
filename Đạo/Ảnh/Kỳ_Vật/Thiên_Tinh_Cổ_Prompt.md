@@ -2,9 +2,9 @@
 source: Đạo/Kỳ_Vật/Thiên_Tinh_Cổ.md
 ---
 
-# THIÊN TINH CỔ (CELESTIAL STAR GU)
+# Thiên Tinh Cổ (Celestial Star Gu)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Bò trên tay chủ nhân hoặc trong hũ nuôi.
@@ -17,10 +17,10 @@ Bò trên tay chủ nhân hoặc trong hũ nuôi.
 
 **Phong cách (Style):**
 -   Macro Photography / Fantasy Insect.
--   Tông màu chủ đạo: Đỏ tía (Purple Red), Trắng sao (Starlight White), Đen (Dark background).
+-   Tông màu chủ đạo: Đỏ tía (Purple Red), Trắng sao (Starlight White), Đen (Dark Bối Cảnh).
 -   Cảm giác: Linh thiêng (Mystical), Độc dược (Poisonous), Tinh xảo (Exquisite).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (macro shot),
@@ -32,5 +32,5 @@ mysterious, dangerous beauty.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, gross, slime, ugly.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Nhìn phải giống như một món trang sức sống (ngọc sống) hơn là côn trùng bình thường.

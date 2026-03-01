@@ -1,11 +1,11 @@
-# NGUYỆT HẠ TINH LINH (月下精靈)
+# Nguyệt Hạ Tinh Linh (月下精靈)
 
-## I. THÔNG TIN TÁC PHẨM
+## I. Thông Tin Tác Phẩm
 - **Tên:** Nguyệt Hạ Tinh Linh (Elf Under the Moon).
-- **Thể Loại:** Thất Ngôn Bát Cú (Seven-Character Octave).
+- **Thể Loại:** Thất Ngôn Bát Cú (Seven-Nhân Vật Octave).
 - **Tác Giả:** Vô Danh Thi Nhân (Ghi lại lời than thở của Nữ Hoàng Nguyệt Dao).
 - **Bối Cảnh:** Đêm trước khi Tinh Linh Tộc quyết định mở kết giới Vĩnh Hằng Sâm Lâm để đối mặt với Huyết Độc Chi Họa.
-## II. NỘI DUNG
+## Ii. Nội Dung
 
 ### 1. Nguyên Tác (Hán Văn)
 > 萬古森林寂寞愁，
@@ -47,5 +47,5 @@
 > *Thân này nguyện hóa trăng ngà,*
 > *Soi đường chỉ lối, can qua dứt tình.*
 
-## III. BÌNH LUẬN
+## Iii. Bình Luận
 Bài thơ khắc họa hình ảnh Nữ Hoàng Nguyệt Dao cô độc nhưng kiên cường trước vận mệnh ngàn cân treo sợi tóc của dân tộc. Nỗi buồn "sâm lâm tịch mịch" (rừng già vắng lặng) đối lập với quyết tâm "Cung trương ngọc chỉ" (Giương cung ngón ngọc), cho thấy sự chuyển biến từ bi thương sang hành động quyết liệt. Câu cuối "Nguyện xả kim thân" thể hiện tinh thần hy sinh cao cả của bậc quân vương.

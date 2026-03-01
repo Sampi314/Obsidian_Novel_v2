@@ -1,4 +1,4 @@
-# Session Log: 2026-03-15 (Chapter 51)
+# Session Log: 2026-03-15 (Chương 51)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Tiếp nối mạch truyện, mô tả hành trình đột kích Mắt Trận Phụ thứ 2 của nhóm nhân vật chính.
@@ -14,8 +14,8 @@
     - Phát hiện vị trí Mắt Trận và thiết lập kế hoạch tấn công.
 
 - **Cập nhật hệ thống:**
-  - `HỒ_SƠ_THẾ_GIỚI.md`: Thêm Chương 51 và Huyết Nha vào danh sách.
-  - `BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+  - `Hồ_Sơ_Thế_Giới.md`: Thêm Chương 51 và Huyết Nha vào danh sách.
+  - `Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
 
 ## 3. Thay Đổi Của Người Dùng
 - Không phát hiện thay đổi trực tiếp (comment/TODO) trong phiên này.

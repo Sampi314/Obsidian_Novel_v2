@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Lâm_Phong.md
 ---
 
-# LÂM PHONG (LAM PHONG)
+# Lâm Phong (Lam Phong)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Giữa sa mạc nắng cháy hoặc trong một tàn tích cổ đại.
@@ -20,7 +20,7 @@ Giữa sa mạc nắng cháy hoặc trong một tàn tích cổ đại.
 -   Tông màu chủ đạo: Vàng cam (Desert/Fire), Xám (Grey), Đỏ (Red).
 -   Cảm giác: Nóng bỏng (Heat), Bụi bặm (Gritty), Quyết tâm (Determined).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),
@@ -33,6 +33,6 @@ cinematic lighting, intense expression.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, noble clothes, clean, ice, snow, water.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Nhân vật phải toát lên vẻ "bụi đời" và sự khắc nghiệt của môi trường sa mạc.
 -   Hiệu ứng lửa và cát phải hòa quyện vào nhau.

@@ -6,13 +6,13 @@
 <!-- NAVIGATION_END -->
 # Chương 52: Đột Kích Mắt Trận (Phần 2) (突襲陣眼・下)
 
-## I. THÔNG TIN CHUNG
+## I. Thông Tin Chung
 - **Người Viết:** Tổng Quản (Jules)
 - **Ngày Viết:** 2026-03-16
 - **Góc Nhìn:** Ngôi thứ ba (Tổng quát)
 - **Bối Cảnh:** [Rừng Huyết Độc](../../Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md), khu vực đầm lầy phía Đông Nam.
 
-## II. NỘI DUNG CHÍNH
+## Ii. Nội Dung Chính
 
 Bầu không khí căng như dây đàn, chỉ chực chờ đứt tung. Ba người chia nhau ẩn nấp tại ba vị trí chiến lược quanh đầm lầy, ánh mắt dán chặt vào gò đất trung tâm.
 
@@ -94,8 +94,8 @@ Nhưng nhóm ba người đã nhanh chóng lẩn vào màn sương dày đặc. 
 
 Xa xa, tiếng tù và báo động của Vạn Độc Môn bắt đầu vang lên từng hồi, báo hiệu một cuộc truy lùng quy mô lớn sắp bắt đầu.
 
-## III. GHI CHÚ
-- **Action Sequence:** Phối hợp chiến đấu nhịp nhàng giữa ba nhân vật (Tank/Lure - Support/Sniper - Finisher).
-- **Character Development:** Hứa Nhược Thủy dũng cảm hơn, dám mạo hiểm vì đồng đội. Diệp Tĩnh Sương dứt khoát, lạnh lùng.
+## Iii. Ghi Chú
+- **Hành Động Sequence:** Phối hợp chiến đấu nhịp nhàng giữa ba nhân vật (Tank/Lure - Support/Sniper - Finisher).
+- **Nhân Vật Development:** Hứa Nhược Thủy dũng cảm hơn, dám mạo hiểm vì đồng đội. Diệp Tĩnh Sương dứt khoát, lạnh lùng.
 - **Consequence:** Mắt Trận bị phá hủy sẽ làm suy yếu đại trận nhưng cũng kích động kẻ thù, khiến hành trình trở về khó khăn hơn.
 - **Next Step:** Rút lui an toàn và chuẩn bị cho trận chiến cuối cùng hoặc tìm đường thoát khỏi vòng vây.

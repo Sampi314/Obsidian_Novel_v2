@@ -5,7 +5,7 @@
 ### Đã Hoàn Thành
 
 #### 1. Tây Mạc (西漠) — Hồ Sơ Vùng Đất
-- **File:** `Đạo/Thế_Giới_Và_Thời_Gian/Tây_Mạc.md`
+- **Tệp Tin:** `Đạo/Thế_Giới_Và_Thời_Gian/Tây_Mạc.md`
 - **Nội Dung Chính:**
     - Địa hình: Hoàng Kim Sa Hải, Xích Nham Sơn Mạch, Vạn Cốt Hiệp, Ốc Đảo (Minh Nguyệt Châu, Khô Vinh Châu, Huyết Tuyền Châu), Lưu Sa Khu.
     - Khí hậu: Nóng cực ban ngày, lạnh đóng băng ban đêm, bão cát định kỳ (Đại Sa Bạo, Ảo Sa Bạo).
@@ -19,7 +19,7 @@
     - Truyền thuyết: Sa Thần (Cổ Sa Trùng hộ thế), Lưu Sa Cổ Thành (vương quốc phạm cấm kỵ thời gian).
 
 #### 2. Thiên Đạo Quy Tắc (天道規則)
-- **File:** `Đạo/Thế_Giới_Và_Thời_Gian/Thiên_Đạo_Quy_Tắc.md`
+- **Tệp Tin:** `Đạo/Thế_Giới_Và_Thời_Gian/Thiên_Đạo_Quy_Tắc.md`
 - **Nội Dung Chính:**
     - Tổng quan: Thiên Đạo là hệ thống quy tắc tự vận hành, vô tình vô nghĩa, bất khả kháng.
     - Âm Dương: Cân bằng Âm Dương trong tu luyện và thế giới, Âm cực sinh Dương.
@@ -32,20 +32,20 @@
 ### Ghi Chú Quan Trọng
 - **Liên kết Tây Mạc ↔ Thiên Đạo:** Lưu Sa Cổ Thành phạm Cấm Nghịch Chuyển Thời Không. Vĩnh Tịch Chi Địa là Vùng Mù Thiên Đạo tiềm năng.
 - **Cần Bổ Sung Sau:**
-    - HỒ_SƠ_THẾ_GIỚI.md cần cập nhật thêm mục Tây Mạc và Thiên Đạo Quy Tắc (chờ chỉ thị).
+    - Hồ_Sơ_Thế_Giới.md cần cập nhật thêm mục Tây Mạc và Thiên Đạo Quy Tắc (chờ chỉ thị).
     - Các vùng Đông Hoang, Nam Cương chưa có hồ sơ chi tiết riêng (chỉ có mô tả sơ bộ trong Bản_Đồ_Sơ_Bộ.md).
-    - Sa Tộc chưa có file riêng trong thư mục Chủng_Tộc/Tiểu_Tộc/ (tương tự Băng Tộc).
-    - Công pháp Hoàng Sa Quyết chưa có file chi tiết.
-    - NIÊN_BIỂU_CHÍNH.md cần bổ sung các mốc lịch sử Tây Mạc (năm 60.000, 70.000, 75.000).
+    - Sa Tộc chưa có Tệp Tin riêng trong thư mục Chủng_Tộc/Tiểu_Tộc/ (tương tự Băng Tộc).
+    - Công pháp Hoàng Sa Quyết chưa có Tệp Tin chi tiết.
+    - Niên_Biểu_Chính.md cần bổ sung các mốc lịch sử Tây Mạc (năm 60.000, 70.000, 75.000).
 
 #### 3. Nam Cương - Tây Mạc (Biên Giới)
-- **File:** `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`
+- **Tệp Tin:** `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`
 - **Nội Dung:** Dãy núi biên giới, môi trường khắc nghiệt, hang động Huyết Tinh, Độc Long Tích.
 
 ## Phiên Làm Việc: 2024-06-30
 
 #### 4. Ốc Đảo Thanh Lương (清凉绿洲)
-- **File:** `Đạo/Thế_Giới_Và_Thời_Gian/Ốc_Đảo_Thanh_Lương.md`
+- **Tệp Tin:** `Đạo/Thế_Giới_Và_Thời_Gian/Ốc_Đảo_Thanh_Lương.md`
 - **Nội Dung:**
     - Vị trí: Tây Mạc, gần Lưu Sa Phế Tích.
     - Đặc điểm: Hồ Thanh Lương Tuyền (chữa thương, giải hỏa độc), Nguyệt Quang Chưởng (ánh sáng, quả ngọt).

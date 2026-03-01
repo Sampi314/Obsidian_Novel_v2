@@ -1,18 +1,18 @@
-# VẠN ĐỘC CHÂN KINH (万毒真经)
+# Vạn Độc Chân Kinh (万毒真经)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Tên Gọi:** Vạn Độc Chân Kinh.
 - **Phẩm Cấp:** Thiên Cấp Hạ Phẩm (Có thể tiến hóa nếu hấp thụ đủ kỳ độc).
 - **Hệ:** Độc (Poison) / Âm (Yin).
 - **Nguồn Gốc:** Do Độc Cô Thiên Sát sáng tạo sau khi quan sát sự sinh tồn của ngàn vạn loài độc trùng trong Nam Cương.
 - **Đặc Điểm:** Lấy độc làm thuốc bổ, lấy mạng người làm bậc thang. Càng hấp thụ nhiều loại kịch độc, công lực càng thâm hậu.
 
-## II. YÊU CẦU TU LUYỆN
+## Ii. Yêu Cầu Tu Luyện
 - **Căn Cơ:** Linh căn hệ Độc hoặc Thủy/Mộc biến dị.
 - **Tâm Tính:** Tàn nhẫn, quyết đoán, chịu được đau đớn tột cùng khi độc phát tác.
 - **Vật Dẫn:** Cần một con "Bản Mệnh Cổ Trùng" ký sinh trong cơ thể để dung hòa các loại độc tố.
 
-## III. CẢNH GIỚI & KHẨU QUYẾT (Khẩu Quyết)
+## Iii. Cảnh Giới & Khẩu Quyết (Khẩu Quyết)
 
 ### Tầng 1: Nhập Độc (入毒)
 Dẫn độc nhập thể, rèn luyện da thịt kháng độc.
@@ -35,12 +35,12 @@ Cơ thể trở thành vương giả của loài độc, bách độc bất xâm
 > *Thiên địa vô tình, dĩ độc chứng đạo.*
 > (Trời đất không có tình thương, dùng độc để chứng minh đạo của mình.)
 
-## IV. CÔNG DỤNG & HIỆU QUẢ
+## Iv. Công Dụng & Hiệu Quả
 - **Vạn Độc Chi Thể:** Miễn nhiễm với hầu hết các loại độc dược dưới cấp Thiên.
 - **Độc Khí Hộ Thể:** Khi vận công, xung quanh cơ thể tỏa ra một lớp sương mù độc hại, kẻ địch tiếp cận sẽ bị chóng mặt, tê liệt.
 - **Hồi Phục Quỷ Dị:** Dùng độc để kích thích tế bào tái sinh nhanh chóng, nhưng để lại sẹo xấu xí.
 
-## V. HỆ THỐNG CHIÊU THỨC
+## V. Hệ Thống Chiêu Thức
 
 ### 1. Hóa Cốt Miên Chưởng (化骨绵掌)
 - **Yêu Cầu:** Tầng 1 (Nhập Độc).
@@ -57,7 +57,7 @@ Cơ thể trở thành vương giả của loài độc, bách độc bất xâm
 - **Mô Tả:** Chiêu thức diện rộng, giải phóng toàn bộ độc khí trong người tạo thành một cơn bão độc khổng lồ.
 - **Uy Lực Tăng Tiến:** Trong phạm vi 10 dặm, cỏ cây khô héo, sinh vật tuyệt diệt. Là chiêu thức hủy diệt dùng để đồng quy vu tận hoặc tàn sát hàng loạt.
 
-## VI. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
+## Vi. Luận Giải & Chú Thích (Ngoại Truyện)
 - **Thể Loại:** Khẩu quyết sử dụng thơ Tứ Ngôn (bốn chữ), ngắn gọn, súc tích, mang âm hưởng lạnh lùng, tàn khốc.
 - **Cảm Hứng:** Lấy ý tưởng từ các môn phái dùng độc kinh điển trong kiếm hiệp (như Tinh Túc Phái, Ngũ Độc Giáo), nhưng nâng tầm lên mức độ Tiên Hiệp với khả năng hủy thiên diệt địa.
 - **Lưu Ý:** Người tu luyện công pháp này dung mạo thường bị hủy hoại, da dẻ xanh xao hoặc tím tái, tính tình ngày càng quái gở.

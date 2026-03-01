@@ -1,8 +1,8 @@
-# QUẢN LÝ ARC TRUYỆN
+# Quản Lý Arc Truyện
 
-## ARC HIỆN TẠI
+## Arc Hiện Tại
 
-### 1. Góc Nhìn Chính (Main Story)
+### 1. Góc Nhìn Chính (Main Câu Truyện)
 *   **Trạng Thái:** Đã hoàn thành (Chuyển sang Arc mới).
 *   **Tên Arc:** Khởi Đầu & Lưu Sa Phế Tích -> Huyết Độc Rừng Thiêng (Đã xong).
 *   **Nhân Vật Chính:** Diệp Tĩnh Sương, Lâm Phong.
@@ -121,7 +121,7 @@
 
 ---
 
-## CÁC ARC DỰ KIẾN (FUTURE ARCS)
+## Các Arc Dự Kiến (Future Arcs)
 
 ### 1. Huyết Độc Rừng Thiêng (Kết Nối)
 *   **Mô Tả:** Nơi các tuyến truyện bắt đầu giao nhau. Lệ Vô Tâm dẫn quân truy sát, nhóm nhân vật chính phải chạy trốn vào Rừng Huyết Độc.
@@ -136,7 +136,7 @@
 
 ---
 
-## HỒ SƠ NHÂN VẬT & TIẾN ĐỘ
+## Hồ Sơ Nhân Vật & Tiến Độ
 
 | Nhân Vật | Góc Nhìn | Trạng Thái | Ghi Chú |
 | :--- | :--- | :--- | :--- |
@@ -149,6 +149,6 @@
 
 ---
 
-## HƯỚNG DẪN CẬP NHẬT
-*   Khi mở một Arc mới hoặc thêm một nhân vật quan trọng vào mạch truyện, hãy cập nhật file này.
+## Hướng Dẫn Cập Nhật
+*   Khi mở một Arc mới hoặc thêm một nhân vật quan trọng vào mạch truyện, hãy cập nhật Tệp Tin này.
 *   Khi hoàn thành một Arc (ví dụ: xong 5 chương tiền truyện của Lệ Vô Tâm), hãy đổi trạng thái sang "Hoàn Thành" và cập nhật mục tiêu mới.

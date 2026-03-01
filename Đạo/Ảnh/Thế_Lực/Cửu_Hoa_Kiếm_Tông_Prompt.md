@@ -2,9 +2,9 @@
 source: Đạo/Thế_Lực/Cửu_Hoa_Kiếm_Tông.md
 ---
 
-# CỬU HOA KIẾM TÔNG (NINE FLOWERS SWORD SECT)
+# Cửu Hoa Kiếm Tông (Nine Flowers Sword Sect)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một tông môn tiên hiệp tọa lạc trên 9 ngọn núi cao chọc trời (Cửu Phong).
@@ -20,7 +20,7 @@ Một tông môn tiên hiệp tọa lạc trên 9 ngọn núi cao chọc trời 
 -   Tông màu chủ đạo: Trắng (White), Xanh lam (Blue), Xanh lục (Green).
 -   Cảm giác: Chính khí (Righteous), Thanh cao (Noble), Tiên cảnh (Ethereal).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),
@@ -33,5 +33,5 @@ ethereal atmosphere, holy light, righteous vibe.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, dark, evil, fire, destruction, blood.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Thể hiện sự uy nghiêm và chính trực của một tông môn danh môn chính phái.

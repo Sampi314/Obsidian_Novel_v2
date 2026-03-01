@@ -1,11 +1,11 @@
-# QUY HOẠCH CỐT TRUYỆN CHI TIẾT: DIỆP TĨNH SƯƠNG
+# Quy Hoạch Cốt Truyện Chi Tiết: Diệp Tĩnh Sương
 
-## MỤC TIÊU
+## Mục Tiêu
 Quy hoạch tuyến truyện của Diệp Tĩnh Sương nhằm khắc họa rõ nét quá trình trưởng thành từ một đứa trẻ mang trong mình nỗi đau quá khứ tại Thanh Phong Thôn, trở thành một kiếm tu lỗi lạc của Cửu Hoa Kiếm Tông. Cốt truyện được chia thành 6 Arc lớn, mỗi Arc khoảng 50 chương, bao quát từ thuở hàn vi đến khi đạt đến đỉnh cao kiếm đạo.
 
 ---
 
-## ARC 1: KIẾM TÂM CÔ ĐỘC (Cô Độc Kiếm Tâm)
+## Arc 1: Kiếm Tâm Cô Độc (Cô Độc Kiếm Tâm)
 **Thời điểm:** 10 - 20 tuổi.
 **Bối cảnh:** Thanh Phong Thôn, Đông Hoang.
 **Chủ đề:** Mất Mát, Khổ Luyện & Báo Thù.
@@ -32,7 +32,7 @@ Quy hoạch tuyến truyện của Diệp Tĩnh Sương nhằm khắc họa rõ 
 
 ---
 
-## ARC 2: NHẬP MÔN TU LUYỆN (Kiếm Tông Phong Vân)
+## Arc 2: Nhập Môn Tu Luyện (Kiếm Tông Phong Vân)
 **Thời điểm:** 20 - 22 tuổi.
 **Bối cảnh:** Cửu Hoa Kiếm Tông.
 **Chủ đề:** Thích Nghi, Học Hỏi & Tranh Đấu Ngầm.
@@ -58,7 +58,7 @@ Quy hoạch tuyến truyện của Diệp Tĩnh Sương nhằm khắc họa rõ 
 
 ---
 
-## ARC 3: KIẾM TÔNG ĐẠI ĐIỂN (Hàn Mai Vấn Đỉnh)
+## Arc 3: Kiếm Tông Đại Điển (Hàn Mai Vấn Đỉnh)
 **Thời điểm:** 22 - 23 tuổi.
 **Bối cảnh:** Cửu Hoa Kiếm Tông, Đấu Kiếm Đài.
 **Chủ đề:** Tỷ Thí, Khẳng Định Vị Thế & Vinh Quang.
@@ -84,7 +84,7 @@ Quy hoạch tuyến truyện của Diệp Tĩnh Sương nhằm khắc họa rõ 
 
 ---
 
-## ARC 4: HÀN MAI NỞ RỘ (Hàn Mai Nộ Phóng)
+## Arc 4: Hàn Mai Nở Rộ (Hàn Mai Nộ Phóng)
 **Thời điểm:** 23 - 25 tuổi.
 **Bối cảnh:** Đông Hoang, Tây Mạc (Hoàng Sa Địa Cung).
 **Chủ đề:** Phiêu Bạt, Gặp Gỡ & Thử Thách Vô Tận.
@@ -110,7 +110,7 @@ Quy hoạch tuyến truyện của Diệp Tĩnh Sương nhằm khắc họa rõ 
 
 ---
 
-## ARC 5: HUYẾT ĐỘC CHI HỌA (Tai Họa Máu Độc)
+## Arc 5: Huyết Độc Chi Họa (Tai Họa Máu Độc)
 **Thời điểm:** Hiện tại (Giao thoa với cốt truyện chính và tuyến của Lệ Vô Tâm).
 **Bối cảnh:** Nam Cương (Rừng Huyết Độc, Vạn Độc Cốc).
 **Chủ đề:** Ánh Sáng Đối Đầu Bóng Tối.
@@ -136,7 +136,7 @@ Quy hoạch tuyến truyện của Diệp Tĩnh Sương nhằm khắc họa rõ 
 
 ---
 
-## ARC 6: PHÁ KÉN CỬU THIÊN (Đỉnh Cao Kiếm Đạo)
+## Arc 6: Phá Kén Cửu Thiên (Đỉnh Cao Kiếm Đạo)
 **Thời điểm:** Tương lai.
 **Bối cảnh:** Toàn bộ Cổ Nguyên Giới.
 **Chủ đề:** Chấm Dứt Ác Mộng, Đỉnh Cao Kiếm Ý.

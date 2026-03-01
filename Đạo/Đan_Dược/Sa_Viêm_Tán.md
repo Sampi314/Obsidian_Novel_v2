@@ -1,11 +1,11 @@
-# HỒ SƠ ĐAN DƯỢC: SA VIÊM TÁN (沙炎散)
+# Hồ Sơ Đan Dược: Sa Viêm Tán (沙炎散)
 
 > *"Tây Mạc thiêu đốt vạn vật, nhưng cũng ôm ấp vạn vật. Sa Viêm Tán chính là lễ vật mà sa mạc ban cho những kẻ dám đi qua nó."*
 > — Hạ Hầu Viêm, Hội Trưởng Thiên Sa Thương Hội
 
 ---
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 
 - **Tên Đan Dược:** Sa Viêm Tán (沙炎散) — "Bột Lửa Cát"
 - **Phân Loại:** Tán Dược (dạng bột) — Không phải đan hoàn
@@ -16,7 +16,7 @@
 
 ---
 
-## II. CÔNG DỤNG & HIỆU QUẢ
+## Ii. Công Dụng & Hiệu Quả
 
 ### Công Dụng 1: Phòng Hộ Sa Nhiệt (Dùng nội phục)
 - Pha 1 thìa bột vào nước uống, có thể bảo vệ cơ thể khỏi sức nóng khắc nghiệt của Tây Mạc trong vòng **12 canh giờ** (1 ngày đêm).
@@ -40,7 +40,7 @@
 
 ---
 
-## III. THÀNH PHẦN CHÍNH
+## Iii. Thành Phần Chính
 
 ### A. Chủ Dược
 
@@ -78,7 +78,7 @@
 
 ---
 
-## IV. QUY TRÌNH CHẾ TÁN
+## Iv. Quy Trình Chế Tán
 
 > *Sa Viêm Tán không dùng lò đan mà dùng phương pháp **Sa Chưng Pháp** (蒸沙法) — kỹ thuật bào chế đặc hữu của Tây Mạc, tận dụng sức nóng tự nhiên của sa mạc.*
 
@@ -119,7 +119,7 @@
 
 ---
 
-## V. TỶ LỆ THÀNH CÔNG
+## V. Tỷ Lệ Thành Công
 
 - **Dược sư Tây Mạc kinh nghiệm:** ~70%. Quy trình đơn giản hơn luyện đan rất nhiều.
 - **Dược sư ngoài vùng (thiếu kinh nghiệm Sa Chưng):** ~40%. Dễ thất bại ở bước chôn cát — không biết đánh giá nhiệt độ cát.
@@ -129,7 +129,7 @@
 
 ---
 
-## VI. CÁCH SỬ DỤNG
+## Vi. Cách Sử Dụng
 
 ### Nội Phục (Uống)
 - Pha 1 thìa nhỏ (khoảng 1 phân) vào bát nước ấm, khuấy tan và uống.
@@ -145,7 +145,7 @@
 
 ---
 
-## VII. TÁC DỤNG PHỤ
+## Vii. Tác Dụng Phụ
 
 - **Khô Miệng Khát Nước:** Dùng nội phục sẽ gây khô họng và khát nước nhiều hơn bình thường. Phải uống đủ nước bù.
 - **Nóng Trong:** Tu sĩ không thuộc hệ Hỏa dùng nhiều ngày liên tiếp sẽ bị nóng trong, nổi mụn, miệng đắng. Cần nghỉ 2-3 ngày giữa các đợt dùng.
@@ -154,7 +154,7 @@
 
 ---
 
-## VIII. CẤM KỴ & LƯU Ý
+## Viii. Cấm Kỵ & Lưu Ý
 
 ### Cấm Kỵ
 - **Cấm dùng nội phục khi có nội thương:** Bột hỏa tính vào cơ thể sẽ kích thích nội thương nặng thêm.
@@ -170,7 +170,7 @@
 
 ---
 
-## IX. GIÁ TRỊ & LƯU THÔNG
+## Ix. Giá Trị & Lưu Thông
 
 - **Giá thị trường:** Một túi 10 liều giá khoảng **20-30 viên Hạ Phẩm Linh Thạch**. Rẻ hơn đan dược rất nhiều, phù hợp với tán tu và thương nhân.
 - **Nguồn cung:** Thiên Sa Thương Hội sản xuất hàng loạt, là một trong những mặt hàng chủ lực của họ. Mỗi năm sản xuất hàng trăm túi.
@@ -179,7 +179,7 @@
 
 ---
 
-## X. LỊCH SỬ & GIAI THOẠI
+## X. Lịch Sử & Giai Thoại
 
 - Sa Viêm Tán được phát minh bởi thế hệ Hội Trưởng đầu tiên của Thiên Sa Thương Hội — một cựu Đan sư thất bại ở Đan Hà Cốc, bỏ đi phiêu bạt đến Tây Mạc. Không đủ tài năng luyện đan hoàn, ông ta chuyển sang nghiên cứu tán dược và phát hiện ra phương pháp Sa Chưng Pháp tận dụng sức nóng tự nhiên.
 - Thương nhân Thiên Sa Thương Hội luôn mang theo ít nhất 3 túi Sa Viêm Tán trong mỗi chuyến đi — đây là quy định bắt buộc. Câu nói quen thuộc của họ: *"Quên mang linh thạch được, quên mang Sa Viêm Tán thì đừng ra khỏi ốc đảo."*

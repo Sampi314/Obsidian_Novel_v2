@@ -1,6 +1,6 @@
-# HỒ SƠ NHÂN VẬT: HỨA NHƯỢC THỦY
+# Hồ Sơ Nhân Vật: Hứa Nhược Thủy
 
-## I. THÔNG TIN CƠ BẢN
+## I. Thông Tin Cơ Bản
 - **Tên:** Hứa Nhược Thủy (許若水).
 - **Danh Hiệu:** Sa Dược Phu Nhân (沙藥夫人).
 - **Tuổi/Thọ Nguyên:** 450/1000 tuổi.
@@ -8,7 +8,7 @@
 - **Thân Phận:** Gia Chủ Sa Dược Hứa Gia (Một trong Tứ Đại Thương Gia của Thiên Sa Thương Hội).
 - **Linh Căn:** Thủy - Mộc (Song Linh Căn).
 
-## II. NGOẠI HÌNH & KHÍ CHẤT
+## Ii. Ngoại Hình & Khí Chất
 - **Dung Mạo:**
     - Vẻ đẹp mặn mà, sắc sảo của một người phụ nữ trung niên đã trải qua nhiều sương gió.
     - Đôi mắt phượng dài, đuôi mắt hơi xếch lên, ánh nhìn luôn tính toán nhưng lại ẩn giấu sự dịu dàng giả tạo.
@@ -20,7 +20,7 @@
     - "Nhu tình tựa thủy, tâm cơ như sa" (Dịu dàng như nước, tâm cơ như cát).
     - Bên ngoài luôn tươi cười hòa nhã, giọng nói ngọt ngào, nhưng bên trong là một cái đầu lạnh lùng của thương nhân lão luyện.
 
-## III. TÍNH CÁCH & ĐẠO TÂM
+## Iii. Tính Cách & Đạo Tâm
 - **Tính Cách:**
     - **Thực Dụng:** Với bà, không có kẻ thù vĩnh viễn, không có bạn bè vĩnh viễn, chỉ có lợi ích là vĩnh cửu.
     - **Trung Lập:** Kiên định giữ vững lập trường trung lập của Thiên Sa Thương Hội. Bà sẵn sàng bán thuốc giải độc cho Dược Vương Cốc vào buổi sáng, rồi bán nguyên liệu luyện độc cho Vạn Độc Môn vào buổi chiều.
@@ -28,7 +28,7 @@
 - **Đạo Tâm:** **"Thương Đạo Vô Tình"**.
     - Bà tin rằng thương mại là dòng chảy tuần hoàn của thế giới. Chiến tranh, hòa bình, sinh, tử... tất cả đều là cơ hội kinh doanh. Giữ cho dòng chảy này không tắc nghẽn chính là tu hành.
 
-## IV. LỊCH SỬ & XUẤT THÂN
+## Iv. Lịch Sử & Xuất Thân
 - **Xuất Thân:**
     - Sinh ra trong Hứa Gia, một gia tộc nhỏ chuyên thu hái dược liệu ở rìa Tây Mạc.
     - Từ nhỏ đã bộc lộ thiên bẩm kinh doanh, 15 tuổi đã một mình dẫn đoàn thương đội đi qua vùng đất chết "Tử Vong Sa Mạc" để tìm nguồn hàng mới.
@@ -42,7 +42,7 @@
     - [Chương 12: Thương Vụ Bạc Tỷ](../Chương_Truyện/Góc_Nhìn_Chính/Chương_00012_Thương_Vụ_Bạc_Tỷ.md): Gặp gỡ nhóm Diệp Tĩnh Sương và Lâm Phong, giao nhiệm vụ tìm kiếm con trai Hứa Thanh Vân.
     - [Chương 18: Huyết Chiến Trạm Dừng Chân](../Chương_Truyện/Góc_Nhìn_Chính/Chương_00018_Huyết_Chiến_Trạm_Dừng_Chân.md): Bị ám sát bởi cao thủ Vạn Độc Môn ngay tại Trạm Dừng Chân Số 7. Hiện đã trúng "Huyết Thần Độc" biến thể, sinh mệnh nguy kịch, đang cùng nhóm Diệp Tĩnh Sương trốn chạy.
 
-## V. CÔNG PHÁP & SỞ TRƯỜNG
+## V. Công Pháp & Sở Trường
 - **Sở Trường:**
     - **Thương Thuyết:** Khả năng đàm phán thượng thừa, có thể thuyết phục người khác mua cát trên sa mạc.
     - **Giám Định:** Nhìn qua là biết tuổi thọ, dược tính của bất kỳ loại linh thảo nào.
@@ -51,7 +51,7 @@
         - *Chiêu thức:* "Sa Mạc Hóa Vũ" (Biến cát thành mưa độc hoặc mưa hồi phục tùy ý).
     - **Thiên Sa Toán Pháp:** Một môn thuật toán dùng để tính toán lợi nhuận, nhưng cũng có thể dùng để tính toán đường đi nước bước trong chiến đấu, dự đoán chiêu thức đối thủ dựa trên quy luật "trao đổi".
 
-## VI. QUAN HỆ
+## Vi. Quan Hệ
 - **Gia Đình:** Có một con trai độc nhất là **Hứa Thanh Vân** (Luyện Khí Viên Mãn), nhưng hắn lại chán ghét việc buôn bán, chỉ thích làm du hiệp, khiến bà rất đau đầu.
 - **Đồng Minh (Thương Mại):**
     - **Trần Kim Lưu (Gia Chủ Kim Sa Trần Gia):** Đối tác lâu năm, tuy hay tranh giành quyền lợi nhưng luôn đoàn kết khi đối ngoại.

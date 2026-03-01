@@ -1,11 +1,11 @@
-# HỒ_SƠ_THẾ_GIỚI: CỐ NGUYÊN GIỚI
+# Hồ_sơ_thế_giới: Cố Nguyên Giới
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Tên:** Cố Nguyên Giới (固元界).
 - **Trạng Thái:** Kỷ Nguyên Khởi Nguyên - Đơn Lục Địa.
 - **Đặc Điểm:** Linh khí cực thịnh, vạn vật sơ khai, Thiên Đạo chưa hoàn thiện.
 
-## II. THẾ GIỚI & ĐỊA LÝ
+## Ii. Thế Giới & Địa Lý
 - **Cấu Trúc:** Cố Nguyên Lục Địa bao quanh bởi Vô Tận Hải.
 - **Địa Danh Chính:**
     - Trung Tâm: Thiên Trụ Sơn.
@@ -33,15 +33,15 @@
         - *Hắc Sa Bão:* Hiện tượng thiên nhiên tàn khốc đặc trưng của Tây Mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hắc_Sa_Bão.md`.
         - *Pháo Đài Xanh:* Thánh địa ẩn giấu trong Rừng Thiên Trụ, nơi trấn áp Phong Sát. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Pháo_Đài_Xanh.md`.
 - **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`.
-- **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
+- **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Niên_Biểu_Chính.md`.
 
-## III. HỆ THỐNG TU LUYỆN
+## Iii. Hệ Thống Tu Luyện
 - **Cảnh Giới:** Luyện Khí → Trúc Cơ → Kim Đan → Nguyên Anh → Hóa Thần → Luyện Hư → Hợp Thể → Đại Thừa → Độ Kiếp.
 - **Đặc Trưng:** Nghịch thiên cải mệnh, càng lên cao càng gian nan, mỗi bước đều phải trả giá.
 - **Chi Tiết:** Xem tại `Đạo/Tu_Luyện/Hệ_Thống_Cảnh_Giới.md`.
 - **Trận Pháp:** Cấm trận của Vạn Độc Môn. Xem tại [Vạn Tinh Tuyệt Sát Trận](Trận_Pháp/Vạn_Tinh_Tuyệt_Sát_Trận.md).
 
-## IV. CHỦNG TỘC
+## Iv. Chủng Tộc
 - **10 Đại Chủng Tộc (Kỷ Nguyên Khởi Nguyên):**
     1. Nhân Tộc (Sáng tạo, học hỏi).
     2. Long Tộc (Uy quyền, mưa gió).
@@ -58,7 +58,7 @@
 - **Quan Hệ Ngoại Giao:** Xem tại `Đạo/Chủng_Tộc/Quan_Hệ_Chủng_Tộc.md`.
 - **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chủng_Tộc_Chính.md`.
 
-## V. NHÂN VẬT TIÊU BIỂU
+## V. Nhân Vật Tiêu Biểu
 - **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md`.
 - **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật.
@@ -184,7 +184,7 @@
     - **Lâm Phong (Truy Phong Khách):**
         - [Chương 1: Cơ Duyên Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00001_Cơ_Duyên_Rừng_Thẳm.md) (Quá khứ 6 năm trước)
 
-## VI. THẾ LỰC CHÍNH
+## Vi. Thế Lực Chính
 
 - **Nam Cương (Southern Border):**
     - [Vạn Độc Môn](Thế_Lực/Vạn_Độc_Môn.md)
@@ -197,7 +197,7 @@
     - [Huyết Ma Tông](Thế_Lực/Huyết_Ma_Tông.md)
     - [Quỷ Thị Nam Cương](Thế_Lực/Quỷ_Thị_Nam_Cương.md)
     - [Bách Thú Sơn Trang](Thế_Lực/Bách_Thú_Sơn_Trang.md)
-- **Thiên Trụ Sơn (World Pillar):**
+- **Thiên Trụ Sơn (Thế Giới Pillar):**
     - [Long Cung](Thế_Lực/Long_Cung.md)
     - [Vũ Hoàng Các](Thế_Lực/Vũ_Hoàng_Các.md)
     - [Thiên Môn Kính Đài](Thế_Lực/Thiên_Môn_Kính_Đài.md)

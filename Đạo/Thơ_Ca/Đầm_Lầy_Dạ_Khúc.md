@@ -1,12 +1,12 @@
-# ĐẦM LẦY DẠ KHÚC (SWAMP NOCTURNE)
+# Đầm Lầy Dạ Khúc (Swamp Nocturne)
 
-## I. THÔNG TIN TÁC PHẨM
+## I. Thông Tin Tác Phẩm
 - **Tên:** Đầm Lầy Dạ Khúc (Đêm Ngâm Ở Đầm Lầy).
 - **Thể Loại:** Thơ Cổ Phong (Thất Ngôn Bát Cú).
 - **Tác Giả:** Vô Danh Khách (Lời đồn là của một tu sĩ đã bỏ mạng tại đây).
 - **Xuất Xứ:** Khắc trên một tấm bia đá vỡ nát ở rìa Đầm Lầy Tử Thần.
 - **Cảm Hứng:** Sự tĩnh lặng chết chóc và nỗi tuyệt vọng của những kẻ lạc lối trong đầm lầy.
-## II. NỘI DUNG
+## Ii. Nội Dung
 
 ### 1. Nguyên Tác (Hán Văn)
 > 夜暗荒澤霜滿天，

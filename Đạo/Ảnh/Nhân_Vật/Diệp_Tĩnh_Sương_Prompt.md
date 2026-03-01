@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md
 ---
 
-# DIỆP TĨNH SƯƠNG (DIEP TINH SUONG)
+# Diệp Tĩnh Sương (Diep Tinh Suong)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Đứng giữa trời tuyết rơi hoặc trên đỉnh núi băng giá. Khung cảnh lạnh lẽo, cô độc.
@@ -20,7 +20,7 @@ source: Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md
 -   Tông màu chủ đạo: Trắng (White), Xanh băng (Ice Blue), Điểm xuyết Đỏ (Red).
 -   Cảm giác: Lạnh lùng (Cold), Cô độc (Solitary), Kiên cường.
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (nano banana style),
@@ -32,6 +32,6 @@ cold lighting, sharp focus, ethereal, elegant, aloof.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, warm colors, smiling, sexy, heavy armor.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Điểm nhấn là họa tiết hoa mai đỏ trên nền áo trắng.
 -   Biểu cảm gương mặt phải lạnh lùng, không cười.

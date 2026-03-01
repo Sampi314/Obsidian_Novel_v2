@@ -1,11 +1,11 @@
-# BĂNG CUNG DẠ KHÚC (冰宫夜曲)
+# Băng Cung Dạ Khúc (冰宫夜曲)
 
-## I. TỔNG QUAN
-- **Thể Loại:** Thất Ngôn Bát Cú Đường Luật (Seven-Character Octave Poem).
+## I. Tổng Quan
+- **Thể Loại:** Thất Ngôn Bát Cú Đường Luật (Seven-Nhân Vật Octave Poem).
 - **Chủ Đề:** Nỗi cô đơn của người tu luyện Băng Tâm Quyết giữa đêm trường Bắc Băng.
 - **Tác Giả:** Lý Tuyết Ưng.
 
-## II. NỘI DUNG (CONTENT)
+## Ii. Nội Dung (Nội Dung)
 
 ### 1. Nguyên Văn (Original Chinese)
 冰山绝顶独弹琴
@@ -37,5 +37,5 @@ Hồng trần cuồn cuộn mấy lần kiếm tìm?
 Chỉ có gió mát mới hiểu được ý ta,
 Làm bạn cùng trăng sáng chiếu soi từ xưa đến nay.
 
-## III. BÌNH GIẢI (COMMENTARY)
+## Iii. Bình Giải (Commentary)
 Bài thơ thể hiện tâm trạng mâu thuẫn của Lý Tuyết Ưng: Một bên là sự kiên định tu đạo ("Băng sơn tuyệt đỉnh"), một bên là nỗi cô đơn khắc khoải ("Độc đàn cầm"). Cảnh vật hùng vĩ của Bắc Băng ("Cực quang", "Tuyết lạc") vừa làm nền cho sự cô độc, vừa là nguồn cảm hứng ngộ đạo. Hai câu cuối khẳng định sự lựa chọn của nhân vật: Chấp nhận làm bạn với gió trăng, xa lánh hồng trần để theo đuổi sự vĩnh cửu ("Chiếu cổ kim").

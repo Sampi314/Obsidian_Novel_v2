@@ -1,7 +1,7 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC (2026-03-21)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Cập nhật Lore Huyết Mạch Thượng Cổ & Viết Chương 58 (Giao Ước Trong Bóng Tối).
 
 ## 2. CÔNG VIỆC ĐÃ LÀM

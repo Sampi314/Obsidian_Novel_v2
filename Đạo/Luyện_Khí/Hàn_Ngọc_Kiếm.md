@@ -1,4 +1,4 @@
-# PHÁP BẢO: HÀN NGỌC KIẾM
+# Pháp Bảo: Hàn Ngọc Kiếm
 
 - **Tên Pháp Bảo:** Hàn Ngọc Kiếm (寒玉剑).
 - **Phẩm Cấp:** Huyền Cấp Thượng Phẩm.

@@ -1,20 +1,20 @@
-# THANH ÂM VẠN VẬT QUYẾT (清音萬物訣)
+# Thanh Âm Vạn Vật Quyết (清音萬物訣)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Tên:** Thanh Âm Vạn Vật Quyết (Thanh Am Van Vat Quyet).
 - **Phẩm Cấp:** Thiên Cấp Hạ Phẩm (Thien Cap Ha Pham).
 - **Hệ:** Mộc (Wood), Âm Luật (Sound).
 - **Xuất Xứ:** Bí truyền của Tinh Linh Tộc (Vĩnh Hằng Sâm Lâm), được sáng tạo bởi Nữ Hoàng Tinh Linh đời đầu khi lắng nghe tiếng gió qua kẽ lá Thần Mộc.
 - **Yêu Cầu:** Người tu luyện phải có Mộc Linh Căn tinh thuần và cảm thụ âm luật cực cao. Tâm tính phải hòa hợp với thiên nhiên.
 
-## II. KHẨU QUYẾT (MANTRA)
+## Ii. Khẩu Quyết (Mantra)
 > *"Vạn vật hữu linh, thanh âm vi dẫn.
 > Thảo mộc đồng tâm, thiên địa cộng hưởng.
 > Nhất khúc định hồn, nhị khúc sinh hoa, tam khúc hóa thần."*
 
 *(Dịch nghĩa: Vạn vật đều có linh hồn, âm thanh là vật dẫn dắt. Cây cỏ cùng một lòng, trời đất cùng vang vọng. Một khúc nhạc định hồn phách, hai khúc nhạc làm hoa nở, ba khúc nhạc hóa thành thần thánh.)*
 
-## III. CÁC TẦNG CẢNH GIỚI (LAYERS)
+## Iii. Các Tầng Cảnh Giới (Layers)
 
 ### Tầng 1: Thính Linh (Nghe Tiếng Linh Hồn)
 - **Mô Tả:** Người tu luyện học cách lắng nghe "tiếng nói" của thực vật và vạn vật xung quanh. Không chỉ là âm thanh vật lý, mà là rung động của sự sống.
@@ -37,7 +37,7 @@
   - **Thanh Âm Huyễn Cảnh:** Tạo ra ảo ảnh âm thanh cực mạnh, khiến kẻ thù lạc lối trong mê cung tâm trí, thấy mình bị rừng già nuốt chửng.
   - **Tuyệt Âm Trấn Hồn:** Một nốt nhạc cực cao có thể phá vỡ thần thức của đối thủ, gây choáng hoặc bất tỉnh ngay lập tức.
 
-## IV. ƯU & NHƯỢC ĐIỂM
+## Iv. Ưu & Nhược Điểm
 - **Ưu Điểm:**
   - Cực mạnh khi chiến đấu trong môi trường rừng rậm.
   - Kết hợp công, thủ, hỗ trợ, khống chế toàn diện.
@@ -48,6 +48,6 @@
   - Tiêu hao thần thức rất lớn. Nếu tâm loạn, âm luật sẽ phản phệ gây tổn thương kinh mạch.
   - Sát thương trực tiếp lên cơ thể không cao bằng các công pháp hệ Hỏa hay Kim, thiên về khống chế và bào mòn.
 
-## V. GHI CHÚ
+## V. Ghi Chú
 - Đây là công pháp trấn phái của dòng dõi Sứ Giả Tinh Linh, thường chỉ truyền cho người có tư chất đặc biệt được Nữ Hoàng chọn lựa.
 - Tương truyền nếu luyện đến đỉnh cao, có thể nghe được tiếng thì thầm của Cây Thế Giới.

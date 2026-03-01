@@ -1,6 +1,6 @@
-# VẠN ĐỘC PHỆ TÂM TRẬN (万毒噬心阵)
+# Vạn Độc Phệ Tâm Trận (万毒噬心阵)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Tên Gọi:** Vạn Độc Phệ Tâm Trận.
 - **Phẩm Cấp:** Cửu Cấp Sát Trận (Tương đương Hóa Thần Kỳ).
 - **Phạm Vi:** Bao phủ toàn bộ Vạn Độc Cốc (bán kính 500 dặm).
@@ -10,7 +10,7 @@
     - Huyết Trì ở trung tâm làm mắt trận.
     - Hàng vạn sinh linh độc trùng được chôn sống dưới mỗi cột cờ.
 
-## II. CƠ CHẾ HOẠT ĐỘNG
+## Ii. Cơ Chế Hoạt Động
 1.  **Mê Vụ (Sương Mù):**
     - Khi kích hoạt, trận pháp phun ra làn sương mù màu tím lục dày đặc, che khuất tầm nhìn và thần thức.
     - Sương mù này chứa chất độc gây ảo giác mạnh, khiến người xâm nhập nhìn thấy nỗi sợ lớn nhất của mình.
@@ -21,7 +21,7 @@
     - Tiếng rít của vạn loại côn trùng cộng hưởng tạo thành ma âm, tấn công trực tiếp vào Tâm Ma của tu sĩ.
     - Kẻ tâm trí không vững sẽ tự điên loạn mà chết hoặc tự sát.
 
-## III. UY LỰC & ĐIỂM YẾU
+## Iii. Uy Lực & Điểm Yếu
 - **Uy Lực:**
     - Có thể cầm chân hoặc giết chết tu sĩ Hóa Thần Sơ Kỳ nếu không am hiểu về độc.
     - Đối với tu sĩ Nguyên Anh trở xuống, bước vào là chết chắc.
@@ -30,6 +30,6 @@
     - Cần tiêu tốn lượng lớn Huyết Tinh để duy trì khi hoạt động hết công suất.
     - Nếu Huyết Trì bị phá hủy, trận pháp sẽ suy yếu 50%.
 
-## IV. LỊCH SỬ CHIẾN TÍCH
+## Iv. Lịch Sử Chiến Tích
 - **Trận Chiến Năm 85.000:** Một nhóm tu sĩ Chính đạo gồm 3 Nguyên Anh và hàng trăm Trúc Cơ tấn công Vạn Độc Cốc. Kết quả toàn quân bị diệt, xác của họ trở thành phân bón cho Ngũ Độc Thảo.
 - **Sự Kiện Gần Đây:** Đan Dương Tử của Đan Hà Cốc từng thử phá trận nhưng phải rút lui sau 3 ngày vì không chịu nổi độc khí ngấm vào kinh mạch.

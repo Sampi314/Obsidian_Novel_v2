@@ -1,8 +1,8 @@
 # Session Log - 2026-03-29 (Lệ Vô Tâm - Arc 2)
 
 ## 1. Thông tin phiên
-- **Role:** Tổng Quản
-- **Date:** 2026-03-29
+- **Vai Trò:** Tổng Quản
+- **Ngày:** 2026-03-29
 - **Focus:** Viết tiếp Arc 2 "Huyết Thủ Thư Sinh" cho Lệ Vô Tâm (Chương 44-46).
 
 ## 2. Các thay đổi đã thực hiện
@@ -19,9 +19,9 @@
     - Thể hiện ý chí sinh tồn và thù hận với Đan Hà Cốc.
 
 ### b. Hồ sơ & Hệ thống
-- **Cập nhật:** `Đạo/HỒ_SƠ_THẾ_GIỚI.md`
+- **Cập nhật:** `Đạo/Hồ_Sơ_Thế_Giới.md`
     - Thêm 3 chương mới vào danh sách chương của Lệ Vô Tâm.
-- **Cập nhật:** `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`
+- **Cập nhật:** `Đạo/Báo_Cáo_Chất_Lượng.md`
     - Ghi log hoạt động phiên làm việc.
 - **Cập nhật:** `scripts/chapter_data.js`
     - Chạy script `add_navigation.py` để cập nhật dữ liệu điều hướng cho 3 chương mới.

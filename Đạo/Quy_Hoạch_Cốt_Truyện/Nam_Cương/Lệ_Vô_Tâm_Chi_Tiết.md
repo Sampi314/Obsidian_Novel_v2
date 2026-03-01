@@ -1,11 +1,11 @@
-# QUY HOẠCH CỐT TRUYỆN CHI TIẾT: LỆ VÔ TÂM
+# Quy Hoạch Cốt Truyện Chi Tiết: Lệ Vô Tâm
 
-## MỤC TIÊU
+## Mục Tiêu
 Mở rộng tuyến truyện của Lệ Vô Tâm để khắc họa rõ nét quá trình biến đổi tâm lý từ một đứa trẻ lương thiện (Hữu Tâm) thành một ma đầu tàn độc (Vô Tâm). Cốt truyện được chia thành 3 Arc lớn, mỗi Arc gồm 30 chương, được đánh số liên tục.
 
 ---
 
-## ARC 1: HUYẾT TRÌ CHI TỬ (Đứa Con Của Huyết Trì)
+## Arc 1: Huyết Trì Chi Tử (Đứa Con Của Huyết Trì)
 **Thời điểm:** 13 - 16 tuổi.
 **Bối cảnh:** Vạn Độc Môn (Khu vực Ngoại Môn & Huyết Trì).
 **Chủ đề:** Sinh Tồn & Đánh Mất Nhân Tính.
@@ -53,7 +53,7 @@ Mở rộng tuyến truyện của Lệ Vô Tâm để khắc họa rõ nét qu�
 
 ---
 
-## ARC 2: HUYẾT THỦ THƯ SINH (Thư Sinh Tay Máu)
+## Arc 2: Huyết Thủ Thư Sinh (Thư Sinh Tay Máu)
 **Thời điểm:** 17 - 21 tuổi.
 **Bối cảnh:** Biên giới Nam Cương.
 **Chủ đề:** Trỗi Dậy & Tàn Sát.
@@ -129,7 +129,7 @@ Mở rộng tuyến truyện của Lệ Vô Tâm để khắc họa rõ nét qu�
 
 ---
 
-## ARC 3: VẠN ĐỘC THÁNH TỬ
+## Arc 3: Vạn Độc Thánh Tử
 **Thời điểm:** 22 tuổi - Hiện tại.
 **Bối cảnh:** Nội Môn & Chiến Trường.
 **Chủ đề:** Quyền Lực & Âm Mưu.

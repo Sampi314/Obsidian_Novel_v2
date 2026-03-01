@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Lý_Tuyết_Ưng.md
 ---
 
-# LÝ TUYẾT ƯNG (LI XUE YING)
+# Lý Tuyết Ưng (Li Xue Ying)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trên đỉnh núi tuyết vĩnh cửu hoặc trong cung điện băng.
@@ -20,7 +20,7 @@ Trên đỉnh núi tuyết vĩnh cửu hoặc trong cung điện băng.
 -   Tông màu chủ đạo: Trắng (White), Bạc (Silver), Xanh dương nhạt (Ice Blue).
 -   Cảm giác: Thần thánh (Ethereal), Lạnh giá (Freezing), Quyền lực (Powerful).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (nano banana style),
@@ -33,6 +33,6 @@ majestic, powerful, calm expression.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, fire, warm colors, dark skin, messy.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Tóc và trang phục phải tạo cảm giác nhẹ nhàng, bay bổng nhưng vẫn uy nghi.
 -   Mắt phải rất sáng và lạnh.

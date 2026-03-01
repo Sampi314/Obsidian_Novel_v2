@@ -6,13 +6,13 @@
 <!-- NAVIGATION_END -->
 # Chương 53: Vòng Vây Siết Chặt (圍困・緊)
 
-## I. THÔNG TIN CHUNG
+## I. Thông Tin Chung
 - **Người Viết:** Tổng Quản (Jules)
 - **Ngày Viết:** 2026-03-17
 - **Góc Nhìn:** Ngôi thứ ba (Tổng quát)
 - **Bối Cảnh:** [Rừng Huyết Độc](../../Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md), khu vực đầm lầy phía Đông Nam → Rừng Huyết Vụ.
 
-## II. NỘI DUNG CHÍNH
+## Ii. Nội Dung Chính
 
 Tiếng nổ lớn từ Mắt Trận Phụ như một lời tuyên chiến vang vọng khắp Rừng Huyết Độc. Ngay lập tức, bầu trời đêm bị xé toạc bởi hàng chục tín hiệu cầu lửa màu xanh lục bắn lên từ các hướng khác nhau.
 
@@ -70,8 +70,8 @@ Trong khi đó, tại trung tâm Vạn Độc Cốc, [Lệ Vô Tâm](../../Nhân
 
 "Chuột nhắt chạy vào bẫy rồi. Kích hoạt... Huyết Mạng."
 
-## III. GHI CHÚ
-- **Action:** Trận chiến ngắn nhưng kịch tính, thể hiện sự quyết đoán của nhóm nhân vật.
+## Iii. Ghi Chú
+- **Hành Động:** Trận chiến ngắn nhưng kịch tính, thể hiện sự quyết đoán của nhóm nhân vật.
 - **Atmosphere:** Bầu không khí ngột ngạt, căng thẳng, nguy hiểm rình rập từ mọi phía.
-- **Plot Progression:** Nhóm nhân vật bị đẩy vào tình thế "tránh vỏ dưa gặp vỏ dừa", buộc phải khám phá vùng đất mới nguy hiểm hơn.
+- **Cốt Truyện Progression:** Nhóm nhân vật bị đẩy vào tình thế "tránh vỏ dưa gặp vỏ dừa", buộc phải khám phá vùng đất mới nguy hiểm hơn.
 - **Foreshadowing:** Sự xuất hiện của "Huyết Mạng" và con đường mòn cổ xưa hứa hẹn những thử thách mới.

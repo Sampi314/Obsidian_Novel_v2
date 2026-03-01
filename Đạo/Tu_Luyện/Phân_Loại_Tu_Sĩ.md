@@ -1,4 +1,4 @@
-# PHÂN LOẠI TU SĨ & CON ĐƯỜNG TU LUYỆN (修士分類)
+# Phân Loại Tu Sĩ & Con Đường Tu Luyện (修士分類)
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 
 Trong Cố Nguyên Giới, con đường tu luyện vạn phái quy tông nhưng phương pháp muôn hình vạn trạng. Tu sĩ dựa theo căn cơ, tư chất, cơ duyên và tâm tính mà chọn con đường phù hợp. Đại thể chia thành hai trục chính:
 
@@ -18,9 +18,9 @@ Hai trục này giao thoa với nhau --- một Kiếm Tu có thể theo Chính �
 
 ---
 
-## II. PHÂN LOẠI THEO CHÍNH TÀ
+## Ii. Phân Loại Theo Chính Tà
 
-### 1. Chính Đạo (正道 - Orthodox Path)
+### 1. Chính Đạo (正道 - Orthodox Đường Dẫn)
 
 **Định nghĩa:** Tu luyện thuận theo Thiên Đạo, lấy tự nhiên làm gốc, lấy đạo tâm làm nền, không dùng phương pháp tổn người lợi mình.
 
@@ -49,7 +49,7 @@ Hai trục này giao thoa với nhau --- một Kiếm Tu có thể theo Chính �
 
 ---
 
-### 2. Ma Đạo (魔道 - Demonic Path)
+### 2. Ma Đạo (魔道 - Demonic Đường Dẫn)
 
 **Định nghĩa:** Tu luyện nghịch Thiên Đạo, dùng phương pháp tàn nhẫn, tổn người lợi mình để tăng tốc tu vi. Hấp thụ tinh huyết, nguyên thần, hoặc sinh cơ của người khác làm dưỡng chất.
 
@@ -126,7 +126,7 @@ Hai trục này giao thoa với nhau --- một Kiếm Tu có thể theo Chính �
 
 ---
 
-## III. PHÂN LOẠI THEO CHUYÊN TU
+## Iii. Phân Loại Theo Chuyên Tu
 
 ### 1. Kiếm Tu (劍修 - Sword Cultivator)
 
@@ -340,7 +340,7 @@ Hai trục này giao thoa với nhau --- một Kiếm Tu có thể theo Chính �
 
 ---
 
-## IV. BẢNG TƯƠNG SINH TƯƠNG KHẮC
+## Iv. Bảng Tương Sinh Tương Khắc
 
 Các con đường tu luyện có mối quan hệ khắc chế và bổ trợ lẫn nhau, tạo nên sự cân bằng trong tu tiên giới.
 
@@ -371,7 +371,7 @@ Các con đường tu luyện có mối quan hệ khắc chế và bổ trợ l�
 
 ---
 
-## V. BẢNG TỔNG HỢP
+## V. Bảng Tổng Hợp
 
 | Con Đường | Hệ | Công Kích | Phòng Ngự | Tốc Độ Tu | Linh Hoạt | Tài Nguyên | Vị Thế |
 |---|---|---|---|---|---|---|---|
@@ -390,7 +390,7 @@ Các con đường tu luyện có mối quan hệ khắc chế và bổ trợ l�
 
 ---
 
-## VI. ĐẶC THÙ KỶ NGUYÊN KHỞI NGUYÊN
+## Vi. Đặc Thù Kỷ Nguyên Khởi Nguyên
 
 Trong Kỷ Nguyên Khởi Nguyên, các con đường tu luyện chưa được hệ thống hóa rõ ràng:
 
@@ -411,4 +411,4 @@ Trong Kỷ Nguyên Khởi Nguyên, các con đường tu luyện chưa được 
 **Liên kết:**
 - [[Hệ_Thống_Cảnh_Giới]] --- Chi tiết 9 đại cảnh giới
 - [[Tâm_Ma_Kiếp_Nạn]] --- Tâm Ma & Kiếp Nạn chi tiết
-- [[HỒ_SƠ_THẾ_GIỚI]] --- Tổng quan Cố Nguyên Giới
+- [[Hồ_Sơ_Thế_Giới]] --- Tổng quan Cố Nguyên Giới

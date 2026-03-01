@@ -1,4 +1,4 @@
-# HỒ SƠ KỲ VẬT: HỎA LINH THẢO
+# Hồ Sơ Kỳ Vật: Hỏa Linh Thảo
 
 - **Tên Vật Phẩm:** Hỏa Linh Thảo (火灵草)
 - **Phẩm Cấp:** Tam Phẩm (Linh Dược)

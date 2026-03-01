@@ -1,6 +1,6 @@
-# NGUYỆT LINH TRƯỜNG SINH QUYẾT (月靈長生訣)
+# Nguyệt Linh Trường Sinh Quyết (月靈長生訣)
 
-## I. THÔNG TIN CƠ BẢN
+## I. Thông Tin Cơ Bản
 - **Tên:** Nguyệt Linh Trường Sinh Quyết (Moon Spirit Longevity Decision).
 - **Phân Loại:** Công Pháp Tu Luyện (Cultivation Method).
 - **Cấp Bậc:** Thiên Cấp Trung Phẩm (Heaven Rank Medium Grade).
@@ -8,7 +8,7 @@
 - **Xuất Xứ:** [Tinh Linh Tộc](../Chủng_Tộc/Chủng_Tộc_Chính.md#tinh-linh-tộc) (Bí truyền Hoàng gia).
 - **Người Sở Hữu:** [Nguyệt Dao](../Nhân_Vật/Nguyệt_Dao.md).
 
-## II. MÔ TẢ & ĐẶC ĐIỂM
+## Ii. Mô Tả & Đặc Điểm
 - **Mô Tả:**
   - Công pháp trấn tộc tối cao của Tinh Linh Tộc, tương truyền do Đệ Nhất Nữ Hoàng Tinh Linh sáng tạo khi ngồi thiền dưới ánh trăng tròn bên cạnh Cây Thế Giới.
   - Hấp thụ tinh hoa của ánh trăng (Nguyệt Hoa) để tôi luyện thân thể và linh hồn, biến cơ thể người tu luyện thành một bình chứa ánh sáng thanh khiết, không vướng bụi trần.
@@ -18,7 +18,7 @@
   - **Thanh Tẩy:** Ánh sáng từ công pháp có thể xua tan mọi loại kịch độc (trừ Huyết Thần Độc cấp cao cần thời gian).
   - **Nguyệt Ảnh:** Tạo ra ảo ảnh và di chuyển linh hoạt như ánh trăng xuyên qua kẽ lá.
 
-## III. CÁC TẦNG CẢNH GIỚI (KHẨU QUYẾT)
+## Iii. Các Tầng Cảnh Giới (Khẩu Quyết)
 
 ### Tầng 1: Sơ Nguyệt (Trăng Non) - Luyện Khí/Trúc Cơ
 - **Khẩu Quyết:**
@@ -72,7 +72,7 @@
   - Đạt đến cảnh giới "Nhân Nguyệt Hợp Nhất". Cơ thể có thể hóa thành ánh sáng thuần khiết, miễn nhiễm phần lớn sát thương vật lý.
   - Kích hoạt **"Sinh Mệnh Hiến Tế"**: Chuyển hóa toàn bộ tu vi và thọ nguyên thành một luồng sức sống khổng lồ có thể hồi sinh người vừa chết (điều kiện ngặt nghèo) hoặc cứu sống cả một vùng rừng chết.
 
-## IV. CHIÊU THỨC TIÊU BIỂU
+## Iv. Chiêu Thức Tiêu Biểu
 1.  **Nguyệt Quang Tiễn (Nguyệt Thần Cung):** Tụ linh lực thành mũi tên ánh sáng, bắn ra không tiếng động nhưng xuyên phá mọi phòng ngự ma đạo.
 2.  **Thanh Tẩy Chi Quang:** Tạo ra vòng tròn ánh sáng bảo vệ, thiêu đốt tà khí xâm nhập.
 3.  **Rừng Trăng (Nguyệt Sâm Lâm):** Ảo cảnh vây khốn kẻ thù, khiến họ lạc lối trong khu rừng đầy ánh trăng và bị dây leo tấn công từ mọi phía.

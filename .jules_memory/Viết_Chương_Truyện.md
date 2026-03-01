@@ -1,7 +1,7 @@
 # NHẬT KÝ HOẠT ĐỘNG: VIẾT CHƯƠNG TRUYỆN
 
 **Phiên làm việc:** 2026-03-02
-**Agent:** Tổng Quản (Jules)
+**Đại Diện:** Tổng Quản (Jules)
 
 ## 1. TỔNG QUAN
 Đã hoàn thành viết Chương 28: Thử Thách Của Lục Ly. Nhóm nhân vật chính đã vượt qua thử thách tâm ma của Hộ Pháp Tinh Linh và được phép tiếp cận Long Cốt.
@@ -16,7 +16,7 @@
   - Lục Ly dùng *Nguyệt Ảnh Huyễn Âm* để thử thách tâm tính (Diệp Tĩnh Sương giữ vững Kiếm Tâm, Lâm Phong chọn tình nghĩa thay vì tự do).
   - Kết thúc chương: Nhóm nhân vật được phép bước lên cầu đá để tiếp cận Long Cốt.
 - **Cập nhật Hồ Sơ:**
-  - Cập nhật `HỒ_SƠ_THẾ_GIỚI.md` và `QUẢN_LÝ_ARC_TRUYỆN.md`.
+  - Cập nhật `Hồ_Sơ_Thế_Giới.md` và `Quản_Lý_Arc_Truyện.md`.
 
 ## 3. THÔNG TIN QUAN TRỌNG MỚI
 - **Lục Ly:** Đã trở thành đồng minh (hoặc ít nhất là người dẫn đường), nhưng cảnh báo về rủi ro khi thanh tẩy Long Cốt bằng mảnh vỡ.

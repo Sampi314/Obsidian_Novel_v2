@@ -1,4 +1,4 @@
-# TÂM MA & KIẾP NẠN (心魔與劫難)
+# Tâm Ma & Kiếp Nạn (心魔與劫難)
 
 ---
 
@@ -8,9 +8,9 @@
 
 ---
 
-## PHẦN NHẤT: TÂM MA (心魔 - Heart Demons)
+## Phần Nhất: Tâm Ma (心魔 - Heart Demons)
 
-### I. TỔNG QUAN
+### I. Tổng Quan
 
 Tâm Ma là chướng ngại nội tâm sinh ra trong quá trình tu luyện, là bóng tối ẩn sâu trong tâm hồn tu sĩ. Khi tu vi tăng tiến, linh thức mở rộng, những chấp niệm, sợ hãi, dục vọng tiềm ẩn sẽ bị khuếch đại gấp bội, hóa thành Tâm Ma ngăn trở đại đạo.
 
@@ -23,7 +23,7 @@ Tâm Ma là chướng ngại nội tâm sinh ra trong quá trình tu luyện, l�
 
 ---
 
-### II. THẤT ĐẠI TÂM MA (七大心魔)
+### Ii. Thất Đại Tâm Ma (七大心魔)
 
 #### 1. Tham Ma (貪魔 - Ma của Tham Lam)
 
@@ -92,7 +92,7 @@ Tâm Ma là chướng ngại nội tâm sinh ra trong quá trình tu luyện, l�
 
 ---
 
-### III. TÂM MA THEO TỪNG CẢNH GIỚI
+### Iii. Tâm Ma Theo Từng Cảnh Giới
 
 | Cảnh Giới | Loại Tâm Ma Phổ Biến | Mức Độ Nguy Hiểm | Ghi Chú |
 |---|---|---|---|
@@ -108,7 +108,7 @@ Tâm Ma là chướng ngại nội tâm sinh ra trong quá trình tu luyện, l�
 
 ---
 
-### IV. HẬU QUẢ THẤT BẠI TRƯỚC TÂM MA
+### Iv. Hậu Quả Thất Bại Trước Tâm Ma
 
 #### 1. Tẩu Hỏa Nhập Ma (走火入魔)
 - **Mức độ nhẹ:** Linh lực rối loạn, kinh mạch tổn thương, tu vi tạm thời suy giảm. Có thể hồi phục sau vài tháng đến vài năm Bế Quan.
@@ -127,9 +127,9 @@ Tâm Ma là chướng ngại nội tâm sinh ra trong quá trình tu luyện, l�
 
 ---
 
-## PHẦN NHỊ: KIẾP NẠN (劫難 - Tribulations)
+## Phần Nhị: Kiếp Nạn (劫難 - Tribulations)
 
-### I. TỔNG QUAN
+### I. Tổng Quan
 
 Kiếp Nạn là thử thách mà Thiên Đạo giáng xuống khi tu sĩ đạt đến bước ngoặt trong tu luyện. Tu tiên vốn là nghịch thiên, Thiên Đạo tự nhiên sẽ không dung kẻ muốn vượt thoát luân hồi. Kiếp Nạn vừa là thử thách, vừa là cơ duyên --- vượt qua thì đạo hạnh tăng tiến, thất bại thì hồn phi phách tán.
 
@@ -297,9 +297,9 @@ Kiếp Nạn là thử thách mà Thiên Đạo giáng xuống khi tu sĩ đạt
 
 ---
 
-## PHẦN TAM: ĐẶC THÙ KỶ NGUYÊN KHỞI NGUYÊN (特殊 - 起源紀元)
+## Phần Tam: Đặc Thù Kỷ Nguyên Khởi Nguyên (特殊 - 起源紀元)
 
-### I. KIẾP NẠN YẾU HƠN
+### I. Kiếp Nạn Yếu Hơn
 
 Trong Kỷ Nguyên Khởi Nguyên, Thiên Đạo chưa hoàn thiện, quy tắc chưa kiện toàn, dẫn đến một số đặc điểm khác biệt:
 
@@ -308,7 +308,7 @@ Trong Kỷ Nguyên Khởi Nguyên, Thiên Đạo chưa hoàn thiện, quy tắc 
 - **Cửu Thiên Thần Lôi** tại thời đại này chưa từng được ghi nhận --- vì chưa có tu sĩ nào đạt đến Độ Kiếp Kỳ trong Kỷ Nguyên Khởi Nguyên (Thiên Đạo chưa đủ hoàn thiện để giáng xuống kiếp nạn cấp này).
 - **Tỷ lệ sống sót tăng** khoảng 10-15% so với thời đại sau, nhưng cũng vì vậy mà nhiều tu sĩ chủ quan, dẫn đến thất bại do thiếu chuẩn bị.
 
-### II. TÂM MA MẠNH HƠN
+### Ii. Tâm Ma Mạnh Hơn
 
 Nghịch lý của Kỷ Nguyên Khởi Nguyên: Kiếp Nạn yếu, nhưng Tâm Ma lại mạnh gấp bội.
 
@@ -326,7 +326,7 @@ Nghịch lý của Kỷ Nguyên Khởi Nguyên: Kiếp Nạn yếu, nhưng Tâm 
 
 ---
 
-## PHẦN TỨ: BẢNG TỔNG HỢP KIẾP NẠN
+## Phần Tứ: Bảng Tổng Hợp Kiếp Nạn
 
 | Kiếp Nạn | Cảnh Giới | Số Đạo | Tỷ Lệ Sống | Tỷ Lệ Thành Công | Đặc Điểm |
 |---|---|---|---|---|---|
@@ -346,4 +346,4 @@ Nghịch lý của Kỷ Nguyên Khởi Nguyên: Kiếp Nạn yếu, nhưng Tâm 
 **Liên kết:**
 - [[Hệ_Thống_Cảnh_Giới]] --- Chi tiết 9 đại cảnh giới
 - [[Phân_Loại_Tu_Sĩ]] --- Các con đường tu luyện
-- [[HỒ_SƠ_THẾ_GIỚI]] --- Tổng quan Cố Nguyên Giới
+- [[Hồ_Sơ_Thế_Giới]] --- Tổng quan Cố Nguyên Giới

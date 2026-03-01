@@ -6,9 +6,9 @@
   - Viết **Chương 35: Lối Mòn Trong Bão** (Góc Nhìn Chính).
   - Tạo Kỳ Vật mới: **Mộc Linh Vệ** (Wood Spirit Guardian).
 - **Cập Nhật:**
-  - Cập nhật `HỒ_SƠ_THẾ_GIỚI.md` (Index chương, kỳ vật mới).
-  - Cập nhật `QUẢN_LÝ_ARC_TRUYỆN.md` (Chuyển trạng thái sang hành trình về Nam Cương).
-  - Cập nhật `BÁO_CÁO_CHẤT_LƯỢNG.md`.
+  - Cập nhật `Hồ_Sơ_Thế_Giới.md` (Index chương, kỳ vật mới).
+  - Cập nhật `Quản_Lý_Arc_Truyện.md` (Chuyển trạng thái sang hành trình về Nam Cương).
+  - Cập nhật `Báo_Cáo_Chất_Lượng.md`.
 
 ## Ghi Chú
 - Cốt truyện đã rời khỏi khu vực an toàn "Pháo Đài Xanh".

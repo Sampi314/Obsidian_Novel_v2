@@ -2,9 +2,9 @@
 source: Đạo/Kỳ_Vật/Tuyết_Liên_Hoa.md
 ---
 
-# TUYẾT LIÊN HOA (SNOW LOTUS)
+# Tuyết Liên Hoa (Snow Lotus)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Nở trên đỉnh núi tuyết vĩnh cửu.
@@ -20,7 +20,7 @@ Nở trên đỉnh núi tuyết vĩnh cửu.
 -   Tông màu chủ đạo: Trắng (White), Xanh băng (Ice Blue).
 -   Cảm giác: Lạnh giá (Cold), Tinh khiết (Pure), Quý hiếm (Rare).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (macro shot),
@@ -31,5 +31,5 @@ fragile but resilient beauty, high contrast, magical flower.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, warm colors, fire, dirt, mud.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Vẻ đẹp "Băng Thanh Ngọc Khiết".

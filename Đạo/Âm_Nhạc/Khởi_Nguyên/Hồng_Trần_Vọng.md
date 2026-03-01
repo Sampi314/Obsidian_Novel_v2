@@ -2,7 +2,7 @@
 dạng_cấu_trúc: C1 - Cổ Phong (Ancient Style)
 ---
 
-# HỒNG TRẦN VỌNG (紅塵望)
+# Hồng Trần Vọng (紅塵望)
 
 ### 📍 Cấu Trúc Đã Chọn
 > Dạng: C1 (Cổ Phong - Ancient Style) | Tổng chữ mục tiêu: ~200 | Ngôn ngữ: 100% văn ngôn
@@ -13,7 +13,7 @@ dạng_cấu_trúc: C1 - Cổ Phong (Ancient Style)
 - **Bridge:** Tiếng Tiêu (Sáo) độc tấu, bi ai.
 - **Outro:** Tiếng đàn nhỏ dần, tan vào hư không.
 
-### I. NGUYÊN VĂN TIẾNG TRUNG (CHINESE LYRICS)
+### I. Nguyên Văn Tiếng Trung (Chinese Lyrics)
 **(Intro)**
 (Guzheng solo)
 
@@ -63,7 +63,7 @@ dạng_cấu_trúc: C1 - Cổ Phong (Ancient Style)
 紅塵夢... 醒時... 空手...
 (Silence)
 
-### II. PHIÊN ÂM HÁN VIỆT (SINO-VIETNAMESE LYRICS)
+### Ii. Phiên Âm Hán Việt (Sino-Vietnamese Lyrics)
 **(Verse 1)**
 Bạc tửu tận, cô nguyệt huyền sơn điên
 Cố hương viễn, mộng lý mịch tàn yên
@@ -106,7 +106,7 @@ Lập cao xứ, phong sương lãnh xâm phu
 **(Outro)**
 Hồng trần mộng... tỉnh thời... không thủ...
 
-### III. DỊCH SÁT NGHĨA (VIETNAMESE MEANING)
+### Iii. Dịch Sát Nghĩa (Vietnamese Meaning)
 **(Verse 1)**
 Rượu nhạt đã cạn, trăng cô đơn treo trên đỉnh núi
 Quê cũ xa xôi, chỉ còn tìm thấy làn khói tàn trong mộng
@@ -149,7 +149,7 @@ Viên đan trường sinh, đổi lấy ngàn năm cô độc
 **(Outro)**
 Giấc mộng hồng trần... khi tỉnh giấc... tay trắng...
 
-### IV. THÔNG TIN BỔ SUNG
+### Iv. Thông Tin Bổ Sung
 *   **Ý Nghĩa/Thông Điệp:** Bài hát là tiếng lòng của một tu sĩ đã đạt được trường sinh nhưng đánh đổi bằng sự cô độc vĩnh cửu. Nhìn lại quê hương, người thân, người yêu đều đã hóa thành cát bụi, hắn tự hỏi "Trường sinh để làm gì?".
-*   **Suno AI Style Prompt:**
+*   **Suno AI Style Chỉ Lệnh:**
     > Ancient Chinese Style, Guqin, Xiao Flute, Melancholic, Ballad, Male Vocals, Slow Tempo, Emotional, Ethereal, Reverb.

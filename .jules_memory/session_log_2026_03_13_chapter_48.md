@@ -1,4 +1,4 @@
-# Session Log: 2026-03-13 (Chapter 48)
+# Session Log: 2026-03-13 (Chương 48)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Tiếp nối mạch truyện sau khi phá hủy Mắt Trận Phụ ở Chương 47. Đưa nhóm nhân vật chính đến nơi an toàn.
@@ -15,8 +15,8 @@
     - Xác định đây là căn cứ tạm thời của phe Đồng Minh (Tinh Linh + Dược Vương Cốc).
 
 - **Cập nhật hệ thống:**
-  - `HỒ_SƠ_THẾ_GIỚI.md`: Thêm Chương 48 và địa danh mới vào danh sách. Cập nhật log.
-  - `BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoạt động sáng tác.
+  - `Hồ_Sơ_Thế_Giới.md`: Thêm Chương 48 và địa danh mới vào danh sách. Cập nhật log.
+  - `Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoạt động sáng tác.
 
 ## 3. Thay Đổi Của Người Dùng
 - Không phát hiện thay đổi trực tiếp (comment/TODO) trong phiên này.

@@ -1,20 +1,20 @@
-# HÀN SƯƠNG KIẾM QUYẾT (寒霜劍訣)
+# Hàn Sương Kiếm Quyết (寒霜劍訣)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Phẩm Cấp:** Huyền Cấp Thượng Phẩm.
 - **Thuộc Tính:** Băng (Hàn).
 - **Nguồn Gốc:** Do Hàn Băng Tiên Tử sáng tạo tại Tuyết Vực Cực Bắc, lấy cảm hứng từ sự tĩnh lặng chết chóc của băng tuyết ngàn năm.
 
-## II. CƠ CHẾ HOẠT ĐỘNG
+## Ii. Cơ Chế Hoạt Động
 - **Nguyên Lý:** Vận dụng linh lực hệ Băng ngưng tụ thành kiếm khí sắc bén như băng vỡ. Hấp thu hàn khí từ môi trường để gia tăng uy lực chiêu thức.
 - **Đặc Điểm:** Kiếm ý lạnh lẽo, thấu xương, không chỉ cắt đứt cơ thể vật lý mà còn làm đông cứng kinh mạch đối thủ. Khi thi triển, nhiệt độ xung quanh giảm mạnh.
 
-## III. CÔNG DỤNG & HIỆU QUẢ
+## Iii. Công Dụng & Hiệu Quả
 - **Lợi Ích Tu Luyện:** Giúp người tu luyện giữ được cái đầu lạnh (tĩnh tâm), loại bỏ tạp niệm nóng nảy. Cơ thể trở nên bền bỉ trước môi trường khắc nghiệt.
 - **Khả Năng Chiến Đấu:** Thiên về khống chế (làm chậm, đóng băng) và phá giáp (nhờ độ cứng của băng). Đặc biệt lợi hại khi đối đầu với kẻ địch hệ Thủy hoặc Mộc.
 - **Hỗ Trợ Khác:** Có thể dùng hàn khí để bảo quản dược liệu, thi thể hoặc tạo ra môi trường tu luyện đặc biệt (Băng thất).
 
-## IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 4 tầng)
+## Iv. Các Tầng Tu Luyện & Khẩu Quyết (Phân Chia Thành 4 Tầng)
 
 ### 1. Tầng 1: Sương Hàn Sơ Hiện (霜寒初現)
 - **Mô Tả:** Luyện khí hóa sương, kiếm khí mang theo hơi lạnh mờ ảo, làm chậm cử động của đối thủ.
@@ -80,7 +80,7 @@
         > Cái lạnh tuyệt đối, không có sinh cũng không có diệt.
         > Chỉ có ta là tỉnh táo, nắm giữ quyền kiểm soát băng tuyết.
 
-## V. HỆ THỐNG CHIÊU THỨC (6 Chiêu)
+## V. Hệ Thống Chiêu Thức (6 Chiêu)
 
 1.  **Tuyết Lạc Vô Thanh (雪落無聲):**
     - **Mô Tả:** Kiếm chiêu cực nhanh và nhẹ, không phát ra tiếng động khi xé gió, tấn công vào điểm yếu đối thủ một cách bất ngờ như tuyết rơi thầm lặng.
@@ -112,12 +112,12 @@
     - **Yêu Cầu:** Đạt Tầng 4 (Tuyệt Đối Linh Độ).
     - **Uy Lực Tăng Tiến:** Tầng 4 không gian đóng băng trong 3 hơi thở; Nếu đạt cảnh giới cao hơn (như Nguyên Anh), có thể đóng băng cả linh hồn (Nguyên Thần).
 
-## VI. YÊU CẦU & HẠN CHẾ
+## Vi. Yêu Cầu & Hạn Chế
 - **Công Hiệu Đặc Biệt:** Làm chậm dòng chảy linh lực trong cơ thể địch nhân (Hiệu ứng Trì Trệ), gây áp lực tinh thần lớn.
 - **Tác Dụng Phụ:** Nếu lạm dụng quá mức hoặc cưỡng ép thi triển khi linh lực cạn kiệt, hàn khí sẽ xâm nhập ngược vào kinh mạch người sử dụng (Hàn Độc), gây tê liệt tạm thời hoặc tổn thương gốc rễ tu luyện.
 - **Yêu Cầu Tu Luyện:** Người tu luyện phải có Băng Linh Căn hoặc thể chất mang tính Hàn. Cần tu luyện ở nơi lạnh giá để đạt hiệu quả tốt nhất.
 
-## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
+## Vii. Luận Giải & Chú Thích (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
 - **Ý Nghĩa Khẩu Quyết:** Bộ khẩu quyết nhấn mạnh vào sự "Tĩnh Lặng" và "Tuyệt Tình". Băng tuyết không biết nói, cũng không biết yêu thương. Người luyện kiếm này phải học cách đóng cửa trái tim, trở nên lạnh lùng như băng để đạt đến cảnh giới tối cao.
 - **Hình Thức Khẩu Quyết:** Thơ Tứ Ngôn (4 chữ), mỗi câu như một khối băng lạnh lẽo, chắc chắn và dứt khoát.

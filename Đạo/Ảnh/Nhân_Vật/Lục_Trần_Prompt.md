@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Lục_Trần.md
 ---
 
-# LỤC TRẦN (LUC TRAN)
+# Lục Trần (Luc Tran)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trên đỉnh núi cao mây mù bao phủ (Thiên Hoa Phong), bên cạnh hồ sen.
@@ -20,7 +20,7 @@ Trên đỉnh núi cao mây mù bao phủ (Thiên Hoa Phong), bên cạnh hồ s
 -   Tông màu chủ đạo: Trắng (White), Xanh ngọc (Jade Green), Mây trắng (Cloud White).
 -   Cảm giác: Thanh cao (Noble), Trí tuệ (Wise), Tĩnh lặng (Calm).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),
@@ -32,6 +32,6 @@ mystical atmosphere, soft lighting, wise master, grandmaster vibe.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, young boy, evil, dark, aggressive, battle.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Kiếm không có vỏ là chi tiết quan trọng.
 -   Thể hiện được phong thái "Nhất tông chi chủ".

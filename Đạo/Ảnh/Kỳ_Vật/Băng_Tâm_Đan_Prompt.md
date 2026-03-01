@@ -2,9 +2,9 @@
 source: Đạo/Đan_Dược/Băng_Tâm_Đan.md
 ---
 
-# BĂNG TÂM ĐAN (ICE HEART PILL)
+# Băng Tâm Đan (Ice Heart Pill)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Đặt trong hộp ngọc hoặc cầm trên tay.
@@ -20,7 +20,7 @@ source: Đạo/Đan_Dược/Băng_Tâm_Đan.md
 -   Tông màu chủ đạo: Trắng (White), Xanh dương (Blue).
 -   Cảm giác: Lạnh (Cold), Tinh khiết (Pure), Huyền diệu (Magical).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (macro shot),
@@ -31,5 +31,5 @@ alchemy product, exquisite, cold atmosphere.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, fire, red, black, dust, rough.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Trông như một viên ngọc băng.

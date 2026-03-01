@@ -2,9 +2,9 @@
 source: Đạo/Thế_Lực/Thiên_Sa_Thương_Hội.md
 ---
 
-# THIÊN SA THƯƠNG HỘI (HEAVENLY SAND MERCHANT GUILD)
+# Thiên Sa Thương Hội (Heavenly Sand Merchant Guild)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một tòa thương các lộng lẫy giữa ốc đảo hoặc thành phố sa mạc.
@@ -20,7 +20,7 @@ Một tòa thương các lộng lẫy giữa ốc đảo hoặc thành phố sa 
 -   Tông màu chủ đạo: Vàng kim (Gold), Đỏ nhung (Velvet Red), Xanh ngọc (Turquoise).
 -   Cảm giác: Sang trọng (Opulent), Quyền lực tài chính (Financial Power), Nhộn nhịp (Bustling).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (concept art),
@@ -33,5 +33,5 @@ rich details, vibrant colors.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, poverty, ruin, broken, dark, scary.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Nhấn mạnh vào sự giàu có và thịnh vượng.

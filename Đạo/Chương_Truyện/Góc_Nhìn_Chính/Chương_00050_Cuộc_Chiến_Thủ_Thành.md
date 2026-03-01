@@ -6,13 +6,13 @@
 <!-- NAVIGATION_END -->
 # Chương 50: Cuộc Chiến Thủ Thành (守城之戰)
 
-## I. THÔNG TIN CHUNG
+## I. Thông Tin Chung
 - **Người Viết:** Tổng Quản (Jules)
 - **Ngày Viết:** 2026-03-14
 - **Góc Nhìn:** Ngôi thứ ba (Tổng quát)
 - **Bối Cảnh:** [Mộc Linh Trận Địa](../../Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md), khu vực phía Đông.
 
-## II. NỘI DUNG CHÍNH
+## Ii. Nội Dung Chính
 
 Tiếng nổ lớn xé toạc màn đêm yên tĩnh. Kết giới màu xanh lục bao bọc Mộc Linh Trận Địa rung chuyển dữ dội như ngọn đèn trước gió. Phía Đông, nơi tiếp giáp với khu rừng rậm rạp nhất, một vết nứt lớn đã xuất hiện, để lộ ra bầu trời đỏ quạch màu máu của [Vạn Độc Huyết Tế Đại Trận](../../Trận_Pháp/Vạn_Độc_Huyết_Tế_Đại_Trận.md).
 
@@ -124,7 +124,7 @@ Lục Tiêu nhìn ba người họ, ánh mắt ánh lên sự cảm phục.
 
 Lời tuyên bố của Sứ Giả Tinh Linh vang lên, lạnh lùng và quyết tuyệt, đánh dấu sự khởi đầu của một cuộc phản công tuyệt vọng.
 
-## III. GHI CHÚ
+## Iii. Ghi Chú
 - **Diễn biến trận chiến:** Mô tả sự phối hợp giữa các class nhân vật (Support, Ranger, Tank/Warrior, Healer).
 - **Phát triển cốt truyện:**
     - Đánh bại đợt tấn công đầu tiên.

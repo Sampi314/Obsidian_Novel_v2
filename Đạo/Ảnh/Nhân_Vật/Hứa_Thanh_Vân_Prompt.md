@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Hứa_Thanh_Vân.md
 ---
 
-# HỨA THANH VÂN (HUA QING YUN)
+# Hứa Thanh Vân (Hua Qing Yun)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Giữa sa mạc hoặc trong tàn tích cổ đại.
@@ -20,7 +20,7 @@ Giữa sa mạc hoặc trong tàn tích cổ đại.
 -   Tông màu chủ đạo: Trắng (White), Vàng đất (Earth/Sand), Xanh ngọc (Jade Green).
 -   Cảm giác: Hài hước (Comical), Nhiệt huyết (Energetic), Lạc lõng (Out of place).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),
@@ -33,6 +33,6 @@ vibrant colors, cel shading.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, serious warrior, scary, dark, blood.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Tạo sự tương phản giữa "đồ hiệu" (kiếm, ngọc, chất vải) và "phong cách cái bang" (quần áo rách).
 -   Biểu cảm nên có chút ngây ngô hoặc cố tỏ ra ngầu.

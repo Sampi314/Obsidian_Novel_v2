@@ -1,4 +1,4 @@
-# HỒ SƠ NHÂN VẬT: SỞ LĂNG SƯƠNG
+# Hồ Sơ Nhân Vật: Sở Lăng Sương
 
 - **Tên Nhân Vật:** Sở Lăng Sương (楚凌霜).
 - **Chủng Tộc:** Nhân Tộc.

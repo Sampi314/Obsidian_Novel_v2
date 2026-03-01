@@ -2,9 +2,9 @@
 source: Đạo/Thế_Giới_Và_Thời_Gian/Ốc_Đảo_Thanh_Lương.md
 ---
 
-# ỐC ĐẢO THANH LƯƠNG (REFRESHING OASIS)
+# Ốc Đảo Thanh Lương (Refreshing Oasis)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một thiên đường xanh tươi giữa lòng sa mạc nóng bỏng.
@@ -20,7 +20,7 @@ Một thiên đường xanh tươi giữa lòng sa mạc nóng bỏng.
 -   Tông màu chủ đạo: Xanh ngọc (Turquoise), Xanh lá (Green), Vàng nhạt (Sand surrounding).
 -   Cảm giác: Tươi mát (Refreshing), Bình yên (Peaceful), Sống động (Lively).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),
@@ -32,5 +32,5 @@ paradise, sanctuary, peaceful atmosphere, vibrant colors.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, dead trees, dark, gloomy, horror, war.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Nhấn mạnh màu xanh ngọc bích của nước hồ để tạo cảm giác "mát lạnh".

@@ -1,12 +1,12 @@
-# TUYẾN TRUYỆN CHÍNH: TÂY MẠC (西漠)
+# Tuyến Truyện Chính: Tây Mạc (西漠)
 
-## I. TỔNG QUAN SỰ KIỆN
+## I. Tổng Quan Sự Kiện
 - **Tên Sự Kiện:** Bão Cát Nhuốm Máu (Cuộc chiến giành kiểm soát đường buôn bán nguyên liệu độc/giải).
 - **Thời Điểm:** Năm 100.005 Kỷ Nguyên Khởi Nguyên (Song song với Huyết Độc Chi Họa).
 - **Địa Điểm:** Tây Mạc (Hoàng Sa Quốc, Lưu Sa Phế Tích).
 - **Quy Mô:** Xung đột ngầm giữa Thương Hội và Tà Đạo.
 
-## II. CÁC PHE PHÁI THAM GIA
+## Ii. Các Phe Phái Tham Gia
 1. **Thiên Sa Thương Hội:**
    - *Tình thế:* Đang là trạm trung chuyển lớn nhất cung cấp cả Huyết Tinh Sa (chế tạo độc/vũ khí cho Vạn Độc Môn) và dược liệu quý (cho Dược Vương Cốc giải độc).
    - *Mục tiêu:* Tối đa hóa lợi nhuận nhưng lại bị chia rẽ nội bộ: một phe ủng hộ bán "Độc", phe kia muốn độc quyền "Thuốc Giải".
@@ -15,12 +15,12 @@
 3. **Mật Thám Vạn Độc Môn:**
    - *Vai trò:* Lệ Vô Tâm cử một đội đặc nhiệm (Huyết Vệ) sang Tây Mạc để bảo vệ đường dây cung cấp Huyết Tinh Sa và tìm kiếm cấm thuật cổ xưa bị chôn vùi trong sa mạc.
 
-## III. SỰ GIAO THOA VỚI CÁC TUYẾN TRUYỆN KHÁC
+## Iii. Sự Giao Thoa Với Các Tuyến Truyện Khác
 - **Liên kết Nam Cương:** Hứa Thanh Vân (một nhân vật quan trọng bị bắt trong Cốt Truyện Chính Nam Cương) có liên quan trực tiếp tới bí mật dưới lòng đất Hoàng Sa Quốc. Nhóm Diệp Tĩnh Sương đã tiến vào Tây Mạc ở Giai Đoạn 1 để tìm Hứa Thanh Vân và khám phá Huyết Trì.
 - **Liên kết Đông Hoang:** Thương Hội Đông Hoang và Thiên Sa Thương Hội bắt tay nhau để vận chuyển thuốc giải từ Dược Vương Cốc (Nam Cương) qua đường tắt (qua Tây Mạc) để đến Đông Hoang nhanh nhất.
 - **Liên kết Thiên Trụ:** Cung cấp thông tin tình báo và Huyết Tinh Sa cho các thế lực ngầm tại Thiên Trụ Sơn.
 
-## IV. DIỄN BIẾN CHÍNH (PHÂN CHƯƠNG)
+## Iv. Diễn Biến Chính (Phân Chương)
 ### Giai Đoạn 1: Cát Đỏ Như Máu
 - Diệp Tĩnh Sương và Lâm Phong đến Tây Mạc hợp tác với Thiên Sa Thương Hội (như đã diễn ra ở Giai Đoạn 1 Nam Cương).
 - Cuộc đua giành quyền kiểm soát Lưu Sa Phế Tích, nơi Vạn Độc Môn thiết lập một căn cứ ngầm (Huyết Trì thử nghiệm) dưới lòng đất Hoàng Sa.
@@ -33,7 +33,7 @@
 - Diệt trừ hoàn toàn căn cứ Vạn Độc Môn ở Lưu Sa Phế Tích. Cắt đứt nguồn cung Huyết Tinh Sa cho Vạn Độc Môn, làm suy yếu Vạn Độc Huyết Tế Đại Trận ở Nam Cương.
 - Hứa Thanh Vân được giải cứu và Thương Hội tái thiết, cung cấp tài nguyên vô hạn cho cuộc phản công tổng lực ở Nam Cương.
 
-## V. NHÂN VẬT CHÍNH TRONG TUYẾN
+## V. Nhân Vật Chính Trong Tuyến
 1. **Hứa Nhược Thủy / Hứa Thanh Vân:** Đại diện cho phe trung lập hướng thiện, cung cấp tài lực.
 2. **Thủ Lĩnh Phản Bội (Thiên Sa):** Phe ác, đồng minh của Lệ Vô Tâm tại Tây Mạc.
 3. **Vương Tử Hoàng Sa:** Hợp tác với Diệp Tĩnh Sương đánh đuổi Vạn Độc Môn.

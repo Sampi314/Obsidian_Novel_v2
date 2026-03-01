@@ -1,11 +1,11 @@
-# HỒ SƠ ĐAN DƯỢC: HỒI NGUYÊN ĐAN (回元丹)
+# Hồ Sơ Đan Dược: Hồi Nguyên Đan (回元丹)
 
 > *"Kinh mạch đã đoạn, đan điền đã phế, nhưng chỉ cần còn một hơi thở — Hồi Nguyên Đan có thể kéo ngươi từ vực thẳm quay về."*
 > — Diệp Thanh Y, Cốc Chủ Dược Vương Cốc
 
 ---
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 
 - **Tên Đan Dược:** Hồi Nguyên Đan (回元丹) — "Đan Phục Hồi Nguyên Khí"
 - **Phân Loại:** Linh Đan — Dạng viên tròn
@@ -16,7 +16,7 @@
 
 ---
 
-## II. CÔNG DỤNG & HIỆU QUẢ
+## Ii. Công Dụng & Hiệu Quả
 
 ### Công Dụng Chính
 - **Phục Hồi Đan Điền:** Hồi Nguyên Đan có thể tái tạo đan điền đã bị tổn thương nặng do tẩu hỏa nhập ma (走火入魔), giúp tu sĩ lấy lại khả năng tích trữ linh khí. Tuy nhiên, chỉ có tác dụng với đan điền bị thương chứ không thể phục hồi đan điền đã bị phá hủy hoàn toàn.
@@ -34,7 +34,7 @@
 
 ---
 
-## III. THÀNH PHẦN CHÍNH
+## Iii. Thành Phần Chính
 
 ### A. Chủ Dược (主藥)
 
@@ -79,7 +79,7 @@
 
 ---
 
-## IV. QUY TRÌNH LUYỆN CHẾ
+## Iv. Quy Trình Luyện Chế
 
 ### Yêu Cầu Đan Sư
 - Tu vi tối thiểu: **Kim Đan Trung Kỳ** trở lên.
@@ -125,7 +125,7 @@
 
 ---
 
-## V. TỶ LỆ THÀNH ĐAN
+## V. Tỷ Lệ Thành Đan
 
 - **Đan sư Kim Đan Trung Kỳ (phổ thông):** ~15-20%. Rất dễ thất bại ở Giai đoạn 2 (dung hợp Tuyết Liên Hoa).
 - **Đan sư Kim Đan Hậu Kỳ (tay nghề cao):** ~30%. Đây là tỷ lệ chuẩn.
@@ -137,7 +137,7 @@
 
 ---
 
-## VI. CÁCH SỬ DỤNG
+## Vi. Cách Sử Dụng
 
 1. **Uống trực tiếp:** Nuốt trọn viên đan, lập tức bế quan tĩnh tọa, vận công dẫn dược lực theo **Nhâm Mạch** xuống đan điền, rồi theo **Đốc Mạch** lan tỏa ra toàn bộ kinh mạch.
 2. **Hỗ trợ bên ngoài:** Cần có một người tu vi cao hơn bệnh nhân ít nhất 1 đại cảnh giới ngồi bên cạnh hộ pháp, dùng linh lực bổ trợ khi dược lực gặp đoạn kinh mạch bế tắc nghiêm trọng.
@@ -145,7 +145,7 @@
 
 ---
 
-## VII. TÁC DỤNG PHỤ
+## Vii. Tác Dụng Phụ
 
 - **Đau Đớn Dữ Dội:** Quá trình tái tạo kinh mạch gây ra đau đớn tựa như bị hàng nghìn mũi kim đâm xuyên toàn thân. Tu sĩ ý chí yếu có thể bất tỉnh hoặc phát cuồng.
 - **Suy Kiệt Tạm Thời:** Sau khi uống đan, tu sĩ sẽ rơi vào trạng thái cực kỳ hư nhược trong 3-7 ngày, không thể sử dụng bất kỳ linh lực nào.
@@ -153,7 +153,7 @@
 
 ---
 
-## VIII. CẤM KỴ & LƯU Ý
+## Viii. Cấm Kỵ & Lưu Ý
 
 ### Cấm Kỵ Tuyệt Đối
 - **Cấm dùng khi đan điền đã bị phá hủy hoàn toàn:** Dược lực không có nơi tụ lại sẽ chạy loạn trong cơ thể, gây bạo thể nhi vong (nổ tung mà chết).
@@ -168,7 +168,7 @@
 
 ---
 
-## IX. GIÁ TRỊ & KHAN HIẾM
+## Ix. Giá Trị & Khan Hiếm
 
 - **Giá thị trường:** Một viên Hồi Nguyên Đan trung phẩm có giá tương đương **5000 viên Hạ Phẩm Linh Thạch** hoặc 50 viên Trung Phẩm Linh Thạch. Thượng phẩm thì vô giá, không ai bán.
 - **Nguồn cung:** Dược Vương Cốc mỗi năm chỉ luyện được 2-3 viên (do khan hiếm Tam Sinh Huyết Lệ). Đan Hà Cốc luyện biến thể, chất lượng tương đương hạ phẩm, mỗi năm 5-6 viên.
@@ -176,7 +176,7 @@
 
 ---
 
-## X. GIAI THOẠI
+## X. Giai Thoại
 
 - Tương truyền Diệp Thanh Y từng dùng Hồi Nguyên Đan 9 vân cứu một vị trưởng lão Cửu Hoa Kiếm Tông bị tẩu hỏa nhập ma sau khi đột phá Nguyên Anh thất bại. Vị trưởng lão đó không chỉ phục hồi hoàn toàn mà tu vi còn tinh tiến thêm một bậc nhờ kinh mạch được tái tạo thuần khiết hơn trước.
 - Vạn Độc Môn từng cố gắng nghiên cứu biến thể Hồi Nguyên Đan pha thêm Vạn Độc Châu, tạo ra thứ gọi là "Độc Hồi Đan" — có thể phục hồi kinh mạch đồng thời cấy độc vào cơ thể nạn nhân. Tuy nhiên, chưa ai xác nhận được chúng đã thành công hay chưa.

@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Sở_Lăng_Sương.md
 ---
 
-# SỞ LĂNG SƯƠNG (SO LANG SUONG)
+# Sở Lăng Sương (So Lang Suong)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong hang động băng hoặc rừng tuyết.
@@ -20,7 +20,7 @@ Trong hang động băng hoặc rừng tuyết.
 -   Tông màu chủ đạo: Trắng (White), Xanh nhạt (Pale Blue).
 -   Cảm giác: Tinh khiết (Pure), Kiên cường (Strong-willed), Lạnh (Cold).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (nano banana style),
@@ -32,5 +32,5 @@ clean lines, ethereal, sharp focus.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, dark, evil, messy, torn clothes, sexy.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Khác với Diệp Tĩnh Sương (quý phái, hoa mai), Sở Lăng Sương mang vẻ đẹp giản dị, mộc mạc hơn nhưng vẫn rất "Tiên".

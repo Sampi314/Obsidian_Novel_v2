@@ -1,11 +1,11 @@
-# TANG LỄ TU SĨ (修士葬禮)
+# Tang Lễ Tu Sĩ (修士葬禮)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Tên Gọi:** Tang Lễ Tu Sĩ / Quy Đạo Lễ (歸道禮 — Nghi lễ Quy về Đại Đạo).
 - **Phạm Vi:** Áp dụng trong toàn bộ giới tu tiên Cố Nguyên Giới, có biến thể theo từng tông môn và chủng tộc.
 - **Triết Lý Cốt Lõi:** *"Đạo sinh, Đạo tử, quy vu Đại Đạo"* (sinh từ Đạo, tử về Đạo). Tu sĩ tin rằng cái chết không phải kết thúc mà là sự trở về với Thiên Đạo — nguồn cội của vạn vật.
 
-## II. QUAN NIỆM VỀ CÁI CHẾT TRONG GIỚI TU TIÊN
+## Ii. Quan Niệm Về Cái Chết Trong Giới Tu Tiên
 
 - Tu sĩ gọi cái chết bằng nhiều cách nói trang trọng:
   - **Tọa Hóa** (坐化): Chết trong tư thế ngồi thiền, an nhiên viên tịch — cách chết cao quý nhất.
@@ -14,7 +14,7 @@
   - **Ma Hóa** (魔化): Chết vì Tâm Ma xâm nhập — cách chết ô nhục nhất, linh hồn bị vấy bẩn.
 - Cách một tu sĩ chết quyết định hình thức tang lễ và sự tôn kính mà họ nhận được.
 
-## III. PHÂN LOẠI THEO CẢNH GIỚI
+## Iii. Phân Loại Theo Cảnh Giới
 
 ### Tầng 1: Luyện Khí — Trúc Cơ (Tu sĩ cấp thấp)
 
@@ -55,7 +55,7 @@
 
 - **Đặc biệt:** Khi tu sĩ đạt cảnh giới Luyện Hư trở lên tọa hóa, nhục thể có thể không tiêu rã mà hóa thành *"Nhục Thân Xá Lợi"* — một dạng kết tinh linh lực vĩnh cửu, trở thành bảo vật trấn phái.
 
-## IV. ĐẶC TRƯNG THEO THẾ LỰC
+## Iv. Đặc Trưng Theo Thế Lực
 
 ### 1. Huyền Băng Cung — Băng Táng (冰葬)
 
@@ -121,7 +121,7 @@
   - **Tông Chủ/Cung Chủ mất:** Toàn tông môn phục tang 100 ngày, hạ cờ hiệu, cấm tổ chức lễ hội.
   - **Đại Năng qua đời:** Cả vùng (Đông Hoang, Bắc Băng...) có thể để tang 3 ngày.
 
-## VI. CẤM KỴ ĐẠI KỴ
+## Vi. Cấm Kỵ Đại Kỵ
 
 1. **Nghiêm cấm xúc phạm vong linh:** Không được nói lời bất kính về người đã khuất tại tang lễ. Kẻ vi phạm sẽ bị Thiên Đạo giáng phạt — nhẹ thì tâm ma xâm nhập, nặng thì tu vi tụt giảm.
 2. **Cấm dùng Ma Pháp trên xác tu sĩ:** Sử dụng tà thuật, Ma Pháp, hoặc bất kỳ hình thức nào để thao túng, khống chế thi thể tu sĩ (biến thành Thi Nhân, Luyện Thi Đan, v.v.) là hành vi bị toàn bộ giới tu tiên nguyền rủa. Kẻ phạm phải sẽ bị truy sát bởi cả chính đạo lẫn phần lớn tà đạo.
@@ -129,7 +129,7 @@
 4. **Cấm giữ Nguyên Anh:** Bắt giữ hoặc giam cầm Nguyên Anh ly thể của tu sĩ đã chết để uy hiếp, tra khảo, hoặc luyện tà thuật là tội ác tày trời, ngang với việc giam giữ linh hồn.
 5. **Cấm tang lễ cho Ma Tu sa ngã:** Tu sĩ bị Ma Hóa (chết vì Tâm Ma) sẽ không được tổ chức tang lễ chính thức. Thi thể phải được tịnh hóa bằng lửa thiên lôi để ngăn ma khí lan tỏa. Linh bài không được đặt trong Linh Đường.
 
-## VII. CÁC TRƯỜNG HỢP ĐẶC BIỆT
+## Vii. Các Trường Hợp Đặc Biệt
 
 ### 1. Tu sĩ chết không toàn thây
 - Nếu nhục thể bị hủy hoại hoàn toàn (bị thiêu sống, nổ Kim Đan, v.v.), tang lễ sẽ tiến hành dạng *"Y Quan Trủng"* (衣冠冢) — chôn cất y phục và pháp bảo thay cho nhục thể.
@@ -143,7 +143,7 @@
 ### 4. Chết vì Thiên Kiếp
 - Tu sĩ chết khi vượt Thiên Kiếp (bị sét kiếp đánh tan) được coi là *"Thiên Đạo Thu Hồn"* — Thiên Đạo tự mình đòi lại. Trường hợp này không tổ chức tang lễ bi thương mà tổ chức *"Tán Đạo Hội"* — một buổi luận đạo để tưởng nhớ, vì cái chết dưới Thiên Kiếp là vinh quang (dám thách thức Thiên Đạo, dù thất bại).
 
-## VIII. TRIẾT LÝ & CÂU NÓI
+## Viii. Triết Lý & Câu Nói
 
 > *"Đạo sinh, Đạo tử, quy vu Đại Đạo. Sinh tử bất quá thị nhất trường tu hành."*
 > (Sinh từ Đạo, chết về Đạo. Sinh tử chẳng qua là một cuộc tu hành.)

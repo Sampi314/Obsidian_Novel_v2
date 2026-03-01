@@ -2,9 +2,9 @@
 source: Đạo/Luyện_Khí/Huyết_Độc_Phiến.md
 ---
 
-# HUYẾT ĐỘC PHIẾN (BLOOD POISON FAN)
+# Huyết Độc Phiến (Blood Poison Fan)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Mở ra trên tay hoặc bay lơ lửng.
@@ -21,7 +21,7 @@ Mở ra trên tay hoặc bay lơ lửng.
 -   Tông màu chủ đạo: Trắng xương (Bone White), Đỏ huyết (Blood Red), Tím (Purple).
 -   Cảm giác: Sắc bén (Sharp), Độc địa (Venomous), Nghệ thuật (Artistic but deadly).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (object focus),
@@ -33,5 +33,5 @@ intricate bone carving details.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, wooden fan, paper fan, happy, bright flowers.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Vẻ đẹp ma mị, vừa là vũ khí vừa là tác phẩm nghệ thuật tà đạo.

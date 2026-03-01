@@ -1,9 +1,9 @@
-# HỆ THỐNG CẢNH GIỚI TU LUYỆN (CƠ BẢN)
+# Hệ Thống Cảnh Giới Tu Luyện (Cơ Bản)
 
-## TỔNG QUAN
+## Tổng Quan
 Hệ thống tu luyện của Cố Nguyên Giới chia thành 9 đại cảnh giới chính, từ phàm nhân bước lên tiên đạo. Mỗi cảnh giới là một lần lột xác, nghịch thiên cải mệnh.
 
-## CHI TIẾT CẢNH GIỚI
+## Chi Tiết Cảnh Giới
 
 ### 1. Luyện Khí Kỳ (煉氣期)
 - **Các Giai Đoạn:** Tầng 1 đến Tầng 13 (Đại Viên Mãn).

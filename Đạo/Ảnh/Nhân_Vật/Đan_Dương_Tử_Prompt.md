@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Đan_Dương_Tử.md
 ---
 
-# ĐAN DƯƠNG TỬ (DAN DUONG TU)
+# Đan Dương Tử (Dan Duong Tu)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong phòng luyện đan với lò đan khổng lồ hoặc biển lửa.
@@ -20,7 +20,7 @@ Trong phòng luyện đan với lò đan khổng lồ hoặc biển lửa.
 -   Tông màu chủ đạo: Đỏ (Red), Cam (Orange), Vàng (Gold).
 -   Cảm giác: Nóng (Hot), Mạnh mẽ (Powerful), Bùng nổ (Explosive).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),
@@ -33,6 +33,6 @@ warm colors, volumetric fire effects.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, water, ice, cold, blue.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Tập trung vào hiệu ứng lửa và lò luyện đan.
 -   Tạo cảm giác nhiệt độ cao qua màu sắc.

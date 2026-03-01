@@ -2,9 +2,9 @@
 source: Đạo/Thế_Giới_Và_Thời_Gian/Tây_Mạc.md
 ---
 
-# TÂY MẠC (WESTERN DESERT)
+# Tây Mạc (Western Desert)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Sa mạc mênh mông bát ngát, cồn cát nối tiếp nhau đến tận chân trời.
@@ -20,7 +20,7 @@ Sa mạc mênh mông bát ngát, cồn cát nối tiếp nhau đến tận chân
 -   Tông màu chủ đạo: Vàng (Gold), Cam (Orange), Xanh trời (Sky Blue).
 -   Cảm giác: Rộng lớn (Vast), Cô quạnh (Lonely), Khắc nghiệt (Harsh).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),
@@ -33,5 +33,5 @@ epic scale, sense of isolation.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, trees, grass, water, city, rain, clouds.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Tập trung vào sự bao la và cô độc của sa mạc.

@@ -1,6 +1,6 @@
 ---
-title: "Chương 87: Hành Trình Mới"
-description: "Diệp Tĩnh Sương, Lâm Phong và Sở Lăng Sương rời Đầm Lầy Tử Thần, tiến về Cửu Hoa Kiếm Tông để điều tra Huyết Sát Minh."
+Tiêu Đề: "Chương 87: Hành Trình Mới"
+Mô Tả: "Diệp Tĩnh Sương, Lâm Phong và Sở Lăng Sương rời Đầm Lầy Tử Thần, tiến về Cửu Hoa Kiếm Tông để điều tra Huyết Sát Minh."
 ---
 <!-- NAVIGATION_START -->
 <div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>

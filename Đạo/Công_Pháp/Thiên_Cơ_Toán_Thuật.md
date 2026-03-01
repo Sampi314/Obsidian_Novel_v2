@@ -1,13 +1,13 @@
-# THIÊN CƠ TOÁN THUẬT (天機算術)
+# Thiên Cơ Toán Thuật (天機算術)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Phẩm Cấp:** Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Nguyên Anh Cảnh).
 - **Thuộc Tính:** Không thuộc tính nguyên tố cụ thể — thuộc về "Đạo Vận" (Vận Mệnh / Nhân Quả).
 - **Nguồn Gốc:** Công pháp thất truyền từ Kỷ Nguyên Thái Cổ, tương truyền do một vị Tiên Nhân vô danh sáng tạo sau khi quán triệt quy luật vận hành của tinh tú và nhân quả vạn vật. Bản gốc được khắc trên chín mươi chín phiến Thiên Cơ Ngọc Giản, phân tán khắp Cố Nguyên Giới. Đến nay chỉ có ba phiến được tìm thấy, đủ để tu luyện đến Tầng 3. Các tầng 4 và 5 chỉ tồn tại trong truyền thuyết.
 - **Đặc Điểm:** Đây không phải công pháp chiến đấu mà là công pháp "tri kiến" — giúp người tu luyện nhìn thấy những điều ẩn giấu: quy luật trận pháp, mệnh số con người, và con đường tối ưu trong mọi tình huống. Cực kỳ hiếm và quý giá, nhưng cũng cực kỳ nguy hiểm khi lạm dụng.
 - **Biệt Danh:** "Thiên Nhãn" (天眼) — Mắt Trời.
 
-## II. CƠ CHẾ HOẠT ĐỘNG
+## Ii. Cơ Chế Hoạt Động
 - **Nguyên Lý:** Lấy thần thức làm cốt lõi, dùng linh lực tinh thuần nuôi dưỡng "Thiên Cơ Thần Mục" (天機神目) — một dạng thần thông đặc biệt mở ra ở vùng ấn đường (giữa hai lông mày). Thiên Cơ Thần Mục không nhìn bằng ánh sáng thông thường mà "tính toán" thông tin từ dòng chảy của linh khí, nhân quả, và quy luật tự nhiên, sau đó chuyển hóa thành hình ảnh và trực giác trong tâm trí người tu luyện.
 - **Đặc Điểm:**
     - Không phát ra sát khí hay dao động linh lực, rất khó bị phát hiện khi thi triển.
@@ -15,7 +15,7 @@
     - Mỗi lần "toán" (tính toán/bói toán) đều tiêu hao thần thức. Thần thức không như linh lực — hồi phục rất chậm và nếu tổn thương quá nặng, có thể không bao giờ phục hồi hoàn toàn.
     - Kết quả dự đoán không phải tuyệt đối. Thiên Đạo vô thường, càng là sự kiện lớn (liên quan đến vận mệnh cường giả hoặc đại kiếp), kết quả càng mơ hồ và nguy hiểm khi cố gắng nhìn xuyên.
 
-## III. CÔNG DỤNG & HIỆU QUẢ
+## Iii. Công Dụng & Hiệu Quả
 - **Lợi Ích Tu Luyện:** Có thể "tính toán" con đường tu luyện tối ưu cho bản thân và người khác — biết khi nào nên đột phá, nên dùng đan dược nào, nên tránh Tâm Ma nào. Điều này giúp tốc độ tu luyện gián tiếp tăng đáng kể.
 - **Khả Năng Hỗ Trợ Chiến Đấu:**
     - Nhìn thấu điểm yếu trong trận pháp và chiêu thức của đối thủ.
@@ -27,7 +27,7 @@
     - **Đọc Mệnh:** Xem sơ lược vận mệnh một người (kiếp nạn sắp tới, quý nhân, tiểu nhân).
     - **Phá Trận:** Tìm ra phá giải cho các trận pháp phức tạp nhanh hơn gấp nhiều lần so với phương pháp thông thường.
 
-## IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 5 tầng)
+## Iv. Các Tầng Tu Luyện & Khẩu Quyết (Phân Chia Thành 5 Tầng)
 
 ### 1. Tầng 1: Sơ Khai Thiên Mục (初開天目)
 - **Mô Tả:** Giai đoạn mở "Thiên Cơ Thần Mục" lần đầu tiên. Người tu luyện phải tọa thiền liên tục bảy bảy bốn mươi chín ngày, tập trung toàn bộ thần thức vào vùng ấn đường. Khi thành công, sẽ cảm nhận được một "con mắt thứ ba" mở ra, nhìn thấy dòng chảy mờ ảo của linh khí xung quanh. Ở tầng này, chỉ có thể nhìn thấy hiện tại, không thể dự đoán tương lai.
@@ -109,7 +109,7 @@
         > Biết mệnh mà nghịch lại mệnh, đó mới là bậc đại dũng.
         > Ta lấy đôi mắt để tế lễ, đổi lấy sự cứu độ cho chúng sinh.
 
-## V. HỆ THỐNG CHIÊU THỨC (3 Chiêu — Năng Lực Bị Động)
+## V. Hệ Thống Chiêu Thức (3 Chiêu — Năng Lực Bị Động)
 
 1.  **Thiên Cơ Thần Toán (天機神算) — "Phép Tính Thần Diệu":**
     - **Loại:** Bị động / Kích hoạt chủ động.
@@ -129,7 +129,7 @@
     - **Yêu Cầu:** Đạt Tầng 3 (Thiên Toán Vô Di).
     - **Hạn Chế:** Chỉ có thể sử dụng tối đa ba lần mỗi tháng. Mỗi lần tiêu hao 30% thần thức và cần nghỉ ngơi ít nhất ba ngày để hồi phục. Câu hỏi càng lớn (liên quan đến vận mệnh thiên hạ), đáp án càng mơ hồ và cái giá càng nặng. Đã có tu sĩ hỏi về đại kiếp và ngay lập tức bị phản phệ, hôn mê ba năm mới tỉnh lại, thần thức tổn thương vĩnh viễn.
 
-## VI. YÊU CẦU & HẠN CHẾ
+## Vi. Yêu Cầu & Hạn Chế
 - **Yêu Cầu Tu Luyện:**
     - Không yêu cầu Linh Căn thuộc tính cụ thể, nhưng bắt buộc phải có thần thức vượt trội — tối thiểu gấp ba lần tu sĩ cùng cảnh giới. Điều này khiến công pháp này cực kỳ kén người, vì thần thức mạnh thường chỉ có ở những ai bẩm sinh thiên phú hoặc đã tu luyện công pháp tăng cường thần thức từ nhỏ.
     - Cần có tư duy logic sắc bén và khả năng suy luận vượt trội. Những người nóng tính, bộc trực, thiếu kiên nhẫn gần như không thể tu luyện.
@@ -142,7 +142,7 @@
     - **Tương sinh:** Kết hợp cực tốt với mọi công pháp chiến đấu — Thiên Cơ Toán Thuật bù đắp điểm yếu chiến thuật, trong khi công pháp chiến đấu bù đắp điểm yếu sát thương. Một kiếm tu sở hữu Thiên Cơ Toán Thuật sẽ trở nên cực kỳ đáng sợ vì biết đánh vào đâu, khi nào.
     - **Tương khắc:** Các công pháp che giấu vận mệnh hoặc đánh lừa Thiên Đạo (như Vạn Độc Chân Kinh ở tầng cao) có thể làm nhiễu kết quả dự đoán, khiến Thiên Cơ Toán Thuật trở nên vô dụng.
 
-## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
+## Vii. Luận Giải & Chú Thích (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
 - **Ý Nghĩa Khẩu Quyết:** Bộ khẩu quyết của Thiên Cơ Toán Thuật là một cuộc đối thoại giữa con người và Thiên Đạo. Từ "tĩnh quan kỳ biến, mạc trắc họa tai" (Tầng 1 — khiêm tốn quan sát) đến "ngô dĩ song mục tế, hoán đắc thương sinh độ" (Tầng 5 — hy sinh bản thân vì chúng sinh), mỗi tầng đều phản ánh mức độ "dám" của người tu luyện khi đối diện với Thiên Đạo. Câu kết "tri mệnh nhi nghịch mệnh, thị vi đại dũng phu" là tuyên ngôn của toàn bộ công pháp: biết rõ cái giá phải trả, nhưng vẫn chọn nghịch lại số mệnh — đó mới là dũng khí thật sự.
 - **Hình Thức Khẩu Quyết:** Thơ Lục Ngôn (6 chữ) xen Thất Ngôn (7 chữ) ở các tầng cao, thể hiện sự chuyển biến từ quan sát đơn giản sang can thiệp phức tạp. Giọng thơ mang tính triết lý sâu sắc, không nóng bỏng như Liệt Diễm Sa Công, không lạnh lẽo như Hàn Sương Kiếm Quyết, mà tĩnh lặng và u uất — như một người biết quá nhiều nhưng không thể nói.

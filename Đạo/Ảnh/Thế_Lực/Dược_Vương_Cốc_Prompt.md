@@ -2,9 +2,9 @@
 source: Đạo/Thế_Lực/Dược_Vương_Cốc.md
 ---
 
-# DƯỢC VƯƠNG CỐC (MEDICINE KING VALLEY)
+# Dược Vương Cốc (Medicine King Valley)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một thung lũng xanh tươi, tràn ngập sức sống và thảo dược.
@@ -20,7 +20,7 @@ Một thung lũng xanh tươi, tràn ngập sức sống và thảo dược.
 -   Tông màu chủ đạo: Xanh lá mạ (Light Green), Nâu gỗ (Wood Brown), Vàng nắng (Sunlight).
 -   Cảm giác: Thư thái (Relaxing), Tươi mới (Fresh), Nhân từ (Benevolent).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),
@@ -34,5 +34,5 @@ healing vibes, paradise.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, war, weapons, armor, dark, fire, desert.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Tạo cảm giác "Đào Nguyên Tiên Cảnh" (thiên đường hạ giới).

@@ -6,13 +6,13 @@
 <!-- NAVIGATION_END -->
 # Chương 48: Tiếng Sáo Vượt Rừng (簫聲越林)
 
-## I. THÔNG TIN CHUNG
+## I. Thông Tin Chung
 - **Người Viết:** Tổng Quản (Jules)
 - **Ngày Viết:** 2026-03-13
 - **Góc Nhìn:** Ngôi thứ ba (Diệp Tĩnh Sương & Lâm Phong)
 - **Bối Cảnh:** [Rừng Huyết Độc](../../Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md) (Sau khi kích hoạt [Vạn Độc Huyết Tế Đại Trận](../../Trận_Pháp/Vạn_Độc_Huyết_Tế_Đại_Trận.md)).
 
-## II. NỘI DUNG CHÍNH
+## Ii. Nội Dung Chính
 
 Tiếng sáo lảnh lót vang lên giữa màn đêm đỏ quạch, như một mũi khoan xuyên phá lớp không khí đặc quánh mùi máu tanh. Nó không hề bị át đi bởi tiếng gió rít gào hay tiếng gầm gừ của lũ quái vật, mà ngược lại, càng lúc càng rõ ràng, dẫn dắt tâm trí người nghe về một hướng nhất định.
 
@@ -90,7 +90,7 @@ Xung quanh nàng, vài chục tu sĩ mặc y phục trắng của Dược Vươn
 
 Lâm Phong thả lỏng cơ bắp đang căng cứng, hít sâu một hơi không khí trong lành. Hắn biết, họ vừa thoát khỏi cửa tử, nhưng cuộc chiến thực sự bây giờ mới bắt đầu.
 
-## III. GHI CHÚ
+## Iii. Ghi Chú
 - **Nhân Vật Mới:** [Lục Tiêu](../../Nhân_Vật/Lục_Tiêu.md) (Chính thức xuất hiện).
 - **Địa Danh Mới:** [Mộc Linh Trận Địa](../../Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md).
 - **Kỹ Năng:** Diệp Lạc Vô Thanh (Kỹ năng của Lục Tiêu).

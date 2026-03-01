@@ -1,8 +1,8 @@
 # Session Log - 2026-03-24
 
 ## 1. Thông tin phiên
-- **Role:** Tổng Quản
-- **Date:** 2026-03-24
+- **Vai Trò:** Tổng Quản
+- **Ngày:** 2026-03-24
 - **Focus:** Viết tiếp Chương 61, mở rộng thế giới (Nấm Độc Lâm) và sinh vật (Nấm Mặt Quỷ).
 
 ## 2. Các thay đổi đã thực hiện
@@ -27,10 +27,10 @@
     - Sử dụng các kỹ năng/vật phẩm đã có: Sa Viêm Tán, Truy Phong Cung, Hàn Sương Kiếm Quyết.
 
 ### e. Hồ sơ
-- **Cập nhật:** `Đạo/HỒ_SƠ_THẾ_GIỚI.md`
+- **Cập nhật:** `Đạo/Hồ_Sơ_Thế_Giới.md`
     - Thêm mục Nấm Độc Lâm, Nấm Mặt Quỷ vào danh sách.
     - Cập nhật danh sách chương truyện mới nhất.
-- **Cập nhật:** `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`
+- **Cập nhật:** `Đạo/Báo_Cáo_Chất_Lượng.md`
     - Log hoạt động phiên làm việc.
 
 ## 3. Ghi chú cho phiên sau

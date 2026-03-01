@@ -1,23 +1,23 @@
-# CỬU CHUYỂN ĐAN HỎA QUYẾT (九轉丹火訣)
+# Cửu Chuyển Đan Hỏa Quyết (九轉丹火訣)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Phẩm Cấp:** Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Hóa Thần Cảnh).
 - **Thuộc Tính:** Hỏa (Chủ đạo), Mộc (Hỗ trợ sinh cơ cho lửa).
 - **Nguồn Gốc:** Công pháp trấn phái của Đan Hà Cốc, do Đan Hà Lão Tổ sáng tạo khi cảm ngộ quy luật sinh diệt của ngọn lửa địa tâm.
 
-## II. CƠ CHẾ HOẠT ĐỘNG
+## Ii. Cơ Chế Hoạt Động
 - **Nguyên Lý:** Lấy cơ thể làm lò luyện, lấy linh khí làm dược liệu, dùng ý chí làm lửa. Mỗi một "chuyển" (vòng tuần hoàn) sẽ tinh lọc tạp chất trong cơ thể và linh hồn, khiến hỏa lực ngày càng tinh thuần.
 - **Đặc Điểm:**
     - Lửa tạo ra không chỉ nóng bỏng mà còn có tính chất "dính" như nhựa đường (Đan Hỏa), khó dập tắt bằng nước thường.
     - Có khả năng hấp thụ hỏa khí từ môi trường để hồi phục nhanh chóng.
     - Đặc biệt hiệu quả trong việc luyện đan, giúp kiểm soát nhiệt độ lò cực kỳ chính xác.
 
-## III. CÔNG DỤNG & HIỆU QUẢ
+## Iii. Công Dụng & Hiệu Quả
 - **Lợi Ích Tu Luyện:** Giúp cơ thể được tôi luyện liên tục qua ngọn lửa, kinh mạch dẻo dai, tạp chất bị đốt cháy hết, khiến tốc độ tu luyện về sau càng nhanh.
 - **Khả Năng Chiến Đấu:** Sát thương hỏa hệ cực mạnh, có khả năng thiêu đốt cả vật chất lẫn linh lực của đối thủ. Khả năng phòng thủ bằng lửa cũng rất đáng gờm.
 - **Hỗ Trợ Khác:** Đây là công pháp tối thượng cho Luyện Đan Sư. Việc kiểm soát lửa (Khống Hỏa) đạt đến độ tinh diệu giúp tăng tỷ lệ thành đan và phẩm chất đan dược lên rất nhiều.
 
-## IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 9 tầng)
+## Iv. Các Tầng Tu Luyện & Khẩu Quyết (Phân Chia Thành 9 Tầng)
 
 ### 1. Tầng 1: Dẫn Hỏa Nhập Thể (引火入體)
 - **Mô Tả:** Giai đoạn đầu tiên, người tu luyện hấp thụ hỏa linh khí từ môi trường vào cơ thể, tôi luyện kinh mạch sơ bộ để chịu đựng nhiệt độ cao.
@@ -163,7 +163,7 @@
         > Khi đan hỏa tắt đi (ẩn vào trong), vạn vật sinh sôi nảy nở.
         > Tâm này chính là đạo, ánh sáng tồn tại vĩnh hằng.
 
-## V. HỆ THỐNG CHIÊU THỨC (5 Chiêu)
+## V. Hệ Thống Chiêu Thức (5 Chiêu)
 
 1.  **Cửu Chuyển Hỏa Đỉnh (九轉火鼎):**
     - **Mô Tả:** Ngưng tụ hỏa linh khí thành hình một chiếc đỉnh (vạc) khổng lồ bao quanh cơ thể để phòng thủ, hoặc nhốt đối thủ vào bên trong để thiêu đốt. Lớp vỏ đỉnh kiên cố, có thể chịu được công kích mạnh mẽ từ bên ngoài.
@@ -190,12 +190,12 @@
     - **Yêu Cầu:** Đạt Tầng 8 (Thần Hồn Niết Bàn).
     - **Uy Lực Tăng Tiến:** Khi đạt Tầng 9, tia nhiệt năng không còn màu sắc (Vô Hình Hỏa), tấn công không tiếng động, xuyên thủng không gian.
 
-## VI. YÊU CẦU & HẠN CHẾ
+## Vi. Yêu Cầu & Hạn Chế
 - **Công Hiệu Đặc Biệt:** Giúp cơ thể kháng lửa cực tốt, luyện đan xác suất thành công tăng cao.
 - **Tác Dụng Phụ:** Nếu không kiểm soát tốt "tâm hỏa" (sự nóng nảy, dục vọng), dễ bị tẩu hỏa nhập ma, tự thiêu đốt bản thân thành tro bụi.
 - **Yêu Cầu Tu Luyện:** Người tu luyện cần có Hỏa Linh Căn cực phẩm (hoặc Thiên Linh Căn hệ Hỏa). Quá trình tu luyện vô cùng đau đớn do phải dùng lửa tôi luyện kinh mạch.
 
-## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
+## Vii. Luận Giải & Chú Thích (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
 - **Ý Nghĩa Khẩu Quyết:** Bộ khẩu quyết của Cửu Chuyển Đan Hỏa Quyết mô tả hành trình của một người tu đạo từ lúc sơ khai (Dẫn Hỏa) đến khi đạt đạo (Quy Chân). Con số 9 (Cửu) trong văn hóa phương Đông tượng trưng cho sự cực hạn và hoàn mỹ. Việc "tự thiêu đốt" ở tầng 6 ám chỉ sự hy sinh cái tôi cũ kỹ để tái sinh một bản thể mới tốt đẹp hơn (Niết Bàn).
 - **Hình Thức Khẩu Quyết:** Thơ Tứ Ngôn (4 chữ), thể hiện sự ngắn gọn, súc tích và mạnh mẽ như ngọn lửa.

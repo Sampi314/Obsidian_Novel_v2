@@ -19,13 +19,13 @@ function speakChapter() {
     console.error("speechSynthesis.speaking");
     return;
   }
-  // Clone body to remove navigation before reading
-  var content = document.body.cloneNode(true);
-  var nav = content.querySelector("#chapter-navigation");
+  // Clone body to Gỡ Bỏ navigation before reading
+  var Nội Dung = document.body.cloneNode(true);
+  var nav = Nội Dung.querySelector("#Chương-navigation");
   if (nav) {
-    nav.remove();
+    nav.Gỡ Bỏ();
   }
-  var text = content.innerText;
+  var text = Nội Dung.innerText;
   utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = "vi-VN";
   synth.speak(utterance);

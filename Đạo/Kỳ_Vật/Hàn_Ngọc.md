@@ -1,4 +1,4 @@
-# KỲ VẬT: HÀN NGỌC
+# Kỳ Vật: Hàn Ngọc
 
 - **Tên Vật Phẩm/Sinh Vật:** Hàn Ngọc (寒玉).
 - **Phẩm Cấp:** Linh Phẩm Trung Cấp.

@@ -1,4 +1,4 @@
-# Session Log: 2026-03-14 (Chapter 50)
+# Session Log: 2026-03-14 (Chương 50)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Tiếp nối mạch truyện tại Mộc Linh Trận Địa, mô tả cuộc chiến phòng thủ chống lại Huyết Vệ và Huyết Tướng.
@@ -13,14 +13,14 @@
     - Kết thúc chương bằng quyết định chia nhóm để phá Mắt Trận Phụ.
 
 - **Cập nhật hệ thống:**
-  - `HỒ_SƠ_THẾ_GIỚI.md`: Thêm Chương 50 vào danh sách.
-  - `BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành chương mới.
+  - `Hồ_Sơ_Thế_Giới.md`: Thêm Chương 50 vào danh sách.
+  - `Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành chương mới.
 
 ## 3. Thay Đổi Của Người Dùng
 - Không phát hiện thay đổi trực tiếp (comment/TODO) trong phiên này.
 
 ## 4. Bài Học & Ghi Chú
-- **Action Scene:** Việc mô tả kỹ năng phối hợp giữa các nhân vật giúp trận chiến trở nên sinh động và logic hơn.
+- **Hành Động Scene:** Việc mô tả kỹ năng phối hợp giữa các nhân vật giúp trận chiến trở nên sinh động và logic hơn.
 - **Pacing:** Đẩy cao trào ở giữa chương (giết Huyết Tướng) và hạ nhịp ở cuối chương (đối thoại, lập kế hoạch) tạo đà tốt cho chương sau.
 
 ## 5. Kế Hoạch Tiếp Theo

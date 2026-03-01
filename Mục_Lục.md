@@ -2,20 +2,20 @@
 
 Chào mừng đến với trang mục lục tổng hợp của thế giới Tiên Hiệp 'Cố Nguyên'.
 
-## 📖 Cốt Truyện (Story)
+## 📖 Cốt Truyện (Câu Truyện)
 
 Các chương truyện được phân loại theo góc nhìn nhân vật:
 
-- [Góc Nhìn Chính](Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md)
-- [Góc Nhìn Diệp Tĩnh Sương](Đạo/Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/MỤC_LỤC.md)
-- [Góc Nhìn Lâm Phong](Đạo/Chương_Truyện/Góc_Nhìn_Lâm_Phong/MỤC_LỤC.md)
-- [Góc Nhìn Lệ Vô Tâm](Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/MỤC_LỤC.md)
+- [Góc Nhìn Chính](Đạo/Chương_Truyện/Góc_Nhìn_Chính/Mục_Lục.md)
+- [Góc Nhìn Diệp Tĩnh Sương](Đạo/Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Mục_Lục.md)
+- [Góc Nhìn Lâm Phong](Đạo/Chương_Truyện/Góc_Nhìn_Lâm_Phong/Mục_Lục.md)
+- [Góc Nhìn Lệ Vô Tâm](Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Mục_Lục.md)
 
 ## 📚 Tra Cứu (Wiki)
 
 Thông tin chi tiết về thế giới, nhân vật và hệ thống tu luyện:
 
-- [Hồ Sơ Thế Giới (World Profile)](Đạo/HỒ_SƠ_THẾ_GIỚI.md)
+- [Hồ Sơ Thế Giới (World Profile)](Đạo/Hồ_Sơ_Thế_Giới.md)
 - [Nhân Vật (Characters)](Đạo/Nhân_Vật/)
 - [Công Pháp (Techniques)](Đạo/Công_Pháp/)
 - [Thế Lực (Factions)](Đạo/Thế_Lực/)

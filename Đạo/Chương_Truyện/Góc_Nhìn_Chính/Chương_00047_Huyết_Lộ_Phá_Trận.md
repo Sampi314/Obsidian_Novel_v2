@@ -6,13 +6,13 @@
 <!-- NAVIGATION_END -->
 # Chương 47: Huyết Lộ Phá Trận (血路破陣)
 
-## I. THÔNG TIN CHUNG
+## I. Thông Tin Chung
 - **Người Viết:** Tổng Quản (Jules)
 - **Ngày Viết:** 2026-03-12
 - **Góc Nhìn:** Ngôi thứ ba (Diệp Tĩnh Sương & Lâm Phong)
 - **Bối Cảnh:** Rừng Huyết Độc (Nam Cương) - Trận chiến với Huyết Tướng tại Mắt Trận Phụ.
 
-## II. NỘI DUNG CHÍNH
+## Ii. Nội Dung Chính
 
 "Grào!"
 
@@ -94,7 +94,7 @@ Diệp Tĩnh Sương và Lâm Phong nhìn nhau.
 
 Ba bóng người nhanh chóng biến mất vào màn đêm, để lại sau lưng xác con Huyết Tướng và đống đổ nát của một góc trận pháp tà ác.
 
-## III. GHI CHÚ
+## Iii. Ghi Chú
 - **Nhân Vật Mới:** Không.
 - **Kỳ Vật/Công Pháp:** Huyết Tướng (Đã diệt), Mộc Sinh Hỏa (Kỹ thuật mới của Lâm Phong), Tinh Linh Chi Âm (Manh mối mới).
 - **Tiến Độ:** Phá hủy 1 Mắt Trận phụ, đánh bại Huyết Tướng, nhận được tín hiệu từ Tinh Linh Tộc.

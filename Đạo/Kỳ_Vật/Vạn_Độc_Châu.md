@@ -1,4 +1,4 @@
-# KỲ VẬT: VẠN ĐỘC CHÂU
+# Kỳ Vật: Vạn Độc Châu
 
 - **Tên Vật Phẩm/Sinh Vật:** Vạn Độc Châu (万毒珠).
 - **Phẩm Cấp:** Thiên Cấp Hạ Phẩm (Có thể thăng cấp nếu hấp thụ đủ kỳ độc).

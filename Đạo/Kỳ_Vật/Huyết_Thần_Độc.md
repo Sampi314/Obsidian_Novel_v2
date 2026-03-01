@@ -1,13 +1,13 @@
-# KỲ VẬT: HUYẾT THẦN ĐỘC (血神毒)
+# Kỳ Vật: Huyết Thần Độc (血神毒)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Tên Gọi:** Huyết Thần Độc (Blood God Poison).
 - **Phẩm Cấp:** Cấm Kỵ Cổ Độc (Tương đương Thiên Cấp Hạ Phẩm).
 - **Hệ:** Độc (Poison) / Huyết (Blood) / Mộc (Wood - Biến dị).
 - **Nguồn Gốc:** Được Độc Cô Lão Quái (Vạn Độc Môn) luyện chế từ rễ phụ bị ô nhiễm của Thần Mộc kết hợp với máu của 99 loại độc thú.
 - **Trạng Thái:** Chất lỏng màu đỏ sẫm như máu, đặc quánh, tỏa ra mùi hương ngọt ngào gây ảo giác.
 
-## II. ĐẶC ĐIỂM & TÁC DỤNG
+## Ii. Đặc Điểm & Tác Dụng
 ### 1. Đối Với Phàm Nhân & Sinh Vật Thường
 - **Biến Đổi:** Khi nhiễm độc, mạch máu sẽ phồng lên thành màu đỏ tím, cơ thể mất đi cảm giác đau đớn. Sau 3 canh giờ, trí tuệ bị xóa sạch, trở thành [Huyết Thi](../Kỳ_Vật/Huyết_Thi.md) chỉ biết tấn công theo bản năng hoặc theo lệnh của người điều khiển Cổ.
 - **Lây Lan:** Huyết Thi cắn người khác sẽ truyền độc, tạo thành chuỗi lây lan cực nhanh.
@@ -21,14 +21,14 @@
 ### 3. Đối Với Thực Vật
 - Cây cối nhiễm độc sẽ chuyển sang màu đỏ, lá rụng hết, thân cây mọc ra gai nhọn và rễ cây trở nên khát máu, tấn công sinh vật sống đi ngang qua.
 
-## III. CÁCH CHẾ TẠO (CẤM THUẬT)
+## Iii. Cách Chế Tạo (Cấm Thuật)
 > *Lưu ý: Đây là cấm thuật tàn khốc, trái với Thiên Đạo.*
 
 1.  **Nguyên Liệu Chính:** Rễ phụ của Cây Thế Giới (hoặc linh mộc ngàn năm) đã bị ngâm trong Huyết Trì 49 ngày.
 2.  **Dẫn Thuốc:** Máu tim của 999 sinh vật sống (người hoặc thú) chết trong sự sợ hãi.
 3.  **Luyện Chế:** Dùng *Vạn Độc Chân Hỏa* nung nấu trong vạc xương người suốt 81 ngày, liên tục thêm vào các loại độc dược chí âm chí hàn.
 
-## IV. CÁCH GIẢI & KHẮC CHẾ
+## Iv. Cách Giải & Khắc Chế
 - **Khắc Tinh:**
     -   Lửa (Hỏa hệ): Đặc biệt là các loại dị hỏa như *Cửu Thiên Tinh Hỏa* hay *Tam Muội Chân Hỏa*.
     -   Ánh Sáng (Quang hệ): Ánh sáng mặt trời gay gắt hoặc công pháp Phật môn.
@@ -37,7 +37,7 @@
     -   *Nguyệt Linh Trường Sinh Quyết* (Tinh Linh Tộc): Dùng ánh trăng để tịnh hóa, hiệu quả cao nhất.
     -   *Máu của Tinh Linh Hoàng Gia:* Được cho là có khả năng khắc chế gốc rễ của Huyết Thần Độc.
 
-## V. GIAI THOẠI
+## V. Giai Thoại
 > *"Khi dòng sông chuyển đỏ và cây cối khóc ra máu, Huyết Thần sẽ giáng lâm."*
 > — Lời sấm truyền cổ xưa của Tộc Vu Sư Nam Cương, nay bị Vạn Độc Môn lợi dụng.
 

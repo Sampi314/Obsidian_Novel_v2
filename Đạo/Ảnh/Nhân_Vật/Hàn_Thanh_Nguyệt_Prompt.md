@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Hàn_Thanh_Nguyệt.md
 ---
 
-# HÀN THANH NGUYỆT (HAN THANH NGUYET)
+# Hàn Thanh Nguyệt (Han Thanh Nguyet)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong một con hẻm tối hoặc trên mái nhà dưới ánh trăng khuyết. Không gian u tối, bí ẩn.
@@ -20,7 +20,7 @@ Trong một con hẻm tối hoặc trên mái nhà dưới ánh trăng khuyết.
 -   Tông màu chủ đạo: Đen (Black), Xanh đêm (Midnight Blue), Bạc (Silver Moonlight).
 -   Cảm giác: Bí ẩn (Mysterious), Nguy hiểm (Dangerous), Sắc bén.
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),
@@ -32,6 +32,6 @@ cool colors, dynamic pose, ready to strike.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bright colors, luxury clothes, noble, magical girl.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Thể hiện được sự "bụi bặm" và "từng trải" dù còn trẻ.
 -   Ánh sáng nên tập trung vào lưỡi kiếm và đôi mắt.

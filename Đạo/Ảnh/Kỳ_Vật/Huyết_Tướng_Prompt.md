@@ -2,9 +2,9 @@
 source: Đạo/Kỳ_Vật/Huyết_Tướng.md
 ---
 
-# HUYẾT TƯỚNG (BLOOD GENERAL)
+# Huyết Tướng (Blood General)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Chiến trường hoặc hang động lớn.
@@ -20,7 +20,7 @@ Chiến trường hoặc hang động lớn.
 -   Tông màu chủ đạo: Đỏ thẫm (Crimson), Đen (Black), Cam lửa (Fire Orange).
 -   Cảm giác: Mạnh mẽ (Powerful), Áp đảo (Overwhelming), Tàn ác (Brutal).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (concept art),
@@ -32,5 +32,5 @@ intense lighting, fearsome, boss monster vibe.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, small, weak, cute, bright colors.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Nhấn mạnh vào kích thước và lớp giáp tự nhiên của nó.

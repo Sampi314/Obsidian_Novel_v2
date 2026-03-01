@@ -2,9 +2,9 @@
 source: Đạo/Thế_Lực/Vạn_Độc_Môn.md
 ---
 
-# VẠN ĐỘC MÔN (TEN THOUSAND POISONS SECT)
+# Vạn Độc Môn (Ten Thousand Poisons Sect)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một thung lũng âm u, đầy chướng khí và côn trùng độc.
@@ -20,7 +20,7 @@ Một thung lũng âm u, đầy chướng khí và côn trùng độc.
 -   Tông màu chủ đạo: Tím (Purple), Xanh lục neon (Toxic Green), Đen (Black).
 -   Cảm giác: Nguy hiểm (Toxic), Ghê rợn (Creepy), Bí ẩn (Occult).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),
@@ -34,5 +34,5 @@ horror atmosphere, ominous lighting, scary.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bright, holy, clean, peaceful, blue sky.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Sử dụng màu xanh lục và tím để tạo cảm giác "có độc".

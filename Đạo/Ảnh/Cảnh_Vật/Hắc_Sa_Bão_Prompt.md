@@ -2,9 +2,9 @@
 source: Đạo/Thế_Giới_Và_Thời_Gian/Hắc_Sa_Bão.md
 ---
 
-# HẮC SA BÃO (BLACK SANDSTORM)
+# Hắc Sa Bão (Black Sandstorm)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Giữa sa mạc mênh mông, một cơn bão cát đen kịt đang ập tới.
@@ -20,7 +20,7 @@ Giữa sa mạc mênh mông, một cơn bão cát đen kịt đang ập tới.
 -   Tông màu chủ đạo: Đen (Black), Xám đậm (Dark Grey), Nâu (Brown).
 -   Cảm giác: Hủy diệt (Destructive), Tuyệt vọng (Despair), Hùng vĩ (Overwhelming).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (realistic),
@@ -33,6 +33,6 @@ high contrast, terrifying nature power.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, blue sky, calm, sunny, peaceful, rain.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Nhấn mạnh vào quy mô khổng lồ của cơn bão.
 -   Màu cát phải là màu đen/xám đen chứ không phải vàng.

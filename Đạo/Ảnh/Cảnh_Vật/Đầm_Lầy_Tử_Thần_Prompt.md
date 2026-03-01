@@ -2,9 +2,9 @@
 source: Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md
 ---
 
-# ĐẦM LẦY TỬ THẦN (DEATH SWAMP)
+# Đầm Lầy Tử Thần (Death Swamp)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Vùng đầm lầy chết chóc, cây cối mục nát.
@@ -20,7 +20,7 @@ Vùng đầm lầy chết chóc, cây cối mục nát.
 -   Tông màu chủ đạo: Xám (Grey), Đen (Black), Xanh rêu (Moss Green).
 -   Cảm giác: Chết chóc (Deadly), U ám (Gloomy), Ẩm ướt (Damp).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),
@@ -32,5 +32,5 @@ horror theme, gloomy lighting, cinematic.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, sunlight, bright colors, flowers, happy, dry.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Khác với Rừng Huyết Độc (đỏ/đen), Đầm Lầy Tử Thần thiên về tông màu xám/xanh rêu của sự mục rữa.

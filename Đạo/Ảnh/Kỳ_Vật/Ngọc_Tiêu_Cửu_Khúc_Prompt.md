@@ -2,9 +2,9 @@
 source: Đạo/Luyện_Khí/Ngọc_Tiêu_Cửu_Khúc.md
 ---
 
-# NGỌC TIÊU CỬU KHÚC (NINE MELODIES JADE FLUTE)
+# Ngọc Tiêu Cửu Khúc (Nine Melodies Jade Flute)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Cầm trên tay hoặc đặt bên cạnh hoa.
@@ -20,7 +20,7 @@ Cầm trên tay hoặc đặt bên cạnh hoa.
 -   Tông màu chủ đạo: Xanh lục (Green), Vàng (Gold tassels).
 -   Cảm giác: Thanh tao (Elegant), Nghệ thuật (Artistic), Cổ điển (Classic).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (object focus),
@@ -32,5 +32,5 @@ peaceful, elegant instrument.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, broken, dirty, metal, weapon.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Vẻ đẹp đến từ sự đơn giản và chất liệu ngọc quý.

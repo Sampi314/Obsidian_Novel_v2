@@ -2,9 +2,9 @@
 source: Đạo/Luyện_Khí/Hàn_Ngọc_Kiếm.md
 ---
 
-# HÀN NGỌC KIẾM (COLD JADE SWORD)
+# Hàn Ngọc Kiếm (Cold Jade Sword)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Cắm trên băng hoặc cầm trên tay.
@@ -20,7 +20,7 @@ Cắm trên băng hoặc cầm trên tay.
 -   Tông màu chủ đạo: Trắng (White), Xanh băng (Ice Blue).
 -   Cảm giác: Sắc bén (Sharp), Lạnh (Cold), Tinh tế (Elegant).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (object focus),
@@ -32,5 +32,5 @@ clean and sharp design.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, fire, rust, blood, heavy broadsword.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Chất liệu phải trông giống ngọc/băng chứ không phải kim loại.

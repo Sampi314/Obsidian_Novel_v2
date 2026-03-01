@@ -2,9 +2,9 @@
 source: Đạo/Đan_Dược/Sa_Viêm_Tán.md
 ---
 
-# SA VIÊM TÁN (SAND FLAME POWDER)
+# Sa Viêm Tán (Sand Flame Powder)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Đựng trong túi da mở miệng hoặc đổ ra tay.
@@ -20,7 +20,7 @@ source: Đạo/Đan_Dược/Sa_Viêm_Tán.md
 -   Tông màu chủ đạo: Đỏ cam (Orange Red), Nâu da (Leather Brown).
 -   Cảm giác: Nóng (Hot), Bụi bặm (Dusty), Thuốc (Medicine).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (macro shot),
@@ -31,5 +31,5 @@ warm lighting, alchemy ingredient, medicine.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, liquid, water, blue, pill, round.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Đây là thuốc dạng bột (tán), không phải dạng viên (đan).

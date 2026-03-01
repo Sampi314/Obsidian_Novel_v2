@@ -2,9 +2,9 @@
 source: Đạo/Kỳ_Vật/Độc_Long_Tích.md
 ---
 
-# ĐỘC LONG TÍCH (POISON DRAGON LIZARD)
+# Độc Long Tích (Poison Dragon Lizard)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Bò trên vách núi đá đen hoặc trong hang động.
@@ -20,7 +20,7 @@ Bò trên vách núi đá đen hoặc trong hang động.
 -   Tông màu chủ đạo: Xám đá (Stone Grey), Tím (Purple veins), Xanh lục (Green poison).
 -   Cảm giác: Cứng cáp (Tanky), Nguy hiểm (Dangerous), Cổ đại (Ancient).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (realistic),
@@ -32,5 +32,5 @@ cinematic lighting, beast.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, wings, flying, fire, cute.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Da của nó phải trông giống đá để ngụy trang.

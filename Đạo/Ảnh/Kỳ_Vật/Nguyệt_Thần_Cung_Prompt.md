@@ -2,9 +2,9 @@
 source: Đạo/Luyện_Khí/Nguyệt_Thần_Cung.md
 ---
 
-# NGUYỆT THẦN CUNG (MOON GOD BOW)
+# Nguyệt Thần Cung (Moon God Bow)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Đang được kéo căng hoặc đặt trên bệ thờ.
@@ -20,7 +20,7 @@ source: Đạo/Luyện_Khí/Nguyệt_Thần_Cung.md
 -   Tông màu chủ đạo: Bạc (Silver), Xanh lam nhạt (Pale Blue), Trắng (White light).
 -   Cảm giác: Nhẹ nhàng (Lightweight), Quyền năng (Powerful), Thánh khiết (Holy).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (object focus),
@@ -31,5 +31,5 @@ intricate elven design, high fantasy, majestic.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, dark, heavy, metal, rusty, blood.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Nhấn mạnh vào ánh sáng và năng lượng của cung.

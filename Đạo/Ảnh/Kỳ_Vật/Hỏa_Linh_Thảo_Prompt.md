@@ -2,9 +2,9 @@
 source: Đạo/Kỳ_Vật/Hỏa_Linh_Thảo.md
 ---
 
-# HỎA LINH THẢO (FIRE SPIRIT HERB)
+# Hỏa Linh Thảo (Fire Spirit Herb)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Mọc trên đá núi lửa đen hoặc gần dung nham.
@@ -20,7 +20,7 @@ Mọc trên đá núi lửa đen hoặc gần dung nham.
 -   Tông màu chủ đạo: Đỏ (Red), Cam (Orange), Đen (Black rock).
 -   Cảm giác: Năng lượng (Energetic), Nóng (Hot), Sức sống (Vitality).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (macro shot),
@@ -32,5 +32,5 @@ warm lighting, fantasy plant.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, water, snow, ice, blue, cold.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Tương phản mạnh giữa màu đỏ của cây và màu đen của đá.

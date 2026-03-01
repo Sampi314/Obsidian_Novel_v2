@@ -2,9 +2,9 @@
 source: Đạo/Kỳ_Vật/Nhện_Mặt_Quỷ.md
 ---
 
-# NHỆN MẶT QUỶ (DEMON FACE SPIDER)
+# Nhện Mặt Quỷ (Demon Face Spider)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Treo trên mạng nhện trong hang động.
@@ -20,7 +20,7 @@ Treo trên mạng nhện trong hang động.
 -   Tông màu chủ đạo: Đen (Black), Trắng (Pale Face pattern), Đỏ (Red eyes).
 -   Cảm giác: Rùng mình (Chilling), Quái dị (Grotesque), Ác mộng (Nightmarish).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (close up),
@@ -31,5 +31,5 @@ horror theme, creepy, nightmare fuel, cinematic lighting.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, cute, cartoon, bright.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Hoa văn mặt người trên lưng là quan trọng nhất.

@@ -2,9 +2,9 @@
 source: Đạo/Kỳ_Vật/Vạn_Độc_Châu.md
 ---
 
-# VẠN ĐỘC CHÂU (TEN THOUSAND POISONS PEARL)
+# Vạn Độc Châu (Ten Thousand Poisons Pearl)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Bay lơ lửng hoặc đặt trên bệ đá.
@@ -20,7 +20,7 @@ Bay lơ lửng hoặc đặt trên bệ đá.
 -   Tông màu chủ đạo: Tím đen (Dark Purple), Xanh lục (Green glow).
 -   Cảm giác: Nguy hiểm (Toxic), Quyền lực (Power), Ma mị (Evil).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (close up),
@@ -32,5 +32,5 @@ cinematic lighting, mystical object.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bright, white, holy, clean.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Thể hiện được "độc khí" tỏa ra từ viên châu.

@@ -1,12 +1,12 @@
-# LIỆT DIỄM SA CÔNG (烈焰沙功)
+# Liệt Diễm Sa Công (烈焰沙功)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Phẩm Cấp:** Huyền Cấp Thượng Phẩm (Có thể tu luyện đến Kim Đan Cảnh).
 - **Thuộc Tính:** Hỏa (Chủ đạo) + Thổ (Phụ trợ).
 - **Nguồn Gốc:** Công pháp cổ truyền của tu sĩ Tây Mạc, tương truyền do Sa Hoàng Thượng Nhân sáng tạo vào cuối Kỷ Nguyên Thái Cổ khi ngộ đạo giữa cơn bão cát nghìn năm có một. Về sau, công pháp này được Thiên Sa Thương Hội thu thập và bảo tồn, trở thành một trong những bí kỹ căn bản của thương hội, chuyên dùng để sinh tồn và chiến đấu trong môi trường sa mạc khắc nghiệt.
 - **Biệt Danh:** "Sa Trung Hỏa Long" (沙中火龍) — Rồng lửa trong cát.
 
-## II. CƠ CHẾ HOẠT ĐỘNG
+## Ii. Cơ Chế Hoạt Động
 - **Nguyên Lý:** Lấy sa mạc làm thiên nhiên đan lò, hấp thu nhiệt năng từ cát nóng và ánh dương quang, dung hợp Hỏa linh khí và Thổ linh khí trong cơ thể, ngưng luyện thành một dạng chân khí đặc thù gọi là "Viêm Sa Chân Khí" (炎沙真氣). Chân khí này mang tính chất kép: vừa có sức nóng thiêu đốt của lửa, vừa có độ nặng và tính xâm thực của cát.
 - **Đặc Điểm:**
     - Chân khí có dạng hạt mịn như cát, khi phóng ra ngoài tạo thành những dòng cát nóng đỏ rực, có thể mài mòn và thiêu hủy đồng thời.
@@ -14,14 +14,14 @@
     - Khi vận công, da người tu luyện ánh lên sắc đỏ đồng, bề mặt phủ một lớp "Sa Giáp" vô hình có tác dụng phòng thủ vật lý.
     - Viêm Sa Chân Khí khi xâm nhập cơ thể đối phương sẽ bám dính vào kinh mạch như cát lún, rất khó tẩy trừ.
 
-## III. CÔNG DỤNG & HIỆU QUẢ
+## Iii. Công Dụng & Hiệu Quả
 - **Lợi Ích Tu Luyện:** Cơ thể được tôi luyện trong nhiệt độ cực cao, da thịt dẻo dai, kinh mạch mở rộng. Người tu luyện có thể chịu đựng khí hậu sa mạc mà không hao tổn thể lực, đồng thời miễn nhiễm với các loại hỏa độc thông thường.
 - **Khả Năng Chiến Đấu:** Kết hợp sát thương hỏa hệ với hiệu ứng mài mòn của thổ hệ, tạo ra kiểu công kích "song sát" — vừa thiêu đốt vừa bào mòn phòng ngự đối thủ. Đặc biệt hiệu quả khi giao chiến trên địa hình sa mạc, nơi cát và nhiệt là nguồn tài nguyên vô tận.
 - **Hỗ Trợ Khác:**
     - **Sinh Tồn Sa Mạc:** Có thể điều khiển cát tạo lều trại, đào giếng tìm nước ngầm (dùng Thổ khí cảm ứng mạch nước), và tạo lớp cách nhiệt bảo vệ đoàn thương nhân khỏi bão cát.
     - **Thương Mại:** Thiên Sa Thương Hội dùng công pháp này để nung luyện Lưu Ly Sa (cát thủy tinh hóa) — một loại nguyên liệu quý hiếm trong luyện khí và luyện đan.
 
-## IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 7 tầng)
+## Iv. Các Tầng Tu Luyện & Khẩu Quyết (Phân Chia Thành 7 Tầng)
 
 ### 1. Tầng 1: Liệt Nhật Dẫn Sa (烈日引沙)
 - **Mô Tả:** Giai đoạn nhập môn. Người tu luyện ngồi thiền giữa sa mạc dưới trời nắng gắt, hấp thu nhiệt năng từ cát nóng qua các huyệt đạo ở lòng bàn chân (Dũng Tuyền) và lưng (Mệnh Môn), bắt đầu hình thành mầm Viêm Sa Chân Khí trong đan điền. Giai đoạn này vô cùng đau đớn vì kinh mạch phải chịu đựng dòng nhiệt khí hỗn tạp.
@@ -135,7 +135,7 @@
         > Cát trở về sa mạc rộng lớn, lửa quay về bản tâm.
         > Một niệm là cứu độ chúng sinh, một niệm là biến thành bụi hoang.
 
-## V. HỆ THỐNG CHIÊU THỨC (5 Chiêu)
+## V. Hệ Thống Chiêu Thức (5 Chiêu)
 
 1.  **Viêm Sa Toàn Kích (炎沙旋擊):**
     - **Mô Tả:** Ngưng tụ Viêm Sa Chân Khí tạo thành một cơn lốc cát nóng đỏ rực, quét về phía đối thủ. Cát nóng mài mòn lớp phòng ngự của địch nhân trong khi nhiệt lượng thiêu đốt da thịt. Chiêu thức cơ bản nhưng cực kỳ thực dụng, phù hợp cho cả tấn công lẫn yểm trợ.
@@ -162,7 +162,7 @@
     - **Yêu Cầu:** Đạt Tầng 6 (Phần Thiên Chử Sa).
     - **Uy Lực Tăng Tiến:** Tầng 6 duy trì trong mười hơi thở; Tầng 7 Sa Hoàng Pháp Tướng có thể duy trì một canh giờ, và mỗi động tác mang ý cảnh "Sa Hỏa Quy Nguyên" — vừa tạo vừa hủy, vừa sinh vừa diệt.
 
-## VI. YÊU CẦU & HẠN CHẾ
+## Vi. Yêu Cầu & Hạn Chế
 - **Yêu Cầu Tu Luyện:**
     - Phải sở hữu Song Linh Căn Hỏa-Thổ (độ tinh thuần tối thiểu 60% mỗi hệ). Đơn hệ Hỏa hoặc đơn hệ Thổ không thể tu luyện vì không dung hợp được Viêm Sa Chân Khí.
     - Giai đoạn đầu (Tầng 1-3) bắt buộc phải tu luyện trong môi trường sa mạc thực sự, nơi có đủ nhiệt năng và thổ khí. Từ Tầng 4 trở lên mới có thể tu luyện ở nơi khác, nhưng tốc độ giảm đáng kể.
@@ -177,7 +177,7 @@
     - **Khắc chế:** Mộc hệ công pháp (lửa đốt cháy gỗ), Kim hệ công pháp (nhiệt nấu chảy kim loại).
     - **Tương sinh với:** Các công pháp lôi hệ (Sấm Sét + Lửa tạo hiệu ứng "Lôi Hỏa Liên Hoàn" cực kỳ đáng sợ).
 
-## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
+## Vii. Luận Giải & Chú Thích (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
 - **Ý Nghĩa Khẩu Quyết:** Bộ khẩu quyết của Liệt Diễm Sa Công kể về hành trình của kẻ mạnh sinh ra từ sa mạc. Từ việc hấp thu nhiệt năng ban sơ (Tầng 1) đến khi đạt cảnh giới "nhất niệm thương sinh, nhất niệm hoang trần" (Tầng 7), mỗi tầng đều phản ánh triết lý sinh tồn của người Tây Mạc: sa mạc không phải nơi chết chóc, mà là lò luyện của kẻ mạnh. Câu kết "nhất niệm thương sinh, nhất niệm hoang trần" ẩn chứa tư tưởng Đạo gia — người đạt đạo có thể tạo lập hoặc hủy diệt, nhưng chọn lựa nào mới là điều quan trọng.
 - **Hình Thức Khẩu Quyết:** Thơ Lục Ngôn (6 chữ), mỗi tầng gồm ba câu, thể hiện sự thô khoáng, mạnh mẽ và bộc trực — đúng với tính cách người sa mạc. Nhịp thơ nặng nề như bước chân trên cát, nóng bỏng như gió sa mạc giữa trưa.

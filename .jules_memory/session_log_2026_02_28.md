@@ -7,7 +7,7 @@
 
 ## 2. CÔNG VIỆC THỰC HIỆN
 - **Khởi tạo Lore:**
-  - Tạo file `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
+  - Tạo Tệp Tin `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
   - Mô tả chi tiết 3 khu vực: Ổ Nhện, Dưỡng Thi Địa, Mạch Ngầm.
   - Cập nhật `Đạo/Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md` để thêm liên kết.
 
@@ -16,8 +16,8 @@
   - Nội dung: Nhóm Diệp Tĩnh Sương thoát khỏi Huyết Thi, đi bè trên sông ngầm độc, chiến đấu với Thủy Xà Biến Dị, và rơi xuống vực thẳm dẫn đến Hoàng Sa Địa Cung.
 
 - **Cập nhật Hệ Thống:**
-  - Cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm chương mới và địa danh mới.
-  - Cập nhật `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi log công việc.
+  - Cập nhật `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm chương mới và địa danh mới.
+  - Cập nhật `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi log công việc.
   - Cập nhật `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi lại tóm tắt các chương từ 20 đến 25.
 
 ## 3. PHÂN TÍCH & BÀI HỌC

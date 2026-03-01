@@ -2,9 +2,9 @@
 source: Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md
 ---
 
-# HANG ĐỘNG NHỆN QUỶ (DEMON SPIDER CAVE)
+# Hang Động Nhện Quỷ (Demon Spider Cave)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một hệ thống hang động đá vôi ẩm thấp nằm sâu trong Rừng Huyết Độc.
@@ -20,7 +20,7 @@ Một hệ thống hang động đá vôi ẩm thấp nằm sâu trong Rừng Hu
 -   Tông màu chủ đạo: Đen (Black), Xám (Grey), Trắng đục (Webs), Đỏ (Red glowing eyes).
 -   Cảm giác: Ngột ngạt (Claustrophobic), Kinh dị (Creepy), Nguy hiểm (Dangerous).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (realistic texture),
@@ -32,6 +32,6 @@ eerie atmosphere, dim lighting, horror theme, cinematic composition.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bright, sunlight, happy, clean, open space.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Tạo cảm giác rùng rợn với những đôi mắt đỏ nhìn từ trong bóng tối.
 -   Mạng nhện phải dày đặc và nhớp nháp.

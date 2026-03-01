@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Độc_Cô_Lão_Quái.md
 ---
 
-# ĐỘC CÔ LÃO QUÁI (DOC CO LAO QUAI)
+# Độc Cô Lão Quái (Doc Co Lao Quai)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong đầm lầy độc hoặc hang động đầy xương cốt.
@@ -20,7 +20,7 @@ Trong đầm lầy độc hoặc hang động đầy xương cốt.
 -   Tông màu chủ đạo: Xanh lục (Poison Green), Tím than (Dark Purple), Đen (Black).
 -   Cảm giác: Kinh dị (Horror), Ghê tởm (Disgusting), Ác độc (Evil).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),
@@ -32,6 +32,6 @@ ominous lighting, terrifying, villain, necromancer vibe.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, handsome, bright, holy, clean, nature.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Tạo cảm giác "Độc" qua màu sắc (xanh neon/tím).
 -   Ngoại hình phải gây cảm giác sợ hãi.

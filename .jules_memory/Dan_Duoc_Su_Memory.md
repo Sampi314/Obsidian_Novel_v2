@@ -9,7 +9,7 @@
 - **Dẫn Thuốc:** Tam Sinh Huyết Lệ (nước mắt pha máu của tu sĩ trải qua 3 lần cận tử) — cực kỳ khan hiếm.
 - **Tỷ Lệ Thành Đan:** ~30% (Đan sư Kim Đan Hậu Kỳ), yêu cầu tu vi tối thiểu Kim Đan Trung Kỳ.
 - **Giá:** ~5000 Hạ Phẩm Linh Thạch/viên (trung phẩm). Thượng phẩm vô giá.
-- **File:** `Đạo/Đan_Dược/Hồi_Nguyên_Đan.md`
+- **Tệp Tin:** `Đạo/Đan_Dược/Hồi_Nguyên_Đan.md`
 
 ### 2. Sa Viêm Tán (沙炎散)
 - **Phẩm Cấp:** Hoàng Cấp Thượng Phẩm
@@ -18,7 +18,7 @@
 - **Xuất Xứ:** Bí phương của Thiên Sa Thương Hội, dùng Sa Chưng Pháp (chôn dưới cát nóng) thay vì lò đan.
 - **Tỷ Lệ Thành Công:** ~70% (dược sư Tây Mạc kinh nghiệm). Dễ hơn luyện đan rất nhiều.
 - **Giá:** ~20-30 Hạ Phẩm Linh Thạch/túi 10 liều. Mặt hàng phổ biến ở Tây Mạc.
-- **File:** `Đạo/Đan_Dược/Sa_Viêm_Tán.md`
+- **Tệp Tin:** `Đạo/Đan_Dược/Sa_Viêm_Tán.md`
 
 ---
 

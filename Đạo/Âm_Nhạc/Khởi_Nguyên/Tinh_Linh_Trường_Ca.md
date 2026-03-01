@@ -2,7 +2,7 @@
 dạng_cấu_trúc: Epic Orchestral - Tự Sự (Narrative)
 ---
 
-# TINH LINH TRƯỜNG CA (精靈長歌)
+# Tinh Linh Trường Ca (精靈長歌)
 
 ### 📍 Cấu Trúc Đã Chọn
 - **Thể loại:** Epic Orchestral, Ethereal, Fantasy Music.
@@ -12,7 +12,7 @@ dạng_cấu_trúc: Epic Orchestral - Tự Sự (Narrative)
 - **Bridge:** Cao trào cảm xúc, tiếng Violin réo rắt mô tả nỗi đau của rừng.
 - **Outro:** Quay lại tiếng sáo đơn độc, kết thúc bằng một nốt ngân dài tan vào hư không.
 
-### I. NGUYÊN VĂN TIẾNG TRUNG (CHINESE LYRICS)
+### I. Nguyên Văn Tiếng Trung (Chinese Lyrics)
 **(Verse 1)**
 萬古青森，今凋零
 神木垂淚，化悲鳴
@@ -47,7 +47,7 @@ dạng_cấu_trúc: Epic Orchestral - Tự Sự (Narrative)
 生如夏花... 死如秋葉...
 願劫來生... 復見青林...
 
-### II. PHIÊN ÂM HÁN VIỆT (SINO-VIETNAMESE LYRICS)
+### Ii. Phiên Âm Hán Việt (Sino-Vietnamese Lyrics)
 **(Verse 1)**
 Vạn cổ thanh sâm, kim điêu linh
 Thần mộc thùy lệ, hóa bi minh
@@ -82,7 +82,7 @@ Thủ hộ tối hậu, nhất phân duyên
 Sinh như hạ hoa... tử như thu diệp...
 Nguyện kiếp lai sinh... phục kiến thanh lâm...
 
-### III. DỊCH SÁT NGHĨA (VIETNAMESE MEANING)
+### Iii. Dịch Sát Nghĩa (Vietnamese Meaning)
 **(Verse 1)**
 Rừng xanh vạn cổ, nay điêu tàn
 Thần mộc rơi lệ, hóa tiếng than bi thương
@@ -117,7 +117,7 @@ Gìn giữ chút duyên phận cuối cùng này
 Sống rực rỡ như hoa mùa hạ... chết lặng lẽ như lá mùa thu...
 Nguyện kiếp sau... lại thấy rừng xanh...
 
-### IV. THÔNG TIN BỔ SUNG
+### Iv. Thông Tin Bổ Sung
 *   **Ý Nghĩa/Thông Điệp:** Bài hát thể hiện nỗi đau mất mát quê hương của tộc Tinh Linh và ý chí hy sinh để bảo vệ mầm sống cuối cùng.
-*   **Suno AI Style Prompt:**
-    > Epic Orchestral, Ethereal, Fantasy Music, Celtic Influence, Bamboo Flute (Xiao), Harp, Strings Section, Taiko Drums (Background), Female Soprano Vocals, Melancholic, Majestic, Hopeful, Determination.
+*   **Suno AI Style Chỉ Lệnh:**
+    > Epic Orchestral, Ethereal, Fantasy Music, Celtic Influence, Bamboo Flute (Xiao), Harp, Strings Section, Taiko Drums (Bối Cảnh), Female Soprano Vocals, Melancholic, Majestic, Hopeful, Determination.

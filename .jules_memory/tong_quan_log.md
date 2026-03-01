@@ -1,7 +1,7 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-03-31 - Phần 2)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết tiếp mạch truyện Arc 2 "Huyết Thủ Thư Sinh" cho Lệ Vô Tâm (Chương 57), tạo các địa danh và trận pháp phục vụ nội dung chương.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
@@ -10,7 +10,7 @@
   - `Đạo/Trận_Pháp/Vạn_Tinh_Tuyệt_Sát_Trận.md`: Cấm trận của Vạn Độc Môn.
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00057_Cái_Bẫy_Liên_Hoàn.md`: Cuộc phục kích của nhóm Triệu Hàn nhắm vào Lệ Vô Tâm.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương mới và các thực thể mới tạo.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương mới và các thực thể mới tạo.
   - `.jules_memory/tong_quan_log.md`: Ghi chép phiên làm việc.
   - Chạy script cập nhật điều hướng.
 
@@ -24,15 +24,15 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-03-31 - Phần 3)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 58 "Phản Đòn" cho Arc 2 Lệ Vô Tâm.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00058_Phản_Đòn.md`: Lệ Vô Tâm dùng cơ thể Vạn Độc Thân khắc chế Vạn Tinh Tuyệt Sát Trận, bẻ gãy lưỡi dao tẩm Huyết Tinh Sa và dễ dàng hạ sát Tôn Mộc, mặt sẹo. Triệu Hàn dùng ngự kiếm chạy trốn nhưng bị Thiên Tinh Cổ xuyên não kết liễu.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 58.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương 58.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
   - Chạy kịch bản điều hướng.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
@@ -44,7 +44,7 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-01 - Phần 1)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 59 "Độc Cô Lão Quái Hài Lòng" và Chương 60 "Chuẩn Bị Cho Đại Sự" cho Arc 2 Lệ Vô Tâm.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
@@ -52,8 +52,8 @@
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00059_Độc_Cô_Lão_Quái_Hài_Lòng.md`: Lệ Vô Tâm báo cáo công việc và nhận thưởng từ Môn Chủ.
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00060_Chuẩn_Bị_Cho_Đại_Sự.md`: Lệ Vô Tâm phát hiện ra ý đồ thật sự của Độc Cô Lão Quái, chuẩn bị bí mật để chống lại ở đại điển sắc phong sắp tới.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 59 và 60.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương 59 và 60.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
   - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung 2 chương mới.
   - Chạy kịch bản điều hướng và tạo mục lục.
 
@@ -66,7 +66,7 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-03)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 67 "Bước Nhảy Sinh Tử" cho Góc Nhìn Chính và tạo địa danh Huyết Uyên.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
@@ -74,9 +74,9 @@
   - `Đạo/Thế_Giới_Và_Thời_Gian/Huyết_Uyên.md`: Vực Sâu Máu nằm dưới đáy Huyết Vụ Lâm.
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00067_Bước_Nhảy_Sinh_Tử.md`: Nhóm nhân vật nhảy xuống vực thẳm và tiếp đất an toàn nhờ Màn Sương Đỡ.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết địa danh Huyết Uyên.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết địa danh Huyết Uyên.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Góc Nhìn Chính đã vượt qua ải vực thẳm và bắt đầu khám phá Huyết Uyên, cảm nhận được Khí Tức Thượng Cổ.
@@ -87,7 +87,7 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-03 - Phần 2)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 68 "Bóng Tối Huyết Uyên" cho Góc Nhìn Chính và tạo các sinh vật ngầm tại Huyết Uyên.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
@@ -96,10 +96,10 @@
   - `Đạo/Kỳ_Vật/Rết_Lân_Tinh.md`: Loài rết khổng lồ chứa nọc Hỏa Tinh.
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00068_Bóng_Tối_Huyết_Uyên.md`: Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy bị tập kích bởi hai loài yêu thú nhưng đã vượt qua và tiếp tục theo dòng Huyết Hà để tìm nguồn gốc Khí Tức Thượng Cổ.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 kỳ vật và chương 68.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ.
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm các chương còn thiếu và Chương 68.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết 2 kỳ vật và chương 68.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Mục_Lục.md`: Thêm các chương còn thiếu và Chương 68.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Nhóm nhân vật chính đang men theo sông ngầm để tìm Thượng Cổ Huyết Mạch. Tình tiết chặt chẽ và nhất quán với thế giới.
@@ -110,17 +110,17 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-03 - Phần 3)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 69 "Nguồn Cội Thượng Cổ" cho Góc Nhìn Chính.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md`: Nhóm nhân vật chính tìm thấy Huyết Mạch Thượng Cổ, sử dụng Thanh Mộc Dịch chữa trị cho Hứa Nhược Thủy và khám phá lối đi ngầm vào lõi Vạn Độc Môn.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 69.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ ARC hiện tại.
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm Chương 69.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương 69.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ ARC hiện tại.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Mục_Lục.md`: Thêm Chương 69.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Góc Nhìn Chính đã tìm thấy lối đi an toàn và có thể xâm nhập sâu hơn vào Vạn Độc Môn qua đường Huyết Mạch Thượng Cổ, đồng thời hồi phục thể lực và vết thương. Tình tiết chặt chẽ và nhất quán với thế giới.
@@ -131,17 +131,17 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-04)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 70 "Xâm Nhập Lõi Độc" cho Góc Nhìn Chính.
 
 ## 2. CÔNG VIỆC ĐĐ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00070_Xâm_Nhập_Lõi_Độc.md`: Nhóm nhân vật chính tiến sâu vào Huyết Mạch Thượng Cổ, phát hiện ra phòng thí nghiệm ngầm của Vạn Độc Môn với Huyết Trì.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 70.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ ARC hiện tại.
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm Chương 70.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương 70.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ ARC hiện tại.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Mục_Lục.md`: Thêm Chương 70.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Góc Nhìn Chính đã thâm nhập được vào lòng căn cứ ngầm của Vạn Độc Môn.
@@ -152,17 +152,17 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-05)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 71 "Trận Chiến Dưới Lòng Đất" cho Góc Nhìn Chính.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00071_Trận_Chiến_Dưới_Lòng_Đất.md`: Nhóm nhân vật chính tấn công, phá hủy cơ sở điều chế ngầm của Vạn Độc Môn.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 71.
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm liên kết chương 71.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ ARC hiện tại.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương 71.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Mục_Lục.md`: Thêm liên kết chương 71.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ ARC hiện tại.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Góc Nhìn Chính đã phá hủy được căn cứ ngầm của Vạn Độc Môn nhưng phải đối mặt với nguy hiểm lớn hơn do bại lộ.
@@ -173,17 +173,17 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-06)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 72 "Bóng Tối Bủa Vây" cho Góc Nhìn Chính.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00072_Bóng_Tối_Bủa_Vây.md`: Nhóm nhân vật chính tháo chạy khỏi căn cứ ngầm sụp đổ, đối mặt với sự truy sát của Vạn Độc Môn và bầy Vong Linh tràn vào đường hầm rễ cây hóa thạch.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 72.
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm liên kết chương 72.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ ARC hiện tại.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương 72.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Mục_Lục.md`: Thêm liên kết chương 72.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ ARC hiện tại.
   - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung chương mới.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
@@ -195,17 +195,17 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-07)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 73 "Ánh Sáng Nơi Lõi Độc" cho Góc Nhìn Chính.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00073_Ánh_Sáng_Nơi_Lõi_Độc.md`: Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy phá vỡ kết giới của Vạn Độc Môn để trốn lên mặt đất, thoát khỏi sự truy đuổi của Vong Linh. Cả nhóm an toàn nhưng phát hiện mình đang ở trên mép vực thẳm của Quỷ Khốc Cốc.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 73.
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm liên kết chương 73.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ ARC hiện tại.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương 73.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Mục_Lục.md`: Thêm liên kết chương 73.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ ARC hiện tại.
   - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung chương mới.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
@@ -217,16 +217,16 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-07 - Phần 2)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 74 "Âm Vang Quỷ Khốc" cho Góc Nhìn Chính.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00074_Âm_Vang_Quỷ_Khốc.md`: Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy nghỉ ngơi trên vách đá Quỷ Khốc Cốc và tiêu diệt nhóm đệ tử Vạn Độc Môn đang khai thác Huyết Tinh Sa.
 - **Cập nhật:**
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm liên kết chương 74.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ ARC hiện tại.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Mục_Lục.md`: Thêm liên kết chương 74.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ ARC hiện tại.
   - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung chương mới.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
@@ -238,17 +238,17 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 75 "Luyện Hóa Tinh Sa" cho Góc Nhìn Chính.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00075_Luyện_Hóa_Tinh_Sa.md`: Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy nghỉ ngơi trong hang động ẩn. Hứa Nhược Thủy dùng bí thuật Thiên Sa Thương Hội chế tạo "Huyết Sa Lôi" từ Huyết Tinh Sa để làm ám khí. Tĩnh Sương vạch kế hoạch nhân lúc Vạn Độc Môn bận rộn với Đại Điển Sắc Phong Vạn Độc Thánh Tử để thoát khỏi khu vực Quỷ Khốc Cốc.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 75.
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm liên kết chương 75.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ ARC hiện tại.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương 75.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Mục_Lục.md`: Thêm liên kết chương 75.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ ARC hiện tại.
   - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung chương mới.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
@@ -260,17 +260,17 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 2)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 70 "Quân Đoàn Máu" cho Góc Nhìn Lệ Vô Tâm, khởi đầu Arc 3.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00070_Quân_Đoàn_Máu.md`: Lệ Vô Tâm lật lọng Độc Cô Lão Quái trong Đại Điển Sắc Phong, dùng Huyết Độc Phiến dung hợp Mẫu Cổ điều khiển quân đoàn 5 ngàn Huyết Thi bao vây Rừng Huyết Độc và Quỷ Khốc Cốc, nhắm đến cả nhóm Diệp Tĩnh Sương.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 70.
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/MỤC_LỤC.md`: Thêm liên kết chương 70.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ tiến vào Arc 3 của Lệ Vô Tâm.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương 70.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Mục_Lục.md`: Thêm liên kết chương 70.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ tiến vào Arc 3 của Lệ Vô Tâm.
   - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung chương mới.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
@@ -282,18 +282,18 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 3)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 76 "Vòng Vây Huyết Thi" cho Góc Nhìn Chính, đưa tuyến truyện Chính và tuyến truyện của Lệ Vô Tâm hội tụ tại Arc 3 (Huyết Độc Rừng Thiêng).
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00076_Vòng_Vây_Huyết_Thi.md`: Nhóm Diệp Tĩnh Sương vừa rời khỏi hang động ẩn nấp ở Quỷ Khốc Cốc thì phát hiện sương mù biến màu đỏ thẫm và bị bao vây bởi quân đoàn Huyết Thi tràn ra từ Rừng Huyết Độc. Dù dùng sức mạnh băng giá, tiễn thuật và Huyết Sa Lôi để phá vây, họ vẫn nhận ra đã bị dồn vào chân tường khi Lệ Vô Tâm xuất hiện trên mỏm đá cao nhất thổi sáo trúc.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 76.
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm liên kết chương 76.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ giao thoa của hai tuyến truyện chính và phản diện.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương 76.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Mục_Lục.md`: Thêm liên kết chương 76.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ giao thoa của hai tuyến truyện chính và phản diện.
   - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung chương mới.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Hai tuyến truyện lớn đã chính thức giao nhau. Nhóm nhân vật chính rơi vào tình thế vô cùng nguy hiểm trước quân đoàn Huyết Thi và Vạn Độc Thánh Tử Lệ Vô Tâm.
@@ -304,18 +304,18 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 4)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 71 "Đối Thoại Trong Sương" cho Góc Nhìn Lệ Vô Tâm, triển khai cuộc đại chiến.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00071_Đối_Thoại_Trong_Sương.md`
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 71.
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/MỤC_LỤC.md`: Thêm liên kết chương 71.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ giao thoa của hai tuyến truyện chính và phản diện.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương 71.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Mục_Lục.md`: Thêm liên kết chương 71.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ giao thoa của hai tuyến truyện chính và phản diện.
   - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung chương mới.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Lệ Vô Tâm đã chạm trán với nhóm Diệp Tĩnh Sương.
@@ -326,18 +326,18 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 5)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 77 "Tuyệt Cảnh Phá Vây" cho Góc Nhìn Chính, diễn biến cuộc chiến ở Quỷ Khốc Cốc.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00077_Tuyệt_Cảnh_Phá_Vây.md`
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết chương 77.
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`: Thêm liên kết chương 77.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật tiến độ chiến đấu.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết chương 77.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Mục_Lục.md`: Thêm liên kết chương 77.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật tiến độ chiến đấu.
   - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Ghi nhận nội dung chương mới.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Nhóm Diệp Tĩnh Sương đã rơi vào tuyệt cảnh trước Nhện Mặt Quỷ và sương độc, nhưng một đạo kiếm ý bất ngờ xuất hiện giải cứu họ ở cuối chương.
@@ -349,12 +349,12 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 6)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 72 "Hàn Băng Phá Trận" cho Góc Nhìn Lệ Vô Tâm.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:** `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00072_Hàn_Băng_Phá_Trận.md`
-- **Cập nhật:** HỒ_SƠ_THẾ_GIỚI.md, MỤC_LỤC.md, QUẢN_LÝ_ARC_TRUYỆN.md, BÁO_CÁO_CHẤT_LƯỢNG.md.
+- **Cập nhật:** Hồ_Sơ_Thế_Giới.md, Mục_Lục.md, Quản_Lý_Arc_Truyện.md, Báo_Cáo_Chất_Lượng.md.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Lệ Vô Tâm đối đầu với hai nữ kiếm tu và thất bại, quyết định rút lui củng cố sức mạnh.
@@ -365,14 +365,14 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 7)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 79 "Tạm Lánh Phong Ba" (Góc Nhìn Chính) và Chương 73 "Nuốt Hận Dưỡng Thương" (Góc Nhìn Lệ Vô Tâm).
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00079_Tạm_Lánh_Phong_Ba.md`
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00073_Nuốt_Hận_Dưỡng_Thương.md`
-- **Cập nhật:** HỒ_SƠ_THẾ_GIỚI.md, QUẢN_LÝ_ARC_TRUYỆN.md, MỤC_LỤC.md, BÁO_CÁO_CHẤT_LƯỢNG.md, tong_quan_log.md. Cập nhật và build file tĩnh.
+- **Cập nhật:** Hồ_Sơ_Thế_Giới.md, Quản_Lý_Arc_Truyện.md, Mục_Lục.md, Báo_Cáo_Chất_Lượng.md, tong_quan_log.md. Cập nhật và build Tệp Tin tĩnh.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Cả hai tuyến truyện đã bước vào giai đoạn tạm nghỉ để dưỡng thương, phân tích tình hình và chuẩn bị cho trận chiến tiếp theo.
@@ -383,14 +383,14 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 8)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 80 "Hội Bàn Đối Sách" (Góc Nhìn Chính) và Chương 74 "Vạn Độc Trọng Sinh" (Góc Nhìn Lệ Vô Tâm).
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00080_Hội_Bàn_Đối_Sách.md`
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00074_Vạn_Độc_Trọng_Sinh.md`
-- **Cập nhật:** HỒ_SƠ_THẾ_GIỚI.md, QUẢN_LÝ_ARC_TRUYỆN.md, MỤC_LỤC.md, BÁO_CÁO_CHẤT_LƯỢNG.md, Viet_Chuong_Truyen_Memory.md, tong_quan_log.md. Cập nhật và build file tĩnh.
+- **Cập nhật:** Hồ_Sơ_Thế_Giới.md, Quản_Lý_Arc_Truyện.md, Mục_Lục.md, Báo_Cáo_Chất_Lượng.md, Viet_Chuong_Truyen_Memory.md, tong_quan_log.md. Cập nhật và build Tệp Tin tĩnh.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Lệ Vô Tâm dung hợp Mẫu Cổ và rèn luyện Vạn Độc Thân thành công trong Mật Thất Huyết Trì. Về phía nhóm Diệp Tĩnh Sương, Sở Lăng Sương đã cung cấp bản đồ và tình báo. Kế hoạch sắp tới là Sở Lăng Sương phối hợp đại quân Chính Đạo đánh Đầm Lầy Tử Thần, trong khi nhóm Diệp Tĩnh Sương tiến vào Vùng Đất Chết để phá mắt trận, giải trừ Vạn Độc Huyết Tế Đại Trận.
@@ -400,14 +400,14 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 9)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 81 "Trở Lại Tử Địa" (Góc Nhìn Chính) và Chương 75 "Bố Cục Tử Địa" (Góc Nhìn Lệ Vô Tâm).
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00081_Trở_Lại_Tử_Địa.md`
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00075_Bố_Cục_Tử_Địa.md`
-- **Cập nhật:** HỒ_SƠ_THẾ_GIỚI.md, QUẢN_LÝ_ARC_TRUYỆN.md, MỤC_LỤC.md (cả 2 góc nhìn), BÁO_CÁO_CHẤT_LƯỢNG.md, tong_quan_log.md. Cập nhật và build file tĩnh.
+- **Cập nhật:** Hồ_Sơ_Thế_Giới.md, Quản_Lý_Arc_Truyện.md, Mục_Lục.md (cả 2 góc nhìn), Báo_Cáo_Chất_Lượng.md, tong_quan_log.md. Cập nhật và build Tệp Tin tĩnh.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Lệ Vô Tâm đã xuất quan, biết được ý định tấn công của Chính Đạo và đã giăng bẫy sẵn tại Đầm Lầy Tử Thần và Vùng Đất Chết. Nhóm Diệp Tĩnh Sương vừa chia tay Sở Lăng Sương, chính thức tiến vào Vùng Đất Chết và phải đối mặt với đội quân Vong Linh cường đại.
@@ -418,14 +418,14 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 10)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 82 "Trận Chiến Vùng Đất Chết" (Góc Nhìn Chính) và Chương 76 "Huyết Vệ Xuất Kích" (Góc Nhìn Lệ Vô Tâm).
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00082_Trận_Chiến_Vùng_Đất_Chết.md`
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00076_Huyết_Vệ_Xuất_Kích.md`
-- **Cập nhật:** HỒ_SƠ_THẾ_GIỚI.md, QUẢN_LÝ_ARC_TRUYỆN.md, MỤC_LỤC.md, BÁO_CÁO_CHẤT_LƯỢNG.md, Viet_Chuong_Truyen_Memory.md, tong_quan_log.md. Cập nhật và build file tĩnh.
+- **Cập nhật:** Hồ_Sơ_Thế_Giới.md, Quản_Lý_Arc_Truyện.md, Mục_Lục.md, Báo_Cáo_Chất_Lượng.md, Viet_Chuong_Truyen_Memory.md, tong_quan_log.md. Cập nhật và build Tệp Tin tĩnh.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Nhóm Diệp Tĩnh Sương đã tiến vào Vùng Đất Chết và có một trận chiến khốc liệt với Vong Linh Tướng Quân. Họ nhận ra Mắt Trận phụ và tách ra để phá hoại, nhưng Diệp Tĩnh Sương và phần còn lại của nhóm đã bị Lệ Vô Tâm dùng Trận Pháp Huyễn Ảnh và Huyết Vệ Số Một cản đường. Hai diễn biến trên đang ở giai đoạn cao trào.
@@ -436,14 +436,14 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 11)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 83 "Phá Giải Huyễn Ảnh" (Góc Nhìn Chính) và Chương 77 "Biến Số Từ Đầm Lầy" (Góc Nhìn Lệ Vô Tâm).
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00083_Phá_Giải_Huyễn_Ảnh.md`
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00077_Biến_Số_Từ_Đầm_Lầy.md`
-- **Cập nhật:** HỒ_SƠ_THẾ_GIỚI.md, QUẢN_LÝ_ARC_TRUYỆN.md, MỤC_LỤC.md (cả 2 góc nhìn), BÁO_CÁO_CHẤT_LƯỢNG.md.
+- **Cập nhật:** Hồ_Sơ_Thế_Giới.md, Quản_Lý_Arc_Truyện.md, Mục_Lục.md (cả 2 góc nhìn), Báo_Cáo_Chất_Lượng.md.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Lâm Phong và Hứa Nhược Thủy rơi vào Trận Pháp Huyễn Ảnh, đối diện với tâm ma và sự tấn công của Huyết Vệ số Một. Tuy nhiên, đại quân Chính Đạo do Sở Lăng Sương dẫn đầu bất ngờ tổng tiến công Mắt Trận chính tại Đầm Lầy Tử Thần. Biến cố này buộc Lệ Vô Tâm phải dồn sức phòng thủ Mắt Trận chính, làm suy yếu Huyễn Ảnh Trận ở Vùng Đất Chết. Chớp thời cơ, Diệp Tĩnh Sương và Lâm Phong đã hợp lực phá vỡ ảo giác.
@@ -455,14 +455,14 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 12)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 84 "Phá Hủy Mắt Trận" (Góc Nhìn Chính) và Chương 78 "Đại Chiến Đầm Lầy" (Góc Nhìn Lệ Vô Tâm).
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00084_Phá_Hủy_Mắt_Trận.md`
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00078_Đại_Chiến_Đầm_Lầy.md`
-- **Cập nhật:** HỒ_SƠ_THẾ_GIỚI.md, QUẢN_LÝ_ARC_TRUYỆN.md, MỤC_LỤC.md (cả 2 góc nhìn), BÁO_CÁO_CHẤT_LƯỢNG.md, Viet_Chuong_Truyen_Memory.md. Cập nhật và build file tĩnh.
+- **Cập nhật:** Hồ_Sơ_Thế_Giới.md, Quản_Lý_Arc_Truyện.md, Mục_Lục.md (cả 2 góc nhìn), Báo_Cáo_Chất_Lượng.md, Viet_Chuong_Truyen_Memory.md. Cập nhật và build Tệp Tin tĩnh.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Nhóm Diệp Tĩnh Sương đã hợp lực tiêu diệt Huyết Vệ số Một và đập nát khối Huyết Tinh thạch để phá hủy Mắt Trận phụ tại Vùng Đất Chết. Cùng lúc đó, tại Đầm Lầy Tử Thần, Lệ Vô Tâm dồn toàn lực bảo vệ Mắt Trận chính. Hắn dùng Mẫu Cổ và Huyết Độc Chân Khí triệu hồi Độc Oán Mãng Xà và Huyết Độc Lang, tạo ra một trận huyết chiến quy mô lớn với quân của Cửu Hoa Kiếm Tông do Sở Lăng Sương dẫn đầu.
@@ -473,14 +473,14 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 13)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 85 "Hội Sư Đầm Lầy" (Góc Nhìn Chính) và Chương 79 "Tử Chiến Đầm Lầy" (Góc Nhìn Lệ Vô Tâm).
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00085_Hội_Sư_Đầm_Lầy.md`
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00079_Tử_Chiến_Đầm_Lầy.md`
-- **Cập nhật:** HỒ_SƠ_THẾ_GIỚI.md, QUẢN_LÝ_ARC_TRUYỆN.md, MỤC_LỤC.md (cả 2 góc nhìn), BÁO_CÁO_CHẤT_LƯỢNG.md, Viet_Chuong_Truyen_Memory.md. Cập nhật và build file tĩnh.
+- **Cập nhật:** Hồ_Sơ_Thế_Giới.md, Quản_Lý_Arc_Truyện.md, Mục_Lục.md (cả 2 góc nhìn), Báo_Cáo_Chất_Lượng.md, Viet_Chuong_Truyen_Memory.md. Cập nhật và build Tệp Tin tĩnh.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Nhóm Diệp Tĩnh Sương đã tiến về Mắt Trận chính tại Đầm Lầy Tử Thần. Với sự hỗ trợ kịp thời từ nhóm, Sở Lăng Sương đã phá nát được Độc Oán Mãng Xà. Tuy nhiên, trước khi phá vỡ được Mắt Trận, Lệ Vô Tâm dùng cấm thuật "Phệ Mệnh Thiêu Hồn", trực tiếp xuất hiện để tử chiến. Các tuyến truyện đã chính thức giao nhau tại điểm cao trào cuối cùng của Arc.
@@ -491,14 +491,14 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 14)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 86 "Trảm Độc Kiếm Tâm" (Góc Nhìn Chính) và Chương 80 "Kết Cục Phệ Hồn" (Góc Nhìn Lệ Vô Tâm). Kết thúc cao trào Arc 3.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00086_Trảm_Độc_Kiếm_Tâm.md`
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00080_Kết_Cục_Phệ_Hồn.md`
-- **Cập nhật:** HỒ_SƠ_THẾ_GIỚI.md, QUẢN_LÝ_ARC_TRUYỆN.md, MỤC_LỤC.md (cả 2 góc nhìn), BÁO_CÁO_CHẤT_LƯỢNG.md, Viet_Chuong_Truyen_Memory.md. Cập nhật và build file tĩnh.
+- **Cập nhật:** Hồ_Sơ_Thế_Giới.md, Quản_Lý_Arc_Truyện.md, Mục_Lục.md (cả 2 góc nhìn), Báo_Cáo_Chất_Lượng.md, Viet_Chuong_Truyen_Memory.md. Cập nhật và build Tệp Tin tĩnh.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Trận chiến cuối cùng đã nổ ra. Diệp Tĩnh Sương và Sở Lăng Sương đã thành công cầm chân Vạn Độc Thân của Lệ Vô Tâm. Lâm Phong đã lợi dụng kẽ hở tung đòn phá vỡ Mắt Trận chính tại Đầm Lầy Tử Thần. Vạn Độc Huyết Tế Đại Trận sụp đổ, và Lệ Vô Tâm bị phản phệ dữ dội, trước khi bị kết liễu đã được tổ chức đứng sau hắn (Huyết Sát Minh) giải cứu, rút chạy qua đường mạch ngầm. Arc 3 khép lại tại đây.
@@ -509,16 +509,16 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Khởi tạo Huyết Sát Minh)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Kiểm tra Báo Cáo Chất Lượng, tìm các thế lực còn thiếu và dọn dẹp các điểm mâu thuẫn để chuẩn bị cho Arc 4.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
   - `Đạo/Thế_Lực/Huyết_Sát_Minh.md`: Tạo mới hồ sơ cho tổ chức ngầm xuyên lục địa "Huyết Sát Minh", kẻ giật dây sự hỗn loạn ở Nam Cương và là kẻ thù truyền kiếp của Diệp Tĩnh Sương.
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết cho "Huyết Sát Minh".
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật trạng thái "Đã hoàn thành" cho Arc 3 của Diệp Tĩnh Sương và Lệ Vô Tâm. Thêm mục tiêu khởi đầu cho Arc 4.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc bù lấp thực thể còn thiếu.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết cho "Huyết Sát Minh".
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật trạng thái "Đã hoàn thành" cho Arc 3 của Diệp Tĩnh Sương và Lệ Vô Tâm. Thêm mục tiêu khởi đầu cho Arc 4.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc bù lấp thực thể còn thiếu.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Đã dọn dẹp xong lỗ hổng thực thể quan trọng xuất hiện ở hồi kết Arc 3, giúp cấu trúc thế giới vững chắc hơn trước khi tiến vào Arc mới.
@@ -529,7 +529,7 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Khởi đầu Arc 4)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 87 "Hành Trình Mới" (Góc Nhìn Chính) và Chương 81 "Bí Cảnh Huyết Sát" (Góc Nhìn Lệ Vô Tâm) để khởi động Arc 4.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
@@ -537,10 +537,10 @@
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00087_Hành_Trình_Mới.md`
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00081_Bí_Cảnh_Huyết_Sát.md`
 - **Cập nhật:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết hai chương mới.
-  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật trạng thái nhiệm vụ cho cả hai tuyến truyện.
-  - `Đạo/Chương_Truyện/.../MỤC_LỤC.md`: Thêm chương mới vào mục lục.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành nhiệm vụ khởi động Arc 4.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Thêm liên kết hai chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/Quản_Lý_Arc_Truyện.md`: Cập nhật trạng thái nhiệm vụ cho cả hai tuyến truyện.
+  - `Đạo/Chương_Truyện/.../Mục_Lục.md`: Thêm chương mới vào mục lục.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành nhiệm vụ khởi động Arc 4.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Arc 4 đã chính thức mở màn. Nhóm Diệp Tĩnh Sương theo Sở Lăng Sương về Cửu Hoa Kiếm Tông để nhờ thế lực Chính Đạo lớn mạnh này phân tích tình báo về Huyết Sát Minh. Trong khi đó, Lệ Vô Tâm tỉnh dậy tại Huyết Uyên Đảo, hấp thu Huyết Tinh Nguyên để khôi phục sức mạnh và chấp nhận trở thành tay sai của Huyết Thần Tử nhằm đổi lấy cơ hội báo thù.

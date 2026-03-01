@@ -1,10 +1,10 @@
-# NIÊN BIỂU CỐ NGUYÊN GIỚI
+# Niên Biểu Cố Nguyên Giới
 
-Đây là văn bản chính thức ghi lại dòng chảy lịch sử của Cố Nguyên Giới, được quản lý bởi AI Agent Quản Lý Dòng Thời Gian.
+Đây là văn bản chính thức ghi lại dòng chảy lịch sử của Cố Nguyên Giới, được quản lý bởi AI Đại Diện Quản Lý Dòng Thời Gian.
 
 ---
 
-## 1. KỶ NGUYÊN HỒNG HOANG (THUỞ SƠ KHAI)
+## 1. Kỷ Nguyên Hồng Hoang (Thuở Sơ Khai)
 **Thời gian:** Hàng tỷ năm về trước - Kéo dài vô tận.
 **Bối cảnh:**
 - **Linh Khí:** Hỗn Độn Chi Khí, cực kỳ cuồng bạo, sinh linh bình thường không thể tồn tại.
@@ -21,7 +21,7 @@
 
 ---
 
-## 2. KỶ NGUYÊN THÁI CỔ (ARCHAIC ERA - THỜI THƯỢNG CỔ)
+## 2. Kỷ Nguyên Thái Cổ (Archaic Era - Thời Thượng Cổ)
 **Thời gian:** Sau khi Hồng Hoang kết thúc - Kéo dài khoảng 3 vạn năm (Năm Thái Cổ 1 ~ 30.000).
 **Bối cảnh:**
 - **Linh Khí:** Hỗn Độn Chi Khí dần phân hóa thành Thiên Địa Linh Khí, nhưng vẫn còn rất cuồng bạo và bất ổn. Tàn dư Ma Khí từ xác Thần Ma rải rác khắp nơi.
@@ -46,7 +46,7 @@
 
 ---
 
-## 3. KỶ NGUYÊN KHỞI NGUYÊN (HIỆN TẠI)
+## 3. Kỷ Nguyên Khởi Nguyên (Hiện Tại)
 **Thời gian:** Bắt đầu từ khi 10 Đại Chủng Tộc hình thành ý thức - Đến nay (khoảng 10 vạn năm).
 **Bối cảnh:**
 - **Linh Khí:** Cực thịnh, tinh thuần, thích hợp cho tu luyện.

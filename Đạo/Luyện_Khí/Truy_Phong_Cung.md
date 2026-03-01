@@ -1,4 +1,4 @@
-# PHÁP BẢO: TRUY PHONG CUNG
+# Pháp Bảo: Truy Phong Cung
 
 - **Tên Pháp Bảo:** Truy Phong Cung (追風弓).
 - **Phẩm Cấp:** Huyền Cấp Hạ Phẩm.

@@ -1,4 +1,4 @@
-# THIÊN SA THƯƠNG HỘI (天沙商會)
+# Thiên Sa Thương Hội (天沙商會)
 
 > *"Thiên hạ chi lợi, giai quy sa hà."*
 > (Lợi nhuận thiên hạ, đều về sông cát.)
@@ -6,14 +6,14 @@
 
 ---
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Tên:** Thiên Sa Thương Hội (Heavenly Sand Merchant Guild).
 - **Loại Hình:** Liên Minh Thương Nhân (Trung Lập Tuyệt Đối).
 - **Cấp Bậc:** Thế lực thương mại hạng Nhất (Liên minh thương nhân hùng mạnh nhất Tây Mạc, kiểm soát toàn bộ thương đạo sa mạc).
 - **Trụ Sở:** Thiên Sa Thương Thành — thành phố giữa sa mạc, được xây dựng tại Minh Nguyệt Châu, ốc đảo lớn nhất Tây Mạc.
 - **Người Đứng Đầu:** Hội Chủ — danh tính bí ẩn, chỉ giao tiếp thông qua "Thiên Sa Lệnh" (lệnh bài bằng Sa Kim Thạch nguyên chất). Tương truyền tu vi ít nhất Hóa Thần trở lên.
 
-## II. ĐỊA LÝ & TÀI NGUYÊN
+## Ii. Địa Lý & Tài Nguyên
 
 ### Thiên Sa Thương Thành (天沙商城)
 - **Vị Trí:** Tọa lạc trên Minh Nguyệt Châu, giao điểm của Thiên Sa Thương Đạo, trung tâm thương mại và giao thông huyết mạch của toàn Tây Mạc.
@@ -35,7 +35,7 @@
 
 ---
 
-## III. VĂN HÓA & TÍN NGƯỠNG
+## Iii. Văn Hóa & Tín Ngưỡng
 - **Triết Lý:** *"Thiên hạ chi lợi, giai quy sa hà"* (Lợi nhuận thiên hạ, đều về sông cát). Thương Hội tin rằng vàng bạc như nước, tất cả rồi sẽ chảy về nơi trũng — mà Tây Mạc chính là nơi trũng nhất thiên hạ.
 - **Nguyên Tắc Tối Thượng:**
     - **Trung Lập Tuyệt Đối:** Thiên Sa Thương Hội không tham gia bất kỳ tranh chấp chính trị, tông môn nào. Buôn bán với tất cả, kể cả Vạn Độc Môn, Huyền Băng Cung, hay bất kỳ thế lực chính tà nào. *"Trước cửa Thiên Sa, không có chính tà, chỉ có mua bán."*
@@ -48,7 +48,7 @@
 
 ---
 
-## IV. CƠ CẤU TỔ CHỨC
+## Iv. Cơ Cấu Tổ Chức
 
 ### 1. Hội Chủ (會主)
 - **Danh Tính:** Bí ẩn tuyệt đối. Không ai trong Thương Hội (ngoại trừ Tứ Đại Thương Gia) được biết dung mạo thật của Hội Chủ. Mọi mệnh lệnh đều truyền đạt thông qua **Thiên Sa Lệnh** — lệnh bài bằng Sa Kim Thạch nguyên chất, khắc phù văn biến hóa theo ý chủ nhân.
@@ -119,15 +119,15 @@ Bốn gia tộc thương nhân hùng mạnh nhất, mỗi gia tộc kiểm soát
 
 ---
 
-## V. CÔNG PHÁP & BÍ KỸ
-- **Công Pháp Trấn Hội:** *(Sẽ được tạo chi tiết bởi Agent Công Pháp)*
+## V. Công Pháp & Bí Kỹ
+- **Công Pháp Trấn Hội:** *(Sẽ được tạo chi tiết bởi Đại Diện Công Pháp)*
     - Tương truyền Thương Hội sở hữu một bộ công pháp bí truyền gọi là **Sa Hà Bảo Điển** — công pháp hệ Thổ-Phong chuyên về phòng ngự và ẩn thân, cho phép tu sĩ hóa thân thành cát, di chuyển xuyên sa mạc như cá bơi trong nước.
     - Sa Ảnh Sát Thủ tu luyện nhánh sát thủ của bộ công pháp này: **Sa Ảnh Quyết** — bí thuật ẩn mình trong bóng cát, xuất thủ nhanh như chớp.
 - **Hộ Sơn Đại Trận:** **Sa Thành Hộ Giới Trận** — trận pháp phòng thủ đa tầng bao phủ toàn Thiên Sa Thương Thành, huy động Sa Linh Khí tạo thành bức tường cát bất khả xâm phạm.
 
 ---
 
-## VI. LỊCH SỬ TÓM TẮT
+## Vi. Lịch Sử Tóm Tắt
 
 ### Sáng Lập — Năm 65.000 (Kỷ Nguyên Khởi Nguyên)
 - Khi **Sa Thương Cổ Gia** — một gia tộc thương nhân Sa Tộc do **Cổ Sa Nhạn** dẫn đầu — lần đầu tiên khai phá Thiên Sa Thương Đạo nối liền Trung Thổ với Tây Mạc. Nhận ra tiềm năng thương mại khổng lồ, Cổ Sa Nhạn liên kết với ba gia tộc thương nhân khác (Trần, Lâm, Hứa) đang hoạt động rải rác tại các ốc đảo, thành lập **Thiên Sa Thương Hội** với tổng bộ đặt tại Minh Nguyệt Châu.
@@ -152,7 +152,7 @@ Bốn gia tộc thương nhân hùng mạnh nhất, mỗi gia tộc kiểm soát
 
 ---
 
-## VII. QUAN HỆ NGOẠI GIAO
+## Vii. Quan Hệ Ngoại Giao
 
 | Thế Lực | Quan Hệ | Chi Tiết |
 |----------|----------|----------|
@@ -165,7 +165,7 @@ Bốn gia tộc thương nhân hùng mạnh nhất, mỗi gia tộc kiểm soát
 
 ---
 
-## VIII. GIAI THOẠI & BÍ MẬT
+## Viii. Giai Thoại & Bí Mật
 
 ### Hội Chủ Vạn Tuế (Giai Thoại)
 > *"Có kẻ nói Hội Chủ Thiên Sa là Long Tộc biến hình, giấu mình giữa sa mạc để tránh nghiệp quả từ thời Thái Cổ. Cũng có kẻ bảo ngài là Cổ Nhân Tộc — một chủng tộc đã tuyệt diệt từ lâu, sống thọ hàng vạn năm mà diện mạo chẳng đổi thay. Lại có giả thuyết cho rằng Hội Chủ không phải một người mà là nhiều người kế thừa cùng một danh hiệu, dùng pháp thuật hoán đổi dung mạo để duy trì huyền thoại bất tử."*
@@ -187,7 +187,7 @@ Bốn gia tộc thương nhân hùng mạnh nhất, mỗi gia tộc kiểm soát
 
 ---
 
-## IX. VAI TRÒ TRONG CỐT TRUYỆN
+## Ix. Vai Trò Trong Cốt Truyện
 
 ### Thế Lực Trung Gian
 - Thiên Sa Thương Hội đóng vai trò **thế lực trung lập** giữa các phe phái, là nơi tất cả các thế lực — dù chính hay tà — đều phải nương nhờ khi cần giao dịch, trao đổi tin tức, hoặc tìm kiếm vật phẩm quý hiếm.

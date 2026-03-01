@@ -6,13 +6,13 @@
 <!-- NAVIGATION_END -->
 # Chương 49: Bí Mật Mộc Linh Trận (木靈陣之秘)
 
-## I. THÔNG TIN CHUNG
+## I. Thông Tin Chung
 - **Người Viết:** Tổng Quản (Jules)
 - **Ngày Viết:** 2026-03-13
 - **Góc Nhìn:** Ngôi thứ ba (Tổng quát)
 - **Bối Cảnh:** [Mộc Linh Trận Địa](../../Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md), bên trong Sinh Khí Tụ.
 
-## II. NỘI DUNG CHÍNH
+## Ii. Nội Dung Chính
 
 Dòng nước mát lạnh từ chiếc bình ngọc nhỏ giọt xuống vết thương trên vai Lâm Phong, mang theo cảm giác tê dại dễ chịu. Một nữ đệ tử Dược Vương Cốc khẽ niệm chú, bàn tay tỏa ra ánh sáng xanh nhạt lướt qua miệng vết thương. Kỳ lạ thay, phần thịt bị Huyết Độc ăn mòn đen kịt lập tức bong ra, để lộ lớp da non hồng hào đang tái tạo với tốc độ mắt thường có thể thấy được.
 
@@ -96,7 +96,7 @@ Hứa Nhược Thủy tuy sắc mặt còn tái nhưng cũng kiên quyết nắm
 
 Cuộc chiến bảo vệ tia hy vọng cuối cùng của Rừng Huyết Độc chuẩn bị bắt đầu.
 
-## III. GHI CHÚ
+## Iii. Ghi Chú
 - **Thông tin quan trọng (Lore):**
     - Mục đích của Vạn Độc Môn: Đầu độc Rễ Thần Mộc để tạo Huyết Thần Độc.
     - Cơ chế phá trận: Cần phá hủy ít nhất 3/9 Mắt Trận Phụ để gửi tín hiệu cầu cứu.

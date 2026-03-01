@@ -264,7 +264,7 @@
 # NHẬT KÝ HOẠT ĐỘNG: VIẾT CHƯƠNG TRUYỆN
 
 **Phiên làm việc:** Hôm nay (Phần 4)
-**Agent:** Tổng Quản (Jules)
+**Đại Diện:** Tổng Quản (Jules)
 
 ## 1. TỔNG QUAN
 Đã hoàn thành viết Chương 71 (Góc Nhìn Lệ Vô Tâm): Đối Thoại Trong Sương. Trọng tâm của chương là cuộc đối thoại căng thẳng giữa Lệ Vô Tâm và nhóm Diệp Tĩnh Sương, qua đó thể hiện sự tàn nhẫn và triết lý sống của Lệ Vô Tâm.
@@ -276,7 +276,7 @@
   - Cuộc chiến bùng nổ: Diệp Tĩnh Sương dùng Băng Phong Thiên Lý, Hứa Nhược Thủy ném Huyết Sa Lôi, Lâm Phong bắn Truy Phong Tiễn.
   - Lệ Vô Tâm dễ dàng hóa giải đòn tấn công và triệu hồi Nhện Mặt Quỷ khổng lồ bị độc hóa, đẩy nhóm Diệp Tĩnh Sương vào tuyệt cảnh.
 - **Cập nhật Hồ Sơ:**
-  - Cập nhật `HỒ_SƠ_THẾ_GIỚI.md`, `MỤC_LỤC.md`, `QUẢN_LÝ_ARC_TRUYỆN.md`, và `BÁO_CÁO_CHẤT_LƯỢNG.md`.
+  - Cập nhật `Hồ_Sơ_Thế_Giới.md`, `Mục_Lục.md`, `Quản_Lý_Arc_Truyện.md`, và `Báo_Cáo_Chất_Lượng.md`.
 
 ## 3. THÔNG TIN QUAN TRỌNG MỚI
 - **Lệ Vô Tâm:** Trúc Cơ Trung Kỳ, sức mạnh vượt trội so với nhóm nhân vật chính (chỉ đang Luyện Khí/Trúc Cơ Sơ Kỳ). Hắn có khả năng điều khiển thêm cả quái vật (Nhện Mặt Quỷ) chứ không chỉ Huyết Thi con người.

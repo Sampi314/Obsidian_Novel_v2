@@ -2,9 +2,9 @@
 source: Đạo/Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md
 ---
 
-# TINH LINH CỔ NGỌC (ANCIENT ELF JADE)
+# Tinh Linh Cổ Ngọc (Ancient Elf Jade)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Cầm trên tay hoặc đeo trên cổ.
@@ -20,7 +20,7 @@ Cầm trên tay hoặc đeo trên cổ.
 -   Tông màu chủ đạo: Xanh ngọc (Jade Green), Bạc (Silver), Trắng (White light).
 -   Cảm giác: Cổ xưa (Ancient), Tinh khiết (Pure), Huyền bí (Magical).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (close up),
@@ -31,5 +31,5 @@ pure energy, high fantasy style.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, dark, evil, blood, rusty.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Vẻ đẹp thanh thoát, nhẹ nhàng đặc trưng của Tinh Linh.

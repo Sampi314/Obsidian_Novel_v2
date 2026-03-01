@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Lệ_Vô_Tâm.md
 ---
 
-# LỆ VÔ TÂM (LE VO TAM)
+# Lệ Vô Tâm (Le Vo Tam)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong hang động tối tăm hoặc rừng rậm đầy chướng khí.
@@ -20,7 +20,7 @@ Trong hang động tối tăm hoặc rừng rậm đầy chướng khí.
 -   Tông màu chủ đạo: Tím (Purple), Đen (Black), Xanh lục (Poison Green).
 -   Cảm giác: Đáng sợ (Scary), Tà mị (Wicked), Quyền lực (Power).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),
@@ -32,6 +32,6 @@ cinematic lighting, scary, dangerous, evil cultivator.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, hero, bright, sunlight, happy, righteous.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Quạt xương là chi tiết quan trọng.
 -   Không khí phải toát lên mùi "độc".

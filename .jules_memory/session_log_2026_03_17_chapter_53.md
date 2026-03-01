@@ -1,4 +1,4 @@
-# Session Log: 2026-03-17 (Chapter 53)
+# Session Log: 2026-03-17 (Chương 53)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Viết tiếp Chương 53, đẩy cao trào sau khi phá Mắt Trận Phụ.
@@ -13,15 +13,15 @@
     - Giới thiệu khái niệm "Huyết Mạng" của Lệ Vô Tâm.
 
 - **Cập nhật hệ thống:**
-  - `HỒ_SƠ_THẾ_GIỚI.md`: Cập nhật danh sách chương.
-  - `BÁO_CÁO_CHẤT_LƯỢNG.md`: Log công việc hoàn thành.
+  - `Hồ_Sơ_Thế_Giới.md`: Cập nhật danh sách chương.
+  - `Báo_Cáo_Chất_Lượng.md`: Log công việc hoàn thành.
 
 ## 3. Thay Đổi Của Người Dùng
 - Không phát hiện thay đổi trực tiếp.
 
 ## 4. Bài Học & Ghi Chú
 - **Lore Expansion:** Việc mở ra khu vực "Huyết Vụ Lâm" giúp thế giới Rừng Huyết Độc thêm chiều sâu, không chỉ là rừng cây đỏ đơn điệu.
-- **Character Dynamic:** Diệp Tĩnh Sương ngày càng quyết đoán, Lâm Phong thể hiện rõ vai trò dẫn đường và chiến thuật.
+- **Nhân Vật Dynamic:** Diệp Tĩnh Sương ngày càng quyết đoán, Lâm Phong thể hiện rõ vai trò dẫn đường và chiến thuật.
 
 ## 5. Kế Hoạch Tiếp Theo
 - Viết **Chương 54**: Bóng Ma Trong Sương.

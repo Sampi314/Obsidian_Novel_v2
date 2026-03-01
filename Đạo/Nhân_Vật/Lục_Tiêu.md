@@ -1,6 +1,6 @@
-# LỤC TIÊU (綠簫)
+# Lục Tiêu (綠簫)
 
-## I. THÔNG TIN CÁ CƠ BẢN
+## I. Thông Tin Cá Cơ Bản
 - **Tên:** Lục Tiêu (Luc Tieu).
 - **Danh Hiệu:** Thanh Âm Sứ Giả (Thanh Am Su Gia), Lục Diệp Tiên Tử (Luc Diep Tien Tu).
 - **Tu Vi:** Kim Đan Sơ Kỳ (Core Formation Early Stage).
@@ -9,7 +9,7 @@
 - **Chức Vụ:** Sứ Giả Đặc Phái của Nữ Hoàng Nguyệt Dao.
 - **Vũ Khí:** [Ngọc Tiêu Cửu Khúc](../Luyện_Khí/Ngọc_Tiêu_Cửu_Khúc.md).
 
-## II. NGOẠI HÌNH & TÍNH CÁCH
+## Ii. Ngoại Hình & Tính Cách
 - **Ngoại Hình:**
   - Dáng người thanh mảnh, cao ráo, mang vẻ đẹp thoát tục đặc trưng của Tinh Linh.
   - Mái tóc màu xanh lục bảo dài đến thắt lưng, thường được tết gọn gàng bằng dây leo nhỏ đính hoa rừng.
@@ -22,7 +22,7 @@
   - **Yêu Thiên Nhiên:** Có khả năng giao cảm sâu sắc với thực vật. Cô thường dành hàng giờ để "trò chuyện" với cây cỏ thay vì giao tiếp với người khác.
   - **Cảnh Giác:** Dù ôn hòa, cô luôn giữ khoảng cách nhất định với người ngoài tộc, đặc biệt là Nhân Tộc, do những ký ức đau buồn của lịch sử.
 
-## III. CÔNG PHÁP & KỸ NĂNG
+## Iii. Công Pháp & Kỹ Năng
 - **Sở Trường:** Âm Luật, Mộc Linh Pháp, Hồi Phục.
 - **Đạo Tâm:** "Vạn Vật Hữu Linh, Thanh Âm Hộ Mệnh" (Vạn vật đều có linh hồn, dùng âm thanh để bảo vệ sự sống).
 
@@ -34,7 +34,7 @@
      - **Thanh Tâm Phổ:** Giai điệu nhẹ nhàng giúp xua tan tâm ma, ổn định tâm trí cho đồng đội, giải trừ ảo giác.
      - **Diệp Lạc Vô Thanh:** Tiếng sáo bén nhọn như dao, điều khiển ngàn vạn chiếc lá tấn công kẻ thù với tốc độ cực nhanh.
 
-## IV. TIỂU SỬ & QUAN HỆ
+## Iv. Tiểu Sử & Quan Hệ
 - **Xuất Thân:**
   - Là một cô nhi Tinh Linh được tìm thấy dưới gốc Thần Mộc già cỗi nhất trong một đêm mưa bão. Được Nữ Hoàng Nguyệt Dao đích thân mang về nuôi dưỡng.
   - Từ nhỏ đã bộc lộ thiên phú âm nhạc kỳ lạ. Tiếng sáo đầu tiên cô thổi đã khiến một rừng hoa khô héo bỗng chốc nở rộ trở lại.
@@ -48,7 +48,7 @@
   - **[Diệp Thanh Y](../Nhân_Vật/Diệp_Thanh_Y.md) (Dược Vương Cốc):** Mục tiêu cần tìm kiếm để liên minh.
   - **[Lâm Phong](../Nhân_Vật/Lâm_Phong.md):** Người dẫn đường (dự kiến gặp gỡ trong hành trình).
 
-## V. CÂU NÓI TIÊU BIỂU
+## V. Câu Nói Tiêu Biểu
 > *"Cây có cội, nước có nguồn. Tiếng sáo của ta không phải để giết chóc, mà là tiếng khóc của rừng già vọng về."*
 
 > *"Nhân Tộc các người dùng lời nói để che giấu tâm tư. Tinh Linh chúng ta dùng âm nhạc để phơi bày linh hồn. Ngươi dám nghe khúc nhạc này của ta không?"*

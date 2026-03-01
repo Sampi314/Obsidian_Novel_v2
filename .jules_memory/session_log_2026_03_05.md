@@ -1,7 +1,7 @@
 # SESSION LOG - 2026-03-05
 
 ## TỔNG QUAN
-- **Agent:** Tổng Quản (Jules)
+- **Đại Diện:** Tổng Quản (Jules)
 - **Mục Tiêu:** Tiếp tục cốt truyện chính (Chương 34) và xây dựng thế giới xung quanh Rừng Thiên Trụ.
 
 ## CÔNG VIỆC ĐÃ HOÀN THÀNH
@@ -15,8 +15,8 @@
     - Nội dung: Nhóm nhân vật tìm thấy nơi trú ẩn an toàn, phát hiện bí mật về hệ thống trấn áp địa mạch và xác định điểm đến tiếp theo là Nam Cương.
 
 3.  **Cập Nhật Hồ Sơ:**
-    - Cập nhật `HỒ_SƠ_THẾ_GIỚI.md` với các mục mới.
-    - Cập nhật `QUẢN_LÝ_ARC_TRUYỆN.md` với tiến độ mới.
+    - Cập nhật `Hồ_Sơ_Thế_Giới.md` với các mục mới.
+    - Cập nhật `Quản_Lý_Arc_Truyện.md` với tiến độ mới.
 
 ## BÀI HỌC & GHI CHÚ
 - Việc thêm các yếu tố nhỏ như `Sa Hồ` giúp thế giới cảm giác sống động hơn là chỉ có quái vật giết chóc.

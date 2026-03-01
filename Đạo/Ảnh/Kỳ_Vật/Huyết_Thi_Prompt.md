@@ -2,9 +2,9 @@
 source: Đạo/Kỳ_Vật/Huyết_Thi.md
 ---
 
-# HUYẾT THI (BLOOD CORPSE)
+# Huyết Thi (Blood Corpse)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong rừng rậm hoặc hang động tối tăm.
@@ -20,7 +20,7 @@ Trong rừng rậm hoặc hang động tối tăm.
 -   Tông màu chủ đạo: Đỏ máu (Blood Red), Đen (Black), Xanh lục (Rotten Green).
 -   Cảm giác: Đáng sợ (Scary), Bạo lực (Violent), Bẩn thỉu (Filthy).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (realistic),
@@ -32,5 +32,5 @@ horror theme, gore, visceral texture.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, clean, handsome, bright, cartoon.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Tạo cảm giác xác chết mới sống lại, còn vương máu tươi.

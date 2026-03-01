@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Lục_Tiêu.md
 ---
 
-# LỤC TIÊU (LUC TIEU)
+# Lục Tiêu (Luc Tieu)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong rừng sâu, ngồi trên cành cây cổ thụ hoặc bên suối.
@@ -20,7 +20,7 @@ Trong rừng sâu, ngồi trên cành cây cổ thụ hoặc bên suối.
 -   Tông màu chủ đạo: Xanh lá (Green), Nắng vàng (Sunlight), Nâu gỗ (Wood).
 -   Cảm giác: Thơ mộng (Poetic), Bình yên (Peaceful), Tự nhiên (Natural).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),
@@ -32,6 +32,6 @@ soft lighting, ethereal, beautiful, serene.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, urban, metal, armor, weapon, aggressive.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Đôi tai nhọn đặc trưng của Tinh Linh.
 -   Màu xanh của tóc và trang phục nên hài hòa với môi trường rừng.

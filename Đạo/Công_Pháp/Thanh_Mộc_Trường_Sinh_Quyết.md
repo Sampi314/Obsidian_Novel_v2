@@ -1,18 +1,18 @@
-# THANH MỘC TRƯỜNG SINH QUYẾT (青木長生訣)
+# Thanh Mộc Trường Sinh Quyết (青木長生訣)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Tên Gọi:** Thanh Mộc Trường Sinh Quyết (còn gọi tắt là Thanh Mộc Quyết).
 - **Phẩm Cấp:** Hoàng Cấp Cực Phẩm (Yellow Rank Ultimate Grade).
 - **Hệ:** Mộc (Wood) / Phong (Wind) - Hỗ trợ.
 - **Nguồn Gốc:** Bí kíp của một vị tán tu ẩn danh ngộ ra từ quy luật sinh trưởng của cây cối trong rừng già, được Lâm Phong tìm thấy trong một hang động cổ.
 - **Đặc Điểm:** Chú trọng vào sự dẻo dai, bền bỉ và khả năng thích nghi. Tuy không có sức công phá hủy diệt như Hỏa hay Lôi, nhưng lại cực kỳ khó chịu trong giao tranh kéo dài.
 
-## II. YÊU CẦU TU LUYỆN
+## Ii. Yêu Cầu Tu Luyện
 - **Căn Cơ:** Mộc Linh Căn (bắt buộc), tốt nhất là Song Linh Căn Mộc-Phong để phát huy tối đa tốc độ.
 - **Tâm Tính:** Phóng khoáng, yêu tự do, hòa mình với thiên nhiên.
 - **Vật Dẫn:** Cần hấp thụ linh khí từ các loại cây cổ thụ ngàn năm hoặc Mộc Tinh để bồi bổ kinh mạch.
 
-## III. CẢNH GIỚI & KHẨU QUYẾT
+## Iii. Cảnh Giới & Khẩu Quyết
 
 ### Tầng 1: Mộc Khí Nhập Thể (木氣入體)
 Dẫn dụ mộc linh khí vào cơ thể, cường hóa da thịt trở nên dẻo dai như vỏ cây, tăng khả năng hồi phục vết thương nhẹ.
@@ -50,7 +50,7 @@ Kết hợp Mộc khí và Phong khí, giúp thân pháp nhẹ nhàng như lá b
 > **Dịch Nghĩa:**
 > (Vạn cây cùng lòng, cỏ cây đều là lính.)
 
-## IV. HỆ THỐNG CHIÊU THỨC
+## Iv. Hệ Thống Chiêu Thức
 
 ### 1. Mộc Độn Thuật (木遁術)
 - **Yêu Cầu:** Tầng 1 (Mộc Khí Nhập Thể).
@@ -77,7 +77,7 @@ Kết hợp Mộc khí và Phong khí, giúp thân pháp nhẹ nhàng như lá b
 - **Mô Tả:** Điều khiển lá cây xung quanh hóa cứng như sắt, đồng loạt phóng về phía kẻ địch như mưa ám khí.
 - **Phạm Vi:** Diện rộng, thích hợp đối phó với số đông kẻ địch yếu (như đàn Huyết Thi).
 
-## V. GHI CHÚ
+## V. Ghi Chú
 - Đây là công pháp trấn thân của **Lâm Phong (Truy Phong Khách)**.
 - Điểm yếu lớn nhất là sợ Hỏa công pháp mạnh (như *Cửu Chuyển Đan Hỏa Quyết*).
 - Khi tu luyện đến đỉnh cao, có thể ngộ ra "Sinh Mệnh Chi Đạo", tuổi thọ tăng cao.

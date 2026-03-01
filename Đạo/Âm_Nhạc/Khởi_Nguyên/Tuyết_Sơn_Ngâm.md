@@ -1,10 +1,10 @@
 ---
-title: Tuyết Sơn Ngâm
+Tiêu Đề: Tuyết Sơn Ngâm
 era: Khởi Nguyên
 dạng_cấu_trúc: C1 - Cổ Phong Thuần Túy
 ---
 
-# TUYẾT SƠN NGÂM (雪山吟)
+# Tuyết Sơn Ngâm (雪山吟)
 
 ### 📏 Cấu Trúc Đã Chọn
 **C1 - Cổ Phong Thuần Túy (Pure Ancient Style):**
@@ -12,7 +12,7 @@ dạng_cấu_trúc: C1 - Cổ Phong Thuần Túy
 - **Phong cách:** Trang trọng, sử dụng từ ngữ Hán Việt cổ kính, hạn chế từ ngữ hiện đại.
 - **Nhạc cụ:** Cổ cầm, Tiêu, Trống trận (nhẹ nhàng).
 
-### I. NGUYÊN VĂN TIẾNG TRUNG (CHINESE LYRICS)
+### I. Nguyên Văn Tiếng Trung (Chinese Lyrics)
 **(Verse A)**
 北風卷地白草折
 胡天八月即飛雪
@@ -37,7 +37,7 @@ dạng_cấu_trúc: C1 - Cổ Phong Thuần Túy
 嘆世間，多紛擾
 不如歸去寂寥
 
-### II. PHIÊN ÂM HÁN VIỆT (SINO-VIETNAMESE LYRICS)
+### Ii. Phiên Âm Hán Việt (Sino-Vietnamese Lyrics)
 **(Verse A)**
 Bắc phong quyển địa bạch thảo chiết
 Hồ thiên bát nguyệt tức phi tuyết
@@ -62,7 +62,7 @@ Mộng hồi thủ, lộ thiều thiều
 Thán thế gian, đa phân nhiễu
 Bất như quy khứ tịch liêu
 
-### III. DỊCH SÁT NGHĨA (VIETNAMESE MEANING)
+### Iii. Dịch Sát Nghĩa (Vietnamese Meaning)
 **(Verse A)**
 Gió bắc cuốn mặt đất làm cỏ trắng gãy rạp
 Trời Hồ tháng tám tuyết đã rơi đầy
@@ -87,7 +87,7 @@ Mộng quay đầu nhìn lại, đường xa thăm thẳm
 Than thế gian, lắm điều phiền nhiễu
 Chi bằng quay về với sự tịch liêu cô độc
 
-### IV. THÔNG TIN BỔ SUNG
+### Iv. Thông Tin Bổ Sung
 *   **Ý Nghĩa/Thông Điệp:** Bài hát mượn cảnh tuyết rơi ở biên ải (lấy ý từ thơ Sầm Tham và Vương Duy) để nói lên nỗi lòng cô độc nhưng thanh cao của người tu tiên. Giữa thiên nhiên khắc nghiệt, đạo tâm vẫn sáng như băng tuyết.
-*   **Suno AI Style Prompt:**
+*   **Suno AI Style Chỉ Lệnh:**
     > Traditional Chinese Instruments, Ethereal Vocals, Guqin Solo, Melancholic, Slow Tempo, Cinematic Atmosphere, Xianxia, Ice, Snow, Solitude, Cultivation.

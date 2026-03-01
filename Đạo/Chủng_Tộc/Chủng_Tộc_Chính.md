@@ -1,9 +1,9 @@
-# CÁC CHỦNG TỘC CHÍNH (CỐ NGUYÊN GIỚI)
+# Các Chủng Tộc Chính (Cố Nguyên Giới)
 
-## TỔNG QUAN
+## Tổng Quan
 Trong kỷ nguyên Khởi Nguyên, Cố Nguyên Giới được chia sẻ bởi **Thập Đại Chủng Tộc**. Mỗi tộc đều nắm giữ những thế mạnh riêng biệt, tạo nên sự cân bằng mong manh giữa các thế lực trong thiên địa.
 
-## CHI TIẾT 10 CHỦNG TỘC
+## Chi Tiết 10 Chủng Tộc
 
 ### 1. Nhân Tộc (人族)
 - **Đặc Trưng:** Tuy sinh sau đẻ muộn và thể chất yếu đuối, nhưng Nhân Tộc sở hữu trí tuệ và khả năng sáng tạo vô hạn. Họ là bậc thầy của Đan, Khí, Trận, Phù.

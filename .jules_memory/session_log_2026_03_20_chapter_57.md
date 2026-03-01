@@ -1,14 +1,14 @@
 # SESSION LOG - 2026-03-20
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản.
+- **Đại Diện:** Tổng Quản.
 - **Mục Tiêu:** Viết tiếp Chương 57, cập nhật hồ sơ Ngô Công Trưởng Lão và Vạn Độc Môn.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - [x] **Cập Nhật Hồ Sơ:** Ngô Công Trưởng Lão (Thêm chiêu thức *Thiên Túc Hóa Hình*, *Vạn Ngô Phệ Tâm*).
 - [x] **Cập Nhật Hồ Sơ:** Vạn Độc Môn (Thêm bí mật về *Cấm Trận* và *Bóng Ma Sư Đệ*).
 - [x] **Viết Chương:** Chương 57: Huyết Chiến Ngô Công.
-- [x] **Cập Nhật Hệ Thống:** HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md.
+- [x] **Cập Nhật Hệ Thống:** Hồ_Sơ_Thế_Giới.md, Báo_Cáo_Chất_Lượng.md.
 
 ## 3. THAY ĐỔI CỦA NGƯỜI DÙNG
 - Không phát hiện thay đổi trực tiếp nào từ người dùng trong phiên này.

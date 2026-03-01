@@ -2,9 +2,9 @@
 Link_Gốc: Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00037_Vòng_Vây_Huyết_Lang.md
 ---
 
-# Prompt: Vòng Vây Huyết Lang
+# Chỉ Lệnh: Vòng Vây Huyết Lang
 
-## Description
+## Mô Tả
 Khung cảnh chiến đấu ác liệt giữa nhóm Diệp Tĩnh Sương và bầy Huyết Độc Lang trong Rừng Huyết Độc.
 
 ## Setting

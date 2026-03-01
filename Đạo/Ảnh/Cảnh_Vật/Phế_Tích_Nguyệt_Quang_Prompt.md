@@ -2,9 +2,9 @@
 source: Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md
 ---
 
-# PHẾ TÍCH NGUYỆT QUANG (MOONLIGHT RUINS)
+# Phế Tích Nguyệt Quang (Nguyệt Quang Phế Tích)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một tàn tích cổ đại nằm giữa đầm lầy đen ngòm, được bao bọc bởi ánh sáng bạc.
@@ -20,7 +20,7 @@ Một tàn tích cổ đại nằm giữa đầm lầy đen ngòm, được bao 
 -   Tông màu chủ đạo: Bạc (Silver), Xanh lục bảo (Emerald Green), Đen (Black swamp).
 -   Cảm giác: An toàn (Safe haven), Thần bí (Mystical), Hy vọng (Hope).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (fantasy landscape),
@@ -33,5 +33,5 @@ magical atmosphere, sanctuary, night time, full moon above.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, fire, destruction, demons, modern.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Tạo sự tương phản rõ rệt giữa "vùng an toàn" (ánh sáng bạc, cỏ xanh) và "vùng chết" (đầm lầy đen, khí độc).

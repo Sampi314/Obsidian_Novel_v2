@@ -2,9 +2,9 @@
 source: Đạo/Thế_Giới_Và_Thời_Gian/Nam_Cương.md
 ---
 
-# NAM CƯƠNG (SOUTHERN BORDER)
+# Nam Cương (Southern Border)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Vùng rừng núi nhiệt đới rậm rạp, hoang sơ và nguy hiểm.
@@ -20,7 +20,7 @@ Vùng rừng núi nhiệt đới rậm rạp, hoang sơ và nguy hiểm.
 -   Tông màu chủ đạo: Xanh lá (Green), Xanh rêu (Mossy), Sương mù (Mist).
 -   Cảm giác: Bí hiểm (Mysterious), Tràn đầy sức sống (Vibrant but deadly).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),
@@ -33,5 +33,5 @@ high fantasy style.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, desert, snow, city, buildings, dry.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Tạo chiều sâu bằng sương mù và các lớp cây cối.

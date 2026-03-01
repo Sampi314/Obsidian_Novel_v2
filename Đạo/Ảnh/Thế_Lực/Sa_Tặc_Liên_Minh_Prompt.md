@@ -2,9 +2,9 @@
 source: Đạo/Thế_Lực/Sa_Tặc_Liên_Minh.md
 ---
 
-# SA TẶC LIÊN MINH (SAND BANDIT ALLIANCE)
+# Sa Tặc Liên Minh (Sand Bandit Alliance)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một doanh trại tạm bợ hoặc pháo đài ẩn mình trong hẻm núi sa mạc.
@@ -20,7 +20,7 @@ Một doanh trại tạm bợ hoặc pháo đài ẩn mình trong hẻm núi sa 
 -   Tông màu chủ đạo: Nâu đất (Brown), Vàng cát (Sand), Đỏ (Red fire).
 -   Cảm giác: Thô ráp (Rough), Hỗn loạn (Chaotic), Hiếu chiến (Aggressive).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (concept art),
@@ -33,5 +33,5 @@ wild, dangerous, chaotic, tribal vibe.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, clean, orderly, royal palace, ice, snow.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Thể hiện sự "ngoài vòng pháp luật" và sự thích nghi với môi trường khắc nghiệt.

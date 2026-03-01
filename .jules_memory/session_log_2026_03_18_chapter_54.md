@@ -1,4 +1,4 @@
-# Session Log: 2026-03-18 (Chapter 54)
+# Session Log: 2026-03-18 (Chương 54)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Viết tiếp Chương 54, khai thác địa danh Huyết Vụ Lâm và giới thiệu kẻ địch mới.
@@ -11,8 +11,8 @@
   - Cập nhật `Đạo/Thế_Lực/Vạn_Độc_Môn.md`: Thêm "Vạn Độc Thất Sát".
 
 - **Cập nhật hệ thống:**
-  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Cập nhật danh sách chương và địa danh.
-  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Log công việc.
+  - `Đạo/Hồ_Sơ_Thế_Giới.md`: Cập nhật danh sách chương và địa danh.
+  - `Đạo/Báo_Cáo_Chất_Lượng.md`: Log công việc.
 
 ## 3. Thay Đổi Của Người Dùng
 - Không phát hiện thay đổi trực tiếp.

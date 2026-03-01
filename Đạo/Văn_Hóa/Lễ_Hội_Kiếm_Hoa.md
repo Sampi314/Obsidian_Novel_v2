@@ -1,13 +1,13 @@
-# LỄ HỘI KIẾM HOA (劍花節)
+# Lễ Hội Kiếm Hoa (劍花節)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Tên Gọi:** Lễ Hội Kiếm Hoa (Sword Blossom Festival) / Cửu Hoa Xuân Hội.
 - **Thời Gian:** Trọng Xuân (giữa mùa xuân), kéo dài 9 ngày 9 đêm, bắt đầu khi Kiếm Hoa khai nở.
 - **Địa Điểm:** Cửu Hoa Kiếm Tông, Cửu Hoa Sơn, vùng Đông Hoang.
 - **Tần Suất:** Hàng năm, vào mùa xuân.
 - **Quy Mô:** Đại lễ lớn nhất trong năm của Cửu Hoa Kiếm Tông, thu hút kiếm tu và tán tu từ khắp Cố Nguyên Lục Địa.
 
-## II. KIẾM HOA — LINH HOA KỲ DỊ
+## Ii. Kiếm Hoa — Linh Hoa Kỳ Dị
 
 ### Nguồn gốc
 - **Kiếm Hoa** (劍花) là loại linh hoa cực kỳ quý hiếm, chỉ sinh trưởng tại Cửu Hoa Sơn, nơi Kim linh khí và Mộc linh khí giao hòa tinh thuần.
@@ -24,7 +24,7 @@
 - Năm nào Kiếm Hoa nở nhiều và rực rỡ, tông môn sẽ hưng vượng, có thể xuất hiện thiên tài kiếm đạo.
 - Năm nào Kiếm Hoa tàn sớm hoặc nở ít, là điềm bất tường, ứng với tai kiếp sắp đến.
 
-## III. MỤC ĐÍCH
+## Iii. Mục Đích
 
 1. **Tuyển Đệ Tử:** Thông qua Cửu Hoa Thí để phát hiện và chiêu mộ thiên tài kiếm tu từ khắp thiên hạ.
 2. **Giao Lưu Kiếm Thuật:** Các kiếm tu tứ phương về đây luận kiếm, trao đổi kiếm ý, lấy kiếm hội hữu.
@@ -32,7 +32,7 @@
 4. **Kính Lễ Tiền Nhân:** Tưởng nhớ các bậc tiền bối kiếm tu đã khuất, đặc biệt là Cửu Hoa Chân Nhân — tổ sư khai sơn.
 5. **Kinh Thương Giao Dịch:** Các thương hội, phường rèn kiếm, đan sư tứ phương đến mở chợ trao đổi linh dược, pháp khí, kiếm phổ.
 
-## IV. NGHI THỨC CHÍNH
+## Iv. Nghi Thức Chính
 
 ### 1. Khai Hoa Lễ (Ngày thứ 1)
 - Tông Chủ đích thân rút kiếm chém vào phiến đá "Kiếm Hoa Đài" tại Thiên Hoa Phong, kiếm khí kích phát linh mạch bên dưới, khiến toàn bộ Kiếm Hoa trên chín đỉnh đồng loạt nở rộ.
@@ -88,14 +88,14 @@ Cuộc thi kiếm pháp quy mô lớn nhất, dành cho cả đệ tử nội m�
 
 - Cánh hoa tàn được thu gom cẩn thận, luyện thành "Kiếm Hoa Phấn" — loại bột quý có thể bảo dưỡng kiếm khí hoặc pha vào mực để viết kiếm phổ.
 
-## V. TRANG PHỤC
+## V. Trang Phục
 
 - **Đệ tử Cửu Hoa Kiếm Tông:** Mặc kiếm phục chính thức — áo trường bào trắng viền Kim, thắt lưng bạc, thanh kiếm đeo bên hông trái. Trên ngực thêu hoa sen 9 cánh bằng chỉ Kim tuyến.
 - **Kiếm tu khách phương:** Tự do trang phục, nhưng theo lệ bất thành văn, phần lớn kiếm tu đều mặc áo đơn sắc (trắng, xanh, hoặc xám) và đeo kiếm — thể hiện sự tôn trọng kiếm đạo.
 - **Phụ nữ:** Nữ kiếm tu thường mặc kiếm phục cải lương, gọn gàng, tóc búi cao cài trâm hình lưỡi kiếm hoặc cánh hoa kiếm.
 - **Trong Kiếm Hoa Yến:** Trang phục tự do hơn, cho phép mặc lễ phục hoa lệ, nhưng vẫn phải đeo kiếm.
 
-## VI. ẨM THỰC ĐẶC TRƯNG
+## Vi. Ẩm Thực Đặc Trưng
 
 ### Rượu Kiếm Hoa Nương (劍花釀)
 - Loại rượu đặc sản nổi tiếng nhất của Cửu Hoa Kiếm Tông, chỉ được ủ một lần mỗi năm vào mùa Kiếm Hoa.
@@ -109,14 +109,14 @@ Cuộc thi kiếm pháp quy mô lớn nhất, dành cho cả đệ tử nội m�
 - **Cửu Hoa Bánh:** Bánh hình hoa sen 9 cánh, nhân đậu xanh trộn mật ong rừng, chỉ làm trong dịp lễ hội.
 - **Kiếm Cốt Nhục:** Thịt linh thú ướp rượu Kiếm Hoa Nương rồi quay trên lửa Huyền Thiết, vỏ giòn ruột mềm, hương thơm lan tỏa vài dặm.
 
-## VII. Ý NGHĨA VĂN HÓA
+## Vii. Ý Nghĩa Văn Hóa
 
 - **Truyền thống ngàn năm:** Lễ Hội Kiếm Hoa đã tồn tại gần 3000 năm, kể từ khi Cửu Hoa Chân Nhân khai sơn lập phái. Đây là biểu tượng cho sức sống bất diệt của kiếm đạo Cửu Hoa.
 - **Phát hiện thiên tài:** Rất nhiều kiếm tu lừng danh trong lịch sử được phát hiện thông qua Cửu Hoa Thí. Lễ hội là cánh cửa để những thiếu niên bình phàm thay đổi vận mệnh.
 - **Giao lưu chính-tà:** Dù Cửu Hoa Kiếm Tông thuộc Chính Đạo, trong thời gian lễ hội, mọi kiếm tu bất kể xuất thân đều được hoan nghênh (trừ Ma Tu). Đây là dịp hiếm hoi mà ranh giới chính-tà trở nên mờ nhạt, chỉ còn lại kiếm đạo thuần túy.
 - **Triết lý Sinh-Diệt:** Kiếm Hoa nở và tàn trong 9 ngày phản ánh triết lý cốt lõi của Cửu Hoa Kiếm Quyết — "Kiếm là sinh mạng, hoa là vô thường". Mọi rực rỡ rồi cũng qua đi, chỉ có kiếm tâm là bất diệt.
 
-## VIII. GIAI THOẠI NỔI TIẾNG
+## Viii. Giai Thoại Nổi Tiếng
 
 ### Giai thoại 1: "Kiếm Hoa Thí Năm Cửu Thiên"
 - Cách đây khoảng 800 năm, trong kỳ Cửu Hoa Thí, có một thiếu niên áo vải rách rưới, chân đất, tay cầm thanh kiếm gỉ sét tìm đến Cửu Hoa Sơn xin ứng thí.
@@ -140,7 +140,7 @@ Cuộc thi kiếm pháp quy mô lớn nhất, dành cho cả đệ tử nội m�
 - Khi đọc xong, nàng không rút kiếm mà chỉ đưa tay ra — bàn tay trống không. Toàn trường im lặng, rồi Tông Chủ đứng dậy vỗ tay, phong nàng làm "Kiếm Thi Nhân" đời đó. Ông nói: *"Kiếm tối cao là vô kiếm. Thơ hay nhất là thơ không cần kiếm để chứng minh."*
 - Bài thơ được khắc lên Kiếm Hoa Bích, trở thành bài thơ kiếm nổi tiếng nhất trong lịch sử thi Văn Kiếm.
 
-## IX. CÂU NÓI LIÊN QUAN
+## Ix. Câu Nói Liên Quan
 
 > *"Mỗi năm Kiếm Hoa lại nở, nhưng kiếm tu đến xem lại không còn giống năm ngoái. Hoa vẫn vậy, người đã khác. Đó chính là kiếm đạo."*
 > — Cửu Hoa Kiếm Tôn đời thứ 7, Bạch Hoa Kiếm Tôn

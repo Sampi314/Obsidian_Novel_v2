@@ -2,9 +2,9 @@
 source: Đạo/Luyện_Khí/Thanh_Liên_Kiếm.md
 ---
 
-# THANH LIÊN KIẾM (GREEN LOTUS SWORD)
+# Thanh Liên Kiếm (Green Lotus Sword)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Bay lơ lửng trên hồ sen hoặc cầm trên tay.
@@ -20,7 +20,7 @@ Bay lơ lửng trên hồ sen hoặc cầm trên tay.
 -   Tông màu chủ đạo: Xanh lục (Green), Trắng (White), Hồng phấn (Lotus Pink hints).
 -   Cảm giác: Tự nhiên (Natural), Sống động (Lively), Sắc bén (Sharp).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (object focus),
@@ -31,5 +31,5 @@ taoist magical weapon, elegant design, ethereal.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, blood, fire, evil, jagged, rusty.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Kết hợp hình ảnh kiếm và hoa sen một cách hài hòa.

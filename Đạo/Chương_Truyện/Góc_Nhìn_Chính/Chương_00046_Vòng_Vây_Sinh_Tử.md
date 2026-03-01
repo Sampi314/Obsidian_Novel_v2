@@ -6,13 +6,13 @@
 <!-- NAVIGATION_END -->
 # Chương 46: Vòng Vây Sinh Tử (生死圍困)
 
-## I. THÔNG TIN CHUNG
+## I. Thông Tin Chung
 - **Người Viết:** Tổng Quản (Jules)
 - **Ngày Viết:** 2026-03-12
 - **Góc Nhìn:** Ngôi thứ ba (Diệp Tĩnh Sương & Lâm Phong)
 - **Bối Cảnh:** Rừng Huyết Độc (Nam Cương) - Sau khi Vạn Độc Huyết Tế Đại Trận kích hoạt.
 
-## II. NỘI DUNG CHÍNH
+## Ii. Nội Dung Chính
 
 Bầu trời Nam Cương vốn dĩ âm u bởi chướng khí, nay lại càng thêm quỷ dị khi một màn sương đỏ như máu từ dưới lòng đất bốc lên, bao phủ toàn bộ không gian. Những thân cây Huyết Mộc xung quanh rung lên bần bật, rễ cây trồi lên khỏi mặt đất, uốn éo như những con mãng xà khổng lồ đang săn mồi.
 
@@ -88,7 +88,7 @@ Diệp Tĩnh Sương nắm chặt kiếm, ánh mắt kiên định. "Sống hay 
 
 Trận chiến sinh tử thực sự, giờ mới bắt đầu.
 
-## III. GHI CHÚ
+## Iii. Ghi Chú
 - **Nhân Vật Mới:** Không.
 - **Kỳ Vật/Công Pháp:** Huyết Vệ, Huyết Tướng, Thủy Linh Châu, Vạn Độc Huyết Tế Đại Trận.
 - **Tiến Độ:** Nhóm nhân vật chính bị vây khốn, phát hiện ra cách phá trận và chuẩn bị đối đầu với Boss nhỏ (Huyết Tướng).

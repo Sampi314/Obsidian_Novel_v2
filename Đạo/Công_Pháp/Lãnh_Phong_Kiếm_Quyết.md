@@ -1,20 +1,20 @@
-# LÃNH PHONG KIẾM QUYẾT (冷風劍訣)
+# Lãnh Phong Kiếm Quyết (冷風劍訣)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Phẩm Cấp:** Huyền Cấp Thượng Phẩm.
 - **Thuộc Tính:** Phong (Gió) kết hợp Hàn (Lạnh).
 - **Nguồn Gốc:** Sáng tạo bởi một tán tu vô danh tại Bắc Băng, sau thất truyền và được Triệu Thanh Hằng tìm thấy trong một hang động băng giá.
 
-## II. CƠ CHẾ HOẠT ĐỘNG
+## Ii. Cơ Chế Hoạt Động
 - **Nguyên Lý:** Lấy tốc độ của gió làm chủ đạo, gia thêm cái lạnh thấu xương của băng tuyết. Kiếm chiêu không chỉ nhanh mà còn mang theo kình lực sắc bén như dao cắt của gió bão.
 - **Đặc Điểm:** Tập trung vào việc "bào mòn" và "cắt xẻ". Hàn khí xâm nhập qua vết thương, làm đông cứng máu huyết và kinh mạch từ bên trong, khiến đối thủ càng đánh càng chậm chạp.
 
-## III. CÔNG DỤNG & HIỆU QUẢ
+## Iii. Công Dụng & Hiệu Quả
 - **Lợi Ích Tu Luyện:** Gia tăng tốc độ phản xạ và thân pháp, giúp người tu luyện di chuyển linh hoạt như gió. Tâm cảnh trở nên tĩnh lặng, khó bị dao động.
 - **Khả Năng Chiến Đấu:** Thiên về tốc độ (Speed) và cấu rỉa (DPS). Thích hợp cho lối đánh du kích, đánh nhanh rút gọn, khiến đối thủ mệt mỏi và suy kiệt dần.
 - **Hỗ Trợ Khác:** Khả năng điều khiển luồng gió giúp di chuyển trên không (Ngự Phong) dễ dàng hơn ở các cấp độ thấp.
 
-## IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 4 tầng)
+## Iv. Các Tầng Tu Luyện & Khẩu Quyết (Phân Chia Thành 4 Tầng)
 
 ### 1. Tầng 1: Tật Phong Vô Ảnh (疾風無影)
 - **Mô Tả:** Luyện kiếm nhanh như gió lốc, chú trọng thân pháp và tốc độ xuất chiêu, khiến đối thủ không kịp nhìn thấy bóng kiếm.
@@ -80,7 +80,7 @@
         > Hư không vỡ nát, quay về với bụi trần chìm đắm.
         > Chỉ có một thanh kiếm, cô độc vĩnh hằng.
 
-## V. HỆ THỐNG CHIÊU THỨC (7 Chiêu)
+## V. Hệ Thống Chiêu Thức (7 Chiêu)
 
 1.  **Phong Tuyết Vô Ngân (風雪無痕):**
     - **Mô Tả:** Thân pháp di chuyển nương theo chiều gió, nhẹ nhàng và phiêu hốt như bông tuyết rơi. Khi thi triển, để lại tàn ảnh mờ ảo, khiến đối phương khó xác định vị trí thực.
@@ -117,12 +117,12 @@
     - **Yêu Cầu:** Đạt Tầng 4 (Tịch Diệt Hư Phong).
     - **Uy Lực Tăng Tiến:** Ở đỉnh cao, một kiếm này chém ra không gây tiếng động, không có ánh sáng, hoàn toàn vô ảnh vô tung (Vô Hình Kiếm).
 
-## VI. YÊU CẦU & HẠN CHẾ
+## Vi. Yêu Cầu & Hạn Chế
 - **Công Hiệu Đặc Biệt:** Thanh tẩy tâm ma giúp tâm cảnh tĩnh lặng, cơ thể kháng hàn tốt.
 - **Tác Dụng Phụ:** Nếu vận khí quá gấp hoặc cưỡng ép thi triển chiêu thức vượt cấp, hàn khí sẽ chạy ngược vào kinh mạch, gây ra chứng "Phong Hàn Nhập Thể", làm đau nhức xương cốt.
 - **Yêu Cầu Tu Luyện:** Đòi hỏi lượng linh lực lớn để duy trì tốc độ và hàn khí.
 
-## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
+## Vii. Luận Giải & Chú Thích (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
 - **Ý Nghĩa Khẩu Quyết:** Lãnh Phong Kiếm Quyết là sự kết hợp giữa "Động" (Gió/Tốc độ) và "Tĩnh" (Lạnh/Đóng băng). Mâu thuẫn này tạo nên sức mạnh đặc biệt: bên ngoài cuồng loạn như bão tố nhưng bên trong lạnh lùng tĩnh lặng. Tầng 4 (Tịch Diệt) là sự thăng hoa của triết lý này: khi tốc độ đạt cực hạn, mọi thứ dường như đứng yên (Thuyết tương đối hẹp trong tu tiên?).
 - **Hình Thức Khẩu Quyết:** Thơ Tứ Ngôn (4 chữ), nhịp điệu nhanh và mạnh, mô phỏng tiếng gió rít.

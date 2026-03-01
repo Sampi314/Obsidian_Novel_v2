@@ -1,14 +1,14 @@
-# THIÊN ÂM BĂNG PHÁCH (天音冰魄)
+# Thiên Âm Băng Phách (天音冰魄)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Tên Gọi:** Thiên Âm Băng Phách (Heavenly Sound Ice Soul).
-- **Phân Loại:** Bí Kỹ (Martial Art / Skill Set) - Hệ Âm Luật & Băng.
+- **Phân Loại:** Bí Kỹ (Martial Art / Kỹ Năng Set) - Hệ Âm Luật & Băng.
 - **Phẩm Cấp:** Thiên Cấp Hạ Phẩm (Đi kèm với Băng Tâm Quyết).
 - **Thuộc Tính:** Âm (Sound) kết hợp Hàn (Ice).
 - **Vũ Khí Yêu Cầu:** Đàn Cầm, Tiêu, Sáo hoặc nhạc cụ bất kỳ làm từ Băng Ngọc.
 - **Xuất Xứ:** Tuyệt học trấn phái của Huyền Băng Cung, dùng tiếng đàn để điều khiển hàn khí giết địch vô hình.
 
-## II. KHẨU QUYẾT TỔNG CƯƠNG
+## Ii. Khẩu Quyết Tổng Cương
 > **Nguyên văn:**
 > 音杀无形 (Âm sát vô hình)
 > 魄动惊心 (Phách động kinh tâm)
@@ -21,12 +21,12 @@
 > Cái lạnh thấu vào tận xương tủy.
 > Linh hồn đứt đoạn nơi cửu tuyền.
 
-## III. CÔNG DỤNG & HIỆU QUẢ
+## Iii. Công Dụng & Hiệu Quả
 1.  **Sát Thương Diện Rộng:** Tiếng đàn lan xa vạn dặm, có thể tấn công cùng lúc hàng ngàn kẻ địch yếu hơn.
 2.  **Khống Chế Tâm Trí:** Gây ảo giác, làm rối loạn kinh mạch đối phương, khiến họ tự tàn sát lẫn nhau (Hiệu quả tăng 20% với Yêu thú).
 3.  **Hồi Phục Đồng Minh:** Một khúc nhạc êm dịu có thể xoa dịu tâm ma, chữa trị vết thương do hỏa độc gây ra.
 
-## IV. HỆ THỐNG CHIÊU THỨC (MOVE SYSTEM)
+## Iv. Hệ Thống Chiêu Thức (Move Hệ Thống)
 
 ### 1. Tuyết Lạc Vô Thanh (Tuyết Rơi Không Tiếng Động)
 - **Yêu Cầu:** Trúc Cơ Kỳ.
@@ -55,7 +55,7 @@
 - **Uy Lực Tăng Tiến:**
   - *Đại Thành:* Đóng băng vĩnh viễn một vùng rộng 100 dặm, không thể phá giải trừ khi có lửa Tam Muội Chân Hỏa.
 
-## V. LUẬN GIẢI & CHÚ THÍCH (NGOẠI TRUYỆN)
+## V. Luận Giải & Chú Thích (Ngoại Truyện)
 - **Hình Thức Văn Học:** Khẩu quyết 4 chữ theo lối cổ.
 - **Cảm Hứng:** Lấy cảm hứng từ sự tích "Bá Nha Tử Kỳ" nhưng biến tấu thành sát chiêu. Tiếng đàn không chỉ để tri âm mà còn để đoạt mạng.
 - **Lưu Ý:** Người luyện Thiên Âm Băng Phách dễ bị tổn thương thính giác nếu không dùng linh lực bảo vệ tai. Nhiều đệ tử Huyền Băng Cung khi về già thường bị điếc.

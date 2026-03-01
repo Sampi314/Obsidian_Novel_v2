@@ -1,4 +1,4 @@
-# Session Log: 2026-03-13 (Chapter 49)
+# Session Log: 2026-03-13 (Chương 49)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Tiếp nối mạch truyện tại Mộc Linh Trận Địa, cung cấp thông tin quan trọng (lore dump) về Vạn Độc Huyết Tế Đại Trận và thiết lập mục tiêu tiếp theo cho nhóm nhân vật.
@@ -13,8 +13,8 @@
     - Kết thúc chương bằng sự kiện quân địch tấn công (Cliffhanger).
 
 - **Cập nhật hệ thống:**
-  - `HỒ_SƠ_THẾ_GIỚI.md`: Thêm Chương 49 vào danh sách.
-  - `BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành chương mới.
+  - `Hồ_Sơ_Thế_Giới.md`: Thêm Chương 49 vào danh sách.
+  - `Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành chương mới.
 
 ## 3. Thay Đổi Của Người Dùng
 - Không phát hiện thay đổi trực tiếp (comment/TODO) trong phiên này.

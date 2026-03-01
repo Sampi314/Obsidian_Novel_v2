@@ -2,9 +2,9 @@
 source: Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md
 ---
 
-# RỪNG HUYẾT ĐỘC (BLOOD POISON FOREST)
+# Rừng Huyết Độc (Blood Poison Forest)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một khu rừng cổ thụ nằm sâu trong Đầm Lầy Tử Thần (Death Swamp). Không khí ẩm ướt, ngột ngạt và đầy mùi tanh của máu.
@@ -21,12 +21,12 @@ Một khu rừng cổ thụ nằm sâu trong Đầm Lầy Tử Thần (Death Swa
 -   Tông màu chủ đạo: Đen (bóng tối), Lục (độc tố), Đỏ (máu/nguy hiểm).
 -   Góc nhìn: Từ dưới thấp nhìn lên, thấy sự hùng vĩ đáng sợ của rừng già, hoặc góc nhìn người thứ nhất đang lội qua bùn lầy.
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), dark fantasy environment, xianxia horror style, ancient twisted trees bleeding red sap, thick poisonous green mist covering the ground, black swamp mud, ominous atmosphere, giant red vines wrapping around trunks, scattered bones, eerie phosphorescent mushrooms, dim lighting, cinematic composition, hyper-realistic texture, gloom, despair.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Tập trung vào cảm giác "ngột ngạt" và "độc hại".
 -   Màu đỏ của nhựa cây phải nổi bật trên nền xanh lục của sương mù để tạo tương phản mạnh.

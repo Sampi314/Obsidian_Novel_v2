@@ -4,9 +4,9 @@
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)
+# Chương Mẫu: Tuyết Sơn Độc Hành (雪山独行)
 
-## I. THÔNG TIN CHUNG
+## I. Thông Tin Chung
 - **Số Thứ Tự:** Chương Ngoại Truyện 1.
 - **Tiêu Đề:** Tuyết Sơn Độc Hành - Khúc Nhạc Của Gió.
 - **Nhân Vật Chính:** Lý Tuyết Ưng.
@@ -14,7 +14,7 @@
 
 ---
 
-## II. NỘI DUNG CHƯƠNG
+## Ii. Nội Dung Chương
 
 Gió bấc rít gào như tiếng oan hồn ai oán, cuốn theo những bông tuyết sắc lạnh như dao lam cắt vào da thịt. Trên đỉnh Tuyết Sơn cao nhất Bắc Băng, nơi quanh năm chỉ có màu trắng xóa và cái lạnh thấu xương, một bóng người thanh mảnh đang ngồi tĩnh tọa.
 

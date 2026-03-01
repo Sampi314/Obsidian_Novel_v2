@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Hứa_Nhược_Thủy.md
 ---
 
-# HỨA NHƯỢC THỦY (HUA RUO SHUI)
+# Hứa Nhược Thủy (Hua Ruo Shui)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong thư phòng sang trọng hoặc giữa sa mạc mênh mông.
@@ -20,7 +20,7 @@ Trong thư phòng sang trọng hoặc giữa sa mạc mênh mông.
 -   Tông màu chủ đạo: Vàng cát (Sand Gold), Xanh lam (Blue), Vàng kim (Gold).
 -   Cảm giác: Sang trọng (Luxurious), Quyền uy (Authoritative), Thông minh (Intelligent).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),
@@ -33,6 +33,6 @@ warm lighting, golden hour.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, young girl, loli, warrior, armor, dirty.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Đặc điểm nhận dạng quan trọng: Trâm cài đầu hình bọ cạp vàng.
 -   Thể hiện sự đối lập giữa vẻ ngoài dịu dàng và ánh mắt toan tính.

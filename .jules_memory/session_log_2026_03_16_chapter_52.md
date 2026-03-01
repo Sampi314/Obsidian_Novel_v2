@@ -1,4 +1,4 @@
-# Session Log: 2026-03-16 (Chapter 52)
+# Session Log: 2026-03-16 (Chương 52)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Hoàn thành nhiệm vụ đột kích Mắt Trận Phụ thứ 2.
@@ -13,15 +13,15 @@
     - Hậu quả của việc phá trận: Kẻ địch điên cuồng truy đuổi.
 
 - **Cập nhật hệ thống:**
-  - `HỒ_SƠ_THẾ_GIỚI.md`: Thêm Chương 52 vào danh sách và nhật ký cập nhật.
-  - `BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+  - `Hồ_Sơ_Thế_Giới.md`: Thêm Chương 52 vào danh sách và nhật ký cập nhật.
+  - `Báo_Cáo_Chất_Lượng.md`: Ghi nhận hoàn thành công việc.
 
 ## 3. Thay Đổi Của Người Dùng
 - Không phát hiện thay đổi trực tiếp (comment/TODO) trong phiên này.
 
 ## 4. Bài Học & Ghi Chú
-- **Action Pacing:** Nhịp độ trận chiến cần nhanh, dứt khoát. Tránh lan man vào hội thoại trong lúc giao tranh.
-- **Character Growth:** Hứa Nhược Thủy đang dần thoát khỏi vai trò "công chúa được bảo vệ" để trở thành một đồng đội đáng tin cậy.
+- **Hành Động Pacing:** Nhịp độ trận chiến cần nhanh, dứt khoát. Tránh lan man vào hội thoại trong lúc giao tranh.
+- **Nhân Vật Growth:** Hứa Nhược Thủy đang dần thoát khỏi vai trò "công chúa được bảo vệ" để trở thành một đồng đội đáng tin cậy.
 
 ## 5. Kế Hoạch Tiếp Theo
 - Viết **Chương 53**: Vòng Vây Siết Chặt.

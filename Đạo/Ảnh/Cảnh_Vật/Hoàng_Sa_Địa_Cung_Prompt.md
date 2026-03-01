@@ -2,9 +2,9 @@
 source: Đạo/Thế_Giới_Và_Thời_Gian/Hoàng_Sa_Địa_Cung.md
 ---
 
-# HOÀNG SA ĐỊA CUNG (YELLOW SAND UNDERGROUND PALACE)
+# Hoàng Sa Địa Cung (Yellow Sand Underground Palace)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một cung điện ngầm khổng lồ dưới lòng sa mạc, kiến trúc cổ đại huy hoàng nhưng hoang phế.
@@ -20,7 +20,7 @@ Một cung điện ngầm khổng lồ dưới lòng sa mạc, kiến trúc cổ
 -   Tông màu chủ đạo: Vàng kim (Gold/Sand), Nâu đất (Brown), Bóng tối (Shadows).
 -   Cảm giác: Cổ kính (Ancient), Bí ẩn (Mysterious), Tráng lệ (Majestic but decayed).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (concept art),
@@ -33,6 +33,6 @@ cinematic lighting, epic scale.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, sky, sun, forest, water, modern.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Thể hiện sự tráng lệ của một vương quốc đã mất.
 -   Màu vàng của cát và đá là chủ đạo.

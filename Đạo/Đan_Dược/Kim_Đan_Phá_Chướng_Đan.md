@@ -1,4 +1,4 @@
-# HỒ SƠ ĐAN DƯỢC: KIM ĐAN PHÁ CHƯỚNG ĐAN
+# Hồ Sơ Đan Dược: Kim Đan Phá Chướng Đan
 
 - **Tên Đan Dược:** Kim Đan Phá Chướng Đan (金丹破障丹)
 - **Phẩm Cấp:** Tam Phẩm Thượng Đẳng (Huyền Giai)

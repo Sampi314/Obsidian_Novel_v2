@@ -2,9 +2,9 @@
 source: Đạo/Thế_Giới_Và_Thời_Gian/Trạm_Dừng_Chân_Số_7.md
 ---
 
-# TRẠM DỪNG CHÂN SỐ 7 (THE SEVENTH REST STOP)
+# Trạm Dừng Chân Số 7 (The Seventh Rest Stop)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một thị trấn nhỏ kiên cố nằm ở rìa sa mạc.
@@ -20,7 +20,7 @@ Một thị trấn nhỏ kiên cố nằm ở rìa sa mạc.
 -   Tông màu chủ đạo: Vàng đất (Earth Yellow), Nâu đỏ (Reddish Brown).
 -   Cảm giác: Nhộn nhịp (Busy), Kiên cố (Fortified), Bụi bặm (Dusty).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (concept art),
@@ -33,5 +33,5 @@ oasis town vibe, trade route.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, snow, rain, forest, futuristic, sci-fi.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Thể hiện sự pha trộn giữa kiến trúc quân sự (tường thành) và thương mại (chợ búa).

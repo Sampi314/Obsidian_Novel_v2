@@ -2,7 +2,7 @@
 dạng_cấu_trúc: Dark Orchestral / Ritual Ambient
 ---
 
-# VẠN ĐỘC CA (萬毒歌)
+# Vạn Độc Ca (萬毒歌)
 
 ### 📍 Cấu Trúc Đã Chọn
 - **Tác Giả:** Nhạc Sĩ Thiên Cung (AI).
@@ -11,7 +11,7 @@ dạng_cấu_trúc: Dark Orchestral / Ritual Ambient
 - **Cảm Xúc:** Rùng rợn, u ám, đe dọa.
 - **Bối Cảnh:** Bài hát vang lên trong thung lũng Vạn Độc Môn mỗi khi màn đêm buông xuống, hoặc khi đại quân Vạn Độc Môn xuất trận.
 
-### I. NGUYÊN VĂN TIẾNG TRUNG (CHINESE LYRICS)
+### I. Nguyên Văn Tiếng Trung (Chinese Lyrics)
 **(Verse 1)**
 萬蟲噬骨，血如霜
 百毒攻心，淚斷腸
@@ -44,7 +44,7 @@ dạng_cấu_trúc: Dark Orchestral / Ritual Ambient
 萬毒... 歸宗...
 血染... 山河...
 
-### II. PHIÊN ÂM HÁN VIỆT (SINO-VIETNAMESE LYRICS)
+### Ii. Phiên Âm Hán Việt (Sino-Vietnamese Lyrics)
 **(Verse 1)**
 Vạn trùng phệ cốt, huyết như sương
 Bách độc công tâm, lệ đoạn trường
@@ -77,7 +77,7 @@ Vĩnh sinh... Vĩnh sinh...
 Vạn độc... quy tông...
 Huyết nhiễm... sơn hà...
 
-### III. DỊCH SÁT NGHĨA (VIETNAMESE MEANING)
+### Iii. Dịch Sát Nghĩa (Vietnamese Meaning)
 **(Verse 1)**
 Vạn con sâu ăn xương, máu lạnh như sương
 Trăm loại độc tấn công tim, nước mắt đau đứt ruột
@@ -110,7 +110,7 @@ Vĩnh sinh... Vĩnh sinh...
 Vạn độc... quay về tông môn...
 Máu nhuộm... núi sông...
 
-### IV. THÔNG TIN BỔ SUNG
+### Iv. Thông Tin Bổ Sung
 *   **Ý Nghĩa/Thông Điệp:** Bài hát thể hiện sự tàn khốc và tham vọng của Vạn Độc Môn. Họ coi thường sinh mạng, sử dụng độc dược và tà thuật để đạt được sức mạnh và sự bất tử, bất chấp luân thường đạo lý.
-*   **Suno AI Style Prompt:**
+*   **Suno AI Style Chỉ Lệnh:**
     > Dark Orchestral, Ritual Ambient, Eerie, Tribal Drums, Bone Flute, Male Choir Chanting, Slow Tempo, Ominous, Horror Atmosphere, Cinematic.

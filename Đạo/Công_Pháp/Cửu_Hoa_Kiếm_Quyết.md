@@ -1,20 +1,20 @@
-# CỬU HOA KIẾM QUYẾT (九花劍訣)
+# Cửu Hoa Kiếm Quyết (九花劍訣)
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Phẩm Cấp:** Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Hóa Thần Cảnh).
 - **Thuộc Tính:** Kim (Chủ đạo), Mộc (Hỗ trợ).
 - **Nguồn Gốc:** Công pháp trấn phái của Cửu Hoa Kiếm Tông, do tổ sư Cửu Hoa chân nhân sáng tạo khi ngắm hoa nở trên đỉnh núi tuyết.
 
-## II. CƠ CHẾ HOẠT ĐỘNG
+## Ii. Cơ Chế Hoạt Động
 - **Nguyên Lý:** Lấy sắc bén của Kim khí kết hợp với sinh cơ của Mộc khí. Kiếm khí không chỉ sắc bén mà còn biến ảo, tụ tán vô thường như hoa nở hoa tàn.
 - **Đặc Điểm:** Khi thi triển, kiếm khí ngưng tụ thành hình hoa sen 9 cánh. Mỗi cánh hoa là một đạo kiếm khí cực mạnh. Khi chạm vào mục tiêu, "hoa" sẽ "nở" (bùng nổ), tạo ra sát thương diện rộng và cắt nát đối thủ từ bên trong.
 
-## III. CÔNG DỤNG & HIỆU QUẢ
+## Iii. Công Dụng & Hiệu Quả
 - **Lợi Ích Tu Luyện:** Gia tăng cảm ngộ về "Sinh - Diệt" trong tự nhiên, giúp tâm hồn thanh tịnh nhưng ý chí sắc bén.
 - **Khả Năng Chiến Đấu:** Thiên về kỹ thuật và sự biến hóa ảo diệu, gây khó khăn cho đối thủ trong việc phòng thủ. Sức sát thương diện rộng rất tốt.
 - **Hỗ Trợ Khác:** Năng lực cảm nhận linh khí tinh tế của hoa cỏ giúp phát hiện các loại thảo dược quý hiếm hoặc cạm bẫy ẩn mình trong tự nhiên.
 
-## IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 5 tầng)
+## Iv. Các Tầng Tu Luyện & Khẩu Quyết (Phân Chia Thành 5 Tầng)
 
 ### 1. Tầng 1: Hàm Bao Đãi Phóng (含苞待放)
 - **Mô Tả:** Giai đoạn tích tụ kiếm ý, như nụ hoa e ấp chờ ngày nở rộ. Kiếm khí ẩn trong vỏ bọc, chưa lộ ra sự sắc bén nhưng chứa đựng nội lực thâm hậu.
@@ -96,7 +96,7 @@
         > Nơi hoa không phải là hoa, kiếm không hiện ra hình dáng kiếm.
         > Sống lâu cùng trời đất, cùng nỗ lực với mặt trăng mặt trời.
 
-## V. HỆ THỐNG CHIÊU THỨC (7 Chiêu)
+## V. Hệ Thống Chiêu Thức (7 Chiêu)
 
 1.  **Nhất Hoa Độc Phóng (一花獨放):**
     - **Mô Tả:** Tập trung toàn bộ kiếm ý vào một điểm, tạo ra một bông sen kiếm khí duy nhất xoay tròn tốc độ cao, xuyên phá phòng ngự đối phương.
@@ -133,12 +133,12 @@
     - **Yêu Cầu:** Đạt Tầng 5 (Cửu Hoa Quy Nhất).
     - **Uy Lực Tăng Tiến:** Ở đỉnh cao, một kiếm này có thể phá vỡ không gian, tạo ra vết nứt hư không.
 
-## VI. YÊU CẦU & HẠN CHẾ
+## Vi. Yêu Cầu & Hạn Chế
 - **Công Hiệu Đặc Biệt:** Kiếm khí sắc bén, biến ảo khôn lường, có khả năng mê hoặc đối thủ.
 - **Tác Dụng Phụ:** Nếu tâm tính không vững, dễ bị "Hoa Ma" xâm nhập - tức là lạc lối trong vẻ đẹp của chiêu thức mà quên đi sát ý thực sự, dẫn đến kiếm pháp hoa mỹ nhưng vô dụng (Hữu hình vô thần).
 - **Yêu Cầu Tu Luyện:** Người tu luyện cần có Kim Linh Căn (tốt nhất là Thiên Linh Căn) và ngộ tính cao về "Sinh - Diệt".
 
-## VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)
+## Vii. Luận Giải & Chú Thích (Ngoại Truyện)
 *Lưu ý: Phần này không tồn tại trong nội dung sách công pháp mà là phần phân tích dành cho người đọc để hiểu rõ hơn về triết lý và ẩn ý của tác giả.*
 - **Ý Nghĩa Khẩu Quyết:** Cửu Hoa Kiếm Quyết mô tả vòng đời của một đóa hoa cũng như đời người. Từ lúc "Hàm Bao" (trẻ thơ/tiềm năng) đến "Sơ Trán" (thanh xuân), rồi "Bách Hoa" (trưởng thành/rực rỡ), đến "Lạc Hoa" (già đi/suy tàn), và cuối cùng là "Quy Nhất" (trở về với đất mẹ/đạo).
 - **Hình Thức Khẩu Quyết:** Thơ Tứ Ngôn (4 chữ) và Lục Ngôn (6 chữ), mang âm hưởng nhẹ nhàng, thanh thoát như hoa rơi.

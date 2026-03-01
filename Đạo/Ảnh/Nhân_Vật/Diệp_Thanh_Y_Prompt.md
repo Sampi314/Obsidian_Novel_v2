@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Diệp_Thanh_Y.md
 ---
 
-# DIỆP THANH Y (YE QING YI)
+# Diệp Thanh Y (Ye Qing Yi)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một y nữ trẻ tuổi đang hái thuốc trong rừng sâu hoặc đang phơi thuốc tại sân Đan Dược Cốc. Không gian yên bình, tràn đầy sức sống của cây cỏ.
@@ -20,7 +20,7 @@ Một y nữ trẻ tuổi đang hái thuốc trong rừng sâu hoặc đang phơ
 -   Tông màu chủ đạo: Xanh lá (Green), Trắng (White), Nắng vàng nhẹ (Soft Sunlight).
 -   Cảm giác: Bình yên, Chữa lành (Healing), Tinh khiết.
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),
@@ -32,6 +32,6 @@ cinematic lighting, depth of field.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, armor, weapon, aggressive.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Không vẽ nhân vật quá quyến rũ hay hở hang.
 -   Tập trung vào sự "Lương y từ mẫu" và sự kết nối với thiên nhiên.

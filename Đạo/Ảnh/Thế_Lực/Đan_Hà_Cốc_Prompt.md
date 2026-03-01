@@ -2,9 +2,9 @@
 source: Đạo/Thế_Lực/Đan_Hà_Cốc.md
 ---
 
-# ĐAN HÀ CỐC (CINNABAR RIVER VALLEY)
+# Đan Hà Cốc (Cinnabar River Valley)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một thung lũng nóng bỏng với dòng sông dung nham chảy qua.
@@ -20,7 +20,7 @@ Một thung lũng nóng bỏng với dòng sông dung nham chảy qua.
 -   Tông màu chủ đạo: Đỏ (Red), Cam (Orange), Đen (Black Rock).
 -   Cảm giác: Nhiệt huyết (Passionate), Mạnh mẽ (Powerful), Công nghiệp (Industrial - alchemy scale).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),
@@ -34,5 +34,5 @@ intense atmosphere, heat, magical fire.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, water, ice, snow, cold, green forest.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Nhấn mạnh vào ánh sáng từ dung nham và lửa.

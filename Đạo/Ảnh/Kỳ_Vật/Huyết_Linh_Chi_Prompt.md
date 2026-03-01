@@ -2,9 +2,9 @@
 source: Đạo/Kỳ_Vật/Huyết_Linh_Chi.md
 ---
 
-# HUYẾT LINH CHI (BLOOD SPIRIT MUSHROOM)
+# Huyết Linh Chi (Blood Spirit Mushroom)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Mọc dưới gốc một cây Huyết Mộc (Blood Wood) cổ thụ đã chết khô trong Rừng Huyết Độc. Xung quanh là sương mù độc hại màu hồng nhạt.
@@ -22,12 +22,12 @@ Mọc dưới gốc một cây Huyết Mộc (Blood Wood) cổ thụ đã chết
 -   Tông màu chủ đạo: Đỏ thẫm (nấm), Đen (nền), Hồng nhạt (sương mù).
 -   Hiệu ứng: Glowing, ethereal, mysterious.
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), macro shot of a mystical mushroom cluster, blood spirit lingzhi, crimson red kidney-shaped fungi glowing with ruby light, growing on dead black tree roots, smooth jade-like texture with vein details, surrounded by faint pink toxic mist, dark fantasy xianxia style, magical atmosphere, life amidst death, cinematic lighting, depth of field, sharp focus on the mushroom.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Nấm phải trông vừa đẹp đẽ (như ngọc) vừa có chút đáng sợ (như nội tạng đang sống).
 -   Ánh sáng từ nấm là điểm nhấn chính trong bức tranh tối tăm.

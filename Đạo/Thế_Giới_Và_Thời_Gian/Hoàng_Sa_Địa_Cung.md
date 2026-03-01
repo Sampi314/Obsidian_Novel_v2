@@ -1,12 +1,12 @@
-# ĐỊA DANH: HOÀNG SA ĐỊA CUNG
+# Địa Danh: Hoàng Sa Địa Cung
 
-## I. TỔNG QUAN
+## I. Tổng Quan
 - **Tên:** Hoàng Sa Địa Cung (黄沙地宫 - Yellow Sand Underground Palace).
 - **Vị Trí:** Nằm sâu dưới lòng đất, ẩn bên dưới khu vực trung tâm của [Lưu Sa Phế Tích](Lưu_Sa_Phế_Tích.md).
 - **Phân Loại:** Di tích Hoàng thất / Mộ táng cổ đại.
 - **Độ Nguy Hiểm:** Trúc Cơ (Trung - Hậu Kỳ).
 
-## II. ĐẶC ĐIỂM KIẾN TRÚC & MÔI TRƯỜNG
+## Ii. Đặc Điểm Kiến Trúc & Môi Trường
 - **Kiến Trúc:**
     - Được xây dựng hoàn toàn bằng "Hoàng Kim Sa Thạch" (đá sa thạch vàng kim), có khả năng tự phục hồi và thay đổi cấu trúc.
     - Phong cách kiến trúc cổ đại, tráng lệ nhưng u ám, với những bức tượng nhân sư và chiến binh đất nung khổng lồ.
@@ -16,7 +16,7 @@
     - Ánh sáng duy nhất đến từ những viên "Dạ Minh Châu" đã mờ đục gắn trên trần, tạo ra không gian tranh tối tranh sáng.
     - Trọng lực tại đây nặng hơn bên ngoài gấp 2 lần do ảnh hưởng của trận pháp Thổ hệ.
 
-## III. CÁC KHU VỰC CHÍNH
+## Iii. Các Khu Vực Chính
 1.  **Đại Sảnh Trầm Mặc (Entrance Hall):**
     - Nơi đầu tiên khi rơi xuống từ mặt đất. Sàn nhà đầy xương cốt của những kẻ thám hiểm xấu số.
     - Có 8 cửa ngõ dẫn vào sâu bên trong, nhưng chỉ có 1 "Sinh Môn" thay đổi theo canh giờ.
@@ -36,7 +36,7 @@
     - Chứa các công trình quan trọng nhất như: *Ngự Hoa Viên Hoàng Gia* (nơi trồng linh dược), *Tẩm Cung Hoàng Đế*, và lối vào *Long Huyệt* thực sự.
     - Kết nối với Rừng Huyết Độc qua một mạch nước ngầm bí ẩn.
 
-## IV. HỆ THỐNG CẠM BẪY & QUÁI VẬT
+## Iv. Hệ Thống Cạm Bẫy & Quái Vật
 - **Cạm Bẫy:**
     - *Cát Lún Ngược:* Cát từ dưới sàn phun lên trần nhà, ép nát nạn nhân.
     - *Mũi Tên Độc:* Hàng vạn mũi tên tẩm độc bắn ra từ tường khi dẫm sai gạch lát.
@@ -47,7 +47,7 @@
     - *Sa Hồn Vương (Boss):* Oán linh của Đại Tướng quân Hoàng Sa Quốc, trấn giữ Quảng Trường Hiến Tế.
     - *Thủy Quái Biến Dị:* Các sinh vật sống dưới Hồ Nguyệt Ảnh, bị biến đổi do ảnh hưởng của linh khí và độc tố trôi dạt từ Rừng Huyết Độc.
 
-## V. LỊCH SỬ & BÍ MẬT
+## V. Lịch Sử & Bí Mật
 - **Lịch Sử:**
     - Đây là lăng mộ chuẩn bị sẵn cho Hoàng Sa Vương, nhưng chưa kịp sử dụng thì vương quốc đã diệt vong.
     - Nó trở thành nơi trú ẩn cuối cùng của hoàng tộc và cận vệ trước khi bị chôn vùi.
@@ -55,6 +55,6 @@
     - Bức phù điêu tại Quảng Trường Hiến Tế không chỉ là tranh, mà là một phần của bản đồ chỉ dẫn đến "Long Mạch" của Tây Mạc - nơi [Long Cốt](../Kỳ_Vật/Long_Cốt.md) đang ngủ say.
     - [Hứa Thanh Vân](../Nhân_Vật/Hứa_Thanh_Vân.md) đã vô tình kích hoạt cơ quan tại đây, khiến toàn bộ Địa Cung thức tỉnh.
 
-## VI. LIÊN KẾT CỐT TRUYỆN
+## Vi. Liên Kết Cốt Truyện
 - Là bối cảnh chính của [Chương 15: Bí Mật Hoàng Sa](../Chương_Truyện/Góc_Nhìn_Chính/Chương_00015_Bí_Mật_Hoàng_Sa.md).
 - Nơi [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md) và [Lâm Phong](../Nhân_Vật/Lâm_Phong.md) tìm thấy Hứa Thanh Vân và khám phá ra âm mưu của [Vạn Độc Môn](../Thế_Lực/Vạn_Độc_Môn.md) (kẻ thù cũng đang tìm kiếm Long Cốt).

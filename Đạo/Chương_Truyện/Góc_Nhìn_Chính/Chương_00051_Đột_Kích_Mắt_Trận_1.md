@@ -6,13 +6,13 @@
 <!-- NAVIGATION_END -->
 # Chương 51: Đột Kích Mắt Trận (Phần 1) (突襲陣眼・上)
 
-## I. THÔNG TIN CHUNG
+## I. Thông Tin Chung
 - **Người Viết:** Tổng Quản (Jules)
 - **Ngày Viết:** 2026-03-15
 - **Góc Nhìn:** Ngôi thứ ba (Tổng quát)
 - **Bối Cảnh:** [Rừng Huyết Độc](../../Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md), khu vực phía Đông Nam, bên ngoài [Mộc Linh Trận Địa](../../Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md).
 
-## II. NỘI DUNG CHÍNH
+## Ii. Nội Dung Chính
 
 Bầu trời Rừng Huyết Độc vẫn một màu đỏ quạch như máu loãng, không trăng không sao, chỉ có sự tĩnh lặng chết chóc bao trùm.
 
@@ -82,7 +82,7 @@ Lâm Phong và Diệp Tĩnh Sương nhìn nhau, rồi gật đầu đồng ý.
 
 Họ tản ra ba hướng, chuẩn bị cho cuộc đột kích quyết định. Trong bóng tối, ánh mắt của những kẻ đi săn ánh lên tia sát khí lạnh lẽo, sẵn sàng xé toạc màn đêm của Vạn Độc Môn.
 
-## III. GHI CHÚ
+## Iii. Ghi Chú
 - **Stealth Mission:** Nhấn mạnh yếu tố ẩn nấp, tránh giao tranh không cần thiết.
 - **New Enemy:** Giới thiệu Huyết Nha (Blood Crows) làm tăng độ khó cho việc di chuyển.
 - **Tactics:** Phân chia vai trò rõ ràng: Hứa Nhược Thủy (Lure/Distract), Lâm Phong (Sniper/Support), Diệp Tĩnh Sương (Main DPS/Destroyer).

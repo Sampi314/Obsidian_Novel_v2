@@ -2,9 +2,9 @@
 source: Đạo/Nhân_Vật/Triệu_Thanh_Hằng.md
 ---
 
-# TRIỆU THANH HẰNG (TRIEU THANH HANG)
+# Triệu Thanh Hằng (Trieu Thanh Hang)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## Mô Tả Chi Tiết (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trên đường mòn mùa đông hoặc trong quán rượu tồi tàn.
@@ -20,7 +20,7 @@ Trên đường mòn mùa đông hoặc trong quán rượu tồi tàn.
 -   Tông màu chủ đạo: Xanh lam nhạt (Pale Blue), Xám (Grey), Trắng (White).
 -   Cảm giác: Lạnh lẽo (Cold), Cô đơn (Lonely), Tự do (Free).
 
-## GỢI Ý PROMPT (ENGLISH)
+## Gợi Ý Chỉ Lệnh (English)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),
@@ -32,6 +32,6 @@ muted colors, melancholic atmosphere, cool lighting.
 Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, fancy clothes, royal, jewelry, bright colors, happy.
 ```
 
-## GHI CHÚ CHO HỌA SĨ
+## Ghi Chú Cho Họa Sĩ
 -   Chiếc nón lá rách là điểm nhấn tạo nên vẻ phong trần.
 -   Vẻ mặt lạnh lùng nhưng có chút "say" của rượu và sự cô đơn.
