@@ -26,3 +26,4 @@
 - [Chương 79: Tử Chiến Đầm Lầy](Chương_00079_Tử_Chiến_Đầm_Lầy.md)
 - [Chương 80: Kết Cục Phệ Hồn](Chương_00080_Kết_Cục_Phệ_Hồn.md)
 - [Chương 81: Bí Cảnh Huyết Sát](Chương_00081_Bí_Cảnh_Huyết_Sát.md)
+- [Chương 82: Tẩy Tủy Huyết Trì](Chương_00082_Tẩy_Tủy_Huyết_Trì.md)
