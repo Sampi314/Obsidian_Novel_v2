@@ -1,7 +1,7 @@
 # VẠN HỎA PHẦN THIÊN TRẬN (萬火焚天陣)
 
 ## I. TỔNG QUAN
-- **Phẩm Cấp:** Cửu Cấp (Level 9 - Đủ sức ngăn cản Hóa Thần Kỳ, thậm chí đe dọa Luyện Hư Kỳ).
+- **Phẩm Cấp:** Cửu Cấp (Cấp Độ 9 - Đủ sức ngăn cản Hóa Thần Kỳ, thậm chí đe dọa Luyện Hư Kỳ).
 - **Loại Hình:** Hộ Sơn Đại Trận (Phòng thủ & Phản công).
 - **Công Dụng:** Biến toàn bộ khu vực Đan Hà Cốc thành một biển lửa thiêu đốt vạn vật, bảo vệ tông môn khỏi sự xâm nhập của ngoại địch.
 - **Nguồn Gốc:** Do Đan Hà Lão Tổ kết hợp với địa mạch núi lửa mà tạo thành.

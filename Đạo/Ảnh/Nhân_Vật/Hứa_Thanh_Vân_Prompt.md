@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Hứa_Thanh_Vân.md
 
 # HỨA THANH VÂN (HUA QING YUN)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Giữa sa mạc hoặc trong tàn tích cổ đại.
@@ -20,7 +20,7 @@ Giữa sa mạc hoặc trong tàn tích cổ đại.
 -   Tông màu chủ đạo: Trắng (White), Vàng đất (Earth/Sand), Xanh ngọc (Jade Green).
 -   Cảm giác: Hài hước (Comical), Nhiệt huyết (Energetic), Lạc lõng (Out of place).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),

@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Triệu_Thanh_Hằng.md
 
 # TRIỆU THANH HẰNG (TRIEU THANH HANG)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trên đường mòn mùa đông hoặc trong quán rượu tồi tàn.
@@ -20,7 +20,7 @@ Trên đường mòn mùa đông hoặc trong quán rượu tồi tàn.
 -   Tông màu chủ đạo: Xanh lam nhạt (Pale Blue), Xám (Grey), Trắng (White).
 -   Cảm giác: Lạnh lẽo (Cold), Cô đơn (Lonely), Tự do (Free).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),

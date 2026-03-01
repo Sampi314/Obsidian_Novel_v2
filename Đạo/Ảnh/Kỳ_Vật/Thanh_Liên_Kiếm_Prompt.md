@@ -4,7 +4,7 @@ source: Đạo/Luyện_Khí/Thanh_Liên_Kiếm.md
 
 # THANH LIÊN KIẾM (GREEN LOTUS SWORD)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Bay lơ lửng trên hồ sen hoặc cầm trên tay.
@@ -20,7 +20,7 @@ Bay lơ lửng trên hồ sen hoặc cầm trên tay.
 -   Tông màu chủ đạo: Xanh lục (Green), Trắng (White), Hồng phấn (Lotus Pink hints).
 -   Cảm giác: Tự nhiên (Natural), Sống động (Lively), Sắc bén (Sharp).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (object focus),

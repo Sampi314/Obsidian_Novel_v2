@@ -4,7 +4,7 @@ source: Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md
 
 # ĐẦM LẦY TỬ THẦN (DEATH SWAMP)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Vùng đầm lầy chết chóc, cây cối mục nát.
@@ -20,7 +20,7 @@ Vùng đầm lầy chết chóc, cây cối mục nát.
 -   Tông màu chủ đạo: Xám (Grey), Đen (Black), Xanh rêu (Moss Green).
 -   Cảm giác: Chết chóc (Deadly), U ám (Gloomy), Ẩm ướt (Damp).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (landscape),

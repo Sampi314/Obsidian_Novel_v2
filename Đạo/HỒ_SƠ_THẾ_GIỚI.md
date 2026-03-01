@@ -211,7 +211,7 @@
     - [Huyết Ma Tông](Thế_Lực/Huyết_Ma_Tông.md)
     - [Quỷ Thị Nam Cương](Thế_Lực/Quỷ_Thị_Nam_Cương.md)
     - [Bách Thú Sơn Trang](Thế_Lực/Bách_Thú_Sơn_Trang.md)
-- **Thiên Trụ Sơn (World Pillar):**
+- **Thiên Trụ Sơn (Thế Giới Pillar):**
     - [Long Cung](Thế_Lực/Long_Cung.md)
     - [Vũ Hoàng Các](Thế_Lực/Vũ_Hoàng_Các.md)
     - [Thiên Môn Kính Đài](Thế_Lực/Thiên_Môn_Kính_Đài.md)

@@ -2,7 +2,7 @@
 
 ## I. TỔNG QUAN
 - **Tên Gọi:** Thiên Âm Băng Phách (Heavenly Sound Ice Soul).
-- **Phân Loại:** Bí Kỹ (Martial Art / Skill Set) - Hệ Âm Luật & Băng.
+- **Phân Loại:** Bí Kỹ (Martial Art / Kỹ Năng Set) - Hệ Âm Luật & Băng.
 - **Phẩm Cấp:** Thiên Cấp Hạ Phẩm (Đi kèm với Băng Tâm Quyết).
 - **Thuộc Tính:** Âm (Sound) kết hợp Hàn (Ice).
 - **Vũ Khí Yêu Cầu:** Đàn Cầm, Tiêu, Sáo hoặc nhạc cụ bất kỳ làm từ Băng Ngọc.
@@ -26,7 +26,7 @@
 2.  **Khống Chế Tâm Trí:** Gây ảo giác, làm rối loạn kinh mạch đối phương, khiến họ tự tàn sát lẫn nhau (Hiệu quả tăng 20% với Yêu thú).
 3.  **Hồi Phục Đồng Minh:** Một khúc nhạc êm dịu có thể xoa dịu tâm ma, chữa trị vết thương do hỏa độc gây ra.
 
-## IV. HỆ THỐNG CHIÊU THỨC (MOVE SYSTEM)
+## IV. HỆ THỐNG CHIÊU THỨC (MOVE Hệ Thống)
 
 ### 1. Tuyết Lạc Vô Thanh (Tuyết Rơi Không Tiếng Động)
 - **Yêu Cầu:** Trúc Cơ Kỳ.

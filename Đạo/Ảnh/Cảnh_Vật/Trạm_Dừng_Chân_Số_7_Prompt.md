@@ -4,7 +4,7 @@ source: Đạo/Thế_Giới_Và_Thời_Gian/Trạm_Dừng_Chân_Số_7.md
 
 # TRẠM DỪNG CHÂN SỐ 7 (THE SEVENTH REST STOP)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một thị trấn nhỏ kiên cố nằm ở rìa sa mạc.
@@ -20,7 +20,7 @@ Một thị trấn nhỏ kiên cố nằm ở rìa sa mạc.
 -   Tông màu chủ đạo: Vàng đất (Earth Yellow), Nâu đỏ (Reddish Brown).
 -   Cảm giác: Nhộn nhịp (Busy), Kiên cố (Fortified), Bụi bặm (Dusty).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (concept art),

@@ -4,7 +4,7 @@ Loại: Cảnh Vật / Chiến Đấu
 Đối Tượng: Diệp Tĩnh Sương vs Huyết Độc Lang Vương
 ---
 
-# Prompt Mô Tả
+# Chỉ Lệnh Mô Tả
 
 **Phong Cách:** Anime Fantasy, Detailed, Atmospheric, Dark Fantasy, 8k resolution.
 

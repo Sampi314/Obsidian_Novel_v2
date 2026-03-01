@@ -1,6 +1,6 @@
 ---
-title: "Chương 28: Thử Thách Của Lục Ly"
-description: "Đối mặt với Hộ Pháp Tinh Linh Lục Ly và vượt qua ảo ảnh tâm ma để tiếp cận Long Cốt."
+Tiêu Đề: "Chương 28: Thử Thách Của Lục Ly"
+Mô Tả: "Đối mặt với Hộ Pháp Tinh Linh Lục Ly và vượt qua ảo ảnh tâm ma để tiếp cận Long Cốt."
 position: 28
 created_at: 2026-03-02
 authors:

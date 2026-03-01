@@ -211,13 +211,13 @@
 <p>console.error("speechSynthesis.speaking");</p>
 <p>return;</p>
 <p>}</p>
-<p>// Clone body to remove navigation before reading</p>
-<p>var content = document.body.cloneNode(true);</p>
-<p>var nav = content.querySelector("#chapter-navigation");</p>
+<p>// Clone body to Gỡ Bỏ navigation before reading</p>
+<p>var Nội Dung = document.body.cloneNode(true);</p>
+<p>var nav = Nội Dung.querySelector("#Chương-navigation");</p>
 <p>if (nav) {</p>
-<p>nav.remove();</p>
+<p>nav.Gỡ Bỏ();</p>
 <p>}</p>
-<p>var text = content.innerText;</p>
+<p>var text = Nội Dung.innerText;</p>
 <p>utterance = new SpeechSynthesisUtterance(text);</p>
 <p>utterance.lang = "vi-VN";</p>
 <p>synth.speak(utterance);</p>

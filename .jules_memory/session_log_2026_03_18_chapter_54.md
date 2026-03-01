@@ -1,4 +1,4 @@
-# Session Log: 2026-03-18 (Chapter 54)
+# Session Log: 2026-03-18 (Chương 54)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Viết tiếp Chương 54, khai thác địa danh Huyết Vụ Lâm và giới thiệu kẻ địch mới.

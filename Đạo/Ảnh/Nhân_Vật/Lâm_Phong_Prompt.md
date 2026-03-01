@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Lâm_Phong.md
 
 # LÂM PHONG (LAM PHONG)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Giữa sa mạc nắng cháy hoặc trong một tàn tích cổ đại.
@@ -20,7 +20,7 @@ Giữa sa mạc nắng cháy hoặc trong một tàn tích cổ đại.
 -   Tông màu chủ đạo: Vàng cam (Desert/Fire), Xám (Grey), Đỏ (Red).
 -   Cảm giác: Nóng bỏng (Heat), Bụi bặm (Gritty), Quyết tâm (Determined).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),

@@ -20,7 +20,7 @@ Hai trục này giao thoa với nhau --- một Kiếm Tu có thể theo Chính �
 
 ## II. PHÂN LOẠI THEO CHÍNH TÀ
 
-### 1. Chính Đạo (正道 - Orthodox Path)
+### 1. Chính Đạo (正道 - Orthodox Đường Dẫn)
 
 **Định nghĩa:** Tu luyện thuận theo Thiên Đạo, lấy tự nhiên làm gốc, lấy đạo tâm làm nền, không dùng phương pháp tổn người lợi mình.
 
@@ -49,7 +49,7 @@ Hai trục này giao thoa với nhau --- một Kiếm Tu có thể theo Chính �
 
 ---
 
-### 2. Ma Đạo (魔道 - Demonic Path)
+### 2. Ma Đạo (魔道 - Demonic Đường Dẫn)
 
 **Định nghĩa:** Tu luyện nghịch Thiên Đạo, dùng phương pháp tàn nhẫn, tổn người lợi mình để tăng tốc tu vi. Hấp thụ tinh huyết, nguyên thần, hoặc sinh cơ của người khác làm dưỡng chất.
 

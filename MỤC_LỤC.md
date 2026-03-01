@@ -2,7 +2,7 @@
 
 Chào mừng đến với trang mục lục tổng hợp của thế giới Tiên Hiệp 'Cố Nguyên'.
 
-## 📖 Cốt Truyện (Story)
+## 📖 Cốt Truyện (Câu Truyện)
 
 Các chương truyện được phân loại theo góc nhìn nhân vật:
 

@@ -1,8 +1,8 @@
 # Session Log - 2026-03-31 (Lệ Vô Tâm - Arc 2)
 
 ## 1. Thông tin phiên
-- **Role:** Tổng Quản
-- **Date:** 2026-03-31
+- **Vai Trò:** Tổng Quản
+- **Ngày:** 2026-03-31
 - **Focus:** Viết tiếp Arc 2 "Huyết Thủ Thư Sinh" cho Lệ Vô Tâm (Chương 54-56).
 
 ## 2. Các thay đổi đã thực hiện
@@ -20,7 +20,7 @@
 - **Cập nhật:** `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`
     - Ghi log hoạt động phiên làm việc.
 - **Cập nhật:** `.jules_memory/tong_quan_log.md` và `.jules_memory/Viet_Chuong_Truyen_Memory.md`
-    - Lưu lại tiến độ viết chương cho các Agent theo dõi.
+    - Lưu lại tiến độ viết chương cho các Đại Diện theo dõi.
 
 ## 3. Ghi chú cho phiên sau
 - Tiếp tục viết Chương 57: Cái Bẫy Liên Hoàn (Diễn biến tại Quỷ Khốc Cốc và Vạn Tinh Tuyệt Sát Trận).

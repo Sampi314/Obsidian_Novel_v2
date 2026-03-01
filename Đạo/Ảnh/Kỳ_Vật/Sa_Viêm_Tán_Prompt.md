@@ -4,7 +4,7 @@ source: Đạo/Đan_Dược/Sa_Viêm_Tán.md
 
 # SA VIÊM TÁN (SAND FLAME POWDER)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Đựng trong túi da mở miệng hoặc đổ ra tay.
@@ -20,7 +20,7 @@ source: Đạo/Đan_Dược/Sa_Viêm_Tán.md
 -   Tông màu chủ đạo: Đỏ cam (Orange Red), Nâu da (Leather Brown).
 -   Cảm giác: Nóng (Hot), Bụi bặm (Dusty), Thuốc (Medicine).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (macro shot),

@@ -4,7 +4,7 @@ source: Đạo/Thế_Lực/Sa_Tặc_Liên_Minh.md
 
 # SA TẶC LIÊN MINH (SAND BANDIT ALLIANCE)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một doanh trại tạm bợ hoặc pháo đài ẩn mình trong hẻm núi sa mạc.
@@ -20,7 +20,7 @@ Một doanh trại tạm bợ hoặc pháo đài ẩn mình trong hẻm núi sa 
 -   Tông màu chủ đạo: Nâu đất (Brown), Vàng cát (Sand), Đỏ (Red fire).
 -   Cảm giác: Thô ráp (Rough), Hỗn loạn (Chaotic), Hiếu chiến (Aggressive).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (concept art),

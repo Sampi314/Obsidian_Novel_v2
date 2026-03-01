@@ -4,7 +4,7 @@ source: Đạo/Kỳ_Vật/Huyết_Độc_Lang.md
 
 # HUYẾT ĐỘC LANG (BLOOD POISON WOLF)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong rừng đêm hoặc đầm lầy.
@@ -20,7 +20,7 @@ Trong rừng đêm hoặc đầm lầy.
 -   Tông màu chủ đạo: Tím đen (Dark Purple), Xám (Grey), Đỏ (Red eyes).
 -   Cảm giác: Hung dữ (Ferocious), Nhiễm độc (Toxic), Nhanh nhẹn (Agile).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (realistic),

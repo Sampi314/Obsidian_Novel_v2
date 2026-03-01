@@ -4,7 +4,7 @@ source: Đạo/Kỳ_Vật/Thiên_Tinh_Cổ.md
 
 # THIÊN TINH CỔ (CELESTIAL STAR GU)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Bò trên tay chủ nhân hoặc trong hũ nuôi.
@@ -17,10 +17,10 @@ Bò trên tay chủ nhân hoặc trong hũ nuôi.
 
 **Phong cách (Style):**
 -   Macro Photography / Fantasy Insect.
--   Tông màu chủ đạo: Đỏ tía (Purple Red), Trắng sao (Starlight White), Đen (Dark background).
+-   Tông màu chủ đạo: Đỏ tía (Purple Red), Trắng sao (Starlight White), Đen (Dark Bối Cảnh).
 -   Cảm giác: Linh thiêng (Mystical), Độc dược (Poisonous), Tinh xảo (Exquisite).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (macro shot),

@@ -2,7 +2,7 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-04-01 - Phần 1)
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Viết Chương 59 "Độc Cô Lão Quái Hài Lòng" và Chương 60 "Chuẩn Bị Cho Đại Sự" cho Arc 2 Lệ Vô Tâm.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM

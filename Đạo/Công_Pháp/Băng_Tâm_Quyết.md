@@ -103,7 +103,7 @@ Phá vỡ lớp băng bao bọc linh hồn để Nguyên Anh thoát ra, đạt �
 3.  **Tăng Tốc Độ Tu Luyện:** Ở nơi có tuyết rơi hoặc nhiệt độ thấp, tốc độ hấp thu linh khí tăng gấp đôi.
 4.  **Tác Dụng Phụ:** Người tu luyện dần trở nên lãnh cảm, ít nói, khó rung động trước tình cảm nam nữ (Dễ bị cô lập).
 
-## IV. HỆ THỐNG CHIÊU THỨC (MOVE SYSTEM)
+## IV. HỆ THỐNG CHIÊU THỨC (MOVE Hệ Thống)
 1.  **Băng Phong Thiên Lý (Yêu cầu Tầng 2):** Đóng băng mặt đất trong phạm vi 1 dặm, làm chậm kẻ địch 50%.
 2.  **Tuyết Hoa Kiếm Vũ (Yêu cầu Tầng 3):** Ngưng tụ bông tuyết thành kiếm khí, tấn công liên tục như bão tuyết. Uy lực tăng theo số lượng bông tuyết (Mỗi bông tăng 5% sát thương).
 3.  **Tuyệt Đối Linh Độ (Yêu cầu Tầng 4):** Hạ nhiệt độ xung quanh xuống mức thấp nhất có thể, đóng băng cả linh lực đối phương trong khoảnh khắc (Gây hiệu ứng Choáng 3 giây).

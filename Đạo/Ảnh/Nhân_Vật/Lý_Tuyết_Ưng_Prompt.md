@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Lý_Tuyết_Ưng.md
 
 # LÝ TUYẾT ƯNG (LI XUE YING)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trên đỉnh núi tuyết vĩnh cửu hoặc trong cung điện băng.
@@ -20,7 +20,7 @@ Trên đỉnh núi tuyết vĩnh cửu hoặc trong cung điện băng.
 -   Tông màu chủ đạo: Trắng (White), Bạc (Silver), Xanh dương nhạt (Ice Blue).
 -   Cảm giác: Thần thánh (Ethereal), Lạnh giá (Freezing), Quyền lực (Powerful).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (nano banana style),

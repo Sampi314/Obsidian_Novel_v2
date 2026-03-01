@@ -1,7 +1,7 @@
 # SESSION LOG - 2026-03-05
 
 ## TỔNG QUAN
-- **Agent:** Tổng Quản (Jules)
+- **Đại Diện:** Tổng Quản (Jules)
 - **Mục Tiêu:** Tiếp tục cốt truyện chính (Chương 34) và xây dựng thế giới xung quanh Rừng Thiên Trụ.
 
 ## CÔNG VIỆC ĐÃ HOÀN THÀNH

@@ -4,7 +4,7 @@ source: Đạo/Kỳ_Vật/Huyết_Linh_Chi.md
 
 # HUYẾT LINH CHI (BLOOD SPIRIT MUSHROOM)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Mọc dưới gốc một cây Huyết Mộc (Blood Wood) cổ thụ đã chết khô trong Rừng Huyết Độc. Xung quanh là sương mù độc hại màu hồng nhạt.
@@ -22,7 +22,7 @@ Mọc dưới gốc một cây Huyết Mộc (Blood Wood) cổ thụ đã chết
 -   Tông màu chủ đạo: Đỏ thẫm (nấm), Đen (nền), Hồng nhạt (sương mù).
 -   Hiệu ứng: Glowing, ethereal, mysterious.
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), macro shot of a mystical mushroom cluster, blood spirit lingzhi, crimson red kidney-shaped fungi glowing with ruby light, growing on dead black tree roots, smooth jade-like texture with vein details, surrounded by faint pink toxic mist, dark fantasy xianxia style, magical atmosphere, life amidst death, cinematic lighting, depth of field, sharp focus on the mushroom.

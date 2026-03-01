@@ -1,8 +1,8 @@
 # Session Log - 2026-03-24
 
 ## 1. Thông tin phiên
-- **Role:** Tổng Quản
-- **Date:** 2026-03-24
+- **Vai Trò:** Tổng Quản
+- **Ngày:** 2026-03-24
 - **Focus:** Viết tiếp Chương 61, mở rộng thế giới (Nấm Độc Lâm) và sinh vật (Nấm Mặt Quỷ).
 
 ## 2. Các thay đổi đã thực hiện

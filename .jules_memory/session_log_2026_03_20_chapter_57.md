@@ -1,7 +1,7 @@
 # SESSION LOG - 2026-03-20
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản.
+- **Đại Diện:** Tổng Quản.
 - **Mục Tiêu:** Viết tiếp Chương 57, cập nhật hồ sơ Ngô Công Trưởng Lão và Vạn Độc Môn.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM

@@ -1,4 +1,4 @@
-# Session Log: 2026-03-15 (Chapter 51)
+# Session Log: 2026-03-15 (Chương 51)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Tiếp nối mạch truyện, mô tả hành trình đột kích Mắt Trận Phụ thứ 2 của nhóm nhân vật chính.

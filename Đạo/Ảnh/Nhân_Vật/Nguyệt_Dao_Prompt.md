@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Nguyệt_Dao.md
 
 # NGUYỆT DAO (NGUYET DAO)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong khu rừng thần tiên (Vĩnh Hằng Sâm Lâm) vào ban đêm, dưới ánh trăng sáng rực.
@@ -20,7 +20,7 @@ Trong khu rừng thần tiên (Vĩnh Hằng Sâm Lâm) vào ban đêm, dưới �
 -   Tông màu chủ đạo: Bạc (Silver), Trắng (White), Xanh lục bảo (Emerald), Tím nhạt (Lavender).
 -   Cảm giác: Lộng lẫy (Majestic), Huyền ảo (Magical), Buồn bã (Melancholic).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (nano banana style),

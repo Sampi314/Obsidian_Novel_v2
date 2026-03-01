@@ -8,7 +8,7 @@
 - [x] Tạo hồ sơ Vạn Độc Môn (Tà Đạo, Nam Cương).
 - [x] Tạo công pháp Vạn Độc Chân Kinh.
 - [x] Tạo trận pháp Vạn Độc Phệ Tâm Trận.
-- [x] Sửa lỗi timeline Đan Hà Cốc (5000 năm -> Năm 80.000).
+- [x] Sửa lỗi Dòng Thời Gian Đan Hà Cốc (5000 năm -> Năm 80.000).
 - [x] Bồi đắp Huyền Băng Cung (Thêm Giai thoại & Bí mật).
 
 ## CÔNG VIỆC ĐÃ HOÀN THÀNH (BỔ SUNG)
@@ -22,13 +22,13 @@
     - Sáng lập: Năm 65.000 (phù hợp Thiên Sa Thương Đạo Khai Thông trong Niên Biểu).
     - Triết lý: "Thiên hạ chi lợi, giai quy sa hà."
     - Quan hệ: Trung lập, buôn bán với tất cả thế lực kể cả Vạn Độc Môn.
-    - Công pháp: Sa Hà Bảo Điển (chưa tạo chi tiết, chờ Agent Công Pháp).
+    - Công pháp: Sa Hà Bảo Điển (chưa tạo chi tiết, chờ Đại Diện Công Pháp).
     - Bí mật: Hội Chủ nghi Long Tộc/Cổ Nhân Tộc; Mật thất cổ đại dưới Bảo Tháp liên quan Lưu Sa Cổ Thành.
     - Tình hình hiện tại: Thương Đạo bị cướp phá bí ẩn (liên quan arc "Ngũ Phương Ám Lưu" Năm 100.000).
 
 ## LƯU Ý QUAN TRỌNG
-- Thiên Sa Thương Hội là thế lực TRUNG LẬP, không đứng về phe nào. Các Agent khác cần tôn trọng điều này khi viết tương tác.
-- Công pháp Sa Hà Bảo Điển và Sa Ảnh Quyết cần được Agent Công Pháp tạo chi tiết.
+- Thiên Sa Thương Hội là thế lực TRUNG LẬP, không đứng về phe nào. Các Đại Diện khác cần tôn trọng điều này khi viết tương tác.
+- Công pháp Sa Hà Bảo Điển và Sa Ảnh Quyết cần được Đại Diện Công Pháp tạo chi tiết.
 - Bí ẩn thân phận Hội Chủ có thể liên kết với Long Tộc arc hoặc Lưu Sa Cổ Thành arc.
 - Sự kiện cướp phá Thương Đạo cần được phát triển thêm trong arc hiện tại.
 

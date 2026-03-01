@@ -1,7 +1,7 @@
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC 2024-07-05
 
 ## 1. TỔNG QUAN
-- **Agent:** Tổng Quản (Jules).
+- **Đại Diện:** Tổng Quản (Jules).
 - **Mục tiêu:** Thực hiện chỉ dẫn của người dùng (TODOs) về việc hoàn thiện ngôn ngữ (Tiếng Trung) cho các hồ sơ công pháp và thơ ca.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
@@ -14,8 +14,8 @@
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tiến độ:** Đã giải quyết các TODO ưu tiên cao do người dùng để lại.
-- **Chất lượng:** Các file văn học và công pháp đang dần được chuẩn hóa về mặt ngôn ngữ (Trung - Việt) để tăng tính Tiên Hiệp cổ điển.
+- **Chất lượng:** Các Tệp Tin văn học và công pháp đang dần được chuẩn hóa về mặt ngôn ngữ (Trung - Việt) để tăng tính Tiên Hiệp cổ điển.
 
 ## 4. BÀI HỌC & GHI CHÚ
-- **Ưu tiên:** Chỉ dẫn trực tiếp của người dùng trong file (comment HTML) luôn là ưu tiên số 1.
-- **Cần làm:** Tiếp tục rà soát các file Thơ Ca khác (như `Đầm_Lầy_Dạ_Khúc`, `Khúc_Nhạc_Rừng_Xanh`) để thêm bản Tiếng Trung trong các phiên sau.
+- **Ưu tiên:** Chỉ dẫn trực tiếp của người dùng trong Tệp Tin (comment HTML) luôn là ưu tiên số 1.
+- **Cần làm:** Tiếp tục rà soát các Tệp Tin Thơ Ca khác (như `Đầm_Lầy_Dạ_Khúc`, `Khúc_Nhạc_Rừng_Xanh`) để thêm bản Tiếng Trung trong các phiên sau.

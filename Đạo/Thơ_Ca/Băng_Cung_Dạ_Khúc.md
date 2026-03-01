@@ -1,11 +1,11 @@
 # BĂNG CUNG DẠ KHÚC (冰宫夜曲)
 
 ## I. TỔNG QUAN
-- **Thể Loại:** Thất Ngôn Bát Cú Đường Luật (Seven-Character Octave Poem).
+- **Thể Loại:** Thất Ngôn Bát Cú Đường Luật (Seven-Nhân Vật Octave Poem).
 - **Chủ Đề:** Nỗi cô đơn của người tu luyện Băng Tâm Quyết giữa đêm trường Bắc Băng.
 - **Tác Giả:** Lý Tuyết Ưng.
 
-## II. NỘI DUNG (CONTENT)
+## II. NỘI DUNG (Nội Dung)
 
 ### 1. Nguyên Văn (Original Chinese)
 冰山绝顶独弹琴

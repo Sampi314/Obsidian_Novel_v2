@@ -1,6 +1,6 @@
 # Session Log - 2026-02-26
 
-**Agent:** Tổng Quản (Jules)
+**Đại Diện:** Tổng Quản (Jules)
 **Trạng Thái:** Hoàn Thành
 
 ## 1. Công Việc Đã Thực Hiện

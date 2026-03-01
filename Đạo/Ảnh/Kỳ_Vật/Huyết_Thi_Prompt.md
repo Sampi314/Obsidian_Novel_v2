@@ -4,7 +4,7 @@ source: Đạo/Kỳ_Vật/Huyết_Thi.md
 
 # HUYẾT THI (BLOOD CORPSE)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong rừng rậm hoặc hang động tối tăm.
@@ -20,7 +20,7 @@ Trong rừng rậm hoặc hang động tối tăm.
 -   Tông màu chủ đạo: Đỏ máu (Blood Red), Đen (Black), Xanh lục (Rotten Green).
 -   Cảm giác: Đáng sợ (Scary), Bạo lực (Violent), Bẩn thỉu (Filthy).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (realistic),

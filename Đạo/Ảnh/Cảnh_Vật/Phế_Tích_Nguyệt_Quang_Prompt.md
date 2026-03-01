@@ -4,7 +4,7 @@ source: Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md
 
 # PHẾ TÍCH NGUYỆT QUANG (MOONLIGHT RUINS)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một tàn tích cổ đại nằm giữa đầm lầy đen ngòm, được bao bọc bởi ánh sáng bạc.
@@ -20,7 +20,7 @@ Một tàn tích cổ đại nằm giữa đầm lầy đen ngòm, được bao 
 -   Tông màu chủ đạo: Bạc (Silver), Xanh lục bảo (Emerald Green), Đen (Black swamp).
 -   Cảm giác: An toàn (Safe haven), Thần bí (Mystical), Hy vọng (Hope).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (fantasy landscape),

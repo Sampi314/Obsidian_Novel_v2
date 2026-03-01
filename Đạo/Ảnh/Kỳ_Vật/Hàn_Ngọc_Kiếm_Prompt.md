@@ -4,7 +4,7 @@ source: Đạo/Luyện_Khí/Hàn_Ngọc_Kiếm.md
 
 # HÀN NGỌC KIẾM (COLD JADE SWORD)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Cắm trên băng hoặc cầm trên tay.
@@ -20,7 +20,7 @@ Cắm trên băng hoặc cầm trên tay.
 -   Tông màu chủ đạo: Trắng (White), Xanh băng (Ice Blue).
 -   Cảm giác: Sắc bén (Sharp), Lạnh (Cold), Tinh tế (Elegant).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (object focus),

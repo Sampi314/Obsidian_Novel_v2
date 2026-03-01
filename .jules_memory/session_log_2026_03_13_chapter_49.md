@@ -1,4 +1,4 @@
-# Session Log: 2026-03-13 (Chapter 49)
+# Session Log: 2026-03-13 (Chương 49)
 
 ## 1. Định Hướng
 - **Mục tiêu:** Tiếp nối mạch truyện tại Mộc Linh Trận Địa, cung cấp thông tin quan trọng (lore dump) về Vạn Độc Huyết Tế Đại Trận và thiết lập mục tiêu tiếp theo cho nhóm nhân vật.

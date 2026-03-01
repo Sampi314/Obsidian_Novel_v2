@@ -1,7 +1,7 @@
 ---
-title: "Long Cốt Bi Ca"
-description: "Bài thơ bi tráng về sự kiện phong ấn Long Cốt bị phá vỡ và sự hy sinh của Hộ Pháp Tinh Linh Lục Ly."
-type: "Thất ngôn tứ tuyệt"
+Tiêu Đề: "Long Cốt Bi Ca"
+Mô Tả: "Bài thơ bi tráng về sự kiện phong ấn Long Cốt bị phá vỡ và sự hy sinh của Hộ Pháp Tinh Linh Lục Ly."
+Loại: "Thất ngôn tứ tuyệt"
 tags:
   - Thơ Ca
   - Cảm Thán

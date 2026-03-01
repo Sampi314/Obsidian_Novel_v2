@@ -1,6 +1,6 @@
 # NIÊN BIỂU CỐ NGUYÊN GIỚI
 
-Đây là văn bản chính thức ghi lại dòng chảy lịch sử của Cố Nguyên Giới, được quản lý bởi AI Agent Quản Lý Dòng Thời Gian.
+Đây là văn bản chính thức ghi lại dòng chảy lịch sử của Cố Nguyên Giới, được quản lý bởi AI Đại Diện Quản Lý Dòng Thời Gian.
 
 ---
 

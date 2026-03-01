@@ -4,7 +4,7 @@ source: Đạo/Kỳ_Vật/Nhện_Mặt_Quỷ.md
 
 # NHỆN MẶT QUỶ (DEMON FACE SPIDER)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Treo trên mạng nhện trong hang động.
@@ -20,7 +20,7 @@ Treo trên mạng nhện trong hang động.
 -   Tông màu chủ đạo: Đen (Black), Trắng (Pale Face pattern), Đỏ (Red eyes).
 -   Cảm giác: Rùng mình (Chilling), Quái dị (Grotesque), Ác mộng (Nightmarish).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (close up),

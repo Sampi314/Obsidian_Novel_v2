@@ -161,5 +161,5 @@ Sông Đan Hà chảy mãi không bao giờ cạn
 
 ### IV. THÔNG TIN BỔ SUNG
 *   **Ý Nghĩa/Thông Điệp:** Bài hát ca ngợi tinh thần kiên trì, chịu đựng gian khổ của các luyện đan sư Đan Hà Cốc. Hình ảnh "lửa thiêu đốt thân" (Liệt diễm phần thân) ám chỉ sự hy sinh và nỗ lực phi thường để đạt được thành tựu (Kim Đan). Đồng thời khẳng định sức mạnh bảo vệ tông môn trước ngoại địch.
-*   **Suno AI Style Prompt:**
-    > Epic Chinese Orchestral, Male Choir, Powerful Drums, Guzheng, Erhu, Heroic, Majestic, Intense, Building Up, Historical, Fantasy.
+*   **Suno AI Style Chỉ Lệnh:**
+    > Epic Chinese Orchestral, Male Choir, Powerful Drums, Guzheng, Erhu, Heroic, Majestic, Intense, Kiến Trúc Up, Historical, Fantasy.

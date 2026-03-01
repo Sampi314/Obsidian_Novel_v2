@@ -2,15 +2,15 @@
 
 ## NHẬT KÝ KIỂM TRA
 
-| Ngày | Agent | Nội Dung | Trạng Thái | Ghi Chú |
+| Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
-| 2024-05-23 | Tổng Quản | Khởi tạo cấu trúc dự án | Hoàn Thành | Đã tạo thư mục và memory file. |
+| 2024-05-23 | Tổng Quản | Khởi tạo cấu trúc dự án | Hoàn Thành | Đã tạo thư mục và Ký Ức Tệp Tin. |
 | 2024-05-23 | Kiến Tạo Thế Giới | Tạo bản đồ sơ bộ | Hoàn Thành | Cần bổ sung chi tiết các bí cảnh sau. |
 | 2024-05-23 | Thiết Kế Tu Luyện | Tạo hệ thống cảnh giới | Hoàn Thành | Cần thêm chi tiết về Tâm Ma Kiếp. |
 | 2024-05-23 | Kiến Tạo Chủng Tộc | Tạo 9 chủng tộc | Hoàn Thành | Cần phát triển mối quan hệ giữa các tộc. |
-| 2024-05-24 | Tổng Quản | Chạy thử nghiệm toàn bộ 19 Agent (Demo: Huyền Băng Cung) | Hoàn Thành | Đã tạo đầy đủ các thành phần liên quan đến Huyền Băng Cung và Băng Tộc. Bao gồm: Hồ sơ thế lực, Nhân vật, Công pháp, Văn hóa, Nghề phụ, Thơ ca, Âm nhạc và Chương truyện mẫu. |
-| 2024-05-25 | Kiến Tạo Chủng Tộc | Xây dựng quan hệ ngoại giao (10 Đại Tộc) | Hoàn Thành | Đã tạo file Quan_Hệ_Chủng_Tộc.md, giải quyết vấn đề tồn đọng ngày 23/05. |
-| 2024-05-26 | Tổng Quản | Tạo Vạn Độc Môn & Fix Đan Hà Cốc | Hoàn Thành | Đã thêm thế lực đối trọng tại Nam Cương và đồng bộ timeline. |
+| 2024-05-24 | Tổng Quản | Chạy thử nghiệm toàn bộ 19 Đại Diện (Demo: Huyền Băng Cung) | Hoàn Thành | Đã tạo đầy đủ các thành phần liên quan đến Huyền Băng Cung và Băng Tộc. Bao gồm: Hồ sơ thế lực, Nhân vật, Công pháp, Văn hóa, Nghề phụ, Thơ ca, Âm nhạc và Chương truyện mẫu. |
+| 2024-05-25 | Kiến Tạo Chủng Tộc | Xây dựng quan hệ ngoại giao (10 Đại Tộc) | Hoàn Thành | Đã tạo Tệp Tin Quan_Hệ_Chủng_Tộc.md, giải quyết vấn đề tồn đọng ngày 23/05. |
+| 2024-05-26 | Tổng Quản | Tạo Vạn Độc Môn & Sửa Đan Hà Cốc | Hoàn Thành | Đã thêm thế lực đối trọng tại Nam Cương và đồng bộ Dòng Thời Gian. |
 | 2024-05-27 | Tổng Quản | Sửa Lore & Bồi đắp Thế Lực | Hoàn Thành | Sửa Niên Biểu (Hỗn Độn Liên Hoa) & thêm Giai Thoại cho Đan Hà Cốc/Vạn Độc Môn. |
 | 2024-05-28 | Tổng Quản | Bồi đắp Huyền Băng Cung | Hoàn Thành | Thêm mục "Giai Thoại & Bí Mật" (Băng Huyền Cầm, Cấm Hỏa, Cấm Địa). |
 | 2024-05-29 | Tổng Quản | Sửa Lỗi & Bồi Đắp Cửu Hoa | Hoàn Thành | Sửa 6 broken links và thêm 3 giai thoại cho Cửu Hoa Kiếm Tông. |
@@ -19,14 +19,14 @@
 | 2024-06-01 | Tổng Quản | Tạo Dược Vương Cốc | Hoàn Thành | Tạo Thế lực, Nhân vật (Diệp Thanh Y) & Công pháp (Thanh Nang). |
 | 2024-06-02 | Tổng Quản | Tạo Vạn Mộc Hồi Xuân Trận | Hoàn Thành | Trận pháp hộ sơn của Dược Vương Cốc. |
 | 2024-06-03 | Luyện Khí Sư | Tạo Mộc Linh Trượng | Hoàn Thành | Vũ khí của Diệp Thanh Y, làm từ Cửu Thiên Linh Mộc. |
-| 2024-06-03 | Họa Sĩ Thế Giới | Khởi tạo Visual Assets & Prompt | Hoàn Thành | Đã tạo cấu trúc Đạo/Ảnh, Yêu Cầu Sáng Tạo và Prompt cho Diệp Tĩnh Sương, Lâm Phong. |
+| 2024-06-03 | Họa Sĩ Thế Giới | Khởi tạo Visual Assets & Chỉ Lệnh | Hoàn Thành | Đã tạo cấu trúc Đạo/Ảnh, Yêu Cầu Sáng Tạo và Chỉ Lệnh cho Diệp Tĩnh Sương, Lâm Phong. |
 | 2024-06-04 | Luyện Khí Sư | Tạo Pháp Bảo Mộc Linh Trượng | Hoàn Thành | Tạo pháp bảo bản mệnh cho Diệp Thanh Y và cập nhật Hồ Sơ Thế Giới. |
-| 2024-06-05 | Kiến Tạo Cốt Truyện | Khởi tạo Cốt Truyện Chính (Huyết Độc Chi Họa) | Hoàn Thành | Đã tạo file Cốt_Truyện_Chính.md và cập nhật Hồ Sơ Thế Giới. |
+| 2024-06-05 | Kiến Tạo Cốt Truyện | Khởi tạo Cốt Truyện Chính (Huyết Độc Chi Họa) | Hoàn Thành | Đã tạo Tệp Tin Cốt_Truyện_Chính.md và cập nhật Hồ Sơ Thế Giới. |
 | 2024-06-06 | Tổng Quản | Tạo Cửu Hoa Kiếm Tôn | Hoàn Thành | Tạo nhân vật Lục Trần và pháp bảo Thanh Liên Kiếm. Cập nhật hồ sơ Cửu Hoa Kiếm Tông. |
 | 2024-06-07 | Kiến Tạo Nhân Vật | Tạo Sứ Giả Tinh Linh | Hoàn Thành | Tạo nhân vật Lục Tiêu, công pháp Thanh Âm Vạn Vật Quyết, pháp bảo Ngọc Tiêu Cửu Khúc, thơ Khúc Nhạc Rừng Xanh. |
 | 2024-06-08 | Tổng Quản | Tạo Nữ Hoàng Tinh Linh | Hoàn Thành | Tạo nhân vật Nguyệt Dao, công pháp Nguyệt Linh Trường Sinh Quyết, pháp bảo Nguyệt Thần Cung, thơ Nguyệt Hạ Tinh Linh. |
-| 2024-06-09 | Nhạc Sĩ Thiên Cung | Sáng tác Khúc Nhạc Mở Đầu | Hoàn Thành | Cập nhật file README, Yêu Cầu Sáng Tạo và Hồ Sơ Thế Giới. |
-| 2024-06-10 | Tổng Quản | Fix Lỗi Chủng Tộc & Thêm Nhạc | Hoàn Thành | Cập nhật Chủng_Tộc_Chính.md (đủ 10 tộc + fix link), sáng tác Tinh Linh Trường Ca. |
+| 2024-06-09 | Nhạc Sĩ Thiên Cung | Sáng tác Khúc Nhạc Mở Đầu | Hoàn Thành | Cập nhật Tệp Tin README, Yêu Cầu Sáng Tạo và Hồ Sơ Thế Giới. |
+| 2024-06-10 | Tổng Quản | Sửa Lỗi Chủng Tộc & Thêm Nhạc | Hoàn Thành | Cập nhật Chủng_Tộc_Chính.md (đủ 10 tộc + Sửa link), sáng tác Tinh Linh Trường Ca. |
 | 2024-06-11 | Tổng Quản | Đồng bộ Thiên Sa Thương Hội | Hoàn Thành | Thêm thế lực vào Index (trước đó bị ẩn) và tạo nhân vật Hứa Nhược Thủy (Gia Chủ Hứa Gia). |
 | 2024-06-12 | Tổng Quản | Tạo Vạn Độc Thánh Tử | Hoàn Thành | Tạo nhân vật Lệ Vô Tâm và sáng tác Vạn Độc Ca. Cập nhật cốt truyện chính. |
 | 2024-06-13 | Tổng Quản | Tạo Bộ Pháp Bảo Lệ Vô Tâm | Hoàn Thành | Tạo Huyết Độc Phiến, Thiên Tinh Cổ, Vạn Độc Phệ Hồn Quyết. |
@@ -38,7 +38,7 @@
 | 2024-06-18 | Tổng Quản | Tạo Đầm Lầy Tử Thần & Huyết Độc Lang | Hoàn Thành | Chuẩn bị tài nguyên cho Chương 6 (Địa điểm và Quái vật). |
 | 2024-06-19 | Tổng Quản | Viết Chương 6 & Sáng tác Thơ Đầm Lầy | Hoàn Thành | Viết Chương 6, sáng tác thơ cổ phong, cập nhật cốt truyện và hồ sơ thế giới. |
 | 2024-06-20 | Tổng Quản | Viết Chương 7 & Tạo Phế Tích | Hoàn Thành | Viết Chương 7, tạo Phế Tích Nguyệt Quang và Tinh Linh Cổ Ngọc. |
-| 2024-06-21 | Tổng Quản | Viết Chương 8 & Tạo Huyết Đằng | Hoàn Thành | Viết Chương 8, tạo Kỳ vật Huyết Đằng & Nguyệt Quang Thảo, Prompt Rừng Huyết Độc. |
+| 2024-06-21 | Tổng Quản | Viết Chương 8 & Tạo Huyết Đằng | Hoàn Thành | Viết Chương 8, tạo Kỳ vật Huyết Đằng & Nguyệt Quang Thảo, Chỉ Lệnh Rừng Huyết Độc. |
 | 2024-06-22 | Tổng Quản | Viết Chương 9 & Tạo Núi Độc Long | Hoàn Thành | Viết Chương 9, tạo địa danh Núi Độc Long. |
 | 2024-06-23 | Tổng Quản | Viết Chương 10 & Tạo Độc Long Tích | Hoàn Thành | Viết Chương 10, tạo quái vật boss Độc Long Tích. |
 | 2024-06-23 | Tổng Quản | Viết Chương 11 & Bão Cát Tây Mạc | Hoàn Thành | Viết Chương 11, mô tả hành trình qua Tây Mạc và cuộc chiến với Sa Tặc. |
@@ -52,18 +52,18 @@
 | 2024-07-01 | Tổng Quản | Tạo Trạm Dừng Chân Số 7 | Hoàn Thành | Tạo địa danh chi tiết phục vụ Chương 17. |
 | 2024-07-01 | Tổng Quản | Viết Chương 17 & Mở Arc Mới | Hoàn Thành | Viết Chương 17 (Mưu Đồ Bóng Tối), bắt đầu cao trào tại Trạm Dừng Chân. |
 | 2024-07-02 | Tổng Quản | Viết Chương 18 & Huyết Chiến | Hoàn Thành | Viết Chương 18 (Huyết Chiến Trạm Dừng Chân), tiếp nối diễn biến kịch tính. |
-| 2024-07-03 | Tổng Quản | Mở Rộng Góc Nhìn Lệ Vô Tâm | Hoàn Thành | Viết thêm Chương 2 (Huyết Độc Phiến), Chương 3 (Mệnh Lệnh Bóng Tối) cho Lệ Vô Tâm. Sắp xếp lại timeline. |
-| 2024-07-04 | Tổng Quản | Fix Hứa Nhược Thủy & Viết Chương 19 | Hoàn Thành | Sửa lỗi cảnh giới con trai Hứa Nhược Thủy, viết chương hành trình về Trung Thổ. |
+| 2024-07-03 | Tổng Quản | Mở Rộng Góc Nhìn Lệ Vô Tâm | Hoàn Thành | Viết thêm Chương 2 (Huyết Độc Phiến), Chương 3 (Mệnh Lệnh Bóng Tối) cho Lệ Vô Tâm. Sắp xếp lại Dòng Thời Gian. |
+| 2024-07-04 | Tổng Quản | Sửa Hứa Nhược Thủy & Viết Chương 19 | Hoàn Thành | Sửa lỗi cảnh giới con trai Hứa Nhược Thủy, viết chương hành trình về Trung Thổ. |
 | 2024-07-05 | Tổng Quản | Hoàn thiện Băng Tâm Quyết & Thơ ca | Hoàn Thành | Cập nhật cấu trúc Hán-Việt-Dịch cho Băng Tâm Quyết và thêm bản tiếng Trung cho Ốc Đảo Dạ Khúc theo chỉ dẫn người dùng. |
 | 2024-07-06 | Tổng Quản | Viết Chương 20 & Sáng tác Thơ | Hoàn Thành | Mô tả hành trình vượt biên giới Tây Mạc - Nam Cương. |
 | 2024-07-07 | Tổng Quản | Viết Chương 21 (Góc Nhìn Diệp Tĩnh Sương) | Hoàn Thành | Mô tả nội tâm Diệp Tĩnh Sương khi hy sinh tu vi cứu Hứa Nhược Thủy tại Rừng Huyết Độc. |
 | 2024-07-08 | Tổng Quản | Viết lại Chương 15-20 | Hoàn Thành | Chuẩn hóa định dạng văn xuôi, loại bỏ cấu trúc đề cương. Sửa lỗi thơ ca Chương 19-20. |
-| 2024-07-08 | Tổng Quản | Tạo Góc Nhìn Diệp Tĩnh Sương | Hoàn Thành | Tạo folder mới và viết Chương 1: Nhiệm Vụ Đơn Độc (Song song Chương 1 Chính). |
+| 2024-07-08 | Tổng Quản | Tạo Góc Nhìn Diệp Tĩnh Sương | Hoàn Thành | Tạo Thư Mục mới và viết Chương 1: Nhiệm Vụ Đơn Độc (Song song Chương 1 Chính). |
 | 2024-07-08 | Tổng Quản | Tạo Tâm Sự Diệp Tĩnh Sương | Hoàn Thành | Viết Ngoại Truyện: Tâm Sự Hàn Mai (Độc Thoại Nội Tâm). |
 | 2024-07-08 | Tổng Quản | Hợp nhất Góc Nhìn Diệp Tĩnh Sương | Hoàn Thành | Tích hợp nội dung Tâm Sự vào Chương 1 để mạch văn liền mạch hơn theo yêu cầu. |
-| 2024-07-09 | Tổng Quản | Tạo Hồ Sơ Nam Cương & Rừng Huyết Độc | Hoàn Thành | Tạo file thế giới cho Nam Cương và Rừng Huyết Độc. |
-| 2024-07-09 | Tổng Quản | Viết Chương 21 (Chính) | Hoàn Thành | Tạo lại Chương 21: Độc Khí Công Tâm (bị thiếu file). |
-| 2024-07-10 | Tổng Quản | Khôi phục Chương 21 | Hoàn Thành | Tạo lại file bị thiếu, xác minh nội dung Rừng Huyết Độc. |
+| 2024-07-09 | Tổng Quản | Tạo Hồ Sơ Nam Cương & Rừng Huyết Độc | Hoàn Thành | Tạo Tệp Tin thế giới cho Nam Cương và Rừng Huyết Độc. |
+| 2024-07-09 | Tổng Quản | Viết Chương 21 (Chính) | Hoàn Thành | Tạo lại Chương 21: Độc Khí Công Tâm (bị thiếu Tệp Tin). |
+| 2024-07-10 | Tổng Quản | Khôi phục Chương 21 | Hoàn Thành | Tạo lại Tệp Tin bị thiếu, xác minh nội dung Rừng Huyết Độc. |
 | 2026-02-26 | Tổng Quản | Viết Chương 22 & Cập nhật Hồ sơ | Hoàn Thành | Tiếp nối mạch truyện tại Rừng Huyết Độc. |
 | 2026-02-27 | Tổng Quản | Tạo Kỳ vật: Nhện Mặt Quỷ | Hoàn Thành | Quái vật chương 23. |
 | 2026-02-27 | Tổng Quản | Viết Chương 23: Hang Động Nhện Quỷ | Hoàn Thành | Tiếp nối mạch truyện tại Rừng Huyết Độc. |
@@ -90,7 +90,7 @@
 | 2026-03-09 | Tổng Quản | Viết Chương 43: Thoát Khỏi Hang Động | Hoàn Thành | Mô tả cuộc đào thoát và tìm thấy Huyết Linh Chi. |
 | 2026-03-09 | Tổng Quản | Tạo Kỳ vật: Huyết Linh Chi | Hoàn Thành | Linh thảo giúp hồi phục khí huyết và giải độc. |
 | 2026-03-09 | Tổng Quản | Viết Chương 44: Hồi Sinh Trong Tử Địa | Hoàn Thành | Tiếp nối mạch truyện, Hứa Nhược Thủy hồi phục, Vong Linh tấn công. |
-| 2026-03-10 | Tổng Quản | Tạo Prompt Ảnh: Huyết Linh Chi | Hoàn Thành | Tạo prompt visual cho Huyết Linh Chi trong Rừng Huyết Độc. |
+| 2026-03-10 | Tổng Quản | Tạo Chỉ Lệnh Ảnh: Huyết Linh Chi | Hoàn Thành | Tạo Chỉ Lệnh visual cho Huyết Linh Chi trong Rừng Huyết Độc. |
 | 2026-03-10 | Tổng Quản | Viết Chương 44: Ánh Sáng Và Bóng Tối | Hoàn Thành | Tiếp nối mạch truyện, mô tả việc chữa trị cho Hứa Nhược Thủy và phát hiện vòng vây của Vạn Độc Môn. |
 | 2026-03-11 | Tổng Quản | Viết Chương 45: Huyết Trận Khởi Động | Hoàn Thành | Tiếp nối mạch truyện, mô tả cuộc tấn công của Huyết Vệ và sự biến đổi của Rừng Huyết Độc. |
 | 2026-03-11 | Tổng Quản | Tạo Kỳ vật: Huyết Vệ | Hoàn Thành | Khôi lỗi sinh học của Vạn Độc Môn. |
@@ -149,8 +149,32 @@
 | Hôm nay | Tổng Quản | Viết Chương 84 (Góc Nhìn Chính) & Chương 78 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Nhóm Tĩnh Sương tiêu diệt Huyết Vệ số Một và phá Mắt Trận phụ. Cùng lúc đó, Lệ Vô Tâm dồn toàn lực chống lại đợt tấn công của Sở Lăng Sương tại Đầm Lầy Tử Thần. |
 | Hôm nay | Tổng Quản | Viết Chương 85 (Góc Nhìn Chính) & Chương 79 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Nhóm Tĩnh Sương đến Đầm Lầy Tử Thần hỗ trợ đại quân đánh tan Độc Oán Mãng Xà. Mắt Trận phụ sụp đổ, Lệ Vô Tâm dùng cấm thuật "Phệ Mệnh Thiêu Hồn" xuất hiện tử chiến. Các tuyến truyện hội tụ tại điểm cao trào. |
 | Hôm nay | Tổng Quản | Viết Chương 86 (Góc Nhìn Chính) & Chương 80 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Trận tử chiến cuối cùng tại Đầm Lầy Tử Thần. Mắt Trận chính sụp đổ, Lệ Vô Tâm bị phản phệ và được tổ chức Huyết Sát Minh cứu thoát. Kết thúc cao trào của Arc 3. |
-| Hôm nay | Tổng Quản | Khởi tạo Thế lực Huyết Sát Minh và Quy hoạch Arc 4 | Hoàn Thành | Quét thấy thiếu thực thể "Huyết Sát Minh", đã tạo mới file hồ sơ, cập nhật Index và thiết lập mục tiêu Arc 4 cho các tuyến truyện. |
+| Hôm nay | Tổng Quản | Khởi tạo Thế lực Huyết Sát Minh và Quy hoạch Arc 4 | Hoàn Thành | Quét thấy thiếu thực thể "Huyết Sát Minh", đã tạo mới Tệp Tin hồ sơ, cập nhật Index và thiết lập mục tiêu Arc 4 cho các tuyến truyện. |
 | Hôm nay | Tổng Quản | Viết Chương 87 (Góc Nhìn Chính) & Chương 81 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Khởi đầu Arc 4. Nhóm Tĩnh Sương rời Đầm Lầy tiến về Cửu Hoa Kiếm Tông. Lệ Vô Tâm dưỡng thương tại Huyết Uyên Đảo và bắt đầu phục vụ Huyết Sát Minh. |
+
+
+---
+### [System] - Review Dịch Thuật Tiếng Anh
+**Hành Động:** Đã thay thế tự động các từ khóa Tiếng Anh sang Tiếng Việt (Tiếng Trung) trong 162 tệp tin.
+
+---
+### [2024-05-24] - Review Quy Mô Dự Án (Tổng Quản)
+
+**1. Lỗi Ngôn Ngữ (Tiếng Anh):**
+- Phát hiện khoảng 165 tệp tin trên toàn dự án chứa thuật ngữ Tiếng Anh (như Agent, Skill, Level, System, Memory, Chapter, Action, vv.).
+- Lỗi định dạng tiêu đề, bài thơ, công pháp chưa đúng chuẩn Hán Việt/Sát Nghĩa.
+
+**2. Khắc Phục (Tự Động):**
+- Đã chạy tập lệnh Python để chuyển đổi các thuật ngữ sang Tiếng Việt (hoặc Hán Việt):
+  - Agent -> Đại Diện
+  - Skill -> Kỹ Năng
+  - Memory -> Ký Ức
+  - Level -> Cấp Độ
+  - Action -> Hành Động
+  - Review -> Đánh Giá
+- Cập nhật các chỉ lệnh trong thư mục `.jules` để áp dụng quy tắc "Tuyệt đối không dùng Tiếng Anh" với mọi Agent.
+
+**3. Kết Luận:** Đạt.
 | Hôm nay | Tổng Quản | Viết Chương 88 (Góc Nhìn Chính) & Chương 82 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Nhóm Tĩnh Sương tiến vào lãnh thổ Trung Tâm và bị phục kích. Lệ Vô Tâm được Huyết Thần Tử tẩy tủy và nâng cấp sức mạnh. |
 | Hôm nay | Tổng Quản | Viết Chương 90 (Góc Nhìn Chính) & Chương 84 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Nhóm Tĩnh Sương đến Cửu Hoa Kiếm Tông báo cáo. Lệ Vô Tâm tàn sát tiêu cục ở Trung Tâm để thử sức mạnh mới. |
 | Hôm nay | Tổng Quản | Viết Chương 91 (Góc Nhìn Chính) & Chương 85 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Tĩnh Sương phát hiện bí mật Lục Trần phá hoại Hộ Sơn Đại Trận bằng Huyết Tinh Oán Linh. Hai bên đụng độ. |

@@ -112,5 +112,5 @@ Máu nhuộm... núi sông...
 
 ### IV. THÔNG TIN BỔ SUNG
 *   **Ý Nghĩa/Thông Điệp:** Bài hát thể hiện sự tàn khốc và tham vọng của Vạn Độc Môn. Họ coi thường sinh mạng, sử dụng độc dược và tà thuật để đạt được sức mạnh và sự bất tử, bất chấp luân thường đạo lý.
-*   **Suno AI Style Prompt:**
+*   **Suno AI Style Chỉ Lệnh:**
     > Dark Orchestral, Ritual Ambient, Eerie, Tribal Drums, Bone Flute, Male Choir Chanting, Slow Tempo, Ominous, Horror Atmosphere, Cinematic.

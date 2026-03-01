@@ -264,7 +264,7 @@
 # NHẬT KÝ HOẠT ĐỘNG: VIẾT CHƯƠNG TRUYỆN
 
 **Phiên làm việc:** Hôm nay (Phần 4)
-**Agent:** Tổng Quản (Jules)
+**Đại Diện:** Tổng Quản (Jules)
 
 ## 1. TỔNG QUAN
 Đã hoàn thành viết Chương 71 (Góc Nhìn Lệ Vô Tâm): Đối Thoại Trong Sương. Trọng tâm của chương là cuộc đối thoại căng thẳng giữa Lệ Vô Tâm và nhóm Diệp Tĩnh Sương, qua đó thể hiện sự tàn nhẫn và triết lý sống của Lệ Vô Tâm.

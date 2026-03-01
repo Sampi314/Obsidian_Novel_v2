@@ -1,6 +1,6 @@
 # NHẬT KÝ PHIÊN (SESSION LOG)
 **Ngày:** 2026-03-04
-**Agent:** Tổng Quản (Jules)
+**Đại Diện:** Tổng Quản (Jules)
 
 ## 1. PHÁT HIỆN THAY ĐỔI
 - Không phát hiện thay đổi của người dùng từ phiên trước (2026-03-03).

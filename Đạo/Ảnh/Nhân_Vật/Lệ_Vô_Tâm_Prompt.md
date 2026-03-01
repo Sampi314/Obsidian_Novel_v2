@@ -4,7 +4,7 @@ source: Đạo/Nhân_Vật/Lệ_Vô_Tâm.md
 
 # LỆ VÔ TÂM (LE VO TAM)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Trong hang động tối tăm hoặc rừng rậm đầy chướng khí.
@@ -20,7 +20,7 @@ Trong hang động tối tăm hoặc rừng rậm đầy chướng khí.
 -   Tông màu chủ đạo: Tím (Purple), Đen (Black), Xanh lục (Poison Green).
 -   Cảm giác: Đáng sợ (Scary), Tà mị (Wicked), Quyền lực (Power).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (anime style),

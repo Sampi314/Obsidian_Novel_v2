@@ -74,7 +74,7 @@
 4.  **Sứ Giả Tinh Linh ([Lục Tiêu](../Nhân_Vật/Lục_Tiêu.md)):** Đại diện cho tiếng nói của rừng.
 5.  **Lệ Vô Tâm ([Hồ Sơ](../Nhân_Vật/Lệ_Vô_Tâm.md)):** Phản diện chính đối đầu với Diệp Tĩnh Sương và Lâm Phong.
 
-## V. GHI CHÚ CHO CÁC AGENT KHÁC
+## V. GHI CHÚ CHO CÁC Đại Diện KHÁC
 - **Kiến Tạo Nhân Vật:** [Hoàn Thành] Đã tạo nhân vật Lục Tiêu.
 - **Họa Sĩ Thế Giới:** Cần tranh minh họa cảnh "Rừng cây rỉ máu" và "Huyết Trì".
 - **Đạo Diễn Hành Động:** Chuẩn bị các cảnh chiến đấu giữa Tu sĩ và Huyết Thi/Cổ Thú.

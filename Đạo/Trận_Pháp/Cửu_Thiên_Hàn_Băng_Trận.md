@@ -3,7 +3,7 @@
 ## I. TỔNG QUAN
 - **Tên Gọi:** Cửu Thiên Hàn Băng Trận (Nine Heavens Ice Array).
 - **Phân Loại:** Trận Pháp (Hộ Sơn Đại Trận).
-- **Phẩm Cấp:** Level 9 (Cửu Cấp - Hộ Sơn Trận).
+- **Phẩm Cấp:** Cấp Độ 9 (Cửu Cấp - Hộ Sơn Trận).
 - **Thuộc Tính:** Băng (Hàn).
 - **Địa Điểm:** Bao quanh Huyền Băng Cung - Đỉnh Tuyết Sơn.
 

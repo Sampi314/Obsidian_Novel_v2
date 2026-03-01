@@ -2,7 +2,7 @@
 
 ## I. THÔNG TIN TÁC PHẨM
 - **Tên:** Nguyệt Hạ Tinh Linh (Elf Under the Moon).
-- **Thể Loại:** Thất Ngôn Bát Cú (Seven-Character Octave).
+- **Thể Loại:** Thất Ngôn Bát Cú (Seven-Nhân Vật Octave).
 - **Tác Giả:** Vô Danh Thi Nhân (Ghi lại lời than thở của Nữ Hoàng Nguyệt Dao).
 - **Bối Cảnh:** Đêm trước khi Tinh Linh Tộc quyết định mở kết giới Vĩnh Hằng Sâm Lâm để đối mặt với Huyết Độc Chi Họa.
 ## II. NỘI DUNG

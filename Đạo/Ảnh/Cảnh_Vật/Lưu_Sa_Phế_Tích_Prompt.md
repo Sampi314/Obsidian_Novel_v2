@@ -4,7 +4,7 @@ source: Đạo/Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md
 
 # LƯU SA PHẾ TÍCH (QUICKSAND RUINS)
 
-## MÔ TẢ CHI TIẾT (DESCRIPTION)
+## MÔ TẢ CHI TIẾT (Mô Tả)
 
 **Bối cảnh (Setting):**
 Một vùng trũng rộng lớn trong sa mạc với những tàn tích cổ đại nhô lên.
@@ -13,14 +13,14 @@ Một vùng trũng rộng lớn trong sa mạc với những tàn tích cổ đ�
 1.  **Địa hình (Terrain):** Cát ở đây chuyển động như dòng nước (quicksand/flowing sand).
 2.  **Kiến trúc (Ruins):** Những cột đá gãy đổ, mái vòm sụp đổ, tường thành cổ xưa nửa chìm nửa nổi trong cát.
 3.  **Hiệu ứng (Effects):** Ảo ảnh (mirage) lung linh do hơi nóng bốc lên.
-4.  **Thời điểm (Time):** Hoàng hôn hoặc giữa trưa nắng gắt để tạo độ tương phản.
+4.  **Thời điểm (Thời Gian):** Hoàng hôn hoặc giữa trưa nắng gắt để tạo độ tương phản.
 
 **Phong cách (Style):**
 -   Fantasy Landscape / Ruins.
 -   Tông màu chủ đạo: Vàng (Gold), Cam (Orange), Trắng (White heat).
 -   Cảm giác: Hoang vắng (Desolate), Bí ẩn (Mysterious), Nóng bỏng (Scorching).
 
-## GỢI Ý PROMPT (ENGLISH)
+## GỢI Ý Chỉ Lệnh (ENGLISH)
 
 ```
 (best quality, masterpiece, ultra-detailed, 8k wallpaper), (concept art),

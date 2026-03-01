@@ -7,7 +7,7 @@
 - **Phe B (Đối Thủ):** Tuyết Lang Vương (Yêu Thú Cấp 4 Đỉnh Phong - Tương đương Nguyên Anh Viên Mãn).
 - **Mục Tiêu:** Ngăn cản Tuyết Lang Vương xâm nhập vào lãnh địa Băng Tộc để tìm *Tuyết Liên Hoa*.
 
-## II. DIỄN BIẾN (ACTION SEQUENCE)
+## II. DIỄN BIẾN (Hành Động SEQUENCE)
 
 ### 1. Khai Cuộc (Opening)
 - **Bối Cảnh:** Tuyết Lang Vương xuất hiện với hình dạng khổng lồ, cao 3 trượng, lông trắng như tuyết, mắt đỏ như máu. Nó gầm lên một tiếng, sóng âm làm nứt vỡ tảng băng dưới chân.

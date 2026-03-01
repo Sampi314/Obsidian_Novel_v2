@@ -131,5 +131,5 @@ Chẳng do trời
 
 ### IV. THÔNG TIN BỔ SUNG
 *   **Ý Nghĩa/Thông Điệp:** Bài hát kể về hành trình của một tu sĩ trong kỷ nguyên Khởi Nguyên, từ lúc là thiếu niên tầm đạo đến khi đối mặt với sự cô độc của trường sinh. Nó phản ánh tinh thần "nghịch thiên cải mệnh" đặc trưng của tu tiên, đồng thời khắc họa bối cảnh tông môn tranh đấu.
-*   **Suno AI Style Prompt:**
+*   **Suno AI Style Chỉ Lệnh:**
     > Chinese Pop (Gufeng), Melodic, Emotional, Flute intro, Orchestra build-up, Strong male vocals, Storytelling, Epic Chorus, Drum beats in Verse 2, Melancholic Bridge.
