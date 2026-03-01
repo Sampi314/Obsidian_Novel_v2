@@ -31,6 +31,13 @@
 - **Khí Hậu:** Phân hóa rõ rệt theo Tứ Phương. Trung tâm ôn hòa, bốn phương khắc nghiệt theo đặc tính riêng (Mộc, Kim, Hỏa, Thủy).
 - **Hệ Sinh Thái:** Đa dạng và khổng lồ. Sinh vật thời kỳ này phần lớn là Tiên Thiên sinh linh, kích thước to lớn, tuổi thọ dài lâu, hấp thụ linh khí trời đất mà lớn lên.
 
+## ĐỊA DANH BÍ CẢNH & DI TÍCH (SECRET REALMS & RUINS)
+- **Phế Tích Nguyệt Quang (Nam Cương):** Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Nơi giao thoa của ma khí và tàn dư linh lực ánh trăng.
+- **Hoàng Sa Địa Cung (Tây Mạc):** Lăng mộ ngầm chứa đựng bí mật của Hoàng Sa Quốc, ẩn chứa nhiều cơ quan, trận pháp và lời nguyền.
+- **Lưu Sa Phế Tích (Tây Mạc):** Tàn tích của những thành bang cổ đại bị chôn vùi trong bão cát, nơi cư ngụ của vô số Sa Hồn và cạm bẫy huyễn ảo.
+- **Huyết Uyên (Nam Cương):** Vực sâu không đáy dưới Huyết Vụ Lâm. Nơi đây từng là một phần rễ của Cây Thế Giới, chứa lượng mộc linh khí và sát khí đan xen, cũng là nơi cư trú của Dơi Huyết Mù và Rết Lân Tinh.
+- **Bí Cảnh Huyết Sát (Vô Tận Hải/Trung Tâm):** Căn cứ bí mật của Huyết Sát Minh. Một hòn đảo dị thường được bao bọc bởi huyết vụ, nơi chứa đựng Huyết Trì và các thực thể ma đạo.
+
 ## THIÊN ĐẠO & QUY TẮC
 - **Luật Mạnh Được Yếu Thua:** Sơ khai và tàn khốc.
 - **Sự Cân Bằng:** Ngũ hành tương sinh tương khắc chưa ổn định, thường xuyên xảy ra thiên tai địa chấn do linh khí bạo loạn.

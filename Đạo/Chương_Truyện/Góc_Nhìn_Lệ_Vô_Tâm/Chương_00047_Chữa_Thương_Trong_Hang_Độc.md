@@ -50,7 +50,7 @@ Lệ Vô Tâm nghiền nát túi độc, bôi trực tiếp thứ dịch lỏng 
 
 Tiếng xèo xèo vang lên như thịt mỡ rơi vào chảo nóng. Khói trắng bốc lên mù mịt. Một cơn đau xé nát tâm can ập đến, gấp mười lần lúc nãy. Hỏa độc và Hàn độc giao chiến ngay trên da thịt hắn, lấy cơ thể hắn làm chiến trường.
 
-"GAAAAA...!!!"
+"GAAAAA...!"
 
 Lần này, Lệ Vô Tâm không kìm được tiếng gầm nhẹ trong cổ họng. Toàn thân hắn co giật, mồ hôi trộn lẫn với máu chảy ròng ròng. Hắn vội vàng vận chuyển Vạn Độc Chân Kinh, điều động huyết khí trong cơ thể bao vây lấy hai luồng độc lực đang tàn phá, ép chúng phải dung hòa, biến thành dưỡng chất cho mình.
 

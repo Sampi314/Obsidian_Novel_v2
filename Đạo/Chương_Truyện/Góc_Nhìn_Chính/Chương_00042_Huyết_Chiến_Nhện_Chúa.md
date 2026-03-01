@@ -80,7 +80,7 @@ Chùm tên lửa lao vút lên cao, cắm phập vào khe đá nứt nẻ.
 
 Tiếng nổ vang trời, đá tảng từ trần hang rơi xuống như mưa. Khe nứt bị nổ tung, mở rộng ra gấp mấy lần. Một luồng ánh sáng mặt trời chói chang từ bên ngoài rọi thẳng xuống, chiếu rọi vào hang động tăm tối.
 
-"Kèeeeeee——!!!"
+"Kèeeeeee——!"
 
 Huyết Nhện Chúa rú lên đau đớn khi ánh sáng mặt trời chiếu vào người nó. Lớp giáp xác đen tuyền bốc khói nghi ngút, những đường vân máu trên lưng nó co rút lại. Nó vốn là sinh vật của bóng tối, lại hấp thụ Địa Sát quá nhiều, nên cực kỳ sợ hãi dương khí thuần khiết.
 
