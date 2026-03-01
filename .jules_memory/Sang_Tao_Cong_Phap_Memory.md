@@ -29,14 +29,14 @@
 User yêu cầu tạo ra **100 công pháp chất lượng cao**, chia đều 10 công pháp cho mỗi trong 10 Đại Chủng Tộc, và tạo rải rác các nhân vật đại diện cho các công pháp này trên các tuyến truyện.
 Mỗi công pháp phải đạt chuẩn như `Cửu_Chuyển_Đan_Hỏa_Quyết.md` hoặc `Thái_Cực_Vạn_Pháp_Quyết.md` (Đầy đủ khẩu quyết Hán/Hán Việt/Dịch, phân tầng, chiêu thức, luận giải).
 
-**Đã Hoàn Thành (Run hiện tại):**
+**Đã Hoàn Thành:**
 1. **Nhân Tộc:** `Thái_Cực_Vạn_Pháp_Quyết.md` + Nhân vật `Phương_Vô_Kỵ.md`. (Đặc trưng: "Vạn Pháp Giai Thông").
 2. **Long Tộc:** `Thái_Cổ_Long_Thần_Quyết.md` + Nhân vật `Ngao_Đình.md`. (Đặc trưng: "Thiên Sinh Vương Giả").
 3. **Trùng Tộc:** `Thiên_Trùng_Đồng_Hóa_Quyết.md` + Nhân vật `Hắc_Hạt_Ma_Trùng.md`. (Đặc trưng: Tiến Hóa Tu, hấp thu huyết mạch kẻ địch, Quần thể ý thức).
 4. **Hải Tộc:** `Âm_Dương_Thủy_Nguyệt_Quyết.md` + Nhân vật `Lệ_Nhược_Thủy.md`. (Đặc trưng: Luyện Hồn, Âm Tu, Thủy/Nguyệt Đạo, Ảo ảnh).
+5. **Cự Tộc:** `Đại_Địa_Trường_Sinh_Quyết.md` + Nhân vật `Nham_Thần.md`. (Đặc trưng: "Thiên Địa Đồng Thọ", Đỉnh cao Luyện Thể, Địa/Sơn Đạo, Thiên Địa Thể).
 
 **Cần Hoàn Thành Trong Các Run Tiếp Theo (Định hướng từ User):**
-5. **Cự Tộc:** "Thiên Địa Đồng Thọ" (Đỉnh cao Luyện Thể, Địa/Sơn Đạo, Thiên Địa Thể).
 6. **Vi Tộc:** "Vô Hình Vô Tung" (Siêu nhỏ, Phù Tu + Trận Tu tàng hình, Vi Quan Thiên Địa bẻ khóa vạn vật).
 7. **Yêu Tộc:** "Bách Thú Thiên Phú" (Huyết Tu, Biến Hóa Tu, Thức tỉnh huyết mạch Thần Thú cổ đại).
 8. **Vũ Tộc:** "Cửu Thiên Chi Thượng" (Phong Đạo, Kiếm Tu, Phong Tốc Tu, Thiên Nhãn nhìn xuyên vạn dặm).

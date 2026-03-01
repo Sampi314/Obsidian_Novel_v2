@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ĐẠI ĐỊA TRƯỜNG SINH QUYẾT (大地長生訣)</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Công_Pháp/Đại_Địa_Trường_Sinh_Quyết.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<h1>ĐẠI ĐỊA TRƯỜNG SINH QUYẾT (大地長生訣)</h1>
+<br>
+<h2>I. TỔNG QUAN</h2>
+<ul>
+<li><strong>Phẩm Cấp:</strong> Thiên Cấp Thượng Phẩm (Tuyệt học trấn tộc của Cự Tộc).</li>
+<li><strong>Thuộc Tính:</strong> Thổ (Chủ đạo), Mộc (Hỗ trợ sinh cơ).</li>
+<li><strong>Nguồn Gốc:</strong> Công pháp cổ đại truyền lại từ thời kỳ Hồng Hoang, được khắc trên Vách Đá Tế Đàn của Cự Tộc. Tương truyền do vị Cự Thần đầu tiên cảm ngộ nhịp đập của trái đất mà sáng tạo ra.</li>
+</ul>
+<h2>II. CƠ CHẾ HOẠT ĐỘNG</h2>
+<ul>
+<li><strong>Nguyên Lý:</strong> "Thiên Địa Đồng Thọ" (Sống thọ cùng trời đất). Không chủ động hấp thụ linh khí một cách bạo liệt mà đồng hóa nhịp thở của bản thân với nhịp đập của long mạch dưới lòng đất. Dùng trọng lực và địa khí để không ngừng rèn luyện thể phách, biến cơ thể thành một phần của đại địa.</li>
+<li><strong>Đặc Điểm:</strong></li>
+<li>Cực kỳ chú trọng Luyện Thể. Tu luyện công pháp này, cơ thể sẽ ngày càng to lớn, cường tráng, da thịt cứng như kim thạch.</li>
+<li>Linh lực (Địa Khí) vô cùng dày đặc, hùng hồn nhưng vận chuyển chậm chạp, không phù hợp cho lối đánh tốc độ.</li>
+<li>Khả năng phục hồi nghịch thiên khi đứng trên mặt đất. Chỉ cần hai chân chạm đất, thương thế liền tự động khép miệng, linh lực cuồn cuộn không dứt.</li>
+</ul>
+<h2>III. CÔNG DỤNG & HIỆU QUẢ</h2>
+<ul>
+<li><strong>Lợi Ích Tu Luyện:</strong> Sở hữu "Thiên Địa Thể" - thể chất đỉnh cao của giới tu chân về mặt sức mạnh thuần túy và phòng thủ vật lý. Tuổi thọ vượt xa các chủng tộc khác (có thể ngủ vùi hàng ngàn năm như một ngọn núi).</li>
+<li><strong>Khả Năng Chiến Đấu:</strong> Lực công kích vật lý di sơn đảo hải. Một quyền đập xuống có thể tạo ra động đất, xé rách địa tầng. Phòng thủ gần như tuyệt đối trước các đòn đánh vật lý và pháp thuật dưới cấp bậc nhất định.</li>
+<li><strong>Hỗ Trợ Khác:</strong> Khả năng giao tiếp với tinh linh của đất đá, dễ dàng tìm kiếm quặng mỏ, linh mạch ẩn sâu dưới lòng đất.</li>
+</ul>
+<h2>IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 7 tầng)</h2>
+<br>
+<h3>1. Tầng 1: Lạc Địa Sinh Căn (落地生根)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Bước đầu tiên, người tu luyện học cách cắm sâu "rễ" linh thức của mình vào lòng đất, cảm nhận nhịp đập của địa mạch và dẫn dắt trọng lực để rèn luyện gân cốt.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 雙足踏地，心如磐石。</li>
+<li>> 氣沉丹田，引地之息。</li>
+<li>> 筋骨重塑，力拔山河。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Song túc đạp địa, tâm như bàn thạch.</li>
+<li>> Khí trầm đan điền, dẫn địa chi tức.</li>
+<li>> Cân cốt trùng tố, lực bạt sơn hà.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Hai chân đạp đất, tâm vững như tảng đá lớn.</li>
+<li>> Khí chìm xuống đan điền, dẫn dắt hơi thở của đất.</li>
+<li>> Gân cốt đắp nặn lại, sức mạnh nhổ núi lấp sông.</li>
+</ul>
+<h3>2. Tầng 2: Hậu Thổ Hộ Thân (厚土護身)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Lớp da bắt đầu sừng hóa, mang màu sắc của đất đá. Hình thành một lớp phòng ngự tự nhiên (Thạch Giáp) bao bọc quanh người, đao thương bình thường không thể xuyên thủng.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 大地厚德，載物無聲。</li>
+<li>> 凝土為甲，護我真形。</li>
+<li>> 萬法不侵，百毒不驚。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Đại địa hậu đức, tải vật vô thanh.</li>
+<li>> Ngưng thổ vi giáp, hộ ngã chân hình.</li>
+<li>> Vạn pháp bất xâm, bách độc bất kinh.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Đất mẹ đức dày, chở che muôn loài không tiếng động.</li>
+<li>> Ngưng tụ đất thành áo giáp, bảo vệ thân hình chân chính của ta.</li>
+<li>> Vạn phép thuật không thể xâm phạm, trăm loại độc không làm kinh sợ.</li>
+</ul>
+<h3>3. Tầng 3: Địa Mạch Cộng Minh (地脈共鳴)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Tâm khiếu kết nối trực tiếp với long mạch. Mỗi bước đi đều tạo ra sự rung chấn cộng hưởng với mặt đất. Bắt đầu có khả năng thao túng đất đá xung quanh ở mức độ cơ bản.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 脈連九幽，心通八荒。</li>
+<li>> 步踏罡斗，地動山搖。</li>
+<li>> 借力打力，借勢破天。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Mạch liên cửu u, tâm thông bát hoang.</li>
+<li>> Bộ đạp cương đẩu, địa động sơn dao.</li>
+<li>> Tá lực đả lực, tá thế phá thiên.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Kinh mạch nối liền với chín tầng địa ngục, tâm trí thông thấu tám hướng hoang sơ.</li>
+<li>> Bước chân đạp theo chòm sao Cương Đẩu, làm đất động núi rung.</li>
+<li>> Mượn sức mạnh đánh lại sức mạnh, mượn thế trận phá vỡ bầu trời.</li>
+</ul>
+<h3>4. Tầng 4: Trọng Nguyên Kiếp Kính (重元劫境)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Cảnh giới sinh tử. Người tu luyện phải tự chôn vùi bản thân dưới đáy vực sâu hoặc tâm linh mạch, chịu đựng áp lực nặng nề của vạn tấn đất đá rèn luyện ngũ tạng lục phủ.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 身葬深淵，承受萬鈞。</li>
+<li>> 破而後立，死而後生。</li>
+<li>> 褪去肉體，重鑄金身。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Thân táng thâm uyên, thừa thụ vạn quân.</li>
+<li>> Phá nhi hậu lập, tử nhi hậu sinh.</li>
+<li>> Thốn khứ nhục thể, trùng chú kim thân.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Thân chôn vùi dưới vực sâu, chịu đựng vạn cân sức nặng.</li>
+<li>> Phá vỡ rồi mới lập lại, chết đi rồi mới sống lại.</li>
+<li>> Rũ bỏ xác thịt phàm trần, đúc lại kim thân bất hoại.</li>
+</ul>
+<h3>5. Tầng 5: Kình Thiên Chi Trụ (擎天之柱)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Đột phá bình cảnh, cơ thể có thể biến hóa khổng lồ (Cự Hóa). Đứng thẳng như cột chống trời, hai chân cắm sâu vào đất mẹ, linh lực cuồn cuộn như biển cả.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 頂天立地，化身擎柱。</li>
+<li>> 氣吞山河，吞吐日月。</li>
+<li>> 巨神降臨，威震八方。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Đỉnh thiên lập địa, hóa thân kình trụ.</li>
+<li>> Khí thôn sơn hà, thôn thổ nhật nguyệt.</li>
+<li>> Cự thần giáng lâm, uy chấn bát phương.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Đội trời đạp đất, hóa thân thành cột chống trời.</li>
+<li>> Khí thế nuốt trọn núi sông, hít thở vầng nhật nguyệt.</li>
+<li>> Thần khổng lồ giáng lâm, uy phong chấn động tám phương.</li>
+</ul>
+<h3>6. Tầng 6: Dịch Dung Sơn Hà (易容山河)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Thay đổi địa hình trong phạm vi lớn. Có thể nâng núi, tạo vực, cải tạo long mạch theo ý muốn. Khí huyết bản thân hoàn toàn dung hợp với sinh khí của đất trời.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 抬手搬山，覆手造海。</li>
+<li>> 移星換斗，改天換地。</li>
+<li>> 乾坤在握，萬物俯首。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Sái thủ ban sơn, phúc thủ tạo hải.</li>
+<li>> Di tinh hoán đẩu, cải thiên hoán địa.</li>
+<li>> Càn khôn tại ác, vạn vật phủ thủ.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Nhấc tay dời núi, lật tay tạo biển.</li>
+<li>> Dời sao đổi chỗ chòm Bắc Đẩu, thay đổi cả trời đất.</li>
+<li>> Nắm càn khôn trong tay, vạn vật phải cúi đầu.</li>
+</ul>
+<h3>7. Tầng 7: Thiên Địa Đồng Thọ (天地同壽)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Cảnh giới tối cao. Trở thành ý chí của đại địa. Miễn là tinh cầu này chưa diệt vong, người tu luyện gần như không thể bị giết chết.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 與天同齊，與地同壽。</li>
+<li>> 無始無終，永恆不朽。</li>
+<li>> 化身大道，天地唯我。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Dữ thiên đồng tề, dữ địa đồng thọ.</li>
+<li>> Vô thủy vô chung, vĩnh hằng bất hủ.</li>
+<li>> Hóa thân đại đạo, thiên địa duy ngã.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Ngang hàng cùng trời, sống thọ cùng đất.</li>
+<li>> Không có điểm bắt đầu không có điểm kết thúc, vĩnh hằng không mục nát.</li>
+<li>> Hóa thân thành đại đạo, trời đất chỉ còn lại mình ta.</li>
+</ul>
+<h2>V. HỆ THỐNG CHIÊU THỨC (4 Chiêu)</h2>
+<br>
+<p>1.  <strong>Thạch Phá Thiên Kinh (石破天驚):</strong></p>
+<ul>
+<li><strong>Mô Tả:</strong> Tụ tập toàn bộ địa lực vào nắm đấm, tung ra một cú đánh vật lý thuần túy nhưng mang theo trọng lực kinh người. Không khí xung quanh nắm đấm bị nén lại thành tường âm bạo. Nơi trúng đòn, không gian như vỡ nát.</li>
+<li><strong>Yêu Cầu:</strong> Đạt Tầng 3 (Địa Mạch Cộng Minh).</li>
+<li><strong>Uy Lực Tăng Tiến:</strong> Tầng 3 có thể đập nát một ngọn núi nhỏ; Tầng 6 có thể phá hủy một thành trì lớn trong một kích.</li>
+</ul>
+<p>2.  <strong>Đại Địa Chi Thuẫn (大地之盾):</strong></p>
+<ul>
+<li><strong>Mô Tả:</strong> Giậm mạnh chân xuống đất, triệu hồi những tấm bia đá khổng lồ chứa đầy cổ ngữ phòng ngự trồi lên từ lòng đất để che chắn. Các tấm bia này có thể hấp thụ sát thương ngũ hành và truyền xuống lòng đất.</li>
+<li><strong>Yêu Cầu:</strong> Đạt Tầng 2 (Hậu Thổ Hộ Thân).</li>
+<li><strong>Uy Lực Tăng Tiến:</strong> Tầng 2 tạo ra bia đá bùn; Tầng 5 chuyển hóa thành Kim Cương Thạch kiên cố không thể phá vỡ.</li>
+</ul>
+<p>3.  <strong>Sơn Băng Địa Liệt (山崩地裂):</strong></p>
+<ul>
+<li><strong>Mô Tả:</strong> Giao tiếp với long mạch, gây ra một trận động đất dữ dội trong phạm vi rộng. Đất đá nứt nẻ, gai đá nhọn hoắt đâm lên từ mặt đất, nhốt và nghiền nát kẻ thù.</li>
+<li><strong>Yêu Cầu:</strong> Đạt Tầng 4 (Trọng Nguyên Kiếp Kính).</li>
+<li><strong>Uy Lực Tăng Tiến:</strong> Phạm vi động đất và độ sắc bén của gai đá tăng mạnh ở các tầng cao, có thể thay đổi vĩnh viễn địa mạo của một vùng.</li>
+</ul>
+<p>4.  <strong>Pháp Thiên Tượng Địa (法天象地):</strong></p>
+<ul>
+<li><strong>Mô Tả:</strong> Tuyệt kỹ tối thượng. Kích hoạt toàn bộ tiềm năng huyết mạch, cơ thể hóa khổng lồ đạt tới trăm trượng, ngàn trượng. Trọng lượng cơ thể tăng theo cấp số nhân, mỗi cử động đều mang theo lực lượng áp đảo thiên địa.</li>
+<li><strong>Yêu Cầu:</strong> Đạt Tầng 5 (Kình Thiên Chi Trụ).</li>
+<li><strong>Uy Lực Tăng Tiến:</strong> Tầng 5 hóa thân thành tượng đá trăm trượng; Tầng 7 hòa mình vào đại địa, bản thân chính là một phần của đại lục, sức mạnh không thể đong đếm.</li>
+</ul>
+<h2>VI. YÊU CẦU & HẠN CHẾ</h2>
+<ul>
+<li><strong>Công Hiệu Đặc Biệt:</strong> Sức phòng thủ và hồi phục siêu việt khi tiếp xúc với mặt đất. Tuổi thọ cực kỳ dài lâu.</li>
+<li><strong>Tác Dụng Phụ:</strong> Tốc độ di chuyển và ra đòn chậm chạp. Dễ bị hạn chế khi chiến đấu trên không trung, trên biển cả, hoặc ở những nơi cách ly với đại địa (như Không Gian Trận Pháp). Sự "đồng hóa" quá mức có thể khiến người tu luyện dần mất đi nhân tính, biến thành một hòn đá vô tri nếu không có ý chí kiên định.</li>
+<li><strong>Yêu Cầu Tu Luyện:</strong> Phải có huyết mạch Cự Tộc tinh thuần hoặc Thiên Địa Chi Thể hiếm có. Cần một lượng tài nguyên Thổ hệ khổng lồ và thời gian bế quan cực dài.</li>
+</ul>
+<h2>VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)</h2>
+<ul>
+<li><strong>Triết Lý Cổ Đại:</strong> "Đại Địa Trường Sinh Quyết" không chỉ là công pháp chiến đấu, mà là một cách sống. Cự Tộc tin rằng họ là con của Đất Mẹ. Sự chậm chạp của họ không phải là nhược điểm, mà là sự kiên nhẫn của đồi núi trước bão táp thời gian.</li>
+<li><strong>Biểu Tượng Sức Mạnh:</strong> Công pháp này đại diện cho sự "Bất Biến" trong một thế giới tu chân đầy rẫy sự biến đổi. Nó chống lại mọi thứ hoa mỹ, phức tạp bằng sức mạnh tuyệt đối, trực diện và tàn bạo của tự nhiên.</li>
+<li><strong>Mối Nguy Nhỏ Bé:</strong> Nghịch lý thay, kẻ thù lớn nhất của công pháp đồ sộ này đôi khi lại là những công pháp cực kỳ tinh vi, tập trung vào xuyên thấu vi mô (như của Vi Tộc) hoặc các đòn tấn công linh hồn, do lớp giáp vật lý không thể chống đỡ hết những thứ không có hình thể.</li>
+</ul>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>
