@@ -30,3 +30,4 @@
 - [Chương 83: Sứ Mệnh Trung Tâm](Chương_00083_Sứ_Mệnh_Trung_Tâm.md)
 - [Chương 84: Bóng Ma Trung Tâm](Chương_00084_Bóng_Ma_Trung_Tâm.md)
 - [Chương 85: Giao Dịch Bóng Tối](Chương_00085_Giao_Dịch_Bóng_Tối.md)
+- [Chương 86: Hỗn Loạn Cửu Hoa](Chương_00086_Hỗn_Loạn_Cửu_Hoa.md)

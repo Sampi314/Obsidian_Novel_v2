@@ -379,6 +379,10 @@ window.chapterData = {
       "title": "Chương 91: Bí Mật Ngoại Môn"
     },
     {
+      "filename": "Chương_00092_Trận_Chiến_Không_Cân_Sức.md",
+      "title": "Chương 92: Trận Chiến Không Cân Sức"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -765,6 +769,10 @@ window.chapterData = {
     {
       "filename": "Chương_00085_Giao_Dịch_Bóng_Tối.md",
       "title": "Chương 85: Giao Dịch Bóng Tối"
+    },
+    {
+      "filename": "Chương_00086_Hỗn_Loạn_Cửu_Hoa.md",
+      "title": "Chương 86: Hỗn Loạn Cửu Hoa"
     }
   ]
 };
