@@ -733,3 +733,25 @@
 
 ## 3. TRẠNG THÁI HỆ THỐNG
 - **Tình trạng:** Các lỗi định dạng nhỏ đã được xử lý. Bản đồ thế giới đã cung cấp chi tiết tốt hơn về các bí cảnh quan trọng đóng vai trò làm bối cảnh cho các Arc đã qua và hiện tại.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Hậu Quả Trận Chiến)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 97 (Góc Nhìn Chính) và Chương 91 (Góc Nhìn Lệ Vô Tâm) khắc họa hậu quả sau đợt tấn công ngoại môn của Huyết Sát Minh.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00097_Tàn_Tích_Ngoại_Môn.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00091_Báo_Cáo_Trong_Máu.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện phát hiện 12 điểm định vị và Lệ Vô Tâm báo cáo Huyết Tước.
+  - `MỤC_LỤC.md` của cả hai góc nhìn.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Khúc dạo đầu của cuộc đại chiến đã xong. Cửu Hoa Kiếm Tông bước vào trạng thái phòng thủ cao nhất (Cửu Thiên Huyền Sương Trận) để đối phó với cuộc tổng tiến công sắp tới từ Huyết Sát Minh. Lệ Vô Tâm đang dưỡng thương chờ đợi ngày tàn sát.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết tiếp các chương mô tả đợt tổng tiến công thứ hai của Huyết Sát Minh và sự phản kháng của Cửu Hoa Kiếm Tông.

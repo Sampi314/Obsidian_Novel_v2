@@ -383,6 +383,26 @@ window.chapterData = {
       "title": "Chương 92: Trận Chiến Không Cân Sức"
     },
     {
+      "filename": "Chương_00093_Hội_Nghị_Thượng_Đỉnh.md",
+      "title": "Chương 93: Hội Nghị Thượng Đỉnh"
+    },
+    {
+      "filename": "Chương_00094_Bão_Táp_Cửu_Hoa.md",
+      "title": "Chương 94: Bão Táp Cửu Hoa"
+    },
+    {
+      "filename": "Chương_00095_Huyết_Chiến_Ngoại_Môn.md",
+      "title": "Chương 95: Huyết Chiến Ngoại Môn"
+    },
+    {
+      "filename": "Chương_00096_Cường_Giả_Hàng_Lâm.md",
+      "title": "Chương 00096: Cường Giả Hàng Lâm"
+    },
+    {
+      "filename": "Chương_00097_Tàn_Tích_Ngoại_Môn.md",
+      "title": "Chương 97: Tàn Tích Ngoại Môn"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -773,6 +793,26 @@ window.chapterData = {
     {
       "filename": "Chương_00086_Hỗn_Loạn_Cửu_Hoa.md",
       "title": "Chương 86: Hỗn Loạn Cửu Hoa"
+    },
+    {
+      "filename": "Chương_00087_Huyết_Vân_Áp_Thành.md",
+      "title": "Chương 87: Huyết Vân Áp Thành"
+    },
+    {
+      "filename": "Chương_00088_Cuộc_Thảm_Sát_Bắt_Đầu.md",
+      "title": "Chương 88: Cuộc Thảm Sát Bắt Đầu"
+    },
+    {
+      "filename": "Chương_00089_Sức_Mạnh_Tuyệt_Đối.md",
+      "title": "Chương 89: Sức Mạnh Tuyệt Đối"
+    },
+    {
+      "filename": "Chương_00090_Uy_Áp_Hóa_Thần.md",
+      "title": "Chương 00090: Uy Áp Hóa Thần"
+    },
+    {
+      "filename": "Chương_00091_Báo_Cáo_Trong_Máu.md",
+      "title": "Chương 91: Báo Cáo Trong Máu"
     }
   ]
 };
