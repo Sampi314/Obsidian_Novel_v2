@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00029 Đoạn Tuyệt Nhân Tính</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 29: Đoạn Tuyệt Nhân Tính</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Góc nhìn:</strong> <a href="../../Nhân_Vật/Lệ_Vô_Tâm.html">Lệ Vô Tâm</a></p>
+<p><strong>Địa điểm:</strong> Vạn Độc Môn - Bờ Suối Độc.</p>
+<p><strong>Thời điểm:</strong> Rạng sáng hôm sau.</p>
+<p><strong>Giao Điểm Cốt Truyện:</strong> Tuyến độc lập (Quá khứ).</p>
+<br>
+<p>---</p>
+<br>
+<p>A Mộc nằm ngửa bên bờ suối, hơi thở thoi thóp. Máu từ khắp nơi trên cơ thể hắn chảy ra, nhuộm đỏ cả dòng nước suối vốn đã đục ngầu.</p>
+<br>
+<p>Hắn nhìn ta. Lần này, trong ánh mắt hắn không còn sự sợ hãi nữa, mà là sự cam chịu. Hắn biết mình không thể thoát.</p>
+<br>
+<p>Ta ngồi xổm xuống bên cạnh hắn, lau lưỡi dao dính máu vào vạt áo hắn.</p>
+<br>
+<p>"Tại sao..." A Mộc mấp máy môi, thuốc tê dường như đã hết tác dụng một chút. Giọng hắn khàn đặc, yếu ớt như tiếng muỗi kêu. "Tại sao... không giết ta ngay...?"</p>
+<br>
+<p>"Vì ta muốn hiểu," ta nhìn vào mắt hắn. "Cảm giác phản bội người khác... nó như thế nào? Có vui không? Có thỏa mãn không?"</p>
+<br>
+<p>A Mộc cười khùng khục, máu trào ra từ khóe miệng. "Vui... rất vui... Nhìn kẻ khác ngu ngốc tin mình... cảm giác mình thông minh hơn... mạnh hơn..."</p>
+<br>
+<p>Hắn ho sặc sụa, rồi tiếp tục thều thào. "Thế giới này... chỉ có kẻ lừa và kẻ bị lừa... Kẻ ăn thịt và kẻ bị ăn... Ngươi... không hiểu sao...?"</p>
+<br>
+<p>"Ta hiểu rồi," ta gật đầu. "Cảm ơn ngươi đã dạy ta bài học này. Một bài học đắt giá."</p>
+<br>
+<p>Ta đứng dậy, nhìn lên bầu trời đang dần hửng sáng. Mưa đã tạnh. Những tia nắng đầu tiên xuyên qua tán lá rừng, chiếu rọi xuống khuôn mặt đầy máu của A Mộc.</p>
+<br>
+<p>"Ngươi nói đúng. Thế giới này tàn khốc lắm. Và để tồn tại... ta phải tàn khốc hơn nó."</p>
+<br>
+<p>Ta giơ con dao lên cao.</p>
+<br>
+<p>A Mộc nhắm mắt lại, chờ đợi cái chết.</p>
+<br>
+<p>"Vĩnh biệt, A Mộc. Vĩnh biệt... Hữu Tâm."</p>
+<br>
+<p><em>Phập!</em></p>
+<br>
+<p>Con dao cắm thẳng vào tim A Mộc. Hắn giật nảy người lên một cái, rồi nằm im bất động.</p>
+<br>
+<p>Ta rút dao ra. Máu bắn lên mặt ta, nóng hổi.</p>
+<br>
+<p>Ta đứng lặng nhìn cái xác của người từng là "bạn" mình. Trong lòng ta dâng lên một cảm giác trống rỗng kỳ lạ. Không vui sướng, không hối hận, không đau buồn. Chỉ là trống rỗng.</p>
+<br>
+<p>Như thể một phần linh hồn ta đã chết theo nhát dao đó.</p>
+<br>
+<p>Phần linh hồn mang tên "Lương Thiện".</p>
+<br>
+<p>Ta cúi xuống, lục lọi trong người hắn lần cuối, lấy đi túi trữ vật và thẻ bài thân phận của Huyết Ảnh Đường.</p>
+<br>
+<p>Rồi ta đẩy cái xác xuống suối. Dòng nước xiết cuốn hắn trôi đi, về phía hạ nguồn, nơi có những đầm lầy chứa đầy cá sấu và rắn độc.</p>
+<br>
+<p>Sẽ chẳng ai tìm thấy hắn. Cũng như sẽ chẳng ai tìm thấy Hữu Tâm ngày xưa nữa.</p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

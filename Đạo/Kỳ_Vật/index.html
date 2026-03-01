@@ -1,0 +1,214 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kỳ Vật</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-muted);
+            text-align: center;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        li {
+            background: var(--bg-lighter);
+            padding: 15px 20px;
+            border-radius: 4px;
+            border: 1px solid var(--border-color);
+            box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5), 0 2px 4px rgba(0, 0, 0, 0.3);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+        }
+
+        li::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0;
+            width: 4px; height: 100%;
+            background-color: var(--accent-red);
+            opacity: 0.7;
+            transition: all 0.3s ease;
+        }
+
+        li:hover {
+            transform: translateY(-3px);
+            border-color: var(--text-gold);
+            box-shadow: inset 0 0 15px rgba(212, 175, 55, 0.1), 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        li:hover::before {
+            width: 6px;
+            opacity: 1;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-light);
+            font-weight: bold;
+            display: block;
+            width: 100%;
+            font-size: 1.1em;
+            transition: color 0.3s ease;
+            padding-left: 10px;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+
+    <a href="../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<h1>Kỳ Vật</h1>
+<ul>
+    <li><a href="Dơi_Huyết_Mù.html">Dơi Huyết Mù (血盲蝠)</a></li>
+    <li><a href="Dược_Nhân.html">DƯỢC NHÂN (Dược Nô - 药人)</a></li>
+    <li><a href="Huyết_Linh_Chi.html">Huyết Linh Chi (血灵芝)</a></li>
+    <li><a href="Huyết_Mạch_Thượng_Cổ.html">HUYẾT MẠCH THƯỢNG CỔ (ANCIENT BLOOD VEINS)</a></li>
+    <li><a href="Huyết_Mộc.html">HUYẾT MỘC (BLOOD WOOD)</a></li>
+    <li><a href="Huyết_Nha.html">HUYẾT NHA (BLOOD CROWS)</a></li>
+    <li><a href="Huyết_Nhện_Chúa.html">Huyết Nhện Chúa (Blood Spider Queen)</a></li>
+    <li><a href="Huyết_Thi.html">HUYẾT THI (血尸)</a></li>
+    <li><a href="Huyết_Thần_Độc.html">KỲ VẬT: HUYẾT THẦN ĐỘC (血神毒)</a></li>
+    <li><a href="Huyết_Tướng.html">HUYẾT TƯỚNG (血将)</a></li>
+    <li><a href="Huyết_Vệ.html">HUYẾT VỆ (Blood Guard)</a></li>
+    <li><a href="Huyết_Vụ_Điểu.html">HUYẾT VỤ ĐIỂU (血霧鳥)</a></li>
+    <li><a href="Huyết_Đằng.html">HUYẾT ĐẰNG (血藤)</a></li>
+    <li><a href="Huyết_Độc_Lang.html">HUYẾT ĐỘC LANG (BLOOD POISON WOLF)</a></li>
+    <li><a href="Huyết_Độc_Lang_Vương.html">Huyết Độc Lang Vương (血毒狼王)</a></li>
+    <li><a href="Hàn_Ngọc.html">KỲ VẬT: HÀN NGỌC</a></li>
+    <li><a href="Hỏa_Linh_Thảo.html">HỒ SƠ KỲ VẬT: HỎA LINH THẢO</a></li>
+    <li><a href="Hỏa_Tích_Thảo.html">KỲ VẬT: HỎA TÍCH THẢO (火蜥草)</a></li>
+    <li><a href="Long_Cốt.html">KỲ VẬT: LONG CỐT</a></li>
+    <li><a href="Mộc_Linh_Vệ.html">KỲ VẬT: MỘC LINH VỆ (木灵卫)</a></li>
+    <li><a href="Mộng_Yểm_Hoa.html">MỘNG YỂM HOA (夢魘花)</a></li>
+    <li><a href="Nguyệt_Quang_Thảo.html">NGUYỆT QUANG THẢO (月光草)</a></li>
+    <li><a href="Nhện_Mặt_Quỷ.html">Nhện Mặt Quỷ (Demon Face Spider)</a></li>
+    <li><a href="Nấm_Mặt_Quỷ.html">NẤM MẶT QUỶ (Quỷ Diện Khuẩn - 鬼面菌)</a></li>
+    <li><a href="Rết_Lân_Tinh.html">Rết Lân Tinh (磷光蜈蚣)</a></li>
+    <li><a href="Sa_Bạo_Cổ.html">SA BẠO CỔ (沙暴蠱)</a></li>
+    <li><a href="Sa_Hồ.html">SINH VẬT: SA HỒ (沙狐)</a></li>
+    <li><a href="Sa_Hồn.html">KỲ VẬT: SA HỒN (SAND WRAITH)</a></li>
+    <li><a href="Sa_Sương.html">KỲ VẬT: SA SƯƠNG (沙霜)</a></li>
+    <li><a href="Thiên_Tinh_Cổ.html">THIÊN TINH CỔ (天星蛊)</a></li>
+    <li><a href="Thiên_Trụ_Tương.html">KỲ VẬT: THIÊN TRỤ TƯƠNG (天柱浆)</a></li>
+    <li><a href="Thủy_Cổ.html">THỦY CỔ (水蠱)</a></li>
+    <li><a href="Thủy_Linh_Châu.html">KỲ VẬT: THỦY LINH CHÂU (MẢNH VỠ)</a></li>
+    <li><a href="Thủy_Thi.html">YÊU THÚ: THỦY THI</a></li>
+    <li><a href="Tinh_Linh_Cổ_Ngọc.html">TINH LINH CỔ NGỌC (ANCIENT ELF JADE)</a></li>
+    <li><a href="Tuyết_Liên_Hoa.html">TUYẾT LIÊN HOA (雪莲花)</a></li>
+    <li><a href="Vong_Linh.html">Vong Linh (Undead Spirit)</a></li>
+    <li><a href="Vạn_Độc_Châu.html">KỲ VẬT: VẠN ĐỘC CHÂU</a></li>
+    <li><a href="Xương_Rồng_Thiên_Trụ.html">Xương Rồng Thiên Trụ (Heavenly Pillar Cactus)</a></li>
+    <li><a href="Độc_Long_Tích.html">ĐỘC LONG TÍCH (POISON DRAGON LIZARD)</a></li>
+</ul>
+
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

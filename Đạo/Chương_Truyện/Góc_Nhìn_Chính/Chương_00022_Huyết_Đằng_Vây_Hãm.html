@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00022 Huyết Đằng Vây Hãm</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 22: Huyết Đằng Vây Hãm</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Nhân vật chính:</strong> <a href="../../Nhân_Vật/Diệp_Tĩnh_Sương.html">Diệp Tĩnh Sương</a>, <a href="../../Nhân_Vật/Lâm_Phong.html">Lâm Phong</a>, <a href="../../Nhân_Vật/Hứa_Thanh_Vân.html">Hứa Thanh Vân</a>, <a href="../../Nhân_Vật/Hứa_Nhược_Thủy.html">Hứa Nhược Thủy</a></p>
+<p><strong>Địa điểm:</strong> <a href="../../Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.html">Rừng Huyết Độc</a></p>
+<br>
+<p>---</p>
+<br>
+<p>Màn sương độc màu hồng phấn ngày càng dày đặc, tựa như tấm voan mỏng chết chóc bao trùm lấy không gian. Ánh sáng mặt trời yếu ớt xuyên qua kẽ lá, nhuộm lên vạn vật một sắc đỏ quỷ dị.</p>
+<br>
+<p>"Cẩn thận dưới chân." Lâm Phong hạ thấp giọng, mũi tên trên tay đã lên dây, ánh mắt cảnh giác quét qua những bụi cây rậm rạp xung quanh. <em>Thanh Mộc Trường Sinh Quyết</em> giúp hắn cảm nhận được sự sống xung quanh, nhưng ở nơi này, sự sống lại mang theo hơi thở của tử vong.</p>
+<br>
+<p>Hứa Thanh Vân cõng mẹ trên lưng, mồ hôi ướt đẫm trán. Hơi thở của Hứa Nhược Thủy phả vào gáy hắn nóng hổi, nhịp tim yếu ớt như ngọn đèn trước gió. Hắn siết chặt tay, cố gắng bước đi thật nhẹ nhàng để không kinh động đến những sinh vật ẩn nấp trong bóng tối.</p>
+<br>
+<p>Đi cuối cùng là Diệp Tĩnh Sương. Nàng cầm <em>Hàn Ngọc Kiếm</em> trong tay, hàn khí tỏa ra nhè nhẹ, vừa đủ để xua tan chướng khí xung quanh nhóm người nhưng không quá mạnh để thu hút sự chú ý. Đôi mắt phượng lạnh lùng quan sát từng cử động nhỏ nhất của khu rừng.</p>
+<br>
+<p>"Có gì đó không đúng," Diệp Tĩnh Sương đột ngột lên tiếng, giọng nói trong trẻo nhưng đầy vẻ nghiêm trọng. "Khu rừng này quá yên tĩnh."</p>
+<br>
+<p>Lời vừa dứt, một tiếng rít xé gió vang lên.</p>
+<br>
+<p>Từ trong những tán cây rậm rạp, hàng chục dây leo đỏ rực như máu – <em>Huyết Đằng</em> – đồng loạt lao xuống như những mũi lao sắc nhọn. Chúng nhắm thẳng vào ba người, mang theo mùi tanh nồng nặc.</p>
+<br>
+<p>"Tránh ra!" Lâm Phong hét lớn, đẩy mạnh Hứa Thanh Vân sang một bên.</p>
+<br>
+<p>Một dây leo to bằng bắp tay quất mạnh vào chỗ Hứa Thanh Vân vừa đứng, tạo thành một rãnh sâu trên mặt đất, khói độc bốc lên nghi ngút.</p>
+<br>
+<p>"Là Huyết Đằng ngàn năm!" Lâm Phong kinh hãi thốt lên. "Chúng đã thành tinh rồi!"</p>
+<br>
+<p>Không để họ kịp thở, những dây leo khác tiếp tục tấn công. Chúng linh hoạt như những con trăn khổng lồ, uốn lượn và bao vây lấy nhóm người từ mọi phía.</p>
+<br>
+<p>"Bảo vệ Hứa phu nhân!" Diệp Tĩnh Sương quát, thân hình nàng lao vụt lên như một cánh chim trắng. Kiếm quang lóe lên, hàn khí bùng phát dữ dội.</p>
+<br>
+<p>"Hàn Mai Kiếm Quyết – Lạc Tuyết Vô Ngân!"</p>
+<br>
+<p>Hàng chục bông hoa tuyết bằng kiếm khí bay ra, chém đứt lìa những dây leo đang lao tới. Máu đỏ từ vết cắt phun ra như suối, nhưng kỳ lạ thay, những đoạn dây bị đứt lại nhanh chóng mọc lại, thậm chí còn hung hãn hơn trước.</p>
+<br>
+<p>"Chúng hút máu để hồi phục!" Lâm Phong nhận ra vấn đề. Hắn lập tức vận chuyển linh lực, hai tay kết ấn.</p>
+<br>
+<p>"Thanh Mộc Quyết – Mộc Linh Phược!"</p>
+<br>
+<p>Từ dưới đất, những rễ cây bình thường đột ngột trồi lên, quấn chặt lấy những gốc Huyết Đằng, cố gắng kìm hãm sự di chuyển của chúng. Tuy nhiên, sức mạnh của Huyết Đằng ở Rừng Huyết Độc được khuếch đại gấp bội, những rễ cây của Lâm Phong nhanh chóng bị siết nát.</p>
+<br>
+<p>Hứa Thanh Vân đặt mẹ dựa vào một gốc cây lớn, rút kiếm đứng chắn trước mặt bà. <em>Lưu Sa Kiếm</em> trong tay hắn run lên bần bật, nhưng ánh mắt chàng thiếu niên lại kiên định lạ thường.</p>
+<br>
+<p>"Muốn đụng đến mẹ ta, phải bước qua xác ta trước!" Hắn gầm lên, chém mạnh vào một dây leo đang lao tới.</p>
+<br>
+<p>Tình thế ngàn cân treo sợi tóc. Huyết Đằng dường như vô tận, lớp này bị chém đứt lại có lớp khác lao tới. Diệp Tĩnh Sương dù kiếm pháp cao siêu đến đâu cũng bắt đầu cảm thấy đuối sức. Hàn khí của nàng tiêu hao rất nhanh để chống lại hỏa độc của khu rừng.</p>
+<br>
+<p>"Cứ thế này chúng ta sẽ chết hết ở đây," Diệp Tĩnh Sương nói, hơi thở gấp gáp. "Phải tìm ra gốc chính của chúng."</p>
+<br>
+<p>Lâm Phong nhắm mắt lại, cố gắng mở rộng thần thức hết mức có thể, bỏ qua sự đau đớn khi chướng khí xâm nhập. Trong biển linh lực hỗn loạn màu đỏ, hắn tìm kiếm một điểm xanh yếu ớt.</p>
+<br>
+<p>"Hướng ba giờ! Cách đây năm mươi trượng!" Hắn mở bừng mắt, chỉ tay về phía một bụi cây gai góc khổng lồ.</p>
+<br>
+<p>"Thanh Vân, bảo vệ mẹ ngươi! Lâm Phong, yểm trợ ta!"</p>
+<br>
+<p>Diệp Tĩnh Sương không chút do dự, mũi chân điểm nhẹ, cả người hóa thành một luồng sáng trắng lao thẳng về phía mục tiêu.</p>
+<br>
+<p>Huyết Đằng dường như cảm nhận được nguy hiểm, chúng điên cuồng tập trung lại, tạo thành một bức tường dây leo dày đặc chắn trước mặt nàng.</p>
+<br>
+<p>"Mở đường!" Lâm Phong giương <em>Truy Phong Cung</em>, ba mũi tên gỗ đen kịt được bắn ra liên tiếp.</p>
+<br>
+<p>"Phá!"</p>
+<br>
+<p>Mũi tên mang theo kình lực xoáy tròn, xuyên thủng lớp phòng ngự của Huyết Đằng, tạo ra một lỗ hổng nhỏ.</p>
+<br>
+<p>Chỉ chờ có thế, Diệp Tĩnh Sương lách mình qua khe hở. Trước mắt nàng là một đóa hoa khổng lồ màu đỏ tươi, nhụy hoa như một cái miệng đầy răng nhọn đang rỉ máu.</p>
+<br>
+<p>"Chính là ngươi!"</p>
+<br>
+<p>Nàng dồn toàn bộ linh lực còn lại vào kiếm, chém xuống một đường dứt khoát.</p>
+<br>
+<p>"Hàn Mai Nhất Kiếm – Băng Phong Vạn Lý!"</p>
+<br>
+<p>Một luồng kiếm khí lạnh lẽo đến cực điểm bùng nổ, đóng băng toàn bộ đóa hoa quái dị. Cái lạnh lan nhanh theo thân dây, biến cả khu rừng Huyết Đằng xung quanh thành những tác phẩm điêu khắc bằng băng đỏ rực.</p>
+<br>
+<p>"Rắc... rắc..."</p>
+<br>
+<p>Đóa hoa vỡ vụn thành ngàn mảnh băng. Những dây leo xung quanh lập tức héo rũ, rơi xuống đất như những sợi dây thừng vô tri.</p>
+<br>
+<p>Diệp Tĩnh Sương đáp xuống đất, lảo đảo khuỵu xuống, chống kiếm để giữ thăng bằng. Lâm Phong và Hứa Thanh Vân vội vàng chạy tới.</p>
+<br>
+<p>"Cô không sao chứ?" Lâm Phong lo lắng hỏi.</p>
+<br>
+<p>"Ta ổn," Diệp Tĩnh Sương xua tay, lấy ra một viên <em>Hồi Nguyên Đan</em> bỏ vào miệng. "Chỉ là tiêu hao quá nhiều linh lực."</p>
+<br>
+<p>Nhóm người chưa kịp vui mừng thì ánh mắt Diệp Tĩnh Sương bỗng đanh lại. Nàng cúi xuống nhặt một vật rơi ra từ xác đóa hoa Huyết Đằng. Đó là một mảnh vải đen, bên trên thêu hình con rết màu xanh lục.</p>
+<br>
+<p>"Vạn Độc Môn..." Lâm Phong nhìn mảnh vải, sắc mặt biến đổi.</p>
+<br>
+<p>"Chúng không chỉ truy sát," Diệp Tĩnh Sương siết chặt mảnh vải trong tay. "Chúng đang lùa chúng ta. Huyết Đằng này đã bị ai đó kích động bằng máu tươi từ trước."</p>
+<br>
+<p>Hứa Thanh Vân rùng mình. "Ý cô là... chúng ta đang đi vào cái bẫy của chúng?"</p>
+<br>
+<p>Diệp Tĩnh Sương nhìn về phía sâu trong rừng, nơi bóng tối vẫn còn dày đặc.</p>
+<br>
+<p>"Không sai. Phía trước có lẽ là thiên la địa võng. Nhưng chúng ta không còn đường lui nữa rồi."</p>
+<br>
+<p><strong>[Thơ] Huyết Đằng Vây Hãm</strong></p>
+<br>
+<p><em>Nguyên văn:</em></p>
+<p>血藤千丈鎖幽冥</p>
+<p>毒氣森森鬼亦驚</p>
+<p>劍影寒光破絕路</p>
+<p>人心險惡勝妖精</p>
+<br>
+<p><em>Hán Việt:</em></p>
+<p>Huyết đằng thiên trượng tỏa u minh</p>
+<p>Độc khí sâm sâm quỷ diệc kinh</p>
+<p>Kiếm ảnh hàn quang phá tuyệt lộ</p>
+<p>Nhân tâm hiểm ác thắng yêu tinh</p>
+<br>
+<p><em>Dịch nghĩa:</em></p>
+<p>Dây máu ngàn trượng khóa cõi u minh,</p>
+<p>Khí độc âm u khiến quỷ thần cũng kinh sợ.</p>
+<p>Bóng kiếm ánh lạnh phá tan đường cùng,</p>
+<p>Lòng người hiểm ác còn hơn cả yêu tinh.</p>
+<br>
+<p>---</p>
+<p><em>Hết chương 22.</em></p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

@@ -12,3 +12,4 @@ scripts/verification/*.html
 node_modules/
 dist/
 test_server/
+server.log

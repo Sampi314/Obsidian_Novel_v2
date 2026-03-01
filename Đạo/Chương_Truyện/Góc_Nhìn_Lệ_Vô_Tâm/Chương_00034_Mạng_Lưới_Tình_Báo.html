@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00034 Mạng Lưới Tình Báo</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 34: Mạng Lưới Tình Báo</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Góc nhìn:</strong> <a href="../../Nhân_Vật/Lệ_Vô_Tâm.html">Lệ Vô Tâm</a></p>
+<p><strong>Địa điểm:</strong> Chợ Đen Nam Cương.</p>
+<p><strong>Thời điểm:</strong> 1 năm sau sự kiện Độc Trùng Cốc.</p>
+<p><strong>Giao Điểm Cốt Truyện:</strong> Tuyến độc lập (Quá khứ).</p>
+<br>
+<p>---</p>
+<br>
+<p>Muốn trở thành kẻ đứng đầu, sức mạnh cơ bắp thôi là chưa đủ. Ngươi cần có tai mắt ở khắp nơi. Ngươi cần biết kẻ thù của ngươi ăn gì, ngủ với ai, và sợ cái gì nhất.</p>
+<br>
+<p>Đó là lý do ta có mặt tại Chợ Đen Nam Cương đêm nay.</p>
+<br>
+<p>Nơi này là thiên đường của tội phạm, nơi mọi thứ đều có thể mua bán, từ độc dược, vũ khí, nô lệ, cho đến thông tin. Ta khoác lên mình bộ áo choàng xám tro, che giấu thân phận đệ tử Vạn Độc Môn.</p>
+<br>
+<p>Ta bước vào quán rượu "Huyết Tửu", một nơi ồn ào và nồng nặc mùi rượu rẻ tiền. Ta đi thẳng đến bàn trong cùng, nơi một gã lùn chột mắt đang ngồi uống rượu một mình.</p>
+<br>
+<p>"Lão Thử," ta gọi khẽ.</p>
+<br>
+<p>Gã lùn ngẩng đầu lên, con mắt còn lại nheo nheo nhìn ta. "Khách lạ? Muốn mua gì? Mạng người hay thuốc lắc?"</p>
+<br>
+<p>Ta đặt lên bàn một túi linh thạch. "Ta muốn mua tin tức. Và ta muốn mua sự trung thành của ngươi."</p>
+<br>
+<p>Lão Thử nhìn túi linh thạch, rồi nhìn ta, cười khẩy. "Trung thành? Ở cái chợ này, trung thành là thứ rẻ rúng nhất. Hôm nay ta bán mạng cho ngươi, ngày mai ta có thể bán mạng ngươi cho kẻ khác nếu được giá cao hơn."</p>
+<br>
+<p>"Ta biết," ta bình thản đáp. "Nhưng nếu ta cho ngươi thứ mà không ai có thể cho ngươi thì sao?"</p>
+<br>
+<p>Ta mở lòng bàn tay. Một con bọ nhỏ màu vàng kim đang bò lổm ngổm.</p>
+<br>
+<p>"Kim Tàm Cổ?" Lão Thử biến sắc, giọng run lên vì tham lam.</p>
+<br>
+<p>Đây là loại cổ trùng có thể giúp người ta đột phá Luyện Khí tầng mười, một bảo vật vô giá đối với những kẻ tán tu kẹt ở ngưỡng cửa Trúc Cơ như hắn.</p>
+<br>
+<p>"Nuốt nó đi," ta đẩy con bọ về phía hắn. "Nó sẽ giúp ngươi đột phá. Nhưng đổi lại, mạng sống của ngươi thuộc về ta. Chỉ cần ngươi có ý đồ phản bội, Kim Tàm Cổ sẽ ăn sạch lục phủ ngũ tạng của ngươi từ bên trong."</p>
+<br>
+<p>Lão Thử nhìn con bọ, mồ hôi vã ra trên trán. Hắn biết rõ sự nguy hiểm, nhưng cám dỗ của sức mạnh quá lớn. Hắn đã kẹt ở Luyện Khí tầng chín suốt hai mươi năm nay rồi.</p>
+<br>
+<p>Hắn run rẩy cầm con bọ lên, nhắm mắt nuốt chửng.</p>
+<br>
+<p>Một lát sau, mặt hắn đỏ bừng, khí thế trên người bùng nổ.</p>
+<br>
+<p>"Ta... ta đột phá rồi!" Hắn reo lên, quỳ sụp xuống chân ta. "Chủ nhân! Lão Thử này nguyện làm trâu ngựa cho ngài!"</p>
+<br>
+<p>Ta mỉm cười hài lòng. Đây mới chỉ là bước đầu tiên.</p>
+<br>
+<p>"Đứng lên đi. Từ nay, nhiệm vụ của ngươi là xây dựng một mạng lưới tình báo cho ta. Ta muốn biết mọi động tĩnh của các trưởng lão trong Vạn Độc Môn, và cả những gia tộc lớn ở biên giới Nam Cương."</p>
+<br>
+<p>"Tuân lệnh chủ nhân!"</p>
+<br>
+<p>Ta rời khỏi quán rượu, hòa mình vào dòng người tấp nập của Chợ Đen.</p>
+<br>
+<p>Một con chuột chũi đã được thả vào lòng đất. Sớm thôi, nó sẽ đào ra cho ta những bí mật đen tối nhất của thế giới này. Và khi đó, ta sẽ nắm giữ vận mệnh của bọn chúng trong lòng bàn tay.</p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

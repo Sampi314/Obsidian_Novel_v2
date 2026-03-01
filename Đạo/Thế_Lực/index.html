@@ -1,0 +1,245 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thế Lực</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: center;
+            letter-spacing: 1px;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-muted);
+            text-align: center;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        li {
+            background: var(--bg-lighter);
+            padding: 15px 20px;
+            border-radius: 4px;
+            border: 1px solid var(--border-color);
+            box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5), 0 2px 4px rgba(0, 0, 0, 0.3);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+        }
+
+        li::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0;
+            width: 4px; height: 100%;
+            background-color: var(--accent-red);
+            opacity: 0.7;
+            transition: all 0.3s ease;
+        }
+
+        li:hover {
+            transform: translateY(-3px);
+            border-color: var(--text-gold);
+            box-shadow: inset 0 0 15px rgba(212, 175, 55, 0.1), 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        li:hover::before {
+            width: 6px;
+            opacity: 1;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-light);
+            font-weight: bold;
+            display: block;
+            width: 100%;
+            font-size: 1.1em;
+            transition: color 0.3s ease;
+            padding-left: 10px;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+
+    <a href="../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<h1>Thế Lực</h1>
+<ul>
+    <li><a href="Bách_Bảo_Các.html">Bách Bảo Các (百宝阁)</a></li>
+    <li><a href="Bách_Hoa_Cốc.html">Bách Hoa Cốc (百花谷)</a></li>
+    <li><a href="Bách_Thú_Sơn_Trang.html">Bách Thú Sơn Trang (百兽山庄)</a></li>
+    <li><a href="Băng_Lang_Bộ_Lạc.html">Băng Lang Bộ Lạc (冰狼部落)</a></li>
+    <li><a href="Băng_Ngục_Thành.html">Băng Ngục Thành (冰狱城)</a></li>
+    <li><a href="Bắc_Hải_Cự_Yêu_Hang.html">Bắc Hải Cự Yêu Hang (北海巨妖穴)</a></li>
+    <li><a href="Cổ_Nguyệt_Thần_Giáo.html">Cổ Nguyệt Thần Giáo (古月神教)</a></li>
+    <li><a href="Cổ_Thạch_Bộ_Lạc.html">Cổ Thạch Bộ Lạc (古石部落)</a></li>
+    <li><a href="Cửu_Hoa_Kiếm_Tông.html">CỬU HOA KIẾM TÔNG (九花劍宗)</a></li>
+    <li><a href="Cự_Kình_Bảo.html">Cự Kình Bảo (巨鲸堡)</a></li>
+    <li><a href="Cự_Linh_Tông.html">Cự Linh Tông (巨灵宗)</a></li>
+    <li><a href="Cực_Quang_Thần_Điện.html">Cực Quang Thần Điện (极光神殿)</a></li>
+    <li><a href="Dược_Vương_Cốc.html">DƯỢC VƯƠNG CỐC (药王谷)</a></li>
+    <li><a href="Giao_Nhân_Tộc_Liên_Minh.html">Giao Nhân Tộc Liên Minh (鲛人族联盟)</a></li>
+    <li><a href="Hoàng_Sa_Cổ_Quốc.html">Hoàng Sa Cổ Quốc (黄沙古国)</a></li>
+    <li><a href="Huyết_Ma_Tông.html">Huyết Ma Tông (血魔宗)</a></li>
+    <li><a href="Huyền_Băng_Cung.html">HUYỀN BĂNG CUNG (玄冰宫)</a></li>
+    <li><a href="Hàn_Kiếm_Cốc.html">Hàn Kiếm Cốc (寒剑谷)</a></li>
+    <li><a href="Hải_Thần_Cung.html">Hải Thần Cung (海神宫)</a></li>
+    <li><a href="Hải_Yêu_Mê_Cung.html">Hải Yêu Mê Cung (海妖迷宫)</a></li>
+    <li><a href="Hắc_Báo_Trại.html">Hắc Báo Trại (黑豹寨)</a></li>
+    <li><a href="Hắc_Hải_Hải_Tặc.html">Hắc Hải Hải Tặc (黑海海贼)</a></li>
+    <li><a href="Hợp_Hoan_Tông.html">Hợp Hoan Tông (合欢宗)</a></li>
+    <li><a href="Kim_Sa_Tự.html">Kim Sa Tự (金沙寺)</a></li>
+    <li><a href="Liệt_Dương_Tông.html">Liệt Dương Tông (烈阳宗)</a></li>
+    <li><a href="Long_Cung.html">Long Cung (龙宫)</a></li>
+    <li><a href="Luyện_Khí_Đại_Sư_Hội.html">Thần Khí Phường (神器坊)</a></li>
+    <li><a href="Lôi_Trì_Thánh_Địa.html">Lôi Trì Thánh Địa (雷池圣地)</a></li>
+    <li><a href="Lưu_Sa_Huyễn_Ảo.html">Lưu Sa Huyễn Cung (流沙幻宫)</a></li>
+    <li><a href="Ma_Đạo_Minh.html">Cửu U Ma Tông (九幽魔宗)</a></li>
+    <li><a href="Ngự_Kiếm_Sơn_Trang.html">Ngự Kiếm Sơn Trang (御剑山庄)</a></li>
+    <li><a href="Phiêu_Miễu_Băng_Hải.html">Phiêu Miễu Băng Hải (飘渺冰海)</a></li>
+    <li><a href="Phong_Bạo_Thương_Đội.html">Phong Bạo Thương Đội (风暴商队)</a></li>
+    <li><a href="Phong_Sát_Cốc.html">Phong Sát Cốc (风煞谷)</a></li>
+    <li><a href="Pháo_Đài_Xanh_Hội.html">Thanh Mộc Kỵ Sĩ Đoàn (青木骑士团)</a></li>
+    <li><a href="Quỷ_Thị_Nam_Cương.html">Quỷ Thị Nam Cương (南疆鬼市)</a></li>
+    <li><a href="Sa_Tặc_Liên_Minh.html">THẾ LỰC: SA TẶC LIÊN MINH (沙贼联盟)</a></li>
+    <li><a href="San_Hô_Đảo_Quốc.html">San Hô Đảo Quốc (珊瑚岛国)</a></li>
+    <li><a href="Sương_Ma_Uyển.html">Sương Ma Uyển (霜魔苑)</a></li>
+    <li><a href="Thanh_Đế_Cung.html">Thanh Đế Cung (青帝宫)</a></li>
+    <li><a href="Thiên_Kiêu_Học_Viện.html">Thiên Kiêu Học Viện (天骄学院)</a></li>
+    <li><a href="Thiên_Môn_Kính_Đài.html">Thiên Môn Kính Đài (天门境台)</a></li>
+    <li><a href="Thiên_Mộc_Thành.html">Thiên Mộc Thành (天木城)</a></li>
+    <li><a href="Thiên_Sa_Thương_Hội.html">THIÊN SA THƯƠNG HỘI (天沙商會)</a></li>
+    <li><a href="Thiên_Sơn_Đông_Cốc.html">Thiên Sơn Đông Cốc (天山冬谷)</a></li>
+    <li><a href="Thiên_Trụ_Hộ_Vệ_Đoàn.html">Thiên Trụ Hộ Vệ Đoàn (天柱护卫团)</a></li>
+    <li><a href="Thiên_Yêu_Đình.html">Thiên Yêu Đình (天妖庭)</a></li>
+    <li><a href="Thái_Ất_Môn.html">Thái Ất Môn (太乙门)</a></li>
+    <li><a href="Thạch_Linh_Cung.html">Thạch Linh Cung (石灵宫)</a></li>
+    <li><a href="Thần_Cung_Bắn_Sa.html">Thần Cung Môn (神弓门)</a></li>
+    <li><a href="Thủy_Kiếm_Đảo.html">Thủy Kiếm Đảo (水剑岛)</a></li>
+    <li><a href="Thủy_Nguồn_Bảo_Vệ_Đoàn.html">Thanh Lương Thủ Vệ (清凉守卫)</a></li>
+    <li><a href="Tinh_Linh_Vương_Đình.html">Tinh Linh Vương Đình (精灵王庭)</a></li>
+    <li><a href="Tiên_Cầm_Viện.html">Tiên Cầm Viện (仙禽院)</a></li>
+    <li><a href="Trích_Tinh_Lâu.html">Trích Tinh Lâu (摘星楼)</a></li>
+    <li><a href="Tuyết_Cự_Nhân_Đảo.html">Tuyết Cự Nhân Đảo (雪巨人岛)</a></li>
+    <li><a href="Tử_Vong_Chi_Thung_Lũng.html">Tử Vong Chi Thung Lũng (死亡之谷)</a></li>
+    <li><a href="Vu_Tộc_Chiếu_Cáo.html">Vu Tộc Chiếu Cáo (巫族祭坛)</a></li>
+    <li><a href="Vân_Tông.html">Vân Tông (云宗)</a></li>
+    <li><a href="Vô_Tranh_Tự.html">Vô Tranh Tự (无争寺)</a></li>
+    <li><a href="Vũ_Hoàng_Các.html">Vũ Hoàng Các (羽皇阁)</a></li>
+    <li><a href="Vạn_Trùng_Cốc.html">Vạn Trùng Cốc (万虫谷)</a></li>
+    <li><a href="Vạn_Tượng_Sâm_La.html">Vạn Tượng La Bàn (万象罗盘)</a></li>
+    <li><a href="Vạn_Yêu_Thành.html">Vạn Yêu Thành (万妖城)</a></li>
+    <li><a href="Vạn_Độc_Môn.html">VẠN ĐỘC MÔN (万毒门)</a></li>
+    <li><a href="Vực_Thẳm_Ma_Cung.html">Vực Thẳm Ma Cung (深渊魔宫)</a></li>
+    <li><a href="Đan_Hà_Cốc.html">ĐAN HÀ CỐC (丹河谷)</a></li>
+    <li><a href="Đại_Càn_Hoàng_Triều.html">Đại Càn Hoàng Triều (大乾皇朝)</a></li>
+    <li><a href="Độc_Long_Bảo.html">Độc Long Bảo (毒龙堡)</a></li>
+    <li><a href="Ảnh_Nguyệt_Uyển.html">Ảnh Nguyệt Uyển (影月苑)</a></li>
+    <li><a href="Ảo_Ảnh_Lâm_Tộc.html">Ảo Ảnh Lâm Tộc (幻影林族)</a></li>
+</ul>
+
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00005 Bóng Tối Cô Độc</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 5: Bóng Tối Cô Độc</h1>
+<p><button onclick="speakChapter()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button></p>
+<p><button onclick="pauseSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏸️ Tạm Dừng</button></p>
+<p><button onclick="resumeSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏯️ Tiếp Tục</button></p>
+<p><button onclick="stopSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏹️ Dừng</button></p>
+<p></div></p>
+<p><script></p>
+<p>var synth = window.speechSynthesis;</p>
+<p>var utterance = null;</p>
+<br>
+<p>function speakChapter() {</p>
+<p>if (synth.speaking) {</p>
+<p>console.error("speechSynthesis.speaking");</p>
+<p>return;</p>
+<p>}</p>
+<p>// Clone body to remove navigation before reading</p>
+<p>var content = document.body.cloneNode(true);</p>
+<p>var nav = content.querySelector("#chapter-navigation");</p>
+<p>if (nav) {</p>
+<p>nav.remove();</p>
+<p>}</p>
+<p>var text = content.innerText;</p>
+<p>utterance = new SpeechSynthesisUtterance(text);</p>
+<p>utterance.lang = "vi-VN";</p>
+<p>synth.speak(utterance);</p>
+<p>}</p>
+<br>
+<p>function pauseSpeech() {</p>
+<p>if (synth.speaking && !synth.paused) {</p>
+<p>synth.pause();</p>
+<p>}</p>
+<p>}</p>
+<br>
+<p>function resumeSpeech() {</p>
+<p>if (synth.paused) {</p>
+<p>synth.resume();</p>
+<p>}</p>
+<p>}</p>
+<br>
+<p>function stopSpeech() {</p>
+<p>if (synth.speaking) {</p>
+<p>synth.cancel();</p>
+<p>}</p>
+<p>}</p>
+<p></script></p>
+<p></div></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 5: Bóng Tối Cô Độc</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Góc nhìn:</strong> <a href="../../Nhân_Vật/Lệ_Vô_Tâm.html">Lệ Vô Tâm</a></p>
+<p><strong>Địa điểm:</strong> Vạn Độc Môn (Hang động Tạp Dịch - Khu vực bị bỏ hoang).</p>
+<p><strong>Thời điểm:</strong> 1 tháng sau cái chết của A Mộc (Hữu Tâm 14 tuổi).</p>
+<p><strong>Giao Điểm Cốt Truyện:</strong> Tuyến độc lập (Quá khứ).</p>
+<br>
+<p>---</p>
+<br>
+<p>A Mộc đã chết. Hữu Tâm cũng đã chết.</p>
+<br>
+<p>Giờ đây, trong hang động lạnh lẽo này, chỉ còn lại một bóng ma lầm lũi tên là Lệ Vô Tâm.</p>
+<br>
+<p>Một tháng qua, ta không nói một lời nào. Ta tự cô lập mình trong một góc khuất của khu tạp dịch, nơi mà ngay cả lũ chuột cũng không buồn lui tới. Ta không còn trốn tránh đám đệ tử ngoại môn nữa, nhưng bọn chúng cũng không dám đến gần ta.</p>
+<br>
+<p>Ánh mắt của ta... Độc Cô Lão Quái nói đúng, ánh mắt của ta bây giờ giống hệt ánh mắt của một con rắn độc. Lạnh lẽo, vô cảm, và luôn chực chờ phun nọc độc.</p>
+<br>
+<p>Ta ngồi xếp bằng trên tảng đá, lòng bàn tay xòe ra. Một con rết nhỏ màu tím đang bò trườn trên da thịt ta.</p>
+<br>
+<p>"Mày đói rồi phải không?" Ta thì thầm, giọng khản đặc vì lâu ngày không nói.</p>
+<br>
+<p>Con rết ngẩng đầu lên, hai cái râu rung rinh như hiểu ý.</p>
+<br>
+<p>Ta lấy một con dao nhỏ, rạch nhẹ lên đầu ngón tay cái. Máu tươi rỉ ra, đỏ thẫm và có mùi hơi hăng hắc. Ta đưa ngón tay lại gần con rết. Nó lập tức bám lấy, tham lam hút lấy dòng máu nóng hổi.</p>
+<br>
+<p>Cảm giác đau nhói truyền đến, nhưng ta không hề nhăn mặt. Ta mỉm cười.</p>
+<br>
+<p>Đây là người bạn mới của ta. Nó không biết nói dối. Nó không biết phản bội. Nó chỉ cần máu của ta, và đổi lại, nó cho ta nọc độc.</p>
+<br>
+<p>Ta đặt tên cho nó là <a href="../../Kỳ_Vật/Tiểu_Huyết_Cổ.html">Tiểu Huyết</a>.</p>
+<br>
+<p>"Vô Tâm! Lão Quái gọi ngươi!"</p>
+<br>
+<p>Tiếng quát của một tên cai ngục vọng vào từ cửa hang. Hắn đứng tít ngoài xa, tay lăm lăm cây roi, nhưng không dám bước vào. Hắn sợ ta. Hay đúng hơn, hắn sợ cái xác chết khô quắt của A Mộc mà ta đã treo lủng lẳng trước cửa hang suốt ba ngày trước khi bị lôi đi.</p>
+<br>
+<p>Ta vuốt nhẹ Tiểu Huyết, để nó chui tọt vào trong ống tay áo rộng thùng thình.</p>
+<br>
+<p>"Ta biết rồi."</p>
+<br>
+<p>Ta đứng dậy, bước ra ánh sáng. Ánh nắng mặt trời chói chang khiến ta nheo mắt khó chịu. Ta đã quen với bóng tối. Bóng tối an toàn hơn. Trong bóng tối, ta là kẻ đi săn, không phải con mồi.</p>
+<br>
+<p>Trên đường đi đến Vạn Độc Quật, ta gặp Vương Thông. Hắn đang đi cùng đám tay chân, cười nói rôm rả.</p>
+<br>
+<p>Thấy ta, tiếng cười tắt ngấm. Vương Thông lùi lại một bước, tay vô thức đặt lên đốc kiếm. Ánh mắt hắn hiện lên vẻ kiêng kỵ rõ rệt.</p>
+<br>
+<p>Ta không nhìn hắn. Ta đi lướt qua hắn như thể hắn chỉ là một tảng đá ven đường.</p>
+<br>
+<p>"Thằng nhãi ranh..." Hắn lầm bầm chửi rủa sau lưng ta, nhưng không dám ra tay.</p>
+<br>
+<p>Ta nhếch mép. Sợ hãi. Đó là thứ vũ khí tuyệt vời nhất. Khi người ta sợ ngươi, người ta sẽ không dám làm tổn thương ngươi. Ít nhất là trước mặt.</p>
+<br>
+<p>Ta bước vào Vạn Độc Quật. Độc Cô Lão Quái đang đợi ta bên cạnh một cái hồ nhỏ chứa đầy chất lỏng màu xanh lục sủi bọt.</p>
+<br>
+<p>"Đến rồi à?" Lão không quay lại, giọng nói vẫn đều đều vô cảm. "Tháng vừa rồi ngươi làm khá lắm. Tự mình luyện được <em>Huyết Dẫn Cổ</em> sơ cấp."</p>
+<br>
+<p>Lão biết. Tất nhiên là lão biết. Không gì qua mắt được lão già quái vật này.</p>
+<br>
+<p>"Con rết đó đâu?"</p>
+<br>
+<p>Ta lấy Tiểu Huyết ra, đặt lên bàn tay lão. Con rết co rúm lại, sợ hãi trước khí tức kinh khủng tỏa ra từ người lão.</p>
+<br>
+<p>"Tốt. Rất có tiềm năng." Lão gật đầu, ném con rết trả lại cho ta. "Nhưng còn quá yếu. Muốn nó trở thành <a href="../../Kỳ_Vật/Bản_Mệnh_Cổ.html">Bản Mệnh Cổ</a>, ngươi cần nhiều hơn là máu của chính mình."</p>
+<br>
+<p>Lão chỉ tay xuống cái hồ xanh lục.</p>
+<br>
+<p>"Nhảy xuống đi."</p>
+<br>
+<p>Ta nhìn cái hồ. <em>Vạn Độc Trì</em>. Nơi chứa nọc độc của hàng ngàn loài rắn rết, bọ cạp. Nhảy xuống đó, cửu tử nhất sinh.</p>
+<br>
+<p>Nhưng ta không do dự.</p>
+<br>
+<p>Ta cởi áo ngoài, để lộ cơ thể gầy gò chằng chịt sẹo. Ta ôm Tiểu Huyết vào lòng, rồi nhảy ùm xuống.</p>
+<br>
+<p>Chất độc ngấm vào da thịt, đau đớn như bị lột da sống. Ta cắn chặt răng, không hét lên một tiếng.</p>
+<br>
+<p>Trong cơn đau đớn tột cùng, ta lại thấy A Mộc. Hắn đang cười với ta, nụ cười giả tạo ghê tởm.</p>
+<br>
+<p><em>Ta sẽ sống. Ta sẽ mạnh hơn. Ta sẽ khiến tất cả các người phải quỳ dưới chân ta.</em></p>
+<br>
+<p>Ta nhắm mắt, để mặc cho bóng tối nuốt chửng lấy mình. Trong bóng tối đó, ta không còn cô đơn nữa. Ta có độc dược. Ta có hận thù.</p>
+<br>
+<p>Và thế là đủ.</p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

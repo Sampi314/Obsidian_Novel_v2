@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00021 Độc Khí Công Tâm</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 21: Độc Khí Công Tâm</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Nhân vật chính:</strong> <a href="../../Nhân_Vật/Diệp_Tĩnh_Sương.html">Diệp Tĩnh Sương</a>, <a href="../../Nhân_Vật/Lâm_Phong.html">Lâm Phong</a>, <a href="../../Nhân_Vật/Hứa_Thanh_Vân.html">Hứa Thanh Vân</a>, <a href="../../Nhân_Vật/Hứa_Nhược_Thủy.html">Hứa Nhược Thủy</a></p>
+<p><strong>Địa điểm:</strong> <a href="../../Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.html">Rừng Huyết Độc</a></p>
+<br>
+<p>---</p>
+<br>
+<p>Bước chân của nhóm người lảo đảo trên nền đất ẩm ướt, nhớp nháp thứ bùn đỏ quạch như máu đông. Không khí trong Rừng Huyết Độc đặc quánh, mang theo mùi tanh nồng của nhựa cây và sự mục rữa của vạn vật. Những thân cây Huyết Mộc cao vút, vỏ ngoài đỏ sẫm sần sùi như da của những con quái vật già nua, vươn những cành cây khẳng khiu vặn vẹo che khuất cả bầu trời, khiến không gian bên dưới chìm trong tranh tối tranh sáng u ám.</p>
+<br>
+<p>"Dừng lại... chúng ta phải dừng lại..." Hứa Thanh Vân thở dốc, hai chân run rẩy. Trên lưng hắn, hơi thở của Hứa Nhược Thủy đã trở nên yếu ớt đến mức đáng báo động.</p>
+<br>
+<p>Lâm Phong quay lại, sắc mặt hắn cũng tái nhợt vì phải liên tục duy trì <em>Thanh Mộc Trường Sinh Quyết</em> để bảo vệ mọi người khỏi chướng khí. Hắn nhìn quanh, tìm kiếm một nơi an toàn nhưng chỉ thấy bốn bề là màn sương hồng nhạt lơ lửng – thứ <em>Sương Độc</em> chết người đặc trưng của vùng đất này.</p>
+<br>
+<p>"Đặt bà ấy xuống gốc cây kia," Diệp Tĩnh Sương chỉ tay về phía một gốc Huyết Mộc cổ thụ có bộ rễ trồi lên mặt đất tạo thành một hốc nhỏ tương đối kín đáo.</p>
+<br>
+<p>Hứa Thanh Vân cẩn thận đặt mẹ mình xuống. Vừa chạm đất, cơ thể Hứa Nhược Thủy bỗng co giật dữ dội. Bà hộc ra một ngụm máu đen, bốc khói nghi ngút khi chạm vào rễ cây, khiến lớp vỏ cây xèo xèo như bị axit ăn mòn.</p>
+<br>
+<p>"Mẹ!" Hứa Thanh Vân hoảng hốt kêu lên, định lao tới đỡ.</p>
+<br>
+<p>"Đừng chạm vào máu!" Diệp Tĩnh Sương quát lớn, tay nàng nhanh như chớp điểm vào mấy huyệt đạo lớn trước ngực Hứa Nhược Thủy. Những đầu ngón tay nàng tỏa ra hàn khí trắng xóa, cố gắng phong tỏa kinh mạch đang rối loạn.</p>
+<br>
+<p>Lâm Phong quỳ xuống bên cạnh, bắt mạch cho Hứa phu nhân. Sắc mặt hắn tối sầm lại. "Nguy rồi. <em>Phệ Linh Tán</em> trong người bà ấy vốn đã áp chế linh lực, nay gặp phải chướng khí Hỏa độc của khu rừng này như cá gặp nước. Hai loại độc tố đang cộng hưởng, trực tiếp tấn công vào tâm mạch."</p>
+<br>
+<p>"Độc khí công tâm..." Hứa Thanh Vân thì thào, mặt cắt không còn giọt máu. Hắn biết thuật ngữ này. Trong y điển, đây là dấu hiệu của cái chết đang cận kề.</p>
+<br>
+<p>"Có cách nào không?" Diệp Tĩnh Sương hỏi, tay vẫn không ngừng truyền hàn khí. Mồ hôi lạnh lấm tấm trên trán nàng. Việc duy trì <em>Hàn Mai Kiếm Quyết</em> ở mức độ vi tế để trị liệu tiêu tốn linh lực hơn cả chiến đấu, nhất là trong môi trường khắc nghiệt này.</p>
+<br>
+<p>Lâm Phong cắn môi, ánh mắt kiên quyết. "Ta cần mượn hàn khí của cô để áp chế hỏa độc. Ta sẽ dùng Mộc linh khí của mình để bảo vệ tâm mạch bà ấy. Nhưng Mộc khí ở đây rất loạn, ta không chắc có thể duy trì bao lâu."</p>
+<br>
+<p>"Làm đi," Diệp Tĩnh Sương nói ngắn gọn.</p>
+<br>
+<p>Lâm Phong gật đầu. Hắn nhắm mắt, hít sâu một hơi đầy mùi tanh tưởi, vận chuyển <em>Thanh Mộc Trường Sinh Quyết</em>. Một luồng sáng xanh lục yếu ớt bao phủ lấy bàn tay hắn, rồi từ từ áp lên ngực Hứa Nhược Thủy. Cùng lúc đó, Diệp Tĩnh Sương tăng cường hàn khí.</p>
+<br>
+<p>"Hàn Mai Ngưng Sương!"</p>
+<br>
+<p>Một lớp băng mỏng trong suốt như pha lê bắt đầu lan tỏa từ tay Diệp Tĩnh Sương, bao phủ lấy toàn thân Hứa Nhược Thủy, chỉ chừa lại vùng ngực nơi Lâm Phong đang trị liệu. Cái lạnh thấu xương đối đầu với hỏa độc nóng rực bên trong cơ thể, tạo nên những luồng khói trắng bốc lên cuồn cuộn.</p>
+<br>
+<p>Khu rừng dường như cảm nhận được sự dao động linh lực. Những dây leo Huyết Đằng trên cao bắt đầu rục rịch, trườn xuống như những con rắn đói mồi. Tiếng hú của loài Huyết Độc Lang văng vẳng xa xa, mỗi lúc một gần hơn.</p>
+<br>
+<p>"Thanh Vân, cảnh giới!" Diệp Tĩnh Sương ra lệnh mà không quay đầu lại.</p>
+<br>
+<p>Hứa Thanh Vân nuốt nước bọt, rút thanh <em>Lưu Sa Kiếm</em> ra, đứng chắn trước cửa hốc cây. Hắn biết mình yếu nhất trong nhóm, nhưng giờ phút này, tính mạng của mẹ hắn nằm trong tay hai người kia, hắn phải liều chết bảo vệ họ.</p>
+<br>
+<p>Thời gian trôi qua chậm chạp như từng giọt máu rơi. Sắc mặt Hứa Nhược Thủy dần chuyển từ tím tái sang trắng bệch, nhưng nhịp thở đã bớt dồn dập hơn. Độc khí tạm thời bị đẩy lùi khỏi tâm mạch, bị phong ấn lại bởi lớp băng hàn của Diệp Tĩnh Sương.</p>
+<br>
+<p>"Được rồi," Lâm Phong thu tay lại, người hắn lảo đảo suýt ngã. "Tạm thời giữ được mạng, nhưng không thể kéo dài quá ba ngày. Chúng ta cần tìm <em>Sa Sương</em> hoặc một nơi có linh khí thanh tịnh để giải độc hoàn toàn."</p>
+<br>
+<p>Diệp Tĩnh Sương cũng thu hồi linh lực, hơi thở nàng rối loạn. Nàng nhìn ra màn sương độc đang ngày càng dày đặc bên ngoài.</p>
+<br>
+<p>"Ba ngày..." Nàng lẩm bẩm. "Trong ba ngày này, chúng ta phải sống sót ra khỏi Rừng Huyết Độc. Và còn phải đối mặt với đám người của Vạn Độc Môn đang truy sát."</p>
+<br>
+<p>Hứa Thanh Vân nhìn mẹ mình đang thiếp đi trong lớp băng, ánh mắt hắn ánh lên một sự trưởng thành đau đớn. Hắn quay sang nhìn Diệp Tĩnh Sương và Lâm Phong, cúi đầu thật sâu. "Đại ân này, Hứa Thanh Vân ta kiếp này nguyện làm trâu ngựa để báo đáp."</p>
+<br>
+<p>"Giữ sức đi," Lâm Phong vỗ vai hắn, cười nhạt nhưng ánh mắt đầy lo âu. "Chúng ta còn chưa thoát khỏi cửa tử đâu."</p>
+<br>
+<p>Bóng tối dần bao trùm khu rừng, biến những thân cây đỏ rực thành những bóng ma khổng lồ. Trong tiếng gió rít qua kẽ lá, văng vẳng đâu đây tiếng cười của tử thần đang chờ đợi.</p>
+<br>
+<p><strong>[Thơ] Độc Khí Công Tâm</strong></p>
+<br>
+<p><em>Nguyên văn:</em></p>
+<p>血林迷霧映残陽</p>
+<p>毒火攻心斷寸腸</p>
+<p>寒劍凝霜封死脉</p>
+<p>青木回春亦渺茫</p>
+<br>
+<p><em>Hán Việt:</em></p>
+<p>Huyết lâm mê vụ ánh tàn dương</p>
+<p>Độc hỏa công tâm đoạn thốn trường</p>
+<p>Hàn kiếm ngưng sương phong tử mạch</p>
+<p>Thanh mộc hồi xuân diệc miểu mang</p>
+<br>
+<p><em>Dịch nghĩa:</em></p>
+<p>Sương mù rừng máu phản chiếu ánh tà dương,</p>
+<p>Lửa độc tấn công tim gan đau đớn như đứt ruột.</p>
+<p>Kiếm lạnh ngưng sương phong ấn mạch chết,</p>
+<p>Khí mộc hồi xuân cũng mờ mịt mong manh.</p>
+<br>
+<p>---</p>
+<p><em>Hết chương 21.</em></p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>
