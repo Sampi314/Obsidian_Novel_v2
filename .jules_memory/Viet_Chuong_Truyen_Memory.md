@@ -340,3 +340,17 @@
 - **Góc Nhìn:** Lệ Vô Tâm
 - **Tóm tắt:** Lệ Vô Tâm dồn toàn lực bảo vệ Mắt Trận chính tại Đầm Lầy Tử Thần trước cuộc tổng tiến công của Sở Lăng Sương, Cửu Hoa Kiếm Tông và Dược Vương Cốc. Hắn dùng Mẫu Cổ và Huyết Độc Chân Khí triệu hồi Huyết Độc Lang và quái vật Độc Oán Mãng Xà khổng lồ để đối phó với đội hình địch. Trận đại chiến chính tà bùng nổ khốc liệt.
 - **Tình trạng:** Hoàn thành. Cao trào của cuộc đại chiến.
+
+## Phiên làm việc: Viết Chương 85 (Góc Nhìn Chính)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 85: Hội Sư Đầm Lầy
+- **Góc Nhìn:** Chính (Diệp Tĩnh Sương, Lâm Phong, Hứa Nhược Thủy, Sở Lăng Sương)
+- **Tóm tắt:** Nhóm Diệp Tĩnh Sương nhanh chóng đến Đầm Lầy Tử Thần, phối hợp cùng Sở Lăng Sương tấn công Độc Oán Mãng Xà. Hứa Nhược Thủy dùng Huyết Sa Lôi phá vỡ hỏa hầu, Lâm Phong dùng Thanh Mộc Thần Tiễn thanh tẩy oán hồn, giúp Sở Lăng Sương tiêu diệt mãng xà. Lệ Vô Tâm xuất hiện từ dưới lòng đất, thi triển Vạn Độc Thân ngăn cản Sở Lăng Sương phá Mắt Trận. Trận chiến quyết định bắt đầu.
+- **Tình trạng:** Hoàn thành. Cao trào kết nối các tuyến truyện.
+
+## Phiên làm việc: Viết Chương 79 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương:** Chương 79: Tử Chiến Đầm Lầy
+- **Góc Nhìn:** Lệ Vô Tâm
+- **Tóm tắt:** Lệ Vô Tâm nhận ra Mắt Trận phụ bị phá, Huyết Vệ số Một bị tiêu diệt. Hắn điên cuồng kích hoạt cấm thuật "Phệ Mệnh Thiêu Hồn" của Thiên Tinh Mẫu Cổ, thiêu đốt sinh lực và tu vi để đột phá sức mạnh, phá vỡ Đầm Lầy Tử Thần và xuất hiện trực tiếp bảo vệ Mắt Trận chính trước đại quân Chính Đạo.
+- **Tình trạng:** Hoàn thành. Diễn biến song song với chương 85.

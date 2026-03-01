@@ -469,3 +469,21 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Viết tiếp diễn biến hai chiến trường, hướng đến kết thúc Arc 3.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Phần 13)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 85 "Hội Sư Đầm Lầy" (Góc Nhìn Chính) và Chương 79 "Tử Chiến Đầm Lầy" (Góc Nhìn Lệ Vô Tâm).
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00085_Hội_Sư_Đầm_Lầy.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00079_Tử_Chiến_Đầm_Lầy.md`
+- **Cập nhật:** HỒ_SƠ_THẾ_GIỚI.md, QUẢN_LÝ_ARC_TRUYỆN.md, MỤC_LỤC.md (cả 2 góc nhìn), BÁO_CÁO_CHẤT_LƯỢNG.md, Viet_Chuong_Truyen_Memory.md. Cập nhật và build file tĩnh.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Nhóm Diệp Tĩnh Sương đã tiến về Mắt Trận chính tại Đầm Lầy Tử Thần. Với sự hỗ trợ kịp thời từ nhóm, Sở Lăng Sương đã phá nát được Độc Oán Mãng Xà. Tuy nhiên, trước khi phá vỡ được Mắt Trận, Lệ Vô Tâm dùng cấm thuật "Phệ Mệnh Thiêu Hồn", trực tiếp xuất hiện để tử chiến. Các tuyến truyện đã chính thức giao nhau tại điểm cao trào cuối cùng của Arc.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết diễn biến cuộc tử chiến cuối cùng giữa Lệ Vô Tâm với đại quân Chính Đạo và nhóm Diệp Tĩnh Sương để kết thúc Arc 3.

@@ -72,6 +72,7 @@
     - **Nhiệm Vụ Hiện Tại:** Tiêu diệt Huyết Vệ số Một và phá hủy hoàn toàn Mắt Trận phụ tại Vùng Đất Chết (Hoàn thành - Chương 84 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Huyết Vệ số Một bị tiêu diệt, khối Huyết Tinh thạch vỡ nát, Mắt Trận phụ tại Vùng Đất Chết chính thức sụp đổ.
     - **Nhiệm Vụ Hiện Tại:** Hướng về Đầm Lầy Tử Thần để trợ giúp đại quân Chính Đạo phá hủy Mắt Trận chính.
+    - **Sự Kiện Mới:** Đến Đầm Lầy Tử Thần, phối hợp cùng Sở Lăng Sương đánh tan Độc Oán Mãng Xà. Lệ Vô Tâm trực tiếp xuất hiện để tử chiến (Chương 85 Góc Nhìn Chính).
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
@@ -98,6 +99,7 @@
     - **Sự Kiện Mới:** Đại quân Chính Đạo tấn công Đầm Lầy Tử Thần, buộc Lệ Vô Tâm phải chia sẻ sức mạnh từ Trận Pháp Huyễn Ảnh sang Mắt Trận chính, tạo cơ hội cho nhóm Tĩnh Sương phá vỡ ảo giác (Hoàn thành - Chương 77 Góc Nhìn Lệ Vô Tâm).
     - **Nhiệm Vụ Hiện Tại:** Chống lại đại quân Chính Đạo tại Đầm Lầy Tử Thần và bảo vệ Mắt Trận chính (Hoàn thành - Chương 78 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Sử dụng Mẫu Cổ và Huyết Độc Chân Khí triệu hồi Huyết Độc Lang và Độc Oán Mãng Xà chống lại Cửu Hoa Kiếm Tông và Dược Vương Cốc.
+    - **Sự Kiện Mới:** Nhận ra Mắt Trận phụ bị phá hủy, Lệ Vô Tâm điên cuồng kích hoạt cấm thuật "Phệ Mệnh Thiêu Hồn", đánh tan Độc Oán Mãng Xà và đích thân xuất hiện để tử chiến bảo vệ Mắt Trận chính (Chương 79 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
