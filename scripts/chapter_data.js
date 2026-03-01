@@ -375,6 +375,10 @@ window.chapterData = {
       "title": "Chương 90: Đến Cửu Hoa"
     },
     {
+      "filename": "Chương_00091_Bí_Mật_Ngoại_Môn.md",
+      "title": "Chương 91: Bí Mật Ngoại Môn"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -757,6 +761,10 @@ window.chapterData = {
     {
       "filename": "Chương_00084_Bóng_Ma_Trung_Tâm.md",
       "title": "Chương 84: Bóng Ma Trung Tâm"
+    },
+    {
+      "filename": "Chương_00085_Giao_Dịch_Bóng_Tối.md",
+      "title": "Chương 85: Giao Dịch Bóng Tối"
     }
   ]
 };

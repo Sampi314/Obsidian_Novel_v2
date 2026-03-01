@@ -90,4 +90,5 @@
 - [Chương 88: Đường Tới Cửu Hoa](Chương_00088_Đường_Tới_Cửu_Hoa.md)
 - [Chương 89: Huyết Sát Chặn Đường](Chương_00089_Huyết_Sát_Chặn_Đường.md)
 - [Chương 90: Đến Cửu Hoa](Chương_00090_Đến_Cửu_Hoa.md)
+- [Chương 91: Bí Mật Ngoại Môn](Chương_00091_Bí_Mật_Ngoại_Môn.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)
