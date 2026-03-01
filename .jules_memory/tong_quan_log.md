@@ -621,3 +621,27 @@
 ## 4. KẾ HOẠCH TIẾP THEO
 - Viết Chương 91 (Góc Nhìn Chính): Diễn biến tại Cửu Hoa Kiếm Tông, Tĩnh Sương bí mật điều tra.
 - Viết Chương 85 (Góc Nhìn Lệ Vô Tâm): Lệ Vô Tâm tiếp cận ngoại môn Cửu Hoa Kiếm Tông và bàn giao món quà cho Lục Trần.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Bí Mật Ngoại Môn)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 91 "Bí Mật Ngoại Môn" (Góc Nhìn Chính) và Chương 85 "Giao Dịch Bóng Tối" (Góc Nhìn Lệ Vô Tâm) để tiếp tục Arc 4.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00091_Bí_Mật_Ngoại_Môn.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00085_Giao_Dịch_Bóng_Tối.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện mới Lệ Vô Tâm giao Huyết Tinh Oán Linh và Tĩnh Sương phát hiện bí mật của Lục Trần.
+  - Các file `MỤC_LỤC.md` của cả hai góc nhìn.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md` và các file bộ nhớ.
+  - Cập nhật website HTML.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Lệ Vô Tâm đã bàn giao "Huyết Tinh Oán Linh" cho Lục Trần để phá hoại trận pháp ngoại môn từ bên trong. Trong khi đó, Tĩnh Sương nảy sinh nghi ngờ, đi điều tra vào ban đêm và bắt gặp Lục Trần đang hành động. Tuy nhiên, sức mạnh giữa Tĩnh Sương và Lục Trần chênh lệch, và nàng đang gặp nguy hiểm thì Lâm Phong xuất hiện cứu viện.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết Chương 92 (Góc Nhìn Chính): Cuộc chiến không cân sức giữa Tĩnh Sương, Lâm Phong và Lục Trần (Kim Đan Hậu Kỳ) tại khu cấm địa ngoại môn Cửu Hoa Kiếm Tông.
+- Viết Chương 86 (Góc Nhìn Lệ Vô Tâm): Lệ Vô Tâm thực hiện bước tiếp theo trong kế hoạch Huyết Sát Minh để đón đại quân và chờ kết quả từ sự phá hoại của Lục Trần.
