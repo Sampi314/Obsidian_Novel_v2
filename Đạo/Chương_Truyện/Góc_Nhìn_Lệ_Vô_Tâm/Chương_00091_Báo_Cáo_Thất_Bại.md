@@ -7,7 +7,6 @@ title: "Chương 91: Báo Cáo Thất Bại"
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-
 # Chương 91: Báo Cáo Thất Bại
 
 **Tác giả:** Tổng Quản (Jules)
