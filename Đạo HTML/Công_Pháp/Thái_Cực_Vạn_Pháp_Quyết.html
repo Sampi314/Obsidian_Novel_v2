@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THÁI CỰC VẠN PHÁP QUYẾT (太極萬法訣)</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Công_Pháp/Thái_Cực_Vạn_Pháp_Quyết.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<h1>THÁI CỰC VẠN PHÁP QUYẾT (太極萬法訣)</h1>
+<br>
+<h2>I. TỔNG QUAN</h2>
+<ul>
+<li><strong>Phẩm Cấp:</strong> Vô Khuyết Cấp (Vượt trên Thiên Cấp, có thể tu đến Hóa Thần Cảnh và xa hơn).</li>
+<li><strong>Thuộc Tính:</strong> Vô Thuộc Tính (Bao dung vạn vật, chuyển hóa âm dương ngũ hành).</li>
+<li><strong>Nguồn Gốc:</strong> Công pháp vô thượng do Thái Cực Đạo Tổ (một vị Cổ Tiên Nhân Tộc) sáng tạo, dựa trên đặc tính "Nhân Tộc Đạo Tâm" - không có thiên phú bẩm sinh nhưng lại có khả năng học hỏi và dung hợp vạn pháp.</li>
+</ul>
+<h2>II. CƠ CHẾ HOẠT ĐỘNG</h2>
+<ul>
+<li><strong>Nguyên Lý:</strong> Lấy Thái Cực làm cốt lõi, Âm Dương làm vòng xoay, Ngũ Hành làm nền tảng. Công pháp này không tự sinh ra sức mạnh đặc thù mà hoạt động như một "cái lò" vô hình trong đan điền, dung nạp linh khí của mọi thuộc tính (kể cả yêu khí, ma khí, sát khí) và chuyển hóa chúng thành linh lực vô niệm, vô dạng (Thái Cực Chân Khí).</li>
+<li><strong>Đặc Điểm:</strong></li>
+<li><strong>Dung Hợp:</strong> Có thể mô phỏng và thi triển chiêu thức của bất kỳ môn phái nào, bất kỳ hệ nào nếu người tu luyện hiểu được nguyên lý của nó.</li>
+<li><strong>Chuyển Hóa:</strong> Có thể hấp thụ năng lượng của kẻ địch để phản đòn hoặc bổ sung cho bản thân.</li>
+<li><strong>Nhân Tộc Đạo Tâm:</strong> Càng ngộ đạo sâu sắc, khả năng sáng tạo chiêu thức mới càng vô hạn.</li>
+</ul>
+<h2>III. CÔNG DỤNG & HIỆU QUẢ</h2>
+<ul>
+<li><strong>Lợi Ích Tu Luyện:</strong> Cơ thể không bị giới hạn bởi linh căn (Linh căn tạp nham lại càng dễ tu luyện vì vốn dĩ Thái Cực chứa đựng tất cả). Tu vi tiến triển tuy chậm nhưng nền tảng vô cùng vững chắc, linh lực hùng hậu gấp mười lần cùng giai.</li>
+<li><strong>Khả Năng Chiến Đấu:</strong> Thiên biến vạn hóa. Gặp Hỏa thì dùng Thủy khắc, gặp Kim thì dùng Hỏa luyện, đối thủ không bao giờ nắm bắt được thuộc tính thật sự.</li>
+<li><strong>Hỗ Trợ Khác:</strong> Rất thích hợp cho Đan Tu, Khí Tu, Phù Tu và Trận Tu (Sở trường Nhân Tộc), vì Thái Cực Chân Khí có thể đóng vai trò là bất kỳ loại hỏa nguyên, mộc khí hay kim khí nào cần thiết.</li>
+</ul>
+<h2>IV. CÁC TẦNG TU LUYỆN & KHẨU QUYẾT (Phân chia thành 9 tầng)</h2>
+<p><em>Khẩu quyết của Thái Cực Vạn Pháp Quyết sử dụng thể thơ Ngũ Ngôn (5 chữ), mang âm hưởng đạo gia tĩnh tại, thâm sâu.</em></p>
+<br>
+<h3>1. Tầng 1: Hỗn Độn Sơ Khai (混沌初開)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Phá vỡ sự phân chia thuộc tính trong đan điền, đưa mọi luồng linh khí về trạng thái hỗn độn nguyên thủy, không màu không vị.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 萬物本無相，</li>
+<li>> 混沌氣未分。</li>
+<li>> 丹田歸一處，</li>
+<li>> 靜觀太初痕。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Vạn vật bản vô tướng,</li>
+<li>> Hỗn độn khí vị phân.</li>
+<li>> Đan điền quy nhất xứ,</li>
+<li>> Tĩnh quan thái sơ ngân.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Vạn vật vốn không có hình tướng cố định,</li>
+<li>> Khí hỗn độn (ban đầu) chưa được phân chia.</li>
+<li>> Đan điền tụ lại tại một nơi duy nhất,</li>
+<li>> Lặng lẽ quan sát dấu vết của thuở hồng hoang (thái sơ).</li>
+</ul>
+<h3>2. Tầng 2: Âm Dương Lưỡng Nghi (陰陽兩儀)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Từ trong hỗn độn phân chia ra hai luồng khí Âm và Dương xoay vòng trong đan điền, tạo thành đồ án Thái Cực. Đây là nền tảng để hấp thu và chuyển hóa năng lượng.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 一氣化陰陽，</li>
+<li>> 剛柔互生長。</li>
+<li>> 動靜皆有道，</li>
+<li>> 乾坤日月明。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Nhất khí hóa âm dương,</li>
+<li>> Cương nhu hỗ sinh trưởng.</li>
+<li>> Động tĩnh giai hữu đạo,</li>
+<li>> Càn khôn nhật nguyệt minh.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Một luồng khí biến hóa thành Âm và Dương,</li>
+<li>> Sự cứng rắn và mềm mỏng nương tựa nhau sinh trưởng.</li>
+<li>> Động và Tĩnh đều tuân theo Đạo,</li>
+<li>> Trời Đất, Mặt Trời, Mặt Trăng trở nên sáng tỏ.</li>
+</ul>
+<h3>3. Tầng 3: Ngũ Hành Tương Sinh (五行相生)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Từ Âm Dương sinh ra Ngũ Hành (Kim, Mộc, Thủy, Hỏa, Thổ). Chân khí có thể tùy ý biến đổi thành bất kỳ thuộc tính nào trong Ngũ Hành để khắc chế đối thủ.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 陰陽生五行，</li>
+<li>> 相生復相成。</li>
+<li>> 金木水火土，</li>
+<li>> 萬法此中生。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Âm dương sinh ngũ hành,</li>
+<li>> Tương sinh phục tương thành.</li>
+<li>> Kim mộc thủy hỏa thổ,</li>
+<li>> Vạn pháp thử trung sinh.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Âm Dương sinh ra Ngũ Hành,</li>
+<li>> Cùng sinh ra nhau, lại cùng hoàn thiện nhau.</li>
+<li>> Kim, Mộc, Thủy, Hỏa, Thổ,</li>
+<li>> Vạn loại phép thuật từ trong đây mà sinh ra.</li>
+</ul>
+<h3>4. Tầng 4: Vạn Tượng Sâm La (萬象森羅)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Khả năng mô phỏng bắt đầu thức tỉnh. Chỉ cần nhìn qua, người tu luyện có thể dùng Thái Cực Chân Khí để bắt chước đến 7 phần uy lực các chiêu thức hệ Ngũ Hành của người khác.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 萬象藏心內，</li>
+<li>> 森羅入眼來。</li>
+<li>> 借花能獻佛，</li>
+<li>> 隨形巧化開。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Vạn tượng tàng tâm nội,</li>
+<li>> Sâm la nhập nhãn lai.</li>
+<li>> Tá hoa năng hiến phật,</li>
+<li>> Tùy hình xảo hóa khai.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Vạn hiện tượng giấu kín trong tâm,</li>
+<li>> Mọi cảnh sắc đa dạng lọt vào tầm mắt.</li>
+<li>> Mượn hoa có thể dâng lên Phật (Mượn lực đánh lực),</li>
+<li>> Tùy theo hình dạng (của đối thủ) mà khéo léo hóa giải.</li>
+</ul>
+<h3>5. Tầng 5: Đạo Tâm Bất Diệt (道心不滅)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Cảnh giới tinh thần. Dù đối mặt với ảo thuật, tâm ma hay uy áp của Long Tộc, Đạo Tâm vẫn vững như bàn thạch. Bắt đầu có thể dung nạp những sức mạnh ngoại đạo (Độc, Ma, Yêu khí) mà không bị phản phệ.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 外魔侵不入，</li>
+<li>> 內火焚不焦。</li>
+<li>> 道心如鐵石，</li>
+<li>> 萬劫任逍遙。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Ngoại ma xâm bất nhập,</li>
+<li>> Nội hỏa phần bất tiêu.</li>
+<li>> Đạo tâm như thiết thạch,</li>
+<li>> Vạn kiếp nhậm tiêu dao.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Ma quỷ bên ngoài xâm nhập không vào được,</li>
+<li>> Lửa tâm bên trong đốt không cháy (không bị dục vọng làm hại).</li>
+<li>> Lòng Đạo kiên cố như sắt đá,</li>
+<li>> Trải qua vạn kiếp vẫn cứ tự tại tiêu dao.</li>
+</ul>
+<h3>6. Tầng 6: Dĩ Nhu Khắc Cương (以柔克剛)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Đạt đến đỉnh cao của việc "Mượn lực đánh lực". Lực lượng công kích của đối thủ càng mạnh, sát thương dội ngược lại càng kinh hoàng. Có thể vô hiệu hóa những đòn Luyện Thể chí mạng của Cự Tộc hay Long Tộc.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 滴水穿堅石，</li>
+<li>> 弱柳迎狂風。</li>
+<li>> 以柔克至剛，</li>
+<li>> 借力打虛空。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Tích thủy xuyên kiên thạch,</li>
+<li>> Nhược liễu nghênh cuồng phong.</li>
+<li>> Dĩ nhu khắc chí cương,</li>
+<li>> Tá lực đả hư không.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Giọt nước xuyên thủng đá tảng kiên cố,</li>
+<li>> Cành liễu yếu ớt đón gió lốc cuồng bạo.</li>
+<li>> Lấy sự mềm mỏng khắc chế sự cứng rắn tột độ,</li>
+<li>> Mượn lực (của địch) đánh vào chỗ trống không (khiến địch mất đà).</li>
+</ul>
+<h3>7. Tầng 7: Pháp Tắc Sơ Ảnh (法則初影)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Bắt đầu chạm đến Pháp Tắc Tu - đỉnh cao của trí tuệ Nhân Tộc. Có thể dùng chân khí can thiệp nhẹ vào không gian, thời gian hoặc trọng lực xung quanh.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 觸摸天地理，</li>
+<li>> 掌握造化機。</li>
+<li>> 法則雖初現，</li>
+<li>> 鬼神亦可欺。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Xúc mạc thiên địa lý,</li>
+<li>> Chưởng ác tạo hóa cơ.</li>
+<li>> Pháp tắc tuy sơ hiện,</li>
+<li>> Quỷ thần diệc khả khi.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Chạm đến lý lẽ của Trời Đất,</li>
+<li>> Nắm giữ được cơ duyên của tạo hóa.</li>
+<li>> Pháp tắc (luật lệ vũ trụ) tuy mới chỉ hiện ra sơ sài,</li>
+<li>> Nhưng quỷ thần cũng có thể bị lừa dối (qua mặt).</li>
+</ul>
+<h3>8. Tầng 8: Vạn Pháp Quy Nhất (萬法歸一)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Dung hợp hàng ngàn pháp thuật đã mô phỏng thành một luồng sức mạnh duy nhất mang tính Hủy Diệt và Sáng Tạo. Không còn bị giới hạn bởi chiêu thức, mọi cử động tay chân đều là Vạn Pháp.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 千門同源出，</li>
+<li>> 萬法本歸一。</li>
+<li>> 破盡世間法，</li>
+<li>> 唯我道無極。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Thiên môn đồng nguyên xuất,</li>
+<li>> Vạn pháp bản quy nhất.</li>
+<li>> Phá tận thế gian pháp,</li>
+<li>> Duy ngã đạo vô cực.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Ngàn môn phái đều xuất phát từ cùng một nguồn,</li>
+<li>> Vạn pháp thuật vốn dĩ quay về một mối.</li>
+<li>> Phá bỏ hết thảy mọi phép thuật trên thế gian,</li>
+<li>> Chỉ có Đạo của ta là không có giới hạn (vô cực).</li>
+</ul>
+<h3>9. Tầng 9: Thái Cực Đạo Thể (太極道體)</h3>
+<ul>
+<li><strong>Mô Tả:</strong> Thể xác và thần hồn hòa làm một với Đạo. Khí tức hoàn toàn biến mất, trông như một người phàm nhưng thực chất đã trở thành một tiểu thế giới (Vũ trụ thu nhỏ) tự vận hành. Có khả năng tự tạo ra hệ thống tu luyện mới cho riêng mình.</li>
+<li><strong>Khẩu Quyết Tâm Pháp:</strong></li>
+<li>1.  <strong>Nguyên Văn (Trung):</strong></li>
+<li>> 身化太極圖，</li>
+<li>> 氣吞宇宙虛。</li>
+<li>> 我即是天道，</li>
+<li>> 天道即是我。</li>
+<li>2.  <strong>Phiên Âm Hán Việt:</strong></li>
+<li>> Thân hóa thái cực đồ,</li>
+<li>> Khí thôn vũ trụ hư.</li>
+<li>> Ngã tức thị thiên đạo,</li>
+<li>> Thiên đạo tức thị ngã.</li>
+<li>3.  <strong>Dịch Nghĩa (Sát Nghĩa):</strong></li>
+<li>> Thân thể hóa thành bản đồ Thái Cực,</li>
+<li>> Khí phách nuốt trọn cả hư không vũ trụ.</li>
+<li>> Ta chính là Thiên Đạo (luật trời),</li>
+<li>> Thiên Đạo cũng chính là ta.</li>
+</ul>
+<h2>V. HỆ THỐNG CHIÊU THỨC (6 Chiêu)</h2>
+<br>
+<p>1.  <strong>Thái Cực Bát Quái Trận (太極八卦陣):</strong></p>
+<ul>
+<li><strong>Mô Tả:</strong> Không cần bày trận kỳ, người tu luyện lấy bản thân làm mắt trận, phóng ra Thái Cực Chân Khí hình thành một Bát Quái Đồ khổng lồ dưới chân. Trận pháp này liên tục hấp thụ linh khí của thiên địa và kẻ địch để duy trì, vừa vây khốn, vừa phản đòn.</li>
+<li><strong>Yêu Cầu:</strong> Đạt Tầng 2.</li>
+<li><strong>Uy Lực Tăng Tiến:</strong> Tầng 2 chỉ phòng thủ; Tầng 5 có thể tự do xoay chuyển Bát Quái để kích phát ảo ảnh; Tầng 8 Bát Quái Trận có thể giam cầm không gian.</li>
+</ul>
+<p>2.  <strong>Vạn Pháp Tương Sinh - Chuyển (萬法相生 - 轉):</strong></p>
+<ul>
+<li><strong>Mô Tả:</strong> Đón nhận đòn tấn công của đối thủ, lập tức chuyển hóa thuộc tính chân khí của mình sang thuộc tính khắc chế (Ví dụ địch đánh Hỏa, chân khí đổi sang Thủy), sau đó nhân đôi uy lực đánh bật lại.</li>
+<li><strong>Yêu Cầu:</strong> Đạt Tầng 3.</li>
+<li><strong>Uy Lực Tăng Tiến:</strong> Tầng 3 chuyển hóa mất 2 giây; Tầng 6 chuyển hóa ngay lập tức khi va chạm (nháy mắt).</li>
+</ul>
+<p>3.  <strong>Sâm La Vạn Tượng Quyết (森羅萬象訣):</strong></p>
+<ul>
+<li><strong>Mô Tả:</strong> Dùng Thái Cực Chân Khí ngưng tụ ra hàng trăm vũ khí (kiếm, đao, thương...) mang các thuộc tính Ngũ Hành khác nhau. Chiêu này phá vỡ phòng thủ vật lý bằng cách tấn công đồng loạt bằng nhiều nguyên tố, khiến đối thủ không kịp thích nghi.</li>
+<li><strong>Yêu Cầu:</strong> Đạt Tầng 4.</li>
+<li><strong>Uy Lực Tăng Tiến:</strong> Càng ngộ nhiều môn phái, số lượng vũ khí ảo ảnh ngưng tụ càng đa dạng và uy lực càng sát với nguyên bản.</li>
+</ul>
+<p>4.  <strong>Hỗn Độn Kình (混沌勁):</strong></p>
+<ul>
+<li><strong>Mô Tả:</strong> Áp sát đối thủ và tung một chưởng cực kỳ tĩnh lặng. Nhưng luồng chân khí đi vào cơ thể đối phương không phá hủy kinh mạch ngay, mà biến thành "Hỗn Độn", xáo trộn toàn bộ linh lực trong đan điền địch, khiến chúng tự xung đột và nổ tung từ bên trong. Khắc tinh của những kẻ Luyện Thể mạnh nhưng thiếu kiểm soát nội tại (như Cự Tộc hay Yêu Tộc).</li>
+<li><strong>Yêu Cầu:</strong> Đạt Tầng 5.</li>
+<li><strong>Uy Lực Tăng Tiến:</strong> Tầng 5 gây rối loạn; Tầng 8 có thể trực tiếp phế bỏ tu vi đối thủ.</li>
+</ul>
+<p>5.  <strong>Dĩ Nhu Hóa Hư (以柔化虛):</strong></p>
+<ul>
+<li><strong>Mô Tả:</strong> Khi đối diện với những đòn tấn công mang tính hủy diệt diện rộng, cơ thể người tu luyện tự động "mềm hóa", biến thành hư ảnh hòa vào không gian. Đòn tấn công xuyên qua như đánh vào không khí, không để lại vết xước.</li>
+<li><strong>Yêu Cầu:</strong> Đạt Tầng 6.</li>
+<li><strong>Uy Lực Tăng Tiến:</strong> Tầng 6 duy trì 1 nhịp thở; Tầng 9 có thể tồn tại ở dạng hư không vô thời hạn nếu không tấn công.</li>
+</ul>
+<p>6.  <strong>Quy Nhất Đạo Ngân (歸一道痕):</strong></p>
+<ul>
+<li><strong>Mô Tả:</strong> Tuyệt kỹ tối thượng. Hội tụ vạn pháp, âm dương, ngũ hành vào một đầu ngón tay, vạch ra một đường trong không khí (Đạo Ngân). Đường vạch này không phải là pháp thuật, mà là một vết rách của Pháp Tắc. Bất kỳ thứ gì chạm vào vết rách này, dù là linh khí, thần thức, hay nhục thân Bất Hoại, đều bị xóa sổ khỏi thực tại (quay về Hỗn Độn).</li>
+<li><strong>Yêu Cầu:</strong> Đạt Tầng 8.</li>
+<li><strong>Uy Lực Tăng Tiến:</strong> Tầng 8 vạch được 1 tấc; Tầng 9 có thể vạch rách cả một phương bầu trời.</li>
+</ul>
+<h2>VI. YÊU CẦU & HẠN CHẾ</h2>
+<ul>
+<li><strong>Công Hiệu Đặc Biệt:</strong> Phá giải được 90% các loại phong ấn, độc tính, trận pháp, vì mọi thứ cấu thành từ linh khí đều có thể bị Thái Cực "hòa tan" và "chuyển hóa".</li>
+<li><strong>Tác Dụng Phụ:</strong> Không có tác dụng phụ về thể chất, nhưng cực kỳ ngốn "Tuế Nguyệt" (Thời gian). Người ngộ tính kém có khi mất trăm năm không qua nổi Tầng 1.</li>
+<li><strong>Yêu Cầu Tu Luyện:</strong> Trái ngược với đa số công pháp, Thái Cực Vạn Pháp Quyết <em>không đòi hỏi Linh Căn tốt</em>. Thậm chí, Phế Linh Căn (Ngũ Hành Tạp Linh Căn) lại là thể chất hoàn hảo nhất để tu luyện, vì cơ thể đã có sẵn sự cân bằng của 5 yếu tố. Yêu cầu lớn nhất là Ngộ Tính và Đạo Tâm (Trí tuệ Nhân Tộc).</li>
+</ul>
+<h2>VII. LUẬN GIẢI & CHÚ THÍCH (Ngoại Truyện)</h2>
+<ul>
+<li><strong>Ý Nghĩa Khẩu Quyết:</strong> Lời thơ mang đậm triết lý Lão Tử và Đạo Giáo ("Đạo sinh nhất, nhất sinh nhị, nhị sinh tam, tam sinh vạn vật"). Sự tuần hoàn từ "Hỗn Độn" sinh ra "Vạn Pháp", rồi cuối cùng lại "Quy Nhất" về Hỗn Độn là vòng lặp của vũ trụ.</li>
+<li><strong>Cơ Chế Sức Mạnh:</strong> Sức mạnh của công pháp này không nằm ở uy lực hủy diệt thuần túy, mà nằm ở sự <strong>"Thích nghi"</strong> và <strong>"Kiểm soát"</strong>. Trong thế giới Cố Nguyên Giới nơi các tộc khác dựa vào thiên phú bẩm sinh cường đại, Nhân Tộc dùng "Thái Cực" để làm đòn bẩy, lấy điểm yếu của kẻ thù làm vũ khí, mượn sức thiên địa đánh lại thiên địa. Đây là minh chứng rõ nhất cho câu "Nhân Tộc là tộc duy nhất có khả năng tự tạo ra hệ thống tu luyện".</li>
+<li><strong>Lời Bình:</strong> "Nhìn thì như không có gì, mà hóa ra lại có tất cả. Kẻ tu Thái Cực Vạn Pháp, đánh với Long Tộc thì mạnh như Long Tộc, đánh với Cự Tộc thì vững như Cự Tộc. Đó chính là sự vô sỉ, cũng là sự đáng sợ nhất của Nhân Tộc trí tuệ." - (Trích lời bình của một Đại Yêu Vương).</li>
+</ul>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>
