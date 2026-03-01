@@ -5,9 +5,9 @@
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
 | 2024-05-23 | Tổng Quản | Khởi tạo cấu trúc dự án | Hoàn Thành | Đã tạo thư mục và Ký Ức Tệp Tin. |
-| 2024-05-23 | Kiến Tạo Thế Giới | Tạo bản đồ sơ bộ | Hoàn Thành | Cần bổ sung chi tiết các bí cảnh sau. |
-| 2024-05-23 | Thiết Kế Tu Luyện | Tạo hệ thống cảnh giới | Hoàn Thành | Cần thêm chi tiết về Tâm Ma Kiếp. |
-| 2024-05-23 | Kiến Tạo Chủng Tộc | Tạo 9 chủng tộc | Hoàn Thành | Cần phát triển mối quan hệ giữa các tộc. |
+| 2024-05-23 | Kiến Tạo Thế Giới | Tạo bản đồ sơ bộ | Hoàn Thành | Đã cập nhật chi tiết các Bí Cảnh tại Bản Đồ Sơ Bộ. |
+| 2024-05-23 | Thiết Kế Tu Luyện | Tạo hệ thống cảnh giới | Hoàn Thành | Đã bổ sung chi tiết Tâm Ma Kiếp và Lôi Kiếp. |
+| 2024-05-23 | Kiến Tạo Chủng Tộc | Tạo 9 chủng tộc | Hoàn Thành | Đã cập nhật Quan Hệ Chủng Tộc (2024-05-25). |
 | 2024-05-24 | Tổng Quản | Chạy thử nghiệm toàn bộ 19 Đại Diện (Demo: Huyền Băng Cung) | Hoàn Thành | Đã tạo đầy đủ các thành phần liên quan đến Huyền Băng Cung và Băng Tộc. Bao gồm: Hồ sơ thế lực, Nhân vật, Công pháp, Văn hóa, Nghề phụ, Thơ ca, Âm nhạc và Chương truyện mẫu. |
 | 2024-05-25 | Kiến Tạo Chủng Tộc | Xây dựng quan hệ ngoại giao (10 Đại Tộc) | Hoàn Thành | Đã tạo Tệp Tin Quan_Hệ_Chủng_Tộc.md, giải quyết vấn đề tồn đọng ngày 23/05. |
 | 2024-05-26 | Tổng Quản | Tạo Vạn Độc Môn & Sửa Đan Hà Cốc | Hoàn Thành | Đã thêm thế lực đối trọng tại Nam Cương và đồng bộ Dòng Thời Gian. |
@@ -184,3 +184,9 @@
 | Hôm nay | Tổng Quản | Viết Chương 95 (Góc Nhìn Chính) & Chương 89 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm thể hiện sức mạnh Vạn Độc Thân, áp đảo và suýt giết Diệp Tĩnh Sương, trước khi một cường giả Hóa Thần xuất hiện ngăn cản. |
 | Hôm nay | Tổng Quản | Sửa Lỗi Ngữ Pháp & Bổ Sung Bí Cảnh | Hoàn Thành | Chuẩn hóa các dấu chấm than dư thừa (`!!!`) thành `!` trong một số chương, bổ sung các Bí Cảnh (Phế Tích Nguyệt Quang, Hoàng Sa Địa Cung, Lưu Sa Phế Tích, Huyết Uyên, Bí Cảnh Huyết Sát) vào Bản Đồ Sơ Bộ theo yêu cầu tồn đọng. |
 | Hôm nay | Tổng Quản | Viết Chương 96 (Góc Nhìn Chính) & Chương 90 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Cường giả Hóa Thần (Thanh Hư) xuất hiện phá vỡ Vạn Độc Thân. Lệ Vô Tâm dùng Huyết Độn Phù chạy thoát, đại quân rút lui, kết thúc đợt tấn công đầu tiên. |
+
+## 5. Kết Luận Chung
+Đã hoàn thành các tác vụ bổ sung cho các yêu cầu tồn đọng từ 2024-05-23:
+- Cập nhật chi tiết các Bí Cảnh tại Bản Đồ Sơ Bộ (`Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`).
+- Bổ sung chi tiết Tâm Ma Kiếp và Lôi Kiếp tại Hệ Thống Cảnh Giới (`Đạo/Tu_Luyện/Hệ_Thống_Cảnh_Giới.md`).
+- Bổ sung thông tin về Quan Hệ Chủng Tộc (`Đạo/Chủng_Tộc/Quan_Hệ_Chủng_Tộc.md`).

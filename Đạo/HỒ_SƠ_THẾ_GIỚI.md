@@ -69,6 +69,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Ngao_Đình.md`.
 - **Hắc Hạt Ma Trùng (Ma Trùng Đại Đế):** Lưỡng tính, Trùng Tộc. Tương đương Nguyên Anh Hậu Kỳ (khả năng bùng phát uy hiếp Hóa Thần). Bản thể là một Hive Mind tàn nhẫn, xem vạn vật là thức ăn. Sở hữu *Thiên Trùng Đồng Hóa Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hắc_Hạt_Ma_Trùng.md`.
+- **Nham Thần (Thạch Tộc Cự Nhân):** Nam, Cự Tộc. Sức mạnh dời non lấp biển, phòng thủ tuyệt đối. Sở hữu *Đại Địa Trường Sinh Quyết*.
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Nham_Thần.md`.
 - **Lệ Nhược Thủy (Hải Yêu Vương):** Nữ, Hải Tộc (Giao Nhân Hoàng Tộc), Hóa Thần Sơ Kỳ. Tính cách u buồn, tách biệt nhưng tàn nhẫn với kẻ thù. Sở hữu *Âm Dương Thủy Nguyệt Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lệ_Nhược_Thủy.md`.
 - **Sở Lăng Sương (Băng Phách Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, trọng nghĩa. Sở hữu *Hàn Sương Kiếm Quyết*.
