@@ -159,7 +159,7 @@
 | Nhân Vật | Góc Nhìn | Trạng Thái | Ghi Chú |
 | :--- | :--- | :--- | :--- |
 | **Lâm Phong** | Chính | Hoạt động | Đang sinh tồn trong Vùng Đất Chết, đối mặt với Vong Linh. |
-| **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đã hoàn thành 5 chương (POV). Đang dẫn đầu nhóm tiến vào Vùng Đất Chết. Xem chi tiết: [Diệp Tĩnh Sương Chi Tiết](Diệp_Tĩnh_Sương_Chi_Tiết.md) |
+| **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đã hoàn thành 5 chương (POV). Đang dẫn đầu nhóm tiến vào Vùng Đất Chết. Xem chi tiết: [Diệp Tĩnh Sương](Diệp_Tĩnh_Sương.md) |
 | **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoạt động | Đã hoàn thành 9 chương. Rút về Nam Cương chuẩn bị trận địa. |
 | **Hứa Nhược Thủy** | Phụ (NPC) | Ổn định (Tạm thời) | Đã được chữa trị, nhưng Long Cốt phong ấn đã vỡ. |
 | **Hứa Thanh Vân** | Phụ (NPC) | Hoạt động | Đã thoát khỏi Địa Cung. |
