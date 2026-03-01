@@ -129,6 +129,32 @@
             background: rgba(212, 175, 55, 0.05);
         }
 
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
         /* Table styles for character/technique lists */
         table {
             width: 100%;
@@ -160,7 +186,10 @@
     </style>
 </head>
 <body>
-    <a href="../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+    <div class="header-links">
+        <a href="../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Thế_Lực/Tinh_Linh_Vương_Đình.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
 <h1>Tinh Linh Vương Đình (精灵王庭)</h1>
 <br>
 <h2>1. Thông Tin Cơ Bản</h2>
