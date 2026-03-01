@@ -82,6 +82,13 @@
             margin-top: 20px;
         }
 
+        /* Nest list resetting */
+        ul ul {
+            display: block;
+            margin-top: 10px;
+            padding-left: 15px;
+        }
+
         li {
             background: var(--bg-lighter);
             padding: 15px 20px;
@@ -91,8 +98,17 @@
             transition: all 0.3s ease;
             position: relative;
             overflow: hidden;
-            display: flex;
-            align-items: center;
+            display: block;
+        }
+
+        ul ul li {
+            background: none;
+            border: none;
+            box-shadow: none;
+            padding: 5px 0 5px 15px;
+            margin-bottom: 5px;
+            border-left: 2px solid var(--border-color);
+            border-radius: 0;
         }
 
         li::before {
@@ -105,10 +121,22 @@
             transition: all 0.3s ease;
         }
 
+        ul ul li::before {
+            display: none;
+        }
+
         li:hover {
             transform: translateY(-3px);
             border-color: var(--text-gold);
             box-shadow: inset 0 0 15px rgba(212, 175, 55, 0.1), 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        ul ul li:hover {
+            transform: none;
+            border-color: var(--border-color);
+            border-left-color: var(--text-gold);
+            box-shadow: none;
+            background: rgba(212, 175, 55, 0.05);
         }
 
         li:hover::before {
@@ -181,6 +209,7 @@
     <li><a href="Giao_Nhân_Tộc_Liên_Minh.html">Giao Nhân Tộc Liên Minh (鲛人族联盟)</a></li>
     <li><a href="Hoàng_Sa_Cổ_Quốc.html">Hoàng Sa Cổ Quốc (黄沙古国)</a></li>
     <li><a href="Huyết_Ma_Tông.html">Huyết Ma Tông (血魔宗)</a></li>
+    <li><a href="Huyết_Sát_Minh.html">HUYẾT SÁT MINH (血煞盟)</a></li>
     <li><a href="Huyền_Băng_Cung.html">HUYỀN BĂNG CUNG (玄冰宫)</a></li>
     <li><a href="Hàn_Kiếm_Cốc.html">Hàn Kiếm Cốc (寒剑谷)</a></li>
     <li><a href="Hải_Thần_Cung.html">Hải Thần Cung (海神宫)</a></li>
