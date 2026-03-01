@@ -52,7 +52,7 @@ Cổ Kiếm Mạc nhìn đệ tử lần cuối, ánh mắt chan chứa yêu th�
 
 Giọng ông nhỏ dần rồi tắt hẳn. Đôi mắt từ từ khép lại, bàn tay buông lỏng.
 
-"Sư phụ!!!"
+"Sư phụ!"
 
 Tiếng hét xé lòng của Diệp Tĩnh Sương vang vọng khắp núi rừng hoang vu. Nàng ôm lấy thi thể người thầy, khóc nức nở như một đứa trẻ lạc mất cha mẹ lần thứ hai trong đời.
 

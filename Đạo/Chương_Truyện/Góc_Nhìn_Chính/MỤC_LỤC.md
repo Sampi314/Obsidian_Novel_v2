@@ -93,5 +93,7 @@
 - [Chương 91: Bí Mật Ngoại Môn](Chương_00091_Bí_Mật_Ngoại_Môn.md)
 - [Chương 92: Trận Chiến Không Cân Sức](Chương_00092_Trận_Chiến_Không_Cân_Sức.md)
 - [Chương 93: Hội Nghị Thượng Đỉnh](Chương_00093_Hội_Nghị_Thượng_Đỉnh.md)
+- [Chương 94: Bão Táp Cửu Hoa](Chương_00094_Bão_Táp_Cửu_Hoa.md)
 - [Chương 95: Huyết Chiến Ngoại Môn](Chương_00095_Huyết_Chiến_Ngoại_Môn.md)
+- [Chương 96: Cường Giả Hàng Lâm](Chương_00096_Cường_Giả_Hàng_Lâm.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)

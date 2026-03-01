@@ -34,3 +34,4 @@
 - [Chương 87: Huyết Vân Áp Thành](Chương_00087_Huyết_Vân_Áp_Thành.md)
 - [Chương 88: Cuộc Thảm Sát Bắt Đầu](Chương_00088_Cuộc_Thảm_Sát_Bắt_Đầu.md)
 - [Chương 89: Sức Mạnh Tuyệt Đối](Chương_00089_Sức_Mạnh_Tuyệt_Đối.md)
+- [Chương 90: Uy Áp Hóa Thần](Chương_00090_Uy_Áp_Hóa_Thần.md)

@@ -38,7 +38,7 @@ Hắn đi đến góc hang, nơi có một lồng sắt giam giữ một tên t�
 
 Lệ Vô Tâm không nói gì, chỉ lạnh lùng mở cửa lồng, ném con nhện biến dị vào bên trong.
 
-"A Á Á!!!" Tiếng hét thảm thiết vang lên xé toạc màn đêm tĩnh lặng.
+"A Á Á!" Tiếng hét thảm thiết vang lên xé toạc màn đêm tĩnh lặng.
 
 Con nhện lao vào cắn xé tên tù binh, tiêm nọc độc vào cơ thể hắn. Chỉ trong chốc lát, làn da của tên tù binh bắt đầu chuyển sang màu tím đen, mạch máu nổi lên chằng chịt như mạng nhện. Hắn quằn quại trong đau đớn tột cùng, hai mắt trợn ngược, bọt mép trào ra.
 

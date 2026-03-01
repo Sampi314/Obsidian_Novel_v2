@@ -44,7 +44,7 @@ Những viên Huyết Tinh Sa nằm trong phạm vi Huyết Độc Chân Khí nh
 
 Giọng nói lạnh lẽo của Lệ Vô Tâm vang lên ngay bên tai Triệu Hàn. Huyết Ảnh Bộ! Hắn đã lao ra khỏi vùng trung tâm trận pháp với tốc độ quỷ mị, xuất hiện ngay phía sau Tôn Mộc, kẻ đang đứng gần hắn nhất.
 
-"A Á Á!!!" Tôn Mộc còn chưa kịp phản ứng, Huyết Độc Phiến đã vô tình xẹt qua cổ hắn. Cổ họng đứt lìa, máu tươi phun trào, nhưng còn chưa kịp rơi xuống đất, độc tính từ quạt đã xâm nhập vào cơ thể, khiến cái xác nhanh chóng thối rữa, biến thành một vũng mủ hôi thối.
+"A Á Á!" Tôn Mộc còn chưa kịp phản ứng, Huyết Độc Phiến đã vô tình xẹt qua cổ hắn. Cổ họng đứt lìa, máu tươi phun trào, nhưng còn chưa kịp rơi xuống đất, độc tính từ quạt đã xâm nhập vào cơ thể, khiến cái xác nhanh chóng thối rữa, biến thành một vũng mủ hôi thối.
 
 "Sư đệ!" Gã mặt sẹo gầm lên, ánh mắt đầy tơ máu quay lại, rút ra một thanh quỷ đao chém thẳng vào Lệ Vô Tâm.
 

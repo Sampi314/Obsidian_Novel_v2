@@ -24,7 +24,7 @@ Trần Hạo nhíu mày, cảnh giác rút kiếm: "Cẩn thận! Hình như là
 
 Một bóng đen lướt qua nhanh như cắt, để lại tàn ảnh màu đỏ.
 
-"A Á Á!!!"
+"A Á Á!"
 
 Tiếng hét thảm thiết vang lên từ phía sau. Trần Hạo quay phắt lại, đồng tử co rút mãnh liệt.
 
@@ -62,7 +62,7 @@ Lệ Vô Tâm không tấn công trực diện. Hắn thi triển Huyết Ảnh 
 
 Một đường chém ngọt ngào bằng lưỡi quạt sắc bén. Đầu tên sư đệ bay lên không trung, máu tươi bắn tung tóe lên mặt Trần Hạo.
 
-"Sư đệ!!!"
+"Sư đệ!"
 
 Trần Hạo điên cuồng lao tới, kiếm khí rực lửa chém xuống. Nhưng Lệ Vô Tâm đã biến mất, chỉ để lại một làn khói đỏ mờ ảo.
 

@@ -26,7 +26,7 @@ Hắn tiến lại gần lồng sắt, mở cửa ra và lôi xệch một tên 
 
 Hắn đổ một giọt Huyết Độc Dung Dịch lên vết thương hở trên ngực tên tán tu. Ngay lập tức, một tiếng "xèo" nhỏ vang lên, kèm theo đó là khói trắng bốc lên. Vết thương bắt đầu sủi bọt, làn da xung quanh nhanh chóng chuyển sang màu đen kịt.
 
-"A Á Á!!!" Tên tán tu gào lên thảm thiết, cơ thể co giật kịch liệt dù đã bị điểm huyệt.
+"A Á Á!" Tên tán tu gào lên thảm thiết, cơ thể co giật kịch liệt dù đã bị điểm huyệt.
 
 Lệ Vô Tâm bình thản quan sát, đôi mắt không hề có một gợn sóng cảm xúc. Hắn lấy ra một cuốn sổ tay nhỏ được bọc bằng da thú, tỉ mỉ ghi chép lại mọi phản ứng của cơ thể nạn nhân. Tốc độ lan truyền của độc tố, sự biến đổi màu sắc của da, mức độ hoại tử của cơ bắp... tất cả đều được hắn ghi nhận một cách chi tiết và lạnh lùng.
 

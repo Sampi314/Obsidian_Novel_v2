@@ -21,7 +21,7 @@ Da thịt chúng nứt toác, rỉ ra thứ dịch lỏng màu đỏ sẫm tanh 
 
 Diệp Tĩnh Sương siết chặt [Hàn Mai Kiếm](../../Luyện_Khí/Hàn_Ngọc_Kiếm.md), trán lấm tấm mồ hôi lạnh. Dù là đệ tử chân truyền của Cửu Hoa Kiếm Tông, nàng cũng chưa bao giờ đối mặt với số lượng quái vật đông đảo đến thế này. Hơn nữa, không khí xung quanh dường như đang bị độc tố xâm chiếm, khiến việc vận chuyển linh lực hệ Băng của nàng trở nên khó khăn hơn bình thường.
 
-"Grào!!!"
+"Grào!"
 
 Ba con Huyết Thi dẫn đầu lao tới cùng lúc. Móng vuốt sắc nhọn xé toạc không khí, nhắm thẳng vào hạ bàn và yết hầu của nàng.
 

@@ -34,7 +34,7 @@ Trong bóng tối, một giọng nói trầm thấp, lạnh lẽo vang lên: "Mi
 
 Một ánh sáng đỏ lóe lên. Đầu của vị trưởng lão vừa báo cáo rơi xuống đất, lăn long lóc đến chân Thiên Lang Tử. Máu phun ra như suối từ cổ ông ta.
 
-"A Á Á!!!" Đám đệ tử xung quanh hét lên kinh hoàng.
+"A Á Á!" Đám đệ tử xung quanh hét lên kinh hoàng.
 
 Lệ Vô Tâm bước ra từ bóng tối, chiếc quạt xếp trên tay phe phẩy nhẹ nhàng. Hắn mỉm cười, nụ cười đẹp đẽ nhưng tàn nhẫn đến thấu xương.
 
