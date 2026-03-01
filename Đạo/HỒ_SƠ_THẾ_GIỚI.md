@@ -241,6 +241,7 @@
     - [Pháo Đài Xanh Hội](Thế_Lực/Pháo_Đài_Xanh_Hội.md)
 - **Trung Tâm (Central):**
     - [Cửu Hoa Kiếm Tông](Thế_Lực/Cửu_Hoa_Kiếm_Tông.md)
+    - [Huyết Sát Minh](Thế_Lực/Huyết_Sát_Minh.md)
     - [Dược Vương Cốc](Thế_Lực/Dược_Vương_Cốc.md)
     - [Ảnh Nguyệt Uyển](Thế_Lực/Ảnh_Nguyệt_Uyển.md)
     - [Đại Càn Hoàng Triều](Thế_Lực/Đại_Càn_Hoàng_Triều.md)

@@ -3,8 +3,8 @@
 ## ARC HIỆN TẠI
 
 ### 1. Góc Nhìn Chính (Main Story)
-*   **Trạng Thái:** Đang diễn ra.
-*   **Tên Arc:** Khởi Đầu & Lưu Sa Phế Tích.
+*   **Trạng Thái:** Đã hoàn thành (Chuyển sang Arc mới).
+*   **Tên Arc:** Khởi Đầu & Lưu Sa Phế Tích -> Huyết Độc Rừng Thiêng (Đã xong).
 *   **Nhân Vật Chính:** Diệp Tĩnh Sương, Lâm Phong.
 *   **Nhân Vật Phụ:** Hứa Nhược Thủy, Hứa Thanh Vân.
 *   **Mục Tiêu:**
@@ -74,9 +74,10 @@
     - **Nhiệm Vụ Hiện Tại:** Hướng về Đầm Lầy Tử Thần để trợ giúp đại quân Chính Đạo phá hủy Mắt Trận chính.
     - **Sự Kiện Mới:** Đến Đầm Lầy Tử Thần, phối hợp cùng Sở Lăng Sương đánh tan Độc Oán Mãng Xà. Lệ Vô Tâm trực tiếp xuất hiện để tử chiến (Chương 85 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Trận tử chiến cuối cùng kết thúc. Lệ Vô Tâm bị tiêu diệt (hoặc trốn thoát do có người cứu), Mắt Trận chính sụp đổ, Vạn Độc Huyết Tế Đại Trận bị phá giải (Hoàn thành - Chương 86 Góc Nhìn Chính).
+    - **Sự Kiện Mới (Arc 4 Khởi Đầu):** Nhóm Tĩnh Sương chuẩn bị tiến về Cửu Hoa Kiếm Tông để tìm hiểu sâu hơn về thân phận của Huyết Sát Minh và các manh mối mà chúng để lại tại Đầm Lầy Tử Thần.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
-*   **Trạng Thái:** Đang diễn ra (Song Song / Giao Điểm).
+*   **Trạng Thái:** Đã hoàn thành (Chuyển sang Arc mới).
 *   **Tên Arc:** Mạng Lưới Vô Hình (Invisible Web).
 *   **Nhân Vật Chính:** Lệ Vô Tâm (Hữu Tâm).
 *   **Nhân Vật Phụ:** Huyết Vệ, Thiên Tinh Cổ.
@@ -102,6 +103,7 @@
     - **Sự Kiện Mới:** Sử dụng Mẫu Cổ và Huyết Độc Chân Khí triệu hồi Huyết Độc Lang và Độc Oán Mãng Xà chống lại Cửu Hoa Kiếm Tông và Dược Vương Cốc.
     - **Sự Kiện Mới:** Nhận ra Mắt Trận phụ bị phá hủy, Lệ Vô Tâm điên cuồng kích hoạt cấm thuật "Phệ Mệnh Thiêu Hồn", đánh tan Độc Oán Mãng Xà và đích thân xuất hiện để tử chiến bảo vệ Mắt Trận chính (Chương 79 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Bị Mẫu Cổ phản phệ, bại trận trước nhóm Tĩnh Sương và Lăng Sương, sau đó được Huyết Sát Minh cứu thoát qua dòng Mạch Ngầm (Hoàn thành - Chương 80 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới (Arc 4 Khởi Đầu):** Lệ Vô Tâm dưỡng thương tại bí cảnh của Huyết Sát Minh, đối mặt với sự thao túng mới từ Minh Chủ và quyết tâm tìm cách tái khởi động đại kế báo thù.
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

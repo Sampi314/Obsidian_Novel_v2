@@ -505,3 +505,23 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Chuẩn bị bước vào Arc 4, lên ý tưởng cho nội dung khám phá những bí ẩn còn lại, khắc phục hậu quả trận chiến hoặc mở rộng đến Đông Hoang / Cửu Hoa Kiếm Tông.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Khởi tạo Huyết Sát Minh)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Kiểm tra Báo Cáo Chất Lượng, tìm các thế lực còn thiếu và dọn dẹp các điểm mâu thuẫn để chuẩn bị cho Arc 4.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Thế_Lực/Huyết_Sát_Minh.md`: Tạo mới hồ sơ cho tổ chức ngầm xuyên lục địa "Huyết Sát Minh", kẻ giật dây sự hỗn loạn ở Nam Cương và là kẻ thù truyền kiếp của Diệp Tĩnh Sương.
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết cho "Huyết Sát Minh".
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật trạng thái "Đã hoàn thành" cho Arc 3 của Diệp Tĩnh Sương và Lệ Vô Tâm. Thêm mục tiêu khởi đầu cho Arc 4.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc bù lấp thực thể còn thiếu.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Đã dọn dẹp xong lỗ hổng thực thể quan trọng xuất hiện ở hồi kết Arc 3, giúp cấu trúc thế giới vững chắc hơn trước khi tiến vào Arc mới.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Triển khai viết các chương mở đầu của Arc 4, hướng đến việc di chuyển bối cảnh câu chuyện (Ví dụ: Trở về Cửu Hoa Kiếm Tông hoặc tiến vào trụ sở của Huyết Sát Minh).
