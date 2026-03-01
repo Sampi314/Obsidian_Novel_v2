@@ -87,6 +87,13 @@ def get_html_header(title):
             margin-top: 20px;
         }}
 
+        /* Nest list resetting */
+        ul ul {{
+            display: block;
+            margin-top: 10px;
+            padding-left: 15px;
+        }}
+
         li {{
             background: var(--bg-lighter);
             padding: 15px 20px;
@@ -96,8 +103,17 @@ def get_html_header(title):
             transition: all 0.3s ease;
             position: relative;
             overflow: hidden;
-            display: flex;
-            align-items: center;
+            display: block;
+        }}
+
+        ul ul li {{
+            background: none;
+            border: none;
+            box-shadow: none;
+            padding: 5px 0 5px 15px;
+            margin-bottom: 5px;
+            border-left: 2px solid var(--border-color);
+            border-radius: 0;
         }}
 
         li::before {{
@@ -110,10 +126,22 @@ def get_html_header(title):
             transition: all 0.3s ease;
         }}
 
+        ul ul li::before {{
+            display: none;
+        }}
+
         li:hover {{
             transform: translateY(-3px);
             border-color: var(--text-gold);
             box-shadow: inset 0 0 15px rgba(212, 175, 55, 0.1), 0 4px 8px rgba(0, 0, 0, 0.5);
+        }}
+
+        ul ul li:hover {{
+            transform: none;
+            border-color: var(--border-color);
+            border-left-color: var(--text-gold);
+            box-shadow: none;
+            background: rgba(212, 175, 55, 0.05);
         }}
 
         li:hover::before {{
@@ -223,7 +251,7 @@ def generate_root_index_html(repo_root):
     html_content.append('    <h1>Mục Lục Tổng Hợp</h1>')
     html_content.append('    <p>Chào mừng đến với trang mục lục tổng hợp của thế giới Tiên Hiệp \'Cố Nguyên\'.</p>')
 
-    html_content.append('    <h2>📖 Cốt Truyện (Story)</h2>')
+    html_content.append('    <h2>📖 Cốt Truyện</h2>')
     html_content.append('    <p>Các chương truyện được phân loại theo góc nhìn nhân vật:</p>')
     html_content.append('    <ul>')
 
@@ -246,21 +274,21 @@ def generate_root_index_html(repo_root):
     html_content.append('    </ul>')
 
     # Quy Hoạch Cốt Truyện Section
-    html_content.append('    <h2>🗺️ Quy Hoạch Cốt Truyện (Story Arcs)</h2>')
+    html_content.append('    <h2>🗺️ Quy Hoạch Cốt Truyện</h2>')
     html_content.append('    <p>Các tuyến truyện chính trên toàn Cố Nguyên Giới:</p>')
     html_content.append('    <ul>')
 
     arcs_links = [
-        ("Tuyến Truyện Nam Cương", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Tuyến_Truyện_Nam_Cương.md", [
-            ("Diệp Tĩnh Sương Chi Tiết", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Diệp_Tĩnh_Sương_Chi_Tiết.md"),
-            ("Lâm Phong", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lâm_Phong.md"),
-            ("Lệ Vô Tâm Chi Tiết", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lệ_Vô_Tâm_Chi_Tiết.md"),
+        ("Tuyến Truyện Nam Cương", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Tuyến_Truyện_Nam_Cương.html", [
+            ("Diệp Tĩnh Sương Chi Tiết", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Diệp_Tĩnh_Sương_Chi_Tiết.html"),
+            ("Lâm Phong", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lâm_Phong.html"),
+            ("Lệ Vô Tâm Chi Tiết", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lệ_Vô_Tâm_Chi_Tiết.html"),
         ]),
-        ("Tuyến Truyện Bắc Hàn", "Đạo/Quy_Hoạch_Cốt_Truyện/Bắc_Hàn/Tuyến_Truyện_Bắc_Hàn.md", []),
-        ("Tuyến Truyện Đông Hoang", "Đạo/Quy_Hoạch_Cốt_Truyện/Đông_Hoang/Tuyến_Truyện_Đông_Hoang.md", []),
-        ("Tuyến Truyện Thiên Trụ", "Đạo/Quy_Hoạch_Cốt_Truyện/Thiên_Trụ/Tuyến_Truyện_Thiên_Trụ.md", []),
-        ("Tuyến Truyện Tây Mạc", "Đạo/Quy_Hoạch_Cốt_Truyện/Tây_Mạc/Tuyến_Truyện_Tây_Mạc.md", []),
-        ("Quản Lý Arc Truyện", "Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md", [])
+        ("Tuyến Truyện Bắc Hàn", "Đạo/Quy_Hoạch_Cốt_Truyện/Bắc_Hàn/Tuyến_Truyện_Bắc_Hàn.html", []),
+        ("Tuyến Truyện Đông Hoang", "Đạo/Quy_Hoạch_Cốt_Truyện/Đông_Hoang/Tuyến_Truyện_Đông_Hoang.html", []),
+        ("Tuyến Truyện Thiên Trụ", "Đạo/Quy_Hoạch_Cốt_Truyện/Thiên_Trụ/Tuyến_Truyện_Thiên_Trụ.html", []),
+        ("Tuyến Truyện Tây Mạc", "Đạo/Quy_Hoạch_Cốt_Truyện/Tây_Mạc/Tuyến_Truyện_Tây_Mạc.html", []),
+        ("Quản Lý Arc Truyện", "Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.html", [])
     ]
 
     for title, path, sub_links in arcs_links:
@@ -275,23 +303,23 @@ def generate_root_index_html(repo_root):
     html_content.append('    </ul>')
 
     # Wiki Section
-    html_content.append('    <h2>📚 Tra Cứu (Wiki)</h2>')
+    html_content.append('    <h2>📚 Tra Cứu</h2>')
     html_content.append('    <p>Thông tin chi tiết về thế giới, nhân vật và hệ thống tu luyện:</p>')
     html_content.append('    <ul>')
 
     wiki_links = [
-        ("Hồ Sơ Thế Giới (World Profile)", "Đạo/HỒ_SƠ_THẾ_GIỚI.html"),
-        ("Nhân Vật (Characters)", "Đạo/Nhân_Vật/index.html"),
-        ("Công Pháp (Techniques)", "Đạo/Công_Pháp/index.html"),
-        ("Thế Lực (Factions)", "Đạo/Thế_Lực/index.html"),
-        ("Kỳ Vật (Artifacts & Beasts)", "Đạo/Kỳ_Vật/index.html"),
-        ("Chủng Tộc (Races)", "Đạo/Chủng_Tộc/index.html"),
-        ("Đan Dược (Alchemy)", "Đạo/Đan_Dược/index.html"),
-        ("Luyện Khí (Blacksmithing)", "Đạo/Luyện_Khí/index.html"),
-        ("Trận Pháp (Formations)", "Đạo/Trận_Pháp/index.html"),
-        ("Phù Lục (Talismans)", "Đạo/Phù_Lục/index.html"),
-        ("Thế Giới & Thời Gian (World & Timeline)", "Đạo/Thế_Giới_Và_Thời_Gian/index.html"),
-        ("Văn Hóa (Culture)", "Đạo/Văn_Hóa/index.html")
+        ("Hồ Sơ Thế Giới", "Đạo/HỒ_SƠ_THẾ_GIỚI.html"),
+        ("Nhân Vật", "Đạo/Nhân_Vật/index.html"),
+        ("Công Pháp", "Đạo/Công_Pháp/index.html"),
+        ("Thế Lực", "Đạo/Thế_Lực/index.html"),
+        ("Kỳ Vật", "Đạo/Kỳ_Vật/index.html"),
+        ("Chủng Tộc", "Đạo/Chủng_Tộc/index.html"),
+        ("Đan Dược", "Đạo/Đan_Dược/index.html"),
+        ("Luyện Khí", "Đạo/Luyện_Khí/index.html"),
+        ("Trận Pháp", "Đạo/Trận_Pháp/index.html"),
+        ("Phù Lục", "Đạo/Phù_Lục/index.html"),
+        ("Thế Giới & Thời Gian", "Đạo/Thế_Giới_Và_Thời_Gian/index.html"),
+        ("Văn Hóa", "Đạo/Văn_Hóa/index.html")
     ]
 
     for title, path in wiki_links:
@@ -341,6 +369,10 @@ def generate_wiki_category_index_html(category_dir, category_name, repo_root):
     for filename in files:
         filepath = os.path.join(category_dir, filename)
         title = get_chapter_title(filepath)
+
+        # Clean up specific prefixes from the title
+        title = re.sub(r'^(HỒ SƠ NHÂN VẬT|HỒ SƠ KỲ VẬT|KỲ VẬT|HỒ SƠ THẾ LỰC|HỒ SƠ):\s*', '', title, flags=re.IGNORECASE)
+
         # Link to .html file
         html_filename = filename.replace(".md", ".html")
         html_content.append(f'    <li><a href="{html_filename}">{title}</a></li>')
