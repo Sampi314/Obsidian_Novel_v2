@@ -24,7 +24,7 @@ Chưa dứt lời, Băng Phách Kiếm đã rời vỏ, vẽ ra một đường 
 
 Kẻ mặt sẹo chỉ hừ lạnh, nhấc cánh tay áo choàng đen lên. Một đám mây máu đỏ sẫm từ tay hắn bộc phát, hóa thành một tấm khiên huyết sắc cản lại hàn khí của Sở Lăng Sương.
 
-"Ầm!!!"
+"Ầm!"
 
 Hàn khí và huyết khí va chạm, tạo nên một vụ nổ linh lực chấn động cả một vùng. Sóng xung kích hất tung cát bụi, khiến tầm nhìn trở nên mờ mịt.
 

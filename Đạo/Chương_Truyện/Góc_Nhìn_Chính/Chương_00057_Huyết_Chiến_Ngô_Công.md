@@ -84,11 +84,11 @@ Lâm Phong đã chờ sẵn thời khắc này. Hắn nhảy lên một tảng �
 
 Năm mũi tên bay ra, nối đuôi nhau thành một đường thẳng tắp. Mũi thứ nhất phá vỡ lớp hộ thể khí của Ngô Công. Mũi thứ hai xuyên qua bàn tay đang che mặt hắn. Mũi thứ ba, thứ tư và thứ năm găm thẳng vào hốc mắt trái của hắn.
 
-"BÙM!!!"
+"BÙM!"
 
 Tiếng nổ vang trời. Ngô Công Trưởng Lão ôm mặt gào thét thảm thiết, nửa khuôn mặt của hắn đã bị nổ nát bét, máu me be bét trộn lẫn với dịch xanh của rết.
 
-"Lũ sâu kiến!!! Ta sẽ giết các ngươi!!!"
+"Lũ sâu kiến! Ta sẽ giết các ngươi!"
 
 Hắn điên cuồng lao tới, không còn giữ được sự bình tĩnh ban đầu, húc đổ mọi chướng ngại vật trên đường đi.
 

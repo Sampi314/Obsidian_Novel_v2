@@ -63,7 +63,7 @@ Lâm Phong không bắn tên nữa. Hắn móc [Tinh Linh Cổ Ngọc](../../K�
 
 Miếng ngọc bội rung lên bần bật, rồi bùng nổ một luồng ánh sáng xanh lục chói lòa như mặt trời ban trưa.
 
-"Gào!!!"
+"Gào!"
 
 Huyết Tướng hét lên đau đớn, đưa tay che mắt. Làn da đỏ sẫm của nó khi tiếp xúc với ánh sáng thanh tẩy này bốc khói xèo xèo như bị axit ăn mòn. Đám Huyết Độc Lang xung quanh càng thê thảm hơn, chúng lăn lộn trên đất, tru tréo thảm thiết.
 

@@ -43,7 +43,7 @@ Lão đưa tay định chộp lấy Huyết Độc Phiến đang nằm im lìm t
 
 Một luồng gió nhẹ thoảng qua. Bàn tay của lão già dừng lại giữa không trung. Rồi từ từ rơi xuống đất. Máu phun ra xối xả từ cổ tay cụt lủn.
 
-"A A A A!!!" Lão rú lên đau đớn, ôm lấy cánh tay đang chảy máu như suối.
+"A A A A!" Lão rú lên đau đớn, ôm lấy cánh tay đang chảy máu như suối.
 
 Đám hắc y nhân kinh hoàng lùi lại. Không ai nhìn thấy Lệ Vô Tâm ra tay khi nào. Chiếc quạt vẫn nằm yên trên bàn, chưa hề xê dịch.
 

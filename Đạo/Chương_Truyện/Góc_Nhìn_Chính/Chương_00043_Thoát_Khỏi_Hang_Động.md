@@ -30,7 +30,7 @@ Diệp Tĩnh Sương khẽ gật đầu. Nàng hít sâu một hơi, linh lực 
 
 Một luồng kiếm khí lạnh lẽo thấu xương quét ngang vách hang, tạo thành một bức tường băng dày chặn đứng đường lên của lũ nhện. Ngay sau đó, nàng mượn lực phản chấn, tung người bay vút lên cao, bắt kịp nhóm Lâm Phong ngay tại miệng khe nứt.
 
-"Ầm!!!"
+"Ầm!"
 
 Ngay khi bốn người vừa lách mình qua khe hở hẹp, một tiếng nổ kinh hoàng vang lên từ bên dưới. Trần hang chịu không nổi chấn động, sụp đổ hoàn toàn, chôn vùi lối vào Hang Động Nhện Quỷ và cả bầy quái vật điên cuồng phía sau. Bụi đất mịt mù thốc lên từ khe nứt, khiến ai nấy đều ho sặc sụa.
 

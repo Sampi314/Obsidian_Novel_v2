@@ -393,3 +393,11 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Lệ Vô Tâm thể hiện sức mạnh áp đảo của Vạn Độc Thân Trúc Cơ Hậu Kỳ, dễ dàng phá vỡ các đòn tấn công của Sở Lăng Sương và Lâm Phong. Dù Diệp Tĩnh Sương dốc toàn lực thi triển Băng Phong Thiên Lý, nàng vẫn bị Lệ Vô Tâm phá giải và dồn vào chỗ chết. Đúng lúc Lệ Vô Tâm chuẩn bị kết liễu Tĩnh Sương, một luồng uy áp Hóa Thần kỳ kinh khủng giáng xuống ngăn cản hắn.
 - **Tình trạng:** Hoàn thành. Trận chiến giữa thế hệ trẻ tại Cửu Hoa tạm kết thúc, chuẩn bị chuyển sang cấp độ cường giả.
+
+## Phiên làm việc: Viết Chương 96 (Góc Nhìn Chính) & Chương 90 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 96:** Cường Giả Hàng Lâm
+- **Chương 90:** Uy Áp Hóa Thần
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Ngay khi Lệ Vô Tâm chuẩn bị hạ sát Diệp Tĩnh Sương, Đại Trưởng Lão Thanh Hư với tu vi Hóa Thần Sơ Kỳ đã xuất hiện. Bằng uy áp khổng lồ, ông phá nát Vạn Độc Thân của Lệ Vô Tâm. Đứng trước sức mạnh tuyệt đối, Lệ Vô Tâm phải sử dụng Huyết Độn Phù (bảo vật của Huyết Sát Minh) để trốn thoát. Cuộc tấn công ngoại môn tạm lắng, hạm đội Huyết Vân Chu cũng rút lui, để lại Cửu Hoa Kiếm Tông đối mặt với sự tàn phá nặng nề.
+- **Tình trạng:** Hoàn thành. Kết thúc đợt tấn công đầu tiên của Huyết Sát Minh vào Cửu Hoa Kiếm Tông.
