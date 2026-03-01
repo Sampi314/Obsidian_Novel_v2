@@ -40,7 +40,7 @@ Một tên đệ tử trong nhóm bỗng dừng lại, hếch mũi ngửi ngửi
 
 Một mũi tên bọc phong linh lực từ trên cao bắn xuống, găm thẳng vào yết hầu tên đi đầu. Hắn trợn ngược mắt, hai tay ôm lấy cổ họng đầy máu, không kịp phát ra nửa tiếng kêu liền ngã gục.
 
-"Có địch...!!!" Bốn tên còn lại kinh hãi hét lên, nhưng âm thanh đã bị nghẹn lại trong cổ họng.
+"Có địch...!" Bốn tên còn lại kinh hãi hét lên, nhưng âm thanh đã bị nghẹn lại trong cổ họng.
 
 Như một bông hoa mai nở rộ trong gió tuyết, bóng dáng Diệp Tĩnh Sương vút qua. Tuyết Ảnh Kiếm trong tay nàng múa lên một đường kiếm quang tuyệt đẹp, để lại những vệt băng vụn lấp lánh trong không trung.
 

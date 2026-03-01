@@ -30,7 +30,7 @@ Hỏa độc từ Huyết Tinh Sa bùng phát dữ dội, ngọn lửa đỏ th�
 
 "Tốt lắm, Hứa phu nhân!" Lâm Phong kêu lên, tranh thủ bắn thêm ba mũi tên nữa.
 
-Nhưng niềm vui chưa được bao lâu, một tiếng rít chói tai vang lên từ phía Nhện Mặt Quỷ. "Kèeeeeee——!!!"
+Nhưng niềm vui chưa được bao lâu, một tiếng rít chói tai vang lên từ phía Nhện Mặt Quỷ. "Kèeeeeee——!"
 
 Con quái vật khổng lồ phóng ra những sợi tơ đỏ rực, dính đầy thứ chất lỏng ăn mòn. Sợi tơ lao tới với tốc độ kinh hồn, xé toạc lớp sương mù đỏ.
 
