@@ -283,8 +283,18 @@ def process_markdown_file(filepath, repo_root):
     # Wrap in template
     full_html = get_html_header(title, level_to_root) + html_content + get_html_footer()
 
-    # Save as .html
-    html_filepath = filepath.replace('.md', '.html')
+    # Save as .html in 'Đạo HTML' directory
+    # Replace the top-level 'Đạo' folder with 'Đạo HTML'
+    parts = rel_path.split(os.sep)
+    if parts[0] == 'Đạo':
+        parts[0] = 'Đạo HTML'
+
+    html_rel_path = os.sep.join(parts).replace('.md', '.html')
+    html_filepath = os.path.join(repo_root, html_rel_path)
+
+    # Ensure directory exists
+    os.makedirs(os.path.dirname(html_filepath), exist_ok=True)
+
     with open(html_filepath, 'w', encoding='utf-8') as f:
         f.write(full_html)
 

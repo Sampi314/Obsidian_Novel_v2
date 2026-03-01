@@ -187,6 +187,34 @@
         controlsDiv.appendChild(createAudioBtn('btn-stop', '⏹️ Dừng', 'stopReading'));
 
         audioDiv.appendChild(controlsDiv);
+
+        // --- Speed Controls ---
+        var speedDiv = document.createElement('div');
+        speedDiv.className = 'audio-speed-controls';
+        speedDiv.style.marginTop = '10px';
+        speedDiv.style.display = 'flex';
+        speedDiv.style.justifyContent = 'center';
+        speedDiv.style.alignItems = 'center';
+        speedDiv.style.gap = '15px';
+
+        var btnDecrease = createAudioBtn('btn-speed-down', '🐢 Giảm', 'decreaseSpeed');
+        btnDecrease.style.display = 'inline-block'; // Always visible
+
+        var speedDisplay = document.createElement('span');
+        speedDisplay.id = 'speed-display';
+        speedDisplay.textContent = '1.0x';
+        speedDisplay.style.fontWeight = 'bold';
+        speedDisplay.style.minWidth = '40px';
+
+        var btnIncrease = createAudioBtn('btn-speed-up', '🐇 Tăng', 'increaseSpeed');
+        btnIncrease.style.display = 'inline-block'; // Always visible
+
+        speedDiv.appendChild(btnDecrease);
+        speedDiv.appendChild(speedDisplay);
+        speedDiv.appendChild(btnIncrease);
+
+        audioDiv.appendChild(speedDiv);
+
         container.appendChild(audioDiv);
     }
 

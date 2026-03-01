@@ -205,11 +205,18 @@ def get_html_footer():
 </html>
 """
 
-def generate_pov_index_html(pov_dir, pov_name):
+def generate_pov_index_html(pov_dir, pov_name, repo_root):
     """
     Generates an index.html file for a specific POV directory.
     """
-    index_path = os.path.join(pov_dir, "index.html")
+    # Create the index.html inside "Đạo HTML"
+    rel_path = os.path.relpath(pov_dir, repo_root)
+    parts = rel_path.split(os.sep)
+    if parts[0] == 'Đạo':
+        parts[0] = 'Đạo HTML'
+    html_dir = os.path.join(repo_root, *parts)
+    os.makedirs(html_dir, exist_ok=True)
+    index_path = os.path.join(html_dir, "index.html")
 
     html_content = [get_html_header(f"Mục Lục: {pov_name}")]
 
@@ -269,7 +276,7 @@ def generate_root_index_html(repo_root):
 
             # Generate the POV index while we are here
             full_pov_path = os.path.join(story_dir, pov_dir_name)
-            generate_pov_index_html(full_pov_path, f"Góc Nhìn {display_name}")
+            generate_pov_index_html(full_pov_path, f"Góc Nhìn {display_name}", repo_root)
 
     html_content.append('    </ul>')
 
@@ -279,16 +286,16 @@ def generate_root_index_html(repo_root):
     html_content.append('    <ul>')
 
     arcs_links = [
-        ("Tuyến Truyện Nam Cương", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Tuyến_Truyện_Nam_Cương.html", [
-            ("Diệp Tĩnh Sương Chi Tiết", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Diệp_Tĩnh_Sương_Chi_Tiết.html"),
-            ("Lâm Phong", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lâm_Phong.html"),
-            ("Lệ Vô Tâm Chi Tiết", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lệ_Vô_Tâm_Chi_Tiết.html"),
+        ("Tuyến Truyện Nam Cương", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Tuyến_Truyện_Nam_Cương.html", [
+            ("Diệp Tĩnh Sương Chi Tiết", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Diệp_Tĩnh_Sương_Chi_Tiết.html"),
+            ("Lâm Phong", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lâm_Phong.html"),
+            ("Lệ Vô Tâm Chi Tiết", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lệ_Vô_Tâm_Chi_Tiết.html"),
         ]),
-        ("Tuyến Truyện Bắc Hàn", "Đạo/Quy_Hoạch_Cốt_Truyện/Bắc_Hàn/Tuyến_Truyện_Bắc_Hàn.html", []),
-        ("Tuyến Truyện Đông Hoang", "Đạo/Quy_Hoạch_Cốt_Truyện/Đông_Hoang/Tuyến_Truyện_Đông_Hoang.html", []),
-        ("Tuyến Truyện Thiên Trụ", "Đạo/Quy_Hoạch_Cốt_Truyện/Thiên_Trụ/Tuyến_Truyện_Thiên_Trụ.html", []),
-        ("Tuyến Truyện Tây Mạc", "Đạo/Quy_Hoạch_Cốt_Truyện/Tây_Mạc/Tuyến_Truyện_Tây_Mạc.html", []),
-        ("Quản Lý Arc Truyện", "Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.html", [])
+        ("Tuyến Truyện Bắc Hàn", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Bắc_Hàn/Tuyến_Truyện_Bắc_Hàn.html", []),
+        ("Tuyến Truyện Đông Hoang", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Đông_Hoang/Tuyến_Truyện_Đông_Hoang.html", []),
+        ("Tuyến Truyện Thiên Trụ", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Thiên_Trụ/Tuyến_Truyện_Thiên_Trụ.html", []),
+        ("Tuyến Truyện Tây Mạc", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Tây_Mạc/Tuyến_Truyện_Tây_Mạc.html", []),
+        ("Quản Lý Arc Truyện", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.html", [])
     ]
 
     for title, path, sub_links in arcs_links:
@@ -308,18 +315,18 @@ def generate_root_index_html(repo_root):
     html_content.append('    <ul>')
 
     wiki_links = [
-        ("Hồ Sơ Thế Giới", "Đạo/HỒ_SƠ_THẾ_GIỚI.html"),
-        ("Nhân Vật", "Đạo/Nhân_Vật/index.html"),
-        ("Công Pháp", "Đạo/Công_Pháp/index.html"),
-        ("Thế Lực", "Đạo/Thế_Lực/index.html"),
-        ("Kỳ Vật", "Đạo/Kỳ_Vật/index.html"),
-        ("Chủng Tộc", "Đạo/Chủng_Tộc/index.html"),
-        ("Đan Dược", "Đạo/Đan_Dược/index.html"),
-        ("Luyện Khí", "Đạo/Luyện_Khí/index.html"),
-        ("Trận Pháp", "Đạo/Trận_Pháp/index.html"),
-        ("Phù Lục", "Đạo/Phù_Lục/index.html"),
-        ("Thế Giới & Thời Gian", "Đạo/Thế_Giới_Và_Thời_Gian/index.html"),
-        ("Văn Hóa", "Đạo/Văn_Hóa/index.html")
+        ("Hồ Sơ Thế Giới", "Đạo HTML/HỒ_SƠ_THẾ_GIỚI.html"),
+        ("Nhân Vật", "Đạo HTML/Nhân_Vật/index.html"),
+        ("Công Pháp", "Đạo HTML/Công_Pháp/index.html"),
+        ("Thế Lực", "Đạo HTML/Thế_Lực/index.html"),
+        ("Kỳ Vật", "Đạo HTML/Kỳ_Vật/index.html"),
+        ("Chủng Tộc", "Đạo HTML/Chủng_Tộc/index.html"),
+        ("Đan Dược", "Đạo HTML/Đan_Dược/index.html"),
+        ("Luyện Khí", "Đạo HTML/Luyện_Khí/index.html"),
+        ("Trận Pháp", "Đạo HTML/Trận_Pháp/index.html"),
+        ("Phù Lục", "Đạo HTML/Phù_Lục/index.html"),
+        ("Thế Giới & Thời Gian", "Đạo HTML/Thế_Giới_Và_Thời_Gian/index.html"),
+        ("Văn Hóa", "Đạo HTML/Văn_Hóa/index.html")
     ]
 
     for title, path in wiki_links:
@@ -328,7 +335,10 @@ def generate_root_index_html(repo_root):
         # Tạo index cho thư mục con (bỏ HỒ SƠ THẾ GIỚI ra vì là file md)
         if path.endswith("/index.html"):
             category_rel_dir = path.replace("/index.html", "")
-            category_full_dir = os.path.join(repo_root, category_rel_dir)
+            # The md files are actually in 'Đạo' folder, so we read from there to generate HTML index.
+            # We map "Đạo HTML/Nhân_Vật" back to "Đạo/Nhân_Vật" for file listing.
+            dao_rel_dir = category_rel_dir.replace("Đạo HTML", "Đạo")
+            category_full_dir = os.path.join(repo_root, dao_rel_dir)
             if os.path.exists(category_full_dir):
                 # category_name từ title "Nhân Vật (Characters)"
                 category_name = title.split("(")[0].strip()
@@ -347,8 +357,14 @@ def generate_wiki_category_index_html(category_dir, category_name, repo_root):
     """
     Generates an index.html file for a specific Wiki category directory (like Nhân_Vật).
     """
-    index_path = os.path.join(category_dir, "index.html")
     rel_path = os.path.relpath(category_dir, repo_root)
+    parts = rel_path.split(os.sep)
+    if parts[0] == 'Đạo':
+        parts[0] = 'Đạo HTML'
+    html_dir = os.path.join(repo_root, *parts)
+    os.makedirs(html_dir, exist_ok=True)
+    index_path = os.path.join(html_dir, "index.html")
+
     level_to_root = rel_path.count(os.sep)
     root_path = "../" * level_to_root
 
