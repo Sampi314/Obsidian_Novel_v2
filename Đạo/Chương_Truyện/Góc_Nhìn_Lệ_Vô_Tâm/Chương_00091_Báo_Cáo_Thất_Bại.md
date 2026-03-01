@@ -64,3 +64,5 @@ Ta biết rõ điều đó. Nhưng hiện tại, ta không còn lựa chọn nà
 Ta bước vào mật thất dưỡng thương, đóng sầm cửa lại. Bên trong, một luồng Huyết Khí nồng đậm đang cuộn trào, chờ đợi ta hấp thụ.
 
 Cuộc chiến này chỉ mới bắt đầu. Lần tới gặp lại, ta sẽ không để bọn chúng có cơ hội thở dốc.
+
+[Chương tiếp theo...](Chương_00092_Bí_Mật_Huyết_Uyên.md)

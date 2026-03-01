@@ -98,3 +98,4 @@
 - [Chương 96: Cường Giả Hàng Lâm](Chương_00096_Cường_Giả_Hàng_Lâm.md)
 - [Chương 97: Khắc Phục Hậu Quả](Chương_00097_Khắc_Phục_Hậu_Quả.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)
+- [Chương 98: Đột Phá Ngưỡng Cửa](Chương_00098_Đột_Phá_Ngưỡng_Cửa.md)

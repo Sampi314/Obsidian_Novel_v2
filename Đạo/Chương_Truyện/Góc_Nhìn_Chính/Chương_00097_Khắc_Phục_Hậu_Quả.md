@@ -76,3 +76,5 @@ Tĩnh Sương ngước nhìn lên đỉnh Thiên Hoa Phong, nơi những đám m
 Nhưng nàng không hề sợ hãi. Trái tim nàng, giống như thanh Hàn Mai Kiếm, đã được tôi luyện qua lửa máu, ngày càng trở nên kiên định và sắc bén.
 
 Nàng sẽ không dừng lại, cho đến khi chém đứt mọi bất bình trên thế gian này.
+
+[Chương tiếp theo...](Chương_00098_Đột_Phá_Ngưỡng_Cửa.md)
