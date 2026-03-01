@@ -280,22 +280,31 @@ def generate_root_index_html(repo_root):
     html_content.append('    <ul>')
 
     wiki_links = [
-        ("Hồ Sơ Thế Giới (World Profile)", "Đạo/HỒ_SƠ_THẾ_GIỚI.md"),
-        ("Nhân Vật (Characters)", "Đạo/Nhân_Vật/"),
-        ("Công Pháp (Techniques)", "Đạo/Công_Pháp/"),
-        ("Thế Lực (Factions)", "Đạo/Thế_Lực/"),
-        ("Kỳ Vật (Artifacts & Beasts)", "Đạo/Kỳ_Vật/"),
-        ("Chủng Tộc (Races)", "Đạo/Chủng_Tộc/"),
-        ("Đan Dược (Alchemy)", "Đạo/Đan_Dược/"),
-        ("Luyện Khí (Blacksmithing)", "Đạo/Luyện_Khí/"),
-        ("Trận Pháp (Formations)", "Đạo/Trận_Pháp/"),
-        ("Phù Lục (Talismans)", "Đạo/Phù_Lục/"),
-        ("Thế Giới & Thời Gian (World & Timeline)", "Đạo/Thế_Giới_Và_Thời_Gian/"),
-        ("Văn Hóa (Culture)", "Đạo/Văn_Hóa/")
+        ("Hồ Sơ Thế Giới (World Profile)", "Đạo/HỒ_SƠ_THẾ_GIỚI.html"),
+        ("Nhân Vật (Characters)", "Đạo/Nhân_Vật/index.html"),
+        ("Công Pháp (Techniques)", "Đạo/Công_Pháp/index.html"),
+        ("Thế Lực (Factions)", "Đạo/Thế_Lực/index.html"),
+        ("Kỳ Vật (Artifacts & Beasts)", "Đạo/Kỳ_Vật/index.html"),
+        ("Chủng Tộc (Races)", "Đạo/Chủng_Tộc/index.html"),
+        ("Đan Dược (Alchemy)", "Đạo/Đan_Dược/index.html"),
+        ("Luyện Khí (Blacksmithing)", "Đạo/Luyện_Khí/index.html"),
+        ("Trận Pháp (Formations)", "Đạo/Trận_Pháp/index.html"),
+        ("Phù Lục (Talismans)", "Đạo/Phù_Lục/index.html"),
+        ("Thế Giới & Thời Gian (World & Timeline)", "Đạo/Thế_Giới_Và_Thời_Gian/index.html"),
+        ("Văn Hóa (Culture)", "Đạo/Văn_Hóa/index.html")
     ]
 
     for title, path in wiki_links:
         html_content.append(f'        <li><a href="{path}">{title}</a></li>')
+
+        # Tạo index cho thư mục con (bỏ HỒ SƠ THẾ GIỚI ra vì là file md)
+        if path.endswith("/index.html"):
+            category_rel_dir = path.replace("/index.html", "")
+            category_full_dir = os.path.join(repo_root, category_rel_dir)
+            if os.path.exists(category_full_dir):
+                # category_name từ title "Nhân Vật (Characters)"
+                category_name = title.split("(")[0].strip()
+                generate_wiki_category_index_html(category_full_dir, category_name, repo_root)
 
     html_content.append('    </ul>')
 
@@ -305,6 +314,44 @@ def generate_root_index_html(repo_root):
         f.write("\n".join(html_content))
 
     print(f"Generated root HTML index at {index_path}")
+
+def generate_wiki_category_index_html(category_dir, category_name, repo_root):
+    """
+    Generates an index.html file for a specific Wiki category directory (like Nhân_Vật).
+    """
+    index_path = os.path.join(category_dir, "index.html")
+    rel_path = os.path.relpath(category_dir, repo_root)
+    level_to_root = rel_path.count(os.sep)
+    root_path = "../" * level_to_root
+
+    html_content = [get_html_header(f"{category_name}")]
+
+    html_content.append(f'    <a href="{root_path}index.html" class="back-link">← Quay lại Trang Chủ</a>')
+    html_content.append(f'<h1>{category_name}</h1>')
+    html_content.append('<ul>')
+
+    files = []
+    for filename in os.listdir(category_dir):
+        if filename.endswith(".md") and filename != "index.md":
+            files.append(filename)
+
+    # Sort files alphabetically
+    files.sort()
+
+    for filename in files:
+        filepath = os.path.join(category_dir, filename)
+        title = get_chapter_title(filepath)
+        # Link to .html file
+        html_filename = filename.replace(".md", ".html")
+        html_content.append(f'    <li><a href="{html_filename}">{title}</a></li>')
+
+    html_content.append('</ul>')
+    html_content.append(get_html_footer())
+
+    with open(index_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(html_content))
+
+    print(f"Generated HTML index for {category_name} at {index_path}")
 
 if __name__ == "__main__":
     repo_root = os.getcwd()

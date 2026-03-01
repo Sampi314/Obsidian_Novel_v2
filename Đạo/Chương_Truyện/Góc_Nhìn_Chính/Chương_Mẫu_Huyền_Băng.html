@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương Mẫu Huyền Băng</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</h1>
+<br>
+<h2>I. THÔNG TIN CHUNG</h2>
+<ul>
+<li><strong>Số Thứ Tự:</strong> Chương Ngoại Truyện 1.</li>
+<li><strong>Tiêu Đề:</strong> Tuyết Sơn Độc Hành - Khúc Nhạc Của Gió.</li>
+<li><strong>Nhân Vật Chính:</strong> Lý Tuyết Ưng.</li>
+<li><strong>Bối Cảnh:</strong> Sau khi thành lập Huyền Băng Cung 10 năm.</li>
+</ul>
+<p>---</p>
+<br>
+<h2>II. NỘI DUNG CHƯƠNG</h2>
+<br>
+<p>Gió bấc rít gào như tiếng oan hồn ai oán, cuốn theo những bông tuyết sắc lạnh như dao lam cắt vào da thịt. Trên đỉnh Tuyết Sơn cao nhất Bắc Băng, nơi quanh năm chỉ có màu trắng xóa và cái lạnh thấu xương, một bóng người thanh mảnh đang ngồi tĩnh tọa.</p>
+<br>
+<p>Đó là Lý Tuyết Ưng. Nàng mặc một bộ trường bào trắng muốt, gần như hòa lẫn vào nền trời tuyết. Mái tóc bạch kim dài chấm đất khẽ bay theo gió, nhưng lạ thay, không một bông tuyết nào có thể chạm vào người nàng. Mỗi khi chúng rơi xuống gần ba tấc quanh người, liền bị một luồng vô hình lực đẩy ra, tan thành sương khói.</p>
+<br>
+<p>Trước mặt nàng đặt một cây cổ cầm trong suốt như pha lê - <em>Băng Huyền Cầm</em>. Bảy sợi dây đàn rung lên khe khẽ dù không ai chạm vào, phát ra những âm thanh <em>tinh... tang...</em> trầm bổng, hòa cùng tiếng gió tạo nên một bản nhạc kỳ dị.</p>
+<br>
+<p>"Tâm nhược băng thanh, thiên tháp bất kinh..."</p>
+<br>
+<p>Lý Tuyết Ưng lẩm nhẩm khẩu quyết tầng một của <em>Băng Tâm Quyết</em>. Nàng đang cố gắng đột phá bình cảnh Nguyên Anh Trung Kỳ lên Hậu Kỳ. Đã mười năm nay, nàng kẹt ở bước này, tâm cảnh luôn bị một chấp niệm vô hình trói buộc.</p>
+<br>
+<p>Đó là hình ảnh ngôi làng nhỏ của nàng chìm trong biển lửa của Yêu thú. Tiếng khóc thét của cha mẹ, ánh mắt tuyệt vọng của tộc nhân... tất cả như những mũi kim châm vào trái tim băng giá của nàng mỗi khi nhập định.</p>
+<br>
+<p>"Vẫn chưa buông bỏ được sao?"</p>
+<br>
+<p>Một giọng nói già nua vang lên trong đầu nàng. Đó là tâm ma, hay chính là tiếng lòng của nàng?</p>
+<br>
+<p>"Ta tu Băng Tâm, không phải để trở thành gỗ đá vô tri, mà để bảo vệ những gì còn lại."</p>
+<br>
+<p>Lý Tuyết Ưng mở mắt. Đôi mắt tím thẫm lóe lên ánh sáng kiên định. Nàng đặt tay lên dây đàn. Một luồng linh lực lạnh lẽo từ đan điền cuộn trào ra đầu ngón tay.</p>
+<br>
+<p><em>Tưng!</em></p>
+<br>
+<p>Tiếng đàn vang lên, sắc bén như lưỡi kiếm. Cả không gian xung quanh như ngưng đọng lại. Những bông tuyết đang rơi bỗng dừng lơ lửng giữa không trung, rồi vỡ tan thành bụi phấn lấp lánh.</p>
+<br>
+<p>Xa xa, phía chân trời, một dải ánh sáng bảy màu rực rỡ bắt đầu xuất hiện, uốn lượn như con rồng khổng lồ. Cực Quang!</p>
+<br>
+<p>Lý Tuyết Ưng mỉm cười nhạt. Đây chính là thời khắc nàng chờ đợi. Nàng bắt đầu tấu lên khúc <em>Tuyết Sơn Ngâm</em>. Tiếng đàn hòa quyện với ánh sáng Cực Quang, tạo nên một cảnh tượng huyền ảo chưa từng có. Linh khí thiên địa cuồn cuộn đổ về phía nàng như nước lũ vỡ đê.</p>
+<br>
+<p>Trong khoảnh khắc đó, nàng cảm thấy mình như tan biến vào hư vô, trở thành một phần của gió tuyết, của Cực Quang, của Bắc Băng vĩnh cửu.</p>
+<br>
+<p><em>Rắc!</em></p>
+<br>
+<p>Tiếng vỡ vụn vang lên từ sâu trong linh hồn. Bình cảnh đã vỡ. Một luồng khí thế kinh người bùng nổ từ cơ thể Lý Tuyết Ưng, quét sạch tuyết đọng trên đỉnh núi trong bán kính trăm dặm.</p>
+<br>
+<p>Nàng đã đột phá. Nguyên Anh Hậu Kỳ!</p>
+<br>
+<p>"Từ nay về sau, Huyền Băng Cung sẽ là thành trì bất khả xâm phạm của Bắc Băng."</p>
+<br>
+<p>Lý Tuyết Ưng thì thầm, tiếng nói nhỏ nhẹ nhưng vang vọng khắp núi rừng, khiến bầy Yêu thú dưới chân núi sợ hãi co rúm lại trong hang.</p>
+<br>
+<p>---</p>
+<p><strong>(Hết Chương Mẫu)</strong></p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

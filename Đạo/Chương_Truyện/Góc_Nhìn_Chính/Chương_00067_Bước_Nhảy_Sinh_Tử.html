@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00067 Bước Nhảy Sinh Tử</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 67: Bước Nhảy Sinh Tử (生死一躍)</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Nhân vật chính:</strong> <a href="../../Nhân_Vật/Diệp_Tĩnh_Sương.html">Diệp Tĩnh Sương</a>, <a href="../../Nhân_Vật/Lâm_Phong.html">Lâm Phong</a>, <a href="../../Nhân_Vật/Hứa_Nhược_Thủy.html">Hứa Nhược Thủy</a></p>
+<p><strong>Địa điểm:</strong> <a href="../../Thế_Giới_Và_Thời_Gian/Huyết_Uyên.html">Huyết Uyên</a></p>
+<br>
+<p>---</p>
+<br>
+<p>Gió buốt lạnh từ dưới vực thẳm thổi thốc lên, mang theo mùi tanh tưởi của sương máu, tạt vào khuôn mặt lấm lem bùn đất của ba người. Phía sau lưng, tiếng vỗ cánh đen kịt của bầy Huyết Vụ Điểu ngày một gần, những đôi mắt đỏ ngầu khát máu lấp ló sau màn sương mờ ảo.</p>
+<br>
+<p>Diệp Tĩnh Sương đứng sát mép vực, Hàn Mai Kiếm cắm mạnh xuống nền đá để giữ thăng bằng. Ánh mắt nàng đảo nhanh, đánh giá tình hình. Băng linh lực trong cơ thể đã cạn kiệt, mũi tên của Lâm Phong cũng chỉ còn đếm trên đầu ngón tay. Đánh trả lúc này chẳng khác nào lấy trứng chọi đá.</p>
+<br>
+<p>"Không còn đường lùi nữa rồi," Lâm Phong nghiến răng, tay gắt gao nắm chặt cây Truy Phong Cung. "Hoặc là thành mồi cho lũ chim quỷ kia, hoặc là tan xương nát thịt dưới cái hố không đáy này."</p>
+<br>
+<p>Hứa Nhược Thủy run rẩy bám lấy cánh tay Diệp Tĩnh Sương, sắc mặt nhợt nhạt. Bà không nói lời nào, nhưng ánh mắt chất chứa nỗi tuyệt vọng tột cùng.</p>
+<br>
+<p>Đột nhiên, từ sâu thẳm dưới vực, Diệp Tĩnh Sương cảm nhận được một luồng khí tức kỳ lạ. Không phải là sát khí hay chướng khí nồng nặc như trên Huyết Vụ Lâm, mà là một sự cổ xưa, tĩnh lặng và u uất. Nó giống như nhịp đập yếu ớt của một trái tim khổng lồ đang say ngủ, thứ cảm giác mà nàng đã từng lờ mờ nhận thấy khi ở gần Mộc Linh Trận Địa.</p>
+<br>
+<p>"Dưới đó... có thứ gì đó," Diệp Tĩnh Sương cất giọng khàn đặc, đôi mắt ánh lên tia kiên quyết. "Nhảy!"</p>
+<br>
+<p>"Cô điên sao?!" Lâm Phong trợn tròn mắt. "Nhảy xuống đó khác gì tự sát?"</p>
+<br>
+<p>"Tin ta!" Diệp Tĩnh Sương vung kiếm, chém đứt một luồng hàn khí cuối cùng cản bước vài con Huyết Vụ Điểu tiên phong. "Đằng nào cũng chết, thà tự định đoạt số phận của mình!"</p>
+<br>
+<p>Không chần chừ thêm nửa giây, nàng nắm chặt tay Hứa Nhược Thủy, dùng sức kéo bà lao thẳng xuống vực thẳm. Lâm Phong cắn chặt răng, ném mũi tên cuối cùng vào bầy chim rồi cũng gieo mình theo, phó mặc sống chết cho màn đêm đen kịt.</p>
+<br>
+<p>Cảm giác rơi tự do ập đến, gió rít gầm gào bên tai như tiếng khóc than của quỷ dữ. Xung quanh chỉ là một màu đen đặc quánh. Trái tim Lâm Phong đập thình thịch liên hồi, hắn nhắm chặt mắt, chờ đợi khoảnh khắc cơ thể đập xuống nền đá cứng tàn nhẫn.</p>
+<br>
+<p>Nhưng khoảnh khắc đó mãi không đến.</p>
+<br>
+<p>Thay vào đó, tốc độ rơi của họ đột ngột giảm hẳn. Cảm giác như đang chìm vào một vũng bùn lỏng hoặc một lớp keo dính. Mở choàng mắt, Lâm Phong kinh ngạc nhận ra họ đang lơ lửng giữa một màn sương màu hồng nhạt, đặc quánh đến mức có thể dùng tay vớt lên được.</p>
+<br>
+<p>"Khụ khụ... Thứ sương quái quỷ gì thế này?" Hứa Nhược Thủy ho sặc sụa, vùng vẫy trong không trung.</p>
+<br>
+<p>"Đừng hoảng loạn!" Giọng Diệp Tĩnh Sương vang lên bình tĩnh từ phía dưới. Nàng đang dùng kiếm cắm vào một vách đá dốc ngược, cố gắng hãm đà rơi. "Lớp sương này đang đỡ chúng ta. Nhanh chóng tìm chỗ bám!"</p>
+<br>
+<p>Lâm Phong nhanh trí dùng Truy Phong Cung làm đòn bẩy, móc vào một kẽ nứt nhô ra từ vách đá. Hắn với tay kéo Hứa Nhược Thủy lại gần, dùng chút sức lực cuối cùng đỡ bà đáp xuống một thềm đá bằng phẳng, ẩm ướt rêu phong.</p>
+<br>
+<p>Diệp Tĩnh Sương cũng nhanh chóng đáp xuống ngay sau đó. Nàng chống kiếm thở dốc, mồ hôi ướt đẫm trán.</p>
+<br>
+<p>Ba người ngồi phịch xuống nền đá lạnh lẽo, hít từng ngụm khí nhọc nhằn. Xung quanh im ắng đến rợn người. Ánh sáng duy nhất phát ra từ những dải rêu lân tinh bám trên vách đá vỡ vụn, soi sáng một không gian u ám, kỳ dị.</p>
+<br>
+<p>Dưới chân họ, lớp sương mù hồng nhạt bốc lên cuồn cuộn từ một dòng sông ngầm đỏ thẫm đang lững lờ trôi, phát ra những âm thanh róc rách ma mị.</p>
+<br>
+<p>"Chúng ta... vẫn còn sống sao?" Hứa Nhược Thủy thều thào, không dám tin vào mắt mình.</p>
+<br>
+<p>"Tạm thời là vậy," Lâm Phong nhìn lên trên, nơi bóng tối bao trùm hoàn toàn, không một tia sáng hay tiếng chim quỷ nào lọt xuống được. "Khắp Nam Cương này, e rằng không có mấy ai trải nghiệm cảm giác nhảy vực mà vẫn toàn thây như chúng ta."</p>
+<br>
+<p>Diệp Tĩnh Sương không đáp lời. Ánh mắt nàng dán chặt vào bóng tối phía trước, nơi dòng sông ngầm chảy uốn lượn. Luồng khí tức cổ xưa mà nàng cảm nhận được trên vách đá, giờ đây trở nên rõ ràng hơn bao giờ hết. Nó tản mát trong không khí, hòa quyện cùng mùi máu tươi tanh tưởi, nhưng lại mang đến một cảm giác áp bách nghẹt thở.</p>
+<br>
+<p>"Nơi này... không phải là vực sâu bình thường," Diệp Tĩnh Sương nhíu mày, Hàn Mai Kiếm rung lên khe khẽ. "Khí tức này... dường như có liên quan đến thứ đang bị giam giữ bên dưới Vạn Độc Môn."</p>
+<br>
+<p>Lâm Phong gật đầu đồng tình, nắm chặt cung. "Phải cẩn thận. Lũ Vạn Độc Môn chắc chắn biết về nơi này. Sự yên tĩnh này chỉ là vỏ bọc cho những hiểm nguy lớn hơn."</p>
+<br>
+<p>Họ tựa lưng vào nhau, vừa đề phòng mọi chuyển động nhỏ nhất trong bóng tối, vừa âm thầm vận công khôi phục thể lực. Ở nơi Huyết Uyên lạnh lẽo và đầy bí ẩn này, cuộc chiến sinh tồn thực sự mới chỉ vừa bắt đầu.</p>
+<br>
+<p>---</p>
+<p><em>Hết chương 67.</em></p>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

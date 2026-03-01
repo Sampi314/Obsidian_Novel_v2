@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00004 Sự Phản Bội Đầu Tiên</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 4: Sự Phản Bội Đầu Tiên</h1>
+<p><button onclick="speakChapter()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button></p>
+<p><button onclick="pauseSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏸️ Tạm Dừng</button></p>
+<p><button onclick="resumeSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏯️ Tiếp Tục</button></p>
+<p><button onclick="stopSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏹️ Dừng</button></p>
+<p></div></p>
+<p><script></p>
+<p>var synth = window.speechSynthesis;</p>
+<p>var utterance = null;</p>
+<br>
+<p>function speakChapter() {</p>
+<p>if (synth.speaking) {</p>
+<p>console.error("speechSynthesis.speaking");</p>
+<p>return;</p>
+<p>}</p>
+<p>// Clone body to remove navigation before reading</p>
+<p>var content = document.body.cloneNode(true);</p>
+<p>var nav = content.querySelector("#chapter-navigation");</p>
+<p>if (nav) {</p>
+<p>nav.remove();</p>
+<p>}</p>
+<p>var text = content.innerText;</p>
+<p>utterance = new SpeechSynthesisUtterance(text);</p>
+<p>utterance.lang = "vi-VN";</p>
+<p>synth.speak(utterance);</p>
+<p>}</p>
+<br>
+<p>function pauseSpeech() {</p>
+<p>if (synth.speaking && !synth.paused) {</p>
+<p>synth.pause();</p>
+<p>}</p>
+<p>}</p>
+<br>
+<p>function resumeSpeech() {</p>
+<p>if (synth.paused) {</p>
+<p>synth.resume();</p>
+<p>}</p>
+<p>}</p>
+<br>
+<p>function stopSpeech() {</p>
+<p>if (synth.speaking) {</p>
+<p>synth.cancel();</p>
+<p>}</p>
+<p>}</p>
+<p></script></p>
+<p></div></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 4: Sự Phản Bội Đầu Tiên</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Góc nhìn:</strong> <a href="../../Nhân_Vật/Lệ_Vô_Tâm.html">Lệ Vô Tâm</a></p>
+<p><strong>Địa điểm:</strong> Vạn Độc Môn (Khu vực Dược Điền).</p>
+<p><strong>Thời điểm:</strong> 6 tháng sau (Hữu Tâm 14 tuổi).</p>
+<p><strong>Giao Điểm Cốt Truyện:</strong> Tuyến độc lập (Quá khứ).</p>
+<br>
+<p>---</p>
+<br>
+<p>Sáu tháng ở Vạn Độc Môn dài như sáu thế kỷ. Ta đã học được cách ăn sâu bọ để sống, cách uống nước suối độc để tăng kháng tính, và cách giấu mình trong bóng tối để tránh những trận đòn vô cớ.</p>
+<br>
+<p>Nhưng điều ta vẫn chưa học được là cách để không cảm thấy cô đơn.</p>
+<br>
+<p>Cho đến khi ta gặp A Mộc.</p>
+<br>
+<p>A Mộc là một tên tạp dịch bị câm điếc làm việc ở Dược Điền phía tây núi. Hắn gầy gò, da đen nhẻm, luôn lầm lũi cúi đầu làm việc. Hắn không thể nói, cũng không thể nghe, nhưng ánh mắt của hắn lại ấm áp lạ thường.</p>
+<br>
+<p>Ngày đầu tiên ta trốn khỏi buổi huấn luyện khắc nghiệt, lạc vào Dược Điền, chính A Mộc đã giấu ta trong đống cỏ khô khi đám cai ngục đi tìm. Hắn chia cho ta nửa củ khoai lang nướng thơm lừng, còn mình thì gặm rễ cây.</p>
+<br>
+<p>Chúng ta trở thành bạn. Một tình bạn kỳ lạ giữa một "Thánh Tử" bị ghét bỏ và một tên tạp dịch thấp kém nhất.</p>
+<br>
+<p>Mỗi đêm, ta lén trốn ra Dược Điền gặp hắn. Ta kể cho hắn nghe về những cơn ác mộng, về nỗi sợ hãi của ta. Hắn lắng nghe chăm chú, đôi khi dùng những cử chỉ vụng về để an ủi ta. Ta dạy hắn vài chiêu thức phòng thân đơn giản mà ta học lỏm được. Hắn dạy ta cách phân biệt các loại thảo dược độc hại.</p>
+<br>
+<p>"A Mộc," ta viết lên nền đất bằng cành cây khô. "Một ngày nào đó, ta sẽ đưa huynh rời khỏi đây. Chúng ta sẽ đi thật xa, đến một nơi không có độc trùng, không có roi vọt."</p>
+<br>
+<p>Hắn nhìn dòng chữ, mỉm cười gật đầu lia lịa. Đôi mắt hắn sáng lên niềm hy vọng.</p>
+<br>
+<p>Ta tin hắn. Ta thực sự tin hắn. Vì hắn giống ta, đều là những kẻ bị thế giới này ruồng bỏ.</p>
+<br>
+<p>Nhưng ta đã sai.</p>
+<br>
+<p>Một đêm nọ, như thường lệ, ta lẻn đến Dược Điền.</p>
+<br>
+<p>"A Mộc!" Ta thì thào gọi.</p>
+<br>
+<p>Không có tiếng trả lời. Căn chòi lá của hắn trống trơn.</p>
+<br>
+<p>Bỗng nhiên, ánh đuốc sáng rực lên xung quanh.</p>
+<br>
+<p>"Bắt được rồi!"</p>
+<br>
+<p>Tiếng quát thô bạo vang lên. Hàng chục tên đệ tử Nội Môn xông ra từ bụi rậm, vây kín lấy ta. Dẫn đầu là Vương Thông, kẻ luôn ghen ghét với vị trí của ta.</p>
+<br>
+<p>Và đứng bên cạnh hắn... là A Mộc.</p>
+<br>
+<p>A Mộc không còn vẻ rụt rè sợ sệt nữa. Hắn đứng thẳng lưng, khuôn mặt lạnh tanh, trên tay cầm một túi tiền nặng trịch.</p>
+<br>
+<p>"A Mộc... huynh..." Ta lắp bắp, không tin vào mắt mình.</p>
+<br>
+<p>"Nó không câm đâu," Vương Thông cười khẩy, vỗ vai A Mộc. "Làm tốt lắm. Ngươi đã dụ được con chuột nhắt này ra khỏi hang ổ rồi."</p>
+<br>
+<p>A Mộc nhìn ta, ánh mắt không chút cảm xúc. Hắn mở miệng, giọng nói khàn khàn vang lên: "Xin lỗi, Thánh Tử. Nhưng mười viên linh thạch... quá lớn đối với một kẻ tạp dịch như ta."</p>
+<br>
+<p>Mười viên linh thạch.</p>
+<br>
+<p>Tình bạn của ta. Niềm tin của ta. Hy vọng của ta. Tất cả chỉ đáng giá mười viên đá vô tri ấy thôi sao?</p>
+<br>
+<p>"Tại sao?" Ta gào lên, giọng lạc đi vì đau đớn.</p>
+<br>
+<p>"Vì ở đây, không ai làm bạn với kẻ yếu," A Mộc đáp lại, lạnh lùng quay lưng bỏ đi. "Ngươi quá ngây thơ để sống sót ở Vạn Độc Môn này."</p>
+<br>
+<p>Vương Thông ra hiệu. Đám đệ tử lao vào đánh tới tấp. Ta không phản kháng. Ta nằm cuộn tròn dưới đất, chịu đựng những cú đá, cú đấm như mưa trút xuống người.</p>
+<br>
+<p>Đau. Đau lắm.</p>
+<br>
+<p>Nhưng nỗi đau thể xác này chẳng thấm vào đâu so với vết thương trong lòng ta đang rỉ máu.</p>
+<br>
+<p>Trái tim ta vỡ vụn.</p>
+<br>
+<p>Trong khoảnh khắc đó, Hữu Tâm – đứa trẻ luôn khao khát tình thương – đã chết hẳn.</p>
+<br>
+<p>Ta mở mắt. Đồng tử ta co lại thành một đường chỉ dọc như mắt rắn. Máu trong người ta sôi lên.</p>
+<br>
+<p><em>Vạn Độc Phệ Hồn Quyết</em> tầng thứ nhất... tự động vận chuyển.</p>
+<br>
+<p>Một luồng khí đen kịt từ người ta bùng phát ra.</p>
+<br>
+<p>"Cút!"</p>
+<br>
+<p>Ta gầm lên. Một chưởng đánh ra, mang theo kình lực kinh người. Hai tên đệ tử đứng gần nhất bị đánh bay đi, hộc máu tươi.</p>
+<br>
+<p>Vương Thông kinh hãi lùi lại. "Cái quái gì thế này? Nó mới nhập môn sáu tháng mà!"</p>
+<br>
+<p>Ta đứng dậy, lảo đảo nhưng vững chãi. Máu chảy ròng ròng trên mặt, nhưng ta không lau. Ta nhìn chằm chằm vào bóng lưng A Mộc đang định rời đi.</p>
+<br>
+<p>"A Mộc!"</p>
+<br>
+<p>Hắn quay lại, vẻ mặt hoảng hốt.</p>
+<br>
+<p>Ta lao tới như một con thú hoang. Tốc độ nhanh đến mức Vương Thông cũng không kịp cản.</p>
+<br>
+<p>Năm ngón tay ta hóa thành trảo, cắm phập vào ngực trái của A Mộc.</p>
+<br>
+<p><em>Phụt!</em></p>
+<br>
+<p>Máu nóng hổi bắn lên mặt ta. Trái tim hắn... vẫn còn đập thoi thóp trong tay ta.</p>
+<br>
+<p>A Mộc trợn tròn mắt nhìn ta, miệng há hốc nhưng không nói được lời nào. Túi linh thạch rơi xuống đất, văng tung tóe.</p>
+<br>
+<p>"Bài học cuối cùng huynh dạy ta," ta thì thầm vào tai hắn, giọng lạnh băng như tiếng gọi của tử thần. "Cảm ơn."</p>
+<br>
+<p>Ta rút tay ra. A Mộc ngã gục xuống, chết không nhắm mắt.</p>
+<br>
+<p>Ta đứng giữa vòng vây, tay cầm trái tim đẫm máu, ngẩng đầu nhìn lên bầu trời đen kịt.</p>
+<br>
+<p>Không còn bạn bè. Không còn tin tưởng.</p>
+<p>Chỉ có sức mạnh mới là vĩnh cửu.</p>
+<br>
+<p>Đêm đó, Lệ Vô Tâm thực sự ra đời.</p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

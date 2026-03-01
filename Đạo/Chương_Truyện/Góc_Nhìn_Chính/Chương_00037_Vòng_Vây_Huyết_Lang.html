@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00037 Vòng Vây Huyết Lang</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<p>---</p>
+<p>Tác_Giả: Jules (Tổng Quản)</p>
+<p>Ngày_Viết: 2026-03-07</p>
+<p>Góc_Nhìn: Góc_Nhìn_Chính</p>
+<p>Bối_Cảnh: Ranh Giới Tử Thần - Rừng Huyết Độc</p>
+<p>Nhân_Vật: Diệp Tĩnh Sương, Lâm Phong, Hứa Thanh Vân, Hứa Nhược Thủy, Sa Hồ</p>
+<p>Ghi_Chú: Cuộc đụng độ đầu tiên với sinh vật biến dị của Vạn Độc Môn.</p>
+<p>---</p>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<p><em></em>*</p>
+<br>
+<p>"Vút!"</p>
+<br>
+<p>Một tiếng xé gió sắc lạnh vang lên, cắt ngang lời cảnh báo của Diệp Tĩnh Sương.</p>
+<br>
+<p>Lâm Phong phản xạ cực nhanh, tay phải rùn xuống, <em>Truy Phong Cung</em> trong chớp mắt đã được giương lên. Mũi tên gỗ đen, tẩm nhựa <em>Xương Rồng Thiên Trụ</em>, lao vút đi như một tia chớp đen, găm thẳng vào bụi cây rậm rạp phía trước.</p>
+<br>
+<p><em>Phập!</em></p>
+<br>
+<p>"Grừ... ư..."</p>
+<br>
+<p>Một tiếng rên rỉ nghẹn ngào vang lên, kèm theo tiếng vật nặng ngã xuống đất. Ngay sau đó, bụi cây rung chuyển dữ dội, và một cái đầu sói to lớn, lở loét với đôi mắt đỏ ngầu lăn ra ngoài. Mũi tên của Lâm Phong đã xuyên táo qua hốc mắt nó, ghim chặt cái xác vào gốc cây <em>Huyết Mộc</em> phía sau.</p>
+<br>
+<p>Nhưng cái chết của con sói trinh sát này không đem lại sự yên tĩnh. Ngược lại, nó giống như một tín hiệu khai màn.</p>
+<br>
+<p><em>Aooooo!</em></p>
+<br>
+<p>Tiếng hú dài thê lương vang lên từ bốn phương tám hướng, xuyên qua màn sương tím đặc quánh, khiến người nghe tê dại da đầu.</p>
+<br>
+<p>"Chúng ta bị bao vây rồi!" Hứa Thanh Vân rút thanh đoản kiếm bên hông, tay run rẩy nhưng vẫn cố đứng chắn trước mặt mẹ mình.</p>
+<br>
+<p>Diệp Tĩnh Sương không nói gì, ánh mắt nàng lạnh băng quét qua màn sương. Thần thức của nàng, vốn đã bị chướng khí đè nén, giờ đây cảm nhận được hàng chục luồng sát khí tanh nồng đang nhanh chóng khép lại vòng vây.</p>
+<br>
+<p>"Là <em>Huyết Độc Lang</em>." Nàng nói nhanh, tay trái vẫn duy trì kết giới của <em>Thủy Linh Châu</em>, tay phải vung <em>Hàn Ngọc Kiếm</em> vẽ một vòng tròn bán nguyệt. "Bảo vệ Hứa phu nhân! Lâm Phong, canh giữ phía sau!"</p>
+<br>
+<p>Vừa dứt lời, từ trong màn sương, những bóng đen lao ra dồn dập như thủy triều.</p>
+<br>
+<p>Đó là những con sói quái dị, to gấp đôi sói thường. Lông chúng rụng từng mảng lớn, lộ ra lớp da thịt tím đen đang rỉ mủ. Những vết lở loét trên cơ thể chúng không hề làm giảm đi tốc độ, ngược lại, dường như cơn đau càng kích thích sự hung hãn điên cuồng.</p>
+<br>
+<p>"Giết!"</p>
+<br>
+<p>Lâm Phong quát lớn, ba mũi tên cùng lúc rời dây cung. <em>Tam Tiễn Liên Châu!</em></p>
+<br>
+<p>Ba con <em>Huyết Độc Lang</em> đi đầu bị bắn trúng yết hầu, ngã lăn ra đất. Nhưng đám phía sau không hề chùn bước, chúng đạp lên xác đồng loại, nhe nanh múa vuốt lao vào đội hình.</p>
+<br>
+<p><em>Xoảng!</em></p>
+<br>
+<p>Một con sói lao thẳng vào màn hào quang màu xanh lam. Kết giới rung lên dữ dội, phát ra tiếng kêu như thủy tinh rạn nứt. Móng vuốt của nó cào lên mặt kết giới, để lại những vệt chất lỏng màu đen bốc khói xèo xèo.</p>
+<br>
+<p>"Độc tính thật mạnh!" Hứa Nhược Thủy kinh hãi thốt lên. Bà cảm nhận được linh lực trong <em>Thủy Linh Châu</em> đang bị tiêu hao với tốc độ chóng mặt để chống lại sự ăn mòn này.</p>
+<br>
+<p>"Hàn Mai Kiếm Quyết - Tuyết Vũ!"</p>
+<br>
+<p>Diệp Tĩnh Sương khẽ quát, thân ảnh nàng lướt đi như một cơn gió tuyết. <em>Hàn Ngọc Kiếm</em> trong tay nàng phân hóa thành hàng chục luồng kiếm khí lạnh buốt, đan xen vào nhau tạo thành một lưới kiếm dày đặc.</p>
+<br>
+<p>Những bông tuyết trắng muốt ngưng tụ từ linh lực bay lả tả, nhưng mỗi bông tuyết chạm vào da thịt lũ sói đều lập tức hóa thành lưỡi dao sắc lẹm, cắt sâu vào tận xương tủy, đồng thời hàn khí xâm nhập làm đông cứng mạch máu của chúng.</p>
+<br>
+<p>Trong chốc lát, xác của bảy, tám con <em>Huyết Độc Lang</em> đã nằm la liệt quanh vòng tròn bảo vệ, máu đen chảy ra đông cứng thành băng đá.</p>
+<br>
+<p>Tuy nhiên, số lượng sói dường như không hề giảm bớt. Cứ một con ngã xuống, lại có hai con khác lao ra từ bóng tối. Điều đáng sợ hơn là chúng không hề sợ chết. Không có tiếng gầm gừ đe dọa, không có sự thăm dò thận trọng của loài thú săn mồi. Chỉ có sự im lặng chết chóc và những cú vồ điên cuồng.</p>
+<br>
+<p>"Có gì đó không đúng!" Lâm Phong vừa bắn tên vừa hét lớn. "Lũ súc sinh này đánh không biết đau, cũng không biết sợ! Chúng như những con rối vậy!"</p>
+<br>
+<p>"Đúng là rối!" Diệp Tĩnh Sương nhíu mày. Nàng vừa chém bay đầu một con sói đang định đánh lén Hứa Thanh Vân, vừa liếc nhìn về hướng gió thổi.</p>
+<br>
+<p>Trong tiếng gầm rú hỗn loạn của bầy sói, thính giác nhạy bén của tu sĩ Trúc Cơ giúp nàng nghe thấy một âm thanh khác lạ.</p>
+<br>
+<p>Đó là tiếng sáo.</p>
+<br>
+<p>Một tiếng sáo trầm đục, ngắt quãng, lẫn vào trong tiếng gió rít qua kẽ lá, rất khó phân biệt. Nhưng mỗi khi giai điệu thay đổi, lũ <em>Huyết Độc Lang</em> lại thay đổi chiến thuật. Lúc thì tản ra bao vây, lúc thì tập trung công kích vào điểm yếu nhất là vị trí của Hứa Nhược Thủy.</p>
+<br>
+<p>"Có kẻ điều khiển chúng!" Diệp Tĩnh Sương lạnh lùng khẳng định. "Là người của Vạn Độc Môn!"</p>
+<br>
+<p>Nàng hít sâu một hơi, chân nguyên trong cơ thể cuộn trào. Nàng biết nếu cứ dây dưa thế này, họ sẽ bị tiêu hao đến chết trước khi nhìn thấy kẻ địch.</p>
+<br>
+<p>"Lâm Phong! Dùng Hỏa Linh Tiễn! Phá vây hướng ba giờ!"</p>
+<br>
+<p>"Rõ!"</p>
+<br>
+<p>Lâm Phong không chút do dự, rút ra một mũi tên đặc biệt có khắc phù văn màu đỏ rực. Hắn cắn đầu ngón tay, bôi một vệt máu lên thân tên, rồi giương cung hết cỡ về hướng Đông Nam.</p>
+<br>
+<p><em>Vút!</em></p>
+<br>
+<p>Mũi tên xé gió lao đi, mang theo một đuôi lửa dài rực rỡ. Khi chạm vào một thân cây <em>Huyết Mộc</em> lớn chắn đường, nó phát nổ.</p>
+<br>
+<p><em>Ầm!</em></p>
+<br>
+<p>Ngọn lửa bùng lên dữ dội. Nhựa cây <em>Huyết Mộc</em> vốn dĩ rất dễ cháy, gặp lửa lập tức bốc lên ngùn ngụt, tạo thành một bức tường lửa ngăn cách bầy sói. Tiếng nổ lớn và sức nóng đột ngột khiến lũ <em>Huyết Độc Lang</em> vốn ưa âm hàn phải lùi lại trong thoáng chốc.</p>
+<br>
+<p>"Chạy!"</p>
+<br>
+<p>Diệp Tĩnh Sương túm lấy vai Hứa Nhược Thủy, vận <em>Hàn Băng Bộ</em> lao qua khe hở của vòng vây lửa. Lâm Phong và Hứa Thanh Vân bám sát phía sau, vừa chạy vừa bắn tên yểm trợ.</p>
+<br>
+<p>Họ chạy thục mạng qua những tán rừng rậm rạp, bỏ lại tiếng lửa cháy lách tách và tiếng hú giận dữ của bầy sói phía sau.</p>
+<br>
+<p>Chỉ khi đã chạy được một quãng khá xa, đến bên cạnh một bờ suối cạn lởm chởm đá, cả nhóm mới dám dừng lại thở dốc.</p>
+<br>
+<p>"Chúng... chúng không đuổi theo nữa..." Hứa Thanh Vân chống tay lên đầu gối, mặt cắt không còn giọt máu.</p>
+<br>
+<p>Diệp Tĩnh Sương đứng thẳng người, hơi thở vẫn đều đặn nhưng ánh mắt lại càng thêm u ám. Nàng nhìn về phía màn sương tím mờ mịt phía sau lưng. Tiếng sáo quái dị kia đã im bặt.</p>
+<br>
+<p>"Chúng không cần đuổi theo," nàng nói khẽ, giọng lạnh như băng. "Vì chúng ta đã đi đúng hướng mà kẻ đó muốn."</p>
+<br>
+<p>"Ý tỷ là sao?" Lâm Phong nhíu mày, nhìn quanh.</p>
+<br>
+<p>"Hắn dùng bầy sói để lùa chúng ta đi," Diệp Tĩnh Sương chỉ tay về phía trước.</p>
+<br>
+<p>Xuyên qua màn sương lờ mờ, họ có thể thấy thấp thoáng những bóng cây <em>Huyết Mộc</em> khổng lồ mọc san sát nhau, tạo thành một vòm cổng tự nhiên tối tăm, dẫn sâu xuống lòng đất. Mùi tanh của máu ở đây nồng nặc đến mức khiến người ta muốn nôn mửa.</p>
+<br>
+<p>Đó không phải là lối thoát. Đó là lối vào "sân nhà" của kẻ địch.</p>
+<br>
+<p>"Chào mừng đến với <em>Vùng Đất Chết</em>," Diệp Tĩnh Sương lẩm bẩm, tay siết chặt chuôi kiếm.</p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

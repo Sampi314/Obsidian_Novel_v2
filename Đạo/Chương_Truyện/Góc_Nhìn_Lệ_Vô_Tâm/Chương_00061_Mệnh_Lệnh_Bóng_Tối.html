@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00061 Mệnh Lệnh Bóng Tối</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 61: Mệnh Lệnh Bóng Tối</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Góc nhìn:</strong> <a href="../../Nhân_Vật/Lệ_Vô_Tâm.html">Lệ Vô Tâm</a></p>
+<p><strong>Địa điểm:</strong> Vạn Độc Môn (Đại Điện) và Đường đến Thôn Lạc Diệp.</p>
+<p><strong>Thời điểm:</strong> Hiện tại (Bắt đầu "Huyết Độc Chi Họa").</p>
+<p><strong>Giao Điểm Cốt Truyện:</strong> Dẫn nhập vào sự kiện Thôn Lạc Diệp.</p>
+<br>
+<p>---</p>
+<br>
+<p>Mười năm trôi qua.</p>
+<br>
+<p>Thời gian đối với phàm nhân là sự lão hóa, nhưng đối với tu sĩ, nó là sự tích lũy. Ta, Lệ Vô Tâm, giờ đây không còn là đứa trẻ gầy gò năm nào. Ta đứng trên đỉnh Vạn Độc Phong, gió lộng thổi tung tà áo bào đen thêu hình rết độc. Dưới chân ta, hàng ngàn đệ tử Vạn Độc Môn đang quỳ rạp, không ai dám ngẩng đầu nhìn thẳng vào mắt ta.</p>
+<br>
+<p>Trúc Cơ Viên Mãn. Chỉ còn một bước nữa là Kết Đan.</p>
+<br>
+<p>Nhưng bước chân này khó như lên trời. Ta cần một cơ hội, một sự đột phá sinh tử.</p>
+<br>
+<p>"Thánh Tử," một tên đệ tử áo đen cung kính bước tới, cắt ngang dòng suy nghĩ của ta. "Sư tôn có lệnh triệu kiến."</p>
+<br>
+<p>Ta thu lại luồng khí tức âm hàn, phe phẩy chiếc <a href="../../Luyện_Khí/Huyết_Độc_Phiến.html">Huyết Độc Phiến</a>, thong thả bước về phía đại điện.</p>
+<br>
+<p><em></em>*</p>
+<br>
+<p>Đại điện Vạn Độc Môn tối tăm và ẩm thấp, ngập tràn mùi hương trầm trộn lẫn mùi xác thối. Độc Cô Lão Quái ngồi trên ngai xương, đôi mắt xanh lục lập lòe như ma trơi trong hốc mắt sâu hoắm.</p>
+<br>
+<p>"Vô Tâm tham kiến sư tôn." Ta chắp tay, cúi đầu vừa đủ lễ độ.</p>
+<br>
+<p>"Vô Tâm," giọng lão khàn đặc, vang vọng khắp đại điện trống trải. "Huyết Thần Độc đã hoàn thiện chưa?"</p>
+<br>
+<p>"Bẩm sư tôn, đã đến giai đoạn cuối cùng. Chỉ cần một cuộc thử nghiệm thực tế trên diện rộng để kiểm chứng khả năng lây lan và biến đổi."</p>
+<br>
+<p>Độc Cô Lão Quái gật đầu hài lòng. Lão ném cho ta một tấm thẻ ngọc màu huyết dụ.</p>
+<br>
+<p>"Thôn Lạc Diệp. Một ngôi làng nhỏ ở rìa Vĩnh Hằng Sâm Lâm. Địa thế kín đáo, linh khí loãng, ít người chú ý. Ngươi hãy đến đó, biến ngôi làng đó thành sân chơi của ngươi."</p>
+<br>
+<p>Ta bắt lấy tấm thẻ ngọc, cảm nhận được luồng tin tức chạy thẳng vào não bộ. Bản đồ, danh sách dân cư, và... một mật lệnh.</p>
+<br>
+<p><em>“Nếu thành công, Huyết Tướng sẽ là vũ khí tối thượng để ta san bằng Dược Vương Cốc. Nếu thất bại... ngươi tự biết hậu quả.”</em></p>
+<br>
+<p>"Đệ tử đã rõ," ta đáp, khóe môi nhếch lên một nụ cười lạnh.</p>
+<br>
+<p>"Còn một việc nữa," lão già nheo mắt, ánh nhìn sắc lẹm như muốn xuyên thấu tâm can ta. "Gần đây, lũ chó săn của Chính Đạo đang đánh hơi được mùi gì đó. Đặc biệt là đám kiếm tu Cửu Hoa và đám thầy thuốc giả nhân giả nghĩa Dược Vương Cốc. Nếu gặp chúng..."</p>
+<br>
+<p>"Giết không tha," ta tiếp lời, giọng điệu dứt khoát.</p>
+<br>
+<p>"Đi đi."</p>
+<br>
+<p><em></em>*</p>
+<br>
+<p>Ta rời khỏi Vạn Độc Môn ngay trong đêm.</p>
+<br>
+<p>Thôn Lạc Diệp. Cái tên nghe thật thê lương, như báo trước số phận của những kẻ sống ở đó. Ta không hề cảm thấy tội lỗi. Trong mắt ta, bọn họ chỉ là những con kiến, và cái chết của họ sẽ lót đường cho đại nghiệp của ta.</p>
+<br>
+<p>Ta cưỡi trên lưng một con Hắc Vũ Điêu, bay lướt qua những cánh rừng bạt ngàn của Nam Cương. Gió đêm quất vào mặt lạnh buốt, nhưng máu trong người ta lại đang sôi lên sùng sục.</p>
+<br>
+<p>Ta cần máu của Huyết Tướng để luyện hóa đan điền, đột phá Kim Đan. Ta cần sự hỗn loạn để che giấu tham vọng của riêng mình.</p>
+<br>
+<p>Khi ánh bình minh vừa ló dạng phía chân trời, ta đã nhìn thấy những mái nhà tranh lấp ló dưới tán cây cổ thụ của Thôn Lạc Diệp. Ngôi làng yên bình, khói bếp bay lên nghi ngút, tiếng gà gáy văng vẳng xa xa.</p>
+<br>
+<p>Thật yên bình. Thật... mong manh.</p>
+<br>
+<p>Ta đáp xuống một ngọn đồi gần đó, thu hồi Hắc Vũ Điêu. Ta lấy ra một chiếc lọ nhỏ từ trong tay áo. Bên trong là một con bọ cánh cứng màu đỏ rực. <a href="../../Kỳ_Vật/Huyết_Thần_Độc.html">Huyết Thần Độc</a> dạng ấu trùng.</p>
+<br>
+<p>"Bắt đầu thôi," ta thì thầm, thả con bọ bay về phía nguồn nước của ngôi làng.</p>
+<br>
+<p>Đường đến thánh vị, trải đầy xương trắng và máu tươi. Và Lạc Diệp Thôn... sẽ là nấc thang tiếp theo của ta.</p>
+<br>
+<p>Ta quay người, bước về phía căn hầm bí mật mà các đệ tử tiền trạm đã chuẩn bị sẵn. Ở đó, những "vật liệu" thí nghiệm đang chờ đợi ta.</p>
+<br>
+<p><em>Hữu Tâm đã chết. Giờ đây, chỉ còn lại Lệ Vô Tâm.</em></p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

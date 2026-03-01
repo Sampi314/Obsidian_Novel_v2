@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00020 Ranh Giới Sinh Tử</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 20: Ranh Giới Sinh Tử</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Nhân vật chính:</strong> <a href="../../Nhân_Vật/Diệp_Tĩnh_Sương.html">Diệp Tĩnh Sương</a>, <a href="../../Nhân_Vật/Lâm_Phong.html">Lâm Phong</a>, <a href="../../Nhân_Vật/Hứa_Thanh_Vân.html">Hứa Thanh Vân</a>, <a href="../../Nhân_Vật/Hứa_Nhược_Thủy.html">Hứa Nhược Thủy</a></p>
+<p><strong>Địa điểm:</strong> Biên giới Tây Mạc - Nam Cương</p>
+<br>
+<p>---</p>
+<br>
+<p>Mặt trời đỏ rực như máu từ từ nhô lên phía chân trời phương Đông, chiếu rọi xuống vùng đất kỳ dị nơi cát vàng và bùn đen giao thoa một cách gượng ép. Đây chính là "Tử Tuyến" - đường ranh giới tự nhiên chết chóc ngăn cách giữa Tây Mạc khô cằn và Nam Cương ẩm thấp, nơi sinh khí và tử khí tranh đấu hàng ngàn năm qua.</p>
+<br>
+<p>Lâm Phong dừng bước, nheo mắt nhìn về phía trước qua lớp khăn che mặt đã sờn rách. Những đụn cát vàng óng ả đột ngột chấm dứt như bị một nhát dao khổng lồ cắt ngang, thay vào đó là những tảng đá đen sì lởm chởm như răng quỷ và những vũng lầy bốc hơi nghi ngút mùi thối rữa. Không khí ở đây đặc quánh lại, mang theo mùi lưu huỳnh nồng nặc và mùi xác chết động vật đang phân hủy trong nắng sớm.</p>
+<br>
+<p>"Phía trước là Hẻm Núi Quỷ Khóc," Lâm Phong chỉ tay về phía một khe núi hẹp tối tăm nằm lọt thỏm giữa hai vách đá dựng đứng cao ngất. "Đây là con đường độc đạo duy nhất để cắt ngang sang Nam Cương mà không phải đi qua trạm gác chính của Vạn Độc Môn ở Hắc Phong Lĩnh. Nhưng..."</p>
+<br>
+<p>Diệp Tĩnh Sương nhíu mày, cảm nhận luồng sát khí âm u lạnh lẽo tỏa ra từ khe núi, khác hẳn với cái nóng hầm hập của sa mạc. "Tại sao gọi là Quỷ Khóc?"</p>
+<br>
+<p>"Vì gió thổi qua đây tạo ra âm thanh rên rỉ như tiếng khóc than ai oán của oan hồn," Hứa Thanh Vân lên tiếng giải thích, giọng run run nhưng ánh mắt đã kiên định hơn trước rất nhiều sau những biến cố. "Và cũng vì chưa ai đi qua đây mà trở về nguyên vẹn để kể lại."</p>
+<br>
+<p>Trên lưng Hứa Thanh Vân, Hứa Nhược Thủy đã chìm vào hôn mê sâu. Lớp sương băng mỏng manh do Diệp Tĩnh Sương tạo ra trên người bà đang tan chảy nhanh hơn dự kiến dưới tác động của chướng khí độc hại nơi này, để lộ làn da tím tái.</p>
+<br>
+<p>Nhóm người cẩn trọng tiến vào hẻm núi. Hai bên vách đá dựng đứng cao ngất, che khuất ánh mặt trời, khiến không gian bên dưới chìm trong tranh tối tranh sáng mờ ảo.</p>
+<br>
+<p>Đột nhiên, Lâm Phong giơ tay ra hiệu dừng lại. Hắn áp tai xuống mặt đất đầy sỏi đá, lắng nghe tiếng động lạ.</p>
+<br>
+<p>"Có người," hắn thì thầm, tay phải đã đặt sẵn lên dây cung <em>Truy Phong</em>, ba mũi tên kẹp chặt giữa các ngón tay. "Không phải người thường hay thương nhân đi lạc. Bước chân rất nhẹ, lại có mùi thảo dược nồng nặc đặc trưng."</p>
+<br>
+<p>"Là thám tử của Vạn Độc Môn?" Diệp Tĩnh Sương rút <em>Hàn Mai Kiếm</em>, linh lực băng hàn tỏa ra xung quanh, làm dịu đi cái nóng bức bối và xua tan bớt chướng khí trong hẻm núi.</p>
+<br>
+<p>Một tiếng cười khanh khách vang lên từ trên vách đá cao, vọng lại giữa bốn bề vách núi tạo thành những âm thanh chói tai, ma quái.</p>
+<br>
+<p>"Khá khen cho con chuột nhắt Tây Mạc và ả kiếm tu Đông Hoang. Ta đã đợi các ngươi ở đây nửa ngày rồi, cứ tưởng các ngươi chết rục trong sa mạc rồi chứ."</p>
+<br>
+<p>Từ trong bóng tối của những hốc đá trên cao, ba bóng người nhảy xuống chặn đường đi. Kẻ dẫn đầu là một nam tử gầy gò, đôi mắt hẹp dài gian xảo, mặc áo bào xanh lục thêu hình rết độc dữ tợn. Trên tay hắn cầm một cặp song đao cong vút như răng nanh rết, lưỡi đao ánh lên màu xanh biếc của kịch độc. Hắn là "Độc Nhãn Ngô Công" - một đệ tử nội môn hung hãn của Vạn Độc Môn, tu vi Trúc Cơ Sơ Kỳ, nổi tiếng tàn độc.</p>
+<br>
+<p>"Giao Hứa phu nhân ra, ta sẽ từ bi cho các ngươi một cái chết toàn thây," Độc Nhãn Ngô Công liếm môi, ánh mắt tham lam nhìn chằm chằm vào Diệp Tĩnh Sương. "Hoặc là, ả kiếm tu xinh đẹp kia có thể ở lại làm đỉnh lò tu luyện song tu cho ta..."</p>
+<br>
+<p>"Vô sỉ!"</p>
+<br>
+<p>Diệp Tĩnh Sương quát lạnh, <em>Hàn Mai Kiếm</em> vung lên một đường tuyệt đẹp. Một luồng kiếm khí băng hàn xé gió lao thẳng về phía tên đệ tử tà phái.</p>
+<br>
+<p><em>Vút!</em></p>
+<br>
+<p>Độc Nhãn Ngô Công nhanh nhẹn uốn người né tránh một cách quỷ dị, song đao của hắn chém ra hai luồng khí độc màu xanh lục, ăn mòn cả vách đá nơi kiếm khí đi qua tạo thành hai vết sẹo sâu hoắm.</p>
+<br>
+<p>"Lâm Phong, bảo vệ họ!" Diệp Tĩnh Sương hét lớn rồi lao vào giao chiến. Kiếm pháp của nàng uyển chuyển như nước chảy mây trôi nhưng mỗi chiêu đều sắc bén, nhắm vào tử huyệt đối phương.</p>
+<br>
+<p>Lâm Phong không chần chừ, hắn lùi lại phía sau Hứa Thanh Vân để bảo vệ hai mẹ con, tay liên tục bắn ra những mũi tên bọc linh lực Mộc hệ. Những mũi tên này không nhắm vào Độc Nhãn Ngô Công mà ghim chặt hai tên đệ tử Luyện Khí đang định đánh lén xuống đất, biến thành những dây leo gai góc trói chặt chân chúng lại.</p>
+<br>
+<p>"Khốn kiếp!" Độc Nhãn Ngô Công gầm lên giận dữ. Hắn không ngờ hai kẻ tu vi thấp hơn lại phối hợp ăn ý đến vậy, khiến hắn nhất thời không chiếm được thượng phong. Hắn cắn đầu lưỡi, phun ra một ngụm máu đen lên song đao để kích hoạt bí thuật.</p>
+<br>
+<p>"Vạn Độc Đao Pháp - Thiên Chu Phệ Hồn!"</p>
+<br>
+<p>Một ảo ảnh con nhện khổng lồ hiện ra sau lưng hắn, tám chân nhện sắc nhọn đen sì đâm xuống như mưa rào, bao vây lấy Diệp Tĩnh Sương.</p>
+<br>
+<p>Diệp Tĩnh Sương cắn răng, vận toàn bộ linh lực còn lại trong đan điền. Nàng nhắm mắt, nhớ lại cảm giác cô độc và tĩnh lặng trên đỉnh tuyết sơn quanh năm băng giá.</p>
+<br>
+<p>"Hàn Mai Kiếm Quyết - Tuyết Lạc Vô Thanh!"</p>
+<br>
+<p>Không gian xung quanh như ngừng lại trong một khoảnh khắc. Những bông tuyết trắng xóa rơi xuống, đẹp đẽ, tinh khôi nhưng chết chóc. Mỗi bông tuyết chạm vào ảo ảnh con nhện đều nổ tung, tạo thành một cơn bão tuyết nhỏ xé nát ảo ảnh.</p>
+<br>
+<p><em>Keng!</em></p>
+<br>
+<p><em>Hàn Mai Kiếm</em> và Song Đao va chạm nảy lửa giữa không trung. Một tiếng nổ lớn vang lên, hất văng cả hai người về phía sau. Diệp Tĩnh Sương lùi lại năm bước, tay cầm kiếm tê dại.</p>
+<br>
+<p>Lợi dụng khoảnh khắc hỗn loạn khi tầm nhìn bị che khuất, Lâm Phong phóng ra một mũi tên đặc biệt mà hắn đã giấu kỹ. Mũi tên này không có đầu sắt nhọn, mà mang theo một viên <em>Sa Viêm Tán</em> đã được hắn cải tiến dược tính.</p>
+<br>
+<p><em>Bùm!</em></p>
+<br>
+<p>Viên đan dược nổ tung giữa không trung, tạo ra một màn sương đỏ rực dày đặc, cay xè mắt che khuất tầm nhìn của kẻ địch.</p>
+<br>
+<p>"Chạy mau!" Lâm Phong hét lớn, kéo tay Hứa Thanh Vân chạy thục mạng về phía cửa ra của hẻm núi. Diệp Tĩnh Sương nén đau, phi thân theo sát phía sau.</p>
+<br>
+<p>Khi Độc Nhãn Ngô Công xua tan được làn khói đỏ bằng một chưởng gió, nhóm người đã biến mất vào khu rừng rậm rạp âm u phía bên kia hẻm núi. Hắn gầm lên giận dữ, định đuổi theo nhưng chợt khựng lại, sắc mặt biến đổi khi nhìn thấy những dấu chân cháy đen bốc khói trên mặt đất nơi họ vừa chạy qua.</p>
+<br>
+<p>"Rừng Huyết Độc... Các ngươi dám chạy vào đó sao? Đó là cấm địa ngay cả đệ tử bản môn cũng không dám tùy tiện bước vào!" Hắn cười gằn, thu đao lại. "Được lắm, để xem các ngươi sống được bao lâu trong đó. Chết trong đó còn đau đớn hơn chết dưới đao của ta gấp vạn lần."</p>
+<br>
+<p>Bên kia ranh giới, nhóm Diệp Tĩnh Sương ngã gục xuống một bãi cỏ ẩm ướt, nhớp nháp. Họ đã chính thức đặt chân vào lãnh địa của Vạn Độc Môn - Nam Cương. Nhưng trước mắt họ không phải là đường sống, mà là một khu rừng âm u với những thân cây đỏ như máu, cành lá vặn vẹo như những cánh tay ma quỷ đang vẫy gọi.</p>
+<br>
+<p>Diệp Tĩnh Sương nhìn lại con đường hẻm núi vừa đi qua, lòng thầm cảm thán. Ranh giới sinh tử, đôi khi chỉ cách nhau một bước chân, một quyết định trong gang tấc.</p>
+<br>
+<p>Trong khoảnh khắc giao thời giữa sống và chết ấy, một bài thơ chợt hiện lên trong tâm trí nàng:</p>
+<br>
+<p><strong>[Thơ] Ranh Giới Sinh Tử</strong></p>
+<br>
+<p><em>Nguyên văn:</em></p>
+<p>黃沙盡處見青冥</p>
+<p>毒霧迷濛掩翠屏</p>
+<p>生死关頭唯半步</p>
+<p>劍光寒影照孤星</p>
+<br>
+<p><em>Hán Việt:</em></p>
+<p>Hoàng sa tận xứ kiến thanh minh</p>
+<p>Độc vụ mê mông yểm thúy bình</p>
+<p>Sinh tử quan đầu duy bán bộ</p>
+<p>Kiếm quang hàn ảnh chiếu cô tinh</p>
+<br>
+<p><em>Dịch nghĩa:</em></p>
+<p>Nơi cát vàng kết thúc thấy trời xanh thẳm,</p>
+<p>Sương độc mịt mờ che khuất bức bình phong xanh biếc.</p>
+<p>Đầu ải sinh tử chỉ cách nhau nửa bước chân,</p>
+<p>Ánh kiếm lạnh lẽo chiếu rọi ngôi sao cô độc.</p>
+<br>
+<p>---</p>
+<p><em>Hết chương 20.</em></p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

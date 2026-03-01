@@ -1,0 +1,1178 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BÁO CÁO CHẤT LƯỢNG - DỰ ÁN CỐ NGUYÊN</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<h1>BÁO CÁO CHẤT LƯỢNG - DỰ ÁN CỐ NGUYÊN</h1>
+<br>
+<h2>NHẬT KÝ KIỂM TRA</h2>
+<br>
+<table>
+<thead><tr>
+<th>Ngày</th>
+<th>Agent</th>
+<th>Nội Dung</th>
+<th>Trạng Thái</th>
+<th>Ghi Chú</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>2024-05-23</td>
+<td>Tổng Quản</td>
+<td>Khởi tạo cấu trúc dự án</td>
+<td>Hoàn Thành</td>
+<td>Đã tạo thư mục và memory file.</td>
+</tr>
+<tr>
+<td>2024-05-23</td>
+<td>Kiến Tạo Thế Giới</td>
+<td>Tạo bản đồ sơ bộ</td>
+<td>Hoàn Thành</td>
+<td>Cần bổ sung chi tiết các bí cảnh sau.</td>
+</tr>
+<tr>
+<td>2024-05-23</td>
+<td>Thiết Kế Tu Luyện</td>
+<td>Tạo hệ thống cảnh giới</td>
+<td>Hoàn Thành</td>
+<td>Cần thêm chi tiết về Tâm Ma Kiếp.</td>
+</tr>
+<tr>
+<td>2024-05-23</td>
+<td>Kiến Tạo Chủng Tộc</td>
+<td>Tạo 9 chủng tộc</td>
+<td>Hoàn Thành</td>
+<td>Cần phát triển mối quan hệ giữa các tộc.</td>
+</tr>
+<tr>
+<td>2024-05-24</td>
+<td>Tổng Quản</td>
+<td>Chạy thử nghiệm toàn bộ 19 Agent (Demo: Huyền Băng Cung)</td>
+<td>Hoàn Thành</td>
+<td>Đã tạo đầy đủ các thành phần liên quan đến Huyền Băng Cung và Băng Tộc. Bao gồm: Hồ sơ thế lực, Nhân vật, Công pháp, Văn hóa, Nghề phụ, Thơ ca, Âm nhạc và Chương truyện mẫu.</td>
+</tr>
+<tr>
+<td>2024-05-25</td>
+<td>Kiến Tạo Chủng Tộc</td>
+<td>Xây dựng quan hệ ngoại giao (10 Đại Tộc)</td>
+<td>Hoàn Thành</td>
+<td>Đã tạo file Quan_Hệ_Chủng_Tộc.md, giải quyết vấn đề tồn đọng ngày 23/05.</td>
+</tr>
+<tr>
+<td>2024-05-26</td>
+<td>Tổng Quản</td>
+<td>Tạo Vạn Độc Môn & Fix Đan Hà Cốc</td>
+<td>Hoàn Thành</td>
+<td>Đã thêm thế lực đối trọng tại Nam Cương và đồng bộ timeline.</td>
+</tr>
+<tr>
+<td>2024-05-27</td>
+<td>Tổng Quản</td>
+<td>Sửa Lore & Bồi đắp Thế Lực</td>
+<td>Hoàn Thành</td>
+<td>Sửa Niên Biểu (Hỗn Độn Liên Hoa) & thêm Giai Thoại cho Đan Hà Cốc/Vạn Độc Môn.</td>
+</tr>
+<tr>
+<td>2024-05-28</td>
+<td>Tổng Quản</td>
+<td>Bồi đắp Huyền Băng Cung</td>
+<td>Hoàn Thành</td>
+<td>Thêm mục "Giai Thoại & Bí Mật" (Băng Huyền Cầm, Cấm Hỏa, Cấm Địa).</td>
+</tr>
+<tr>
+<td>2024-05-29</td>
+<td>Tổng Quản</td>
+<td>Sửa Lỗi & Bồi Đắp Cửu Hoa</td>
+<td>Hoàn Thành</td>
+<td>Sửa 6 broken links và thêm 3 giai thoại cho Cửu Hoa Kiếm Tông.</td>
+</tr>
+<tr>
+<td>2024-05-30</td>
+<td>Tổng Quản</td>
+<td>Sửa Lỗi Link & Thêm Vạn Độc Châu</td>
+<td>Hoàn Thành</td>
+<td>Sửa 4 broken links, rename Hỏa Linh Thảo, tạo Vạn Độc Châu.</td>
+</tr>
+<tr>
+<td>2024-05-31</td>
+<td>Tổng Quản</td>
+<td>Tạo Lãnh Đạo Nam Cương</td>
+<td>Hoàn Thành</td>
+<td>Tạo Đan Dương Tử (Đan Hà Cốc) & Độc Cô Lão Quái (Vạn Độc Môn).</td>
+</tr>
+<tr>
+<td>2024-06-01</td>
+<td>Tổng Quản</td>
+<td>Tạo Dược Vương Cốc</td>
+<td>Hoàn Thành</td>
+<td>Tạo Thế lực, Nhân vật (Diệp Thanh Y) & Công pháp (Thanh Nang).</td>
+</tr>
+<tr>
+<td>2024-06-02</td>
+<td>Tổng Quản</td>
+<td>Tạo Vạn Mộc Hồi Xuân Trận</td>
+<td>Hoàn Thành</td>
+<td>Trận pháp hộ sơn của Dược Vương Cốc.</td>
+</tr>
+<tr>
+<td>2024-06-03</td>
+<td>Luyện Khí Sư</td>
+<td>Tạo Mộc Linh Trượng</td>
+<td>Hoàn Thành</td>
+<td>Vũ khí của Diệp Thanh Y, làm từ Cửu Thiên Linh Mộc.</td>
+</tr>
+<tr>
+<td>2024-06-03</td>
+<td>Họa Sĩ Thế Giới</td>
+<td>Khởi tạo Visual Assets & Prompt</td>
+<td>Hoàn Thành</td>
+<td>Đã tạo cấu trúc Đạo/Ảnh, Yêu Cầu Sáng Tạo và Prompt cho Diệp Tĩnh Sương, Lâm Phong.</td>
+</tr>
+<tr>
+<td>2024-06-04</td>
+<td>Luyện Khí Sư</td>
+<td>Tạo Pháp Bảo Mộc Linh Trượng</td>
+<td>Hoàn Thành</td>
+<td>Tạo pháp bảo bản mệnh cho Diệp Thanh Y và cập nhật Hồ Sơ Thế Giới.</td>
+</tr>
+<tr>
+<td>2024-06-05</td>
+<td>Kiến Tạo Cốt Truyện</td>
+<td>Khởi tạo Cốt Truyện Chính (Huyết Độc Chi Họa)</td>
+<td>Hoàn Thành</td>
+<td>Đã tạo file Cốt_Truyện_Chính.md và cập nhật Hồ Sơ Thế Giới.</td>
+</tr>
+<tr>
+<td>2024-06-06</td>
+<td>Tổng Quản</td>
+<td>Tạo Cửu Hoa Kiếm Tôn</td>
+<td>Hoàn Thành</td>
+<td>Tạo nhân vật Lục Trần và pháp bảo Thanh Liên Kiếm. Cập nhật hồ sơ Cửu Hoa Kiếm Tông.</td>
+</tr>
+<tr>
+<td>2024-06-07</td>
+<td>Kiến Tạo Nhân Vật</td>
+<td>Tạo Sứ Giả Tinh Linh</td>
+<td>Hoàn Thành</td>
+<td>Tạo nhân vật Lục Tiêu, công pháp Thanh Âm Vạn Vật Quyết, pháp bảo Ngọc Tiêu Cửu Khúc, thơ Khúc Nhạc Rừng Xanh.</td>
+</tr>
+<tr>
+<td>2024-06-08</td>
+<td>Tổng Quản</td>
+<td>Tạo Nữ Hoàng Tinh Linh</td>
+<td>Hoàn Thành</td>
+<td>Tạo nhân vật Nguyệt Dao, công pháp Nguyệt Linh Trường Sinh Quyết, pháp bảo Nguyệt Thần Cung, thơ Nguyệt Hạ Tinh Linh.</td>
+</tr>
+<tr>
+<td>2024-06-09</td>
+<td>Nhạc Sĩ Thiên Cung</td>
+<td>Sáng tác Khúc Nhạc Mở Đầu</td>
+<td>Hoàn Thành</td>
+<td>Cập nhật file README, Yêu Cầu Sáng Tạo và Hồ Sơ Thế Giới.</td>
+</tr>
+<tr>
+<td>2024-06-10</td>
+<td>Tổng Quản</td>
+<td>Fix Lỗi Chủng Tộc & Thêm Nhạc</td>
+<td>Hoàn Thành</td>
+<td>Cập nhật Chủng_Tộc_Chính.md (đủ 10 tộc + fix link), sáng tác Tinh Linh Trường Ca.</td>
+</tr>
+<tr>
+<td>2024-06-11</td>
+<td>Tổng Quản</td>
+<td>Đồng bộ Thiên Sa Thương Hội</td>
+<td>Hoàn Thành</td>
+<td>Thêm thế lực vào Index (trước đó bị ẩn) và tạo nhân vật Hứa Nhược Thủy (Gia Chủ Hứa Gia).</td>
+</tr>
+<tr>
+<td>2024-06-12</td>
+<td>Tổng Quản</td>
+<td>Tạo Vạn Độc Thánh Tử</td>
+<td>Hoàn Thành</td>
+<td>Tạo nhân vật Lệ Vô Tâm và sáng tác Vạn Độc Ca. Cập nhật cốt truyện chính.</td>
+</tr>
+<tr>
+<td>2024-06-13</td>
+<td>Tổng Quản</td>
+<td>Tạo Bộ Pháp Bảo Lệ Vô Tâm</td>
+<td>Hoàn Thành</td>
+<td>Tạo Huyết Độc Phiến, Thiên Tinh Cổ, Vạn Độc Phệ Hồn Quyết.</td>
+</tr>
+<tr>
+<td>2024-06-14</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 1 & Tạo Huyết Thi</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 1 Huyết Độc Chi Họa, tạo hồ sơ Huyết Thi và Truyền Âm Phù.</td>
+</tr>
+<tr>
+<td>2024-06-15</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 2 & Sáng tác Hồng Trần Vọng</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 2 Huyết Độc Chi Họa, sáng tác ca khúc Hồng Trần Vọng.</td>
+</tr>
+<tr>
+<td>2024-06-15</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 3 & Tạo Huyết Tướng</td>
+<td>Hoàn Thành</td>
+<td>Viết tiếp diễn biến tại Thôn Lạc Diệp và tạo quái vật Huyết Tướng.</td>
+</tr>
+<tr>
+<td>2024-06-16</td>
+<td>Tổng Quản</td>
+<td>Tạo Huyết Thần Độc & Viết Chương 4</td>
+<td>Hoàn Thành</td>
+<td>Tạo Kỳ vật Huyết Thần Độc và viết chương đối đầu Lệ Vô Tâm.</td>
+</tr>
+<tr>
+<td>2024-06-17</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 5 & Tạo Truy Phong Cung</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 5 mô tả cuộc thoát hiểm vào Đầm Lầy Tử Thần và tạo vũ khí mới cho Lâm Phong.</td>
+</tr>
+<tr>
+<td>2024-06-18</td>
+<td>Tổng Quản</td>
+<td>Tạo Đầm Lầy Tử Thần & Huyết Độc Lang</td>
+<td>Hoàn Thành</td>
+<td>Chuẩn bị tài nguyên cho Chương 6 (Địa điểm và Quái vật).</td>
+</tr>
+<tr>
+<td>2024-06-19</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 6 & Sáng tác Thơ Đầm Lầy</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 6, sáng tác thơ cổ phong, cập nhật cốt truyện và hồ sơ thế giới.</td>
+</tr>
+<tr>
+<td>2024-06-20</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 7 & Tạo Phế Tích</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 7, tạo Phế Tích Nguyệt Quang và Tinh Linh Cổ Ngọc.</td>
+</tr>
+<tr>
+<td>2024-06-21</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 8 & Tạo Huyết Đằng</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 8, tạo Kỳ vật Huyết Đằng & Nguyệt Quang Thảo, Prompt Rừng Huyết Độc.</td>
+</tr>
+<tr>
+<td>2024-06-22</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 9 & Tạo Núi Độc Long</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 9, tạo địa danh Núi Độc Long.</td>
+</tr>
+<tr>
+<td>2024-06-23</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 10 & Tạo Độc Long Tích</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 10, tạo quái vật boss Độc Long Tích.</td>
+</tr>
+<tr>
+<td>2024-06-23</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 11 & Bão Cát Tây Mạc</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 11, mô tả hành trình qua Tây Mạc và cuộc chiến với Sa Tặc.</td>
+</tr>
+<tr>
+<td>2024-06-24</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 12 & Sáng tác Thơ</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 12 (Thương Vụ Bạc Tỷ), sáng tác Ốc Đảo Dạ Khúc.</td>
+</tr>
+<tr>
+<td>2024-06-25</td>
+<td>Tổng Quản</td>
+<td>Tạo Hồ Sơ Tây Mạc (Phần 1)</td>
+<td>Hoàn Thành</td>
+<td>Tạo nhân vật Hứa Thanh Vân và địa danh Lưu Sa Phế Tích để phục vụ cốt truyện Chương 12.</td>
+</tr>
+<tr>
+<td>2024-06-26</td>
+<td>Tổng Quản</td>
+<td>Tạo Hồ Sơ Tây Mạc (Phần 2)</td>
+<td>Hoàn Thành</td>
+<td>Tạo Kỳ vật Sa Sương, Hắc Sa Bão và Sa Tặc Liên Minh.</td>
+</tr>
+<tr>
+<td>2024-06-27</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 13 & Tạo Sa Hồn</td>
+<td>Hoàn Thành</td>
+<td>Triển khai cốt truyện tại Lưu Sa Phế Tích và tạo quái vật Sa Hồn.</td>
+</tr>
+<tr>
+<td>2024-06-28</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 14 & Cập Nhật Lore</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 14 (Sa Mạc Mê Cung) và cập nhật cốt truyện.</td>
+</tr>
+<tr>
+<td>2024-06-29</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 15 & Tạo Hoàng Sa Địa Cung</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 15 (Bí Mật Hoàng Sa), tạo Địa danh Hoàng Sa Địa Cung và Kỳ vật Long Cốt.</td>
+</tr>
+<tr>
+<td>2024-06-30</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 16 & Tạo Ốc Đảo Thanh Lương</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 16 (Trở Về Cát Bụi), tạo địa danh Ốc Đảo Thanh Lương.</td>
+</tr>
+<tr>
+<td>2024-07-01</td>
+<td>Tổng Quản</td>
+<td>Tạo Trạm Dừng Chân Số 7</td>
+<td>Hoàn Thành</td>
+<td>Tạo địa danh chi tiết phục vụ Chương 17.</td>
+</tr>
+<tr>
+<td>2024-07-01</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 17 & Mở Arc Mới</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 17 (Mưu Đồ Bóng Tối), bắt đầu cao trào tại Trạm Dừng Chân.</td>
+</tr>
+<tr>
+<td>2024-07-02</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 18 & Huyết Chiến</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 18 (Huyết Chiến Trạm Dừng Chân), tiếp nối diễn biến kịch tính.</td>
+</tr>
+<tr>
+<td>2024-07-03</td>
+<td>Tổng Quản</td>
+<td>Mở Rộng Góc Nhìn Lệ Vô Tâm</td>
+<td>Hoàn Thành</td>
+<td>Viết thêm Chương 2 (Huyết Độc Phiến), Chương 3 (Mệnh Lệnh Bóng Tối) cho Lệ Vô Tâm. Sắp xếp lại timeline.</td>
+</tr>
+<tr>
+<td>2024-07-04</td>
+<td>Tổng Quản</td>
+<td>Fix Hứa Nhược Thủy & Viết Chương 19</td>
+<td>Hoàn Thành</td>
+<td>Sửa lỗi cảnh giới con trai Hứa Nhược Thủy, viết chương hành trình về Trung Thổ.</td>
+</tr>
+<tr>
+<td>2024-07-05</td>
+<td>Tổng Quản</td>
+<td>Hoàn thiện Băng Tâm Quyết & Thơ ca</td>
+<td>Hoàn Thành</td>
+<td>Cập nhật cấu trúc Hán-Việt-Dịch cho Băng Tâm Quyết và thêm bản tiếng Trung cho Ốc Đảo Dạ Khúc theo chỉ dẫn người dùng.</td>
+</tr>
+<tr>
+<td>2024-07-06</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 20 & Sáng tác Thơ</td>
+<td>Hoàn Thành</td>
+<td>Mô tả hành trình vượt biên giới Tây Mạc - Nam Cương.</td>
+</tr>
+<tr>
+<td>2024-07-07</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 21 (Góc Nhìn Diệp Tĩnh Sương)</td>
+<td>Hoàn Thành</td>
+<td>Mô tả nội tâm Diệp Tĩnh Sương khi hy sinh tu vi cứu Hứa Nhược Thủy tại Rừng Huyết Độc.</td>
+</tr>
+<tr>
+<td>2024-07-08</td>
+<td>Tổng Quản</td>
+<td>Viết lại Chương 15-20</td>
+<td>Hoàn Thành</td>
+<td>Chuẩn hóa định dạng văn xuôi, loại bỏ cấu trúc đề cương. Sửa lỗi thơ ca Chương 19-20.</td>
+</tr>
+<tr>
+<td>2024-07-08</td>
+<td>Tổng Quản</td>
+<td>Tạo Góc Nhìn Diệp Tĩnh Sương</td>
+<td>Hoàn Thành</td>
+<td>Tạo folder mới và viết Chương 1: Nhiệm Vụ Đơn Độc (Song song Chương 1 Chính).</td>
+</tr>
+<tr>
+<td>2024-07-08</td>
+<td>Tổng Quản</td>
+<td>Tạo Tâm Sự Diệp Tĩnh Sương</td>
+<td>Hoàn Thành</td>
+<td>Viết Ngoại Truyện: Tâm Sự Hàn Mai (Độc Thoại Nội Tâm).</td>
+</tr>
+<tr>
+<td>2024-07-08</td>
+<td>Tổng Quản</td>
+<td>Hợp nhất Góc Nhìn Diệp Tĩnh Sương</td>
+<td>Hoàn Thành</td>
+<td>Tích hợp nội dung Tâm Sự vào Chương 1 để mạch văn liền mạch hơn theo yêu cầu.</td>
+</tr>
+<tr>
+<td>2024-07-09</td>
+<td>Tổng Quản</td>
+<td>Tạo Hồ Sơ Nam Cương & Rừng Huyết Độc</td>
+<td>Hoàn Thành</td>
+<td>Tạo file thế giới cho Nam Cương và Rừng Huyết Độc.</td>
+</tr>
+<tr>
+<td>2024-07-09</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 21 (Chính)</td>
+<td>Hoàn Thành</td>
+<td>Tạo lại Chương 21: Độc Khí Công Tâm (bị thiếu file).</td>
+</tr>
+<tr>
+<td>2024-07-10</td>
+<td>Tổng Quản</td>
+<td>Khôi phục Chương 21</td>
+<td>Hoàn Thành</td>
+<td>Tạo lại file bị thiếu, xác minh nội dung Rừng Huyết Độc.</td>
+</tr>
+<tr>
+<td>2026-02-26</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 22 & Cập nhật Hồ sơ</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện tại Rừng Huyết Độc.</td>
+</tr>
+<tr>
+<td>2026-02-27</td>
+<td>Tổng Quản</td>
+<td>Tạo Kỳ vật: Nhện Mặt Quỷ</td>
+<td>Hoàn Thành</td>
+<td>Quái vật chương 23.</td>
+</tr>
+<tr>
+<td>2026-02-27</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 23: Hang Động Nhện Quỷ</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện tại Rừng Huyết Độc.</td>
+</tr>
+<tr>
+<td>2026-02-27</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 24: Huyết Thi Trỗi Dậy</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện tại Rừng Huyết Độc.</td>
+</tr>
+<tr>
+<td>2026-02-28</td>
+<td>Tổng Quản</td>
+<td>Tạo Địa Danh: Hang Động Nhện Quỷ</td>
+<td>Hoàn Thành</td>
+<td>Tạo hồ sơ chi tiết hang động, bao gồm Dưỡng Thi Địa và Mạch Ngầm.</td>
+</tr>
+<tr>
+<td>2026-02-28</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 25: Mạch Ngầm Bí Ẩn</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện, kết nối Rừng Huyết Độc với Hoàng Sa Địa Cung.</td>
+</tr>
+<tr>
+<td>2026-03-01</td>
+<td>Tổng Quản</td>
+<td>Cập nhật Hán Văn cho Thơ Ca & Công Pháp</td>
+<td>Hoàn Thành</td>
+<td>Thêm Nguyên Văn (Hán Văn) và chuẩn hóa Hán Việt cho 3 bài thơ và 2 công pháp theo yêu cầu người dùng.</td>
+</tr>
+<tr>
+<td>2026-03-02</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 27: Bí Mật Dưới Đáy Hồ</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện tại Hoàng Sa Thâm Cung, khám phá bí mật lịch sử.</td>
+</tr>
+<tr>
+<td>2026-03-02</td>
+<td>Tổng Quản</td>
+<td>Tạo Nhân Vật & Kỳ Vật</td>
+<td>Hoàn Thành</td>
+<td>Tạo Lục Ly, Thủy Linh Châu (Mảnh Vỡ), Thủy Thi.</td>
+</tr>
+<tr>
+<td>2026-03-02</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 28: Thử Thách Của Lục Ly</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện tại Thâm Cung, nhân vật chính vượt qua thử thách tâm ma, tạo nhân vật Lục Ly và Kỳ vật Thủy Linh Châu.</td>
+</tr>
+<tr>
+<td>2026-03-03</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 31: Hắc Sa Bão Trỗi Dậy</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện, mô tả hậu quả vỡ phong ấn và sự xuất hiện của Hắc Sa Bão.</td>
+</tr>
+<tr>
+<td>2026-03-04</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 32: Sa Hồn Truy Kích</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện, mô tả cuộc trốn chạy khỏi Hắc Sa Bão và tìm nơi trú ẩn.</td>
+</tr>
+<tr>
+<td>2026-03-05</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 34 & Tạo Pháo Đài Xanh</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện Rừng Thiên Trụ, tạo thêm Kỳ vật Thiên Trụ Tương & Sa Hồ.</td>
+</tr>
+<tr>
+<td>2026-03-06</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 35 & Tạo Mộc Linh Vệ</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện Rừng Thiên Trụ, mở đường về Nam Cương.</td>
+</tr>
+<tr>
+<td>2026-03-07</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 36: Ranh Giới Tử Thần</td>
+<td>Hoàn Thành</td>
+<td>Chính thức bước vào Rừng Huyết Độc (Nam Cương), đối mặt với chướng khí.</td>
+</tr>
+<tr>
+<td>2026-03-07</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 39: Vùng Đất Chết</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện, mô tả vùng đất bị nguyền rủa bởi Địa Sát.</td>
+</tr>
+<tr>
+<td>2026-03-07</td>
+<td>Tổng Quản</td>
+<td>Tạo Địa Danh: Vùng Đất Chết</td>
+<td>Hoàn Thành</td>
+<td>Tạo hồ sơ chi tiết khu vực cấm địa mới trong Rừng Huyết Độc.</td>
+</tr>
+<tr>
+<td>2026-03-07</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 40: Huyết Chiến Cửa Hang</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện, mô tả cuộc chiến với Vong Linh tại cửa hang.</td>
+</tr>
+<tr>
+<td>2026-03-07</td>
+<td>Tổng Quản</td>
+<td>Tạo Kỳ vật: Vong Linh</td>
+<td>Hoàn Thành</td>
+<td>Quái vật xương cốt bị Địa Sát thao túng.</td>
+</tr>
+<tr>
+<td>2026-03-08</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 41: Mê Cung Tơ Độc</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện tại Hang Động Nhện Quỷ.</td>
+</tr>
+<tr>
+<td>2026-03-08</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 42: Huyết Chiến Nhện Chúa</td>
+<td>Hoàn Thành</td>
+<td>Kết thúc phân đoạn Hang Động Nhện Quỷ, tiêu diệt Boss Nhện Chúa và mở đường về mặt đất.</td>
+</tr>
+<tr>
+<td>2026-03-08</td>
+<td>Tổng Quản</td>
+<td>Tạo Kỳ vật: Huyết Nhện Chúa</td>
+<td>Hoàn Thành</td>
+<td>Boss của Hang Động Nhện Quỷ, bị biến đổi bởi Địa Sát.</td>
+</tr>
+<tr>
+<td>2026-03-09</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 43: Thoát Khỏi Hang Động</td>
+<td>Hoàn Thành</td>
+<td>Mô tả cuộc đào thoát và tìm thấy Huyết Linh Chi.</td>
+</tr>
+<tr>
+<td>2026-03-09</td>
+<td>Tổng Quản</td>
+<td>Tạo Kỳ vật: Huyết Linh Chi</td>
+<td>Hoàn Thành</td>
+<td>Linh thảo giúp hồi phục khí huyết và giải độc.</td>
+</tr>
+<tr>
+<td>2026-03-09</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 44: Hồi Sinh Trong Tử Địa</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện, Hứa Nhược Thủy hồi phục, Vong Linh tấn công.</td>
+</tr>
+<tr>
+<td>2026-03-10</td>
+<td>Tổng Quản</td>
+<td>Tạo Prompt Ảnh: Huyết Linh Chi</td>
+<td>Hoàn Thành</td>
+<td>Tạo prompt visual cho Huyết Linh Chi trong Rừng Huyết Độc.</td>
+</tr>
+<tr>
+<td>2026-03-10</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 44: Ánh Sáng Và Bóng Tối</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện, mô tả việc chữa trị cho Hứa Nhược Thủy và phát hiện vòng vây của Vạn Độc Môn.</td>
+</tr>
+<tr>
+<td>2026-03-11</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 45: Huyết Trận Khởi Động</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện, mô tả cuộc tấn công của Huyết Vệ và sự biến đổi của Rừng Huyết Độc.</td>
+</tr>
+<tr>
+<td>2026-03-11</td>
+<td>Tổng Quản</td>
+<td>Tạo Kỳ vật: Huyết Vệ</td>
+<td>Hoàn Thành</td>
+<td>Khôi lỗi sinh học của Vạn Độc Môn.</td>
+</tr>
+<tr>
+<td>2026-03-11</td>
+<td>Tổng Quản</td>
+<td>Tạo Trận pháp: Vạn Độc Huyết Tế Đại Trận</td>
+<td>Hoàn Thành</td>
+<td>Cấm trận bao trùm Rừng Huyết Độc.</td>
+</tr>
+<tr>
+<td>2026-03-12</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 46: Vòng Vây Sinh Tử</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện, mô tả cuộc chiến sinh tử trong Vạn Độc Huyết Tế Đại Trận.</td>
+</tr>
+<tr>
+<td>2026-03-12</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 47: Huyết Lộ Phá Trận</td>
+<td>Hoàn Thành</td>
+<td>Tiếp nối mạch truyện, tiêu diệt Huyết Tướng và phá hủy Mắt Trận Phụ.</td>
+</tr>
+<tr>
+<td>2026-03-13</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 48 & Tạo Mộc Linh Trận Địa</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 48 (Tiếng Sáo Vượt Rừng) và tạo địa danh Mộc Linh Trận Địa.</td>
+</tr>
+<tr>
+<td>2026-03-13</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 49: Bí Mật Mộc Linh Trận</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 49 (Bí Mật Mộc Linh Trận), tiết lộ cơ chế phá Vạn Độc Huyết Tế Đại Trận.</td>
+</tr>
+<tr>
+<td>2026-03-14</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 50: Cuộc Chiến Thủ Thành</td>
+<td>Hoàn Thành</td>
+<td>Mô tả trận chiến phòng thủ tại Mộc Linh Trận Địa.</td>
+</tr>
+<tr>
+<td>2026-03-15</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 51 & Tạo Huyết Nha</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 51 (Đột Kích Mắt Trận) và tạo Kỳ vật Huyết Nha.</td>
+</tr>
+<tr>
+<td>2026-03-16</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 52: Đột Kích Mắt Trận (Phần 2)</td>
+<td>Hoàn Thành</td>
+<td>Mô tả trận chiến phá hủy Mắt Trận Phụ.</td>
+</tr>
+<tr>
+<td>2026-03-17</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 53: Vòng Vây Siết Chặt</td>
+<td>Hoàn Thành</td>
+<td>Nhóm nhân vật thoát vây và tiến vào Huyết Vụ Lâm.</td>
+</tr>
+<tr>
+<td>2026-03-18</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 54: Bóng Ma Trong Sương</td>
+<td>Hoàn Thành</td>
+<td>Khai thác ảo giác trong Huyết Vụ Lâm, giới thiệu kẻ địch Vạn Độc Thất Sát.</td>
+</tr>
+<tr>
+<td>2026-03-19</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 55: Huyết Mạch Thượng Cổ</td>
+<td>Hoàn Thành</td>
+<td>Khám phá Huyết Mạch bên dưới Huyết Vụ Lâm, tìm lối đi bí mật.</td>
+</tr>
+<tr>
+<td>2026-03-20</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 57: Huyết Chiến Ngô Công</td>
+<td>Hoàn Thành</td>
+<td>Cuộc chiến Boss đầu tiên trong lòng đất, cập nhật hồ sơ Ngô Công và Vạn Độc Môn.</td>
+</tr>
+<tr>
+<td>2026-03-21</td>
+<td>Tổng Quản</td>
+<td>Cập nhật Lore Huyết Mạch & Viết Chương 58</td>
+<td>Hoàn Thành</td>
+<td>Cập nhật Huyết Mạch Thượng Cổ, Ngô Công, Mộc Linh Trận Địa và viết Chương 58.</td>
+</tr>
+<tr>
+<td>2026-03-22</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 59 & Cập Nhật Lore Vạn Độc</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 59, thêm Kho Chứa Ngầm vào Vạn Độc Môn và quá khứ vào Hứa Nhược Thủy.</td>
+</tr>
+<tr>
+<td>2026-03-23</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 60 & Tạo Kỳ Vật</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 60, tạo Kỳ Vật Thủy Cổ & Sa Bạo Cổ.</td>
+</tr>
+<tr>
+<td>2026-03-24</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 61 & Tạo Nấm Độc</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 61, tạo Nấm Độc Lâm, Nấm Mặt Quỷ và cập nhật Mộc Độc Sư.</td>
+</tr>
+<tr>
+<td>2026-03-25</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 62 & Tạo Dược Nhân</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 62 (Bí Mật Huyết Trì) và tạo Kỳ Vật Dược Nhân.</td>
+</tr>
+<tr>
+<td>2026-03-25</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 63 & Cập Nhật</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 63 (Huyết Chiến Bên Hồ).</td>
+</tr>
+<tr>
+<td>2026-03-26</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 64 & 65, Tạo Kỳ Vật Huyết Vụ</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 64, 65. Tạo Huyết Vụ Điểu, Mộng Yểm Hoa. Cập nhật Huyết Vụ Lâm.</td>
+</tr>
+<tr>
+<td>2026-03-27</td>
+<td>Tổng Quản</td>
+<td>Mở Rộng Backstory Lệ Vô Tâm</td>
+<td>Hoàn Thành</td>
+<td>Quy hoạch lại 3 Arc lớn (~30 chương/arc). Reindex lại toàn bộ chương cũ theo số thứ tự mới. Viết thêm chương 8 & 16.</td>
+</tr>
+<tr>
+<td>2026-03-28</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 41-43 (Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Viết 3 chương mới cho Arc 2, hoàn thiện hồ sơ cốt truyện.</td>
+</tr>
+<tr>
+<td>2026-03-29</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 44-46 (Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Viết 3 chương tiếp theo Arc 2: Huyết Chiến Sơn Tặc, Đối Thủ Xứng Tầm, Vết Thương Chí Mạng.</td>
+</tr>
+<tr>
+<td>2026-03-30</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 51-53 (Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Viết 3 chương tiếp theo Arc 2: Lời Mời Từ Bóng Tối, Giao Dịch Ngầm, Bí Mật Cổ Trùng.</td>
+</tr>
+<tr>
+<td>2026-03-31</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 54-56 (Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Viết 3 chương tiếp theo Arc 2: Thí Nghiệm Trên Người Sống, Đột Phá Trúc Cơ Trung Kỳ, Sự Ghen Ghét Của Đồng Môn.</td>
+</tr>
+<tr>
+<td>2026-03-31</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 57 & Tạo Quỷ Khốc Cốc, Trận Pháp</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 57 (Cái Bẫy Liên Hoàn), tạo địa danh Quỷ Khốc Cốc và Vạn Tinh Tuyệt Sát Trận phục vụ diễn biến truyện.</td>
+</tr>
+<tr>
+<td>2026-03-31</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 58 (Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 58 (Phản Đòn), mô tả Lệ Vô Tâm dùng Vạn Độc Thân phá Vạn Tinh Tuyệt Sát Trận, lật ngược thế cờ tiêu diệt nhóm Triệu Hàn.</td>
+</tr>
+<tr>
+<td>2026-04-01</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 59 & 60 (Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 59 (Độc Cô Lão Quái Hài Lòng) và Chương 60 (Chuẩn Bị Cho Đại Sự) để kết thúc Arc 2 của Lệ Vô Tâm.</td>
+</tr>
+<tr>
+<td>2026-04-02</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 66 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 66 (Ảo Giác Mộng Yểm), mô tả nhóm nhân vật rơi vào ảo giác của Mộng Yểm Hoa và được cứu bởi tiếng sáo.</td>
+</tr>
+<tr>
+<td>2026-04-03</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 67 & Tạo Huyết Uyên</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 67 (Bước Nhảy Sinh Tử), tạo địa danh Huyết Uyên (Vực Sâu Máu) dưới đáy Huyết Vụ Lâm.</td>
+</tr>
+<tr>
+<td>2026-04-03</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 68 & Tạo Sinh Vật Huyết Uyên</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 68 (Bóng Tối Huyết Uyên), tạo Dơi Huyết Mù và Rết Lân Tinh, bám sát cốt truyện Góc Nhìn Chính.</td>
+</tr>
+<tr>
+<td>2026-04-03</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 69 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 69 (Nguồn Cội Thượng Cổ), nhóm nhân vật chính tìm thấy lối vào Huyết Mạch Thượng Cổ và sử dụng Thanh Mộc Dịch chữa thương.</td>
+</tr>
+<tr>
+<td>2026-04-04</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 70 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 70 (Xâm Nhập Lõi Độc), nhóm nhân vật chính tìm ra căn cứ ngầm của Vạn Độc Môn.</td>
+</tr>
+<tr>
+<td>2026-04-05</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 71 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 71 (Trận Chiến Dưới Lòng Đất), nhóm nhân vật chính chiến đấu và phá hủy căn cứ ngầm của Vạn Độc Môn.</td>
+</tr>
+<tr>
+<td>2026-04-06</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 72 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 72 (Bóng Tối Bủa Vây), nhóm nhân vật chính tháo chạy khỏi căn cứ ngầm sụp đổ, đối mặt sự truy sát và bầy Vong Linh.</td>
+</tr>
+<tr>
+<td>2026-04-07</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 73 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 73 (Ánh Sáng Nơi Lõi Độc), nhóm nhân vật chính thoát khỏi đường hầm ngầm nhưng lại rơi vào Quỷ Khốc Cốc.</td>
+</tr>
+<tr>
+<td>2026-04-07</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 74 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 74 (Âm Vang Quỷ Khốc), nhóm nhân vật chính nghỉ ngơi trên vách đá Quỷ Khốc Cốc và tiêu diệt một đội đệ tử Vạn Độc Môn.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 75 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 75 (Luyện Hóa Tinh Sa), Hứa Nhược Thủy chế Huyết Sa Lôi, Diệp Tĩnh Sương đề xuất tẩu thoát trong Đại Điển Sắc Phong Vạn Độc Thánh Tử.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 70 (Góc Nhìn Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 70 (Quân Đoàn Máu), Lệ Vô Tâm điều khiển Huyết Thi bao vây Rừng Huyết Độc và Quỷ Khốc Cốc, khởi đầu Arc 3.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 76 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 76 (Vòng Vây Huyết Thi), nhóm Diệp Tĩnh Sương rời khỏi hang động ở Quỷ Khốc Cốc thì gặp phải vòng vây của quân đoàn Huyết Thi do Lệ Vô Tâm điều khiển, hai tuyến truyện chính thức giao nhau.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 71 (Góc Nhìn Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 71 (Đối Thoại Trong Sương), mô tả cuộc chạm trán căng thẳng giữa Lệ Vô Tâm và nhóm Diệp Tĩnh Sương, kết thúc bằng việc Lệ Vô Tâm triệu hồi Nhện Mặt Quỷ.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 77 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Viết Chương 77 (Tuyệt Cảnh Phá Vây), mô tả trận chiến tuyệt vọng của nhóm Diệp Tĩnh Sương và sự xuất hiện của một kiếm ý lạ cuối chương.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 78 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Mô tả Sở Lăng Sương xuất hiện cứu nguy tại Quỷ Khốc Cốc, giúp nhóm Tĩnh Sương rút lui an toàn khỏi sự vây hãm của Lệ Vô Tâm.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 72 (Góc Nhìn Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Mô tả Lệ Vô Tâm đối đầu với Diệp Tĩnh Sương và Sở Lăng Sương, bị Sương Hàn Cửu Thiên đẩy lùi và đánh mất con mồi.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 79 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Nhóm Tĩnh Sương rút lui, dưỡng thương và phân tích cục diện Vạn Độc Môn.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 73 (Góc Nhìn Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Lệ Vô Tâm rút lui, hấp thụ sức mạnh Mẫu Cổ và rèn luyện Vạn Độc Thân.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 80 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Lên kế hoạch phá 2 mắt trận tại Đầm Lầy Tử Thần và Vùng Đất Chết cùng Sở Lăng Sương.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 74 (Góc Nhìn Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Lệ Vô Tâm dung hợp Mẫu Cổ, hút sức mạnh Nhện Mặt Quỷ trong Mật Thất Huyết Trì và chính thức nắm quyền Vạn Độc Môn.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 81 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Nhóm Diệp Tĩnh Sương chia tay Sở Lăng Sương và bước vào Vùng Đất Chết, đối mặt đội quân Vong Linh.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 75 (Góc Nhìn Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Lệ Vô Tâm xuất quan, bố trí quân đoàn Huyết Thi phòng thủ Đầm Lầy Tử Thần và Vùng Đất Chết.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 82 (Góc Nhìn Chính)</td>
+<td>Hoàn Thành</td>
+<td>Nhóm Diệp Tĩnh Sương đối mặt với Vong Linh Tướng Quân, tìm thấy Mắt Trận phụ nhưng bị Huyết Vệ số Một cản đường.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 76 (Góc Nhìn Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Lệ Vô Tâm điều động Huyết Vệ số Một và dùng Trận Pháp Huyễn Ảnh để đối phó nhóm Diệp Tĩnh Sương.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 83 (Góc Nhìn Chính) & Chương 77 (Góc Nhìn Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Nhóm Tĩnh Sương phá vỡ Huyễn Ảnh Trận nhờ sự hỗ trợ gián tiếp từ cuộc tổng tiến công của đại quân Chính Đạo (Sở Lăng Sương) vào Đầm Lầy Tử Thần khiến Lệ Vô Tâm phân tâm.</td>
+</tr>
+<tr>
+<td>Hôm nay</td>
+<td>Tổng Quản</td>
+<td>Viết Chương 84 (Góc Nhìn Chính) & Chương 78 (Góc Nhìn Lệ Vô Tâm)</td>
+<td>Hoàn Thành</td>
+<td>Nhóm Tĩnh Sương tiêu diệt Huyết Vệ số Một và phá Mắt Trận phụ. Cùng lúc đó, Lệ Vô Tâm dồn toàn lực chống lại đợt tấn công của Sở Lăng Sương tại Đầm Lầy Tử Thần.</td>
+</tr>
+</tbody>
+</table>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

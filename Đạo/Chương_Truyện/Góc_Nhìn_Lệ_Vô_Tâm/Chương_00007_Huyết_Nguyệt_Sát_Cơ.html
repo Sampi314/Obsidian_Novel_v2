@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00007 Huyết Nguyệt Sát Cơ</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 7: Huyết Nguyệt Sát Cơ</h1>
+<p><button onclick="speakChapter()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">▶️ Đọc</button></p>
+<p><button onclick="pauseSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏸️ Tạm Dừng</button></p>
+<p><button onclick="resumeSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏯️ Tiếp Tục</button></p>
+<p><button onclick="stopSpeech()" style="cursor: pointer; padding: 5px 10px; margin: 5px;">⏹️ Dừng</button></p>
+<p></div></p>
+<p><script></p>
+<p>var synth = window.speechSynthesis;</p>
+<p>var utterance = null;</p>
+<br>
+<p>function speakChapter() {</p>
+<p>if (synth.speaking) {</p>
+<p>console.error("speechSynthesis.speaking");</p>
+<p>return;</p>
+<p>}</p>
+<p>// Clone body to remove navigation before reading</p>
+<p>var content = document.body.cloneNode(true);</p>
+<p>var nav = content.querySelector("#chapter-navigation");</p>
+<p>if (nav) {</p>
+<p>nav.remove();</p>
+<p>}</p>
+<p>var text = content.innerText;</p>
+<p>utterance = new SpeechSynthesisUtterance(text);</p>
+<p>utterance.lang = "vi-VN";</p>
+<p>synth.speak(utterance);</p>
+<p>}</p>
+<br>
+<p>function pauseSpeech() {</p>
+<p>if (synth.speaking && !synth.paused) {</p>
+<p>synth.pause();</p>
+<p>}</p>
+<p>}</p>
+<br>
+<p>function resumeSpeech() {</p>
+<p>if (synth.paused) {</p>
+<p>synth.resume();</p>
+<p>}</p>
+<p>}</p>
+<br>
+<p>function stopSpeech() {</p>
+<p>if (synth.speaking) {</p>
+<p>synth.cancel();</p>
+<p>}</p>
+<p>}</p>
+<p></script></p>
+<p></div></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 7: Huyết Nguyệt Sát Cơ</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Góc nhìn:</strong> <a href="../../Nhân_Vật/Lệ_Vô_Tâm.html">Lệ Vô Tâm</a></p>
+<p><strong>Địa điểm:</strong> Vạn Độc Môn - Khu Rừng Cấm (Dành cho đệ tử nhập thất).</p>
+<p><strong>Thời điểm:</strong> Đêm Huyết Nguyệt (1 tháng sau - Hữu Tâm 14 tuổi).</p>
+<p><strong>Giao Điểm Cốt Truyện:</strong> Tuyến độc lập (Quá khứ).</p>
+<br>
+<p>---</p>
+<br>
+<p>Đêm Huyết Nguyệt. Mặt trăng đỏ như máu treo lơ lửng giữa trời, soi rọi xuống Vạn Độc Môn một thứ ánh sáng ma quái.</p>
+<br>
+<p>Theo luật lệ của tông môn, vào đêm này, tất cả đệ tử nhập thất đều phải tham gia cuộc thi săn bắn trong Khu Rừng Cấm. Con mồi không phải là thú dữ, mà là chính những đồng môn của mình.</p>
+<br>
+<p>Mục tiêu rất đơn giản: Sống sót đến bình minh. Hoặc giết hết những kẻ khác.</p>
+<br>
+<p>Ta, Lệ Vô Tâm, đang núp trên cành cây cao nhất của một cây đại thụ cổ thụ. Cả người ta được phủ một lớp bùn trộn lẫn với <em>Hương Ẩn Thân</em> do ta tự chế, khiến ta hòa lẫn hoàn toàn vào vỏ cây xù xì.</p>
+<br>
+<p>Dưới gốc cây, ba bóng người đang thì thầm to nhỏ.</p>
+<br>
+<p>"Tìm kỹ đi! Con chuột nhắt đó chắc chắn ở quanh đây thôi!"</p>
+<br>
+<p>Đó là giọng của Lý Hổ, một tên đệ tử Luyện Khí tầng 8, nổi tiếng tàn bạo. Hắn đang dẫn theo hai tên đàn em đi săn ta.</p>
+<br>
+<p>"Đại ca, tên đó mới tầng 6, sao chúng ta phải huy động nhiều người thế?" Một tên đàn em làu bàu.</p>
+<br>
+<p>"Ngu xuẩn! Ngươi không nghe tin đồn sao? Nó sống sót qua Bách Độc Trì đấy! Huyết khí trên người nó là đại bổ cho việc luyện công. Nếu bắt được nó, rút xương lấy tủy, công lực của ta sẽ tăng vọt!"</p>
+<br>
+<p>Ta siết chặt con dao găm trong tay. Lưỡi dao được tẩm kịch độc chiết xuất từ <em>Tiểu Huyết</em>. Chỉ cần một vết xước nhỏ cũng đủ tiễn vong một tu sĩ Luyện Khí kỳ.</p>
+<br>
+<p>Bọn chúng đang tiến lại gần gốc cây ta đang ẩn nấp.</p>
+<br>
+<p>Ta nín thở. Tim đập thình thịch nhưng tâm trí lại lạnh băng. Đây là cơ hội tốt nhất để ta thử nghiệm <em>Vạn Độc Chân Kinh</em> tầng thứ nhất: <em>Độc Ảnh Bộ</em>.</p>
+<br>
+<p>Lý Hổ đứng ngay dưới chân ta, ngước nhìn lên tán cây rậm rạp.</p>
+<br>
+<p>"Lên kiểm tra xem!" Hắn ra lệnh.</p>
+<br>
+<p>Một tên đàn em bắt đầu leo lên. Hắn trèo thoăn thoắt như khỉ.</p>
+<br>
+<p>Khi đầu hắn vừa ló lên ngang tầm mắt ta, ta ra tay.</p>
+<br>
+<p><em>Phập!</em></p>
+<br>
+<p>Con dao găm cắm thẳng vào yết hầu hắn. Hắn trợn mắt, định hét lên nhưng máu đã chặn họng lại. Ta nhanh như chớp bịt miệng hắn, kéo mạnh vào trong tán lá.</p>
+<br>
+<p><em>Rắc!</em></p>
+<br>
+<p>Tiếng cổ gãy giòn tan. Ta ném xác hắn xuống đất.</p>
+<br>
+<p>"Cái gì?!" Lý Hổ giật mình lùi lại.</p>
+<br>
+<p>Cái xác rơi bộp xuống trước mặt hắn, mắt mở trừng trừng, máu đen chảy ra từ miệng.</p>
+<br>
+<p>"Nó ở trên đó! Giết nó!"</p>
+<br>
+<p>Lý Hổ gầm lên, vung đao chém loạn xạ vào thân cây. Tên đàn em còn lại cũng hoảng loạn phóng ám khí lên tán lá.</p>
+<br>
+<p>Nhưng ta không còn ở đó nữa.</p>
+<br>
+<p>Ta đã nhảy sang cành cây bên cạnh, nhẹ nhàng như một bóng ma. <em>Độc Ảnh Bộ</em> giúp ta di chuyển không tiếng động, thân pháp quỷ dị khó lường.</p>
+<br>
+<p>Ta đáp xuống sau lưng tên đàn em thứ hai.</p>
+<br>
+<p>"Ngươi tìm ai?" Ta thì thầm vào tai hắn.</p>
+<br>
+<p>Hắn giật bắn mình quay lại.</p>
+<br>
+<p>Ta thổi một luồng phấn độc màu tím vào mặt hắn.</p>
+<br>
+<p>"Á á á!"</p>
+<br>
+<p>Hắn ôm mặt gào thét, da thịt bắt đầu thối rữa, chảy nước vàng. Hắn lăn lộn dưới đất, cào cấu mặt mình trong cơn đau đớn tột cùng.</p>
+<br>
+<p>Lý Hổ kinh hoàng nhìn cảnh tượng trước mắt. Hai tên đàn em đắc lực của hắn bị hạ gục trong nháy mắt. Hắn nhìn quanh quất, mồ hôi vã ra như tắm.</p>
+<br>
+<p>"Ra đây! Đồ hèn nhát! Ra đây mà đấu tay đôi!"</p>
+<br>
+<p>Ta mỉm cười, bước ra từ bóng tối. Trên vai ta, Tiểu Huyết đang ngóc đầu dậy, đôi mắt đỏ rực nhìn hắn đầy thèm khát.</p>
+<br>
+<p>"Ta ở đây," ta nói, giọng bình thản. "Ngươi muốn lấy xương tủy ta sao? Đến mà lấy."</p>
+<br>
+<p>Lý Hổ thấy ta chỉ là một đứa trẻ gầy gò, Luyện Khí tầng 6, thì lấy lại chút bình tĩnh. Hắn gầm lên, vận toàn lực chém một đao về phía ta.</p>
+<br>
+<p>"Chết đi!"</p>
+<br>
+<p>Đao khí mang theo kình phong xé gió lao tới.</p>
+<br>
+<p>Ta không tránh. Ta giơ tay trái lên đỡ.</p>
+<br>
+<p><em>Keng!</em></p>
+<br>
+<p>Thanh đao chém vào cánh tay ta, nhưng không hề sứt mẻ da thịt. Chỉ để lại một vệt trắng mờ trên lớp vảy xanh nhạt.</p>
+<br>
+<p>"Cái... cái gì?!" Lý Hổ trợn mắt, không tin vào mắt mình. "Kim Cương Bất Hoại?! Không thể nào!"</p>
+<br>
+<p>"Không phải Kim Cương Bất Hoại," ta đáp, giọng lạnh lùng. "Là <em>Vạn Độc Thể</em>."</p>
+<br>
+<p>Ta tung chưởng phải vào ngực hắn. Bàn tay ta biến thành màu đen kịt, tỏa ra khói độc.</p>
+<br>
+<p><em>Bốp!</em></p>
+<br>
+<p>Lý Hổ bị đánh bay ra xa, đập vào gốc cây hộc máu tươi. Trên ngực hắn in hằn một dấu bàn tay đen sì đang lan rộng ra xung quanh.</p>
+<br>
+<p>"Ngươi... ngươi..." Hắn chỉ tay vào ta, run rẩy, rồi gục xuống chết ngay tức khắc. Độc tố đã phá nát tim phổi hắn.</p>
+<br>
+<p>Ta bước tới, nhìn ba cái xác nằm la liệt.</p>
+<br>
+<p>Ta không cảm thấy sợ hãi. Ta không cảm thấy tội lỗi. Ta chỉ cảm thấy... mạnh mẽ.</p>
+<br>
+<p>Ta ngồi xuống cạnh xác Lý Hổ, để Tiểu Huyết bò sang hút máu hắn.</p>
+<br>
+<p>Đêm Huyết Nguyệt vẫn còn dài. Và cuộc đi săn... mới chỉ bắt đầu.</p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

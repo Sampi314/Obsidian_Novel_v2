@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHÂN LOẠI TU SĨ & CON ĐƯỜNG TU LUYỆN (修士分類)</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <a href="../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+<h1>PHÂN LOẠI TU SĨ & CON ĐƯỜNG TU LUYỆN (修士分類)</h1>
+<br>
+<p>---</p>
+<br>
+<p>> <em>"Đại đạo tam thiên, tiểu đạo vô số. Mỗi người một đường, mỗi đường một cảnh. Chẳng có đạo nào tối ưu, chỉ có đạo nào hợp mệnh."</em></p>
+<p>> --- Cổ ngạn Cố Nguyên Giới</p>
+<br>
+<p>---</p>
+<br>
+<h2>I. TỔNG QUAN</h2>
+<br>
+<p>Trong Cố Nguyên Giới, con đường tu luyện vạn phái quy tông nhưng phương pháp muôn hình vạn trạng. Tu sĩ dựa theo căn cơ, tư chất, cơ duyên và tâm tính mà chọn con đường phù hợp. Đại thể chia thành hai trục chính:</p>
+<br>
+<ul>
+<li><strong>Theo Chính Tà:</strong> Chính Đạo (thuận thiên) và Ma Đạo (nghịch thiên).</li>
+<li><strong>Theo Chuyên Tu:</strong> Kiếm Tu, Đan Tu, Thể Tu, Phù Tu, Trận Tu, v.v.</li>
+</ul>
+<p>Hai trục này giao thoa với nhau --- một Kiếm Tu có thể theo Chính Đạo hoặc Ma Đạo; một Đan Tu có thể luyện Cứu Thế Đan hoặc Vạn Độc Đan. Con đường không quyết định thiện ác; tâm người mới phân chính tà.</p>
+<br>
+<p>---</p>
+<br>
+<h2>II. PHÂN LOẠI THEO CHÍNH TÀ</h2>
+<br>
+<h3>1. Chính Đạo (正道 - Orthodox Path)</h3>
+<br>
+<p><strong>Định nghĩa:</strong> Tu luyện thuận theo Thiên Đạo, lấy tự nhiên làm gốc, lấy đạo tâm làm nền, không dùng phương pháp tổn người lợi mình.</p>
+<br>
+<p><strong>Đặc điểm:</strong></p>
+<ul>
+<li>Tu luyện chậm rãi, ổn định, đạo cơ vững chắc.</li>
+<li>Linh lực thuần khiết, không mang tạp khí hay ma khí.</li>
+<li>Được thiên hạ tôn trọng, có thể nhận được Thiên Đạo cảm ứng khi đột phá.</li>
+<li>Tuân thủ quy tắc tông môn, trọng lễ nghĩa, giữ gìn danh dự.</li>
+</ul>
+<p><strong>Ưu điểm:</strong></p>
+<ul>
+<li>Đạo cơ kiên cố, tiềm năng phát triển dài hạn cao.</li>
+<li>Ít bị Tâm Ma quấy nhiễu (so với Ma Đạo).</li>
+<li>Được sự hỗ trợ của tông môn, đồng đạo, và tài nguyên chính thống.</li>
+<li>Kiếp Nạn khi đột phá tương đối "chuẩn mực", có thể chuẩn bị trước.</li>
+</ul>
+<p><strong>Nhược điểm:</strong></p>
+<ul>
+<li>Tốc độ tu luyện chậm hơn Ma Đạo đáng kể.</li>
+<li>Bị ràng buộc bởi quy tắc, khó hành sự linh hoạt.</li>
+<li>Đôi khi quá cứng nhắc, mất đi cơ duyên vì quá cẩn trọng.</li>
+</ul>
+<p><strong>Đại diện trong Cố Nguyên Giới:</strong></p>
+<ul>
+<li>Cửu Hoa Kiếm Tông (Đông Hoang) --- Kiếm Tu Chính Đạo.</li>
+<li>Đan Hà Cốc (Nam Cương) --- Đan Tu Chính Đạo.</li>
+<li>Huyền Băng Cung (Bắc Băng) --- Băng công Chính Đạo.</li>
+<li>Dược Vương Cốc (Trung Thổ) --- Y Tu Chính Đạo.</li>
+</ul>
+<p>---</p>
+<br>
+<h3>2. Ma Đạo (魔道 - Demonic Path)</h3>
+<br>
+<p><strong>Định nghĩa:</strong> Tu luyện nghịch Thiên Đạo, dùng phương pháp tàn nhẫn, tổn người lợi mình để tăng tốc tu vi. Hấp thụ tinh huyết, nguyên thần, hoặc sinh cơ của người khác làm dưỡng chất.</p>
+<br>
+<p><strong>Đặc điểm:</strong></p>
+<ul>
+<li>Tu luyện nhanh chóng, đột phá thần tốc nhưng đạo cơ bất ổn.</li>
+<li>Linh lực mang ma khí, tính hủy diệt cao nhưng khó kiểm soát.</li>
+<li>Bị chính đạo truy sát, phải ẩn mình hoạt động.</li>
+<li>Thường cô độc, đa nghi, ít có đồng đạo thật sự tin tưởng.</li>
+</ul>
+<p><strong>Ưu điểm:</strong></p>
+<ul>
+<li>Tốc độ tu luyện cực nhanh, có thể đạt cảnh giới cao trong thời gian ngắn.</li>
+<li>Không bị ràng buộc bởi quy tắc, hành sự linh hoạt, quyết đoán.</li>
+<li>Chiến lực chiến đấu thường mạnh hơn đồng cảnh giới chính đạo.</li>
+</ul>
+<p><strong>Nhược điểm:</strong></p>
+<ul>
+<li>Đạo cơ bất ổn, tiềm ẩn nguy cơ Tẩu Hỏa Nhập Ma.</li>
+<li>Tâm Ma cực mạnh, đặc biệt Sát Ma và Tham Ma.</li>
+<li>Kiếp Nạn khi đột phá mạnh hơn bình thường do tích lũy nghiệt sát.</li>
+<li>Tuổi thọ thường ngắn hơn đồng cảnh giới chính đạo.</li>
+<li>Khó đạt đến cảnh giới tối cao vì đạo cơ không vững.</li>
+</ul>
+<p><strong>Đại diện trong Cố Nguyên Giới:</strong></p>
+<ul>
+<li>Vạn Độc Môn (Nam Cương) --- Độc Tu Ma Đạo.</li>
+</ul>
+<p>#### Các nhánh Ma Đạo chính:</p>
+<br>
+<p>##### a. Huyết Tu (血修 - Blood Cultivator)</p>
+<ul>
+<li><strong>Mô tả:</strong> Hấp thụ tinh huyết chúng sinh để tăng cường tu vi. Dùng huyết tế, huyết trận, huyết chú để chiến đấu.</li>
+<li><strong>Đặc trưng:</strong> Thân thể đỏ như máu khi vận công, linh lực hệ Huyết có khả năng xâm thực và ăn mòn. Càng giết nhiều, tu vi càng mạnh.</li>
+<li><strong>Ưu điểm:</strong> Hồi phục cực nhanh (hút huyết hồi sinh), thân thể cường tráng, sát thương liên tục.</li>
+<li><strong>Nhược điểm:</strong> Cần giết chóc liên tục để duy trì tu vi, dễ mắc Sát Ma nghiêm trọng, bị chính đạo ghê tởm và truy sát. Huyết khí nồng nặc, không thể ẩn mình.</li>
+<li><strong>Khắc tinh:</strong> Hỏa Tu (lửa tịnh hóa huyết khí), Phật Tu (chính khí trấn áp tà huyết).</li>
+</ul>
+<p>##### b. Độc Tu (毒修 - Poison Cultivator)</p>
+<ul>
+<li><strong>Mô tả:</strong> Luyện vạn loại độc vào cơ thể, biến bản thân thành kho chứa kịch độc. Dùng độc vụ, độc trùng, độc đan chiến đấu.</li>
+<li><strong>Đặc trưng:</strong> Thân mang kịch độc, tiếp xúc gần có thể trúng độc. Da thường mang sắc lam hoặc lục nhạt. Nuôi Cổ Trùng trong thân thể.</li>
+<li><strong>Ưu điểm:</strong> Cực kỳ khó đối phó, giết người vô hình, kiểm soát chiến trường bằng độc vụ.</li>
+<li><strong>Nhược điểm:</strong> Bản thân cũng bị độc xâm, tuổi thọ giảm sút. Cô độc vì không ai dám đến gần. Cần liên tục tìm độc vật mới để tăng cường.</li>
+<li><strong>Đại diện:</strong> Độc Cô Lão Quái (Vạn Độc Môn) --- Hóa Thần Sơ Kỳ, sở hữu <em>Vạn Độc Chân Kinh</em>.</li>
+<li><strong>Khắc tinh:</strong> Y Tu/Dược Tu (giải độc), Đan Tu (luyện giải độc đan).</li>
+</ul>
+<p>##### c. Quỷ Tu (鬼修 - Ghost Cultivator)</p>
+<ul>
+<li><strong>Mô tả:</strong> Nuôi dưỡng và điều khiển vong hồn, quỷ vật để chiến đấu. Một số Quỷ Tu thậm chí tự biến mình thành bán quỷ.</li>
+<li><strong>Đặc trưng:</strong> Âm khí ngút trời, thường hoạt động ban đêm, nuôi Quỷ Phồn trong cơ thể. Có thể giao tiếp với vong linh.</li>
+<li><strong>Ưu điểm:</strong> Chiến đấu kiểu "nhân hải chiến thuật" bằng quỷ binh, đối phương khó phòng. Có thể thu thập thông tin từ vong linh.</li>
+<li><strong>Nhược điểm:</strong> Cực kỳ sợ lôi pháp và dương quang. Quỷ vật có thể phản chủ nếu kiểm soát không chặt. Nguyên thần dễ bị quỷ khí xâm thực.</li>
+<li><strong>Khắc tinh:</strong> Lôi Tu (sấm sét diệt quỷ), chính đạo cương dương chi khí.</li>
+</ul>
+<p>---</p>
+<br>
+<h3>3. Yêu Tu (妖修 - Monster Cultivation)</h3>
+<br>
+<p><strong>Định nghĩa:</strong> Yêu thú, linh thú, hoặc thảo mộc tu luyện thành tinh, khai mở linh trí, cuối cùng có thể hóa nhân hình. Không thuộc Chính cũng không thuộc Tà --- Yêu Tu đi theo bản năng và thiên phú chủng tộc.</p>
+<br>
+<p><strong>Đặc điểm:</strong></p>
+<ul>
+<li>Tu luyện dựa trên huyết mạch chủng tộc, thiên phú bẩm sinh.</li>
+<li>Phải vượt qua "Hóa Hình Kiếp" để biến thành nhân hình (thường tại Kim Đan Kỳ tương đương).</li>
+<li>Nhục thân cực kỳ cường hãn, mạnh hơn nhân tộc tu sĩ đồng cảnh giới.</li>
+<li>Có thần thông bẩm sinh theo chủng tộc (Long Tộc: mưa gió; Hổ yêu: sơn lâm chi lực).</li>
+</ul>
+<p><strong>Ưu điểm:</strong></p>
+<ul>
+<li>Thân thể thiên phú, nhục thân mạnh mẽ vượt trội.</li>
+<li>Thần thông bẩm sinh không cần học.</li>
+<li>Tuổi thọ tự nhiên dài hơn nhân tộc.</li>
+<li>Có thể đạt đến cảnh giới cực cao nếu huyết mạch cao quý (Long Tộc, Phượng Hoàng).</li>
+</ul>
+<p><strong>Nhược điểm:</strong></p>
+<ul>
+<li>Tu luyện chậm hơn nhân tộc (vì phải dùng thời gian hóa hình).</li>
+<li>Dễ bị nhân tộc tu sĩ lợi dụng lấy yêu đan, yêu cốt, yêu huyết.</li>
+<li>Hóa Hình Kiếp cực kỳ nguy hiểm, tỷ lệ thành công chỉ ~20%.</li>
+<li>Sau khi hóa hình, phải duy trì nhân hình liên tục, nếu bị trọng thương dễ lộ nguyên hình.</li>
+</ul>
+<p><strong>Liên hệ chủng tộc:</strong> Long Tộc, Yêu Tộc, các linh thú tu luyện đều thuộc dạng Yêu Tu.</p>
+<br>
+<p>---</p>
+<br>
+<h2>III. PHÂN LOẠI THEO CHUYÊN TU</h2>
+<br>
+<h3>1. Kiếm Tu (劍修 - Sword Cultivator)</h3>
+<br>
+<p>> <em>"Nhất kiếm tại thủ, vạn pháp giai phá. Kiếm chi đạo, tại vu chuyên nhất."</em></p>
+<p>> <em>(Một kiếm trong tay, vạn pháp đều phá. Đạo của kiếm, ở chỗ chuyên nhất.)</em></p>
+<br>
+<p><strong>Định nghĩa:</strong> Lấy kiếm làm đạo, lấy kiếm làm bạn đời, suốt đời tu luyện kiếm pháp. Kiếm Tu là con đường tu luyện phổ biến nhất và cũng khốc liệt nhất trong Cố Nguyên Giới.</p>
+<br>
+<p><strong>Đặc điểm tu luyện:</strong></p>
+<ul>
+<li>Nuôi dưỡng <strong>Kiếm Thai</strong> trong đan điền --- viên kiếm thai là kết tinh giữa linh lực và kiếm ý.</li>
+<li>Tu luyện <strong>Kiếm Ý (劍意)</strong> --- ý chí của kiếm, có thể thương người không cần rút kiếm.</li>
+<li>Đỉnh cao là <strong>Kiếm Đạo (劍道)</strong> --- kiếm ý thăng hoa thành quy tắc, vạn vật giai khả vi kiếm (vạn vật đều có thể là kiếm).</li>
+<li>Nhân kiếm hợp nhất, tu sĩ và bản mệnh kiếm linh hồn tương thông.</li>
+</ul>
+<p><strong>Các cấp bậc Kiếm Ý:</strong></p>
+<p>1. <strong>Kiếm Lực (劍力):</strong> Dùng sức vung kiếm, giai đoạn sơ cấp nhất.</p>
+<p>2. <strong>Kiếm Khí (劍氣):</strong> Phóng kiếm khí ra ngoài thân, sát thương từ xa.</p>
+<p>3. <strong>Kiếm Ý (劍意):</strong> Ý niệm hóa kiếm, vô hình vô tướng, thương người không cần kiếm thực.</p>
+<p>4. <strong>Kiếm Lĩnh Vực (劍域):</strong> Triển khai kiếm ý thành lĩnh vực, vạn kiếm quy tông.</p>
+<p>5. <strong>Kiếm Đạo (劍道):</strong> Kiếm trở thành quy tắc, hòa nhập thiên đạo.</p>
+<br>
+<p><strong>Ưu điểm:</strong></p>
+<ul>
+<li>Công kích lực mạnh nhất trong các con đường --- "Kiếm Tu đồng cảnh giới, chiến lực đệ nhất."</li>
+<li>Tốc độ cực nhanh, sát thương điểm cực cao.</li>
+<li>Kiếm ý có thể phá mọi phòng ngự, kể cả trận pháp.</li>
+<li>Đạo tâm kiên định (vì tu luyện kiếm đòi hỏi ý chí sắt đá).</li>
+</ul>
+<p><strong>Nhược điểm:</strong></p>
+<ul>
+<li>Phòng ngự yếu, dễ bị công kích diện rộng áp chế.</li>
+<li>Quá chuyên nhất, thiếu linh hoạt trong nhiều tình huống.</li>
+<li>Tiêu hao linh lực lớn khi thi triển kiếm thuật cấp cao.</li>
+<li>Nếu mất bản mệnh kiếm, tu vi suy giảm nghiêm trọng.</li>
+</ul>
+<p><strong>Đại diện:</strong></p>
+<ul>
+<li><strong>Diệp Tĩnh Sương</strong> (Cửu Hoa Kiếm Tông) --- Hàn Mai Kiếm, <em>Hàn Mai Kiếm Quyết</em>.</li>
+<li><strong>Sở Lăng Sương</strong> --- Băng Phách Kiếm, <em>Hàn Sương Kiếm Quyết</em>.</li>
+<li><strong>Hàn Thanh Nguyệt</strong> --- Tàn Nguyệt Kiếm, <em>Tàn Nguyệt Kiếm Quyết</em>.</li>
+<li><strong>Triệu Thanh Hằng</strong> --- Hàn Sương Khách, <em>Lãnh Phong Kiếm Quyết</em>.</li>
+</ul>
+<p>---</p>
+<br>
+<h3>2. Đan Tu (丹修 - Alchemy Cultivator)</h3>
+<br>
+<p>> <em>"Luyện đan như luyện tâm, hỏa hầu chính là đạo tâm."</em></p>
+<br>
+<p><strong>Định nghĩa:</strong> Lấy luyện đan làm đạo, nghiên cứu dược lý, đan phương, hỏa hầu. Đan Tu vừa là chiến đấu giả vừa là hậu cần gia, vị thế cực cao trong tu tiên giới.</p>
+<br>
+<p><strong>Đặc điểm tu luyện:</strong></p>
+<ul>
+<li>Nuôi dưỡng <strong>Đan Hỏa</strong> trong đan điền --- ngọn lửa đặc biệt dùng để luyện đan và chiến đấu.</li>
+<li>Tu luyện <strong>Dược Lý (藥理)</strong> --- hiểu rõ vạn vật dược tính, có thể nhận biết linh thảo chỉ bằng một lần ngửi.</li>
+<li>Rèn luyện <strong>Hỏa Hầu (火候)</strong> --- kiểm soát nhiệt độ đan lô, sai một ly đi một dặm.</li>
+<li>Cảnh giới cao nhất: <strong>Đan Đạo Hợp Nhất</strong> --- đan dược luyện ra mang theo đạo vận, có thể cải tử hoàn sinh.</li>
+</ul>
+<p><strong>Cấp bậc Đan Sư:</strong></p>
+<p>1. <strong>Sơ Cấp Đan Sư:</strong> Luyện được Hạ Phẩm đan dược (Linh Khí Đan, Hồi Phục Đan).</p>
+<p>2. <strong>Trung Cấp Đan Sư:</strong> Luyện được Trung Phẩm đan dược (Trúc Cơ Đan, Kim Đan Phá Chướng Đan).</p>
+<p>3. <strong>Cao Cấp Đan Sư:</strong> Luyện được Thượng Phẩm đan dược (Nguyên Anh Đan, Thọ Nguyên Đan).</p>
+<p>4. <strong>Đan Tông (丹宗):</strong> Luyện được Cực Phẩm đan dược, đan thành tự nhiên sinh thiên kiếp.</p>
+<p>5. <strong>Đan Thánh (丹聖):</strong> Truyền thuyết, luyện đan có thể cải biến thiên đạo.</p>
+<br>
+<p><strong>Ưu điểm:</strong></p>
+<ul>
+<li>Vị thế xã hội cực cao --- mọi tu sĩ đều cần đan dược.</li>
+<li>Tự cung tự cấp đan dược, không lo thiếu tài nguyên.</li>
+<li>Đan Hỏa có thể dùng chiến đấu, uy lực không thua pháp thuật.</li>
+<li>Hiểu rõ dược tính, có thể hạ độc hoặc giải độc tùy ý.</li>
+<li>Thu nhập cực kỳ phong phú nhờ bán đan dược.</li>
+</ul>
+<p><strong>Nhược điểm:</strong></p>
+<ul>
+<li>Chiến đấu trực diện yếu hơn Kiếm Tu và Thể Tu.</li>
+<li>Cần tiêu tốn cực nhiều tài nguyên (linh thảo, đan lô, địa hỏa).</li>
+<li>Thời gian tu luyện bị chia sẻ cho việc luyện đan, tiến cảnh chậm hơn.</li>
+<li>Luyện đan thất bại có thể gây nổ lô, thương vong nghiêm trọng.</li>
+</ul>
+<p><strong>Đại diện:</strong></p>
+<ul>
+<li><strong>Đan Dương Tử</strong> (Đan Hà Cốc) --- Hỏa Long Tôn Giả, Hóa Thần Sơ Kỳ, <em>Cửu Chuyển Đan Hỏa Quyết</em>.</li>
+</ul>
+<p>---</p>
+<br>
+<h3>3. Thể Tu (體修 - Body Cultivator)</h3>
+<br>
+<p>> <em>"Nhất quyền phá sơn, nhất cước chấn địa. Thể tu chi đạo, dĩ thân vi khí."</em></p>
+<p>> <em>(Một quyền phá núi, một cước chấn đất. Đạo của thể tu, lấy thân làm khí.)</em></p>
+<br>
+<p><strong>Định nghĩa:</strong> Lấy rèn luyện nhục thân làm chính, đưa thân thể đến cực hạn, biến bản thân thành pháp bảo mạnh nhất. Thể Tu không dựa vào pháp bảo hay pháp thuật, mà dùng song quyền phá vạn pháp.</p>
+<br>
+<p><strong>Đặc điểm tu luyện:</strong></p>
+<ul>
+<li>Dùng phương pháp cực đoan rèn luyện nhục thân: ngâm mình trong dược dịch, chịu đựng sấm sét, rèn xương đúc cốt.</li>
+<li>Tu luyện <strong>Thể Thuật (體術)</strong> --- quyền pháp, cước pháp, chỉ pháp, trảo pháp.</li>
+<li>Cảnh giới nhục thân: Đồng Bì → Thiết Cốt → Kim Thân → Kim Cương Bất Hoại → Thánh Thể.</li>
+</ul>
+<p><strong>Ưu điểm:</strong></p>
+<ul>
+<li>Nhục thân cường hãn, phòng ngự tự nhiên cực mạnh.</li>
+<li>Không sợ mất pháp bảo, bản thân chính là vũ khí.</li>
+<li>Chiến đấu cận chiến vô địch, một quyền có thể ngang một kiếm.</li>
+<li>Sinh mệnh lực dồi dào, hồi phục nhanh, khó bị giết.</li>
+<li>Kiếp Nạn nhục thân dễ vượt qua hơn các con đường khác.</li>
+</ul>
+<p><strong>Nhược điểm:</strong></p>
+<ul>
+<li>Cần tài nguyên cực lớn để rèn luyện nhục thân (dược dịch, linh thạch, thiên tài địa bảo).</li>
+<li>Tốc độ tu luyện chậm nhất trong các con đường.</li>
+<li>Thiếu khả năng tấn công tầm xa, dễ bị đối phương giữ khoảng cách.</li>
+<li>Pháp thuật và thần thông yếu, phụ thuộc hoàn toàn vào cận chiến.</li>
+<li>Đau đớn cực độ trong quá trình rèn luyện, ý chí yếu không chịu nổi.</li>
+</ul>
+<p><strong>Liên hệ chủng tộc:</strong> Cự Tộc, Thạch Tộc là những chủng tộc thiên phú Thể Tu bẩm sinh.</p>
+<br>
+<p>---</p>
+<br>
+<h3>4. Phù Tu (符修 - Talisman Cultivator)</h3>
+<br>
+<p>> <em>"Nhất bút nhất họa, thiên biến vạn hóa. Phù chiếu thiên đạo, mặc nhiễm càn khôn."</em></p>
+<p>> <em>(Một bút một vạch, thiên biến vạn hóa. Phù chiếu thiên đạo, mực nhuộm càn khôn.)</em></p>
+<br>
+<p><strong>Định nghĩa:</strong> Chuyên nghiên cứu và vẽ phù lục (bùa chú) để chiến đấu, phòng ngự, trị liệu, và hỗ trợ. Phù Tu dùng bút thay kiếm, dùng mực thay linh lực, vẽ ra vạn pháp trên giấy.</p>
+<br>
+<p><strong>Đặc điểm tu luyện:</strong></p>
+<ul>
+<li>Tu luyện <strong>Phù Đạo (符道)</strong> --- nghiên cứu các loại phù văn cổ đại, ký hiệu thiên đạo.</li>
+<li>Nuôi dưỡng <strong>Linh Bút</strong> và <strong>Linh Mực</strong> --- bút và mực đặc biệt có thể chứa linh lực.</li>
+<li>Vẽ phù cần tập trung tinh thần cực độ, sai một nét thì phù vô dụng hoặc nổ tung.</li>
+<li>Cảnh giới Phù Sư: Sơ Cấp → Trung Cấp → Cao Cấp → Phù Tông → Phù Thánh.</li>
+</ul>
+<p><strong>Phân loại phù lục:</strong></p>
+<ul>
+<li><strong>Công Kích Phù:</strong> Hỏa Phù, Lôi Phù, Kiếm Phù --- kích hoạt là phóng ra pháp thuật.</li>
+<li><strong>Phòng Ngự Phù:</strong> Hộ Thể Phù, Kết Giới Phù --- tạo lá chắn bảo vệ.</li>
+<li><strong>Hỗ Trợ Phù:</strong> Gia Tốc Phù, Ẩn Thân Phù, Thanh Tâm Phù --- tăng cường năng lực.</li>
+<li><strong>Đặc Thù Phù:</strong> Truyền Tống Phù, Không Gian Phù --- phù lục cao cấp hiếm thấy.</li>
+</ul>
+<p><strong>Ưu điểm:</strong></p>
+<ul>
+<li>Cực kỳ linh hoạt, có phù cho mọi tình huống.</li>
+<li>Có thể chuẩn bị trước, "tàng phù vu thân, cần tức kích phát" (giấu phù trong người, cần thì kích hoạt).</li>
+<li>Phù lục có thể bán hoặc trao đổi, thu nhập tốt.</li>
+<li>Một Phù Tu mạnh có thể dán phù lên không gian, tạo thành trận pháp di động.</li>
+</ul>
+<p><strong>Nhược điểm:</strong></p>
+<ul>
+<li>Phù lục dùng một lần là mất, cần liên tục vẽ phù bổ sung.</li>
+<li>Tốn cực nhiều tài nguyên (phù chỉ, linh mực, linh bút đều là vật phẩm quý).</li>
+<li>Chiến đấu trường kỳ bất lợi vì phù lục có giới hạn số lượng.</li>
+<li>Cần thời gian vẽ phù, không thể ứng biến tức thì trong chiến đấu.</li>
+</ul>
+<p><strong>Liên hệ vật phẩm:</strong> Băng Phong Phù (Cấp 3) --- Phù lục phong ấn mục tiêu trong băng.</p>
+<br>
+<p>---</p>
+<br>
+<h3>5. Trận Tu (陣修 - Formation Cultivator)</h3>
+<br>
+<p>> <em>"Bất chiến nhi khuất nhân chi binh, thiện chi thiện giả dã. Trận pháp sư, lấy trí tuệ làm kiếm."</em></p>
+<br>
+<p><strong>Định nghĩa:</strong> Chuyên nghiên cứu và bày trận pháp --- hệ thống phức tạp kết hợp linh mạch, trận kỳ, trận bàn và linh lực để tạo ra hiệu ứng đặc biệt trên diện rộng.</p>
+<br>
+<p><strong>Đặc điểm tu luyện:</strong></p>
+<ul>
+<li>Tu luyện <strong>Trận Đạo (陣道)</strong> --- nghiên cứu quy luật vận hành của thiên địa, tìm ra cách "mượn thế" thiên nhiên.</li>
+<li>Cần nắm vững <strong>phong thủy, linh mạch, ngũ hành tương sinh tương khắc</strong>.</li>
+<li>Trận pháp càng phức tạp, uy lực càng lớn, nhưng cũng càng khó bày.</li>
+<li>Cảnh giới Trận Sư: Sơ Cấp → Trung Cấp → Cao Cấp → Trận Tông → Trận Thánh.</li>
+</ul>
+<p><strong>Phân loại trận pháp:</strong></p>
+<ul>
+<li><strong>Hộ Sơn Đại Trận:</strong> Bảo vệ tông môn, uy lực cực lớn nhưng cố định.</li>
+<li><strong>Sát Trận:</strong> Khốn giết đối phương trong trận, càng vùng vẫy càng lún sâu.</li>
+<li><strong>Ảo Trận:</strong> Mê hoặc đối phương, khiến phân không rõ thực hư.</li>
+<li><strong>Tụ Linh Trận:</strong> Thu hút linh khí, dùng cho tu luyện hoặc luyện đan.</li>
+<li><strong>Truyền Tống Trận:</strong> Di chuyển tức thì giữa hai điểm.</li>
+</ul>
+<p><strong>Ưu điểm:</strong></p>
+<ul>
+<li>Có thể "dĩ nhất địch bách" --- một Trận Tu trong trận pháp có thể đối kháng hàng trăm tu sĩ.</li>
+<li>Phòng ngự tuyệt đối khi ở trong trận pháp của mình.</li>
+<li>Hỗ trợ tông môn cực kỳ quan trọng, vị thế cao.</li>
+<li>Kết hợp với mọi con đường khác đều hiệu quả.</li>
+</ul>
+<p><strong>Nhược điểm:</strong></p>
+<ul>
+<li>Cần thời gian bày trận, không thể ứng biến tức thì.</li>
+<li>Rời khỏi trận pháp, Trận Tu trở nên yếu ớt.</li>
+<li>Cần cực nhiều vật liệu quý hiếm (trận kỳ, trận bàn, linh thạch).</li>
+<li>Kiến thức yêu cầu cực kỳ uyên bác, số người có tài năng rất ít.</li>
+</ul>
+<p><strong>Đại diện trận pháp trong Cố Nguyên Giới:</strong></p>
+<ul>
+<li>Cửu Hoa Tru Tiên Trận (Cửu Hoa Kiếm Tông).</li>
+<li>Vạn Hỏa Phần Thiên Trận (Đan Hà Cốc).</li>
+<li>Cửu Thiên Hàn Băng Trận (Huyền Băng Cung).</li>
+<li>Vạn Độc Phệ Tâm Trận (Vạn Độc Môn).</li>
+<li>Vạn Mộc Hồi Xuân Trận (Dược Vương Cốc).</li>
+</ul>
+<p>---</p>
+<br>
+<h3>6. Y Tu / Dược Tu (醫修 / 藥修 - Medical / Herb Cultivator)</h3>
+<br>
+<p>> <em>"Cứu nhất nhân, thắng tạo thất cấp phù đồ."</em></p>
+<p>> <em>(Cứu một người, hơn xây bảy tầng tháp.)</em></p>
+<br>
+<p><strong>Định nghĩa:</strong> Lấy y thuật và dược lý làm đạo, chuyên cứu chữa thương tích, giải trừ kỳ độc, phục hồi kinh mạch. Y Tu khác Đan Tu ở chỗ lấy cứu người làm chính, luyện đan làm phụ.</p>
+<br>
+<p><strong>Đặc điểm tu luyện:</strong></p>
+<ul>
+<li>Tu luyện <strong>Y Đạo (醫道)</strong> --- thấu hiểu nhân thể kinh mạch, vận hành linh lực, nguyên thần cấu trúc.</li>
+<li>Linh lực mang tính <strong>Sinh (生)</strong> --- có thể hồi phục, tái tạo, trị liệu.</li>
+<li>Nghiên cứu vạn loại thảo dược, kỳ vật, khoáng thạch có dược tính.</li>
+<li>Cảnh giới: Y Đồ → Y Sư → Đại Y Sư → Y Tông → Thần Y.</li>
+</ul>
+<p><strong>Ưu điểm:</strong></p>
+<ul>
+<li>Vị thế xã hội cao nhất --- "kẻ cứu mạng, ai dám đắc tội?"</li>
+<li>Tự chữa trị bản thân, sinh tồn lực cực mạnh.</li>
+<li>Linh lực hệ Sinh có thể dùng phòng ngự và hồi phục trong chiến đấu.</li>
+<li>Mọi thế lực đều muốn chiêu mộ, không sợ thiếu tài nguyên.</li>
+</ul>
+<p><strong>Nhược điểm:</strong></p>
+<ul>
+<li>Chiến đấu công kích lực yếu nhất trong các con đường.</li>
+<li>Dễ bị uy hiếp, bắt cóc để phục vụ kẻ mạnh.</li>
+<li>Tu luyện chậm vì dành nhiều thời gian cho y thuật.</li>
+<li>Đạo tâm thường bị thử thách: cứu ai, không cứu ai, cứu kẻ ác hay để mặc?</li>
+</ul>
+<p><strong>Đại diện:</strong></p>
+<ul>
+<li><strong>Diệp Thanh Y</strong> (Dược Vương Cốc) --- Dược Tôn, Hóa Thần Sơ Kỳ, <em>Thanh Nang Trường Sinh Quyết</em>.</li>
+</ul>
+<p>---</p>
+<br>
+<h2>IV. BẢNG TƯƠNG SINH TƯƠNG KHẮC</h2>
+<br>
+<p>Các con đường tu luyện có mối quan hệ khắc chế và bổ trợ lẫn nhau, tạo nên sự cân bằng trong tu tiên giới.</p>
+<br>
+<h3>Bảng Khắc Chế (Tương Khắc)</h3>
+<br>
+<table>
+<thead><tr>
+<th>Con Đường</th>
+<th>Bị Khắc Bởi</th>
+<th>Khắc Chế</th>
+<th>Lý Do</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Kiếm Tu</td>
+<td>Trận Tu</td>
+<td>Phù Tu</td>
+<td>Kiếm phá phù dễ dàng; trận pháp khốn kiếm tu trong mê cung</td>
+</tr>
+<tr>
+<td>Đan Tu</td>
+<td>Kiếm Tu</td>
+<td>Độc Tu</td>
+<td>Đan hỏa tịnh hóa kịch độc; kiếm tu đánh nhanh không cho Đan Tu chuẩn bị</td>
+</tr>
+<tr>
+<td>Thể Tu</td>
+<td>Độc Tu</td>
+<td>Kiếm Tu</td>
+<td>Thể tu nhục thân cường, kiếm khó xuyên thủng; độc xâm nhập bên trong</td>
+</tr>
+<tr>
+<td>Phù Tu</td>
+<td>Kiếm Tu</td>
+<td>Trận Tu</td>
+<td>Kiếm khí phá phù; phù lục là cơ sở của trận pháp</td>
+</tr>
+<tr>
+<td>Trận Tu</td>
+<td>Thể Tu</td>
+<td>Kiếm Tu</td>
+<td>Thể tu phá trận bằng sức mạnh thuần túy; trận pháp khốn kiếm tu</td>
+</tr>
+<tr>
+<td>Độc Tu</td>
+<td>Đan Tu / Y Tu</td>
+<td>Thể Tu</td>
+<td>Y Đan giải độc; độc xâm nhập nội tạng thể tu</td>
+</tr>
+<tr>
+<td>Huyết Tu</td>
+<td>Hỏa công / Đan Tu</td>
+<td>Thể Tu</td>
+<td>Hỏa tịnh huyết; huyết thuật hút sinh cơ thể tu</td>
+</tr>
+<tr>
+<td>Quỷ Tu</td>
+<td>Lôi pháp / Kiếm Tu</td>
+<td>Phù Tu</td>
+<td>Sấm sét diệt quỷ; quỷ vật phá phù</td>
+</tr>
+<tr>
+<td>Y Tu</td>
+<td>Kiếm Tu / Ma Đạo</td>
+<td>Độc Tu</td>
+<td>Công kích trực diện Y Tu yếu; Y Đạo giải mọi độc</td>
+</tr>
+</tbody>
+</table>
+<br>
+<h3>Bảng Bổ Trợ (Tương Sinh)</h3>
+<br>
+<table>
+<thead><tr>
+<th>Kết Hợp</th>
+<th>Hiệu Quả</th>
+<th>Ví Dụ</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Kiếm Tu + Trận Tu</td>
+<td>Kiếm trận kết hợp, uy lực bội tăng</td>
+<td>Cửu Hoa Tru Tiên Trận (Cửu Hoa Kiếm Tông)</td>
+</tr>
+<tr>
+<td>Đan Tu + Y Tu</td>
+<td>Luyện đan trị bệnh, cứu tử phù thương</td>
+<td>Dược Vương Cốc kết hợp y dược</td>
+</tr>
+<tr>
+<td>Thể Tu + Kiếm Tu</td>
+<td>Kiếm thể song tu, công thủ toàn diện</td>
+<td>Cực hiếm nhưng cực mạnh</td>
+</tr>
+<tr>
+<td>Phù Tu + Trận Tu</td>
+<td>Phù trận nhất thể, bày trận nhanh chóng</td>
+<td>Phù lục là trận kỳ, vẽ phù thành trận</td>
+</tr>
+<tr>
+<td>Đan Tu + Trận Tu</td>
+<td>Trận pháp hỗ trợ luyện đan, tăng phẩm chất</td>
+<td>Vạn Hỏa Phần Thiên Trận (Đan Hà Cốc)</td>
+</tr>
+<tr>
+<td>Độc Tu + Quỷ Tu</td>
+<td>Độc quỷ song tu, quỷ vật mang độc</td>
+<td>Cực kỳ tà ác, bị chính đạo ghê tởm</td>
+</tr>
+</tbody>
+</table>
+<br>
+<p>---</p>
+<br>
+<h2>V. BẢNG TỔNG HỢP</h2>
+<br>
+<table>
+<thead><tr>
+<th>Con Đường</th>
+<th>Hệ</th>
+<th>Công Kích</th>
+<th>Phòng Ngự</th>
+<th>Tốc Độ Tu</th>
+<th>Linh Hoạt</th>
+<th>Tài Nguyên</th>
+<th>Vị Thế</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Kiếm Tu</td>
+<td>Chính/Ma</td>
+<td>★★★★★</td>
+<td>★★</td>
+<td>★★★</td>
+<td>★★</td>
+<td>★★★</td>
+<td>★★★★</td>
+</tr>
+<tr>
+<td>Đan Tu</td>
+<td>Chính/Ma</td>
+<td>★★★</td>
+<td>★★★</td>
+<td>★★</td>
+<td>★★★★</td>
+<td>★★★★★</td>
+<td>★★★★★</td>
+</tr>
+<tr>
+<td>Thể Tu</td>
+<td>Trung Lập</td>
+<td>★★★★</td>
+<td>★★★★★</td>
+<td>★</td>
+<td>★★</td>
+<td>★★★★★</td>
+<td>★★★</td>
+</tr>
+<tr>
+<td>Phù Tu</td>
+<td>Chính/Ma</td>
+<td>★★★</td>
+<td>★★★</td>
+<td>★★★</td>
+<td>★★★★★</td>
+<td>★★★★</td>
+<td>★★★</td>
+</tr>
+<tr>
+<td>Trận Tu</td>
+<td>Chính/Ma</td>
+<td>★★★★ (trong trận)</td>
+<td>★★★★★ (trong trận)</td>
+<td>★★</td>
+<td>★★</td>
+<td>★★★★</td>
+<td>★★★★</td>
+</tr>
+<tr>
+<td>Y Tu</td>
+<td>Chính</td>
+<td>★</td>
+<td>★★★</td>
+<td>★★</td>
+<td>★★★</td>
+<td>★★★</td>
+<td>★★★★★</td>
+</tr>
+<tr>
+<td>Huyết Tu</td>
+<td>Ma</td>
+<td>★★★★</td>
+<td>★★★</td>
+<td>★★★★★</td>
+<td>★★★</td>
+<td>★ (cần huyết)</td>
+<td>★</td>
+</tr>
+<tr>
+<td>Độc Tu</td>
+<td>Ma</td>
+<td>★★★★</td>
+<td>★★</td>
+<td>★★★★</td>
+<td>★★★★</td>
+<td>★★★</td>
+<td>★</td>
+</tr>
+<tr>
+<td>Quỷ Tu</td>
+<td>Ma</td>
+<td>★★★</td>
+<td>★★</td>
+<td>★★★★</td>
+<td>★★★</td>
+<td>★★</td>
+<td>★</td>
+</tr>
+<tr>
+<td>Yêu Tu</td>
+<td>Trung Lập</td>
+<td>★★★★</td>
+<td>★★★★</td>
+<td>★★</td>
+<td>★★★</td>
+<td>★★</td>
+<td>★★</td>
+</tr>
+</tbody>
+</table>
+<br>
+<p><em>Ghi chú: ★ = Thấp nhất, ★★★★★ = Cao nhất. Đánh giá mang tính tương đối.</em></p>
+<br>
+<p>---</p>
+<br>
+<h2>VI. ĐẶC THÙ KỶ NGUYÊN KHỞI NGUYÊN</h2>
+<br>
+<p>Trong Kỷ Nguyên Khởi Nguyên, các con đường tu luyện chưa được hệ thống hóa rõ ràng:</p>
+<br>
+<ul>
+<li><strong>Ranh giới Chính-Tà mờ nhạt:</strong> Chưa có quy ước rõ ràng về chính đạo và ma đạo. Nhiều phương pháp sau này bị coi là "tà đạo" thì tại thời đại này được chấp nhận.</li>
+<li><strong>Các con đường chưa phân hóa rõ:</strong> Tu sĩ thường kiêm tu nhiều đạo (vừa luyện kiếm vừa luyện đan vừa bày trận). Chuyên tu một đạo duy nhất là hiện tượng hiếm.</li>
+<li><strong>Yêu Tu thịnh hành:</strong> Các chủng tộc phi nhân (Long Tộc, Yêu Tộc) chiếm đa số cường giả. Nhân Tộc tu sĩ còn đang trong giai đoạn phát triển.</li>
+<li><strong>Thể Tu phổ biến:</strong> Do linh khí hỗn loạn, nhiều tu sĩ chọn rèn luyện nhục thân vì an toàn hơn dẫn linh khí nhập thể trực tiếp.</li>
+<li><strong>Đan Tu sơ khai:</strong> Đan đạo mới bắt đầu phát triển, đan phương còn thô sơ, đan lô thô kệch. Đan Hà Cốc đang trong giai đoạn sáng lập, tích lũy kinh nghiệm.</li>
+<li><strong>Trận Tu hiếm hoi:</strong> Trận Đạo đòi hỏi kiến thức uyên bác về quy tắc thiên đạo, mà Thiên Đạo Kỷ Nguyên Khởi Nguyên chưa hoàn thiện, nên Trận Tu rất hiếm và trận pháp thường không ổn định.</li>
+</ul>
+<p>---</p>
+<br>
+<p>> <em>"Vạn đạo quy nhất, thù đồ đồng quy. Bất luận kiếm, đan, thể, phù --- đạo tâm kiên định, tắc đại đạo khả kỳ."</em></p>
+<p>> <em>(Vạn đạo quy về một, đường khác nhau mà đích đến giống nhau. Bất luận kiếm, đan, thể, phù --- đạo tâm kiên định, thì đại đạo có thể mong.)</em></p>
+<br>
+<p>---</p>
+<br>
+<p><strong>Liên kết:</strong></p>
+<ul>
+<li>[[Hệ_Thống_Cảnh_Giới]] --- Chi tiết 9 đại cảnh giới</li>
+<li>[[Tâm_Ma_Kiếp_Nạn]] --- Tâm Ma & Kiếp Nạn chi tiết</li>
+<li>[[HỒ_SƠ_THẾ_GIỚI]] --- Tổng quan Cố Nguyên Giới</li>
+</ul>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>
