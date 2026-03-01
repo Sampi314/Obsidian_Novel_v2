@@ -361,3 +361,7 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Trận tử chiến cuối cùng tại Đầm Lầy Tử Thần. Nhóm Diệp Tĩnh Sương phối hợp cùng Sở Lăng Sương chống lại Vạn Độc Thân của Lệ Vô Tâm. Lâm Phong bắn vỡ khối Huyết Tinh thạch, phá hủy Mắt Trận chính và giải trừ Vạn Độc Huyết Tế Đại Trận. Lệ Vô Tâm bị Thiên Tinh Mẫu Cổ phản phệ, mất đi sức mạnh, nhưng trước khi bị kết liễu, hắn được thế lực bí ẩn (Huyết Sát Minh) cứu thoát. Arc 3 chính thức khép lại.
 - **Tình trạng:** Hoàn thành.
+
+## Phân Cảnh Arc 4: Huyết Sát Tại Trung Tâm
+- **Góc Nhìn Chính (Chương 89):** Diệp Tĩnh Sương, Lâm Phong, và Sở Lăng Sương đã dùng Hàn Mai Kiếm, cung thuật, cùng Băng Phách Kiếm tiêu diệt bọn sát thủ. Lâm Phong đã nhận diện đúng "mắt xích" trận pháp để phá Huyết Sát Trận của chúng, cuối cùng nhận ra kẻ đứng sau có tham vọng xâm nhập mạnh mẽ ở Trung Tâm. Hành trình tiếp tục.
+- **Góc Nhìn Lệ Vô Tâm (Chương 83):** Lệ Vô Tâm nhận được một chiếc hộp ngọc "Huyết Tinh Oán Linh" từ Huyết Tước. Nhiệm vụ là đem đưa tận tay Lục Trần - Trưởng Lão Ngoại Môn (một người của Minh Chủ cài vào Cửu Hoa Kiếm Tông), nhằm làm suy yếu trận pháp hộ sơn.

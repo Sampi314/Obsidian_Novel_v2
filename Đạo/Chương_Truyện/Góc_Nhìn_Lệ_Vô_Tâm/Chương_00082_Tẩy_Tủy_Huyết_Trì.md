@@ -8,7 +8,6 @@ description: "Lệ Vô Tâm trải qua quá trình hấp thụ Huyết Tinh Nguy
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-
 # Chương 82: Tẩy Tủy Huyết Trì
 
 **Tác giả:** Tổng Quản (Jules)

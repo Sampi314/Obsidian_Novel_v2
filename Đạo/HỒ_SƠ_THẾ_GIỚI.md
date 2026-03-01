@@ -158,6 +158,7 @@
         - [Chương 80: Kết Cục Phệ Hồn](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00080_Kết_Cục_Phệ_Hồn.md)
         - [Chương 81: Bí Cảnh Huyết Sát](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00081_Bí_Cảnh_Huyết_Sát.md)
         - [Chương 82: Tẩy Tủy Huyết Trì](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00082_Tẩy_Tủy_Huyết_Trì.md)
+        - [Chương 83: Sứ Mệnh Trung Tâm](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00083_Sứ_Mệnh_Trung_Tâm.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -180,6 +181,7 @@
         - [Chương 86: Trảm Độc Kiếm Tâm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00086_Trảm_Độc_Kiếm_Tâm.md)
         - [Chương 87: Hành Trình Mới](Chương_Truyện/Góc_Nhìn_Chính/Chương_00087_Hành_Trình_Mới.md)
         - [Chương 88: Đường Tới Cửu Hoa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00088_Đường_Tới_Cửu_Hoa.md)
+        - [Chương 89: Huyết Sát Chặn Đường](Chương_Truyện/Góc_Nhìn_Chính/Chương_00089_Huyết_Sát_Chặn_Đường.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)

@@ -8,7 +8,6 @@ description: "Diệp Tĩnh Sương, Lâm Phong và Sở Lăng Sương rời Đ�
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-
 # Chương 87: Hành Trình Mới
 
 Sương mù đỏ rực đặc quánh của Vạn Độc Huyết Tế Đại Trận cuối cùng cũng tan biến, để lộ bầu trời xanh thẳm quang đãng trên đỉnh Đầm Lầy Tử Thần. Những tia nắng đầu tiên của ngày mới xuyên qua kẽ lá, chiếu rọi xuống mặt đất lầy lội đầy rẫy dấu tích của một đêm tử chiến kinh hoàng. Xác của những Huyết Thi vương vãi khắp nơi, bắt đầu phân hủy nhanh chóng dưới ánh mặt trời, bốc lên thứ mùi hôi thối đặc trưng của tử khí bị tịnh hóa.

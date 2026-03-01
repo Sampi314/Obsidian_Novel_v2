@@ -363,6 +363,14 @@ window.chapterData = {
       "title": "Chương 87: Hành Trình Mới"
     },
     {
+      "filename": "Chương_00088_Đường_Tới_Cửu_Hoa.md",
+      "title": "Chương 88: Đường Tới Cửu Hoa"
+    },
+    {
+      "filename": "Chương_00089_Huyết_Sát_Chặn_Đường.md",
+      "title": "Chương 89: Huyết Sát Chặn Đường"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -733,6 +741,14 @@ window.chapterData = {
     {
       "filename": "Chương_00081_Bí_Cảnh_Huyết_Sát.md",
       "title": "Chương 81: Bí Cảnh Huyết Sát"
+    },
+    {
+      "filename": "Chương_00082_Tẩy_Tủy_Huyết_Trì.md",
+      "title": "Chương 82: Tẩy Tủy Huyết Trì"
+    },
+    {
+      "filename": "Chương_00083_Sứ_Mệnh_Trung_Tâm.md",
+      "title": "Chương 83: Sứ Mệnh Trung Tâm"
     }
   ]
 };

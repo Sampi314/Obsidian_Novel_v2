@@ -88,4 +88,5 @@
 - [Chương 86: Trảm Độc Kiếm Tâm](Chương_00086_Trảm_Độc_Kiếm_Tâm.md)
 - [Chương 87: Hành Trình Mới](Chương_00087_Hành_Trình_Mới.md)
 - [Chương 88: Đường Tới Cửu Hoa](Chương_00088_Đường_Tới_Cửu_Hoa.md)
+- [Chương 89: Huyết Sát Chặn Đường](Chương_00089_Huyết_Sát_Chặn_Đường.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)
