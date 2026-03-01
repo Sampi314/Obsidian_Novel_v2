@@ -377,3 +377,11 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Tĩnh Sương và Lâm Phong được Lăng Sương đưa lên Thiên Hoa Phong tham gia Hội Nghị Thượng Đỉnh với Đại Trưởng Lão Thanh Hư. Bọn họ vạch trần Lục Trần là tay trong của Huyết Sát Minh và cảnh báo nguy cơ lớn đang đe dọa Cửu Hoa Kiếm Tông. Trong khi đó, Lệ Vô Tâm đã quay lại đại bản doanh Huyết Sát Minh - hạm đội Huyết Vân Chu đang lơ lửng trên mây đen - hội báo với Huyết Tước. Hắn kích hoạt hệ thống mười hai "Huyết Tinh Phù" quanh Cửu Hoa Sơn, làm mục tiêu ngắm bắn. Đại quân Huyết Sát khai hỏa, cuộc oanh tạc kinh hoàng giáng xuống phá vỡ phòng tuyến Hộ Sơn Đại Trận.
 - **Tình trạng:** Hoàn thành. Trận chiến lớn tại Cửu Hoa Kiếm Tông chính thức khai màn.
+
+## Phiên làm việc: Viết Chương 94 (Góc Nhìn Chính) & Chương 88 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 94:** Bão Táp Cửu Hoa
+- **Chương 88:** Cuộc Thảm Sát Bắt Đầu
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Cửu Hoa Tru Tiên Trận bị Huyết Vân Chu oanh tạc và rạn nứt tại các Mắt Trận phụ do Huyết Tinh Phù đánh dấu. Đại Trưởng Lão Thanh Hư hạ lệnh phòng thủ nội môn, trong khi nhóm Sở Lăng Sương, Diệp Tĩnh Sương, và Lâm Phong lao xuống chi viện ngoại môn. Tại ngoại môn, Lệ Vô Tâm dẫn đội quân Huyết Thi và Huyết Sát Minh tràn vào thảm sát các đệ tử. Hắn thể hiện sức mạnh vượt trội của Vạn Độc Thân Trúc Cơ Hậu Kỳ, dễ dàng giết một trưởng lão nội môn, và cuối cùng đối đầu trực diện với nhóm Diệp Tĩnh Sương giữa vòng vây lửa máu.
+- **Tình trạng:** Hoàn thành. Trận chiến ở ngoại môn Cửu Hoa bùng nổ khốc liệt.

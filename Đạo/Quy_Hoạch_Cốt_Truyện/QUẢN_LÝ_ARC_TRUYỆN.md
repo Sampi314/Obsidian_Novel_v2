@@ -85,6 +85,7 @@
     - **Sự Kiện Mới:** Lăng Sương dẫn các trưởng lão nội môn đến ứng cứu. Lục Trần tự kích nổ Huyết Tinh Oán Linh để tạo sương mù tẩu thoát. Cửu Hoa Kiếm Tông chính thức bị Huyết Sát Minh đe dọa (Hoàn thành - Chương 92 Góc Nhìn Chính).
     - **Nhiệm Vụ Hiện Tại:** Báo cáo với Đại Trưởng Lão Thanh Hư tại Thiên Hoa Phong.
     - **Sự Kiện Mới:** Tham gia Hội Nghị Thượng Đỉnh, phân tích tà vật Huyết Tinh Oán Linh và nhận định về nguy cơ Cửu Hoa Kiếm Tông trở thành mục tiêu của Huyết Sát Minh. Tĩnh Sương và Lâm Phong được giữ lại làm khách quý và chuẩn bị đối phó với cuộc tấn công (Hoàn thành - Chương 93 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Huyết Sát Minh bắt đầu oanh tạc Cửu Hoa Tru Tiên Trận. Nhóm Tĩnh Sương, Lâm Phong, Lăng Sương lao xuống bảo vệ ngoại môn và đụng độ Lệ Vô Tâm cùng đại quân Huyết Thi (Hoàn thành - Chương 94 Góc Nhìn Chính).
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đã hoàn thành (Chuyển sang Arc mới).
@@ -124,6 +125,8 @@
     - **Sự Kiện Mới:** Đứng quan sát từ xa, nhận thấy Lục Trần bị bại lộ. Bỏ mặc quân cờ vô dụng này và tiến hành chôn giấu "Huyết Tinh Phù" xung quanh Cửu Hoa Sơn để chuẩn bị cho đại quân Huyết Sát Minh (Hoàn thành - Chương 86 Góc Nhìn Lệ Vô Tâm).
     - **Nhiệm Vụ Hiện Tại:** Hội quân với Hạm Đội Huyết Sát Minh do Huyết Tước chỉ huy.
     - **Sự Kiện Mới:** Trở về điểm tập kết, kích hoạt hệ thống định vị của mười hai Huyết Tinh Phù. Đại quân Huyết Vân Chu bắt đầu oanh tạc thẳng vào các điểm yếu của Cửu Hoa Tru Tiên Trận, chính thức mở đầu cuộc đại tấn công vào Cửu Hoa Kiếm Tông (Hoàn thành - Chương 87 Góc Nhìn Lệ Vô Tâm).
+    - **Nhiệm Vụ Hiện Tại:** Tiên phong dẫn đại quân tấn công ngoại môn Cửu Hoa Kiếm Tông.
+    - **Sự Kiện Mới:** Lệ Vô Tâm tàn sát ngoại môn, thể hiện sức mạnh Vạn Độc Thân và đối đầu trực diện nhóm Diệp Tĩnh Sương, Lâm Phong (Hoàn thành - Chương 88 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
