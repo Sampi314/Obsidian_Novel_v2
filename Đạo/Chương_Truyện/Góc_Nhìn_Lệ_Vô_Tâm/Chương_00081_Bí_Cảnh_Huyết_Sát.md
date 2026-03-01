@@ -8,7 +8,6 @@ Mô Tả: "Lệ Vô Tâm dưỡng thương tại Huyết Uyên Đảo của Huy�
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-
 # Chương 81: Bí Cảnh Huyết Sát
 
 Xung quanh Lệ Vô Tâm là một mảng tối tăm lạnh lẽo, chỉ có âm thanh ầm ĩ của sóng biển đập vào những vách đá sắc nhọn ngoài kia vang lên từng đợt. Hắn khẽ nhúc nhích, cảm giác toàn thân như bị hàng vạn mũi kim đâm châm chích. Ký ức cuối cùng của hắn là khoảnh khắc Mắt Trận chính sụp đổ ở Đầm Lầy Tử Thần, kéo theo phản phệ tàn khốc của Thiên Tinh Mẫu Cổ. Những tiếng thét chói tai của vô số sinh linh bị hiến tế lúc bấy giờ vẫn còn vọng lại trong tâm trí hắn.

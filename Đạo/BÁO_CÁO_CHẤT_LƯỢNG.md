@@ -71,6 +71,7 @@
 | 2026-02-28 | Tổng Quản | Tạo Địa Danh: Hang Động Nhện Quỷ | Hoàn Thành | Tạo hồ sơ chi tiết hang động, bao gồm Dưỡng Thi Địa và Mạch Ngầm. |
 | 2026-02-28 | Tổng Quản | Viết Chương 25: Mạch Ngầm Bí Ẩn | Hoàn Thành | Tiếp nối mạch truyện, kết nối Rừng Huyết Độc với Hoàng Sa Địa Cung. |
 | 2026-03-01 | Tổng Quản | Cập nhật Hán Văn cho Thơ Ca & Công Pháp | Hoàn Thành | Thêm Nguyên Văn (Hán Văn) và chuẩn hóa Hán Việt cho 3 bài thơ và 2 công pháp theo yêu cầu người dùng. |
+| 2026-03-01 | Tổng Quản | Viết Chương 89 (Góc Nhìn Chính) & Chương 83 (Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4: Nhóm Diệp Tĩnh Sương đụng độ Huyết Sát Minh ở Trung Tâm; Lệ Vô Tâm nhận hộp ngọc Huyết Tinh Oán Linh. |
 | 2026-03-02 | Tổng Quản | Viết Chương 27: Bí Mật Dưới Đáy Hồ | Hoàn Thành | Tiếp nối mạch truyện tại Hoàng Sa Thâm Cung, khám phá bí mật lịch sử. |
 | 2026-03-02 | Tổng Quản | Tạo Nhân Vật & Kỳ Vật | Hoàn Thành | Tạo Lục Ly, Thủy Linh Châu (Mảnh Vỡ), Thủy Thi. |
 | 2026-03-02 | Tổng Quản | Viết Chương 28: Thử Thách Của Lục Ly | Hoàn Thành | Tiếp nối mạch truyện tại Thâm Cung, nhân vật chính vượt qua thử thách tâm ma, tạo nhân vật Lục Ly và Kỳ vật Thủy Linh Châu. |
@@ -174,3 +175,7 @@
 - Cập nhật các chỉ lệnh trong thư mục `.jules` để áp dụng quy tắc "Tuyệt đối không dùng Tiếng Anh" với mọi Agent.
 
 **3. Kết Luận:** Đạt.
+| Hôm nay | Tổng Quản | Viết Chương 88 (Góc Nhìn Chính) & Chương 82 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Nhóm Tĩnh Sương tiến vào lãnh thổ Trung Tâm và bị phục kích. Lệ Vô Tâm được Huyết Thần Tử tẩy tủy và nâng cấp sức mạnh. |
+| Hôm nay | Tổng Quản | Viết Chương 90 (Góc Nhìn Chính) & Chương 84 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Nhóm Tĩnh Sương đến Cửu Hoa Kiếm Tông báo cáo. Lệ Vô Tâm tàn sát tiêu cục ở Trung Tâm để thử sức mạnh mới. |
+| Hôm nay | Tổng Quản | Viết Chương 91 (Góc Nhìn Chính) & Chương 85 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Tĩnh Sương phát hiện bí mật Lục Trần phá hoại Hộ Sơn Đại Trận bằng Huyết Tinh Oán Linh. Hai bên đụng độ. |
+| Hôm nay | Tổng Quản | Viết Chương 92 (Góc Nhìn Chính) & Chương 86 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Cuộc tử chiến tại cấm địa ngoại môn với Lục Trần. Lục Trần tẩu thoát, để lại sự hỗn loạn. Lệ Vô Tâm nhân cơ hội chôn giấu Huyết Tinh Phù. |
