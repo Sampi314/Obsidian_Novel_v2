@@ -32,3 +32,5 @@
 - [Chương 85: Giao Dịch Bóng Tối](Chương_00085_Giao_Dịch_Bóng_Tối.md)
 - [Chương 86: Hỗn Loạn Cửu Hoa](Chương_00086_Hỗn_Loạn_Cửu_Hoa.md)
 - [Chương 87: Huyết Vân Áp Thành](Chương_00087_Huyết_Vân_Áp_Thành.md)
+- [Chương 88: Cuộc Thảm Sát Bắt Đầu](Chương_00088_Cuộc_Thảm_Sát_Bắt_Đầu.md)
+- [Chương 89: Sức Mạnh Tuyệt Đối](Chương_00089_Sức_Mạnh_Tuyệt_Đối.md)

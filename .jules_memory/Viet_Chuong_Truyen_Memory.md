@@ -385,3 +385,11 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Cửu Hoa Tru Tiên Trận bị Huyết Vân Chu oanh tạc và rạn nứt tại các Mắt Trận phụ do Huyết Tinh Phù đánh dấu. Đại Trưởng Lão Thanh Hư hạ lệnh phòng thủ nội môn, trong khi nhóm Sở Lăng Sương, Diệp Tĩnh Sương, và Lâm Phong lao xuống chi viện ngoại môn. Tại ngoại môn, Lệ Vô Tâm dẫn đội quân Huyết Thi và Huyết Sát Minh tràn vào thảm sát các đệ tử. Hắn thể hiện sức mạnh vượt trội của Vạn Độc Thân Trúc Cơ Hậu Kỳ, dễ dàng giết một trưởng lão nội môn, và cuối cùng đối đầu trực diện với nhóm Diệp Tĩnh Sương giữa vòng vây lửa máu.
 - **Tình trạng:** Hoàn thành. Trận chiến ở ngoại môn Cửu Hoa bùng nổ khốc liệt.
+
+## Phiên làm việc: Viết Chương 95 (Góc Nhìn Chính) & Chương 89 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 95:** Huyết Chiến Ngoại Môn
+- **Chương 89:** Sức Mạnh Tuyệt Đối
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Lệ Vô Tâm thể hiện sức mạnh áp đảo của Vạn Độc Thân Trúc Cơ Hậu Kỳ, dễ dàng phá vỡ các đòn tấn công của Sở Lăng Sương và Lâm Phong. Dù Diệp Tĩnh Sương dốc toàn lực thi triển Băng Phong Thiên Lý, nàng vẫn bị Lệ Vô Tâm phá giải và dồn vào chỗ chết. Đúng lúc Lệ Vô Tâm chuẩn bị kết liễu Tĩnh Sương, một luồng uy áp Hóa Thần kỳ kinh khủng giáng xuống ngăn cản hắn.
+- **Tình trạng:** Hoàn thành. Trận chiến giữa thế hệ trẻ tại Cửu Hoa tạm kết thúc, chuẩn bị chuyển sang cấp độ cường giả.
