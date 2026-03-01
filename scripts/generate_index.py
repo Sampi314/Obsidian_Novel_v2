@@ -287,9 +287,9 @@ def generate_root_index_html(repo_root):
 
     arcs_links = [
         ("Tuyến Truyện Nam Cương", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Tuyến_Truyện_Nam_Cương.html", [
-            ("Diệp Tĩnh Sương Chi Tiết", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Diệp_Tĩnh_Sương_Chi_Tiết.html"),
+            ("Diệp Tĩnh Sương", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Diệp_Tĩnh_Sương.html"),
             ("Lâm Phong", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lâm_Phong.html"),
-            ("Lệ Vô Tâm Chi Tiết", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lệ_Vô_Tâm_Chi_Tiết.html"),
+            ("Lệ Vô Tâm", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lệ_Vô_Tâm.html"),
         ]),
         ("Tuyến Truyện Bắc Hàn", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Bắc_Hàn/Tuyến_Truyện_Bắc_Hàn.html", []),
         ("Tuyến Truyện Đông Hoang", "Đạo HTML/Quy_Hoạch_Cốt_Truyện/Đông_Hoang/Tuyến_Truyện_Đông_Hoang.html", []),
