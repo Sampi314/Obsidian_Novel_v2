@@ -525,3 +525,26 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Triển khai viết các chương mở đầu của Arc 4, hướng đến việc di chuyển bối cảnh câu chuyện (Ví dụ: Trở về Cửu Hoa Kiếm Tông hoặc tiến vào trụ sở của Huyết Sát Minh).
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Khởi đầu Arc 4)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 87 "Hành Trình Mới" (Góc Nhìn Chính) và Chương 81 "Bí Cảnh Huyết Sát" (Góc Nhìn Lệ Vô Tâm) để khởi động Arc 4.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00087_Hành_Trình_Mới.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00081_Bí_Cảnh_Huyết_Sát.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết hai chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật trạng thái nhiệm vụ cho cả hai tuyến truyện.
+  - `Đạo/Chương_Truyện/.../MỤC_LỤC.md`: Thêm chương mới vào mục lục.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành nhiệm vụ khởi động Arc 4.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Arc 4 đã chính thức mở màn. Nhóm Diệp Tĩnh Sương theo Sở Lăng Sương về Cửu Hoa Kiếm Tông để nhờ thế lực Chính Đạo lớn mạnh này phân tích tình báo về Huyết Sát Minh. Trong khi đó, Lệ Vô Tâm tỉnh dậy tại Huyết Uyên Đảo, hấp thu Huyết Tinh Nguyên để khôi phục sức mạnh và chấp nhận trở thành tay sai của Huyết Thần Tử nhằm đổi lấy cơ hội báo thù.
+- **Tình trạng:** Cấu trúc truyện chuyển tiếp mượt mà, sẵn sàng mở rộng bối cảnh sang khu vực Trung Tâm và Vô Tận Hải.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết diễn biến nhóm Diệp Tĩnh Sương di chuyển đến Cửu Hoa Kiếm Tông (trên đường có thể gặp trở ngại hoặc khám phá thế giới), và Lệ Vô Tâm trải qua đợt tẩy tủy để cường hóa Vạn Độc Thân.

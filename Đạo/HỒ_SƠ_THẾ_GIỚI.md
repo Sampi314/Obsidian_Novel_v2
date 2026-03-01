@@ -156,6 +156,7 @@
         - [Chương 78: Đại Chiến Đầm Lầy](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00078_Đại_Chiến_Đầm_Lầy.md)
         - [Chương 79: Tử Chiến Đầm Lầy](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00079_Tử_Chiến_Đầm_Lầy.md)
         - [Chương 80: Kết Cục Phệ Hồn](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00080_Kết_Cục_Phệ_Hồn.md)
+        - [Chương 81: Bí Cảnh Huyết Sát](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00081_Bí_Cảnh_Huyết_Sát.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -176,6 +177,7 @@
         - [Chương 84: Phá Hủy Mắt Trận](Chương_Truyện/Góc_Nhìn_Chính/Chương_00084_Phá_Hủy_Mắt_Trận.md)
         - [Chương 85: Hội Sư Đầm Lầy](Chương_Truyện/Góc_Nhìn_Chính/Chương_00085_Hội_Sư_Đầm_Lầy.md)
         - [Chương 86: Trảm Độc Kiếm Tâm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00086_Trảm_Độc_Kiếm_Tâm.md)
+        - [Chương 87: Hành Trình Mới](Chương_Truyện/Góc_Nhìn_Chính/Chương_00087_Hành_Trình_Mới.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)

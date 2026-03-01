@@ -1,3 +1,9 @@
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
+<!-- NAVIGATION_END -->
 # Chương 85: Hội Sư Đầm Lầy
 
 Vùng Đất Chết phía sau lưng nhóm Diệp Tĩnh Sương đã bắt đầu quang đãng trở lại khi khối Huyết Tinh thạch vỡ vụn, đánh dấu sự sụp đổ của Mắt Trận phụ. Cảm giác áp bách nặng nề của Vạn Độc Huyết Tế Đại Trận tan biến, trả lại một phần thanh minh cho khu rừng. Thế nhưng, bọn họ không có thời gian để nghỉ ngơi.
