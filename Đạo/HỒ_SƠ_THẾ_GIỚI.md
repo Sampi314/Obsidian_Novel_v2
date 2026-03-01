@@ -63,6 +63,10 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md`.
 - **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lâm_Phong.md`.
+- **Phương Vô Kỵ (Vô Diện Tú Sĩ):** Nam tán tu Nhân tộc, Trúc Cơ Viên Mãn. Tính cách lười biếng, vô sỉ nhưng ngộ tính tuyệt đỉnh. Đại diện "Vạn Pháp Giai Thông". Sở hữu *Thái Cực Vạn Pháp Quyết*. (Đang ở Đông Hoang)
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Phương_Vô_Kỵ.md`.
+- **Ngao Đình (Lôi Minh Thái Tử):** Nam, Long Tộc (Chân Long huyết mạch), Nguyên Anh Trung Kỳ. Tính cách kiêu ngạo, hiếu chiến, sức mạnh Luyện Thể cái thế. Sở hữu *Thái Cổ Long Thần Quyết*. (Đang ở Vô Tận Hải/Thiên Trụ Sơn)
+- **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Ngao_Đình.md`.
 - **Sở Lăng Sương (Băng Phách Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, trọng nghĩa. Sở hữu *Hàn Sương Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Sở_Lăng_Sương.md`.
 - **Hàn Thanh Nguyệt (Tàn Nguyệt Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Xuất thân bần hàn, tính cách thực dụng, lạnh lùng nhưng bảo vệ kẻ yếu. Sở hữu *Tàn Nguyệt Kiếm Quyết*.
@@ -156,6 +160,12 @@
         - [Chương 78: Đại Chiến Đầm Lầy](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00078_Đại_Chiến_Đầm_Lầy.md)
         - [Chương 79: Tử Chiến Đầm Lầy](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00079_Tử_Chiến_Đầm_Lầy.md)
         - [Chương 80: Kết Cục Phệ Hồn](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00080_Kết_Cục_Phệ_Hồn.md)
+        - [Chương 81: Bí Cảnh Huyết Sát](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00081_Bí_Cảnh_Huyết_Sát.md)
+        - [Chương 82: Tẩy Tủy Huyết Trì](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00082_Tẩy_Tủy_Huyết_Trì.md)
+        - [Chương 83: Sứ Mệnh Trung Tâm](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00083_Sứ_Mệnh_Trung_Tâm.md)
+        - [Chương 84: Bóng Ma Trung Tâm](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00084_Bóng_Ma_Trung_Tâm.md)
+        - [Chương 85: Giao Dịch Bóng Tối](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00085_Giao_Dịch_Bóng_Tối.md)
+        - [Chương 86: Hỗn Loạn Cửu Hoa](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00086_Hỗn_Loạn_Cửu_Hoa.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -176,6 +186,12 @@
         - [Chương 84: Phá Hủy Mắt Trận](Chương_Truyện/Góc_Nhìn_Chính/Chương_00084_Phá_Hủy_Mắt_Trận.md)
         - [Chương 85: Hội Sư Đầm Lầy](Chương_Truyện/Góc_Nhìn_Chính/Chương_00085_Hội_Sư_Đầm_Lầy.md)
         - [Chương 86: Trảm Độc Kiếm Tâm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00086_Trảm_Độc_Kiếm_Tâm.md)
+        - [Chương 87: Hành Trình Mới](Chương_Truyện/Góc_Nhìn_Chính/Chương_00087_Hành_Trình_Mới.md)
+        - [Chương 88: Đường Tới Cửu Hoa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00088_Đường_Tới_Cửu_Hoa.md)
+        - [Chương 89: Huyết Sát Chặn Đường](Chương_Truyện/Góc_Nhìn_Chính/Chương_00089_Huyết_Sát_Chặn_Đường.md)
+        - [Chương 90: Đến Cửu Hoa](Chương_Truyện/Góc_Nhìn_Chính/Chương_00090_Đến_Cửu_Hoa.md)
+        - [Chương 91: Bí Mật Ngoại Môn](Chương_Truyện/Góc_Nhìn_Chính/Chương_00091_Bí_Mật_Ngoại_Môn.md)
+        - [Chương 92: Trận Chiến Không Cân Sức](Chương_Truyện/Góc_Nhìn_Chính/Chương_00092_Trận_Chiến_Không_Cân_Sức.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)

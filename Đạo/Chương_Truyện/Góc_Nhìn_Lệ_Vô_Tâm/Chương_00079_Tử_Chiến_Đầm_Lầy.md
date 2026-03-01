@@ -1,3 +1,9 @@
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
+<!-- NAVIGATION_END -->
 # Chương 79: Tử Chiến Đầm Lầy
 
 Sâu thẳm dưới lòng đất, trong Mật Thất Huyết Trì vốn dĩ đỏ rực màu máu, ánh sáng bỗng nhiên nhấp nháy liên hồi rồi sầm tối.

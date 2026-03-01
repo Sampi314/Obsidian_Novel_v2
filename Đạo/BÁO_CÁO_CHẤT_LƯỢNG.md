@@ -71,6 +71,7 @@
 | 2026-02-28 | Tổng Quản | Tạo Địa Danh: Hang Động Nhện Quỷ | Hoàn Thành | Tạo hồ sơ chi tiết hang động, bao gồm Dưỡng Thi Địa và Mạch Ngầm. |
 | 2026-02-28 | Tổng Quản | Viết Chương 25: Mạch Ngầm Bí Ẩn | Hoàn Thành | Tiếp nối mạch truyện, kết nối Rừng Huyết Độc với Hoàng Sa Địa Cung. |
 | 2026-03-01 | Tổng Quản | Cập nhật Hán Văn cho Thơ Ca & Công Pháp | Hoàn Thành | Thêm Nguyên Văn (Hán Văn) và chuẩn hóa Hán Việt cho 3 bài thơ và 2 công pháp theo yêu cầu người dùng. |
+| 2026-03-01 | Tổng Quản | Viết Chương 89 (Góc Nhìn Chính) & Chương 83 (Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4: Nhóm Diệp Tĩnh Sương đụng độ Huyết Sát Minh ở Trung Tâm; Lệ Vô Tâm nhận hộp ngọc Huyết Tinh Oán Linh. |
 | 2026-03-02 | Tổng Quản | Viết Chương 27: Bí Mật Dưới Đáy Hồ | Hoàn Thành | Tiếp nối mạch truyện tại Hoàng Sa Thâm Cung, khám phá bí mật lịch sử. |
 | 2026-03-02 | Tổng Quản | Tạo Nhân Vật & Kỳ Vật | Hoàn Thành | Tạo Lục Ly, Thủy Linh Châu (Mảnh Vỡ), Thủy Thi. |
 | 2026-03-02 | Tổng Quản | Viết Chương 28: Thử Thách Của Lục Ly | Hoàn Thành | Tiếp nối mạch truyện tại Thâm Cung, nhân vật chính vượt qua thử thách tâm ma, tạo nhân vật Lục Ly và Kỳ vật Thủy Linh Châu. |
@@ -149,3 +150,8 @@
 | Hôm nay | Tổng Quản | Viết Chương 85 (Góc Nhìn Chính) & Chương 79 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Nhóm Tĩnh Sương đến Đầm Lầy Tử Thần hỗ trợ đại quân đánh tan Độc Oán Mãng Xà. Mắt Trận phụ sụp đổ, Lệ Vô Tâm dùng cấm thuật "Phệ Mệnh Thiêu Hồn" xuất hiện tử chiến. Các tuyến truyện hội tụ tại điểm cao trào. |
 | Hôm nay | Tổng Quản | Viết Chương 86 (Góc Nhìn Chính) & Chương 80 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Trận tử chiến cuối cùng tại Đầm Lầy Tử Thần. Mắt Trận chính sụp đổ, Lệ Vô Tâm bị phản phệ và được tổ chức Huyết Sát Minh cứu thoát. Kết thúc cao trào của Arc 3. |
 | Hôm nay | Tổng Quản | Khởi tạo Thế lực Huyết Sát Minh và Quy hoạch Arc 4 | Hoàn Thành | Quét thấy thiếu thực thể "Huyết Sát Minh", đã tạo mới file hồ sơ, cập nhật Index và thiết lập mục tiêu Arc 4 cho các tuyến truyện. |
+| Hôm nay | Tổng Quản | Viết Chương 87 (Góc Nhìn Chính) & Chương 81 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Khởi đầu Arc 4. Nhóm Tĩnh Sương rời Đầm Lầy tiến về Cửu Hoa Kiếm Tông. Lệ Vô Tâm dưỡng thương tại Huyết Uyên Đảo và bắt đầu phục vụ Huyết Sát Minh. |
+| Hôm nay | Tổng Quản | Viết Chương 88 (Góc Nhìn Chính) & Chương 82 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Nhóm Tĩnh Sương tiến vào lãnh thổ Trung Tâm và bị phục kích. Lệ Vô Tâm được Huyết Thần Tử tẩy tủy và nâng cấp sức mạnh. |
+| Hôm nay | Tổng Quản | Viết Chương 90 (Góc Nhìn Chính) & Chương 84 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Nhóm Tĩnh Sương đến Cửu Hoa Kiếm Tông báo cáo. Lệ Vô Tâm tàn sát tiêu cục ở Trung Tâm để thử sức mạnh mới. |
+| Hôm nay | Tổng Quản | Viết Chương 91 (Góc Nhìn Chính) & Chương 85 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Tĩnh Sương phát hiện bí mật Lục Trần phá hoại Hộ Sơn Đại Trận bằng Huyết Tinh Oán Linh. Hai bên đụng độ. |
+| Hôm nay | Tổng Quản | Viết Chương 92 (Góc Nhìn Chính) & Chương 86 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Cuộc tử chiến tại cấm địa ngoại môn với Lục Trần. Lục Trần tẩu thoát, để lại sự hỗn loạn. Lệ Vô Tâm nhân cơ hội chôn giấu Huyết Tinh Phù. |

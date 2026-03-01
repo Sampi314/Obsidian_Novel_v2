@@ -525,3 +525,124 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Triển khai viết các chương mở đầu của Arc 4, hướng đến việc di chuyển bối cảnh câu chuyện (Ví dụ: Trở về Cửu Hoa Kiếm Tông hoặc tiến vào trụ sở của Huyết Sát Minh).
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Khởi đầu Arc 4)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 87 "Hành Trình Mới" (Góc Nhìn Chính) và Chương 81 "Bí Cảnh Huyết Sát" (Góc Nhìn Lệ Vô Tâm) để khởi động Arc 4.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00087_Hành_Trình_Mới.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00081_Bí_Cảnh_Huyết_Sát.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết hai chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật trạng thái nhiệm vụ cho cả hai tuyến truyện.
+  - `Đạo/Chương_Truyện/.../MỤC_LỤC.md`: Thêm chương mới vào mục lục.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành nhiệm vụ khởi động Arc 4.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Arc 4 đã chính thức mở màn. Nhóm Diệp Tĩnh Sương theo Sở Lăng Sương về Cửu Hoa Kiếm Tông để nhờ thế lực Chính Đạo lớn mạnh này phân tích tình báo về Huyết Sát Minh. Trong khi đó, Lệ Vô Tâm tỉnh dậy tại Huyết Uyên Đảo, hấp thu Huyết Tinh Nguyên để khôi phục sức mạnh và chấp nhận trở thành tay sai của Huyết Thần Tử nhằm đổi lấy cơ hội báo thù.
+- **Tình trạng:** Cấu trúc truyện chuyển tiếp mượt mà, sẵn sàng mở rộng bối cảnh sang khu vực Trung Tâm và Vô Tận Hải.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết diễn biến nhóm Diệp Tĩnh Sương di chuyển đến Cửu Hoa Kiếm Tông (trên đường có thể gặp trở ngại hoặc khám phá thế giới), và Lệ Vô Tâm trải qua đợt tẩy tủy để cường hóa Vạn Độc Thân.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Diễn biến Arc 4)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 88 "Đường Tới Cửu Hoa" (Góc Nhìn Chính) và Chương 82 "Tẩy Tủy Huyết Trì" (Góc Nhìn Lệ Vô Tâm) để tiếp tục Arc 4.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00088_Đường_Tới_Cửu_Hoa.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00082_Tẩy_Tủy_Huyết_Trì.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết hai chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật trạng thái nhiệm vụ và diễn biến cho cả hai tuyến truyện.
+  - `Đạo/Chương_Truyện/.../MỤC_LỤC.md`: Thêm chương mới vào mục lục của cả 2 góc nhìn.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành nhiệm vụ diễn biến Arc 4.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Hành trình tại Trung Tâm của nhóm Diệp Tĩnh Sương bắt đầu nhưng không mấy suôn sẻ, họ đã đụng độ với các sát thủ của Huyết Sát Minh. Cùng lúc đó, tại Huyết Uyên Đảo, Lệ Vô Tâm trải qua quá trình tẩy tủy đau đớn, dung hợp hoàn toàn Mẫu Cổ và Huyết Tinh Nguyên để đột phá Trúc Cơ Hậu Kỳ, sẵn sàng nhận nhiệm vụ mới nhắm vào nhóm Diệp Tĩnh Sương.
+- **Tình trạng:** Các tài liệu theo dõi (Hồ sơ, mục lục, arc) đã được cập nhật đồng bộ. Cốt truyện diễn biến hợp lý.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết tiếp diễn biến trận chiến giữa nhóm Diệp Tĩnh Sương và sát thủ Huyết Sát Minh (Chương 89 Góc Nhìn Chính), và nhiệm vụ cụ thể của Lệ Vô Tâm tại Trung Tâm.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Tiếp diễn Arc 4)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 89 "Huyết Sát Chặn Đường" (Góc Nhìn Chính) và Chương 83 "Sứ Mệnh Trung Tâm" (Góc Nhìn Lệ Vô Tâm) để tiếp tục Arc 4.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00089_Huyết_Sát_Chặn_Đường.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00083_Sứ_Mệnh_Trung_Tâm.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết hai chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật trạng thái diễn biến trận chiến với Huyết Sát Minh ở Trung Tâm và nhiệm vụ mới của Lệ Vô Tâm.
+  - `Đạo/Chương_Truyện/.../MỤC_LỤC.md`: Thêm hai chương mới vào mục lục của mỗi góc nhìn.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành cập nhật.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Hành trình của nhóm Diệp Tĩnh Sương đã tiến sâu vào Bình Nguyên Vạn Tượng. Họ đã giải quyết được nhóm sát thủ cản đường và phát hiện được tính chất tà ác thực sự của Huyết Sát Minh - dùng "Huyết Tinh" (máu) để thao túng sinh mệnh.
+  - Tại Đại Điện Huyết Uyên Đảo, Lệ Vô Tâm được Huyết Tước giao một chiếc hộp ngọc Huyết Tinh Oán Linh để gửi gắm sự trả thù từ Minh Chủ đến Cửu Hoa Kiếm Tông.
+- **Tình trạng:** Quá trình chuẩn bị cho bão tố diễn ra tại Cửu Hoa Kiếm Tông đang được dàn dựng tốt từ cả hai phía.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết tiếp Chương 90 (Góc Nhìn Chính): Nhóm Diệp Tĩnh Sương đến được Cửu Hoa Kiếm Tông và gặp Lục Trần/Tông Chủ báo cáo tình hình.
+- Viết tiếp Chương 84 (Góc Nhìn Lệ Vô Tâm): Hành trình đột nhập Trung Tâm của Lệ Vô Tâm và thực hiện vụ ám sát đầu tiên tại đây.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Thâm Nhập Trung Tâm)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 90 "Đến Cửu Hoa" (Góc Nhìn Chính) và Chương 84 "Bóng Ma Trung Tâm" (Góc Nhìn Lệ Vô Tâm) để tiếp tục Arc 4.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00090_Đến_Cửu_Hoa.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00084_Bóng_Ma_Trung_Tâm.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết hai chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật trạng thái diễn biến đến Cửu Hoa Kiếm Tông và vụ tàn sát đầu tiên của Lệ Vô Tâm.
+  - `Đạo/Chương_Truyện/.../MỤC_LỤC.md`: Thêm hai chương mới vào mục lục của mỗi góc nhìn.
+  - `.jules_memory/Viet_Chuong_Truyen_Memory.md`: Thêm tóm tắt hai chương mới.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận hoàn thành công việc.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Nhóm Tĩnh Sương đã an toàn đến Cửu Hoa Kiếm Tông, báo cáo và nhận được sự hỗ trợ. Tĩnh Sương bắt đầu nảy sinh nghi ngờ đối với Lục Trần. Cùng lúc, Lệ Vô Tâm đã chính thức vươn vòi rồng tới Trung Tâm, tàn sát Phi Long Tiêu Cục để rèn luyện và che giấu, hiện đang nhắm thẳng Cửu Hoa Kiếm Tông.
+- **Tình trạng:** Quá trình chuẩn bị xung đột diễn ra trơn tru.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết Chương 91 (Góc Nhìn Chính): Diễn biến tại Cửu Hoa Kiếm Tông, Tĩnh Sương bí mật điều tra.
+- Viết Chương 85 (Góc Nhìn Lệ Vô Tâm): Lệ Vô Tâm tiếp cận ngoại môn Cửu Hoa Kiếm Tông và bàn giao món quà cho Lục Trần.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Bí Mật Ngoại Môn)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 91 "Bí Mật Ngoại Môn" (Góc Nhìn Chính) và Chương 85 "Giao Dịch Bóng Tối" (Góc Nhìn Lệ Vô Tâm) để tiếp tục Arc 4.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00091_Bí_Mật_Ngoại_Môn.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00085_Giao_Dịch_Bóng_Tối.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện mới Lệ Vô Tâm giao Huyết Tinh Oán Linh và Tĩnh Sương phát hiện bí mật của Lục Trần.
+  - Các file `MỤC_LỤC.md` của cả hai góc nhìn.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md` và các file bộ nhớ.
+  - Cập nhật website HTML.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Lệ Vô Tâm đã bàn giao "Huyết Tinh Oán Linh" cho Lục Trần để phá hoại trận pháp ngoại môn từ bên trong. Trong khi đó, Tĩnh Sương nảy sinh nghi ngờ, đi điều tra vào ban đêm và bắt gặp Lục Trần đang hành động. Tuy nhiên, sức mạnh giữa Tĩnh Sương và Lục Trần chênh lệch, và nàng đang gặp nguy hiểm thì Lâm Phong xuất hiện cứu viện.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết Chương 92 (Góc Nhìn Chính): Cuộc chiến không cân sức giữa Tĩnh Sương, Lâm Phong và Lục Trần (Kim Đan Hậu Kỳ) tại khu cấm địa ngoại môn Cửu Hoa Kiếm Tông.
+- Viết Chương 86 (Góc Nhìn Lệ Vô Tâm): Lệ Vô Tâm thực hiện bước tiếp theo trong kế hoạch Huyết Sát Minh để đón đại quân và chờ kết quả từ sự phá hoại của Lục Trần.
+\n# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Cửu Hoa Đại Loạn)\n\n## 1. TỔNG QUAN\n- **Agent:** Tổng Quản (Jules).\n- **Mục tiêu:** Viết Chương 92 "Trận Chiến Không Cân Sức" (Góc Nhìn Chính) và Chương 86 "Hỗn Loạn Cửu Hoa" (Góc Nhìn Lệ Vô Tâm) để tiếp tục Arc 4.\n\n## 2. CÔNG VIỆC ĐÃ LÀM\n- **Sáng tạo:**\n  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00092_Trận_Chiến_Không_Cân_Sức.md`\n  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00086_Hỗn_Loạn_Cửu_Hoa.md`\n- **Cập nhật:**\n  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.\n  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật diễn biến trận chiến tại ngoại môn Cửu Hoa và hành động chôn giấu Huyết Tinh Phù của Lệ Vô Tâm.\n  - `MỤC_LỤC.md` của cả hai góc nhìn.\n  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md` và các file bộ nhớ (`Viet_Chuong_Truyen_Memory.md`).\n  - Cập nhật website HTML.\n\n## 3. TRẠNG THÁI HỆ THỐNG\n- **Tiến độ:** Trận chiến tại ngoại môn đã được giải quyết bằng sự ứng cứu của Lăng Sương và các trưởng lão. Tuy nhiên, Lục Trần đã trốn thoát. Về phần Lệ Vô Tâm, hắn đã lợi dụng sự hỗn loạn này để bố trí hệ thống định vị ("Huyết Tinh Phù") cho cuộc đại tấn công của Huyết Sát Minh sắp tới.\n\n## 4. KẾ HOẠCH TIẾP THEO\n- Viết Chương 93 (Góc Nhìn Chính): Hội nghị thượng đỉnh tại Cửu Hoa Kiếm Tông để đối phó với tình hình mới.\n- Viết Chương 87 (Góc Nhìn Lệ Vô Tâm): Trở về hội quân với đại quân Huyết Sát Minh, bắt đầu chiến dịch san bằng Cửu Hoa Kiếm Tông.\n

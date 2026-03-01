@@ -82,6 +82,13 @@
             margin-top: 20px;
         }
 
+        /* Nest list resetting */
+        ul ul {
+            display: block;
+            margin-top: 10px;
+            padding-left: 15px;
+        }
+
         li {
             background: var(--bg-lighter);
             padding: 15px 20px;
@@ -91,8 +98,17 @@
             transition: all 0.3s ease;
             position: relative;
             overflow: hidden;
-            display: flex;
-            align-items: center;
+            display: block;
+        }
+
+        ul ul li {
+            background: none;
+            border: none;
+            box-shadow: none;
+            padding: 5px 0 5px 15px;
+            margin-bottom: 5px;
+            border-left: 2px solid var(--border-color);
+            border-radius: 0;
         }
 
         li::before {
@@ -105,10 +121,22 @@
             transition: all 0.3s ease;
         }
 
+        ul ul li::before {
+            display: none;
+        }
+
         li:hover {
             transform: translateY(-3px);
             border-color: var(--text-gold);
             box-shadow: inset 0 0 15px rgba(212, 175, 55, 0.1), 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        ul ul li:hover {
+            transform: none;
+            border-color: var(--border-color);
+            border-left-color: var(--text-gold);
+            box-shadow: none;
+            background: rgba(212, 175, 55, 0.05);
         }
 
         li:hover::before {
@@ -173,18 +201,18 @@
     <li><a href="Huyết_Nha.html">HUYẾT NHA (BLOOD CROWS)</a></li>
     <li><a href="Huyết_Nhện_Chúa.html">Huyết Nhện Chúa (Blood Spider Queen)</a></li>
     <li><a href="Huyết_Thi.html">HUYẾT THI (血尸)</a></li>
-    <li><a href="Huyết_Thần_Độc.html">KỲ VẬT: HUYẾT THẦN ĐỘC (血神毒)</a></li>
+    <li><a href="Huyết_Thần_Độc.html">HUYẾT THẦN ĐỘC (血神毒)</a></li>
     <li><a href="Huyết_Tướng.html">HUYẾT TƯỚNG (血将)</a></li>
     <li><a href="Huyết_Vệ.html">HUYẾT VỆ (Blood Guard)</a></li>
     <li><a href="Huyết_Vụ_Điểu.html">HUYẾT VỤ ĐIỂU (血霧鳥)</a></li>
     <li><a href="Huyết_Đằng.html">HUYẾT ĐẰNG (血藤)</a></li>
     <li><a href="Huyết_Độc_Lang.html">HUYẾT ĐỘC LANG (BLOOD POISON WOLF)</a></li>
     <li><a href="Huyết_Độc_Lang_Vương.html">Huyết Độc Lang Vương (血毒狼王)</a></li>
-    <li><a href="Hàn_Ngọc.html">KỲ VẬT: HÀN NGỌC</a></li>
-    <li><a href="Hỏa_Linh_Thảo.html">HỒ SƠ KỲ VẬT: HỎA LINH THẢO</a></li>
-    <li><a href="Hỏa_Tích_Thảo.html">KỲ VẬT: HỎA TÍCH THẢO (火蜥草)</a></li>
-    <li><a href="Long_Cốt.html">KỲ VẬT: LONG CỐT</a></li>
-    <li><a href="Mộc_Linh_Vệ.html">KỲ VẬT: MỘC LINH VỆ (木灵卫)</a></li>
+    <li><a href="Hàn_Ngọc.html">HÀN NGỌC</a></li>
+    <li><a href="Hỏa_Linh_Thảo.html">HỎA LINH THẢO</a></li>
+    <li><a href="Hỏa_Tích_Thảo.html">HỎA TÍCH THẢO (火蜥草)</a></li>
+    <li><a href="Long_Cốt.html">LONG CỐT</a></li>
+    <li><a href="Mộc_Linh_Vệ.html">MỘC LINH VỆ (木灵卫)</a></li>
     <li><a href="Mộng_Yểm_Hoa.html">MỘNG YỂM HOA (夢魘花)</a></li>
     <li><a href="Nguyệt_Quang_Thảo.html">NGUYỆT QUANG THẢO (月光草)</a></li>
     <li><a href="Nhện_Mặt_Quỷ.html">Nhện Mặt Quỷ (Demon Face Spider)</a></li>
@@ -192,17 +220,17 @@
     <li><a href="Rết_Lân_Tinh.html">Rết Lân Tinh (磷光蜈蚣)</a></li>
     <li><a href="Sa_Bạo_Cổ.html">SA BẠO CỔ (沙暴蠱)</a></li>
     <li><a href="Sa_Hồ.html">SINH VẬT: SA HỒ (沙狐)</a></li>
-    <li><a href="Sa_Hồn.html">KỲ VẬT: SA HỒN (SAND WRAITH)</a></li>
-    <li><a href="Sa_Sương.html">KỲ VẬT: SA SƯƠNG (沙霜)</a></li>
+    <li><a href="Sa_Hồn.html">SA HỒN (SAND WRAITH)</a></li>
+    <li><a href="Sa_Sương.html">SA SƯƠNG (沙霜)</a></li>
     <li><a href="Thiên_Tinh_Cổ.html">THIÊN TINH CỔ (天星蛊)</a></li>
-    <li><a href="Thiên_Trụ_Tương.html">KỲ VẬT: THIÊN TRỤ TƯƠNG (天柱浆)</a></li>
+    <li><a href="Thiên_Trụ_Tương.html">THIÊN TRỤ TƯƠNG (天柱浆)</a></li>
     <li><a href="Thủy_Cổ.html">THỦY CỔ (水蠱)</a></li>
-    <li><a href="Thủy_Linh_Châu.html">KỲ VẬT: THỦY LINH CHÂU (MẢNH VỠ)</a></li>
+    <li><a href="Thủy_Linh_Châu.html">THỦY LINH CHÂU (MẢNH VỠ)</a></li>
     <li><a href="Thủy_Thi.html">YÊU THÚ: THỦY THI</a></li>
     <li><a href="Tinh_Linh_Cổ_Ngọc.html">TINH LINH CỔ NGỌC (ANCIENT ELF JADE)</a></li>
     <li><a href="Tuyết_Liên_Hoa.html">TUYẾT LIÊN HOA (雪莲花)</a></li>
     <li><a href="Vong_Linh.html">Vong Linh (Undead Spirit)</a></li>
-    <li><a href="Vạn_Độc_Châu.html">KỲ VẬT: VẠN ĐỘC CHÂU</a></li>
+    <li><a href="Vạn_Độc_Châu.html">VẠN ĐỘC CHÂU</a></li>
     <li><a href="Xương_Rồng_Thiên_Trụ.html">Xương Rồng Thiên Trụ (Heavenly Pillar Cactus)</a></li>
     <li><a href="Độc_Long_Tích.html">ĐỘC LONG TÍCH (POISON DRAGON LIZARD)</a></li>
 </ul>

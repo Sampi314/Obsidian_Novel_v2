@@ -82,6 +82,13 @@
             margin-top: 20px;
         }
 
+        /* Nest list resetting */
+        ul ul {
+            display: block;
+            margin-top: 10px;
+            padding-left: 15px;
+        }
+
         li {
             background: var(--bg-lighter);
             padding: 15px 20px;
@@ -91,8 +98,17 @@
             transition: all 0.3s ease;
             position: relative;
             overflow: hidden;
-            display: flex;
-            align-items: center;
+            display: block;
+        }
+
+        ul ul li {
+            background: none;
+            border: none;
+            box-shadow: none;
+            padding: 5px 0 5px 15px;
+            margin-bottom: 5px;
+            border-left: 2px solid var(--border-color);
+            border-radius: 0;
         }
 
         li::before {
@@ -105,10 +121,22 @@
             transition: all 0.3s ease;
         }
 
+        ul ul li::before {
+            display: none;
+        }
+
         li:hover {
             transform: translateY(-3px);
             border-color: var(--text-gold);
             box-shadow: inset 0 0 15px rgba(212, 175, 55, 0.1), 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        ul ul li:hover {
+            transform: none;
+            border-color: var(--border-color);
+            border-left-color: var(--text-gold);
+            box-shadow: none;
+            background: rgba(212, 175, 55, 0.05);
         }
 
         li:hover::before {
@@ -245,6 +273,12 @@
     <li><a href="Chương_00078_Đại_Chiến_Đầm_Lầy.html">Chương 78: Đại Chiến Đầm Lầy</a></li>
     <li><a href="Chương_00079_Tử_Chiến_Đầm_Lầy.html">Chương 79: Tử Chiến Đầm Lầy</a></li>
     <li><a href="Chương_00080_Kết_Cục_Phệ_Hồn.html">Chương 80: Kết Cục Phệ Hồn</a></li>
+    <li><a href="Chương_00081_Bí_Cảnh_Huyết_Sát.html">Chương 81: Bí Cảnh Huyết Sát</a></li>
+    <li><a href="Chương_00082_Tẩy_Tủy_Huyết_Trì.html">Chương 82: Tẩy Tủy Huyết Trì</a></li>
+    <li><a href="Chương_00083_Sứ_Mệnh_Trung_Tâm.html">Chương 83: Sứ Mệnh Trung Tâm</a></li>
+    <li><a href="Chương_00084_Bóng_Ma_Trung_Tâm.html">Chương 84: Bóng Ma Trung Tâm</a></li>
+    <li><a href="Chương_00085_Giao_Dịch_Bóng_Tối.html">Chương 85: Giao Dịch Bóng Tối</a></li>
+    <li><a href="Chương_00086_Hỗn_Loạn_Cửu_Hoa.html">Chương 86: Hỗn Loạn Cửu Hoa</a></li>
 </ul>
 
     <div class="footer">

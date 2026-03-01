@@ -82,6 +82,13 @@
             margin-top: 20px;
         }
 
+        /* Nest list resetting */
+        ul ul {
+            display: block;
+            margin-top: 10px;
+            padding-left: 15px;
+        }
+
         li {
             background: var(--bg-lighter);
             padding: 15px 20px;
@@ -91,8 +98,17 @@
             transition: all 0.3s ease;
             position: relative;
             overflow: hidden;
-            display: flex;
-            align-items: center;
+            display: block;
+        }
+
+        ul ul li {
+            background: none;
+            border: none;
+            box-shadow: none;
+            padding: 5px 0 5px 15px;
+            margin-bottom: 5px;
+            border-left: 2px solid var(--border-color);
+            border-radius: 0;
         }
 
         li::before {
@@ -105,10 +121,22 @@
             transition: all 0.3s ease;
         }
 
+        ul ul li::before {
+            display: none;
+        }
+
         li:hover {
             transform: translateY(-3px);
             border-color: var(--text-gold);
             box-shadow: inset 0 0 15px rgba(212, 175, 55, 0.1), 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        ul ul li:hover {
+            transform: none;
+            border-color: var(--border-color);
+            border-left-color: var(--text-gold);
+            box-shadow: none;
+            background: rgba(212, 175, 55, 0.05);
         }
 
         li:hover::before {
@@ -165,23 +193,24 @@
     <a href="../index.html" class="back-link">← Quay lại Trang Chủ</a>
 <h1>Nhân Vật</h1>
 <ul>
-    <li><a href="Diệp_Thanh_Y.html">HỒ SƠ NHÂN VẬT: DIỆP THANH Y</a></li>
-    <li><a href="Diệp_Tĩnh_Sương.html">HỒ SƠ NHÂN VẬT: DIỆP TĨNH SƯƠNG</a></li>
-    <li><a href="Hàn_Thanh_Nguyệt.html">HỒ SƠ NHÂN VẬT: HÀN THANH NGUYỆT</a></li>
-    <li><a href="Hứa_Nhược_Thủy.html">HỒ SƠ NHÂN VẬT: HỨA NHƯỢC THỦY</a></li>
-    <li><a href="Hứa_Thanh_Vân.html">HỒ SƠ NHÂN VẬT: HỨA THANH VÂN</a></li>
-    <li><a href="Lâm_Phong.html">HỒ SƠ NHÂN VẬT: LÂM PHONG</a></li>
+    <li><a href="Diệp_Thanh_Y.html">DIỆP THANH Y</a></li>
+    <li><a href="Diệp_Tĩnh_Sương.html">DIỆP TĨNH SƯƠNG</a></li>
+    <li><a href="Hàn_Thanh_Nguyệt.html">HÀN THANH NGUYỆT</a></li>
+    <li><a href="Hứa_Nhược_Thủy.html">HỨA NHƯỢC THỦY</a></li>
+    <li><a href="Hứa_Thanh_Vân.html">HỨA THANH VÂN</a></li>
     <li><a href="Lý_Tuyết_Ưng.html">LÝ TUYẾT ƯNG (李雪鹰)</a></li>
-    <li><a href="Lệ_Vô_Tâm.html">HỒ SƠ NHÂN VẬT: LỆ VÔ TÂM</a></li>
-    <li><a href="Lục_Ly.html">HỒ SƠ NHÂN VẬT: LỤC LY</a></li>
+    <li><a href="Lệ_Vô_Tâm.html">LỆ VÔ TÂM</a></li>
+    <li><a href="Lục_Ly.html">LỤC LY</a></li>
     <li><a href="Lục_Tiêu.html">LỤC TIÊU (綠簫)</a></li>
     <li><a href="Lục_Trần.html">LỤC TRẦN (陸塵)</a></li>
+    <li><a href="Ngao_Đình.html">NGAO ĐÌNH (敖霆)</a></li>
     <li><a href="Nguyệt_Dao.html">NGUYỆT DAO (月瑤)</a></li>
     <li><a href="Ngô_Công_Trưởng_Lão.html">NGÔ CÔNG TRƯỞNG LÃO (蜈蚣長老)</a></li>
-    <li><a href="Sở_Lăng_Sương.html">HỒ SƠ NHÂN VẬT: SỞ LĂNG SƯƠNG</a></li>
-    <li><a href="Triệu_Thanh_Hằng.html">HỒ SƠ NHÂN VẬT: TRIỆU THANH HẰNG</a></li>
-    <li><a href="Đan_Dương_Tử.html">HỒ SƠ NHÂN VẬT: ĐAN DƯƠNG TỬ</a></li>
-    <li><a href="Độc_Cô_Lão_Quái.html">HỒ SƠ NHÂN VẬT: ĐỘC CÔ LÃO QUÁI</a></li>
+    <li><a href="Phương_Vô_Kỵ.html">PHƯƠNG VÔ KỴ (方無忌)</a></li>
+    <li><a href="Sở_Lăng_Sương.html">SỞ LĂNG SƯƠNG</a></li>
+    <li><a href="Triệu_Thanh_Hằng.html">TRIỆU THANH HẰNG</a></li>
+    <li><a href="Đan_Dương_Tử.html">ĐAN DƯƠNG TỬ</a></li>
+    <li><a href="Độc_Cô_Lão_Quái.html">ĐỘC CÔ LÃO QUÁI</a></li>
 </ul>
 
     <div class="footer">

@@ -82,6 +82,13 @@
             margin-top: 20px;
         }
 
+        /* Nest list resetting */
+        ul ul {
+            display: block;
+            margin-top: 10px;
+            padding-left: 15px;
+        }
+
         li {
             background: var(--bg-lighter);
             padding: 15px 20px;
@@ -91,8 +98,17 @@
             transition: all 0.3s ease;
             position: relative;
             overflow: hidden;
-            display: flex;
-            align-items: center;
+            display: block;
+        }
+
+        ul ul li {
+            background: none;
+            border: none;
+            box-shadow: none;
+            padding: 5px 0 5px 15px;
+            margin-bottom: 5px;
+            border-left: 2px solid var(--border-color);
+            border-radius: 0;
         }
 
         li::before {
@@ -105,10 +121,22 @@
             transition: all 0.3s ease;
         }
 
+        ul ul li::before {
+            display: none;
+        }
+
         li:hover {
             transform: translateY(-3px);
             border-color: var(--text-gold);
             box-shadow: inset 0 0 15px rgba(212, 175, 55, 0.1), 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        ul ul li:hover {
+            transform: none;
+            border-color: var(--border-color);
+            border-left-color: var(--text-gold);
+            box-shadow: none;
+            background: rgba(212, 175, 55, 0.05);
         }
 
         li:hover::before {
@@ -251,6 +279,12 @@
     <li><a href="Chương_00084_Phá_Hủy_Mắt_Trận.html">Chương 84: Phá Hủy Mắt Trận</a></li>
     <li><a href="Chương_00085_Hội_Sư_Đầm_Lầy.html">Chương 85: Hội Sư Đầm Lầy</a></li>
     <li><a href="Chương_00086_Trảm_Độc_Kiếm_Tâm.html">Chương 86: Trảm Độc Kiếm Tâm</a></li>
+    <li><a href="Chương_00087_Hành_Trình_Mới.html">Chương 87: Hành Trình Mới</a></li>
+    <li><a href="Chương_00088_Đường_Tới_Cửu_Hoa.html">Chương 88: Đường Tới Cửu Hoa</a></li>
+    <li><a href="Chương_00089_Huyết_Sát_Chặn_Đường.html">Chương 89: Huyết Sát Chặn Đường</a></li>
+    <li><a href="Chương_00090_Đến_Cửu_Hoa.html">Chương 90: Đến Cửu Hoa</a></li>
+    <li><a href="Chương_00091_Bí_Mật_Ngoại_Môn.html">Chương 91: Bí Mật Ngoại Môn</a></li>
+    <li><a href="Chương_00092_Trận_Chiến_Không_Cân_Sức.html">Chương 92: Trận Chiến Không Cân Sức</a></li>
     <li><a href="Chương_Mẫu_Huyền_Băng.html">CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)</a></li>
 </ul>
 

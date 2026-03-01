@@ -351,6 +351,38 @@ window.chapterData = {
       "title": "Chương 84: Phá Hủy Mắt Trận"
     },
     {
+      "filename": "Chương_00085_Hội_Sư_Đầm_Lầy.md",
+      "title": "Chương 85: Hội Sư Đầm Lầy"
+    },
+    {
+      "filename": "Chương_00086_Trảm_Độc_Kiếm_Tâm.md",
+      "title": "Chương 86: Trảm Độc Kiếm Tâm"
+    },
+    {
+      "filename": "Chương_00087_Hành_Trình_Mới.md",
+      "title": "Chương 87: Hành Trình Mới"
+    },
+    {
+      "filename": "Chương_00088_Đường_Tới_Cửu_Hoa.md",
+      "title": "Chương 88: Đường Tới Cửu Hoa"
+    },
+    {
+      "filename": "Chương_00089_Huyết_Sát_Chặn_Đường.md",
+      "title": "Chương 89: Huyết Sát Chặn Đường"
+    },
+    {
+      "filename": "Chương_00090_Đến_Cửu_Hoa.md",
+      "title": "Chương 90: Đến Cửu Hoa"
+    },
+    {
+      "filename": "Chương_00091_Bí_Mật_Ngoại_Môn.md",
+      "title": "Chương 91: Bí Mật Ngoại Môn"
+    },
+    {
+      "filename": "Chương_00092_Trận_Chiến_Không_Cân_Sức.md",
+      "title": "Chương 92: Trận Chiến Không Cân Sức"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -709,6 +741,38 @@ window.chapterData = {
     {
       "filename": "Chương_00078_Đại_Chiến_Đầm_Lầy.md",
       "title": "Chương 78: Đại Chiến Đầm Lầy"
+    },
+    {
+      "filename": "Chương_00079_Tử_Chiến_Đầm_Lầy.md",
+      "title": "Chương 79: Tử Chiến Đầm Lầy"
+    },
+    {
+      "filename": "Chương_00080_Kết_Cục_Phệ_Hồn.md",
+      "title": "Chương 80: Kết Cục Phệ Hồn"
+    },
+    {
+      "filename": "Chương_00081_Bí_Cảnh_Huyết_Sát.md",
+      "title": "Chương 81: Bí Cảnh Huyết Sát"
+    },
+    {
+      "filename": "Chương_00082_Tẩy_Tủy_Huyết_Trì.md",
+      "title": "Chương 82: Tẩy Tủy Huyết Trì"
+    },
+    {
+      "filename": "Chương_00083_Sứ_Mệnh_Trung_Tâm.md",
+      "title": "Chương 83: Sứ Mệnh Trung Tâm"
+    },
+    {
+      "filename": "Chương_00084_Bóng_Ma_Trung_Tâm.md",
+      "title": "Chương 84: Bóng Ma Trung Tâm"
+    },
+    {
+      "filename": "Chương_00085_Giao_Dịch_Bóng_Tối.md",
+      "title": "Chương 85: Giao Dịch Bóng Tối"
+    },
+    {
+      "filename": "Chương_00086_Hỗn_Loạn_Cửu_Hoa.md",
+      "title": "Chương 86: Hỗn Loạn Cửu Hoa"
     }
   ]
 };
