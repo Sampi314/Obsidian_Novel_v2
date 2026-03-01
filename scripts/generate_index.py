@@ -245,6 +245,35 @@ def generate_root_index_html(repo_root):
 
     html_content.append('    </ul>')
 
+    # Quy Hoạch Cốt Truyện Section
+    html_content.append('    <h2>🗺️ Quy Hoạch Cốt Truyện (Story Arcs)</h2>')
+    html_content.append('    <p>Các tuyến truyện chính trên toàn Cố Nguyên Giới:</p>')
+    html_content.append('    <ul>')
+
+    arcs_links = [
+        ("Tuyến Truyện Nam Cương", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Tuyến_Truyện_Nam_Cương.md", [
+            ("Diệp Tĩnh Sương Chi Tiết", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Diệp_Tĩnh_Sương_Chi_Tiết.md"),
+            ("Lâm Phong", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lâm_Phong.md"),
+            ("Lệ Vô Tâm Chi Tiết", "Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Lệ_Vô_Tâm_Chi_Tiết.md"),
+        ]),
+        ("Tuyến Truyện Bắc Hàn", "Đạo/Quy_Hoạch_Cốt_Truyện/Bắc_Hàn/Tuyến_Truyện_Bắc_Hàn.md", []),
+        ("Tuyến Truyện Đông Hoang", "Đạo/Quy_Hoạch_Cốt_Truyện/Đông_Hoang/Tuyến_Truyện_Đông_Hoang.md", []),
+        ("Tuyến Truyện Thiên Trụ", "Đạo/Quy_Hoạch_Cốt_Truyện/Thiên_Trụ/Tuyến_Truyện_Thiên_Trụ.md", []),
+        ("Tuyến Truyện Tây Mạc", "Đạo/Quy_Hoạch_Cốt_Truyện/Tây_Mạc/Tuyến_Truyện_Tây_Mạc.md", []),
+        ("Quản Lý Arc Truyện", "Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md", [])
+    ]
+
+    for title, path, sub_links in arcs_links:
+        html_content.append(f'        <li><a href="{path}">{title}</a>')
+        if sub_links:
+            html_content.append('            <ul>')
+            for sub_title, sub_path in sub_links:
+                html_content.append(f'                <li><a href="{sub_path}">{sub_title}</a></li>')
+            html_content.append('            </ul>')
+        html_content.append('        </li>')
+
+    html_content.append('    </ul>')
+
     # Wiki Section
     html_content.append('    <h2>📚 Tra Cứu (Wiki)</h2>')
     html_content.append('    <p>Thông tin chi tiết về thế giới, nhân vật và hệ thống tu luyện:</p>')
