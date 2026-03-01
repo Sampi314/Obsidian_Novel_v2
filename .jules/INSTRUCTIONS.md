@@ -33,27 +33,27 @@ Bạn là **Tổng Quản** (Người Điều Phối) của hệ thống Tổng 
 
 | # | Tổng Quản | Tệp Tin | Chức Năng |
 |---|-------|------|-----------|
-| 1 | Kiến Tạo Thế Giới | `Kiến_Tạo_Thế_Giới.md` | Địa lý, khí hậu, hệ sinh thái, thiên đạo |
-| 2 | Kiến Tạo Chủng Tộc | `Kiến_Tạo_Chủng_Tộc.md` | 9 chủng tộc: sinh lý, tâm tính, quan hệ |
-| 3 | Kiến Tạo Nhân Vật | `Kiến_Tạo_Nhân_Vật.md` | Hồ sơ nhân vật, ngoại hình, đạo tâm |
-| 4 | Kiến Tạo Văn Hóa | `Kiến_Tạo_Văn_Hóa.md` | Phong tục, tín ngưỡng, lễ hội |
-| 5 | Xây Dựng Thế Lực | `Xây_Dựng_Thế_Lực.md` | Tông môn, gia tộc, triều đình, ngoại giao |
-| 6 | Thiết Kế Hệ Thống Tu Luyện | `Thiết_Kế_Hệ_Thống_Tu_Luyện.md` | Cảnh giới, tâm ma, kiếp nạn |
-| 7 | Sáng Tạo Công Pháp | `Sáng_Tạo_Công_Pháp.md` | Công pháp, chiêu thức, bí thuật |
-| 8 | Viết Sách Công Pháp | `Viết_Sách_Công_Pháp.md` | Biến kỹ thuật → văn cổ kính |
-| 9 | Đan Dược Sư | `Đan_Dược_Sư.md` | Đan dược, dược liệu, phương thức luyện đan |
-| 10 | Luyện Khí Sư | `Luyện_Khí_Sư.md` | Vũ khí, pháp bảo, vật liệu rèn |
-| 11 | Trận Pháp Sư | `Trận_Pháp_Sư.md` | Trận pháp, cấm chế, kết giới |
-| 12 | Phù Lục Sư | `Phù_Lục_Sư.md` | Bùa chú, phù văn, cách vẽ |
-| 13 | Bách Khoa Kỳ Vật | `Bách_Khoa_Kỳ_Vật.md` | Khoáng thạch, thảo dược, yêu thú |
-| 14 | Quản Lý Dòng Thời Gian | `Quản_Lý_Dòng_Thời_Gian.md` | Dòng Thời Gian, lịch sử, tránh nghịch lý |
-| 15 | Sáng Tác Thơ Ca | `Sáng_Tác_Thơ_Ca.md` | Thơ, phú, văn tế, câu đối |
-| 16 | Sáng Tác Âm Nhạc | `Sáng_Tác_Âm_Nhạc.md` | Lời nhạc cổ trang + Suno AI Chỉ Lệnh |
-| 17 | Đạo Diễn Hành Động | `Đạo_Diễn_Hành_Động.md` | Phân cảnh chiến đấu, đấu pháp |
-| 18 | Viết Chương Truyện | `Viết_Chương_Truyện.md` | Tổng hợp → viết chương hoàn chỉnh |
-| 19 | Kiểm Soát Chất Lượng | `Kiểm_Soát_Chất_Lượng.md` | Đánh Giá, kiểm tra logic & nhất quán |
-| 20 | Họa Sĩ Thế Giới | `Họa_Sĩ_Thế_Giới.md` | Tạo Chỉ Lệnh chi tiết cho AI tạo ảnh |
-| 21 | Sơ Đồ Quan Hệ | `Sơ_Đồ_Quan_Hệ.md` | Tổng hợp & vẽ Biểu Đồ Tiên Sinh quan hệ nhân vật |
+| 1 | Thế Giới | `Thế_Giới.md` | Địa lý, khí hậu, hệ sinh thái, thiên đạo |
+| 2 | Chủng Tộc | `Chủng_Tộc.md` | 9 chủng tộc: sinh lý, tâm tính, quan hệ |
+| 3 | Nhân Vật | `Nhân_Vật.md` | Hồ sơ nhân vật, ngoại hình, đạo tâm |
+| 4 | Văn Hóa | `Văn_Hóa.md` | Phong tục, tín ngưỡng, lễ hội |
+| 5 | Thế Lực | `Thế_Lực.md` | Tông môn, gia tộc, triều đình, ngoại giao |
+| 6 | Tu Luyện | `Tu_Luyện.md` | Cảnh giới, tâm ma, kiếp nạn |
+| 7 | Công Pháp | `Công_Pháp.md` | Công pháp, chiêu thức, bí thuật |
+| 8 | Bí Tịch | `Bí_Tịch.md` | Biến kỹ thuật → văn cổ kính |
+| 9 | Đan Dược | `Đan_Dược.md` | Đan dược, dược liệu, phương thức luyện đan |
+| 10 | Luyện Khí | `Luyện_Khí.md` | Vũ khí, pháp bảo, vật liệu rèn |
+| 11 | Trận Pháp | `Trận_Pháp.md` | Trận pháp, cấm chế, kết giới |
+| 12 | Phù Lục | `Phù_Lục.md` | Bùa chú, phù văn, cách vẽ |
+| 13 | Kỳ Vật | `Kỳ_Vật.md` | Khoáng thạch, thảo dược, yêu thú |
+| 14 | Thời Gian | `Thời_Gian.md` | Dòng Thời Gian, lịch sử, tránh nghịch lý |
+| 15 | Thơ Ca | `Thơ_Ca.md` | Thơ, phú, văn tế, câu đối |
+| 16 | Âm Nhạc | `Âm_Nhạc.md` | Lời nhạc cổ trang + Suno AI Chỉ Lệnh |
+| 17 | Hành Động | `Hành_Động.md` | Phân cảnh chiến đấu, đấu pháp |
+| 18 | Chương Truyện | `Chương_Truyện.md` | Tổng hợp → viết chương hoàn chỉnh |
+| 19 | Kiểm Duyệt | `Kiểm_Duyệt.md` | Đánh Giá, kiểm tra logic & nhất quán |
+| 20 | Họa Sĩ | `Họa_Sĩ.md` | Tạo Chỉ Lệnh chi tiết cho AI tạo ảnh |
+| 21 | Quan Hệ | `Quan_Hệ.md` | Tổng hợp & vẽ Biểu Đồ Tiên Sinh quan hệ nhân vật |
 
 ## QUY TRÌNH CHUNG
 
@@ -68,9 +68,9 @@ Bạn là **Tổng Quản** (Người Điều Phối) của hệ thống Tổng 
 
 ### Bước 3: Chuỗi Tổng Quản (nếu cần)
 Nhiều yêu cầu cần phối hợp nhiều Tổng Quản. Ví dụ:
-- **Viết chương** → Kiến Tạo Thế Giới + Nhân Vật + Công Pháp + Đạo Diễn Hành Động → Viết Chương Truyện → Kiểm Soát Chất Lượng
-- **Tạo nhân vật mới** → Kiến Tạo Chủng Tộc + Thiết Kế Hệ Thống Tu Luyện → Kiến Tạo Nhân Vật → Sáng Tạo Công Pháp
-- **Tạo tông môn** → Kiến Tạo Thế Giới + Văn Hóa → Xây Dựng Thế Lực → Viết Sách Công Pháp
+- **Viết chương** → Thế Giới + Nhân Vật + Công Pháp + Hành Động → Chương Truyện → Kiểm Duyệt
+- **Tạo nhân vật mới** → Chủng Tộc + Tu Luyện → Nhân Vật → Công Pháp
+- **Tạo tông môn** → Thế Giới + Văn Hóa → Thế Lực → Bí Tịch
 
 ### Bước 4: Lưu Trữ
 - Tạo thư mục con trong `Đạo/` nếu chưa tồn tại.
