@@ -24,3 +24,4 @@
 - [Chương 77: Biến Số Từ Đầm Lầy](Chương_00077_Biến_Số_Từ_Đầm_Lầy.md)
 - [Chương 78: Đại Chiến Đầm Lầy](Chương_00078_Đại_Chiến_Đầm_Lầy.md)
 - [Chương 79: Tử Chiến Đầm Lầy](Chương_00079_Tử_Chiến_Đầm_Lầy.md)
+- [Chương 80: Kết Cục Phệ Hồn](Chương_00080_Kết_Cục_Phệ_Hồn.md)

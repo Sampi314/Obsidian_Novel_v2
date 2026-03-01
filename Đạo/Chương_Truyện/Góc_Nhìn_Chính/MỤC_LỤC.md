@@ -85,4 +85,5 @@
 - [Chương 83: Phá Giải Huyễn Ảnh](Chương_00083_Phá_Giải_Huyễn_Ảnh.md)
 - [Chương 84: Phá Hủy Mắt Trận](Chương_00084_Phá_Hủy_Mắt_Trận.md)
 - [Chương 85: Hội Sư Đầm Lầy](Chương_00085_Hội_Sư_Đầm_Lầy.md)
+- [Chương 86: Trảm Độc Kiếm Tâm](Chương_00086_Trảm_Độc_Kiếm_Tâm.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)
