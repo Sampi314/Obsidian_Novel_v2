@@ -1,12 +1,13 @@
 ---
 title: "Chương 97: Khắc Phục Hậu Quả"
 ---
-
 <!-- NAVIGATION_START -->
-<div class="navigation">
-[< Chương 96: Cường Giả Hàng Lâm](Chương_00096_Cường_Giả_Hàng_Lâm.md) | [Mục Lục](MỤC_LỤC.md) | Chương 98: TBA >
-</div>
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
+
 # Chương 97: Khắc Phục Hậu Quả
 
 **Tác giả:** Tổng Quản (Jules)
