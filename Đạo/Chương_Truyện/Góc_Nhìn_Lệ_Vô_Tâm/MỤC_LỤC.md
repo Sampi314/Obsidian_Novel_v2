@@ -28,3 +28,4 @@
 - [Chương 81: Bí Cảnh Huyết Sát](Chương_00081_Bí_Cảnh_Huyết_Sát.md)
 - [Chương 82: Tẩy Tủy Huyết Trì](Chương_00082_Tẩy_Tủy_Huyết_Trì.md)
 - [Chương 83: Sứ Mệnh Trung Tâm](Chương_00083_Sứ_Mệnh_Trung_Tâm.md)
+- [Chương 84: Bóng Ma Trung Tâm](Chương_00084_Bóng_Ma_Trung_Tâm.md)

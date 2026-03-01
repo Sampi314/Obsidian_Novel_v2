@@ -371,6 +371,10 @@ window.chapterData = {
       "title": "Chương 89: Huyết Sát Chặn Đường"
     },
     {
+      "filename": "Chương_00090_Đến_Cửu_Hoa.md",
+      "title": "Chương 90: Đến Cửu Hoa"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -749,6 +753,10 @@ window.chapterData = {
     {
       "filename": "Chương_00083_Sứ_Mệnh_Trung_Tâm.md",
       "title": "Chương 83: Sứ Mệnh Trung Tâm"
+    },
+    {
+      "filename": "Chương_00084_Bóng_Ma_Trung_Tâm.md",
+      "title": "Chương 84: Bóng Ma Trung Tâm"
     }
   ]
 };

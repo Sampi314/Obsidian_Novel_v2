@@ -152,3 +152,4 @@
 | Hôm nay | Tổng Quản | Khởi tạo Thế lực Huyết Sát Minh và Quy hoạch Arc 4 | Hoàn Thành | Quét thấy thiếu thực thể "Huyết Sát Minh", đã tạo mới file hồ sơ, cập nhật Index và thiết lập mục tiêu Arc 4 cho các tuyến truyện. |
 | Hôm nay | Tổng Quản | Viết Chương 87 (Góc Nhìn Chính) & Chương 81 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Khởi đầu Arc 4. Nhóm Tĩnh Sương rời Đầm Lầy tiến về Cửu Hoa Kiếm Tông. Lệ Vô Tâm dưỡng thương tại Huyết Uyên Đảo và bắt đầu phục vụ Huyết Sát Minh. |
 | Hôm nay | Tổng Quản | Viết Chương 88 (Góc Nhìn Chính) & Chương 82 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Nhóm Tĩnh Sương tiến vào lãnh thổ Trung Tâm và bị phục kích. Lệ Vô Tâm được Huyết Thần Tử tẩy tủy và nâng cấp sức mạnh. |
+| Hôm nay | Tổng Quản | Viết Chương 90 (Góc Nhìn Chính) & Chương 84 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Nhóm Tĩnh Sương đến Cửu Hoa Kiếm Tông báo cáo. Lệ Vô Tâm tàn sát tiêu cục ở Trung Tâm để thử sức mạnh mới. |
