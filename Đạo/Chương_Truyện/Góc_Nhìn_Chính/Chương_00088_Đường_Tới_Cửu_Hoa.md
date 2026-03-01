@@ -8,7 +8,6 @@ description: "Hành trình của nhóm Diệp Tĩnh Sương rời khỏi Nam Cư
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-
 # Chương 88: Đường Tới Cửu Hoa
 
 **Tác giả:** Tổng Quản (Jules)

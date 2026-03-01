@@ -77,7 +77,8 @@
     - **Sự Kiện Mới (Arc 4 Khởi Đầu):** Nhóm Tĩnh Sương chuẩn bị tiến về Cửu Hoa Kiếm Tông để tìm hiểu sâu hơn về thân phận của Huyết Sát Minh và các manh mối mà chúng để lại tại Đầm Lầy Tử Thần.
     - **Nhiệm Vụ Hiện Tại:** Rời khỏi Đầm Lầy Tử Thần, hội ngộ và cùng Sở Lăng Sương tiến về Trung Tâm (Hoàn thành - Chương 87 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Tiến vào lãnh thổ Trung Tâm (Bình Nguyên Vạn Tượng), nhận thức rõ hơn về thế lực Huyết Sát Minh và bị phục kích bởi một nhóm sát thủ của tổ chức này.
-    - **Nhiệm Vụ Hiện Tại:** Đánh bại nhóm sát thủ Huyết Sát Minh và tiếp tục hành trình đến Cửu Hoa Kiếm Tông (Đang diễn ra - Chương 88 Góc Nhìn Chính).
+    - **Nhiệm Vụ Hiện Tại:** Đánh bại nhóm sát thủ Huyết Sát Minh và tiếp tục hành trình đến Cửu Hoa Kiếm Tông (Hoàn thành - Chương 89 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Nhận ra sự thâm nhập đáng sợ của Huyết Sát Minh vào khu vực Trung Tâm, quyết tâm đến Cửu Hoa Kiếm Tông cảnh báo.
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đã hoàn thành (Chuyển sang Arc mới).
@@ -109,6 +110,8 @@
     - **Sự Kiện Mới (Arc 4 Khởi Đầu):** Lệ Vô Tâm dưỡng thương tại bí cảnh của Huyết Sát Minh, đối mặt với sự thao túng mới từ Minh Chủ và quyết tâm tìm cách tái khởi động đại kế báo thù.
     - **Nhiệm Vụ Hiện Tại:** Thức tỉnh tại Huyết Uyên Đảo, hấp thu Huyết Tinh Nguyên để phục hồi Vạn Độc Thân và chấp nhận trở thành tay sai của Huyết Sát Minh để đổi lấy sức mạnh (Hoàn thành - Chương 81 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Chịu đựng cơn đau đớn tột cùng khi hấp thụ Huyết Tinh Nguyên, Thiên Tinh Mẫu Cổ dung hợp hoàn toàn. Vạn Độc Thân được tái tạo và đột phá lên Trúc Cơ Hậu Kỳ. Lệ Vô Tâm nhận nhiệm vụ mới từ Huyết Thần Tử: đối phó với nhóm Diệp Tĩnh Sương đang trên đường đến Cửu Hoa Kiếm Tông (Hoàn thành - Chương 82 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Lệ Vô Tâm diện kiến Huyết Tước, nhận hộp ngọc "Huyết Tinh Oán Linh" để giao cho Lục Trần - Trưởng Lão Ngoại Môn Cửu Hoa Kiếm Tông.
+    - **Nhiệm Vụ Hiện Tại:** Lên đường tiến vào Trung Tâm để thực hiện nhiệm vụ phá hoại và chuẩn bị trả thù nhóm Diệp Tĩnh Sương (Hoàn thành - Chương 83 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
