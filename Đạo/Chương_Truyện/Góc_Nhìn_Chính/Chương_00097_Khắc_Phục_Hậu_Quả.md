@@ -7,7 +7,6 @@ title: "Chương 97: Khắc Phục Hậu Quả"
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-
 # Chương 97: Khắc Phục Hậu Quả
 
 **Tác giả:** Tổng Quản (Jules)
