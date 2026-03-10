@@ -61,7 +61,7 @@ def generate_table(directory, col1_title, col2_title):
     files.sort()
 
     lines = []
-    lines.append(f"| {col1_title} | {col2_title} | File |")
+    lines.append(f"| {col1_title} | {col2_title} | Tệp Tin |")
     lines.append(f"| :--- | :--- | :--- |")
 
     for f in files:
