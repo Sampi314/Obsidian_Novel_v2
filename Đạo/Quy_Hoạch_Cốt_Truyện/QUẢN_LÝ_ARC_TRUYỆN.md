@@ -92,6 +92,8 @@
     - **Sự Kiện Mới:** Diệp Tĩnh Sương và Lâm Phong nhận ra sức mạnh thực sự của cường giả Hóa Thần, quyết tâm tu luyện mạnh mẽ hơn để có thể bảo vệ mình và đối đầu với Huyết Sát Minh trong tương lai.
     - **Nhiệm Vụ Hiện Tại:** Cửu Hoa Kiếm Tông đóng cửa sơn môn, nhóm Tĩnh Sương bước vào đợt bế quan tu luyện cường độ cao với nhiều tài nguyên mới để xung kích cảnh giới (Hoàn thành - Chương 98 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Cả nhóm tĩnh tâm chuẩn bị cho một giai đoạn mới, hướng đến việc trở thành những trụ cột chống lại Huyết Sát Minh trong tương lai (Tiền đề Arc 5).
+    - **Sự Kiện Mới (Arc 5 Khởi Đầu):** Sau ba tháng bế quan, Diệp Tĩnh Sương đột phá cảnh giới chạm bình cảnh Trúc Cơ Hậu Kỳ, Lâm Phong tiến vào Trúc Cơ Sơ Kỳ. Bọn họ được Đại Trưởng Lão cử đi Đông Hoang để phá hủy mạng lưới ngầm của Huyết Sát Minh.
+    - **Nhiệm Vụ Hiện Tại:** Rời khỏi Cửu Hoa Kiếm Tông, hướng về Đông Hoang (Hoàn thành - Chương 99 Góc Nhìn Chính).
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đã hoàn thành (Chuyển sang Arc mới).
@@ -138,6 +140,8 @@
     - **Nhiệm Vụ Hiện Tại:** Rút lui về căn cứ Huyết Sát Minh dưỡng thương, báo cáo kết quả phá hoại và chuẩn bị cho bước tiếp theo của Huyết Thần Tử (Hoàn thành - Chương 91 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Lệ Vô Tâm báo cáo thất bại với Huyết Tước. Ý thức được sự chênh lệch với Hóa Thần Kỳ, hắn càng thêm khao khát quyền lực và sức mạnh để không bị Huyết Sát Minh tiếp tục thao túng.
     - **Nhiệm Vụ Hiện Tại:** Lệ Vô Tâm được Huyết Thần Tử chữa trị thương thế từ Hóa Thần kỳ và bị gieo Huyết Độc sâu hơn vào linh hồn. Hắn dấy lên một dã tâm phản nghịch cả Huyết Sát Minh, và bước vào quá trình tu luyện điên cuồng nhất để thăng cấp, chờ đợi đợt tấn công kế tiếp (Hoàn thành - Chương 92 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới (Arc 5 Khởi Đầu):** Lệ Vô Tâm đột phá Trúc Cơ Hậu Kỳ, nhận "Huyết Sát Lệnh" từ Huyết Tước. Hắn nhận nhiệm vụ đi Đông Hoang để thống nhất tà đạo và săn lùng nhóm Diệp Tĩnh Sương.
+    - **Nhiệm Vụ Hiện Tại:** Lên đường tiến về Đông Hoang (Hoàn thành - Chương 93 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

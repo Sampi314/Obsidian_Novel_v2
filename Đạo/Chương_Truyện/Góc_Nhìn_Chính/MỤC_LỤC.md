@@ -98,4 +98,5 @@
 - [Chương 96: Cường Giả Hàng Lâm](Chương_00096_Cường_Giả_Hàng_Lâm.md)
 - [Chương 97: Tàn Tích Ngoại Môn](Chương_00097_Tàn_Tích_Ngoại_Môn.md)
 - [Chương 98: Bế Quan Tu Luyện](Chương_00098_Bế_Quan_Tu_Luyện.md)
+- [Chương 99: Xuất Quan](Chương_00099_Xuất_Quan.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)

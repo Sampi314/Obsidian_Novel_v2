@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HỒ SƠ NHÂN VẬT: Lâm Phong</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Nhân_Vật/Lâm_Phong.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<h1>HỒ SƠ NHÂN VẬT: Lâm Phong</h1>
+<br>
+<h2>I. THÔNG TIN CƠ BẢN</h2>
+<ul>
+<li><strong>Tên:</strong> Lâm Phong (林风)</li>
+<li><strong>Tên Khác/Biệt Danh:</strong> (Chưa có)</li>
+<li><strong>Tuổi:</strong> Khoảng 18-20 (ngoại hình)</li>
+<li><strong>Giới Tính:</strong> Nam</li>
+<li><strong>Tình Trạng:</strong> Còn sống.</li>
+<li><strong>Vai Trò:</strong> Nam chính (Góc Nhìn Chính). Bạn đồng hành, người bảo vệ của Diệp Tĩnh Sương.</li>
+<li><strong>Chủng Tộc:</strong> Nhân Tộc.</li>
+<li><strong>Cảnh Giới:</strong> Trúc Cơ Sơ Kỳ. (Trước đó: Luyện Khí Tầng 9).</li>
+</ul>
+<h2>II. NGOẠI HÌNH & TÍNH CÁCH</h2>
+<ul>
+<li><strong>Ngoại Hình:</strong> Dáng người cao gầy nhưng rắn chắc, nước da ngăm đen vì sương gió. Thường mặc thanh y đơn giản, sau lưng luôn đeo một cây cung lớn. Ánh mắt kiên định, sáng ngời.</li>
+<li><strong>Tính Cách:</strong> Trầm ổn, ít nói nhưng hành động quyết đoán. Rất trung thành và bảo vệ Diệp Tĩnh Sương vô điều kiện. Suy nghĩ thấu đáo, thường quan sát kỹ trận pháp hoặc điểm yếu của đối thủ trước khi ra tay.</li>
+</ul>
+<h2>III. NĂNG LỰC & TU LUYỆN</h2>
+<ul>
+<li><strong>Công Pháp Chính:</strong></li>
+<li><strong><a href="../Công_Pháp/Thanh_Mộc_Trường_Sinh_Quyết.html">Thanh Mộc Trường Sinh Quyết</a>:</strong> Công pháp Mộc hệ thượng thừa, có khả năng chữa trị thương thế và cường hóa sinh lực.</li>
+<li><strong>Vũ Khí/Pháp Bảo:</strong></li>
+<li><strong>Truy Phong Cung (Pháp Khí Cực Phẩm):</strong> Cây cung lớn làm từ gỗ linh mộc, dây cung dai chắc.</li>
+<li><strong>Kỹ Năng/Chiêu Thức:</strong></li>
+<li><strong>Thanh Mộc Thần Tiễn:</strong> Tụ tập Mộc linh khí vào mũi tên, tạo ra lực sát thương lớn và có khả năng thanh tẩy oán khí, phá hủy các vật chứa Tà Độc (như Huyết Tinh thạch).</li>
+<li><strong>Mộc Vực Trói Buộc:</strong> Sử dụng rễ cây hoặc dây leo linh khí trói chặt kẻ thù.</li>
+<li><strong>Sở Trường:</strong> Bắn cung tầm xa, hỗ trợ, phá giải trận pháp, sinh tồn trong rừng rậm.</li>
+</ul>
+<h2>IV. CỐT TRUYỆN</h2>
+<ul>
+<li><strong>Xuất thân:</strong> Cùng lớn lên với Diệp Tĩnh Sương.</li>
+<li><strong>Arc 3 (Huyết Độc Rừng Thiêng):</strong> Đóng vai trò then chốt trong việc phá vỡ Vạn Độc Huyết Tế Đại Trận của Lệ Vô Tâm. Hắn là người bắn nát các khối Huyết Tinh thạch tại Mắt Trận phụ (Vùng Đất Chết) và Mắt Trận chính (Đầm Lầy Tử Thần), dập tắt âm mưu của Vạn Độc Môn.</li>
+<li><strong>Arc 4 (Huyết Sát Tại Trung Tâm):</strong> Cùng Diệp Tĩnh Sương đến Cửu Hoa Kiếm Tông. Đụng độ Lục Trần và tham gia bảo vệ ngoại môn trước sự tấn công của Huyết Sát Minh và Lệ Vô Tâm. Nhận ra sự nhỏ bé trước cường giả Hóa Thần và cùng Tĩnh Sương bế quan tu luyện.</li>
+</ul>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

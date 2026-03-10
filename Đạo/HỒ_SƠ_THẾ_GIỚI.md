@@ -178,6 +178,7 @@
         - [Chương 90: Uy Áp Hóa Thần](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00090_Uy_Áp_Hóa_Thần.md)
         - [Chương 91: Báo Cáo Trong Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00091_Báo_Cáo_Trong_Máu.md)
         - [Chương 92: Dã Tâm Bừng Sáng](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00092_Dã_Tâm_Bừng_Sáng.md)
+        - [Chương 93: Huyết Sát Lệnh](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00093_Huyết_Sát_Lệnh.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -210,6 +211,7 @@
         - [Chương 96: Cường Giả Hàng Lâm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00096_Cường_Giả_Hàng_Lâm.md)
         - [Chương 97: Tàn Tích Ngoại Môn](Chương_Truyện/Góc_Nhìn_Chính/Chương_00097_Tàn_Tích_Ngoại_Môn.md)
         - [Chương 98: Bế Quan Tu Luyện](Chương_Truyện/Góc_Nhìn_Chính/Chương_00098_Bế_Quan_Tu_Luyện.md)
+        - [Chương 99: Xuất Quan](Chương_Truyện/Góc_Nhìn_Chính/Chương_00099_Xuất_Quan.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)

@@ -417,3 +417,11 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Cửu Hoa Kiếm Tông đóng cửa sơn môn ba tháng để khắc phục. Nhóm Tĩnh Sương, Lâm Phong và Lăng Sương nhận được đặc quyền sử dụng tài nguyên tu luyện và Tàng Kinh Các, bắt đầu đợt bế quan cường độ cao để xung kích cảnh giới mới. Về phần Lệ Vô Tâm, hắn được Huyết Thần Tử chữa trị bằng Huyết Độc, tuy đau đớn nhưng hắn coi đây là cơ hội để đột phá và củng cố dã tâm phản nghịch cả Huyết Sát Minh, sẵn sàng dùng mọi thủ đoạn để đạt đến đỉnh cao.
 - **Tình trạng:** Hoàn thành. Kết thúc Arc 4.
+
+## Phiên làm việc: Viết Chương 99 (Góc Nhìn Chính) & Chương 93 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 99:** Xuất Quan
+- **Chương 93:** Huyết Sát Lệnh
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Khởi động Arc 5. Sau ba tháng, Diệp Tĩnh Sương tiến đến bình cảnh Trúc Cơ Hậu Kỳ, Lâm Phong củng cố Trúc Cơ Sơ Kỳ. Cả nhóm được cử đi Đông Hoang để triệt phá mạng lưới tình báo ngầm của Huyết Sát Minh. Tại Vô Tận Hải, Lệ Vô Tâm đột phá Trúc Cơ Hậu Kỳ, nhận "Huyết Sát Lệnh" từ Huyết Tước, được giao nhiệm vụ đi Đông Hoang để thống nhất tà đạo và tiêu diệt nhóm Diệp Tĩnh Sương.
+- **Tình trạng:** Hoàn thành.

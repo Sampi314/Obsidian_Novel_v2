@@ -407,6 +407,10 @@ window.chapterData = {
       "title": "Chương 98: Bế Quan Tu Luyện"
     },
     {
+      "filename": "Chương_00099_Xuất_Quan.md",
+      "title": "Chương 99: Xuất Quan"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -821,6 +825,10 @@ window.chapterData = {
     {
       "filename": "Chương_00092_Dã_Tâm_Bừng_Sáng.md",
       "title": "Chương 92: Dã Tâm Bừng Sáng (Góc Nhìn Lệ Vô Tâm)"
+    },
+    {
+      "filename": "Chương_00093_Huyết_Sát_Lệnh.md",
+      "title": "Chương 93: Huyết Sát Lệnh"
     }
   ]
 };

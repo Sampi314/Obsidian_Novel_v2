@@ -37,3 +37,4 @@
 - [Chương 90: Uy Áp Hóa Thần](Chương_00090_Uy_Áp_Hóa_Thần.md)
 - [Chương 91: Báo Cáo Trong Máu](Chương_00091_Báo_Cáo_Trong_Máu.md)
 - [Chương 92: Dã Tâm Bừng Sáng](Chương_00092_Dã_Tâm_Bừng_Sáng.md)
+- [Chương 93: Huyết Sát Lệnh](Chương_00093_Huyết_Sát_Lệnh.md)
