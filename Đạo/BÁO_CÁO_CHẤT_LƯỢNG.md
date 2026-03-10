@@ -195,3 +195,4 @@
 - Bổ sung thông tin về Quan Hệ Chủng Tộc (`Đạo/Chủng_Tộc/Quan_Hệ_Chủng_Tộc.md`).
 | Hôm nay | Tổng Quản | Khởi tạo Hồ sơ Đông Hoang | Hoàn Thành | Khởi tạo Tệp Tin `Đông_Hoang.md` và `Vĩnh_Hằng_Sâm_Lâm.md` để cung cấp bối cảnh chi tiết cho Arc 5. |
 | Hôm nay | Tổng Quản | Viết Chương 100 (Góc Nhìn Chính) & Chương 94 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Mở màn diễn biến tại Đông Hoang. Nhóm Tĩnh Sương chạm trán cường đạo và hướng tới Vĩnh Hằng Sâm Lâm. Lệ Vô Tâm cũng phát hiện động tĩnh của Vạn Độc Môn tại đây và phái mật thám theo dõi. |
+| Hôm nay | Tổng Quản | Viết Chương 101 (Góc Nhìn Chính) & Chương 95 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục diễn biến Arc 5. Nhóm Diệp Tĩnh Sương tiến vào Vĩnh Hằng Sâm Lâm và đối mặt với Quang Điểu, Thụ Tinh Cổ Tích bị Huyết Hóa do Huyết Thần Độc. Lệ Vô Tâm đến Vĩnh Hằng Sâm Lâm, thu nạp tàn dư Vạn Độc Môn và giăng bẫy chờ nhóm Tĩnh Sương. |

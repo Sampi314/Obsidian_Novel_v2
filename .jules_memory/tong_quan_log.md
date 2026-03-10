@@ -843,14 +843,16 @@
 - **Sáng tạo:**
   - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00100_Bước_Chân_Vào_Đông_Hoang.md`
   - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00094_Bóng_Tối_Trở_Lại.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00101_Bóng_Ma_Rừng_Thẳm.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00095_Bẫy_Rập_Vĩnh_Hằng.md`
 - **Cập nhật:**
   - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
   - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện mới khi vào Đông Hoang.
   - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận tiến độ.
 
 ## 3. TRẠNG THÁI HỆ THỐNG
-- **Tiến độ:** Khởi đầu Arc 5 tại Đông Hoang. Nhóm Diệp Tĩnh Sương nhận ra sự bất thường tại Vĩnh Hằng Sâm Lâm và chuyển hướng đến đó. Trong khi đó Lệ Vô Tâm tại Vạn Yêu Thành cũng đánh hơi được có Vạn Độc Môn và phái mật thám mai phục nhóm Tĩnh Sương.
-- **Tình trạng:** Thiết lập xung đột tại địa điểm mới là Vĩnh Hằng Sâm Lâm.
+- **Tiến độ:** Diễn biến đầu Arc 5 tại Đông Hoang. Nhóm Diệp Tĩnh Sương tiến vào Vĩnh Hằng Sâm Lâm và trực tiếp đối mặt với sự lây lan của Huyết Thần Độc lên thực vật và thú rừng (Quang Điểu, Thụ Tinh Cổ Tích). Lệ Vô Tâm cũng đến Vĩnh Hằng Sâm Lâm, thu nạp tàn dư của Vạn Độc Môn và bắt đầu bố trí bẫy để bao vây nhóm Tĩnh Sương.
+- **Tình trạng:** Các tuyến truyện đang hội tụ tại Vĩnh Hằng Sâm Lâm, nơi chuẩn bị diễn ra cuộc đụng độ đầu tiên tại Đông Hoang.
 
 ## 4. KẾ HOẠCH TIẾP THEO
-- Viết diễn biến nhóm Tĩnh Sương tiếp xúc với Tinh Linh Tộc và đối mặt với thế lực Vạn Độc Môn tàn dư ở đây, cùng với cái bẫy mà Lệ Vô Tâm giăng ra.
+- Viết diễn biến nhóm Tĩnh Sương tiếp xúc với Tinh Linh Tộc (Lục Tiêu, Nguyệt Dao) và tìm kiếm phương pháp thanh tẩy Huyết Thần Độc, đồng thời chạm trán cái bẫy Huyết Thi của Lệ Vô Tâm.
