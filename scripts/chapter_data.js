@@ -451,6 +451,10 @@ window.chapterData = {
       "title": "Chương 109: Tái Thiết Vương Đình"
     },
     {
+      "filename": "Chương_00110_Bóng_Đen_Vạn_Yêu.md",
+      "title": "Chương 110: Bóng Đen Vạn Yêu"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -909,6 +913,10 @@ window.chapterData = {
     {
       "filename": "Chương_00103_Rút_Lui_Chiến_Lược.md",
       "title": "Chương 103: Rút Lui Chiến Lược"
+    },
+    {
+      "filename": "Chương_00104_Thao_Túng_Vạn_Yêu.md",
+      "title": "Chương 104: Thao Túng Vạn Yêu"
     }
   ]
 };
