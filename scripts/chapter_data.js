@@ -415,6 +415,10 @@ window.chapterData = {
       "title": "Chương 100: Bước Chân Vào Đông Hoang"
     },
     {
+      "filename": "Chương_00101_Bóng_Ma_Rừng_Thẳm.md",
+      "title": "Chương 101: Bóng Ma Rừng Thẳm"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -837,6 +841,10 @@ window.chapterData = {
     {
       "filename": "Chương_00094_Bóng_Tối_Trở_Lại.md",
       "title": "Chương 94: Bóng Tối Trở Lại"
+    },
+    {
+      "filename": "Chương_00095_Bẫy_Rập_Vĩnh_Hằng.md",
+      "title": "Chương 95: Bẫy Rập Vĩnh Hằng"
     }
   ]
 };

@@ -95,6 +95,7 @@
     - **Sự Kiện Mới (Arc 5 Khởi Đầu):** Sau ba tháng bế quan, Diệp Tĩnh Sương đột phá cảnh giới chạm bình cảnh Trúc Cơ Hậu Kỳ, Lâm Phong tiến vào Trúc Cơ Sơ Kỳ. Bọn họ được Đại Trưởng Lão cử đi Đông Hoang để phá hủy mạng lưới ngầm của Huyết Sát Minh.
     - **Nhiệm Vụ Hiện Tại:** Rời khỏi Cửu Hoa Kiếm Tông, hướng về Đông Hoang (Hoàn thành - Chương 99 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Bước vào Đông Hoang, chạm trán toán cường đạo và nhận ra sự biến đổi của Vĩnh Hằng Sâm Lâm do Huyết Thần Độc. Nhóm Tĩnh Sương quyết định đổi hướng điều tra (Hoàn thành - Chương 100 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Tiến vào Vĩnh Hằng Sâm Lâm, đụng độ bầy Quang Điểu và Thụ Tinh Cổ Tích bị Huyết Hóa, chính thức chạm trán sự lây lan của Huyết Thần Độc (Hoàn thành - Chương 101 Góc Nhìn Chính).
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đã hoàn thành (Chuyển sang Arc mới).
@@ -144,6 +145,7 @@
     - **Sự Kiện Mới (Arc 5 Khởi Đầu):** Lệ Vô Tâm đột phá Trúc Cơ Hậu Kỳ, nhận "Huyết Sát Lệnh" từ Huyết Tước. Hắn nhận nhiệm vụ đi Đông Hoang để thống nhất tà đạo và săn lùng nhóm Diệp Tĩnh Sương.
     - **Nhiệm Vụ Hiện Tại:** Lên đường tiến về Đông Hoang (Hoàn thành - Chương 93 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Tại trạm trung chuyển Đông Hoang, Lệ Vô Tâm nhận tin báo về hoạt động của Vạn Độc Môn tại Vĩnh Hằng Sâm Lâm và phái Huyết Vệ điều tra, dự tính đón đầu nhóm Tĩnh Sương (Hoàn thành - Chương 94 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Lệ Vô Tâm đến Vĩnh Hằng Sâm Lâm, thu thập tàn dư Vạn Độc Môn và giăng bẫy chờ đợi nhóm Diệp Tĩnh Sương (Hoàn thành - Chương 95 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
