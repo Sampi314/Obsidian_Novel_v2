@@ -169,6 +169,9 @@
     - **Nhiệm Vụ Hiện Tại:** Điều tra Khu Chợ Đen tại Vạn Yêu Thành, phát hiện ra Huyết Thần Độc đang được bán dưới dạng 'Huyết Mạch Tinh' và tìm kiếm kẻ đứng sau (Hoàn thành - Chương 112 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Tiến đến Khu Đấu Trường và đụng độ trực tiếp Lệ Vô Tâm (đã đột phá Trúc Cơ Viên Mãn). Bị bao vây bởi hàng trăm Huyết Thi từ xác yêu thú (Hoàn thành - Chương 113 Góc Nhìn Chính / Chương 107 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Cuộc chiến tại Đấu Trường có biến số. Lục Mãng Vương và Huyết Hổ Vương can thiệp, tấn công Lệ Vô Tâm. Đối mặt với vòng vây, Lệ Vô Tâm phải dùng Huyết Độn rút lui. Trận chiến tạm kết thúc (Hoàn thành - Chương 114 Góc Nhìn Chính / Chương 108 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Nhóm Tĩnh Sương thương thuyết thành công với Lục Mãng Vương và Huyết Hổ Vương. Cả hai bên tạm thời hợp tác để truy lùng Lệ Vô Tâm tại Vạn Yêu Thành (Hoàn thành - Chương 115 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Lệ Vô Tâm dưỡng thương dưới lòng đất Vạn Yêu Thành và lên kế hoạch tìm kiếm sức mạnh Thượng Cổ tại Phế Tích Huyết Dạ để đột phá Kim Đan (Hoàn thành - Chương 109 Góc Nhìn Lệ Vô Tâm).
+
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

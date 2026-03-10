@@ -53,3 +53,4 @@
 - [Chương 106: Hấp Thụ Sát Khí](Chương_00106_Hấp_Thụ_Sát_Khí.md)
 - [Chương 107: Điệu Vũ Tử Thần](Chương_00107_Điệu_Vũ_Tử_Thần.md)
 - [Chương 108: Ánh Sáng Bất Ngờ](Chương_00108_Ánh_Sáng_Bất_Ngờ.md)
+- [Chương 109: Bóng Tối Trỗi Dậy](Chương_00109_Bóng_Tối_Trỗi_Dậy.md)
