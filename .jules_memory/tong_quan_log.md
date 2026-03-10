@@ -1290,3 +1290,23 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Viết cảnh đụng độ giữa nhóm Tĩnh Sương và Lệ Vô Tâm dưới Tuyệt Băng Uyên.
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Dọn Dẹp Phiên Bản Lỗi)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Kiểm tra lại cây thư mục sau khi người dùng xóa file, cập nhật hệ thống và chuẩn bị cho các nội dung tiếp theo.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Dọn dẹp:**
+  - Phát hiện người dùng đã xóa hai tệp tin `Chương_00097_Tàn_Tích_Ngoại_Môn.md` và `Chương_00091_Báo_Cáo_Trong_Máu.md`. Phân tích cho thấy đây là các bản sao/phiên bản lỗi của `Chương_00097_Khắc_Phục_Hậu_Quả.md` và `Chương_00091_Báo_Cáo_Thất_Bại.md`.
+  - Đồng bộ xóa các tệp `.html` tương ứng trong `Đạo HTML/`.
+- **Cập nhật:**
+  - Chạy lại các tập lệnh python để cập nhật MỤC_LỤC và Index.
+  - Ghi nhận thông tin vào log.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tình trạng:** Cây thư mục hiện đã sạch sẽ, không còn tệp trùng lặp. Các chương truyện đang diễn tiến đúng mạch và sẵn sàng mở đầu Arc 5.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Chuẩn bị viết các chương đầu tiên của Arc 5 (nhóm Tĩnh Sương xuất quan và Huyết Sát Minh hành động trở lại).
+- **Chỉ dẫn:** Chạy tự động không dừng lại chờ input người dùng (cập nhật từ lệnh người dùng cuối).
