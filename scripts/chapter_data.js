@@ -475,6 +475,10 @@ window.chapterData = {
       "title": "Chương 115: Đối Thoại Yêu Vương"
     },
     {
+      "filename": "Chương_00116_Hang_Động_Mãng_Tộc.md",
+      "title": "Chương 116: Hang Động Mãng Tộc"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -957,6 +961,10 @@ window.chapterData = {
     {
       "filename": "Chương_00109_Bóng_Tối_Trỗi_Dậy.md",
       "title": "Chương 109: Bóng Tối Trỗi Dậy"
+    },
+    {
+      "filename": "Chương_00110_Phế_Tích_Huyết_Dạ.md",
+      "title": "Chương 110: Phế Tích Huyết Dạ"
     }
   ]
 };

@@ -1131,3 +1131,27 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Viết diễn biến nhóm Tĩnh Sương điều tra tại hang động ngầm của Mãng Tộc hoặc cuộc thám hiểm Phế Tích Huyết Dạ của Lệ Vô Tâm.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Huyết Dạ Phế Tích)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết tiếp diễn biến Arc 5 tại Đông Hoang. Cuộc hành trình của nhóm Tĩnh Sương và Lệ Vô Tâm tại khu vực hang động ngầm và Phế Tích Huyết Dạ.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Huyết_Dạ.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00116_Hang_Động_Mãng_Tộc.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00110_Phế_Tích_Huyết_Dạ.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới và địa danh mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện Lệ Vô Tâm tiến vào Phế Tích Huyết Dạ và nhóm Tĩnh Sương theo sát.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md` và `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/MỤC_LỤC.md`.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Lệ Vô Tâm đã tiến vào Phế Tích Huyết Dạ dưới lòng đất Vạn Yêu Thành, bắt đầu hấp thụ sát khí và tàn hồn Thượng Cổ để xung kích Kim Đan. Ngay phía sau, nhóm Tĩnh Sương cùng Lục Mãng Vương và Huyết Hổ Vương cũng đã tìm đến cửa phế tích, chuẩn bị tiến vào ngăn chặn hắn.
+- **Tình trạng:** Khởi đầu cho một màn đối đầu sinh tử mới tại khu vực cực kỳ nguy hiểm.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết diễn biến nhóm Tĩnh Sương tiến vào Phế Tích Huyết Dạ, đối mặt với tàn hồn Thượng Cổ và chạm trán với Lệ Vô Tâm đang trên đà đột phá tại Huyết Tế Đài.
