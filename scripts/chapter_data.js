@@ -427,6 +427,10 @@ window.chapterData = {
       "title": "Chương 103: Vòng Vây Huyết Thi"
     },
     {
+      "filename": "Chương_00104_Ánh_Sáng_Cứu_Viện.md",
+      "title": "Chương 104: Ánh Sáng Cứu Viện"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -861,6 +865,10 @@ window.chapterData = {
     {
       "filename": "Chương_00097_Màn_Kịch_Đẫm_Máu.md",
       "title": "Chương 97: Màn Kịch Đẫm Máu"
+    },
+    {
+      "filename": "Chương_00098_Dấu_Vết_Lưu_Lại.md",
+      "title": "Chương 98: Dấu Vết Lưu Lại"
     }
   ]
 };

@@ -59,4 +59,4 @@
 - [Chương 57: Huyết Chiến Ngô Công](Chương_00057_Huyết_Chiến_Ngô_Công.md)
 - [Chương 58: Giao Ước Trong Bóng Tối](Chương_00058_Giao_Ước_Trong_Bóng_Tối.md)
 - [Chương 59: Lối Mòn Trong Lòng Đất](Chương_00059_Lối_Mòn_Trong_Lòng_Đất.md)
-- [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)
+- [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)- [Chương 104: Ánh Sáng Cứu Viện](Chương_00104_Ánh_Sáng_Cứu_Viện.md)
