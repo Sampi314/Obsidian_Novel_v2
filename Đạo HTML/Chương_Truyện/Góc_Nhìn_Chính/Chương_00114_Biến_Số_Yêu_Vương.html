@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00114 Biến Số Yêu Vương</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00114_Biến_Số_Yêu_Vương.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<p><!-- NAVIGATION_START --></p>
+<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>
+<p><script src="../../../scripts/chapter_data.js"></script></p>
+<p><script src="../../../scripts/navigation.js"></script></p>
+<p><script src="../../../scripts/tts_player.js"></script></p>
+<p><!-- NAVIGATION_END --></p>
+<h1>Chương 114: Biến Số Yêu Vương</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Nhân vật chính:</strong> <a href="../../Nhân_Vật/Diệp_Tĩnh_Sương.html">Diệp Tĩnh Sương</a>, <a href="../../Nhân_Vật/Lâm_Phong.html">Lâm Phong</a></p>
+<p><strong>Địa điểm:</strong> <a href="../../Thế_Lực/Vạn_Yêu_Thành.html">Vạn Yêu Thành</a> (Khu Đấu Trường)</p>
+<br>
+<p>---</p>
+<br>
+<p>Tiếng gầm rống man rợ của hàng trăm Huyết Thi vang dội khắp Khu Đấu Trường, hòa lẫn với tiếng kim loại va chạm chát chúa. Diệp Tĩnh Sương và Lâm Phong như hai chiếc lá mỏng manh giữa cơn bão táp tàn độc. Bọn xác sống không biết đau đớn, không biết mệt mỏi, chúng chỉ biết cắn xé và truyền nhiễm Huyết Thần Độc.</p>
+<br>
+<p>"Hàn Mai Lạc Tuyết!" (寒梅落雪)</p>
+<br>
+<p>Tĩnh Sương vung kiếm, một vòng cung hàn khí sắc lẹm chém đứt làm đôi ba con Huyết Thi đang lao tới. Tuy nhiên, vết chém không hề chảy máu mà chỉ rỉ ra một thứ dịch lỏng màu đỏ sậm hôi thối. Đáng sợ hơn, những mảnh thân thể bị đứt lìa kia vẫn tiếp tục vặn vẹo, cố gắng bò về phía nàng.</p>
+<br>
+<p>Lâm Phong liên tục kéo dây cung, những mũi Thanh Mộc Thần Tiễn cắm ngập vào sọ của bọn Huyết Thi, giải phóng mộc khí để phong ấn sinh lực tà ác của chúng. Nhưng số lượng Huyết Thi quá đông, chúng mọc lên từ vô số cái xác yêu thú đã ngã xuống trong cuộc nội chiến trước đó.</p>
+<br>
+<p>Từ trên cao, Lệ Vô Tâm thả mình lơ lửng, ánh mắt đỏ ngầu thích thú nhìn xuống cuộc chiến dai dẳng. Hắn không hề vội vàng, giống như một con mèo đang vờn chuột. Hắn nhấc tay lên, một đạo Huyết Độc Chân Khí ngưng tụ thành hình thanh kiếm đỏ sậm, lao vút xuống nhắm thẳng vào lưng Lâm Phong.</p>
+<br>
+<p>"Cẩn thận!" Tĩnh Sương hét lên, thân pháp lướt nhanh như chớp, đưa Hàn Mai Kiếm lên đỡ.</p>
+<br>
+<p>"Keng!"</p>
+<br>
+<p>Tiếng va chạm kinh hồn vang lên, Tĩnh Sương cảm thấy hổ khẩu tê rần, thanh kiếm băng giá rung lên bần bật. Sức mạnh của Lệ Vô Tâm ở cảnh giới Trúc Cơ Viên Mãn thực sự quá sức tưởng tượng, cộng thêm sự tà dị của Huyết Thần Độc, khiến mỗi đòn đánh của hắn đều mang theo uy lực hủy diệt.</p>
+<br>
+<p>Tĩnh Sương bị đẩy lùi mấy bước, khóe môi rỉ ra một tia máu tươi. Nàng vội vận công áp chế hàn khí trong người, đôi mắt kiên định ngước nhìn kẻ thù.</p>
+<br>
+<p>"Thú vị lắm," Lệ Vô Tâm cười lạnh lùng. "Ngươi kiên cường hơn ta tưởng. Nhưng để xem các ngươi có thể chống chọi được bao lâu."</p>
+<br>
+<p>Hắn chuẩn bị tung ra đòn tấn công tiếp theo, thì một tiếng gầm rung chuyển đất trời từ phía chân trời vọng tới.</p>
+<br>
+<p>"Gràooooo!"</p>
+<br>
+<p>Âm thanh chói tai mang theo khí thế hoang dã khiến không gian xung quanh Khu Đấu Trường như bị xé toạc. Từ hai hướng khác nhau, hai luồng áp lực khổng lồ lao tới với tốc độ kinh hoàng.</p>
+<br>
+<p>Một bên là bầu trời bị che phủ bởi mây đen, sấm sét ầm ầm, một con mãng xà khổng lồ dài cả trăm trượng, toàn thân phủ đầy vảy xanh lục lấp lánh, đang trượt trong không trung. Lục Mãng Vương.</p>
+<br>
+<p>Bên kia là một luồng sáng đỏ rực như máu, một con hổ khổng lồ cao lớn như ngọn núi, bộ lông cháy rực những ngọn lửa đỏ thẫm. Huyết Hổ Vương.</p>
+<br>
+<p>Cả hai Yêu Vương, vốn dĩ đang sinh tử tương tàn ở Khu Chợ Đen, giờ đây lại mang theo sát khí ngút trời, cùng nhau lao thẳng về phía Khu Đấu Trường, hay nói đúng hơn, là lao về phía Lệ Vô Tâm.</p>
+<br>
+<p>"Kẻ nào dám ở Vạn Yêu Thành của ta giả thần giả quỷ?!" Huyết Hổ Vương gầm lên, giọng nói vang vọng như sấm nổ. Ngọn lửa trên người hắn hừng hực cháy, thiêu rụi hàng chục con Huyết Thi trên đường đi.</p>
+<br>
+<p>Lục Mãng Vương đôi mắt xà đồng lạnh lẽo lướt qua những trận pháp Huyết Tinh Phù được bố trí xung quanh, cất giọng rít lên: "Huyết Thần Độc... Hóa ra kẻ đứng sau thao túng mọi chuyện là ngươi. Ngươi nghĩ có thể dùng máu của yêu tộc ta để tu luyện sao?"</p>
+<br>
+<p>Sự xuất hiện đột ngột của hai đại Yêu Vương khiến toàn bộ cục diện thay đổi. Diệp Tĩnh Sương và Lâm Phong cảm thấy áp lực giảm đi đáng kể, họ nhanh chóng dựa lưng vào nhau, quan sát biến số bất ngờ này.</p>
+<br>
+<p>"Có vẻ như kế hoạch của hắn đã bị lộ," Lâm Phong thở hổn hển nói, ánh mắt lộ vẻ vui mừng.</p>
+<br>
+<p>"Tuyệt đối không được lơ là," Tĩnh Sương nghiêm nghị đáp. "Mục tiêu của Yêu Vương có thể là Lệ Vô Tâm, nhưng chúng ta cũng là kẻ lạ mặt đối với chúng."</p>
+<br>
+<p>Lệ Vô Tâm trên không trung khẽ nhíu mày. Hắn không ngờ hai con yêu thú ngu ngốc này lại có thể tỉnh táo lại nhanh như vậy, và phát hiện ra sự tồn tại của hắn.</p>
+<br>
+<p>"Chỉ là hai con súc sinh chưa hóa hình hoàn toàn, cũng dám lớn tiếng trước mặt ta?" Lệ Vô Tâm cười khinh bỉ. Hắn phất tay, toàn bộ Huyết Tinh Phù trên các bức tường đồng loạt sáng rực. Cột máu khổng lồ bị hút từ dưới đất nay chia thành ba nhánh, một lao về phía Huyết Hổ Vương, một lao về phía Lục Mãng Vương, và nhánh còn lại tiếp tục nuôi dưỡng Vạn Độc Thân của hắn.</p>
+<br>
+<p>"Cuồng ngông!" Huyết Hổ Vương gầm lên tức giận, há cái miệng khổng lồ phun ra một biển lửa đỏ rực. Ngọn lửa va chạm với cột máu, tạo nên một vụ nổ lớn, sương mù đỏ rực xen lẫn khói đen bốc lên nghi ngút.</p>
+<br>
+<p>Cùng lúc đó, Lục Mãng Vương vung cái đuôi khổng lồ, mang theo cuồng phong quét sạch mọi thứ trên đường đi, quất thẳng vào vị trí của Lệ Vô Tâm.</p>
+<br>
+<p>Lệ Vô Tâm không chút hoảng sợ, thân hình hắn chợt mờ đi, hóa thành một bóng máu tránh thoát đòn tấn công của Lục Mãng Vương. Hắn tiếp tục di chuyển linh hoạt trên không, lợi dụng địa hình Khu Đấu Trường để né tránh đòn công kích liên tiếp của hai Yêu Vương.</p>
+<br>
+<p>Cuộc chiến giờ đây biến thành một trận hỗn chiến kinh thiên động địa. Hai Yêu Vương với sức mạnh thể chất cường hãn và yêu lực dồi dào điên cuồng tấn công Lệ Vô Tâm, trong khi hắn sử dụng sự linh hoạt và độc khí tà dị của Vạn Độc Thân để phản kích. Huyết Thi bên dưới thì hoàn toàn mất kiểm soát, chạy loạn khắp nơi.</p>
+<br>
+<p>Diệp Tĩnh Sương và Lâm Phong biết đây là cơ hội ngàn năm có một để trốn thoát, hoặc để tìm ra điểm yếu của Lệ Vô Tâm. Họ lặng lẽ lùi vào một góc khuất, quan sát kỹ lưỡng trận chiến của các sinh vật mạnh mẽ đang làm rung chuyển cả Đông Hoang.</p>
+<p>---</p>
+<p><em>Hết chương 114.</em></p>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

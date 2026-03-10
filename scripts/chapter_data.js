@@ -467,6 +467,10 @@ window.chapterData = {
       "title": "Chương 113: Đụng Độ Tại Đấu Trường"
     },
     {
+      "filename": "Chương_00114_Biến_Số_Yêu_Vương.md",
+      "title": "Chương 114: Biến Số Yêu Vương"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -941,6 +945,10 @@ window.chapterData = {
     {
       "filename": "Chương_00107_Điệu_Vũ_Tử_Thần.md",
       "title": "Chương 107: Điệu Vũ Tử Thần"
+    },
+    {
+      "filename": "Chương_00108_Ánh_Sáng_Bất_Ngờ.md",
+      "title": "Chương 108: Ánh Sáng Bất Ngờ"
     }
   ]
 };
