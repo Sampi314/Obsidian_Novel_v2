@@ -102,4 +102,5 @@
 - [Chương 100: Bước Chân Vào Đông Hoang](Chương_00100_Bước_Chân_Vào_Đông_Hoang.md)
 - [Chương 101: Bóng Ma Rừng Thẳm](Chương_00101_Bóng_Ma_Rừng_Thẳm.md)
 - [Chương 102: Gặp Gỡ Tinh Linh](Chương_00102_Gặp_Gỡ_Tinh_Linh.md)
+- [Chương 103: Vòng Vây Huyết Thi](Chương_00103_Vòng_Vây_Huyết_Thi.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)

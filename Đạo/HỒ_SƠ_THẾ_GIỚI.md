@@ -182,6 +182,7 @@
         - [Chương 94: Bóng Tối Trở Lại](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00094_Bóng_Tối_Trở_Lại.md)
         - [Chương 95: Bẫy Rập Vĩnh Hằng](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00095_Bẫy_Rập_Vĩnh_Hằng.md)
         - [Chương 96: Sợi Dây Định Mệnh](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00096_Sợi_Dây_Định_Mệnh.md)
+    - [Chương 97: Màn Kịch Đẫm Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00097_Màn_Kịch_Đẫm_Máu.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -218,6 +219,7 @@
         - [Chương 100: Bước Chân Vào Đông Hoang](Chương_Truyện/Góc_Nhìn_Chính/Chương_00100_Bước_Chân_Vào_Đông_Hoang.md)
         - [Chương 101: Bóng Ma Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00101_Bóng_Ma_Rừng_Thẳm.md)
         - [Chương 102: Gặp Gỡ Tinh Linh](Chương_Truyện/Góc_Nhìn_Chính/Chương_00102_Gặp_Gỡ_Tinh_Linh.md)
+    - [Chương 103: Vòng Vây Huyết Thi](Chương_Truyện/Góc_Nhìn_Chính/Chương_00103_Vòng_Vây_Huyết_Thi.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)

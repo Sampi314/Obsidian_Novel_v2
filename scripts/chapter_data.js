@@ -423,6 +423,10 @@ window.chapterData = {
       "title": "Chương 102: Gặp Gỡ Tinh Linh"
     },
     {
+      "filename": "Chương_00103_Vòng_Vây_Huyết_Thi.md",
+      "title": "Chương 103: Vòng Vây Huyết Thi"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -853,6 +857,10 @@ window.chapterData = {
     {
       "filename": "Chương_00096_Sợi_Dây_Định_Mệnh.md",
       "title": "Chương 96: Sợi Dây Định Mệnh"
+    },
+    {
+      "filename": "Chương_00097_Màn_Kịch_Đẫm_Máu.md",
+      "title": "Chương 97: Màn Kịch Đẫm Máu"
     }
   ]
 };

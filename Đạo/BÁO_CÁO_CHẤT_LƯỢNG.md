@@ -151,6 +151,7 @@
 | Hôm nay | Tổng Quản | Viết Chương 86 (Góc Nhìn Chính) & Chương 80 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Trận tử chiến cuối cùng tại Đầm Lầy Tử Thần. Mắt Trận chính sụp đổ, Lệ Vô Tâm bị phản phệ và được tổ chức Huyết Sát Minh cứu thoát. Kết thúc cao trào của Arc 3. |
 | Hôm nay | Tổng Quản | Khởi tạo Thế lực Huyết Sát Minh và Quy hoạch Arc 4 | Hoàn Thành | Quét thấy thiếu thực thể "Huyết Sát Minh", đã tạo mới Tệp Tin hồ sơ, cập nhật Index và thiết lập mục tiêu Arc 4 cho các tuyến truyện. |
 | Hôm nay | Tổng Quản | Viết Chương 87 (Góc Nhìn Chính) & Chương 81 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Khởi đầu Arc 4. Nhóm Tĩnh Sương rời Đầm Lầy tiến về Cửu Hoa Kiếm Tông. Lệ Vô Tâm dưỡng thương tại Huyết Uyên Đảo và bắt đầu phục vụ Huyết Sát Minh. |
+| Hôm nay | Tổng Quản | Viết Chương 103 (Góc Nhìn Chính) & Chương 97 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Nhóm Tĩnh Sương bị vây hãm bởi Huyết Thi, phá Huyết Tinh Phù nhưng vô tình dính bẫy độc thứ cấp của Lệ Vô Tâm. Lệ Vô Tâm đứng trên cao thao túng toàn cục. |
 
 
 ---
