@@ -805,3 +805,27 @@
 - Cập nhật lại HTML, Index JS.
 - Tạo lại file `Lâm_Phong.md`.
 - Chỉnh sửa `update_readme.py` để giữ tiêu đề tiếng Việt ("Tệp Tin" thay vì "File") và chạy lại để làm mới danh sách `README.md`.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Khởi đầu Arc 5)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Khởi động Arc 5. Viết Chương 99 "Xuất Quan" (Góc Nhìn Chính) và Chương 93 "Huyết Sát Lệnh" (Góc Nhìn Lệ Vô Tâm).
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00099_Xuất_Quan.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00093_Huyết_Sát_Lệnh.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật diễn biến bắt đầu Arc 5, hướng đi mới của nhân vật.
+  - `MỤC_LỤC.md` của cả hai góc nhìn.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md` và các file bộ nhớ (`Viet_Chuong_Truyen_Memory.md`).
+  - Cập nhật website HTML.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Mở đầu Arc 5. Nhóm Tĩnh Sương đã xuất quan với tu vi cao hơn và được phái đến Đông Hoang để phá hủy mạng lưới ngầm của Huyết Sát Minh. Lệ Vô Tâm cũng đột phá Trúc Cơ Hậu Kỳ, nhận được "Huyết Sát Lệnh" và tiến thẳng tới Đông Hoang để tiếp tục gây bão táp.
+- **Tình trạng:** Khởi đầu một chặng đường mới ở Đông Hoang - một vùng đất phức tạp với nhiều ma tu và tà đạo.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Khám phá Đông Hoang: Xây dựng các sự kiện, nhân vật và bí cảnh tại Đông Hoang để chuẩn bị cho cuộc đụng độ tiếp theo giữa hai tuyến truyện chính.
