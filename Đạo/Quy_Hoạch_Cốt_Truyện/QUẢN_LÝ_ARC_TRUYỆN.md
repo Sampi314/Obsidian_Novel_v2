@@ -156,6 +156,8 @@
     - **Sự Kiện Mới:** Lệ Vô Tâm cố ý để nhóm Tĩnh Sương trốn thoát và âm thầm bám theo để tìm ra Tinh Linh Vương Đình (Hoàn thành - Chương 98 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Lệ Vô Tâm tìm ra lối vào bí mật của Tinh Linh Vương Đình, không vội tấn công mà bắt đầu gieo rắc Huyết Thần Độc vào nguồn nước và rải Huyết Tinh Phù xung quanh (Hoàn thành - Chương 99 Góc Nhìn Lệ Vô Tâm).
     - **Nhiệm Vụ Hiện Tại:** Chờ đợi sự lây lan của độc tố để tổ chức cuộc tàn sát Tinh Linh Tộc từ bên trong.
+    - **Sự Kiện Mới:** Huyết Thần Độc bùng phát tại Tinh Linh Vương Đình, Tĩnh Sương và Lâm Phong lao ra chiến đấu chống lại những Tinh Linh bị Huyết Hóa (Hoàn thành - Chương 106 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Lệ Vô Tâm kích hoạt Huyết Tinh Phù, triệu hồi Huyết Thi và chính thức tấn công Tinh Linh Vương Đình từ bên ngoài, kết hợp với sự hỗn loạn bên trong (Hoàn thành - Chương 100 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

@@ -435,6 +435,10 @@ window.chapterData = {
       "title": "Chương 105: Cửa Ngõ Vương Đình"
     },
     {
+      "filename": "Chương_00106_Độc_Phát_Vương_Đình.md",
+      "title": "Chương 106: Độc Phát Vương Đình"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -877,6 +881,10 @@ window.chapterData = {
     {
       "filename": "Chương_00099_Lối_Vào_Bí_Mật.md",
       "title": "Chương 99: Lối Vào Bí Mật"
+    },
+    {
+      "filename": "Chương_00100_Huyết_Liên_Nở_Rộ.md",
+      "title": "Chương 100: Huyết Liên Nở Rộ"
     }
   ]
 };
