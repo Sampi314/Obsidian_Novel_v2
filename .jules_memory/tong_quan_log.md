@@ -1155,3 +1155,26 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Viết diễn biến nhóm Tĩnh Sương tiến vào Phế Tích Huyết Dạ, đối mặt với tàn hồn Thượng Cổ và chạm trán với Lệ Vô Tâm đang trên đà đột phá tại Huyết Tế Đài.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Huyết Tế Đài)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết tiếp diễn biến Arc 5 tại Đông Hoang. Cuộc hành trình của nhóm Tĩnh Sương và Lệ Vô Tâm tại Phế Tích Huyết Dạ.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00117_Tiến_Vào_Phế_Tích.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00111_Huyết_Tế_Đài.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện nhóm Tĩnh Sương tiến vào phế tích và Lệ Vô Tâm kết Kim Đan.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md` và `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/MỤC_LỤC.md`.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Lệ Vô Tâm đã lên Huyết Tế Đài, bắt đầu hấp thụ sát khí và tàn hồn Thượng Cổ để kết Kim Đan, chịu sự phản phệ đau đớn. Nhóm Tĩnh Sương tiến vào phế tích, phá vỡ hàng rào tàn hồn và đánh bại Rết Lân Tinh khổng lồ do Lệ Vô Tâm thả ra, đang tiến dần đến chỗ hắn.
+- **Tình trạng:** Thời khắc quyết định sắp tới, trận chiến sống còn giữa nhóm Tĩnh Sương và Lệ Vô Tâm tại Huyết Tế Đài chuẩn bị bắt đầu.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết diễn biến nhóm Tĩnh Sương đụng độ Lệ Vô Tâm tại Huyết Tế Đài. Lệ Vô Tâm có thể đột phá thành công hoặc thất bại sinh ra biến số mới.

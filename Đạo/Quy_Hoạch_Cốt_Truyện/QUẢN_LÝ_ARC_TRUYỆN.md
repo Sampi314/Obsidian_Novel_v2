@@ -173,6 +173,8 @@
     - **Sự Kiện Mới:** Lệ Vô Tâm dưỡng thương dưới lòng đất Vạn Yêu Thành và lên kế hoạch tìm kiếm sức mạnh Thượng Cổ tại Phế Tích Huyết Dạ để đột phá Kim Đan (Hoàn thành - Chương 109 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Lệ Vô Tâm tiến vào Phế Tích Huyết Dạ, luyện hóa tàn hồn và sát khí Thượng Cổ trên Huyết Tế Đài để xung kích Kim Đan (Hoàn thành - Chương 110 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương và Yêu Vương tiến vào hang động ngầm của Mãng Tộc, phát hiện dấu vết của Lệ Vô Tâm và cổng vào Phế Tích Huyết Dạ (Hoàn thành - Chương 116 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Nhóm Tĩnh Sương và Yêu Vương tiến vào Phế Tích Huyết Dạ, vượt qua hàng rào tàn hồn và quái vật bị Huyết Hóa do Lệ Vô Tâm giăng sẵn, hướng tới Huyết Tế Đài (Hoàn thành - Chương 117 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Lệ Vô Tâm trên Huyết Tế Đài đang ở thời điểm quan trọng nhất của quá trình kết Kim Đan tà ác, vừa phải đấu tranh với sự phản phệ của tàn hồn vừa đối phó sự can thiệp của nhóm truy đuổi (Hoàn thành - Chương 111 Góc Nhìn Lệ Vô Tâm).
 
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)

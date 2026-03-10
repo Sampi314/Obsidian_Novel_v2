@@ -479,6 +479,10 @@ window.chapterData = {
       "title": "Chương 116: Hang Động Mãng Tộc"
     },
     {
+      "filename": "Chương_00117_Tiến_Vào_Phế_Tích.md",
+      "title": "Chương 117: Tiến Vào Phế Tích"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -965,6 +969,10 @@ window.chapterData = {
     {
       "filename": "Chương_00110_Phế_Tích_Huyết_Dạ.md",
       "title": "Chương 110: Phế Tích Huyết Dạ"
+    },
+    {
+      "filename": "Chương_00111_Huyết_Tế_Đài.md",
+      "title": "Chương 111: Huyết Tế Đài"
     }
   ]
 };
