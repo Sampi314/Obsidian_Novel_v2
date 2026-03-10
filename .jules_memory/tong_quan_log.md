@@ -829,3 +829,28 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Khám phá Đông Hoang: Xây dựng các sự kiện, nhân vật và bí cảnh tại Đông Hoang để chuẩn bị cho cuộc đụng độ tiếp theo giữa hai tuyến truyện chính.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Vùng Đất Mới)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Kiến tạo thế giới Đông Hoang và viết tiếp diễn biến Arc 5.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Kiến Tạo Thế Giới:**
+  - `Đạo/Thế_Giới_Và_Thời_Gian/Đông_Hoang.md`
+  - `Đạo/Thế_Giới_Và_Thời_Gian/Vĩnh_Hằng_Sâm_Lâm.md`
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00100_Bước_Chân_Vào_Đông_Hoang.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00094_Bóng_Tối_Trở_Lại.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện mới khi vào Đông Hoang.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi nhận tiến độ.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Khởi đầu Arc 5 tại Đông Hoang. Nhóm Diệp Tĩnh Sương nhận ra sự bất thường tại Vĩnh Hằng Sâm Lâm và chuyển hướng đến đó. Trong khi đó Lệ Vô Tâm tại Vạn Yêu Thành cũng đánh hơi được có Vạn Độc Môn và phái mật thám mai phục nhóm Tĩnh Sương.
+- **Tình trạng:** Thiết lập xung đột tại địa điểm mới là Vĩnh Hằng Sâm Lâm.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết diễn biến nhóm Tĩnh Sương tiếp xúc với Tinh Linh Tộc và đối mặt với thế lực Vạn Độc Môn tàn dư ở đây, cùng với cái bẫy mà Lệ Vô Tâm giăng ra.

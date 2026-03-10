@@ -193,3 +193,5 @@
 - Cập nhật chi tiết các Bí Cảnh tại Bản Đồ Sơ Bộ (`Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`).
 - Bổ sung chi tiết Tâm Ma Kiếp và Lôi Kiếp tại Hệ Thống Cảnh Giới (`Đạo/Tu_Luyện/Hệ_Thống_Cảnh_Giới.md`).
 - Bổ sung thông tin về Quan Hệ Chủng Tộc (`Đạo/Chủng_Tộc/Quan_Hệ_Chủng_Tộc.md`).
+| Hôm nay | Tổng Quản | Khởi tạo Hồ sơ Đông Hoang | Hoàn Thành | Khởi tạo Tệp Tin `Đông_Hoang.md` và `Vĩnh_Hằng_Sâm_Lâm.md` để cung cấp bối cảnh chi tiết cho Arc 5. |
+| Hôm nay | Tổng Quản | Viết Chương 100 (Góc Nhìn Chính) & Chương 94 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Mở màn diễn biến tại Đông Hoang. Nhóm Tĩnh Sương chạm trán cường đạo và hướng tới Vĩnh Hằng Sâm Lâm. Lệ Vô Tâm cũng phát hiện động tĩnh của Vạn Độc Môn tại đây và phái mật thám theo dõi. |
