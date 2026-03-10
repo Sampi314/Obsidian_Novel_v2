@@ -107,3 +107,4 @@
 - [Chương 104: Ánh Sáng Cứu Viện](Chương_00104_Ánh_Sáng_Cứu_Viện.md)
 - [Chương 105: Cửa Ngõ Vương Đình](Chương_00105_Cửa_Ngõ_Vương_Đình.md)
 - [Chương 106: Độc Phát Vương Đình](Chương_00106_Độc_Phát_Vương_Đình.md)
+- [Chương 107: Huyết Chiến Vương Đình](Chương_00107_Huyết_Chiến_Vương_Đình.md)
