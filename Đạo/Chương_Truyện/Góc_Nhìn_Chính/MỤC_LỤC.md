@@ -116,3 +116,4 @@
 - [Chương 113: Đụng Độ Tại Đấu Trường](Chương_00113_Đụng_Độ_Tại_Đấu_Trường.md)
 - [Chương 114: Biến Số Yêu Vương](Chương_00114_Biến_Số_Yêu_Vương.md)
 - [Chương 115: Đối Thoại Yêu Vương](Chương_00115_Đối_Thoại_Yêu_Vương.md)
+- [Chương 116: Hang Động Mãng Tộc](Chương_00116_Hang_Động_Mãng_Tộc.md)

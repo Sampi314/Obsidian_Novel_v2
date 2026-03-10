@@ -32,6 +32,8 @@
         - *Trạm Dừng Chân Số 7:* Pháo đài trung chuyển của Thiên Sa Thương Hội, cửa ngõ vào sa mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Trạm_Dừng_Chân_Số_7.md`.
         - *Hắc Sa Bão:* Hiện tượng thiên nhiên tàn khốc đặc trưng của Tây Mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hắc_Sa_Bão.md`.
         - *Pháo Đài Xanh:* Thánh địa ẩn giấu trong Rừng Thiên Trụ, nơi trấn áp Phong Sát. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Pháo_Đài_Xanh.md`.
+    - **Đông Hoang (Eastern Wilderness):** Vùng đất rộng lớn với sự tồn tại của nhiều Yêu Tộc và các thế lực tà môn.
+        - *Phế Tích Huyết Dạ:* Di tích chiến trường Thượng Cổ nằm sâu dưới lòng đất Vạn Yêu Thành, nơi tập trung sát khí và tàn hồn khổng lồ. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Huyết_Dạ.md`.
 - **Bản Đồ:** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`.
 - **Dòng Thời Gian (Niên Biểu):** Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
 
@@ -194,6 +196,7 @@
     - [Chương 107: Điệu Vũ Tử Thần](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00107_Điệu_Vũ_Tử_Thần.md)
     - [Chương 108: Ánh Sáng Bất Ngờ](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00108_Ánh_Sáng_Bất_Ngờ.md)
     - [Chương 109: Bóng Tối Trỗi Dậy](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00109_Bóng_Tối_Trỗi_Dậy.md)
+    - [Chương 110: Phế Tích Huyết Dạ](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00110_Phế_Tích_Huyết_Dạ.md)
 
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
@@ -244,6 +247,7 @@
     - [Chương 113: Đụng Độ Tại Đấu Trường](Chương_Truyện/Góc_Nhìn_Chính/Chương_00113_Đụng_Độ_Tại_Đấu_Trường.md)
     - [Chương 114: Biến Số Yêu Vương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00114_Biến_Số_Yêu_Vương.md)
     - [Chương 115: Đối Thoại Yêu Vương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00115_Đối_Thoại_Yêu_Vương.md)
+    - [Chương 116: Hang Động Mãng Tộc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00116_Hang_Động_Mãng_Tộc.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
