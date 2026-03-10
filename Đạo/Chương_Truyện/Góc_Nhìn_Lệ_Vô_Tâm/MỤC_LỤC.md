@@ -55,3 +55,4 @@
 - [Chương 108: Ánh Sáng Bất Ngờ](Chương_00108_Ánh_Sáng_Bất_Ngờ.md)
 - [Chương 109: Bóng Tối Trỗi Dậy](Chương_00109_Bóng_Tối_Trỗi_Dậy.md)
 - [Chương 110: Phế Tích Huyết Dạ](Chương_00110_Phế_Tích_Huyết_Dạ.md)
+- [Chương 111: Huyết Tế Đài](Chương_00111_Huyết_Tế_Đài.md)
