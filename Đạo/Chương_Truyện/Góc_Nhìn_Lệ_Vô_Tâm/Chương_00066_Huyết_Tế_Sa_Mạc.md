@@ -8,8 +8,8 @@
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Nhân vật liên quan:** [Huyết Vệ](../../Nhân_Vật/Huyết_Vệ.md)
-**Địa điểm:** Trong lòng [Hắc Sa Bão](../../Kỳ_Vật/Hắc_Sa_Bão.md).
+**Nhân vật liên quan:** Huyết Vệ
+**Địa điểm:** Trong lòng Hắc Sa Bão.
 **Thời điểm:** Song song với [Chương 32: Sa Hồn Truy Kích](../Góc_Nhìn_Chính/Chương_00032_Sa_Hồn_Truy_Kích.md).
 **Giao Điểm Cốt Truyện:** Lệ Vô Tâm nhận ra điểm yếu của Sa Hồn và tìm ra hướng đi tới Rừng Thiên Trụ.
 

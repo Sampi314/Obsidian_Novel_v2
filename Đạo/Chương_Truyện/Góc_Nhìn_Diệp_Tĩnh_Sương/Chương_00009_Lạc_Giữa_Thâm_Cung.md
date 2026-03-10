@@ -9,7 +9,7 @@
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)
 **Nhân vật liên quan:** [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md), [Hứa Nhược Thủy](../../Nhân_Vật/Hứa_Nhược_Thủy.md)
-**Địa điểm:** [Hồ Nguyệt Ảnh](../../Kỳ_Vật/Hồ_Nguyệt_Ảnh.md) - [Hoàng Sa Địa Cung](../../Kỳ_Vật/Hoàng_Sa_Địa_Cung.md).
+**Địa điểm:** Hồ Nguyệt Ảnh - Hoàng Sa Địa Cung.
 **Thời điểm:** Song song với [Chương 26: Hoàng Sa Thâm Cung](../Góc_Nhìn_Chính/Chương_00026_Hoàng_Sa_Thâm_Cung.md).
 **Giao Điểm Cốt Truyện:** Khoảnh khắc rơi xuống hồ nước ngầm và chiến đấu với Thủy Thi.
 
@@ -65,7 +65,7 @@ Ta dồn toàn bộ chân khí vào lòng bàn tay, ấn mạnh vào ngực con 
 
 Cả cơ thể con Thủy Thi lập tức bị bao phủ bởi một lớp băng dày, rồi vỡ tan thành từng mảnh vụn chìm xuống đáy hồ.
 
-Ta nắm lấy tay Hứa Nhược Thủy, kéo nàng ngoi lên mặt nước. Lâm Phong cũng vừa kịp bơi tới, hắn thở hổn hển, tay cầm [Đoản Đao](../../Vũ_Khí/Đoản_Đao.md) dính đầy máu đen.
+Ta nắm lấy tay Hứa Nhược Thủy, kéo nàng ngoi lên mặt nước. Lâm Phong cũng vừa kịp bơi tới, hắn thở hổn hển, tay cầm Đoản Đao dính đầy máu đen.
 
 "Lên bờ! Mau lên bờ!" Hắn hét lớn, chỉ tay về phía một bệ đá rộng lớn ở phía xa, nơi có những bức tượng khổng lồ đứng sừng sững.
 

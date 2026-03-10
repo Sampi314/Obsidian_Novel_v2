@@ -24,7 +24,7 @@ Cánh cửa đá nặng nề mở ra. Một luồng khí huyết nồng đậm x
 
 Ta bước vào trong. Căn hầm không lớn, nhưng chứa đầy những hũ sành được niêm phong kỹ lưỡng bằng bùa chú. Ở giữa căn hầm là một cái bể nhỏ, chứa đầy một loại cát màu đỏ rực như máu, lấp lánh ánh kim.
 
-"[Huyết Tinh Sa](../../Kỳ_Vật/Huyết_Tinh_Sa.md)!" Ta thốt lên, không giấu nổi sự kinh ngạc.
+"Huyết Tinh Sa!" Ta thốt lên, không giấu nổi sự kinh ngạc.
 
 Đây là loại vật liệu cực kỳ quý hiếm, chỉ tìm thấy ở sâu trong lòng sa mạc Tây Mạc, nơi từng diễn ra những trận chiến cổ đại. Nó chứa đựng oán khí và tinh huyết của hàng ngàn tu sĩ đã ngã xuống. Đối với tu sĩ chính đạo, nó là tà vật. Nhưng đối với đệ tử Vạn Độc Môn, đặc biệt là kẻ tu luyện *Vạn Độc Chân Kinh* thiên về huyết đạo như ta, đây là bảo vật vô giá.
 

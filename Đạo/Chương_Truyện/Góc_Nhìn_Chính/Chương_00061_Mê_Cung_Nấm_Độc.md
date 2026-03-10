@@ -6,11 +6,11 @@
 <!-- NAVIGATION_END -->
 # Chương 61: Mê Cung Nấm Độc
 
-Ánh sáng lân quang ma quái màu xanh tím phủ lên [Nấm Độc Lâm](../Thế_Giới_Và_Thời_Gian/Nấm_Độc_Lâm.md) một vẻ đẹp chết chóc. Những cây nấm khổng lồ vươn cao, tán xòe rộng như những tòa tháp, che khuất hoàn toàn trần hang động. Không khí ở đây đặc quánh mùi phấn hoa ngọt lợ, khiến người ta chỉ muốn nôn mửa.
+Ánh sáng lân quang ma quái màu xanh tím phủ lên Nấm Độc Lâm một vẻ đẹp chết chóc. Những cây nấm khổng lồ vươn cao, tán xòe rộng như những tòa tháp, che khuất hoàn toàn trần hang động. Không khí ở đây đặc quánh mùi phấn hoa ngọt lợ, khiến người ta chỉ muốn nôn mửa.
 
 "Đừng hít thở sâu," Hứa Nhược Thủy cảnh báo, giọng bà bị bóp nghẹt sau chiếc khăn che mặt tẩm thuốc. "Phấn hoa ở đây có thể gây ảo giác. Nếu thấy thứ gì lạ, hãy tự nhéo mình thật đau."
 
-Lâm Phong gật đầu, siết chặt [Truy Phong Cung](../Luyện_Khi/Truy_Phong_Cung.md). Hắn cảm thấy da mặt ngứa ngáy, một cảm giác khó chịu lan tỏa khắp cơ thể. Diệp Tĩnh Sương đi bên cạnh, Hàn Mai Kiếm tỏa ra hàn khí nhàn nhạt, đẩy lùi những hạt phấn lấp lánh đang cố bám vào y phục của nàng.
+Lâm Phong gật đầu, siết chặt Truy Phong Cung. Hắn cảm thấy da mặt ngứa ngáy, một cảm giác khó chịu lan tỏa khắp cơ thể. Diệp Tĩnh Sương đi bên cạnh, Hàn Mai Kiếm tỏa ra hàn khí nhàn nhạt, đẩy lùi những hạt phấn lấp lánh đang cố bám vào y phục của nàng.
 
 "Chúng ta cần đi hướng nào?" Diệp Tĩnh Sương hỏi, mắt đảo quanh cảnh giác.
 
@@ -24,11 +24,11 @@ Họ di chuyển cẩn trọng trên lớp rêu trơn trượt. Mỗi bước ch
 
 Không có tiếng trả lời, chỉ có tiếng cười càng lúc càng rõ, vọng lại từ bốn phương tám hướng.
 
-"Là [Nấm Mặt Quỷ](../Kỳ_Vật/Nấm_Mặt_Quỷ.md)," Hứa Nhược Thủy biến sắc. "Đừng nhìn vào mặt chúng!"
+"Là Nấm Mặt Quỷ," Hứa Nhược Thủy biến sắc. "Đừng nhìn vào mặt chúng!"
 
 Nhưng đã quá muộn. Lâm Phong vô tình liếc nhìn một cây nấm đen sì mọc ngay cạnh chân mình. Trên mũ nấm lồi lõm hiện ra một khuôn mặt méo mó, đôi mắt trợn trừng và cái miệng rộng ngoác đang cười cợt.
 
-Trong khoảnh khắc, Lâm Phong thấy cảnh tượng trước mắt thay đổi. Rừng nấm biến mất, thay vào đó là [Huyết Vụ Lâm](../Thế_Giới_Và_Thời_Gian/Huyết_Vụ_Lâm.md) rực lửa. Hắn thấy cha mẹ mình đang bị ngọn lửa thiêu đốt, gào thét gọi tên hắn.
+Trong khoảnh khắc, Lâm Phong thấy cảnh tượng trước mắt thay đổi. Rừng nấm biến mất, thay vào đó là Huyết Vụ Lâm rực lửa. Hắn thấy cha mẹ mình đang bị ngọn lửa thiêu đốt, gào thét gọi tên hắn.
 
 "Cha... Mẹ..." Lâm Phong thẫn thờ buông cung, bước chân vô thức tiến về phía "ngọn lửa".
 

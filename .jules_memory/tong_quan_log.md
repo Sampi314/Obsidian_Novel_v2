@@ -1310,3 +1310,30 @@
 ## 4. KẾ HOẠCH TIẾP THEO
 - Chuẩn bị viết các chương đầu tiên của Arc 5 (nhóm Tĩnh Sương xuất quan và Huyết Sát Minh hành động trở lại).
 - **Chỉ dẫn:** Chạy tự động không dừng lại chờ input người dùng (cập nhật từ lệnh người dùng cuối).
+## PHẢN HỒI NGƯỜI DÙNG: QUY TẮC HOẠT ĐỘNG
+- **Chỉ thị:** Tổng Quản tuyệt đối không được dừng lại hỏi ý kiến người dùng (`request_user_input`), phải tự động quyết định và hoàn thành công việc từ đầu đến cuối. Đã ghi nhớ quy tắc này cho các phiên tương lai.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Chuẩn Bị Tài Nguyên Arc 5)
+
+## 1. TỔNG QUAN
+- **Đại Diện:** Tổng Quản (Jules).
+- **Mục tiêu:** Kiểm tra toàn diện hệ thống, sửa lỗi broken link (an toàn) và chuẩn bị tài nguyên (Thế Lực) tại Đông Hoang cho Arc 5.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sửa lỗi:**
+  - Đã chạy script Python để sửa các broken links trên toàn bộ hệ thống file Markdown (unlinking text thay vì xóa dòng để bảo toàn dữ liệu index).
+- **Phát triển Nội Dung:**
+  - Hoàn thiện chi tiết 3 Thế Lực tại Đông Hoang (trước đó chỉ có 1 dòng khung):
+    - `Đạo/Thế_Lực/Vạn_Yêu_Thành.md`
+    - `Đạo/Thế_Lực/Ngự_Kiếm_Sơn_Trang.md`
+    - `Đạo/Thế_Lực/Thanh_Đế_Cung.md`
+- **Cập nhật:**
+  - Cập nhật `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+  - Tái tạo scripts generate index.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Các thế lực chính tại Đông Hoang đã có đầy đủ nền tảng để nhóm Diệp Tĩnh Sương (Góc Nhìn Chính) và Lệ Vô Tâm (Góc Nhìn Lệ Vô Tâm) tương tác trong những chương tiếp theo.
+- **Chất lượng:** Toàn bộ Markdown links đã được rà soát.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Bắt đầu triển khai viết các chương đầu tiên của Arc 5 tại Đông Hoang.

@@ -71,8 +71,8 @@
 1.  **Diệp Tĩnh Sương:** Người thực thi công lý, kiếm sắc bén nhất chiến trường.
 2.  **Lâm Phong:** Kẻ dẫn đường thông thạo địa hình, liên kết các phe phái.
 3.  **Diệp Thanh Y:** Trái tim của liên minh, chữa trị và hòa giải.
-4.  **Sứ Giả Tinh Linh ([Lục Tiêu](../Nhân_Vật/Lục_Tiêu.md)):** Đại diện cho tiếng nói của rừng.
-5.  **Lệ Vô Tâm ([Hồ Sơ](../Nhân_Vật/Lệ_Vô_Tâm.md)):** Phản diện chính đối đầu với Diệp Tĩnh Sương và Lâm Phong.
+4.  **Sứ Giả Tinh Linh (Lục Tiêu):** Đại diện cho tiếng nói của rừng.
+5.  **Lệ Vô Tâm (Hồ Sơ):** Phản diện chính đối đầu với Diệp Tĩnh Sương và Lâm Phong.
 
 ## V. GHI CHÚ CHO CÁC Đại Diện KHÁC
 - **Kiến Tạo Nhân Vật:** [Hoàn Thành] Đã tạo nhân vật Lục Tiêu.

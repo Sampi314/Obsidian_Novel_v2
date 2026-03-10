@@ -18,4 +18,4 @@
 ## Vai Trò Trong Cốt Truyện
 - **Khai thác tài nguyên:** Đệ tử Vạn Độc Môn thường xuyên nhận nhiệm vụ đến đây để thu thập Huyết Tinh Sa, một nguyên liệu thiết yếu cho tông môn.
 - **Nơi thanh trừng:** Do địa hình hiểm trở, sương mù dày đặc và âm thanh ma quái, Quỷ Khốc Cốc thường được sử dụng làm nơi giải quyết ân oán cá nhân hoặc thanh trừng nội bộ trong tông môn mà không sợ bị phát hiện.
-- **Cái Bẫy Liên Hoàn (Arc 2 - Lệ Vô Tâm):** Đây là địa điểm nhóm đệ tử chân truyền do Triệu Hàn cầm đầu đã giăng sẵn "Vạn Tinh Tuyệt Sát Trận" để phục kích và hãm hại [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md).
+- **Cái Bẫy Liên Hoàn (Arc 2 - Lệ Vô Tâm):** Đây là địa điểm nhóm đệ tử chân truyền do Triệu Hàn cầm đầu đã giăng sẵn "Vạn Tinh Tuyệt Sát Trận" để phục kích và hãm hại Lệ Vô Tâm.

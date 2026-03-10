@@ -76,7 +76,7 @@ Nhưng nụ cười của hắn vụt tắt khi một luồng sát khí lạnh l
 
 Một bóng đen khổng lồ lao vụt ra từ cửa hang, đập mạnh vào nơi Lâm Phong vừa đứng, làm nền đá vỡ nát.
 
-Đó là một con [Sa Thạch Khôi Lỗi](../../Kỳ_Vật/Kỳ_Vật_Tây_Mạc.md) (Sandstone Golem) cao hơn ba trượng, toàn thân được ghép từ những khối đá sa thạch cứng chắc, khớp nối chảy ra dòng cát lỏng như máu. Đôi mắt nó rực lửa đỏ ngầu, tay cầm một thanh đại đao bằng đá sứt mẻ.
+Đó là một con Sa Thạch Khôi Lỗi (Sandstone Golem) cao hơn ba trượng, toàn thân được ghép từ những khối đá sa thạch cứng chắc, khớp nối chảy ra dòng cát lỏng như máu. Đôi mắt nó rực lửa đỏ ngầu, tay cầm một thanh đại đao bằng đá sứt mẻ.
 
 "Kẻ... xâm nhập... Chết!"
 

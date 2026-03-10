@@ -10,7 +10,7 @@
 **Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)
 **Nhân vật liên quan:** [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
 **Địa điểm:** Thôn Lạc Diệp.
-**Thời điểm:** Song song với [Chương 2: Huyết Tướng](../Góc_Nhìn_Chính/Chương_00002_Huyết_Tướng.md).
+**Thời điểm:** Song song với Chương 2: Huyết Tướng.
 **Giao Điểm Cốt Truyện:** Lần đầu gặp gỡ Lâm Phong.
 
 ---

@@ -18,7 +18,7 @@
 ## II. TỔ CHỨC & CẤU TRÚC
 
 ### 1. Lãnh Đạo Cao Nhất
-- **Minh Chủ:** [Hắc Phong (Trúc Cơ Hậu Kỳ)](../Nhân_Vật/Nhân_Vật_Phụ_Tây_Mạc.md).
+- **Minh Chủ:** Hắc Phong (Trúc Cơ Hậu Kỳ).
     - Một tu sĩ Phong hệ hung hãn, sở hữu pháp bảo *Hắc Phong Kỳ* có thể triệu hồi bão cát nhỏ. Hắn là người đã thống nhất các băng đảng nhỏ lẻ thành một liên minh để đối trọng với [Thiên Sa Thương Hội](../Thế_Lực/Thiên_Sa_Thương_Hội.md).
 
 ### 2. Các Nhóm Chính (Chi Đội)
@@ -29,14 +29,14 @@
     - Chuyên về trinh sát, ám sát và đặt bẫy. Các thành viên giỏi thuật ẩn mình trong cát (Độn Sa Thuật).
     - Thường đóng giả làm lữ khách lạc đường để dụ con mồi.
 - **Thiết Giáp Đội:**
-    - Sử dụng giáp xác của [Kim Giáp Yết](../Kỳ_Vật/Kỳ_Vật_Tây_Mạc.md) làm khiên chắn, chịu trách nhiệm cản đường và vây hãm xe hàng.
+    - Sử dụng giáp xác của Kim Giáp Yết làm khiên chắn, chịu trách nhiệm cản đường và vây hãm xe hàng.
 
 ---
 
 ## III. CHIẾN THUẬT & SỨC MẠNH
 
 ### Chiến Thuật "Sói Săn Mồi"
-1.  **Trinh Sát:** Dùng [Sa Ưng](../Kỳ_Vật/Kỳ_Vật_Tây_Mạc.md) hoặc Ảnh Sa Đội để xác định lộ trình và sức mạnh hộ vệ của thương đoàn.
+1.  **Trinh Sát:** Dùng Sa Ưng hoặc Ảnh Sa Đội để xác định lộ trình và sức mạnh hộ vệ của thương đoàn.
 2.  **Vây Hãm:** Kích hoạt bẫy cát lún hoặc trận pháp *Tiểu Sa Bão* để làm rối loạn đội hình địch.
 3.  **Tấn Công:** Lợi dụng tầm nhìn hạn chế trong bão cát, Huyết Lang Đội lao vào cận chiến, trong khi cung thủ bắn tên độc từ xa.
 4.  **Rút Lui:** Nếu gặp đối thủ quá mạnh (như Kim Đan Kỳ), lập tức tản ra chui xuống cát (Độn Sa) và hẹn gặp lại ở điểm tập kết bí mật.

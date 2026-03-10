@@ -15,7 +15,7 @@
 
 "Hàn Mai Kiếm Quyết – Tuyết Vũ!"
 
-Giữa không trung, [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md) quát khẽ. [Hàn Mai Kiếm](../../Luyện_Khí/Hàn_Mai_Kiếm.md) trong tay nàng vẽ nên một vòng cung sáng rực. Vô số bông tuyết sắc bén được ngưng tụ từ linh lực, xoáy tròn như cơn bão nhỏ, ập xuống đầu đám đệ tử Vạn Độc Môn.
+Giữa không trung, [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md) quát khẽ. Hàn Mai Kiếm trong tay nàng vẽ nên một vòng cung sáng rực. Vô số bông tuyết sắc bén được ngưng tụ từ linh lực, xoáy tròn như cơn bão nhỏ, ập xuống đầu đám đệ tử Vạn Độc Môn.
 
 *Keng! Keng! Phập!*
 

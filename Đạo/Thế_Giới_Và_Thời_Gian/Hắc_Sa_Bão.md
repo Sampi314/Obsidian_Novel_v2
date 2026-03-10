@@ -30,7 +30,7 @@
 
 ## IV. CÁCH PHÒNG TRÁNH & ĐỐI PHÓ
 - **Dấu Hiệu Nhận Biết:**
-    - [Sa Ưng](../Kỳ_Vật/Kỳ_Vật_Tây_Mạc.md) (nếu có) bay tán loạn và kêu thảm thiết.
+    - Sa Ưng (nếu có) bay tán loạn và kêu thảm thiết.
     - Không khí đột ngột trở nên tĩnh lặng và lạnh lẽo bất thường trước khi bão ập đến.
     - Chân trời phía xa xuất hiện đường viền đen sẫm.
 - **Biện Pháp:**

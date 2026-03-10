@@ -8,7 +8,7 @@
 
 **Tác giả:** Tổng Quản (Jules)
 **Nhân vật chính:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Địa điểm:** [Mật Thất Huyết Trì](../../Thế_Giới_Và_Thời_Gian/Vạn_Độc_Môn.md)
+**Địa điểm:** Mật Thất Huyết Trì
 
 ---
 

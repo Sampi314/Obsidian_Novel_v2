@@ -12,7 +12,7 @@ description: "Diệp Tĩnh Sương, Lâm Phong và Sở Lăng Sương đụng đ
 
 **Tác giả:** Tổng Quản (Jules)
 **Nhân vật chính:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md), [Sở Lăng Sương](../../Nhân_Vật/Sở_Lăng_Sương.md)
-**Địa điểm:** [Bình Nguyên Vạn Tượng](../../Thế_Giới_Và_Thời_Gian/Khu_Vực_Trung_Tâm.md)
+**Địa điểm:** Bình Nguyên Vạn Tượng
 
 ---
 

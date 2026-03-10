@@ -8,16 +8,16 @@
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Nhân vật liên quan:** [Huyết Vệ](../../Nhân_Vật/Huyết_Vệ.md)
+**Nhân vật liên quan:** Huyết Vệ
 **Địa điểm:** Rìa Rừng Huyết Độc - Giáp ranh Tây Mạc.
 **Thời điểm:** Song song với hành trình tiến vào Tây Mạc của nhóm nhân vật chính.
-**Giao Điểm Cốt Truyện:** [Chương 10: Sa Mạc Tử Thần](../Góc_Nhìn_Chính/Chương_00010_Sa_Mạc_Tử_Thần.md).
+**Giao Điểm Cốt Truyện:** Chương 10: Sa Mạc Tử Thần.
 
 ---
 
 Gió nóng từ phía Tây thổi tới, mang theo vị mặn chát của cát và mùi hôi thối đặc trưng của những xác chết khô.
 
-Ta đứng trên một mỏm đá cao, nhìn về phía chân trời xa xăm, nơi màu xanh của [Rừng Huyết Độc](../../Kỳ_Vật/Rừng_Huyết_Độc.md) dần bị nuốt chững bởi biển cát vàng mênh mông của Tây Mạc. Tà áo bào đỏ thẫm của ta bay phần phật, tựa như một ngọn lửa ma quái giữa ranh giới của sự sống và cái chết.
+Ta đứng trên một mỏm đá cao, nhìn về phía chân trời xa xăm, nơi màu xanh của Rừng Huyết Độc dần bị nuốt chững bởi biển cát vàng mênh mông của Tây Mạc. Tà áo bào đỏ thẫm của ta bay phần phật, tựa như một ngọn lửa ma quái giữa ranh giới của sự sống và cái chết.
 
 "Thánh Tử."
 
@@ -53,7 +53,7 @@ Ta hừ lạnh, thu hồi Thiên Tinh Cổ vào tay áo. "Kẻ khôn ngoan khôn
 
 Ta bước xuống khỏi mỏm đá, đi về phía doanh trại tạm thời dựng bên bìa rừng.
 
-"Truyền lệnh xuống," giọng ta vang lên, trầm thấp và đầy uy quyền. "Phong tỏa toàn bộ các lối ra từ Tây Mạc dẫn về Nam Cương. Rải [Huyết Độc Phấn](../../Kỳ_Vật/Huyết_Độc_Phấn.md) dọc theo biên giới rừng. Ta muốn biến nơi này thành một cái lưới không lối thoát."
+"Truyền lệnh xuống," giọng ta vang lên, trầm thấp và đầy uy quyền. "Phong tỏa toàn bộ các lối ra từ Tây Mạc dẫn về Nam Cương. Rải Huyết Độc Phấn dọc theo biên giới rừng. Ta muốn biến nơi này thành một cái lưới không lối thoát."
 
 "Rõ!" Tên Huyết Vệ hô to, rồi biến mất vào bóng tối như chưa từng tồn tại.
 

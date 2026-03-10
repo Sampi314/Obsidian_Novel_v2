@@ -36,7 +36,7 @@ Tiếng hô hoán vang lên. Một đội tuần tra mười người lao tới,
 
 Ta phất tay áo. Một làn khói màu hồng phấn bay ra, thơm ngát mùi hoa đào.
 
-[Mê Hồn Hương](../../Kỳ_Vật/Mê_Hồn_Hương.md).
+Mê Hồn Hương.
 
 Đám lính hít phải hương thơm, mắt đờ đẫn, tay buông lỏng vũ khí. Chúng bắt đầu cười ngây dại, rồi quay sang chém giết lẫn nhau trong cơn ảo giác. Tiếng la hét thảm thiết xé toạc màn đêm yên tĩnh.
 
