@@ -224,3 +224,4 @@
 | Hôm nay | Tổng Quản | Xóa File Trùng Lặp | Hoàn Thành | Xóa các file thừa của Chương 97 (Góc Nhìn Chính) và Chương 91 (Góc Nhìn Lệ Vô Tâm) do phát hiện đây là phiên bản lỗi, giữ lại file chuẩn. Cập nhật lại MỤC LỤC và Index. |
 | Hôm nay | Tổng Quản | Mở Rộng Thế Lực Đông Hoang | Hoàn Thành | Bổ sung chi tiết hồ sơ các thế lực `Vạn_Yêu_Thành.md`, `Ngự_Kiếm_Sơn_Trang.md`, `Thanh_Đế_Cung.md` tại Đông Hoang để chuẩn bị tài nguyên cho Arc 5. |
 | Hôm nay | Tổng Quản | Sửa Lỗi Tham Chiếu | Hoàn Thành | Phát hiện và sửa tự động/thủ công an toàn hàng loạt broken links trong toàn bộ các tệp tin markdown của dự án (không xóa dữ liệu). |
+| Hôm nay | Tổng Quản | Viết Chương 99 (Góc Nhìn Chính) & Chương 93 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Khởi đầu Arc 5. Nhóm Tĩnh Sương xuất quan, nhận nhiệm vụ từ Đại Trưởng Lão hướng về Đông Hoang tìm kiếm đồng minh. Cùng lúc, Lệ Vô Tâm cũng nhận Huyết Sát Lệnh tiến về Đông Hoang để thiết lập mạng lưới tình báo cho Huyết Sát Minh. |
