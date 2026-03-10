@@ -160,6 +160,7 @@
     - **Sự Kiện Mới:** Lệ Vô Tâm kích hoạt Huyết Tinh Phù, triệu hồi Huyết Thi và chính thức tấn công Tinh Linh Vương Đình từ bên ngoài, kết hợp với sự hỗn loạn bên trong (Hoàn thành - Chương 100 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Nhóm Diệp Tĩnh Sương mở đường máu tiến thẳng tới trung tâm Vương Đình (Hoàn thành - Chương 107 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Lệ Vô Tâm và Nguyệt Dao Nữ Vương giao phong, Lệ Vô Tâm bộc lộ dã tâm biến Nữ Vương thành Huyết Thi (Hoàn thành - Chương 101 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Nhóm Tĩnh Sương tiến tới trung tâm, hợp lực chi viện Nữ Vương. Đối mặt 1 địch 4, Lệ Vô Tâm kích nổ Huyết Long tẩu thoát. Trận chiến tạm dừng nhưng Vương Đình bị tàn phá nặng nề (Hoàn thành - Chương 108 Góc Nhìn Chính / Chương 102 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
