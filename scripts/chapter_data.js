@@ -447,6 +447,10 @@ window.chapterData = {
       "title": "Chương 108: Chi Viện Nữ Vương"
     },
     {
+      "filename": "Chương_00109_Tái_Thiết_Vương_Đình.md",
+      "title": "Chương 109: Tái Thiết Vương Đình"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -901,6 +905,10 @@ window.chapterData = {
     {
       "filename": "Chương_00102_Một_Địch_Bốn.md",
       "title": "Chương 102: Một Địch Bốn"
+    },
+    {
+      "filename": "Chương_00103_Rút_Lui_Chiến_Lược.md",
+      "title": "Chương 103: Rút Lui Chiến Lược"
     }
   ]
 };
