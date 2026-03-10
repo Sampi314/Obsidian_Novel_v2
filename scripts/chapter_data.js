@@ -455,6 +455,10 @@ window.chapterData = {
       "title": "Chương 110: Bóng Đen Vạn Yêu"
     },
     {
+      "filename": "Chương_00111_Dấu_Vết_Tại_Vạn_Yêu_Thành.md",
+      "title": "Chương 111: Dấu Vết Tại Vạn Yêu Thành"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -917,6 +921,10 @@ window.chapterData = {
     {
       "filename": "Chương_00104_Thao_Túng_Vạn_Yêu.md",
       "title": "Chương 104: Thao Túng Vạn Yêu"
+    },
+    {
+      "filename": "Chương_00105_Tam_Vương_Nội_Chiến.md",
+      "title": "Chương 105: Tam Vương Nội Chiến"
     }
   ]
 };
