@@ -111,3 +111,5 @@
 - [Chương 108: Chi Viện Nữ Vương](Chương_00108_Chi_Viện_Nữ_Vương.md)
 - [Chương 109: Tái Thiết Vương Đình](Chương_00109_Tái_Thiết_Vương_Đình.md)
 - [Chương 110: Bóng Đen Vạn Yêu](Chương_00110_Bóng_Đen_Vạn_Yêu.md)
+- [Chương 111: Dấu Vết Tại Vạn Yêu Thành](Chương_00111_Dấu_Vết_Tại_Vạn_Yêu_Thành.md)
+- [Chương 112: Khu Chợ Đen Vạn Yêu](Chương_00112_Khu_Chợ_Đen.md)

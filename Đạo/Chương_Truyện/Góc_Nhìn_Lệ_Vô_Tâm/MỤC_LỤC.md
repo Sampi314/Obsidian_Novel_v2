@@ -49,3 +49,5 @@
 - [Chương 102: Một Địch Bốn](Chương_00102_Một_Địch_Bốn.md)
 - [Chương 103: Rút Lui Chiến Lược](Chương_00103_Rút_Lui_Chiến_Lược.md)
 - [Chương 104: Thao Túng Vạn Yêu](Chương_00104_Thao_Túng_Vạn_Yêu.md)
+- [Chương 105: Tam Vương Nội Chiến](Chương_00105_Tam_Vương_Nội_Chiến.md)
+- [Chương 106: Hấp Thụ Sát Khí](Chương_00106_Hấp_Thụ_Sát_Khí.md)
