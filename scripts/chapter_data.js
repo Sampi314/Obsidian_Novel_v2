@@ -443,6 +443,10 @@ window.chapterData = {
       "title": "Chương 107: Huyết Chiến Vương Đình"
     },
     {
+      "filename": "Chương_00108_Chi_Viện_Nữ_Vương.md",
+      "title": "Chương 108: Chi Viện Nữ Vương"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -893,6 +897,10 @@ window.chapterData = {
     {
       "filename": "Chương_00101_Đối_Đầu_Nữ_Vương.md",
       "title": "Chương 101: Đối Đầu Nữ Vương"
+    },
+    {
+      "filename": "Chương_00102_Một_Địch_Bốn.md",
+      "title": "Chương 102: Một Địch Bốn"
     }
   ]
 };
