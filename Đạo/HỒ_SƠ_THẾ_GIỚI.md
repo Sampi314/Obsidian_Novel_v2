@@ -188,6 +188,7 @@
     - [Chương 100: Huyết Liên Nở Rộ](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00100_Huyết_Liên_Nở_Rộ.md)
     - [Chương 101: Đối Đầu Nữ Vương](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00101_Đối_Đầu_Nữ_Vương.md)
     - [Chương 102: Một Địch Bốn](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00102_Một_Địch_Bốn.md)
+    - [Chương 104: Thao Túng Vạn Yêu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00104_Thao_Túng_Vạn_Yêu.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -231,6 +232,7 @@
     - [Chương 107: Huyết Chiến Vương Đình](Chương_Truyện/Góc_Nhìn_Chính/Chương_00107_Huyết_Chiến_Vương_Đình.md)
     - [Chương 108: Chi Viện Nữ Vương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00108_Chi_Viện_Nữ_Vương.md)
     - [Chương 109: Tái Thiết Vương Đình](Chương_Truyện/Góc_Nhìn_Chính/Chương_00109_Tái_Thiết_Vương_Đình.md)
+    - [Chương 110: Bóng Đen Vạn Yêu](Chương_Truyện/Góc_Nhìn_Chính/Chương_00110_Bóng_Đen_Vạn_Yêu.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
