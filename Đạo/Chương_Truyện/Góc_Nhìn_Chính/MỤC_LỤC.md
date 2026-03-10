@@ -106,3 +106,4 @@
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)
 - [Chương 104: Ánh Sáng Cứu Viện](Chương_00104_Ánh_Sáng_Cứu_Viện.md)
 - [Chương 105: Cửa Ngõ Vương Đình](Chương_00105_Cửa_Ngõ_Vương_Đình.md)
+- [Chương 106: Độc Phát Vương Đình](Chương_00106_Độc_Phát_Vương_Đình.md)
