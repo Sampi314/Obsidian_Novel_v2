@@ -925,3 +925,26 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Viết tiếp diễn biến nhóm Tĩnh Sương đến được rìa Tinh Linh Vương Đình hoặc nhận được sự cứu trợ trực tiếp từ Nguyệt Dao Nữ Hoàng. Lệ Vô Tâm khám phá ra lối vào bí mật của Vương Đình.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Cửa Ngõ Vương Đình)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết tiếp diễn biến Arc 5 tại Đông Hoang. Nhóm Diệp Tĩnh Sương đến Tinh Linh Vương Đình, và Lệ Vô Tâm triển khai kế hoạch độc ác của mình.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00105_Cửa_Ngõ_Vương_Đình.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00099_Lối_Vào_Bí_Mật.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện nhóm Tĩnh Sương gặp Nguyệt Dao Nữ Vương và Lệ Vô Tâm gieo rắc Huyết Thần Độc.
+  - Các tệp `MỤC_LỤC.md` của các góc nhìn.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Nhóm Tĩnh Sương đã được đưa vào Vọng Nguyệt Lâu của Tinh Linh Vương Đình trong khi chờ quyết định của Nữ Vương. Lệ Vô Tâm đã gieo rắc Huyết Thần Độc qua bầy Nhện Mặt Quỷ và rải Huyết Tinh Phù, chuẩn bị một cuộc tấn công từ bên trong.
+- **Tình trạng:** Quá trình chuẩn bị cho cuộc đại chiến tại Tinh Linh Vương Đình đang đi vào giai đoạn căng thẳng nhất.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết tiếp diễn biến Huyết Thần Độc bùng phát tại Tinh Linh Vương Đình và cuộc đụng độ khốc liệt giữa hai phe.
