@@ -158,6 +158,8 @@
     - **Nhiệm Vụ Hiện Tại:** Chờ đợi sự lây lan của độc tố để tổ chức cuộc tàn sát Tinh Linh Tộc từ bên trong.
     - **Sự Kiện Mới:** Huyết Thần Độc bùng phát tại Tinh Linh Vương Đình, Tĩnh Sương và Lâm Phong lao ra chiến đấu chống lại những Tinh Linh bị Huyết Hóa (Hoàn thành - Chương 106 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Lệ Vô Tâm kích hoạt Huyết Tinh Phù, triệu hồi Huyết Thi và chính thức tấn công Tinh Linh Vương Đình từ bên ngoài, kết hợp với sự hỗn loạn bên trong (Hoàn thành - Chương 100 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Nhóm Diệp Tĩnh Sương mở đường máu tiến thẳng tới trung tâm Vương Đình (Hoàn thành - Chương 107 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Lệ Vô Tâm và Nguyệt Dao Nữ Vương giao phong, Lệ Vô Tâm bộc lộ dã tâm biến Nữ Vương thành Huyết Thi (Hoàn thành - Chương 101 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
