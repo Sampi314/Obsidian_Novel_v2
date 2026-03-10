@@ -167,6 +167,7 @@
     - **Sự Kiện Mới:** Lệ Vô Tâm hấp thụ sức mạnh từ cuộc nội chiến giữa các Yêu Vương, đột phá lên Trúc Cơ Viên Mãn và phát hiện Diệp Tĩnh Sương đã đến Vạn Yêu Thành thông qua sự cộng hưởng của Huyết Tinh Phù (Hoàn thành - Chương 106 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương, Lâm Phong nhận được tin báo về biến động tại Vạn Yêu Thành từ mạng lưới tình báo. Họ quyết định lên đường tiến đến Vạn Yêu Thành để ngăn chặn mưu đồ của Huyết Sát Minh và Lệ Vô Tâm (Hoàn thành - Chương 110 Góc Nhìn Chính).
     - **Nhiệm Vụ Hiện Tại:** Điều tra Khu Chợ Đen tại Vạn Yêu Thành, phát hiện ra Huyết Thần Độc đang được bán dưới dạng 'Huyết Mạch Tinh' và tìm kiếm kẻ đứng sau (Hoàn thành - Chương 112 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Tiến đến Khu Đấu Trường và đụng độ trực tiếp Lệ Vô Tâm (đã đột phá Trúc Cơ Viên Mãn). Bị bao vây bởi hàng trăm Huyết Thi từ xác yêu thú (Hoàn thành - Chương 113 Góc Nhìn Chính / Chương 107 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

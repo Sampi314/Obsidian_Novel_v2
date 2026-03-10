@@ -51,3 +51,4 @@
 - [Chương 104: Thao Túng Vạn Yêu](Chương_00104_Thao_Túng_Vạn_Yêu.md)
 - [Chương 105: Tam Vương Nội Chiến](Chương_00105_Tam_Vương_Nội_Chiến.md)
 - [Chương 106: Hấp Thụ Sát Khí](Chương_00106_Hấp_Thụ_Sát_Khí.md)
+- [Chương 107: Điệu Vũ Tử Thần](Chương_00107_Điệu_Vũ_Tử_Thần.md)

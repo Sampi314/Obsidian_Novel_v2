@@ -463,6 +463,10 @@ window.chapterData = {
       "title": "Chương 112: Khu Chợ Đen Vạn Yêu"
     },
     {
+      "filename": "Chương_00113_Đụng_Độ_Tại_Đấu_Trường.md",
+      "title": "Chương 113: Đụng Độ Tại Đấu Trường"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -933,6 +937,10 @@ window.chapterData = {
     {
       "filename": "Chương_00106_Hấp_Thụ_Sát_Khí.md",
       "title": "Chương 106: Hấp Thụ Sát Khí"
+    },
+    {
+      "filename": "Chương_00107_Điệu_Vũ_Tử_Thần.md",
+      "title": "Chương 107: Điệu Vũ Tử Thần"
     }
   ]
 };
