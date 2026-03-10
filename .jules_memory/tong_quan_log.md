@@ -738,12 +738,12 @@
 
 ## 1. TỔNG QUAN
 - **Agent:** Tổng Quản (Jules).
-- **Mục tiêu:** Viết Chương 97 "Khắc Phục Hậu Quả" (Góc Nhìn Chính) và Chương 91 "Báo Cáo Thất Bại" (Góc Nhìn Lệ Vô Tâm) để tiếp tục Arc 4.
+- **Mục tiêu:** Viết Chương 97 "Tàn Tích Ngoại Môn" (Góc Nhìn Chính) và Chương 91 "Báo Cáo Trong Máu" (Góc Nhìn Lệ Vô Tâm) để tiếp tục Arc 4.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00097_Khắc_Phục_Hậu_Quả.md`
-  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00091_Báo_Cáo_Thất_Bại.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00097_Tàn_Tích_Ngoại_Môn.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00091_Báo_Cáo_Trong_Máu.md`
 - **Cập nhật:**
   - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
   - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật diễn biến hậu chiến ở Cửu Hoa và nội tâm của Lệ Vô Tâm.
@@ -781,3 +781,27 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Chuẩn bị bước vào Arc 5, mở rộng ra Đông Hoang hoặc tập trung vào cuộc đại chiến tiếp theo khi nhóm Tĩnh Sương đã mạnh hơn.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Sửa lỗi đồng bộ theo người dùng)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Đồng bộ hệ thống theo những chỉnh sửa của người dùng.
+
+## 2. PHÁT HIỆN THAY ĐỔI NGƯỜI DÙNG
+- Người dùng đã xóa và sửa đổi tên 2 chương truyện:
+  - `Chương_00097_Khắc_Phục_Hậu_Quả.md` đổi tên thành `Chương_00097_Tàn_Tích_Ngoại_Môn.md`
+  - `Chương_00091_Báo_Cáo_Thất_Bại.md` đổi tên thành `Chương_00091_Báo_Cáo_Trong_Máu.md`
+- Phát hiện người dùng đã xóa file `Lâm_Phong.md` trong hồ sơ nhân vật, nhưng vì đây là nhân vật chính (Góc Nhìn Chính) nên agent đã tạo lại file mới chất lượng hơn.
+
+## 3. CÁCH XỬ LÝ
+- Cập nhật toàn bộ liên kết (referencing) trong:
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/MỤC_LỤC.md`
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`
+  - .jules_memory (để phản ánh đúng tên)
+- Cập nhật lại HTML, Index JS.
+- Tạo lại file `Lâm_Phong.md`.
+- Chỉnh sửa `update_readme.py` để giữ tiêu đề tiếng Việt ("Tệp Tin" thay vì "File") và chạy lại để làm mới danh sách `README.md`.

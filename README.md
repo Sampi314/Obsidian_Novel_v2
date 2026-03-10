@@ -22,16 +22,21 @@ Thông tin chi tiết về thế giới, nhân vật và hệ thống tu luyện
 | Diệp Thanh Y | Nhân Tộc (Mộc Linh Thể). Hóa Thần Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Diệp_Thanh_Y.md) |
 | Diệp Tĩnh Sương | Nhân Tộc. Trúc Cơ Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md) |
 | Hàn Thanh Nguyệt | Nhân Tộc. Trúc Cơ Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Hàn_Thanh_Nguyệt.md) |
+| Hắc Hạt Ma Trùng | Trùng Tộc. | [Xem Chi Tiết](Đạo/Nhân_Vật/Hắc_Hạt_Ma_Trùng.md) |
 | Hứa Nhược Thủy | Nguyên Anh Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Hứa_Nhược_Thủy.md) |
 | Hứa Thanh Vân | Nhân Tộc. Luyện Khí Tầng 9 (Đỉnh Phong). | [Xem Chi Tiết](Đạo/Nhân_Vật/Hứa_Thanh_Vân.md) |
-| Lâm Phong | Nhân Tộc. Luyện Khí Viên Mãn (Chuẩn bị Trúc Cơ). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lâm_Phong.md) |
+| Lâm Phong | Nhân Tộc. Trúc Cơ Sơ Kỳ. (Trước đó: Luyện Khí Tầng 9). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lâm_Phong.md) |
 | Lý Tuyết Ưng | Băng Tộc (Nhân Tộc Biến Thể). Nguyên Anh Hậu Kỳ (gần viên mãn). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lý_Tuyết_Ưng.md) |
+| Lệ Nhược Thủy | Hải Tộc (Giao Nhân Hoàng Tộc). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lệ_Nhược_Thủy.md) |
 | Lệ Vô Tâm | Trúc Cơ Viên Mãn (Sắp ngưng tụ Giả Đan). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lệ_Vô_Tâm.md) |
 | Lục Ly | Tinh Linh Tộc (Hồn Thể / Spirit Form). Tương đương Trúc Cơ Viên Mãn / Nửa bước Kim Đan (Dựa trên sức mạnh Hồn Lực và Địa Lợi). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lục_Ly.md) |
 | Lục Tiêu | [Tinh Linh Tộc](../Chủng_Tộc/Chủng_Tộc_Chính.md#tinh-linh-tộc). | [Xem Chi Tiết](Đạo/Nhân_Vật/Lục_Tiêu.md) |
 | Lục Trần | Nhân Tộc. | [Xem Chi Tiết](Đạo/Nhân_Vật/Lục_Trần.md) |
+| Ngao Đình | Long Tộc (Chân Long Huyết Mạch - Nhánh Lôi Long). | [Xem Chi Tiết](Đạo/Nhân_Vật/Ngao_Đình.md) |
 | Nguyệt Dao | [Tinh Linh Tộc](../Chủng_Tộc/Chủng_Tộc_Chính.md#tinh-linh-tộc) (Hoàng Tộc). | [Xem Chi Tiết](Đạo/Nhân_Vật/Nguyệt_Dao.md) |
 | Ngô Công Trưởng Lão | N/A | [Xem Chi Tiết](Đạo/Nhân_Vật/Ngô_Công_Trưởng_Lão.md) |
+| Nham Thần | Cự Tộc (Giants). | [Xem Chi Tiết](Đạo/Nhân_Vật/Nham_Thần.md) |
+| Phương Vô Kỵ | Nhân Tộc. | [Xem Chi Tiết](Đạo/Nhân_Vật/Phương_Vô_Kỵ.md) |
 | Sở Lăng Sương | Nhân Tộc. Trúc Cơ Sơ Kỳ (Trúc Cơ tầng 2). | [Xem Chi Tiết](Đạo/Nhân_Vật/Sở_Lăng_Sương.md) |
 | Triệu Thanh Hằng | Nhân Tộc. Trúc Cơ Trung Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Triệu_Thanh_Hằng.md) |
 | Đan Dương Tử | Nhân Tộc. Hóa Thần Sơ Kỳ. | [Xem Chi Tiết](Đạo/Nhân_Vật/Đan_Dương_Tử.md) |
@@ -54,10 +59,15 @@ Thông tin chi tiết về thế giới, nhân vật và hệ thống tu luyện
 | Thanh Nang Trường Sinh Quyết | Thiên Cấp Trung Phẩm. | [Xem Chi Tiết](Đạo/Công_Pháp/Thanh_Nang_Trường_Sinh_Quyết.md) |
 | Thanh Âm Vạn Vật Quyết | Thiên Cấp Hạ Phẩm (Thien Cap Ha Pham). | [Xem Chi Tiết](Đạo/Công_Pháp/Thanh_Âm_Vạn_Vật_Quyết.md) |
 | Thiên Cơ Toán Thuật | Thiên Cấp Hạ Phẩm (Có thể tu luyện đến Nguyên Anh Cảnh). Không thuộc tính nguyên tố cụ thể — thuộc về "Đạo Vận" (Vận Mệnh / Nhân Quả). | [Xem Chi Tiết](Đạo/Công_Pháp/Thiên_Cơ_Toán_Thuật.md) |
+| Thiên Trùng Đồng Hóa Quyết | Vô Khuyết Cấp (Pháp môn tối cao của Trùng Tộc, không có điểm dừng, khả năng tiến hóa là vô tận). Thôn Phệ / Sinh Mệnh (Tập trung vào việc cắn nuốt, dung hợp và sinh sản). | [Xem Chi Tiết](Đạo/Công_Pháp/Thiên_Trùng_Đồng_Hóa_Quyết.md) |
 | Thiên Âm Băng Phách | Thiên Cấp Hạ Phẩm (Đi kèm với Băng Tâm Quyết). Âm (Sound) kết hợp Hàn (Ice). | [Xem Chi Tiết](Đạo/Công_Pháp/Thiên_Âm_Băng_Phách.md) |
+| Thái Cổ Long Thần Quyết | Vô Khuyết Cấp (Vượt trên Thiên Cấp, là công pháp tối cao của Long Tộc, giới hạn cuối cùng là Đạp Toái Hư Không). Huyết Lôi (Huyết Mạch và Lôi Đình). | [Xem Chi Tiết](Đạo/Công_Pháp/Thái_Cổ_Long_Thần_Quyết.md) |
+| Thái Cực Vạn Pháp Quyết | Vô Khuyết Cấp (Vượt trên Thiên Cấp, có thể tu đến Hóa Thần Cảnh và xa hơn). Vô Thuộc Tính (Bao dung vạn vật, chuyển hóa âm dương ngũ hành). | [Xem Chi Tiết](Đạo/Công_Pháp/Thái_Cực_Vạn_Pháp_Quyết.md) |
 | Tàn Nguyệt Kiếm Quyết | Huyền Cấp Trung Phẩm (Vốn là Địa Cấp nhưng bị thất truyền một phần quan trọng). Hàn / Băng. | [Xem Chi Tiết](Đạo/Công_Pháp/Tàn_Nguyệt_Kiếm_Quyết.md) |
 | Vạn Độc Chân Kinh | Thiên Cấp Hạ Phẩm (Có thể tiến hóa nếu hấp thụ đủ kỳ độc). | [Xem Chi Tiết](Đạo/Công_Pháp/Vạn_Độc_Chân_Kinh.md) |
 | Vạn Độc Phệ Hồn Quyết | Thiên Cấp Hạ Phẩm (Bản giản lược thiên về linh hồn). | [Xem Chi Tiết](Đạo/Công_Pháp/Vạn_Độc_Phệ_Hồn_Quyết.md) |
+| Âm Dương Thủy Nguyệt Quyết | Thiên Cấp Thượng Phẩm (Truyền thuyết nói nếu tu luyện viên mãn trong Vô Tận Hải dưới ánh trăng tròn, có thể đạt tới Vô Khuyết Cấp). Thủy (Nước) / Âm (Bóng Tối, Ảo Ảnh, Linh Hồn). | [Xem Chi Tiết](Đạo/Công_Pháp/Âm_Dương_Thủy_Nguyệt_Quyết.md) |
+| Đại Địa Trường Sinh Quyết | Thiên Cấp Thượng Phẩm (Tuyệt học trấn tộc của Cự Tộc). Thổ (Chủ đạo), Mộc (Hỗ trợ sinh cơ). | [Xem Chi Tiết](Đạo/Công_Pháp/Đại_Địa_Trường_Sinh_Quyết.md) |
 <!-- TECHNIQUE_LIST_END -->
 
 ---

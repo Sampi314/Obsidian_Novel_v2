@@ -404,8 +404,8 @@
 
 ## Phiên làm việc: Viết Chương 97 (Góc Nhìn Chính) & Chương 91 (Góc Nhìn Lệ Vô Tâm)
 - **Ngày:** Hôm nay
-- **Chương 97:** Khắc Phục Hậu Quả
-- **Chương 91:** Báo Cáo Thất Bại
+- **Chương 97:** Tàn Tích Ngoại Môn
+- **Chương 91:** Báo Cáo Trong Máu
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Hạm đội Huyết Sát Minh rút lui. Cửu Hoa Kiếm Tông bắt tay vào dọn dẹp và khắc phục hậu quả ở ngoại môn. Diệp Tĩnh Sương và Lâm Phong nhận ra sự chênh lệch to lớn giữa tu vi của họ và các cường giả chân chính, đồng thời quyết tâm mạnh mẽ hơn. Ở phía bên kia, Lệ Vô Tâm trở về báo cáo với Huyết Tước. Hắn hiểu rõ mình chỉ là quân cờ của Huyết Sát Minh, nhưng mượn lấy tham vọng đó để nuôi dã tâm riêng, tự hứa sẽ đè bẹp cả Chính và Tà.
 - **Tình trạng:** Hoàn thành. Bước chuyển tiếp quan trọng chuẩn bị cho giai đoạn tu luyện cường độ cao và xung đột ở tầm vóc mới.
