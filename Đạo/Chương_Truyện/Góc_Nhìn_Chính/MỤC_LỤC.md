@@ -114,3 +114,4 @@
 - [Chương 111: Dấu Vết Tại Vạn Yêu Thành](Chương_00111_Dấu_Vết_Tại_Vạn_Yêu_Thành.md)
 - [Chương 112: Khu Chợ Đen Vạn Yêu](Chương_00112_Khu_Chợ_Đen.md)
 - [Chương 113: Đụng Độ Tại Đấu Trường](Chương_00113_Đụng_Độ_Tại_Đấu_Trường.md)
+- [Chương 114: Biến Số Yêu Vương](Chương_00114_Biến_Số_Yêu_Vương.md)

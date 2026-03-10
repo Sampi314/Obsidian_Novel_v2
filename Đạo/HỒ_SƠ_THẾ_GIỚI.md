@@ -192,6 +192,7 @@
     - [Chương 105: Tam Vương Nội Chiến](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00105_Tam_Vương_Nội_Chiến.md)
     - [Chương 106: Hấp Thụ Sát Khí](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00106_Hấp_Thụ_Sát_Khí.md)
     - [Chương 107: Điệu Vũ Tử Thần](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00107_Điệu_Vũ_Tử_Thần.md)
+    - [Chương 108: Ánh Sáng Bất Ngờ](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00108_Ánh_Sáng_Bất_Ngờ.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -239,6 +240,7 @@
     - [Chương 111: Dấu Vết Tại Vạn Yêu Thành](Chương_Truyện/Góc_Nhìn_Chính/Chương_00111_Dấu_Vết_Tại_Vạn_Yêu_Thành.md)
     - [Chương 112: Khu Chợ Đen Vạn Yêu](Chương_Truyện/Góc_Nhìn_Chính/Chương_00112_Khu_Chợ_Đen.md)
     - [Chương 113: Đụng Độ Tại Đấu Trường](Chương_Truyện/Góc_Nhìn_Chính/Chương_00113_Đụng_Độ_Tại_Đấu_Trường.md)
+    - [Chương 114: Biến Số Yêu Vương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00114_Biến_Số_Yêu_Vương.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
