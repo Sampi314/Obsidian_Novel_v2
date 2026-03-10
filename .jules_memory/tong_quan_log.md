@@ -1108,3 +1108,26 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Viết tiếp diễn biến hậu chiến, nhóm Tĩnh Sương đối mặt với các Yêu Vương như thế nào, và hậu quả của việc Lệ Vô Tâm trốn thoát.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Đối Thoại Yêu Vương & Bóng Tối Trỗi Dậy)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết tiếp diễn biến Arc 5 tại Đông Hoang. Cuộc thỏa thuận giữa nhóm Tĩnh Sương và hai Yêu Vương, cùng kế hoạch dưới lòng đất của Lệ Vô Tâm.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00115_Đối_Thoại_Yêu_Vương.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00109_Bóng_Tối_Trỗi_Dậy.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện liên minh tạm thời và Lệ Vô Tâm dưỡng thương dưới lòng đất.
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/MỤC_LỤC.md` và `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/MỤC_LỤC.md`.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Nhóm Tĩnh Sương hợp tác với Lục Mãng Vương và Huyết Hổ Vương truy lùng tàn dư Huyết Sát Minh. Lệ Vô Tâm đang lẩn trốn dưới hang động ngầm Vạn Yêu Thành, nhắm đến Phế Tích Huyết Dạ để đột phá Kim Đan.
+- **Tình trạng:** Khởi đầu một cuộc đua thời gian mới giữa sự truy quét của liên minh và tốc độ khôi phục/đột phá của Lệ Vô Tâm.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết diễn biến nhóm Tĩnh Sương điều tra tại hang động ngầm của Mãng Tộc hoặc cuộc thám hiểm Phế Tích Huyết Dạ của Lệ Vô Tâm.
