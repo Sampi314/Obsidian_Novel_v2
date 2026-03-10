@@ -183,6 +183,7 @@
         - [Chương 95: Bẫy Rập Vĩnh Hằng](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00095_Bẫy_Rập_Vĩnh_Hằng.md)
         - [Chương 96: Sợi Dây Định Mệnh](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00096_Sợi_Dây_Định_Mệnh.md)
     - [Chương 97: Màn Kịch Đẫm Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00097_Màn_Kịch_Đẫm_Máu.md)
+    - [Chương 98: Dấu Vết Lưu Lại](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00098_Dấu_Vết_Lưu_Lại.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -214,12 +215,13 @@
         - [Chương 95: Huyết Chiến Ngoại Môn](Chương_Truyện/Góc_Nhìn_Chính/Chương_00095_Huyết_Chiến_Ngoại_Môn.md)
         - [Chương 96: Cường Giả Hàng Lâm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00096_Cường_Giả_Hàng_Lâm.md)
         - [Chương 97: Tàn Tích Ngoại Môn](Chương_Truyện/Góc_Nhìn_Chính/Chương_00097_Tàn_Tích_Ngoại_Môn.md)
-        - [Chương 98: Bế Quan Tu Luyện](Chương_Truyện/Góc_Nhìn_Chính/Chương_00098_Bế_Quan_Tu_Luyện.md)
+    - [Chương 98: Bế Quan Tu Luyện](Chương_Truyện/Góc_Nhìn_Chính/Chương_00098_Bế_Quan_Tu_Luyện.md)
         - [Chương 99: Xuất Quan](Chương_Truyện/Góc_Nhìn_Chính/Chương_00099_Xuất_Quan.md)
         - [Chương 100: Bước Chân Vào Đông Hoang](Chương_Truyện/Góc_Nhìn_Chính/Chương_00100_Bước_Chân_Vào_Đông_Hoang.md)
         - [Chương 101: Bóng Ma Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Chính/Chương_00101_Bóng_Ma_Rừng_Thẳm.md)
         - [Chương 102: Gặp Gỡ Tinh Linh](Chương_Truyện/Góc_Nhìn_Chính/Chương_00102_Gặp_Gỡ_Tinh_Linh.md)
     - [Chương 103: Vòng Vây Huyết Thi](Chương_Truyện/Góc_Nhìn_Chính/Chương_00103_Vòng_Vây_Huyết_Thi.md)
+    - [Chương 104: Ánh Sáng Cứu Viện](Chương_Truyện/Góc_Nhìn_Chính/Chương_00104_Ánh_Sáng_Cứu_Viện.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)

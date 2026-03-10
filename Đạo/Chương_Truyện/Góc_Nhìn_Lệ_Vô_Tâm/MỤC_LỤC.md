@@ -42,3 +42,4 @@
 - [Chương 95: Bẫy Rập Vĩnh Hằng](Chương_00095_Bẫy_Rập_Vĩnh_Hằng.md)
 - [Chương 96: Sợi Dây Định Mệnh](Chương_00096_Sợi_Dây_Định_Mệnh.md)
 - [Chương 97: Màn Kịch Đẫm Máu](Chương_00097_Màn_Kịch_Đẫm_Máu.md)
+- [Chương 98: Dấu Vết Lưu Lại](Chương_00098_Dấu_Vết_Lưu_Lại.md)

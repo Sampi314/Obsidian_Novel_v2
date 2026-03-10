@@ -98,6 +98,7 @@
     - **Sự Kiện Mới:** Tiến vào Vĩnh Hằng Sâm Lâm, đụng độ bầy Quang Điểu và Thụ Tinh Cổ Tích bị Huyết Hóa, chính thức chạm trán sự lây lan của Huyết Thần Độc (Hoàn thành - Chương 101 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Gặp gỡ Lục Tiêu của Tinh Linh Tộc, biết được sự tàn phá của Huyết Thần Độc và cùng Lục Tiêu tiến đến Tinh Linh Vương Đình để tìm cách giải quyết, trong khi đang bị Lệ Vô Tâm giăng bẫy (Hoàn thành - Chương 102 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Nhóm Diệp Tĩnh Sương, Lâm Phong và Lục Tiêu bị vây hãm bởi Huyết Thi, và Diệp Tĩnh Sương phá hủy Huyết Tinh Phù vô tình kích hoạt cái bẫy của Lệ Vô Tâm (Hoàn thành - Chương 103 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Lục Tiêu sử dụng bí thuật cứu nguy, mở đường máu trốn thoát về phía Tinh Linh Vương Đình (Hoàn thành - Chương 104 Góc Nhìn Chính).
 
 ### 2. Góc Nhìn Lệ Vô Tâm (Vạn Độc Thánh Tử)
 *   **Trạng Thái:** Đã hoàn thành (Chuyển sang Arc mới).
@@ -150,6 +151,7 @@
     - **Sự Kiện Mới:** Lệ Vô Tâm đến Vĩnh Hằng Sâm Lâm, thu thập tàn dư Vạn Độc Môn và giăng bẫy chờ đợi nhóm Diệp Tĩnh Sương (Hoàn thành - Chương 95 Góc Nhìn Lệ Vô Tâm).
     - **Nhiệm Vụ Hiện Tại:** Theo dõi và quan sát hoạt động của nhóm Diệp Tĩnh Sương và Tinh Linh Tộc, tung Huyết Tinh Phù để tiếp tục giăng bẫy Huyết Thi (Hoàn thành - Chương 96 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Lệ Vô Tâm đứng trên cao thao túng Huyết Thi bao vây nhóm Tĩnh Sương và dùng Huyết Tinh Phù làm bẫy thứ cấp, thưởng thức màn kịch đẫm máu (Hoàn thành - Chương 97 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Lệ Vô Tâm cố ý để nhóm Tĩnh Sương trốn thoát và âm thầm bám theo để tìm ra Tinh Linh Vương Đình (Hoàn thành - Chương 98 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
