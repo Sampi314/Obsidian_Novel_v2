@@ -99,4 +99,7 @@
 - [Chương 97: Tàn Tích Ngoại Môn](Chương_00097_Tàn_Tích_Ngoại_Môn.md)
 - [Chương 98: Bế Quan Tu Luyện](Chương_00098_Bế_Quan_Tu_Luyện.md)
 - [Chương 99: Xuất Quan](Chương_00099_Xuất_Quan.md)
+- [Chương 100: Bước Chân Vào Đông Hoang](Chương_00100_Bước_Chân_Vào_Đông_Hoang.md)
+- [Chương 101: Bóng Ma Rừng Thẳm](Chương_00101_Bóng_Ma_Rừng_Thẳm.md)
+- [Chương 102: Gặp Gỡ Tinh Linh](Chương_00102_Gặp_Gỡ_Tinh_Linh.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)

@@ -419,6 +419,10 @@ window.chapterData = {
       "title": "Chương 101: Bóng Ma Rừng Thẳm"
     },
     {
+      "filename": "Chương_00102_Gặp_Gỡ_Tinh_Linh.md",
+      "title": "Chương 102: Gặp Gỡ Tinh Linh"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -845,6 +849,10 @@ window.chapterData = {
     {
       "filename": "Chương_00095_Bẫy_Rập_Vĩnh_Hằng.md",
       "title": "Chương 95: Bẫy Rập Vĩnh Hằng"
+    },
+    {
+      "filename": "Chương_00096_Sợi_Dây_Định_Mệnh.md",
+      "title": "Chương 96: Sợi Dây Định Mệnh"
     }
   ]
 };

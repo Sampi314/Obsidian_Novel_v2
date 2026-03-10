@@ -38,3 +38,6 @@
 - [Chương 91: Báo Cáo Trong Máu](Chương_00091_Báo_Cáo_Trong_Máu.md)
 - [Chương 92: Dã Tâm Bừng Sáng](Chương_00092_Dã_Tâm_Bừng_Sáng.md)
 - [Chương 93: Huyết Sát Lệnh](Chương_00093_Huyết_Sát_Lệnh.md)
+- [Chương 94: Bóng Tối Trở Lại](Chương_00094_Bóng_Tối_Trở_Lại.md)
+- [Chương 95: Bẫy Rập Vĩnh Hằng](Chương_00095_Bẫy_Rập_Vĩnh_Hằng.md)
+- [Chương 96: Sợi Dây Định Mệnh](Chương_00096_Sợi_Dây_Định_Mệnh.md)
