@@ -161,6 +161,8 @@
     - **Sự Kiện Mới:** Nhóm Diệp Tĩnh Sương mở đường máu tiến thẳng tới trung tâm Vương Đình (Hoàn thành - Chương 107 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Lệ Vô Tâm và Nguyệt Dao Nữ Vương giao phong, Lệ Vô Tâm bộc lộ dã tâm biến Nữ Vương thành Huyết Thi (Hoàn thành - Chương 101 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương tiến tới trung tâm, hợp lực chi viện Nữ Vương. Đối mặt 1 địch 4, Lệ Vô Tâm kích nổ Huyết Long tẩu thoát. Trận chiến tạm dừng nhưng Vương Đình bị tàn phá nặng nề (Hoàn thành - Chương 108 Góc Nhìn Chính / Chương 102 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Tĩnh Sương, Lâm Phong và Lục Tiêu hỗ trợ Nguyệt Dao Nữ Vương thanh tẩy Huyết Thần Độc, cứu sống Tinh Linh Vương Đình khỏi nguy cơ diệt vong. Nữ Vương mời họ ở lại tu luyện (Hoàn thành - Chương 109 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Lệ Vô Tâm trốn thoát về Vĩnh Hằng Sâm Lâm dưỡng thương bằng đan dược tà ác. Sự thất bại càng làm dã tâm của hắn lớn hơn. Hắn ra lệnh phát tán Huyết Tinh Phù vào Vạn Yêu Thành để tiếp tục mưu đồ Huyết Sát tại Đông Hoang (Hoàn thành - Chương 103 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

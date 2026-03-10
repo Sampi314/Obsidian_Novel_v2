@@ -230,6 +230,7 @@
     - [Chương 106: Độc Phát Vương Đình](Chương_Truyện/Góc_Nhìn_Chính/Chương_00106_Độc_Phát_Vương_Đình.md)
     - [Chương 107: Huyết Chiến Vương Đình](Chương_Truyện/Góc_Nhìn_Chính/Chương_00107_Huyết_Chiến_Vương_Đình.md)
     - [Chương 108: Chi Viện Nữ Vương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00108_Chi_Viện_Nữ_Vương.md)
+    - [Chương 109: Tái Thiết Vương Đình](Chương_Truyện/Góc_Nhìn_Chính/Chương_00109_Tái_Thiết_Vương_Đình.md)
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
