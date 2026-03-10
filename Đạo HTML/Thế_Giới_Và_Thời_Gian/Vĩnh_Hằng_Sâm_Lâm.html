@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VĨNH HẰNG SÂM LÂM (永恒森林)</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Thế_Giới_Và_Thời_Gian/Vĩnh_Hằng_Sâm_Lâm.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<h1>VĨNH HẰNG SÂM LÂM (永恒森林)</h1>
+<br>
+<h2>I. TỔNG QUAN</h2>
+<ul>
+<li><strong>Tên Gọi:</strong> Vĩnh Hằng Sâm Lâm (Eternal Forest).</li>
+<li><strong>Vị Trí:</strong> Trung tâm của Đông Hoang, được bao bọc bởi dãy núi Nguyệt Ảnh.</li>
+<li><strong>Phân Loại:</strong> Khu Bảo Tồn Sinh Thái Thượng Cổ / Lãnh Địa Tinh Linh Tộc.</li>
+<li><strong>Trạng Thái Hiện Tại:</strong> Đang bị đe dọa bởi thảm họa "Sinh Mệnh Suy Tàn" do Huyết Thần Độc lan từ Nam Cương.</li>
+</ul>
+<h2>II. ĐỊA HÌNH VÀ CẢNH QUAN</h2>
+<ul>
+<li><strong>Thần Mộc Cổ Thụ (Cây Thế Giới):</strong> Trái tim của Vĩnh Hằng Sâm Lâm. Thân cây to bằng một ngọn núi nhỏ, cành lá vươn tận mây xanh, hấp thụ tinh hoa nhật nguyệt. Ban đêm, lá cây phát ra ánh sáng huỳnh quang màu ngọc bích, chiếu sáng cả khu rừng. Rễ của Thần Mộc đâm sâu vào Huyết Mạch Thượng Cổ, kết nối sinh khí với toàn bộ Cố Nguyên Giới.</li>
+<li><strong>Hồ Ánh Trăng (Nguyệt Quang Hồ):</strong> Hồ nước linh thiêng nằm dưới gốc Thần Mộc, chứa đựng Thủy Linh Khí thuần khiết. Đây là nơi Tinh Linh Tộc thực hiện các nghi thức tẩy lễ và chữa thương.</li>
+<li><strong>Rừng Tinh Thạch:</strong> Khu vực ngoại vi với những khối tinh thể linh thạch khổng lồ mọc lên từ mặt đất, tạo thành một hàng rào tự nhiên chứa đầy trận pháp phản chiếu ánh sáng để gây ảo giác cho kẻ xâm nhập.</li>
+<li><strong>Đầm Lầy Sương Tinh:</strong> Vùng đệm ranh giới phía Nam. Một đầm lầy phát sáng trong đêm, nơi cư ngụ của các sinh vật lưỡng cư độc đáo và thực vật ăn thịt.</li>
+</ul>
+<h2>III. HỆ SINH THÁI</h2>
+<h3>1. Thực Vật Tiêu Biểu</h3>
+<ul>
+<li><strong>Nguyệt Quang Thảo:</strong> Loài cỏ chỉ phát triển dưới ánh trăng, dùng để tinh luyện đan dược phục hồi Thần Thức.</li>
+<li><strong>Thụ Tinh Cổ Tích:</strong> Những cây cổ thụ có linh trí thấp, có khả năng di chuyển chậm chạp để bảo vệ rừng, đóng vai trò như lính gác biên giới.</li>
+<li><strong>Mộc Linh Hoa:</strong> Loài hoa khổng lồ tỏa ra linh khí chữa lành tự nhiên, thu hút rất nhiều chim muông và yêu thú hiền lành.</li>
+</ul>
+<h3>2. Sinh Vật Đặc Trưng</h3>
+<ul>
+<li><strong>Tinh Linh Hươu Trắng:</strong> Linh thú mang sức mạnh Tinh Thần, thường xuất hiện cùng các Tinh Linh cấp cao, biểu tượng của sự may mắn.</li>
+<li><strong>Quang Điểu (Light Birds):</strong> Những chú chim nhỏ phát sáng, chuyên ăn các loại bọ độc và cảnh báo nguy hiểm bằng tiếng hót the thé.</li>
+<li><strong>Yêu Thú Bảo Hộ:</strong> Các loài yêu thú hệ Mộc hoặc Thủy được Tinh Linh thuần hóa, sống hòa bình quanh Thần Mộc.</li>
+</ul>
+<h2>IV. TÀI NGUYÊN VÀ GIÁ TRỊ</h2>
+<ul>
+<li><strong>Thanh Mộc Dịch (Tinh Dầu Thần Mộc):</strong> Mười năm mới ngưng tụ được một giọt từ rễ Thần Mộc. Có khả năng cải tử hoàn sinh, giải bách độc và tăng cường tuổi thọ (Đang bị suy giảm nghiêm trọng do Huyết Thần Độc).</li>
+<li><strong>Lõi Cây Ngàn Năm:</strong> Vật liệu thượng hạng để luyện chế mộc trượng, cung tên hoặc trận bàn hệ Mộc.</li>
+</ul>
+<h2>V. NGUY HIỂM HIỆN TẠI (SỰ KIỆN SINH MỆNH SUY TÀN)</h2>
+<ul>
+<li><strong>Huyết Thần Độc:</strong> Độc tố cực mạnh từ Vạn Độc Môn (Nam Cương) đã ngấm vào Mạch Ngầm Thượng Cổ và lan đến rễ Thần Mộc. Nó ăn mòn sinh cơ, biến linh khí thành tà khí.</li>
+<li><strong>Sự Huyết Hóa (Blood-ification):</strong> Thực vật trong rừng bắt đầu héo úa, tiết ra dịch đỏ như máu. Yêu thú hiền lành trở nên điên cuồng, tấn công lẫn nhau. Tinh Linh Tộc nếu tiếp xúc lâu dài với tà khí sẽ bong tróc da, mắt chuyển đỏ và mất lý trí.</li>
+<li><strong>Áp Lực Từ Bên Ngoài:</strong> Cảm nhận được sự suy yếu của Thần Mộc, Thiên Yêu Đình (Yêu Tộc Đông Hoang) và các tông môn Nhân Tộc (như Đan Hà Cốc) đang nhăm nhe xâm phạm để cướp đoạt tài nguyên hoặc "thanh tẩy bằng lửa" để ngăn độc lan rộng.</li>
+</ul>
+<h2>VI. LỊCH SỬ VÀ TRUYỀN THUYẾT</h2>
+<ul>
+<li><strong>Kỷ Nguyên Khởi Nguyên:</strong> Vĩnh Hằng Sâm Lâm được sinh ra từ hạt giống đầu tiên của Sinh Mệnh Thần Mộc khi thế giới mới hình thành. Đây là nơi khởi nguồn của Tinh Linh Tộc, một chủng tộc được Thần Mộc ban cho linh trí và sắc đẹp thanh tao.</li>
+<li><strong>Hiệp Ước Không Xâm Phạm:</strong> Từ ngàn xưa, Vĩnh Hằng Sâm Lâm duy trì thế trung lập. Tinh Linh Tộc không can thiệp vào cuộc chiến của Nhân Tộc hay Yêu Tộc, miễn là không ai chạm đến Thần Mộc.</li>
+</ul>
+<h2>VII. GHI CHÚ</h2>
+<ul>
+<li>Đây là trung tâm của tuyến truyện cứu vãn Đông Hoang trong Arc 5. Nhóm Diệp Tĩnh Sương (từ Cửu Hoa) và Lục Tiêu (Sứ giả Tinh Linh) sẽ phải phối hợp để tìm ra nguyên nhân và phương thức thanh tẩy Huyết Thần Độc trước khi Thần Mộc sụp đổ hoàn toàn.</li>
+</ul>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

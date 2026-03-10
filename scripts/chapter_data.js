@@ -411,6 +411,10 @@ window.chapterData = {
       "title": "Chương 99: Xuất Quan"
     },
     {
+      "filename": "Chương_00100_Bước_Chân_Vào_Đông_Hoang.md",
+      "title": "Chương 100: Bước Chân Vào Đông Hoang"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -829,6 +833,10 @@ window.chapterData = {
     {
       "filename": "Chương_00093_Huyết_Sát_Lệnh.md",
       "title": "Chương 93: Huyết Sát Lệnh"
+    },
+    {
+      "filename": "Chương_00094_Bóng_Tối_Trở_Lại.md",
+      "title": "Chương 94: Bóng Tối Trở Lại"
     }
   ]
 };
