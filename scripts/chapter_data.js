@@ -399,10 +399,6 @@ window.chapterData = {
       "title": "Chương 00096: Cường Giả Hàng Lâm"
     },
     {
-      "filename": "Chương_00097_Tàn_Tích_Ngoại_Môn.md",
-      "title": "Chương 97: Tàn Tích Ngoại Môn"
-    },
-    {
       "filename": "Chương_00098_Bế_Quan_Tu_Luyện.md",
       "title": "Chương 98: Bế Quan Tu Luyện"
     },
@@ -513,6 +509,22 @@ window.chapterData = {
     {
       "filename": "Chương_00125_Băng_Uyên_Sụp_Đổ.md",
       "title": "Chương 125: Băng Uyên Sụp Đổ"
+    },
+    {
+      "filename": "Chương_00126_Hậu_Quả_Băng_Uyên.md",
+      "title": "Chương 126: Hậu Quả Băng Uyên"
+    },
+    {
+      "filename": "Chương_00127_Dấu_Vết_Băng_Uyên.md",
+      "title": "Chương 127: Dấu Vết Băng Uyên"
+    },
+    {
+      "filename": "Chương_00128_Hành_Trình_Băng_Ngục.md",
+      "title": "Chương 128: Hành Trình Băng Ngục (冰狱之行)"
+    },
+    {
+      "filename": "Chương_00129_Tử_Địa_Hoang_Tàn.md",
+      "title": "Chương 129: Tử Địa Hoang Tàn (荒芜死地)"
     },
     {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
@@ -923,10 +935,6 @@ window.chapterData = {
       "title": "Chương 00090: Uy Áp Hóa Thần"
     },
     {
-      "filename": "Chương_00091_Báo_Cáo_Trong_Máu.md",
-      "title": "Chương 91: Báo Cáo Trong Máu"
-    },
-    {
       "filename": "Chương_00092_Dã_Tâm_Bừng_Sáng.md",
       "title": "Chương 92: Dã Tâm Bừng Sáng (Góc Nhìn Lệ Vô Tâm)"
     },
@@ -1037,6 +1045,22 @@ window.chapterData = {
     {
       "filename": "Chương_00119_Nuốt_Chửng_Ma_Châu.md",
       "title": "Chương 119: Nuốt Chửng Ma Châu"
+    },
+    {
+      "filename": "Chương_00120_Luyện_Hóa_Ma_Châu.md",
+      "title": "Chương 120: Luyện Hóa Ma Châu"
+    },
+    {
+      "filename": "Chương_00121_Hỗn_Độn_Băng_Ma.md",
+      "title": "Chương 121: Hỗn Độn Băng Ma"
+    },
+    {
+      "filename": "Chương_00122_Bàn_Tiệc_Đẫm_Máu.md",
+      "title": "Chương 122: Bàn Tiệc Đẫm Máu (血腥盛宴)"
+    },
+    {
+      "filename": "Chương_00123_Kẻ_Săn_Mồi_Vực_Sâu.md",
+      "title": "Chương 123: Kẻ Săn Mồi Vực Sâu (深渊猎手)"
     }
   ]
 };
