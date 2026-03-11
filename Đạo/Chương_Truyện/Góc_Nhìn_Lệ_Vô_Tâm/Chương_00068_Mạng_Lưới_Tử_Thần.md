@@ -16,7 +16,7 @@ Ghi_Chú: Chuẩn bị cho trận phục kích tại Rừng Huyết Độc (Chư
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Nhân vật liên quan:** [Huyết Vệ](../../Nhân_Vật/Huyết_Vệ.md), [Mộc Độc Sư](../../Thế_Lực/Vạn_Độc_Môn.md#mộc-độc-sư)
+**Nhân vật liên quan:** Huyết Vệ, [Mộc Độc Sư](../../Thế_Lực/Vạn_Độc_Môn.md#mộc-độc-sư)
 **Địa điểm:** [Rừng Huyết Độc](../../Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md).
 **Thời điểm:** Ngay trước [Chương 37: Vòng Vây Huyết Lang](../Góc_Nhìn_Chính/Chương_00037_Vòng_Vây_Huyết_Lang.md).
 **Giao Điểm Cốt Truyện:** Lệ Vô Tâm triển khai trận địa phục kích và bầy Huyết Độc Lang để đón đầu nhóm Diệp Tĩnh Sương.

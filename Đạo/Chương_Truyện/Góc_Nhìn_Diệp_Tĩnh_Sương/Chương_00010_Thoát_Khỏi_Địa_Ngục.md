@@ -9,7 +9,7 @@
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)
 **Nhân vật liên quan:** [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md), [Lục Ly](../../Nhân_Vật/Lục_Ly.md)
-**Địa điểm:** [Hoàng Sa Địa Cung](../../Kỳ_Vật/Hoàng_Sa_Địa_Cung.md).
+**Địa điểm:** Hoàng Sa Địa Cung.
 **Thời điểm:** Song song với [Chương 29: Bí Mật Long Cốt](../Góc_Nhìn_Chính/Chương_00029_Bí_Mật_Long_Cốt.md) và [Chương 30: Đại Nạn Long Mạch](../Góc_Nhìn_Chính/Chương_00030_Đại_Nạn_Long_Mạch.md).
 **Giao Điểm Cốt Truyện:** Diệp Tĩnh Sương chứng kiến sự hy sinh của Lục Ly, dẫn đầu nhóm thoát khỏi sự truy sát của Địa Sát.
 

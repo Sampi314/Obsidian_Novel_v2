@@ -67,7 +67,7 @@ Ta trôi nổi trong Bách Độc Trì, lơ lửng giữa sự sống và cái c
 
 Nhưng ta vẫn chưa chết.
 
-Hơi thở của ta mỏng manh như tơ nhện, nhưng trái tim vẫn đập, từng nhịp, từng nhịp. [Tiểu Huyết](../../Kỳ_Vật/Tiểu_Huyết_Cổ.md) vẫn đang bám chặt vào lồng ngực ta, hút lấy chút sinh khí cuối cùng để nuôi dưỡng chính nó, và cũng để truyền lại cho ta một luồng độc khí bảo vệ tâm mạch.
+Hơi thở của ta mỏng manh như tơ nhện, nhưng trái tim vẫn đập, từng nhịp, từng nhịp. Tiểu Huyết vẫn đang bám chặt vào lồng ngực ta, hút lấy chút sinh khí cuối cùng để nuôi dưỡng chính nó, và cũng để truyền lại cho ta một luồng độc khí bảo vệ tâm mạch.
 
 Độc Cô Lão Quái đứng trên bờ, khoanh tay nhìn xuống. Ánh mắt lão không còn vẻ lạnh lùng như trước, mà thay vào đó là sự tò mò, thậm chí là một chút... hưng phấn.
 
@@ -89,7 +89,7 @@ Ta mấp máy môi, cổ họng khô khốc như sa mạc.
 
 Lão ngồi xuống cạnh ta, lấy ra một viên đan dược màu đỏ như máu chim bồ câu.
 
-"Nuốt đi. [Huyết Sát Đan](../../Đan_Dược/Huyết_Sát_Đan.md). Nó sẽ giúp ngươi tái tạo da thịt, nhưng đồng thời cũng sẽ khiến độc tố trong người ngươi bùng phát dữ dội hơn gấp mười lần."
+"Nuốt đi. Huyết Sát Đan. Nó sẽ giúp ngươi tái tạo da thịt, nhưng đồng thời cũng sẽ khiến độc tố trong người ngươi bùng phát dữ dội hơn gấp mười lần."
 
 Lão nhét viên đan vào miệng ta, không đợi ta đồng ý.
 

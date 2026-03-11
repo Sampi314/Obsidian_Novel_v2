@@ -222,3 +222,5 @@
 | Hôm nay | Tổng Quản | Khắc phục lỗi ngữ pháp | Hoàn Thành | Sửa "!!!" thành "!" trong Chương 114 Góc Nhìn Lệ Vô Tâm theo yêu cầu kiểm soát chất lượng. |
 | Hôm nay | Tổng Quản | Viết Chương 125 (Góc Nhìn Chính) & Chương 119 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm liều mạng nuốt chửng Cực Hàn Ma Châu để tẩu thoát. Tuyệt Băng Uyên sụp đổ, nhóm Tĩnh Sương được Cung Chủ Lý Tuyết Ưng ứng cứu. |
 | Hôm nay | Tổng Quản | Xóa File Trùng Lặp | Hoàn Thành | Xóa các file thừa của Chương 97 (Góc Nhìn Chính) và Chương 91 (Góc Nhìn Lệ Vô Tâm) do phát hiện đây là phiên bản lỗi, giữ lại file chuẩn. Cập nhật lại MỤC LỤC và Index. |
+| Hôm nay | Tổng Quản | Mở Rộng Thế Lực Đông Hoang | Hoàn Thành | Bổ sung chi tiết hồ sơ các thế lực `Vạn_Yêu_Thành.md`, `Ngự_Kiếm_Sơn_Trang.md`, `Thanh_Đế_Cung.md` tại Đông Hoang để chuẩn bị tài nguyên cho Arc 5. |
+| Hôm nay | Tổng Quản | Sửa Lỗi Tham Chiếu | Hoàn Thành | Phát hiện và sửa tự động/thủ công an toàn hàng loạt broken links trong toàn bộ các tệp tin markdown của dự án (không xóa dữ liệu). |

@@ -12,3 +12,14 @@
 - [Chương 7: Dưới Bóng Hắc Sa](Chương_00007_Dưới_Bóng_Hắc_Sa.md)
 - [Chương 8: Huyết Tế Sa Mạc](Chương_00008_Huyết_Tế_Sa_Mạc.md)
 - [Chương 9: Sát Ý Rừng Gai](Chương_00009_Sát_Ý_Rừng_Gai.md)- [Chương 98: Dấu Vết Lưu Lại](Chương_00098_Dấu_Vết_Lưu_Lại.md)
+- Chương 2.2: Bẫy Rập Rừng Sương
+- Chương 2.5: Diệt Môn Chi Họa
+- Chương 2.8: Thanh Trừng Nội Bộ
+- Chương 2: Huyết Độc Phiến
+- Chương 3: Mệnh Lệnh Bóng Tối
+- Chương 4: Thí Nghiệm Máu
+- Chương 5: Ván Cờ Huyết Độc
+- Chương 6: Truy Vết Tử Thần
+- Chương 7: Dưới Bóng Hắc Sa
+- Chương 8: Huyết Tế Sa Mạc
+- Chương 9: Sát Ý Rừng Gai

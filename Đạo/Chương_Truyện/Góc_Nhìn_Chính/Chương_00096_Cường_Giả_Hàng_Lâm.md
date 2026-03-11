@@ -7,7 +7,7 @@
 # Chương 00096: Cường Giả Hàng Lâm
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../Nhân_Vật/Lâm_Phong.md), [Sở Lăng Sương](../Nhân_Vật/Sở_Lăng_Sương.md), [Lệ Vô Tâm](../Nhân_Vật/Lệ_Vô_Tâm.md), [Đại Trưởng Lão Thanh Hư](../Nhân_Vật/Đại_Trưởng_Lão_Thanh_Hư.md)
+**Nhân vật chính:** Diệp Tĩnh Sương, Lâm Phong, Sở Lăng Sương, Lệ Vô Tâm, Đại Trưởng Lão Thanh Hư
 **Địa điểm:** Ngoại môn Cửu Hoa Kiếm Tông
 
 ---

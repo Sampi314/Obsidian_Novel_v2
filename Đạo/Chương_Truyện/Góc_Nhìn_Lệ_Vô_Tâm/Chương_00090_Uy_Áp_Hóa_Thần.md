@@ -7,7 +7,7 @@
 # Chương 00090: Uy Áp Hóa Thần
 
 **Tác giả:** Tổng Quản (Jules)
-**Nhân vật chính:** [Lệ Vô Tâm](../Nhân_Vật/Lệ_Vô_Tâm.md), [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Đại Trưởng Lão Thanh Hư](../Nhân_Vật/Đại_Trưởng_Lão_Thanh_Hư.md)
+**Nhân vật chính:** Lệ Vô Tâm, Diệp Tĩnh Sương, Đại Trưởng Lão Thanh Hư
 **Địa điểm:** Ngoại môn Cửu Hoa Kiếm Tông
 
 ---

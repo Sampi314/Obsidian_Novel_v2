@@ -32,7 +32,7 @@
     - "Long Cốt" được nhắc đến là đoạn xương chứa đựng tinh hoa cuối cùng của nó.
 - **Sự Kiện Liên Quan:**
     - **Hoàng Sa Quốc:** Vị vua cuối cùng của Hoàng Sa Quốc đã tìm thấy Long Cốt và dùng nó để xây dựng vương triều thịnh vượng. Tuy nhiên, lòng tham khiến ông muốn dung hợp nó vào cơ thể phàm trần, dẫn đến tai kiếp hủy diệt cả vương quốc.
-    - **Huyết Độc Chi Họa:** [Vạn Độc Môn](../Thế_Lực/Vạn_Độc_Môn.md) đang ráo riết tìm kiếm Long Cốt. Chúng định dùng [Huyết Trì](../Kỳ_Vật/Huyết_Trì.md) để ô nhiễm Long Cốt, biến nó thành "Độc Long Cốt" nhằm khống chế toàn bộ Nam Cương và Tây Mạc.
+    - **Huyết Độc Chi Họa:** [Vạn Độc Môn](../Thế_Lực/Vạn_Độc_Môn.md) đang ráo riết tìm kiếm Long Cốt. Chúng định dùng Huyết Trì để ô nhiễm Long Cốt, biến nó thành "Độc Long Cốt" nhằm khống chế toàn bộ Nam Cương và Tây Mạc.
 
 ## V. HIỆN TRẠNG
 - Đang bị phong ấn tại một không gian bí mật (Long Huyệt), manh mối duy nhất nằm trong bức phù điêu tại [Hoàng Sa Địa Cung](../Thế_Giới_Và_Thời_Gian/Hoàng_Sa_Địa_Cung.md).

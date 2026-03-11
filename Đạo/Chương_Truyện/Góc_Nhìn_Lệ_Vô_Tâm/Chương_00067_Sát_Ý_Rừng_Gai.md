@@ -8,7 +8,7 @@
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Nhân vật liên quan:** [Huyết Vệ](../../Nhân_Vật/Huyết_Vệ.md)
+**Nhân vật liên quan:** Huyết Vệ
 **Địa điểm:** [Rừng Xương Rồng Thiên Trụ](../../Kỳ_Vật/Xương_Rồng_Thiên_Trụ.md).
 **Thời điểm:** Song song với [Chương 33: Bí Mật Rừng Thiên Trụ](../Góc_Nhìn_Chính/Chương_00033_Bí_Mật_Rừng_Thiên_Trụ.md) và [Chương 34: Pháo Đài Xanh](../Góc_Nhìn_Chính/Chương_00034_Pháo_Đài_Xanh.md).
 **Giao Điểm Cốt Truyện:** Lệ Vô Tâm tiếp cận rìa Pháo Đài Xanh nhưng quyết định không tấn công trực diện mà giăng bẫy đón đầu tại Nam Cương.

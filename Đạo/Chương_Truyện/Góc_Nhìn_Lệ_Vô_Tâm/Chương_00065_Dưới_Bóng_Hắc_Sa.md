@@ -8,7 +8,7 @@
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Nhân vật liên quan:** [Huyết Vệ](../../Nhân_Vật/Huyết_Vệ.md)
+**Nhân vật liên quan:** Huyết Vệ
 **Địa điểm:** Rìa Rừng Huyết Độc - Giáp ranh Tây Mạc.
 **Thời điểm:** Song song với sự kiện [Long Cốt](../../Kỳ_Vật/Long_Cốt.md) bị phá vỡ (Chương 30).
 **Giao Điểm Cốt Truyện:** [Chương 31: Hắc Sa Bão Trỗi Dậy](../Góc_Nhìn_Chính/Chương_00031_Hắc_Sa_Bão_Trỗi_Dậy.md).
@@ -33,11 +33,11 @@ Tiếng nổ vang lên sau đó, chậm hơn ánh sáng nhưng sức công phá 
 
 Lâm Phong... Diệp Tĩnh Sương... Các ngươi đã làm cái quái gì thế này?
 
-Ta cứ ngỡ chúng chỉ lẻn vào trộm một chút bảo vật, hay cùng lắm là tìm đường sống trong chỗ chết. Nhưng không, chúng đã phá hủy long mạch! Chúng đã đánh thức thứ mà ngay cả các trưởng lão Vạn Độc Môn cũng phải kiêng dè: [Địa Sát](../../Kỳ_Vật/Địa_Sát.md).
+Ta cứ ngỡ chúng chỉ lẻn vào trộm một chút bảo vật, hay cùng lắm là tìm đường sống trong chỗ chết. Nhưng không, chúng đã phá hủy long mạch! Chúng đã đánh thức thứ mà ngay cả các trưởng lão Vạn Độc Môn cũng phải kiêng dè: Địa Sát.
 
 "Thánh Tử! Bão cát đang tới! Chúng ta phải rút lui thôi!" Tên thủ lĩnh Huyết Vệ hoảng loạn thúc giục.
 
-Ta liếc nhìn hắn. Sự sợ hãi hiện rõ trên khuôn mặt vốn đã quen với chết chóc. Cũng phải thôi, [Hắc Sa Bão](../../Kỳ_Vật/Hắc_Sa_Bão.md) trong truyền thuyết không phải là thứ mà nhân lực có thể chống lại. Nó là cơn thịnh nộ của trời đất.
+Ta liếc nhìn hắn. Sự sợ hãi hiện rõ trên khuôn mặt vốn đã quen với chết chóc. Cũng phải thôi, Hắc Sa Bão trong truyền thuyết không phải là thứ mà nhân lực có thể chống lại. Nó là cơn thịnh nộ của trời đất.
 
 Nhưng trong cơn hoảng loạn đó, ta lại thấy một cơ hội.
 

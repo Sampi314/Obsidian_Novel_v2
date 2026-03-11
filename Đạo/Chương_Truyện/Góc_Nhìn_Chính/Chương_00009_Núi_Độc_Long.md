@@ -73,7 +73,7 @@ Lâm Phong nhăn mặt: "Cô điên à? Linh lực cạn kiệt, vai thì trọn
 
 "Đó là thuốc cứu trợ cho Dược Vương Cốc. Nếu không có nó, hàng ngàn người nhiễm độc trong rừng sẽ chết."
 
-Nàng không đợi hắn trả lời, gắng gượng đứng dậy, rút [Hàn Mai Kiếm](../../Luyện_Khí/Hàn_Mai_Kiếm.md) ra. Dù tay run rẩy, nhưng mũi kiếm vẫn chỉ thẳng xuống dưới.
+Nàng không đợi hắn trả lời, gắng gượng đứng dậy, rút Hàn Mai Kiếm ra. Dù tay run rẩy, nhưng mũi kiếm vẫn chỉ thẳng xuống dưới.
 
 Lâm Phong nhìn nàng, rồi nhìn xuống đám người đang chém giết phía dưới, thở dài sườn sượt. Hắn tháo [Truy Phong Cung](../../Luyện_Khí/Truy_Phong_Cung.md) xuống, lắp ba mũi tên gỗ lên dây.
 

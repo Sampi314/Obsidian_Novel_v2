@@ -145,7 +145,7 @@ Ta hét lên đau đớn, ôm lấy bàn tay cụt ngón, ngã quỵ xuống.
 
 Lão đá văng cái lồng sắt, con khỉ sợ hãi chạy biến vào bóng tối.
 
-"Tự băng bó đi. Rồi quay lại đây ngâm mình trong [Bách Độc Trì](../../Kỳ_Vật/Bách_Độc_Trì.md) hai canh giờ. Nếu ngất xỉu, ta sẽ ném xác ngươi cho lũ rết ăn."
+"Tự băng bó đi. Rồi quay lại đây ngâm mình trong Bách Độc Trì hai canh giờ. Nếu ngất xỉu, ta sẽ ném xác ngươi cho lũ rết ăn."
 
 Lão bỏ đi, để lại ta một mình trong hang động tối tăm, với bàn tay đầm đìa máu và nỗi đau thấu tim gan.
 

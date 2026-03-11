@@ -9,7 +9,7 @@
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md)
 **Nhân vật liên quan:** [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md), [Hứa Nhược Thủy](../../Nhân_Vật/Hứa_Nhược_Thủy.md)
-**Địa điểm:** [Rừng Huyết Độc](../../Kỳ_Vật/Rừng_Huyết_Độc.md).
+**Địa điểm:** Rừng Huyết Độc.
 **Thời điểm:** Song song với [Chương 21: Độc Khí Công Tâm](../Góc_Nhìn_Chính/Chương_00021_Độc_Khí_Công_Tâm.md).
 **Giao Điểm Cốt Truyện:** Khoảnh khắc Diệp Tĩnh Sương dùng nội lực áp chế độc tố cho Hứa Nhược Thủy.
 

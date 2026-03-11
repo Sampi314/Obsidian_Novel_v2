@@ -12,7 +12,7 @@ description: "Lệ Vô Tâm đặt chân đến vùng Trung Tâm. Để thử ng
 
 **Tác giả:** Tổng Quản (Jules)
 **Nhân vật chính:** [Lệ Vô Tâm](../../Nhân_Vật/Lệ_Vô_Tâm.md)
-**Địa điểm:** Một tiêu cục nhỏ tại [Khu Vực Trung Tâm](../../Thế_Giới_Và_Thời_Gian/Khu_Vực_Trung_Tâm.md)
+**Địa điểm:** Một tiêu cục nhỏ tại Khu Vực Trung Tâm
 
 ---
 

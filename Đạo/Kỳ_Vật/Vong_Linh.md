@@ -12,7 +12,7 @@
 - **Khí Tức:** Tỏa ra mùi hôi thối của đất chết và sự lạnh lẽo thấu xương. Khi di chuyển thường phát ra tiếng xương cốt va đập lách cách.
 
 ## III. NGUỒN GỐC
-- **Sự Hình Thành:** Vong Linh không sinh ra tự nhiên mà là sản phẩm của [Địa Sát](../Kỳ_Vật/Địa_Sát.md) (Earth Bane). Khi Long Cốt bị vỡ, phong ấn Địa Mạch suy yếu, luồng khí tà ác này tràn lên mặt đất, xâm nhập vào các xác chết chưa phân hủy hết hoặc xương cốt của những kẻ chết oan, cưỡng ép linh hồn họ quay lại thân xác để trở thành nô lệ.
+- **Sự Hình Thành:** Vong Linh không sinh ra tự nhiên mà là sản phẩm của Địa Sát (Earth Bane). Khi Long Cốt bị vỡ, phong ấn Địa Mạch suy yếu, luồng khí tà ác này tràn lên mặt đất, xâm nhập vào các xác chết chưa phân hủy hết hoặc xương cốt của những kẻ chết oan, cưỡng ép linh hồn họ quay lại thân xác để trở thành nô lệ.
 - **Ý Thức:** Hầu hết Vong Linh không còn ký ức hay lý trí, chỉ còn lại bản năng giết chóc và sự căm hận đối với sinh vật sống.
 
 ## IV. KHẢ NĂNG & TẬP TÍNH

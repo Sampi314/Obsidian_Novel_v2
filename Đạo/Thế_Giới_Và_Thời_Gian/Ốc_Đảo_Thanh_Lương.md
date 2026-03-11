@@ -34,5 +34,5 @@
     - Đôi khi có cả Sa Tặc trà trộn vào để nghe ngóng tin tức (nhưng tuyệt đối không được gây sự tại đây theo luật bất thành văn).
 
 ## V. VAI TRÒ TRONG CỐT TRUYỆN
-- Là nơi [Diệp Tĩnh Sương](../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md) và [Hứa Thanh Vân](../../Nhân_Vật/Hứa_Thanh_Vân.md) dưỡng thương sau khi thoát khỏi [Lưu Sa Phế Tích](../Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md) ở [Chương 16](../../Chương_Truyện/Góc_Nhìn_Chính/Chương_00016_Trở_Về_Cát_Bụi.md).
-- Tại đây, bí mật về tấm bản đồ [Long Cốt](../../Kỳ_Vật/Long_Cốt.md) được Hứa Thanh Vân tiết lộ.
+- Là nơi Diệp Tĩnh Sương, Lâm Phong và Hứa Thanh Vân dưỡng thương sau khi thoát khỏi [Lưu Sa Phế Tích](../Thế_Giới_Và_Thời_Gian/Lưu_Sa_Phế_Tích.md) ở Chương 16.
+- Tại đây, bí mật về tấm bản đồ Long Cốt được Hứa Thanh Vân tiết lộ.

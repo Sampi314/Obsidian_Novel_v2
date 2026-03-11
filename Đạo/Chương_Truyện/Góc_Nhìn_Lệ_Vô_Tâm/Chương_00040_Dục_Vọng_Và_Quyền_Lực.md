@@ -36,7 +36,7 @@ Không. Ta sẽ không để điều đó xảy ra.
 
 Ta sẽ không dừng lại ở vị trí Thánh Tử này. Ta muốn nhiều hơn thế. Ta muốn Vạn Độc Môn này phải là của ta. Ta muốn cả Nam Cương này phải run sợ khi nghe tên ta.
 
-Ta lấy ra lọ [Huyết Tinh Sa](../../Kỳ_Vật/Huyết_Tinh_Sa.md). Số lượng cát bên trong đã vơi đi một nửa sau quá trình tu luyện điên cuồng của ta. Nhưng sức mạnh mà nó mang lại thì thật kinh khủng. Ta đã chạm tới ngưỡng cửa của Trúc Cơ Hậu Kỳ.
+Ta lấy ra lọ Huyết Tinh Sa. Số lượng cát bên trong đã vơi đi một nửa sau quá trình tu luyện điên cuồng của ta. Nhưng sức mạnh mà nó mang lại thì thật kinh khủng. Ta đã chạm tới ngưỡng cửa của Trúc Cơ Hậu Kỳ.
 
 Ta cần phải mạnh hơn nữa. Mạnh đến mức không ai có thể kiểm soát ta được nữa.
 
