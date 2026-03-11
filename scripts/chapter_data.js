@@ -503,6 +503,10 @@ window.chapterData = {
       "title": "Chương 122: Hội Kiến Cung Chủ"
     },
     {
+      "filename": "Chương_00123_Tiến_Xuống_Băng_Uyên.md",
+      "title": "Chương 123: Tiến Xuống Băng Uyên"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -1013,6 +1017,10 @@ window.chapterData = {
     {
       "filename": "Chương_00116_Xâm_Nhập_Băng_Uyên.md",
       "title": "Chương 116: Xâm Nhập Băng Uyên"
+    },
+    {
+      "filename": "Chương_00117_Tiếp_Cận_Ma_Châu.md",
+      "title": "Chương 117: Tiếp Cận Ma Châu"
     }
   ]
 };

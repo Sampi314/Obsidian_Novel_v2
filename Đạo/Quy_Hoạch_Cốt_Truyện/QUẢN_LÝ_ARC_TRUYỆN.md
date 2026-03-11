@@ -182,6 +182,7 @@
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương đến Bắc Băng, hội ngộ Sở Lăng Sương và chạm trán Tuyết Quỷ bị ma hóa (Hoàn thành - Chương 121 Góc Nhìn Chính). Lệ Vô Tâm cũng đã đặt chân tới Bắc Băng, thể hiện khả năng chế ngự và điều khiển thú ma hóa, hướng tới Huyền Băng Cung (Hoàn thành - Chương 115 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương tiến vào Huyền Băng Cung, gặp Cung Chủ Lý Tuyết Ưng và nhận nhiệm vụ xuống Tuyệt Băng Uyên sửa chữa phong ấn Cực Hàn Ma Châu (Hoàn thành - Chương 122 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Lệ Vô Tâm dùng Băng Hùng ma hóa tấn công vòng ngoài Huyền Băng Cung để thu hút sự chú ý, bản thân âm thầm lách qua khe hở của Cửu Thiên Hàn Băng Trận tiến vào Tuyệt Băng Uyên tiếp cận Cực Hàn Ma Châu (Hoàn thành - Chương 116 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Nhóm Tĩnh Sương tiến xuống Tuyệt Băng Uyên, tiêu diệt quái vật ma hóa và phát hiện Lệ Vô Tâm đang dùng Hắc Liên ăn mòn phong ấn Cực Hàn Ma Châu dưới đáy vực. Hai bên chính thức đối đầu trực tiếp (Hoàn thành - Chương 123 Góc Nhìn Chính / Chương 117 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
