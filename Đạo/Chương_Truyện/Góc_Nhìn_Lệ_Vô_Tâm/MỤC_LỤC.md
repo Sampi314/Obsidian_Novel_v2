@@ -126,3 +126,4 @@
 - [Chương 124: Luyện Hóa Băng Huyết](Chương_00124_Luyện_Hóa_Băng_Huyết.md)
 - [Chương 125: Cố Kết Kim Đan](Chương_00125_Cố_Kết_Kim_Đan.md)
 - [Chương 126: Ngạo Nghễ Quần Hùng](Chương_00126_Ngạo_Nghễ_Quần_Hùng.md)
+- [Chương 127: Cơn Ác Mộng Trở Về](Chương_00127_Cơn_Ác_Mộng_Trở_Về.md)

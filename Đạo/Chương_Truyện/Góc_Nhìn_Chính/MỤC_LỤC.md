@@ -132,4 +132,5 @@
 - [Chương 130: Băng Huyết Tôn Giả](Chương_00130_Băng_Huyết_Tôn_Giả.md)
 - [Chương 131: Trận Chiến Đỉnh Cao](Chương_00131_Trận_Chiến_Đỉnh_Cao.md)
 - [Chương 132: Uy Áp Kim Đan](Chương_00132_Uy_Áp_Kim_Đan.md)
+- [Chương 133: Ánh Sáng Xuyên Bão Tuyết](Chương_00133_Ánh_Sáng_Xuyên_Bão_Tuyết.md)
 - [CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)](Chương_Mẫu_Huyền_Băng.md)

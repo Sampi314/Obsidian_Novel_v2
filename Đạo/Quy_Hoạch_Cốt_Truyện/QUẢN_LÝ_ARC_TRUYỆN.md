@@ -191,6 +191,9 @@
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương tiến vào vòng ngoài Băng Ngục Thành, phát hiện bãi chiến trường hoang tàn do Lệ Vô Tâm để lại và nhận thức rõ mức độ nguy hiểm của Hỗn Độn Băng Ma (Hoàn thành - Chương 129 Góc Nhìn Chính). Cùng lúc đó, Lệ Vô Tâm tiến xuống các tầng sâu hơn, tàn sát một trong Tứ Đại Ác Nhân để cướp đoạt tu vi chuẩn bị kết Kim Đan tà ác (Hoàn thành - Chương 123 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương tiến xuống tầng thứ hai, phát hiện Lệ Vô Tâm đang kết Kim Đan bằng cách hấp thu Băng Huyết Tôn Giả. Trận chiến bùng nổ khi nhóm Tĩnh Sương dốc toàn lực ngăn cản (Hoàn thành - Chương 131 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Lệ Vô Tâm mượn áp lực sinh tử từ đòn vây công của nhóm Tĩnh Sương để ép viên nội đan dở dang dung hợp với ma khí và hàn khí. Cuối cùng, một viên Kim Đan tà ác hai màu lam-huyết cũng thành hình, uy áp Kim Đan giáng xuống Băng Ngục Thành (Hoàn thành - Chương 125 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Dưới uy áp Kim Đan, nhóm Tĩnh Sương bị áp đảo hoàn toàn. Lệ Vô Tâm vờn giỡn và chuẩn bị kết liễu, nhưng bị thần niệm của Cung Chủ Lý Tuyết Ưng từ Băng Tuyết Lệnh cản bước. Hắn đành để vuột mất con mồi và rời khỏi Bắc Băng (Hoàn thành - Chương 132 Góc Nhìn Chính / Chương 126 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Nhóm Tĩnh Sương được hư ảnh Lý Tuyết Ưng cứu thoát và hội ngộ cùng Cung Chủ thật ở mặt đất. Họ được dặn dò phải cấp tốc mang tin tức Lệ Vô Tâm kết Kim Đan báo cho Cửu Hoa Kiếm Tông (Hoàn thành - Chương 133 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Lệ Vô Tâm mang theo sức mạnh Kim Đan và Cực Hàn Ma Châu trở về căn cứ Huyết Sát Minh ở Huyết Uyên Đảo. Hắn thẳng tay tiêu diệt Huyết Tước, thu phục thuộc hạ để chứng minh sự tàn bạo, chuẩn bị đối đầu trực tiếp Huyết Thần Tử (Hoàn thành - Chương 127 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

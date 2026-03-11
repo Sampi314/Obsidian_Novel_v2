@@ -100,7 +100,16 @@ def main() -> None:
     # Ghi ra file JS
     json_str = json.dumps(chapter_data, ensure_ascii=False, indent=2)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(f"window.chapterData = {json_str};\n")
+        f.write('const chapterData = (typeof window !== "undefined" && window.chapterData) ? window.chapterData : {};\n')
+        f.write(f'Object.assign(chapterData, {json_str});\n\n')
+        f.write('chapterData.Góc_Nhìn_Chính.push({\n')
+        f.write('  filename: "Chương_Mẫu_Huyền_Băng.md",\n')
+        f.write('  title: "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"\n')
+        f.write('});\n\n')
+        f.write("if (typeof window !== 'undefined') {\n")
+        f.write("  window.chapterData = chapterData;\n")
+        f.write("}\n")
+        f.write("export { chapterData };\n")
 
     print(f"\nTổng cộng: {total} chương ({len(chapter_data)} POV)")
     print(f"Đã ghi: {OUTPUT_FILE}")

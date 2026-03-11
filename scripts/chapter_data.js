@@ -524,6 +524,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00132_Uy_Áp_Kim_Đan.md",
       "title": "Chương 132: Uy Áp Kim Đan"
+    },
+    {
+      "filename": "Chương_00133_Ánh_Sáng_Xuyên_Bão_Tuyết.md",
+      "title": "Chương 133: Ánh Sáng Xuyên Bão Tuyết"
     }
   ],
   "Góc_Nhìn_Diệp_Tĩnh_Sương": [
@@ -1082,6 +1086,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00126_Ngạo_Nghễ_Quần_Hùng.md",
       "title": "Chương 126: Ngạo Nghễ Quần Hùng"
+    },
+    {
+      "filename": "Chương_00127_Cơn_Ác_Mộng_Trở_Về.md",
+      "title": "Chương 127: Cơn Ác Mộng Trở Về"
     }
   ]
 });
