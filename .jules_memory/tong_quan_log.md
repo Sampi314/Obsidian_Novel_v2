@@ -1350,3 +1350,11 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Viết tiếp diễn biến hành trình đến Đông Hoang, các cuộc đụng độ đầu tiên với Yêu Tộc hoặc các thế lực bản địa.
+
+## Phiên làm việc: Viết Chương 130 (Góc Nhìn Chính) & Chương 124 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 130:** Băng Huyết Tôn Giả
+- **Chương 124:** Luyện Hóa Băng Huyết
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Nhóm Tĩnh Sương tiến sâu vào Băng Ngục Thành (Tầng 2), phát hiện cảnh tượng thảm khốc và Băng Huyết Tôn Giả đang bị Lệ Vô Tâm luyện hóa. Lệ Vô Tâm đang trên đà kết Kim Đan tà ác, hấp thu tinh huyết của Tôn Giả và chuẩn bị tiến xuống các tầng sâu hơn để cắn nuốt ba "Ác Nhân" còn lại.
+- **Tình trạng:** Hoàn thành. Tiếp tục Arc 6 tại Bắc Băng.

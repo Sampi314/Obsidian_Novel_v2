@@ -211,11 +211,6 @@
     - [Chương 122: Bàn Tiệc Đẫm Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00122_Bàn_Tiệc_Đẫm_Máu.md)
     - [Chương 123: Kẻ Săn Mồi Vực Sâu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00123_Kẻ_Săn_Mồi_Vực_Sâu.md)
     - [Chương 124: Luyện Hóa Băng Huyết](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00124_Luyện_Hóa_Băng_Huyết.md)
-    - [Chương 125: Cố Kết Kim Đan](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00125_Cố_Kết_Kim_Đan.md)
-    - [Chương 126: Ngạo Nghễ Quần Hùng](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00126_Ngạo_Nghễ_Quần_Hùng.md)
-    - [Chương 127: Cơn Ác Mộng Trở Về](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00127_Cơn_Ác_Mộng_Trở_Về.md)
-    - [Chương 128: Quyền Lực Mới](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00128_Quyền_Lực_Mới.md)
-    - [Chương 129: Nước Cờ Đầu Tiên](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00129_Nước_Cờ_Đầu_Tiên.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -280,11 +275,6 @@
     - [Chương 128: Hành Trình Băng Ngục](Chương_Truyện/Góc_Nhìn_Chính/Chương_00128_Hành_Trình_Băng_Ngục.md)
     - [Chương 129: Tử Địa Hoang Tàn](Chương_Truyện/Góc_Nhìn_Chính/Chương_00129_Tử_Địa_Hoang_Tàn.md)
     - [Chương 130: Băng Huyết Tôn Giả](Chương_Truyện/Góc_Nhìn_Chính/Chương_00130_Băng_Huyết_Tôn_Giả.md)
-    - [Chương 131: Trận Chiến Đỉnh Cao](Chương_Truyện/Góc_Nhìn_Chính/Chương_00131_Trận_Chiến_Đỉnh_Cao.md)
-    - [Chương 132: Uy Áp Kim Đan](Chương_Truyện/Góc_Nhìn_Chính/Chương_00132_Uy_Áp_Kim_Đan.md)
-    - [Chương 133: Ánh Sáng Xuyên Bão Tuyết](Chương_Truyện/Góc_Nhìn_Chính/Chương_00133_Ánh_Sáng_Xuyên_Bão_Tuyết.md)
-    - [Chương 134: Hội Nghị Khẩn Cấp](Chương_Truyện/Góc_Nhìn_Chính/Chương_00134_Hội_Nghị_Khẩn_Cấp.md)
-    - [Chương 135: Hội Nghị Thượng Đỉnh](Chương_Truyện/Góc_Nhìn_Chính/Chương_00135_Hội_Nghị_Thượng_Đỉnh.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
@@ -322,7 +312,7 @@
     - [Băng Lang Bộ Lạc](Thế_Lực/Băng_Lang_Bộ_Lạc.md)
     - [Cực Quang Thần Điện](Thế_Lực/Cực_Quang_Thần_Điện.md)
     - [Sương Ma Uyển](Thế_Lực/Sương_Ma_Uyển.md)
-    - [Băng Ngục Thành](Thế_Lực/Băng_Ngục_Thành.md): Lồng giam dưới lòng đất của Huyền Băng Cung, hiện đang bị Lệ Vô Tâm tàn sát (Chương 128-130).
+    - [Băng Ngục Thành](Thế_Lực/Băng_Ngục_Thành.md)
     - [Hàn Kiếm Cốc](Thế_Lực/Hàn_Kiếm_Cốc.md)
     - [Tuyết Cự Nhân Đảo](Thế_Lực/Tuyết_Cự_Nhân_Đảo.md)
     - [Phiêu Miễu Băng Hải](Thế_Lực/Phiêu_Miễu_Băng_Hải.md)

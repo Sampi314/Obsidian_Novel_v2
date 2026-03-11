@@ -1,57 +1,59 @@
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
+<!-- NAVIGATION_END -->
 # Chương 124: Luyện Hóa Băng Huyết
 
-Tầng thứ hai của Băng Ngục Thành như một nấm mồ băng khổng lồ, nơi những tiếng kêu la thảm thiết từng vang vọng hàng trăm năm nay chỉ còn là dư âm của một quá khứ tàn ác. Giờ đây, thứ ngự trị ở đây chỉ là một sự tĩnh mịch ngột ngạt, bị phá vỡ bởi những âm thanh "rắc... rắc" lạnh buốt xương tủy.
+**[Nhân vật chính:]** Lệ Vô Tâm
+**[Bối cảnh:]** Băng Ngục Thành (Tầng Hai) - Không gian bị nguyền rủa của ma khí và cực hàn.
+**[Thời gian:]** Diễn biến song song và tiếp nối ngay sau Chương 123 (Góc Nhìn Lệ Vô Tâm).
 
-Đó là tiếng băng vụn rơi xuống từ những bức tường đỏ quạch máu, và cũng là tiếng xương cốt vỡ vụn dưới chân Lệ Vô Tâm.
+---
 
-"Cực Hàn Ma Châu..." Lệ Vô Tâm khẽ mỉm cười, giơ bàn tay trái lên. Những ngón tay thon dài trắng bệch giờ đây được bao phủ bởi những mạch máu đen ngòm, xen lẫn hàn khí lam nhạt. Hắn có thể cảm nhận rõ ràng nguồn sức mạnh cuồn cuộn, hung bạo, và lạnh lẽo tột độ đang lưu chuyển trong kỳ kinh bát mạch.
+Lệ Vô Tâm, lúc này đã hoàn toàn hóa thành Hỗn Độn Băng Ma, đang đứng sừng sững trên đài cao bằng băng lạnh của tầng thứ hai Băng Ngục Thành. Cực Hàn Ma Châu đang cuộn trào trong cơ thể, hòa quyện với Huyết Thần Độc và Vạn Độc Thân, tạo ra một cảm giác nóng rát tột cùng lại xen lẫn cái lạnh buốt xương.
 
-Việc dung hợp Cực Hàn Ma Châu không hề dễ dàng, nhưng Thiên Mệnh Hắc Liên lại là chất xúc tác hoàn hảo, giúp hắn cân bằng được cả huyết ma và băng ma. Hỗn Độn Băng Ma thể đã dần thành hình, nhưng để thực sự đột phá Kim Đan Kỳ, hắn cần một nguồn năng lượng lớn hơn, thuần khiết hơn.
+"Thật là một nguồn sức mạnh tuyệt hảo," Lệ Vô Tâm khẽ rên lên, nhưng không phải vì đau đớn mà vì thỏa mãn tột độ.
 
-Và không nơi nào ở Cố Nguyên Giới có sẵn những 'kho đan dược' sống tốt hơn Băng Ngục Thành.
+Xung quanh hắn là vô số những bộ xương khô khốc, những cái xác từng là các tù nhân khét tiếng ở tầng ngoài cùng. Dù tu vi của chúng thấp, nhưng số lượng đủ nhiều để tạo ra một lượng Huyết Tinh Oán Linh giúp ổn định lại cơ thể hắn sau vụ nổ ở Tuyệt Băng Uyên.
 
-"Tứ Đại Ác Nhân..." Đôi mắt Lệ Vô Tâm khẽ híp lại, một tia sáng tàn nhẫn lóe lên. Hắn thả bước, mỗi bước chân lại kéo theo một luồng Huyết Sương đông cứng mặt đất. Hắn đang hướng tới khu vực sâu nhất của tầng thứ ba, nơi giam giữ con mồi hoàn hảo nhất: Băng Huyết Tôn Giả.
+Giờ đây, hắn đã tiến sâu hơn. Ở tầng này, những kẻ bị giam giữ đều là những hung thần ác sát đã chạm đến cảnh giới Kim Đan, hoặc chí ít cũng là Trúc Cơ Viên Mãn đỉnh phong.
 
-Lão quái này từng là nỗi khiếp sợ của cả Bắc Băng hàng trăm năm trước. Băng Huyết Ma Công của lão không chỉ hút máu đồng loại mà còn đóng băng cả hồn phách đối thủ. Dù bị giam giữ đã lâu, tu vi của lão chắc chắn vẫn ở mức nửa bước Kim Đan, nguồn huyết khí và hàn khí trong cơ thể lão chính là thứ Lệ Vô Tâm cần.
+Băng Huyết Tôn Giả lơ lửng trên đầu hắn, một ông già từng khiến cả Bắc Băng khiếp sợ bằng Huyết Băng Quyết, nay chỉ còn là một món đồ chơi trong tay hắn. Lão ta gào thét, vùng vẫy trong vô vọng, bởi khí tức từ Hỗn Độn Băng Ma đang bóp nghẹt mọi kinh mạch của lão.
 
-Bước qua những hành lang phủ đầy xương trắng của các tội nhân cấp thấp đã bị hắn tàn sát trước đó, Lệ Vô Tâm cuối cùng cũng đến một quảng trường ngầm khổng lồ.
+Lệ Vô Tâm giơ một tay lên, móng tay sắc nhọn như dao cạo, khẽ điểm một cái.
 
-Ở trung tâm, một thân ảnh khô gầy, tóc bạc phơ rối bù, bị xiềng bằng bốn sợi xích Băng Huyền Thiết khổng lồ, đóng chặt vào một cột trụ chạm khắc phù văn cấm chế. Dù tiều tụy, nhưng khí tức tỏa ra từ lão vẫn tà ác đến gai người.
+"Ngươi... ngươi là cái thứ quái thai gì?" Băng Huyết Tôn Giả phun ra một búng máu đen đặc, hai mắt trợn trừng vì không thể tin nổi sức mạnh đang áp đảo mình. "Ngươi không phải là người!"
 
-Băng Huyết Tôn Giả từ từ ngẩng đầu, đôi mắt đỏ ngầu vẩn đục nhìn chằm chằm kẻ vừa bước vào.
+"Người?" Lệ Vô Tâm cười lớn, một nụ cười của quỷ dữ thực sự. "Một kẻ từng đồ sát cả thành trì như ngươi mà lại nói về đạo lý làm người sao? Thật nực cười."
 
-"Hậu sinh tiểu bối... Dám xông vào nơi này? Ngươi tỏa ra mùi vị rất quen thuộc... Mùi của máu và băng..." Lão khàn giọng cười sằng sặc. "Lại đây, để lão phu mượn chút huyết nhục của ngươi sưởi ấm!"
+"Ta là Lệ Vô Tâm, Kẻ Săn Mồi Vực Sâu. Ngươi nên cảm thấy vinh hạnh vì cái mạng quèn của ngươi sẽ trở thành một phần của thứ sức mạnh sẽ thống trị thế giới này."
 
-"Mượn?" Lệ Vô Tâm khẽ cười khẩy, tà áo huyết bào bay phần phật dù trong không gian kín gió. "Bản tọa không có thói quen cho mượn đồ. Ngược lại, bản tọa đến để lấy."
+Hắn siết chặt bàn tay phải. Ma khí từ Cực Hàn Ma Châu và Huyết Độc hòa quyện thành những sợi chỉ đen đỏ, găm thẳng vào mọi ngõ ngách trong cơ thể Băng Huyết Tôn Giả. Những sợi chỉ này như những con đỉa khổng lồ, điên cuồng hút sạch tinh huyết, linh lực và cả bản nguyên linh hồn của lão.
 
-Vụt!
+Băng Huyết Tôn Giả kêu thét thảm thiết, nhưng âm thanh nhanh chóng bị tắc nghẽn. Cơ thể lão nhăn nheo, khô quắt lại với tốc độ chóng mặt. Mọi thứ của lão bị cô đọng lại thành một quả cầu nhỏ xíu màu đỏ sẫm pha lẫn ánh sáng xanh lam nhạt - một tinh hoa tà ác thuần túy.
 
-Không nói thêm nửa lời, Lệ Vô Tâm vung tay. Hàng chục sợi Huyết Đằng biến dị, mang theo hàn khí buốt giá của Cực Hàn Ma Châu, từ dưới lớp băng đâm thẳng lên, lao về phía Băng Huyết Tôn Giả.
+Lệ Vô Tâm há miệng, nuốt chửng quả cầu đó.
 
-"Làm càn!"
+"Bùm!"
 
-Băng Huyết Tôn Giả gầm lên, sợi xích rung bần bật. Tuy bị cấm chế giam cầm, nhưng lão vẫn là một cường giả nửa bước Kim Đan. Lão vung cánh tay còn lại một chút tự do, một đạo huyết nhận ngưng kết từ hàn băng chém ngang, dễ dàng chặt đứt đám Huyết Đằng.
+Một tiếng động vang lên như sấm nổ bên trong đan điền của hắn. Tinh hoa của Băng Huyết Tôn Giả va chạm dữ dội với Huyết Thần Tử và Cực Hàn Ma Châu. Hắn cảm nhận rõ rệt một cơn đau xé rách kinh mạch, nhưng đó là một cơn đau ngọt ngào của sự thăng tiến. Bình cảnh Trúc Cơ Viên Mãn bị xé rách, một luồng sức mạnh mới, nguyên thủy và đáng sợ hơn bắt đầu thành hình.
 
-Tuy nhiên, nụ cười của lão chưa kịp nở thì đã tắt lịm. Những đoạn Huyết Đằng bị đứt không rơi xuống đất, mà hóa thành những đám sương máu màu đen tản ra, bao trùm lấy lão.
+Hắn đang chuẩn bị kết Kim Đan - một viên Hỗn Độn Đan tà ác, tập hợp oán khí, ma khí và kịch độc.
 
-"Độc? Ngươi dùng kịch độc pha với Cực Hàn Chi Khí?" Băng Huyết Tôn Giả kinh hãi nhận ra lớp chân khí hộ thể của mình đang bị ăn mòn nhanh chóng. Huyết Thần Độc, nay được gia trì bởi Cực Hàn Ma Châu, đã vượt xa những gì lão có thể tưởng tượng.
+Bất chợt, hắn khẽ nhướng mày. Đôi tai thính nhạy của Kẻ Săn Mồi bắt được tiếng bước chân và tiếng kiếm xé gió từ trên vách đá vọng xuống.
 
-"Khá khen cho nhãn lực của Băng Huyết Tôn Giả." Lệ Vô Tâm bước tới, giọng nói đầy ma mị. "Nhưng thời gian của ngươi đã hết."
+"Cuối cùng cũng tới rồi sao, Hàn Mai Kiếm?" Hắn cười khẩy, liếc nhìn về phía hành lang tối tăm. "Đám nhãi nhép."
 
-Hắn đột ngột điểm chỉ, một dấu ấn hoa sen đen nhánh hiện lên giữa không trung, ép mạnh xuống đỉnh đầu Băng Huyết Tôn Giả. Hỗn Độn Băng Ma - Trấn Hồn Ấn!
+Ngay lúc đó, một đạo kiếm khí lạnh lẽo như sương đêm xé rách không gian chém thẳng tới. Hắn chẳng thèm di chuyển, chỉ hất tay tạo nên một bức tường băng huyết, cản đứng đòn đánh. Mặc dù bức tường băng xuất hiện vài vết nứt, nhưng nó chứng minh được sự kiên cố đáng kinh ngạc của Hỗn Độn Băng Ma.
 
-Lão quái thét lên thảm thiết, cảm giác linh hồn bị đóng băng, cơ thể cứng đờ. Cấm chế của Huyền Băng Cung vốn đã làm lão suy yếu nay càng khiến lão không thể kháng cự.
+Hắn nhìn Diệp Tĩnh Sương, Lâm Phong và Sở Lăng Sương xuất hiện với vẻ mặt kinh hãi tột độ khi chứng kiến hắn nuốt lấy Băng Huyết Tôn Giả.
 
-Lệ Vô Tâm không chút thương xót, năm ngón tay xòe ra, sắc nhọn như móng vuốt, đâm thẳng vào đan điền của lão. Tiếng thịt xé rách vang lên ghê rợn. Hắn lôi ra một viên nội đan dở dang, một nửa đỏ rực mùi máu, một nửa xanh lam hàn khí.
+"Đến muộn rồi, cố nhân," hắn nói, chất giọng khàn đặc đầy ngạo nghễ. Năng lượng xung quanh hắn cuộn trào như bão táp. "Đừng vội... Vẫn còn ba món ăn chính đang chờ ta ở những tầng dưới. Khi ta trở về, các ngươi sẽ là những người đầu tiên được chiêm ngưỡng sức mạnh của Hỗn Độn Băng Ma!"
 
-"Quả nhiên là đại bổ!"
+Ba tên ác nhân còn lại của "Tứ Đại Ác Nhân" đang bị giam cầm ở tầng ba và tầng bốn. Chúng là những ngọn đuốc sức mạnh hoàn hảo để thắp sáng viên Hỗn Độn Đan của hắn. Hắn không định lãng phí thời gian quý báu để đôi co với nhóm người này.
 
-Ngay khoảnh khắc hắn lôi viên nội đan ra, một âm thanh bạo liệt vang lên từ phía lối vào. Đạo kiếm khí màu lam sắc bén như xé toạc không gian, nhắm thẳng lưng hắn mà chém tới. Diệp Tĩnh Sương đã đến.
+Lệ Vô Tâm cười lớn một tiếng điên dại, không thèm để ý đến phản ứng của đám người kia. Cơ thể hắn lập tức hóa thành một luồng sương đen đỏ xen lẫn cực hàn, như một bóng ma lướt thẳng xuống cái hố sâu hun hút dẫn xuống tầng thứ ba.
 
-Lệ Vô Tâm không chút hoang mang, cơ thể hắn tự động ngưng tụ một lớp Băng Huyết Giáp, đỡ lấy một đòn trí mạng. Hắn quay đầu lại, đôi mắt đỏ rực ánh lên vẻ tàn nhẫn và cuồng ngạo, khóe môi vẽ lên một nụ cười quỷ dị.
-
-Hắn ném viên đan vào miệng, trực tiếp cắn nát. Dòng năng lượng cuồng bạo xông thẳng vào kinh mạch.
-
-"Hương vị tuyệt vời... Băng Huyết Ma Công của lão cẩu này quả thực rất hợp với Cực Hàn Ma Châu." Lệ Vô Tâm liếm môi, hưởng thụ cảm giác sức mạnh dâng trào. "Và giờ, đến lượt các ngươi trở thành đá tảng kê chân cho Kim Đan Đại Đạo của ta!"
-
-Nhìn Diệp Tĩnh Sương, Lâm Phong và Sở Lăng Sương đã vào thế trận, Lệ Vô Tâm xòe Huyết Độc Phiến. Trận chiến sinh tử tiếp theo sẽ là đòn bẩy cuối cùng để hắn kết thành Hỗn Độn Ma Đan.
+Hắn đang khát khao sức mạnh. Khát khao hơn bất cứ thứ gì. Và Băng Ngục Thành chính là lò luyện tuyệt vời nhất mà Thiên Đạo (hay Ma Đạo) đã ban tặng cho hắn.
