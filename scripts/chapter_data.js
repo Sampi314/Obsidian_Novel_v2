@@ -499,6 +499,10 @@ window.chapterData = {
       "title": "Chương 121: Sương Giá Nghênh Đón"
     },
     {
+      "filename": "Chương_00122_Hội_Kiến_Cung_Chủ.md",
+      "title": "Chương 122: Hội Kiến Cung Chủ"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -1005,6 +1009,10 @@ window.chapterData = {
     {
       "filename": "Chương_00115_Bước_Chân_Của_Quỷ.md",
       "title": "Chương 115: Bước Chân Của Quỷ"
+    },
+    {
+      "filename": "Chương_00116_Xâm_Nhập_Băng_Uyên.md",
+      "title": "Chương 116: Xâm Nhập Băng Uyên"
     }
   ]
 };

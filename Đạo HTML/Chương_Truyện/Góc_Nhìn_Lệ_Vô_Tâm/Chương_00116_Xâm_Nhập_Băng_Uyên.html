@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00116 Xâm Nhập Băng Uyên</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00116_Xâm_Nhập_Băng_Uyên.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
+<!-- NAVIGATION_END -->
+<h1>Chương 116: Xâm Nhập Băng Uyên</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Nhân vật chính:</strong> <a href="../../Nhân_Vật/Lệ_Vô_Tâm.html">Lệ Vô Tâm</a></p>
+<p><strong>Địa điểm:</strong> <a href="../../Thế_Lực/Huyền_Băng_Cung.html">Huyền Băng Cung</a></p>
+<br>
+<p>---</p>
+<br>
+<p>Cái lạnh cắt da cắt thịt của Bắc Băng không còn có thể ảnh hưởng đến Lệ Vô Tâm. Cơ thể hắn, sau khi dung hợp với Thiên Mệnh Hắc Liên, giờ đây đã là một cái vỏ rỗng được lấp đầy bởi ma khí nguyên thủy nhất. Mỗi bước hắn đi trên nền tuyết dày đều để lại những dấu chân đen ngòm, làm tan chảy lớp băng trắng xóa xung quanh.</p>
+<br>
+<p>Đứng trên một vách đá nhìn xuống, Lệ Vô Tâm thu vào tầm mắt toàn cảnh Huyền Băng Cung. Một quần thể kiến trúc nguy nga, lấp lánh như ngọc, đang được bao bọc bởi một lớp lưới ánh sáng khổng lồ của Cửu Thiên Hàn Băng Trận. Những cột sáng đan xen nhau, tỏa ra hàn khí cường đại, đủ sức xé nát bất kỳ kẻ ngoại đạo nào dám đến gần.</p>
+<br>
+<p>Tuy nhiên, với đôi mắt ma quỷ của Lệ Vô Tâm, hắn có thể dễ dàng nhìn thấy những luồng hắc khí đang len lỏi, ăn mòn lớp phòng ngự từ sâu dưới lòng đất. Đó chính là ma khí rò rỉ từ Cực Hàn Ma Châu.</p>
+<br>
+<p>"Trận pháp quả nhiên uy lực." Hắn lẩm bẩm, một nụ cười khẩy hiện trên môi. "Nhưng một cái kén đẹp đẽ cũng không thể giấu được con sâu đang mục nát bên trong."</p>
+<br>
+<p>Theo mệnh lệnh từ Huyết Sát Minh, mục tiêu của hắn không phải là tiêu diệt Huyền Băng Cung, mà là cướp lấy Cực Hàn Ma Châu đang bị phong ấn tại Tuyệt Băng Uyên. Để làm được điều đó, hắn cần một sự đánh lạc hướng hoàn hảo.</p>
+<br>
+<p>Hắn vung tay, hắc khí từ lòng bàn tay túa ra như hàng trăm con mãng xà, lao vào bầy Băng Hùng ma hóa đang đứng lặng lẽ phía sau. Đôi mắt đỏ ngầu của bầy thú bỗng chốc rực sáng, cơ thể chúng gầm gừ, bành trướng kích cỡ dưới sức mạnh bạo ngược.</p>
+<br>
+<p>"Đi đi." Lệ Vô Tâm gằn giọng, âm thanh khàn đặc như từ cõi âm. "Tiêu diệt bất cứ thứ gì cản đường các ngươi."</p>
+<br>
+<p>Như một cơn lũ đen đặc, bầy Băng Hùng điên cuồng lao xuống sườn núi, hướng thẳng về phía cổng chính của Huyền Băng Cung. Tiếng gầm rú vang trời, làm rung chuyển cả những tảng băng ngàn năm. Những đệ tử ngoại môn đang tuần tra kinh hãi, vội vã gióng lên hồi chuông báo động. Hàng loạt kiếm khí băng giá lập tức bắn ra, tạo nên một trận chiến hỗn loạn ở vòng ngoài.</p>
+<br>
+<p>Lợi dụng sự chú ý của Huyền Băng Cung đang dồn hết vào bầy thú ma hóa, Lệ Vô Tâm hóa thân thành một làn khói đen, trượt nhanh theo một khe nứt trên vách núi băng hẻo lánh mà hắn đã nhắm sẵn. Đây là điểm mù của Cửu Thiên Hàn Băng Trận, nơi ma khí từ Cực Hàn Ma Châu đang rò rỉ mạnh nhất.</p>
+<br>
+<p>Lớp lưới phòng ngự ở đây mỏng manh và chập chờn. Hắn thu mình lại, vận dụng tối đa sức mạnh của Thiên Mệnh Hắc Liên, dùng chính ma khí trong người để đồng hóa với luồng hắc khí đang bốc lên. Quá trình này không hề dễ chịu, cảm giác như hàng vạn mũi kim băng xuyên thấu cơ thể, nhưng hắn cắn răng chịu đựng, từ từ lách qua khe hở của trận pháp.</p>
+<br>
+<p>Một tiếng rắc khẽ vang lên.</p>
+<br>
+<p>Lệ Vô Tâm mở bừng mắt. Hắn đã lọt vào bên trong. Xung quanh hắn không còn là những bông tuyết trắng muốt, mà là một khoảng không tăm tối, tĩnh mịch đến đáng sợ. Một khe vực sâu hun hút, rộng lớn vô bờ bến hiện ra trước mắt. Đó chính là Tuyệt Băng Uyên.</p>
+<br>
+<p>Nhiệt độ ở đây thấp đến mức khiến cả không khí cũng dường như đông đặc. Khác với sự lạnh lẽo thuần khiết của Huyền Băng Cung, cái lạnh ở đây mang theo sự tuyệt vọng, thù hận và ma tính mạnh mẽ. Nó đang cố gắng xâm nhập vào tâm trí Lệ Vô Tâm, nhưng hắn chỉ cười nhạt.</p>
+<br>
+<p>"Ngươi nghĩ có thể nuốt chửng ta sao?" Hắn giơ bàn tay đầy hoa văn ma quỷ lên, hấp thụ luồng khí đó một cách thèm khát. "Đây mới là sức mạnh mà ta cần."</p>
+<br>
+<p>Từ trong bóng tối, những hình thù vặn vẹo bắt đầu xuất hiện. Không phải là những sinh vật ma hóa thông thường, mà là những tàn hồn cổ đại, những oán linh bị phong ấn cùng với Cực Hàn Ma Châu, nay đã thức tỉnh do ma khí rò rỉ. Chúng gào thét, lao về phía Lệ Vô Tâm.</p>
+<br>
+<p>"Lũ tép riu." Hắn khinh bỉ.</p>
+<br>
+<p>Từ lòng bàn tay hắn, những sợi tơ máu trộn lẫn hắc khí bắn ra, xuyên thủng từng oán linh một, hút cạn tàn dư linh hồn của chúng để bồi đắp cho sức mạnh của bản thân. Mỗi bước hắn tiến xuống Tuyệt Băng Uyên là một cuộc thảm sát, một sự hấp thụ điên cuồng.</p>
+<br>
+<p>Càng đi sâu, ma khí càng đậm đặc. Lệ Vô Tâm có thể cảm nhận được một thứ gì đó vô cùng cổ xưa, vô cùng mạnh mẽ đang đập nhịp nhàng dưới đáy vực. Một sức hút mãnh liệt, như vẫy gọi hắn đến nhận lấy thứ sức mạnh tối thượng.</p>
+<br>
+<p>"Cực Hàn Ma Châu..." Ánh mắt hắn lóe lên sự tham lam điên dại. "Ta đến đây."</p>
+<br>
+<p>---</p>
+<p><strong>Giao Điểm Cốt Truyện:</strong> Lệ Vô Tâm đã xâm nhập thành công vào Tuyệt Băng Uyên, bước qua các rào cản oán linh để tiếp cận Cực Hàn Ma Châu. Cùng lúc đó, nhóm Tĩnh Sương cũng nhận lệnh từ Cung Chủ Lý Tuyết Ưng tiến vào vực sâu này để sửa chữa phong ấn. Cả hai tuyến truyện chính thức hướng về một điểm đụng độ.</p>
+<br>
+<p><em>Hết chương 116.</em></p>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>
