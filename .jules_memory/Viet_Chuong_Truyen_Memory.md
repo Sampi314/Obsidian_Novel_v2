@@ -425,3 +425,9 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Khởi động Arc 5. Sau ba tháng, Diệp Tĩnh Sương tiến đến bình cảnh Trúc Cơ Hậu Kỳ, Lâm Phong củng cố Trúc Cơ Sơ Kỳ. Cả nhóm được cử đi Đông Hoang để triệt phá mạng lưới tình báo ngầm của Huyết Sát Minh. Tại Vô Tận Hải, Lệ Vô Tâm đột phá Trúc Cơ Hậu Kỳ, nhận "Huyết Sát Lệnh" từ Huyết Tước, được giao nhiệm vụ đi Đông Hoang để thống nhất tà đạo và tiêu diệt nhóm Diệp Tĩnh Sương.
 - **Tình trạng:** Hoàn thành.
+
+## Phế Tích Huyết Dạ - Quyết Chiến Huyết Tế Đài
+- **Tóm tắt:** Nhóm Tĩnh Sương, Lâm Phong cùng Lục Mãng Vương và Huyết Hổ Vương đột kích Huyết Tế Đài. Hai vị Yêu Vương dùng sức mạnh áp đảo đánh phá khiên máu, Diệp Tĩnh Sương dùng Hàn Sương Kiếm Quyết phá vỡ mắt trận Tụ Linh Trận.
+- **Lệ Vô Tâm:** Đang trong giai đoạn then chốt kết Kim Đan, bị đánh lén và phá Tụ Linh Trận. Huyết Đan mất nguồn cung cấp, nứt vỡ phản phệ, tàn phá kinh mạch và cơ thể.
+- **Kết quả:** Kim Đan thất bại, cơ thể trọng thương. Dùng cấm thuật Huyết Độn tẩu thoát vào hư không, thề sẽ quay lại trả thù.
+- **Chương liên quan:** Góc Nhìn Chính Chương 118, Góc Nhìn Lệ Vô Tâm Chương 112.

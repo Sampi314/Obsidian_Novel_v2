@@ -198,6 +198,7 @@
     - [Chương 109: Bóng Tối Trỗi Dậy](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00109_Bóng_Tối_Trỗi_Dậy.md)
     - [Chương 110: Phế Tích Huyết Dạ](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00110_Phế_Tích_Huyết_Dạ.md)
     - [Chương 111: Huyết Tế Đài](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00111_Huyết_Tế_Đài.md)
+    - [Chương 112: Huyết Đan Phản Phệ](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00112_Huyết_Đan_Phản_Phệ.md)
 
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
@@ -250,6 +251,7 @@
     - [Chương 115: Đối Thoại Yêu Vương](Chương_Truyện/Góc_Nhìn_Chính/Chương_00115_Đối_Thoại_Yêu_Vương.md)
     - [Chương 116: Hang Động Mãng Tộc](Chương_Truyện/Góc_Nhìn_Chính/Chương_00116_Hang_Động_Mãng_Tộc.md)
     - [Chương 117: Tiến Vào Phế Tích](Chương_Truyện/Góc_Nhìn_Chính/Chương_00117_Tiến_Vào_Phế_Tích.md)
+    - [Chương 118: Quyết Chiến Huyết Tế Đài](Chương_Truyện/Góc_Nhìn_Chính/Chương_00118_Quyết_Chiến_Huyết_Tế_Đài.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
