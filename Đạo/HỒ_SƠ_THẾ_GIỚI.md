@@ -215,6 +215,7 @@
     - [Chương 126: Ngạo Nghễ Quần Hùng](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00126_Ngạo_Nghễ_Quần_Hùng.md)
     - [Chương 127: Cơn Ác Mộng Trở Về](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00127_Cơn_Ác_Mộng_Trở_Về.md)
     - [Chương 128: Quyền Lực Mới](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00128_Quyền_Lực_Mới.md)
+    - [Chương 129: Nước Cờ Đầu Tiên](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00129_Nước_Cờ_Đầu_Tiên.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -283,6 +284,7 @@
     - [Chương 132: Uy Áp Kim Đan](Chương_Truyện/Góc_Nhìn_Chính/Chương_00132_Uy_Áp_Kim_Đan.md)
     - [Chương 133: Ánh Sáng Xuyên Bão Tuyết](Chương_Truyện/Góc_Nhìn_Chính/Chương_00133_Ánh_Sáng_Xuyên_Bão_Tuyết.md)
     - [Chương 134: Hội Nghị Khẩn Cấp](Chương_Truyện/Góc_Nhìn_Chính/Chương_00134_Hội_Nghị_Khẩn_Cấp.md)
+    - [Chương 135: Hội Nghị Thượng Đỉnh](Chương_Truyện/Góc_Nhìn_Chính/Chương_00135_Hội_Nghị_Thượng_Đỉnh.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
