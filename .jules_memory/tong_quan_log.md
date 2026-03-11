@@ -1222,3 +1222,24 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Bắt đầu chuyển hướng sang Arc 6. Cần xây dựng tiền đề, mục tiêu mới cho nhóm Diệp Tĩnh Sương và theo dõi sự lột xác của Lệ Vô Tâm.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Khởi đầu Arc 6)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết diễn biến mở đầu cho Arc 6, thiết lập bối cảnh mới tại Bắc Băng cho cả nhóm Tĩnh Sương và Lệ Vô Tâm.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00120_Hành_Trình_Mới.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00114_Ma_Tâm_Trỗi_Dậy.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện khởi đầu Arc 6, mục tiêu là Bắc Băng và "Cực Hàn Ma Châu".
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Arc 6 chính thức bắt đầu. Nhóm Tĩnh Sương rời Đông Hoang về Cửu Hoa Kiếm Tông để báo cáo và chuẩn bị lên đường đi Bắc Băng. Lệ Vô Tâm lột xác thành công nhờ Thiên Mệnh Hắc Liên, nhận lệnh từ sứ giả Huyết Sát Minh tới Bắc Băng thu thập Cực Hàn Ma Châu. Hai thế lực sẽ sớm tái ngộ.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Bồi đắp hồ sơ Bắc Băng, tạo chi tiết về Cực Hàn Ma Châu và Huyền Băng Cung để phục vụ cốt truyện.
+- Viết tiếp hành trình di chuyển và chuẩn bị cho trận chiến ở Bắc Băng.
