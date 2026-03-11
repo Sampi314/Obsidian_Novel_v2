@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00122 Hội Kiến Cung Chủ</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00122_Hội_Kiến_Cung_Chủ.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
+<!-- NAVIGATION_END -->
+<h1>Chương 122: Hội Kiến Cung Chủ</h1>
+<br>
+<p><strong>Tác giả:</strong> Tổng Quản (Jules)</p>
+<p><strong>Nhân vật chính:</strong> <a href="../../Nhân_Vật/Diệp_Tĩnh_Sương.html">Diệp Tĩnh Sương</a>, <a href="../../Nhân_Vật/Lâm_Phong.html">Lâm Phong</a></p>
+<p><strong>Địa điểm:</strong> <a href="../../Thế_Lực/Huyền_Băng_Cung.html">Huyền Băng Cung</a></p>
+<br>
+<p>---</p>
+<br>
+<p>Xuyên qua trận bão tuyết dữ dội, nhóm Diệp Tĩnh Sương cuối cùng cũng đặt chân đến đỉnh Tuyết Sơn ngàn năm, nơi tọa lạc của Huyền Băng Cung. Tông môn nguy nga tráng lệ được xây dựng hoàn toàn bằng băng ngọc trong suốt, tỏa ra ánh sáng huyền ảo dưới bầu trời Bắc Băng. Tuy nhiên, sự thanh bình thường thấy giờ đây đã bị thay thế bởi một bầu không khí căng thẳng tột độ.</p>
+<br>
+<p>Các đệ tử Huyền Băng Cung đang hối hả chạy ngược xuôi, tuần tra cẩn mật và gia cố các điểm yếu trên lớp phòng ngự. Cửu Thiên Hàn Băng Trận, trận pháp hộ sơn mạnh mẽ nhất của tông môn, đang vận hành ở mức tối đa. Những cột sáng băng giá bắn thẳng lên trời, đan xen thành một lớp lưới khổng lồ bao trùm toàn bộ ngọn núi, nhưng ở một vài góc nhỏ, người ta vẫn có thể thấy những vết nứt mờ nhạt do ma khí hắc ám từ bên dưới ăn mòn.</p>
+<br>
+<p>Sở Lăng Sương dẫn đầu, đưa Tĩnh Sương và Lâm Phong tiến thẳng vào Băng Hồn Điện - nơi đặt trụ cột của trận pháp. Vừa bước qua ngưỡng cửa, một luồng hàn khí thấu xương ngay lập tức ập tới, lạnh buốt đến mức khiến linh lực trong cơ thể Tĩnh Sương cũng phải khựng lại một nhịp.</p>
+<br>
+<p>Giữa đại điện rộng lớn, một người phụ nữ tuyệt mỹ với mái tóc bạch kim dài chấm gót đang nhắm nghiền mắt, mười ngón tay thon dài không ngừng gảy lên những sợi dây của một cây đàn cổ tản ra sương giá. Mỗi âm thanh vang lên đều mang theo sức mạnh của Cực Quang, dung nhập vào trận pháp để trấn áp thứ hắc khí đang trỗi dậy từ sâu dưới lòng đất.</p>
+<br>
+<p>Đó chính là Cung Chủ Huyền Băng Cung - Lý Tuyết Ưng.</p>
+<br>
+<p>Tiếng đàn đột ngột dừng lại một nhịp ngắn ngủi. Lý Tuyết Ưng khẽ mở đôi mắt màu tím thẫm, ánh nhìn lạnh lẽo lướt qua ba người vừa bước vào.</p>
+<br>
+<p>"Lăng Sương, con đã về." Giọng nói của nàng trong trẻo nhưng lạnh lẽo như băng vỡ. "Và mang theo khách từ Cửu Hoa Kiếm Tông?"</p>
+<br>
+<p>"Đệ tử bái kiến Sư Tôn." Sở Lăng Sương cung kính quỳ một gối. "Đây là Diệp Tĩnh Sương và Lâm Phong đạo hữu. Họ phụng mệnh Cửu Hoa Kiếm Tông đến điều tra về dị tượng tại Bắc Băng. Đệ tử đã gặp họ ở bìa rừng tuyết, khi họ đang bị Tuyết Quỷ ma hóa tấn công."</p>
+<br>
+<p>Lý Tuyết Ưng khẽ gật đầu, ánh mắt dừng lại ở thanh Hàn Mai Kiếm trên lưng Diệp Tĩnh Sương. "Kiếm ý mạnh mẽ, đạo tâm kiên định. Quả nhiên là danh bất hư truyền, Hàn Mai Kiếm."</p>
+<br>
+<p>"Cung Chủ quá khen." Diệp Tĩnh Sương chắp tay hành lễ. "Vãn bối phụng mệnh đến đây, trước là thăm hỏi, sau là muốn tìm hiểu ngọn ngành sự việc. Những sinh vật ma hóa ngoài kia... có phải là do Cực Hàn Ma Châu gây ra?"</p>
+<br>
+<p>Lý Tuyết Ưng thở dài, một âm thanh chất chứa biết bao nỗi mệt mỏi sau hàng ngàn năm trấn thủ. Nàng nhẹ nhàng đặt tay lên Băng Huyền Cầm. "Không sai. Phong ấn dưới Tuyệt Băng Uyên đang yếu đi từng ngày. Cực Hàn Ma Châu là một thứ ma vật thượng cổ, ma khí của nó không chỉ ăn mòn vạn vật mà còn có khả năng đánh thức những dục vọng đen tối nhất trong tâm hồn."</p>
+<br>
+<p>Lâm Phong nhíu mày tiến lên một bước. "Nếu chỉ là phong ấn yếu đi, với sức mạnh của Cung Chủ và Cửu Thiên Hàn Băng Trận, hẳn là có thể gia cố lại. Nhưng theo quan sát của ta, dường như có kẻ đang cố tình phá hoại từ bên ngoài?"</p>
+<br>
+<p>"Ngươi quan sát rất sắc bén." Lý Tuyết Ưng tán thưởng. "Đúng là có người đang nhúng tay vào. Hắc khí tỏa ra không chỉ do phong ấn tự nhiên suy yếu, mà còn có sự cộng hưởng từ một trận pháp tà ác được bày bố gần đây. Bọn chúng muốn lợi dụng ma khí rò rỉ để tạo ra một lỗ hổng, nhằm xâm nhập Tuyệt Băng Uyên."</p>
+<br>
+<p>"Là Huyết Sát Minh sao?" Diệp Tĩnh Sương nắm chặt chuôi kiếm.</p>
+<br>
+<p>"Ta e là vậy." Lý Tuyết Ưng gật đầu. "Chúng đang nhắm tới Cực Hàn Ma Châu. Nếu thứ ma vật đó rơi vào tay kẻ mang tà tâm, Bắc Băng, và có lẽ là toàn bộ Cố Nguyên Giới, sẽ chìm trong biển máu."</p>
+<br>
+<p>"Chúng ta không thể để điều đó xảy ra." Tĩnh Sương ánh mắt kiên định. "Cửu Hoa Kiếm Tông sẵn sàng hỗ trợ Huyền Băng Cung. Cung Chủ cần chúng ta làm gì?"</p>
+<br>
+<p>Lý Tuyết Ưng trầm ngâm một lát, rồi ánh mắt lóe lên một tia quyết đoán. "Ta cần các ngươi tiến vào Tuyệt Băng Uyên."</p>
+<br>
+<p>Sở Lăng Sương sững sờ. "Sư Tôn! Dưới đó ma khí dày đặc, lại có vô số quái vật biến dị. Quá nguy hiểm!"</p>
+<br>
+<p>"Đó là cách duy nhất." Lý Tuyết Ưng đáp, giọng không dung thứ sự phản bác. "Ta phải ở đây để duy trì Băng Hồn Ấn, không thể phân tâm. Các ngươi hãy xuống đó, tìm kiếm vết nứt của phong ấn, và dùng thứ này để vá nó lại."</p>
+<br>
+<p>Nàng vung tay, một viên ngọc màu trắng tỏa ra ánh sáng dịu nhẹ bay đến trước mặt Diệp Tĩnh Sương. "Đây là Hàn Ngọc Tủy, tinh hoa vạn năm của Tuyết Sơn. Nó có thể trung hòa ma khí trong một thời gian ngắn. Chỉ cần các ngươi đặt nó vào trung tâm phong ấn, ta sẽ có đủ thời gian để khởi động lại Cửu Thiên Hàn Băng Trận từ bên trong."</p>
+<br>
+<p>Diệp Tĩnh Sương nhận lấy Hàn Ngọc Tủy, cảm nhận được luồng khí tức thanh khiết đang lan tỏa. Nàng nhìn sang Lâm Phong và Sở Lăng Sương, cả hai đều khẽ gật đầu.</p>
+<br>
+<p>"Rõ, Cung Chủ." Tĩnh Sương dứt khoát đáp. "Chúng ta sẽ không làm ngài thất vọng."</p>
+<br>
+<p>Lý Tuyết Ưng khẽ vuốt dây đàn, một giai điệu hào hùng vang lên, hòa vào tiếng gió rít bên ngoài đại điện. "Đi đi. Bắc Băng trông cậy vào các ngươi."</p>
+<br>
+<p>---</p>
+<p><strong>Giao Điểm Cốt Truyện:</strong> Nhóm Diệp Tĩnh Sương nhận nhiệm vụ tiến vào Tuyệt Băng Uyên để sửa chữa phong ấn Cực Hàn Ma Châu. Cùng lúc này, Lệ Vô Tâm cũng đang tìm cách xâm nhập từ một hướng khác. Cả hai tuyến truyện sắp sửa chạm trán nhau dưới vực sâu tăm tối.</p>
+<br>
+<p><em>Hết chương 122.</em></p>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>

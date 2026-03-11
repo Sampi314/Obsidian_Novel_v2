@@ -180,6 +180,8 @@
     - **Sự Kiện Mới:** Lệ Vô Tâm trốn thoát đến Tử Vong Chi Thung Lũng ở rìa Đông Hoang. Với cơ thể tàn phế, hắn nuốt "Thiên Mệnh Hắc Liên" để tái tạo kinh mạch bằng ma khí, quyết tâm dấn thân sâu hơn vào con đường ma đạo cực đoan (Hoàn thành - Chương 113 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới (Arc 6 Khởi Đầu):** Nhóm Tĩnh Sương nhận được lệnh từ Cửu Hoa Kiếm Tông tiến về Bắc Băng do có tin tức bất thường từ Huyền Băng Cung. Đồng thời Lệ Vô Tâm tái tạo xong cơ thể ma quỷ và nhận lệnh từ Huyết Sát Minh đến Bắc Băng tìm "Cực Hàn Ma Châu". Cả hai tuyến truyện hướng về phía Bắc (Hoàn thành - Chương 120 Góc Nhìn Chính / Chương 114 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương đến Bắc Băng, hội ngộ Sở Lăng Sương và chạm trán Tuyết Quỷ bị ma hóa (Hoàn thành - Chương 121 Góc Nhìn Chính). Lệ Vô Tâm cũng đã đặt chân tới Bắc Băng, thể hiện khả năng chế ngự và điều khiển thú ma hóa, hướng tới Huyền Băng Cung (Hoàn thành - Chương 115 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Nhóm Tĩnh Sương tiến vào Huyền Băng Cung, gặp Cung Chủ Lý Tuyết Ưng và nhận nhiệm vụ xuống Tuyệt Băng Uyên sửa chữa phong ấn Cực Hàn Ma Châu (Hoàn thành - Chương 122 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Lệ Vô Tâm dùng Băng Hùng ma hóa tấn công vòng ngoài Huyền Băng Cung để thu hút sự chú ý, bản thân âm thầm lách qua khe hở của Cửu Thiên Hàn Băng Trận tiến vào Tuyệt Băng Uyên tiếp cận Cực Hàn Ma Châu (Hoàn thành - Chương 116 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

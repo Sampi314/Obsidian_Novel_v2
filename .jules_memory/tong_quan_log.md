@@ -1268,3 +1268,25 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Viết tiếp diễn biến tại Huyền Băng Cung: Nhóm Tĩnh Sương gặp Cung Chủ Lý Tuyết Ưng, trong khi Lệ Vô Tâm bắt đầu phá vỡ trận pháp phòng ngự hoặc xâm nhập Tuyệt Băng Uyên.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Hội Kiến Huyền Băng Cung & Xâm Nhập Băng Uyên)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 122 (Góc Nhìn Chính) và Chương 116 (Góc Nhìn Lệ Vô Tâm) để tiếp tục Arc 6.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00122_Hội_Kiến_Cung_Chủ.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00116_Xâm_Nhập_Băng_Uyên.md`
+- **Cập nhật:**
+  - Khắc phục lỗi `!!!` thành `!` trong Chương 114 Góc Nhìn Lệ Vô Tâm.
+  - Cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+  - Cập nhật `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`.
+  - Cập nhật `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Nhóm Tĩnh Sương đã diện kiến Cung Chủ Lý Tuyết Ưng và nhận nhiệm vụ xuống Tuyệt Băng Uyên dùng Hàn Ngọc Tủy sửa phong ấn Cực Hàn Ma Châu. Lệ Vô Tâm đã lọt qua Cửu Thiên Hàn Băng Trận và tiến vào Tuyệt Băng Uyên thành công. Cả hai thế lực sắp đụng độ.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết cảnh đụng độ giữa nhóm Tĩnh Sương và Lệ Vô Tâm dưới Tuyệt Băng Uyên.
