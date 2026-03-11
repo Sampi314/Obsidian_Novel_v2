@@ -1,0 +1,25 @@
+# Công Pháp
+
+Danh sách tất cả nội dung trong mục **Công Pháp**:
+
+- [BĂNG TÂM QUYẾT (冰心訣)](Băng_Tâm_Quyết.md)
+- [CỬU CHUYỂN ĐAN HỎA QUYẾT (九轉丹火訣)](Cửu_Chuyển_Đan_Hỏa_Quyết.md)
+- [CỬU HOA KIẾM QUYẾT (九花劍訣)](Cửu_Hoa_Kiếm_Quyết.md)
+- [Hàn Băng Bộ (寒冰步)](Hàn_Băng_Bộ.md)
+- [HÀN SƯƠNG KIẾM QUYẾT (寒霜劍訣)](Hàn_Sương_Kiếm_Quyết.md)
+- [LIỆT DIỄM SA CÔNG (烈焰沙功)](Liệt_Diễm_Sa_Công.md)
+- [LÃNH PHONG KIẾM QUYẾT (冷風劍訣)](Lãnh_Phong_Kiếm_Quyết.md)
+- [NGUYỆT LINH TRƯỜNG SINH QUYẾT (月靈長生訣)](Nguyệt_Linh_Trường_Sinh_Quyết.md)
+- [THANH MỘC TRƯỜNG SINH QUYẾT (青木長生訣)](Thanh_Mộc_Trường_Sinh_Quyết.md)
+- [THANH NANG TRƯỜNG SINH QUYẾT (青囊長生訣)](Thanh_Nang_Trường_Sinh_Quyết.md)
+- [THANH ÂM VẠN VẬT QUYẾT (清音萬物訣)](Thanh_Âm_Vạn_Vật_Quyết.md)
+- [THIÊN CƠ TOÁN THUẬT (天機算術)](Thiên_Cơ_Toán_Thuật.md)
+- [THIÊN TRÙNG ĐỒNG HÓA QUYẾT (天蟲同化訣)](Thiên_Trùng_Đồng_Hóa_Quyết.md)
+- [THIÊN ÂM BĂNG PHÁCH (天音冰魄)](Thiên_Âm_Băng_Phách.md)
+- [THÁI CỔ LONG THẦN QUYẾT (太古龍神訣)](Thái_Cổ_Long_Thần_Quyết.md)
+- [THÁI CỰC VẠN PHÁP QUYẾT (太極萬法訣)](Thái_Cực_Vạn_Pháp_Quyết.md)
+- [TÀN NGUYỆT KIẾM QUYẾT (殘月劍訣)](Tàn_Nguyệt_Kiếm_Quyết.md)
+- [VẠN ĐỘC CHÂN KINH (万毒真经)](Vạn_Độc_Chân_Kinh.md)
+- [VẠN ĐỘC PHỆ HỒN QUYẾT (万毒噬魂诀)](Vạn_Độc_Phệ_Hồn_Quyết.md)
+- [ÂM DƯƠNG THỦY NGUYỆT QUYẾT (陰陽水月訣)](Âm_Dương_Thủy_Nguyệt_Quyết.md)
+- [ĐẠI ĐỊA TRƯỜNG SINH QUYẾT (大地長生訣)](Đại_Địa_Trường_Sinh_Quyết.md)

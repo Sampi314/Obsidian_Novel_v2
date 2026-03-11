@@ -1,0 +1,35 @@
+name: Update chapter_data.js
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "Đạo/Chương_Truyện/**/*.md"
+
+permissions:
+  contents: write
+
+jobs:
+  update-chapter-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate chapter_data.js
+        run: python scripts/update_chapter_data.py
+
+      - name: Commit and push if changed
+        run: |
+          git diff --quiet scripts/chapter_data.js && exit 0
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add scripts/chapter_data.js
+          git commit -m "🔄 [Auto] Cập nhật chapter_data.js"
+          git push

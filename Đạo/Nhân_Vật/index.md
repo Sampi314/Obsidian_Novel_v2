@@ -1,0 +1,26 @@
+# Nhân Vật
+
+Danh sách tất cả nội dung trong mục **Nhân Vật**:
+
+- [HỒ SƠ NHÂN VẬT: DIỆP THANH Y](Diệp_Thanh_Y.md)
+- [HỒ SƠ NHÂN VẬT: DIỆP TĨNH SƯƠNG](Diệp_Tĩnh_Sương.md)
+- [HỒ SƠ NHÂN VẬT: HÀN THANH NGUYỆT](Hàn_Thanh_Nguyệt.md)
+- [HỒ SƠ NHÂN VẬT: HẮC HẠT MA TRÙNG (黑蝎魔蟲)](Hắc_Hạt_Ma_Trùng.md)
+- [HỒ SƠ NHÂN VẬT: HỨA NHƯỢC THỦY](Hứa_Nhược_Thủy.md)
+- [HỒ SƠ NHÂN VẬT: HỨA THANH VÂN](Hứa_Thanh_Vân.md)
+- [HỒ SƠ NHÂN VẬT: Lâm Phong](Lâm_Phong.md)
+- [LÝ TUYẾT ƯNG (李雪鹰)](Lý_Tuyết_Ưng.md)
+- [HỒ SƠ NHÂN VẬT: LỆ NHƯỢC THỦY (麗若水)](Lệ_Nhược_Thủy.md)
+- [HỒ SƠ NHÂN VẬT: LỆ VÔ TÂM](Lệ_Vô_Tâm.md)
+- [HỒ SƠ NHÂN VẬT: LỤC LY](Lục_Ly.md)
+- [LỤC TIÊU (綠簫)](Lục_Tiêu.md)
+- [LỤC TRẦN (陸塵)](Lục_Trần.md)
+- [HỒ SƠ NHÂN VẬT: NGAO ĐÌNH (敖霆)](Ngao_Đình.md)
+- [NGUYỆT DAO (月瑤)](Nguyệt_Dao.md)
+- [NGÔ CÔNG TRƯỞNG LÃO (蜈蚣長老)](Ngô_Công_Trưởng_Lão.md)
+- [HỒ SƠ NHÂN VẬT: NHAM THẦN (岩神)](Nham_Thần.md)
+- [HỒ SƠ NHÂN VẬT: PHƯƠNG VÔ KỴ (方無忌)](Phương_Vô_Kỵ.md)
+- [HỒ SƠ NHÂN VẬT: SỞ LĂNG SƯƠNG](Sở_Lăng_Sương.md)
+- [HỒ SƠ NHÂN VẬT: TRIỆU THANH HẰNG](Triệu_Thanh_Hằng.md)
+- [HỒ SƠ NHÂN VẬT: ĐAN DƯƠNG TỬ](Đan_Dương_Tử.md)
+- [HỒ SƠ NHÂN VẬT: ĐỘC CÔ LÃO QUÁI](Độc_Cô_Lão_Quái.md)

@@ -1,7 +1,15 @@
 (function() {
 
+    // Detect reader mode: running inside reader.html with ?file= param
+    var params = new URLSearchParams(window.location.search);
+    var readerFile = params.get('file');
+    var isReaderMode = !!readerFile;
+
     function injectStyles() {
-        // Main style sheet
+        // Skip style injection in reader mode — reader.html handles its own styles
+        if (isReaderMode) return;
+
+        // Main style sheet (legacy mode: HTML files in nested directories)
         var link = document.createElement('link');
         link.rel = 'stylesheet';
         link.href = '../../../scripts/style.css';
@@ -15,6 +23,9 @@
     }
 
     function createProgressBar() {
+        // Skip if already exists
+        if (document.getElementById('progress-container')) return;
+
         var progressContainer = document.createElement('div');
         progressContainer.id = 'progress-container';
 
@@ -32,6 +43,17 @@
         });
     }
 
+    // Build a chapter link URL depending on mode
+    function makeChapterUrl(chapterFilename) {
+        if (isReaderMode) {
+            // Extract directory from current file path
+            var dir = readerFile.substring(0, readerFile.lastIndexOf('/') + 1);
+            return 'reader.html?file=' + encodeURIComponent(dir + chapterFilename);
+        } else {
+            return chapterFilename.replace('.md', '.html');
+        }
+    }
+
     function generateNavigation() {
         var container = document.getElementById('chapter-navigation');
         if (!container) return;
@@ -44,10 +66,21 @@
         document.body.classList.add('chapter-page');
 
         // Determine current chapter and POV
-        var path = window.location.pathname;
-        var pathParts = path.split('/').filter(function(p) { return p !== ""; });
-        var currentFilename = decodeURIComponent(pathParts.pop() || "index.html");
-        var currentPov = decodeURIComponent(pathParts.pop());
+        var currentFilename, currentPov;
+
+        if (isReaderMode) {
+            // Reader mode: parse from ?file= param
+            // e.g. "Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00001_Dấu_Hiệu_Tai_Ương.md"
+            var parts = readerFile.split('/').filter(function(p) { return p !== ''; });
+            currentFilename = parts.pop() || '';
+            currentPov = parts.pop() || '';
+        } else {
+            // Legacy mode: parse from pathname
+            var path = window.location.pathname;
+            var pathParts = path.split('/').filter(function(p) { return p !== ""; });
+            currentFilename = decodeURIComponent(pathParts.pop() || "index.html");
+            currentPov = decodeURIComponent(pathParts.pop());
+        }
 
         if (!window.chapterData || !window.chapterData[currentPov]) {
             console.error("Chapter data not found for POV: " + currentPov);
@@ -56,7 +89,9 @@
 
         var chapters = window.chapterData[currentPov];
         var currentIndex = -1;
-        var currentMdFilename = currentFilename.replace('.html', '.md');
+        // In reader mode, filename already ends with .md
+        // In legacy mode, convert .html to .md for lookup
+        var currentMdFilename = isReaderMode ? currentFilename : currentFilename.replace('.html', '.md');
 
         for (var i = 0; i < chapters.length; i++) {
             if (chapters[i].filename === currentMdFilename) {
@@ -76,7 +111,7 @@
         var prevBtn = document.createElement('a');
         prevBtn.className = 'nav-btn';
         if (prevChapter) {
-            prevBtn.href = prevChapter.filename.replace('.md', '.html');
+            prevBtn.href = makeChapterUrl(prevChapter.filename);
             prevBtn.innerHTML = '⬅️ Chương Trước';
         } else {
             prevBtn.className += ' disabled';
@@ -86,14 +121,19 @@
 
         // Home Button
         var homeBtn = document.createElement('a');
-        homeBtn.href = '../../../index.html';
+        homeBtn.href = isReaderMode ? 'index.html' : '../../../index.html';
         homeBtn.className = 'nav-btn';
         homeBtn.innerHTML = '🏠 Trang Chủ';
         navBar.appendChild(homeBtn);
 
-        // TOC Button
+        // TOC Button — links to the MỤC_LỤC.md for the current POV
         var tocBtn = document.createElement('a');
-        tocBtn.href = 'index.html';
+        if (isReaderMode) {
+            var dir = readerFile.substring(0, readerFile.lastIndexOf('/') + 1);
+            tocBtn.href = 'reader.html?file=' + encodeURIComponent(dir + 'MỤC_LỤC.md');
+        } else {
+            tocBtn.href = 'index.html';
+        }
         tocBtn.className = 'nav-btn';
         tocBtn.innerHTML = '📖 Mục Lục';
         navBar.appendChild(tocBtn);
@@ -103,7 +143,7 @@
         nextBtn.className = 'nav-btn';
         var nextUrl = "#";
         if (nextChapter) {
-            nextUrl = nextChapter.filename.replace('.md', '.html');
+            nextUrl = makeChapterUrl(nextChapter.filename);
             nextBtn.href = nextUrl;
             nextBtn.id = 'next-chapter-link';
             nextBtn.innerHTML = 'Chương Sau ➡️';
@@ -132,7 +172,7 @@
             var li = document.createElement('li');
             var a = document.createElement('a');
 
-            a.href = chap.filename.replace('.md', '.html');
+            a.href = makeChapterUrl(chap.filename);
             a.textContent = chap.title;
 
             if (i === currentIndex) {
@@ -157,16 +197,12 @@
         var controlsDiv = document.createElement('div');
         controlsDiv.className = 'audio-controls';
 
-        // We need to create buttons with IDs that match what tts_player.js expects
-        // tts_player.js toggles display:none on elements with IDs btn-play, btn-pause, etc.
-
         function createAudioBtn(id, text, actionName) {
             var btn = document.createElement('button');
             btn.id = id;
             btn.textContent = text;
             btn.className = 'audio-btn';
 
-            // tts_player.js defines global functions like startReading()
             btn.addEventListener('click', function() {
                 if (typeof window[actionName] === 'function') {
                     window[actionName]();

@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đang tải... - Cố Nguyên Giới</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&display=swap">
+    <style>
+        :root {
+            /* Dark theme always — matching index.html */
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+
+            /* Override style.css vars for chapter pages */
+            --bg-color: #1a1a1a;
+            --text-color: #e0e0e0;
+            --accent-color: #ecf0f1;
+            --link-color: #3498db;
+            --nav-bg: #2d2d2d;
+            --font-family: 'Merriweather', 'Georgia', serif;
+            --line-height: 1.8;
+            --font-size: 19px;
+            --max-width: 800px;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        /* Chapter page overrides (when style.css is loaded) */
+        /* Set dark CSS vars on body.chapter-page to override style.css defaults */
+        body.chapter-page {
+            --bg-color: #1a1a1a;
+            --text-color: #e0e0e0;
+            --accent-color: #ecf0f1;
+            --link-color: #3498db;
+            --nav-bg: #2d2d2d;
+            --border-color: #404040;
+            background-color: var(--bg-color);
+            background-image: none;
+            border: none;
+            color: var(--text-color);
+            font-family: var(--font-family);
+            font-size: var(--font-size);
+            max-width: none;
+            padding: 0;
+        }
+
+        /* Wiki page styles */
+        body.wiki-page h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.2em;
+            margin-bottom: 20px;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+        }
+
+        body.wiki-page h2 {
+            color: var(--accent-jade);
+            margin-top: 40px;
+            font-size: 1.6em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+        }
+
+        body.wiki-page h3 {
+            color: var(--text-gold);
+            margin-top: 30px;
+            font-size: 1.3em;
+        }
+
+        body.wiki-page h4 {
+            color: var(--text-muted);
+            margin-top: 20px;
+            font-size: 1.1em;
+        }
+
+        body.wiki-page a {
+            color: var(--text-gold);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        body.wiki-page a:hover {
+            color: var(--text-gold-hover);
+        }
+
+        body.wiki-page p {
+            margin-bottom: 1.2em;
+            text-align: justify;
+        }
+
+        body.wiki-page ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        body.wiki-page li {
+            background: var(--bg-lighter);
+            padding: 10px 15px;
+            margin-bottom: 8px;
+            border-radius: 4px;
+            border: 1px solid var(--border-color);
+            border-left: 4px solid var(--accent-red);
+            transition: all 0.3s ease;
+        }
+
+        body.wiki-page li:hover {
+            border-left-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        body.wiki-page strong {
+            color: var(--text-gold);
+        }
+
+        body.wiki-page blockquote {
+            border-left: 3px solid var(--accent-jade);
+            margin: 20px 0;
+            padding: 10px 20px;
+            background: var(--bg-lighter);
+            color: var(--text-muted);
+            font-style: italic;
+        }
+
+        body.wiki-page hr {
+            border: none;
+            border-top: 1px solid var(--border-color);
+            margin: 30px 0;
+        }
+
+        body.wiki-page table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+
+        body.wiki-page th, body.wiki-page td {
+            border: 1px solid var(--border-color);
+            padding: 8px 12px;
+            text-align: left;
+        }
+
+        body.wiki-page th {
+            background: var(--bg-lighter);
+            color: var(--text-gold);
+        }
+
+        body.wiki-page code {
+            background: var(--bg-lighter);
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 0.9em;
+        }
+
+        body.wiki-page pre {
+            background: var(--bg-lighter);
+            padding: 15px;
+            border-radius: 4px;
+            overflow-x: auto;
+            border: 1px solid var(--border-color);
+        }
+
+        /* Loading & Error */
+        .loading {
+            text-align: center;
+            padding: 100px 20px;
+            color: var(--text-muted);
+            font-size: 1.2em;
+        }
+
+        .error-message {
+            text-align: center;
+            padding: 100px 20px;
+            color: #ff6b6b;
+            font-size: 1.2em;
+        }
+
+        /* Back link */
+        .back-link {
+            display: inline-block;
+            margin-bottom: 20px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="content">
+        <div class="loading">Đang tải nội dung...</div>
+    </div>
+
+    <script>
+    (function() {
+        var params = new URLSearchParams(window.location.search);
+        var filePath = params.get('file');
+
+        if (!filePath) {
+            document.getElementById('content').innerHTML =
+                '<div class="error-message">Không tìm thấy tham số file.<br>' +
+                '<a href="index.html" class="back-link">Về Trang Chủ</a></div>';
+            return;
+        }
+
+        // Determine if this is a chapter page
+        var isChapter = /Chương_Truyện\/.*\/Chương_\d+/.test(filePath);
+
+        // Directory of the current file (for resolving relative links)
+        var fileDir = filePath.substring(0, filePath.lastIndexOf('/') + 1);
+
+        // Fetch the markdown file
+        fetch(encodeURI(filePath))
+            .then(function(response) {
+                if (!response.ok) throw new Error('Không tìm thấy file: ' + filePath);
+                return response.text();
+            })
+            .then(function(md) {
+                // Strip NAVIGATION_START/END block (embedded in .md files)
+                md = md.replace(/<!--\s*NAVIGATION_START\s*-->[\s\S]*?<!--\s*NAVIGATION_END\s*-->\s*/g, '');
+
+                // Strip YAML frontmatter
+                md = md.replace(/^---\n[\s\S]*?\n---\n/, '');
+
+                // Set page title from first H1
+                var titleMatch = md.match(/^#\s+(.+)$/m);
+                if (titleMatch) {
+                    document.title = titleMatch[1] + ' - Cố Nguyên Giới';
+                }
+
+                // Configure and render markdown
+                marked.setOptions({ breaks: true, gfm: true });
+                var html = marked.parse(md);
+
+                // Convert internal .md links to reader.html?file= links
+                html = html.replace(/href="([^"]*\.md(?:#[^"]*)?)"/g, function(match, link) {
+                    // Skip external links
+                    if (link.startsWith('http://') || link.startsWith('https://')) return match;
+
+                    // Separate anchor from path
+                    var anchor = '';
+                    var path = link;
+                    var hashIdx = link.indexOf('#');
+                    if (hashIdx !== -1) {
+                        anchor = link.substring(hashIdx);
+                        path = link.substring(0, hashIdx);
+                    }
+
+                    // Decode any percent-encoding from marked
+                    try { path = decodeURIComponent(path); } catch(e) {}
+
+                    var resolved = resolveRelativePath(fileDir, path);
+                    return 'href="reader.html?file=' + encodeURIComponent(resolved) + anchor + '"';
+                });
+
+                if (isChapter) {
+                    loadChapterMode(html);
+                } else {
+                    loadWikiMode(html);
+                }
+            })
+            .catch(function(err) {
+                document.getElementById('content').innerHTML =
+                    '<div class="error-message">' + err.message + '<br>' +
+                    '<a href="index.html" class="back-link">Về Trang Chủ</a></div>';
+            });
+
+        function resolveRelativePath(baseDir, relativePath) {
+            var baseParts = baseDir.split('/').filter(function(p) { return p !== ''; });
+            var relParts = relativePath.split('/');
+
+            for (var i = 0; i < relParts.length; i++) {
+                if (relParts[i] === '..') {
+                    baseParts.pop();
+                } else if (relParts[i] !== '.' && relParts[i] !== '') {
+                    baseParts.push(relParts[i]);
+                }
+            }
+
+            return baseParts.join('/');
+        }
+
+        function loadChapterMode(html) {
+            document.body.classList.add('chapter-page');
+
+            var contentDiv = document.getElementById('content');
+            contentDiv.innerHTML = '';
+
+            // Navigation placeholder (top)
+            var navTop = document.createElement('div');
+            navTop.id = 'chapter-navigation';
+            contentDiv.appendChild(navTop);
+
+            // Chapter content
+            var chapterDiv = document.createElement('div');
+            chapterDiv.className = 'chapter-content';
+            chapterDiv.innerHTML = html;
+            contentDiv.appendChild(chapterDiv);
+
+            // Load chapter_data.js → navigation.js → tts_player.js
+            loadScript('scripts/chapter_data.js', function() {
+                loadScript('scripts/navigation.js', function() {
+                    loadScript('scripts/tts_player.js');
+                });
+            });
+        }
+
+        function loadWikiMode(html) {
+            document.body.classList.add('wiki-page');
+
+            var contentDiv = document.getElementById('content');
+            contentDiv.innerHTML = '';
+
+            // Back link
+            var backLink = document.createElement('a');
+            backLink.href = 'index.html';
+            backLink.className = 'back-link';
+            backLink.textContent = '\u2190 V\u1ec1 Trang Ch\u1ee7';
+            contentDiv.appendChild(backLink);
+
+            // Article content
+            var articleDiv = document.createElement('div');
+            articleDiv.className = 'wiki-content';
+            articleDiv.innerHTML = html;
+            contentDiv.appendChild(articleDiv);
+
+            // Footer
+            var footer = document.createElement('div');
+            footer.className = 'footer';
+            footer.innerHTML = '<p>Th\u1ebf Gi\u1edbi Ti\u00ean Hi\u1ec7p C\u1ed1 Nguy\u00ean &copy; 2024</p>';
+            contentDiv.appendChild(footer);
+        }
+
+        function loadScript(src, callback) {
+            var script = document.createElement('script');
+            script.src = src;
+            if (callback) script.onload = callback;
+            document.body.appendChild(script);
+        }
+    })();
+    </script>
+</body>
+</html>

@@ -144,7 +144,7 @@ window.chapterData = {
     },
     {
       "filename": "Chương_00033_Bí_Mật_Rừng_Thiên_Trụ.md",
-      "title": "Không có tiêu đề"
+      "title": "Chương 33: Bí Mật Rừng Thiên Trụ"
     },
     {
       "filename": "Chương_00034_Pháo_Đài_Xanh.md",
@@ -152,15 +152,15 @@ window.chapterData = {
     },
     {
       "filename": "Chương_00035_Lối_Mòn_Trong_Bão.md",
-      "title": "Không có tiêu đề"
+      "title": "Chương 35: Lối Mòn Trong Bão"
     },
     {
       "filename": "Chương_00036_Ranh_Giới_Tử_Thần.md",
-      "title": "Không có tiêu đề"
+      "title": "Chương 36: Ranh Giới Tử Thần"
     },
     {
       "filename": "Chương_00037_Vòng_Vây_Huyết_Lang.md",
-      "title": "Không có tiêu đề"
+      "title": "Chương 37: Vòng Vây Huyết Lang"
     },
     {
       "filename": "Chương_00038_Huyết_Chiến_Lang_Vương.md",
