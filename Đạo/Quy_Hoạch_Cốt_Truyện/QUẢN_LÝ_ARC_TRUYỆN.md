@@ -185,6 +185,8 @@
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương tiến xuống Tuyệt Băng Uyên, tiêu diệt quái vật ma hóa và phát hiện Lệ Vô Tâm đang dùng Hắc Liên ăn mòn phong ấn Cực Hàn Ma Châu dưới đáy vực. Hai bên chính thức đối đầu trực tiếp (Hoàn thành - Chương 123 Góc Nhìn Chính / Chương 117 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Phong ấn Cực Hàn Ma Châu bị vỡ. Nhóm Tĩnh Sương liên thủ tấn công Lệ Vô Tâm nhưng hắn dùng sức mạnh từ Ma Châu để cản phá và dùng quái vật vây hãm họ. Lệ Vô Tâm bước vào thời khắc cố gắng thu phục Ma Châu (Hoàn thành - Chương 124 Góc Nhìn Chính / Chương 118 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Lệ Vô Tâm không thể thu phục Cực Hàn Ma Châu nên đã liều mạng nuốt chửng nó. Việc này gây ra một vụ nổ ma khí khổng lồ khiến Tuyệt Băng Uyên sụp đổ. Hắn tạo khe nứt không gian tẩu thoát. Nhóm Tĩnh Sương được Cung Chủ Lý Tuyết Ưng đến cứu kịp thời (Hoàn thành - Chương 125 Góc Nhìn Chính / Chương 119 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Nhóm Tĩnh Sương tĩnh dưỡng và bàn bạc với Lý Tuyết Ưng về hậu quả rò rỉ Cực Hàn Chi Khí. Họ quyết định lên đường tới Băng Ngục Thành để âm thầm truy vết Lệ Vô Tâm (Hoàn thành - Chương 127 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Lệ Vô Tâm thoát ra ngoài, trải qua quá trình giằng co sinh tử giữa Ma Châu và Hắc Liên. Hắn dung hợp thành công, lột xác thành "Hỗn Độn Băng Ma" và hướng về Băng Ngục Thành để củng cố sức mạnh mới (Hoàn thành - Chương 121 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
