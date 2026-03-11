@@ -6,16 +6,16 @@ def test_chapter_generation():
         page = browser.new_page()
 
         # Navigate to one of the newly generated HTML files
-        page.goto("file:///app/Đạo HTML/Chương_Truyện/Góc_Nhìn_Chính/Chương_00111_Dấu_Vết_Tại_Vạn_Yêu_Thành.html")
+        page.goto("file:///app/Đạo HTML/Chương_Truyện/Góc_Nhìn_Chính/Chương_00125_Băng_Uyên_Sụp_Đổ.html")
 
         # Take a screenshot
-        page.screenshot(path="screenshot_111.png", full_page=True)
+        page.screenshot(path="chapter125.png", full_page=True)
 
         # Navigate to the second newly generated HTML file
-        page.goto("file:///app/Đạo HTML/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00105_Tam_Vương_Nội_Chiến.html")
+        page.goto("file:///app/Đạo HTML/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00119_Nuốt_Chửng_Ma_Châu.html")
 
         # Take a screenshot
-        page.screenshot(path="screenshot_105.png", full_page=True)
+        page.screenshot(path="chapter119.png", full_page=True)
 
         browser.close()
 

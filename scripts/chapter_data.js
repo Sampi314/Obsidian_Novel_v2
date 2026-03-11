@@ -511,6 +511,10 @@ window.chapterData = {
       "title": "Chương 124: Huyết Chiến Đáy Vực"
     },
     {
+      "filename": "Chương_00125_Băng_Uyên_Sụp_Đổ.md",
+      "title": "Chương 125: Băng Uyên Sụp Đổ"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -1029,6 +1033,10 @@ window.chapterData = {
     {
       "filename": "Chương_00118_Sức_Mạnh_Ma_Châu.md",
       "title": "Chương 118: Sức Mạnh Ma Châu"
+    },
+    {
+      "filename": "Chương_00119_Nuốt_Chửng_Ma_Châu.md",
+      "title": "Chương 119: Nuốt Chửng Ma Châu"
     }
   ]
 };

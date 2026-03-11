@@ -439,3 +439,11 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Nhóm Tĩnh Sương tiến xuống Tuyệt Băng Uyên thực hiện nhiệm vụ, tiêu diệt quái vật ma hóa và phát hiện kẻ thù đã đi trước. Lệ Vô Tâm lợi dụng sự hỗn loạn bên trên để xâm nhập sâu vào vực thẳm, dùng Hắc Liên ăn mòn phong ấn Cực Hàn Ma Châu. Hai bên chính thức đụng độ.
 - **Tình trạng:** Hoàn thành. Tiếp tục Arc 6 tại Bắc Băng.
+
+## Phiên làm việc: Viết Chương 125 (Góc Nhìn Chính) & Chương 119 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 125:** Băng Uyên Sụp Đổ
+- **Chương 119:** Nuốt Chửng Ma Châu
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Cực Hàn Ma Châu phản kháng, Lệ Vô Tâm quyết định liều mạng nuốt chửng nó. Việc này gây ra vụ xung đột năng lượng khổng lồ làm sập Tuyệt Băng Uyên. Lệ Vô Tâm tạo khe nứt chạy thoát để dung hợp. Cung Chủ Lý Tuyết Ưng kịp thời xuất hiện kéo nhóm Tĩnh Sương lên khỏi vực sâu.
+- **Tình trạng:** Hoàn thành.
