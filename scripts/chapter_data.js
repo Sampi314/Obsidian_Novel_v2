@@ -1,18 +1,4 @@
 window.chapterData = {
-  "Góc_Nhìn_Lâm_Phong": [
-    {
-      "filename": "Chương_00001_Cơ_Duyên_Rừng_Thẳm.md",
-      "title": "Chương 1: Cơ Duyên Rừng Thẳm"
-    },
-    {
-      "filename": "Chương_00002_Mũi_Tên_Đầu_Tiên.md",
-      "title": "Chương 2: Mũi Tên Đầu Tiên"
-    },
-    {
-      "filename": "Chương_00003_Rời_Khỏi_Rừng_Thẳm.md",
-      "title": "Chương 3: Rời Khỏi Rừng Thẳm"
-    }
-  ],
   "Góc_Nhìn_Chính": [
     {
       "filename": "Chương_00001_Dấu_Hiệu_Tai_Ương.md",
@@ -396,7 +382,7 @@ window.chapterData = {
     },
     {
       "filename": "Chương_00096_Cường_Giả_Hàng_Lâm.md",
-      "title": "Chương 00096: Cường Giả Hàng Lâm"
+      "title": "Chương 96: Cường Giả Hàng Lâm"
     },
     {
       "filename": "Chương_00098_Bế_Quan_Tu_Luyện.md",
@@ -524,11 +510,15 @@ window.chapterData = {
     },
     {
       "filename": "Chương_00129_Tử_Địa_Hoang_Tàn.md",
-      "title": "Chương 129: Tử Địa Hoang Tàn (荒芜死地)"
+      "title": "Chương 129: Tử Địa Hoang Tàn (荒蕪死地)"
     },
     {
-      "filename": "Chương_Mẫu_Huyền_Băng.md",
-      "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
+      "filename": "Chương_00130_Băng_Huyết_Tôn_Giả.md",
+      "title": "Chương 130: Băng Huyết Tôn Giả"
+    },
+    {
+      "filename": "Chương_00131_Trận_Chiến_Đỉnh_Cao.md",
+      "title": "Chương 131: Trận Chiến Đỉnh Cao"
     }
   ],
   "Góc_Nhìn_Diệp_Tĩnh_Sương": [
@@ -571,6 +561,20 @@ window.chapterData = {
     {
       "filename": "Chương_00010_Thoát_Khỏi_Địa_Ngục.md",
       "title": "Chương 10: Thoát Khỏi Địa Ngục"
+    }
+  ],
+  "Góc_Nhìn_Lâm_Phong": [
+    {
+      "filename": "Chương_00001_Cơ_Duyên_Rừng_Thẳm.md",
+      "title": "Chương 1: Cơ Duyên Rừng Thẳm"
+    },
+    {
+      "filename": "Chương_00002_Mũi_Tên_Đầu_Tiên.md",
+      "title": "Chương 2: Mũi Tên Đầu Tiên"
+    },
+    {
+      "filename": "Chương_00003_Rời_Khỏi_Rừng_Thẳm.md",
+      "title": "Chương 3: Rời Khỏi Rừng Thẳm"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
@@ -932,7 +936,7 @@ window.chapterData = {
     },
     {
       "filename": "Chương_00090_Uy_Áp_Hóa_Thần.md",
-      "title": "Chương 00090: Uy Áp Hóa Thần"
+      "title": "Chương 90: Uy Áp Hóa Thần"
     },
     {
       "filename": "Chương_00092_Dã_Tâm_Bừng_Sáng.md",
@@ -1060,7 +1064,24 @@ window.chapterData = {
     },
     {
       "filename": "Chương_00123_Kẻ_Săn_Mồi_Vực_Sâu.md",
-      "title": "Chương 123: Kẻ Săn Mồi Vực Sâu (深渊猎手)"
+      "title": "Chương 123: Kẻ Săn Mồi Vực Sâu (深淵獵手)"
+    },
+    {
+      "filename": "Chương_00124_Luyện_Hóa_Băng_Huyết.md",
+      "title": "Chương 124: Luyện Hóa Băng Huyết"
+    },
+    {
+      "filename": "Chương_00125_Cố_Kết_Kim_Đan.md",
+      "title": "Chương 125: Cố Kết Kim Đan"
     }
   ]
 };
+// Bổ sung chương mẫu bị sót
+export const chapterData = window.chapterData || {};
+window.chapterData.Góc_Nhìn_Chính.push({
+    "number": 999,
+    "title": "TUYẾT SƠN ĐỘC HÀNH (雪山独行)",
+    "file": "Chương_Mẫu_Huyền_Băng.md",
+    "prev": null,
+    "next": null
+});

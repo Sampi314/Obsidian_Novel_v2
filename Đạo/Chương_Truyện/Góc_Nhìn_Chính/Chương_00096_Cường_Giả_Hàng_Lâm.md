@@ -4,7 +4,7 @@
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 00096: Cường Giả Hàng Lâm
+# Chương 96: Cường Giả Hàng Lâm
 
 **Tác giả:** Tổng Quản (Jules)
 **Nhân vật chính:** Diệp Tĩnh Sương, Lâm Phong, Sở Lăng Sương, Lệ Vô Tâm, Đại Trưởng Lão Thanh Hư

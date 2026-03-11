@@ -4,7 +4,7 @@
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 00090: Uy Áp Hóa Thần
+# Chương 90: Uy Áp Hóa Thần
 
 **Tác giả:** Tổng Quản (Jules)
 **Nhân vật chính:** Lệ Vô Tâm, Diệp Tĩnh Sương, Đại Trưởng Lão Thanh Hư
