@@ -220,3 +220,4 @@
 | Hôm nay | Tổng Quản | Viết Chương 123 (Góc Nhìn Chính) & Chương 117 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương tiến xuống Tuyệt Băng Uyên và đụng độ Lệ Vô Tâm đang phá phong ấn Cực Hàn Ma Châu. |
 | Hôm nay | Tổng Quản | Viết Chương 124 (Góc Nhìn Chính) & Chương 118 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Trận tử chiến dưới đáy Tuyệt Băng Uyên. Lệ Vô Tâm sử dụng sức mạnh của Cực Hàn Ma Châu đang thức tỉnh để áp đảo nhóm Tĩnh Sương và chuẩn bị thu phục Ma Châu. |
 | Hôm nay | Tổng Quản | Khắc phục lỗi ngữ pháp | Hoàn Thành | Sửa "!!!" thành "!" trong Chương 114 Góc Nhìn Lệ Vô Tâm theo yêu cầu kiểm soát chất lượng. |
+| Hôm nay | Tổng Quản | Viết Chương 125 (Góc Nhìn Chính) & Chương 119 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm liều mạng nuốt chửng Cực Hàn Ma Châu để tẩu thoát. Tuyệt Băng Uyên sụp đổ, nhóm Tĩnh Sương được Cung Chủ Lý Tuyết Ưng ứng cứu. |
