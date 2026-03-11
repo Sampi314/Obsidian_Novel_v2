@@ -463,3 +463,11 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Nhóm Tĩnh Sương đã trở về Cửu Hoa Kiếm Tông an toàn, báo cáo về việc Lệ Vô Tâm đã dung hợp Cực Hàn Ma Châu và kết thành Kim Đan. Thanh Hư lão tổ ngay lập tức truyền lệnh triệu tập Hội Nghị Khẩn Cấp toàn Chính Đạo. Về phía Lệ Vô Tâm, hắn diện kiến Huyết Thần Tử tại đại điện Huyết Sát Minh, bộc lộ uy áp Kim Đan song sắc. Một hiệp định tạm thời giữa hắn và Minh Chủ được thiết lập, chính thức xác nhận quyền lực mới của hắn trong hàng ngũ Ma Đạo.
 - **Tình trạng:** Hoàn thành. Cả hai tuyến truyện đang rục rịch tiến tới một cuộc đụng độ quy mô lớn.
+
+## Phiên làm việc: Viết Chương 6, 7 (Góc Nhìn Lâm Phong)
+- **Ngày:** Hôm nay
+- **Chương 6:** Thị Trấn Vùng Biên
+- **Chương 7:** Đường Vào Nam Cương
+- **Góc Nhìn:** Lâm Phong
+- **Tóm tắt:** Lâm Phong tiến vào Trạm Biên để đổi vật tư bằng tai Hắc Huyết Lang. Hắn đối mặt với sự xảo quyệt và lòng tham của con người, buộc phải dùng độc phấn và khinh công để trốn thoát. Sau đó, hắn tiếp tục hành trình vào Nam Cương, tiêu diệt một con Lục Độc Xà, chứng minh khả năng sinh tồn và thích nghi của mình trong môi trường khắc nghiệt mới.
+- **Tình trạng:** Hoàn thành. Đã cập nhật hồ sơ Trạm Biên và Lục Độc Xà.

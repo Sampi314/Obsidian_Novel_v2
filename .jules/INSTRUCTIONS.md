@@ -13,17 +13,17 @@
 | Góc Nhìn Chính | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 5 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 7 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 
 ### Vị Trí Trong Vòng Xoay
 > Vòng xoay hiện tại: Tạm dừng để catch-up Góc Nhìn Lâm Phong.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 6, 7...).
+1. Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 8, 9...).
 2. Cập nhật hồ sơ nhân vật/thế lực/kỳ vật tương ứng.
 
 ### Ghi Chú
-> Đang tập trung catch-up cho Lâm Phong để đạt đủ số lượng chương theo tỷ lệ yêu cầu.
+> Đang tập trung catch-up cho Lâm Phong để đạt đủ số lượng chương theo tỷ lệ yêu cầu. Đã hoàn thành Chương 6, 7.
 
 ---
 
