@@ -1,4 +1,5 @@
-window.chapterData = {
+const chapterData = (typeof window !== "undefined" && window.chapterData) ? window.chapterData : {};
+Object.assign(chapterData, {
   "Góc_Nhìn_Chính": [
     {
       "filename": "Chương_00001_Dấu_Hiệu_Tai_Ương.md",
@@ -519,6 +520,10 @@ window.chapterData = {
     {
       "filename": "Chương_00131_Trận_Chiến_Đỉnh_Cao.md",
       "title": "Chương 131: Trận Chiến Đỉnh Cao"
+    },
+    {
+      "filename": "Chương_00132_Uy_Áp_Kim_Đan.md",
+      "title": "Chương 132: Uy Áp Kim Đan"
     }
   ],
   "Góc_Nhìn_Diệp_Tĩnh_Sương": [
@@ -1073,15 +1078,20 @@ window.chapterData = {
     {
       "filename": "Chương_00125_Cố_Kết_Kim_Đan.md",
       "title": "Chương 125: Cố Kết Kim Đan"
+    },
+    {
+      "filename": "Chương_00126_Ngạo_Nghễ_Quần_Hùng.md",
+      "title": "Chương 126: Ngạo Nghễ Quần Hùng"
     }
   ]
-};
-// Bổ sung chương mẫu bị sót
-export const chapterData = window.chapterData || {};
-window.chapterData.Góc_Nhìn_Chính.push({
-    "number": 999,
-    "title": "TUYẾT SƠN ĐỘC HÀNH (雪山独行)",
-    "file": "Chương_Mẫu_Huyền_Băng.md",
-    "prev": null,
-    "next": null
 });
+
+chapterData.Góc_Nhìn_Chính.push({
+  filename: "Chương_Mẫu_Huyền_Băng.md",
+  title: "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
+});
+
+if (typeof window !== 'undefined') {
+  window.chapterData = chapterData;
+}
+export { chapterData };
