@@ -299,8 +299,8 @@
     window.increaseSpeed = increaseSpeed;
     window.decreaseSpeed = decreaseSpeed;
 
-    // Auto-play check
-    window.onload = function() {
+    // Initialize TTS
+    function initTTS() {
         contentElements = getReadableElements(); // Initialize elements early so click works
 
         // Initial control state
@@ -314,11 +314,18 @@
             // Delay slightly to ensure voices are loaded
             setTimeout(startReading, 1000);
         }
-    };
+    }
+
+    // Support both direct page load and dynamic script loading (reader.html)
+    if (document.readyState === 'complete') {
+        initTTS();
+    } else {
+        window.addEventListener('load', initTTS);
+    }
 
     // Handle page unload to stop speech
-    window.onbeforeunload = function() {
+    window.addEventListener('beforeunload', function() {
         isStopped = true;
         synth.cancel();
-    };
+    });
 })();
