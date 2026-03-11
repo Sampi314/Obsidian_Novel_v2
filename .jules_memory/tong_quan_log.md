@@ -1200,3 +1200,25 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Khắc phục hậu quả trận chiến, định hình lại trật tự Vạn Yêu Thành và chuẩn bị cho sự khởi đầu của Arc mới.
+
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Kết Thúc Arc 5)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết diễn biến kết thúc Arc 5 tại Đông Hoang, bao gồm hậu quả trận chiến Vạn Yêu Thành và số phận của Lệ Vô Tâm.
+
+## 2. CÔNG VIỆC ĐÃ LÀM
+- **Sáng tạo:**
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00119_Khắc_Phục_Hậu_Quả_Vạn_Yêu_Thành.md`
+  - `Đạo/Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00113_Rơi_Vào_Vực_Thẳm.md`
+- **Cập nhật:**
+  - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện kết thúc Arc 5 và tình trạng mới của Lệ Vô Tâm.
+  - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`: Ghi log hoàn thành 2 chương.
+
+## 3. TRẠNG THÁI HỆ THỐNG
+- **Tiến độ:** Arc 5 kết thúc. Nhóm Tĩnh Sương đã dập tắt được hiểm họa tại Vạn Yêu Thành, hai vị Đại Yêu Vương đình chiến và ổn định lại thành phố. Nhóm Tĩnh Sương trở thành ân nhân của Đông Hoang.
+- **Tình trạng Lệ Vô Tâm:** Trốn thoát đến Tử Vong Chi Thung Lũng, cơ thể tàn phế. Hắn đã nuốt "Thiên Mệnh Hắc Liên" để tái tạo kinh mạch bằng ma khí, quyết tâm đi theo con đường tà đạo cực đoan hơn.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Bắt đầu chuyển hướng sang Arc 6. Cần xây dựng tiền đề, mục tiêu mới cho nhóm Diệp Tĩnh Sương và theo dõi sự lột xác của Lệ Vô Tâm.
