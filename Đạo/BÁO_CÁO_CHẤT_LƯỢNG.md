@@ -155,6 +155,58 @@
 
 
 ---
+## LỊCH SỬ
+- Hôm nay: Viết Chương 88 (Góc Nhìn Chính) & Chương 82 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 90 (Góc Nhìn Chính) & Chương 84 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 91 (Góc Nhìn Chính) & Chương 85 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 92 (Góc Nhìn Chính) & Chương 86 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 93 (Góc Nhìn Chính) & Chương 87 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 94 (Góc Nhìn Chính) & Chương 88 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 95 (Góc Nhìn Chính) & Chương 89 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Sửa Lỗi Ngữ Pháp & Bổ Sung Bí Cảnh
+- Hôm nay: Viết Chương 96 (Góc Nhìn Chính) & Chương 90 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 97 (Góc Nhìn Chính) & Chương 91 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 98 (Góc Nhìn Chính) & Chương 92 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 99 (Góc Nhìn Chính) & Chương 93 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 114 (Góc Nhìn Chính) & Chương 108 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Khởi tạo Hồ sơ Đông Hoang
+- Hôm nay: Viết Chương 100 (Góc Nhìn Chính) & Chương 94 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 101 (Góc Nhìn Chính) & Chương 95 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 102 (Góc Nhìn Chính) & Chương 96 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 104 (Góc Nhìn Chính) & Chương 98 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 105 (Góc Nhìn Chính) & Chương 99 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 106 (Góc Nhìn Chính) & Chương 100 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 107 (Góc Nhìn Chính) & Chương 101 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 108 (Góc Nhìn Chính) & Chương 102 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 109 (Góc Nhìn Chính) & Chương 103 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 110 (Góc Nhìn Chính) & Chương 104 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 111 (Góc Nhìn Chính) & Chương 105 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 112 (Góc Nhìn Chính) & Chương 106 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 113 (Góc Nhìn Chính) & Chương 107 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Sáng Tác
+- Hôm nay: Viết Chương 116 (Góc Nhìn Chính) & Chương 110 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 117 (Góc Nhìn Chính) & Chương 111 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 118 (Góc Nhìn Chính) & Chương 112 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 119 (Góc Nhìn Chính) & Chương 113 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 120 (Góc Nhìn Chính) & Chương 114 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 121 (Góc Nhìn Chính) & Chương 115 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 122 (Góc Nhìn Chính) & Chương 116 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 123 (Góc Nhìn Chính) & Chương 117 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Viết Chương 124 (Góc Nhìn Chính) & Chương 118 (Góc Nhìn Lệ Vô Tâm)
+- Hôm nay: Khắc phục lỗi ngữ pháp
+- Hôm nay: Viết Chương 125 (Góc Nhìn Chính) & Chương 119 (Góc Nhìn Lệ Vô Tâm)
+
+## PHIÊN GẦN NHẤT
+| Hôm nay | Tổng Quản | Xóa File Trùng Lặp | Hoàn Thành | Xóa các file thừa của Chương 97 (Góc Nhìn Chính) và Chương 91 (Góc Nhìn Lệ Vô Tâm) do phát hiện đây là phiên bản lỗi, giữ lại file chuẩn. Cập nhật lại MỤC LỤC và Index. |
+| Hôm nay | Tổng Quản | Mở Rộng Thế Lực Đông Hoang | Hoàn Thành | Bổ sung chi tiết hồ sơ các thế lực `Vạn_Yêu_Thành.md`, `Ngự_Kiếm_Sơn_Trang.md`, `Thanh_Đế_Cung.md` tại Đông Hoang để chuẩn bị tài nguyên cho Arc 5. |
+| Hôm nay | Tổng Quản | Sửa Lỗi Tham Chiếu | Hoàn Thành | Phát hiện và sửa tự động/thủ công an toàn hàng loạt broken links trong toàn bộ các tệp tin markdown của dự án (không xóa dữ liệu). |
+| Hôm nay | Tổng Quản | Viết Chương 99 (Góc Nhìn Chính) & Chương 93 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Khởi đầu Arc 5. Nhóm Tĩnh Sương xuất quan, nhận nhiệm vụ từ Đại Trưởng Lão hướng về Đông Hoang tìm kiếm đồng minh. Cùng lúc, Lệ Vô Tâm cũng nhận Huyết Sát Lệnh tiến về Đông Hoang để thiết lập mạng lưới tình báo cho Huyết Sát Minh. |
+| Hôm nay | Tổng Quản | Viết Chương 126 (Góc Nhìn Chính) & Chương 120 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương về Huyền Băng Cung, Lý Tuyết Ưng phong tỏa Bắc Băng để đối phó với Cực Hàn Chi Khí bị rò rỉ. Lệ Vô Tâm lẩn trốn tại Băng Ngục Thành và luyện hóa thành công Cực Hàn Ma Châu. |
+| Hôm nay | Tổng Quản | Viết Chương 127 (Góc Nhìn Chính) & Chương 121 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương quyết định đến Băng Ngục Thành để truy tìm dấu vết Lệ Vô Tâm. Lệ Vô Tâm sống sót sau đợt cắn trả của Ma Châu, lột xác thành "Hỗn Độn Băng Ma" và hướng về Băng Ngục Thành. |
+| Hôm nay | Tổng Quản | Viết Chương 128 (Góc Nhìn Chính) & Chương 122 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương bắt đầu hành trình đến Băng Ngục Thành. Lệ Vô Tâm tiến vào Băng Ngục Thành và bắt đầu cuộc thảm sát đẫm máu để củng cố sức mạnh mới. |
+| Hôm nay | Tổng Quản | Viết Chương 129 (Góc Nhìn Chính) & Chương 123 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương tiến vào vòng ngoài Băng Ngục Thành, phát hiện bãi chiến trường hoang tàn do Lệ Vô Tâm để lại. Cùng lúc đó, Lệ Vô Tâm tiến xuống các tầng sâu hơn, tàn sát Băng Huyết Tôn Giả trong Tứ Đại Ác Nhân để cướp đoạt tu vi chuẩn bị kết Kim Đan tà ác. |
+| Hôm nay | Tổng Quản | Viết Chương 130 (Góc Nhìn Chính) & Chương 124 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương khám phá tầng 2 Băng Ngục Thành và thấy Băng Huyết Tôn Giả bị tàn sát. Lệ Vô Tâm đang luyện hóa sức mạnh của Tôn Giả để kết Kim Đan tà ác và tiếp tục xuống các tầng sâu hơn. |
+| Hôm nay | Tổng Quản | Viết Chương 4, 5 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 4 (Đêm Dài Cảnh Giác) và Chương 5 (Bóng Dáng Kẻ Săn Mồi) về hành trình sau khi rời Hắc Mộc Lâm. |
 ### [System] - Review Dịch Thuật Tiếng Anh
 **Hành Động:** Đã thay thế tự động các từ khóa Tiếng Anh sang Tiếng Việt (Tiếng Trung) trong 162 tệp tin.
 
@@ -176,57 +228,9 @@
 - Cập nhật các chỉ lệnh trong thư mục `.jules` để áp dụng quy tắc "Tuyệt đối không dùng Tiếng Anh" với mọi Agent.
 
 **3. Kết Luận:** Đạt.
-| Hôm nay | Tổng Quản | Viết Chương 88 (Góc Nhìn Chính) & Chương 82 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Nhóm Tĩnh Sương tiến vào lãnh thổ Trung Tâm và bị phục kích. Lệ Vô Tâm được Huyết Thần Tử tẩy tủy và nâng cấp sức mạnh. |
-| Hôm nay | Tổng Quản | Viết Chương 90 (Góc Nhìn Chính) & Chương 84 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Nhóm Tĩnh Sương đến Cửu Hoa Kiếm Tông báo cáo. Lệ Vô Tâm tàn sát tiêu cục ở Trung Tâm để thử sức mạnh mới. |
-| Hôm nay | Tổng Quản | Viết Chương 91 (Góc Nhìn Chính) & Chương 85 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Tĩnh Sương phát hiện bí mật Lục Trần phá hoại Hộ Sơn Đại Trận bằng Huyết Tinh Oán Linh. Hai bên đụng độ. |
-| Hôm nay | Tổng Quản | Viết Chương 92 (Góc Nhìn Chính) & Chương 86 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Cuộc tử chiến tại cấm địa ngoại môn với Lục Trần. Lục Trần tẩu thoát, để lại sự hỗn loạn. Lệ Vô Tâm nhân cơ hội chôn giấu Huyết Tinh Phù. |
-| Hôm nay | Tổng Quản | Viết Chương 93 (Góc Nhìn Chính) & Chương 87 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Nhóm Tĩnh Sương báo cáo trong Hội Nghị Thượng Đỉnh tại Thiên Hoa Phong. Lệ Vô Tâm kích hoạt mạng lưới Huyết Tinh Phù, Huyết Sát Minh chính thức khai hỏa tấn công Cửu Hoa Kiếm Tông. |
-| Hôm nay | Tổng Quản | Viết Chương 94 (Góc Nhìn Chính) & Chương 88 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 4. Trận chiến bảo vệ Cửu Hoa Kiếm Tông bùng nổ. Lệ Vô Tâm dẫn quân thảm sát ngoại môn và đối mặt với nhóm Diệp Tĩnh Sương. |
-| Hôm nay | Tổng Quản | Viết Chương 95 (Góc Nhìn Chính) & Chương 89 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm thể hiện sức mạnh Vạn Độc Thân, áp đảo và suýt giết Diệp Tĩnh Sương, trước khi một cường giả Hóa Thần xuất hiện ngăn cản. |
-| Hôm nay | Tổng Quản | Sửa Lỗi Ngữ Pháp & Bổ Sung Bí Cảnh | Hoàn Thành | Chuẩn hóa các dấu chấm than dư thừa (`!!!`) thành `!` trong một số chương, bổ sung các Bí Cảnh (Phế Tích Nguyệt Quang, Hoàng Sa Địa Cung, Lưu Sa Phế Tích, Huyết Uyên, Bí Cảnh Huyết Sát) vào Bản Đồ Sơ Bộ theo yêu cầu tồn đọng. |
-| Hôm nay | Tổng Quản | Viết Chương 96 (Góc Nhìn Chính) & Chương 90 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Cường giả Hóa Thần (Thanh Hư) xuất hiện phá vỡ Vạn Độc Thân. Lệ Vô Tâm dùng Huyết Độn Phù chạy thoát, đại quân rút lui, kết thúc đợt tấn công đầu tiên. |
-| Hôm nay | Tổng Quản | Viết Chương 97 (Góc Nhìn Chính) & Chương 91 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Cửu Hoa Kiếm Tông khắc phục hậu quả đợt tấn công, Diệp Tĩnh Sương và Lâm Phong nhận ra uy lực của Hóa Thần nên quyết tâm tu luyện mạnh hơn. Lệ Vô Tâm báo cáo về Minh Chủ và nhận thức rõ thân phận là con cờ để nuôi tiếp tham vọng báo thù của bản thân. |
-| Hôm nay | Tổng Quản | Viết Chương 98 (Góc Nhìn Chính) & Chương 92 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Cửu Hoa Kiếm Tông đóng cửa sơn môn ba tháng, nhóm Tĩnh Sương bế quan tu luyện. Lệ Vô Tâm được Huyết Thần Tử chữa trị và nung nấu dã tâm lật đổ tất cả, bước vào quá trình tu luyện điên cuồng mới. Khép lại Arc 4. |
-| Hôm nay | Tổng Quản | Viết Chương 99 (Góc Nhìn Chính) & Chương 93 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Mở đầu Arc 5. Nhóm Diệp Tĩnh Sương xuất quan đột phá cảnh giới và tiến đến Đông Hoang. Lệ Vô Tâm đột phá Trúc Cơ Hậu Kỳ, nhận Huyết Sát Lệnh tiến đến Đông Hoang để tiếp tục đại nghiệp của Huyết Sát Minh và săn lùng Diệp Tĩnh Sương. |
-| Hôm nay | Tổng Quản | Viết Chương 114 (Góc Nhìn Chính) & Chương 108 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Cuộc chiến tại Đấu Trường xuất hiện biến số. Lục Mãng Vương và Huyết Hổ Vương can thiệp, tấn công Lệ Vô Tâm vì nhận ra bị thao túng. Đối mặt với vòng vây, Lệ Vô Tâm dùng Huyết Độn tẩu thoát. Trận huyết chiến tạm kết thúc. |
 
 ## 5. Kết Luận Chung
 Đã hoàn thành các tác vụ bổ sung cho các yêu cầu tồn đọng từ 2024-05-23:
 - Cập nhật chi tiết các Bí Cảnh tại Bản Đồ Sơ Bộ (`Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`).
 - Bổ sung chi tiết Tâm Ma Kiếp và Lôi Kiếp tại Hệ Thống Cảnh Giới (`Đạo/Tu_Luyện/Hệ_Thống_Cảnh_Giới.md`).
 - Bổ sung thông tin về Quan Hệ Chủng Tộc (`Đạo/Chủng_Tộc/Quan_Hệ_Chủng_Tộc.md`).
-| Hôm nay | Tổng Quản | Khởi tạo Hồ sơ Đông Hoang | Hoàn Thành | Khởi tạo Tệp Tin `Đông_Hoang.md` và `Vĩnh_Hằng_Sâm_Lâm.md` để cung cấp bối cảnh chi tiết cho Arc 5. |
-| Hôm nay | Tổng Quản | Viết Chương 100 (Góc Nhìn Chính) & Chương 94 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Mở màn diễn biến tại Đông Hoang. Nhóm Tĩnh Sương chạm trán cường đạo và hướng tới Vĩnh Hằng Sâm Lâm. Lệ Vô Tâm cũng phát hiện động tĩnh của Vạn Độc Môn tại đây và phái mật thám theo dõi. |
-| Hôm nay | Tổng Quản | Viết Chương 101 (Góc Nhìn Chính) & Chương 95 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục diễn biến Arc 5. Nhóm Diệp Tĩnh Sương tiến vào Vĩnh Hằng Sâm Lâm và đối mặt với Quang Điểu, Thụ Tinh Cổ Tích bị Huyết Hóa do Huyết Thần Độc. Lệ Vô Tâm đến Vĩnh Hằng Sâm Lâm, thu nạp tàn dư Vạn Độc Môn và giăng bẫy chờ nhóm Tĩnh Sương. |
-| Hôm nay | Tổng Quản | Viết Chương 102 (Góc Nhìn Chính) & Chương 96 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Nhóm Tĩnh Sương gặp Lục Tiêu của Tinh Linh Tộc để tìm cách giải quyết Huyết Thần Độc. Lệ Vô Tâm ở trong bóng tối theo dõi và sử dụng Huyết Tinh Phù giăng bẫy đội quân Huyết Thi. |
-| Hôm nay | Tổng Quản | Viết Chương 104 (Góc Nhìn Chính) & Chương 98 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Lục Tiêu dùng bí thuật thanh tẩy Huyết Thần Độc và mở đường máu thoát thân cùng Tĩnh Sương và Lâm Phong. Lệ Vô Tâm cố ý thả họ đi để lần theo dấu vết tìm đến Tinh Linh Vương Đình. |
-| Hôm nay | Tổng Quản | Viết Chương 105 (Góc Nhìn Chính) & Chương 99 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Nhóm Tĩnh Sương đến được rìa Tinh Linh Vương Đình, diện kiến Nguyệt Dao Nữ Vương và cảnh báo về mối đe dọa của Lệ Vô Tâm. Trong khi đó, Lệ Vô Tâm tìm ra lối vào bí mật của Tinh Linh Vương Đình, không vội tấn công mà bắt đầu gieo rắc Huyết Thần Độc vào nguồn nước và rải Huyết Tinh Phù xung quanh. |
-| Hôm nay | Tổng Quản | Viết Chương 106 (Góc Nhìn Chính) & Chương 100 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Huyết Thần Độc chính thức bùng phát tại Tinh Linh Vương Đình. Lệ Vô Tâm kích hoạt mạng lưới Huyết Tinh Phù và gọi Huyết Thi tấn công. Tĩnh Sương và Lâm Phong bắt đầu chiến đấu chống lại Tinh Linh bị Huyết Hóa. |
-| Hôm nay | Tổng Quản | Viết Chương 107 (Góc Nhìn Chính) & Chương 101 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Nhóm Tĩnh Sương mở đường máu thoát khỏi vòng vây của Huyết Thi, tiến tới bảo vệ trung tâm Tinh Linh Vương Đình. Trong khi đó, Lệ Vô Tâm đối đầu trực tiếp với Nguyệt Dao Nữ Vương, không ngại bộc lộ sức mạnh và dã tâm thống trị vạn vật. |
-| Hôm nay | Tổng Quản | Viết Chương 108 (Góc Nhìn Chính) & Chương 102 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Các tuyến truyện hội tụ, Tĩnh Sương và đồng bạn chi viện Nguyệt Dao. Đối mặt 1 địch 4, Lệ Vô Tâm kích nổ Huyết Long tẩu thoát. Trận huyết chiến tạm lắng với thương vong nặng nề cho Tinh Linh Tộc. |
-| Hôm nay | Tổng Quản | Viết Chương 109 (Góc Nhìn Chính) & Chương 103 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Nhóm Tĩnh Sương hỗ trợ Nguyệt Dao Nữ Vương thanh tẩy Huyết Thần Độc tại Vương Đình và ở lại tu dưỡng. Trong khi đó, Lệ Vô Tâm trốn thoát về Vĩnh Hằng Sâm Lâm, dưỡng thương và lên kế hoạch đầu độc Vạn Yêu Thành. |
-| Hôm nay | Tổng Quản | Viết Chương 110 (Góc Nhìn Chính) & Chương 104 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Nhóm Tĩnh Sương tại Vương Đình nhận được tin báo về biến động ở Vạn Yêu Thành và lên đường. Lệ Vô Tâm rải Huyết Tinh Phù vào Vạn Yêu Thành nhằm thao túng và gây chia rẽ giữa các Yêu Vương. |
-| Hôm nay | Tổng Quản | Viết Chương 111 (Góc Nhìn Chính) & Chương 105 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Nhóm Tĩnh Sương đến Vạn Yêu Thành điều tra Huyết Thần Độc. Lệ Vô Tâm kích động nội chiến giữa Lục Mãng Vương và Huyết Hổ Vương để hấp thụ huyết khí. |
-| Hôm nay | Tổng Quản | Viết Chương 112 (Góc Nhìn Chính) & Chương 106 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Nhóm Tĩnh Sương điều tra Khu Chợ Đen và phát hiện nguồn cung cấp Huyết Thần Độc. Lệ Vô Tâm hấp thu huyết khí từ trận chiến của các Yêu Vương, đột phá Trúc Cơ Viên Mãn và phát hiện nhóm Tĩnh Sương đã tới. |
-| Hôm nay | Tổng Quản | Viết Chương 113 (Góc Nhìn Chính) & Chương 107 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 5. Nhóm Tĩnh Sương và Lâm Phong đến Khu Đấu Trường và đụng độ trực tiếp Lệ Vô Tâm. Lệ Vô Tâm lúc này đã đột phá Trúc Cơ Viên Mãn, dùng sức mạnh áp đảo và gọi bầy Huyết Thi từ những cái xác yêu thú để tấn công họ. |
-| Hôm nay | Tổng Quản | Sáng Tác | Hoàn Thành | Tạo Chương 115 (Góc Nhìn Chính) và Chương 109 (Góc Nhìn Lệ Vô Tâm) cho Arc 5 tại Vạn Yêu Thành |
-| Hôm nay | Tổng Quản | Viết Chương 116 (Góc Nhìn Chính) & Chương 110 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tạo bối cảnh Phế Tích Huyết Dạ. Lệ Vô Tâm tiến vào phế tích Thượng Cổ để luyện hóa sát khí xung kích Kim Đan. Nhóm Tĩnh Sương theo dấu vết và tìm thấy cửa vào. |
-| Hôm nay | Tổng Quản | Viết Chương 117 (Góc Nhìn Chính) & Chương 111 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Nhóm Tĩnh Sương tiến vào Phế Tích Huyết Dạ, tiêu diệt Rết Lân Tinh khổng lồ và hướng tới Huyết Tế Đài. Lệ Vô Tâm bước vào thời khắc đột phá Kim Đan tà ác đầy rủi ro. |
-| Hôm nay | Tổng Quản | Viết Chương 118 (Góc Nhìn Chính) & Chương 112 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Nhóm Tĩnh Sương và hai Yêu Vương xông lên Huyết Tế Đài, phá vỡ Tụ Linh Trận và khiên máu của Lệ Vô Tâm. Bị Huyết Đan phản phệ trọng thương, Kim Đan thất bại, Lệ Vô Tâm phải dùng cấm thuật Huyết Độn tẩu thoát. Trận huyết chiến tại Phế Tích Huyết Dạ kết thúc. |
-| Hôm nay | Tổng Quản | Viết Chương 119 (Góc Nhìn Chính) & Chương 113 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Kết thúc Arc 5. Nhóm Tĩnh Sương phong ấn Phế Tích Huyết Dạ, khắc phục hậu quả và thiết lập trật tự Vạn Yêu Thành. Lệ Vô Tâm rơi xuống Tử Vong Chi Thung Lũng, nuốt Thiên Mệnh Hắc Liên để tái tạo lại cơ thể bằng ma khí. |
-| Hôm nay | Tổng Quản | Viết Chương 120 (Góc Nhìn Chính) & Chương 114 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Mở đầu Arc 6. Nhóm Tĩnh Sương nhận lệnh từ Cửu Hoa Kiếm Tông lên đường điều tra dị thường ở Bắc Băng. Lệ Vô Tâm lột xác thành công, nhận nhiệm vụ từ Huyết Sát Minh tới Bắc Băng thu thập Cực Hàn Ma Châu. |
-| Hôm nay | Tổng Quản | Viết Chương 121 (Góc Nhìn Chính) & Chương 115 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương đến Bắc Băng, gặp gỡ Sở Lăng Sương và chạm trán Tuyết Quỷ ma hóa. Lệ Vô Tâm cũng đến Bắc Băng, dùng ma khí khống chế Băng Hùng ma hóa, hướng tới Huyền Băng Cung tìm Cực Hàn Ma Châu. |
-| Hôm nay | Tổng Quản | Viết Chương 122 (Góc Nhìn Chính) & Chương 116 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương tiến vào Huyền Băng Cung, gặp Cung Chủ Lý Tuyết Ưng và nhận nhiệm vụ sửa phong ấn ở Tuyệt Băng Uyên. Lệ Vô Tâm thả quái vật đánh lạc hướng và xâm nhập thành công Tuyệt Băng Uyên. |
-| Hôm nay | Tổng Quản | Viết Chương 123 (Góc Nhìn Chính) & Chương 117 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương tiến xuống Tuyệt Băng Uyên và đụng độ Lệ Vô Tâm đang phá phong ấn Cực Hàn Ma Châu. |
-| Hôm nay | Tổng Quản | Viết Chương 124 (Góc Nhìn Chính) & Chương 118 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Trận tử chiến dưới đáy Tuyệt Băng Uyên. Lệ Vô Tâm sử dụng sức mạnh của Cực Hàn Ma Châu đang thức tỉnh để áp đảo nhóm Tĩnh Sương và chuẩn bị thu phục Ma Châu. |
-| Hôm nay | Tổng Quản | Khắc phục lỗi ngữ pháp | Hoàn Thành | Sửa "!!!" thành "!" trong Chương 114 Góc Nhìn Lệ Vô Tâm theo yêu cầu kiểm soát chất lượng. |
-| Hôm nay | Tổng Quản | Viết Chương 125 (Góc Nhìn Chính) & Chương 119 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Lệ Vô Tâm liều mạng nuốt chửng Cực Hàn Ma Châu để tẩu thoát. Tuyệt Băng Uyên sụp đổ, nhóm Tĩnh Sương được Cung Chủ Lý Tuyết Ưng ứng cứu. |
-| Hôm nay | Tổng Quản | Xóa File Trùng Lặp | Hoàn Thành | Xóa các file thừa của Chương 97 (Góc Nhìn Chính) và Chương 91 (Góc Nhìn Lệ Vô Tâm) do phát hiện đây là phiên bản lỗi, giữ lại file chuẩn. Cập nhật lại MỤC LỤC và Index. |
-| Hôm nay | Tổng Quản | Mở Rộng Thế Lực Đông Hoang | Hoàn Thành | Bổ sung chi tiết hồ sơ các thế lực `Vạn_Yêu_Thành.md`, `Ngự_Kiếm_Sơn_Trang.md`, `Thanh_Đế_Cung.md` tại Đông Hoang để chuẩn bị tài nguyên cho Arc 5. |
-| Hôm nay | Tổng Quản | Sửa Lỗi Tham Chiếu | Hoàn Thành | Phát hiện và sửa tự động/thủ công an toàn hàng loạt broken links trong toàn bộ các tệp tin markdown của dự án (không xóa dữ liệu). |
-| Hôm nay | Tổng Quản | Viết Chương 99 (Góc Nhìn Chính) & Chương 93 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Khởi đầu Arc 5. Nhóm Tĩnh Sương xuất quan, nhận nhiệm vụ từ Đại Trưởng Lão hướng về Đông Hoang tìm kiếm đồng minh. Cùng lúc, Lệ Vô Tâm cũng nhận Huyết Sát Lệnh tiến về Đông Hoang để thiết lập mạng lưới tình báo cho Huyết Sát Minh. |
-| Hôm nay | Tổng Quản | Viết Chương 126 (Góc Nhìn Chính) & Chương 120 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương về Huyền Băng Cung, Lý Tuyết Ưng phong tỏa Bắc Băng để đối phó với Cực Hàn Chi Khí bị rò rỉ. Lệ Vô Tâm lẩn trốn tại Băng Ngục Thành và luyện hóa thành công Cực Hàn Ma Châu. |
-| Hôm nay | Tổng Quản | Viết Chương 127 (Góc Nhìn Chính) & Chương 121 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương quyết định đến Băng Ngục Thành để truy tìm dấu vết Lệ Vô Tâm. Lệ Vô Tâm sống sót sau đợt cắn trả của Ma Châu, lột xác thành "Hỗn Độn Băng Ma" và hướng về Băng Ngục Thành. |
-| Hôm nay | Tổng Quản | Viết Chương 128 (Góc Nhìn Chính) & Chương 122 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương bắt đầu hành trình đến Băng Ngục Thành. Lệ Vô Tâm tiến vào Băng Ngục Thành và bắt đầu cuộc thảm sát đẫm máu để củng cố sức mạnh mới. |
-| Hôm nay | Tổng Quản | Viết Chương 129 (Góc Nhìn Chính) & Chương 123 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương tiến vào vòng ngoài Băng Ngục Thành, phát hiện bãi chiến trường hoang tàn do Lệ Vô Tâm để lại. Cùng lúc đó, Lệ Vô Tâm tiến xuống các tầng sâu hơn, tàn sát Băng Huyết Tôn Giả trong Tứ Đại Ác Nhân để cướp đoạt tu vi chuẩn bị kết Kim Đan tà ác. |
-| Hôm nay | Tổng Quản | Viết Chương 130 (Góc Nhìn Chính) & Chương 124 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương khám phá tầng 2 Băng Ngục Thành và thấy Băng Huyết Tôn Giả bị tàn sát. Lệ Vô Tâm đang luyện hóa sức mạnh của Tôn Giả để kết Kim Đan tà ác và tiếp tục xuống các tầng sâu hơn. |
