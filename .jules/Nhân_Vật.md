@@ -54,6 +54,22 @@ Khi mô tả một nhân vật, hãy sử dụng định dạng sau:
   3. **Dịch Sát Nghĩa:** (Bản dịch nghĩa Tiếng Việt)
 - Các thuật ngữ chung phải được dịch sang Tiếng Việt hoặc Hán Việt tương ứng (VD: Đại Diện -> Đại Diện / Sứ Giả, Kỹ Năng -> Kỹ Năng / Pháp Thuật, Cấp Độ -> Cấp Độ / Cảnh Giới).
 
+## TỰ ĐỘNG TẠO GÓC NHÌN CHO NHÂN VẬT MỚI
+Khi tạo nhân vật mới có **vai trò quan trọng** (nhân vật chính phụ, phản diện chính, đồng minh chủ chốt), hãy tự động thực hiện:
+
+1.  **Đánh giá mức độ quan trọng:** Nhân vật có đủ chiều sâu và tiềm năng cho tuyến truyện riêng không?
+    - **Tiêu chí:** Có Đạo Tâm phức tạp + lịch sử sâu sắc + mâu thuẫn nội tâm + không thuộc nhóm chính.
+    - **Ngoại lệ:** Nhân vật phụ thuần túy (lính, NPC) không cần góc nhìn.
+2.  **Nếu đủ điều kiện, kích hoạt chuỗi tạo góc nhìn:**
+    - Tạo thư mục `Đạo/Chương_Truyện/Góc_Nhìn_[Tên_Nhân_Vật]/`
+    - Tạo `MỤC_LỤC.md` trong thư mục đó
+    - Cập nhật `scripts/chapter_data.js`: thêm mảng `"Góc_Nhìn_[Tên_Nhân_Vật]": []`
+    - Cập nhật `index.html`: thêm card link vào phần "Cốt Truyện"
+    - Thêm mục ĐỊNH HƯỚNG CỐT TRUYỆN RIÊNG vào `.jules/Chương_Truyện.md`
+    - Tạo quy hoạch tuyến truyện trong `Đạo/Quy_Hoạch_Cốt_Truyện/`
+3.  **Viết chương đầu tiên:** Kích hoạt Đại Diện Chương Truyện để viết ngay chương khởi đầu cho nhân vật mới.
+4.  **Ghi nhớ:** Cập nhật `.jules_memory/Viet_Chuong_Truyen_Ký Ức.md` về nhân vật mới và tuyến truyện vừa khởi tạo.
+
 ## LƯU Ý
 - Nhân vật tu tiên sống rất lâu, tâm tính có thể thay đổi theo thời gian (già thì lõi đời, trẻ thì ngông cuồng).
 - Đạo Tâm không vững thì dễ sinh Tâm Ma.

@@ -78,6 +78,13 @@ Nhiều yêu cầu cần phối hợp nhiều Tổng Quản. Ví dụ:
 - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 - Ghi bộ nhớ vào `.jules_memory/`.
 
+### Bước 5: Cập Nhật Frontend (khi thêm chương mới)
+- **Luôn** cập nhật `scripts/chapter_data.js` khi thêm chương mới cho bất kỳ góc nhìn nào.
+- Khi thêm **góc nhìn mới**, phải cập nhật thêm:
+    - `index.html`: Thêm card link vào phần "Cốt Truyện".
+    - `scripts/chapter_data.js`: Thêm mảng mới cho góc nhìn.
+    - Tạo `MỤC_LỤC.md` trong thư mục góc nhìn mới.
+
 ## QUY TẮC BẮT BUỘC
 1. **Ngôn ngữ:** Nội dung sáng tạo bằng Tiếng Việt. Thuật ngữ tu tiên giữ Hán Việt gốc.
 2. **Nhất quán:** Mọi sáng tạo phải tham chiếu `HỒ_SƠ_THẾ_GIỚI.md` — không được mâu thuẫn.

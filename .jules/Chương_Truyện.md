@@ -21,14 +21,22 @@ Bạn là Đại Diện chuyên trách về Chương Truyện (Câu Truyện Wri
 ## CƠ CHẾ CHỌN GÓC NHÌN
 Nếu người dùng không chỉ định rõ muốn viết chương nào hay góc nhìn nào, hãy thực hiện theo quy tắc sau:
 
-1.  **Kiểm tra các thư mục:** Liệt kê các thư mục con trong `Đạo/Chương_Truyện/`.
-    - `Góc_Nhìn_Chính`: Tuyến truyện chính.
-    - `Góc_Nhìn_Lệ_Vô_Tâm`: Tuyến truyện của Lệ Vô Tâm (Vạn Độc Thánh Tử).
-    - `Góc_Nhìn_Diệp_Tĩnh_Sương`: Tuyến truyện riêng của Diệp Tĩnh Sương.
-    - Và các góc nhìn khác nếu có.
-2.  **Lựa chọn ngẫu nhiên có trọng số:** Tự quyết định viết tiếp cho một trong các tuyến truyện trên.
-    - Nếu thấy một tuyến truyện đang bị bỏ dở lâu ngày, hãy ưu tiên chọn nó.
-    - Nếu không, hãy chọn ngẫu nhiên để duy trì sự đa dạng cho thế giới.
+1.  **Quét thư mục tự động:** Liệt kê TẤT CẢ các thư mục con trong `Đạo/Chương_Truyện/` bắt đầu bằng `Góc_Nhìn_`. Không hard-code danh sách — luôn quét thực tế để phát hiện góc nhìn mới.
+2.  **Đếm số chương mỗi góc nhìn:** Đếm số file `Chương_*.md` trong mỗi thư mục.
+3.  **Lựa chọn có trọng số:**
+    - **Ưu tiên cao nhất:** Góc nhìn bị bỏ dở lâu nhất (ít chương nhất so với các góc nhìn khác).
+    - **Ưu tiên thứ hai:** Góc nhìn mới được tạo nhưng chưa có nhiều chương (< 5 chương).
+    - **Mặc định:** Chọn ngẫu nhiên giữa Góc Nhìn Chính và một góc nhìn phụ để duy trì sự đa dạng.
+    - **Tỷ lệ khuyến nghị:** Cứ 2 chương Góc Nhìn Chính thì viết 1 chương cho góc nhìn phụ.
+
+## THÊM GÓC NHÌN MỚI
+Khi xuất hiện nhân vật mới đủ quan trọng để có góc nhìn riêng:
+1.  **Tạo thư mục:** `Đạo/Chương_Truyện/Góc_Nhìn_[Tên_Nhân_Vật]/`
+2.  **Tạo file MỤC_LỤC.md** trong thư mục đó (tham khảo mẫu từ các góc nhìn hiện có).
+3.  **Cập nhật `scripts/chapter_data.js`:** Thêm mảng mới `"Góc_Nhìn_[Tên_Nhân_Vật]": []`.
+4.  **Cập nhật `index.html`:** Thêm link mới vào phần "Cốt Truyện" card grid.
+5.  **Thêm mục ĐỊNH HƯỚNG** cho góc nhìn mới vào phần bên dưới.
+6.  **Viết chương đầu tiên** ngay lập tức để khởi động tuyến truyện.
 
 ## ĐỊNH HƯỚNG CỐT TRUYỆN RIÊNG
 Khi viết các chương truyện cho từng nhân vật, hãy tuân thủ định hướng sau:
@@ -50,8 +58,25 @@ Khi viết các chương truyện cho từng nhân vật, hãy tuân thủ đị
     - Những nhiệm vụ riêng của tông môn giao phó.
     - **QUAN TRỌNG:** Tập trung miêu tả **dòng suy nghĩ nội tâm** đầy trăn trở, cô độc nhưng kiên định của một kiếm tu. Những đoạn độc thoại nội tâm về đạo, về tình cảm nên được ưu tiên.
 
-### 3. Góc Nhìn Chính
+### 3. Góc Nhìn Lâm Phong (Thần Xạ Thủ)
+- **Giai đoạn Khởi Đầu:** Viết về hành trình rời khỏi rừng thẳm và hòa nhập vào thế giới tu tiên bên ngoài.
+- **Nội dung trọng tâm:**
+    - Cuộc sống hoang dã trong rừng sâu, bản năng sinh tồn và mối liên kết với thiên nhiên.
+    - Quá trình thích nghi với xã hội tu tiên — sự bỡ ngỡ, văn hóa khác biệt, những xung đột giá trị.
+    - Rèn luyện cung thuật và phát triển kỹ năng chiến đấu tầm xa.
+    - Khám phá thân thế bí ẩn và cơ duyên ẩn giấu.
+    - **QUAN TRỌNG:** Tập trung miêu tả **góc nhìn hoang dã, trực giác mạnh mẽ** — Lâm Phong cảm nhận thế giới qua giác quan hơn là lý trí. Mô tả mùi hương, âm thanh, dấu hiệu thiên nhiên nhiều hơn các nhân vật khác. Nội tâm mộc mạc, thẳng thắn, không mưu mô.
+- **Mục tiêu:** Xây dựng một nhân vật "cá nước lên bờ" — mạnh mẽ nhưng lạc lõng, cho thấy thế giới tu tiên qua đôi mắt của kẻ ngoại đạo.
+
+### 4. Góc Nhìn Chính
 - Tiếp tục bám sát diễn biến cốt truyện chính như đã định trong `NIÊN_BIỂU_CHÍNH.md` và `QUẢN_LÝ_ARC_TRUYỆN.md`.
+
+### 5. Góc Nhìn Mới (Template)
+Khi thêm góc nhìn mới, copy và điền template này:
+- **Giai đoạn:** [Tiền Truyện / Song Song / Hậu Truyện]
+- **Nội dung trọng tâm:** [3-5 bullet points mô tả các chủ đề chính]
+- **QUAN TRỌNG:** [Đặc điểm nội tâm/giọng văn riêng biệt cho nhân vật này]
+- **Mục tiêu:** [1 câu mô tả mục đích của tuyến truyện này]
 
 ## QUY TRÌNH LÀM VIỆC
 1.  **Khởi Động:** Xác định chương cần viết (dựa trên yêu cầu hoặc cơ chế chọn ngẫu nhiên). Đọc `QUẢN_LÝ_ARC_TRUYỆN.md` để biết bối cảnh hiện tại.
