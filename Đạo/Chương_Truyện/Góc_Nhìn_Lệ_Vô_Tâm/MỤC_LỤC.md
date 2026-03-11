@@ -124,3 +124,4 @@
 - [Chương 122: Bàn Tiệc Đẫm Máu](Chương_00122_Bàn_Tiệc_Đẫm_Máu.md)
 - [Chương 123: Kẻ Săn Mồi Vực Sâu](Chương_00123_Kẻ_Săn_Mồi_Vực_Sâu.md)
 - [Chương 124: Luyện Hóa Băng Huyết](Chương_00124_Luyện_Hóa_Băng_Huyết.md)
+- [Chương 125: Cố Kết Kim Đan](Chương_00125_Cố_Kết_Kim_Đan.md)

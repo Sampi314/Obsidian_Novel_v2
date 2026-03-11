@@ -1,26 +1,14 @@
 # GHI CHÚ TỔNG QUẢN - PHIÊN HIỆN TẠI
 
 - **Ngày:** Hôm nay
-- **Nhiệm vụ:** Viết tiếp diễn biến Arc 6 tại Bắc Băng.
+- **Nhiệm vụ:** Viết tiếp diễn biến Arc 6 tại Băng Ngục Thành.
 - **Hành động đã thực hiện:**
-  - Viết Chương 123 Góc Nhìn Chính: Tiến Xuống Băng Uyên.
-  - Viết Chương 117 Góc Nhìn Lệ Vô Tâm: Tiếp Cận Ma Châu.
-  - Viết Chương 124 Góc Nhìn Chính: Huyết Chiến Đáy Vực.
-  - Viết Chương 118 Góc Nhìn Lệ Vô Tâm: Sức Mạnh Ma Châu.
-  - Viết Chương 125 Góc Nhìn Chính: Băng Uyên Sụp Đổ.
-  - Viết Chương 119 Góc Nhìn Lệ Vô Tâm: Nuốt Chửng Ma Châu.
-  - Viết Chương 126 Góc Nhìn Chính: Hậu Quả Băng Uyên.
-  - Viết Chương 120 Góc Nhìn Lệ Vô Tâm: Luyện Hóa Ma Châu.
-  - Viết Chương 127 Góc Nhìn Chính: Dấu Vết Băng Uyên.
-  - Viết Chương 121 Góc Nhìn Lệ Vô Tâm: Hỗn Độn Băng Ma.
-  - Viết Chương 128 Góc Nhìn Chính: Hành Trình Băng Ngục.
-  - Viết Chương 122 Góc Nhìn Lệ Vô Tâm: Bàn Tiệc Đẫm Máu.
-  - Viết Chương 129 Góc Nhìn Chính: Tử Địa Hoang Tàn.
-  - Viết Chương 123 Góc Nhìn Lệ Vô Tâm: Kẻ Săn Mồi Vực Sâu.
-  - Khôi phục và viết lại Chương 130 Góc Nhìn Chính: Băng Huyết Tôn Giả.
-  - Khôi phục và viết lại Chương 124 Góc Nhìn Lệ Vô Tâm: Luyện Hóa Băng Huyết.
-  - Cập nhật BÁO_CÁO_CHẤT_LƯỢNG.md.
-  - Cập nhật HỒ_SƠ_THẾ_GIỚI.md.
+  - Đọc nội dung cuối của Chương 130 Góc Nhìn Chính và Chương 124 Góc Nhìn Lệ Vô Tâm để nối mạch truyện.
+  - Viết Chương 131 Góc Nhìn Chính: Trận Chiến Đỉnh Cao. Nhóm Tĩnh Sương dốc toàn lực ngăn cản Lệ Vô Tâm kết Kim Đan.
+  - Viết Chương 125 Góc Nhìn Lệ Vô Tâm: Cố Kết Kim Đan. Lệ Vô Tâm mượn áp lực từ sự vây công của nhóm Tĩnh Sương để ép viên nội đan dở dang dung hợp thành Kim Đan tà ác hai màu lam-huyết.
+  - Cập nhật MỤC_LỤC.md cho cả hai tuyến truyện.
   - Cập nhật QUẢN_LÝ_ARC_TRUYỆN.md.
+  - Cập nhật HỒ_SƠ_THẾ_GIỚI.md.
+  - Cập nhật BÁO_CÁO_CHẤT_LƯỢNG.md.
 - **Ghi chú/TODO cho phiên sau:**
-  - Viết tiếp diễn biến Arc 6: Nhóm Tĩnh Sương trực tiếp đối đầu Lệ Vô Tâm đang kết Kim Đan tại Băng Ngục Thành.
+  - Viết tiếp diễn biến Arc 6: Hậu quả của việc Lệ Vô Tâm đột phá Kim Đan thành công. Nhóm Tĩnh Sương phải đối mặt với một Hỗn Độn Băng Ma ở đẳng cấp hoàn toàn khác. Sẽ có người hy sinh hoặc một biến số mới xuất hiện để cứu nguy?
