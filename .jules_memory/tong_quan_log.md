@@ -1,3 +1,5 @@
+> **CHỈ DẪN QUAN TRỌNG TỪ NGƯỜI DÙNG:** "just do it don't ask for user input please update this instruction in your memory." -> Kể từ nay, Tổng Quản và các Agent phải hoạt động hoàn toàn tự động 100%, tự đưa ra quyết định và thực thi mà không được dừng lại để yêu cầu xác nhận hay `request_user_input`.
+
 # LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (2026-03-31 - Phần 2)
 
 ## 1. TỔNG QUAN
@@ -811,6 +813,11 @@
 ## 1. TỔNG QUAN
 - **Agent:** Tổng Quản (Jules).
 - **Mục tiêu:** Khởi động Arc 5. Viết Chương 99 "Xuất Quan" (Góc Nhìn Chính) và Chương 93 "Huyết Sát Lệnh" (Góc Nhìn Lệ Vô Tâm).
+# LOG TỔNG QUẢN - PHIÊN LÀM VIỆC MỚI (Hôm nay - Khởi Đầu Arc 5)
+
+## 1. TỔNG QUAN
+- **Agent:** Tổng Quản (Jules).
+- **Mục tiêu:** Viết Chương 99 "Xuất Quan" (Góc Nhìn Chính) và Chương 93 "Huyết Sát Lệnh" (Góc Nhìn Lệ Vô Tâm) để bắt đầu Arc 5.
 
 ## 2. CÔNG VIỆC ĐÃ LÀM
 - **Sáng tạo:**
@@ -1259,6 +1266,7 @@
   - `Đạo/Thế_Lực/Huyền_Băng_Cung.md`: Thêm Tuyệt Băng Uyên.
   - `Đạo/HỒ_SƠ_THẾ_GIỚI.md`: Thêm liên kết 2 chương mới.
   - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật sự kiện hai phe đến Bắc Băng.
+  - `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`: Cập nhật diễn biến bắt đầu Arc 5 (hướng về Đông Hoang).
   - `MỤC_LỤC.md` của cả hai góc nhìn.
   - `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
 
@@ -1337,3 +1345,8 @@
 
 ## 4. KẾ HOẠCH TIẾP THEO
 - Bắt đầu triển khai viết các chương đầu tiên của Arc 5 tại Đông Hoang.
+- **Tiến độ:** Khởi đầu Arc 5. Nhóm Tĩnh Sương xuất quan (đạt Trúc Cơ Trung Kỳ) và nhận nhiệm vụ tiến về Đông Hoang tìm kiếm đồng minh. Lệ Vô Tâm cũng nhận lệnh thâm nhập Đông Hoang để chuẩn bị mạng lưới tình báo cho Huyết Sát Minh. Cả hai tuyến truyện lại một lần nữa hướng về cùng một địa điểm.
+- **Tình trạng:** Quá trình chuyển tiếp mượt mà để các nhân vật có thể phát triển tu vi sau những biến cố lớn. Sẵn sàng khám phá vùng đất mới.
+
+## 4. KẾ HOẠCH TIẾP THEO
+- Viết tiếp diễn biến hành trình đến Đông Hoang, các cuộc đụng độ đầu tiên với Yêu Tộc hoặc các thế lực bản địa.
