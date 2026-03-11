@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chương 00128 Hành Trình Băng Ngục</title>
+    <style>
+        :root {
+            --bg-dark: #12100e;
+            --bg-lighter: #1e1a17;
+            --text-gold: #d4af37;
+            --text-gold-hover: #f1c40f;
+            --text-light: #e0d8c8;
+            --text-muted: #9e917d;
+            --accent-red: #8b0000;
+            --accent-jade: #00a86b;
+            --border-color: #4a3c31;
+        }
+
+        body {
+            font-family: "Georgia", "Times New Roman", Times, serif;
+            line-height: 1.8;
+            color: var(--text-light);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: var(--bg-dark);
+            background-image: radial-gradient(circle at center, #1a1614 0%, #12100e 100%);
+            border-left: 2px solid var(--border-color);
+            border-right: 2px solid var(--border-color);
+            min-height: 100vh;
+        }
+
+        h1 {
+            color: var(--text-gold);
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            border-bottom: 2px solid var(--accent-red);
+            padding-bottom: 15px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+            position: relative;
+        }
+
+        h1::after {
+            content: "☯";
+            display: block;
+            font-size: 0.8em;
+            color: var(--text-muted);
+            margin-top: 10px;
+            text-align: center;
+            text-shadow: none;
+        }
+
+        h2, h3 {
+            color: var(--accent-jade);
+            margin-top: 50px;
+            font-size: 1.8em;
+            border-bottom: 1px dashed var(--border-color);
+            padding-bottom: 8px;
+            text-align: left;
+            letter-spacing: 1px;
+        }
+
+        h3 {
+            font-size: 1.4em;
+            margin-top: 30px;
+            border-bottom: none;
+        }
+
+        p {
+            font-size: 1.1em;
+            color: var(--text-light);
+            text-align: justify;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 40px;
+            margin-top: 20px;
+            color: var(--text-light);
+            font-size: 1.1em;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: var(--text-gold);
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--text-gold-hover);
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 80px;
+            text-align: center;
+            font-size: 0.9em;
+            color: var(--text-muted);
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 30px;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+        }
+
+        .back-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.05);
+        }
+
+        .header-links {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+        }
+
+        .edit-link {
+            display: inline-block;
+            color: var(--text-muted);
+            font-size: 1em;
+            border: 1px solid var(--border-color);
+            padding: 8px 15px;
+            border-radius: 3px;
+            transition: all 0.3s ease;
+            text-align: center;
+            text-decoration: none;
+            background-color: var(--bg-lighter);
+        }
+
+        .edit-link:hover {
+            color: var(--text-gold);
+            border-color: var(--text-gold);
+            background: rgba(212, 175, 55, 0.1);
+        }
+
+        /* Table styles for character/technique lists */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: var(--text-light);
+        }
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid var(--border-color);
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--bg-lighter);
+            color: var(--text-gold);
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgba(30, 26, 23, 0.5);
+        }
+
+        tr:hover {
+            background-color: rgba(212, 175, 55, 0.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="header-links">
+        <a href="../../../index.html" class="back-link">← Quay lại Trang Chủ</a>
+        <a href="https://github.com/sampi314/Obsidian_Novel_v2/edit/main/Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00128_Hành_Trình_Băng_Ngục.md" target="_blank" class="edit-link">✏️ Chỉnh sửa trên GitHub</a>
+    </div>
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../scripts/chapter_data.js"></script>
+<script src="../../../scripts/navigation.js"></script>
+<script src="../../../scripts/tts_player.js"></script>
+<!-- NAVIGATION_END -->
+<h1>Chương 128: Hành Trình Băng Ngục (冰狱之行)</h1>
+<br>
+<p>Gió rít gào như tiếng sói hoang thét giữa đêm trường. Từng bông tuyết lớn cỡ bàn tay bị cuộn tròn trong không trung, sắc bén như những lưỡi đao mỏng, chực chờ cắt xé bất cứ sinh vật nào dám thách thức thiên nhiên khắc nghiệt của phương Bắc.</p>
+<br>
+<p>Sau khi tạm biệt Cung Chủ Lý Tuyết Ưng và được trang bị đầy đủ đan dược cùng địa đồ, Diệp Tĩnh Sương và Lâm Phong đã lập tức khởi hành. Bọn họ không mang theo bất kỳ đệ tử nào của Huyền Băng Cung, bởi lẽ nhiệm vụ lần này đòi hỏi sự ẩn mật tuyệt đối. Băng Ngục Thành không phải là nơi có thể dùng vũ lực hay danh tiếng của danh môn chính phái để ra oai. Ngược lại, mang theo quá nhiều người chỉ càng làm kinh động đến những thế lực ngầm tại đó, và quan trọng nhất, sẽ đánh động Lệ Vô Tâm.</p>
+<br>
+<p>Diệp Tĩnh Sương khoác một tấm áo choàng lông cáo trắng muốt, gần như hòa làm một với khung cảnh tuyết trắng xung quanh. Băng Phách Kiếm nằm yên tĩnh sau lưng, tỏa ra một tầng chân khí nhạt nhòa giúp cô cản lại cái lạnh thấu xương đang chực chờ đóng băng kinh mạch. Dù vậy, cái lạnh ở Bắc Băng vẫn vượt xa những gì cô từng trải nghiệm ở Cửu Hoa Kiếm Tông.</p>
+<br>
+<p>Bên cạnh cô, Lâm Phong có vẻ chật vật hơn một chút. Mộc linh căn của hắn vốn tương sinh với sinh khí và hơi ấm, nơi tràn ngập linh khí hệ băng này rõ ràng không phải là đất diễn của hắn. Tuy nhiên, Thanh Mộc Trường Sinh Quyết vận chuyển không ngừng, tạo ra một màng bảo vệ màu xanh nhạt mỏng tang nhưng dẻo dai quanh cơ thể. Truy Phong Cung trong tay hắn luôn trong tư thế sẵn sàng chiến đấu.</p>
+<br>
+<p>"Nơi quỷ quái này thật sự là chỗ để con người sống sao?" Lâm Phong rùng mình, xoa xoa hai bàn tay đang đeo găng da thú. Dù đã có mộc linh khí bảo vệ, hắn vẫn cảm thấy hơi lạnh len lỏi vào từng tấc xương.</p>
+<br>
+<p>"Theo ghi chép trong Tàng Kinh Các của Cửu Hoa Kiếm Tông, Băng Ngục Thành vốn không phải là nơi để 'sống'." Diệp Tĩnh Sương đáp, giọng cô vẫn trong trẻo và tĩnh lặng như thường lệ, không hề bị gió tuyết lấn át. "Nó được xây dựng trên một hòn đảo băng khổng lồ trôi dạt trên Phiêu Miễu Băng Hải. Ban đầu, đây là một đại lao khổng lồ do nhiều thế lực cổ đại hợp lực tạo ra để giam giữ những kẻ tội ác tày trời, những cường giả mà họ không thể hoặc không dám giết."</p>
+<br>
+<p>"Một cái nhà tù siêu cấp sao?" Lâm Phong tò mò.</p>
+<br>
+<p>"Đúng vậy," Diệp Tĩnh Sương gật đầu. "Trải qua hàng vạn năm, nơi đây dần dần thoát khỏi sự kiểm soát của bất kỳ tông môn nào. Những kẻ bị lưu đày, những tà tu chạy trốn sự truy sát, và cả những kẻ tham lam muốn tìm kiếm những bí pháp cổ xưa bị cấm đoán... tất cả đổ dồn về đó. Luật lệ duy nhất ở Băng Ngục Thành là sức mạnh. Nơi đó không có công lý, chỉ có kẻ mạnh và kẻ yếu."</p>
+<br>
+<p>Lâm Phong huýt sáo một tiếng rõ to. "Nghe có vẻ là một nơi lý tưởng cho một kẻ như Lệ Vô Tâm. Chẳng trách hắn lại hướng về đó ngay sau khi thoát khỏi Tuyệt Băng Uyên. Hắn cần một nơi hỗn loạn để hấp thu huyết khí và oán khí, nhằm củng cố sức mạnh của thứ 'Hỗn Độn Băng Ma' mà hắn vừa tạo ra."</p>
+<br>
+<p>Diệp Tĩnh Sương khẽ nhíu mày. Hình ảnh Lệ Vô Tâm liều mạng nuốt chửng Cực Hàn Ma Châu vẫn in đậm trong tâm trí cô. Thứ sức mạnh lai tạp giữa Cực Hàn và tà khí từ Thiên Mệnh Hắc Liên đó quá đáng sợ. Nếu để hắn hoàn toàn kiểm soát được nó, e rằng cả Cổ Nguyên Giới sẽ đối mặt với một thảm họa không lường trước được.</p>
+<br>
+<p>Đột nhiên, bước chân của Diệp Tĩnh Sương khựng lại. Nàng giơ tay ra hiệu cho Lâm Phong dừng bước. Băng Phách Kiếm khẽ rung lên bần bật, phát ra tiếng kiếm minh lanh lảnh nhưng dồn dập, biểu thị một mối nguy hiểm đang tiến đến gần.</p>
+<br>
+<p>"Có chuyện gì vậy?" Lâm Phong nhỏ giọng, bàn tay đã vươn ra sau lưng rút ra một mũi Truy Phong Tiễn.</p>
+<br>
+<p>"Linh khí phía trước rất hỗn loạn... Không chỉ là linh khí hệ băng, mà còn có... ma khí." Ánh mắt Diệp Tĩnh Sương trở nên sắc bén. Cô nhắm mắt lại, phóng thần thức ra xa, cố gắng xuyên thấu qua bức màn bão tuyết dày đặc.</p>
+<br>
+<p>Một lát sau, cô mở bừng mắt. "Chuẩn bị chiến đấu. Chúng ta không đơn độc ở đây."</p>
+<br>
+<p>Từ trong cơn bão tuyết mờ mịt, những bóng đen bắt đầu hiện rõ. Đó không phải là con người, mà là một đàn Tuyết Lang. Nhưng chúng không giống bất kỳ con sói tuyết nào mà bọn họ từng thấy.</p>
+<br>
+<p>Cơ thể chúng to lớn gấp đôi sói tuyết bình thường, bộ lông trắng muốt vốn có giờ đây bị nhuộm những mảng màu xám tro nham nhở. Đôi mắt chúng không phải màu xanh lục bích của sự hoang dã, mà là một màu đỏ đục ngầu, tràn ngập sự điên loạn và khát máu. Từ những kẽ răng nanh sắc nhọn, từng dòng dãi đen ngòm nhỏ xuống, chạm vào tuyết lập tức xèo xèo bốc khói, chứng tỏ sự độc hại.</p>
+<br>
+<p>"Tuyệt thật, lại là những sinh vật bị nhiễm ma khí." Lâm Phong tặc lưỡi. "Lệ Vô Tâm có vẻ rất thích để lại dấu vết trên đường đi."</p>
+<br>
+<p>"Sự rò rỉ của Cực Hàn Ma Châu kết hợp với khí tức của Thiên Mệnh Hắc Liên đã tạo ra sự biến đổi này," Diệp Tĩnh Sương giải thích, đồng thời rút Băng Phách Kiếm ra khỏi vỏ. Ánh kiếm sáng rực như vầng trăng lạnh, xua tan một phần bóng tối của cơn bão. "Đừng để chúng cắn trúng. Ma khí trong cơ thể chúng có thể làm đình trệ kinh mạch."</p>
+<br>
+<p>"Đã rõ!"</p>
+<br>
+<p>Vút!</p>
+<br>
+<p>Lâm Phong là người ra tay trước. Hắn kéo căng dây cung, Truy Phong Tiễn lao đi xé gió, găm thẳng vào đầu con Tuyết Lang đang lao tới gần nhất. Mũi tên mang theo lực xoáy của phong linh lực khoan thủng hộp sọ con quái thú. Nó rống lên thảm thiết rồi gục xuống tuyết, nhưng ngay sau đó, cơ thể nó bùng nổ, bắn ra vô số những mảnh xương sắc nhọn tẩm đầy ma khí đen ngòm.</p>
+<br>
+<p>"Cẩn thận! Chúng có thể tự bạo!" Diệp Tĩnh Sương hét lớn, vung kiếm vẽ ra một bức tường băng chặn đứng những mảnh xương độc hại.</p>
+<br>
+<p>"Sương Hàn Cửu Thiên!"</p>
+<br>
+<p>Nàng không chần chừ, lập tức tung ra một trong những chiêu thức mạnh nhất của Hàn Mai Kiếm Quyết. Kiếm khí lạnh lẽo bùng nổ, hóa thành vô số bông hoa mai bằng băng xoáy tròn giữa không trung, lao thẳng vào giữa đàn Tuyết Lang.</p>
+<br>
+<p>Những bông hoa băng mang theo cái lạnh thấu xương, vừa chạm vào cơ thể những con thú đã lập tức đóng băng mạch máu và kinh mạch của chúng, ngăn chặn khả năng tự bạo. Chỉ trong chớp mắt, hơn chục con Tuyết Lang bị biến thành những bức tượng băng xám xịt, cứng đờ giữa cơn bão.</p>
+<br>
+<p>Nhưng số lượng quái thú dường như không có dấu hiệu giảm đi. Tiếng tru tréo rùng rợn vẫn tiếp tục vang lên từ mọi phía, báo hiệu một bầy đàn lớn hơn đang tiến lại.</p>
+<br>
+<p>"Chúng ta không thể dây dưa ở đây mãi được! Càng đánh sẽ càng thu hút thêm nhiều quái thú!" Lâm Phong liên tục bắn tên yểm trợ, hô lớn. "Cửa ngõ Băng Ngục Thành còn bao xa?"</p>
+<br>
+<p>Diệp Tĩnh Sương lấy la bàn định vị ra liếc nhanh. "Khoảng mười dặm nữa về phía Tây Bắc! Có một hẻm núi hẹp tên là Quỷ Môn Quan, đó là con đường duy nhất dẫn lên đảo băng!"</p>
+<br>
+<p>"Được! Ta mở đường, cô cản hậu! Rút lui theo hướng đó!"</p>
+<br>
+<p>Lâm Phong thi triển Mộc Độn Thuật kết hợp với Phong Ảnh Bộ, cơ thể hắn thoắt ẩn thoắt hiện trong bão tuyết, liên tục xả những mũi tên mang theo lực lượng đẩy lùi mạnh mẽ để mở ra một con đường máu. Diệp Tĩnh Sương đi theo sát phía sau, Băng Phách Kiếm linh hoạt múa lượn, hóa giải mọi đòn tấn công từ phía sau và hai bên sườn.</p>
+<br>
+<p>Cứ như vậy, hai người vừa đánh vừa lùi, từ từ tiến gần hơn đến mục tiêu. Bão tuyết ngày càng dữ dội, dường như thiên nhiên cũng muốn cản bước chân họ.</p>
+<br>
+<p>Sau gần một canh giờ chiến đấu căng thẳng, một vách núi đen ngòm sừng sững hiện ra trong tầm mắt, cắt ngang nền tuyết trắng xóa. Ở giữa vách núi là một khe hẹp tối tăm, sâu hun hút, gió rít qua khe hẹp tạo thành những tiếng gào thét rùng rợn như hàng ngàn oan hồn đang khóc than.</p>
+<br>
+<p>Đó chính là Quỷ Môn Quan.</p>
+<br>
+<p>"Tới rồi! Mau vào trong!" Diệp Tĩnh Sương hét lên, tung một đòn kiếm khí khổng lồ hất văng đám Tuyết Lang đang bám đuổi sát nút.</p>
+<br>
+<p>Lâm Phong vọt vào trong khe hẹp đầu tiên, Diệp Tĩnh Sương theo sát phía sau. Ngay khi cả hai vừa bước qua ranh giới của Quỷ Môn Quan, một sự im lặng kỳ lạ lập tức bao trùm. Tiếng bão tuyết, tiếng gào thét của lũ quái thú dường như bị một kết giới vô hình chặn lại bên ngoài.</p>
+<br>
+<p>Tuy nhiên, sự im lặng này lại mang đến một cảm giác rùng rợn gấp trăm lần so với cơn bão ngoài kia.</p>
+<br>
+<p>Hai người nhìn nhau, thở hổn hển. Bọn họ biết rằng, những con quái thú ma hóa ngoài kia chỉ là trò trẻ con so với những gì đang chờ đợi họ bên trong Băng Ngục Thành. Cánh cửa địa ngục thực sự đã mở ra.</p>
+<br>
+<p>"Hoan nghênh đến với thế giới của kẻ chết..." Một giọng nói khàn đặc, the thé bất chợt cất lên từ bóng tối sâu thẳm trong hẻm núi, mang theo một tia trào phúng lạnh lẽo.</p>
+<br>
+<p>Diệp Tĩnh Sương siết chặt chuôi kiếm, ánh mắt đanh lại. Cuộc chiến thực sự bây giờ mới bắt đầu.</p>
+<br>
+    <div class="footer">
+        <p>Thế Giới Tiên Hiệp Cố Nguyên &copy; 2024</p>
+    </div>
+</body>
+</html>
