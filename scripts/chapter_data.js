@@ -515,6 +515,10 @@ window.chapterData = {
       "title": "Chương 126: Hậu Quả Băng Uyên"
     },
     {
+      "filename": "Chương_00127_Dấu_Vết_Băng_Uyên.md",
+      "title": "Chương 127: Dấu Vết Băng Uyên"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -1037,6 +1041,10 @@ window.chapterData = {
     {
       "filename": "Chương_00120_Luyện_Hóa_Ma_Châu.md",
       "title": "Chương 120: Luyện Hóa Ma Châu"
+    },
+    {
+      "filename": "Chương_00121_Hỗn_Độn_Băng_Ma.md",
+      "title": "Chương 121: Hỗn Độn Băng Ma"
     }
   ]
 };
