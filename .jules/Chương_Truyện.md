@@ -78,10 +78,46 @@ Khi thêm góc nhìn mới, copy và điền template này:
 - **QUAN TRỌNG:** [Đặc điểm nội tâm/giọng văn riêng biệt cho nhân vật này]
 - **Mục tiêu:** [1 câu mô tả mục đích của tuyến truyện này]
 
+## QUY TẮC NHỊP ĐỘ (PACING) — BẮT BUỘC
+
+### 🚫 CẤM TUYỆT ĐỐI
+- **KHÔNG BAO GIỜ** nhét cả một Arc vào một chương. Một Arc phải trải dài **tối thiểu 5-10 chương**.
+- **KHÔNG BAO GIỜ** tóm tắt/lướt qua sự kiện quan trọng. Nếu sự kiện đáng kể, nó xứng đáng được miêu tả chi tiết.
+- **KHÔNG BAO GIỜ** nhảy thời gian lớn (vài ngày/tuần/tháng) giữa các đoạn trong cùng một chương mà không có lý do tường thuật.
+- **KHÔNG BAO GIỜ** giới thiệu và giải quyết xung đột trong cùng một chương (trừ xung đột phụ rất nhỏ).
+
+### ✅ QUY TẮC NHỊP ĐỘ
+1.  **Mỗi chương chỉ bao phủ 1-2 cảnh chính.** Một "cảnh" là một đơn vị hành động diễn ra trong cùng một địa điểm và khoảng thời gian liên tục.
+2.  **Mỗi chương chỉ tiến cốt truyện một bước nhỏ.** Ví dụ:
+    - ✅ Chương 1: Nhân vật phát hiện manh mối → Chương 2: Điều tra manh mối → Chương 3: Đối đầu kẻ thù
+    - ❌ Chương 1: Phát hiện manh mối, điều tra, đối đầu, giải quyết xong
+3.  **Cliffhanger/Treo cổ:** Mỗi chương nên kết thúc với một câu hỏi mở hoặc tình huống căng thẳng chưa được giải quyết, khiến người đọc muốn đọc tiếp.
+4.  **Phân bổ nhịp độ trong một Arc:**
+    - **Chương mở đầu Arc (1-2 chương):** Giới thiệu bối cảnh, tình huống, nhân vật mới (nếu có). Nhịp chậm, tả cảnh nhiều, xây dựng không khí.
+    - **Chương phát triển (3-5 chương):** Xung đột leo thang dần, thu thập thông tin, rèn luyện, gặp gỡ, đồng minh/kẻ thù. Nhịp trung bình, xen kẽ hành động và đối thoại.
+    - **Chương cao trào (2-3 chương):** Đại chiến, đối đầu lớn, bí mật bị vạch trần. Nhịp nhanh, hành động dồn dập, căng thẳng tột độ.
+    - **Chương kết Arc (1-2 chương):** Hệ quả, phần thưởng, suy ngẫm, chuẩn bị chuyển tiếp. Nhịp chậm lại, nội tâm sâu sắc, giao điểm với Arc tiếp theo.
+5.  **Độ dài mỗi chương:** Tối thiểu **2000 từ**, khuyến khích **3000-5000 từ**. Không viết chương dưới 1500 từ.
+6.  **Quy tắc "Show, don't skip":**
+    - Nếu nhân vật di chuyển từ A đến B, miêu tả hành trình (cảnh vật, suy nghĩ, gặp gỡ dọc đường) thay vì "Hắn đến nơi B."
+    - Nếu nhân vật tu luyện, miêu tả quá trình (cảm giác khí lưu chuyển, đau đớn, đột phá) thay vì "Sau 3 ngày, hắn đột phá thành công."
+    - Nếu có trận chiến, miêu tả từng giai đoạn (thăm dò → giao tranh → cao trào → kết quả) thay vì "Hắn đánh bại đối thủ."
+
+### 📊 KIỂM TRA TRƯỚC KHI VIẾT
+Trước khi bắt đầu viết, tự hỏi:
+- [ ] Chương này chỉ bao phủ 1-2 cảnh chính?
+- [ ] Chương này KHÔNG giải quyết hết xung đột đang mở?
+- [ ] Chương này kết thúc với câu hỏi mở/cliffhanger?
+- [ ] Chương này có ít nhất 2000 từ nội dung thực sự (không tính metadata)?
+- [ ] Chương này KHÔNG tóm tắt/lướt qua sự kiện quan trọng?
+
+---
+
 ## QUY TRÌNH LÀM VIỆC
 1.  **Khởi Động:** Xác định chương cần viết (dựa trên yêu cầu hoặc cơ chế chọn ngẫu nhiên). Đọc `QUẢN_LÝ_ARC_TRUYỆN.md` để biết bối cảnh hiện tại.
 2.  **Thu Thập Nguyên Liệu:** Yêu cầu các Đại Diện chuyên môn cung cấp thơ, nhạc, công pháp, cảnh chiến đấu... (nếu cần).
 3.  **Chắp Bút:** Viết chương truyện dựa trên dàn ý và nguyên liệu đã có.
+    - **Kiểm tra pacing trước khi viết** (xem mục QUY TẮC NHỊP ĐỘ ở trên).
     - Đảm bảo mạch văn trôi chảy, logic.
     - Chuyển tiếp mượt mà giữa các phân cảnh.
 4.  **Hoàn Thiện & Lưu Trữ:**
