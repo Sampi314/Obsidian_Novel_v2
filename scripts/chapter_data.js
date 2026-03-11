@@ -491,6 +491,10 @@ window.chapterData = {
       "title": "Chương 119: Khắc Phục Hậu Quả Vạn Yêu Thành"
     },
     {
+      "filename": "Chương_00120_Hành_Trình_Mới.md",
+      "title": "Chương 120: Tiếng Gọi Từ Phương Bắc"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -989,6 +993,10 @@ window.chapterData = {
     {
       "filename": "Chương_00113_Rơi_Vào_Vực_Thẳm.md",
       "title": "Chương 113: Rơi Vào Vực Thẳm"
+    },
+    {
+      "filename": "Chương_00114_Ma_Tâm_Trỗi_Dậy.md",
+      "title": "Chương 114: Ma Tâm Trỗi Dậy"
     }
   ]
 };

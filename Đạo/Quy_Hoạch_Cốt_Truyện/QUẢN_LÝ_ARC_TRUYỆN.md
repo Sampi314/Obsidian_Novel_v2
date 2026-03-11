@@ -178,7 +178,7 @@
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương và Yêu Vương xông lên Huyết Tế Đài, phối hợp phá vỡ Tụ Linh Trận và khiên máu của Lệ Vô Tâm. Lệ Vô Tâm bị Huyết Đan phản phệ trọng thương, Kim Đan thất bại, buộc phải dùng Huyết Độn tẩu thoát, để lại sự hỗn loạn tại Phế Tích Huyết Dạ (Hoàn thành - Chương 118 Góc Nhìn Chính / Chương 112 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới (Kết thúc Arc 5):** Nhóm Tĩnh Sương cùng Lục Mãng Vương và Huyết Hổ Vương phong ấn Phế Tích Huyết Dạ, dọn dẹp Huyết Thần Độc và tái thiết lập trật tự Vạn Yêu Thành. Nhóm Tĩnh Sương chuẩn bị rời đi (Hoàn thành - Chương 119 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Lệ Vô Tâm trốn thoát đến Tử Vong Chi Thung Lũng ở rìa Đông Hoang. Với cơ thể tàn phế, hắn nuốt "Thiên Mệnh Hắc Liên" để tái tạo kinh mạch bằng ma khí, quyết tâm dấn thân sâu hơn vào con đường ma đạo cực đoan (Hoàn thành - Chương 113 Góc Nhìn Lệ Vô Tâm).
-
+    - **Sự Kiện Mới (Arc 6 Khởi Đầu):** Nhóm Tĩnh Sương nhận được lệnh từ Cửu Hoa Kiếm Tông tiến về Bắc Băng do có tin tức bất thường từ Huyền Băng Cung. Đồng thời Lệ Vô Tâm tái tạo xong cơ thể ma quỷ và nhận lệnh từ Huyết Sát Minh đến Bắc Băng tìm "Cực Hàn Ma Châu". Cả hai tuyến truyện hướng về phía Bắc (Hoàn thành - Chương 120 Góc Nhìn Chính / Chương 114 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
