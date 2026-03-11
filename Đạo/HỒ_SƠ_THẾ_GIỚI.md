@@ -206,6 +206,7 @@
     - [Chương 117: Tiếp Cận Ma Châu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00117_Tiếp_Cận_Ma_Châu.md)
     - [Chương 118: Sức Mạnh Ma Châu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00118_Sức_Mạnh_Ma_Châu.md)
     - [Chương 119: Nuốt Chửng Ma Châu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00119_Nuốt_Chửng_Ma_Châu.md)
+    - [Chương 120: Luyện Hóa Ma Châu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00120_Luyện_Hóa_Ma_Châu.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -265,6 +266,7 @@
     - [Chương 123: Tiến Xuống Băng Uyên](Chương_Truyện/Góc_Nhìn_Chính/Chương_00123_Tiến_Xuống_Băng_Uyên.md)
     - [Chương 124: Huyết Chiến Đáy Vực](Chương_Truyện/Góc_Nhìn_Chính/Chương_00124_Huyết_Chiến_Đáy_Vực.md)
     - [Chương 125: Băng Uyên Sụp Đổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00125_Băng_Uyên_Sụp_Đổ.md)
+    - [Chương 126: Hậu Quả Băng Uyên](Chương_Truyện/Góc_Nhìn_Chính/Chương_00126_Hậu_Quả_Băng_Uyên.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)
