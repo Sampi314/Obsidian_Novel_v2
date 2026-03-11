@@ -310,7 +310,7 @@
     - [Băng Lang Bộ Lạc](Thế_Lực/Băng_Lang_Bộ_Lạc.md)
     - [Cực Quang Thần Điện](Thế_Lực/Cực_Quang_Thần_Điện.md)
     - [Sương Ma Uyển](Thế_Lực/Sương_Ma_Uyển.md)
-    - [Băng Ngục Thành](Thế_Lực/Băng_Ngục_Thành.md)
+    - [Băng Ngục Thành](Thế_Lực/Băng_Ngục_Thành.md): Lồng giam dưới lòng đất của Huyền Băng Cung, hiện đang bị Lệ Vô Tâm tàn sát (Chương 128-130).
     - [Hàn Kiếm Cốc](Thế_Lực/Hàn_Kiếm_Cốc.md)
     - [Tuyết Cự Nhân Đảo](Thế_Lực/Tuyết_Cự_Nhân_Đảo.md)
     - [Phiêu Miễu Băng Hải](Thế_Lực/Phiêu_Miễu_Băng_Hải.md)

@@ -17,8 +17,10 @@
   - Viết Chương 122 Góc Nhìn Lệ Vô Tâm: Bàn Tiệc Đẫm Máu.
   - Viết Chương 129 Góc Nhìn Chính: Tử Địa Hoang Tàn.
   - Viết Chương 123 Góc Nhìn Lệ Vô Tâm: Kẻ Săn Mồi Vực Sâu.
+  - Khôi phục và viết lại Chương 130 Góc Nhìn Chính: Băng Huyết Tôn Giả.
+  - Khôi phục và viết lại Chương 124 Góc Nhìn Lệ Vô Tâm: Luyện Hóa Băng Huyết.
   - Cập nhật BÁO_CÁO_CHẤT_LƯỢNG.md.
   - Cập nhật HỒ_SƠ_THẾ_GIỚI.md.
   - Cập nhật QUẢN_LÝ_ARC_TRUYỆN.md.
 - **Ghi chú/TODO cho phiên sau:**
-  - Viết tiếp diễn biến Arc 6: Các tầng sâu của Băng Ngục Thành. Lệ Vô Tâm săn giết nốt các Ác Nhân còn lại để đoạt Kim Đan. Nhóm Tĩnh Sương lần theo dấu vết để cản phá mưu đồ kết đan của hắn.
+  - Viết tiếp diễn biến Arc 6: Nhóm Tĩnh Sương trực tiếp đối đầu Lệ Vô Tâm đang kết Kim Đan tại Băng Ngục Thành.
