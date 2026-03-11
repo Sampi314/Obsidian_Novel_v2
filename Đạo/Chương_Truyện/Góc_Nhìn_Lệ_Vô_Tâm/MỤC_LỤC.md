@@ -119,3 +119,8 @@
 - [Chương 117: Tiếp Cận Ma Châu](Chương_00117_Tiếp_Cận_Ma_Châu.md)
 - [Chương 118: Sức Mạnh Ma Châu](Chương_00118_Sức_Mạnh_Ma_Châu.md)
 - [Chương 119: Nuốt Chửng Ma Châu](Chương_00119_Nuốt_Chửng_Ma_Châu.md)
+- [Chương 120: Luyện Hóa Ma Châu](Chương_00120_Luyện_Hóa_Ma_Châu.md)
+- [Chương 121: Hỗn Độn Băng Ma](Chương_00121_Hỗn_Độn_Băng_Ma.md)
+- [Chương 122: Bàn Tiệc Đẫm Máu](Chương_00122_Bàn_Tiệc_Đẫm_Máu.md)
+- [Chương 123: Kẻ Săn Mồi Vực Sâu](Chương_00123_Kẻ_Săn_Mồi_Vực_Sâu.md)
+- [Chương 124: Luyện Hóa Băng Huyết](Chương_00124_Luyện_Hóa_Băng_Huyết.md)
