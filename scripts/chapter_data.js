@@ -487,6 +487,10 @@ window.chapterData = {
       "title": "Chương 118: Quyết Chiến Huyết Tế Đài"
     },
     {
+      "filename": "Chương_00119_Khắc_Phục_Hậu_Quả_Vạn_Yêu_Thành.md",
+      "title": "Chương 119: Khắc Phục Hậu Quả Vạn Yêu Thành"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -981,6 +985,10 @@ window.chapterData = {
     {
       "filename": "Chương_00112_Huyết_Đan_Phản_Phệ.md",
       "title": "Chương 112: Huyết Đan Phản Phệ"
+    },
+    {
+      "filename": "Chương_00113_Rơi_Vào_Vực_Thẳm.md",
+      "title": "Chương 113: Rơi Vào Vực Thẳm"
     }
   ]
 };
