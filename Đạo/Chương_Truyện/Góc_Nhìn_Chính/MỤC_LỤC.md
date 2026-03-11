@@ -118,3 +118,7 @@
 - [Chương 115: Đối Thoại Yêu Vương](Chương_00115_Đối_Thoại_Yêu_Vương.md)
 - [Chương 116: Hang Động Mãng Tộc](Chương_00116_Hang_Động_Mãng_Tộc.md)
 - [Chương 117: Tiến Vào Phế Tích](Chương_00117_Tiến_Vào_Phế_Tích.md)
+- [Chương 118: Quyết Chiến Huyết Tế Đài](Chương_00118_Quyết_Chiến_Huyết_Tế_Đài.md)
+- [Chương 119: Khắc Phục Hậu Quả Vạn Yêu Thành](Chương_00119_Khắc_Phục_Hậu_Quả_Vạn_Yêu_Thành.md)
+- [Chương 120: Hành Trình Mới](Chương_00120_Hành_Trình_Mới.md)
+- [Chương 121: Sương Giá Nghênh Đón](Chương_00121_Sương_Giá_Nghênh_Đón.md)
