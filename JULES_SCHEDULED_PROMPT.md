@@ -100,10 +100,70 @@ Quét toàn bộ cây thư mục `Đạo/` và đánh giá những gì đã có 
 
 ## ⚡ GIAI ĐOẠN 3: THỰC THI
 
-Dựa trên đánh giá, kích hoạt chuỗi Agent phù hợp. Ví dụ:
+### 📋 QUY TẮC VIẾT CHƯƠNG — THỨ TỰ BẮT BUỘC
+
+Khi viết chương truyện, **PHẢI** tuân thủ quy trình sau:
+
+#### Bước 3.1: Kiểm tra tiến độ tất cả góc nhìn
+
+Quét tất cả thư mục `Đạo/Chương_Truyện/Góc_Nhìn_*/` và đếm số chương mỗi góc nhìn:
+
+```
+Ví dụ:
+  Góc_Nhìn_Chính:           134 chương
+  Góc_Nhìn_Diệp_Tĩnh_Sương: 42 chương (từ chương main 90)
+  Góc_Nhìn_Lâm_Phong:         3 chương (BỊ TỤT LẠI)
+  Góc_Nhìn_Lệ_Vô_Tâm:      128 chương
+```
+
+#### Bước 3.2: Xác định góc nhìn bị tụt lại (CATCH-UP)
+
+Nếu một góc nhìn phụ có **ít hơn 50% số chương** so với Góc Nhìn Chính hoặc các góc nhìn phụ khác → đó là góc nhìn cần **catch-up ưu tiên**.
+
+**Quy tắc catch-up:**
+- Góc nhìn bị tụt lại **PHẢI được viết trước** cho đến khi bắt kịp timeline hiện tại của tuyến truyện chính.
+- "Bắt kịp" nghĩa là: câu chuyện của nhân vật đó đã phát triển đến mốc thời gian tương đương với tuyến chính hiện tại (kiểm tra qua `QUẢN_LÝ_ARC_TRUYỆN.md`).
+- Trong thời gian catch-up, **mỗi lần chạy chỉ viết cho góc nhìn bị tụt**, không viết góc nhìn khác.
+
+#### Bước 3.3: Sau khi tất cả góc nhìn đã cân bằng — Viết theo danh sách xoay vòng
+
+Khi tất cả góc nhìn đã cân bằng (timeline tương đương), viết chương theo thứ tự **xoay vòng cố định**:
+
+```
+1. Góc Nhìn Chính          (2 chương)
+2. Góc Nhìn Lệ Vô Tâm     (1 chương)
+3. Góc Nhìn Chính          (2 chương)
+4. Góc Nhìn Diệp Tĩnh Sương (1 chương)
+5. Góc Nhìn Chính          (2 chương)
+6. Góc Nhìn Lâm Phong      (1 chương)
+7. (Lặp lại từ bước 1)
+```
+
+**Quy tắc xoay vòng:**
+- Góc Nhìn Chính luôn chiếm **2 phần** trong mỗi vòng (vì là tuyến chính).
+- Mỗi góc nhìn phụ chiếm **1 phần** trong vòng xoay.
+- Khi có góc nhìn mới, tự động thêm vào cuối danh sách xoay vòng.
+- Ghi nhớ vị trí hiện tại trong vòng xoay vào `.jules_memory/Viet_Chuong_Truyen_Ký Ức.md`.
+
+#### Bước 3.4: Khi tạo nhân vật mới có góc nhìn riêng
+
+Khi Agent Nhân Vật tạo nhân vật mới đủ quan trọng (xem `.jules/Nhân_Vật.md`):
+1. **Tạo cơ sở hạ tầng:** Thư mục, MỤC_LỤC.md, chapter_data.js, index.html.
+2. **TẠM DỪNG** vòng xoay chương hiện tại.
+3. **Catch-up toàn bộ:** Viết liên tục cho góc nhìn mới cho đến khi bắt kịp timeline tuyến chính.
+4. **Quay lại** vòng xoay bình thường (nhân vật mới được thêm vào danh sách xoay vòng).
+
+---
+
+### 🔧 Bảng Tình Huống Thực Thi
+
+Dựa trên đánh giá, kích hoạt chuỗi Agent phù hợp:
 
 | Tình Huống | Chuỗi Agent |
 |-----------|------------|
+| Góc nhìn bị tụt lại | **Ưu tiên tối cao:** Chương Truyện (viết catch-up cho góc nhìn đó) |
+| Nhân vật mới cần góc nhìn | Nhân Vật → tạo cơ sở hạ tầng → Chương Truyện (catch-up) |
+| Tất cả góc nhìn cân bằng | Chương Truyện (viết theo vòng xoay) → Kiểm Soát Chất Lượng |
 | Người dùng để TODO/comment trong file | Agent phù hợp với nội dung file → Kiểm Soát Chất Lượng |
 | Người dùng xóa file nhân vật | Phân tích lỗi cũ → Kiến Tạo Nhân Vật (làm lại tốt hơn) |
 | Người dùng sửa file thế giới | Đọc bản sửa → cập nhật mọi file liên quan cho nhất quán |
