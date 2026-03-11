@@ -532,6 +532,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00134_Hội_Nghị_Khẩn_Cấp.md",
       "title": "Chương 134: Hội Nghị Khẩn Cấp"
+    },
+    {
+      "filename": "Chương_00135_Hội_Nghị_Thượng_Đỉnh.md",
+      "title": "Chương 135: Hội Nghị Thượng Đỉnh"
     }
   ],
   "Góc_Nhìn_Diệp_Tĩnh_Sương": [
@@ -1098,6 +1102,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00128_Quyền_Lực_Mới.md",
       "title": "Chương 128: Quyền Lực Mới"
+    },
+    {
+      "filename": "Chương_00129_Nước_Cờ_Đầu_Tiên.md",
+      "title": "Chương 129: Nước Cờ Đầu Tiên"
     }
   ]
 });
