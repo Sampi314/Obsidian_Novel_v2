@@ -483,6 +483,10 @@ window.chapterData = {
       "title": "Chương 117: Tiến Vào Phế Tích"
     },
     {
+      "filename": "Chương_00118_Quyết_Chiến_Huyết_Tế_Đài.md",
+      "title": "Chương 118: Quyết Chiến Huyết Tế Đài"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -973,6 +977,10 @@ window.chapterData = {
     {
       "filename": "Chương_00111_Huyết_Tế_Đài.md",
       "title": "Chương 111: Huyết Tế Đài"
+    },
+    {
+      "filename": "Chương_00112_Huyết_Đan_Phản_Phệ.md",
+      "title": "Chương 112: Huyết Đan Phản Phệ"
     }
   ]
 };
