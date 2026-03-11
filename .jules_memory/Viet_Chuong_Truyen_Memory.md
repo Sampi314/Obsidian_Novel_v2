@@ -431,3 +431,11 @@
 - **Lệ Vô Tâm:** Đang trong giai đoạn then chốt kết Kim Đan, bị đánh lén và phá Tụ Linh Trận. Huyết Đan mất nguồn cung cấp, nứt vỡ phản phệ, tàn phá kinh mạch và cơ thể.
 - **Kết quả:** Kim Đan thất bại, cơ thể trọng thương. Dùng cấm thuật Huyết Độn tẩu thoát vào hư không, thề sẽ quay lại trả thù.
 - **Chương liên quan:** Góc Nhìn Chính Chương 118, Góc Nhìn Lệ Vô Tâm Chương 112.
+
+## Phiên làm việc: Viết Chương 123 (Góc Nhìn Chính) & Chương 117 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 123:** Tiến Xuống Băng Uyên
+- **Chương 117:** Tiếp Cận Ma Châu
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Nhóm Tĩnh Sương tiến xuống Tuyệt Băng Uyên thực hiện nhiệm vụ, tiêu diệt quái vật ma hóa và phát hiện kẻ thù đã đi trước. Lệ Vô Tâm lợi dụng sự hỗn loạn bên trên để xâm nhập sâu vào vực thẳm, dùng Hắc Liên ăn mòn phong ấn Cực Hàn Ma Châu. Hai bên chính thức đụng độ.
+- **Tình trạng:** Hoàn thành. Tiếp tục Arc 6 tại Bắc Băng.
