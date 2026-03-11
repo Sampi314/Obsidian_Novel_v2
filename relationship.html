@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quan Hệ Đồ — Cố Nguyên Giới</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Noto+Serif+TC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --void: #0a0908;
+            --ink: #1a1714;
+            --gold: #c9a96e;
+            --gold-bright: #e4c98a;
+            --gold-dim: #8a7549;
+            --crimson: #6b1c23;
+            --jade: #2d6a4f;
+            --jade-bright: #40916c;
+            --bone: #d4cbbf;
+            --ash: #7a7067;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Lora', 'Georgia', serif;
+            background: var(--void);
+            color: var(--bone);
+            min-height: 100vh;
+            overflow-x: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        /* Noise */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            opacity: 0.03;
+            pointer-events: none;
+            z-index: 9999;
+            background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+            background-repeat: repeat;
+            background-size: 256px 256px;
+        }
+
+        /* ── Background ── */
+        .scene {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            z-index: 0;
+        }
+
+        .scene-bg {
+            position: absolute;
+            width: 100%; height: 100%;
+            background:
+                radial-gradient(ellipse 80% 60% at 50% 50%, rgba(45, 106, 79, 0.04) 0%, transparent 60%),
+                radial-gradient(ellipse 50% 40% at 30% 40%, rgba(201, 169, 110, 0.025) 0%, transparent 50%),
+                var(--void);
+        }
+
+        /* ── Formation Array Being Drawn ── */
+        .array-container {
+            position: relative;
+            width: 400px; height: 400px;
+            z-index: 5;
+            margin-bottom: 40px;
+        }
+
+        /* Animated drawing rings */
+        .array-ring {
+            position: absolute;
+            top: 50%; left: 50%;
+            border-radius: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .array-ring--outer {
+            width: 360px; height: 360px;
+            border: 1px solid transparent;
+            animation: draw-ring 3s ease-out 0.5s forwards;
+        }
+
+        .array-ring--mid {
+            width: 260px; height: 260px;
+            border: 1px solid transparent;
+            animation: draw-ring 2.5s ease-out 1s forwards;
+        }
+
+        .array-ring--inner {
+            width: 160px; height: 160px;
+            border: 1px solid transparent;
+            animation: draw-ring 2s ease-out 1.5s forwards;
+        }
+
+        @keyframes draw-ring {
+            0% {
+                border-color: transparent;
+                box-shadow: none;
+            }
+            30% {
+                border-color: rgba(45, 106, 79, 0.2);
+            }
+            100% {
+                border-color: rgba(45, 106, 79, 0.1);
+                box-shadow: 0 0 20px rgba(45, 106, 79, 0.05);
+            }
+        }
+
+        /* Rotating formation lines */
+        .array-lines {
+            position: absolute;
+            top: 50%; left: 50%;
+            width: 340px; height: 340px;
+            transform: translate(-50%, -50%);
+            animation: slow-rotate 60s linear infinite;
+            opacity: 0;
+            animation: array-appear 2s ease-out 1.5s forwards, slow-rotate 60s linear 3.5s infinite;
+        }
+
+        @keyframes slow-rotate {
+            from { transform: translate(-50%, -50%) rotate(0deg); }
+            to { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+
+        @keyframes array-appear {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .array-line {
+            position: absolute;
+            top: 50%; left: 50%;
+            width: 1px;
+            height: 170px;
+            transform-origin: top center;
+            background: linear-gradient(to bottom, rgba(45, 106, 79, 0.15), transparent);
+        }
+
+        /* Trigram characters around the array */
+        .array-char {
+            position: absolute;
+            font-family: 'Noto Serif TC', serif;
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: rgba(201, 169, 110, 0.08);
+            text-shadow: 0 0 10px rgba(201, 169, 110, 0.04);
+            opacity: 0;
+            animation: char-appear 1s ease-out forwards;
+        }
+
+        @keyframes char-appear {
+            from { opacity: 0; transform: scale(0.5); }
+            to { opacity: 1; transform: scale(1); }
+        }
+
+        /* Pulsing center node */
+        .array-center {
+            position: absolute;
+            top: 50%; left: 50%;
+            transform: translate(-50%, -50%);
+            width: 12px; height: 12px;
+            border-radius: 50%;
+            background: rgba(201, 169, 110, 0.3);
+            box-shadow: 0 0 20px rgba(201, 169, 110, 0.15), 0 0 40px rgba(201, 169, 110, 0.05);
+            animation: center-pulse 3s ease-in-out infinite;
+            opacity: 0;
+            animation: center-appear 1s ease-out 2s forwards, center-pulse 3s ease-in-out 3s infinite;
+        }
+
+        @keyframes center-appear {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        @keyframes center-pulse {
+            0%, 100% { transform: translate(-50%, -50%) scale(1); box-shadow: 0 0 20px rgba(201, 169, 110, 0.15); }
+            50% { transform: translate(-50%, -50%) scale(1.5); box-shadow: 0 0 40px rgba(201, 169, 110, 0.25); }
+        }
+
+        /* Connecting node dots — future character positions */
+        .array-node {
+            position: absolute;
+            width: 6px; height: 6px;
+            border-radius: 50%;
+            background: rgba(45, 106, 79, 0.3);
+            box-shadow: 0 0 8px rgba(45, 106, 79, 0.15);
+            opacity: 0;
+            animation: node-appear 0.6s ease-out forwards;
+        }
+
+        @keyframes node-appear {
+            from { opacity: 0; transform: scale(0); }
+            to { opacity: 1; transform: scale(1); }
+        }
+
+        /* ── Text Content ── */
+        .coming-content {
+            position: relative;
+            z-index: 10;
+            text-align: center;
+            padding: 0 24px;
+        }
+
+        .coming-title {
+            font-family: 'Noto Serif TC', 'Playfair Display', serif;
+            font-size: clamp(1.4rem, 3vw, 2rem);
+            font-weight: 500;
+            color: var(--gold);
+            letter-spacing: 0.15em;
+            margin-bottom: 8px;
+            opacity: 0;
+            animation: fade-rise 1.2s ease-out 2.5s forwards;
+            text-shadow: 0 0 40px rgba(201, 169, 110, 0.12);
+        }
+
+        .coming-subtitle {
+            font-family: 'Playfair Display', serif;
+            font-size: clamp(0.8rem, 1.5vw, 0.95rem);
+            color: var(--ash);
+            letter-spacing: 0.3em;
+            margin-bottom: 28px;
+            opacity: 0;
+            animation: fade-rise 1.2s ease-out 2.8s forwards;
+        }
+
+        .coming-divider {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            justify-content: center;
+            margin-bottom: 24px;
+            opacity: 0;
+            animation: fade-rise 1.2s ease-out 3s forwards;
+        }
+
+        .coming-divider-line {
+            width: 50px; height: 1px;
+            background: linear-gradient(to right, transparent, rgba(45, 106, 79, 0.3));
+        }
+
+        .coming-divider-line:last-child {
+            background: linear-gradient(to left, transparent, rgba(45, 106, 79, 0.3));
+        }
+
+        .coming-divider-symbol {
+            font-family: 'Noto Serif TC', serif;
+            color: rgba(45, 106, 79, 0.4);
+            font-size: 0.9rem;
+        }
+
+        .coming-desc {
+            font-size: clamp(0.88rem, 1.3vw, 1rem);
+            color: var(--ash);
+            max-width: 500px;
+            margin: 0 auto 12px;
+            line-height: 1.9;
+            opacity: 0;
+            animation: fade-rise 1.2s ease-out 3.2s forwards;
+        }
+
+        .coming-verse {
+            font-family: 'Noto Serif TC', serif;
+            font-size: 0.82rem;
+            color: rgba(201, 169, 110, 0.25);
+            font-style: italic;
+            letter-spacing: 0.12em;
+            margin-bottom: 36px;
+            opacity: 0;
+            animation: fade-rise 1.2s ease-out 3.4s forwards;
+        }
+
+        .coming-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 14px 32px;
+            font-family: 'Playfair Display', serif;
+            font-size: 0.85rem;
+            letter-spacing: 0.1em;
+            text-decoration: none;
+            border-radius: 2px;
+            background: rgba(45, 106, 79, 0.1);
+            border: 1px solid rgba(45, 106, 79, 0.2);
+            color: var(--jade-bright);
+            transition: all 0.4s ease;
+            opacity: 0;
+            animation: fade-rise 1.2s ease-out 3.6s forwards;
+        }
+
+        .coming-btn:hover {
+            background: rgba(45, 106, 79, 0.18);
+            border-color: var(--jade-bright);
+            box-shadow: 0 4px 24px rgba(45, 106, 79, 0.1);
+            transform: translateY(-2px);
+        }
+
+        /* Status indicator */
+        .status-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 6px 16px;
+            border-radius: 20px;
+            border: 1px solid rgba(45, 106, 79, 0.15);
+            background: rgba(45, 106, 79, 0.05);
+            font-size: 0.75rem;
+            color: var(--jade-bright);
+            letter-spacing: 0.08em;
+            margin-bottom: 32px;
+            opacity: 0;
+            animation: fade-rise 1.2s ease-out 2.3s forwards;
+        }
+
+        .status-dot {
+            width: 6px; height: 6px;
+            border-radius: 50%;
+            background: var(--jade-bright);
+            animation: status-blink 2s ease-in-out infinite;
+        }
+
+        @keyframes status-blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        @keyframes fade-rise {
+            from { opacity: 0; transform: translateY(15px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Ambient particles */
+        .ambient-particle {
+            position: fixed;
+            border-radius: 50%;
+            z-index: 2;
+            pointer-events: none;
+            animation: ambient-float var(--dur) ease-in-out infinite;
+            animation-delay: var(--delay);
+        }
+
+        @keyframes ambient-float {
+            0%, 100% { transform: translateY(0); opacity: var(--o, 0.2); }
+            50% { transform: translateY(var(--dy, -20px)); opacity: calc(var(--o, 0.2) * 1.5); }
+        }
+
+        @media (max-width: 640px) {
+            .array-container { width: 280px; height: 280px; }
+            .array-ring--outer { width: 250px; height: 250px; }
+            .array-ring--mid { width: 180px; height: 180px; }
+            .array-ring--inner { width: 110px; height: 110px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="scene">
+        <div class="scene-bg"></div>
+    </div>
+
+    <!-- Formation Array Animation -->
+    <div class="array-container" id="array-container">
+        <div class="array-ring array-ring--outer"></div>
+        <div class="array-ring array-ring--mid"></div>
+        <div class="array-ring array-ring--inner"></div>
+        <div class="array-lines" id="array-lines"></div>
+        <div class="array-center"></div>
+    </div>
+
+    <div class="coming-content">
+        <div class="status-badge">
+            <div class="status-dot"></div>
+            Đang Xây Dựng
+        </div>
+
+        <h1 class="coming-title">Quan Hệ Đồ  關係圖</h1>
+        <p class="coming-subtitle">Biểu Đồ Quan Hệ Nhân Vật</p>
+
+        <div class="coming-divider">
+            <div class="coming-divider-line"></div>
+            <span class="coming-divider-symbol">陣</span>
+            <div class="coming-divider-line"></div>
+        </div>
+
+        <p class="coming-desc">
+            Trận pháp quan hệ đang được vẽ.<br>
+            Biểu đồ tương tác giữa các nhân vật trong Cố Nguyên Giới sẽ sớm hoàn thiện.
+        </p>
+
+        <p class="coming-verse">「 萬 物 皆 有 緣 ， 緣 起 緣 滅 」</p>
+
+        <a href="index.html" class="coming-btn">Về Trang Chủ</a>
+    </div>
+
+    <!-- Ambient particles -->
+    <div id="ambient-particles"></div>
+
+    <script src="scripts/navbar.js"></script>
+    <script>
+    (function() {
+        /* Formation lines */
+        var linesEl = document.getElementById('array-lines');
+        for (var l = 0; l < 8; l++) {
+            var line = document.createElement('div');
+            line.className = 'array-line';
+            var angle = (l / 8) * 360;
+            line.style.transform = 'rotate(' + angle + 'deg)';
+            linesEl.appendChild(line);
+        }
+
+        /* Trigram characters around array */
+        var container = document.getElementById('array-container');
+        var trigrams = ['乾', '兌', '離', '震', '巽', '坎', '艮', '坤'];
+        var cw = container.offsetWidth || 400;
+        var ch = container.offsetHeight || 400;
+        for (var t = 0; t < trigrams.length; t++) {
+            var tc = document.createElement('div');
+            tc.className = 'array-char';
+            tc.textContent = trigrams[t];
+            var angle = (t / trigrams.length) * 360;
+            var radius = (cw / 2) - 10;
+            var tx = (cw / 2) + radius * Math.cos((angle - 90) * Math.PI / 180) - 8;
+            var ty = (ch / 2) + radius * Math.sin((angle - 90) * Math.PI / 180) - 10;
+            tc.style.left = tx + 'px';
+            tc.style.top = ty + 'px';
+            tc.style.animationDelay = (2 + t * 0.15) + 's';
+            container.appendChild(tc);
+        }
+
+        /* Node dots on the mid ring */
+        var nodeCount = 6;
+        var midRadius = 130;
+        for (var n = 0; n < nodeCount; n++) {
+            var node = document.createElement('div');
+            node.className = 'array-node';
+            var nAngle = (n / nodeCount) * 360;
+            var nx = (cw / 2) + midRadius * Math.cos((nAngle - 90) * Math.PI / 180) - 3;
+            var ny = (ch / 2) + midRadius * Math.sin((nAngle - 90) * Math.PI / 180) - 3;
+            node.style.left = nx + 'px';
+            node.style.top = ny + 'px';
+            node.style.animationDelay = (1.8 + n * 0.2) + 's';
+            container.appendChild(node);
+        }
+
+        /* Ambient particles */
+        var ambEl = document.getElementById('ambient-particles');
+        for (var p = 0; p < 15; p++) {
+            var pt = document.createElement('div');
+            pt.className = 'ambient-particle';
+            var pSize = 1 + Math.random() * 3;
+            var pOp = 0.08 + Math.random() * 0.15;
+            var isJade = Math.random() > 0.4;
+            var c = isJade ? 'rgba(45,106,79,' + pOp + ')' : 'rgba(201,169,110,' + (pOp * 0.6) + ')';
+            pt.style.cssText =
+                'width:' + pSize + 'px;height:' + pSize + 'px;' +
+                'top:' + (Math.random() * 100) + '%;' +
+                'left:' + (Math.random() * 100) + '%;' +
+                'background:' + c + ';' +
+                'box-shadow:0 0 ' + (pSize * 3) + 'px ' + c + ';' +
+                '--dur:' + (4 + Math.random() * 8) + 's;' +
+                '--delay:' + (Math.random() * 6) + 's;' +
+                '--dy:' + (-10 - Math.random() * 20) + 'px;' +
+                '--o:' + pOp + ';';
+            ambEl.appendChild(pt);
+        }
+    })();
+    </script>
+</body>
+</html>

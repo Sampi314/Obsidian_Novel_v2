@@ -318,6 +318,11 @@
     }
   }, { passive: true });
 
+  // On non-index pages, start with scrolled (solid) state
+  if (!isIndex) {
+    bar.classList.add('mn-scrolled');
+  }
+
   // Initial check
   onScroll();
 
