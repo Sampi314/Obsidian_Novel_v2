@@ -519,6 +519,10 @@ window.chapterData = {
       "title": "Chương 127: Dấu Vết Băng Uyên"
     },
     {
+      "filename": "Chương_00128_Hành_Trình_Băng_Ngục.md",
+      "title": "Chương 128: Hành Trình Băng Ngục (冰狱之行)"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -1045,6 +1049,10 @@ window.chapterData = {
     {
       "filename": "Chương_00121_Hỗn_Độn_Băng_Ma.md",
       "title": "Chương 121: Hỗn Độn Băng Ma"
+    },
+    {
+      "filename": "Chương_00122_Bàn_Tiệc_Đẫm_Máu.md",
+      "title": "Chương 122: Bàn Tiệc Đẫm Máu (血腥盛宴)"
     }
   ]
 };

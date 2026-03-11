@@ -447,3 +447,11 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Cực Hàn Ma Châu phản kháng, Lệ Vô Tâm quyết định liều mạng nuốt chửng nó. Việc này gây ra vụ xung đột năng lượng khổng lồ làm sập Tuyệt Băng Uyên. Lệ Vô Tâm tạo khe nứt chạy thoát để dung hợp. Cung Chủ Lý Tuyết Ưng kịp thời xuất hiện kéo nhóm Tĩnh Sương lên khỏi vực sâu.
 - **Tình trạng:** Hoàn thành.
+
+## Phiên làm việc: Viết Chương 128 (Góc Nhìn Chính) & Chương 122 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 128:** Hành Trình Băng Ngục
+- **Chương 122:** Bàn Tiệc Đẫm Máu
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Nhóm Tĩnh Sương bắt đầu hành trình gian nan từ Huyền Băng Cung tới Băng Ngục Thành, chạm trán bầy sói tuyết bị ma hóa trên đường đi. Trong khi đó, Lệ Vô Tâm đã tiến vào Băng Ngục Thành. Hắn thử nghiệm sức mạnh mới của "Hỗn Độn Băng Ma" bằng cách tàn sát những tên tội phạm ở tầng ngoài cùng, hút huyết khí và oán khí để củng cố sức mạnh.
+- **Tình trạng:** Hoàn thành. Tiếp tục Arc 6 tại Bắc Băng.
