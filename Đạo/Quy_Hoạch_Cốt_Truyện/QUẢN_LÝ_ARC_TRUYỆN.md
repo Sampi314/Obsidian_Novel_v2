@@ -194,6 +194,8 @@
     - **Sự Kiện Mới:** Dưới uy áp Kim Đan, nhóm Tĩnh Sương bị áp đảo hoàn toàn. Lệ Vô Tâm vờn giỡn và chuẩn bị kết liễu, nhưng bị thần niệm của Cung Chủ Lý Tuyết Ưng từ Băng Tuyết Lệnh cản bước. Hắn đành để vuột mất con mồi và rời khỏi Bắc Băng (Hoàn thành - Chương 132 Góc Nhìn Chính / Chương 126 Góc Nhìn Lệ Vô Tâm).
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương được hư ảnh Lý Tuyết Ưng cứu thoát và hội ngộ cùng Cung Chủ thật ở mặt đất. Họ được dặn dò phải cấp tốc mang tin tức Lệ Vô Tâm kết Kim Đan báo cho Cửu Hoa Kiếm Tông (Hoàn thành - Chương 133 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Lệ Vô Tâm mang theo sức mạnh Kim Đan và Cực Hàn Ma Châu trở về căn cứ Huyết Sát Minh ở Huyết Uyên Đảo. Hắn thẳng tay tiêu diệt Huyết Tước, thu phục thuộc hạ để chứng minh sự tàn bạo, chuẩn bị đối đầu trực tiếp Huyết Thần Tử (Hoàn thành - Chương 127 Góc Nhìn Lệ Vô Tâm).
+    - **Sự Kiện Mới:** Nhóm Tĩnh Sương trở về Cửu Hoa Kiếm Tông, báo cáo với Thanh Hư lão tổ. Chính Đạo gửi Phi Kiếm Truyền Thư triệu tập Hội Nghị Khẩn Cấp đối phó với Huyết Sát Minh (Hoàn thành - Chương 134 Góc Nhìn Chính).
+    - **Sự Kiện Mới:** Lệ Vô Tâm diện kiến Huyết Thần Tử tại đại điện Huyết Sát Minh, bộc lộ uy áp Kim Đan song sắc. Một hiệp định tạm thời được thiết lập, xác nhận vị thế quyền lực mới của Lệ Vô Tâm (Hoàn thành - Chương 128 Góc Nhìn Lệ Vô Tâm).
 
 ### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.

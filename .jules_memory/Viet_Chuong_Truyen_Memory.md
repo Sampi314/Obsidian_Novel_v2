@@ -455,3 +455,11 @@
 - **Góc Nhìn:** Chính & Lệ Vô Tâm
 - **Tóm tắt:** Nhóm Tĩnh Sương bắt đầu hành trình gian nan từ Huyền Băng Cung tới Băng Ngục Thành, chạm trán bầy sói tuyết bị ma hóa trên đường đi. Trong khi đó, Lệ Vô Tâm đã tiến vào Băng Ngục Thành. Hắn thử nghiệm sức mạnh mới của "Hỗn Độn Băng Ma" bằng cách tàn sát những tên tội phạm ở tầng ngoài cùng, hút huyết khí và oán khí để củng cố sức mạnh.
 - **Tình trạng:** Hoàn thành. Tiếp tục Arc 6 tại Bắc Băng.
+
+## Phiên làm việc: Viết Chương 134 (Góc Nhìn Chính) & Chương 128 (Góc Nhìn Lệ Vô Tâm)
+- **Ngày:** Hôm nay
+- **Chương 134:** Hội Nghị Khẩn Cấp
+- **Chương 128:** Quyền Lực Mới
+- **Góc Nhìn:** Chính & Lệ Vô Tâm
+- **Tóm tắt:** Nhóm Tĩnh Sương đã trở về Cửu Hoa Kiếm Tông an toàn, báo cáo về việc Lệ Vô Tâm đã dung hợp Cực Hàn Ma Châu và kết thành Kim Đan. Thanh Hư lão tổ ngay lập tức truyền lệnh triệu tập Hội Nghị Khẩn Cấp toàn Chính Đạo. Về phía Lệ Vô Tâm, hắn diện kiến Huyết Thần Tử tại đại điện Huyết Sát Minh, bộc lộ uy áp Kim Đan song sắc. Một hiệp định tạm thời giữa hắn và Minh Chủ được thiết lập, chính thức xác nhận quyền lực mới của hắn trong hàng ngũ Ma Đạo.
+- **Tình trạng:** Hoàn thành. Cả hai tuyến truyện đang rục rịch tiến tới một cuộc đụng độ quy mô lớn.
