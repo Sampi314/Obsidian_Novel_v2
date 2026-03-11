@@ -201,6 +201,7 @@
     - [Chương 112: Huyết Đan Phản Phệ](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00112_Huyết_Đan_Phản_Phệ.md)
     - [Chương 113: Rơi Vào Vực Thẳm](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00113_Rơi_Vào_Vực_Thẳm.md)
     - [Chương 114: Ma Tâm Trỗi Dậy](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00114_Ma_Tâm_Trỗi_Dậy.md)
+    - [Chương 115: Bước Chân Của Quỷ](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00115_Bước_Chân_Của_Quỷ.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -255,6 +256,7 @@
     - [Chương 118: Quyết Chiến Huyết Tế Đài](Chương_Truyện/Góc_Nhìn_Chính/Chương_00118_Quyết_Chiến_Huyết_Tế_Đài.md)
     - [Chương 119: Khắc Phục Hậu Quả Vạn Yêu Thành](Chương_Truyện/Góc_Nhìn_Chính/Chương_00119_Khắc_Phục_Hậu_Quả_Vạn_Yêu_Thành.md)
     - [Chương 120: Hành Trình Mới](Chương_Truyện/Góc_Nhìn_Chính/Chương_00120_Hành_Trình_Mới.md)
+    - [Chương 121: Sương Giá Nghênh Đón](Chương_Truyện/Góc_Nhìn_Chính/Chương_00121_Sương_Giá_Nghênh_Đón.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)

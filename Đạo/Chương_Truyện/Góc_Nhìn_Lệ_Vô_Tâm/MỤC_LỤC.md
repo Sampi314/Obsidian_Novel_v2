@@ -56,3 +56,7 @@
 - [Chương 109: Bóng Tối Trỗi Dậy](Chương_00109_Bóng_Tối_Trỗi_Dậy.md)
 - [Chương 110: Phế Tích Huyết Dạ](Chương_00110_Phế_Tích_Huyết_Dạ.md)
 - [Chương 111: Huyết Tế Đài](Chương_00111_Huyết_Tế_Đài.md)
+- [Chương 112: Huyết Đan Phản Phệ](Chương_00112_Huyết_Đan_Phản_Phệ.md)
+- [Chương 113: Rơi Vào Vực Thẳm](Chương_00113_Rơi_Vào_Vực_Thẳm.md)
+- [Chương 114: Ma Tâm Trỗi Dậy](Chương_00114_Ma_Tâm_Trỗi_Dậy.md)
+- [Chương 115: Bước Chân Của Quỷ](Chương_00115_Bước_Chân_Của_Quỷ.md)

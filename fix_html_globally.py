@@ -1,6 +1,5 @@
 import os
 import re
-import glob
 
 def process_file(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
@@ -11,8 +10,13 @@ def process_file(filepath):
     # Remove YAML frontmatter wrapped in <p> tags
     content = re.sub(r'<p>---</p>\s*<p>title:\s*".*?"</p>\s*<p>---</p>\s*', '', content)
 
-    # Un-wrap navigation div
-    content = re.sub(r'<p><!-- NAVIGATION_START --></p>\s*<p><div class="navigation"></p>\s*<p>(.*?)</p>\s*<p></div></p>\s*<p><!-- NAVIGATION_END --></p>', r'<!-- NAVIGATION_START -->\n<div class="navigation">\n\1\n</div>\n<!-- NAVIGATION_END -->', content)
+    # Clean up navigation wrapper
+    content = content.replace('<p><!-- NAVIGATION_START --></p>', '<!-- NAVIGATION_START -->')
+    content = content.replace('<p><div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div></p>', '<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>')
+    content = content.replace('<p><script src="../../../scripts/chapter_data.js"></script></p>', '<script src="../../../scripts/chapter_data.js"></script>')
+    content = content.replace('<p><script src="../../../scripts/navigation.js"></script></p>', '<script src="../../../scripts/navigation.js"></script>')
+    content = content.replace('<p><script src="../../../scripts/tts_player.js"></script></p>', '<script src="../../../scripts/tts_player.js"></script>')
+    content = content.replace('<p><!-- NAVIGATION_END --></p>', '<!-- NAVIGATION_END -->')
 
     if content != original:
         with open(filepath, 'w', encoding='utf-8') as f:

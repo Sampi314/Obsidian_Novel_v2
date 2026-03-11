@@ -495,6 +495,10 @@ window.chapterData = {
       "title": "Chương 120: Tiếng Gọi Từ Phương Bắc"
     },
     {
+      "filename": "Chương_00121_Sương_Giá_Nghênh_Đón.md",
+      "title": "Chương 121: Sương Giá Nghênh Đón"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -997,6 +1001,10 @@ window.chapterData = {
     {
       "filename": "Chương_00114_Ma_Tâm_Trỗi_Dậy.md",
       "title": "Chương 114: Ma Tâm Trỗi Dậy"
+    },
+    {
+      "filename": "Chương_00115_Bước_Chân_Của_Quỷ.md",
+      "title": "Chương 115: Bước Chân Của Quỷ"
     }
   ]
 };
