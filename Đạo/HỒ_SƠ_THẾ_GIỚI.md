@@ -210,6 +210,7 @@
     - [Chương 121: Hỗn Độn Băng Ma](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00121_Hỗn_Độn_Băng_Ma.md)
     - [Chương 122: Bàn Tiệc Đẫm Máu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00122_Bàn_Tiệc_Đẫm_Máu.md)
     - [Chương 123: Kẻ Săn Mồi Vực Sâu](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00123_Kẻ_Săn_Mồi_Vực_Sâu.md)
+    - [Chương 124: Luyện Hóa Băng Huyết](Chương_Truyện/Góc_Nhìn_Lệ_Vô_Tâm/Chương_00124_Luyện_Hóa_Băng_Huyết.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Chính:**
         - [Chương 69: Nguồn Cội Thượng Cổ](Chương_Truyện/Góc_Nhìn_Chính/Chương_00069_Nguồn_Cội_Thượng_Cổ.md)
@@ -273,6 +274,7 @@
     - [Chương 127: Dấu Vết Băng Uyên](Chương_Truyện/Góc_Nhìn_Chính/Chương_00127_Dấu_Vết_Băng_Uyên.md)
     - [Chương 128: Hành Trình Băng Ngục](Chương_Truyện/Góc_Nhìn_Chính/Chương_00128_Hành_Trình_Băng_Ngục.md)
     - [Chương 129: Tử Địa Hoang Tàn](Chương_Truyện/Góc_Nhìn_Chính/Chương_00129_Tử_Địa_Hoang_Tàn.md)
+    - [Chương 130: Băng Huyết Tôn Giả](Chương_Truyện/Góc_Nhìn_Chính/Chương_00130_Băng_Huyết_Tôn_Giả.md)
 
     - **Diệp Tĩnh Sương (Hàn Mai Kiếm) - Góc Nhìn Riêng:**
         - [Chương 1: Tuyết Phủ Mộ Phần](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00001_Tuyết_Phủ_Mộ_Phần.md) (Quá khứ 10 năm trước)

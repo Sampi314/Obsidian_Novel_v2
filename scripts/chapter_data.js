@@ -524,7 +524,11 @@ window.chapterData = {
     },
     {
       "filename": "Chương_00129_Tử_Địa_Hoang_Tàn.md",
-      "title": "Chương 129: Tử Địa Hoang Tàn (荒芜死地)"
+      "title": "Chương 129: Tử Địa Hoang Tàn (荒蕪死地)"
+    },
+    {
+      "filename": "Chương_00130_Băng_Huyết_Tôn_Giả.md",
+      "title": "Chương 130: Băng Huyết Tôn Giả"
     },
     {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
@@ -1060,7 +1064,11 @@ window.chapterData = {
     },
     {
       "filename": "Chương_00123_Kẻ_Săn_Mồi_Vực_Sâu.md",
-      "title": "Chương 123: Kẻ Săn Mồi Vực Sâu (深渊猎手)"
+      "title": "Chương 123: Kẻ Săn Mồi Vực Sâu (深淵獵手)"
+    },
+    {
+      "filename": "Chương_00124_Luyện_Hóa_Băng_Huyết.md",
+      "title": "Chương 124: Luyện Hóa Băng Huyết"
     }
   ]
 };
