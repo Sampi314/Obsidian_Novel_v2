@@ -6,13 +6,10 @@
     var isReaderMode = !!readerFile;
 
     function injectStyles() {
-        // Skip style injection in reader mode — reader.html handles its own styles
-        if (isReaderMode) return;
-
-        // Main style sheet (legacy mode: HTML files in nested directories)
+        // Main style sheet — path depends on mode
         var link = document.createElement('link');
         link.rel = 'stylesheet';
-        link.href = '../../../scripts/style.css';
+        link.href = isReaderMode ? 'scripts/style.css' : '../../../scripts/style.css';
         document.head.appendChild(link);
 
         // Google Fonts
