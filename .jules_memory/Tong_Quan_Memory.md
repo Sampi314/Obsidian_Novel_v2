@@ -11,4 +11,4 @@
   - Cập nhật HỒ_SƠ_THẾ_GIỚI.md.
   - Cập nhật BÁO_CÁO_CHẤT_LƯỢNG.md.
 - **Ghi chú/TODO cho phiên sau:**
-  - Viết tiếp diễn biến Arc 6: Hậu quả của việc Lệ Vô Tâm đột phá Kim Đan thành công. Nhóm Tĩnh Sương phải đối mặt với một Hỗn Độn Băng Ma ở đẳng cấp hoàn toàn khác. Sẽ có người hy sinh hoặc một biến số mới xuất hiện để cứu nguy?
+  - Viết tiếp diễn biến sau khi Lệ Vô Tâm rời khỏi Bắc Băng và nhóm Diệp Tĩnh Sương sống sót nhờ Băng Tuyết Lệnh. Bắt đầu hướng tới việc nhóm Tĩnh Sương báo cáo lại tình hình hoặc Lệ Vô Tâm trở về Huyết Sát Minh để đòi lại quyền lực.
