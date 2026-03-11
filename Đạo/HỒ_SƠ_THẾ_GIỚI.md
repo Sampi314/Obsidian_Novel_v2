@@ -281,6 +281,10 @@
         - [Chương 4: Nhiệm Vụ Đơn Độc](Chương_Truyện/Góc_Nhìn_Diệp_Tĩnh_Sương/Chương_00004_Nhiệm_Vụ_Đơn_Độc.md) (Trước Chương 1 Chính)
     - **Lâm Phong (Truy Phong Khách):**
         - [Chương 1: Cơ Duyên Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00001_Cơ_Duyên_Rừng_Thẳm.md) (Quá khứ 6 năm trước)
+        - [Chương 2: Mũi Tên Đầu Tiên](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00002_Mũi_Tên_Đầu_Tiên.md)
+        - [Chương 3: Rời Khỏi Rừng Thẳm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00003_Rời_Khỏi_Rừng_Thẳm.md)
+        - [Chương 4: Đêm Dài Cảnh Giác](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00004_Đêm_Dài_Cảnh_Giác.md)
+        - [Chương 5: Bóng Dáng Kẻ Săn Mồi](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00005_Bóng_Dáng_Kẻ_Săn_Mồi.md)
 
 ## VI. THẾ LỰC CHÍNH
 
