@@ -523,6 +523,10 @@ window.chapterData = {
       "title": "Chương 128: Hành Trình Băng Ngục (冰狱之行)"
     },
     {
+      "filename": "Chương_00129_Tử_Địa_Hoang_Tàn.md",
+      "title": "Chương 129: Tử Địa Hoang Tàn (荒芜死地)"
+    },
+    {
       "filename": "Chương_Mẫu_Huyền_Băng.md",
       "title": "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
     }
@@ -1053,6 +1057,10 @@ window.chapterData = {
     {
       "filename": "Chương_00122_Bàn_Tiệc_Đẫm_Máu.md",
       "title": "Chương 122: Bàn Tiệc Đẫm Máu (血腥盛宴)"
+    },
+    {
+      "filename": "Chương_00123_Kẻ_Săn_Mồi_Vực_Sâu.md",
+      "title": "Chương 123: Kẻ Săn Mồi Vực Sâu (深渊猎手)"
     }
   ]
 };
