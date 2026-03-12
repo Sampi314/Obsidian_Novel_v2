@@ -415,6 +415,241 @@
             50% { opacity: var(--max-o, 0.7); }
         }
 
+        /* ── Moon God Rays ── */
+        .hero-moon-rays {
+            position: absolute;
+            top: 6%;
+            right: 14%;
+            width: 140px; height: 140px;
+            z-index: 2;
+            pointer-events: none;
+            will-change: transform;
+        }
+
+        .moon-ray {
+            position: absolute;
+            top: 50%; left: 50%;
+            width: 2px;
+            transform-origin: top center;
+            background: linear-gradient(to bottom,
+                rgba(201, 169, 110, 0.08),
+                rgba(201, 169, 110, 0.02) 40%,
+                transparent 100%);
+            border-radius: 1px;
+            animation: ray-pulse var(--dur) ease-in-out infinite;
+            animation-delay: var(--delay);
+        }
+
+        @keyframes ray-pulse {
+            0%, 100% { opacity: 0.3; }
+            50% { opacity: 1; }
+        }
+
+        /* ── Cherry Blossom Petals ── */
+        .hero-petals {
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            z-index: 13;
+            pointer-events: none;
+            overflow: hidden;
+        }
+
+        .petal {
+            position: absolute;
+            width: var(--size, 8px);
+            height: var(--size, 8px);
+            background: radial-gradient(ellipse at 30% 30%,
+                rgba(219, 160, 160, var(--o, 0.3)),
+                rgba(180, 120, 130, calc(var(--o, 0.3) * 0.5)) 60%,
+                transparent 100%);
+            border-radius: 50% 0 50% 50%;
+            animation: petal-fall var(--dur) linear infinite;
+            animation-delay: var(--delay);
+            opacity: 0;
+        }
+
+        @keyframes petal-fall {
+            0% {
+                opacity: 0;
+                transform: translate(0, -20px) rotate(0deg) scale(0.8);
+            }
+            8% { opacity: var(--o, 0.3); }
+            85% { opacity: var(--o, 0.3); }
+            100% {
+                opacity: 0;
+                transform: translate(var(--dx, 60px), calc(100vh + 20px)) rotate(var(--rot, 720deg)) scale(0.4);
+            }
+        }
+
+        /* ── Shooting Stars ── */
+        .shooting-star {
+            position: absolute;
+            width: var(--len, 80px);
+            height: 1px;
+            background: linear-gradient(to right,
+                transparent,
+                rgba(212, 203, 191, 0.6) 30%,
+                rgba(201, 169, 110, 0.8) 60%,
+                white);
+            border-radius: 1px;
+            transform: rotate(var(--angle, -35deg));
+            animation: shoot var(--dur) linear infinite;
+            animation-delay: var(--delay);
+            opacity: 0;
+            filter: blur(0.3px);
+        }
+
+        .shooting-star::after {
+            content: '';
+            position: absolute;
+            right: -2px; top: -2px;
+            width: 4px; height: 4px;
+            border-radius: 50%;
+            background: white;
+            box-shadow: 0 0 6px 2px rgba(255, 255, 255, 0.6),
+                        0 0 12px 4px rgba(201, 169, 110, 0.3);
+        }
+
+        @keyframes shoot {
+            0% { opacity: 0; transform: translate(0, 0) rotate(var(--angle, -35deg)); }
+            2% { opacity: 1; }
+            15% { opacity: 1; }
+            25% { opacity: 0; transform: translate(var(--travel, 300px), calc(var(--travel, 300px) * 0.6)) rotate(var(--angle, -35deg)); }
+            100% { opacity: 0; }
+        }
+
+        /* ── Nebula Wisps ── */
+        .hero-nebula {
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%; height: 70%;
+            z-index: 1;
+            pointer-events: none;
+            overflow: hidden;
+            opacity: 0;
+            animation: fade-rise 3s ease-out 0.5s forwards;
+        }
+
+        .nebula-wisp {
+            position: absolute;
+            border-radius: 50%;
+            filter: blur(60px);
+            animation: nebula-drift var(--dur) ease-in-out infinite;
+            animation-delay: var(--delay);
+            mix-blend-mode: screen;
+        }
+
+        @keyframes nebula-drift {
+            0%, 100% { transform: translate(0, 0) scale(1); opacity: var(--o, 0.04); }
+            33% { transform: translate(var(--dx, 30px), var(--dy, -20px)) scale(1.15); opacity: calc(var(--o, 0.04) * 1.4); }
+            66% { transform: translate(calc(var(--dx, 30px) * -0.5), calc(var(--dy, -20px) * -0.7)) scale(0.9); opacity: var(--o, 0.04); }
+        }
+
+        /* ── Floating Sword (near cultivator) ── */
+        .hero-floating-sword {
+            position: absolute;
+            z-index: 11;
+            opacity: 0;
+            animation: cultivator-appear 2s ease-out 1.5s forwards;
+            will-change: transform;
+        }
+
+        .floating-sword-inner {
+            animation: sword-hover 4s ease-in-out infinite;
+        }
+
+        .floating-sword-glow {
+            position: absolute;
+            top: -10px; left: 50%;
+            width: 2px; height: calc(100% + 20px);
+            transform: translateX(-50%);
+            background: linear-gradient(to bottom,
+                transparent,
+                rgba(201, 169, 110, 0.15) 20%,
+                rgba(201, 169, 110, 0.08) 80%,
+                transparent);
+            filter: blur(3px);
+            animation: sword-glow-pulse 3s ease-in-out infinite;
+        }
+
+        @keyframes sword-hover {
+            0%, 100% { transform: translateY(0) rotate(-8deg); }
+            50% { transform: translateY(-6px) rotate(-5deg); }
+        }
+
+        @keyframes sword-glow-pulse {
+            0%, 100% { opacity: 0.4; }
+            50% { opacity: 1; }
+        }
+
+        /* ── Title Glow Pulse ── */
+        .hero-title-cn::before {
+            content: '';
+            position: absolute;
+            top: -20%; left: -10%; right: -10%; bottom: -20%;
+            background: radial-gradient(ellipse at center,
+                rgba(201, 169, 110, 0.08) 0%,
+                transparent 70%);
+            animation: title-glow-pulse 6s ease-in-out infinite;
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        @keyframes title-glow-pulse {
+            0%, 100% { opacity: 0.3; transform: scale(1); }
+            50% { opacity: 1; transform: scale(1.1); }
+        }
+
+        /* ── Light mode overrides for new elements ── */
+        [data-theme="light"] .moon-ray {
+            background: linear-gradient(to bottom,
+                rgba(180, 140, 60, 0.06),
+                rgba(180, 140, 60, 0.01) 40%,
+                transparent 100%);
+        }
+
+        [data-theme="light"] .petal {
+            background: radial-gradient(ellipse at 30% 30%,
+                rgba(200, 130, 140, var(--o, 0.3)),
+                rgba(170, 100, 110, calc(var(--o, 0.3) * 0.5)) 60%,
+                transparent 100%);
+        }
+
+        [data-theme="light"] .shooting-star {
+            background: linear-gradient(to right,
+                transparent,
+                rgba(139, 105, 20, 0.4) 30%,
+                rgba(107, 78, 18, 0.6) 60%,
+                rgba(139, 105, 20, 0.9));
+        }
+
+        [data-theme="light"] .shooting-star::after {
+            background: rgba(139, 105, 20, 0.8);
+            box-shadow: 0 0 6px 2px rgba(139, 105, 20, 0.4),
+                        0 0 12px 4px rgba(139, 105, 20, 0.2);
+        }
+
+        [data-theme="light"] .nebula-wisp {
+            mix-blend-mode: multiply;
+        }
+
+        [data-theme="light"] .hero-nebula { opacity: 0.5; }
+
+        [data-theme="light"] .floating-sword-glow {
+            background: linear-gradient(to bottom,
+                transparent,
+                rgba(139, 105, 20, 0.1) 20%,
+                rgba(139, 105, 20, 0.05) 80%,
+                transparent);
+        }
+
+        [data-theme="light"] .hero-title-cn::before {
+            background: radial-gradient(ellipse at center,
+                rgba(139, 105, 20, 0.06) 0%,
+                transparent 70%);
+        }
+
         /* ── Layer: Moon — Large, ethereal ── */
         .hero-moon {
             position: absolute;
@@ -1450,8 +1685,14 @@
         <!-- Layer 1: Stars -->
         <div class="hero-stars" id="hero-stars" data-depth="0.05"></div>
 
+        <!-- Layer 1.5: Nebula Wisps -->
+        <div class="hero-nebula" id="hero-nebula" data-depth="0.03"></div>
+
         <!-- Layer 2: Moon -->
         <div class="hero-moon" data-depth="0.08"></div>
+
+        <!-- Layer 2.5: Moon God Rays -->
+        <div class="hero-moon-rays" id="hero-moon-rays" data-depth="0.08"></div>
 
         <!-- Layer 3: Qi Streams (flowing celestial energy) -->
         <div class="hero-qi-streams" id="hero-qi-streams" data-depth="0.06"></div>
@@ -1529,6 +1770,9 @@
         <!-- Layer 10: Cultivator Silhouette -->
         <div class="hero-cultivator" id="hero-cultivator" data-depth="0.18"></div>
 
+        <!-- Layer 10.5: Floating Sword -->
+        <div class="hero-floating-sword" id="hero-floating-sword" data-depth="0.18"></div>
+
         <!-- Layer 11: Ground Fog -->
         <div class="hero-ground-fog" data-depth="0.48">
             <div class="ground-fog-drift">
@@ -1556,6 +1800,12 @@
 
         <!-- Layer 12: Qi Particles -->
         <div class="hero-particles" id="hero-particles" data-depth="0.20"></div>
+
+        <!-- Layer 12.5: Cherry Blossom Petals -->
+        <div class="hero-petals" id="hero-petals" data-depth="0.22"></div>
+
+        <!-- Layer 12.6: Shooting Stars -->
+        <div id="hero-shooting-stars" data-depth="0.04" style="position:absolute;top:0;left:0;width:100%;height:65%;z-index:13;pointer-events:none;overflow:hidden;"></div>
 
         <!-- Layer 13: Bagua Trigram Ring -->
         <div class="hero-bagua" id="hero-bagua"></div>
@@ -2105,6 +2355,144 @@
                 '--angle:' + (5 + Math.random() * 25) + 'deg;';
             particlesEl.appendChild(sword);
         }
+
+        /* ═══════ Moon God Rays ═══════ */
+        var raysEl = document.getElementById('hero-moon-rays');
+        var rayCount = 12;
+        for (var r = 0; r < rayCount; r++) {
+            var ray = document.createElement('div');
+            ray.className = 'moon-ray';
+            var rayAngle = (r / rayCount) * 360;
+            var rayLen = 200 + Math.random() * 400;
+            var rayWidth = 1 + Math.random() * 2;
+            ray.style.cssText =
+                'height:' + rayLen + 'px;' +
+                'width:' + rayWidth + 'px;' +
+                'transform:rotate(' + rayAngle + 'deg);' +
+                '--dur:' + (4 + Math.random() * 6) + 's;' +
+                '--delay:' + (Math.random() * 5) + 's;';
+            raysEl.appendChild(ray);
+        }
+
+        /* ═══════ Nebula Wisps ═══════ */
+        var nebulaEl = document.getElementById('hero-nebula');
+        var nebulaData = [
+            { x: 15, y: 20, w: 300, h: 200, color: 'rgba(107, 28, 35, 0.03)', dx: 40, dy: -25 },
+            { x: 60, y: 10, w: 250, h: 180, color: 'rgba(45, 106, 79, 0.025)', dx: -30, dy: 15 },
+            { x: 80, y: 35, w: 280, h: 160, color: 'rgba(123, 94, 167, 0.02)', dx: 25, dy: -35 },
+            { x: 35, y: 45, w: 220, h: 150, color: 'rgba(201, 169, 110, 0.025)', dx: -20, dy: 20 },
+            { x: 5, y: 50, w: 200, h: 180, color: 'rgba(74, 143, 184, 0.02)', dx: 35, dy: -15 },
+        ];
+        for (var nb = 0; nb < nebulaData.length; nb++) {
+            var nbd = nebulaData[nb];
+            var wisp = document.createElement('div');
+            wisp.className = 'nebula-wisp';
+            wisp.style.cssText =
+                'left:' + nbd.x + '%;top:' + nbd.y + '%;' +
+                'width:' + nbd.w + 'px;height:' + nbd.h + 'px;' +
+                'background:' + nbd.color + ';' +
+                '--dur:' + (20 + nb * 8) + 's;' +
+                '--delay:' + (nb * 3) + 's;' +
+                '--dx:' + nbd.dx + 'px;' +
+                '--dy:' + nbd.dy + 'px;' +
+                '--o:' + (0.5 + Math.random() * 0.5) + ';';
+            nebulaEl.appendChild(wisp);
+        }
+
+        /* ═══════ Cherry Blossom Petals ═══════ */
+        var petalsEl = document.getElementById('hero-petals');
+        for (var pt = 0; pt < 15; pt++) {
+            var petal = document.createElement('div');
+            petal.className = 'petal';
+            var petalSize = 4 + Math.random() * 8;
+            var petalOpacity = 0.12 + Math.random() * 0.2;
+            petal.style.cssText =
+                '--size:' + petalSize + 'px;' +
+                'left:' + (Math.random() * 100) + '%;' +
+                'top:-20px;' +
+                '--dur:' + (12 + Math.random() * 18) + 's;' +
+                '--delay:' + (Math.random() * 20) + 's;' +
+                '--o:' + petalOpacity + ';' +
+                '--dx:' + (Math.random() * 120 - 30) + 'px;' +
+                '--rot:' + (360 + Math.random() * 720) + 'deg;';
+            petalsEl.appendChild(petal);
+        }
+
+        /* ═══════ Shooting Stars ═══════ */
+        var shootingStarsEl = document.getElementById('hero-shooting-stars');
+        for (var ss = 0; ss < 3; ss++) {
+            var shootingStar = document.createElement('div');
+            shootingStar.className = 'shooting-star';
+            var ssAngle = -(25 + Math.random() * 25);
+            var ssLen = 60 + Math.random() * 80;
+            var ssTravel = 250 + Math.random() * 250;
+            shootingStar.style.cssText =
+                '--len:' + ssLen + 'px;' +
+                'top:' + (5 + Math.random() * 30) + '%;' +
+                'left:' + (10 + Math.random() * 60) + '%;' +
+                '--angle:' + ssAngle + 'deg;' +
+                '--travel:' + ssTravel + 'px;' +
+                '--dur:' + (12 + ss * 10) + 's;' +
+                '--delay:' + (ss * 8 + Math.random() * 5) + 's;';
+            shootingStarsEl.appendChild(shootingStar);
+        }
+
+        /* ═══════ Floating Sword ═══════ */
+        var swordEl = document.getElementById('hero-floating-sword');
+        swordEl.style.cssText = 'bottom:38%;left:calc(50% + 35px);';
+
+        var swordInner = document.createElement('div');
+        swordInner.className = 'floating-sword-inner';
+
+        var swordSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+        swordSvg.setAttribute('width', '8');
+        swordSvg.setAttribute('height', '50');
+        swordSvg.setAttribute('viewBox', '0 0 8 50');
+
+        // Blade
+        var blade = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+        blade.setAttribute('d', 'M4 0 L6 35 L4 38 L2 35 Z');
+        blade.setAttribute('fill', 'rgba(201, 169, 110, 0.15)');
+        blade.setAttribute('stroke', 'rgba(201, 169, 110, 0.25)');
+        blade.setAttribute('stroke-width', '0.3');
+        swordSvg.appendChild(blade);
+
+        // Guard
+        var guard = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+        guard.setAttribute('x', '0.5');
+        guard.setAttribute('y', '35');
+        guard.setAttribute('width', '7');
+        guard.setAttribute('height', '2');
+        guard.setAttribute('rx', '0.5');
+        guard.setAttribute('fill', 'rgba(201, 169, 110, 0.2)');
+        swordSvg.appendChild(guard);
+
+        // Handle
+        var handle = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+        handle.setAttribute('x', '3');
+        handle.setAttribute('y', '37');
+        handle.setAttribute('width', '2');
+        handle.setAttribute('height', '10');
+        handle.setAttribute('rx', '0.5');
+        handle.setAttribute('fill', 'rgba(201, 169, 110, 0.12)');
+        swordSvg.appendChild(handle);
+
+        // Pommel
+        var pommel = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+        pommel.setAttribute('cx', '4');
+        pommel.setAttribute('cy', '48');
+        pommel.setAttribute('r', '1.5');
+        pommel.setAttribute('fill', 'rgba(201, 169, 110, 0.15)');
+        swordSvg.appendChild(pommel);
+
+        swordInner.appendChild(swordSvg);
+
+        // Sword glow
+        var swordGlow = document.createElement('div');
+        swordGlow.className = 'floating-sword-glow';
+        swordInner.appendChild(swordGlow);
+
+        swordEl.appendChild(swordInner);
 
         /* ═══════ 3D Parallax on Scroll ═══════ */
         var depthLayers = document.querySelectorAll('[data-depth]');
