@@ -14,7 +14,7 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 50 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 52 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn A Ngốc | 3 | Arc 1 | Đang viết |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Tiếp tục Catch-up Lâm Phong**: Chương 49, 50... Diễn biến tiếp theo của Đại Điển Tuyển Đồ và thâm nhập ngoại môn.
+1. **Tiếp tục Catch-up Lâm Phong**: Chương 53, 54... Diễn biến tiếp theo của Lâm Phong sau khi phát hiện Huyết Sát Minh thâm nhập ngoại môn.
 2. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1 (10 ch mỗi tuyến, Nam Cương 20 ch). Bắt đầu viết Arc 2.
 3. **Mở rộng chương riêng cho 19 nhân vật phụ**: Tiếp tục Task 6, hoàn thành ch 7-10 cho các nhân vật phụ.
 

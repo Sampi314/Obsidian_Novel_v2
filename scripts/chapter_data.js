@@ -362,6 +362,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00050_Đệ_Tử_Ngoại_Môn.md",
       "title": "Chương 50: Đệ Tử Ngoại Môn"
+    },
+    {
+      "filename": "Chương_00051_Bóng_Tối_Ngoại_Môn.md",
+      "title": "Chương 51: Bóng Tối Ngoại Môn"
+    },
+    {
+      "filename": "Chương_00052_Nhiệm_Vụ_Đầu_Tiên.md",
+      "title": "Chương 52: Nhiệm Vụ Đầu Tiên"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

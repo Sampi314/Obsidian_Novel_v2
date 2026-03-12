@@ -70,3 +70,5 @@
 - [Chương 48: Ảo Trận Vấn Tâm](Chương_00048_Ảo_Trận_Vấn_Tâm.md)
 - [Chương 49: Bước Lên Thềm Đá](Chương_00049_Bước_Lên_Thềm_Đá.md)
 - [Chương 50: Đệ Tử Ngoại Môn](Chương_00050_Đệ_Tử_Ngoại_Môn.md)
+- [Chương 51: Bóng Tối Ngoại Môn](Chương_00051_Bóng_Tối_Ngoại_Môn.md)
+- [Chương 52: Nhiệm Vụ Đầu Tiên](Chương_00052_Nhiệm_Vụ_Đầu_Tiên.md)
