@@ -70,80 +70,6 @@ Object.assign(chapterData, {
       "title": "Chương 4: Cường Đạo Tuyết Sơn"
     }
   ],
-  "Góc_Nhìn_Vô_Tận_Hải": [
-    {
-      "filename": "Chương_00001_Phản_Bội_Dưới_Trăng.md",
-      "title": "Chương 1: Phản Bội Dưới Trăng"
-    },
-    {
-      "filename": "Chương_00002_Rời_Khỏi_Long_Cung.md",
-      "title": "Chương 2: Rời Khỏi Long Cung"
-    },
-    {
-      "filename": "Chương_00003_Bóng_Tối_Dưới_Đáy_Biển.md",
-      "title": "Chương 3: Bóng Tối Dưới Đáy Biển"
-    },
-    {
-      "filename": "Chương_00004_Đá_Mài_Trên_Đất_Liền.md",
-      "title": "Chương 4: Đá Mài Trên Đất Liền"
-    },
-    {
-      "filename": "Chương_00005_Sứ_Giả_Từ_Mặt_Đất.md",
-      "title": "Chương 5: Sứ Giả Từ Mặt Đất"
-    },
-    {
-      "filename": "Chương_00006_Kẻ_Thách_Đấu.md",
-      "title": "Chương 6: Kẻ Thách Đấu"
-    },
-    {
-      "filename": "Chương_00007_Đại_Dương_Gặp_Sấm_Sét.md",
-      "title": "Chương 7: Đại Dương Gặp Sấm Sét"
-    },
-    {
-      "filename": "Chương_00008_Bí_Mật_Dưới_Đáy.md",
-      "title": "Chương 8: Bí Mật Dưới Đáy"
-    },
-    {
-      "filename": "Chương_00009_Sức_Mạnh_Từ_Bão.md",
-      "title": "Chương 9: Sức Mạnh Từ Bão"
-    },
-    {
-      "filename": "Chương_00010_Liên_Minh_Bất_Đắc_Dĩ.md",
-      "title": "Chương 10: Liên Minh Bất Đắc Dĩ"
-    }
-  ],
-  "Góc_Nhìn_Lệ_Nhược_Thủy": [
-    {
-      "filename": "Chương_00003_Nước_Mắt_Giao_Nhân.md",
-      "title": "Chương 3: Nước Mắt Giao Nhân"
-    },
-    {
-      "filename": "Chương_00004_Ô_Nhiễm_Đại_Dương.md",
-      "title": "Chương 4: Ô Nhiễm Đại Dương"
-    },
-    {
-      "filename": "Chương_00005_Hải_Thú_Nổi_Loạn.md",
-      "title": "Chương 5: Hải Thú Nổi Loạn"
-    },
-    {
-      "filename": "Chương_00006_Quyết_Định_Lên_Bờ.md",
-      "title": "Chương 6: Quyết Định Lên Bờ"
-    }
-  ],
-  "Góc_Nhìn_Ngao_Đình": [
-    {
-      "filename": "Chương_00003_Sấm_Sét_Và_Kiêu_Ngạo.md",
-      "title": "Chương 3: Sấm Sét Và Kiêu Ngạo"
-    },
-    {
-      "filename": "Chương_00004_Truy_Tìm_Cường_Giả.md",
-      "title": "Chương 4: Truy Tìm Cường Giả"
-    },
-    {
-      "filename": "Chương_00005_Long_Uy.md",
-      "title": "Chương 5: Long Uy"
-    }
-  ],
   "Góc_Nhìn_A_Ngốc": [
     {
       "filename": "Chương_00001_Bạn_Bướm.md",
@@ -1594,6 +1520,80 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Bão_Cát_Sắp_Đến.md",
       "title": "Chương 10: Bão Cát Sắp Đến"
+    }
+  ],
+  "Góc_Nhìn_Lệ_Nhược_Thủy": [
+    {
+      "filename": "Chương_00003_Nước_Mắt_Giao_Nhân.md",
+      "title": "Chương 3: Nước Mắt Giao Nhân"
+    },
+    {
+      "filename": "Chương_00004_Ô_Nhiễm_Đại_Dương.md",
+      "title": "Chương 4: Ô Nhiễm Đại Dương"
+    },
+    {
+      "filename": "Chương_00005_Hải_Thú_Nổi_Loạn.md",
+      "title": "Chương 5: Hải Thú Nổi Loạn"
+    },
+    {
+      "filename": "Chương_00006_Quyết_Định_Lên_Bờ.md",
+      "title": "Chương 6: Quyết Định Lên Bờ"
+    }
+  ],
+  "Góc_Nhìn_Ngao_Đình": [
+    {
+      "filename": "Chương_00003_Sấm_Sét_Và_Kiêu_Ngạo.md",
+      "title": "Chương 3: Sấm Sét Và Kiêu Ngạo"
+    },
+    {
+      "filename": "Chương_00004_Truy_Tìm_Cường_Giả.md",
+      "title": "Chương 4: Truy Tìm Cường Giả"
+    },
+    {
+      "filename": "Chương_00005_Long_Uy.md",
+      "title": "Chương 5: Long Uy"
+    }
+  ],
+  "Góc_Nhìn_Vô_Tận_Hải": [
+    {
+      "filename": "Chương_00001_Phản_Bội_Dưới_Trăng.md",
+      "title": "Chương 1: Phản Bội Dưới Trăng"
+    },
+    {
+      "filename": "Chương_00002_Rời_Khỏi_Long_Cung.md",
+      "title": "Chương 2: Rời Khỏi Long Cung"
+    },
+    {
+      "filename": "Chương_00003_Bóng_Tối_Dưới_Đáy_Biển.md",
+      "title": "Chương 3: Bóng Tối Dưới Đáy Biển"
+    },
+    {
+      "filename": "Chương_00004_Đá_Mài_Trên_Đất_Liền.md",
+      "title": "Chương 4: Đá Mài Trên Đất Liền"
+    },
+    {
+      "filename": "Chương_00005_Sứ_Giả_Từ_Mặt_Đất.md",
+      "title": "Chương 5: Sứ Giả Từ Mặt Đất"
+    },
+    {
+      "filename": "Chương_00006_Kẻ_Thách_Đấu.md",
+      "title": "Chương 6: Kẻ Thách Đấu"
+    },
+    {
+      "filename": "Chương_00007_Đại_Dương_Gặp_Sấm_Sét.md",
+      "title": "Chương 7: Đại Dương Gặp Sấm Sét"
+    },
+    {
+      "filename": "Chương_00008_Bí_Mật_Dưới_Đáy.md",
+      "title": "Chương 8: Bí Mật Dưới Đáy"
+    },
+    {
+      "filename": "Chương_00009_Sức_Mạnh_Từ_Bão.md",
+      "title": "Chương 9: Sức Mạnh Từ Bão"
+    },
+    {
+      "filename": "Chương_00010_Liên_Minh_Bất_Đắc_Dĩ.md",
+      "title": "Chương 10: Liên Minh Bất Đắc Dĩ"
     }
   ],
   "Góc_Nhìn_Lục_Ly": [
