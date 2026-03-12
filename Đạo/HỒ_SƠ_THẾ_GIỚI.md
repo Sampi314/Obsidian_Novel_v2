@@ -22,6 +22,8 @@
             - *Rết Lân Tinh:* Loài độc trùng khổng lồ phát sáng dưới Huyết Uyên. Xem tại `Đạo/Kỳ_Vật/Rết_Lân_Tinh.md`.
             - *Huyết Mạch Thượng Cổ:* Tàn tích rễ Cây Thế Giới nằm sâu dưới lòng đất, chứa Hồ Thanh Mộc Dịch và tinh thể Mộc Tinh. Xem tại `Đạo/Kỳ_Vật/Huyết_Mạch_Thượng_Cổ.md`.
             - *Nấm Độc Lâm:* Rừng nấm khổng lồ nằm sâu dưới lòng đất, vùng đệm giữa Kho Chứa Ngầm và Vườn Dược Liệu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nấm_Độc_Lâm.md`.
+            - *Huyết Tế Đài phụ:* Một trong những đài hiến tế vệ tinh do Vạn Độc Môn xây dựng để hút tinh huyết sinh vật trong rừng.
+            - *Khe Nứt Sinh Tử:* Một hẻm núi tự nhiên hẹp và hiểm trở, nơi Lâm Phong lợi dụng địa hình để ám sát kẻ thù.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
