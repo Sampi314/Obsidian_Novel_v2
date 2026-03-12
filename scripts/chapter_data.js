@@ -336,6 +336,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00040_Rìa_Rừng_Đẫm_Máu.md",
       "title": "Chương 40: Rìa Rừng Đẫm Máu"
+    },
+    {
+      "filename": "Chương_00041_Bầu_Trời_Tự_Do.md",
+      "title": "Chương 41: Bầu Trời Tự Do"
+    },
+    {
+      "filename": "Chương_00042_Trạm_Nghỉ_Chân.md",
+      "title": "Chương 42: Trạm Nghỉ Chân"
     }
   ],
   "Góc_Nhìn_Lý_Tuyết_Ưng": [
