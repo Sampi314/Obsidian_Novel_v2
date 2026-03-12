@@ -318,6 +318,8 @@
         - [Chương 30: Sào Huyệt Lão Chu](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00030_Sào_Huyệt_Lão_Chu.md)
         - [Chương 31: Thuốc Giải Hiệu Nghiệm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00031_Thuốc_Giải_Hiệu_Nghiệm.md)
         - [Chương 32: Ánh Sáng Đầu Ngày](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00032_Ánh_Sáng_Đầu_Ngày.md)
+        - [Chương 33: Dấu Vết Sinh Tồn](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00033_Dấu_Vết_Sinh_Tồn.md)
+        - [Chương 34: Bóng Đêm Săn Đuổi](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00034_Bóng_Đêm_Săn_Đuổi.md)
 
 ## VI. Thế Lực Chính
 

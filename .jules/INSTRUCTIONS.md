@@ -15,7 +15,7 @@
 | Góc Nhìn Chính | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 32 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 34 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 
 #### Tuyến Khu Vực (Đa Nhân Vật — Nhóm Theo Vùng)
 | Góc Nhìn | Số Chương | Nhân Vật | Ghi Chú |
@@ -31,7 +31,7 @@
 
 ### Ưu Tiên Phiên Tiếp Theo
 1. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1 (10 ch mỗi tuyến, Nam Cương 20 ch). Bắt đầu viết Arc 2.
-2. **Tiếp tục Catch-up Lâm Phong**: Chương 33, 34... Hành trình sinh tồn sau khi trốn khỏi Hang Động Nhện Quỷ.
+2. **Tiếp tục Catch-up Lâm Phong**: Chương 35, 36... Cả hai vẫn đang trong Rừng Huyết Độc và gặp phải nhiều chướng ngại vật hơn.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
 
@@ -43,7 +43,7 @@
 - Đang tái tạo + viết ch 1-6 cho tất cả 19 nhân vật (xem Task 6)
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 33, 34... cho Góc Nhìn Lâm Phong
+- Tiếp tục viết chương 35, 36... cho Góc Nhìn Lâm Phong
 - Diễn biến cuộc hành trình trên mặt đất Rừng Huyết Độc sau khi thoát khỏi Hang Động Nhện Quỷ
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
@@ -97,7 +97,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Lâm Phong đã hoàn thành ch 31-32 (Trốn thoát Hang Động Nhện Quỷ). **MỚI:** Đang tái tạo + mở rộng 19 thư mục góc nhìn cá nhân — viết ch 1-6 cho tất cả 19 nhân vật phụ (76+ chương mới). Thêm nhân vật mới: A Ngốc (nhân vật thiểu năng trí tuệ đạt đạo). Jules tiếp tục viết ch 7-10 (Task 6) và cập nhật chapter_data.js (Task 7).
+> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Lâm Phong đã hoàn thành ch 33-34 (Sinh tồn trong Rừng Huyết Độc). **MỚI:** Đang tái tạo + mở rộng 19 thư mục góc nhìn cá nhân — viết ch 1-6 cho tất cả 19 nhân vật phụ (76+ chương mới). Thêm nhân vật mới: A Ngốc (nhân vật thiểu năng trí tuệ đạt đạo). Jules tiếp tục viết ch 7-10 (Task 6) và cập nhật chapter_data.js (Task 7).
 
 ---
 

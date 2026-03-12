@@ -304,6 +304,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00032_Ánh_Sáng_Đầu_Ngày.md",
       "title": "Chương 32: Ánh Sáng Đầu Ngày"
+    },
+    {
+      "filename": "Chương_00033_Dấu_Vết_Sinh_Tồn.md",
+      "title": "Chương 33: Dấu Vết Sinh Tồn"
+    },
+    {
+      "filename": "Chương_00034_Bóng_Đêm_Săn_Đuổi.md",
+      "title": "Chương 34: Bóng Đêm Săn Đuổi"
     }
   ],
   "Góc_Nhìn_Lý_Tuyết_Ưng": [
