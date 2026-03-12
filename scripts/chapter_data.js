@@ -1,5 +1,31 @@
 const chapterData = (typeof window !== "undefined" && window.chapterData) ? window.chapterData : {};
 Object.assign(chapterData, {
+  "Góc_Nhìn_Bắc_Băng": [
+    {
+      "filename": "Chương_00001_Băng_Tâm_Vỡ_Nát.md",
+      "title": "Chương 1: Băng Tâm Vỡ Nát"
+    },
+    {
+      "filename": "Chương_00002_Ôn_Dịch_Và_Hàn_Liên.md",
+      "title": "Chương 2: Ôn Dịch Và Hàn Liên"
+    },
+    {
+      "filename": "Chương_00003_Cô_Nhi_Trong_Tuyết.md",
+      "title": "Chương 3: Cô Nhi Trong Tuyết"
+    },
+    {
+      "filename": "Chương_00004_Huyết_Độc_Xâm_Bắc.md",
+      "title": "Chương 4: Huyết Độc Xâm Bắc"
+    },
+    {
+      "filename": "Chương_00007_Kiếm_Trong_Băng_Huyệt.md",
+      "title": "Chương 7: Kiếm Trong Băng Huyệt"
+    },
+    {
+      "filename": "Chương_00008_Nợ_Máu_Trả_Bằng_Kiếm.md",
+      "title": "Chương 8: Nợ Máu Trả Bằng Kiếm"
+    }
+  ],
   "Góc_Nhìn_Chính": [
     {
       "filename": "Chương_00001_Dấu_Hiệu_Tai_Ương.md",
@@ -550,6 +576,16 @@ Object.assign(chapterData, {
       "title": "Chương 138: Hội Nghị Thượng Đỉnh"
     }
   ],
+  "Góc_Nhìn_Diệp_Thanh_Y": [
+    {
+      "filename": "Chương_00001_Linh_Mộc_Giác_Tỉnh.md",
+      "title": "Chương 1: Linh Mộc Giác Tỉnh"
+    },
+    {
+      "filename": "Chương_00002_Huyết_Độc_Nam_Cương.md",
+      "title": "Chương 2: Huyết Độc Nam Cương"
+    }
+  ],
   "Góc_Nhìn_Diệp_Tĩnh_Sương": [
     {
       "filename": "Chương_00001_Tuyết_Phủ_Mộ_Phần.md",
@@ -594,6 +630,64 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00011_Thoát_Khỏi_Địa_Ngục.md",
       "title": "Chương 11: Thoát Khỏi Địa Ngục"
+    }
+  ],
+  "Góc_Nhìn_Hàn_Thanh_Nguyệt": [
+    {
+      "filename": "Chương_00001_Đứa_Trẻ_Bến_Tàu.md",
+      "title": "Chương 1: Đứa Trẻ Bến Tàu"
+    },
+    {
+      "filename": "Chương_00002_Hợp_Đồng_Máu.md",
+      "title": "Chương 2: Hợp Đồng Máu"
+    }
+  ],
+  "Góc_Nhìn_Hải_Vực": [
+    {
+      "filename": "Chương_00001_Phản_Bội_Dưới_Trăng.md",
+      "title": "Chương 1: Phản Bội Dưới Trăng"
+    },
+    {
+      "filename": "Chương_00002_Rời_Khỏi_Long_Cung.md",
+      "title": "Chương 2: Rời Khỏi Long Cung"
+    },
+    {
+      "filename": "Chương_00003_Bóng_Tối_Dưới_Đáy_Biển.md",
+      "title": "Chương 3: Bóng Tối Dưới Đáy Biển"
+    },
+    {
+      "filename": "Chương_00004_Đá_Mài_Trên_Đất_Liền.md",
+      "title": "Chương 4: Đá Mài Trên Đất Liền"
+    }
+  ],
+  "Góc_Nhìn_Hắc_Hạt_Ma_Trùng": [
+    {
+      "filename": "Chương_00001_Vạn_Năm_Trầm_Ngủ.md",
+      "title": "Chương 1: Vạn Năm Trầm Ngủ"
+    },
+    {
+      "filename": "Chương_00002_Mùi_Máu_Vạn_Dặm.md",
+      "title": "Chương 2: Mùi Máu Vạn Dặm"
+    }
+  ],
+  "Góc_Nhìn_Hứa_Nhược_Thủy": [
+    {
+      "filename": "Chương_00001_Di_Ngôn_Của_Cha.md",
+      "title": "Chương 1: Di Ngôn Của Cha"
+    },
+    {
+      "filename": "Chương_00002_Cân_Bằng_Trên_Lưỡi_Dao.md",
+      "title": "Chương 2: Cân Bằng Trên Lưỡi Dao"
+    }
+  ],
+  "Góc_Nhìn_Hứa_Thanh_Vân": [
+    {
+      "filename": "Chương_00001_Vị_Tự_Do_Đầu_Tiên.md",
+      "title": "Chương 1: Vị Tự Do Đầu Tiên"
+    },
+    {
+      "filename": "Chương_00002_Cấm_Địa_Nuốt_Người.md",
+      "title": "Chương 2: Cấm Địa Nuốt Người"
     }
   ],
   "Góc_Nhìn_Lâm_Phong": [
@@ -700,6 +794,26 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00026_Bóng_Đen_Dưới_Dòng_Nước.md",
       "title": "Chương 26: Bóng Đen Dưới Dòng Nước"
+    }
+  ],
+  "Góc_Nhìn_Lý_Tuyết_Ưng": [
+    {
+      "filename": "Chương_00001_Băng_Tâm_Vỡ_Nát.md",
+      "title": "Chương 1: Băng Tâm Vỡ Nát"
+    },
+    {
+      "filename": "Chương_00002_Huyết_Độc_Xâm_Bắc.md",
+      "title": "Chương 2: Huyết Độc Xâm Bắc"
+    }
+  ],
+  "Góc_Nhìn_Lệ_Nhược_Thủy": [
+    {
+      "filename": "Chương_00001_Phản_Bội_Dưới_Trăng.md",
+      "title": "Chương 1: Phản Bội Dưới Trăng"
+    },
+    {
+      "filename": "Chương_00002_Bóng_Tối_Dưới_Đáy_Biển.md",
+      "title": "Chương 2: Bóng Tối Dưới Đáy Biển"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
@@ -1243,63 +1357,250 @@ Object.assign(chapterData, {
       "filename": "Chương_00136_Nước_Cờ_Đầu_Tiên.md",
       "title": "Chương 136: Nước Cờ Đầu Tiên"
     }
+  ],
+  "Góc_Nhìn_Lục_Ly": [
+    {
+      "filename": "Chương_00001_Trận_Chiến_Cuối_Cùng.md",
+      "title": "Chương 1: Trận Chiến Cuối Cùng"
+    },
+    {
+      "filename": "Chương_00002_Tỉnh_Giấc_Ngàn_Năm.md",
+      "title": "Chương 2: Tỉnh Giấc Ngàn Năm"
+    }
+  ],
+  "Góc_Nhìn_Lục_Tiêu": [
+    {
+      "filename": "Chương_00001_Dưới_Bóng_Thần_Mộc.md",
+      "title": "Chương 1: Dưới Bóng Thần Mộc"
+    },
+    {
+      "filename": "Chương_00002_Sứ_Mệnh_Rời_Rừng.md",
+      "title": "Chương 2: Sứ Mệnh Rời Rừng"
+    }
+  ],
+  "Góc_Nhìn_Lục_Trần": [
+    {
+      "filename": "Chương_00001_Hoa_Tàn_Trong_Lửa.md",
+      "title": "Chương 1: Hoa Tàn Trong Lửa"
+    },
+    {
+      "filename": "Chương_00002_Kiếm_Vang_Trước_Bão.md",
+      "title": "Chương 2: Kiếm Vang Trước Bão"
+    }
+  ],
+  "Góc_Nhìn_Nam_Cương": [
+    {
+      "filename": "Chương_00001_Lửa_Thiêu_Đốt_Mệnh.md",
+      "title": "Chương 1: Lửa Thiêu Đốt Mệnh"
+    },
+    {
+      "filename": "Chương_00002_Linh_Mộc_Giác_Tỉnh.md",
+      "title": "Chương 2: Linh Mộc Giác Tỉnh"
+    },
+    {
+      "filename": "Chương_00003_Rơi_Vào_Huyết_Trì.md",
+      "title": "Chương 3: Rơi Vào Huyết Trì"
+    },
+    {
+      "filename": "Chương_00004_Đứa_Trẻ_Bến_Tàu.md",
+      "title": "Chương 4: Đứa Trẻ Bến Tàu"
+    },
+    {
+      "filename": "Chương_00005_Hoa_Tàn_Trong_Lửa.md",
+      "title": "Chương 5: Hoa Tàn Trong Lửa"
+    },
+    {
+      "filename": "Chương_00006_Ngũ_Độc_Nhập_Môn.md",
+      "title": "Chương 6: Ngũ Độc Nhập Môn"
+    },
+    {
+      "filename": "Chương_00007_Kẻ_Bị_Trục_Xuất.md",
+      "title": "Chương 7: Kẻ Bị Trục Xuất"
+    },
+    {
+      "filename": "Chương_00008_Vạn_Năm_Trầm_Ngủ.md",
+      "title": "Chương 8: Vạn Năm Trầm Ngủ"
+    },
+    {
+      "filename": "Chương_00009_Hung_Triệu_Trong_Lò_Đan.md",
+      "title": "Chương 9: Hung Triệu Trong Lò Đan"
+    },
+    {
+      "filename": "Chương_00010_Huyết_Độc_Nam_Cương.md",
+      "title": "Chương 10: Huyết Độc Nam Cương"
+    },
+    {
+      "filename": "Chương_00011_Chín_Trăm_Chín_Mươi_Chín.md",
+      "title": "Chương 11: Chín Trăm Chín Mươi Chín"
+    },
+    {
+      "filename": "Chương_00012_Hợp_Đồng_Máu.md",
+      "title": "Chương 12: Hợp Đồng Máu"
+    },
+    {
+      "filename": "Chương_00013_Kiếm_Vang_Trước_Bão.md",
+      "title": "Chương 13: Kiếm Vang Trước Bão"
+    },
+    {
+      "filename": "Chương_00014_Hận_Thù_Nuôi_Dưỡng.md",
+      "title": "Chương 14: Hận Thù Nuôi Dưỡng"
+    },
+    {
+      "filename": "Chương_00015_Bách_Nghệ_Sinh_Tồn.md",
+      "title": "Chương 15: Bách Nghệ Sinh Tồn"
+    },
+    {
+      "filename": "Chương_00016_Mùi_Máu_Vạn_Dặm.md",
+      "title": "Chương 16: Mùi Máu Vạn Dặm"
+    }
+  ],
+  "Góc_Nhìn_Ngao_Đình": [
+    {
+      "filename": "Chương_00001_Rời_Khỏi_Long_Cung.md",
+      "title": "Chương 1: Rời Khỏi Long Cung"
+    },
+    {
+      "filename": "Chương_00002_Đá_Mài_Trên_Đất_Liền.md",
+      "title": "Chương 2: Đá Mài Trên Đất Liền"
+    }
+  ],
+  "Góc_Nhìn_Nguyệt_Dao": [
+    {
+      "filename": "Chương_00001_Đêm_Trăng_Canh_Giấc.md",
+      "title": "Chương 1: Đêm Trăng Canh Giấc"
+    },
+    {
+      "filename": "Chương_00002_Phá_Bỏ_Cô_Lập.md",
+      "title": "Chương 2: Phá Bỏ Cô Lập"
+    }
+  ],
+  "Góc_Nhìn_Ngô_Công_Trưởng_Lão": [
+    {
+      "filename": "Chương_00001_Ngũ_Độc_Nhập_Môn.md",
+      "title": "Chương 1: Ngũ Độc Nhập Môn"
+    },
+    {
+      "filename": "Chương_00002_Hận_Thù_Nuôi_Dưỡng.md",
+      "title": "Chương 2: Hận Thù Nuôi Dưỡng"
+    }
+  ],
+  "Góc_Nhìn_Nham_Thần": [
+    {
+      "filename": "Chương_00001_Giấc_Mơ_Trong_Lòng_Đất.md",
+      "title": "Chương 1: Giấc Mơ Trong Lòng Đất"
+    },
+    {
+      "filename": "Chương_00002_Cưỡng_Bức_Tỉnh_Giấc.md",
+      "title": "Chương 2: Cưỡng Bức Tỉnh Giấc"
+    }
+  ],
+  "Góc_Nhìn_Phương_Vô_Kỵ": [
+    {
+      "filename": "Chương_00001_Kẻ_Bị_Trục_Xuất.md",
+      "title": "Chương 1: Kẻ Bị Trục Xuất"
+    },
+    {
+      "filename": "Chương_00002_Bách_Nghệ_Sinh_Tồn.md",
+      "title": "Chương 2: Bách Nghệ Sinh Tồn"
+    }
+  ],
+  "Góc_Nhìn_Sở_Lăng_Sương": [
+    {
+      "filename": "Chương_00001_Ôn_Dịch_Và_Hàn_Liên.md",
+      "title": "Chương 1: Ôn Dịch Và Hàn Liên"
+    },
+    {
+      "filename": "Chương_00002_Kiếm_Trong_Băng_Huyệt.md",
+      "title": "Chương 2: Kiếm Trong Băng Huyệt"
+    }
+  ],
+  "Góc_Nhìn_Triệu_Thanh_Hằng": [
+    {
+      "filename": "Chương_00001_Cô_Nhi_Trong_Tuyết.md",
+      "title": "Chương 1: Cô Nhi Trong Tuyết"
+    },
+    {
+      "filename": "Chương_00002_Nợ_Máu_Trả_Bằng_Kiếm.md",
+      "title": "Chương 2: Nợ Máu Trả Bằng Kiếm"
+    }
+  ],
+  "Góc_Nhìn_Tây_Mạc": [
+    {
+      "filename": "Chương_00001_Di_Ngôn_Của_Cha.md",
+      "title": "Chương 1: Di Ngôn Của Cha"
+    },
+    {
+      "filename": "Chương_00002_Vị_Tự_Do_Đầu_Tiên.md",
+      "title": "Chương 2: Vị Tự Do Đầu Tiên"
+    },
+    {
+      "filename": "Chương_00003_Cân_Bằng_Trên_Lưỡi_Dao.md",
+      "title": "Chương 3: Cân Bằng Trên Lưỡi Dao"
+    },
+    {
+      "filename": "Chương_00004_Cấm_Địa_Nuốt_Người.md",
+      "title": "Chương 4: Cấm Địa Nuốt Người"
+    }
+  ],
+  "Góc_Nhìn_Đan_Dương_Tử": [
+    {
+      "filename": "Chương_00001_Lửa_Thiêu_Đốt_Mệnh.md",
+      "title": "Chương 1: Lửa Thiêu Đốt Mệnh"
+    },
+    {
+      "filename": "Chương_00002_Hung_Triệu_Trong_Lò_Đan.md",
+      "title": "Chương 2: Hung Triệu Trong Lò Đan"
+    }
+  ],
+  "Góc_Nhìn_Đông_Hoang": [
+    {
+      "filename": "Chương_00001_Trận_Chiến_Cuối_Cùng.md",
+      "title": "Chương 1: Trận Chiến Cuối Cùng"
+    },
+    {
+      "filename": "Chương_00002_Đêm_Trăng_Canh_Giấc.md",
+      "title": "Chương 2: Đêm Trăng Canh Giấc"
+    },
+    {
+      "filename": "Chương_00003_Giấc_Mơ_Trong_Lòng_Đất.md",
+      "title": "Chương 3: Giấc Mơ Trong Lòng Đất"
+    },
+    {
+      "filename": "Chương_00004_Dưới_Bóng_Thần_Mộc.md",
+      "title": "Chương 4: Dưới Bóng Thần Mộc"
+    },
+    {
+      "filename": "Chương_00005_Tỉnh_Giấc_Ngàn_Năm.md",
+      "title": "Chương 5: Tỉnh Giấc Ngàn Năm"
+    },
+    {
+      "filename": "Chương_00006_Phá_Bỏ_Cô_Lập.md",
+      "title": "Chương 6: Phá Bỏ Cô Lập"
+    },
+    {
+      "filename": "Chương_00007_Cưỡng_Bức_Tỉnh_Giấc.md",
+      "title": "Chương 7: Cưỡng Bức Tỉnh Giấc"
+    },
+    {
+      "filename": "Chương_00008_Sứ_Mệnh_Rời_Rừng.md",
+      "title": "Chương 8: Sứ Mệnh Rời Rừng"
+    }
+  ],
+  "Góc_Nhìn_Độc_Cô_Lão_Quái": [
+    {
+      "filename": "Chương_00001_Rơi_Vào_Huyết_Trì.md",
+      "title": "Chương 1: Rơi Vào Huyết Trì"
+    },
+    {
+      "filename": "Chương_00002_Chín_Trăm_Chín_Mươi_Chín.md",
+      "title": "Chương 2: Chín Trăm Chín Mươi Chín"
+    }
   ]
 });
 
 chapterData.Góc_Nhìn_Chính.push({
   filename: "Chương_Mẫu_Huyền_Băng.md",
   title: "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
-});
-
-Object.assign(chapterData, {
-  "Góc_Nhìn_Nam_Cương": [
-    { "filename": "Chương_00001_Lửa_Thiêu_Đốt_Mệnh.md", "title": "Chương 1: Lửa Thiêu Đốt Mệnh" },
-    { "filename": "Chương_00002_Linh_Mộc_Giác_Tỉnh.md", "title": "Chương 2: Linh Mộc Giác Tỉnh" },
-    { "filename": "Chương_00003_Rơi_Vào_Huyết_Trì.md", "title": "Chương 3: Rơi Vào Huyết Trì" },
-    { "filename": "Chương_00004_Đứa_Trẻ_Bến_Tàu.md", "title": "Chương 4: Đứa Trẻ Bến Tàu" },
-    { "filename": "Chương_00005_Hoa_Tàn_Trong_Lửa.md", "title": "Chương 5: Hoa Tàn Trong Lửa" },
-    { "filename": "Chương_00006_Ngũ_Độc_Nhập_Môn.md", "title": "Chương 6: Ngũ Độc Nhập Môn" },
-    { "filename": "Chương_00007_Kẻ_Bị_Trục_Xuất.md", "title": "Chương 7: Kẻ Bị Trục Xuất" },
-    { "filename": "Chương_00008_Vạn_Năm_Trầm_Ngủ.md", "title": "Chương 8: Vạn Năm Trầm Ngủ" },
-    { "filename": "Chương_00009_Hung_Triệu_Trong_Lò_Đan.md", "title": "Chương 9: Hung Triệu Trong Lò Đan" },
-    { "filename": "Chương_00010_Huyết_Độc_Nam_Cương.md", "title": "Chương 10: Huyết Độc Nam Cương" },
-    { "filename": "Chương_00011_Chín_Trăm_Chín_Mươi_Chín.md", "title": "Chương 11: Chín Trăm Chín Mươi Chín" },
-    { "filename": "Chương_00012_Hợp_Đồng_Máu.md", "title": "Chương 12: Hợp Đồng Máu" },
-    { "filename": "Chương_00013_Kiếm_Vang_Trước_Bão.md", "title": "Chương 13: Kiếm Vang Trước Bão" },
-    { "filename": "Chương_00014_Hận_Thù_Nuôi_Dưỡng.md", "title": "Chương 14: Hận Thù Nuôi Dưỡng" },
-    { "filename": "Chương_00015_Bách_Nghệ_Sinh_Tồn.md", "title": "Chương 15: Bách Nghệ Sinh Tồn" },
-    { "filename": "Chương_00016_Mùi_Máu_Vạn_Dặm.md", "title": "Chương 16: Mùi Máu Vạn Dặm" }
-  ],
-  "Góc_Nhìn_Bắc_Băng": [
-    { "filename": "Chương_00001_Băng_Tâm_Vỡ_Nát.md", "title": "Chương 1: Băng Tâm Vỡ Nát" },
-    { "filename": "Chương_00002_Ôn_Dịch_Và_Hàn_Liên.md", "title": "Chương 2: Ôn Dịch Và Hàn Liên" },
-    { "filename": "Chương_00003_Cô_Nhi_Trong_Tuyết.md", "title": "Chương 3: Cô Nhi Trong Tuyết" },
-    { "filename": "Chương_00004_Huyết_Độc_Xâm_Bắc.md", "title": "Chương 4: Huyết Độc Xâm Bắc" },
-    { "filename": "Chương_00007_Kiếm_Trong_Băng_Huyệt.md", "title": "Chương 7: Kiếm Trong Băng Huyệt" },
-    { "filename": "Chương_00008_Nợ_Máu_Trả_Bằng_Kiếm.md", "title": "Chương 8: Nợ Máu Trả Bằng Kiếm" }
-  ],
-  "Góc_Nhìn_Đông_Hoang": [
-    { "filename": "Chương_00001_Trận_Chiến_Cuối_Cùng.md", "title": "Chương 1: Trận Chiến Cuối Cùng" },
-    { "filename": "Chương_00002_Đêm_Trăng_Canh_Giấc.md", "title": "Chương 2: Đêm Trăng Canh Giấc" },
-    { "filename": "Chương_00003_Giấc_Mơ_Trong_Lòng_Đất.md", "title": "Chương 3: Giấc Mơ Trong Lòng Đất" },
-    { "filename": "Chương_00004_Dưới_Bóng_Thần_Mộc.md", "title": "Chương 4: Dưới Bóng Thần Mộc" },
-    { "filename": "Chương_00005_Tỉnh_Giấc_Ngàn_Năm.md", "title": "Chương 5: Tỉnh Giấc Ngàn Năm" },
-    { "filename": "Chương_00006_Phá_Bỏ_Cô_Lập.md", "title": "Chương 6: Phá Bỏ Cô Lập" },
-    { "filename": "Chương_00007_Cưỡng_Bức_Tỉnh_Giấc.md", "title": "Chương 7: Cưỡng Bức Tỉnh Giấc" },
-    { "filename": "Chương_00008_Sứ_Mệnh_Rời_Rừng.md", "title": "Chương 8: Sứ Mệnh Rời Rừng" }
-  ],
-  "Góc_Nhìn_Hải_Vực": [
-    { "filename": "Chương_00001_Phản_Bội_Dưới_Trăng.md", "title": "Chương 1: Phản Bội Dưới Trăng" },
-    { "filename": "Chương_00002_Rời_Khỏi_Long_Cung.md", "title": "Chương 2: Rời Khỏi Long Cung" },
-    { "filename": "Chương_00003_Bóng_Tối_Dưới_Đáy_Biển.md", "title": "Chương 3: Bóng Tối Dưới Đáy Biển" },
-    { "filename": "Chương_00004_Đá_Mài_Trên_Đất_Liền.md", "title": "Chương 4: Đá Mài Trên Đất Liền" }
-  ],
-  "Góc_Nhìn_Tây_Mạc": [
-    { "filename": "Chương_00001_Di_Ngôn_Của_Cha.md", "title": "Chương 1: Di Ngôn Của Cha" },
-    { "filename": "Chương_00002_Vị_Tự_Do_Đầu_Tiên.md", "title": "Chương 2: Vị Tự Do Đầu Tiên" },
-    { "filename": "Chương_00003_Cân_Bằng_Trên_Lưỡi_Dao.md", "title": "Chương 3: Cân Bằng Trên Lưỡi Dao" },
-    { "filename": "Chương_00004_Cấm_Địa_Nuốt_Người.md", "title": "Chương 4: Cấm Địa Nuốt Người" }
-  ]
 });
 
 if (typeof window !== 'undefined') {
