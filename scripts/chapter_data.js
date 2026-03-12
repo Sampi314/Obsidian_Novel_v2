@@ -608,6 +608,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00007_Đường_Vào_Nam_Cương.md",
       "title": "Chương 7: Đường Vào Nam Cương"
+    },
+    {
+      "filename": "Chương_00008_Săn_Thú_Trúng_Người.md",
+      "title": "Chương 8: Săn Thú Trúng Người"
+    },
+    {
+      "filename": "Chương_00009_Lửa_Đêm_Nam_Cương.md",
+      "title": "Chương 9: Lửa Đêm Nam Cương"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

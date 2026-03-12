@@ -8,6 +8,7 @@
 *   **Nhân Vật Chính:** Diệp Tĩnh Sương, Lâm Phong.
 *   **Nhân Vật Phụ:** Hứa Nhược Thủy, Hứa Thanh Vân.
 *   **Mục Tiêu:**
+    - Tiến vào Nam Cương, chạm trán tu sĩ Vạn Độc Môn và giữ hộp ngọc bí mật về Huyết Thần Độc (Chương 8, 9).
     - Khám phá bí mật Hoàng Sa Địa Cung (Khu vực Thâm Cung) (Đã hoàn thành).
     - Tìm thuốc chữa độc cho Hứa Nhược Thủy (Sa Sương hoặc Long Cốt chi lực) (Đã hoàn thành).
     - Vượt qua thử thách của Hộ Pháp Tinh Linh Lục Ly để tiếp cận Long Cốt (Đã hoàn thành).
