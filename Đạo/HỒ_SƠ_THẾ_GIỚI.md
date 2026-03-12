@@ -314,6 +314,10 @@
         - [Chương 26: Bóng Đen Dưới Dòng Nước](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00026_Bóng_Đen_Dưới_Dòng_Nước.md)
         - [Chương 27: Điểm Cuối Mạch Ngầm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00027_Điểm_Cuối_Mạch_Ngầm.md)
         - [Chương 28: Kẻ Gác Cổng](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00028_Kẻ_Gác_Cổng.md)
+        - [Chương 29: Qua Cửa Tử Vong](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00029_Qua_Cửa_Tử_Vong.md)
+        - [Chương 30: Sào Huyệt Lão Chu](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00030_Sào_Huyệt_Lão_Chu.md)
+        - [Chương 31: Thuốc Giải Hiệu Nghiệm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00031_Thuốc_Giải_Hiệu_Nghiệm.md)
+        - [Chương 32: Ánh Sáng Đầu Ngày](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00032_Ánh_Sáng_Đầu_Ngày.md)
 
 ## VI. Thế Lực Chính
 
