@@ -70,12 +70,14 @@
         }
 
         /* ═══════════════════════════════════════════
-           FULL-PAGE XIANXIA HERO
+           FULL-PAGE XIANXIA HERO — 3D PARALLAX
            ═══════════════════════════════════════════ */
         .hero {
             position: relative;
+            width: 100%;
             height: 100vh;
-            min-height: 700px;
+            height: 100dvh; /* dynamic viewport height — accounts for mobile browser chrome */
+            min-height: 600px;
             overflow: hidden;
             display: flex;
             flex-direction: column;
@@ -83,6 +85,15 @@
             align-items: center;
             text-align: center;
             z-index: 2;
+            perspective: 1200px;
+            perspective-origin: 50% 40%;
+            transform-style: preserve-3d;
+        }
+
+        /* ── 3D Layer shared base ── */
+        .hero [data-depth] {
+            transform-style: preserve-3d;
+            will-change: transform, opacity;
         }
 
         /* ── Layer: Sky — Deep celestial void ── */
@@ -778,14 +789,19 @@
             to { opacity: 1; transform: translateY(0); }
         }
 
-        /* ── Bottom Fade ── */
+        /* ── Bottom Fade — deeper for 3D effect ── */
         .hero-fade {
             position: absolute;
             bottom: 0; left: 0;
-            width: 100%; height: 250px;
-            background: linear-gradient(to top, var(--void), transparent);
+            width: 100%; height: 350px;
+            background: linear-gradient(to top, var(--void) 0%, rgba(10,9,8,0.85) 30%, rgba(10,9,8,0.4) 60%, transparent 100%);
             z-index: 21;
             pointer-events: none;
+        }
+
+        /* ── 3D Scroll transition: content emerges from depth ── */
+        .content {
+            transform: translateZ(0);
         }
 
         /* ═══════════════════════════════════════════
@@ -999,7 +1015,7 @@
 
         /* ── Responsive ── */
         @media (max-width: 768px) {
-            .hero { min-height: 100vh; }
+            .hero { min-height: 100dvh; perspective: 800px; }
             .hero-moon { width: 80px; height: 80px; top: 8%; right: 8%; }
             .hero-actions { flex-direction: column; align-items: center; }
             .hero-btn { width: 220px; justify-content: center; }
@@ -1022,26 +1038,26 @@
     <!-- ═══════ FULL-PAGE XIANXIA HERO ═══════ -->
     <section class="hero" id="hero">
 
-        <!-- Layer 0: Sky -->
-        <div class="hero-sky" data-parallax="0.03"></div>
+        <!-- Layer 0: Sky — furthest back -->
+        <div class="hero-sky" data-depth="0.02"></div>
 
         <!-- Layer 1: Stars -->
-        <div class="hero-stars" id="hero-stars" data-parallax="0.06"></div>
+        <div class="hero-stars" id="hero-stars" data-depth="0.05"></div>
 
         <!-- Layer 2: Moon -->
-        <div class="hero-moon" data-parallax="0.1"></div>
+        <div class="hero-moon" data-depth="0.08"></div>
 
         <!-- Layer 3: Qi Streams (flowing celestial energy) -->
-        <div class="hero-qi-streams" id="hero-qi-streams" data-parallax="0.08"></div>
+        <div class="hero-qi-streams" id="hero-qi-streams" data-depth="0.06"></div>
 
         <!-- Layer 4: Ancient Seal Characters -->
-        <div class="hero-seals" id="hero-seals" data-parallax="0.05"></div>
+        <div class="hero-seals" id="hero-seals" data-depth="0.04"></div>
 
         <!-- Layer 5: Flying Cranes -->
-        <div class="hero-cranes" id="hero-cranes"></div>
+        <div class="hero-cranes" id="hero-cranes" data-depth="0.07"></div>
 
         <!-- Layer 6: Far Mountains -->
-        <div class="hero-mountains-far" data-parallax="0.12">
+        <div class="hero-mountains-far" data-depth="0.12">
             <svg viewBox="0 0 1440 480" preserveAspectRatio="none" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <!-- Distant range -->
                 <path d="M0 480 L0 320 Q40 250 80 280 Q140 180 200 230 Q260 150 340 200 Q400 120 480 170 Q540 90 620 140 Q680 70 760 110 Q820 50 900 90 Q960 40 1040 80 Q1100 30 1180 70 Q1240 50 1320 90 Q1380 70 1440 100 L1440 480Z" fill="#0c0b0a"/>
@@ -1051,10 +1067,10 @@
         </div>
 
         <!-- Layer 6.5: Floating Peaks (xianxia!) -->
-        <div class="hero-floating-peaks" id="hero-floating-peaks" data-parallax="0.14"></div>
+        <div class="hero-floating-peaks" id="hero-floating-peaks" data-depth="0.15"></div>
 
         <!-- Layer 7: Mid Mountains -->
-        <div class="hero-mountains-mid" data-parallax="0.22">
+        <div class="hero-mountains-mid" data-depth="0.25">
             <svg viewBox="0 0 1440 400" preserveAspectRatio="none" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 400 L0 250 Q100 180 200 220 Q300 130 400 190 Q500 100 600 160 Q700 70 800 140 Q900 90 1000 130 Q1100 60 1200 110 Q1300 80 1440 130 L1440 400Z" fill="#110f0d"/>
                 <path d="M0 400 L0 280 Q120 210 240 250 Q360 160 480 220 Q600 130 720 190 Q840 110 960 170 Q1080 120 1200 160 Q1320 140 1440 180 L1440 400Z" fill="#13110e" opacity="0.6"/>
@@ -1062,7 +1078,7 @@
         </div>
 
         <!-- Layer 8: Fog Bank -->
-        <div class="hero-fog" data-parallax="0.28">
+        <div class="hero-fog" data-depth="0.30">
             <div class="fog-drift">
                 <svg width="200%" height="100%" viewBox="0 0 2880 220" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
                     <defs>
@@ -1097,7 +1113,7 @@
         </div>
 
         <!-- Layer 9: Near Mountains -->
-        <div class="hero-mountains-near" data-parallax="0.38">
+        <div class="hero-mountains-near" data-depth="0.42">
             <svg viewBox="0 0 1440 280" preserveAspectRatio="none" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 280 L0 160 Q80 110 160 140 Q240 75 360 130 Q480 60 600 120 Q700 50 820 100 Q940 70 1060 95 Q1160 55 1280 100 Q1360 80 1440 110 L1440 280Z" fill="#15120f"/>
                 <path d="M0 280 L0 190 Q120 140 240 170 Q360 105 480 150 Q600 85 720 135 Q840 95 960 125 Q1080 100 1200 115 Q1320 105 1440 135 L1440 280Z" fill="#18150f"/>
@@ -1105,10 +1121,10 @@
         </div>
 
         <!-- Layer 10: Cultivator Silhouette -->
-        <div class="hero-cultivator" id="hero-cultivator" data-parallax="0.15"></div>
+        <div class="hero-cultivator" id="hero-cultivator" data-depth="0.18"></div>
 
         <!-- Layer 11: Ground Fog -->
-        <div class="hero-ground-fog" data-parallax="0.42">
+        <div class="hero-ground-fog" data-depth="0.48">
             <div class="ground-fog-drift">
                 <svg width="200%" height="100%" viewBox="0 0 2880 140" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
                     <defs>
@@ -1133,7 +1149,7 @@
         </div>
 
         <!-- Layer 12: Qi Particles -->
-        <div class="hero-particles" id="hero-particles" data-parallax="0.18"></div>
+        <div class="hero-particles" id="hero-particles" data-depth="0.20"></div>
 
         <!-- Layer 13: Bagua Trigram Ring -->
         <div class="hero-bagua" id="hero-bagua"></div>
@@ -1142,7 +1158,7 @@
         <div class="hero-circles" id="hero-circles"></div>
 
         <!-- Layer 15: Hero Content -->
-        <div class="hero-content" data-parallax="0.3">
+        <div class="hero-content" data-depth="0.35">
             <p class="hero-verse-top">天 道 自 運</p>
 
             <div class="hero-title-wrapper">
@@ -1583,28 +1599,37 @@
             particlesEl.appendChild(sword);
         }
 
-        /* ═══════ Parallax on Scroll ═══════ */
-        var parallaxLayers = document.querySelectorAll('[data-parallax]');
+        /* ═══════ 3D Parallax on Scroll ═══════ */
+        var depthLayers = document.querySelectorAll('[data-depth]');
+        var heroEl = document.getElementById('hero');
         var ticking = false;
 
-        function updateParallax() {
+        function update3DParallax() {
             var scrollY = window.pageYOffset;
-            var heroHeight = document.getElementById('hero').offsetHeight;
+            var heroH = heroEl.offsetHeight;
+            var progress = Math.min(scrollY / heroH, 1.5);
 
-            if (scrollY < heroHeight * 1.2) {
-                for (var i = 0; i < parallaxLayers.length; i++) {
-                    var layer = parallaxLayers[i];
-                    var speed = parseFloat(layer.getAttribute('data-parallax'));
-                    var yOffset = scrollY * speed;
-                    layer.style.transform = 'translateY(' + yOffset + 'px)';
-                }
+            for (var i = 0; i < depthLayers.length; i++) {
+                var layer = depthLayers[i];
+                var depth = parseFloat(layer.getAttribute('data-depth'));
+
+                var yOffset = scrollY * depth;
+                var zOffset = depth * -300 * progress;
+                var scaleShift = 1 + (depth * progress * 0.15);
+                var opacityShift = Math.max(0, 1 - progress * (0.6 + depth * 0.8));
+
+                layer.style.transform =
+                    'translate3d(0,' + yOffset + 'px,' + zOffset + 'px) ' +
+                    'scale(' + scaleShift + ')';
+                layer.style.opacity = opacityShift;
             }
+
             ticking = false;
         }
 
         window.addEventListener('scroll', function() {
             if (!ticking) {
-                requestAnimationFrame(updateParallax);
+                requestAnimationFrame(update3DParallax);
                 ticking = true;
             }
         }, { passive: true });
