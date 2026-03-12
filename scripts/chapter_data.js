@@ -312,6 +312,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00034_Bóng_Đêm_Săn_Đuổi.md",
       "title": "Chương 34: Bóng Đêm Săn Đuổi"
+    },
+    {
+      "filename": "Chương_00035_Cạm_Bẫy_Huyết_Đằng.md",
+      "title": "Chương 35: Cạm Bẫy Huyết Đằng"
+    },
+    {
+      "filename": "Chương_00036_Sát_Cơ_Tiềm_Ẩn.md",
+      "title": "Chương 36: Sát Cơ Tiềm Ẩn"
     }
   ],
   "Góc_Nhìn_Lý_Tuyết_Ưng": [

@@ -15,7 +15,7 @@
 | Góc Nhìn Chính | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 34 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 36 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 
 #### Tuyến Khu Vực (Đa Nhân Vật — Nhóm Theo Vùng)
 | Góc Nhìn | Số Chương | Nhân Vật | Ghi Chú |
@@ -31,7 +31,7 @@
 
 ### Ưu Tiên Phiên Tiếp Theo
 1. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1 (10 ch mỗi tuyến, Nam Cương 20 ch). Bắt đầu viết Arc 2.
-2. **Tiếp tục Catch-up Lâm Phong**: Chương 35, 36... Cả hai vẫn đang trong Rừng Huyết Độc và gặp phải nhiều chướng ngại vật hơn.
+2. **Tiếp tục Catch-up Lâm Phong**: Chương 37, 38... Cả hai vẫn đang trong Rừng Huyết Độc và gặp phải sự truy đuổi của Huyết Sát Minh.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
 
@@ -43,8 +43,8 @@
 - Đang tái tạo + viết ch 1-6 cho tất cả 19 nhân vật (xem Task 6)
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 35, 36... cho Góc Nhìn Lâm Phong
-- Diễn biến cuộc hành trình trên mặt đất Rừng Huyết Độc sau khi thoát khỏi Hang Động Nhện Quỷ
+- Tiếp tục viết chương 37, 38... cho Góc Nhìn Lâm Phong
+- Diễn biến cuộc hành trình trên mặt đất Rừng Huyết Độc, đối phó với Huyết Sát Minh.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
