@@ -4,6 +4,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00001_Bạn_Bướm.md",
       "title": "Chương 1: Bạn Bướm"
+    },
+    {
+      "filename": "Chương_00002_Ông_Già_Ngủ.md",
+      "title": "Chương 2: Ông Già Ngủ"
     }
   ],
   "Góc_Nhìn_Bắc_Băng": [
@@ -602,6 +606,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00003_Đứa_Trẻ_Trong_Dịch_Bệnh.md",
       "title": "Chương 3: Đứa Trẻ Trong Dịch Bệnh"
+    },
+    {
+      "filename": "Chương_00004_Dược_Viên_Khóc_Thầm.md",
+      "title": "Chương 4: Dược Viên Khóc Thầm"
     }
   ],
   "Góc_Nhìn_Diệp_Tĩnh_Sương": [
@@ -1436,6 +1444,12 @@ Object.assign(chapterData, {
       "title": "Chương 6: Người Mang Tín Vật"
     }
   ],
+  "Góc_Nhìn_Lục_Trần": [
+    {
+      "filename": "Chương_00003_Kiếm_Tông_Trong_Biến.md",
+      "title": "Chương 3: Kiếm Tông Trong Biến"
+    }
+  ],
   "Góc_Nhìn_Nam_Cương": [
     {
       "filename": "Chương_00001_Lửa_Thiêu_Đốt_Mệnh.md",
@@ -1528,6 +1542,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00003_Lưỡi_Dao_Dưới_Trăng.md",
       "title": "Chương 3: Lưỡi Dao Dưới Trăng"
+    },
+    {
+      "filename": "Chương_00004_Hoang_Dã_Và_Yêu_Thú.md",
+      "title": "Chương 4: Hoang Dã Và Yêu Thú"
     }
   ],
   "Góc_Nhìn_Tây_Mạc": [
