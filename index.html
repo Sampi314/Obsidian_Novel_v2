@@ -37,10 +37,12 @@
             --bac-bang-glow: rgba(74, 143, 184, 0.15);
             --dong-hoang: #b8860b;
             --dong-hoang-glow: rgba(184, 134, 11, 0.15);
-            --hai-vuc: #1a7a6d;
-            --hai-vuc-glow: rgba(26, 122, 109, 0.15);
+            --vo-tan-hai: #1a7a6d;
+            --vo-tan-hai-glow: rgba(26, 122, 109, 0.15);
             --tay-mac: #c2984e;
             --tay-mac-glow: rgba(194, 152, 78, 0.15);
+            --thien-tru: #7b5ea7;
+            --thien-tru-glow: rgba(123, 94, 167, 0.15);
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -1052,15 +1054,15 @@
         }
         .region-group[data-region="dong-hoang"] .region-label { color: var(--dong-hoang); }
 
-        .region-group[data-region="hai-vuc"] .card::before { background: var(--hai-vuc); }
-        .region-group[data-region="hai-vuc"] .card:hover::before {
-            background: var(--hai-vuc);
-            box-shadow: 0 0 12px var(--hai-vuc-glow);
+        .region-group[data-region="vo-tan-hai"] .card::before { background: var(--vo-tan-hai); }
+        .region-group[data-region="vo-tan-hai"] .card:hover::before {
+            background: var(--vo-tan-hai);
+            box-shadow: 0 0 12px var(--vo-tan-hai-glow);
         }
-        .region-group[data-region="hai-vuc"] .card:hover {
-            box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 40px var(--hai-vuc-glow);
+        .region-group[data-region="vo-tan-hai"] .card:hover {
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 40px var(--vo-tan-hai-glow);
         }
-        .region-group[data-region="hai-vuc"] .region-label { color: var(--hai-vuc); }
+        .region-group[data-region="vo-tan-hai"] .region-label { color: var(--vo-tan-hai); }
 
         .region-group[data-region="tay-mac"] .card::before { background: var(--tay-mac); }
         .region-group[data-region="tay-mac"] .card:hover::before {
@@ -1071,6 +1073,16 @@
             box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 40px var(--tay-mac-glow);
         }
         .region-group[data-region="tay-mac"] .region-label { color: var(--tay-mac); }
+
+        .region-group[data-region="thien-tru"] .card::before { background: var(--thien-tru); }
+        .region-group[data-region="thien-tru"] .card:hover::before {
+            background: var(--thien-tru);
+            box-shadow: 0 0 12px var(--thien-tru-glow);
+        }
+        .region-group[data-region="thien-tru"] .card:hover {
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 40px var(--thien-tru-glow);
+        }
+        .region-group[data-region="thien-tru"] .region-label { color: var(--thien-tru); }
 
         /* ── Collapsible Region ── */
         .region-overflow {
@@ -1447,19 +1459,19 @@
                 </div>
             </div>
 
-            <!-- Hải Vực -->
-            <div class="region-group" data-region="hai-vuc">
-                <div class="region-label">Hải Vực &mdash; 2 Nhân Vật</div>
+            <!-- Vô Tận Hải -->
+            <div class="region-group" data-region="vo-tan-hai">
+                <div class="region-label">Vô Tận Hải &mdash; 2 Nhân Vật</div>
                 <div class="card-grid">
-                    <a href="reader.html?file=Đạo/Chương_Truyện/Hải_Vực/Góc_Nhìn_Hải_Vực/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title"><span class="card-icon">🌊</span>Góc Nhìn Hải Vực</div>
+                    <a href="reader.html?file=Đạo/Chương_Truyện/Vô_Tận_Hải/Góc_Nhìn_Vô_Tận_Hải/MỤC_LỤC.md" class="card" data-card>
+                        <div class="card-title"><span class="card-icon">🌊</span>Góc Nhìn Vô Tận Hải</div>
                         <div class="card-subtitle">Tổng quan tuyến truyện khu vực</div>
                         <div class="card-badge">10 chương</div>
                     </a>
-                    <a href="reader.html?file=Đạo/Chương_Truyện/Hải_Vực/Góc_Nhìn_Lệ_Nhược_Thủy/MỤC_LỤC.md" class="card" data-card>
+                    <a href="reader.html?file=Đạo/Chương_Truyện/Vô_Tận_Hải/Góc_Nhìn_Lệ_Nhược_Thủy/MỤC_LỤC.md" class="card" data-card>
                         <div class="card-title"><span class="card-icon">💧</span>Lệ Nhược Thủy</div>
                     </a>
-                    <a href="reader.html?file=Đạo/Chương_Truyện/Hải_Vực/Góc_Nhìn_Ngao_Đình/MỤC_LỤC.md" class="card" data-card>
+                    <a href="reader.html?file=Đạo/Chương_Truyện/Vô_Tận_Hải/Góc_Nhìn_Ngao_Đình/MỤC_LỤC.md" class="card" data-card>
                         <div class="card-title"><span class="card-icon">🐉</span>Ngao Đình</div>
                     </a>
                 </div>
@@ -1479,6 +1491,17 @@
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Tây_Mạc/Góc_Nhìn_Hứa_Thanh_Vân/MỤC_LỤC.md" class="card" data-card>
                         <div class="card-title"><span class="card-icon">🌪️</span>Hứa Thanh Vân</div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Thiên Trụ -->
+            <div class="region-group" data-region="thien-tru">
+                <div class="region-label">Thiên Trụ &mdash; Trung Tâm Cố Nguyên</div>
+                <div class="card-grid">
+                    <a href="reader.html?file=Đạo/Chương_Truyện/Thiên_Trụ/Góc_Nhìn_Thiên_Trụ/MỤC_LỤC.md" class="card" data-card>
+                        <div class="card-title"><span class="card-icon">⛰️</span>Góc Nhìn Thiên Trụ</div>
+                        <div class="card-subtitle">Tổng quan tuyến truyện khu vực</div>
                     </a>
                 </div>
             </div>

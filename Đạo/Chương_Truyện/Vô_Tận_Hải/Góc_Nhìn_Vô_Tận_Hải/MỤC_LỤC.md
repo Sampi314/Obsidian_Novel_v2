@@ -1,4 +1,4 @@
-# Mục Lục: Góc Nhìn Hải Vực (海域視角)
+# Mục Lục: Góc Nhìn Vô Tận Hải (無盡海視角)
 
 > Đa góc nhìn — Xoay vòng giữa các nhân vật tại vùng biển.
 > Nhân vật: Lệ Nhược Thủy, Ngao Đình.

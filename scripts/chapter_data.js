@@ -70,7 +70,7 @@ Object.assign(chapterData, {
       "title": "Chương 4: Cường Đạo Tuyết Sơn"
     }
   ],
-  "Góc_Nhìn_Hải_Vực": [
+  "Góc_Nhìn_Vô_Tận_Hải": [
     {
       "filename": "Chương_00001_Phản_Bội_Dưới_Trăng.md",
       "title": "Chương 1: Phản Bội Dưới Trăng"

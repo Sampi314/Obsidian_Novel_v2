@@ -23,13 +23,16 @@ Các chương truyện được phân loại theo góc nhìn và khu vực:
 - [Lục Ly](Đạo/Chương_Truyện/Đông_Hoang/Góc_Nhìn_Lục_Ly/MỤC_LỤC.md)
 - [Nguyệt Dao](Đạo/Chương_Truyện/Đông_Hoang/Góc_Nhìn_Nguyệt_Dao/MỤC_LỤC.md)
 
-### Hải Vực (2 Nhân Vật)
-- [Góc Nhìn Hải Vực](Đạo/Chương_Truyện/Hải_Vực/Góc_Nhìn_Hải_Vực/MỤC_LỤC.md) — Tổng quan tuyến truyện khu vực
-- [Lệ Nhược Thủy](Đạo/Chương_Truyện/Hải_Vực/Góc_Nhìn_Lệ_Nhược_Thủy/MỤC_LỤC.md)
-- [Ngao Đình](Đạo/Chương_Truyện/Hải_Vực/Góc_Nhìn_Ngao_Đình/MỤC_LỤC.md)
+### Vô Tận Hải (2 Nhân Vật)
+- [Góc Nhìn Vô Tận Hải](Đạo/Chương_Truyện/Vô_Tận_Hải/Góc_Nhìn_Vô_Tận_Hải/MỤC_LỤC.md) — Tổng quan tuyến truyện khu vực
+- [Lệ Nhược Thủy](Đạo/Chương_Truyện/Vô_Tận_Hải/Góc_Nhìn_Lệ_Nhược_Thủy/MỤC_LỤC.md)
+- [Ngao Đình](Đạo/Chương_Truyện/Vô_Tận_Hải/Góc_Nhìn_Ngao_Đình/MỤC_LỤC.md)
 
 ### Tây Mạc (2 Nhân Vật)
 - [Góc Nhìn Tây Mạc](Đạo/Chương_Truyện/Tây_Mạc/Góc_Nhìn_Tây_Mạc/MỤC_LỤC.md) — Tổng quan tuyến truyện khu vực
+
+### Thiên Trụ
+- [Góc Nhìn Thiên Trụ](Đạo/Chương_Truyện/Thiên_Trụ/Góc_Nhìn_Thiên_Trụ/MỤC_LỤC.md) — Tổng quan tuyến truyện khu vực
 
 ## 📚 Tra Cứu (Wiki)
 
