@@ -350,6 +350,7 @@
 *   **Tình trạng:** Sầm uất, phức tạp. Là nơi giao thương tự do giữa các thương hội, tán tu và đệ tử cấp thấp.
 *   **Điểm nổi bật:**
     *   **Khu chợ đen (Hắc Thị Quán):** Một tửu quán lụp xụp có biểu tượng dơi ngậm đồng tiền, là tụ điểm buôn lậu, mua bán tin tức và phát lệnh truy nã ngầm. Hiện tại đã bị Huyết Sát Minh thâm nhập và mua chuộc.
+    *   **Cửu Hoa Thiên Giai:** Lối đi bằng bạch ngọc dài 9999 bậc dẫn lên Cửu Hoa Kiếm Tông. Đây là nơi diễn ra vòng khảo nghiệm cuối cùng (leo bậc thang kiếm ý) dành cho các tân đệ tử ngoại môn, mỗi bậc đều chứa tàn ý của các bậc tiền bối Cửu Hoa Kiếm Tông.
     - [Vân Tông](Thế_Lực/Vân_Tông.md)
     - [Tiên Cầm Viện](Thế_Lực/Tiên_Cầm_Viện.md)
     - [Lôi Trì Thánh Địa](Thế_Lực/Lôi_Trì_Thánh_Địa.md)
