@@ -1,5 +1,19 @@
 const chapterData = (typeof window !== "undefined" && window.chapterData) ? window.chapterData : {};
 Object.assign(chapterData, {
+  "Góc_Nhìn_A_Ngốc": [
+    {
+      "filename": "Chương_00001_Bạn_Bướm.md",
+      "title": "Chương 1: Bạn Bướm"
+    },
+    {
+      "filename": "Chương_00002_Ông_Già_Ngủ.md",
+      "title": "Chương 2: Ông Già Ngủ"
+    },
+    {
+      "filename": "Chương_00003_Cái_Bụng_Đói.md",
+      "title": "Chương 3: Cái Bụng Đói"
+    }
+  ],
   "Góc_Nhìn_Bắc_Băng": [
     {
       "filename": "Chương_00001_Băng_Tâm_Vỡ_Nát.md",
@@ -40,556 +54,6 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Bóng_Ma_Dưới_Băng.md",
       "title": "Chương 10: Bóng Ma Dưới Băng"
-    }
-  ],
-  "Góc_Nhìn_Nam_Cương": [
-    {
-      "filename": "Chương_00001_Dấu_Hiệu_Tai_Ương.md",
-      "title": "Chương 1: Dấu Hiệu Tai Ương"
-    },
-    {
-      "filename": "Chương_00002_Phản_Kích_Và_Vòng_Vây.md",
-      "title": "Chương 2: Phản Kích và Vòng Vây"
-    },
-    {
-      "filename": "Chương_00003_Bóng_Ma_Trong_Màn_Sương.md",
-      "title": "Chương 3: Bóng Ma Trong Màn Sương"
-    },
-    {
-      "filename": "Chương_00004_Vạn_Độc_Thánh_Tử.md",
-      "title": "Chương 4: Vạn Độc Thánh Tử"
-    },
-    {
-      "filename": "Chương_00005_Dưới_Bóng_Ma_Rừng_Thẳm.md",
-      "title": "Chương 5: Dưới Bóng Ma Rừng Thẳm"
-    },
-    {
-      "filename": "Chương_00006_Huyết_Chiến_Đầm_Lầy.md",
-      "title": "Chương 6: Huyết Chiến Đầm Lầy"
-    },
-    {
-      "filename": "Chương_00007_Dấu_Vết_Cổ_Xưa.md",
-      "title": "Chương 7: Dấu Vết Cổ Xưa"
-    },
-    {
-      "filename": "Chương_00008_Huyết_Tướng_Truy_Sát.md",
-      "title": "Chương 8: Huyết Tướng Truy Sát"
-    },
-    {
-      "filename": "Chương_00009_Núi_Độc_Long.md",
-      "title": "Chương 9: Núi Độc Long"
-    },
-    {
-      "filename": "Chương_00010_Độc_Long_Xuất_Thế.md",
-      "title": "Chương 10: Độc Long Xuất Thế"
-    },
-    {
-      "filename": "Chương_00011_Bão_Cát_Tây_Mạc.md",
-      "title": "Chương 11: Bão Cát Tây Mạc"
-    },
-    {
-      "filename": "Chương_00012_Thương_Vụ_Bạc_Tỷ.md",
-      "title": "Chương 12: Thương Vụ Bạc Tỷ"
-    },
-    {
-      "filename": "Chương_00013_Lạc_Lối_Trong_Cát.md",
-      "title": "Chương 13: Lạc Lối Trong Cát"
-    },
-    {
-      "filename": "Chương_00014_Sa_Mạc_Mê_Cung.md",
-      "title": "Chương 14: Sa Mạc Mê Cung"
-    },
-    {
-      "filename": "Chương_00015_Bí_Mật_Hoàng_Sa.md",
-      "title": "Chương 15: Bí Mật Hoàng Sa"
-    },
-    {
-      "filename": "Chương_00016_Bí_Mật_Long_Cốt.md",
-      "title": "Chương 16: Bí Mật Long Cốt"
-    },
-    {
-      "filename": "Chương_00017_Trở_Về_Cát_Bụi.md",
-      "title": "Chương 17: Trở Về Cát Bụi"
-    },
-    {
-      "filename": "Chương_00018_Mưu_Đồ_Bóng_Tối.md",
-      "title": "Chương 18: Mưu Đồ Bóng Tối"
-    },
-    {
-      "filename": "Chương_00019_Huyết_Chiến_Trạm_Dừng_Chân.md",
-      "title": "Chương 19: Huyết Chiến Trạm Dừng Chân"
-    },
-    {
-      "filename": "Chương_00020_Hành_Trình_Về_Phía_Đông.md",
-      "title": "Chương 20: Hành Trình Về Phía Đông"
-    },
-    {
-      "filename": "Chương_00021_Ranh_Giới_Sinh_Tử.md",
-      "title": "Chương 21: Ranh Giới Sinh Tử"
-    },
-    {
-      "filename": "Chương_00022_Độc_Khí_Công_Tâm.md",
-      "title": "Chương 22: Độc Khí Công Tâm"
-    },
-    {
-      "filename": "Chương_00023_Huyết_Đằng_Vây_Hãm.md",
-      "title": "Chương 23: Huyết Đằng Vây Hãm"
-    },
-    {
-      "filename": "Chương_00024_Hang_Động_Nhện_Quỷ.md",
-      "title": "Chương 24: Hang Động Nhện Quỷ"
-    },
-    {
-      "filename": "Chương_00025_Huyết_Thi_Trỗi_Dậy.md",
-      "title": "Chương 25: Huyết Thi Trỗi Dậy"
-    },
-    {
-      "filename": "Chương_00026_Vượt_Cầu_Tử_Thần.md",
-      "title": "Chương 26: Vượt Cầu Tử Thần"
-    },
-    {
-      "filename": "Chương_00027_Mạch_Ngầm_Bí_Ẩn.md",
-      "title": "Chương 27: Mạch Ngầm Bí Ẩn"
-    },
-    {
-      "filename": "Chương_00028_Hoàng_Sa_Thâm_Cung.md",
-      "title": "Chương 28: Hoàng Sa Thâm Cung"
-    },
-    {
-      "filename": "Chương_00029_Bí_Mật_Dưới_Đáy_Hồ.md",
-      "title": "Chương 29: Bí Mật Dưới Đáy Hồ"
-    },
-    {
-      "filename": "Chương_00030_Điện_Thái_Hòa.md",
-      "title": "Chương 30: Điện Thái Hòa"
-    },
-    {
-      "filename": "Chương_00031_Thử_Thách_Của_Lục_Ly.md",
-      "title": "Chương 31: Thử Thách Của Lục Ly"
-    },
-    {
-      "filename": "Chương_00032_Bí_Mật_Long_Cốt.md",
-      "title": "Chương 32: Bí Mật Long Cốt"
-    },
-    {
-      "filename": "Chương_00033_Đại_Nạn_Long_Mạch.md",
-      "title": "Chương 33: Đại Nạn Long Mạch"
-    },
-    {
-      "filename": "Chương_00034_Hắc_Sa_Bão_Trỗi_Dậy.md",
-      "title": "Chương 34: Hắc Sa Bão Trỗi Dậy"
-    },
-    {
-      "filename": "Chương_00035_Sa_Hồn_Truy_Kích.md",
-      "title": "Chương 35: Sa Hồn Truy Kích"
-    },
-    {
-      "filename": "Chương_00036_Bí_Mật_Rừng_Thiên_Trụ.md",
-      "title": "Chương 36: Bí Mật Rừng Thiên Trụ"
-    },
-    {
-      "filename": "Chương_00037_Pháo_Đài_Xanh.md",
-      "title": "Chương 37: Pháo Đài Xanh"
-    },
-    {
-      "filename": "Chương_00038_Lối_Mòn_Trong_Bão.md",
-      "title": "Chương 38: Lối Mòn Trong Bão"
-    },
-    {
-      "filename": "Chương_00039_Ranh_Giới_Tử_Thần.md",
-      "title": "Chương 39: Ranh Giới Tử Thần"
-    },
-    {
-      "filename": "Chương_00040_Vòng_Vây_Huyết_Lang.md",
-      "title": "Chương 40: Vòng Vây Huyết Lang"
-    },
-    {
-      "filename": "Chương_00041_Huyết_Chiến_Lang_Vương.md",
-      "title": "Chương 41: Huyết Chiến Lang Vương"
-    },
-    {
-      "filename": "Chương_00042_Vùng_Đất_Chết.md",
-      "title": "Chương 42: Vùng Đất Chết"
-    },
-    {
-      "filename": "Chương_00043_Huyết_Chiến_Cửa_Hang.md",
-      "title": "Chương 43: Huyết Chiến Cửa Hang"
-    },
-    {
-      "filename": "Chương_00044_Mê_Cung_Tơ_Độc.md",
-      "title": "Chương 44: Mê Cung Tơ Độc"
-    },
-    {
-      "filename": "Chương_00045_Huyết_Chiến_Nhện_Chúa.md",
-      "title": "Chương 45: Huyết Chiến Nhện Chúa"
-    },
-    {
-      "filename": "Chương_00046_Thoát_Khỏi_Hang_Động.md",
-      "title": "Chương 46: Thoát Khỏi Hang Động"
-    },
-    {
-      "filename": "Chương_00047_Ánh_Sáng_Và_Bóng_Tối.md",
-      "title": "Chương 47: Ánh Sáng Và Bóng Tối"
-    },
-    {
-      "filename": "Chương_00048_Huyết_Trận_Khởi_Động.md",
-      "title": "Chương 48: Huyết Trận Khởi Động"
-    },
-    {
-      "filename": "Chương_00049_Vòng_Vây_Sinh_Tử.md",
-      "title": "Chương 49: Vòng Vây Sinh Tử (生死圍困)"
-    },
-    {
-      "filename": "Chương_00050_Huyết_Lộ_Phá_Trận.md",
-      "title": "Chương 50: Huyết Lộ Phá Trận (血路破陣)"
-    },
-    {
-      "filename": "Chương_00051_Tiếng_Sáo_Vượt_Rừng.md",
-      "title": "Chương 51: Tiếng Sáo Vượt Rừng (簫聲越林)"
-    },
-    {
-      "filename": "Chương_00052_Bí_Mật_Mộc_Linh_Trận.md",
-      "title": "Chương 52: Bí Mật Mộc Linh Trận (木靈陣之秘)"
-    },
-    {
-      "filename": "Chương_00053_Cuộc_Chiến_Thủ_Thành.md",
-      "title": "Chương 53: Cuộc Chiến Thủ Thành (守城之戰)"
-    },
-    {
-      "filename": "Chương_00054_Đột_Kích_Mắt_Trận_1.md",
-      "title": "Chương 54: Đột Kích Mắt Trận (Phần 1) (突襲陣眼・上)"
-    },
-    {
-      "filename": "Chương_00055_Đột_Kích_Mắt_Trận_2.md",
-      "title": "Chương 55: Đột Kích Mắt Trận (Phần 2) (突襲陣眼・下)"
-    },
-    {
-      "filename": "Chương_00056_Vòng_Vây_Siết_Chặt.md",
-      "title": "Chương 56: Vòng Vây Siết Chặt (圍困・緊)"
-    },
-    {
-      "filename": "Chương_00057_Bóng_Ma_Trong_Sương.md",
-      "title": "Chương 57: Bóng Ma Trong Sương"
-    },
-    {
-      "filename": "Chương_00058_Huyết_Mạch_Thượng_Cổ.md",
-      "title": "Chương 58: Huyết Mạch Thượng Cổ"
-    },
-    {
-      "filename": "Chương_00059_Bí_Mật_Dưới_Lòng_Đất.md",
-      "title": "Chương 59: Bí Mật Dưới Lòng Đất"
-    },
-    {
-      "filename": "Chương_00060_Huyết_Chiến_Ngô_Công.md",
-      "title": "Chương 60: Huyết Chiến Ngô Công"
-    },
-    {
-      "filename": "Chương_00061_Giao_Ước_Trong_Bóng_Tối.md",
-      "title": "Chương 61: Giao Ước Trong Bóng Tối"
-    },
-    {
-      "filename": "Chương_00062_Lối_Mòn_Trong_Lòng_Đất.md",
-      "title": "Chương 62: Lối Mòn Trong Lòng Đất"
-    },
-    {
-      "filename": "Chương_00063_Hỗn_Loạn_Tại_Kho_Chứa.md",
-      "title": "Chương 63: Hỗn Loạn Tại Kho Chứa"
-    },
-    {
-      "filename": "Chương_00064_Mê_Cung_Nấm_Độc.md",
-      "title": "Chương 64: Mê Cung Nấm Độc"
-    },
-    {
-      "filename": "Chương_00065_Bí_Mật_Huyết_Trì.md",
-      "title": "Chương 65: Bí Mật Huyết Trì (血池之秘)"
-    },
-    {
-      "filename": "Chương_00066_Huyết_Chiến_Bên_Hồ.md",
-      "title": "Chương 66: Huyết Chiến Bên Hồ (血池激戰)"
-    },
-    {
-      "filename": "Chương_00067_Bóng_Ma_Trong_Sương_Đỏ.md",
-      "title": "Chương 67: Bóng Ma Trong Sương Đỏ (紅霧魅影)"
-    },
-    {
-      "filename": "Chương_00068_Tiếng_Gọi_Nơi_Rừng_Thẳm.md",
-      "title": "Chương 68: Tiếng Gọi Nơi Rừng Thẳm (深林之聲)"
-    },
-    {
-      "filename": "Chương_00069_Ảo_Giác_Mộng_Yểm.md",
-      "title": "Chương 69: Ảo Giác Mộng Yểm (幻覺夢魘)"
-    },
-    {
-      "filename": "Chương_00070_Bước_Nhảy_Sinh_Tử.md",
-      "title": "Chương 70: Bước Nhảy Sinh Tử (生死一躍)"
-    },
-    {
-      "filename": "Chương_00071_Bóng_Tối_Huyết_Uyên.md",
-      "title": "Chương 71: Bóng Tối Huyết Uyên (血淵之暗)"
-    },
-    {
-      "filename": "Chương_00072_Nguồn_Cội_Thượng_Cổ.md",
-      "title": "Chương 72: Nguồn Cội Thượng Cổ (上古之源)"
-    },
-    {
-      "filename": "Chương_00073_Xâm_Nhập_Lõi_Độc.md",
-      "title": "Chương 73: Xâm Nhập Lõi Độc"
-    },
-    {
-      "filename": "Chương_00074_Trận_Chiến_Dưới_Lòng_Đất.md",
-      "title": "Chương 74: Trận Chiến Dưới Lòng Đất"
-    },
-    {
-      "filename": "Chương_00075_Bóng_Tối_Bủa_Vây.md",
-      "title": "Chương 75: Bóng Tối Bủa Vây"
-    },
-    {
-      "filename": "Chương_00076_Ánh_Sáng_Nơi_Lõi_Độc.md",
-      "title": "Chương 76: Ánh Sáng Nơi Lõi Độc"
-    },
-    {
-      "filename": "Chương_00077_Âm_Vang_Quỷ_Khốc.md",
-      "title": "Chương 77: Âm Vang Quỷ Khốc"
-    },
-    {
-      "filename": "Chương_00078_Luyện_Hóa_Tinh_Sa.md",
-      "title": "Chương 78: Luyện Hóa Tinh Sa"
-    },
-    {
-      "filename": "Chương_00079_Vòng_Vây_Huyết_Thi.md",
-      "title": "Chương 79: Vòng Vây Huyết Thi"
-    },
-    {
-      "filename": "Chương_00080_Tuyệt_Cảnh_Phá_Vây.md",
-      "title": "Chương 80: Tuyệt Cảnh Phá Vây"
-    },
-    {
-      "filename": "Chương_00081_Băng_Kiếm_Lai_Lâm.md",
-      "title": "Chương 81: Băng Kiếm Lai Lâm"
-    },
-    {
-      "filename": "Chương_00082_Tạm_Lánh_Phong_Ba.md",
-      "title": "Chương 82: Tạm Lánh Phong Ba (Góc Nhìn Chính)"
-    },
-    {
-      "filename": "Chương_00083_Hội_Bàn_Đối_Sách.md",
-      "title": "Chương 83: Hội Bàn Đối Sách"
-    },
-    {
-      "filename": "Chương_00084_Trở_Lại_Tử_Địa.md",
-      "title": "Chương 84: Trở Lại Tử Địa"
-    },
-    {
-      "filename": "Chương_00085_Trận_Chiến_Vùng_Đất_Chết.md",
-      "title": "Chương 85: Trận Chiến Vùng Đất Chết"
-    },
-    {
-      "filename": "Chương_00086_Phá_Giải_Huyễn_Ảnh.md",
-      "title": "Chương 86: Phá Giải Huyễn Ảnh"
-    },
-    {
-      "filename": "Chương_00087_Phá_Hủy_Mắt_Trận.md",
-      "title": "Chương 87: Phá Hủy Mắt Trận"
-    },
-    {
-      "filename": "Chương_00088_Hội_Sư_Đầm_Lầy.md",
-      "title": "Chương 88: Hội Sư Đầm Lầy"
-    },
-    {
-      "filename": "Chương_00089_Trảm_Độc_Kiếm_Tâm.md",
-      "title": "Chương 89: Trảm Độc Kiếm Tâm"
-    },
-    {
-      "filename": "Chương_00090_Hành_Trình_Mới.md",
-      "title": "Chương 90: Hành Trình Mới"
-    },
-    {
-      "filename": "Chương_00091_Đường_Tới_Cửu_Hoa.md",
-      "title": "Chương 91: Đường Tới Cửu Hoa"
-    },
-    {
-      "filename": "Chương_00092_Huyết_Sát_Chặn_Đường.md",
-      "title": "Chương 92: Huyết Sát Chặn Đường"
-    },
-    {
-      "filename": "Chương_00093_Đến_Cửu_Hoa.md",
-      "title": "Chương 93: Đến Cửu Hoa"
-    },
-    {
-      "filename": "Chương_00094_Bí_Mật_Ngoại_Môn.md",
-      "title": "Chương 94: Bí Mật Ngoại Môn"
-    },
-    {
-      "filename": "Chương_00095_Trận_Chiến_Không_Cân_Sức.md",
-      "title": "Chương 95: Trận Chiến Không Cân Sức"
-    },
-    {
-      "filename": "Chương_00096_Hội_Nghị_Thượng_Đỉnh.md",
-      "title": "Chương 96: Hội Nghị Thượng Đỉnh"
-    },
-    {
-      "filename": "Chương_00097_Bão_Táp_Cửu_Hoa.md",
-      "title": "Chương 97: Bão Táp Cửu Hoa"
-    },
-    {
-      "filename": "Chương_00098_Huyết_Chiến_Ngoại_Môn.md",
-      "title": "Chương 98: Huyết Chiến Ngoại Môn"
-    },
-    {
-      "filename": "Chương_00099_Cường_Giả_Hàng_Lâm.md",
-      "title": "Chương 99: Cường Giả Hàng Lâm"
-    },
-    {
-      "filename": "Chương_00101_Bế_Quan_Tu_Luyện.md",
-      "title": "Chương 101: Bế Quan Tu Luyện"
-    },
-    {
-      "filename": "Chương_00102_Xuất_Quan.md",
-      "title": "Chương 102: Xuất Quan"
-    },
-    {
-      "filename": "Chương_00103_Bước_Chân_Vào_Đông_Hoang.md",
-      "title": "Chương 103: Bước Chân Vào Đông Hoang"
-    },
-    {
-      "filename": "Chương_00104_Bóng_Ma_Rừng_Thẳm.md",
-      "title": "Chương 104: Bóng Ma Rừng Thẳm"
-    },
-    {
-      "filename": "Chương_00105_Gặp_Gỡ_Tinh_Linh.md",
-      "title": "Chương 105: Gặp Gỡ Tinh Linh"
-    },
-    {
-      "filename": "Chương_00106_Vòng_Vây_Huyết_Thi.md",
-      "title": "Chương 106: Vòng Vây Huyết Thi"
-    },
-    {
-      "filename": "Chương_00107_Ánh_Sáng_Cứu_Viện.md",
-      "title": "Chương 107: Ánh Sáng Cứu Viện"
-    },
-    {
-      "filename": "Chương_00108_Cửa_Ngõ_Vương_Đình.md",
-      "title": "Chương 108: Cửa Ngõ Vương Đình"
-    },
-    {
-      "filename": "Chương_00109_Độc_Phát_Vương_Đình.md",
-      "title": "Chương 109: Độc Phát Vương Đình"
-    },
-    {
-      "filename": "Chương_00110_Huyết_Chiến_Vương_Đình.md",
-      "title": "Chương 110: Huyết Chiến Vương Đình"
-    },
-    {
-      "filename": "Chương_00111_Chi_Viện_Nữ_Vương.md",
-      "title": "Chương 111: Chi Viện Nữ Vương"
-    },
-    {
-      "filename": "Chương_00112_Tái_Thiết_Vương_Đình.md",
-      "title": "Chương 112: Tái Thiết Vương Đình"
-    },
-    {
-      "filename": "Chương_00113_Bóng_Đen_Vạn_Yêu.md",
-      "title": "Chương 113: Bóng Đen Vạn Yêu"
-    },
-    {
-      "filename": "Chương_00114_Dấu_Vết_Tại_Vạn_Yêu_Thành.md",
-      "title": "Chương 114: Dấu Vết Tại Vạn Yêu Thành"
-    },
-    {
-      "filename": "Chương_00115_Khu_Chợ_Đen.md",
-      "title": "Chương 115: Khu Chợ Đen Vạn Yêu"
-    },
-    {
-      "filename": "Chương_00116_Đụng_Độ_Tại_Đấu_Trường.md",
-      "title": "Chương 116: Đụng Độ Tại Đấu Trường"
-    },
-    {
-      "filename": "Chương_00117_Biến_Số_Yêu_Vương.md",
-      "title": "Chương 117: Biến Số Yêu Vương"
-    },
-    {
-      "filename": "Chương_00118_Đối_Thoại_Yêu_Vương.md",
-      "title": "Chương 118: Đối Thoại Yêu Vương"
-    },
-    {
-      "filename": "Chương_00119_Hang_Động_Mãng_Tộc.md",
-      "title": "Chương 119: Hang Động Mãng Tộc"
-    },
-    {
-      "filename": "Chương_00120_Tiến_Vào_Phế_Tích.md",
-      "title": "Chương 120: Tiến Vào Phế Tích"
-    },
-    {
-      "filename": "Chương_00121_Quyết_Chiến_Huyết_Tế_Đài.md",
-      "title": "Chương 121: Quyết Chiến Huyết Tế Đài"
-    },
-    {
-      "filename": "Chương_00122_Khắc_Phục_Hậu_Quả_Vạn_Yêu_Thành.md",
-      "title": "Chương 122: Khắc Phục Hậu Quả Vạn Yêu Thành"
-    },
-    {
-      "filename": "Chương_00123_Hành_Trình_Mới.md",
-      "title": "Chương 123: Tiếng Gọi Từ Phương Bắc"
-    },
-    {
-      "filename": "Chương_00124_Sương_Giá_Nghênh_Đón.md",
-      "title": "Chương 124: Sương Giá Nghênh Đón"
-    },
-    {
-      "filename": "Chương_00125_Hội_Kiến_Cung_Chủ.md",
-      "title": "Chương 125: Hội Kiến Cung Chủ"
-    },
-    {
-      "filename": "Chương_00126_Tiến_Xuống_Băng_Uyên.md",
-      "title": "Chương 126: Tiến Xuống Băng Uyên"
-    },
-    {
-      "filename": "Chương_00127_Huyết_Chiến_Đáy_Vực.md",
-      "title": "Chương 127: Huyết Chiến Đáy Vực"
-    },
-    {
-      "filename": "Chương_00128_Băng_Uyên_Sụp_Đổ.md",
-      "title": "Chương 128: Băng Uyên Sụp Đổ"
-    },
-    {
-      "filename": "Chương_00129_Hậu_Quả_Băng_Uyên.md",
-      "title": "Chương 129: Hậu Quả Băng Uyên"
-    },
-    {
-      "filename": "Chương_00130_Dấu_Vết_Băng_Uyên.md",
-      "title": "Chương 130: Dấu Vết Băng Uyên"
-    },
-    {
-      "filename": "Chương_00131_Hành_Trình_Băng_Ngục.md",
-      "title": "Chương 131: Hành Trình Băng Ngục (冰狱之行)"
-    },
-    {
-      "filename": "Chương_00132_Tử_Địa_Hoang_Tàn.md",
-      "title": "Chương 132: Tử Địa Hoang Tàn (荒蕪死地)"
-    },
-    {
-      "filename": "Chương_00133_Băng_Huyết_Tôn_Giả.md",
-      "title": "Chương 133: Băng Huyết Tôn Giả"
-    },
-    {
-      "filename": "Chương_00134_Trận_Chiến_Đỉnh_Cao.md",
-      "title": "Chương 134: Trận Chiến Đỉnh Cao"
-    },
-    {
-      "filename": "Chương_00135_Uy_Áp_Kim_Đan.md",
-      "title": "Chương 135: Uy Áp Kim Đan"
-    },
-    {
-      "filename": "Chương_00136_Ánh_Sáng_Xuyên_Bão_Tuyết.md",
-      "title": "Chương 136: Ánh Sáng Xuyên Bão Tuyết"
-    },
-    {
-      "filename": "Chương_00137_Hội_Nghị_Khẩn_Cấp.md",
-      "title": "Chương 137: Hội Nghị Khẩn Cấp"
-    },
-    {
-      "filename": "Chương_00138_Hội_Nghị_Thượng_Đỉnh.md",
-      "title": "Chương 138: Hội Nghị Thượng Đỉnh"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -1452,6 +916,556 @@ Object.assign(chapterData, {
       "title": "Chương 5: Kiếm Đạo Hộ Thế"
     }
   ],
+  "Góc_Nhìn_Nam_Cương": [
+    {
+      "filename": "Chương_00001_Dấu_Hiệu_Tai_Ương.md",
+      "title": "Chương 1: Dấu Hiệu Tai Ương"
+    },
+    {
+      "filename": "Chương_00002_Phản_Kích_Và_Vòng_Vây.md",
+      "title": "Chương 2: Phản Kích và Vòng Vây"
+    },
+    {
+      "filename": "Chương_00003_Bóng_Ma_Trong_Màn_Sương.md",
+      "title": "Chương 3: Bóng Ma Trong Màn Sương"
+    },
+    {
+      "filename": "Chương_00004_Vạn_Độc_Thánh_Tử.md",
+      "title": "Chương 4: Vạn Độc Thánh Tử"
+    },
+    {
+      "filename": "Chương_00005_Dưới_Bóng_Ma_Rừng_Thẳm.md",
+      "title": "Chương 5: Dưới Bóng Ma Rừng Thẳm"
+    },
+    {
+      "filename": "Chương_00006_Huyết_Chiến_Đầm_Lầy.md",
+      "title": "Chương 6: Huyết Chiến Đầm Lầy"
+    },
+    {
+      "filename": "Chương_00007_Dấu_Vết_Cổ_Xưa.md",
+      "title": "Chương 7: Dấu Vết Cổ Xưa"
+    },
+    {
+      "filename": "Chương_00008_Huyết_Tướng_Truy_Sát.md",
+      "title": "Chương 8: Huyết Tướng Truy Sát"
+    },
+    {
+      "filename": "Chương_00009_Núi_Độc_Long.md",
+      "title": "Chương 9: Núi Độc Long"
+    },
+    {
+      "filename": "Chương_00010_Độc_Long_Xuất_Thế.md",
+      "title": "Chương 10: Độc Long Xuất Thế"
+    },
+    {
+      "filename": "Chương_00011_Bão_Cát_Tây_Mạc.md",
+      "title": "Chương 11: Bão Cát Tây Mạc"
+    },
+    {
+      "filename": "Chương_00012_Thương_Vụ_Bạc_Tỷ.md",
+      "title": "Chương 12: Thương Vụ Bạc Tỷ"
+    },
+    {
+      "filename": "Chương_00013_Lạc_Lối_Trong_Cát.md",
+      "title": "Chương 13: Lạc Lối Trong Cát"
+    },
+    {
+      "filename": "Chương_00014_Sa_Mạc_Mê_Cung.md",
+      "title": "Chương 14: Sa Mạc Mê Cung"
+    },
+    {
+      "filename": "Chương_00015_Bí_Mật_Hoàng_Sa.md",
+      "title": "Chương 15: Bí Mật Hoàng Sa"
+    },
+    {
+      "filename": "Chương_00016_Bí_Mật_Long_Cốt.md",
+      "title": "Chương 16: Bí Mật Long Cốt"
+    },
+    {
+      "filename": "Chương_00017_Trở_Về_Cát_Bụi.md",
+      "title": "Chương 17: Trở Về Cát Bụi"
+    },
+    {
+      "filename": "Chương_00018_Mưu_Đồ_Bóng_Tối.md",
+      "title": "Chương 18: Mưu Đồ Bóng Tối"
+    },
+    {
+      "filename": "Chương_00019_Huyết_Chiến_Trạm_Dừng_Chân.md",
+      "title": "Chương 19: Huyết Chiến Trạm Dừng Chân"
+    },
+    {
+      "filename": "Chương_00020_Hành_Trình_Về_Phía_Đông.md",
+      "title": "Chương 20: Hành Trình Về Phía Đông"
+    },
+    {
+      "filename": "Chương_00021_Ranh_Giới_Sinh_Tử.md",
+      "title": "Chương 21: Ranh Giới Sinh Tử"
+    },
+    {
+      "filename": "Chương_00022_Độc_Khí_Công_Tâm.md",
+      "title": "Chương 22: Độc Khí Công Tâm"
+    },
+    {
+      "filename": "Chương_00023_Huyết_Đằng_Vây_Hãm.md",
+      "title": "Chương 23: Huyết Đằng Vây Hãm"
+    },
+    {
+      "filename": "Chương_00024_Hang_Động_Nhện_Quỷ.md",
+      "title": "Chương 24: Hang Động Nhện Quỷ"
+    },
+    {
+      "filename": "Chương_00025_Huyết_Thi_Trỗi_Dậy.md",
+      "title": "Chương 25: Huyết Thi Trỗi Dậy"
+    },
+    {
+      "filename": "Chương_00026_Vượt_Cầu_Tử_Thần.md",
+      "title": "Chương 26: Vượt Cầu Tử Thần"
+    },
+    {
+      "filename": "Chương_00027_Mạch_Ngầm_Bí_Ẩn.md",
+      "title": "Chương 27: Mạch Ngầm Bí Ẩn"
+    },
+    {
+      "filename": "Chương_00028_Hoàng_Sa_Thâm_Cung.md",
+      "title": "Chương 28: Hoàng Sa Thâm Cung"
+    },
+    {
+      "filename": "Chương_00029_Bí_Mật_Dưới_Đáy_Hồ.md",
+      "title": "Chương 29: Bí Mật Dưới Đáy Hồ"
+    },
+    {
+      "filename": "Chương_00030_Điện_Thái_Hòa.md",
+      "title": "Chương 30: Điện Thái Hòa"
+    },
+    {
+      "filename": "Chương_00031_Thử_Thách_Của_Lục_Ly.md",
+      "title": "Chương 31: Thử Thách Của Lục Ly"
+    },
+    {
+      "filename": "Chương_00032_Bí_Mật_Long_Cốt.md",
+      "title": "Chương 32: Bí Mật Long Cốt"
+    },
+    {
+      "filename": "Chương_00033_Đại_Nạn_Long_Mạch.md",
+      "title": "Chương 33: Đại Nạn Long Mạch"
+    },
+    {
+      "filename": "Chương_00034_Hắc_Sa_Bão_Trỗi_Dậy.md",
+      "title": "Chương 34: Hắc Sa Bão Trỗi Dậy"
+    },
+    {
+      "filename": "Chương_00035_Sa_Hồn_Truy_Kích.md",
+      "title": "Chương 35: Sa Hồn Truy Kích"
+    },
+    {
+      "filename": "Chương_00036_Bí_Mật_Rừng_Thiên_Trụ.md",
+      "title": "Chương 36: Bí Mật Rừng Thiên Trụ"
+    },
+    {
+      "filename": "Chương_00037_Pháo_Đài_Xanh.md",
+      "title": "Chương 37: Pháo Đài Xanh"
+    },
+    {
+      "filename": "Chương_00038_Lối_Mòn_Trong_Bão.md",
+      "title": "Chương 38: Lối Mòn Trong Bão"
+    },
+    {
+      "filename": "Chương_00039_Ranh_Giới_Tử_Thần.md",
+      "title": "Chương 39: Ranh Giới Tử Thần"
+    },
+    {
+      "filename": "Chương_00040_Vòng_Vây_Huyết_Lang.md",
+      "title": "Chương 40: Vòng Vây Huyết Lang"
+    },
+    {
+      "filename": "Chương_00041_Huyết_Chiến_Lang_Vương.md",
+      "title": "Chương 41: Huyết Chiến Lang Vương"
+    },
+    {
+      "filename": "Chương_00042_Vùng_Đất_Chết.md",
+      "title": "Chương 42: Vùng Đất Chết"
+    },
+    {
+      "filename": "Chương_00043_Huyết_Chiến_Cửa_Hang.md",
+      "title": "Chương 43: Huyết Chiến Cửa Hang"
+    },
+    {
+      "filename": "Chương_00044_Mê_Cung_Tơ_Độc.md",
+      "title": "Chương 44: Mê Cung Tơ Độc"
+    },
+    {
+      "filename": "Chương_00045_Huyết_Chiến_Nhện_Chúa.md",
+      "title": "Chương 45: Huyết Chiến Nhện Chúa"
+    },
+    {
+      "filename": "Chương_00046_Thoát_Khỏi_Hang_Động.md",
+      "title": "Chương 46: Thoát Khỏi Hang Động"
+    },
+    {
+      "filename": "Chương_00047_Ánh_Sáng_Và_Bóng_Tối.md",
+      "title": "Chương 47: Ánh Sáng Và Bóng Tối"
+    },
+    {
+      "filename": "Chương_00048_Huyết_Trận_Khởi_Động.md",
+      "title": "Chương 48: Huyết Trận Khởi Động"
+    },
+    {
+      "filename": "Chương_00049_Vòng_Vây_Sinh_Tử.md",
+      "title": "Chương 49: Vòng Vây Sinh Tử (生死圍困)"
+    },
+    {
+      "filename": "Chương_00050_Huyết_Lộ_Phá_Trận.md",
+      "title": "Chương 50: Huyết Lộ Phá Trận (血路破陣)"
+    },
+    {
+      "filename": "Chương_00051_Tiếng_Sáo_Vượt_Rừng.md",
+      "title": "Chương 51: Tiếng Sáo Vượt Rừng (簫聲越林)"
+    },
+    {
+      "filename": "Chương_00052_Bí_Mật_Mộc_Linh_Trận.md",
+      "title": "Chương 52: Bí Mật Mộc Linh Trận (木靈陣之秘)"
+    },
+    {
+      "filename": "Chương_00053_Cuộc_Chiến_Thủ_Thành.md",
+      "title": "Chương 53: Cuộc Chiến Thủ Thành (守城之戰)"
+    },
+    {
+      "filename": "Chương_00054_Đột_Kích_Mắt_Trận_1.md",
+      "title": "Chương 54: Đột Kích Mắt Trận (Phần 1) (突襲陣眼・上)"
+    },
+    {
+      "filename": "Chương_00055_Đột_Kích_Mắt_Trận_2.md",
+      "title": "Chương 55: Đột Kích Mắt Trận (Phần 2) (突襲陣眼・下)"
+    },
+    {
+      "filename": "Chương_00056_Vòng_Vây_Siết_Chặt.md",
+      "title": "Chương 56: Vòng Vây Siết Chặt (圍困・緊)"
+    },
+    {
+      "filename": "Chương_00057_Bóng_Ma_Trong_Sương.md",
+      "title": "Chương 57: Bóng Ma Trong Sương"
+    },
+    {
+      "filename": "Chương_00058_Huyết_Mạch_Thượng_Cổ.md",
+      "title": "Chương 58: Huyết Mạch Thượng Cổ"
+    },
+    {
+      "filename": "Chương_00059_Bí_Mật_Dưới_Lòng_Đất.md",
+      "title": "Chương 59: Bí Mật Dưới Lòng Đất"
+    },
+    {
+      "filename": "Chương_00060_Huyết_Chiến_Ngô_Công.md",
+      "title": "Chương 60: Huyết Chiến Ngô Công"
+    },
+    {
+      "filename": "Chương_00061_Giao_Ước_Trong_Bóng_Tối.md",
+      "title": "Chương 61: Giao Ước Trong Bóng Tối"
+    },
+    {
+      "filename": "Chương_00062_Lối_Mòn_Trong_Lòng_Đất.md",
+      "title": "Chương 62: Lối Mòn Trong Lòng Đất"
+    },
+    {
+      "filename": "Chương_00063_Hỗn_Loạn_Tại_Kho_Chứa.md",
+      "title": "Chương 63: Hỗn Loạn Tại Kho Chứa"
+    },
+    {
+      "filename": "Chương_00064_Mê_Cung_Nấm_Độc.md",
+      "title": "Chương 64: Mê Cung Nấm Độc"
+    },
+    {
+      "filename": "Chương_00065_Bí_Mật_Huyết_Trì.md",
+      "title": "Chương 65: Bí Mật Huyết Trì (血池之秘)"
+    },
+    {
+      "filename": "Chương_00066_Huyết_Chiến_Bên_Hồ.md",
+      "title": "Chương 66: Huyết Chiến Bên Hồ (血池激戰)"
+    },
+    {
+      "filename": "Chương_00067_Bóng_Ma_Trong_Sương_Đỏ.md",
+      "title": "Chương 67: Bóng Ma Trong Sương Đỏ (紅霧魅影)"
+    },
+    {
+      "filename": "Chương_00068_Tiếng_Gọi_Nơi_Rừng_Thẳm.md",
+      "title": "Chương 68: Tiếng Gọi Nơi Rừng Thẳm (深林之聲)"
+    },
+    {
+      "filename": "Chương_00069_Ảo_Giác_Mộng_Yểm.md",
+      "title": "Chương 69: Ảo Giác Mộng Yểm (幻覺夢魘)"
+    },
+    {
+      "filename": "Chương_00070_Bước_Nhảy_Sinh_Tử.md",
+      "title": "Chương 70: Bước Nhảy Sinh Tử (生死一躍)"
+    },
+    {
+      "filename": "Chương_00071_Bóng_Tối_Huyết_Uyên.md",
+      "title": "Chương 71: Bóng Tối Huyết Uyên (血淵之暗)"
+    },
+    {
+      "filename": "Chương_00072_Nguồn_Cội_Thượng_Cổ.md",
+      "title": "Chương 72: Nguồn Cội Thượng Cổ (上古之源)"
+    },
+    {
+      "filename": "Chương_00073_Xâm_Nhập_Lõi_Độc.md",
+      "title": "Chương 73: Xâm Nhập Lõi Độc"
+    },
+    {
+      "filename": "Chương_00074_Trận_Chiến_Dưới_Lòng_Đất.md",
+      "title": "Chương 74: Trận Chiến Dưới Lòng Đất"
+    },
+    {
+      "filename": "Chương_00075_Bóng_Tối_Bủa_Vây.md",
+      "title": "Chương 75: Bóng Tối Bủa Vây"
+    },
+    {
+      "filename": "Chương_00076_Ánh_Sáng_Nơi_Lõi_Độc.md",
+      "title": "Chương 76: Ánh Sáng Nơi Lõi Độc"
+    },
+    {
+      "filename": "Chương_00077_Âm_Vang_Quỷ_Khốc.md",
+      "title": "Chương 77: Âm Vang Quỷ Khốc"
+    },
+    {
+      "filename": "Chương_00078_Luyện_Hóa_Tinh_Sa.md",
+      "title": "Chương 78: Luyện Hóa Tinh Sa"
+    },
+    {
+      "filename": "Chương_00079_Vòng_Vây_Huyết_Thi.md",
+      "title": "Chương 79: Vòng Vây Huyết Thi"
+    },
+    {
+      "filename": "Chương_00080_Tuyệt_Cảnh_Phá_Vây.md",
+      "title": "Chương 80: Tuyệt Cảnh Phá Vây"
+    },
+    {
+      "filename": "Chương_00081_Băng_Kiếm_Lai_Lâm.md",
+      "title": "Chương 81: Băng Kiếm Lai Lâm"
+    },
+    {
+      "filename": "Chương_00082_Tạm_Lánh_Phong_Ba.md",
+      "title": "Chương 82: Tạm Lánh Phong Ba (Góc Nhìn Chính)"
+    },
+    {
+      "filename": "Chương_00083_Hội_Bàn_Đối_Sách.md",
+      "title": "Chương 83: Hội Bàn Đối Sách"
+    },
+    {
+      "filename": "Chương_00084_Trở_Lại_Tử_Địa.md",
+      "title": "Chương 84: Trở Lại Tử Địa"
+    },
+    {
+      "filename": "Chương_00085_Trận_Chiến_Vùng_Đất_Chết.md",
+      "title": "Chương 85: Trận Chiến Vùng Đất Chết"
+    },
+    {
+      "filename": "Chương_00086_Phá_Giải_Huyễn_Ảnh.md",
+      "title": "Chương 86: Phá Giải Huyễn Ảnh"
+    },
+    {
+      "filename": "Chương_00087_Phá_Hủy_Mắt_Trận.md",
+      "title": "Chương 87: Phá Hủy Mắt Trận"
+    },
+    {
+      "filename": "Chương_00088_Hội_Sư_Đầm_Lầy.md",
+      "title": "Chương 88: Hội Sư Đầm Lầy"
+    },
+    {
+      "filename": "Chương_00089_Trảm_Độc_Kiếm_Tâm.md",
+      "title": "Chương 89: Trảm Độc Kiếm Tâm"
+    },
+    {
+      "filename": "Chương_00090_Hành_Trình_Mới.md",
+      "title": "Chương 90: Hành Trình Mới"
+    },
+    {
+      "filename": "Chương_00091_Đường_Tới_Cửu_Hoa.md",
+      "title": "Chương 91: Đường Tới Cửu Hoa"
+    },
+    {
+      "filename": "Chương_00092_Huyết_Sát_Chặn_Đường.md",
+      "title": "Chương 92: Huyết Sát Chặn Đường"
+    },
+    {
+      "filename": "Chương_00093_Đến_Cửu_Hoa.md",
+      "title": "Chương 93: Đến Cửu Hoa"
+    },
+    {
+      "filename": "Chương_00094_Bí_Mật_Ngoại_Môn.md",
+      "title": "Chương 94: Bí Mật Ngoại Môn"
+    },
+    {
+      "filename": "Chương_00095_Trận_Chiến_Không_Cân_Sức.md",
+      "title": "Chương 95: Trận Chiến Không Cân Sức"
+    },
+    {
+      "filename": "Chương_00096_Hội_Nghị_Thượng_Đỉnh.md",
+      "title": "Chương 96: Hội Nghị Thượng Đỉnh"
+    },
+    {
+      "filename": "Chương_00097_Bão_Táp_Cửu_Hoa.md",
+      "title": "Chương 97: Bão Táp Cửu Hoa"
+    },
+    {
+      "filename": "Chương_00098_Huyết_Chiến_Ngoại_Môn.md",
+      "title": "Chương 98: Huyết Chiến Ngoại Môn"
+    },
+    {
+      "filename": "Chương_00099_Cường_Giả_Hàng_Lâm.md",
+      "title": "Chương 99: Cường Giả Hàng Lâm"
+    },
+    {
+      "filename": "Chương_00101_Bế_Quan_Tu_Luyện.md",
+      "title": "Chương 101: Bế Quan Tu Luyện"
+    },
+    {
+      "filename": "Chương_00102_Xuất_Quan.md",
+      "title": "Chương 102: Xuất Quan"
+    },
+    {
+      "filename": "Chương_00103_Bước_Chân_Vào_Đông_Hoang.md",
+      "title": "Chương 103: Bước Chân Vào Đông Hoang"
+    },
+    {
+      "filename": "Chương_00104_Bóng_Ma_Rừng_Thẳm.md",
+      "title": "Chương 104: Bóng Ma Rừng Thẳm"
+    },
+    {
+      "filename": "Chương_00105_Gặp_Gỡ_Tinh_Linh.md",
+      "title": "Chương 105: Gặp Gỡ Tinh Linh"
+    },
+    {
+      "filename": "Chương_00106_Vòng_Vây_Huyết_Thi.md",
+      "title": "Chương 106: Vòng Vây Huyết Thi"
+    },
+    {
+      "filename": "Chương_00107_Ánh_Sáng_Cứu_Viện.md",
+      "title": "Chương 107: Ánh Sáng Cứu Viện"
+    },
+    {
+      "filename": "Chương_00108_Cửa_Ngõ_Vương_Đình.md",
+      "title": "Chương 108: Cửa Ngõ Vương Đình"
+    },
+    {
+      "filename": "Chương_00109_Độc_Phát_Vương_Đình.md",
+      "title": "Chương 109: Độc Phát Vương Đình"
+    },
+    {
+      "filename": "Chương_00110_Huyết_Chiến_Vương_Đình.md",
+      "title": "Chương 110: Huyết Chiến Vương Đình"
+    },
+    {
+      "filename": "Chương_00111_Chi_Viện_Nữ_Vương.md",
+      "title": "Chương 111: Chi Viện Nữ Vương"
+    },
+    {
+      "filename": "Chương_00112_Tái_Thiết_Vương_Đình.md",
+      "title": "Chương 112: Tái Thiết Vương Đình"
+    },
+    {
+      "filename": "Chương_00113_Bóng_Đen_Vạn_Yêu.md",
+      "title": "Chương 113: Bóng Đen Vạn Yêu"
+    },
+    {
+      "filename": "Chương_00114_Dấu_Vết_Tại_Vạn_Yêu_Thành.md",
+      "title": "Chương 114: Dấu Vết Tại Vạn Yêu Thành"
+    },
+    {
+      "filename": "Chương_00115_Khu_Chợ_Đen.md",
+      "title": "Chương 115: Khu Chợ Đen Vạn Yêu"
+    },
+    {
+      "filename": "Chương_00116_Đụng_Độ_Tại_Đấu_Trường.md",
+      "title": "Chương 116: Đụng Độ Tại Đấu Trường"
+    },
+    {
+      "filename": "Chương_00117_Biến_Số_Yêu_Vương.md",
+      "title": "Chương 117: Biến Số Yêu Vương"
+    },
+    {
+      "filename": "Chương_00118_Đối_Thoại_Yêu_Vương.md",
+      "title": "Chương 118: Đối Thoại Yêu Vương"
+    },
+    {
+      "filename": "Chương_00119_Hang_Động_Mãng_Tộc.md",
+      "title": "Chương 119: Hang Động Mãng Tộc"
+    },
+    {
+      "filename": "Chương_00120_Tiến_Vào_Phế_Tích.md",
+      "title": "Chương 120: Tiến Vào Phế Tích"
+    },
+    {
+      "filename": "Chương_00121_Quyết_Chiến_Huyết_Tế_Đài.md",
+      "title": "Chương 121: Quyết Chiến Huyết Tế Đài"
+    },
+    {
+      "filename": "Chương_00122_Khắc_Phục_Hậu_Quả_Vạn_Yêu_Thành.md",
+      "title": "Chương 122: Khắc Phục Hậu Quả Vạn Yêu Thành"
+    },
+    {
+      "filename": "Chương_00123_Hành_Trình_Mới.md",
+      "title": "Chương 123: Tiếng Gọi Từ Phương Bắc"
+    },
+    {
+      "filename": "Chương_00124_Sương_Giá_Nghênh_Đón.md",
+      "title": "Chương 124: Sương Giá Nghênh Đón"
+    },
+    {
+      "filename": "Chương_00125_Hội_Kiến_Cung_Chủ.md",
+      "title": "Chương 125: Hội Kiến Cung Chủ"
+    },
+    {
+      "filename": "Chương_00126_Tiến_Xuống_Băng_Uyên.md",
+      "title": "Chương 126: Tiến Xuống Băng Uyên"
+    },
+    {
+      "filename": "Chương_00127_Huyết_Chiến_Đáy_Vực.md",
+      "title": "Chương 127: Huyết Chiến Đáy Vực"
+    },
+    {
+      "filename": "Chương_00128_Băng_Uyên_Sụp_Đổ.md",
+      "title": "Chương 128: Băng Uyên Sụp Đổ"
+    },
+    {
+      "filename": "Chương_00129_Hậu_Quả_Băng_Uyên.md",
+      "title": "Chương 129: Hậu Quả Băng Uyên"
+    },
+    {
+      "filename": "Chương_00130_Dấu_Vết_Băng_Uyên.md",
+      "title": "Chương 130: Dấu Vết Băng Uyên"
+    },
+    {
+      "filename": "Chương_00131_Hành_Trình_Băng_Ngục.md",
+      "title": "Chương 131: Hành Trình Băng Ngục (冰狱之行)"
+    },
+    {
+      "filename": "Chương_00132_Tử_Địa_Hoang_Tàn.md",
+      "title": "Chương 132: Tử Địa Hoang Tàn (荒蕪死地)"
+    },
+    {
+      "filename": "Chương_00133_Băng_Huyết_Tôn_Giả.md",
+      "title": "Chương 133: Băng Huyết Tôn Giả"
+    },
+    {
+      "filename": "Chương_00134_Trận_Chiến_Đỉnh_Cao.md",
+      "title": "Chương 134: Trận Chiến Đỉnh Cao"
+    },
+    {
+      "filename": "Chương_00135_Uy_Áp_Kim_Đan.md",
+      "title": "Chương 135: Uy Áp Kim Đan"
+    },
+    {
+      "filename": "Chương_00136_Ánh_Sáng_Xuyên_Bão_Tuyết.md",
+      "title": "Chương 136: Ánh Sáng Xuyên Bão Tuyết"
+    },
+    {
+      "filename": "Chương_00137_Hội_Nghị_Khẩn_Cấp.md",
+      "title": "Chương 137: Hội Nghị Khẩn Cấp"
+    },
+    {
+      "filename": "Chương_00138_Hội_Nghị_Thượng_Đỉnh.md",
+      "title": "Chương 138: Hội Nghị Thượng Đỉnh"
+    }
+  ],
   "Góc_Nhìn_Ngao_Đình": [
     {
       "filename": "Chương_00003_Sấm_Sét_Và_Kiêu_Ngạo.md",
@@ -1595,28 +1609,10 @@ Object.assign(chapterData, {
       "filename": "Chương_00010_Lời_Tiên_Tri_Từ_Rừng_Sâu.md",
       "title": "Chương 10: Lời Tiên Tri Từ Rừng Sâu"
     }
-  ],
-  "Góc_Nhìn_A_Ngốc": [
-    {
-      "filename": "Chương_00001_Bạn_Bướm.md",
-      "title": "Chương 1: Bạn Bướm"
-    },
-    {
-      "filename": "Chương_00002_Ông_Già_Ngủ.md",
-      "title": "Chương 2: Ông Già Ngủ"
-    },
-    {
-      "filename": "Chương_00003_Cái_Bụng_Đói.md",
-      "title": "Chương 3: Cái Bụng Đói"
-    },
-    {
-      "filename": "Chương_00004_Con_Quái_Vật_Ở_Rừng.md",
-      "title": "Chương 4: Con Quái Vật Ở Rừng"
-    }
   ]
 });
 
-chapterData.Góc_Nhìn_Nam_Cương.push({
+chapterData.Góc_Nhìn_Chính.push({
   filename: "Chương_Mẫu_Huyền_Băng.md",
   title: "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
 });
