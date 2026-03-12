@@ -13,17 +13,17 @@
 | Góc Nhìn Chính | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 17 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 19 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 
 ### Vị Trí Trong Vòng Xoay
 > Vòng xoay hiện tại: Tạm dừng để catch-up Góc Nhìn Lâm Phong.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 18, 19...).
-2. Cập nhật hồ sơ nhân vật/thế lực/kỳ vật tương ứng.
+1. Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 20, 21...).
+2. Cập nhật hồ sơ thế giới liên quan đến "Vùng Đất Chết" (Cấm địa).
 
 ### Ghi Chú
-> Đang tập trung catch-up cho Lâm Phong để đạt đủ số lượng chương theo tỷ lệ yêu cầu. Đã hoàn thành Chương 16, 17. Các chương đã bắt đầu giao cắt với sự kiện của tuyến Diệp Tĩnh Sương.
+> Đang tập trung catch-up cho Lâm Phong để đạt đủ số lượng chương theo tỷ lệ yêu cầu. Đã hoàn thành Chương 18, 19, tiếp nối sự kiện giao cắt với Diệp Tĩnh Sương tại Khe Nứt Sinh Tử và lên kế hoạch băng qua Vùng Đất Chết.
 
 ---
 
