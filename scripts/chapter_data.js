@@ -650,6 +650,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00005_Sống_Sót_Bằng_Lưỡi_Kiếm.md",
       "title": "Chương 5: Sống Sót Bằng Lưỡi Kiếm"
+    },
+    {
+      "filename": "Chương_00006_Bóng_Tối_Ma_Phong.md",
+      "title": "Chương 6: Bóng Tối Ma Phong"
     }
   ],
   "Góc_Nhìn_Hải_Vực": [
@@ -832,6 +836,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00004_Cực_Hàn_Ma_Châu.md",
       "title": "Chương 4: Cực Hàn Ma Châu"
+    },
+    {
+      "filename": "Chương_00005_Phòng_Thủ_Băng_Nguyên.md",
+      "title": "Chương 5: Phòng Thủ Băng Nguyên"
     }
   ],
   "Góc_Nhìn_Lệ_Nhược_Thủy": [
@@ -846,6 +854,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00005_Hải_Thú_Nổi_Loạn.md",
       "title": "Chương 5: Hải Thú Nổi Loạn"
+    },
+    {
+      "filename": "Chương_00006_Quyết_Định_Lên_Bờ.md",
+      "title": "Chương 6: Quyết Định Lên Bờ"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
@@ -1402,6 +1414,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00005_Ký_Ức_Vỡ_Vụn.md",
       "title": "Chương 5: Ký Ức Vỡ Vụn"
+    },
+    {
+      "filename": "Chương_00006_Người_Mang_Tín_Vật.md",
+      "title": "Chương 6: Người Mang Tín Vật"
     }
   ],
   "Góc_Nhìn_Nam_Cương": [
@@ -1540,6 +1556,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00005_Tái_Ngộ_Diệp_Thanh_Y.md",
       "title": "Chương 5: Tái Ngộ Diệp Thanh Y"
+    },
+    {
+      "filename": "Chương_00006_Thiên_Viêm_Phẫn_Nộ.md",
+      "title": "Chương 6: Thiên Viêm Phẫn Nộ"
     }
   ],
   "Góc_Nhìn_Đông_Hoang": [
