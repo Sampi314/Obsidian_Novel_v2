@@ -338,7 +338,7 @@
     - [Huyết Ma Tông](Thế_Lực/Huyết_Ma_Tông.md)
     - [Quỷ Thị Nam Cương](Thế_Lực/Quỷ_Thị_Nam_Cương.md)
     - [Bách Thú Sơn Trang](Thế_Lực/Bách_Thú_Sơn_Trang.md)
-    - **Thương Hội Bạch Lang:** Một trong những thương hội lớn hoạt động tại vùng biên giới Nam Cương, chuyên thuê mướn tán tu để hộ tống hàng hóa (cờ hiệu hình sói trắng).
+    - [Thương Hội Bạch Lang](Thế_Lực/Thương_Hội_Bạch_Lang.md)
 - **Thiên Trụ Sơn (Thế Giới Pillar):**
     - [Long Cung](Thế_Lực/Long_Cung.md)
     - [Vũ Hoàng Các](Thế_Lực/Vũ_Hoàng_Các.md)
