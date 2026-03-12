@@ -46,3 +46,5 @@
 - [Chương 44: Phục Kích Nơi Hẻm Núi](Chương_00044_Phục_Kích_Nơi_Hẻm_Núi.md)
 - [Chương 45: Phiên Chợ Ngoại Môn](Chương_00045_Phiên_Chợ_Ngoại_Môn.md)
 - [Chương 46: Bóng Tối Dưới Chân Núi](Chương_00046_Bóng_Tối_Dưới_Chân_Núi.md)
+- [Chương 47: Khảo Nghiệm Đầu Tiên](Chương_00047_Khảo_Nghiệm_Đầu_Tiên.md)
+- [Chương 48: Ảo Trận Vấn Tâm](Chương_00048_Ảo_Trận_Vấn_Tâm.md)

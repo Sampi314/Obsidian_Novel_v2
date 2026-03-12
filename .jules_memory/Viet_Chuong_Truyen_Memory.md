@@ -9,10 +9,10 @@
 - [Lâm Phong Catch-up]: Lâm Phong rời Hắc Mộc Lâm, đến Trạm Biên, chạm trán đệ tử Vạn Độc Môn ở Nam Cương. Đã hoàn thành xâm nhập Sào Huyệt Lão Chu lấy thuốc áp chế độc.
 
 ## PHIÊN GẦN NHẤT
-## Phiên làm việc: Viết Chương 31, 32 (Góc Nhìn Lâm Phong)
+## Phiên làm việc: Viết Chương 47, 48 (Góc Nhìn Lâm Phong)
 - **Ngày:** Hôm nay
-- **Chương 31:** Thuốc Giải Hiệu Nghiệm
-- **Chương 32:** Ánh Sáng Đầu Ngày
+- **Chương 47:** Khảo Nghiệm Đầu Tiên
+- **Chương 48:** Ảo Trận Vấn Tâm
 - **Góc Nhìn:** Lâm Phong
-- **Tóm tắt:** Lâm Phong mang thuốc áp chế trở ra cho Diệp Tĩnh Sương. Cả hai uống đan dược, khôi phục lại một phần linh lực và bắt đầu đột phá vòng vây để thoát khỏi Sào Huyệt ngầm. Họ kết hợp sức mạnh vượt qua đám Huyết Vệ và đụng độ Lão Chu (Trúc Cơ Hậu Kỳ) ở ngay cửa ra. Bằng mưu trí, Lâm Phong dùng cung thuật phế chân Lão Chu, tạo cơ hội cho Tĩnh Sương đóng băng lão, đồng thời làm sập cầu thang đá, chôn vùi Lão Chu và Huyết Vệ. Cả hai trốn thoát thành công lên mặt đất Rừng Huyết Độc.
-- **Tình trạng:** Hoàn thành. Đã thoát khỏi Hang Động Nhện Quỷ.
+- **Tóm tắt:** Lâm Phong và Diệp Tĩnh Sương quyết định tham gia Đại Điển Tuyển Đồ ngoại môn của Cửu Hoa Kiếm Tông để lẩn trốn sự truy sát của Huyết Sát Minh. Họ xuất sắc ngụy trang thực lực và linh căn (Tĩnh Sương ngụy tạo tạp linh căn Thủy-Hỏa) để vượt qua vòng Cân Cốt Đo Thể. Ở vòng tiếp theo, cả hai đối mặt với Huyễn Mộng Vấn Tâm Trận trong Mê Tung Lâm. Lâm Phong và Tĩnh Sương lần lượt vượt qua bóng ma quá khứ bằng ý chí sắt đá và bản năng sinh tồn mãnh liệt, chính thức đặt chân lên con đường dẫn vào ngoại môn.
+- **Tình trạng:** Hoàn thành. Đã vượt qua hai vòng đầu của Đại Điển.

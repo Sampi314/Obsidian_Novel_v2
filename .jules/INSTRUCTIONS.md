@@ -15,7 +15,7 @@
 | Góc Nhìn Chính | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 46 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 48 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 
 #### Tuyến Khu Vực (Đa Nhân Vật — Nhóm Theo Vùng)
 | Góc Nhìn | Số Chương | Nhân Vật | Ghi Chú |
@@ -30,8 +30,8 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1 (10 ch mỗi tuyến, Nam Cương 20 ch). Bắt đầu viết Arc 2.
-2. **Tiếp tục Catch-up Lâm Phong**: Chương 47, 48... Tham gia Đại Điển Tuyển Đồ ngoại môn Cửu Hoa Kiếm Tông.
+1. **Tiếp tục Catch-up Lâm Phong**: Chương 49, 50... Diễn biến tiếp theo của Đại Điển Tuyển Đồ và thâm nhập ngoại môn.
+2. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1 (10 ch mỗi tuyến, Nam Cương 20 ch). Bắt đầu viết Arc 2.
 3. **Mở rộng chương riêng cho 19 nhân vật phụ**: Tiếp tục Task 6, hoàn thành ch 7-10 cho các nhân vật phụ.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
@@ -98,7 +98,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Lâm Phong đã hoàn thành ch 45-46 (Đến phiên chợ ngoại môn Cửu Hoa Kiếm Tông, phát hiện dấu vết Huyết Sát Minh ở Hắc Thị Quán, quyết định tham gia tuyển đồ ngoại môn để ẩn thân). **MỚI:** Đang tái tạo + mở rộng 19 thư mục góc nhìn cá nhân — viết ch 1-6 cho tất cả 19 nhân vật phụ (76+ chương mới). Thêm nhân vật mới: A Ngốc.
+> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Lâm Phong đã hoàn thành ch 47-48 (Tham gia Đại Điển Tuyển Đồ ngoại môn Cửu Hoa Kiếm Tông, vượt qua ải Cân Cốt Đo Thể và Ảo Trận Vấn Tâm). **MỚI:** Đang tái tạo + mở rộng 19 thư mục góc nhìn cá nhân — viết ch 1-6 cho tất cả 19 nhân vật phụ (76+ chương mới). Thêm nhân vật mới: A Ngốc.
 
 ---
 

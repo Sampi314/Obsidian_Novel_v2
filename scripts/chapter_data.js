@@ -360,6 +360,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00046_Bóng_Tối_Dưới_Chân_Núi.md",
       "title": "Chương 46: Bóng Tối Dưới Chân Núi"
+    },
+    {
+      "filename": "Chương_00047_Khảo_Nghiệm_Đầu_Tiên.md",
+      "title": "Chương 47: Khảo Nghiệm Đầu Tiên"
+    },
+    {
+      "filename": "Chương_00048_Ảo_Trận_Vấn_Tâm.md",
+      "title": "Chương 48: Ảo Trận Vấn Tâm"
     }
   ],
   "Góc_Nhìn_Lý_Tuyết_Ưng": [
