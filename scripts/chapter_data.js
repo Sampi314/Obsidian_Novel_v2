@@ -1460,6 +1460,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00004_Gián_Điệp_Giữa_Hàng_Ngũ.md",
       "title": "Chương 4: Gián Điệp Giữa Hàng Ngũ"
+    },
+    {
+      "filename": "Chương_00005_Kiếm_Đạo_Hộ_Thế.md",
+      "title": "Chương 5: Kiếm Đạo Hộ Thế"
     }
   ],
   "Góc_Nhìn_Nam_Cương": [
@@ -1570,12 +1574,20 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00005_Đồng_Hành_Bất_Đắc_Dĩ.md",
       "title": "Chương 5: Đồng Hành Bất Đắc Dĩ"
+    },
+    {
+      "filename": "Chương_00006_Bí_Mật_Đông_Hoang.md",
+      "title": "Chương 6: Bí Mật Đông Hoang"
     }
   ],
   "Góc_Nhìn_Sở_Lăng_Sương": [
     {
       "filename": "Chương_00003_Sương_Độc_Phát_Tác.md",
       "title": "Chương 3: Sương Độc Phát Tác"
+    },
+    {
+      "filename": "Chương_00004_Cường_Đạo_Tuyết_Sơn.md",
+      "title": "Chương 4: Cường Đạo Tuyết Sơn"
     }
   ],
   "Góc_Nhìn_Tây_Mạc": [
