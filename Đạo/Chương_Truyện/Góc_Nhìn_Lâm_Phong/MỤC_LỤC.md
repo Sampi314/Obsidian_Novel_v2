@@ -36,3 +36,5 @@
 - [Chương 34: Bóng Đêm Săn Đuổi](Chương_00034_Bóng_Đêm_Săn_Đuổi.md)
 - [Chương 35: Cạm Bẫy Huyết Đằng](Chương_00035_Cạm_Bẫy_Huyết_Đằng.md)
 - [Chương 36: Sát Cơ Tiềm Ẩn](Chương_00036_Sát_Cơ_Tiềm_Ẩn.md)
+- [Chương 37: Dấu Vết Huyết Sát](Chương_00037_Dấu_Vết_Huyết_Sát.md)
+- [Chương 38: Phản Sát Trong Sương](Chương_00038_Phản_Sát_Trong_Sương.md)

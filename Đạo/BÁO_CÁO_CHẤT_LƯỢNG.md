@@ -8,6 +8,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 37, 38 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 37 (Dấu Vết Huyết Sát) và Chương 38 (Phản Sát Trong Sương). Lâm Phong và Tĩnh Sương nhận ra họ đang bị truy sát bởi Huyết Sát Minh và thiết lập bẫy rập để phản phục kích, tiêu diệt nhóm sát thủ. |
 | Hôm nay | Tổng Quản | Viết Chương 35, 36 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 35 (Cạm Bẫy Huyết Đằng) và Chương 36 (Sát Cơ Tiềm Ẩn). Lâm Phong và Tĩnh Sương đối mặt với bầy Huyết Đằng và tiêu diệt một sát thủ Trúc Cơ của Huyết Sát Minh. |
 | Hôm nay | Tổng Quản | Viết Chương 33, 34 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 33 (Dấu Vết Sinh Tồn) và Chương 34 (Bóng Đêm Săn Đuổi). Cả hai che giấu dấu vết sinh tồn tại Rừng Huyết Độc, sau đó phối hợp tiêu diệt nhóm Huyết Vệ trong đêm tối. |
 | Hôm nay | Tổng Quản | Viết Chương 31, 32 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 31 (Thuốc Giải Hiệu Nghiệm) và Chương 32 (Ánh Sáng Đầu Ngày). Lâm Phong và Tĩnh Sương khôi phục sức mạnh nhờ thuốc áp chế, kết hợp đánh bại Lão Chu và trốn thoát khỏi Sào Huyệt ngầm (Hang Động Nhện Quỷ), bước lên mặt đất Rừng Huyết Độc. |
