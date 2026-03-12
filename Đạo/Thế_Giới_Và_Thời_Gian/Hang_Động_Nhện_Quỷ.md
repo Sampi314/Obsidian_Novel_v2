@@ -25,10 +25,11 @@
 - **Hiện trạng:** Đã bị nhóm nhân vật chính khám phá, vô tình kích hoạt hệ thống phòng thủ của Vạn Độc Môn (Chương 24 Góc Nhìn Lâm Phong).
 
 ### 3. Mạch Ngầm (Sông Ngầm Bí Ẩn)
-- Nằm ở tầng sâu nhất, ngăn cách với Dưỡng Thi Địa bởi một vực thẳm.
-- **Đặc điểm:** Dòng nước đen ngòm chảy xiết, lạnh lẽo và chứa độc tố nhẹ do ngấm qua tầng đất của Rừng Huyết Độc.
-- **Sinh vật:** Có thể chứa các loài thủy quái biến dị chưa được biết đến.
-- **Lối thoát:** Dòng sông chảy về phía Tây, có thể dẫn ra khỏi khu rừng hoặc đi sâu vào lòng đất của Tây Mạc.
+- Nằm ở tầng sâu nhất, ngăn cách với Dưỡng Thi Địa bởi một khe nứt tự nhiên hẹp, dốc và trơn trượt.
+- **Đặc điểm:** Dòng nước đen ngòm chảy xiết, lạnh buốt thấu xương. Nước ở đây chứa độc tố hòa lẫn âm khí do ngấm qua tầng đất của Rừng Huyết Độc và Dưỡng Thi Địa phía trên. Tuy nhiên, nó lại là một lối đi bí mật mà Vạn Độc Môn sử dụng để vận chuyển Huyết Tinh thô và các vật tư thí nghiệm mà không sợ bị Nhện Mặt Quỷ quấy nhiễu.
+- **Dấu vết:** Vạn Độc Môn đã thiết lập một số bẫy ngầm và các trạm trung chuyển nhỏ dọc theo dòng sông. Những kẻ xâm nhập thường để lại dấu vết đặc trưng của Huyết Thần Độc và các bẫy độc đinh tinh vi để chống lại sự theo dõi.
+- **Sinh vật:** Do ảnh hưởng của Huyết Thần Độc và âm khí, nhiều loài sinh vật dưới nước đã biến dị. Đáng sợ nhất là Hắc Lân Thủy Xà (Rắn nước vảy đen) mù lòa nhưng cực kỳ nhạy bén với mùi máu và dao động nước, cùng các loài đỉa hút máu khổng lồ.
+- **Lối thoát:** Dòng sông chảy xiết về phía Tây, len lỏi qua các hang động ngầm phức tạp, có thể dẫn ra khỏi Rừng Huyết Độc hoặc đi sâu vào lòng đất giáp ranh Tây Mạc. Nơi đây từng là lối thoát hiểm của Lệ Vô Tâm sau khi bại trận.
 
 ## IV. VAI TRÒ TRONG CỐT TRUYỆN
 - Là nơi nhóm nhân vật chính trú ẩn tạm thời nhưng lại rơi vào bẫy của Vạn Độc Môn.
