@@ -1,5 +1,11 @@
 const chapterData = (typeof window !== "undefined" && window.chapterData) ? window.chapterData : {};
 Object.assign(chapterData, {
+  "Góc_Nhìn_A_Ngốc": [
+    {
+      "filename": "Chương_00001_Bạn_Bướm.md",
+      "title": "Chương 1: Bạn Bướm"
+    }
+  ],
   "Góc_Nhìn_Bắc_Băng": [
     {
       "filename": "Chương_00001_Băng_Tâm_Vỡ_Nát.md",
@@ -592,6 +598,12 @@ Object.assign(chapterData, {
       "title": "Chương 138: Hội Nghị Thượng Đỉnh"
     }
   ],
+  "Góc_Nhìn_Diệp_Thanh_Y": [
+    {
+      "filename": "Chương_00003_Đứa_Trẻ_Trong_Dịch_Bệnh.md",
+      "title": "Chương 3: Đứa Trẻ Trong Dịch Bệnh"
+    }
+  ],
   "Góc_Nhìn_Diệp_Tĩnh_Sương": [
     {
       "filename": "Chương_00001_Tuyết_Phủ_Mộ_Phần.md",
@@ -840,6 +852,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00005_Phòng_Thủ_Băng_Nguyên.md",
       "title": "Chương 5: Phòng Thủ Băng Nguyên"
+    },
+    {
+      "filename": "Chương_00006_Quyết_Tâm_Đột_Phá.md",
+      "title": "Chương 6: Quyết Tâm Đột Phá"
     }
   ],
   "Góc_Nhìn_Lệ_Nhược_Thủy": [
@@ -1500,6 +1516,18 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00020_Chìa_Khóa_Trận_Pháp.md",
       "title": "Chương 20: Chìa Khóa Trận Pháp"
+    }
+  ],
+  "Góc_Nhìn_Ngao_Đình": [
+    {
+      "filename": "Chương_00003_Sấm_Sét_Và_Kiêu_Ngạo.md",
+      "title": "Chương 3: Sấm Sét Và Kiêu Ngạo"
+    }
+  ],
+  "Góc_Nhìn_Nguyệt_Dao": [
+    {
+      "filename": "Chương_00003_Lưỡi_Dao_Dưới_Trăng.md",
+      "title": "Chương 3: Lưỡi Dao Dưới Trăng"
     }
   ],
   "Góc_Nhìn_Tây_Mạc": [
