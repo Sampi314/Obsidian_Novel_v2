@@ -13,7 +13,7 @@
     - **Bắc Băng (Northern Ice Region):** Vùng đất băng giá vĩnh cửu, nơi ngự trị của Huyền Băng Cung và Băng Tộc. Nổi tiếng với Cực Quang và Băng Linh Khí.
     - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nam_Cương.md`.
         - *Rừng Huyết Độc:* Khu rừng biên giới với những thân cây đỏ như máu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md`.
-            - *Hang Động Nhện Quỷ:* Hệ thống hang động ngầm nơi Vạn Độc Môn thực hiện thí nghiệm Huyết Thi. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
+            - *Hang Động Nhện Quỷ:* Hệ thống hang động ngầm nơi Vạn Độc Môn thực hiện thí nghiệm Huyết Thi dựa trên nền tảng của một Di Tích Thượng Cổ nhỏ bé bị lãng quên. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
             - *Mộc Linh Trận Địa:* Căn cứ tạm thời của Tinh Linh Tộc và Dược Vương Cốc nằm sâu trong rừng (Hiện đang trong tình trạng nguy kịch). Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Mộc_Linh_Trận_Địa.md`.
             - *Huyết Vụ Lâm:* Vùng đệm sương mù đỏ thẫm giáp ranh Vạn Độc Cốc, nơi ảo ảnh và tâm ma ngự trị. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Huyết_Vụ_Lâm.md`.
             - *Huyết Uyên:* Vực sâu bí ẩn dưới đáy Huyết Vụ Lâm, chứa sương đỡ và luồng khí tức Thượng Cổ. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Huyết_Uyên.md`.

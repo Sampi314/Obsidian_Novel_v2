@@ -8,6 +8,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 23, 24 (Góc Nhìn Lâm Phong) | Hoàn Thành | Cập nhật hồ sơ Hang Động Nhện Quỷ. Catch-up cho Lâm Phong: Chương 23 (Dấu Vết Kẻ Thù) và Chương 24 (Dưỡng Thi Địa Đẫm Máu). Cả hai chạm trán Nhện Mặt Quỷ và đối mặt với Huyết Thi. |
 | Hôm nay | Tổng Quản | Viết Chương 21, 22 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 21 (Xuyên Qua Tử Địa) và Chương 22 (Sinh Vật Biến Dị). Lâm Phong và Diệp Tĩnh Sương rời Khe Nứt Sinh Tử, tiến vào Vùng Đất Chết. Họ vượt qua ảo ảnh Địa Sát Tử Khí và hợp sức tiêu diệt một sinh vật bán dẫn (hắc báo xương) trước khi tìm đến Bãi Tha Ma Cổ Đại. |
 | Hôm nay | Tổng Quản | Viết Chương 18, 19 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 18 (Đồng Hành Bất Đắc Dĩ) và Chương 19 (Lửa Đêm Dưới Đáy Khe Nứt). Lâm Phong cứu Diệp Tĩnh Sương chạy vào Khe Nứt Sinh Tử, hai người trao đổi tình báo về âm mưu thu thập Huyết Tinh của Vạn Độc Môn và Lệ Vô Tâm. |
 | Hôm nay | Tổng Quản | Viết Chương 16, 17 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 16 (Săn Mồi Trong Sương) và Chương 17 (Giao Cắt Định Mệnh). Lâm Phong ám sát nhóm tuần tra Vạn Độc Môn và giải cứu Diệp Tĩnh Sương đang bị Huyết Vệ truy đuổi, hai tuyến truyện giao cắt. |
@@ -17,5 +18,3 @@
 | Hôm nay | Tổng Quản | Viết Chương 6, 7 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 6 (Thị Trấn Vùng Biên) và Chương 7 (Đường Vào Nam Cương), khám phá Trạm Biên và tiến vào Nam Cương. |
 | Hôm nay | Tổng Quản | Viết Chương 4, 5 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 4 (Đêm Dài Cảnh Giác) và Chương 5 (Bóng Dáng Kẻ Săn Mồi) về hành trình sau khi rời Hắc Mộc Lâm. |
 | Hôm nay | Tổng Quản | Viết Chương 130 (Góc Nhìn Chính) & Chương 124 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương khám phá tầng 2 Băng Ngục Thành. Lệ Vô Tâm đang luyện hóa sức mạnh của Tôn Giả để kết Kim Đan tà ác. |
-| Hôm nay | Tổng Quản | Viết Chương 129 (Góc Nhìn Chính) & Chương 123 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Lệ Vô Tâm tàn sát Băng Huyết Tôn Giả trong Tứ Đại Ác Nhân để cướp đoạt tu vi chuẩn bị kết Kim Đan tà ác. |
-| Hôm nay | Tổng Quản | Viết Chương 128 (Góc Nhìn Chính) & Chương 122 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Lệ Vô Tâm tiến vào Băng Ngục Thành và bắt đầu cuộc thảm sát đẫm máu để củng cố sức mạnh mới. |

@@ -22,3 +22,5 @@
 - [Chương 20: Lửa Đêm Dưới Đáy Khe Nứt](Chương_00020_Lửa_Đêm_Dưới_Đáy_Khe_Nứt.md)
 - [Chương 21: Xuyên Qua Tử Địa](Chương_00021_Xuyên_Qua_Tử_Địa.md)
 - [Chương 22: Sinh Vật Biến Dị](Chương_00022_Sinh_Vật_Biến_Dị.md)
+- [Chương 23: Dấu Vết Kẻ Thù](Chương_00023_Dấu_Vết_Kẻ_Thù.md)
+- [Chương 24: Dưỡng Thi Địa Đẫm Máu](Chương_00024_Dưỡng_Thi_Địa_Đẫm_Máu.md)

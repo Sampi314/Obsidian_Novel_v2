@@ -3,11 +3,11 @@
 
 ## PHIÊN GẦN NHẤT
 - **Ngày:** Hôm nay
-- **Nhiệm vụ:** Viết catch-up cho Góc Nhìn Lâm Phong (Chương 21, 22).
+- **Nhiệm vụ:** Viết catch-up cho Góc Nhìn Lâm Phong (Chương 23, 24).
 - **Hành động đã thực hiện:**
-  - Viết Chương 21 (Xuyên Qua Tử Địa) và Chương 22 (Sinh Vật Biến Dị). Lâm Phong và Diệp Tĩnh Sương rời khỏi Khe Nứt Sinh Tử, tiến vào Vùng Đất Chết. Họ phải đối mặt với sương mù chứa Địa Sát Tử Khí gây ảo giác và hợp sức tiêu diệt một quái vật bán dẫn (hắc báo xương) trước khi tìm thấy một góc an toàn tại Bãi Tha Ma Cổ Đại.
-  - Bổ sung khái niệm "Sinh Vật Bán Dẫn (Vùng Đất Chết)" vào HỒ_SƠ_THẾ_GIỚI.md.
+  - Bổ sung chi tiết thế giới về khu vực Hang Động Nhện Quỷ trong `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`, làm rõ sự hiện diện của trận pháp cổ đại và Vạn Độc Môn.
+  - Viết Chương 23 (Dấu Vết Kẻ Thù) và Chương 24 (Dưỡng Thi Địa Đẫm Máu). Lâm Phong và Diệp Tĩnh Sương tiến vào Hang Động Nhện Quỷ, phát hiện dấu vết của kẻ thù để lại, đối mặt với Nhện Mặt Quỷ, và rơi xuống tầng Dưỡng Thi Địa, nơi họ chạm trán Huyết Thi.
   - Cập nhật MỤC_LỤC, chapter_data.js.
   - Cập nhật tiến độ vào BÁO_CÁO_CHẤT_LƯỢNG.md và .jules/INSTRUCTIONS.md.
 - **Ghi chú/TODO cho phiên sau:**
-  - Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 23, 24...) cho đến khi đạt đủ tỷ lệ 50% so với Góc Nhìn Chính. Sự kiện tiếp theo sẽ là tiến vào khu vực Hang Động Nhện Quỷ. Cần cập nhật/xây dựng hồ sơ thế giới nếu xuất hiện địa danh hoặc quái vật mới.
+  - Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 25, 26...). Sự kiện tiếp theo sẽ là khám phá Mạch Ngầm bí ẩn dưới Hang Động Nhện Quỷ.
