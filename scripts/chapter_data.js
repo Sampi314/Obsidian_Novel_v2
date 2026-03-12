@@ -320,6 +320,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00036_Sát_Cơ_Tiềm_Ẩn.md",
       "title": "Chương 36: Sát Cơ Tiềm Ẩn"
+    },
+    {
+      "filename": "Chương_00037_Dấu_Vết_Huyết_Sát.md",
+      "title": "Chương 37: Dấu Vết Huyết Sát"
+    },
+    {
+      "filename": "Chương_00038_Phản_Sát_Trong_Sương.md",
+      "title": "Chương 38: Phản Sát Trong Sương"
     }
   ],
   "Góc_Nhìn_Lý_Tuyết_Ưng": [
