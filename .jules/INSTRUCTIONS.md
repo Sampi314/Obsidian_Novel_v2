@@ -13,17 +13,17 @@
 | Góc Nhìn Chính | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 22 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 24 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 
 ### Vị Trí Trong Vòng Xoay
 > Vòng xoay hiện tại: Tạm dừng để catch-up Góc Nhìn Lâm Phong.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 23, 24...).
-2. Xây dựng cốt truyện chi tiết cho khu vực Hang Động Nhện Quỷ.
+1. Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 25, 26...).
+2. Khám phá bí mật Mạch Ngầm dưới Hang Động Nhện Quỷ.
 
 ### Ghi Chú
-> Đang tập trung catch-up cho Lâm Phong để đạt đủ số lượng chương theo tỷ lệ yêu cầu. Đã hoàn thành Chương 21, 22, Lâm Phong và Tĩnh Sương đã tiến vào Vùng Đất Chết, tiêu diệt sinh vật bán dẫn và đến Bãi Tha Ma Cổ Đại.
+> Đang tập trung catch-up cho Lâm Phong để đạt đủ số lượng chương theo tỷ lệ yêu cầu. Đã hoàn thành Chương 23, 24. Lâm Phong và Tĩnh Sương đã tiến vào Hang Động Nhện Quỷ, chạm trán Nhện Mặt Quỷ và Huyết Thi ở Dưỡng Thi Địa. Đã cập nhật lore cho Hang Động Nhện Quỷ.
 
 ---
 

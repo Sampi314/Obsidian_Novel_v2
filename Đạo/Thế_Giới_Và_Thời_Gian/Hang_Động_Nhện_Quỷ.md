@@ -16,13 +16,13 @@
 ### 1. Khu Vực Ngoài (Ổ Nhện)
 - Là nơi trú ngụ của đàn [Nhện Mặt Quỷ](../Kỳ_Vật/Nhện_Mặt_Quỷ.md).
 - Trần hang chằng chịt tơ nhện, sàn hang rải rác xương cốt của các loài thú và tu sĩ xui xẻo.
-- Bẫy rập tự nhiên: Tơ nhện vô hình, hố sụt.
+- Bẫy rập tự nhiên: Tơ nhện vô hình, hố sụt. Gần đây, có dấu hiệu kẻ lạ mặt xâm nhập và gài thêm độc đinh trên đường đi.
 
 ### 2. Dưỡng Thi Địa (Khu Nuôi Xác)
 - Nằm ở tầng giữa của hang động, nơi có âm khí tụ tập mạnh nhất.
-- **Đặc điểm:** Vách đá được khắc trận pháp tụ âm đơn giản nhưng tà ác. Không khí lạnh buốt xương tủy.
-- **Chức năng:** Vạn Độc Môn sử dụng nơi này để tập kết thi thể thu thập được, lợi dụng âm khí và Huyết Thần Độc để biến đổi chúng thành [Huyết Thi](../Kỳ_Vật/Huyết_Thi.md).
-- **Hiện trạng:** Đã bị nhóm nhân vật chính khám phá và kích hoạt (Chương 24).
+- **Đặc điểm:** Vách đá được khắc trận pháp tụ âm cổ đại, vốn thuộc về một Di Tích Thượng Cổ nhỏ bé bị lãng quên, nay bị Vạn Độc Môn cải tạo thô thiển. Không khí lạnh buốt xương tủy, nồng nặc mùi tử thi đang phân hủy.
+- **Chức năng:** Vạn Độc Môn sử dụng nơi này làm phòng thí nghiệm sơ khai, tập kết thi thể và lợi dụng âm khí cùng Huyết Tinh thô để đẩy nhanh quá trình biến đổi chúng thành [Huyết Thi](../Kỳ_Vật/Huyết_Thi.md). Nơi này chứa đựng nhiều thi thể bán hoàn thiện và các hồ máu nhân tạo rùng rợn.
+- **Hiện trạng:** Đã bị nhóm nhân vật chính khám phá, vô tình kích hoạt hệ thống phòng thủ của Vạn Độc Môn (Chương 24 Góc Nhìn Lâm Phong).
 
 ### 3. Mạch Ngầm (Sông Ngầm Bí Ẩn)
 - Nằm ở tầng sâu nhất, ngăn cách với Dưỡng Thi Địa bởi một vực thẳm.
