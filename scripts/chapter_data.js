@@ -624,6 +624,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00011_Độc_Trùng_Trong_Sương.md",
       "title": "Chương 11: Độc Trùng Trong Sương"
+    },
+    {
+      "filename": "Chương_00012_Bí_Mật_Trong_Hộp.md",
+      "title": "Chương 12: Bí Mật Trong Hộp"
+    },
+    {
+      "filename": "Chương_00013_Thợ_Săn_Và_Con_Mồi.md",
+      "title": "Chương 13: Thợ Săn Và Con Mồi"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

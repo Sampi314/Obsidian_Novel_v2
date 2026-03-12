@@ -291,6 +291,8 @@
         - [Chương 9: Lửa Đêm Nam Cương](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00009_Lửa_Đêm_Nam_Cương.md)
         - [Chương 10: Dấu Vết Truy Kích](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00010_Dấu_Vết_Truy_Kích.md)
         - [Chương 11: Độc Trùng Trong Sương](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00011_Độc_Trùng_Trong_Sương.md)
+        - [Chương 12: Bí Mật Trong Hộp](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00012_Bí_Mật_Trong_Hộp.md)
+        - [Chương 13: Thợ Săn Và Con Mồi](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00013_Thợ_Săn_Và_Con_Mồi.md)
 
 ## VI. Thế Lực Chính
 

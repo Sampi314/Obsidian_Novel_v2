@@ -169,3 +169,4 @@
 | Hôm nay | Tổng Quản | Viết Chương 4, 5 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 4 (Đêm Dài Cảnh Giác) và Chương 5 (Bóng Dáng Kẻ Săn Mồi) về hành trình sau khi rời Hắc Mộc Lâm. |
 | Hôm nay | Tổng Quản | Viết Chương 6, 7 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 6 (Thị Trấn Vùng Biên) và Chương 7 (Đường Vào Nam Cương), khám phá Trạm Biên và tiến vào Nam Cương. |
 | Hôm nay | Tổng Quản | Viết Chương 8, 9 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 8 (Săn Thú Trúng Người) và Chương 9 (Lửa Đêm Nam Cương), chạm trán người của Vạn Độc Môn và nắm giữ một hộp ngọc chứa bí mật về Huyết Thần Độc. |
+| Hôm nay | Tổng Quản | Viết Chương 12, 13 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 12 (Bí Mật Trong Hộp) và Chương 13 (Thợ Săn Và Con Mồi). Lâm Phong mở được hộp ngọc lấy bản đồ và Huyết Tinh thô, đồng thời ra tay cứu đệ tử Lạc Diệp Cốc để moi thông tin về Vạn Độc Môn. |

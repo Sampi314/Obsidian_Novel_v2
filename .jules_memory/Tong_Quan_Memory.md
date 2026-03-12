@@ -3,10 +3,10 @@
 
 ## PHIÊN GẦN NHẤT
 - **Ngày:** Hôm nay
-- **Nhiệm vụ:** Viết catch-up cho Góc Nhìn Lâm Phong (Chương 10, 11).
+- **Nhiệm vụ:** Viết catch-up cho Góc Nhìn Lâm Phong (Chương 12, 13).
 - **Hành động đã thực hiện:**
-  - Viết Chương 10 (Dấu Vết Truy Kích) và Chương 11 (Độc Trùng Trong Sương) cho Lâm Phong tại Rừng Huyết Độc.
-  - Cập nhật MỤC_LỤC.
+  - Viết Chương 12 (Bí Mật Trong Hộp) và Chương 13 (Thợ Săn Và Con Mồi) cho Lâm Phong tại Rừng Huyết Độc.
+  - Cập nhật MỤC_LỤC, chapter_data.js.
   - Cập nhật HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md, INSTRUCTIONS.md.
 - **Ghi chú/TODO cho phiên sau:**
-  - Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 12, 13...) cho đến khi đạt đủ tỷ lệ 50% so với Góc Nhìn Chính.
+  - Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 14, 15...) cho đến khi đạt đủ tỷ lệ 50% so với Góc Nhìn Chính.
