@@ -24,6 +24,7 @@
             - *Nấm Độc Lâm:* Rừng nấm khổng lồ nằm sâu dưới lòng đất, vùng đệm giữa Kho Chứa Ngầm và Vườn Dược Liệu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nấm_Độc_Lâm.md`.
             - *Huyết Tế Đài phụ:* Một trong những đài hiến tế vệ tinh do Vạn Độc Môn xây dựng để hút tinh huyết sinh vật trong rừng, dung luyện Huyết Tinh thô làm nguyên liệu cho đại trận Huyết Thần Độc.
             - *Khe Nứt Sinh Tử:* Một hẻm núi tự nhiên hẹp và hiểm trở giáp Vùng Đất Chết, nơi Lâm Phong lợi dụng địa hình để thiết lập bẫy rập ám sát Huyết Vệ và ẩn náu. Nơi đây từng là điểm giao cắt định mệnh giữa Lâm Phong và Diệp Tĩnh Sương.
+            - *Sinh Vật Bán Dẫn (Vùng Đất Chết):* Những thi thể cổ đại bị Địa Sát Tử Khí ăn mòn và tái cấu trúc, trở thành những quái vật mất trí (như hắc báo xương) hoạt động dựa trên sát khí thuần túy, tấn công mọi sinh vật sống.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.

@@ -20,3 +20,5 @@
 - [Chương 18: Giao Cắt Định Mệnh](Chương_00018_Giao_Cắt_Định_Mệnh.md)
 - [Chương 19: Đồng Hành Bất Đắc Dĩ](Chương_00019_Đồng_Hành_Bất_Đắc_Dĩ.md)
 - [Chương 20: Lửa Đêm Dưới Đáy Khe Nứt](Chương_00020_Lửa_Đêm_Dưới_Đáy_Khe_Nứt.md)
+- [Chương 21: Xuyên Qua Tử Địa](Chương_00021_Xuyên_Qua_Tử_Địa.md)
+- [Chương 22: Sinh Vật Biến Dị](Chương_00022_Sinh_Vật_Biến_Dị.md)
