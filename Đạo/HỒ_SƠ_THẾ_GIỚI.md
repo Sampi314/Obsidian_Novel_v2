@@ -320,6 +320,8 @@
         - [Chương 32: Ánh Sáng Đầu Ngày](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00032_Ánh_Sáng_Đầu_Ngày.md)
         - [Chương 33: Dấu Vết Sinh Tồn](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00033_Dấu_Vết_Sinh_Tồn.md)
         - [Chương 34: Bóng Đêm Săn Đuổi](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00034_Bóng_Đêm_Săn_Đuổi.md)
+        - [Chương 35: Cạm Bẫy Huyết Đằng](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00035_Cạm_Bẫy_Huyết_Đằng.md)
+        - [Chương 36: Sát Cơ Tiềm Ẩn](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00036_Sát_Cơ_Tiềm_Ẩn.md)
 
 ## VI. Thế Lực Chính
 
