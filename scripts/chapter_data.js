@@ -8,6 +8,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00002_Ông_Già_Ngủ.md",
       "title": "Chương 2: Ông Già Ngủ"
+    },
+    {
+      "filename": "Chương_00003_Cái_Bụng_Đói.md",
+      "title": "Chương 3: Cái Bụng Đói"
     }
   ],
   "Góc_Nhìn_Bắc_Băng": [
@@ -610,6 +614,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00004_Dược_Viên_Khóc_Thầm.md",
       "title": "Chương 4: Dược Viên Khóc Thầm"
+    },
+    {
+      "filename": "Chương_00005_Thanh_Nang_Y_Kinh_Khai_Sáng.md",
+      "title": "Chương 5: Thanh Nang Y Kinh Khai Sáng"
     }
   ],
   "Góc_Nhìn_Diệp_Tĩnh_Sương": [
@@ -1448,6 +1456,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00003_Kiếm_Tông_Trong_Biến.md",
       "title": "Chương 3: Kiếm Tông Trong Biến"
+    },
+    {
+      "filename": "Chương_00004_Gián_Điệp_Giữa_Hàng_Ngũ.md",
+      "title": "Chương 4: Gián Điệp Giữa Hàng Ngũ"
     }
   ],
   "Góc_Nhìn_Nam_Cương": [
@@ -1536,6 +1548,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00003_Sấm_Sét_Và_Kiêu_Ngạo.md",
       "title": "Chương 3: Sấm Sét Và Kiêu Ngạo"
+    },
+    {
+      "filename": "Chương_00004_Truy_Tìm_Cường_Giả.md",
+      "title": "Chương 4: Truy Tìm Cường Giả"
+    },
+    {
+      "filename": "Chương_00005_Long_Uy.md",
+      "title": "Chương 5: Long Uy"
     }
   ],
   "Góc_Nhìn_Nguyệt_Dao": [
@@ -1546,6 +1566,16 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00004_Hoang_Dã_Và_Yêu_Thú.md",
       "title": "Chương 4: Hoang Dã Và Yêu Thú"
+    },
+    {
+      "filename": "Chương_00005_Đồng_Hành_Bất_Đắc_Dĩ.md",
+      "title": "Chương 5: Đồng Hành Bất Đắc Dĩ"
+    }
+  ],
+  "Góc_Nhìn_Sở_Lăng_Sương": [
+    {
+      "filename": "Chương_00003_Sương_Độc_Phát_Tác.md",
+      "title": "Chương 3: Sương Độc Phát Tác"
     }
   ],
   "Góc_Nhìn_Tây_Mạc": [
