@@ -8,6 +8,10 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Noto+Serif+TC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+    <script>
+        // Prevent flash: apply saved theme before first paint
+        (function(){var t=localStorage.getItem('co-nguyen-theme');if(t==='light')document.documentElement.setAttribute('data-theme','light');})();
+    </script>
     <style>
         /* ═══════════════════════════════════════════
            MYSTIC INK — Cố Nguyên Giới
@@ -43,6 +47,273 @@
             --tay-mac-glow: rgba(194, 152, 78, 0.15);
             --thien-tru: #7b5ea7;
             --thien-tru-glow: rgba(123, 94, 167, 0.15);
+        }
+
+        /* ── Light Mode: Ancient Parchment ── */
+        [data-theme="light"] {
+            --void: #f4ede4;
+            --abyss: #ede5d9;
+            --ink: #faf6f0;
+            --parchment-dark: #e8dfd3;
+            --parchment-mid: #efe7db;
+            --gold: #8b6914;
+            --gold-bright: #a47d1a;
+            --gold-dim: #b89e5c;
+            --crimson: #8b3040;
+            --crimson-bright: #a63d50;
+            --jade: #2d6a4f;
+            --jade-bright: #358760;
+            --bone: #2c2418;
+            --ash: #6b5e50;
+            --fog: rgba(44, 36, 24, 0.04);
+            /* Region colors — richer for light bg */
+            --nam-cuong: #8b2030;
+            --nam-cuong-glow: rgba(139, 32, 48, 0.1);
+            --bac-bang: #2f7aa6;
+            --bac-bang-glow: rgba(47, 122, 166, 0.1);
+            --dong-hoang: #9a7209;
+            --dong-hoang-glow: rgba(154, 114, 9, 0.1);
+            --vo-tan-hai: #126b5e;
+            --vo-tan-hai-glow: rgba(18, 107, 94, 0.1);
+            --tay-mac: #a07830;
+            --tay-mac-glow: rgba(160, 120, 48, 0.1);
+            --thien-tru: #6a4d94;
+            --thien-tru-glow: rgba(106, 77, 148, 0.1);
+        }
+
+        /* Light mode scrollbar */
+        [data-theme="light"] ::-webkit-scrollbar-track { background: var(--void); }
+        [data-theme="light"] ::-webkit-scrollbar-thumb { background: var(--gold-dim); }
+        [data-theme="light"] ::-webkit-scrollbar-thumb:hover { background: var(--gold); }
+
+        /* Light mode noise overlay — warmer */
+        [data-theme="light"] body::before { opacity: 0.02; }
+
+        /* Light mode hero sky — dawn gradient */
+        [data-theme="light"] .hero-sky {
+            background:
+                radial-gradient(ellipse 120% 60% at 50% 10%, #e8ddd0 0%, transparent 60%),
+                radial-gradient(ellipse 80% 50% at 75% 25%, rgba(180, 130, 80, 0.12) 0%, transparent 50%),
+                radial-gradient(ellipse 60% 40% at 20% 50%, rgba(45, 106, 79, 0.06) 0%, transparent 50%),
+                linear-gradient(to bottom, #d8cfc0 0%, #e0d5c5 20%, #eae1d4 50%, #f0e8db 70%, var(--void) 100%) !important;
+        }
+
+        /* Stars less visible in dawn */
+        [data-theme="light"] .star { background: var(--gold-dim); }
+        [data-theme="light"] .hero-stars { opacity: 0.15; }
+
+        /* Moon — warm sun disc */
+        [data-theme="light"] .hero-moon {
+            background: radial-gradient(circle at 38% 38%, #f5e8c8, #e8d4a0 30%, #d4bc78 55%, rgba(200, 170, 100, 0.4) 75%, transparent 100%);
+            box-shadow:
+                0 0 60px 15px rgba(180, 140, 60, 0.12),
+                0 0 150px 50px rgba(180, 140, 60, 0.06),
+                0 0 300px 100px rgba(180, 140, 60, 0.03);
+        }
+
+        /* Seal characters — ink on parchment */
+        [data-theme="light"] .seal-char { color: rgba(139, 105, 20, 0.06); }
+
+        /* Qi streams — golden */
+        [data-theme="light"] .hero-qi-streams { opacity: 0.6; }
+
+        /* Mountains — warm earth tones */
+        [data-theme="light"] .hero-mountains-far svg path { fill: #d4c9b8; }
+        [data-theme="light"] .hero-mountains-far svg path:nth-child(2) { fill: #c9bda8; }
+        [data-theme="light"] .hero-mountains-mid svg path { fill: #bfb19c; }
+        [data-theme="light"] .hero-mountains-mid svg path:nth-child(2) { fill: #b5a690; }
+        [data-theme="light"] .hero-mountains-near svg path { fill: #a89880; }
+        [data-theme="light"] .hero-mountains-near svg path:nth-child(2) { fill: #9e8e76; }
+
+        /* Floating peak colors */
+        [data-theme="light"] .floating-peak svg path { fill: #c4b59e; }
+        [data-theme="light"] .peak-waterfall {
+            background: linear-gradient(to bottom, rgba(139, 105, 20, 0.2), rgba(139, 105, 20, 0.05), transparent);
+        }
+
+        /* Fog — warm mist */
+        [data-theme="light"] .fog-drift svg stop { stop-color: #f4ede4 !important; }
+        [data-theme="light"] .hero-fog { opacity: 0.6; }
+        [data-theme="light"] .hero-ground-fog { opacity: 0.5; }
+
+        /* Hero content text — dark ink on dawn sky */
+        [data-theme="light"] .hero-title-cn {
+            color: #6b4e12;
+            text-shadow: 0 0 80px rgba(139, 105, 20, 0.15), 0 2px 4px rgba(0, 0, 0, 0.08);
+        }
+        [data-theme="light"] .hero-title-cn::after {
+            background: linear-gradient(to right, transparent, rgba(107, 78, 18, 0.3), transparent);
+        }
+        [data-theme="light"] .hero-subtitle { color: #7a6b58; }
+        [data-theme="light"] .hero-verse-top { color: rgba(107, 78, 18, 0.45); }
+        [data-theme="light"] .hero-verse {
+            color: rgba(44, 36, 24, 0.55);
+            text-shadow: 0 1px 3px rgba(255, 255, 255, 0.4);
+        }
+        [data-theme="light"] .hero-divider-line {
+            background: linear-gradient(to right, transparent, #b89e5c);
+        }
+        [data-theme="light"] .hero-divider-line:last-child {
+            background: linear-gradient(to left, transparent, #b89e5c);
+        }
+        [data-theme="light"] .hero-divider-symbol { color: #8b6914; }
+        [data-theme="light"] .hero-title-wrapper::before,
+        [data-theme="light"] .hero-title-wrapper::after {
+            border-color: rgba(139, 105, 20, 0.12);
+        }
+
+        /* Hero buttons — light mode */
+        [data-theme="light"] .hero-btn--primary {
+            background: rgba(139, 105, 20, 0.08);
+            border-color: rgba(139, 105, 20, 0.25);
+            color: #6b4e12;
+        }
+        [data-theme="light"] .hero-btn--primary:hover {
+            background: rgba(139, 105, 20, 0.14);
+            border-color: #8b6914;
+            box-shadow: 0 4px 24px rgba(139, 105, 20, 0.12);
+        }
+        [data-theme="light"] .hero-btn--secondary {
+            border-color: rgba(44, 36, 24, 0.12);
+            color: #7a6b58;
+        }
+        [data-theme="light"] .hero-btn--secondary:hover {
+            border-color: rgba(139, 105, 20, 0.2);
+            color: #2c2418;
+        }
+        [data-theme="light"] .hero-btn::before {
+            background: linear-gradient(90deg, transparent, rgba(139, 105, 20, 0.08), transparent);
+        }
+
+        /* Scroll hint */
+        [data-theme="light"] .scroll-hint span { color: #8b6914; }
+        [data-theme="light"] .scroll-line {
+            background: linear-gradient(to bottom, #8b6914, transparent);
+        }
+
+        /* Hero fade — match light bg */
+        [data-theme="light"] .hero-fade {
+            background: linear-gradient(to top, var(--void) 0%, rgba(244,237,228,0.85) 30%, rgba(244,237,228,0.4) 60%, transparent 100%);
+        }
+
+        /* Bagua & circles */
+        [data-theme="light"] .bagua-char {
+            color: rgba(139, 105, 20, 0.08);
+            text-shadow: 0 0 10px rgba(139, 105, 20, 0.04);
+        }
+        [data-theme="light"] .hero-circle {
+            border-color: rgba(139, 105, 20, 0.05);
+        }
+
+        /* Cultivator */
+        [data-theme="light"] .hero-cultivator svg path { fill: #a89880; stroke: rgba(107, 78, 18, 0.2); }
+        [data-theme="light"] .hero-cultivator svg circle { fill: #a89880; stroke: rgba(107, 78, 18, 0.2); }
+        [data-theme="light"] .hero-cultivator svg ellipse { fill: #a89880; stroke: rgba(107, 78, 18, 0.15); }
+        [data-theme="light"] .cultivator-aura {
+            background: radial-gradient(circle, rgba(139, 105, 20, 0.08) 0%, transparent 70%);
+        }
+
+        /* Content mist — warm */
+        [data-theme="light"] .content-mist-layer {
+            background:
+                radial-gradient(ellipse 600px 200px at 30% 50%, rgba(139, 105, 20, 0.02), transparent),
+                radial-gradient(ellipse 400px 300px at 70% 30%, rgba(45, 106, 79, 0.015), transparent);
+        }
+
+        /* Cards — parchment cards */
+        [data-theme="light"] .card {
+            background: #faf6f0;
+            border-color: rgba(139, 105, 20, 0.1);
+            box-shadow: 0 1px 4px rgba(44, 36, 24, 0.06);
+        }
+        [data-theme="light"] .card:hover {
+            border-color: rgba(139, 105, 20, 0.25);
+            box-shadow: 0 6px 24px rgba(44, 36, 24, 0.1);
+        }
+        [data-theme="light"] .card::after {
+            background: radial-gradient(ellipse at 0% 50%, rgba(139, 105, 20, 0.04), transparent 70%);
+        }
+        [data-theme="light"] .card:hover::before {
+            box-shadow: 0 0 12px rgba(139, 105, 20, 0.15);
+        }
+
+        /* Card badge */
+        [data-theme="light"] .card-badge {
+            background: rgba(44, 36, 24, 0.04);
+            border-color: rgba(44, 36, 24, 0.08);
+        }
+
+        /* Region labels — line separator */
+        [data-theme="light"] .region-label::after {
+            background: rgba(139, 105, 20, 0.1);
+        }
+
+        /* Section line */
+        [data-theme="light"] .section-line {
+            background: linear-gradient(to right, var(--gold), transparent);
+        }
+
+        /* Footer */
+        [data-theme="light"] .footer {
+            border-top-color: rgba(139, 105, 20, 0.1);
+        }
+
+        /* Region card hover shadows for light mode */
+        [data-theme="light"] .region-group[data-region] .card:hover {
+            box-shadow: 0 6px 24px rgba(44, 36, 24, 0.1), 0 0 30px var(--nam-cuong-glow);
+        }
+
+        /* Toggle button */
+        [data-theme="light"] .region-toggle {
+            border-color: rgba(139, 105, 20, 0.12);
+            color: #8b6914;
+        }
+        [data-theme="light"] .region-toggle:hover {
+            border-color: rgba(139, 105, 20, 0.3);
+            background: rgba(139, 105, 20, 0.04);
+        }
+
+        /* ── Theme Toggle Button ── */
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 10000;
+            width: 44px;
+            height: 44px;
+            border: 1px solid rgba(201, 169, 110, 0.15);
+            border-radius: 50%;
+            background: rgba(10, 9, 8, 0.6);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            color: var(--gold-dim);
+            font-size: 1.1rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.4s ease;
+            opacity: 0;
+            animation: fade-rise 1s ease-out 2.8s forwards;
+        }
+
+        .theme-toggle:hover {
+            border-color: var(--gold);
+            background: rgba(10, 9, 8, 0.8);
+            color: var(--gold-bright);
+            transform: scale(1.08);
+        }
+
+        [data-theme="light"] .theme-toggle {
+            background: rgba(244, 237, 228, 0.7);
+            border-color: rgba(139, 105, 20, 0.15);
+            color: #8b6914;
+        }
+
+        [data-theme="light"] .theme-toggle:hover {
+            background: rgba(244, 237, 228, 0.9);
+            border-color: #8b6914;
+            color: #6b4e12;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -1167,6 +1438,9 @@
 </head>
 <body>
 
+    <!-- Theme Toggle -->
+    <button class="theme-toggle" id="theme-toggle" aria-label="Chuyển giao diện sáng/tối" title="Sáng / Tối">☽</button>
+
     <!-- ═══════ FULL-PAGE XIANXIA HERO ═══════ -->
     <section class="hero" id="hero">
 
@@ -1907,6 +2181,31 @@
             });
         }
     }
+    /* ═══════ Theme Toggle ═══════ */
+    (function() {
+        var toggle = document.getElementById('theme-toggle');
+        var root = document.documentElement;
+
+        // Restore saved preference
+        var saved = localStorage.getItem('co-nguyen-theme');
+        if (saved === 'light') {
+            root.setAttribute('data-theme', 'light');
+            toggle.textContent = '☀';
+        }
+
+        toggle.addEventListener('click', function() {
+            var isLight = root.getAttribute('data-theme') === 'light';
+            if (isLight) {
+                root.removeAttribute('data-theme');
+                toggle.textContent = '☽';
+                localStorage.setItem('co-nguyen-theme', 'dark');
+            } else {
+                root.setAttribute('data-theme', 'light');
+                toggle.textContent = '☀';
+                localStorage.setItem('co-nguyen-theme', 'light');
+            }
+        });
+    })();
     </script>
 </body>
 </html>
