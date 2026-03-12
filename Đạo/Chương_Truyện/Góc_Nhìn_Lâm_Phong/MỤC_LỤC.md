@@ -40,3 +40,5 @@
 - [Chương 38: Phản Sát Trong Sương](Chương_00038_Phản_Sát_Trong_Sương.md)
 - [Chương 39: Lối Thoát Trong Màn Đêm](Chương_00039_Lối_Thoát_Trong_Màn_Đêm.md)
 - [Chương 40: Rìa Rừng Đẫm Máu](Chương_00040_Rìa_Rừng_Đẫm_Máu.md)
+- [Chương 41: Bầu Trời Tự Do](Chương_00041_Bầu_Trời_Tự_Do.md)
+- [Chương 42: Trạm Nghỉ Chân](Chương_00042_Trạm_Nghỉ_Chân.md)

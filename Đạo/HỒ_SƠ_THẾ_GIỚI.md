@@ -27,6 +27,7 @@
             - *Sinh Vật Bán Dẫn (Vùng Đất Chết/Rừng Huyết Độc):* Những thi thể cổ đại hoặc dã thú bị Địa Sát Tử Khí, Huyết Độc ăn mòn và tái cấu trúc, trở thành những quái vật mất trí (như hắc báo xương, báo gấm rỉ mủ) hoạt động dựa trên sát khí thuần túy và thèm khát thịt tươi.
             - *Cổng Tử Vong:* Cánh cổng đá đen Thượng Cổ nằm ở điểm cuối của Mạch Ngầm, được Vạn Độc Môn dùng làm cửa ngõ tiến vào sào huyệt ngầm (Sào Huyệt Lão Chu). Nơi đây từng được canh gác bởi một con Độc Long Tích biến dị. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Cổng_Tử_Vong.md`.
             - *Rìa Rừng Huyết Độc:* Tuyến phòng thủ cuối cùng do Vạn Độc Môn thiết lập bằng hàng rào lửa linh phù nhằm ngăn chặn những người trốn thoát. Nơi đây từng chứng kiến màn phá vây đẫm máu của Lâm Phong và Diệp Tĩnh Sương.
+        - *Trạm Biên:* Điểm giao thương lộn xộn nằm ở ngoại vi biên giới Nam Cương, nơi tập trung tán tu, thương nhân và lính đánh thuê. Đây là trạm nghỉ chân quan trọng trước khi tiến sâu vào rừng hoặc đi lên phía Bắc.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
         - *Núi Độc Long:* Dãy núi biên giới giữa Nam Cương và Tây Mạc, nơi trú ngụ của Độc Long Tích. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Núi_Độc_Long.md`.
@@ -337,6 +338,7 @@
     - [Huyết Ma Tông](Thế_Lực/Huyết_Ma_Tông.md)
     - [Quỷ Thị Nam Cương](Thế_Lực/Quỷ_Thị_Nam_Cương.md)
     - [Bách Thú Sơn Trang](Thế_Lực/Bách_Thú_Sơn_Trang.md)
+    - **Thương Hội Bạch Lang:** Một trong những thương hội lớn hoạt động tại vùng biên giới Nam Cương, chuyên thuê mướn tán tu để hộ tống hàng hóa (cờ hiệu hình sói trắng).
 - **Thiên Trụ Sơn (Thế Giới Pillar):**
     - [Long Cung](Thế_Lực/Long_Cung.md)
     - [Vũ Hoàng Các](Thế_Lực/Vũ_Hoàng_Các.md)
