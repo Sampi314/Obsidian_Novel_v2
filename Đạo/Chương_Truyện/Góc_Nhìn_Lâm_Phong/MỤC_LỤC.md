@@ -15,3 +15,5 @@
 - [Chương 13: Thợ Săn Và Con Mồi](Chương_00013_Thợ_Săn_Và_Con_Mồi.md)
 - [Chương 14: Giao Dịch Trong Sương](Chương_00014_Giao_Dịch_Trong_Sương.md)
 - [Chương 15: Ngụy Trang Kẻ Săn Mồi](Chương_00015_Ngụy_Trang_Kẻ_Săn_Mồi.md)
+- [Chương 16: Săn Mồi Trong Sương](Chương_00016_Săn_Mồi_Trong_Sương.md)
+- [Chương 17: Giao Cắt Định Mệnh](Chương_00017_Giao_Cắt_Định_Mệnh.md)

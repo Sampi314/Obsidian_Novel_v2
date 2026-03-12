@@ -231,7 +231,7 @@
 
 | Nhân Vật | Góc Nhìn | Trạng Thái | Ghi Chú |
 | :--- | :--- | :--- | :--- |
-| **Lâm Phong** | Chính | Hoạt động | Đã viết đến chương 15 (POV). |
+| **Lâm Phong** | Chính | Hoạt động | Đã viết đến chương 17 (POV). |
 | **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đã hoàn thành 5 chương (POV). Đang dẫn đầu nhóm tiến vào Vùng Đất Chết. Xem chi tiết: Diệp Tĩnh Sương |
 | **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoạt động | Đã hoàn thành 9 chương. Rút về Nam Cương chuẩn bị trận địa. |
 | **Hứa Nhược Thủy** | Phụ (NPC) | Ổn định (Tạm thời) | Đã được chữa trị, nhưng Long Cốt phong ấn đã vỡ. |
