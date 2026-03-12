@@ -638,6 +638,20 @@ Object.assign(chapterData, {
       "title": "Chương 11: Thoát Khỏi Địa Ngục"
     }
   ],
+  "Góc_Nhìn_Hàn_Thanh_Nguyệt": [
+    {
+      "filename": "Chương_00003_Mục_Tiêu_Bí_Ẩn.md",
+      "title": "Chương 3: Mục Tiêu Bí Ẩn"
+    },
+    {
+      "filename": "Chương_00004_Huyết_Tinh_Sa.md",
+      "title": "Chương 4: Huyết Tinh Sa"
+    },
+    {
+      "filename": "Chương_00005_Sống_Sót_Bằng_Lưỡi_Kiếm.md",
+      "title": "Chương 5: Sống Sót Bằng Lưỡi Kiếm"
+    }
+  ],
   "Góc_Nhìn_Hải_Vực": [
     {
       "filename": "Chương_00001_Phản_Bội_Dưới_Trăng.md",
@@ -808,6 +822,30 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00032_Ánh_Sáng_Đầu_Ngày.md",
       "title": "Chương 32: Ánh Sáng Đầu Ngày"
+    }
+  ],
+  "Góc_Nhìn_Lý_Tuyết_Ưng": [
+    {
+      "filename": "Chương_00003_Tiếng_Đàn_Trong_Đêm_Tuyết.md",
+      "title": "Chương 3: Tiếng Đàn Trong Đêm Tuyết"
+    },
+    {
+      "filename": "Chương_00004_Cực_Hàn_Ma_Châu.md",
+      "title": "Chương 4: Cực Hàn Ma Châu"
+    }
+  ],
+  "Góc_Nhìn_Lệ_Nhược_Thủy": [
+    {
+      "filename": "Chương_00003_Nước_Mắt_Giao_Nhân.md",
+      "title": "Chương 3: Nước Mắt Giao Nhân"
+    },
+    {
+      "filename": "Chương_00004_Ô_Nhiễm_Đại_Dương.md",
+      "title": "Chương 4: Ô Nhiễm Đại Dương"
+    },
+    {
+      "filename": "Chương_00005_Hải_Thú_Nổi_Loạn.md",
+      "title": "Chương 5: Hải Thú Nổi Loạn"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
@@ -1352,6 +1390,20 @@ Object.assign(chapterData, {
       "title": "Chương 136: Nước Cờ Đầu Tiên"
     }
   ],
+  "Góc_Nhìn_Lục_Ly": [
+    {
+      "filename": "Chương_00003_Tiếng_Sáo_Trong_Hồ_Nguyệt.md",
+      "title": "Chương 3: Tiếng Sáo Trong Hồ Nguyệt"
+    },
+    {
+      "filename": "Chương_00004_Kẻ_Xâm_Nhập.md",
+      "title": "Chương 4: Kẻ Xâm Nhập"
+    },
+    {
+      "filename": "Chương_00005_Ký_Ức_Vỡ_Vụn.md",
+      "title": "Chương 5: Ký Ức Vỡ Vụn"
+    }
+  ],
   "Góc_Nhìn_Nam_Cương": [
     {
       "filename": "Chương_00001_Lửa_Thiêu_Đốt_Mệnh.md",
@@ -1474,6 +1526,20 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Bão_Cát_Sắp_Đến.md",
       "title": "Chương 10: Bão Cát Sắp Đến"
+    }
+  ],
+  "Góc_Nhìn_Đan_Dương_Tử": [
+    {
+      "filename": "Chương_00003_Ký_Ức_Cánh_Tay_Đã_Mất.md",
+      "title": "Chương 3: Ký Ức Cánh Tay Đã Mất"
+    },
+    {
+      "filename": "Chương_00004_Dược_Liệu_Bị_Cướp.md",
+      "title": "Chương 4: Dược Liệu Bị Cướp"
+    },
+    {
+      "filename": "Chương_00005_Tái_Ngộ_Diệp_Thanh_Y.md",
+      "title": "Chương 5: Tái Ngộ Diệp Thanh Y"
     }
   ],
   "Góc_Nhìn_Đông_Hoang": [
