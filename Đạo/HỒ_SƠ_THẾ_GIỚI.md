@@ -10,7 +10,7 @@
 - **Địa Danh Chính:**
     - Trung Tâm: Thiên Trụ Sơn.
     - Tứ Phương: Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
-    - **Bắc Băng (Northern Ice Region):** Vùng đất băng giá vĩnh cửu, nơi ngự trị của Huyền Băng Cung và Băng Tộc. Nổi tiếng với Cực Quang và Băng Linh Khí.
+    - **Bắc Băng (Northern Ice Region):** Vùng đất băng giá vĩnh cửu, nơi ngự trị của Huyền Băng Cung và Băng Tộc. Nổi tiếng với Cực Quang và Băng Linh Khí. Hiện tại đang đặt trong trạng thái tử thủ, kích hoạt đại trận hộ sơn do nguy cơ ma khí rò rỉ từ Tuyệt Băng Uyên.
     - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nam_Cương.md`.
         - *Rừng Huyết Độc:* Khu rừng biên giới với những thân cây đỏ như máu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Rừng_Huyết_Độc.md`.
             - *Hang Động Nhện Quỷ:* Hệ thống hang động ngầm nơi Vạn Độc Môn thực hiện thí nghiệm Huyết Thi dựa trên nền tảng của một Di Tích Thượng Cổ nhỏ bé bị lãng quên. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hang_Động_Nhện_Quỷ.md`.
@@ -24,6 +24,7 @@
             - *Nấm Độc Lâm:* Rừng nấm khổng lồ nằm sâu dưới lòng đất, vùng đệm giữa Kho Chứa Ngầm và Vườn Dược Liệu. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nấm_Độc_Lâm.md`.
             - *Huyết Tế Đài phụ:* Một trong những đài hiến tế vệ tinh do Vạn Độc Môn xây dựng để hút tinh huyết sinh vật trong rừng, dung luyện Huyết Tinh thô làm nguyên liệu cho đại trận Huyết Thần Độc.
             - *Khe Nứt Sinh Tử:* Một hẻm núi tự nhiên hẹp và hiểm trở giáp Vùng Đất Chết, nơi Lâm Phong lợi dụng địa hình để thiết lập bẫy rập ám sát Huyết Vệ và ẩn náu. Nơi đây từng là điểm giao cắt định mệnh giữa Lâm Phong và Diệp Tĩnh Sương.
+            - *Mạch Ngầm Dưới Hang Động Nhện Quỷ:* Con đường ngầm bí mật được Vạn Độc Môn sử dụng để vận chuyển Huyết Tinh thô và thi thể, có trạm đỗ thuyền và là nơi sinh sống của Hắc Lân Thủy Xà biến dị. Tại điểm cuối có một đài hiến tế và lò luyện Huyết Tinh thô do Huyết Dơi Lão Quỷ canh giữ.
             - *Sinh Vật Bán Dẫn (Vùng Đất Chết):* Những thi thể cổ đại bị Địa Sát Tử Khí ăn mòn và tái cấu trúc, trở thành những quái vật mất trí (như hắc báo xương) hoạt động dựa trên sát khí thuần túy, tấn công mọi sinh vật sống.
         - *Đầm Lầy Tử Thần:* Cấm địa cấp thấp giáp ranh Vĩnh Hằng Sâm Lâm. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Đầm_Lầy_Tử_Thần.md`.
         - *Phế Tích Nguyệt Quang:* Di tích Tinh Linh cổ đại nằm sâu trong Đầm Lầy Tử Thần. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Phế_Tích_Nguyệt_Quang.md`.
@@ -84,7 +85,7 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Hàn_Thanh_Nguyệt.md`.
 - **Triệu Thanh Hằng (Hàn Sương Khách):** Nữ kiếm tu Nhân tộc, Trúc Cơ Trung Kỳ. Xuất thân bần hàn, tính cách lạnh lùng nhưng ân oán phân minh. Sở hữu *Lãnh Phong Kiếm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Triệu_Thanh_Hằng.md`.
-- **Lý Tuyết Ưng (Hàn Băng Tiên Tử):** Cung Chủ Huyền Băng Cung, Nguyên Anh Hậu Kỳ. Người lai Băng Tộc, tính cách lạnh lùng, bảo vệ tộc nhân. Sở hữu *Băng Tâm Quyết*.
+- **Lý Tuyết Ưng (Hàn Băng Tiên Tử):** Cung Chủ Huyền Băng Cung, Nguyên Anh Hậu Kỳ (Đang bế quan đột phá Hóa Thần). Người lai Băng Tộc, tính cách lạnh lùng, bảo vệ tộc nhân. Sở hữu *Băng Tâm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lý_Tuyết_Ưng.md`.
 - **Đan Dương Tử (Hỏa Long Tôn Giả):** Cốc Chủ Đan Hà Cốc, Hóa Thần Sơ Kỳ. Đệ nhất đan sư Nam Cương, tính cách nóng nảy nhưng sòng phẳng. Sở hữu *Cửu Chuyển Đan Hỏa Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Đan_Dương_Tử.md`.

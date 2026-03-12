@@ -15,13 +15,13 @@
 | Góc Nhìn Chính | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 26 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 28 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 
 #### Tuyến Khu Vực (Đa Nhân Vật — Nhóm Theo Vùng)
 | Góc Nhìn | Số Chương | Nhân Vật | Ghi Chú |
 |-----------|-----------|----------|---------|
 | Góc Nhìn Nam Cương | 16 | Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hàn Thanh Nguyệt, Lục Trần, Ngô Công, Phương Vô Kỵ, Hắc Hạt Ma Trùng | Arc 1 — đang viết |
-| Góc Nhìn Bắc Băng | 6 | Lý Tuyết Ưng, Sở Lăng Sương, Triệu Thanh Hằng | Arc 1 — thiếu ch 5-6 |
+| Góc Nhìn Bắc Băng | 8 | Lý Tuyết Ưng, Sở Lăng Sương, Triệu Thanh Hằng | Arc 1 — đang viết |
 | Góc Nhìn Đông Hoang | 8 | Lục Ly, Nguyệt Dao, Nham Thần, Lục Tiêu | Arc 1 — đang viết |
 | Góc Nhìn Hải Vực | 4 | Lệ Nhược Thủy, Ngao Đình | Arc 1 — đang viết |
 | Góc Nhìn Tây Mạc | 4 | Hứa Nhược Thủy, Hứa Thanh Vân | Arc 1 — đang viết |
@@ -30,44 +30,12 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Catch-up Lâm Phong**: Tiếp tục viết Chương 27, 28... (đã hoàn thành ch 25-26).
-2. **Bắc Băng**: Viết chương 5, 6 để lấp khoảng trống (ch 4 đã hoàn thành).
-3. **Mở rộng tuyến khu vực**: Viết thêm chương cho Hải Vực, Tây Mạc, Nam Cương đến 10 chương/tuyến.
-4. **Dọn dẹp**: Xóa 19 thư mục góc nhìn cá nhân cũ — nội dung đã được chuyển sang tuyến khu vực.
-
-### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
-
-> **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
-
-#### Task 1: Lấp khoảng trống Bắc Băng (ch 5-6)
-- Viết 2 chương mới: ch 5 (Sở Lăng Sương), ch 6 (Triệu Thanh Hằng)
-- Theo đúng storyline trong QUY_HOẠCH_GÓC_NHÌN_PHỤ.md
-- Cập nhật MỤC_LỤC.md và chapter_data.js
-
-#### Task 2: Mở rộng tuyến khu vực đến 10 chương
-- **Hải Vực**: Viết ch 5-10 (xoay vòng Lệ Nhược Thủy / Ngao Đình)
-- **Tây Mạc**: Viết ch 5-10 (xoay vòng Hứa Nhược Thủy / Hứa Thanh Vân)
-- **Bắc Băng**: Viết ch 9-10 (sau khi lấp khoảng trống)
-- **Đông Hoang**: Viết ch 9-10
-- Cập nhật MỤC_LỤC.md và chapter_data.js cho mỗi tuyến
-
-#### Task 3: Dọn dẹp thư mục cũ
-- Xóa 19 thư mục góc nhìn cá nhân cũ trong `Đạo/Chương_Truyện/`:
-  - Góc_Nhìn_Đan_Dương_Tử, Góc_Nhìn_Diệp_Thanh_Y, Góc_Nhìn_Độc_Cô_Lão_Quái
-  - Góc_Nhìn_Hắc_Hạt_Ma_Trùng, Góc_Nhìn_Hàn_Thanh_Nguyệt, Góc_Nhìn_Hứa_Nhược_Thủy
-  - Góc_Nhìn_Hứa_Thanh_Vân, Góc_Nhìn_Lệ_Nhược_Thủy, Góc_Nhìn_Lục_Ly
-  - Góc_Nhìn_Lục_Tiêu, Góc_Nhìn_Lục_Trần, Góc_Nhìn_Lý_Tuyết_Ưng
-  - Góc_Nhìn_Ngao_Đình, Góc_Nhìn_Ngô_Công_Trưởng_Lão, Góc_Nhìn_Nguyệt_Dao
-  - Góc_Nhìn_Nham_Thần, Góc_Nhìn_Phương_Vô_Kỵ, Góc_Nhìn_Sở_Lăng_Sương
-  - Góc_Nhìn_Triệu_Thanh_Hằng
-- **Xác nhận** nội dung đã được chuyển sang tuyến khu vực trước khi xóa
-
-#### Task 4: Catch-up Lâm Phong
-- Tiếp tục viết chương 27, 28... cho Góc Nhìn Lâm Phong
-- Diễn biến trốn thoát khỏi Mạch Ngầm và rời Rừng Huyết Độc
+1. **Catch-up Lâm Phong**: Tiếp tục viết Chương 29, 30.
+2. **Mở rộng tuyến khu vực**: Viết thêm chương cho Hải Vực (chương 5-6), Tây Mạc (chương 5-6)
+3. **Mở rộng tuyến khu vực**: Bắc Băng (chương 9-10), Đông Hoang (chương 9-10)
 
 ### Ghi Chú
-> Đã tạo 5 tuyến khu vực mới (Nam Cương, Bắc Băng, Đông Hoang, Hải Vực, Tây Mạc) nhóm 19 nhân vật phụ theo vùng. Đã cập nhật index.html, chapter_data.js, MỤC_LỤC.md. Storyline chi tiết trong QUY_HOẠCH_GÓC_NHÌN_PHỤ.md. Lâm Phong đã hoàn thành ch 25-26 (Mạch Ngầm, Hắc Lân Thủy Xà). Bắc Băng thiếu ch 5-6. Còn 19 thư mục góc nhìn cá nhân cũ cần dọn dẹp.
+> Đã tạo 5 tuyến khu vực mới và dọn dẹp xong các thư mục cũ. Lâm Phong đã hoàn thành ch 27-28. Bắc Băng đã hoàn thành lấp chỗ trống.
 
 ---
 
