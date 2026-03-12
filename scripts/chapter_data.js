@@ -1,19 +1,5 @@
 const chapterData = (typeof window !== "undefined" && window.chapterData) ? window.chapterData : {};
 Object.assign(chapterData, {
-  "Góc_Nhìn_A_Ngốc": [
-    {
-      "filename": "Chương_00001_Bạn_Bướm.md",
-      "title": "Chương 1: Bạn Bướm"
-    },
-    {
-      "filename": "Chương_00002_Ông_Già_Ngủ.md",
-      "title": "Chương 2: Ông Già Ngủ"
-    },
-    {
-      "filename": "Chương_00003_Cái_Bụng_Đói.md",
-      "title": "Chương 3: Cái Bụng Đói"
-    }
-  ],
   "Góc_Nhìn_Bắc_Băng": [
     {
       "filename": "Chương_00001_Băng_Tâm_Vỡ_Nát.md",
@@ -56,7 +42,7 @@ Object.assign(chapterData, {
       "title": "Chương 10: Bóng Ma Dưới Băng"
     }
   ],
-  "Góc_Nhìn_Chính": [
+  "Góc_Nhìn_Nam_Cương": [
     {
       "filename": "Chương_00001_Dấu_Hiệu_Tai_Ương.md",
       "title": "Chương 1: Dấu Hiệu Tai Ương"
@@ -1466,88 +1452,6 @@ Object.assign(chapterData, {
       "title": "Chương 5: Kiếm Đạo Hộ Thế"
     }
   ],
-  "Góc_Nhìn_Nam_Cương": [
-    {
-      "filename": "Chương_00001_Lửa_Thiêu_Đốt_Mệnh.md",
-      "title": "Chương 1: Lửa Thiêu Đốt Mệnh"
-    },
-    {
-      "filename": "Chương_00002_Linh_Mộc_Giác_Tỉnh.md",
-      "title": "Chương 2: Linh Mộc Giác Tỉnh"
-    },
-    {
-      "filename": "Chương_00003_Rơi_Vào_Huyết_Trì.md",
-      "title": "Chương 3: Rơi Vào Huyết Trì"
-    },
-    {
-      "filename": "Chương_00004_Đứa_Trẻ_Bến_Tàu.md",
-      "title": "Chương 4: Đứa Trẻ Bến Tàu"
-    },
-    {
-      "filename": "Chương_00005_Hoa_Tàn_Trong_Lửa.md",
-      "title": "Chương 5: Hoa Tàn Trong Lửa"
-    },
-    {
-      "filename": "Chương_00006_Ngũ_Độc_Nhập_Môn.md",
-      "title": "Chương 6: Ngũ Độc Nhập Môn"
-    },
-    {
-      "filename": "Chương_00007_Kẻ_Bị_Trục_Xuất.md",
-      "title": "Chương 7: Kẻ Bị Trục Xuất"
-    },
-    {
-      "filename": "Chương_00008_Vạn_Năm_Trầm_Ngủ.md",
-      "title": "Chương 8: Vạn Năm Trầm Ngủ"
-    },
-    {
-      "filename": "Chương_00009_Hung_Triệu_Trong_Lò_Đan.md",
-      "title": "Chương 9: Hung Triệu Trong Lò Đan"
-    },
-    {
-      "filename": "Chương_00010_Huyết_Độc_Nam_Cương.md",
-      "title": "Chương 10: Huyết Độc Nam Cương"
-    },
-    {
-      "filename": "Chương_00011_Chín_Trăm_Chín_Mươi_Chín.md",
-      "title": "Chương 11: Chín Trăm Chín Mươi Chín"
-    },
-    {
-      "filename": "Chương_00012_Hợp_Đồng_Máu.md",
-      "title": "Chương 12: Hợp Đồng Máu"
-    },
-    {
-      "filename": "Chương_00013_Kiếm_Vang_Trước_Bão.md",
-      "title": "Chương 13: Kiếm Vang Trước Bão"
-    },
-    {
-      "filename": "Chương_00014_Hận_Thù_Nuôi_Dưỡng.md",
-      "title": "Chương 14: Hận Thù Nuôi Dưỡng"
-    },
-    {
-      "filename": "Chương_00015_Bách_Nghệ_Sinh_Tồn.md",
-      "title": "Chương 15: Bách Nghệ Sinh Tồn"
-    },
-    {
-      "filename": "Chương_00016_Mùi_Máu_Vạn_Dặm.md",
-      "title": "Chương 16: Mùi Máu Vạn Dặm"
-    },
-    {
-      "filename": "Chương_00017_Liên_Thủ_Đối_Phó.md",
-      "title": "Chương 17: Liên Thủ Đối Phó"
-    },
-    {
-      "filename": "Chương_00018_Mạng_Lưới_Huyết_Tinh.md",
-      "title": "Chương 18: Mạng Lưới Huyết Tinh"
-    },
-    {
-      "filename": "Chương_00019_Gián_Điệp_Trong_Tông.md",
-      "title": "Chương 19: Gián Điệp Trong Tông"
-    },
-    {
-      "filename": "Chương_00020_Chìa_Khóa_Trận_Pháp.md",
-      "title": "Chương 20: Chìa Khóa Trận Pháp"
-    }
-  ],
   "Góc_Nhìn_Ngao_Đình": [
     {
       "filename": "Chương_00003_Sấm_Sét_Và_Kiêu_Ngạo.md",
@@ -1691,10 +1595,28 @@ Object.assign(chapterData, {
       "filename": "Chương_00010_Lời_Tiên_Tri_Từ_Rừng_Sâu.md",
       "title": "Chương 10: Lời Tiên Tri Từ Rừng Sâu"
     }
+  ],
+  "Góc_Nhìn_A_Ngốc": [
+    {
+      "filename": "Chương_00001_Bạn_Bướm.md",
+      "title": "Chương 1: Bạn Bướm"
+    },
+    {
+      "filename": "Chương_00002_Ông_Già_Ngủ.md",
+      "title": "Chương 2: Ông Già Ngủ"
+    },
+    {
+      "filename": "Chương_00003_Cái_Bụng_Đói.md",
+      "title": "Chương 3: Cái Bụng Đói"
+    },
+    {
+      "filename": "Chương_00004_Con_Quái_Vật_Ở_Rừng.md",
+      "title": "Chương 4: Con Quái Vật Ở Rừng"
+    }
   ]
 });
 
-chapterData.Góc_Nhìn_Chính.push({
+chapterData.Góc_Nhìn_Nam_Cương.push({
   filename: "Chương_Mẫu_Huyền_Băng.md",
   title: "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
 });
