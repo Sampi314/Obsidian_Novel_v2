@@ -68,3 +68,5 @@
 - [Chương 46: Bóng Tối Dưới Chân Núi](Chương_00046_Bóng_Tối_Dưới_Chân_Núi.md)
 - [Chương 47: Khảo Nghiệm Đầu Tiên](Chương_00047_Khảo_Nghiệm_Đầu_Tiên.md)
 - [Chương 48: Ảo Trận Vấn Tâm](Chương_00048_Ảo_Trận_Vấn_Tâm.md)
+- [Chương 49: Bước Lên Thềm Đá](Chương_00049_Bước_Lên_Thềm_Đá.md)
+- [Chương 50: Đệ Tử Ngoại Môn](Chương_00050_Đệ_Tử_Ngoại_Môn.md)

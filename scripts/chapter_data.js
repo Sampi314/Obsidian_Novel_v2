@@ -354,6 +354,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00048_Ảo_Trận_Vấn_Tâm.md",
       "title": "Chương 48: Ảo Trận Vấn Tâm"
+    },
+    {
+      "filename": "Chương_00049_Bước_Lên_Thềm_Đá.md",
+      "title": "Chương 49: Bước Lên Thềm Đá"
+    },
+    {
+      "filename": "Chương_00050_Đệ_Tử_Ngoại_Môn.md",
+      "title": "Chương 50: Đệ Tử Ngoại Môn"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
