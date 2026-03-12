@@ -37,12 +37,14 @@
 
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
-#### Task 1: Dọn dẹp thư mục cũ ✅ HOÀN THÀNH
-- Đã xóa 19 thư mục góc nhìn cá nhân cũ trong `Đạo/Chương_Truyện/` (nội dung đã được chuyển sang tuyến khu vực).
+#### Task 1: ~~Dọn dẹp thư mục cũ~~ ✅ → ❌ HOÀN TÁC — TÁI TẠO & MỞ RỘNG
+- Jules đã xóa 19 thư mục góc nhìn cá nhân cũ, nhưng nay cần **TÁI TẠO** tất cả
+- Mỗi nhân vật phụ cần có thư mục POV riêng VỚI đủ chương (song song với tuyến khu vực)
+- Đang tái tạo + viết ch 1-6 cho tất cả 19 nhân vật (xem Task 6)
 
 #### Task 2: Catch-up Lâm Phong
 - Tiếp tục viết chương 33, 34... cho Góc Nhìn Lâm Phong
-- Diễn biến cuộc hành trình trên mặt đất Rừng Huyết Độc sau khi thoát khỏi Hang Động Nhện Quỷ.
+- Diễn biến cuộc hành trình trên mặt đất Rừng Huyết Độc sau khi thoát khỏi Hang Động Nhện Quỷ
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
@@ -52,8 +54,50 @@
 - **Tây Mạc**: Viết ch 11-16 (Arc 2 — Bão Cát Trỗi Dậy)
 - Tham khảo QUY_HOẠCH_GÓC_NHÌN_PHỤ.md cho cốt truyện chi tiết
 
+#### Task 6: Mở rộng chương riêng cho 19 nhân vật phụ (Góc nhìn cá nhân)
+> **Bối cảnh:** Mỗi nhân vật phụ cần có thư mục POV riêng với ít nhất 6-10 chương. Hiện mỗi nhân vật đã có ch 1-2 (bản gốc) + đang được bổ sung ch 3-6. Jules tiếp tục viết ch 7-10 cho mỗi nhân vật.
+> **Quy tắc:** Chương cá nhân kể câu chuyện riêng của từng nhân vật — khác với chương khu vực (đa POV). Tập trung vào quá khứ, nội tâm, hành trình cá nhân.
+
+**Nam Cương (8 nhân vật):**
+- [ ] **Đan Dương Tử** (`Góc_Nhìn_Đan_Dương_Tử/`): Viết ch 7-10. Chủ đề: Hành trình đan sư, đối đầu Độc Cô, chuẩn bị chiến tranh.
+- [ ] **Diệp Thanh Y** (`Góc_Nhìn_Diệp_Thanh_Y/`): Viết ch 7-10. Chủ đề: Hành trình y sư, cứu trị Huyết Thần Độc, liên minh.
+- [ ] **Độc Cô Lão Quái** (`Góc_Nhìn_Độc_Cô_Lão_Quái/`): Viết ch 7-10. Chủ đề: Âm mưu tà đạo, kiểm soát trùng, Đại Trận.
+- [ ] **Hắc Hạt Ma Trùng** (`Góc_Nhìn_Hắc_Hạt_Ma_Trùng/`): Viết ch 7-10. Chủ đề: Tiến hóa, ký ức thượng cổ, trỗi dậy.
+- [ ] **Hàn Thanh Nguyệt** (`Góc_Nhìn_Hàn_Thanh_Nguyệt/`): Viết ch 7-10. Chủ đề: Sinh tồn sát thủ, mạng lưới Huyết Tinh Sa.
+- [ ] **Lục Trần** (`Góc_Nhìn_Lục_Trần/`): Viết ch 7-10. Chủ đề: Kiếm đạo hộ thế, gián điệp, liên minh.
+- [ ] **Ngô Công Trưởng Lão** (`Góc_Nhìn_Ngô_Công_Trưởng_Lão/`): Viết ch 7-10. Chủ đề: Phục thù, ngũ độc, quay về.
+- [ ] **Phương Vô Kỵ** (`Góc_Nhìn_Phương_Vô_Kỵ/`): Viết ch 7-10. Chủ đề: Trận pháp cổ, mưu mẹo, chìa khóa.
+
+**Bắc Băng (3 nhân vật):**
+- [ ] **Lý Tuyết Ưng** (`Góc_Nhìn_Lý_Tuyết_Ưng/`): Viết ch 7-10. Chủ đề: Đột phá Hóa Thần, bảo vệ băng nguyên.
+- [ ] **Sở Lăng Sương** (`Góc_Nhìn_Sở_Lăng_Sương/`): Viết ch 7-10. Chủ đề: Sương độc, truy vết, Băng Ngục Thành.
+- [ ] **Triệu Thanh Hằng** (`Góc_Nhìn_Triệu_Thanh_Hằng/`): Viết ch 7-10. Chủ đề: Kiếm đạo tự ngộ, ân oán, Huyết Sát Minh.
+
+**Đông Hoang (4 nhân vật):**
+- [ ] **Lục Ly** (`Góc_Nhìn_Lục_Ly/`): Viết ch 7-10. Chủ đề: Hộ pháp tinh linh, Hoàng Sa Quốc, người kế thừa.
+- [ ] **Nguyệt Dao** (`Góc_Nhìn_Nguyệt_Dao/`): Viết ch 7-10. Chủ đề: Dao pháp, hoang dã, bí mật Đông Hoang.
+- [ ] **Nham Thần** (`Góc_Nhìn_Nham_Thần/`): Viết ch 7-10. Chủ đề: Thức tỉnh, địa mạch, bảo vệ đất đai.
+- [ ] **Lục Tiêu** (`Góc_Nhìn_Lục_Tiêu/`): Viết ch 7-10. Chủ đề: Thế giới bên ngoài, đồng minh, kết nối.
+
+**Hải Vực (2 nhân vật):**
+- [ ] **Lệ Nhược Thủy** (`Góc_Nhìn_Lệ_Nhược_Thủy/`): Viết ch 7-10. Chủ đề: Hải vương, ô nhiễm đại dương, lên bờ.
+- [ ] **Ngao Đình** (`Góc_Nhìn_Ngao_Đình/`): Viết ch 7-10. Chủ đề: Long tộc kiêu ngạo, truy tìm cường giả.
+
+**Tây Mạc (2 nhân vật):**
+- [ ] **Hứa Nhược Thủy** (`Góc_Nhìn_Hứa_Nhược_Thủy/`): Viết ch 7-10. Chủ đề: Thương đạo, con trai bỏ trốn, liên minh sa mạc.
+- [ ] **Hứa Thanh Vân** (`Góc_Nhìn_Hứa_Thanh_Vân/`): Viết ch 7-10. Chủ đề: Trưởng thành, mê cung phế tích, bài học.
+
+**Sau khi viết xong ch 7-10, cập nhật:**
+- [ ] `scripts/chapter_data.js` — thêm entries cho tất cả chương mới
+- [ ] `MỤC_LỤC.md` trong mỗi thư mục góc nhìn cá nhân
+- [ ] `index.html` — đảm bảo navigation hoạt động cho các thư mục POV cá nhân
+
+#### Task 7: Cập nhật chapter_data.js cho chương cá nhân (ch 3-6)
+- Sau khi ch 3-6 đã được viết (đang tiến hành), cập nhật `scripts/chapter_data.js` để thêm entries cho tất cả chương mới
+- Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
+
 ### Ghi Chú
-> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Cập nhật index.html, chapter_data.js, MỤC_LỤC.md. Lâm Phong đã hoàn thành ch 31-32 (Trốn thoát thành công khỏi Sào Huyệt Lão Chu - Hang Động Nhện Quỷ).
+> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Lâm Phong đã hoàn thành ch 31-32 (Trốn thoát Hang Động Nhện Quỷ). **MỚI:** Đang tái tạo + mở rộng 19 thư mục góc nhìn cá nhân — viết ch 1-6 cho tất cả 19 nhân vật phụ (76+ chương mới). Thêm nhân vật mới: A Ngốc (nhân vật thiểu năng trí tuệ đạt đạo). Jules tiếp tục viết ch 7-10 (Task 6) và cập nhật chapter_data.js (Task 7).
 
 ---
 
