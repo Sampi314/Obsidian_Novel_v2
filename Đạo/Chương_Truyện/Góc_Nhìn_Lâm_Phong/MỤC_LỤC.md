@@ -17,3 +17,5 @@
 - [Chương 15: Ngụy Trang Kẻ Săn Mồi](Chương_00015_Ngụy_Trang_Kẻ_Săn_Mồi.md)
 - [Chương 16: Săn Mồi Trong Sương](Chương_00016_Săn_Mồi_Trong_Sương.md)
 - [Chương 17: Giao Cắt Định Mệnh](Chương_00017_Giao_Cắt_Định_Mệnh.md)
+- [Chương 18: Đồng Hành Bất Đắc Dĩ](Chương_00018_Đồng_Hành_Bất_Đắc_Dĩ.md)
+- [Chương 19: Lửa Đêm Dưới Đáy Khe Nứt](Chương_00019_Lửa_Đêm_Dưới_Đáy_Khe_Nứt.md)

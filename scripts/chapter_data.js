@@ -668,6 +668,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00017_Giao_Cắt_Định_Mệnh.md",
       "title": "Chương 17: Giao Cắt Định Mệnh"
+    },
+    {
+      "filename": "Chương_00018_Đồng_Hành_Bất_Đắc_Dĩ.md",
+      "title": "Chương 18: Đồng Hành Bất Đắc Dĩ"
+    },
+    {
+      "filename": "Chương_00019_Lửa_Đêm_Dưới_Đáy_Khe_Nứt.md",
+      "title": "Chương 19: Lửa Đêm Dưới Đáy Khe Nứt"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
