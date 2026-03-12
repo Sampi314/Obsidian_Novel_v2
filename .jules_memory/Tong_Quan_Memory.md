@@ -3,10 +3,11 @@
 
 ## PHIÊN GẦN NHẤT
 - **Ngày:** Hôm nay
-- **Nhiệm vụ:** Viết catch-up cho Góc Nhìn Lâm Phong (Chương 18, 19).
+- **Nhiệm vụ:** Viết catch-up cho Góc Nhìn Lâm Phong (Chương 21, 22).
 - **Hành động đã thực hiện:**
-  - Viết Chương 18 (Đồng Hành Bất Đắc Dĩ) và Chương 19 (Lửa Đêm Dưới Đáy Khe Nứt). Lâm Phong và Diệp Tĩnh Sương lẩn trốn trong Khe Nứt Sinh Tử, trao đổi về âm mưu thu thập Huyết Tinh thô của Vạn Độc Môn. Lên kế hoạch xuyên qua Vùng Đất Chết.
+  - Viết Chương 21 (Xuyên Qua Tử Địa) và Chương 22 (Sinh Vật Biến Dị). Lâm Phong và Diệp Tĩnh Sương rời khỏi Khe Nứt Sinh Tử, tiến vào Vùng Đất Chết. Họ phải đối mặt với sương mù chứa Địa Sát Tử Khí gây ảo giác và hợp sức tiêu diệt một quái vật bán dẫn (hắc báo xương) trước khi tìm thấy một góc an toàn tại Bãi Tha Ma Cổ Đại.
+  - Bổ sung khái niệm "Sinh Vật Bán Dẫn (Vùng Đất Chết)" vào HỒ_SƠ_THẾ_GIỚI.md.
   - Cập nhật MỤC_LỤC, chapter_data.js.
-  - Cập nhật BÁO_CÁO_CHẤT_LƯỢNG.md và HỒ_SƠ_THẾ_GIỚI.md.
+  - Cập nhật tiến độ vào BÁO_CÁO_CHẤT_LƯỢNG.md và .jules/INSTRUCTIONS.md.
 - **Ghi chú/TODO cho phiên sau:**
-  - Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 20, 21...) cho đến khi đạt đủ tỷ lệ 50% so với Góc Nhìn Chính. Sự kiện tiếp theo sẽ là vượt qua Vùng Đất Chết.
+  - Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 23, 24...) cho đến khi đạt đủ tỷ lệ 50% so với Góc Nhìn Chính. Sự kiện tiếp theo sẽ là tiến vào khu vực Hang Động Nhện Quỷ. Cần cập nhật/xây dựng hồ sơ thế giới nếu xuất hiện địa danh hoặc quái vật mới.

@@ -676,6 +676,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00020_Lửa_Đêm_Dưới_Đáy_Khe_Nứt.md",
       "title": "Chương 20: Lửa Đêm Dưới Đáy Khe Nứt"
+    },
+    {
+      "filename": "Chương_00021_Xuyên_Qua_Tử_Địa.md",
+      "title": "Chương 21: Xuyên Qua Tử Địa"
+    },
+    {
+      "filename": "Chương_00022_Sinh_Vật_Biến_Dị.md",
+      "title": "Chương 22: Sinh Vật Biến Dị"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

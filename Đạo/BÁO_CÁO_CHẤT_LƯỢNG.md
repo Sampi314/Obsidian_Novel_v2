@@ -8,6 +8,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 21, 22 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 21 (Xuyên Qua Tử Địa) và Chương 22 (Sinh Vật Biến Dị). Lâm Phong và Diệp Tĩnh Sương rời Khe Nứt Sinh Tử, tiến vào Vùng Đất Chết. Họ vượt qua ảo ảnh Địa Sát Tử Khí và hợp sức tiêu diệt một sinh vật bán dẫn (hắc báo xương) trước khi tìm đến Bãi Tha Ma Cổ Đại. |
 | Hôm nay | Tổng Quản | Viết Chương 18, 19 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 18 (Đồng Hành Bất Đắc Dĩ) và Chương 19 (Lửa Đêm Dưới Đáy Khe Nứt). Lâm Phong cứu Diệp Tĩnh Sương chạy vào Khe Nứt Sinh Tử, hai người trao đổi tình báo về âm mưu thu thập Huyết Tinh của Vạn Độc Môn và Lệ Vô Tâm. |
 | Hôm nay | Tổng Quản | Viết Chương 16, 17 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 16 (Săn Mồi Trong Sương) và Chương 17 (Giao Cắt Định Mệnh). Lâm Phong ám sát nhóm tuần tra Vạn Độc Môn và giải cứu Diệp Tĩnh Sương đang bị Huyết Vệ truy đuổi, hai tuyến truyện giao cắt. |
 | Hôm nay | Tổng Quản | Viết Chương 14, 15 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 14 (Giao Dịch Trong Sương) và Chương 15 (Ngụy Trang Kẻ Săn Mồi). Lâm Phong giao dịch lấy tình báo và lên kế hoạch cải trang thành đệ tử Vạn Độc Môn để thoát khỏi vòng vây. |
