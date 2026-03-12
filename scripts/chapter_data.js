@@ -328,6 +328,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00038_Phản_Sát_Trong_Sương.md",
       "title": "Chương 38: Phản Sát Trong Sương"
+    },
+    {
+      "filename": "Chương_00039_Lối_Thoát_Trong_Màn_Đêm.md",
+      "title": "Chương 39: Lối Thoát Trong Màn Đêm"
+    },
+    {
+      "filename": "Chương_00040_Rìa_Rừng_Đẫm_Máu.md",
+      "title": "Chương 40: Rìa Rừng Đẫm Máu"
     }
   ],
   "Góc_Nhìn_Lý_Tuyết_Ưng": [
