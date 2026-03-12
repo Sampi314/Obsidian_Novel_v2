@@ -13,17 +13,17 @@
 | Góc Nhìn Chính | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 24 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 26 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 
 ### Vị Trí Trong Vòng Xoay
 > Vòng xoay hiện tại: Tạm dừng để catch-up Góc Nhìn Lâm Phong.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 25, 26...).
-2. Khám phá bí mật Mạch Ngầm dưới Hang Động Nhện Quỷ.
+1. Tiếp tục viết catch-up cho Góc Nhìn Lâm Phong (Chương 27, 28...).
+2. Cập nhật diễn biến trốn thoát khỏi Mạch Ngầm và rời Rừng Huyết Độc.
 
 ### Ghi Chú
-> Đang tập trung catch-up cho Lâm Phong để đạt đủ số lượng chương theo tỷ lệ yêu cầu. Đã hoàn thành Chương 23, 24. Lâm Phong và Tĩnh Sương đã tiến vào Hang Động Nhện Quỷ, chạm trán Nhện Mặt Quỷ và Huyết Thi ở Dưỡng Thi Địa. Đã cập nhật lore cho Hang Động Nhện Quỷ.
+> Đang tập trung catch-up cho Lâm Phong để đạt đủ số lượng chương theo tỷ lệ yêu cầu. Đã hoàn thành Chương 25, 26. Lâm Phong và Tĩnh Sương đã chiến đấu với Hắc Lân Thủy Xà dưới Mạch Ngầm bí ẩn. Đã cập nhật lore cho Mạch Ngầm trong Hang Động Nhện Quỷ.
 
 ---
 

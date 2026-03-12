@@ -692,6 +692,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00024_Dưỡng_Thi_Địa_Đẫm_Máu.md",
       "title": "Chương 24: Dưỡng Thi Địa Đẫm Máu"
+    },
+    {
+      "filename": "Chương_00025_Mạch_Ngầm_Bí_Ẩn.md",
+      "title": "Chương 25: Mạch Ngầm Bí Ẩn"
+    },
+    {
+      "filename": "Chương_00026_Bóng_Đen_Dưới_Dòng_Nước.md",
+      "title": "Chương 26: Bóng Đen Dưới Dòng Nước"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

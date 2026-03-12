@@ -24,3 +24,5 @@
 - [Chương 22: Sinh Vật Biến Dị](Chương_00022_Sinh_Vật_Biến_Dị.md)
 - [Chương 23: Dấu Vết Kẻ Thù](Chương_00023_Dấu_Vết_Kẻ_Thù.md)
 - [Chương 24: Dưỡng Thi Địa Đẫm Máu](Chương_00024_Dưỡng_Thi_Địa_Đẫm_Máu.md)
+- [Chương 25: Mạch Ngầm Bí Ẩn](Chương_00025_Mạch_Ngầm_Bí_Ẩn.md)
+- [Chương 26: Bóng Đen Dưới Dòng Nước](Chương_00026_Bóng_Đen_Dưới_Dòng_Nước.md)
