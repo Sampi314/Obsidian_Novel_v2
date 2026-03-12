@@ -10,6 +10,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 47, 48 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 47 (Khảo Nghiệm Đầu Tiên) và Chương 48 (Ảo Trận Vấn Tâm). Lâm Phong và Tĩnh Sương tham gia Đại Điển Tuyển Đồ ngoại môn, vượt qua ải Cân Cốt Đo Thể và Ảo Trận Vấn Tâm trong Mê Tung Lâm bằng cách giấu giếm thân phận và thực lực thực sự. |
 | Hôm nay | Tổng Quản | Viết Chương 45, 46 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 45 (Phiên Chợ Ngoại Môn) và Chương 46 (Bóng Tối Dưới Chân Núi). Lâm Phong và Tĩnh Sương đến chợ ngoại môn Cửu Hoa Kiếm Tông, phát hiện dấu vết Huyết Sát Minh tại chợ đen và lên kế hoạch tham gia tuyển đồ. |
 | Hôm nay | Tổng Quản | Viết Chương 43, 44 (Góc Nhìn Lâm Phong) & Hồ Sơ | Hoàn Thành | Cập nhật hồ sơ Thương Hội Bạch Lang. Catch-up Lâm Phong: Chương 43 (Gia Nhập Thương Đoàn) và Chương 44 (Phục Kích Nơi Hẻm Núi). Lâm Phong và Diệp Tĩnh Sương gia nhập Thương Hội Bạch Lang và bảo vệ đoàn xe khỏi cuộc phục kích trong hẻm núi. |
 | Hôm nay | Tổng Quản | Viết Chương 41, 42 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 41 (Bầu Trời Tự Do) và Chương 42 (Trạm Nghỉ Chân). Lâm Phong và Diệp Tĩnh Sương thoát khỏi Rừng Huyết Độc, đến Trạm Biên thu thập tin tức và quyết định gia nhập thương đoàn để đi đến Cửu Hoa Kiếm Tông. |
