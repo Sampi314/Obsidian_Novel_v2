@@ -85,27 +85,27 @@ def main() -> None:
     chapter_data: dict[str, list[dict]] = {}
     total = 0
 
-    # Duyệt các thư mục con (mỗi thư mục là 1 POV)
-    for pov_name in sorted(os.listdir(CHAPTER_BASE)):
-        pov_path = os.path.join(CHAPTER_BASE, pov_name)
-        if not os.path.isdir(pov_path):
+    # Duyệt các thư mục khu vực, sau đó duyệt các thư mục POV bên trong
+    for region_name in sorted(os.listdir(CHAPTER_BASE)):
+        region_path = os.path.join(CHAPTER_BASE, region_name)
+        if not os.path.isdir(region_path):
             continue
-        entries = scan_pov_directory(pov_path)
-        if not entries:
-            continue
-        chapter_data[pov_name] = entries
-        total += len(entries)
-        print(f"  {pov_name}: {len(entries)} chương")
+        for pov_name in sorted(os.listdir(region_path)):
+            pov_path = os.path.join(region_path, pov_name)
+            if not os.path.isdir(pov_path):
+                continue
+            entries = scan_pov_directory(pov_path)
+            if not entries:
+                continue
+            chapter_data[pov_name] = entries
+            total += len(entries)
+            print(f"  {region_name}/{pov_name}: {len(entries)} chương")
 
     # Ghi ra file JS
     json_str = json.dumps(chapter_data, ensure_ascii=False, indent=2)
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write('const chapterData = (typeof window !== "undefined" && window.chapterData) ? window.chapterData : {};\n')
         f.write(f'Object.assign(chapterData, {json_str});\n\n')
-        f.write('chapterData.Góc_Nhìn_Chính.push({\n')
-        f.write('  filename: "Chương_Mẫu_Huyền_Băng.md",\n')
-        f.write('  title: "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"\n')
-        f.write('});\n\n')
         f.write("if (typeof window !== 'undefined') {\n")
         f.write("  window.chapterData = chapterData;\n")
         f.write("}\n")

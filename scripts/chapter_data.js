@@ -1676,10 +1676,6 @@ Object.assign(chapterData, {
   ]
 });
 
-chapterData.Góc_Nhìn_Chính.push({
-  filename: "Chương_Mẫu_Huyền_Băng.md",
-  title: "CHƯƠNG MẪU: TUYẾT SƠN ĐỘC HÀNH (雪山独行)"
-});
 
 if (typeof window !== 'undefined') {
   window.chapterData = chapterData;
