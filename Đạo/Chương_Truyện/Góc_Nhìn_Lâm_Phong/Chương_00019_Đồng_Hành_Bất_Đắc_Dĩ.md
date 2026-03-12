@@ -4,7 +4,7 @@
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 18: Đồng Hành Bất Đắc Dĩ
+# Chương 19: Đồng Hành Bất Đắc Dĩ
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)

@@ -4,7 +4,7 @@
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 10: Dấu Vết Truy Kích
+# Chương 11: Dấu Vết Truy Kích
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)

@@ -4,7 +4,7 @@
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 17: Giao Cắt Định Mệnh
+# Chương 18: Giao Cắt Định Mệnh
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)

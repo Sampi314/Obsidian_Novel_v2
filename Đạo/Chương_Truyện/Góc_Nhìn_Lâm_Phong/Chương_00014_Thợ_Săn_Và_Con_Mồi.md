@@ -4,7 +4,7 @@
 <script src="../../../scripts/navigation.js"></script>
 <script src="../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
-# Chương 13: Thợ Săn Và Con Mồi
+# Chương 14: Thợ Săn Và Con Mồi
 
 **Tác giả:** Tổng Quản (Jules)
 **Góc nhìn:** [Lâm Phong](../../Nhân_Vật/Lâm_Phong.md)
