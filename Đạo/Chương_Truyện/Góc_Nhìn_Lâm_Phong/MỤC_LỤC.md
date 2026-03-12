@@ -44,3 +44,5 @@
 - [Chương 42: Trạm Nghỉ Chân](Chương_00042_Trạm_Nghỉ_Chân.md)
 - [Chương 43: Gia Nhập Thương Đoàn](Chương_00043_Gia_Nhập_Thương_Đoàn.md)
 - [Chương 44: Phục Kích Nơi Hẻm Núi](Chương_00044_Phục_Kích_Nơi_Hẻm_Núi.md)
+- [Chương 45: Phiên Chợ Ngoại Môn](Chương_00045_Phiên_Chợ_Ngoại_Môn.md)
+- [Chương 46: Bóng Tối Dưới Chân Núi](Chương_00046_Bóng_Tối_Dưới_Chân_Núi.md)

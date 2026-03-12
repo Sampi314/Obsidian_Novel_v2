@@ -352,6 +352,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00044_Phục_Kích_Nơi_Hẻm_Núi.md",
       "title": "Chương 44: Phục Kích Nơi Hẻm Núi"
+    },
+    {
+      "filename": "Chương_00045_Phiên_Chợ_Ngoại_Môn.md",
+      "title": "Chương 45: Phiên Chợ Ngoại Môn"
+    },
+    {
+      "filename": "Chương_00046_Bóng_Tối_Dưới_Chân_Núi.md",
+      "title": "Chương 46: Bóng Tối Dưới Chân Núi"
     }
   ],
   "Góc_Nhìn_Lý_Tuyết_Ưng": [

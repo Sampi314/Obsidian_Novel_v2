@@ -344,6 +344,12 @@
     - [Vũ Hoàng Các](Thế_Lực/Vũ_Hoàng_Các.md)
     - [Thiên Môn Kính Đài](Thế_Lực/Thiên_Môn_Kính_Đài.md)
     - [Thạch Linh Cung](Thế_Lực/Thạch_Linh_Cung.md)
+
+### Phiên Chợ Ngoại Môn Cửu Hoa Kiếm Tông
+*   **Vị trí:** Dưới chân Cửu Hoa Sơn (phương Đông).
+*   **Tình trạng:** Sầm uất, phức tạp. Là nơi giao thương tự do giữa các thương hội, tán tu và đệ tử cấp thấp.
+*   **Điểm nổi bật:**
+    *   **Khu chợ đen (Hắc Thị Quán):** Một tửu quán lụp xụp có biểu tượng dơi ngậm đồng tiền, là tụ điểm buôn lậu, mua bán tin tức và phát lệnh truy nã ngầm. Hiện tại đã bị Huyết Sát Minh thâm nhập và mua chuộc.
     - [Vân Tông](Thế_Lực/Vân_Tông.md)
     - [Tiên Cầm Viện](Thế_Lực/Tiên_Cầm_Viện.md)
     - [Lôi Trì Thánh Địa](Thế_Lực/Lôi_Trì_Thánh_Địa.md)

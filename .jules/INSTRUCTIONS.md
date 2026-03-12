@@ -15,7 +15,7 @@
 | Góc Nhìn Chính | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 44 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 46 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 
 #### Tuyến Khu Vực (Đa Nhân Vật — Nhóm Theo Vùng)
 | Góc Nhìn | Số Chương | Nhân Vật | Ghi Chú |
@@ -31,7 +31,8 @@
 
 ### Ưu Tiên Phiên Tiếp Theo
 1. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1 (10 ch mỗi tuyến, Nam Cương 20 ch). Bắt đầu viết Arc 2.
-2. **Tiếp tục Catch-up Lâm Phong**: Chương 45, 46... Tiếp tục cuộc hành trình đến Cửu Hoa Kiếm Tông và những diễn biến tại phiên chợ ngoại môn.
+2. **Tiếp tục Catch-up Lâm Phong**: Chương 47, 48... Tham gia Đại Điển Tuyển Đồ ngoại môn Cửu Hoa Kiếm Tông.
+3. **Mở rộng chương riêng cho 19 nhân vật phụ**: Tiếp tục Task 6, hoàn thành ch 7-10 cho các nhân vật phụ.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
 
@@ -97,7 +98,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Lâm Phong đã hoàn thành ch 43-44 (Gia nhập Thương Hội Bạch Lang và bảo vệ đoàn xe khỏi cuộc phục kích). **MỚI:** Đang tái tạo + mở rộng 19 thư mục góc nhìn cá nhân — viết ch 1-6 cho tất cả 19 nhân vật phụ (76+ chương mới). Thêm nhân vật mới: A Ngốc (nhân vật thiểu năng trí tuệ đạt đạo). Jules tiếp tục viết ch 7-10 (Task 6) và cập nhật chapter_data.js (Task 7).
+> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Lâm Phong đã hoàn thành ch 45-46 (Đến phiên chợ ngoại môn Cửu Hoa Kiếm Tông, phát hiện dấu vết Huyết Sát Minh ở Hắc Thị Quán, quyết định tham gia tuyển đồ ngoại môn để ẩn thân). **MỚI:** Đang tái tạo + mở rộng 19 thư mục góc nhìn cá nhân — viết ch 1-6 cho tất cả 19 nhân vật phụ (76+ chương mới). Thêm nhân vật mới: A Ngốc.
 
 ---
 
