@@ -26,3 +26,5 @@
 - [Chương 24: Dưỡng Thi Địa Đẫm Máu](Chương_00024_Dưỡng_Thi_Địa_Đẫm_Máu.md)
 - [Chương 25: Mạch Ngầm Bí Ẩn](Chương_00025_Mạch_Ngầm_Bí_Ẩn.md)
 - [Chương 26: Bóng Đen Dưới Dòng Nước](Chương_00026_Bóng_Đen_Dưới_Dòng_Nước.md)
+- [Chương 27: Điểm Cuối Mạch Ngầm](Chương_00027_Điểm_Cuối_Mạch_Ngầm.md)
+- [Chương 28: Kẻ Gác Cổng](Chương_00028_Kẻ_Gác_Cổng.md)

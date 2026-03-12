@@ -8,6 +8,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 27, 28 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 27 (Điểm Cuối Mạch Ngầm) và Chương 28 (Kẻ Gác Cổng). Lâm Phong và Tĩnh Sương vượt qua hồ ngầm nuôi cấy Huyết Trùng Kén, truy bắt đệ tử Vạn Độc Môn (Mặc Dơi) và tiêu diệt quái vật gác cổng Độc Long Tích. |
 | Hôm nay | Tổng Quản | Viết Chương 25, 26 (Góc Nhìn Lâm Phong) | Hoàn Thành | Cập nhật hồ sơ Hang Động Nhện Quỷ (Mạch Ngầm). Catch-up Lâm Phong: Chương 25 (Mạch Ngầm Bí Ẩn) và Chương 26 (Bóng Đen Dưới Dòng Nước). Lâm Phong và Tĩnh Sương theo dấu vết Vạn Độc Môn dưới dòng sông ngầm, đụng độ Hắc Lân Thủy Xà. |
 | Hôm nay | Tổng Quản | Viết Chương 23, 24 (Góc Nhìn Lâm Phong) | Hoàn Thành | Cập nhật hồ sơ Hang Động Nhện Quỷ. Catch-up cho Lâm Phong: Chương 23 (Dấu Vết Kẻ Thù) và Chương 24 (Dưỡng Thi Địa Đẫm Máu). Cả hai chạm trán Nhện Mặt Quỷ và đối mặt với Huyết Thi. |
 | Hôm nay | Tổng Quản | Viết Chương 21, 22 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 21 (Xuyên Qua Tử Địa) và Chương 22 (Sinh Vật Biến Dị). Lâm Phong và Diệp Tĩnh Sương rời Khe Nứt Sinh Tử, tiến vào Vùng Đất Chết. Họ vượt qua ảo ảnh Địa Sát Tử Khí và hợp sức tiêu diệt một sinh vật bán dẫn (hắc báo xương) trước khi tìm đến Bãi Tha Ma Cổ Đại. |

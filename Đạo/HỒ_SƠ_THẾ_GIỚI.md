@@ -298,6 +298,19 @@
         - [Chương 13: Thợ Săn Và Con Mồi](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00013_Thợ_Săn_Và_Con_Mồi.md)
         - [Chương 14: Giao Dịch Trong Sương](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00014_Giao_Dịch_Trong_Sương.md)
         - [Chương 15: Ngụy Trang Kẻ Săn Mồi](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00015_Ngụy_Trang_Kẻ_Săn_Mồi.md)
+        - [Chương 16: Săn Mồi Trong Sương](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00016_Săn_Mồi_Trong_Sương.md)
+        - [Chương 17: Giao Cắt Định Mệnh](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00017_Giao_Cắt_Định_Mệnh.md)
+        - [Chương 18: Đồng Hành Bất Đắc Dĩ](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00018_Đồng_Hành_Bất_Đắc_Dĩ.md)
+        - [Chương 19: Lửa Đêm Dưới Đáy Khe Nứt](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00019_Lửa_Đêm_Dưới_Đáy_Khe_Nứt.md)
+        - [Chương 20: Vòng Vây Huyết Vệ](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00020_Vòng_Vây_Huyết_Vệ.md)
+        - [Chương 21: Xuyên Qua Tử Địa](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00021_Xuyên_Qua_Tử_Địa.md)
+        - [Chương 22: Sinh Vật Biến Dị](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00022_Sinh_Vật_Biến_Dị.md)
+        - [Chương 23: Dấu Vết Kẻ Thù](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00023_Dấu_Vết_Kẻ_Thù.md)
+        - [Chương 24: Dưỡng Thi Địa Đẫm Máu](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00024_Dưỡng_Thi_Địa_Đẫm_Máu.md)
+        - [Chương 25: Mạch Ngầm Bí Ẩn](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00025_Mạch_Ngầm_Bí_Ẩn.md)
+        - [Chương 26: Bóng Đen Dưới Dòng Nước](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00026_Bóng_Đen_Dưới_Dòng_Nước.md)
+        - [Chương 27: Điểm Cuối Mạch Ngầm](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00027_Điểm_Cuối_Mạch_Ngầm.md)
+        - [Chương 28: Kẻ Gác Cổng](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00028_Kẻ_Gác_Cổng.md)
 
 ## VI. Thế Lực Chính
 
