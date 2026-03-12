@@ -1,3 +1,3 @@
 ## PHIÊN GẦN NHẤT
-Hôm nay: Đã tiếp tục catch-up truyện cho Góc Nhìn Lâm Phong, hoàn thành Chương 27 và 28, mô tả hành trình dọc theo mạch ngầm và trận chiến với Độc Long Tích để thoát khỏi Hang Động Nhện Quỷ. Cập nhật các trạng thái (INSTRUCTIONS.md, HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md). Đã xóa các file và thư mục góc nhìn cá nhân cũ (đã gộp vào góc nhìn khu vực).
-TODO phiên sau: Tiếp tục viết catch-up chương 29, 30 cho Lâm Phong hoặc theo vòng xoay góc nhìn đã được xác định.
+Hôm nay: Đã tiếp tục catch-up truyện cho Góc Nhìn Lâm Phong, hoàn thành Chương 29 và 30. Tạo hồ sơ nhân vật Mặc Dơi và hồ sơ địa điểm Cổng Tử Vong. Lâm Phong và Tĩnh Sương qua cửa Tử Vong, thâm nhập sào huyệt Lão Chu, và đoạt được thuốc áp chế Huyết Thần Độc. Cập nhật các trạng thái (INSTRUCTIONS.md, HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md).
+TODO phiên sau: Tiếp tục viết catch-up chương 31, 32 cho Lâm Phong tìm cách thoát khỏi sào huyệt.

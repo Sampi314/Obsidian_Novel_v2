@@ -8,6 +8,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 29, 30 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 29 (Qua Cửa Tử Vong) và Chương 30 (Sào Huyệt Lão Chu). Cập nhật Cổng Tử Vong và tạo hồ sơ Mặc Dơi. Lâm Phong thâm nhập sào huyệt ngầm, đánh bại Mặc Dơi và đoạt được thuốc áp chế Huyết Thần Độc. |
 | Hôm nay | Tổng Quản | Viết Chương 27, 28 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 27 (Điểm Cuối Mạch Ngầm) và Chương 28 (Kẻ Gác Cổng). Lâm Phong và Tĩnh Sương vượt qua hồ ngầm nuôi cấy Huyết Trùng Kén, truy bắt đệ tử Vạn Độc Môn (Mặc Dơi) và tiêu diệt quái vật gác cổng Độc Long Tích. |
 | Hôm nay | Tổng Quản | Viết Chương 25, 26 (Góc Nhìn Lâm Phong) | Hoàn Thành | Cập nhật hồ sơ Hang Động Nhện Quỷ (Mạch Ngầm). Catch-up Lâm Phong: Chương 25 (Mạch Ngầm Bí Ẩn) và Chương 26 (Bóng Đen Dưới Dòng Nước). Lâm Phong và Tĩnh Sương theo dấu vết Vạn Độc Môn dưới dòng sông ngầm, đụng độ Hắc Lân Thủy Xà. |
 | Hôm nay | Tổng Quản | Viết Chương 23, 24 (Góc Nhìn Lâm Phong) | Hoàn Thành | Cập nhật hồ sơ Hang Động Nhện Quỷ. Catch-up cho Lâm Phong: Chương 23 (Dấu Vết Kẻ Thù) và Chương 24 (Dưỡng Thi Địa Đẫm Máu). Cả hai chạm trán Nhện Mặt Quỷ và đối mặt với Huyết Thi. |
@@ -18,5 +19,4 @@
 | Hôm nay | Tổng Quản | Viết Chương 12, 13 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 12 (Bí Mật Trong Hộp) và Chương 13 (Thợ Săn Và Con Mồi). Lâm Phong mở được hộp ngọc lấy bản đồ và Huyết Tinh thô. |
 | Hôm nay | Tổng Quản | Viết Chương 8, 9 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 8 (Săn Thú Trúng Người) và Chương 9 (Lửa Đêm Nam Cương), chạm trán người của Vạn Độc Môn và nắm giữ một hộp ngọc chứa bí mật về Huyết Thần Độc. |
 | Hôm nay | Tổng Quản | Viết Chương 6, 7 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 6 (Thị Trấn Vùng Biên) và Chương 7 (Đường Vào Nam Cương), khám phá Trạm Biên và tiến vào Nam Cương. |
-| Hôm nay | Tổng Quản | Viết Chương 4, 5 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 4 (Đêm Dài Cảnh Giác) và Chương 5 (Bóng Dáng Kẻ Săn Mồi) về hành trình sau khi rời Hắc Mộc Lâm. |
 | Hôm nay | Tổng Quản | Viết Chương 130 (Góc Nhìn Chính) & Chương 124 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương khám phá tầng 2 Băng Ngục Thành. Lệ Vô Tâm đang luyện hóa sức mạnh của Tôn Giả để kết Kim Đan tà ác. |
