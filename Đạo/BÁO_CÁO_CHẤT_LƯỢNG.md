@@ -8,6 +8,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 31, 32 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 31 (Thuốc Giải Hiệu Nghiệm) và Chương 32 (Ánh Sáng Đầu Ngày). Lâm Phong và Tĩnh Sương khôi phục sức mạnh nhờ thuốc áp chế, kết hợp đánh bại Lão Chu và trốn thoát khỏi Sào Huyệt ngầm (Hang Động Nhện Quỷ), bước lên mặt đất Rừng Huyết Độc. |
 | Hôm nay | Tổng Quản | Viết Chương 29, 30 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 29 (Qua Cửa Tử Vong) và Chương 30 (Sào Huyệt Lão Chu). Cập nhật Cổng Tử Vong và tạo hồ sơ Mặc Dơi. Lâm Phong thâm nhập sào huyệt ngầm, đánh bại Mặc Dơi và đoạt được thuốc áp chế Huyết Thần Độc. |
 | Hôm nay | Tổng Quản | Viết Chương 27, 28 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 27 (Điểm Cuối Mạch Ngầm) và Chương 28 (Kẻ Gác Cổng). Lâm Phong và Tĩnh Sương vượt qua hồ ngầm nuôi cấy Huyết Trùng Kén, truy bắt đệ tử Vạn Độc Môn (Mặc Dơi) và tiêu diệt quái vật gác cổng Độc Long Tích. |
 | Hôm nay | Tổng Quản | Viết Chương 25, 26 (Góc Nhìn Lâm Phong) | Hoàn Thành | Cập nhật hồ sơ Hang Động Nhện Quỷ (Mạch Ngầm). Catch-up Lâm Phong: Chương 25 (Mạch Ngầm Bí Ẩn) và Chương 26 (Bóng Đen Dưới Dòng Nước). Lâm Phong và Tĩnh Sương theo dấu vết Vạn Độc Môn dưới dòng sông ngầm, đụng độ Hắc Lân Thủy Xà. |

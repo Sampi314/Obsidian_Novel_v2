@@ -84,6 +84,12 @@
     "path": "/Đạo/Nhân_Vật/Lục_Trần.md"
   },
   {
+    "id": "nhân_vật-mặc_dơi",
+    "title": "Mặc Dơi",
+    "category": "Nhân Vật",
+    "path": "/Đạo/Nhân_Vật/Mặc_Dơi.md"
+  },
+  {
     "id": "nhân_vật-ngao_đình",
     "title": "Ngao Đình",
     "category": "Nhân Vật",
@@ -148,6 +154,12 @@
     "title": "Bản Đồ Sơ Bộ",
     "category": "Thế Giới Và Thời Gian",
     "path": "/Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md"
+  },
+  {
+    "id": "thế_giới_và_thời_gian-cổng_tử_vong",
+    "title": "Cổng Tử Vong",
+    "category": "Thế Giới Và Thời Gian",
+    "path": "/Đạo/Thế_Giới_Và_Thời_Gian/Cổng_Tử_Vong.md"
   },
   {
     "id": "thế_giới_và_thời_gian-hang_động_nhện_quỷ",

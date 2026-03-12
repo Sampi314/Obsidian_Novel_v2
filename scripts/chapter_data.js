@@ -800,6 +800,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00030_Sào_Huyệt_Lão_Chu.md",
       "title": "Chương 30: Sào Huyệt Lão Chu"
+    },
+    {
+      "filename": "Chương_00031_Thuốc_Giải_Hiệu_Nghiệm.md",
+      "title": "Chương 31: Thuốc Giải Hiệu Nghiệm"
+    },
+    {
+      "filename": "Chương_00032_Ánh_Sáng_Đầu_Ngày.md",
+      "title": "Chương 32: Ánh Sáng Đầu Ngày"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

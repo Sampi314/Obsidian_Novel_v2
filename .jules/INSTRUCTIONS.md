@@ -15,7 +15,7 @@
 | Góc Nhìn Chính | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 30 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 32 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 
 #### Tuyến Khu Vực (Đa Nhân Vật — Nhóm Theo Vùng)
 | Góc Nhìn | Số Chương | Nhân Vật | Ghi Chú |
@@ -30,8 +30,8 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Catch-up Lâm Phong**: Tiếp tục viết Chương 31, 32... (đã hoàn thành ch 29-30). Lâm Phong và Tĩnh Sương tìm cách trốn thoát khỏi sào huyệt của Lão Chu sau khi lấy được thuốc áp chế.
-2. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1 (10 ch mỗi tuyến, Nam Cương 20 ch). Bắt đầu viết Arc 2.
+1. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1 (10 ch mỗi tuyến, Nam Cương 20 ch). Bắt đầu viết Arc 2.
+2. **Tiếp tục Catch-up Lâm Phong**: Chương 33, 34... Hành trình sinh tồn sau khi trốn khỏi Hang Động Nhện Quỷ.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
 
@@ -41,8 +41,8 @@
 - Đã xóa 19 thư mục góc nhìn cá nhân cũ trong `Đạo/Chương_Truyện/` (nội dung đã được chuyển sang tuyến khu vực).
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 31, 32... cho Góc Nhìn Lâm Phong
-- Diễn biến tìm đường thoát khỏi sào huyệt Lão Chu và Hang Động Nhện Quỷ.
+- Tiếp tục viết chương 33, 34... cho Góc Nhìn Lâm Phong
+- Diễn biến cuộc hành trình trên mặt đất Rừng Huyết Độc sau khi thoát khỏi Hang Động Nhện Quỷ.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
@@ -53,7 +53,7 @@
 - Tham khảo QUY_HOẠCH_GÓC_NHÌN_PHỤ.md cho cốt truyện chi tiết
 
 ### Ghi Chú
-> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực (Nam Cương 20ch, Bắc Băng 10ch, Đông Hoang 10ch, Hải Vực 10ch, Tây Mạc 10ch). Đã cập nhật index.html, chapter_data.js, MỤC_LỤC.md. Storyline chi tiết trong QUY_HOẠCH_GÓC_NHÌN_PHỤ.md. Lâm Phong đã hoàn thành ch 29-30 (Xâm nhập sào huyệt ngầm lấy thuốc giải Huyết Thần Độc). Còn 19 thư mục góc nhìn cá nhân cũ cần dọn dẹp.
+> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Cập nhật index.html, chapter_data.js, MỤC_LỤC.md. Lâm Phong đã hoàn thành ch 31-32 (Trốn thoát thành công khỏi Sào Huyệt Lão Chu - Hang Động Nhện Quỷ).
 
 ---
 
