@@ -15,7 +15,7 @@
 | Góc Nhìn Chính | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 38 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 40 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 
 #### Tuyến Khu Vực (Đa Nhân Vật — Nhóm Theo Vùng)
 | Góc Nhìn | Số Chương | Nhân Vật | Ghi Chú |
@@ -31,7 +31,7 @@
 
 ### Ưu Tiên Phiên Tiếp Theo
 1. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1 (10 ch mỗi tuyến, Nam Cương 20 ch). Bắt đầu viết Arc 2.
-2. **Tiếp tục Catch-up Lâm Phong**: Chương 39, 40... Thoát khỏi Rừng Huyết Độc.
+2. **Tiếp tục Catch-up Lâm Phong**: Chương 41, 42... Bước chân vào thế giới bên ngoài, đụng độ sau khi thoát Rừng Huyết Độc.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
 
@@ -43,8 +43,8 @@
 - Đang tái tạo + viết ch 1-6 cho tất cả 19 nhân vật (xem Task 6)
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 39, 40... cho Góc Nhìn Lâm Phong
-- Diễn biến cuộc hành trình tìm đường thoát khỏi Rừng Huyết Độc sau khi tiêu diệt nhóm sát thủ.
+- Tiếp tục viết chương 41, 42... cho Góc Nhìn Lâm Phong
+- Diễn biến cuộc hành trình sau khi phá vỡ vòng vây và thoát khỏi Rừng Huyết Độc.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
@@ -97,7 +97,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Lâm Phong đã hoàn thành ch 37-38 (Phản sát Huyết Sát Minh). **MỚI:** Đang tái tạo + mở rộng 19 thư mục góc nhìn cá nhân — viết ch 1-6 cho tất cả 19 nhân vật phụ (76+ chương mới). Thêm nhân vật mới: A Ngốc (nhân vật thiểu năng trí tuệ đạt đạo). Jules tiếp tục viết ch 7-10 (Task 6) và cập nhật chapter_data.js (Task 7).
+> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Lâm Phong đã hoàn thành ch 39-40 (Thoát khỏi Rừng Huyết Độc). **MỚI:** Đang tái tạo + mở rộng 19 thư mục góc nhìn cá nhân — viết ch 1-6 cho tất cả 19 nhân vật phụ (76+ chương mới). Thêm nhân vật mới: A Ngốc (nhân vật thiểu năng trí tuệ đạt đạo). Jules tiếp tục viết ch 7-10 (Task 6) và cập nhật chapter_data.js (Task 7).
 
 ---
 

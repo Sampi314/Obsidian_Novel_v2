@@ -38,3 +38,5 @@
 - [Chương 36: Sát Cơ Tiềm Ẩn](Chương_00036_Sát_Cơ_Tiềm_Ẩn.md)
 - [Chương 37: Dấu Vết Huyết Sát](Chương_00037_Dấu_Vết_Huyết_Sát.md)
 - [Chương 38: Phản Sát Trong Sương](Chương_00038_Phản_Sát_Trong_Sương.md)
+- [Chương 39: Lối Thoát Trong Màn Đêm](Chương_00039_Lối_Thoát_Trong_Màn_Đêm.md)
+- [Chương 40: Rìa Rừng Đẫm Máu](Chương_00040_Rìa_Rừng_Đẫm_Máu.md)
