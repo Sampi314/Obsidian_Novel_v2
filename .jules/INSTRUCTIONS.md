@@ -273,6 +273,19 @@ Website sử dụng kiến trúc markdown-first — **KHÔNG tạo file HTML cho
    ```
 3. Tiếp theo là H1: `# Chương N: Tên Chương`
 4. Cập nhật `Đạo/Chương_Truyện/[Khu_Vực]/[Góc_Nhìn]/MỤC_LỤC.md` — thêm link
+   - **BẮT BUỘC nhóm chương theo Arc** để người đọc dễ theo dõi trên website.
+   - Format Arc header: `## Arc [Tên Arc] — [Chủ Đề] (Chương X-Y)`
+   - Ví dụ (tham khảo Góc Nhìn Lệ Vô Tâm hoặc Lâm Phong):
+     ```markdown
+     ## Arc Rừng Thẳm — Cơ Duyên Thợ Săn (Chương 1-4)
+     - [Chương 1: Tên Chương](Chương_00001_Tên_Chương.md)
+     - [Chương 2: Tên Chương](Chương_00002_Tên_Chương.md)
+
+     ## Arc Vùng Biên — Bước Vào Nam Cương (Chương 5-10)
+     - [Chương 5: Tên Chương](Chương_00005_Tên_Chương.md)
+     ```
+   - Khi thêm chương mới, kiểm tra xem chương thuộc Arc hiện tại hay cần tạo Arc mới.
+   - Mỗi Arc thường 3-10 chương, đặt tên theo sự kiện/địa điểm/chủ đề chính.
 5. Cập nhật `scripts/chapter_data.js` — thêm entry mới
 
 ---
