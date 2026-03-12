@@ -289,6 +289,8 @@
         - [Chương 7: Đường Vào Nam Cương](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00007_Đường_Vào_Nam_Cương.md)
         - [Chương 8: Săn Thú Trúng Người](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00008_Săn_Thú_Trúng_Người.md)
         - [Chương 9: Lửa Đêm Nam Cương](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00009_Lửa_Đêm_Nam_Cương.md)
+        - [Chương 10: Dấu Vết Truy Kích](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00010_Dấu_Vết_Truy_Kích.md)
+        - [Chương 11: Độc Trùng Trong Sương](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00011_Độc_Trùng_Trong_Sương.md)
 
 ## VI. Thế Lực Chính
 

@@ -155,13 +155,12 @@
 
 
 ---
-## LỊCH SỬ
-- Hôm nay: Xóa File Trùng Lặp
-- Hôm nay: Mở Rộng Thế Lực Đông Hoang
+## LỊCH SỬ (Tóm Tắt)
+- Các phiên trước: Viết các chương từ Arc 1 đến Arc 6 cho cả Góc Nhìn Chính và Lệ Vô Tâm. Mở rộng thế lực Đông Hoang, xóa file trùng lặp, khắc phục lỗi ngữ pháp và dịch thuật tiếng Anh, cập nhật Bí Cảnh, Tâm Ma Kiếp, Lôi Kiếp, Quan Hệ Chủng Tộc. Các chương gần nhất gồm Arc 6 (Băng Ngục Thành) và catch-up Góc Nhìn Lâm Phong (Chương 4-9).
 
 ## PHIÊN GẦN NHẤT
+| Hôm nay | Tổng Quản | Viết Chương 10, 11 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 10 (Dấu Vết Truy Kích) và Chương 11 (Độc Trùng Trong Sương). Lâm Phong thể hiện kỹ năng sinh tồn xuất sắc, tiêu diệt nhóm truy sát Vạn Độc Môn và vượt qua bầy Thiết Giáp Độc Dế ở Rừng Huyết Độc. |
 | Hôm nay | Tổng Quản | Sửa Lỗi Tham Chiếu | Hoàn Thành | Phát hiện và sửa tự động/thủ công an toàn hàng loạt broken links trong toàn bộ các tệp tin markdown của dự án (không xóa dữ liệu). |
-| Hôm nay | Tổng Quản | Viết Chương 99 (Góc Nhìn Chính) & Chương 93 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Khởi đầu Arc 5. Nhóm Tĩnh Sương xuất quan, nhận nhiệm vụ từ Đại Trưởng Lão hướng về Đông Hoang tìm kiếm đồng minh. Cùng lúc, Lệ Vô Tâm cũng nhận Huyết Sát Lệnh tiến về Đông Hoang để thiết lập mạng lưới tình báo cho Huyết Sát Minh. |
 | Hôm nay | Tổng Quản | Viết Chương 126 (Góc Nhìn Chính) & Chương 120 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương về Huyền Băng Cung, Lý Tuyết Ưng phong tỏa Bắc Băng để đối phó với Cực Hàn Chi Khí bị rò rỉ. Lệ Vô Tâm lẩn trốn tại Băng Ngục Thành và luyện hóa thành công Cực Hàn Ma Châu. |
 | Hôm nay | Tổng Quản | Viết Chương 127 (Góc Nhìn Chính) & Chương 121 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương quyết định đến Băng Ngục Thành để truy tìm dấu vết Lệ Vô Tâm. Lệ Vô Tâm sống sót sau đợt cắn trả của Ma Châu, lột xác thành "Hỗn Độn Băng Ma" và hướng về Băng Ngục Thành. |
 | Hôm nay | Tổng Quản | Viết Chương 128 (Góc Nhìn Chính) & Chương 122 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Tiếp tục Arc 6. Nhóm Tĩnh Sương bắt đầu hành trình đến Băng Ngục Thành. Lệ Vô Tâm tiến vào Băng Ngục Thành và bắt đầu cuộc thảm sát đẫm máu để củng cố sức mạnh mới. |
@@ -170,75 +169,3 @@
 | Hôm nay | Tổng Quản | Viết Chương 4, 5 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 4 (Đêm Dài Cảnh Giác) và Chương 5 (Bóng Dáng Kẻ Săn Mồi) về hành trình sau khi rời Hắc Mộc Lâm. |
 | Hôm nay | Tổng Quản | Viết Chương 6, 7 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 6 (Thị Trấn Vùng Biên) và Chương 7 (Đường Vào Nam Cương), khám phá Trạm Biên và tiến vào Nam Cương. |
 | Hôm nay | Tổng Quản | Viết Chương 8, 9 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up cho Lâm Phong: Chương 8 (Săn Thú Trúng Người) và Chương 9 (Lửa Đêm Nam Cương), chạm trán người của Vạn Độc Môn và nắm giữ một hộp ngọc chứa bí mật về Huyết Thần Độc. |
-| Hôm nay | Tổng Quản | Xóa File Trùng Lặp | Hoàn Thành | Xóa các file thừa của Chương 97 (Góc Nhìn Chính) và Chương 91 (Góc Nhìn Lệ Vô Tâm) do phát hiện đây là phiên bản lỗi, giữ lại file chuẩn. Cập nhật lại MỤC LỤC và Index. |
-| Hôm nay | Tổng Quản | Mở Rộng Thế Lực Đông Hoang | Hoàn Thành | Bổ sung chi tiết hồ sơ các thế lực `Vạn_Yêu_Thành.md`, `Ngự_Kiếm_Sơn_Trang.md`, `Thanh_Đế_Cung.md` tại Đông Hoang để chuẩn bị tài nguyên cho Arc 5. |
-
-## LỊCH SỬ
-- Hôm nay: Viết Chương 88 (Góc Nhìn Chính) & Chương 82 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 90 (Góc Nhìn Chính) & Chương 84 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 91 (Góc Nhìn Chính) & Chương 85 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 92 (Góc Nhìn Chính) & Chương 86 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 93 (Góc Nhìn Chính) & Chương 87 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 94 (Góc Nhìn Chính) & Chương 88 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 95 (Góc Nhìn Chính) & Chương 89 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Sửa Lỗi Ngữ Pháp & Bổ Sung Bí Cảnh
-- Hôm nay: Viết Chương 96 (Góc Nhìn Chính) & Chương 90 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 97 (Góc Nhìn Chính) & Chương 91 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 98 (Góc Nhìn Chính) & Chương 92 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 99 (Góc Nhìn Chính) & Chương 93 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 114 (Góc Nhìn Chính) & Chương 108 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Khởi tạo Hồ sơ Đông Hoang
-- Hôm nay: Viết Chương 100 (Góc Nhìn Chính) & Chương 94 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 101 (Góc Nhìn Chính) & Chương 95 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 102 (Góc Nhìn Chính) & Chương 96 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 104 (Góc Nhìn Chính) & Chương 98 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 105 (Góc Nhìn Chính) & Chương 99 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 106 (Góc Nhìn Chính) & Chương 100 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 107 (Góc Nhìn Chính) & Chương 101 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 108 (Góc Nhìn Chính) & Chương 102 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 109 (Góc Nhìn Chính) & Chương 103 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 110 (Góc Nhìn Chính) & Chương 104 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 111 (Góc Nhìn Chính) & Chương 105 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 112 (Góc Nhìn Chính) & Chương 106 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 113 (Góc Nhìn Chính) & Chương 107 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Sáng Tác
-- Hôm nay: Viết Chương 116 (Góc Nhìn Chính) & Chương 110 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 117 (Góc Nhìn Chính) & Chương 111 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 118 (Góc Nhìn Chính) & Chương 112 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 119 (Góc Nhìn Chính) & Chương 113 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 120 (Góc Nhìn Chính) & Chương 114 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 121 (Góc Nhìn Chính) & Chương 115 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 122 (Góc Nhìn Chính) & Chương 116 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 123 (Góc Nhìn Chính) & Chương 117 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Viết Chương 124 (Góc Nhìn Chính) & Chương 118 (Góc Nhìn Lệ Vô Tâm)
-- Hôm nay: Khắc phục lỗi ngữ pháp
-- Hôm nay: Viết Chương 125 (Góc Nhìn Chính) & Chương 119 (Góc Nhìn Lệ Vô Tâm)
-
-## PHIÊN GẦN NHẤT
-### [System] - Review Dịch Thuật Tiếng Anh
-**Hành Động:** Đã thay thế tự động các từ khóa Tiếng Anh sang Tiếng Việt (Tiếng Trung) trong 162 tệp tin.
-
----
-### [2024-05-24] - Review Quy Mô Dự Án (Tổng Quản)
-
-**1. Lỗi Ngôn Ngữ (Tiếng Anh):**
-- Phát hiện khoảng 165 tệp tin trên toàn dự án chứa thuật ngữ Tiếng Anh (như Agent, Skill, Level, System, Memory, Chapter, Action, vv.).
-- Lỗi định dạng tiêu đề, bài thơ, công pháp chưa đúng chuẩn Hán Việt/Sát Nghĩa.
-
-**2. Khắc Phục (Tự Động):**
-- Đã chạy tập lệnh Python để chuyển đổi các thuật ngữ sang Tiếng Việt (hoặc Hán Việt):
-  - Agent -> Đại Diện
-  - Skill -> Kỹ Năng
-  - Memory -> Ký Ức
-  - Level -> Cấp Độ
-  - Action -> Hành Động
-  - Review -> Đánh Giá
-- Cập nhật các chỉ lệnh trong thư mục `.jules` để áp dụng quy tắc "Tuyệt đối không dùng Tiếng Anh" với mọi Agent.
-
-**3. Kết Luận:** Đạt.
-
-## 5. Kết Luận Chung
-Đã hoàn thành các tác vụ bổ sung cho các yêu cầu tồn đọng từ 2024-05-23:
-- Cập nhật chi tiết các Bí Cảnh tại Bản Đồ Sơ Bộ (`Đạo/Thế_Giới_Và_Thời_Gian/Bản_Đồ_Sơ_Bộ.md`).
-- Bổ sung chi tiết Tâm Ma Kiếp và Lôi Kiếp tại Hệ Thống Cảnh Giới (`Đạo/Tu_Luyện/Hệ_Thống_Cảnh_Giới.md`).
-- Bổ sung thông tin về Quan Hệ Chủng Tộc (`Đạo/Chủng_Tộc/Quan_Hệ_Chủng_Tộc.md`).
