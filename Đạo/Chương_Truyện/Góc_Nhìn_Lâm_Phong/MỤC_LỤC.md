@@ -13,3 +13,5 @@
 - [Chương 11: Độc Trùng Trong Sương](Chương_00011_Độc_Trùng_Trong_Sương.md)
 - [Chương 12: Bí Mật Trong Hộp](Chương_00012_Bí_Mật_Trong_Hộp.md)
 - [Chương 13: Thợ Săn Và Con Mồi](Chương_00013_Thợ_Săn_Và_Con_Mồi.md)
+- [Chương 14: Giao Dịch Trong Sương](Chương_00014_Giao_Dịch_Trong_Sương.md)
+- [Chương 15: Ngụy Trang Kẻ Săn Mồi](Chương_00015_Ngụy_Trang_Kẻ_Săn_Mồi.md)
