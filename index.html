@@ -30,6 +30,17 @@
             --bone: #d4cbbf;
             --ash: #7a7067;
             --fog: rgba(212, 203, 191, 0.06);
+            /* Region colors */
+            --nam-cuong: #9b2c3a;
+            --nam-cuong-glow: rgba(155, 44, 58, 0.15);
+            --bac-bang: #4a8fb8;
+            --bac-bang-glow: rgba(74, 143, 184, 0.15);
+            --dong-hoang: #b8860b;
+            --dong-hoang-glow: rgba(184, 134, 11, 0.15);
+            --hai-vuc: #1a7a6d;
+            --hai-vuc-glow: rgba(26, 122, 109, 0.15);
+            --tay-mac: #c2984e;
+            --tay-mac-glow: rgba(194, 152, 78, 0.15);
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -995,6 +1006,115 @@
             font-style: italic;
         }
 
+        /* ── Chapter Count Badge ── */
+        .card-badge {
+            display: inline-block;
+            font-family: 'Playfair Display', serif;
+            font-size: 0.68rem;
+            font-style: normal;
+            letter-spacing: 0.06em;
+            color: var(--ash);
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            border-radius: 2px;
+            padding: 2px 8px;
+            margin-top: 8px;
+        }
+
+        /* ── Region-Themed Cards ── */
+        .region-group[data-region="nam-cuong"] .card::before { background: var(--nam-cuong); }
+        .region-group[data-region="nam-cuong"] .card:hover::before {
+            background: var(--nam-cuong);
+            box-shadow: 0 0 12px var(--nam-cuong-glow);
+        }
+        .region-group[data-region="nam-cuong"] .card:hover {
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 40px var(--nam-cuong-glow);
+        }
+        .region-group[data-region="nam-cuong"] .region-label { color: var(--nam-cuong); }
+
+        .region-group[data-region="bac-bang"] .card::before { background: var(--bac-bang); }
+        .region-group[data-region="bac-bang"] .card:hover::before {
+            background: var(--bac-bang);
+            box-shadow: 0 0 12px var(--bac-bang-glow);
+        }
+        .region-group[data-region="bac-bang"] .card:hover {
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 40px var(--bac-bang-glow);
+        }
+        .region-group[data-region="bac-bang"] .region-label { color: var(--bac-bang); }
+
+        .region-group[data-region="dong-hoang"] .card::before { background: var(--dong-hoang); }
+        .region-group[data-region="dong-hoang"] .card:hover::before {
+            background: var(--dong-hoang);
+            box-shadow: 0 0 12px var(--dong-hoang-glow);
+        }
+        .region-group[data-region="dong-hoang"] .card:hover {
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 40px var(--dong-hoang-glow);
+        }
+        .region-group[data-region="dong-hoang"] .region-label { color: var(--dong-hoang); }
+
+        .region-group[data-region="hai-vuc"] .card::before { background: var(--hai-vuc); }
+        .region-group[data-region="hai-vuc"] .card:hover::before {
+            background: var(--hai-vuc);
+            box-shadow: 0 0 12px var(--hai-vuc-glow);
+        }
+        .region-group[data-region="hai-vuc"] .card:hover {
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 40px var(--hai-vuc-glow);
+        }
+        .region-group[data-region="hai-vuc"] .region-label { color: var(--hai-vuc); }
+
+        .region-group[data-region="tay-mac"] .card::before { background: var(--tay-mac); }
+        .region-group[data-region="tay-mac"] .card:hover::before {
+            background: var(--tay-mac);
+            box-shadow: 0 0 12px var(--tay-mac-glow);
+        }
+        .region-group[data-region="tay-mac"] .card:hover {
+            box-shadow: 0 8px 32px rgba(0,0,0,0.4), 0 0 40px var(--tay-mac-glow);
+        }
+        .region-group[data-region="tay-mac"] .region-label { color: var(--tay-mac); }
+
+        /* ── Collapsible Region ── */
+        .region-overflow {
+            display: none;
+        }
+        .region-overflow.expanded {
+            display: contents;
+        }
+        .region-toggle {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: none;
+            border: 1px solid rgba(201, 169, 110, 0.1);
+            color: var(--gold-dim);
+            font-family: 'Playfair Display', serif;
+            font-size: 0.78rem;
+            letter-spacing: 0.08em;
+            padding: 8px 20px;
+            margin-top: 12px;
+            cursor: pointer;
+            border-radius: 2px;
+            transition: all 0.3s ease;
+        }
+        .region-toggle:hover {
+            border-color: rgba(201, 169, 110, 0.25);
+            color: var(--gold);
+            background: rgba(201, 169, 110, 0.04);
+        }
+        .region-toggle .toggle-arrow {
+            transition: transform 0.3s ease;
+            font-size: 0.6rem;
+        }
+        .region-toggle.expanded .toggle-arrow {
+            transform: rotate(180deg);
+        }
+
+        /* ── Character Icon ── */
+        .card-icon {
+            font-size: 0.9rem;
+            margin-right: 6px;
+            opacity: 0.7;
+        }
+
         /* ── Footer ── */
         .footer {
             position: relative;
@@ -1213,137 +1333,152 @@
             <p class="section-desc">Các tuyến truyện được phân loại theo khu vực và góc nhìn nhân vật</p>
 
             <!-- Nam Cương -->
-            <div class="region-group">
+            <div class="region-group" data-region="nam-cuong">
                 <div class="region-label">Nam Cương &mdash; 12 Nhân Vật</div>
                 <div class="card-grid">
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Nam_Cương/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Góc Nhìn Nam Cương</div>
+                        <div class="card-title"><span class="card-icon">🔥</span>Góc Nhìn Nam Cương</div>
                         <div class="card-subtitle">Tổng quan tuyến truyện khu vực</div>
+                        <div class="card-badge">135 chương</div>
                     </a>
                     <a href="reader.html?file=Đạo/Quy_Hoạch_Cốt_Truyện/Nam_Cương/Tuyến_Truyện_Nam_Cương.md" class="card" data-card>
-                        <div class="card-title">Tuyến Truyện Nam Cương</div>
+                        <div class="card-title"><span class="card-icon">📜</span>Tuyến Truyện Nam Cương</div>
                         <div class="card-subtitle">Tổng quan vùng đất phía Nam</div>
                     </a>
                     <a href="reader.html?file=Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md" class="card" data-card>
-                        <div class="card-title">Quản Lý Arc Truyện</div>
+                        <div class="card-title"><span class="card-icon">📋</span>Quản Lý Arc Truyện</div>
                         <div class="card-subtitle">Tổng quan các arc và tiến độ</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Diệp_Tĩnh_Sương/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Diệp Tĩnh Sương</div>
+                        <div class="card-title"><span class="card-icon">⚔️</span>Diệp Tĩnh Sương</div>
                         <div class="card-subtitle">Hàn Mai Kiếm &mdash; Kiếm tu cô độc</div>
+                        <div class="card-badge">10 chương</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Lâm_Phong/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Lâm Phong</div>
+                        <div class="card-title"><span class="card-icon">🏹</span>Lâm Phong</div>
                         <div class="card-subtitle">Thần Xạ Thủ &mdash; Con người hoang dã</div>
+                        <div class="card-badge">48 chương</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Lệ_Vô_Tâm/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Lệ Vô Tâm</div>
+                        <div class="card-title"><span class="card-icon">🕷️</span>Lệ Vô Tâm</div>
                         <div class="card-subtitle">Vạn Độc Thánh Tử &mdash; Bóng tối phía sau</div>
+                        <div class="card-badge">130 chương</div>
                     </a>
+                    <!-- Collapsible overflow -->
+                    <div class="region-overflow" id="nam-cuong-overflow">
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_A_Ngốc/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">A Ngốc</div>
+                        <div class="card-title"><span class="card-icon">🦋</span>A Ngốc</div>
                         <div class="card-subtitle">Hồn Nhiên Tử &mdash; Đại trí nhược ngu</div>
+                        <div class="card-badge">3 chương</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Đan_Dương_Tử/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Đan Dương Tử</div>
+                        <div class="card-title"><span class="card-icon">🔮</span>Đan Dương Tử</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Diệp_Thanh_Y/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Diệp Thanh Y</div>
+                        <div class="card-title"><span class="card-icon">💊</span>Diệp Thanh Y</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Hàn_Thanh_Nguyệt/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Hàn Thanh Nguyệt</div>
+                        <div class="card-title"><span class="card-icon">🗡️</span>Hàn Thanh Nguyệt</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Lục_Trần/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Lục Trần</div>
+                        <div class="card-title"><span class="card-icon">⚔️</span>Lục Trần</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Độc_Cô_Lão_Quái/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Độc Cô Lão Quái</div>
+                        <div class="card-title"><span class="card-icon">🐛</span>Độc Cô Lão Quái</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Hắc_Hạt_Ma_Trùng/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Hắc Hạt Ma Trùng</div>
+                        <div class="card-title"><span class="card-icon">🪲</span>Hắc Hạt Ma Trùng</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Ngô_Công_Trưởng_Lão/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Ngô Công Trưởng Lão</div>
+                        <div class="card-title"><span class="card-icon">🦂</span>Ngô Công Trưởng Lão</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Phương_Vô_Kỵ/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Phương Vô Kỵ</div>
+                        <div class="card-title"><span class="card-icon">🧩</span>Phương Vô Kỵ</div>
                     </a>
+                    </div>
                 </div>
+                <button class="region-toggle" onclick="toggleRegion('nam-cuong')">
+                    <span class="toggle-arrow">▼</span> Xem thêm 9 nhân vật
+                </button>
             </div>
 
             <!-- Bắc Băng -->
-            <div class="region-group">
+            <div class="region-group" data-region="bac-bang">
                 <div class="region-label">Bắc Băng &mdash; 3 Nhân Vật</div>
                 <div class="card-grid">
                     <a href="reader.html?file=Đạo/Chương_Truyện/Bắc_Băng/Góc_Nhìn_Bắc_Băng/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Góc Nhìn Bắc Băng</div>
+                        <div class="card-title"><span class="card-icon">❄️</span>Góc Nhìn Bắc Băng</div>
                         <div class="card-subtitle">Tổng quan tuyến truyện khu vực</div>
+                        <div class="card-badge">10 chương</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Bắc_Băng/Góc_Nhìn_Lý_Tuyết_Ưng/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Lý Tuyết Ưng</div>
+                        <div class="card-title"><span class="card-icon">🦅</span>Lý Tuyết Ưng</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Bắc_Băng/Góc_Nhìn_Sở_Lăng_Sương/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Sở Lăng Sương</div>
+                        <div class="card-title"><span class="card-icon">🌫️</span>Sở Lăng Sương</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Bắc_Băng/Góc_Nhìn_Triệu_Thanh_Hằng/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Triệu Thanh Hằng</div>
+                        <div class="card-title"><span class="card-icon">⚔️</span>Triệu Thanh Hằng</div>
                     </a>
                 </div>
             </div>
 
             <!-- Đông Hoang -->
-            <div class="region-group">
+            <div class="region-group" data-region="dong-hoang">
                 <div class="region-label">Đông Hoang &mdash; 4 Nhân Vật</div>
                 <div class="card-grid">
                     <a href="reader.html?file=Đạo/Chương_Truyện/Đông_Hoang/Góc_Nhìn_Đông_Hoang/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Góc Nhìn Đông Hoang</div>
+                        <div class="card-title"><span class="card-icon">🌾</span>Góc Nhìn Đông Hoang</div>
                         <div class="card-subtitle">Tổng quan tuyến truyện khu vực</div>
+                        <div class="card-badge">10 chương</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Đông_Hoang/Góc_Nhìn_Lục_Ly/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Lục Ly</div>
+                        <div class="card-title"><span class="card-icon">🧚</span>Lục Ly</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Đông_Hoang/Góc_Nhìn_Nguyệt_Dao/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Nguyệt Dao</div>
+                        <div class="card-title"><span class="card-icon">🌙</span>Nguyệt Dao</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Đông_Hoang/Góc_Nhìn_Nham_Thần/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Nham Thần</div>
+                        <div class="card-title"><span class="card-icon">🪨</span>Nham Thần</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Đông_Hoang/Góc_Nhìn_Lục_Tiêu/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Lục Tiêu</div>
+                        <div class="card-title"><span class="card-icon">🌿</span>Lục Tiêu</div>
                     </a>
                 </div>
             </div>
 
             <!-- Hải Vực -->
-            <div class="region-group">
+            <div class="region-group" data-region="hai-vuc">
                 <div class="region-label">Hải Vực &mdash; 2 Nhân Vật</div>
                 <div class="card-grid">
                     <a href="reader.html?file=Đạo/Chương_Truyện/Hải_Vực/Góc_Nhìn_Hải_Vực/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Góc Nhìn Hải Vực</div>
+                        <div class="card-title"><span class="card-icon">🌊</span>Góc Nhìn Hải Vực</div>
                         <div class="card-subtitle">Tổng quan tuyến truyện khu vực</div>
+                        <div class="card-badge">10 chương</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Hải_Vực/Góc_Nhìn_Lệ_Nhược_Thủy/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Lệ Nhược Thủy</div>
+                        <div class="card-title"><span class="card-icon">💧</span>Lệ Nhược Thủy</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Hải_Vực/Góc_Nhìn_Ngao_Đình/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Ngao Đình</div>
+                        <div class="card-title"><span class="card-icon">🐉</span>Ngao Đình</div>
                     </a>
                 </div>
             </div>
 
             <!-- Tây Mạc -->
-            <div class="region-group">
+            <div class="region-group" data-region="tay-mac">
                 <div class="region-label">Tây Mạc &mdash; 2 Nhân Vật</div>
                 <div class="card-grid">
                     <a href="reader.html?file=Đạo/Chương_Truyện/Tây_Mạc/Góc_Nhìn_Tây_Mạc/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Góc Nhìn Tây Mạc</div>
+                        <div class="card-title"><span class="card-icon">🏜️</span>Góc Nhìn Tây Mạc</div>
                         <div class="card-subtitle">Tổng quan tuyến truyện khu vực</div>
+                        <div class="card-badge">10 chương</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Tây_Mạc/Góc_Nhìn_Hứa_Nhược_Thủy/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Hứa Nhược Thủy</div>
+                        <div class="card-title"><span class="card-icon">💰</span>Hứa Nhược Thủy</div>
                     </a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Tây_Mạc/Góc_Nhìn_Hứa_Thanh_Vân/MỤC_LỤC.md" class="card" data-card>
-                        <div class="card-title">Hứa Thanh Vân</div>
+                        <div class="card-title"><span class="card-icon">🌪️</span>Hứa Thanh Vân</div>
                     </a>
                 </div>
             </div>
@@ -1729,6 +1864,26 @@
             observer.observe(section);
         });
     })();
+
+    function toggleRegion(regionId) {
+        var overflow = document.getElementById(regionId + '-overflow');
+        var btn = overflow.closest('.region-group').querySelector('.region-toggle');
+        var isExpanded = overflow.classList.toggle('expanded');
+        btn.classList.toggle('expanded', isExpanded);
+        btn.querySelector('.toggle-arrow').textContent = isExpanded ? '▲' : '▼';
+        var textNode = btn.childNodes[btn.childNodes.length - 1];
+        if (isExpanded) {
+            textNode.textContent = ' Thu gọn';
+        } else {
+            textNode.textContent = ' Xem thêm 9 nhân vật';
+        }
+        // Trigger visibility animation for newly revealed cards
+        if (isExpanded) {
+            overflow.querySelectorAll('.card').forEach(function(card, i) {
+                setTimeout(function() { card.classList.add('visible'); }, i * 80);
+            });
+        }
+    }
     </script>
 </body>
 </html>
