@@ -792,6 +792,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00028_Kẻ_Gác_Cổng.md",
       "title": "Chương 28: Kẻ Gác Cổng"
+    },
+    {
+      "filename": "Chương_00029_Qua_Cửa_Tử_Vong.md",
+      "title": "Chương 29: Qua Cửa Tử Vong"
+    },
+    {
+      "filename": "Chương_00030_Sào_Huyệt_Lão_Chu.md",
+      "title": "Chương 30: Sào Huyệt Lão Chu"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

@@ -28,3 +28,5 @@
 - [Chương 26: Bóng Đen Dưới Dòng Nước](Chương_00026_Bóng_Đen_Dưới_Dòng_Nước.md)
 - [Chương 27: Điểm Cuối Mạch Ngầm](Chương_00027_Điểm_Cuối_Mạch_Ngầm.md)
 - [Chương 28: Kẻ Gác Cổng](Chương_00028_Kẻ_Gác_Cổng.md)
+- [Chương 29: Qua Cửa Tử Vong](Chương_00029_Qua_Cửa_Tử_Vong.md)
+- [Chương 30: Sào Huyệt Lão Chu](Chương_00030_Sào_Huyệt_Lão_Chu.md)
