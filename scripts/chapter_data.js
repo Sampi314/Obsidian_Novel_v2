@@ -344,6 +344,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00042_Trạm_Nghỉ_Chân.md",
       "title": "Chương 42: Trạm Nghỉ Chân"
+    },
+    {
+      "filename": "Chương_00043_Gia_Nhập_Thương_Đoàn.md",
+      "title": "Chương 43: Gia Nhập Thương Đoàn"
+    },
+    {
+      "filename": "Chương_00044_Phục_Kích_Nơi_Hẻm_Núi.md",
+      "title": "Chương 44: Phục Kích Nơi Hẻm Núi"
     }
   ],
   "Góc_Nhìn_Lý_Tuyết_Ưng": [
