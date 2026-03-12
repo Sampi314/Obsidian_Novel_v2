@@ -13,3 +13,5 @@
 - [Chương 6: Phá Bỏ Cô Lập — *Nguyệt Dao*](Chương_00006_Phá_Bỏ_Cô_Lập.md)
 - [Chương 7: Cưỡng Bức Tỉnh Giấc — *Nham Thần*](Chương_00007_Cưỡng_Bức_Tỉnh_Giấc.md)
 - [Chương 8: Sứ Mệnh Rời Rừng — *Lục Tiêu*](Chương_00008_Sứ_Mệnh_Rời_Rừng.md)
+- [Chương 9: Đại Địa Và Linh Hồn — *Nham Thần*](Chương_00009_Đại_Địa_Và_Linh_Hồn.md)
+- [Chương 10: Lời Tiên Tri Từ Rừng Sâu — *Nguyệt Dao / Lục Tiêu / Nham Thần / Lục Ly*](Chương_00010_Lời_Tiên_Tri_Từ_Rừng_Sâu.md)

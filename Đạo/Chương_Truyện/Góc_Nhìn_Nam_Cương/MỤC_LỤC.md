@@ -21,3 +21,10 @@
 - [Chương 14: Hận Thù Nuôi Dưỡng — *Ngô Công Trưởng Lão*](Chương_00014_Hận_Thù_Nuôi_Dưỡng.md)
 - [Chương 15: Bách Nghệ Sinh Tồn — *Phương Vô Kỵ*](Chương_00015_Bách_Nghệ_Sinh_Tồn.md)
 - [Chương 16: Mùi Máu Vạn Dặm — *Hắc Hạt Ma Trùng*](Chương_00016_Mùi_Máu_Vạn_Dặm.md)
+
+## Arc 2: Bão Lửa Sắp Đến
+
+- [Chương 17: Liên Thủ Đối Phó — *Đan Dương Tử*](Chương_00017_Liên_Thủ_Đối_Phó.md)
+- [Chương 18: Mạng Lưới Huyết Tinh — *Hàn Thanh Nguyệt*](Chương_00018_Mạng_Lưới_Huyết_Tinh.md)
+- [Chương 19: Gián Điệp Trong Tông — *Lục Trần*](Chương_00019_Gián_Điệp_Trong_Tông.md)
+- [Chương 20: Chìa Khóa Trận Pháp — *Phương Vô Kỵ*](Chương_00020_Chìa_Khóa_Trận_Pháp.md)

@@ -20,36 +20,34 @@
 #### Tuyến Khu Vực (Đa Nhân Vật — Nhóm Theo Vùng)
 | Góc Nhìn | Số Chương | Nhân Vật | Ghi Chú |
 |-----------|-----------|----------|---------|
-| Góc Nhìn Nam Cương | 16 | Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hàn Thanh Nguyệt, Lục Trần, Ngô Công, Phương Vô Kỵ, Hắc Hạt Ma Trùng | Arc 1 — đang viết |
-| Góc Nhìn Bắc Băng | 6 | Lý Tuyết Ưng, Sở Lăng Sương, Triệu Thanh Hằng | Arc 1 — thiếu ch 5-6 |
-| Góc Nhìn Đông Hoang | 8 | Lục Ly, Nguyệt Dao, Nham Thần, Lục Tiêu | Arc 1 — đang viết |
-| Góc Nhìn Hải Vực | 4 | Lệ Nhược Thủy, Ngao Đình | Arc 1 — đang viết |
-| Góc Nhìn Tây Mạc | 4 | Hứa Nhược Thủy, Hứa Thanh Vân | Arc 1 — đang viết |
+| Góc Nhìn Nam Cương | 20 | Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hàn Thanh Nguyệt, Lục Trần, Ngô Công, Phương Vô Kỵ, Hắc Hạt Ma Trùng | Arc 1 hoàn thành, Arc 2 bắt đầu |
+| Góc Nhìn Bắc Băng | 10 | Lý Tuyết Ưng, Sở Lăng Sương, Triệu Thanh Hằng | Arc 1 hoàn thành |
+| Góc Nhìn Đông Hoang | 10 | Lục Ly, Nguyệt Dao, Nham Thần, Lục Tiêu | Arc 1 hoàn thành |
+| Góc Nhìn Hải Vực | 10 | Lệ Nhược Thủy, Ngao Đình | Arc 1+2 hoàn thành |
+| Góc Nhìn Tây Mạc | 10 | Hứa Nhược Thủy, Hứa Thanh Vân | Arc 1 hoàn thành |
 
 ### Vị Trí Trong Vòng Xoay
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
 1. **Catch-up Lâm Phong**: Tiếp tục viết Chương 27, 28... (đã hoàn thành ch 25-26).
-2. **Bắc Băng**: Viết chương 5, 6 để lấp khoảng trống (ch 4 đã hoàn thành).
-3. **Mở rộng tuyến khu vực**: Viết thêm chương cho Hải Vực, Tây Mạc, Nam Cương đến 10 chương/tuyến.
-4. **Dọn dẹp**: Xóa 19 thư mục góc nhìn cá nhân cũ — nội dung đã được chuyển sang tuyến khu vực.
+2. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1 (10 ch mỗi tuyến, Nam Cương 20 ch). Bắt đầu viết Arc 2.
+3. **Dọn dẹp**: Xóa 19 thư mục góc nhìn cá nhân cũ — nội dung đã được chuyển sang tuyến khu vực.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
 
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
-#### Task 1: Lấp khoảng trống Bắc Băng (ch 5-6)
-- Viết 2 chương mới: ch 5 (Sở Lăng Sương), ch 6 (Triệu Thanh Hằng)
-- Theo đúng storyline trong QUY_HOẠCH_GÓC_NHÌN_PHỤ.md
-- Cập nhật MỤC_LỤC.md và chapter_data.js
+#### Task 1: ~~Lấp khoảng trống Bắc Băng~~ ✅ HOÀN THÀNH
+- ~~Viết 2 chương mới: ch 5, ch 6~~ → Đã viết ch 5-10 (10 chương hoàn chỉnh)
 
-#### Task 2: Mở rộng tuyến khu vực đến 10 chương
-- **Hải Vực**: Viết ch 5-10 (xoay vòng Lệ Nhược Thủy / Ngao Đình)
-- **Tây Mạc**: Viết ch 5-10 (xoay vòng Hứa Nhược Thủy / Hứa Thanh Vân)
-- **Bắc Băng**: Viết ch 9-10 (sau khi lấp khoảng trống)
-- **Đông Hoang**: Viết ch 9-10
-- Cập nhật MỤC_LỤC.md và chapter_data.js cho mỗi tuyến
+#### Task 2: ~~Mở rộng tuyến khu vực đến 10 chương~~ ✅ HOÀN THÀNH
+- ~~**Hải Vực**: Viết ch 5-10~~ → 10/10 chương hoàn thành
+- ~~**Tây Mạc**: Viết ch 5-10~~ → 10/10 chương hoàn thành
+- ~~**Bắc Băng**: Viết ch 5-10~~ → 10/10 chương hoàn thành
+- ~~**Đông Hoang**: Viết ch 9-10~~ → 10/10 chương hoàn thành
+- ~~**Nam Cương**: Viết ch 17-20~~ → 20/20 chương hoàn thành
+- MỤC_LỤC.md và chapter_data.js đã được cập nhật cho tất cả tuyến
 
 #### Task 3: Dọn dẹp thư mục cũ
 - Xóa 19 thư mục góc nhìn cá nhân cũ trong `Đạo/Chương_Truyện/`:
@@ -66,8 +64,16 @@
 - Tiếp tục viết chương 27, 28... cho Góc Nhìn Lâm Phong
 - Diễn biến trốn thoát khỏi Mạch Ngầm và rời Rừng Huyết Độc
 
+#### Task 5: Viết Arc 2 cho tuyến khu vực
+- **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
+- **Bắc Băng**: Viết ch 11-16 (Arc 2 — Băng Giải Huyết Hàn)
+- **Đông Hoang**: Viết ch 11-16 (Arc 2 — Bước Chân Ra Ngoài)
+- **Hải Vực**: Viết ch 11-16 (Arc 2 — Đại Dương Nổi Sóng)
+- **Tây Mạc**: Viết ch 11-16 (Arc 2 — Bão Cát Trỗi Dậy)
+- Tham khảo QUY_HOẠCH_GÓC_NHÌN_PHỤ.md cho cốt truyện chi tiết
+
 ### Ghi Chú
-> Đã tạo 5 tuyến khu vực mới (Nam Cương, Bắc Băng, Đông Hoang, Hải Vực, Tây Mạc) nhóm 19 nhân vật phụ theo vùng. Đã cập nhật index.html, chapter_data.js, MỤC_LỤC.md. Storyline chi tiết trong QUY_HOẠCH_GÓC_NHÌN_PHỤ.md. Lâm Phong đã hoàn thành ch 25-26 (Mạch Ngầm, Hắc Lân Thủy Xà). Bắc Băng thiếu ch 5-6. Còn 19 thư mục góc nhìn cá nhân cũ cần dọn dẹp.
+> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực (Nam Cương 20ch, Bắc Băng 10ch, Đông Hoang 10ch, Hải Vực 10ch, Tây Mạc 10ch). Đã cập nhật index.html, chapter_data.js, MỤC_LỤC.md. Storyline chi tiết trong QUY_HOẠCH_GÓC_NHÌN_PHỤ.md. Lâm Phong đã hoàn thành ch 25-26 (Mạch Ngầm, Hắc Lân Thủy Xà). Còn 19 thư mục góc nhìn cá nhân cũ cần dọn dẹp.
 
 ---
 
