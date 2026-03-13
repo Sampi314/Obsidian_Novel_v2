@@ -370,6 +370,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00052_Nhiệm_Vụ_Đầu_Tiên.md",
       "title": "Chương 52: Nhiệm Vụ Đầu Tiên"
+    },
+    {
+      "filename": "Chương_00053_Đối_Mặt_Quản_Sự.md",
+      "title": "Chương 53: Đối Mặt Quản Sự"
+    },
+    {
+      "filename": "Chương_00054_Manh_Mối_Từ_Xác_Chết.md",
+      "title": "Chương 54: Manh Mối Từ Xác Chết"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

@@ -14,7 +14,7 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 52 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 54 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn A Ngốc | 3 | Arc 1 | Đang viết |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Tiếp tục Catch-up Lâm Phong**: Chương 53, 54... Diễn biến tiếp theo của Lâm Phong sau khi phát hiện Huyết Sát Minh thâm nhập ngoại môn.
+1. **Tiếp tục Catch-up Lâm Phong**: Chương 55, 56... Diễn biến tiếp theo của Lâm Phong điều tra về Triệu Hùng.
 2. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1 (10 ch mỗi tuyến, Nam Cương 20 ch). Bắt đầu viết Arc 2.
 3. **Mở rộng chương riêng cho 19 nhân vật phụ**: Tiếp tục Task 6, hoàn thành ch 7-10 cho các nhân vật phụ.
 
@@ -80,8 +80,8 @@
 - Đang tái tạo + viết ch 1-6 cho tất cả 19 nhân vật (xem Task 6)
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 45, 46... cho Góc Nhìn Lâm Phong
-- Diễn biến cuộc hành trình hộ tống thương đoàn và những thử thách trên đường đến Cửu Hoa Kiếm Tông.
+- Tiếp tục viết chương 55, 56... cho Góc Nhìn Lâm Phong
+- Diễn biến cuộc hành trình điều tra Huyết Sát Minh tại ngoại môn Cửu Hoa.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
@@ -134,7 +134,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Lâm Phong đã hoàn thành ch 47-48 (Tham gia Đại Điển Tuyển Đồ ngoại môn Cửu Hoa Kiếm Tông, vượt qua ải Cân Cốt Đo Thể và Ảo Trận Vấn Tâm). **MỚI:** Đang tái tạo + mở rộng 19 thư mục góc nhìn cá nhân — viết ch 1-6 cho tất cả 19 nhân vật phụ (76+ chương mới). Thêm nhân vật mới: A Ngốc.
+> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Lâm Phong đã hoàn thành ch 53-54 (Tiếp tục điều tra Huyết Sát Minh tại ngoại môn). **MỚI:** Đang tái tạo + mở rộng 19 thư mục góc nhìn cá nhân — viết ch 1-6 cho tất cả 19 nhân vật phụ (76+ chương mới). Thêm nhân vật mới: A Ngốc.
 
 ---
 

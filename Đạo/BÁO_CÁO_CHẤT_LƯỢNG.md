@@ -10,6 +10,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 53, 54 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 53 (Đối Mặt Quản Sự) và Chương 54 (Manh Mối Từ Xác Chết). Lâm Phong và Tĩnh Sương tiếp tục điều tra quản sự béo phệ, phát hiện thêm cái chết bí ẩn của một đệ tử ngoại môn và nhặt được ngọc bài của Triệu Hùng, cho thấy sự tàn ác của Huyết Thần Độc. |
 | Hôm nay | Tổng Quản | Viết Chương 51, 52 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 51 (Bóng Tối Ngoại Môn) và Chương 52 (Nhiệm Vụ Đầu Tiên). Lâm Phong theo dõi quản sự phát hiện Huyết Sát Minh đang rải "Huyết Mạch Tinh" khống chế đệ tử ngoại môn. Sáng hôm sau, nhận nhiệm vụ quét dọn để trở lại hiện trường và phát hiện "Tử Xà Đằng", xác nhận sự nhúng tay của Vạn Độc Môn. |
 | Hôm nay | Tổng Quản | Viết Chương 49, 50 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 49 (Bước Lên Thềm Đá) và Chương 50 (Đệ Tử Ngoại Môn). Lâm Phong và Diệp Tĩnh Sương vượt qua khảo nghiệm cuối cùng (Cửu Hoa Thiên Giai) bằng cách giấu thực lực, được phân vào khu nhà tranh ngoại môn. Lâm Phong phát hiện manh mối Huyết Sát Minh đã trà trộn vào nội bộ Cửu Hoa. |
 | Hôm nay | Tổng Quản | Viết Chương 47, 48 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 47 (Khảo Nghiệm Đầu Tiên) và Chương 48 (Ảo Trận Vấn Tâm). Lâm Phong và Tĩnh Sương tham gia Đại Điển Tuyển Đồ ngoại môn, vượt qua ải Cân Cốt Đo Thể và Ảo Trận Vấn Tâm trong Mê Tung Lâm bằng cách giấu giếm thân phận và thực lực thực sự. |
