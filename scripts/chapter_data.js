@@ -228,6 +228,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00038_Người_Làm_Lạnh.md",
       "title": "Chương 38: Người Làm Lạnh"
+    },
+    {
+      "filename": "Chương_00039_Bị_Bắt_Bớ.md",
+      "title": "Chương 39: Bị Bắt Bớ"
+    },
+    {
+      "filename": "Chương_00040_Người_Khổng_Lồ_Thông_Minh.md",
+      "title": "Chương 40: Người Khổng Lồ Thông Minh"
+    },
+    {
+      "filename": "Chương_00041_Bài_Học_Chạy_Trốn.md",
+      "title": "Chương 41: Bài Học Chạy Trốn"
+    },
+    {
+      "filename": "Chương_00042_Nước_Mắt_Trúc_Cơ.md",
+      "title": "Chương 42: Nước Mắt Đột Phá"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

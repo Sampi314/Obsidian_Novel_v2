@@ -13,7 +13,7 @@
     - Cô nhi được lão ẩn sĩ vô danh (Ông Già) nuôi dưỡng.
     - Tán tu lang bạt — nhưng bản thân không biết mình là tu sĩ.
 - **Linh Căn:** Hỗn Độn Linh Căn (混沌灵根) — Căn cốt Ngũ Hành Hỗn Độn.
-    - *Ghi chú:* Ngũ hành lẫn lộn thành một khối nguyên thủy. Hầu hết tông phái coi đây là "phế linh căn". Nhưng thực chất, Hỗn Độn Linh Căn gần nhất với trạng thái hồng hoang nguyên thủy của vũ trụ. Tâm trí trống rỗng như tờ giấy trắng của A Ngốc là vật chủ hoàn hảo nhất. Năng lực Hỗn Độn này mang lại cho nàng khả năng miễn nhiễm tuyệt đối với mọi loại độc dược, bao gồm cả Huyết Thần Độc.
+    - *Ghi chú:* Ngũ hành lẫn lộn thành một khối nguyên thủy. Hầu hết tông phái coi đây là "phế linh căn". Nhưng thực chất, Hỗn Độn Linh Căn gần nhất với trạng thái hồng hoang nguyên thủy của vũ trụ. Tâm trí trống rỗng như tờ giấy trắng của A Ngốc là vật chủ hoàn hảo nhất. Năng lực Hỗn Độn này mang lại cho nàng khả năng miễn nhiễm tuyệt đối với mọi loại độc dược, bao gồm cả Huyết Thần Độc. Khả năng thanh tẩy của Hỗn Độn Linh Căn đã giúp hắn hóa giải Huyết Sát Băng Độc tại bãi tha ma Đông Hoang (Arc 5).
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
 - **Ngoại Hình:**
@@ -80,8 +80,9 @@
     - Được một lão ẩn sĩ (Ông Già) tìm thấy lúc sắp chết đói. Ông Già nhận ra Hỗn Độn Linh Căn nhưng quyết định giấu đi, chỉ dạy nàng "bài múa buổi sáng" (Hỗn Nguyên Quy Nhất Quyết) như một trò chơi.
     - Vài thập kỷ sau, Ông Già cạn thọ nguyên qua đời. A Ngốc bắt đầu hành trình lang bạt.
 - **Hành Trình Gương Soi (Arc 3-8):**
-    - A Ngốc vô tình đi theo những dấu vết tàn phá mà **Lệ Vô Tâm** để lại trên khắp Cố Nguyên Giới (Gương Soi). Người đọc thấy Lệ Vô Tâm hủy diệt, rồi thấy A Ngốc đi ngang qua những đống đổ nát đó với ánh mắt ngây thơ, không hiểu chuyện gì. (Đang diễn ra ở Arc 3)
-    - Băng qua Rừng Huyết Độc, sống sót qua dịch bệnh, lang thang đến Đông Hoang, Vạn Yêu Thành, rồi tiến lên Bắc Băng.
+    - A Ngốc vô tình đi theo những dấu vết tàn phá mà **Lệ Vô Tâm** để lại trên khắp Cố Nguyên Giới (Gương Soi). Người đọc thấy Lệ Vô Tâm hủy diệt, rồi thấy A Ngốc đi ngang qua những đống đổ nát đó với ánh mắt ngây thơ, không hiểu chuyện gì.
+    - **Arc 5 (Kẻ Săn Và Con Mồi):** Bị truy bắt bởi các thế lực tà đạo muốn lợi dụng khả năng miễn độc, được Phương Vô Kỵ cứu và dạy bài học sinh tồn "gặp người lạ thì chạy". Lang thang đến một khu mỏ ngọc bị Lệ Vô Tâm tàn phá ở biên giới Đông Hoang. Nỗi buồn tột độ khi chứng kiến hàng trăm người "ngủ lạnh" đã kích hoạt sự bùng nổ của Hỗn Độn Linh Căn, đẩy A Ngốc đột phá lên **Trúc Cơ Sơ Kỳ** và thanh tẩy toàn bộ khu vực.
+    - Hiện đang tiếp tục hành trình đi sâu vào Đông Hoang (Arc 6).
 - **Kim Đan & Đồng Hành (Arc 9-14):**
     - Tại tàn tích Vạn Độc Môn (sau khi Lệ Vô Tâm bị Chính Đạo và Huyết Sát Minh đánh sập), A Ngốc tìm thấy Lệ Vô Tâm đang hấp hối với Kim Đan rạn nứt.
     - A Ngốc ở lại chăm sóc Lệ Vô Tâm. Chính tại thời khắc này, A Ngốc ngưng tụ Kim Đan từ chín kiếp nỗi buồn của bản thân.

@@ -52,7 +52,10 @@
 - [Chương 36: Bóng Đen Trong Sương](Chương_00036_Bóng_Đen_Trong_Sương.md)
 - [Chương 37: Lối Thoát Tử Thần](Chương_00037_Lối_Thoát_Tử_Thần.md)
 - [Chương 38: Người Làm Lạnh](Chương_00038_Người_Làm_Lạnh.md)
-*(Đang cập nhật)*
+- [Chương 39: Bị Bắt Bớ](Chương_00039_Bị_Bắt_Bớ.md)
+- [Chương 40: Người Khổng Lồ Thông Minh](Chương_00040_Người_Khổng_Lồ_Thông_Minh.md)
+- [Chương 41: Bài Học Chạy Trốn](Chương_00041_Bài_Học_Chạy_Trốn.md)
+- [Chương 42: Nước Mắt Đột Phá](Chương_00042_Nước_Mắt_Trúc_Cơ.md)
 
 ## Arc 6: Bóng Ma Phía Trước (Chương 43-54)
 *Giai đoạn Trúc Cơ Sơ-Trung Kỳ — Đông Hoang*
