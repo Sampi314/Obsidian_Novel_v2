@@ -3,7 +3,7 @@
 - [Hôm nay]: Băng Ngục Thành (Chương 130 Chính, 124 Lệ Vô Tâm).
 
 ## PHIÊN GẦN NHẤT
-- Đã viết Chương 63 "Tiến Vào Đông Hoang" và 64 "Làng Hoang Giữa Rừng" cho Góc Nhìn Lâm Phong.
-- Bắt đầu Arc mới tại Đông Hoang: Lâm Phong và Diệp Tĩnh Sương gặp sự kiện Băng Lang tấn công làng, giải cứu một đứa trẻ mồ côi.
-- Cập nhật INSTRUCTIONS, HỒ SƠ THẾ GIỚI, BÁO CÁO CHẤT LƯỢNG, và chapter_data.js.
-- TODO: Tiếp tục viết Chương 65, 66 cho Lâm Phong, khám phá bí ẩn Băng Lang ở Đông Hoang.
+- Đã viết Chương 23-26 cho Góc Nhìn A Ngốc (Arc 4 - Rừng Huyết Độc).
+- Hoàn thành thiết lập quan trọng: A Ngốc miễn nhiễm Huyết Thần Độc, đột phá Luyện Khí Hậu Kỳ nhờ đau buồn sau cái chết của người dân làng. Lần đầu chạm mặt Lâm Phong và nhóm Cửu Hoa.
+- Cập nhật INSTRUCTIONS, BÁO CÁO CHẤT LƯỢNG, và MỤC LỤC.
+- TODO: Viết Arc 5-8 (Ch.33-78) cho A Ngốc, bắt đầu Gương Soi.

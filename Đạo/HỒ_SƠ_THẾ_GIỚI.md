@@ -67,7 +67,7 @@
 - **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chủng_Tộc_Chính.md`.
 
 ## V. Nhân Vật Tiêu Biểu
-- **A Ngốc (Hồn Nhiên Tử):** Tán tu Nhân tộc, Luyện Khí Trung Kỳ. Là người mang Hỗn Độn Linh Căn nhưng tâm trí chỉ như một đứa trẻ (khoảng 5-7 tuổi). Năng lực Hỗn Độn tự động phản ứng bảo vệ và có khả năng miễn nhiễm mọi loại độc, bao gồm cả Huyết Thần Độc. Hành trình của hắn đang ở giai đoạn đầu (Arc 4) tại Rìa Rừng Huyết Độc. Hắn vô tình tạo ra danh xưng "Hồn Nhiên Tử" sau khi đi xuyên qua một trận chiến Kim Đan mà không hề hấn gì.
+- **A Ngốc (Hồn Nhiên Tử):** Tán tu Nhân tộc, Luyện Khí Hậu Kỳ. Là người mang Hỗn Độn Linh Căn nhưng tâm trí chỉ như một đứa trẻ (khoảng 5-7 tuổi). Năng lực Hỗn Độn tự động phản ứng bảo vệ và có khả năng miễn nhiễm mọi loại độc, bao gồm cả Huyết Thần Độc. Hành trình của hắn đang bước sang Arc 5. Vừa đột phá Luyện Khí Hậu Kỳ nhờ nỗi đau sau khi chứng kiến toàn bộ Làng Chặt Củi (Rìa Rừng Huyết Độc) bị Huyết Thần Độc tiêu diệt. Hắn vô tình tạo ra danh xưng "Hồn Nhiên Tử" sau khi đi xuyên qua một trận chiến Kim Đan mà không hề hấn gì. Đã có lần chạm mặt đầu tiên với Lâm Phong và nhóm đệ tử Cửu Hoa Kiếm Tông.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/A_Ngốc.md`.
 - **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*. Đã rời khỏi Cửu Hoa Kiếm Tông và đang hướng về Đông Hoang cùng Lâm Phong.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md`.

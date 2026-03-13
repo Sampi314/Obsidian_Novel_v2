@@ -30,12 +30,15 @@
 - [Chương 20: Người Khổng Lồ Đánh Nhau](Chương_00020_Người_Khổng_Lồ_Đánh_Nhau.md)
 - [Chương 21: Chỉ Còn Một Mình](Chương_00021_Chỉ_Còn_Một_Mình.md)
 
-## Arc 4: Rừng Huyết Độc (Chương 22-32)
+## Arc 4: Rừng Huyết Độc (Chương 22-26)
 *Giai đoạn Luyện Khí Trung-Hậu Kỳ — Rìa Rừng Huyết Độc*
 - [Chương 22: Làng Chặt Củi](Chương_00022_Làng_Chặt_Củi.md)
-*(Đang cập nhật)*
+- [Chương 23: Yên Bình Mong Manh](Chương_00023_Yên_Bình_Mong_Manh.md)
+- [Chương 24: Sương Đỏ Tràn Về](Chương_00024_Sương_Đỏ_Tràn_Về.md)
+- [Chương 25: Hoa Cho Người Ngủ](Chương_00025_Hoa_Cho_Người_Ngủ.md)
+- [Chương 26: Chạy Trốn Vào Đêm](Chương_00026_Chạy_Trốn_Vào_Đêm.md)
 
-## Arc 5: Kẻ Săn Và Con Mồi (Chương 33-42)
+## Arc 5: Kẻ Săn Và Con Mồi (Chương 27-36)
 *Giai đoạn Luyện Khí Hậu Kỳ đến Trúc Cơ Sơ Kỳ — Nam Cương đến Đông Hoang*
 *(Đang cập nhật)*
 
