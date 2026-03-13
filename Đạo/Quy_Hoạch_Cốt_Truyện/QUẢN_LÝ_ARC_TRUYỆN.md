@@ -198,7 +198,18 @@
     - **Sự Kiện Mới:** Nhóm Tĩnh Sương trở về Cửu Hoa Kiếm Tông, báo cáo với Thanh Hư lão tổ. Chính Đạo gửi Phi Kiếm Truyền Thư triệu tập Hội Nghị Khẩn Cấp đối phó với Huyết Sát Minh (Hoàn thành - Chương 134 Góc Nhìn Chính).
     - **Sự Kiện Mới:** Lệ Vô Tâm diện kiến Huyết Thần Tử tại đại điện Huyết Sát Minh, bộc lộ uy áp Kim Đan song sắc. Một hiệp định tạm thời được thiết lập, xác nhận vị thế quyền lực mới của Lệ Vô Tâm (Hoàn thành - Chương 128 Góc Nhìn Lệ Vô Tâm).
 
-### 3. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
+### 3. Góc Nhìn A Ngốc (Hồn Nhiên Tử)
+*   **Trạng Thái:** Đang diễn ra (Redesign mới, 14 Arc).
+*   **Tên Arc:** Đứa Trẻ Không Ai Muốn -> Ông Già Và Bài Múa Buổi Sáng.
+*   **Nhân Vật Chính:** A Ngốc (Mộc Nhi).
+*   **Nhân Vật Phụ:** Ông Già, Lệ Vô Tâm (sau Arc 9).
+*   **Mục Tiêu:**
+    - Giai đoạn phàm nhân, sống ở thôn làng Nam Cương và bị đuổi đi (Hoàn thành Arc 1).
+    - Được Ông Già cứu, dạy "Bài múa buổi sáng" để giấu Hỗn Độn Linh Căn (Hoàn thành Arc 2).
+    - **Sự Kiện Mới:** Ông Già qua đời. A Ngốc phải rời khỏi khu rừng để sống sót khi trận pháp hết hiệu lực.
+    - **Nhiệm Vụ Hiện Tại:** Lang bạt và sống sót ở Nam Cương. Tiến vào Arc 3: Bước Chân Vào Thế Giới (Bắt đầu từ chương 15).
+
+### 4. Góc Nhìn Diệp Tĩnh Sương (Ngoại Truyện / Song Song)
 *   **Trạng Thái:** Đang diễn ra.
 *   **Tên Arc:** Kiếm Tâm Cô Độc.
 *   **Nhân Vật Chính:** Diệp Tĩnh Sương.
@@ -233,6 +244,7 @@
 | :--- | :--- | :--- | :--- |
 | **Lâm Phong** | Chính | Hoạt động | Đã viết đến chương 17 (POV). |
 | **Diệp Tĩnh Sương** | Chính / Riêng | Hoạt động | Đã hoàn thành 5 chương (POV). Đang dẫn đầu nhóm tiến vào Vùng Đất Chết. Xem chi tiết: Diệp Tĩnh Sương |
+| **A Ngốc** | Riêng | Hoạt động | Đang viết bản redesign 152 chương. Đã hoàn thành 14 chương (Arc 1-2). |
 | **Lệ Vô Tâm** | Riêng (Phản Diện) | Hoạt động | Đã hoàn thành 9 chương. Rút về Nam Cương chuẩn bị trận địa. |
 | **Hứa Nhược Thủy** | Phụ (NPC) | Ổn định (Tạm thời) | Đã được chữa trị, nhưng Long Cốt phong ấn đã vỡ. |
 | **Hứa Thanh Vân** | Phụ (NPC) | Hoạt động | Đã thoát khỏi Địa Cung. |

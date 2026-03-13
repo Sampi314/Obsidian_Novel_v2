@@ -72,16 +72,60 @@ Object.assign(chapterData, {
   ],
   "Góc_Nhìn_A_Ngốc": [
     {
-      "filename": "Chương_00001_Bạn_Bướm.md",
-      "title": "Chương 1: Bạn Bướm"
+      "filename": "Chương_00001_Gầm_Cầu.md",
+      "title": "Chương 1: Gầm Cầu"
     },
     {
-      "filename": "Chương_00002_Ông_Già_Ngủ.md",
-      "title": "Chương 2: Ông Già Ngủ"
+      "filename": "Chương_00002_Hơi_Ấm_Tình_Thương.md",
+      "title": "Chương 2: Hơi Ấm Tình Thương"
     },
     {
-      "filename": "Chương_00003_Cái_Bụng_Đói.md",
-      "title": "Chương 3: Cái Bụng Đói"
+      "filename": "Chương_00003_Cơm_Nguội.md",
+      "title": "Chương 3: Cơm Nguội"
+    },
+    {
+      "filename": "Chương_00004_Đuổi_Đi.md",
+      "title": "Chương 4: Đuổi Đi"
+    },
+    {
+      "filename": "Chương_00005_Giữa_Rừng_Sâu.md",
+      "title": "Chương 5: Giữa Rừng Sâu"
+    },
+    {
+      "filename": "Chương_00006_Ông_Già.md",
+      "title": "Chương 6: Ông Già"
+    },
+    {
+      "filename": "Chương_00007_Bữa_Ăn_Đầu_Tiên.md",
+      "title": "Chương 7: Bữa Ăn Đầu Tiên"
+    },
+    {
+      "filename": "Chương_00008_Bóng_Mát_Đời_Người.md",
+      "title": "Chương 8: Bóng Mát Đời Người"
+    },
+    {
+      "filename": "Chương_00009_Bí_Mật_Linh_Căn.md",
+      "title": "Chương 9: Bí Mật Linh Căn"
+    },
+    {
+      "filename": "Chương_00010_Bài_Múa_Buổi_Sáng.md",
+      "title": "Chương 10: Bài Múa Buổi Sáng"
+    },
+    {
+      "filename": "Chương_00011_Tháng_Năm_Êm_Đềm.md",
+      "title": "Chương 11: Tháng Năm Êm Đềm"
+    },
+    {
+      "filename": "Chương_00012_Chuẩn_Bị.md",
+      "title": "Chương 12: Chuẩn Bị"
+    },
+    {
+      "filename": "Chương_00013_Ông_Ngủ_Rồi.md",
+      "title": "Chương 13: Ông Ngủ Rồi"
+    },
+    {
+      "filename": "Chương_00014_Mồ_Côi.md",
+      "title": "Chương 14: Mồ Côi"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
