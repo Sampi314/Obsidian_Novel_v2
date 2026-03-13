@@ -71,7 +71,7 @@ Tối hôm đó, ta nằm trên một đống rơm khô trong góc lều, nghe t
 
 Ta nhắm mắt lại. "Ông già ơi," ta thì thầm trong đầu. "Mộc Nhi tìm thấy chỗ có người tốt rồi."
 
-*A Ngốc đã tìm thấy một chút ấm áp nho nhỏ ở ngôi làng chặt củi ven Rừng Huyết Độc. Hắn không hề biết rằng, cái tên "Huyết Độc" của khu rừng này sắp sửa hiện nguyên hình, và sự ấm áp hắn vừa chạm vào, cũng mong manh như ngọn nến trước bão. Cơn lốc Huyết Thần Độc từ sâu trong trung tâm rừng đang lặng lẽ lan rộng, chuẩn bị nuốt chửng mọi thứ trên đường đi của nó.*
+*A Ngốc đã tìm thấy một chút ấm áp nho nhỏ ở ngôi làng chặt củi ven Rừng Huyết Độc. Nó không hề biết rằng, cái tên "Huyết Độc" của khu rừng này sắp sửa hiện nguyên hình, và sự ấm áp nó vừa chạm vào, cũng mong manh như ngọn nến trước bão. Cơn lốc Huyết Thần Độc từ sâu trong trung tâm rừng đang lặng lẽ lan rộng, chuẩn bị nuốt chửng mọi thứ trên đường đi của nó.*
 
 Nhưng đêm nay, ta chỉ là Mộc Nhi no bụng, đang chìm vào một giấc ngủ say không mộng mị.
 

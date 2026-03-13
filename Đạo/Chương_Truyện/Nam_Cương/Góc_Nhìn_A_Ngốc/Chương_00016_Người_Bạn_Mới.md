@@ -67,7 +67,7 @@ Ta choàng tỉnh dậy. Chuyện gì vậy? Ta ôm Bạn Nhỏ chạy ra ngoài
 
 Làng quê vốn yên bình bỗng chốc biến thành mớ hỗn độn. Tiếng khóc than, tiếng cầu xin vang lên khắp nơi. Ta sợ hãi đứng nép vào góc tường, tay ôm chặt Bạn Nhỏ đang run rẩy. Ta muốn giúp trưởng làng, nhưng ta không biết đánh nhau, và những thanh đao kia trông rất đáng sợ. Mùi máu tươi bắt đầu xộc lên mũi ta.
 
-Bỗng nhiên, một tên sơn tặc phát hiện ra ta. Hắn tiến lại gần, nụ cười nham hiểm hiện rõ dưới ánh đuốc. "Ồ, một thằng ăn mày. Chắc là giấu đồ gì ngon đây."
+Bỗng nhiên, một tên sơn tặc phát hiện ra ta. Hắn tiến lại gần, nụ cười nham hiểm hiện rõ dưới ánh đuốc. "Ồ, một con ăn mày. Chắc là giấu đồ gì ngon đây."
 
 Hắn giơ chân định đá ta.
 
@@ -89,7 +89,7 @@ Ta quỳ sụp xuống, đôi tay run rẩy chạm vào bộ lông nhuốm máu 
 
 Một nỗi đau xé rách lồng ngực ta. Đau hơn cơn đói rất nhiều lần. Nước mắt trào ra không kiềm lại được. Ta ngước nhìn tên sơn tặc, đôi mắt nhòe đi vì nước. Ta không hiểu. Ta không hiểu thế giới này.
 
-*Lại một lần nữa, sự tàn nhẫn của thế giới cướp đi sinh mệnh nhỏ bé gắn bó với A Ngốc. Quá trình "Cultivation = Loss" lại bắt đầu chu kỳ nghiệt ngã của nó. Bất kỳ ai yêu thương hắn, bất kỳ sinh linh nào hắn yêu thương, dường như đều mang một số mệnh bi thảm. Một dòng chảy hỗn loạn bắt đầu cuộn trào sâu bên trong cơ thể hắn, phản ứng lại nỗi đau đớn tột cùng đang xé nát tâm can. Nhưng A Ngốc không biết điều đó, hắn chỉ biết khóc, khóc cho một người bạn vừa mới tìm thấy đã vội vã rời xa.*
+*Lại một lần nữa, sự tàn nhẫn của thế giới cướp đi sinh mệnh nhỏ bé gắn bó với A Ngốc. Quá trình "Cultivation = Loss" lại bắt đầu chu kỳ nghiệt ngã của nó. Bất kỳ ai yêu thương nó, bất kỳ sinh linh nào nó yêu thương, dường như đều mang một số mệnh bi thảm. Một dòng chảy hỗn loạn bắt đầu cuộn trào sâu bên trong cơ thể nó, phản ứng lại nỗi đau đớn tột cùng đang xé nát tâm can. Nhưng A Ngốc không biết điều đó, nó chỉ biết khóc, khóc cho một người bạn vừa mới tìm thấy đã vội vã rời xa.*
 
 ---
 *Hết chương 16.*

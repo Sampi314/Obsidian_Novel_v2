@@ -9,11 +9,11 @@
 
 Mùi ngải cứu thoang thoảng.
 
-A Ngốc từ từ mở mắt. Trước mặt hắn không phải là vách đất bùn lầy dưới hố bẫy, mà là trần gỗ của một căn chòi nhỏ, lợp lá cọ. Xung quanh treo đủ loại rễ cây khô và thảo dược bốc mùi nồng nặc. Hắn đang nằm trên một chiếc giường tre lót rơm khô, sạch sẽ và ấm áp.
+A Ngốc từ từ mở mắt. Trước mặt nó không phải là vách đất bùn lầy dưới hố bẫy, mà là trần gỗ của một căn chòi nhỏ, lợp lá cọ. Xung quanh treo đủ loại rễ cây khô và thảo dược bốc mùi nồng nặc. Nó đang nằm trên một chiếc giường tre lót rơm khô, sạch sẽ và ấm áp.
 
-Chân trái của hắn đã được đắp một lớp thuốc mỡ xanh rờn, băng bó cẩn thận bằng những dải vải lanh. Cảm giác đau rát đã dịu đi rất nhiều, thay vào đó là sự mát mẻ dễ chịu.
+Chân trái của nó đã được đắp một lớp thuốc mỡ xanh rờn, băng bó cẩn thận bằng những dải vải lanh. Cảm giác đau rát đã dịu đi rất nhiều, thay vào đó là sự mát mẻ dễ chịu.
 
-Hắn chống tay định ngồi dậy, bụng lại réo lên ùng ục.
+Nó chống tay định ngồi dậy, bụng lại réo lên ùng ục.
 
 "Dậy rồi à?"
 
@@ -23,9 +23,9 @@ A Ngốc ngơ ngác nhìn ông lão. Khuôn mặt nhăn nheo, ánh mắt sâu th
 
 "Ăn đi." Ông lão múc một bát cháo thịt, đặt lên chiếc chõng tre nhỏ cạnh giường.
 
-A Ngốc ngửi thấy mùi thịt, đôi mắt sáng rực lên. Hắn không nói lời nào, vồ lấy chiếc bát, dùng tay bốc cháo nhét vào miệng nhai ngấu nghiến, mặc kệ sức nóng làm bỏng cả đầu lưỡi. Hắn húp sùm sụp, chẳng mấy chốc bát cháo đã cạn sạch, liếm láp cả những hạt gạo dính trên thành bát.
+A Ngốc ngửi thấy mùi thịt, đôi mắt sáng rực lên. Nó không nói lời nào, vồ lấy chiếc bát, dùng tay bốc cháo nhét vào miệng nhai ngấu nghiến, mặc kệ sức nóng làm bỏng cả đầu lưỡi. Nó húp sùm sụp, chẳng mấy chốc bát cháo đã cạn sạch, liếm láp cả những hạt gạo dính trên thành bát.
 
-Ông lão ngồi lặng yên quan sát hắn, ánh mắt đăm chiêu.
+Ông lão ngồi lặng yên quan sát nó, ánh mắt đăm chiêu.
 
 "Chậm thôi, chết nghẹn bây giờ," lão thở dài, múc thêm nửa bát nữa.
 
@@ -43,9 +43,9 @@ Nhưng khi kiểm tra kỹ hơn, vị cường giả già nua lại bàng hoàng
 
 Lão bật cười thành tiếng. Một nụ cười chua chát. "Thiên Đạo, ngài quả biết trêu ngươi. Cho nó chiếc chìa khóa mở ra cánh cửa trường sinh, nhưng lại tước đi ý thức để nó vặn chìa khóa."
 
-A Ngốc ăn xong bát cháo thứ hai, xoa xoa cái bụng căng tròn, ngửa cổ ợ một tiếng thỏa mãn. Hắn ngước nhìn ông lão, nhoẻn nụ cười ngờ nghệch quen thuộc.
+A Ngốc ăn xong bát cháo thứ hai, xoa xoa cái bụng căng tròn, ngửa cổ ợ một tiếng thỏa mãn. Nó ngước nhìn ông lão, nhoẻn nụ cười ngờ nghệch quen thuộc.
 
-"Ngon quá. Ông nấu ngon quá." Hắn giơ ngón tay cái nứt nẻ lên, bắt chước hành động của những đứa trẻ khác hắn từng thấy.
+"Ngon quá. Ông nấu ngon quá." Nó giơ ngón tay cái nứt nẻ lên, bắt chước hành động của những đứa trẻ khác nó từng thấy.
 
 Ông lão nhìn nụ cười vô lo vô nghĩ đó, đột nhiên cảm thấy một sự bình yên kỳ lạ. Suốt ngàn năm tu luyện, lão đã thấy vô số khuôn mặt tham lam, tính toán, đầy dục vọng. Nhưng chưa từng thấy ai cười thuần khiết như vậy. Không toan tính, không phòng bị, trong veo như mặt hồ mùa thu.
 
@@ -59,19 +59,19 @@ Lão cau mày. "Ngốc không phải là tên." Lão chỉ tay ra ngoài cửa c
 
 "Mộc Nhi?" A Ngốc lẩm bẩm, rồi reo lên thích thú. "Ta là Mộc Nhi! Tên đẹp! Ông Già đặt tên đẹp!"
 
-"Ông Già..." Lão lẩm bẩm lặp lại danh xưng mà thằng nhóc vừa gán cho mình. Khóe môi lão giật giật, định mắng nó vì sự xấc xược với một cường giả Hóa Thần, nhưng rồi lão buông thõng vai, khẽ cười. "Ừ, thì Ông Già."
+"Ông Già..." Lão lẩm bẩm lặp lại danh xưng mà con nhóc vừa gán cho mình. Khóe môi lão giật giật, định mắng nó vì sự xấc xược với một cường giả Hóa Thần, nhưng rồi lão buông thõng vai, khẽ cười. "Ừ, thì Ông Già."
 
-"Mộc Nhi thích Ông Già! Ông Già cho Mộc Nhi ăn cháo thịt!" A Ngốc vui vẻ vỗ tay. Hắn không phân biệt được thân phận, không hiểu khái niệm sức mạnh. Trong mắt hắn, người cho hắn ăn lúc đói, chữa vết thương cho hắn lúc đau, chính là người tốt.
+"Mộc Nhi thích Ông Già! Ông Già cho Mộc Nhi ăn cháo thịt!" A Ngốc vui vẻ vỗ tay. Nó không phân biệt được thân phận, không hiểu khái niệm sức mạnh. Trong mắt nó, người cho nó ăn lúc đói, chữa vết thương cho nó lúc đau, chính là người tốt.
 
 "Thằng nhãi ngốc nghếch," Ông Già lắc đầu. "Ngươi có biết mình đang mang một kho báu vĩ đại mà vô số kẻ sẵn sàng mổ bụng ngươi ra để đoạt lấy không?"
 
 A Ngốc chớp mắt, đưa tay sờ sờ bụng mình. "Kho báu? Trong bụng có kho báu? Chắc là cháo thịt."
 
-Ông Già thở dài ngao ngán. Lão quyết định. Một Hỗn Độn Linh Căn mang theo tâm trí thiểu năng, nếu bị cuốn vào vòng xoáy tu chân giới, chắc chắn sẽ trở thành món đồ chơi bi thảm của những kẻ quyền lực. Lão sẽ không dạy con bé tu hành. Lão sẽ giấu kín linh căn của nó. Lão sẽ cho nó một cuộc sống bình yên, lay lắt như một phàm nhân bình thường trong khu rừng già này, đến khi lão nhắm mắt xuôi tay.
+Ông Già thở dài ngao ngán. Lão quyết định. Một Hỗn Độn Linh Căn mang theo tâm trí thiểu năng, nếu bị cuốn vào vòng xoáy tu chân giới, chắc cnó sẽ trở thành món đồ chơi bi thảm của những kẻ quyền lực. Lão sẽ không dạy con bé tu hành. Lão sẽ giấu kín linh căn của nó. Lão sẽ cho nó một cuộc sống bình yên, lay lắt như một phàm nhân bình thường trong khu rừng già này, đến khi lão nhắm mắt xuôi tay.
 
 "Nghỉ ngơi đi. Ngày mai, Ông Già sẽ dạy ngươi cách nhận biết rễ cây nào ăn được, rễ cây nào có độc." Ông Già quay lưng, nhóm lại bếp lửa.
 
-A Ngốc ngoan ngoãn nằm xuống ổ rơm. Hắn nhìn bóng lưng còng của Ông Già hắt lên vách chòi. Trong trái tim đơn giản của hắn, sự trống trải khi mất đi bà Trần đã dần được lấp đầy. Hắn không còn phải ngủ dưới gầm cầu lạnh lẽo nữa.
+A Ngốc ngoan ngoãn nằm xuống ổ rơm. Nó nhìn bóng lưng còng của Ông Già hắt lên vách chòi. Trong trái tim đơn giản của nó, sự trống trải khi mất đi bà Trần đã dần được lấp đầy. Nó không còn phải ngủ dưới gầm cầu lạnh lẽo nữa.
 
 "Ông Già ơi," A Ngốc thều thào trước khi chìm vào giấc ngủ. "Ông Già đừng ngủ lâu như bà nhé. A Ngốc không biết nấu cháo thịt."
 

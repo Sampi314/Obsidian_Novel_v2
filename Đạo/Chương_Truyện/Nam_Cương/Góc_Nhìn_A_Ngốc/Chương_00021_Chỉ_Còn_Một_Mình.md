@@ -21,9 +21,9 @@ Mọi thứ yên ắng quá. Yên ắng đến mức ta nghe được cả tiế
 
 Ta ngồi nhìn ba vòng tròn trên cát, đưa tay vuốt ve chúng. Rồi một cơn gió mạnh thổi qua, tung bụi mù mịt. Vòng tròn biến mất, chỉ còn lại mặt cát phẳng lỳ. Ta thẫn thờ nhìn. Giống hệt như cách họ biến mất khỏi đời ta. Gió thổi đi hết rồi.
 
-*Trong thế giới tu chân tàn khốc, sự tồn tại của một kẻ như A Ngốc là một sự chắp vá kỳ lạ. Hắn sở hữu linh căn Hỗn Độn — thể chất nguyên thủy nhất, tinh khiết nhất, có khả năng dung hòa vạn vật và miễn nhiễm với hầu hết tà khí, độc thuật. Tuy nhiên, tâm trí hắn lại bị khóa chặt ở độ tuổi của một đứa trẻ. Hắn mang tu vi Luyện Khí Trung Kỳ không qua quá trình tu luyện chủ đích nào, mà qua việc lặp đi lặp lại một động tác bản năng và sự dồn nén của nỗi đau mất mát.*
+*Trong thế giới tu chân tàn khốc, sự tồn tại của một kẻ như A Ngốc là một sự chắp vá kỳ lạ. Nó sở hữu linh căn Hỗn Độn — thể chất nguyên thủy nhất, tinh khiết nhất, có khả năng dung hòa vạn vật và miễn nhiễm với hầu hết tà khí, độc thuật. Tuy nhiên, tâm trí nó lại bị khóa chặt ở độ tuổi của một đứa trẻ. Nó mang tu vi Luyện Khí Trung Kỳ không qua quá trình tu luyện chủ đích nào, mà qua việc lặp đi lặp lại một động tác bản năng và sự dồn nén của nỗi đau mất mát.*
 
-*Đoạn đường vắng vẻ này, với những tu sĩ cấp thấp, là nơi tuyệt vọng vì cạn kiệt linh khí và đầy rẫy thú dữ. Nhưng với A Ngốc, lớp màng Hỗn Độn tự nhiên sinh ra từ nỗi cô đơn đã che giấu sự tồn tại của hắn. Thú dữ không đánh hơi thấy sát khí, cũng không thấy sự đe dọa từ hắn, nên chúng bỏ qua. Hắn giống như một tảng đá hay một cành cây khô — hoàn toàn vô hại, hoàn toàn hòa tan vào môi trường xung quanh.*
+*Đoạn đường vắng vẻ này, với những tu sĩ cấp thấp, là nơi tuyệt vọng vì cạn kiệt linh khí và đầy rẫy thú dữ. Nhưng với A Ngốc, lớp màng Hỗn Độn tự nhiên sinh ra từ nỗi cô đơn đã che giấu sự tồn tại của nó. Thú dữ không đánh hơi thấy sát khí, cũng không thấy sự đe dọa từ nó, nên chúng bỏ qua. Nó giống như một tảng đá hay một cành cây khô — hoàn toàn vô hại, hoàn toàn hòa tan vào môi trường xung quanh.*
 
 Sáng nay, khi mặt trời vừa nhú lên đằng xa, nhọn hoắt như cái kim châm vào bầu trời xám xịt, ta lại thức dậy dưới một gốc cây gãy. Cơn bứt rứt dưới da lại kéo đến. Lần này, ta không cố nhịn nữa. Ta biết nó là gì rồi. Nó là cơn đói của cơ thể. Nếu bụng đói thì phải ăn cơm, còn cơ thể đói thì phải múa.
 
@@ -35,7 +35,7 @@ Ta mỉm cười một mình. Gió thổi qua kẽ tay ta, mát lạnh. Ta bắt
 
 Mọi người đang múa cùng ta.
 
-*Sự dung hợp vô thức của Hỗn Nguyên Quy Nhất Quyết đạt đến một tầng thứ mới. Thay vì tiếp nhận linh khí từ bên ngoài một cách thụ động, linh khí Hỗn Độn trong cơ thể A Ngốc bắt đầu xoay vòng tự cung tự cấp. Nỗi nhớ thương khắc khoải của hắn đã biến thành chất xúc tác, kết tinh lại thành những hạt năng lượng nhỏ li ti rải rác quanh Đan Điền. Hắn đang tự tạo ra một thế giới thu nhỏ bên trong tâm trí mình, nơi những người hắn yêu thương vẫn sống và tồn tại dưới dạng những dao động tinh thần thuần khiết nhất.*
+*Sự dung hợp vô thức của Hỗn Nguyên Quy Nhất Quyết đạt đến một tầng thứ mới. Thay vì tiếp nhận linh khí từ bên ngoài một cách thụ động, linh khí Hỗn Độn trong cơ thể A Ngốc bắt đầu xoay vòng tự cung tự cấp. Nỗi nhớ thương khắc khoải của nó đã biến thành chất xúc tác, kết tinh lại thành những hạt năng lượng nhỏ li ti rải rác quanh Đan Điền. Nó đang tự tạo ra một thế giới thu nhỏ bên trong tâm trí mình, nơi những người nó yêu thương vẫn sống và tồn tại dưới dạng những dao động tinh thần thuần khiết nhất.*
 
 Ta múa xong, mở mắt ra. Cây gãy vẫn là cây gãy. Sỏi đá vẫn là sỏi đá. Không có ông già, không có Bạn Nhỏ.
 

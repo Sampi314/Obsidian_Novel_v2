@@ -25,7 +25,7 @@ Ta đứng nép ở một góc đường, nhìn họ đi qua. Thỉnh thoảng, 
 
 "Ngươi nhìn kỹ xem," người áo xanh nói, đưa tay chạm vào trán mình, mắt bỗng nhiên sáng rực lên như đèn lồng. Ta giật mình lùi lại một bước. "Xung quanh hắn có một lớp sương mờ... Rất nhạt, nhưng... nó không giống linh khí ngũ hành. Rất kỳ quặc."
 
-*Trong mắt những tu sĩ Luyện Khí Hậu Kỳ của các tông môn nhỏ xung quanh, A Ngốc lúc này là một sự tồn tại mâu thuẫn. Hắn có tu vi Luyện Khí Trung Kỳ, nhưng linh khí Hỗn Độn trong suốt, không mang bất kỳ thuộc tính Ngũ Hành nào, lại bao bọc quanh hắn một cách vô thức, tạo ra một tầng cách ly mờ nhạt. Đối với những kẻ tầm thường, đó không phải là sự tinh khiết tuyệt đối, mà là một sự "tạp nham" không thể nhận diện.*
+*Trong mắt những tu sĩ Luyện Khí Hậu Kỳ của các tông môn nhỏ xung quanh, A Ngốc lúc này là một sự tồn tại mâu thuẫn. Nó có tu vi Luyện Khí Trung Kỳ, nhưng linh khí Hỗn Độn trong suốt, không mang bất kỳ thuộc tính Ngũ Hành nào, lại bao bọc quanh nó một cách vô thức, tạo ra một tầng cách ly mờ nhạt. Đối với những kẻ tầm thường, đó không phải là sự tinh khiết tuyệt đối, mà là một sự "tạp nham" không thể nhận diện.*
 
 Người áo đen nhíu mày, đi tới gần ta. Ta run rẩy, ôm chặt lấy ngực. Ông già từng dặn, nếu ai nhìn chằm chằm vào ta, ta phải chạy. Nhưng chân ta nặng trịch.
 
@@ -53,7 +53,7 @@ Sáng hôm sau, khi tia nắng đầu tiên chiếu xuống, cơn bứt rứt qu
 
 Vươn vai, hít vào. Gập người, thở ra. Xoay tròn đón ánh nắng.
 
-*Bài múa Hỗn Nguyên Quy Nhất Quyết lại tiếp tục thanh lọc cơ thể và tâm trí hắn. Mỗi nhịp thở, nỗi nhớ nhung và sự tủi thân được linh khí Hỗn Độn hấp thụ, chuyển hóa thành một lớp màng bảo vệ vô hình, vững chắc hơn, trong suốt hơn. Nỗi đau vẫn còn đó, nhưng nó không còn là mũi dao cứa vào thịt, mà đã trở thành viên đá tảng để A Ngốc bước lên cao hơn trong cảnh giới Luyện Khí.*
+*Bài múa Hỗn Nguyên Quy Nhất Quyết lại tiếp tục thanh lọc cơ thể và tâm trí nó. Mỗi nhịp thở, nỗi nhớ nhung và sự tủi thân được linh khí Hỗn Độn hấp thụ, chuyển hóa thành một lớp màng bảo vệ vô hình, vững chắc hơn, trong suốt hơn. Nỗi đau vẫn còn đó, nhưng nó không còn là mũi dao cứa vào thịt, mà đã trở thành viên đá tảng để A Ngốc bước lên cao hơn trong cảnh giới Luyện Khí.*
 
 Xung quanh ta, không có ai xem. Không có Bạn Nhỏ vẫy đuôi, không có ông già cười khục khặc. Chỉ có ta, và bài múa.
 

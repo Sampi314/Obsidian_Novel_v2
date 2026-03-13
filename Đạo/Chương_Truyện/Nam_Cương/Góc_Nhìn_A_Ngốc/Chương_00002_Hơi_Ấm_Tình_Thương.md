@@ -7,17 +7,17 @@
 
 # Chương 2: Hơi Ấm Tình Thương
 
-Trời hửng sáng, sương mù dày đặc bao phủ cả thôn làng. A Ngốc bò ra khỏi đống rơm khô dưới gầm cầu, phủi phủi những cọng cỏ dính trên mái tóc bết bát. Cái bụng hắn lại réo lên từng hồi cồn cào.
+Trời hửng sáng, sương mù dày đặc bao phủ cả thôn làng. A Ngốc bò ra khỏi đống rơm khô dưới gầm cầu, phủi phủi những cọng cỏ dính trên mái tóc bết bát. Cái bụng nó lại réo lên từng hồi cồn cào.
 
-Hắn nhặt một cành cây nhỏ, lững thững đi về phía bìa làng. Hắn biết, ở bãi rác phía sau tửu điếm duy nhất của làng, đôi khi người ta sẽ vứt những khúc xương gà hay phần đầu cá thừa.
+Nó nhặt một cành cây nhỏ, lững thững đi về phía bìa làng. Nó biết, ở bãi rác phía sau tửu điếm duy nhất của làng, đôi khi người ta sẽ vứt những khúc xương gà hay phần đầu cá thừa.
 
-Đôi chân trần đen nhẻm của hắn giẫm lên những vũng nước đọng lạnh lẽo. Vết thương trên trán đã ngừng chảy máu, đóng thành một lớp vảy đen ngòm. Hắn vừa đi vừa ngâm nga một giai điệu không lời, âm thanh ngọng nghịu như tiếng dế kêu.
+Đôi chân trần đen nhẻm của nó giẫm lên những vũng nước đọng lạnh lẽo. Vết thương trên trán đã ngừng chảy máu, đóng thành một lớp vảy đen ngòm. Nó vừa đi vừa ngâm nga một giai điệu không lời, âm thanh ngọng nghịu như tiếng dế kêu.
 
-Đến bãi rác, hắn cắm cúi bới tìm. Ruồi nhặng bay lượn, mùi hôi thối bốc lên nồng nặc, nhưng A Ngốc dường như không cảm nhận được. Hắn nhặt được một khúc xương lợn còn dính chút thịt mỡ và một mẩu màn thầu đã lên meo xanh. Mắt hắn sáng rực lên.
+Đến bãi rác, nó cắm cúi bới tìm. Ruồi nhặng bay lượn, mùi hôi thối bốc lên nồng nặc, nhưng A Ngốc dường như không cảm nhận được. Nó nhặt được một khúc xương lợn còn dính chút thịt mỡ và một mẩu màn thầu đã lên meo xanh. Mắt nó sáng rực lên.
 
 "Ăn! Có đồ ăn!"
 
-Hắn dùng tay áo bẩn thỉu lau qua mẩu màn thầu, há miệng định cắn.
+Nó dùng tay áo bẩn thỉu lau qua mẩu màn thầu, há miệng định cắn.
 
 "Bỏ xuống! Đồ bẩn thỉu!"
 
@@ -29,61 +29,61 @@ Gã vung chổi, đập thẳng vào đầu A Ngốc.
 
 *Bốp!*
 
-A Ngốc lảo đảo, mẩu màn thầu rơi xuống vũng bùn. Hắn ôm đầu, không hiểu tại sao người béo này lại giận dữ như vậy. Hắn chỉ nhặt đồ bị bỏ đi thôi mà.
+A Ngốc lảo đảo, mẩu màn thầu rơi xuống vũng bùn. Nó ôm đầu, không hiểu tại sao người béo này lại giận dữ như vậy. Nó chỉ nhặt đồ bị bỏ đi thôi mà.
 
 "Đi! Đi!" A Ngốc lắp bắp, lùi lại vài bước, đôi mắt luyến tiếc nhìn mẩu màn thầu đã bị giẫm bẹp dưới chân gã chủ quán.
 
-Gã béo nhổ một bãi nước bọt xuống đất, quay lưng đi vào trong. A Ngốc cúi gằm mặt, ôm bụng đói meo, lầm lũi quay lại con đường đất mòn. Hắn không khóc. Khóc cũng không làm bụng no hơn.
+Gã béo nhổ một bãi nước bọt xuống đất, quay lưng đi vào trong. A Ngốc cúi gằm mặt, ôm bụng đói meo, lầm lũi quay lại con đường đất mòn. Nó không khóc. Khóc cũng không làm bụng no hơn.
 
-Hắn lang thang qua những con hẻm nhỏ, lén lút nhìn vào những ô cửa sổ có khói bếp bốc lên. Mùi cháo trắng thơm lừng khiến hắn ứa nước miếng. Hắn nuốt khan, cố gắng bước đi thật nhanh.
+Nó lang thang qua những con hẻm nhỏ, lén lút nhìn vào những ô cửa sổ có khói bếp bốc lên. Mùi cháo trắng thơm lừng khiến nó ứa nước miếng. Nó nuốt khan, cố gắng bước đi thật nhanh.
 
 Khi đi ngang qua một túp lều rách nát ở cuối làng, A Ngốc khựng lại.
 
 Trước cửa lều, một bà lão lưng còng, tóc bạc trắng, khuôn mặt nhăn nheo như quả táo tàu khô, đang ngồi nhóm lửa. Trên chiếc kiềng ba chân cũ kỹ, một nồi cháo loãng đang sôi sùng sục.
 
-A Ngốc đứng nép sau gốc cây nhãn già, đôi mắt to tròn chăm chú nhìn nồi cháo. Hắn không dám tiến lại gần, sợ lại bị đánh bằng chổi lông gà.
+A Ngốc đứng nép sau gốc cây nhãn già, đôi mắt to tròn chăm chú nhìn nồi cháo. Nó không dám tiến lại gần, sợ lại bị đánh bằng chổi lông gà.
 
 Bà lão ho sù sụ vài tiếng, rồi từ từ quay đầu lại. Ánh mắt vẩn đục của bà bắt gặp hình dáng gầy gò, rách rưới đang nấp sau gốc cây. Bà thở dài, một tiếng thở dài não nề mang theo sự đồng cảm của những kẻ bần cùng trong xã hội phàm nhân.
 
 "Lại đây, tiểu tử." Bà lão cất giọng, khàn khàn và yếu ớt.
 
-A Ngốc giật mình, rụt cổ lại. Hắn đưa tay che đầu, chuẩn bị cho một cú ném đá hay một nhát gậy. Nhưng không có gì bay tới.
+A Ngốc giật mình, rụt cổ lại. Nó đưa tay che đầu, chuẩn bị cho một cú ném đá hay một nhát gậy. Nhưng không có gì bay tới.
 
 "Lại đây, bà không đánh đâu." Bà lão mỉm cười, một nụ cười hiền hậu, phô ra hàm răng móm mém.
 
-A Ngốc chần chừ một lúc, rồi bước rón rén từng bước một, như một con mèo hoang đang thăm dò. Hắn đứng cách bà lão ba bước, mắt vẫn dán chặt vào nồi cháo.
+A Ngốc chần chừ một lúc, rồi bước rón rén từng bước một, như một con mèo hoang đang thăm dò. Nó đứng cách bà lão ba bước, mắt vẫn dán chặt vào nồi cháo.
 
-Bà lão lấy một chiếc bát mẻ, múc một muôi cháo loãng, chỉ lác đác vài hạt gạo, thổi nguội rồi đưa về phía hắn.
+Bà lão lấy một chiếc bát mẻ, múc một muôi cháo loãng, chỉ lác đác vài hạt gạo, thổi nguội rồi đưa về phía nó.
 
 "Ăn đi, chắc đói lắm rồi."
 
-A Ngốc tròn mắt. Hắn không tin vào tai mình. Ai đó... cho hắn đồ ăn? Không phải đồ thừa bị vứt ngoài bãi rác?
+A Ngốc tròn mắt. Nó không tin vào tai mình. Ai đó... cho nó đồ ăn? Không phải đồ thừa bị vứt ngoài bãi rác?
 
-Hắn rụt rè vươn tay ra, nhận lấy chiếc bát. Hơi ấm từ thành bát truyền vào lòng bàn tay lạnh buốt của hắn. Một cảm giác lạ lẫm, chạy dọc cơ thể.
+Nó rụt rè vươn tay ra, nhận lấy chiếc bát. Hơi ấm từ thành bát truyền vào lòng bàn tay lạnh buốt của nó. Một cảm giác lạ lẫm, chạy dọc cơ thể.
 
-Hắn húp một ngụm. Cháo rất nhạt, chẳng có vị gì, nhưng đối với A Ngốc lúc này, nó là thứ ngon nhất trần đời. Hắn húp sùm sụp, chẳng mấy chốc chiếc bát đã cạn sạch.
+Nó húp một ngụm. Cháo rất nhạt, chẳng có vị gì, nhưng đối với A Ngốc lúc này, nó là thứ ngon nhất trần đời. Nó húp sùm sụp, chẳng mấy chốc chiếc bát đã cạn sạch.
 
 "Ngon... ngon lắm." A Ngốc ngẩng lên nhìn bà lão, nhoẻn miệng cười.
 
-Bà lão nhìn vết xước rỉ máu trên trán hắn, lắc đầu xót xa. Bà run rẩy đưa tay áo lên, lau đi vết nhọ nghẹ trên má hắn.
+Bà lão nhìn vết xước rỉ máu trên trán nó, lắc đầu xót xa. Bà run rẩy đưa tay áo lên, lau đi vết nhọ nghẹ trên má nó.
 
 "Đứa trẻ tội nghiệp. Cha mẹ mày ác quá."
 
-A Ngốc không hiểu "tội nghiệp" là gì. Hắn chỉ thấy bàn tay của bà lão rất ấm. Ấm như cái "gió ấm ấm" mà hắn đôi khi cảm nhận được trong lúc ngủ. Hắn cọ cọ má vào tay bà, giống như một con cún con tìm kiếm hơi ấm.
+A Ngốc không hiểu "tội nghiệp" là gì. Nó chỉ thấy bàn tay của bà lão rất ấm. Ấm như cái "gió ấm ấm" mà nó đôi khi cảm nhận được trong lúc ngủ. Nó cọ cọ má vào tay bà, giống như một con cún con tìm kiếm hơi ấm.
 
 Từ ngày hôm đó, cuộc sống của A Ngốc có thêm một trạm dừng chân.
 
 ***
 
-Mỗi buổi sáng, sau khi bị xua đuổi ở bãi rác, hắn lại lén lút đến túp lều của bà lão. Bà góa họ Trần, chồng chết sớm, con trai đi lính không về. Bà sống đơn độc bằng nghề nhặt nhạnh củi khô đem đổi lấy chút gạo mốc.
+Mỗi buổi sáng, sau khi bị xua đuổi ở bãi rác, nó lại lén lút đến túp lều của bà lão. Bà góa họ Trần, chồng chết sớm, con trai đi lính không về. Bà sống đơn độc bằng nghề nhặt nhạnh củi khô đem đổi lấy chút gạo mốc.
 
-Bà không có nhiều, nhưng luôn dành cho hắn một bát cháo loãng, hay nửa củ khoai lang cháy. Đổi lại, A Ngốc dùng sức lực ít ỏi của mình giúp bà ôm những bó củi nhỏ từ bìa rừng về. Hắn rất ngoan, bảo gì làm nấy, chỉ có điều đôi khi hắn nhặt cả những cành cây tươi đang nở hoa thay vì củi khô, vì hắn thấy chúng "đẹp".
+Bà không có nhiều, nhưng luôn dành cho nó một bát cháo loãng, hay nửa củ khoai lang cháy. Đổi lại, A Ngốc dùng sức lực ít ỏi của mình giúp bà ôm những bó củi nhỏ từ bìa rừng về. Nó rất ngoan, bảo gì làm nấy, chỉ có điều đôi khi nó nhặt cả những cành cây tươi đang nở hoa thay vì củi khô, vì nó thấy chúng "đẹp".
 
-"Tiểu tử ngốc, củi này sao đốt được." Bà Trần mắng yêu, gõ nhẹ lên trán hắn.
+"Tiểu tử ngốc, củi này sao đốt được." Bà Trần mắng yêu, gõ nhẹ lên trán nó.
 
 A Ngốc chỉ cười hì hì, cắm nhành hoa vào kẽ nứt trên vách đất của túp lều. "Hoa đẹp. Bà cười đẹp."
 
-Tâm trí của một kẻ thiểu năng không thể ghi nhớ những khái niệm đạo đức phức tạp, nhưng nó lại đặc biệt nhạy cảm với "cảm xúc". A Ngốc không biết bà Trần tên là gì, hắn chỉ gọi bà là "Bà". Trong từ điển cạn cợt của hắn, "Bà" đồng nghĩa với sự ấm áp, với bát cháo, với bàn tay lau mặt không dùng sức đập.
+Tâm trí của một kẻ thiểu năng không thể ghi nhớ những khái niệm đạo đức phức tạp, nhưng nó lại đặc biệt nhạy cảm với "cảm xúc". A Ngốc không biết bà Trần tên là gì, nó chỉ gọi bà là "Bà". Trong từ điển cạn cợt của nó, "Bà" đồng nghĩa với sự ấm áp, với bát cháo, với bàn tay lau mặt không dùng sức đập.
 
 Thế giới phàm nhân tàn nhẫn, nhưng ở góc tối tăm nhất, vẫn le lói một đốm sáng nhân tính mong manh.
 

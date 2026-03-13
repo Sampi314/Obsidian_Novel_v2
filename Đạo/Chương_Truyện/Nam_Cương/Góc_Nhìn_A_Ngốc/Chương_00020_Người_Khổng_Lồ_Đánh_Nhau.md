@@ -33,7 +33,7 @@ Hai thứ ánh sáng đập vào nhau. Bùm! Bùm! Gió lốc nổi lên cuồn 
 
 Ta chớp mắt, ngơ ngác đứng nhìn. Đẹp quá. Giống như pháo hoa mà ta từng thấy trên bầu trời vào ngày hội làng hồi bé, nhưng to hơn, gần hơn và... đáng sợ hơn nhiều.
 
-*Sự kiện A Ngốc đang chứng kiến là một cuộc giao phong đẫm máu giữa hai cao thủ Kim Đan Sơ Kỳ — một trưởng lão Chính Đạo và một hộ pháp Ma Đạo. Đối với thế giới tu chân, đây là một trận chiến kinh thiên động địa, một cơn bão hủy diệt có thể quét sạch bất kỳ phàm nhân hay tu sĩ Luyện Khí nào dám bén mảng. Uy áp Kim Đan đè nặng lên vạn vật, khiến chim chóc rụng lả tả, thú rừng quỳ rạp. Nhưng với A Ngốc, người đang mang linh căn Hỗn Độn tự nhiên nhất, áp lực đó lại bị màng lọc vô hình quanh hắn hóa giải thành những đợt gió mạnh bình thường.*
+*Sự kiện A Ngốc đang chứng kiến là một cuộc giao phong đẫm máu giữa hai cao thủ Kim Đan Sơ Kỳ — một trưởng lão Chính Đạo và một hộ pháp Ma Đạo. Đối với thế giới tu chân, đây là một trận chiến kinh thiên động địa, một cơn bão hủy diệt có thể quét sạch bất kỳ phàm nhân hay tu sĩ Luyện Khí nào dám bén mảng. Uy áp Kim Đan đè nặng lên vạn vật, khiến chim chóc rụng lả tả, thú rừng quỳ rạp. Nhưng với A Ngốc, người đang mang linh căn Hỗn Độn tự nhiên nhất, áp lực đó lại bị màng lọc vô hình quanh nó hóa giải thành những đợt gió mạnh bình thường.*
 
 Ta từ từ bước tới. Đám người áo đẹp lúc nãy chạy toán loạn. Có người la hét, có người ngã lăn quay, có người nhắm mắt bịt tai kêu la thảm thiết. Nhưng ta thấy lạ. Bọn họ đông thế, mạnh thế, sao lại sợ pháo hoa? Khổng lồ đánh nhau thì có gì đáng sợ? Ông già bảo xem đánh nhau thì phải đứng xa ra, nhưng ta lại muốn nhìn gần hơn những con rắn lửa kia.
 
@@ -57,7 +57,7 @@ Ta xoa cái mông ê ẩm, ngước nhìn họ. "Khổng lồ ơi, đánh pháo 
 
 Ta bỏ đi, để lại hai vị Kim Đan cao thủ đứng nhìn theo bằng ánh mắt đầy khiếp sợ và bối rối. Họ không đánh nhau nữa. Sự xuất hiện của ta, một tên ngốc với linh khí Hỗn Độn kỳ quặc, đã làm họ nghi ngờ có bẫy của một thế lực thần bí nào đó.
 
-*Vài ngày sau trận chiến đó, một lời đồn bắt đầu râm ran trong giới tu sĩ Nam Cương. Người ta rỉ tai nhau về một kẻ kỳ dị, ăn mặc như kẻ hành khất, nhưng có thể điềm nhiên đi lại giữa tâm bão của một trận chiến Kim Đan. Kẻ đó mang linh khí hỗn độn, không vướng bận thất tình lục dục, không sợ uy áp cường giả. Bọn họ gọi kẻ đó là "Hồn Nhiên Tử" — người mang tâm hồn thuần khiết của thiên địa. Lời đồn bị thổi phồng lên, biến A Ngốc từ một tên ăn mày ngớ ngẩn thành một thực thể siêu phàm bí ẩn. Nhưng bản thân hắn, lúc này, chỉ đang loay hoay tìm một bờ suối sạch để rửa tay.*
+*Vài ngày sau trận chiến đó, một lời đồn bắt đầu râm ran trong giới tu sĩ Nam Cương. Người ta rỉ tai nhau về một kẻ kỳ dị, ăn mặc như kẻ hành khất, nhưng có thể điềm nhiên đi lại giữa tâm bão của một trận chiến Kim Đan. Kẻ đó mang linh khí hỗn độn, không vướng bận thất tình lục dục, không sợ uy áp cường giả. Bọn họ gọi kẻ đó là "Hồn Nhiên Tử" — người mang tâm hồn thuần khiết của thiên địa. Lời đồn bị thổi phồng lên, biến A Ngốc từ một tên ăn mày ngớ ngẩn thành một thực thể siêu phàm bí ẩn. Nhưng bản thân nó, lúc này, chỉ đang loay hoay tìm một bờ suối sạch để rửa tay.*
 
 Ta cặm cụi đi bộ. Bụng lại kêu réo rắt. "Bạn Nhỏ ơi," ta lẩm bẩm. "Bao giờ mới nhặt được bánh bao nữa nhỉ."
 

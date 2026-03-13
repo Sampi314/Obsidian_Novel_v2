@@ -57,7 +57,7 @@ Con bướm vàng giật mình bay lên, nhưng lại bị hút vào vòng xoáy
 
 Ta nhắm mắt lại, hoàn toàn chìm đắm vào bài múa. Những giọt nước mắt lăn dài trên má bị gió hong khô. Trong khoảnh khắc này, ta không còn thấy ông già, không còn thấy Bạn Nhỏ, không còn thấy những người dân làng độc ác. Ta chỉ thấy một khoảng không gian rực rỡ sắc màu — màu xanh của cây, màu vàng của nắng, màu đỏ của hoa... tất cả hòa quyện vào nhau, chảy vào trong người ta.
 
-*Sự đứt gãy đã được hàn gắn, nhưng không phải trở về trạng thái cũ, mà là bước lên một tầm cao mới. Nỗi bi thương tột cùng vì mất mát, sự cự tuyệt thế giới, và sự dồn nén của linh khí Hỗn Độn đã trở thành ngòi nổ cho một cuộc lột xác. Không cần đan dược, không cần tâm pháp, chỉ bằng bản năng thuần khiết và nỗi đau khôn tả, A Ngốc đã chính thức phá vỡ bình cảnh. Hắn đã bước vào Luyện Khí Trung Kỳ.*
+*Sự đứt gãy đã được hàn gắn, nhưng không phải trở về trạng thái cũ, mà là bước lên một tầm cao mới. Nỗi bi thương tột cùng vì mất mát, sự cự tuyệt thế giới, và sự dồn nén của linh khí Hỗn Độn đã trở thành ngòi nổ cho một cuộc lột xác. Không cần đan dược, không cần tâm pháp, chỉ bằng bản năng thuần khiết và nỗi đau khôn tả, A Ngốc đã chính thức phá vỡ bình cảnh. Nó đã bước vào Luyện Khí Trung Kỳ.*
 
 Khi bài múa kết thúc, gió ngừng thổi. Con bướm vàng nhẹ nhàng đậu lên vai ta.
 
@@ -69,7 +69,7 @@ Ta không hiểu. Ta vẫn là Mộc Nhi ngốc nghếch. Nhưng ta biết một
 
 Ta hít một hơi thật sâu, đón lấy ánh nắng rực rỡ của buổi trưa. "Ông già ơi, Mộc Nhi lại múa rồi," ta thì thầm. "Mộc Nhi sẽ không quên bài múa nữa đâu."
 
-Và thế là, mang theo một nỗi buồn đã được giấu kín vào góc khuất nhất của tâm hồn, tên ngốc vô danh lại tiếp tục bước đi trên con đường vô định của thế giới tu chân. Hắn không biết rằng, vừa rồi, hắn đã đi xa hơn phần lớn những kẻ tự xưng là thiên tài ở giai đoạn Luyện Khí kỳ.
+Và thế là, mang theo một nỗi buồn đã được giấu kín vào góc khuất nhất của tâm hồn, tên ngốc vô danh lại tiếp tục bước đi trên con đường vô định của thế giới tu chân. Nó không biết rằng, vừa rồi, nó đã đi xa hơn phần lớn những kẻ tự xưng là thiên tài ở giai đoạn Luyện Khí kỳ.
 
 ---
 *Hết chương 18.*

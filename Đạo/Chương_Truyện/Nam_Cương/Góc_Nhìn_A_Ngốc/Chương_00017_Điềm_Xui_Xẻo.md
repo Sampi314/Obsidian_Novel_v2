@@ -23,7 +23,7 @@ Ta không trả lời, chỉ chậm rãi ôm lấy cơ thể lạnh ngắt của
 
 Sáng hôm sau, mặt trời lại mọc, chim lại hót như chưa từng có chuyện gì xảy ra. Nhưng ngôi làng thì khác. Mọi người đều buồn bã dọn dẹp đống đổ nát. Một người phụ nữ béo vừa khóc lóc nhặt nhạnh những mảnh bát vỡ, vừa liếc xéo sang chỗ ta đang ngồi ôm Bạn Nhỏ.
 
-"Tôi đã bảo mà!" Bà ta rít lên với người bên cạnh. "Cái thằng ăn mày đó là điềm xui xẻo! Từ ngày nó bước chân vào làng, gà lợn nhà tôi bỏ ăn. Giờ thì sơn tặc đến cướp! Tất cả là tại nó mang xúi quẩy đến!"
+"Tôi đã bảo mà!" Bà ta rít lên với người bên cạnh. "Cái con ăn mày đó là điềm xui xẻo! Từ ngày nó bước chân vào làng, gà lợn nhà tôi bỏ ăn. Giờ thì sơn tặc đến cướp! Tất cả là tại nó mang xúi quẩy đến!"
 
 "Bà nói nhỏ thôi," một người đàn ông khuyên can. "Nó cũng chỉ là con ngốc, sức dài vai rộng làm được bao việc cho làng mình."
 
@@ -55,7 +55,7 @@ Múa làm gì nữa? Múa có làm ông già tỉnh lại không? Múa có làm 
 
 Ta ngồi sụp xuống, ôm đầu. Ta không múa nữa. Bài múa đó là một lời nói dối. Nó chẳng mang lại niềm vui gì cả. Từ hôm nay, ta sẽ không múa nữa.
 
-*Sự đứt gãy đầu tiên trong tâm trí Vô Niệm của A Ngốc đã xuất hiện. Bài múa Hỗn Nguyên Quy Nhất Quyết, thứ đã duy trì sự cân bằng của linh khí Hỗn Độn trong cơ thể hắn suốt ngần ấy năm, đã bị chính hắn từ chối. Hắn không biết rằng, việc dừng lại chu kỳ luân chuyển này sẽ dẫn đến một sự tích tụ năng lượng khủng khiếp bên trong. Sự từ chối thế giới phàm nhân, sự bất lực trước cái chết của sinh linh gắn bó, tất cả đang nén lại thành một khối áp lực khổng lồ chờ ngày bùng nổ.*
+*Sự đứt gãy đầu tiên trong tâm trí Vô Niệm của A Ngốc đã xuất hiện. Bài múa Hỗn Nguyên Quy Nhất Quyết, thứ đã duy trì sự cân bằng của linh khí Hỗn Độn trong cơ thể nó suốt ngần ấy năm, đã bị chính nó từ chối. Nó không biết rằng, việc dừng lại chu kỳ luân chuyển này sẽ dẫn đến một sự tích tụ năng lượng khủng khiếp bên trong. Sự từ chối thế giới phàm nhân, sự bất lực trước cái chết của sinh linh gắn bó, tất cả đang nén lại thành một khối áp lực khổng lồ chờ ngày bùng nổ.*
 
 ---
 *Hết chương 17.*
