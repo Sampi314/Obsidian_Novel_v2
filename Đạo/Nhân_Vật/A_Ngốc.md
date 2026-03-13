@@ -32,8 +32,8 @@
     - **Không hiểu cái chết:** Nghĩ người chết là "ngủ lâu lắm", không sợ chết vì không hiểu khái niệm này.
 - **Đạo Tâm:**
     - Trạng thái **"Vô Niệm" (無念)** hoàn hảo. Không dục vọng, không chấp niệm, không sợ hãi, không tự ngã.
-    - Tâm Ma không thể xâm nhập nàng— vì không có gì để bám vào.
-    - Thiên Kiếp cũng khó hạ nàng— vì Lôi Kiếp nhắm vào "nghịch thiên chi ý", mà nàng không hề có ý muốn nghịch trời.
+    - Tâm Ma không thể xâm nhập nàng — vì không có gì để bám vào.
+    - Thiên Kiếp cũng khó hạ nàng — vì Lôi Kiếp nhắm vào "nghịch thiên chi ý", mà nàng không hề có ý muốn nghịch trời.
     - **Triết lý vô tình thâm sâu:**
         - *"Nước chảy vì nước muốn chảy thôi mà."*
         - *"Ta không biết ta mạnh. Ta chỉ biết buổi sáng phải múa."*
@@ -77,7 +77,7 @@
 - **Quá Khứ (Arc 1-2):**
     - Sinh ra là một phàm nhân bị thiểu năng trí tuệ, bị cha mẹ bỏ rơi.
     - Sống lay lắt bằng nghề ăn xin trong một ngôi làng nhỏ ở Nam Cương, chịu đựng sự đánh đập bạo hành hàng ngày. Sự ấm áp duy nhất đến từ một bà lão góa, nhưng rồi bà cũng qua đời. Bị dân làng đuổi vào rừng sâu.
-    - Được một lão ẩn sĩ (Ông Già) tìm thấy lúc sắp chết đói. Ông Già nhận ra Hỗn Độn Linh Căn nhưng quyết định giấu đi, chỉ dạy nàng"bài múa buổi sáng" (Hỗn Nguyên Quy Nhất Quyết) như một trò chơi.
+    - Được một lão ẩn sĩ (Ông Già) tìm thấy lúc sắp chết đói. Ông Già nhận ra Hỗn Độn Linh Căn nhưng quyết định giấu đi, chỉ dạy nàng "bài múa buổi sáng" (Hỗn Nguyên Quy Nhất Quyết) như một trò chơi.
     - Vài thập kỷ sau, Ông Già cạn thọ nguyên qua đời. A Ngốc bắt đầu hành trình lang bạt.
 - **Hành Trình Gương Soi (Arc 3-8):**
     - A Ngốc vô tình đi theo những dấu vết tàn phá mà **Lệ Vô Tâm** để lại trên khắp Cố Nguyên Giới (Gương Soi). Người đọc thấy Lệ Vô Tâm hủy diệt, rồi thấy A Ngốc đi ngang qua những đống đổ nát đó với ánh mắt ngây thơ, không hiểu chuyện gì. (Đang diễn ra ở Arc 3)
