@@ -67,9 +67,9 @@
 - **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chủng_Tộc_Chính.md`.
 
 ## V. Nhân Vật Tiêu Biểu
-- **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*.
+- **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*. Đã rời khỏi Cửu Hoa Kiếm Tông và đang hướng về Đông Hoang cùng Lâm Phong.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md`.
-- **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật.
+- **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật. Đã phá vỡ vòng vây của Huyết Sát Minh tại Cửu Hoa Kiếm Tông, đang tiến vào Đông Hoang.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lâm_Phong.md`.
 - **Phương Vô Kỵ (Vô Diện Tú Sĩ):** Nam tán tu Nhân tộc, Trúc Cơ Viên Mãn. Tính cách lười biếng, vô sỉ nhưng ngộ tính tuyệt đỉnh. Đại diện "Vạn Pháp Giai Thông". Sở hữu *Thái Cực Vạn Pháp Quyết*. (Đang ở Đông Hoang)
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Phương_Vô_Kỵ.md`.

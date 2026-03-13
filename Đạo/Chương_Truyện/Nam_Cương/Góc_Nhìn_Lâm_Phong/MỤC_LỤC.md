@@ -83,3 +83,5 @@
 - [Chương 58: Con Mồi Bị Theo Dõi](Chương_00058_Con_Mồi_Bị_Theo_Dõi.md)
 - [Chương 59: Cạm Bẫy Bủa Vây](Chương_00059_Cạm_Bẫy_Bủa_Vây.md)
 - [Chương 60: Huyết Sát Truy Kích](Chương_00060_Huyết_Sát_Truy_Kích.md)
+- [Chương 61: Vụ Nổ Kinh Thiên](Chương_00061_Vụ_Nổ_Kinh_Thiên.md)
+- [Chương 62: Bóng Đêm Đào Tẩu](Chương_00062_Bóng_Đêm_Đào_Tẩu.md)
