@@ -14,7 +14,7 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 62 | Arc Ngoại Môn — Bão Ngầm Cửu Hoa | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 64 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn A Ngốc | 3 | Arc 1 | Đang viết |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Tiếp tục Catch-up Lâm Phong**: Viết chương 63, 64... cho Góc Nhìn Lâm Phong. Nội dung: Hành trình tiến vào Đông Hoang, những khó khăn ban đầu tại vùng đất mới, chạm trán Yêu Tộc hoặc các thế lực địa phương, bắt đầu Arc mới tại Đông Hoang.
+1. **Tiếp tục Catch-up Lâm Phong**: Viết chương 65, 66... cho Góc Nhìn Lâm Phong. Tiếp tục hành trình tại Đông Hoang, khám phá bí ẩn đằng sau vụ Băng Lang tấn công và tìm kiếm điểm đến an toàn.
 2. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1 (10 ch mỗi tuyến, Nam Cương 20 ch). Bắt đầu viết Arc 2.
 3. **Mở rộng chương riêng cho 19 nhân vật phụ**: Tiếp tục Task 6, hoàn thành ch 7-10 cho các nhân vật phụ.
 
@@ -75,8 +75,8 @@
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 63, 64... cho Góc Nhìn Lâm Phong.
-- Bắt đầu Arc mới: Hành trình tiến vào Đông Hoang, đối mặt với thử thách mới, rèn luyện cường độ cao hơn.
+- Tiếp tục viết chương 65, 66... cho Góc Nhìn Lâm Phong.
+- Tiếp tục hành trình Đông Hoang, bảo vệ đứa trẻ sống sót và đụng độ hoặc né tránh Băng Lang.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)

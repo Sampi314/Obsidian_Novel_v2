@@ -410,6 +410,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00062_Bóng_Đêm_Đào_Tẩu.md",
       "title": "Chương 62: Bóng Đêm Đào Tẩu"
+    },
+    {
+      "filename": "Chương_00063_Tiến_Vào_Đông_Hoang.md",
+      "title": "Chương 63: Tiến Vào Đông Hoang"
+    },
+    {
+      "filename": "Chương_00064_Làng_Hoang_Giữa_Rừng.md",
+      "title": "Chương 64: Làng Hoang Giữa Rừng"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

@@ -85,3 +85,8 @@
 - [Chương 60: Huyết Sát Truy Kích](Chương_00060_Huyết_Sát_Truy_Kích.md)
 - [Chương 61: Vụ Nổ Kinh Thiên](Chương_00061_Vụ_Nổ_Kinh_Thiên.md)
 - [Chương 62: Bóng Đêm Đào Tẩu](Chương_00062_Bóng_Đêm_Đào_Tẩu.md)
+
+## Arc Đông Hoang — Bước Chân Rừng Hoang (Chương 63-...)
+
+- [Chương 63: Tiến Vào Đông Hoang](Chương_00063_Tiến_Vào_Đông_Hoang.md)
+- [Chương 64: Làng Hoang Giữa Rừng](Chương_00064_Làng_Hoang_Giữa_Rừng.md)
