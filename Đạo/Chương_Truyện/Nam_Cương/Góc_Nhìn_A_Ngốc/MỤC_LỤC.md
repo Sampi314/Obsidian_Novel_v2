@@ -93,6 +93,10 @@
 - [Chương 68: Những Người Ngủ Trong Tuyết](Chương_00068_Những_Người_Ngủ_Trong_Tuyết.md)
 - [Chương 69: Cô Gái Sương Mù](Chương_00069_Cô_Gái_Sương_Mù.md)
 - [Chương 70: Bước Chân Song Hành](Chương_00070_Bước_Chân_Song_Hành.md)
+- [Chương 71: Tàn Tích Thành Băng](Chương_00071_Tàn_Tích_Thành_Băng.md)
+- [Chương 72: Dấu Vết Của Ác Ma](Chương_00072_Dấu_Vết_Của_Ác_Ma.md)
+- [Chương 73: Người Áo Trắng](Chương_00073_Người_Áo_Trắng.md)
+- [Chương 74: Mệnh Lệnh Bảo Vệ](Chương_00074_Mệnh_Lệnh_Bảo_Vệ.md)
 
 ## Arc 9: Kim Đan (Chương 79-92)
 *Giai đoạn Trúc Cơ Viên Mãn đến Kim Đan Sơ Kỳ — Bắc Băng đến Nam Cương*
