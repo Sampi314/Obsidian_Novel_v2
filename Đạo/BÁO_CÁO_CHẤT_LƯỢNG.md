@@ -16,6 +16,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 15, 16 (Góc Nhìn A Ngốc) | Hoàn Thành | Viết Chương 15 (Đổi Hoa Lấy Bánh) và Chương 16 (Người Bạn Mới) mở đầu Arc 3 cho A Ngốc. Thể hiện sự đối lập giữa tâm trí thuần khiết Vô Niệm của A Ngốc và thế giới phàm nhân/tu chân tàn nhẫn, kết thúc bằng cái chết của "Bạn Nhỏ". |
 | Hôm nay | Tổng Quản | Viết Chương 63, 64 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 63 (Tiến Vào Đông Hoang) và Chương 64 (Làng Hoang Giữa Rừng). Lâm Phong và Tĩnh Sương đến Đông Hoang, đụng độ bầy Băng Lang tấn công một ngôi làng và giải cứu một đứa trẻ sống sót. |
 | Hôm nay | Tổng Quản | Viết Chương 61, 62 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 61 (Vụ Nổ Kinh Thiên) và Chương 62 (Bóng Đêm Đào Tẩu). Lâm Phong dùng mũi tên bộc phá tạo vụ nổ kích hoạt cảnh báo nội môn Cửu Hoa. Huyết Sứ bỏ chạy trước ba vị Trưởng Lão. Lâm Phong và Tĩnh Sương thừa cơ trốn khỏi Cửu Hoa, hướng về Đông Hoang. |
 | Hôm nay | Tổng Quản | Viết Chương 59, 60 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 59 (Cạm Bẫy Bủa Vây) và Chương 60 (Huyết Sát Truy Kích). Lâm Phong và Tĩnh Sương phát hiện nước giếng chứa Huyết Thần Độc ngụy trang, nhận ra đây là bẫy của Huyết Sứ. Bị bao vây, cả hai phá vây chạy về phía Vườn Dược Liệu phía sau núi, đụng độ Huyết Sứ cấp bách truy sát. |

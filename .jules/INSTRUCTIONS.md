@@ -16,7 +16,7 @@
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
 | Góc Nhìn Lâm Phong | 64 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
-| Góc Nhìn A Ngốc | 3 | **REDESIGN — 14 Arcs, 152 ch** | Xem Task 8. Spec: `docs/superpowers/specs/2026-03-13-a-ngoc-arc-redesign.md` |
+| Góc Nhìn A Ngốc | 16 | Arc 3 — Bước Chân Vào Thế Giới | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,10 +66,9 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Viết lại Góc Nhìn A Ngốc theo spec mới (14 Arcs, 152 ch). Bắt đầu từ Arc 1-2 (Ch.1-14). **ĐỌC SPEC TRƯỚC:** `docs/superpowers/specs/2026-03-13-a-ngoc-arc-redesign.md`
+1. **Redesign A Ngốc (Task 8)**: Tiếp tục viết Góc Nhìn A Ngốc theo spec mới. Bắt đầu từ Arc 3 (Ch.17-22). **ĐỌC SPEC TRƯỚC:** `docs/superpowers/specs/2026-03-13-a-ngoc-arc-redesign.md`
 2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 65, 66... cho Góc Nhìn Lâm Phong. Tiếp tục hành trình tại Đông Hoang.
 3. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1. Bắt đầu viết Arc 2.
-4. **Mở rộng chương riêng cho 19 nhân vật phụ**: Tiếp tục Task 6, hoàn thành ch 7-10 cho các nhân vật phụ.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
 

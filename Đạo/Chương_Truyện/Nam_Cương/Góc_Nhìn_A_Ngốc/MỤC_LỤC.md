@@ -22,6 +22,8 @@
 
 ## Arc 3: Bước Chân Vào Thế Giới (Chương 15-22)
 *Giai đoạn Luyện Khí Sơ-Trung Kỳ — Hành trình lang bạt Nam Cương*
+- [Chương 15: Đổi Hoa Lấy Bánh](Chương_00015_Đổi_Hoa_Lấy_Bánh.md)
+- [Chương 16: Người Bạn Mới](Chương_00016_Người_Bạn_Mới.md)
 *(Đang cập nhật)*
 
 ## Arc 4: Rừng Huyết Độc (Chương 23-32)
