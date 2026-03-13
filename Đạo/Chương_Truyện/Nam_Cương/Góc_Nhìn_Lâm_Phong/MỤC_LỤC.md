@@ -69,7 +69,7 @@
 - [Chương 47: Khảo Nghiệm Đầu Tiên](Chương_00047_Khảo_Nghiệm_Đầu_Tiên.md)
 - [Chương 48: Ảo Trận Vấn Tâm](Chương_00048_Ảo_Trận_Vấn_Tâm.md)
 
-## Arc Ngoại Môn — Bão Ngầm Cửu Hoa (Chương 49-58)
+## Arc Ngoại Môn — Bão Ngầm Cửu Hoa (Chương 49-60)
 
 - [Chương 49: Bước Lên Thềm Đá](Chương_00049_Bước_Lên_Thềm_Đá.md)
 - [Chương 50: Đệ Tử Ngoại Môn](Chương_00050_Đệ_Tử_Ngoại_Môn.md)
@@ -81,3 +81,5 @@
 - [Chương 56: Cuộc Gặp Gỡ Bí Mật](Chương_00056_Cuộc_Gặp_Gỡ_Bí_Mật.md)
 - [Chương 57: Sát Cơ Bại Lộ](Chương_00057_Sát_Cơ_Bại_Lộ.md)
 - [Chương 58: Con Mồi Bị Theo Dõi](Chương_00058_Con_Mồi_Bị_Theo_Dõi.md)
+- [Chương 59: Cạm Bẫy Bủa Vây](Chương_00059_Cạm_Bẫy_Bủa_Vây.md)
+- [Chương 60: Huyết Sát Truy Kích](Chương_00060_Huyết_Sát_Truy_Kích.md)
