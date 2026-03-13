@@ -44,6 +44,10 @@
 *Giai đoạn Luyện Khí Hậu Kỳ đến Trúc Cơ Sơ Kỳ — Nam Cương đến Đông Hoang*
 - [Chương 29: Viên Kẹo Đắng](Chương_00029_Viên_Kẹo_Đắng.md)
 - [Chương 30: Người Khổng Lồ Tốt Bụng](Chương_00030_Người_Khổng_Lồ_Tốt_Bụng.md)
+- [Chương 31: Hai Kẻ Trái Ngược](Chương_00031_Hai_Kẻ_Trái_Ngược.md)
+- [Chương 32: Chạy Trốn Và Chia Tay](Chương_00032_Chạy_Trốn_Và_Chia_Tay.md)
+- [Chương 33: Những Người Ngủ Lạnh](Chương_00033_Những_Người_Ngủ_Lạnh.md)
+- [Chương 34: Giọt Nước Mắt Đột Phá](Chương_00034_Giọt_Nước_Mắt_Đột_Phá.md)
 *(Đang cập nhật)*
 
 ## Arc 6: Bóng Ma Phía Trước (Chương 43-54)

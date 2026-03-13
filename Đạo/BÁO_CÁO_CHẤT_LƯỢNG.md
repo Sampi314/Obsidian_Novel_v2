@@ -17,6 +17,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 31-34 (Góc Nhìn A Ngốc) | Hoàn Thành | Tiếp tục Arc 5 (Kẻ Săn Và Con Mồi). Phương Vô Kỵ dạy A Ngốc cách bỏ trốn và đánh lạc hướng kẻ săn đuổi (Chương 31, 32). A Ngốc lạc bước đến bãi tha ma do Lệ Vô Tâm tạo ra. Sự thương xót kích hoạt Hỗn Độn Linh Căn, đẩy A Ngốc đột phá lên Trúc Cơ Sơ Kỳ và thanh tẩy Huyết Sát Băng Độc (Chương 33, 34). Khởi đầu cấu trúc Gương Soi. |
 | Hôm nay | Tổng Quản | Viết Chương 29, 30 (Góc Nhìn A Ngốc) | Hoàn Thành | Bắt đầu Arc 5 (Kẻ Săn Và Con Mồi). A Ngốc miễn nhiễm Túy Mộng Đan của tán tu (Chương 29), sau đó bị Lục Độc Xà bắt và được Phương Vô Kỵ cứu, hai người bắt đầu đồng hành (Chương 30). |
 | Hôm nay | Tổng Quản | Viết Chương 27, 28 (Góc Nhìn A Ngốc) | Hoàn Thành | Viết Chương 27 (Trốn Chạy Trong Sương) và Chương 28 (Trở Về Làng Trống), hoàn thành Arc 4 cho A Ngốc. A Ngốc chạy trốn khỏi sự truy đuổi của Cửu Hoa Kiếm Tông giữa bầy quái thú điên loạn, sau đó trở về làng cũ chôn cất những người đã khuất bằng lá đỏ. |
 | Hôm nay | Tổng Quản | Viết Chương 65, 66 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 65 (Đêm Trong Rừng Tịch Liêu) và Chương 66 (Dấu Vết Băng Lang). Lâm Phong và Tĩnh Sương qua đêm cùng đứa bé sống sót, sau đó lần theo dấu vết Băng Lang Vương đến hang động sào huyệt của chúng. |
