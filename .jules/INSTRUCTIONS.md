@@ -15,7 +15,7 @@
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
 | Góc Nhìn Lâm Phong | 66 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
-| Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
+| Góc Nhìn Lệ Vô Tâm | 140 | Arc Sụp Đổ (Bridge Arc) | Đang viết |
 | Góc Nhìn A Ngốc | 74 | Arc 8 — Băng Nguyên Cô Tịch | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
@@ -66,9 +66,9 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Hoàn thành Arc 8. Cần chuyển sang viết Lệ Vô Tâm Bridge Arc (Ch.137-152 POV Lệ Vô Tâm) TRƯỚC khi viết Arc 9 cho A Ngốc, theo đúng Spec.
-2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 67, 68... cho Góc Nhìn Lâm Phong. Đối mặt với Băng Lang Vương ở hang động.
-3. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1. Bắt đầu viết Arc 2.
+1. **Lệ Vô Tâm Bridge Arc**: Tiếp tục viết chương 141-146 cho Góc Nhìn Lệ Vô Tâm. Các sự kiện "The Three-Front Storm".
+2. **Redesign A Ngốc (Task 8)**: Chờ hoàn thành Bridge Arc của Lệ Vô Tâm rồi mới viết tiếp Arc 9 cho A Ngốc.
+3. **Tiếp tục Catch-up Lâm Phong**: Viết chương 67, 68... cho Góc Nhìn Lâm Phong. Đối mặt với Băng Lang Vương ở hang động.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
 
