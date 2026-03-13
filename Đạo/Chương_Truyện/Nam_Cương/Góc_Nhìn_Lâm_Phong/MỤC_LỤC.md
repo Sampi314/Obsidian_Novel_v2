@@ -68,6 +68,9 @@
 - [Chương 46: Bóng Tối Dưới Chân Núi](Chương_00046_Bóng_Tối_Dưới_Chân_Núi.md)
 - [Chương 47: Khảo Nghiệm Đầu Tiên](Chương_00047_Khảo_Nghiệm_Đầu_Tiên.md)
 - [Chương 48: Ảo Trận Vấn Tâm](Chương_00048_Ảo_Trận_Vấn_Tâm.md)
+
+## Arc Ngoại Môn — Bão Ngầm Cửu Hoa (Chương 49-58)
+
 - [Chương 49: Bước Lên Thềm Đá](Chương_00049_Bước_Lên_Thềm_Đá.md)
 - [Chương 50: Đệ Tử Ngoại Môn](Chương_00050_Đệ_Tử_Ngoại_Môn.md)
 - [Chương 51: Bóng Tối Ngoại Môn](Chương_00051_Bóng_Tối_Ngoại_Môn.md)
@@ -76,3 +79,5 @@
 - [Chương 54: Manh Mối Từ Xác Chết](Chương_00054_Manh_Mối_Từ_Xác_Chết.md)
 - [Chương 55: Dấu Vết Kẻ Phản Bội](Chương_00055_Dấu_Vết_Kẻ_Phản_Bội.md)
 - [Chương 56: Cuộc Gặp Gỡ Bí Mật](Chương_00056_Cuộc_Gặp_Gỡ_Bí_Mật.md)
+- [Chương 57: Sát Cơ Bại Lộ](Chương_00057_Sát_Cơ_Bại_Lộ.md)
+- [Chương 58: Con Mồi Bị Theo Dõi](Chương_00058_Con_Mồi_Bị_Theo_Dõi.md)

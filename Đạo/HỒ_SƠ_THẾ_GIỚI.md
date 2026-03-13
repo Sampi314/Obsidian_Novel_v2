@@ -351,7 +351,7 @@
 *   **Điểm nổi bật:**
     *   **Khu chợ đen (Hắc Thị Quán):** Một tửu quán lụp xụp có biểu tượng dơi ngậm đồng tiền, là tụ điểm buôn lậu, mua bán tin tức và phát lệnh truy nã ngầm. Hiện tại đã bị Huyết Sát Minh thâm nhập và mua chuộc.
     *   **Cửu Hoa Thiên Giai:** Lối đi bằng bạch ngọc dài 9999 bậc dẫn lên Cửu Hoa Kiếm Tông. Đây là nơi diễn ra vòng khảo nghiệm cuối cùng (leo bậc thang kiếm ý) dành cho các tân đệ tử ngoại môn, mỗi bậc đều chứa tàn ý của các bậc tiền bối Cửu Hoa Kiếm Tông.
-    - **Huyết Mạch Tinh (Huyết Thần Độc ngụy trang):** Phiên bản ngụy trang của Huyết Thần Độc, được Huyết Sát Minh/Vạn Độc Môn sử dụng để bí mật gieo rắc và khống chế các đệ tử ngoại môn của Cửu Hoa Kiếm Tông. Thường đi kèm với Tử Xà Đằng để che đậy mùi Huyết Tinh Sa. Mạng lưới này hiện do một Huyết Sứ trực tiếp chỉ đạo từ trong nội bộ Cửu Hoa.
+    - **Huyết Mạch Tinh (Huyết Thần Độc ngụy trang):** Phiên bản ngụy trang của Huyết Thần Độc, được Huyết Sát Minh/Vạn Độc Môn sử dụng để bí mật gieo rắc và khống chế các đệ tử ngoại môn của Cửu Hoa Kiếm Tông. Thường đi kèm với Tử Xà Đằng để che đậy mùi Huyết Tinh Sa. Mạng lưới này hiện do một Huyết Sứ (kẻ đã từng chỉ huy Huyết Vệ ở Rừng Huyết Độc) trực tiếp chỉ đạo từ trong nội bộ Cửu Hoa. Hắn sử dụng các đệ tử ngoại môn bị khống chế thành những con rối vô tri để truy sát kẻ thù, tránh đánh động nội môn.
     - **Tử Xà Đằng:** Một loại dược thảo mọc ở vùng đầm lầy độc tính cao Nam Cương, được dùng để che giấu mùi tanh ngọt đặc trưng của Huyết Tinh Sa.
     - [Vân Tông](Thế_Lực/Vân_Tông.md)
     - [Tiên Cầm Viện](Thế_Lực/Tiên_Cầm_Viện.md)
