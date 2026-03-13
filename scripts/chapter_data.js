@@ -70,10 +70,16 @@ Object.assign(chapterData, {
       "title": "Chương 4: Cường Đạo Tuyết Sơn"
     }
   ],
+  "Góc_Nhìn_Triệu_Thanh_Hằng": [
+    {
+      "filename": "Chương_00003_Ân_Oán_Phân_Minh.md",
+      "title": "Chương 3: Ân Oán Phân Minh"
+    }
+  ],
   "Góc_Nhìn_A_Ngốc": [
     {
       "filename": "Chương_00001_Gầm_Cầu.md",
-      "title": "Chương 1: Gầm Cầu"
+      "title": "Chương 1: Đứa Trẻ Không Ai Muốn"
     },
     {
       "filename": "Chương_00002_Hơi_Ấm_Tình_Thương.md",
@@ -1602,6 +1608,18 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00006_Thiên_Viêm_Phẫn_Nộ.md",
       "title": "Chương 6: Thiên Viêm Phẫn Nộ"
+    }
+  ],
+  "Góc_Nhìn_Độc_Cô_Lão_Quái": [
+    {
+      "filename": "Chương_00003_Bầy_Trùng_Gián_Điệp.md",
+      "title": "Chương 3: Bầy Trùng Gián Điệp"
+    }
+  ],
+  "Góc_Nhìn_Hứa_Nhược_Thủy": [
+    {
+      "filename": "Chương_00003_Thương_Đạo_Tây_Mạc.md",
+      "title": "Chương 3: Thương Đạo Tây Mạc"
     }
   ],
   "Góc_Nhìn_Tây_Mạc": [
