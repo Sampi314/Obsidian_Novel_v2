@@ -292,6 +292,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00054_Đột_Phá_Trong_Cô_Độc.md",
       "title": "Chương 54: Đột Phá Trong Cô Độc"
+    },
+    {
+      "filename": "Chương_00055_Thành_Phố_Đổ_Nát.md",
+      "title": "Chương 55: Thành Phố Đổ Nát"
+    },
+    {
+      "filename": "Chương_00056_Nơi_Này_Đã_Từng_Lạnh.md",
+      "title": "Chương 56: Nơi Này Đã Từng Lạnh"
+    },
+    {
+      "filename": "Chương_00057_Giọng_Nói_Mập_Mạp.md",
+      "title": "Chương 57: Giọng Nói Mập Mạp"
+    },
+    {
+      "filename": "Chương_00058_Đừng_Làm_Phiền_Trẻ_Con.md",
+      "title": "Chương 58: Đừng Làm Phiền Trẻ Con"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

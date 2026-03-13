@@ -3,7 +3,7 @@
 - [Hôm nay]: Băng Ngục Thành (Chương 130 Chính, 124 Lệ Vô Tâm).
 
 ## PHIÊN GẦN NHẤT
-- Đã viết Chương 23-26 cho Góc Nhìn A Ngốc (Arc 4 - Rừng Huyết Độc).
-- Hoàn thành thiết lập quan trọng: A Ngốc miễn nhiễm Huyết Thần Độc, đột phá Luyện Khí Hậu Kỳ nhờ đau buồn sau cái chết của người dân làng. Lần đầu chạm mặt Lâm Phong và nhóm Cửu Hoa.
-- Cập nhật INSTRUCTIONS, BÁO CÁO CHẤT LƯỢNG, và MỤC LỤC.
-- TODO: Viết Arc 5-8 (Ch.33-78) cho A Ngốc, bắt đầu Gương Soi.
+- Đã viết Chương 55-58 cho Góc Nhìn A Ngốc, mở đầu Arc 7 (Vạn Yêu Thành).
+- A Ngốc vô tình giải cứu các Yêu Tộc nhỏ tuổi sau khi Lệ Vô Tâm và Huyết Sát Minh tàn phá Vạn Yêu Thành. Giao tiếp với Nham Thần thông qua địa mạch, và bùng nổ xung kích Hỗn Độn Linh Căn đẩy lùi đám sát thủ tàn dư của Huyết Sát Minh, đột phá Trúc Cơ Hậu Kỳ.
+- Cập nhật INSTRUCTIONS.md, chapter_data.js, MỤC_LỤC.md.
+- TODO: Tiếp tục hoàn thiện Arc 7 cho A Ngốc (Ch.59-66).
