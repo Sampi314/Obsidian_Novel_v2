@@ -340,6 +340,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00066_Phải_Đi_Thôi.md",
       "title": "Chương 66: Phải Đi Thôi"
+    },
+    {
+      "filename": "Chương_00067_Sợi_Chỉ_Lạnh_Lẽo.md",
+      "title": "Chương 67: Sợi Chỉ Lạnh Lẽo"
+    },
+    {
+      "filename": "Chương_00068_Những_Người_Ngủ_Trong_Tuyết.md",
+      "title": "Chương 68: Những Người Ngủ Trong Tuyết"
+    },
+    {
+      "filename": "Chương_00069_Cô_Gái_Sương_Mù.md",
+      "title": "Chương 69: Cô Gái Sương Mù"
+    },
+    {
+      "filename": "Chương_00070_Bước_Chân_Song_Hành.md",
+      "title": "Chương 70: Bước Chân Song Hành"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

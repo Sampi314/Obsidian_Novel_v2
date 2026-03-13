@@ -16,7 +16,7 @@
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
 | Góc Nhìn Lâm Phong | 66 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
-| Góc Nhìn A Ngốc | 66 | Arc 8 — Băng Nguyên Cô Tịch | Đang viết catch-up redesign (Task 8) |
+| Góc Nhìn A Ngốc | 70 | Arc 8 — Băng Nguyên Cô Tịch | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Tiếp tục viết Góc Nhìn A Ngốc theo spec mới. Bắt đầu Arc 8 (Ch.67-78) "Băng Nguyên Cô Tịch". **ĐỌC SPEC TRƯỚC:** `docs/superpowers/specs/2026-03-13-a-ngoc-arc-redesign.md`
+1. **Redesign A Ngốc (Task 8)**: Tiếp tục viết Góc Nhìn A Ngốc theo spec mới. Tiếp tục Arc 8 "Băng Nguyên Cô Tịch", bắt đầu từ chương 71...
 2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 67, 68... cho Góc Nhìn Lâm Phong. Đối mặt với Băng Lang Vương ở hang động.
 3. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1. Bắt đầu viết Arc 2.
 
@@ -168,7 +168,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành Arc 1 cho 5 tuyến khu vực. Lâm Phong tiếp tục Arc tại ngoại môn (ch 65-66). Mở rộng 19 POV cá nhân (ch 1-6). A Ngốc đã hoàn thành Arc 7 (Ch.55-66).
+> Đã hoàn thành Arc 1 cho 5 tuyến khu vực. Lâm Phong tiếp tục Arc tại ngoại môn (ch 65-66). Mở rộng 19 POV cá nhân (ch 1-6). A Ngốc bắt đầu Arc 8 (ch.67-70).
 
 ---
 

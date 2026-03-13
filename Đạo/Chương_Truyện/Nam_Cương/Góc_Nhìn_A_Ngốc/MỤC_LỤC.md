@@ -89,7 +89,10 @@
 
 ## Arc 8: Băng Nguyên Cô Tịch (Chương 67-78)
 *Giai đoạn Trúc Cơ Hậu Kỳ đến Viên Mãn — Biên giới Đông Hoang đến Bắc Băng*
-*(Đang cập nhật)*
+- [Chương 67: Sợi Chỉ Lạnh Lẽo](Chương_00067_Sợi_Chỉ_Lạnh_Lẽo.md)
+- [Chương 68: Những Người Ngủ Trong Tuyết](Chương_00068_Những_Người_Ngủ_Trong_Tuyết.md)
+- [Chương 69: Cô Gái Sương Mù](Chương_00069_Cô_Gái_Sương_Mù.md)
+- [Chương 70: Bước Chân Song Hành](Chương_00070_Bước_Chân_Song_Hành.md)
 
 ## Arc 9: Kim Đan (Chương 79-92)
 *Giai đoạn Trúc Cơ Viên Mãn đến Kim Đan Sơ Kỳ — Bắc Băng đến Nam Cương*
