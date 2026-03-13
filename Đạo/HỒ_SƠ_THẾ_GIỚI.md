@@ -348,6 +348,10 @@
         - [Chương 58: Con Mồi Bị Theo Dõi](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00058_Con_Mồi_Bị_Theo_Dõi.md)
         - [Chương 59: Cạm Bẫy Bủa Vây](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00059_Cạm_Bẫy_Bủa_Vây.md)
         - [Chương 60: Huyết Sát Truy Kích](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00060_Huyết_Sát_Truy_Kích.md)
+        - [Chương 61: Vụ Nổ Kinh Thiên](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00061_Vụ_Nổ_Kinh_Thiên.md)
+        - [Chương 62: Bóng Đêm Đào Tẩu](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00062_Bóng_Đêm_Đào_Tẩu.md)
+        - [Chương 63: Tiến Vào Đông Hoang](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00063_Tiến_Vào_Đông_Hoang.md)
+        - [Chương 64: Làng Hoang Giữa Rừng](Chương_Truyện/Góc_Nhìn_Lâm_Phong/Chương_00064_Làng_Hoang_Giữa_Rừng.md)
 
 ## VI. Thế Lực Chính
 
