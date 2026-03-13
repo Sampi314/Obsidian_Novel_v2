@@ -74,7 +74,10 @@
 
 ## Arc 7: Vạn Yêu Thành (Chương 55-66)
 *Giai đoạn Trúc Cơ Trung-Hậu Kỳ — Vạn Yêu Thành*
-*(Đang cập nhật)*
+- [Chương 55: Thành Phố Đổ Nát](Chương_00055_Thành_Phố_Đổ_Nát.md)
+- [Chương 56: Nơi Này Đã Từng Lạnh](Chương_00056_Nơi_Này_Đã_Từng_Lạnh.md)
+- [Chương 57: Giọng Nói Mập Mạp](Chương_00057_Giọng_Nói_Mập_Mạp.md)
+- [Chương 58: Đừng Làm Phiền Trẻ Con](Chương_00058_Đừng_Làm_Phiền_Trẻ_Con.md)
 
 ## Arc 8: Băng Nguyên Cô Tịch (Chương 67-78)
 *Giai đoạn Trúc Cơ Hậu Kỳ đến Viên Mãn — Biên giới Đông Hoang đến Bắc Băng*

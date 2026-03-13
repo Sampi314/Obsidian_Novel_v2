@@ -2,9 +2,10 @@
 - 2026-03-14: Hoàn thành Góc Nhìn A Ngốc Arc 5 (Chương 39-42).
 
 ## PHIÊN GẦN NHẤT
-- Viết Chương 39: Bị Bắt Bớ
-- Viết Chương 40: Người Khổng Lồ Thông Minh
-- Viết Chương 41: Bài Học Chạy Trốn
-- Viết Chương 42: Nước Mắt Trúc Cơ
+- Viết Chương 55: Thành Phố Đổ Nát
+- Viết Chương 56: Nơi Này Đã Từng Lạnh
+- Viết Chương 57: Giọng Nói Mập Mạp
+- Viết Chương 58: Đừng Làm Phiền Trẻ Con
+- Đã thiết lập bối cảnh A Ngốc đến Vạn Yêu Thành ngay sau đại chiến (Arc 7), chữa trị Yêu Tộc, giao tiếp với Nham Thần và bùng nổ Hỗn Độn Linh Căn đẩy lùi Huyết Sát Minh, đột phá Trúc Cơ Hậu Kỳ.
 - Cập nhật MỤC_LỤC.md, chapter_data.js.
-- Cập nhật INSTRUCTIONS.md, chuyển sang ưu tiên viết Arc 6 cho A Ngốc ở phiên sau.
+- Cập nhật INSTRUCTIONS.md, tiếp tục nửa sau của Arc 7 cho A Ngốc.
