@@ -40,7 +40,7 @@
         - *"Cái cây không sợ bão. Nó chỉ đứng đó thôi."*
 
 ## III. SỨC MẠNH & KỸ NĂNG
-- **Cảnh Giới Hiện Tại:** Luyện Khí Trung Kỳ.
+- **Cảnh Giới Hiện Tại:** Trúc Cơ Sơ Kỳ.
 - **Tiến trình Cảnh Giới (Cultivation = Loss):**
     - Điểm đặc biệt nhất: Mỗi lần đột phá cảnh giới của A Ngốc không đến từ tu luyện chủ ý, mà được kích hoạt bởi **bi kịch và sự mất mát**.
     - Phàm Nhân -> Luyện Khí Sơ Kỳ (Sau nhiều năm múa bài múa của Ông Già trong vô thức)

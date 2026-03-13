@@ -196,6 +196,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00030_Người_Khổng_Lồ_Tốt_Bụng.md",
       "title": "Chương 30: Người Khổng Lồ Tốt Bụng"
+    },
+    {
+      "filename": "Chương_00031_Hai_Kẻ_Trái_Ngược.md",
+      "title": "Chương 31: Hai Kẻ Trái Ngược"
+    },
+    {
+      "filename": "Chương_00032_Chạy_Trốn_Và_Chia_Tay.md",
+      "title": "Chương 32: Chạy Trốn Và Chia Tay"
+    },
+    {
+      "filename": "Chương_00033_Những_Người_Ngủ_Lạnh.md",
+      "title": "Chương 33: Những Người Ngủ Lạnh"
+    },
+    {
+      "filename": "Chương_00034_Giọt_Nước_Mắt_Đột_Phá.md",
+      "title": "Chương 34: Giọt Nước Mắt Đột Phá"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
