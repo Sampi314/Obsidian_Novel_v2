@@ -90,3 +90,5 @@
 
 - [Chương 63: Tiến Vào Đông Hoang](Chương_00063_Tiến_Vào_Đông_Hoang.md)
 - [Chương 64: Làng Hoang Giữa Rừng](Chương_00064_Làng_Hoang_Giữa_Rừng.md)
+- [Chương 65: Đêm Trong Rừng Tịch Liêu](Chương_00065_Đêm_Trong_Rừng_Tịch_Liêu.md)
+- [Chương 66: Dấu Vết Băng Lang](Chương_00066_Dấu_Vết_Băng_Lang.md)
