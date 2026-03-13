@@ -386,6 +386,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00056_Cuộc_Gặp_Gỡ_Bí_Mật.md",
       "title": "Chương 56: Cuộc Gặp Gỡ Bí Mật"
+    },
+    {
+      "filename": "Chương_00057_Sát_Cơ_Bại_Lộ.md",
+      "title": "Chương 57: Sát Cơ Bại Lộ"
+    },
+    {
+      "filename": "Chương_00058_Con_Mồi_Bị_Theo_Dõi.md",
+      "title": "Chương 58: Con Mồi Bị Theo Dõi"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
