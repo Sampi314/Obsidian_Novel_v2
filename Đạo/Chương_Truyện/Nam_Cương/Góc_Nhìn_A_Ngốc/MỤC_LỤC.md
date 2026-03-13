@@ -62,7 +62,15 @@
 - [Chương 43: Bước Chân Vào Rừng Thẳm](Chương_00043_Bước_Chân_Vào_Rừng_Thẳm.md)
 - [Chương 44: Người Của Cây](Chương_00044_Người_Của_Cây.md)
 - [Chương 45: Chị Lá](Chương_00045_Chị_Lá.md)
-*(Đang cập nhật)*
+- [Chương 46: Đi Tìm Bánh Bao](Chương_00046_Đi_Tìm_Bánh_Bao.md)
+- [Chương 47: Đứa Trẻ Yêu Tộc](Chương_00047_Đứa_Trẻ_Yêu_Tộc.md)
+- [Chương 48: Cây Đau Ốm](Chương_00048_Cây_Đau_Ốm.md)
+- [Chương 49: Báo Cáo Của Trinh Sát](Chương_00049_Báo_Cáo_Của_Trinh_Sát.md)
+- [Chương 50: Vệ Binh Rừng Sâu](Chương_00050_Vệ_Binh_Rừng_Sâu.md)
+- [Chương 51: Lệnh Từ Nữ Vương](Chương_00051_Lệnh_Từ_Nữ_Vương.md)
+- [Chương 52: Sự Chia Cắt](Chương_00052_Sự_Chia_Cắt.md)
+- [Chương 53: Lại Một Mình](Chương_00053_Lại_Một_Mình.md)
+- [Chương 54: Đột Phá Trong Cô Độc](Chương_00054_Đột_Phá_Trong_Cô_Độc.md)
 
 ## Arc 7: Vạn Yêu Thành (Chương 55-66)
 *Giai đoạn Trúc Cơ Trung-Hậu Kỳ — Vạn Yêu Thành*
