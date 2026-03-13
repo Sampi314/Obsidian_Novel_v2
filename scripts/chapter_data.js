@@ -134,6 +134,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00016_Người_Bạn_Mới.md",
       "title": "Chương 16: Người Bạn Mới"
+    },
+    {
+      "filename": "Chương_00017_Điềm_Xui_Xẻo.md",
+      "title": "Chương 17: Điềm Xui Xẻo"
+    },
+    {
+      "filename": "Chương_00018_Ký_Ức_Cơ_Thể.md",
+      "title": "Chương 18: Ký Ức Cơ Thể"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
