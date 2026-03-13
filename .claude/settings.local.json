@@ -14,7 +14,12 @@
       "Bash(grep:*)",
       "Bash(node:*)",
       "Bash(git push:*)",
-      "Bash(git:*)"
+      "Bash(git:*)",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_playwright_playwright__browser_take_screenshot",
+      "mcp__plugin_playwright_playwright__browser_press_key",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8765/index.html 2>/dev/null || echo \"Server not running\")",
+      "mcp__plugin_playwright_playwright__browser_evaluate"
     ]
   }
 }
