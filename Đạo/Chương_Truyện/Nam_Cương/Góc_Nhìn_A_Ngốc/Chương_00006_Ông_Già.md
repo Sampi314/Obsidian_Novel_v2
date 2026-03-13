@@ -37,7 +37,7 @@ Ban đầu, lão chỉ định ném cho con bé một nắm thảo dược chữ
 
 Một luồng khí tức hỗn độn, nguyên thủy, cuộn trào trong Đan Điền của con bé. Nó hoàn toàn vô tổ chức, hoang dã, nhưng lại ẩn chứa tiềm năng vô hạn. Một "Hỗn Độn Linh Căn" chân chính — thứ tồn tại chỉ được ghi chép trong những cổ tịch từ thời Thượng Cổ. Căn cốt được cho là gần gũi nhất với bản nguyên của Thiên Đạo.
 
-"Thằng nhãi này... rốt cuộc là yêu nghiệt phương nào?" Lão lẩm bẩm trong bụng khi vớt A Ngốc lên khỏi hố bẫy.
+"Con nhãi này... rốt cuộc là yêu nghiệt phương nào?" Lão lẩm bẩm trong bụng khi vớt A Ngốc lên khỏi hố bẫy.
 
 Nhưng khi kiểm tra kỹ hơn, vị cường giả già nua lại bàng hoàng nhận ra một sự thật cay đắng khác. Căn cốt tuyệt thế, nhưng tâm trí lại bị khóa chặt. Một trí tuệ thiểu năng, khiếm khuyết nặng nề, dừng lại ở mức độ một đứa trẻ lên năm. Một cái bình ngọc quý giá nhất lại chứa một khối óc trống rỗng.
 
@@ -63,7 +63,7 @@ Lão cau mày. "Ngốc không phải là tên." Lão chỉ tay ra ngoài cửa c
 
 "Mộc Nhi thích Ông Già! Ông Già cho Mộc Nhi ăn cháo thịt!" A Ngốc vui vẻ vỗ tay. Nó không phân biệt được thân phận, không hiểu khái niệm sức mạnh. Trong mắt nó, người cho nó ăn lúc đói, chữa vết thương cho nó lúc đau, chính là người tốt.
 
-"Thằng nhãi ngốc nghếch," Ông Già lắc đầu. "Ngươi có biết mình đang mang một kho báu vĩ đại mà vô số kẻ sẵn sàng mổ bụng ngươi ra để đoạt lấy không?"
+"Con nhãi ngốc nghếch," Ông Già lắc đầu. "Ngươi có biết mình đang mang một kho báu vĩ đại mà vô số kẻ sẵn sàng mổ bụng ngươi ra để đoạt lấy không?"
 
 A Ngốc chớp mắt, đưa tay sờ sờ bụng mình. "Kho báu? Trong bụng có kho báu? Chắc là cháo thịt."
 

@@ -25,7 +25,7 @@ Ta siết chặt tay Tiểu Nha. Cảm giác đau tức trong ngực lúc nãy b
 
 Ta cảm giác như mình bị một quả bóng không khí khổng lồ bọc lấy.
 
-*Trong khoảnh khắc nỗi đau mất mát đạt đến đỉnh điểm, khi cơ thể lạnh ngắt của Tiểu Nha truyền sự tuyệt vọng vào tâm trí A Ngốc, Hỗn Độn Linh Căn một lần nữa bùng nổ. Không cần đan dược, không cần tọa thiền ngộ đạo, vòng tuần hoàn Hỗn Nguyên Quy Nhất Quyết trong cơ thể hắn tự động phá vỡ vách ngăn cảnh giới. Linh khí Hỗn Độn cuộn trào, thanh lọc và tinh luyện lại toàn bộ kinh mạch. A Ngốc đã đột phá lên Luyện Khí Hậu Kỳ, theo cái cách cay đắng nhất: mỗi một bước tiến trên con đường tu tiên của hắn đều được lát bằng sự ra đi của những người hắn yêu thương.*
+*Trong khoảnh khắc nỗi đau mất mát đạt đến đỉnh điểm, khi cơ thể lạnh ngắt của Tiểu Nha truyền sự tuyệt vọng vào tâm trí A Ngốc, Hỗn Độn Linh Căn một lần nữa bùng nổ. Không cần đan dược, không cần tọa thiền ngộ đạo, vòng tuần hoàn Hỗn Nguyên Quy Nhất Quyết trong cơ thể nó tự động phá vỡ vách ngăn cảnh giới. Linh khí Hỗn Độn cuộn trào, thanh lọc và tinh luyện lại toàn bộ kinh mạch. A Ngốc đã đột phá lên Luyện Khí Hậu Kỳ, theo cái cách cay đắng nhất: mỗi một bước tiến trên con đường tu tiên của nó đều được lát bằng sự ra đi của những người nó yêu thương.*
 
 Sự bùng nổ linh khí của ta, dù yếu ớt so với họ, nhưng trong không gian ngập tràn tử khí này lại chói lọi như một đốm lửa giữa đêm đen.
 

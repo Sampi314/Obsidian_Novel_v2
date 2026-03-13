@@ -23,7 +23,7 @@ Năm tuổi? Hay sáu tuổi? A Ngốc không biết. Nó chưa bao giờ biết
 
 Một hòn đá bằng nắm tay bay tới, ném trúng vào bả vai gầy trơ xương của nó. A Ngốc kêu lên một tiếng oái oăm, ngã lăn ra đất. Bùn đất lấm lem dính đầy mặt mũi.
 
-"Thằng điên! Lại chơi với giun dế! Tránh xa khỏi chỗ lấy nước của làng ra!"
+"Con điên! Lại chơi với giun dế! Tránh xa khỏi chỗ lấy nước của làng ra!"
 
 Một đám trẻ con trạc tuổi nó, quần áo lành lặn hơn, mặt mày hung hãn, đứng trên bờ dốc chỉ trỏ, cười hô hố.
 

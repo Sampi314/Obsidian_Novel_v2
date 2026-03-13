@@ -33,7 +33,7 @@ Ta lồm cồm bò dậy, hai tay bám chặt vào vỏ cây đỏ, thò nửa n
 
 Thấy ta chỉ là một đứa rách rưới, mặt mũi nhem nhuốc, ông ta hạ tay xuống, nhíu mày.
 
-"Thằng nhóc ăn mày ở đâu chui ra thế này? Lạc đường à?" Ông ta hỏi, giọng vẫn to nhưng bớt hung dữ hơn.
+"Con nhóc ăn mày ở đâu chui ra thế này? Lạc đường à?" Ông ta hỏi, giọng vẫn to nhưng bớt hung dữ hơn.
 
 Ta gật đầu, rồi lại lắc đầu. Ta không lạc, ta chỉ đang đi. Ta xoa xoa cái bụng đang xẹp lép. Ông già bảo, nếu đói thì xoa bụng, người ta sẽ cho ăn. Nhưng người làng cũ toàn ném đá ta.
 

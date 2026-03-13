@@ -13,7 +13,7 @@ Sau khi chôn cất bà lão ở bãi đất hoang, trưởng thôn ra lệnh đ
 
 A Ngốc đứng ngẩn ngơ nhìn ngọn lửa. Nó không khóc nữa. Nước mắt của nó dường như đã cạn khô cùng với sự biến mất của bà lão. Nó chỉ thấy ngọn lửa rất sáng, rất nóng, nhưng nó không giống cái "gió ấm ấm" mà nó từng cảm nhận. Nó hung hãn và đáng sợ.
 
-"Đi đi! Thằng điên kia! Còn đứng lảng vảng ở đây làm gì?" Gã đàn ông cầm cào cỏ hôm trước, tên là Đại Ngưu, xua tay đuổi nó như đuổi một con chó hoang.
+"Đi đi! Con điên kia! Còn đứng lảng vảng ở đây làm gì?" Gã đàn ông cầm cào cỏ hôm trước, tên là Đại Ngưu, xua tay đuổi nó như đuổi một con chó hoang.
 
 A Ngốc lùi lại vài bước, nhưng không rời đi hẳn. Nó chỉ đứng từ xa, nhìn chằm chằm vào đống tro tàn đang bốc khói nghi ngút. Nó đang chờ đợi. Nó nghĩ bà lão chỉ đi đâu đó một lát, rồi sẽ quay về nấu cháo cho nó. Nó không hiểu "chết" là gì. Nó chỉ biết "đợi".
 
