@@ -16,6 +16,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 61, 62 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 61 (Vụ Nổ Kinh Thiên) và Chương 62 (Bóng Đêm Đào Tẩu). Lâm Phong dùng mũi tên bộc phá tạo vụ nổ kích hoạt cảnh báo nội môn Cửu Hoa. Huyết Sứ bỏ chạy trước ba vị Trưởng Lão. Lâm Phong và Tĩnh Sương thừa cơ trốn khỏi Cửu Hoa, hướng về Đông Hoang. |
 | Hôm nay | Tổng Quản | Viết Chương 59, 60 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 59 (Cạm Bẫy Bủa Vây) và Chương 60 (Huyết Sát Truy Kích). Lâm Phong và Tĩnh Sương phát hiện nước giếng chứa Huyết Thần Độc ngụy trang, nhận ra đây là bẫy của Huyết Sứ. Bị bao vây, cả hai phá vây chạy về phía Vườn Dược Liệu phía sau núi, đụng độ Huyết Sứ cấp bách truy sát. |
 | Hôm nay | Tổng Quản | Viết Chương 57, 58 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 57 (Sát Cơ Bại Lộ) và Chương 58 (Con Mồi Bị Theo Dõi). Lâm Phong và Tĩnh Sương bị Huyết Sứ phát hiện và phải dùng Mộc Độn Thuật trốn thoát khỏi sự truy sát của những đệ tử ngoại môn bị khống chế. Sáng hôm sau, Lâm Phong nhận ra họ đang bị theo dõi gắt gao. |
 | Hôm nay | Tổng Quản | Viết Chương 55, 56 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 55 (Dấu Vết Kẻ Phản Bội) và Chương 56 (Cuộc Gặp Gỡ Bí Mật). Lâm Phong và Diệp Tĩnh Sương theo dõi Triệu Hùng và phát hiện ra sự tồn tại của một Huyết Sứ đang điều hành mạng lưới Huyết Sát Minh tại Cửu Hoa Kiếm Tông. |

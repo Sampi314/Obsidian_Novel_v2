@@ -402,6 +402,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00060_Huyết_Sát_Truy_Kích.md",
       "title": "Chương 60: Huyết Sát Truy Kích"
+    },
+    {
+      "filename": "Chương_00061_Vụ_Nổ_Kinh_Thiên.md",
+      "title": "Chương 61: Vụ Nổ Kinh Thiên"
+    },
+    {
+      "filename": "Chương_00062_Bóng_Đêm_Đào_Tẩu.md",
+      "title": "Chương 62: Bóng Đêm Đào Tẩu"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
