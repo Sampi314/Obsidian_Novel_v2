@@ -9,10 +9,12 @@
 - [Phiên trước]: Viết Chương 59, 60. Lâm Phong và Tĩnh Sương dụ Huyết Sứ vào Vườn Thuốc Bỏ Hoang gần cấm địa nội môn để mượn đao giết người.
 
 ## PHIÊN GẦN NHẤT
-## Phiên làm việc: Viết Chương 61, 62 (Góc Nhìn Lâm Phong)
+## Phiên làm việc: Viết Chương 23-26 (Góc Nhìn A Ngốc)
 - **Ngày:** Hôm nay
-- **Chương 61:** Vụ Nổ Kinh Thiên
-- **Chương 62:** Bóng Đêm Đào Tẩu
-- **Góc Nhìn:** Lâm Phong
-- **Tóm tắt:** Lâm Phong dùng mũi tên bộc phá tạo ra vụ nổ lớn tại Vườn Thuốc Bỏ Hoang, kích hoạt trận pháp cảnh giới của cấm địa nội môn Cửu Hoa Kiếm Tông. Ba vị Trưởng Lão Kết Đan Kỳ xuất hiện, buộc Huyết Sứ phải dùng huyết độn thuật tẩu thoát, để lại sự hỗn loạn. Thừa dịp đó, Lâm Phong và Diệp Tĩnh Sương trốn thoát khỏi Cửu Hoa qua một khe nứt bí mật, quyết định tiến về phía Đông Hoang hoang dã để tiếp tục hành trình và rèn luyện.
-- **Tình trạng:** Hoàn thành. Arc Ngoại Môn Cửu Hoa kết thúc. Chuẩn bị bước vào Arc Đông Hoang cho Lâm Phong.
+- **Chương 23:** Yên Bình Mong Manh
+- **Chương 24:** Sương Đỏ Tràn Về
+- **Chương 25:** Hoa Cho Người Ngủ
+- **Chương 26:** Chạy Trốn Vào Đêm
+- **Góc Nhìn:** A Ngốc
+- **Tóm tắt:** A Ngốc sống yên bình tại Làng Chặt Củi (Rìa Rừng Huyết Độc) và kết bạn với Tiểu Nha, Bác Hùng, Bà Còng. Huyết Thần Độc do Lệ Vô Tâm thả ra tràn tới giết sạch làng. A Ngốc nhờ Hỗn Độn Linh Căn miễn nhiễm, đau buồn sắp hoa lá đỏ cho người chết. Nỗi đau kích phát đột phá Luyện Khí Hậu Kỳ. Gặp nhóm Cửu Hoa và Lâm Phong nhưng sợ bị bắt nên chạy trốn.
+- **Tình trạng:** Hoàn thành Arc 4. Sẵn sàng viết Arc 5 (Ch.33-42) cho A Ngốc.

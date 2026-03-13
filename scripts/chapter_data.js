@@ -164,6 +164,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00022_Làng_Chặt_Củi.md",
       "title": "Chương 22: Làng Chặt Củi"
+    },
+    {
+      "filename": "Chương_00023_Yên_Bình_Mong_Manh.md",
+      "title": "Chương 23: Yên Bình Mong Manh"
+    },
+    {
+      "filename": "Chương_00024_Sương_Đỏ_Tràn_Về.md",
+      "title": "Chương 24: Sương Đỏ Tràn Về"
+    },
+    {
+      "filename": "Chương_00025_Hoa_Cho_Người_Ngủ.md",
+      "title": "Chương 25: Hoa Cho Người Ngủ"
+    },
+    {
+      "filename": "Chương_00026_Chạy_Trốn_Vào_Đêm.md",
+      "title": "Chương 26: Chạy Trốn Vào Đêm"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
