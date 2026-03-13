@@ -48,6 +48,10 @@
 - [Chương 32: Chạy Trốn Và Chia Tay](Chương_00032_Chạy_Trốn_Và_Chia_Tay.md)
 - [Chương 33: Những Người Ngủ Lạnh](Chương_00033_Những_Người_Ngủ_Lạnh.md)
 - [Chương 34: Giọt Nước Mắt Đột Phá](Chương_00034_Giọt_Nước_Mắt_Đột_Phá.md)
+- [Chương 35: Bước Chân Đơn Độc](Chương_00035_Bước_Chân_Đơn_Độc.md)
+- [Chương 36: Bóng Đen Trong Sương](Chương_00036_Bóng_Đen_Trong_Sương.md)
+- [Chương 37: Lối Thoát Tử Thần](Chương_00037_Lối_Thoát_Tử_Thần.md)
+- [Chương 38: Người Làm Lạnh](Chương_00038_Người_Làm_Lạnh.md)
 *(Đang cập nhật)*
 
 ## Arc 6: Bóng Ma Phía Trước (Chương 43-54)

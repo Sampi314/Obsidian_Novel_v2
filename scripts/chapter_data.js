@@ -212,6 +212,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00034_Giọt_Nước_Mắt_Đột_Phá.md",
       "title": "Chương 34: Giọt Nước Mắt Đột Phá"
+    },
+    {
+      "filename": "Chương_00035_Bước_Chân_Đơn_Độc.md",
+      "title": "Chương 35: Bước Chân Đơn Độc"
+    },
+    {
+      "filename": "Chương_00036_Bóng_Đen_Trong_Sương.md",
+      "title": "Chương 36: Bóng Đen Trong Sương"
+    },
+    {
+      "filename": "Chương_00037_Lối_Thoát_Tử_Thần.md",
+      "title": "Chương 37: Lối Thoát Tử Thần"
+    },
+    {
+      "filename": "Chương_00038_Người_Làm_Lạnh.md",
+      "title": "Chương 38: Người Làm Lạnh"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
