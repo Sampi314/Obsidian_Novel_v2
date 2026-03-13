@@ -12,18 +12,19 @@
 - **[Lịch Sử Gần Đây]**: Viết Chương 37-40 (Góc Nhìn Lâm Phong). Lâm Phong và Tĩnh Sương thoát khỏi Rừng Huyết Độc.
 - **[Lịch Sử Cũ]**: Viết Chương 41-44 (Góc Nhìn Lâm Phong). Lâm Phong và Tĩnh Sương thoát khỏi Rừng Huyết Độc đến Trạm Biên, gia nhập Thương Hội Bạch Lang và lên đường đến Cửu Hoa Kiếm Tông.
 - **[Tóm Tắt Khác]**: Lâm Phong phát hiện sự tồn tại của Huyết Sứ, bị truy sát và trốn khỏi Cửu Hoa Kiếm Tông. Bắt đầu hành trình tại Đông Hoang, đụng độ bầy Băng Lang.
+- **[Hôm nay]**: Viết Chương 59, 60 (Góc Nhìn Lâm Phong). Bị Huyết Sứ bao vây tại Vườn Dược Liệu, bắt đầu phá vây chạy trốn.
 
 ## PHIÊN GẦN NHẤT
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
-| Hôm nay | Tổng Quản | Viết Chương 31-34 (Góc Nhìn A Ngốc) | Hoàn Thành | Tiếp tục Arc 5 (Kẻ Săn Và Con Mồi). Phương Vô Kỵ dạy A Ngốc cách bỏ trốn và đánh lạc hướng kẻ săn đuổi (Chương 31, 32). A Ngốc lạc bước đến bãi tha ma do Lệ Vô Tâm tạo ra. Sự thương xót kích hoạt Hỗn Độn Linh Căn, đẩy A Ngốc đột phá lên Trúc Cơ Sơ Kỳ và thanh tẩy Huyết Sát Băng Độc (Chương 33, 34). Khởi đầu cấu trúc Gương Soi. |
-| Hôm nay | Tổng Quản | Viết Chương 29, 30 (Góc Nhìn A Ngốc) | Hoàn Thành | Bắt đầu Arc 5 (Kẻ Săn Và Con Mồi). A Ngốc miễn nhiễm Túy Mộng Đan của tán tu (Chương 29), sau đó bị Lục Độc Xà bắt và được Phương Vô Kỵ cứu, hai người bắt đầu đồng hành (Chương 30). |
-| Hôm nay | Tổng Quản | Viết Chương 27, 28 (Góc Nhìn A Ngốc) | Hoàn Thành | Viết Chương 27 (Trốn Chạy Trong Sương) và Chương 28 (Trở Về Làng Trống), hoàn thành Arc 4 cho A Ngốc. A Ngốc chạy trốn khỏi sự truy đuổi của Cửu Hoa Kiếm Tông giữa bầy quái thú điên loạn, sau đó trở về làng cũ chôn cất những người đã khuất bằng lá đỏ. |
-| Hôm nay | Tổng Quản | Viết Chương 65, 66 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 65 (Đêm Trong Rừng Tịch Liêu) và Chương 66 (Dấu Vết Băng Lang). Lâm Phong và Tĩnh Sương qua đêm cùng đứa bé sống sót, sau đó lần theo dấu vết Băng Lang Vương đến hang động sào huyệt của chúng. |
-| Hôm nay | Tổng Quản | Viết Chương 23-26 (Góc Nhìn A Ngốc) | Hoàn Thành | Viết xong Arc 4 cho A Ngốc (Chương 23-26) tại Rừng Huyết Độc. A Ngốc trải qua cuộc sống yên bình ngắn ngủi với Tiểu Nha trước khi Huyết Thần Độc tràn tới giết sạch làng. A Ngốc dùng lá đỏ viếng xác, đột phá Luyện Khí Hậu Kỳ từ nỗi đau, chạm mặt Lâm Phong và Cửu Hoa rồi chạy trốn vào đêm. |
-| Hôm nay | Tổng Quản | Viết Chương 17, 18 (Góc Nhìn A Ngốc) | Hoàn Thành | Viết Chương 17 (Điềm Xui Xẻo) và Chương 18 (Ký Ức Cơ Thể) cho A Ngốc. Chi tiết hậu quả sau cái chết của "Bạn Nhỏ", A Ngốc bị dân làng xua đuổi, dừng bài múa dẫn đến bức bối và cuối cùng múa lại theo bản năng, đột phá Luyện Khí Trung Kỳ. |
-| Hôm nay | Tổng Quản | Viết Chương 15, 16 (Góc Nhìn A Ngốc) | Hoàn Thành | Viết Chương 15 (Đổi Hoa Lấy Bánh) và Chương 16 (Người Bạn Mới) mở đầu Arc 3 cho A Ngốc. Thể hiện sự đối lập giữa tâm trí thuần khiết Vô Niệm của A Ngốc và thế giới phàm nhân/tu chân tàn nhẫn, kết thúc bằng cái chết của "Bạn Nhỏ". |
-| Hôm nay | Tổng Quản | Viết Chương 63, 64 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 63 (Tiến Vào Đông Hoang) và Chương 64 (Làng Hoang Giữa Rừng). Lâm Phong và Tĩnh Sương đến Đông Hoang, đụng độ bầy Băng Lang tấn công một ngôi làng và giải cứu một đứa trẻ sống sót. |
-| Hôm nay | Tổng Quản | Viết Chương 61, 62 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 61 (Vụ Nổ Kinh Thiên) và Chương 62 (Bóng Đêm Đào Tẩu). Lâm Phong dùng mũi tên bộc phá tạo vụ nổ kích hoạt cảnh báo nội môn Cửu Hoa. Huyết Sứ bỏ chạy trước ba vị Trưởng Lão. Lâm Phong và Tĩnh Sương thừa cơ trốn khỏi Cửu Hoa, hướng về Đông Hoang. |
-| Hôm nay | Tổng Quản | Viết Chương 59, 60 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 59 (Cạm Bẫy Bủa Vây) và Chương 60 (Huyết Sát Truy Kích). Lâm Phong và Tĩnh Sương phát hiện nước giếng chứa Huyết Thần Độc ngụy trang, nhận ra đây là bẫy của Huyết Sứ. Bị bao vây, cả hai phá vây chạy về phía Vườn Dược Liệu phía sau núi, đụng độ Huyết Sứ cấp bách truy sát. |
+| Hôm nay | Tổng Quản | Viết Chương 35-38 (Góc Nhìn A Ngốc) | Hoàn Thành | Tiếp tục Arc 5 (Kẻ Săn Và Con Mồi). A Ngốc vô tình thanh tẩy Huyết Sát Băng Độc trên xác thỏ rừng, thoát khỏi truy sát nhờ Hỗn Độn phòng ngự, đi xuyên qua Độc Vụ Cốc chết người của Lệ Vô Tâm và thanh tẩy một khu định cư, quyết tâm tìm "người làm lạnh". |
+| Hôm nay | Tổng Quản | Viết Chương 31-34 (Góc Nhìn A Ngốc) | Hoàn Thành | Tiếp tục Arc 5. A Ngốc học cách chạy trốn từ Phương Vô Kỵ, lạc đến bãi tha ma của Lệ Vô Tâm. Nỗi buồn kích hoạt Hỗn Độn Linh Căn, đẩy A Ngốc lên Trúc Cơ Sơ Kỳ. Khởi đầu Gương Soi. |
+| Hôm nay | Tổng Quản | Viết Chương 29, 30 (Góc Nhìn A Ngốc) | Hoàn Thành | Bắt đầu Arc 5. A Ngốc miễn nhiễm độc, được Phương Vô Kỵ cứu, hai người đồng hành. |
+| Hôm nay | Tổng Quản | Viết Chương 27, 28 (Góc Nhìn A Ngốc) | Hoàn Thành | Hoàn thành Arc 4. A Ngốc trốn khỏi Cửu Hoa Kiếm Tông, chôn cất người làng. |
+| Hôm nay | Tổng Quản | Viết Chương 65, 66 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Lần theo dấu Băng Lang Vương ở Đông Hoang. |
+| Hôm nay | Tổng Quản | Viết Chương 23-26 (Góc Nhìn A Ngốc) | Hoàn Thành | Arc 4: A Ngốc sống sót dịch Huyết Thần Độc, đột phá Luyện Khí Hậu Kỳ, chạm mặt Lâm Phong. |
+| Hôm nay | Tổng Quản | Viết Chương 17, 18 (Góc Nhìn A Ngốc) | Hoàn Thành | A Ngốc đột phá Luyện Khí Trung Kỳ do nỗi đau mất mát. |
+| Hôm nay | Tổng Quản | Viết Chương 15, 16 (Góc Nhìn A Ngốc) | Hoàn Thành | Mở đầu Arc 3: Sự đối lập của Vô Niệm và thế giới tàn nhẫn. |
+| Hôm nay | Tổng Quản | Viết Chương 63, 64 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Tiến vào Đông Hoang, cứu đứa trẻ. |
+| Hôm nay | Tổng Quản | Viết Chương 61, 62 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Vụ nổ ở Cửu Hoa, đào tẩu về Đông Hoang. |
