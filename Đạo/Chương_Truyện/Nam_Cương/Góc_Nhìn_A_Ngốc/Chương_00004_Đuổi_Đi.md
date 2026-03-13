@@ -45,7 +45,7 @@ Và rồi, sự kiên nhẫn của thôn làng đã cạn kiệt.
 
 Một buổi sáng âm u, trưởng thôn dẫn theo một đám thanh niên trai tráng, tay cầm gậy gộc, cuốc xẻng, tiến về phía gầm cầu. Vẻ mặt họ hầm hầm sát khí, quyết tâm tống khứ "cục bướu" này khỏi làng.
 
-"Thằng Ngốc! Lôi nó ra!" Trưởng thôn quát lớn, giọng khàn khàn.
+"Con Ngốc! Lôi nó ra!" Trưởng thôn quát lớn, giọng khàn khàn.
 
 Hai gã thanh niên nhảy xuống bùn, lôi xềnh xệch A Ngốc từ sau tảng đá ra ngoài. A Ngốc giãy giụa yếu ớt, ánh mắt hoảng sợ.
 

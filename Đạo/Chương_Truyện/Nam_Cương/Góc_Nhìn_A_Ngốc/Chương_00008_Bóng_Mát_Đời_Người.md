@@ -51,7 +51,7 @@ Những năm tháng đó, đối với một phàm nhân là cả một thời t
 
 "Hỗn Độn Linh Căn... nó không chỉ hấp thụ linh khí mà còn đồng hóa cả tuế nguyệt," Ông Già thường trầm ngâm suy nghĩ khi nhìn Mộc Nhi đuổi theo một con bướm.
 
-Đôi khi, để giải khuây cho thằng bé, Ông Già sẽ kể chuyện. Không phải những truyền thuyết về tiên nhân ngự kiếm phi hành, hay những trận đại chiến kinh thiên động địa. Lão kể những câu chuyện cổ tích ngô nghê nhất.
+Đôi khi, để giải khuây cho con bé, Ông Già sẽ kể chuyện. Không phải những truyền thuyết về tiên nhân ngự kiếm phi hành, hay những trận đại chiến kinh thiên động địa. Lão kể những câu chuyện cổ tích ngô nghê nhất.
 
 "Ngày xưa, có một con Thỏ Trắng muốn bay lên mặt trăng..." Ông Già bắt đầu, giọng đều đều.
 
@@ -73,6 +73,6 @@ Một đêm mùa thu, khi sương mù bắt đầu phủ kín khu rừng, Mộc 
 
 Mộc Nhi cười khúc khích, thỏa mãn với câu trả lời. "Ông Già là đom đóm bự nhất của Mộc Nhi. Ông Già sáng lắm."
 
-Trái tim già nua của vị Hóa Thần cường giả khẽ thắt lại. Một giọt nước mắt vô hình rơi xuống cõi lòng tĩnh lặng. Lão biết, thọ nguyên của mình không còn nhiều. Ngọn nến leo lét của sinh mệnh đang cạn dần dầu. Lão có thể là đom đóm bự nhất của thằng bé lúc này, nhưng khi đom đóm tắt đi, ai sẽ soi đường cho một tâm hồn ngây thơ lạc lối giữa khu rừng rậm rạp của cõi nhân sinh?
+Trái tim già nua của vị Hóa Thần cường giả khẽ thắt lại. Một giọt nước mắt vô hình rơi xuống cõi lòng tĩnh lặng. Lão biết, thọ nguyên của mình không còn nhiều. Ngọn nến leo lét của sinh mệnh đang cạn dần dầu. Lão có thể là đom đóm bự nhất của con bé lúc này, nhưng khi đom đóm tắt đi, ai sẽ soi đường cho một tâm hồn ngây thơ lạc lối giữa khu rừng rậm rạp của cõi nhân sinh?
 
 Sự bảo bọc của Ông Già là một bóng mát êm đềm, nhưng nó cũng là một sự che đậy trì hoãn một thực tại tàn khốc mà Mộc Nhi rồi sẽ phải đối mặt.

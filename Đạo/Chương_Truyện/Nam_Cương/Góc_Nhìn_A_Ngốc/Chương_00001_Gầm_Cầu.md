@@ -17,7 +17,7 @@ A Ngốc dùng những ngón tay đen nhẻm, nứt nẻ bới tung lớp bùn m
 
 Phía trên đỉnh đầu hắn, những tiếng bước chân thình thịch đạp lên mặt gỗ của cây cầu nối liền hai bờ thôn làng. Những bóng người vội vã lướt qua. Chẳng ai cúi nhìn xuống gầm cầu tối tăm, ẩm ướt, nơi có một sinh mạng đang lay lắt cố bám víu vào nhân gian.
 
-Năm tuổi? Hay sáu tuổi? A Ngốc không biết. Hắn chưa bao giờ biết đếm. Hắn chỉ biết rằng từ khi hắn có thể nhớ được, thế giới này chỉ là một khoảng không gian lạnh lẽo, đầy những khuôn mặt cau có và những cây gậy bằng trúc vung vẩy. Cha mẹ hắn là ai? Tại sao hắn lại ở đây? Hắn không hỏi, vì đầu óc hắn không thể chứa những câu hỏi phức tạp đến thế. Mọi người gọi hắn là "Thằng Ngốc", thế là hắn tin mình tên là Ngốc.
+Năm tuổi? Hay sáu tuổi? A Ngốc không biết. Hắn chưa bao giờ biết đếm. Hắn chỉ biết rằng từ khi hắn có thể nhớ được, thế giới này chỉ là một khoảng không gian lạnh lẽo, đầy những khuôn mặt cau có và những cây gậy bằng trúc vung vẩy. Cha mẹ hắn là ai? Tại sao hắn lại ở đây? Hắn không hỏi, vì đầu óc hắn không thể chứa những câu hỏi phức tạp đến thế. Mọi người gọi hắn là "Con Ngốc", thế là hắn tin mình tên là Ngốc.
 
 *Bốp!*
 

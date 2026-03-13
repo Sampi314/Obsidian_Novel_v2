@@ -17,7 +17,7 @@ Lửa cháy sáng rực cả một góc trời, tiếng la hét vẫn văng vẳ
 
 Tên sơn tặc đã bị những người đàn ông trong làng cầm cuốc xẻng đuổi đánh chạy đi rồi. Bọn họ tụ tập lại, dập tắt đám cháy. Trưởng làng chạy đến chỗ ta, thở hổn hển. Ông nhìn thấy Bạn Nhỏ, rồi nhìn ta, ánh mắt có chút thương hại, nhưng cũng có chút tức giận.
 
-"Cái thằng ngốc này, sao lúc nãy không chạy đi? Đứng đực ra đấy làm gì, tí nữa thì mất mạng rồi!"
+"Cái con ngốc này, sao lúc nãy không chạy đi? Đứng đực ra đấy làm gì, tí nữa thì mất mạng rồi!"
 
 Ta không trả lời, chỉ chậm rãi ôm lấy cơ thể lạnh ngắt của Bạn Nhỏ. Máu của nó dính đầy lên áo ta, ấm áp lúc đầu, giờ lại trở nên lạnh lẽo vô cùng.
 
@@ -25,7 +25,7 @@ Sáng hôm sau, mặt trời lại mọc, chim lại hót như chưa từng có 
 
 "Tôi đã bảo mà!" Bà ta rít lên với người bên cạnh. "Cái thằng ăn mày đó là điềm xui xẻo! Từ ngày nó bước chân vào làng, gà lợn nhà tôi bỏ ăn. Giờ thì sơn tặc đến cướp! Tất cả là tại nó mang xúi quẩy đến!"
 
-"Bà nói nhỏ thôi," một người đàn ông khuyên can. "Nó cũng chỉ là thằng ngốc, sức dài vai rộng làm được bao việc cho làng mình."
+"Bà nói nhỏ thôi," một người đàn ông khuyên can. "Nó cũng chỉ là con ngốc, sức dài vai rộng làm được bao việc cho làng mình."
 
 "Ngốc cái gì! Nó là quỷ xui xẻo thì có! Mấy người tu tiên hôm nọ đi qua chả bảo nó là 'phế vật' còn gì? Giữ loại người đó trong làng, có ngày cả làng này chết hết!"
 
@@ -33,7 +33,7 @@ Tiếng xì xầm to dần lên. Những ánh mắt từng nhìn ta hiền từ 
 
 Trưởng làng bước tới, vẻ mặt ái ngại. Ông ta vứt xuống đất trước mặt ta vài củ khoai lang luộc.
 
-"Ăn đi, rồi đi khỏi đây đi, cậu bé," trưởng làng thở dài. "Dân làng đang hoang mang. Cậu ở lại đây không tốt cho cả cậu lẫn chúng tôi đâu."
+"Ăn đi, rồi đi khỏi đây đi, cô bé," trưởng làng thở dài. "Dân làng đang hoang mang. Cậu ở lại đây không tốt cho cả cậu lẫn chúng tôi đâu."
 
 Ta nhìn mấy củ khoai, rồi lại nhìn trưởng làng. "Nhưng... ta vác lúa mì cho ông mà. Ta ngoan mà."
 

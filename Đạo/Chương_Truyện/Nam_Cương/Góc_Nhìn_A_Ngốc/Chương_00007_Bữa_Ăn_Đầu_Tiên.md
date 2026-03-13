@@ -13,7 +13,7 @@ A Ngốc ngồi xổm bên mép bờ suối nhỏ chảy ngang qua khu vực ẩ
 
 "Rát quá," hắn lầm bầm, nhăn mặt khi chà xát mạnh vào những vết trầy xước đang đóng vảy.
 
-Ông Già ngồi trên một phiến đá rêu phong gần đó, rít một hơi tẩu thuốc dài, nhả khói trắng mù mịt. Ánh mắt sâu thẳm của lão lão lướt qua cơ thể gầy gò, đầy những vết roi vọt và sẹo cũ của thằng bé. Lão từng thấy những tu sĩ chịu đựng sự tra tấn khủng khiếp của ma đạo, nhưng những vết thương trên người A Ngốc lại mang một ý nghĩa khác: chúng được gây ra bởi chính đồng loại phàm nhân của nó, không vì mục đích gì ngoài sự tàn ác bản năng đối với kẻ yếu.
+Ông Già ngồi trên một phiến đá rêu phong gần đó, rít một hơi tẩu thuốc dài, nhả khói trắng mù mịt. Ánh mắt sâu thẳm của lão lão lướt qua cơ thể gầy gò, đầy những vết roi vọt và sẹo cũ của con bé. Lão từng thấy những tu sĩ chịu đựng sự tra tấn khủng khiếp của ma đạo, nhưng những vết thương trên người A Ngốc lại mang một ý nghĩa khác: chúng được gây ra bởi chính đồng loại phàm nhân của nó, không vì mục đích gì ngoài sự tàn ác bản năng đối với kẻ yếu.
 
 "Kỳ mạnh vào. Nước suối ở đây có hòa lẫn một chút linh khí mộc hệ từ rễ Thần Mộc, sẽ giúp vết thương mau lành," Ông Già cất giọng khàn khàn. Lão ném cho A Ngốc một túm lá bồ kết rừng đã vò nát. "Dùng cái này chà lên tóc."
 

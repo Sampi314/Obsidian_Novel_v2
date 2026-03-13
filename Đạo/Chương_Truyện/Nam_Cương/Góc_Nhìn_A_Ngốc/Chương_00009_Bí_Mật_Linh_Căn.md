@@ -17,7 +17,7 @@ Mộc Nhi sợ sấm sét. Mỗi khi có tiếng nổ đùng đoàng vang lên, 
 
 Ông Già đang ngồi tĩnh tọa trên giường tre, chậm rãi mở mắt. Lão nhìn đứa trẻ to xác nhưng mang tâm hồn yếu ớt đang cuộn tròn trong góc. Tu sĩ tu tiên thường mượn lôi kiếp để rèn luyện nhục thân, đối với họ sấm sét là cơ hội ngộ đạo. Nhưng với Mộc Nhi, đó chỉ là một thế lực đáng sợ của tự nhiên.
 
-Lão khẽ thở dài, bước xuống giường, tiến lại gần Mộc Nhi. Lão xoa đầu thằng bé, truyền một chút linh khí nhu hòa để làm dịu cơn hoảng loạn của nó.
+Lão khẽ thở dài, bước xuống giường, tiến lại gần Mộc Nhi. Lão xoa đầu con bé, truyền một chút linh khí nhu hòa để làm dịu cơn hoảng loạn của nó.
 
 "Không sao, sấm chỉ là tiếng trống của trời thôi. Trời đánh trống để gọi mưa xuống, cho cây cỏ lớn lên. Mộc Nhi thích cây cỏ mà, đúng không?" Lão dùng giọng điệu dỗ dành trẻ con để an ủi.
 

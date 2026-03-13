@@ -33,9 +33,9 @@ Lão tên là vô danh, hoặc ít ra lão đã quên mất tên mình từ hàn
 
 Và rồi, lão tình cờ phát hiện ra A Ngốc ngã dưới hố bẫy.
 
-Ban đầu, lão chỉ định ném cho thằng bé một nắm thảo dược chữa thương. Lão không muốn rước thêm rắc rối. Nhưng khi thần thức của vị Hóa Thần cường giả lướt qua cơ thể nhỏ bé, lem luốc kia, lão đã sững sờ.
+Ban đầu, lão chỉ định ném cho con bé một nắm thảo dược chữa thương. Lão không muốn rước thêm rắc rối. Nhưng khi thần thức của vị Hóa Thần cường giả lướt qua cơ thể nhỏ bé, lem luốc kia, lão đã sững sờ.
 
-Một luồng khí tức hỗn độn, nguyên thủy, cuộn trào trong Đan Điền của thằng bé. Nó hoàn toàn vô tổ chức, hoang dã, nhưng lại ẩn chứa tiềm năng vô hạn. Một "Hỗn Độn Linh Căn" chân chính — thứ tồn tại chỉ được ghi chép trong những cổ tịch từ thời Thượng Cổ. Căn cốt được cho là gần gũi nhất với bản nguyên của Thiên Đạo.
+Một luồng khí tức hỗn độn, nguyên thủy, cuộn trào trong Đan Điền của con bé. Nó hoàn toàn vô tổ chức, hoang dã, nhưng lại ẩn chứa tiềm năng vô hạn. Một "Hỗn Độn Linh Căn" chân chính — thứ tồn tại chỉ được ghi chép trong những cổ tịch từ thời Thượng Cổ. Căn cốt được cho là gần gũi nhất với bản nguyên của Thiên Đạo.
 
 "Thằng nhãi này... rốt cuộc là yêu nghiệt phương nào?" Lão lẩm bẩm trong bụng khi vớt A Ngốc lên khỏi hố bẫy.
 
@@ -51,7 +51,7 @@ A Ngốc ăn xong bát cháo thứ hai, xoa xoa cái bụng căng tròn, ngửa 
 
 "Ngươi tên gì?" Lão hỏi.
 
-A Ngốc nghiêng đầu suy nghĩ. "Mọi người gọi ta là Ngốc. Thằng Ngốc."
+A Ngốc nghiêng đầu suy nghĩ. "Mọi người gọi ta là Ngốc. Con Ngốc."
 
 Lão cau mày. "Ngốc không phải là tên." Lão chỉ tay ra ngoài cửa chòi, nơi có một gốc Thần Mộc cổ thụ sừng sững, rễ cắm sâu vào lòng đất, tán lá che rợp cả một góc trời.
 
@@ -67,7 +67,7 @@ Lão cau mày. "Ngốc không phải là tên." Lão chỉ tay ra ngoài cửa c
 
 A Ngốc chớp mắt, đưa tay sờ sờ bụng mình. "Kho báu? Trong bụng có kho báu? Chắc là cháo thịt."
 
-Ông Già thở dài ngao ngán. Lão quyết định. Một Hỗn Độn Linh Căn mang theo tâm trí thiểu năng, nếu bị cuốn vào vòng xoáy tu chân giới, chắc chắn sẽ trở thành món đồ chơi bi thảm của những kẻ quyền lực. Lão sẽ không dạy thằng bé tu hành. Lão sẽ giấu kín linh căn của nó. Lão sẽ cho nó một cuộc sống bình yên, lay lắt như một phàm nhân bình thường trong khu rừng già này, đến khi lão nhắm mắt xuôi tay.
+Ông Già thở dài ngao ngán. Lão quyết định. Một Hỗn Độn Linh Căn mang theo tâm trí thiểu năng, nếu bị cuốn vào vòng xoáy tu chân giới, chắc chắn sẽ trở thành món đồ chơi bi thảm của những kẻ quyền lực. Lão sẽ không dạy con bé tu hành. Lão sẽ giấu kín linh căn của nó. Lão sẽ cho nó một cuộc sống bình yên, lay lắt như một phàm nhân bình thường trong khu rừng già này, đến khi lão nhắm mắt xuôi tay.
 
 "Nghỉ ngơi đi. Ngày mai, Ông Già sẽ dạy ngươi cách nhận biết rễ cây nào ăn được, rễ cây nào có độc." Ông Già quay lưng, nhóm lại bếp lửa.
 
