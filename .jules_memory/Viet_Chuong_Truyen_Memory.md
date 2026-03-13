@@ -9,12 +9,10 @@
 - [Phiên trước]: Viết Chương 59, 60. Lâm Phong và Tĩnh Sương dụ Huyết Sứ vào Vườn Thuốc Bỏ Hoang gần cấm địa nội môn để mượn đao giết người.
 
 ## PHIÊN GẦN NHẤT
-## Phiên làm việc: Viết Chương 23-26 (Góc Nhìn A Ngốc)
+## Phiên làm việc: Viết Chương 29, 30 (Góc Nhìn A Ngốc)
 - **Ngày:** Hôm nay
-- **Chương 23:** Yên Bình Mong Manh
-- **Chương 24:** Sương Đỏ Tràn Về
-- **Chương 25:** Hoa Cho Người Ngủ
-- **Chương 26:** Chạy Trốn Vào Đêm
+- **Chương 29:** Viên Kẹo Đắng
+- **Chương 30:** Người Khổng Lồ Tốt Bụng
 - **Góc Nhìn:** A Ngốc
-- **Tóm tắt:** A Ngốc sống yên bình tại Làng Chặt Củi (Rìa Rừng Huyết Độc) và kết bạn với Tiểu Nha, Bác Hùng, Bà Còng. Huyết Thần Độc do Lệ Vô Tâm thả ra tràn tới giết sạch làng. A Ngốc nhờ Hỗn Độn Linh Căn miễn nhiễm, đau buồn sắp hoa lá đỏ cho người chết. Nỗi đau kích phát đột phá Luyện Khí Hậu Kỳ. Gặp nhóm Cửu Hoa và Lâm Phong nhưng sợ bị bắt nên chạy trốn.
-- **Tình trạng:** Hoàn thành Arc 4. Sẵn sàng viết Arc 5 (Ch.33-42) cho A Ngốc.
+- **Tóm tắt:** Bắt đầu Arc 5 (Kẻ Săn Và Con Mồi). Lời đồn về "Hồn Nhiên Tử" lan truyền, A Ngốc bị các phe phái săn lùng. Hắn miễn nhiễm với Túy Mộng Đan của một tán tu (Chương 29), sau đó bị Lục Độc Xà dùng Tuyệt Linh Võng bắt sống. Tại trại giam, Phương Vô Kỵ vô tình đi ngang qua và ra tay cứu giúp (Chương 30), bắt đầu hành trình đồng hành giữa hai người.
+- **Tình trạng:** Đã hoàn thành Chương 29, 30. Sẵn sàng viết tiếp Chương 31-38 của Arc 5.
