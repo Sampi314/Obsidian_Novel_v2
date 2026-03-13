@@ -180,6 +180,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00026_Chạy_Trốn_Vào_Đêm.md",
       "title": "Chương 26: Chạy Trốn Vào Đêm"
+    },
+    {
+      "filename": "Chương_00027_Trốn_Chạy_Trong_Sương.md",
+      "title": "Chương 27: Trốn Chạy Trong Sương"
+    },
+    {
+      "filename": "Chương_00028_Trở_Về_Làng_Trống.md",
+      "title": "Chương 28: Trở Về Làng Trống"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -516,6 +524,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00064_Làng_Hoang_Giữa_Rừng.md",
       "title": "Chương 64: Làng Hoang Giữa Rừng"
+    },
+    {
+      "filename": "Chương_00065_Đêm_Trong_Rừng_Tịch_Liêu.md",
+      "title": "Chương 65: Đêm Trong Rừng Tịch Liêu"
+    },
+    {
+      "filename": "Chương_00066_Dấu_Vết_Băng_Lang.md",
+      "title": "Chương 66: Dấu Vết Băng Lang"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

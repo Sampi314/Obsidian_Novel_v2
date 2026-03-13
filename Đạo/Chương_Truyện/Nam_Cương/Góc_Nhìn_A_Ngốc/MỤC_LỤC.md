@@ -37,8 +37,10 @@
 - [Chương 24: Sương Đỏ Tràn Về](Chương_00024_Sương_Đỏ_Tràn_Về.md)
 - [Chương 25: Hoa Cho Người Ngủ](Chương_00025_Hoa_Cho_Người_Ngủ.md)
 - [Chương 26: Chạy Trốn Vào Đêm](Chương_00026_Chạy_Trốn_Vào_Đêm.md)
+- [Chương 27: Trốn Chạy Trong Sương](Chương_00027_Trốn_Chạy_Trong_Sương.md)
+- [Chương 28: Trở Về Làng Trống](Chương_00028_Trở_Về_Làng_Trống.md)
 
-## Arc 5: Kẻ Săn Và Con Mồi (Chương 27-36)
+## Arc 5: Kẻ Săn Và Con Mồi (Chương 29-38)
 *Giai đoạn Luyện Khí Hậu Kỳ đến Trúc Cơ Sơ Kỳ — Nam Cương đến Đông Hoang*
 *(Đang cập nhật)*
 

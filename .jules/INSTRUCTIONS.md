@@ -14,9 +14,9 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 64 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 66 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
-| Góc Nhìn A Ngốc | 26 | Arc 4 hoàn thành | Đang viết catch-up redesign (Task 8) |
+| Góc Nhìn A Ngốc | 28 | Arc 4 hoàn thành | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,8 +66,8 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Tiếp tục viết Góc Nhìn A Ngốc theo spec mới. Bắt đầu từ Arc 5 (Ch.27-36) "Kẻ Săn Và Con Mồi". **ĐỌC SPEC TRƯỚC:** `docs/superpowers/specs/2026-03-13-a-ngoc-arc-redesign.md`
-2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 65, 66... cho Góc Nhìn Lâm Phong. Tiếp tục hành trình tại Đông Hoang.
+1. **Redesign A Ngốc (Task 8)**: Tiếp tục viết Góc Nhìn A Ngốc theo spec mới. Bắt đầu từ Arc 5 (Ch.29-36) "Kẻ Săn Và Con Mồi". **ĐỌC SPEC TRƯỚC:** `docs/superpowers/specs/2026-03-13-a-ngoc-arc-redesign.md`
+2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 67, 68... cho Góc Nhìn Lâm Phong. Đối mặt với Băng Lang Vương ở hang động.
 3. **Mở rộng tuyến khu vực Arc 2**: Tất cả 5 tuyến đã hoàn thành Arc 1. Bắt đầu viết Arc 2.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
@@ -75,8 +75,8 @@
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 65, 66... cho Góc Nhìn Lâm Phong.
-- Tiếp tục hành trình Đông Hoang, bảo vệ đứa trẻ sống sót và đụng độ hoặc né tránh Băng Lang.
+- Tiếp tục viết chương 67, 68... cho Góc Nhìn Lâm Phong.
+- Lâm Phong và Diệp Tĩnh Sương thâm nhập vào sào huyệt của Băng Lang Vương để tìm cha mẹ đứa trẻ.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)

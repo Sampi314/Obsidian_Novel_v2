@@ -3,5 +3,5 @@
 - Quá Khứ Gần Nhất: Viết Góc Nhìn A Ngốc Arc 3 (Ch.15-18), bao gồm cái chết của Bạn Nhỏ và việc A Ngốc đột phá Luyện Khí Trung Kỳ do nỗi đau mất mát.
 
 ## PHIÊN GẦN NHẤT
-Hôm nay: Cập nhật Góc Nhìn A Ngốc theo spec redesign (Task 8). Đã viết Chương 19, 20, 21 (kết thúc Arc 3) và Chương 22 (mở đầu Arc 4). A Ngốc chứng kiến trận chiến Kim Đan, hóa giải uy áp nhờ Hỗn Độn Linh Căn, tạo ra lời đồn về "Hồn Nhiên Tử". Hắn rời bỏ con đường tàn khốc, chấp nhận sự cô đơn và múa bài Hỗn Nguyên Quy Nhất Quyết, sau đó tiến tới rìa Rừng Huyết Độc (Arc 4) và tìm được một thoáng ấm áp ở làng chặt củi.
-TODO phiên sau: Tiếp tục viết Góc Nhìn A Ngốc Arc 4 (Chương 23-26), diễn biến trận dịch Huyết Thần Độc và gặp gỡ Lâm Phong.
+Hôm nay: Cập nhật Góc Nhìn A Ngốc theo spec redesign (Task 8). Đã viết Chương 27, 28 hoàn thành Arc 4. A Ngốc chạy trốn khỏi Cửu Hoa và Lâm Phong, sau đó quay lại làng cũ để chôn cất bằng lá đỏ. Cũng đã viết Chương 65, 66 cho Góc Nhìn Lâm Phong, bắt đầu cuộc thâm nhập sào huyệt Băng Lang Vương ở Đông Hoang.
+TODO phiên sau: Tiếp tục viết Góc Nhìn A Ngốc Arc 5 (Chương 29-38), bắt đầu giai đoạn "Kẻ Săn Và Con Mồi". Tiếp tục viết Góc Nhìn Lâm Phong (Chương 67+), thám hiểm sào huyệt Băng Lang.

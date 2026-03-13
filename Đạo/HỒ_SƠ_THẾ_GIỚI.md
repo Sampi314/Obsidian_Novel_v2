@@ -67,11 +67,11 @@
 - **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chủng_Tộc_Chính.md`.
 
 ## V. Nhân Vật Tiêu Biểu
-- **A Ngốc (Hồn Nhiên Tử):** Tán tu Nhân tộc, Luyện Khí Hậu Kỳ. Là người mang Hỗn Độn Linh Căn nhưng tâm trí chỉ như một đứa trẻ (khoảng 5-7 tuổi). Năng lực Hỗn Độn tự động phản ứng bảo vệ và có khả năng miễn nhiễm mọi loại độc, bao gồm cả Huyết Thần Độc. Hành trình của hắn đang bước sang Arc 5. Vừa đột phá Luyện Khí Hậu Kỳ nhờ nỗi đau sau khi chứng kiến toàn bộ Làng Chặt Củi (Rìa Rừng Huyết Độc) bị Huyết Thần Độc tiêu diệt. Hắn vô tình tạo ra danh xưng "Hồn Nhiên Tử" sau khi đi xuyên qua một trận chiến Kim Đan mà không hề hấn gì. Đã có lần chạm mặt đầu tiên với Lâm Phong và nhóm đệ tử Cửu Hoa Kiếm Tông.
+- **A Ngốc (Hồn Nhiên Tử):** Tán tu Nhân tộc, Luyện Khí Hậu Kỳ. Là người mang Hỗn Độn Linh Căn nhưng tâm trí chỉ như một đứa trẻ (khoảng 5-7 tuổi). Năng lực Hỗn Độn tự động phản ứng bảo vệ và có khả năng miễn nhiễm mọi loại độc, bao gồm cả Huyết Thần Độc. Hành trình của hắn đang bước sang Arc 5. Vừa đột phá Luyện Khí Hậu Kỳ nhờ nỗi đau sau khi chứng kiến toàn bộ Làng Chặt Củi (Rìa Rừng Huyết Độc) bị Huyết Thần Độc tiêu diệt. Hắn vô tình tạo ra danh xưng "Hồn Nhiên Tử" sau khi đi xuyên qua một trận chiến Kim Đan mà không hề hấn gì. Đã có lần chạm mặt đầu tiên với Lâm Phong và nhóm đệ tử Cửu Hoa Kiếm Tông. Gần đây, hắn đã trốn thoát khỏi sự truy bắt của Cửu Hoa Kiếm Tông và quay lại Rừng Huyết Độc để chôn cất những người đã khuất.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/A_Ngốc.md`.
 - **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*. Đã rời khỏi Cửu Hoa Kiếm Tông và đang hướng về Đông Hoang cùng Lâm Phong.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md`.
-- **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật. Đã phá vỡ vòng vây của Huyết Sát Minh tại Cửu Hoa Kiếm Tông, đang tiến vào Đông Hoang.
+- **Lâm Phong (Truy Phong Khách):** Nam tán tu Nhân tộc, Luyện Khí Viên Mãn. Tính cách hào sảng, trọng tự do. Sở trường *Thanh Mộc Quyết* và Cung thuật. Đã phá vỡ vòng vây của Huyết Sát Minh tại Cửu Hoa Kiếm Tông, đang tiến vào Đông Hoang. Tại Rừng Tịch Liêu, hắn và Diệp Tĩnh Sương đã cứu một đứa bé và hiện đang thâm nhập sào huyệt của Băng Lang Vương để tìm kiếm cha mẹ đứa trẻ.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lâm_Phong.md`.
 - **Phương Vô Kỵ (Vô Diện Tú Sĩ):** Nam tán tu Nhân tộc, Trúc Cơ Viên Mãn. Tính cách lười biếng, vô sỉ nhưng ngộ tính tuyệt đỉnh. Đại diện "Vạn Pháp Giai Thông". Sở hữu *Thái Cực Vạn Pháp Quyết*. (Đang ở Đông Hoang)
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Phương_Vô_Kỵ.md`.
