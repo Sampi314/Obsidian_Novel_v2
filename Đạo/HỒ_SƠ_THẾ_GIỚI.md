@@ -446,3 +446,6 @@
     - [Thủy Kiếm Đảo](Thế_Lực/Thủy_Kiếm_Đảo.md)
     - [Bắc Hải Cự Yêu Hang](Thế_Lực/Bắc_Hải_Cự_Yêu_Hang.md)
     - [Phong Bạo Thương Đội](Thế_Lực/Phong_Bạo_Thương_Đội.md)
+
+### Các Sự Kiện Gần Đây (A Ngốc)
+- **Vạn Yêu Thành (Ch. 59-66):** A Ngốc đến thành trì hoang phế của Yêu Tộc tại Đông Hoang, dùng Hỗn Độn Linh Căn thanh tẩy Huyết Thần Độc cho các cô nhi Yêu Tộc. Trong lúc bảo vệ lũ trẻ khỏi Huyết Sát Minh, cái chết của một trưởng lão Yêu Tộc đã kích thích nỗi đau trong A Ngốc, tạo ra sóng xung kích Hỗn Độn khổng lồ, nghiền nát kẻ thù và giúp hắn vô thức đột phá Trúc Cơ Hậu Kỳ. Tuy nhiên, sức mạnh của hắn khiến những người sống sót khiếp sợ, và họ đã cầu xin hắn rời đi để không kéo theo thêm tai họa. A Ngốc tiếp tục hành trình vô định.
