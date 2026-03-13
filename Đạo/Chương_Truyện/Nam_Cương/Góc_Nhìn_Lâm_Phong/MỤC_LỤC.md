@@ -72,3 +72,5 @@
 - [Chương 50: Đệ Tử Ngoại Môn](Chương_00050_Đệ_Tử_Ngoại_Môn.md)
 - [Chương 51: Bóng Tối Ngoại Môn](Chương_00051_Bóng_Tối_Ngoại_Môn.md)
 - [Chương 52: Nhiệm Vụ Đầu Tiên](Chương_00052_Nhiệm_Vụ_Đầu_Tiên.md)
+- [Chương 53: Đối Mặt Quản Sự](Chương_00053_Đối_Mặt_Quản_Sự.md)
+- [Chương 54: Manh Mối Từ Xác Chết](Chương_00054_Manh_Mối_Từ_Xác_Chết.md)
