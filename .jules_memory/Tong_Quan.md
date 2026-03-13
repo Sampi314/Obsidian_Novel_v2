@@ -4,7 +4,8 @@
 - [Hôm nay]: Đã viết Chương 55-58 cho Góc Nhìn A Ngốc, mở đầu Arc 7 (Vạn Yêu Thành). A Ngốc cứu cô nhi Yêu Tộc, đẩy lui Huyết Sát Minh, đột phá Trúc Cơ Hậu Kỳ.
 
 ## PHIÊN GẦN NHẤT
-- Đã viết Chương 67-70 cho Góc Nhìn A Ngốc, mở đầu Arc 8 (Băng Nguyên Cô Tịch).
-- A Ngốc rời Đông Hoang đi về Bắc Băng theo sợi chỉ vô hình của Hỗn Độn linh căn cộng hưởng với Lệ Vô Tâm. Cậu lần đầu thấy tuyết, bắt gặp những nạn nhân bị Lệ Vô Tâm đóng băng và vô tư đắp tuyết cho họ. Sau đó gặp gỡ Sở Lăng Sương, người nhận ra cậu có thể đi xuyên qua Sương Độc vô hại. Cả hai bắt đầu đồng hành.
-- Cập nhật INSTRUCTIONS.md, HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md, chapter_data.js, MỤC_LỤC.md.
-- TODO: Tiếp tục hoàn thiện Arc 8 cho A Ngốc (Ch.71-78) hoặc chuyển qua catch-up Lâm Phong (Ch.67+).
+- Đã hoàn thành Arc 8 (Băng Nguyên Cô Tịch) cho Góc Nhìn A Ngốc bằng việc viết Chương 71-74.
+- A Ngốc và Sở Lăng Sương đi sâu vào trung tâm đổ nát của Băng Ngục Thành. Tại đây, A Ngốc trực tiếp cộng hưởng với tàn dư ma khí Hóa Thần do Lệ Vô Tâm để lại khi kết đan, khiến tu vi của hắn tiến sát ngưỡng Trúc Cơ Viên Mãn do thấu cảm với nỗi đau cùng cực của kẻ kia.
+- Lý Tuyết Ưng xuất hiện, khám phá ra Hỗn Độn Linh Căn và khả năng thanh tẩy ma khí/Huyết Thần Độc của A Ngốc. Nàng kinh hãi trước giá trị của hắn và ra lệnh cho Sở Lăng Sương phải bảo vệ hắn bằng mọi giá. Cả hai rời Bắc Băng về phương Nam.
+- Cập nhật INSTRUCTIONS.md, HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md, chapter_data.js, MỤC_LỤC.md. Frontend tests passed.
+- TODO: Chuyển sang viết Lệ Vô Tâm Bridge Arc (Ch.137-152) TRƯỚC khi viết Arc 9 cho A Ngốc, theo đúng spec redesign.

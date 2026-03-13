@@ -356,6 +356,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00070_Bước_Chân_Song_Hành.md",
       "title": "Chương 70: Bước Chân Song Hành"
+    },
+    {
+      "filename": "Chương_00071_Tàn_Tích_Thành_Băng.md",
+      "title": "Chương 71: Tàn Tích Thành Băng"
+    },
+    {
+      "filename": "Chương_00072_Dấu_Vết_Của_Ác_Ma.md",
+      "title": "Chương 72: Dấu Vết Của Ác Ma"
+    },
+    {
+      "filename": "Chương_00073_Người_Áo_Trắng.md",
+      "title": "Chương 73: Người Áo Trắng"
+    },
+    {
+      "filename": "Chương_00074_Mệnh_Lệnh_Bảo_Vệ.md",
+      "title": "Chương 74: Mệnh Lệnh Bảo Vệ"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
