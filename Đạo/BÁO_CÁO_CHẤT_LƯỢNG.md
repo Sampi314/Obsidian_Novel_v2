@@ -18,6 +18,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 43-45 (Góc Nhìn A Ngốc) | Hoàn Thành | Bắt đầu Arc 6 (Bóng Ma Phía Trước). A Ngốc bước vào Vĩnh Hằng Sâm Lâm, cứu Lục Tiêu khỏi Huyết Thần Độc. Thiết lập kết nối đầu tiên với Tinh Linh Tộc. |
 | Hôm nay | Tổng Quản | Viết Chương 39-42 (Góc Nhìn A Ngốc) | Hoàn Thành | Hoàn thành Arc 5 (Kẻ Săn Và Con Mồi). A Ngốc bị bắt bớ bởi tán tu, được Phương Vô Kỵ cứu và dạy cách chạy trốn. Nỗi buồn khi chứng kiến bãi tha ma của Lệ Vô Tâm kích hoạt Hỗn Độn Linh Căn, đẩy nàng lên Trúc Cơ Sơ Kỳ. |
 | Hôm nay | Tổng Quản | Viết Chương 35-38 (Góc Nhìn A Ngốc) | Hoàn Thành | Tiếp tục Arc 5 (Kẻ Săn Và Con Mồi). A Ngốc vô tình thanh tẩy Huyết Sát Băng Độc trên xác thỏ rừng, thoát khỏi truy sát nhờ Hỗn Độn phòng ngự, đi xuyên qua Độc Vụ Cốc chết người của Lệ Vô Tâm và thanh tẩy một khu định cư, quyết tâm tìm "người làm lạnh". |
 | Hôm nay | Tổng Quản | Viết Chương 31-34 (Góc Nhìn A Ngốc) | Hoàn Thành | Tiếp tục Arc 5. A Ngốc học cách chạy trốn từ Phương Vô Kỵ, lạc đến bãi tha ma của Lệ Vô Tâm. Nỗi buồn kích hoạt Hỗn Độn Linh Căn, đẩy A Ngốc lên Trúc Cơ Sơ Kỳ. Khởi đầu Gương Soi. |

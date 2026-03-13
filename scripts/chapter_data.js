@@ -244,6 +244,18 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00042_Nước_Mắt_Trúc_Cơ.md",
       "title": "Chương 42: Nước Mắt Đột Phá"
+    },
+    {
+      "filename": "Chương_00043_Bước_Chân_Vào_Rừng_Thẳm.md",
+      "title": "Chương 43: Bước Chân Vào Rừng Thẳm"
+    },
+    {
+      "filename": "Chương_00044_Người_Của_Cây.md",
+      "title": "Chương 44: Người Của Cây"
+    },
+    {
+      "filename": "Chương_00045_Chị_Lá.md",
+      "title": "Chương 45: Chị Lá"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

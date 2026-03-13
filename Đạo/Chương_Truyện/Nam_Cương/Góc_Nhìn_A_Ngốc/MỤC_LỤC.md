@@ -59,6 +59,9 @@
 
 ## Arc 6: Bóng Ma Phía Trước (Chương 43-54)
 *Giai đoạn Trúc Cơ Sơ-Trung Kỳ — Đông Hoang*
+- [Chương 43: Bước Chân Vào Rừng Thẳm](Chương_00043_Bước_Chân_Vào_Rừng_Thẳm.md)
+- [Chương 44: Người Của Cây](Chương_00044_Người_Của_Cây.md)
+- [Chương 45: Chị Lá](Chương_00045_Chị_Lá.md)
 *(Đang cập nhật)*
 
 ## Arc 7: Vạn Yêu Thành (Chương 55-66)
