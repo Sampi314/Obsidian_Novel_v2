@@ -378,6 +378,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00054_Manh_Mối_Từ_Xác_Chết.md",
       "title": "Chương 54: Manh Mối Từ Xác Chết"
+    },
+    {
+      "filename": "Chương_00055_Dấu_Vết_Kẻ_Phản_Bội.md",
+      "title": "Chương 55: Dấu Vết Kẻ Phản Bội"
+    },
+    {
+      "filename": "Chương_00056_Cuộc_Gặp_Gỡ_Bí_Mật.md",
+      "title": "Chương 56: Cuộc Gặp Gỡ Bí Mật"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

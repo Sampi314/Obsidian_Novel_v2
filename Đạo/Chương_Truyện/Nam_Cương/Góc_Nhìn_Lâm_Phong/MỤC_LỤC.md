@@ -74,3 +74,5 @@
 - [Chương 52: Nhiệm Vụ Đầu Tiên](Chương_00052_Nhiệm_Vụ_Đầu_Tiên.md)
 - [Chương 53: Đối Mặt Quản Sự](Chương_00053_Đối_Mặt_Quản_Sự.md)
 - [Chương 54: Manh Mối Từ Xác Chết](Chương_00054_Manh_Mối_Từ_Xác_Chết.md)
+- [Chương 55: Dấu Vết Kẻ Phản Bội](Chương_00055_Dấu_Vết_Kẻ_Phản_Bội.md)
+- [Chương 56: Cuộc Gặp Gỡ Bí Mật](Chương_00056_Cuộc_Gặp_Gỡ_Bí_Mật.md)

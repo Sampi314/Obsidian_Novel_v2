@@ -3,6 +3,10 @@
 ## LỊCH SỬ (Tóm Tắt)
 - **Tự động nén (Auto-compact):** Lịch sử phát triển đã ghi nhận việc khởi tạo thế giới, các chủng tộc, hệ thống tu luyện, nhân vật và sự kiện từ Arc 1 đến Arc 6 của cả Góc Nhìn Chính và Lệ Vô Tâm. Bao gồm mở rộng thế lực, cập nhật Hồ sơ Thế giới, sửa lỗi tham chiếu, và viết catch-up góc nhìn Lâm Phong (Chương 4-32) cùng các diễn biến tại Băng Ngục Thành. Các log cũ (trước 10 dòng gần nhất) đã được tóm lược để tiết kiệm bộ nhớ.
 - **[Hôm nay]**: Lâm Phong catch-up Chương 6-17, 21-32: Thoát khỏi Khe Nứt Sinh Tử, khám phá Hang Động Nhện Quỷ, đánh bại Lão Chu và Mặc Dơi, tìm được thuốc giải Huyết Thần Độc.
+- **[Hôm nay]**: Viết Chương 35, 36 (Góc Nhìn Lâm Phong)
+- **[Hôm nay]**: Viết Chương 33, 34 (Góc Nhìn Lâm Phong)
+- **[Hôm nay]**: Viết Chương 31, 32 (Góc Nhìn Lâm Phong)
+- **[Hôm nay]**: Viết Chương 29, 30 (Góc Nhìn Lâm Phong)
 - **[Lịch Sử Gần Đây]**: Lâm Phong catch-up Chương 21, 22: Rời Khe Nứt Sinh Tử, vượt qua Vùng Đất Chết và tiêu diệt sinh vật bán dẫn.
 - **[Hôm qua]**: Cập nhật hồ sơ Hang Động Nhện Quỷ (Mạch Ngầm). Catch-up Lâm Phong: Chương 25, 26. Lâm Phong và Tĩnh Sương theo dấu vết Vạn Độc Môn dưới dòng sông ngầm, đụng độ Hắc Lân Thủy Xà.
 
@@ -10,6 +14,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 55, 56 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 55 (Dấu Vết Kẻ Phản Bội) và Chương 56 (Cuộc Gặp Gỡ Bí Mật). Lâm Phong và Diệp Tĩnh Sương theo dõi Triệu Hùng và phát hiện ra sự tồn tại của một Huyết Sứ đang điều hành mạng lưới Huyết Sát Minh tại Cửu Hoa Kiếm Tông. |
 | Hôm nay | Tổng Quản | Viết Chương 53, 54 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 53 (Đối Mặt Quản Sự) và Chương 54 (Manh Mối Từ Xác Chết). Lâm Phong và Tĩnh Sương tiếp tục điều tra quản sự béo phệ, phát hiện thêm cái chết bí ẩn của một đệ tử ngoại môn và nhặt được ngọc bài của Triệu Hùng, cho thấy sự tàn ác của Huyết Thần Độc. |
 | Hôm nay | Tổng Quản | Viết Chương 51, 52 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 51 (Bóng Tối Ngoại Môn) và Chương 52 (Nhiệm Vụ Đầu Tiên). Lâm Phong theo dõi quản sự phát hiện Huyết Sát Minh đang rải "Huyết Mạch Tinh" khống chế đệ tử ngoại môn. Sáng hôm sau, nhận nhiệm vụ quét dọn để trở lại hiện trường và phát hiện "Tử Xà Đằng", xác nhận sự nhúng tay của Vạn Độc Môn. |
 | Hôm nay | Tổng Quản | Viết Chương 49, 50 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 49 (Bước Lên Thềm Đá) và Chương 50 (Đệ Tử Ngoại Môn). Lâm Phong và Diệp Tĩnh Sương vượt qua khảo nghiệm cuối cùng (Cửu Hoa Thiên Giai) bằng cách giấu thực lực, được phân vào khu nhà tranh ngoại môn. Lâm Phong phát hiện manh mối Huyết Sát Minh đã trà trộn vào nội bộ Cửu Hoa. |
@@ -19,7 +24,3 @@
 | Hôm nay | Tổng Quản | Viết Chương 41, 42 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 41 (Bầu Trời Tự Do) và Chương 42 (Trạm Nghỉ Chân). Lâm Phong và Diệp Tĩnh Sương thoát khỏi Rừng Huyết Độc, đến Trạm Biên thu thập tin tức và quyết định gia nhập thương đoàn để đi đến Cửu Hoa Kiếm Tông. |
 | Hôm nay | Tổng Quản | Viết Chương 39, 40 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 39 (Lối Thoát Trong Màn Đêm) và Chương 40 (Rìa Rừng Đẫm Máu). Lâm Phong và Tĩnh Sương tìm đường thoát khỏi Rừng Huyết Độc, phá vây thành công và chính thức bước ra thế giới bên ngoài. |
 | Hôm nay | Tổng Quản | Viết Chương 37, 38 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 37 (Dấu Vết Huyết Sát) và Chương 38 (Phản Sát Trong Sương). Lâm Phong và Tĩnh Sương nhận ra họ đang bị truy sát bởi Huyết Sát Minh và thiết lập bẫy rập để phản phục kích, tiêu diệt nhóm sát thủ. |
-| Hôm nay | Tổng Quản | Viết Chương 35, 36 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 35 (Cạm Bẫy Huyết Đằng) và Chương 36 (Sát Cơ Tiềm Ẩn). Lâm Phong và Tĩnh Sương đối mặt với bầy Huyết Đằng và tiêu diệt một sát thủ Trúc Cơ của Huyết Sát Minh. |
-| Hôm nay | Tổng Quản | Viết Chương 33, 34 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 33 (Dấu Vết Sinh Tồn) và Chương 34 (Bóng Đêm Săn Đuổi). Cả hai che giấu dấu vết sinh tồn tại Rừng Huyết Độc, sau đó phối hợp tiêu diệt nhóm Huyết Vệ trong đêm tối. |
-| Hôm nay | Tổng Quản | Viết Chương 31, 32 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 31 (Thuốc Giải Hiệu Nghiệm) và Chương 32 (Ánh Sáng Đầu Ngày). Lâm Phong và Tĩnh Sương khôi phục sức mạnh nhờ thuốc áp chế, kết hợp đánh bại Lão Chu và trốn thoát khỏi Sào Huyệt ngầm (Hang Động Nhện Quỷ), bước lên mặt đất Rừng Huyết Độc. |
-| Hôm nay | Tổng Quản | Viết Chương 29, 30 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 29 (Qua Cửa Tử Vong) và Chương 30 (Sào Huyệt Lão Chu). Cập nhật Cổng Tử Vong và tạo hồ sơ Mặc Dơi. Lâm Phong thâm nhập sào huyệt ngầm, đánh bại Mặc Dơi và đoạt được thuốc áp chế Huyết Thần Độc. |
