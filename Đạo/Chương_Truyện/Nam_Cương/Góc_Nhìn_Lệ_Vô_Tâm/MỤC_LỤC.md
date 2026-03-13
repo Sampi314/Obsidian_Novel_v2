@@ -155,3 +155,10 @@
 - [Chương 134: Cơn Ác Mộng Trở Về](Chương_00134_Cơn_Ác_Mộng_Trở_Về.md)
 - [Chương 135: Quyền Lực Mới](Chương_00135_Quyền_Lực_Mới.md)
 - [Chương 136: Nước Cờ Đầu Tiên](Chương_00136_Nước_Cờ_Đầu_Tiên.md)
+
+## Arc Sụp Đổ — Cơn Bão Ba Mặt (Chương 137-140)
+
+- [Chương 137: Trở Lại Cố Hương](Chương_00137_Trở_Lại_Cố_Hương.md)
+- [Chương 138: Thanh Trừng Dị Kỷ](Chương_00138_Thanh_Trừng_Dị_Kỷ.md)
+- [Chương 139: Băng Độc Pháo Đài](Chương_00139_Băng_Độc_Pháo_Đài.md)
+- [Chương 140: Bão Táp Sắp Tới](Chương_00140_Bão_Táp_Sắp_Tới.md)

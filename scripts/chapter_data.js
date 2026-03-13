@@ -1258,6 +1258,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00136_Nước_Cờ_Đầu_Tiên.md",
       "title": "Chương 136: Nước Cờ Đầu Tiên"
+    },
+    {
+      "filename": "Chương_00137_Trở_Lại_Cố_Hương.md",
+      "title": "Chương 137: Trở Lại Cố Hương"
+    },
+    {
+      "filename": "Chương_00138_Thanh_Trừng_Dị_Kỷ.md",
+      "title": "Chương 138: Thanh Trừng Dị Kỷ"
+    },
+    {
+      "filename": "Chương_00139_Băng_Độc_Pháo_Đài.md",
+      "title": "Chương 139: Băng Độc Pháo Đài"
+    },
+    {
+      "filename": "Chương_00140_Bão_Táp_Sắp_Tới.md",
+      "title": "Chương 140: Bão Táp Sắp Tới"
     }
   ],
   "Góc_Nhìn_Lục_Trần": [
