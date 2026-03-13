@@ -256,6 +256,42 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00045_Chị_Lá.md",
       "title": "Chương 45: Chị Lá"
+    },
+    {
+      "filename": "Chương_00046_Đi_Tìm_Bánh_Bao.md",
+      "title": "Chương 46: Đi Tìm Bánh Bao"
+    },
+    {
+      "filename": "Chương_00047_Đứa_Trẻ_Yêu_Tộc.md",
+      "title": "Chương 47: Đứa Trẻ Yêu Tộc"
+    },
+    {
+      "filename": "Chương_00048_Cây_Đau_Ốm.md",
+      "title": "Chương 48: Cây Đau Ốm"
+    },
+    {
+      "filename": "Chương_00049_Báo_Cáo_Của_Trinh_Sát.md",
+      "title": "Chương 49: Báo Cáo Của Trinh Sát"
+    },
+    {
+      "filename": "Chương_00050_Vệ_Binh_Rừng_Sâu.md",
+      "title": "Chương 50: Vệ Binh Rừng Sâu"
+    },
+    {
+      "filename": "Chương_00051_Lệnh_Từ_Nữ_Vương.md",
+      "title": "Chương 51: Lệnh Từ Nữ Vương"
+    },
+    {
+      "filename": "Chương_00052_Sự_Chia_Cắt.md",
+      "title": "Chương 52: Sự Chia Cắt"
+    },
+    {
+      "filename": "Chương_00053_Lại_Một_Mình.md",
+      "title": "Chương 53: Lại Một Mình"
+    },
+    {
+      "filename": "Chương_00054_Đột_Phá_Trong_Cô_Độc.md",
+      "title": "Chương 54: Đột Phá Trong Cô Độc"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
