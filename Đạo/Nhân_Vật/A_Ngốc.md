@@ -1,10 +1,10 @@
 # HỒ SƠ NHÂN VẬT: A NGỐC (阿傻)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Tên thường gọi:** A Ngốc (阿傻) — "Thằng Ngốc", tên mọi người gọi hắn.
-- **Tên thật:** Mộc Nhi (木兒) — "Đứa trẻ của cây", tên ông già đặt cho hắn khi nhặt được hắn trong rừng.
-- **Đạo Hiệu:** Hồn Nhiên Tử (浑然子) — "Kẻ Hồn Nhiên Tuyệt Đối", danh xưng mà những tu sĩ từng chứng kiến năng lực bất khả tư nghị của hắn đặt cho ở giai đoạn Nguyên Anh.
-- **Giới Tính:** Nam.
+- **Tên thường gọi:** A Ngốc (阿傻) — "Con Ngốc", tên mọi người gọi nàng.
+- **Tên thật:** Mộc Nhi (木兒) — "Đứa trẻ của cây", tên ông già đặt cho nàng khi nhặt được nàng trong rừng.
+- **Đạo Hiệu:** Hồn Nhiên Tử (浑然子) — "Kẻ Hồn Nhiên Tuyệt Đối", danh xưng mà những tu sĩ từng chứng kiến năng lực bất khả tư nghị của nàng đặt cho ở giai đoạn Nguyên Anh.
+- **Giới Tính:** Nữ.
 - **Tuổi:** Khoảng 400-500 tuổi. Ngoại hình vĩnh viễn dừng lại ở khoảng 20 tuổi từ Arc 3 trở đi.
 - **Chủng Tộc:** Nhân Tộc.
 - **Thân Phận:**
@@ -13,18 +13,18 @@
     - Cô nhi được lão ẩn sĩ vô danh (Ông Già) nuôi dưỡng.
     - Tán tu lang bạt — nhưng bản thân không biết mình là tu sĩ.
 - **Linh Căn:** Hỗn Độn Linh Căn (混沌灵根) — Căn cốt Ngũ Hành Hỗn Độn.
-    - *Ghi chú:* Ngũ hành lẫn lộn thành một khối nguyên thủy. Hầu hết tông phái coi đây là "phế linh căn". Nhưng thực chất, Hỗn Độn Linh Căn gần nhất với trạng thái hồng hoang nguyên thủy của vũ trụ. Tâm trí trống rỗng như tờ giấy trắng của A Ngốc là vật chủ hoàn hảo nhất. Năng lực Hỗn Độn này mang lại cho hắn khả năng miễn nhiễm tuyệt đối với mọi loại độc dược, bao gồm cả Huyết Thần Độc.
+    - *Ghi chú:* Ngũ hành lẫn lộn thành một khối nguyên thủy. Hầu hết tông phái coi đây là "phế linh căn". Nhưng thực chất, Hỗn Độn Linh Căn gần nhất với trạng thái hồng hoang nguyên thủy của vũ trụ. Tâm trí trống rỗng như tờ giấy trắng của A Ngốc là vật chủ hoàn hảo nhất. Năng lực Hỗn Độn này mang lại cho nàng khả năng miễn nhiễm tuyệt đối với mọi loại độc dược, bao gồm cả Huyết Thần Độc.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
 - **Ngoại Hình:**
-    - Dáng người trung bình, hơi gầy, da ngăm ngăm vì lang bạt ngoài trời.
+    - Dáng người nhỏ nhắn, hơi gầy, da ngăm ngăm vì lang bạt ngoài trời.
     - Tóc đen dài bù xù, thường có lá cây, cành nhỏ hoặc cánh bướm vướng trong đó.
     - Mặc một bộ y phục vải thô sờn rách, không giày (thích đi chân đất vì "đất mát lắm").
     - Nụ cười ngây ngô thường trực, đôi mắt to tròn đen láy, ánh mắt trong veo như đứa trẻ.
-    - Luôn mang theo một cuộn tranh cũ kỹ (bí kíp công pháp của Ông Già — hắn chỉ nhìn hình vẽ).
-    - Khí chất: phàm nhân thấy hắn thì thương hại (nghĩ hắn ngốc), nhưng cường giả cảm nhận được một luồng khí tức thâm sâu khó lường ẩn bên trong.
+    - Luôn mang theo một cuộn tranh cũ kỹ (bí kíp công pháp của Ông Già — nàng chỉ nhìn hình vẽ).
+    - Khí chất: phàm nhân thấy nàng thì thương hại (nghĩ nàng ngốc), nhưng cường giả cảm nhận được một luồng khí tức thâm sâu khó lường ẩn bên trong.
 - **Tính Cách:**
-    - **Hồn nhiên vô tà:** Tâm trí của đứa trẻ 5-7 tuổi trong thân xác người lớn. Vui vẻ, tò mò, dễ cười dễ khóc.
+    - **Hồn nhiên vô tà:** Tâm trí của đứa trẻ 5-7 tuổi trong thân xác thiếu nữ. Vui vẻ, tò mò, dễ cười dễ khóc.
     - **Thích:** Bướm, nắng ấm, đồ ăn ngon (đặc biệt là bánh ngọt), động vật, hoa, nước chảy.
     - **Sợ:** Sấm sét (sẽ khóc và bịt tai), người la mắng, bóng tối (khi không có sao trời).
     - **Vô phân biệt:** Không hiểu giai cấp xã hội. Đối xử với ăn mày và Tông Chủ giống hệt nhau.
@@ -32,8 +32,8 @@
     - **Không hiểu cái chết:** Nghĩ người chết là "ngủ lâu lắm", không sợ chết vì không hiểu khái niệm này.
 - **Đạo Tâm:**
     - Trạng thái **"Vô Niệm" (無念)** hoàn hảo. Không dục vọng, không chấp niệm, không sợ hãi, không tự ngã.
-    - Tâm Ma không thể xâm nhập hắn — vì không có gì để bám vào.
-    - Thiên Kiếp cũng khó hạ hắn — vì Lôi Kiếp nhắm vào "nghịch thiên chi ý", mà hắn không hề có ý muốn nghịch trời.
+    - Tâm Ma không thể xâm nhập nàng— vì không có gì để bám vào.
+    - Thiên Kiếp cũng khó hạ nàng— vì Lôi Kiếp nhắm vào "nghịch thiên chi ý", mà nàng không hề có ý muốn nghịch trời.
     - **Triết lý vô tình thâm sâu:**
         - *"Nước chảy vì nước muốn chảy thôi mà."*
         - *"Ta không biết ta mạnh. Ta chỉ biết buổi sáng phải múa."*
@@ -70,14 +70,14 @@
           > Không tâm mà động, trời đất tự thuận theo.
           > Không tranh không lấy, Đạo tự tìm về thân.
 - **Năng lực chiến đấu:**
-    - A Ngốc không "chiến đấu". Khi bị tấn công, **Hỗn Độn chi lực tự động phản ứng** bảo vệ hắn như bản năng.
+    - A Ngốc không "chiến đấu". Khi bị tấn công, **Hỗn Độn chi lực tự động phản ứng** bảo vệ nàng như bản năng.
     - Miễn nhiễm hoàn toàn với mọi loại độc tố (đặc biệt là Huyết Thần Độc) nhờ khả năng thanh tẩy của Hỗn Độn chi lực.
 
 ## IV. CỐT TRUYỆN & SỰ KIỆN
 - **Quá Khứ (Arc 1-2):**
     - Sinh ra là một phàm nhân bị thiểu năng trí tuệ, bị cha mẹ bỏ rơi.
     - Sống lay lắt bằng nghề ăn xin trong một ngôi làng nhỏ ở Nam Cương, chịu đựng sự đánh đập bạo hành hàng ngày. Sự ấm áp duy nhất đến từ một bà lão góa, nhưng rồi bà cũng qua đời. Bị dân làng đuổi vào rừng sâu.
-    - Được một lão ẩn sĩ (Ông Già) tìm thấy lúc sắp chết đói. Ông Già nhận ra Hỗn Độn Linh Căn nhưng quyết định giấu đi, chỉ dạy hắn "bài múa buổi sáng" (Hỗn Nguyên Quy Nhất Quyết) như một trò chơi.
+    - Được một lão ẩn sĩ (Ông Già) tìm thấy lúc sắp chết đói. Ông Già nhận ra Hỗn Độn Linh Căn nhưng quyết định giấu đi, chỉ dạy nàng"bài múa buổi sáng" (Hỗn Nguyên Quy Nhất Quyết) như một trò chơi.
     - Vài thập kỷ sau, Ông Già cạn thọ nguyên qua đời. A Ngốc bắt đầu hành trình lang bạt.
 - **Hành Trình Gương Soi (Arc 3-8):**
     - A Ngốc vô tình đi theo những dấu vết tàn phá mà **Lệ Vô Tâm** để lại trên khắp Cố Nguyên Giới (Gương Soi). Người đọc thấy Lệ Vô Tâm hủy diệt, rồi thấy A Ngốc đi ngang qua những đống đổ nát đó với ánh mắt ngây thơ, không hiểu chuyện gì. (Đang diễn ra ở Arc 3)
@@ -90,15 +90,15 @@
 
 ## V. CÁC MỐI QUAN HỆ CHÍNH
 - **Lão Ẩn Sĩ (Ông Già):** Ân nhân, người duy nhất cho A Ngốc tình thương vô điều kiện trong suốt nhiều trăm năm.
-- **Lệ Vô Tâm:** Mối quan hệ quan trọng nhất. "Gương Soi" của đời nhau. Lệ Vô Tâm là điểm phá vỡ mô típ bi kịch của A Ngốc (mọi người hắn yêu thương đều chết hoặc rời đi) — Lệ Vô Tâm là người đầu tiên **ở lại**.
+- **Lệ Vô Tâm:** Mối quan hệ quan trọng nhất. "Gương Soi" của đời nhau. Lệ Vô Tâm là điểm phá vỡ mô típ bi kịch của A Ngốc (mọi người nàng yêu thương đều chết hoặc rời đi) — Lệ Vô Tâm là người đầu tiên **ở lại**.
 - **Lâm Phong:** Gặp gỡ chớp nhoáng tại Rừng Huyết Độc (Arc 4), sau này gặp lại ở Arc 14. Lâm Phong luôn đối xử tốt với A Ngốc.
 - **Phương Vô Kỵ:** Gặp gỡ ở Arc 5. Hai kẻ "phế linh căn" (Ngũ Hành Tạp vs Hỗn Độn), một kẻ thông minh tuyệt đỉnh, một kẻ ngây ngốc nhất. Vô Kỵ dạy A Ngốc cách chạy trốn.
 - **Lục Tiêu (Chị Lá):** Gặp gỡ ở Đông Hoang (Arc 6). A Ngốc dùng sức mạnh thanh tẩy Huyết Thần Độc cho nàng.
-- **Nguyệt Dao, Nham Thần, Sở Lăng Sương, Lý Tuyết Ưng:** Đều chạm trán A Ngốc trên hành trình và nhận ra sự đặc biệt vô song của Hỗn Độn Linh Căn và trạng thái Vô Niệm của hắn.
+- **Nguyệt Dao, Nham Thần, Sở Lăng Sương, Lý Tuyết Ưng:** Đều chạm trán A Ngốc trên hành trình và nhận ra sự đặc biệt vô song của Hỗn Độn Linh Căn và trạng thái Vô Niệm của nàng.
 
 ## VI. VAI TRÒ TRONG CỐT TRUYỆN
 - **Sự Tương Phản Tối Đa:** Sự tồn tại của A Ngốc là lăng kính tương phản với thế giới tu chân tàn khốc, đầy mưu mô và dục vọng.
-- **Chìa Khóa Giải Huyết Thần Độc:** Hỗn Độn Linh Căn của hắn là kháng thể tự nhiên duy nhất chống lại Huyết Thần Độc.
+- **Chìa Khóa Giải Huyết Thần Độc:** Hỗn Độn Linh Căn của nàng là kháng thể tự nhiên duy nhất chống lại Huyết Thần Độc.
 - **Mỏ Neo Của Lệ Vô Tâm:** A Ngốc là lý do duy nhất khiến Lệ Vô Tâm không hoàn toàn chìm vào bóng tối và có cơ hội chuộc lỗi (dù chỉ một phần).
 
 ## VII. CÂU NÓI TIÊU BIỂU
