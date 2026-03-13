@@ -1,331 +1,560 @@
+/* ═══════════════════════════════════════════
+   CỐ NGUYÊN GIỚI — Floating TTS Player
+   Edge TTS Neural Voices + Web Speech Fallback
+   Sticky bottom bar with voice selection
+   ═══════════════════════════════════════════ */
+
 (function() {
+    'use strict';
+
+    // ── Configuration ──
+    var EDGE_TTS_API = 'https://tts.travisvn.com/api/tts';
+    var VOICES = [
+        { id: 'vi-VN-HoaiMyNeural', name: 'HoaiMy (Nữ)', engine: 'edge' },
+        { id: 'vi-VN-NamMinhNeural', name: 'NamMinh (Nam)', engine: 'edge' },
+        { id: 'native', name: 'Giọng Máy', engine: 'native' },
+    ];
+
+    // ── State ──
+    var state = {
+        elements: [],
+        originalHTMLs: {},
+        currentIndex: 0,
+        playing: false,
+        paused: false,
+        speed: parseFloat(localStorage.getItem('tts_speed') || '1.0'),
+        voiceId: localStorage.getItem('tts_voice') || 'vi-VN-HoaiMyNeural',
+        audioEl: null,
+        edgeTTSAvailable: null, // null = untested, true/false after first attempt
+    };
+
     var synth = window.speechSynthesis;
-    var currentUtterance = null;
-    var currentIndex = 0;
-    var isPaused = false;
-    var isStopped = true; // start as true until play is hit
 
-    // Load saved speed or default to 1.0
-    var savedSpeed = localStorage.getItem('tts_speed');
-    var currentSpeed = savedSpeed ? parseFloat(savedSpeed) : 1.0;
+    // ── Build Floating Player UI ──
+    function buildPlayer() {
+        var bar = document.createElement('div');
+        bar.id = 'tts-bar';
+        bar.className = 'tts-bar';
 
-    // Elements to read
-    var contentElements = [];
+        bar.innerHTML = [
+            '<div class="tts-bar-inner">',
+            '  <div class="tts-controls">',
+            '    <button class="tts-btn tts-btn-play" id="tts-play" title="Phát">',
+            '      <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><polygon points="3,1 13,8 3,15"/></svg>',
+            '    </button>',
+            '    <button class="tts-btn tts-btn-pause" id="tts-pause" title="Tạm dừng" style="display:none">',
+            '      <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><rect x="2" y="1" width="4" height="14"/><rect x="10" y="1" width="4" height="14"/></svg>',
+            '    </button>',
+            '    <button class="tts-btn tts-btn-stop" id="tts-stop" title="Dừng" style="display:none">',
+            '      <svg width="14" height="14" viewBox="0 0 14 14" fill="currentColor"><rect x="1" y="1" width="12" height="12" rx="1"/></svg>',
+            '    </button>',
+            '  </div>',
+            '  <div class="tts-progress">',
+            '    <div class="tts-progress-bar" id="tts-progress-bar"></div>',
+            '    <span class="tts-progress-text" id="tts-progress-text">---</span>',
+            '  </div>',
+            '  <div class="tts-speed">',
+            '    <button class="tts-btn-sm" id="tts-speed-down" title="Giảm tốc">-</button>',
+            '    <span class="tts-speed-val" id="tts-speed-val">' + state.speed.toFixed(1) + 'x</span>',
+            '    <button class="tts-btn-sm" id="tts-speed-up" title="Tăng tốc">+</button>',
+            '  </div>',
+            '  <div class="tts-voice-wrap">',
+            '    <select class="tts-voice-select" id="tts-voice-select"></select>',
+            '  </div>',
+            '  <button class="tts-btn tts-btn-close" id="tts-close" title="Đóng">',
+            '    <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M1 1l10 10M11 1L1 11" stroke="currentColor" stroke-width="2" fill="none"/></svg>',
+            '  </button>',
+            '</div>',
+        ].join('\n');
 
-    // Configuration from global scope or data attribute
-    // We expect window.nextChapterUrl to be set in the HTML
-    var nextChapterUrl = window.nextChapterUrl || "#";
+        document.body.appendChild(bar);
 
-    // Original HTML backup for highlighting
-    var originalHTMLs = {};
+        // Populate voice select
+        var sel = document.getElementById('tts-voice-select');
+        VOICES.forEach(function(v) {
+            var opt = document.createElement('option');
+            opt.value = v.id;
+            opt.textContent = v.name;
+            if (v.id === state.voiceId) opt.selected = true;
+            sel.appendChild(opt);
+        });
 
+        // ── Event Listeners ──
+        document.getElementById('tts-play').addEventListener('click', handlePlay);
+        document.getElementById('tts-pause').addEventListener('click', handlePause);
+        document.getElementById('tts-stop').addEventListener('click', handleStop);
+        document.getElementById('tts-speed-down').addEventListener('click', function() { changeSpeed(-0.1); });
+        document.getElementById('tts-speed-up').addEventListener('click', function() { changeSpeed(0.1); });
+        document.getElementById('tts-close').addEventListener('click', function() {
+            handleStop();
+            bar.classList.remove('tts-bar-visible');
+        });
+        sel.addEventListener('change', function() {
+            state.voiceId = sel.value;
+            localStorage.setItem('tts_voice', state.voiceId);
+            // If currently playing, restart current chunk with new voice
+            if (state.playing && !state.paused) {
+                cancelCurrentAudio();
+                readCurrentChunk();
+            }
+        });
+
+        return bar;
+    }
+
+    // ── Inject CSS ──
+    function injectCSS() {
+        var style = document.createElement('style');
+        style.textContent = [
+            '.tts-bar{',
+            '  position:fixed;bottom:0;left:0;width:100%;z-index:7500;',
+            '  transform:translateY(100%);',
+            '  transition:transform .4s cubic-bezier(.25,.46,.45,.94);',
+            '  pointer-events:none;',
+            '}',
+            '.tts-bar.tts-bar-visible{transform:translateY(0);pointer-events:auto;}',
+            '.tts-bar-inner{',
+            '  display:flex;align-items:center;gap:10px;',
+            '  padding:10px clamp(12px,3vw,24px);',
+            '  background:rgba(12,15,20,.95);',
+            '  backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);',
+            '  border-top:1px solid rgba(212,165,116,.08);',
+            '  box-shadow:0 -4px 24px rgba(0,0,0,.4);',
+            '  font-family:"Cormorant Garamond","Georgia",serif;',
+            '}',
+            '[data-theme="bach-tuyet"] .tts-bar-inner{',
+            '  background:rgba(245,240,232,.95);',
+            '  border-top-color:rgba(138,96,32,.1);',
+            '  box-shadow:0 -4px 24px rgba(42,36,32,.1);',
+            '}',
+            /* Controls */
+            '.tts-controls{display:flex;gap:6px;flex-shrink:0;}',
+            '.tts-btn{',
+            '  width:36px;height:36px;border-radius:50%;border:1px solid rgba(212,165,116,.15);',
+            '  background:rgba(212,165,116,.06);color:var(--accent,#d4a574);',
+            '  cursor:pointer;display:flex;align-items:center;justify-content:center;',
+            '  transition:all .25s ease;',
+            '}',
+            '.tts-btn:hover{background:rgba(212,165,116,.14);border-color:var(--accent,#d4a574);transform:scale(1.08);}',
+            '.tts-btn-play{background:rgba(212,165,116,.12);}',
+            '.tts-btn-close{width:28px;height:28px;border:none;background:none;color:var(--muted,#6a7080);flex-shrink:0;}',
+            '.tts-btn-close:hover{color:var(--accent,#d4a574);}',
+            /* Progress */
+            '.tts-progress{',
+            '  flex:1;min-width:0;display:flex;align-items:center;gap:10px;',
+            '}',
+            '.tts-progress-bar{',
+            '  flex:1;height:3px;background:rgba(212,165,116,.08);border-radius:2px;position:relative;overflow:hidden;',
+            '}',
+            '.tts-progress-bar::after{',
+            '  content:"";position:absolute;top:0;left:0;height:100%;width:var(--pct,0%);',
+            '  background:linear-gradient(to right,var(--accent-dim,#9b7a52),var(--accent,#d4a574));',
+            '  border-radius:2px;transition:width .3s ease;',
+            '}',
+            '.tts-progress-text{',
+            '  font-size:.72rem;color:var(--muted,#6a7080);white-space:nowrap;min-width:50px;text-align:center;',
+            '}',
+            /* Speed */
+            '.tts-speed{display:flex;align-items:center;gap:4px;flex-shrink:0;}',
+            '.tts-btn-sm{',
+            '  width:26px;height:26px;border-radius:4px;border:1px solid rgba(212,165,116,.1);',
+            '  background:none;color:var(--accent-dim,#9b7a52);cursor:pointer;',
+            '  font-size:.9rem;font-weight:700;display:flex;align-items:center;justify-content:center;',
+            '  transition:all .2s ease;font-family:monospace;',
+            '}',
+            '.tts-btn-sm:hover{background:rgba(212,165,116,.08);color:var(--accent,#d4a574);}',
+            '.tts-speed-val{font-size:.75rem;color:var(--accent,#d4a574);min-width:32px;text-align:center;font-weight:600;}',
+            /* Voice Select */
+            '.tts-voice-wrap{flex-shrink:0;}',
+            '.tts-voice-select{',
+            '  padding:5px 8px;border-radius:3px;',
+            '  border:1px solid rgba(212,165,116,.12);',
+            '  background:rgba(21,26,34,.9);color:var(--text,#e8e0d4);',
+            '  font-family:"Cormorant Garamond","Georgia",serif;font-size:.75rem;',
+            '  cursor:pointer;outline:none;',
+            '}',
+            '[data-theme="bach-tuyet"] .tts-voice-select{background:rgba(238,231,220,.9);color:#2a2420;}',
+            '.tts-voice-select:focus{border-color:var(--accent,#d4a574);}',
+            /* Highlight */
+            '.tts-highlight{',
+            '  background:rgba(212,165,116,.15) !important;',
+            '  color:var(--accent-bright,#e8be8e) !important;',
+            '  border-radius:2px;padding:0 2px;',
+            '  transition:background .15s ease;',
+            '}',
+            '.tts-reading{',
+            '  border-left:3px solid var(--accent,#d4a574) !important;',
+            '  padding-left:12px !important;',
+            '  transition:border-color .3s ease,padding .3s ease;',
+            '}',
+            /* Fab trigger button (when bar is hidden) */
+            '.tts-fab{',
+            '  position:fixed;bottom:20px;right:20px;z-index:7499;',
+            '  width:48px;height:48px;border-radius:50%;',
+            '  border:1px solid rgba(212,165,116,.15);',
+            '  background:rgba(12,15,20,.9);color:var(--accent,#d4a574);',
+            '  backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);',
+            '  cursor:pointer;display:flex;align-items:center;justify-content:center;',
+            '  font-size:1.2rem;',
+            '  box-shadow:0 4px 16px rgba(0,0,0,.3);',
+            '  transition:all .3s ease;',
+            '}',
+            '[data-theme="bach-tuyet"] .tts-fab{background:rgba(245,240,232,.9);border-color:rgba(138,96,32,.15);}',
+            '.tts-fab:hover{transform:scale(1.1);box-shadow:0 6px 24px rgba(212,165,116,.15);}',
+            '.tts-fab.tts-fab-hidden{opacity:0;pointer-events:none;transform:scale(0.8);}',
+            /* Responsive */
+            '@media(max-width:640px){',
+            '  .tts-bar-inner{gap:6px;padding:8px 10px;}',
+            '  .tts-btn{width:32px;height:32px;}',
+            '  .tts-voice-wrap{display:none;}',
+            '  .tts-progress-text{font-size:.65rem;min-width:40px;}',
+            '  .tts-speed-val{font-size:.68rem;min-width:28px;}',
+            '}',
+        ].join('\n');
+        document.head.appendChild(style);
+    }
+
+    // ── Collect Readable Elements ──
     function getReadableElements() {
-        // Collect all paragraph-like elements in the body
-        // Filter out navigation, headers, footers, and specific unwanted text
         var all = document.body.querySelectorAll('p, h1, h2, h3, h4, h5, h6, li, blockquote');
         var readable = [];
-
         for (var i = 0; i < all.length; i++) {
             var el = all[i];
-
-            // Skip navigation block
             if (el.closest('#chapter-navigation')) continue;
-
-            // Skip invisible elements
+            if (el.closest('.tts-bar')) continue;
+            if (el.closest('.mn-bar')) continue;
             if (el.offsetParent === null) continue;
-
             var text = el.innerText.trim();
             if (text.length === 0) continue;
-
-            // Skip specific unwanted text
             if (text.includes("Obsidian_Novel_v2")) continue;
             if (text.includes("Mục Lục Tổng Hợp")) continue;
-
             readable.push(el);
         }
-        // Setup click listeners for each readable element
-        for (var j = 0; j < readable.length; j++) {
-            (function(index) {
-                readable[index].style.cursor = "pointer";
-                readable[index].title = "Nhấn để đọc từ đây";
-                readable[index].addEventListener('click', function() {
-                    if (isStopped) {
-                        currentIndex = index;
-                        startReading();
-                    }
-                });
-            })(j);
-        }
-
         return readable;
     }
 
-    function updateSpeedDisplay() {
-        var display = document.getElementById('speed-display');
-        if (display) {
-            display.textContent = currentSpeed.toFixed(1) + 'x';
+    // ── UI State Updates ──
+    function updateUI() {
+        var bar = document.getElementById('tts-bar');
+        var fab = document.getElementById('tts-fab');
+        var btnPlay = document.getElementById('tts-play');
+        var btnPause = document.getElementById('tts-pause');
+        var btnStop = document.getElementById('tts-stop');
+
+        if (state.playing) {
+            bar.classList.add('tts-bar-visible');
+            fab.classList.add('tts-fab-hidden');
+
+            if (state.paused) {
+                btnPlay.style.display = 'flex';
+                btnPause.style.display = 'none';
+            } else {
+                btnPlay.style.display = 'none';
+                btnPause.style.display = 'flex';
+            }
+            btnStop.style.display = 'flex';
+        } else {
+            btnPlay.style.display = 'flex';
+            btnPause.style.display = 'none';
+            btnStop.style.display = 'none';
+        }
+
+        // Progress
+        var total = state.elements.length || 1;
+        var current = Math.min(state.currentIndex + 1, total);
+        var pct = (current / total * 100).toFixed(0);
+        document.getElementById('tts-progress-text').textContent = current + '/' + total;
+        document.getElementById('tts-progress-bar').style.setProperty('--pct', pct + '%');
+
+        // Speed
+        document.getElementById('tts-speed-val').textContent = state.speed.toFixed(1) + 'x';
+    }
+
+    function highlightElement(el) {
+        // Remove previous highlights
+        document.querySelectorAll('.tts-reading').forEach(function(e) {
+            e.classList.remove('tts-reading');
+        });
+        if (el) {
+            el.classList.add('tts-reading');
+            el.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
     }
 
-    function increaseSpeed() {
-        if (currentSpeed < 2.5) {
-            currentSpeed += 0.1;
-            localStorage.setItem('tts_speed', currentSpeed.toFixed(1));
-            updateSpeedDisplay();
-            restartCurrentUtteranceIfPlaying();
+    // ── Audio Playback ──
+
+    function cancelCurrentAudio() {
+        if (state.audioEl) {
+            state.audioEl.pause();
+            state.audioEl.removeAttribute('src');
+            state.audioEl = null;
         }
+        synth.cancel();
     }
 
-    function decreaseSpeed() {
-        if (currentSpeed > 0.5) {
-            currentSpeed -= 0.1;
-            localStorage.setItem('tts_speed', currentSpeed.toFixed(1));
-            updateSpeedDisplay();
-            restartCurrentUtteranceIfPlaying();
-        }
+    // Try Edge TTS, return a promise that resolves with an Audio element or rejects
+    function edgeTTSSpeak(text) {
+        return new Promise(function(resolve, reject) {
+            var url = EDGE_TTS_API + '?' +
+                'text=' + encodeURIComponent(text) +
+                '&voice=' + encodeURIComponent(state.voiceId) +
+                '&rate=' + encodeURIComponent(((state.speed - 1) * 100).toFixed(0) + '%');
+
+            var audio = new Audio();
+            audio.crossOrigin = 'anonymous';
+
+            audio.addEventListener('canplaythrough', function() {
+                resolve(audio);
+            }, { once: true });
+
+            audio.addEventListener('error', function() {
+                reject(new Error('Edge TTS failed'));
+            }, { once: true });
+
+            // Timeout after 8 seconds
+            var timeout = setTimeout(function() {
+                audio.removeAttribute('src');
+                reject(new Error('Edge TTS timeout'));
+            }, 8000);
+
+            audio.addEventListener('canplaythrough', function() {
+                clearTimeout(timeout);
+            }, { once: true });
+
+            audio.src = url;
+            audio.load();
+        });
     }
 
-    function restartCurrentUtteranceIfPlaying() {
-        if (!isStopped && !isPaused) {
-            // Need to restart the current chunk to apply the new speed
-            synth.cancel(); // This will trigger onend/onerror, we must handle carefully
-            // Actually, canceling triggers onend? Let's stop and restart carefully
-            isPaused = true;
-            setTimeout(function() {
-                isPaused = false;
-                // If we were highlighting, we should clean up
-                var el = contentElements[currentIndex];
-                if (el && originalHTMLs[currentIndex]) {
-                    el.innerHTML = originalHTMLs[currentIndex];
-                }
-                readNextChunk();
-            }, 100);
-        }
+    function nativeTTSSpeak(text) {
+        return new Promise(function(resolve, reject) {
+            var utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'vi-VN';
+            utterance.rate = state.speed;
+
+            // Try to find a Vietnamese voice
+            var voices = synth.getVoices();
+            var viVoice = voices.find(function(v) { return v.lang && v.lang.startsWith('vi'); });
+            if (viVoice) utterance.voice = viVoice;
+
+            utterance.onend = function() { resolve(); };
+            utterance.onerror = function(e) {
+                if (e.error === 'canceled') return;
+                reject(e);
+            };
+
+            synth.speak(utterance);
+        });
     }
 
-    function startReading() {
-        if (synth.speaking && !isPaused) return;
-
-        isStopped = false;
-
-        // Reset controls
-        toggleControls('playing');
-
-        if (contentElements.length === 0) {
-            contentElements = getReadableElements();
-        }
-
-        if (currentIndex >= contentElements.length) {
-            currentIndex = 0; // Restart if finished
-        }
-
-        readNextChunk();
-    }
-
-    function readNextChunk() {
-        if (isStopped) return;
-
-        if (currentIndex >= contentElements.length) {
-            // Finished reading the chapter
-            stopReading();
-
-            // Auto-advance to next chapter if available
-            var currentNextChapterUrl = window.nextChapterUrl || "#";
-            if (currentNextChapterUrl && currentNextChapterUrl !== "#") {
-                // Add autoplay param
-                var separator = currentNextChapterUrl.includes('?') ? '&' : '?';
-                window.location.href = currentNextChapterUrl + separator + 'autoplay=true';
+    function readCurrentChunk() {
+        if (!state.playing || state.paused) return;
+        if (state.currentIndex >= state.elements.length) {
+            // Finished
+            handleStop();
+            // Auto-advance
+            var nextUrl = window.nextChapterUrl || '#';
+            if (nextUrl && nextUrl !== '#') {
+                var sep = nextUrl.includes('?') ? '&' : '?';
+                window.location.href = nextUrl + sep + 'autoplay=true';
             }
             return;
         }
 
-        var el = contentElements[currentIndex];
+        var el = state.elements[state.currentIndex];
+        var text = el.innerText.trim();
 
-        // Save original HTML
-        if (!originalHTMLs[currentIndex]) {
-            originalHTMLs[currentIndex] = el.innerHTML;
+        highlightElement(el);
+        updateUI();
+
+        var voiceConfig = VOICES.find(function(v) { return v.id === state.voiceId; });
+        var useEdge = voiceConfig && voiceConfig.engine === 'edge' && state.edgeTTSAvailable !== false;
+
+        if (useEdge) {
+            edgeTTSSpeak(text).then(function(audio) {
+                state.edgeTTSAvailable = true;
+                state.audioEl = audio;
+                audio.addEventListener('ended', onChunkEnd);
+                audio.play();
+            }).catch(function() {
+                // Edge TTS failed, fall back to native
+                state.edgeTTSAvailable = false;
+                console.warn('Edge TTS unavailable, falling back to native voice');
+                nativeFallback(text);
+            });
+        } else {
+            nativeFallback(text);
         }
+    }
 
-        el.scrollIntoView({behavior: "smooth", block: "center"});
+    function nativeFallback(text) {
+        nativeTTSSpeak(text).then(onChunkEnd).catch(function() {
+            // Skip this chunk on error
+            onChunkEnd();
+        });
+    }
 
-        var text = el.innerText;
+    function onChunkEnd() {
+        if (!state.playing || state.paused) return;
+        // Clean up highlight
+        var el = state.elements[state.currentIndex];
+        if (el) el.classList.remove('tts-reading');
 
-        // Wrap words in spans for highlighting
-        var words = text.split(/\s+/);
-        var spansHTML = words.map(function(word, idx) {
-            return '<span id="tts-word-' + idx + '">' + word + '</span>';
-        }).join(' ');
+        state.currentIndex++;
+        state.audioEl = null;
 
-        el.innerHTML = spansHTML;
-
-        var utterance = new SpeechSynthesisUtterance(text);
-        utterance.lang = "vi-VN";
-        utterance.rate = currentSpeed;
-
-        // Map character index to word index
-        var charIndexToWordIndex = [];
-        var charCount = 0;
-        for (var i = 0; i < words.length; i++) {
-            var wordLen = words[i].length;
-            for (var c = 0; c < wordLen + 1; c++) { // +1 for space
-                charIndexToWordIndex[charCount + c] = i;
+        setTimeout(function() {
+            if (state.playing && !state.paused) {
+                readCurrentChunk();
             }
-            charCount += wordLen + 1;
+        }, 80);
+    }
+
+    // ── Handlers ──
+
+    function handlePlay() {
+        if (state.paused) {
+            // Resume
+            state.paused = false;
+            if (state.audioEl) {
+                state.audioEl.play();
+            } else {
+                readCurrentChunk();
+            }
+            updateUI();
+            return;
         }
 
-        var currentWordIndex = -1;
+        // Start fresh
+        if (state.elements.length === 0) {
+            state.elements = getReadableElements();
+        }
+        if (state.currentIndex >= state.elements.length) {
+            state.currentIndex = 0;
+        }
 
-        utterance.onboundary = function(event) {
-            if (event.name === 'word') {
-                var wordIndex = charIndexToWordIndex[event.charIndex];
-                if (wordIndex !== undefined && wordIndex !== currentWordIndex) {
-                    // Remove highlight from previous word
-                    if (currentWordIndex >= 0) {
-                        var prevSpan = document.getElementById('tts-word-' + currentWordIndex);
-                        if (prevSpan) {
-                            prevSpan.style.backgroundColor = "";
-                            prevSpan.style.color = "";
-                        }
-                    }
+        state.playing = true;
+        state.paused = false;
+        updateUI();
+        readCurrentChunk();
+    }
 
-                    // Add highlight to current word
-                    var currSpan = document.getElementById('tts-word-' + wordIndex);
-                    if (currSpan) {
-                        currSpan.style.backgroundColor = "#d4af37"; // text-gold
-                        currSpan.style.color = "#12100e"; // bg-dark
-                        currSpan.style.borderRadius = "2px";
-                    }
-                    currentWordIndex = wordIndex;
+    function handlePause() {
+        state.paused = true;
+        if (state.audioEl) {
+            state.audioEl.pause();
+        }
+        synth.pause();
+        updateUI();
+    }
+
+    function handleStop() {
+        state.playing = false;
+        state.paused = false;
+        cancelCurrentAudio();
+
+        // Clean highlights
+        document.querySelectorAll('.tts-reading').forEach(function(e) {
+            e.classList.remove('tts-reading');
+        });
+
+        state.currentIndex = 0;
+
+        var bar = document.getElementById('tts-bar');
+        var fab = document.getElementById('tts-fab');
+        if (bar) bar.classList.remove('tts-bar-visible');
+        if (fab) fab.classList.remove('tts-fab-hidden');
+
+        updateUI();
+    }
+
+    function changeSpeed(delta) {
+        state.speed = Math.max(0.5, Math.min(2.5, state.speed + delta));
+        state.speed = Math.round(state.speed * 10) / 10;
+        localStorage.setItem('tts_speed', state.speed.toFixed(1));
+        updateUI();
+
+        // If using Edge TTS and playing, restart current chunk
+        if (state.playing && !state.paused) {
+            cancelCurrentAudio();
+            readCurrentChunk();
+        }
+    }
+
+    // ── FAB (Floating Action Button) ──
+    function buildFab() {
+        var fab = document.createElement('button');
+        fab.id = 'tts-fab';
+        fab.className = 'tts-fab';
+        fab.title = 'Nghe Chương';
+        fab.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5,3 19,12 5,21" fill="currentColor"/></svg>';
+        fab.addEventListener('click', function() {
+            var bar = document.getElementById('tts-bar');
+            bar.classList.add('tts-bar-visible');
+            fab.classList.add('tts-fab-hidden');
+            handlePlay();
+        });
+        document.body.appendChild(fab);
+    }
+
+    // ── Expose for click-to-read on paragraphs ──
+    function setupClickToRead() {
+        state.elements = getReadableElements();
+        state.elements.forEach(function(el, idx) {
+            el.style.cursor = 'pointer';
+            el.title = 'Nhấn để đọc từ đây';
+            el.addEventListener('click', function(e) {
+                // Only trigger if not playing (avoid interfering with links etc)
+                if (!state.playing) {
+                    state.currentIndex = idx;
+                    var bar = document.getElementById('tts-bar');
+                    var fab = document.getElementById('tts-fab');
+                    if (bar) bar.classList.add('tts-bar-visible');
+                    if (fab) fab.classList.add('tts-fab-hidden');
+                    handlePlay();
                 }
-            }
-        };
-
-        utterance.onend = function() {
-            // Restore original HTML
-            el.innerHTML = originalHTMLs[currentIndex];
-
-            if (isStopped || isPaused) return;
-
-            currentIndex++;
-            // Small timeout to allow synth status to update
-            setTimeout(function() {
-                if (!isPaused && !isStopped) {
-                     readNextChunk();
-                }
-            }, 50);
-        };
-
-        utterance.onerror = function(event) {
-            // Cancel events are normal when we manually cancel
-            if (event.error === 'canceled') return;
-
-            if (isStopped) return;
-
-            console.error("Speech error", event);
-            el.innerHTML = originalHTMLs[currentIndex];
-            currentIndex++;
-            readNextChunk();
-        };
-
-        currentUtterance = utterance;
-        synth.speak(utterance);
+            });
+        });
     }
 
-    function pauseReading() {
-        if (synth.speaking && !isPaused) {
-            synth.pause();
-            isPaused = true;
-            toggleControls('paused');
-        }
-    }
+    // ── Also expose globally for navigation.js backward compat ──
+    window.startReading = handlePlay;
+    window.pauseReading = handlePause;
+    window.resumeReading = function() { if (state.paused) handlePlay(); };
+    window.stopReading = handleStop;
+    window.increaseSpeed = function() { changeSpeed(0.1); };
+    window.decreaseSpeed = function() { changeSpeed(-0.1); };
 
-    function resumeReading() {
-        if (isPaused) {
-            synth.resume();
-            isPaused = false;
-            toggleControls('playing');
-        } else if (!synth.speaking && currentIndex < contentElements.length) {
-            // Resume from stop or clean state
-            startReading();
-        }
-    }
+    // ── Initialize ──
+    function init() {
+        injectCSS();
+        buildPlayer();
+        buildFab();
+        setupClickToRead();
+        updateUI();
 
-    function stopReading() {
-        isStopped = true;
-        synth.cancel();
-        isPaused = false;
-
-        // Clean up highlights
-        if (contentElements.length > 0 && currentIndex < contentElements.length) {
-            var el = contentElements[currentIndex];
-            if (el && originalHTMLs[currentIndex]) {
-                el.innerHTML = originalHTMLs[currentIndex];
-            }
-        }
-
-        currentIndex = 0;
-        toggleControls('stopped');
-    }
-
-    function toggleControls(state) {
-        var btnPlay = document.getElementById("btn-play");
-        var btnPause = document.getElementById("btn-pause");
-        var btnResume = document.getElementById("btn-resume");
-        var btnStop = document.getElementById("btn-stop");
-
-        if (!btnPlay) return; // Controls not found
-
-        btnPlay.style.display = "none";
-        btnPause.style.display = "none";
-        btnResume.style.display = "none";
-        btnStop.style.display = "none";
-
-        if (state === 'playing') {
-            btnPause.style.display = "inline-block";
-            btnStop.style.display = "inline-block";
-        } else if (state === 'paused') {
-            btnResume.style.display = "inline-block";
-            btnStop.style.display = "inline-block";
-        } else { // stopped
-            btnPlay.style.display = "inline-block";
-        }
-    }
-
-    // Expose functions globally for button onclick handlers
-    window.startReading = startReading;
-    window.pauseReading = pauseReading;
-    window.resumeReading = resumeReading;
-    window.stopReading = stopReading;
-    window.increaseSpeed = increaseSpeed;
-    window.decreaseSpeed = decreaseSpeed;
-
-    // Initialize TTS
-    function initTTS() {
-        contentElements = getReadableElements(); // Initialize elements early so click works
-
-        // Initial control state
-        toggleControls('stopped');
-
-        // Update speed display to reflect saved settings
-        updateSpeedDisplay();
-
+        // Auto-play if param present
         var urlParams = new URLSearchParams(window.location.search);
         if (urlParams.get('autoplay') === 'true') {
-            // Delay slightly to ensure voices are loaded
-            setTimeout(startReading, 1000);
+            setTimeout(function() {
+                var bar = document.getElementById('tts-bar');
+                var fab = document.getElementById('tts-fab');
+                bar.classList.add('tts-bar-visible');
+                fab.classList.add('tts-fab-hidden');
+                handlePlay();
+            }, 1000);
         }
     }
 
-    // Support both direct page load and dynamic script loading (reader.html)
     if (document.readyState === 'complete') {
-        initTTS();
+        init();
     } else {
-        window.addEventListener('load', initTTS);
+        window.addEventListener('load', init);
     }
 
-    // Handle page unload to stop speech
+    // Cleanup on leave
     window.addEventListener('beforeunload', function() {
-        isStopped = true;
-        synth.cancel();
+        state.playing = false;
+        cancelCurrentAudio();
     });
 })();
