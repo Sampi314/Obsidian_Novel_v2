@@ -14,7 +14,7 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 54 | Arc 1 — Khởi Đầu | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 56 | Arc 1 — Khởi Đầu | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 130 | Arc tiền truyện | Cần rewrite chương đầu |
 | Góc Nhìn A Ngốc | 3 | Arc 1 | Đang viết |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
@@ -74,14 +74,9 @@
 
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
-#### Task 1: ~~Dọn dẹp thư mục cũ~~ ✅ → ❌ HOÀN TÁC — TÁI TẠO & MỞ RỘNG
-- Jules đã xóa 19 thư mục góc nhìn cá nhân cũ, nhưng nay cần **TÁI TẠO** tất cả
-- Mỗi nhân vật phụ cần có thư mục POV riêng VỚI đủ chương (song song với tuyến khu vực)
-- Đang tái tạo + viết ch 1-6 cho tất cả 19 nhân vật (xem Task 6)
-
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 55, 56... cho Góc Nhìn Lâm Phong
-- Diễn biến cuộc hành trình điều tra Huyết Sát Minh tại ngoại môn Cửu Hoa.
+- Tiếp tục viết chương 57, 58... cho Góc Nhìn Lâm Phong
+- Đối đầu và chạy trốn sự truy sát của Huyết Sứ.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
@@ -134,7 +129,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành Arc 1 cho tất cả 5 tuyến khu vực. Lâm Phong đã hoàn thành ch 53-54 (Tiếp tục điều tra Huyết Sát Minh tại ngoại môn). **MỚI:** Đang tái tạo + mở rộng 19 thư mục góc nhìn cá nhân — viết ch 1-6 cho tất cả 19 nhân vật phụ (76+ chương mới). Thêm nhân vật mới: A Ngốc.
+> Đã hoàn thành Arc 1 cho 5 tuyến khu vực. Lâm Phong tiếp tục Arc tại ngoại môn (ch 55-56). Mở rộng 19 POV cá nhân (ch 1-6).
 
 ---
 
