@@ -40,10 +40,11 @@
         - *"Cái cây không sợ bão. Nó chỉ đứng đó thôi."*
 
 ## III. SỨC MẠNH & KỸ NĂNG
+- **Cảnh Giới Hiện Tại:** Luyện Khí Trung Kỳ.
 - **Tiến trình Cảnh Giới (Cultivation = Loss):**
     - Điểm đặc biệt nhất: Mỗi lần đột phá cảnh giới của A Ngốc không đến từ tu luyện chủ ý, mà được kích hoạt bởi **bi kịch và sự mất mát**.
     - Phàm Nhân -> Luyện Khí Sơ Kỳ (Sau nhiều năm múa bài múa của Ông Già trong vô thức)
-    - Luyện Khí Sơ Kỳ -> Trung Kỳ (Bị đuổi khỏi làng, con chó hoang kết bạn bị giết)
+    - Luyện Khí Sơ Kỳ -> Luyện Khí Trung Kỳ (Bị đuổi khỏi làng, con chó hoang kết bạn bị giết)
     - Luyện Khí Trung Kỳ -> Hậu Kỳ (Ôm cô bé đang chết trong đợt bùng phát Huyết Thần Độc)
     - Luyện Khí Hậu Kỳ -> Trúc Cơ Sơ Kỳ (Sự đau buồn tích tụ khi đi qua những tàn tích do Lệ Vô Tâm để lại)
     - Trúc Cơ Sơ Kỳ -> Trung Kỳ (Cảm giác cô đơn sau khi chia tay Lục Tiêu)
@@ -79,7 +80,7 @@
     - Được một lão ẩn sĩ (Ông Già) tìm thấy lúc sắp chết đói. Ông Già nhận ra Hỗn Độn Linh Căn nhưng quyết định giấu đi, chỉ dạy hắn "bài múa buổi sáng" (Hỗn Nguyên Quy Nhất Quyết) như một trò chơi.
     - Vài thập kỷ sau, Ông Già cạn thọ nguyên qua đời. A Ngốc bắt đầu hành trình lang bạt.
 - **Hành Trình Gương Soi (Arc 3-8):**
-    - A Ngốc vô tình đi theo những dấu vết tàn phá mà **Lệ Vô Tâm** để lại trên khắp Cố Nguyên Giới (Gương Soi). Người đọc thấy Lệ Vô Tâm hủy diệt, rồi thấy A Ngốc đi ngang qua những đống đổ nát đó với ánh mắt ngây thơ, không hiểu chuyện gì.
+    - A Ngốc vô tình đi theo những dấu vết tàn phá mà **Lệ Vô Tâm** để lại trên khắp Cố Nguyên Giới (Gương Soi). Người đọc thấy Lệ Vô Tâm hủy diệt, rồi thấy A Ngốc đi ngang qua những đống đổ nát đó với ánh mắt ngây thơ, không hiểu chuyện gì. (Đang diễn ra ở Arc 3)
     - Băng qua Rừng Huyết Độc, sống sót qua dịch bệnh, lang thang đến Đông Hoang, Vạn Yêu Thành, rồi tiến lên Bắc Băng.
 - **Kim Đan & Đồng Hành (Arc 9-14):**
     - Tại tàn tích Vạn Độc Môn (sau khi Lệ Vô Tâm bị Chính Đạo và Huyết Sát Minh đánh sập), A Ngốc tìm thấy Lệ Vô Tâm đang hấp hối với Kim Đan rạn nứt.
