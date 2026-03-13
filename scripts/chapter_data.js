@@ -148,6 +148,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00018_Ký_Ức_Cơ_Thể.md",
       "title": "Chương 18: Ký Ức Cơ Thể"
+    },
+    {
+      "filename": "Chương_00019_Ánh_Mắt_Kẻ_Mạnh.md",
+      "title": "Chương 19: Ánh Mắt Kẻ Mạnh"
+    },
+    {
+      "filename": "Chương_00020_Người_Khổng_Lồ_Đánh_Nhau.md",
+      "title": "Chương 20: Người Khổng Lồ Đánh Nhau"
+    },
+    {
+      "filename": "Chương_00021_Chỉ_Còn_Một_Mình.md",
+      "title": "Chương 21: Chỉ Còn Một Mình"
+    },
+    {
+      "filename": "Chương_00022_Làng_Chặt_Củi.md",
+      "title": "Chương 22: Làng Chặt Củi"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

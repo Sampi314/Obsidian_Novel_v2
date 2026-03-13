@@ -20,16 +20,19 @@
 - [Chương 13: Ông Ngủ Rồi](Chương_00013_Ông_Ngủ_Rồi.md)
 - [Chương 14: Mồ Côi](Chương_00014_Mồ_Côi.md)
 
-## Arc 3: Bước Chân Vào Thế Giới (Chương 15-22)
+## Arc 3: Bước Chân Vào Thế Giới (Chương 15-21)
 *Giai đoạn Luyện Khí Sơ-Trung Kỳ — Hành trình lang bạt Nam Cương*
 - [Chương 15: Đổi Hoa Lấy Bánh](Chương_00015_Đổi_Hoa_Lấy_Bánh.md)
 - [Chương 16: Người Bạn Mới](Chương_00016_Người_Bạn_Mới.md)
 - [Chương 17: Điềm Xui Xẻo](Chương_00017_Điềm_Xui_Xẻo.md)
 - [Chương 18: Ký Ức Cơ Thể](Chương_00018_Ký_Ức_Cơ_Thể.md)
-*(Đang cập nhật)*
+- [Chương 19: Ánh Mắt Kẻ Mạnh](Chương_00019_Ánh_Mắt_Kẻ_Mạnh.md)
+- [Chương 20: Người Khổng Lồ Đánh Nhau](Chương_00020_Người_Khổng_Lồ_Đánh_Nhau.md)
+- [Chương 21: Chỉ Còn Một Mình](Chương_00021_Chỉ_Còn_Một_Mình.md)
 
-## Arc 4: Rừng Huyết Độc (Chương 23-32)
+## Arc 4: Rừng Huyết Độc (Chương 22-32)
 *Giai đoạn Luyện Khí Trung-Hậu Kỳ — Rìa Rừng Huyết Độc*
+- [Chương 22: Làng Chặt Củi](Chương_00022_Làng_Chặt_Củi.md)
 *(Đang cập nhật)*
 
 ## Arc 5: Kẻ Săn Và Con Mồi (Chương 33-42)
