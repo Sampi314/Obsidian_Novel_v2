@@ -188,6 +188,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00028_Trở_Về_Làng_Trống.md",
       "title": "Chương 28: Trở Về Làng Trống"
+    },
+    {
+      "filename": "Chương_00029_Viên_Kẹo_Đắng.md",
+      "title": "Chương 29: Viên Kẹo Đắng"
+    },
+    {
+      "filename": "Chương_00030_Người_Khổng_Lồ_Tốt_Bụng.md",
+      "title": "Chương 30: Người Khổng Lồ Tốt Bụng"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

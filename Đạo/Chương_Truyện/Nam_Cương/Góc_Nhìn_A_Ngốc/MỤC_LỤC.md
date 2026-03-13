@@ -42,6 +42,8 @@
 
 ## Arc 5: Kẻ Săn Và Con Mồi (Chương 29-38)
 *Giai đoạn Luyện Khí Hậu Kỳ đến Trúc Cơ Sơ Kỳ — Nam Cương đến Đông Hoang*
+- [Chương 29: Viên Kẹo Đắng](Chương_00029_Viên_Kẹo_Đắng.md)
+- [Chương 30: Người Khổng Lồ Tốt Bụng](Chương_00030_Người_Khổng_Lồ_Tốt_Bụng.md)
 *(Đang cập nhật)*
 
 ## Arc 6: Bóng Ma Phía Trước (Chương 43-54)

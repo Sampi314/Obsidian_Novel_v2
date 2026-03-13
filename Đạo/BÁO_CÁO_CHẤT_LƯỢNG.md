@@ -17,6 +17,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 29, 30 (Góc Nhìn A Ngốc) | Hoàn Thành | Bắt đầu Arc 5 (Kẻ Săn Và Con Mồi). A Ngốc miễn nhiễm Túy Mộng Đan của tán tu (Chương 29), sau đó bị Lục Độc Xà bắt và được Phương Vô Kỵ cứu, hai người bắt đầu đồng hành (Chương 30). |
 | Hôm nay | Tổng Quản | Viết Chương 27, 28 (Góc Nhìn A Ngốc) | Hoàn Thành | Viết Chương 27 (Trốn Chạy Trong Sương) và Chương 28 (Trở Về Làng Trống), hoàn thành Arc 4 cho A Ngốc. A Ngốc chạy trốn khỏi sự truy đuổi của Cửu Hoa Kiếm Tông giữa bầy quái thú điên loạn, sau đó trở về làng cũ chôn cất những người đã khuất bằng lá đỏ. |
 | Hôm nay | Tổng Quản | Viết Chương 65, 66 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up Lâm Phong: Chương 65 (Đêm Trong Rừng Tịch Liêu) và Chương 66 (Dấu Vết Băng Lang). Lâm Phong và Tĩnh Sương qua đêm cùng đứa bé sống sót, sau đó lần theo dấu vết Băng Lang Vương đến hang động sào huyệt của chúng. |
 | Hôm nay | Tổng Quản | Viết Chương 23-26 (Góc Nhìn A Ngốc) | Hoàn Thành | Viết xong Arc 4 cho A Ngốc (Chương 23-26) tại Rừng Huyết Độc. A Ngốc trải qua cuộc sống yên bình ngắn ngủi với Tiểu Nha trước khi Huyết Thần Độc tràn tới giết sạch làng. A Ngốc dùng lá đỏ viếng xác, đột phá Luyện Khí Hậu Kỳ từ nỗi đau, chạm mặt Lâm Phong và Cửu Hoa rồi chạy trốn vào đêm. |
