@@ -308,6 +308,38 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00058_Đừng_Làm_Phiền_Trẻ_Con.md",
       "title": "Chương 58: Đừng Làm Phiền Trẻ Con"
+    },
+    {
+      "filename": "Chương_00059_Những_Chú_Chim_Gãy_Cánh.md",
+      "title": "Chương 59: Những Chú Chim Gãy Cánh"
+    },
+    {
+      "filename": "Chương_00060_Mùi_Hương_Quen_Thuộc.md",
+      "title": "Chương 60: Mùi Hương Quen Thuộc"
+    },
+    {
+      "filename": "Chương_00061_Lời_Thì_Thầm_Dưới_Đất.md",
+      "title": "Chương 61: Lời Thì Thầm Dưới Đất"
+    },
+    {
+      "filename": "Chương_00062_Kẻ_Xấu_Áo_Đỏ.md",
+      "title": "Chương 62: Kẻ Xấu Áo Đỏ"
+    },
+    {
+      "filename": "Chương_00063_Trận_Chiến_Không_Phải_Của_Mình.md",
+      "title": "Chương 63: Trận Chiến Không Phải Của Mình"
+    },
+    {
+      "filename": "Chương_00064_Tiếng_Khóc_Trúc_Cơ.md",
+      "title": "Chương 64: Tiếng Khóc Trúc Cơ"
+    },
+    {
+      "filename": "Chương_00065_Sợ_Hãi_Bản_Thân.md",
+      "title": "Chương 65: Sợ Hãi Bản Thân"
+    },
+    {
+      "filename": "Chương_00066_Phải_Đi_Thôi.md",
+      "title": "Chương 66: Phải Đi Thôi"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

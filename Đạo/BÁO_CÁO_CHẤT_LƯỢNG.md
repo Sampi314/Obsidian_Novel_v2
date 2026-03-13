@@ -14,3 +14,6 @@
 | Hôm nay | Tổng Quản | Viết Chương 46-54 (Góc Nhìn A Ngốc) | Hoàn Thành | Hoàn thành Arc 6 (Bóng Ma Phía Trước). A Ngốc cứu sống một đứa trẻ Yêu Tộc và thanh tẩy một cây cổ thụ. Nguyệt Dao Nữ Vương ra lệnh chia cắt Lục Tiêu và A Ngốc vì sợ nguy hiểm. A Ngốc bị bỏ lại một mình, đột phá Trúc Cơ Trung Kỳ trong nỗi đau bị bỏ rơi. |
 | Hôm nay | Tổng Quản | Viết Chương 43-45 (Góc Nhìn A Ngốc) | Hoàn Thành | Bắt đầu Arc 6 (Bóng Ma Phía Trước). A Ngốc bước vào Vĩnh Hằng Sâm Lâm, cứu Lục Tiêu khỏi Huyết Thần Độc. Thiết lập kết nối đầu tiên với Tinh Linh Tộc. |
 | Hôm nay | Tổng Quản | Viết Chương 55-58 (Góc Nhìn A Ngốc) | Hoàn Thành | Bắt đầu Arc 7 (Vạn Yêu Thành). A Ngốc chữa trị tàn dư sau nội chiến Vạn Yêu Thành do Lệ Vô Tâm gây ra, liên hệ với Nham Thần và bùng nổ Hỗn Độn đột phá Trúc Cơ Hậu Kỳ đẩy lui Huyết Sát Minh. |
+
+## GHI CHÚ GẦN ĐÂY
+- **2026-03-13:** Đã hoàn thành Arc 7 (Chương 59-66) cho A Ngốc, bám sát redesign spec (2026-03-13-a-ngoc-arc-redesign.md), tuân thủ Dual Narration và Cultivation = Loss rule. Đã bổ sung cập nhật vào `HỒ_SƠ_THẾ_GIỚI.md` về sự kiện Vạn Yêu Thành. Đã cập nhật frontend.
