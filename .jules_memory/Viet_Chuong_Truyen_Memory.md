@@ -8,11 +8,13 @@
 - [Bắc Băng]: Cả hai phe đến Bắc Băng. Lệ Vô Tâm nuốt Cực Hàn Ma Châu, đánh sập Tuyệt Băng Uyên. Tại Băng Ngục Thành, Lệ Vô Tâm hấp thu Băng Huyết Tôn Giả, kết thành Kim Đan song sắc và trốn thoát.
 - [Lâm Phong Catch-up]: Lâm Phong rời Hắc Mộc Lâm, đến Trạm Biên, chạm trán đệ tử Vạn Độc Môn ở Nam Cương. Đã hoàn thành xâm nhập Sào Huyệt Lão Chu lấy thuốc áp chế độc.
 
+- [Ngoại Môn Cửu Hoa Kiếm Tông]: Lâm Phong và Diệp Tĩnh Sương vượt qua Đại Điển Tuyển Đồ, trở thành đệ tử ngoại môn của Cửu Hoa Kiếm Tông. Khám phá ra quản sự Hắc Thị Quán bị Huyết Sát Minh mua chuộc và sự hiện diện của Huyết Thần Độc ngụy trang (Huyết Mạch Tinh). Huyết Sứ trực tiếp điều hành mạng lưới tại ngoại môn phát hiện ra cả hai.
+
 ## PHIÊN GẦN NHẤT
-## Phiên làm việc: Viết Chương 47, 48 (Góc Nhìn Lâm Phong)
+## Phiên làm việc: Viết Chương 59, 60 (Góc Nhìn Lâm Phong)
 - **Ngày:** Hôm nay
-- **Chương 47:** Khảo Nghiệm Đầu Tiên
-- **Chương 48:** Ảo Trận Vấn Tâm
+- **Chương 59:** Cạm Bẫy Bủa Vây
+- **Chương 60:** Huyết Sát Truy Kích
 - **Góc Nhìn:** Lâm Phong
-- **Tóm tắt:** Lâm Phong và Diệp Tĩnh Sương quyết định tham gia Đại Điển Tuyển Đồ ngoại môn của Cửu Hoa Kiếm Tông để lẩn trốn sự truy sát của Huyết Sát Minh. Họ xuất sắc ngụy trang thực lực và linh căn (Tĩnh Sương ngụy tạo tạp linh căn Thủy-Hỏa) để vượt qua vòng Cân Cốt Đo Thể. Ở vòng tiếp theo, cả hai đối mặt với Huyễn Mộng Vấn Tâm Trận trong Mê Tung Lâm. Lâm Phong và Tĩnh Sương lần lượt vượt qua bóng ma quá khứ bằng ý chí sắt đá và bản năng sinh tồn mãnh liệt, chính thức đặt chân lên con đường dẫn vào ngoại môn.
-- **Tình trạng:** Hoàn thành. Đã vượt qua hai vòng đầu của Đại Điển.
+- **Tóm tắt:** Lâm Phong phát hiện mạng lưới Huyết Sát Minh sử dụng Huyết Mạch Tinh đầu độc nguồn nước để khống chế đệ tử ngoại môn Cửu Hoa. Nhận thấy mình bị theo dõi và sắp bị bao vây, Lâm Phong và Tĩnh Sương lập kế hoạch tẩu thoát: lôi kéo đám đệ tử bị khống chế và Huyết Sứ vào Vườn Thuốc Bỏ Hoang gần cấm địa nội môn, mục đích tạo ra một vụ nổ lớn để kinh động Trưởng Lão nội môn, mượn đao giết người và tạo cơ hội phá vây. Chương kết thúc khi cả hai dụ thành công kẻ thù vào tròng và đối mặt trực tiếp với Huyết Sứ.
+- **Tình trạng:** Hoàn thành. Kế hoạch đã giăng xong, chuẩn bị khai chiến.

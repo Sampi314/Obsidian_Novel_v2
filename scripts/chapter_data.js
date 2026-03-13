@@ -394,6 +394,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00058_Con_Mồi_Bị_Theo_Dõi.md",
       "title": "Chương 58: Con Mồi Bị Theo Dõi"
+    },
+    {
+      "filename": "Chương_00059_Cạm_Bẫy_Bủa_Vây.md",
+      "title": "Chương 59: Cạm Bẫy Bủa Vây"
+    },
+    {
+      "filename": "Chương_00060_Huyết_Sát_Truy_Kích.md",
+      "title": "Chương 60: Huyết Sát Truy Kích"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
