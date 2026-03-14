@@ -98,3 +98,5 @@
 - [Chương 70: Sự Thật Trong Hang Băng](Chương_00070_Sự_Thật_Trong_Hang_Băng.md)
 - [Chương 71: Đường Hầm Huyết Thần](Chương_00071_Đường_Hầm_Huyết_Thần.md)
 - [Chương 72: Bóng Tối Đông Hoang](Chương_00072_Bóng_Tối_Đông_Hoang.md)
+- [Chương 73: Bí Mật Sau Cánh Cửa Đá](Chương_00073_Bí_Mật_Sau_Cánh_Cửa_Đá.md)
+- [Chương 74: Đụng Độ Huyết Sứ Đông Hoang](Chương_00074_Đụng_Độ_Huyết_Sứ_Đông_Hoang.md)

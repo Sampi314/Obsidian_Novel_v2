@@ -14,9 +14,9 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 72 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 74 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 90 | Arc 10 — Hai Kẻ Cô Độc | Đang viết catch-up redesign (Task 8) |
+| Góc Nhìn A Ngốc | 92 | Arc 10 — Hai Kẻ Cô Độc | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,8 +66,8 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 10 (Hai Kẻ Cô Độc), viết tiếp Ch.91 trở đi cho A Ngốc.
-2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 73, 74... cho Góc Nhìn Lâm Phong.
+1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 10 (Hai Kẻ Cô Độc), viết tiếp Ch.93 trở đi cho A Ngốc.
+2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 75, 76... cho Góc Nhìn Lâm Phong.
 3. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
@@ -75,7 +75,7 @@
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 73, 74... cho Góc Nhìn Lâm Phong.
+- Tiếp tục viết chương 75, 76... cho Góc Nhìn Lâm Phong.
 - Lâm Phong và Diệp Tĩnh Sương đối mặt với lũ Sinh Vật Bán Dẫn và khám phá phế tích của Tinh Linh Tộc sâu trong hầm ngầm Huyết Sát Minh ở Rừng Tịch Liêu.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
@@ -168,7 +168,8 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã viết chương 87-88 cho Góc Nhìn A Ngốc, hoàn thành Arc 9 (Kim Đan). Lệ Vô Tâm tỉnh lại, nhận ra mình phụ thuộc vào A Ngốc để sống sót. Hắn miễn cưỡng chấp nhận dẫn A Ngốc theo trên đường chạy trốn sang Tây Mạc.
+> Đã viết chương 91-92 cho Góc Nhìn A Ngốc, tiếp tục Arc 10. Lệ Vô Tâm phụ thuộc vào Hỗn Độn Kim Đan của A Ngốc để thanh lọc nước uống. Cả hai đụng độ sa tặc Huyết Sa Bang tại ranh giới Tây Mạc, Lệ Vô Tâm dùng tàn lực sát hại chúng nhưng lừa A Ngốc là "bọn họ đang ngủ" để giữ lại sự bảo vệ của A Ngốc.
+> Đã viết chương 73-74 cho Góc Nhìn Lâm Phong. Lâm Phong và Diệp Tĩnh Sương thâm nhập Phế Tích Tinh Linh Đông Hoang, phát hiện Huyết Sát Minh dùng nơi này làm cơ sở ngầm dung luyện Huyết Tinh Sa. Bọn họ chính thức khai chiến với một Huyết Sứ Trúc Cơ Sơ Kỳ.
 
 ---
 

@@ -6,34 +6,21 @@
 - **[Hôm nay]**: Lâm Phong catch-up Chương 65, 66. Theo dấu Băng Lang Vương ở Đông Hoang.
 - **[Hôm nay]**: A Ngốc trải qua Arc 4, đối mặt với dịch Huyết Thần Độc, chôn cất Làng Chặt Củi.
 - **[Hôm nay]**: Viết Chương 59-64 (Góc Nhìn Lâm Phong). Bị Huyết Sứ bao vây, chạy trốn khỏi Cửu Hoa và tiến vào Đông Hoang.
+- **[Hôm nay]**: A Ngốc hoàn thành Arc 6 (Bóng Ma Phía Trước). Cứu đứa trẻ Yêu Tộc.
+- **[Hôm nay]**: A Ngốc bắt đầu Arc 7 (Vạn Yêu Thành). Cứu Yêu Tộc, đột phá Trúc Cơ Hậu Kỳ.
+- **[Hôm nay]**: A Ngốc hoàn thành Arc 8 (Băng Nguyên Cô Tịch). Gặp Sở Lăng Sương.
+- **[Hôm nay]**: Lệ Vô Tâm hoàn thành Bridge Arc (Sụp Đổ). Trốn chạy đến đền hoang.
+- **[Hôm nay]**: A Ngốc bắt đầu Arc 9 (Kim Đan). Gặp Lệ Vô Tâm, ngưng tụ Bi Đan.
+- **[Hôm nay]**: Viết Chương 85-86 (Góc Nhìn A Ngốc) & Chương 69-70 (Góc Nhìn Lâm Phong).
+- **[Hôm nay]**: Viết Chương 89-90 (Góc Nhìn A Ngốc) & Chương 71-72 (Góc Nhìn Lâm Phong). Bắt đầu Arc 10 (Hai Kẻ Cô Độc).
 
 ## PHIÊN GẦN NHẤT
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
-| Hôm nay | Tổng Quản | Viết Chương 89-90 (Góc Nhìn A Ngốc) & Chương 71-72 (Góc Nhìn Lâm Phong) | Hoàn Thành | Bắt đầu Arc 10 (Hai Kẻ Cô Độc) cho A Ngốc: A Ngốc và Lệ Vô Tâm bắt đầu hành trình sang Tây Mạc. Lệ Vô Tâm mâu thuẫn nội tâm sâu sắc khi phụ thuộc vào Hỗn Độn chi lực từ viên Bi Đan của A Ngốc. Catch-up Lâm Phong: Khám phá đường hầm Huyết Thần Độc dưới Rừng Tịch Liêu, đối đầu với Sinh Vật Bán Dẫn và phát hiện một phế tích nghi của Tinh Linh Tộc bị Huyết Sát Minh chiếm đóng. |
-| Hôm nay | Tổng Quản | Viết Chương 85-86 (Góc Nhìn A Ngốc) & Chương 69-70 (Góc Nhìn Lâm Phong) | Hoàn Thành | Viết Chương 85-86 cho A Ngốc, khắc họa sự tỉnh lại của Lệ Vô Tâm và mâu thuẫn nội tâm của hắn trước sự hồn nhiên của A Ngốc. Viết Chương 69-70 cho Lâm Phong, đánh bại Băng Lang Vương và phát hiện đường hầm Huyết Thần Độc, hé lộ Huyết Sát Minh đang bành trướng ra Đông Hoang. |
-| Hôm nay | Tổng Quản | Viết Chương 75-78 (Góc Nhìn A Ngốc) | Hoàn Thành | Bắt đầu Arc 9 (Kim Đan). A Ngốc và Sở Lăng Sương trở về Nam Cương. Gặp gỡ và cứu Diệp Tĩnh Sương, Lâm Phong. A Ngốc đi vào tàn tích Vạn Độc Môn, gặp Lệ Vô Tâm đang hấp hối và kết thành Kim Đan hoàn mỹ. Tuân thủ quy tắc "Dual Narration". |
-| Hôm nay | Tổng Quản | Viết Chương 147-152 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Hoàn thành Lệ Vô Tâm Bridge Arc (Sụp Đổ). Trận chiến sinh tử giữa Lệ Vô Tâm và Độc Cô Lão Quái dẫn đến sự sụp đổ của Huyết Trì và Vạn Độc Môn. Lệ Vô Tâm trốn chạy với Kim Đan rạn nứt khỏi sự truy sát của Chính Đạo và Huyết Sát Minh, cuối cùng gục ngã tại ngôi làng bỏ hoang và được A Ngốc tìm thấy. Sẵn sàng viết Arc 9 cho A Ngốc. |
-| Hôm nay | Tổng Quản | Viết Chương 137-140 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Bắt đầu Lệ Vô Tâm Bridge Arc (Sụp Đổ). Lệ Vô Tâm trở lại Vạn Độc Môn, thanh trừng nội bộ, thiết lập sự thống trị bằng uy áp Kim Đan song sắc. Dung hợp Hỗn Độn Băng Ma với trận pháp phòng ngự. Sóng gió 3 mặt từ Chính Đạo, Huyết Sát Minh và Độc Cô Lão Quái bắt đầu bủa vây. |
-
-| Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
-|---|---|---|---|---|
-| Hôm nay | Tổng Quản | Viết Chương 46-54 (Góc Nhìn A Ngốc) | Hoàn Thành | Hoàn thành Arc 6 (Bóng Ma Phía Trước). A Ngốc cứu sống một đứa trẻ Yêu Tộc và thanh tẩy một cây cổ thụ. Nguyệt Dao Nữ Vương ra lệnh chia cắt Lục Tiêu và A Ngốc vì sợ nguy hiểm. A Ngốc bị bỏ lại một mình, đột phá Trúc Cơ Trung Kỳ trong nỗi đau bị bỏ rơi. |
-| Hôm nay | Tổng Quản | Viết Chương 43-45 (Góc Nhìn A Ngốc) | Hoàn Thành | Bắt đầu Arc 6 (Bóng Ma Phía Trước). A Ngốc bước vào Vĩnh Hằng Sâm Lâm, cứu Lục Tiêu khỏi Huyết Thần Độc. Thiết lập kết nối đầu tiên với Tinh Linh Tộc. |
-| Hôm nay | Tổng Quản | Viết Chương 55-58 (Góc Nhìn A Ngốc) | Hoàn Thành | Bắt đầu Arc 7 (Vạn Yêu Thành). A Ngốc chữa trị tàn dư sau nội chiến Vạn Yêu Thành do Lệ Vô Tâm gây ra, liên hệ với Nham Thần và bùng nổ Hỗn Độn đột phá Trúc Cơ Hậu Kỳ đẩy lui Huyết Sát Minh. |
-| Hôm nay | Tổng Quản | Viết Chương 67-70 (Góc Nhìn A Ngốc) | Hoàn Thành | Bắt đầu Arc 8 (Băng Nguyên Cô Tịch). A Ngốc đi về phương Bắc, lần đầu thấy tuyết, phát hiện tàn tích những nạn nhân bị Lệ Vô Tâm đóng băng. Gặp gỡ và đồng hành với Băng Phách Kiếm Sở Lăng Sương. |
-| Hôm nay | Tổng Quản | Viết Chương 71-74 (Góc Nhìn A Ngốc) | Hoàn Thành | Hoàn thành Arc 8. A Ngốc và Sở Lăng Sương đi sâu vào Băng Ngục Thành. A Ngốc cộng hưởng ma khí Lệ Vô Tâm, chạm ngưỡng Trúc Cơ Viên Mãn. Lý Tuyết Ưng phát hiện Hỗn Độn Linh Căn và ra lệnh cho Sở Lăng Sương bảo vệ hắn. |
+| Hôm nay | Tổng Quản | Viết Chương 91-92 (Góc Nhìn A Ngốc) & Chương 73-74 (Góc Nhìn Lâm Phong) | Hoàn Thành | Tiếp tục Arc 10 cho A Ngốc (thanh lọc nước cho Lệ Vô Tâm, đụng độ sa tặc). Lâm Phong đi vào Phế Tích Tinh Linh Đông Hoang, đụng độ Huyết Sứ và phát hiện mạng lưới Huyết Tinh Sa. |
 
 ## GHI CHÚ GẦN ĐÂY
-- **2026-03-13:** Đã hoàn thành Arc 7 (Chương 59-66) cho A Ngốc, bám sát redesign spec (2026-03-13-a-ngoc-arc-redesign.md), tuân thủ Dual Narration và Cultivation = Loss rule. Đã bổ sung cập nhật vào `HỒ_SƠ_THẾ_GIỚI.md` về sự kiện Vạn Yêu Thành. Đã cập nhật frontend.
-- **Hôm nay:** Hoàn thành Arc 8 (Băng Nguyên Cô Tịch) cho A Ngốc, viết Chương 67-74. Gặp Sở Lăng Sương và Lý Tuyết Ưng tại Băng Ngục Thành. Hỗn Độn Linh Căn bắt đầu cộng hưởng trực tiếp với ma khí của Lệ Vô Tâm. Cập nhật frontend data. Sắp tới cần viết Lệ Vô Tâm Bridge Arc trước khi viết Arc 9 cho A Ngốc.
-- **Hôm nay:** Bắt đầu Arc 9 (Kim Đan) cho A Ngốc, viết Chương 75-78. Chú ý liên kết trực tiếp với Chương 152 của Lệ Vô Tâm. Đã cập nhật `HỒ_SƠ_THẾ_GIỚI.md` với hành trình của A Ngốc đến Kim Đan.
-
-## 2026-03-14: Viết Chương (A Ngốc Arc 9, Ch.79-82)
-- **Hành động:** Viết 4 chương tiếp theo (79-82) cho quá trình A Ngốc cứu chữa Lệ Vô Tâm tại đền hoang. Áp dụng quy tắc Dual Narration, khai thác triệt để sự tương phản nội tâm của Lệ Vô Tâm và sự hồn nhiên của A Ngốc.
-- **Trạng thái:** Hoàn thành tốt. Nhịp độ và word count đảm bảo. Đã sync `chapter_data.js`.
-
-## Hôm nay: Viết Catch-up Lâm Phong và Redesign A Ngốc
-- **Hành động:** Viết chương 67, 68 cho Lâm Phong (đối đầu Băng Lang Vương) và chương 83, 84 cho A Ngốc (Bi Đan phát sáng, Lệ Vô Tâm bối rối). Cập nhật `MỤC_LỤC.md` và `chapter_data.js`.
-- **Trạng thái:** Hoàn thành tốt. Nhịp độ và quy tắc POV được đảm bảo.
+- **Hôm nay:** Hoàn thành Arc 8 (Băng Nguyên Cô Tịch) cho A Ngốc, viết Chương 67-74. Gặp Sở Lăng Sương và Lý Tuyết Ưng tại Băng Ngục Thành.
+- **Hôm nay:** Bắt đầu Arc 9 (Kim Đan) cho A Ngốc, viết Chương 75-78.
+- **Hôm nay:** Bắt đầu Arc 10 (Hai Kẻ Cô Độc) cho A Ngốc, viết Chương 89-92. Lệ Vô Tâm và A Ngốc đi về phía Tây. Lâm Phong khám phá Phế Tích Tinh Linh (Chương 73-74). Đã sync data.
