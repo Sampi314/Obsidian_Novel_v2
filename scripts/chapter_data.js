@@ -372,6 +372,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00074_Mệnh_Lệnh_Bảo_Vệ.md",
       "title": "Chương 74: Mệnh Lệnh Bảo Vệ"
+    },
+    {
+      "filename": "Chương_00075_Trở_Về_Phương_Nam.md",
+      "title": "Chương 75: Trở Về Phương Nam"
+    },
+    {
+      "filename": "Chương_00076_Cuộc_Hội_Ngộ_Không_Ngờ.md",
+      "title": "Chương 76: Cuộc Hội Ngộ Không Ngờ"
+    },
+    {
+      "filename": "Chương_00077_Tàn_Tích_Vạn_Độc.md",
+      "title": "Chương 77: Tàn Tích Vạn Độc"
+    },
+    {
+      "filename": "Chương_00078_Người_Bệnh_Trong_Đền_Hoang.md",
+      "title": "Chương 78: Người Bệnh Trong Đền Hoang"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
