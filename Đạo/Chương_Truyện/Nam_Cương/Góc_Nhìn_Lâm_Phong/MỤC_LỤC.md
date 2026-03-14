@@ -106,3 +106,5 @@
 - [Chương 78: Hủy Diệt Nguồn Độc](Chương_00078_Hủy_Diệt_Nguồn_Độc.md)
 - [Chương 79: Bình Minh Sau Bão](Chương_00079_Bình_Minh_Sau_Bão.md)
 - [Chương 80: Lối Đi Mới](Chương_00080_Lối_Đi_Mới.md)
+- [Chương 81: Hành Trình Khẩn Cấp](Chương_00081_Hành_Trình_Khẩn_Cấp.md)
+- [Chương 82: Bóng Ma Biên Giới](Chương_00082_Bóng_Ma_Biên_Giới.md)

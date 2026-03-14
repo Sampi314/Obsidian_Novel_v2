@@ -18,6 +18,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 115-116 (Góc Nhìn A Ngốc) & Chương 81-82 (Góc Nhìn Lâm Phong) | Hoàn Thành | A Ngốc bảo vệ Lệ Vô Tâm trước Tinh Linh Tộc, hai bên đạt thỏa hiệp gượng ép. Nhóm Lâm Phong gấp rút đến Vĩnh Hằng Sâm Lâm chặn Huyết Sát Minh lấy Huyết Liên. |
 | Hôm nay | Tổng Quản | Viết Chương 109-112 (Góc Nhìn A Ngốc) | Hoàn Thành | Hoàn thành Arc 11. Hậu quả bão cát, Lệ Vô Tâm tha chết cho 5 tên sát thủ Huyết Sát Minh ở Họng Quỷ, tiến vào vùng giáp ranh Đông Hoang. |
 | Hôm nay | Tổng Quản | Viết Chương 97-98 (Góc Nhìn A Ngốc) & Chương 75-76 (Góc Nhìn Lâm Phong) | Hoàn Thành | A Ngốc phát hiện sự thật Lệ Vô Tâm rải Huyết Thần Độc nhưng quyết định ở lại. Lâm Phong đánh bại Huyết Sứ, cứu Cự Nhân. |
 | Hôm nay | Tổng Quản | Viết Chương 95-96 (Góc Nhìn A Ngốc) | Hoàn Thành | Tiếp tục Arc 10 cho A Ngốc. Hứa Thanh Vân hộ tống đi qua bão cát, Lệ Vô Tâm âm thầm hạ gục lính canh mở đường vào Trạm Dừng Chân. |
@@ -27,6 +28,7 @@
 | Hôm nay | Tổng Quản | Viết Chương 107-108 (Góc Nhìn A Ngốc) | Hoàn Thành | Tiếp tục Arc 11. Lệ Vô Tâm kiềm chế bản tính, hạ gục sa tặc bằng thuốc ngủ và dùng kết giới bảo vệ thương đoàn khỏi Hắc Sa Bão. |
 
 ## GHI CHÚ GẦN ĐÂY
+- **Hôm nay:** Viết Chương 115-116 (A Ngốc) và 81-82 (Lâm Phong). A Ngốc cứu Lệ Vô Tâm khỏi Tinh Linh Tộc, nhóm Lâm Phong gấp rút đến Vĩnh Hằng Sâm Lâm chặn Huyết Sát Minh lấy Huyết Liên.
 - **Hôm nay:** Hoàn thành Arc 11 (Sa Mạc Và Nước Mắt) cho A Ngốc, viết Chương 109-112. Lệ Vô Tâm có chuyển biến tâm lý rõ rệt: tha cho 5 tên sát thủ Huyết Sát Minh và chấp nhận đi cùng A Ngốc tiến vào Vĩnh Hằng Sâm Lâm (Đông Hoang).
 - **Hôm nay:** Viết Chương 107-108 cho A Ngốc. Lệ Vô Tâm phải kiềm chế sát tính khi ở cạnh A Ngốc, bất đắc dĩ bảo vệ thương đoàn khỏi Hắc Sa Bão chết chóc.
 - **Hôm nay:** Tiếp tục Arc 10 (Hai Kẻ Cô Độc) cho A Ngốc, viết Chương 95-96. Cả 3 tiến vào Trạm Dừng Chân Số 7 của Thiên Sa Thương Hội.

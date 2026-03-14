@@ -532,6 +532,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00114_Bóng_Ma_Trong_Rừng.md",
       "title": "Chương 114: Bóng Ma Trong Rừng"
+    },
+    {
+      "filename": "Chương_00115_Chắn_Tên.md",
+      "title": "Chương 115: Chắn Tên"
+    },
+    {
+      "filename": "Chương_00116_Hiệp_Ước_Gượng_Ép.md",
+      "title": "Chương 116: Hiệp Ước Gượng Ép"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -932,6 +940,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00080_Lối_Đi_Mới.md",
       "title": "Chương 80: Lối Đi Mới"
+    },
+    {
+      "filename": "Chương_00081_Hành_Trình_Khẩn_Cấp.md",
+      "title": "Chương 81: Hành Trình Khẩn Cấp"
+    },
+    {
+      "filename": "Chương_00082_Bóng_Ma_Biên_Giới.md",
+      "title": "Chương 82: Bóng Ma Biên Giới"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
