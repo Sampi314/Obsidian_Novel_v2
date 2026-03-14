@@ -1,3 +1,22 @@
+---
+type: character
+name: Hàn Thanh Nguyệt
+hantu: 寒清月
+archetype: Kiếm Tu
+race: Nhân Tộc
+avatar: Hàn_Thanh_Nguyệt.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Trúc Cơ Sơ Kỳ
+    methods: [Tàn Nguyệt Kiếm Quyết]
+    inventory:
+      - name: Thanh kiếm gãy
+        type: Vũ Khí
+    stats: [20, 35, 30, 45, 25, 40]
+    relationships: []
+---
+
 # HỒ SƠ NHÂN VẬT: HÀN THANH NGUYỆT
 
 - **Tên Nhân Vật:** Hàn Thanh Nguyệt (Hàn Tiểu Nha).

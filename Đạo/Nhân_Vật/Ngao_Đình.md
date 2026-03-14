@@ -1,3 +1,31 @@
+---
+type: character
+name: Ngao Đình
+hantu: 敖霆
+archetype: Chiến Sĩ
+race: Long Tộc
+avatar: Ngao_Đình.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Nguyên Anh Trung Kỳ
+    methods: [Thái Cổ Long Thần Quyết]
+    inventory:
+      - name: Lôi Cốt Kích
+        type: Vũ Khí
+    stats: [1500, 900, 200, 700, 1400, 300]
+    relationships:
+      - character: Phương Vô Kỵ
+        description: Grudge — deeply resents and despises him
+        feelings:
+          yeu: -40
+          han: 60
+          kinh: -50
+          tin: -70
+          so: 0
+          on: -80
+---
+
 # HỒ SƠ NHÂN VẬT: NGAO ĐÌNH (敖霆)
 
 ## I. THÔNG TIN CƠ BẢN

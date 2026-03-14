@@ -1,3 +1,42 @@
+---
+type: character
+name: Lệ Nhược Thủy
+hantu: 麗若水
+archetype: Hải Yêu Vương
+race: Hải Tộc
+avatar: Lệ_Nhược_Thủy.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Hóa Thần Sơ Kỳ
+    methods: [Âm Dương Thủy Nguyệt Quyết]
+    inventory:
+      - name: Hải Thần Xoa
+        type: Pháp Bảo
+      - name: Ngọc Trai Huyễn Ảnh
+        type: Pháp Bảo
+    stats: [700, 2000, 1500, 900, 1200, 1200]
+    relationships:
+      - character: Độc Cô Lão Quái
+        description: Mortal enemy
+        feelings:
+          yeu: -90
+          han: 95
+          kinh: -30
+          tin: -95
+          so: 5
+          on: -100
+      - character: Ngao Đình
+        description: Nominal allegiance but independent
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 40
+          tin: 20
+          so: 15
+          on: 0
+---
+
 # HỒ SƠ NHÂN VẬT: LỆ NHƯỢC THỦY (麗若水)
 
 ## 1. THÔNG TIN CƠ BẢN

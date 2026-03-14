@@ -1,3 +1,31 @@
+---
+type: character
+name: Lâm Phong
+hantu: 林風
+archetype: Cung Thủ
+race: Nhân Tộc
+avatar: Lâm_Phong.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Trúc Cơ Sơ Kỳ
+    methods: [Thanh Mộc Trường Sinh Quyết]
+    inventory:
+      - name: Truy Phong Cung
+        type: Pháp Khí
+    stats: [30, 40, 45, 50, 25, 20]
+    relationships:
+      - character: Diệp Tĩnh Sương
+        description: Đồng hành, người được bảo vệ
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 50
+          tin: 75
+          so: 0
+          on: 30
+---
+
 # HỒ SƠ NHÂN VẬT: Lâm Phong
 
 ## I. THÔNG TIN CƠ BẢN

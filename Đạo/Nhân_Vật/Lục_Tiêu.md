@@ -1,3 +1,31 @@
+---
+type: character
+name: Lục Tiêu
+hantu: 綠簫
+archetype: Âm Luật Sư
+race: Tinh Linh Tộc
+avatar: Lục_Tiêu.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Kim Đan Sơ Kỳ
+    methods: [Thanh Âm Vạn Vật Quyết]
+    inventory:
+      - name: Ngọc Tiêu Cửu Khúc
+        type: Pháp Bảo
+    stats: [80, 950, 880, 420, 420, 980]
+    relationships:
+      - character: Nguyệt Dao
+        description: Queen/mother figure
+        feelings:
+          yeu: 85
+          han: 0
+          kinh: 95
+          tin: 100
+          so: 0
+          on: 100
+---
+
 # LỤC TIÊU (綠簫)
 
 ## I. THÔNG TIN CÁ CƠ BẢN

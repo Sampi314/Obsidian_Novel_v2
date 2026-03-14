@@ -1,3 +1,51 @@
+---
+type: character
+name: Lệ Vô Tâm
+hantu: 厲無心
+archetype: Độc Tu
+race: Nhân Tộc
+avatar: Lệ_Vô_Tâm.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Trúc Cơ Viên Mãn
+    methods: [Vạn Độc Phệ Hồn Quyết]
+    inventory:
+      - name: Huyết Độc Phiến
+        type: Vũ Khí
+      - name: Thiên Tinh Cổ
+        type: Pháp Bảo
+    stats: [65, 130, 140, 90, 65, 110]
+    relationships:
+      - character: Độc Cô Lão Quái
+        description: Master
+        feelings:
+          yeu: -20
+          han: 30
+          kinh: 40
+          tin: -30
+          so: 60
+          on: -20
+      - character: Diệp Tĩnh Sương
+        description: Enemy/obsession
+        feelings:
+          yeu: -30
+          han: 80
+          kinh: 30
+          tin: -80
+          so: 0
+          on: -100
+      - character: Lâm Phong
+        description: Nemesis
+        feelings:
+          yeu: -50
+          han: 85
+          kinh: -10
+          tin: -90
+          so: 0
+          on: -100
+---
+
 # HỒ SƠ NHÂN VẬT: LỆ VÔ TÂM
 
 ## I. THÔNG TIN CƠ BẢN

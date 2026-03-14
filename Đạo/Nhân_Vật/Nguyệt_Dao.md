@@ -1,3 +1,49 @@
+---
+type: character
+name: Nguyệt Dao
+hantu: 月瑤
+archetype: Cung Thủ
+race: Tinh Linh Tộc
+avatar: Nguyệt_Dao.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Hóa Thần Sơ Kỳ
+    methods: [Nguyệt Linh Trường Sinh Quyết]
+    inventory:
+      - name: Nguyệt Thần Cung
+        type: Pháp Bảo
+    stats: [600, 1800, 1200, 1400, 700, 1800]
+    relationships:
+      - character: Lục Tiêu
+        description: Adopted daughter — deep maternal love
+        feelings:
+          yeu: 90
+          han: 0
+          kinh: 50
+          tin: 95
+          so: 10
+          on: 0
+      - character: Độc Cô Lão Quái
+        description: Mortal enemy — millennia of hatred
+        feelings:
+          yeu: -95
+          han: 100
+          kinh: -40
+          tin: -100
+          so: 5
+          on: -100
+      - character: Diệp Thanh Y
+        description: Reluctant ally turned friend
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 55
+          tin: 45
+          so: 0
+          on: 30
+---
+
 # NGUYỆT DAO (月瑤)
 
 ## I. THÔNG TIN CƠ BẢN

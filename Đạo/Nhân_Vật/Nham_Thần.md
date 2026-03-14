@@ -1,3 +1,40 @@
+---
+type: character
+name: Nham Thần
+hantu: 岩神
+archetype: Thể Tu
+race: Cự Tộc
+avatar: Nham_Thần.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Hóa Thần Đỉnh Phong
+    methods: [Đại Địa Trường Sinh Quyết]
+    inventory:
+      - name: Bàn Thạch Cự Phủ
+        type: Vũ Khí
+    stats: [4000, 2000, 1000, 500, 4500, 2000]
+    relationships:
+      - character: Diệp Tĩnh Sương
+        description: Met and guided her on her path
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 25
+          tin: 30
+          so: 0
+          on: 0
+      - character: Phương Vô Kỵ
+        description: Annoyed by his thievery
+        feelings:
+          yeu: -10
+          han: 10
+          kinh: -20
+          tin: -30
+          so: 0
+          on: -30
+---
+
 # HỒ SƠ NHÂN VẬT: NHAM THẦN (岩神)
 
 ## I. THÔNG TIN CƠ BẢN

@@ -1,3 +1,44 @@
+---
+type: character
+name: Độc Cô Lão Quái
+hantu: 独孤老怪
+archetype: Độc Sư
+race: Nhân Tộc
+avatar: Độc_Cô_Lão_Quái.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Hóa Thần Sơ Kỳ
+    methods: [Vạn Độc Chân Kinh]
+    inventory:
+      - name: Vạn Độc Châu
+        type: Pháp Bảo
+      - name: Thiên Tằm Ty
+        type: Vũ Khí
+      - name: Cổ Vương Đỉnh
+        type: Pháp Bảo
+    stats: [700, 1600, 1800, 700, 1400, 800]
+    relationships:
+      - character: Đan Dương Tử
+        description: Kẻ thù không đội trời chung
+        feelings:
+          yeu: -80
+          han: 90
+          kinh: 20
+          tin: -95
+          so: 5
+          on: -100
+      - character: Lệ Vô Tâm
+        description: Đệ tử
+        feelings:
+          yeu: -10
+          han: 0
+          kinh: 30
+          tin: -40
+          so: 0
+          on: 0
+---
+
 # HỒ SƠ NHÂN VẬT: ĐỘC CÔ LÃO QUÁI
 
 ## I. THÔNG TIN CƠ BẢN

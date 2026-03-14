@@ -1,3 +1,49 @@
+---
+type: character
+name: Phương Vô Kỵ
+hantu: 方無忌
+archetype: Tán Tu
+race: Nhân Tộc
+avatar: Phương_Vô_Kỵ.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Trúc Cơ Viên Mãn
+    methods: [Thái Cực Vạn Pháp Quyết]
+    inventory:
+      - name: Vô Tướng Phiến
+        type: Pháp Bảo
+    stats: [45, 85, 120, 95, 40, 95]
+    relationships:
+      - character: Diệp Tĩnh Sương
+        description: Rivals turned allies, mutual recognition of each other's genius
+        feelings:
+          yeu: 15
+          han: 10
+          kinh: 60
+          tin: 40
+          so: 0
+          on: 0
+      - character: Lâm Phong
+        description: Good friends, genuine camaraderie
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 30
+          tin: 55
+          so: 0
+          on: 10
+      - character: Ngao Đình
+        description: Enemy, a challenge and obstacle to overcome
+        feelings:
+          yeu: -20
+          han: 30
+          kinh: 40
+          tin: -60
+          so: 30
+          on: -50
+---
+
 # HỒ SƠ NHÂN VẬT: PHƯƠNG VÔ KỴ (方無忌)
 
 ## I. THÔNG TIN CƠ BẢN

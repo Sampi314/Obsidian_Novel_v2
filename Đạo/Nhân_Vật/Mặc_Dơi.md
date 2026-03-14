@@ -1,3 +1,30 @@
+---
+type: character
+name: Mặc Dơi
+archetype: Ám Sát
+race: Nhân Tộc
+avatar: Mặc_Dơi.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Luyện Khí Đỉnh Phong
+    methods: [Hắc Bức Hấp Huyết Quyết]
+    inventory:
+      - name: Khô Lâu Trượng
+        type: Vũ Khí
+    stats: [8, 40, 35, 50, 10, 12]
+    relationships:
+      - character: Lệ Vô Tâm
+        description: Fears his master
+        feelings:
+          yeu: -30
+          han: 20
+          kinh: 10
+          tin: -20
+          so: 90
+          on: -50
+---
+
 # HỒ SƠ NHÂN VẬT: Mặc Dơi
 
 ## I. THÔNG TIN CƠ BẢN

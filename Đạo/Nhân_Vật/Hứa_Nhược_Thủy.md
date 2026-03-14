@@ -1,3 +1,40 @@
+---
+type: character
+name: Hứa Nhược Thủy
+hantu: 許若水
+archetype: Thương Nhân
+race: Nhân Tộc
+avatar: Hứa_Nhược_Thủy.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Nguyên Anh Sơ Kỳ
+    methods: [Thủy Sa Hóa Linh Quyết]
+    inventory:
+      - name: Quạt Lụa Thiên Sa
+        type: Pháp Bảo
+    stats: [350, 700, 850, 400, 350, 700]
+    relationships:
+      - character: Hứa Thanh Vân
+        description: Con trai
+        feelings:
+          yeu: 95
+          han: 0
+          kinh: -10
+          tin: 50
+          so: 30
+          on: 0
+      - character: Đan Dương Tử
+        description: Khách hàng
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 40
+          tin: 45
+          so: 10
+          on: 10
+---
+
 # HỒ SƠ NHÂN VẬT: HỨA NHƯỢC THỦY
 
 ## I. THÔNG TIN CƠ BẢN

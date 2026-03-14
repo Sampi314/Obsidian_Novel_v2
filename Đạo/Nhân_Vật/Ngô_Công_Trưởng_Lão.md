@@ -1,3 +1,42 @@
+---
+type: character
+name: Ngô Công Trưởng Lão
+hantu: 蜈蚣長老
+archetype: Độc Sư
+race: Nhân Tộc
+avatar: Ngô_Công_Trưởng_Lão.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Nguyên Anh Hậu Kỳ
+    methods: [Vạn Độc Chân Kinh]
+    inventory:
+      - name: Huyết Ngô Trượng
+        type: Vũ Khí
+      - name: Thiên Túc Giáp
+        type: Pháp Bảo
+    stats: [900, 1100, 500, 600, 1200, 200]
+    relationships:
+      - character: Lâm Phong
+        description: Enemy — murderous hatred
+        feelings:
+          yeu: -90
+          han: 100
+          kinh: -30
+          tin: -100
+          so: 0
+          on: -100
+      - character: Diệp Tĩnh Sương
+        description: Enemy — bitter hostility
+        feelings:
+          yeu: -80
+          han: 95
+          kinh: -20
+          tin: -100
+          so: 0
+          on: -100
+---
+
 # NGÔ CÔNG TRƯỞNG LÃO (蜈蚣長老)
 
 ## I. THÔNG TIN CƠ BẢN

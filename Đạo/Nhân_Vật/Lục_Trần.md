@@ -1,3 +1,49 @@
+---
+type: character
+name: Lục Trần
+hantu: 陸塵
+archetype: Kiếm Tu
+race: Nhân Tộc
+avatar: Lục_Trần.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Hóa Thần Sơ Kỳ
+    methods: [Cửu Hoa Kiếm Quyết]
+    inventory:
+      - name: Thanh Liên Kiếm
+        type: Pháp Bảo
+    stats: [1100, 1500, 1100, 1400, 1100, 1500]
+    relationships:
+      - character: Diệp Tĩnh Sương
+        description: Prized disciple
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 40
+          tin: 70
+          so: 0
+          on: 0
+      - character: Diệp Thanh Y
+        description: Old friend
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 60
+          tin: 65
+          so: 0
+          on: 40
+      - character: Độc Cô Lão Quái
+        description: Enemy
+        feelings:
+          yeu: -70
+          han: 80
+          kinh: -10
+          tin: -90
+          so: 5
+          on: -100
+---
+
 # LỤC TRẦN (陸塵)
 
 ## I. TỔNG QUAN

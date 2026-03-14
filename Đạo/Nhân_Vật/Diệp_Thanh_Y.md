@@ -1,3 +1,42 @@
+---
+type: character
+name: Diệp Thanh Y
+hantu: 葉青衣
+archetype: Y Sư
+race: Nhân Tộc
+avatar: Diệp_Thanh_Y.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Hóa Thần Sơ Kỳ
+    methods: [Thanh Nang Trường Sinh Quyết]
+    inventory:
+      - name: Thanh Nang Y Kinh
+        type: Tiên Khí
+      - name: Mộc Linh Trượng
+        type: Pháp Bảo
+    stats: [400, 2200, 2400, 500, 600, 1000]
+    relationships:
+      - character: Độc Cô Lão Quái
+        description: Kẻ thù
+        feelings:
+          yeu: -80
+          han: 70
+          kinh: -30
+          tin: -90
+          so: 5
+          on: -100
+      - character: Đan Dương Tử
+        description: Đồng minh
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 60
+          tin: 55
+          so: 0
+          on: 30
+---
+
 # HỒ SƠ NHÂN VẬT: DIỆP THANH Y
 
 ## I. THÔNG TIN CƠ BẢN

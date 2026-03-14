@@ -1,3 +1,24 @@
+---
+type: character
+name: Lục Ly
+hantu: 陆离
+archetype: Hộ Pháp
+race: Tinh Linh Tộc
+avatar: Lục_Ly.png
+arcs:
+  - arc: 1
+    status: Hồn Phách
+    cultivation: Trúc Cơ Viên Mãn
+    methods: [Thanh Âm Vạn Vật Quyết]
+    inventory:
+      - name: Ngọc Tiêu
+        type: Pháp Bảo
+      - name: Tinh Linh Hồn Châu
+        type: Pháp Bảo
+    stats: [10, 170, 120, 60, 110, 160]
+    relationships: []
+---
+
 # HỒ SƠ NHÂN VẬT: LỤC LY
 
 ## THÔNG TIN CƠ BẢN

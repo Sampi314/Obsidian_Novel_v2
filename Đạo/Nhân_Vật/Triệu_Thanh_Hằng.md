@@ -1,3 +1,22 @@
+---
+type: character
+name: Triệu Thanh Hằng
+hantu: 趙清恒
+archetype: Kiếm Tu
+race: Nhân Tộc
+avatar: Triệu_Thanh_Hằng.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Trúc Cơ Trung Kỳ
+    methods: [Lãnh Phong Kiếm Quyết]
+    inventory:
+      - name: Thu Thủy Kiếm
+        type: Vũ Khí
+    stats: [45, 50, 45, 80, 45, 65]
+    relationships: []
+---
+
 # HỒ SƠ NHÂN VẬT: TRIỆU THANH HẰNG
 
 ## THÔNG TIN CƠ BẢN

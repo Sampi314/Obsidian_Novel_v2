@@ -1,3 +1,33 @@
+---
+type: character
+name: Hứa Thanh Vân
+hantu: 许清云
+archetype: Du Hiệp
+race: Nhân Tộc
+avatar: Hứa_Thanh_Vân.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Luyện Khí Tầng 9
+    methods: [Lưu Sa Kiếm Quyết, Ngự Phong Thuật]
+    inventory:
+      - name: Thanh Nguyệt Kiếm
+        type: Vũ Khí
+      - name: Hộ Thân Ngọc Bội
+        type: Pháp Bảo
+    stats: [20, 18, 12, 35, 15, 20]
+    relationships:
+      - character: Hứa Nhược Thủy
+        description: Mother
+        feelings:
+          yeu: 70
+          han: 0
+          kinh: 30
+          tin: 60
+          so: 20
+          on: 80
+---
+
 # HỒ SƠ NHÂN VẬT: HỨA THANH VÂN
 
 ## I. THÔNG TIN CƠ BẢN

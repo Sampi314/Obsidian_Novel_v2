@@ -1,3 +1,29 @@
+---
+type: character
+name: Hắc Hạt Ma Trùng
+hantu: 黑蝎魔蟲
+archetype: Trùng Đế
+race: Trùng Tộc
+avatar: Hắc_Hạt_Ma_Trùng.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Nguyên Anh Hậu Kỳ
+    methods: [Thiên Trùng Đồng Hóa Quyết]
+    inventory: []
+    stats: [1500, 1000, 700, 800, 1400, 100]
+    relationships:
+      - character: Lệ Vô Tâm
+        description: Cộng sinh tạm thời
+        feelings:
+          yeu: -90
+          han: 40
+          kinh: -20
+          tin: -80
+          so: 10
+          on: -100
+---
+
 # HỒ SƠ NHÂN VẬT: HẮC HẠT MA TRÙNG (黑蝎魔蟲)
 
 ## 1. THÔNG TIN CƠ BẢN

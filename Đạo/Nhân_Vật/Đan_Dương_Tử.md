@@ -1,3 +1,42 @@
+---
+type: character
+name: Đan Dương Tử
+hantu: 丹陽子
+archetype: Đan Sư
+race: Nhân Tộc
+avatar: Đan_Dương_Tử.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Hóa Thần Sơ Kỳ
+    methods: [Cửu Chuyển Đan Hỏa Quyết]
+    inventory:
+      - name: Đan Hà Đỉnh
+        type: Tiên Khí
+      - name: Hỏa Vân Phiến
+        type: Pháp Bảo
+    stats: [500, 2500, 2200, 600, 700, 900]
+    relationships:
+      - character: Độc Cô Lão Quái
+        description: Kẻ thù không đội trời chung
+        feelings:
+          yeu: -90
+          han: 95
+          kinh: -20
+          tin: -95
+          so: 10
+          on: -100
+      - character: Lý Tuyết Ưng
+        description: Bạn bè dù tính cách trái ngược
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 50
+          tin: 60
+          so: 0
+          on: 30
+---
+
 # HỒ SƠ NHÂN VẬT: ĐAN DƯƠNG TỬ
 
 ## I. THÔNG TIN CƠ BẢN

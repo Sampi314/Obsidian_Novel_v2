@@ -1,3 +1,47 @@
+---
+type: character
+name: A Ngốc
+hantu: 阿傻
+archetype: Hỗn Độn Tu
+race: Nhân Tộc
+avatar: A_Ngốc.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Trúc Cơ Sơ Kỳ
+    methods: [Hỗn Nguyên Quy Nhất Quyết]
+    inventory: []
+    stats: [20, 80, 5, 15, 60, 50]
+    relationships:
+      - character: Lệ Vô Tâm
+        description: Người quan trọng nhất với nàng
+        feelings:
+          yeu: 70
+          han: 0
+          kinh: 0
+          tin: 80
+          so: 0
+          on: 0
+      - character: Phương Vô Kỵ
+        description: Người dạy nàng sinh tồn
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 20
+          tin: 40
+          so: 0
+          on: 50
+      - character: Lục Tiêu
+        description: Bạn bè, "Chị Lá"
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 10
+          tin: 60
+          so: 0
+          on: 0
+---
+
 # HỒ SƠ NHÂN VẬT: A NGỐC (阿傻)
 
 ## I. THÔNG TIN CƠ BẢN

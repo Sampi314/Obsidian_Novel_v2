@@ -1,3 +1,31 @@
+---
+type: character
+name: Lý Tuyết Ưng
+hantu: 李雪鹰
+archetype: Cầm Sư
+race: Băng Tộc
+avatar: Lý_Tuyết_Ưng.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Nguyên Anh Hậu Kỳ
+    methods: [Băng Tâm Quyết]
+    inventory:
+      - name: Băng Huyền Cầm
+        type: Pháp Bảo
+    stats: [700, 1400, 700, 700, 1100, 1400]
+    relationships:
+      - character: Đan Dương Tử
+        description: Friend
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 45
+          tin: 55
+          so: 0
+          on: 40
+---
+
 # LÝ TUYẾT ƯNG (李雪鹰)
 
 ## I. THÔNG TIN CƠ BẢN

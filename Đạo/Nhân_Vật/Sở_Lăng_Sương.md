@@ -1,3 +1,31 @@
+---
+type: character
+name: Sở Lăng Sương
+hantu: 楚凌霜
+archetype: Kiếm Tu
+race: Nhân Tộc
+avatar: Sở_Lăng_Sương.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Trúc Cơ Sơ Kỳ
+    methods: [Hàn Sương Kiếm Quyết]
+    inventory:
+      - name: Hàn Ngọc Kiếm
+        type: Vũ Khí
+    stats: [30, 30, 30, 45, 30, 35]
+    relationships:
+      - character: Diệp Tĩnh Sương
+        description: Admires from afar, deeply inspired by her senior
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 70
+          tin: 30
+          so: 0
+          on: 0
+---
+
 # HỒ SƠ NHÂN VẬT: SỞ LĂNG SƯƠNG
 
 - **Tên Nhân Vật:** Sở Lăng Sương (楚凌霜).
