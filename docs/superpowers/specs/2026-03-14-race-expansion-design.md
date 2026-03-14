@@ -51,10 +51,17 @@ Trong 10 Đại Chủng Tộc của Cố Nguyên Giới, 4 chủng tộc không 
 - Chỉ huy Mãng Tộc thuộc hạ đông đảo
 
 **Stats ước tính (Hóa Thần Sơ Kỳ):**
-`[6000, 9000, 12000, 8500, 5500, 10000]`
+`[Thể Lực: 6000, Linh Lực: 9000, Trí Tuệ: 12000, Tốc Độ: 8500, Phòng Ngự: 5500, Tâm Tính: 10000]`
 - Trí Tuệ và Tâm Tính cực cao (gián điệp chủ)
 - Linh Lực mạnh (Hóa Thần)
 - Thể Lực và Phòng Ngự trung bình (xà hình nhanh nhưng không cứng)
+
+**Backstory gợi ý:**
+- Sinh ra trong Vạn Yêu Sơn, con trai út của một Mãng Vương đời trước — không phải trưởng tử nên phải dùng mưu mẹo tranh giành quyền lực
+- Thắng Đại Hội Yêu Vương bằng trí tuệ thay vì vũ lực: đầu độc đối thủ trước trận đấu, mua chuộc đồng minh, giăng bẫy tại đấu trường
+- Xây dựng Khu Chợ Đen từ đống tro tàn của một trận đại chiến Yêu-Nhân, biến nơi bỏ hoang thành trung tâm tình báo
+- Từng mất toàn bộ thuộc hạ trong một lần bị Nhân Tộc lừa — kể từ đó không bao giờ tin ai hoàn toàn
+- Coi thường "Cường giả vi tôn" — tin rằng kẻ mạnh nhất chỉ là con rối của kẻ thông minh nhất
 
 ---
 
@@ -81,10 +88,18 @@ Trong 10 Đại Chủng Tộc của Cố Nguyên Giới, 4 chủng tộc không 
 - Chỉ huy hổ yêu thuộc hạ và chiến binh đấu trường
 
 **Stats ước tính (Hóa Thần Sơ Kỳ):**
-`[13000, 7000, 5500, 9000, 10000, 6000]`
+`[Thể Lực: 13000, Linh Lực: 7000, Trí Tuệ: 5500, Tốc Độ: 9000, Phòng Ngự: 10000, Tâm Tính: 6000]`
 - Thể Lực và Phòng Ngự cực cao (chiến binh thuần túy)
 - Tốc Độ mạnh (hổ hình)
 - Trí Tuệ và Tâm Tính thấp hơn (nóng nảy, dễ bị khích)
+
+**Backstory gợi ý:**
+- Con trai trưởng của Hổ Tộc Đại Trưởng Lão — sinh ra trong máu lửa, được nuôi dạy bằng đấu trường từ nhỏ
+- Giết cha ruột trong Lễ Hội Huyết Nguyệt để kế thừa Huyết Mạch Cổ Hổ — hành động được Yêu Tộc coi là vinh quang nhưng để lại vết sẹo tâm lý sâu thẳm
+- Xây dựng Khu Đấu Trường thành trung tâm phân xử tranh chấp — "mạnh thì thắng, yếu thì chết" là luật duy nhất
+- Từng đánh bại 11 Yêu Vương cấp Kim Đan trong một ngày tại Đại Hội Đấu Trường — danh hiệu "Huyết Hổ" ra đời từ đó
+- Khinh thường Lục Mãng Vương vì dùng mưu mẹo thay vì đấu công khai — nhưng trong thâm tâm sợ hãi vì không thể đoán được ý đồ của xà vương
+- Duy nhất một lần hỏi thăm bộ hạ bị thương (bí mật, không ai biết) — cảm xúc bị chôn sâu dưới lớp vỏ tàn bạo
 
 ---
 
@@ -110,7 +125,7 @@ Trong 10 Đại Chủng Tộc của Cố Nguyên Giới, 4 chủng tộc không 
 - Vũ Điệu Cầu Phong: vũ điệu chiến đấu trên không trung
 
 **Stats ước tính (Kim Đan Sơ Kỳ):**
-`[600, 1200, 1000, 1800, 400, 1100]`
+`[Thể Lực: 600, Linh Lực: 1200, Trí Tuệ: 1000, Tốc Độ: 1800, Phòng Ngự: 400, Tâm Tính: 1100]`
 - Tốc Độ cực cao (bay + phong hệ)
 - Linh Lực và Tâm Tính mạnh (cô độc rèn ý chí)
 - Phòng Ngự rất thấp (xương nhẹ, dễ gãy — đặc điểm Vũ Tộc)
@@ -147,7 +162,7 @@ Trong 10 Đại Chủng Tộc của Cố Nguyên Giới, 4 chủng tộc không 
 - Miễn nhiễm độc tố, bệnh tật, đau đớn
 
 **Stats ước tính (Hóa Thần Trung Kỳ):**
-`[14000, 6000, 7000, 2000, 15000, 12000]`
+`[Thể Lực: 14000, Linh Lực: 6000, Trí Tuệ: 7000, Tốc Độ: 2000, Phòng Ngự: 15000, Tâm Tính: 12000]`
 - Phòng Ngự tối đa (thân đá gần bất hoại)
 - Thể Lực cực cao (sức mạnh đại địa)
 - Tâm Tính rất cao (tâm trí đơn giản nhưng bất động — miễn nhiễm tâm ma)
@@ -185,7 +200,7 @@ Trong 10 Đại Chủng Tộc của Cố Nguyên Giới, 4 chủng tộc không 
 - Cộng Sinh: liên kết ký sinh/cộng sinh với sinh vật lớn hơn
 
 **Stats ước tính (Kim Đan Sơ Kỳ):**
-`[200, 1500, 1800, 1600, 100, 1400]`
+`[Thể Lực: 200, Linh Lực: 1500, Trí Tuệ: 1800, Tốc Độ: 1600, Phòng Ngự: 100, Tâm Tính: 1400]`
 - Trí Tuệ cực cao (y sư + gián điệp)
 - Tốc Độ và Linh Lực mạnh (cánh nhanh, pháp thuật vi mô)
 - Tâm Tính cao (kiên nhẫn, cẩn thận)
@@ -287,7 +302,7 @@ Các nhân vật mới tạo sợi dây liên kết giữa các khu vực hiện
 
 | Chủng Tộc | Trước | Sau | Nhân Vật Mới |
 |-----------|-------|-----|-------------|
-| Nhân Tộc | 14 | 14 | — |
+| Nhân Tộc (bao gồm Băng Tộc) | 16+1 | 17 | — |
 | Tinh Linh Tộc | 3 | 3 | — |
 | **Yêu Tộc** | **0** | **2** | Lục Mãng Vương, Huyết Hổ Vương |
 | **Vũ Tộc** | **0** | **1** | Phong Vũ Lâm |
@@ -301,10 +316,32 @@ Các nhân vật mới tạo sợi dây liên kết giữa các khu vực hiện
 
 ---
 
+## YAML Frontmatter Chi Tiết
+
+Thứ tự stats: `[Thể Lực, Linh Lực, Trí Tuệ, Tốc Độ, Phòng Ngự, Tâm Tính]`
+
+| Nhân Vật | archetype | methods | arc bắt đầu | inventory chính |
+|----------|-----------|---------|-------------|----------------|
+| Lục Mãng Vương | Xà Tu | [Thanh Mãng Độc Thuật, Thiên Xà Ẩn Thân Pháp] | 1 | Thanh Mãng Vương Bội (Pháp Bảo), Vạn Độc Nang (Linh Vật) |
+| Huyết Hổ Vương | Thể Tu | [Huyết Hổ Cuồng Chiến Quyết, Liệt Viêm Hổ Phệ] | 1 | Xích Viêm Hổ Trảo (Vũ Khí), Hổ Vương Chiến Giáp (Pháp Bảo) |
+| Phong Vũ Lâm | Cung Thủ | [Cầu Phong Cung Thuật, Vũ Tộc Thiên Nhãn Pháp] | 1 | Phá Phong Cung (Vũ Khí), Vũ Ý (Pháp Bảo) |
+| Cổ Nham | Thổ Tu | [Đại Địa Quy Nguyên Thuật, Kim Thạch Bất Hoại Thể] | 1 | Hắc Diệu Lõi Đá (Linh Vật), Cổ Thạch Hộ Phù (Pháp Bảo) |
+| Tiểu Dược | Y Tu | [Vi Mô Nhập Thể Thuật, Bách Thảo Giám Định Pháp] | 1 | Bọ Cánh Cứng Chiến Giáp (Vũ Khí), Thiên Dược Nang (Linh Vật) |
+
+Các trường `relationships.feelings` (yeu/han/kinh/tin/so/on) sẽ được xác định cụ thể khi tạo file nhân vật, dựa trên mô tả quan hệ ở trên.
+
+## Ghi Chú Về Ngân Hùng Vương (銀熊王)
+
+Vạn Yêu Thành có Tam Đại Yêu Vương: Huyết Hổ Vương, Lục Mãng Vương, và **Ngân Hùng Vương**. Spec này chỉ phát triển POV cho hai vương đầu tiên. Ngân Hùng Vương sẽ xuất hiện như nhân vật phụ trong các arc Đông Hoang — vai trò cụ thể (đồng minh, kẻ thù, hay nhân vật trung lập) sẽ được xác định khi viết arc chi tiết. Có thể phát triển thành POV riêng nếu câu chuyện đòi hỏi.
+
+## Ghi Chú Về Đông Hoang Roster
+
+Lục Mãng Vương và Huyết Hổ Vương sẽ được thêm vào bảng roster Đông Hoang trong QUY_HOẠCH_GÓC_NHÌN_PHỤ.md (nâng từ 4 lên 6 nhân vật). Tuy nhiên, arc 1-2 hiện tại tập trung vào Tinh Linh Tộc + Cự Tộc, nên hai Yêu Vương sẽ bắt đầu xuất hiện từ **Arc 3** trở đi — tạo sự tách biệt tự nhiên giữa "thế giới rừng thiêng" và "thế giới Vạn Yêu Thành."
+
 ## Ghi Chú Triển Khai
 
-1. **Tạo file nhân vật:** 5 file mới trong `Đạo/Nhân_Vật/` với YAML frontmatter đầy đủ.
-2. **Cập nhật index.md:** Thêm 5 nhân vật mới với Hán Tự.
+1. **Tạo file nhân vật:** 5 file mới trong `Đạo/Nhân_Vật/` với YAML frontmatter theo bảng trên.
+2. **Cập nhật index.md:** Thêm 5 nhân vật mới với Hán Tự, giữ thứ tự bảng chữ cái.
 3. **Cập nhật QUY_HOẠCH_GÓC_NHÌN_PHỤ.md:** Thêm nhân vật mới vào bảng roster khu vực và chi tiết arc mới.
 4. **Cập nhật HỒ_SƠ_THẾ_GIỚI.md:** Thêm nhân vật mới vào mục Nhân Vật.
 5. **Phát triển backstory:** Tất cả 29 nhân vật sẽ được viết backstory chi tiết (ưu tiên nhân vật mới trước).
