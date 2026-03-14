@@ -452,6 +452,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00094_Thiếu_Gia_Chạy_Trốn.md",
       "title": "Chương 94: Thiếu Gia Chạy Trốn"
+    },
+    {
+      "filename": "Chương_00095_Hiệp_Khách_Và_Người_Bệnh.md",
+      "title": "Chương 95: Hiệp Khách Và Người Bệnh"
+    },
+    {
+      "filename": "Chương_00096_Lối_Vào_Trạm_Dừng_Chân.md",
+      "title": "Chương 96: Lối Vào Trạm Dừng Chân"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

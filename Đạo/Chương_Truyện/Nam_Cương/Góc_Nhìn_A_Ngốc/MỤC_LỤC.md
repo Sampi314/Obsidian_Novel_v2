@@ -123,6 +123,8 @@
 - [Chương 92: Trò Chơi Của Người Lớn](Chương_00092_Trò_Chơi_Của_Người_Lớn.md)
 - [Chương 93: Đoàn Người Trong Cát](Chương_00093_Đoàn_Người_Trong_Cát.md)
 - [Chương 94: Thiếu Gia Chạy Trốn](Chương_00094_Thiếu_Gia_Chạy_Trốn.md)
+- [Chương 95: Hiệp Khách Và Người Bệnh](Chương_00095_Hiệp_Khách_Và_Người_Bệnh.md)
+- [Chương 96: Lối Vào Trạm Dừng Chân](Chương_00096_Lối_Vào_Trạm_Dừng_Chân.md)
 
 ## Arc 11: Sa Mạc Và Nước Mắt (Chương 101-112)
 *Giai đoạn Kim Đan Trung Kỳ — Tây Mạc*
