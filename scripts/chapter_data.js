@@ -1298,6 +1298,30 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00146_Cơn_Bão_Ba_Mặt.md",
       "title": "Chương 146: Cơn Bão Ba Mặt"
+    },
+    {
+      "filename": "Chương_00147_Huyết_Trì_Sụp_Đổ.md",
+      "title": "Chương 147: Huyết Trì Sụp Đổ"
+    },
+    {
+      "filename": "Chương_00148_Đường_Cùng.md",
+      "title": "Chương 148: Đường Cùng"
+    },
+    {
+      "filename": "Chương_00149_Đào_Tẩu_Trong_Tuyệt_Vọng.md",
+      "title": "Chương 149: Đào Tẩu Trong Tuyệt Vọng"
+    },
+    {
+      "filename": "Chương_00150_Con_Mồi_Bị_Săn_Đuổi.md",
+      "title": "Chương 150: Con Mồi Bị Săn Đuổi"
+    },
+    {
+      "filename": "Chương_00151_Trớ_Trêu_Của_Số_Phận.md",
+      "title": "Chương 151: Trớ Trêu Của Số Phận"
+    },
+    {
+      "filename": "Chương_00152_Điểm_Dừng_Chân_Cuối_Cùng.md",
+      "title": "Chương 152: Điểm Dừng Chân Cuối Cùng"
     }
   ],
   "Góc_Nhìn_Lục_Trần": [

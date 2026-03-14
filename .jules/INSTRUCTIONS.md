@@ -15,7 +15,7 @@
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
 | Góc Nhìn Lâm Phong | 66 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
-| Góc Nhìn Lệ Vô Tâm | 146 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc |
+| Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
 | Góc Nhìn A Ngốc | 74 | Arc 8 — Băng Nguyên Cô Tịch | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Viết tiếp Arc 9 cho A Ngốc (Đã hoàn thành Lệ Vô Tâm Bridge Arc).
+1. **Redesign A Ngốc (Task 8)**: Viết tiếp Arc 9 cho A Ngốc (Đã hoàn thành Lệ Vô Tâm Bridge Arc Ch.147-152). Bắt đầu hành trình gặp gỡ Lệ Vô Tâm.
 2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 67, 68... cho Góc Nhìn Lâm Phong. Đối mặt với Băng Lang Vương ở hang động.
 3. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ.
 
@@ -146,7 +146,7 @@
 1. Viết Arc 1-2 trước (Ch.1-14) — thiết lập nhân vật
 2. Viết Arc 3-4 (Ch.15-32) — kết nối Huyết Thần Độc
 3. Viết Arc 5-8 (Ch.33-78) — Gương Soi, gặp các nhân vật chính
-4. **DỪNG.** Viết Lệ Vô Tâm Bridge Arc (Ch.137-152 POV Lệ Vô Tâm) TRƯỚC khi viết Arc 9
+4. **HOÀN THÀNH:** Viết Lệ Vô Tâm Bridge Arc (Ch.137-152 POV Lệ Vô Tâm)
 5. Viết Arc 9-14 (Ch.79-152) — Kim Đan, đồng hành với Lệ Vô Tâm
 
 **Retcon lưu ý:**
@@ -168,7 +168,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành Arc 1 cho 5 tuyến khu vực. Lâm Phong tiếp tục Arc tại Rừng Tịch Liêu (ch 65-66). Mở rộng 19 POV cá nhân (ch 1-6). A Ngốc hoàn thành Arc 8 (ch.67-74) tại Băng Ngục Thành. Cần chuyển sang Lệ Vô Tâm Bridge Arc trước khi tiếp tục A Ngốc.
+> Đã hoàn thành Lệ Vô Tâm Bridge Arc (Ch.147-152), mô tả Vạn Độc Môn sụp đổ và hành trình trốn chạy của Lệ Vô Tâm. Sẵn sàng viết tiếp Arc 9 cho Góc Nhìn A Ngốc (gặp Lệ Vô Tâm).
 
 ---
 
