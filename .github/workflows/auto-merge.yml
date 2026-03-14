@@ -11,9 +11,13 @@ permissions:
 jobs:
   auto-merge:
     runs-on: ubuntu-latest
-    if: github.actor == 'google-labs-jules[bot]'
+    if: >-
+      github.actor == 'Sampi314' ||
+      github.actor == 'google-labs-jules[bot]' ||
+      github.actor == 'claude[bot]' ||
+      github.actor == 'gemini[bot]'
     steps:
-      - name: Enable auto-merge for Jules PRs
+      - name: Enable auto-merge
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh pr merge --auto --merge "${{ github.event.pull_request.html_url }}"
