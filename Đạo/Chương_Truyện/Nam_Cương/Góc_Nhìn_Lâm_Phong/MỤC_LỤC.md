@@ -100,3 +100,5 @@
 - [Chương 72: Bóng Tối Đông Hoang](Chương_00072_Bóng_Tối_Đông_Hoang.md)
 - [Chương 73: Bí Mật Sau Cánh Cửa Đá](Chương_00073_Bí_Mật_Sau_Cánh_Cửa_Đá.md)
 - [Chương 74: Đụng Độ Huyết Sứ Đông Hoang](Chương_00074_Đụng_Độ_Huyết_Sứ_Đông_Hoang.md)
+- [Chương 75: Huyết Chiến Phế Tích](Chương_00075_Huyết_Chiến_Phế_Tích.md)
+- [Chương 76: Giải Cứu Cự Nhân](Chương_00076_Giải_Cứu_Cự_Nhân.md)

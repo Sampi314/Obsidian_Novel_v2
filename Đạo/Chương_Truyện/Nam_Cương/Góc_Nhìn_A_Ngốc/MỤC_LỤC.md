@@ -125,6 +125,8 @@
 - [Chương 94: Thiếu Gia Chạy Trốn](Chương_00094_Thiếu_Gia_Chạy_Trốn.md)
 - [Chương 95: Hiệp Khách Và Người Bệnh](Chương_00095_Hiệp_Khách_Và_Người_Bệnh.md)
 - [Chương 96: Lối Vào Trạm Dừng Chân](Chương_00096_Lối_Vào_Trạm_Dừng_Chân.md)
+- [Chương 97: Quán Trọ Sa Mạc](Chương_00097_Quán_Trọ_Sa_Mạc.md)
+- [Chương 98: Sự Thật Vỡ Lở](Chương_00098_Sự_Thật_Vỡ_Lở.md)
 
 ## Arc 11: Sa Mạc Và Nước Mắt (Chương 101-112)
 *Giai đoạn Kim Đan Trung Kỳ — Tây Mạc*
