@@ -147,6 +147,8 @@
 
 ## Arc 12: Trở Về Nơi Bắt Đầu (Chương 113-124)
 *Giai đoạn Kim Đan Trung-Hậu Kỳ — Đông Hoang*
+- [Chương 113: Về Lại Rừng Xanh](Chương_00113_Về_Lại_Rừng_Xanh.md)
+- [Chương 114: Bóng Ma Trong Rừng](Chương_00114_Bóng_Ma_Trong_Rừng.md)
 *(Đang cập nhật)*
 
 ## Arc 13: Con Đường Về Nhà (Chương 125-136)

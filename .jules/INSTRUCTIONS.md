@@ -14,9 +14,9 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 78 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 80 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 112 | Arc 11 — Sa Mạc Và Nước Mắt | Đã hoàn thành Arc 11 (Task 8) |
+| Góc Nhìn A Ngốc | 114 | Arc 12 — Trở Về Nơi Bắt Đầu | Đang viết catch-up (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,8 +66,8 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Bắt đầu Arc 12 (Trở Về Nơi Bắt Đầu), viết tiếp Chương 113 trở đi cho A Ngốc. Hành trình tiến vào Đông Hoang để tìm lại "Chị Lá".
-2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 79, 80... cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong sau khi phá hủy Phế Tích Tinh Linh sẽ gặp phải những thế lực nào tiếp theo ở Đông Hoang?
+1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 12 (Trở Về Nơi Bắt Đầu), viết tiếp Chương 115 trở đi cho A Ngốc. Cuộc đối đầu với Tinh Linh Tộc khi Lục Tiêu phát hiện Lệ Vô Tâm.
+2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 81, 82... cho Góc Nhìn Lâm Phong. Hành trình đến Vĩnh Hằng Sâm Lâm để ngăn chặn Huyết Sát Minh lấy Huyết Liên Thần Khí.
 3. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ để đồng bộ dòng thời gian chung.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
@@ -75,8 +75,8 @@
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 79, 80... cho Góc Nhìn Lâm Phong.
-- Lâm Phong và Diệp Tĩnh Sương rời khỏi Phế Tích Tinh Linh và tiếp tục hành trình tại Đông Hoang.
+- Tiếp tục viết chương 81, 82... cho Góc Nhìn Lâm Phong.
+- Lâm Phong và Diệp Tĩnh Sương rời khỏi Cổ Thạch Bộ Lạc, tiến về Vĩnh Hằng Sâm Lâm.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
@@ -168,9 +168,9 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã viết Chương 109-112 cho Góc Nhìn A Ngốc, hoàn thành Arc 11 (Sa Mạc Và Nước Mắt). Lệ Vô Tâm đối diện với nhiều thay đổi nội tâm, tha chết cho 5 tên sát thủ Huyết Sát Minh đuổi theo tại Họng Quỷ do không muốn A Ngốc nhăn mặt, và cuối cùng đồng ý cùng A Ngốc tiến vào Vĩnh Hằng Sâm Lâm (Đông Hoang) thay vì trốn chạy nơi khác.
-> Đã viết Chương 107-108 cho Góc Nhìn A Ngốc. Lệ Vô Tâm, bị "giám sát" bởi A Ngốc, đã phải kiềm chế bản tính, ra tay xử lý băng sa tặc Hắc Hổ bằng thuốc ngủ thay vì đồ sát, và thậm chí dùng sức mạnh Hỗn Độn Băng Ma để bảo vệ thương đoàn Thiên Sa khỏi Hắc Sa Bão chết chóc. Điều này đánh dấu những chuyển biến tâm lý mạnh mẽ và kỳ lạ bên trong hắn.
-> Đã viết Chương 77-78 cho Góc Nhìn Lâm Phong. Lâm Phong, Diệp Tĩnh Sương và Nham Thiết đối đầu với Đại Huyết Sứ tại trung khu năng lượng Phế Tích Tinh Linh. Họ thành công cắt đứt dây xích kết nối đài tế, làm nổ tung trái tim Huyết Tinh Sa khổng lồ, cứu toàn bộ mạch nước ngầm Đông Hoang khỏi thảm họa.
+> Đã viết Chương 113-114 cho Góc Nhìn A Ngốc, bắt đầu Arc 12 (Trở Về Nơi Bắt Đầu). A Ngốc và Lệ Vô Tâm tiến vào Vĩnh Hằng Sâm Lâm, A Ngốc dùng Kim Đan thanh tẩy Huyết Tinh Oán Linh. Lục Tiêu xuất hiện và nhận ra ma đầu Lệ Vô Tâm, tạo ra tình thế đối đầu giữa A Ngốc và Tinh Linh Tộc.
+> Đã viết Chương 79-80 cho Góc Nhìn Lâm Phong. Sau khi phá hủy Phế Tích Tinh Linh, nhóm Lâm Phong được Nham Thiết đưa về Cổ Thạch Bộ Lạc dưỡng thương. Nhận tin Huyết Sát Minh đang lùng sục Huyết Liên Thần Khí ở Vĩnh Hằng Sâm Lâm, họ quyết định tiếp tục lên đường để ngăn chặn.
+> Đã viết Chương 109-112 cho Góc Nhìn A Ngốc, hoàn thành Arc 11 (Sa Mạc Và Nước Mắt). Lệ Vô Tâm tha chết cho sát thủ Huyết Sát Minh và đồng ý cùng A Ngốc đến Vĩnh Hằng Sâm Lâm.
 
 ---
 
