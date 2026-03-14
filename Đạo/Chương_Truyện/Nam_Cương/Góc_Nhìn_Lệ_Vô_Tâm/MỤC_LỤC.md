@@ -156,9 +156,15 @@
 - [Chương 135: Quyền Lực Mới](Chương_00135_Quyền_Lực_Mới.md)
 - [Chương 136: Nước Cờ Đầu Tiên](Chương_00136_Nước_Cờ_Đầu_Tiên.md)
 
-## Arc Sụp Đổ — Cơn Bão Ba Mặt (Chương 137-140)
+## Arc Sụp Đổ — Cơn Bão Ba Mặt (Chương 137-146)
 
 - [Chương 137: Trở Lại Cố Hương](Chương_00137_Trở_Lại_Cố_Hương.md)
 - [Chương 138: Thanh Trừng Dị Kỷ](Chương_00138_Thanh_Trừng_Dị_Kỷ.md)
 - [Chương 139: Băng Độc Pháo Đài](Chương_00139_Băng_Độc_Pháo_Đài.md)
 - [Chương 140: Bão Táp Sắp Tới](Chương_00140_Bão_Táp_Sắp_Tới.md)
+- [Chương 141: Cơn Bão Tụ Tập](Chương_00141_Cơn_Bão_Tụ_Tập.md)
+- [Chương 142: Giao Tranh Mặt Trận Đầu Tiên](Chương_00142_Giao_Tranh_Mặt_Trận_Đầu_Tiên.md)
+- [Chương 143: Bóng Tối Của Liên Minh](Chương_00143_Bóng_Tối_Của_Liên_Minh.md)
+- [Chương 144: Sư Phụ Tỉnh Giấc](Chương_00144_Sư_Phụ_Tỉnh_Giấc.md)
+- [Chương 145: Cắt Đứt Tơ Máu](Chương_00145_Cắt_Đứt_Tơ_Máu.md)
+- [Chương 146: Cơn Bão Ba Mặt](Chương_00146_Cơn_Bão_Ba_Mặt.md)

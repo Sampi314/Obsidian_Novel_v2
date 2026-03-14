@@ -1274,6 +1274,30 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00140_Bão_Táp_Sắp_Tới.md",
       "title": "Chương 140: Bão Táp Sắp Tới"
+    },
+    {
+      "filename": "Chương_00141_Cơn_Bão_Tụ_Tập.md",
+      "title": "Chương 141: Cơn Bão Tụ Tập"
+    },
+    {
+      "filename": "Chương_00142_Giao_Tranh_Mặt_Trận_Đầu_Tiên.md",
+      "title": "Chương 142: Giao Tranh Mặt Trận Đầu Tiên"
+    },
+    {
+      "filename": "Chương_00143_Bóng_Tối_Của_Liên_Minh.md",
+      "title": "Chương 143: Bóng Tối Của Liên Minh"
+    },
+    {
+      "filename": "Chương_00144_Sư_Phụ_Tỉnh_Giấc.md",
+      "title": "Chương 144: Sư Phụ Tỉnh Giấc"
+    },
+    {
+      "filename": "Chương_00145_Cắt_Đứt_Tơ_Máu.md",
+      "title": "Chương 145: Cắt Đứt Tơ Máu"
+    },
+    {
+      "filename": "Chương_00146_Cơn_Bão_Ba_Mặt.md",
+      "title": "Chương 146: Cơn Bão Ba Mặt"
     }
   ],
   "Góc_Nhìn_Lục_Trần": [
