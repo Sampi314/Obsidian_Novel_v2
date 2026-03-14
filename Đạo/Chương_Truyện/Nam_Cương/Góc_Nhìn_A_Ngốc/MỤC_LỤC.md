@@ -149,6 +149,8 @@
 *Giai đoạn Kim Đan Trung-Hậu Kỳ — Đông Hoang*
 - [Chương 113: Về Lại Rừng Xanh](Chương_00113_Về_Lại_Rừng_Xanh.md)
 - [Chương 114: Bóng Ma Trong Rừng](Chương_00114_Bóng_Ma_Trong_Rừng.md)
+- [Chương 115: Chắn Tên](Chương_00115_Chắn_Tên.md)
+- [Chương 116: Hiệp Ước Gượng Ép](Chương_00116_Hiệp_Ước_Gượng_Ép.md)
 *(Đang cập nhật)*
 
 ## Arc 13: Con Đường Về Nhà (Chương 125-136)
