@@ -140,7 +140,10 @@
 - [Chương 106: Giao Kèo Trong Đêm](Chương_00106_Giao_Kèo_Trong_Đêm.md)
 - [Chương 107: Đoàn Kiến Trong Cát](Chương_00107_Đoàn_Kiến_Trong_Cát.md)
 - [Chương 108: Cơn Gió Đen](Chương_00108_Cơn_Gió_Đen.md)
-*(Đang cập nhật)*
+- [Chương 109: Người Sống Sót Trong Bão](Chương_00109_Người_Sống_Sót_Trong_Bão.md)
+- [Chương 110: Sự Thay Đổi Của Nước Đá](Chương_00110_Sự_Thay_Đổi_Của_Nước_Đá.md)
+- [Chương 111: Mảnh Vỡ Sa Mạc](Chương_00111_Mảnh_Vỡ_Sa_Mạc.md)
+- [Chương 112: Bóng Râm Cuối Cùng](Chương_00112_Bóng_Râm_Cuối_Cùng.md)
 
 ## Arc 12: Trở Về Nơi Bắt Đầu (Chương 113-124)
 *Giai đoạn Kim Đan Trung-Hậu Kỳ — Đông Hoang*

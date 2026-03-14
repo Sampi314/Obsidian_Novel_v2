@@ -508,6 +508,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00108_Cơn_Gió_Đen.md",
       "title": "Chương 108: Cơn Gió Đen"
+    },
+    {
+      "filename": "Chương_00109_Người_Sống_Sót_Trong_Bão.md",
+      "title": "Chương 109: Người Sống Sót Trong Bão"
+    },
+    {
+      "filename": "Chương_00110_Sự_Thay_Đổi_Của_Nước_Đá.md",
+      "title": "Chương 110: Sự Thay Đổi Của Nước Đá"
+    },
+    {
+      "filename": "Chương_00111_Mảnh_Vỡ_Sa_Mạc.md",
+      "title": "Chương 111: Mảnh Vỡ Sa Mạc"
+    },
+    {
+      "filename": "Chương_00112_Bóng_Râm_Cuối_Cùng.md",
+      "title": "Chương 112: Bóng Râm Cuối Cùng"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
