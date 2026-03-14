@@ -596,6 +596,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00130_Bóng_Tối_Trung_Tâm.md",
       "title": "Chương 130: Bóng Tối Trung Tâm"
+    },
+    {
+      "filename": "Chương_00131_Dọn_Dẹp_Rừng_Đá.md",
+      "title": "Chương 131: Dọn Dẹp Rừng Đá"
+    },
+    {
+      "filename": "Chương_00132_Ông_Kẹ_Và_Thiên_Thần.md",
+      "title": "Chương 132: Ông Kẹ Và Thiên Thần"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -1020,6 +1028,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00086_Mảnh_Vỡ_Tai_Ương.md",
       "title": "Chương 86: Mảnh Vỡ Tai Ương"
+    },
+    {
+      "filename": "Chương_00087_Cuộc_Săn_Trong_Rừng_Rậm.md",
+      "title": "Chương 87: Cuộc Săn Trong Rừng Rậm"
+    },
+    {
+      "filename": "Chương_00088_Ảo_Ảnh_Huyết_Liên.md",
+      "title": "Chương 88: Ảo Ảnh Huyết Liên"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

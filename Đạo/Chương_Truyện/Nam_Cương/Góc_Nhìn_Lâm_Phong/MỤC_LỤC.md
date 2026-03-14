@@ -112,3 +112,5 @@
 - [Chương 84: Chạm Trán Huyết Liên](Chương_00084_Chạm_Trán_Huyết_Liên.md)
 - [Chương 85: Tranh Đoạt Huyết Liên](Chương_00085_Tranh_Đoạt_Huyết_Liên.md)
 - [Chương 86: Mảnh Vỡ Tai Ương](Chương_00086_Mảnh_Vỡ_Tai_Ương.md)
+- [Chương 87: Cuộc Săn Trong Rừng Rậm](Chương_00087_Cuộc_Săn_Trong_Rừng_Rậm.md)
+- [Chương 88: Ảo Ảnh Huyết Liên](Chương_00088_Ảo_Ảnh_Huyết_Liên.md)

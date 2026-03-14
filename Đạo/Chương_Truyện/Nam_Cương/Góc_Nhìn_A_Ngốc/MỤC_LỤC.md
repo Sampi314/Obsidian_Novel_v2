@@ -168,6 +168,8 @@
 - [Chương 128: Bài Múa Của Ác Quỷ](Chương_00128_Bài_Múa_Của_Ác_Quỷ.md)
 - [Chương 129: Nguyên Anh Hồn Nhiên](Chương_00129_Nguyên_Anh_Hồn_Nhiên.md)
 - [Chương 130: Bóng Tối Trung Tâm](Chương_00130_Bóng_Tối_Trung_Tâm.md)
+- [Chương 131: Dọn Dẹp Rừng Đá](Chương_00131_Dọn_Dẹp_Rừng_Đá.md)
+- [Chương 132: Ông Kẹ Và Thiên Thần](Chương_00132_Ông_Kẹ_Và_Thiên_Thần.md)
 *(Đang cập nhật)*
 
 ## Arc 14: Hồn Nhiên Tử (Chương 137-148)
