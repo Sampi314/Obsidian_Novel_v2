@@ -225,6 +225,8 @@
 
 ## CÁC ARC DỰ KIẾN (FUTURE ARCS)
 
+> **Lưu ý:** Các arc dưới đây là hướng phát triển dự kiến. Số lượng chương và phạm vi mỗi arc sẽ phát triển theo nhu cầu câu chuyện — không có giới hạn cố định.
+
 ### 1. Huyết Độc Rừng Thiêng (Kết Nối)
 *   **Mô Tả:** Nơi các tuyến truyện bắt đầu giao nhau. Lệ Vô Tâm dẫn quân truy sát, nhóm nhân vật chính phải chạy trốn vào Rừng Huyết Độc.
 *   **Nhân Vật Tham Gia:** Tất cả (Diệp Tĩnh Sương, Lâm Phong, Lệ Vô Tâm, v.v.).
