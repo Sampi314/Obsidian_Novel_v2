@@ -460,6 +460,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00096_Lối_Vào_Trạm_Dừng_Chân.md",
       "title": "Chương 96: Lối Vào Trạm Dừng Chân"
+    },
+    {
+      "filename": "Chương_00097_Quán_Trọ_Sa_Mạc.md",
+      "title": "Chương 97: Quán Trọ Sa Mạc"
+    },
+    {
+      "filename": "Chương_00098_Sự_Thật_Vỡ_Lở.md",
+      "title": "Chương 98: Sự Thật Vỡ Lở"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -836,6 +844,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00074_Đụng_Độ_Huyết_Sứ_Đông_Hoang.md",
       "title": "Chương 74: Đụng Độ Huyết Sứ Đông Hoang"
+    },
+    {
+      "filename": "Chương_00075_Huyết_Chiến_Phế_Tích.md",
+      "title": "Chương 75: Huyết Chiến Phế Tích"
+    },
+    {
+      "filename": "Chương_00076_Giải_Cứu_Cự_Nhân.md",
+      "title": "Chương 76: Giải Cứu Cự Nhân"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

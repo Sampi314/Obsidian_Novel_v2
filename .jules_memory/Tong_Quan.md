@@ -4,8 +4,7 @@
 - [Hôm nay]: Đã viết Chương 55-58 cho Góc Nhìn A Ngốc, mở đầu Arc 7 (Vạn Yêu Thành). A Ngốc cứu cô nhi Yêu Tộc, đẩy lui Huyết Sát Minh, đột phá Trúc Cơ Hậu Kỳ.
 
 ## PHIÊN GẦN NHẤT
-- Đã hoàn thành Arc 8 (Băng Nguyên Cô Tịch) cho Góc Nhìn A Ngốc bằng việc viết Chương 71-74.
-- A Ngốc và Sở Lăng Sương đi sâu vào trung tâm đổ nát của Băng Ngục Thành. Tại đây, A Ngốc trực tiếp cộng hưởng với tàn dư ma khí Hóa Thần do Lệ Vô Tâm để lại khi kết đan, khiến tu vi của hắn tiến sát ngưỡng Trúc Cơ Viên Mãn do thấu cảm với nỗi đau cùng cực của kẻ kia.
-- Lý Tuyết Ưng xuất hiện, khám phá ra Hỗn Độn Linh Căn và khả năng thanh tẩy ma khí/Huyết Thần Độc của A Ngốc. Nàng kinh hãi trước giá trị của hắn và ra lệnh cho Sở Lăng Sương phải bảo vệ hắn bằng mọi giá. Cả hai rời Bắc Băng về phương Nam.
+- Viết chương 97-98 cho Góc Nhìn A Ngốc (Arc 10). A Ngốc tình cờ gặp nạn nhân Huyết Thần Độc tại Quán Trọ Vô Danh, nhận ra Lệ Vô Tâm là kẻ gieo rắc sương đỏ. Mặc dù "Gương Soi" vỡ nát, A Ngốc vẫn chọn ở lại vì không muốn Lệ Vô Tâm phải cô độc và lạnh lẽo. Đánh dấu cao trào tâm lý quan trọng.
+- Viết chương 75-76 cho Góc Nhìn Lâm Phong. Lâm Phong cùng Diệp Tĩnh Sương đánh bại Huyết Sứ, cứu gã Cự Nhân (Nham Thiết), và phát hiện âm mưu đầu độc mạch nước ngầm Đông Hoang bằng hệ thống của Tinh Linh Tộc.
 - Cập nhật INSTRUCTIONS.md, HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md, chapter_data.js, MỤC_LỤC.md. Frontend tests passed.
-- TODO: Chuyển sang viết Lệ Vô Tâm Bridge Arc (Ch.137-152) TRƯỚC khi viết Arc 9 cho A Ngốc, theo đúng spec redesign.
+- TODO: Tiếp tục Arc 10-11 cho A Ngốc (tiến sâu vào Tây Mạc) và Arc Đông Hoang cho Lâm Phong (phá hủy lõi năng lượng).
