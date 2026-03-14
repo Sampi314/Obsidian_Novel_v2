@@ -440,6 +440,7 @@
     <script src="scripts/navbar.js"></script>
     <script src="scripts/chapter-lock.js"></script>
     <script src="scripts/character-sheet.js"></script>
+    <script src="scripts/faction-sheet.js"></script>
     <script>
     (function() {
         var params = new URLSearchParams(window.location.search);
@@ -548,6 +549,11 @@
                     var csContainer = document.querySelector('.wiki-content');
                     csContainer.innerHTML = '';
                     CharacterSheet.render(frontmatter, md, csContainer);
+                } else if (frontmatter && frontmatter.type === 'faction' && window.FactionSheet) {
+                    loadWikiMode('');
+                    var fsContainer = document.querySelector('.wiki-content');
+                    fsContainer.innerHTML = '';
+                    FactionSheet.render(frontmatter, md, fsContainer);
                 } else if (isChapter) {
                     loadChapterMode(html);
                 } else {
