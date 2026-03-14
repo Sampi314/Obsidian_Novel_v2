@@ -643,9 +643,45 @@
     </div><!-- .content-bg -->
 
     <script src="scripts/navbar.js"></script>
+    <script src="scripts/chapter-lock.js"></script>
+    <script src="scripts/chapter_data.js"></script>
     <script>
     (function() {
         'use strict';
+
+        // ── Chapter Lock System ──
+        (function initChapterLock() {
+            // Inject auth container into navbar
+            var navLinks = document.querySelector('.mn-links');
+            if (navLinks) {
+                var authLi = document.createElement('li');
+                authLi.id = 'chapter-lock-auth';
+                authLi.style.cssText = 'display:flex;align-items:center;';
+                navLinks.appendChild(authLi);
+            }
+            // Also inject into mobile overlay (before theme section)
+            var overlay = document.querySelector('.mn-overlay');
+            if (overlay) {
+                var mobileAuth = document.createElement('div');
+                mobileAuth.id = 'chapter-lock-auth-mobile';
+                mobileAuth.style.cssText = 'display:flex;align-items:center;justify-content:center;padding:12px;';
+                var themeLabel = overlay.querySelector('[style*="Theme"]') || overlay.lastElementChild;
+                if (themeLabel) {
+                    overlay.insertBefore(mobileAuth, themeLabel);
+                } else {
+                    overlay.appendChild(mobileAuth);
+                }
+            }
+
+            if (window.ChapterLock) {
+                window.ChapterLock.init().then(function () {
+                    // Init expandable chapters AFTER lock data is loaded
+                    if (typeof initExpandableChapters === 'function') {
+                        initExpandableChapters();
+                    }
+                });
+            }
+        })();
 
         /* ═══════════════════════════════════════════
            SCENE SYSTEM — 5 hero background images
@@ -766,6 +802,87 @@
                 : '<span class="toggle-arrow">\u25BC</span> Xem th\u00EAm ' + ct + ' nh\u00E2n v\u1EADt';
             if (exp) ov.querySelectorAll('[data-card]').forEach(function(c) { cObs.observe(c); });
         };
+
+        // ── Expandable Chapter Lists ──
+        // NOTE: This function is called from ChapterLock.init().then() above,
+        // NOT called synchronously, to ensure lock data is loaded first.
+        function initExpandableChapters() {
+            if (typeof chapterData === 'undefined') return;
+
+            var cards = document.querySelectorAll('a.card[data-card]');
+            cards.forEach(function (card) {
+                var href = card.getAttribute('href');
+                if (!href || href.indexOf('MỤC_LỤC.md') === -1) return;
+
+                // Extract POV key and directory path from href
+                // href format: reader.html?file=Đạo/Chương_Truyện/Bắc_Băng/Góc_Nhìn_Bắc_Băng/MỤC_LỤC.md
+                var fileParam = href.split('file=')[1];
+                if (!fileParam) return;
+                var dirPath = decodeURIComponent(fileParam).replace(/MỤC_LỤC\.md$/, '');
+                var povKey = dirPath.split('/').filter(Boolean).pop(); // e.g., "Góc_Nhìn_Bắc_Băng"
+
+                var chapters = chapterData[povKey];
+                if (!chapters || chapters.length === 0) return;
+
+                // Find the card-grid parent to insert AFTER the grid (not inside it)
+                var cardGrid = card.closest('.card-grid');
+                if (!cardGrid) return;
+
+                // Create a wrapper that goes after the card-grid
+                var wrapper = document.createElement('div');
+                wrapper.className = 'cl-card-chapter-wrapper';
+                wrapper.setAttribute('data-pov', povKey);
+
+                // Create expand button
+                var expandBtn = document.createElement('button');
+                expandBtn.className = 'cl-expand-btn';
+                expandBtn.textContent = '\u25B6 ' + povKey.replace(/Góc_Nhìn_/,'').replace(/_/g,' ') + ' \u2014 ' + chapters.length + ' chapters';
+
+                // Create chapter panel
+                var panel = document.createElement('div');
+                panel.className = 'cl-chapter-panel';
+
+                var list = document.createElement('ul');
+                list.className = 'cl-chapter-list';
+
+                chapters.forEach(function (ch) {
+                    var li = document.createElement('li');
+                    li.className = 'cl-chapter-item';
+
+                    var link = document.createElement('a');
+                    link.href = 'reader.html?file=' + encodeURIComponent(dirPath + ch.filename);
+                    link.textContent = ch.title;
+                    li.appendChild(link);
+
+                    // Add checkmark
+                    var chapterPath = dirPath + ch.filename;
+                    if (window.ChapterLock) {
+                        window.ChapterLock.createCheckmark(chapterPath, li);
+                    }
+
+                    list.appendChild(li);
+                });
+
+                panel.appendChild(list);
+
+                // Toggle behavior
+                expandBtn.addEventListener('click', function (e) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    var expanded = panel.classList.toggle('cl-expanded');
+                    expandBtn.textContent = (expanded ? '\u25BC ' : '\u25B6 ') + povKey.replace(/Góc_Nhìn_/,'').replace(/_/g,' ') + ' \u2014 ' + chapters.length + ' chapters';
+                });
+
+                wrapper.appendChild(expandBtn);
+                wrapper.appendChild(panel);
+
+                // Insert the wrapper after the card-grid (outside the grid layout)
+                // Check if a wrapper for this POV already exists to avoid duplicates
+                if (!cardGrid.parentNode.querySelector('.cl-card-chapter-wrapper[data-pov="' + povKey + '"]')) {
+                    cardGrid.parentNode.insertBefore(wrapper, cardGrid.nextSibling);
+                }
+            });
+        }
 
     })();
     </script>
