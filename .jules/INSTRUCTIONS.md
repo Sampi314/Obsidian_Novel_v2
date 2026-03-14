@@ -14,9 +14,9 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 68 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 70 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 84 | Arc 9 — Kim Đan | Đang viết catch-up redesign (Task 8) |
+| Góc Nhìn A Ngốc | 86 | Arc 9 — Kim Đan | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,8 +66,8 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 9, viết tiếp Ch.85 trở đi cho A Ngốc.
-2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 69, 70... cho Góc Nhìn Lâm Phong.
+1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 9, viết tiếp Ch.87 trở đi cho A Ngốc.
+2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 71, 72... cho Góc Nhìn Lâm Phong (Thâm nhập hầm ngầm Huyết Thần Độc).
 3. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
@@ -75,8 +75,8 @@
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 67, 68... cho Góc Nhìn Lâm Phong.
-- Lâm Phong và Diệp Tĩnh Sương thâm nhập vào sào huyệt của Băng Lang Vương để tìm cha mẹ đứa trẻ.
+- Tiếp tục viết chương 71, 72... cho Góc Nhìn Lâm Phong.
+- Lâm Phong và Diệp Tĩnh Sương khám phá hầm ngầm Huyết Thần Độc dưới sào huyệt Băng Lang Vương.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)

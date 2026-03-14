@@ -412,6 +412,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00084_Mặt_Trời_Trong_Đền.md",
       "title": "Chương 84: Mặt Trời Trong Đền"
+    },
+    {
+      "filename": "Chương_00085_Viên_Bi_Phát_Sáng.md",
+      "title": "Chương 85: Viên Bi Phát Sáng"
+    },
+    {
+      "filename": "Chương_00086_Người_Bệnh_Tỉnh_Lại.md",
+      "title": "Chương 86: Người Bệnh Tỉnh Lại"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -764,6 +772,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00068_Đối_Đầu_Lang_Vương.md",
       "title": "Chương 68: Đối Đầu Lang Vương"
+    },
+    {
+      "filename": "Chương_00069_Huyết_Chiến_Lang_Vương.md",
+      "title": "Chương 69: Huyết Chiến Lang Vương"
+    },
+    {
+      "filename": "Chương_00070_Sự_Thật_Trong_Hang_Băng.md",
+      "title": "Chương 70: Sự Thật Trong Hang Băng"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
