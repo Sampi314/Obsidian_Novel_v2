@@ -127,9 +127,13 @@
 - [Chương 96: Lối Vào Trạm Dừng Chân](Chương_00096_Lối_Vào_Trạm_Dừng_Chân.md)
 - [Chương 97: Quán Trọ Sa Mạc](Chương_00097_Quán_Trọ_Sa_Mạc.md)
 - [Chương 98: Sự Thật Vỡ Lở](Chương_00098_Sự_Thật_Vỡ_Lở.md)
+- [Chương 99: Rời Khỏi Trạm Dừng](Chương_00099_Rời_Khỏi_Trạm_Dừng.md)
+- [Chương 100: Bình Minh Trên Cát](Chương_00100_Bình_Minh_Trên_Cát.md)
 
 ## Arc 11: Sa Mạc Và Nước Mắt (Chương 101-112)
 *Giai đoạn Kim Đan Trung Kỳ — Tây Mạc*
+- [Chương 101: Ốc Đảo Nhỏ](Chương_00101_Ốc_Đảo_Nhỏ.md)
+- [Chương 102: Nước Trong](Chương_00102_Nước_Trong.md)
 *(Đang cập nhật)*
 
 ## Arc 12: Trở Về Nơi Bắt Đầu (Chương 113-124)
