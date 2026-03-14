@@ -4,7 +4,7 @@
 
   // ── Stat labels (fixed order) ──
   var STAT_LABELS = ['Thể Lực', 'Linh Lực', 'Trí Tuệ', 'Tốc Độ', 'Phòng Ngự', 'Tâm Tính'];
-  var STAT_KEYS = ['the_luc', 'linh_luc', 'tri_tue', 'toc_do', 'phong_ngu', 'tam_tinh'];
+  // Stats are stored as arrays: [Thể Lực, Linh Lực, Trí Tuệ, Tốc Độ, Phòng Ngự, Tâm Tính]
 
   // ── Feeling bar config ──
   var FEELING_KEYS = ['yeu', 'han', 'kinh', 'tin', 'so', 'on'];
@@ -60,7 +60,7 @@
       '.cs-radar-svg { width: 300px; height: 300px; }',
       '.cs-radar-grid { fill: none; stroke: var(--gold-dim, #8a7549); stroke-width: 0.5; opacity: 0.4; }',
       '.cs-radar-axis { stroke: var(--gold-dim, #8a7549); stroke-width: 0.5; opacity: 0.3; }',
-      '.cs-radar-poly { fill: rgba(201,169,110,0.2); stroke: var(--gold, #c9a96e); stroke-width: 2; transition: all 0.4s ease; }',
+      '.cs-radar-poly { fill: var(--gold, #c9a96e); fill-opacity: 0.2; stroke: var(--gold, #c9a96e); stroke-width: 2; transition: all 0.4s ease; }',
       '.cs-radar-label { fill: var(--bone, #d4cbbf); font-size: 11px; font-family: "Lora", serif; text-anchor: middle; }',
       '.cs-radar-value { fill: var(--gold-bright, #e4c98a); font-size: 10px; font-family: "Lora", serif; text-anchor: middle; font-weight: 700; }',
 
@@ -136,7 +136,8 @@
   /** Get stat values array from an arc object */
   function getStats(arc) {
     if (!arc || !arc.stats) return [0, 0, 0, 0, 0, 0];
-    return STAT_KEYS.map(function (k) { return Number(arc.stats[k]) || 0; });
+    if (Array.isArray(arc.stats)) return arc.stats.map(function (v) { return Number(v) || 0; });
+    return [0, 0, 0, 0, 0, 0];
   }
 
   /** Compute Tổng Lực from stats array */
@@ -144,11 +145,15 @@
     return stats.reduce(function (a, b) { return a + b; }, 0);
   }
 
-  /** Get status color */
+  /** Get status color by keyword substring match */
   function statusColor(status) {
     if (!status) return '#7a7067';
-    var s = status.trim();
-    return STATUS_COLORS[s] || '#7a7067';
+    var s = status.toLowerCase();
+    var keys = Object.keys(STATUS_COLORS);
+    for (var i = 0; i < keys.length; i++) {
+      if (s.indexOf(keys[i].toLowerCase()) !== -1) return STATUS_COLORS[keys[i]];
+    }
+    return '#7a7067';
   }
 
   /** Parse markdown body into sections keyed by heading text */
@@ -395,13 +400,13 @@
     var list = el('div', 'cs-rel-list');
     arc.relationships.forEach(function (rel) {
       var card = el('div', 'cs-rel-card');
-      card.appendChild(el('div', 'cs-rel-name', rel.name || '???'));
+      card.appendChild(el('div', 'cs-rel-name', rel.character || '???'));
       if (rel.description) {
         card.appendChild(el('div', 'cs-rel-desc', rel.description));
       }
       // Feeling bars
       FEELING_KEYS.forEach(function (key, idx) {
-        var val = (rel[key] !== undefined && rel[key] !== null) ? Number(rel[key]) : 0;
+        var val = (rel.feelings && rel.feelings[key] !== undefined && rel.feelings[key] !== null) ? Number(rel.feelings[key]) : 0;
         card.appendChild(buildFeelingBar(idx, val));
       });
       list.appendChild(card);
@@ -517,7 +522,7 @@
     var methodsWrap = null;
     var arcButtons = [];
 
-    if (arcKeys.length > 0) {
+    if (arcKeys.length > 1) {
       timelineWrap = el('div', 'cs-timeline');
       timelineWrap.appendChild(el('div', 'cs-timeline-label', 'Arc'));
 
