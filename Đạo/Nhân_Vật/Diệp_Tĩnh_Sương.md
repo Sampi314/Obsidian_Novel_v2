@@ -1,3 +1,60 @@
+---
+type: character
+name: Diệp Tĩnh Sương
+hantu: 葉靜霜
+archetype: Kiếm Tu
+race: Nhân Tộc
+avatar: Diệp_Tĩnh_Sương.png
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Luyện Khí Tầng 5
+    methods: [Hàn Mai Kiếm Quyết]
+    inventory:
+      - name: Tuyết Ảnh Kiếm
+        type: Vũ Khí
+    stats: [12, 18, 22, 20, 10, 25]
+    relationships:
+      - character: Cổ Kiếm Mạc
+        description: Sư phụ, người cứu mạng
+        feelings:
+          yeu: 60
+          han: 0
+          kinh: 90
+          tin: 85
+          so: 5
+          on: 95
+  - arc: 5
+    status: Còn Sống
+    cultivation: Trúc Cơ Sơ Kỳ
+    methods: [Hàn Mai Kiếm Quyết, Lạc Tuyết Vô Ngân]
+    inventory:
+      - name: Tuyết Ảnh Kiếm
+        type: Vũ Khí
+      - name: Hàn Ngọc Bội
+        type: Pháp Bảo
+    stats: [55, 90, 45, 85, 40, 70]
+    relationships:
+      - character: Lâm Phong
+        description: Đồng hành đáng tin cậy
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 30
+          tin: 55
+          so: 0
+          on: 20
+      - character: Huyết Sát Minh
+        description: Kẻ thù huyết hải thâm thù
+        feelings:
+          yeu: -80
+          han: 95
+          kinh: -40
+          tin: -90
+          so: 20
+          on: -100
+---
+
 # HỒ SƠ NHÂN VẬT: DIỆP TĨNH SƯƠNG
 
 ## THÔNG TIN CƠ BẢN
