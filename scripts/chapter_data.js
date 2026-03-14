@@ -428,6 +428,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00088_Bám_Đuôi.md",
       "title": "Chương 88: Bám Đuôi"
+    },
+    {
+      "filename": "Chương_00089_Sợi_Dây_Vô_Hình.md",
+      "title": "Chương 89: Sợi Dây Vô Hình"
+    },
+    {
+      "filename": "Chương_00090_Đi_Về_Phía_Tây.md",
+      "title": "Chương 90: Đi Về Phía Tây"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -788,6 +796,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00070_Sự_Thật_Trong_Hang_Băng.md",
       "title": "Chương 70: Sự Thật Trong Hang Băng"
+    },
+    {
+      "filename": "Chương_00071_Đường_Hầm_Huyết_Thần.md",
+      "title": "Chương 71: Đường Hầm Huyết Thần"
+    },
+    {
+      "filename": "Chương_00072_Bóng_Tối_Đông_Hoang.md",
+      "title": "Chương 72: Bóng Tối Đông Hoang"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

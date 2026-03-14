@@ -96,3 +96,5 @@
 - [Chương 68: Đối Đầu Lang Vương](Chương_00068_Đối_Đầu_Lang_Vương.md)
 - [Chương 69: Huyết Chiến Lang Vương](Chương_00069_Huyết_Chiến_Lang_Vương.md)
 - [Chương 70: Sự Thật Trong Hang Băng](Chương_00070_Sự_Thật_Trong_Hang_Băng.md)
+- [Chương 71: Đường Hầm Huyết Thần](Chương_00071_Đường_Hầm_Huyết_Thần.md)
+- [Chương 72: Bóng Tối Đông Hoang](Chương_00072_Bóng_Tối_Đông_Hoang.md)

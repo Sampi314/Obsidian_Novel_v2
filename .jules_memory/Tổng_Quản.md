@@ -5,7 +5,7 @@
 
 ## PHIÊN GẦN NHẤT
 - **Ngày**: Hiện tại
-- **Công việc**: Viết Lệ Vô Tâm Bridge Arc (Sụp Đổ). Đã viết Chương 147-152, hoàn thành toàn bộ sự kiện Vạn Độc Môn sụp đổ. Lệ Vô Tâm trọng thương trốn chạy khỏi sự truy sát của Chính Đạo và Huyết Sát Minh, cuối cùng được A Ngốc tìm thấy tại ngôi đền hoang. Đây là điểm kết nối để chuyển sang Arc 9 của A Ngốc.
+- **Công việc**: Viết tiếp Redesign A Ngốc (Task 8), bắt đầu Arc 10 (Chương 89-90), A Ngốc và Lệ Vô Tâm rời tàn tích Nam Cương, lên đường đến Tây Mạc. Lệ Vô Tâm vẫn giữ ý định lợi dụng và khinh miệt A Ngốc dù phải dựa vào Hỗn Độn chi lực. Cũng viết tiếp Lâm Phong catch-up (Chương 71-72), Lâm Phong và Diệp Tĩnh Sương tiến sâu vào đường hầm Huyết Thần Độc dưới Rừng Tịch Liêu, đánh bại lũ Sinh Vật Bán Dẫn và khám phá một cánh cổng phế tích bằng đá đen có phù văn giống phong cách Tinh Linh Tộc.
 - **Agent đã kích hoạt**: Chương Truyện.
-- **Tình trạng file**: Đã tạo file chương 147-152 cho Góc Nhìn Lệ Vô Tâm, cập nhật MỤC_LỤC.md, chạy update_chapter_data.py, cập nhật BÁO_CÁO_CHẤT_LƯỢNG.md, và INSTRUCTIONS.md (TRẠNG THÁI HIỆN TẠI).
-- **Ưu tiên phiên sau**: Quay lại Redesign A Ngốc (Task 8) để viết tiếp Arc 9 (Kim Đan), bắt đầu quá trình đồng hành giữa A Ngốc và Lệ Vô Tâm, HOẶC viết tiếp Lâm Phong catch-up (Chương 67+).
+- **Tình trạng file**: Đã tạo file chương 89-90 (A Ngốc) và 71-72 (Lâm Phong), cập nhật MỤC_LỤC.md cho cả 2, chạy update_chapter_data.py, cập nhật BÁO_CÁO_CHẤT_LƯỢNG.md và TRẠNG THÁI HIỆN TẠI trong INSTRUCTIONS.md.
+- **Ưu tiên phiên sau**: Tiếp tục Arc 10 của A Ngốc (Chương 91+) hoặc Lâm Phong (Chương 73+), hoặc chuyển sang viết POV nhân vật phụ (Task 6).
