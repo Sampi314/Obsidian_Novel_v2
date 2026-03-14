@@ -1,3 +1,62 @@
+---
+type: faction
+name: Phế Linh Các
+hantu: 廢靈閣
+faction_type: Tông Môn
+alignment: 2
+race: Nhân Tộc
+region: Đông Hoang
+founded: 50 năm trước
+founder: Lạc Vô Danh
+emblem: ""
+specialty: Phế linh căn tu luyện
+economy: [Dược thảo tạp loại, Sửa chữa pháp khí cũ]
+arcs:
+  - arc: 1
+    status: Ổn Định
+    rank: Hạng Năm
+    leader: Lạc Vô Danh
+    population: 200
+    territory: [Thung lũng vô danh phía đông nam Cửu Hoa Sơn]
+    assets:
+      - name: Mạch linh thạch cấp thấp
+        type: Tài Nguyên
+      - name: Trận pháp che giấu cấp thấp
+        type: Trận Pháp
+    stats: [30, 20, 5, 15, 40, 10]
+    divisions:
+      - name: Chính Điện
+        role: Toàn Bộ
+        headcount:
+          truong_lao: 2
+          chan_truyen: 5
+          noi_mon: 30
+          ngoai_mon: 80
+          tap_dich: 83
+        members:
+          - character: Lạc Vô Danh
+            position: Các Chủ
+            cultivation: Kim Đan Hậu Kỳ
+          - character: "[Đại Trưởng Lão]"
+            position: Trưởng Lão
+            cultivation: Trúc Cơ Viên Mãn
+            placeholder: true
+          - character: "[Nhị Trưởng Lão]"
+            position: Trưởng Lão
+            cultivation: Trúc Cơ Viên Mãn
+            placeholder: true
+    relationships:
+      - faction: Cửu Hoa Kiếm Tông
+        description: Láng giềng, bị coi thường nhưng không bị đe dọa
+        diplomacy:
+          lien_minh: 0
+          tin: 10
+          uy_hiep: 0
+          thuong_mai: 5
+          on_oan: 0
+          le_thuoc: -20
+---
+
 # PHẾ LINH CÁC (廢靈閣)
 
 ## I. TỔNG QUAN
@@ -26,9 +85,21 @@
 - **Công Pháp:** "Phế Linh Bổ Khuyết Công" — công pháp do Lạc Vô Danh tự sáng tạo, dùng ngoại lực bù đắp linh căn khiếm khuyết, tu luyện cực chậm nhưng ổn định
 - **Trận Pháp:** Một trận pháp che giấu cấp thấp bao quanh thung lũng, cần 10 Trúc Cơ hợp lực mới duy trì được
 
-## VI. LỊCH SỬ TÓM TẮT
+## VI. ĐẶC SẢN
+<!-- Cần bổ sung -->
+
+## VII. HẠ TẦNG
+<!-- Cần bổ sung -->
+
+## VIII. KINH TẾ
+<!-- Cần bổ sung -->
+
+## IX. LỊCH SỬ TÓM TẮT
 Lạc Vô Danh vốn là thiếu niên bị ba tông phái từ chối vì linh căn ngũ hệ tạp loại. Hắn lang bạt 300 năm, tự mò mẫm tu đến Kim Đan Hậu Kỳ. 50 năm trước, hắn lập Phế Linh Các để thu nhận những kẻ cùng cảnh ngộ. Dù bị các tông phái lớn coi thường, Các vẫn âm thầm tồn tại nhờ không đe dọa ai.
 
-## VII. GIAI THOẠI & BÍ MẬT
+## X. GIAI THOẠI & BÍ MẬT
 - Lạc Vô Danh nghi ngờ "Phế Linh Bổ Khuyết Công" nếu tu đến Nguyên Anh sẽ gây ra phản ứng không lường — nhưng chưa ai trong Các đủ trình để kiểm chứng
 - Trong thung lũng có một tảng đá cổ khắc ký tự lạ, không ai đọc được — Lạc Vô Danh lặng lẽ nghiên cứu nhưng chưa có kết quả
+
+## XI. QUAN HỆ
+<!-- Cần bổ sung -->
