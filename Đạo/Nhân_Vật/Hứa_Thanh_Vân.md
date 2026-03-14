@@ -18,7 +18,7 @@ arcs:
     stats: [20, 18, 12, 35, 15, 20]
     relationships:
       - character: Hứa Nhược Thủy
-        description: Mother
+        description: Mẫu thân, gia chủ Hứa Gia
         feelings:
           yeu: 70
           han: 0

@@ -18,7 +18,7 @@ arcs:
     stats: [65, 130, 140, 90, 65, 110]
     relationships:
       - character: Độc Cô Lão Quái
-        description: Master
+        description: Sư phụ, vừa kính sợ vừa muốn vượt qua
         feelings:
           yeu: -20
           han: 30
@@ -27,7 +27,7 @@ arcs:
           so: 60
           on: -20
       - character: Diệp Tĩnh Sương
-        description: Enemy/obsession
+        description: Kẻ thù ám ảnh, muốn bắt làm Độc Nô
         feelings:
           yeu: -30
           han: 80
@@ -36,7 +36,7 @@ arcs:
           so: 0
           on: -100
       - character: Lâm Phong
-        description: Nemesis
+        description: Cái gai trong mắt, nhiều lần phá hoại kế hoạch
         feelings:
           yeu: -50
           han: 85

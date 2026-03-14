@@ -1,6 +1,7 @@
 ---
 type: character
 name: Mặc Dơi
+hantu: 墨蝠
 archetype: Ám Sát
 race: Nhân Tộc
 avatar: Mặc_Dơi.png
@@ -15,7 +16,7 @@ arcs:
     stats: [8, 40, 35, 50, 10, 12]
     relationships:
       - character: Lệ Vô Tâm
-        description: Fears his master
+        description: Sư phụ đáng sợ, kẻ trên tuyệt đối
         feelings:
           yeu: -30
           han: 20

@@ -16,7 +16,7 @@ arcs:
     stats: [600, 1800, 1200, 1400, 700, 1800]
     relationships:
       - character: Lục Tiêu
-        description: Adopted daughter — deep maternal love
+        description: Con gái nuôi, đệ tử chân truyền
         feelings:
           yeu: 90
           han: 0
@@ -25,7 +25,7 @@ arcs:
           so: 10
           on: 0
       - character: Độc Cô Lão Quái
-        description: Mortal enemy — millennia of hatred
+        description: Kẻ thù không đội trời chung
         feelings:
           yeu: -95
           han: 100
@@ -34,7 +34,7 @@ arcs:
           so: 5
           on: -100
       - character: Diệp Thanh Y
-        description: Reluctant ally turned friend
+        description: Đồng minh bất đắc dĩ, sau thành tri kỷ
         feelings:
           yeu: 20
           han: 0

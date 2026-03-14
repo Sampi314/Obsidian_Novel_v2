@@ -16,7 +16,7 @@ arcs:
     stats: [1100, 1500, 1100, 1400, 1100, 1500]
     relationships:
       - character: Diệp Tĩnh Sương
-        description: Prized disciple
+        description: Đệ tử ưu tú, kỳ vọng kế thừa
         feelings:
           yeu: 30
           han: 0
@@ -25,7 +25,7 @@ arcs:
           so: 0
           on: 0
       - character: Diệp Thanh Y
-        description: Old friend
+        description: Bạn vong niên, đồng minh lâu năm
         feelings:
           yeu: 15
           han: 0
@@ -34,7 +34,7 @@ arcs:
           so: 0
           on: 40
       - character: Độc Cô Lão Quái
-        description: Enemy
+        description: Kẻ thù quấy nhiễu tông môn
         feelings:
           yeu: -70
           han: 80

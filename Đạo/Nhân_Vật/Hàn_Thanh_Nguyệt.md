@@ -14,7 +14,16 @@ arcs:
       - name: Thanh kiếm gãy
         type: Vũ Khí
     stats: [20, 35, 30, 45, 25, 40]
-    relationships: []
+    relationships:
+      - character: Diệp Tĩnh Sương
+        description: Kiếm tu cùng trang lứa, chưa gặp mặt
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 20
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HÀN THANH NGUYỆT

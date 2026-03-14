@@ -18,7 +18,7 @@ arcs:
     stats: [700, 2000, 1500, 900, 1200, 1200]
     relationships:
       - character: Độc Cô Lão Quái
-        description: Mortal enemy
+        description: Kẻ thù không đội trời chung
         feelings:
           yeu: -90
           han: 95
@@ -27,7 +27,7 @@ arcs:
           so: 5
           on: -100
       - character: Ngao Đình
-        description: Nominal allegiance but independent
+        description: Quan hệ vua tôi danh nghĩa, độc lập
         feelings:
           yeu: 0
           han: 0

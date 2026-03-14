@@ -14,7 +14,16 @@ arcs:
       - name: Thu Thủy Kiếm
         type: Vũ Khí
     stats: [45, 50, 45, 80, 45, 65]
-    relationships: []
+    relationships:
+      - character: Diệp Tĩnh Sương
+        description: Kiếm tu đồng đạo, chưa gặp mặt
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 15
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TRIỆU THANH HẰNG

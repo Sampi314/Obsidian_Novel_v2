@@ -16,7 +16,16 @@ arcs:
       - name: Tinh Linh Hồn Châu
         type: Pháp Bảo
     stats: [10, 170, 120, 60, 110, 160]
-    relationships: []
+    relationships:
+      - character: Diệp Tĩnh Sương
+        description: Thử thách kẻ xâm nhập Long Huyệt
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 10
+          tin: 5
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LỤC LY
