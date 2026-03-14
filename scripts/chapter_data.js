@@ -556,6 +556,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00120_Phán_Quyết_Nữ_Vương.md",
       "title": "Chương 120: Phán Quyết Nữ Vương"
+    },
+    {
+      "filename": "Chương_00121_Câu_Hỏi_Của_Đứa_Trẻ.md",
+      "title": "Chương 121: Câu Hỏi Của Đứa Trẻ"
+    },
+    {
+      "filename": "Chương_00122_Tiếng_Gọi_Từ_Lòng_Đất.md",
+      "title": "Chương 122: Tiếng Gọi Từ Lòng Đất"
+    },
+    {
+      "filename": "Chương_00123_Sự_Lựa_Chọn_Hàn_Gắn.md",
+      "title": "Chương 123: Sự Lựa Chọn Hàn Gắn"
+    },
+    {
+      "filename": "Chương_00124_Nước_Mắt_Kim_Đan.md",
+      "title": "Chương 124: Nước Mắt Kim Đan"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

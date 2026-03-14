@@ -3,9 +3,9 @@
 - Viết Chương 55-58 cho Góc Nhìn A Ngốc, bắt đầu Arc 7 (Vạn Yêu Thành).
 
 ## PHIÊN GẦN NHẤT
-- Bắt đầu Arc 9 Góc Nhìn A Ngốc (Kim Đan).
-- Viết Chương 75: Trở Về Phương Nam. A Ngốc và Sở Lăng Sương đi về phía Nam.
-- Viết Chương 76: Cuộc Hội Ngộ Không Ngờ. A Ngốc gặp Lâm Phong, Diệp Tĩnh Sương và chữa thương cho Diệp Tĩnh Sương, hóa giải Huyết Thần Độc.
-- Viết Chương 77: Tàn Tích Vạn Độc. A Ngốc đi sâu vào tàn tích Vạn Độc Môn.
-- Viết Chương 78: Người Bệnh Trong Đền Hoang. A Ngốc gặp Lệ Vô Tâm và kết thành Kim Đan.
-- Cập nhật MỤC_LỤC.md, chapter_data.js. Cập nhật HỒ_SƠ_THẾ_GIỚI.md.
+- Viết Chương 121-124 Góc Nhìn A Ngốc, hoàn thành Arc 12: Trở Về Nơi Bắt Đầu.
+- Lệ Vô Tâm bị giam lỏng tại Vương Đình, đối mặt với hậu quả Huyết Thần Độc.
+- Nham Thần truyền đạt về nguồn gốc Hỗn Độn chi lực.
+- Lệ Vô Tâm dùng kiến thức độc dược hướng dẫn A Ngốc thanh tẩy Huyết Thần Độc, đánh dấu bước ngoặt lớn về tâm lý.
+- A Ngốc đột phá Kim Đan Hậu Kỳ do đồng cảm với nỗi đau của cổ thụ.
+- Cập nhật MỤC_LỤC.md, chạy script update chapter_data.js. Cập nhật tóm tắt sự kiện Arc 12 vào HỒ_SƠ_THẾ_GIỚI.md.
