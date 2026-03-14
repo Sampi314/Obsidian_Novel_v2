@@ -388,6 +388,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00078_Người_Bệnh_Trong_Đền_Hoang.md",
       "title": "Chương 78: Người Bệnh Trong Đền Hoang"
+    },
+    {
+      "filename": "Chương_00079_Hòn_Bi_Ve_Chữa_Lành.md",
+      "title": "Chương 79: Hòn Bi Ve Chữa Lành"
+    },
+    {
+      "filename": "Chương_00080_Lời_Khai_Của_Kẻ_Ngốc.md",
+      "title": "Chương 80: Lời Khai Của Kẻ Ngốc"
+    },
+    {
+      "filename": "Chương_00081_Những_Người_Tìm_Đồ.md",
+      "title": "Chương 81: Những Người Tìm Đồ"
+    },
+    {
+      "filename": "Chương_00082_Không_Còn_Lạnh_Nữa.md",
+      "title": "Chương 82: Không Còn Lạnh Nữa"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

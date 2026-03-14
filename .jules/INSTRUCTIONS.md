@@ -16,7 +16,7 @@
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
 | Góc Nhìn Lâm Phong | 66 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 78 | Arc 9 — Kim Đan | Đang viết catch-up redesign (Task 8) |
+| Góc Nhìn A Ngốc | 82 | Arc 9 — Kim Đan | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -168,7 +168,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã viết chương 75-78 cho Góc Nhìn A Ngốc, mở đầu Arc 9 (Kim Đan). A Ngốc đã gặp lại Lâm Phong, Diệp Tĩnh Sương, hóa giải Huyết Thần Độc cho họ, và đi vào tàn tích Vạn Độc Môn để cứu Lệ Vô Tâm, qua đó kết thành Kim Đan hoàn mỹ.
+> Đã viết chương 79-82 cho Góc Nhìn A Ngốc, tiếp tục Arc 9 (Kim Đan). A Ngốc dùng Hỗn Độn linh khí từ Kim Đan mới ngưng tụ để cứu Lệ Vô Tâm, vô tình đánh lừa Cửu Hoa Kiếm Tông và sưởi ấm cho ác quỷ Nam Cương. Sự chuyển biến tâm lý đầu tiên của Lệ Vô Tâm bắt đầu.
 
 ---
 
