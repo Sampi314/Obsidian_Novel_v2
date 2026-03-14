@@ -151,6 +151,10 @@
 - [Chương 114: Bóng Ma Trong Rừng](Chương_00114_Bóng_Ma_Trong_Rừng.md)
 - [Chương 115: Chắn Tên](Chương_00115_Chắn_Tên.md)
 - [Chương 116: Hiệp Ước Gượng Ép](Chương_00116_Hiệp_Ước_Gượng_Ép.md)
+- [Chương 117: Vào Lại Rừng Sâu](Chương_00117_Vào_Lại_Rừng_Sâu.md)
+- [Chương 118: Sự Im Lặng Của Rừng](Chương_00118_Sự_Im_Lặng_Của_Rừng.md)
+- [Chương 119: Vương Đình Tinh Linh](Chương_00119_Vương_Đình_Tinh_Linh.md)
+- [Chương 120: Phán Quyết Nữ Vương](Chương_00120_Phán_Quyết_Nữ_Vương.md)
 *(Đang cập nhật)*
 
 ## Arc 13: Con Đường Về Nhà (Chương 125-136)
