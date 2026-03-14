@@ -1,3 +1,35 @@
+---
+type: faction
+name: PHẾ ĐỘC ĐƯỜNG
+hantu: 廢毒堂
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # PHẾ ĐỘC ĐƯỜNG (廢毒堂)
 
 ## I. TỔNG QUAN

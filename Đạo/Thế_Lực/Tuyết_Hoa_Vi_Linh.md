@@ -1,3 +1,35 @@
+---
+type: faction
+name: TUYẾT HOA VI LINH
+hantu: 雪花微灵
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # TUYẾT HOA VI LINH (雪花微灵)
 
 ## I. TỔNG QUAN

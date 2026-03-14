@@ -1,3 +1,35 @@
+---
+type: faction
+name: PHÁ BĂNG THƯƠNG ĐỘI
+hantu: 破冰商队
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # PHÁ BĂNG THƯƠNG ĐỘI (破冰商队)
 
 ## I. TỔNG QUAN

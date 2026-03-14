@@ -1,3 +1,35 @@
+---
+type: faction
+name: Vực Thẳm Ma Cung
+hantu: 深渊魔宫
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Vực Thẳm Ma Cung (深渊魔宫)
 ## 1. Thông Tin Cơ Bản
 - **Vị Trí:** Rãnh Mariana tu chân (Vực Thẳm Hắc Ám).

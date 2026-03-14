@@ -1,3 +1,35 @@
+---
+type: faction
+name: CỔ KÉN TU LUYỆN XÃ
+hantu: 古茧修炼社
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # CỔ KÉN TU LUYỆN XÃ (古茧修炼社)
 
 ## I. TỔNG QUAN

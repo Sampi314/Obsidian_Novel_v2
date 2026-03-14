@@ -1,3 +1,35 @@
+---
+type: faction
+name: HOANG DÃ YÊU LIÊN
+hantu: 荒野妖联
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HOANG DÃ YÊU LIÊN (荒野妖联)
 
 ## I. TỔNG QUAN

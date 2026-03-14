@@ -1,3 +1,35 @@
+---
+type: faction
+name: PHIÊU PHẤN TRINH SÁT
+hantu: 飘粉侦察
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # PHIÊU PHẤN TRINH SÁT (飘粉侦察)
 
 ## I. TỔNG QUAN

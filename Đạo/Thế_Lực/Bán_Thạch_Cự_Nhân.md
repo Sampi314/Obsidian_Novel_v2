@@ -1,3 +1,35 @@
+---
+type: faction
+name: BÁN THẠCH CỰ NHÂN
+hantu: 半石巨人
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # BÁN THẠCH CỰ NHÂN (半石巨人)
 
 ## I. TỔNG QUAN

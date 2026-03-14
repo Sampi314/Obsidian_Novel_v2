@@ -1,3 +1,35 @@
+---
+type: faction
+name: HOANG DÃ THỢ SĂN BANG
+hantu: 荒野猎人帮
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HOANG DÃ THỢ SĂN BANG (荒野猎人帮)
 
 ## I. TỔNG QUAN

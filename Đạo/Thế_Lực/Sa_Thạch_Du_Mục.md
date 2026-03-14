@@ -1,3 +1,35 @@
+---
+type: faction
+name: SA THẠCH DU MỤC
+hantu: 砂石游牧
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # SA THẠCH DU MỤC (砂石游牧)
 
 ## I. TỔNG QUAN

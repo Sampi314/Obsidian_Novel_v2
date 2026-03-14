@@ -1,3 +1,35 @@
+---
+type: faction
+name: Thiên Môn Kính Đài
+hantu: 天门境台
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Thiên Môn Kính Đài (天门境台)
 
 ## 1. Thông Tin Cơ Bản

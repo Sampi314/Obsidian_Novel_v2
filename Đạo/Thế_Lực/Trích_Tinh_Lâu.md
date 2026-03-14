@@ -1,3 +1,35 @@
+---
+type: faction
+name: Trích Tinh Lâu
+hantu: 摘星楼
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Trích Tinh Lâu (摘星楼)
 
 ## 1. Thông Tin Cơ Bản

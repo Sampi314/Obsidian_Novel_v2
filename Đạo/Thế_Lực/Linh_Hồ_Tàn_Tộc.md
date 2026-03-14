@@ -1,3 +1,35 @@
+---
+type: faction
+name: LINH HỒ TÀN TỘC
+hantu: 灵狐残族
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # LINH HỒ TÀN TỘC (灵狐残族)
 
 ## I. TỔNG QUAN

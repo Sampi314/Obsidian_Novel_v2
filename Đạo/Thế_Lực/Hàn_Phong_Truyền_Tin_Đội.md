@@ -1,3 +1,35 @@
+---
+type: faction
+name: HÀN PHONG TRUYỀN TIN ĐỘI
+hantu: 寒风传信队
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HÀN PHONG TRUYỀN TIN ĐỘI (寒风传信队)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: THIÊN LÝ TRUYỀN THƯ CÁC
+hantu: 千里传书阁
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # THIÊN LÝ TRUYỀN THƯ CÁC (千里传书阁)
 
 ## I. TỔNG QUAN

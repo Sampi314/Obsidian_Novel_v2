@@ -1,3 +1,35 @@
+---
+type: faction
+name: BĂNG NGUYÊN KHAI HOANG ĐỘI
+hantu: 冰原开荒队
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # BĂNG NGUYÊN KHAI HOANG ĐỘI (冰原开荒队)
 
 ## I. TỔNG QUAN

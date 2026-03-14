@@ -1,3 +1,35 @@
+---
+type: faction
+name: Thiên Yêu Đình
+hantu: 天妖庭
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Thiên Yêu Đình (天妖庭)
 
 ## 1. Thông Tin Cơ Bản

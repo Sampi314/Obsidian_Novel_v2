@@ -1,3 +1,35 @@
+---
+type: faction
+name: GIÁP XÁC LIÊN MINH
+hantu: 甲壳联盟
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # GIÁP XÁC LIÊN MINH (甲壳联盟)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: BẠCH HỒ ẨN TỘC
+hantu: 白狐隐族
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # BẠCH HỒ ẨN TỘC (白狐隐族)
 
 ## I. TỔNG QUAN

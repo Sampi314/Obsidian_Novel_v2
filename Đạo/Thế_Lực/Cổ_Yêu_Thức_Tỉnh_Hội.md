@@ -1,3 +1,35 @@
+---
+type: faction
+name: CỔ YÊU THỨC TỈNH HỘI
+hantu: 古妖觉醒会
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # CỔ YÊU THỨC TỈNH HỘI (古妖觉醒会)
 
 ## I. TỔNG QUAN

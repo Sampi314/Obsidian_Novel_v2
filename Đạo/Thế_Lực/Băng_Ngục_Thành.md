@@ -1,3 +1,35 @@
+---
+type: faction
+name: Băng Ngục Thành
+hantu: 冰狱城
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Băng Ngục Thành (冰狱城)
 
 ## 1. Thông Tin Cơ Bản

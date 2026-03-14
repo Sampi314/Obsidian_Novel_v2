@@ -1,3 +1,35 @@
+---
+type: faction
+name: SƯƠNG KHÓI LỮ ĐOÀN
+hantu: 霜烟旅团
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # SƯƠNG KHÓI LỮ ĐOÀN (霜烟旅团)
 
 ## I. TỔNG QUAN

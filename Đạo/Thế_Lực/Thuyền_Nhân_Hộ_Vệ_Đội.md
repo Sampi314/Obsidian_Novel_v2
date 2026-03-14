@@ -1,3 +1,35 @@
+---
+type: faction
+name: THUYỀN NHÂN HỘ VỆ ĐỘI
+hantu: 船人护卫队
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # THUYỀN NHÂN HỘ VỆ ĐỘI (船人护卫队)
 
 ## I. TỔNG QUAN

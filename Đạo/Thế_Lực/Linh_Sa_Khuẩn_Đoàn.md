@@ -1,3 +1,35 @@
+---
+type: faction
+name: LINH SA KHUẨN ĐOÀN
+hantu: 灵沙菌团
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # LINH SA KHUẨN ĐOÀN (灵沙菌团)
 
 ## I. TỔNG QUAN

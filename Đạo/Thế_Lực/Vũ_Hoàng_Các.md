@@ -1,3 +1,35 @@
+---
+type: faction
+name: Vũ Hoàng Các
+hantu: 羽皇阁
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Vũ Hoàng Các (羽皇阁)
 
 ## 1. Thông Tin Cơ Bản

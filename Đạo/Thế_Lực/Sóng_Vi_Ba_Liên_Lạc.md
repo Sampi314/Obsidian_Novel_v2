@@ -1,3 +1,35 @@
+---
+type: faction
+name: SÓNG VI BA LIÊN LẠC
+hantu: 波微联络
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # SÓNG VI BA LIÊN LẠC (波微联络)
 
 ## I. TỔNG QUAN

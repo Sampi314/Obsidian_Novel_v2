@@ -1,3 +1,35 @@
+---
+type: faction
+name: HỎA DIỄM CÔNG PHƯỜNG
+hantu: 火焰工坊
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HỎA DIỄM CÔNG PHƯỜNG (火焰工坊)
 
 ## I. TỔNG QUAN

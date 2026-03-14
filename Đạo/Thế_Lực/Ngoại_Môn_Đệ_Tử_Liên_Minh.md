@@ -1,3 +1,35 @@
+---
+type: faction
+name: NGOẠI MÔN ĐỆ TỬ LIÊN MINH
+hantu: 外门弟子联盟
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # NGOẠI MÔN ĐỆ TỬ LIÊN MINH (外门弟子联盟)
 
 ## I. TỔNG QUAN

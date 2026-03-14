@@ -1,3 +1,35 @@
+---
+type: faction
+name: TẰM TI DỆT PHƯỜNG
+hantu: 蚕丝织坊
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # TẰM TI DỆT PHƯỜNG (蚕丝织坊)
 
 ## I. TỔNG QUAN

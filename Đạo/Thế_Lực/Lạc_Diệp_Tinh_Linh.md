@@ -1,3 +1,35 @@
+---
+type: faction
+name: LẠC DIỆP TINH LINH
+hantu: 落叶精灵
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # LẠC DIỆP TINH LINH (落叶精灵)
 
 ## I. TỔNG QUAN

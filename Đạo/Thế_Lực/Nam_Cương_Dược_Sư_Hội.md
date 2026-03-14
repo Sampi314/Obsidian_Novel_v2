@@ -1,3 +1,35 @@
+---
+type: faction
+name: NAM CƯƠNG DƯỢC SƯ HỘI
+hantu: 南疆药师会
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # NAM CƯƠNG DƯỢC SƯ HỘI (南疆药师会)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: ĐỘC TRÙNG TRỊ LIỆU ĐƯỜNG
+hantu: 毒虫治疗堂
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # ĐỘC TRÙNG TRỊ LIỆU ĐƯỜNG (毒虫治疗堂)
 
 ## I. TỔNG QUAN

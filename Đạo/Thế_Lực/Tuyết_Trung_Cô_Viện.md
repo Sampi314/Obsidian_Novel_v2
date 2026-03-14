@@ -1,3 +1,35 @@
+---
+type: faction
+name: TUYẾT TRUNG CÔ VIỆN
+hantu: 雪中孤院
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # TUYẾT TRUNG CÔ VIỆN (雪中孤院)
 
 ## I. TỔNG QUAN

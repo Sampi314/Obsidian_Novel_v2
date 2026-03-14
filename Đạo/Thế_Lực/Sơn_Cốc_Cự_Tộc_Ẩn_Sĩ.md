@@ -1,3 +1,35 @@
+---
+type: faction
+name: SƠN CỐC CỰ TỘC ẨN SĨ
+hantu: 山谷巨族隐士
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # SƠN CỐC CỰ TỘC ẨN SĨ (山谷巨族隐士)
 
 ## I. TỔNG QUAN

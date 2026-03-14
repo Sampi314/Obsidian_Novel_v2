@@ -1,3 +1,35 @@
+---
+type: faction
+name: ĐẠI ĐỊA HÀNH GIẢ
+hantu: 大地行者
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # ĐẠI ĐỊA HÀNH GIẢ (大地行者)
 
 ## I. TỔNG QUAN

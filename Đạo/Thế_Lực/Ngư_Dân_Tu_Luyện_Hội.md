@@ -1,3 +1,35 @@
+---
+type: faction
+name: NGƯ DÂN TU LUYỆN HỘI
+hantu: 渔民修炼会
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # NGƯ DÂN TU LUYỆN HỘI (渔民修炼会)
 
 ## I. TỔNG QUAN

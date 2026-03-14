@@ -1,3 +1,35 @@
+---
+type: faction
+name: HOÀNG SA DI DÂN
+hantu: 黄沙移民
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HOÀNG SA DI DÂN (黄沙移民)
 
 ## I. TỔNG QUAN

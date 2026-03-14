@@ -1,3 +1,35 @@
+---
+type: faction
+name: HUYẾT HỔ HẠ CHÚNG
+hantu: 血虎下众
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HUYẾT HỔ HẠ CHÚNG (血虎下众)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: Cổ Thạch Bộ Lạc
+hantu: 古石部落
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Cổ Thạch Bộ Lạc (古石部落)
 
 ## 1. Thông Tin Cơ Bản

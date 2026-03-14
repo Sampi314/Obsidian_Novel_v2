@@ -1,3 +1,35 @@
+---
+type: faction
+name: THẠCH LINH ĐỒNG TỬ HỘI
+hantu: 石灵童子会
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # THẠCH LINH ĐỒNG TỬ HỘI (石灵童子会)
 
 ## I. TỔNG QUAN

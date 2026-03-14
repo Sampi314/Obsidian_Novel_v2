@@ -1,3 +1,35 @@
+---
+type: faction
+name: TẠP HUYẾT LONG ĐÀN
+hantu: 杂血龙团
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # TẠP HUYẾT LONG ĐÀN (杂血龙团)
 
 ## I. TỔNG QUAN

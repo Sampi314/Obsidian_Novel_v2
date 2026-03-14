@@ -1,3 +1,35 @@
+---
+type: faction
+name: PHÙ DU LINH ĐOÀN
+hantu: 浮游灵团
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # PHÙ DU LINH ĐOÀN (浮游灵团)
 
 ## I. TỔNG QUAN

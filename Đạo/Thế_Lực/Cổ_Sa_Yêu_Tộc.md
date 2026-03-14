@@ -1,3 +1,35 @@
+---
+type: faction
+name: CỔ SA YÊU TỘC
+hantu: 古沙妖族
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # CỔ SA YÊU TỘC (古沙妖族)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: SA THẠCH LƯU DÂN
+hantu: 砂石流民
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # SA THẠCH LƯU DÂN (砂石流民)
 
 ## I. TỔNG QUAN

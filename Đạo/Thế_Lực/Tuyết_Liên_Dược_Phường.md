@@ -1,3 +1,35 @@
+---
+type: faction
+name: TUYẾT LIÊN DƯỢC PHƯỜNG
+hantu: 雪莲药坊
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # TUYẾT LIÊN DƯỢC PHƯỜNG (雪莲药坊)
 
 ## I. TỔNG QUAN

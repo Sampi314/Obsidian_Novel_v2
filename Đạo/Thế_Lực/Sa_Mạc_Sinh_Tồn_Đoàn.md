@@ -1,3 +1,35 @@
+---
+type: faction
+name: SA MẠC SINH TỒN ĐOÀN
+hantu: 沙漠生存团
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # SA MẠC SINH TỒN ĐOÀN (沙漠生存团)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: HÀN DÂN HỘ VỆ ĐỘI
+hantu: 寒民护卫队
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HÀN DÂN HỘ VỆ ĐỘI (寒民护卫队)
 
 ## I. TỔNG QUAN

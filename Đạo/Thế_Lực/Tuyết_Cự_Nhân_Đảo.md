@@ -1,3 +1,35 @@
+---
+type: faction
+name: Tuyết Cự Nhân Đảo
+hantu: 雪巨人岛
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Tuyết Cự Nhân Đảo (雪巨人岛)
 
 ## 1. Thông Tin Cơ Bản

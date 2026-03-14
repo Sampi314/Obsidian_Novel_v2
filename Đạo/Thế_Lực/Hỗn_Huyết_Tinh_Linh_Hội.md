@@ -1,3 +1,35 @@
+---
+type: faction
+name: HỖN HUYẾT TINH LINH HỘI
+hantu: 混血精灵会
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HỖN HUYẾT TINH LINH HỘI (混血精灵会)
 
 ## I. TỔNG QUAN

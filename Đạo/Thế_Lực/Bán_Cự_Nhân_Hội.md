@@ -1,3 +1,35 @@
+---
+type: faction
+name: BÁN CỰ NHÂN HỘI
+hantu: 半巨人会
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # BÁN CỰ NHÂN HỘI (半巨人会)
 
 ## I. TỔNG QUAN

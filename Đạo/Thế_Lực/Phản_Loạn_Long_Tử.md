@@ -1,3 +1,35 @@
+---
+type: faction
+name: PHẢN LOẠN LONG TỬ
+hantu: 反叛龙子
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # PHẢN LOẠN LONG TỬ (反叛龙子)
 
 ## I. TỔNG QUAN

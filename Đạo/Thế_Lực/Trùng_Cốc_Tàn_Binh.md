@@ -1,3 +1,35 @@
+---
+type: faction
+name: TRÙNG CỐC TÀN BINH
+hantu: 蟲谷殘兵
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # TRÙNG CỐC TÀN BINH (蟲谷殘兵)
 
 ## I. TỔNG QUAN

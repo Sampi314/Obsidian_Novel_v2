@@ -1,3 +1,35 @@
+---
+type: faction
+name: Tinh Linh Vương Đình
+hantu: 精灵王庭
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Tinh Linh Vương Đình (精灵王庭)
 
 ## 1. Thông Tin Cơ Bản

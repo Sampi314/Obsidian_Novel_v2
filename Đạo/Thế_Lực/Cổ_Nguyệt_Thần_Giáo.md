@@ -1,3 +1,35 @@
+---
+type: faction
+name: Cổ Nguyệt Thần Giáo
+hantu: 古月神教
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Cổ Nguyệt Thần Giáo (古月神教)
 
 ## 1. Thông Tin Cơ Bản

@@ -1,3 +1,35 @@
+---
+type: faction
+name: THIÊN SA THƯƠNG HỘI
+hantu: 天沙商會
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # THIÊN SA THƯƠNG HỘI (天沙商會)
 
 > *"Thiên hạ chi lợi, giai quy sa hà."*

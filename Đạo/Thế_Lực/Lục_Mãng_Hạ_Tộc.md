@@ -1,3 +1,35 @@
+---
+type: faction
+name: LỤC MÃNG HẠ TỘC
+hantu: 绿蟒下族
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # LỤC MÃNG HẠ TỘC (绿蟒下族)
 
 ## I. TỔNG QUAN

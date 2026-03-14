@@ -1,3 +1,35 @@
+---
+type: faction
+name: BÁN YÊU THÔN
+hantu: 半妖村
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # BÁN YÊU THÔN (半妖村)
 
 ## I. TỔNG QUAN

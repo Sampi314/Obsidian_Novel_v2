@@ -1,3 +1,35 @@
+---
+type: faction
+name: KIM SA THỢ MỎ HỘI
+hantu: 金沙矿工会
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # KIM SA THỢ MỎ HỘI (金沙矿工会)
 
 ## I. TỔNG QUAN

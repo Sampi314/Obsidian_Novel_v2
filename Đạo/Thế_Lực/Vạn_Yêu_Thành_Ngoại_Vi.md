@@ -1,3 +1,35 @@
+---
+type: faction
+name: VẠN YÊU THÀNH NGOẠI VI
+hantu: 万妖城外围
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # VẠN YÊU THÀNH NGOẠI VI (万妖城外围)
 
 ## I. TỔNG QUAN

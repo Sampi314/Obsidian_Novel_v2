@@ -1,3 +1,35 @@
+---
+type: faction
+name: TUYẾT CỰ NHÂN LẠC ĐOÀN
+hantu: 雪巨人落团
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # TUYẾT CỰ NHÂN LẠC ĐOÀN (雪巨人落团)
 
 ## I. TỔNG QUAN

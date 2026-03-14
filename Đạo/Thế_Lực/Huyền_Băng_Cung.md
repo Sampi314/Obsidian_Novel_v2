@@ -1,3 +1,35 @@
+---
+type: faction
+name: HUYỀN BĂNG CUNG
+hantu: 玄冰宫
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HUYỀN BĂNG CUNG (玄冰宫)
 
 ## I. TỔNG QUAN

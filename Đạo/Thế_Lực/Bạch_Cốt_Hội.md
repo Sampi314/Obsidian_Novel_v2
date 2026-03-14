@@ -1,3 +1,35 @@
+---
+type: faction
+name: BẠCH CỐT HỘI
+hantu: 白骨会
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # BẠCH CỐT HỘI (白骨会)
 
 ## I. TỔNG QUAN

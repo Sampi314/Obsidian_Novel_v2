@@ -1,3 +1,35 @@
+---
+type: faction
+name: ĐỊA MẠCH THÁM HIỂM ĐỘI
+hantu: 地脉探险队
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # ĐỊA MẠCH THÁM HIỂM ĐỘI (地脉探险队)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: Cự Linh Tông
+hantu: 巨灵宗
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Cự Linh Tông (巨灵宗)
 
 ## 1. Thông Tin Cơ Bản

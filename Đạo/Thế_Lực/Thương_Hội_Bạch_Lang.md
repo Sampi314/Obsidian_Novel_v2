@@ -1,3 +1,35 @@
+---
+type: faction
+name: Thương Hội Bạch Lang
+hantu: ''
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Thương Hội Bạch Lang
 
 **Tên Thế Lực:** Thương Hội Bạch Lang

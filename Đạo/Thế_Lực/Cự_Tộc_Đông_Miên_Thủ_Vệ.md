@@ -1,3 +1,35 @@
+---
+type: faction
+name: CỰ TỘC ĐÔNG MIÊN THỦ VỆ
+hantu: 巨族冬眠守卫
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # CỰ TỘC ĐÔNG MIÊN THỦ VỆ (巨族冬眠守卫)
 
 ## I. TỔNG QUAN

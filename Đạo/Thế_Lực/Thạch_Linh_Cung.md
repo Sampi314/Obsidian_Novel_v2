@@ -1,3 +1,35 @@
+---
+type: faction
+name: Thạch Linh Cung
+hantu: 石灵宫
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Thạch Linh Cung (石灵宫)
 
 ## 1. Thông Tin Cơ Bản

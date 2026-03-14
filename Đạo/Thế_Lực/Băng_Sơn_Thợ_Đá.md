@@ -1,3 +1,35 @@
+---
+type: faction
+name: BĂNG SƠN THỢ ĐÁ
+hantu: 冰山石匠
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # BĂNG SƠN THỢ ĐÁ (冰山石匠)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: HỖN HUYẾT YÊU ĐOÀN
+hantu: 混血妖团
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HỖN HUYẾT YÊU ĐOÀN (混血妖团)
 
 ## I. TỔNG QUAN

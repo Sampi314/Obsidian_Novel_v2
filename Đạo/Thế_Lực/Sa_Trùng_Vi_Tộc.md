@@ -1,3 +1,35 @@
+---
+type: faction
+name: SA TRÙNG VI TỘC
+hantu: 沙虫微族
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # SA TRÙNG VI TỘC (沙虫微族)
 
 ## I. TỔNG QUAN

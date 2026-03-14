@@ -1,3 +1,35 @@
+---
+type: faction
+name: THỦY MẪU TRÙNG ĐÀN
+hantu: 水母虫团
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # THỦY MẪU TRÙNG ĐÀN (水母虫团)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: Hàn Kiếm Cốc
+hantu: 寒剑谷
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Hàn Kiếm Cốc (寒剑谷)
 
 ## 1. Thông Tin Cơ Bản

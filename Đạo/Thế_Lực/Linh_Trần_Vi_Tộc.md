@@ -1,3 +1,35 @@
+---
+type: faction
+name: LINH TRẦN VI TỘC
+hantu: 灵尘微族
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # LINH TRẦN VI TỘC (灵尘微族)
 
 ## I. TỔNG QUAN

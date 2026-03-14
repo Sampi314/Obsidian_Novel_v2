@@ -1,3 +1,35 @@
+---
+type: faction
+name: GIAO LONG LƯU VONG
+hantu: 蛟龙流亡
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # GIAO LONG LƯU VONG (蛟龙流亡)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: ỐC ĐẢO VI LINH
+hantu: 绿洲微灵
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # ỐC ĐẢO VI LINH (绿洲微灵)
 
 ## I. TỔNG QUAN

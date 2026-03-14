@@ -1,3 +1,35 @@
+---
+type: faction
+name: YÊU THÚ ĐÔNG MIÊN HỘI
+hantu: 妖兽冬眠会
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # YÊU THÚ ĐÔNG MIÊN HỘI (妖兽冬眠会)
 
 ## I. TỔNG QUAN

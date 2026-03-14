@@ -1,3 +1,35 @@
+---
+type: faction
+name: PHONG SA BÀO TỬ
+hantu: 风沙孢子
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # PHONG SA BÀO TỬ (风沙孢子)
 
 ## I. TỔNG QUAN

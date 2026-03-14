@@ -1,3 +1,35 @@
+---
+type: faction
+name: NGỌC THẠCH THỢ MỎ
+hantu: 玉石矿工
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # NGỌC THẠCH THỢ MỎ (玉石矿工)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: Vạn Trùng Cốc
+hantu: 万虫谷
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Vạn Trùng Cốc (万虫谷)
 
 ## 1. Thông Tin Cơ Bản

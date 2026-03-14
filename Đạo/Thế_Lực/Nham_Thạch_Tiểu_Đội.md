@@ -1,3 +1,35 @@
+---
+type: faction
+name: NHAM THẠCH TIỂU ĐỘI
+hantu: 岩石小队
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # NHAM THẠCH TIỂU ĐỘI (岩石小队)
 
 ## I. TỔNG QUAN

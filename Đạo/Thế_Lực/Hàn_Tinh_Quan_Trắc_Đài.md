@@ -1,3 +1,35 @@
+---
+type: faction
+name: HÀN TINH QUAN TRẮC ĐÀI
+hantu: 寒星观测台
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HÀN TINH QUAN TRẮC ĐÀI (寒星观测台)
 
 ## I. TỔNG QUAN

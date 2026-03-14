@@ -1,3 +1,35 @@
+---
+type: faction
+name: TIỂU CỰ NHÂN ĐOÀN
+hantu: 小巨人团
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # TIỂU CỰ NHÂN ĐOÀN (小巨人团)
 
 ## I. TỔNG QUAN

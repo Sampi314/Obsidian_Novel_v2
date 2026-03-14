@@ -1,3 +1,35 @@
+---
+type: faction
+name: THỦY TINH THẠCH PHƯỜNG
+hantu: 水晶石坊
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # THỦY TINH THẠCH PHƯỜNG (水晶石坊)
 
 ## I. TỔNG QUAN

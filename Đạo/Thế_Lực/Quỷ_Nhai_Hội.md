@@ -1,3 +1,35 @@
+---
+type: faction
+name: QUỶ NHAI HỘI
+hantu: 鬼崖会
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # QUỶ NHAI HỘI (鬼崖会)
 
 ## I. TỔNG QUAN

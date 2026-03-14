@@ -1,3 +1,35 @@
+---
+type: faction
+name: Giao Nhân Tộc Liên Minh
+hantu: 鲛人族联盟
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Giao Nhân Tộc Liên Minh (鲛人族联盟)
 ## 1. Thông Tin Cơ Bản
 - **Vị Trí:** Các thành phố dưới nước phát sáng bằng ngọc trai.

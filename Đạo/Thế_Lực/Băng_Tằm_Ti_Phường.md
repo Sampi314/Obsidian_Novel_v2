@@ -1,3 +1,35 @@
+---
+type: faction
+name: BĂNG TẰM TI PHƯỜNG
+hantu: 冰蚕丝坊
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # BĂNG TẰM TI PHƯỜNG (冰蚕丝坊)
 
 ## I. TỔNG QUAN

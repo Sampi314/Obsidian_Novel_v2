@@ -1,3 +1,35 @@
+---
+type: faction
+name: SA CỰ NHÂN BỘ LẠC
+hantu: 沙巨人部落
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # SA CỰ NHÂN BỘ LẠC (沙巨人部落)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: PHONG VŨ TRINH SÁT ĐỘI
+hantu: 风雨侦察队
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # PHONG VŨ TRINH SÁT ĐỘI (风雨侦察队)
 
 ## I. TỔNG QUAN

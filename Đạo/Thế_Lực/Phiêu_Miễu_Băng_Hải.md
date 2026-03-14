@@ -1,3 +1,35 @@
+---
+type: faction
+name: Phiêu Miễu Băng Hải
+hantu: 飘渺冰海
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Phiêu Miễu Băng Hải (飘渺冰海)
 
 ## 1. Thông Tin Cơ Bản

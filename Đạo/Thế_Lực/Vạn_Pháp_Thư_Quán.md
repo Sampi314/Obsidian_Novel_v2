@@ -1,3 +1,35 @@
+---
+type: faction
+name: VẠN PHÁP THƯ QUÁN
+hantu: 萬法書館
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # VẠN PHÁP THƯ QUÁN (萬法書館)
 
 ## I. TỔNG QUAN

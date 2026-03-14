@@ -1,3 +1,35 @@
+---
+type: faction
+name: HÀN ĐỘC VI TRÙNG ĐOÀN
+hantu: 寒毒微虫团
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HÀN ĐỘC VI TRÙNG ĐOÀN (寒毒微虫团)
 
 ## I. TỔNG QUAN

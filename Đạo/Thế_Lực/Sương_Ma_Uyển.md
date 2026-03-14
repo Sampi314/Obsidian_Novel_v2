@@ -1,3 +1,35 @@
+---
+type: faction
+name: Sương Ma Uyển
+hantu: 霜魔苑
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # Sương Ma Uyển (霜魔苑)
 
 ## 1. Thông Tin Cơ Bản

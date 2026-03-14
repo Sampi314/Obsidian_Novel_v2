@@ -1,3 +1,35 @@
+---
+type: faction
+name: CỔ TÍCH CỰ NHÂN THỨC TỈNH
+hantu: 古迹巨人觉醒
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # CỔ TÍCH CỰ NHÂN THỨC TỈNH (古迹巨人觉醒)
 
 ## I. TỔNG QUAN

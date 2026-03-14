@@ -1,3 +1,35 @@
+---
+type: faction
+name: BĂNG NGUYÊN TÁN TU HỘI
+hantu: 冰原散修会
+faction_type: ''
+alignment: 0
+race: ''
+region: Bắc Băng
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # BĂNG NGUYÊN TÁN TU HỘI (冰原散修会)
 
 ## I. TỔNG QUAN

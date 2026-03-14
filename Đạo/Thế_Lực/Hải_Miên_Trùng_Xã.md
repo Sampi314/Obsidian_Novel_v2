@@ -1,3 +1,35 @@
+---
+type: faction
+name: HẢI MIÊN TRÙNG XÃ
+hantu: 海绵虫社
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HẢI MIÊN TRÙNG XÃ (海绵虫社)
 
 ## I. TỔNG QUAN

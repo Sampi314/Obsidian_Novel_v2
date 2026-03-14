@@ -1,3 +1,35 @@
+---
+type: faction
+name: PHẾ KHÍ LUYỆN ĐAN PHƯỜNG
+hantu: 废弃炼丹坊
+faction_type: ''
+alignment: 0
+race: ''
+region: Đông Hoang
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # PHẾ KHÍ LUYỆN ĐAN PHƯỜNG (废弃炼丹坊)
 
 ## I. TỔNG QUAN

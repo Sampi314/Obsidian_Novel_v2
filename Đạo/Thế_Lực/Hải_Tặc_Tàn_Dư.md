@@ -1,3 +1,35 @@
+---
+type: faction
+name: HẢI TẶC TÀN DƯ
+hantu: 海贼残余
+faction_type: ''
+alignment: 0
+race: ''
+region: Vô Tận Hải
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # HẢI TẶC TÀN DƯ (海贼残余)
 
 ## I. TỔNG QUAN

@@ -1,3 +1,35 @@
+---
+type: faction
+name: ĐẠI MẠC GÁC ĐÊM
+hantu: 大漠守夜人
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # ĐẠI MẠC GÁC ĐÊM (大漠守夜人)
 
 ## I. TỔNG QUAN

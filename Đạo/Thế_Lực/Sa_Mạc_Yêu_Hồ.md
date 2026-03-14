@@ -1,3 +1,35 @@
+---
+type: faction
+name: SA MẠC YÊU HỒ
+hantu: 沙漠妖狐
+faction_type: ''
+alignment: 0
+race: ''
+region: Tây Mạc
+founded: ''
+founder: ''
+emblem: ''
+specialty: ''
+economy: []
+arcs:
+- arc: 1
+  status: Chưa Xác Định
+  rank: ''
+  leader: ''
+  population: 0
+  territory: []
+  assets: []
+  stats:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  divisions: []
+  relationships: []
+---
+
 # SA MẠC YÊU HỒ (沙漠妖狐)
 
 ## I. TỔNG QUAN
