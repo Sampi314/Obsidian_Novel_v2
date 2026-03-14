@@ -155,7 +155,10 @@
 - [Chương 118: Sự Im Lặng Của Rừng](Chương_00118_Sự_Im_Lặng_Của_Rừng.md)
 - [Chương 119: Vương Đình Tinh Linh](Chương_00119_Vương_Đình_Tinh_Linh.md)
 - [Chương 120: Phán Quyết Nữ Vương](Chương_00120_Phán_Quyết_Nữ_Vương.md)
-*(Đang cập nhật)*
+- [Chương 121: Câu Hỏi Của Đứa Trẻ](Chương_00121_Câu_Hỏi_Của_Đứa_Trẻ.md)
+- [Chương 122: Tiếng Gọi Từ Lòng Đất](Chương_00122_Tiếng_Gọi_Từ_Lòng_Đất.md)
+- [Chương 123: Sự Lựa Chọn Hàn Gắn](Chương_00123_Sự_Lựa_Chọn_Hàn_Gắn.md)
+- [Chương 124: Nước Mắt Kim Đan](Chương_00124_Nước_Mắt_Kim_Đan.md)
 
 ## Arc 13: Con Đường Về Nhà (Chương 125-136)
 *Giai đoạn Kim Đan Hậu Kỳ đến Nguyên Anh Sơ Kỳ — Đông Hoang đến Trung Tâm*
