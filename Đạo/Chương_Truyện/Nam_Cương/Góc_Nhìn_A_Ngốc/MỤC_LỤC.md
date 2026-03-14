@@ -110,6 +110,8 @@
 - [Chương 82: Không Còn Lạnh Nữa](Chương_00082_Không_Còn_Lạnh_Nữa.md)
 - [Chương 83: Trò Chơi Mới](Chương_00083_Trò_Chơi_Mới.md)
 - [Chương 84: Mặt Trời Trong Đền](Chương_00084_Mặt_Trời_Trong_Đền.md)
+- [Chương 85: Viên Bi Phát Sáng](Chương_00085_Viên_Bi_Phát_Sáng.md)
+- [Chương 86: Người Bệnh Tỉnh Lại](Chương_00086_Người_Bệnh_Tỉnh_Lại.md)
 
 ## Arc 10: Hai Kẻ Cô Độc (Chương 89-100)
 *Giai đoạn Kim Đan Sơ-Trung Kỳ — Nam Cương đến Tây Mạc*

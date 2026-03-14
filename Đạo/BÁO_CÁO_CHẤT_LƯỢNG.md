@@ -11,6 +11,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 85-86 (Góc Nhìn A Ngốc) & Chương 69-70 (Góc Nhìn Lâm Phong) | Hoàn Thành | Viết Chương 85-86 cho A Ngốc, khắc họa sự tỉnh lại của Lệ Vô Tâm và mâu thuẫn nội tâm của hắn trước sự hồn nhiên của A Ngốc. Viết Chương 69-70 cho Lâm Phong, đánh bại Băng Lang Vương và phát hiện đường hầm Huyết Thần Độc, hé lộ Huyết Sát Minh đang bành trướng ra Đông Hoang. |
 | Hôm nay | Tổng Quản | Viết Chương 75-78 (Góc Nhìn A Ngốc) | Hoàn Thành | Bắt đầu Arc 9 (Kim Đan). A Ngốc và Sở Lăng Sương trở về Nam Cương. Gặp gỡ và cứu Diệp Tĩnh Sương, Lâm Phong. A Ngốc đi vào tàn tích Vạn Độc Môn, gặp Lệ Vô Tâm đang hấp hối và kết thành Kim Đan hoàn mỹ. Tuân thủ quy tắc "Dual Narration". |
 | Hôm nay | Tổng Quản | Viết Chương 147-152 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Hoàn thành Lệ Vô Tâm Bridge Arc (Sụp Đổ). Trận chiến sinh tử giữa Lệ Vô Tâm và Độc Cô Lão Quái dẫn đến sự sụp đổ của Huyết Trì và Vạn Độc Môn. Lệ Vô Tâm trốn chạy với Kim Đan rạn nứt khỏi sự truy sát của Chính Đạo và Huyết Sát Minh, cuối cùng gục ngã tại ngôi làng bỏ hoang và được A Ngốc tìm thấy. Sẵn sàng viết Arc 9 cho A Ngốc. |
 | Hôm nay | Tổng Quản | Viết Chương 137-140 (Góc Nhìn Lệ Vô Tâm) | Hoàn Thành | Bắt đầu Lệ Vô Tâm Bridge Arc (Sụp Đổ). Lệ Vô Tâm trở lại Vạn Độc Môn, thanh trừng nội bộ, thiết lập sự thống trị bằng uy áp Kim Đan song sắc. Dung hợp Hỗn Độn Băng Ma với trận pháp phòng ngự. Sóng gió 3 mặt từ Chính Đạo, Huyết Sát Minh và Độc Cô Lão Quái bắt đầu bủa vây. |

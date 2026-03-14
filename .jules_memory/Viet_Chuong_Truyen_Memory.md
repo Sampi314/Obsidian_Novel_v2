@@ -5,8 +5,6 @@
 
 ## PHIÊN GẦN NHẤT
 - Đã hoàn thành Bridge Arc cho Lệ Vô Tâm (Chương 141-146) với sự kiện Cơn Bão Ba Mặt.
-- Lệ Vô Tâm sử dụng Băng Độc Pháo Đài và Huyết Thi chống lại liên minh Chính Đạo.
-- Cắt đứt hoàn toàn quan hệ với Huyết Sát Minh bằng cách tiêu diệt nhóm sát thủ thâm nhập.
-- Đối đầu và đánh bại sư phụ Độc Cô Lão Quái, hút cạn sinh lực để củng cố Kim Đan.
-- Bước ra khỏi pháo đài, tung chiêu Tuyệt Băng Huyết Vũ, một mình chiến cả Chính Đạo và Huyết Sát Minh.
-- Nhiệm vụ tiếp theo: Bắt đầu viết Arc 9 cho Góc Nhìn A Ngốc.
+- Đã viết Chương 85-86 cho Góc Nhìn A Ngốc, tiếp tục Arc 9 (Kim Đan). A Ngốc cứu tỉnh Lệ Vô Tâm bằng Kim Đan Hỗn Độn.
+- Đã viết Chương 69-70 cho Góc Nhìn Lâm Phong. Lâm Phong và Diệp Tĩnh Sương tiêu diệt Băng Lang Vương và phát hiện ra lối đi ngầm dẫn đến Huyết Thần Độc tại Đông Hoang.
+- Nhiệm vụ tiếp theo: Viết tiếp Góc Nhìn A Ngốc, Lâm Phong, hoặc bắt đầu mở rộng Góc Nhìn Phụ.

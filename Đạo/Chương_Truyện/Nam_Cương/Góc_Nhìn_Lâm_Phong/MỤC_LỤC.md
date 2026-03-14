@@ -94,3 +94,5 @@
 - [Chương 66: Dấu Vết Băng Lang](Chương_00066_Dấu_Vết_Băng_Lang.md)
 - [Chương 67: Sào Huyệt Băng Lang](Chương_00067_Sào_Huyệt_Băng_Lang.md)
 - [Chương 68: Đối Đầu Lang Vương](Chương_00068_Đối_Đầu_Lang_Vương.md)
+- [Chương 69: Huyết Chiến Lang Vương](Chương_00069_Huyết_Chiến_Lang_Vương.md)
+- [Chương 70: Sự Thật Trong Hang Băng](Chương_00070_Sự_Thật_Trong_Hang_Băng.md)
