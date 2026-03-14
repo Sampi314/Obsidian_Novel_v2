@@ -4,6 +4,7 @@ on:
   pull_request:
     paths:
       - "Đạo/Chương_Truyện/**"
+      - "locked_chapters.json"
 
 jobs:
   check-locked-chapters:
@@ -46,6 +47,12 @@ jobs:
             echo -e "$VIOLATIONS"
             echo ""
             echo "These chapters are locked in locked_chapters.json and must not be changed."
+            exit 1
+          fi
+
+          # Also block direct modification of locked_chapters.json
+          if echo "$CHANGED_FILES" | grep -qF "locked_chapters.json"; then
+            echo "::error::locked_chapters.json must not be modified in PRs. It is managed exclusively by the author through the web UI."
             exit 1
           fi
 

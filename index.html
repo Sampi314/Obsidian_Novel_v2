@@ -665,7 +665,7 @@
                 var mobileAuth = document.createElement('div');
                 mobileAuth.id = 'chapter-lock-auth-mobile';
                 mobileAuth.style.cssText = 'display:flex;align-items:center;justify-content:center;padding:12px;';
-                var themeLabel = overlay.querySelector('[style*="Theme"]') || overlay.lastElementChild;
+                var themeLabel = overlay.querySelector('.mn-overlay-theme-label') || overlay.lastElementChild;
                 if (themeLabel) {
                     overlay.insertBefore(mobileAuth, themeLabel);
                 } else {
@@ -876,10 +876,10 @@
                 wrapper.appendChild(expandBtn);
                 wrapper.appendChild(panel);
 
-                // Insert the wrapper after the card-grid (outside the grid layout)
-                // Check if a wrapper for this POV already exists to avoid duplicates
+                // Insert the wrapper after all existing content in the region group
+                // Use appendChild to maintain correct order (not insertBefore which reverses)
                 if (!cardGrid.parentNode.querySelector('.cl-card-chapter-wrapper[data-pov="' + povKey + '"]')) {
-                    cardGrid.parentNode.insertBefore(wrapper, cardGrid.nextSibling);
+                    cardGrid.parentNode.appendChild(wrapper);
                 }
             });
         }

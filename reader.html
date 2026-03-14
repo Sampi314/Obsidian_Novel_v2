@@ -410,6 +410,19 @@
                 authLi.style.cssText = 'display:flex;align-items:center;';
                 navLinks.appendChild(authLi);
             }
+            // Also inject into mobile overlay
+            var overlay = document.querySelector('.mn-overlay');
+            if (overlay) {
+                var mobileAuth = document.createElement('div');
+                mobileAuth.id = 'chapter-lock-auth-mobile';
+                mobileAuth.style.cssText = 'display:flex;align-items:center;justify-content:center;padding:12px;';
+                var themeLabel = overlay.querySelector('.mn-overlay-theme-label') || overlay.lastElementChild;
+                if (themeLabel) {
+                    overlay.insertBefore(mobileAuth, themeLabel);
+                } else {
+                    overlay.appendChild(mobileAuth);
+                }
+            }
 
             if (window.ChapterLock) {
                 window.ChapterLock.init();
