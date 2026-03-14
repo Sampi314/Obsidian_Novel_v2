@@ -108,6 +108,8 @@
 - [Chương 80: Lời Khai Của Kẻ Ngốc](Chương_00080_Lời_Khai_Của_Kẻ_Ngốc.md)
 - [Chương 81: Những Người Tìm Đồ](Chương_00081_Những_Người_Tìm_Đồ.md)
 - [Chương 82: Không Còn Lạnh Nữa](Chương_00082_Không_Còn_Lạnh_Nữa.md)
+- [Chương 83: Trò Chơi Mới](Chương_00083_Trò_Chơi_Mới.md)
+- [Chương 84: Mặt Trời Trong Đền](Chương_00084_Mặt_Trời_Trong_Đền.md)
 
 ## Arc 10: Hai Kẻ Cô Độc (Chương 89-100)
 *Giai đoạn Kim Đan Sơ-Trung Kỳ — Nam Cương đến Tây Mạc*
