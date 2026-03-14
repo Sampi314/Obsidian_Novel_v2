@@ -3,10 +3,7 @@
   'use strict';
 
   // ── Config ──
-  // TODO: Replace these after creating the GitHub OAuth App and Cloudflare Worker
   var CONFIG = {
-    GITHUB_CLIENT_ID: 'YOUR_CLIENT_ID',
-    OAUTH_PROXY_URL: 'https://YOUR_WORKER.workers.dev',
     REPO_OWNER: 'Sampi314',
     REPO_NAME: 'Obsidian_Novel_v2',
     ALLOWED_USER: 'Sampi314',
@@ -69,54 +66,36 @@
     }, remaining);
   }
 
-  // ── OAuth Flow ──
-  function startOAuthLogin() {
-    // Always redirect back to index.html (matches the registered OAuth callback URL)
-    var redirectUri = window.location.origin + '/Obsidian_Novel_v2/index.html';
-    var url = 'https://github.com/login/oauth/authorize'
-      + '?client_id=' + encodeURIComponent(CONFIG.GITHUB_CLIENT_ID)
-      + '&redirect_uri=' + encodeURIComponent(redirectUri)
-      + '&scope=public_repo';
-    window.location.href = url;
-  }
-
-  async function handleOAuthCallback() {
-    var params = new URLSearchParams(window.location.search);
-    var code = params.get('code');
-    if (!code) return false;
-
-    // Clean URL
-    var cleanUrl = window.location.pathname + window.location.hash;
-    window.history.replaceState({}, document.title, cleanUrl);
+  // ── PAT Login ──
+  async function promptForToken() {
+    var token = prompt(
+      'Enter your GitHub Personal Access Token\n'
+      + '(Settings → Developer Settings → Personal Access Tokens → Generate)\n'
+      + 'Needs "public_repo" scope.'
+    );
+    if (!token || !token.trim()) return;
+    token = token.trim();
 
     try {
-      // Exchange code for token
-      var resp = await fetch(CONFIG.OAUTH_PROXY_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ code: code }),
+      var resp = await fetch('https://api.github.com/user', {
+        headers: { 'Authorization': 'Bearer ' + token },
       });
-      var data = await resp.json();
-      if (!data.access_token) {
-        console.error('OAuth failed:', data);
-        return false;
+      if (!resp.ok) {
+        alert('Invalid token. Please check and try again.');
+        return;
       }
-
-      // Verify user is the repo owner
-      var userResp = await fetch('https://api.github.com/user', {
-        headers: { 'Authorization': 'Bearer ' + data.access_token },
-      });
-      var user = await userResp.json();
+      var user = await resp.json();
       if (user.login !== CONFIG.ALLOWED_USER) {
         alert('Access denied. Only the repo owner can lock chapters.');
-        return false;
+        return;
       }
 
-      saveSession(data.access_token, user.avatar_url, user.login);
-      return true;
+      saveSession(token, user.avatar_url, user.login);
+      renderAuthUI();
+      renderAllCheckmarks();
     } catch (err) {
-      console.error('OAuth error:', err);
-      return false;
+      console.error('Token validation error:', err);
+      alert('Failed to validate token. Check your network connection.');
     }
   }
 
@@ -251,8 +230,8 @@
       } else {
         var loginBtn = document.createElement('button');
         loginBtn.className = 'cl-login-btn';
-        loginBtn.textContent = 'Login with GitHub';
-        loginBtn.addEventListener('click', startOAuthLogin);
+        loginBtn.textContent = 'Login (PAT)';
+        loginBtn.addEventListener('click', promptForToken);
         container.appendChild(loginBtn);
       }
     });
@@ -363,9 +342,6 @@
     init: async function () {
       injectStyles();
 
-      // Handle OAuth callback if present
-      var wasCallback = await handleOAuthCallback();
-
       // Load lock data (public read, no token needed)
       try {
         await fetchLockFile(getToken());
@@ -376,10 +352,6 @@
 
       renderAuthUI();
       startExpiryTimer();
-
-      if (wasCallback) {
-        renderAllCheckmarks();
-      }
     },
     getToken: getToken,
     isChapterLocked: isChapterLocked,
