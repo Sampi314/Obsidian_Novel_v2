@@ -394,10 +394,27 @@
     </div>
 
     <script src="scripts/navbar.js"></script>
+    <script src="scripts/chapter-lock.js"></script>
     <script>
     (function() {
         var params = new URLSearchParams(window.location.search);
         var filePath = params.get('file');
+
+        // ── Chapter Lock Integration ──
+        (function initReaderChapterLock() {
+            // Inject auth container into navbar
+            var navLinks = document.querySelector('.mn-links');
+            if (navLinks) {
+                var authLi = document.createElement('li');
+                authLi.id = 'chapter-lock-auth';
+                authLi.style.cssText = 'display:flex;align-items:center;';
+                navLinks.appendChild(authLi);
+            }
+
+            if (window.ChapterLock) {
+                window.ChapterLock.init();
+            }
+        })();
 
         if (!filePath) {
             document.getElementById('content').innerHTML =
@@ -532,6 +549,40 @@
             footer.className = 'footer';
             footer.innerHTML = '<p>Th\u1ebf Gi\u1edbi Ti\u00ean Hi\u1ec7p C\u1ed1 Nguy\u00ean &copy; 2024</p>';
             contentDiv.appendChild(footer);
+
+            // Inject chapter lock checkmarks after content is rendered
+            if (window.ChapterLock) {
+                injectMucLucCheckmarks();
+            }
+        }
+
+        function injectMucLucCheckmarks() {
+            // Only inject on MỤC_LỤC pages
+            if (!filePath || filePath.indexOf('MỤC_LỤC') === -1) return;
+
+            var dirPath = filePath.replace(/MỤC_LỤC\.md$/, '');
+
+            // Find all chapter links in the rendered content
+            var contentArea = document.querySelector('.wiki-page') || document.body;
+            var links = contentArea.querySelectorAll('a[href*="reader.html?file="]');
+
+            links.forEach(function (link) {
+                var href = link.getAttribute('href');
+                var fileMatch = href.match(/file=([^&]+)/);
+                if (!fileMatch) return;
+                var chapterFile = decodeURIComponent(fileMatch[1]);
+
+                // Only add checkmarks for chapter files (not other MỤC_LỤC links)
+                if (!/Chương_\d+/.test(chapterFile)) return;
+
+                // Wrap link and checkmark in a flex container
+                var wrapper = document.createElement('span');
+                wrapper.style.cssText = 'display:inline-flex;align-items:center;';
+                link.parentNode.insertBefore(wrapper, link);
+                wrapper.appendChild(link);
+
+                window.ChapterLock.createCheckmark(chapterFile, wrapper);
+            });
         }
 
         function loadScript(src, callback) {
