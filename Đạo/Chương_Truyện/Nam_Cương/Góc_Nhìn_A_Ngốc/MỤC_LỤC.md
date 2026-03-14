@@ -112,6 +112,8 @@
 - [Chương 84: Mặt Trời Trong Đền](Chương_00084_Mặt_Trời_Trong_Đền.md)
 - [Chương 85: Viên Bi Phát Sáng](Chương_00085_Viên_Bi_Phát_Sáng.md)
 - [Chương 86: Người Bệnh Tỉnh Lại](Chương_00086_Người_Bệnh_Tỉnh_Lại.md)
+- [Chương 87: Sự Tỉnh Giấc Của Ác Quỷ](Chương_00087_Sự_Tỉnh_Giấc_Của_Ác_Quỷ.md)
+- [Chương 88: Bám Đuôi](Chương_00088_Bám_Đuôi.md)
 
 ## Arc 10: Hai Kẻ Cô Độc (Chương 89-100)
 *Giai đoạn Kim Đan Sơ-Trung Kỳ — Nam Cương đến Tây Mạc*

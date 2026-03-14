@@ -16,7 +16,7 @@
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
 | Góc Nhìn Lâm Phong | 70 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 86 | Arc 9 — Kim Đan | Đang viết catch-up redesign (Task 8) |
+| Góc Nhìn A Ngốc | 88 | Arc 9 — Kim Đan | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 9, viết tiếp Ch.87 trở đi cho A Ngốc.
+1. **Redesign A Ngốc (Task 8)**: Bắt đầu Arc 10 (Hai Kẻ Cô Độc), viết tiếp Ch.89 trở đi cho A Ngốc.
 2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 71, 72... cho Góc Nhìn Lâm Phong (Thâm nhập hầm ngầm Huyết Thần Độc).
 3. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ.
 
@@ -168,7 +168,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã viết chương 79-82 cho Góc Nhìn A Ngốc, tiếp tục Arc 9 (Kim Đan). A Ngốc dùng Hỗn Độn linh khí từ Kim Đan mới ngưng tụ để cứu Lệ Vô Tâm, vô tình đánh lừa Cửu Hoa Kiếm Tông và sưởi ấm cho ác quỷ Nam Cương. Sự chuyển biến tâm lý đầu tiên của Lệ Vô Tâm bắt đầu.
+> Đã viết chương 87-88 cho Góc Nhìn A Ngốc, hoàn thành Arc 9 (Kim Đan). Lệ Vô Tâm tỉnh lại, nhận ra mình phụ thuộc vào A Ngốc để sống sót. Hắn miễn cưỡng chấp nhận dẫn A Ngốc theo trên đường chạy trốn sang Tây Mạc.
 
 ---
 

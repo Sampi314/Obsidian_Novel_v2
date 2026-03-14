@@ -420,6 +420,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00086_Người_Bệnh_Tỉnh_Lại.md",
       "title": "Chương 86: Người Bệnh Tỉnh Lại"
+    },
+    {
+      "filename": "Chương_00087_Sự_Tỉnh_Giấc_Của_Ác_Quỷ.md",
+      "title": "Chương 87: Sự Tỉnh Giấc Của Ác Quỷ"
+    },
+    {
+      "filename": "Chương_00088_Bám_Đuôi.md",
+      "title": "Chương 88: Bám Đuôi"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
