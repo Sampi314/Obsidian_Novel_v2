@@ -16,7 +16,7 @@
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
 | Góc Nhìn Lâm Phong | 76 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 98 | Arc 10 — Hai Kẻ Cô Độc | Đang viết catch-up redesign (Task 8) |
+| Góc Nhìn A Ngốc | 102 | Arc 11 — Sa Mạc Và Nước Mắt | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,9 +66,9 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 10 (Hai Kẻ Cô Độc) và chuyển sang Arc 11, viết tiếp Ch.99 trở đi cho A Ngốc. Lệ Vô Tâm và A Ngốc đi sâu vào sa mạc, đối mặt sự thật, Lệ Vô Tâm bắt đầu thay đổi hành vi (bảo vệ nguồn nước khỏi Huyết Thần Độc).
-2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 77, 78... cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong, Diệp Tĩnh Sương, Nham Thiết tiến vào trung khu năng lượng của Phế Tích Tinh Linh.
-3. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ.
+1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 11 (Sa Mạc Và Nước Mắt), viết tiếp Chương 103 trở đi cho A Ngốc. Lệ Vô Tâm tiếp tục thay đổi hành vi trên con đường đi ngang sa mạc. Hứa Nhược Thủy (Thương Hội Tây Mạc) có thể xuất hiện và nhận ra Lệ Vô Tâm.
+2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 77, 78... cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong, Diệp Tĩnh Sương, Nham Thiết tiến vào trung khu năng lượng của Phế Tích Tinh Linh Đông Hoang để hủy diệt âm mưu đầu độc nguồn nước ngầm.
+3. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ để đồng bộ dòng thời gian chung.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
 
@@ -168,7 +168,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã viết chương 97-98 cho Góc Nhìn A Ngốc, hoàn thành cao trào tâm lý của Arc 10. Tại Quán Trọ Vô Danh (Trạm Dừng Chân Số 7), A Ngốc vô tình nghe tiếng nạn nhân Huyết Thần Độc và nhận ra "người bệnh" (Lệ Vô Tâm) chính là kẻ gieo rắc "sương đỏ" ở Làng Chặt Củi và Vạn Yêu Thành. Tuy nhiên, thay vì bỏ đi, A Ngốc quyết định ở lại vì Lệ Vô Tâm đang lạnh lẽo và cô độc. "Gương Soi" vỡ vụn nhưng nhường chỗ cho sự khoan dung, đánh dấu bước ngoặt lớn trong quan hệ hai người.
+> Đã viết Chương 99-100 (kết thúc Arc 10) và Chương 101-102 (mở đầu Arc 11) cho Góc Nhìn A Ngốc. Sau khi rời Trạm Dừng Chân Số 7 trong đêm cùng Hứa Thanh Vân, A Ngốc và Lệ Vô Tâm đi sâu vào Tây Mạc. Lệ Vô Tâm có sự chuyển biến nội tâm lớn khi tự tay giải quyết băng cướp Cát Đỏ và tiêu trừ Huyết Thần Độc đang lây nhiễm mạch nước ngầm của một ốc đảo nhỏ, tất cả chỉ vì không muốn nghe tiếng khóc trẻ con (hoặc do bị sự trong sáng của A Ngốc đồng hóa). Đây là minh chứng rõ ràng nhất cho việc kẻ rải độc đã bắt đầu bảo vệ nguồn nước.
 > Đã viết chương 75-76 cho Góc Nhìn Lâm Phong. Lâm Phong và Diệp Tĩnh Sương hợp lực tiêu diệt tên Huyết Sứ Trúc Cơ Sơ Kỳ. Bọn họ giải cứu Nham Thiết (Yêu-Cự thuộc Cổ Thạch Bộ Lạc) và phát hiện Huyết Sát Minh đang lợi dụng địa mạch Tinh Linh Tộc để tinh luyện độc, hòng đầu độc toàn bộ nguồn nước ngầm Đông Hoang. Cả ba bắt đầu tiến vào trung khu năng lượng.
 
 ---
