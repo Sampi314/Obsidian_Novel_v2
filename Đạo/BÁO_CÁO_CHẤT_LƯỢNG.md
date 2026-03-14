@@ -23,8 +23,10 @@
 | Hôm nay | Tổng Quản | Viết Chương 95-96 (Góc Nhìn A Ngốc) | Hoàn Thành | Tiếp tục Arc 10 cho A Ngốc. Hứa Thanh Vân hộ tống đi qua bão cát, Lệ Vô Tâm âm thầm hạ gục lính canh mở đường vào Trạm Dừng Chân. |
 | Hôm nay | Tổng Quản | Viết Chương 93-94 (Góc Nhìn A Ngốc) | Hoàn Thành | Tiếp tục Arc 10 cho A Ngốc, gặp đoàn tị nạn nhiễm Huyết Thần Độc và Hứa Thanh Vân ở Tây Mạc. |
 | Hôm nay | Tổng Quản | Viết Chương 103-104 (A Ngốc) & Chương 77-78 (Lâm Phong) | Hoàn Thành | A Ngốc thấy Lệ Vô Tâm giết người, Hứa Nhược Thủy phát hiện Lệ Vô Tâm. Lâm Phong cùng Diệp Tĩnh Sương, Nham Thiết phá hủy trung khu năng lượng Phế Tích Tinh Linh. |
+| Hôm nay | Tổng Quản | Viết Chương 105-106 (Góc Nhìn A Ngốc) | Hoàn Thành | Tiếp tục Arc 11. Hứa Nhược Thủy nhận ra thân phận Lệ Vô Tâm. Lệ Vô Tâm kìm nén sát khí theo lời A Ngốc, tạo giao kèo với Thiên Sa Thương Hội. |
 
 ## GHI CHÚ GẦN ĐÂY
+- **Hôm nay:** Tiếp tục Arc 11 (Chương 105-106) cho A Ngốc: Hứa Nhược Thủy nhận ra thân phận của Vạn Độc Thánh Tử. Lệ Vô Tâm định giết người diệt khẩu nhưng A Ngốc can ngăn. Sự xuất hiện của A Ngốc khiến Lệ Vô Tâm kiềm chế sát ý và thiết lập một thỏa thuận đồng hành miễn cưỡng với thương đoàn: che giấu thân phận và lộ phí đổi lấy sự bảo hộ dọc đường.
 - **Hôm nay:** Tiếp tục Arc 10 (Hai Kẻ Cô Độc) cho A Ngốc, viết Chương 95-96. Cả 3 tiến vào Trạm Dừng Chân Số 7 của Thiên Sa Thương Hội.
 - **Hôm nay:** Hoàn thành Chương 97-98 (A Ngốc) - "Gương Soi" vỡ vụn. Hoàn thành Chương 75-76 (Lâm Phong) - Tiêu diệt Huyết Sứ, khám phá âm mưu đầu độc mạch nước ngầm.
 - **Hôm nay:** Hoàn thành Arc 10 (Hai Kẻ Cô Độc) với Chương 99-100, mở đầu Arc 11 (Sa Mạc Và Nước Mắt) với Chương 101-102. Lệ Vô Tâm bắt đầu có sự chuyển biến nội tâm, bảo vệ ốc đảo và thanh tẩy nguồn nước bị nhiễm Huyết Thần Độc.

@@ -136,6 +136,8 @@
 - [Chương 102: Nước Trong](Chương_00102_Nước_Trong.md)
 - [Chương 103: Kẻ Săn Đuổi Trong Cát](Chương_00103_Kẻ_Săn_Đuổi_Trong_Cát.md)
 - [Chương 104: Chuyện Ông Già](Chương_00104_Chuyện_Ông_Già.md)
+- [Chương 105: Ánh Mắt Đại Tiểu Thư](Chương_00105_Ánh_Mắt_Đại_Tiểu_Thư.md)
+- [Chương 106: Giao Kèo Trong Đêm](Chương_00106_Giao_Kèo_Trong_Đêm.md)
 *(Đang cập nhật)*
 
 ## Arc 12: Trở Về Nơi Bắt Đầu (Chương 113-124)
