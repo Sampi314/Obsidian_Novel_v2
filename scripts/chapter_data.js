@@ -444,6 +444,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00092_Trò_Chơi_Của_Người_Lớn.md",
       "title": "Chương 92: Trò Chơi Của Người Lớn"
+    },
+    {
+      "filename": "Chương_00093_Đoàn_Người_Trong_Cát.md",
+      "title": "Chương 93: Đoàn Người Trong Cát"
+    },
+    {
+      "filename": "Chương_00094_Thiếu_Gia_Chạy_Trốn.md",
+      "title": "Chương 94: Thiếu Gia Chạy Trốn"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

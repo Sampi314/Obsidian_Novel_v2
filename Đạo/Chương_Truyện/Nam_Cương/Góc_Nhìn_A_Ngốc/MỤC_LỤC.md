@@ -121,6 +121,8 @@
 - [Chương 90: Đi Về Phía Tây](Chương_00090_Đi_Về_Phía_Tây.md)
 - [Chương 91: Nước Cho Người Bệnh](Chương_00091_Nước_Cho_Người_Bệnh.md)
 - [Chương 92: Trò Chơi Của Người Lớn](Chương_00092_Trò_Chơi_Của_Người_Lớn.md)
+- [Chương 93: Đoàn Người Trong Cát](Chương_00093_Đoàn_Người_Trong_Cát.md)
+- [Chương 94: Thiếu Gia Chạy Trốn](Chương_00094_Thiếu_Gia_Chạy_Trốn.md)
 
 ## Arc 11: Sa Mạc Và Nước Mắt (Chương 101-112)
 *Giai đoạn Kim Đan Trung Kỳ — Tây Mạc*
