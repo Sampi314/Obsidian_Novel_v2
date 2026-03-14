@@ -540,6 +540,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00116_Hiệp_Ước_Gượng_Ép.md",
       "title": "Chương 116: Hiệp Ước Gượng Ép"
+    },
+    {
+      "filename": "Chương_00117_Vào_Lại_Rừng_Sâu.md",
+      "title": "Chương 117: Vào Lại Rừng Sâu"
+    },
+    {
+      "filename": "Chương_00118_Sự_Im_Lặng_Của_Rừng.md",
+      "title": "Chương 118: Sự Im Lặng Của Rừng"
+    },
+    {
+      "filename": "Chương_00119_Vương_Đình_Tinh_Linh.md",
+      "title": "Chương 119: Vương Đình Tinh Linh"
+    },
+    {
+      "filename": "Chương_00120_Phán_Quyết_Nữ_Vương.md",
+      "title": "Chương 120: Phán Quyết Nữ Vương"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

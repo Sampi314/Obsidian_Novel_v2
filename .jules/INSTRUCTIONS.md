@@ -16,7 +16,7 @@
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
 | Góc Nhìn Lâm Phong | 82 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 116 | Arc 12 — Trở Về Nơi Bắt Đầu | Đang viết catch-up (Task 8) |
+| Góc Nhìn A Ngốc | 120 | Arc 12 — Trở Về Nơi Bắt Đầu | Đang viết catch-up (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 12 (Trở Về Nơi Bắt Đầu), viết tiếp Chương 117 trở đi cho A Ngốc. Hành trình thanh tẩy rừng sâu cùng Tinh Linh Tộc.
+1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 12 (Trở Về Nơi Bắt Đầu) và Arc 13 (Con Đường Về Nhà), viết tiếp Chương 121 trở đi cho A Ngốc. Hành trình trở về và sự mâu thuẫn của Lệ Vô Tâm.
 2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 83, 84... cho Góc Nhìn Lâm Phong. Chạm trán các thế lực bên trong Vĩnh Hằng Sâm Lâm.
 3. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ để đồng bộ dòng thời gian chung.
 
@@ -168,9 +168,8 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã viết Chương 115-116 cho Góc Nhìn A Ngốc. A Ngốc chắn tên của Lục Tiêu để bảo vệ Lệ Vô Tâm. Sau đó, A Ngốc dùng Hỗn Độn chi lực thanh tẩy một cổ thụ bị nhiễm Huyết Thần Độc, chứng minh giá trị và buộc Tinh Linh Tộc chấp nhận sự hiện diện của Lệ Vô Tâm để đối lấy sự thanh tẩy khu rừng.
+> Đã viết Chương 117-120 cho Góc Nhìn A Ngốc (Arc 12). A Ngốc và Lệ Vô Tâm tiến vào Vương Đình Tinh Linh. Tại đây, Lệ Vô Tâm đối mặt với sự phán xét của Nguyệt Dao Nữ Vương và sự thù hận của Tinh Linh Tộc. Bằng sự thuần khiết và quyết tâm bảo vệ Lệ Vô Tâm của A Ngốc, Nữ Vương quyết định không xử tử Lệ Vô Tâm, thay vào đó giam lỏng hắn dưới sự giám sát của Hồn Nhiên Tử để chứng kiến sự sống hồi sinh từ đống tro tàn hắn tạo ra.
 > Đã viết Chương 81-82 cho Góc Nhìn Lâm Phong. Lâm Phong, Diệp Tĩnh Sương và Nham Thiết rời Cổ Thạch Bộ Lạc tiến về Vĩnh Hằng Sâm Lâm. Họ phát hiện dấu vết của Huyết Vệ và đã phục kích tiêu diệt gọn gàng 5 tên ở bìa rừng.
-> Đã viết Chương 113-114 cho Góc Nhìn A Ngốc, bắt đầu Arc 12 (Trở Về Nơi Bắt Đầu). A Ngốc và Lệ Vô Tâm tiến vào Vĩnh Hằng Sâm Lâm, Lục Tiêu xuất hiện và nhận ra ma đầu Lệ Vô Tâm.
 
 ---
 
