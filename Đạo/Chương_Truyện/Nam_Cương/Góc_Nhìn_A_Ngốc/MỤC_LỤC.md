@@ -119,6 +119,8 @@
 *Giai đoạn Kim Đan Sơ-Trung Kỳ — Nam Cương đến Tây Mạc*
 - [Chương 89: Sợi Dây Vô Hình](Chương_00089_Sợi_Dây_Vô_Hình.md)
 - [Chương 90: Đi Về Phía Tây](Chương_00090_Đi_Về_Phía_Tây.md)
+- [Chương 91: Nước Cho Người Bệnh](Chương_00091_Nước_Cho_Người_Bệnh.md)
+- [Chương 92: Trò Chơi Của Người Lớn](Chương_00092_Trò_Chơi_Của_Người_Lớn.md)
 
 ## Arc 11: Sa Mạc Và Nước Mắt (Chương 101-112)
 *Giai đoạn Kim Đan Trung Kỳ — Tây Mạc*

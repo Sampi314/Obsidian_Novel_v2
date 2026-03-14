@@ -436,6 +436,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00090_Đi_Về_Phía_Tây.md",
       "title": "Chương 90: Đi Về Phía Tây"
+    },
+    {
+      "filename": "Chương_00091_Nước_Cho_Người_Bệnh.md",
+      "title": "Chương 91: Nước Cho Người Bệnh"
+    },
+    {
+      "filename": "Chương_00092_Trò_Chơi_Của_Người_Lớn.md",
+      "title": "Chương 92: Trò Chơi Của Người Lớn"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -804,6 +812,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00072_Bóng_Tối_Đông_Hoang.md",
       "title": "Chương 72: Bóng Tối Đông Hoang"
+    },
+    {
+      "filename": "Chương_00073_Bí_Mật_Sau_Cánh_Cửa_Đá.md",
+      "title": "Chương 73: Bí Mật Sau Cánh Cửa Đá"
+    },
+    {
+      "filename": "Chương_00074_Đụng_Độ_Huyết_Sứ_Đông_Hoang.md",
+      "title": "Chương 74: Đụng Độ Huyết Sứ Đông Hoang"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
