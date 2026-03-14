@@ -110,3 +110,5 @@
 - [Chương 82: Bóng Ma Biên Giới](Chương_00082_Bóng_Ma_Biên_Giới.md)
 - [Chương 83: Sâu Vào Vĩnh Hằng](Chương_00083_Sâu_Vào_Vĩnh_Hằng.md)
 - [Chương 84: Chạm Trán Huyết Liên](Chương_00084_Chạm_Trán_Huyết_Liên.md)
+- [Chương 85: Tranh Đoạt Huyết Liên](Chương_00085_Tranh_Đoạt_Huyết_Liên.md)
+- [Chương 86: Mảnh Vỡ Tai Ương](Chương_00086_Mảnh_Vỡ_Tai_Ương.md)
