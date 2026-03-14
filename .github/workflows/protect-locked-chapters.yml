@@ -1,0 +1,52 @@
+name: Protect Locked Chapters
+
+on:
+  pull_request:
+    paths:
+      - "Đạo/Chương_Truyện/**"
+
+jobs:
+  check-locked-chapters:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout base branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.ref }}
+
+      - name: Check for locked chapter modifications
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Get the lock file from the base branch
+          if [ ! -f locked_chapters.json ]; then
+            echo "No locked_chapters.json found. Skipping check."
+            exit 0
+          fi
+
+          # Get list of changed files in the PR
+          CHANGED_FILES=$(gh pr diff "${{ github.event.pull_request.number }}" --name-only)
+
+          # Check each changed file against locked chapters
+          VIOLATIONS=""
+          while IFS= read -r locked_path; do
+            if echo "$CHANGED_FILES" | grep -qF "$locked_path"; then
+              VIOLATIONS="${VIOLATIONS}\n  - ${locked_path}"
+            fi
+          done < <(python3 -c "
+          import json
+          with open('locked_chapters.json') as f:
+              data = json.load(f)
+          for ch in data.get('locked_chapters', []):
+              print(ch)
+          ")
+
+          if [ -n "$VIOLATIONS" ]; then
+            echo "::error::This PR modifies locked chapters that are approved for publication:"
+            echo -e "$VIOLATIONS"
+            echo ""
+            echo "These chapters are locked in locked_chapters.json and must not be changed."
+            exit 1
+          fi
+
+          echo "No locked chapters were modified. Check passed."
