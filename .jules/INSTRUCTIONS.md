@@ -14,9 +14,9 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 82 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 84 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 124 | Arc 12 — Trở Về Nơi Bắt Đầu | Hoàn thành Arc 12 |
+| Góc Nhìn A Ngốc | 128 | Arc 13 — Con Đường Về Nhà | Đang viết |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,8 +66,8 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Bắt đầu Arc 13 (Con Đường Về Nhà), viết tiếp Chương 125 trở đi cho Góc Nhìn A Ngốc.
-2. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 83, 84... cho Góc Nhìn Lâm Phong. Chạm trán các thế lực bên trong Vĩnh Hằng Sâm Lâm.
+1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 13 (Con Đường Về Nhà), viết tiếp Chương 129 trở đi cho Góc Nhìn A Ngốc.
+2. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 85, 86... cho Góc Nhìn Lâm Phong. Đối đầu để bảo vệ Huyết Liên.
 3. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ để đồng bộ dòng thời gian chung.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
@@ -75,8 +75,8 @@
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 83, 84... cho Góc Nhìn Lâm Phong.
-- Lâm Phong và Diệp Tĩnh Sương tiến sâu vào Vĩnh Hằng Sâm Lâm, chạm mặt tàn dư Huyết Sát Minh.
+- Tiếp tục viết chương 85, 86... cho Góc Nhìn Lâm Phong.
+- Lâm Phong và Diệp Tĩnh Sương chiến đấu với Kim Đan Kỳ của Huyết Sát Minh để bảo vệ Huyết Liên Thần Khí.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
@@ -168,8 +168,8 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành Arc 12 Góc Nhìn A Ngốc (Chương 121-124). Trong thời gian bị giam lỏng tại Vương Đình, Lệ Vô Tâm đối mặt với sự thật từ một tinh linh nhỏ bị mồ côi vì Huyết Thần Độc, cũng như thông điệp sâu xa từ Nham Thần về Hỗn Độn chi lực. Bước ngoặt lớn nhất của Lệ Vô Tâm là khi hắn quyết định dùng kiến thức về độc dược của mình để hướng dẫn A Ngốc thanh tẩy Huyết Thần Độc cho một gốc Thần Mộc. Cùng đêm, nhờ sự thấu cảm sâu sắc nỗi đau của cổ thụ, A Ngốc đột phá cảnh giới Kim Đan Hậu Kỳ, dưới sự bảo vệ bằng ma khí của chính Vạn Độc Thánh Tử khỏi sự can thiệp của Tinh Linh Tộc.
-> Đã viết Chương 81-82 cho Góc Nhìn Lâm Phong. Lâm Phong, Diệp Tĩnh Sương và Nham Thiết rời Cổ Thạch Bộ Lạc tiến về Vĩnh Hằng Sâm Lâm. Họ phát hiện dấu vết của Huyết Vệ và đã phục kích tiêu diệt gọn gàng 5 tên ở bìa rừng.
+> Đã bắt đầu Arc 13 Góc Nhìn A Ngốc (Chương 125-128). Rời khỏi Vương Đình, Lệ Vô Tâm đã có sự biến chuyển lớn trong tâm lý, chủ động ở lại với A Ngốc thay vì rời đi khi Kim Đan phục hồi. Phương Vô Kỵ tái ngộ và đưa ra lời cảnh báo cho Lệ Vô Tâm. Lệ Vô Tâm đã chọn bảo vệ A Ngốc khỏi thợ săn tiền thưởng thay vì giết chóc bừa bãi. Sự thấu cảm khi thấy Lệ Vô Tâm thử múa bài múa của mình đã giúp A Ngốc đột phá lên Nguyên Anh Sơ Kỳ.
+> Đã viết Chương 83-84 cho Góc Nhìn Lâm Phong. Lâm Phong, Diệp Tĩnh Sương và Nham Thiết tiến sâu vào Vĩnh Hằng Sâm Lâm, phát hiện Huyết Sát Minh đang định hiến tế Thần Mộc để tìm mảnh vỡ Huyết Liên Thần Khí. Họ đã đụng độ với một Kim Đan Kỳ của Huyết Sát Minh và mảnh vỡ Huyết Liên cuối cùng cũng lộ diện, khơi mào cuộc chiến giành giật giữa các thế lực.
 
 ---
 

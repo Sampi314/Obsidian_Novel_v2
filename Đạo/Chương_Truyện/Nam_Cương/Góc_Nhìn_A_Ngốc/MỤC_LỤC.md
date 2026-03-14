@@ -162,6 +162,10 @@
 
 ## Arc 13: Con Đường Về Nhà (Chương 125-136)
 *Giai đoạn Kim Đan Hậu Kỳ đến Nguyên Anh Sơ Kỳ — Đông Hoang đến Trung Tâm*
+- [Chương 125: Rời Khỏi Vương Đình](Chương_00125_Rời_Khỏi_Vương_Đình.md)
+- [Chương 126: Sự Lựa Chọn Ở Lại](Chương_00126_Sự_Lựa_Chọn_Ở_Lại.md)
+- [Chương 127: Bạn Đồng Hành](Chương_00127_Bạn_Đồng_Hành.md)
+- [Chương 128: Bài Múa Của Ác Quỷ](Chương_00128_Bài_Múa_Của_Ác_Quỷ.md)
 *(Đang cập nhật)*
 
 ## Arc 14: Hồn Nhiên Tử (Chương 137-148)

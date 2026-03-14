@@ -108,3 +108,5 @@
 - [Chương 80: Lối Đi Mới](Chương_00080_Lối_Đi_Mới.md)
 - [Chương 81: Hành Trình Khẩn Cấp](Chương_00081_Hành_Trình_Khẩn_Cấp.md)
 - [Chương 82: Bóng Ma Biên Giới](Chương_00082_Bóng_Ma_Biên_Giới.md)
+- [Chương 83: Sâu Vào Vĩnh Hằng](Chương_00083_Sâu_Vào_Vĩnh_Hằng.md)
+- [Chương 84: Chạm Trán Huyết Liên](Chương_00084_Chạm_Trán_Huyết_Liên.md)
