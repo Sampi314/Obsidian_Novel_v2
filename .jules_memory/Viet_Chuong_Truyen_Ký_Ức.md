@@ -4,4 +4,6 @@
 ## PHIÊN GẦN NHẤT
 - Bắt đầu Arc 10 (Hai Kẻ Cô Độc) cho Góc Nhìn A Ngốc: Viết chương 89 và 90. A Ngốc và Lệ Vô Tâm lên đường hướng về Tây Mạc. Lệ Vô Tâm mâu thuẫn sâu sắc giữa việc chán ghét, khinh bỉ và muốn sát hại A Ngốc với sự thật phụ thuộc sinh tồn vào Hỗn Độn chi lực từ viên Kim Đan của A Ngốc.
 - Viết chương 71, 72 cho Góc Nhìn Lâm Phong: Lâm Phong và Diệp Tĩnh Sương khám phá hang động bên dưới sào huyệt Băng Lang Vương ở Rừng Tịch Liêu, phát hiện một con nhện khổng lồ và lũ quái vật Sinh Vật Bán Dẫn. Họ chống đỡ và rút lui vào một hành lang bằng đá đen có kiến trúc phù văn của Tinh Linh Tộc bị Huyết Sát Minh chiếm đóng.
+- Viết chương 91-94 cho Góc Nhìn A Ngốc: Lệ Vô Tâm và A Ngốc đối đầu sa tặc, Lệ Vô Tâm giấu A Ngốc. Sau đó chữa bệnh cho tị nạn và gặp Hứa Thanh Vân. Lệ Vô Tâm lợi dụng Hứa Thanh Vân để đi đến Trạm Dừng Chân Số 7.
+- Viết chương 95-96 cho Góc Nhìn A Ngốc: Hứa Thanh Vân dẫn đường, gặp bão cát nhẹ, Hỗn Độn chi lực tự bảo vệ. Đến cổng thành, Hứa Thanh Vân bị chặn, Lệ Vô Tâm dùng Túy Mộng Tán hạ độc 5 lính canh để qua cổng êm thấm. A Ngốc ngây thơ tưởng họ ngủ.
 - Đã cập nhật MỤC_LỤC.md, INSTRUCTIONS.md, và chapter_data.js.
