@@ -104,3 +104,5 @@
 - [Chương 76: Giải Cứu Cự Nhân](Chương_00076_Giải_Cứu_Cự_Nhân.md)
 - [Chương 77: Trung Khu Năng Lượng](Chương_00077_Trung_Khu_Năng_Lượng.md)
 - [Chương 78: Hủy Diệt Nguồn Độc](Chương_00078_Hủy_Diệt_Nguồn_Độc.md)
+- [Chương 79: Bình Minh Sau Bão](Chương_00079_Bình_Minh_Sau_Bão.md)
+- [Chương 80: Lối Đi Mới](Chương_00080_Lối_Đi_Mới.md)

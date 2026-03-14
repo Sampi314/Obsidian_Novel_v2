@@ -1,9 +1,11 @@
 ## TỔNG HỢP LỊCH SỬ (tự động nén)
 - Phiên trước: Viết chương 75-78 cho Góc Nhìn A Ngốc, mở đầu Arc 9 (Kim Đan). A Ngốc đã gặp lại Lâm Phong, Diệp Tĩnh Sương, hóa giải Huyết Thần Độc cho họ, và đi vào tàn tích Vạn Độc Môn để cứu Lệ Vô Tâm, qua đó kết thành Kim Đan hoàn mỹ.
 
-## PHIÊN GẦN NHẤT
-- Bắt đầu Arc 10 (Hai Kẻ Cô Độc) cho Góc Nhìn A Ngốc: Viết chương 89 và 90. A Ngốc và Lệ Vô Tâm lên đường hướng về Tây Mạc. Lệ Vô Tâm mâu thuẫn sâu sắc giữa việc chán ghét, khinh bỉ và muốn sát hại A Ngốc với sự thật phụ thuộc sinh tồn vào Hỗn Độn chi lực từ viên Kim Đan của A Ngốc.
-- Viết chương 71, 72 cho Góc Nhìn Lâm Phong: Lâm Phong và Diệp Tĩnh Sương khám phá hang động bên dưới sào huyệt Băng Lang Vương ở Rừng Tịch Liêu, phát hiện một con nhện khổng lồ và lũ quái vật Sinh Vật Bán Dẫn. Họ chống đỡ và rút lui vào một hành lang bằng đá đen có kiến trúc phù văn của Tinh Linh Tộc bị Huyết Sát Minh chiếm đóng.
-- Viết chương 91-94 cho Góc Nhìn A Ngốc: Lệ Vô Tâm và A Ngốc đối đầu sa tặc, Lệ Vô Tâm giấu A Ngốc. Sau đó chữa bệnh cho tị nạn và gặp Hứa Thanh Vân. Lệ Vô Tâm lợi dụng Hứa Thanh Vân để đi đến Trạm Dừng Chân Số 7.
-- Viết chương 95-96 cho Góc Nhìn A Ngốc: Hứa Thanh Vân dẫn đường, gặp bão cát nhẹ, Hỗn Độn chi lực tự bảo vệ. Đến cổng thành, Hứa Thanh Vân bị chặn, Lệ Vô Tâm dùng Túy Mộng Tán hạ độc 5 lính canh để qua cổng êm thấm. A Ngốc ngây thơ tưởng họ ngủ.
 - Đã cập nhật MỤC_LỤC.md, INSTRUCTIONS.md, và chapter_data.js.
+- Bắt đầu Arc 11 (Sa Mạc Và Nước Mắt) cho Góc Nhìn A Ngốc (Chương 109-112).
+- Viết chương 77-78 cho Góc Nhìn Lâm Phong.
+
+## PHIÊN GẦN NHẤT
+- Bắt đầu Arc 12 (Trở Về Nơi Bắt Đầu) cho Góc Nhìn A Ngốc (Chương 113-114). A Ngốc và Lệ Vô Tâm đi vào Vĩnh Hằng Sâm Lâm (Đông Hoang). Gặp lại "Chị Lá" (Lục Tiêu). Lục Tiêu nhận ra Lệ Vô Tâm là ma đầu của Huyết Sát Minh và giương cung muốn tiêu diệt. A Ngốc đứng ra bảo vệ kẻ thù của cô.
+- Viết chương 79-80 cho Góc Nhìn Lâm Phong. Sau vụ nổ ở Phế Tích Tinh Linh, Nham Thiết (Cổ Thạch Bộ Lạc) cứu Lâm Phong và Diệp Tĩnh Sương. Tại bộ lạc, họ biết được tin Huyết Sát Minh đang tìm Huyết Liên Thần Khí trong Vĩnh Hằng Sâm Lâm nên quyết định lên đường tới đó để ngăn chặn.
+- Cập nhật MỤC_LỤC.md cho cả hai góc nhìn, INSTRUCTIONS.md, Viet_Chuong_Truyen_Ký_Ức.md và chapter_data.js.

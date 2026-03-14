@@ -524,6 +524,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00112_Bóng_Râm_Cuối_Cùng.md",
       "title": "Chương 112: Bóng Râm Cuối Cùng"
+    },
+    {
+      "filename": "Chương_00113_Về_Lại_Rừng_Xanh.md",
+      "title": "Chương 113: Về Lại Rừng Xanh"
+    },
+    {
+      "filename": "Chương_00114_Bóng_Ma_Trong_Rừng.md",
+      "title": "Chương 114: Bóng Ma Trong Rừng"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -916,6 +924,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00078_Hủy_Diệt_Nguồn_Độc.md",
       "title": "Chương 78: Hủy Diệt Nguồn Độc"
+    },
+    {
+      "filename": "Chương_00079_Bình_Minh_Sau_Bão.md",
+      "title": "Chương 79: Bình Minh Sau Bão"
+    },
+    {
+      "filename": "Chương_00080_Lối_Đi_Mới.md",
+      "title": "Chương 80: Lối Đi Mới"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
