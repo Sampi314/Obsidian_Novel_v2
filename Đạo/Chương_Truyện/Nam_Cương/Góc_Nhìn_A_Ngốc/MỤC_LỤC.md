@@ -166,6 +166,8 @@
 - [Chương 126: Sự Lựa Chọn Ở Lại](Chương_00126_Sự_Lựa_Chọn_Ở_Lại.md)
 - [Chương 127: Bạn Đồng Hành](Chương_00127_Bạn_Đồng_Hành.md)
 - [Chương 128: Bài Múa Của Ác Quỷ](Chương_00128_Bài_Múa_Của_Ác_Quỷ.md)
+- [Chương 129: Nguyên Anh Hồn Nhiên](Chương_00129_Nguyên_Anh_Hồn_Nhiên.md)
+- [Chương 130: Bóng Tối Trung Tâm](Chương_00130_Bóng_Tối_Trung_Tâm.md)
 *(Đang cập nhật)*
 
 ## Arc 14: Hồn Nhiên Tử (Chương 137-148)

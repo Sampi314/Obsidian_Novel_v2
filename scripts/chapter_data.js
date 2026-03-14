@@ -588,6 +588,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00128_Bài_Múa_Của_Ác_Quỷ.md",
       "title": "Chương 128: Bài Múa Của Ác Quỷ"
+    },
+    {
+      "filename": "Chương_00129_Nguyên_Anh_Hồn_Nhiên.md",
+      "title": "Chương 129: Nguyên Anh Hồn Nhiên"
+    },
+    {
+      "filename": "Chương_00130_Bóng_Tối_Trung_Tâm.md",
+      "title": "Chương 130: Bóng Tối Trung Tâm"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -1004,6 +1012,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00084_Chạm_Trán_Huyết_Liên.md",
       "title": "Chương 84: Chạm Trán Huyết Liên"
+    },
+    {
+      "filename": "Chương_00085_Tranh_Đoạt_Huyết_Liên.md",
+      "title": "Chương 85: Tranh Đoạt Huyết Liên"
+    },
+    {
+      "filename": "Chương_00086_Mảnh_Vỡ_Tai_Ương.md",
+      "title": "Chương 86: Mảnh Vỡ Tai Ương"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
