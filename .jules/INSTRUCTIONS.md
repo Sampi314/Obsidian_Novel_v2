@@ -14,9 +14,9 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 76 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 78 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 102 | Arc 11 — Sa Mạc Và Nước Mắt | Đang viết catch-up redesign (Task 8) |
+| Góc Nhìn A Ngốc | 104 | Arc 11 — Sa Mạc Và Nước Mắt | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,8 +66,8 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 11 (Sa Mạc Và Nước Mắt), viết tiếp Chương 103 trở đi cho A Ngốc. Lệ Vô Tâm tiếp tục thay đổi hành vi trên con đường đi ngang sa mạc. Hứa Nhược Thủy (Thương Hội Tây Mạc) có thể xuất hiện và nhận ra Lệ Vô Tâm.
-2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 77, 78... cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong, Diệp Tĩnh Sương, Nham Thiết tiến vào trung khu năng lượng của Phế Tích Tinh Linh Đông Hoang để hủy diệt âm mưu đầu độc nguồn nước ngầm.
+1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 11 (Sa Mạc Và Nước Mắt), viết tiếp Chương 105 trở đi cho A Ngốc. Giao tranh/Thương thuyết với Hứa Nhược Thủy tại Tây Mạc.
+2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 79, 80... cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong sau khi phá hủy Phế Tích Tinh Linh sẽ gặp phải những thế lực nào tiếp theo ở Đông Hoang?
 3. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ để đồng bộ dòng thời gian chung.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
@@ -75,8 +75,8 @@
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 75, 76... cho Góc Nhìn Lâm Phong.
-- Lâm Phong và Diệp Tĩnh Sương đối mặt với lũ Sinh Vật Bán Dẫn và khám phá phế tích của Tinh Linh Tộc sâu trong hầm ngầm Huyết Sát Minh ở Rừng Tịch Liêu.
+- Tiếp tục viết chương 79, 80... cho Góc Nhìn Lâm Phong.
+- Lâm Phong và Diệp Tĩnh Sương rời khỏi Phế Tích Tinh Linh và tiếp tục hành trình tại Đông Hoang.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
@@ -168,8 +168,8 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã viết Chương 99-100 (kết thúc Arc 10) và Chương 101-102 (mở đầu Arc 11) cho Góc Nhìn A Ngốc. Sau khi rời Trạm Dừng Chân Số 7 trong đêm cùng Hứa Thanh Vân, A Ngốc và Lệ Vô Tâm đi sâu vào Tây Mạc. Lệ Vô Tâm có sự chuyển biến nội tâm lớn khi tự tay giải quyết băng cướp Cát Đỏ và tiêu trừ Huyết Thần Độc đang lây nhiễm mạch nước ngầm của một ốc đảo nhỏ, tất cả chỉ vì không muốn nghe tiếng khóc trẻ con (hoặc do bị sự trong sáng của A Ngốc đồng hóa). Đây là minh chứng rõ ràng nhất cho việc kẻ rải độc đã bắt đầu bảo vệ nguồn nước.
-> Đã viết chương 75-76 cho Góc Nhìn Lâm Phong. Lâm Phong và Diệp Tĩnh Sương hợp lực tiêu diệt tên Huyết Sứ Trúc Cơ Sơ Kỳ. Bọn họ giải cứu Nham Thiết (Yêu-Cự thuộc Cổ Thạch Bộ Lạc) và phát hiện Huyết Sát Minh đang lợi dụng địa mạch Tinh Linh Tộc để tinh luyện độc, hòng đầu độc toàn bộ nguồn nước ngầm Đông Hoang. Cả ba bắt đầu tiến vào trung khu năng lượng.
+> Đã viết Chương 103-104 cho Góc Nhìn A Ngốc. Sau khi thanh tẩy ốc đảo, Lệ Vô Tâm bị Huyết Vệ truy sát và hắn hạ gục bọn chúng một cách tàn bạo, khiến A Ngốc khóc nức nở. Sự kiện này làm rạn nứt thêm tâm tính lạnh lẽo của Vạn Độc Thánh Tử, hắn bắt đầu hứa sẽ hạn chế sát sinh. Sau đó, họ gặp thương đoàn của Hứa Nhược Thủy, và cô đã nhận ra thân phận thật của hắn.
+> Đã viết Chương 77-78 cho Góc Nhìn Lâm Phong. Lâm Phong, Diệp Tĩnh Sương và Nham Thiết đối đầu với Đại Huyết Sứ tại trung khu năng lượng Phế Tích Tinh Linh. Họ thành công cắt đứt dây xích kết nối đài tế, làm nổ tung trái tim Huyết Tinh Sa khổng lồ, cứu toàn bộ mạch nước ngầm Đông Hoang khỏi thảm họa.
 
 ---
 

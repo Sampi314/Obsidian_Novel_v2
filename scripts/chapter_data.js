@@ -484,6 +484,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00102_Nước_Trong.md",
       "title": "Chương 102: Nước Trong"
+    },
+    {
+      "filename": "Chương_00103_Kẻ_Săn_Đuổi_Trong_Cát.md",
+      "title": "Chương 103: Kẻ Săn Đuổi Trong Cát"
+    },
+    {
+      "filename": "Chương_00104_Chuyện_Ông_Già.md",
+      "title": "Chương 104: Chuyện Ông Già"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -868,6 +876,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00076_Giải_Cứu_Cự_Nhân.md",
       "title": "Chương 76: Giải Cứu Cự Nhân"
+    },
+    {
+      "filename": "Chương_00077_Trung_Khu_Năng_Lượng.md",
+      "title": "Chương 77: Trung Khu Năng Lượng"
+    },
+    {
+      "filename": "Chương_00078_Hủy_Diệt_Nguồn_Độc.md",
+      "title": "Chương 78: Hủy Diệt Nguồn Độc"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

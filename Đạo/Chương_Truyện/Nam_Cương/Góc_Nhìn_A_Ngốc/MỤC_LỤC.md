@@ -134,6 +134,8 @@
 *Giai đoạn Kim Đan Trung Kỳ — Tây Mạc*
 - [Chương 101: Ốc Đảo Nhỏ](Chương_00101_Ốc_Đảo_Nhỏ.md)
 - [Chương 102: Nước Trong](Chương_00102_Nước_Trong.md)
+- [Chương 103: Kẻ Săn Đuổi Trong Cát](Chương_00103_Kẻ_Săn_Đuổi_Trong_Cát.md)
+- [Chương 104: Chuyện Ông Già](Chương_00104_Chuyện_Ông_Già.md)
 *(Đang cập nhật)*
 
 ## Arc 12: Trở Về Nơi Bắt Đầu (Chương 113-124)

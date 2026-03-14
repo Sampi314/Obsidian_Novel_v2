@@ -102,3 +102,5 @@
 - [Chương 74: Đụng Độ Huyết Sứ Đông Hoang](Chương_00074_Đụng_Độ_Huyết_Sứ_Đông_Hoang.md)
 - [Chương 75: Huyết Chiến Phế Tích](Chương_00075_Huyết_Chiến_Phế_Tích.md)
 - [Chương 76: Giải Cứu Cự Nhân](Chương_00076_Giải_Cứu_Cự_Nhân.md)
+- [Chương 77: Trung Khu Năng Lượng](Chương_00077_Trung_Khu_Năng_Lượng.md)
+- [Chương 78: Hủy Diệt Nguồn Độc](Chương_00078_Hủy_Diệt_Nguồn_Độc.md)
