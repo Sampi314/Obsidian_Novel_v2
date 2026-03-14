@@ -16,7 +16,7 @@
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
 | Góc Nhìn Lâm Phong | 66 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 74 | Arc 8 — Băng Nguyên Cô Tịch | Đang viết catch-up redesign (Task 8) |
+| Góc Nhìn A Ngốc | 78 | Arc 9 — Kim Đan | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Viết tiếp Arc 9 cho A Ngốc (Đã hoàn thành Lệ Vô Tâm Bridge Arc Ch.147-152). Bắt đầu hành trình gặp gỡ Lệ Vô Tâm.
+1. **Redesign A Ngốc (Task 8)**: Đã bắt đầu Arc 9, viết tiếp Ch.79 trở đi cho A Ngốc (đã gặp Lệ Vô Tâm, kết đan).
 2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 67, 68... cho Góc Nhìn Lâm Phong. Đối mặt với Băng Lang Vương ở hang động.
 3. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ.
 
@@ -168,7 +168,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành Lệ Vô Tâm Bridge Arc (Ch.147-152), mô tả Vạn Độc Môn sụp đổ và hành trình trốn chạy của Lệ Vô Tâm. Sẵn sàng viết tiếp Arc 9 cho Góc Nhìn A Ngốc (gặp Lệ Vô Tâm).
+> Đã viết chương 75-78 cho Góc Nhìn A Ngốc, mở đầu Arc 9 (Kim Đan). A Ngốc đã gặp lại Lâm Phong, Diệp Tĩnh Sương, hóa giải Huyết Thần Độc cho họ, và đi vào tàn tích Vạn Độc Môn để cứu Lệ Vô Tâm, qua đó kết thành Kim Đan hoàn mỹ.
 
 ---
 

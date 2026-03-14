@@ -98,26 +98,29 @@
 - [Chương 73: Người Áo Trắng](Chương_00073_Người_Áo_Trắng.md)
 - [Chương 74: Mệnh Lệnh Bảo Vệ](Chương_00074_Mệnh_Lệnh_Bảo_Vệ.md)
 
-## Arc 9: Kim Đan (Chương 79-92)
+## Arc 9: Kim Đan (Chương 75-88)
 *Giai đoạn Trúc Cơ Viên Mãn đến Kim Đan Sơ Kỳ — Bắc Băng đến Nam Cương*
-*(Đang cập nhật)*
+- [Chương 75: Trở Về Phương Nam](Chương_00075_Trở_Về_Phương_Nam.md)
+- [Chương 76: Cuộc Hội Ngộ Không Ngờ](Chương_00076_Cuộc_Hội_Ngộ_Không_Ngờ.md)
+- [Chương 77: Tàn Tích Vạn Độc](Chương_00077_Tàn_Tích_Vạn_Độc.md)
+- [Chương 78: Người Bệnh Trong Đền Hoang](Chương_00078_Người_Bệnh_Trong_Đền_Hoang.md)
 
-## Arc 10: Hai Kẻ Cô Độc (Chương 93-104)
+## Arc 10: Hai Kẻ Cô Độc (Chương 89-100)
 *Giai đoạn Kim Đan Sơ-Trung Kỳ — Nam Cương đến Tây Mạc*
 *(Đang cập nhật)*
 
-## Arc 11: Sa Mạc Và Nước Mắt (Chương 105-116)
+## Arc 11: Sa Mạc Và Nước Mắt (Chương 101-112)
 *Giai đoạn Kim Đan Trung Kỳ — Tây Mạc*
 *(Đang cập nhật)*
 
-## Arc 12: Trở Về Nơi Bắt Đầu (Chương 117-128)
+## Arc 12: Trở Về Nơi Bắt Đầu (Chương 113-124)
 *Giai đoạn Kim Đan Trung-Hậu Kỳ — Đông Hoang*
 *(Đang cập nhật)*
 
-## Arc 13: Con Đường Về Nhà (Chương 129-140)
+## Arc 13: Con Đường Về Nhà (Chương 125-136)
 *Giai đoạn Kim Đan Hậu Kỳ đến Nguyên Anh Sơ Kỳ — Đông Hoang đến Trung Tâm*
 *(Đang cập nhật)*
 
-## Arc 14: Hồn Nhiên Tử (Chương 141-152)
+## Arc 14: Hồn Nhiên Tử (Chương 137-148)
 *Giai đoạn Nguyên Anh Sơ-Trung Kỳ — Khắp Cố Nguyên Giới*
 *(Đang cập nhật)*

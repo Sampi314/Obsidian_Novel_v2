@@ -1,11 +1,11 @@
 ## TỔNG HỢP LỊCH SỬ
 - 2026-03-14: Hoàn thành Góc Nhìn A Ngốc Arc 5 (Chương 39-42).
+- Viết Chương 55-58 cho Góc Nhìn A Ngốc, bắt đầu Arc 7 (Vạn Yêu Thành).
 
 ## PHIÊN GẦN NHẤT
-- Viết Chương 55: Thành Phố Đổ Nát
-- Viết Chương 56: Nơi Này Đã Từng Lạnh
-- Viết Chương 57: Giọng Nói Mập Mạp
-- Viết Chương 58: Đừng Làm Phiền Trẻ Con
-- Đã thiết lập bối cảnh A Ngốc đến Vạn Yêu Thành ngay sau đại chiến (Arc 7), chữa trị Yêu Tộc, giao tiếp với Nham Thần và bùng nổ Hỗn Độn Linh Căn đẩy lùi Huyết Sát Minh, đột phá Trúc Cơ Hậu Kỳ.
-- Cập nhật MỤC_LỤC.md, chapter_data.js.
-- Cập nhật INSTRUCTIONS.md, tiếp tục nửa sau của Arc 7 cho A Ngốc.
+- Bắt đầu Arc 9 Góc Nhìn A Ngốc (Kim Đan).
+- Viết Chương 75: Trở Về Phương Nam. A Ngốc và Sở Lăng Sương đi về phía Nam.
+- Viết Chương 76: Cuộc Hội Ngộ Không Ngờ. A Ngốc gặp Lâm Phong, Diệp Tĩnh Sương và chữa thương cho Diệp Tĩnh Sương, hóa giải Huyết Thần Độc.
+- Viết Chương 77: Tàn Tích Vạn Độc. A Ngốc đi sâu vào tàn tích Vạn Độc Môn.
+- Viết Chương 78: Người Bệnh Trong Đền Hoang. A Ngốc gặp Lệ Vô Tâm và kết thành Kim Đan.
+- Cập nhật MỤC_LỤC.md, chapter_data.js. Cập nhật HỒ_SƠ_THẾ_GIỚI.md.
