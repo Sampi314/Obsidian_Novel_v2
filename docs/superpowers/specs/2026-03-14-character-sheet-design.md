@@ -99,15 +99,15 @@ arcs:
 |-------|------|-------------|
 | `character` | string | Name of the related character |
 | `description` | string | Short description of the relationship |
-| `feelings` | object | Six axes, each 0 to 100 (intensity scale) |
-| `feelings.yeu` | number | Love/Affection (0 = none, 100 = absolute devotion) |
-| `feelings.han` | number | Hate/Resentment (0 = none, 100 = murderous hatred) |
-| `feelings.kinh` | number | Respect/Admiration (0 = none, 100 = reverence) |
-| `feelings.tin` | number | Trust (0 = none, 100 = absolute trust) |
-| `feelings.so` | number | Fear (0 = none, 100 = terrified) |
-| `feelings.on` | number | Gratitude/Debt (0 = none, 100 = life debt) |
+| `feelings` | object | Six axes, each -100 to +100 |
+| `feelings.yeu` | number | Love/Affection (-100 = disgust, 0 = neutral, +100 = absolute devotion) |
+| `feelings.han` | number | Hate/Resentment (-100 = forgiveness, 0 = neutral, +100 = murderous hatred) |
+| `feelings.kinh` | number | Respect/Admiration (-100 = contempt, 0 = neutral, +100 = reverence) |
+| `feelings.tin` | number | Trust (-100 = total distrust, 0 = neutral, +100 = absolute trust) |
+| `feelings.so` | number | Fear (-100 = fearless/bold toward them, 0 = neutral, +100 = terrified) |
+| `feelings.on` | number | Gratitude/Debt (-100 = resentment/feels owed, 0 = neutral, +100 = life debt) |
 
-Each axis measures the **intensity** of that feeling (0–100). A character can simultaneously have high Yêu (love) and high Hận (hate) toward the same person. The feeling bars display as horizontal bars from left (0) to right (100), each with its own color: Yêu (pink), Hận (red), Kính (gold), Tin (green), Sợ (purple), Ơn (blue).
+Each axis ranges from **-100 to +100**. Negative = opposite sentiment, 0 = neutral, positive = strong feeling. A character can simultaneously have high Yêu and high Hận toward the same person. The feeling bars display as horizontal bars from a center line — negative extends left (dimmed), positive extends right (bright). Each axis has its own color: Yêu (pink), Hận (red), Kính (gold), Tin (green), Sợ (purple), Ơn (blue).
 
 ### Stats
 
@@ -207,8 +207,9 @@ Each relationship entry shows:
 - Character name (bold)
 - Short description text
 - 6 horizontal feeling bars:
-  - Each bar: label on left, horizontal fill bar, value on right
-  - Fill goes from 0 (empty) to 100 (full)
+  - Each bar: label on left, horizontal bar from center, value on right
+  - Center line = 0. Negative extends left (dimmed color), positive extends right (bright color)
+  - Range: -100 to +100
   - Each axis has its own color: Yêu (pink), Hận (red), Kính (gold), Tin (green), Sợ (purple), Ơn (blue)
 
 ## Detection & Rendering Logic
@@ -262,4 +263,4 @@ Agents (Jules, Claude, Gemini) should update character frontmatter at the beginn
 1. Add a new arc entry with updated stats, cultivation, status, inventory, and relationships.
 2. Do not modify previous arc entries (they are historical).
 3. Stats should reflect the character's power at the start of the arc.
-4. Feeling values are 0–100 intensity (not -100 to +100).
+4. Feeling values range from -100 to +100 (negative = opposite sentiment, 0 = neutral, positive = strong feeling).
