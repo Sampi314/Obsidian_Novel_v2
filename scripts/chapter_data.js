@@ -500,6 +500,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00106_Giao_Kèo_Trong_Đêm.md",
       "title": "Chương 106: Giao Kèo Trong Đêm"
+    },
+    {
+      "filename": "Chương_00107_Đoàn_Kiến_Trong_Cát.md",
+      "title": "Chương 107: Đoàn Kiến Trong Cát"
+    },
+    {
+      "filename": "Chương_00108_Cơn_Gió_Đen.md",
+      "title": "Chương 108: Cơn Gió Đen"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

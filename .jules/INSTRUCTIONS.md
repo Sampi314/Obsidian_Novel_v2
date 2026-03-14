@@ -16,7 +16,7 @@
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
 | Góc Nhìn Lâm Phong | 78 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 106 | Arc 11 — Sa Mạc Và Nước Mắt | Đang viết catch-up redesign (Task 8) |
+| Góc Nhìn A Ngốc | 108 | Arc 11 — Sa Mạc Và Nước Mắt | Đang viết catch-up redesign (Task 8) |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 11 (Sa Mạc Và Nước Mắt), viết tiếp Chương 107 trở đi cho A Ngốc. Hành trình đi cùng thương đoàn Thiên Sa Thương Hội.
+1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 11 (Sa Mạc Và Nước Mắt), viết tiếp Chương 109 trở đi cho A Ngốc. Hành trình đi cùng thương đoàn Thiên Sa Thương Hội.
 2. **Tiếp tục Catch-up Lâm Phong**: Viết chương 79, 80... cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong sau khi phá hủy Phế Tích Tinh Linh sẽ gặp phải những thế lực nào tiếp theo ở Đông Hoang?
 3. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ để đồng bộ dòng thời gian chung.
 
@@ -168,6 +168,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã viết Chương 107-108 cho Góc Nhìn A Ngốc. Lệ Vô Tâm, bị "giám sát" bởi A Ngốc, đã phải kiềm chế bản tính, ra tay xử lý băng sa tặc Hắc Hổ bằng thuốc ngủ thay vì đồ sát, và thậm chí dùng sức mạnh Hỗn Độn Băng Ma để bảo vệ thương đoàn Thiên Sa khỏi Hắc Sa Bão chết chóc. Điều này đánh dấu những chuyển biến tâm lý mạnh mẽ và kỳ lạ bên trong hắn.
 > Đã viết Chương 105-106 cho Góc Nhìn A Ngốc. Đụng độ Hứa Nhược Thủy và Thiên Sa Thương Hội. Hứa Nhược Thủy nhận ra thân phận thật của Vạn Độc Thánh Tử, nhưng trước sự ngăn cản ngây ngô của A Ngốc, Lệ Vô Tâm đã kìm hãm sát khí, không gây ra thảm sát. Một giao kèo miễn cưỡng được thiết lập: thương đoàn che giấu thân phận và cung cấp lộ phí cho hai người, đổi lại Lệ Vô Tâm dọn dẹp chướng ngại trên đường đi qua bão cát.
 > Đã viết Chương 77-78 cho Góc Nhìn Lâm Phong. Lâm Phong, Diệp Tĩnh Sương và Nham Thiết đối đầu với Đại Huyết Sứ tại trung khu năng lượng Phế Tích Tinh Linh. Họ thành công cắt đứt dây xích kết nối đài tế, làm nổ tung trái tim Huyết Tinh Sa khổng lồ, cứu toàn bộ mạch nước ngầm Đông Hoang khỏi thảm họa.
 

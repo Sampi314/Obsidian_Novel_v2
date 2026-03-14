@@ -138,6 +138,8 @@
 - [Chương 104: Chuyện Ông Già](Chương_00104_Chuyện_Ông_Già.md)
 - [Chương 105: Ánh Mắt Đại Tiểu Thư](Chương_00105_Ánh_Mắt_Đại_Tiểu_Thư.md)
 - [Chương 106: Giao Kèo Trong Đêm](Chương_00106_Giao_Kèo_Trong_Đêm.md)
+- [Chương 107: Đoàn Kiến Trong Cát](Chương_00107_Đoàn_Kiến_Trong_Cát.md)
+- [Chương 108: Cơn Gió Đen](Chương_00108_Cơn_Gió_Đen.md)
 *(Đang cập nhật)*
 
 ## Arc 12: Trở Về Nơi Bắt Đầu (Chương 113-124)
