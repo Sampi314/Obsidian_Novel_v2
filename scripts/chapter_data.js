@@ -404,6 +404,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00082_Không_Còn_Lạnh_Nữa.md",
       "title": "Chương 82: Không Còn Lạnh Nữa"
+    },
+    {
+      "filename": "Chương_00083_Trò_Chơi_Mới.md",
+      "title": "Chương 83: Trò Chơi Mới"
+    },
+    {
+      "filename": "Chương_00084_Mặt_Trời_Trong_Đền.md",
+      "title": "Chương 84: Mặt Trời Trong Đền"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -748,6 +756,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00066_Dấu_Vết_Băng_Lang.md",
       "title": "Chương 66: Dấu Vết Băng Lang"
+    },
+    {
+      "filename": "Chương_00067_Sào_Huyệt_Băng_Lang.md",
+      "title": "Chương 67: Sào Huyệt Băng Lang"
+    },
+    {
+      "filename": "Chương_00068_Đối_Đầu_Lang_Vương.md",
+      "title": "Chương 68: Đối Đầu Lang Vương"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

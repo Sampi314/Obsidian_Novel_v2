@@ -31,3 +31,7 @@
 ## 2026-03-14: Viết Chương (A Ngốc Arc 9, Ch.79-82)
 - **Hành động:** Viết 4 chương tiếp theo (79-82) cho quá trình A Ngốc cứu chữa Lệ Vô Tâm tại đền hoang. Áp dụng quy tắc Dual Narration, khai thác triệt để sự tương phản nội tâm của Lệ Vô Tâm và sự hồn nhiên của A Ngốc.
 - **Trạng thái:** Hoàn thành tốt. Nhịp độ và word count đảm bảo. Đã sync `chapter_data.js`.
+
+## Hôm nay: Viết Catch-up Lâm Phong và Redesign A Ngốc
+- **Hành động:** Viết chương 67, 68 cho Lâm Phong (đối đầu Băng Lang Vương) và chương 83, 84 cho A Ngốc (Bi Đan phát sáng, Lệ Vô Tâm bối rối). Cập nhật `MỤC_LỤC.md` và `chapter_data.js`.
+- **Trạng thái:** Hoàn thành tốt. Nhịp độ và quy tắc POV được đảm bảo.
