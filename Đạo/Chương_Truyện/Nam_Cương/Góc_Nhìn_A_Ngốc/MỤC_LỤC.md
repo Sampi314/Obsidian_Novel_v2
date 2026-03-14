@@ -104,6 +104,10 @@
 - [Chương 76: Cuộc Hội Ngộ Không Ngờ](Chương_00076_Cuộc_Hội_Ngộ_Không_Ngờ.md)
 - [Chương 77: Tàn Tích Vạn Độc](Chương_00077_Tàn_Tích_Vạn_Độc.md)
 - [Chương 78: Người Bệnh Trong Đền Hoang](Chương_00078_Người_Bệnh_Trong_Đền_Hoang.md)
+- [Chương 79: Hòn Bi Ve Chữa Lành](Chương_00079_Hòn_Bi_Ve_Chữa_Lành.md)
+- [Chương 80: Lời Khai Của Kẻ Ngốc](Chương_00080_Lời_Khai_Của_Kẻ_Ngốc.md)
+- [Chương 81: Những Người Tìm Đồ](Chương_00081_Những_Người_Tìm_Đồ.md)
+- [Chương 82: Không Còn Lạnh Nữa](Chương_00082_Không_Còn_Lạnh_Nữa.md)
 
 ## Arc 10: Hai Kẻ Cô Độc (Chương 89-100)
 *Giai đoạn Kim Đan Sơ-Trung Kỳ — Nam Cương đến Tây Mạc*
