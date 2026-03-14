@@ -572,6 +572,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00124_Nước_Mắt_Kim_Đan.md",
       "title": "Chương 124: Nước Mắt Kim Đan"
+    },
+    {
+      "filename": "Chương_00125_Rời_Khỏi_Vương_Đình.md",
+      "title": "Chương 125: Rời Khỏi Vương Đình"
+    },
+    {
+      "filename": "Chương_00126_Sự_Lựa_Chọn_Ở_Lại.md",
+      "title": "Chương 126: Sự Lựa Chọn Ở Lại"
+    },
+    {
+      "filename": "Chương_00127_Bạn_Đồng_Hành.md",
+      "title": "Chương 127: Bạn Đồng Hành"
+    },
+    {
+      "filename": "Chương_00128_Bài_Múa_Của_Ác_Quỷ.md",
+      "title": "Chương 128: Bài Múa Của Ác Quỷ"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -980,6 +996,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00082_Bóng_Ma_Biên_Giới.md",
       "title": "Chương 82: Bóng Ma Biên Giới"
+    },
+    {
+      "filename": "Chương_00083_Sâu_Vào_Vĩnh_Hằng.md",
+      "title": "Chương 83: Sâu Vào Vĩnh Hằng"
+    },
+    {
+      "filename": "Chương_00084_Chạm_Trán_Huyết_Liên.md",
+      "title": "Chương 84: Chạm Trán Huyết Liên"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
