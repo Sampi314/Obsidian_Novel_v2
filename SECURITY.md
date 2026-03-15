@@ -1,27 +1,20 @@
-# Chính Sách Bảo Mật (Security Policy)
+# 🛡️ Chính Sách Bảo Mật (Security Policy)
 
-Dự án này là một tác phẩm văn học mở và không chứa mã nguồn nhạy cảm về an ninh mạng. Tuy nhiên, chúng tôi cam kết bảo vệ nội dung và quyền riêng tư của người đóng góp.
+Đây là dự án cá nhân tập trung vào sáng tạo nội dung văn học (Tiên Hiệp). Mặc dù không chứa mã nguồn ứng dụng phức tạp, chúng tôi vẫn cam kết duy trì tính toàn vẹn và an toàn cho dữ liệu trong kho lưu trữ.
 
-## 🛡️ Phiên Bản Hỗ Trợ (Supported Versions)
+## 📞 Báo Cáo Vấn Đề Bảo Mật (Reporting a Vulnerability)
 
-Chúng tôi hỗ trợ các phiên bản mới nhất của dự án trên nhánh `main`.
+Nếu bạn phát hiện bất kỳ vấn đề nào liên quan đến bảo mật (ví dụ: lộ thông tin cá nhân trong tệp tin Markdown, script tự động hóa có hành vi bất thường), vui lòng thực hiện các bước sau:
 
-| Version | Supported |
-| :---: | :---: |
-| Main (Latest) | ✅ |
+1.  **KHÔNG** mở Issue công khai trên GitHub để tránh rủi ro.
+2.  Gửi báo cáo chi tiết trực tiếp đến quản trị viên qua email: **nkhoihue@gmail.com**.
+3.  Chúng tôi sẽ phản hồi và xử lý vấn đề trong thời gian sớm nhất có thể.
 
-## 🐛 Báo Cáo Lỗ Hổng Bảo Mật (Reporting a Vulnerability)
+## ⚠️ Cảnh Báo Về Script Tự Đỗ (Script Warning)
 
-Nếu bạn phát hiện bất kỳ vấn đề nào liên quan đến bảo mật (ví dụ: lộ thông tin cá nhân trong Tệp Tin Markdown, script độc hại), vui lòng làm theo các bước sau:
+Kho lưu trữ chứa các script hỗ trợ bảo trì (`scripts/`) viết bằng Python và Node.js.
+*   Các script này được thiết kế để chạy trong môi trường phát triển nội bộ.
+*   Người dùng bên ngoài nên kiểm tra kỹ nội dung script trước khi thực thi trên hệ thống cá nhân.
+*   Chỉ sử dụng các script được cung cấp chính thức trong nhánh `main` của kho lưu trữ này.
 
-1.  **KHÔNG** mở Issue công khai.
-2.  Gửi báo cáo chi tiết đến email: `security@example.com` (Thay bằng email thực tế của người duy trì nếu có).
-3.  Chúng tôi sẽ xem xét và phản hồi trong thời gian sớm nhất.
-
-## ⚠️ Cảnh Báo Về Script (Script Warning)
-
-Dự án có chứa một số script hỗ trợ (`scripts/`).
-*   Vui lòng kiểm tra kỹ nội dung script trước khi chạy trên máy cá nhân.
-*   Chỉ chạy các script có nguồn gốc rõ ràng từ kho lưu trữ này.
-
-Cảm ơn bạn đã giúp giữ cho cộng đồng an toàn!
+Cảm ơn bạn đã quan tâm đến sự an toàn của dự án!

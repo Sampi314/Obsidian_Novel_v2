@@ -1,63 +1,57 @@
-# Hướng Dẫn Đóng Góp (Contributing Guidelines)
+# 🛠️ Hướng Dẫn Bảo Trì & Quy Chuẩn Nội Dung (Internal Maintenance Guide)
 
-Cảm ơn bạn đã quan tâm đến việc đóng góp cho dự án "Cố Nguyên"! Chúng tôi hoan nghênh mọi sự đóng góp từ cộng đồng để xây dựng thế giới Tiên Hiệp này ngày càng phong phú.
+> [!CAUTION]
+> **DỰ ÁN CÁ NHÂN - KHÔNG TIẾP NHẬN ĐÓNG GÓP CÔNG KHAI**
+> Kho lưu trữ này được thiết lập cho mục đích cá nhân và phát triển thế giới với sự hỗ trợ của AI. Chúng tôi **KHÔNG** tiếp nhận Pull Requests hoặc Issues từ cộng đồng. Mọi đóng góp công khai sẽ bị từ chối hoặc bỏ qua.
 
-Vui lòng dành chút thời gian đọc qua các hướng dẫn sau đây để quá trình đóng góp diễn ra thuận lợi.
+---
 
-## ⚙️ Quy Trình Đóng Góp (Contribution Workflow)
+## 🤖 Quy Trình Dành Cho Tác Nhân AI (AI Agent Workflow)
 
-Để đảm bảo tính nhất quán và chất lượng của dự án, vui lòng tuân thủ quy trình sau:
+Để duy trì tính nhất quán của thế giới "Cố Nguyên", các tác nhân AI (Claude Code, Gemini, v.v.) khi thực hiện nhiệm vụ bảo trì hoặc sáng tạo phải tuân thủ nghiêm ngặt các bước sau:
 
-1.  **Đọc Hồ Sơ Thế Giới:**
-    *   Trước khi bắt đầu, hãy đọc kỹ **[Hồ Sơ Thế Giới (World Profile)](Đạo/HỒ_SƠ_THẾ_GIỚI.md)** để nắm vững bối cảnh, lịch sử và các quy tắc của thế giới "Cố Nguyên". Điều này giúp tránh các mâu thuẫn trong cốt truyện hoặc thiết lập.
+### 1. Kiểm Tra Nhất Quán (Consistency Check)
+- Trước khi thêm bất kỳ thực thể mới nào (Nhân vật, Tông môn, Công pháp), AI phải đọc tệp gốc `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+- Đảm bảo thực thể mới không mâu thuẫn với các thiết lập hiện có về cảnh giới, địa lý hoặc lịch sử.
 
-2.  **Thực Thi (Execute):**
-    *   Sử dụng các công cụ có sẵn để tạo nội dung mới hoặc chỉnh sửa nội dung hiện có.
-    *   Đảm bảo nội dung mới phù hợp với văn phong Tiên Hiệp và logic của thế giới.
+### 2. Kỹ Năng Chuyên Biệt (Claude Code Skills)
+Sử dụng các kỹ năng đã được thiết lập trong `.claude/skills/` để thực hiện các tác vụ cụ thể. Ví dụ:
+- Sử dụng `/nhan-vat` để tạo hồ sơ nhân vật mới với YAML frontmatter chuẩn.
+- Sử dụng `/kiem-duyet` sau khi viết chương truyện để đảm bảo chất lượng.
+- Sử dụng `/quan-he` để cập nhật sơ đồ quan hệ khi có thay đổi về tình tiết.
 
-3.  **Lưu Trữ (Store):**
-    *   Lưu Tệp Tin vào đúng thư mục con trong `Đạo/` tương ứng với loại nội dung:
-        *   `Đạo/Nhân_Vật/`: Hồ sơ nhân vật.
-        *   `Đạo/Thế_Lực/`: Tông môn, tổ chức.
-        *   `Đạo/Công_Pháp/`: Bí kíp, công pháp.
-        *   `Đạo/Chủng_Tộc/`: Các chủng tộc.
-        *   `Đạo/Kỳ_Vật/`, `Đạo/Đan_Dược/`, `Đạo/Luyện_Khí/`: Vật phẩm, tài nguyên.
-        *   `Đạo/Chương_Truyện/`: Bản thảo chương truyện.
+### 3. Quy Tắc Đặt Tên & Lưu Trữ (Naming & Storage)
+- **BẮT BUỘC**: Tên tệp tin phải là **Tiếng Việt có dấu**.
+- **KHOẢNG TRẮNG**: Thay thế bằng dấu gạch dưới (`_`).
+- **ĐƯỜNG DẪN**: Lưu đúng vào các thư mục chức năng trong `Đạo/`.
+  - *Ví dụ chuẩn*: `Đạo/Công_Pháp/Thái_Cực_Kiếm_Phổ.md`
+  - *Ví dụ sai*: `Dao/Cong_Phap/thai cuc kiem pho.md`
 
-4.  **Quy Tắc Đặt Tên Tệp Tin:**
-    *   Tên Tệp Tin **bắt buộc** phải là **Tiếng Việt có dấu**.
-    *   Thay thế tất cả khoảng trắng (spaces) bằng dấu gạch dưới `_`.
-    *   Ví dụ: `Đạo/Nhân_Vật/Lâm_Phong.md`, `Đạo/Công_Pháp/Băng_Tâm_Quyết.md`.
+### 4. Cấu Trúc Metadata (YAML Frontmatter)
+Mọi tệp tin nội dung phải có YAML frontmatter đầy đủ theo schema của loại thực thể đó.
+- `type`: `character`, `faction`, `chapter`, `item`, v.v.
+- `tags`: Các từ khóa phân loại.
+- `status`: Tình trạng thực thể (Active, Deceased, Hidden).
 
-5.  **Cập Nhật (Cập Nhật):**
-    *   Sau khi thêm Tệp Tin mới, hãy cập nhật tóm tắt nội dung hoặc liên kết vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` nếu cần thiết để mọi người dễ dàng theo dõi.
+---
 
-## 🔧 Cài Đặt Môi Trường (Setup)
+## 🔧 Công Cụ Hỗ Trợ (Maintenance Scripts)
 
-Dự án sử dụng tên Tệp Tin tiếng Việt, điều này có thể gây ra lỗi hiển thị trên một số cấu hình Git (ví dụ: tên Tệp Tin bị mã hóa thành `\\304\\220...`).
+Sử dụng các script trong thư mục `scripts/` để tự động hóa việc bảo trì:
 
-Để khắc phục, hãy chạy lệnh sau trong thư mục gốc của dự án:
+- `python3 scripts/update_chapter_data.py`: Cập nhật danh sách chương truyện và mục lục.
+- `node scripts/generate_wiki_index.mjs`: Tái cấu trúc chỉ mục tìm kiếm cho wiki.
+- `python3 scripts/check_links.py`: Kiểm tra tính toàn vẹn của các liên kết nội bộ.
 
-```bash
-bash scripts/setup_git.sh
-```
+---
 
-Hoặc cấu hình thủ công:
+## ⚙️ Cấu Hình Git (Git Configuration)
+
+Để tránh lỗi hiển thị tên tệp tin tiếng Việt trong terminal:
 
 ```bash
 git config core.quotePath false
 ```
 
-## 🐛 Báo Cáo Lỗi (Reporting Issues)
-
-Nếu bạn phát hiện lỗi logic, sai sót chính tả, hoặc vấn đề kỹ thuật:
-*   Hãy mở một **Issue** trên GitHub.
-*   Mô tả rõ ràng vấn đề và vị trí (tên Tệp Tin, dòng) để chúng tôi dễ dàng khắc phục.
-
-## 📝 Pull Requests
-
-*   Chúng tôi khuyến khích các Pull Request (PR) nhỏ và tập trung vào một vấn đề cụ thể.
-*   Mô tả chi tiết những thay đổi bạn đã thực hiện trong PR.
-*   Đảm bảo các liên kết trong bài viết hoạt động chính xác.
-
-Cảm ơn sự đóng góp của bạn!
+---
+*Tài liệu này phục vụ mục đích hướng dẫn quy trình vận hành nội bộ giữa Người dùng và AI.*
