@@ -8,7 +8,7 @@
     'use strict';
 
     // ── Configuration ──
-    var EDGE_TTS_API = 'https://tts.travisvn.com/api/tts';
+    var EDGE_TTS_API = 'http://127.0.0.1:5050/tts';
 
     var VOICES = [
         { id: 'vi-VN-HoaiMyNeural',  name: 'HoaiMy (Nữ)' },
