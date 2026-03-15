@@ -1,6 +1,6 @@
 /* ═══════════════════════════════════════════
    CỐ NGUYÊN GIỚI — Floating TTS Player
-   VieNeu-TTS + Edge TTS + Web Speech Fallback
+   VieNeu-TTS with Voice Cloning
    Sticky bottom bar with voice selection & settings
    ═══════════════════════════════════════════ */
 
@@ -8,30 +8,17 @@
     'use strict';
 
     // ── Configuration ──
-    var EDGE_TTS_API = 'https://tts.travisvn.com/api/tts';
     var DEFAULT_VIENEU_URL = 'http://127.0.0.1:8001';
 
     // Built-in VieNeu voices (matches voices.json from the VieNeu-TTS repo)
     var VIENEU_VOICES = [
-        { id: 'Binh',  name: 'Bình (Nam Bắc)',  engine: 'vieneu' },
-        { id: 'Tuyen', name: 'Tuyên (Nam Bắc)',  engine: 'vieneu' },
-        { id: 'Vinh',  name: 'Vĩnh (Nam Nam)',   engine: 'vieneu' },
-        { id: 'Doan',  name: 'Đoan (Nữ Nam)',    engine: 'vieneu' },
-        { id: 'Ly',    name: 'Ly (Nữ Bắc)',      engine: 'vieneu' },
-        { id: 'Ngoc',  name: 'Ngọc (Nữ Bắc)',    engine: 'vieneu' },
+        { id: 'Binh',  name: 'Bình (Nam Bắc)' },
+        { id: 'Tuyen', name: 'Tuyên (Nam Bắc)' },
+        { id: 'Vinh',  name: 'Vĩnh (Nam Nam)' },
+        { id: 'Doan',  name: 'Đoan (Nữ Nam)' },
+        { id: 'Ly',    name: 'Ly (Nữ Bắc)' },
+        { id: 'Ngoc',  name: 'Ngọc (Nữ Bắc)' },
     ];
-
-    var EDGE_VOICES = [
-        { id: 'vi-VN-HoaiMyNeural',  name: 'HoaiMy (Nữ)',  engine: 'edge' },
-        { id: 'vi-VN-NamMinhNeural', name: 'NamMinh (Nam)', engine: 'edge' },
-    ];
-
-    var NATIVE_VOICES = [
-        { id: 'native', name: 'Giọng Máy', engine: 'native' },
-    ];
-
-    // Combined voice list — VieNeu first (higher quality)
-    var VOICES = VIENEU_VOICES.concat(EDGE_VOICES).concat(NATIVE_VOICES);
 
     // ── State ──
     var state = {
@@ -44,14 +31,11 @@
         voiceId: localStorage.getItem('tts_voice') || 'Binh',
         vieneuUrl: localStorage.getItem('tts_vieneu_url') || DEFAULT_VIENEU_URL,
         audioEl: null,
-        edgeTTSAvailable: null,
         vieneuAvailable: null,   // null = untested
         settingsOpen: false,
         clonedVoices: JSON.parse(localStorage.getItem('tts_cloned_voices') || '[]'),
         pendingCloneAudio: null, // temp: holds FileReader result before save
     };
-
-    var synth = window.speechSynthesis;
 
     // ── Build Floating Player UI ──
     function buildPlayer() {
@@ -141,25 +125,18 @@
 
         document.body.appendChild(bar);
 
-        // Populate voice select with optgroups
+        // Populate voice select
         var sel = document.getElementById('tts-voice-select');
-        var groups = [
-            { label: 'VieNeu-TTS (24kHz)', voices: VIENEU_VOICES },
-            { label: 'Edge TTS', voices: EDGE_VOICES },
-            { label: 'Trình Duyệt', voices: NATIVE_VOICES },
-        ];
-        groups.forEach(function(g) {
-            var optgroup = document.createElement('optgroup');
-            optgroup.label = g.label;
-            g.voices.forEach(function(v) {
-                var opt = document.createElement('option');
-                opt.value = v.id;
-                opt.textContent = v.name;
-                if (v.id === state.voiceId) opt.selected = true;
-                optgroup.appendChild(opt);
-            });
-            sel.appendChild(optgroup);
+        var optgroup = document.createElement('optgroup');
+        optgroup.label = 'VieNeu-TTS (24kHz)';
+        VIENEU_VOICES.forEach(function(v) {
+            var opt = document.createElement('option');
+            opt.value = v.id;
+            opt.textContent = v.name;
+            if (v.id === state.voiceId) opt.selected = true;
+            optgroup.appendChild(opt);
         });
+        sel.appendChild(optgroup);
 
         // Add cloned character voices optgroup
         populateClonedVoicesInSelect();
@@ -415,13 +392,8 @@
             optgroup.appendChild(opt);
         });
 
-        // Insert before Edge TTS group (second position)
-        var edgeGroup = sel.querySelector('optgroup[label*="Edge"]');
-        if (edgeGroup) {
-            sel.insertBefore(optgroup, edgeGroup);
-        } else {
-            sel.appendChild(optgroup);
-        }
+        // Append after VieNeu voices
+        sel.appendChild(optgroup);
     }
 
     // ── Inject CSS ──
@@ -692,7 +664,6 @@
             state.audioEl.removeAttribute('src');
             state.audioEl = null;
         }
-        synth.cancel();
     }
 
     // VieNeu-TTS: fetch audio from local server (supports voice cloning)
@@ -758,60 +729,6 @@
         });
     }
 
-    // Edge TTS: fetch audio from public API
-    function edgeTTSSpeak(text) {
-        return new Promise(function(resolve, reject) {
-            var url = EDGE_TTS_API + '?' +
-                'text=' + encodeURIComponent(text) +
-                '&voice=' + encodeURIComponent(state.voiceId) +
-                '&rate=' + encodeURIComponent(((state.speed - 1) * 100).toFixed(0) + '%');
-
-            var audio = new Audio();
-            audio.crossOrigin = 'anonymous';
-
-            audio.addEventListener('canplaythrough', function() {
-                resolve(audio);
-            }, { once: true });
-
-            audio.addEventListener('error', function() {
-                reject(new Error('Edge TTS failed'));
-            }, { once: true });
-
-            var timeout = setTimeout(function() {
-                audio.removeAttribute('src');
-                reject(new Error('Edge TTS timeout'));
-            }, 8000);
-
-            audio.addEventListener('canplaythrough', function() {
-                clearTimeout(timeout);
-            }, { once: true });
-
-            audio.src = url;
-            audio.load();
-        });
-    }
-
-    // Native Web Speech API fallback
-    function nativeTTSSpeak(text) {
-        return new Promise(function(resolve, reject) {
-            var utterance = new SpeechSynthesisUtterance(text);
-            utterance.lang = 'vi-VN';
-            utterance.rate = state.speed;
-
-            var voices = synth.getVoices();
-            var viVoice = voices.find(function(v) { return v.lang && v.lang.startsWith('vi'); });
-            if (viVoice) utterance.voice = viVoice;
-
-            utterance.onend = function() { resolve(); };
-            utterance.onerror = function(e) {
-                if (e.error === 'canceled') return;
-                reject(e);
-            };
-
-            synth.speak(utterance);
-        });
-    }
-
     function readCurrentChunk() {
         if (!state.playing || state.paused) return;
         if (state.currentIndex >= state.elements.length) {
@@ -830,56 +747,15 @@
         highlightElement(el);
         updateUI();
 
-        var voiceConfig = VOICES.find(function(v) { return v.id === state.voiceId; });
-        if (!voiceConfig) {
-            // Check if it's a cloned voice — cloned voices use VieNeu engine
-            var isClone = state.clonedVoices.some(function(v) { return v.id === state.voiceId; });
-            voiceConfig = isClone ? { engine: 'vieneu' } : { engine: 'native' };
-        }
-
-        if (voiceConfig.engine === 'vieneu' && state.vieneuAvailable !== false) {
-            // Try VieNeu-TTS first
-            vieneuTTSSpeak(text).then(function(audio) {
-                state.vieneuAvailable = true;
-                state.audioEl = audio;
-                audio.addEventListener('ended', onChunkEnd);
-                audio.play();
-            }).catch(function() {
-                state.vieneuAvailable = false;
-                console.warn('VieNeu-TTS unavailable, falling back to Edge TTS');
-                // Fallback to Edge TTS
-                edgeFallback(text);
-            });
-        } else if (voiceConfig.engine === 'edge' && state.edgeTTSAvailable !== false) {
-            edgeTTSSpeak(text).then(function(audio) {
-                state.edgeTTSAvailable = true;
-                state.audioEl = audio;
-                audio.addEventListener('ended', onChunkEnd);
-                audio.play();
-            }).catch(function() {
-                state.edgeTTSAvailable = false;
-                console.warn('Edge TTS unavailable, falling back to native voice');
-                nativeFallback(text);
-            });
-        } else {
-            nativeFallback(text);
-        }
-    }
-
-    function edgeFallback(text) {
-        edgeTTSSpeak(text).then(function(audio) {
-            state.edgeTTSAvailable = true;
+        vieneuTTSSpeak(text).then(function(audio) {
+            state.vieneuAvailable = true;
             state.audioEl = audio;
             audio.addEventListener('ended', onChunkEnd);
             audio.play();
-        }).catch(function() {
-            state.edgeTTSAvailable = false;
-            nativeFallback(text);
-        });
-    }
-
-    function nativeFallback(text) {
-        nativeTTSSpeak(text).then(onChunkEnd).catch(function() {
+        }).catch(function(err) {
+            console.error('VieNeu-TTS error:', err.message);
+            state.vieneuAvailable = false;
+            // Skip chunk on error rather than silently stall
             onChunkEnd();
         });
     }
@@ -931,7 +807,6 @@
         if (state.audioEl) {
             state.audioEl.pause();
         }
-        synth.pause();
         updateUI();
     }
 
