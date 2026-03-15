@@ -22,7 +22,7 @@
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
 | Góc Nhìn Lục Trần | — | — | Đang mở rộng |
 | Góc Nhìn Độc Cô Lão Quái | 7 | Arc 1 | Đang mở rộng |
-| Góc Nhìn Hắc Hạt Ma Trùng | — | — | Đang mở rộng |
+| Góc Nhìn Hắc Hạt Ma Trùng | 4 | Arc 1 | Đang mở rộng |
 | Góc Nhìn Ngô Công Trưởng Lão | — | — | Đang mở rộng |
 | Góc Nhìn Phương Vô Kỵ | — | — | Đang mở rộng |
 
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ tiếp theo (Độc Cô Lão Quái, Hắc Hạt Ma Trùng...) để đồng bộ dòng thời gian chung (Đã xong Đan Dương Tử, Diệp Thanh Y).
+1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ tiếp theo (Hàn Thanh Nguyệt, Lục Trần, Ngô Công Trưởng Lão...) để đồng bộ dòng thời gian chung (Đã xong Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hắc Hạt Ma Trùng).
 2. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc.
 3. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 97, 98... cho Góc Nhìn Lâm Phong nếu cần thiết để theo kịp mạch truyện chính (sau trận chiến Rừng Ảo Ảnh).
 
@@ -94,7 +94,7 @@
 - [x] **Đan Dương Tử** (`Góc_Nhìn_Đan_Dương_Tử/`): Đã viết ch 7-10. Cầu viện Dược Vương Cốc, liên minh Y-Đan.
 - [x] **Diệp Thanh Y** (`Góc_Nhìn_Diệp_Thanh_Y/`): Đã viết ch 6-10. Chủ đề: Hành trình y sư, cứu trị Huyết Thần Độc, liên minh Y-Đan, thanh tẩy mạch đất.
 - [x] **Độc Cô Lão Quái** (`Góc_Nhìn_Độc_Cô_Lão_Quái/`): Đã viết ch 4-7. Chủ đề: Âm mưu tà đạo, kiểm soát trùng, Đại Trận.
-- [ ] **Hắc Hạt Ma Trùng** (`Góc_Nhìn_Hắc_Hạt_Ma_Trùng/`): Viết ch 7-10. Chủ đề: Tiến hóa, ký ức thượng cổ, trỗi dậy.
+- [x] **Hắc Hạt Ma Trùng** (`Góc_Nhìn_Hắc_Hạt_Ma_Trùng/`): Đã viết ch 7-10. Chủ đề: Tiến hóa, ký ức thượng cổ, trỗi dậy, hướng về Tây Mạc.
 - [ ] **Hàn Thanh Nguyệt** (`Góc_Nhìn_Hàn_Thanh_Nguyệt/`): Viết ch 7-10. Chủ đề: Sinh tồn sát thủ, mạng lưới Huyết Tinh Sa.
 - [ ] **Lục Trần** (`Góc_Nhìn_Lục_Trần/`): Viết ch 7-10. Chủ đề: Kiếm đạo hộ thế, gián điệp, liên minh.
 - [ ] **Ngô Công Trưởng Lão** (`Góc_Nhìn_Ngô_Công_Trưởng_Lão/`): Viết ch 7-10. Chủ đề: Phục thù, ngũ độc, quay về.
@@ -132,9 +132,8 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành Chương 7-10 cho Góc Nhìn Đan Dương Tử. Đan Dương Tử đến Dược Vương Cốc cầu viện Diệp Thanh Y. Hai bên gác lại ân oán trăm năm để thiết lập liên minh Y-Đan, dự tính dùng lửa cắt đứt độc và mộc để bảo vệ kinh mạch, cứu chữa Huyết Thần Độc.
-> Đã hoàn thành Chương 95-96 cho Góc Nhìn Lâm Phong. Trận chiến Rừng Ảo Ảnh tiếp diễn căng thẳng. Lâm Phong dụ Huyết Tôn vào bẫy, Nham Thiết kích nổ mạch nước ngầm, Diệp Tĩnh Sương chém đứt phòng ngự. Cuối cùng, Lõi Thần Mộc giáng lâm, đánh lui Huyết Tôn.
 > Đã hoàn thành Chương 4-7 cho Góc Nhìn Độc Cô Lão Quái. Lão đối mặt Hắc Hạt Ma Trùng và quyết định thả cho nó càn quét để hoàn thành Vạn Độc Huyết Ma Đan.
+> Đã hoàn thành Chương 7-10 cho Góc Nhìn Hắc Hạt Ma Trùng. Trùng Triều cảm nhận được sự thuần khiết từ Hỗn Độn Kim Đan của A Ngốc ở Tây Mạc, đánh thức mã gen Thượng Cổ, khao khát tiến hóa. Nó bỏ qua Đông Hoang, phá vỡ mặt đất Nam Cương và tràn vào Tây Mạc.
 
 ---
 
