@@ -4,3 +4,7 @@
 - [Chương 4: Dược Liệu Bị Cướp](Chương_00004_Dược_Liệu_Bị_Cướp.md)
 - [Chương 5: Tái Ngộ Diệp Thanh Y](Chương_00005_Tái_Ngộ_Diệp_Thanh_Y.md)
 - [Chương 6: Thiên Viêm Phẫn Nộ](Chương_00006_Thiên_Viêm_Phẫn_Nộ.md)
+- [Chương 7: Hạ Mình Cầu Viện](Chương_00007_Hạ_Mình_Cầu_Viện.md)
+- [Chương 8: Đường Tới Dược Vương Cốc](Chương_00008_Đường_Tới_Dược_Vương_Cốc.md)
+- [Chương 9: Cuộc Hội Ngộ Sau Trăm Năm](Chương_00009_Cuộc_Hội_Ngộ_Sau_Trăm_Năm.md)
+- [Chương 10: Khởi Đầu Của Liên Minh](Chương_00010_Khởi_Đầu_Của_Liên_Minh.md)
