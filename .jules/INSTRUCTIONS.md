@@ -17,7 +17,7 @@
 | Góc Nhìn Lâm Phong | 96 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
 | Góc Nhìn A Ngốc | 152 | Arc 14 — Hồn Nhiên Tử | Hoàn thành mạch truyện chính 152 chương |
-| Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
+| Góc Nhìn Đan Dương Tử | 10 | Arc 1 | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
 | Góc Nhìn Lục Trần | — | — | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ (Đan Dương Tử, Diệp Thanh Y...) để đồng bộ dòng thời gian chung.
+1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ tiếp theo (Diệp Thanh Y, Độc Cô Lão Quái...) để đồng bộ dòng thời gian chung (Đã xong Đan Dương Tử).
 2. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc.
 3. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 97, 98... cho Góc Nhìn Lâm Phong nếu cần thiết để theo kịp mạch truyện chính (sau trận chiến Rừng Ảo Ảnh).
 
@@ -91,7 +91,7 @@
 > **Quy tắc:** Chương cá nhân kể câu chuyện riêng của từng nhân vật — khác với chương khu vực (đa POV). Tập trung vào quá khứ, nội tâm, hành trình cá nhân.
 
 **Nam Cương (8 nhân vật):**
-- [ ] **Đan Dương Tử** (`Góc_Nhìn_Đan_Dương_Tử/`): Viết ch 7-10. Chủ đề: Hành trình đan sư, đối đầu Độc Cô, chuẩn bị chiến tranh.
+- [x] **Đan Dương Tử** (`Góc_Nhìn_Đan_Dương_Tử/`): Đã viết ch 7-10. Cầu viện Dược Vương Cốc, liên minh Y-Đan.
 - [ ] **Diệp Thanh Y** (`Góc_Nhìn_Diệp_Thanh_Y/`): Viết ch 7-10. Chủ đề: Hành trình y sư, cứu trị Huyết Thần Độc, liên minh.
 - [ ] **Độc Cô Lão Quái** (`Góc_Nhìn_Độc_Cô_Lão_Quái/`): Viết ch 7-10. Chủ đề: Âm mưu tà đạo, kiểm soát trùng, Đại Trận.
 - [ ] **Hắc Hạt Ma Trùng** (`Góc_Nhìn_Hắc_Hạt_Ma_Trùng/`): Viết ch 7-10. Chủ đề: Tiến hóa, ký ức thượng cổ, trỗi dậy.
@@ -132,6 +132,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã hoàn thành Chương 7-10 cho Góc Nhìn Đan Dương Tử. Đan Dương Tử đến Dược Vương Cốc cầu viện Diệp Thanh Y. Hai bên gác lại ân oán trăm năm để thiết lập liên minh Y-Đan, dự tính dùng lửa cắt đứt độc và mộc để bảo vệ kinh mạch, cứu chữa Huyết Thần Độc.
 > Đã hoàn thành Chương 95-96 cho Góc Nhìn Lâm Phong. Trận chiến Rừng Ảo Ảnh tiếp diễn căng thẳng. Lâm Phong dụ Huyết Tôn vào bẫy, Nham Thiết kích nổ mạch nước ngầm, Diệp Tĩnh Sương chém đứt phòng ngự. Cuối cùng, Lõi Thần Mộc giáng lâm, đánh lui Huyết Tôn.
 
 ---

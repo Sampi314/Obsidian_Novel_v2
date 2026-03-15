@@ -2336,6 +2336,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00006_Thiên_Viêm_Phẫn_Nộ.md",
       "title": "Chương 6: Thiên Viêm Phẫn Nộ"
+    },
+    {
+      "filename": "Chương_00007_Hạ_Mình_Cầu_Viện.md",
+      "title": "Chương 7: Hạ Mình Cầu Viện"
+    },
+    {
+      "filename": "Chương_00008_Đường_Tới_Dược_Vương_Cốc.md",
+      "title": "Chương 8: Đường Tới Dược Vương Cốc"
+    },
+    {
+      "filename": "Chương_00009_Cuộc_Hội_Ngộ_Sau_Trăm_Năm.md",
+      "title": "Chương 9: Cuộc Hội Ngộ Sau Trăm Năm"
+    },
+    {
+      "filename": "Chương_00010_Khởi_Đầu_Của_Liên_Minh.md",
+      "title": "Chương 10: Khởi Đầu Của Liên Minh"
     }
   ],
   "Góc_Nhìn_Độc_Cô_Lão_Quái": [

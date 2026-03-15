@@ -10,6 +10,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Đan Dương Tử) | Hoàn Thành | Mở rộng góc nhìn phụ. Đan Dương Tử đến Dược Vương Cốc cầu viện Diệp Thanh Y, gạt bỏ ân oán trăm năm để thành lập liên minh Y-Đan đối phó Huyết Thần Độc. |
 | Hôm nay | Tổng Quản | Viết Chương 95-96 (Góc Nhìn Lâm Phong) | Hoàn Thành | Đại chiến Rừng Ảo Ảnh tiếp diễn. Lâm Phong làm mồi nhử để Nham Thiết kích nổ mạch nước ngầm. Diệp Tĩnh Sương tung đòn chí mạng bằng Hàn Mai Kiếm. Sự can thiệp của Lõi Thần Mộc từ Nữ Vương Nguyệt Dao đánh trọng thương và đẩy lùi Huyết Tôn Kim Đan. |
 | Hôm nay | Tổng Quản | Viết Chương 149-152 (Góc Nhìn A Ngốc) | Hoàn Thành | Hoàn thành Arc 14 và toàn bộ mạch truyện redesign (152 chương) của A Ngốc. Trận chiến Rừng Ảo Ảnh tàn cuộc. Hai người từ biệt Vĩnh Hằng Sâm Lâm, bắt đầu hành trình đồng hành tiến vào Trung Tâm. |
 | Hôm nay | Tổng Quản | Viết Chương 145-148 (Góc Nhìn A Ngốc) & Chương 93-94 (Góc Nhìn Lâm Phong) | Hoàn Thành | Đại chiến Rừng Ảo Ảnh nổ ra. Lệ Vô Tâm quyết tâm bảo vệ ánh sáng thuần khiết của A Ngốc bằng cả tính mạng. |
@@ -22,6 +23,7 @@
 | Hôm nay | Tổng Quản | Viết Chương 115-116 (Góc Nhìn A Ngốc) & Chương 81-82 (Góc Nhìn Lâm Phong) | Hoàn Thành | A Ngốc bảo vệ Lệ Vô Tâm trước Tinh Linh Tộc. Nhóm Lâm Phong chặn Huyết Sát Minh lấy Huyết Liên. |
 
 ## GHI CHÚ GẦN ĐÂY
+- **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Đan Dương Tử). Đan Dương Tử cầu viện Diệp Thanh Y, liên minh Y-Đan hình thành.
 - **Hôm nay:** Viết Chương 95-96 (Góc Nhìn Lâm Phong). Đại chiến Rừng Ảo Ảnh: Lâm Phong dụ Huyết Tôn vào bẫy mạch nước ngầm. Sức mạnh Lõi Thần Mộc đánh đuổi Huyết Tôn.
 - **Hôm nay:** Viết Chương 145-148 (A Ngốc) và 93-94 (Lâm Phong). Đại chiến Rừng Ảo Ảnh bùng nổ. A Ngốc dùng Nguyên Anh tịnh hóa hoàn toàn Huyết Ma Thôn Phệ, thay đổi cục diện.
 - **Hôm nay:** Sửa lại và cập nhật chính xác Chương 91-92 (Lâm Phong). Viết Chương 141-144 (A Ngốc). Lệ Vô Tâm kết hợp ma khí băng giá với ánh sáng thanh tẩy của A Ngốc.
