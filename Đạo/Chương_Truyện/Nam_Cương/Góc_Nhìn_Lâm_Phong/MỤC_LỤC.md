@@ -120,3 +120,5 @@
 - [Chương 92: Giăng Bẫy Rừng Sương](Chương_00092_Giăng_Bẫy_Rừng_Sương.md)
 - [Chương 93: Mưa Tên Trong Sương Độc](Chương_00093_Mưa_Tên_Trong_Sương_Độc.md)
 - [Chương 94: Đối Đầu Huyết Tôn](Chương_00094_Đối_Đầu_Huyết_Tôn.md)
+- [Chương 95: Phản Kích Từ Lòng Đất](Chương_00095_Phản_Kích_Từ_Lòng_Đất.md)
+- [Chương 96: Sức Mạnh Thần Mộc](Chương_00096_Sức_Mạnh_Thần_Mộc.md)
