@@ -6,18 +6,49 @@
     <title>Mê Lộ — Cố Nguyên Giới</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Noto+Serif+TC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&family=Noto+Serif+TC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+    <script>
+    (function(){
+        var t=localStorage.getItem('co-nguyen-theme')||'thuy-mac';
+        document.documentElement.setAttribute('data-theme',t);
+    })();
+    </script>
     <style>
-        :root {
-            --void: #0a0908;
-            --ink: #1a1714;
-            --gold: #c9a96e;
-            --gold-bright: #e4c98a;
-            --gold-dim: #8a7549;
-            --crimson: #6b1c23;
-            --crimson-bright: #9b2c3a;
-            --bone: #d4cbbf;
-            --ash: #7a7067;
+        /* ── Multi-Theme Support ── */
+        :root, [data-theme="thuy-mac"] {
+            --void: #0c0f14; --ink: #151a22;
+            --accent: #d4a574; --accent-bright: #e8be8e; --accent-dim: #9b7a52;
+            --crimson: #7a3040; --crimson-bright: #a64458;
+            --sage: #6b8f71; --sage-bright: #82ab88;
+            --text: #e8e0d4; --muted: #6a7080;
+        }
+        [data-theme="huyet-nguyet"] {
+            --void: #100808; --ink: #1c1212;
+            --accent: #c4746c; --accent-bright: #e09088; --accent-dim: #8a524c;
+            --text: #e8dcd8; --muted: #7a6468;
+            --crimson: #8a2020; --crimson-bright: #b83030;
+            --sage: #6b8f71; --sage-bright: #82ab88;
+        }
+        [data-theme="thanh-truc"] {
+            --void: #080f0c; --ink: #121c16;
+            --accent: #7ab88a; --accent-bright: #96d4a6; --accent-dim: #5a8a66;
+            --text: #dce8e0; --muted: #607a68;
+            --crimson: #7a3040; --crimson-bright: #a64458;
+            --sage: #4a9a6a; --sage-bright: #60b880;
+        }
+        [data-theme="bach-tuyet"] {
+            --void: #f5f0e8; --ink: #faf6ef;
+            --accent: #8a6020; --accent-bright: #a07428; --accent-dim: #b8a06a;
+            --text: #2a2420; --muted: #7a7068;
+            --crimson: #8a3545; --crimson-bright: #a64458;
+            --sage: #4a7a52; --sage-bright: #5a9060;
+        }
+        [data-theme="co-thu"] {
+            --void: #0a0908; --ink: #1a1714;
+            --accent: #c9a96e; --accent-bright: #e4c98a; --accent-dim: #8a7549;
+            --text: #d4cbbf; --muted: #7a7067;
+            --crimson: #6b1c23; --crimson-bright: #9b2c3a;
+            --sage: #2d6a4f; --sage-bright: #40916c;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -25,9 +56,9 @@
         html { scroll-behavior: smooth; }
 
         body {
-            font-family: 'Lora', 'Georgia', serif;
+            font-family: 'Source Serif 4', 'Georgia', serif;
             background: var(--void);
-            color: var(--bone);
+            color: var(--text);
             min-height: 100vh;
             overflow: hidden;
             display: flex;
@@ -187,10 +218,10 @@
         }
 
         .error-title {
-            font-family: 'Noto Serif TC', 'Playfair Display', serif;
+            font-family: 'Noto Serif TC', 'Cormorant Garamond', serif;
             font-size: clamp(1.2rem, 3vw, 1.8rem);
             font-weight: 500;
-            color: var(--gold);
+            color: var(--accent);
             letter-spacing: 0.2em;
             margin-top: 8px;
             opacity: 0;
@@ -225,7 +256,7 @@
 
         .error-message {
             font-size: clamp(0.9rem, 1.5vw, 1.05rem);
-            color: var(--ash);
+            color: var(--muted);
             max-width: 480px;
             line-height: 1.9;
             margin-bottom: 12px;
@@ -259,7 +290,7 @@
             align-items: center;
             gap: 8px;
             padding: 14px 32px;
-            font-family: 'Playfair Display', serif;
+            font-family: 'Cormorant Garamond', serif;
             font-size: 0.85rem;
             letter-spacing: 0.1em;
             text-decoration: none;
@@ -283,12 +314,12 @@
         .error-btn--home {
             background: rgba(201, 169, 110, 0.1);
             border: 1px solid rgba(201, 169, 110, 0.2);
-            color: var(--gold-bright);
+            color: var(--accent-bright);
         }
 
         .error-btn--home:hover {
             background: rgba(201, 169, 110, 0.18);
-            border-color: var(--gold);
+            border-color: var(--accent);
             box-shadow: 0 4px 24px rgba(201, 169, 110, 0.1);
             transform: translateY(-2px);
         }
@@ -296,12 +327,12 @@
         .error-btn--back {
             background: transparent;
             border: 1px solid rgba(212, 203, 191, 0.08);
-            color: var(--ash);
+            color: var(--muted);
         }
 
         .error-btn--back:hover {
             border-color: rgba(212, 203, 191, 0.2);
-            color: var(--bone);
+            color: var(--text);
             transform: translateY(-2px);
         }
 

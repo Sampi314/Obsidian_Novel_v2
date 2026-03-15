@@ -8,7 +8,7 @@
     <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&family=Noto+Serif+TC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
     <script>
     (function(){
         var t=localStorage.getItem('co-nguyen-theme')||'thuy-mac';
@@ -23,38 +23,38 @@
         /* ── Multi-Theme Support ── */
         [data-theme="thuy-mac"] {
             --void: #0c0f14; --ink: #151a22;
-            --gold: #d4a574; --gold-bright: #e8be8e; --gold-dim: #9b7a52;
-            --bone: #e8e0d4; --ash: #6a7080;
+            --accent: #d4a574; --accent-bright: #e8be8e; --accent-dim: #9b7a52;
+            --text: #e8e0d4; --muted: #6a7080;
             --crimson: #7a3040; --crimson-bright: #a64458;
-            --jade: #6b8f71; --jade-bright: #82ab88;
+            --sage: #6b8f71; --sage-bright: #82ab88;
         }
         [data-theme="huyet-nguyet"] {
             --void: #100808; --ink: #1c1212;
-            --gold: #c4746c; --gold-bright: #e09088; --gold-dim: #8a524c;
-            --bone: #e8dcd8; --ash: #7a6468;
+            --accent: #c4746c; --accent-bright: #e09088; --accent-dim: #8a524c;
+            --text: #e8dcd8; --muted: #7a6468;
             --crimson: #8a2020; --crimson-bright: #b83030;
-            --jade: #6b8f71; --jade-bright: #82ab88;
+            --sage: #6b8f71; --sage-bright: #82ab88;
         }
         [data-theme="thanh-truc"] {
             --void: #080f0c; --ink: #121c16;
-            --gold: #7ab88a; --gold-bright: #96d4a6; --gold-dim: #5a8a66;
-            --bone: #dce8e0; --ash: #607a68;
+            --accent: #7ab88a; --accent-bright: #96d4a6; --accent-dim: #5a8a66;
+            --text: #dce8e0; --muted: #607a68;
             --crimson: #7a3040; --crimson-bright: #a64458;
-            --jade: #4a9a6a; --jade-bright: #60b880;
+            --sage: #4a9a6a; --sage-bright: #60b880;
         }
         [data-theme="bach-tuyet"] {
             --void: #f5f0e8; --ink: #faf6ef;
-            --gold: #8a6020; --gold-bright: #a07428; --gold-dim: #b8a06a;
-            --bone: #2a2420; --ash: #7a7068;
+            --accent: #8a6020; --accent-bright: #a07428; --accent-dim: #b8a06a;
+            --text: #2a2420; --muted: #7a7068;
             --crimson: #8a3545; --crimson-bright: #a64458;
-            --jade: #4a7a52; --jade-bright: #5a9060;
+            --sage: #4a7a52; --sage-bright: #5a9060;
         }
         [data-theme="co-thu"] {
             --void: #0a0908; --ink: #1a1714;
-            --gold: #c9a96e; --gold-bright: #e4c98a; --gold-dim: #8a7549;
-            --bone: #d4cbbf; --ash: #7a7067;
+            --accent: #c9a96e; --accent-bright: #e4c98a; --accent-dim: #8a7549;
+            --text: #d4cbbf; --muted: #7a7067;
             --crimson: #6b1c23; --crimson-bright: #9b2c3a;
-            --jade: #2d6a4f; --jade-bright: #40916c;
+            --sage: #2d6a4f; --sage-bright: #40916c;
         }
 
         :root {
@@ -63,25 +63,25 @@
             --ink: #1a1714;
             --parchment-dark: #242019;
             --parchment-mid: #2e2820;
-            --gold: #c9a96e;
-            --gold-bright: #e4c98a;
-            --gold-dim: #8a7549;
+            --accent: #c9a96e;
+            --accent-bright: #e4c98a;
+            --accent-dim: #8a7549;
             --crimson: #6b1c23;
             --crimson-bright: #9b2c3a;
-            --jade: #2d6a4f;
-            --jade-bright: #40916c;
-            --bone: #d4cbbf;
-            --ash: #7a7067;
+            --sage: #2d6a4f;
+            --sage-bright: #40916c;
+            --text: #d4cbbf;
+            --muted: #7a7067;
             --fog: rgba(212, 203, 191, 0.06);
 
             /* Chapter mode overrides (used by style.css) */
             --bg-color: var(--void);
-            --text-color: var(--bone);
-            --accent-color: var(--gold);
-            --link-color: var(--gold);
+            --text-color: var(--text);
+            --accent-color: var(--accent);
+            --link-color: var(--accent);
             --nav-bg: var(--ink);
             --border-color: rgba(201, 169, 110, 0.1);
-            --font-family: 'Lora', 'Georgia', serif;
+            --font-family: 'Source Serif 4', 'Georgia', serif;
             --line-height: 1.9;
             --font-size: 19px;
             --max-width: 780px;
@@ -92,14 +92,14 @@
         /* Custom Scrollbar */
         ::-webkit-scrollbar { width: 8px; }
         ::-webkit-scrollbar-track { background: var(--void); }
-        ::-webkit-scrollbar-thumb { background: var(--gold-dim); border-radius: 4px; }
-        ::-webkit-scrollbar-thumb:hover { background: var(--gold); }
-        html { scroll-behavior: smooth; scrollbar-color: var(--gold-dim) var(--void); }
+        ::-webkit-scrollbar-thumb { background: var(--accent-dim); border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+        html { scroll-behavior: smooth; scrollbar-color: var(--accent-dim) var(--void); }
 
         body {
-            font-family: 'Lora', 'Georgia', serif;
+            font-family: 'Source Serif 4', 'Georgia', serif;
             line-height: 1.9;
-            color: var(--bone);
+            color: var(--text);
             background-color: var(--void);
             min-height: 100vh;
             overflow-x: hidden;
@@ -128,10 +128,10 @@
         }
 
         body.wiki-page h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Cormorant Garamond', serif;
             font-size: 2.2rem;
             font-weight: 500;
-            color: var(--gold);
+            color: var(--accent);
             text-align: center;
             margin-bottom: 12px;
             letter-spacing: 0.08em;
@@ -151,8 +151,8 @@
         }
 
         body.wiki-page h2 {
-            font-family: 'Playfair Display', serif;
-            color: var(--jade-bright);
+            font-family: 'Cormorant Garamond', serif;
+            color: var(--sage-bright);
             margin-top: 48px;
             font-size: 1.4rem;
             font-weight: 500;
@@ -162,8 +162,8 @@
         }
 
         body.wiki-page h3 {
-            font-family: 'Playfair Display', serif;
-            color: var(--gold);
+            font-family: 'Cormorant Garamond', serif;
+            color: var(--accent);
             margin-top: 32px;
             font-size: 1.15rem;
             font-weight: 500;
@@ -171,22 +171,22 @@
         }
 
         body.wiki-page h4 {
-            color: var(--ash);
+            color: var(--muted);
             margin-top: 24px;
             font-size: 1.05rem;
             font-weight: 600;
         }
 
         body.wiki-page a {
-            color: var(--gold);
+            color: var(--accent);
             text-decoration: none;
             border-bottom: 1px solid rgba(201, 169, 110, 0.2);
             transition: all 0.3s ease;
         }
 
         body.wiki-page a:hover {
-            color: var(--gold-bright);
-            border-bottom-color: var(--gold-bright);
+            color: var(--accent-bright);
+            border-bottom-color: var(--accent-bright);
         }
 
         body.wiki-page p {
@@ -212,18 +212,18 @@
         }
 
         body.wiki-page li:hover {
-            border-left-color: var(--gold);
+            border-left-color: var(--accent);
             background: rgba(201, 169, 110, 0.03);
         }
 
-        body.wiki-page strong { color: var(--gold); }
+        body.wiki-page strong { color: var(--accent); }
 
         body.wiki-page blockquote {
-            border-left: 3px solid var(--jade);
+            border-left: 3px solid var(--sage);
             margin: 24px 0;
             padding: 16px 24px;
             background: var(--ink);
-            color: var(--ash);
+            color: var(--muted);
             font-style: italic;
             border-radius: 0 2px 2px 0;
         }
@@ -249,8 +249,8 @@
 
         body.wiki-page th {
             background: var(--ink);
-            color: var(--gold);
-            font-family: 'Playfair Display', serif;
+            color: var(--accent);
+            font-family: 'Cormorant Garamond', serif;
             font-size: 0.9rem;
             letter-spacing: 0.05em;
         }
@@ -274,8 +274,8 @@
         /* ── Chapter Mode ── */
         body.chapter-page {
             background-color: var(--void);
-            color: var(--bone);
-            font-family: 'Lora', 'Georgia', serif;
+            color: var(--text);
+            font-family: 'Source Serif 4', 'Georgia', serif;
             font-size: 19px;
             max-width: none;
             padding: 64px 0 0;
@@ -289,10 +289,10 @@
         }
 
         body.chapter-page .chapter-content h1 {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Cormorant Garamond', serif;
             font-size: 2rem;
             font-weight: 500;
-            color: var(--gold);
+            color: var(--accent);
             text-align: center;
             margin-bottom: 48px;
             line-height: 1.3;
@@ -309,7 +309,7 @@
             left: 50%;
             transform: translateX(-50%);
             font-size: 0.7rem;
-            color: var(--gold-dim);
+            color: var(--accent-dim);
             letter-spacing: 0.5em;
         }
 
@@ -324,13 +324,13 @@
         }
 
         body.chapter-page .chapter-content p:first-of-type::first-letter {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Cormorant Garamond', serif;
             font-size: 3.2em;
             float: left;
             line-height: 0.8;
             margin-right: 8px;
             margin-top: 6px;
-            color: var(--gold);
+            color: var(--accent);
         }
 
         /* ── Loading & Error ── */
@@ -346,7 +346,7 @@
         .loading-spinner {
             width: 40px; height: 40px;
             border: 2px solid rgba(201, 169, 110, 0.1);
-            border-top-color: var(--gold);
+            border-top-color: var(--accent);
             border-radius: 50%;
             animation: spin 1s linear infinite;
         }
@@ -354,9 +354,9 @@
         @keyframes spin { to { transform: rotate(360deg); } }
 
         .loading-text {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Cormorant Garamond', serif;
             font-size: 0.9rem;
-            color: var(--ash);
+            color: var(--muted);
             letter-spacing: 0.15em;
         }
 
@@ -373,8 +373,8 @@
             align-items: center;
             gap: 8px;
             margin-bottom: 32px;
-            color: var(--ash);
-            font-family: 'Playfair Display', serif;
+            color: var(--muted);
+            font-family: 'Cormorant Garamond', serif;
             font-size: 0.85rem;
             letter-spacing: 0.08em;
             border: 1px solid rgba(201, 169, 110, 0.1);
@@ -385,7 +385,7 @@
         }
 
         .back-link:hover {
-            color: var(--gold);
+            color: var(--accent);
             border-color: rgba(201, 169, 110, 0.3);
             background: rgba(201, 169, 110, 0.03);
         }
@@ -399,9 +399,9 @@
         }
 
         .footer p {
-            font-family: 'Playfair Display', serif;
+            font-family: 'Cormorant Garamond', serif;
             font-size: 0.8rem;
-            color: var(--ash);
+            color: var(--muted);
             letter-spacing: 0.15em;
             text-indent: 0 !important;
         }
