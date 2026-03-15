@@ -15,7 +15,8 @@ jobs:
       github.actor == 'Sampi314' ||
       github.actor == 'google-labs-jules[bot]' ||
       github.actor == 'claude[bot]' ||
-      github.actor == 'gemini[bot]'
+      github.actor == 'gemini[bot]' ||
+      github.actor == 'google-labs-gemini-cli[bot]'
     steps:
       - name: Enable auto-merge
         env:

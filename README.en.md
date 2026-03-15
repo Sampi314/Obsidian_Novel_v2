@@ -1,3 +1,5 @@
+<div align="right">[ [ 🇻🇳 Xem Bản Tiếng Việt ] ](./README.md)</div>
+
 # 🌌 "Cố Nguyên" (Ancient Origin) Xianxia World-Building System
 
 > [!IMPORTANT]

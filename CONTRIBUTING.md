@@ -1,4 +1,6 @@
-# 🛠️ Hướng Dẫn Bảo Trì & Quy Chuẩn Nội Dung (Internal Maintenance Guide)
+<div align="right">[ [ 🇺🇸 View English Version ] ](./CONTRIBUTING.en.md)</div>
+
+# 🛠️ Hướng Dẫn Bảo Trì & Quy Chuẩn Nội Dung
 
 > [!CAUTION]
 > **DỰ ÁN CÁ NHÂN - KHÔNG TIẾP NHẬN ĐÓNG GÓP CÔNG KHAI**
