@@ -189,4 +189,7 @@
 - [Chương 146: Vòng Tròn Ấm Áp](Chương_00146_Vòng_Tròn_Ấm_Áp.md)
 - [Chương 147: Hạt Nắng Sau Bão](Chương_00147_Hạt_Nắng_Sau_Bão.md)
 - [Chương 148: Bóng Tối Ôm Lấy Ánh Sáng](Chương_00148_Bóng_Tối_Ôm_Lấy_Ánh_Sáng.md)
-*(Đang cập nhật)*
+- [Chương 149: Trận Chiến Tàn Cuộc](Chương_00149_Trận_Chiến_Tàn_Cuộc.md)
+- [Chương 150: Lời Từ Biệt Của Rừng](Chương_00150_Lời_Từ_Biệt_Của_Rừng.md)
+- [Chương 151: Bước Chân Đồng Hành](Chương_00151_Bước_Chân_Đồng_Hành.md)
+- [Chương 152: Ánh Sáng Không Tắt](Chương_00152_Ánh_Sáng_Không_Tắt.md)

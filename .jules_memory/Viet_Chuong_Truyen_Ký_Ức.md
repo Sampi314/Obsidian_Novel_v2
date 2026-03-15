@@ -6,6 +6,5 @@
 - Viết chương 79-80 cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong đến Cổ Thạch Bộ Lạc dưỡng thương và biết tin Huyết Sát Minh đang lùng sục Vĩnh Hằng Sâm Lâm.
 
 ## PHIÊN GẦN NHẤT
-- Viết Chương 141-144 cho Góc Nhìn A Ngốc (Arc 14). A Ngốc, Lệ Vô Tâm và nhóm Lâm Phong/Diệp Tĩnh Sương đã tiến vào Rừng Ảo Ảnh chuẩn bị đối phó Huyết Sát Minh. Lệ Vô Tâm có sự chuyển biến rõ rệt khi kết hợp Hỗn Độn Băng Ma với Hỗn Độn thanh tẩy của A Ngốc để phá giải Huyết Sát Phục Ma Trận mà không phải dùng thủ đoạn tàn sát.
-- Viết Chương 93-94 cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong đã diện kiến Nguyệt Dao Nữ Vương, bàn giao mảnh vỡ Huyết Liên để phong ấn. Sau đó, họ bắt tay vào việc giăng bẫy liên hoàn (dùng Tử Xà Đằng tẩm độc Rừng Thẳm đóng băng bằng kiếm khí của Diệp Tĩnh Sương) tại Rừng Ảo Ảnh.
-- Đã cập nhật MỤC_LỤC.md, HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md, và chapter_data.js.
+- Viết Chương 149-152 cho Góc Nhìn A Ngốc, hoàn thành toàn bộ 152 chương cho redesign của A Ngốc. Lệ Vô Tâm kiên quyết giữ A Ngốc lại, từ chối giao cho Chính Đạo. Nữ Vương Nguyệt Dao thừa nhận sự thay đổi của hắn. Hai người từ biệt Vĩnh Hằng Sâm Lâm và bắt đầu hành trình đồng hành tiến vào Trung Tâm. Lệ Vô Tâm chính thức trở thành tấm khiên bảo vệ thiên thần.
+- Đã cập nhật MỤC_LỤC.md, chapter_data.js, INSTRUCTIONS.md và BÁO_CÁO_CHẤT_LƯỢNG.md.
