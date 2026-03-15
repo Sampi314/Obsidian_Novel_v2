@@ -1,72 +1,122 @@
 ---
 type: faction
-name: BỤI PHẤN HỘI
+name: Bụi Phấn Hội
 hantu: 花粉会
-faction_type: ''
-alignment: 0
-race: ''
-region: Đông Hoang
-founded: ''
-founder: ''
-emblem: ''
-specialty: ''
-economy: []
+faction_type: Hội
+alignment: 2
+race: Vi Tộc (Phấn hoa linh)
+region: Nam Cương
+founded: Thái Cổ Kỷ Nguyên
+founder: Phấn Hoa Nguyên Thủy
+emblem: Phấn_Hoa_Lấp_Lánh.png
+specialty: Thụ phấn linh thực vật, Sản sinh hương liệu cao cấp, Huyễn thuật bụi sáng
+economy:
+- Thụ phấn và duy trì hệ sinh thái hoa linh (Thụ động)
+- Cung cấp mật hoa và phấn hoa linh cho đan đạo
+- Trao đổi tài nguyên với Mật Phong Linh Đàn
 arcs:
-- arc: 1
-  status: Chưa Xác Định
-  rank: ''
-  leader: ''
-  population: 0
-  territory: []
-  assets: []
-  stats:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  divisions: []
-  relationships: []
+  - arc: 1
+    status: Hoạt động theo mùa hoa nở
+    rank: Hạng Năm
+    leader: Hoàng Phấn
+    population: 1000000
+    territory:
+      - Các cánh đồng hoa linh quanh chân Hỏa Vân Sơn
+    assets:
+      - name: Cánh đồng hoa linh Hỏa Vân
+        type: Tài Nguyên
+      - name: Trận pháp "Hoa Phấn Mê Hồn"
+        type: Trận Pháp
+      - name: Phôi Hỏa Liên Hoa (Bí mật)
+        type: Tài Nguyên
+    stats: [10, 150, 50, 1000000, 100, 250]
+    divisions:
+      - name: Đàn Phấn Thụ Phấn
+        role: Duy trì sự sinh trưởng của linh thực vật và thu thập mật hoa
+        headcount:
+          hoi_truong: 1
+          pho_hoi_truong: 0
+          thanh_vien: 20
+          tong_quan: 1000000
+        members:
+          - character: Hoàng Phấn
+            position: Hội Trưởng
+            cultivation: Luyện Khí Trung Kỳ (Tương đương)
+          - character: "[Phấn Sứ Vàng]"
+            position: Phấn Sứ
+            cultivation: Luyện Khí Sơ Kỳ
+            placeholder: true
+    relationships:
+      - faction: Mật Phong Linh Đàn
+        description: Đối tác cộng sinh lâu đời, cùng hưởng lợi từ nguồn mật hoa.
+        diplomacy:
+          lien_minh: 80
+          tin: 90
+          uy_hiep: 0
+          thuong_mai: 50
+          on_oan: 0
+          le_thuoc: 0
+      - faction: Dược Vương Cốc
+        description: Nhà cung cấp phấn hoa nguyên liệu cho các loại đan dược thơm.
+        diplomacy:
+          lien_minh: 10
+          tin: 40
+          uy_hiep: 0
+          thuong_mai: 60
+          on_oan: 0
+          le_thuoc: 0
 ---
 
 # BỤI PHẤN HỘI (花粉会)
 
-## I. TỔNG QUAN
-- **Tên:** Bụi Phấn Hội
-- **Loại Hình:** Hội
-- **Cấp Bậc:** Không xếp hạng
-- **Trụ Sở:** Các cánh đồng hoa linh quanh chân Hỏa Vân Sơn
-- **Người Đứng Đầu:** Hội Trưởng — "Hoàng Phấn" (tương đương Luyện Khí Trung Kỳ)
+## I. Tổng Quan (总览)
+Bụi Phấn Hội là một tổ chức Vi Tộc tồn tại thầm lặng nhưng cực kỳ quan trọng trong hệ sinh thái linh thực vật tại Nam Cương. Tọa lạc quanh chân núi Hỏa Vân Sơn, hội bao gồm hàng tỷ cá thể phấn hoa linh lấp lánh, đóng vai trò là nhịp cầu sinh mệnh cho hàng ngàn loài hoa quý hiếm. Dù không có sức mạnh chiến đấu, sự hiện diện của họ đảm bảo dòng chảy linh khí và sự đa dạng sinh học của toàn bộ vùng rừng già.
 
-## II. ĐỊA LÝ & TÀI NGUYÊN
-- **Vị Trí:** Quanh chân Hỏa Vân Sơn, nơi hoa linh nở rộ quanh năm nhờ địa nhiệt và linh khí ổn định.
-- **Đặc Điểm Địa Hình:** Cánh đồng hoa đủ màu sắc trải dài, phấn hoa bay lấp lánh trong gió. Vi Tộc phấn hoa sống giữa các bông hoa, kích thước bằng hạt cát.
-- **Tài Nguyên:**
-    - Phấn hoa linh — nguyên liệu luyện đan cấp thấp, hương liệu quý.
-    - Khả năng thụ phấn cho linh thực vật — dịch vụ vô hình nhưng thiết yếu cho hệ sinh thái.
-    - Mật hoa — thu thập trong quá trình thụ phấn, trao đổi với Mật Phong Linh Đàn.
+## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
+Địa bàn hoạt động là các cánh đồng hoa linh rực rỡ sắc màu quanh chân núi Hỏa Vân Sơn, nơi địa nhiệt từ núi lửa cung cấp năng lượng ấm áp quanh năm. Tài nguyên chính là khả năng thụ phấn đặc thù giúp linh thực vật sinh trưởng nhanh gấp đôi và các loại mật hoa tinh thuần được tích lũy trong quá trình làm việc.
 
-## III. VĂN HÓA & TÍN NGƯỠNG
-- **Triết Lý:** "Hoa nở nhờ ta, ta sống nhờ hoa." Cộng sinh hoàn hảo, không bên nào lợi dụng bên nào.
-- **Quy Tắc:** Thụ phấn cho mọi loài hoa, không phân biệt. Không phá hoại hoa khi thu phấn. Bay theo gió, đừng chống gió.
-- **Phong Tục:** Khi loài hoa mới nở lần đầu, Bụi Phấn Hội cử đại diện đến "chào hoa" — thụ phấn đầu tiên cho bông hoa trinh, coi đó là vinh dự.
+## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
+Đề cao triết lý cộng sinh: "Hoa nở nhờ ta, ta sống nhờ hoa". Thành viên hội coi việc thụ phấn là một sứ mệnh thiêng liêng. Văn hóa của hội mang đậm tính tự nhiên, bay theo gió và hòa mình vào hương thơm. Nghi lễ "Chào Hoa" là nét đặc trưng, nơi họ cử những Phấn Sứ đến thụ phấn đầu tiên cho những đóa hoa quý mới nở để chúc phúc cho sự sống mới.
 
-## IV. CƠ CẤU TỔ CHỨC
-- **Hội Trưởng — Hoàng Phấn:** Vi Tộc phấn hoa màu vàng, lớn nhất đàn (bằng hạt đậu), có đôi cánh trong suốt. Linh trí giản đơn nhưng hiểu được ngôn ngữ rung cánh của côn trùng.
-- **Phấn Sứ:** 20 vi thể có linh trí sơ khai, mỗi con phụ trách thụ phấn cho một khu vực hoa.
-- **Phấn Đàn:** Hàng vạn vi thể không có linh trí, hoạt động theo hướng gió và tín hiệu hóa học.
+## IV. Cơ Cấu Tổ Chức (组织结构)
+```mermaid
+graph TD
+    PHNT[Phấn Hoa Nguyên Thủy - Thủy Tổ] --> HT[Hội Trưởng: Hoàng Phấn]
+    HT --> HDPS[Hội Đồng Phấn Sứ]
+    HDPS --> NTHP[Nhóm Thụ Phấn]
+    HDPS --> NTMP[Nhóm Thu Mật]
+    HDPS --> NBV[Nhóm Bảo Vệ Bào Tử]
+    NTHP --> PH[Phấn Hoa Cá Thể]
+    NTMP --> PH
+    NBV --> PH
+```
 
-## V. CÔNG PHÁP & TRẬN PHÁP
-- Không có công pháp hay sức chiến đấu.
-- Khả năng phòng thủ duy nhất: "Hoa Phấn Mê Hồn" — khi bị đe dọa, phát tán đám mây phấn hoa gây hắt hơi, chảy nước mắt và mất phương hướng tạm thời. Vô hại với tu sĩ Trúc Cơ trở lên.
+## V. Công Pháp & Trận Pháp (功法 với阵法)
+- **Công Pháp:** Không có công pháp tu luyện nhân tạo, tiến hóa thông qua việc *Cộng Hưởng Linh Khí Hoa* để tăng cường mật độ và độ lấp lánh của bào tử.
+- **Trận Pháp:** *Hoa Phấn Mê Hồn Trận* - trận pháp tự vệ diện rộng, phát tán đám mây phấn hoa gây hắt hơi, chảy nước mắt và làm nhiễu loạn thần thức của những kẻ xâm nhập trái phép, buộc họ phải rời khỏi cánh đồng hoa.
 
-## VI. LỊCH SỬ TÓM TẮT
-- Bụi Phấn Hội tồn tại song song với hệ sinh thái hoa linh Hỏa Vân Sơn — không ai biết chúng có từ khi nào.
-- Mật Phong Linh Đàn là đối tác cộng sinh lâu đời nhất — ong thu mật, phấn thụ hoa, cả hai cùng hưởng lợi.
-- Chưa bao giờ bị tấn công vì quá nhỏ bé và không ai coi chúng là mối đe dọa.
+## VI. Đặc Sản Môn Phái (门派特产)
+- **Hỏa Vân Linh Phấn:** Loại bột phát sáng chứa hỏa linh khí nhẹ, dùng làm chất phụ gia cho đan dược hoặc hương liệu cao cấp.
+- **Mật Hoa Tinh Khiết:** Nguồn dinh dưỡng dồi dào có tác dụng bồi bổ khí huyết cho các loài linh trùng.
 
-## VII. GIAI THOẠI & BÍ MẬT
-- Hoàng Phấn mang theo phấn hoa từ một loài hoa đã tuyệt chủng — "Hỏa Liên Hoa" — loài hoa chỉ nở khi Hỏa Vân Sơn phun trào. Nếu tìm được điều kiện thích hợp, phấn này có thể hồi sinh loài hoa, mà Hỏa Liên Hoa lại là dược liệu huyền thoại dùng luyện Trúc Cơ Đan phẩm chất cực cao.
-- Phấn hoa linh của Bụi Phấn Hội thực ra chứa một loại tín hiệu hóa học đặc biệt — bất kỳ linh thực vật nào tiếp xúc đều sinh trưởng nhanh gấp đôi. Một số dược sư nhân tộc bắt đầu để ý hiện tượng này nhưng chưa tìm ra nguồn gốc.
-- Nếu Hỏa Vân Sơn phun trào, Bụi Phấn Hội sẽ là thế lực đầu tiên bị xóa sổ — nhưng cũng là lúc Hỏa Liên Hoa có cơ hội nở lại.
+## VII. Cơ Sở Hạ Tầng (基础设施)
+- **Đài Phun Phấn:** Các điểm tập trung tự nhiên nơi gió thường xuyên cuốn phấn hoa đi xa nhất.
+- **Túi Chứa Mật:** Các hốc cây cổ thụ được yểm bùa để lưu trữ mật hoa dự phòng.
+
+## VIII. Kinh Tế (経済)
+Kinh tế mang tính trao đổi sinh thái. Hội cung cấp dịch vụ thụ phấn vô hình cho mọi loài hoa, đổi lại họ được hưởng nguồn mật và linh khí dồi dào. Thỉnh thoảng họ trao đổi mật hoa cho Mật Phong Linh Đàn để lấy các loại sáp bảo vệ tổ hoặc thông tin về các vùng hoa mới nở.
+
+## IX. Lịch Sử Tóm Tắt (简史)
+Tồn tại từ thời kỳ khai thiên lập địa cùng với hệ thực vật Nam Cương. Bụi Phấn Hội đã âm thầm duy trì vẻ đẹp của Hỏa Vân Sơn qua hàng vạn năm mà không cần sự chú ý của thế giới tu chân. Họ là những người thợ làm vườn vô hình, bảo vệ di sản của thiên nhiên phương Nam.
+
+## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
+Tương truyền Hoàng Phấn đang cất giữ một lượng nhỏ bào tử của loài "Hỏa Liên Hoa" đã tuyệt chủng, thứ chỉ có thể nảy mầm trong điều kiện nhiệt độ cực hạn của núi lửa phun trào, mang theo bí mật về sự trường sinh của hỏa hệ.
+
+## XI. Quan Hệ Thế Lực (势力关系)
+```mermaid
+graph LR
+    BPH[Bụi Phấn Hội] -- Cộng sinh -- MPLĐ[Mật Phong Linh Đàn]
+    BPH -- Cung cấp -- DVC[Dược Vương Cốc]
+    BPH -- Vô hại -- ALL[Muôn Loài]
+    BPH -- Cảnh giác -- LYT[Liệt Dương Tông]
+```
