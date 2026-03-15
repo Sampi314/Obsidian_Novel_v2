@@ -620,6 +620,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00136_Nước_Cờ_Đầu_Tiên.md",
       "title": "Chương 136: Nước Cờ Đầu Tiên"
+    },
+    {
+      "filename": "Chương_00137_Tên_Gọi_Mới.md",
+      "title": "Chương 137: Tên Gọi Mới"
+    },
+    {
+      "filename": "Chương_00138_Ruồi_Muỗi_Đói_Khát.md",
+      "title": "Chương 138: Ruồi Muỗi Đói Khát"
+    },
+    {
+      "filename": "Chương_00139_Ràng_Buộc_Hữu_Hình.md",
+      "title": "Chương 139: Ràng Buộc Hữu Hình"
+    },
+    {
+      "filename": "Chương_00140_Sự_Chuyển_Giao_Nóng_Lạnh.md",
+      "title": "Chương 140: Sự Chuyển Giao Nóng Lạnh"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -1060,6 +1076,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00090_Phá_Vòng_Vây_Tới_Vương_Đình.md",
       "title": "Chương 90: Phá Vòng Vây Tới Vương Đình"
+    },
+    {
+      "filename": "Chương_00091_Khấu_Kiến_Nữ_Vương.md",
+      "title": "Chương 91: Khấu Kiến Nữ Vương"
+    },
+    {
+      "filename": "Chương_00092_Bão_Trước_Bình_Minh.md",
+      "title": "Chương 92: Bão Trước Bình Minh"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

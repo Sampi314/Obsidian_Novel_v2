@@ -177,4 +177,8 @@
 
 ## Arc 14: Hồn Nhiên Tử (Chương 137-148)
 *Giai đoạn Nguyên Anh Sơ-Trung Kỳ — Khắp Cố Nguyên Giới*
+- [Chương 137: Tên Gọi Mới](Chương_00137_Tên_Gọi_Mới.md)
+- [Chương 138: Ruồi Muỗi Đói Khát](Chương_00138_Ruồi_Muỗi_Đói_Khát.md)
+- [Chương 139: Ràng Buộc Hữu Hình](Chương_00139_Ràng_Buộc_Hữu_Hình.md)
+- [Chương 140: Sự Chuyển Giao Nóng Lạnh](Chương_00140_Sự_Chuyển_Giao_Nóng_Lạnh.md)
 *(Đang cập nhật)*
