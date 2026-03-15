@@ -2710,6 +2710,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00006_Bí_Mật_Đông_Hoang.md",
       "title": "Chương 6: Bí Mật Đông Hoang"
+    },
+    {
+      "filename": "Chương_00007_Lời_Khẩn_Cầu_Từ_Thần_Mộc.md",
+      "title": "Chương 7: Lời Khẩn Cầu Từ Thần Mộc"
+    },
+    {
+      "filename": "Chương_00008_Ánh_Trăng_Thanh_Tẩy.md",
+      "title": "Chương 8: Ánh Trăng Thanh Tẩy"
+    },
+    {
+      "filename": "Chương_00009_Quyết_Định_Của_Nữ_Hoàng.md",
+      "title": "Chương 9: Quyết Định Của Nữ Hoàng"
+    },
+    {
+      "filename": "Chương_00010_Bóng_Đen_Áp_Sát.md",
+      "title": "Chương 10: Bóng Đen Áp Sát"
     }
   ],
   "Góc_Nhìn_Đông_Hoang": [
