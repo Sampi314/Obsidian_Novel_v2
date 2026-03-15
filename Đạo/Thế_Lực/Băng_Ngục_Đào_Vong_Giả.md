@@ -1,75 +1,120 @@
 ---
 type: faction
-name: BĂNG NGỤC ĐÀO VONG GIẢ
+name: Băng Ngục Đào Vong Giả
 hantu: 冰狱逃亡者
-faction_type: ''
-alignment: 0
-race: ''
+faction_type: Liên Minh
+alignment: -3
+race: Đa chủng tộc
 region: Bắc Băng
-founded: ''
-founder: ''
-emblem: ''
-specialty: ''
-economy: []
+founded: Năm Khởi Nguyên 99.970
+founder: Mạc Vô Danh
+emblem: Xich_Sat_Gãy_Dưới_Bang.png
+specialty: Ngục Ảnh Bộ, Sinh tồn cực hạn, Cấm thuật vượt ngục, Ẩn nấp không gian
+economy:
+- Cướp bóc các đoàn vận tải nhỏ của Băng Ngục Thành
+- Trao đổi tin tức và vật phẩm cổ vật tại Quỷ Thị
+- Buôn bán thông tin sơ đồ nhà tù
 arcs:
-- arc: 1
-  status: Chưa Xác Định
-  rank: ''
-  leader: ''
-  population: 0
-  territory: []
-  assets: []
-  stats:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  divisions: []
-  relationships: []
+  - arc: 1
+    status: Bị truy nã gắt gao
+    rank: Hạng Năm
+    leader: Mạc Vô Danh
+    population: 47
+    territory:
+      - Các hang băng di động ven bờ Bắc Hải
+    assets:
+      - name: Mảnh Bản Đồ Thượng Cổ
+        type: Tài Nguyên
+      - name: Cấm Chế Ẩn Hình
+        type: Trận Pháp
+      - name: Ngục Ảnh Kiếm (Tàn)
+        type: Pháp Bảo
+    stats: [500, 200, 150, 47, 300, 100]
+    divisions:
+      - name: Nhóm Vượt Ngục
+        role: Lực lượng chiến đấu và bảo vệ hang ổ di động
+        headcount:
+          minh_chu: 1
+          pho_minh_chu: 6
+          truong_lao: 0
+          su_gia: 0
+          thanh_vien_phai: 40
+        members:
+          - character: Mạc Vô Danh
+            position: Minh Chủ
+            cultivation: Nguyên Anh Sơ Kỳ (Thương nặng)
+          - character: "[Ác Nhân Vô Diện]"
+            position: Phó Minh Chủ
+            cultivation: Kim Đan Hậu Kỳ
+            placeholder: true
+    relationships:
+      - faction: Băng Ngục Thành
+        description: Tử địch, truy sát không ngừng nghỉ.
+        diplomacy:
+          lien_minh: -100
+          tin: -100
+          uy_hiep: 90
+          thuong_mai: -100
+          on_oan: -100
+          le_thuoc: 0
+      - faction: Bạch Cốt Hội
+        description: Đối tác giao thương ngầm, trao đổi vật phẩm lấy tin tức.
+        diplomacy:
+          lien_minh: 20
+          tin: 40
+          uy_hiep: 0
+          thuong_mai: 60
+          on_oan: 0
+          le_thuoc: 0
 ---
 
 # BĂNG NGỤC ĐÀO VONG GIẢ (冰狱逃亡者)
 
-## I. TỔNG QUAN
-- **Tên:** Băng Ngục Đào Vong Giả
-- **Loại Hình:** Tổ chức ngầm
-- **Cấp Bậc:** Không xếp hạng
-- **Trụ Sở:** Hang băng ẩn khuất ven bờ Bắc Hải
-- **Người Đứng Đầu:** "Hàn Ảnh" Mạc Vô Danh (Nguyên Anh Sơ Kỳ, cựu tù Băng Ngục Thành)
+## I. Tổng Quan (总览)
+Băng Ngục Đào Vong Giả là một liên minh lỏng lẻo gồm những cá thể đã thực hiện cuộc vượt ngục chấn động khỏi Băng Ngục Thành. Họ là những kẻ bị cả xã hội tu chân ruồng bỏ, mang trên mình những tội danh và cấm chế nặng nề. Dưới sự dẫn dắt của Mạc Vô Danh, họ lẩn trốn giữa những khe nứt sông băng, sống một cuộc đời ngoài vòng pháp luật với khao khát duy nhất là giữ vững sự tự do quý giá.
 
-## II. ĐỊA LÝ & TÀI NGUYÊN
-- **Vị Trí:** Hang băng tự nhiên ven Bắc Hải, liên tục di chuyển để tránh truy nã
-- **Đặc Điểm Địa Hình:** Hệ thống hang động băng phức tạp, dễ phòng thủ khó tấn công
-- **Tài Nguyên:** Cướp được từ thương đội qua đường, vật phẩm lấy từ Băng Ngục Thành khi trốn
+## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
+Không có căn cứ cố định. Họ liên tục di chuyển giữa các hang băng tự nhiên dọc theo bờ biển Bắc Hải để tránh né sự truy quét của cai ngục Hắc Giáp. Tài nguyên của liên minh cực kỳ khan hiếm, chủ yếu dựa vào những gì họ chiếm đoạt được từ các đội tiếp tế của nhà tù và những mảnh bản đồ cổ chỉ dẫn đến các kho báu dưới đáy biển băng.
 
-## III. VĂN HÓA & TÍN NGƯỠNG
-- **Triết Lý:** "Tự do quý hơn tính mạng" — không bao giờ quay lại lồng giam
-- **Quy Tắc:** Tuyệt đối bảo mật vị trí hang; kẻ phản bội bị xử tử ngay lập tức
-- **Phong Tục:** Mỗi người đều xóa tên thật, chỉ dùng biệt danh
+## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
+Đề cao triết lý: "Tự do quý hơn tính mạng". Thành viên liên minh coi sự phản bội là tội lỗi tối thượng. Họ có văn hóa ẩn danh, xóa bỏ quá khứ và chỉ sống cho hiện tại. Mỗi cá nhân đều mang trên mình ít nhất một vết sẹo hoặc cấm chế từ thời bị giam cầm như một lời nhắc nhở về nỗi hận đối với Băng Ngục Thành.
 
-## IV. CƠ CẤU TỔ CHỨC
-- **Thủ Lĩnh:** Mạc Vô Danh — cường giả duy nhất cấp Nguyên Anh, nhưng bị thương nặng khi vượt ngục, tu vi không ổn định
-- **Cốt Cán:** 5-6 Kim Đan tu sĩ, đều mang thương tích và cấm chế tàn dư
-- **Thành Viên:** Khoảng 40 người, chủ yếu Trúc Cơ và Luyện Khí
+## IV. Cơ Cấu Tổ Chức (组织结构)
+```mermaid
+graph TD
+    MC[Minh Chủ: Mạc Vô Danh] --> PMC[Phó Minh Chủ Hội Đồng]
+    PMC --> NVĐ[Nhóm Vượt Ngục]
+    PMC --> THĐ[Đội Thu Thập]
+    NVĐ --> CB[Chiến Binh Đào Vong]
+    THĐ --> TS[Trinh Sát]
+```
 
-## V. CÔNG PHÁP & TRẬN PHÁP
-- Mỗi người tu luyện công pháp riêng từ thời chưa bị giam
-- Một số nắm giữ cấm thuật học được trong ngục — tà môn, hiệu quả nhưng tổn hao thọ mệnh
-- Mạc Vô Danh tự sáng tạo "Ngục Ảnh Bộ" — thân pháp trốn tránh truy sát, dựa trên kinh nghiệm vượt ngục
+## V. Công Pháp & Trận Pháp (功法 với阵法)
+- **Công Pháp:** *Ngục Ảnh Bộ* (Thân pháp chuyên dụng để lẩn tránh thần thức), *Hàn Sát Cấm Thuật* (Sử dụng chính cấm chế trong cơ thể để tấn công).
+- **Trận Pháp:** *Ảo Ảnh Băng Sương Trận* - trận pháp ngụy trang cấp thấp dùng để che giấu lối vào các hang động tạm thời.
 
-## VI. LỊCH SỬ TÓM TẮT
-Ba mươi năm trước, Mạc Vô Danh dẫn đầu cuộc vượt ngục lớn nhất lịch sử Băng Ngục Thành. Trong hơn trăm người trốn thoát, chỉ còn vài chục sống sót qua biển băng. Họ ẩn náu ven Bắc Hải, sống trong sợ hãi bị truy bắt. Băng Ngục Thành đã cử nhiều đợt truy sát nhưng chưa tìm được hang ổ chính.
+## VI. Đặc Sản Môn Phái (门派特产)
+- **Sơ Đồ Ngục Giam:** Các bản vẽ chi tiết về kết cấu và điểm yếu của Băng Ngục Thành (Hàng cấm).
+- **Xương Mài Đục:** Loại vũ khí thô sơ có khả năng phá giải một số loại cấm chế không gian đơn giản.
 
-Gần đây, Mạc Vô Danh phát hiện thương tích ngày càng nghiêm trọng — cấm chế trong cơ thể đang phát tác. Hắn cần tìm người trị thương trước khi tu vi sụp đổ hoàn toàn.
+## VII. Cơ Sở Hạ Tầng (基础设施)
+- **Hang Băng Di Động:** Các hang động được yểm bùa để có thể thay đổi vị trí hoặc tan biến khi cần thiết.
+- **Trạm Tiếp Tế Ngầm:** Các điểm giấu lương thực và linh thạch rải rác trên bờ biển.
 
-## VII. GIAI THOẠI & BÍ MẬT
-- Mạc Vô Danh không phải tội phạm thực sự — hắn bị vu oan bởi một trưởng lão Huyền Băng Cung, bí mật này chỉ hắn biết
-- Trong số đồ vật cướp được từ Băng Ngục Thành có một mảnh bản đồ cổ chỉ dẫn đến di tích thượng cổ dưới đáy Bắc Hải
-- Một số thành viên bắt đầu bí mật liên lạc với Huyết Sát Minh để tìm chỗ dựa — Mạc Vô Danh chưa biết
+## VIII. Kinh Tế (経済)
+Nguồn thu nhập đến từ việc đánh cướp các thương thuyền nhỏ hoặc các đội vận tải của Băng Ngục Thành. Họ cũng bí mật trao đổi các thông tin tuyệt mật về cấu trúc nhà tù cho các thế lực ma đạo khác muốn giải cứu thuộc hạ.
 
-## VIII. QUAN HỆ
-- **Kẻ thù:** Băng Ngục Thành (truy sát không ngừng)
-- **Cảnh giác:** Mọi thế lực — không tin tưởng ai
-- **Mua bán ngầm:** Bạch Cốt Hội (trao đổi vật phẩm, thông tin)
+## IX. Lịch Sử Tóm Tắt (简史)
+Khởi nguồn từ cuộc đại vượt ngục 30 năm trước do Mạc Vô Danh dẫn đầu. Trong số hàng trăm tù nhân, chỉ có 47 người sống sót qua được biển băng và sự truy sát của quân đoàn Hắc Giáp. Kể từ đó, họ đã trở thành một biểu tượng của sự phản kháng thầm lặng chống lại sự tàn bạo của ngục tù phương Bắc.
+
+## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
+Tương truyền Mạc Vô Danh vốn là một kiếm tu tài ba bị hãm hại, và trong cơ thể ông ta vẫn còn găm một mảnh "Hàn Băng Thần Châm" liên tục ăn mòn tu vi, nhưng đồng thời cũng cung cấp cho ông khả năng cảm nhận cái lạnh ở mức độ thần thánh.
+
+## XI. Quan Hệ Thế Lực (势力关系)
+```mermaid
+graph LR
+    BNĐVG[Băng Ngục Đào Vong Giả] -- Tử địch -- BNT[Băng Ngục Thành]
+    BNĐVG -- Giao dịch -- BCH[Bạch Cốt Hội]
+    BNĐVG -- Cảnh giác -- HBC[Huyền Băng Cung]
+    BNĐVG -- Thân thiện -- BLTĐ[Băng Lang Tàn Đội]
+```
