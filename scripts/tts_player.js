@@ -272,7 +272,9 @@
             state.audioEl.removeAttribute('src');
             state.audioEl = null;
         }
-        window.speechSynthesis.cancel();
+        if (window.speechSynthesis) {
+            window.speechSynthesis.cancel();
+        }
     }
 
     // Populate the voice dropdown with available browser voices + Edge voices
@@ -375,8 +377,6 @@
                 return;
             }
 
-            window.speechSynthesis.cancel();
-
             var utter = new SpeechSynthesisUtterance(text);
             utter.lang = 'vi-VN';
             utter.rate = state.speed;
@@ -396,12 +396,26 @@
                 for (var j = 0; j < voices.length; j++) {
                     if (voices[j].lang && voices[j].lang.indexOf('vi') === 0) {
                         utter.voice = voices[j];
+                        found = true;
                         break;
                     }
                 }
             }
 
-            utter.onend = function() { resolve('ended'); };
+            if (!found && voices.length === 0) {
+                reject(new Error('No voices available — check System Settings → Accessibility → Spoken Content'));
+                return;
+            }
+
+            var started = false;
+            utter.onstart = function() { started = true; };
+            utter.onend = function() {
+                if (started) {
+                    resolve('ended');
+                } else {
+                    reject(new Error('Speech ended without starting'));
+                }
+            };
             utter.onerror = function(e) {
                 if (e.error === 'canceled') { resolve('canceled'); return; }
                 reject(new Error('Speech error: ' + e.error));
@@ -431,6 +445,13 @@
 
         var useEdge = edgeAvailable && state.voiceId.indexOf('edge:') === 0;
 
+        function onSpeechFail(err) {
+            console.error('[TTS] Failed:', err.message);
+            handleStop();
+            var pt = document.getElementById('tts-progress-text');
+            if (pt) pt.textContent = 'Không có giọng đọc';
+        }
+
         if (useEdge) {
             // Edge TTS with fallback to Web Speech
             edgeTTSSpeak(text).then(function(audio) {
@@ -438,17 +459,11 @@
                 audio.addEventListener('ended', onChunkEnd);
                 audio.play();
             }).catch(function() {
-                webSpeechSpeak(text).then(onChunkEnd).catch(function(err) {
-                    console.error('TTS error:', err.message);
-                    onChunkEnd();
-                });
+                webSpeechSpeak(text).then(onChunkEnd).catch(onSpeechFail);
             });
         } else {
             // Web Speech API
-            webSpeechSpeak(text).then(onChunkEnd).catch(function(err) {
-                console.error('TTS error:', err.message);
-                onChunkEnd();
-            });
+            webSpeechSpeak(text).then(onChunkEnd).catch(onSpeechFail);
         }
     }
 
