@@ -1,41 +1,35 @@
-# Bộ Quy Tắc Ứng Xử (Code of Conduct)
+# 🤝 Bộ Quy Tắc Ứng Xử (Code of Conduct)
 
-## 🤝 Cam Kết Cộng Đồng
+## 🌟 Cam Kết Của Dự Án
 
-Là những người đóng góp và quản trị viên, chúng tôi cam kết biến việc tham gia vào dự án này thành một trải nghiệm không bị quấy rối cho tất cả mọi người, bất kể tuổi tác, kích thước cơ thể, khuyết tật, dân tộc, bản dạng giới và biểu hiện giới, mức độ kinh nghiệm, quốc tịch, ngoại hình cá nhân, chủng tộc, tôn giáo hay bản dạng tính dục và khuynh hướng tình dục.
+Dự án "Cố Nguyên" cam kết xây dựng một môi trường tham khảo chuyên nghiệp, tôn trọng và lành mạnh. Mặc dù đây là một dự án cá nhân và không tiếp nhận đóng góp công khai, chúng tôi vẫn đề cao các tiêu chuẩn đạo đức và ứng xử trong mọi tương tác giữa Người dùng, tác nhân AI và khách ghé thăm.
 
-## 🌟 Tiêu Chuẩn Ứng Xử
+## 🏛️ Tiêu Chuẩn Ứng Xử Chuyên Nghiệp
 
-**Những hành vi tích cực** góp phần tạo nên một môi trường cởi mở và thân thiện bao gồm:
+Các tiêu chuẩn này áp dụng cho mọi hình thức trao đổi liên quan đến dự án (bao gồm thảo luận công khai nếu có, hoặc tương tác giữa người dùng và AI trong quá trình bảo trì):
 
-*   Sử dụng ngôn ngữ chào đón và hòa nhập.
-*   Tôn trọng các quan điểm và trải nghiệm khác biệt.
-*   Chấp nhận những lời phê bình mang tính xây dựng một cách hòa nhã.
-*   Tập trung vào điều tốt nhất cho cộng đồng.
-*   Thể hiện sự đồng cảm đối với các thành viên khác trong cộng đồng.
+- **Tôn Trọng Tuyệt Đối**: Luôn sử dụng ngôn ngữ hòa nhã, tôn trọng các quan điểm sáng tạo khác biệt.
+- **Tương Tác AI Lành Mạnh**: Các tác nhân AI (Agents) phải được điều khiển để tạo ra nội dung phù hợp với thuần phong mỹ tục, không vi phạm các tiêu chuẩn đạo đức xã hội.
+- **Bảo Mật Thông Tin**: Không tiết lộ bất kỳ thông tin cá nhân nào của quản trị viên hoặc người dùng khác trong các tệp tin Markdown hoặc Issues.
+- **Phê Bình Xây Dựng**: Tiếp nhận các góp ý về nội dung thế giới (nếu có) một cách khách quan và lịch sự.
 
-**Những hành vi không được chấp nhận** của người tham gia bao gồm:
+## 🚫 Hành Vi Không Được Chấp Nhận
 
-*   Sử dụng ngôn ngữ hoặc hình ảnh gợi dục và sự chú ý hoặc tán tỉnh mang tính tình dục không mong muốn.
-*   Bình luận xúc phạm hoặc mang tính xúc phạm, tấn công cá nhân hoặc chính trị.
-*   Quấy rối nơi công cộng hoặc riêng tư.
-*   Tiết lộ thông tin cá nhân của người khác mà không có sự cho phép rõ ràng.
-*   Các hành vi khác được coi là không phù hợp trong môi trường chuyên nghiệp.
+- Sử dụng ngôn ngữ xúc phạm, công kích cá nhân hoặc chính trị.
+- Quấy rối, đe dọa hoặc có các hành vi gây hại đến môi trường làm việc chung.
+- Cố tình phá hoại cấu trúc dữ liệu hoặc đưa vào các nội dung độc hại.
+- Mọi hành vi vi phạm đạo đức trong việc sử dụng AI để tạo nội dung nhạy cảm.
 
-## 🛠️ Trách Nhiệm
+## 🛠️ Trách Nhiệm Thực Thi
 
-Người quản trị dự án có trách nhiệm làm rõ các tiêu chuẩn về hành vi được chấp nhận và có quyền thực hiện các hành động khắc phục phù hợp và công bằng để ứng phó với bất kỳ trường hợp nào có hành vi không thể chấp nhận được.
+Quản trị viên dự án có toàn quyền quyết định và thực hiện các biện pháp cần thiết để duy trì bộ quy tắc này, bao gồm:
+- Xóa bỏ các nội dung không phù hợp.
+- Hạn chế quyền truy cập nếu phát hiện hành vi gây hại.
+- Điều chỉnh quy trình tương tác AI để đảm bảo tính an toàn.
 
-Người quản trị dự án có quyền và trách nhiệm xóa, chỉnh sửa hoặc từ chối các bình luận, cam kết, mã, wiki chỉnh sửa, vấn đề và các đóng góp khác không phù hợp với Bộ Quy Tắc Ứng Xử này, hoặc cấm tạm thời hoặc vĩnh viễn bất kỳ người đóng góp nào có hành vi khác mà họ cho là không phù hợp, đe dọa, xúc phạm hoặc có hại.
+## 📞 Báo Cáo Vi Phạm
 
-## 🌍 Phạm Vi Áp Dụng
+Mọi thắc mắc hoặc báo cáo về các hành vi vi phạm quy tắc ứng xử có thể được gửi trực tiếp đến: **nkhoihue@gmail.com**. Chúng tôi cam kết bảo mật thông tin người báo cáo và xử lý vấn đề một cách công bằng.
 
-Bộ Quy Tắc Ứng Xử này áp dụng cho tất cả các không gian của dự án, và nó cũng áp dụng khi một cá nhân đại diện cho dự án hoặc cộng đồng của dự án trong các không gian công cộng.
-
-## 📣 Thực Thi
-
-Các trường hợp lạm dụng, quấy rối hoặc các hành vi không thể chấp nhận khác có thể được báo cáo bằng cách liên hệ với nhóm dự án tại `admin@example.com` (Thay bằng email thực tế). Tất cả các khiếu nại sẽ được xem xét và điều tra và sẽ dẫn đến phản hồi được coi là cần thiết và phù hợp với hoàn cảnh. Nhóm dự án có nghĩa vụ bảo mật thông tin liên quan đến người báo cáo sự cố.
-
-## 📜 Ghi Chú
-
-Bộ Quy Tắc Ứng Xử này được điều chỉnh từ [Contributor Covenant](https://www.contributor-covenant.org), phiên bản 1.4, có sẵn tại https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+---
+© 2026 Cố Nguyên Project. Được xây dựng trên tinh thần tôn trọng và sáng tạo.
