@@ -1804,6 +1804,26 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00005_Kiếm_Đạo_Hộ_Thế.md",
       "title": "Chương 5: Kiếm Đạo Hộ Thế"
+    },
+    {
+      "filename": "Chương_00006_Con_Mắt_Trong_Bóng_Tối.md",
+      "title": "Chương 6: Con Mắt Trong Bóng Tối"
+    },
+    {
+      "filename": "Chương_00007_Hội_Nghị_Thiên_Hoa.md",
+      "title": "Chương 7: Hội Nghị Thiên Hoa"
+    },
+    {
+      "filename": "Chương_00008_Đóa_Sen_Trong_Bão.md",
+      "title": "Chương 8: Đóa Sen Trong Bão"
+    },
+    {
+      "filename": "Chương_00009_Hồi_Âm_Từ_Ngoại_Môn.md",
+      "title": "Chương 9: Hồi Âm Từ Ngoại Môn"
+    },
+    {
+      "filename": "Chương_00010_Con_Rắn_Trong_Tổ.md",
+      "title": "Chương 10: Con Rắn Trong Tổ"
     }
   ],
   "Góc_Nhìn_Hắc_Hạt_Ma_Trùng": [
