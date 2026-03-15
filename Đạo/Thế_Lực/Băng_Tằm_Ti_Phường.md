@@ -1,75 +1,134 @@
 ---
 type: faction
-name: BĂNG TẰM TI PHƯỜNG
+name: Băng Tằm Ti Phường
 hantu: 冰蚕丝坊
-faction_type: ''
-alignment: 0
-race: ''
+faction_type: Hội
+alignment: 2
+race: Vi Tộc (Băng tằm), Nhân Tộc (Hợp tác)
 region: Bắc Băng
-founded: ''
-founder: ''
-emblem: ''
-specialty: ''
-economy: []
+founded: Thượng Cổ Kỷ Nguyên
+founder: Tằm Mẫu
+emblem: Con_Tam_Trong_Suot_Va_Soi_To.png
+specialty: Sản xuất Băng Tằm Ti cao cấp, Dệt lụa linh lực kháng hàn, Truyền dẫn linh lực băng hệ
+economy:
+- Sản xuất và bán tơ băng tằm thô
+- Chế tác y phục pháp khí cho tu sĩ phương Bắc
+- Xuất khẩu lụa băng sang các châu lục khác
 arcs:
-- arc: 1
-  status: Chưa Xác Định
-  rank: ''
-  leader: ''
-  population: 0
-  territory: []
-  assets: []
-  stats:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  divisions: []
-  relationships: []
+  - arc: 1
+    status: Đang gặp khó khăn do cạnh tranh
+    rank: Hạng Năm
+    leader: Tằm Mẫu
+    population: 300
+    territory:
+      - Sườn phía bắc Tuyết Sơn
+      - Hệ thống hang tằm tự nhiên
+    assets:
+      - name: Hang Tằm Vạn Năm
+        type: Công Trình
+      - name: Trận pháp "Ôn Hòa Kết Giới"
+        type: Trận Pháp
+      - name: Kim Ti Thượng Cổ
+        type: Tài Nguyên
+    stats: [50, 400, 150, 300, 100, 120]
+    divisions:
+      - name: Nhóm Kéo Tơ
+        role: Sản xuất và tinh luyện tơ tằm thô từ băng tằm hoang dã
+        headcount:
+          hoi_truong: 1
+          pho_hoi_truong: 0
+          thanh_vien: 290
+          tong_quan: 0
+        members:
+          - character: Tằm Mẫu
+            position: Phường Chủ
+            cultivation: Trúc Cơ Sơ Kỳ (Tương đương)
+          - character: "[Tằm Linh]"
+            position: Thành Viên
+            cultivation: Luyện Khí Sơ Kỳ
+            placeholder: true
+      - name: Nhóm Dệt Lụa
+        role: Chế tác vải vóc và y phục pháp khí hoàn chỉnh
+        headcount:
+          hoi_truong: 0
+          pho_hoi_truong: 1
+          thanh_vien: 8
+          tong_quan: 1
+        members:
+          - character: "[Nghệ Nhân Dệt]"
+            position: Đội Trưởng
+            cultivation: Trúc Cơ Sơ Kỳ
+            placeholder: true
+    relationships:
+      - faction: Tuyết Liên Dược Phường
+        description: Đối tác cộng sinh lâu đời, cung cấp thức ăn cho tằm và nhận tơ bọc thuốc.
+        diplomacy:
+          lien_minh: 80
+          tin: 90
+          uy_hiep: 0
+          thuong_mai: 100
+          on_oan: 0
+          le_thuoc: 0
+      - faction: Huyền Băng Cung
+        description: Cạnh tranh thương mại khốc liệt, bị Huyền Băng Cung theo dõi bí mật.
+        diplomacy:
+          lien_minh: -20
+          tin: 10
+          uy_hiep: 60
+          thuong_mai: -50
+          on_oan: -30
+          le_thuoc: 0
 ---
 
 # BĂNG TẰM TI PHƯỜNG (冰蚕丝坊)
 
-## I. TỔNG QUAN
-- **Tên:** Băng Tằm Ti Phường
-- **Loại Hình:** Phường
-- **Cấp Bậc:** Hạng Năm
-- **Trụ Sở:** Sườn Tuyết Sơn, gần lãnh thổ Huyền Băng Cung
-- **Người Đứng Đầu:** Phường Chủ Tằm Mẫu (tương đương Trúc Cơ, Vi Tộc băng tằm)
+## I. Tổng Quan (总览)
+Băng Tằm Ti Phường là một nghiệp đoàn sản xuất tơ lụa đặc thù tại Bắc Băng, nơi cư ngụ và làm việc của loài Băng Tằm có linh tính. Nổi tiếng với việc tạo ra "Băng Tằm Ti" - loại tơ trong suốt, bền chắc và có khả năng dẫn dụ linh lực thủy hệ cực tốt, phường thợ này từng là nguồn cung cấp y phục chính cho các bậc đại năng phương Bắc. Dù hiện tại đang đối mặt với sự cạnh tranh từ các phương pháp nuôi trồng nhân tạo, giá trị của tơ tằm hoang dã từ phường vẫn luôn được giới chuyên môn đánh giá cao nhất.
 
-## II. ĐỊA LÝ & TÀI NGUYÊN
-- **Vị Trí:** Sườn phía bắc Tuyết Sơn, gần Huyền Băng Cung
-- **Đặc Điểm Địa Hình:** Vách đá có nhiều lỗ hổng tự nhiên, thích hợp cho tằm kéo tơ
-- **Tài Nguyên:** Băng Tằm Ti — loại tơ trong suốt, bền chắc, chịu lạnh, có thể dùng chế tạo y phục pháp khí
+## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
+Trụ sở nằm rải rác trong các hang động tự nhiên trên sườn phía bắc Tuyết Sơn, nơi có nhiệt độ thấp lý tưởng cho loài tằm sinh trưởng. Tài nguyên lớn nhất là "Băng Tằm Ti" hoang dã và một lượng nhỏ "Kim Ti" cực kỳ quý hiếm. Phường cũng kiểm soát các mạch linh thảo nhỏ dùng làm thức ăn cao cấp cho tằm vương.
 
-## III. VĂN HÓA & TÍN NGƯỠNG
-- **Triết Lý:** "Dệt sợi nối duyên" — tơ băng kết nối Vi Tộc với thế giới bên ngoài
-- **Quy Tắc:** Mỗi mùa chỉ kéo một lượng tơ nhất định — không vắt kiệt sức Tằm
-- **Phong Tục:** Tằm non được nuôi bằng băng linh thảo tốt nhất — chất lượng tơ phụ thuộc vào thức ăn
+## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
+Đề cao triết lý: "Dệt sợi nối duyên". Thành viên phường coi việc kéo tơ là một hình thức thiền định và dâng hiến cho đại địa. Văn hóa của họ rất tĩnh lặng, kiên nhẫn và tỉ mỉ. Họ tôn trọng chu kỳ tự nhiên của loài tằm, tuyệt đối không vắt kiệt sức lao động của chúng để đảm bảo chất lượng tơ luôn ở mức tinh khiết nhất.
 
-## IV. CƠ CẤU TỔ CHỨC
-- **Phường Chủ:** Tằm Mẫu — cá thể băng tằm lớn nhất, có ý thức, điều phối sản xuất tơ
-- **Tằm Kéo Tơ:** Vài trăm con băng tằm, đa số theo bản năng
-- **Đối Tác:** Tuyết Liên Dược Phường cung cấp thảo dược nuôi tằm, đổi lại nhận tơ
+## IV. Cơ Cấu Tổ Chức (组织结构)
+```mermaid
+graph TD
+    TM[Tằm Mẫu - Phường Chủ] --> HDCS[Hội Đồng Quản Sự]
+    HDCS --> NKT[Nhóm Kéo Tơ]
+    HDCS --> NDL[Nhóm Dệt Lụa]
+    HDCS --> BGT[Ban Giao Thương]
+    NKT --> BT[Băng Tằm]
+    NDL --> NN[Nghệ Nhân Nhân Tộc]
+    BGT --> SN[Sứ Giả Vận Chuyển]
+```
 
-## V. CÔNG PHÁP & TRẬN PHÁP
-- Không tu luyện — kéo tơ là bản năng chủng tộc
-- Tơ băng tằm có tính chất đặc biệt: cực bền, kháng hàn, truyền dẫn linh lực Băng hệ — nguyên liệu quý cho y phục pháp khí
+## V. Công Pháp & Trận Pháp (功法 với阵法)
+- **Công Pháp:** Tằm Mẫu sở hữu khả năng *Tơ Linh Thần Giao* để điều phối hành vi của hàng trăm con tằm. Nghệ nhân dệt sử dụng *Linh Lực Khâu Thừa Thuật* để thêu phù văn vào vải.
+- **Trận Pháp:** *Ôn Hòa Kết Giới Trận* - trận pháp duy trì độ ẩm và nhiệt độ ổn định bên trong các hang tằm, ngăn chặn sự đóng băng quá mức của tơ khi mới kéo ra.
 
-## VI. LỊCH SỬ TÓM TẮT
-Băng Tằm sinh sống trên Tuyết Sơn từ xa xưa. Huyền Băng Cung từng thu mua Băng Tằm Ti số lượng lớn để chế tạo y phục cho đệ tử nội môn. Nhưng khi Cung tự trồng được Băng Tằm nuôi, Phường mất đi khách hàng lớn nhất. Nay chỉ bán cho thợ rèn nhỏ và Phá Băng Thương Đội, lợi nhuận sụt giảm nghiêm trọng.
+## VI. Đặc Sản Môn Phái (门派特产)
+- **Băng Tằm Ti:** Sợi tơ trong suốt như pha lê, cực kỳ bền chắc và có tính kháng hàn tuyệt đối.
+- **Lụa Tuyết Liên:** Loại vải cao cấp dệt từ tơ tằm ăn hoa tuyết liên, có tác dụng an thần và thanh lọc tâm ma.
 
-Tằm Mẫu đang tìm cách nâng cao chất lượng tơ để cạnh tranh với Băng Tằm nuôi của Huyền Băng Cung — tơ hoang dã có phẩm chất tự nhiên tốt hơn, chỉ cần marketing đúng cách.
+## VII. Cơ Sở Hạ Tầng (基础设施)
+- **Hang Tằm Vạn Năm:** Hệ thống hang động có cấu trúc tổ ong tự nhiên, nơi ở của tằm vương và kho lưu trữ tơ.
+- **Khung Dệt Linh Lực:** Các máy dệt được yểm phù văn giúp tăng tốc độ sản xuất và độ chính xác của hoa văn.
 
-## VII. GIAI THOẠI & BÍ MẬT
-- Tằm Mẫu có thể kéo ra một loại tơ đặc biệt — "Kim Ti" — cứng như thép, nhưng cần linh lực rất lớn nên hiếm khi sản xuất
-- Huyền Băng Cung lén cử người theo dõi Phường vì nghi ngờ Tằm Mẫu biết đường vào một khu vực bí mật trên Tuyết Sơn
-- Tuyết Liên Dược Phường và Băng Tằm Ti Phường có quan hệ cộng sinh lâu đời — thảo dược nuôi tằm, tơ tằm bọc thảo dược — tạo thành vòng tròn kinh tế nhỏ nhưng bền vững
+## VIII. Kinh Tế (経済)
+Kinh tế dựa trên việc xuất khẩu tơ thô và các sản phẩm lụa thành phẩm. Do mất đi khách hàng lớn nhất là Huyền Băng Cung, phường hiện đang mở rộng hợp tác với Phá Băng Thương Đội để đưa hàng hóa về Trung Thổ, nơi lụa băng tằm đang trở thành một xu hướng thời trang và pháp bảo mới.
 
-## VIII. QUAN HỆ
-- **Cộng sinh:** Tuyết Liên Dược Phường (cung cấp thảo dược nuôi tằm, nhận tơ đổi lại)
-- **Vận chuyển:** Phá Băng Thương Đội (chuyển tơ về Trung Thổ)
-- **Cạnh tranh gián tiếp:** Huyền Băng Cung (tự nuôi Băng Tằm, đánh bật Phường khỏi thị trường cao cấp)
-- **Bị theo dõi:** Huyền Băng Cung (nghi ngờ Tằm Mẫu biết bí mật Tuyết Sơn)
+## IX. Lịch Sử Tóm Tắt (简史)
+Được thành lập từ thời kỷ nguyên Thượng Cổ bởi Tằm Mẫu - một cá thể băng tằm đã thức tỉnh linh trí sau khi nuốt phải tinh huyết của một vị thần thú. Bà đã dẫn dắt đồng loại xây dựng nên một vương quốc tơ lụa thầm lặng trên vách núi, duy trì sự tồn tại thông qua việc trao đổi tài nguyên với các chủng tộc khác.
+
+## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
+Tương truyền Tằm Mẫu có thể dệt nên một "Sợi Tơ Định Mệnh" có khả năng kết nối linh hồn của hai người ở xa nhau vạn dặm, giúp họ cảm nhận được sinh tử của đối phương.
+
+## XI. Quan Hệ Thế Lực (势力关系)
+```mermaid
+graph LR
+    BTTP[Băng Tằm Ti Phường] -- Cộng sinh -- TLDV[Tuyết Liên Dược Phường]
+    BTTP -- Cạnh tranh -- HBC[Huyền Băng Cung]
+    BTTP -- Xuất khẩu -- PBTĐ[Phá Băng Thương Đội]
+    BTTP -- Cảnh giác -- ALL[Kẻ Săn Trộm Tơ]
+```
