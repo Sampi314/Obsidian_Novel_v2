@@ -172,7 +172,8 @@
 - [Chương 132: Ông Kẹ Và Thiên Thần](Chương_00132_Ông_Kẹ_Và_Thiên_Thần.md)
 - [Chương 133: Ánh Sáng Nơi Tâm Trí](Chương_00133_Ánh_Sáng_Nơi_Tâm_Trí.md)
 - [Chương 134: Hạt Mầm Thay Đổi](Chương_00134_Hạt_Mầm_Thay_Đổi.md)
-*(Đang cập nhật)*
+- [Chương 135: Ông Lớn Biết Khóc](Chương_00135_Ông_Lớn_Biết_Khóc.md)
+- [Chương 136: Nước Cờ Đầu Tiên](Chương_00136_Nước_Cờ_Đầu_Tiên.md)
 
 ## Arc 14: Hồn Nhiên Tử (Chương 137-148)
 *Giai đoạn Nguyên Anh Sơ-Trung Kỳ — Khắp Cố Nguyên Giới*

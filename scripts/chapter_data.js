@@ -1,4 +1,4 @@
-const chapterData = (typeof window !== "undefined" && window.chapterData) ? window.chapterData : {};
+var chapterData = (typeof window !== "undefined" && window.chapterData) ? window.chapterData : {};
 Object.assign(chapterData, {
   "Góc_Nhìn_Bắc_Băng": [
     {
@@ -612,6 +612,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00134_Hạt_Mầm_Thay_Đổi.md",
       "title": "Chương 134: Hạt Mầm Thay Đổi"
+    },
+    {
+      "filename": "Chương_00135_Ông_Lớn_Biết_Khóc.md",
+      "title": "Chương 135: Ông Lớn Biết Khóc"
+    },
+    {
+      "filename": "Chương_00136_Nước_Cờ_Đầu_Tiên.md",
+      "title": "Chương 136: Nước Cờ Đầu Tiên"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -1044,6 +1052,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00088_Ảo_Ảnh_Huyết_Liên.md",
       "title": "Chương 88: Ảo Ảnh Huyết Liên"
+    },
+    {
+      "filename": "Chương_00089_Huyết_Trận_Chặn_Đường.md",
+      "title": "Chương 89: Huyết Trận Chặn Đường"
+    },
+    {
+      "filename": "Chương_00090_Phá_Vòng_Vây_Tới_Vương_Đình.md",
+      "title": "Chương 90: Phá Vòng Vây Tới Vương Đình"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
@@ -2445,4 +2461,6 @@ Object.assign(chapterData, {
 if (typeof window !== 'undefined') {
   window.chapterData = chapterData;
 }
-export { chapterData };
+if (typeof module !== "undefined") {
+  module.exports = chapterData;
+}
