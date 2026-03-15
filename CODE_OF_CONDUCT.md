@@ -1,7 +1,5 @@
 # 🤝 Bộ Quy Tắc Ứng Xử
 
-> [!NOTE]
-
 ## 🌟 Cam Kết Của Dự Án
 
 Dự án "Cố Nguyên" cam kết xây dựng một môi trường tham khảo chuyên nghiệp, tôn trọng và lành mạnh. Mặc dù đây là một dự án cá nhân và không tiếp nhận đóng góp công khai, chúng tôi vẫn đề cao các tiêu chuẩn đạo đức và ứng xử trong mọi tương tác giữa Người dùng, tác nhân AI và khách ghé thăm.

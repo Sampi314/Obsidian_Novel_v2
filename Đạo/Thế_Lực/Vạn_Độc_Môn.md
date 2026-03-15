@@ -1,101 +1,141 @@
 ---
 type: faction
-name: VẠN ĐỘC MÔN
+name: Vạn Độc Môn
 hantu: 万毒门
-faction_type: ''
-alignment: 0
-race: ''
-region: Đông Hoang
-founded: ''
-founder: ''
-emblem: ''
-specialty: ''
-economy: []
+faction_type: Tông Môn
+alignment: -10
+race: Nhân Tộc (Ma tu), Yêu Tộc (Cổ trùng)
+region: Nam Cương
+founded: Năm 82.000 (Khởi Nguyên)
+founder: Độc Cô Thiên Sát
+emblem: Dau_Re_Va_Mang_Nhen_Doc.png
+specialty: Vạn Độc Chân Kinh, Luyện chế Cổ Trùng, Dược Nhân thuật
+economy:
+- Buôn bán kỳ độc và cổ trùng (Hắc thị)
+- Chiếm đoạt tài nguyên dược liệu từ rừng già
+- Thu phí bảo hộ (ép buộc) các bộ lạc Nam Cương
 arcs:
-- arc: 1
-  status: Chưa Xác Định
-  rank: ''
-  leader: ''
-  population: 0
-  territory: []
-  assets: []
-  stats:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  divisions: []
-  relationships: []
+  - arc: 1
+    status: Bành trướng đe dọa
+    rank: Hạng Nhất (Siêu cấp nguy hiểm)
+    leader: Môn Chủ Độc Cô Lão Quái
+    population: 5000 (Ma tu) + 10000 (Dược nhân/Nô lệ)
+    territory:
+      - Vạn Độc Cốc
+      - Nấm Độc Lâm
+      - Hệ thống kho chứa ngầm Nam Cương
+    assets:
+      - name: Huyết Trì Cổ Vương
+        type: Tài Nguyên
+      - name: Trận pháp "Vạn Độc Phệ Tâm"
+        type: Trận Pháp
+      - name: Vạn Độc Phù (Chấn môn chi bảo)
+        type: Pháp Bảo
+    stats: [13000, 9000, 11000, 8000, 12000, 14000]
+    divisions:
+      - name: Ngũ Độc Trưởng Lão
+        role: Quản lý 5 chi nhánh luyện cổ (Xà, Rết, Bò Cạp, Cóc, Nhện)
+        headcount:
+          thai_thuong: 1
+          ho_phap: 5
+          truong_lao: 25
+          chan_truyen: 50
+          noi_mon: 500
+          ngoai_mon: 2000
+          tap_dich: 1000
+        members:
+          - character: Độc Cô Lão Quái
+            position: Môn Chủ
+            cultivation: Hóa Thần Sơ Kỳ
+          - character: Lệ Vô Tâm
+            position: Thánh Tử
+            cultivation: Trúc Cơ Viên Mãn
+      - name: Vạn Độc Thất Sát
+        role: Đội ngũ sát thủ tinh nhuệ thực hiện nhiệm vụ đặc biệt
+        headcount:
+          thai_thuong: 0
+          ho_phap: 0
+          truong_lao: 0
+          chan_truyen: 7
+          noi_mon: 0
+          ngoai_mon: 0
+          tap_dich: 0
+        members:
+          - character: "[Nhất Sát]"
+            position: Thống Lĩnh
+            cultivation: Giả Đan Cảnh
+            placeholder: true
+    relationships:
+      - faction: Dược Vương Cốc
+        description: Tử địch truyền kiếp, mâu thuẫn sâu sắc về y đạo và độc đạo.
+        diplomacy:
+          lien_minh: -100
+          tin: -100
+          uy_hiep: 90
+          thuong_mai: -100
+          on_oan: -100
+          le_thuoc: 0
+      - faction: Huyết Ma Tông
+        description: Đồng minh tạm thời, liên kết khi đối phó Chính Đạo Trung Thổ.
+        diplomacy:
+          lien_minh: 40
+          tin: 20
+          uy_hiep: 30
+          thuong_mai: 50
+          on_oan: 0
+          le_thuoc: 0
 ---
 
 # VẠN ĐỘC MÔN (万毒门)
 
-## I. TỔNG QUAN
-- **Tên:** Vạn Độc Môn (Ten Thousand Poisons Sect).
-- **Loại Hình:** Tông Môn (Tà Đạo - Chuyên về Độc và Cổ Trùng).
-- **Cấp Bậc:** Hạng Nhất (Thế lực tà đạo hàng đầu tại Nam Cương, đối trọng với Đan Hà Cốc).
-- **Trụ Sở:** Vạn Độc Cốc (Ten Thousand Poisons Valley).
-- **Người Đứng Đầu:** Môn Chủ - Độc Cô Lão Quái (Hóa Thần Sơ Kỳ).
+## I. Tổng Quan (总览)
+Vạn Độc Môn là thế lực ma đạo thống trị tuyệt đối tại vùng rừng rậm Nam Cương, khởi nguồn từ sự phản bội của một thiên tài y thuật. Tông môn này biến nọc độc và cổ trùng thành một loại nghệ thuật chiến tranh đáng sợ, có khả năng tiêu diệt toàn bộ một thành trì chỉ bằng một làn khói độc. Với triết lý "Cường giả vi tôn", đây là nơi của những kẻ tàn nhẫn nhất, sẵn sàng hiến tế đồng môn và chính bản thân mình để đạt đến cảnh giới vạn độc bất xâm.
 
-## II. ĐỊA LÝ & TÀI NGUYÊN
-- **Vị Trí:** Nằm sâu trong rừng rậm nguyên sinh Nam Cương, nơi chướng khí mù mịt quanh năm.
-- **Đặc Điểm Địa Hình:**
-    - Thung lũng hình bát quái ngược, bao phủ bởi sương mù độc hại màu tím lục.
-    - **Huyết Trì:** Một hồ nước đỏ như máu ở trung tâm cốc, nơi nuôi dưỡng các loại Cổ Trùng vương giả.
-    - Kiến trúc chủ yếu là các hang động khoét vào vách núi đá vôi, ẩm thấp và u tối, thích hợp cho côn trùng sinh sống.
-- **Tài Nguyên:**
-    - **Ngũ Độc Thảo:** Năm loại cỏ độc cực mạnh dùng để luyện Cổ.
-    - **Huyết Tinh:** Tinh thể ngưng tụ từ máu của hàng vạn sinh linh, dùng để nâng cao tu vi tà đạo.
-    - **Vạn Độc Chi Nguyên:** Nguồn nước ngầm chứa kịch độc, người thường uống vào chết ngay tức khắc, tu sĩ dùng để tôi luyện cơ thể.
-    - **Hệ Thống Ám Đạo & Kho Chứa Ngầm:**
-        - Mạng lưới đường hầm bí mật nằm sâu dưới lòng đất, được đào từ 300 năm trước để vận chuyển hàng lậu và nguyên liệu cấm mà không bị Chính đạo phát hiện.
-        - **Kho Chứa Ngầm (Underground Depot):** Nơi tập kết dược liệu và nô lệ trước khi đưa vào Huyết Trì. Có trạm trung chuyển huyết khí và nuôi dưỡng các sinh vật thí nghiệm thất bại như "Sa Bạo Cổ".
-    - **Vườn Dược Liệu (Dược Nhân):**
-        - Khu vực nằm sâu trong nội cốc, nơi trồng hàng vạn cây thuốc quý hiếm.
-        - Đặc biệt, "đất trồng" ở đây không phải đất thường mà là cơ thể sống của các tu sĩ bị bắt cóc (gọi là [Dược Nhân](../Kỳ_Vật/Dược_Nhân.md)). Máu thịt và linh lực của họ nuôi dưỡng dược liệu, tạo ra những biến thể có độc tính cực mạnh.
+## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
+Trụ sở chính là Vạn Độc Cốc, một thung lũng hình bát quái ngược nằm sâu trong rừng rậm nguyên sinh, quanh năm bao phủ bởi độc vụ màu tím lục. Trung tâm cốc là "Huyết Trì" - nơi nuôi dưỡng những loài cổ trùng vương giả. Tông môn kiểm soát hệ thống "Kho Chứa Ngầm" khổng lồ dùng để vận chuyển hàng cấm và nuôi dưỡng các mẫu vật thí nghiệm kinh tởm như "Dược Nhân".
 
-## III. VĂN HÓA & TÍN NGƯỠNG
-- **Triết Lý:** "Vạn vật sinh ra từ độc, chết đi cũng về với độc". Họ tin rằng độc không chỉ là vũ khí mà là bản chất của sự sống, sự đào thải yếu kém.
-- **Quy Tắc (Môn Quy):**
-    - **Cường Giả Vi Tôn:** Trong môn phái, kẻ mạnh ăn thịt kẻ yếu là chuyện thường tình. Đệ tử có thể thách đấu sinh tử để cướp đoạt tài nguyên của nhau.
-    - **Nuôi Cổ Luyện Tâm:** Mỗi đệ tử phải tự nuôi một bản mệnh Cổ Trùng. Cổ còn người còn, Cổ chết người vong.
-    - **Tuyệt Tình Tuyệt Nghĩa:** Để đạt cảnh giới cao nhất của Độc công, phải cắt đứt tình cảm thế tục.
-- **Phong Tục:**
-    - **Lễ Tế Cổ:** Hàng năm vào ngày Đông Chí, các đệ tử sẽ thả bản mệnh Cổ Trùng vào Huyết Trì để chúng cắn nuốt lẫn nhau. Con Cổ sống sót cuối cùng sẽ trở thành "Cổ Vương" và chủ nhân của nó được thưởng lớn.
-    - **Săn Bắt:** Định kỳ tổ chức các cuộc đi săn tu sĩ chính đạo lạc vào Nam Cương để làm vật thí nghiệm độc dược.
+## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
+Tôn thờ sức mạnh của độc tố và sự đào thải tự nhiên. Đệ tử Vạn Độc Môn tin rằng độc là bản chất của sự sống và cái chết. Văn hóa môn phái cực kỳ tàn bạo, việc đệ tử tàn sát lẫn nhau để tranh giành cổ vương được coi là hợp lệ. Mỗi thành viên đều phải mang trong mình một "Bản Mệnh Cổ Trùng", thứ gắn liền sinh mạng của họ với sức mạnh tà đạo.
 
-## IV. CƠ CẤU TỔ CHỨC
-1.  **Môn Chủ (Độc Cô Lão Quái):** Kẻ sống sót sau cuộc chiến tranh giành quyền lực tàn khốc nhất lịch sử môn phái. Tính tình hỉ nộ vô thường.
-2.  **Ngũ Độc Trưởng Lão:**
-    - 5 vị trưởng lão (Nguyên Anh Hậu Kỳ) đại diện cho 5 chi nhánh: Xà (Rắn), Rết (Ngô Công), Bò Cạp (Hạt), Cóc (Thiềm Thừ), Nhện (Chu).
-3.  **Lực Lượng Đặc Nhiệm:**
-    - **Vạn Độc Thất Sát:** 7 sát thủ tinh nhuệ (Giả Đan Cảnh) được đào tạo đặc biệt để thực hiện các nhiệm vụ ám sát và truy kích.
-    - **Mộc Độc Sư (Wood Poison Masters):** Đội ngũ chuyên biệt tu luyện Mộc hệ độc công, ẩn nấp trong rừng rậm và điều khiển thực vật tấn công kẻ địch. Trấn thủ tại [Nấm Độc Lâm](../Thế_Giới_Và_Thời_Gian/Nấm_Độc_Lâm.md).
-    - Không có tên, chỉ được gọi theo số thứ tự từ Nhất Sát đến Thất Sát. Chúng là những cỗ máy giết chóc không cảm xúc, tuyệt đối trung thành.
-4.  **Hệ Thống Đệ Tử:**
-    - **Chân Truyền (Độc Tử):** Những kẻ sống sót qua Lễ Tế Cổ, được truyền dạy bí kíp cao cấp.
-        - *Đứng đầu:* **Vạn Độc Thánh Tử - [Lệ Vô Tâm](../Nhân_Vật/Lệ_Vô_Tâm.md)** (Trúc Cơ Viên Mãn). Kẻ được mệnh danh là "Huyết Thủ Thư Sinh", tương lai sẽ kế thừa chức Môn Chủ.
-    - **Nội Môn (Cổ Sư):** Đã luyện thành bản mệnh Cổ Trùng cấp 3 trở lên.
-    - **Ngoại Môn (Dược Nô):** Đệ tử mới nhập môn, thường bị dùng làm vật thử thuốc hoặc thức ăn cho Cổ Trùng nếu không tiến bộ.
+## IV. Cơ Cấu Tổ Chức (组织结构)
+```mermaid
+graph TD
+    ĐCTS[Độc Cô Thiên Sát - Thủy Tổ] --> MCLQ[Môn Chủ: Độc Cô Lão Quái]
+    MCLQ --> HDTL[Hội Đồng Ngũ Độc Trưởng Lão]
+    HDTL --> VĐTS[Vạn Độc Thất Sát]
+    HDTL --> MĐS[Mộc Độc Sư]
+    HDTL --> LTĐ[Luyện Tà Đường]
+    VĐTS --> ST[Sát Thủ]
+    MĐS --> TV[Thực Vật Độc]
+    LTĐ --> CS[Cổ Sư]
+```
 
-## V. CÔNG PHÁP & TRẬN PHÁP
-- **Công Pháp Trấn Phái:** [Vạn Độc Chân Kinh](../Công_Pháp/Vạn_Độc_Chân_Kinh.md)
-    - Thiên cấp hạ phẩm. Hấp thụ vạn loại độc dược vào cơ thể để luyện thành "Vạn Độc Bất Xâm Chi Thể", hơi thở và máu đều là kịch độc.
-- **Hộ Sơn Đại Trận:** [Vạn Độc Phệ Tâm Trận](../Trận_Pháp/Vạn_Độc_Phệ_Tâm_Trận.md)
-    - Cửu cấp trận pháp. Tạo ra ảo ảnh và độc vụ ăn mòn tâm trí lẫn cơ thể kẻ xâm nhập, khiến họ chết trong đau đớn tột cùng.
-- **Cấm Trận:** [Vạn Độc Huyết Tế Đại Trận](../Trận_Pháp/Vạn_Độc_Huyết_Tế_Đại_Trận.md)
-    - Thiên cấp hạ phẩm. Cấm trận huyết đạo dùng để hấp thụ huyết khí và biến đổi địa hình. Được sáng tạo bởi Sư đệ của Độc Cô Thiên Sát.
+## V. Công Pháp & Trận Pháp (功法 với阵法)
+- **Công Pháp:** *Vạn Độc Chân Kinh* (Hấp thụ vạn độc rèn luyện nhục thân), *Thiên Cổ Bí Thuật*.
+- **Trận Pháp:** *Vạn Độc Phệ Tâm Trận* - trận pháp hộ môn sử dụng độc vụ và ảo giác để ăn mòn thần thức kẻ thù, biến họ thành những dược nhân điên loạn ngay tại chỗ.
 
-## VI. LỊCH SỬ TÓM TẮT
-- **Sáng Lập:** Năm 82.000 (Khởi Nguyên) bởi **Độc Cô Thiên Sát**, một phản đồ của Dược Vương Cốc (Trung Thổ) chạy trốn đến Nam Cương.
-- **Phát Triển:** Lợi dụng địa thế hiểm trở và nguồn độc dược phong phú của Nam Cương để phát triển nhanh chóng. Trở thành cái gai trong mắt Đan Hà Cốc vì thường xuyên cướp bóc dược liệu.
-- **Quan Hệ:**
-    - **Kẻ thù không đội trời chung:** Đan Hà Cốc (Tranh chấp tài nguyên, tư tưởng đối lập).
-    - **Đồng minh tạm thời:** Huyết Ma Tông (Khi cần đối phó với các thế lực Chính đạo từ Trung Thổ).
+## VI. Đặc Sản Môn Phái (门派特产)
+- **Cổ Vương:** Những thực thể cổ trùng cấp cao có khả năng ký sinh và điều khiển tu sĩ cấp Nguyên Anh.
+- **Vạn Độc Phấn:** Loại bột kịch độc không màu, không mùi, có khả năng vô hiệu hóa linh lực đối phương trong thời gian ngắn.
 
-## VII. GIAI THOẠI & BÍ MẬT
-- **Bí Mật Huyết Trì:** Có kẻ nói rằng Huyết Trì không chỉ là máu, mà là nơi Độc Cô Lão Quái nuôi dưỡng một bào thai Quỷ Thần dùng để đoạt xá nếu hắn thất bại trong việc độ kiếp.
-- **Tiếng Sáo Đêm Trăng:** Vào những đêm trăng tròn, người ta thường nghe thấy tiếng sáo ai oán vọng ra từ Vạn Độc Cốc. Giai thoại mới nhất tiết lộ rằng đó là tiếng sáo của sư đệ Độc Cô Thiên Sát, người đã bị chính sư huynh mình phản bội và giam cầm linh hồn vào cây sáo trúc để duy trì [Vạn Độc Huyết Tế Đại Trận](../Trận_Pháp/Vạn_Độc_Huyết_Tế_Đại_Trận.md).
-- **Lời Nguyền Của Rừng Già:** Bất cứ ai mang theo vật phẩm từ Vạn Độc Môn ra khỏi Nam Cương mà không được phép sẽ bị rễ cây trong rừng siết chết vào đêm thứ 7.
+## VII. Cơ Sở Hạ Tầng (基础设施)
+- **Huyết Trì Cổ Vương:** Hồ máu trung tâm, nơi diễn ra lễ tế cổ hàng năm.
+- **Nấm Độc Lâm:** Vùng ngoại vi đầy những bào tử nấm đột biến, đóng vai trò là hàng rào phòng thủ tự nhiên.
+
+## VIII. Kinh Tế (経済)
+Nguồn thu khổng lồ từ việc buôn bán các loại kỳ độc, cổ trùng và thuốc giải độc (thực chất là thuốc khống chế) trên hắc thị. Họ cũng chiếm đoạt tài nguyên dược liệu quý hiếm của Nam Cương thông qua việc cưỡng bức các bộ lạc bản địa lao dịch và nộp phí bảo hộ.
+
+## IX. Lịch Sử Tóm Tắt (简史)
+Sáng lập bởi Độc Cô Thiên Sát, một phản đồ thiên tài của Dược Vương Cốc chạy trốn đến Nam Cương sau khi đánh cắp bí mật độc đạo. Ông đã biến vùng đất hoang dã này thành một đế chế ma đạo, liên tục đối đầu với các tông môn chính đạo phương Bắc trong suốt hàng ngàn năm qua.
+
+## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
+Tương truyền Độc Cô Lão Quái đang bí mật nuôi dưỡng một "Thần Cổ" có khả năng nuốt chửng linh mạch của toàn bộ thế giới để biến ông ta thành vị thần độc đạo đầu tiên.
+
+## XI. Quan Hệ Thế Lực (势力关系)
+```mermaid
+graph LR
+    VDM[Vạn Độc Môn] -- Tử địch -- DVC[Dược Vương Cốc]
+    VDM -- Đối địch -- ĐHC[Đan Hà Cốc]
+    VDM -- Đồng minh -- HMT[Huyết Ma Tông]
+    VDM -- Thao túng -- HBT[Hắc Báo Trại]
+```

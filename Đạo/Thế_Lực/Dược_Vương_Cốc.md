@@ -1,91 +1,141 @@
 ---
 type: faction
-name: DƯỢC VƯƠNG CỐC
+name: Dược Vương Cốc
 hantu: 药王谷
-faction_type: ''
-alignment: 0
-race: ''
+faction_type: Tông Môn
+alignment: 10
+race: Nhân Tộc
 region: Đông Hoang
-founded: ''
-founder: ''
-emblem: ''
-specialty: ''
-economy: []
+founded: Kỷ Nguyên Khởi Nguyên
+founder: Dược Vương Tôn Giả
+emblem: Bau_Thuoc_Va_La_Xanh.png
+specialty: Y Thuật, Đan Đạo hệ Mộc, Chữa lành và Trường sinh
+economy:
+- Bán các loại linh đan chữa bệnh và hồi phục
+- Dịch vụ khám chữa bệnh cho cường giả và hoàng gia
+- Xuất khẩu dược liệu quý hiếm
 arcs:
-- arc: 1
-  status: Chưa Xác Định
-  rank: ''
-  leader: ''
-  population: 0
-  territory: []
-  assets: []
-  stats:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  divisions: []
-  relationships: []
+  - arc: 1
+    status: Hưng thịnh (Thánh địa y học)
+    rank: Hạng Nhất
+    leader: Cốc Chủ Diệp Thanh Y
+    population: 8000
+    territory:
+      - Thung lũng Dược Vương
+      - Các vườn dược dưới chân Thiên Trụ Sơn
+    assets:
+      - name: Cửu Thiên Linh Mộc
+        type: Tài Nguyên
+      - name: Trận pháp "Vạn Mộc Hồi Xuân"
+        type: Trận Pháp
+      - name: Thanh Nang Y Kinh
+        type: Pháp Bảo
+    stats: [5000, 15000, 8000, 12000, 10000, 15000]
+    divisions:
+      - name: Y Sư Đường
+        role: Khám chữa bệnh và nghiên cứu y lý
+        headcount:
+          thai_thuong: 3
+          ho_phap: 2
+          truong_lao: 20
+          chan_truyen: 100
+          noi_mon: 500
+          ngoai_mon: 2000
+          tap_dich: 1000
+        members:
+          - character: Diệp Thanh Y
+            position: Cốc Chủ
+            cultivation: Hóa Thần Sơ Kỳ
+          - character: "[Đại Y Tiên Mộc Linh]"
+            position: Trưởng Lão
+            cultivation: Nguyên Anh Hậu Kỳ
+            placeholder: true
+      - name: Hộ Cốc Sứ
+        role: Lực lượng chiến đấu bảo vệ thung lũng và hộ tống đoàn hái thuốc
+        headcount:
+          thai_thuong: 1
+          ho_phap: 5
+          truong_lao: 10
+          chan_truyen: 50
+          noi_mon: 300
+          ngoai_mon: 1500
+          tap_dich: 500
+        members:
+          - character: "[Thống Lĩnh Hộ Cốc]"
+            position: Hộ Pháp
+            cultivation: Nguyên Anh Viên Mãn
+            placeholder: true
+    relationships:
+      - faction: Vạn Độc Môn
+        description: Tử địch, đối trọng giữa Y thuật và Độc thuật.
+        diplomacy:
+          lien_minh: -100
+          tin: -100
+          uy_hiep: 80
+          thuong_mai: -100
+          on_oan: -100
+          le_thuoc: 0
+      - faction: Cửu Hoa Kiếm Tông
+        description: Đồng minh chiến lược, cung cấp dịch vụ y tế đổi lấy sự bảo hộ quân sự.
+        diplomacy:
+          lien_minh: 80
+          tin: 90
+          uy_hiep: 0
+          thuong_mai: 100
+          on_oan: 0
+          le_thuoc: 0
 ---
 
 # DƯỢC VƯƠNG CỐC (药王谷)
 
-## I. TỔNG QUAN
-- **Tên:** Dược Vương Cốc (Medicine King Valley).
-- **Loại Hình:** Tông Môn (Chính Đạo - Chuyên về Y Thuật và Đan Đạo hệ Mộc).
-- **Cấp Bậc:** Hạng Nhất (Thánh địa y học của Trung Thổ và cả Cố Nguyên Giới).
-- **Trụ Sở:** Thung lũng Dược Vương, phía Nam chân Thiên Trụ Sơn.
-- **Người Đứng Đầu:** Cốc Chủ - Diệp Thanh Y (Dược Tôn - Hóa Thần Sơ Kỳ).
+## I. Tổng Quan (总览)
+Dược Vương Cốc là thánh địa y học uy tín nhất Cố Nguyên Giới, nơi hội tụ của những bậc thầy đan đạo và y sư tài năng nhất. Với tôn chỉ "Huyền Hồ Tế Thế, Cứu Nhân Độ Mệnh", cốc không chỉ là nơi tu luyện mà còn là trung tâm cứu trợ nhân đạo, nơi mọi sinh linh đều có quyền được chữa trị. Tông môn nắm giữ những bí thuật trường sinh và hồi phục huyền diệu, khiến họ nhận được sự kính trọng tuyệt đối từ cả chính đạo lẫn trung lập.
 
-## II. ĐỊA LÝ & TÀI NGUYÊN
-- **Vị Trí:** Nằm ở vùng đệm giữa Trung Thổ và Nam Cương, được bao bọc bởi Thiên Trụ Sơn hùng vĩ chặn đứng chướng khí từ phương Nam.
-- **Đặc Điểm Địa Hình:**
-    - Thung lũng bốn mùa như xuân, trăm hoa đua nở.
-    - **Linh Tuyền:** Dòng suối "Sinh Mệnh Chi Tuyền" chảy qua cốc, nước suối có khả năng chữa lành vết thương nhẹ tức thì.
-    - **Dược Viên:** Hàng ngàn mẫu ruộng bậc thang trồng linh dược, được chia thành các khu vực: Phàm Dược, Linh Dược, Tiên Dược (cấm địa).
-- **Tài Nguyên:**
-    - **Cửu Thiên Linh Mộc:** Một cây cổ thụ khổng lồ ở trung tâm cốc, tỏa ra mộc linh khí tinh thuần giúp tăng tốc độ sinh trưởng của thảo dược.
-    - **Thanh Mộc Tâm:** Gỗ lõi của các cây cổ thụ ngàn năm, dùng để chế tạo mộc bài chữa bệnh hoặc pháp bảo hệ Mộc.
-    - **Bách Thảo Lộ:** Sương sớm đọng trên trăm loại thảo dược, là nguyên liệu chính để luyện Dưỡng Sinh Đan.
+## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
+Tọa lạc trong một thung lũng biệt lập phía Nam chân núi Thiên Trụ, nơi khí hậu bốn mùa ôn hòa và linh khí mộc hệ tinh thuần. Trung tâm thung lũng là "Cửu Thiên Linh Mộc" - cây cổ thụ khổng lồ tỏa ra linh khí giúp thảo dược phát triển thần tốc. Cốc sở hữu "Sinh Mệnh Chi Tuyền", dòng suối có khả năng chữa lành vết thương và hàng ngàn mẫu dược điền trồng đủ loại linh thảo từ phàm cấp đến tiên cấp.
 
-## III. VĂN HÓA & TÍN NGƯỠNG
-- **Triết Lý:** "Huyền Hồ Tế Thế, Cứu Nhân Độ Mệnh" (Treo bầu cứu đời, cứu người qua vận hạn). Họ tin rằng người tu tiên không chỉ để trường sinh mà còn để bảo vệ sự sống.
-- **Quy Tắc (Môn Quy):**
-    - **Cấm Độc:** Tuyệt đối không được nghiên cứu hoặc sử dụng độc dược hại người. Đây là điều cấm kỵ nhất kể từ sau sự kiện Độc Cô Thiên Sát phản bội.
-    - **Y Đức:** Không phân biệt chính tà, hễ là bệnh nhân đến cửa cầu y đều phải cứu chữa (trừ những kẻ đại gian đại ác đã bị Thiên Đạo phán xét).
-    - **Bảo Mật:** Không tiết lộ bệnh tình của bệnh nhân.
-- **Phong Tục:**
-    - **Lễ Tế Xuân:** Vào ngày Lập Xuân, Cốc Chủ sẽ đích thân gieo hạt giống đầu tiên xuống Dược Viên để cầu mưa thuận gió hòa.
-    - **Nghĩa Chẩn:** Hàng tháng, các đệ tử sẽ xuống núi đi khắp nơi chữa bệnh miễn phí cho phàm nhân và tán tu nghèo.
+## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
+Tôn thờ sự sống và triết lý y đức cao cả. Đệ tử Dược Vương Cốc phải tuyên thệ không bao giờ sử dụng kiến thức để hại người. Văn hóa tông môn đề cao sự tỉ mỉ, lòng từ bi và tinh thần nghiên cứu khoa học. Họ thường xuyên tổ chức các buổi "Nghĩa Chẩn" xuống núi để chữa bệnh miễn phí cho phàm nhân, xây dựng hình ảnh tốt đẹp trong mắt vạn dân.
 
-## IV. CƠ CẤU TỔ CHỨC
-1.  **Cốc Chủ (Diệp Thanh Y):** Người nắm giữ "Thanh Nang Y Kinh" và có quyền điều động toàn bộ lực lượng tông môn.
-2.  **Tam Đại Y Tiên (Trưởng Lão Hội):**
-    - *Mộc Linh Tử:* Chuyên về trồng trọt và lai tạo giống linh dược.
-    - *Hồi Xuân Bà Bà:* Chuyên về châm cứu và chữa trị ngoại thương.
-    - *Đan Tâm Tử:* Chuyên về luyện đan dược chữa bệnh (đối lập với Đan Hà Cốc thiên về đan dược tu luyện/chiến đấu).
-3.  **Hệ Thống Đệ Tử:**
-    - **Y Sư (Nội Môn):** Đã tinh thông y lý, có thể độc lập chữa bệnh.
-    - **Dược Đồng (Ngoại Môn):** Chăm sóc dược viên, sơ chế thuốc.
-    - **Hộ Cốc Sứ:** Đệ tử chuyên tu chiến đấu để bảo vệ tông môn và các đoàn đi hái thuốc.
+## IV. Cơ Cấu Tổ Chức (组织结构)
+```mermaid
+graph TD
+    DVTG[Dược Vương Tôn Giả - Tổ Sư] --> CC[Cốc Chủ: Diệp Thanh Y]
+    CC --> HDTL[Hội Đồng Tam Đại Y Tiên]
+    HDTL --> YSĐ[Y Sư Đường]
+    HDTL --> ĐĐV[Đan Đạo Viện]
+    HDTL --> HCS[Hộ Cốc Sứ]
+    YSĐ --> YS[Y Sư]
+    ĐĐV --> LĐS[Luyện Đan Sư]
+    HCS --> CB[Chiến Binh Mộc Hệ]
+```
 
-## V. CÔNG PHÁP & TRẬN PHÁP
-- **Công Pháp Trấn Phái:** [Thanh Nang Trường Sinh Quyết](../Công_Pháp/Thanh_Nang_Trường_Sinh_Quyết.md)
-    - Thiên cấp trung phẩm. Tu luyện Mộc hệ linh lực đến mức cực hạn, mang lại khả năng hồi phục kinh người và tuổi thọ vượt xa cùng cảnh giới.
-- **Hộ Sơn Đại Trận:** **Vạn Mộc Hồi Xuân Trận** (Cửu Cấp).
-    - Khi kích hoạt, toàn bộ cây cối trong thung lũng biến thành những chiến binh khổng lồ (Mộc Nhân), đồng thời liên tục hồi phục linh lực cho người phe mình.
+## V. Công Pháp & Trận Pháp (功法 với阵法)
+- **Công Pháp:** *Thanh Nang Trường Sinh Quyết* (Chấn phái, tăng thọ nguyên và hồi phục), *Bách Thảo Tâm Kinh*.
+- **Trận Pháp:** *Vạn Mộc Hồi Xuân Trận* - đại trận phòng thủ cấp Hạng Nhất, có khả năng biến toàn bộ thực vật trong thung lũng thành các vệ binh mộc nhân và liên tục tịnh hóa mọi loại độc tố xâm nhập.
 
-## VI. LỊCH SỬ TÓM TẮT
-- **Sáng Lập:** Năm 75.000 (Khởi Nguyên) bởi **Dược Vương Tôn Giả**, một vị tán tu đắc đạo nhờ y thuật.
-- **Biến Cố (Năm 82.000):** Đệ tử thiên tài Độc Cô Thiên Sát lén lút nghiên cứu Độc Kinh trong Tàng Thư Các, bị phát hiện và trục xuất. Hắn đã đánh cắp một phần bí kíp và hạ độc nhiều đồng môn trước khi chạy trốn sang Nam Cương lập Vạn Độc Môn.
-- **Phát Triển:** Sau biến cố, Dược Vương Cốc càng siết chặt quy định về độc, đồng thời phát triển mạnh mẽ về y thuật để đối phó với các loại kỳ độc trong thiên hạ.
-- **Quan Hệ:**
-    - **Đồng Minh:** Hầu hết các môn phái Chính đạo đều nể trọng. Có quan hệ tốt với Đan Hà Cốc (trao đổi dược liệu).
-    - **Kẻ Thù:** Vạn Độc Môn (Kẻ thù truyền kiếp).
+## VI. Đặc Sản Môn Phái (门派特产)
+- **Hồi Xuân Đan:** Đan dược cực phẩm có thể kéo dài hơi tàn của người sắp chết.
+- **Thanh Mộc Châm:** Bộ kim châm làm từ lõi linh mộc, dùng để châm cứu khai thông kinh mạch hoặc tấn công huyệt đạo kẻ thù.
 
-## VII. GIAI THOẠI & BÍ MẬT
-- **Bí Mật Cửu Thiên Linh Mộc:** Tương truyền dưới gốc cây này chôn cất trái tim của một vị Mộc Thần thời Thượng Cổ, giúp cây có khả năng "Cải Tử Hoàn Sinh". Chỉ có Cốc Chủ mới biết cách đánh thức sức mạnh này.
-- **Lời Nguyền Y Giả:** Có lời đồn rằng người tu luyện Thanh Nang Trường Sinh Quyết đến đỉnh cao sẽ không thể tự chữa bệnh cho chính mình ("Dao sắc không gọt được chuôi").
-- **Dược Vương Mộ:** Nơi an nghỉ của các đời Cốc Chủ, được canh giữ bởi những con Thảo Dược Tinh Linh (Cỏ cây thành tinh). Kẻ nào xâm phạm sẽ bị biến thành phân bón cho cây.
+## VII. Cơ Sở Hạ Tầng (基础设施)
+- **Thanh Nang Điện:** Nơi lưu giữ các bộ y thư cổ và diễn ra các cuộc luận y cao cấp.
+- **Vườn Dược Cấm Địa:** Khu vực trồng các loài tiên dược ngàn năm, được canh giữ bởi các linh thú thực vật.
+
+## VIII. Kinh Tế (経済)
+Kinh tế cực kỳ vững mạnh dựa trên việc cung cấp đan dược chữa bệnh và dịch vụ y tế chuyên sâu cho các đại tông môn và hoàng gia. Họ cũng nắm giữ mạng lưới xuất khẩu dược liệu thô lớn nhất, là đối tác quan trọng của các thương hội hàng đầu như Bách Bảo Các.
+
+## IX. Lịch Sử Tóm Tắt (简史)
+Sáng lập bởi Dược Vương Tôn Giả, một tán tu đắc đạo nhờ việc cứu giúp hàng vạn người trong một trận đại dịch thời Khởi Nguyên. Sau biến cố phản bội của Độc Cô Thiên Sát (người sau này lập ra Vạn Độc Môn), Dược Vương Cốc đã siết chặt quy tắc môn quy và thề sẽ tiêu diệt mọi loại độc thuật gây hại cho thế gian.
+
+## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
+Tương truyền mỗi đời Cốc Chủ đều có khả năng nghe thấy tiếng nói của các loài cây cỏ, và dưới gốc Cửu Thiên Linh Mộc có chôn cất một viên "Mộc Linh Châu" có khả năng hồi sinh cả một vùng đất chết.
+
+## XI. Quan Hệ Thế Lực (势力关系)
+```mermaid
+graph LR
+    DVC[Dược Vương Cốc] -- Đồng minh -- CHKT[Cửu Hoa Kiếm Tông]
+    DVC -- Tử địch -- VDM[Vạn Độc Môn]
+    DVC -- Hợp tác -- TAM[Thái Ất Môn]
+    DVC -- Cung cấp -- DCHH[Đại Càn Hoàng Triều]
+```

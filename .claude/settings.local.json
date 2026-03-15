@@ -19,7 +19,12 @@
       "mcp__plugin_playwright_playwright__browser_take_screenshot",
       "mcp__plugin_playwright_playwright__browser_press_key",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8765/index.html 2>/dev/null || echo \"Server not running\")",
-      "mcp__plugin_playwright_playwright__browser_evaluate"
+      "mcp__plugin_playwright_playwright__browser_evaluate",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://127.0.0.1:8001/voices 2>/dev/null || echo \"NOT_RUNNING\")",
+      "Bash(curl -s -o /tmp/test_tts.mp3 -w \"HTTP %{http_code}, size: %{size_download} bytes\" \"https://tts.travisvn.com/api/tts?text=Xin+ch%C3%A0o&voice=vi-VN-HoaiMyNeural&rate=0%25\" 2>&1)"
     ]
+  },
+  "remote": {
+    "defaultEnvironmentId": "env_019mgh6TSNuVVByG6QnvWaKG"
   }
 }

@@ -1,86 +1,141 @@
 ---
 type: faction
-name: ĐAN HÀ CỐC
+name: Đan Hà Cốc
 hantu: 丹河谷
-faction_type: ''
+faction_type: Tông Môn
 alignment: 0
-race: ''
-region: Đông Hoang
-founded: ''
-founder: ''
-emblem: ''
-specialty: ''
-economy: []
+race: Nhân Tộc
+region: Nam Cương
+founded: Năm 80.000 (Kỷ Nguyên Khởi Nguyên)
+founder: Đan Hà Lão Tổ
+emblem: Lua_Va_Lo_Luyen_Dan.png
+specialty: Đan Đạo, Cửu Chuyển Đan Hỏa, Địa tâm luyện đan
+economy:
+- Buôn bán đan dược tu luyện và đột phá
+- Dịch vụ luyện đan theo yêu cầu (Phí cực cao)
+- Khai thác Hỏa Tinh Thạch và Địa Tâm Hỏa
 arcs:
-- arc: 1
-  status: Chưa Xác Định
-  rank: ''
-  leader: ''
-  population: 0
-  territory: []
-  assets: []
-  stats:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  divisions: []
-  relationships: []
+  - arc: 1
+    status: Hưng thịnh trung lập
+    rank: Hạng Nhất
+    leader: Cốc Chủ Đan Dương Tử
+    population: 6000
+    territory:
+      - Hỏa Diệm Sơn Mạch (Nam Cương)
+      - Dòng sông dung nham Đan Hà
+    assets:
+      - name: Đan Hà Đỉnh
+        type: Pháp Bảo
+      - name: Trận pháp "Vạn Hỏa Phần Thiên"
+        type: Trận Pháp
+      - name: Cửu Đan Tháp
+        type: Công Trình
+    stats: [6000, 14000, 10000, 8000, 12000, 11000]
+    divisions:
+      - name: Cửu Đan Tháp
+        role: Hội đồng quản lý các chuyên khoa luyện đan khác nhau
+        headcount:
+          thai_thuong: 1
+          ho_phap: 2
+          truong_lao: 9
+          chan_truyen: 50
+          noi_mon: 500
+          ngoai_mon: 2000
+          tap_dich: 1000
+        members:
+          - character: Đan Dương Tử
+            position: Cốc Chủ
+            cultivation: Hóa Thần Sơ Kỳ
+          - character: "[Trưởng Lão Đan Tâm]"
+            position: Trưởng Lão
+            cultivation: Nguyên Anh Hậu Kỳ
+            placeholder: true
+      - name: Hộ Pháp Đường
+        role: Lực lượng chiến đấu bảo vệ tông môn và áp tải đan dược
+        headcount:
+          thai_thuong: 0
+          ho_phap: 3
+          truong_lao: 10
+          chan_truyen: 30
+          noi_mon: 200
+          ngoai_mon: 1000
+          tap_dich: 200
+        members:
+          - character: "[Thống Lĩnh Hộ Pháp]"
+            position: Đường Chủ
+            cultivation: Nguyên Anh Trung Kỳ
+            placeholder: true
+    relationships:
+      - faction: Vạn Độc Môn
+        description: Kẻ thù không đội trời chung, tranh chấp tài nguyên dược liệu Nam Cương.
+        diplomacy:
+          lien_minh: -100
+          tin: -100
+          uy_hiep: 70
+          thuong_mai: -100
+          on_oan: -100
+          le_thuoc: 0
+      - faction: Đại Càn Hoàng Triều
+        description: Đối tác thương mại chiến lược, cung cấp đan dược cho quân đội.
+        diplomacy:
+          lien_minh: 40
+          tin: 60
+          uy_hiep: 0
+          thuong_mai: 100
+          on_oan: 0
+          le_thuoc: 0
 ---
 
 # ĐAN HÀ CỐC (丹河谷)
 
-## I. TỔNG QUAN
-- **Tên:** Đan Hà Cốc.
-- **Loại Hình:** Tông Môn (Trung Lập - Chuyên về Đan Đạo).
-- **Cấp Bậc:** Hạng Nhất (Thế lực luyện đan hàng đầu tại Nam Cương).
-- **Trụ Sở:** Hỏa Diệm Sơn Mạch (Fire Flame Mountain Range).
-- **Người Đứng Đầu:** Cốc Chủ - Đan Dương Tử (Hóa Thần Sơ Kỳ).
+## I. Tổng Quan (总览)
+Đan Hà Cốc là thế lực luyện đan hùng mạnh nhất khu vực phía Nam, nổi tiếng với kỹ thuật sử dụng địa hỏa và dòng sông dung nham để tôi luyện đan dược. Với phương châm "Lấy hỏa luyện tâm, lấy đan chứng đạo", tông môn này giữ vị thế trung lập tuyệt đối, sẵn sàng giao dịch với cả chính đạo lẫn ma đạo miễn là lợi nhuận đủ lớn. Tuy nhiên, họ cũng sở hữu một lực lượng hộ pháp mạnh mẽ để bảo vệ những bí mật đơn phương vô giá của mình.
 
-## II. ĐỊA LÝ & TÀI NGUYÊN
-- **Vị Trí:** Nằm sâu trong vùng Nam Cương nóng bức, nơi giao thoa của các mạch địa hỏa cổ xưa.
-- **Đặc Điểm Địa Hình:**
-    - Tông môn được xây dựng bên trong miệng của một ngọn núi lửa khổng lồ đã tắt (bề mặt), nhưng bên dưới vẫn còn hoạt động ngầm.
-    - Một dòng sông dung nham đỏ rực gọi là **Đan Hà** chảy xuyên qua đáy cốc, cung cấp hỏa lực vô tận cho việc luyện đan.
-    - Kiến trúc chủ yếu là các tháp đá đen chịu nhiệt, treo lơ lửng hoặc bám vào vách núi, nối với nhau bằng xích sắt khổng lồ.
-- **Tài Nguyên:**
-    - **Hỏa Linh Thảo:** Thảo dược quý hiếm mọc ven dòng Đan Hà, hấp thụ hỏa khí tinh thuần.
-    - **Địa Tâm Hỏa:** Ngọn lửa từ lòng đất, ổn định và nóng bỏng, giúp tăng tỷ lệ thành đan.
-    - **Hỏa Tinh Thạch:** Khoáng thạch chứa năng lượng hỏa, dùng để rèn lò luyện đan hoặc bố trí trận pháp.
+## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
+Trụ sở nằm bên trong miệng một ngọn núi lửa khổng lồ thuộc dãy Hỏa Diệm Sơn. Một dòng sông dung nham đỏ rực gọi là Đan Hà chảy xuyên qua trung tâm cốc, cung cấp nguồn hỏa năng ổn định và tinh thuần cho hàng ngàn lò luyện đan. Nơi đây sản sinh ra các loại linh thảo hỏa hệ cực phẩm và các khối hỏa tinh thạch vạn năm.
 
-## III. VĂN HÓA & TÍN NGƯỠNG
-- **Triết Lý:** "Lấy hỏa luyện tâm, lấy đan chứng đạo". Người tu luyện tại Đan Hà Cốc tin rằng quá trình luyện đan cũng chính là quá trình tôi luyện tâm tính. Lửa thử vàng, gian nan thử sức.
-- **Quy Tắc (Môn Quy):**
-    - Nghiêm cấm gian lận trong luyện đan (dùng dược liệu giả, ăn bớt nguyên liệu). Kẻ vi phạm sẽ bị phế bỏ hỏa căn, ném vào Vạn Xà Quật.
-    - Tuyệt đối giữ bí mật về các đơn phương (công thức) độc quyền của tông môn.
-    - Tôn trọng giao dịch công bằng. Đan Hà Cốc tuy trung lập nhưng rất sòng phẳng, "nhận tiền làm việc".
-- **Phong Tục:**
-    - **Lễ Tế Hỏa:** Tổ chức hàng năm vào ngày Hạ Chí. Cả tông môn sẽ dâng linh dược quý nhất vào dòng Đan Hà để tạ ơn Hỏa Thần.
-    - **Đan Hội:** Cuộc thi luyện đan quy mô lớn, thu hút đan sư từ khắp nơi về tranh tài. Người thắng cuộc sẽ được mời làm Khách Khanh Trưởng Lão.
+## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
+Tôn thờ Đan Hà Lão Tổ và tinh thần lao động sáng tạo trong ngọn lửa. Thành viên Đan Hà Cốc coi quá trình luyện đan là một hình thức thiền định cao cấp. Họ đề cao sự sòng phẳng, chữ tín trong giao dịch và kỹ năng thực tế. Hàng năm, "Đan Hội" là sự kiện lớn nhất thu hút các đan sư toàn lục địa về tranh tài.
 
-## IV. CƠ CẤU TỔ CHỨC
-1.  **Cốc Chủ (Đan Dương Tử):** Người nắm giữ "Đan Hà Đỉnh" (Tiên khí hạ phẩm), có quyền quyết định tối cao.
-2.  **Hội Đồng Trưởng Lão (Cửu Đan Tháp):**
-    - Gồm 9 vị Đan Sư cấp cao (Nguyên Anh kỳ), mỗi người cai quản một tòa tháp chuyên biệt (như Tháp Chữa Thương, Tháp Đột Phá, Tháp Độc Dược, Tháp Luyện Thể...).
-3.  **Hệ Thống Đệ Tử:**
-    - **Đan Sư (Nội Môn):** Những người đã luyện ra được đan dược cấp 3 trở lên. Được cấp lò luyện riêng và phòng luyện đan cao cấp.
-    - **Hỏa Đồng (Ngoại Môn):** Đệ tử mới nhập môn hoặc chưa thành thạo, chủ yếu làm nhiệm vụ canh lửa, sơ chế dược liệu.
-    - **Hộ Pháp Đường:** Nhóm đệ tử chuyên tu luyện chiến đấu (thường là những người không có khiếu luyện đan nhưng có Hỏa linh căn mạnh), chịu trách nhiệm bảo vệ tông môn và áp tải hàng hóa.
+## IV. Cơ Cấu Tổ Chức (组织结构)
+```mermaid
+graph TD
+    ĐHLT[Đan Hà Lão Tổ - Thủy Tổ] --> CC[Cốc Chủ: Đan Dương Tử]
+    CC --> HDTL[Hội Đồng Cửu Đan Tháp]
+    HDTL --> ĐSV[Đan Sư Viện]
+    HDTL --> HPĐ[Hộ Pháp Đường]
+    HDTL --> HTĐ[Hỏa Đồng Đường]
+    ĐSV --> ĐS[Đan Sư]
+    HPĐ --> VB[Vệ Binh Hỏa Hệ]
+    HTĐ --> ĐT[Đệ Tử Nhập Môn]
+```
 
-## V. CÔNG PHÁP & TRẬN PHÁP
-- **Công Pháp Trấn Phái:** [Cửu Chuyển Đan Hỏa Quyết](../Công_Pháp/Cửu_Chuyển_Đan_Hỏa_Quyết.md)
-    - Thiên cấp hạ phẩm. Tu luyện ra loại lửa đặc biệt vừa có thể luyện đan cực phẩm, vừa có sức công phá hủy diệt.
-- **Hộ Sơn Đại Trận:** [Vạn Hỏa Phần Thiên Trận](../Trận_Pháp/Vạn_Hỏa_Phần_Thiên_Trận.md)
-    - Cửu cấp trận pháp. Kích hoạt toàn bộ địa hỏa dưới lòng đất, biến cả vùng thung lũng thành biển lửa thiêu rụi mọi kẻ xâm nhập.
+## V. Công Pháp & Trận Pháp (功法 với阵法)
+- **Công Pháp:** *Cửu Chuyển Đan Hỏa Quyết* (Luyện hỏa thuật), *Vạn Dược Linh Thông* (Kiến thức dược liệu).
+- **Trận Pháp:** *Vạn Hỏa Phần Thiên Trận* - trận pháp hộ môn cấp 9, có khả năng kích hoạt toàn bộ địa hỏa dưới lòng đất để biến thung lũng thành một biển lửa thiêu rụi mọi kẻ xâm lược.
 
-## VI. LỊCH SỬ TÓM TẮT
-- **Sáng Lập:** Năm 80.000 (Kỷ Nguyên Khởi Nguyên) bởi **Đan Hà Lão Tổ**, một kỳ tài đan đạo đã tìm ra mạch địa hỏa này và lập tông.
-- **Phát Triển:** Nhờ vị trí đắc địa và nguồn đan dược chất lượng, Đan Hà Cốc nhanh chóng trở nên giàu có và có tiếng nói trọng lượng ở Nam Cương.
-- **Quan Hệ:** Giữ mối quan hệ giao thương tốt với hầu hết các thế lực lớn (kể cả Ma đạo), miễn là họ trả đủ giá. Tuy nhiên, họ có hiềm khích ngầm với **Vạn Độc Môn** do tranh chấp tài nguyên dược liệu.
+## VI. Đặc Sản Môn Phái (门派特产)
+- **Đan Hà Đỉnh:** Loại lò luyện đan đặc chế có khả năng chịu nhiệt và dẫn dụ linh hỏa cực tốt.
+- **Phá Cảnh Đan:** Đan dược hỗ trợ đột phá các cảnh giới lớn (Trúc Cơ, Kim Đan, Nguyên Anh) với tỷ lệ thành công cao.
 
-## VII. GIAI THOẠI & BÍ MẬT
-- **Truyền Thuyết Hỏa Long:** Tương truyền bên dưới dòng Đan Hà giam giữ linh hồn của một con Hỏa Long thời Thượng Cổ. Tiếng gầm của nó thỉnh thoảng vang lên tạo thành những đợt sóng nhiệt khổng lồ.
-- **Lời Nguyền Đan Dược:** Có lời đồn rằng bất kỳ ai dùng đan dược cực phẩm của Đan Hà Cốc để đột phá Nguyên Anh đều sẽ mắc phải một tâm ma kỳ lạ liên quan đến lửa.
-- **Mật Thất Của Tổ Sư:** Người ta tin rằng Đan Hà Lão Tổ chưa chết mà đã tự phong ấn mình trong một mật thất bí mật để luyện viên "Cửu Chuyển Hoàn Hồn Đan", chờ ngày tái xuất.
+## VII. Cơ Sở Hạ Tầng (基础设施)
+- **Cửu Đan Tháp:** Chín tòa tháp đá đen chuyên biệt cho từng loại đan dược và nghiên cứu.
+- **Đan Hà Luyện Phòng:** Hệ thống phòng luyện đan xây dựng trực tiếp trên các mạch dung nham.
+
+## VIII. Kinh Tế (経済)
+Nguồn thu khổng lồ từ việc độc quyền cung cấp các loại đan dược tu luyện và đột phá cho các thế lực lớn. Họ cũng là nhà cung cấp Hỏa Tinh Thạch và Địa Tâm Hỏa cho các luyện khí sư. Kinh tế của cốc đủ mạnh để thuê mướn các đại năng làm khách khanh trưởng lão.
+
+## IX. Lịch Sử Tóm Tắt (简史)
+Sáng lập vào năm 80.000 (Kỷ Nguyên Khởi Nguyên) bởi Đan Hà Lão Tổ, người đã tìm thấy mạch địa hỏa độc nhất vô nhị này. Tông môn đã nhanh chóng vươn lên trở thành thực thể kinh tế và kỹ thuật không thể thiếu tại Nam Cương, vượt qua nhiều cuộc chiến tranh tài nguyên để giữ vững độc lập.
+
+## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
+Tương truyền Đan Hà Lão Tổ vẫn đang bế quan trong mật thất sâu nhất dưới dòng Đan Hà để luyện chế một viên "Tiên Đan" có khả năng hồi sinh linh hồn đã tan biến.
+
+## XI. Quan Hệ Thế Lực (势力关系)
+```mermaid
+graph LR
+    ĐHC[Đan Hà Cốc] -- Đối tác -- DCHH[Đại Càn Hoàng Triều]
+    ĐHC -- Giao thương -- HBC[Huyền Băng Cung]
+    ĐHC -- Tử địch -- VDM[Vạn Độc Môn]
+    ĐHC -- Cạnh tranh -- LYT[Liệt Dương Tông]
+```

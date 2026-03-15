@@ -1,101 +1,136 @@
 ---
 type: faction
-name: 'THẾ LỰC: SA TẶC LIÊN MINH'
+name: Sa Tặc Liên Minh
 hantu: 沙贼联盟
-faction_type: ''
-alignment: 0
-race: ''
+faction_type: Liên Minh
+alignment: -5
+race: Nhân Tộc (Tán tu), Sa Tộc (Phản đồ)
 region: Tây Mạc
-founded: ''
-founder: ''
-emblem: ''
-specialty: ''
-economy: []
+founded: Năm Khởi Nguyên 98.000
+founder: Hắc Phong Đại Vương
+emblem: Dau_Lau_Va_Thanh_Dao_Gat.png
+specialty: Đột kích trong bão cát, Độn Sa thuật, Cướp bóc thương đoàn
+economy:
+- Cướp bóc và tống tiền thương đoàn
+- Buôn lậu tài nguyên và linh thảo sa mạc
+- Dịch vụ bảo kê đen cho các tổ chức tà đạo
 arcs:
-- arc: 1
-  status: Chưa Xác Định
-  rank: ''
-  leader: ''
-  population: 0
-  territory: []
-  assets: []
-  stats:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  divisions: []
-  relationships: []
+  - arc: 1
+    status: Hoạt động mạnh (Gây rối thương đạo)
+    rank: Hạng Ba (Nguy hiểm cục bộ)
+    leader: Minh Chủ Hắc Phong
+    population: 5000
+    territory:
+      - Hẻm núi Xích Nham
+      - Trại Hắc Phong (Ốc đảo Khô Tuyền)
+    assets:
+      - name: Hắc Phong Kỳ
+        type: Pháp Bảo
+      - name: Trận pháp "Tiểu Sa Bão"
+        type: Trận Pháp
+      - name: Đội quân Huyết Lang
+        type: Quân Lực
+    stats: [2500, 1500, 2000, 5000, 3000, 1200]
+    divisions:
+      - name: Huyết Lang Đội
+        role: Lực lượng tiên phong, tấn công trực diện cưỡi sói sa mạc
+        headcount:
+          minh_chu: 1
+          pho_minh_chu: 2
+          truong_lao: 5
+          su_gia: 10
+          thanh_vien_phai: 1000
+        members:
+          - character: Hắc Phong
+            position: Minh Chủ
+            cultivation: Trúc Cơ Hậu Kỳ
+          - character: "[Thống Lĩnh Huyết Lang]"
+            position: Đội Trưởng
+            cultivation: Trúc Cơ Sơ Kỳ
+            placeholder: true
+      - name: Ảnh Sa Đội
+        role: Trinh sát, ám sát và đặt bẫy rập trong cát
+        headcount:
+          minh_chu: 0
+          pho_minh_chu: 1
+          truong_lao: 3
+          su_gia: 5
+          thanh_vien_phai: 500
+        members:
+          - character: "[Đại Sư Ảnh Sa]"
+            position: Đội Trưởng
+            cultivation: Trúc Cơ Trung Kỳ
+            placeholder: true
+    relationships:
+      - faction: Thiên Sa Thương Hội
+        description: Tử địch, đối tượng cướp bóc và cũng là kẻ săn đuổi hàng đầu.
+        diplomacy:
+          lien_minh: -100
+          tin: -100
+          uy_hiep: 60
+          thuong_mai: -100
+          on_oan: -100
+          le_thuoc: 0
+      - faction: Vạn Độc Môn
+        description: Đối tác đen tối, cung cấp độc dược đổi lấy nhân lực và thông tin.
+        diplomacy:
+          lien_minh: 40
+          tin: 20
+          uy_hiep: 30
+          thuong_mai: 70
+          on_oan: 0
+          le_thuoc: 0
 ---
 
-# THẾ LỰC: SA TẶC LIÊN MINH (沙贼联盟)
+# SA TẶC LIÊN MINH (沙贼联盟)
 
-> *"Cát là cha, gió là mẹ, lưỡi dao là huynh đệ. Trên lưng lạc đà, mạng sống rẻ hơn nước."*
-> — Luật lệ của Sa Tặc
+## I. Tổng Quan (总览)
+Sa Tặc Liên Minh là một tập hợp lỏng lẻo của hàng chục băng đảng tội phạm lớn nhỏ hoạt động rải rác khắp vùng sa mạc Tây Mạc. Dưới sự thống nhất của Hắc Phong Đại Vương, liên minh này đã trở thành một thế lực tà đạo đáng gờm, chuyên thực hiện các vụ cướp bóc quy mô lớn nhắm vào các đoàn thương buôn giàu có. Họ nổi tiếng với sự tàn bạo, khả năng di chuyển linh hoạt trên lưng lạc đà và sói sa mạc, cùng các bí thuật ẩn mình dưới cát khiến các lực lượng hộ vệ vô cùng vất vả đối phó.
 
----
+## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
+Không có lãnh thổ cố định lâu dài để tránh sự vây quét của Thiên Sa Thương Hội. Tuy nhiên, căn cứ chính hiện tại là Trại Hắc Phong, ẩn mình trong hệ thống hang động ngầm dưới ốc đảo khô cạn Khô Tuyền Châu. Tài nguyên của họ là những của cải cướp bóc được tích trữ và mạng lưới các trạm dừng chân bí mật giữa các khe núi đá Xích Nham.
 
-## I. TỔNG QUAN
-- **Tên:** Sa Tặc Liên Minh (Sand Bandit Alliance).
-- **Phân Loại:** Thế lực tà đạo / Băng đảng tự phát (Hạng Ba - Tam Lưu).
-- **Vị Trí:** Rải rác khắp Tây Mạc, không có căn cứ cố định. Thường ẩn náu trong các hẻm núi đá (Xích Nham Sơn Mạch) hoặc ốc đảo bí mật.
-- **Thủ Lĩnh:** "Hắc Phong" (Hắc Phong Đại Vương).
-- **Quy Mô:** Khoảng 3000-5000 thành viên, chia thành nhiều toán nhỏ.
-- **Đặc Điểm:** Tàn bạo, cơ động, am hiểu địa hình sa mạc, chuyên cướp bóc thương đoàn và bắt cóc tống tiền.
+## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
+Tôn thờ chủ nghĩa sức mạnh và tự do vô luật pháp. Sa tặc tin rằng sa mạc là của những kẻ dám cầm dao đoạt lấy nó. Văn hóa của liên minh mang đậm tính hoang dã, trọng nghĩa khí huynh đệ trong băng nhóm nhưng cực kỳ tàn nhẫn với kẻ ngoại lai. Nghi lễ "Uống Máu Ăn Thề" là cách duy nhất để gắn kết các thủ lĩnh băng đảng lại với nhau.
 
----
+## IV. Cơ Cấu Tổ Chức (组织结构)
+```mermaid
+graph TD
+    MC[Minh Chủ: Hắc Phong] --> HDTL[Hội Đồng Thủ Lĩnh Băng Đảng]
+    HDTL --> HLĐ[Huyết Lang Đội]
+    HDTL --> ASĐ[Ảnh Sa Đội]
+    HDTL --> TGĐ[Thiết Giáp Đội]
+    HLĐ --> CB[Chiến Binh Cưỡi Sói]
+    ASĐ --> ST[Sát Thủ Độn Sa]
+    TGĐ --> HB[Hành Binh]
+```
 
-## II. TỔ CHỨC & CẤU TRÚC
+## V. Công Pháp & Trận Pháp (功法 với阵法)
+- **Công Pháp:** *Cuồng Sa Quyết* (Tăng cường sức mạnh vật lý trong bão cát), *Độn Sa Thuật* (Ẩn thân dưới cát).
+- **Trận Pháp:** *Tiểu Sa Bão Trận* - trận pháp sơ cấp kết hợp linh lực của nhiều người để tạo ra những trận gió cát nhân tạo, làm nhiễu loạn tầm nhìn và thần thức của đối phương trong các cuộc phục kích.
 
-### 1. Lãnh Đạo Cao Nhất
-- **Minh Chủ:** Hắc Phong (Trúc Cơ Hậu Kỳ).
-    - Một tu sĩ Phong hệ hung hãn, sở hữu pháp bảo *Hắc Phong Kỳ* có thể triệu hồi bão cát nhỏ. Hắn là người đã thống nhất các băng đảng nhỏ lẻ thành một liên minh để đối trọng với [Thiên Sa Thương Hội](../Thế_Lực/Thiên_Sa_Thương_Hội.md).
+## VI. Đặc Sản Môn Phái (门派特产)
+- **Sa Tặc Đao:** Loại đao bản rộng, lưỡi răng cưa chuyên dùng để gây ra các vết thương sâu và mất máu nhiều.
+- **Bột Mù Sa Mạc:** Loại bột mịn trộn linh lực, khi tung ra sẽ tạo ra một vùng không gian không thể sử dụng thần thức để dò tìm.
 
-### 2. Các Nhóm Chính (Chi Đội)
-- **Huyết Lang Đội:**
-    - Chuyên tấn công trực diện, cưỡi [Huyết Độc Lang](../Kỳ_Vật/Huyết_Độc_Lang.md) (mua từ Vạn Độc Môn) hoặc Sói Sa Mạc.
-    - Phong cách chiến đấu điên cuồng, không sợ chết.
-- **Ảnh Sa Đội:**
-    - Chuyên về trinh sát, ám sát và đặt bẫy. Các thành viên giỏi thuật ẩn mình trong cát (Độn Sa Thuật).
-    - Thường đóng giả làm lữ khách lạc đường để dụ con mồi.
-- **Thiết Giáp Đội:**
-    - Sử dụng giáp xác của Kim Giáp Yết làm khiên chắn, chịu trách nhiệm cản đường và vây hãm xe hàng.
+## VII. Cơ Sở Hạ Tầng (基础设施)
+- **Hắc Phong Trại:** Pháo đài gỗ và đá được ngụy trang bằng các trận pháp ảo giác cấp thấp.
+- **Hầm Chứa Hàng:** Hệ thống kho chứa bí mật nằm sâu dưới các cồn cát.
 
----
+## VIII. Kinh Tế (経済)
+Nền kinh tế hoàn toàn dựa trên việc chiếm đoạt. Sa tặc cướp bóc mọi thứ từ linh thạch, lương thực đến cả con người để bán làm nô lệ. Họ cũng nhận tiền từ các thế lực ma đạo lớn hơn để thực hiện các nhiệm vụ phá hoại thương lộ hoặc bắt cóc các mục tiêu cụ thể.
 
-## III. CHIẾN THUẬT & SỨC MẠNH
+## IX. Lịch Sử Tóm Tắt (简史)
+Được hình thành từ những nhóm tu sĩ thất bại và những kẻ bị trục xuất khỏi tộc Sa Tộc. Hắc Phong, một tu sĩ Phong hệ xảo quyệt, đã dùng vũ lực và lợi ích để liên kết các nhóm này lại vào khoảng 2000 năm trước, biến Sa Tặc Liên Minh thành một cái gai không thể nhổ sạch trong mắt Thiên Sa Thương Hội.
 
-### Chiến Thuật "Sói Săn Mồi"
-1.  **Trinh Sát:** Dùng Sa Ưng hoặc Ảnh Sa Đội để xác định lộ trình và sức mạnh hộ vệ của thương đoàn.
-2.  **Vây Hãm:** Kích hoạt bẫy cát lún hoặc trận pháp *Tiểu Sa Bão* để làm rối loạn đội hình địch.
-3.  **Tấn Công:** Lợi dụng tầm nhìn hạn chế trong bão cát, Huyết Lang Đội lao vào cận chiến, trong khi cung thủ bắn tên độc từ xa.
-4.  **Rút Lui:** Nếu gặp đối thủ quá mạnh (như Kim Đan Kỳ), lập tức tản ra chui xuống cát (Độn Sa) và hẹn gặp lại ở điểm tập kết bí mật.
+## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
+Tương truyền Hắc Phong sở hữu một tấm bản đồ dẫn đến một "Kho Báu Cát" vĩ đại, nơi lưu giữ toàn bộ số linh thạch bị mất tích của các thương đoàn trong suốt một vạn năm qua.
 
-### Sức Mạnh
-- Đa phần thành viên là Luyện Khí Kỳ (Tầng 4-9).
-- Các đội trưởng thường là Trúc Cơ Sơ Kỳ.
-- Sức mạnh thực sự nằm ở sự am hiểu địa hình và khả năng phối hợp trong môi trường khắc nghiệt mà tu sĩ bên ngoài không quen thuộc.
-
----
-
-## IV. QUAN HỆ NGOẠI GIAO
-
-- **Với Thiên Sa Thương Hội:** Kẻ thù không đội trời chung. Thương Hội thường xuyên treo thưởng cao cho đầu của các thủ lĩnh Sa Tặc.
-- **Với Vạn Độc Môn:** Quan hệ "đối tác đen tối".
-    - Vạn Độc Môn cung cấp độc dược, cổ trùng và vũ khí độc cho Sa Tặc.
-    - Đổi lại, Sa Tặc cung cấp thông tin, bắt cóc vật thí nghiệm (tu sĩ, người dân) và quấy rối các thế lực thù địch của Vạn Độc Môn khi cần.
-- **Với Sa Tộc:** Quan hệ phức tạp. Một số Sa Tặc vốn là người Sa Tộc bị trục xuất. Sa Tộc coi Sa Tặc là nỗi ô nhục và thường tiêu diệt nếu gặp, nhưng cũng có những bộ lạc nhỏ lén lút giao dịch với Sa Tặc để sinh tồn.
-
----
-
-## V. VAI TRÒ TRONG CỐT TRUYỆN
-
-- **Chương 11 & 12:**
-    - Sa Tặc Liên Minh, dưới sự chỉ đạo ngầm của [Lệ Vô Tâm](../Nhân_Vật/Lệ_Vô_Tâm.md), đã tăng cường hoạt động nhằm cắt đứt đường tiếp tế dược liệu từ Tây Mạc về Trung Thổ và Nam Cương.
-    - Chúng phục kích nhóm của [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md) trong [Hắc Sa Bão](../Thế_Giới_Và_Thời_Gian/Hắc_Sa_Bão.md) nhưng bị đẩy lùi.
-    - Sự trỗi dậy của Sa Tặc là dấu hiệu cho thấy bàn tay của Vạn Độc Môn đã vươn dài đến tận Tây Mạc.
-
-## VI. CĂN CỨ BÍ MẬT
-- **Hắc Phong Trại:** Một hệ thống hang động ngầm dưới lòng một ốc đảo đã khô cạn (Khô Tuyền Châu), được che giấu bằng ảo trận. Đây là nơi chứa của cải cướp bóc và giam giữ tù nhân.
+## XI. Quan Hệ Thế Lực (势力关系)
+```mermaid
+graph LR
+    STLM[Sa Tặc Liên Minh] -- Tử địch -- TSTH[Thiên Sa Thương Hội]
+    STLM -- Đối tác -- VDM[Vạn Độc Môn]
+    STLM -- Phụ thuộc -- HSCQ[Hoàng Sa Cổ Quốc]
+    STLM -- Đối địch -- TLTV[Thanh Lương Thủ Vệ]
+```
