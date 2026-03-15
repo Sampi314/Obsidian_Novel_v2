@@ -782,6 +782,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00006_Bóng_Tối_Ma_Phong.md",
       "title": "Chương 6: Bóng Tối Ma Phong"
+    },
+    {
+      "filename": "Chương_00007_Đêm_Máu_Ma_Phong.md",
+      "title": "Chương 7: Đêm Máu Ma Phong"
+    },
+    {
+      "filename": "Chương_00008_Trăng_Khuyết_Trảm.md",
+      "title": "Chương 8: Trăng Khuyết Trảm"
+    },
+    {
+      "filename": "Chương_00009_Vết_Thương_Của_Sói.md",
+      "title": "Chương 9: Vết Thương Của Sói"
+    },
+    {
+      "filename": "Chương_00010_Dấu_Vết_Về_Phương_Nam.md",
+      "title": "Chương 10: Dấu Vết Về Phương Nam"
     }
   ],
   "Góc_Nhìn_Lâm_Phong": [

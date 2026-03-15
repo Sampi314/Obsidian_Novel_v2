@@ -95,7 +95,7 @@
 - [x] **Diệp Thanh Y** (`Góc_Nhìn_Diệp_Thanh_Y/`): Đã viết ch 6-10. Chủ đề: Hành trình y sư, cứu trị Huyết Thần Độc, liên minh Y-Đan, thanh tẩy mạch đất.
 - [x] **Độc Cô Lão Quái** (`Góc_Nhìn_Độc_Cô_Lão_Quái/`): Đã viết ch 4-7. Chủ đề: Âm mưu tà đạo, kiểm soát trùng, Đại Trận.
 - [x] **Hắc Hạt Ma Trùng** (`Góc_Nhìn_Hắc_Hạt_Ma_Trùng/`): Đã viết ch 7-10. Chủ đề: Tiến hóa, ký ức thượng cổ, trỗi dậy, hướng về Tây Mạc.
-- [ ] **Hàn Thanh Nguyệt** (`Góc_Nhìn_Hàn_Thanh_Nguyệt/`): Viết ch 7-10. Chủ đề: Sinh tồn sát thủ, mạng lưới Huyết Tinh Sa.
+- [x] **Hàn Thanh Nguyệt** (`Góc_Nhìn_Hàn_Thanh_Nguyệt/`): Đã viết ch 7-10. Đột kích Vọng Hải Lầu, phát hiện tổ chức Huyết Sát Minh đứng sau Châu Kỳ Sơn.
 - [ ] **Lục Trần** (`Góc_Nhìn_Lục_Trần/`): Viết ch 7-10. Chủ đề: Kiếm đạo hộ thế, gián điệp, liên minh.
 - [ ] **Ngô Công Trưởng Lão** (`Góc_Nhìn_Ngô_Công_Trưởng_Lão/`): Viết ch 7-10. Chủ đề: Phục thù, ngũ độc, quay về.
 - [ ] **Phương Vô Kỵ** (`Góc_Nhìn_Phương_Vô_Kỵ/`): Viết ch 7-10. Chủ đề: Trận pháp cổ, mưu mẹo, chìa khóa.
