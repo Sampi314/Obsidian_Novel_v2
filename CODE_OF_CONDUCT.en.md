@@ -1,5 +1,3 @@
-<div align="right">[ [ 🇻🇳 Xem Bản Tiếng Việt ] ](./CODE_OF_CONDUCT.md)</div>
-
 # 🤝 Code of Conduct
 
 ## 🌟 Project Commitment
