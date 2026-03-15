@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ ở khu vực khác như Bắc Băng (Lý Tuyết Ưng, Sở Lăng Sương, Triệu Thanh Hằng) hoặc Đông Hoang (Lục Ly, Nguyệt Dao, Nham Thần, Lục Tiêu). Tuyến Nam Cương đã hoàn thành xong ch 7-10 cho tất cả 8 nhân vật phụ.
+1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ ở khu vực khác như Bắc Băng (Sở Lăng Sương, Triệu Thanh Hằng) hoặc Đông Hoang (Lục Ly, Nguyệt Dao, Nham Thần, Lục Tiêu). Tuyến Nam Cương đã hoàn thành xong ch 7-10 cho tất cả 8 nhân vật phụ.
 2. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc.
 3. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 97, 98... cho Góc Nhìn Lâm Phong nếu cần thiết để theo kịp mạch truyện chính (sau trận chiến Rừng Ảo Ảnh).
 
@@ -101,7 +101,7 @@
 - [x] **Phương Vô Kỵ** (`Góc_Nhìn_Phương_Vô_Kỵ/`): Đã viết ch 7-10. Phát hiện "chìa khóa" khống chế Huyết Tế Đài và Đại Trận, tham gia trò chơi quyền lực, hướng về Tây Mạc.
 
 **Bắc Băng (2 nhân vật):**
-- [ ] **Sở Lăng Sương** (`Góc_Nhìn_Sở_Lăng_Sương/`): Viết ch 7-10. Chủ đề: Sương độc, truy vết, Băng Ngục Thành.
+- [ ] **Sở Lăng Sương** (`Góc_Nhìn_Sở_Lăng_Sương/`): Đã viết ch 5-8, cần viết tiếp ch 9-10. Chủ đề: Sương độc, truy vết Huyết Tinh Sa, phá hủy Huyết Trì ở Băng Ngục Thành.
 - [ ] **Triệu Thanh Hằng** (`Góc_Nhìn_Triệu_Thanh_Hằng/`): Viết ch 7-10. Chủ đề: Kiếm đạo tự ngộ, ân oán, Huyết Sát Minh.
 
 **Đông Hoang (4 nhân vật):**

@@ -84,6 +84,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00004_Cường_Đạo_Tuyết_Sơn.md",
       "title": "Chương 4: Cường Đạo Tuyết Sơn"
+    },
+    {
+      "filename": "Chương_00005_Bóng_Đen_Huyết_Tinh_Sa.md",
+      "title": "Chương 5: Bóng Đen Huyết Tinh Sa"
+    },
+    {
+      "filename": "Chương_00006_Băng_Ngục_Đồn_Trú_Tiền_Tuyến.md",
+      "title": "Chương 6: Băng Ngục Đồn Trú Tiền Tuyến"
+    },
+    {
+      "filename": "Chương_00007_Cơn_Mưa_Băng_Kiếm.md",
+      "title": "Chương 7: Cơn Mưa Băng Kiếm"
+    },
+    {
+      "filename": "Chương_00008_Thâm_Nhập_Băng_Ngục_Thành.md",
+      "title": "Chương 8: Thâm Nhập Băng Ngục Thành"
     }
   ],
   "Góc_Nhìn_Triệu_Thanh_Hằng": [
