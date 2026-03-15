@@ -636,6 +636,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00140_Sự_Chuyển_Giao_Nóng_Lạnh.md",
       "title": "Chương 140: Sự Chuyển Giao Nóng Lạnh"
+    },
+    {
+      "filename": "Chương_00141_Đứng_Cùng_Kẻ_Xấu.md",
+      "title": "Chương 141: Đứng Cùng Kẻ Xấu"
+    },
+    {
+      "filename": "Chương_00142_Mùi_Sương_Và_Sát_Khí.md",
+      "title": "Chương 142: Mùi Sương Và Sát Khí"
+    },
+    {
+      "filename": "Chương_00143_Đốm_Lửa_Đen_Trong_Sương.md",
+      "title": "Chương 143: Đốm Lửa Đen Trong Sương"
+    },
+    {
+      "filename": "Chương_00144_Vầng_Sáng_Dưới_Bầu_Trời_Xám.md",
+      "title": "Chương 144: Vầng Sáng Dưới Bầu Trời Xám"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -1084,6 +1100,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00092_Bão_Trước_Bình_Minh.md",
       "title": "Chương 92: Bão Trước Bình Minh"
+    },
+    {
+      "filename": "Chương_00093_Khấu_Kiến_Nữ_Vương.md",
+      "title": "Chương 93: Khấu Kiến Nữ Vương"
+    },
+    {
+      "filename": "Chương_00094_Giăng_Bẫy_Rừng_Sương.md",
+      "title": "Chương 94: Giăng Bẫy Rừng Sương"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

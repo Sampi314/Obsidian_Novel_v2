@@ -118,3 +118,5 @@
 - [Chương 90: Phá Vòng Vây Tới Vương Đình](Chương_00090_Phá_Vòng_Vây_Tới_Vương_Đình.md)
 - [Chương 91: Khấu Kiến Nữ Vương](Chương_00091_Khấu_Kiến_Nữ_Vương.md)
 - [Chương 92: Bão Trước Bình Minh](Chương_00092_Bão_Trước_Bình_Minh.md)
+- [Chương 93: Khấu Kiến Nữ Vương](Chương_00093_Khấu_Kiến_Nữ_Vương.md)
+- [Chương 94: Giăng Bẫy Rừng Sương](Chương_00094_Giăng_Bẫy_Rừng_Sương.md)
