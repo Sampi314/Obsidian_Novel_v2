@@ -1,4 +1,6 @@
-# 🛠️ Maintenance & Content Standards (Internal Maintenance Guide)
+<div align="right">[ [ 🇻🇳 Xem Bản Tiếng Việt ] ](./CONTRIBUTING.md)</div>
+
+# 🛠️ Maintenance & Content Standards
 
 > [!CAUTION]
 > **PRIVATE PROJECT - NO PUBLIC CONTRIBUTIONS ACCEPTED**
