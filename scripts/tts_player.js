@@ -559,21 +559,24 @@
         document.body.appendChild(fab);
     }
 
-    // ── Click-to-read on paragraphs ──
+    // ── Double-click to read from any paragraph ──
     function setupClickToRead() {
         state.elements = getReadableElements();
         state.elements.forEach(function(el, idx) {
             el.style.cursor = 'pointer';
-            el.title = 'Nhấn để đọc từ đây';
-            el.addEventListener('click', function() {
-                if (!state.playing) {
-                    state.currentIndex = idx;
-                    var bar = document.getElementById('tts-bar');
-                    var fab = document.getElementById('tts-fab');
-                    if (bar) bar.classList.add('tts-bar-visible');
-                    if (fab) fab.classList.add('tts-fab-hidden');
-                    handlePlay();
-                }
+            el.title = 'Nhấn đúp để đọc từ đây';
+            el.addEventListener('dblclick', function() {
+                // Stop any current playback first
+                cancelCurrentAudio();
+                state.playing = false;
+                state.paused = false;
+
+                state.currentIndex = idx;
+                var bar = document.getElementById('tts-bar');
+                var fab = document.getElementById('tts-fab');
+                if (bar) bar.classList.add('tts-bar-visible');
+                if (fab) fab.classList.add('tts-fab-hidden');
+                handlePlay();
             });
         });
     }
