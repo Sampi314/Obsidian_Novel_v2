@@ -69,8 +69,8 @@
             // Reader mode: parse from ?file= param
             // e.g. "Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00001_Dấu_Hiệu_Tai_Ương.md"
             var parts = readerFile.split('/').filter(function(p) { return p !== ''; });
-            currentFilename = parts.pop() || '';
-            currentPov = parts.pop() || '';
+            currentFilename = decodeURIComponent(parts.pop() || '');
+            currentPov = decodeURIComponent(parts.pop() || '');
         } else {
             // Legacy mode: parse from pathname
             var path = window.location.pathname;

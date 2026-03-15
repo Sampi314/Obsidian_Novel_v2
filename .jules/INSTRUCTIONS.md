@@ -14,9 +14,9 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 88 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 90 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 134 | Arc 13 — Con Đường Về Nhà | Đang viết |
+| Góc Nhìn A Ngốc | 136 | Arc 13 — Con Đường Về Nhà | Đã hoàn thành Arc 13 |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,8 +66,8 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 13 (Con Đường Về Nhà), viết tiếp Chương 133 trở đi cho Góc Nhìn A Ngốc.
-2. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 89, 90... cho Góc Nhìn Lâm Phong. Hành trình mang mảnh vỡ Huyết Liên đến Vương Đình.
+1. **Redesign A Ngốc (Task 8)**: Bắt đầu Arc 14 (Hồn Nhiên Tử), viết tiếp Chương 137 trở đi cho Góc Nhìn A Ngốc.
+2. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 91, 92... cho Góc Nhìn Lâm Phong. Giao nộp mảnh vỡ Huyết Liên cho Nữ Vương Nguyệt Dao và chuẩn bị chống lại cuộc tấn công của Huyết Sát Minh.
 3. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ để đồng bộ dòng thời gian chung.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
@@ -75,8 +75,8 @@
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 89, 90... cho Góc Nhìn Lâm Phong.
-- Hành trình mang mảnh vỡ Huyết Liên đến Tinh Linh Vương Đình và các cuộc tập kích của Huyết Sát Minh.
+- Tiếp tục viết chương 91, 92... cho Góc Nhìn Lâm Phong.
+- Giao nộp mảnh vỡ Huyết Liên cho Nữ Vương Nguyệt Dao và chuẩn bị chống lại cuộc tấn công của Huyết Sát Minh.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
@@ -168,9 +168,9 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã viết Chương 135-136 cho Góc Nhìn A Ngốc (Hoàn thành Arc 13). Lệ Vô Tâm gặp Thiết Ngưu, một nạn nhân sống sót từ cuộc tàn sát trước đây của hắn. Lệ Vô Tâm để A Ngốc chữa trị cho Thiết Ngưu, sau đó dùng gã để tung tin đồn về "Hồn Nhiên Tử" nhằm khiêu khích Huyết Sát Minh. Lệ Vô Tâm bắt đầu chuyển từ thế bị động sang chủ động dùng A Ngốc như một nước cờ lớn.
+> Đã viết Chương 89-90 cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong bị Huyết Tôn (Trúc Cơ Viên Mãn) vây hãm bằng Huyết Sát Phục Ma Trận ngay trước cửa ngõ Tinh Linh Vương Đình. Dựa vào thính giác và khứu giác hoang dã, Lâm Phong dùng cung tên phá vỡ các mắt trận, giúp cả nhóm phá vây thành công, vào được Vương Đình và gặp gỡ Lục Tiêu.
 > Đã viết Chương 133-134 cho Góc Nhìn A Ngốc (Arc 13). A Ngốc và Lệ Vô Tâm bắt gặp Huyết Thần Độc biến thể ở Trấn Bán Nguyệt. Dưới sự ảnh hưởng của sự thấu cảm trong sáng từ A Ngốc, Lệ Vô Tâm đã tự nguyện thu hồi sát ý, không tàn sát nhóm Huyết Sát Minh mà chỉ dùng thuốc ngủ, và hai người cùng nhau thanh tẩy giếng nước bị nhiễm độc.
-> Đã viết Chương 131-132 cho Góc Nhìn A Ngốc (Arc 13). A Ngốc và Lệ Vô Tâm dọn dẹp Huyết Thi tại một hẻm núi và cứu một thôn nhỏ. Sự tương phản giữa "Ông kẹ" Lệ Vô Tâm dùng lưới băng bạo lực và "Thiên thần" A Ngốc dùng Hỗn Độn chi lực êm đềm khiến Lệ Vô Tâm bắt đầu thấy xấu hổ và tội lỗi vì những gì mình đã gây ra.
-> Đã viết Chương 87-88 cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong bị các đội tinh anh Huyết Sát Minh truy sát gắt gao trong rừng rậm. Mảnh vỡ Huyết Liên thao túng tâm trí Lâm Phong khiến hắn suýt mất kiểm soát, buộc Diệp Tĩnh Sương phải dùng Băng Phong Thiên Lý để trấn áp và tạo đường lui khẩn cấp.
 
 ---
 

@@ -114,3 +114,5 @@
 - [Chương 86: Mảnh Vỡ Tai Ương](Chương_00086_Mảnh_Vỡ_Tai_Ương.md)
 - [Chương 87: Cuộc Săn Trong Rừng Rậm](Chương_00087_Cuộc_Săn_Trong_Rừng_Rậm.md)
 - [Chương 88: Ảo Ảnh Huyết Liên](Chương_00088_Ảo_Ảnh_Huyết_Liên.md)
+- [Chương 89: Huyết Trận Chặn Đường](Chương_00089_Huyết_Trận_Chặn_Đường.md)
+- [Chương 90: Phá Vòng Vây Tới Vương Đình](Chương_00090_Phá_Vòng_Vây_Tới_Vương_Đình.md)

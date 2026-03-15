@@ -18,6 +18,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 135-136 (Góc Nhìn A Ngốc) & Chương 89-90 (Góc Nhìn Lâm Phong) | Hoàn Thành | A Ngốc kết thúc Arc 13 bằng việc chữa trị cho Thiết Ngưu. Lệ Vô Tâm tung tin Hồn Nhiên Tử ra giang hồ để thao túng các thế lực. Nhóm Lâm Phong bị bao vây bởi Huyết Tôn và trận pháp ở cửa ngõ Tinh Linh Vương Đình. Lâm Phong tìm ra mắt trận và phá vây thành công. |
 | Hôm nay | Tổng Quản | Viết Chương 133-134 (Góc Nhìn A Ngốc) | Hoàn Thành | A Ngốc và Lệ Vô Tâm đối mặt với dịch Huyết Thần Độc biến thể ở Trấn Bán Nguyệt. Lệ Vô Tâm kiềm chế sát khí, cùng A Ngốc thanh tẩy nguồn nước. Tạo file scripts/relationship_data.js. |
 | Hôm nay | Tổng Quản | Viết Chương 131-132 (Góc Nhìn A Ngốc) & Chương 87-88 (Góc Nhìn Lâm Phong) | Hoàn Thành | A Ngốc và Lệ Vô Tâm dọn dẹp Huyết Thi tại chiến trường, Lệ Vô Tâm bắt đầu thấy tội lỗi. Nhóm Lâm Phong bị bao vây bởi Huyết Sát Minh, Mảnh vỡ Huyết Liên thao túng Lâm Phong khiến Diệp Tĩnh Sương phải dùng Băng Phong để trấn áp. |
 | Hôm nay | Tổng Quản | Viết Chương 125-128 (Góc Nhìn A Ngốc) & Chương 83-84 (Góc Nhìn Lâm Phong) | Hoàn Thành | Lệ Vô Tâm chủ động ở lại với A Ngốc, quyết định bảo vệ hắn và cố múa bài múa của A Ngốc. A Ngốc đột phá Nguyên Anh Sơ Kỳ. Lâm Phong chạm trán Kim Đan Kỳ của Huyết Sát Minh và mảnh vỡ Huyết Liên lộ diện. |
@@ -31,6 +32,7 @@
 | Hôm nay | Tổng Quản | Viết Chương 107-108 (Góc Nhìn A Ngốc) | Hoàn Thành | Tiếp tục Arc 11. Lệ Vô Tâm kiềm chế bản tính, hạ gục sa tặc bằng thuốc ngủ và dùng kết giới bảo vệ thương đoàn khỏi Hắc Sa Bão. |
 
 ## GHI CHÚ GẦN ĐÂY
+- **Hôm nay:** Viết Chương 135-136 (A Ngốc) và 89-90 (Lâm Phong). Lệ Vô Tâm đụng độ Thiết Ngưu (nạn nhân cũ) và cho A Ngốc chữa trị cho gã. Sau đó, Lệ Vô Tâm sai Thiết Ngưu lan truyền tin tức về Hồn Nhiên Tử. Nhóm Lâm Phong bị Huyết Tôn vây hãm bằng trận pháp ở cửa Vương Đình, Lâm Phong dùng cung tên độc phá mắt trận và cùng đồng đội chạy thoát vào trong gặp Lục Tiêu.
 - **Hôm nay:** Viết Chương 133-134 (A Ngốc). Lệ Vô Tâm và A Ngốc đi tới Trấn Bán Nguyệt và phát hiện Huyết Thần Độc biến thể. Dưới sự ảnh hưởng của A Ngốc, Lệ Vô Tâm đã tự kiềm chế sát tâm, không tàn sát kẻ thù mà cùng A Ngốc thanh tẩy nguồn nước. Khởi tạo file dữ liệu quan hệ cho Agent Quan Hệ.
 - **Hôm nay:** Viết Chương 131-132 (A Ngốc) và 87-88 (Lâm Phong). A Ngốc cùng Lệ Vô Tâm thanh tẩy Huyết Thi ở chiến trường và một thôn nhỏ. Sự đối lập giữa "Ác ma" Lệ Vô Tâm dùng lưới băng tàn bạo và "Thiên thần" A Ngốc dùng Hỗn Độn chi lực êm đềm khiến Lệ Vô Tâm nhận ra tội lỗi. Nhóm Lâm Phong bị Huyết Sát Minh bao vây trong hẻm núi; Mảnh vỡ Huyết Liên ảnh hưởng đến Lâm Phong, khiến Diệp Tĩnh Sương phải dùng băng để bảo vệ.
 - **Hôm nay:** Viết Chương 125-128 (A Ngốc) và 83-84 (Lâm Phong). A Ngốc và Lệ Vô Tâm rời Vương Đình, Lệ Vô Tâm có sự chuyển biến mạnh mẽ, bảo vệ A Ngốc, A Ngốc đột phá Nguyên Anh Sơ Kỳ. Lâm Phong cùng nhóm phát hiện âm mưu của Huyết Sát Minh và chuẩn bị tranh đoạt mảnh vỡ Huyết Liên Thần Khí.

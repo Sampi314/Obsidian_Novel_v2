@@ -6,6 +6,6 @@
 - Viết chương 79-80 cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong đến Cổ Thạch Bộ Lạc dưỡng thương và biết tin Huyết Sát Minh đang lùng sục Vĩnh Hằng Sâm Lâm.
 
 ## PHIÊN GẦN NHẤT
-- Tiếp tục Arc 12 cho Góc Nhìn A Ngốc (Chương 115-116). A Ngốc đứng ra chắn mũi tên của Lục Tiêu, bảo vệ Lệ Vô Tâm. Bằng cách dùng Hỗn Độn chi lực thanh tẩy một cổ thụ bị nhiễm Huyết Thần Độc, A Ngốc buộc Tinh Linh Tộc phải chấp nhận một hiệp ước đình chiến tạm thời với Lệ Vô Tâm.
-- Tiếp tục Góc Nhìn Lâm Phong (Chương 81-82). Nhóm ba người Lâm Phong, Diệp Tĩnh Sương và Nham Thiết khẩn trương rời Cổ Thạch Bộ Lạc, tiến về Vĩnh Hằng Sâm Lâm để ngăn cản Huyết Sát Minh lấy Huyết Liên Thần Khí. Tại bìa rừng, Lâm Phong và Diệp Tĩnh Sương phối hợp tiêu diệt gọn gàng một trạm gác của Huyết Vệ.
-- Cập nhật MỤC_LỤC.md cho cả hai góc nhìn, HỒ_SƠ_THẾ_GIỚI.md, INSTRUCTIONS.md, BÁO_CÁO_CHẤT_LƯỢNG.md, Tong_Quan.md, Viet_Chuong_Truyen_Ký_Ức.md và chapter_data.js.
+- Hoàn thành Arc 13 cho Góc Nhìn A Ngốc bằng việc viết Chương 135-136. Lệ Vô Tâm đụng độ Thiết Ngưu (một nạn nhân cũ) và cho phép A Ngốc chữa trị cho gã. Sau đó, hắn tung tin đồn về "Hồn Nhiên Tử" để thu hút Huyết Sát Minh, đánh dấu một bước chuyển biến lớn về tâm lý và chiến thuật.
+- Viết Chương 89-90 cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong bị Huyết Tôn cùng Huyết Sát Phục Ma Trận vây hãm trước cửa Tinh Linh Vương Đình. Lâm Phong dùng bản năng hoang dã phá vỡ các mắt trận, giúp cả nhóm thoát thân vào Vương Đình và được Lục Tiêu tiếp đón.
+- Cập nhật MỤC_LỤC.md cho cả hai góc nhìn, HỒ_SƠ_THẾ_GIỚI.md, INSTRUCTIONS.md, BÁO_CÁO_CHẤT_LƯỢNG.md, Viet_Chuong_Truyen_Ký_Ức.md và chapter_data.js.
