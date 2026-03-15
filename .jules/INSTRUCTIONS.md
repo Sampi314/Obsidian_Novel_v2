@@ -54,8 +54,8 @@
 | Góc Nhìn | Số Chương | Ghi Chú |
 |-----------|-----------|---------|
 | Góc Nhìn Tây Mạc | 10 | Arc 1 hoàn thành |
-| Góc Nhìn Hứa Nhược Thủy | — | Đang mở rộng |
-| Góc Nhìn Hứa Thanh Vân | — | Đang mở rộng |
+| Góc Nhìn Hứa Nhược Thủy | 10 | Đang mở rộng (Đã xong Ch 1-10) |
+| Góc Nhìn Hứa Thanh Vân | 10 | Đang mở rộng (Đã xong Ch 1-10) |
 
 #### Thiên Trụ
 | Góc Nhìn | Số Chương | Ghi Chú |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ ở khu vực Vô Tận Hải (Lệ Nhược Thủy, Ngao Đình) và Tây Mạc (Hứa Nhược Thủy, Hứa Thanh Vân). Tuyến Nam Cương, Bắc Băng và Đông Hoang đã hoàn thành xong ch 7-10 cho các nhân vật phụ.
+1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ ở khu vực Vô Tận Hải (Lệ Nhược Thủy, Ngao Đình). Tuyến Nam Cương, Bắc Băng, Đông Hoang và Tây Mạc đã hoàn thành xong ch 1-10 cho các nhân vật phụ.
 2. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc.
 3. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 97, 98... cho Góc Nhìn Lâm Phong nếu cần thiết để theo kịp mạch truyện chính (sau trận chiến Rừng Ảo Ảnh).
 
@@ -115,8 +115,8 @@
 - [ ] **Ngao Đình** (`Góc_Nhìn_Ngao_Đình/`): Viết ch 7-10. Chủ đề: Long tộc kiêu ngạo, truy tìm cường giả.
 
 **Tây Mạc (2 nhân vật):**
-- [ ] **Hứa Nhược Thủy** (`Góc_Nhìn_Hứa_Nhược_Thủy/`): Viết ch 7-10. Chủ đề: Thương đạo, con trai bỏ trốn, liên minh sa mạc.
-- [ ] **Hứa Thanh Vân** (`Góc_Nhìn_Hứa_Thanh_Vân/`): Viết ch 7-10. Chủ đề: Trưởng thành, mê cung phế tích, bài học.
+- [x] **Hứa Nhược Thủy** (`Góc_Nhìn_Hứa_Nhược_Thủy/`): Viết ch 1-10. Chủ đề: Thương đạo, con trai bỏ trốn, liên minh sa mạc.
+- [x] **Hứa Thanh Vân** (`Góc_Nhìn_Hứa_Thanh_Vân/`): Viết ch 1-10. Chủ đề: Trưởng thành, mê cung phế tích, bài học.
 
 **Sau khi viết xong ch 7-10, cập nhật:**
 - [ ] `scripts/chapter_data.js` — thêm entries cho tất cả chương mới

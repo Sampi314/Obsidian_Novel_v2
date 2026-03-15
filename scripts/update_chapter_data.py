@@ -108,8 +108,9 @@ def main() -> None:
         f.write(f'Object.assign(chapterData, {json_str});\n\n')
         f.write("if (typeof window !== 'undefined') {\n")
         f.write("  window.chapterData = chapterData;\n")
+        f.write("} else if (typeof module !== 'undefined' && module.exports) {\n")
+        f.write("  module.exports = { chapterData };\n")
         f.write("}\n")
-        f.write("export { chapterData };\n")
 
     print(f"\nTổng cộng: {total} chương ({len(chapter_data)} POV)")
     print(f"Đã ghi: {OUTPUT_FILE}")
