@@ -12,7 +12,7 @@
     var EDGE_TTS_API = 'http://127.0.0.1:5050/tts';
     var edgeAvailable = false; // probed on init
 
-    var VOICES = [
+    var EDGE_VOICES = [
         { id: 'vi-VN-HoaiMyNeural',  name: 'HoaiMy (Nữ)' },
         { id: 'vi-VN-NamMinhNeural', name: 'NamMinh (Nam)' },
     ];
@@ -67,15 +67,8 @@
 
         document.body.appendChild(bar);
 
-        // Populate voice select
+        // Voice select populated later by populateVoices()
         var sel = document.getElementById('tts-voice-select');
-        VOICES.forEach(function(v) {
-            var opt = document.createElement('option');
-            opt.value = v.id;
-            opt.textContent = v.name;
-            if (v.id === state.voiceId) opt.selected = true;
-            sel.appendChild(opt);
-        });
 
         // ── Event Listeners ──
         document.getElementById('tts-play').addEventListener('click', handlePlay);
@@ -282,6 +275,48 @@
         window.speechSynthesis.cancel();
     }
 
+    // Populate the voice dropdown with available browser voices + Edge voices
+    function populateVoices() {
+        var sel = document.getElementById('tts-voice-select');
+        if (!sel) return;
+
+        var prev = state.voiceId;
+        sel.innerHTML = '';
+
+        // Add browser Vietnamese voices
+        if (window.speechSynthesis) {
+            var allVoices = window.speechSynthesis.getVoices();
+            for (var i = 0; i < allVoices.length; i++) {
+                var v = allVoices[i];
+                if (v.lang && v.lang.indexOf('vi') === 0) {
+                    var opt = document.createElement('option');
+                    opt.value = 'ws:' + v.name;
+                    opt.textContent = v.name;
+                    if (opt.value === prev) opt.selected = true;
+                    sel.appendChild(opt);
+                }
+            }
+        }
+
+        // Add Edge TTS voices (only useful when server is running)
+        if (edgeAvailable) {
+            EDGE_VOICES.forEach(function(v) {
+                var opt = document.createElement('option');
+                opt.value = 'edge:' + v.id;
+                opt.textContent = v.name + ' ✦';
+                if (opt.value === prev) opt.selected = true;
+                sel.appendChild(opt);
+            });
+        }
+
+        // If saved voice not found, select first available
+        if (sel.selectedIndex === -1 && sel.options.length > 0) {
+            sel.selectedIndex = 0;
+            state.voiceId = sel.value;
+            localStorage.setItem('tts_voice', state.voiceId);
+        }
+    }
+
     // Probe whether the local Edge TTS server is reachable
     function probeEdgeServer() {
         var ctrl = new AbortController();
@@ -292,6 +327,7 @@
             clearTimeout(timer);
             edgeAvailable = true;
             console.log('[TTS] Edge TTS server detected — using high-quality voices');
+            populateVoices();
         }).catch(function() {
             clearTimeout(timer);
             edgeAvailable = false;
@@ -302,9 +338,10 @@
     // Edge TTS: fetch audio from local server
     function edgeTTSSpeak(text) {
         return new Promise(function(resolve, reject) {
+            var edgeVoice = state.voiceId.indexOf('edge:') === 0 ? state.voiceId.slice(5) : state.voiceId;
             var url = EDGE_TTS_API + '?' +
                 'text=' + encodeURIComponent(text) +
-                '&voice=' + encodeURIComponent(state.voiceId) +
+                '&voice=' + encodeURIComponent(edgeVoice) +
                 '&rate=' + encodeURIComponent(((state.speed - 1) * 100).toFixed(0) + '%');
 
             var audio = new Audio();
@@ -344,12 +381,23 @@
             utter.lang = 'vi-VN';
             utter.rate = state.speed;
 
-            // Try to find a Vietnamese voice
+            // Use selected browser voice, or first Vietnamese voice as fallback
             var voices = window.speechSynthesis.getVoices();
+            var targetName = state.voiceId.indexOf('ws:') === 0 ? state.voiceId.slice(3) : '';
+            var found = false;
             for (var i = 0; i < voices.length; i++) {
-                if (voices[i].lang && voices[i].lang.indexOf('vi') === 0) {
+                if (targetName && voices[i].name === targetName) {
                     utter.voice = voices[i];
+                    found = true;
                     break;
+                }
+            }
+            if (!found) {
+                for (var j = 0; j < voices.length; j++) {
+                    if (voices[j].lang && voices[j].lang.indexOf('vi') === 0) {
+                        utter.voice = voices[j];
+                        break;
+                    }
                 }
             }
 
@@ -381,8 +429,10 @@
         highlightElement(el);
         updateUI();
 
-        if (edgeAvailable) {
-            // Try Edge TTS first, fall back to Web Speech
+        var useEdge = edgeAvailable && state.voiceId.indexOf('edge:') === 0;
+
+        if (useEdge) {
+            // Edge TTS with fallback to Web Speech
             edgeTTSSpeak(text).then(function(audio) {
                 state.audioEl = audio;
                 audio.addEventListener('ended', onChunkEnd);
@@ -394,7 +444,7 @@
                 });
             });
         } else {
-            // Web Speech API (always available)
+            // Web Speech API
             webSpeechSpeak(text).then(onChunkEnd).catch(function(err) {
                 console.error('TTS error:', err.message);
                 onChunkEnd();
@@ -531,18 +581,11 @@
 
     // ── Initialize ──
     function init() {
-        // Clean up stale voice IDs
-        var validIds = VOICES.map(function(v) { return v.id; });
-        if (validIds.indexOf(state.voiceId) === -1) {
-            state.voiceId = 'vi-VN-HoaiMyNeural';
-            localStorage.setItem('tts_voice', state.voiceId);
-        }
-
         // Preload browser voices (some browsers load async)
         if (window.speechSynthesis) {
             window.speechSynthesis.getVoices();
             window.speechSynthesis.onvoiceschanged = function() {
-                window.speechSynthesis.getVoices();
+                populateVoices();
             };
         }
 
@@ -551,6 +594,7 @@
 
         injectCSS();
         buildPlayer();
+        populateVoices();
         buildFab();
         setupClickToRead();
         updateUI();
