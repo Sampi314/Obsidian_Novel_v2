@@ -122,6 +122,26 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00005_Hội_Tụ_Về_Băng_Ngục.md",
       "title": "Chương 5: Hội Tụ Về Băng Ngục"
+    },
+    {
+      "filename": "Chương_00006_Xuyên_Qua_Bão_Tuyết.md",
+      "title": "Chương 6: Xuyên Qua Bão Tuyết"
+    },
+    {
+      "filename": "Chương_00007_Ngoại_Ô_Băng_Ngục.md",
+      "title": "Chương 7: Ngoại Ô Băng Ngục"
+    },
+    {
+      "filename": "Chương_00008_Lưỡi_Kiếm_Mở_Đường.md",
+      "title": "Chương 8: Lưỡi Kiếm Mở Đường"
+    },
+    {
+      "filename": "Chương_00009_Thử_Thách_Sát_Cơ.md",
+      "title": "Chương 9: Thử Thách Sát Cơ"
+    },
+    {
+      "filename": "Chương_00010_Ánh_Sáng_Băng_Tôn.md",
+      "title": "Chương 10: Ánh Sáng Băng Tôn"
     }
   ],
   "Góc_Nhìn_A_Ngốc": [

@@ -4,6 +4,5 @@
 - [Hôm nay]: Bắt đầu viết chương 7-10 cho POV phụ: Đã xong Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái.
 
 ## PHIÊN GẦN NHẤT
-- Hoàn thành Chương 7-10 cho Góc Nhìn Lý Tuyết Ưng (Dọn dẹp cứ điểm Huyết Sát Minh ở Bắc Băng, đối mặt với tâm ma Chu Vân Kiều, lợi dụng Cực Hàn Ma Châu để dung hợp Hóa Thần Sơ Kỳ, xuất quan phát lệnh triệu tập Băng Ngục Thành).
-- Khởi tạo hạ tầng thư mục, MỤC_LỤC, và cập nhật Frontend cho góc nhìn trên.
-- Cập nhật HỒ_SƠ_THẾ_GIỚI, BÁO_CÁO_CHẤT_LƯỢNG, và INSTRUCTIONS.
+- Hoàn thành Chương 6-10 cho Góc Nhìn Triệu Thanh Hằng, hoàn tất Arc 1 của tuyến Bắc Băng (Sở Lăng Sương, Lý Tuyết Ưng, Triệu Thanh Hằng hội tụ tại Băng Ngục Thành).
+- Cập nhật frontend scripts (`chapter_data.js`), `MỤC_LỤC.md`, `HỒ_SƠ_THẾ_GIỚI.md`, `INSTRUCTIONS.md` và `BÁO_CÁO_CHẤT_LƯỢNG.md`.
