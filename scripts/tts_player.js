@@ -407,15 +407,7 @@
                 return;
             }
 
-            var started = false;
-            utter.onstart = function() { started = true; };
-            utter.onend = function() {
-                if (started) {
-                    resolve('ended');
-                } else {
-                    reject(new Error('Speech ended without starting'));
-                }
-            };
+            utter.onend = function() { resolve('ended'); };
             utter.onerror = function(e) {
                 if (e.error === 'canceled') { resolve('canceled'); return; }
                 reject(new Error('Speech error: ' + e.error));
