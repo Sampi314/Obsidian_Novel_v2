@@ -1,4 +1,6 @@
-# 🌌 Hệ Thống Kiến Tạo Thế Giới Tiên Hiệp "Cố Nguyên" (Ancient Origin)
+<div align="right">[ [ 🇺🇸 View English Version ] ](./README.en.md)</div>
+
+# 🌌 Hệ Thống Kiến Tạo Thế Giới Tiên Hiệp "Cố Nguyên"
 
 > [!IMPORTANT]
 > **TRẠNG THÁI: KHO LƯU TRỮ CÁ NHÂN (PRIVATE REFERENCE ARCHIVE)**
