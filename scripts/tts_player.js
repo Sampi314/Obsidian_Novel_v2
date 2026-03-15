@@ -1,6 +1,7 @@
 /* ═══════════════════════════════════════════
    CỐ NGUYÊN GIỚI — Floating TTS Player
-   Edge TTS — zero setup, just works
+   Web Speech API (browser-native, always works)
+   + optional Edge TTS local server for HQ voices
    Sticky bottom bar with voice selection
    ═══════════════════════════════════════════ */
 
@@ -9,6 +10,7 @@
 
     // ── Configuration ──
     var EDGE_TTS_API = 'http://127.0.0.1:5050/tts';
+    var edgeAvailable = false; // probed on init
 
     var VOICES = [
         { id: 'vi-VN-HoaiMyNeural',  name: 'HoaiMy (Nữ)' },
@@ -277,9 +279,27 @@
             state.audioEl.removeAttribute('src');
             state.audioEl = null;
         }
+        window.speechSynthesis.cancel();
     }
 
-    // Edge TTS: fetch audio from public API
+    // Probe whether the local Edge TTS server is reachable
+    function probeEdgeServer() {
+        var ctrl = new AbortController();
+        var timer = setTimeout(function() { ctrl.abort(); }, 2000);
+        fetch(EDGE_TTS_API + '?text=test&voice=vi-VN-HoaiMyNeural', {
+            method: 'HEAD', mode: 'cors', signal: ctrl.signal
+        }).then(function() {
+            clearTimeout(timer);
+            edgeAvailable = true;
+            console.log('[TTS] Edge TTS server detected — using high-quality voices');
+        }).catch(function() {
+            clearTimeout(timer);
+            edgeAvailable = false;
+            console.log('[TTS] Edge TTS server not available — using browser voices');
+        });
+    }
+
+    // Edge TTS: fetch audio from local server
     function edgeTTSSpeak(text) {
         return new Promise(function(resolve, reject) {
             var url = EDGE_TTS_API + '?' +
@@ -310,6 +330,39 @@
         });
     }
 
+    // Web Speech API: works in all browsers, no server needed
+    function webSpeechSpeak(text) {
+        return new Promise(function(resolve, reject) {
+            if (!window.speechSynthesis) {
+                reject(new Error('speechSynthesis not supported'));
+                return;
+            }
+
+            window.speechSynthesis.cancel();
+
+            var utter = new SpeechSynthesisUtterance(text);
+            utter.lang = 'vi-VN';
+            utter.rate = state.speed;
+
+            // Try to find a Vietnamese voice
+            var voices = window.speechSynthesis.getVoices();
+            for (var i = 0; i < voices.length; i++) {
+                if (voices[i].lang && voices[i].lang.indexOf('vi') === 0) {
+                    utter.voice = voices[i];
+                    break;
+                }
+            }
+
+            utter.onend = function() { resolve('ended'); };
+            utter.onerror = function(e) {
+                if (e.error === 'canceled') { resolve('canceled'); return; }
+                reject(new Error('Speech error: ' + e.error));
+            };
+
+            window.speechSynthesis.speak(utter);
+        });
+    }
+
     function readCurrentChunk() {
         if (!state.playing || state.paused) return;
         if (state.currentIndex >= state.elements.length) {
@@ -328,15 +381,25 @@
         highlightElement(el);
         updateUI();
 
-        edgeTTSSpeak(text).then(function(audio) {
-            state.audioEl = audio;
-            audio.addEventListener('ended', onChunkEnd);
-            audio.play();
-        }).catch(function(err) {
-            console.error('TTS error:', err.message);
-            // Skip chunk on error
-            onChunkEnd();
-        });
+        if (edgeAvailable) {
+            // Try Edge TTS first, fall back to Web Speech
+            edgeTTSSpeak(text).then(function(audio) {
+                state.audioEl = audio;
+                audio.addEventListener('ended', onChunkEnd);
+                audio.play();
+            }).catch(function() {
+                webSpeechSpeak(text).then(onChunkEnd).catch(function(err) {
+                    console.error('TTS error:', err.message);
+                    onChunkEnd();
+                });
+            });
+        } else {
+            // Web Speech API (always available)
+            webSpeechSpeak(text).then(onChunkEnd).catch(function(err) {
+                console.error('TTS error:', err.message);
+                onChunkEnd();
+            });
+        }
     }
 
     function onChunkEnd() {
@@ -361,6 +424,8 @@
             state.paused = false;
             if (state.audioEl) {
                 state.audioEl.play();
+            } else if (window.speechSynthesis.paused) {
+                window.speechSynthesis.resume();
             } else {
                 readCurrentChunk();
             }
@@ -386,6 +451,7 @@
         if (state.audioEl) {
             state.audioEl.pause();
         }
+        window.speechSynthesis.pause();
         updateUI();
     }
 
@@ -471,6 +537,17 @@
             state.voiceId = 'vi-VN-HoaiMyNeural';
             localStorage.setItem('tts_voice', state.voiceId);
         }
+
+        // Preload browser voices (some browsers load async)
+        if (window.speechSynthesis) {
+            window.speechSynthesis.getVoices();
+            window.speechSynthesis.onvoiceschanged = function() {
+                window.speechSynthesis.getVoices();
+            };
+        }
+
+        // Probe local Edge TTS server (non-blocking)
+        probeEdgeServer();
 
         injectCSS();
         buildPlayer();

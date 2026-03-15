@@ -15,6 +15,7 @@ Do NOT modify `locked_chapters.json` itself — it is managed exclusively by the
 
 ## TTS Player
 
-- Uses Edge TTS public API (`https://tts.travisvn.com/api/tts`) — no setup needed
-- 2 voices: HoaiMy (Nữ), NamMinh (Nam)
+- Primary: Web Speech API (`window.speechSynthesis`) — built into browser, no setup needed
+- Optional: Local Edge TTS server (`python3 scripts/edge_tts_server.py` on port 5050) for higher-quality voices — auto-detected on init
+- 2 Edge voices: HoaiMy (Nữ), NamMinh (Nam); browser voices vary by OS
 - Voice/speed stored in `localStorage` keys `tts_voice`, `tts_speed`
