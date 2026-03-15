@@ -40,8 +40,8 @@
 | Góc Nhìn Đông Hoang | 10 | Arc 1 hoàn thành |
 | Góc Nhìn Lục Ly | 10 | Đang mở rộng (Đã xong Ch 7-10) |
 | Góc Nhìn Nguyệt Dao | 10 | Đang mở rộng (Đã xong Ch 7-10) |
-| Góc Nhìn Nham Thần | — | Đang mở rộng |
-| Góc Nhìn Lục Tiêu | — | Đang mở rộng |
+| Góc Nhìn Nham Thần | 4 | Đang mở rộng (Đã xong Ch 7-10) |
+| Góc Nhìn Lục Tiêu | 4 | Đang mở rộng (Đã xong Ch 7-10) |
 
 #### Vô Tận Hải (2 Nhân Vật)
 | Góc Nhìn | Số Chương | Ghi Chú |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ ở khu vực khác như Bắc Băng (Sở Lăng Sương, Triệu Thanh Hằng) hoặc Đông Hoang (Lục Ly, Nguyệt Dao, Nham Thần, Lục Tiêu). Tuyến Nam Cương đã hoàn thành xong ch 7-10 cho tất cả 8 nhân vật phụ.
+1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ ở khu vực Vô Tận Hải (Lệ Nhược Thủy, Ngao Đình) và Tây Mạc (Hứa Nhược Thủy, Hứa Thanh Vân). Tuyến Nam Cương, Bắc Băng và Đông Hoang đã hoàn thành xong ch 7-10 cho các nhân vật phụ.
 2. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc.
 3. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 97, 98... cho Góc Nhìn Lâm Phong nếu cần thiết để theo kịp mạch truyện chính (sau trận chiến Rừng Ảo Ảnh).
 
@@ -107,8 +107,8 @@
 **Đông Hoang (4 nhân vật):**
 - [x] **Lục Ly** (`Góc_Nhìn_Lục_Ly/`): Đã viết ch 7-10. Chủ đề: Hộ pháp tinh linh, Hoàng Sa Quốc, người kế thừa. Kim Sa nhận Thủy Linh Châu và Hoàng Kim Ấn, chạy trốn Huyết Sát Minh.
 - [x] **Nguyệt Dao** (`Góc_Nhìn_Nguyệt_Dao/`): Đã viết ch 7-10. Chủ đề: Nữ Hoàng Tinh Linh, bảo vệ Thần Mộc, thanh tẩy Huyết Độc, phá bỏ luật lệ cô lập, phái Lục Tiêu đi Nam Cương.
-- [ ] **Nham Thần** (`Góc_Nhìn_Nham_Thần/`): Viết ch 7-10. Chủ đề: Thức tỉnh, địa mạch, bảo vệ đất đai.
-- [ ] **Lục Tiêu** (`Góc_Nhìn_Lục_Tiêu/`): Viết ch 7-10. Chủ đề: Thế giới bên ngoài, đồng minh, kết nối.
+- [x] **Nham Thần** (`Góc_Nhìn_Nham_Thần/`): Đã viết ch 7-10. Chủ đề: Thức tỉnh, địa mạch, bảo vệ đất đai.
+- [x] **Lục Tiêu** (`Góc_Nhìn_Lục_Tiêu/`): Đã viết ch 7-10. Chủ đề: Thế giới bên ngoài, đồng minh, kết nối. Ra khỏi rừng, đụng độ Huyết Sứ, cứu người tị nạn.
 
 **Vô Tận Hải (2 nhân vật):**
 - [ ] **Lệ Nhược Thủy** (`Góc_Nhìn_Lệ_Nhược_Thủy/`): Viết ch 7-10. Chủ đề: Hải vương, ô nhiễm đại dương, lên bờ.
@@ -131,8 +131,8 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã hoàn thành Chương 7-10 cho Nham Thần và Lục Tiêu (Đông Hoang). Nham Thần thức tỉnh và đập tan các Huyết Tế Đài, hướng về trung tâm Nam Cương. Lục Tiêu ra khỏi Vĩnh Hằng Sâm Lâm, dùng âm nhạc tịnh hóa Huyết Độc, chạm trán và tiêu diệt một Huyết Sứ tại biên giới.
 > Đã hoàn thành Chương 9-10 cho Sở Lăng Sương và Chương 6-10 cho Triệu Thanh Hằng. Mạch truyện Bắc Băng xoay quanh Băng Ngục Thành (Arc 1) đã được mở rộng và khép lại thành công với việc Lý Tuyết Ưng trở thành Hóa Thần đầu tiên thu nạp hai thanh kiếm mạnh mẽ.
-> Đã hoàn thành Chương 7-10 cho Góc Nhìn Lý Tuyết Ưng (đột phá Hóa Thần, mở chiến dịch Băng Ngục Thành). Mạch truyện Bắc Băng đang hướng về điểm nóng Băng Ngục Thành.
 > Đã hoàn thành Chương 7-10 cho Góc Nhìn Ngô Công Trưởng Lão (báo thù, nhận lệnh săn Hỗn Độn Kim Đan ở Tây Mạc) và Góc Nhìn Phương Vô Kỵ (giải mã chìa khóa Huyết Tế Đài, tiến về Tây Mạc). Mạch truyện đang hội tụ mạnh mẽ về khu vực Tây Mạc, nơi A Ngốc và Lệ Vô Tâm đã đi qua. Toàn bộ 8 nhân vật Nam Cương đã xong chương 7-10.
 
 ---
