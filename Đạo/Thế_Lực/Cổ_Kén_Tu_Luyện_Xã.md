@@ -1,72 +1,130 @@
 ---
 type: faction
-name: CỔ KÉN TU LUYỆN XÃ
+name: Cổ Kén Tu Luyện Xã
 hantu: 古茧修炼社
-faction_type: ''
-alignment: 0
-race: ''
-region: Đông Hoang
-founded: ''
-founder: ''
-emblem: ''
-specialty: ''
-economy: []
+faction_type: Hội
+alignment: 2
+race: Trùng Tộc (Cổ đại)
+region: Nam Cương
+founded: Thái Cổ Kỷ Nguyên
+founder: Thủy Tổ Trùng Tộc
+emblem: Ken_Bac_Va_Anh_Trang.png
+specialty: Kén Hóa Quyết (Ngủ đông tiến hóa), Thao túng tơ linh bạc, Lưu trữ ký ức di truyền
+economy:
+- Tích lũy linh khí địa mạch (Thụ động)
+- Chế tác Tơ Kén Cổ (Dự phòng tài nguyên)
+- Bảo tồn di sản Trùng Tộc thượng cổ
 arcs:
-- arc: 1
-  status: Chưa Xác Định
-  rank: ''
-  leader: ''
-  population: 0
-  territory: []
-  assets: []
-  stats:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  divisions: []
-  relationships: []
+  - arc: 1
+    status: Đang trong giấc ngủ tiến hóa vạn năm
+    rank: Hạng Tư
+    leader: Nguyệt Kén
+    population: 21
+    territory:
+      - Hang Cổ Kén (Lõi Vạn Trùng Cốc)
+    assets:
+      - name: Tơ Kén Cổ Thượng Cổ
+        type: Tài Nguyên
+      - name: Trận pháp "Tâm Linh Liên Kết"
+        type: Trận Pháp
+      - name: Kén Thần Hóa Long
+        type: Bí Cảnh
+    stats: [100, 500, 200, 21, 800, 150]
+    divisions:
+      - name: Đội Canh Gác Luân Phiên
+        role: Bảo vệ hang động và duy trì kết giới trong lúc đồng tộc ngủ đông
+        headcount:
+          hoi_truong: 0
+          pho_hoi_truong: 1
+          thanh_vien: 3
+          tong_quan: 0
+        members:
+          - character: "[Canh Gác Cổ]"
+            position: Đội Trưởng
+            cultivation: Trúc Cơ Viên Mãn (Tương đương)
+            placeholder: true
+      - name: Quần Thể Ngủ Đông
+        role: Tập trung tiến hóa huyết mạch
+        headcount:
+          hoi_truong: 1
+          pho_hoi_truong: 0
+          thanh_vien: 17
+          tong_quan: 0
+        members:
+          - character: Nguyệt Kén
+            position: Xã Trưởng
+            cultivation: Kim Đan Hậu Kỳ (Đang tiến hóa)
+    relationships:
+      - faction: Vạn Trùng Cốc
+        description: Thế lực bao quanh, quan hệ tránh né và bí mật che giấu sự tồn tại.
+        diplomacy:
+          lien_minh: -10
+          tin: 10
+          uy_hiep: 50
+          thuong_mai: 0
+          on_oan: 0
+          le_thuoc: 0
+      - faction: Vạn Độc Môn
+        description: Cảnh giác tuyệt đối, lo sợ bị phát hiện và khai thác tơ kén cổ.
+        diplomacy:
+          lien_minh: -50
+          tin: -100
+          uy_hiep: 80
+          thuong_mai: 0
+          on_oan: -100
+          le_thuoc: 0
 ---
 
 # CỔ KÉN TU LUYỆN XÃ (古茧修炼社)
 
-## I. TỔNG QUAN
-- **Tên:** Cổ Kén Tu Luyện Xã
-- **Loại Hình:** Xã
-- **Cấp Bậc:** Hạng Tư (tiềm lực ẩn giấu)
-- **Trụ Sở:** Sâu trong lõi Vạn Trùng Cốc, khu vực hang động kén cổ đại
-- **Người Đứng Đầu:** Xã Trưởng — "Nguyệt Kén" (tương đương Kim Đan, đang ngủ đông)
+## I. Tổng Quan (总览)
+Cổ Kén Tu Luyện Xã là một tổ chức kỳ lạ và bí ẩn nhất trong lòng Nam Cương, bao gồm các cá thể Trùng Tộc cổ đại còn sót lại từ thời kỳ khai thiên lập địa. Khác với sự hung hãn của bầy trùng thông thường, thành viên của xã chọn con đường tu luyện thâm trầm thông qua việc ngủ đông kéo dài hàng ngàn năm bên trong những chiếc kén linh lực. Họ tin rằng sự biến đổi vĩ đại nhất của sinh mệnh chỉ có thể diễn ra trong sự tĩnh lặng tuyệt đối và thời gian chính là chất xúc tác mạnh mẽ nhất.
 
-## II. ĐỊA LÝ & TÀI NGUYÊN
-- **Vị Trí:** Nằm trong một khoang đá cổ sâu dưới lõi Vạn Trùng Cốc, bị cách ly bởi nhiều tầng đất đá và hang trùng.
-- **Đặc Điểm Địa Hình:** Hang động hình cầu rộng lớn, trần nhà phủ đầy thạch nhũ phát quang. Hàng chục cái kén khổng lồ bằng tơ linh bạc treo lơ lửng, mỗi kén chứa một cá thể Trùng Tộc cổ đại đang ngủ.
-- **Tài Nguyên:**
-    - Tơ Kén Cổ — chất liệu cực kỳ bền, có thể dùng luyện khí cấp cao nhưng không ai dám thu hoạch.
-    - Linh khí trong hang cô đặc bất thường — nơi lý tưởng cho bế quan.
-    - Ký ức di truyền trong kén — chứa tri thức của Trùng Tộc thượng cổ.
+## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
+Nằm sâu trong một khoang đá biệt lập dưới lõi của Vạn Trùng Cốc, được ngăn cách bởi hàng tầng hang động trùng điệp và các trận pháp tự nhiên. Tài nguyên quý giá nhất là "Tơ Kén Cổ" - loại tơ bạc có độ bền và tính dẫn linh vượt xa các vật liệu luyện khí hiện đại. Linh khí bên trong hang động luôn ở trạng thái cô đặc và tinh thuần, do được lọc qua các lớp kén vạn năm.
 
-## III. VĂN HÓA & TÍN NGƯỠNG
-- **Triết Lý:** "Giấc ngủ là con đường tu luyện chậm nhất nhưng vững chắc nhất." Tin rằng sự biến đổi vĩ đại cần thời gian dài đủ để tự nhiên vận hành.
-- **Quy Tắc:** Không đánh thức đồng loại trước khi kén tự mở. Bảo vệ hang khỏi sự xâm nhập. Nếu Trùng Mẫu tìm đến, hy sinh cá thể thức để bảo vệ kén ngủ.
-- **Phong Tục:** Mỗi 100 năm, một cá thể thức giấc, kiểm tra tình hình bên ngoài, rồi quay lại ngủ tiếp hoặc thay ca canh gác.
+## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
+Đề cao triết lý: "Giấc ngủ là con đường tu luyện vững chắc nhất". Thành viên xã coi việc thức giấc là một sự hy sinh cần thiết để bảo vệ giấc ngủ của đồng đạo. Văn hóa của xã mang đậm tính tâm linh, kết nối với nhau thông qua mạng lưới thần thức mỏng manh tỏa ra từ các kén ngủ. Họ tôn thờ quy luật tiến hóa tự nhiên và sự kiên nhẫn cực hạn.
 
-## IV. CƠ CẤU TỔ CHỨC
-- **Xã Trưởng — Nguyệt Kén:** Trùng Tộc cổ đại dạng bướm đêm, cánh phát ra ánh trăng bạc. Đang trong giấc ngủ tiến hóa lần thứ 4, ước tính còn 200 năm mới thức.
-- **Canh Gác:** 3 cá thể thức (tương đương Trúc Cơ), luân phiên canh giữ hang mỗi 50 năm.
-- **Kén Ngủ:** 17 cái kén chứa Trùng Tộc cổ đại, tu vi ước tính từ Luyện Khí đến Kim Đan.
+## IV. Cơ Cấu Tổ Chức (组织结构)
+```mermaid
+graph TD
+    NK[Xã Trưởng: Nguyệt Kén - Ngủ Đông] --> CG[Nhóm Canh Gác - Thức]
+    CG --> HDTQ[Hội Đồng Trùng Cổ]
+    HDTQ --> KN1[Kén Ngủ Kim Đan]
+    HDTQ --> KN2[Kén Ngủ Trúc Cơ]
+    HDTQ --> KN3[Kén Ngủ Luyện Khí]
+    KN1 --> TN[Cá Thể Đang Tiến Hóa]
+    KN2 --> TN
+    KN3 --> TN
+```
 
-## V. CÔNG PHÁP & TRẬN PHÁP
-- **Công Pháp:** "Kén Hóa Quyết" — phương pháp tu luyện trong trạng thái ngủ đông, chậm nhưng không có nút thắt cổ chai, lý thuyết có thể tu đến Nguyên Anh nếu đủ thời gian (hàng ngàn năm).
-- Tơ Kén tạo thành mạng phòng thủ tự nhiên — bất kỳ rung động nào đều được truyền đến cá thể canh gác.
+## V. Công Pháp & Trận Pháp (功法 với阵法)
+- **Công Pháp:** *Kén Hóa Quyết* - bí thuật tu luyện trong trạng thái đình trệ sinh cơ, giúp linh hồn đạt đến trạng thái hư không và hấp thụ linh khí một cách tự nhiên mà không cần vận hành kinh mạch.
+- **Trận Pháp:** *Tâm Linh Liên Kết Trận* - một mạng lưới tơ ma thuật kết nối mọi chiếc kén, truyền tải rung động và cảnh báo tức thì cho những cá thể đang thức canh gác nếu có bất kỳ sự xâm nhập nào.
 
-## VI. LỊCH SỬ TÓM TẮT
-- Cổ Kén Tu Luyện Xã tồn tại từ trước khi Vạn Trùng Cốc hình thành — có thể là tàn tích của Trùng Tộc thời Thượng Cổ.
-- Khi Trùng Mẫu trỗi dậy và thống trị Vạn Trùng Cốc, Cổ Kén Xã rút vào sâu hơn, che giấu sự tồn tại.
-- Không tham gia bất kỳ Trùng Triều nào — sự tồn tại của họ gần như không ai biết ngoài vài cá thể trùng cổ.
+## VI. Đặc Sản Môn Phái (门派特产)
+- **Tơ Linh Bạc:** Sợi tơ thu được từ các kén đã mở, là nguyên liệu tối thượng để chế tác các loại giáp trụ kháng ma và lưới bắt hồn.
+- **Trùng Ký Ngọc Giản:** Các khối ngọc thạch chứa đựng ký ức di truyền của Trùng Tộc thượng cổ, dùng để giải mã các bí mật lịch sử.
 
-## VII. GIAI THOẠI & BÍ MẬT
-- Kén lớn nhất — kén của Nguyệt Kén — thực ra đang ấp một quá trình hóa long của Trùng Tộc. Nếu thành công, sẽ sinh ra một Trùng Long chưa từng xuất hiện kể từ Thượng Cổ.
-- Canh gác hiện tại đã nhận ra Trùng Mẫu ngày càng mạnh và lo sợ rằng sớm muộn sào huyệt sẽ bị phát hiện — nhưng không dám đánh thức Nguyệt Kén sớm vì sẽ phá hỏng quá trình tiến hóa.
-- Tơ Kén Cổ nếu rơi ra ngoài sẽ khiến Vạn Độc Môn phát cuồng — chất liệu này chế tạo Cổ Trùng cấp cao hơn bất kỳ nguyên liệu nào họ đang có.
+## VII. Cơ Sở Hạ Tầng (基础设施)
+- **Hang Cổ Kén:** Khoang đá hình cầu khổng lồ với hệ thống thạch nhũ phát quang tự nhiên.
+- **Đài Trạm Thần Thức:** Vị trí trung tâm nơi các cá thể canh gác tập trung để điều phối mạng lưới bảo vệ.
+
+## VIII. Kinh Tế (経済)
+Không tham gia vào bất kỳ hoạt động kinh tế thế tục nào. Sự tồn tại của xã hoàn toàn dựa trên việc tích lũy linh khí địa mạch. Tuy nhiên, bất kỳ mảnh tơ kén nào rơi ra ngoài cũng có giá trị liên thành trên thị trường chợ đen của ma đạo.
+
+## IX. Lịch Sử Tóm Tắt (简史)
+Được coi là tàn tích cuối cùng của vương quốc Trùng Tộc thời Thái Cổ đã sụp đổ. Khi Trùng Mẫu mới trỗi dậy thống trị Vạn Trùng Cốc, các vị trưởng lão cổ đại đã quyết định rút vào vùng lõi này, phong ấn chính mình trong kén để chờ đợi một kỷ nguyên mà họ có thể tái sinh trong hình hài hoàn hảo nhất.
+
+## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
+Tương truyền kén của Xã trưởng Nguyệt Kén thực chất là một "Quả Trứng Long", nơi một thực thể Trùng Long thượng cổ đang dần thành hình thông qua việc dung hợp hàng vạn năm khí vận của địa mạch.
+
+## XI. Quan Hệ Thế Lực (势力关系)
+```mermaid
+graph LR
+    CKTX[Cổ Kén Tu Luyện Xã] -- Tránh né -- VTC[Vạn Trùng Cốc]
+    CKTX -- Tử địch -- VDM[Vạn Độc Môn]
+    CKTX -- Đồng đạo -- LKDV[Linh Khuẩn Dược Viên]
+    CKTX -- Cảnh giác -- HSM[Huyết Sát Minh]
+```
