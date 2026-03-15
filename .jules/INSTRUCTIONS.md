@@ -16,7 +16,7 @@
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
 | Góc Nhìn Lâm Phong | 94 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 148 | Arc 14 — Hồn Nhiên Tử | Đang viết |
+| Góc Nhìn A Ngốc | 152 | Arc 14 — Hồn Nhiên Tử | Hoàn thành mạch truyện chính 152 chương |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -63,12 +63,12 @@
 | Góc Nhìn Thiên Trụ | — | Chưa bắt đầu |
 
 ### Vị Trí Trong Vòng Xoay
-> Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
+> Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Viết 4 chương cuối (149-152) cho Góc Nhìn A Ngốc. (Sắp hoàn thành Arc 14 - 152 chương).
-2. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 95, 96... cho Góc Nhìn Lâm Phong. Tiếp tục trận chiến thực sự với Huyết Sát Minh tại Rừng Ảo Ảnh (Đánh với Huyết Tôn Kim Đan).
-3. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ để đồng bộ dòng thời gian chung.
+1. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 95, 96... cho Góc Nhìn Lâm Phong. Tiếp tục trận chiến thực sự với Huyết Sát Minh tại Rừng Ảo Ảnh (Đánh với Huyết Tôn Kim Đan).
+2. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ để đồng bộ dòng thời gian chung.
+3. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
 
@@ -125,51 +125,14 @@
 - [ ] `index.html` — đảm bảo navigation hoạt động cho các thư mục POV cá nhân
 
 #### Task 8: Viết lại Góc Nhìn A Ngốc (REDESIGN — 14 Arcs, 152 chương)
-> **Spec đầy đủ:** `docs/superpowers/specs/2026-03-13-a-ngoc-arc-redesign.md`
-> **BẮT BUỘC đọc toàn bộ spec trước khi viết bất kỳ chương nào.**
-
-**Tổng quan:** A Ngốc được redesign từ 4 chương phụ thành 14 Arc đầy đủ (152 chương), hành trình từ Phàm Nhân → Nguyên Anh Trung Kỳ.
-
-**Cấu trúc narrative:**
-- **Dual narration (Song song kể chuyện):** Mỗi chương phải có HAI tầng kể chuyện:
-  1. **Góc nhìn A Ngốc:** Ngôn ngữ trẻ con, đơn giản, hồn nhiên. Anh ta mô tả mọi thứ bằng từ ngữ đơn giản. ("Mọi người ngủ" = chết, "gió ấm ấm" = linh khí)
-  2. **Người kể toàn tri:** Hé lộ sự thật kinh hoàng mà A Ngốc không hiểu. Tạo tương phản giữa sự ngây thơ và thực tế tàn khốc.
-  3. **Arcs 9-14:** Thêm tầng thứ 3 — nội tâm Lệ Vô Tâm qua góc nhìn toàn tri (xấu hổ, bối rối, thay đổi dần)
-
-**Nguyên tắc viết:**
-- **Cultivation = Mất mát:** Mỗi đột phá cảnh giới được kích hoạt bởi bi kịch/mất mát, KHÔNG phải tu luyện chủ ý. Xem bảng "Cultivation Progression Map" trong spec.
-- **"Gương Soi" (Mirror):** Từ Arc 5 trở đi, A Ngốc vô tình đi theo dấu phá hủy của Lệ Vô Tâm. Người đọc đã thấy Lệ Vô Tâm phá hủy nơi này qua POV của hắn — giờ thấy A Ngốc đi qua đống đổ nát bằng đôi mắt ngây thơ. Sự tương phản là cốt lõi.
-- **Timeline sync:** Các chương PHẢI đồng bộ với timeline chính. Xem "Timeline Sync Points" trong spec.
-- **Giọng văn:** A Ngốc nói ngắn, đơn giản, thường hỏi "tại sao." KHÔNG dùng thuật ngữ tu tiên trong lời nói/suy nghĩ của hắn.
-
-**Thứ tự viết:**
-1. Viết Arc 1-2 trước (Ch.1-14) — thiết lập nhân vật
-2. Viết Arc 3-4 (Ch.15-32) — kết nối Huyết Thần Độc
-3. Viết Arc 5-8 (Ch.33-78) — Gương Soi, gặp các nhân vật chính
-4. **HOÀN THÀNH:** Viết Lệ Vô Tâm Bridge Arc (Ch.137-152 POV Lệ Vô Tâm)
-5. Viết Arc 9-14 (Ch.79-152) — Kim Đan, đồng hành với Lệ Vô Tâm
-
-**Retcon lưu ý:**
-- Origin mới: A Ngốc bị bỏ rơi làm ăn xin, KHÔNG PHẢI tìm thấy dưới gốc Thần Mộc
-- Phải rewrite `Đạo/Nhân_Vật/A_Ngốc.md` và xóa/thay thế 3-4 chương hiện tại
-- Cập nhật `QUẢN_LÝ_ARC_TRUYỆN.md` thêm section A Ngốc
-
-**Files cần tạo/cập nhật:**
-- 152 chapter files trong `Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_A_Ngốc/`
-- `MỤC_LỤC.md` mới với 14 Arc headers
-- `Đạo/Nhân_Vật/A_Ngốc.md` — rewrite hoàn toàn
-- `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md` — thêm section
-- `Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Lệ_Vô_Tâm/MỤC_LỤC.md` — thêm Bridge Arc
-- ~16 chapter files mới cho Lệ Vô Tâm Bridge Arc
-- `scripts/chapter_data.js` — thêm entries
+> **ĐÃ HOÀN THÀNH** Toàn bộ 152 chương cho A Ngốc từ Phàm Nhân đến Nguyên Anh Trung Kỳ, bao gồm Bridge Arc cho Lệ Vô Tâm.
 
 #### Task 7: Cập nhật chapter_data.js cho chương cá nhân (ch 3-6)
 - Sau khi ch 3-6 đã được viết (đang tiến hành), cập nhật `scripts/chapter_data.js` để thêm entries cho tất cả chương mới
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã viết Chương 145-148 cho Góc Nhìn A Ngốc (Arc 14). Đại chiến Rừng Ảo Ảnh nổ ra. Lệ Vô Tâm cắn răng chịu đựng phản phệ Kim Đan, dùng thuần túy Băng Ma Khí bảo vệ A Ngốc khỏi Huyết Vệ vòng trong. Ngược lại, A Ngốc vô thức dùng uy năng Nguyên Anh thanh tẩy hoàn toàn Huyết Ma Thôn Phệ, thay đổi cục diện chiến trường. Lệ Vô Tâm âm thầm thề sẽ dùng mạng ác quỷ bảo vệ "ánh sáng" này.
-> Sửa lỗi và Cập nhật lại Chương 91-92 (Góc Nhìn Lâm Phong). Viết Chương 93-94 cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong giăng bẫy tiêu diệt hàng loạt Huyết Vệ ở Rừng Ảo Ảnh nhưng đụng độ Huyết Tôn Kim Đan Trung Kỳ. Lâm Phong liều mạng chuẩn bị dùng rễ Thần Mộc và mạch ngầm để phá Huyết Tường của Huyết Tôn.
+> Đã hoàn thành 4 chương cuối (149-152) cho Góc Nhìn A Ngốc, khép lại Arc 14. A Ngốc và Lệ Vô Tâm cùng nhau bước đi vào Trung Tâm. Sự đồng hành kỳ diệu của Ác Ma và Hồn Nhiên Tử đã được thiết lập.
 
 ---
 

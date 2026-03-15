@@ -668,6 +668,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00148_Bóng_Tối_Ôm_Lấy_Ánh_Sáng.md",
       "title": "Chương 148: Bóng Tối Ôm Lấy Ánh Sáng"
+    },
+    {
+      "filename": "Chương_00149_Trận_Chiến_Tàn_Cuộc.md",
+      "title": "Chương 149: Trận Chiến Tàn Cuộc"
+    },
+    {
+      "filename": "Chương_00150_Lời_Từ_Biệt_Của_Rừng.md",
+      "title": "Chương 150: Lời Từ Biệt Của Rừng"
+    },
+    {
+      "filename": "Chương_00151_Bước_Chân_Đồng_Hành.md",
+      "title": "Chương 151: Bước Chân Đồng Hành"
+    },
+    {
+      "filename": "Chương_00152_Ánh_Sáng_Không_Tắt.md",
+      "title": "Chương 152: Ánh Sáng Không Tắt"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
