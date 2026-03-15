@@ -30,7 +30,7 @@
 | Góc Nhìn | Số Chương | Ghi Chú |
 |-----------|-----------|---------|
 | Góc Nhìn Bắc Băng | 10 | Arc 1 hoàn thành |
-| Góc Nhìn Lý Tuyết Ưng | — | Đang mở rộng |
+| Góc Nhìn Lý Tuyết Ưng | 10 | Đang mở rộng (Đã xong Ch 7-10) |
 | Góc Nhìn Sở Lăng Sương | — | Đang mở rộng |
 | Góc Nhìn Triệu Thanh Hằng | — | Đang mở rộng |
 
@@ -100,8 +100,7 @@
 - [x] **Ngô Công Trưởng Lão** (`Góc_Nhìn_Ngô_Công_Trưởng_Lão/`): Đã viết ch 7-10. Nỗi nhục tại Huyết Mạch Thượng Cổ, nhận lệnh bắt Hỗn Độn Kim Đan (A Ngốc), hướng về Tây Mạc.
 - [x] **Phương Vô Kỵ** (`Góc_Nhìn_Phương_Vô_Kỵ/`): Đã viết ch 7-10. Phát hiện "chìa khóa" khống chế Huyết Tế Đài và Đại Trận, tham gia trò chơi quyền lực, hướng về Tây Mạc.
 
-**Bắc Băng (3 nhân vật):**
-- [ ] **Lý Tuyết Ưng** (`Góc_Nhìn_Lý_Tuyết_Ưng/`): Viết ch 7-10. Chủ đề: Đột phá Hóa Thần, bảo vệ băng nguyên.
+**Bắc Băng (2 nhân vật):**
 - [ ] **Sở Lăng Sương** (`Góc_Nhìn_Sở_Lăng_Sương/`): Viết ch 7-10. Chủ đề: Sương độc, truy vết, Băng Ngục Thành.
 - [ ] **Triệu Thanh Hằng** (`Góc_Nhìn_Triệu_Thanh_Hằng/`): Viết ch 7-10. Chủ đề: Kiếm đạo tự ngộ, ân oán, Huyết Sát Minh.
 
@@ -132,6 +131,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã hoàn thành Chương 7-10 cho Góc Nhìn Lý Tuyết Ưng (đột phá Hóa Thần, mở chiến dịch Băng Ngục Thành). Mạch truyện Bắc Băng đang hướng về điểm nóng Băng Ngục Thành.
 > Đã hoàn thành Chương 7-10 cho Góc Nhìn Ngô Công Trưởng Lão (báo thù, nhận lệnh săn Hỗn Độn Kim Đan ở Tây Mạc) và Góc Nhìn Phương Vô Kỵ (giải mã chìa khóa Huyết Tế Đài, tiến về Tây Mạc). Mạch truyện đang hội tụ mạnh mẽ về khu vực Tây Mạc, nơi A Ngốc và Lệ Vô Tâm đã đi qua. Toàn bộ 8 nhân vật Nam Cương đã xong chương 7-10.
 
 ---

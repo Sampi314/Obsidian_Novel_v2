@@ -58,6 +58,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00006_Quyết_Tâm_Đột_Phá.md",
       "title": "Chương 6: Quyết Tâm Đột Phá"
+    },
+    {
+      "filename": "Chương_00007_Quét_Sạch_Bắc_Băng.md",
+      "title": "Chương 7: Quét Sạch Bắc Băng"
+    },
+    {
+      "filename": "Chương_00008_Băng_Tâm_Nứt_Vỡ.md",
+      "title": "Chương 8: Băng Tâm Nứt Vỡ"
+    },
+    {
+      "filename": "Chương_00009_Đột_Phá_Hóa_Thần.md",
+      "title": "Chương 9: Đột Phá Hóa Thần"
+    },
+    {
+      "filename": "Chương_00010_Triệu_Tập_Băng_Ngục.md",
+      "title": "Chương 10: Triệu Tập Băng Ngục"
     }
   ],
   "Góc_Nhìn_Sở_Lăng_Sương": [

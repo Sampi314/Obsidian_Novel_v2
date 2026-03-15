@@ -5,27 +5,18 @@
 - **[Các phiên trước]**: A Ngốc hoàn thành Arc 4-13. Gặp Phương Vô Kỵ, Lệ Vô Tâm. Đột phá Trúc Cơ, Kim Đan, Nguyên Anh. Cùng Lệ Vô Tâm tiến vào Đông Hoang, Tây Mạc, thanh tẩy Huyết Thần Độc.
 - **[Các phiên trước]**: Lâm Phong catch-up từ Chương 59-90. Đối phó Băng Lang Vương, diệt Huyết Sứ, phá âm mưu đầu độc mạch nước ngầm Đông Hoang. Vào Vương Đình gặp Nguyệt Dao Nữ Vương.
 - **[Các phiên trước]**: Lệ Vô Tâm hoàn thành Bridge Arc (Sụp Đổ). Trốn chạy đến đền hoang, đồng hành cùng A Ngốc, dần kiềm chế sát tâm, chuyển biến tâm lý rõ rệt.
+- **[Hôm nay]**: Viết xong 152 chương POV A Ngốc. Viết 96 chương Lâm Phong.
+- **[Hôm nay]**: Viết POV 7-10 cho Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hàn Thanh Nguyệt, Lục Trần.
+- **[Hôm nay]**: Viết POV 7-10 cho Ngô Công Trưởng Lão, Phương Vô Kỵ.
 
 ## PHIÊN GẦN NHẤT
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
-| Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Ngô Công Trưởng Lão) | Hoàn Thành | Mở rộng góc nhìn phụ. Ngô Công Trưởng Lão chịu nhục sau trận Huyết Mạch Thượng Cổ, nhận lệnh truy lùng Hỗn Độn Kim Đan (A Ngốc) từ Độc Cô Lão Quái. Hắn dùng Huyết Hồn Sinh Cơ Đan khôi phục công lực và dẫn theo đại quân rết tiến về phía Tây Mạc đi săn. |
-| Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Phương Vô Kỵ) | Hoàn Thành | Mở rộng góc nhìn phụ. Phương Vô Kỵ vô tình giải mã phiến đá cổ về linh mạch Nam Cương và Huyết Tế Đài, nắm được "chìa khóa" khống chế trận pháp cổ đại và bắt đầu thao túng Huyết Tế Đài để vui đùa, rồi lần theo Hỗn Độn linh khí đến Tây Mạc. |
-| Hôm nay | Tổng Quản | Viết Chương 6-10 (Góc Nhìn Lục Trần) | Hoàn Thành | Mở rộng góc nhìn phụ. Lục Trần chủ trì hội nghị, trấn áp nội bộ và phát giác sự thâm nhập của Huyết Sát Minh. Hắn tương kế tựu kế, dùng Mộc linh khí phong ấn Huyết Thần Độc và bắt quả tang trưởng lão ngoại môn Vương Hàn làm phản. |
-| Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Hàn Thanh Nguyệt) | Hoàn Thành | Mở rộng góc nhìn phụ. Hàn Thanh Nguyệt đột kích Vọng Hải Lầu tạo hỗn loạn cứu người, cướp được ngọc giản liên lạc của Huyết Sát Minh. Nàng bắt đầu hành trình săn lùng kẻ thù từ trong bóng tối. |
-| Hôm nay | Tổng Quản | Viết Chương 4-7 (Góc Nhìn Độc Cô Lão Quái) | Hoàn Thành | Mở rộng góc nhìn phụ. Độc Cô Lão Quái đối mặt với sự thức tỉnh của Hắc Hạt Ma Trùng, quyết định lợi dụng nó. Sau đó lão tập trung luyện Vạn Độc Huyết Ma Đan và sai Ngô Công đi bắt Lệ Vô Tâm vì phát hiện dao động thanh tẩy của A Ngốc. |
-| Hôm nay | Tổng Quản | Viết Chương 6-10 (Góc Nhìn Diệp Thanh Y) | Hoàn Thành | Mở rộng góc nhìn phụ. Diệp Thanh Y cùng Đan Dương Tử tạo ra Sinh Mệnh Nguyên Hỏa, thanh tẩy Huyết Cổ Trùng và cứu mạch đất Dược Vương Cốc. Diệp Thanh Y phá bỏ quy tắc trung lập, chính thức khởi động Liên Minh Y-Đan chủ động chiến đấu với Vạn Độc Môn. |
-| Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Đan Dương Tử) | Hoàn Thành | Mở rộng góc nhìn phụ. Đan Dương Tử đến Dược Vương Cốc cầu viện Diệp Thanh Y, gạt bỏ ân oán trăm năm để thành lập liên minh Y-Đan đối phó Huyết Thần Độc. |
-| Hôm nay | Tổng Quản | Viết Chương 95-96 (Góc Nhìn Lâm Phong) | Hoàn Thành | Đại chiến Rừng Ảo Ảnh tiếp diễn. Lâm Phong làm mồi nhử để Nham Thiết kích nổ mạch nước ngầm. Diệp Tĩnh Sương tung đòn chí mạng bằng Hàn Mai Kiếm. Sự can thiệp của Lõi Thần Mộc từ Nữ Vương Nguyệt Dao đánh trọng thương và đẩy lùi Huyết Tôn Kim Đan. |
-| Hôm nay | Tổng Quản | Viết Chương 149-152 (Góc Nhìn A Ngốc) | Hoàn Thành | Hoàn thành Arc 14 và toàn bộ mạch truyện redesign (152 chương) của A Ngốc. Trận chiến Rừng Ảo Ảnh tàn cuộc. Hai người từ biệt Vĩnh Hằng Sâm Lâm, bắt đầu hành trình đồng hành tiến vào Trung Tâm. |
-| Hôm nay | Tổng Quản | Viết Chương 145-148 (Góc Nhìn A Ngốc) & Chương 93-94 (Góc Nhìn Lâm Phong) | Hoàn Thành | Đại chiến Rừng Ảo Ảnh nổ ra. Lệ Vô Tâm quyết tâm bảo vệ ánh sáng thuần khiết của A Ngốc bằng cả tính mạng. |
-| Hôm nay | Tổng Quản | Viết Chương 141-144 (Góc Nhìn A Ngốc) & Chương 91-92 (Góc Nhìn Lâm Phong) | Hoàn Thành | A Ngốc và Lệ Vô Tâm cùng nhóm Lâm Phong/Diệp Tĩnh Sương tiến vào Rừng Ảo Ảnh chuẩn bị đối phó Huyết Sát Minh. Sửa lại đánh số chương Lâm Phong từ 93-94 thành 91-92. |
-| Hôm nay | Tổng Quản | Viết Chương 137-140 (Góc Nhìn A Ngốc) & Chương 91-92 (Góc Nhìn Lâm Phong) | Hoàn Thành | A Ngốc bị nhòm ngó vì tin đồn Hồn Nhiên Tử. Nhóm Lâm Phong vào Vương Đình chuẩn bị đón lõng Huyết Sát Minh tại Rừng Ảo Ảnh. |
-| Hôm nay | Tổng Quản | Viết Chương 135-136 (Góc Nhìn A Ngốc) & Chương 89-90 (Góc Nhìn Lâm Phong) | Hoàn Thành | Lệ Vô Tâm tung tin Hồn Nhiên Tử ra giang hồ để thao túng các thế lực. Lâm Phong phá vây thành công ở cửa ngõ Tinh Linh Vương Đình. |
-| Hôm nay | Tổng Quản | Viết Chương 133-134 (Góc Nhìn A Ngốc) | Hoàn Thành | A Ngốc và Lệ Vô Tâm đối mặt với dịch Huyết Thần Độc biến thể ở Trấn Bán Nguyệt. Tạo file scripts/relationship_data.js. |
+| Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Lý Tuyết Ưng) | Hoàn Thành | Mở rộng góc nhìn phụ Bắc Băng. Lý Tuyết Ưng dọn dẹp Bắc Băng, đối mặt tâm ma Chu Vân Kiều, lợi dụng Cực Hàn Ma Châu để đột phá Hóa Thần Sơ Kỳ, và phát lệnh triệu tập quần hùng Bắc Băng về Băng Ngục Thành. |
 
 ## GHI CHÚ GẦN ĐÂY
+- **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Lý Tuyết Ưng). Khắc họa sự nứt vỡ của Băng Tâm Quyết, đột phá Hóa Thần đầu tiên của Bắc Băng và khởi động chiến dịch Băng Ngục Thành.
 - **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Ngô Công Trưởng Lão và Góc Nhìn Phương Vô Kỵ). Xây dựng mục tiêu báo thù, nhiệm vụ đi bắt Hỗn Độn Kim Đan và sự xuất hiện của kẻ nắm giữ bí mật cổ đại, làm phức tạp thêm cục diện Nam Cương - Tây Mạc.
 - **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Hàn Thanh Nguyệt). Kết thúc Arc 1 tại Ma Phong Cảng, tạo động cơ để nàng đi sâu vào Nam Cương điều tra Huyết Sát Minh.
 - **Hôm nay:** Viết Chương 4-7 (Góc Nhìn Độc Cô Lão Quái). Khắc họa tàn độc và tham vọng của lão khi đứng trước Hắc Hạt Ma Trùng và sức mạnh của Vạn Độc Huyết Ma Đan.

@@ -4,7 +4,6 @@
 - [Hôm nay]: Bắt đầu viết chương 7-10 cho POV phụ: Đã xong Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái.
 
 ## PHIÊN GẦN NHẤT
-- Hoàn thành Chương 7-10 cho Góc Nhìn Ngô Công Trưởng Lão (nỗi nhục tại Huyết Mạch Thượng Cổ, nhận lệnh bắt A Ngốc, dùng Huyết Hồn Sinh Cơ Đan khôi phục công lực, đi săn tại Tây Mạc).
-- Hoàn thành Chương 7-10 cho Góc Nhìn Phương Vô Kỵ (lưu lạc ở Nam Cương, phát hiện sơ đồ trận pháp phong ấn Hắc Hạt Ma Trùng, lấy được "chìa khóa" khống chế trận pháp, phá Huyết Tế Đài, tiến về Tây Mạc).
-- Khởi tạo hạ tầng thư mục, MỤC_LỤC, và cập nhật Frontend cho 2 góc nhìn trên.
+- Hoàn thành Chương 7-10 cho Góc Nhìn Lý Tuyết Ưng (Dọn dẹp cứ điểm Huyết Sát Minh ở Bắc Băng, đối mặt với tâm ma Chu Vân Kiều, lợi dụng Cực Hàn Ma Châu để dung hợp Hóa Thần Sơ Kỳ, xuất quan phát lệnh triệu tập Băng Ngục Thành).
+- Khởi tạo hạ tầng thư mục, MỤC_LỤC, và cập nhật Frontend cho góc nhìn trên.
 - Cập nhật HỒ_SƠ_THẾ_GIỚI, BÁO_CÁO_CHẤT_LƯỢNG, và INSTRUCTIONS.
