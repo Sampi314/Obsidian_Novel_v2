@@ -1,5 +1,3 @@
-<div align="right">[ [ 🇺🇸 View English Version ] ](./README.en.md)</div>
-
 # 🌌 Hệ Thống Kiến Tạo Thế Giới Tiên Hiệp "Cố Nguyên"
 
 > [!IMPORTANT]
