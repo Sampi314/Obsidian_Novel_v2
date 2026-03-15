@@ -1,5 +1,3 @@
-<div align="right">[ [ 🇺🇸 View English Version ] ](./CONTRIBUTING.en.md)</div>
-
 # 🛠️ Hướng Dẫn Bảo Trì & Quy Chuẩn Nội Dung
 
 > [!CAUTION]
