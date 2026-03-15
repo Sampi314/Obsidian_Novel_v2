@@ -652,6 +652,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00144_Vầng_Sáng_Dưới_Bầu_Trời_Xám.md",
       "title": "Chương 144: Vầng Sáng Dưới Bầu Trời Xám"
+    },
+    {
+      "filename": "Chương_00145_Dọn_Sương_Bẩn.md",
+      "title": "Chương 145: Dọn Sương Bẩn"
+    },
+    {
+      "filename": "Chương_00146_Vòng_Tròn_Ấm_Áp.md",
+      "title": "Chương 146: Vòng Tròn Ấm Áp"
+    },
+    {
+      "filename": "Chương_00147_Hạt_Nắng_Sau_Bão.md",
+      "title": "Chương 147: Hạt Nắng Sau Bão"
+    },
+    {
+      "filename": "Chương_00148_Bóng_Tối_Ôm_Lấy_Ánh_Sáng.md",
+      "title": "Chương 148: Bóng Tối Ôm Lấy Ánh Sáng"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [
@@ -1098,16 +1114,16 @@ Object.assign(chapterData, {
       "title": "Chương 91: Khấu Kiến Nữ Vương"
     },
     {
-      "filename": "Chương_00092_Bão_Trước_Bình_Minh.md",
-      "title": "Chương 92: Bão Trước Bình Minh"
+      "filename": "Chương_00092_Giăng_Bẫy_Rừng_Sương.md",
+      "title": "Chương 92: Giăng Bẫy Rừng Sương"
     },
     {
-      "filename": "Chương_00093_Khấu_Kiến_Nữ_Vương.md",
-      "title": "Chương 93: Khấu Kiến Nữ Vương"
+      "filename": "Chương_00093_Mưa_Tên_Trong_Sương_Độc.md",
+      "title": "Chương 93: Mưa Tên Trong Sương Độc"
     },
     {
-      "filename": "Chương_00094_Giăng_Bẫy_Rừng_Sương.md",
-      "title": "Chương 94: Giăng Bẫy Rừng Sương"
+      "filename": "Chương_00094_Đối_Đầu_Huyết_Tôn.md",
+      "title": "Chương 94: Đối Đầu Huyết Tôn"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
