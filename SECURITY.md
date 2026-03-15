@@ -1,5 +1,3 @@
-<div align="right">[ [ 🇺🇸 View English Version ] ](./SECURITY.en.md)</div>
-
 # 🛡️ Chính Sách Bảo Mật
 
 Đây là dự án cá nhân tập trung vào sáng tạo nội dung văn học (Tiên Hiệp). Mặc dù không chứa mã nguồn ứng dụng phức tạp, chúng tôi vẫn cam kết duy trì tính toàn vẹn và an toàn cho dữ liệu trong kho lưu trữ.
