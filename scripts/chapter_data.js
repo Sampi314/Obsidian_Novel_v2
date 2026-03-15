@@ -1790,6 +1790,24 @@ Object.assign(chapterData, {
       "title": "Chương 5: Kiếm Đạo Hộ Thế"
     }
   ],
+  "Góc_Nhìn_Hắc_Hạt_Ma_Trùng": [
+    {
+      "filename": "Chương_00007_Cơn_Đói_Nguyên_Thủy.md",
+      "title": "Chương 7: Cơn Đói Nguyên Thủy"
+    },
+    {
+      "filename": "Chương_00008_Vết_Nứt_Thượng_Cổ.md",
+      "title": "Chương 8: Vết Nứt Thượng Cổ"
+    },
+    {
+      "filename": "Chương_00009_Tiếng_Gọi_Thuần_Khiết.md",
+      "title": "Chương 9: Tiếng Gọi Thuần Khiết"
+    },
+    {
+      "filename": "Chương_00010_Trùng_Triều_Trỗi_Dậy.md",
+      "title": "Chương 10: Trùng Triều Trỗi Dậy"
+    }
+  ],
   "Góc_Nhìn_Nam_Cương": [
     {
       "filename": "Chương_00001_Dấu_Hiệu_Tai_Ương.md",
