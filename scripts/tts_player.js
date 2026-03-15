@@ -574,18 +574,23 @@
             el.style.cursor = 'pointer';
             el.title = 'Nhấn đúp để đọc từ đây';
             el.addEventListener('dblclick', function() {
-                // Stop current playback if any, then start from this paragraph
-                if (state.playing) {
+                var wasActive = state.playing;
+
+                // Stop current playback if any
+                if (wasActive) {
                     cancelCurrentAudio();
                     state.playing = false;
                     state.paused = false;
                 }
+
                 state.currentIndex = idx;
                 var bar = document.getElementById('tts-bar');
                 var fab = document.getElementById('tts-fab');
                 if (bar) bar.classList.add('tts-bar-visible');
                 if (fab) fab.classList.add('tts-fab-hidden');
-                handlePlay();
+
+                // Delay after cancel so speechSynthesis is ready
+                setTimeout(function() { handlePlay(); }, wasActive ? 80 : 0);
             });
         });
     }
