@@ -1,4 +1,8 @@
-# 🤝 Bộ Quy Tắc Ứng Xử (Code of Conduct)
+<div align="right">[ [ 🇺🇸 View English Version ] ](./CODE_OF_CONDUCT.en.md)</div>
+
+# 🤝 Bộ Quy Tắc Ứng Xử
+
+> [!NOTE]
 
 ## 🌟 Cam Kết Của Dự Án
 
