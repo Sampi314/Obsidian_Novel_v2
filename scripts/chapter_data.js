@@ -2728,6 +2728,42 @@ Object.assign(chapterData, {
       "title": "Chương 10: Bóng Đen Áp Sát"
     }
   ],
+  "Góc_Nhìn_Nham_Thần": [
+    {
+      "filename": "Chương_00007_Nỗi_Đau_Địa_Mạch.md",
+      "title": "Chương 7: Nỗi Đau Địa Mạch"
+    },
+    {
+      "filename": "Chương_00008_Cơn_Thịnh_Nộ_Của_Đá.md",
+      "title": "Chương 8: Cơn Thịnh Nộ Của Đá"
+    },
+    {
+      "filename": "Chương_00009_Linh_Hồn_Cổ_Đại.md",
+      "title": "Chương 9: Linh Hồn Cổ Đại"
+    },
+    {
+      "filename": "Chương_00010_Ngọn_Núi_Biết_Đi.md",
+      "title": "Chương 10: Ngọn Núi Biết Đi"
+    }
+  ],
+  "Góc_Nhìn_Lục_Tiêu": [
+    {
+      "filename": "Chương_00007_Ra_Khỏi_Rừng_Sâu.md",
+      "title": "Chương 7: Ra Khỏi Rừng Sâu"
+    },
+    {
+      "filename": "Chương_00008_Âm_Thanh_Thanh_Tẩy.md",
+      "title": "Chương 8: Âm Thanh Thanh Tẩy"
+    },
+    {
+      "filename": "Chương_00009_Bóng_Đen_Nơi_Biên_Giới.md",
+      "title": "Chương 9: Bóng Đen Nơi Biên Giới"
+    },
+    {
+      "filename": "Chương_00010_Khúc_Tiêu_Sinh_Tử.md",
+      "title": "Chương 10: Khúc Tiêu Sinh Tử"
+    }
+  ],
   "Góc_Nhìn_Đông_Hoang": [
     {
       "filename": "Chương_00001_Trận_Chiến_Cuối_Cùng.md",

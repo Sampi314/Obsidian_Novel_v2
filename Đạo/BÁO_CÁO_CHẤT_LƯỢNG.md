@@ -16,8 +16,9 @@
 |---|---|---|---|---|
 | Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Lục Ly) | Hoàn Thành | Lục Ly kể về sự sụp đổ của Hoàng Sa Quốc do Vu Tộc (Huyết Độc). Kim Sa vượt qua Thử Thách Thủy Linh, kế thừa Thủy Linh Châu và Hoàng Kim Ấn, đột phá Trúc Cơ Viên Mãn. Lục Ly tan biến sau khi hoàn thành sứ mệnh ngàn năm. Kim Sa mang trọng trách bảo vệ Long Cốt và trốn chạy khỏi sự truy kích của Huyết Sát Minh. |
 | Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Nguyệt Dao) | Hoàn Thành | Nguyệt Dao nhận lời khẩn cầu từ Thần Mộc về Huyết Độc. Nàng quyết định phá bỏ luật cô lập ngàn năm, dùng "Nguyệt Quang Phổ Chiếu" thanh tẩy dã thú biến dị và phái Lục Tiêu đi Nam Cương. Nàng đánh bại đợt tấn công đầu tiên của một Huyết Tôn và đám Huyết Thi từ Huyết Sát Minh. |
+| Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Nham Thần & Lục Tiêu) | Hoàn Thành | Nham Thần thức tỉnh và đập tan các Huyết Tế Đài, hướng về trung tâm Nam Cương. Lục Tiêu ra khỏi Vĩnh Hằng Sâm Lâm, dùng âm nhạc tịnh hóa Huyết Độc, chạm trán và tiêu diệt một Huyết Sứ tại biên giới. |
 
 ## GHI CHÚ GẦN ĐÂY
+- **Hôm nay:** Viết Chương 7-10 cho Nham Thần và Lục Tiêu (Đông Hoang). Nham Thần thức tỉnh và đập tan các Huyết Tế Đài, hướng về trung tâm Nam Cương. Lục Tiêu ra khỏi Vĩnh Hằng Sâm Lâm, dùng âm nhạc tịnh hóa Huyết Độc, chạm trán và tiêu diệt một Huyết Sứ tại biên giới.
 - **Hôm nay:** Viết Chương 7-10 cho Nguyệt Dao. Sự kiện Lời Khẩn Cầu Từ Thần Mộc & Quyết Định Của Nữ Hoàng. Nguyệt Dao phá bỏ kết giới, phái Lục Tiêu đi tìm Dược Vương Cốc.
 - **Hôm nay:** Viết Chương 7-10 cho Lục Ly. Sự kiện Người Kế Thừa Hoàng Sa Quốc và Sứ Mệnh Của Kim Sa. Lục Ly hoàn thành sứ mệnh và tan biến. Kim Sa trở thành Nữ Vương mang theo Thủy Linh Châu và Hoàng Kim Ấn, bắt đầu trốn chạy khỏi Huyết Sát Minh.
-- **Hôm nay:** Hoàn thành Arc 1 Góc Nhìn Bắc Băng (Sở Lăng Sương, Triệu Thanh Hằng, Lý Tuyết Ưng). Bắc Băng hội tụ tại Băng Ngục Thành để chuẩn bị đối phó với Huyết Sát Minh.
