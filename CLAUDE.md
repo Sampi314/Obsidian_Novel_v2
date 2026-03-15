@@ -13,9 +13,8 @@ Do NOT modify `locked_chapters.json` itself — it is managed exclusively by the
 - Skill files (`.claude/skills/*/SKILL.md`) — YAML frontmatter (`name`, `description`), Vietnamese with diacritics for content, include `**Tham khảo:**` reference to a sample file in the corresponding `Đạo/` directory
 - Skill output templates must match the Roman numeral section format (I, II, III...) used in actual `Đạo/` files
 
-## VieNeu-TTS Integration
+## TTS Player
 
-- Local server: `uv run vieneu-web` → port 8001
-- Standard voices: `GET /stream?text=...&voice_id=...` → `audio/wav`
-- Voice cloning: `POST /stream` with FormData (`text`, `ref_audio` file, `ref_text`) → `audio/wav`
-- Cloned voice profiles stored in `localStorage` as base64 under key `tts_cloned_voices`
+- Uses Edge TTS public API (`https://tts.travisvn.com/api/tts`) — no setup needed
+- 2 voices: HoaiMy (Nữ), NamMinh (Nam)
+- Voice/speed stored in `localStorage` keys `tts_voice`, `tts_speed`

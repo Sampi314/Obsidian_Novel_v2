@@ -1,7 +1,7 @@
 /* ═══════════════════════════════════════════
    CỐ NGUYÊN GIỚI — Floating TTS Player
-   VieNeu-TTS with Voice Cloning
-   Sticky bottom bar with voice selection & settings
+   Edge TTS — zero setup, just works
+   Sticky bottom bar with voice selection
    ═══════════════════════════════════════════ */
 
 (function() {
@@ -9,34 +9,21 @@
 
     // ── Configuration ──
     var EDGE_TTS_API = 'https://tts.travisvn.com/api/tts';
-    var EDGE_FALLBACK_VOICE = 'vi-VN-HoaiMyNeural';
-    var DEFAULT_VIENEU_URL = 'http://127.0.0.1:8001';
 
-    // VieNeu-TTS voices
-    var VIENEU_VOICES = [
-        { id: 'Binh',  name: 'Bình (Nam Bắc)' },
-        { id: 'Tuyen', name: 'Tuyên (Nam Bắc)' },
-        { id: 'Vinh',  name: 'Vĩnh (Nam Nam)' },
-        { id: 'Doan',  name: 'Đoan (Nữ Nam)' },
-        { id: 'Ly',    name: 'Ly (Nữ Bắc)' },
-        { id: 'Ngoc',  name: 'Ngọc (Nữ Bắc)' },
+    var VOICES = [
+        { id: 'vi-VN-HoaiMyNeural',  name: 'HoaiMy (Nữ)' },
+        { id: 'vi-VN-NamMinhNeural', name: 'NamMinh (Nam)' },
     ];
 
     // ── State ──
     var state = {
         elements: [],
-        originalHTMLs: {},
         currentIndex: 0,
         playing: false,
         paused: false,
         speed: parseFloat(localStorage.getItem('tts_speed') || '1.0'),
-        voiceId: localStorage.getItem('tts_voice') || 'Binh',
-        vieneuUrl: localStorage.getItem('tts_vieneu_url') || DEFAULT_VIENEU_URL,
+        voiceId: localStorage.getItem('tts_voice') || 'vi-VN-HoaiMyNeural',
         audioEl: null,
-        vieneuAvailable: null,   // null = untested
-        settingsOpen: false,
-        clonedVoices: JSON.parse(localStorage.getItem('tts_cloned_voices') || '[]'),
-        pendingCloneAudio: null, // temp: holds FileReader result before save
     };
 
     // ── Build Floating Player UI ──
@@ -70,58 +57,9 @@
             '  <div class="tts-voice-wrap">',
             '    <select class="tts-voice-select" id="tts-voice-select"></select>',
             '  </div>',
-            '  <button class="tts-btn tts-btn-settings" id="tts-settings" title="Cài đặt VieNeu-TTS">',
-            '    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>',
-            '  </button>',
             '  <button class="tts-btn tts-btn-close" id="tts-close" title="Đóng">',
             '    <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M1 1l10 10M11 1L1 11" stroke="currentColor" stroke-width="2" fill="none"/></svg>',
             '  </button>',
-            '</div>',
-            // Settings panel (hidden by default)
-            '<div class="tts-settings-panel" id="tts-settings-panel">',
-            '  <div class="tts-settings-inner">',
-            '    <div class="tts-settings-header">',
-            '      <span class="tts-settings-title">Cài Đặt VieNeu-TTS</span>',
-            '      <span class="tts-settings-badge" id="tts-vieneu-status"></span>',
-            '    </div>',
-            '    <div class="tts-settings-row">',
-            '      <label class="tts-settings-label">Server URL</label>',
-            '      <input class="tts-settings-input" id="tts-vieneu-url" type="text" ',
-            '        value="' + state.vieneuUrl + '" placeholder="http://127.0.0.1:8001"/>',
-            '    </div>',
-            '    <div class="tts-settings-row">',
-            '      <button class="tts-settings-btn" id="tts-vieneu-test">Kiểm Tra Kết Nối</button>',
-            '      <button class="tts-settings-btn tts-settings-btn-save" id="tts-vieneu-save">Lưu</button>',
-            '    </div>',
-            '    <div class="tts-settings-help">',
-            '      Chạy VieNeu-TTS local: <code>uv run vieneu-web</code><br>',
-            '      Repo: <a href="https://github.com/pnnbao97/VieNeu-TTS" target="_blank">github.com/pnnbao97/VieNeu-TTS</a>',
-            '    </div>',
-            '    <div class="tts-clone-divider"></div>',
-            '    <div class="tts-clone-section">',
-            '      <div class="tts-settings-header">',
-            '        <span class="tts-settings-title">Giọng Nhân Vật — Voice Cloning</span>',
-            '        <span class="tts-clone-hint">(3-5 giây mẫu giọng)</span>',
-            '      </div>',
-            '      <div class="tts-settings-row">',
-            '        <label class="tts-settings-label">Tên Nhân Vật</label>',
-            '        <input class="tts-settings-input" id="tts-clone-name" type="text" placeholder="VD: Diệp Thanh Y"/>',
-            '      </div>',
-            '      <div class="tts-settings-row">',
-            '        <label class="tts-settings-label">Mẫu Giọng</label>',
-            '        <input type="file" id="tts-clone-audio" accept="audio/*" class="tts-settings-file"/>',
-            '      </div>',
-            '      <div class="tts-settings-row">',
-            '        <label class="tts-settings-label">Lời Mẫu</label>',
-            '        <input class="tts-settings-input" id="tts-clone-text" type="text" placeholder="Nội dung lời nói trong đoạn mẫu giọng"/>',
-            '      </div>',
-            '      <div class="tts-settings-row">',
-            '        <button class="tts-settings-btn tts-settings-btn-save" id="tts-clone-save">Tạo Giọng Nhân Vật</button>',
-            '        <span class="tts-clone-status" id="tts-clone-status"></span>',
-            '      </div>',
-            '      <div id="tts-clone-list" class="tts-clone-list"></div>',
-            '    </div>',
-            '  </div>',
             '</div>',
         ].join('\n');
 
@@ -129,19 +67,13 @@
 
         // Populate voice select
         var sel = document.getElementById('tts-voice-select');
-        var optgroup = document.createElement('optgroup');
-        optgroup.label = 'VieNeu-TTS';
-        VIENEU_VOICES.forEach(function(v) {
+        VOICES.forEach(function(v) {
             var opt = document.createElement('option');
             opt.value = v.id;
             opt.textContent = v.name;
             if (v.id === state.voiceId) opt.selected = true;
-            optgroup.appendChild(opt);
+            sel.appendChild(opt);
         });
-        sel.appendChild(optgroup);
-
-        // Add cloned character voices optgroup
-        populateClonedVoicesInSelect();
 
         // ── Event Listeners ──
         document.getElementById('tts-play').addEventListener('click', handlePlay);
@@ -162,240 +94,7 @@
             }
         });
 
-        // Settings panel
-        document.getElementById('tts-settings').addEventListener('click', toggleSettings);
-        document.getElementById('tts-vieneu-test').addEventListener('click', testVieneuConnection);
-        document.getElementById('tts-vieneu-save').addEventListener('click', saveVieneuSettings);
-
-        // Voice cloning
-        document.getElementById('tts-clone-save').addEventListener('click', saveClonedVoice);
-        document.getElementById('tts-clone-audio').addEventListener('change', handleCloneAudioSelect);
-
-        // Render existing cloned voices
-        renderClonedVoiceList();
-
         return bar;
-    }
-
-    // ── Settings Panel ──
-
-    function toggleSettings() {
-        var panel = document.getElementById('tts-settings-panel');
-        state.settingsOpen = !state.settingsOpen;
-        panel.classList.toggle('tts-settings-visible', state.settingsOpen);
-    }
-
-    function testVieneuConnection() {
-        var urlInput = document.getElementById('tts-vieneu-url');
-        var badge = document.getElementById('tts-vieneu-status');
-        var testBtn = document.getElementById('tts-vieneu-test');
-        var testUrl = urlInput.value.replace(/\/+$/, '');
-
-        badge.textContent = 'Đang kiểm tra...';
-        badge.className = 'tts-settings-badge tts-badge-pending';
-        testBtn.disabled = true;
-
-        fetch(testUrl + '/voices', { mode: 'cors' })
-            .then(function(r) {
-                if (!r.ok) throw new Error('HTTP ' + r.status);
-                return r.json();
-            })
-            .then(function(data) {
-                badge.textContent = 'Kết nối thành công';
-                badge.className = 'tts-settings-badge tts-badge-ok';
-                state.vieneuAvailable = true;
-                // Update voice list if server returned voices
-                if (data && data.voices) {
-                    updateVieneuVoicesFromServer(data.voices);
-                }
-            })
-            .catch(function() {
-                badge.textContent = 'Không kết nối được';
-                badge.className = 'tts-settings-badge tts-badge-error';
-                state.vieneuAvailable = false;
-            })
-            .finally(function() {
-                testBtn.disabled = false;
-            });
-    }
-
-    function saveVieneuSettings() {
-        var urlInput = document.getElementById('tts-vieneu-url');
-        state.vieneuUrl = urlInput.value.replace(/\/+$/, '');
-        localStorage.setItem('tts_vieneu_url', state.vieneuUrl);
-
-        var badge = document.getElementById('tts-vieneu-status');
-        badge.textContent = 'Đã lưu';
-        badge.className = 'tts-settings-badge tts-badge-ok';
-        setTimeout(function() {
-            badge.textContent = '';
-            badge.className = 'tts-settings-badge';
-        }, 2000);
-    }
-
-    function updateVieneuVoicesFromServer(serverVoices) {
-        // serverVoices is an array of voice objects from VieNeu-TTS /voices endpoint
-        // Update the dropdown if we got new voices
-        if (!Array.isArray(serverVoices) || serverVoices.length === 0) return;
-
-        var sel = document.getElementById('tts-voice-select');
-        var vieneuGroup = sel.querySelector('optgroup[label*="VieNeu"]');
-        if (!vieneuGroup) return;
-
-        // Clear existing options
-        while (vieneuGroup.firstChild) vieneuGroup.removeChild(vieneuGroup.firstChild);
-
-        // Re-populate from server
-        serverVoices.forEach(function(v) {
-            var opt = document.createElement('option');
-            opt.value = v.id || v.name;
-            opt.textContent = v.label || v.name || v.id;
-            if (opt.value === state.voiceId) opt.selected = true;
-            vieneuGroup.appendChild(opt);
-        });
-    }
-
-    // ── Voice Cloning ──
-
-    function handleCloneAudioSelect(e) {
-        var file = e.target.files && e.target.files[0];
-        if (!file) { state.pendingCloneAudio = null; return; }
-
-        var reader = new FileReader();
-        reader.onload = function() {
-            // Store as base64 (strip data URL prefix)
-            var base64 = reader.result.split(',')[1];
-            state.pendingCloneAudio = {
-                base64: base64,
-                type: file.type || 'audio/wav',
-                name: file.name,
-                size: file.size,
-            };
-        };
-        reader.readAsDataURL(file);
-    }
-
-    function saveClonedVoice() {
-        var nameInput = document.getElementById('tts-clone-name');
-        var textInput = document.getElementById('tts-clone-text');
-        var statusEl = document.getElementById('tts-clone-status');
-
-        var voiceName = nameInput.value.trim();
-        var refText = textInput.value.trim();
-
-        if (!voiceName) {
-            statusEl.textContent = 'Cần nhập tên nhân vật';
-            statusEl.className = 'tts-clone-status tts-badge-error';
-            return;
-        }
-        if (!state.pendingCloneAudio) {
-            statusEl.textContent = 'Cần chọn file mẫu giọng';
-            statusEl.className = 'tts-clone-status tts-badge-error';
-            return;
-        }
-        if (!refText) {
-            statusEl.textContent = 'Cần nhập lời mẫu';
-            statusEl.className = 'tts-clone-status tts-badge-error';
-            return;
-        }
-
-        var voiceId = 'clone_' + Date.now();
-        var profile = {
-            id: voiceId,
-            name: voiceName,
-            audioBase64: state.pendingCloneAudio.base64,
-            audioType: state.pendingCloneAudio.type,
-            refText: refText,
-            createdAt: new Date().toISOString(),
-        };
-
-        state.clonedVoices.push(profile);
-        localStorage.setItem('tts_cloned_voices', JSON.stringify(state.clonedVoices));
-
-        // Clear inputs
-        nameInput.value = '';
-        textInput.value = '';
-        document.getElementById('tts-clone-audio').value = '';
-        state.pendingCloneAudio = null;
-
-        statusEl.textContent = 'Đã tạo: ' + voiceName;
-        statusEl.className = 'tts-clone-status tts-badge-ok';
-        setTimeout(function() {
-            statusEl.textContent = '';
-            statusEl.className = 'tts-clone-status';
-        }, 3000);
-
-        renderClonedVoiceList();
-        populateClonedVoicesInSelect();
-    }
-
-    function deleteClonedVoice(voiceId) {
-        state.clonedVoices = state.clonedVoices.filter(function(v) { return v.id !== voiceId; });
-        localStorage.setItem('tts_cloned_voices', JSON.stringify(state.clonedVoices));
-
-        // Reset voice selection if deleted voice was active
-        if (state.voiceId === voiceId) {
-            state.voiceId = 'Binh';
-            localStorage.setItem('tts_voice', state.voiceId);
-            var sel = document.getElementById('tts-voice-select');
-            if (sel) sel.value = state.voiceId;
-        }
-
-        renderClonedVoiceList();
-        populateClonedVoicesInSelect();
-    }
-
-    function renderClonedVoiceList() {
-        var listEl = document.getElementById('tts-clone-list');
-        if (!listEl) return;
-
-        if (state.clonedVoices.length === 0) {
-            listEl.innerHTML = '<span class="tts-clone-empty">Chưa có giọng nhân vật nào</span>';
-            return;
-        }
-
-        var html = state.clonedVoices.map(function(v) {
-            return '<div class="tts-clone-item" data-id="' + v.id + '">' +
-                '<span class="tts-clone-item-name">' + v.name + '</span>' +
-                '<span class="tts-clone-item-ref">' + v.refText.substring(0, 30) + (v.refText.length > 30 ? '…' : '') + '</span>' +
-                '<button class="tts-clone-item-del" data-id="' + v.id + '" title="Xóa">×</button>' +
-                '</div>';
-        }).join('');
-
-        listEl.innerHTML = html;
-
-        // Attach delete handlers
-        listEl.querySelectorAll('.tts-clone-item-del').forEach(function(btn) {
-            btn.addEventListener('click', function(e) {
-                e.stopPropagation();
-                deleteClonedVoice(btn.getAttribute('data-id'));
-            });
-        });
-    }
-
-    function populateClonedVoicesInSelect() {
-        var sel = document.getElementById('tts-voice-select');
-        if (!sel) return;
-
-        // Remove existing clone optgroup if any
-        var existing = sel.querySelector('optgroup[label*="Nhân Vật"]');
-        if (existing) sel.removeChild(existing);
-
-        if (state.clonedVoices.length === 0) return;
-
-        var optgroup = document.createElement('optgroup');
-        optgroup.label = 'Giọng Nhân Vật (Clone)';
-
-        state.clonedVoices.forEach(function(v) {
-            var opt = document.createElement('option');
-            opt.value = v.id;
-            opt.textContent = v.name;
-            if (v.id === state.voiceId) opt.selected = true;
-            optgroup.appendChild(opt);
-        });
-
-        // Append after VieNeu voices
-        sel.appendChild(optgroup);
     }
 
     // ── Inject CSS ──
@@ -435,9 +134,6 @@
             '.tts-btn-play{background:rgba(212,165,116,.12);}',
             '.tts-btn-close{width:28px;height:28px;border:none;background:none;color:var(--muted,#6a7080);flex-shrink:0;}',
             '.tts-btn-close:hover{color:var(--accent,#d4a574);}',
-            '.tts-btn-settings{width:30px;height:30px;border:none;background:none;color:var(--muted,#6a7080);flex-shrink:0;}',
-            '.tts-btn-settings:hover{color:var(--accent,#d4a574);}',
-            '.tts-btn-settings.tts-settings-active{color:var(--accent,#d4a574);}',
             /* Progress */
             '.tts-progress{',
             '  flex:1;min-width:0;display:flex;align-items:center;gap:10px;',
@@ -474,92 +170,12 @@
             '}',
             '[data-theme="bach-tuyet"] .tts-voice-select{background:rgba(238,231,220,.9);color:#2a2420;}',
             '.tts-voice-select:focus{border-color:var(--accent,#d4a574);}',
-            '.tts-voice-select optgroup{font-style:normal;font-weight:700;color:var(--accent-dim,#9b7a52);font-size:.7rem;}',
             /* Highlight */
-            '.tts-highlight{',
-            '  background:rgba(212,165,116,.15) !important;',
-            '  color:var(--accent-bright,#e8be8e) !important;',
-            '  border-radius:2px;padding:0 2px;',
-            '  transition:background .15s ease;',
-            '}',
             '.tts-reading{',
             '  border-left:3px solid var(--accent,#d4a574) !important;',
             '  padding-left:12px !important;',
             '  transition:border-color .3s ease,padding .3s ease;',
             '}',
-            /* Settings Panel */
-            '.tts-settings-panel{',
-            '  max-height:0;overflow:hidden;',
-            '  transition:max-height .3s ease;',
-            '  background:rgba(8,10,14,.98);',
-            '  border-top:1px solid rgba(212,165,116,.06);',
-            '}',
-            '[data-theme="bach-tuyet"] .tts-settings-panel{background:rgba(240,234,224,.98);}',
-            '.tts-settings-panel.tts-settings-visible{max-height:520px;}',
-            '.tts-settings-inner{',
-            '  padding:12px clamp(12px,3vw,24px);',
-            '  display:flex;flex-direction:column;gap:8px;',
-            '}',
-            '.tts-settings-header{display:flex;align-items:center;gap:10px;}',
-            '.tts-settings-title{font-size:.8rem;color:var(--accent,#d4a574);font-weight:600;font-family:"Cormorant Garamond","Georgia",serif;}',
-            '.tts-settings-badge{font-size:.65rem;padding:2px 8px;border-radius:10px;}',
-            '.tts-badge-ok{background:rgba(80,200,120,.15);color:#50c878;}',
-            '.tts-badge-error{background:rgba(220,60,60,.15);color:#dc3c3c;}',
-            '.tts-badge-pending{background:rgba(212,165,116,.1);color:var(--accent,#d4a574);}',
-            '.tts-settings-row{display:flex;gap:8px;align-items:center;}',
-            '.tts-settings-label{font-size:.72rem;color:var(--muted,#6a7080);min-width:70px;font-family:"Cormorant Garamond","Georgia",serif;}',
-            '.tts-settings-input{',
-            '  flex:1;padding:5px 8px;border-radius:3px;font-size:.72rem;',
-            '  border:1px solid rgba(212,165,116,.12);',
-            '  background:rgba(21,26,34,.9);color:var(--text,#e8e0d4);',
-            '  font-family:monospace;outline:none;',
-            '}',
-            '[data-theme="bach-tuyet"] .tts-settings-input{background:rgba(238,231,220,.9);color:#2a2420;}',
-            '.tts-settings-input:focus{border-color:var(--accent,#d4a574);}',
-            '.tts-settings-btn{',
-            '  padding:4px 12px;border-radius:3px;font-size:.7rem;cursor:pointer;',
-            '  border:1px solid rgba(212,165,116,.15);',
-            '  background:rgba(212,165,116,.06);color:var(--accent,#d4a574);',
-            '  font-family:"Cormorant Garamond","Georgia",serif;transition:all .2s ease;',
-            '}',
-            '.tts-settings-btn:hover{background:rgba(212,165,116,.14);}',
-            '.tts-settings-btn:disabled{opacity:.5;cursor:default;}',
-            '.tts-settings-btn-save{background:rgba(212,165,116,.15);font-weight:600;}',
-            '.tts-settings-help{font-size:.65rem;color:var(--muted,#6a7080);line-height:1.5;}',
-            '.tts-settings-help code{',
-            '  background:rgba(212,165,116,.08);padding:1px 4px;border-radius:2px;',
-            '  font-family:monospace;font-size:.62rem;',
-            '}',
-            '.tts-settings-help a{color:var(--accent-dim,#9b7a52);text-decoration:none;}',
-            '.tts-settings-help a:hover{text-decoration:underline;}',
-            /* Voice Cloning Section */
-            '.tts-clone-divider{height:1px;background:rgba(212,165,116,.1);margin:8px 0;}',
-            '.tts-clone-hint{font-size:.6rem;color:var(--muted,#6a7080);font-style:italic;}',
-            '.tts-settings-file{',
-            '  font-size:.68rem;color:var(--muted,#6a7080);',
-            '  font-family:"Cormorant Garamond","Georgia",serif;',
-            '}',
-            '.tts-settings-file::file-selector-button{',
-            '  padding:3px 10px;border-radius:3px;font-size:.65rem;cursor:pointer;',
-            '  border:1px solid rgba(212,165,116,.15);margin-right:8px;',
-            '  background:rgba(212,165,116,.06);color:var(--accent,#d4a574);',
-            '  font-family:"Cormorant Garamond","Georgia",serif;',
-            '}',
-            '.tts-clone-status{font-size:.65rem;padding:2px 8px;border-radius:10px;}',
-            '.tts-clone-list{margin-top:6px;display:flex;flex-direction:column;gap:4px;}',
-            '.tts-clone-empty{font-size:.62rem;color:var(--muted,#6a7080);font-style:italic;}',
-            '.tts-clone-item{',
-            '  display:flex;align-items:center;gap:8px;padding:4px 8px;border-radius:3px;',
-            '  background:rgba(212,165,116,.04);border:1px solid rgba(212,165,116,.08);',
-            '}',
-            '.tts-clone-item-name{font-size:.72rem;color:var(--accent,#d4a574);font-weight:600;min-width:80px;}',
-            '.tts-clone-item-ref{font-size:.6rem;color:var(--muted,#6a7080);flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}',
-            '.tts-clone-item-del{',
-            '  width:20px;height:20px;border:none;background:none;color:var(--muted,#6a7080);',
-            '  cursor:pointer;font-size:.9rem;display:flex;align-items:center;justify-content:center;',
-            '  border-radius:50%;transition:all .2s ease;flex-shrink:0;',
-            '}',
-            '.tts-clone-item-del:hover{background:rgba(220,60,60,.15);color:#dc3c3c;}',
             /* Fab trigger button (when bar is hidden) */
             '.tts-fab{',
             '  position:fixed;bottom:20px;right:20px;z-index:7499;',
@@ -582,7 +198,6 @@
             '  .tts-voice-wrap{display:none;}',
             '  .tts-progress-text{font-size:.65rem;min-width:40px;}',
             '  .tts-speed-val{font-size:.68rem;min-width:28px;}',
-            '  .tts-btn-settings{display:none;}',
             '}',
         ].join('\n');
         document.head.appendChild(style);
@@ -659,84 +274,17 @@
     function cancelCurrentAudio() {
         if (state.audioEl) {
             state.audioEl.pause();
-            // Revoke blob URL if exists
-            if (state.audioEl._blobUrl) {
-                URL.revokeObjectURL(state.audioEl._blobUrl);
-            }
             state.audioEl.removeAttribute('src');
             state.audioEl = null;
         }
     }
 
-    // VieNeu-TTS: fetch audio from local server (supports voice cloning)
-    function vieneuTTSSpeak(text) {
-        return new Promise(function(resolve, reject) {
-            var cloneVoice = state.clonedVoices.find(function(v) { return v.id === state.voiceId; });
-
-            var fetchPromise;
-            if (cloneVoice) {
-                // Voice cloning: POST with FormData (ref_audio + ref_text)
-                var formData = new FormData();
-                formData.append('text', text);
-                formData.append('ref_text', cloneVoice.refText);
-
-                // Convert base64 back to Blob for file upload
-                var byteChars = atob(cloneVoice.audioBase64);
-                var byteArray = new Uint8Array(byteChars.length);
-                for (var i = 0; i < byteChars.length; i++) {
-                    byteArray[i] = byteChars.charCodeAt(i);
-                }
-                var audioBlob = new Blob([byteArray], { type: cloneVoice.audioType || 'audio/wav' });
-                formData.append('ref_audio', audioBlob, 'ref.wav');
-
-                fetchPromise = fetch(state.vieneuUrl + '/stream', {
-                    method: 'POST',
-                    body: formData,
-                    mode: 'cors',
-                });
-            } else {
-                // Standard voice: GET request
-                var url = state.vieneuUrl + '/stream?' +
-                    'text=' + encodeURIComponent(text) +
-                    '&voice_id=' + encodeURIComponent(state.voiceId);
-                fetchPromise = fetch(url, { mode: 'cors' });
-            }
-
-            // Both paths return WAV audio — handle identically
-            fetchPromise
-                .then(function(response) {
-                    if (!response.ok) throw new Error('VieNeu HTTP ' + response.status);
-                    return response.blob();
-                })
-                .then(function(blob) {
-                    var blobUrl = URL.createObjectURL(blob);
-                    var audio = new Audio();
-                    audio._blobUrl = blobUrl; // store for cleanup
-
-                    audio.addEventListener('canplaythrough', function() {
-                        resolve(audio);
-                    }, { once: true });
-
-                    audio.addEventListener('error', function() {
-                        URL.revokeObjectURL(blobUrl);
-                        reject(new Error('VieNeu audio playback failed'));
-                    }, { once: true });
-
-                    audio.src = blobUrl;
-                    audio.load();
-                })
-                .catch(function(err) {
-                    reject(err);
-                });
-        });
-    }
-
-    // Edge TTS: silent fallback via public API (no install needed)
+    // Edge TTS: fetch audio from public API
     function edgeTTSSpeak(text) {
         return new Promise(function(resolve, reject) {
             var url = EDGE_TTS_API + '?' +
                 'text=' + encodeURIComponent(text) +
-                '&voice=' + encodeURIComponent(EDGE_FALLBACK_VOICE) +
+                '&voice=' + encodeURIComponent(state.voiceId) +
                 '&rate=' + encodeURIComponent(((state.speed - 1) * 100).toFixed(0) + '%');
 
             var audio = new Audio();
@@ -745,7 +293,7 @@
             var timeout = setTimeout(function() {
                 audio.removeAttribute('src');
                 reject(new Error('Edge TTS timeout'));
-            }, 8000);
+            }, 10000);
 
             audio.addEventListener('canplaythrough', function() {
                 clearTimeout(timeout);
@@ -780,30 +328,13 @@
         highlightElement(el);
         updateUI();
 
-        // Try VieNeu-TTS first, fall back to Edge TTS silently
-        if (state.vieneuAvailable !== false) {
-            vieneuTTSSpeak(text).then(function(audio) {
-                state.vieneuAvailable = true;
-                state.audioEl = audio;
-                audio.addEventListener('ended', onChunkEnd);
-                audio.play();
-            }).catch(function() {
-                state.vieneuAvailable = false;
-                // Silent fallback to Edge TTS
-                edgeFallback(text);
-            });
-        } else {
-            edgeFallback(text);
-        }
-    }
-
-    function edgeFallback(text) {
         edgeTTSSpeak(text).then(function(audio) {
             state.audioEl = audio;
             audio.addEventListener('ended', onChunkEnd);
             audio.play();
         }).catch(function(err) {
-            console.error('Edge TTS error:', err.message);
+            console.error('TTS error:', err.message);
+            // Skip chunk on error
             onChunkEnd();
         });
     }
@@ -874,11 +405,6 @@
         if (bar) bar.classList.remove('tts-bar-visible');
         if (fab) fab.classList.remove('tts-fab-hidden');
 
-        // Close settings if open
-        var panel = document.getElementById('tts-settings-panel');
-        if (panel) panel.classList.remove('tts-settings-visible');
-        state.settingsOpen = false;
-
         updateUI();
     }
 
@@ -910,13 +436,13 @@
         document.body.appendChild(fab);
     }
 
-    // ── Expose for click-to-read on paragraphs ──
+    // ── Click-to-read on paragraphs ──
     function setupClickToRead() {
         state.elements = getReadableElements();
         state.elements.forEach(function(el, idx) {
             el.style.cursor = 'pointer';
             el.title = 'Nhấn để đọc từ đây';
-            el.addEventListener('click', function(e) {
+            el.addEventListener('click', function() {
                 if (!state.playing) {
                     state.currentIndex = idx;
                     var bar = document.getElementById('tts-bar');
@@ -929,7 +455,7 @@
         });
     }
 
-    // ── Also expose globally for navigation.js backward compat ──
+    // ── Global API for navigation.js ──
     window.startReading = handlePlay;
     window.pauseReading = handlePause;
     window.resumeReading = function() { if (state.paused) handlePlay(); };
@@ -939,12 +465,11 @@
 
     // ── Initialize ──
     function init() {
-        // Clean up stale voice IDs from removed engines (Edge/native)
-        var validIds = VIENEU_VOICES.map(function(v) { return v.id; })
-            .concat(state.clonedVoices.map(function(v) { return v.id; }));
+        // Clean up stale voice IDs
+        var validIds = VOICES.map(function(v) { return v.id; });
         if (validIds.indexOf(state.voiceId) === -1) {
-            state.voiceId = 'Binh';
-            localStorage.setItem('tts_voice', 'Binh');
+            state.voiceId = 'vi-VN-HoaiMyNeural';
+            localStorage.setItem('tts_voice', state.voiceId);
         }
 
         injectCSS();
@@ -952,12 +477,6 @@
         buildFab();
         setupClickToRead();
         updateUI();
-
-        // Probe VieNeu-TTS availability silently on load
-        fetch(state.vieneuUrl + '/voices', { mode: 'cors' })
-            .then(function(r) { return r.ok ? r.json() : Promise.reject(); })
-            .then(function() { state.vieneuAvailable = true; })
-            .catch(function() { state.vieneuAvailable = null; }); // null = unknown, will try on first use
 
         // Auto-play if param present
         var urlParams = new URLSearchParams(window.location.search);
