@@ -2556,8 +2556,86 @@ Object.assign(chapterData, {
   ],
   "Góc_Nhìn_Hứa_Nhược_Thủy": [
     {
+      "filename": "Chương_00001_Cái_Chết_Bất_Ngờ.md",
+      "title": "Chương 1: Cái Chết Bất Ngờ"
+    },
+    {
+      "filename": "Chương_00002_Tiếp_Quản_Cơ_Nghiệp.md",
+      "title": "Chương 2: Tiếp Quản Cơ Nghiệp"
+    },
+    {
       "filename": "Chương_00003_Thương_Đạo_Tây_Mạc.md",
       "title": "Chương 3: Thương Đạo Tây Mạc"
+    },
+    {
+      "filename": "Chương_00004_Cạm_Bẫy_Phế_Tích.md",
+      "title": "Chương 4: Cạm Bẫy Phế Tích"
+    },
+    {
+      "filename": "Chương_00005_Cái_Giá_Của_Trung_Lập.md",
+      "title": "Chương 5: Cái Giá Của Trung Lập"
+    },
+    {
+      "filename": "Chương_00006_Thoát_Thân_Bằng_May_Mắn.md",
+      "title": "Chương 6: Thoát Thân Bằng May Mắn"
+    },
+    {
+      "filename": "Chương_00007_Âm_Mưu_Nội_Bộ.md",
+      "title": "Chương 7: Âm Mưu Nội Bộ"
+    },
+    {
+      "filename": "Chương_00008_Gặp_Gỡ_Định_Mệnh.md",
+      "title": "Chương 8: Gặp Gỡ Định Mệnh"
+    },
+    {
+      "filename": "Chương_00009_Đoàn_Tụ.md",
+      "title": "Chương 9: Đoàn Tụ"
+    },
+    {
+      "filename": "Chương_00010_Sự_Thật_Về_Gia_Tộc.md",
+      "title": "Chương 10: Sự Thật Về Gia Tộc"
+    }
+  ],
+  "Góc_Nhìn_Hứa_Thanh_Vân": [
+    {
+      "filename": "Chương_00001_Chạy_Trốn_Khỏi_Vàng.md",
+      "title": "Chương 1: Chạy Trốn Khỏi Vàng"
+    },
+    {
+      "filename": "Chương_00002_Cạm_Bẫy_Phế_Tích.md",
+      "title": "Chương 2: Cạm Bẫy Phế Tích"
+    },
+    {
+      "filename": "Chương_00003_Thoát_Thân_Bằng_May_Mắn.md",
+      "title": "Chương 3: Thoát Thân Bằng May Mắn"
+    },
+    {
+      "filename": "Chương_00004_Gặp_Gỡ_Định_Mệnh.md",
+      "title": "Chương 4: Gặp Gỡ Định Mệnh"
+    },
+    {
+      "filename": "Chương_00005_Sự_Thật_Về_Gia_Tộc.md",
+      "title": "Chương 5: Sự Thật Về Gia Tộc"
+    },
+    {
+      "filename": "Chương_00006_Bão_Cát_Sắp_Đến.md",
+      "title": "Chương 6: Bão Cát Sắp Đến"
+    },
+    {
+      "filename": "Chương_00007_Bóng_Tối_Trong_Bão.md",
+      "title": "Chương 7: Bóng Tối Trong Bão"
+    },
+    {
+      "filename": "Chương_00008_Quyết_Định_Chống_Lại.md",
+      "title": "Chương 8: Quyết Định Chống Lại"
+    },
+    {
+      "filename": "Chương_00009_Lời_Hứa_Trưởng_Thành.md",
+      "title": "Chương 9: Lời Hứa Trưởng Thành"
+    },
+    {
+      "filename": "Chương_00010_Lựa_Chọn_Khó_Khăn.md",
+      "title": "Chương 10: Lựa Chọn Khó Khăn"
     }
   ],
   "Góc_Nhìn_Tây_Mạc": [
@@ -2692,6 +2770,40 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00006_Người_Mang_Tín_Vật.md",
       "title": "Chương 6: Người Mang Tín Vật"
+    },
+    {
+      "filename": "Chương_00007_Bí_Mật_Hoàng_Sa.md",
+      "title": "Chương 7: Bí Mật Hoàng Sa"
+    },
+    {
+      "filename": "Chương_00008_Thử_Thách_Thủy_Linh.md",
+      "title": "Chương 8: Thử Thách Thủy Linh"
+    },
+    {
+      "filename": "Chương_00009_Người_Kế_Thừa.md",
+      "title": "Chương 9: Người Kế Thừa"
+    },
+    {
+      "filename": "Chương_00010_Sứ_Mệnh_Trao_Tay.md",
+      "title": "Chương 10: Sứ Mệnh Trao Tay"
+    }
+  ],
+  "Góc_Nhìn_Lục_Tiêu": [
+    {
+      "filename": "Chương_00007_Ra_Khỏi_Rừng_Sâu.md",
+      "title": "Chương 7: Ra Khỏi Rừng Sâu"
+    },
+    {
+      "filename": "Chương_00008_Âm_Thanh_Thanh_Tẩy.md",
+      "title": "Chương 8: Âm Thanh Thanh Tẩy"
+    },
+    {
+      "filename": "Chương_00009_Bóng_Đen_Nơi_Biên_Giới.md",
+      "title": "Chương 9: Bóng Đen Nơi Biên Giới"
+    },
+    {
+      "filename": "Chương_00010_Khúc_Tiêu_Sinh_Tử.md",
+      "title": "Chương 10: Khúc Tiêu Sinh Tử"
     }
   ],
   "Góc_Nhìn_Nguyệt_Dao": [
@@ -2744,24 +2856,6 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Ngọn_Núi_Biết_Đi.md",
       "title": "Chương 10: Ngọn Núi Biết Đi"
-    }
-  ],
-  "Góc_Nhìn_Lục_Tiêu": [
-    {
-      "filename": "Chương_00007_Ra_Khỏi_Rừng_Sâu.md",
-      "title": "Chương 7: Ra Khỏi Rừng Sâu"
-    },
-    {
-      "filename": "Chương_00008_Âm_Thanh_Thanh_Tẩy.md",
-      "title": "Chương 8: Âm Thanh Thanh Tẩy"
-    },
-    {
-      "filename": "Chương_00009_Bóng_Đen_Nơi_Biên_Giới.md",
-      "title": "Chương 9: Bóng Đen Nơi Biên Giới"
-    },
-    {
-      "filename": "Chương_00010_Khúc_Tiêu_Sinh_Tử.md",
-      "title": "Chương 10: Khúc Tiêu Sinh Tử"
     }
   ],
   "Góc_Nhìn_Đông_Hoang": [
