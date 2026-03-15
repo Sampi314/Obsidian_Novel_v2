@@ -23,8 +23,8 @@
 | Góc Nhìn Lục Trần | 10 | Arc 1 | Đang mở rộng |
 | Góc Nhìn Độc Cô Lão Quái | 7 | Arc 1 | Đang mở rộng |
 | Góc Nhìn Hắc Hạt Ma Trùng | 4 | Arc 1 | Đang mở rộng |
-| Góc Nhìn Ngô Công Trưởng Lão | — | — | Đang mở rộng |
-| Góc Nhìn Phương Vô Kỵ | — | — | Đang mở rộng |
+| Góc Nhìn Ngô Công Trưởng Lão | 10 | Arc 1 | Đang mở rộng |
+| Góc Nhìn Phương Vô Kỵ | 10 | Arc 1 | Đang mở rộng |
 
 #### Bắc Băng (3 Nhân Vật)
 | Góc Nhìn | Số Chương | Ghi Chú |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ tiếp theo (Ngô Công Trưởng Lão, Phương Vô Kỵ...) để đồng bộ dòng thời gian chung (Đã xong Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hắc Hạt Ma Trùng, Hàn Thanh Nguyệt, Lục Trần).
+1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ ở khu vực khác như Bắc Băng (Lý Tuyết Ưng, Sở Lăng Sương, Triệu Thanh Hằng) hoặc Đông Hoang (Lục Ly, Nguyệt Dao, Nham Thần, Lục Tiêu). Tuyến Nam Cương đã hoàn thành xong ch 7-10 cho tất cả 8 nhân vật phụ.
 2. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc.
 3. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 97, 98... cho Góc Nhìn Lâm Phong nếu cần thiết để theo kịp mạch truyện chính (sau trận chiến Rừng Ảo Ảnh).
 
@@ -97,8 +97,8 @@
 - [x] **Hắc Hạt Ma Trùng** (`Góc_Nhìn_Hắc_Hạt_Ma_Trùng/`): Đã viết ch 7-10. Chủ đề: Tiến hóa, ký ức thượng cổ, trỗi dậy, hướng về Tây Mạc.
 - [x] **Hàn Thanh Nguyệt** (`Góc_Nhìn_Hàn_Thanh_Nguyệt/`): Đã viết ch 7-10. Đột kích Vọng Hải Lầu, phát hiện tổ chức Huyết Sát Minh đứng sau Châu Kỳ Sơn.
 - [x] **Lục Trần** (`Góc_Nhìn_Lục_Trần/`): Đã viết ch 6-10. Chủ đề: Kiếm đạo hộ thế, gián điệp, liên minh. Phát giác Huyết Sát Minh thâm nhập ngoại môn, phong ấn kẻ phản bội.
-- [ ] **Ngô Công Trưởng Lão** (`Góc_Nhìn_Ngô_Công_Trưởng_Lão/`): Viết ch 7-10. Chủ đề: Phục thù, ngũ độc, quay về.
-- [ ] **Phương Vô Kỵ** (`Góc_Nhìn_Phương_Vô_Kỵ/`): Viết ch 7-10. Chủ đề: Trận pháp cổ, mưu mẹo, chìa khóa.
+- [x] **Ngô Công Trưởng Lão** (`Góc_Nhìn_Ngô_Công_Trưởng_Lão/`): Đã viết ch 7-10. Nỗi nhục tại Huyết Mạch Thượng Cổ, nhận lệnh bắt Hỗn Độn Kim Đan (A Ngốc), hướng về Tây Mạc.
+- [x] **Phương Vô Kỵ** (`Góc_Nhìn_Phương_Vô_Kỵ/`): Đã viết ch 7-10. Phát hiện "chìa khóa" khống chế Huyết Tế Đài và Đại Trận, tham gia trò chơi quyền lực, hướng về Tây Mạc.
 
 **Bắc Băng (3 nhân vật):**
 - [ ] **Lý Tuyết Ưng** (`Góc_Nhìn_Lý_Tuyết_Ưng/`): Viết ch 7-10. Chủ đề: Đột phá Hóa Thần, bảo vệ băng nguyên.
@@ -132,9 +132,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành Chương 4-7 cho Góc Nhìn Độc Cô Lão Quái. Lão đối mặt Hắc Hạt Ma Trùng và quyết định thả cho nó càn quét để hoàn thành Vạn Độc Huyết Ma Đan.
-> Đã hoàn thành Chương 7-10 cho Góc Nhìn Hắc Hạt Ma Trùng. Trùng Triều cảm nhận được sự thuần khiết từ Hỗn Độn Kim Đan của A Ngốc ở Tây Mạc, đánh thức mã gen Thượng Cổ, khao khát tiến hóa. Nó bỏ qua Đông Hoang, phá vỡ mặt đất Nam Cương và tràn vào Tây Mạc.
-> Đã hoàn thành Chương 6-10 cho Góc Nhìn Lục Trần. Tông chủ Cửu Hoa Kiếm Tông dùng uy áp Hóa Thần trấn áp sự chia rẽ trong nội bộ, âm thầm phong ấn đệ tử nhiễm Huyết Thần Độc và bắt quả tang Vương Hàn đang giao dịch với Huyết Sát Minh.
+> Đã hoàn thành Chương 7-10 cho Góc Nhìn Ngô Công Trưởng Lão (báo thù, nhận lệnh săn Hỗn Độn Kim Đan ở Tây Mạc) và Góc Nhìn Phương Vô Kỵ (giải mã chìa khóa Huyết Tế Đài, tiến về Tây Mạc). Mạch truyện đang hội tụ mạnh mẽ về khu vực Tây Mạc, nơi A Ngốc và Lệ Vô Tâm đã đi qua. Toàn bộ 8 nhân vật Nam Cương đã xong chương 7-10.
 
 ---
 

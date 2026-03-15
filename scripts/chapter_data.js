@@ -1826,6 +1826,42 @@ Object.assign(chapterData, {
       "title": "Chương 10: Con Rắn Trong Tổ"
     }
   ],
+  "Góc_Nhìn_Ngô_Công_Trưởng_Lão": [
+    {
+      "filename": "Chương_00007_Nỗi_Nhục_Kẻ_Bại_Trận.md",
+      "title": "Chương 7: Nỗi Nhục Kẻ Bại Trận"
+    },
+    {
+      "filename": "Chương_00008_Mệnh_Lệnh_Từ_Bóng_Tối.md",
+      "title": "Chương 8: Mệnh Lệnh Từ Bóng Tối"
+    },
+    {
+      "filename": "Chương_00009_Lũ_Trùng_Khát_Máu.md",
+      "title": "Chương 9: Lũ Trùng Khát Máu"
+    },
+    {
+      "filename": "Chương_00010_Đánh_Hơi_Thấy_Con_Mồi.md",
+      "title": "Chương 10: Đánh Hơi Thấy Con Mồi"
+    }
+  ],
+  "Góc_Nhìn_Phương_Vô_Kỵ": [
+    {
+      "filename": "Chương_00007_Kẻ_Lưu_Lạc_Cười_Đời.md",
+      "title": "Chương 7: Kẻ Lưu Lạc Cười Đời"
+    },
+    {
+      "filename": "Chương_00008_Bí_Mật_Trên_Phiến_Đá.md",
+      "title": "Chương 8: Bí Mật Trên Phiến Đá"
+    },
+    {
+      "filename": "Chương_00009_Chìa_Khóa_Của_Trận_Pháp.md",
+      "title": "Chương 9: Chìa Khóa Của Trận Pháp"
+    },
+    {
+      "filename": "Chương_00010_Trò_Chơi_Của_Vô_Diện.md",
+      "title": "Chương 10: Trò Chơi Của Vô Diện"
+    }
+  ],
   "Góc_Nhìn_Hắc_Hạt_Ma_Trùng": [
     {
       "filename": "Chương_00007_Cơn_Đói_Nguyên_Thủy.md",
