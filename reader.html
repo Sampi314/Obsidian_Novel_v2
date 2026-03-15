@@ -601,7 +601,7 @@
             // Load chapter_data.js -> navigation.js -> tts_player.js
             loadScript('scripts/chapter_data.js', function() {
                 loadScript('scripts/navigation.js', function() {
-                    loadScript('scripts/tts_player.js');
+                    loadScript('scripts/tts_player.js?v=' + Date.now());
                 });
             });
         }

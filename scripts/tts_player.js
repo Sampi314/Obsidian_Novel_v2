@@ -8,6 +8,8 @@
 (function() {
     'use strict';
 
+    console.log('[TTS] Player v7 loaded');
+
     // ── Configuration ──
     var EDGE_TTS_API = 'http://127.0.0.1:5050/tts';
     var edgeAvailable = false; // probed on init
@@ -16,6 +18,21 @@
         { id: 'vi-VN-HoaiMyNeural',  name: 'HoaiMy (Nữ)' },
         { id: 'vi-VN-NamMinhNeural', name: 'NamMinh (Nam)' },
     ];
+
+    // Chrome workaround: speechSynthesis pauses after ~15s, resume() keeps it alive
+    var resumeTimer = null;
+    function startResumeTimer() {
+        stopResumeTimer();
+        resumeTimer = setInterval(function() {
+            if (window.speechSynthesis && window.speechSynthesis.speaking) {
+                window.speechSynthesis.pause();
+                window.speechSynthesis.resume();
+            }
+        }, 10000);
+    }
+    function stopResumeTimer() {
+        if (resumeTimer) { clearInterval(resumeTimer); resumeTimer = null; }
+    }
 
     // ── State ──
     var state = {
@@ -373,9 +390,13 @@
     function webSpeechSpeak(text) {
         return new Promise(function(resolve, reject) {
             if (!window.speechSynthesis) {
+                console.error('[TTS] speechSynthesis not available');
                 reject(new Error('speechSynthesis not supported'));
                 return;
             }
+
+            // Chrome fix: cancel any stuck state, then speak after a tick
+            window.speechSynthesis.cancel();
 
             var utter = new SpeechSynthesisUtterance(text);
             utter.lang = 'vi-VN';
@@ -383,6 +404,7 @@
 
             // Use selected browser voice, or first Vietnamese voice as fallback
             var voices = window.speechSynthesis.getVoices();
+            console.log('[TTS] Available voices:', voices.length, '| voiceId:', state.voiceId);
             var targetName = state.voiceId.indexOf('ws:') === 0 ? state.voiceId.slice(3) : '';
             var found = false;
             for (var i = 0; i < voices.length; i++) {
@@ -402,18 +424,23 @@
                 }
             }
 
-            if (!found && voices.length === 0) {
-                reject(new Error('No voices available — check System Settings → Accessibility → Spoken Content'));
-                return;
-            }
+            console.log('[TTS] Voice:', found ? utter.voice.name : 'default', '| text:', text.substring(0, 40));
 
-            utter.onend = function() { resolve('ended'); };
+            utter.onstart = function() { console.log('[TTS] Speaking...'); };
+            utter.onend = function() {
+                console.log('[TTS] Chunk done');
+                resolve('ended');
+            };
             utter.onerror = function(e) {
+                console.error('[TTS] Error:', e.error);
                 if (e.error === 'canceled') { resolve('canceled'); return; }
                 reject(new Error('Speech error: ' + e.error));
             };
 
-            window.speechSynthesis.speak(utter);
+            // Delay speak() after cancel() — Chrome needs this
+            setTimeout(function() {
+                window.speechSynthesis.speak(utter);
+            }, 50);
         });
     }
 
@@ -499,6 +526,7 @@
 
         state.playing = true;
         state.paused = false;
+        startResumeTimer();
         updateUI();
         readCurrentChunk();
     }
@@ -515,6 +543,7 @@
     function handleStop() {
         state.playing = false;
         state.paused = false;
+        stopResumeTimer();
         cancelCurrentAudio();
 
         document.querySelectorAll('.tts-reading').forEach(function(e) {
