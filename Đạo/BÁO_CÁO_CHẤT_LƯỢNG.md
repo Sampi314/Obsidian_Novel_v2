@@ -23,3 +23,7 @@
 - **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Đan Dương Tử). Đan Dương Tử cầu viện Diệp Thanh Y, liên minh Y-Đan hình thành.
 - **Hôm nay:** Viết Chương 95-96 (Góc Nhìn Lâm Phong). Đại chiến Rừng Ảo Ảnh: Lâm Phong dụ Huyết Tôn vào bẫy mạch nước ngầm. Sức mạnh Lõi Thần Mộc đánh đuổi Huyết Tôn.
 - **Hôm nay:** Viết Chương 145-148 (A Ngốc) và 93-94 (Lâm Phong). Đại chiến Rừng Ảo Ảnh bùng nổ. A Ngốc dùng Nguyên Anh tịnh hóa hoàn toàn Huyết Ma Thôn Phệ, thay đổi cục diện.
+
+### Báo Cáo Phiên Làm Việc (Sở Lăng Sương)
+- **Tình trạng:** Tốt
+- **Nhận xét:** Đã mở rộng Góc Nhìn Sở Lăng Sương, viết Chương 5-8 để kết nối mạch truyện Huyết Tinh Sa và Băng Ngục Thành. Cần tiếp tục viết chương 9-10 để hoàn thiện arc cá nhân.

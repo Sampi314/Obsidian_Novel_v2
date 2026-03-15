@@ -493,3 +493,10 @@ Sau khi thoát khỏi Vạn Độc Môn với một nửa khuôn mặt bị hủ
 
 ### Sự Kiện Mới: Băng Tâm Nứt Vỡ & Sự Trỗi Dậy Của Hóa Thần Phương Bắc
 Tại Bắc Băng, Lý Tuyết Ưng (Cung Chủ Huyền Băng Cung) đích thân tiêu diệt các cứ điểm của Huyết Sát Minh để dọn đường cho việc bế quan tử quan. Đối diện với tâm ma mang tên Chu Vân Kiều và sự xâm nhập của Cực Hàn Ma Châu đang dần thức tỉnh, Lý Tuyết Ưng đưa ra một quyết định điên rồ: không dùng Băng Tâm Quyết để đóng băng vết nứt trong lòng, mà mở rộng nó để dung nạp hỉ nộ ái ố và ma khí. Sự kết hợp giữa Băng linh khí thuần khiết và Cực Hàn Ma Khí đã giúp nàng vượt qua rào cản ngàn năm, thành công đột phá Hóa Thần Sơ Kỳ. Ngay khi xuất quan, nhận ra sự đe dọa to lớn từ cứ điểm chính của Huyết Sát Minh tại Băng Ngục Thành, nàng đã phát lệnh triệu tập quần hùng Bắc Băng, dẫn dắt những "con sói cô độc" như Sở Lăng Sương và Triệu Thanh Hằng hướng về trận chiến quyết định (Chương 7-10, Góc Nhìn Lý Tuyết Ưng).
+
+## SỰ KIỆN LỊCH SỬ NỔI BẬT
+
+### Huyết Trì Băng Ngục (Bắc Băng)
+- **Khu vực**: Băng Ngục Thành, Bắc Băng
+- **Diễn biến**: Tổ chức Huyết Sát Minh từ Nam Cương âm thầm thâm nhập Bắc Băng, sử dụng Huyết Tinh Sa và máu của tội nhân trong Băng Ngục Thành để tạo ra "Huyết Trì". Mục đích của chúng là kích hoạt trận pháp truyền tống quy mô lớn nối liền Nam Cương và Bắc Băng.
+- **Kết quả**: Sở Lăng Sương, trong quá trình truy tìm nguồn gốc Huyết Tinh Sa, đã đột nhập Băng Ngục Thành, phát hiện âm mưu và quyết định phá hủy Huyết Trì, đối đầu với một cao thủ Nguyên Anh của Huyết Sát Minh. Băng Sương Tử Độc trong cơ thể Sở Lăng Sương trở thành vũ khí sắc bén nhất của hắn.
