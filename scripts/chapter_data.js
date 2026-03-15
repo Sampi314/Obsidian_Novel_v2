@@ -604,6 +604,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00132_Ông_Kẹ_Và_Thiên_Thần.md",
       "title": "Chương 132: Ông Kẹ Và Thiên Thần"
+    },
+    {
+      "filename": "Chương_00133_Ánh_Sáng_Nơi_Tâm_Trí.md",
+      "title": "Chương 133: Ánh Sáng Nơi Tâm Trí"
+    },
+    {
+      "filename": "Chương_00134_Hạt_Mầm_Thay_Đổi.md",
+      "title": "Chương 134: Hạt Mầm Thay Đổi"
     }
   ],
   "Góc_Nhìn_Diệp_Thanh_Y": [

@@ -170,6 +170,8 @@
 - [Chương 130: Bóng Tối Trung Tâm](Chương_00130_Bóng_Tối_Trung_Tâm.md)
 - [Chương 131: Dọn Dẹp Rừng Đá](Chương_00131_Dọn_Dẹp_Rừng_Đá.md)
 - [Chương 132: Ông Kẹ Và Thiên Thần](Chương_00132_Ông_Kẹ_Và_Thiên_Thần.md)
+- [Chương 133: Ánh Sáng Nơi Tâm Trí](Chương_00133_Ánh_Sáng_Nơi_Tâm_Trí.md)
+- [Chương 134: Hạt Mầm Thay Đổi](Chương_00134_Hạt_Mầm_Thay_Đổi.md)
 *(Đang cập nhật)*
 
 ## Arc 14: Hồn Nhiên Tử (Chương 137-148)
