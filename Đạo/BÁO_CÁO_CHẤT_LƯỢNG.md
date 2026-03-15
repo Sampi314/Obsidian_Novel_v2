@@ -8,26 +8,14 @@
 - **[Hôm nay]**: Viết xong 152 chương POV A Ngốc. Viết 96 chương Lâm Phong.
 - **[Hôm nay]**: Viết POV 7-10 cho Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hàn Thanh Nguyệt, Lục Trần.
 - **[Hôm nay]**: Viết POV 7-10 cho Ngô Công Trưởng Lão, Phương Vô Kỵ.
+- **[Hôm nay]**: Hoàn thành Chương 9-10 (Sở Lăng Sương), Chương 6-10 (Triệu Thanh Hằng), Chương 7-10 (Lý Tuyết Ưng). Bắc Băng hội tụ tại Băng Ngục Thành.
 
 ## PHIÊN GẦN NHẤT
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
-| Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Lý Tuyết Ưng) | Hoàn Thành | Mở rộng góc nhìn phụ Bắc Băng. Lý Tuyết Ưng dọn dẹp Bắc Băng, đối mặt tâm ma Chu Vân Kiều, lợi dụng Cực Hàn Ma Châu để đột phá Hóa Thần Sơ Kỳ, và phát lệnh triệu tập quần hùng Bắc Băng về Băng Ngục Thành. |
-| Hôm nay | Tổng Quản | Viết Chương 9-10 (Sở Lăng Sương) & Chương 4-5 (Triệu Thanh Hằng) | Hoàn Thành | Hoàn thành Arc 1 của Sở Lăng Sương (phá hủy Huyết Trì, đụng độ Nguyên Anh và gặp Lý Tuyết Ưng). Mở rộng góc nhìn Triệu Thanh Hằng: giải quyết ân oán cũ và bắt đầu đi theo lời hiệu triệu của Băng Tiên Tử về Băng Ngục Thành. |
-| Hôm nay | Tổng Quản | Viết Chương 6-10 (Triệu Thanh Hằng) | Hoàn Thành | Triệu Thanh Hằng vượt bão tuyết, dọn dẹp Huyết Sát Minh ở Băng Ngục Thành. Thử thách sát cơ với Trúc Cơ Viên Mãn, tự ngộ "Tuyệt Băng Diệt Sát". Trở thành khách khanh của Lý Tuyết Ưng. |
+| Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Lục Ly) | Hoàn Thành | Lục Ly kể về sự sụp đổ của Hoàng Sa Quốc do Vu Tộc (Huyết Độc). Kim Sa vượt qua Thử Thách Thủy Linh, kế thừa Thủy Linh Châu và Hoàng Kim Ấn, đột phá Trúc Cơ Viên Mãn. Lục Ly tan biến sau khi hoàn thành sứ mệnh ngàn năm. Kim Sa mang trọng trách bảo vệ Long Cốt và trốn chạy khỏi sự truy kích của Huyết Sát Minh. |
 
 ## GHI CHÚ GẦN ĐÂY
-- **Hôm nay:** Viết Chương 6-10 cho Triệu Thanh Hằng, chính thức hoàn thành Arc 1 của Góc Nhìn Bắc Băng với ba nhân vật hội tụ và thiết lập liên minh.
-- **Hôm nay:** Viết Chương 9-10 (Sở Lăng Sương) và Chương 4-5 (Triệu Thanh Hằng). Kết thúc Arc 1 của Sở Lăng Sương, tạo giao điểm mạnh mẽ với Lý Tuyết Ưng. Đồng thời tiến cử Triệu Thanh Hằng tham gia đại chiến Bắc Băng.
-- **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Lý Tuyết Ưng). Khắc họa sự nứt vỡ của Băng Tâm Quyết, đột phá Hóa Thần đầu tiên của Bắc Băng và khởi động chiến dịch Băng Ngục Thành.
-- **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Ngô Công Trưởng Lão và Góc Nhìn Phương Vô Kỵ). Xây dựng mục tiêu báo thù, nhiệm vụ đi bắt Hỗn Độn Kim Đan và sự xuất hiện của kẻ nắm giữ bí mật cổ đại, làm phức tạp thêm cục diện Nam Cương - Tây Mạc.
-- **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Hàn Thanh Nguyệt). Kết thúc Arc 1 tại Ma Phong Cảng, tạo động cơ để nàng đi sâu vào Nam Cương điều tra Huyết Sát Minh.
-- **Hôm nay:** Viết Chương 4-7 (Góc Nhìn Độc Cô Lão Quái). Khắc họa tàn độc và tham vọng của lão khi đứng trước Hắc Hạt Ma Trùng và sức mạnh của Vạn Độc Huyết Ma Đan.
-- **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Đan Dương Tử). Đan Dương Tử cầu viện Diệp Thanh Y, liên minh Y-Đan hình thành.
-- **Hôm nay:** Viết Chương 95-96 (Góc Nhìn Lâm Phong). Đại chiến Rừng Ảo Ảnh: Lâm Phong dụ Huyết Tôn vào bẫy mạch nước ngầm. Sức mạnh Lõi Thần Mộc đánh đuổi Huyết Tôn.
-- **Hôm nay:** Viết Chương 145-148 (A Ngốc) và 93-94 (Lâm Phong). Đại chiến Rừng Ảo Ảnh bùng nổ. A Ngốc dùng Nguyên Anh tịnh hóa hoàn toàn Huyết Ma Thôn Phệ, thay đổi cục diện.
-
-### Báo Cáo Phiên Làm Việc (Sở Lăng Sương)
-- **Tình trạng:** Tốt
-- **Nhận xét:** Đã mở rộng Góc Nhìn Sở Lăng Sương, viết Chương 5-8 để kết nối mạch truyện Huyết Tinh Sa và Băng Ngục Thành. Cần tiếp tục viết chương 9-10 để hoàn thiện arc cá nhân.
+- **Hôm nay:** Viết Chương 7-10 cho Lục Ly. Sự kiện Người Kế Thừa Hoàng Sa Quốc và Sứ Mệnh Của Kim Sa. Lục Ly hoàn thành sứ mệnh và tan biến. Kim Sa trở thành Nữ Vương mang theo Thủy Linh Châu và Hoàng Kim Ấn, bắt đầu trốn chạy khỏi Huyết Sát Minh.
+- **Hôm nay:** Hoàn thành Arc 1 Góc Nhìn Bắc Băng (Sở Lăng Sương, Triệu Thanh Hằng, Lý Tuyết Ưng). Bắc Băng hội tụ tại Băng Ngục Thành để chuẩn bị đối phó với Huyết Sát Minh.
