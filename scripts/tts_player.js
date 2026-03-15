@@ -559,30 +559,21 @@
         document.body.appendChild(fab);
     }
 
-    // ── Double-click to read from any paragraph ──
+    // ── Click-to-read on paragraphs ──
     function setupClickToRead() {
         state.elements = getReadableElements();
         state.elements.forEach(function(el, idx) {
             el.style.cursor = 'pointer';
-            el.title = 'Nhấn đúp để đọc từ đây';
-            el.addEventListener('dblclick', function() {
-                var wasActive = state.playing;
-
-                // Stop current playback if any
-                if (wasActive) {
-                    cancelCurrentAudio();
-                    state.playing = false;
-                    state.paused = false;
+            el.title = 'Nhấn để đọc từ đây';
+            el.addEventListener('click', function() {
+                if (!state.playing) {
+                    state.currentIndex = idx;
+                    var bar = document.getElementById('tts-bar');
+                    var fab = document.getElementById('tts-fab');
+                    if (bar) bar.classList.add('tts-bar-visible');
+                    if (fab) fab.classList.add('tts-fab-hidden');
+                    handlePlay();
                 }
-
-                state.currentIndex = idx;
-                var bar = document.getElementById('tts-bar');
-                var fab = document.getElementById('tts-fab');
-                if (bar) bar.classList.add('tts-bar-visible');
-                if (fab) fab.classList.add('tts-fab-hidden');
-
-                // Delay after cancel so speechSynthesis is ready
-                setTimeout(function() { handlePlay(); }, wasActive ? 80 : 0);
             });
         });
     }
