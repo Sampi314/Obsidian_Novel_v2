@@ -1,5 +1,3 @@
-<div align="right">[ [ 🇻🇳 Xem Bản Tiếng Việt ] ](./CONTRIBUTING.md)</div>
-
 # 🛠️ Maintenance & Content Standards
 
 > [!CAUTION]
