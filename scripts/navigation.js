@@ -68,9 +68,30 @@
         if (isReaderMode) {
             // Reader mode: parse from ?file= param
             // e.g. "Đạo/Chương_Truyện/Góc_Nhìn_Chính/Chương_00001_Dấu_Hiệu_Tai_Ương.md"
-            var parts = readerFile.split('/').filter(function(p) { return p !== ''; });
-            currentFilename = decodeURIComponent(parts.pop() || '');
-            currentPov = decodeURIComponent(parts.pop() || '');
+            // Let's decode until there are no more percent signs
+            var parsedFile = readerFile;
+            var maxLoops = 5;
+            while(parsedFile.indexOf('%') !== -1 && maxLoops > 0) {
+                try {
+                    parsedFile = decodeURIComponent(parsedFile);
+                } catch(e) {
+                    break;
+                }
+                maxLoops--;
+            }
+            // Some paths might include an extra area folder, e.g. Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Lâm_Phong/Chương_...
+            // We want currentPov to be "Góc_Nhìn_..." and currentFilename to be "Chương_..."
+            var parts = parsedFile.split('/').filter(function(p) { return p !== ''; });
+            currentFilename = parts.pop() || '';
+            currentPov = parts.pop() || '';
+            if (currentPov && currentPov.indexOf('Góc_Nhìn_') === -1) {
+                // Sometimes the path has an extra nesting, let's pop again if we didn't find "Góc_Nhìn_"
+                var potentialPov = parts.pop();
+                if (potentialPov && potentialPov.indexOf('Góc_Nhìn_') !== -1) {
+                    currentPov = potentialPov;
+                }
+            }
+            console.log("Parsed from URL - POV:", currentPov, "Filename:", currentFilename);
         } else {
             // Legacy mode: parse from pathname
             var path = window.location.pathname;
@@ -79,12 +100,23 @@
             currentPov = decodeURIComponent(pathParts.pop());
         }
 
-        if (!window.chapterData || !window.chapterData[currentPov]) {
+        // Ensure chapterData uses correct variable name
+        var dataObj = window.chapterData;
+
+        // Wait, if module.exports is used in chapterData for node, the structure might be different?
+        console.log("dataObj keys: ", Object.keys(dataObj || {}));
+
+        // Handle both possible structures depending on how it was loaded
+        if (dataObj && dataObj.chapterData) {
+            dataObj = dataObj.chapterData;
+        }
+
+        if (!dataObj || !dataObj[currentPov]) {
             console.error("Chapter data not found for POV: " + currentPov);
             return;
         }
 
-        var chapters = window.chapterData[currentPov];
+        var chapters = dataObj[currentPov];
         var currentIndex = -1;
         // In reader mode, filename already ends with .md
         // In legacy mode, convert .html to .md for lookup
