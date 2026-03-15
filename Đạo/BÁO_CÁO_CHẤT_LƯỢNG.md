@@ -10,6 +10,8 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Ngô Công Trưởng Lão) | Hoàn Thành | Mở rộng góc nhìn phụ. Ngô Công Trưởng Lão chịu nhục sau trận Huyết Mạch Thượng Cổ, nhận lệnh truy lùng Hỗn Độn Kim Đan (A Ngốc) từ Độc Cô Lão Quái. Hắn dùng Huyết Hồn Sinh Cơ Đan khôi phục công lực và dẫn theo đại quân rết tiến về phía Tây Mạc đi săn. |
+| Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Phương Vô Kỵ) | Hoàn Thành | Mở rộng góc nhìn phụ. Phương Vô Kỵ vô tình giải mã phiến đá cổ về linh mạch Nam Cương và Huyết Tế Đài, nắm được "chìa khóa" khống chế trận pháp cổ đại và bắt đầu thao túng Huyết Tế Đài để vui đùa, rồi lần theo Hỗn Độn linh khí đến Tây Mạc. |
 | Hôm nay | Tổng Quản | Viết Chương 6-10 (Góc Nhìn Lục Trần) | Hoàn Thành | Mở rộng góc nhìn phụ. Lục Trần chủ trì hội nghị, trấn áp nội bộ và phát giác sự thâm nhập của Huyết Sát Minh. Hắn tương kế tựu kế, dùng Mộc linh khí phong ấn Huyết Thần Độc và bắt quả tang trưởng lão ngoại môn Vương Hàn làm phản. |
 | Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Hàn Thanh Nguyệt) | Hoàn Thành | Mở rộng góc nhìn phụ. Hàn Thanh Nguyệt đột kích Vọng Hải Lầu tạo hỗn loạn cứu người, cướp được ngọc giản liên lạc của Huyết Sát Minh. Nàng bắt đầu hành trình săn lùng kẻ thù từ trong bóng tối. |
 | Hôm nay | Tổng Quản | Viết Chương 4-7 (Góc Nhìn Độc Cô Lão Quái) | Hoàn Thành | Mở rộng góc nhìn phụ. Độc Cô Lão Quái đối mặt với sự thức tỉnh của Hắc Hạt Ma Trùng, quyết định lợi dụng nó. Sau đó lão tập trung luyện Vạn Độc Huyết Ma Đan và sai Ngô Công đi bắt Lệ Vô Tâm vì phát hiện dao động thanh tẩy của A Ngốc. |
@@ -24,6 +26,7 @@
 | Hôm nay | Tổng Quản | Viết Chương 133-134 (Góc Nhìn A Ngốc) | Hoàn Thành | A Ngốc và Lệ Vô Tâm đối mặt với dịch Huyết Thần Độc biến thể ở Trấn Bán Nguyệt. Tạo file scripts/relationship_data.js. |
 
 ## GHI CHÚ GẦN ĐÂY
+- **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Ngô Công Trưởng Lão và Góc Nhìn Phương Vô Kỵ). Xây dựng mục tiêu báo thù, nhiệm vụ đi bắt Hỗn Độn Kim Đan và sự xuất hiện của kẻ nắm giữ bí mật cổ đại, làm phức tạp thêm cục diện Nam Cương - Tây Mạc.
 - **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Hàn Thanh Nguyệt). Kết thúc Arc 1 tại Ma Phong Cảng, tạo động cơ để nàng đi sâu vào Nam Cương điều tra Huyết Sát Minh.
 - **Hôm nay:** Viết Chương 4-7 (Góc Nhìn Độc Cô Lão Quái). Khắc họa tàn độc và tham vọng của lão khi đứng trước Hắc Hạt Ma Trùng và sức mạnh của Vạn Độc Huyết Ma Đan.
 - **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Đan Dương Tử). Đan Dương Tử cầu viện Diệp Thanh Y, liên minh Y-Đan hình thành.
