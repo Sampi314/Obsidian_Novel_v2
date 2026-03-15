@@ -698,6 +698,26 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00005_Thanh_Nang_Y_Kinh_Khai_Sáng.md",
       "title": "Chương 5: Thanh Nang Y Kinh Khai Sáng"
+    },
+    {
+      "filename": "Chương_00006_Sinh_Mệnh_Nguyên_Hỏa.md",
+      "title": "Chương 6: Sinh Mệnh Nguyên Hỏa"
+    },
+    {
+      "filename": "Chương_00007_Đứa_Trẻ_Đầu_Tiên.md",
+      "title": "Chương 7: Đứa Trẻ Đầu Tiên"
+    },
+    {
+      "filename": "Chương_00008_Cứu_Lấy_Mạch_Đất.md",
+      "title": "Chương 8: Cứu Lấy Mạch Đất"
+    },
+    {
+      "filename": "Chương_00009_Ký_Ức_Độc_Cô.md",
+      "title": "Chương 9: Ký Ức Độc Cô"
+    },
+    {
+      "filename": "Chương_00010_Lời_Thề_Dưới_Gốc_Cửu_Thiên.md",
+      "title": "Chương 10: Lời Thề Dưới Gốc Cửu Thiên"
     }
   ],
   "Góc_Nhìn_Diệp_Tĩnh_Sương": [

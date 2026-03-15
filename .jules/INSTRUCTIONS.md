@@ -18,7 +18,7 @@
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
 | Góc Nhìn A Ngốc | 152 | Arc 14 — Hồn Nhiên Tử | Hoàn thành mạch truyện chính 152 chương |
 | Góc Nhìn Đan Dương Tử | 10 | Arc 1 | Đang mở rộng |
-| Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
+| Góc Nhìn Diệp Thanh Y | 10 | Arc 1 | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
 | Góc Nhìn Lục Trần | — | — | Đang mở rộng |
 | Góc Nhìn Độc Cô Lão Quái | — | — | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ tiếp theo (Diệp Thanh Y, Độc Cô Lão Quái...) để đồng bộ dòng thời gian chung (Đã xong Đan Dương Tử).
+1. **Viết POV nhân vật phụ (Task 6)**: Tiếp tục mở rộng chương 7-10 cho các nhân vật phụ tiếp theo (Độc Cô Lão Quái, Hắc Hạt Ma Trùng...) để đồng bộ dòng thời gian chung (Đã xong Đan Dương Tử, Diệp Thanh Y).
 2. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc.
 3. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 97, 98... cho Góc Nhìn Lâm Phong nếu cần thiết để theo kịp mạch truyện chính (sau trận chiến Rừng Ảo Ảnh).
 
@@ -92,7 +92,7 @@
 
 **Nam Cương (8 nhân vật):**
 - [x] **Đan Dương Tử** (`Góc_Nhìn_Đan_Dương_Tử/`): Đã viết ch 7-10. Cầu viện Dược Vương Cốc, liên minh Y-Đan.
-- [ ] **Diệp Thanh Y** (`Góc_Nhìn_Diệp_Thanh_Y/`): Viết ch 7-10. Chủ đề: Hành trình y sư, cứu trị Huyết Thần Độc, liên minh.
+- [x] **Diệp Thanh Y** (`Góc_Nhìn_Diệp_Thanh_Y/`): Đã viết ch 6-10. Chủ đề: Hành trình y sư, cứu trị Huyết Thần Độc, liên minh Y-Đan, thanh tẩy mạch đất.
 - [ ] **Độc Cô Lão Quái** (`Góc_Nhìn_Độc_Cô_Lão_Quái/`): Viết ch 7-10. Chủ đề: Âm mưu tà đạo, kiểm soát trùng, Đại Trận.
 - [ ] **Hắc Hạt Ma Trùng** (`Góc_Nhìn_Hắc_Hạt_Ma_Trùng/`): Viết ch 7-10. Chủ đề: Tiến hóa, ký ức thượng cổ, trỗi dậy.
 - [ ] **Hàn Thanh Nguyệt** (`Góc_Nhìn_Hàn_Thanh_Nguyệt/`): Viết ch 7-10. Chủ đề: Sinh tồn sát thủ, mạng lưới Huyết Tinh Sa.
