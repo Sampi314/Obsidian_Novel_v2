@@ -462,21 +462,7 @@
         .region-group[data-region="thien-tru"] .card:hover { box-shadow: 0 8px 32px rgba(0,0,0,0.3), 0 0 30px var(--thien-tru-glow); }
         .region-group[data-region="thien-tru"] .region-label { color: var(--thien-tru); }
 
-        /* ── Region overflow ── */
-        .region-overflow { display: none; }
-        .region-overflow.expanded { display: contents; }
-        .region-toggle {
-            display: inline-flex; align-items: center; gap: 6px;
-            background: none; border: 1px solid rgba(212,165,116,0.08);
-            color: var(--accent-dim);
-            font-family: 'Cormorant Garamond', serif;
-            font-size: 0.78rem; letter-spacing: 0.06em;
-            padding: 7px 18px; margin-top: 10px;
-            cursor: pointer; border-radius: 2px; transition: all 0.3s ease;
-        }
-        .region-toggle:hover { border-color: rgba(212,165,116,0.2); color: var(--accent); background: rgba(212,165,116,0.03); }
-        .toggle-arrow { transition: transform 0.3s ease; font-size: 0.55rem; }
-        .region-toggle.expanded .toggle-arrow { transform: rotate(180deg); }
+        /* (region overflow removed — all cards shown directly) */
 
         /* ── Footer ── */
         .footer { position: relative; z-index: 2; text-align: center; padding: 36px 24px 50px; border-top: 1px solid var(--card-border); background: var(--void); }
@@ -549,7 +535,6 @@
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Diệp_Tĩnh_Sương/MỤC_LỤC.md" class="card" data-card><div class="card-shimmer"></div><div class="card-title"><span class="card-icon">&#9876;&#65039;</span>Diệp Tĩnh Sương</div><div class="card-subtitle">Hàn Mai Kiếm &mdash; Kiếm tu cô độc</div><div class="card-badge">10 chương</div></a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Lâm_Phong/MỤC_LỤC.md" class="card" data-card><div class="card-shimmer"></div><div class="card-title"><span class="card-icon">&#127993;</span>Lâm Phong</div><div class="card-subtitle">Thần Xạ Thủ &mdash; Con người hoang dã</div><div class="card-badge">48 chương</div></a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Lệ_Vô_Tâm/MỤC_LỤC.md" class="card" data-card><div class="card-shimmer"></div><div class="card-title"><span class="card-icon">&#128375;&#65039;</span>Lệ Vô Tâm</div><div class="card-subtitle">Vạn Độc Thánh Tử &mdash; Bóng tối phía sau</div><div class="card-badge">130 chương</div></a>
-                    <div class="region-overflow" id="nam-cuong-overflow">
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_A_Ngốc/MỤC_LỤC.md" class="card" data-card><div class="card-shimmer"></div><div class="card-title"><span class="card-icon">&#129419;</span>A Ngốc</div><div class="card-subtitle">Hồn Nhiên Tử &mdash; Đại trí nhược ngu</div><div class="card-badge">3 chương</div></a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Đan_Dương_Tử/MỤC_LỤC.md" class="card" data-card><div class="card-shimmer"></div><div class="card-title"><span class="card-icon">&#128302;</span>Đan Dương Tử</div></a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Diệp_Thanh_Y/MỤC_LỤC.md" class="card" data-card><div class="card-shimmer"></div><div class="card-title"><span class="card-icon">&#128138;</span>Diệp Thanh Y</div></a>
@@ -560,9 +545,7 @@
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Ngô_Công_Trưởng_Lão/MỤC_LỤC.md" class="card" data-card><div class="card-shimmer"></div><div class="card-title"><span class="card-icon">&#129410;</span>Ngô Công Trưởng Lão</div></a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Phương_Vô_Kỵ/MỤC_LỤC.md" class="card" data-card><div class="card-shimmer"></div><div class="card-title"><span class="card-icon">&#129513;</span>Phương Vô Kỵ</div></a>
                     <a href="reader.html?file=Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Mặc_Dơi/MỤC_LỤC.md" class="card" data-card><div class="card-shimmer"></div><div class="card-title"><span class="card-icon">&#129415;</span>Mặc Dơi</div></a>
-                    </div>
                 </div>
-                <button class="region-toggle" onclick="toggleRegion('nam-cuong')"><span class="toggle-arrow">&#9660;</span> Xem thêm 10 nhân vật</button>
             </div>
 
             <div class="region-group" data-region="bac-bang">
@@ -674,12 +657,7 @@
             }
 
             if (window.ChapterLock) {
-                window.ChapterLock.init().then(function () {
-                    // Init expandable chapters AFTER lock data is loaded
-                    if (typeof initExpandableChapters === 'function') {
-                        initExpandableChapters();
-                    }
-                });
+                window.ChapterLock.init();
             }
         })();
 
@@ -788,101 +766,7 @@
         }, { threshold: 0.05, rootMargin: '0px 0px -20px 0px' });
         document.querySelectorAll('[data-card]').forEach(function(el) { cObs.observe(el); });
 
-        /* ═══════════════════════════════════════════
-           REGION TOGGLE
-           ═══════════════════════════════════════════ */
-        window.toggleRegion = function(id) {
-            var ov = document.getElementById(id + '-overflow');
-            var btn = ov.parentElement.parentElement.querySelector('.region-toggle');
-            var exp = ov.classList.toggle('expanded');
-            btn.classList.toggle('expanded', exp);
-            var ct = ov.querySelectorAll('.card').length;
-            btn.innerHTML = exp
-                ? '<span class="toggle-arrow">\u25BC</span> Thu g\u1ECDn'
-                : '<span class="toggle-arrow">\u25BC</span> Xem th\u00EAm ' + ct + ' nh\u00E2n v\u1EADt';
-            if (exp) ov.querySelectorAll('[data-card]').forEach(function(c) { cObs.observe(c); });
-        };
-
-        // ── Expandable Chapter Lists ──
-        // NOTE: This function is called from ChapterLock.init().then() above,
-        // NOT called synchronously, to ensure lock data is loaded first.
-        function initExpandableChapters() {
-            if (typeof chapterData === 'undefined') return;
-
-            var cards = document.querySelectorAll('a.card[data-card]');
-            cards.forEach(function (card) {
-                var href = card.getAttribute('href');
-                if (!href || href.indexOf('MỤC_LỤC.md') === -1) return;
-
-                // Extract POV key and directory path from href
-                // href format: reader.html?file=Đạo/Chương_Truyện/Bắc_Băng/Góc_Nhìn_Bắc_Băng/MỤC_LỤC.md
-                var fileParam = href.split('file=')[1];
-                if (!fileParam) return;
-                var dirPath = decodeURIComponent(fileParam).replace(/MỤC_LỤC\.md$/, '');
-                var povKey = dirPath.split('/').filter(Boolean).pop(); // e.g., "Góc_Nhìn_Bắc_Băng"
-
-                var chapters = chapterData[povKey];
-                if (!chapters || chapters.length === 0) return;
-
-                // Find the card-grid parent to insert AFTER the grid (not inside it)
-                var cardGrid = card.closest('.card-grid');
-                if (!cardGrid) return;
-
-                // Create a wrapper that goes after the card-grid
-                var wrapper = document.createElement('div');
-                wrapper.className = 'cl-card-chapter-wrapper';
-                wrapper.setAttribute('data-pov', povKey);
-
-                // Create expand button
-                var expandBtn = document.createElement('button');
-                expandBtn.className = 'cl-expand-btn';
-                expandBtn.textContent = '\u25B6 ' + povKey.replace(/Góc_Nhìn_/,'').replace(/_/g,' ') + ' \u2014 ' + chapters.length + ' chapters';
-
-                // Create chapter panel
-                var panel = document.createElement('div');
-                panel.className = 'cl-chapter-panel';
-
-                var list = document.createElement('ul');
-                list.className = 'cl-chapter-list';
-
-                chapters.forEach(function (ch) {
-                    var li = document.createElement('li');
-                    li.className = 'cl-chapter-item';
-
-                    var link = document.createElement('a');
-                    link.href = 'reader.html?file=' + encodeURIComponent(dirPath + ch.filename);
-                    link.textContent = ch.title;
-                    li.appendChild(link);
-
-                    // Add checkmark
-                    var chapterPath = dirPath + ch.filename;
-                    if (window.ChapterLock) {
-                        window.ChapterLock.createCheckmark(chapterPath, li);
-                    }
-
-                    list.appendChild(li);
-                });
-
-                panel.appendChild(list);
-
-                // Toggle behavior
-                expandBtn.addEventListener('click', function (e) {
-                    e.preventDefault();
-                    e.stopPropagation();
-                    var expanded = panel.classList.toggle('cl-expanded');
-                    expandBtn.textContent = (expanded ? '\u25BC ' : '\u25B6 ') + povKey.replace(/Góc_Nhìn_/,'').replace(/_/g,' ') + ' \u2014 ' + chapters.length + ' chapters';
-                });
-
-                wrapper.appendChild(expandBtn);
-                wrapper.appendChild(panel);
-
-                // Insert the wrapper after all existing content in the region group
-                // Use appendChild to maintain correct order (not insertBefore which reverses)
-                if (!cardGrid.parentNode.querySelector('.cl-card-chapter-wrapper[data-pov="' + povKey + '"]')) {
-                    cardGrid.parentNode.appendChild(wrapper);
-                }
-            });
-        }
+        /* (region toggle and expandable chapters removed — clean card grid only) */
 
     })();
     </script>

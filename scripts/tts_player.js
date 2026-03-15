@@ -10,7 +10,7 @@
     // ── Configuration ──
     var DEFAULT_VIENEU_URL = 'http://127.0.0.1:8001';
 
-    // Built-in VieNeu voices (matches voices.json from the VieNeu-TTS repo)
+    // VieNeu-TTS voices
     var VIENEU_VOICES = [
         { id: 'Binh',  name: 'Bình (Nam Bắc)' },
         { id: 'Tuyen', name: 'Tuyên (Nam Bắc)' },
@@ -128,7 +128,7 @@
         // Populate voice select
         var sel = document.getElementById('tts-voice-select');
         var optgroup = document.createElement('optgroup');
-        optgroup.label = 'VieNeu-TTS (24kHz)';
+        optgroup.label = 'VieNeu-TTS';
         VIENEU_VOICES.forEach(function(v) {
             var opt = document.createElement('option');
             opt.value = v.id;
@@ -891,6 +891,14 @@
 
     // ── Initialize ──
     function init() {
+        // Clean up stale voice IDs from removed engines (Edge/native)
+        var validIds = VIENEU_VOICES.map(function(v) { return v.id; })
+            .concat(state.clonedVoices.map(function(v) { return v.id; }));
+        if (validIds.indexOf(state.voiceId) === -1) {
+            state.voiceId = 'Binh';
+            localStorage.setItem('tts_voice', 'Binh');
+        }
+
         injectCSS();
         buildPlayer();
         buildFab();
