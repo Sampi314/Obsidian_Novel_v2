@@ -1,3 +1,5 @@
+<div align="right">[ [ 🇻🇳 Xem Bản Tiếng Việt ] ](./SECURITY.md)</div>
+
 # 🛡️ Security Policy
 
 This is a personal project focused on the creation of literary content (Xianxia). While it does not contain complex application source code, we are committed to maintaining the integrity and safety of the data within the repository.
