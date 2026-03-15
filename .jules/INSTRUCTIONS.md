@@ -21,7 +21,7 @@
 | Góc Nhìn Diệp Thanh Y | 10 | Arc 1 | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
 | Góc Nhìn Lục Trần | — | — | Đang mở rộng |
-| Góc Nhìn Độc Cô Lão Quái | — | — | Đang mở rộng |
+| Góc Nhìn Độc Cô Lão Quái | 7 | Arc 1 | Đang mở rộng |
 | Góc Nhìn Hắc Hạt Ma Trùng | — | — | Đang mở rộng |
 | Góc Nhìn Ngô Công Trưởng Lão | — | — | Đang mở rộng |
 | Góc Nhìn Phương Vô Kỵ | — | — | Đang mở rộng |
@@ -93,7 +93,7 @@
 **Nam Cương (8 nhân vật):**
 - [x] **Đan Dương Tử** (`Góc_Nhìn_Đan_Dương_Tử/`): Đã viết ch 7-10. Cầu viện Dược Vương Cốc, liên minh Y-Đan.
 - [x] **Diệp Thanh Y** (`Góc_Nhìn_Diệp_Thanh_Y/`): Đã viết ch 6-10. Chủ đề: Hành trình y sư, cứu trị Huyết Thần Độc, liên minh Y-Đan, thanh tẩy mạch đất.
-- [ ] **Độc Cô Lão Quái** (`Góc_Nhìn_Độc_Cô_Lão_Quái/`): Viết ch 7-10. Chủ đề: Âm mưu tà đạo, kiểm soát trùng, Đại Trận.
+- [x] **Độc Cô Lão Quái** (`Góc_Nhìn_Độc_Cô_Lão_Quái/`): Đã viết ch 4-7. Chủ đề: Âm mưu tà đạo, kiểm soát trùng, Đại Trận.
 - [ ] **Hắc Hạt Ma Trùng** (`Góc_Nhìn_Hắc_Hạt_Ma_Trùng/`): Viết ch 7-10. Chủ đề: Tiến hóa, ký ức thượng cổ, trỗi dậy.
 - [ ] **Hàn Thanh Nguyệt** (`Góc_Nhìn_Hàn_Thanh_Nguyệt/`): Viết ch 7-10. Chủ đề: Sinh tồn sát thủ, mạng lưới Huyết Tinh Sa.
 - [ ] **Lục Trần** (`Góc_Nhìn_Lục_Trần/`): Viết ch 7-10. Chủ đề: Kiếm đạo hộ thế, gián điệp, liên minh.
@@ -134,6 +134,7 @@
 ### Ghi Chú
 > Đã hoàn thành Chương 7-10 cho Góc Nhìn Đan Dương Tử. Đan Dương Tử đến Dược Vương Cốc cầu viện Diệp Thanh Y. Hai bên gác lại ân oán trăm năm để thiết lập liên minh Y-Đan, dự tính dùng lửa cắt đứt độc và mộc để bảo vệ kinh mạch, cứu chữa Huyết Thần Độc.
 > Đã hoàn thành Chương 95-96 cho Góc Nhìn Lâm Phong. Trận chiến Rừng Ảo Ảnh tiếp diễn căng thẳng. Lâm Phong dụ Huyết Tôn vào bẫy, Nham Thiết kích nổ mạch nước ngầm, Diệp Tĩnh Sương chém đứt phòng ngự. Cuối cùng, Lõi Thần Mộc giáng lâm, đánh lui Huyết Tôn.
+> Đã hoàn thành Chương 4-7 cho Góc Nhìn Độc Cô Lão Quái. Lão đối mặt Hắc Hạt Ma Trùng và quyết định thả cho nó càn quét để hoàn thành Vạn Độc Huyết Ma Đan.
 
 ---
 
