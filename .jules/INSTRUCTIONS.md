@@ -16,7 +16,7 @@
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
 | Góc Nhìn Lâm Phong | 88 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 132 | Arc 13 — Con Đường Về Nhà | Đang viết |
+| Góc Nhìn A Ngốc | 134 | Arc 13 — Con Đường Về Nhà | Đang viết |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -168,6 +168,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã viết Chương 133-134 cho Góc Nhìn A Ngốc (Arc 13). A Ngốc và Lệ Vô Tâm bắt gặp Huyết Thần Độc biến thể ở Trấn Bán Nguyệt. Dưới sự ảnh hưởng của sự thấu cảm trong sáng từ A Ngốc, Lệ Vô Tâm đã tự nguyện thu hồi sát ý, không tàn sát nhóm Huyết Sát Minh mà chỉ dùng thuốc ngủ, và hai người cùng nhau thanh tẩy giếng nước bị nhiễm độc.
 > Đã viết Chương 131-132 cho Góc Nhìn A Ngốc (Arc 13). A Ngốc và Lệ Vô Tâm dọn dẹp Huyết Thi tại một hẻm núi và cứu một thôn nhỏ. Sự tương phản giữa "Ông kẹ" Lệ Vô Tâm dùng lưới băng bạo lực và "Thiên thần" A Ngốc dùng Hỗn Độn chi lực êm đềm khiến Lệ Vô Tâm bắt đầu thấy xấu hổ và tội lỗi vì những gì mình đã gây ra.
 > Đã viết Chương 87-88 cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong bị các đội tinh anh Huyết Sát Minh truy sát gắt gao trong rừng rậm. Mảnh vỡ Huyết Liên thao túng tâm trí Lâm Phong khiến hắn suýt mất kiểm soát, buộc Diệp Tĩnh Sương phải dùng Băng Phong Thiên Lý để trấn áp và tạo đường lui khẩn cấp.
 

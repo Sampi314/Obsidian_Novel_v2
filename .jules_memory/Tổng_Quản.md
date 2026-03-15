@@ -6,7 +6,7 @@
 
 ## PHIÊN GẦN NHẤT
 - **Ngày**: Hiện tại
-- **Công việc**: Viết Chương 131-132 cho A Ngốc (Arc 13: Con Đường Về Nhà) và Chương 87-88 cho Lâm Phong. Cập nhật MỤC_LỤC.md, chạy update_chapter_data.py, cập nhật INSTRUCTIONS.md, BÁO_CÁO_CHẤT_LƯỢNG.md và HỒ_SƠ_THẾ_GIỚI.md.
-- **Agent đã kích hoạt**: Tổng Quản, Chương Truyện.
-- **Tình trạng file**: Các file mới đã được tạo và nội dung được cập nhật đầy đủ.
-- **Ưu tiên phiên sau**: Tiếp tục Arc 13 của A Ngốc (Chương 133+), hoặc catch-up Góc Nhìn Lâm Phong (Chương 89+), hoặc viết POV nhân vật phụ (Task 6).
+- **Công việc**: Viết Chương 133-134 cho A Ngốc (Arc 13: Con Đường Về Nhà). Cập nhật `scripts/relationship_data.js` dựa trên `HỒ_SƠ_THẾ_GIỚI.md` và `Đạo/Nhân_Vật/` để cung cấp data cho biểu đồ quan hệ. Cập nhật MỤC_LỤC.md, chạy update_chapter_data.py, cập nhật INSTRUCTIONS.md, BÁO_CÁO_CHẤT_LƯỢNG.md và HỒ_SƠ_THẾ_GIỚI.md.
+- **Agent đã kích hoạt**: Tổng Quản, Chương Truyện, Quan Hệ.
+- **Tình trạng file**: Các file mới đã được tạo và nội dung được cập nhật đầy đủ. Data JSON quan hệ đã được thiết lập.
+- **Ưu tiên phiên sau**: Tiếp tục Arc 13 của A Ngốc (Chương 135+), hoặc catch-up Góc Nhìn Lâm Phong (Chương 89+), hoặc viết POV nhân vật phụ (Task 6).
