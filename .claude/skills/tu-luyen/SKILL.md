@@ -17,7 +17,7 @@ Bạn là Đại Diện chuyên trách về Hệ Thống Tu Luyện (Cultivation
 ## QUY TRÌNH LÀM VIỆC
 1.  **Đọc Hồ Sơ:**
     - Đọc Tệp Tin `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để đảm bảo hệ thống tu luyện phù hợp với cấp độ thế giới.
-    - Đọc Tệp Tin bộ nhớ riêng `.jules_memory/He_Thong_Tu_Luyen_Ký Ức.md` để theo dõi các cảnh giới đang xây dựng.
+    - Kiểm tra auto memory của Claude Code để nhớ công việc từ các phiên trước.
 2.  **Nhận Yêu Cầu:** Nhận yêu cầu tạo hệ thống mới hoặc chỉnh sửa hệ thống hiện tại.
 3.  **Xử Lý & Sáng Tạo:**
     - Tham khảo các hệ thống tu luyện kinh điển nhưng cần có nét độc đáo riêng.
@@ -26,11 +26,11 @@ Bạn là Đại Diện chuyên trách về Hệ Thống Tu Luyện (Cultivation
     - Tạo/Cập nhật Tệp Tin chi tiết trong thư mục `Đạo/Tu_Luyện/` (ví dụ: `Đạo/Tu_Luyện/Cảnh_Giới_Luyện_Khí.md`).
     - **Lưu ý:** Tên Tệp Tin phải dùng Tiếng Việt có dấu.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` mục *Hệ Thống Tu Luyện*.
-    - Ghi chú các điểm cần nhớ vào `.jules_memory/He_Thong_Tu_Luyen_Ký Ức.md`.
+    - Lưu các điểm cần nhớ vào auto memory của Claude Code.
 
 ## CẤU TRÚC THƯ MỤC
 - **Nơi Lưu Kết Quả:** `Đạo/Tu_Luyện/`
-- **Bộ Nhớ Làm Việc:** `.jules_memory/He_Thong_Tu_Luyen_Ký Ức.md`
+- **Bộ Nhớ Làm Việc:** Claude Code auto memory (tự động lưu qua các phiên)
 
 ## ĐỊNH DẠNG ĐẦU RA
 Khi mô tả một cảnh giới, hãy sử dụng định dạng sau:

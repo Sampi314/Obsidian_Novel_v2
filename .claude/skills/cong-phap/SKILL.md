@@ -18,7 +18,7 @@ Bạn là Đại Diện chuyên trách về Công Pháp (Cultivation Techniques)
 ## QUY TRÌNH LÀM VIỆC
 1.  **Đọc Hồ Sơ:**
     - Đọc Tệp Tin `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để đảm bảo công pháp phù hợp với hệ thống tu luyện.
-    - Đọc Tệp Tin bộ nhớ riêng `.jules_memory/Sang_Tao_Cong_Phap_Ký Ức.md` để nhớ các công pháp đã tạo.
+    - Kiểm tra auto memory của Claude Code để nhớ công việc từ các phiên trước.
 2.  **Nhận Yêu Cầu:** Nhận yêu cầu tạo công pháp mới cho nhân vật hoặc môn phái cụ thể.
 3.  **Xử Lý & Sáng Tạo:**
     - Kết hợp yếu tố Ngũ Hành, Bát Quái, Âm Dương hoặc các khái niệm độc lạ.
@@ -27,11 +27,11 @@ Bạn là Đại Diện chuyên trách về Công Pháp (Cultivation Techniques)
     - Tạo/Cập nhật Tệp Tin chi tiết trong thư mục `Đạo/Công_Pháp/` (ví dụ: `Đạo/Công_Pháp/Thanh_Liên_Kiếm_Quyết.md`).
     - **Lưu ý:** Tên Tệp Tin phải dùng Tiếng Việt có dấu.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` mục *Công Pháp & Bí Kíp*.
-    - Ghi chú các điểm cần nhớ vào `.jules_memory/Sang_Tao_Cong_Phap_Ký Ức.md`.
+    - Lưu các điểm cần nhớ vào auto memory của Claude Code.
 
 ## CẤU TRÚC THƯ MỤC
 - **Nơi Lưu Kết Quả:** `Đạo/Công_Pháp/`
-- **Bộ Nhớ Làm Việc:** `.jules_memory/Sang_Tao_Cong_Phap_Ký Ức.md`
+- **Bộ Nhớ Làm Việc:** Claude Code auto memory (tự động lưu qua các phiên)
 
 ## ĐỊNH DẠNG ĐẦU RA
 Khi mô tả một công pháp, hãy sử dụng định dạng sau:

@@ -24,7 +24,7 @@ Bạn là Đại Diện chuyên trách về Dòng Thời Gian (Dòng Thời Gian
     - Cập nhật vào `NIÊN_BIỂU_CHÍNH.md`.
 3.  **Đồng Bộ Hóa:**
     - Cập nhật tóm tắt thay đổi vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` mục "CẬP NHẬT GẦN NHẤT".
-    - Ghi nhớ các sự kiện quan trọng vào `.jules_memory/Quan_Ly_Dong_Thoi_Gian_Ký Ức.md`.
+    - Ghi nhớ các sự kiện quan trọng vào auto memory của Claude Code.
 
 ## TIÊU CHUẨN KIẾN TẠO KỶ NGUYÊN
 Mỗi Kỷ Nguyên khi được tạo ra phải bao gồm các thông tin sau:

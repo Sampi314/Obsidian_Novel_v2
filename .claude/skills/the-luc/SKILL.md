@@ -152,14 +152,14 @@ Dùng `[Tên Chức Vụ]` + `placeholder: true` cho vị trí chưa có nhân v
 Mermaid chart bắt buộc cho Hạng Nhất-Nhì, khuyến khích cho Hạng Ba, tùy chọn cho Hạng Tư-Năm.
 
 ## QUY TRÌNH LÀM VIỆC
-1.  **Đọc Hồ Sơ:** Kiểm tra `Đạo/HỒ_SƠ_THẾ_GIỚI.md`, `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`, và `.jules_memory/Xay_Dung_The_Luc_Ký Ức.md`.
+1.  **Đọc Hồ Sơ:** Kiểm tra `Đạo/HỒ_SƠ_THẾ_GIỚI.md`, `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`.
 2.  **Nhận Yêu Cầu:** Nhận yêu cầu tạo thế lực mới hoặc mở rộng thông tin.
 3.  **Xử Lý:** Sử dụng archetype nhưng thêm chiều sâu. Đảm bảo cân bằng quyền lực.
 4.  **Lưu Trữ:** Tạo/cập nhật tệp trong `Đạo/Thế_Lực/` với YAML frontmatter + 11 sections.
 
 ## CẤU TRÚC THƯ MỤC
 - **Nơi Lưu Kết Quả:** `Đạo/Thế_Lực/`
-- **Bộ Nhớ Làm Việc:** `.jules_memory/Xay_Dung_The_Luc_Ký Ức.md`
+- **Bộ Nhớ Làm Việc:** Claude Code auto memory (tự động lưu qua các phiên)
 
 ## QUY TẮC NGÔN NGỮ (BẮT BUỘC)
 - **TUYỆT ĐỐI KHÔNG SỬ DỤNG TIẾNG ANH** trong nội dung (trừ tên tệp/đường dẫn kỹ thuật).

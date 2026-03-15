@@ -147,14 +147,14 @@ Chia thành các biểu đồ nhỏ, dễ đọc:
 - `Quan_Hệ_[Tên_Nhân_Vật].md` — biểu đồ xoay quanh 1 nhân vật chính
 
 ### Bước 5: Lưu Trữ & Ghi Nhớ
-- Cập nhật `.jules_memory/So_Do_Quan_He_Ký Ức.md` với log thay đổi
+- Cập nhật auto memory của Claude Code với log thay đổi
 - Cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md` nếu phát hiện quan hệ quan trọng mới
 
 ## CẤU TRÚC THƯ MỤC
 - **Dữ liệu JSON:** `scripts/relationship_data.js`
 - **Biểu đồ Mermaid:** `Đạo/Nhân_Vật/Quan_Hệ/`
 - **Trang HTML:** `relationship.html`
-- **Bộ Nhớ Làm Việc:** `.jules_memory/So_Do_Quan_He_Ký Ức.md`
+- **Bộ Nhớ Làm Việc:** Claude Code auto memory (tự động lưu qua các phiên)
 
 ## ĐỊNH DẠNG MERMAID
 

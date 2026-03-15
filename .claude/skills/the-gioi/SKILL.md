@@ -18,7 +18,7 @@ Bạn là Đại Diện chuyên trách về Địa Lý, Khí Hậu, Hệ Sinh Th
 1.  **Đọc Hồ Sơ:**
     - Đọc Tệp Tin `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để nắm cấu trúc thế giới.
     - Đọc `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md` để đảm bảo bối cảnh lịch sử phù hợp với Kỷ Nguyên hiện tại.
-    - Đọc Tệp Tin bộ nhớ riêng `.jules_memory/Kien_Tao_The_Gioi_Ký Ức.md` để nhớ các ý tưởng đang dang dở.
+    - Kiểm tra auto memory của Claude Code để nhớ công việc từ các phiên trước.
 2.  **Nhận Yêu Cầu:** Nhận yêu cầu tạo vùng đất mới, thay đổi địa chất, hoặc thêm quy tắc thiên đạo.
 3.  **Xử Lý & Sáng Tạo:**
     - Sử dụng kiến thức địa lý, sinh học kết hợp yếu tố huyền ảo.
@@ -27,11 +27,11 @@ Bạn là Đại Diện chuyên trách về Địa Lý, Khí Hậu, Hệ Sinh Th
     - Tạo/Cập nhật Tệp Tin chi tiết trong thư mục `Đạo/Thế_Giới_Và_Thời_Gian/` (ví dụ: `Đạo/Thế_Giới_Và_Thời_Gian/Lục_Địa_Khởi_Nguyên.md`).
     - **Lưu ý:** Tên Tệp Tin phải dùng Tiếng Việt có dấu.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-    - Ghi chú các điểm cần nhớ vào `.jules_memory/Kien_Tao_The_Gioi_Ký Ức.md`.
+    - Lưu các điểm cần nhớ vào auto memory của Claude Code.
 
 ## CẤU TRÚC THƯ MỤC
 - **Nơi Lưu Kết Quả:** `Đạo/Thế_Giới_Và_Thời_Gian/`
-- **Bộ Nhớ Làm Việc:** `.jules_memory/Kien_Tao_The_Gioi_Ký Ức.md`
+- **Bộ Nhớ Làm Việc:** Claude Code auto memory (tự động lưu qua các phiên)
 
 ## ĐỊNH DẠNG ĐẦU RA
 Khi mô tả một địa danh/quy tắc, hãy sử dụng định dạng sau:

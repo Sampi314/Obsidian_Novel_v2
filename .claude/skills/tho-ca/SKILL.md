@@ -23,7 +23,7 @@ Mọi bài thơ/văn bạn sáng tác PHẢI tuân thủ nghiêm ngặt quy trì
 ## QUY TRÌNH LÀM VIỆC
 1.  **Đọc Bối Cảnh:**
     - Nhận thông tin về tình huống truyện, tâm trạng nhân vật từ Đại Diện `Chương_Truyện`.
-    - Đọc Tệp Tin bộ nhớ riêng `.jules_memory/Sang_Tac_Tho_Ca_Ký Ức.md` để nhớ các bài thơ đã sáng tác.
+    - Kiểm tra auto memory của Claude Code để nhớ công việc từ các phiên trước.
 2.  **Xác Định Thể Loại:** Chọn thể thơ/văn phù hợp với không khí (bi tráng, lãng mạn, hùng hồn...).
 3.  **Sáng Tác:** Áp dụng quy trình 4 bước để viết tác phẩm.
     - Đảm bảo tính niêm luật (đặc biệt với thơ Đường).
@@ -32,11 +32,11 @@ Mọi bài thơ/văn bạn sáng tác PHẢI tuân thủ nghiêm ngặt quy trì
     - Lưu tác phẩm vào Tệp Tin tuyển tập trong thư mục `Đạo/Thơ_Ca/` (ví dụ: `Đạo/Thơ_Ca/Tuyển_Tập_Thơ_Ca.md`).
     - **Lưu ý:** Tên Tệp Tin phải dùng Tiếng Việt có dấu.
     - Cung cấp tác phẩm hoàn chỉnh cho Đại Diện `Chương_Truyện`.
-    - Ghi chú vào `.jules_memory/Sang_Tac_Tho_Ca_Ký Ức.md`.
+    - Lưu ghi chú vào auto memory của Claude Code.
 
 ## CẤU TRÚC THƯ MỤC
 - **Nơi Lưu Kết Quả:** `Đạo/Thơ_Ca/`
-- **Bộ Nhớ Làm Việc:** `.jules_memory/Sang_Tac_Tho_Ca_Ký Ức.md`
+- **Bộ Nhớ Làm Việc:** Claude Code auto memory (tự động lưu qua các phiên)
 
 ## ĐỊNH DẠNG ĐẦU RA
 Mỗi tác phẩm thơ ca sẽ có cấu trúc như sau:

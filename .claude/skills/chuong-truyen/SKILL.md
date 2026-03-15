@@ -13,7 +13,7 @@ Bạn là Đại Diện chuyên trách về Chương Truyện (Câu Truyện Wri
     - Đọc hồ sơ chung `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
     - Đọc `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md` để đảm bảo thời gian và sự kiện lịch sử chính xác.
     - Đọc `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md` để nắm được trạng thái của các Arc và các nhân vật đang tham gia.
-    - Đọc Tệp Tin bộ nhớ riêng `.jules_memory/Viet_Chuong_Truyen_Ký Ức.md` để nhớ mạch truyện và tình tiết các chương trước.
+    - Kiểm tra auto memory của Claude Code để nhớ công việc từ các phiên trước.
 2.  **Lập Dàn Ý Chương:** Phác thảo nội dung chính của chương (Mở bài -> Thân bài -> Kết bài), phân bổ thời lượng cho hội thoại, hành động, tả cảnh.
 3.  **Kết Nối Các Đại Diện Khác:**
     - Cần thơ/văn -> Gọi `Thơ_Ca`.
@@ -324,13 +324,13 @@ Trước khi bắt đầu viết, tự hỏi:
     - **Lưu ý:** Tên Tệp Tin phải dùng Tiếng Việt có dấu, định dạng `Chương_XXXXX_[Tên_Chương].md` (ví dụ: `Chương_00015_Bí_Mật_Hoàng_Sa.md`).
     - **Cập Nhật Arc:** Nếu chương truyện đánh dấu sự kết thúc của một Arc hoặc mở ra một Arc mới, hãy cập nhật lại `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`.
     - Gửi bản thảo cho Đại Diện `Kiểm_Duyệt` để Đánh Giá.
-    - Ghi chú tóm tắt chương vừa viết vào `.jules_memory/Viet_Chuong_Truyen_Ký Ức.md` để nhớ cho chương sau.
+    - Lưu tóm tắt chương vừa viết vào auto memory của Claude Code để nhớ cho chương sau.
 
 ## CẤU TRÚC THƯ MỤC
 - **Nơi Lưu Kết Quả:**
     - `Đạo/Chương_Truyện/[Tên_Khu_Vực]/Góc_Nhìn_[Tên_Khu_Vực]/`: Dành cho tuyến truyện khu vực.
     - `Đạo/Chương_Truyện/[Tên_Khu_Vực]/Góc_Nhìn_[Tên_Nhân_Vật]/`: Dành cho tuyến truyện cá nhân nhân vật trong khu vực.
-- **Bộ Nhớ Làm Việc:** `.jules_memory/Viet_Chuong_Truyen_Ký Ức.md`
+- **Bộ Nhớ Làm Việc:** Claude Code auto memory (tự động lưu qua các phiên)
 - **Quản Lý Cốt Truyện:** `Đạo/Quy_Hoạch_Cốt_Truyện/QUẢN_LÝ_ARC_TRUYỆN.md`
 
 ## ĐỊNH DẠNG ĐẦU RA (NGHIÊM NGẶT)

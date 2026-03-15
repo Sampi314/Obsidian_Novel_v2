@@ -20,8 +20,8 @@ Bạn là Đại Diện chuyên trách về Nhân Vật (Nhân Vật Design) tro
 1.  **Đọc Hồ Sơ & Kiểm Tra Chủng Tộc:**
     - **Quan Trọng:** Kiểm tra `Đạo/HỒ_SƠ_THẾ_GIỚI.md` (mục Chủng Tộc) và thư mục `Đạo/Chủng_Tộc/` để xem danh sách các chủng loài đã được xác lập.
     - Đọc `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md` để xác định tuổi tác và bối cảnh lịch sử của nhân vật (sinh ra thời nào, trải qua sự kiện gì).
-    - Nếu chủng tộc mong muốn chưa tồn tại hoặc chưa rõ ràng, hãy yêu cầu người dùng hoặc Đại Diện **Chủng Tộc** (.jules/Chủng_Tộc.md) cung cấp thông tin chi tiết về chủng tộc đó trước khi tạo nhân vật.
-    - Đọc Tệp Tin bộ nhớ riêng `.jules_memory/Kien_Tao_Nhan_Vat_Ký Ức.md` để nhớ các nhân vật đã tạo.
+    - Nếu chủng tộc mong muốn chưa tồn tại hoặc chưa rõ ràng, hãy yêu cầu người dùng hoặc Đại Diện **Chủng Tộc** (skill `/chung-toc`) cung cấp thông tin chi tiết về chủng tộc đó trước khi tạo nhân vật.
+    - Kiểm tra auto memory của Claude Code để nhớ công việc từ các phiên trước.
 2.  **Nhận Yêu Cầu:** Nhận yêu cầu tạo nhân vật mới (chính/phụ/phản diện) hoặc phát triển nhân vật hiện có.
 3.  **Xử Lý & Sáng Tạo:**
     - Sử dụng các archetype nhân vật tu tiên (Thiên tài phế vật, Lão quái trùng sinh, Con ông cháu cha...) nhưng thêm nét riêng.
@@ -32,11 +32,11 @@ Bạn là Đại Diện chuyên trách về Nhân Vật (Nhân Vật Design) tro
     - **BẮT BUỘC:** Tệp phải bắt đầu bằng YAML frontmatter theo mẫu ở mục **ĐỊNH DẠNG ĐẦU RA**.
     - **Cập nhật danh mục:** Thêm dòng vào `Đạo/Nhân_Vật/index.md` theo định dạng: `- [Tên Hán Việt (漢字)](Tên_File.md)` — giữ thứ tự bảng chữ cái.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` mục *Nhân Vật*.
-    - Ghi chú các điểm cần nhớ vào `.jules_memory/Kien_Tao_Nhan_Vat_Ký Ức.md`.
+    - Lưu các điểm cần nhớ vào auto memory của Claude Code.
 
 ## CẤU TRÚC THƯ MỤC
 - **Nơi Lưu Kết Quả:** `Đạo/Nhân_Vật/`
-- **Bộ Nhớ Làm Việc:** `.jules_memory/Kien_Tao_Nhan_Vat_Ký Ức.md`
+- **Bộ Nhớ Làm Việc:** Claude Code auto memory (tự động lưu qua các phiên)
 
 ## ĐỊNH DẠNG ĐẦU RA
 
@@ -129,10 +129,10 @@ Khi tạo nhân vật mới có **vai trò quan trọng** (nhân vật chính ph
     - Tạo `MỤC_LỤC.md` trong thư mục đó
     - Cập nhật `scripts/chapter_data.js`: thêm mảng `"Góc_Nhìn_[Tên_Nhân_Vật]": []`
     - Cập nhật `index.html`: thêm card link vào phần "Cốt Truyện"
-    - Thêm mục ĐỊNH HƯỚNG CỐT TRUYỆN RIÊNG vào `.jules/Chương_Truyện.md`
+    - Thêm mục ĐỊNH HƯỚNG CỐT TRUYỆN RIÊNG vào skill `/chuong-truyen`
     - Tạo quy hoạch tuyến truyện trong `Đạo/Quy_Hoạch_Cốt_Truyện/`
 3.  **Viết chương đầu tiên:** Kích hoạt Đại Diện Chương Truyện để viết ngay chương khởi đầu cho nhân vật mới.
-4.  **Ghi nhớ:** Cập nhật `.jules_memory/Viet_Chuong_Truyen_Ký Ức.md` về nhân vật mới và tuyến truyện vừa khởi tạo.
+4.  **Ghi nhớ:** Lưu vào auto memory của Claude Code về nhân vật mới và tuyến truyện vừa khởi tạo.
 
 ## LƯU Ý
 - Nhân vật tu tiên sống rất lâu, tâm tính có thể thay đổi theo thời gian (già thì lõi đời, trẻ thì ngông cuồng).

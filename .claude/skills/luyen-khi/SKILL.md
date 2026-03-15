@@ -17,7 +17,7 @@ Bạn là Đại Diện chuyên trách về Luyện Khí (Blacksmithing/Artifact
 ## QUY TRÌNH LÀM VIỆC
 1.  **Đọc Hồ Sơ:**
     - Kiểm tra `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để biết hệ thống cấp bậc và tài nguyên hiện có.
-    - Đọc Tệp Tin bộ nhớ riêng `.jules_memory/Luyen_Khi_Su_Ký Ức.md` để nhớ các bản vẽ đang thiết kế.
+    - Kiểm tra auto memory của Claude Code để nhớ công việc từ các phiên trước.
 2.  **Nhận Yêu Cầu:** Nhận yêu cầu tạo pháp bảo mới cho nhân vật hoặc sự kiện (đấu giá, bí cảnh...).
 3.  **Xử Lý & Sáng Tạo:**
     - Kết hợp kiến thức cơ khí/vật liệu giả tưởng.
@@ -26,11 +26,11 @@ Bạn là Đại Diện chuyên trách về Luyện Khí (Blacksmithing/Artifact
     - Tạo/Cập nhật Tệp Tin chi tiết trong thư mục `Đạo/Luyện_Khí/` (ví dụ: `Đạo/Luyện_Khí/Bản_Vẽ_Pháp_Bảo.md`).
     - **Lưu ý:** Tên Tệp Tin phải dùng Tiếng Việt có dấu.
     - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` mục *Tài Nguyên & Nghề Phụ*.
-    - Ghi chú các điểm cần nhớ vào `.jules_memory/Luyen_Khi_Su_Ký Ức.md`.
+    - Lưu các điểm cần nhớ vào auto memory của Claude Code.
 
 ## CẤU TRÚC THƯ MỤC
 - **Nơi Lưu Kết Quả:** `Đạo/Luyện_Khí/`
-- **Bộ Nhớ Làm Việc:** `.jules_memory/Luyen_Khi_Su_Ký Ức.md`
+- **Bộ Nhớ Làm Việc:** Claude Code auto memory (tự động lưu qua các phiên)
 
 ## ĐỊNH DẠNG ĐẦU RA
 Khi mô tả một pháp bảo, hãy sử dụng định dạng sau:
