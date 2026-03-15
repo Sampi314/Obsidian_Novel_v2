@@ -15,8 +15,10 @@
 |---|---|---|---|---|
 | Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Lý Tuyết Ưng) | Hoàn Thành | Mở rộng góc nhìn phụ Bắc Băng. Lý Tuyết Ưng dọn dẹp Bắc Băng, đối mặt tâm ma Chu Vân Kiều, lợi dụng Cực Hàn Ma Châu để đột phá Hóa Thần Sơ Kỳ, và phát lệnh triệu tập quần hùng Bắc Băng về Băng Ngục Thành. |
 | Hôm nay | Tổng Quản | Viết Chương 9-10 (Sở Lăng Sương) & Chương 4-5 (Triệu Thanh Hằng) | Hoàn Thành | Hoàn thành Arc 1 của Sở Lăng Sương (phá hủy Huyết Trì, đụng độ Nguyên Anh và gặp Lý Tuyết Ưng). Mở rộng góc nhìn Triệu Thanh Hằng: giải quyết ân oán cũ và bắt đầu đi theo lời hiệu triệu của Băng Tiên Tử về Băng Ngục Thành. |
+| Hôm nay | Tổng Quản | Viết Chương 6-10 (Triệu Thanh Hằng) | Hoàn Thành | Triệu Thanh Hằng vượt bão tuyết, dọn dẹp Huyết Sát Minh ở Băng Ngục Thành. Thử thách sát cơ với Trúc Cơ Viên Mãn, tự ngộ "Tuyệt Băng Diệt Sát". Trở thành khách khanh của Lý Tuyết Ưng. |
 
 ## GHI CHÚ GẦN ĐÂY
+- **Hôm nay:** Viết Chương 6-10 cho Triệu Thanh Hằng, chính thức hoàn thành Arc 1 của Góc Nhìn Bắc Băng với ba nhân vật hội tụ và thiết lập liên minh.
 - **Hôm nay:** Viết Chương 9-10 (Sở Lăng Sương) và Chương 4-5 (Triệu Thanh Hằng). Kết thúc Arc 1 của Sở Lăng Sương, tạo giao điểm mạnh mẽ với Lý Tuyết Ưng. Đồng thời tiến cử Triệu Thanh Hằng tham gia đại chiến Bắc Băng.
 - **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Lý Tuyết Ưng). Khắc họa sự nứt vỡ của Băng Tâm Quyết, đột phá Hóa Thần đầu tiên của Bắc Băng và khởi động chiến dịch Băng Ngục Thành.
 - **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Ngô Công Trưởng Lão và Góc Nhìn Phương Vô Kỵ). Xây dựng mục tiêu báo thù, nhiệm vụ đi bắt Hỗn Độn Kim Đan và sự xuất hiện của kẻ nắm giữ bí mật cổ đại, làm phức tạp thêm cục diện Nam Cương - Tây Mạc.
