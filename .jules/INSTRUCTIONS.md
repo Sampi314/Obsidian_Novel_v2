@@ -38,7 +38,7 @@
 | Góc Nhìn | Số Chương | Ghi Chú |
 |-----------|-----------|---------|
 | Góc Nhìn Đông Hoang | 10 | Arc 1 hoàn thành |
-| Góc Nhìn Lục Ly | — | Đang mở rộng |
+| Góc Nhìn Lục Ly | 10 | Đang mở rộng (Đã xong Ch 7-10) |
 | Góc Nhìn Nguyệt Dao | — | Đang mở rộng |
 | Góc Nhìn Nham Thần | — | Đang mở rộng |
 | Góc Nhìn Lục Tiêu | — | Đang mở rộng |
@@ -105,7 +105,7 @@
 - [x] **Triệu Thanh Hằng** (`Góc_Nhìn_Triệu_Thanh_Hằng/`): Đã viết ch 6-10 (Arc 1 xong). Chủ đề: Kiếm đạo tự ngộ, ân oán, Huyết Sát Minh. Dọn dẹp Huyết Vệ và trở thành thanh gươm tiên phong của Bắc Băng.
 
 **Đông Hoang (4 nhân vật):**
-- [ ] **Lục Ly** (`Góc_Nhìn_Lục_Ly/`): Viết ch 7-10. Chủ đề: Hộ pháp tinh linh, Hoàng Sa Quốc, người kế thừa.
+- [x] **Lục Ly** (`Góc_Nhìn_Lục_Ly/`): Đã viết ch 7-10. Chủ đề: Hộ pháp tinh linh, Hoàng Sa Quốc, người kế thừa. Kim Sa nhận Thủy Linh Châu và Hoàng Kim Ấn, chạy trốn Huyết Sát Minh.
 - [ ] **Nguyệt Dao** (`Góc_Nhìn_Nguyệt_Dao/`): Viết ch 7-10. Chủ đề: Dao pháp, hoang dã, bí mật Đông Hoang.
 - [ ] **Nham Thần** (`Góc_Nhìn_Nham_Thần/`): Viết ch 7-10. Chủ đề: Thức tỉnh, địa mạch, bảo vệ đất đai.
 - [ ] **Lục Tiêu** (`Góc_Nhìn_Lục_Tiêu/`): Viết ch 7-10. Chủ đề: Thế giới bên ngoài, đồng minh, kết nối.
