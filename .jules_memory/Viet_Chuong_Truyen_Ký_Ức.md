@@ -4,5 +4,5 @@
 - Cập nhật MỤC_LỤC.md và chapter_data.js.
 
 ## PHIÊN GẦN NHẤT
-- Viết chương 6-10 cho Góc Nhìn Lục Trần (Tông chủ Cửu Hoa Kiếm Tông): Lục Trần triệu tập hội nghị trưởng lão, trấn áp sự chia rẽ trong nội bộ, phái đệ tử tinh anh xuống núi. Đồng thời, ông dùng uy áp Hóa Thần và Mộc linh khí phong ấn những đệ tử ngoại môn bị nhiễm Huyết Thần Độc. Cuối cùng, ông bắt quả tang trưởng lão ngoại môn Vương Hàn đang giao dịch với Huyết Sát Minh, phong ấn hắn vào Hắc Ngục để chuẩn bị vạch trần toàn bộ đường dây.
-- Đã cập nhật INSTRUCTIONS.md, HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md, chapter_data.js và MỤC_LỤC.md của Góc Nhìn Lục Trần. Chạy test frontend.
+- Viết chương 7-10 cho Góc Nhìn Nguyệt Dao (Nữ Hoàng Tinh Linh): Nguyệt Dao nhận được lời khẩn cầu từ Thần Mộc, đích thân ra tiền tuyến dùng Nguyệt Quang Phổ Chiếu thanh tẩy Huyết Độc. Nàng nhận ra sự xâm lăng của Huyết Sát Minh qua địa mạch nên quyết định phá luật ngàn năm, phái Lục Tiêu đến Nam Cương tìm Dược Vương Cốc để liên minh. Nàng cũng đánh bại đợt tấn công đầu tiên của Huyết Tôn và đám Huyết Thi.
+- Đã cập nhật INSTRUCTIONS.md, HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md, chapter_data.js và MỤC_LỤC.md của Góc Nhìn Nguyệt Dao.
