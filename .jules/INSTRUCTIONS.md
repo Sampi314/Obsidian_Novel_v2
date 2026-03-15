@@ -14,9 +14,9 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 92 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 94 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
-| Góc Nhìn A Ngốc | 140 | Arc 14 — Hồn Nhiên Tử | Đang viết |
+| Góc Nhìn A Ngốc | 144 | Arc 14 — Hồn Nhiên Tử | Đang viết |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
 | Góc Nhìn Diệp Thanh Y | — | — | Đang mở rộng |
 | Góc Nhìn Hàn Thanh Nguyệt | — | — | Đang mở rộng |
@@ -66,8 +66,8 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up A Ngốc + Lâm Phong + viết thêm chương cho 5 tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 14 (Hồn Nhiên Tử), viết tiếp Chương 141-144 cho Góc Nhìn A Ngốc.
-2. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 93, 94... cho Góc Nhìn Lâm Phong. Chuẩn bị trận phục kích tại Rừng Ảo Ảnh.
+1. **Redesign A Ngốc (Task 8)**: Tiếp tục Arc 14 (Hồn Nhiên Tử), viết tiếp Chương 145-148 cho Góc Nhìn A Ngốc. (Chỉ còn khoảng 8 chương nữa để hoàn thành Arc 14 - 152 chương).
+2. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 95, 96... cho Góc Nhìn Lâm Phong. Tiến hành trận chiến thực sự với Huyết Sát Minh tại Rừng Ảo Ảnh.
 3. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ để đồng bộ dòng thời gian chung.
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
@@ -168,8 +168,8 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã viết Chương 137-140 cho Góc Nhìn A Ngốc (Arc 14). Tin tức về Hồn Nhiên Tử lan rộng, thu hút các thế lực dòm ngó. Lệ Vô Tâm thể hiện sự chiếm hữu và bảo vệ tuyệt đối với A Ngốc bằng việc đeo vòng Băng Tâm Cốt cho hắn. Bọn họ vô tình đụng độ nhóm của Lâm Phong và Diệp Tĩnh Sương, thiết lập một liên minh bất đắc dĩ.
-> Đã viết Chương 91-92 cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong vào được Vương Đình, diện kiến Nữ Vương Nguyệt Dao và bàn giao Mảnh vỡ Huyết Liên thành công. Nguyệt Dao Nữ Vương dặn Lâm Phong phải bảo vệ A Ngốc. Huyết Sát Minh chuẩn bị công kích Vương Đình, Lâm Phong đề xuất chủ động đón lõng chúng tại Rừng Ảo Ảnh.
+> Đã viết Chương 141-144 cho Góc Nhìn A Ngốc (Arc 14). A Ngốc, Lệ Vô Tâm và nhóm Lâm Phong/Diệp Tĩnh Sương tiến vào Rừng Ảo Ảnh chuẩn bị đối phó Huyết Sát Minh. Lệ Vô Tâm thể hiện sự thay đổi, kết hợp ma khí băng giá với ánh sáng thanh tẩy của A Ngốc để vô hiệu hóa Huyết Sát Phục Ma Trận mà không cần tàn sát.
+> Đã viết Chương 93-94 cho Góc Nhìn Lâm Phong. Nhóm Lâm Phong diện kiến Nguyệt Dao Nữ Vương giao nộp mảnh vỡ Huyết Liên và chỉ đạo thiết lập hệ thống bẫy rập liên hoàn tại Rừng Ảo Ảnh để đón lõng Huyết Sát Minh.
 
 ---
 

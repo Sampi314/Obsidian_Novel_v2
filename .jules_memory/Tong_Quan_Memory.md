@@ -4,6 +4,6 @@
 
 ## PHIEN GAN NHAT
 - Kích hoạt Agent: Viết Chương Truyện
-- Đã viết Chương 103-104 cho Góc Nhìn A Ngốc (Kẻ Săn Đuổi Trong Cát, Chuyện Ông Già) tiếp tục Arc 11.
-- Đã viết Chương 77-78 cho Góc Nhìn Lâm Phong (Trung Khu Năng Lượng, Hủy Diệt Nguồn Độc) hoàn thành phá hủy sào huyệt.
-- Đã cập nhật `MỤC_LỤC.md`, chạy `scripts/update_chapter_data.py`, `INSTRUCTIONS.md` và `BÁO_CÁO_CHẤT_LƯỢNG.md`.
+- Đã viết Chương 141-144 cho Góc Nhìn A Ngốc (Đứng Cùng Kẻ Xấu, Mùi Sương Và Sát Khí, Đốm Lửa Đen Trong Sương, Vầng Sáng Dưới Bầu Trời Xám).
+- Đã viết Chương 93-94 cho Góc Nhìn Lâm Phong (Khấu Kiến Nữ Vương, Giăng Bẫy Rừng Sương).
+- Đã cập nhật `MỤC_LỤC.md`, `scripts/chapter_data.js`, `INSTRUCTIONS.md` và `BÁO_CÁO_CHẤT_LƯỢNG.md`.

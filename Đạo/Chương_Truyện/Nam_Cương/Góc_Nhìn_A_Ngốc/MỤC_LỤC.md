@@ -181,4 +181,8 @@
 - [Chương 138: Ruồi Muỗi Đói Khát](Chương_00138_Ruồi_Muỗi_Đói_Khát.md)
 - [Chương 139: Ràng Buộc Hữu Hình](Chương_00139_Ràng_Buộc_Hữu_Hình.md)
 - [Chương 140: Sự Chuyển Giao Nóng Lạnh](Chương_00140_Sự_Chuyển_Giao_Nóng_Lạnh.md)
+- [Chương 141: Đứng Cùng Kẻ Xấu](Chương_00141_Đứng_Cùng_Kẻ_Xấu.md)
+- [Chương 142: Mùi Sương Và Sát Khí](Chương_00142_Mùi_Sương_Và_Sát_Khí.md)
+- [Chương 143: Đốm Lửa Đen Trong Sương](Chương_00143_Đốm_Lửa_Đen_Trong_Sương.md)
+- [Chương 144: Vầng Sáng Dưới Bầu Trời Xám](Chương_00144_Vầng_Sáng_Dưới_Bầu_Trời_Xám.md)
 *(Đang cập nhật)*
