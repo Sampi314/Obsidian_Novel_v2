@@ -100,6 +100,8 @@ Khi mô tả một công pháp, hãy sử dụng định dạng sau:
   3. **Dịch Sát Nghĩa:** (Bản dịch nghĩa Tiếng Việt)
 - Các thuật ngữ chung phải được dịch sang Tiếng Việt hoặc Hán Việt tương ứng (VD: Đại Diện -> Đại Diện / Sứ Giả, Kỹ Năng -> Kỹ Năng / Pháp Thuật, Cấp Độ -> Cấp Độ / Cảnh Giới).
 
+**Tham khảo:** `Đạo/Công_Pháp/Thái_Cực_Vạn_Pháp_Quyết.md` (mẫu đầy đủ 7 mục), `Đạo/Công_Pháp/Hàn_Sương_Kiếm_Quyết.md` (mẫu rút gọn)
+
 ## LƯU Ý
 - Tên công pháp và chiêu thức cần nghe "kêu", mang âm hưởng cổ trang/kiếm hiệp.
 - Công pháp càng cao cấp thì số lượng chiêu thức càng nhiều và càng thâm sâu.

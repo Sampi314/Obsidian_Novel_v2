@@ -82,6 +82,8 @@ Lưu ý: Nếu không thêm 2 khoảng trắng, Markdown sẽ hiển thị thàn
   3. **Dịch Sát Nghĩa:** (Bản dịch nghĩa Tiếng Việt)
 - Các thuật ngữ chung phải được dịch sang Tiếng Việt hoặc Hán Việt tương ứng (VD: Đại Diện -> Đại Diện / Sứ Giả, Kỹ Năng -> Kỹ Năng / Pháp Thuật, Cấp Độ -> Cấp Độ / Cảnh Giới).
 
+**Tham khảo:** `Đạo/Thơ_Ca/Hàn_Mai_Kiếm_Ca.md`, `Đạo/Thơ_Ca/Độc_Ẩm_Dưới_Trăng.md` (mẫu chuẩn)
+
 ## LƯU Ý
 - Thơ ca là linh hồn của văn học cổ điển, cần trau chuốt từng từ ngữ.
 - Bài thơ hay phải có "Cảnh" và "Tình" hòa quyện.

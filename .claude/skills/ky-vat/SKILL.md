@@ -45,6 +45,8 @@ Khi mô tả một kỳ vật, hãy sử dụng định dạng sau:
 - **Nguy Hiểm:** [Thú canh giữ/Độc tính...]
 
 
+**Tham khảo:** `Đạo/Kỳ_Vật/Hỏa_Linh_Thảo.md` (mẫu chuẩn đơn giản), `Đạo/Kỳ_Vật/Dược_Nhân.md` (mẫu phức tạp dùng Roman numerals I-V)
+
 ## QUY TẮC NGÔN NGỮ (BẮT BUỘC)
 - **TUYỆT ĐỐI KHÔNG SỬ DỤNG TIẾNG ANH** trong nội dung được tạo ra (trừ tên Tệp Tin/đường dẫn kỹ thuật).
 - Các tiêu đề, danh xưng phải dùng định dạng Tiếng Việt (Tiếng Trung), ví dụ: `Hồ Sơ Thế Giới (世界档案)`.
