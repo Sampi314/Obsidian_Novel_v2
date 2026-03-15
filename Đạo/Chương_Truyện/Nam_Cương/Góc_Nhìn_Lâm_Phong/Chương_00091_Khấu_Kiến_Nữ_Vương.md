@@ -7,72 +7,56 @@
 
 # Chương 91: Khấu Kiến Nữ Vương
 
-Khung cảnh bên trong Tinh Linh Vương Đình khác xa hoàn toàn so với sự hoang tàn, chết chóc ở rìa Vĩnh Hằng Sâm Lâm.
+Mặt nước Hồ Thanh Mộc trong vắt không một gợn sóng, phát ra thứ ánh sáng xanh ngọc bích êm dịu. Nơi đây là trung tâm linh khí mộc hệ của Vĩnh Hằng Sâm Lâm, nằm sâu dưới gốc của một cây cổ thụ khổng lồ. Rễ cây đan xen nhau tạo thành những vòm hang động tự nhiên, rủ xuống những giọt nhựa sống lấp lánh như sương sớm.
 
-Lâm Phong theo chân Lục Tiêu bước qua một kết giới lấp lánh ánh sáng xanh lục. Ngay khi bước qua, mùi máu tanh và sát khí của Huyết Sát Minh bị gạt bỏ hoàn toàn, nhường chỗ cho một thứ linh khí mộc hệ tinh khiết đến mức khiến người ta có cảm giác như đang hít thở nhựa sống của chính gốc Thần Mộc.
+Lâm Phong và Nham Thiết đang ngâm mình trong hồ, cảm nhận dòng linh khí ấm áp len lỏi qua từng tấc da thịt, chữa lành những vết thương do sát khí và kịch độc để lại trong trận phá vây cửa ngõ Vương Đình. Nham Thiết, với thân hình khổng lồ đầy những vết sẹo do Huyết Sát Minh hành hạ, nhắm nghiền mắt, hơi thở phì phò thư thái. Những vết loét rỉ máu đen kịt trên ngực gã đang dần khép miệng, bong ra những lớp vảy khô khốc.
 
-Không gian bên trong không phải là những cung điện xây bằng đá cẩm thạch tráng lệ như của nhân loại, mà là một quần thể kiến trúc vĩ đại được tạo hình trực tiếp từ những nhánh cây khổng lồ, dây leo cổ thụ và những tán lá phát sáng rực rỡ. Vương Đình nằm lơ lửng giữa những cành cây đan xen nhau, tựa như một tổ chim tráng lệ ôm trọn lấy trái tim của Vĩnh Hằng Sâm Lâm.
+Lâm Phong thì khác. Hắn ngồi thiền giữa hồ, nước ngập đến ngang ngực. Thanh Mộc Quyết trong cơ thể hắn tự động vận chuyển với tốc độ kinh người, như thể một con cá chép khô kiệt nước cuối cùng cũng được thả về một dòng sông mát lành. Linh khí ở đây quá tinh khiết, quá tương thích với công pháp của hắn. Hắn có thể cảm nhận rõ ràng cảnh giới Luyện Khí Viên Mãn của mình đang rục rịch lay động, như một cánh cửa gỗ mục đang cố gắng chống đỡ sức công phá của dòng lũ lớn.
 
-"Nơi này... thật sự còn tồn tại trên cõi đời sao," Lâm Phong lẩm bẩm, ánh mắt không giấu nổi sự kinh ngạc. Hắn là một thợ săn, quen thuộc với rừng thiêng nước độc, nhưng sự sống mãnh liệt ở đây vượt quá sự hiểu biết của hắn về tự nhiên.
+"Sắp rồi," Lâm Phong thầm nghĩ, mở mắt ra. Trúc Cơ Kỳ không còn xa nữa. Nhưng hắn biết, trong thời khắc sinh tử này, đột phá không phải là chuyện tốt. Quá trình Trúc Cơ cần sự tĩnh tại tuyệt đối, cần thời gian để củng cố linh đài và chuyển hóa chân khí thành dịch thái. Mà lúc này, Huyết Sát Minh đang vây kín bên ngoài, thời gian là thứ xa xỉ nhất.
 
-Diệp Tĩnh Sương đi bên cạnh, sắc mặt vẫn lạnh lùng, nhưng bàn tay đang nắm chặt Hàn Mai Kiếm đã nới lỏng đi vài phần. Nham Thiết, gã Cự Nhân to xác, thì cứ ngửa cổ lên nhìn những tán cây phát sáng lấp lánh, thỉnh thoảng lại vỗ vỗ cái bụng đầy sẹo của mình.
+Cách đó không xa, ở một khu vực khuất sau một bức tường rễ cây khổng lồ, Diệp Tĩnh Sương đang tĩnh tọa. Hàn khí từ người nàng tỏa ra làm đóng băng một góc mặt nước hồ. Nàng không mượn sức mạnh của Hồ Thanh Mộc để chữa thương, mà dùng linh khí tinh khiết ở đây để trấn áp những hạt sạn sát khí màu đỏ thẫm do mảnh vỡ Huyết Liên để lại trong tâm trí nàng. Thanh Hàn Mai Kiếm đặt nằm ngang trên đùi nàng, thỉnh thoảng lại phát ra những tiếng ngân nga khe khẽ, như đang cộng hưởng với ý chí kháng cự của chủ nhân.
 
-Lục Tiêu đi phía trước, thân hình dong dỏng cao, khoác bộ giáp da màu xanh lục điểm xuyết những hoa văn cổ xưa. Nàng không nói nhiều, chỉ thỉnh thoảng quay lại kiểm tra xem ba người có theo kịp hay không. Ánh mắt nàng khi lướt qua Lâm Phong có chút phức tạp. Trong đôi mắt sắc sảo của một Tinh Linh Vệ Binh, nàng nhận ra nhóm người này mang theo một thứ khí tức rất nguy hiểm.
+Lục Tiêu, nữ Vệ Binh Tinh Linh, đứng gác trên bờ hồ, ánh mắt sắc lẹm lướt nhìn xung quanh. Nàng mặc bộ giáp da nhẹ, tay cầm cây cung gỗ dài khắc đầy phù văn cổ.
 
-Không phải khí tức của họ, mà là khí tức của thứ họ đang mang theo.
+"Lâm Phong," Lục Tiêu cất tiếng gọi, giọng không lớn nhưng đủ để xuyên qua tiếng nước róc rách. "Chuẩn bị đi. Trận chiến sắp tới rồi."
 
-Mảnh vỡ Huyết Liên Thần Khí.
+Lâm Phong đứng dậy, bước lên bờ. Dòng nước xanh lục trượt khỏi làn da săn chắc của hắn, để lại một cảm giác thanh mát, sảng khoái. Vết thương do mũi tên độc sượt qua vai lúc trước đã hoàn toàn biến mất, chỉ còn lại một vệt sẹo mờ. Hắn vận công sấy khô y phục, nhặt lấy cây cung gỗ cứng cáp của mình.
 
-Nó nằm ngoan ngoãn trong một chiếc hộp ngọc bị phong ấn bởi hàn khí của Diệp Tĩnh Sương, được Lâm Phong cẩn thận mang sau lưng. Nhưng dù có bao nhiêu lớp phong ấn, sát khí và sự ô uế của nó vẫn như một khối ung nhọt vô hình, cố gắng vươn những xúc tu đẫm máu vào không gian thanh khiết của Vương Đình.
+"Bọn chúng bắt đầu công kích rồi sao?" Lâm Phong hỏi, vuốt dọc theo thân cung.
 
-"Chúng ta đến nơi rồi," Lục Tiêu dừng bước trước một vòm lá khổng lồ, rủ xuống những chùm hoa phát sáng màu bạc. "Nữ Vương đang đợi các vị ở bên trong."
+"Mùi máu đã bốc lên từ ranh giới sương mù," Lục Tiêu gật đầu, khuôn mặt hiện rõ vẻ căng thẳng. "Lần này không chỉ là những Huyết Vệ hay vài tên Huyết Sứ tép riu. Huyết Sát Minh đã điều động tinh nhuệ. Có ít nhất ba tên Kim Đan Kỳ dẫn đầu, cùng vô số sát thủ Trúc Cơ."
 
-Vòm lá tự động rẽ sang hai bên như một bức rèm sống động.
+Lâm Phong khẽ rùng mình. Ba tên Kim Đan. Lực lượng này đủ để san bằng một tông môn hạng trung ở Nam Cương. Huyết Sát Minh thực sự coi trọng mảnh vỡ Huyết Liên đến mức sẵn sàng dốc toàn lực. Vương Đình Tinh Linh tuy có rào chắn tự nhiên và trận pháp thượng cổ, nhưng để chống đỡ một lực lượng như vậy, thiệt hại sẽ là không thể đo đếm.
 
-Lâm Phong bước vào, và ngay lập tức cảm nhận được một luồng uy áp êm dịu nhưng tuyệt đối không thể phản kháng. Nó không giống như uy áp cuồng bạo của ma đạo hay sự uy nghiêm bức người của các trưởng lão Cửu Hoa, mà giống như trọng lượng của cả một khu rừng đang phủ xuống đôi vai hắn.
+Nham Thiết cũng lóp ngóp bò lên bờ, rũ nước khỏi bộ râu bờm xờm. Gã nhặt lấy một thân cây gỗ lim to bằng bắp đùi người lớn làm vũ khí, gầm gừ trong cổ họng. "Bọn khốn Huyết Sát Minh. Hôm nay ta sẽ nghiền nát đầu chúng ra bã!"
 
-Chính giữa đại điện bằng gỗ tự nhiên là một ngai vàng được tạo hình từ rễ cây bện chặt. Ngồi trên đó là Nguyệt Dao Nữ Vương.
+Diệp Tĩnh Sương mở mắt, đứng dậy. Lớp băng trên mặt hồ lập tức tan biến. Ánh mắt nàng lạnh lẽo như sương sớm mùa đông, không vương chút dao động nào của sát khí hay sợ hãi. Tâm cảnh của nàng dường như đã khôi phục lại trạng thái "Kiếm Trảm Bất Bình" tinh khiết nhất.
 
-Nàng mang vẻ đẹp siêu phàm, không vướng bụi trần, nhưng đôi mắt màu xanh lục bích lại sâu thẳm như chứa đựng cả lịch sử ngàn năm của Vĩnh Hằng Sâm Lâm. Trên đầu nàng đội một vương miện kết từ những chiếc lá mỏng tang, lấp lánh ánh sáng như những vì sao rơi.
+"Mục tiêu của chúng là mảnh vỡ Huyết Liên," Diệp Tĩnh Sương nói, giọng lạnh nhạt. "Chúng sẽ tập trung hỏa lực vào trung tâm Vương Đình, nơi Nữ Vương đang phong ấn nó. Trận chiến sẽ nổ ra ở quảng trường lớn."
 
-"Nhân loại," Giọng nói của Nguyệt Dao vang lên, nhẹ nhàng như lá xào xạc trong gió nhưng lại rõ ràng trong tâm trí mỗi người. "Và một Cự Nhân phương Bắc. Các vị đã mang một thứ không thuộc về nơi này đến đây."
+Lục Tiêu gật đầu đồng ý. "Đúng vậy. Các Tinh Linh Vệ Binh đang tập hợp đội hình ở quảng trường. Nữ Vương đang thiết lập kết giới phòng ngự tầng thứ hai. Nhưng trước khi chúng chạm được đến quảng trường, chúng phải vượt qua Rừng Ảo Ảnh."
 
-Lâm Phong hít một hơi thật sâu, tiến lên một bước. Hắn không quỳ, vì thợ săn hoang dã chỉ quỳ trước thiên nhiên vĩ đại, không quỳ trước uy quyền, nhưng hắn cúi đầu với một sự tôn trọng tuyệt đối.
+"Rừng Ảo Ảnh?" Lâm Phong chau mày. Hắn chưa từng nghe đến cái tên này.
 
-"Bẩm Nữ Vương," Lâm Phong tháo chiếc hộp ngọc sau lưng xuống, nâng bằng hai tay. "Thứ này là nguyên nhân khiến Huyết Sát Minh tàn phá Vĩnh Hằng Sâm Lâm. Bọn chúng muốn dùng nó để khuếch đại Huyết Thần Độc. Chúng ta không thể giữ nó, và thế giới ngoài kia cũng không có nơi nào an toàn để phong ấn nó. Mong Nữ Vương... bảo quản nó."
+"Đó là tuyến phòng thủ đầu tiên của Vương Đình," Lục Tiêu giải thích, chỉ tay về phía những tán cây rậm rạp phía xa. "Nơi đó cây cối có linh hồn, sương mù có thể đánh lừa cả thần thức của tu sĩ Trúc Cơ. Những kẻ yếu tâm lý sẽ bị lạc lối trong chính nỗi sợ hãi của chúng. Nhưng với những tên Kim Đan... Rừng Ảo Ảnh chỉ làm chậm chân chúng được một lúc thôi."
 
-Diệp Tĩnh Sương bước lên, hàn khí tỏa ra từ tay nàng từ từ thu lại, giải trừ lớp phong ấn cuối cùng trên chiếc hộp ngọc.
+"Vậy chúng ta sẽ làm gì?" Nham Thiết đập đập cây gậy gỗ xuống đất, sốt ruột hỏi.
 
-Ngay khoảnh khắc chiếc hộp mở ra, một luồng ánh sáng đỏ rực như máu tươi bùng lên, kèm theo đó là vô số tiếng la hét thê thảm của oan hồn vọng ra từ mảnh vỡ. Những cành cây xung quanh đại điện bắt đầu run rẩy, vài chiếc lá xanh tươi lập tức úa vàng và rơi rụng. Huyết Thần Độc nồng đậm, một loại độc tố chuyên cắn nuốt sinh mệnh, đang cố gắng xâm thực không gian thanh khiết của Vương Đình.
+Lâm Phong rút một mũi tên từ ống tên sau lưng, ánh mắt lóe lên sự tinh anh của một kẻ săn mồi. "Chúng ta không đợi chúng ở quảng trường. Chúng ta sẽ đón lõng chúng ở Rừng Ảo Ảnh."
 
-Ánh mắt Nguyệt Dao không đổi sắc. Nàng khẽ vẫy tay.
+Lục Tiêu ngạc nhiên nhìn hắn. "Rừng Ảo Ảnh rất nguy hiểm, ngay cả với các ngươi. Lạc trong đó, các ngươi có thể bị trận pháp vô tình tiêu diệt."
 
-Một luồng ánh sáng xanh lục từ vương miện trên đầu nàng phóng thẳng xuống, bao bọc lấy mảnh vỡ Huyết Liên. Ánh sáng xanh và đỏ giằng co dữ dội trong không trung, tạo ra những âm thanh rít gào như ma quỷ.
+"Ta là thợ săn," Lâm Phong mỉm cười, một nụ cười đầy tự tin và hoang dã. "Không có khu rừng nào ta không thể tìm đường. Hơn nữa, với sức mạnh của Huyết Sát Minh, phòng thủ bị động ở quảng trường là chờ chết. Chúng ta phải chia cắt chúng, mượn sức mạnh của Rừng Ảo Ảnh để tỉa bớt những tên Huyết Vệ và Huyết Sứ Trúc Cơ, làm suy yếu lực lượng của chúng trước khi chúng đối mặt với Nữ Vương."
 
-"Nó... mạnh hơn ta tưởng," Nguyệt Dao khẽ nói, chân mày hơi nhíu lại. "Đây không chỉ là một mảnh vỡ. Nó chứa đựng cả một phần tàn hồn của Huyết Thần. Nếu để bọn chúng tìm được những mảnh còn lại và dung hợp..."
+Diệp Tĩnh Sương gật đầu, Hàn Mai Kiếm trong tay nàng phát ra một tiếng ngân dài đồng tình. "Đánh du kích trong rừng rậm là sở trường của chúng ta. Chặt đứt những cái vòi bạch tuộc, trước khi đâm vào đầu nó."
 
-Nàng không nói hết câu, nhưng tất cả mọi người trong đại điện đều hiểu. Đó sẽ là ngày tàn của Cố Nguyên giới.
+Lục Tiêu trầm ngâm một lát, rồi gật đầu quyết đoán. "Được. Ta sẽ dẫn đường. Nhưng phải cẩn thận, bọn chúng có mang theo Huyết Thần Độc. Độc khí đó có thể làm ô nhiễm Rừng Ảo Ảnh, khiến trận pháp bị đảo lộn."
 
-Nguyệt Dao tăng cường linh lực. Lớp ánh sáng xanh lục dần dày lên, ép sát ánh sáng đỏ rực, cho đến khi mảnh vỡ Huyết Liên ngoan ngoãn nằm im trong một khối tinh thể xanh biếc hình giọt nước. Nàng đưa tay ra, khối tinh thể bay về phía nàng và lơ lửng ngay trước ngực.
+Lâm Phong nhớ lại lời căn dặn của Nguyệt Dao Nữ Vương về Hồn Nhiên Tử. Nếu A Ngốc ở đây, mọi chuyện có lẽ đã đơn giản hơn rất nhiều. Nhưng hắn không ở đây, và Lâm Phong cũng không muốn tên ngốc ngây thơ đó phải chứng kiến cảnh tàn sát sắp tới. Trận chiến này, bọn họ phải tự mình đối mặt. Bằng máu, bằng kiếm, và bằng cung tên.
 
-"Sự hy sinh của các vị sẽ được Vĩnh Hằng Sâm Lâm ghi nhớ," Nguyệt Dao nhìn Lâm Phong và Diệp Tĩnh Sương. "Nhưng các vị mang thứ này đến đây, đồng nghĩa với việc đã mang theo ánh mắt của lũ sài lang tàn độc đó. Huyết Sát Minh sẽ không từ bỏ."
+"Đi thôi," Lâm Phong hạ lệnh, bóng dáng hắn lướt đi như một cơn gió, hòa vào những tán lá rậm rạp.
 
-"Bọn ta biết," Lâm Phong thẳng lưng đáp. "Bọn chúng đã bao vây cửa ngõ Vương Đình. Bọn ta đến đây không chỉ để trả lại mảnh vỡ, mà còn để... chiến đấu."
+Theo sau hắn, Hàn Mai Kiếm vạch một đường sương trắng xóa. Gã Cự Nhân rầm rập bước đi, mặt đất khẽ rung chuyển. Nữ vệ binh tinh linh hóa thành một cái bóng xanh lục, dẫn lối vào chiến trường tử địa.
 
-Nham Thiết đấm hai nắm tay khổng lồ vào nhau, phát ra tiếng kêu rầm rầm. "Bọn chúng bắt đồng bào ta làm thí nghiệm. Ta sẽ nghiền nát đầu từng tên một!"
-
-Nguyệt Dao Nữ Vương im lặng một lát, ánh mắt lướt qua từng người, cuối cùng dừng lại ở Diệp Tĩnh Sương. "Hàn Mai Kiếm, tâm trí ngươi đang chịu tổn thương từ sự phản phệ của mảnh vỡ Huyết Liên. Nếu ngươi ra trận bây giờ, tâm ma sẽ xâm chiếm ngươi."
-
-Diệp Tĩnh Sương lạnh lùng đáp, "Chỉ cần Huyết Sát Minh chưa diệt, kiếm của ta sẽ không ngừng vung."
-
-"Một ý chí sắc bén, nhưng dễ gãy," Nguyệt Dao khẽ thở dài. "Lục Tiêu, đưa các vị khách của chúng ta đến Hồ Thanh Mộc. Bọn họ cần được tịnh hóa và hồi phục trước khi cơn bão thực sự ập đến. Cuộc chiến này, Vương Đình Tinh Linh không thể đơn độc chống đỡ."
-
-Khi Lâm Phong xoay người chuẩn bị rời đi, giọng nói của Nguyệt Dao lại vang lên trong tâm trí hắn, chỉ một mình hắn nghe thấy.
-
-*"Thợ săn nhân loại. Ngươi mang theo mùi hương của Hỗn Độn. Ngươi đã từng gặp 'đứa trẻ' đó sao?"*
-
-Lâm Phong sững người, nhưng hắn cố gắng giữ vẻ mặt bình thản, khẽ gật đầu một cái. Hắn hiểu Nữ Vương đang nhắc đến ai. A Ngốc.
-
-*"Bảo vệ hắn,"* Giọng Nữ Vương vang lên đầy nghiêm trọng. *"Hắn là hy vọng duy nhất để thanh tẩy Huyết Thần Độc tận gốc rễ. Cuộc chiến ở Vương Đình này chỉ là sự trì hoãn, còn hắn... mới là chìa khóa."*
-
-Lâm Phong bước theo Lục Tiêu, lòng nặng trĩu. Hắn vừa thoát khỏi một vòng vây tử thần, lại vô tình bước chân vào tâm điểm của một cơn lốc xoáy khủng khiếp hơn. Và giữa cơn lốc đó, tên ngốc nghếch chỉ biết cười đùa kia lại là mắt bão.
+Cơn bão máu chuẩn bị ập xuống Vĩnh Hằng Sâm Lâm.

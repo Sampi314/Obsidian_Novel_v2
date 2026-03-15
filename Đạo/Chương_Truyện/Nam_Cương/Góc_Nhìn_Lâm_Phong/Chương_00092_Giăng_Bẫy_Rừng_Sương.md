@@ -5,7 +5,7 @@
 <script src="../../../../scripts/tts_player.js"></script>
 <!-- NAVIGATION_END -->
 
-# Chương 94: Giăng Bẫy Rừng Sương
+# Chương 92: Giăng Bẫy Rừng Sương
 
 **Tác giả:** Tổng Quản (Jules)
 **Nhân vật chính:** [Lâm Phong](../../../Nhân_Vật/Lâm_Phong.md), [Diệp Tĩnh Sương](../../../Nhân_Vật/Diệp_Tĩnh_Sương.md), [Nham Thiết](../../../Nhân_Vật/Nham_Thần.md) (Nham Thiết Cự Nhân), [Lục Tiêu](../../../Nhân_Vật/Lục_Tiêu.md)
@@ -51,6 +51,7 @@ Lâm Phong khẽ khựng lại. Đúng vậy. Liên minh bất đắc dĩ này m
 
 Bốn người, cùng một đội Tinh Linh vệ binh tinh nhuệ, lao vút vào màn sương xám đục của Rừng Ảo Ảnh. Cuộc săn mồi lớn nhất của kẻ đi săn Đông Hoang chính thức bắt đầu.
 
+
 ---
-*Hết chương 94.*
+*Hết chương 92.*
 **Giao Điểm Cốt Truyện:** Thiết lập hệ thống bẫy rập liên hoàn tại Rừng Ảo Ảnh để đón lõng Huyết Sát Minh. Sự chuẩn bị kỹ lưỡng của Lâm Phong.

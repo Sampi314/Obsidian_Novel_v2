@@ -185,4 +185,8 @@
 - [Chương 142: Mùi Sương Và Sát Khí](Chương_00142_Mùi_Sương_Và_Sát_Khí.md)
 - [Chương 143: Đốm Lửa Đen Trong Sương](Chương_00143_Đốm_Lửa_Đen_Trong_Sương.md)
 - [Chương 144: Vầng Sáng Dưới Bầu Trời Xám](Chương_00144_Vầng_Sáng_Dưới_Bầu_Trời_Xám.md)
+- [Chương 145: Dọn Sương Bẩn](Chương_00145_Dọn_Sương_Bẩn.md)
+- [Chương 146: Vòng Tròn Ấm Áp](Chương_00146_Vòng_Tròn_Ấm_Áp.md)
+- [Chương 147: Hạt Nắng Sau Bão](Chương_00147_Hạt_Nắng_Sau_Bão.md)
+- [Chương 148: Bóng Tối Ôm Lấy Ánh Sáng](Chương_00148_Bóng_Tối_Ôm_Lấy_Ánh_Sáng.md)
 *(Đang cập nhật)*
