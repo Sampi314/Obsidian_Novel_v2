@@ -10,6 +10,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Hàn Thanh Nguyệt) | Hoàn Thành | Mở rộng góc nhìn phụ. Hàn Thanh Nguyệt đột kích Vọng Hải Lầu tạo hỗn loạn cứu người, cướp được ngọc giản liên lạc của Huyết Sát Minh. Nàng bắt đầu hành trình săn lùng kẻ thù từ trong bóng tối. |
 | Hôm nay | Tổng Quản | Viết Chương 4-7 (Góc Nhìn Độc Cô Lão Quái) | Hoàn Thành | Mở rộng góc nhìn phụ. Độc Cô Lão Quái đối mặt với sự thức tỉnh của Hắc Hạt Ma Trùng, quyết định lợi dụng nó. Sau đó lão tập trung luyện Vạn Độc Huyết Ma Đan và sai Ngô Công đi bắt Lệ Vô Tâm vì phát hiện dao động thanh tẩy của A Ngốc. |
 | Hôm nay | Tổng Quản | Viết Chương 6-10 (Góc Nhìn Diệp Thanh Y) | Hoàn Thành | Mở rộng góc nhìn phụ. Diệp Thanh Y cùng Đan Dương Tử tạo ra Sinh Mệnh Nguyên Hỏa, thanh tẩy Huyết Cổ Trùng và cứu mạch đất Dược Vương Cốc. Diệp Thanh Y phá bỏ quy tắc trung lập, chính thức khởi động Liên Minh Y-Đan chủ động chiến đấu với Vạn Độc Môn. |
 | Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Đan Dương Tử) | Hoàn Thành | Mở rộng góc nhìn phụ. Đan Dương Tử đến Dược Vương Cốc cầu viện Diệp Thanh Y, gạt bỏ ân oán trăm năm để thành lập liên minh Y-Đan đối phó Huyết Thần Độc. |
@@ -22,6 +23,7 @@
 | Hôm nay | Tổng Quản | Viết Chương 133-134 (Góc Nhìn A Ngốc) | Hoàn Thành | A Ngốc và Lệ Vô Tâm đối mặt với dịch Huyết Thần Độc biến thể ở Trấn Bán Nguyệt. Tạo file scripts/relationship_data.js. |
 
 ## GHI CHÚ GẦN ĐÂY
+- **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Hàn Thanh Nguyệt). Kết thúc Arc 1 tại Ma Phong Cảng, tạo động cơ để nàng đi sâu vào Nam Cương điều tra Huyết Sát Minh.
 - **Hôm nay:** Viết Chương 4-7 (Góc Nhìn Độc Cô Lão Quái). Khắc họa tàn độc và tham vọng của lão khi đứng trước Hắc Hạt Ma Trùng và sức mạnh của Vạn Độc Huyết Ma Đan.
 - **Hôm nay:** Viết Chương 7-10 (Góc Nhìn Đan Dương Tử). Đan Dương Tử cầu viện Diệp Thanh Y, liên minh Y-Đan hình thành.
 - **Hôm nay:** Viết Chương 95-96 (Góc Nhìn Lâm Phong). Đại chiến Rừng Ảo Ảnh: Lâm Phong dụ Huyết Tôn vào bẫy mạch nước ngầm. Sức mạnh Lõi Thần Mộc đánh đuổi Huyết Tôn.
