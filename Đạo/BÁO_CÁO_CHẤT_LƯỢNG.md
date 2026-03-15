@@ -10,6 +10,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 6-10 (Góc Nhìn Lục Trần) | Hoàn Thành | Mở rộng góc nhìn phụ. Lục Trần chủ trì hội nghị, trấn áp nội bộ và phát giác sự thâm nhập của Huyết Sát Minh. Hắn tương kế tựu kế, dùng Mộc linh khí phong ấn Huyết Thần Độc và bắt quả tang trưởng lão ngoại môn Vương Hàn làm phản. |
 | Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Hàn Thanh Nguyệt) | Hoàn Thành | Mở rộng góc nhìn phụ. Hàn Thanh Nguyệt đột kích Vọng Hải Lầu tạo hỗn loạn cứu người, cướp được ngọc giản liên lạc của Huyết Sát Minh. Nàng bắt đầu hành trình săn lùng kẻ thù từ trong bóng tối. |
 | Hôm nay | Tổng Quản | Viết Chương 4-7 (Góc Nhìn Độc Cô Lão Quái) | Hoàn Thành | Mở rộng góc nhìn phụ. Độc Cô Lão Quái đối mặt với sự thức tỉnh của Hắc Hạt Ma Trùng, quyết định lợi dụng nó. Sau đó lão tập trung luyện Vạn Độc Huyết Ma Đan và sai Ngô Công đi bắt Lệ Vô Tâm vì phát hiện dao động thanh tẩy của A Ngốc. |
 | Hôm nay | Tổng Quản | Viết Chương 6-10 (Góc Nhìn Diệp Thanh Y) | Hoàn Thành | Mở rộng góc nhìn phụ. Diệp Thanh Y cùng Đan Dương Tử tạo ra Sinh Mệnh Nguyên Hỏa, thanh tẩy Huyết Cổ Trùng và cứu mạch đất Dược Vương Cốc. Diệp Thanh Y phá bỏ quy tắc trung lập, chính thức khởi động Liên Minh Y-Đan chủ động chiến đấu với Vạn Độc Môn. |
