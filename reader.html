@@ -483,7 +483,7 @@
         }
 
         // Determine if this is a chapter page
-        var isChapter = /Chương_Truyện\/.*\/Chương_\d+/.test(filePath);
+        var isChapter = /Chương_Truyện\/.*\/Chương_/.test(filePath);
 
         // Directory of the current file (for resolving relative links)
         var fileDir = filePath.substring(0, filePath.lastIndexOf('/') + 1);

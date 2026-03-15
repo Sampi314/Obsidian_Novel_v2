@@ -7,7 +7,7 @@
 
 ## PHIÊN GẦN NHẤT
 - **Ngày**: Hiện tại
-- **Công việc**: Sửa đổi và sắp xếp lại các Chương 91-92 cho Lâm Phong (trước đó đánh số sai). Viết tiếp Chương 93-94 cho Lâm Phong, khởi đầu đại chiến Rừng Ảo Ảnh với hệ thống bẫy rập và đụng độ Huyết Tôn. Viết tiếp Chương 145-148 cho A Ngốc (Arc 14). A Ngốc thi triển Nguyên Anh thanh tẩy Huyết Ma Thôn Phệ, Lệ Vô Tâm dùng tính mạng bảo vệ A Ngốc. Cập nhật scripts/chapter_data.js bằng python. Cập nhật HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md, MỤC_LỤC.md.
+- **Công việc**: Viết tiếp Chương 9-10 cho Góc Nhìn Sở Lăng Sương, hoàn thành Arc 1 bằng sự kiện hợp tác giữa cô và Lý Tuyết Ưng phá hủy Huyết Trì ở Băng Ngục Thành. Viết tiếp Chương 4-5 cho Triệu Thanh Hằng, mô tả việc nàng phát hiện dấu vết Huyết Độc và quyết định tới Băng Ngục Thành đáp lại lời triệu tập của Băng Tiên Tử. Chạy update_chapter_data.py, cập nhật HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md, MỤC_LỤC.md.
 - **Agent đã kích hoạt**: Tổng Quản, Chương Truyện.
-- **Tình trạng file**: Các file mới đã được tạo và nội dung được cập nhật đầy đủ. Giao diện frontend và MỤC LỤC đã đồng bộ.
-- **Ưu tiên phiên sau**: Viết 4 chương cuối (149-152) cho Góc Nhìn A Ngốc (Hoàn thành Redesign Task 8). Hoặc tiếp tục catch-up Góc Nhìn Lâm Phong (Chương 95+).
+- **Tình trạng file**: Các file mới đã được tạo. Giao diện frontend và MỤC LỤC đã đồng bộ.
+- **Ưu tiên phiên sau**: Tiếp tục Task 6 - Mở rộng POV cho các nhân vật phụ: Cụ thể là Đông Hoang (Lục Ly ch 7-10, Nguyệt Dao ch 7-10, Nham Thần ch 7-10) hoặc Bắc Băng (Triệu Thanh Hằng ch 6-10). Hoặc tiếp tục catch-up Góc Nhìn Lâm Phong (Chương 97+).

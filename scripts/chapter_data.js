@@ -1,4 +1,4 @@
-var chapterData = (typeof window !== "undefined" && window.chapterData) ? window.chapterData : {};
+const chapterData = (typeof window !== "undefined" && window.chapterData) ? window.chapterData : {};
 Object.assign(chapterData, {
   "Góc_Nhìn_Bắc_Băng": [
     {
@@ -100,12 +100,28 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00008_Thâm_Nhập_Băng_Ngục_Thành.md",
       "title": "Chương 8: Thâm Nhập Băng Ngục Thành"
+    },
+    {
+      "filename": "Chương_00009_Sinh_Tử_Huyết_Trì.md",
+      "title": "Chương 9: Sinh Tử Huyết Trì"
+    },
+    {
+      "filename": "Chương_00010_Sóng_Lạnh_Quét_Băng_Ngục.md",
+      "title": "Chương 10: Sóng Lạnh Quét Băng Ngục"
     }
   ],
   "Góc_Nhìn_Triệu_Thanh_Hằng": [
     {
       "filename": "Chương_00003_Ân_Oán_Phân_Minh.md",
       "title": "Chương 3: Ân Oán Phân Minh"
+    },
+    {
+      "filename": "Chương_00004_Dấu_Vết_Tuyệt_Băng.md",
+      "title": "Chương 4: Dấu Vết Tuyệt Băng"
+    },
+    {
+      "filename": "Chương_00005_Hội_Tụ_Về_Băng_Ngục.md",
+      "title": "Chương 5: Hội Tụ Về Băng Ngục"
     }
   ],
   "Góc_Nhìn_A_Ngốc": [
@@ -830,6 +846,24 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Dấu_Vết_Về_Phương_Nam.md",
       "title": "Chương 10: Dấu Vết Về Phương Nam"
+    }
+  ],
+  "Góc_Nhìn_Hắc_Hạt_Ma_Trùng": [
+    {
+      "filename": "Chương_00007_Cơn_Đói_Nguyên_Thủy.md",
+      "title": "Chương 7: Cơn Đói Nguyên Thủy"
+    },
+    {
+      "filename": "Chương_00008_Vết_Nứt_Thượng_Cổ.md",
+      "title": "Chương 8: Vết Nứt Thượng Cổ"
+    },
+    {
+      "filename": "Chương_00009_Tiếng_Gọi_Thuần_Khiết.md",
+      "title": "Chương 9: Tiếng Gọi Thuần Khiết"
+    },
+    {
+      "filename": "Chương_00010_Trùng_Triều_Trỗi_Dậy.md",
+      "title": "Chương 10: Trùng Triều Trỗi Dậy"
     }
   ],
   "Góc_Nhìn_Lâm_Phong": [
@@ -1858,60 +1892,6 @@ Object.assign(chapterData, {
       "title": "Chương 10: Con Rắn Trong Tổ"
     }
   ],
-  "Góc_Nhìn_Ngô_Công_Trưởng_Lão": [
-    {
-      "filename": "Chương_00007_Nỗi_Nhục_Kẻ_Bại_Trận.md",
-      "title": "Chương 7: Nỗi Nhục Kẻ Bại Trận"
-    },
-    {
-      "filename": "Chương_00008_Mệnh_Lệnh_Từ_Bóng_Tối.md",
-      "title": "Chương 8: Mệnh Lệnh Từ Bóng Tối"
-    },
-    {
-      "filename": "Chương_00009_Lũ_Trùng_Khát_Máu.md",
-      "title": "Chương 9: Lũ Trùng Khát Máu"
-    },
-    {
-      "filename": "Chương_00010_Đánh_Hơi_Thấy_Con_Mồi.md",
-      "title": "Chương 10: Đánh Hơi Thấy Con Mồi"
-    }
-  ],
-  "Góc_Nhìn_Phương_Vô_Kỵ": [
-    {
-      "filename": "Chương_00007_Kẻ_Lưu_Lạc_Cười_Đời.md",
-      "title": "Chương 7: Kẻ Lưu Lạc Cười Đời"
-    },
-    {
-      "filename": "Chương_00008_Bí_Mật_Trên_Phiến_Đá.md",
-      "title": "Chương 8: Bí Mật Trên Phiến Đá"
-    },
-    {
-      "filename": "Chương_00009_Chìa_Khóa_Của_Trận_Pháp.md",
-      "title": "Chương 9: Chìa Khóa Của Trận Pháp"
-    },
-    {
-      "filename": "Chương_00010_Trò_Chơi_Của_Vô_Diện.md",
-      "title": "Chương 10: Trò Chơi Của Vô Diện"
-    }
-  ],
-  "Góc_Nhìn_Hắc_Hạt_Ma_Trùng": [
-    {
-      "filename": "Chương_00007_Cơn_Đói_Nguyên_Thủy.md",
-      "title": "Chương 7: Cơn Đói Nguyên Thủy"
-    },
-    {
-      "filename": "Chương_00008_Vết_Nứt_Thượng_Cổ.md",
-      "title": "Chương 8: Vết Nứt Thượng Cổ"
-    },
-    {
-      "filename": "Chương_00009_Tiếng_Gọi_Thuần_Khiết.md",
-      "title": "Chương 9: Tiếng Gọi Thuần Khiết"
-    },
-    {
-      "filename": "Chương_00010_Trùng_Triều_Trỗi_Dậy.md",
-      "title": "Chương 10: Trùng Triều Trỗi Dậy"
-    }
-  ],
   "Góc_Nhìn_Nam_Cương": [
     {
       "filename": "Chương_00001_Dấu_Hiệu_Tai_Ương.md",
@@ -2462,6 +2442,42 @@ Object.assign(chapterData, {
       "title": "Chương 138: Hội Nghị Thượng Đỉnh"
     }
   ],
+  "Góc_Nhìn_Ngô_Công_Trưởng_Lão": [
+    {
+      "filename": "Chương_00007_Nỗi_Nhục_Kẻ_Bại_Trận.md",
+      "title": "Chương 7: Nỗi Nhục Kẻ Bại Trận"
+    },
+    {
+      "filename": "Chương_00008_Mệnh_Lệnh_Từ_Bóng_Tối.md",
+      "title": "Chương 8: Mệnh Lệnh Từ Bóng Tối"
+    },
+    {
+      "filename": "Chương_00009_Lũ_Trùng_Khát_Máu.md",
+      "title": "Chương 9: Lũ Trùng Khát Máu"
+    },
+    {
+      "filename": "Chương_00010_Đánh_Hơi_Thấy_Con_Mồi.md",
+      "title": "Chương 10: Đánh Hơi Thấy Con Mồi"
+    }
+  ],
+  "Góc_Nhìn_Phương_Vô_Kỵ": [
+    {
+      "filename": "Chương_00007_Kẻ_Lưu_Lạc_Cười_Đời.md",
+      "title": "Chương 7: Kẻ Lưu Lạc Cười Đời"
+    },
+    {
+      "filename": "Chương_00008_Bí_Mật_Trên_Phiến_Đá.md",
+      "title": "Chương 8: Bí Mật Trên Phiến Đá"
+    },
+    {
+      "filename": "Chương_00009_Chìa_Khóa_Của_Trận_Pháp.md",
+      "title": "Chương 9: Chìa Khóa Của Trận Pháp"
+    },
+    {
+      "filename": "Chương_00010_Trò_Chơi_Của_Vô_Diện.md",
+      "title": "Chương 10: Trò Chơi Của Vô Diện"
+    }
+  ],
   "Góc_Nhìn_Đan_Dương_Tử": [
     {
       "filename": "Chương_00003_Ký_Ức_Cánh_Tay_Đã_Mất.md",
@@ -2722,7 +2738,6 @@ Object.assign(chapterData, {
 
 if (typeof window !== 'undefined') {
   window.chapterData = chapterData;
-}
-if (typeof module !== "undefined") {
-  module.exports = chapterData;
+} else if (typeof module !== 'undefined' && module.exports) {
+  module.exports = { chapterData };
 }
