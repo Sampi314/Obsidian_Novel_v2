@@ -8,6 +8,8 @@
     'use strict';
 
     // ── Configuration ──
+    var EDGE_TTS_API = 'https://tts.travisvn.com/api/tts';
+    var EDGE_FALLBACK_VOICE = 'vi-VN-HoaiMyNeural';
     var DEFAULT_VIENEU_URL = 'http://127.0.0.1:8001';
 
     // VieNeu-TTS voices
@@ -729,6 +731,37 @@
         });
     }
 
+    // Edge TTS: silent fallback via public API (no install needed)
+    function edgeTTSSpeak(text) {
+        return new Promise(function(resolve, reject) {
+            var url = EDGE_TTS_API + '?' +
+                'text=' + encodeURIComponent(text) +
+                '&voice=' + encodeURIComponent(EDGE_FALLBACK_VOICE) +
+                '&rate=' + encodeURIComponent(((state.speed - 1) * 100).toFixed(0) + '%');
+
+            var audio = new Audio();
+            audio.crossOrigin = 'anonymous';
+
+            var timeout = setTimeout(function() {
+                audio.removeAttribute('src');
+                reject(new Error('Edge TTS timeout'));
+            }, 8000);
+
+            audio.addEventListener('canplaythrough', function() {
+                clearTimeout(timeout);
+                resolve(audio);
+            }, { once: true });
+
+            audio.addEventListener('error', function() {
+                clearTimeout(timeout);
+                reject(new Error('Edge TTS failed'));
+            }, { once: true });
+
+            audio.src = url;
+            audio.load();
+        });
+    }
+
     function readCurrentChunk() {
         if (!state.playing || state.paused) return;
         if (state.currentIndex >= state.elements.length) {
@@ -747,15 +780,30 @@
         highlightElement(el);
         updateUI();
 
-        vieneuTTSSpeak(text).then(function(audio) {
-            state.vieneuAvailable = true;
+        // Try VieNeu-TTS first, fall back to Edge TTS silently
+        if (state.vieneuAvailable !== false) {
+            vieneuTTSSpeak(text).then(function(audio) {
+                state.vieneuAvailable = true;
+                state.audioEl = audio;
+                audio.addEventListener('ended', onChunkEnd);
+                audio.play();
+            }).catch(function() {
+                state.vieneuAvailable = false;
+                // Silent fallback to Edge TTS
+                edgeFallback(text);
+            });
+        } else {
+            edgeFallback(text);
+        }
+    }
+
+    function edgeFallback(text) {
+        edgeTTSSpeak(text).then(function(audio) {
             state.audioEl = audio;
             audio.addEventListener('ended', onChunkEnd);
             audio.play();
         }).catch(function(err) {
-            console.error('VieNeu-TTS error:', err.message);
-            state.vieneuAvailable = false;
-            // Skip chunk on error rather than silently stall
+            console.error('Edge TTS error:', err.message);
             onChunkEnd();
         });
     }
