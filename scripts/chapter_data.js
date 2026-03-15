@@ -1140,6 +1140,14 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00094_Đối_Đầu_Huyết_Tôn.md",
       "title": "Chương 94: Đối Đầu Huyết Tôn"
+    },
+    {
+      "filename": "Chương_00095_Phản_Kích_Từ_Lòng_Đất.md",
+      "title": "Chương 95: Phản Kích Từ Lòng Đất"
+    },
+    {
+      "filename": "Chương_00096_Sức_Mạnh_Thần_Mộc.md",
+      "title": "Chương 96: Sức Mạnh Thần Mộc"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

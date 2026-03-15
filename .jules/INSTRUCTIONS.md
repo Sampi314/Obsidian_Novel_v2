@@ -14,7 +14,7 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 94 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 96 | Arc Đông Hoang — Bước Chân Rừng Hoang | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
 | Góc Nhìn A Ngốc | 152 | Arc 14 — Hồn Nhiên Tử | Hoàn thành mạch truyện chính 152 chương |
 | Góc Nhìn Đan Dương Tử | — | — | Đang mở rộng |
@@ -66,17 +66,17 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 95, 96... cho Góc Nhìn Lâm Phong. Tiếp tục trận chiến thực sự với Huyết Sát Minh tại Rừng Ảo Ảnh (Đánh với Huyết Tôn Kim Đan).
-2. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ để đồng bộ dòng thời gian chung.
-3. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc.
+1. **Viết POV nhân vật phụ (Task 6)**: Mở rộng chương 7-10 cho các nhân vật phụ (Đan Dương Tử, Diệp Thanh Y...) để đồng bộ dòng thời gian chung.
+2. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc.
+3. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 97, 98... cho Góc Nhìn Lâm Phong nếu cần thiết để theo kịp mạch truyện chính (sau trận chiến Rừng Ảo Ảnh).
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
 
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 95, 96... cho Góc Nhìn Lâm Phong.
-- Thực hiện trận quyết chiến giữa Lâm Phong, Diệp Tĩnh Sương, Nham Thiết với tên Huyết Tôn Kim Đan tại Rừng Ảo Ảnh (Illusionary Forest). Lâm Phong chuẩn bị dùng mạch nước ngầm để phản kích.
+- Tiếp tục viết chương 97, 98... cho Góc Nhìn Lâm Phong.
+- Đội ngũ đã chiến thắng đợt đầu ở Rừng Ảo Ảnh, chuẩn bị cho những diễn biến tiếp theo.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
@@ -132,7 +132,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
-> Đã hoàn thành 4 chương cuối (149-152) cho Góc Nhìn A Ngốc, khép lại Arc 14. A Ngốc và Lệ Vô Tâm cùng nhau bước đi vào Trung Tâm. Sự đồng hành kỳ diệu của Ác Ma và Hồn Nhiên Tử đã được thiết lập.
+> Đã hoàn thành Chương 95-96 cho Góc Nhìn Lâm Phong. Trận chiến Rừng Ảo Ảnh tiếp diễn căng thẳng. Lâm Phong dụ Huyết Tôn vào bẫy, Nham Thiết kích nổ mạch nước ngầm, Diệp Tĩnh Sương chém đứt phòng ngự. Cuối cùng, Lõi Thần Mộc giáng lâm, đánh lui Huyết Tôn.
 
 ---
 
