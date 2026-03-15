@@ -1,74 +1,122 @@
 ---
 type: faction
-name: HÀN ĐỘC VI TRÙNG ĐOÀN
+name: Hàn Độc Vi Trùng Đoàn
 hantu: 寒毒微虫团
-faction_type: ''
-alignment: 0
-race: ''
+faction_type: Đoàn
+alignment: 2
+race: Vi Tộc (Trùng băng độc)
 region: Bắc Băng
-founded: ''
-founder: ''
-emblem: ''
-specialty: ''
-economy: []
+founded: Thái Cổ Kỷ Nguyên
+founder: Vi Trùng Nguyên Thủy
+emblem: Vi_Trùng_Trong_Suốt_Va_Hàn_Độc.png
+specialty: Phân giải Hàn Độc, Chuyển hóa linh lực thủy hệ, Tịnh hóa môi trường băng giá
+economy:
+- Tịnh hóa hàn độc cho hệ sinh thái (Thụ động)
+- Cung cấp Hàn Độc Linh Dịch cho đan đạo và luyện khí
+- Hợp tác với Tuyết Liên Dược Phường
 arcs:
-- arc: 1
-  status: Chưa Xác Định
-  rank: ''
-  leader: ''
-  population: 0
-  territory: []
-  assets: []
-  stats:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  divisions: []
-  relationships: []
+  - arc: 1
+    status: Bận rộn do hàn độc gia tăng
+    rank: Hạng Năm
+    leader: Vi Thanh
+    population: 5000
+    territory:
+      - Các vùng tundra bị nhiễm hàn độc (Bắc Băng)
+    assets:
+      - name: Quần Thể Vi Trùng
+        type: Tài Nguyên
+      - name: Trận pháp "Hàn Độc Thôn Phệ"
+        type: Trận Pháp
+      - name: Hạch Tâm Vi Trùng
+        type: Pháp Bảo
+    stats: [100, 300, 200, 5000, 400, 350]
+    divisions:
+      - name: Quần Thể Phân Giải
+        role: Hấp thụ và chuyển hóa các loại hàn độc tàn dư
+        headcount:
+          hoi_truong: 1
+          pho_hoi_truong: 0
+          thanh_vien: 5000
+          tong_quan: 0
+        members:
+          - character: Vi Thanh
+            position: Đoàn Trưởng
+            cultivation: Trúc Cơ Sơ Kỳ (Tương đương)
+          - character: "[Vi Trùng Trưởng]"
+            position: Thành Viên
+            cultivation: Luyện Khí Đỉnh Phong
+            placeholder: true
+    relationships:
+      - faction: Tuyết Liên Dược Phường
+        description: Đối tác duy nhất biết cách giao tiếp và sử dụng dịch vụ tịnh hóa.
+        diplomacy:
+          lien_minh: 50
+          tin: 80
+          uy_hiep: 0
+          thuong_mai: 60
+          on_oan: 0
+          le_thuoc: 0
+      - faction: Sương Ma Uyển
+        description: Cảnh giác, lo sợ bị bắt làm nguyên liệu luyện chế Băng Thi.
+        diplomacy:
+          lien_minh: -20
+          tin: -40
+          uy_hiep: 60
+          thuong_mai: 0
+          on_oan: -50
+          le_thuoc: 0
 ---
 
 # HÀN ĐỘC VI TRÙNG ĐOÀN (寒毒微虫团)
 
-## I. TỔNG QUAN
-- **Tên:** Hàn Độc Vi Trùng Đoàn
-- **Loại Hình:** Đoàn
-- **Cấp Bậc:** Không xếp hạng
-- **Trụ Sở:** Tundra mở, di chuyển theo vùng có hàn độc cần phân giải
-- **Người Đứng Đầu:** Đoàn Trưởng Vi Thanh (tương đương Trúc Cơ, Vi Tộc trùng)
+## I. Tổng Quan (总览)
+Hàn Độc Vi Trùng Đoàn là một chủng tộc Vi Tộc chuyên biệt hóa cao, đóng vai trò là "hệ thống miễn dịch" của vùng biển và bình nguyên Bắc Băng. Tồn tại dưới dạng hàng ngàn cá thể trùng nhỏ li ti có khả năng hấp thụ và phân giải các loại hàn độc tàn dư từ thời chiến trường thượng cổ, đoàn đóng vai trò âm thầm nhưng cực kỳ quan trọng trong việc duy trì sự sống cho các chủng tộc khác. Dù mang trong mình độc tố, bản tính của chúng là tịnh hóa thay vì tàn phá.
 
-## II. ĐỊA LÝ & TÀI NGUYÊN
-- **Vị Trí:** Tundra mở Bắc Băng, thường xuất hiện ở nơi có hàn độc tập trung
-- **Đặc Điểm Địa Hình:** Vùng băng bị nhiễm hàn độc — đất biến sắc đen, sinh vật chết hàng loạt
-- **Tài Nguyên:** Hàn độc phân giải được chuyển hóa thành dưỡng chất cho Vi Trùng
+## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
+Hoạt động tại bất kỳ khu vực nào bị nhiễm hàn độc nặng nề trên vùng tundra hoặc các khe nứt sông băng. Tài nguyên chính của đoàn là "Hàn Độc Linh Dịch" - sản phẩm phụ của quá trình phân giải độc tố, có giá trị cực cao trong việc luyện chế các loại thuốc giải cấp cao. Họ nắm giữ khả năng phát hiện các nguồn ô nhiễm linh lực từ khoảng cách hàng trăm dặm.
 
-## III. VĂN HÓA & TÍN NGƯỠNG
-- **Triết Lý:** "Ăn độc trả lành" — phân giải hàn độc là bản năng và cũng là sứ mệnh
-- **Quy Tắc:** Không ăn chất không phải hàn độc — tránh gây hại cho sinh vật khác
-- **Phong Tục:** Khi phát hiện vùng hàn độc mới, cả Đoàn kéo đến "đại tiệc" — vừa ăn vừa thanh lọc
+## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
+Đề cao triết lý: "Ăn độc trả lành". Mỗi cá thể vi trùng coi việc phân giải độc tố là sứ mệnh duy nhất của đời mình. Họ không có văn hóa xã hội phức tạp, giao tiếp thông qua sự thay đổi màu sắc của cơ thể trong suốt. Tín ngưỡng duy nhất là sự sùng bái đối với "Vi Trùng Nguyên Thủy" - thực thể được cho là khởi nguồn của giống loài.
 
-## IV. CƠ CẤU TỔ CHỨC
-- **Đoàn Trưởng:** Vi Thanh — cá thể Vi Trùng lớn nhất, có ý thức phát triển, biết giao tiếp đơn giản với chủng tộc khác
-- **Quần Thể:** Vài ngàn cá thể, chia thành nhóm nhỏ phân tán trên tundra
-- **Vi Trùng Đặc Biệt:** Vài cá thể có thể phát hiện hàn độc từ khoảng cách xa
+## IV. Cơ Cấu Tổ Chức (组织结构)
+```mermaid
+graph TD
+    VTNT[Vi Trùng Nguyên Thủy - Thủy Tổ] --> VT[Đoàn Trưởng: Vi Thanh]
+    VT --> HDVT[Hội Đồng Vi Trùng Có Linh Trí]
+    HDVT --> QTPG[Quần Thể Phân Giải]
+    HDVT --> NTĐ[Nhóm Thám Độc]
+    HDVT --> NBV[Nhóm Bảo Vệ Quần Thể]
+    QTPG --> VTCT[Vi Trùng Cá Thể]
+    NTĐ --> VTCT
+    NBV --> VTCT
+```
 
-## V. CÔNG PHÁP & TRẬN PHÁP
-- Không tu luyện — bản năng chủng tộc là phân giải hàn độc, chuyển hóa thành Hàn linh lực
-- Khi bị đe dọa, cả Đoàn tập hợp phóng thích hàn độc đã hấp thu — biến vùng xung quanh thành tử địa
+## V. Công Pháp & Trận Pháp (功法 với阵法)
+- **Công Pháp:** Không có công pháp tu luyện nhân tạo, tiến hóa thông qua *Hàn Độc Thôn Phệ Thuật* - bản năng chuyển hóa độc tố thành linh lực thủy hệ tinh khiết.
+- **Trận Pháp:** *Hàn Độc Tử Địa Trận* - khi toàn đoàn tập hợp và cùng lúc giải phóng lượng độc tố đã tích lũy, họ có thể tạo ra một vùng không gian cực độc có khả năng ăn mòn cả thần thức và nhục thân của những kẻ tấn công.
 
-## VI. LỊCH SỬ TÓM TẮT
-Hàn Độc Vi Trùng là dạng sống Vi Tộc chuyên hóa — chúng chỉ tồn tại ở nơi có hàn độc. Bắc Băng là thiên đường của chúng vì chiến trường thượng cổ để lại nhiều vùng hàn độc tàn dư. Nhiều làng phàm nhân và tu sĩ yếu từng được cứu khi Vi Trùng Đoàn đi qua và thanh lọc vùng đất nhiễm độc gần đó. Tuyết Liên Dược Phường là thế lực duy nhất biết cách "mời" Vi Trùng đến giúp.
+## VI. Đặc Sản Môn Phái (门派特产)
+- **Hàn Độc Tinh Hoa:** Linh dịch cô đặc dùng để chế tác các loại ám khí độc hệ cực mạnh hoặc làm chất xúc tác cho luyện đan.
+- **Vi Trùng Phấn:** Bào tử của vi trùng có tác dụng tịnh hóa các vùng đất bị nhiễm ma khí nhẹ.
 
-Gần đây, vùng hàn độc trên tundra tăng lên bất thường — Vi Trùng Đoàn bận rộn hơn bao giờ hết, nhưng cũng lo lắng vì loại độc mới ngày càng nhiều.
+## VII. Cơ Sở Hạ Tầng (基础设施)
+- **Kén Trú Đông:** Các cấu trúc sinh học tạm thời dùng để bảo vệ quần thể trong những đợt bão tuyết quá mức.
+- **Bể Chứa Độc:** Các hốc đá tự nhiên được yểm bùa để lưu trữ lượng độc tố chưa kịp phân giải.
 
-## VII. GIAI THOẠI & BÍ MẬT
-- Vi Thanh gần đây phát hiện một loại hàn độc mới mà Đoàn không phân giải được — loại độc này mang ma khí, có thể liên quan đến phong ấn suy yếu dưới Huyền Băng Cung
-- Một số tu sĩ tà đạo đang lén bắt Vi Trùng để luyện Hàn Độc Đan — Vi Thanh cảnh giác nhưng không đủ sức chống trả
-- Vi Thanh đang cố gắng tiến hóa để phân giải được loại ma độc mới — nếu thành công, Đoàn sẽ trở thành tài sản vô giá cho Huyền Băng Cung
+## VIII. Kinh Tế (経済)
+Kinh tế mang tính cộng sinh thụ động. Giá trị họ mang lại là sự thanh lọc môi trường cho toàn vùng Bắc Băng. Tuy nhiên, họ có mối quan hệ thương mại đặc biệt với Tuyết Liên Dược Phường, trao đổi linh dịch lấy các loại khoáng chất cần thiết cho sự tiến hóa của quần thể.
 
-## VIII. QUAN HỆ
-- **Hợp tác:** Tuyết Liên Dược Phường (duy nhất biết cách giao tiếp với Vi Trùng)
-- **Bị săn lùng:** Tu sĩ tà đạo (muốn bắt Vi Trùng luyện đan)
-- **Vai trò sinh thái:** Thanh lọc hàn độc cho toàn Bắc Băng (không ai trả công)
+## IX. Lịch Sử Tóm Tắt (简史)
+Xuất hiện từ kỷ nguyên Thái Cổ, Hàn Độc Vi Trùng đã cứu giúp hàng vạn làng phàm nhân và tu sĩ yếu khỏi cái chết do nhiễm độc từ các di tích cổ bị rò rỉ. Vi Thanh là cá thể hiếm hoi phát triển được ý thức cao và đã đứng ra tổ chức bầy trùng thành một "Đoàn" có hệ thống để bảo vệ giống loài trước sự săn lùng của tu sĩ tà đạo.
+
+## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
+Tương truyền Vi Thanh đang cố gắng tiến hóa để có thể phân giải được cả "Ma Độc" - loại độc tố mang theo ý chí của ma tộc, một kỳ tích có thể thay đổi hoàn toàn cuộc chiến chống lại sự suy yếu của phong ấn Bắc Băng.
+
+## XI. Quan Hệ Thế Lực (势力关系)
+```mermaid
+graph LR
+    HĐVTD[Hàn Độc Vi Trùng Đoàn] -- Hợp tác -- TLDV[Tuyết Liên Dược Phường]
+    HĐVTD -- Bị săn lùng -- MT Tà Đạo[Tu Sĩ Tà Đạo]
+    HĐVTD -- Thanh lọc -- ALL[Hệ sinh thái Bắc Băng]
+    HĐVTD -- Tránh né -- SMU[Sương Ma Uyển]
+```
