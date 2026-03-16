@@ -143,11 +143,65 @@ const relationshipData = {
       "role": "supporting",
       "pov": false,
       "avatar_color": "#333333"
+    },
+    {
+      "id": "trung_bach",
+      "name": "Trùng Bạch",
+      "title": "Phường Chủ",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Ngọc Trai Sâu Phường",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ffffff"
+    },
+    {
+      "id": "trung_ngoc_chau",
+      "name": "Trùng Ngọc Châu",
+      "title": "Thợ Chế Tác",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Ngọc Trai Sâu Phường",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ffffff"
+    },
+    {
+      "id": "trung_tieu_trai",
+      "name": "Trùng Tiểu Trai",
+      "title": "Nuôi Trồng Viên",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Ngọc Trai Sâu Phường",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ffffff"
     }
   ],
 
   // Danh sách quan hệ (edges)
   "relationships": [
+    {
+      "from": "trung_bach",
+      "to": "trung_ngoc_chau",
+      "type": "đồng_minh",
+      "subtype": "bảo_vệ",
+      "desc": "Coi như con gái"
+    },
+    {
+      "from": "trung_bach",
+      "to": "trung_tieu_trai",
+      "type": "đồng_minh",
+      "subtype": "sư_đồ",
+      "desc": "Dạy bài ca buồn"
+    },
+    {
+      "from": "trung_ngoc_chau",
+      "to": "trung_tieu_trai",
+      "type": "đồng_minh",
+      "subtype": "chăm_sóc",
+      "desc": "Kể chuyện biển cả"
+    },
     {
       "from": "a_ngoc",
       "to": "le_vo_tam",

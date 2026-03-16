@@ -32,3 +32,5 @@
 - **Hôm nay:** Viết Chương 109-112 (Góc Nhìn Lâm Phong). Nhóm liên minh đến Trạm Dừng Chân Số 7, Lâm Phong và Tĩnh Sương điều tra mạng lưới phân phối Huyết Thần Độc và đụng độ tổ chức sát thủ "Ám Cốc" của Huyết Sát Minh. Lệ Vô Tâm dùng Băng Ma Khí can thiệp.
 - **Hôm nay:** Viết Chương 6-10 (Góc Nhìn Ngao Đình) và Chương 7-10 (Góc Nhìn Lệ Nhược Thủy) cho khu vực Vô Tận Hải. Cả hai rời biển lên bờ, đụng độ nhau và thiết lập một liên minh bất đắc dĩ để phong ấn trận pháp Huyết Độc.
 - **Hôm nay:** Viết Chương 7-10 cho Nham Thần và Lục Tiêu (Đông Hoang). Lục Tiêu ra khỏi Vĩnh Hằng Sâm Lâm, dùng âm nhạc tịnh hóa Huyết Độc.
+
+- [2026-03-16] Hoàn thành điền chi tiết 3 nhân vật cho thế lực Ngọc Trai Sâu Phường (Đông Hoang).
