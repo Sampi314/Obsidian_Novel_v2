@@ -152,3 +152,7 @@
 - [Chương 118: Lưu Sa Huyễn Cảnh](Chương_00118_Lưu_Sa_Huyễn_Cảnh.md)
 - [Chương 119: Quái Thú Sa Mạc](Chương_00119_Quái_Thú_Sa_Mạc.md)
 - [Chương 120: Lối Cổng Cổ Đại](Chương_00120_Lối_Cổng_Cổ_Đại.md)
+- [Chương 121: Sảnh Đường Tịch Mịch](Chương_00121_Sảnh_Đường_Tịch_Mịch.md)
+- [Chương 122: Cổ Thành Hóa Đá](Chương_00122_Cổ_Thành_Hóa_Đá.md)
+- [Chương 123: Bí Mật Huyết Hỏa](Chương_00123_Bí_Mật_Huyết_Hỏa.md)
+- [Chương 124: Trận Chiến Cửa Ải](Chương_00124_Trận_Chiến_Cửa_Ải.md)
