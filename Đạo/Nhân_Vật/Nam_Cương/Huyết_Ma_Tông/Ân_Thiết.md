@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Nội Môn Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thanh niên hai mươi tuổi, thể hình trung bình, gương mặt hiền lành trông không giống đệ tử tà phái. Da hơi xanh xao do thường xuyên ở trong Huyết Nô Viện, đôi mắt mệt mỏi nhưng kiên định. Tính cách trầm lặng, chăm chỉ, làm việc không kêu ca, là loại người mà ai cũng dễ bỏ qua.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện Huyết Khí Cơ Bản Công, nắm vững các kỹ thuật quản lý và kiểm soát huyết nô cấp thấp. Biết sử dụng roi huyết — vũ khí tẩm huyết khí có thể gây đau đớn mà không để lại thương tích. Chiến lực cá nhân không nổi bật nhưng am hiểu điểm yếu của huyết nô hơn bất kỳ ai.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Trương Phách]]** — Huyết Nô Viện Chủ, thượng cấp trực tiếp, người giao việc hàng ngày.
+- **[[Hà Linh]]** — Đồng môn, người mà Ân Thiết thầm cảm phục vì trí tuệ và sự nhân hậu hiếm có trong tông.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ân Thiết là trẻ mồ côi được Huyết Ma Tông thu nhận từ nhỏ, lớn lên trong Huyết Nô Viện nên quen với cảnh máu me. Vì thiên phú tu luyện không cao nên bị phân công làm phụ tá quản lý thay vì chiến đấu tiền tuyến. Tuy vị trí thấp nhưng nhờ sự chăm chỉ và đáng tin cậy mà được Trương Phách trọng dụng.

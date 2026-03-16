@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Khai Khoáng Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Đàn ông trẻ tuổi, thân hình vạm vỡ thấp đậm, bàn tay to như quạt, cơ bắp cánh tay phát triển vượt mức bình thường do đào đá nhiều năm. Da nâu đất, mặt vuông, nụ cười chất phác hiền lành. Tính cách thật thà, chịu khó, ít tham vọng, chỉ thích đào đất và tìm đá quý.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện Toái Thạch Chưởng — tay trần có thể đập vỡ đá cứng, khai thác khoáng vật mà không cần công cụ. Tinh thông phân biệt các loại quặng và khoáng vật bằng cách ngửi, nếm, và cảm nhận rung động. Trong chiến đấu, Toái Thạch Chưởng biến bàn tay thành vũ khí tàn phá, mỗi quyền đánh vỡ giáp phòng hộ.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Thạch Vạn Lý]]** — Đội Trưởng, người hướng dẫn phương hướng khai thác.
+- **[[Châu Hàn Dạ]]** — Đồng đội, người tìm đường dẫn đến mỏ quặng mới.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Thạch Nham là con trai thợ mỏ, thừa hưởng sức mạnh và kỹ năng đào khoáng từ cha. Gia nhập Địa Mạch Thám Hiểm Đội sau khi mỏ nhà bị sập, cần nơi mới để mưu sinh. Nhờ khả năng phân biệt khoáng vật thiên bẩm mà nhanh chóng trở thành Khai Khoáng Sư chính. Đã phát hiện ba mỏ linh thạch nhỏ cho đội, đóng góp lớn vào nguồn thu.

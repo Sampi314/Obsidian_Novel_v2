@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Đệ Tam Huyết Tướng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thân hình mảnh khảnh, di chuyển không một tiếng động, như bóng ma lướt trên mặt đất. Gương mặt xanh xao, đôi mắt đen thẳm không cảm xúc, thường ẩn mình trong bóng tối. Tính cách lặng lẽ, ít giao tiếp, chỉ xuất hiện khi được Tông Chủ triệu tập hoặc khi có mục tiêu cần giải quyết.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên tu Huyết Ảnh Thuật — hòa nhập bản thân vào bóng tối, trở thành vô hình hoàn toàn. Sử dụng đoản đao tẩm huyết độc, chỉ cần một vết cắt nhỏ cũng đủ khiến nạn nhân mất hết sức chiến đấu. Là sát thủ số một của Huyết Ma Tông, chuyên thực hiện các nhiệm vụ ám sát và do thám.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Huyết Tôn]]** — Tông Chủ, người duy nhất mà Lý Ám tuyệt đối phục tùng.
+- **[[Tôn Hàn Thiết]]** — Đệ Tứ Huyết Tướng, đồng liêu mà Lý Ám thỉnh thoảng phối hợp trong nhiệm vụ.
+- **[[Hà Minh Phong]]** — Đệ Nhị Huyết Tướng, người thường xuyên giao nhiệm vụ tình báo cho Lý Ám.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Ám là trẻ mồ côi lớn lên trong khu ổ chuột của một thành trấn biên giới Nam Cương, sống bằng nghề trộm cắp từ nhỏ. Bị Huyết Tôn phát hiện thiên phú ẩn thân phi thường và thu nạp vào tông. Qua nhiều năm huấn luyện khắc nghiệt, trở thành Đệ Tam Huyết Tướng chuyên trách ám sát và trinh sát. Đã thực hiện hàng chục nhiệm vụ mà không ai phát hiện tung tích.

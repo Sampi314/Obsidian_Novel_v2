@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Phó Trại Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thấp hơn anh trai một cái đầu nhưng bề ngang vạm vỡ hơn, cơ bắp cuồn cuộn, da đen bóng. Gương mặt hung tợn, mũi gãy do đánh nhau nhiều, nhưng nụ cười lại hiền lành bất ngờ. Tính cách thô lỗ, hay nói bậy nhưng rất chiều anh em trong trại, luôn là người đầu tiên chia cơm nhường áo.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Sử dụng đại chùy (búa lớn) nặng hơn trăm cân, dựa vào sức mạnh thể chất thuần túy hơn là linh lực. Chuyên đánh phá vỡ phòng tuyến, là lực lượng xung kích chính khi phục kích thất bại phải đối đầu trực diện. Có biệt danh "Hắc Gấu" vì chiến đấu hung hãn như gấu hoang.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Đỗ Môn]]** — Anh trai ruột kiêm Trại Chủ, người mà Đỗ Hải sẵn sàng chết thay.
+- **[[Đỗ Hùng]]** — Cháu trai, con của anh, Đỗ Hải rất cưng chiều.
+- **[[Vương Thiết Nha]]** — Hắc Đao Trưởng Lão, chiến hữu thường xuyên uống rượu cùng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Đỗ Hải theo anh trai vào rừng lập trại từ khi còn niên thiếu, là người đầu tiên ủng hộ quyết định trở thành thổ phỉ. Tuy không giỏi mưu kế nhưng sức mạnh và lòng trung thành khiến hắn trở thành Phó Trại Chủ xứng đáng. Trong trại, hắn phụ trách huấn luyện tân binh và quản lý hậu cần, đảm bảo anh em luôn có đủ lương thực.

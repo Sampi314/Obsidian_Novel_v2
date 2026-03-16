@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Nội Môn Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thiếu niên mười bảy tuổi, thân hình mảnh, di chuyển nhẹ nhàng giống cha. Gương mặt trẻ trung, mắt sáng, luôn tò mò quan sát mọi thứ xung quanh. Tính cách trầm tĩnh hơn tuổi, ít nói, nhưng khi cần thì quyết đoán — bản sao thu nhỏ của Lưu Ám Ảnh.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đang học thuật ẩn thân và trinh sát từ cha, đã có thể nằm im trên vách đá vài canh giờ. Sử dụng đoản kiếm nhẹ và ám khí, chuyên tấn công nhanh rồi rút lui. Có thiên phú đặc biệt trong việc bắt chước tiếng kêu của thú rừng để liên lạc tín hiệu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Lưu Ám Ảnh]]** — Cha ruột kiêm sư phụ, người mà Tiểu Long muốn noi theo.
+- **[[Hoàng Nhi]]** — Bạn đồng trang lứa, thường cùng nhau luyện tập và tuần tra.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lưu Tiểu Long sinh ra và lớn lên trong Độc Long Bảo, được cha Lưu Ám Ảnh huấn luyện từ nhỏ. Thừa hưởng thiên phú ẩn thân của cha, mười tuổi đã có thể lẩn trốn khỏi sự truy tìm của người lớn. Hiện là thành viên trẻ nhất của Long Ảnh Đội, chuyên thực hiện các nhiệm vụ trinh sát đòi hỏi len lỏi vào nơi chật hẹp.

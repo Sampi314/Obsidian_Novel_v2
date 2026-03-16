@@ -1,0 +1,38 @@
+---
+type: character
+name: Phạm Thư Sinh
+hantu: 范书生
+archetype: Quản Sự
+race: Nhân Tộc
+avatar: ''
+arcs:
+  - arc: 1
+    status: Chưa Xác Định
+    cultivation: Trúc Cơ Sơ Kỳ
+    methods: []
+    inventory: []
+    stats: [0, 0, 0, 0, 0, 0]
+    relationships: []
+---
+
+# HỒ SƠ NHÂN VẬT: PHẠM THƯ SINH (范书生)
+
+## I. THÔNG TIN CƠ BẢN
+- **Họ Tên:** Phạm Thư Sinh (范书生).
+- **Chủng Tộc:** Nhân Tộc.
+- **Tu Vi:** Trúc Cơ Sơ Kỳ.
+- **Khu Vực:** Bắc Băng.
+- **Thế Lực:** Tuyết Trung Cô Viện.
+- **Chức Vụ:** Quản Sự Dạy Chữ.
+
+## II. NGOẠI HÌNH & TÍNH CÁCH
+*(Chưa xác định)*
+
+## III. NĂNG LỰC & CHIẾN ĐẤU
+*(Chưa xác định)*
+
+## IV. CÁC MỐI QUAN HỆ
+*(Chưa xác định)*
+
+## V. TIỂU SỬ & HÀNH TRÌNH
+*(Chưa xác định)*

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Ngoại Cơ Sở Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thiếu nữ mười lăm tuổi, gương mặt khỏe khoắn, da rám nắng, mắt sáng, tóc đen cột đuôi ngựa. Thân hình mảnh nhưng dẻo dai, tay có vết chai do luyện đao. Tính cách mạnh mẽ, bướng bỉnh, không chịu thua kém con trai, luôn muốn chứng minh con gái cũng có thể chiến đấu.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Được cha Lý Sơn Đao dạy đao pháp cơ bản, tuy chưa thuần thục nhưng nền tảng vững. Giỏi dùng ná và phi tiêu tẩm thuốc mê chiết xuất từ thảo dược rừng. Am hiểu thảo dược địa phương, có thể chế thuốc chữa thương đơn giản cho anh em trong trại.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Lý Sơn Đao]]** — Cha ruột kiêm sư phụ, người nghiêm khắc nhưng yêu thương.
+- **[[Đỗ Tiểu Hổ]]** — Bạn cùng trang lứa, hay cùng nhau phiêu lưu và gây rối.
+- **[[Đỗ Hùng]]** — Đại ca mà Sơn Nhi kính trọng, người dẫn dắt thế hệ trẻ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Sơn Nhi theo cha vào Hắc Báo Trại từ khi còn bé, lớn lên giữa rừng già và đám thổ phỉ. Mẹ mất sớm, được cha và các chú bác trong trại nuôi dưỡng. Tuy là con gái duy nhất trong trại nhưng không hề yếu đuối, tự nguyện xin gia nhập Báo Ảnh Đội để trinh sát cùng Đỗ Hùng.

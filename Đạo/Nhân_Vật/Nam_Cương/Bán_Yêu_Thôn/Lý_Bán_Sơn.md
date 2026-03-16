@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Đàn ông trung niên, thân hình cao lớn vạm vỡ, da có vảy mờ nhạt như anh trai nhưng rõ hơn, đặc biệt ở cánh tay và cổ. Mắt vàng kim cả hai bên, răng nanh hơi nhọn, trông có vẻ hung dữ nhưng thực tế rất hiền. Tính cách thẳng thắn, nóng tính, hay hành động trước suy nghĩ sau, nhưng hết lòng bảo vệ thôn dân.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thiên về hình thái yêu nhiều hơn anh — có thể biến hóa nửa thân thành hình dạng xà nhân, tăng gấp đôi sức mạnh và tốc độ. Sử dụng trảo công (kỹ thuật vuốt), đánh cận chiến hung mãnh. Nhược điểm là biến hóa quá lâu sẽ mất kiểm soát lý trí, cần anh trai kiềm chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Lý Bán Huyền]]** — Anh trai ruột, người mà Bán Sơn kính trọng và vâng lời nhất.
+- **[[Thượng Quan Yêu Nhi]]** — Hậu bối, người mà Bán Sơn coi như cháu gái.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Bán Sơn cùng anh trai lưu lạc từ nhỏ, chịu nhiều kỳ thị do ngoại hình yêu tộc rõ ràng hơn anh. Từng bị một nhóm tu sĩ chính đạo truy sát vì tưởng là yêu thú, may mắn được anh cứu. Trải nghiệm đó khiến Bán Sơn cực kỳ cảnh giác với người ngoài, luôn sẵn sàng chiến đấu bảo vệ thôn. Là tuyến phòng thủ mạnh nhất khi thôn bị tấn công.

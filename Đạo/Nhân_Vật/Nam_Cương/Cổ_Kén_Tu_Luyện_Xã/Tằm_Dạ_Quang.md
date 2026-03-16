@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Cố Vấn Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Hình dáng nửa người nửa trùng — phần trên mang dáng vẻ phụ nữ trung niên thanh mảnh, nhưng da có ánh bạc lấp lánh như tơ tằm. Đôi mắt lớn không có lòng trắng, toàn bộ là màu tím óng ánh. Tóc thực chất là hàng ngàn sợi tơ mảnh phát sáng nhẹ trong bóng tối. Tính cách điềm đạm, kiên nhẫn vô hạn, nói năng chậm rãi như đang kéo tơ.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện Thiên Tằm Tơ Công — tạo ra tơ linh lực cực kỳ bền, có thể dùng làm vũ khí trói buộc, phòng thủ, hoặc dệt thành pháp y. Có thể phun tơ dính bẫy kẻ thù trong bán kính rộng, tơ cứng hơn thép nhưng nhẹ hơn lông vũ. Ngoài ra tinh thông thuật kén hóa — kết kén bảo vệ bản thân để chữa thương hoặc đột phá tu vi.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Phấn Vũ]]** — Đồng minh Bụi Phấn Hội, duy trì quan hệ trao đổi tơ lụa lấy phấn hoa dược liệu.
+- **[[Phấn Thanh Lộ]]** — Đồng minh Bụi Phấn Hội, cung cấp sương lộ đặc biệt dùng trong quá trình dệt tơ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Tằm Dạ Quang thuộc Trùng Tộc — một chủng tộc hiếm gặp ở Nam Cương sống bằng nghề dệt tơ linh lực. Cổ Kén Tu Luyện Xã là một nhóm nhỏ Trùng Tộc chuyên nghiên cứu cách kết hợp tơ tằm với linh lực. Tằm Dạ Quang là cố vấn cao cấp nhất của xã, đã dệt được loại tơ phát sáng trong đêm — vì vậy mang danh "Dạ Quang". Sống ẩn dật, chỉ giao dịch với số ít người đáng tin cậy.

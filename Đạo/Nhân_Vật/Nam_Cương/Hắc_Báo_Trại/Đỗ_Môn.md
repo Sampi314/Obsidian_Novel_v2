@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trại Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Đàn ông trung niên, da ngăm đen vì sống trong rừng rậm, thân hình rắn rỏi như cây cổ thụ. Mặt vuông chữ điền, râu quai nón, đôi mắt sắc như báo đêm, trên mặt có vết sẹo dài từ trán xuống má trái. Tính cách hào sảng, trọng tình nghĩa với anh em trong trại, nhưng tàn nhẫn không thương tiếc với kẻ thù và khách qua đường.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tuy tu vi không cao nhưng kinh nghiệm chiến đấu trong rừng cực kỳ phong phú, am hiểu mọi loại bẫy và địa hình. Sử dụng song đao ngắn, chuyên đánh cận chiến trong không gian hẹp giữa cây cối. Sở trường chiến thuật du kích — phục kích, đánh nhanh rút gọn, dùng số đông bao vây đối thủ mạnh hơn.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Đỗ Hải]]** — Em trai ruột, Phó Trại Chủ, người chia sẻ gánh nặng cai quản Hắc Báo Trại.
+- **[[Đỗ Hùng]]** — Con trai trưởng, Báo Ảnh Đội Trưởng, niềm tự hào và hy vọng của gia tộc Đỗ.
+- **[[Lý Sơn Đao]]** — Hắc Đao Trưởng Lão, chiến hữu lâu năm, người mà Đỗ Môn tin tưởng nhất ngoài huyết thống.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Đỗ Môn là con trưởng gia tộc Đỗ, một gia tộc thợ săn sống trong rừng sâu Nam Cương từ nhiều đời. Khi gia tộc bị một thế lực tu tiên cướp đất, Đỗ Môn dẫn người nhà vào rừng rậm lập Hắc Báo Trại, trở thành thổ phỉ. Dưới sự lãnh đạo của hắn, Hắc Báo Trại từ nhóm người vô gia cư trở thành thế lực khiến các thương đoàn qua đường phải cống nạp. Tuy là thổ phỉ nhưng có quy tắc riêng: không giết phụ nữ và trẻ em.

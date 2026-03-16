@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Nội Môn Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thiếu nữ mười lăm tuổi, gương mặt tròn trịa, da trắng hơn so với người trong bảo, mắt to hiền lành. Tóc đen buộc hai bên, thường mặc y phục nâu giản dị, tay luôn có vết cào từ thú nhỏ. Tính cách hiền hậu, yêu thương động vật, có năng khiếu kỳ lạ khiến dã thú tự nguyện đến gần.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Có thiên phú Thân Thú đặc biệt — dã thú tự nhiên thân thiện và vâng lời mà không cần dùng thuật. Đang được Trần Phục Long hướng dẫn cơ bản về Phục Thú Thuật, tiến bộ rất nhanh. Tu vi chiến đấu chưa có nhưng có thể gọi thú nhỏ đến giúp cảnh báo nguy hiểm.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Hoàng Thạch]]** — Cha ruột, người bảo vệ và lo lắng cho Hoàng Nhi nhất.
+- **[[Trần Phục Long]]** — Sư phụ dạy Phục Thú Thuật, người phát hiện thiên phú của nàng.
+- **[[Lưu Tiểu Long]]** — Bạn đồng trang lứa, thường cùng nhau đi tuần.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Nhi sinh ra trong Độc Long Bảo, từ nhỏ đã có khả năng kỳ lạ khiến thú rừng không sợ hãi mà thân thiện. Cha Hoàng Thạch ban đầu lo lắng nhưng khi Trần Phục Long phát hiện thiên phú Thân Thú, lão mới yên tâm cho con gái theo học. Hiện Hoàng Nhi là người duy nhất có thể chạm vào con hắc báo chiến hung dữ nhất bảo mà không bị tấn công.

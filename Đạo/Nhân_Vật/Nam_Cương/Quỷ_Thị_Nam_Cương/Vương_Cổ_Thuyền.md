@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Đưa Đò Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Ông lão gầy gò, da đen sạm vì nắng gió sông nước, mặc áo tơi lá rách rưới, đội nón lá cũ kỹ. Đôi mắt nheo lại như luôn ngái ngủ, nhưng thực tế quan sát mọi thứ cực kỳ tinh tường. Tính cách chậm rãi, ít nói, thích ngâm nga những bài hát cổ kỳ lạ khi chèo đò, đối xử với khách vừa thân thiện vừa bí ẩn.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tinh thông Thủy Hành Thuật — điều khiển dòng nước và sương mù trên con sông dẫn vào Quỷ Thị, khiến kẻ không được phép vĩnh viễn lạc lối. Con thuyền của lão là pháp khí đặc biệt, có thể đi xuyên qua kết giới mà không cần mở cổng. Trong trường hợp bị tấn công, lão có thể triệu hồi xoáy nước nuốt chửng kẻ thù xuống đáy sông.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Mạc Vô Diện]]** — Quỷ Chủ, người giao cho lão nhiệm vụ canh giữ lối vào duy nhất.
+- **[[Hồ Vô Thanh]]** — Tổng Quản, người thường xuyên gửi danh sách khách được phép vào Quỷ Thị.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vương Cổ Thuyền là dân chài sống trên sông từ nhỏ, tình cờ phát hiện lối vào Quỷ Thị khi đuổi theo một con cá lạ. Được Mạc Vô Diện giữ lại làm Đưa Đò Trưởng, lão dần dần tu luyện Thủy Hành Thuật và gắn bó với con sông hàng trăm năm. Không ai biết lão đã bao nhiêu tuổi, nhưng con thuyền cũ kỹ của lão là thứ duy nhất có thể đưa người qua vùng sương mù an toàn.

@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Phấn Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vi Tộc nữ, thân hình tí hon, nhỏ hơn Phấn Vũ một chút, cánh mỏng có ánh xanh ngọc. Da phủ lớp phấn xanh nhạt, tóc dài màu trắng buông xuống như giọt sương. Đôi mắt trong veo như nước suối, biểu cảm luôn dịu dàng. Tính cách trầm lặng, nhẹ nhàng, thích ngồi trên lá cây ngắm sương sớm.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên tu Thanh Lộ Thuật — thu thập và tinh chế giọt sương mai có chứa linh khí từ các loài thực vật đặc biệt. Sương lộ của nàng có công dụng chữa thương, giải độc, và bổ trợ tu luyện. Chiến đấu không phải sở trường nhưng có thể dùng sương lộ đông cứng thành kim băng nhỏ bắn vào kẻ thù để tự vệ.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Phấn Vũ]]** — Chị nuôi trong Bụi Phấn Hội, người dẫn dắt và bảo vệ.
+- **[[Tằm Dạ Quang]]** — Khách hàng thân thiết, thường đặt mua sương lộ để dùng trong dệt tơ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phấn Thanh Lộ là Vi Tộc trẻ tuổi, được Phấn Vũ nhặt về nuôi khi còn nhỏ và dạy dỗ trong Bụi Phấn Hội. Có thiên phú đặc biệt trong việc cảm nhận sương lộ có linh khí, nhanh chóng trở thành chuyên gia thu thập sương. Tuy tu vi thấp nhưng sản phẩm sương lộ tinh chế của nàng được nhiều tu sĩ trong vùng tìm mua, tạo nguồn thu chính cho Bụi Phấn Hội.

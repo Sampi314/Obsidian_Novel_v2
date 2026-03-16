@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Đội Trưởng Tuần Tra.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thiếu nữ ngoài hai mươi, dung mạo xinh đẹp nhưng có đôi tai nhọn dài đặc trưng của bán yêu hồ ly. Tóc đen dài có ánh đỏ, đuôi cáo mảnh thỉnh thoảng hiện ra khi xúc động. Tính cách hoạt bát, lanh lợi, thông minh, luôn vui vẻ động viên mọi người trong thôn dù trong lòng cũng mang nỗi buồn bị kỳ thị.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thừa hưởng huyết mạch hồ ly, có khả năng ảo thuật cơ bản — tạo ảo ảnh đánh lừa thị giác kẻ thù. Sử dụng đoản kiếm kết hợp thuật ảo, chiến đấu linh hoạt, khó đoán. Dẫn đầu Đội Tuần Tra của Bán Yêu Thôn, bảo vệ vòng ngoài khỏi thú dữ và kẻ xâm nhập.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Lý Bán Huyền]]** — Trưởng Lão, người mà Yêu Nhi kính trọng như ông nội.
+- **[[Lý Bán Sơn]]** — Trưởng Lão phó, người mà Yêu Nhi coi như chú ruột.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Thượng Quan Yêu Nhi là con lai giữa nhân tộc và yêu hồ, bị bỏ rơi trước cổng Bán Yêu Thôn khi còn là trẻ sơ sinh. Được thôn dân chung tay nuôi nấng, coi cả thôn là gia đình. Nhờ tính cách hoạt bát và tài năng chiến đấu, được bầu làm Đội Trưởng Tuần Tra dù còn trẻ. Luôn ước mơ một ngày thế giới không còn phân biệt nhân tộc và yêu tộc.

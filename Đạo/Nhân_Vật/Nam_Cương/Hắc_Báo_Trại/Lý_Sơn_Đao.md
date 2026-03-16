@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Hắc Đao Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lão nhân ngoài năm mươi, tóc hoa râm, thân hình khô gầy nhưng gân guốc, mỗi cử động đều toát ra sự nguy hiểm. Tay phải có sẹo cũ chằng chịt do luyện đao từ nhỏ, mắt phải bị mù do chiến đấu. Tính cách trầm mặc, ít nói, chỉ mở miệng khi cần, nhưng khi rút đao thì không còn do dự.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Sử dụng hắc thiết đao — loại đao nặng rèn từ quặng sắt đen vùng núi Nam Cương, bền hơn đao thường. Đao pháp mộc mạc nhưng sát thương cao, thiên về một kích chí mạng hơn là biến hóa hoa mỹ. Đã từng đánh bại tu sĩ Trúc Cơ Viên Mãn chỉ bằng kinh nghiệm chiến đấu thuần túy.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Đỗ Môn]]** — Trại Chủ, chiến hữu tri kỷ từ thời trẻ, người mà Lý Sơn Đao nguyện phò tá cả đời.
+- **[[Lý Sơn Nhi]]** — Con gái ruột, đang theo cha học đao pháp trong trại.
+- **[[Vương Thiết Nha]]** — Đồng liêu Hắc Đao Trưởng Lão, chiến hữu đánh trận cùng nhau nhiều năm.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Sơn Đao vốn là thợ săn cô độc sống trên núi, nổi tiếng trong vùng vì một mình giết được hổ dữ. Khi gia tộc Đỗ bị đuổi khỏi đất, Lý Sơn Đao tự nguyện đi theo Đỗ Môn vào rừng vì tình nghĩa láng giềng. Mang theo con gái Lý Sơn Nhi, trở thành một trong hai Hắc Đao Trưởng Lão — cột trụ chiến lực của Hắc Báo Trại.

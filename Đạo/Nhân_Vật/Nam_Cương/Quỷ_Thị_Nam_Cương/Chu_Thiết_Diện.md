@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão Chấp Pháp.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thân hình cao lớn uy nghi, luôn đeo mặt nạ sắt đen nặng nề che kín nửa trên gương mặt, để lộ hàm răng nghiến chặt và bộ râu đen rậm. Mặc giáp da đen, lưng đeo đại đao, bước đi nặng nề vang vọng khắp hành lang Quỷ Thị. Tính cách cứng nhắc, nghiêm khắc, thi hành luật lệ không chút nương tay, kể cả với người quen.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện Thiết Diện Công — mặt nạ sắt hợp nhất với thân thể, tạo ra lớp phòng ngự kiên cố và tăng cường sức mạnh thể chất. Sử dụng đại đao chấp pháp nặng ba trăm cân, mỗi nhát chém mang theo uy áp của luật lệ Quỷ Thị. Có thể phát động "Thiết Diện Phán Quyết" — khóa chặt mục tiêu trong vòng mười trượng, khiến đối phương không thể trốn thoát.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Mạc Vô Diện]]** — Quỷ Chủ, thượng cấp tối cao mà Chu Thiết Diện tuyệt đối trung thành.
+- **[[Ám Nhị]]** — Tổng Quản phụ, người hỗ trợ điều tra các vụ vi phạm luật lệ trong Quỷ Thị.
+- **[[Lệ Tam]]** — Đấu Giá Sư, kẻ hay gây phiền phức bằng miệng lưỡi nhưng Chu Thiết Diện phải bảo vệ an toàn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Chu Thiết Diện vốn là một võ phu lang thang, bị trọng thương và được Mạc Vô Diện cứu sống với điều kiện phải phục vụ Quỷ Thị suốt đời. Từ đó đeo mặt nạ sắt như biểu tượng của sự ràng buộc, trở thành Trưởng Lão Chấp Pháp đáng sợ nhất. Hơn hai trăm năm qua, không một kẻ vi phạm nào thoát khỏi tay hắn. Ngoài Quỷ Thị, hắn không có bất kỳ mối quan hệ hay mục đích sống nào khác.

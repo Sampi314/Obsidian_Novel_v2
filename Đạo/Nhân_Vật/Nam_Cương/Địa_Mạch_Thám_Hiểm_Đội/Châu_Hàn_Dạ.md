@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Bản Đồ Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thanh niên gầy gò, da xanh xao, đeo kính tròn dày cộp, tay luôn cầm bút và cuộn giấy da. Lưng hơi gù vì hay cúi xuống vẽ bản đồ, ngón tay luôn dính mực. Tính cách hướng nội, ít nói, nhưng khi bàn về địa hình và bản đồ thì trở nên say sưa không ngừng, là "bộ nhớ sống" của đội.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện Địa Mạch Cảm Ứng cơ bản — cảm nhận hướng đi của địa mạch để xác định phương hướng dưới lòng đất. Không giỏi chiến đấu nhưng có trí nhớ phi thường, có thể ghi nhớ và tái tạo bản đồ phức tạp chỉ sau một lần đi qua. Biết sử dụng bút lông đặc biệt làm vũ khí tự vệ — phóng mực linh lực gây mù mắt kẻ thù.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Thạch Vạn Lý]]** — Đội Trưởng, ân nhân thu nạp và cho cơ hội phát huy tài năng.
+- **[[Trần Thạch Nham]]** — Đồng đội, thường phối hợp — một người tìm đường, một người đào khoáng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Châu Hàn Dạ vốn là thư sinh nghèo mê nghiên cứu địa lý nhưng không đủ tiền theo học tại bất kỳ thư viện hay học viện nào. Gặp Thạch Vạn Lý trong một quán trà khi đang vẽ bản đồ khu vực, bị đội trưởng ấn tượng với tài năng bản đồ học và mời gia nhập. Từ đó trở thành Bản Đồ Sư không thể thiếu, đã vẽ hơn ba trăm tấm bản đồ hang động chi tiết.

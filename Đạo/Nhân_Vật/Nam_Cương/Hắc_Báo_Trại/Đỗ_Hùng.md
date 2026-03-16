@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Báo Ảnh Đội Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thanh niên hai mươi tuổi, thân hình nhanh nhẹn, cơ thể linh hoạt như báo đen. Da ngăm, mắt sáng tinh anh, luôn leo trèo trên cành cây cao quan sát. Tính cách lanh lợi, mưu trí, thích nghĩ ra các chiến thuật phục kích mới, là thế hệ trẻ tài năng nhất của Hắc Báo Trại.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên sử dụng cung tên và phi đao, bắn tỉa chính xác từ trên cao. Sở trường ngụy trang trong rừng — có thể nằm im hàng giờ mà thú rừng đi qua cũng không phát hiện. Dẫn đầu Báo Ảnh Đội, chuyên trinh sát và phục kích, là đôi mắt của Hắc Báo Trại.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[[Đỗ Môn]]** — Cha ruột kiêm Trại Chủ, người mà Đỗ Hùng muốn chứng minh bản thân xứng đáng kế thừa.
+- **[[Đỗ Hải]]** — Chú ruột, người cưng chiều và bảo vệ Đỗ Hùng từ nhỏ.
+- **[[Đỗ Tiểu Hổ]]** — Em họ, đệ tử nhỏ tuổi nhất mà Đỗ Hùng luôn dẫn theo dạy dỗ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Đỗ Hùng sinh ra trong Hắc Báo Trại, lớn lên giữa rừng già, coi cây cối là nhà. Được cha Đỗ Môn huấn luyện thuật sinh tồn từ khi năm tuổi, mười tuổi đã một mình hạ được bạo hùng (loại khỉ dữ). Hiện dẫn Báo Ảnh Đội — đội trinh sát tinh nhuệ nhất trại, chuyên nắm bắt di chuyển của thương đoàn và tuần tra lãnh thổ.
