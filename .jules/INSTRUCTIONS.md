@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: ~940 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành 3 nhân vật Hải Thần Cung - Vô Tận Hải ở phiên trước). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
+1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: ~937 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành 3 nhân vật Thần Cung Môn - Tây Mạc ở phiên trước). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
 2. **Sau khi Task 9 hoàn thành** → Tiếp tục Catch-up Lâm Phong (Task 2): Viết chương 133+ cho Góc Nhìn Lâm Phong.
 3. **Sau khi Task 9 hoàn thành** → Tiếp tục Task 5 (Tuyến Khu Vực): Viết Arc 2 cho các khu vực.
 
@@ -209,9 +209,9 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã hoàn thành Task 9 cho 3 nhân vật Thần Cung Môn (Tây Mạc): Cung Tuyệt Trần, Lý Xuyên Vân, Lê Thiên Mục.
 > Đã hoàn thành Task 9 cho 3 nhân vật Hải Thần Cung (Vô Tận Hải): Chương Hắc Triều, Chương Thiên Cơ Huyền, Chương Thiên Nhãn.
 > Đã hoàn thành Task 9 cho 3 nhân vật Băng Lang Bộ Lạc (Bắc Băng): Lang Bạch Sương, Lang Bạo Phong, Lang Cô Hàn.
-> Đã hoàn thành Task 9 cho 3 nhân vật Hỏa Yêu Tàn Đoàn (Tây Mạc): Hỏa Nham Dung, Hỏa Thiên Viêm Sơn, Hỏa Tinh.
 > Đã hoàn thành Chương 129-132 cho Góc Nhìn Lâm Phong. Nhóm sinh tồn trong Hắc Sa Bão và rơi xuống một tàn tích ngầm. Tại đây, họ phát hiện bão cát hồi sinh và biến dị xác chết sa mạc bằng Huyết Độc.
 
 ---

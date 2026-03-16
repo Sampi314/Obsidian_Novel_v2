@@ -215,6 +215,60 @@ const relationshipData = {
   // Danh sách quan hệ (edges)
   "relationships": [
     {
+      "source": "Cung Tuyệt Trần",
+      "target": "Tiễn Vô Song",
+      "description": "Kính trọng Môn Chủ, luôn cố gắng rèn ra cây cung hoàn mỹ nhất cho người này để bảo vệ vùng Vọng Nguyệt Đỉnh.",
+      "type": "positive"
+    },
+    {
+      "source": "Cung Tuyệt Trần",
+      "target": "Lý Xuyên Vân",
+      "description": "Thường xuyên tranh cãi gay gắt với vị Trưởng Lão này về việc sử dụng linh cốt nào là tốt nhất, nhưng sâu thẳm lại rất nể phục tài bắn cung của đối phương.",
+      "type": "neutral"
+    },
+    {
+      "source": "Cung Tuyệt Trần",
+      "target": "Lê Thiên Mục",
+      "description": "Đánh giá cao nhãn lực thiên phú của tiểu bối này, thỉnh thoảng chỉ điểm vài kỹ xảo nhỏ để bảo quản cung tên khi hành tẩu sa mạc.",
+      "type": "positive"
+    },
+    {
+      "source": "Lý Xuyên Vân",
+      "target": "Tiễn Vô Song",
+      "description": "Tuyệt đối trung thành với Môn Chủ, là lưỡi dao sắc bén nhất ẩn giấu trong bóng tối của Thần Cung Môn.",
+      "type": "positive"
+    },
+    {
+      "source": "Lý Xuyên Vân",
+      "target": "Cung Tuyệt Trần",
+      "description": "Bằng hữu chí cốt nhưng hay khắc khẩu, thường xuyên nhờ đối phương chế tạo những mũi tiễn cốt đặc thù riêng cho những nhiệm vụ hiểm ác.",
+      "type": "neutral"
+    },
+    {
+      "source": "Lý Xuyên Vân",
+      "target": "Lê Thiên Mục",
+      "description": "Sư tôn nghiêm khắc, truyền thọ toàn bộ kinh nghiệm ngắm bắn và bí quyết ẩn nấp sinh tồn trên sa mạc khắc nghiệt cho đệ tử này.",
+      "type": "positive"
+    },
+    {
+      "source": "Lê Thiên Mục",
+      "target": "Lý Xuyên Vân",
+      "description": "Sư tôn đáng kính, người đã kiên nhẫn dạy y cách kìm nén sự kiêu ngạo tuổi trẻ để trở thành một thợ săn thực thụ trong Sa Mạc Cốt Linh.",
+      "type": "positive"
+    },
+    {
+      "source": "Lê Thiên Mục",
+      "target": "Cung Tuyệt Trần",
+      "description": "Vô cùng biết ơn Viện Chủ vì đã ưu ái rèn riêng cho y một cây linh cung cốt xà vô cùng phù hợp với nhãn lực đặc thù.",
+      "type": "positive"
+    },
+    {
+      "source": "Lê Thiên Mục",
+      "target": "Tiễn Vô Song",
+      "description": "Sùng bái Môn Chủ, coi sức mạnh của ngài là đỉnh cao tiễn thuật mà bản thân luôn khao khát vươn tới.",
+      "type": "positive"
+    },
+    {
       "from": "trung_bach",
       "to": "trung_ngoc_chau",
       "type": "đồng_minh",

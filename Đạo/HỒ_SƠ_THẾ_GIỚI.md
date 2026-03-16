@@ -576,6 +576,10 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hỏa Nham Dung (Thợ Rèn)**: Thợ rèn mang thân hình nham thạch bán nung chảy, kiên nhẫn chế tạo vũ khí và khao khát rèn ra "Hỏa Bảo" để lưu giữ hỏa linh cho bộ tộc.
   - **Hỏa Thiên Viêm Sơn (Phó Đoàn Trưởng)**: Chiến binh khổng lồ với lớp giáp nham thạch, dũng mãnh và luôn có niềm tin bất diệt vào việc tìm kiếm Hỏa Hạch truyền thuyết.
   - **Hỏa Tinh (Chiến Sĩ)**: Đốm lửa nhỏ linh hoạt, tính cách trẻ con nhưng dũng cảm, luôn mơ ước tiến ra thế giới tìm nguồn lửa mới để cứu lấy tương lai của Tàn Đoàn.
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Thần Cung Môn** (Tây Mạc):
+  - **Cung Tuyệt Trần (Viện Chủ Chế Khí)**: Vóc dáng vạm vỡ, đôi tay linh hoạt, chuyên rèn linh cốt thành cung và tiễn, sở hữu Đạo Tâm "Hóa Cốt Thành Thần". Sử dụng "Toái Cốt Luyện Hồn Quyết" để điều khiển tàn cốt chiến đấu.
+  - **Lý Xuyên Vân (Trưởng Lão)**: Thân hình gầy gò, sát thủ nhẫn nại ẩn mình trong cát, sở hữu Đạo Tâm "Tiễn Vô Hư Phát". Sử dụng "Xuyên Vân Kinh Lôi Tiễn" ám sát tầm xa hiệu quả.
+  - **Lê Thiên Mục (Nội Môn Đệ Tử)**: Thanh niên mang dị đồng có thể khóa mục tiêu chuẩn xác, Đạo Tâm "Phá Huyễn Kiến Chân". Sử dụng "Huyễn Ảnh Liên Châu Tiễn" để săn giết kẻ thù và nung nấu ý chí trả thù Sa Tặc Liên Minh.
 
 - Cập nhật các mối quan hệ nội bộ và ngoại giao của phường vào hệ thống dữ liệu cốt truyện.
 
