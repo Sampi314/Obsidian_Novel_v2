@@ -14,7 +14,7 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 104 | Arc Hậu Chiến Rừng Ảo Ảnh | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 108 | Arc Tiến Vào Tây Mạc | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
 | Góc Nhìn A Ngốc | 152 | Arc 14 — Hồn Nhiên Tử | Hoàn thành mạch truyện chính 152 chương |
 | Góc Nhìn Đan Dương Tử | 10 | Arc 1 | Đang mở rộng |
@@ -66,8 +66,8 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc. Bắt đầu xoay vòng lại từ Nam Cương (Chương 21-24) rồi tiếp tục các khu vực khác.
-2. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 105, 106... cho Góc Nhìn Lâm Phong. Nhóm liên minh đang băng qua bình nguyên Đông Hoang.
+1. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 109, 110, 111, 112... cho Góc Nhìn Lâm Phong. Nhóm liên minh cùng đoàn Thiên Sa Thương Hội hướng tới Trạm Dừng Chân Số 7 ở Tây Mạc.
+2. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc. Bắt đầu xoay vòng lại từ Nam Cương (Chương 21-24) rồi tiếp tục các khu vực khác.
 3. **Mở Rộng Dần Hệ Thống Thời Gian/Không Gian**: (Nếu có thời gian, bổ sung thêm các địa điểm mới dọc đường đi của Lâm Phong/A Ngốc).
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
@@ -75,8 +75,8 @@
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 101, 102... cho Góc Nhìn Lâm Phong.
-- Nhóm Lâm Phong cùng Lệ Vô Tâm và A Ngốc đã thoát khỏi Vĩnh Hằng Sâm Lâm, tiến vào Đông Hoang, bắt đầu hành trình mới.
+- Tiếp tục viết chương 109, 110, 111, 112... cho Góc Nhìn Lâm Phong.
+- Nhóm Lâm Phong đã bảo vệ Thiên Sa Thương Hội khỏi Huyết Sa Bang và đang trên đường đến Trạm Dừng Chân Số 7.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
@@ -131,10 +131,9 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã hoàn thành Chương 105-108 cho Góc Nhìn Lâm Phong, tiến vào Tây Mạc và đụng độ Huyết Sa Bang.
 > Đã hoàn thành Chương 6-10 cho Ngao Đình và Chương 7-10 cho Lệ Nhược Thủy. Task 6 (Viết chương 7-10 cho 19 nhân vật phụ) đã chính thức hoàn tất. Các góc nhìn khu vực hiện đều đã có nền tảng 10 chương cho từng nhân vật phụ quan trọng.
 > Đã hoàn thành Chương 7-10 cho Nham Thần và Lục Tiêu (Đông Hoang). Nham Thần thức tỉnh và đập tan các Huyết Tế Đài, hướng về trung tâm Nam Cương. Lục Tiêu ra khỏi Vĩnh Hằng Sâm Lâm, dùng âm nhạc tịnh hóa Huyết Độc, chạm trán và tiêu diệt một Huyết Sứ tại biên giới.
-> Đã hoàn thành Chương 9-10 cho Sở Lăng Sương và Chương 6-10 cho Triệu Thanh Hằng. Mạch truyện Bắc Băng xoay quanh Băng Ngục Thành (Arc 1) đã được mở rộng và khép lại thành công với việc Lý Tuyết Ưng trở thành Hóa Thần đầu tiên thu nạp hai thanh kiếm mạnh mẽ.
-> Đã hoàn thành Chương 7-10 cho Góc Nhìn Ngô Công Trưởng Lão (báo thù, nhận lệnh săn Hỗn Độn Kim Đan ở Tây Mạc) và Góc Nhìn Phương Vô Kỵ (giải mã chìa khóa Huyết Tế Đài, tiến về Tây Mạc). Mạch truyện đang hội tụ mạnh mẽ về khu vực Tây Mạc, nơi A Ngốc và Lệ Vô Tâm đã đi qua. Toàn bộ 8 nhân vật Nam Cương đã xong chương 7-10.
 
 ---
 
