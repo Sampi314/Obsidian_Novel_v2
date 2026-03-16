@@ -943,7 +943,7 @@ Tổng cộng **856** nhân vật.
 - [Sa Mạc Hồn Dạ (沙漠魂夜)](Sa_Mạc_Hồn_Dạ.md)
 - [Sa Ngọc (沙玉)](Sa_Ngọc.md)
 
-## Thiên Trụ (天柱) — 41 nhân vật
+## Thiên Trụ (天柱) — 42 nhân vật
 
 
 ### Nhân Tộc (1)
@@ -973,8 +973,9 @@ Tổng cộng **856** nhân vật.
 - [Thiết Trùng (鐵蟲)](Thiết_Trùng.md)
 - [Vân Nga Tiên Tử (雲蛾仙子)](Vân_Nga_Tiên_Tử.md)
 
-### Vi Tộc (1)
+### Vi Tộc (2)
 
+- [Khuẩn Thiên Cơ (菌天機)](Khuẩn_Thiên_Cơ.md)
 - [Trần Vô Danh (塵無名)](Trần_Vô_Danh.md)
 
 ### Vũ Tộc (25)
@@ -1004,13 +1005,6 @@ Tổng cộng **856** nhân vật.
 - [Ưng Phá Thiên (鷹破天)](Ưng_Phá_Thiên.md)
 - [Ưng Thiên Phong (鷹天風)](Ưng_Thiên_Phong.md)
 - [Ưng Tuyệt Huyền (鷹絕弦)](Ưng_Tuyệt_Huyền.md)
-
-## Trung Tâm (中心) — 1 nhân vật
-
-
-### Vi Tộc (1)
-
-- [Khuẩn Thiên Cơ (菌天機)](Khuẩn_Thiên_Cơ.md)
 
 ## Lang Thang (流浪) — 3 nhân vật
 
