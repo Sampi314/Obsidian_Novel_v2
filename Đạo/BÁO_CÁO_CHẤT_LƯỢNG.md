@@ -14,6 +14,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 121-124 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm tiến vào sảnh đường Hoàng Sa Địa Cung, đụng độ quân đoàn khôi lỗi đá tảng Thượng Cổ. Lệ Vô Tâm dùng tà chú Vu Tộc để kiểm soát bầy khôi lỗi, hé lộ bí mật về Vu Tộc và Huyết Độc Chi Hỏa qua các bức bích họa. Cuối cùng, A Ngốc vô tình thanh tẩy thực thể Huyết Vu bằng Hỗn Độn chi lực thuần khiết, mở ra con đường tiếp theo. |
 | Hôm nay | Tổng Quản | Viết Chương 113-116 (Góc Nhìn Lâm Phong) | Hoàn Thành | Lệ Vô Tâm dùng Băng Ma Khí tàn sát tổ chức Ám Cốc và bị phản phệ. Liên minh bỏ trốn khỏi sự phong tỏa của Hứa Ngọc và Huyết Sát Minh thông qua đường hầm tránh bão dưới Trạm Dừng Chân Số 7, có thêm Hứa Thanh Vân gia nhập. Nhóm quyết định tiến vào cấm địa Lưu Sa Phế Tích để trốn tránh. |
 | Hôm nay | Tổng Quản | Viết Chương 109-112 (Góc Nhìn Lâm Phong) | Hoàn Thành | Tiếp tục Arc Tiến Vào Tây Mạc. Nhóm Lâm Phong đến Trạm Dừng Chân Số 7. Khám phá sự hỗn loạn và phát hiện mạng lưới phân phối ngầm Huyết Mạch Tinh. Đụng độ tổ chức sát thủ "Ám Cốc" của Huyết Sát Minh và Lệ Vô Tâm xuất hiện tương trợ bằng Băng Ma Khí. |
 | Hôm nay | Tổng Quản | Viết Chương 105-108 (Góc Nhìn Lâm Phong) | Hoàn Thành | Tiếp tục Arc Hậu Chiến Rừng Ảo Ảnh, mở ra Arc Tiến Vào Tây Mạc. Nhóm Lâm Phong đi nhờ thương đoàn Thiên Sa, bị Huyết Sa Bang phục kích. Phát hiện Huyết Sát Minh đã thao túng sa tặc bằng Huyết Thần Độc. Nhóm bảo vệ thương đoàn và hướng tới Trạm Dừng Chân Số 7. |
@@ -25,8 +26,7 @@
 | Hôm nay | Tổng Quản | Viết Chương 97-100 (Góc Nhìn Lâm Phong) | Hoàn Thành | Catch-up mạch truyện chính sau trận chiến Rừng Ảo Ảnh. Lâm Phong chạm trán Lệ Vô Tâm và A Ngốc, tạo nên liên minh ngang trái bảo vệ A Ngốc. Hắn dẫn đường đưa nhóm người rời khỏi Vĩnh Hằng Sâm Lâm thông qua Khu Vực Cây Chết an toàn. |
 
 ## GHI CHÚ GẦN ĐÂY
+- **Hôm nay:** Viết Chương 121-124 (Góc Nhìn Lâm Phong). Nhóm vượt qua cánh cổng đá, khám phá bí mật Huyết Độc Chi Hỏa của Vu Tộc trong Hoàng Sa Địa Cung, chiến đấu với khôi lỗi đá, Lệ Vô Tâm dùng tà chú Vu Tộc và A Ngốc vô tình tiêu diệt Kẻ Gác Cổng Huyết Vu.
 - **Hôm nay:** Viết Chương 109-112 (Góc Nhìn Lâm Phong). Nhóm liên minh đến Trạm Dừng Chân Số 7, Lâm Phong và Tĩnh Sương điều tra mạng lưới phân phối Huyết Thần Độc và đụng độ tổ chức sát thủ "Ám Cốc" của Huyết Sát Minh. Lệ Vô Tâm dùng Băng Ma Khí can thiệp.
-- **Hôm nay:** Viết Chương 6-10 (Góc Nhìn Ngao Đình) và Chương 7-10 (Góc Nhìn Lệ Nhược Thủy) cho khu vực Vô Tận Hải. Cả hai rời biển lên bờ, phát hiện mạng lưới ngầm của Huyết Sát Minh đang đầu độc đại dương, cuối cùng đụng độ nhau và thiết lập một liên minh bất đắc dĩ để giải quyết trận pháp Huyết Độc.
-- **Hôm nay:** Viết Chương 7-10 cho Nham Thần và Lục Tiêu (Đông Hoang). Nham Thần thức tỉnh và đập tan các Huyết Tế Đài, hướng về trung tâm Nam Cương. Lục Tiêu ra khỏi Vĩnh Hằng Sâm Lâm, dùng âm nhạc tịnh hóa Huyết Độc, chạm trán và tiêu diệt một Huyết Sứ tại biên giới.
-- **Hôm nay:** Viết Chương 7-10 cho Nguyệt Dao. Sự kiện Lời Khẩn Cầu Từ Thần Mộc & Quyết Định Của Nữ Hoàng. Nguyệt Dao phá bỏ kết giới, phái Lục Tiêu đi tìm Dược Vương Cốc.
-- **Hôm nay:** Viết Chương 7-10 cho Lục Ly. Sự kiện Người Kế Thừa Hoàng Sa Quốc và Sứ Mệnh Của Kim Sa. Lục Ly hoàn thành sứ mệnh và tan biến. Kim Sa trở thành Nữ Vương mang theo Thủy Linh Châu và Hoàng Kim Ấn, bắt đầu trốn chạy khỏi Huyết Sát Minh.
+- **Hôm nay:** Viết Chương 6-10 (Góc Nhìn Ngao Đình) và Chương 7-10 (Góc Nhìn Lệ Nhược Thủy) cho khu vực Vô Tận Hải. Cả hai rời biển lên bờ, đụng độ nhau và thiết lập một liên minh bất đắc dĩ để phong ấn trận pháp Huyết Độc.
+- **Hôm nay:** Viết Chương 7-10 cho Nham Thần và Lục Tiêu (Đông Hoang). Lục Tiêu ra khỏi Vĩnh Hằng Sâm Lâm, dùng âm nhạc tịnh hóa Huyết Độc.

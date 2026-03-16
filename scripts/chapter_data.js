@@ -1366,6 +1366,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00120_Lối_Cổng_Cổ_Đại.md",
       "title": "Chương 120: Lối Cổng Cổ Đại"
+    },
+    {
+      "filename": "Chương_00121_Sảnh_Đường_Tịch_Mịch.md",
+      "title": "Chương 121: Sảnh Đường Tịch Mịch"
+    },
+    {
+      "filename": "Chương_00122_Cổ_Thành_Hóa_Đá.md",
+      "title": "Chương 122: Cổ Thành Hóa Đá"
+    },
+    {
+      "filename": "Chương_00123_Bí_Mật_Huyết_Hỏa.md",
+      "title": "Chương 123: Bí Mật Huyết Hỏa"
+    },
+    {
+      "filename": "Chương_00124_Trận_Chiến_Cửa_Ải.md",
+      "title": "Chương 124: Trận Chiến Cửa Ải"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

@@ -14,7 +14,7 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 120 | Arc Phế Tích Dưới Cát | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 124 | Arc Phế Tích Dưới Cát | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
 | Góc Nhìn A Ngốc | 152 | Arc 14 — Hồn Nhiên Tử | Hoàn thành mạch truyện chính 152 chương |
 | Góc Nhìn Đan Dương Tử | 10 | Arc 1 | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 121, 122, 123, 124... cho Góc Nhìn Lâm Phong. Nhóm liên minh khám phá lăng mộ ngầm Hoàng Sa Địa Cung, đối mặt với bẫy rập cổ đại và tìm hiểu bí mật bị chôn vùi của vương quốc này.
+1. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 125, 126, 127, 128... cho Góc Nhìn Lâm Phong. Nhóm liên minh khám phá sâu hơn Hoàng Sa Địa Cung, giải quyết hậu quả của Kẻ Gác Cổng và đối mặt với thực thể phong ấn thực sự hoặc thoát khỏi phế tích.
 2. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc. Bắt đầu xoay vòng lại từ Nam Cương (Chương 21-24) rồi tiếp tục các khu vực khác.
 3. **Mở Rộng Dần Hệ Thống Thời Gian/Không Gian**: (Nếu có thời gian, bổ sung thêm các địa điểm mới dọc đường đi của Lâm Phong/A Ngốc).
 
@@ -75,8 +75,8 @@
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 121, 122, 123, 124... cho Góc Nhìn Lâm Phong.
-- Nhóm tiến sâu vào Hoàng Sa Địa Cung để trốn tránh Huyết Sát Minh và tìm kiếm bí mật của phế tích.
+- Tiếp tục viết chương 125, 126, 127, 128... cho Góc Nhìn Lâm Phong.
+- Vượt qua cổng đá, nhóm liên minh đối mặt với trung tâm phong ấn Hoàng Sa Địa Cung. Huyết Sát Minh đuổi đến nơi, đòi hỏi quyết định sinh tử.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)

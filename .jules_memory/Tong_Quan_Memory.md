@@ -4,7 +4,7 @@
 - Phiên trước: Hoàn thành Chương 9-10 (Sở Lăng Sương), Chương 6-10 (Triệu Thanh Hằng), Chương 7-10 (Lý Tuyết Ưng). Bắc Băng hội tụ tại Băng Ngục Thành.
 
 ## PHIÊN GẦN NHẤT
-- Đánh giá ưu tiên: Tập trung viết chương 7-10 cho các nhân vật phụ ở khu vực Đông Hoang.
-- Thực thi: Đã viết xong Chương 7-10 cho Góc Nhìn Lục Ly. Lục Ly kể lại lịch sử Hoàng Sa Quốc, hướng dẫn Kim Sa vượt qua Thử Thách Thủy Linh. Kim Sa kế thừa Thủy Linh Châu và Hoàng Kim Ấn, đột phá Trúc Cơ Viên Mãn. Lục Ly hoàn thành sứ mệnh ngàn năm và tan biến, phong bế Hồ Nguyệt Ảnh trước khi Huyết Sát Minh kéo đến.
-- Cập nhật dữ liệu: Đã cập nhật `MỤC_LỤC.md`, `scripts/chapter_data.js`, `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`, `INSTRUCTIONS.md`, và `HỒ_SƠ_THẾ_GIỚI.md`.
-- TODO phiên tiếp theo: Tiếp tục viết chương 7-10 cho các nhân vật phụ còn lại ở Đông Hoang (Nguyệt Dao, Nham Thần, Lục Tiêu) hoặc chuyển sang Tây Mạc/Vô Tận Hải.
+- Đánh giá ưu tiên: Tiếp tục Catch-up Lâm Phong (Task 2) theo INSTRUCTIONS.md.
+- Thực thi: Đã viết xong Chương 121-124 cho Góc Nhìn Lâm Phong. Nhóm liên minh tiến vào Hoàng Sa Địa Cung, đối mặt với quân đoàn khôi lỗi Thượng Cổ và thực thể Kẻ Gác Cổng Huyết Vu. Khám phá bí mật về cội nguồn Huyết Độc Chi Hỏa của Vu Tộc. Lệ Vô Tâm kiệt sức, A Ngốc dùng Hỗn Độn chi lực thanh tẩy Huyết Vu.
+- Cập nhật dữ liệu: Đã cập nhật `MỤC_LỤC.md`, `scripts/chapter_data.js`, `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`, `INSTRUCTIONS.md`, và `HỒ_SƠ_THẾ_GIỚI.md`. Đã chạy Auto-compact.
+- TODO phiên tiếp theo: Tiếp tục viết chương 125, 126, 127, 128... cho Góc Nhìn Lâm Phong. Nhóm liên minh khám phá sâu hơn Hoàng Sa Địa Cung, giải quyết hậu quả của Kẻ Gác Cổng và đối mặt với thực thể phong ấn thực sự hoặc thoát khỏi phế tích.
