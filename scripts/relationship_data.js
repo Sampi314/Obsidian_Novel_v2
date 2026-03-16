@@ -77,6 +77,39 @@ const relationshipData = {
       "role": "supporting",
       "pov": false,
       "avatar_color": "#a8c0d8"
+    },
+    {
+      "id": "nguyet_quang",
+      "name": "Nguyệt Quang",
+      "title": "Đàn Mẫu",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Thủy Mẫu Trùng Đàn",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#e0e0e0"
+    },
+    {
+      "id": "trung_bach_quang",
+      "name": "Trùng Bạch Quang",
+      "title": "Phó Đàn",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Thủy Mẫu Trùng Đàn",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ffffff"
+    },
+    {
+      "id": "trung_hong_diem",
+      "name": "Trùng Hồng Diệm",
+      "title": "Tiên Phong Dẫn Đường",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Thủy Mẫu Trùng Đàn",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ff4d4d"
     }
   ],
 
@@ -151,8 +184,44 @@ const relationshipData = {
       "strength": 3,
       "status": "active",
       "since_chapter": 1,
+      "bidirectional": false,
+      "notes": "Lý Tuyết Phong trọng dụng mưu trí của Hàn Sương."
+    },
+    {
+      "from": "nguyet_quang",
+      "to": "trung_bach_quang",
+      "type": "đồng_minh",
+      "subtype": "cấp_trên_cấp_dưới",
+      "label": "Tín nhiệm",
+      "strength": 4,
+      "status": "active",
+      "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Lý Tuyết Phong đánh giá cao kỹ năng tình báo của cô."
+      "notes": "Nguyệt Quang dựa vào Bạch Quang để ổn định bầy đàn."
+    },
+    {
+      "from": "nguyet_quang",
+      "to": "trung_hong_diem",
+      "type": "đồng_minh",
+      "subtype": "bảo_vệ",
+      "label": "Bảo bọc",
+      "strength": 4,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Nguyệt Quang luôn phải trông chừng sự bốc đồng của Hồng Diệm."
+    },
+    {
+      "from": "trung_bach_quang",
+      "to": "trung_hong_diem",
+      "type": "đồng_minh",
+      "subtype": "đồng_môn",
+      "label": "Quản giáo",
+      "strength": 3,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": false,
+      "notes": "Bạch Quang thường xuyên phải dọn dẹp hậu quả cho Hồng Diệm."
     }
   ],
 
@@ -187,8 +256,8 @@ const relationshipData = {
   // Metadata
   "meta": {
     "last_updated": "2026-03-15",
-    "total_characters": 4,
-    "total_relationships": 3,
+    "total_characters": 7,
+    "total_relationships": 7,
     "scanned_chapters": {
       "Góc_Nhìn_A_Ngốc": 132,
       "Góc_Nhìn_Lệ_Vô_Tâm": 152,
