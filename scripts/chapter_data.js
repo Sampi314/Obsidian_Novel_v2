@@ -1318,6 +1318,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00108_Cái_Vòi_Bạch_Tuộc.md",
       "title": "Chương 108: Cái Vòi Bạch Tuộc"
+    },
+    {
+      "filename": "Chương_00109_Trạm_Dừng_Chân_Số_7.md",
+      "title": "Chương 109: Đêm Dài Hướng Về Điểm Dừng"
+    },
+    {
+      "filename": "Chương_00110_Mùi_Vị_Tây_Mạc.md",
+      "title": "Chương 110: Mùi Vị Tây Mạc"
+    },
+    {
+      "filename": "Chương_00111_Dấu_Vết_Trong_Bóng_Tối.md",
+      "title": "Chương 111: Dấu Vết Trong Bóng Tối"
+    },
+    {
+      "filename": "Chương_00112_Bóng_Ma_Dưới_Lớp_Cát.md",
+      "title": "Chương 112: Bóng Ma Dưới Lớp Cát"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
