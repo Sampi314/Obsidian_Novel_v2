@@ -543,6 +543,13 @@ Mang theo sứ mệnh từ Nguyệt Dao Nữ Hoàng, Sứ Giả Tinh Linh Lục 
 Tại Tây Mạc, Hứa Nhược Thủy chính thức tiếp quản Hứa Gia sau cái chết bất ngờ của cha. Từ chối chọn phe giữa Chính Đạo và Vạn Độc Môn, nàng phát hiện ra mạng lưới buôn lậu Huyết Tinh Sa khổng lồ do phân đà của Hứa Gia và Huyết Sát Minh thông đồng. Trừng phạt kẻ phản bội nhưng từ chối làm bia đỡ đạn, Hứa Nhược Thủy chọn cách cân bằng trên lưỡi dao để bảo vệ gia tộc.
 Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương trường đầy mùi linh thạch — đã trốn đi làm "hiệp khách". Trong lúc mạo hiểm dưới Hoàng Sa Phế Tích, Thanh Vân tận mắt chứng kiến sự tàn bạo của Huyết Sát Minh khi dùng nô lệ khai thác Huyết Tinh Sa. Cậu vô tình được Lệ Vô Tâm và A Ngốc cứu mạng rồi gia nhập đoàn xe của Hứa Nhược Thủy. Cảm thấy thế giới quan sụp đổ khi biết mẹ mình dung túng (nhằm lấy bằng chứng) việc vận chuyển ma vật, Thanh Vân lại bỏ đi trong đêm. Cậu đụng độ Hắc Sa Bão và được Lệ Vô Tâm, dưới sự che chở của A Ngốc, dùng khiên băng bảo vệ. Trong bão cát, khi một Huyết Tướng phục kích Lệ Vô Tâm, Thanh Vân đã dùng một mảnh băng vỡ để bảo vệ vị "ác ma", thể hiện sự trưởng thành và dũng khí. Sau trận bão, Thanh Vân quyết định rời khỏi cái ô của Hứa Gia, đi về phía Đông (Vĩnh Hằng Sâm Lâm) cùng Lệ Vô Tâm và A Ngốc để tự rèn luyện thành một đại hiệp đích thực (Chương 1-10, Góc Nhìn Hứa Nhược Thủy & Hứa Thanh Vân).
 
+### Hệ Thống Nhân Vật & Thế Lực Bổ Sung
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Ngọc Trai Sâu Phường** (Đông Hoang):
+  - **Trùng Bạch (Phường Chủ)**: Cá thể sâu ngọc trai đầu tiên thức tỉnh linh trí, nhẫn nhục dưới ách cai trị của Giao Nhân, đang bí mật nuôi dưỡng Hắc Ngọc Trai như một quân bài mặc cả.
+  - **Trùng Ngọc Châu (Thợ Chế Tác)**: Hậu bối mang linh trí, khao khát cái đẹp và tự do, nhưng bị vắt kiệt sức lực để tạo ra những viên ngọc lưu ly cho Giao Nhân.
+  - **Trùng Tiểu Trai (Nuôi Trồng Viên)**: Thế hệ trẻ thơ ngây, chăm chỉ lao động và hát "bài ca buồn" mà chưa thấu hiểu bi kịch nô lệ của giống loài.
+- Cập nhật các mối quan hệ nội bộ và ngoại giao của phường vào hệ thống dữ liệu cốt truyện.
+
 ## SỰ KIỆN LỊCH SỬ NỔI BẬT
 
 ### Huyết Trì Băng Ngục (Bắc Băng)
