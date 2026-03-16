@@ -160,3 +160,7 @@
 - [Chương 126: Huyết Sát Lai Lâm](Chương_00126_Huyết_Sát_Lai_Lâm.md)
 - [Chương 127: Long Cốt Thức Tỉnh](Chương_00127_Long_Cốt_Thức_Tỉnh.md)
 - [Chương 128: Đào Thoát Hoàng Sa](Chương_00128_Đào_Thoát_Hoàng_Sa.md)
+- [Chương 129: Sinh Tồn Trong Bão Cát](Chương_00129_Sinh_Tồn_Trong_Bão_Cát.md)
+- [Chương 130: Tìm Nơi Trú Ẩn](Chương_00130_Tìm_Nơi_Trú_Ẩn.md)
+- [Chương 131: Dấu Vết Sa Thú Biến Dị](Chương_00131_Dấu_Vết_Sa_Thú_Biến_Dị.md)
+- [Chương 132: Trận Chiến Giữa Hắc Sa](Chương_00132_Trận_Chiến_Giữa_Hắc_Sa.md)

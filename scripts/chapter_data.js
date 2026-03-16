@@ -1398,6 +1398,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00128_Đào_Thoát_Hoàng_Sa.md",
       "title": "Chương 128: Đào Thoát Hoàng Sa"
+    },
+    {
+      "filename": "Chương_00129_Sinh_Tồn_Trong_Bão_Cát.md",
+      "title": "Chương 129: Sinh Tồn Trong Bão Cát"
+    },
+    {
+      "filename": "Chương_00130_Tìm_Nơi_Trú_Ẩn.md",
+      "title": "Chương 130: Tìm Nơi Trú Ẩn"
+    },
+    {
+      "filename": "Chương_00131_Dấu_Vết_Sa_Thú_Biến_Dị.md",
+      "title": "Chương 131: Dấu Vết Sa Thú Biến Dị"
+    },
+    {
+      "filename": "Chương_00132_Trận_Chiến_Giữa_Hắc_Sa.md",
+      "title": "Chương 132: Trận Chiến Giữa Hắc Sa"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
