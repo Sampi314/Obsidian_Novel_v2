@@ -407,6 +407,7 @@
     - [Phiêu Miễu Băng Hải](Thế_Lực/Phiêu_Miễu_Băng_Hải.md)
     - [Thiên Sơn Đông Cốc](Thế_Lực/Thiên_Sơn_Đông_Cốc.md)
 - **Đông Hoang (Eastern Wilderness):**
+    - [Bào Tử Mật Lâm Tộc](Thế_Lực/Bào_Tử_Mật_Lâm_Tộc.md) (Gồm Bào Hồng Tán, Bào Huyết Tịnh, Bào Hắc Lâm)
     - [Thiên Yêu Đình](Thế_Lực/Thiên_Yêu_Đình.md)
     - [Cổ Thạch Bộ Lạc](Thế_Lực/Cổ_Thạch_Bộ_Lạc.md)
     - [Vạn Yêu Thành](Thế_Lực/Vạn_Yêu_Thành.md)

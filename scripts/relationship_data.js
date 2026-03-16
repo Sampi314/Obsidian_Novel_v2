@@ -110,6 +110,39 @@ const relationshipData = {
       "role": "supporting",
       "pov": false,
       "avatar_color": "#ff4d4d"
+    },
+    {
+      "id": "bao_hong_tan",
+      "name": "Bào Hồng Tán",
+      "title": "Tộc Trưởng",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Bào Tử Mật Lâm Tộc",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ff6b6b"
+    },
+    {
+      "id": "bao_huyet_tinh",
+      "name": "Bào Huyết Tịnh",
+      "title": "Chuyên Gia Huyết Độc",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Bào Tử Mật Lâm Tộc",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#cc0000"
+    },
+    {
+      "id": "bao_hac_lam",
+      "name": "Bào Hắc Lâm",
+      "title": "Trinh Sát",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Bào Tử Mật Lâm Tộc",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#333333"
     }
   ],
 
@@ -222,6 +255,42 @@ const relationshipData = {
       "since_chapter": 1,
       "bidirectional": false,
       "notes": "Bạch Quang thường xuyên phải dọn dẹp hậu quả cho Hồng Diệm."
+    },
+    {
+      "from": "bao_hong_tan",
+      "to": "bao_huyet_tinh",
+      "type": "đồng_minh",
+      "subtype": "cấp_trên_cấp_dưới",
+      "label": "Tin tưởng/Kìm hãm",
+      "strength": 4,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Tộc trưởng tôn trọng khả năng nhưng phải kìm hãm sự ám ảnh nghiên cứu độc của Huyết Tịnh."
+    },
+    {
+      "from": "bao_hong_tan",
+      "to": "bao_hac_lam",
+      "type": "đồng_minh",
+      "subtype": "cấp_trên_cấp_dưới",
+      "label": "Tai mắt",
+      "strength": 4,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Hắc Lâm là trinh sát tuyệt đối trung thành của Hồng Tán."
+    },
+    {
+      "from": "bao_huyet_tinh",
+      "to": "bao_hac_lam",
+      "type": "đồng_minh",
+      "subtype": "đồng_môn",
+      "label": "Đối tác",
+      "strength": 3,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Hắc Lâm mang mẫu vật về cho Huyết Tịnh nghiên cứu."
     }
   ],
 
@@ -250,6 +319,14 @@ const relationshipData = {
       "region": "Bắc Băng",
       "members": ["hoang_dai_son", "ly_tuyet_phong", "nguyen_han_suong"],
       "leader": "tran_han_phong"
+    },
+    {
+      "id": "bao_tu_mat_lam_toc",
+      "name": "Bào Tử Mật Lâm Tộc",
+      "type": "bộ_lạc",
+      "region": "Đông Hoang",
+      "members": ["bao_hong_tan", "bao_huyet_tinh", "bao_hac_lam"],
+      "leader": "bao_hong_tan"
     }
   ],
 
