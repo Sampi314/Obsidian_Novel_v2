@@ -44,6 +44,39 @@ const relationshipData = {
       "role": "protagonist",
       "pov": true,
       "avatar_color": "#d4cbbf"
+    },
+    {
+      "id": "hoang_dai_son",
+      "name": "Hoàng Đại Sơn",
+      "title": "Trưởng Trại Tuyết Thưa",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Băng Nguyên Tán Tu Hội",
+      "region": "Bắc Băng",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#8c9fb0"
+    },
+    {
+      "id": "ly_tuyet_phong",
+      "name": "Lý Tuyết Phong",
+      "title": "Trưởng Trại Hàn Phong",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Băng Nguyên Tán Tu Hội",
+      "region": "Bắc Băng",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#b0c4de"
+    },
+    {
+      "id": "nguyen_han_suong",
+      "name": "Nguyễn Hàn Sương",
+      "title": "Quản Sự",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Băng Nguyên Tán Tu Hội",
+      "region": "Bắc Băng",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#a8c0d8"
     }
   ],
 
@@ -84,6 +117,42 @@ const relationshipData = {
       "since_chapter": 18,
       "bidirectional": true,
       "notes": "Cùng thoát khỏi Rừng Huyết Độc và tiến vào Đông Hoang."
+    },
+    {
+      "from": "hoang_dai_son",
+      "to": "ly_tuyet_phong",
+      "type": "đồng_minh",
+      "subtype": "đồng_môn",
+      "label": "Đồng đội",
+      "strength": 4,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Thường xuyên cãi vã nhưng là đồng đội sinh tử, phối hợp ăn ý."
+    },
+    {
+      "from": "hoang_dai_son",
+      "to": "nguyen_han_suong",
+      "type": "ngờ_vực",
+      "subtype": "bất_hòa",
+      "label": "Cảnh giác",
+      "strength": 2,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": false,
+      "notes": "Hoàng Đại Sơn không thích tính cách lươn lẹo của Hàn Sương."
+    },
+    {
+      "from": "ly_tuyet_phong",
+      "to": "nguyen_han_suong",
+      "type": "đồng_minh",
+      "subtype": "cấp_trên_cấp_dưới",
+      "label": "Tín nhiệm",
+      "strength": 3,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Lý Tuyết Phong đánh giá cao kỹ năng tình báo của cô."
     }
   ],
 
@@ -104,6 +173,14 @@ const relationshipData = {
       "region": "Khắp Nơi",
       "members": ["a_ngoc", "lam_phong"],
       "leader": null
+    },
+    {
+      "id": "bang_nguyen_tan_tu_hoi",
+      "name": "Băng Nguyên Tán Tu Hội",
+      "type": "tông_môn",
+      "region": "Bắc Băng",
+      "members": ["hoang_dai_son", "ly_tuyet_phong", "nguyen_han_suong"],
+      "leader": "tran_han_phong"
     }
   ],
 
