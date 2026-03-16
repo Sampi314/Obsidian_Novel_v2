@@ -1350,6 +1350,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00116_Lối_Thoát_Trong_Cát_Đỏ.md",
       "title": "Chương 116: Lối Thoát Trong Cát Đỏ"
+    },
+    {
+      "filename": "Chương_00117_Dưới_Ánh_Nắng_Cháy_Da.md",
+      "title": "Chương 117: Dưới Ánh Nắng Cháy Da"
+    },
+    {
+      "filename": "Chương_00118_Lưu_Sa_Huyễn_Cảnh.md",
+      "title": "Chương 118: Lưu Sa Huyễn Cảnh"
+    },
+    {
+      "filename": "Chương_00119_Quái_Thú_Sa_Mạc.md",
+      "title": "Chương 119: Quái Thú Sa Mạc"
+    },
+    {
+      "filename": "Chương_00120_Lối_Cổng_Cổ_Đại.md",
+      "title": "Chương 120: Lối Cổng Cổ Đại"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
