@@ -1334,6 +1334,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00112_Bóng_Ma_Dưới_Lớp_Cát.md",
       "title": "Chương 112: Bóng Ma Dưới Lớp Cát"
+    },
+    {
+      "filename": "Chương_00113_Ám_Cốc_Sát_Cơ.md",
+      "title": "Chương 113: Ám Cốc Sát Cơ"
+    },
+    {
+      "filename": "Chương_00114_Băng_Ma_Phản_Kích.md",
+      "title": "Chương 114: Băng Ma Phản Kích"
+    },
+    {
+      "filename": "Chương_00115_Hỗn_Loạn_Trạm_Dừng_Chân.md",
+      "title": "Chương 115: Hỗn Loạn Trạm Dừng Chân"
+    },
+    {
+      "filename": "Chương_00116_Lối_Thoát_Trong_Cát_Đỏ.md",
+      "title": "Chương 116: Lối Thoát Trong Cát Đỏ"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
