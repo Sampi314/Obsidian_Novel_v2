@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Vận Tải Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Cá voi chở chiến lợi phẩm, bụng chứa kho tàng
+Một gã khổng lồ thuộc chi Cá Voi với thân hình đồ sộ, lớp da mang màu đen sẫm của mực biển sâu, phủ đầy những đường vân linh lực màu tím huyền bí. Gương mặt hắn luôn giữ vẻ trầm mặc, đôi mắt to lớn tĩnh lặng nhưng chứa đựng sức mạnh áp đảo của đại dương. Tính cách lầm lì, ít nói và cực kỳ cẩn trọng, Kình Hắc Triều là người đảm bảo sự an toàn tuyệt đối cho mọi chiến lợi phẩm cướp bóc được, hắn coi việc mất mát một đồng linh thạch cũng là sự sỉ nhục đối với bản thân.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên tu về thuật thao túng không gian và khả năng mang vác vật nặng. Tuyệt kỹ "Hắc Triều Thôn Phệ" (黑潮吞噬) cho phép hắn mở rộng khoang miệng và bụng thành một không gian linh lực chứa đựng được cả một đội tàu chiến nhỏ hoặc hàng núi tài vật mà không làm ảnh hưởng đến tốc độ di chuyển. Điểm mạnh là sức chịu đựng phi thường và khả năng phòng ngự vật lý cực cao, nhưng điểm yếu là sự linh hoạt trong chiến đấu bị hạn chế do kích thước quá lớn.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Kình Phá Lãng:** Huynh đệ cùng tộc, người thường xuyên dọn dẹp đường đi để hắn vận chuyển tài vật về Đảo Xương Sọ.
+- **Ngư Vạn Lân:** Cộng sự quản lý hậu cần, người chịu trách nhiệm kiểm kê số lượng tài vật mà hắn mang về.
+- **Sa Huyết Đao:** Hắn tuyệt đối tuân lệnh Sa Huyết Đao và là người nắm giữ "túi tiền" quan trọng nhất của vị vương này.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Kình Hắc Triều vốn là một kẻ bị xua đuổi khỏi tộc Cá Voi sau khi hắn vô tình nuốt chửng một bảo vật quan trọng của trưởng lão trong lúc đang ngủ. Lang thang trong Hắc Hải, hắn đã biến nhược điểm "ham ăn" của mình thành một loại năng lực vận tải vô song. Hắn gia nhập hải tặc để tìm kiếm sự bảo hộ và cũng để thỏa mãn niềm đam mê thu gom các loại kho báu biển sâu. Hiện tại, hắn là kho tàng di động của Liên Minh Hắc Hải, người duy nhất biết chính xác vị trí và số lượng tài vật khổng lồ mà liên minh đã tích lũy qua nhiều năm.

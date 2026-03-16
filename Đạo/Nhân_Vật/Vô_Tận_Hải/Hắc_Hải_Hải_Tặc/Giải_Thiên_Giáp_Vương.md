@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Đệ Ngũ Hải Tặc Vương.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Cua khổng lồ, kìm cắt đứt neo tàu
+Một gã khổng lồ với lớp giáp sừng dày đặc, màu xám đen như đá ngầm bao phủ khắp cơ thể, đôi kìm lớn sù sì luôn sẵn sàng nghiền nát mọi thứ. Gương mặt mang vẻ cục mịch nhưng ánh mắt lại lóe lên sự nham hiểm của kẻ đã sống sót qua hàng ngàn trận chiến. Tính cách lầm lì, cứng nhắc và vô cùng bướng bỉnh, Giải Thiên Giáp Vương là kẻ tin vào sức mạnh phòng ngự tuyệt đối và sự phá hủy trực diện, không bao giờ lùi bước trước bất kỳ đối thủ nào.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên tu về thổ hệ và thủy hệ kết hợp, tạo nên một lớp phòng ngự "ngàn tầng giáp" không thể xuyên phá. Tuyệt kỹ "Thiên Giáp Toái Niết" (千甲碎捏) cho phép hắn dùng đôi kìm khổng lồ tạo ra một lực ép nghìn cân, có thể dễ dàng cắt đứt neo tàu chiến hoặc nghiền nát giáp trụ của các tu sĩ cấp cao. Điểm mạnh là khả năng chịu đựng va đập và sức mạnh bộc phát từ đôi kìm, nhưng điểm yếu là tốc độ di chuyển cực chậm trên mặt đất.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Giải Cự Kìm:** Thuộc cấp thân tín, người luôn đi tiên phong trong các cuộc phá cổng thành dưới sự chỉ đạo của hắn.
+- **Sa Bạch Cốt:** Đối tác làm ăn thường xuyên, cả hai phối hợp nhịp nhàng trong việc tiêu diệt và thu gom chiến lợi phẩm.
+- **Giải Thiết Quyền:** Đệ tử mà hắn đang rèn luyện để trở thành một đấu sĩ hạng nặng cho hạm đội.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Giải Thiên Giáp Vương vốn là vua của một rạn san hô đá phía Tây, nhưng đã bị một vị tu sĩ chính đạo phá hủy tổ ấm để lấy nguyên liệu luyện khí. Mang theo lòng hận thù sâu sắc, hắn đã tìm đến Hắc Hải và dùng chính lớp giáp của mình để làm bàn đạp leo lên vị trí Hải Tặc Vương. Hắn coi việc phá hủy các con tàu tráng lệ là cách để trả thù những kẻ đã coi sinh mạng hải tộc là vật liệu. Hiện tại, hắn đang chỉ huy một tiểu hạm đội chuyên phá hủy các căn cứ quân sự của Hải Thần Cung dọc theo các hải đảo.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Đệ Nhất Hải Tặc Vương.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Cá mập máu, cướp biển tàn bạo nhất
+Thân hình cao lớn sừng sững, lớp da cá mập màu xám tro đầy những vết sẹo đao kiếm chồng chất. Gương mặt hung tợn với hàm răng sắc lẹm luôn lộ ra nụ cười khát máu, đôi mắt đỏ ngầu như chứa đựng cả một biển máu oán hận. Tính cách tàn bạo, độc đoán và cực kỳ hiếu chiến, Sa Huyết Đao là kẻ tôn sùng sức mạnh tuyệt đối và sẵn sàng nghiền nát bất cứ ai dám cản đường hoặc tỏ ý phản kháng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Sở hữu sức mạnh vật lý kinh người, chuyên sử dụng một thanh đại đao răng cưa khổng lồ luôn rỉ máu linh lực. Tuyệt kỹ "Huyết Sa Trảm Hải" (血鯊斬海) có thể chẻ đôi mặt biển, tạo ra những luồng sát khí hình cá mập máu thôn phệ sinh mệnh của đối phương. Điểm mạnh là sức tấn công bộc phá và khả năng chịu đòn phi thường, nhưng điểm yếu là tâm tính dễ bị rơi vào trạng thái cuồng loạn, mất kiểm soát khi nhìn thấy máu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Chương Thiên Tý Hắc:** Đối thủ cạnh tranh vị thế lãnh đạo trong Hội đồng Thất Vương, luôn bằng mặt không bằng lòng.
+- **Sa Bạch Cốt:** Thuộc cấp trung thành, kẻ thường xuyên dọn dẹp tàn cuộc sau những trận thảm sát của hắn.
+- **Sa Huyết Đao (Bản thân):** Tự xưng là vương của biển cả, coi thường mọi luật lệ của Long Cung.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vốn là một chiến thần bị trục xuất của tộc Cá Mập sau khi tàn sát đồng tộc để luyện công, Sa Huyết Đao tìm đến Hắc Hải và dùng bạo lực để thu phục các toán cướp nhỏ lẻ. Hắn là kẻ đầu tiên đề xướng việc thành lập Liên Minh Hắc Hải nhằm tập hợp sức mạnh chống lại Hải Thần Cung. Dưới sự dẫn dắt tàn bạo của hắn, hạm đội hải tặc đã trở thành cơn ác mộng kinh hoàng nhất trên các tuyến đường biển tối. Hiện tại, mục tiêu của hắn là tìm kiếm bí thuật hiến tế vạn linh để đột phá lên Nguyên Anh Hậu Kỳ, bất chấp cái giá phải trả.

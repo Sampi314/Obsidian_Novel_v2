@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Tra Tấn Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Bạch tuộc dùng xúc tu tra khảo tù nhân
+Một gã Bạch Tuộc với làn da đỏ thẫm như máu khô, khắp người tỏa ra mùi tanh nồng nặc của mực độc và xác thối. Đôi mắt hắn trắng dã, không có con ngươi, luôn nhìn chằm chằm vào con mồi với vẻ thèm khát điên cuồng. Tính cách tàn nhẫn, biến thái và cực kỳ thích nghe tiếng kêu la thảm thiết của tù nhân, Chương Huyết Mực Vương coi việc tra tấn là một môn nghệ thuật mà hắn là bậc thầy duy nhất.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên sử dụng các xúc tu dẻo dai chứa đầy gai độc và tà thuật thao túng máu. Tuyệt kỹ "Huyết Mực Phược Hồn" (血墨缚魂) cho phép hắn phun ra một loại mực đỏ đặc quánh có khả năng trói buộc linh hồn và gây ra những cơn đau đớn thấu xương tủy cho nạn nhân. Điểm mạnh là khả năng khống chế và bẻ gãy ý chí đối phương, nhưng điểm yếu là thể chất khá yếu ớt, luôn cần có vệ binh bảo vệ khi không ở trong phòng tra tấn.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Sa Huyết Đao:** Chủ nhân mà hắn vô cùng sợ hãi nhưng cũng rất nể phục vì sự tàn bạo đồng điệu.
+- **Sa Hàn Thiên Nha:** Đồng nghiệp thường xuyên bàn bạc về cách thức xử tử tù nhân sao cho đau đớn nhất.
+- **Chương Ám Lưu:** Hắn thường xuyên tra khảo những tù nhân mà Chương Ám Lưu bắt được để khai thác thông tin mật.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Chương Huyết Mực Vương vốn là một dược sư hải tộc bị điên sau khi vô tình nếm phải kịch độc từ một phế tích ma đạo. Hắn bắt đầu thực hiện các thí nghiệm kinh khủng trên chính tộc nhân của mình và bị truy nã gắt gao khắp đại dương. Tìm đến Hắc Hải, hắn tìm thấy thiên đường của mình trong những hầm ngục tối tăm trên Đảo Xương Sọ. Hiện tại, hắn đang nỗ lực hoàn thiện một loại "Huyết Mực Độc" có khả năng biến tu sĩ thành những nô lệ không hồn chỉ biết tuân lệnh.
