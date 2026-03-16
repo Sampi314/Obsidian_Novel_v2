@@ -128,3 +128,7 @@
 - [Chương 98: Liên Minh Ngang Trái](Chương_00098_Liên_Minh_Ngang_Trái.md)
 - [Chương 99: Giao Cắt Định Mệnh](Chương_00099_Giao_Cắt_Định_Mệnh.md)
 - [Chương 100: Rời Khỏi Vĩnh Hằng](Chương_00100_Rời_Khỏi_Vĩnh_Hằng.md)
+- [Chương 101: Bình Nguyên Đông Hoang](Chương_00101_Bình_Nguyên_Đông_Hoang.md)
+- [Chương 102: Bóng Đen Truy Đuổi](Chương_00102_Bóng_Đen_Truy_Đuổi.md)
+- [Chương 103: Lửa Hàn Băng](Chương_00103_Lửa_Hàn_Băng.md)
+- [Chương 104: Phá Vỡ Huyết Trận](Chương_00104_Phá_Vỡ_Huyết_Trận.md)
