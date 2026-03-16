@@ -1270,6 +1270,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00096_Sức_Mạnh_Thần_Mộc.md",
       "title": "Chương 96: Sức Mạnh Thần Mộc"
+    },
+    {
+      "filename": "Chương_00097_Hậu_Chiến_Rừng_Ảo_Ảnh.md",
+      "title": "Chương 97: Hậu Chiến Rừng Ảo Ảnh"
+    },
+    {
+      "filename": "Chương_00098_Liên_Minh_Ngang_Trái.md",
+      "title": "Chương 98: Liên Minh Ngang Trái"
+    },
+    {
+      "filename": "Chương_00099_Giao_Cắt_Định_Mệnh.md",
+      "title": "Chương 99: Giao Cắt Định Mệnh"
+    },
+    {
+      "filename": "Chương_00100_Rời_Khỏi_Vĩnh_Hằng.md",
+      "title": "Chương 100: Rời Khỏi Vĩnh Hằng"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
