@@ -14,7 +14,7 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 100 | Arc Hậu Chiến Rừng Ảo Ảnh | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 104 | Arc Hậu Chiến Rừng Ảo Ảnh | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
 | Góc Nhìn A Ngốc | 152 | Arc 14 — Hồn Nhiên Tử | Hoàn thành mạch truyện chính 152 chương |
 | Góc Nhìn Đan Dương Tử | 10 | Arc 1 | Đang mở rộng |
@@ -66,9 +66,9 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Hoàn Thành Task 6**: Task 6 (Viết chương 7-10 cho 19 nhân vật phụ) đã chính thức HOÀN THÀNH.
-2. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc. Bắt đầu xoay vòng lại từ Nam Cương (Chương 21+).
-3. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 97, 98... cho Góc Nhìn Lâm Phong nếu cần thiết để theo kịp mạch truyện chính (sau trận chiến Rừng Ảo Ảnh).
+1. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc. Bắt đầu xoay vòng lại từ Nam Cương (Chương 21-24) rồi tiếp tục các khu vực khác.
+2. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 105, 106... cho Góc Nhìn Lâm Phong. Nhóm liên minh đang băng qua bình nguyên Đông Hoang.
+3. **Mở Rộng Dần Hệ Thống Thời Gian/Không Gian**: (Nếu có thời gian, bổ sung thêm các địa điểm mới dọc đường đi của Lâm Phong/A Ngốc).
 
 ### 📋 NHIỆM VỤ CHO JULES (Tuyến Khu Vực)
 

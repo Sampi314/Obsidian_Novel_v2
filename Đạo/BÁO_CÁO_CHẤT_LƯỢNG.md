@@ -14,6 +14,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 101-104 (Góc Nhìn Lâm Phong) | Hoàn Thành | Tiếp tục Arc Hậu Chiến Rừng Ảo Ảnh. Liên minh ngang trái băng qua bình nguyên Đông Hoang. Nhóm đụng độ và tiêu diệt các toán quân Huyết Sát Minh truy kích. Lệ Vô Tâm bộc lộ sự suy yếu tột độ, được A Ngốc bảo vệ. Mối quan hệ phức tạp giữa chính đạo (Lâm Phong, Tĩnh Sương) và Vạn Độc Thánh Tử dưới sự chi phối của "Hồn Nhiên Tử" tiếp tục được phát triển sâu sắc. |
 | Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Lục Ly) | Hoàn Thành | Lục Ly kể về sự sụp đổ của Hoàng Sa Quốc do Vu Tộc (Huyết Độc). Kim Sa vượt qua Thử Thách Thủy Linh, kế thừa Thủy Linh Châu và Hoàng Kim Ấn, đột phá Trúc Cơ Viên Mãn. Lục Ly tan biến sau khi hoàn thành sứ mệnh ngàn năm. Kim Sa mang trọng trách bảo vệ Long Cốt và trốn chạy khỏi sự truy kích của Huyết Sát Minh. |
 | Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Nguyệt Dao) | Hoàn Thành | Nguyệt Dao nhận lời khẩn cầu từ Thần Mộc về Huyết Độc. Nàng quyết định phá bỏ luật cô lập ngàn năm, dùng "Nguyệt Quang Phổ Chiếu" thanh tẩy dã thú biến dị và phái Lục Tiêu đi Nam Cương. Nàng đánh bại đợt tấn công đầu tiên của một Huyết Tôn và đám Huyết Thi từ Huyết Sát Minh. |
 | Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Nham Thần & Lục Tiêu) | Hoàn Thành | Nham Thần thức tỉnh và đập tan các Huyết Tế Đài, hướng về trung tâm Nam Cương. Lục Tiêu ra khỏi Vĩnh Hằng Sâm Lâm, dùng âm nhạc tịnh hóa Huyết Độc, chạm trán và tiêu diệt một Huyết Sứ tại biên giới. |

@@ -1286,6 +1286,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00100_Rời_Khỏi_Vĩnh_Hằng.md",
       "title": "Chương 100: Rời Khỏi Vĩnh Hằng"
+    },
+    {
+      "filename": "Chương_00101_Bình_Nguyên_Đông_Hoang.md",
+      "title": "Chương 101: Bình Nguyên Đông Hoang"
+    },
+    {
+      "filename": "Chương_00102_Bóng_Đen_Truy_Đuổi.md",
+      "title": "Chương 102: Bóng Đen Truy Đuổi"
+    },
+    {
+      "filename": "Chương_00103_Lửa_Hàn_Băng.md",
+      "title": "Chương 103: Lửa Hàn Băng"
+    },
+    {
+      "filename": "Chương_00104_Phá_Vỡ_Huyết_Trận.md",
+      "title": "Chương 104: Phá Vỡ Huyết Trận"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [
