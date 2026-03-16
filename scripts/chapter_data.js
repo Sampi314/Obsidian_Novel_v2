@@ -1302,6 +1302,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00104_Phá_Vỡ_Huyết_Trận.md",
       "title": "Chương 104: Phá Vỡ Huyết Trận"
+    },
+    {
+      "filename": "Chương_00105_Dấu_Vết_Sa_Mạc.md",
+      "title": "Chương 105: Dấu Vết Sa Mạc"
+    },
+    {
+      "filename": "Chương_00106_Thương_Đoàn_Thiên_Sa.md",
+      "title": "Chương 106: Thương Đoàn Thiên Sa"
+    },
+    {
+      "filename": "Chương_00107_Huyết_Sa_Bang_Tấn_Công.md",
+      "title": "Chương 107: Huyết Sa Bang Tấn Công"
+    },
+    {
+      "filename": "Chương_00108_Cái_Vòi_Bạch_Tuộc.md",
+      "title": "Chương 108: Cái Vòi Bạch Tuộc"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

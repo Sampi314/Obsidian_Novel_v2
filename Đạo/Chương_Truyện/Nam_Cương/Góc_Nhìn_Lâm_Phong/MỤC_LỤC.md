@@ -123,7 +123,7 @@
 - [Chương 95: Phản Kích Từ Lòng Đất](Chương_00095_Phản_Kích_Từ_Lòng_Đất.md)
 - [Chương 96: Sức Mạnh Thần Mộc](Chương_00096_Sức_Mạnh_Thần_Mộc.md)
 
-## Arc Hậu Chiến Rừng Ảo Ảnh — Giao Điểm Cốt Truyện (Chương 97-100)
+## Arc Hậu Chiến Rừng Ảo Ảnh — Giao Điểm Cốt Truyện (Chương 97-104)
 - [Chương 97: Hậu Chiến Rừng Ảo Ảnh](Chương_00097_Hậu_Chiến_Rừng_Ảo_Ảnh.md)
 - [Chương 98: Liên Minh Ngang Trái](Chương_00098_Liên_Minh_Ngang_Trái.md)
 - [Chương 99: Giao Cắt Định Mệnh](Chương_00099_Giao_Cắt_Định_Mệnh.md)
@@ -132,3 +132,9 @@
 - [Chương 102: Bóng Đen Truy Đuổi](Chương_00102_Bóng_Đen_Truy_Đuổi.md)
 - [Chương 103: Lửa Hàn Băng](Chương_00103_Lửa_Hàn_Băng.md)
 - [Chương 104: Phá Vỡ Huyết Trận](Chương_00104_Phá_Vỡ_Huyết_Trận.md)
+
+## Arc Tiến Vào Tây Mạc (Chương 105-...)
+- [Chương 105: Dấu Vết Sa Mạc](Chương_00105_Dấu_Vết_Sa_Mạc.md)
+- [Chương 106: Thương Đoàn Thiên Sa](Chương_00106_Thương_Đoàn_Thiên_Sa.md)
+- [Chương 107: Huyết Sa Bang Tấn Công](Chương_00107_Huyết_Sa_Bang_Tấn_Công.md)
+- [Chương 108: Cái Vòi Bạch Tuộc](Chương_00108_Cái_Vòi_Bạch_Tuộc.md)
