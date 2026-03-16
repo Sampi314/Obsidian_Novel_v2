@@ -561,6 +561,10 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Băng Dực (Trinh Sát)**: Trùng Tộc với kích cỡ hạt tuyết, cẩn trọng, kiên nhẫn, đi xuyên qua bão tuyết thu thập tình báo và sử dụng ảo ảnh để tẩu thoát.
   - **Trùng Băng Châm (Phó Đoàn Trưởng)**: Mang hình dáng kim gai vi mô siêu nhỏ, kiên nhẫn phục kích, âm thầm xuyên kinh mạch mục tiêu bằng chất độc băng tàn khốc.
   - **Trùng Bạch Lân (Trinh Sát Độc)**: Vảy siêu mỏng trong suốt, ngụy trang tinh tế trên thân kẻ địch, bám theo mục tiêu kiên trì phát tán sương lạnh, gây ngủ li bì mà không bị lộ.
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Băng Lang Bộ Lạc** (Bắc Băng):
+  - **Lang Bạch Sương (Y Sư)**: Nữ y sư với vẻ đẹp dịu dàng nhưng lạnh lẽo, luôn hết mình vì người bệnh và bầy sói, sử dụng y thuật và Băng linh khí để hỗ trợ và chữa thương trên chiến trường.
+  - **Lang Bạo Phong (Tiền Phong Tướng)**: Nam tử vạm vỡ, mang một nửa huyết thống Lang Yêu với tính cách bạo liệt, tiên phong điên cuồng dẫn đầu mọi cuộc tấn công để bảo vệ bộ lạc.
+  - **Lang Cô Hàn (Sói Đơn Độc)**: Nam thanh niên trầm ngâm và ít nói, chuyên hoạt động đơn độc với khả năng ẩn thân siêu phàm Băng Thủy Ẩn Tức, mang về thông tin tình báo sinh tử và thực hiện các vụ ám sát hiệu quả.
 - Cập nhật các mối quan hệ nội bộ và ngoại giao của phường vào hệ thống dữ liệu cốt truyện.
 
 ## SỰ KIỆN LỊCH SỬ NỔI BẬT
