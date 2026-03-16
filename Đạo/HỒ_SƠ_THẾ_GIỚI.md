@@ -94,6 +94,9 @@
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Triệu_Thanh_Hằng.md`.
 - **Lý Tuyết Ưng (Hàn Băng Tiên Tử):** Cung Chủ Huyền Băng Cung, Nguyên Anh Hậu Kỳ. Người lai Băng Tộc, tính cách lạnh lùng, bảo vệ tộc nhân. Sở hữu *Băng Tâm Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Lý_Tuyết_Ưng.md`.
+- **Hoàng Đại Sơn:** Trưởng Trại Tuyết Thưa (Băng Nguyên Tán Tu Hội). Tính cách thô lỗ, cộc cằn nhưng nhân hậu. Chiến đấu bằng cơ bắp và hàn khí.
+- **Lý Tuyết Phong:** Trưởng Trại Hàn Phong (Băng Nguyên Tán Tu Hội). Tính cách trầm tĩnh, điềm đạm. Chuyên gia về trận pháp và phòng ngự.
+- **Nguyễn Hàn Sương:** Quản Sự Sàn Giao Dịch (Băng Nguyên Tán Tu Hội). Tính cách khôn khéo, mưu mô và lươn lẹo. Chuyên gia định giá và tình báo.
 - **Đan Dương Tử (Hỏa Long Tôn Giả):** Cốc Chủ Đan Hà Cốc, Hóa Thần Sơ Kỳ. Đệ nhất đan sư Nam Cương, tính cách nóng nảy nhưng sòng phẳng. Sở hữu *Cửu Chuyển Đan Hỏa Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Đan_Dương_Tử.md`.
 - **Độc Cô Lão Quái (Vạn Độc Ma Quân):** Môn Chủ Vạn Độc Môn, Hóa Thần Sơ Kỳ. Tính cách tàn nhẫn, đa nghi, chuyên dùng độc và cổ trùng. Sở hữu *Vạn Độc Chân Kinh*.
