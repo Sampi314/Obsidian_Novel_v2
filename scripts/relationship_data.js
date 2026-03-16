@@ -404,3 +404,39 @@ if (typeof window !== "undefined") {
 if (typeof module !== "undefined") {
   module.exports = relationshipData;
 }
+
+// Han Doc Vi Trung Doan (Bac Bang) Update
+if (typeof relationships !== 'undefined') {
+    relationships.push(
+        { source: "Băng Dực", target: "Vi Thanh", type: "Chủ-Tớ", description: "Tai mắt đắc lực, vô cùng trung thành giúp nắm bắt tình hình Bắc Băng." },
+        { source: "Băng Dực", target: "Trùng Băng Châm", type: "Đồng Nghiệp", description: "Đối tác phối hợp ăn ý trong nhiệm vụ trinh sát và mở đường." },
+        { source: "Băng Dực", target: "Trùng Bạch Lân", type: "Đồng Môn", description: "Cạnh tranh khả năng lẩn trốn trong bão tuyết." },
+        { source: "Trùng Băng Châm", target: "Vi Thanh", type: "Chủ-Tớ", description: "Phó thủ trung thành bảo vệ quần thể quyết đoán." },
+        { source: "Trùng Băng Châm", target: "Trùng Bạch Lân", type: "Đồng Nghiệp", description: "Cùng thực hiện nhiệm vụ xâm nhập nhưng ít hợp tính cách." },
+        { source: "Trùng Bạch Lân", target: "Vi Thanh", type: "Chủ-Tớ", description: "Được tin tưởng để quan sát các thế lực ma đạo cực kỳ nguy hiểm." }
+    );
+}
+
+if (typeof characterData !== 'undefined') {
+    characterData["Băng Dực"] = {
+        name: "Băng Dực",
+        faction: "Hàn Độc Vi Trùng Đoàn",
+        realm: "Kim Đan Trung Kỳ",
+        description: "Chuồn chuồn băng siêu nhỏ, trinh sát tinh tường.",
+        image: ""
+    };
+    characterData["Trùng Băng Châm"] = {
+        name: "Trùng Băng Châm",
+        faction: "Hàn Độc Vi Trùng Đoàn",
+        realm: "Kim Đan",
+        description: "Kim gai siêu nhỏ tàn độc, phục kích gây chết chóc bằng băng.",
+        image: ""
+    };
+    characterData["Trùng Bạch Lân"] = {
+        name: "Trùng Bạch Lân",
+        faction: "Hàn Độc Vi Trùng Đoàn",
+        realm: "Trúc Cơ",
+        description: "Vảy tuyết trong suốt chuyên rải sương lạnh vô hình.",
+        image: ""
+    };
+}
