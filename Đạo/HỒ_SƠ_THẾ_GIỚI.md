@@ -557,6 +557,10 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hỗn Nguyệt (Hội Trưởng)**: Nữ Hỗn huyết Tinh Linh - Nhân Tộc, bị Vương Đình lưu đày, dùng ý chí sắt đá thành lập hội bảo vệ những kẻ lai bị ruồng bỏ và sáng tạo công pháp cân bằng linh lực.
   - **Lâm Kỳ Dạ (Đại Địa Cảm Ứng Sư)**: Hỗn huyết Tinh Linh - Xà Yêu, sở hữu thiên phú đọc hiểu linh mạch địa khí, là tấm khiên vững chắc và đôi mắt ngầm của hội.
   - **Hồ Linh Hoa Nguyệt (Dược Sư)**: Nữ Hỗn huyết Tinh Linh - Hồ Yêu mang vẻ đẹp ma mị, kết hợp mộc linh khí chữa trị và huyễn thuật để bảo vệ hội và chăm sóc trẻ lai.
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Hải Thần Cung** (Vô Tận Hải):
+  - **Chương Hắc Triều (Tây Bắc Tướng Quân)**: Con bạch tuộc đen khổng lồ, tàn nhẫn, luôn tìm kiếm sức mạnh bằng bạo lực. Sử dụng Hắc Uyên Chướng Mực để tàn phá chiến trường.
+  - **Chương Thiên Cơ Huyền (Đệ Tứ Tế Tư)**: Lão giả bạch tuộc uyên bác và bảo thủ. Sử dụng tám xúc tu để thao túng các trận pháp thủy hệ cổ đại và là cố vấn đắc lực của Hải Đế.
+  - **Chương Thiên Nhãn (Tình Báo Trưởng)**: Bạch tuộc nhỏ trong suốt với hàng ngàn con mắt, sở hữu khả năng tình báo và thâm nhập siêu phàm nhờ thuật Thiên Nhãn Phân Thân.
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Hàn Độc Vi Trùng Đoàn** (Bắc Băng):
   - **Băng Dực (Trinh Sát)**: Trùng Tộc với kích cỡ hạt tuyết, cẩn trọng, kiên nhẫn, đi xuyên qua bão tuyết thu thập tình báo và sử dụng ảo ảnh để tẩu thoát.
   - **Trùng Băng Châm (Phó Đoàn Trưởng)**: Mang hình dáng kim gai vi mô siêu nhỏ, kiên nhẫn phục kích, âm thầm xuyên kinh mạch mục tiêu bằng chất độc băng tàn khốc.
