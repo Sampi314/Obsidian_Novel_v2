@@ -14,7 +14,7 @@
 |-----------|-----------|--------------|---------|
 | Góc Nhìn Nam Cương | 135 | Arc 6 — Băng Ngục Thành | Đang viết |
 | Góc Nhìn Diệp Tĩnh Sương | 10 | Arc 1 — Kiếm Đạo | Đang viết |
-| Góc Nhìn Lâm Phong | 128 | Arc Phế Tích Dưới Cát | Đang viết catch-up |
+| Góc Nhìn Lâm Phong | 132 | Arc Phế Tích Dưới Cát | Đang viết catch-up |
 | Góc Nhìn Lệ Vô Tâm | 152 | Arc Sụp Đổ (Bridge Arc) | Hoàn thành Bridge Arc (152 chương) |
 | Góc Nhìn A Ngốc | 152 | Arc 14 — Hồn Nhiên Tử | Hoàn thành mạch truyện chính 152 chương |
 | Góc Nhìn Đan Dương Tử | 10 | Arc 1 | Đang mở rộng |
@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 129, 130, 131, 132... cho Góc Nhìn Lâm Phong. Nhóm liên minh phải sinh tồn trong bão cát Hắc Sa sau khi phong ấn Long Cốt vỡ, đồng thời tìm đường rút lui khỏi Tây Mạc hoặc tìm nơi ẩn náu trước khi bị Huyết Độc tha hóa.
+1. **Tiếp tục Catch-up Lâm Phong (Task 2)**: Viết chương 133, 134, 135, 136... cho Góc Nhìn Lâm Phong. Nhóm liên minh tìm đường thoát khỏi tàn tích ngầm trong khi bão Hắc Sa tiếp tục hoành hành. Họ phải đối phó với đàn sa thú biến dị và tìm cách giải quyết tình trạng của Lệ Vô Tâm.
 2. **Tiếp tục Task 5 (Tuyến Khu Vực)**: Viết Arc 2 cho Nam Cương, Bắc Băng, Đông Hoang, Vô Tận Hải, Tây Mạc. Bắt đầu xoay vòng lại từ Nam Cương (Chương 21-24) rồi tiếp tục các khu vực khác.
 3. **Mở Rộng Dần Hệ Thống Thời Gian/Không Gian**: (Nếu có thời gian, bổ sung thêm các địa điểm mới dọc đường đi của Lâm Phong/A Ngốc).
 
@@ -75,8 +75,8 @@
 > **Bối cảnh:** 19 nhân vật phụ đã được nhóm vào 5 tuyến khu vực. Mỗi tuyến xoay vòng góc nhìn giữa các nhân vật — không ai là nhân vật chính. Tham khảo `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md` để biết storyline chi tiết.
 
 #### Task 2: Catch-up Lâm Phong
-- Tiếp tục viết chương 129, 130, 131, 132... cho Góc Nhìn Lâm Phong.
-- Sinh tồn giữa bão cát, giải quyết hậu quả phong ấn vỡ và tình trạng kiệt quệ của Lệ Vô Tâm.
+- Tiếp tục viết chương 133, 134, 135, 136... cho Góc Nhìn Lâm Phong.
+- Sinh tồn giữa bão cát, giải quyết hậu quả phong ấn vỡ và tình trạng kiệt quệ của Lệ Vô Tâm, tìm đường thoát khỏi tàn tích ngầm.
 
 #### Task 5: Viết Arc 2 cho tuyến khu vực
 - **Nam Cương**: Viết ch 21-28 (Arc 2 — Bão Lửa Sắp Đến)
@@ -131,8 +131,8 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã hoàn thành Chương 129-132 cho Góc Nhìn Lâm Phong. Nhóm sinh tồn trong Hắc Sa Bão và rơi xuống một tàn tích ngầm. Tại đây, họ phát hiện bão cát hồi sinh và biến dị xác chết bằng Huyết Độc. Lệ Vô Tâm dùng Huyết Độc kích phát Băng Ma Khí tiêu diệt quái vật rồi ngất đi. Nhóm tiếp tục tìm đường thoát trong hành lang ngầm.
 > Đã hoàn thành Chương 125-128 cho Góc Nhìn Lâm Phong. Nhóm tiến vào tâm phong ấn, đối mặt với Long Cốt và Huyết Độc Chi Hỏa. Huyết Cuồng (Huyết Sát Minh) tấn công và làm vỡ phong ấn. Long Cốt thức tỉnh thành Oán Long, Huyết Độc tràn ra. Nhóm phải đào thoát khỏi Hoàng Sa Địa Cung sụp đổ và đối mặt với cơn bão Hắc Sa khổng lồ mang tà khí trên mặt đất.
-> Đã hoàn thành Chương 117-124 cho Góc Nhìn Lâm Phong. Nhóm liên minh vượt qua sa mạc khắc nghiệt, khám phá bí mật Huyết Độc Chi Hỏa của Vu Tộc, chiến đấu với khôi lỗi đá, và A Ngốc vô tình thanh tẩy thực thể Huyết Vu bằng Hỗn Độn chi lực.
 > Đã hoàn thành Chương 6-10 cho Ngao Đình và Chương 7-10 cho Lệ Nhược Thủy. Task 6 (Viết chương 7-10 cho 19 nhân vật phụ) đã chính thức hoàn tất. Các góc nhìn khu vực hiện đều đã có nền tảng 10 chương cho từng nhân vật phụ quan trọng.
 > Đã hoàn thành Chương 7-10 cho Nham Thần và Lục Tiêu (Đông Hoang). Nham Thần thức tỉnh và đập tan các Huyết Tế Đài, hướng về trung tâm Nam Cương. Lục Tiêu ra khỏi Vĩnh Hằng Sâm Lâm, dùng âm nhạc tịnh hóa Huyết Độc, chạm trán và tiêu diệt một Huyết Sứ tại biên giới.
 
