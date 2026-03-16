@@ -26,6 +26,7 @@
 | Hôm nay | Tổng Quản | Viết Chương 7-10 (Góc Nhìn Nguyệt Dao) | Hoàn Thành | Nguyệt Dao nhận lời khẩn cầu từ Thần Mộc về Huyết Độc. Nàng quyết định phá bỏ luật cô lập ngàn năm, dùng "Nguyệt Quang Phổ Chiếu" thanh tẩy dã thú biến dị và phái Lục Tiêu đi Nam Cương. Nàng đánh bại đợt tấn công đầu tiên của một Huyết Tôn và đám Huyết Thi từ Huyết Sát Minh. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hoàng Đại Sơn, Lý Tuyết Phong, Nguyễn Hàn Sương (Băng Nguyên Tán Tu Hội). Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hiện tại | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Bào Tử Mật Lâm Tộc: Bào Hồng Tán, Bào Huyết Tịnh, Bào Hắc Lâm. Cập nhật HỒ_SƠ_THẾ_GIỚI.md. |
+| Hiện tại | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hỗn Huyết Tinh Linh Hội: Hỗn Nguyệt, Lâm Kỳ Dạ, Hồ Linh Hoa Nguyệt. Cập nhật INSTRUCTIONS và HỒ_SƠ_THẾ_GIỚI.md. |
 
 ## GHI CHÚ GẦN ĐÂY
 - **Hôm nay:** Viết Chương 121-124 (Góc Nhìn Lâm Phong). Nhóm vượt qua cánh cổng đá, khám phá bí mật Huyết Độc Chi Hỏa của Vu Tộc trong Hoàng Sa Địa Cung, chiến đấu với khôi lỗi đá, Lệ Vô Tâm dùng tà chú Vu Tộc và A Ngốc vô tình tiêu diệt Kẻ Gác Cổng Huyết Vu.
