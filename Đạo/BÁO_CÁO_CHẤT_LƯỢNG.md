@@ -14,6 +14,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 113-116 (Góc Nhìn Lâm Phong) | Hoàn Thành | Lệ Vô Tâm dùng Băng Ma Khí tàn sát tổ chức Ám Cốc và bị phản phệ. Liên minh bỏ trốn khỏi sự phong tỏa của Hứa Ngọc và Huyết Sát Minh thông qua đường hầm tránh bão dưới Trạm Dừng Chân Số 7, có thêm Hứa Thanh Vân gia nhập. Nhóm quyết định tiến vào cấm địa Lưu Sa Phế Tích để trốn tránh. |
 | Hôm nay | Tổng Quản | Viết Chương 109-112 (Góc Nhìn Lâm Phong) | Hoàn Thành | Tiếp tục Arc Tiến Vào Tây Mạc. Nhóm Lâm Phong đến Trạm Dừng Chân Số 7. Khám phá sự hỗn loạn và phát hiện mạng lưới phân phối ngầm Huyết Mạch Tinh. Đụng độ tổ chức sát thủ "Ám Cốc" của Huyết Sát Minh và Lệ Vô Tâm xuất hiện tương trợ bằng Băng Ma Khí. |
 | Hôm nay | Tổng Quản | Viết Chương 105-108 (Góc Nhìn Lâm Phong) | Hoàn Thành | Tiếp tục Arc Hậu Chiến Rừng Ảo Ảnh, mở ra Arc Tiến Vào Tây Mạc. Nhóm Lâm Phong đi nhờ thương đoàn Thiên Sa, bị Huyết Sa Bang phục kích. Phát hiện Huyết Sát Minh đã thao túng sa tặc bằng Huyết Thần Độc. Nhóm bảo vệ thương đoàn và hướng tới Trạm Dừng Chân Số 7. |
 | Hôm nay | Tổng Quản | Viết Chương 101-104 (Góc Nhìn Lâm Phong) | Hoàn Thành | Tiếp tục Arc Hậu Chiến Rừng Ảo Ảnh. Liên minh ngang trái băng qua bình nguyên Đông Hoang. Nhóm đụng độ và tiêu diệt các toán quân Huyết Sát Minh truy kích. Lệ Vô Tâm bộc lộ sự suy yếu tột độ, được A Ngốc bảo vệ. Mối quan hệ phức tạp giữa chính đạo (Lâm Phong, Tĩnh Sương) và Vạn Độc Thánh Tử dưới sự chi phối của "Hồn Nhiên Tử" tiếp tục được phát triển sâu sắc. |

@@ -142,3 +142,7 @@
 - [Chương 110: Mùi Vị Tây Mạc](Chương_00110_Mùi_Vị_Tây_Mạc.md)
 - [Chương 111: Dấu Vết Trong Bóng Tối](Chương_00111_Dấu_Vết_Trong_Bóng_Tối.md)
 - [Chương 112: Bóng Ma Dưới Lớp Cát](Chương_00112_Bóng_Ma_Dưới_Lớp_Cát.md)
+- [Chương 113: Ám Cốc Sát Cơ](Chương_00113_Ám_Cốc_Sát_Cơ.md)
+- [Chương 114: Băng Ma Phản Kích](Chương_00114_Băng_Ma_Phản_Kích.md)
+- [Chương 115: Hỗn Loạn Trạm Dừng Chân](Chương_00115_Hỗn_Loạn_Trạm_Dừng_Chân.md)
+- [Chương 116: Lối Thoát Trong Cát Đỏ](Chương_00116_Lối_Thoát_Trong_Cát_Đỏ.md)
