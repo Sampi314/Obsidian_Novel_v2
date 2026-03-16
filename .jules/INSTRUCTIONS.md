@@ -211,6 +211,7 @@
 ### Ghi Chú
 > Đã hoàn thành Task 9 cho 3 nhân vật Hải Thần Cung (Vô Tận Hải): Chương Hắc Triều, Chương Thiên Cơ Huyền, Chương Thiên Nhãn.
 > Đã hoàn thành Task 9 cho 3 nhân vật Băng Lang Bộ Lạc (Bắc Băng): Lang Bạch Sương, Lang Bạo Phong, Lang Cô Hàn.
+> Đã hoàn thành Task 9 cho 3 nhân vật Hỏa Yêu Tàn Đoàn (Tây Mạc): Hỏa Nham Dung, Hỏa Thiên Viêm Sơn, Hỏa Tinh.
 > Đã hoàn thành Chương 129-132 cho Góc Nhìn Lâm Phong. Nhóm sinh tồn trong Hắc Sa Bão và rơi xuống một tàn tích ngầm. Tại đây, họ phát hiện bão cát hồi sinh và biến dị xác chết sa mạc bằng Huyết Độc.
 
 ---
