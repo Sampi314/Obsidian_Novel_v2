@@ -30,15 +30,27 @@ def main():
 
     new_section = "## VI. THẾ LỰC CHÍNH\n\n"
 
+    # Map category titles to region folder names
+    REGION_FOLDERS = {
+        "Nam Cương (Southern Border)": "Nam_Cương",
+        "Thiên Trụ Sơn (World Pillar)": "Thiên_Trụ",
+        "Bắc Băng (Northern Ice)": "Bắc_Băng",
+        "Đông Hoang (Eastern Wilderness)": "Đông_Hoang",
+        "Tây Mạc (Western Desert)": "Tây_Mạc",
+        "Trung Tâm (Central)": "Thiên_Trụ",
+        "Vô Tận Hải (Endless Sea)": "Vô_Tận_Hải",
+    }
+
     def add_category(title, lst):
         nonlocal new_section
+        region_folder = REGION_FOLDERS.get(title, "")
         new_section += f"- **{title}:**\n"
         for item in lst:
             filename = item + ".md"
-            filepath = os.path.join(FACTIONS_DIR, filename)
+            filepath = os.path.join(FACTIONS_DIR, region_folder, filename)
             if os.path.exists(filepath):
                 name = item.replace("_", " ")
-                new_section += f"    - [{name}](Thế_Lực/{filename})\n"
+                new_section += f"    - [{name}](Thế_Lực/{region_folder}/{filename})\n"
             else:
                 print(f"Warning: {filepath} not found.")
 
@@ -53,11 +65,15 @@ def main():
     # Any others not listed?
     listed = set(nam_cuong + thien_tru + bac_bang + vo_tan_hai + dong_hoang + tay_mac + trung_tam)
     others = []
-    for f in os.listdir(FACTIONS_DIR):
-        if f.endswith('.md'):
-            base = f[:-3]
-            if base not in listed:
-                others.append(base)
+    for region_dir in os.listdir(FACTIONS_DIR):
+        region_path = os.path.join(FACTIONS_DIR, region_dir)
+        if not os.path.isdir(region_path):
+            continue
+        for f in os.listdir(region_path):
+            if f.endswith('.md'):
+                base = f[:-3]
+                if base not in listed:
+                    others.append(base)
 
     if others:
         add_category("Khác (Others)", others)

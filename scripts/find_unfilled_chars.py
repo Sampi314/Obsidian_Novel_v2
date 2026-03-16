@@ -16,18 +16,23 @@ BASE = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', 'Đạo', 
 FACTIONS_DIR = os.path.normpath(os.path.join(os.path.dirname(__file__), '..', 'Đạo', 'Thế_Lực'))
 
 def find_faction_file(faction_name):
-    """Find the faction .md file matching a faction name."""
-    # Try exact match first
-    candidate = os.path.join(FACTIONS_DIR, faction_name.replace(' ', '_') + '.md')
-    if os.path.exists(candidate):
-        return candidate
-    # Try fuzzy match
-    for f in os.listdir(FACTIONS_DIR):
-        if not f.endswith('.md'):
+    """Find the faction .md file matching a faction name (searches region subdirs)."""
+    target = faction_name.replace(' ', '_') + '.md'
+    # Search in region subdirectories
+    for entry in os.listdir(FACTIONS_DIR):
+        subdir = os.path.join(FACTIONS_DIR, entry)
+        if not os.path.isdir(subdir):
             continue
-        name_part = f[:-3].replace('_', ' ')
-        if name_part.lower() == faction_name.lower():
-            return os.path.join(FACTIONS_DIR, f)
+        candidate = os.path.join(subdir, target)
+        if os.path.exists(candidate):
+            return candidate
+        # Try fuzzy match within subdir
+        for f in os.listdir(subdir):
+            if not f.endswith('.md'):
+                continue
+            name_part = f[:-3].replace('_', ' ')
+            if name_part.lower() == faction_name.lower():
+                return os.path.join(subdir, f)
     return None
 
 def extract_field(content, field):
