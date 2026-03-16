@@ -6,6 +6,7 @@
     <title>Đang tải... - Cố Nguyên Giới</title>
     <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,300;0,8..60,400;0,8..60,500;0,8..60,600;1,8..60,400&family=Noto+Serif+TC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
@@ -437,6 +438,38 @@
         </div>
     </div>
 
+    <script>
+    // Initialize Mermaid with dark-friendly theme
+    mermaid.initialize({
+        startOnLoad: false,
+        theme: 'dark',
+        themeVariables: {
+            darkMode: true,
+            background: '#1a1a2e',
+            primaryColor: '#52b788',
+            primaryTextColor: '#e0d8c8',
+            primaryBorderColor: '#52b788',
+            lineColor: '#7a7067',
+            secondaryColor: '#2a2a4a',
+            tertiaryColor: '#1a1a2e',
+            fontFamily: '"Source Serif 4", serif'
+        }
+    });
+    // Global helper: convert marked code blocks to mermaid diagrams
+    window.renderMermaid = function(container) {
+        if (!container) container = document;
+        var blocks = container.querySelectorAll('pre code.language-mermaid');
+        if (!blocks.length) return;
+        blocks.forEach(function(code) {
+            var pre = code.parentElement;
+            var div = document.createElement('div');
+            div.className = 'mermaid';
+            div.textContent = code.textContent;
+            pre.parentNode.replaceChild(div, pre);
+        });
+        mermaid.run({ nodes: container.querySelectorAll('.mermaid') });
+    };
+    </script>
     <script src="scripts/navbar.js"></script>
     <script src="scripts/chapter-lock.js"></script>
     <script src="scripts/character-sheet.js"></script>
@@ -554,11 +587,14 @@
                     var fsContainer = document.querySelector('.wiki-content');
                     fsContainer.innerHTML = '';
                     FactionSheet.render(frontmatter, md, fsContainer);
+                    if (window.renderMermaid) renderMermaid(fsContainer);
                 } else if (isChapter) {
                     loadChapterMode(html);
                 } else {
                     loadWikiMode(html);
                 }
+                // Render any mermaid diagrams in the page
+                if (window.renderMermaid) renderMermaid();
             })
             .catch(function(err) {
                 document.getElementById('content').innerHTML =

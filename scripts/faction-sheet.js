@@ -537,6 +537,8 @@
         }
       }
       tabContent.appendChild(inner);
+      // Render mermaid diagrams in newly added tab content
+      if (window.renderMermaid) window.renderMermaid(tabContent);
     }
 
     function renderDivisionsTab(arc) {
