@@ -122,3 +122,9 @@
 - [Chương 94: Đối Đầu Huyết Tôn](Chương_00094_Đối_Đầu_Huyết_Tôn.md)
 - [Chương 95: Phản Kích Từ Lòng Đất](Chương_00095_Phản_Kích_Từ_Lòng_Đất.md)
 - [Chương 96: Sức Mạnh Thần Mộc](Chương_00096_Sức_Mạnh_Thần_Mộc.md)
+
+## Arc Hậu Chiến Rừng Ảo Ảnh — Giao Điểm Cốt Truyện (Chương 97-100)
+- [Chương 97: Hậu Chiến Rừng Ảo Ảnh](Chương_00097_Hậu_Chiến_Rừng_Ảo_Ảnh.md)
+- [Chương 98: Liên Minh Ngang Trái](Chương_00098_Liên_Minh_Ngang_Trái.md)
+- [Chương 99: Giao Cắt Định Mệnh](Chương_00099_Giao_Cắt_Định_Mệnh.md)
+- [Chương 100: Rời Khỏi Vĩnh Hằng](Chương_00100_Rời_Khỏi_Vĩnh_Hằng.md)

@@ -1,8 +1,10 @@
 ## TỔNG HỢP LỊCH SỬ (tự động nén)
-- Phiên trước: Bắt đầu Arc 12 (Trở Về Nơi Bắt Đầu) cho Góc Nhìn A Ngốc (Chương 113-114). Nhóm Lâm Phong đến Cổ Thạch Bộ Lạc dưỡng thương. Hoàn thành toàn bộ 152 chương cho redesign của A Ngốc.
-- Viết chương 4-7 cho Góc Nhìn Độc Cô Lão Quái: Dã tâm thu phục Hắc Hạt Ma Trùng. Hắn quyết định để Trùng Tộc tự do tàn phá Nam Cương và Tây Mạc, trong khi bản thân luyện đan.
-- Cập nhật MỤC_LỤC.md và chapter_data.js.
+- Phiên trước: Viết chương 4-7 cho Góc Nhìn Độc Cô Lão Quái.
+- Viết chương 7-10 cho Góc Nhìn Nguyệt Dao (Nữ Hoàng Tinh Linh), phá luật ngàn năm, thanh tẩy Huyết Độc.
+- Cập nhật MỤC_LỤC.md, chapter_data.js và các tracker khác.
 
 ## PHIÊN GẦN NHẤT
-- Viết chương 7-10 cho Góc Nhìn Nguyệt Dao (Nữ Hoàng Tinh Linh): Nguyệt Dao nhận được lời khẩn cầu từ Thần Mộc, đích thân ra tiền tuyến dùng Nguyệt Quang Phổ Chiếu thanh tẩy Huyết Độc. Nàng nhận ra sự xâm lăng của Huyết Sát Minh qua địa mạch nên quyết định phá luật ngàn năm, phái Lục Tiêu đến Nam Cương tìm Dược Vương Cốc để liên minh. Nàng cũng đánh bại đợt tấn công đầu tiên của Huyết Tôn và đám Huyết Thi.
-- Đã cập nhật INSTRUCTIONS.md, HỒ_SƠ_THẾ_GIỚI.md, BÁO_CÁO_CHẤT_LƯỢNG.md, chapter_data.js và MỤC_LỤC.md của Góc Nhìn Nguyệt Dao.
+- Viết chương 97-100 cho Góc Nhìn Lâm Phong, bắt đầu Arc mới "Hậu Chiến Rừng Ảo Ảnh".
+- Nhóm Lâm Phong chạm mặt Lệ Vô Tâm và A Ngốc sau trận chiến tại Rừng Ảo Ảnh. Một liên minh ngang trái được thiết lập để bảo vệ A Ngốc khỏi Huyết Sát Minh.
+- Nhóm tiến hành di chuyển, rời khỏi Vĩnh Hằng Sâm Lâm thông qua Khu Vực Cây Chết nhờ vào khả năng dẫn đường của Lâm Phong và khiên băng của Lệ Vô Tâm che giấu khí tức. Họ đã an toàn thoát khỏi khu rừng và hướng về phía Đông.
+- Cập nhật `MỤC_LỤC.md`, `chapter_data.js`, `HỒ_SƠ_THẾ_GIỚI.md`, `INSTRUCTIONS.md`, và chạy auto-compaction rules.
