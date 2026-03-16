@@ -2696,6 +2696,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00006_Quyết_Định_Lên_Bờ.md",
       "title": "Chương 6: Quyết Định Lên Bờ"
+    },
+    {
+      "filename": "Chương_00007_Dấu_Chân_Lên_Cát.md",
+      "title": "Chương 7: Dấu Chân Lên Cát"
+    },
+    {
+      "filename": "Chương_00008_Manh_Mối_Máu.md",
+      "title": "Chương 8: Manh Mối Máu"
+    },
+    {
+      "filename": "Chương_00009_Bóng_Tối_Sau_Bến_Cảng.md",
+      "title": "Chương 9: Bóng Tối Sau Bến Cảng"
+    },
+    {
+      "filename": "Chương_00010_Liên_Minh_Bất_Đắc_Dĩ.md",
+      "title": "Chương 10: Liên Minh Bất Đắc Dĩ"
     }
   ],
   "Góc_Nhìn_Ngao_Đình": [
@@ -2710,6 +2726,26 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00005_Long_Uy.md",
       "title": "Chương 5: Long Uy"
+    },
+    {
+      "filename": "Chương_00006_Kẻ_Thách_Đấu.md",
+      "title": "Chương 6: Kẻ Thách Đấu"
+    },
+    {
+      "filename": "Chương_00007_Chạm_Trán_Tôn_Nghiêm.md",
+      "title": "Chương 7: Chạm Trán Tôn Nghiêm"
+    },
+    {
+      "filename": "Chương_00008_Sức_Mạnh_Từ_Lôi_Bão.md",
+      "title": "Chương 8: Sức Mạnh Từ Lôi Bão"
+    },
+    {
+      "filename": "Chương_00009_Kiêu_Ngạo_Đối_Đầu.md",
+      "title": "Chương 9: Kiêu Ngạo Đối Đầu"
+    },
+    {
+      "filename": "Chương_00010_Rồng_Và_Biển_Mở_Đường.md",
+      "title": "Chương 10: Rồng Và Biển Mở Đường"
     }
   ],
   "Góc_Nhìn_Vô_Tận_Hải": [
