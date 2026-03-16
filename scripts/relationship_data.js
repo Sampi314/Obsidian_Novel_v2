@@ -595,4 +595,27 @@ if (typeof characterData !== 'undefined') {
         description: "Huyết Mạch Sư nghiên cứu cơ thể Hắc Tinh Linh.",
         image: ""
     };
+
+    // Hỏa Yêu Tàn Đoàn (Tây Mạc)
+    characterData["Hỏa Nham Dung"] = {
+        name: "Hỏa Nham Dung",
+        faction: "Hỏa Yêu Tàn Đoàn",
+        realm: "Luyện Khí Hậu Kỳ",
+        description: "Thợ rèn mang thân hình nham thạch bán nung chảy, kiên nhẫn chế tạo vũ khí và khao khát rèn ra Hỏa Bảo.",
+        image: ""
+    };
+    characterData["Hỏa Thiên Viêm Sơn"] = {
+        name: "Hỏa Thiên Viêm Sơn",
+        faction: "Hỏa Yêu Tàn Đoàn",
+        realm: "Trúc Cơ Sơ Kỳ",
+        description: "Phó đoàn trưởng, chiến binh khổng lồ với lớp giáp nham thạch, luôn có niềm tin bất diệt vào Hỏa Hạch truyền thuyết.",
+        image: ""
+    };
+    characterData["Hỏa Tinh"] = {
+        name: "Hỏa Tinh",
+        faction: "Hỏa Yêu Tàn Đoàn",
+        realm: "Luyện Khí Viên Mãn",
+        description: "Đốm lửa nhỏ linh hoạt, trẻ con nhưng dũng cảm, mơ ước tiến ra thế giới tìm nguồn lửa mới cho bộ tộc.",
+        image: ""
+    };
 }

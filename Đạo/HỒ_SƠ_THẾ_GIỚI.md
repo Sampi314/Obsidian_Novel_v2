@@ -572,6 +572,11 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Lang Bạch Sương (Y Sư)**: Nữ y sư với vẻ đẹp dịu dàng nhưng lạnh lẽo, luôn hết mình vì người bệnh và bầy sói, sử dụng y thuật và Băng linh khí để hỗ trợ và chữa thương trên chiến trường.
   - **Lang Bạo Phong (Tiền Phong Tướng)**: Nam tử vạm vỡ, mang một nửa huyết thống Lang Yêu với tính cách bạo liệt, tiên phong điên cuồng dẫn đầu mọi cuộc tấn công để bảo vệ bộ lạc.
   - **Lang Cô Hàn (Sói Đơn Độc)**: Nam thanh niên trầm ngâm và ít nói, chuyên hoạt động đơn độc với khả năng ẩn thân siêu phàm Băng Thủy Ẩn Tức, mang về thông tin tình báo sinh tử và thực hiện các vụ ám sát hiệu quả.
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Hỏa Yêu Tàn Đoàn** (Tây Mạc):
+  - **Hỏa Nham Dung (Thợ Rèn)**: Thợ rèn mang thân hình nham thạch bán nung chảy, kiên nhẫn chế tạo vũ khí và khao khát rèn ra "Hỏa Bảo" để lưu giữ hỏa linh cho bộ tộc.
+  - **Hỏa Thiên Viêm Sơn (Phó Đoàn Trưởng)**: Chiến binh khổng lồ với lớp giáp nham thạch, dũng mãnh và luôn có niềm tin bất diệt vào việc tìm kiếm Hỏa Hạch truyền thuyết.
+  - **Hỏa Tinh (Chiến Sĩ)**: Đốm lửa nhỏ linh hoạt, tính cách trẻ con nhưng dũng cảm, luôn mơ ước tiến ra thế giới tìm nguồn lửa mới để cứu lấy tương lai của Tàn Đoàn.
+
 - Cập nhật các mối quan hệ nội bộ và ngoại giao của phường vào hệ thống dữ liệu cốt truyện.
 
 ## SỰ KIỆN LỊCH SỬ NỔI BẬT
