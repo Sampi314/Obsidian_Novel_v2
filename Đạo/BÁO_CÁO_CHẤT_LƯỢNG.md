@@ -14,16 +14,16 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hắc Tinh Linh Lưu Đày: Ám Diệp, Ám Dạ Hành, Ám Huyết. Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hàn Độc Vi Trùng Đoàn: Băng Dực, Trùng Băng Châm, Trùng Bạch Lân. Cập nhật INSTRUCTIONS và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hỗn Huyết Tinh Linh Hội: Hỗn Nguyệt, Lâm Kỳ Dạ, Hồ Linh Hoa Nguyệt. Cập nhật INSTRUCTIONS và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Bào Tử Mật Lâm Tộc: Bào Hồng Tán, Bào Huyết Tịnh, Bào Hắc Lâm. Cập nhật HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hoàng Đại Sơn, Lý Tuyết Phong, Nguyễn Hàn Sương (Băng Nguyên Tán Tu Hội). Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Viết Chương 129-132 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm liên minh sinh tồn trong Hắc Sa Bão bằng lồng gỗ bọc băng của Lâm Phong. Rơi xuống thạch thất ngầm, phát hiện Hắc Sa Bão hồi sinh và biến dị xác chết sa mạc bằng Huyết Độc. Lệ Vô Tâm dùng Huyết Độc hòa lẫn Băng Ma Khí tiêu diệt quái vật rồi ngất đi. |
-| Hôm nay | Tổng Quản | Viết Chương 125-128 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm tiến vào tâm phong ấn, đối mặt với Long Cốt và Huyết Độc Chi Hỏa. Huyết Cuồng (Huyết Sát Minh) tấn công và làm vỡ phong ấn. Long Cốt thức tỉnh thành Oán Long, Huyết Độc tràn ra. Nhóm phải đào thoát khỏi Hoàng Sa Địa Cung sụp đổ và đối mặt với cơn bão Hắc Sa khổng lồ mang tà khí trên mặt đất. |
-| Hôm nay | Tổng Quản | Viết Chương 121-124 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm tiến vào sảnh đường Hoàng Sa Địa Cung, đụng độ quân đoàn khôi lỗi đá tảng Thượng Cổ. Lệ Vô Tâm dùng tà chú Vu Tộc để kiểm soát bầy khôi lỗi, hé lộ bí mật về Vu Tộc và Huyết Độc Chi Hỏa qua các bức bích họa. Cuối cùng, A Ngốc vô tình thanh tẩy thực thể Huyết Vu bằng Hỗn Độn chi lực thuần khiết, mở ra con đường tiếp theo. |
-| Hôm nay | Tổng Quản | Viết Chương 113-116 (Góc Nhìn Lâm Phong) | Hoàn Thành | Lệ Vô Tâm dùng Băng Ma Khí tàn sát tổ chức Ám Cốc và bị phản phệ. Liên minh bỏ trốn khỏi sự phong tỏa của Hứa Ngọc và Huyết Sát Minh thông qua đường hầm tránh bão dưới Trạm Dừng Chân Số 7, có thêm Hứa Thanh Vân gia nhập. Nhóm quyết định tiến vào cấm địa Lưu Sa Phế Tích để trốn tránh. |
-| Hôm nay | Tổng Quản | Viết Chương 109-112 (Góc Nhìn Lâm Phong) | Hoàn Thành | Tiếp tục Arc Tiến Vào Tây Mạc. Nhóm Lâm Phong đến Trạm Dừng Chân Số 7. Khám phá sự hỗn loạn và phát hiện mạng lưới phân phối ngầm Huyết Mạch Tinh. Đụng độ tổ chức sát thủ "Ám Cốc" của Huyết Sát Minh và Lệ Vô Tâm xuất hiện tương trợ bằng Băng Ma Khí. |
-| Hôm nay | Tổng Quản | Viết Chương 105-108 (Góc Nhìn Lâm Phong) | Hoàn Thành | Tiếp tục Arc Hậu Chiến Rừng Ảo Ảnh, mở ra Arc Tiến Vào Tây Mạc. Nhóm Lâm Phong đi nhờ thương đoàn Thiên Sa, bị Huyết Sa Bang phục kích. Phát hiện Huyết Sát Minh đã thao túng sa tặc bằng Huyết Thần Độc. Nhóm bảo vệ thương đoàn và hướng tới Trạm Dừng Chân Số 7. |
+| Hôm nay | Tổng Quản | Viết Chương 129-132 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm liên minh sinh tồn trong Hắc Sa Bão bằng lồng gỗ bọc băng của Lâm Phong. Rơi xuống thạch thất ngầm. |
+| Hôm nay | Tổng Quản | Viết Chương 125-128 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm tiến vào tâm phong ấn, đối mặt với Long Cốt và Huyết Độc Chi Hỏa. Phải đào thoát khỏi Hoàng Sa Địa Cung. |
+| Hôm nay | Tổng Quản | Viết Chương 121-124 (Góc Nhìn Lâm Phong) | Hoàn Thành | Đụng độ khôi lỗi đá tảng Thượng Cổ. Lệ Vô Tâm dùng tà chú Vu Tộc để kiểm soát bầy khôi lỗi. |
+| Hôm nay | Tổng Quản | Viết Chương 113-116 (Góc Nhìn Lâm Phong) | Hoàn Thành | Lệ Vô Tâm dùng Băng Ma Khí tàn sát tổ chức Ám Cốc. Quyết định tiến vào cấm địa Lưu Sa Phế Tích. |
+| Hôm nay | Tổng Quản | Viết Chương 109-112 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm Lâm Phong đến Trạm Dừng Chân Số 7. Đụng độ tổ chức sát thủ "Ám Cốc". |
 
 ## GHI CHÚ GẦN ĐÂY
 - **Hôm nay:** Viết Chương 121-124 (Góc Nhìn Lâm Phong). Nhóm vượt qua cánh cổng đá, khám phá bí mật Huyết Độc Chi Hỏa của Vu Tộc trong Hoàng Sa Địa Cung, chiến đấu với khôi lỗi đá, Lệ Vô Tâm dùng tà chú Vu Tộc và A Ngốc vô tình tiêu diệt Kẻ Gác Cổng Huyết Vu.

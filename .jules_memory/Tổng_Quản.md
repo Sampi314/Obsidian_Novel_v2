@@ -8,7 +8,7 @@
 
 ## PHIÊN GẦN NHẤT
 - **Ngày**: Hiện tại
-- **Công việc**: Thực hiện Task 9 - Điền chi tiết nhân vật (Section II-V) cho 3 nhân vật thuộc Bào Tử Mật Lâm Tộc (Đông Hoang): Bào Hồng Tán, Bào Huyết Tịnh, và Bào Hắc Lâm. Cập nhật HỒ_SƠ_THẾ_GIỚI.md và INSTRUCTIONS.md.
+- **Công việc**: Thực hiện Task 9 - Điền chi tiết nhân vật (Section II-V) cho 3 nhân vật thuộc Hắc Tinh Linh Lưu Đày (Đông Hoang): Ám Diệp, Ám Dạ Hành, và Ám Huyết. Cập nhật data JSON, HỒ_SƠ_THẾ_GIỚI.md và INSTRUCTIONS.md.
 - **Agent đã kích hoạt**: Tổng Quản, Nhân Vật.
 - **Tình trạng file**: Đã cập nhật xong nội dung 3 file nhân vật.
-- **Ưu tiên phiên sau**: Tiếp tục Task 9 (Điền chi tiết nhân vật) cho các phe phái khác cho đến khi hoàn thành.[Phiên hiện tại]: Hoàn thành Task 9 điền chi tiết 3 nhân vật cho Hàn Độc Vi Trùng Đoàn (Bắc Băng). Đã cập nhật data, HỒ SƠ THẾ GIỚI và compact logs.
+- **Ưu tiên phiên sau**: Tiếp tục Task 9 (Điền chi tiết nhân vật) cho các phe phái khác cho đến khi hoàn thành.
