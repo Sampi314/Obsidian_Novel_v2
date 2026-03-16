@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Phiêu Du Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Ẩn sĩ biến mất, chỉ xuất hiện lúc nguy cấp
+Vân Tiêu Dao Khách là một Tinh Linh phóng khoáng bất thường, mái tóc xanh bạc rối bù, râu dài, mặc áo vải thô nhuộm màu lá rụng, đi chân đất và luôn mang theo bầu rượu lá. Đôi mắt xanh sáng lanh lợi ẩn sau vẻ ngoài lôi thôi. Tính cách phóng túng, thích tự do, biến mất hàng trăm năm rồi bất ngờ xuất hiện đúng lúc nguy cấp nhất.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Phiêu Du Trưởng Lão cảnh giới Nguyên Anh Sơ Kỳ, Vân Tiêu Dao Khách tu luyện "Tiêu Dao Du Phong Quyết" (逍遥游风诀) — hòa nhập với gió, di chuyển tự do khắp lục địa mà không bị trận pháp ngăn cản. Tuyệt kỹ "Phong Vân Tán Tụ" (风云散聚) triệu hồi bão gió và mây mù che phủ cả vùng, tạo cơ hội thoát thân hoặc tấn công bất ngờ. Điểm mạnh là tốc độ di chuyển và khả năng xuất hiện bất ngờ, nhược điểm là không chịu tuân thủ mệnh lệnh và hay biến mất.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Nguyệt Thiên Hà:** Hộ Quốc Trưởng Lão, người duy nhất hắn coi là ngang hàng.
+- **Vân Hà:** Thư Viện Trưởng, nàng ghi chép mọi câu chuyện hắn kể khi trở về.
+- **Nguyệt Hàn Sương:** Thái Tử, hắn thầm ủng hộ tư tưởng cải cách nhưng không nói ra.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vân Tiêu Dao Khách rời Vĩnh Hằng Sâm Lâm từ hai ngàn năm trước vì quá chán cuộc sống gò bó trong Vương Đình. Hắn đi khắp lục địa, gặp gỡ mọi chủng tộc, học hỏi mọi thứ, và trở về mang theo kiến thức mà không Tinh Linh nào có. Sự kiện nổi tiếng nhất là khi hắn bất ngờ xuất hiện ngay lúc Vĩnh Hằng Sâm Lâm bị ma tu tấn công, đánh lui kẻ thù rồi lại biến mất. Bí mật của hắn là đã thấy sự suy tàn của nhiều chủng tộc cô lập và lo rằng Tinh Linh sẽ đi theo vết xe đổ.

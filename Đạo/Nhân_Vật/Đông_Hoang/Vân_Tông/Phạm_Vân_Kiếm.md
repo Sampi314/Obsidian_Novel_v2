@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Chân Truyền Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phạm Vân Kiếm là một thanh niên tuấn tú, tóc đen dài, mắt sáng lanh lợi, luôn mang thanh kiếm trắng và nụ cười tự tin. Khí chất vừa thanh cao vừa trẻ trung, là niềm hy vọng của thế hệ mới. Tính cách tham vọng nhưng chính trực, muốn chứng minh Vân Tông vẫn là số một.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Chân Truyền Đệ Tử cảnh giới Kim Đan Hậu Kỳ, Phạm Vân Kiếm tu luyện "Vân Kiếm Linh Động" (云剑灵动) — kiếm pháp nhẹ nhàng linh hoạt, biến ảo theo gió. Tuyệt kỹ "Bạch Vân Thiên Kiếm" (白云千剑) triệu hồi ngàn thanh kiếm khí hóa thành đám mây trắng bao vây. Điểm mạnh là tiềm năng lớn và kiếm thuật đa dạng, nhược điểm là kinh nghiệm chiến đấu còn thiếu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Vũ Thanh Phong:** Trưởng Lão Kiếm Đỉnh, sư phụ trực tiếp dạy kiếm.
+- **Nguyễn Thiên Kiếm:** Hộ Pháp đánh giá cao, coi là kế thừa kiếm đạo.
+- **Hoàng Tiểu Vân:** Sư muội nội môn, hai người hay luyện tập cùng nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phạm Vân Kiếm là thiên tài kiếm đạo hiếm gặp, được Tông Chủ đích thân thu nhận làm Chân Truyền. Hắn phát triển kiếm pháp riêng kết hợp phong cách nhanh của Thanh Phong và nặng của Vân Hải. Sự kiện đáng nhớ nhất là khi hắn đánh bại một đệ tử Nguyên Anh của Cửu U Ma Tông dù chỉ có tu vi Kim Đan. Mục tiêu là trở thành Hộ Pháp trẻ nhất lịch sử Vân Tông.

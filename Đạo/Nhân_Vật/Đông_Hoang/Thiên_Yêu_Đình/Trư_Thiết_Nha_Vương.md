@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Dã Trư Bộ Lạc Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Nanh sắt phá mọi trận pháp
+Trư Thiết Nha Vương trong hình dạng yêu thú là một con lợn rừng khổng lồ, nanh dài bằng người lớn, cứng như sắt thép và sáng loáng. Khi hóa hình người, hắn là một đại hán béo phệ, mặt hầm hố, nanh nhô ra khỏi miệng, cười ha hả luôn miệng. Tính cách thô lỗ nhưng thẳng thắn, trọng nghĩa khinh tài, thích ăn uống và chiến đấu ngang nhau.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Dã Trư Bộ Lạc Trưởng cảnh giới Kim Đan Trung Kỳ, Trư Thiết Nha Vương tu luyện "Thiết Nha Phá Trận Công" (铁牙破阵功) — cường hóa nanh sắt có thể húc phá mọi trận pháp và kết giới. Tuyệt kỹ "Hoang Trư Đột Kích" (荒猪突击) lao thẳng vào đối phương với tốc độ và sức mạnh xuyên thủng mọi phòng tuyến. Điểm mạnh là phá phòng ngự cực mạnh và sức chịu đòn khủng khiếp, nhược điểm là ngu ngốc trong chiến thuật và dễ bị dụ vào bẫy.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hùng Thiên Sơn Hống:** Bạn nhậu thân nhất, hai đại hán thường uống rượu kể chuyện chiến trận.
+- **Hổ Cuồng Phong:** Thánh Tướng mà hắn ngưỡng mộ sức mạnh, hai người hay tỉ thí lấy vui.
+- **Hùng Thiết Chưởng:** Vệ Binh Trưởng, bạn chiến đấu — một húc một tát phối hợp ăn ý.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trư Thiết Nha Vương sinh ra trong bầy lợn rừng hoang dã nhất Đông Hoang, nơi chỉ có kẻ mạnh nhất mới được ăn trước. Hắn lớn lên bằng cách húc đổ mọi thứ cản đường — cây cối, đá tảng, yêu thú, tu sĩ — không phân biệt. Trở thành Bộ Lạc Trưởng sau khi húc gãy nanh kẻ tiền nhiệm trong trận quyết đấu chỉ kéo dài ba giây. Hắn luôn nói rằng triết lý sống của mình là "húc trước hỏi sau", và cho đến nay triết lý đó vẫn chưa sai bao giờ.

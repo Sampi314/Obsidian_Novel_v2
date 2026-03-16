@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Viên Tộc Chiến Sĩ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Vượn vàng nhẹ nhàng như gió
+Viên Kim Phong trong hình dạng yêu thú là một con vượn vàng nhỏ nhắn, lông vàng rực và di chuyển nhẹ nhàng như gió lướt qua cành. Khi hóa hình người, hắn là một thiếu niên gầy nhỏ, tóc vàng rối bù, mắt vàng sáng lánh và nụ cười tinh nghịch. Tính cách hoạt bát, tinh quái, thích trêu chọc mọi người nhưng trong chiến đấu thì nghiêm túc không ngờ.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Viên Tộc Chiến Sĩ cảnh giới Kim Đan Sơ Kỳ, Viên Kim Phong tu luyện "Kim Phong Khinh Thân Thuật" (金风轻身术) — nhẹ nhàng như gió, di chuyển trên cành cây mà không gây lay động. Tuyệt kỹ "Phong Quyền Liên Hoàn" (风拳连环) phóng ra chuỗi quyền nhanh như gió, mỗi quyền nhẹ nhưng liên tục không ngừng. Điểm mạnh là tốc độ và sự linh hoạt, nhược điểm là sức mạnh từng đòn yếu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Viên Bá Thiên:** Thánh Tướng và cũng là sư huynh, hắn bị dẫn đi tỉ thí khắp nơi.
+- **Lang Bạch Nha:** Đối thủ cùng thế hệ, hai người hay tỉ thí và là bạn tốt.
+- **Ưng Hồng Sí:** Chiến sĩ Vũ Tộc mà hắn ngưỡng mộ vì sự kiên cường.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Viên Kim Phong sinh ra trên cành cây cao nhất khu rừng viên tộc, suýt rơi xuống đất ngay khi chào đời nhưng bản năng nắm cành cứu mạng. Từ nhỏ, hắn đã nhanh nhẹn hơn mọi vượn cùng lứa, nhảy từ cành này sang cành khác mà không bao giờ rơi. Được Viên Bá Thiên nhận làm đệ và huấn luyện chiến đấu, hắn nhanh chóng trở thành chiến sĩ trẻ triển vọng nhất viên tộc. Mục tiêu của hắn là vượt qua sư huynh và trở thành Thánh Tướng.

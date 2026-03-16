@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Kỹ Viện Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Thông tin là vũ khí, sắc đẹp là bẫy
+Hồ Ngọc Nhan mang nhân hình một thiếu nữ tuyệt sắc, khuôn mặt trứng ngỗng với làn da ngọc, hai chiếc đuôi hồ trắng muốt mềm mại cuộn sau lưng. Đôi mắt to tròn trong veo như pha lê nhưng ẩn chứa chiều sâu khó dò, luôn mặc y phục lụa nhẹ nhàng thanh nhã, đeo vòng tay ngọc phỉ thúy. Ngoại hình trẻ trung vô hại nhưng thực tế đã sống hơn hai trăm năm. Tính cách khéo léo tinh tế, giỏi nắm bắt tâm lý người khác, biết dùng sắc đẹp như vũ khí nhưng không bao giờ để bản thân sa vào tình cảm.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đạt cảnh giới Kim Đan Sơ Kỳ, Hồ Ngọc Nhan tu luyện "Ngọc Nhan Hoặc Thế Thuật" (玉颜惑世术) — biến hóa ngoại hình theo ý muốn và tạo ảo giác thị giác khiến mục tiêu nhìn thấy thứ mình mong muốn nhất. Tuyệt kỹ "Ngọc Tỏa Tâm Phòng" (玉锁心房) phong ấn cảm xúc và ký ức của mục tiêu, khiến họ trở nên ngoan ngoãn và dễ bảo. Điểm mạnh là thao túng tâm lý và thu thập tình báo thông qua mạng lưới kỹ viện, nhược điểm là sức chiến đấu yếu và phụ thuộc vào sự bảo vệ của người khác.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hồ Diễm Nương:** Đồng tộc hồ ly coi như chị gái, hai người hợp tác chia sẻ mạng lưới tình báo, nàng phụ trách giới thượng lưu.
+- **Hồ Thất Cửu:** Thành Chủ mà nàng phụng sự, cung cấp thông tin về giới quyền quý và tu sĩ cấp cao.
+- **Xà Hồng Tín Tử:** Gián điệp mà nàng thường xuyên hợp tác, sử dụng kỹ viện làm nơi gặp mặt bí mật.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hồ Ngọc Nhan từng là con gái nuôi của một phú hào Nhân Tộc, lớn lên trong nhung lụa nhưng bí mật che giấu thân phận yêu tộc. Khi bị phát giác, nàng bị truy sát và suýt mất mạng, từ đó hiểu rằng sắc đẹp vừa là lợi thế vừa là tai họa. Trốn đến Vạn Yêu Thành, nàng được Hồ Diễm Nương giúp đỡ và cùng nhau xây dựng kỹ viện cao cấp nhất thành — nơi tiếp đón giới quyền quý và tu sĩ có thân phận, thu thập bí mật từ những cuộc trò chuyện thân mật. Hiện tại, nàng đang bí mật liên lạc với một thế lực bên ngoài Đông Hoang, chưa ai biết mục đích thật sự là gì — kể cả Hồ Thất Cửu.

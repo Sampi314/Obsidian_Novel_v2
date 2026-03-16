@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Triệu Linh Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Triệu hồi linh thú bảo vệ rừng thiêng
+Linh Vũ là một Tinh Linh gần gũi thiên nhiên hơn cả, mái tóc xanh rêu rối bù cài đầy lông chim và lá, đôi mắt xanh sáng luôn nhìn lên bầu trời. Luôn mang theo chiếc sáo xương chim, trang phục giản dị may từ lá cây. Tính cách tự do, yêu thú vật hơn Tinh Linh, hay biến mất vào rừng sâu hàng tuần để sống cùng linh thú.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Triệu Linh Sư cảnh giới Kim Đan Trung Kỳ, Linh Vũ tu luyện "Linh Thú Tâm Ấn" (灵兽心印) — kết nối tâm trí với linh thú, triệu hồi chúng chiến đấu hoặc hỗ trợ. Tuyệt kỹ "Vạn Thú Triệu Hoán" (万兽召唤) gọi về hàng trăm linh thú rừng cùng lúc tạo thành đội quân. Điểm mạnh là chỉ huy linh thú và trinh sát qua mắt thú, nhược điểm là bản thân chiến đấu yếu và phụ thuộc vào linh thú.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoa Ngọc Lan:** Nhạc Sư, tiếng đàn giúp hắn an ủi linh thú bị thương.
+- **Lục Thanh:** Trinh Sát Trưởng, hai người phối hợp — Linh Vũ dùng linh thú, Lục Thanh dùng tai mắt.
+- **Hoa Vũ:** Cung Thủ, đôi khi phối hợp tấn công với linh thú.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Linh Vũ sinh ra giữa đàn chim trong rừng, được chim mẹ ấp ủ cùng chim non trước khi cha mẹ Tinh Linh tìm thấy. Từ nhỏ, hắn đã có khả năng giao tiếp với mọi loài thú, khiến ngay cả thú dữ cũng ngoan ngoãn. Được Vương Đình bổ nhiệm Triệu Linh Sư để quản lý và bảo vệ hệ sinh thái rừng thiêng. Bí mật của hắn là đã phát hiện nhiều loài linh thú đang âm thầm rời rừng — dấu hiệu bất thường mà hắn chưa giải thích được.

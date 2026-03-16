@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Chiến Sĩ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Cánh đỏ như máu, mỗi trận chiến về thêm đỏ thêm một lớp
+Ưng Hồng Sí là một Vũ Tộc đại bàng cánh đỏ, lông đỏ rực ngày càng thẫm sau mỗi trận chiến vì nhuốm máu kẻ thù. Khi hóa hình người, hắn là một thanh niên gầy gò, mắt đỏ lửa, tóc đỏ bù xù, luôn mặc áo chiến nhuộm máu khô. Tính cách trầm lặng nhưng khi chiến đấu thì điên cuồng, coi mỗi trận chiến là cách chuộc tội cho quá khứ.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Chiến Sĩ Vũ Tộc cảnh giới Kim Đan Hậu Kỳ, Ưng Hồng Sí tu luyện "Hồng Sí Huyết Chiến Công" (红翅血战功) — mỗi giọt máu kẻ thù dính trên cánh tăng cường sức mạnh và tốc độ. Tuyệt kỹ "Huyết Vũ Cuồng Phong" (血羽狂风) xoay tròn tạo bão lông vũ đỏ cắt nát mọi thứ. Điểm mạnh là càng đánh càng mạnh và tốc độ bay chiến đấu, nhược điểm là phụ thuộc vào việc dính máu nên gặp đối thủ không chảy máu thì yếu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Ưng Thương Thiên:** Chiến Tướng đồng tộc, người hắn theo sau trên mọi chiến trường.
+- **Hổ Cuồng Phong:** Thánh Tướng hay giao nhiệm vụ tiên phong cho hắn vì tin tưởng sự liều lĩnh.
+- **Lang Bạch Nha:** Chiến sĩ trẻ cùng thế hệ, hai người hay tỉ thí thân thiện.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ưng Hồng Sí vốn sinh ra trong Vũ Hoàng Các với cánh trắng tinh, nhưng bị đuổi cùng Ưng Thương Thiên sau sự cố bạo lực. Ban đầu cánh hắn trắng như mọi Vũ Tộc, nhưng sau khi theo Thương Thiên vào Thiên Yêu Đình, mỗi trận chiến khiến máu kẻ thù nhuộm cánh hắn đỏ thẫm dần. Hắn mang mặc cảm tội lỗi về quá khứ bạo lực ở Vũ Hoàng Các, nhưng đã chấp nhận số phận chiến sĩ. Ước mơ giấu kín là một ngày cánh sẽ trở lại trắng tinh.

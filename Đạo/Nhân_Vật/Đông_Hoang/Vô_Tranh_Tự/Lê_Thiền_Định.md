@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lê Thiền Định dáng người nhỏ gọn, mặt phẳng lặng như mặt nước, mắt thường xuyên nhắm, ngồi kiết già bất động suốt ngày. Mặc cà sa nâu sẫm, tay đặt trên đùi. Tính cách tĩnh lặng tuyệt đối, ít nói đến mức nhiều người quên hắn có thể nói, nhưng khi mở miệng thì mỗi câu đều là chân lý.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Trưởng Lão cảnh giới Nguyên Anh Trung Kỳ, Lê Thiền Định tu luyện "Thiền Định Bất Động Công" (禅定不动功) — nhập thiền sâu đến mức ngoại vật không thể lay chuyển. Tuyệt kỹ "Định Hải Thần Tâm" (定海神心) phóng ra trường lực tinh thần khiến mọi thứ xung quanh ngừng lại. Điểm mạnh là thiền định và tinh thần lực cực mạnh, nhược điểm là cần thời gian nhập định và không giỏi cận chiến.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Vô Tướng:** Thái Thượng Trưởng Lão mà hắn ngưỡng mộ cảnh giới vô tướng.
+- **Nguyễn Bát Nhã:** Hộ Pháp, hai người hay thiền định cùng nhau.
+- **Lý Vô Nhai:** Phương Trượng, hắn phò tá bằng thiền lực.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lê Thiền Định từ nhỏ đã có tật không thể tập trung — tâm trí luôn dao động. Hắn gia nhập Vô Tranh Tự để tìm cách chữa trị và phát hiện rằng thiền định phật pháp có thể kiểm soát tâm trí. Hắn luyện thiền đến mức cực đoan, ngồi yên một chỗ suốt mười năm liền không đứng dậy. Sự kiện nổi tiếng là khi hắn ngồi thiền giữa trận động đất mà không hề lay chuyển, phật lực tỏa ra ổn định cả khu vực. Hiện tại, hắn là trụ cột thiền lực của tự viện.

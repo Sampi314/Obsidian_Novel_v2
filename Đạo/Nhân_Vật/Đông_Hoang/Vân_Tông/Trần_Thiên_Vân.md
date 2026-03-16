@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trần Thiên Vân mang phong thái điềm tĩnh, mặt vuông, mắt sáng kiên quyết, tóc đen pha bạc buộc gọn. Mặc áo trắng chỉnh tề, cầm kiếm và quạt. Tính cách cẩn trọng, giỏi chiến lược, là bộ não quân sự của Vân Tông.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Trưởng Lão cảnh giới Nguyên Anh Trung Kỳ, Trần Thiên Vân tu luyện "Thiên Vân Biến Hóa Kiếm" (天云变化剑) — kiếm pháp biến ảo theo chiến thuật, thích ứng mọi tình huống. Tuyệt kỹ "Vân Trận Thiên Biến" (云阵千变) kết hợp kiếm pháp và trận pháp mây, biến đổi liên tục. Điểm mạnh là chiến thuật và thích ứng, nhược điểm là sức mạnh đơn lẻ không bằng kiếm sĩ thuần túy.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lê Vân Sơn:** Đồng liêu, hay tranh luận về chiến lược phòng thủ.
+- **Đặng Vân Hải:** Hộ Pháp mà hắn phối hợp lên kế hoạch chiến đấu.
+- **Lý Vân Thiên:** Tông Chủ, hắn là cố vấn chiến lược chính.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Thiên Vân vốn là mưu sĩ quân đội trước khi gia nhập Vân Tông, mang theo tư duy chiến lược vào tu tiên. Hắn phát triển kiếm pháp kết hợp binh pháp, biến mỗi trận đánh thành ván cờ. Sự kiện nổi tiếng nhất là khi hắn bày mười tám trận pháp mây đánh lui đoàn quân ma tu mà không tổn thất một người. Hiện tại, hắn đang thiết kế hệ thống phòng thủ mới cho Vân Tông.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Hộ Pháp.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Nguyễn Thiên Kiếm dáng người cao, gầy, thẳng như thanh kiếm, mắt sắc như lưỡi dao, mái tóc đen dài buộc gọn. Luôn mang thanh kiếm trắng trên lưng, khí chất sắc bén đến mức người đứng gần cảm thấy đau. Tính cách nghiêm khắc, ít nói, sống cho kiếm đạo và coi kiếm là bạn đời duy nhất.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Hộ Pháp cảnh giới Hóa Thần Sơ Kỳ, Nguyễn Thiên Kiếm tu luyện "Thiên Kiếm Nhất Khí" (天剑一气) — toàn bộ linh lực tập trung vào một kiếm, sức mạnh xuyên thấu mọi phòng ngự. Tuyệt kỹ "Nhất Kiếm Khai Thiên" (一剑开天) phóng ra một kiếm xẻ đôi bầu trời. Điểm mạnh là kiếm đạo đơn thuần mạnh nhất Vân Tông, nhược điểm là chỉ biết kiếm, thiếu linh hoạt trước đối thủ đa dạng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Vân Thiên:** Tông Chủ, hắn tôn là kiếm đạo tối thượng mà hắn hướng tới.
+- **Vũ Thanh Phong:** Trưởng Lão Kiếm Đỉnh, đồng liêu kiếm đạo, hay tỉ kiếm.
+- **Phạm Vân Kiếm:** Đệ tử mà hắn đánh giá có tiềm năng kế thừa kiếm đạo.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Nguyễn Thiên Kiếm sinh ra cầm thanh kiếm gỗ — câu chuyện truyền kỳ mà ai cũng biết trong Vân Tông. Hắn dành mọi thời gian tu luyện kiếm đạo, từ chối mọi chức vụ cho đến khi Tông Chủ đích thân mời làm Hộ Pháp. Sự kiện nổi tiếng nhất là một kiếm chém đứt đôi ngọn núi khi thử kiếm mới. Mục tiêu duy nhất là đạt cảnh giới "Kiếm Đạo Vô Thượng".

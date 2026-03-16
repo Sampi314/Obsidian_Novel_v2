@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Đấu Sĩ Hạng Nhất.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Vô địch đấu trường 30 năm liền
+Hổ Thiết Quyền mang nhân hình một thanh niên cường tráng, cơ bắp cuồn cuộn lộ rõ dưới lớp da ngăm vằn hổ đen, đôi tay to lớn bất thường với đốt ngón chai sần do đánh quyền suốt đời. Khuôn mặt vuông vức với sẹo ngang mũi, đôi mắt hổ phách rực lửa chiến ý, nanh hổ nhô ra mỗi khi hưng phấn. Thường xuyên cởi trần chỉ mặc quần đấu, trên ngực xăm hình hổ gầm bằng linh mực. Tính cách đơn giản thẳng thắn, chỉ tin vào nắm đấm, coi đấu trường là thánh địa và mọi vấn đề đều giải quyết bằng chiến đấu.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đạt cảnh giới Kim Đan Sơ Kỳ, Hổ Thiết Quyền tu luyện "Thiết Hổ Quyền Kinh" (鐵虎拳经) — cường hóa đôi tay thành vũ khí cứng như huyền thiết, mỗi quyền đều mang sức nặng ngàn cân. Tuyệt kỹ "Bách Kích Liên Hoàn Quyền" (百击连环拳) phóng ra hàng trăm quyền ảnh liên tiếp không ngừng, mỗi đòn sau mạnh hơn đòn trước. Điểm mạnh là sức mạnh cận chiến và sức chịu đòn phi thường, nhược điểm là không biết dùng pháp thuật tầm xa và dễ bị khống chế bởi kẻ có tốc độ vượt trội.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hổ Huyết Vương:** Đấu Trường Chủ, hắn coi như chủ nhân và mục tiêu vượt qua, mong một ngày đánh bại trên đấu trường.
+- **Hổ Phá Quân:** Đàn anh cựu đấu sĩ, hắn kính trọng và thường xuyên đến thăm, lắng nghe kinh nghiệm chiến đấu.
+- **Lang Cô Nha Hàn:** Đối thủ trên đấu trường mà hắn nể phục vì phong cách chiến đấu khác biệt.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hổ Thiết Quyền sinh ra trong một bộ lạc hổ nhỏ, từ nhỏ đã nổi tiếng đánh nhau giỏi nhất lứa. Khi nghe tin về Đấu Trường Vạn Yêu Thành, hắn lập tức bỏ bộ lạc đến thành với ước mơ duy nhất: trở thành vô địch. Bước lên đấu trường từ đáy xếp hạng, hắn đánh bại mọi đối thủ bằng nắm đấm thuần túy, giữ vững danh hiệu đấu sĩ hạng nhất suốt ba mươi năm liền. Hổ Huyết Vương rất hài lòng và cho hắn mọi đặc quyền. Hiện tại, hắn đang bắt đầu cảm nhận thể xác chạm giới hạn, biết rằng nếu không đột phá tu vi thì sớm muộn sẽ bị kẻ trẻ hơn vượt qua, nhưng hắn từ chối dùng đan dược hỗ trợ vì coi đó là sự yếu đuối.

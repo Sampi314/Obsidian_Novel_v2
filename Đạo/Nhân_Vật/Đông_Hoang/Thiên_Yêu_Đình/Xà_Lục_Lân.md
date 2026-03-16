@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Xà Tộc Chiến Sĩ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Vảy xanh cứng hơn sắt, nọc độc phi thường
+Xà Lục Lân trong hình dạng yêu thú là một con rắn xanh lục, vảy cứng sáng bóng như ngọc bích, thân tuy không to nhưng nhanh nhẹn phi thường. Khi hóa hình người, hắn là một thanh niên da xanh nhạt, mắt rắn dọc xanh lục, cử chỉ nhanh và chính xác. Tính cách trầm lặng, trung thành, ít biểu cảm nhưng khi nhận lệnh thì thi hành triệt để.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Xà Tộc Chiến Sĩ cảnh giới Kim Đan Trung Kỳ, Xà Lục Lân tu luyện "Lục Lân Cường Giáp Thuật" (绿鳞强甲术) — cường hóa vảy xanh cứng hơn sắt, chống được đòn tấn công vật lý cấp Kim Đan. Tuyệt kỹ "Mãng Xà Phệ Nguyệt" (蟒蛇吞月) — bất ngờ mở rộng hàm nuốt chửng mục tiêu, kết hợp nọc độc. Điểm mạnh là phòng ngự tốt và nọc độc mạnh, nhược điểm là máu lạnh nên thời tiết lạnh làm giảm sức chiến đấu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Xà Độc Vương:** Thánh Tướng và cũng là chủ nhân, hắn tuyệt đối phục tùng mệnh lệnh.
+- **Xà Thủy Huyền:** Thủy Yêu Vương mà hắn tôn kính, là thủ lĩnh tối cao của Xà Tộc.
+- **Mãng Hắc Vân:** Mãng Bộ Lạc Trưởng, đồng tộc bò sát, đôi khi phối hợp tuần tra.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Xà Lục Lân sinh ra trong ổ rắn xanh giữa rừng tre, nơi tre và rắn cộng sinh. Hắn sống tĩnh lặng và tu luyện kiên trì, không có khát vọng lớn nhưng trung thành tuyệt đối. Được Xà Độc Vương chọn làm cánh tay phải vì sự đáng tin cậy và vảy xanh có thể chống lại phần lớn nọc độc — kỹ năng quý giá khi ở cạnh kẻ độc nhất Đình. Mục tiêu hiện tại là bảo vệ chủ nhân và hoàn thiện kỹ thuật cường hóa vảy.

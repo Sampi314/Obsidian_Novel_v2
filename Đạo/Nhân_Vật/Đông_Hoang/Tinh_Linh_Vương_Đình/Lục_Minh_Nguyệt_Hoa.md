@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Y Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Danh y cung đình, chữa thương bằng nhạc
+Lục Minh Nguyệt Hoa là một Tinh Linh nhẹ nhàng, mái tóc xanh nhạt dài, đôi mắt xanh dịu dàng luôn mang vẻ lo lắng cho bệnh nhân. Tay nàng luôn tỏa ánh sáng xanh chữa lành, trang phục trắng xanh sạch sẽ. Tính cách nhân hậu, kiên nhẫn, không bao giờ từ chối ai cần giúp đỡ, dù phải thức trắng đêm.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Y Sư cảnh giới Kim Đan Sơ Kỳ, Lục Minh Nguyệt Hoa tu luyện "Nguyệt Hoa Liệu Thương Khúc" (月花疗伤曲) — dùng giai điệu và linh khí mộc hệ chữa lành mọi vết thương vật lý và tinh thần. Tuyệt kỹ "Minh Nguyệt Hồi Xuân" (明月回春) tạo vùng chữa trị diện rộng, hồi phục nhiều người cùng lúc. Điểm mạnh là y thuật và hỗ trợ vô song, nhược điểm là hoàn toàn không có năng lực chiến đấu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Linh Dao Hoa:** Đan Dược Sư, nàng kê đơn và Dao Hoa bào chế — cặp đôi y dược.
+- **Hoa Tuyết:** Thị vệ mà nàng từng cứu mạng sau vụ trúng tên độc.
+- **Hoa Tử Yên:** Vườn Thần Quản Lý, cung cấp dược liệu chữa bệnh.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lục Minh Nguyệt Hoa sinh ra với khả năng chữa lành bẩm sinh — chạm tay vào đâu cây cỏ nở hoa. Nàng được đào tạo y thuật từ nhỏ và trở thành y sư cung đình trẻ nhất Vương Đình. Sự kiện nổi tiếng nhất là khi nàng cứu sống Hoa Tuyết bằng cách chữa trị liên tục ba ngày đêm không ngủ. Nỗi lo hiện tại là ngày càng nhiều Tinh Linh mắc một chứng bệnh lạ mà nàng không giải thích được — linh lực suy yếu dần dù không có vết thương.

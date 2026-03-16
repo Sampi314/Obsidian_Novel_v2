@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trộm Cắp Vương.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Đánh cắp bất cứ thứ gì, bất cứ nơi đâu
+Thử Thiên Đạo mang nhân hình một thiếu niên nhỏ thó nhanh nhẹn, khuôn mặt nhọn với đôi mắt chuột đen láy liên tục đảo quanh tìm kiếm cơ hội. Mũi nhỏ hay hít hít, tai to vểnh lên bắt mọi tiếng động, bàn tay nhỏ nhưng ngón cực kỳ linh hoạt. Mặc y phục nâu xám nhiều túi giấu đầy công cụ trộm cắp, di chuyển lom khom sát tường, biến mất trong nháy mắt ở bất kỳ góc phố nào. Tính cách hám lợi tham lam nhưng lại có nguyên tắc kỳ lạ — chỉ trộm của kẻ giàu và ác, không bao giờ lấy của người nghèo.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đạt cảnh giới Trúc Cơ Viên Mãn, Thử Thiên Đạo tu luyện "Thiên Đạo Thu Tàng Thuật" (千盜收藏术) — thu nhỏ và cất giấu bất kỳ vật thể nào trong không gian túi không đáy, đồng thời di chuyển qua khe hở nhỏ nhất bằng cách biến thành chuột. Tuyệt kỹ "Thần Thâu Vạn Vật" (神偷万物) đánh cắp một vật từ tay đối phương mà ngay cả tu sĩ Nguyên Anh cũng không phát hiện. Điểm mạnh là đạo thuật và khả năng ẩn thân trong không gian chật hẹp, nhược điểm là sức chiến đấu gần như không có, chạy là bản năng đầu tiên.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Nha Thiên Mục:** Đối tác, hắn cung cấp vị trí kho báu để Thiên Đạo đi trộm, chia nhau lợi nhuận.
+- **Hồ Thất Cửu:** Thành Chủ, hắn sợ nhất người này vì biết hồ ly bảy đuôi biết rõ mọi vụ trộm nhưng nhắm mắt cho qua.
+- **Điêu Hương Phong:** Khách hàng bán lại tang vật trộm cắp, nàng mua giá rẻ rồi bán lại giá cao.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Thử Thiên Đạo sinh ra là chuột đồng bé nhỏ, khai mở linh trí do lâu năm sống gần mạch linh thạch ngầm. Bản năng tích trữ của loài chuột kết hợp trí thông minh mới biến hắn thành tên trộm thiên tài — hắn có thể đột nhập bất kỳ nơi nào và lấy bất kỳ thứ gì mà không ai hay. Đến Vạn Yêu Thành, hắn phát hiện đây là thiên đường cho nghề trộm vì có vô số kho báu nhưng lại không có ai thèm truy đuổi một con chuột nhỏ. Hiện tại, hắn vừa đánh cắp được một cổ vật bí ẩn từ kho của một thương nhân lớn, nhưng cổ vật đó bắt đầu phát ra tiếng gọi kỳ lạ trong đêm khiến hắn không ngủ được và không dám bỏ đi.

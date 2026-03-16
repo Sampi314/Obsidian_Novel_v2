@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Nhạc Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Tiếng đàn lay động cả thú dữ Đông Hoang
+Hoa Ngọc Lan là một Tinh Linh nhỏ nhắn, thanh tú, mái tóc trắng ngọc dài buông, đôi mắt xanh nhạt dịu dàng và đôi tay thon dài hoàn hảo cho việc đánh đàn. Luôn mặc áo trắng giản dị, mang theo cây đàn ngọc bích khắc hoa lan. Tính cách nhẹ nhàng, nhạy cảm, dùng âm nhạc để biểu đạt cảm xúc vì quá nhút nhát để nói.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Nhạc Sư cảnh giới Trúc Cơ Viên Mãn, Hoa Ngọc Lan tu luyện "Ngọc Lan Thanh Âm Quyết" (玉兰清音诀) — dùng tiếng đàn điều khiển linh khí, chữa trị hoặc tấn công. Tuyệt kỹ "Bách Thú An Nhiên" (百兽安然) — khúc nhạc an ủi khiến mọi sinh vật hung dữ trở nên hiền hòa. Điểm mạnh là âm công hỗ trợ và chữa trị tinh thần, nhược điểm là tu vi thấp và hoàn toàn không thể chiến đấu trực diện.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Nguyệt Vũ:** Công Chúa thường yêu cầu nàng đàn giải khuây, hai người có tình bạn nhẹ nhàng.
+- **Vân Hà:** Thư Viện Trưởng, nàng hay chơi đàn cho Vân Hà nghe khi ghi chép.
+- **Linh Vũ:** Triệu Linh Sư, tiếng đàn của nàng giúp Linh Vũ an ủi linh thú.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoa Ngọc Lan sinh ra giữa rừng hoa lan trắng, tiếng khóc chào đời nghe như tiếng đàn. Nàng phát hiện tài năng âm nhạc khi vô tình đánh đàn khiến cả rừng thú dữ nằm ngoan ngoãn. Dù tu vi thấp, nàng được Vương Đình trân trọng vì âm nhạc có thể chữa lành vết thương tinh thần cho các chiến binh sau trận đánh. Ước mơ của nàng là sáng tác một khúc nhạc có thể lay động cả Cây Thế Giới.

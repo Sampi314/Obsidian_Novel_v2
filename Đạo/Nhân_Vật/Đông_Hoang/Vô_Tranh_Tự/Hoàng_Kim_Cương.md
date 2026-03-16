@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Hộ Pháp La Hán Đường.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Hoàng Kim Cương là một đại hán cạo trọc, cao to vạm vỡ, da đồng bóng loáng, cơ bắp cuồn cuộn. Mặt dữ dằn nhưng mắt sáng hiền lành, toàn thân tỏa ánh vàng kim. Mặc cà sa chiến đấu để lộ cánh tay, cầm thiền trượng sắt. Tính cách hào sảng, nói to, thích luyện võ hơn đọc kinh.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Hộ Pháp La Hán Đường cảnh giới Nguyên Anh Đỉnh Phong, Hoàng Kim Cương tu luyện "Kim Cương La Hán Thể" (金刚罗汉体) — đạt thân kim cương bất hoại, đao thương bất nhập. Tuyệt kỹ "Kim Cương Phục Ma Quyền" (金刚伏魔拳) — mỗi quyền mang phật lực trấn áp, đặc biệt hiệu quả với tà ma. Điểm mạnh là sức mạnh vật lý và phòng ngự tuyệt đối, nhược điểm là chậm chạp và không giỏi pháp thuật tầm xa.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Vô Nhai:** Phương Trượng, hắn bảo vệ bằng nắm đấm để Phương Trượng yên tâm thiền định.
+- **Nguyễn Bát Nhã:** Đồng liêu Hộ Pháp, hai người phối hợp — Kim Cương đấm, Bát Nhã phong.
+- **Vũ Giới Luật:** Giới Luật Viện Trưởng, hay nhắc nhở hắn nói nhỏ trong chùa.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Kim Cương vốn là đấu sĩ giang hồ, tính nóng nảy hay đánh nhau. Hắn vô tình lạc vào Vô Tranh Tự khi bị truy sát, được Phương Trượng cứu mạng và cảm hóa. Quy y phật pháp nhưng không bỏ được thói đánh đấm, nên được sắp xếp vào La Hán Đường — nơi võ tăng chính đáng đánh ma. Sự kiện nổi tiếng là khi hắn một quyền đánh bay ma tu cấp Nguyên Anh ra khỏi cổng chùa. Hiện tại, hắn là lá chắn thép của tự viện.

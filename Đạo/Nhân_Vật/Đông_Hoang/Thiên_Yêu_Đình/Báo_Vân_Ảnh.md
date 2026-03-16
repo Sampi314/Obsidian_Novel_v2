@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Hắc Báo Bộ Lạc Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Tàng hình ban đêm, sát thủ hoàn hảo
+Báo Vân Ảnh trong hình dạng yêu thú là một con báo đen mảnh mai, lông đen tuyền hòa lẫn vào bóng tối hoàn hảo, chỉ để lộ đôi mắt vàng sáng rỡ. Khi hóa hình người, hắn là một trung niên mặt gầy, da ngăm, cử chỉ nhẹ nhàng như mèo, luôn quan sát trước khi hành động. Tính cách thận trọng, coi trọng đồng tộc, lãnh đạo bằng tấm gương hơn là mệnh lệnh.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Hắc Báo Bộ Lạc Trưởng cảnh giới Kim Đan Trung Kỳ, Báo Vân Ảnh tu luyện "Vân Ảnh Tàng Thân" (云影藏身) — hòa nhập hoàn toàn vào bóng tối và mây đen, di chuyển không tiếng động. Tuyệt kỹ "Ám Dạ Liệp Sát" (暗夜猎杀) cho phép hắn tấn công từ bóng tối với tốc độ và độ chính xác tuyệt đối. Điểm mạnh là tàng hình và ám sát ban đêm, nhược điểm là ban ngày sức mạnh giảm sút đáng kể.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Báo Lôi Ảnh:** Thánh Tướng xuất thân từ bộ lạc, hắn coi như huynh đệ kết nghĩa và tự hào vô cùng.
+- **Lang Thiên Dạ Hành:** Đồng minh chiến thuật đêm, hai bộ lạc thường phối hợp tuần tra ban đêm.
+- **Hổ Cuồng Phong:** Thánh Tướng mà hắn tránh xa vì phong cách đánh ồn ào trái ngược triết lý ẩn mình.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Báo Vân Ảnh sinh ra trong đêm không trăng tối nhất năm, được coi là điềm lành của bộ lạc Hắc Báo. Hắn kế thừa vị trí Bộ Lạc Trưởng từ cha sau khi bộ lạc bị một nhóm thợ săn Nhân Tộc tấn công bất ngờ ban ngày — khi báo đen yếu nhất. Bài học đau thương đó khiến hắn tập trung xây dựng hệ thống canh gác ban ngày và huấn luyện bộ lạc chiến đấu cả dưới ánh mặt trời. Hiện tại, hắn đang giúp Báo Lôi Ảnh nghiên cứu cách dung hợp lôi lực vào huyết mạch báo đen.

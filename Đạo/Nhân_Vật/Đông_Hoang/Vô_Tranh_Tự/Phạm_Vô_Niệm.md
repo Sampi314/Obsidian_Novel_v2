@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Thái Thượng Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phạm Vô Niệm là một lão tăng gầy gò, mặt khô khốc, mắt nhắm hẳn, ngồi bất động trong tư thế kiết già. Da nhăn nheo nhưng tỏa ra uy áp vô hình. Mặc cà sa cũ kỹ bạc màu. Tính cách tịch mịch, đã đạt cảnh giới "Vô Niệm" — không còn suy nghĩ phàm tục, chỉ phật tâm thuần túy.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Thái Thượng Trưởng Lão cảnh giới Luyện Hư Sơ Kỳ, Phạm Vô Niệm tu luyện "Vô Niệm Tâm Kinh" (无念心经) — tâm pháp xóa bỏ mọi tạp niệm, đạt trạng thái giác ngộ. Tuyệt kỹ "Vô Niệm Phật Ấn" (无念佛印) — một chưởng mang phật lực thuần túy, phong ấn mọi tà thuật. Điểm mạnh là tâm pháp phòng ngự tinh thần bất khả xâm phạm, nhược điểm là quá tịch mịch nên hiếm khi hành động.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Vô Nhai:** Phương Trượng, sư đệ mà hắn tin tưởng giao phó mọi việc.
+- **Trần Vô Tướng:** Đồng liêu, hai người ẩn tu cùng nhau ngàn năm.
+- **Nguyễn Bát Nhã:** Hộ Pháp, đệ tử trực tiếp mà hắn truyền thụ tâm pháp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phạm Vô Niệm đã ngồi thiền liên tục hơn năm trăm năm không đứng dậy, đạt cảnh giới "Vô Niệm" mà hầu hết tăng lữ chỉ nghe nói trong truyền thuyết. Trước khi ẩn tu, hắn từng dẫn đầu cuộc chiến trấn áp Huyết Ma Tông, phong ấn hàng trăm ma tu. Sự kiện nổi tiếng nhất là hắn dùng một chưởng Phật Ấn phong ấn cửa Đạt Ma Viện nơi giam Ma Quân. Dù thân xác gần như hóa đá, ý thức hắn vẫn minh mẫn và có thể thức tỉnh khi tự viện lâm nguy.

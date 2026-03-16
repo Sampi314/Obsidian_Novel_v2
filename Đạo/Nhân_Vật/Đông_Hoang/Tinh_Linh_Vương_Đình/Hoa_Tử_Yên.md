@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Vườn Thần Quản Lý.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Canh giữ vườn linh thảo hoàng cung
+Hoa Tử Yên là một Mộc Tinh Linh, da phủ sắc tím nhạt, tóc tím dài cuộn như dây hoa, luôn mang theo giỏ đan bằng rễ cây chứa đầy hạt giống và cây con. Đôi mắt tím sáng dịu dàng, tay luôn lấm đất vì chăm sóc cây cối. Tính cách ân cần, kiên nhẫn, coi mỗi cây cỏ trong vườn như con cái và bảo vệ chúng bằng mọi giá.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Vườn Thần Quản Lý cảnh giới Kim Đan Viên Mãn, Hoa Tử Yên tu luyện "Linh Thảo Bách Hoa Quyết" (灵草百花诀) — điều khiển cây cối sinh trưởng theo ý muốn, biến cả vườn thành vũ khí sống. Tuyệt kỹ "Vạn Hoa Tề Phóng" (万花齐放) khiến vạn hoa nở cùng lúc, tung ra phấn hoa chứa linh lực gây mê hoặc chữa trị. Điểm mạnh là chăm sóc và phát triển linh thảo vô song, nhược điểm là chiến đấu không phải sở trường, phụ thuộc vào vườn.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Linh Ngọc Thụ Tâm:** Đồng nghiệp chăm sóc hệ thực vật, hai người phối hợp ăn ý.
+- **Linh Dao Hoa:** Đan Dược Sư lấy nguyên liệu từ vườn, quan hệ cung — cầu thân thiện.
+- **Lục Minh Nguyệt Hoa:** Y Sư sử dụng dược liệu nàng trồng để chữa bệnh.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoa Tử Yên sinh ra giữa vườn hoa hoàng cung, hít thở hương hoa từ hơi thở đầu tiên. Nàng được giao quản lý Vườn Thần từ khi còn trẻ, nhanh chóng biến nó từ vườn linh thảo bình thường thành kho tài nguyên phong phú nhất Vương Đình. Sự kiện đáng nhớ nhất là khi nàng cứu sống một giống hoa cổ đại tưởng đã tuyệt chủng, khôi phục nguồn nguyên liệu cho đan dược quý. Hiện tại, nàng lo lắng rằng một số loài cây trong vườn đang chết dần không rõ nguyên nhân — có thể liên quan đến sự suy yếu của Cây Thế Giới.

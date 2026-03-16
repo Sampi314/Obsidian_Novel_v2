@@ -29,10 +29,12 @@ arcs:
 Hát bài ca phương Nam, ai nghe đều nhớ nhà
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Oanh Nam Ca sở hữu giọng hót trầm ấm, thiên về phòng thủ và hỗ trợ. Chiêu thức chính là **Nam Phương Hương Tư Điệu** (南方鄉思調) — bài ca chứa linh lực gợi nhớ quê hương, khiến đối phương mất chiến ý, buông vũ khí mà không hay biết. Khi phối hợp cùng anh trai, hắn thi triển **Song Oanh Hợp Thanh** (雙鶯合聲) — hài âm nhị trùng khiến sóng âm tăng gấp ba lần uy lực. Nhược điểm là tu vi còn thấp, độc chiến rất dễ bị áp đảo.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Oanh Lâm Ca:** Anh trai ruột, người bảo vệ và dẫn dắt hắn từ nhỏ. Nam Ca kính trọng anh nhưng cũng muốn tự chứng minh bản thân.
+- **Oanh Thúy Thanh:** Chị họ, thường nhờ Nam Ca hát dẫn dụ khi nàng cần vượt qua vùng nguy hiểm để truyền tin.
+- **Yến Thanh Tốc:** Bạn bè cùng trang lứa, hay cùng nhau lang thang khắp rừng già. Thanh Tốc thường trêu chọc giọng hát "ủy mị" của Nam Ca.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Oanh Nam Ca sinh ra cùng tổ với anh trai Lâm Ca trong rừng già Nam Cương. Khác với anh, Nam Ca tính tình mềm mỏng, thích hát những bài ca buồn hơn là chiến đấu. Khi tộc Oanh bị tà tu tàn phá rừng, hắn còn quá nhỏ để chiến đấu, chỉ biết bám theo anh chạy trốn — ký ức đó ám ảnh hắn đến tận bây giờ. Hắn luôn tự trách mình yếu đuối, nên âm thầm luyện tập không ngừng nghỉ để một ngày có thể đứng cạnh anh trai thay vì núp sau lưng. Hiện tại hắn đang tìm cách kết hợp giọng hát với trận pháp tự nhiên của rừng già, hy vọng tạo ra một kỹ thuật phòng thủ đủ mạnh để bảo vệ khu rừng mới.

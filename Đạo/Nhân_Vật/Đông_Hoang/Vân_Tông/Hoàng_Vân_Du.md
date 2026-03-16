@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Thái Thượng Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Hoàng Vân Du gần như vô hình, một lão nhân mờ ảo, thân hình bán thực bán hư, lúc ẩn lúc hiện trong mây. Mái tóc trắng hòa lẫn vào sương, mắt bạc trong veo. Tính cách thoát tục, đã đạt cảnh giới "hòa nhập thiên địa", ít khi giao tiếp với người khác.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Thái Thượng Trưởng Lão cảnh giới Luyện Hư Sơ Kỳ, Hoàng Vân Du tu luyện "Vân Du Hóa Hư Công" (云游化虚功) — nhục thân dần hòa vào mây gió, đạt trạng thái nửa vật chất nửa linh thể. Tuyệt kỹ "Hóa Vân Vô Hình" (化云无形) biến toàn bộ bản thân thành mây, bất khả xâm phạm. Điểm mạnh là bất khả tấn công khi ở trạng thái mây và di chuyển tự do, nhược điểm là sức tấn công yếu và đang dần mất đi nhục thân.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Thái Hư:** Tri kỷ ngàn năm, người duy nhất còn nói chuyện thường xuyên.
+- **Lý Vân Thiên:** Tông Chủ, hắn thỉnh thoảng hiện thân ban lời khuyên.
+- **Phạm Hạo Nhiên:** Đồng liêu, người luyện đan duy trì nhục thân cho hắn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Vân Du đã tu luyện trên mây hơn bốn ngàn năm, dần dần hòa nhập với thiên địa đến mức nhục thân đang từ từ biến thành mây. Đây vừa là cảnh giới tu luyện cao siêu vừa là hiểm cảnh — nếu hoàn toàn hóa mây, hắn sẽ mất đi ý thức cá nhân. Sự kiện nổi tiếng nhất là khi hắn biến toàn bộ Vân Tông thành làn khói để né một đòn tấn công cấp Hóa Thần từ ma tu. Hiện tại, hắn đang cân bằng giữa ngộ đạo và giữ lại bản ngã.

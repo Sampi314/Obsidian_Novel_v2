@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Tửu Lâu Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Chủ quán rượu lớn nhất, tai mắt khắp nơi
+Hồ Diễm Nương mang nhân hình một mỹ nhân quyến rũ ngoài ba mươi, thân hình nóng bỏng với làn da trắng mịn, đôi mắt hồ ly mơ màng luôn như đang mời gọi. Ba chiếc đuôi hồ đỏ rực thường xuyên cuộn quanh eo như trang sức, mái tóc đen nhánh xõa dài buộc lỏng bằng dải lụa đỏ. Luôn mặc y phục hở vai gợi cảm, trên người thoang thoảng hương thơm mê đắm. Tính cách nhiệt tình sôi nổi bề ngoài, nhưng bên trong lạnh lùng tính toán, thu thập tin tức từ khách uống say rồi bán cho ai trả giá cao nhất.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đạt cảnh giới Kim Đan Trung Kỳ, Hồ Diễm Nương tu luyện "Diễm Hồ Mê Hồn Thuật" (艳狐迷魂术) — phát tán hương thơm và yêu lực qua giọng nói, khiến người nghe mất cảnh giác và vô tình tiết lộ bí mật. Tuyệt kỹ "Thiên Hoa Túy Mộng" (天花醉梦) pha chế rượu đặc biệt chứa yêu lực, người uống sẽ chìm vào giấc mơ và nói ra mọi thứ trong tiềm thức. Điểm mạnh là thu thập thông tin và thao túng cảm xúc, nhược điểm là sức chiến đấu trực tiếp yếu kém.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hồ Thất Cửu:** Thành Chủ, nàng là tai mắt chính trong thành, cung cấp mọi tin tức quan trọng cho Thất Cửu.
+- **Hồ Ngọc Nhan:** Kỹ Viện Chủ, đồng tộc hồ ly mà nàng coi như chị em, hai người chia sẻ mạng lưới tình báo.
+- **Hồ Tiểu Vũ Nguyệt:** Vũ nương trẻ tài năng mà nàng bảo bọc và đào tạo.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hồ Diễm Nương là hồ ly ba đuôi xuất thân từ một gia tộc hồ nhỏ bị tộc lớn thôn tính. Mất đi chỗ dựa, nàng dùng nhan sắc và trí thông minh lang thang giữa các thế lực, sống bằng nghề bán tin cho đến khi tìm đến Vạn Yêu Thành. Hồ Thất Cửu nhận ra giá trị của nàng và tài trợ mở tửu lâu lớn nhất thành — Túy Yêu Lâu — nơi mọi yêu tu đến uống rượu, nghe nhạc và vô tình để lại thông tin. Nàng biến tửu lâu thành trung tâm tình báo hiệu quả nhất mà không ai nghi ngờ. Hiện tại, nàng đang theo dõi một nhóm khách lạ đến từ ngoài Đông Hoang có hành vi đáng ngờ, nhưng chưa xác định được mục đích thật sự của họ.

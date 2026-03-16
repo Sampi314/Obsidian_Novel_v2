@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Dực Tướng Nam.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vũ Quang Dực sở hữu ba đôi cánh vàng phát sáng, dáng người thanh nhã, tóc vàng kim dài, mắt vàng ấm áp. Mặc áo bào trắng vàng, cầm cung ánh sáng. Tính cách trầm tĩnh, nhân từ, khác biệt với phần lớn Vũ Tộc kiêu ngạo.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Dực Tướng Nam cảnh giới Hóa Thần Sơ Kỳ, Vũ Quang Dực tu luyện "Quang Dực Thánh Tiễn" (光翼圣箭) — bắn mũi tên ánh sáng từ cung quang, tốc độ ánh sáng, xuyên thủng mọi bóng tối. Tuyệt kỹ "Thánh Quang Tẩy Lễ" (圣光洗礼) tịnh hóa vùng đất rộng bằng ánh sáng. Điểm mạnh là tấn công tầm xa và tịnh hóa, nhược điểm là cận chiến yếu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Vũ Lôi Vũ:** Dực Tướng Tây, hai người hay phối hợp — sét và quang.
+- **Vũ Phong Dực:** Dực Tướng Đông, đồng liêu mà hắn kính trọng.
+- **Vũ Tiểu Vũ:** Thường dân mà hắn âm thầm quan tâm, khác với Vũ Hoàng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vũ Quang Dực sinh ra trên Đảo Phù Không phía nam, nơi ánh sáng mặt trời chiếu rọi quanh năm. Hắn là Dực Tướng nhân từ nhất, tin rằng Vũ Tộc nên bảo vệ mặt đất thay vì khinh miệt. Sự kiện quan trọng nhất là khi hắn dùng thánh quang chữa lành vùng đất bị tà khí ô nhiễm. Bí mật là hắn âm thầm giúp đỡ Vũ Tộc Lưu Dân Trại mà không để Vũ Hoàng biết.

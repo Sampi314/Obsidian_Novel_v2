@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Quạ đen thần bí, truyền tin khắp đông hoang
+Nha Huyền Dạ trong hình dạng yêu thú là một con quạ đen khổng lồ, lông đen tuyền không phản chiếu ánh sáng, ba mắt — mắt thứ ba trên trán phát sáng đỏ. Khi hóa hình người, hắn là một trung niên gầy gò mặc áo đen, mũi nhọn, mắt đen sâu thẳm và luôn mang theo một chiếc quạt lông vũ. Tính cách bí ẩn, thích thu thập bí mật của người khác, nói chuyện bằng giọng khàn khàn đầy ẩn ý.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Trưởng Lão cảnh giới Kim Đan Viên Mãn, Nha Huyền Dạ tu luyện "Huyền Nha Vạn Mục" (玄鸦万目) — triệu hồi hàng ngàn con quạ nhỏ làm mắt tai khắp Đông Hoang. Tuyệt kỹ "Ám Dạ Quần Nha" (暗夜群鸦) biến bầy quạ thành đám mây đen bao trùm kẻ thù, mổ xé và che khuất thị giác. Điểm mạnh là mạng lưới giám sát rộng nhất Đình và khả năng truyền tin tức thời, nhược điểm là bản thân chiến đấu yếu và phụ thuộc vào bầy quạ.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hổ Vạn Kiếp:** Yêu Đế, hắn phục vụ bằng cách cung cấp tin tức từ khắp nơi.
+- **Hồ Thanh Lăng:** Đối tác tình báo, hắn thu thập tin bằng quạ, nàng thu thập bằng biến hóa.
+- **Thử Linh Nhĩ:** Thử Tộc Trưởng, mạng lưới tai mắt ngầm phối hợp với mạng lưới quạ của hắn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Nha Huyền Dạ sinh ra trong tổ quạ cổ thụ trên đỉnh núi cao nhất Đông Hoang, nơi có thể nhìn thấy toàn cảnh rừng rậm bên dưới. Từ nhỏ, hắn đã có thói quen quan sát và ghi nhớ mọi thứ nhìn thấy từ trên cao. Sự kiện thay đổi cuộc đời hắn là khi phát hiện một âm mưu phản loạn trong Đình nhờ mạng lưới quạ, báo cáo kịp thời cho Yêu Đế và được phong Trưởng Lão. Bí mật của hắn là bầy quạ không chỉ giám sát kẻ thù mà còn giám sát cả các thành viên Thiên Yêu Đình — hắn biết bí mật của tất cả mọi người.

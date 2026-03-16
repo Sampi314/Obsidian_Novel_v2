@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Thái Thượng Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trần Vô Tướng gần như vô hình, một lão tăng mà sự hiện diện mờ nhạt đến mức người đứng cạnh quên mất hắn ở đó. Mặt phẳng lặng không biểu cảm, mắt xám bạc, đầu trọc. Mặc cà sa xám hòa lẫn vào môi trường. Tính cách thoát tục, đã đạt cảnh giới "Vô Tướng" — không còn chấp nhất vào hình tướng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Thái Thượng Trưởng Lão cảnh giới Luyện Hư Sơ Kỳ, Trần Vô Tướng tu luyện "Vô Tướng Kim Thân" (无相金身) — biến nhục thân thành phật thân vô tướng, không bị bất kỳ pháp thuật nào khóa mục tiêu. Tuyệt kỹ "Vô Tướng Phật Chưởng" (无相佛掌) — chưởng không hình không tướng, đối thủ không thể phát hiện cho đến khi trúng đòn. Điểm mạnh là hoàn toàn vô hình vô tướng, nhược điểm là sức tấn công không đủ mạnh đối với cường giả đồng cấp.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Phạm Vô Niệm:** Đồng liêu ẩn tu ngàn năm, tri kỷ phật pháp.
+- **Lý Vô Nhai:** Phương Trượng, hắn âm thầm bảo vệ từ trong bóng tối.
+- **Lê Thiền Định:** Trưởng Lão mà hắn đánh giá cao về thiền định.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Vô Tướng đã tu đến cảnh giới mà bản thân hắn dần hòa nhập vào hư không. Hắn từng là chiến tăng mạnh nhất tự viện, nhưng sau một trận chiến gần chết nhận ra rằng chấp nhất vào sức mạnh cũng là tham niệm. Từ đó hắn tu "Vô Tướng" — xóa bỏ mọi hình tướng bao gồm cả sự tồn tại vật lý. Sự kiện nổi tiếng là khi ma tu xâm nhập tự viện, hắn xuất hiện từ hư không đánh bại tất cả rồi biến mất. Bí mật là hắn đang giám sát Ma Quân trong Đạt Ma Viện từ trạng thái vô tướng.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Thủy Yêu Vương.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Vương cai trị sông hồ, nọc độc tan kim
+Xà Thủy Huyền trong hình dạng yêu thú là một con rắn nước khổng lồ, thân xanh biếc như ngọc, di chuyển trong nước nhanh như tia chớp. Khi hóa hình người, nàng là một mỹ nhân lạnh lùng, da trắng xanh, mắt xanh biếc không có đồng tử, tóc đen dài chảy xuống như dòng nước. Tính cách thâm trầm, đa mưu túc trí, luôn có ba bước tính trước và không bao giờ để lộ cảm xúc thật.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Thủy Yêu Vương cảnh giới Nguyên Anh Viên Mãn, Xà Thủy Huyền tu luyện "Huyền Thủy Hóa Long Công" (玄水化龙功) — điều khiển mọi nguồn nước trong phạm vi trăm dặm. Tuyệt kỹ "Nọc Tan Kim Thạch" (毒溶金石) phóng ra nọc độc hòa trong nước có thể ăn mòn bất kỳ vật liệu nào, kể cả thần binh. Điểm mạnh là chiến đấu dưới nước gần như bất bại và nọc độc cực mạnh, nhược điểm là sức mạnh giảm đáng kể khi xa nguồn nước.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hổ Vạn Kiếp:** Yêu Đế, nàng quy phục nhưng luôn giữ khoảng cách và toan tính riêng.
+- **Mãng Địa Hoàng:** Địa Yêu Vương, quan hệ tương kính nhưng không thân thiết, mỗi người cai trị một phương.
+- **Xà Độc Vương:** Đồng tộc xà nhưng cạnh tranh gay gắt — nàng coi hắn là mối đe dọa cho vị trí của Xà Tộc trong Đình.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Xà Thủy Huyền sinh ra trong lòng hồ sâu nhất Đông Hoang, nơi thủy linh mạch cổ đại tụ hội. Nàng tu luyện hàng vạn năm dưới đáy hồ, nuốt nọc độc của vạn loài thủy sinh để cường hóa bản thân. Sự kiện định hình cuộc đời nàng là khi một đoàn thợ săn Nhân Tộc đầu độc cả hồ để bắt nàng lấy nội đan — nàng sống sót nhưng mất đi toàn bộ đồng tộc trong hồ. Từ đó, nàng thề sẽ không bao giờ tin tưởng Nhân Tộc và xây dựng mạng lưới sông hồ rộng khắp Đông Hoang như hệ thống phòng thủ riêng.

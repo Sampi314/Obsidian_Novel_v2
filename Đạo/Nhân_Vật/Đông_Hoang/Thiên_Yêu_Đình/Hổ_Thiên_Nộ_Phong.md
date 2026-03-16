@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Cận Vệ Yêu Đế.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Trung thành đến hơi thở cuối cùng
+Hổ Thiên Nộ Phong trong hình dạng yêu thú là một con hổ gió nhỏ hơn Cuồng Phong nhưng nhanh nhẹn hơn, lông xám bạc cuộn theo luồng khí bảo vệ. Khi hóa hình người, hắn là một thanh niên cứng cỏi, mặt lạnh, mắt xám thép luôn cảnh giác ba trăm sáu mươi độ. Tính cách trung thành tuyệt đối, ít cảm xúc cá nhân, coi việc bảo vệ Yêu Đế là lý do duy nhất tồn tại.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Cận Vệ Yêu Đế cảnh giới Kim Đan Hậu Kỳ, Hổ Thiên Nộ Phong tu luyện "Hộ Thể Phong Tường" (护体风墙) — tạo bức tường gió bảo vệ xung quanh chủ nhân, chặn đứng mọi tấn công bất ngờ. Tuyệt kỹ "Nộ Phong Phản Kích" (怒风反击) biến năng lượng tấn công của đối phương thành gió phản lại với lực mạnh gấp đôi. Điểm mạnh là phòng thủ phản kích và phản ứng cực nhanh, nhược điểm là tu vi chưa đủ cao để chống đỡ cường giả Nguyên Anh trở lên.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hổ Vạn Kiếp:** Yêu Đế, người hắn thề bảo vệ bằng mạng sống.
+- **Hổ Bạch Nhãn:** Trưởng Lão đã huấn luyện hắn về khả năng cảnh giác và phát hiện sát khí.
+- **Hùng Thiết Chưởng:** Đồng nghiệp vệ binh, hai người phối hợp một phòng ngự một tấn công.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hổ Thiên Nộ Phong sinh ra trong gia đình hổ gió phụng sự Yêu Đế qua nhiều đời, được đào tạo từ nhỏ với một mục đích duy nhất: bảo vệ chủ. Hắn từng suýt chết khi lấy thân chắn một đòn ám sát nhắm vào Yêu Đế, vết sẹo trên ngực là minh chứng cho lòng trung thành. Sự kiện đó khiến Yêu Đế đích thân truyền cho hắn một chiêu phong công bí truyền để tự vệ. Nỗi lo lớn nhất của hắn là tu vi chưa đủ mạnh để bảo vệ Đế trước những kẻ thù ngày càng đáng sợ.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Thị Vệ Công Chúa.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Hộ vệ trung thành nhất của Nguyệt Vũ
+Hoa Tuyết là một Tinh Linh chiến binh, thân hình cao ráo, cơ bắp gọn gàng ẩn dưới giáp lá bạc, mái tóc trắng tuyết cắt ngắn gọn ghẽ. Đôi mắt xanh xám sắc lẹm luôn cảnh giác, mặt ít biểu cảm. Tính cách nghiêm túc, trung thành, coi việc bảo vệ Công Chúa Nguyệt Vũ là lý do sống duy nhất.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Thị Vệ Công Chúa cảnh giới Trúc Cơ Viên Mãn, Hoa Tuyết tu luyện "Tuyết Hoa Kiếm Vũ" (雪花剑舞) — kiếm thuật nhanh và đẹp, mỗi kiếm tạo ra hoa tuyết chặn đứng tấn công. Tuyệt kỹ "Băng Tuyết Hộ Thể" (冰雪护体) tạo lớp giáp băng bảo vệ bản thân và người cần bảo vệ. Điểm mạnh là phòng thủ và phản ứng nhanh, nhược điểm là tu vi chưa cao và thiếu sức công phá.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Nguyệt Vũ:** Công Chúa và bạn thân từ nhỏ, nàng thề bảo vệ bằng mạng sống.
+- **Nguyệt Ảnh:** Ám Vệ Thống Lĩnh, đôi khi phối hợp bảo vệ hoàng tộc.
+- **Lục Vạn Diệp:** Tiền Phong Tướng, đã huấn luyện nàng kỹ năng chiến đấu.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoa Tuyết sinh ra trong gia đình Tinh Linh chiến binh phụng sự hoàng tộc qua nhiều đời. Nàng được chọn làm thị vệ cho Nguyệt Vũ từ khi cả hai còn nhỏ, lớn lên cùng nhau và trở thành bạn thân bất chấp khoảng cách giai cấp. Sự kiện quan trọng nhất là khi nàng chắn một mũi tên tẩm độc bắn vào Nguyệt Vũ, suýt chết nhưng được Lục Minh Nguyệt Hoa cứu chữa. Từ đó, lòng trung thành của nàng trở thành huyền thoại trong Vương Đình.

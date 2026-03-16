@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Chồn tinh nắm giữ kho tàng Thiên Yêu Đình
+Điêu Thiên Hương trong hình dạng yêu thú là một con chồn điêu vàng óng ả, lông mượt như lụa và tỏa ra hương thơm quyến rũ. Khi hóa hình người, nàng là một phụ nữ trung niên sang trọng, mặc áo gấm thêu vàng, tay đeo đầy trang sức, nụ cười lịch thiệp nhưng ánh mắt tính toán. Tính cách khôn ngoan, tham lam nhưng biết giới hạn, quản lý kho tàng Đình với bàn tay sắt bọc nhung.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Trưởng Lão cảnh giới Kim Đan Viên Mãn, Điêu Thiên Hương tu luyện "Thiên Hương Mê Trận" (天香迷阵) — tỏa ra hương thơm tạo ra kết giới ảo ảnh khiến kẻ thù lạc lối. Tuyệt kỹ "Kim Tơ Phược Địch" (金丝缚敌) phóng ra tơ vàng từ lông điêu, trói buộc và phong ấn linh lực đối phương. Điểm mạnh là trận pháp hỗ trợ mạnh và khả năng phong ấn, nhược điểm là chiến đấu tay đôi không phải sở trường.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hổ Vạn Kiếp:** Yêu Đế, nàng quản lý kho tàng cho hắn nhưng luôn giữ lại một phần cho riêng mình.
+- **Hồ Thiên Mị:** Thánh Tướng thường xuyên xin ngân sách ngoại giao, hai người đàm phán căng thẳng nhưng tôn trọng nhau.
+- **Thử Linh Nhĩ:** Thử Tộc Trưởng cung cấp tin về nguồn tài nguyên mới, đổi lấy phần thưởng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Điêu Thiên Hương sinh ra trong khu rừng linh mộc quý, nơi chồn điêu thiên hương chỉ xuất hiện một con mỗi ngàn năm. Lông của nàng có giá trị ngang ngọc quý, từ nhỏ đã bị thợ săn truy đuổi liên tục. Kinh nghiệm sinh tồn đó dạy nàng rằng tài nguyên là quyền lực, kẻ nắm giữ kho tàng mới thực sự nắm quyền. Khi gia nhập Thiên Yêu Đình, nàng tình nguyện quản lý kho tàng và nhanh chóng biến nó thành hệ thống hậu cần hiệu quả nhất Đông Hoang. Bí mật là nàng đã cất giấu một kho tàng riêng phòng thân nếu Đình gặp biến.

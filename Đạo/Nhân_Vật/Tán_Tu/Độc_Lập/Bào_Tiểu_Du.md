@@ -29,10 +29,12 @@ arcs:
 Bào tử trẻ tuổi ham khám phá, mơ ước đặt chân đến mọi vùng đất
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Bào Tiểu Du tu vi còn thấp, chiến đấu chủ yếu dựa vào sự linh hoạt và bản năng sinh tồn của Vi Tộc. Chiêu thức duy nhất đáng kể là **Tiểu Bào Trốn Nhanh** (小孢遁快) — thu nhỏ cơ thể thành bào tử và theo gió bay đi, gần như không thể bắt được. Ngoài ra biết sử dụng **Phát Quang Bào Tử** (發光孢子) — phóng thích bào tử phát sáng chói mắt làm mù đối phương tạm thời để chạy trốn. Hoàn toàn không có năng lực chiến đấu trực diện, sống sót bằng trí thông minh và tốc độ chạy.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Bào Lưu Lạc:** Đồng tộc Vi Tộc gặp trên đường phiêu lưu, Tiểu Du coi hắn như người anh lớn dù Lưu Lạc hay cằn nhằn.
+- **Mạch Phiêu Bạc:** "Bác Mạch" — thương nhân hay cho Tiểu Du đi nhờ xe hàng và kể chuyện về các vùng đất xa xôi.
+- **A Ngốc:** Từng tình cờ gặp nhau trên đường, hai người chơi đùa cả buổi vì cùng có tính tình hồn nhiên, tò mò.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Bào Tiểu Du là bào tử trẻ nhất của một nhánh Vi Tộc nhỏ sống ký sinh trên một cây cổ thụ ngàn năm. Khi cây cổ thụ bị sét đánh chết, cả nhánh tộc tan tác — Tiểu Du bị gió cuốn đi xa hàng ngàn dặm. Thay vì buồn bã, hắn lại phấn khích vì lần đầu tiên thấy thế giới rộng lớn bên ngoài. Từ đó hắn quyết định không quay về mà đi khám phá mọi vùng đất trên Cố Nguyên Giới. Tu vi thấp nhưng bù lại hắn cực kỳ giỏi kết bạn, đi đâu cũng tìm được người giúp đỡ nhờ tính tình vui vẻ dễ mến. Hắn ghi chép mọi thứ hắn thấy vào một cuốn nhật ký nhỏ bằng hạt gạo — giấc mơ lớn nhất là viết cuốn "Du Ký Vi Tộc" đầu tiên trong lịch sử, ghi lại toàn bộ Cố Nguyên Giới từ góc nhìn của sinh vật bé nhỏ nhất.

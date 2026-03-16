@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Sát Thủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Đặng Tiểu La là một thiếu niên gầy nhỏ nhanh nhẹn, khuôn mặt non nớt trái ngược hoàn toàn với nghề nghiệp sát thủ. Đôi mắt to tròn luôn mang vẻ hiếu kỳ, miệng hay cười toe toét khiến người ta khó tin đây là kẻ có thể giết người không chớp mắt. Mặc y phục đen gọn gàng hơi rộng so với thân hình, trên thắt lưng giắt đầy ám khí nhỏ. Tính cách bốc đồng nóng nảy nhưng trung thành, coi tổ chức như gia đình thay thế, luôn muốn chứng minh bản thân với các tiền bối.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đạt cảnh giới Kim Đan Hậu Kỳ, Đặng Tiểu La tu luyện "Tiểu La Ám Khí Quyết" (小罗暗器诀) — biến bất kỳ vật nhỏ nào thành ám khí chết người thông qua phủ linh lực, tốc độ phóng ám khí nhanh đến mức mắt thường không thể nhìn thấy. Tuyệt kỹ "Thiên La Địa Võng Châm" (天罗地网针) phóng ra hàng trăm kim nhỏ phủ kín không gian, không chừa kẽ hở để thoát. Điểm mạnh là tốc độ tay và ám khí thuật xuất chúng, nhược điểm là nội lực còn non và không thể duy trì chiến đấu cường độ cao lâu dài.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Ám Ảnh:** Sư phụ ám sát thuật, hắn kính sợ nhưng cũng ngưỡng mộ sâu sắc, luôn cố gắng được Ám Ảnh công nhận.
+- **Phạm Kim Đao:** Đàn anh dạy hắn chiến đấu trực diện, hắn coi như cha anh trong tổ chức.
+- **Lý Chấp Kim:** Hội Trưởng, người cho hắn chỗ dung thân khi cả thế giới quay lưng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Đặng Tiểu La là trẻ mồ côi lớn lên trên đường phố của một thị trấn nhỏ, sống bằng nghề móc túi và trộm cắp. Thiên phú tay nhanh mắt tinh của hắn bị Hoàng Ám Ảnh phát hiện khi hắn dám móc túi một sát thủ Nguyên Anh mà không bị phát giác — điều mà chính Ám Ảnh cũng phải kinh ngạc. Được đưa về Vạn Tượng Sâm La đào tạo, hắn nhanh chóng trở thành sát thủ trẻ nhất hoàn thành hợp đồng hạng B. Hiện tại, hắn đang nỗ lực nâng cao tu vi để được giao nhiệm vụ hạng A, đồng thời bí mật tìm kiếm tung tích cha mẹ ruột mà hắn chưa bao giờ biết mặt.

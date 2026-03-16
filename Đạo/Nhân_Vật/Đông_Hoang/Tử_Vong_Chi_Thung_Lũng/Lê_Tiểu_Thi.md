@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Nội Môn Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lê Tiểu Thi là một thiếu niên trẻ nhất trong Cốc, khuôn mặt non nớt nhưng đôi mắt già dặn bất thường, da nhợt nhạt vì sống trong môi trường tử khí lâu ngày. Mặc áo đệ tử đen, luôn mang theo sổ ghi chép và bộ dụng cụ luyện xác nhỏ. Tính cách tò mò, ham học, không hề sợ xác chết mà coi chúng như đối tượng nghiên cứu.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Nội Môn Đệ Tử cảnh giới Kim Đan Sơ Kỳ, Lê Tiểu Thi tu luyện "Tiểu Thi Thao Túng Thuật" (小尸操纵术) — điều khiển một vài xác sống nhỏ làm trợ thủ. Tuyệt kỹ "Thi Phẫu Phân Tích" (尸剖分析) cho phép hắn nhanh chóng phân tích điểm yếu của bất kỳ sinh vật nào qua quan sát. Điểm mạnh là phân tích và nghiên cứu, nhược điểm là chiến đấu trực diện yếu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Nguyễn Vạn Thi:** Sư phụ trực tiếp, đang rèn luyện hắn thành chỉ huy.
+- **Phạm Hắc Cốt:** Trưởng Lão chế tác, hắn thường xin học hỏi kỹ thuật luyện xác.
+- **Vũ Thi Khôi:** Đồng môn, hai người hay cùng nghiên cứu và thi đua.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lê Tiểu Thi là mồ côi được Tử Vong Chi Thung Lũng nhặt về từ bãi chiến trường khi còn là trẻ sơ sinh. Hắn lớn lên trong thung lũng tử khí, coi xác chết và ma khí là điều bình thường. Không hề biết thế giới bên ngoài ra sao, hắn tin rằng luyện xác là nghề cao quý và Cốc là gia đình. Sự kiện đáng nhớ nhất là khi hắn tự mình luyện thành công khôi lỗi thú đầu tiên ở tuổi mười lăm. Bí mật là hắn bắt đầu tò mò về thế giới ngoài thung lũng sau khi tìm thấy một bức thư tình trong túi xác chết.

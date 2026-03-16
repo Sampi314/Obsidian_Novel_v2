@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Đầu Bếp.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Nấu ăn ngon nhất thành, bụng chứa bí mật
+Trư Đại Phúc mang nhân hình một ông già bụng phệ tròn trĩnh, khuôn mặt phúc hậu với đôi mắt ti hí luôn hấp háy, mũi hếch và đôi tai to bản quạt gió đặc trưng của trư tộc. Làn da hồng hào bóng nhẫy, đôi tay bụ bẫm nhưng linh hoạt phi thường khi cầm dao bếp. Luôn mặc tạp dề trắng dính đầy vết nước sốt, trên người thoang thoảng mùi thơm phức của đủ loại gia vị. Tính cách vui vẻ hào sảng, yêu đời yêu ăn, luôn nở nụ cười nhưng bên trong lão ấy lắng nghe và ghi nhớ mọi cuộc trò chuyện diễn ra trong bếp.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đạt cảnh giới Trúc Cơ Viên Mãn, Trư Đại Phúc tu luyện "Linh Trù Bách Vị Quyết" (靈厨百味诀) — chế biến thức ăn có chứa linh lực, từ hồi phục thương tích, tăng cường sức mạnh tạm thời đến giải độc. Tuyệt kỹ "Thiên Hương Mê Hồn Phạn" (天香迷魂饭) nấu ra món ăn thơm đến mức mọi sinh vật trong phạm vi trăm trượng đều bị thu hút, mất cảnh giác. Điểm mạnh là nấu ăn chữa thương và hỗ trợ đội nhóm, nhược điểm là hoàn toàn không có khả năng chiến đấu trực tiếp.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hồ Diễm Nương:** Tửu Lâu Chủ, bà chủ mà lão phục vụ, hai người là đối tác hoàn hảo — nàng bán rượu, lão nấu ăn.
+- **Xà Bạch Lân:** Thỉnh thoảng trao đổi nguyên liệu, ranh giới giữa ẩm thực và độc học rất mỏng trong tay hai người.
+- **Hồ Thất Cửu:** Thành Chủ, khách quen ưa thích nhất, lão biết rõ khẩu vị và cả bí mật của Thất Cửu qua những bữa ăn riêng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trư Đại Phúc vốn là đầu bếp hoàng cung của một vương quốc yêu tộc nhỏ, nổi tiếng với tài nấu ăn thần sầu — bất kỳ nguyên liệu tầm thường nào qua tay lão cũng biến thành mỹ vị. Khi vương quốc sụp đổ, lão lang thang nấu ăn đổi lấy chỗ ngủ, đến Vạn Yêu Thành theo lời mời của Hồ Diễm Nương mở bếp cho Túy Yêu Lâu. Bếp ăn của lão trở thành nơi mọi người lui tới — từ Thành Chủ đến lính gác đều ghé ăn, và lão lắng nghe tất cả. Hiện tại, lão đang nắm giữ nhiều bí mật nguy hiểm từ những cuộc trò chuyện trong bếp, nhưng không bán cho ai mà giữ như bảo hiểm nhân thọ — nếu ai dám hại lão, bí mật sẽ bị phát tán.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Mộng Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Đọc giấc mơ, tiên đoán tương lai mơ hồ
+Vân Mộng là một Tinh Linh bí ẩn, mái tóc tím nhạt lơ lửng như đang ở trong nước, đôi mắt mờ ảo luôn nhìn xa xăm, da nhợt nhạt như người ngủ mơ. Luôn mặc áo lụa mỏng tím nhạt, đi lại lơ đãng như nửa tỉnh nửa mê. Tính cách mơ màng, nói chuyện bằng ẩn dụ và hình ảnh, đôi khi không phân biệt rõ mộng và thực.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Mộng Sư cảnh giới Kim Đan Viên Mãn, Vân Mộng tu luyện "Mộng Trung Du Tẩu" (梦中游走) — đi vào giấc mơ của người khác để tìm kiếm thông tin hoặc chữa trị ác mộng. Tuyệt kỹ "Mộng Cảnh Tiên Tri" (梦境先知) cho phép nàng nhìn thấy những mảnh tương lai mơ hồ trong giấc mơ. Điểm mạnh là thao túng giấc mơ và tiên tri, nhược điểm là mỗi lần nhập mộng đều tổn hao tinh thần và dễ lạc trong mộng cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Vân Hà:** Thư Viện Trưởng, nàng kể giấc mơ và Vân Hà ghi chép thành sách tiên tri.
+- **Nguyệt Linh Quang:** Đại Tế Tư, hai người phối hợp giải thích điềm báo từ Cây Thế Giới.
+- **Nguyệt Hàn Sương:** Thái Tử, nàng từng nhìn thấy tương lai của hắn trong mộng nhưng không dám nói.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vân Mộng sinh ra trong giấc ngủ — mẹ nàng nằm mơ thấy con gái rồi thức dậy thì đứa trẻ đã ở đó. Từ nhỏ, nàng thường xuyên lẫn lộn giữa mộng và thực, được Vương Đình nhận ra tài năng và đào tạo thành Mộng Sư. Sự kiện nổi tiếng nhất là khi nàng cảnh báo về một trận đại hồng thủy trong mộng — đúng ba ngày sau mưa lớn kéo dài — cứu sống nhiều dân rìa rừng. Bí mật nặng nề nhất là nàng mơ thấy Cây Thế Giới chết, nhưng không dám nói vì sợ đó chỉ là ác mộng của chính mình.

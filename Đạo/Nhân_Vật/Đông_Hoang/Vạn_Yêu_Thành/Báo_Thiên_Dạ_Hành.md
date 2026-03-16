@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Sát Thủ Đoàn Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Nhận hợp đồng ám sát, không bao giờ thất bại
+Báo Thiên Dạ Hành mang nhân hình một thanh niên mảnh khảnh thanh tú, da trắng nhợt nhạt do sống về đêm, đôi mắt mèo xanh lục phát sáng trong bóng tối. Mái tóc đen ngắn ôm sát đầu, cơ thể toàn thân phủ lớp lông ngắn màu đen chấm vàng mờ — dấu vết của huyết mạch báo đen. Di chuyển nhẹ nhàng không tiếng động, thường xuyên mặc kình y đen bó sát. Tính cách lạnh lùng chuyên nghiệp, không bao giờ nhận hợp đồng giết phụ nữ và trẻ con, coi ám sát là nghệ thuật cần sự hoàn hảo tuyệt đối.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đạt cảnh giới Kim Đan Trung Kỳ, Báo Thiên Dạ Hành tu luyện "Dạ Hành Bách Bộ Sát" (夜行百步杀) — tăng tốc độ trong bóng tối lên gấp mười lần, kết hợp vuốt báo đen phủ ám khí xuyên thấu hộ thể. Tuyệt kỹ "Nhất Tức Thiên Ảnh" (一息千影) di chuyển nhanh đến mức tạo ra hàng ngàn tàn ảnh, đối thủ không phân biệt được thật giả trước khi bị giết. Điểm mạnh là tốc độ và ám sát nhất kích trong đêm, nhược điểm là ban ngày sức chiến đấu giảm sút rõ rệt và yếu trước tấn công diện rộng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hồ Thất Cửu:** Thành Chủ, người duy nhất có quyền ra lệnh trực tiếp cho hắn, hắn trung thành vì Thất Cửu tôn trọng nguyên tắc của hắn.
+- **Mãng Huyền Thiên:** Đối thủ cạnh tranh trong lĩnh vực ám sát, hắn coi Huyền Thiên là kẻ thô lỗ thiếu nghệ thuật.
+- **Hồ Tiểu Vũ Nguyệt:** Vũ nương mà hắn bí mật bảo vệ trong nhiều năm, không ai biết lý do.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Báo Thiên Dạ Hành sinh ra trong bộ lạc báo đen chuyên đi săn đêm, từ nhỏ đã có thị lực trong bóng tối vượt xa đồng tộc. Khi bộ lạc bị một thế lực lớn tàn sát để lấy bộ lông quý, hắn là người sống sót duy nhất và thề sẽ dùng bóng đêm trả thù. Hắn trở thành sát thủ lưu lạc, hoàn thành hàng trăm hợp đồng không sai sót, được Hồ Thất Cửu mời về thành lập đoàn sát thủ chính thức. Hiện tại, hắn đã trả thù xong kẻ diệt tộc nhưng phát hiện mình không biết sống vì điều gì khác ngoài giết chóc, đang trải qua khủng hoảng nội tâm mà không ai hay biết.

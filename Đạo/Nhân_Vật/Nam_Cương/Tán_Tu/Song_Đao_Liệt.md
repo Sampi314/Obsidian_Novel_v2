@@ -29,10 +29,12 @@ arcs:
 Hai lưỡi kiếm bọ ngựa, thách đấu bất kỳ ai ngang qua lãnh thổ
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Song Đao Liệt sở hữu đôi lưỡi kiếm bọ ngựa sắc bén phi thường, chuyên về cận chiến tốc độ cao. Tuyệt kỹ chính là **Tật Phong Song Liêm Trảm** (疾風雙鐮斬) — hai lưỡi kiếm chéo nhau cắt xuyên hộ giáp trong nháy mắt, tốc độ nhanh đến mức đối phương chỉ thấy một đường sáng. Khi rơi vào thế bị bao vây, hắn thi triển **Liệt Giáp Cuồng Vũ** (裂甲狂舞) — xoay tròn hai lưỡi kiếm tạo thành vòng bảo vệ cắt nát mọi thứ trong bán kính ba trượng. Điểm yếu là tính tình nóng nảy, dễ bị khích tướng rồi mắc bẫy.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Dạ Nga Tiên:** Đồng hương Trùng Tộc, hắn khinh thường lối đánh ẩn nấp của nàng nhưng vẫn trao đổi tin tức khi cần.
+- **Hạc Hồng Nhi:** Từng giao đấu khi Hồng Nhi bay qua lãnh thổ hắn, kết quả hòa. Từ đó hai bên có sự tôn trọng ngầm.
+- **Yến Tử:** Tránh né, biết Yến Tử tu vi cao hơn nhiều nên không dám thách đấu. Âm thầm coi nàng là mục tiêu cần vượt qua.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Song Đao Liệt xuất thân từ một đàn bọ ngựa chiến binh phục vụ Vạn Độc Môn tại Nam Cương. Khi hắn hóa hình thành công, Vạn Độc Môn muốn biến hắn thành công cụ ám sát, nhưng tính tình hắn quá ngạo mạn và thích thách đấu công khai — hoàn toàn trái ngược với yêu cầu ẩn sát. Sau nhiều lần bất tuân mệnh lệnh, hắn bị trục xuất khỏi Vạn Độc Môn. Từ đó hắn chiếm cứ một vùng rừng rậm làm lãnh thổ riêng, thách đấu bất kỳ ai đi ngang. Danh tiếng "Song Đao chặn đường" của hắn khiến nhiều tu sĩ phải đi vòng để tránh. Mục tiêu hiện tại là đánh bại đủ một trăm đối thủ mạnh để chứng minh hắn là chiến sĩ mạnh nhất Trùng Tộc Nam Cương.

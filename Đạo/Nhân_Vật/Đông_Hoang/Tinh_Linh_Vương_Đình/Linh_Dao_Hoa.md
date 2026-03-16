@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Đan Dược Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Bào chế linh đan từ hoa quả cổ thụ
+Linh Dao Hoa là một Mộc Tinh Linh, da phủ sắc hồng đào, tóc hồng dài luôn thơm mùi quả chín, đôi mắt nâu hồng ấm áp. Luôn mang theo túi đựng đầy bình đan dược và nguyên liệu, tay lấm lem bột linh thảo. Tính cách vui vẻ, thoải mái, hay nói chuyện với cây cối và gọi chúng bằng tên riêng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Đan Dược Sư cảnh giới Kim Đan Sơ Kỳ, Linh Dao Hoa tu luyện "Đào Hoa Luyện Đan Thuật" (桃花炼丹术) — bào chế linh đan từ hoa quả cổ thụ với hiệu quả vượt xa phương pháp thông thường. Tuyệt kỹ "Bách Quả Hồi Xuân" (百果回春) tạo ra đan dược hồi phục tức thì từ trái cây chín. Điểm mạnh là bào chế đan dược nhanh và hiệu quả, nhược điểm là chiến đấu gần như không có khả năng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoa Tử Yên:** Vườn Thần Quản Lý, cung cấp nguyên liệu chính cho nàng.
+- **Lục Minh Nguyệt Hoa:** Y Sư, đối tác — nàng bào chế đan dược, Minh Nguyệt Hoa kê đơn.
+- **Vân Hà:** Thư Viện Trưởng, cung cấp công thức đan dược cổ đại từ tàng thư.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Linh Dao Hoa sinh ra bên cạnh cây đào ngàn năm trong Vườn Thần, hấp thu tinh hoa trái đào từ nhỏ. Nàng phát hiện tài năng bào chế đan dược khi vô tình nghiền trái cây thành bột và chữa lành vết thương cho một chú sóc linh. Được Vương Đình đào tạo chính quy, nàng trở thành Đan Dược Sư trẻ nhất lịch sử. Mục tiêu hiện tại là nghiên cứu loại đan dược có thể kéo dài tuổi thọ cho cây cối — hy vọng giúp ích cho Cây Thế Giới.

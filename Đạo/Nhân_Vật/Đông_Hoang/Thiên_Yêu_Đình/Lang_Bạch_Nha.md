@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Lang Chiến Sĩ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Nanh trắng như tuyết, cắn xuyên thần binh
+Lang Bạch Nha trong hình dạng yêu thú là một con sói trắng trẻ trung, lông trắng muốt ngoại trừ bộ nanh trắng sáng bất thường — cứng và sắc hơn bất kỳ thần binh nào. Khi hóa hình người, hắn là một thanh niên tóc trắng ngắn, mặt non nhưng ánh mắt kiên định, luôn nhe răng cười tự tin. Tính cách hào sảng, trung thành, muốn chứng minh bản thân xứng đáng với kỳ vọng của bộ lạc.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Lang Chiến Sĩ cảnh giới Kim Đan Sơ Kỳ, Lang Bạch Nha tu luyện "Bạch Nha Phá Giáp Công" (白牙破甲功) — cường hóa nanh đến mức cắn xuyên bất kỳ phòng ngự nào, kể cả thần binh cấp Kim Đan. Tuyệt kỹ "Nhất Giảo Đoạn Kim" (一咬断金) tập trung yêu lực vào hàm răng, một nhát cắn xuyên thủng mọi thứ. Điểm mạnh là sức phá hoại cận chiến cực mạnh, nhược điểm là tầm tấn công ngắn và thiếu kinh nghiệm đối phó chiến thuật phức tạp.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lang Thiên Nộ:** Bộ Lạc Trưởng và cũng là cha nuôi, người đã dạy hắn mọi thứ về chiến đấu.
+- **Lang Thiên Dạ Hành:** Thánh Tướng mà hắn ngưỡng mộ, mục tiêu vươn tới.
+- **Viên Kim Phong:** Chiến sĩ viên tộc cùng thế hệ, đối thủ luyện tập thường xuyên.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lang Bạch Nha là sói con mồ côi được Lang Thiên Nộ nhặt về nuôi, sinh ra với bộ nanh bất thường mà Trưởng Lão cho là dấu hiệu của huyết mạch Thượng Cổ Thần Lang. Hắn lớn lên với áp lực chứng minh bản thân không phải gánh nặng mà là niềm tự hào của bộ lạc. Sự kiện quan trọng nhất là khi hắn cắn xuyên giáp sắt của một tu sĩ Kim Đan Nhân Tộc xâm nhập lãnh thổ, chứng minh giá trị của nanh trắng. Ước mơ của hắn là trở thành Thánh Tướng thứ tám của Thiên Yêu Đình.

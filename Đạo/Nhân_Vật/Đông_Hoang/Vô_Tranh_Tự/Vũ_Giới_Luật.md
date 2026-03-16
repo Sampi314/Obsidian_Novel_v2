@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Giới Luật Viện Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vũ Giới Luật dáng người nghiêm trang, mặt khắc khổ, mắt sắc bén, đầu trọc, lông mày rậm. Mặc cà sa đen sạch sẽ, tay cầm giới trượng — gậy kỷ luật của tự viện. Tính cách nghiêm khắc tuyệt đối, không tha thứ vi phạm giới luật, nhưng công bằng với tất cả.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là Giới Luật Viện Trưởng cảnh giới Nguyên Anh Hậu Kỳ, Vũ Giới Luật tu luyện "Giới Luật Kim Thân" (戒律金身) — phật lực cường hóa từ giới luật nghiêm minh, càng giữ giới càng mạnh. Tuyệt kỹ "Giới Trượng Trấn Tà" (戒杖镇邪) đánh ra bằng giới trượng mang phật lực chuyên trấn áp kẻ phạm giới. Điểm mạnh là trấn áp và kỷ luật, nhược điểm là cứng nhắc, thiếu linh hoạt.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Vô Nhai:** Phương Trượng, hắn thi hành giới luật nhân danh Phương Trượng.
+- **Hoàng Kim Cương:** Hộ Pháp, hay bị hắn nhắc nhở vì nói to trong chùa.
+- **Lý Ngộ Không:** Tập sự mà hắn đau đầu nhất vì liên tục phạm giới.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vũ Giới Luật từ nhỏ đã có tính cách nghiêm khắc, gia nhập tự viện và nhanh chóng trở thành Giới Luật Viện Trưởng vì không ai khác đủ nghiêm để đảm nhận. Hắn đã xử phạt hàng ngàn tăng lữ vi phạm, kể cả trưởng lão, không nể mặt ai. Sự kiện nổi tiếng là khi hắn phạt một trưởng lão quỳ gối ba ngày vì uống rượu lén. Nỗi lo hiện tại là Lý Ngộ Không — tập sự quá nghịch ngợm mà Phương Trượng không cho phạt nặng.

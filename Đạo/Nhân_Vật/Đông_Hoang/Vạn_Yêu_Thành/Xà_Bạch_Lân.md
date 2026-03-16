@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Độc Dược Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Bào chế thuốc độc và giải độc cho ai trả giá
+Xà Bạch Lân mang nhân hình một nữ nhân thanh mảnh lạnh lùng, làn da trắng bệch phủ vảy nhỏ trắng bạc lấp lánh ở cổ và cổ tay, đôi mắt xẻ dọc màu bạc không cảm xúc. Mái tóc trắng bạc buộc gọn, luôn mặc áo choàng trắng dài phòng thí nghiệm, tay đeo găng da mỏng, xung quanh thoang thoảng mùi thảo dược và nọc độc. Lưỡi chẻ đôi thỉnh thoảng thè ra nếm không khí — thói quen không thể bỏ. Tính cách lạnh lùng lý trí tuyệt đối, coi mọi thứ đều là nguyên liệu thí nghiệm, không phân biệt thiện ác mà chỉ quan tâm khoa học.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đạt cảnh giới Kim Đan Sơ Kỳ, Xà Bạch Lân tu luyện "Bạch Lân Chế Độc Quyết" (白鱗制毒诀) — tổng hợp và phân tích mọi loại độc tố, cơ thể miễn dịch với hầu hết chất độc đã biết. Tuyệt kỹ "Bách Độc Khai Hoa" (百毒开花) phun ra sương mù chứa hỗn hợp trăm loại độc tố, mỗi giọt có tác dụng khác nhau — từ tê liệt, ảo giác đến hoại tử. Điểm mạnh là kho tàng độc dược và khả năng chế tạo giải độc vạn năng, nhược điểm là thể lực yếu và hoàn toàn phụ thuộc vào chuẩn bị trước.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Mãng Lục Vương:** Hắc Thị Chủ, khách hàng lớn nhất mua độc dược, nàng giữ quan hệ thuần túy thương mại.
+- **Hồ Diễm Nương:** Khách hàng đặt biệt chế tửu đặc biệt có tác dụng phụ, nàng thấy thú vị về mặt khoa học.
+- **Trư Đại Phúc:** Đầu bếp mà nàng thỉnh thoảng trao đổi nguyên liệu, ranh giới giữa ẩm thực và độc dược đôi khi rất mỏng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Xà Bạch Lân sinh ra là bạch xà quý hiếm với khả năng miễn dịch độc tố bẩm sinh — trong tộc xà đây là đặc điểm cực kỳ hiếm gặp. Thay vì dùng nọc độc để chiến đấu như đồng tộc, nàng phát triển niềm đam mê nghiên cứu và tổng hợp mọi loại độc tố, biến thân mình thành phòng thí nghiệm di động. Đến Vạn Yêu Thành vì nơi đây cung cấp nguyên liệu đa dạng nhất qua chợ đen, nàng mở tiệm bào chế — vừa bán độc vừa bán giải độc, kiếm tiền từ cả hai phía. Hiện tại, nàng đang nghiên cứu một loại nọc độc thượng cổ tìm thấy trong di tích, nếu giải mã được sẽ là bước đột phá trong toàn bộ lĩnh vực độc học.

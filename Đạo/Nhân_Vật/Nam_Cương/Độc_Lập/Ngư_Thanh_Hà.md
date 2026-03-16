@@ -29,10 +29,13 @@ arcs:
 Cá linh sống trong sông nước ngọt Nam Cương
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Ngư Thanh Hà chiến đấu bằng khả năng kiểm soát dòng nước và tốc độ bơi chớp nhoáng. Chiêu thức chính là **Thanh Hà Nghịch Lưu** (清河逆流) — đảo ngược dòng chảy trong phạm vi hẹp, tạo xoáy nước cuốn trôi đối phương hoặc phá vỡ thế trận thủy chiến. Khi bị đe dọa, nàng dùng **Ngư Du Vô Ảnh** (魚游無影) — hòa mình vào dòng nước trở nên hoàn toàn vô hình, chỉ để lại gợn sóng nhẹ. Trên cạn thì yếu đuối, gần như không có khả năng chiến đấu nếu không có nguồn nước.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Giải Đại Kìm:** Láng giềng thân thiết nhất, hai người cùng bảo vệ khúc sông họ sinh sống. Đại Kìm xây đập, Thanh Hà canh giữ nguồn cá.
+- **Hà Thiên Nhảy Sông:** Đối tác buôn bán, Thanh Hà đánh cá và cung cấp hải sản cho Hà Thiên vận chuyển bán.
+- **Giao Phong Lãng Hải:** Biết bí mật về quá khứ lưu vong của Lãng Hải, giữ kín vì coi hắn là đồng tộc Hải Tộc cần bảo vệ.
+- **Linh Vi Trần:** Thỉnh thoảng trao đổi tin tức, Thanh Hà cung cấp thông tin về tình hình ven sông để đổi lấy những bí mật thú vị từ Vi Tộc.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ngư Thanh Hà là cá linh nước ngọt đã sống tại con sông lớn Nam Cương từ mấy trăm năm trước khi khai linh. Nàng chứng kiến dòng sông thay đổi qua bao thế hệ — từ dòng nước trong vắt đến lúc bị ô nhiễm bởi chất thải từ các tông phái luyện đan. Khi hóa hình, nàng quyết định ở lại bảo vệ khúc sông quê hương thay vì ra ngoài mưu cầu tu luyện. Nàng trở thành ngư dân, vừa đánh cá mưu sinh vừa âm thầm thanh lọc nguồn nước bằng linh lực thủy hệ. Dân làng ven sông gọi nàng là "Cô Cá" và coi nàng như thần hộ vệ khúc sông. Nỗi lo lớn nhất là nàng phát hiện linh mạch dưới đáy sông đang dần cạn kiệt, và nếu không tìm ra nguyên nhân, cả hệ sinh thái sông sẽ sụp đổ trong vài chục năm nữa.
