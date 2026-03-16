@@ -4,7 +4,10 @@
 - Góc nhìn Nam Cương: đang dừng ở Chương 138.
 - Đã mở rộng Góc nhìn phụ (Ch 6-10) cho Ngao Đình, Lệ Nhược Thủy, Nham Thần, Lục Tiêu, Nguyệt Dao, Lục Ly, Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hàn Thanh Nguyệt, Lục Trần, Ngô Công Trưởng Lão, Phương Vô Kỵ, Sở Lăng Sương, Triệu Thanh Hằng, Lý Tuyết Ưng.
 
+## TỔNG HỢP LỊCH SỬ (tự động nén)
+- [Các phiên trước]: Hoàn thành 152 chương cho A Ngốc, mở rộng các góc nhìn phụ (Đan Dương Tử, Diệp Thanh Y, v.v.). Nhóm Lâm Phong liên minh với Lệ Vô Tâm và A Ngốc, chạy trốn Huyết Sát Minh từ Vĩnh Hằng Sâm Lâm đến Tây Mạc. Họ đã đến Lưu Sa Phế Tích và khám phá bí mật của Vu Tộc tại Hoàng Sa Địa Cung.
+
 ## PHIÊN GẦN NHẤT
-- Đã viết Chương 101-104 cho Góc Nhìn Lâm Phong.
-- Nội dung: Nhóm của Lâm Phong, Diệp Tĩnh Sương, Nham Thiết, Lệ Vô Tâm và A Ngốc đi qua bình nguyên Đông Hoang. Họ bị Huyết Sát Minh truy sát. Lệ Vô Tâm bộc lộ sự suy yếu tột độ do lạm dụng Băng Ma Khí và sự bạo động của Huyết Thần Độc, nhưng được A Ngốc bảo vệ. Cuối cùng, Lệ Vô Tâm tỉnh lại dùng nốt chút sức mạnh đóng băng Huyết Sát Minh để kết thúc trận chiến, bảo vệ nhóm tiếp tục hành trình về Tây Mạc.
-- Ưu tiên phiên sau: Bắt đầu viết Arc 2 cho các khu vực (Nam Cương ch 21-24) theo vòng xoay, hoặc tiếp tục catch-up Lâm Phong (ch 105+) tùy tình hình tiến độ.
+- Đã viết Chương 125-128 cho Góc Nhìn Lâm Phong.
+- Nội dung: Nhóm của Lâm Phong đi vào phần sâu nhất của Hoàng Sa Địa Cung, đối mặt với phong ấn Long Cốt và Huyết Độc Chi Hỏa. Huyết Cuồng (Huyết Tôn) xuất hiện và làm gãy phong ấn trong cuộc hỗn chiến. Oán Long thức tỉnh, Huyết Độc tràn ra. Cả nhóm phải khó khăn tháo chạy khỏi Địa Cung sụp đổ để trở lên mặt đất, nhưng lại rơi vào giữa cơn bão Hắc Sa khổng lồ tà ác. Lệ Vô Tâm trọng thương nghiêm trọng sau khi liều mạng vay mượn sức mạnh Hỗn Độn.
+- Ưu tiên phiên sau: Tiếp tục catch-up Lâm Phong (129+) đối mặt với cơn bão và trốn chạy, hoặc bắt đầu Arc 2 cho các góc nhìn phụ theo vòng xoay.

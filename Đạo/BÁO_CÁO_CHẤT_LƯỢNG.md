@@ -14,6 +14,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Viết Chương 125-128 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm tiến vào tâm phong ấn, đối mặt với Long Cốt và Huyết Độc Chi Hỏa. Huyết Cuồng (Huyết Sát Minh) tấn công và làm vỡ phong ấn. Long Cốt thức tỉnh thành Oán Long, Huyết Độc tràn ra. Nhóm phải đào thoát khỏi Hoàng Sa Địa Cung sụp đổ và đối mặt với cơn bão Hắc Sa khổng lồ mang tà khí trên mặt đất. |
 | Hôm nay | Tổng Quản | Viết Chương 121-124 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm tiến vào sảnh đường Hoàng Sa Địa Cung, đụng độ quân đoàn khôi lỗi đá tảng Thượng Cổ. Lệ Vô Tâm dùng tà chú Vu Tộc để kiểm soát bầy khôi lỗi, hé lộ bí mật về Vu Tộc và Huyết Độc Chi Hỏa qua các bức bích họa. Cuối cùng, A Ngốc vô tình thanh tẩy thực thể Huyết Vu bằng Hỗn Độn chi lực thuần khiết, mở ra con đường tiếp theo. |
 | Hôm nay | Tổng Quản | Viết Chương 113-116 (Góc Nhìn Lâm Phong) | Hoàn Thành | Lệ Vô Tâm dùng Băng Ma Khí tàn sát tổ chức Ám Cốc và bị phản phệ. Liên minh bỏ trốn khỏi sự phong tỏa của Hứa Ngọc và Huyết Sát Minh thông qua đường hầm tránh bão dưới Trạm Dừng Chân Số 7, có thêm Hứa Thanh Vân gia nhập. Nhóm quyết định tiến vào cấm địa Lưu Sa Phế Tích để trốn tránh. |
 | Hôm nay | Tổng Quản | Viết Chương 109-112 (Góc Nhìn Lâm Phong) | Hoàn Thành | Tiếp tục Arc Tiến Vào Tây Mạc. Nhóm Lâm Phong đến Trạm Dừng Chân Số 7. Khám phá sự hỗn loạn và phát hiện mạng lưới phân phối ngầm Huyết Mạch Tinh. Đụng độ tổ chức sát thủ "Ám Cốc" của Huyết Sát Minh và Lệ Vô Tâm xuất hiện tương trợ bằng Băng Ma Khí. |
