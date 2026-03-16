@@ -146,3 +146,9 @@
 - [Chương 114: Băng Ma Phản Kích](Chương_00114_Băng_Ma_Phản_Kích.md)
 - [Chương 115: Hỗn Loạn Trạm Dừng Chân](Chương_00115_Hỗn_Loạn_Trạm_Dừng_Chân.md)
 - [Chương 116: Lối Thoát Trong Cát Đỏ](Chương_00116_Lối_Thoát_Trong_Cát_Đỏ.md)
+
+## Arc Phế Tích Dưới Cát — Hoàng Sa Cổ Quốc (Chương 117-...)
+- [Chương 117: Dưới Ánh Nắng Cháy Da](Chương_00117_Dưới_Ánh_Nắng_Cháy_Da.md)
+- [Chương 118: Lưu Sa Huyễn Cảnh](Chương_00118_Lưu_Sa_Huyễn_Cảnh.md)
+- [Chương 119: Quái Thú Sa Mạc](Chương_00119_Quái_Thú_Sa_Mạc.md)
+- [Chương 120: Lối Cổng Cổ Đại](Chương_00120_Lối_Cổng_Cổ_Đại.md)
