@@ -138,3 +138,7 @@
 - [Chương 106: Thương Đoàn Thiên Sa](Chương_00106_Thương_Đoàn_Thiên_Sa.md)
 - [Chương 107: Huyết Sa Bang Tấn Công](Chương_00107_Huyết_Sa_Bang_Tấn_Công.md)
 - [Chương 108: Cái Vòi Bạch Tuộc](Chương_00108_Cái_Vòi_Bạch_Tuộc.md)
+- [Chương 109: Đêm Dài Hướng Về Điểm Dừng](Chương_00109_Trạm_Dừng_Chân_Số_7.md)
+- [Chương 110: Mùi Vị Tây Mạc](Chương_00110_Mùi_Vị_Tây_Mạc.md)
+- [Chương 111: Dấu Vết Trong Bóng Tối](Chương_00111_Dấu_Vết_Trong_Bóng_Tối.md)
+- [Chương 112: Bóng Ma Dưới Lớp Cát](Chương_00112_Bóng_Ma_Dưới_Lớp_Cát.md)
