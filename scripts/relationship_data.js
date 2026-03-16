@@ -46,6 +46,39 @@ const relationshipData = {
       "avatar_color": "#d4cbbf"
     },
     {
+      "id": "am_diep",
+      "name": "Ám Diệp",
+      "title": "Trưởng Lão Lưu Đày",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Hắc Tinh Linh Lưu Đày",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#2c3e50"
+    },
+    {
+      "id": "am_da_hanh",
+      "name": "Ám Dạ Hành",
+      "title": "Ám Sát Đội Trưởng",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Hắc Tinh Linh Lưu Đày",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#34495e"
+    },
+    {
+      "id": "am_huyet",
+      "name": "Ám Huyết",
+      "title": "Huyết Mạch Sư",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Hắc Tinh Linh Lưu Đày",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#7f8c8d"
+    },
+    {
       "id": "hoang_dai_son",
       "name": "Hoàng Đại Sơn",
       "title": "Trưởng Trại Tuyết Thưa",
@@ -345,6 +378,42 @@ const relationshipData = {
       "since_chapter": 1,
       "bidirectional": true,
       "notes": "Hắc Lâm mang mẫu vật về cho Huyết Tịnh nghiên cứu."
+    },
+    {
+      "from": "am_diep",
+      "to": "am_da_hanh",
+      "type": "đồng_minh",
+      "subtype": "cấp_trên_cấp_dưới",
+      "label": "Tuyệt đối trung thành",
+      "strength": 5,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Ám Dạ Hành là cánh tay phải đắc lực, tuyệt đối phục tùng mệnh lệnh bảo vệ cộng đồng."
+    },
+    {
+      "from": "am_diep",
+      "to": "am_huyet",
+      "type": "đồng_minh",
+      "subtype": "cấp_trên_cấp_dưới",
+      "label": "Tín nhiệm",
+      "strength": 4,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Ám Diệp cung cấp tài nguyên để Ám Huyết nghiên cứu bí mật huyết mạch của Hắc Tinh Linh."
+    },
+    {
+      "from": "am_da_hanh",
+      "to": "am_huyet",
+      "type": "đồng_minh",
+      "subtype": "đồng_môn",
+      "label": "Đồng đội",
+      "strength": 3,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Ám Huyết cung cấp độc dược và dược thảo để Ám Dạ Hành thực hiện các nhiệm vụ ám sát."
     }
   ],
 
@@ -365,6 +434,14 @@ const relationshipData = {
       "region": "Khắp Nơi",
       "members": ["a_ngoc", "lam_phong"],
       "leader": null
+    },
+    {
+      "id": "hac_tinh_linh_luu_day",
+      "name": "Hắc Tinh Linh Lưu Đày",
+      "type": "thế_lực_ẩn",
+      "region": "Đông Hoang",
+      "members": ["am_diep", "am_da_hanh", "am_huyet"],
+      "leader": "am_diep"
     },
     {
       "id": "bang_nguyen_tan_tu_hoi",
@@ -437,6 +514,27 @@ if (typeof characterData !== 'undefined') {
         faction: "Hàn Độc Vi Trùng Đoàn",
         realm: "Trúc Cơ",
         description: "Vảy tuyết trong suốt chuyên rải sương lạnh vô hình.",
+        image: ""
+    };
+    characterData["Ám Diệp"] = {
+        name: "Ám Diệp",
+        faction: "Hắc Tinh Linh Lưu Đày",
+        realm: "Trúc Cơ Viên Mãn",
+        description: "Trưởng Lão Lưu Đày, dùng Ám Mộc Chi Lực bảo vệ cộng đồng.",
+        image: ""
+    };
+    characterData["Ám Dạ Hành"] = {
+        name: "Ám Dạ Hành",
+        faction: "Hắc Tinh Linh Lưu Đày",
+        realm: "Trúc Cơ Viên Mãn",
+        description: "Ám Sát Đội Trưởng, như bóng ma trong đêm.",
+        image: ""
+    };
+    characterData["Ám Huyết"] = {
+        name: "Ám Huyết",
+        faction: "Hắc Tinh Linh Lưu Đày",
+        realm: "Trúc Cơ Trung Kỳ",
+        description: "Huyết Mạch Sư nghiên cứu cơ thể Hắc Tinh Linh.",
         image: ""
     };
 }
