@@ -506,6 +506,40 @@ if (typeof module !== "undefined") {
   module.exports = relationshipData;
 }
 
+// Hai Than Cung (Vo Tan Hai) Update
+if (typeof relationships !== 'undefined') {
+    relationships.push(
+        { source: "Chương Hắc Triều", target: "Chương Thiên Cơ Huyền", type: "Cấp Dưới", description: "Bị kiềm chế bởi sự nghiêm khắc của Tế Tư." },
+        { source: "Chương Hắc Triều", target: "Chương Thiên Nhãn", type: "Đồng Liêu", description: "Dựa vào mạng lưới tình báo để tìm con mồi." },
+        { source: "Chương Thiên Cơ Huyền", target: "Chương Hắc Triều", type: "Cấp Trên", description: "Thường xuyên răn đe Hắc Triều vì sự bạo lực vô cớ." },
+        { source: "Chương Thiên Nhãn", target: "Chương Hắc Triều", type: "Đồng Liêu", description: "Cung cấp tọa độ mục tiêu nhưng cũng âm thầm đề phòng." }
+    );
+}
+
+if (typeof characterData !== 'undefined') {
+    characterData["Chương Hắc Triều"] = {
+        name: "Chương Hắc Triều",
+        faction: "Hải Thần Cung",
+        realm: "Kim Đan Viên Mãn",
+        description: "Tây Bắc Tướng Quân, bạch tuộc đen tàn nhẫn và khát máu.",
+        image: ""
+    };
+    characterData["Chương Thiên Cơ Huyền"] = {
+        name: "Chương Thiên Cơ Huyền",
+        faction: "Hải Thần Cung",
+        realm: "Nguyên Anh Sơ Kỳ",
+        description: "Đệ Tứ Tế Tư, lão giả bạch tuộc uyên bác nhưng bảo thủ.",
+        image: ""
+    };
+    characterData["Chương Thiên Nhãn"] = {
+        name: "Chương Thiên Nhãn",
+        faction: "Hải Thần Cung",
+        realm: "Trúc Cơ Viên Mãn",
+        description: "Tình Báo Trưởng, bạch tuộc nhỏ bé với hàng ngàn con mắt.",
+        image: ""
+    };
+}
+
 // Han Doc Vi Trung Doan (Bac Bang) Update
 if (typeof relationships !== 'undefined') {
     relationships.push(

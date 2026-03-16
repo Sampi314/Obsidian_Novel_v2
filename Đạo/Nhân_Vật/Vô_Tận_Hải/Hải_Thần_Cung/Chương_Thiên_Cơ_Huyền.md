@@ -26,13 +26,18 @@ arcs:
 - **Chức Vụ:** Đệ Tứ Tế Tư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Bạch tuộc 8 tay nắm 8 bí thuật cổ đại
+Chương Thiên Cơ Huyền mang hình hài một lão giả bạch tuộc có lớp da nhăn nheo tỏa ra ánh sáng xanh lam huyền bí. Tám chiếc xúc tu dài luôn chuyển động nhịp nhàng, mỗi cái đại diện cho sự kiểm soát một loại bí thuật cổ đại. Ông ta có tính cách trầm ổn, uyên bác nhưng cực kỳ bảo thủ, luôn đặt các quy tắc tôn giáo và sự an nguy của Hải Thần Cung lên hàng đầu. Trong mắt người khác, ông là một vị Tế Tư đáng kính nhưng cũng đầy đáng sợ bởi sự nghiêm khắc tột độ.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chương Thiên Cơ Huyền hiếm khi trực tiếp tham chiến, nhưng khi cần, ông sử dụng các bí thuật thủy hệ và trận pháp cổ xưa để đàn áp đối thủ.
+- Kỹ thuật đặc trưng: **Bát Trận Thủy Cực** (八阵水极) - Kích hoạt tám loại thủy trận khác nhau từ tám xúc tu để vây khốn và nghiền nát kẻ thù.
+- Điểm mạnh: Khả năng khống chế trận địa xuất sắc, sử dụng bí thuật diện rộng và hiểu biết sâu rộng về trận pháp Hải Thần Cung.
+- Điểm yếu: Thể chất suy yếu theo thời gian, không giỏi trong các cuộc đối đầu cận chiến kéo dài.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **[Hải Đế]:** Lãnh đạo. Chương Thiên Cơ Huyền là cố vấn đáng tin cậy của Hải Đế về các vấn đề tâm linh và lịch sử.
+- **[Chương Hắc Triều]:** Cấp dưới. Thiên Cơ Huyền thường xuyên phải đau đầu và ra mặt răn đe Hắc Triều vì sự bạo lực vô cớ của y.
+- **[Đại Tế Tư Biển Cả]:** Viện Chủ. Luôn trung thành và hỗ trợ Đại Tế Tư trong việc duy trì đức tin.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Từ một thư lại nhỏ bé phụ trách bảo quản các cổ thư tại Thủy Tinh Cung, Chương Thiên Cơ Huyền đã dành hàng trăm năm miệt mài nghiên cứu và giải mã những bí thuật tưởng chừng đã thất truyền. Sự kiên trì đó giúp ông khai mở trí tuệ và được thăng lên vị trí Đệ Tứ Tế Tư. Cột mốc lớn nhất của ông là việc phục hồi thành công một phần trận pháp bảo vệ Thủy Tinh Cung sau một đợt tấn công của Hắc Hải Hải Tặc. Hiện tại, ông đang tập trung đào tạo thế hệ linh mục trẻ để kế thừa kho tàng tri thức đồ sộ của mình.
