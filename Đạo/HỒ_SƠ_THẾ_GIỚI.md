@@ -548,6 +548,10 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Trùng Bạch (Phường Chủ)**: Cá thể sâu ngọc trai đầu tiên thức tỉnh linh trí, nhẫn nhục dưới ách cai trị của Giao Nhân, đang bí mật nuôi dưỡng Hắc Ngọc Trai như một quân bài mặc cả.
   - **Trùng Ngọc Châu (Thợ Chế Tác)**: Hậu bối mang linh trí, khao khát cái đẹp và tự do, nhưng bị vắt kiệt sức lực để tạo ra những viên ngọc lưu ly cho Giao Nhân.
   - **Trùng Tiểu Trai (Nuôi Trồng Viên)**: Thế hệ trẻ thơ ngây, chăm chỉ lao động và hát "bài ca buồn" mà chưa thấu hiểu bi kịch nô lệ của giống loài.
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Hỗn Huyết Tinh Linh Hội** (Đông Hoang):
+  - **Hỗn Nguyệt (Hội Trưởng)**: Nữ Hỗn huyết Tinh Linh - Nhân Tộc, bị Vương Đình lưu đày, dùng ý chí sắt đá thành lập hội bảo vệ những kẻ lai bị ruồng bỏ và sáng tạo công pháp cân bằng linh lực.
+  - **Lâm Kỳ Dạ (Đại Địa Cảm Ứng Sư)**: Hỗn huyết Tinh Linh - Xà Yêu, sở hữu thiên phú đọc hiểu linh mạch địa khí, là tấm khiên vững chắc và đôi mắt ngầm của hội.
+  - **Hồ Linh Hoa Nguyệt (Dược Sư)**: Nữ Hỗn huyết Tinh Linh - Hồ Yêu mang vẻ đẹp ma mị, kết hợp mộc linh khí chữa trị và huyễn thuật để bảo vệ hội và chăm sóc trẻ lai.
 - Cập nhật các mối quan hệ nội bộ và ngoại giao của phường vào hệ thống dữ liệu cốt truyện.
 
 ## SỰ KIỆN LỊCH SỬ NỔI BẬT
