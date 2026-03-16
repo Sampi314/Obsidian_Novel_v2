@@ -97,6 +97,9 @@
 - **Hoàng Đại Sơn:** Trưởng Trại Tuyết Thưa (Băng Nguyên Tán Tu Hội). Tính cách thô lỗ, cộc cằn nhưng nhân hậu. Chiến đấu bằng cơ bắp và hàn khí.
 - **Lý Tuyết Phong:** Trưởng Trại Hàn Phong (Băng Nguyên Tán Tu Hội). Tính cách trầm tĩnh, điềm đạm. Chuyên gia về trận pháp và phòng ngự.
 - **Nguyễn Hàn Sương:** Quản Sự Sàn Giao Dịch (Băng Nguyên Tán Tu Hội). Tính cách khôn khéo, mưu mô và lươn lẹo. Chuyên gia định giá và tình báo.
+- **Giao Bích Hải:** Dệt Sư của Giao Nhân Tộc Liên Minh. Tính cách tĩnh lặng, sử dụng Lụa Vân và dòng chảy để tạo bẫy rập.
+- **Giao Băng Ngọc Tâm:** Trưởng Lão 800 tuổi của Giao Nhân Tộc Liên Minh. Mang vẻ đẹp lão suy, tinh thông trận pháp Thượng Cổ Thủy Diệu Trận.
+- **Giao Bạch Lệ Hoa:** Mưu Sĩ của Giao Nhân Tộc Liên Minh. Sắc sảo, tàn nhẫn, sử dụng huyễn thuật và mưu kế để chống lại ngoại xâm.
 - **Đan Dương Tử (Hỏa Long Tôn Giả):** Cốc Chủ Đan Hà Cốc, Hóa Thần Sơ Kỳ. Đệ nhất đan sư Nam Cương, tính cách nóng nảy nhưng sòng phẳng. Sở hữu *Cửu Chuyển Đan Hỏa Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Đan_Dương_Tử.md`.
 - **Độc Cô Lão Quái (Vạn Độc Ma Quân):** Môn Chủ Vạn Độc Môn, Hóa Thần Sơ Kỳ. Tính cách tàn nhẫn, đa nghi, chuyên dùng độc và cổ trùng. Sở hữu *Vạn Độc Chân Kinh*.

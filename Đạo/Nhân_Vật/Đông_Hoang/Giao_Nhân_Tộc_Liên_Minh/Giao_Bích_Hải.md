@@ -26,15 +26,18 @@ arcs:
 - **Chức Vụ:** Dệt Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Dệt lưới bẫy từ ti biển bắt kẻ xâm nhập
+Giao Bích Hải sở hữu thân hình uyển chuyển với lớp vảy xanh lục lấp lánh như màu nước biển sâu, cùng mái tóc dài được tết gọn gàng bằng những sợi san hô mềm. Khuôn mặt nàng luôn hiện lên nét tập trung cao độ, đôi mắt màu lam ngọc sắc sảo thường xuyên quan sát các dòng chảy và dao động của linh khí. Nàng mang khí chất tĩnh lặng nhưng quyết đoán của một nghệ nhân và một người gác đêm, luôn thầm lặng bảo vệ không gian sống của tộc nhân khỏi sự dòm ngó.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-Thành viên của Giao Nhân Tộc Liên Minh, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 鲛碧海·Bản Mệnh (鲛碧海·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
+Phong cách chiến đấu của Giao Bích Hải kết hợp giữa nghệ thuật dệt Lụa Vân và thuật điều khiển dòng chảy, sử dụng môi trường nước để tạo ra các bẫy rập vô hình.
+- **Ti Vân La Trận (丝云罗阵):** Nàng phóng ra hàng ngàn sợi ti biển tẩm linh lực, đan chéo thành những mạng lưới khổng lồ dưới nước để bẫy và siết chặt kẻ xâm nhập.
+- **Bích Ba Phản Nhẫn (碧波反刃):** Kỹ thuật ngưng tụ áp suất nước vào các sợi chỉ Lụa Vân, biến chúng thành những lưỡi đao sắc bén có thể cắt đứt cả pháp bảo của kẻ thù.
+Điểm mạnh của nàng là khả năng phòng thủ và kiểm soát chiến trường ở diện rộng dưới nước, nhưng điểm yếu là sẽ giảm đáng kể sức mạnh nếu bị ép chiến đấu trên môi trường khô cạn.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Giao Băng Ngọc Tâm:** Trưởng Lão, đồng liêu quan trọng nhất trong Giao Nhân Tộc Liên Minh.
-- **Giao Bạch Lệ Hoa:** Mưu Sĩ, đối tác thường xuyên phối hợp.
-- **Giao Huyết Lệ:** Sát Thủ, mối quan hệ tin cậy lẫn nhau.
+- **Lệ Cơ:** Nàng vô cùng kính trọng vị Minh Chủ đương nhiệm và luôn đóng vai trò là hàng rào phòng ngự đầu tiên bảo vệ các quyết định của Lệ Cơ.
+- **Giao Băng Ngọc Tâm:** Bích Hải thường xuyên thỉnh giáo những câu chuyện lịch sử và trận pháp cổ từ Trưởng Lão Ngọc Tâm, xem bà như một người thầy về tâm linh.
+- **Bách Bảo Các:** Nàng giữ một thái độ vô cùng cảnh giác và lạnh nhạt với các thương nhân nhân tộc, chỉ giao tiếp khi bắt buộc trong các phiên giao dịch Lụa Vân.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-Giao Bích Hải vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Giao Nhân Tộc Liên Minh. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Giao Nhân Tộc Liên Minh và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dệt Sư.
+Xuất thân từ một bộ lạc nhỏ bị tàn phá bởi đám săn trộm Ngọc Trai Giao Nhân, Giao Bích Hải được Vân Khâu Viện cưu mang và truyền dạy nghệ thuật dệt Lụa Vân. Nỗi đau mất mát gia đình đã rèn giũa nàng từ một cô bé yếu đuối trở thành một Dệt Sư kiêm chiến binh lạnh lùng, dồn mọi tâm huyết vào việc gia cố Thủy Diệu Kết Giới của Thành phố Thủy Tinh. Sự kiện định hình tính cách lớn nhất của nàng là lần một mình thao túng Ti Vân La Trận đánh bật một đội săn trộm Trúc Cơ Kỳ của nhân tộc. Mục tiêu hiện tại của nàng là tạo ra một tấm Lụa Vân Tuyệt Đối có thể chống lại cả áp lực từ thần thức của các bậc cường giả Hóa Thần, bảo vệ vĩnh viễn vùng nước bình yên của tộc Giao Nhân.
