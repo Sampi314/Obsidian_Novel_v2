@@ -414,6 +414,30 @@ const relationshipData = {
       "since_chapter": 1,
       "bidirectional": true,
       "notes": "Ám Huyết cung cấp độc dược và dược thảo để Ám Dạ Hành thực hiện các nhiệm vụ ám sát."
+    },
+    {
+      "from": "lang_bach_suong",
+      "to": "lang_bao_phong",
+      "type": "đồng_minh",
+      "subtype": "đồng_môn",
+      "label": "Chữa Trị / Cằn Nhằn",
+      "strength": 4,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Bạch Sương thường xuyên dùng bạo lực y khoa răn đe Bạo Phong bớt liều lĩnh."
+    },
+    {
+      "from": "lang_co_han",
+      "to": "lang_bao_phong",
+      "type": "đồng_minh",
+      "subtype": "đồng_môn",
+      "label": "Chiến Hữu / Bọc Hậu",
+      "strength": 4,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Cô Hàn dọn dẹp cạm bẫy giúp Bạo Phong yên tâm lao lên càn quét."
     }
   ],
 
