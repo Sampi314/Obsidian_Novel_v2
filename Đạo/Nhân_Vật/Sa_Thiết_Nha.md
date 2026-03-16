@@ -1,0 +1,38 @@
+---
+type: character
+name: Sa Thiết Nha
+hantu: 鯊鐵牙
+archetype: Cận Vệ Đội Trưởng
+race: Hải Tộc
+avatar: ''
+arcs:
+  - arc: 1
+    status: Chưa Xác Định
+    cultivation: Kim Đan Trung Kỳ
+    methods: []
+    inventory: []
+    stats: [0, 0, 0, 0, 0, 0]
+    relationships: []
+---
+
+# HỒ SƠ NHÂN VẬT: SA THIẾT NHA (鯊鐵牙)
+
+## I. THÔNG TIN CƠ BẢN
+- **Họ Tên:** Sa Thiết Nha (鯊鐵牙).
+- **Chủng Tộc:** Hải Tộc (Sa).
+- **Tu Vi:** Kim Đan Trung Kỳ.
+- **Khu Vực:** Vô Tận Hải.
+- **Thế Lực:** Hải Thần Cung.
+- **Chức Vụ:** Cận Vệ Đội Trưởng.
+
+## II. NGOẠI HÌNH & TÍNH CÁCH
+Cá mập vệ binh, trung thành tuyệt đối
+
+## III. NĂNG LỰC & CHIẾN ĐẤU
+*(Chưa xác định)*
+
+## IV. CÁC MỐI QUAN HỆ
+*(Chưa xác định)*
+
+## V. TIỂU SỬ & HÀNH TRÌNH
+*(Chưa xác định)*
