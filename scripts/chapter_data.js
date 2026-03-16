@@ -1382,6 +1382,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00124_Trận_Chiến_Cửa_Ải.md",
       "title": "Chương 124: Trận Chiến Cửa Ải"
+    },
+    {
+      "filename": "Chương_00125_Tâm_Phong_Ấn.md",
+      "title": "Chương 125: Tâm Phong Ấn"
+    },
+    {
+      "filename": "Chương_00126_Huyết_Sát_Lai_Lâm.md",
+      "title": "Chương 126: Huyết Sát Lai Lâm"
+    },
+    {
+      "filename": "Chương_00127_Long_Cốt_Thức_Tỉnh.md",
+      "title": "Chương 127: Long Cốt Thức Tỉnh"
+    },
+    {
+      "filename": "Chương_00128_Đào_Thoát_Hoàng_Sa.md",
+      "title": "Chương 128: Đào Thoát Hoàng Sa"
     }
   ],
   "Góc_Nhìn_Lệ_Vô_Tâm": [

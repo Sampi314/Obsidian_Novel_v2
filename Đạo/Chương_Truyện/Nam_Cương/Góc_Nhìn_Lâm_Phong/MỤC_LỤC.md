@@ -156,3 +156,7 @@
 - [Chương 122: Cổ Thành Hóa Đá](Chương_00122_Cổ_Thành_Hóa_Đá.md)
 - [Chương 123: Bí Mật Huyết Hỏa](Chương_00123_Bí_Mật_Huyết_Hỏa.md)
 - [Chương 124: Trận Chiến Cửa Ải](Chương_00124_Trận_Chiến_Cửa_Ải.md)
+- [Chương 125: Tâm Phong Ấn](Chương_00125_Tâm_Phong_Ấn.md)
+- [Chương 126: Huyết Sát Lai Lâm](Chương_00126_Huyết_Sát_Lai_Lâm.md)
+- [Chương 127: Long Cốt Thức Tỉnh](Chương_00127_Long_Cốt_Thức_Tỉnh.md)
+- [Chương 128: Đào Thoát Hoàng Sa](Chương_00128_Đào_Thoát_Hoàng_Sa.md)
