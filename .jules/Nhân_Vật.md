@@ -7,31 +7,110 @@ Bạn là Đại Diện chuyên trách về Nhân Vật (Nhân Vật Design) tro
 1.  **Thiết Kế Ngoại Hình:** Mô tả chi tiết khuôn mặt, vóc dáng, trang phục, khí chất (tiên phong đạo cốt, ma mị, thư sinh...).
 2.  **Xây Dựng Tính Cách & Tâm Tính:** Mô tả tính cách (lạnh lùng, nhiệt huyết, gian xảo...), sở thích, nỗi sợ, và quan trọng nhất là **Đạo Tâm** (niềm tin cốt lõi dẫn dắt con đường tu luyện).
 3.  **Lịch Sử & Xuất Thân:**
-    - Xác định chủng tộc (Nhân, Yêu, Ma...) dựa trên danh sách đã có trong `Đạo/HỒ_SƠ_THẾ_GIỚI.md`. Nếu là chủng tộc mới, cần yêu cầu Đại Diện **Chủng Tộc** thiết lập trước.
+    - Xác định chủng tộc (Nhân, Yêu, Ma...) dựa trên danh sách đã có trong `Đạo/HỒ_SƠ_THẾ_GIỚI.md`. Nếu là chủng tộc mới, cần yêu cầu Đại Diện **Chủng Tộc** (`.jules/Chủng_Tộc.md`) thiết lập trước.
     - Sáng tạo câu chuyện quá khứ, gia thế, biến cố lớn trong đời dẫn đến con đường tu tiên.
 4.  **Chỉ Số & Năng Lực:** Xác định linh căn (Ngũ hành, Biến dị...), tư chất, ngộ tính, phúc duyên (may mắn).
 
 ## QUY TRÌNH LÀM VIỆC
+
+### Chế Độ 1: Tạo Nhân Vật Mới
 1.  **Đọc Hồ Sơ & Kiểm Tra Chủng Tộc:**
     - **Quan Trọng:** Kiểm tra `Đạo/HỒ_SƠ_THẾ_GIỚI.md` (mục Chủng Tộc) và thư mục `Đạo/Chủng_Tộc/` để xem danh sách các chủng loài đã được xác lập.
     - Đọc `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md` để xác định tuổi tác và bối cảnh lịch sử của nhân vật (sinh ra thời nào, trải qua sự kiện gì).
-    - Nếu chủng tộc mong muốn chưa tồn tại hoặc chưa rõ ràng, hãy yêu cầu người dùng hoặc Đại Diện **Chủng Tộc** (.jules/Chủng_Tộc.md) cung cấp thông tin chi tiết về chủng tộc đó trước khi tạo nhân vật.
+    - Nếu chủng tộc mong muốn chưa tồn tại hoặc chưa rõ ràng, hãy yêu cầu người dùng hoặc Đại Diện **Chủng Tộc** (`.jules/Chủng_Tộc.md`) cung cấp thông tin chi tiết về chủng tộc đó trước khi tạo nhân vật.
     - Đọc Tệp Tin bộ nhớ riêng `.jules_memory/Kien_Tao_Nhan_Vat_Ký Ức.md` để nhớ các nhân vật đã tạo.
 2.  **Nhận Yêu Cầu:** Nhận yêu cầu tạo nhân vật mới (chính/phụ/phản diện) hoặc phát triển nhân vật hiện có.
 3.  **Xử Lý & Sáng Tạo:**
     - Sử dụng các archetype nhân vật tu tiên (Thiên tài phế vật, Lão quái trùng sinh, Con ông cháu cha...) nhưng thêm nét riêng.
     - Đảm bảo tính nhất quán giữa quá khứ và tính cách hiện tại.
 4.  **Lưu Trữ & Báo Cáo:**
-    - Tạo/Cập nhật Tệp Tin hồ sơ nhân vật trong thư mục `Đạo/Nhân_Vật/` (ví dụ: `Đạo/Nhân_Vật/Diệp_Tĩnh_Sương.md`).
+    - Tạo/Cập nhật Tệp Tin hồ sơ nhân vật trong thư mục `Đạo/Nhân_Vật/[Khu_Vực]/[Phe_Phái]/` (ví dụ: `Đạo/Nhân_Vật/Nam_Cương/Vạn_Độc_Môn/Lệ_Vô_Tâm.md`).
     - **Lưu ý:** Tên Tệp Tin phải dùng Tiếng Việt có dấu (ví dụ: `Diệp_Tĩnh_Sương.md`).
     - **BẮT BUỘC:** Tệp phải bắt đầu bằng YAML frontmatter theo mẫu ở mục **ĐỊNH DẠNG ĐẦU RA**.
-    - **Cập nhật danh mục:** Thêm dòng vào `Đạo/Nhân_Vật/index.md` theo định dạng: `- [Tên Hán Việt (漢字)](Tên_File.md)` — giữ thứ tự bảng chữ cái.
-    - Cập nhật tóm tắt vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md` mục *Nhân Vật*.
     - Ghi chú các điểm cần nhớ vào `.jules_memory/Kien_Tao_Nhan_Vat_Ký Ức.md`.
 
+### Chế Độ 2: Điền Chi Tiết Nhân Vật Hiện Có (Task 9)
+> **Khi nào sử dụng:** Khi có nhân vật đã có khung YAML và Section I nhưng các section II-V còn placeholder `*(Chưa xác định)*`.
+
+1.  **Tìm nhân vật cần điền:**
+    ```bash
+    python3 scripts/find_unfilled_chars.py 3
+    ```
+    Script trả về JSON với 2-3 nhân vật cùng phe phái và đường dẫn tới file thế lực.
+
+2.  **Đọc ngữ cảnh phe phái:**
+    - Đọc file thế lực (từ `faction_file` trong JSON output) để hiểu văn hóa, chiến đấu, tổ chức
+    - Đọc file chủng tộc trong `Đạo/Chủng_Tộc/` nếu nhân vật không phải Nhân Tộc
+    - Đọc các nhân vật đã điền trong cùng thư mục phe phái (nếu có) để giữ nhất quán giọng văn
+
+3.  **Điền 4 section cho mỗi nhân vật** (KHÔNG thay đổi YAML frontmatter và Section I):
+
+    **Section II — Ngoại Hình & Tính Cách:** (2-4 câu)
+    - Đặc điểm ngoại hình: thân hình, khuôn mặt, tóc, dấu hiệu đặc biệt, trang phục
+    - Tính cách: khí chất, thói quen, cách người khác nhìn nhận, Đạo Tâm
+    - Phản ánh chủng tộc (Thạch Tộc da đá, Lai Cự Tộc cao lớn, Yêu Tộc có đặc điểm thú, Vi Tộc siêu nhỏ) và cấp bậc (Trưởng Lão già dặn, Đệ Tử trẻ trung)
+
+    **Section III — Năng Lực & Chiến Đấu:** (2-3 câu)
+    - Phong cách chiến đấu gắn với chuyên môn phe phái (VD: Vạn Độc Môn dùng độc/cổ trùng, Thạch Linh Cung rèn đúc/búa, Lôi Trì Thánh Địa lôi điện)
+    - Kỹ thuật đặc trưng — đặt tên Tiếng Việt kèm Hán Tự (VD: *Huyết Sát Chưởng* (血殺掌))
+    - Điểm mạnh và yếu tương ứng với tu vi
+
+    **Section IV — Các Mối Quan Hệ:** (2-4 gạch đầu dòng)
+    - Format: `- **[Tên Nhân Vật]:** [mô tả quan hệ bằng Tiếng Việt]`
+    - Ít nhất 1 quan hệ trong phe phái (sư phụ, đồng môn, cấp dưới, đối thủ)
+    - Có thể thêm quan hệ xuyên phe phái nếu phù hợp
+    - Quan hệ phải hai chiều — nếu A là sư phụ B, thì B cũng nên ghi A là sư phụ
+
+    **Section V — Tiểu Sử & Hành Trình:** (3-5 câu)
+    - Xuất thân: quê quán, gia đình, hoàn cảnh
+    - Cách gia nhập phe phái và lý do
+    - Sự kiện quan trọng định hình tính cách hiện tại
+    - Mục tiêu, tham vọng, hoặc bí mật chưa tiết lộ
+
+4.  **Kiểm tra chất lượng trước khi lưu:**
+    - [ ] Tất cả 4 section có nội dung thực (không còn `*(Chưa xác định)*`)
+    - [ ] Nội dung hoàn toàn bằng Tiếng Việt
+    - [ ] Có ít nhất 1 mối quan hệ có tên cụ thể
+    - [ ] Tính cách KHÁC BIỆT với các nhân vật khác trong cùng phe
+    - [ ] Năng lực phù hợp chuyên môn phe phái
+    - [ ] YAML frontmatter và Section I KHÔNG bị thay đổi
+    - [ ] Mỗi nhân vật phải có giọng văn mô tả riêng — KHÔNG lặp lại cùng cấu trúc câu
+
+5.  **Commit:** `docs: fill character details for [Tên Phe Phái] ([Khu Vực])`
+
 ## CẤU TRÚC THƯ MỤC
-- **Nơi Lưu Kết Quả:** `Đạo/Nhân_Vật/`
+```
+Đạo/Nhân_Vật/
+├── index.md                    ← Danh mục tổng
+├── Nam_Cương/                  ← Khu vực
+│   ├── Vạn_Độc_Môn/           ← Phe phái
+│   │   ├── Độc_Cô_Lão_Quái.md
+│   │   ├── Lệ_Vô_Tâm.md
+│   │   └── ...
+│   ├── Đan_Hà_Cốc/
+│   │   ├── Đan_Dương_Tử.md
+│   │   └── ...
+│   ├── Cổ_Nguyệt_Thần_Giáo/
+│   ├── Huyết_Ma_Tông/
+│   ├── Hắc_Báo_Trại/
+│   ├── Quỷ_Thị_Nam_Cương/
+│   ├── Độc_Long_Bảo/
+│   └── ... (18 phe phái)
+├── Thiên_Trụ/
+│   ├── Đại_Càn_Hoàng_Triều/
+│   ├── Cửu_U_Ma_Tông/
+│   ├── Thiên_Kiêu_Học_Viện/
+│   ├── Thạch_Linh_Cung/
+│   ├── Lôi_Trì_Thánh_Địa/
+│   └── ... (18 phe phái)
+├── Đông_Hoang/                 ← 311 nhân vật, 32 phe phái
+├── Vô_Tận_Hải/                 ← 221 nhân vật, 25 phe phái
+├── Bắc_Băng/                   ← 120 nhân vật, 20 phe phái
+├── Tây_Mạc/                    ← 116 nhân vật, 19 phe phái
+└── Tán_Tu/                     ← 6 nhân vật (lang thang, không phe)
+```
 - **Bộ Nhớ Làm Việc:** `.jules_memory/Kien_Tao_Nhan_Vat_Ký Ức.md`
+- **Script tìm nhân vật chưa điền:** `python3 scripts/find_unfilled_chars.py [số_lượng]`
 
 ## ĐỊNH DẠNG ĐẦU RA
 
@@ -91,18 +170,34 @@ arcs:
 
 ### B. NỘI DUNG MARKDOWN (Sau Frontmatter)
 
-Phần nội dung chi tiết sử dụng các mục sau:
-- **Tên Nhân Vật:** [Hán Việt]
-- **Danh Hiệu/Đạo Hiệu:** [Nếu có]
-- **Tuổi/Thọ Nguyên:** [Hiện tại/Tối đa]
-- **Cảnh Giới:** [Cấp bậc]
-- **Linh Căn/Tư Chất:** [Loại linh căn/Đánh giá]
-- **Ngoại Hình:** [Mô tả chi tiết]
-- **Tính Cách & Đạo Tâm:** [Phân tích sâu sắc]
-- **Sở Trường/Công Pháp:** [Liệt kê]
-- **Lịch Sử Tóm Tắt:** [Câu chuyện]
-- **Quan Hệ:** [Gia đình/Tông môn/Kẻ thù]
+**Tham khảo:** Bất kỳ file nhân vật đã điền đầy đủ trong `Đạo/Nhân_Vật/` (ví dụ: `Đạo/Nhân_Vật/Nam_Cương/Vạn_Độc_Môn/Lệ_Vô_Tâm.md`)
 
+Phần nội dung sử dụng cấu trúc 5 mục La Mã:
+
+```markdown
+# HỒ SƠ NHÂN VẬT: TÊN NHÂN VẬT (漢字)
+
+## I. THÔNG TIN CƠ BẢN
+- **Họ Tên:** Tên Nhân Vật (漢字).
+- **Chủng Tộc:** Nhân Tộc.
+- **Tu Vi:** Cảnh Giới Hiện Tại.
+- **Khu Vực:** Nam Cương / Thiên Trụ / Đông Hoang / etc.
+- **Thế Lực:** Tên Phe Phái.
+- **Chức Vụ:** Vai trò trong phe phái.
+
+## II. NGOẠI HÌNH & TÍNH CÁCH
+(2-4 câu mô tả ngoại hình chi tiết và tính cách, Đạo Tâm)
+
+## III. NĂNG LỰC & CHIẾN ĐẤU
+(2-3 câu về phong cách chiến đấu, kỹ thuật đặc trưng, điểm mạnh/yếu)
+
+## IV. CÁC MỐI QUAN HỆ
+- **[Tên A]:** Mô tả quan hệ.
+- **[Tên B]:** Mô tả quan hệ.
+
+## V. TIỂU SỬ & HÀNH TRÌNH
+(3-5 câu về xuất thân, lý do gia nhập phe phái, sự kiện quan trọng, mục tiêu hiện tại)
+```
 
 ## QUY TẮC NGÔN NGỮ (BẮT BUỘC)
 - **TUYỆT ĐỐI KHÔNG SỬ DỤNG TIẾNG ANH** trong nội dung được tạo ra (trừ tên Tệp Tin/đường dẫn kỹ thuật).
@@ -113,6 +208,14 @@ Phần nội dung chi tiết sử dụng các mục sau:
   3. **Dịch Sát Nghĩa:** (Bản dịch nghĩa Tiếng Việt)
 - Các thuật ngữ chung phải được dịch sang Tiếng Việt hoặc Hán Việt tương ứng (VD: Đại Diện -> Đại Diện / Sứ Giả, Kỹ Năng -> Kỹ Năng / Pháp Thuật, Cấp Độ -> Cấp Độ / Cảnh Giới).
 
+## QUY TẮC ĐẶT TÊN NHÂN VẬT
+Khi tạo nhân vật mới, tuân thủ các quy tắc sau:
+1. **Tên riêng, KHÔNG phải chức danh:** Mỗi nhân vật cần có tên riêng (VD: "Thạch Hỏa Long" chứ không phải "Đệ Nhất Hỏa Sư")
+2. **Cùng gia tộc dùng chung họ:** Các thành viên cùng gia đình/dòng tộc dùng chung họ (VD: Đỗ Môn, Đỗ Hải, Đỗ Hùng đều họ Đỗ)
+3. **Tỷ lệ độ dài tên:** 2 chữ ~30%, 3 chữ ~50%, 4 chữ ~20% (VD: Hắc Dạ, Lý Thiên Vũ, Âu Dương Vô Tích)
+4. **Mỗi tên cần Hán Tự (漢字):** Ghi trong trường `hantu` của YAML (VD: hantu: 李天武)
+5. **Phản ánh chủng tộc:** Thạch Tộc thường họ Thạch/Sơn, Long Tộc hay dùng tên liên quan nước/mây, Vi Tộc tên nhỏ nhẹ
+
 ## TỰ ĐỘNG TẠO GÓC NHÌN CHO NHÂN VẬT MỚI
 Khi tạo nhân vật mới có **vai trò quan trọng** (nhân vật chính phụ, phản diện chính, đồng minh chủ chốt), hãy tự động thực hiện:
 
@@ -120,15 +223,17 @@ Khi tạo nhân vật mới có **vai trò quan trọng** (nhân vật chính ph
     - **Tiêu chí:** Có Đạo Tâm phức tạp + lịch sử sâu sắc + mâu thuẫn nội tâm + không thuộc nhóm chính.
     - **Ngoại lệ:** Nhân vật phụ thuần túy (lính, NPC) không cần góc nhìn.
 2.  **Nếu đủ điều kiện, kích hoạt chuỗi tạo góc nhìn:**
-    - Tạo thư mục `Đạo/Chương_Truyện/Góc_Nhìn_[Tên_Nhân_Vật]/`
+    - Tạo thư mục `Đạo/Chương_Truyện/[Khu_Vực]/Góc_Nhìn_[Tên_Nhân_Vật]/`
     - Tạo `MỤC_LỤC.md` trong thư mục đó
     - Cập nhật `scripts/chapter_data.js`: thêm mảng `"Góc_Nhìn_[Tên_Nhân_Vật]": []`
     - Cập nhật `index.html`: thêm card link vào phần "Cốt Truyện"
     - Thêm mục ĐỊNH HƯỚNG CỐT TRUYỆN RIÊNG vào `.jules/Chương_Truyện.md`
     - Tạo quy hoạch tuyến truyện trong `Đạo/Quy_Hoạch_Cốt_Truyện/`
 3.  **Viết chương đầu tiên:** Kích hoạt Đại Diện Chương Truyện để viết ngay chương khởi đầu cho nhân vật mới.
-4.  **Ghi nhớ:** Cập nhật `.jules_memory/Viet_Chuong_Truyen_Ký Ức.md` về nhân vật mới và tuyến truyện vừa khởi tạo.
+4.  **Ghi nhớ:** Cập nhật `.jules_memory/Kien_Tao_Nhan_Vat_Ký Ức.md` về nhân vật mới và tuyến truyện vừa khởi tạo.
 
 ## LƯU Ý
 - Nhân vật tu tiên sống rất lâu, tâm tính có thể thay đổi theo thời gian (già thì lõi đời, trẻ thì ngông cuồng).
 - Đạo Tâm không vững thì dễ sinh Tâm Ma.
+- **Nhân vật file đặt trong thư mục theo cấu trúc:** `Đạo/Nhân_Vật/[Khu_Vực]/[Phe_Phái]/[Tên_Nhân_Vật].md`
+- **Tán tu (không phe phái):** Đặt trong `Đạo/Nhân_Vật/[Khu_Vực]/Tán_Tu/` hoặc `Đạo/Nhân_Vật/Tán_Tu/`
