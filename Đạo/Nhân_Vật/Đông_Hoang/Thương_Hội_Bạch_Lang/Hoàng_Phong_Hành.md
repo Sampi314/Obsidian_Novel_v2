@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Hộ Vệ Cốt Cán.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Hoàng Phong Hành là thanh niên nhanh nhẹn, thân hình gầy nhưng dẻo dai, mắt sáng tò mò, tóc đen ngắn. Mặc áo giáp da nhẹ, mang cung ngắn và dao găm. Tính cách hoạt bát, ham học hỏi, luôn muốn chứng minh bản thân xứng đáng là Sói Bạc.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Hoàng Phong Hành đang tu luyện Phong Hành Cung Tiễn (風行弓箭) — cung thuật kết hợp phong linh khí, mũi tên bay nhanh hơn bình thường và có thể đổi hướng một lần. Tu vi thấp nhưng bù lại bằng kỹ năng trinh sát xuất sắc và phản xạ nhanh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Phạm Bạch Vệ:** Đàn anh đang rèn luyện y thành hộ vệ cốt cán.
+- **Nguyễn Tiểu Sói:** Đồng đội trẻ, hai người hay cạnh tranh vui vẻ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Phong Hành là con trai thợ săn biên giới, gia nhập Hội để kiếm tiền nuôi mẹ già. Tài năng bắn cung được phát hiện sớm, y nhanh chóng thăng từ hộ vệ ngoại vi lên cốt cán. Mơ ước trở thành Quản Sự để có thể lo cho gia đình tốt hơn.

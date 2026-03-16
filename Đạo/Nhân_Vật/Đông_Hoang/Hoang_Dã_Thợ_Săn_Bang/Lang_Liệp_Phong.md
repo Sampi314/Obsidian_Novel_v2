@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Bang Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vẻ ngoài khắc khổ với dáng người gầy gò nhưng tinh thần mạnh mẽ. Đôi mắt sáng rực chứa đầy trí tuệ. Tính cách trầm lặng, kiên nhẫn, thích quan sát hơn hành động vội vàng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tinh thông công pháp trấn phái của Hoang Dã Thợ Săn Bang, đạt cảnh giới đại thành. Tuyệt chiêu 狼獵風·Chấn Phái Quyết (狼獵風·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Báo Khoái Đao:** Sát Thủ, đồng liêu quan trọng nhất trong Hoang Dã Thợ Săn Bang.
+- **Hổ Thiết Trảo:** Phó Bang Chủ, đối tác thường xuyên phối hợp.
+- **Ưng Lợi Nhãn:** Trinh Sát Trưởng, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lang Liệp Phong được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Hoang Dã Thợ Săn Bang. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Hoang Dã Thợ Săn Bang và dần khẳng định vị trí của mình. Với tu vi Kim Đan Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Bang Chủ.

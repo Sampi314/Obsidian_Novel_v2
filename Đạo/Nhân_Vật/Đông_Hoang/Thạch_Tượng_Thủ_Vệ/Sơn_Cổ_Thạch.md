@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Thủ Vệ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Sơn Cổ Thạch cao hai mét rưỡi, da xám nứt nẻ như đá cổ ngàn năm, trên lưng mọc vài cây nhỏ. Bước đi chậm rãi nhưng vững chắc, mắt đục nhưng sáng khi có nguy hiểm. Tính cách già dặn, kinh nghiệm dày dạn, ít khi hoảng hốt trước bất kỳ tình huống nào.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Sơn Cổ Thạch sở hữu Cổ Thạch Phong Ấn (古石封印) — phong ấn mục tiêu bằng lớp đá cổ đại, khó phá hơn đá thường gấp nhiều lần. Tuyệt kỹ Thiên Niên Thạch Giáp (千年石甲) phủ lên thân lớp giáp cổ thạch cứng vô song. Điểm yếu là tốc độ cực chậm do tuổi cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Thạch Miên:** Đồng đạo cổ đại, hai người cùng bảo vệ di tích từ thời thượng cổ.
+- **Nham Tĩnh Lập:** Thế hệ sau mà Cổ Thạch đánh giá cao năng lực và kiên nhẫn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Sơn Cổ Thạch là Cự Tộc cổ đại, đồng thời với Thạch Miên, cùng nhận sứ mệnh bảo vệ di tích. Khác với Thạch Miên ngủ nghỉ, Cổ Thạch luôn tỉnh nhưng di chuyển cực chậm, gần như hòa vào cảnh vật. Y mang trong mình ký ức về thời thượng cổ khi Cự Tộc còn thống trị Đông Hoang, và lo sợ rằng thứ bên trong di tích nếu bị phát hiện sẽ gây đại họa.

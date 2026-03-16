@@ -29,10 +29,12 @@ arcs:
 Lập hội 15 năm, chứng minh hỗn huyết không kém thuần huyết
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tinh thông công pháp trấn phái của Bán Tinh Linh Hội, đạt cảnh giới đại thành. Tuyệt chiêu 半林·Chấn Phái Quyết (半林·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoa Nhân Hàn Ngọc:** Chiến Sĩ, đồng liêu quan trọng nhất trong Bán Tinh Linh Hội.
+- **Lâm Hoa Vũ:** Thợ Săn, đối tác thường xuyên phối hợp.
+- **Lý Nguyệt Hoa:** Y Sư, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Bán Lâm xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Bán Tinh Linh Hội. Trải qua thử thách sinh tử, nàng gia nhập Bán Tinh Linh Hội và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hội Trưởng.

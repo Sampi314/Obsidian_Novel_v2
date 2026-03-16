@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Ngư Dân.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Ngư Bạch San mang hình dáng Ngư Nhân nhỏ, da phủ vảy trắng bạc, đuôi cá nhỏ xinh, mắt tròn sáng. Là Ngư Nhân nữ trẻ, nhanh nhẹn nhất thôn. Tính cách dũng cảm, hay dẫn đầu đội thợ săn cá, không sợ bơi ra vùng nước sâu.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Ngư Bạch San sở hữu Bạch San Tốc Bơi (白珊速游) — kỹ năng bơi cực nhanh xuyên qua rạn san hô mà không bị cản trở. Có thể phát ra sóng âm mạnh hơn bình thường để xua đuổi cá ăn thịt cỡ trung. Không phải tu sĩ nhưng phản xạ dưới nước rất tốt.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Ngư Lão Vĩ:** Thôn Trưởng mà y vâng lời, dù đôi khi muốn bơi ra xa hơn.
+- **Ngư Tiểu Lân:** Ngư Nhân trẻ mà y bảo vệ, thấy y đặc biệt.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ngư Bạch San sinh ra với vảy trắng bạc — hiếm gặp trong thôn. Nhanh nhẹn và dũng cảm nhất đội thợ săn, y đã mở rộng vùng bắt cá cho thôn. Từng cứu ba Ngư Nhân bị sứa linh kéo đi, bị thương nhưng cứu được đồng đội. Y ngưỡng mộ vẻ đẹp của biển sâu, mơ ước một ngày bơi đến Hải Thần Cung.

@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Chiến Sĩ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Cháu Phượng Xích, mũi nhọn lửa lao xuống như sao băng
+Phượng Viêm Phong khi hóa nhân là một thanh niên mảnh dẻ nhưng nhanh nhẹn, mái tóc cam đỏ buộc gọn, gương mặt thanh tú hơn Phượng Xích Diệm. Đôi mắt cam sáng quắc, thân hình nhỏ gọn phù hợp cho tốc độ hơn sức mạnh. Khi ở nguyên hình là phượng hoàng lửa nhỏ nhưng cực nhanh, bay xuyên rừng già như tia sáng. Tính cách điềm tĩnh, tính toán kỹ lưỡng trước khi hành động, đối lập hoàn toàn với anh họ Phượng Xích Diệm, nhưng giấu kín tham vọng lớn.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phượng Viêm Phong tu luyện Viêm Phong Tốc Kích Thuật (炎鋒速擊術), kết hợp tốc độ phi thường với ngọn lửa sắc bén như lưỡi kiếm. Tuyệt chiêu Hỏa Tiễn Xuyên Lâm (火箭穿林) cho phép hắn lao xuyên qua rừng già như mũi tên lửa, mọi vật cản trên đường đều bị thiêu cháy. Tốc độ vượt trội trong gia tộc nhưng sức công kích đơn lẻ không mạnh bằng Phượng Xích Diệm, cần nhiều đòn mới hạ được đối thủ nặng giáp.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Phượng Xích Diệm:** Chiến Sĩ, anh họ và đối thủ cạnh tranh, hai người bổ sung cho nhau trên chiến trường.
+- **Công Thái Hồng:** Chiến Tướng, người mà hắn âm thầm học hỏi chiến thuật và nghệ thuật chỉ huy.
+- **Phượng Viêm Cánh:** Chiến Sĩ Trẻ, em họ nhỏ tuổi mà hắn kiên nhẫn dạy dỗ bay lượn.
+- **Phượng Xích:** Tộc Trưởng, bác ruột mà hắn kính trọng, người quyết định tương lai của hắn trong gia tộc.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phượng Viêm Phong là cháu họ của Phượng Xích, thuộc chi thứ trong gia tộc, từ nhỏ đã sống trong cái bóng của dòng chính. Thay vì đố kỵ, hắn chọn con đường phát triển khác biệt, tập trung vào tốc độ và chiến thuật thay vì sức mạnh thuần túy. Bước ngoặt là khi hắn một mình trinh sát được toàn bộ bố trí của Hắc Báo Trại mà không bị phát hiện, lập đại công cho gia tộc. Mục tiêu hiện tại là đột phá Nguyên Anh và trở thành cánh tay phải đắc lực nhất của tộc trưởng.

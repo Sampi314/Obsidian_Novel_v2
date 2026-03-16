@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Các Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lạc Vô Danh là trung niên dáng cao gầy, mặc áo bào xám cũ, tóc bạc phất phơ, mắt sáng chứa đựng trí tuệ sâu thẳm nhưng ánh lên nét u buồn. Bàn tay dài thanh thoát, thường vuốt ve các pháp khí hỏng như chăm sóc thương binh. Tính cách trầm lặng, nhân từ, tin rằng mọi vật đều có linh hồn, kể cả pháp khí đã hỏng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lạc Vô Danh sở hữu Phế Linh Tái Tạo Thuật (廢靈再造術) — kỹ thuật phục hồi linh lực tàn dư trong pháp khí hỏng, tái sử dụng chúng dưới hình thức mới. Tuyệt kỹ Vạn Linh Quy Nhất (萬靈歸一) gom góp linh lực từ hàng trăm mảnh pháp khí vỡ tạo thành một đòn tấn công bất ngờ. Điểm yếu là cần nhiều pháp khí hỏng làm nguyên liệu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Tàn Linh:** Đại Trưởng Lão, đồng sáng lập, người mà Vô Danh tin tưởng nhất trong mọi quyết sách.
+- **Phạm Phế Căn:** Trưởng Lão phụ trách thu mua phế phẩm, cánh tay phải trong vận hành Các.
+- **Lý Tiểu Phế:** Đệ tử trẻ mà Vô Danh kỳ vọng sẽ kế thừa Phế Linh Các.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lạc Vô Danh từng là luyện khí sư tài năng trong một tông phái lớn, nhưng bị trục xuất vì khăng khăng giữ lại pháp khí hỏng thay vì vứt bỏ. Y tin rằng trong mỗi pháp khí đều có dấu vết linh hồn của người chế tác, không nên lãng phí. Thành lập Phế Linh Các, y trở thành nơi nương tựa cho những tu sĩ cùng bị bỏ rơi như pháp khí hỏng. Bí mật: y đang nghiên cứu cách hồi phục linh căn bị tổn thương — kiến thức bị cấm trong tu tiên giới.

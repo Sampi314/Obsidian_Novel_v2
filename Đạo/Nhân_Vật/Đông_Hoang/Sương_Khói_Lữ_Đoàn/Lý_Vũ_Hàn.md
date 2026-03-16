@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Đoàn Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lý Vũ Hàn dáng người tầm thước, luôn mặc áo choàng xám bạc, tóc buộc lỏng lẻo, mắt điềm tĩnh nhưng ẩn chứa nỗi buồn. Da nhợt nhạt, bước đi nhẹ nhàng không tiếng động. Tính cách trầm lặng, đáng tin cậy, che chở đồng đội bằng cách gánh vác mọi khó khăn một mình.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lý Vũ Hàn sở hữu Sương Khói Ẩn Thân Thuật (霜煙隱身術) — hòa mình vào sương mù trở nên vô hình, dẫn dắt cả đoàn di chuyển mà không bị phát hiện. Tuyệt kỹ Hàn Sương Mê Trận (寒霜迷陣) tạo ra vùng sương khói dày đặc khiến kẻ địch mất phương hướng. Điểm yếu là trong điều kiện không có sương, sức chiến đấu giảm mạnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Sương Phong:** Phó Đoàn Trưởng, đồng đạo thân thiết nhất, hai người phối hợp ăn ý.
+- **Phạm Tiểu Sương:** Thành viên trẻ mà Vũ Hàn đang dẫn dắt trưởng thành.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Vũ Hàn từng là đệ tử một tông phái nhỏ bị diệt, y là người sống sót duy nhất nhờ khả năng ẩn thân trong sương. Từ đó lang thang, thu nạp những lữ khách cùng cảnh ngộ thành Sương Khói Lữ Đoàn — một nhóm chuyên hộ tống và vận chuyển bí mật qua các vùng nguy hiểm. Nỗi buồn mất tông phái khiến y không bao giờ ở yên một chỗ, luôn trên đường đi.

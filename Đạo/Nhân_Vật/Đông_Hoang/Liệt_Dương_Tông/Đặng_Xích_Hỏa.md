@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thân hình cao ráo mạnh mẽ, ánh mắt sắc bén đầy quyết tâm. Tính cách thẳng thắn, dũng cảm, không sợ đối mặt với khó khăn. Trung thành tuyệt đối với đồng đội.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện công pháp cốt lõi của Liệt Dương Tông đạt trình độ cao thâm. Chiêu thức 鄧赤火·Hộ Pháp Ấn (鄧赤火·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Dung Nham:** Hộ Pháp, đồng liêu quan trọng nhất trong Liệt Dương Tông.
+- **Lê Dương Thiết:** Tông Chủ, đối tác thường xuyên phối hợp.
+- **Nguyễn Liệt Diễm:** Trưởng Lão Viêm Long Quân, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Đặng Xích Hỏa sinh ra trong một gia đình Nhân Tộc bình thường, sớm thể hiện tư chất phù hợp với Liệt Dương Tông. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Liệt Dương Tông và dần khẳng định vị trí của mình. Với tu vi Nguyên Anh Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trưởng Lão.

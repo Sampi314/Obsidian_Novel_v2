@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Tộc Dân.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vi Tiểu Mộc nhỏ như hạt gạo, thân hình trong suốt phát sáng xanh lá tươi mới, đôi khi nhấp nháy không đều — dấu hiệu của cá thể trẻ chưa ổn định năng lượng. Di chuyển nhảy tưng tưng trên cành cây, tò mò với mọi thứ. Tính cách hiếu động, hay đi lang thang khỏi khu vực an toàn.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Vi Tiểu Mộc có khả năng bẩm sinh Mộc Dưỡng Thuật (木養術) — tự nhiên tiết ra chất dưỡng chữa lành vết thương nhỏ cho vỏ cây Thần Mộc. Không có năng lực chiến đấu, nhưng ánh sáng xanh tươi của y có thể kích thích phấn hoa linh xung quanh nở rộ, tạo ra vùng chữa lành tự nhiên cho Vi Tộc xung quanh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Vi Mộc:** Tộc Trưởng đang quan sát sự phát triển của y, hy vọng y sẽ kế thừa khả năng đặc biệt.
+- **Vi Ký Sinh:** Trưởng Lão luôn canh chừng y, sợ y đi quá xa và gặp nguy hiểm.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vi Tiểu Mộc sinh ra ở nhánh cao nhất của Thần Mộc, nơi ánh sáng mặt trời chiếu rọi trực tiếp. Khác với Vi Tộc thường sống trong bóng tối khe nứt, y thích ánh sáng và luôn leo lên cao nhất có thể. Vi Mộc nhận thấy y có phản ứng bất thường với rung động của Thần Mộc — tuy chưa nghe được nhưng cơ thể y đổi màu khi Thần Mộc truyền tín hiệu. Đây có thể là dấu hiệu cho thấy y sẽ trở thành Tộc Trưởng tiếp theo.

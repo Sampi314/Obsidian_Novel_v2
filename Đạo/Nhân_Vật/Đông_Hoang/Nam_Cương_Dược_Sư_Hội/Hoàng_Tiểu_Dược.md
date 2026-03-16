@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Dược Đồ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thân hình vạm vỡ tráng kiện, gương mặt vuông vức đầy uy nghiêm. Giọng nói vang dội đầy sức thuyết phục. Tính cách hào sảng, trọng nghĩa khí, ghét sự bất công.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên gia trị liệu của Nam Cương Dược Sư Hội, tinh thông y thuật và dược lý. Chiêu thức 黃小藥·Hồi Xuân Thuật (黃小藥·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lê Dược Nương:** Hội Trưởng, đồng liêu quan trọng nhất trong Nam Cương Dược Sư Hội.
+- **Phạm Bách Thảo:** Phó Hội Trưởng, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Tiểu Dược xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Nam Cương Dược Sư Hội. Trải qua thử thách sinh tử, nàng gia nhập Nam Cương Dược Sư Hội và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Đỉnh Phong, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dược Đồ.

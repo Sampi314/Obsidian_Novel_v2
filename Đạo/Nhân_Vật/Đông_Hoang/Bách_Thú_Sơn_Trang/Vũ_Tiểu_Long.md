@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Nội Môn Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thiếu niên tuấn tú với đôi mắt rồng vàng kim đặc biệt, mái tóc đen cứng như vảy. Da hơi ngăm, thân hình cân đối. Tính cách ngạo mạn hơi bốc đồng nhưng bản chất tốt, rất yêu thương linh thú. Mơ ước lớn lao nhưng tu vi còn thấp.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đang tu luyện Vạn Thú Quyết giai đoạn đầu, có thiên phú đặc biệt thu hút long tộc huyết mạch. Chiêu thức Long Uy Áp Chế (龍威壓制) phát ra uy áp rồng khiến yêu thú cấp thấp quỳ phục. Tu vi Kim Đan Sơ Kỳ nên chiến đấu còn non nớt, nhưng tiềm năng vô hạn.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Thiên Mã:** Thái Thượng Trưởng Lão, người phát hiện thiên phú đặc biệt của hắn.
+- **Trần Vạn Thú:** Trang Chủ, sư phụ trực tiếp dạy Vạn Thú Quyết.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vũ Tiểu Long là trẻ mồ côi được tìm thấy trong ổ trứng rồng đã bỏ hoang. Không ai biết vì sao một đứa trẻ nhân tộc lại xuất hiện ở đó, nhưng hắn sở hữu đôi mắt rồng bẩm sinh và huyết mạch có khả năng thu hút long tộc. Được Bách Thú Sơn Trang thu nhận, hắn nhanh chóng trở thành đệ tử được kỳ vọng nhất. Bí mật về thân thế thực sự của hắn có thể liên quan đến long tộc thượng cổ.

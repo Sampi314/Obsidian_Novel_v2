@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Dược Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Dùng mỏ nghiền thảo dược, luyện đan bằng bản năng chim trời
+Oanh Phương Dược khi hóa nhân là một thiếu nữ xinh xắn, dáng người nhỏ nhắn linh hoạt, mái tóc nâu vàng ngắn xoăn nhẹ, đôi mắt nâu ấm áp sáng long lanh. Mũi nhỏ nhọn hay hít hít không khí tìm mùi thảo dược, tay luôn dính bột đan dược đủ màu. Khi ở nguyên hình là hoàng oanh nhỏ xinh, mỏ khéo léo phi thường trong việc phân loại dược liệu. Tính cách vui vẻ, chăm chỉ, đam mê luyện đan đến quên ăn quên ngủ, hay hát líu lo khi làm việc.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Oanh Phương Dược tu luyện Phương Dược Luyện Đan Thuật (芳藥煉丹術), dùng mỏ và thanh âm đặc biệt để kiểm soát nhiệt độ lò đan với độ chính xác phi thường. Chiêu thức sở trường Oanh Ca Thúc Đan (鶯歌熟丹) cho phép nàng hát một giai điệu đặc biệt giúp đan dược kết tụ nhanh hơn và tăng phẩm chất. Chuyên về luyện đan và bào chế dược liệu, hoàn toàn không có khả năng chiến đấu, dựa vào đan dược phòng thân khi gặp nguy hiểm.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hạc Mộng:** Y Sư, đồng nghiệp thân thiết, ông ấy kê toa nàng bào chế, hai người như thầy trò.
+- **Oanh Lâm Ca:** Ca Sĩ tán tu, người cùng tộc oanh mà nàng quen biết, đôi khi trao đổi thảo dược rừng già.
+- **Phượng Xích Diệm:** Chiến Sĩ Phượng Hỏa Tộc, khách hàng thường xuyên mua đan dược trị bỏng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Oanh Phương Dược sinh ra trong gia đình hoàng oanh chuyên tìm kiếm thảo dược trong rừng già Nam Cương, từ nhỏ đã có khả năng phân biệt hàng trăm loại dược liệu chỉ bằng mùi hương. Được Dược Vương Cốc chi nhánh Nam Cương thu nhận và đào tạo luyện đan bài bản, nàng nhanh chóng trở thành dược sư trẻ tuổi tài năng nhất. Sự kiện then chốt là khi nàng tình cờ phát hiện một loại thảo dược chưa từng được ghi chép mọc sâu trong rừng độc, mở ra hướng nghiên cứu đan dược mới. Mục tiêu hiện tại là hoàn thiện phương thuốc giải độc vạn năng có thể đối phó với mọi loại độc ở Nam Cương.

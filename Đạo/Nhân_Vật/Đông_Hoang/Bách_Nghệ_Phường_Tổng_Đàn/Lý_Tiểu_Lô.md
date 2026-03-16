@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Tổng Quản.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thanh niên gầy gò với đôi kính dày, mái tóc rối bù luôn dính bụi than. Mặt mũi lem luốc nhưng đôi mắt sáng rực khi nói về luyện đan. Tính cách nhút nhát trong giao tiếp nhưng cực kỳ tỉ mỉ và đam mê công việc.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tán tu chuyên về quản lý lò luyện, tinh thông Thần Thức Đa Luồng (神識多路) cho phép giám sát nhiều quá trình luyện chế cùng lúc. Kỹ thuật Tiểu Lô Chính Hỏa (小爐精火) điều chỉnh nhiệt độ lò cực kỳ chính xác. Hoàn toàn không biết chiến đấu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Đặng Công Mẫu:** Phường Chủ, người cứu vớt và cho hắn cơ hội, coi như mẫu thân.
+- **Vũ Thiết Chùy:** Đồng liêu, bạn thân hay tranh luận về kỹ thuật luyện chế.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Tiểu Lô là mồ côi được Đặng Công Mẫu nhặt về từ đường phố. Hắn có linh căn kém không thể tu luyện cao nhưng sở hữu thần thức mạnh mẽ phi thường, cho phép điều khiển nhiều lò luyện cùng lúc. Nhờ tài năng này, hắn trở thành Tổng Quản không thể thiếu của phường. Ước mơ là một ngày luyện ra được pháp bảo xứng đáng để tặng sư phụ Đặng Công Mẫu.

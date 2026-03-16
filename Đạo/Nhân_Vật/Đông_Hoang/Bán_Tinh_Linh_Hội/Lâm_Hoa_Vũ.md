@@ -29,10 +29,12 @@ arcs:
 Săn bắt xuất sắc nhờ thính giác Tinh Linh
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chiến binh tiền tuyến của Bán Tinh Linh Hội, sở trường cận chiến và đột kích. Tuyệt chiêu 林花雨·Chiến Kích (林花雨·戰擊) tập trung sức mạnh vào một đòn quyết định. Mạnh về tấn công trực diện nhưng phòng thủ còn nhiều sơ hở.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Bán Lâm:** Hội Trưởng, đồng liêu quan trọng nhất trong Bán Tinh Linh Hội.
+- **Hoa Nhân Hàn Ngọc:** Chiến Sĩ, đối tác thường xuyên phối hợp.
+- **Lý Nguyệt Hoa:** Y Sư, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lâm Hoa Vũ sinh ra trong một gia đình Tinh Linh Tộc bình thường, sớm thể hiện tư chất phù hợp với Bán Tinh Linh Hội. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Bán Tinh Linh Hội và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thợ Săn.

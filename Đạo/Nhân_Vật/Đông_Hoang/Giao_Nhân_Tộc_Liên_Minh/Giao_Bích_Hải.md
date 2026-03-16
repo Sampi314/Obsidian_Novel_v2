@@ -29,10 +29,12 @@ arcs:
 Dệt lưới bẫy từ ti biển bắt kẻ xâm nhập
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Giao Nhân Tộc Liên Minh, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 鲛碧海·Bản Mệnh (鲛碧海·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Giao Băng Ngọc Tâm:** Trưởng Lão, đồng liêu quan trọng nhất trong Giao Nhân Tộc Liên Minh.
+- **Giao Bạch Lệ Hoa:** Mưu Sĩ, đối tác thường xuyên phối hợp.
+- **Giao Huyết Lệ:** Sát Thủ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Giao Bích Hải vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Giao Nhân Tộc Liên Minh. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Giao Nhân Tộc Liên Minh và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dệt Sư.

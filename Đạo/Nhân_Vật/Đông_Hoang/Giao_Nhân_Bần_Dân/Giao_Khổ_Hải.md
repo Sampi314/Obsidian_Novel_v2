@@ -29,10 +29,12 @@ arcs:
 Già yếu nhưng vẫn bị ép dệt đến chết
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Giao Nhân Bần Dân, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 鲛苦海·Bản Mệnh (鲛苦海·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Giao Bạch Phát:** Trưởng Lão, đồng liêu quan trọng nhất trong Giao Nhân Bần Dân.
+- **Giao Hàn Sương Lệ:** Liên Lạc Viên, đối tác thường xuyên phối hợp.
+- **Giao Lệ Vân:** Thủ Lĩnh Ngầm, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Giao Khổ Hải sinh ra trong một gia đình Hải Tộc bình thường, sớm thể hiện tư chất phù hợp với Giao Nhân Bần Dân. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Giao Nhân Bần Dân và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thợ Dệt.

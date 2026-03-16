@@ -29,10 +29,12 @@ arcs:
 Bào tử dược liệu, bào chế giải độc từ nấm
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên gia trị liệu của Bào Tử Mật Lâm Tộc, tinh thông y thuật và dược lý. Chiêu thức 孢玉光·Hồi Xuân Thuật (孢玉光·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Bào Huyết Tịnh:** Chuyên Gia Huyết Độc, đồng liêu quan trọng nhất trong Bào Tử Mật Lâm Tộc.
+- **Bào Hắc Lâm:** Trinh Sát, đối tác thường xuyên phối hợp.
+- **Bào Hồng Tán:** Tộc Trưởng, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Bào Ngọc Quang lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Bào Tử Mật Lâm Tộc. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Bào Tử Mật Lâm Tộc và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dược Sư.

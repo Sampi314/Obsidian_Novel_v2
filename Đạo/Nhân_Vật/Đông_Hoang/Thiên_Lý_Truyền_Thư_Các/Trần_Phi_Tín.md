@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Truyền Thư Sứ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trần Phi Tín là thanh niên nhanh nhẹn, thân hình gầy gò nhưng cơ bắp dẻo dai, da rám nắng, mắt sáng quắc. Luôn mang theo cung ngắn và túi thư bọc da chống nước. Bước đi nhanh như gió, có thể chạy suốt ba ngày không nghỉ. Tính cách trung thực, ít nói, chỉ quan tâm đến việc giao thư đúng hẹn.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Trần Phi Tín sở hữu Phong Hành Cước (風行腳) — thân pháp cực nhanh dùng phong linh khí đẩy tốc độ chạy lên gấp ba bình thường. Khi gặp nguy, y dùng Tín Sứ Thoát Thân Thuật (信使脫身術) — kỹ thuật rải bẫy khói và ám khí để tạo cơ hội thoát thân mang theo thư. Triết lý: thư phải đến nơi, dù phải bỏ mạng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Phong Thư:** Các Chủ mà y tôn kính, nhận mệnh lệnh trực tiếp.
+- **Phạm Tiểu Nhạn:** Đồng nghiệp trẻ mà y hay dẫn đi giao thư, dạy kỹ năng sinh tồn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Phi Tín là trẻ mồ côi sa mạc, được Lý Phong Thư cứu và nuôi dưỡng. Từ nhỏ y đã thể hiện tốc độ phi thường khi chạy trên cát, được huấn luyện thành Truyền Thư Sứ giỏi nhất. Từng giao thư xuyên qua vùng bão cát cấp bảy và sống sót, y trở thành huyền thoại trong giới tín sứ. Bí mật: y từng vô tình chuyển một lá thư dẫn đến thương đoàn bị phục kích — mang theo tội lỗi đó đến giờ.

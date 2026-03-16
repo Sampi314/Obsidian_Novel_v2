@@ -29,10 +29,12 @@ arcs:
 Cựu cung thủ Vương Đình, theo Phong Diệp vì lý tưởng
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tinh thông công pháp trấn phái của Du Mục Tinh Linh, đạt cảnh giới đại thành. Tuyệt chiêu 楓雲浪·Chấn Phái Quyết (楓雲浪·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Phong Diệp:** Thủ Lĩnh, đồng liêu quan trọng nhất trong Du Mục Tinh Linh.
+- **Phong Dã:** Trinh Sát, đối tác thường xuyên phối hợp.
+- **Phong Hỏa Diệp:** Chiến Sĩ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phong Vân Lãng lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Du Mục Tinh Linh. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Du Mục Tinh Linh và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Phó Thủ Lĩnh.

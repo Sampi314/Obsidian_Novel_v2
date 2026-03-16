@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Phó Đội Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thạch Trấn Sơn có thân hình vuông vắn chắc nịch, da nâu đỏ với vân đá tự nhiên tạo nên hoa văn độc đáo trên ngực. Cao khoảng hai mét rưỡi, nhỏ hơn Nham Cương nhưng linh hoạt hơn đáng kể. Tính cách cẩn thận, chu đáo, luôn suy nghĩ kỹ trước khi hành động, bổ khuyết hoàn hảo cho sự cương trực của Đội Trưởng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thạch Trấn Sơn sở hữu Thạch Tường Thuẫn Thuật (石牆盾術) — dựng tường đá từ mặt đất lên trong nháy mắt để chặn đứng mọi đòn tấn công. Ngoài ra, y tinh thông Địa Chấn Ba (地震波), giậm chân tạo ra sóng chấn động khiến kẻ địch mất thăng bằng. Điểm mạnh là phòng thủ vững chắc và khả năng kiểm soát chiến trường; điểm yếu là sức tấn công không đủ mạnh để hạ gục đối thủ nhanh chóng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Nham Cương:** Đội Trưởng mà Trấn Sơn tuyệt đối trung thành, là người duy nhất biết bí mật Long Mạch Chi Tâm.
+- **Nham Tiểu Đá:** Tuần tra viên trẻ mà Trấn Sơn trực tiếp huấn luyện, nghiêm khắc nhưng tận tâm.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Thạch Trấn Sơn là cá thể Thạch Tộc đầu tiên Nham Cương tìm thấy khi thành lập tiểu đội, từ đó trở thành Phó Đội Trưởng. Y từng đơn độc bảo vệ lối vào hang khi bị một toán thợ săn linh thạch tấn công, chịu thương nặng nhưng không lùi một bước. Sự kiện này khiến y được cả đội tôn kính. Hiện tại, y lo lắng về sức khỏe suy yếu của Nham Cương và đang chuẩn bị tinh thần cho ngày phải gánh vác trọng trách Đội Trưởng.

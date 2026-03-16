@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Ngư Dân.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Ngư Tiểu Lân là Ngư Nhân trẻ nhỏ nhất thôn, da xanh nhạt phủ vảy li ti, mắt to tròn sáng lấp lánh khác thường. Đuôi cá nhỏ, tay có màng bơi. Đặc biệt: y biết vẽ hình trên cát bằng ngón tay — khả năng chưa từng thấy ở loài Ngư Nhân. Tính cách tò mò, hay quan sát.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Ngư Tiểu Lân không có kỹ năng chiến đấu. Nhưng y thể hiện Linh Trí Dị Thường (靈智異常) — trí tuệ cao bất thường cho loài Ngư Nhân, có thể vẽ hình, nhận diện mẫu lặp lại, và học bắt chước âm thanh mới nhanh hơn đồng loại gấp mười lần. Đây là dấu hiệu linh trí tiến hóa đáng kinh ngạc.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Ngư Lão Vĩ:** Thôn Trưởng theo dõi sát sự phát triển bất thường của y.
+- **Ngư Bạch San:** Ngư dân luôn bảo vệ y, thấy y đặc biệt.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ngư Tiểu Lân sinh ra gần hang động phát sáng lạ trong rạn san hô — nơi mà Ngư Nhân khác không dám vào. Từ nhỏ y đã khác biệt: biết vẽ, biết bắt chước tiếng người, và hay nhìn lên mặt nước tò mò. Ngư Lão Vĩ tin rằng y là cá thể tiến hóa mới, có thể mang lại hy vọng cho loài Ngư Nhân. Bí mật: y thường lén bơi đến hang động phát sáng, và mỗi lần quay về đều thông minh hơn.

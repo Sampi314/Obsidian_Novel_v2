@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Phó Ảnh Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Dáng người mảnh mai thanh thoát ngay cả theo tiêu chuẩn Vi Tộc, mái tóc bạc dài chạm đất khi phóng đại kích thước. Luôn khoác một chiếc áo choàng đen hòa lẫn vào bóng tối. Tính cách mưu mô thâm sâu, nụ cười hiền hòa trên môi nhưng tâm tư khó ai đoán được. Có tài ngoại giao xuất chúng, giỏi thuyết phục và đàm phán.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Sở hữu Không Gian Súc Địa Quyết (空間縮地訣) cho phép di chuyển qua các kẽ hở không gian vi mô mà không để lại dấu vết. Tuyệt chiêu Ám Hà Phệ Ảnh (暗荷噬影) triệu hồi bóng tối nuốt chửng mục tiêu trong không gian thu nhỏ. Tu vi Luyện Hư Sơ Kỳ cho phép bà thao túng không gian ở tầm cao hơn hẳn các thành viên khác, nhưng sức chiến đấu trực tiếp không mạnh bằng sát thủ chuyên nghiệp.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Vi Nguyệt Ảnh:** Ảnh Chủ và cũng là người bạn tri kỷ duy nhất, hai người bổ trợ hoàn hảo cho nhau.
+- **Hoa Tiểu Yến:** Gián Điệp Trưởng do Vi Ám Hà đích thân tuyển chọn, coi như đệ tử ruột.
+- **Vi Minh Nguyệt:** Trưởng Lão đáng tin cậy, thường xuyên hợp tác trong các nhiệm vụ phức tạp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vốn là con gái một gia tộc Vi Tộc phiêu bạt ở Tây Hoang, Vi Ám Hà sớm thể hiện thiên phú không gian hiếm có. Khi gia tộc bị một tông môn nhân tộc tiêu diệt để lấy mạch khoáng, bà chạy trốn đến Đông Hoang và được Vi Nguyệt Ảnh thu nhận. Nhờ tài trí mưu lược và khả năng không gian, bà nhanh chóng trở thành Phó Ảnh Chủ. Bí mật lớn nhất của bà là vẫn âm thầm truy tìm tông môn đã diệt gia tộc mình, chờ đợi thời cơ báo thù.

@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Ong Hậu.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Dáng người cân đối với phong thái điềm tĩnh, gương mặt toát ra vẻ trầm tư. Tính cách kiên định, cẩn thận trong mọi việc, luôn đặt lợi ích tập thể lên hàng đầu.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Mật Ong Linh Đoàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 蟲蜜靈·Bản Mệnh (蟲蜜靈·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trùng Kim Phấn:** Ong Thợ Trưởng, đồng liêu quan trọng nhất trong Mật Ong Linh Đoàn.
+- **Trùng Tiểu Mật:** Ong Lính, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trùng Mật Linh lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Mật Ong Linh Đoàn. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Mật Ong Linh Đoàn và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Ong Hậu.

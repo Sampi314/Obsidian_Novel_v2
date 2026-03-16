@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Phó Đội Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Nhan sắc thanh tú với nét mặt dịu dàng, cử chỉ nhẹ nhàng tinh tế. Tính cách ôn hòa, biết lắng nghe, giỏi hòa giải mâu thuẫn. Luôn quan tâm đến người xung quanh.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện công pháp cốt lõi của Hoàng Tuyền Cứu Hộ Đội đạt trình độ cao thâm. Chiêu thức 陳善心·Hộ Pháp Ấn (陳善心·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Bạch Cứu:** Đội Trưởng, đồng liêu quan trọng nhất trong Hoàng Tuyền Cứu Hộ Đội.
+- **Phạm Nhân Từ:** Cứu Hộ Viên, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Thiện Tâm vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Hoàng Tuyền Cứu Hộ Đội. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Hoàng Tuyền Cứu Hộ Đội và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Phó Đội Trưởng.

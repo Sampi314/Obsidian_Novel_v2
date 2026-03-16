@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Tập Sự.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Miêu Tiểu Dịch khoác hình nhân thiếu niên nhỏ nhắn, tai mèo, mắt mèo vàng, lông mặt có vằn. Luôn mang theo cuốn vở ghi chép và bút lông. Biểu cảm hay ngơ ngác khi gặp từ mới. Tính cách chăm chỉ, hay quên, phải ghi chép mọi thứ vì trí nhớ ngắn hạn kém.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Miêu Tiểu Dịch đang học Linh Âm Cơ Bản Thuật (靈音基本術) — kỹ thuật dịch thuật cơ bản cho tập sự. Thiên phú đặc biệt là Thanh Âm Mô Phỏng (聲音模仿) — có thể bắt chước chính xác âm thanh của bất kỳ loài nào sau khi nghe ba lần. Chiến đấu yếu, nhưng khả năng mô phỏng tiếng kêu có thể dùng để đánh lạc hướng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Ưng Đa Ngữ:** Hội Trưởng đang đào tạo y, kiên nhẫn với sự chậm hiểu.
+- **Xà Ngữ Âm:** Đàn anh dạy y ngữ pháp, nghiêm khắc nhưng công bằng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Miêu Tiểu Dịch là Yêu Tộc nhánh Miêu, bị bỏ rơi ngoài chợ Vạn Yêu Thành. Được Ưng Đa Ngữ nhận nuôi và đào tạo. Dù trí nhớ ngắn hạn kém, y bù lại bằng thiên phú mô phỏng âm thanh xuất sắc — có thể bắt chước tiếng kêu của hơn trăm loài. Mơ ước là trở thành dịch giả giỏi để không ai phải hiểu lầm nhau nữa.

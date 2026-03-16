@@ -29,10 +29,12 @@ arcs:
 Nàng loan xanh đẹp nhất Đông Hoang, ai mê sắc đều bỏ mạng
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chiến binh tiền tuyến của Lâm Điểu Tộc, sở trường cận chiến và đột kích. Tuyệt chiêu 鸞青荷·Chiến Kích (鸞青荷·戰擊) tập trung sức mạnh vào một đòn quyết định. Mạnh về tấn công trực diện nhưng phòng thủ còn nhiều sơ hở.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Oanh Hoàng Kim:** Ca Sĩ, đồng liêu quan trọng nhất trong Lâm Điểu Tộc.
+- **Oanh Lục Hoa:** Ca Sĩ, đối tác thường xuyên phối hợp.
+- **Oanh Thúy Vũ:** Trinh Sát, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Loan Thanh Hà vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Lâm Điểu Tộc. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Lâm Điểu Tộc và dần khẳng định vị trí của mình. Với tu vi Nguyên Anh Trung Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Nữ Chiến Sĩ.

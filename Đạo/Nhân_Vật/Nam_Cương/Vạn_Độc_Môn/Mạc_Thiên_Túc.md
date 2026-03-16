@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Rết Chi Hộ Pháp.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Mạc Thiên Túc là một người đàn ông vạm vỡ, da đen sậm, gương mặt dữ tợn với đôi mắt đỏ ngầu và một vết sẹo lớn chạy ngang mặt. Cơ thể phủ đầy hình xăm rết đỏ, hai cánh tay to như cột trụ. Mái tóc đen dài buộc thành bím, thường cởi trần mặc quần da thú, quanh thắt lưng quấn một con rết vàng sống. Tính cách nóng nảy, hung hãn và thích dùng bạo lực giải quyết mọi vấn đề. Ông không thông minh nhưng bù lại bằng sức mạnh thuần túy.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Mạc Thiên Túc chuyên về Ngô Công Độc Thuật, cơ thể đã bán dung hợp với nọc rết vạn năm, da thịt cứng như thép và miễn dịch với hầu hết kịch độc. Tuyệt chiêu Thiên Túc Cuồng Loạn (天足狂乱) cho phép ông triệu hồi bầy rết khổng lồ từ dưới đất tấn công từ mọi hướng. Sức mạnh cận chiến và độ bền phi thường, nhưng chậm chạp, thiếu chiến thuật và dễ bị đánh lừa bởi các chiêu thức ảo giác.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Độc Cô Lão Quái:** Môn Chủ, cấp trên mà ông sợ và phục tùng.
+- **Liễu Lãnh Huyết:** Xà Chi Hộ Pháp, đồng liêu mà ông bị coi thường, luôn muốn chứng minh mình mạnh hơn.
+- **Đàm Trầm Thủy:** Thiềm Chi Hộ Pháp, đồng liêu mà ông ngại vì tính cách âm hiểm.
+- **Ngô Công Trưởng Lão:** sư phụ truyền thụ Ngô Công Độc Thuật, ông kính trọng tuyệt đối.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Mạc Thiên Túc sinh ra trong một bộ lạc thợ săn rết ở vùng rừng rậm sâu, từ nhỏ đã sống cùng bầy rết khổng lồ. Bộ lạc bị Vạn Độc Môn thôn tính, ông buộc phải gia nhập hoặc chết. Sự kiện then chốt là khi ông nuốt sống một con rết vương trong nghi lễ nhập môn, đau đớn suýt chết nhưng sống sót và có được sức mạnh phi thường. Mục tiêu hiện tại đơn giản là trở nên mạnh hơn để không ai dám coi thường ông nữa.

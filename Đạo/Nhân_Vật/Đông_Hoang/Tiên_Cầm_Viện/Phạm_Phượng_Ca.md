@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phạm Phượng Ca là nữ tu sĩ trung niên, dung nhan xinh đẹp, tóc đỏ cam như lửa phượng, mắt vàng rực. Mặc áo đỏ thêu hình phượng hoàng, luôn có một con Hỏa Phượng nhỏ đậu trên vai. Tính cách nhiệt tình, mạnh mẽ, yêu thương linh cầm như con cái.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phạm Phượng Ca sở hữu Phượng Ca Hỏa Vũ (鳳歌火舞) — dùng tiếng hát và điệu múa kích hoạt hỏa linh khí trong linh cầm hỏa hệ, tăng cường sức mạnh chiến đấu. Cá nhân chiến đấu bằng Hỏa Phượng Vũ (火鳳舞) — kỹ thuật bay kết hợp hỏa diễm, tạo ra bão lửa trên không.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Ưng Phi:** Đồng liêu Trưởng Lão, hay tranh luận nhưng tôn trọng nhau.
+- **Lý Cầm Tiên:** Viện Trưởng mà y kính trọng.
+- **Ưng Tiểu Phi:** Đệ tử mà y dạy kỹ thuật huấn luyện linh cầm.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phạm Phượng Ca là hậu duệ gia tộc thuần hóa phượng hoàng nhỏ. Gia nhập Tiên Cầm Viện mang theo bí thuật gia truyền, trở thành Trưởng Lão phụ trách huấn luyện linh điểu chiến đấu. Hỏa Phượng nhỏ tên Tiểu Hồng là linh cầm đồng hành từ nhỏ, hai người có liên kết tâm linh sâu sắc. Mơ ước lớn nhất: chứng kiến Phượng Hoàng Tàn Hồn tái sinh.

@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Thợ Săn.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Dáng người cân đối với phong thái điềm tĩnh, gương mặt toát ra vẻ trầm tư. Tính cách kiên định, cẩn thận trong mọi việc, luôn đặt lợi ích tập thể lên hàng đầu.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chiến binh tiền tuyến của Mật Lâm Thợ Săn Hội, sở trường cận chiến và đột kích. Tuyệt chiêu 范小獵·Chiến Kích (范小獵·戰擊) tập trung sức mạnh vào một đòn quyết định. Mạnh về tấn công trực diện nhưng phòng thủ còn nhiều sơ hở.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Mã Lâm:** Hội Trưởng, đồng liêu quan trọng nhất trong Mật Lâm Thợ Săn Hội.
+- **Trần Sơn Cung:** Phó Hội Trưởng, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phạm Tiểu Liệp vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Mật Lâm Thợ Săn Hội. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Mật Lâm Thợ Săn Hội và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thợ Săn.

@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Thợ Dệt.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Dáng người cân đối với phong thái điềm tĩnh, gương mặt toát ra vẻ trầm tư. Tính cách kiên định, cẩn thận trong mọi việc, luôn đặt lợi ích tập thể lên hàng đầu.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Lông Vũ Phường, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 羽彩羽·Bản Mệnh (羽彩羽·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Vũ Mao Nhi:** Phường Chủ, đồng liêu quan trọng nhất trong Lông Vũ Phường.
+- **Vũ Tiểu Phong:** Học Đồ, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vũ Thái Vũ được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Lông Vũ Phường. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Lông Vũ Phường và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thợ Dệt.

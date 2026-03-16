@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Phó Minh Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trần Trùng Chiến mang hình dáng nửa người nửa trùng — kết quả của ký sinh Trùng Tộc đã kiểm soát một phần cơ thể. Da xanh xám, mắt trái là mắt trùng phức hợp, cánh tay phải biến dạng thành càng trùng. Tính cách cay đắng, ghét cả hai phe — Trùng Tộc khinh bỉ y, Nhân Tộc sợ hãi y.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Trần Trùng Chiến sở hữu Bán Trùng Chiến Thể (半蟲戰體) — thể chất lai cho phép y miễn dịch nọc trùng và cảm nhận được Trùng Binh trước khi chúng đến. Cánh tay trùng có sức mạnh nghiền nát giáp xác. Kỹ năng đặc biệt: Trùng Giác Cảm Ứng (蟲覺感應) — cảm nhận mọi Trùng Tộc trong phạm vi một dặm.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lê Thiết Giáp:** Liên Minh Chủ mà y trung thành, dù biết y sợ hình dạng của mình.
+- **Phạm Cương Binh:** Đội Trưởng duy nhất không sợ ngồi cạnh y.
+- **Hoàng Tiểu Giáp:** Chiến binh trẻ ban đầu sợ y, dần dần tôn trọng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Trùng Chiến (tên thật Ngô Kỳ) là bán yêu nhân-trùng, bị cả hai bên khinh bỉ. Ghét Trùng Tộc hơn ai hết vì chính chúng đã biến y thành quái vật. Gia nhập Tàn Binh vì đây là nơi duy nhất chấp nhận y. Sức mạnh chiến đấu chống Trùng Triều là không thể thay thế nhờ khả năng cảm ứng. Bí mật nỗi đau: phần trùng trong y đang dần lấn át phần người.

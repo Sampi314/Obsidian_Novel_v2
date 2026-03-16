@@ -29,10 +29,12 @@ arcs:
 Ba dòng máu hỗn hợp, tiềm năng chưa biết
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Hỗn Huyết Yêu Đoàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 三血兒·Bản Mệnh (三血兒·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Báo Hồ Nguyệt Ảnh:** Trinh Sát, đồng liêu quan trọng nhất trong Hỗn Huyết Yêu Đoàn.
+- **Hùng Lang Thiết Tâm:** Chiến Sĩ, đối tác thường xuyên phối hợp.
+- **Hồ Lang Tạp Huyết:** Đoàn Trưởng, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Tam Huyết Nhi được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Hỗn Huyết Yêu Đoàn. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Hỗn Huyết Yêu Đoàn và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hài Nhi Đặc Biệt.

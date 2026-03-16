@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Đệ Tam Hộ Pháp.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vương Cương là một thanh niên khỏe mạnh, dáng người cao lớn vạm vỡ, gương mặt vuông vức trung thực với đôi mắt nâu sáng. Mái tóc đen ngắn gọn gàng, da rám nắng, thường mặc giáp hộ pháp đỏ tiêu chuẩn sạch sẽ. Tính cách thẳng thắn, nhiệt tình và trách nhiệm, luôn là người đầu tiên xung phong khi có nhiệm vụ. Hắn hơi ngây thơ và dễ tin người, nhưng lòng trung thành và tinh thần chiến đấu không ai nghi ngờ.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Vương Cương tu luyện Cửu Chuyển Đan Hỏa Quyết chuyên về cường hóa thể chất, kết hợp với kỹ thuật thương pháp truyền thống. Tuyệt chiêu Cương Thương Liệt Hỏa (鋼槍烈火) cho phép hắn phóng thương tạo ra đường hỏa diệm xuyên phá đội hình kẻ thù. Sức mạnh ổn định và đáng tin cậy trong chiến đấu nhóm, nhưng thiếu chiêu thức đặc biệt và khó đối phó với kẻ thù cấp cao hơn nhiều.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Ngô Lôi:** Đệ Nhị Hộ Pháp, đồng liêu thân thiết nhất, hay rủ nhau trốn luyện tập nhưng chiến đấu luôn phối hợp ăn ý.
+- **Lưu Thiết Giáp:** Đệ Nhất Hộ Pháp, sư huynh mà hắn kính trọng và đang nỗ lực học hỏi.
+- **Thạch Hổ:** Hộ Pháp Đường Chủ, cấp trên nghiêm khắc mà hắn sợ nhưng ngưỡng mộ.
+- **Phùng Lô Hỏa:** Nội Môn Đệ Tử, đàn em thân thiết cùng luyện tập.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vương Cương sinh ra trong một gia đình hộ pháp phục vụ cốc qua hai đời, từ nhỏ đã được giáo dục về lòng trung thành và tinh thần chiến đấu. Hắn không có thiên phú đặc biệt nhưng bù lại bằng sự chăm chỉ và kiên trì luyện tập không ngừng. Sự kiện then chốt là khi hắn liều mình đỡ đòn chí mạng thay cho Ngô Lôi trong một trận chiến, bị thương nặng nhưng sống sót và được phong Đệ Tam Hộ Pháp. Mục tiêu hiện tại đơn giản là trở nên mạnh hơn để bảo vệ đồng đội và cốc.

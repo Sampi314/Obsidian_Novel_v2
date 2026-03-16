@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Thợ Rèn.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Họ hàng xa Ngọc Sơn, nửa da thịt nửa đá, rèn vũ khí trên lửa ngàn độ
+Ngọc Thiết Lôi là Bán Thạch Cự nhân cao gần hai trượng, nửa thân trên là da thịt nâu đỏ, nửa thân dưới từ eo trở xuống dần chuyển thành đá granite xám. Cánh tay phải hoàn toàn bằng đá, ngón tay thô ráp nhưng linh hoạt đáng kinh ngạc khi rèn vũ khí. Đầu trọc, đôi mắt xám như đá, gương mặt bình thản ít biểu cảm. Thường mặc tạp dề da dày chống lửa, quanh người luôn có mùi kim loại nóng. Tính cách trầm mặc, kiệm lời, chỉ sáng mắt lên khi nói về rèn vũ khí, là thợ rèn bẩm sinh từ trong huyết mạch.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Ngọc Thiết Lôi tu luyện Thạch Hỏa Đoán Luyện Thuật (石火鍛煉術), dùng thân đá chịu nhiệt làm lò rèn tự nhiên, tay không rèn vũ khí trên lửa ngàn độ. Chiêu thức sở trường Thiết Lôi Chấn Chùy (鐵雷震錘) biến nắm đấm đá thành búa rèn khổng lồ, mỗi cú đập phát ra sóng chấn kèm tia lửa. Sức phòng thủ vật lý cực cao nhờ nửa thân đá, nhưng di chuyển chậm chạp, phần thân đá dễ bị nứt vỡ bởi công kích thuộc tính băng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Ngọc Sơn:** Hội Trưởng Bán Cự Nhân Hội, họ hàng xa mà hắn kính trọng, thường rèn vũ khí theo đặt hàng của nàng.
+- **Ngọc Thạch Lâm:** Chiến Sĩ Bán Cự Nhân Hội, em họ hay đến thách đấu tay đôi để thử sức, mối quan hệ anh em.
+- **Huyết Giáp:** Giáp Chiến Sĩ Ký Sinh Liên Minh, khách hàng trung thành, hắn rèn mai giáp phụ cho bọ hung.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ngọc Thiết Lôi sinh ra trong dòng Bán Thạch Cự nhân, chủng tộc lai giữa Cự Tộc và nguyên tố đại địa, nửa thân đá từ khi chào đời. Bị coi là dị nhân ngay cả trong Cự Tộc vì phần thân đá, hắn tìm thấy ý nghĩa cuộc sống trong nghề rèn vũ khí, nơi đôi tay đá trở thành lợi thế thay vì khuyết điểm. Sự kiện then chốt là khi hắn rèn thành công thanh kiếm đầu tiên chịu được lửa phượng hoàng cho Phượng Hỏa Tộc, từ đó danh tiếng thợ rèn vang khắp Nam Cương. Mục tiêu hiện tại là rèn ra một thần binh có thể sánh ngang cổ vật thượng cổ.

@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Phường Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lý Hoài Cựu là lão nhân tóc bạc, lưng hơi còng, mặc áo bào cũ sờn nhưng sạch sẽ. Tay chai sần vì hàng chục năm bên lò đan, trên mặt luôn hiện nụ cười hiền hậu. Tính cách điềm đạm, tiết kiệm, tin rằng mọi thứ đều có giá trị sử dụng nếu biết cách tận dụng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lý Hoài Cựu tinh thông Phế Khí Tái Sinh Thuật (廢氣再生術) — biến phế khí từ các lò đan thất bại thành nguyên liệu luyện đan cấp thấp. Tuyệt kỹ Cựu Đan Tân Dụng (舊丹新用) tái chế đan dược hỏng thành thuốc chữa bệnh hiệu quả bất ngờ. Không giỏi chiến đấu, chuyên môn hoàn toàn ở lĩnh vực đan dược.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Phế Lô:** Đan Sư chủ lực, người mà Hoài Cựu tin tưởng giao phó kỹ thuật luyện đan cốt lõi.
+- **Phạm Tiểu Đan:** Học đồ tài năng, Hoài Cựu coi như cháu ruột và dành nhiều thời gian dạy dỗ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Hoài Cựu từng là đan sư tầm thường trong một tông phái nhỏ, bị đuổi vì thất bại quá nhiều lần. Thay vì bỏ cuộc, y phát hiện rằng phế phẩm luyện đan vẫn chứa giá trị sử dụng, từ đó thành lập Phế Khí Luyện Đan Phường — tái chế phế phẩm từ các lò đan khắp nơi. Triết lý 'không gì là vô dụng' của y thu hút nhiều đan sư thất bại và những người không có tài nguyên luyện đan chính quy.

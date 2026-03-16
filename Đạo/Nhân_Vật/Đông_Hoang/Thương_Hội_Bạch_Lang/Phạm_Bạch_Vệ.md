@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Hộ Vệ Cốt Cán (Sói Bạc).
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phạm Bạch Vệ là thanh niên cường tráng, da rám nắng, mắt sáng kiên nghị, tóc nâu buộc gọn. Mặc giáp da thú nặng, mang đại kiếm sau lưng. Vai khoác áo choàng sói bạc — biểu tượng Sói Bạc cốt cán. Tính cách trung thành, ít nói, chiến đấu đến hơi thở cuối cùng để bảo vệ hàng hóa.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phạm Bạch Vệ sở hữu Bạch Lang Hộ Vệ Kiếm (白狼護衛劍) — kiếm pháp phòng thủ, mỗi đòn đều nhằm bảo vệ người phía sau. Khi lâm nguy, y kích hoạt Lang Nộ (狼怒) — trạng thái cuồng chiến tạm thời tăng gấp đôi sức mạnh nhưng mất lý trí. Là hộ vệ đáng tin cậy nhất Hội.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Bạch Lang:** Hội Trưởng mà y thề bảo vệ bằng sinh mệnh.
+- **Hoàng Phong Hành:** Hộ vệ mới mà y đang rèn luyện.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phạm Bạch Vệ là trẻ mồ côi được Trần Bạch Lang cứu từ vùng chiến. Lớn lên trong Hội, y coi Hội là gia đình duy nhất. Chiến đấu bên cạnh Hội Trưởng suốt mười năm, chưa bao giờ để hàng hóa bị mất dưới sự canh gác của mình. Từng bị thương nặng khi chống sa tặc nhưng vẫn giữ vững đội hình đến khi viện quân đến.

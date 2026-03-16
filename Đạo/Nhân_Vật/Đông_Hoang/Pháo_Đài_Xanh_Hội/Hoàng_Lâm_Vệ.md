@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Kỵ Sĩ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Hoàng Lâm Vệ có thân hình cao gầy, da nâu nhạt, mắt sáng đầy nhiệt huyết. Luôn mang kiếm gỗ linh mộc bên hông và mặc giáp kỵ sĩ xanh tiêu chuẩn. Tính cách sôi nổi, hào hiệp, sẵn sàng giúp đỡ đồng đội, nhưng đôi khi liều lĩnh quá mức khi tuần tra.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Hoàng Lâm Vệ đang luyện Lâm Vệ Kiếm Pháp (林衛劍法) — kiếm pháp kết hợp với rừng cây, mỗi đòn kiếm mang theo lá rụng sắc bén. Ngoài ra, y có khả năng giao tiếp với cây cối để phát hiện kẻ xâm nhập. Điểm yếu là tu vi còn thấp, thiếu kinh nghiệm đối đầu tu sĩ mạnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Phạm Mộc Thuẫn:** Kỵ Sĩ Trưởng mà Lâm Vệ kính trọng, coi như người thầy trong chiến đấu.
+- **Nguyễn Tiểu Thảo:** Đồng đội tân binh, hai người hay tuần tra chung và trở nên thân thiết.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Lâm Vệ xuất thân từ làng ven rừng, gia nhập đoàn kỵ sĩ vì ngưỡng mộ tinh thần bảo vệ thiên nhiên. Trong lần tuần tra đầu tiên, y bị sa tặc phục kích suýt mất mạng nhưng được Phạm Mộc Thuẫn cứu, từ đó quyết tâm trở nên mạnh hơn. Mơ ước một ngày trở thành Kỵ Sĩ Trưởng và bảo vệ vành đai rừng như tiền bối.

@@ -29,10 +29,12 @@ arcs:
 Thỏ yêu nhanh nhất liên minh, truyền tin chớp nhoáng
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Hoang Dã Yêu Liên, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 兔白風·Bản Mệnh (兔白風·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hung Nha Bách Túc:** Ngô Công Tướng, đồng liêu quan trọng nhất trong Hoang Dã Yêu Liên.
+- **Hầu Linh Thủ:** Hầu Đội Trưởng, đối tác thường xuyên phối hợp.
+- **Lang Hoang Nha:** Lang Đội Trưởng, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Thỏ Bạch Phong được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Hoang Dã Yêu Liên. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Hoang Dã Yêu Liên và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thỏ Đội Trưởng.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Đường Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lê Vô Hận là trung niên gầy gò, mặt tái xanh, môi tím nhạt — dấu hiệu của người thường xuyên tiếp xúc với chất độc. Mắt sâu hoắm nhưng sáng rực trí tuệ, luôn mang theo bình bầu và kim châm. Tính cách lạnh lùng, tính toán, nhưng bên trong ẩn chứa sự hối hận sâu sắc về quá khứ tại Vạn Độc Môn.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lê Vô Hận tinh thông Phế Độc Hóa Dược (廢毒化藥) — biến chất độc mạnh thành thuốc chữa bệnh, một kỹ thuật đảo ngược mà Vạn Độc Môn coi là tà đạo. Tuyệt kỹ Thiên Châm Giải Độc (千針解毒) dùng kim châm rút độc tố ra khỏi kinh mạch nạn nhân. Điểm yếu là chiến đấu trực diện yếu, phụ thuộc vào độc dược.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Độc Ảnh:** Phó Đường Chủ trung thành, cùng rời khỏi Vạn Độc Môn, chia sẻ mục tiêu chuộc tội.
+- **Phạm Huyền Châm:** Sát thủ bí ẩn nhưng hiệu quả, Vô Hận tin tưởng giao nhiệm vụ nguy hiểm nhất.
+- **Phản Độc Minh:** Đang hợp tác ngầm, cung cấp thông tin nội bộ Vạn Độc Môn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lê Vô Hận từng là đệ tử cao cấp Vạn Độc Môn, tham gia nhiều thí nghiệm tàn khốc trên con người. Khi chứng kiến một đứa trẻ chết vì thí nghiệm của chính mình, y sụp đổ và quyết tâm rời bỏ. Cùng một nhóm đệ tử hối hận khác thành lập Phế Độc Đường, dùng kiến thức độc thuật để giải độc thay vì hạ độc. Vạn Độc Thất Sát luôn truy sát y vì biết quá nhiều bí mật. Mục tiêu: chuộc tội bằng cách cứu sống nhiều người nhất có thể.

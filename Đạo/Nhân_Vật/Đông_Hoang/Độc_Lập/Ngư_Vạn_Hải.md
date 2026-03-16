@@ -29,10 +29,12 @@ arcs:
 Cá linh theo dõi hoạt động Nhân Tộc ven biển
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Độc Lập, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 魚萬海·Bản Mệnh (魚萬海·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Giao Lệ Hoa Nguyệt:** Dệt Sư Tự Do, đồng liêu quan trọng nhất trong Độc Lập.
+- **Loa Thiên Âm Hải:** Nhạc Sư Lưu Lạc, đối tác thường xuyên phối hợp.
+- **Ngư Hồ Tiên:** Hồ Cư Dân, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ngư Vạn Hải lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Độc Lập. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Độc Lập và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trinh Sát Bờ Biển.

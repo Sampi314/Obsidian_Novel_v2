@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Đoàn Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thạch Kiên cao ba mét, thân hình vạm vỡ như pháo đài di động, da xám đen dày cộm phủ vân đá tự nhiên tạo nên hoa văn phức tạp. Mắt sáng kiên định, bước đi vững chãi. Tính cách cương trực, trung thành tuyệt đối với sứ mệnh bảo vệ, sẵn sàng hy sinh bản thân che chắn đồng tộc.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thạch Kiên sở hữu Thạch Tâm Bất Hoại (石心不壞) — phòng thủ nhục thân đạt đến cảnh giới gần như bất hoại, mọi đòn tấn công đều bị giáp đá tự nhiên đỡ lại. Tuyệt kỹ Cự Thạch Thuẫn Bích (巨石盾壁) dựng tường đá khổng lồ bảo vệ diện rộng. Điểm yếu là hoàn toàn phòng thủ, tốc độ tấn công chậm.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Nham Thiết Vệ:** Phó Đoàn Trưởng, cánh tay phải mà Thạch Kiên hoàn toàn tin tưởng.
+- **Sơn Tiểu Hộ:** Thủ hộ trẻ mà Thạch Kiên đang rèn luyện làm thế hệ kế thừa.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Thạch Kiên sinh ra với bản năng bảo vệ mãnh liệt, từ nhỏ đã đứng chắn trước đồng tộc khi có nguy hiểm. Thành lập Thạch Tâm Thủ Hộ Đoàn để tổ chức các Cự Tộc có cùng chí hướng, chuyên bảo vệ các khu định cư Cự Tộc. Triết lý 'tâm như đá, vững như sơn' truyền cảm hứng cho cả đoàn. Hiện đang lo lắng vì mối đe dọa từ bên ngoài ngày càng tăng.

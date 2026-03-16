@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Thái Thượng Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lão phụ nhân phong thái tiên nhân, mái tóc bạc cài trâm hoa sen ngọc bích. Khuôn mặt tuy đã có nếp nhăn nhưng vẫn toát ra vẻ đẹp thanh cao. Luôn khoác áo hồng nhạt thêu trăm loài hoa. Tính cách từ ái nhưng nghiêm khắc, coi trọng quy củ môn phái.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tinh thông Bách Hoa Diễn Nghĩa đến cảnh giới tối thượng, có thể khiến hoa nở ngay cả trên hoang mạc. Tuyệt chiêu Bách Liên Thiên Diệp Trận (百蓮千葉陣) triệu hồi vạn cánh sen tạo thành trận pháp phòng ngự bất khả xâm phạm. Năng lực trị thương hàng đầu lục địa nhưng tuổi già khiến bà không còn đủ sức chiến đấu kéo dài.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Hoa Nguyệt:** Cốc Chủ hiện tại, đệ tử ruột mà bà tự hào nhất.
+- **Phạm Tú Lan:** Trưởng Lão đệ tử, người bà giao phó Hoa Linh Đường.
+- **Nguyễn Vũ Cúc:** Trưởng Lão, đồng liêu lâu năm, cùng nhau bảo vệ cốc qua nhiều biến cố.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Bách Liên là đệ tử đời thứ năm trực hệ của Bách Hoa Tiên Tử, từng giữ chức Cốc Chủ suốt ba trăm năm trước khi nhường lại cho Lý Hoa Nguyệt. Bà đã sống qua thời kỳ khó khăn nhất khi Hợp Hoan Tông tấn công Bách Hoa Cốc lần thứ hai, đích thân lãnh đạo phòng thủ và đẩy lùi kẻ thù. Hiện tại bà nhàn cư tại Hồ Hương Sắc, chuyên tâm nghiên cứu linh dược và chỉ xuất hiện khi có đại sự. Bí mật lớn nhất là bà biết vị trí của mộ phần Bách Hoa Tiên Tử nhưng chưa bao giờ tiết lộ.

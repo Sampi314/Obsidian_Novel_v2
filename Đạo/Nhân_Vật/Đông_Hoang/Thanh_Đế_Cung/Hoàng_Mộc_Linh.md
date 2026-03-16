@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão Dược Tiên Viện.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Hoàng Mộc Linh là trung niên tu sĩ ung dung, khuôn mặt phúc hậu, tóc đen hơi điểm bạc, mắt nâu ấm áp. Luôn mang theo hộp đựng linh dược và bộ kim châm cứu bằng mộc linh. Tính cách hiền hòa, kiên nhẫn, coi việc chữa bệnh là niềm vui lớn nhất.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Hoàng Mộc Linh tinh thông Mộc Linh Y Thuật (木靈醫術) — dùng mộc linh khí chữa lành nội thương, ngoại thương và cả tổn thương linh hồn. Kỹ thuật đặc biệt là Sinh Cơ Tái Tạo Thuật (生機再造術) — có thể hồi phục chi thể bị mất nếu điều trị kịp thời. Không giỏi chiến đấu, nhưng khả năng hỗ trợ trên chiến trường vô giá.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Thanh Tiên:** Thái Thượng Trưởng Lão trực tiếp dẫn dắt y trong dược thuật.
+- **Lê Dược Tiên:** Đồng liêu Trưởng Lão trong Dược Tiên Viện.
+- **Vũ Tiểu Thanh:** Đệ tử mà y đang đào tạo thành thế hệ dược sư tiếp theo.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Mộc Linh từng là dược sư lang thang, chữa bệnh miễn phí cho dân nghèo khắp Đông Hoang. Danh tiếng của y lan rộng đến mức Thanh Đế Cung chủ động mời y gia nhập. Trở thành Trưởng Lão Dược Tiên Viện, y xây dựng hệ thống y tế phục vụ không chỉ tông môn mà cả cư dân xung quanh. Hiện tại, y đang nghiên cứu loại bệnh lạ khiến cây cối héo úa — nghi ngờ có liên quan đến sự ô nhiễm linh mạch.

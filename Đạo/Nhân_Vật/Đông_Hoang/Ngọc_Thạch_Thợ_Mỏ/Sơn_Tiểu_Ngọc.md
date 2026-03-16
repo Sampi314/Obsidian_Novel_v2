@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Thợ Mỏ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Sơn Tiểu Ngọc là một Cự Tộc trẻ, nhỏ con hơn đồng loại, da xám nhạt với những vệt ngọc xanh lung linh trên vai. Đôi mắt tròn to sáng lấp lánh, luôn nhìn xung quanh với vẻ tò mò không ngừng. Tính cách hoạt bát, hay nói, thích khám phá những đường hầm mới mà các thợ mỏ lớn tuổi cấm vào. Dù nhỏ tuổi nhưng lạc quan và giàu ước mơ, luôn tin rằng một ngày Phường sẽ thoát khỏi cảnh bị ép giá.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Sơn Tiểu Ngọc có khả năng đặc biệt là Thạch Trung Thính Âm (石中聽音) — nghe được tiếng vọng trong đá để tìm khoảng rỗng và mạch ngọc ẩn, một tài năng thiên bẩm hiếm gặp ngay cả trong Cự Tộc. Vì tu vi còn thấp, y không có khả năng chiến đấu đáng kể, chỉ có thể dùng sức mạnh Cự Tộc bẩm sinh để tự vệ. Điểm yếu là thân hình nhỏ bé so với đồng tộc, dễ bị áp đảo.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Nham Ngọc Đục:** Phường Trưởng mà Tiểu Ngọc kính trọng như ông nội, luôn nghe lời nhưng đôi khi lén đi khám phá hầm sâu khiến Đục lo lắng.
+- **Thạch Khoáng Sơn:** Thợ Mỏ Trưởng nghiêm khắc, thường xuyên nhắc nhở Tiểu Ngọc tập trung làm việc thay vì mơ mộng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Sơn Tiểu Ngọc sinh ra trong mỏ, là thế hệ Cự Tộc trẻ nhất của Phường. Từ nhỏ đã bộc lộ tài năng Thạch Trung Thính Âm, giúp Phường phát hiện nhiều mạch ngọc mới. Tuy nhiên, sự tò mò mãnh liệt khiến y từng lạc vào hầm sâu suýt gặp nguy hiểm, phải được Đội khai thác cứu về. Mơ ước lớn nhất của y là một ngày được ra khỏi mỏ, nhìn thấy thế giới bên ngoài. Gần đây y nghe thấy những âm thanh kỳ lạ từ lớp Tâm Thạch, nhưng chưa dám kể cho ai.

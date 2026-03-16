@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Thất Sát.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Tiêu Vô Hận là một thanh niên trẻ nhất Thất Sát, gương mặt non nớt nhưng ánh mắt tím sẫm lạnh lùng vượt xa tuổi tác. Thân hình gầy nhỏ, mái tóc đen ngắn, thường mặc áo đen quá khổ. Tính cách trầm lặng, u ám, ít tương tác với đồng đội. Hắn mang theo nỗi hận thù sâu sắc khiến toàn thân phát tán sát khí loãng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tiêu Vô Hận chuyên về đầu độc nguồn nước và thực phẩm, giỏi tạo ra các loại thuốc độc chậm không bị phát hiện. Tuyệt chiêu Vô Hận Mạn Độc (无恨慢毒) cho phép hắn cài thuốc độc chậm vào bất kỳ chất lỏng nào, nạn nhân chỉ phát hiện khi đã quá muộn. Mạnh về hạ độc ngầm và kiên nhẫn chờ đợi, nhưng tu vi chiến đấu thấp nhất trong Thất Sát.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Phùng Tiêu:** Lục Sát, sư huynh hay trêu đùa nhưng hắn thầm coi là bạn.
+- **Hàn Phong:** Nhất Sát, hình mẫu mà hắn muốn trở thành.
+- **Đinh Huyết Mi:** Nhị Sát, người mà hắn ngầm sợ hãi vì quá tàn nhẫn.
+- **Độc Cô Lão Quái:** Môn Chủ, người mà hắn phục tùng vì được hứa cơ hội báo thù.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Tiêu Vô Hận là con trai của một trưởng lão bộ lạc bị Vạn Độc Môn tàn sát. Hắn bị bắt làm nô lệ nhưng che giấu căm hận, chấp nhận trở thành đệ tử để có cơ hội báo thù từ bên trong. Tuy nhiên, quá trình đào tạo khiến hắn ngày càng giống kẻ thù mà hắn căm ghét. Sự kiện then chốt là nhiệm vụ đầu tiên khi hắn phải đầu độc một bộ lạc giống quê hương mình, xung đột nội tâm dữ dội. Bí mật là hắn vẫn giữ kế hoạch phá hủy Vạn Độc Môn từ bên trong nhưng ngày càng mất phương hướng.

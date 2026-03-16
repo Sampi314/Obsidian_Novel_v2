@@ -26,20 +26,14 @@ arcs:
 - **Chức Vụ:** Nuôi Trồng Viên.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-- **Ngoại hình:** Trùng Tiểu Trai là một con sâu ngọc trai cỡ nhỏ, chỉ bằng một miệng bát. Vỏ ngoài của cậu chưa hoàn thiện độ cứng, có màu lam nhạt pha chút trong suốt, cho phép nhìn lờ mờ phần thịt mềm mại ngọ nguậy bên trong.
-- **Tính cách:** Hồn nhiên, ngây thơ và cực kỳ chăm chỉ. Cậu hát "bài ca buồn" của bộ tộc mỗi ngày như một thói quen lao động, giai điệu vang lên trong nước nhưng cậu chưa thực sự thấu hiểu ý nghĩa của sự nô dịch chất chứa trong đó, luôn coi công việc nuôi cấy ngọc là niềm vui sống.
+Trùng Tiểu Trai nhỏ bé, chỉ dài khoảng ba mươi phân, thân hình trắng trong suốt, có thể nhìn thấy viên ngọc trai đang hình thành bên trong cơ thể. Cử động nhanh nhẹn, hay vẫy xúc tu biểu đạt cảm xúc. Tính cách hồn nhiên, lạc quan, chưa hoàn toàn hiểu được sự bất công mà Phường đang chịu, chỉ biết vui vẻ học cách tạo ngọc từ các tiền bối.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-- **Phong cách chiến đấu:** Là Luyện Khí Hậu Kỳ, cậu không có khái niệm chiến đấu, chỉ biết phòng thủ theo bản năng là khép chặt vỏ và xả ra lớp dịch nhờn để lẩn trốn vào các kẽ đá.
-- **Kỹ thuật đặc trưng:** *Thanh Cát Dưỡng Sinh (清沙养生)* — Kỹ năng lọc cát linh, loại bỏ tạp chất và cung cấp môi trường dinh dưỡng cho các sâu ngọc trai trưởng thành, một nhiệm vụ thiết yếu trong công đoạn chuẩn bị chế tác ngọc.
-- **Điểm mạnh/Yếu:** Nhỏ bé và lanh lợi, dễ dàng len lỏi trong các rạn san hô chật hẹp. Điểm yếu là lớp vỏ còn quá mềm, dễ dàng bị các loài cá săn mồi cắn nát nếu rời xa quần thể.
+Trùng Tiểu Trai đang học Tiểu Ngọc Tạo Hình Thuật (小玉造形術) — kỹ thuật cơ bản tạo hình ngọc trai, hiện chỉ có thể tạo ra ngọc trai nhỏ hình tròn đơn giản. Không có khả năng chiến đấu, chỉ có thể thu mình lại tạo thành lớp vỏ cứng để tự vệ. Điểm đặc biệt là tốc độ sản xuất ngọc nhanh hơn đồng loại cùng tuổi, cho thấy tiềm năng lớn.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trùng Bạch:** Phường Chủ, là người lớn tuổi nhất và cũng là tấm gương để cậu noi theo. Cậu thường lắng nghe Trùng Bạch kể chuyện về tổ tiên với một sự háo hức ngây ngô.
-- **Trùng Ngọc Châu:** Đàn chị và thợ chế tác bậc thầy. Cậu ngưỡng mộ những viên ngọc do cô tạo ra và luôn cố gắng dọn sạch môi trường để cô có thể tập trung chế tác.
-- **Giao Nhân Hoàng Tộc:** Cậu sợ hãi những "bóng đen lớn" thường đến thu ngọc, nhưng chưa đủ nhận thức để hận thù như những người trưởng thành.
+- **Trùng Bạch:** Phường Chủ mà Tiểu Trai xem như cha, luôn quấn quít bên cạnh, không biết rằng Bạch đang cố che chở y khỏi sự thật tàn khốc.
+- **Trùng Ngọc Châu:** Sư phụ dạy kỹ thuật chế tác, Tiểu Trai ngưỡng mộ những viên ngọc đẹp mà Ngọc Châu tạo ra và nỗ lực học tập.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-- Thuộc thế hệ trẻ nhất được sinh ra trong môi trường nuôi nhốt, từ khi mở mắt ra, thế giới của Trùng Tiểu Trai chỉ là những vách đá san hô chật hẹp và quy trình sinh học của việc ngậm cát nhả ngọc.
-- Cậu thường xuyên phụ trách công việc nuôi trồng cơ bản, dọn dẹp các tạp chất trong môi trường sống của phường, đảm bảo các cá thể như Trùng Ngọc Châu có điều kiện tốt nhất để tạo ra ngọc trai linh phẩm.
-- Sự ngây thơ của Trùng Tiểu Trai đối lập gay gắt với sự nhẫn nhục và hận thù của các cá thể đã thức tỉnh như Trùng Bạch, tạo ra một nét tương phản xót xa trong cuộc sống đày đọa của Ngọc Trai Sâu Phường dưới đáy biển sâu.
+Trùng Tiểu Trai sinh ra trong rạn san hô, là thế hệ sâu ngọc trai trẻ nhất của Phường. Từ nhỏ được Trùng Bạch bảo bọc, y lớn lên không biết đến khổ đau, tin rằng cuộc sống trong rạn san hô là bình thường. Gần đây, y bắt đầu nhận ra một số điều kỳ lạ — tại sao Giao Nhân lấy đi toàn bộ ngọc trai, tại sao Bạch luôn buồn bã. Sự thức tỉnh này đang dần diễn ra, và Bạch lo sợ rằng khi Tiểu Trai hiểu hết sự thật, y sẽ hành động bốc đồng gây nguy hiểm cho cả Phường.

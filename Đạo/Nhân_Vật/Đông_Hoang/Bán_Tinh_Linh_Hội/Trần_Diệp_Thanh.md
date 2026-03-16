@@ -29,10 +29,12 @@ arcs:
 Cha Nhân Tộc, mẹ Tinh Linh, bị hai bên từ bỏ
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tinh thông công pháp trấn phái của Bán Tinh Linh Hội, đạt cảnh giới đại thành. Tuyệt chiêu 陳葉青·Chấn Phái Quyết (陳葉青·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Bán Lâm:** Hội Trưởng, đồng liêu quan trọng nhất trong Bán Tinh Linh Hội.
+- **Hoa Nhân Hàn Ngọc:** Chiến Sĩ, đối tác thường xuyên phối hợp.
+- **Lâm Hoa Vũ:** Thợ Săn, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Diệp Thanh sinh ra trong một gia đình Tinh Linh Tộc bình thường, sớm thể hiện tư chất phù hợp với Bán Tinh Linh Hội. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Bán Tinh Linh Hội và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Phó Hội Trưởng.

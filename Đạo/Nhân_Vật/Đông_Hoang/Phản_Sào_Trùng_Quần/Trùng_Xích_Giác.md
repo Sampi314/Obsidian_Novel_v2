@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trùng Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trùng Xích Giác là bọ cánh cứng đột biến, thân hình đen bóng dài khoảng nửa mét, nổi bật nhất là đôi sừng đỏ rực trên đầu — nguồn gốc tên gọi. Giáp xác dày cộm, chi chít vết sẹo từ thời làm Trùng Binh. Cử động chậm rãi nhưng mạnh mẽ, toát ra uy áp tự nhiên. Tính cách cứng cỏi, quyết đoán, mang gánh nặng bảo vệ toàn đàn trên vai.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Trùng Xích Giác sở hữu Xích Giác Phá Trận (赤角破陣) — húc sừng đỏ phá vỡ liên kết tâm trí của Trùng Mẫu đối với Trùng Binh trong phạm vi ngắn. Ngoài ra, y có thể sử dụng Trùng Tường Phòng Thủ (蟲牆防禦) — chỉ huy hàng trăm cá thể kết hợp thành tường phòng thủ giáp xác cứng. Điểm yếu là linh lực hạn chế, mỗi lần phá liên kết cần hồi phục rất lâu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trùng Thanh Dực:** Chiến Binh Trưởng trung thành nhất, luôn đi đầu bảo vệ đàn khi di chuyển.
+- **Trùng Tiểu Phản:** Trinh sát nhanh nhẹn, đôi mắt và đôi tai của Xích Giác, luôn cảnh giác trước nguy hiểm.
+- **Con sâu bạch kim:** Cá thể kỳ lạ đang tiến hóa bí ẩn, Xích Giác linh cảm nó sẽ thay đổi vận mệnh cả đàn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trùng Xích Giác từng là Trùng Binh phục vụ Hắc Hạt Ma Trùng trong Vạn Trùng Cốc. Sau một trận chiến ác liệt, y bị thương nặng, liên kết tâm trí với Trùng Mẫu bị đứt — lần đầu tiên y có ý thức riêng. Kinh hoàng trước ký ức về những hành động vô nhân đạo y từng thực hiện dưới sự kiểm soát, Xích Giác bỏ trốn và dần thu hút những cá thể khác cũng bị đứt liên kết. Bốn mươi năm lẩn trốn đã rèn y thành lãnh đạo kiên cường. Mục tiêu: tìm cách cắt đứt liên kết tâm trí hàng loạt, giải phóng hàng ngàn Trùng Binh.

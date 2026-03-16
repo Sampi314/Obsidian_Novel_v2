@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Hộ Vệ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Sơn Thiết Nhai cao năm mét, thân hình cơ bắp cuồn cuộn, da xám đen bóng loáng như sắt rèn. Mắt sáng rực chiến ý, tay cầm cây gậy đá khổng lồ. Tính cách nóng nảy, trực tính, ghét sự quanh co, bảo vệ sơn cốc bằng mọi giá.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Sơn Thiết Nhai sở hữu Thiết Nhai Toái Thạch Quyền (鐵崖碎石拳) — mỗi quyền đánh ra mang sức mạnh phá núi, tạo vết nứt lan rộng trên mặt đất. Tuyệt kỹ Sơn Bằng Địa Liệt (山崩地裂) khiến cả vách núi sụp đổ. Điểm mạnh là sức công phá cực lớn; điểm yếu là tiêu hao năng lượng nhanh và thiếu kỹ thuật tinh vi.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Nham Trường Lão:** Sư phụ mà Thiết Nhai kính trọng, dù hay cãi lại vì tính nóng.
+- **Cương Tiểu Sơn:** Đệ tử mà Thiết Nhai truyền dạy chiến đấu, hay la mắng nhưng thương yêu.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Sơn Thiết Nhai sinh ra trong sơn cốc, được Nham Trường Lão đào tạo từ nhỏ thành chiến sĩ mạnh nhất thế hệ. Từng đánh bại cả đội thợ săn linh thạch xâm nhập sơn cốc, danh tiếng lan xa. Dù mạnh mẽ nhưng y ý thức rằng sức mạnh thô bạo không đủ bảo vệ sơn cốc mãi mãi, đang cố học thêm trận pháp từ Trường Lão.

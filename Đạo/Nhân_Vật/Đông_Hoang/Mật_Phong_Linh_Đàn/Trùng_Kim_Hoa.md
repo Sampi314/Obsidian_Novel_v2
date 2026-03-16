@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Ong Chúa.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phong thái lạnh lùng bí ẩn, ít ai biết được suy nghĩ thực sự. Gương mặt điển trai nhưng hiếm khi thể hiện cảm xúc. Tính cách độc lập, tự chủ, chỉ tin tưởng rất ít người.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Mật Phong Linh Đàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 蟲金花·Bản Mệnh (蟲金花·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trùng Hoàng Châm:** Ong Chiến Binh, đồng liêu quan trọng nhất trong Mật Phong Linh Đàn.
+- **Trùng Ngọt Sương:** Ong Dưỡng Nhi, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trùng Kim Hoa sinh ra trong một gia đình Trùng Tộc bình thường, sớm thể hiện tư chất phù hợp với Mật Phong Linh Đàn. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Mật Phong Linh Đàn và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Ong Chúa.

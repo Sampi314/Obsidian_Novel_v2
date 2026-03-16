@@ -29,10 +29,12 @@ arcs:
 Trẻ nhất, mồ côi vì cha mẹ bị thợ săn giết
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đang tu luyện công pháp cơ bản của Giao Nhân Tộc Liên Minh, tiềm năng phát triển lớn. Chiêu thức 鲛小月·Sơ Thức (鲛小月·初式) tuy đơn giản nhưng nền tảng vững chắc. Tu vi còn thấp nên chủ yếu hỗ trợ và học hỏi từ tiền bối.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Giao Bích Hải:** Dệt Sư, đồng liêu quan trọng nhất trong Giao Nhân Tộc Liên Minh.
+- **Giao Băng Ngọc Tâm:** Trưởng Lão, đối tác thường xuyên phối hợp.
+- **Giao Bạch Lệ Hoa:** Mưu Sĩ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Giao Tiểu Nguyệt xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Giao Nhân Tộc Liên Minh. Trải qua thử thách sinh tử, nàng gia nhập Giao Nhân Tộc Liên Minh và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Viên Mãn, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Đệ Tử.

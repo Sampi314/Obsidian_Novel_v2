@@ -29,10 +29,12 @@ arcs:
 Cảm nhận sức khỏe rừng qua rễ cây
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Cổ Thụ Thủ Hộ Đoàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 林根·Bản Mệnh (林根·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lâm Cổ Thụ:** Đoàn Trưởng, đồng liêu quan trọng nhất trong Cổ Thụ Thủ Hộ Đoàn.
+- **Lâm Thanh Phong Nguyệt:** Hộ Thụ Sĩ, đối tác thường xuyên phối hợp.
+- **Lâm Vạn Niên:** Hộ Thụ Sĩ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lâm Căn xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Cổ Thụ Thủ Hộ Đoàn. Trải qua thử thách sinh tử, nàng gia nhập Cổ Thụ Thủ Hộ Đoàn và dần khẳng định vị trí của mình. Với tu vi Kim Đan Trung Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hộ Thụ Sĩ.

@@ -29,10 +29,12 @@ arcs:
 Phấn hồng, thụ phấn cho linh thảo quý
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Bụi Phấn Hội, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 粉紅花·Bản Mệnh (粉紅花·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Bích Dực Nhi:** Trinh Sát, đồng liêu quan trọng nhất trong Bụi Phấn Hội.
+- **Phấn Hoàng Vương:** Hội Trưởng, đối tác thường xuyên phối hợp.
+- **Phấn Hỏa Liên Thiên:** Bí Mật Sư, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phấn Hồng Hoa lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Bụi Phấn Hội. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Bụi Phấn Hội và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thụ Phấn Sư.

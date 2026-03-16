@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Hoàng Tiểu Độc là thiếu niên mặt non nớt, da xanh xao, nhưng đôi mắt sáng đầy quyết tâm. Tay luôn cầm cuốn sổ ghi chép các loại độc và cách giải. Tính cách hồn nhiên, ham học hỏi, tin tưởng tuyệt đối vào sứ mệnh giải độc cứu người của Phế Độc Đường.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Hoàng Tiểu Độc đang học Sơ Cấp Giải Độc Thuật (初級解毒術) — kỹ thuật giải độc cơ bản, hiện chỉ xử lý được các loại độc tầm thường. Có thiên phú nhận diện độc tố bằng mùi, khả năng hiếm gặp. Không có năng lực chiến đấu đáng kể do tu vi thấp.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Độc Ảnh:** Phó Đường Chủ mà Tiểu Độc cảm nhận được sự bảo vệ ngầm, dù Độc Ảnh ít nói.
+- **Lê Vô Hận:** Đường Chủ mà Tiểu Độc kính trọng như thầy, luôn cố gắng học hỏi từ ông.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Tiểu Độc là cô nhi bị bỏ rơi gần Trạm Biên, được Phế Độc Đường thu nhận khi còn nhỏ. Không biết gì về quá khứ tội lỗi của các tiền bối, y tin rằng Phế Độc Đường luôn là tổ chức cứu người tốt đẹp. Thiên phú nhận diện độc tố của y khiến các Trưởng Lão chú ý, có thể trở thành Dược Sư giỏi nhất trong tương lai. Bí mật mà y không biết: y có thể là con của một nạn nhân Vạn Độc Môn.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thân hình vạm vỡ tráng kiện, gương mặt vuông vức đầy uy nghiêm. Giọng nói vang dội đầy sức thuyết phục. Tính cách hào sảng, trọng nghĩa khí, ghét sự bất công.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đang tu luyện công pháp cơ bản của Huyết Sát Minh, tiềm năng phát triển lớn. Chiêu thức 陳小血·Sơ Thức (陳小血·初式) tuy đơn giản nhưng nền tảng vững chắc. Tu vi còn thấp nên chủ yếu hỗ trợ và học hỏi từ tiền bối.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Huyết Yến:** Đường Chủ Tình Báo Đường, đồng liêu quan trọng nhất trong Huyết Sát Minh.
+- **Lê Huyết La:** Đường Chủ Sát Thủ Đường, đối tác thường xuyên phối hợp.
+- **Lý Huyết Thần:** Minh Chủ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Tiểu Huyết lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Huyết Sát Minh. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Huyết Sát Minh và dần khẳng định vị trí của mình. Với tu vi Kim Đan Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Đệ Tử.

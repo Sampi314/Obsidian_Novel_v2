@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Thủ Hộ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vi Ngọc Tuyền lớn hơn Vi Linh thông thường, to bằng hạt gạo, phát sáng xanh ngọc đậm hơn đồng loại. Thân hình bán trong suốt, bề mặt có lớp vỏ cứng mỏng — đặc điểm đặc biệt trong Vi Tộc, cho thấy y là biến thể chiến đấu hiếm gặp. Tính cách cương quyết, bảo vệ Linh Mẫu bằng mọi giá, luôn tuần tra không ngừng quanh vùng nước trung tâm.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Vi Ngọc Tuyền sở hữu Thủy Lưu Xung Kích Thuật (水流衝擊術) — tạo ra dòng nước xoáy nhỏ nhưng mạnh để đẩy lùi sinh vật ký sinh và vi trùng xâm nhập nguồn nước. Ngoài ra, y có thể phát ra tín hiệu cảnh báo bằng ánh sáng đỏ, triệu tập hàng ngàn Vi Linh tạo thành hàng rào phòng thủ. Khả năng chiến đấu hạn chế, chỉ hiệu quả với sinh vật cỡ nhỏ trong môi trường nước.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Vi Linh Mẫu:** Đối tượng bảo vệ tối thượng, Ngọc Tuyền nguyện hy sinh bản thân để giữ an toàn cho Linh Mẫu.
+- **Vi Tiểu Sa:** Cá thể trẻ bất thường mà Ngọc Tuyền vừa tò mò vừa cảnh giác, không hiểu tại sao y có thể sống ngoài nước.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vi Ngọc Tuyền là biến thể hiếm gặp trong Vi Tộc, sinh ra với lớp vỏ cứng và bản năng bảo vệ mạnh mẽ. Từ nhỏ đã tự nguyện tuần tra quanh Linh Mẫu, xua đuổi mọi mối đe dọa. Từng đơn thân chống lại một con trùng ký sinh lớn gấp trăm lần mình, bị thương nặng nhưng bảo vệ được Linh Mẫu. Hiện tại, y nhận thấy ngày càng nhiều sinh vật lạ xuất hiện trong mạch nước, như thể có thứ gì đó đang thu hút chúng từ sâu dưới lòng đất lên.

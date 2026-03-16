@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Đệ Bát Tháp Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Hứa Luyện là một người đàn ông trung niên dáng cao gầy, gương mặt xương xương nghiêm nghị, đôi mắt xám sắc lạnh. Mái tóc đen pha bạc cắt ngắn, luôn đeo một cặp kính bảo hộ luyện đan trên trán. Thường mặc áo bào trắng đỏ giản dị, tay luôn dính bụi khoáng thạch. Tính cách cô lập, ít giao tiếp, chỉ hứng thú khi nói về luyện khí và chế tạo lò luyện. Ông thường quên ăn quên ngủ khi nghiên cứu, khiến đồng môn lo lắng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Hứa Luyện chuyên về thiết kế và chế tạo lò luyện đan, là kỹ sư giỏi nhất cốc. Tuyệt chiêu Bách Luyện Thành Cương (百煉成鋼) cho phép ông nung chảy và tái cấu trúc bất kỳ kim loại nào bằng hỏa hệ linh lực, tạo ra các linh cụ có độ chính xác cực cao. Mạnh về chế tạo và hỗ trợ kỹ thuật, nhưng hoàn toàn không có kinh nghiệm chiến đấu thực tế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Hỏa Nham:** Đệ Nhị Tháp Chủ, đồng nghiệp nghiên cứu thân thiết nhất, hai người thường hợp tác dự án.
+- **Hoàng Thiên Hỏa:** Đệ Lục Tháp Chủ, đồng liêu cùng đam mê chế tạo, thường trao đổi kỹ thuật.
+- **Đan Dương Tử:** Cốc Chủ, người ủng hộ và tài trợ các dự án nghiên cứu của ông.
+- **Lâm Ngọc Yên:** Nội Môn Đệ Tử, đệ tử có tiềm năng mà ông đang hướng dẫn về kỹ thuật.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hứa Luyện vốn là một luyện khí sư tán tu lang thang, được Đan Hà Cốc chiêu mộ khi phát hiện tài năng thiết kế lò luyện xuất chúng. Ông từng là một thiên tài bị thế giới bên ngoài lãng quên, chỉ khi đến cốc mới tìm thấy nơi phát huy sở trường. Sự kiện then chốt là khi ông thiết kế lại hệ thống dẫn hỏa cho toàn bộ Cửu Đan Tháp, tăng hiệu suất luyện đan của cốc lên đáng kể. Bí mật hiện tại là ông đang bí mật nghiên cứu một loại lò luyện có thể sử dụng bất kỳ nguồn năng lượng nào, kể cả ma khí, để luyện đan.

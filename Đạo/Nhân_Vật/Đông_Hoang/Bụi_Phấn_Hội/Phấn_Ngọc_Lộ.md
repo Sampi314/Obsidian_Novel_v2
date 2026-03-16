@@ -29,10 +29,12 @@ arcs:
 Phấn hoa pha sương ngọc, linh dược bậc thượng
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên gia trị liệu của Bụi Phấn Hội, tinh thông y thuật và dược lý. Chiêu thức 粉玉露·Hồi Xuân Thuật (粉玉露·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Bích Dực Nhi:** Trinh Sát, đồng liêu quan trọng nhất trong Bụi Phấn Hội.
+- **Phấn Hoàng Vương:** Hội Trưởng, đối tác thường xuyên phối hợp.
+- **Phấn Hỏa Liên Thiên:** Bí Mật Sư, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phấn Ngọc Lộ được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Bụi Phấn Hội. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Bụi Phấn Hội và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dược Sư.

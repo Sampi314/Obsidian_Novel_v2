@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thân hình vạm vỡ tráng kiện, gương mặt vuông vức đầy uy nghiêm. Giọng nói vang dội đầy sức thuyết phục. Tính cách hào sảng, trọng nghĩa khí, ghét sự bất công.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện công pháp cốt lõi của Cửu Hoa Kiếm Tông đạt trình độ cao thâm. Chiêu thức 武飛劍·Hộ Pháp Ấn (武飛劍·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Thiên Phong:** Hộ Pháp, đồng liêu quan trọng nhất trong Cửu Hoa Kiếm Tông.
+- **Lê Hàn Sương:** Trưởng Lão, đối tác thường xuyên phối hợp.
+- **Lý Lục Trần:** Tông Chủ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vũ Phi Kiếm được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Cửu Hoa Kiếm Tông. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Cửu Hoa Kiếm Tông và dần khẳng định vị trí của mình. Với tu vi Nguyên Anh Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trưởng Lão.

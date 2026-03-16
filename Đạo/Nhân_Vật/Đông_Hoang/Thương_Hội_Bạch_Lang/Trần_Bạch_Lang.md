@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Hội Trưởng (Đại Lang).
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trần Bạch Lang là trung niên cao lớn, mặc áo giáp da thú trắng, vai khoác áo choàng lông sói bạc. Mắt xám sắc lẹm, sẹo ngang cằm, tóc đen buộc sau. Tính cách thực dụng, giữ chữ tín trong kinh doanh, nhưng tàn nhẫn khi bị phản bội. Là thủ lĩnh được kính sợ.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Trần Bạch Lang sở hữu Bạch Lang Đao Pháp (白狼刀法) — đao pháp hung hãn như sói tấn công, nhanh và chính xác, chuyên nhắm vào chỗ yếu. Ngoài ra y tinh thông chiến thuật mai phục và hộ tống thương đoàn xuyên vùng nguy hiểm. Tu vi Trúc Cơ Viên Mãn nhưng kinh nghiệm chiến trường bù đắp thiếu hụt.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Thiết Nha:** Quản Sự đáng tin, phụ trách điều hành thương đoàn.
+- **Phạm Bạch Vệ:** Hộ Vệ Cốt Cán trung thành nhất, luôn bảo vệ y.
+- **Hoàng Phong Hành:** Hộ Vệ mới có tiềm năng mà y đang quan sát.
+- **Nguyễn Tiểu Sói:** Hộ vệ ngoại vi trẻ, nhiệt huyết nhưng non nớt.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Bạch Lang từng là lính đánh thuê kỳ cựu ở biên giới Nam Cương. Chứng kiến nhu cầu vận chuyển hàng hóa xuyên vùng nguy hiểm, ông liên kết những tán tu đồng nghiệp lập Thương Hội. Trải qua hàng chục năm, từ nhóm lính đánh thuê rời rạc, Bạch Lang đã thành tổ chức giao thương có thế lực. Chữ tín là vũ khí mạnh nhất của ông — một khi nhận tiền bảo kê, sẽ tử chiến bảo vệ hàng hóa.

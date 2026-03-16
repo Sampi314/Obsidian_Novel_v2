@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Ẩn Sĩ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Chán chiến đấu, ẩn cư trồng cây — cây to bằng thành trì
-
+Hoang Sơn Ẩn Sĩ là Cự Tộc già nua, cao chừng tám trượng, thân hình phủ đầy rêu mốc và dây leo như một ngọn núi di động. Mắt y nhỏ, sâu, ánh lên vẻ từ bi lẫn mệt mỏi. Luôn ngồi bất động trên đỉnh núi hoang, ít khi nói chuyện, nhưng mỗi lời đều mang trí tuệ sâu xa.
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Hoang Sơn Ẩn Sĩ tinh thông Sơn Nhạc Tĩnh Tâm Thuật (山岳靜心術) — dùng linh lực đại địa để chữa lành vết thương cho bản thân và người khác, đồng thời có thể tạo ra kết giới đá bảo vệ phạm vi rộng. Không chủ động chiến đấu, nhưng khi bị ép vào đường cùng, y có thể khiến cả ngọn núi sụp đổ lên kẻ thù.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Cuồng Nham:** Tán tu trẻ hay đến xin chữa thương, Ẩn Sĩ coi y như đứa con ngang bướng.
+- **Hắc Thiết Giáp:** Đấu sĩ trầm tĩnh đôi khi đến uống trà với Ẩn Sĩ, bàn chuyện thế sự.
+- **Ưng Nham Trảo:** Thợ săn Vũ Tộc đôi khi mang thịt thú rừng đến đổi lấy thuốc chữa thương.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoang Sơn Ẩn Sĩ từng là chiến binh lừng danh của một bộ lạc Cự Tộc lớn, nhưng sau khi chứng kiến bộ lạc bị diệt trong chiến tranh tông môn, y mất đi ý chí chiến đấu. Lui về vùng núi hoang ẩn tu suốt ba trăm năm, y tìm được sự bình an trong sự tĩnh lặng. Dù sống ẩn dật, y vẫn âm thầm giúp đỡ tán tu gặp nạn, trở thành chỗ dựa tinh thần không chính thức cho những kẻ lang bạt.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Tộc Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vi Mộc là Vi Tộc nhỏ bằng ngón tay út, thân hình bán trong suốt với ánh xanh lá nhạt, bề mặt phủ lớp nhựa cây mỏng tạo vẻ ngoài bóng loáng. Có thể phát ra ánh sáng xanh lục nhịp nhàng khi giao tiếp. Tính cách trầm lặng, suy tư sâu xa, mang gánh nặng bí mật của Thần Mộc.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Vi Mộc sở hữu Thần Mộc Cảm Ứng Thuật (神木感應術) — năng lực bẩm sinh duy nhất cho phép giao tiếp trực tiếp với ý thức của Thần Mộc qua rung động. Không có khả năng chiến đấu, nhưng có thể yêu cầu Thần Mộc phóng ra mộc linh khí đẩy lùi kẻ xâm nhập. Là cá thể quan trọng nhất của Thần Mộc Ký Sinh Tộc, mất y là mất kết nối với Thần Mộc.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Vi Ký Sinh:** Trưởng Lão trung thành nhất, phụ trách bảo vệ Vi Mộc.
+- **Vi Tiểu Mộc:** Cá thể trẻ mà Vi Mộc đang quan sát, hy vọng y có thể kế thừa khả năng giao tiếp với Thần Mộc.
+- **Tinh Linh Vương Đình:** Tinh Linh biết Vi Tộc tồn tại nhưng coi như côn trùng, Vi Mộc cố gắng tránh bị chú ý.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vi Mộc được sinh ra từ một nốt sần đặc biệt trên thân Thần Mộc, nơi tích tụ mộc linh khí đậm đặc nhất. Ngay từ khi hình thành, y đã có thể nghe được rung động từ Thần Mộc — thứ mà không Vi Tộc nào khác làm được. Trở thành Tộc Trưởng, y dẫn dắt tộc dân chăm sóc Thần Mộc. Nhưng gần đây, Thần Mộc truyền cho y một thông điệp kinh hoàng mà y không dám kể cho ai — rằng có thứ gì đó đang ăn mòn rễ Thần Mộc từ sâu dưới lòng đất.

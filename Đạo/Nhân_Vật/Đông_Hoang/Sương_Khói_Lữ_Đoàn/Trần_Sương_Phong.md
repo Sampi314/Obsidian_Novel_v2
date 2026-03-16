@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Phó Đoàn Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trần Sương Phong dáng cao gầy, tóc bạc sớm do tiếp xúc nhiều với hàn khí, mắt sáng đầy quyết đoán. Luôn mang kiếm mỏng bên hông, áo choàng xám phất phơ. Tính cách mạnh mẽ, quả quyết, bổ khuyết cho sự trầm lặng của Đoàn Trưởng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Trần Sương Phong sử dụng Sương Phong Kiếm (霜風劍) — kiếm pháp kết hợp với sương lạnh, mỗi đòn kiếm mang theo hơi giá buốt đóng băng vết thương kẻ địch. Tuyệt kỹ Phong Sương Loạn Vũ (風霜亂舞) tạo bão kiếm sương phủ kín chiến trường. Điểm yếu là hỏa hệ công pháp.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Vũ Hàn:** Đoàn Trưởng và tri kỷ, Sương Phong luôn ở bên hỗ trợ.
+- **Phạm Tiểu Sương:** Thành viên trẻ mà Sương Phong huấn luyện kỹ thuật kiếm.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Sương Phong là kiếm tu lang thang gặp Lý Vũ Hàn trên đường, cả hai cùng cảnh ngộ mất mát nên kết nghĩa. Y trở thành Phó Đoàn Trưởng, phụ trách bảo vệ đoàn trong các chuyến vận chuyển nguy hiểm. Từng đơn thân chặn đường đám cướp bảo vệ đoàn, danh tiếng 'Sương Phong Kiếm' lan xa khắp giới giang hồ.

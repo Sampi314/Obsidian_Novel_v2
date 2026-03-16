@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Nội Môn Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thiếu nữ nhỏ nhắn đáng yêu với đôi má hồng như trái đào chín, mái tóc nâu xoăn tự nhiên. Luôn mặc y phục hồng đào của nội môn đệ tử. Tính cách hồn nhiên, lạc quan, hay cười và rất mau nước mắt. Tuy năng lực chiến đấu còn yếu nhưng bù lại bằng sự chăm chỉ phi thường.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đang tu luyện Bách Hoa Diễn Nghĩa ở giai đoạn cơ bản, chuyên về hoa đào. Chiêu thức Đào Hoa Vũ (桃花雨) tạo mưa cánh đào làm mê hoặc và cản trở tầm nhìn đối thủ. Tu vi còn thấp nên chủ yếu đóng vai trò hỗ trợ, sở trường pha chế phấn hoa linh dược cơ bản.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lê Thanh Mai:** Sư tỷ thân thiết nhất, người luôn bảo vệ và chỉ dẫn nàng.
+- **Phạm Tú Lan:** Trưởng Lão dạy pha chế dược thảo, coi nàng như cháu gái.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Tiểu Đào là con gái một nông dân trồng hoa đào gần thung lũng Bách Hoa. Khi phát hiện thiên phú linh lực mộc hệ, nàng được gia đình gửi vào cốc tu luyện. Tuy linh căn trung bình nhưng nàng bù đắp bằng sự siêng năng và tinh thần lạc quan. Ước mơ của nàng đơn giản là trở thành một dược sư giỏi để chữa bệnh cho dân thường.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Linh Mẫu.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vi Linh Mẫu là cá thể Vi Tộc lớn nhất, to bằng hạt đậu, phát sáng xanh lam dịu dàng liên tục. Thân hình trong suốt, có thể nhìn thấy nhân linh lực nhỏ xíu bên trong đang xoay chuyển. Không có biểu cảm theo nghĩa thông thường, nhưng cường độ và nhịp nhấp nháy ánh sáng thể hiện cảm xúc. Tính cách điềm tĩnh, vô tư, quan tâm duy nhất đến sự sống còn của quần thể.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Vi Linh Mẫu sở hữu Thanh Tịnh Thủy Nguyên Thuật (清淨水源術) — khả năng bẩm sinh lọc sạch và tinh luyện nước, loại bỏ mọi tạp chất và bổ sung linh lực. Trong tình huống nguy cấp, y có thể ra lệnh toàn bộ Vi Linh "tự hủy" giải phóng lượng linh lực khổng lồ để thanh tẩy nguồn nước bị ô nhiễm nặng. Không có khả năng chiến đấu trực tiếp.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Vi Ngọc Tuyền:** Thủ hộ trung thành nhất, bảo vệ Linh Mẫu khỏi các sinh vật ký sinh trong nước.
+- **Vi Tiểu Sa:** Cá thể trẻ đặc biệt sống ở vùng cát ẩm thay vì trong nước, Linh Mẫu theo dõi sự phát triển bất thường của y.
+- **Trần Sa Nghĩa (Ốc Đảo Hộ Vệ Đội):** Nhân tộc hiếm hoi biết sự tồn tại của Vi Linh, Linh Mẫu cảm nhận được thiện ý của ông.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vi Linh Mẫu tồn tại từ thời ốc đảo hình thành, truyền thừa qua vô số thế hệ. Mỗi Linh Mẫu khi chết sẽ truyền lại ký ức cho Linh Mẫu kế tiếp, nên y mang trong mình kiến thức ngàn năm về mạch nước. Gần đây, y cảm nhận được nguồn năng lượng bất thường từ sâu dưới lòng đất đang hút dần linh lực của nước, khiến Vi Linh suy yếu hàng loạt. Nếu không tìm ra nguyên nhân, toàn bộ ốc đảo sẽ chết trong vài chục năm. Đây là mối đe dọa lớn nhất mà Vi Linh Mẫu từng đối mặt trong ký ức truyền thừa.

@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Thiềm Chi Hộ Pháp.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Đàm Trầm Thủy là một người đàn ông trung niên bề ngoài bình thường, dáng người tầm thước, gương mặt tròn trịa với đôi mắt nhỏ xám luôn mang nụ cười giả tạo. Da xanh xám ẩm ướt, mái tóc đen mỏng ép sát đầu, thường mặc áo bào xám xanh ẩm mốc. Tính cách âm hiểm, nham hiểm và giỏi che giấu bản chất thật. Ông luôn tỏ ra hiền lành nhưng thực chất là người nguy hiểm nhất trong Ngũ Độc Hộ Pháp vì không ai biết ông đang nghĩ gì.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đàm Trầm Thủy chuyên về Thiềm Độc Thuật, sử dụng chất tiết từ cóc độc vạn năm làm vũ khí gây ảo giác và tê liệt. Tuyệt chiêu Trầm Thủy Mê Hồn (沉水迷魂) phát tán chất khí từ cơ thể khiến kẻ thù trong phạm vi rộng rơi vào trạng thái mê sảng, không phân biệt được thực hư. Mạnh về kiểm soát tinh thần diện rộng và chiến đấu gián tiếp, nhưng sức chiến đấu trực tiếp yếu và cần thời gian chuẩn bị.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Độc Cô Lão Quái:** Môn Chủ, người duy nhất mà ông thực sự sợ hãi.
+- **La Vân Ti:** Nhện Chi Hộ Pháp, đồng liêu mà ông thường hợp tác trong chiến đấu.
+- **Cổ Hàn Sương:** Luyện Tà Đường Chủ, người mà ông thầm ngưỡng mộ về trí tuệ.
+- **Mạc Thiên Túc:** Rết Chi Hộ Pháp, đồng liêu mà ông ngầm thao túng bằng lời nói.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Đàm Trầm Thủy vốn là một lái buôn dược liệu lừa đảo bị truy nã, chạy trốn vào rừng sâu Nam Cương và tình cờ tìm thấy một hồ cóc độc cổ đại. Ông bị cóc độc tấn công suýt chết nhưng sống sót và ngộ ra Thiềm Độc Thuật, sau đó gia nhập Vạn Độc Môn. Sự kiện then chốt là khi ông dùng ảo giác cóc độc thao túng cả một bộ lạc nộp cống phẩm cho Vạn Độc Môn mà không cần động tay. Bí mật hiện tại là ông đang bí mật tích trữ quyền lực riêng, chuẩn bị cho ngày Độc Cô Lão Quái suy yếu để tự lập.

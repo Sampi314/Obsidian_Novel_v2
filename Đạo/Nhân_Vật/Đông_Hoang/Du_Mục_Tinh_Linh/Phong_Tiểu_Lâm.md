@@ -29,10 +29,12 @@ arcs:
 Trẻ nhất đoàn, mơ ước thấy Thần Mộc một lần
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đang tu luyện công pháp cơ bản của Du Mục Tinh Linh, tiềm năng phát triển lớn. Chiêu thức 楓小林·Sơ Thức (楓小林·初式) tuy đơn giản nhưng nền tảng vững chắc. Tu vi còn thấp nên chủ yếu hỗ trợ và học hỏi từ tiền bối.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Phong Diệp:** Thủ Lĩnh, đồng liêu quan trọng nhất trong Du Mục Tinh Linh.
+- **Phong Dã:** Trinh Sát, đối tác thường xuyên phối hợp.
+- **Phong Hỏa Diệp:** Chiến Sĩ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phong Tiểu Lâm được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Du Mục Tinh Linh. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Du Mục Tinh Linh và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Đệ Tử.

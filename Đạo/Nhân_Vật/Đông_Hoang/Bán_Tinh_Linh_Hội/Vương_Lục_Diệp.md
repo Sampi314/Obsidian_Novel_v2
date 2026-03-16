@@ -29,10 +29,12 @@ arcs:
 Mắt xanh lục di truyền từ mẹ Tinh Linh
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đang tu luyện công pháp cơ bản của Bán Tinh Linh Hội, tiềm năng phát triển lớn. Chiêu thức 王綠葉·Sơ Thức (王綠葉·初式) tuy đơn giản nhưng nền tảng vững chắc. Tu vi còn thấp nên chủ yếu hỗ trợ và học hỏi từ tiền bối.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Bán Lâm:** Hội Trưởng, đồng liêu quan trọng nhất trong Bán Tinh Linh Hội.
+- **Hoa Nhân Hàn Ngọc:** Chiến Sĩ, đối tác thường xuyên phối hợp.
+- **Lâm Hoa Vũ:** Thợ Săn, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vương Lục Diệp sinh ra trong một gia đình Tinh Linh Tộc bình thường, sớm thể hiện tư chất phù hợp với Bán Tinh Linh Hội. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Bán Tinh Linh Hội và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Đệ Tử.

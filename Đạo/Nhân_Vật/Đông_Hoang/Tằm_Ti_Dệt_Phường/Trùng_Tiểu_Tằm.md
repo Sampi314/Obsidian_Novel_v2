@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Thợ Dệt.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trùng Tiểu Tằm là tằm con nhỏ xíu, dài chỉ mười phân, thân trắng mềm mại, chưa có tơ rõ ràng. Di chuyển bằng cách uốn éo đáng yêu, hay cuộn tròn ngủ trên đống tơ. Tính cách hồn nhiên, ham ăn, mơ mộng, thích ngắm những tấm vải đẹp mà tiền bối dệt.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Trùng Tiểu Tằm đang học Sơ Cấp Nhả Ti (初級吐絲) — hiện chỉ nhả được sợi tơ mỏng yếu ớt, nhưng tơ của y có đặc điểm lạ: phát sáng nhẹ trong bóng tối. Không có khả năng chiến đấu, hoàn toàn phụ thuộc vào sự bảo vệ của Phường.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trùng Bạch Ti:** Tằm Mẫu mà Tiểu Tằm coi như mẹ, luôn cuộn bên cạnh.
+- **Trùng Kim Ti:** Sư huynh mà Tiểu Tằm ngưỡng mộ, hay xem Kim Ti dệt và cố bắt chước.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trùng Tiểu Tằm sinh ra trong Phường, được cả đội nuôi dưỡng. Tơ phát sáng của y là hiện tượng chưa từng có, Bạch Ti đang quan sát xem đây là đột biến tốt hay xấu. Tính cách ham ăn khiến y lớn nhanh, và mọi người kỳ vọng khi y trưởng thành sẽ nhả được loại tơ đặc biệt mới. Mơ ước: dệt được tấm vải đầu tiên của riêng mình.

@@ -29,10 +29,12 @@ arcs:
 Vết thương không lành, vẫn chiến đấu không ngừng
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Lạc Diệp Tinh Linh, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 叶青霜月·Bản Mệnh (叶青霜月·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Diệp Hồng Vũ:** Cung Thủ, đồng liêu quan trọng nhất trong Lạc Diệp Tinh Linh.
+- **Diệp Kim Phong:** Vệ Sĩ Trưởng, đối tác thường xuyên phối hợp.
+- **Diệp Linh Ngọc:** Đệ Tử, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Diệp Thanh Sương Nguyệt vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Lạc Diệp Tinh Linh. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Lạc Diệp Tinh Linh và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trinh Sát.

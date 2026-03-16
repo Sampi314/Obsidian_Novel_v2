@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Uy Trưởng Cửa Ải.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Nguyễn Trấn Quan có thân hình trung bình, khuôn mặt vuông vức, mắt sắc, râu ngắn gọn gàng. Mặc giáp chiến tiêu chuẩn nhưng có thêm huy hiệu Uy Trưởng. Tính cách công minh, nghiêm khắc nhưng quan tâm đến binh sĩ, quản lý cửa ải một cách hoàn hảo.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Nguyễn Trấn Quan sở hữu Trấn Quan Quyền Pháp (鎮關拳法) — quyền pháp chắc chắn, mỗi đòn đánh đều nhằm vô hiệu hóa đối thủ nhanh nhất có thể. Ngoài ra y tinh thông Cửu Trọng Hộ Thiên Trận tiểu trận (九重護天陣小陣) — có thể vận hành phần nhỏ của đại trận bảo vệ một cửa ải.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Thạch Bích:** Tướng Quân mà y nhận mệnh lệnh trực tiếp.
+- **Đặng Thiết Vệ:** Đồng liêu Uy Trưởng, phụ trách cửa ải kế bên.
+- **Lê Trấn Sơn:** Hiệu Úy dưới quyền, chỉ huy đội tuần tra.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Nguyễn Trấn Quan xuất thân bình dân, gia nhập quân đội từ cấp binh sĩ thấp nhất. Trải qua hai mươi năm phục vụ không sai sót, y thăng tiến lên Uy Trưởng Cửa Ải. Cửa ải do y quản lý có tỷ lệ xâm nhập trái phép thấp nhất trong chín cửa. Bí mật: y phát hiện một đường hầm bí mật dưới cửa ải mà y quản lý, đang điều tra nguồn gốc.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Huyền điểu thượng cổ, sống lâu đến quên mình bao nhiêu tuổi
+Phượng Huyền Điểu Lão khi hóa nhân là một lão nhân gầy gò, lưng hơi còng, mái tóc bạc trắng dài chấm đất với những sợi xám đen xen kẽ. Đôi mắt đen huyền sâu thẳm như nhìn xuyên thời gian, da nhăn nheo nhưng tỏa ra khí chất cổ xưa thâm sâu khó lường. Bộ lông huyền điểu đen tím khi ở nguyên hình phản chiếu ánh sáng kỳ lạ. Tính cách trầm mặc, ít nói nhưng mỗi lời đều mang trọng lượng, đôi khi lẩm bẩm chuyện từ ngàn năm trước mà quên mình đang ở đâu.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phượng Huyền Điểu Lão tu luyện Huyền Hỏa Cổ Thuật (玄火古術), ngọn lửa đen tím có thể thiêu đốt cả linh hồn và ký ức. Tuyệt chiêu Huyền Điểu Thiên Hỏa (玄鳥天火) triệu hồi ngọn lửa thượng cổ từ huyết mạch, bao phủ cả vùng trời trong biển lửa đen. Dù sức mạnh kinh người nhưng tuổi già khiến thể lực suy giảm nghiêm trọng, không thể duy trì chiến đấu cường độ cao quá nửa canh giờ.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Phượng Xích:** Tộc Trưởng, cháu mấy đời mà ông coi như con, tận tâm dạy dỗ đường lối cai trị.
+- **Công Thái Hồng:** Chiến Tướng, vị tướng trẻ mà ông đánh giá cao nhất trong thế hệ hiện tại.
+- **Phượng Xích Diệm:** Chiến Sĩ, chắt trai mà ông thường kể chuyện lịch sử gia tộc cho nghe.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phượng Huyền Điểu Lão là hậu duệ trực hệ của huyền điểu thượng cổ, sống lâu đến mức chính ông cũng không nhớ rõ mình bao nhiêu tuổi. Ông từng chứng kiến Phượng Hỏa Tộc từ một nhóm nhỏ vài chục con chim lửa hoang dã phát triển thành thế lực hùng mạnh tại Nam Cương. Sự kiện đánh dấu cuộc đời ông là trận Đại Hỏa Kiếp ba trăm năm trước khi rừng già bốc cháy suốt một tháng, ông dùng thân mình hấp thu lửa để cứu cả tộc. Hiện tại ông chỉ muốn an hưởng tuổi già và truyền lại tri thức cổ xưa cho hậu bối trước khi huyết mạch cạn kiệt.

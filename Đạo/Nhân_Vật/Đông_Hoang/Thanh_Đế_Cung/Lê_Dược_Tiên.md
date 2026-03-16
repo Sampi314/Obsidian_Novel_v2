@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lê Dược Tiên là nữ tu sĩ trẻ, dung mạo thanh tú, tóc xanh nhạt buộc hai bên, mắt sáng tò mò. Luôn mang theo cái giỏ đầy linh thảo và cuốn sổ ghi chép. Tính cách hoạt bát, đam mê nghiên cứu, hay tự mình vào rừng sâu tìm kiếm dược liệu hiếm.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lê Dược Tiên sở hữu Linh Thảo Nhận Biết Thuật (靈草認識術) — thiên phú bẩm sinh nhận ra mọi loại linh thảo chỉ qua hương thơm. Trong chiến đấu y dùng Bách Thảo Độc Phấn (百草毒粉) — phấn hoa linh lực gây tê liệt hoặc ảo giác cho đối thủ. Ngoài ra y tinh thông luyện đan, có thể chế tạo đan dược trị liệu cấp cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Mộc Linh:** Đồng liêu Trưởng Lão, hai người hay hợp tác nghiên cứu.
+- **Phạm Thanh Hoa:** Hộ Pháp mà y thường chữa trị vết thương sau trận chiến.
+- **Đặng Thanh Liên:** Chân truyền đệ tử mà y coi như em gái.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lê Dược Tiên sinh ra trong gia tộc dược sư nhỏ, gia nhập Thanh Đế Cung nhờ tài năng xuất chúng trong việc nhận biết linh thảo. Là Trưởng Lão trẻ nhất của Cung, y đang nghiên cứu cách kết hợp dược thuật với mộc linh trận pháp để tạo ra khu vực tự chữa lành trên chiến trường. Gần đây phát hiện nhiều loài linh thảo bắt đầu đột biến — dấu hiệu của sự thay đổi lớn trong hệ sinh thái.

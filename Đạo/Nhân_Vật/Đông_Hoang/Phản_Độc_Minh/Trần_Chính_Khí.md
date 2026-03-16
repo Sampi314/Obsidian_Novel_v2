@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Phó Minh Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trần Chính Khí có thân hình trung bình, mặt vuông, mắt sáng đầy chính nghĩa. Luôn mặc áo bào nâu giản dị, lưng đeo túi dược liệu. Tính cách thẳng thắn, trọng nghĩa khinh tài, sẵn sàng xả thân vì đồng đạo, nhưng đôi khi quá cứng nhắc trong nguyên tắc.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Trần Chính Khí sử dụng Chính Khí Hộ Thể Công (正氣護體功) — tạo ra lá chắn linh lực thanh tịnh có khả năng trung hòa độc tố trong phạm vi nhỏ. Tuy tu vi thấp nhưng ý chí kiên cường khiến y trở thành người phòng thủ đáng tin cậy. Điểm yếu là sức tấn công yếu ớt, chỉ có thể hỗ trợ và bảo vệ.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lê Thiết Tâm:** Minh Chủ mà Chính Khí kính trọng tuyệt đối, hai người gắn bó từ ngày đầu thành lập Phản Độc Minh.
+- **Phạm Giải Độc:** Dược Sư mà Chính Khí bảo vệ, thường xuyên hộ tống trong các chuyến thu thập dược liệu nguy hiểm.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Chính Khí cũng mất gia đình vì Vạn Độc Môn, gặp Lê Thiết Tâm khi cả hai cùng lang thang tìm cách trả thù. Gia nhập Phản Độc Minh từ ngày đầu, trở thành Phó Minh Chủ nhờ sự trung thành và tinh thần bất khuất. Nhiều lần xông vào vùng độc để cứu nạn nhân, cơ thể tích tụ nhiều chất độc nhưng nhờ công pháp hộ thể nên vẫn duy trì được. Mục tiêu duy nhất: bảo vệ Minh Chủ và tiêu diệt Vạn Độc Môn.

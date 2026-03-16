@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Dịch Giả Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Xà Ngữ Âm khoác hình nhân mảnh mai, da xanh nhạt có vảy mờ, mắt rắn vàng dọc, lưỡi đôi khi thò ra thăm dò không khí. Giọng nói rì rào như tiếng rắn, nhưng phát âm cực kỳ chuẩn mọi ngôn ngữ. Tính cách trầm lặng, chính xác, không bao giờ dịch sai dù chỉ một từ.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Xà Ngữ Âm sở hữu Xà Ngữ Giải Mã Thuật (蛇語解碼術) — có thể giải mã ngôn ngữ cổ đại và tiếng nói bí ẩn của các loài rắn thượng cổ. Khi gặp nguy y dùng Xà Tín Mê Hồn (蛇信迷魂) — phát ra tần số âm thanh khiến đối thủ chóng mặt và mất phương hướng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Ưng Đa Ngữ:** Hội Trưởng mà y tôn kính, là người duy nhất y tin tưởng hoàn toàn.
+- **Miêu Tiểu Dịch:** Tập sự mà y dạy ngữ pháp cơ bản, kiên nhẫn dù y chậm hiểu.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Xà Ngữ Âm là Yêu Tộc nhánh Xà, từ nhỏ đã sống giữa nhiều bộ lạc khác nhau nên tự nhiên học được nhiều ngôn ngữ. Gia nhập Hội từ sớm, y trở thành dịch giả giỏi nhất, đặc biệt chuyên sâu về ngôn ngữ xà tộc — hệ ngôn ngữ phức tạp nhất Đông Hoang. Từng dịch thuật thành công cuộc đàm phán hòa bình giữa hai bộ lạc xà tộc sắp giao chiến.

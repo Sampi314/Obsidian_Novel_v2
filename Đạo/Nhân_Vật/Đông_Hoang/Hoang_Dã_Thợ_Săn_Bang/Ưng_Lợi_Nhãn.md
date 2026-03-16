@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trinh Sát Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phong thái lạnh lùng bí ẩn, ít ai biết được suy nghĩ thực sự. Gương mặt điển trai nhưng hiếm khi thể hiện cảm xúc. Tính cách độc lập, tự chủ, chỉ tin tưởng rất ít người.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Hoang Dã Thợ Săn Bang, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 鷹利眼·Bản Mệnh (鷹利眼·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Báo Khoái Đao:** Sát Thủ, đồng liêu quan trọng nhất trong Hoang Dã Thợ Săn Bang.
+- **Hổ Thiết Trảo:** Phó Bang Chủ, đối tác thường xuyên phối hợp.
+- **Lang Liệp Phong:** Bang Chủ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ưng Lợi Nhãn xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Hoang Dã Thợ Săn Bang. Trải qua thử thách sinh tử, nàng gia nhập Hoang Dã Thợ Săn Bang và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trinh Sát Trưởng.

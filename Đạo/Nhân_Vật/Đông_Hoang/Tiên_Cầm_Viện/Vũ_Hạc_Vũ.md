@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Hộ Pháp.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vũ Hạc Vũ là Vũ Tộc trung niên, cánh trắng rộng lớn như hạc tiên, thân hình cao ráo, mắt sáng bình thản. Mặc giáp chiến bằng lông vũ linh lực, tay cầm thương dài. Tính cách trầm tĩnh, bảo vệ Viện Trưởng là nhiệm vụ duy nhất.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Vũ Hạc Vũ sở hữu Hạc Vũ Thương Pháp (鶴羽槍法) — thương pháp trên không, kết hợp tốc độ bay và sức mạnh đâm thương tạo ra lực xuyên phá kinh hoàng. Ngoài ra y có Bạch Hạc Hộ Dực (白鶴護翼) — dùng cánh tạo ra kết giới gió bảo vệ người xung quanh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Cầm Tiên:** Viện Trưởng mà y bảo vệ bằng mọi giá.
+- **Trần Ưng Phi:** Đồng liêu Trưởng Lão, phối hợp phòng thủ trên không.
+- **Ưng Tiểu Phi:** Đệ tử Yêu Tộc phi cầm mà y huấn luyện kỹ năng bay.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vũ Hạc Vũ là Vũ Tộc nhánh Hạc, sinh ra với đôi cánh trắng thuần khiết hiếm gặp. Gia nhập Tiên Cầm Viện thay vì Vũ Hoàng Các vì tính cách hòa bình, y nhanh chóng trở thành Hộ Pháp nhờ kỹ năng chiến đấu trên không xuất sắc. Nhiệm vụ duy nhất y tự đặt cho mình: bảo vệ Viện Trưởng và mọi linh điểu trong Viện.

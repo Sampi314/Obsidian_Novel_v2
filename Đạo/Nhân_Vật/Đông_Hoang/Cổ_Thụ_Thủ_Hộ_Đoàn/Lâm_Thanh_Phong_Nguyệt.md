@@ -29,10 +29,12 @@ arcs:
 Bảo vệ 7 cổ thụ linh thiêng nhất Vĩnh Hằng Sâm Lâm
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Cổ Thụ Thủ Hộ Đoàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 林清風月·Bản Mệnh (林清風月·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lâm Căn:** Hộ Thụ Sĩ, đồng liêu quan trọng nhất trong Cổ Thụ Thủ Hộ Đoàn.
+- **Lâm Cổ Thụ:** Đoàn Trưởng, đối tác thường xuyên phối hợp.
+- **Lâm Vạn Niên:** Hộ Thụ Sĩ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lâm Thanh Phong Nguyệt được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Cổ Thụ Thủ Hộ Đoàn. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Cổ Thụ Thủ Hộ Đoàn và dần khẳng định vị trí của mình. Với tu vi Kim Đan Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hộ Thụ Sĩ.

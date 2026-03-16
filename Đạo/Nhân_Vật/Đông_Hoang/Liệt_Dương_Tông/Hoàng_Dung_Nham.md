@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Hộ Pháp.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Dáng người nhỏ nhắn nhanh nhẹn, đôi mắt to tròn lanh lợi. Nụ cười thường trực trên môi khiến người khác dễ chịu. Tính cách vui vẻ, lạc quan, năng động nhưng đôi khi thiếu kiên nhẫn.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện công pháp cốt lõi của Liệt Dương Tông đạt trình độ cao thâm. Chiêu thức 黃熔岩·Hộ Pháp Ấn (黃熔岩·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lê Dương Thiết:** Tông Chủ, đồng liêu quan trọng nhất trong Liệt Dương Tông.
+- **Nguyễn Liệt Diễm:** Trưởng Lão Viêm Long Quân, đối tác thường xuyên phối hợp.
+- **Phạm Hỏa Liên:** Hộ Pháp, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Dung Nham vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Liệt Dương Tông. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Liệt Dương Tông và dần khẳng định vị trí của mình. Với tu vi Nguyên Anh Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hộ Pháp.

@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Tam Sát.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Bạch Vô Ảnh là một thanh niên dáng người trung bình, gương mặt bình thường đến mức không ai nhớ được sau khi gặp. Mái tóc nâu, đôi mắt nâu, trang phục luôn hòa lẫn vào đám đông. Tính cách trầm lặng, kiên nhẫn và tỉ mỉ, chuyên về ẩn thân và theo dõi. Hắn có thể biến mất giữa đám đông mà không ai để ý.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Bạch Vô Ảnh tinh thông thuật ẩn thân và biến hóa, kết hợp với độc dược làm tê liệt giác quan. Tuyệt chiêu Vô Ảnh Tẩm Độc (无影浸毒) cho phép hắn tiếp cận mục tiêu trong trạng thái hoàn toàn vô hình và hạ độc mà nạn nhân không hề hay biết. Mạnh tuyệt đối về do thám và hạ độc ngầm, nhưng sức chiến đấu trực diện rất kém và nội lực mỏng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hàn Phong:** Nhất Sát, đồng đội mà hắn bổ sung kỹ năng trinh sát.
+- **Đinh Huyết Mi:** Nhị Sát, đồng đội thân thiết nhất, hay ganh đua vui vẻ.
+- **Hắc Dạ:** Tứ Sát, đồng đội trầm lặng mà hắn tôn trọng.
+- **La Vân Ti:** Nhện Chi Hộ Pháp, người truyền dạy kỹ thuật ẩn thân cho hắn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Bạch Vô Ảnh là trẻ mồ côi được Vạn Độc Môn nhặt về đào tạo từ nhỏ, phát hiện có thiên phú ẩn thân bẩm sinh. Hắn không nhớ gì về quá khứ và coi Thất Sát là gia đình duy nhất. Sự kiện then chốt là nhiệm vụ xâm nhập Đan Hà Cốc thu thập thông tin suốt ba tháng mà không bị phát hiện. Mục tiêu hiện tại là hoàn thiện kỹ thuật ẩn thân để có thể lừa qua cả thần thức cấp Hóa Thần.

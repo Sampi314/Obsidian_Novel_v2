@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Hữu Hộ Pháp.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phùng Đan Thanh là một trung niên dáng người cao gầy thanh thoát, gương mặt trắng trẻo nho nhã với đôi mắt xanh lục sáng. Mái tóc đen dài buộc cao bằng dải lụa đỏ, thường mặc áo bào trắng viền đỏ thanh nhã, tay cầm một cây quạt giấy vẽ hình ngọn lửa. Dáng vẻ giống một thư sinh hơn là chiến binh, nhưng ánh mắt luôn lạnh lùng tính toán. Tính cách mưu trí, bình tĩnh và giỏi phân tích tình huống, là quân sư thực sự của lực lượng hộ pháp.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phùng Đan Thanh kết hợp đan đạo và chiến đấu một cách tinh tế, sử dụng đan dược chiến đấu như vũ khí ném. Tuyệt chiêu Đan Thanh Bách Phát (丹青百發) cho phép ông tung ra hàng loạt viên đan dược nổ, đan dược khói, đan dược mê hoặc tạo thành chiến trường hỗn loạn có lợi cho phe mình. Mạnh về chiến thuật, nghi binh và kiểm soát chiến trường, nhưng thể chất yếu và dễ bị hạ trong cận chiến trực tiếp.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lư Hỏa:** Tả Hộ Pháp, đồng liêu chiến đấu lâu năm, hai người bổ sung mưu và dũng cho nhau.
+- **Đan Dương Tử:** Cốc Chủ, sư huynh mà ông kính phục vì tài lãnh đạo.
+- **Thạch Hổ:** Hộ Pháp Đường Chủ, cấp trên trực tiếp mà ông phục vụ trung thành.
+- **Dương Tiểu Lô:** Đại Đệ Tử, thanh niên mà ông đánh giá có tiềm năng lãnh đạo tương lai.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phùng Đan Thanh xuất thân từ một gia đình quân sư phục vụ Đại Càn Hoàng Triều, gia nhập Đan Hà Cốc sau khi gia đình bị liên lụy trong một cuộc thanh trừng cung đình. Ông mang theo trí tuệ chiến lược và áp dụng vào việc bảo vệ tông môn. Sự kiện then chốt là khi ông lập kế hoạch đánh bại cuộc vây hãm của liên quân Vạn Độc Môn và Hắc Báo Trại chỉ với một phần mười quân số đối phương. Mục tiêu hiện tại là xây dựng mạng lưới tình báo bên ngoài để cốc không bao giờ bị bất ngờ.

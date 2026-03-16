@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Hiệu Úy.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lê Trấn Sơn là trung niên khoẻ mạnh, mặt rắn rỏi, da nâu sẫm, vết sẹo ngang mũi. Mặc giáp chiến trung bình, mang đao và cung. Tính cách bình tĩnh, giàu kinh nghiệm chiến trường, giỏi trinh sát và dẫn đường.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lê Trấn Sơn tinh thông Sơn Nhạc Trinh Sát Thuật (山岳偵察術) — kỹ thuật di chuyển âm thầm trên địa hình núi đá, kết hợp cảm nhận rung động mặt đất để phát hiện kẻ thù. Chiến đấu bằng Sơn Đao Pháp (山刀法) — đao pháp phù hợp địa hình chật hẹp, nhanh gọn hiệu quả.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Nguyễn Trấn Quan:** Uy Trưởng mà y nhận mệnh lệnh trực tiếp.
+- **Vũ Phi Long:** Đồng liêu Hiệu Úy, hai người hay cùng dẫn đội tuần tra.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lê Trấn Sơn là thợ săn núi trước khi gia nhập quân đoàn, mang theo kinh nghiệm sinh tồn trên địa hình hiểm trở. Thăng tiến lên Hiệu Úy nhờ khả năng trinh sát xuất sắc, y phụ trách đội tuần tra giữa các cửa ải. Từng phát hiện và ngăn chặn âm mưu đặt bẫy nổ tại cửa ải thứ tư.

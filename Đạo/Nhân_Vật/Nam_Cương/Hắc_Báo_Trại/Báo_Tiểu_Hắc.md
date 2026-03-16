@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Báo Con.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Hắc báo con hiếu kỳ, hay lẻn vào thôn người
+Báo Tiểu Hắc khi hóa nhân là một cậu bé khoảng tám chín tuổi, nhỏ nhắn đáng yêu, da đen bóng, mái tóc đen xù, đôi mắt vàng to tròn tràn đầy hiếu kỳ giống cha. Đôi tai nhỏ nhọn hay vểnh lên khi nghe thấy tiếng động lạ, đuôi báo đôi khi lộ ra khi hắn quên kiểm soát hóa nhân thuật. Thường chạy chân trần trong rừng, áo quần luôn bẩn vì leo trèo. Tính cách hồn nhiên, nghịch ngợm, hay lẻn vào thôn người xem trộm rồi bị mắng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Báo Tiểu Hắc mới bắt đầu tu luyện, chỉ biết Tiểu Báo Tốn Thân (小豹遁身) có thể ẩn mình trong bụi rậm và di chuyển nhẹ nhàng không tiếng động nhờ bản năng bẩm sinh. Chưa có chiêu thức chiến đấu thực sự, chỉ biết cắn và cào khi hoảng sợ. Tiềm năng huyết mạch rất tốt thừa hưởng từ Báo Hắc Dạ, nhưng hiện tại hoàn toàn không có khả năng chiến đấu, cần được bảo vệ trong mọi tình huống nguy hiểm.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Báo Hắc Dạ:** Báo Vương, cha ruột mà hắn yêu quý nhất đời, luôn bám theo cha dù bị mắng.
+- **Báo Nguyệt Nha:** Trinh Sát, chị gái hay dắt hắn đi chơi, người hắn thích nhất sau cha.
+- **Báo Ám Ảnh Phong:** Sát Thủ, chú ấy rất đáng sợ nhưng luôn âm thầm để đồ ăn ngon cho hắn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Báo Tiểu Hắc là con trai duy nhất của Báo Hắc Dạ, sinh ra và lớn lên trong sự bảo hộ của cả Hắc Báo Trại. Vì được cưng chiều, hắn không biết sợ gì cả, thường xuyên lẻn ra ngoài lãnh thổ khám phá, đặc biệt thích lẻn vào thôn người xem họ sinh hoạt. Sự kiện then chốt là khi hắn vô tình kết bạn với một đứa trẻ Nhân Tộc trong thôn, mở ra khả năng hòa giải giữa hai bên mà không ai ngờ tới. Hiện tại hắn chỉ muốn chơi đùa, khám phá rừng già và lớn lên thật nhanh để được đi theo cha ra ngoài.

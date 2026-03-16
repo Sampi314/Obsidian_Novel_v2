@@ -29,10 +29,12 @@ arcs:
 Thiên tài chiến lược, chống cả Long Cung lẫn Nhân Tộc
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Giao Nhân Tộc Liên Minh, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 鲛白淚花·Bản Mệnh (鲛白淚花·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Giao Bích Hải:** Dệt Sư, đồng liêu quan trọng nhất trong Giao Nhân Tộc Liên Minh.
+- **Giao Băng Ngọc Tâm:** Trưởng Lão, đối tác thường xuyên phối hợp.
+- **Giao Huyết Lệ:** Sát Thủ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Giao Bạch Lệ Hoa lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Giao Nhân Tộc Liên Minh. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Giao Nhân Tộc Liên Minh và dần khẳng định vị trí của mình. Với tu vi Kim Đan Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Mưu Sĩ.

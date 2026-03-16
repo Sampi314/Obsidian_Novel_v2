@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Đài Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lý Vọng Nguyệt là trung niên gầy gò, da tái nhợt do ít tiếp xúc với đất liền, mắt sáng đam mê, tóc xám muối tiêu bay trong gió biển. Luôn mang theo ống nhòm linh lực và cuốn sổ ghi chép bên mình. Tính cách cô độc, ám ảnh với nghiên cứu, sống cho khoa học hơn bất kỳ thứ gì.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lý Vọng Nguyệt sở hữu Thủy Cảm Thuật (水感術) — cảm nhận mọi biến động trong nước ở phạm vi rộng, từ hải lưu đến di chuyển của hải thú lớn. Ngoài ra y vận hành Phong Ba Dự Báo Trận (風波預報陣) — trận pháp dự đoán bão trước ba ngày. Không có kỹ năng chiến đấu đáng kể.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Hải Triều:** Quan trắc viên giỏi nhất, tay phải đáng tin.
+- **Phạm Tiểu Sóng:** Học đồ trẻ mà y đang đào tạo, coi như con nuôi.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Vọng Nguyệt (tên thật Tô Vọng Nguyệt) là cựu đệ tử Thiên Môn Kính Đài, bị cho là lãng phí tài năng vào nghiên cứu vô dụng. Rời tông môn, ông một mình xây tháp quan trắc trên cột đá giữa biển. Bản đồ hải lưu của ông được nhiều thương thuyền mua lại — nguồn thu nhập chính. Bí mật: ông phát hiện chu kỳ di chuyển của Hải Thần Cung trùng khớp với một quy luật cổ đại.

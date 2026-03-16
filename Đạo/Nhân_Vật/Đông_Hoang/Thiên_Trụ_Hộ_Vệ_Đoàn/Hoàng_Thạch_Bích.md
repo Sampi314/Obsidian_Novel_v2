@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Tướng Quân.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Hoàng Thạch Bích có thân hình vạm vỡ, da nâu sẫm như đá, mắt vàng rực, tóc đen cắt ngắn kiểu quân nhân. Mặc giáp nặng Thiên Trụ Trấn Giáp, mang theo đại kiếm đá thạch anh. Tính cách trầm tĩnh, kiên định như núi, không bao giờ lùi bước trước bất kỳ kẻ thù nào.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Hoàng Thạch Bích sở hữu Thạch Bích Bất Phá Thuật (石壁不破術) — biến cơ thể cứng như thành đá, miễn dịch hầu hết đòn tấn công vật lý. Chiến đấu bằng Trấn Sơn Kiếm Pháp (鎮山劍法) — kiếm pháp nặng nề, mỗi đòn chém mang theo sức nặng của núi đá. Là Tướng Quân phòng thủ giỏi nhất quân đoàn.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Vô Nhai:** Đại Tướng Quân mà y trung thành tuyệt đối.
+- **Phạm Thiết Thành:** Đồng liêu Tướng Quân, hai người phối hợp phòng thủ và tấn công.
+- **Nguyễn Trấn_Quan:** Uy Trưởng Cửa Ải phụ trách khu vực y quản lý.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Thạch Bích sinh ra tại cửa ải thứ ba, lớn lên nghe tiếng gió rít qua khe đá Thiên Trụ. Gia nhập quân đội từ mười ba tuổi, y chiến đấu suốt bốn mươi năm không nghỉ. Vết thương chồng chất nhưng chưa bao giờ rời vị trí. Được phong Tướng Quân sau khi một mình giữ cửa ải thứ bảy suốt ba ngày trước khi viện quân đến.

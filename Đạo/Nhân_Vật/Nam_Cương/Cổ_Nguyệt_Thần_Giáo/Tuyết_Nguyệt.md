@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Đại Tư Tế.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Tuyết Nguyệt sở hữu mái tóc bạc trắng như tuyết buông dài quá eo, đôi mắt bạc lấp lánh ánh nguyệt quang, gương mặt thanh tú nhưng lạnh lùng như tượng đá. Bà thường khoác áo lễ trắng tinh thêu hoa văn đồ đằng bạc, đầu đội vương miện nguyệt thạch phát sáng nhẹ trong đêm. Tính cách uy nghiêm, ít nói nhưng mỗi lời đều mang trọng lượng tuyệt đối. Bà coi tín đồ như con cái nhưng không bao giờ tỏ ra yếu đuối trước mặt bất kỳ ai.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tuyết Nguyệt tinh thông Cổ Nguyệt Tâm Kinh (古月心經) đến cảnh giới đại thành, có thể triệu hồi nguyệt quang ngưng tụ thành vũ khí thực thể. Tuyệt chiêu Nguyệt Hoa Thiên Giáng (月華天降) cho phép bà rải ánh trăng lên diện rộng, khiến kẻ thù rơi vào trạng thái mê hoặc rồi dần mất thần thức. Điểm mạnh là khả năng chiến đấu tầm xa và khống chế tinh thần diện rộng, nhưng trong cận chiến bà tương đối bất lợi do thể chất không vượt trội.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Vu Huyền Nương:** Đệ Nhị Phó Tư Tế, cánh tay phải đáng tin cậy nhất, được Tuyết Nguyệt coi như em gái.
+- **Bạch Vọng Nguyệt:** Đệ Tam Phó Tư Tế, môn đồ tài năng nhưng tham vọng, Tuyết Nguyệt vừa trọng dụng vừa đề phòng.
+- **Đằng Thiết Sơn:** Thống Lĩnh Đồ Đằng, chiến tướng trung thành bảo vệ giáo phái, được bà tuyệt đối tín nhiệm.
+- **Lam Nguyệt Nhi:** Thánh Nữ kế nhiệm, người bà dồn hết tâm huyết đào tạo.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Tuyết Nguyệt sinh ra trong dòng dõi vu nữ lâu đời nhất của Cổ Nguyệt Thần Giáo, từ nhỏ đã được chọn làm Thánh Nữ nhờ thể chất đặc thù hấp thụ nguyệt quang. Sau khi vị Đại Tư Tế tiền nhiệm qua đời trong một cuộc xung đột với Vạn Độc Môn, bà kế vị ở tuổi hai mươi lăm và nhanh chóng ổn định lòng dân bằng tài lãnh đạo thiên bẩm. Dưới thời bà, giáo phái chuyển sang chiến lược biệt lập, tránh xa các cuộc tranh chấp bên ngoài để tập trung tu luyện và bảo tồn bí thuật cổ đại. Bí mật lớn nhất của Tuyết Nguyệt là bà đang dần mất đi khả năng giao tiếp với Cổ Nguyệt Thần, điều mà bà giấu kín để không gây hoang mang trong giáo phái.

@@ -26,17 +26,15 @@ arcs:
 - **Chức Vụ:** Tộc Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Bào Hồng Tán là cá thể nấm lớn nhất và lâu đời nhất hiện còn tồn tại của tộc. Hắn có phần tán nấm rộng lớn màu đỏ rực, tỏa ra ánh sáng nhàn nhạt và một mùi hương thanh khiết trái ngược hoàn toàn với sự xú uế của Rừng Huyết Độc. Tính cách của Bào Hồng Tán vô cùng điềm tĩnh, thông thái và mang đậm tinh thần hy sinh. Hắn tự coi mình là "trái tim" của mạng lưới, luôn ưu tiên sự an nguy của toàn bộ quần thể nấm và hệ sinh thái rừng già hơn là mạng sống của bản thân.
+Nấm đỏ dẫn đầu, giải độc Rừng Huyết Độc
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-Không có khả năng chiến đấu trực diện, năng lực của Bào Hồng Tán thiên về thao túng trận pháp tự nhiên và chi viện từ xa.
-- **Bào Tử Mê Vụ Trận (孢子迷雾阵):** Thao túng toàn bộ thảm nấm xung quanh để giải phóng một đám mây bào tử khổng lồ, tạo ra một trận pháp huyễn thuật tự nhiên có khả năng vô hiệu hóa thần thức và gây tê liệt cho bất kỳ kẻ xâm nhập nào.
-- **Mạng Lưới Sinh Mệnh (生命网络):** Kết nối tâm trí với toàn bộ cá thể nấm trong tộc, cho phép hắn luân chuyển sinh cơ, tái tạo những phần thảm nấm bị phá hủy và chia sẻ sát thương.
+Tinh thông công pháp trấn phái của Bào Tử Mật Lâm Tộc, đạt cảnh giới đại thành. Tuyệt chiêu 孢紅傘·Chấn Phái Quyết (孢紅傘·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bào Huyết Tịnh (Chuyên Gia Huyết Độc):** Rất tôn trọng khả năng chuyên môn của Huyết Tịnh, nhưng thường phải kìm hãm sự ám ảnh và các thí nghiệm nguy hiểm của cấp dưới này.
-- **Bào Hắc Lâm (Trinh Sát):** Xem Hắc Lâm như một đôi mắt nhạy bén, rất tin tưởng vào các báo cáo do trinh sát trưởng mang về.
-- **Diệp Thanh Y (Dược Vương Cốc):** Có một sự đồng cảm và giao tiếp tâm linh nhất định. Bào Hồng Tán từng âm thầm chi viện cho Dược Viên của nàng bằng các loại nấm đặc thù nhằm duy trì sự thanh sạch của địa mạch.
+- **Bào Huyết Tịnh:** Chuyên Gia Huyết Độc, đồng liêu quan trọng nhất trong Bào Tử Mật Lâm Tộc.
+- **Bào Hắc Lâm:** Trinh Sát, đối tác thường xuyên phối hợp.
+- **Bào Lục Quang Thiên:** Phát Quang Sư, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-Bào Hồng Tán là một trong những cá thể đầu tiên được sinh ra từ Tổ Nấm Nguyên Thủy từ Kỷ Nguyên Khởi Nguyên. Trải qua hàng vạn năm, hắn đã chứng kiến sự thăng trầm của Nam Cương, từ một khu rừng thanh khiết cho đến khi bị Huyết Thần Độc tàn phá. Trở thành Tộc trưởng, Bào Hồng Tán phải gánh vác trọng trách vô cùng lớn lao: vừa phải duy trì quá trình thanh lọc Huyết Độc để giữ cho hệ sinh thái không sụp đổ, vừa phải lẩn tránh sự truy quét tàn bạo của Vạn Độc Môn. Hắn đang dốc toàn lực bảo vệ Tổ Nấm Nguyên Thủy, đồng thời hy vọng tìm kiếm một liên minh đủ mạnh mẽ để xóa sổ nguồn cội tà ác đang đầu độc vùng đất này.
+Bào Hồng Tán lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Bào Tử Mật Lâm Tộc. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Bào Tử Mật Lâm Tộc và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Tộc Trưởng.

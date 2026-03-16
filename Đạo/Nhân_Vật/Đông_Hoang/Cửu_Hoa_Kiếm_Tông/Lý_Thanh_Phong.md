@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Ngoại Môn Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Dáng người cân đối với phong thái điềm tĩnh, gương mặt toát ra vẻ trầm tư. Tính cách kiên định, cẩn thận trong mọi việc, luôn đặt lợi ích tập thể lên hàng đầu.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đang tu luyện công pháp cơ bản của Cửu Hoa Kiếm Tông, tiềm năng phát triển lớn. Chiêu thức 李青風·Sơ Thức (李青風·初式) tuy đơn giản nhưng nền tảng vững chắc. Tu vi còn thấp nên chủ yếu hỗ trợ và học hỏi từ tiền bối.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Thiên Phong:** Hộ Pháp, đồng liêu quan trọng nhất trong Cửu Hoa Kiếm Tông.
+- **Lê Hàn Sương:** Trưởng Lão, đối tác thường xuyên phối hợp.
+- **Lý Lục Trần:** Tông Chủ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Thanh Phong vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Cửu Hoa Kiếm Tông. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Cửu Hoa Kiếm Tông và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Ngoại Môn Đệ Tử.

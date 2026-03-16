@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão Hồng Phấn Các.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Nhan sắc thanh tú với nét mặt dịu dàng, cử chỉ nhẹ nhàng tinh tế. Tính cách ôn hòa, biết lắng nghe, giỏi hòa giải mâu thuẫn. Luôn quan tâm đến người xung quanh.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện công pháp cốt lõi của Hợp Hoan Tông đạt trình độ cao thâm. Chiêu thức 狐月兒·Hộ Pháp Ấn (狐月兒·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hồ Huyễn Nương:** Thái Thượng Trưởng Lão, đồng liêu quan trọng nhất trong Hợp Hoan Tông.
+- **Hồ Mị Cơ:** Tông Chủ, đối tác thường xuyên phối hợp.
+- **Hồ Tiểu Mị:** Nội Môn Đệ Tử, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hồ Nguyệt Nhi sinh ra trong một gia đình Yêu Tộc bình thường, sớm thể hiện tư chất phù hợp với Hợp Hoan Tông. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Hợp Hoan Tông và dần khẳng định vị trí của mình. Với tu vi Nguyên Anh Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trưởng Lão Hồng Phấn Các.

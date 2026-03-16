@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Quan Trắc Viên.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trần Hải Triều là thanh niên khỏe mạnh, da rám nắng biển, mắt sáng, tóc đen buộc gọn. Thân hình vạm vỡ do thường xuyên bơi lội và leo vách đá. Tính cách vui vẻ, chăm chỉ, bù đắp cho sự cô độc của tháp quan trắc bằng sự lạc quan.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Trần Hải Triều sở hữu Triều Tịch Quan Sát Thuật (潮汐觀察術) — ghi nhận và phân tích biến động thủy triều với độ chính xác cao. Có khả năng bơi lội xuất sắc, chịu được áp lực nước sâu hơn tu sĩ bình thường. Chiến đấu bằng Thủy Lưu Quyền (水流拳) — quyền pháp mượn sức nước tăng uy lực.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Vọng Nguyệt:** Đài Trưởng mà y trung thành phục vụ.
+- **Phạm Tiểu Sóng:** Đồng nghiệp trẻ mà y coi như em.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Hải Triều là con trai ngư dân, đam mê biển cả từ nhỏ. Tình cờ gặp Lý Vọng Nguyệt khi thuyền bị bão đẩy đến cột đá, y bị cuốn hút bởi nghiên cứu hải dương. Tự nguyện ở lại làm quan trắc viên, y trở thành người giỏi nhất đội nhờ kinh nghiệm biển thực tế. Gần đây phát hiện hải thú lớn bắt đầu di chuyển bất thường — như đang chạy trốn thứ gì đó.

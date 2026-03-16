@@ -29,10 +29,12 @@ arcs:
 Nấm độc mạnh nhất Rừng Huyết Độc, giết ngay
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện công pháp cốt lõi của Bào Tử Mật Lâm Tộc đạt trình độ cao thâm. Chiêu thức 孢毒王·Hộ Pháp Ấn (孢毒王·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Bào Huyết Tịnh:** Chuyên Gia Huyết Độc, đồng liêu quan trọng nhất trong Bào Tử Mật Lâm Tộc.
+- **Bào Hắc Lâm:** Trinh Sát, đối tác thường xuyên phối hợp.
+- **Bào Hồng Tán:** Tộc Trưởng, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Bào Độc Vương xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Bào Tử Mật Lâm Tộc. Trải qua thử thách sinh tử, nàng gia nhập Bào Tử Mật Lâm Tộc và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hộ Pháp.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Nguyễn Thanh Trúc là trung niên tu sĩ thân hình cao gầy như cây trúc, da xanh nhạt, tóc đen thẳng. Mắt xanh lam trầm tĩnh, biểu cảm ít thay đổi. Luôn cầm thương trúc dài hai trượng. Tính cách nghiêm khắc, công minh, là chỉ huy quân sự của Mộc Linh Vệ.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Nguyễn Thanh Trúc sở hữu Thanh Trúc Thương Pháp (青竹槍法) — thương pháp nhanh như gió, mỗi đòn đâm đều mang theo mộc linh khí có thể xuyên thủng giáp trùng và phá vỡ tà khí. Ngoài ra y chỉ huy Mộc Linh Vệ Trận (木靈衛陣) — trận pháp quân đội liên kết linh lực của hàng trăm chiến binh, tạo thành rừng trúc linh lực bao vây đối thủ.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Phạm Thanh Hoa:** Hộ Pháp, cùng chỉ huy Mộc Linh Vệ, Thanh Trúc phụ trách chiến thuật.
+- **Lý Mộc Thanh:** Cung Chủ mà y tuyệt đối trung thành.
+- **Nguyệt Thường Xuân:** Trưởng Lão Tinh Linh mà y tôn kính vì kinh nghiệm chiến trường.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Nguyễn Thanh Trúc xuất thân từ gia tộc quân nhân, gia nhập Thanh Đế Cung với tư cách chiến binh. Trải qua nhiều trận chiến bảo vệ rừng rậm, y thăng tiến lên Trưởng Lão nhờ tài năng chỉ huy xuất sắc. Thiết kế lại hệ thống phòng thủ của Mộc Linh Vệ, biến lực lượng từ đội quân phòng ngự thuần túy thành đội quân có thể tấn công chủ động. Hiện đang huấn luyện thế hệ chiến binh mới để đối phó với mối đe dọa ngày càng tăng từ Vạn Độc Môn.

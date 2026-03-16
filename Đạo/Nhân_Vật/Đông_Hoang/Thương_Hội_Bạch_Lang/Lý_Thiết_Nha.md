@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Quản Sự (Sói Đầu Đàn).
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lý Thiết Nha là trung niên mặt hẹp, mắt nhỏ sáng lanh lợi, răng nanh hơi nhô — biệt danh do đó mà ra. Mặc áo giáp da nhẹ, mang đao ngắn và bảng tính toán. Tính cách khôn ngoan, giỏi đàm phán, vừa biết chỉ huy chiến đấu vừa giỏi mua bán.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lý Thiết Nha sử dụng Thiết Nha Đoản Đao (鐵牙短刀) — đao thuật cận chiến nhanh gọn, chuyên nhắm vào gân mạch đối thủ. Ngoài ra y giỏi đọc địa hình và chọn tuyến đường an toàn nhất cho thương đoàn. Kỹ năng đàm phán có thể biến kẻ thù thành khách hàng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Bạch Lang:** Hội Trưởng mà y trung thành, là bộ não kinh doanh của Hội.
+- **Phạm Bạch Vệ:** Đồng nghiệp, y lo kinh doanh, Bạch Vệ lo chiến đấu.
+- **Nguyễn Tiểu Sói:** Tân binh mà y giao nhiệm vụ thử thách.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Thiết Nha vốn là con trai thương nhân bị sa tặc cướp sạch. Gia nhập Thương Hội Bạch Lang từ những ngày đầu, y dùng tài năng kinh doanh giúp Hội phát triển từ nhóm nhỏ thành tổ chức giao thương lớn. Thiết kế hệ thống tuyến đường và mạng lưới thông tin biên giới. Bí mật: y đang đàm phán hợp đồng lớn với Cửu Hoa Kiếm Tông có thể thay đổi vận mệnh Hội.

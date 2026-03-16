@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Hộ Pháp.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vẻ ngoài khắc khổ với dáng người gầy gò nhưng tinh thần mạnh mẽ. Đôi mắt sáng rực chứa đầy trí tuệ. Tính cách trầm lặng, kiên nhẫn, thích quan sát hơn hành động vội vàng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện công pháp cốt lõi của Cửu Hoa Kiếm Tông đạt trình độ cao thâm. Chiêu thức 黃天鋒·Hộ Pháp Ấn (黃天鋒·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lê Hàn Sương:** Trưởng Lão, đồng liêu quan trọng nhất trong Cửu Hoa Kiếm Tông.
+- **Lý Lục Trần:** Tông Chủ, đối tác thường xuyên phối hợp.
+- **Lý Thanh Phong:** Ngoại Môn Đệ Tử, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Thiên Phong lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Cửu Hoa Kiếm Tông. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Cửu Hoa Kiếm Tông và dần khẳng định vị trí của mình. Với tu vi Nguyên Anh Đỉnh Phong, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hộ Pháp.

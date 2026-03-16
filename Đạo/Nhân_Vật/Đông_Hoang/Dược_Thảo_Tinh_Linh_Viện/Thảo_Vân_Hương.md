@@ -29,10 +29,12 @@ arcs:
 Mũi ngửi phân biệt vạn loại thảo dược
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên gia trị liệu của Dược Thảo Tinh Linh Viện, tinh thông y thuật và dược lý. Chiêu thức 草雲香·Hồi Xuân Thuật (草雲香·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Thảo Hàn Lộ:** Đệ Tử, đồng liêu quan trọng nhất trong Dược Thảo Tinh Linh Viện.
+- **Thảo Linh:** Dược Sư, đối tác thường xuyên phối hợp.
+- **Thảo Mộng Điệp:** Đệ Tử, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Thảo Vân Hương lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Dược Thảo Tinh Linh Viện. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Dược Thảo Tinh Linh Viện và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dược Sư Trưởng.

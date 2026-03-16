@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Học Đồ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Dáng người nhỏ nhắn nhanh nhẹn, đôi mắt to tròn lanh lợi. Nụ cười thường trực trên môi khiến người khác dễ chịu. Tính cách vui vẻ, lạc quan, năng động nhưng đôi khi thiếu kiên nhẫn.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Độc Trùng Trị Liệu Đường, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 胞黃絲·Bản Mệnh (胞黃絲·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Khuẩn Tiểu Linh:** Dược Sư, đồng liêu quan trọng nhất trong Độc Trùng Trị Liệu Đường.
+- **Trùng Thanh Châm:** Đường Chủ, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Bào Hoàng Ty vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Độc Trùng Trị Liệu Đường. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Độc Trùng Trị Liệu Đường và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Học Đồ.

@@ -29,10 +29,12 @@ arcs:
 Phấn hoa vàng, chỉ huy thụ phấn toàn vùng
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tinh thông công pháp trấn phái của Bụi Phấn Hội, đạt cảnh giới đại thành. Tuyệt chiêu 粉皇王·Chấn Phái Quyết (粉皇王·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Bích Dực Nhi:** Trinh Sát, đồng liêu quan trọng nhất trong Bụi Phấn Hội.
+- **Phấn Hỏa Liên Thiên:** Bí Mật Sư, đối tác thường xuyên phối hợp.
+- **Phấn Hồng Hoa:** Thụ Phấn Sư, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phấn Hoàng Vương vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Bụi Phấn Hội. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Bụi Phấn Hội và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Trung Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hội Trưởng.

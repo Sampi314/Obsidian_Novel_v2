@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Tổng Quản.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trần Chưởng Quầy là trung niên béo tốt, mặt đỏ hồng hào, cười tươi thường trực, mang vẻ ngoài thương nhân hòa nhã. Luôn mặc áo choàng sạch sẽ, tay cầm sổ sách kế toán. Tính cách thông minh, tinh ý, giỏi đọc vị khách hàng, bên dưới vẻ hào phóng là tâm tính tính toán sắc sảo.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Trần Chưởng Quầy sở hữu Thiên Lý Nhĩ Thuật (千里耳術) — nghe được mọi cuộc trò chuyện trong khách sạn của mình, thu thập thông tin tình báo vô giá. Tuyệt kỹ Khách Sạn Kết Giới (客棧結界) tạo ra không gian an toàn tuyệt đối trong phạm vi khách sạn. Không giỏi chiến đấu trực tiếp nhưng mạng lưới thông tin là vũ khí đáng sợ nhất.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Túy Tiên:** Chưởng quầy chi nhánh giỏi nhất, cánh tay phải trong kinh doanh.
+- **Phạm Tiểu Nhị:** Tiểu nhị chăm chỉ mà Chưởng Quầy đang đào tạo thành thế hệ kế thừa.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trần Chưởng Quầy xuất thân từ gia tộc thương nhân, nhưng khi gia tộc phá sản, y lang thang khắp nơi trước khi mở khách sạn đầu tiên. Phát hiện rằng tu sĩ lữ hành cần nơi nghỉ ngơi an toàn và kín đáo, y xây dựng chuỗi khách sạn liên minh khắp Đông Hoang. Mạng lưới thông tin thu thập từ khách hàng là tài sản quý giá nhất, biến y thành một trong những người nắm giữ nhiều bí mật nhất vùng. Nguyên tắc: không bao giờ phản bội khách hàng, vì uy tín là mạng sống.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Tông Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vẻ ngoài khắc khổ với dáng người gầy gò nhưng tinh thần mạnh mẽ. Đôi mắt sáng rực chứa đầy trí tuệ. Tính cách trầm lặng, kiên nhẫn, thích quan sát hơn hành động vội vàng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tinh thông công pháp trấn phái của Cửu Hoa Kiếm Tông, đạt cảnh giới đại thành. Tuyệt chiêu 李六塵·Chấn Phái Quyết (李六塵·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Thiên Phong:** Hộ Pháp, đồng liêu quan trọng nhất trong Cửu Hoa Kiếm Tông.
+- **Lê Hàn Sương:** Trưởng Lão, đối tác thường xuyên phối hợp.
+- **Lý Thanh Phong:** Ngoại Môn Đệ Tử, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Lục Trần được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Cửu Hoa Kiếm Tông. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Cửu Hoa Kiếm Tông và dần khẳng định vị trí của mình. Với tu vi Luyện Hư Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Tông Chủ.

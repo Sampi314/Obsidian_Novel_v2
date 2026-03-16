@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Hộ Pháp.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Hoàng Bát Quái có thân hình cao lớn, vạm vỡ hơn so với tu sĩ Đạo gia thông thường. Mặc giáp chiến phủ phù văn Bát Quái, tay cầm côn đồng nặng trịch. Mắt sáng quắc, biểu cảm cương nghị. Tính cách trung thành tuyệt đối, dũng mãnh, sẵn sàng hy sinh bản thân bảo vệ Chưởng Môn và tông môn.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Hoàng Bát Quái sở hữu Bát Quái Thiên Côn Pháp (八卦天棍法) — côn pháp kết hợp bát quái phương vị, mỗi đòn đánh đều từ góc độ bất ngờ không thể đoán trước. Ngoài ra y luyện thành Bát Quái Hộ Thể Trận (八卦護體陣) — trận pháp cá nhân bao quanh cơ thể, tự động phòng ngự mọi đòn tấn công từ tám phương. Là Hộ Pháp mạnh nhất hiện tại của Thái Ất Môn.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Thanh Vân:** Chưởng Môn mà y thề bảo vệ bằng sinh mệnh.
+- **Nguyễn Tử Vi:** Đồng liêu Hộ Pháp, hai người phối hợp ăn ý khi canh gác tông môn.
+- **Trần Tiểu Quái:** Chân truyền đệ tử mà Hoàng Bát Quái ngầm yêu thích vì tính cách thẳng thắn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Bát Quái xuất thân từ gia đình nông dân, gia nhập Thái Ất Môn nhờ linh căn mạnh mẽ. Không giỏi bói toán hay trận pháp, y chuyên tâm vào chiến đấu và trở thành Hộ Pháp trẻ nhất lịch sử tông môn. Từng một mình chặn đứng đội ám sát từ Huyết Sát Minh, cứu mạng Chưởng Môn trong gang tấc. Từ đó y được phong Hộ Pháp và thề trọn đời bảo vệ Thái Ất Môn.

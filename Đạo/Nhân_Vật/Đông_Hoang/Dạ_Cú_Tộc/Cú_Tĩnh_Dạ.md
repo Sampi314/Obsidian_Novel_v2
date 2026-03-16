@@ -29,10 +29,10 @@ arcs:
 Bay không tiếng động, giết không để dấu — hoàn hảo rợn người
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Dạ Cú Tộc, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 梟靜夜·Bản Mệnh (梟靜夜·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Cú Dạ Minh:** Tộc Trưởng, đồng liêu quan trọng nhất trong Dạ Cú Tộc.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Cú Tĩnh Dạ xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Dạ Cú Tộc. Trải qua thử thách sinh tử, nàng gia nhập Dạ Cú Tộc và dần khẳng định vị trí của mình. Với tu vi Kim Đan Sơ Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trinh Sát.

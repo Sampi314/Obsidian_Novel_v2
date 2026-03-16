@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Thái Thượng Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Hạ Viêm là một lão nhân tóc bạc trắng, thân hình gầy gò nhưng đôi mắt đỏ như than hồng vẫn sáng rực uy nghiêm. Gương mặt khô khốc đầy nếp nhăn, lông mày dài bạc phơ rủ xuống, da đồng hun đỏ do hàng vạn năm tiếp xúc với địa hỏa. Thường mặc áo bào đỏ thẫm cũ kỹ, tay luôn cầm một cây gậy luyện đan bằng hỏa tinh thạch. Tính cách khắc khổ, ít quan tâm thế sự, chỉ chuyên tâm vào đan đạo. Ông hiếm khi xuất hiện trước đệ tử nhưng mỗi lời nói đều mang trọng lượng tuyệt đối.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Hạ Viêm là bậc thầy đan đạo đứng đầu Đan Hà Cốc, tinh thông Cửu Chuyển Đan Hỏa Quyết đến cảnh giới cực hạn. Tuyệt chiêu Viêm Đế Phần Thiên (炎帝焚天) cho phép ông kích hoạt toàn bộ mạch địa hỏa dưới thung lũng, biến cả khu vực thành biển lửa thiêu đốt vạn vật. Sức mạnh hỏa hệ vượt xa mọi tu sĩ cùng cảnh giới, nhưng thể chất già nua khiến ông không thể duy trì chiến đấu cường độ cao quá lâu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Đan Dương Tử:** Cốc Chủ, đệ tử đắc ý nhất, người kế thừa toàn bộ di sản đan đạo của ông.
+- **Dương Linh Hỏa:** Đệ Nhất Tháp Chủ, đệ tử lớn tuổi nhất còn sống, ông tin tưởng giao phó nhiều trọng trách.
+- **Lư Hỏa:** Tả Hộ Pháp, chiến tướng bảo vệ cốc, ông coi như con cháu trong nhà.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hạ Viêm là sư huynh của Đan Hà Lão Tổ thế hệ trước, tu luyện trong mạch địa hỏa sâu nhất của Hỏa Diệm Sơn suốt hàng ngàn năm. Ông từng từ chối vị trí Cốc Chủ để nhường cho thế hệ sau, tự nguyện lui về làm Thái Thượng Trưởng Lão chuyên tâm nghiên cứu đan đạo. Sự kiện đánh dấu cuộc đời ông là khi luyện thành công Phá Thiên Đan - viên đan dược có thể hỗ trợ đột phá Hóa Thần, khiến danh tiếng Đan Hà Cốc vang dội khắp lục địa. Bí mật của ông là đang bí mật nghiên cứu đan phương để cứu chữa một người thân đã hóa đá trong mạch dung nham.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Thành Viên.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phạm Tiểu Ngạo là một thanh niên cao gầy, mắt sáng rực đầy ngạo khí, luôn ngẩng cao đầu dù chỉ là ngoại môn đệ tử. Hắn hay mặc áo bào ngoại môn nhưng cố tình để hở ngực, tóc buộc lỏng lẻo bay phất phơ, bất chấp quy tắc tông phái. Tính cách nóng nảy, thẳng thắn, ghét sự giả dối và bất công đến mức khó kiểm soát cảm xúc. Tuy nhiên, bên dưới vẻ ngạo mạn là một trái tim trung thành tuyệt đối với đồng đạo.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phạm Tiểu Ngạo sở trường quyền cước cận chiến, đặc biệt là Cuồng Phong Liên Hoàn Quyền (狂風連環拳) — một bộ quyền pháp hắn tự sáng tạo, kết hợp tốc độ và sức mạnh bùng nổ. Dù chỉ Trúc Cơ Trung Kỳ nhưng sức đánh gần của hắn khiến đồng cảnh giới phải kiêng dè. Điểm yếu là thiếu phòng ngự từ xa và dễ bị khiêu khích mất bình tĩnh trong chiến đấu.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Ảnh Thủ:** Minh Chủ Liên Minh, người mà Tiểu Ngạo kính trọng nhất, tuy không biết thân phận thật nhưng tuyệt đối tin tưởng mệnh lệnh của Ảnh Thủ.
+- **Trần Ám Vệ:** Phó Minh Chủ, thường xuyên nhắc nhở Tiểu Ngạo kiềm chế tính nóng, hai người hay cãi nhau nhưng thực tâm coi nhau như huynh đệ.
+- **Nội môn đệ tử Cửu Hoa Kiếm Tông:** Là đối tượng hắn căm ghét nhất vì thái độ khinh miệt đối với ngoại môn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phạm Tiểu Ngạo là con trai một ngoại môn đệ tử đã chết trong nhiệm vụ nguy hiểm mà nội môn từ chối nhận. Mang theo mối thù mất cha, hắn gia nhập Cửu Hoa Kiếm Tông quyết tâm trở nên mạnh hơn. Tuy nhiên, tư chất kiếm đạo trung bình khiến hắn mãi chỉ là ngoại môn, chuyển sang tu luyện quyền pháp. Được Liên Minh chiêu mộ sau khi hắn đánh nhau với một nội môn đệ tử vì bất bình và suýt bị trục xuất. Hiện tại, hắn là một trong những thành viên hoạt động tích cực nhất, nhưng tính bốc đồng khiến hắn trở thành mắt xích yếu nhất trong chuỗi bảo mật của Liên Minh.

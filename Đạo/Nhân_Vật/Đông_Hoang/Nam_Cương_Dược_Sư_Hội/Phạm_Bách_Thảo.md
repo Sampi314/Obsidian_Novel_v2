@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Phó Hội Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thân hình vạm vỡ tráng kiện, gương mặt vuông vức đầy uy nghiêm. Giọng nói vang dội đầy sức thuyết phục. Tính cách hào sảng, trọng nghĩa khí, ghét sự bất công.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tinh thông công pháp trấn phái của Nam Cương Dược Sư Hội, đạt cảnh giới đại thành. Tuyệt chiêu 范百草·Chấn Phái Quyết (范百草·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Tiểu Dược:** Dược Đồ, đồng liêu quan trọng nhất trong Nam Cương Dược Sư Hội.
+- **Lê Dược Nương:** Hội Trưởng, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phạm Bách Thảo lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Nam Cương Dược Sư Hội. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Nam Cương Dược Sư Hội và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Phó Hội Trưởng.

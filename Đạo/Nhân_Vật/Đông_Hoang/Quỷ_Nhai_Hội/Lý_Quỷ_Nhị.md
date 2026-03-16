@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Quỷ Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lý Quỷ Nhị có thân hình gầy gò, mặc áo bào đen, gương mặt xanh xao với đôi mắt sáng quắc đầy mưu mô. Trên mặt luôn đeo nửa chiếc mặt nạ bạc, che vết sẹo lớn. Tính cách xảo quyệt, tàn nhẫn với kẻ thù nhưng trọng nghĩa với đồng đạo, cai quản Quỷ Nhai bằng sự sợ hãi và tôn trọng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lý Quỷ Nhị sở hữu Quỷ Ảnh Phân Thân (鬼影分身) — tạo ra nhiều phân thân ảo giác khiến kẻ địch không phân biệt được thật giả. Tuyệt kỹ Quỷ Nhãn Nhiếp Hồn (鬼眼攝魂) — nhìn thẳng vào mắt đối thủ gây ảo giác kinh hoàng. Điểm yếu là nhục thân yếu, phụ thuộc vào ảo thuật.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Quỷ Diện:** Phó Quỷ Chủ, cánh tay phải đáng tin cậy, phụ trách mọi hoạt động quân sự.
+- **Phạm Hắc Ảnh:** Đường Chủ Tình Báo, mạng lưới thông tin quan trọng nhất của Hội.
+- **Hoàng Quỷ Thủ:** Sát Thủ Trưởng, công cụ sắc bén nhất của Quỷ Chủ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Quỷ Nhị xuất thân từ khu ổ chuột, tự mình xây dựng Quỷ Nhai Hội từ một băng nhóm nhỏ thành thế lực ngầm đáng sợ. Y sống sót nhờ mưu mô và ảo thuật, từng bị phản bội nhiều lần nên không tin ai ngoài đồng đạo đã được thử thách. Vết sẹo trên mặt là do kẻ thù tặng khi y còn yếu. Mục tiêu: biến Quỷ Nhai thành thế lực ngầm lớn nhất Đông Hoang.

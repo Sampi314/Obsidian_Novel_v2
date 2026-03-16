@@ -26,20 +26,14 @@ arcs:
 - **Chức Vụ:** Thợ Chế Tác.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-- **Ngoại hình:** Trùng Ngọc Châu có một lớp vỏ óng ánh đa sắc màu, phản chiếu ánh sáng dịu nhẹ dưới đáy biển. Hình dáng của cô thon gọn hơn so với Trùng Bạch, tỏa ra một mùi hương thanh khiết của linh khí biển cả cô đặc. Tuy vậy, cơ thể mềm bên trong lại luôn tái nhợt vì phải liên tục sản xuất linh châu chất lượng cao.
-- **Tính cách:** Trầm lặng, tỉ mỉ và đôi lúc cam chịu. Cô sở hữu một tâm hồn nghệ sĩ, luôn khao khát cái đẹp và trân trọng từng hạt ngọc mình tạo ra, nhưng lại luôn mang theo nỗi buồn khi biết rằng tác phẩm của mình sẽ bị tước đoạt bởi những kẻ bóc lột Giao Nhân.
+Trùng Ngọc Châu dài khoảng bảy mươi phân, thân hình trắng hồng với ánh ngũ sắc lấp lánh trên da — dấu hiệu của khả năng chế tác ngọc thượng phẩm. Cử động chậm rãi, tỉ mỉ, mỗi động tác đều chính xác như một nghệ nhân lão luyện. Tính cách điềm đạm, ít nói, dành phần lớn thời gian nghiên cứu cách tạo ra ngọc trai đẹp hơn, coi đó như nghệ thuật chứ không chỉ là lao động.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-- **Phong cách chiến đấu:** Gần như không có khả năng chiến đấu trực diện. Cô tập trung hoàn toàn vào kỹ năng chế tác ngọc trai.
-- **Kỹ thuật đặc trưng:** *Ngọc Cốt Lưu Ly (玉骨琉璃)* — Kỹ năng ngưng tụ linh khí biển cả thành những viên ngọc trai không tì vết, phát ra ánh sáng lưu ly và chứa đựng sinh khí dồi dào, thường được Giao Nhân hoàng tộc săn đón làm trang sức bảo mệnh.
-- **Điểm mạnh/Yếu:** Khả năng kiểm soát linh khí vi mô cực kỳ tinh tế, nhưng sức lực yếu ớt, dễ bị tổn thương vật lý và hoàn toàn vô hại trong một cuộc chiến.
+Trùng Ngọc Châu sở hữu Ngũ Sắc Ngọc Kết Tinh Thuật (五色玉結晶術) — kiểm soát quá trình kết tinh ngọc trai với độ chính xác cao, có thể tạo ra ngọc trai có màu sắc và hình dạng theo ý muốn. Trong trường hợp khẩn cấp, y có thể phóng ra một loạt ngọc trai nhỏ sắc bén như đạn, gây sát thương nhẹ cho kẻ địch. Tuy nhiên, khả năng chiến đấu rất hạn chế do bản chất là thợ chế tác, không phải chiến sĩ.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trùng Bạch:** Phường Chủ, cũng là người đã bảo bọc và truyền đạt linh trí cho cô. Cô tôn trọng Trùng Bạch như một người cha, luôn lo lắng khi ông phải gánh vác quá nhiều cho bầy đàn.
-- **Trùng Tiểu Trai:** Đàn em nhỏ tuổi. Cô thường xoa dịu Tiểu Trai bằng những câu chuyện cổ về biển cả tự do, cố gắng che giấu sự thật tàn khốc về số phận nô lệ của họ.
-- **Giám Sát Giao Nhân Bần Dân:** Một số Giao Nhân bần dân thỉnh thoảng đem đến cho cô những nguyên liệu chế tác hiếm hoi đổi lấy vài vụn ngọc, cô cảm thấy có một sự kết nối mờ nhạt của những kẻ đồng cảnh ngộ.
+- **Trùng Bạch:** Phường Chủ, người mà Ngọc Châu cực kỳ kính trọng và sẵn sàng hỗ trợ mọi kế hoạch, thường đóng vai cố vấn kỹ thuật cho Bạch.
+- **Trùng Tiểu Trai:** Học trò mà Ngọc Châu đang truyền dạy kỹ thuật chế tác ngọc, hy vọng thế hệ sau sẽ tạo ra ngọc trai vượt trội hơn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-- Là một trong số ít những thế hệ sau này thức tỉnh được linh trí như Trùng Bạch, Trùng Ngọc Châu nhanh chóng chứng tỏ thiên phú tuyệt vời trong việc hấp thu linh khí biển cả để tạo ra những viên ngọc trai rực rỡ nhất trong Ngọc Trai Sâu Phường.
-- Bi kịch của cô nằm ở chỗ, càng chế tác ngọc đẹp bao nhiêu, cô lại càng bị Giao Nhân hoàng tộc bóc lột tàn nhẫn bấy nhiêu, đến mức sinh lực ngày càng suy kiệt.
-- Khao khát sâu thẳm nhất của cô không phải là sự trường sinh, mà là một ngày được tự tay chế tác một viên ngọc dành tặng cho biển cả bao la, thay vì cống nạp cho những kẻ cai trị độc đoán, đó là cách duy nhất để cô tìm thấy tự do trong tâm hồn.
+Trùng Ngọc Châu là con sâu ngọc trai có tài năng chế tác bẩm sinh hiếm gặp, từ nhỏ đã tạo ra ngọc trai đẹp hơn hẳn đồng loại. Nhờ khả năng này, y được Giao Nhân ưu ái đôi chút — được cho ăn tốt hơn để duy trì chất lượng sản phẩm, nhưng cũng vì thế mà sản lượng bị ép cao hơn. Y âm thầm nghiên cứu cách tạo ngọc trai có đặc tính phòng thủ, cung cấp cho Trùng Bạch làm vũ khí bí mật. Ước mơ của y là tạo ra một viên ngọc trai hoàn hảo tuyệt đối — thứ mà y tin rằng sẽ mang lại tự do cho cả Phường.

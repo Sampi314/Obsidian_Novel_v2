@@ -29,10 +29,12 @@ arcs:
 Nọc độc + dược liệu, bào chế thuốc kỳ lạ
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên gia trị liệu của Hỗn Huyết Yêu Đoàn, tinh thông y thuật và dược lý. Chiêu thức 蛇狐青·Hồi Xuân Thuật (蛇狐青·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Báo Hồ Nguyệt Ảnh:** Trinh Sát, đồng liêu quan trọng nhất trong Hỗn Huyết Yêu Đoàn.
+- **Hùng Lang Thiết Tâm:** Chiến Sĩ, đối tác thường xuyên phối hợp.
+- **Hồ Lang Tạp Huyết:** Đoàn Trưởng, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Xà Hồ Thanh vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Hỗn Huyết Yêu Đoàn. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Hỗn Huyết Yêu Đoàn và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dược Sư.

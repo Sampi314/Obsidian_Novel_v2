@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Thủ Vệ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thiết Tiểu Tượng cao hai mét, thân nhỏ gọn so với đồng tộc, da xám sáng bóng như kim loại mài. Mắt sáng, hay quan sát và bắt chước tư thế đứng của tiền bối. Tính cách chăm chỉ, ít nói, muốn trở thành thủ vệ hoàn hảo.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thiết Tiểu Tượng đang luyện Tượng Hình Bất Động (像形不動) — nghệ thuật biến thành tượng đá hoàn hảo khiến không ai phân biệt được. Ngoài ra, y có khả năng Tiểu Thạch Đạn (小石彈) bắn đá nhỏ cảnh cáo. Sức chiến đấu thấp nhưng kỹ thuật ngụy trang ấn tượng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Thạch Miên:** Thủ Vệ Trưởng mà Tiểu Tượng ngưỡng mộ và muốn được như vậy.
+- **Nham Tĩnh Lập:** Sư phụ dạy nghệ thuật đứng yên, Tiểu Tượng học tập kiên nhẫn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Thiết Tiểu Tượng là Cự Tộc trẻ tình nguyện gia nhập Thủ Vệ vì ngưỡng mộ sự kiên định của Thạch Miên. Dù nhỏ tuổi, kỹ thuật ngụy trang thành tượng đá của y đã đánh lừa nhiều tu sĩ qua đường. Lần đầu tiên y phát hiện kẻ xâm nhập, y hoảng hốt đến mức thành tượng thật ba ngày liền trước khi dám báo cáo.

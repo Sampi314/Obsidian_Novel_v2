@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Chiến Sĩ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Con trai Phượng Xích, lửa đỏ cháy bất diệt, ai chạm vào thành tro
+Phượng Xích Diệm khi hóa nhân là một thanh niên trẻ tuổi, dáng người rắn rỏi, mái tóc đỏ rực ngắn dựng đứng như ngọn lửa. Đôi mắt đỏ cam cháy bỏng đầy nhiệt huyết, da ngăm nâu, gương mặt góc cạnh giống cha. Khi ở nguyên hình là phượng hoàng đỏ trẻ, lông cánh cháy bừng bừng không ngừng. Tính cách nóng nảy, bốc đồng, thích hành động trước suy nghĩ sau, nhưng thẳng thắn và trọng nghĩa khí, luôn muốn chứng tỏ mình xứng đáng kế thừa cha.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phượng Xích Diệm tu luyện Xích Viêm Phá Thiên Quyền (赤焰破天拳), kết hợp lửa phượng hoàng vào cận chiến tay không cực kỳ dũng mãnh. Tuyệt chiêu Phượng Viêm Liên Kích (鳳焰連擊) phóng ra chuỗi đấm lửa liên hoàn không ngừng nghỉ, mỗi đòn mạnh hơn đòn trước. Sức công kích vượt cấp nhưng phòng thủ yếu, dễ bị phản đòn khi chiến đấu kéo dài và thường mất bình tĩnh khi bị khiêu khích.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Phượng Xích:** Tộc Trưởng, cha ruột mà hắn vừa kính yêu vừa muốn vượt qua bằng mọi giá.
+- **Công Thái Hồng:** Chiến Tướng, hộ vệ mà hắn vừa biết ơn vừa bực bội vì luôn bị coi là trẻ con.
+- **Phượng Viêm Phong:** Chiến Sĩ, em họ thân thiết cùng luyện tập hàng ngày, đối thủ cạnh tranh lành mạnh.
+- **Phượng Viêm Cánh:** Chiến Sĩ Trẻ, em trai nhỏ mà hắn luôn bảo vệ dù miệng nói ghét phiền phức.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phượng Xích Diệm là con trai trưởng của tộc trưởng Phượng Xích, từ nhỏ được nuôi dưỡng làm người kế vị với kỳ vọng cực lớn từ cả gia tộc. Áp lực khiến hắn phát triển tính cách nổi loạn, thường xuyên tự ý ra ngoài lãnh thổ thách đấu với các tu sĩ khác để chứng minh bản thân. Sự kiện then chốt là khi hắn bị Vạn Độc Môn phục kích suýt chết, nhận ra sức mạnh cá nhân không đủ nếu thiếu trí tuệ. Hiện tại hắn đang cố gắng kiềm chế tính nóng nảy và học cách lãnh đạo từ cha, dù vẫn thỉnh thoảng bốc đồng.

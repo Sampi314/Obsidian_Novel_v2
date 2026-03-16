@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Tằm Mẫu.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trùng Bạch Ti là con tằm linh lớn, dài khoảng nửa mét, thân hình trắng bạc mịn màng phủ lớp tơ mỏng lấp lánh. Đôi mắt nhỏ nhưng sáng đầy trí tuệ. Di chuyển chậm rãi, ung dung, toát ra vẻ đài các. Tính cách điềm đạm, kiên nhẫn, coi trọng nghệ thuật dệt như sinh mệnh.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Trùng Bạch Ti sở hữu Bạch Ti Thiên La (白絲天羅) — phun ra tơ bạc cứng như thép tạo thành lưới phòng thủ hoặc bẫy bắt kẻ địch. Tuyệt kỹ Tằm Ti Phong Ấn (蠶絲封印) dùng tơ quấn chặt mục tiêu phong tỏa kinh mạch. Điểm yếu là hỏa hệ công pháp đốt cháy tơ dễ dàng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trùng Kim Ti:** Thợ dệt trưởng, người mà Bạch Ti giao phó công việc dệt hàng ngày.
+- **Trùng Tiểu Tằm:** Thế hệ trẻ mà Bạch Ti đang dạy kỹ thuật nhả tơ cao cấp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trùng Bạch Ti sinh ra với khả năng nhả tơ bạc — loại tơ quý hiếm mà Trùng Tộc thông thường không sản xuất được. Y thành lập Tằm Ti Dệt Phường để tổ chức sản xuất vải tơ linh, cung cấp cho các tông phái làm áo bào và đai lưng. Sản phẩm của Phường được đánh giá cao, mang lại thu nhập ổn định. Mơ ước: dệt một tấm vải tơ hoàn hảo có thể tự phục hồi khi bị rách.

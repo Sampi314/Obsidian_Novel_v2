@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Nghĩa Quân.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phạm Tiểu Dũng là thiếu niên mười sáu tuổi, thân hình nhỏ nhưng nhanh nhẹn, mắt sáng tràn đầy nhiệt huyết. Da rám nắng, tay chân đầy vết chai từ việc tập luyện. Mặc áo vải bạc màu, mang theo cây gậy gỗ. Tính cách sôi nổi, dũng cảm, đôi khi liều lĩnh vì muốn chứng minh bản thân.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phạm Tiểu Dũng đang tu luyện công pháp cơ bản Luyện Khí mà Nghĩa Đoàn dạy, kết hợp với Tiểu Côn Pháp (小棍法) — côn pháp đơn giản nhưng nhanh, thích hợp cho thân hình nhỏ. Điểm mạnh là tốc độ phản xạ tốt và dũng cảm; điểm yếu là tu vi còn quá thấp và hay đánh giá thấp kẻ địch.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Thiết Trụ:** Đoàn Trưởng mà y ngưỡng mộ như thần tượng, mơ ước trở thành người bảo vệ mạnh mẽ như ông.
+- **Trần Nghĩa Sĩ:** Phó Đoàn nghiêm khắc, hay giao nhiệm vụ trinh sát để rèn luyện y.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phạm Tiểu Dũng là trẻ mồ côi được Nghĩa Đoàn cứu sau khi làng bị yêu thú tấn công. Từ nhỏ y chứng kiến các thành viên Nghĩa Đoàn chiến đấu bảo vệ dân làng, y thề sẽ trở thành chiến binh mạnh mẽ. Dù linh căn yếu, y bù đắp bằng sự chăm chỉ và lòng dũng cảm. Gần đây y tình cờ phát hiện một hang động chứa bí kíp cũ trong rừng, nhưng chưa dám kể cho ai.

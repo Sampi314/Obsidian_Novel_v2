@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Nhất Sát.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Hàn Phong là một thanh niên cao gầy, gương mặt lạnh lùng vô cảm, đôi mắt xám trắng như không có đồng tử. Mái tóc trắng bạc ngắn, da nhợt nhạt, thường mặc áo đen sát người không có bất kỳ trang sức nào. Tính cách hoàn toàn không có cảm xúc, hành động như cỗ máy giết người được lập trình sẵn. Hắn không nói chuyện trừ khi cần thiết và không bao giờ tỏ ra đau đớn hay sợ hãi.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Hàn Phong là sát thủ hoàn hảo, kết hợp kỹ thuật ẩn thân tuyệt đối với hàn độc xuyên phá mọi phòng ngự. Tuyệt chiêu Hàn Phong Nhất Kích (寒锋一击) cho phép hắn tung ra một đòn chí mạng tích lũy toàn bộ nội lực, xuyên qua phòng ngự Kim Đan cùng lúc tiêm hàn độc làm đóng băng kinh mạch. Mạnh nhất về ám sát và tấn công bất ngờ, nhưng không thể chiến đấu kéo dài và bất lực trước đối thủ có phòng ngự diện rộng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Độc Cô Lão Quái:** Môn Chủ, người duy nhất có thể ra lệnh cho hắn.
+- **Đinh Huyết Mi:** Nhị Sát, đồng đội mà hắn tin cậy nhất trong nhiệm vụ.
+- **Bạch Vô Ảnh:** Tam Sát, đồng đội có kỹ năng ẩn thân bổ sung cho hắn.
+- **Hạ Thiên Châm:** Yết Chi Hộ Pháp, người mà hắn nhận lệnh trực tiếp trong chiến đấu.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hàn Phong là sản phẩm của chương trình đào tạo sát thủ bí mật của Vạn Độc Môn, bị bắt làm thí nghiệm từ nhỏ và bị tẩy não hoàn toàn. Hắn không còn ký ức về quá khứ, chỉ biết nhiệm vụ và hoàn thành. Sự kiện then chốt là khi hắn ám sát thành công một trưởng lão cấp Nguyên Anh của một tông môn phương Bắc, chứng minh hiệu quả kinh hoàng của chương trình đào tạo. Bí mật là thỉnh thoảng hắn mơ thấy một người phụ nữ gọi tên mình, gợn sóng cảm xúc đầu tiên kể từ khi bị tẩy não.

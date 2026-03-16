@@ -29,10 +29,12 @@ arcs:
 Đôi mắt phát sáng nhìn xuyên đêm đen
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Hắc Tinh Linh Lưu Đày, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 暗風夜·Bản Mệnh (暗風夜·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Ám Diệp:** Thủ Lĩnh, đồng liêu quan trọng nhất trong Hắc Tinh Linh Lưu Đày.
+- **Ám Dạ Hành:** Ám Sát Đội Trưởng, đối tác thường xuyên phối hợp.
+- **Ám Huyết:** Huyết Mạch Sư, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ám Phong Dạ lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Hắc Tinh Linh Lưu Đày. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Hắc Tinh Linh Lưu Đày và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trinh Sát.

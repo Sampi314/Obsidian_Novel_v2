@@ -29,10 +29,12 @@ arcs:
 Nửa cáo nửa sói, bị cả hai tộc khinh
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Hỗn Huyết Yêu Đoàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 狐狼雜血·Bản Mệnh (狐狼雜血·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Báo Hồ Nguyệt Ảnh:** Trinh Sát, đồng liêu quan trọng nhất trong Hỗn Huyết Yêu Đoàn.
+- **Hùng Lang Thiết Tâm:** Chiến Sĩ, đối tác thường xuyên phối hợp.
+- **Hổ Hùng Cự Lực:** Vệ Sĩ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hồ Lang Tạp Huyết sinh ra trong một gia đình Bán Yêu bình thường, sớm thể hiện tư chất phù hợp với Hỗn Huyết Yêu Đoàn. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Hỗn Huyết Yêu Đoàn và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Đoàn Trưởng.

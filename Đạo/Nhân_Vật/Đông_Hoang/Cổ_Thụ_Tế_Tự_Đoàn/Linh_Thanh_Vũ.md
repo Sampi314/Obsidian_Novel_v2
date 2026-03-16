@@ -29,10 +29,12 @@ arcs:
 Nhảy múa cầu mưa, nghi thức truyền đời
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Cổ Thụ Tế Tự Đoàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 靈青雨·Bản Mệnh (靈青雨·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Linh Hương:** Tế Tư, đồng liêu quan trọng nhất trong Cổ Thụ Tế Tự Đoàn.
+- **Linh Mộc Dao:** Tế Tư, đối tác thường xuyên phối hợp.
+- **Linh Thiên Mộc Hoa:** Đại Tế Tư, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Linh Thanh Vũ lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Cổ Thụ Tế Tự Đoàn. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Cổ Thụ Tế Tự Đoàn và dần khẳng định vị trí của mình. Với tu vi Kim Đan Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Tế Tư.

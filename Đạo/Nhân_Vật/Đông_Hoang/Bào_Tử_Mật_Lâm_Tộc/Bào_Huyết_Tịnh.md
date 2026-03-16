@@ -26,17 +26,15 @@ arcs:
 - **Chức Vụ:** Chuyên Gia Huyết Độc.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Bào Huyết Tịnh mang hình dáng của một cây nấm cao lêu nghêu, phần mũ nấm có màu xanh nhạt pha lẫn những đốm đỏ tươi như máu đang bị phân giải. Thân hình gầy guộc của hắn liên tục tỏa ra một lớp sương mờ nhạt, có mùi ngai ngái của đất rữa. Tính cách của Bào Huyết Tịnh cực kỳ tỉ mỉ, đôi khi đến mức ám ảnh với việc phân tích các mẫu độc chất. Hắn thường lẩm bẩm một mình về cấu trúc phân tử của linh lực và có cái nhìn khá lạnh lùng, thuần túy khoa học đối với sự sống và cái chết trong Rừng Huyết Độc.
+Hiểu rõ huyết độc hơn bất kỳ ai trên lục địa
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-Phong cách chiến đấu của Bào Huyết Tịnh không phải là hủy diệt mà là phân giải và đồng hóa. Hắn không trực tiếp giao tranh mà sử dụng các loại bào tử đặc chế để làm suy yếu và tước đoạt linh lực của đối phương.
-- **Huyết Tịnh Bào Tử (血净孢子):** Phun ra một đám mây bào tử có khả năng xâm nhập vào máu thịt kẻ địch, không ngừng phân giải linh lực và huyết khí để biến đổi thành năng lượng nuôi dưỡng bản thân.
-- **Tán Lĩnh Vực - Độc Tế (伞领域-毒祭):** Cắm rễ xuống đất, kích hoạt mạng lưới sợi nấm ngầm trong phạm vi hẹp để tạo ra một khu vực thanh lọc tuyệt đối, có thể hấp thụ mọi loại độc chất và chuyển hóa thành khiên phòng ngự sinh học.
+Thành viên của Bào Tử Mật Lâm Tộc, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 孢血淨·Bản Mệnh (孢血淨·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bào Hồng Tán (Tộc Trưởng):** Kính trọng nhưng cũng thường xuyên cãi vã vì Bào Huyết Tịnh đôi khi coi trọng việc nghiên cứu mẫu độc mới hơn là sự an toàn của mạng lưới nấm ngầm.
-- **Bào Hắc Lâm (Trinh Sát):** Đối tác ăn ý. Bào Hắc Lâm thường xuyên mang về những mẫu vật và tin tức về các biến dị mới của Huyết Thần Độc cho Bào Huyết Tịnh nghiên cứu.
-- **Độc Cô Lão Quái (Vạn Độc Môn):** Địch ý sâu sắc. Bào Huyết Tịnh khao khát có thể phân giải hoàn toàn "Vạn Độc Chân Kinh" của lão quái này.
+- **Bào Hắc Lâm:** Trinh Sát, đồng liêu quan trọng nhất trong Bào Tử Mật Lâm Tộc.
+- **Bào Hồng Tán:** Tộc Trưởng, đối tác thường xuyên phối hợp.
+- **Bào Lục Quang Thiên:** Phát Quang Sư, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-Bào Huyết Tịnh vốn là một cá thể nấm bình thường sinh ra ở vùng rìa Rừng Huyết Độc, nơi ô nhiễm nặng nề nhất. Thay vì bị tà khí ăn mòn, hắn đã tiến hóa một cách dị biệt, phát triển khả năng thích nghi và phân giải Huyết Thần Độc ở một tầm cao mới. Sự kiện này đã giúp hắn được Tổ Nấm Nguyên Thủy công nhận và ban cho linh trí, trở thành chuyên gia xử lý huyết độc hàng đầu của tộc. Hiện tại, mục tiêu lớn nhất của hắn là tìm ra cấu trúc gốc của Huyết Tinh Sa để hoàn thiện quá trình tịnh hóa toàn diện cho mạng lưới sợi nấm, bảo vệ sự sinh tồn của cả Bào Tử Mật Lâm Tộc.
+Bào Huyết Tịnh lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Bào Tử Mật Lâm Tộc. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Bào Tử Mật Lâm Tộc và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Chuyên Gia Huyết Độc.

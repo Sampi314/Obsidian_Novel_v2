@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Cổ Độc Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Nữ cổ sư duy nhất nắm bí thuật Thượng Cổ Trùng Cô, trăm trùng phục mệnh
+Cô Nguyệt Nương khi hóa nhân là một phụ nữ trung niên sắc đẹp mặn mà, da trắng xanh như ngọc, mái tóc đen dài buông xõa với những sợi bạc xen kẽ. Đôi mắt tím đậm phát sáng nhẹ trong bóng tối, môi đỏ thẫm luôn mang nụ cười bí ẩn. Quanh người luôn có côn trùng nhỏ li ti bay lượn như hầu cận. Thường mặc áo đen thêu hoa văn cổ trùng bằng chỉ bạc. Tính cách thâm trầm, nói năng nhẹ nhàng nhưng mỗi lời đều mang trọng lượng, đối xử với cổ trùng như con cái ruột thịt.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Cô Nguyệt Nương là bậc thầy Thượng Cổ Trùng Cô Thuật (上古蟲蠱術), có thể nuôi dưỡng và điều khiển hàng trăm loại cổ trùng cùng lúc. Tuyệt chiêu Nguyệt Hạ Vạn Trùng (月下萬蟲) triệu hồi đàn cổ trùng khổng lồ dưới ánh trăng, phủ kín cả vùng trời đất, mỗi con mang một loại độc tố khác nhau. Kiểm soát côn trùng đạt cảnh giới tuyệt đỉnh và sở hữu đa dạng phương thức tấn công, nhưng bản thân thể chất yếu và phụ thuộc hoàn toàn vào cổ trùng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Độc Cô Lão Quái:** Môn Chủ Vạn Độc Môn, đồng liêu cấp cao mà bà vừa kính trọng vừa cảnh giác.
+- **U Ảnh:** Nhện Sát Thủ, thuộc hạ Trùng Tộc đáng tin cậy, bà coi như cháu nuôi.
+- **Phong Thiên Châm:** Thích Khách, đồng liêu Trùng Tộc trong môn, hai người phối hợp trùng độc ám sát rất hiệu quả.
+- **Ân Tiểu Độc:** Đệ tử Vạn Độc Môn, hắn từng xin bà dạy cổ trùng thuật nhưng bà từ chối vì hắn thiếu kiên nhẫn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Cô Nguyệt Nương sinh ra là côn trùng nữ vương trong rừng sâu Nam Cương, từ nhỏ đã có khả năng giao tiếp và điều khiển đồng loại. Khi khai linh trí, bà tìm đến Vạn Độc Môn học hỏi và trở thành Cổ Độc Sư duy nhất nắm bí thuật Thượng Cổ Trùng Cô đã thất truyền. Sự kiện then chốt là khi bà khôi phục thành công một nghi thức cổ trùng cổ đại từ ký ức huyết mạch, triệu hồi được Trùng Hoàng ảo ảnh, chấn động cả Vạn Độc Môn. Mục tiêu hiện tại là hoàn thiện bí thuật và một ngày triệu hồi Trùng Hoàng thực sự.

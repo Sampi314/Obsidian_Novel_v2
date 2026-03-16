@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Dáng người cân đối với phong thái điềm tĩnh, gương mặt toát ra vẻ trầm tư. Tính cách kiên định, cẩn thận trong mọi việc, luôn đặt lợi ích tập thể lên hàng đầu.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện công pháp cốt lõi của Cửu Hoa Kiếm Tông đạt trình độ cao thâm. Chiêu thức 黎寒霜·Hộ Pháp Ấn (黎寒霜·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Thiên Phong:** Hộ Pháp, đồng liêu quan trọng nhất trong Cửu Hoa Kiếm Tông.
+- **Lý Lục Trần:** Tông Chủ, đối tác thường xuyên phối hợp.
+- **Lý Thanh Phong:** Ngoại Môn Đệ Tử, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lê Hàn Sương vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Cửu Hoa Kiếm Tông. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Cửu Hoa Kiếm Tông và dần khẳng định vị trí của mình. Với tu vi Nguyên Anh Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trưởng Lão.

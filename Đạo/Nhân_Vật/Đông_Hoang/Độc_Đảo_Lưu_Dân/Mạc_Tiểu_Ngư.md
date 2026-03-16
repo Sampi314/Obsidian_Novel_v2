@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Ngư Dân.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thân hình vạm vỡ tráng kiện, gương mặt vuông vức đầy uy nghiêm. Giọng nói vang dội đầy sức thuyết phục. Tính cách hào sảng, trọng nghĩa khí, ghét sự bất công.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Độc Đảo Lưu Dân, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 莫小魚·Bản Mệnh (莫小魚·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Mạc Dược Nương:** Thầy Thuốc, đồng liêu quan trọng nhất trong Độc Đảo Lưu Dân.
+- **Mạc Lão Đầu:** Trưởng Thôn, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Mạc Tiểu Ngư được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Độc Đảo Lưu Dân. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Độc Đảo Lưu Dân và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Ngư Dân.

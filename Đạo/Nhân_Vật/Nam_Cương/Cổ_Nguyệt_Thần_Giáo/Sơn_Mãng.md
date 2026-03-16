@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Chiến Sĩ Đồ Đằng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Sơn Mãng là một tráng hán cao lớn dị thường, cao gần hai mét, toàn thân cơ bắp rắn chắc như gỗ lim. Da nâu đen sạm nắng, đầu cạo trọc, gáy có hình xăm đồ đằng mãng xà xanh cuộn quanh cổ. Gương mặt thô ráp với chiếc mũi gãy và đôi mắt nhỏ nhưng tinh ranh. Thường mặc giáp da cá sấu nặng nề, vai vác một cây côn gỗ sắt dài hơn người. Tính cách trung hậu, chậm chạp trong suy nghĩ nhưng kiên định một khi đã quyết, rất mực trung thành và đáng tin cậy.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Sơn Mãng tu luyện Đồ Đằng Thuật với bản mệnh Mãng Xà, thể chất trời sinh kết hợp với sức mạnh đồ đằng khiến hắn có sức chịu đựng phi thường. Tuyệt chiêu Mãng Hoành Sơn (蟒横山) cho phép triệu hồi bóng ma mãng xà khổng lồ quấn quanh thân, tăng phòng ngự và sức ép diện rộng, đè bẹp kẻ thù bằng sức nặng thuần túy. Mạnh về phòng thủ và cận chiến trận địa, nhưng tốc độ chậm chạp và dễ bị đánh lừa bởi các chiêu thức ảo giác.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Đằng Thiết Sơn:** Thống Lĩnh Đồ Đằng, cấp trên mà hắn kính trọng như huynh trưởng, luôn sẵn sàng xông pha vì mệnh lệnh của ông.
+- **Đằng Hổ:** Phó Trưởng Lão Đồ Đằng, sư thúc hay kéo hắn đi uống rượu và kể chuyện chiến trường.
+- **Vu Huyền Nương:** Đệ Nhị Phó Tư Tế, thường hộ tống bà trong các nhiệm vụ, thầm ngưỡng mộ trí tuệ và sắc đẹp của bà.
+- **Đằng Thanh:** Đệ Tử Đồ Đằng, đàn em thân thiết cùng luyện tập hàng ngày.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Sơn Mãng là con trai của một bộ lạc chài lưới sống ven sông trong Thập Vạn Đại Sơn, từ nhỏ đã có thể chất vượt trội so với đồng trang lứa. Khi bộ lạc bị yêu xà tập kích, hắn là người duy nhất sống sót nhờ bản năng sinh tồn mãnh liệt, được đội tuần tra của giáo phái cứu giúp. Sự kiện đánh dấu cuộc đời hắn là khi tình cờ kết đồ đằng với một linh mãng xà cổ đại, đạt được sức mạnh phi thường. Hiện tại mục tiêu đơn giản của hắn là bảo vệ giáo phái - mái nhà thứ hai mà hắn thề sẽ không bao giờ để mất.

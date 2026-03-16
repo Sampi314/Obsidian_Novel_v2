@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Hiệu Úy.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vũ Phi Long là thanh niên nhanh nhẹn, thân hình gọn gàng, mắt sáng quắc, tóc đen bay trong gió. Mặc giáp nhẹ cho phép di chuyển nhanh, mang song đao. Tính cách sôi nổi, dũng cảm, luôn xung phong dẫn đầu đội tiên phong.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Vũ Phi Long sở hữu Phi Long Song Đao (飛龍雙刀) — đao pháp nhanh như rồng bay, mỗi đòn chém đều mang theo phong áp cắt da. Ngoài ra y tinh thông khinh công, có thể di chuyển trên vách đá dựng đứng như đi trên đất bằng. Là Hiệu Úy nhanh nhất quân đoàn.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Phạm Thiết Thành:** Tướng Quân mà y nhận mệnh lệnh, ngưỡng mộ tài chỉ huy.
+- **Lê Trấn Sơn:** Đồng liêu Hiệu Úy, cùng dẫn đội tuần tra.
+- **Trần Tiểu Binh:** Binh sĩ trẻ mà y coi như đàn em, hay kéo đi uống rượu.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vũ Phi Long sinh ra trong gia đình võ sư, gia nhập quân đoàn vì mơ ước bảo vệ trục thế giới. Tài năng chiến đấu cá nhân xuất sắc nhưng đôi khi quá liều lĩnh. Từng xông vào đội quân yêu thú một mình để cứu binh sĩ bị bao vây, bị thương nặng nhưng cứu được mười hai người. Đang nhắm đến vị trí Tướng Quân.

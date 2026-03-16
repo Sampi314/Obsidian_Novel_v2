@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Minh Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lý Ảnh Thủ có dáng người trung bình, gương mặt tầm thường đến mức dễ dàng lẫn vào đám đông — đây chính là lợi thế lớn nhất của hắn. Đôi mắt luôn hơi cúi xuống, tóc buộc gọn kiểu ngoại môn đệ tử bình thường, áo bào xám nhạt không có gì nổi bật. Tính cách cực kỳ thận trọng, mưu lược sâu xa, luôn suy tính ba bước trước khi hành động. Bề ngoài khiêm nhường nhưng bên trong ẩn chứa ý chí thép và lòng căm phẫn sâu sắc đối với sự bất công của hệ thống nội-ngoại môn.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lý Ảnh Thủ không giỏi chiến đấu trực diện mà thiên về ẩn thân và thu thập thông tin. Tuyệt kỹ Ám Ảnh Vô Hình Thuật (暗影無形術) cho phép hắn che giấu khí tức tu luyện, khiến ngay cả tu sĩ Trúc Cơ cũng khó phát hiện sự hiện diện. Điểm mạnh là khả năng ngụy trang và đọc vị người khác; điểm yếu là nhục thân yếu ớt, nếu bị phát hiện trong cận chiến sẽ rất nguy hiểm.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Ám Vệ:** Phó Minh Chủ đáng tin cậy nhất, người duy nhất biết thân phận thật của Ảnh Thủ, cánh tay phải trong mọi kế hoạch.
+- **Phạm Tiểu Ngạo:** Thành viên nhiệt huyết nhưng nóng nảy, Ảnh Thủ vừa trân trọng vừa lo lắng sự bốc đồng của y sẽ bại lộ Liên Minh.
+- **Cửu Hoa Kiếm Tông:** Là ngoại môn đệ tử của Kiếm Tông, hắn phải giấu kín thân phận Minh Chủ để bảo toàn tổ chức.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Ảnh Thủ xuất thân từ một gia đình phàm nhân nghèo khó, được nhận vào Cửu Hoa Kiếm Tông làm ngoại môn đệ tử nhờ chút tư chất tu luyện. Suốt hai mươi năm cần mẫn, hắn đạt Trúc Cơ Viên Mãn nhưng vẫn không được nội môn thừa nhận vì không có người bảo trợ. Chứng kiến hàng trăm ngoại môn đệ tử bị đối xử bất công, hắn bí mật thành lập Ngoại Môn Đệ Tử Liên Minh, lấy danh hiệu "Ảnh Thủ" để che giấu thân phận. Mục tiêu hiện tại là mở rộng mạng lưới sang các tông phái khác và tìm cách thay đổi chế độ ngoại môn từ bên trong. Bí mật lớn nhất của hắn: hắn đã âm thầm sao chép một phần nội môn công pháp và đang tìm cách đột phá Kim Đan.

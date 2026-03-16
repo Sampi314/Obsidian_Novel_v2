@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phạm Phế Căn có thân hình tầm thước, mặt phúc hậu, luôn mỉm cười hiền lành. Hay mặc áo thương nhân, lưng đeo bao tải chứa đầy pháp khí hỏng thu mua được. Tính cách vui vẻ, giỏi giao tiếp, là cầu nối giữa Phế Linh Các và thế giới bên ngoài.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phạm Phế Căn không giỏi chiến đấu nhưng sở hữu Phế Phẩm Thẩm Định Nhãn (廢品審定眼) — nhìn ra giá trị ẩn giấu trong pháp khí hỏng mà người khác coi là rác. Khả năng thương mại và đàm phán là vũ khí chính của y, giúp Các có nguồn nguyên liệu dồi dào.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lạc Vô Danh:** Các Chủ mà Phế Căn kính trọng, luôn tìm kiếm pháp khí đặc biệt theo yêu cầu của Vô Danh.
+- **Lý Tiểu Phế:** Đệ tử trẻ mà Phế Căn hay dẫn theo trong các chuyến thu mua, dạy y cách nhận biết giá trị vật phẩm.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phạm Phế Căn từng là thương nhân nhỏ chuyên buôn bán phế phẩm tu luyện. Khi gặp Lạc Vô Danh và thấy khả năng tái tạo pháp khí, y nhận ra đây là cơ hội kinh doanh lớn, đồng thời cũng cảm phục triết lý của Vô Danh. Gia nhập Phế Linh Các, y xây dựng mạng lưới thu mua phế phẩm rộng khắp Đông Hoang. Bí mật: y từng vô tình mua được một mảnh pháp bảo cổ đại trong đống phế phẩm nhưng chưa dám nói với ai.

@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Nội Môn Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Ân Tiểu Độc là một thiếu niên mười lăm tuổi, dáng người nhỏ nhắn gầy gò, gương mặt nhọn với đôi mắt xanh lục to tròn luôn mang vẻ sợ hãi. Mái tóc xanh đen xù bù, da xanh nhạt, thường mặc áo đệ tử tím cũ rộng thùng thình. Tính cách nhút nhát, hay lo sợ nhưng rất tò mò và thông minh. Hắn là đệ tử ít tàn nhẫn nhất môn phái, thường xuyên bị đồng môn bắt nạt.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Ân Tiểu Độc có thiên phú nhận biết độc tố bẩm sinh, có thể phân biệt hàng trăm loại kịch độc chỉ bằng mùi. Chiêu thức sở trường Tiểu Độc Nhận Hương (小毒认香) cho phép hắn phát hiện bất kỳ loại độc tố nào trong phạm vi rộng, đóng vai trò trinh sát và cảnh báo. Tu vi chiến đấu rất yếu, chỉ có khả năng phòng thủ cơ bản và chạy trốn.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Ân Mộc Thanh:** Mộc Độc Sư Đường Chủ, chú họ ngầm bảo vệ hắn.
+- **Lệ Vô Tâm:** Thánh Tử, đồng môn duy nhất mà hắn dám nói chuyện.
+- **A Mộc:** Chân Truyền Đệ Tử, sư huynh thân thiết nhất, hay giúp hắn tránh bị bắt nạt.
+- **Độc Cô Lão Quái:** Môn Chủ, người mà hắn sợ hãi tuyệt đối.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ân Tiểu Độc là cháu họ của Ân Mộc Thanh, bị đưa vào Vạn Độc Môn vì gia đình nợ nần. Hắn không phù hợp với văn hóa tàn bạo của môn phái nhưng sống sót nhờ thiên phú nhận biết độc tố được coi là hữu dụng. Sự kiện then chốt là khi hắn phát hiện một âm mưu đầu độc từ bên ngoài nhắm vào Huyết Trì, cứu mạng nhiều đồng môn và được Độc Cô Lão Quái chú ý. Bí mật là hắn và Lệ Vô Tâm đang dần hình thành tình bạn kỳ lạ - hai kẻ lạc loài giữa một tổ chức tàn bạo.

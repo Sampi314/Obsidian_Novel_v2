@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Mục Trường Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thân hình cao ráo mạnh mẽ, ánh mắt sắc bén đầy quyết tâm. Tính cách thẳng thắn, dũng cảm, không sợ đối mặt với khó khăn. Trung thành tuyệt đối với đồng đội.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Linh Thú Mục Trường, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 牛大力·Bản Mệnh (牛大力·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Dương Tiểu Mục:** Mục Đồng, đồng liêu quan trọng nhất trong Linh Thú Mục Trường.
+- **Mã Phi Vân:** Thuần Thú Sư, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ngưu Đại Lực lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Linh Thú Mục Trường. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Linh Thú Mục Trường và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Mục Trường Chủ.

@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Đường Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phong thái lạnh lùng bí ẩn, ít ai biết được suy nghĩ thực sự. Gương mặt điển trai nhưng hiếm khi thể hiện cảm xúc. Tính cách độc lập, tự chủ, chỉ tin tưởng rất ít người.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Huyết Thảo Đường, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 李草三·Bản Mệnh (李草三·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Huyết Dược:** Dược Sư, đồng liêu quan trọng nhất trong Huyết Thảo Đường.
+- **Trần Thảo Nhi:** Học Đồ, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Thảo Tam sinh ra trong một gia đình Nhân Tộc bình thường, sớm thể hiện tư chất phù hợp với Huyết Thảo Đường. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Huyết Thảo Đường và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Đường Chủ.

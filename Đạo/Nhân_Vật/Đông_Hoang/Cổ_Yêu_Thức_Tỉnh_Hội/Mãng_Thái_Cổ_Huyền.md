@@ -29,10 +29,12 @@ arcs:
 Trăn cổ đại, không hiểu ngôn ngữ thời nay
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Cổ Yêu Thức Tỉnh Hội, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 蟒太古玄·Bản Mệnh (蟒太古玄·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hổ Viêm Cốt:** Thành Viên, đồng liêu quan trọng nhất trong Cổ Yêu Thức Tỉnh Hội.
+- **Quy Vạn Niên:** Phó Hội Trưởng, đối tác thường xuyên phối hợp.
+- **Sa Cổ Giác:** Hội Trưởng, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Mãng Thái Cổ Huyền xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Cổ Yêu Thức Tỉnh Hội. Trải qua thử thách sinh tử, nàng gia nhập Cổ Yêu Thức Tỉnh Hội và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Viên Mãn, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thành Viên.

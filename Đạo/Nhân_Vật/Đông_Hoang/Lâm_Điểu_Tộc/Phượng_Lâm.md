@@ -29,10 +29,12 @@ arcs:
 Phượng hoàng rừng sâu, lửa thiêng bảo vệ cánh rừng ngàn năm
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tinh thông công pháp trấn phái của Lâm Điểu Tộc, đạt cảnh giới đại thành. Tuyệt chiêu 鳳林·Chấn Phái Quyết (鳳林·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Loan Thanh Hà:** Nữ Chiến Sĩ, đồng liêu quan trọng nhất trong Lâm Điểu Tộc.
+- **Oanh Hoàng Kim:** Ca Sĩ, đối tác thường xuyên phối hợp.
+- **Oanh Lục Hoa:** Ca Sĩ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phượng Lâm được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Lâm Điểu Tộc. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Lâm Điểu Tộc và dần khẳng định vị trí của mình. Với tu vi Hóa Thần Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Tộc Trưởng.

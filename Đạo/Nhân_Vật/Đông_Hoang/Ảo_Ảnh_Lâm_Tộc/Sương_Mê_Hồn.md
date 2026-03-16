@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Yểm Hồn Đội Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Nữ Tinh Linh tha hóa với nhan sắc mê hoặc, làn da trắng bệch với đôi môi đen. Mái tóc dài như tơ nhện bạc, luôn tỏa ra sương mù nhẹ quanh người. Tính cách âm hiểm, thích chơi đùa với con mồi trước khi hạ sát. Có phần điên loạn khi chiến đấu nhưng bình thường lại tỏ ra dịu dàng đáng sợ.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên gia thu thập sinh cơ, tinh thông Mê Hồn Sương Vũ (迷魂霜舞) tạo ra bầu sương mù hút cạn sinh lực mọi sinh vật trong phạm vi. Tuyệt chiêu Sương Mê Vạn Hồn La (霜迷萬魂羅) triệu hồi lưới sương bẫy linh hồn. Mạnh trong chiến đấu kéo dài do liên tục hấp thụ sinh cơ đối thủ, nhưng yếu trước hỏa hệ và thánh quang.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Nguyệt Yểm Ma:** Sư phụ trực tiếp, người truyền thụ tà công, nàng tuyệt đối phục tùng.
+- **Vân Huyễn Ảnh:** Trưởng Lão dạy chiến thuật, người mà nàng kính trọng.
+- **Phong Ảo Mộng:** Đồng liêu trẻ tuổi, đối tượng cạnh tranh trong việc giành sự chú ý của trưởng lão.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Sương Mê Hồn sinh ra đã mang lời nguyền tha hóa trong huyết mạch, là thế hệ Tinh Linh bóng tối được sinh ra tự nhiên trong Rừng Ảo Ảnh. Từ nhỏ đã thể hiện thiên phú mê hoặc mãnh liệt, có thể khiến các sinh vật nhỏ tự nguyện dâng sinh cơ cho nàng. Được Nguyệt Yểm Ma đích thân đào tạo thành Yểm Hồn Đội Trưởng. Hiện nàng dẫn đội Yểm Hồn đi săn lùng lữ khách lạc vào rừng, đồng thời bí mật thu thập đủ sinh cơ để cống nạp cho Cây Mộng Yểm Thượng Cổ.

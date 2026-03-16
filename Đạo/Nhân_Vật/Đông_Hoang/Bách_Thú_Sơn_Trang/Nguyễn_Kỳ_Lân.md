@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão Ngự Thú Viện.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trung niên thư sinh với gương mặt nho nhã, đeo kính tròn, mái tóc đen gọn gàng. Luôn cầm sổ ghi chép và bút lông. Tính cách điềm đạm, ham học hỏi, yêu thích nghiên cứu hơn chiến đấu. Có thể nói chuyện hàng giờ về tập tính linh thú.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên gia ngự thú học thuật, tinh thông Vạn Thú Tâm Ấn (萬獸心印) giúp thấu hiểu tâm lý và nhu cầu của mọi loài thú. Tuyệt chiêu Kỳ Lân Phụng Mệnh (麒麟奉命) triệu hồi linh thú bản mệnh Mộc Kỳ Lân hỗ trợ phòng thủ. Không giỏi chiến đấu nhưng kiến thức về linh thú là vô giá.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Vạn Thú:** Trang Chủ, bạn từ nhỏ mà ông hết lòng phò tá.
+- **Lý Thiên Mã:** Thái Thượng Trưởng Lão, bạn cũ đồng môn.
+- **Lê Phượng Nhi:** Đệ tử ngoại môn mà ông đang hướng dẫn về chăm sóc phi cầm.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Nguyễn Kỳ Lân lớn lên cùng Trần Vạn Thú trong sơn trang, nhưng thay vì thiên về chiến đấu, ông chọn con đường nghiên cứu. Ông là người thiết kế hệ thống chuồng trại phù văn hiện đại của sơn trang, giúp linh thú sinh trưởng tốt hơn gấp bội. Hiện tại ông đang nghiên cứu cách giúp linh thú đột phá cảnh giới mà không cần dùng Thú Linh Đan, vì lo ngại tác dụng phụ lâu dài.

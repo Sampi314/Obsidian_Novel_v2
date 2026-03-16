@@ -29,10 +29,12 @@ arcs:
 Nửa Tinh Linh nửa Hải Tộc, thở được dưới nước
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Hỗn Huyết Tinh Linh Hội, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 水葉·Bản Mệnh (水葉·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hồ Linh Hoa Nguyệt:** Dược Sư, đồng liêu quan trọng nhất trong Hỗn Huyết Tinh Linh Hội.
+- **Hỗn Nguyệt:** Hội Trưởng, đối tác thường xuyên phối hợp.
+- **Lâm Kỳ Dạ:** Đại Địa Cảm Ứng Sư, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Thủy Diệp xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Hỗn Huyết Tinh Linh Hội. Trải qua thử thách sinh tử, nàng gia nhập Hỗn Huyết Tinh Linh Hội và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thủy Pháp Sư.

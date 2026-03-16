@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Phường Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phụ nữ trung niên đẫy đà với đôi tay chai sạn vì năm tháng luyện đan. Mái tóc đen buộc khăn, gương mặt hiền hậu nhưng ánh mắt sắc bén. Luôn mặc tạp dề dày đầy vết cháy. Tính cách thực dụng, chất phác nhưng cứng rắn khi bảo vệ quyền lợi của thành viên.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đan sư Kim Đan cấp, tinh thông Linh Hỏa Khống Chế Thuật (靈火控制術) điều khiển lửa luyện đan với độ chính xác cao. Tuyệt chiêu Công Mẫu Vạn Đan Lô (工母萬丹爐) cho phép đồng thời luyện nhiều lò đan cùng lúc. Không có năng lực chiến đấu đáng kể, phòng thân chủ yếu bằng các loại đan dược phòng vệ tự chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Tiểu Lô:** Tổng Quản, phụ tá đắc lực quản lý công việc hàng ngày.
+- **Vũ Thiết Chùy:** Phó Phường Chủ Đan Đường, đồng liêu tin cậy phụ trách rèn khí.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Đặng Công Mẫu từng là đệ tử ngoại môn của Đan Hà Cốc, bị trục xuất vì dám cải tiến công thức đan dược truyền thống. Không cam chịu thất bại, bà tự mình thành lập Bách Nghệ Phường Tổng Đàn, tạo nơi nương thân cho các tán tu thợ nghề bị coi thường. Dưới sự lãnh đạo của bà, phường phát triển thành đối tác thương mại quan trọng của nhiều thế lực. Mục tiêu bí mật là luyện thành công Cải Mệnh Đan từ chiếc lò cổ bị phong ấn trong mật thất.

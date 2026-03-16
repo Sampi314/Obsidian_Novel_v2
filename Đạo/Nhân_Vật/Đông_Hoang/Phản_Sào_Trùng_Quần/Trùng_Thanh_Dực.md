@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Chiến Binh Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trùng Thanh Dực là chuồn chuồn linh dài khoảng bốn mươi phân, cánh xanh trong suốt lấp lánh, bay nhanh như gió. Thân hình thanh mảnh nhưng nhanh nhẹn, đôi mắt phức hợp có thể quan sát mọi hướng cùng lúc. Tính cách dũng cảm, trung thành, luôn bay đi đầu đàn khi di chuyển để trinh sát đường đi.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Trùng Thanh Dực sử dụng Thanh Phong Dực Kích (青風翼擊) — vỗ cánh tạo ra lưỡi gió sắc bén có thể cắt đứt dây tơ và mạng nhện của các trùng săn mồi. Tốc độ bay cực nhanh là lợi thế lớn nhất, có thể thoát khỏi sự truy đuổi của hầu hết Trùng Binh. Điểm yếu là thân hình mong manh, một đòn trúng là gãy cánh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trùng Xích Giác:** Trùng Trưởng mà Thanh Dực tuyệt đối trung thành, luôn bay quanh bảo vệ.
+- **Trùng Tiểu Phản:** Đồng đội trinh sát, hai người phối hợp trinh sát trên không và dưới đất rất ăn ý.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trùng Thanh Dực là một trong những cá thể đầu tiên Xích Giác tìm thấy sau khi bỏ trốn — một con chuồn chuồn bị gãy cánh, bị đàn bỏ rơi vì không còn giá trị chiến đấu. Xích Giác chăm sóc cho đến khi cánh lành, từ đó Thanh Dực thề trung thành tuyệt đối. Y trở thành Chiến Binh Trưởng nhờ tốc độ vượt trội và khả năng trinh sát. Sợ hãi lớn nhất của y: một ngày nào đó Trùng Mẫu tìm ra đàn, y sẽ là người đầu tiên xông ra chiến đấu và có lẽ cũng là người đầu tiên ngã xuống.

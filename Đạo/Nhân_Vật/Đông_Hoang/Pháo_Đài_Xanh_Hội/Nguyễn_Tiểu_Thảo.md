@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Tân Binh.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Nguyễn Tiểu Thảo là thiếu nữ trẻ, da trắng hồng, tóc nâu dài thả tự nhiên, đôi mắt xanh lục đặc trưng của người có linh căn mộc hệ mạnh. Luôn mang theo túi hạt giống và cuốn sổ ghi chép về cây cối. Tính cách nhẹ nhàng, yêu thiên nhiên, nhưng kiên quyết khi bảo vệ sự sống của rừng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Nguyễn Tiểu Thảo có thiên phú mộc hệ hiếm gặp, sở hữu Thanh Mộc Sinh Trưởng Thuật (青木生長術) — thúc đẩy cây cối sinh trưởng nhanh gấp mười lần bình thường. Tuyệt kỹ Hạt Giống Bộc Phát (種子爆發) biến hạt giống thành hàng rào gai trong nháy mắt. Điểm yếu là không giỏi chiến đấu trực diện.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Thanh Diệp:** Phó Đoàn Trưởng trực tiếp chỉ dạy, Tiểu Thảo kính trọng như chị gái.
+- **Hoàng Lâm Vệ:** Bạn đồng hành tuần tra, hai người cùng chia sẻ tình yêu thiên nhiên.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Nguyễn Tiểu Thảo gia nhập đoàn kỵ sĩ vì phát hiện vành đai rừng đang suy yếu và muốn dùng năng lực của mình để phục hồi. Dù là tân binh, thiên phú mộc hệ của y được Lý Thanh Diệp đánh giá rất cao. Y phát hiện một số cây cổ thụ trong rừng đang bị thứ gì đó hút linh lực từ rễ, nghi ngờ có mối liên hệ với sự suy yếu chung của vành đai. Đây có thể là manh mối quan trọng mà đoàn kỵ sĩ đang tìm kiếm.

@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Ong Lính.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Nhan sắc thanh tú với nét mặt dịu dàng, cử chỉ nhẹ nhàng tinh tế. Tính cách ôn hòa, biết lắng nghe, giỏi hòa giải mâu thuẫn. Luôn quan tâm đến người xung quanh.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Mật Ong Linh Đoàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 蟲小蜜·Bản Mệnh (蟲小蜜·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trùng Kim Phấn:** Ong Thợ Trưởng, đồng liêu quan trọng nhất trong Mật Ong Linh Đoàn.
+- **Trùng Mật Linh:** Ong Hậu, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trùng Tiểu Mật sinh ra trong một gia đình Trùng Tộc bình thường, sớm thể hiện tư chất phù hợp với Mật Ong Linh Đoàn. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Mật Ong Linh Đoàn và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Ong Lính.

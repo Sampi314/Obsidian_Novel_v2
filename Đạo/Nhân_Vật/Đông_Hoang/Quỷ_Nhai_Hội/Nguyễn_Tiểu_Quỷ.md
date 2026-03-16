@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Thành Viên.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Nguyễn Tiểu Quỷ là thiếu niên lanh lợi, mặt nhỏ nhắn, mắt sáng đầy tinh ranh. Luôn đeo chiếc mặt nạ quỷ nhỏ trên trán như trang sức. Tính cách sôi nổi, liều lĩnh, muốn chứng minh bản thân xứng đáng với Quỷ Nhai Hội.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Nguyễn Tiểu Quỷ đang luyện Quỷ Bộ Quyền (鬼步拳) — quyền pháp kết hợp bộ pháp lẹ làng, đánh nhanh rút nhanh. Ngoài ra, y có thiên phú bắt chước — nhìn một lần là học được chiêu thức cơ bản. Điểm yếu là tu vi thấp và thiếu kinh nghiệm.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Quỷ Nhị:** Quỷ Chủ mà Tiểu Quỷ ngưỡng mộ, muốn một ngày mạnh như ông.
+- **Phạm Hắc Ảnh:** Đang đào tạo Tiểu Quỷ thành gián điệp, dạy kỹ thuật ngụy trang.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Nguyễn Tiểu Quỷ là trẻ đường phố được Quỷ Nhai Hội thu nhận. Thông minh, nhanh nhẹn, y nhanh chóng được chú ý bởi cả Phạm Hắc Ảnh và Hoàng Quỷ Thủ, cả hai đều muốn đào tạo y theo hướng khác nhau — tình báo hoặc ám sát. Y phải tự chọn con đường của mình. Bí mật: y vô tình phát hiện một mật thất cổ dưới tổng đàn Quỷ Nhai nhưng chưa dám vào.

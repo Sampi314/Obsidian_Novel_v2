@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Thành Viên.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Nham Tiểu Đậu nhỏ xíu, cao chỉ một mét, thân hình gầy nhỏ so với Cự Tộc, da nâu nhạt lốm đốm. Mắt tròn xoe, luôn chạy nhảy không ngừng. Tính cách tinh nghịch, hay trêu bạn, nhưng can đảm bất ngờ khi bạn bè gặp nguy.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Nham Tiểu Đậu có khả năng Thạch Đậu Bắn Tung (石豆彈射) — bắn viên đá nhỏ từ tay chính xác, và Tiểu Thạch Ẩn (小石隱) — thu nhỏ cơ thể trốn vào khe đá. Sức chiến đấu thấp nhưng nhanh nhẹn và giỏi ẩn nấp.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Thạch Viên Viên:** Bạn thân và đầu lĩnh, Tiểu Đậu luôn nghe theo dù hay trêu.
+- **Sơn Tiểu Đá:** Bạn chơi, hai đứa hay nghịch phá cùng nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Nham Tiểu Đậu là đứa trẻ Cự Tộc nhỏ nhất nhì vùng, bị đồng loại trêu chọc vì kích thước. Thạch Viên Viên là người bạn đầu tiên không chê cười y, nên Tiểu Đậu trung thành tuyệt đối. Y thường lẻn ra ngoài khám phá, từng phát hiện một hang động bí mật chứa đầy khoáng thạch phát sáng nhưng chưa dám kể.

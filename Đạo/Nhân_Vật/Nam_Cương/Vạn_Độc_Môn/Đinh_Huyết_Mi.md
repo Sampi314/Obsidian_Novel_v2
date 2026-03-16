@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Nhị Sát.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Đinh Huyết Mi là một phụ nữ trẻ xinh đẹp quyến rũ, gương mặt sắc sảo với đôi mắt đỏ huyết, lông mày mảnh như dao cắt. Mái tóc đen dài buông xõa, môi đỏ tự nhiên, thường mặc áo đen sát người để lộ vẻ gợi cảm nguy hiểm. Tính cách tàn nhẫn nhưng thông minh, giỏi dùng sắc đẹp để dụ dỗ mục tiêu trước khi ra tay. Cô tận hưởng việc giết người và coi đó là nghệ thuật.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đinh Huyết Mi chuyên về huyết độc và mỹ nhân kế, sử dụng nước hoa kịch độc và trang sức tẩm chất độc. Tuyệt chiêu Huyết Mi Đoạn Hồn (血眉断魂) phát tán hương thơm mê hoặc khiến đối phương mất cảnh giác, sau đó tung ra huyết độc xâm nhập qua da. Mạnh về ám sát bằng mỹ nhân kế và hạ độc ngầm, nhưng yếu trong chiến đấu trực diện và sức mạnh thể chất kém.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hàn Phong:** Nhất Sát, đồng đội mà cô tin cậy nhất, hai người phối hợp ám sát hoàn hảo.
+- **Bạch Vô Ảnh:** Tam Sát, đồng đội thân thiết, hay ganh đua về số mục tiêu hạ được.
+- **Hắc Dạ:** Tứ Sát, đồng đội trầm lặng mà cô tôn trọng về kỹ năng.
+- **Liễu Lãnh Huyết:** Xà Chi Hộ Pháp, cấp trên mà cô ngưỡng mộ và muốn vượt qua.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Đinh Huyết Mi sinh ra trong một gia đình quý tộc sa sút, từ nhỏ được dạy về sắc đẹp và mưu mô. Khi gia đình bị tiêu diệt bởi đối thủ chính trị, cô trốn chạy đến Nam Cương và gia nhập Vạn Độc Môn để có sức mạnh trả thù. Sự kiện then chốt là khi cô hoàn thành nhiệm vụ ám sát đầu tiên - giết chết kẻ thù của gia đình bằng nụ hôn tẩm kịch độc. Mục tiêu hiện tại là leo lên vị trí Nhất Sát và trở thành sát thủ đáng sợ nhất Nam Cương.

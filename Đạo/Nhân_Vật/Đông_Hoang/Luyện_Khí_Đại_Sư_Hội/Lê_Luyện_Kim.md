@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Nội Môn Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vẻ ngoài hiền hậu chất phác với nụ cười ấm áp. Đôi tay chai sạn chứng tỏ sự chăm chỉ lao động. Tính cách thực dụng, không ưa phô trương, coi trọng kết quả hơn lời nói.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đang tu luyện công pháp cơ bản của Thần Khí Phường, tiềm năng phát triển lớn. Chiêu thức 黎煉金·Sơ Thức (黎煉金·初式) tuy đơn giản nhưng nền tảng vững chắc. Tu vi còn thấp nên chủ yếu hỗ trợ và học hỏi từ tiền bối.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Thần Lô:** Trưởng Lão, đồng liêu quan trọng nhất trong Thần Khí Phường.
+- **Lý Cơ Giới:** Phường Chủ, đối tác thường xuyên phối hợp.
+- **Nguyễn Đúc Kim:** Trưởng Lão, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lê Luyện Kim sinh ra trong một gia đình Nhân Tộc bình thường, sớm thể hiện tư chất phù hợp với Thần Khí Phường. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Thần Khí Phường và dần khẳng định vị trí của mình. Với tu vi Kim Đan Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Nội Môn Đệ Tử.

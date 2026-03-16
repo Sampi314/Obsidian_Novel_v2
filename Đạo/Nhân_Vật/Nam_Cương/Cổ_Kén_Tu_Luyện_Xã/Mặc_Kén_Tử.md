@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Kén Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Suốt đời nghiên cứu phá kén hóa bướm, bản thân vẫn chưa làm được
+Mặc Kén Tử khi hóa nhân là một trung niên gầy gò, da xám nhạt mờ đục như kén tằm, mái tóc bạc trắng mỏng buộc lỏng, đôi mắt đen lớn không chớp giống mắt côn trùng. Quanh người luôn có tơ kén mỏng bay lượn, ngón tay dài nhỏ thường xuyên nhả tơ vô thức. Thường mặc áo xám dài rộng, lưng hơi còng vì cúi nghiên cứu suốt ngày. Tính cách ám ảnh với việc nghiên cứu phá kén hóa bướm, nói chuyện lẩm bẩm về kén, đôi khi quên luôn mình đang nói chuyện với ai, nhưng tâm tính hiền lành không hại người.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Mặc Kén Tử tu luyện Kén Hóa Quyết (繭化訣) của Cổ Kén Tu Luyện Xã, có thể nhả ra tơ kén đặc biệt bọc kín mục tiêu trong kén cứng. Chiêu thức sở trường Mặc Kén Phong Ấn (墨繭封印) nhả ra hàng ngàn sợi tơ đen tạo thành cái kén khổng lồ giam giữ kẻ thù, tơ cứng như thép khi khô. Phòng thủ và khống chế xuất sắc, nhưng chiêu thức cần thời gian thi triển lâu và không có sát thương trực tiếp, dễ bị phá giải bởi hỏa hệ công pháp.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Huyết Giáp:** Giáp Chiến Sĩ Ký Sinh Liên Minh, đồng tộc Trùng Tộc hay gặp nhau bàn luận tu luyện.
+- **U Ảnh:** Nhện Sát Thủ Vạn Độc Môn, đồng tộc Trùng Tộc nhưng quan điểm khác biệt, hay tranh luận triết học côn trùng.
+- **Dạ Nga Tiên:** Gián Điệp tán tu, đồng tộc Trùng Tộc mà hắn từng giúp đỡ khi nàng bị thương.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Mặc Kén Tử sinh ra là một con tằm đen đột biến, khác với đồng tộc ở chỗ hắn có thể nhả tơ đen thay vì tơ trắng. Suốt đời nghiên cứu bí mật phá kén hóa bướm, một quá trình lột xác mà Cổ Kén Tu Luyện Xã coi là cảnh giới tối thượng, nhưng bản thân vẫn chưa đạt được. Sự kiện then chốt là khi hắn tình cờ tìm được một mảnh kén cổ đại hóa thạch chứa dấu vết của Trùng Hoàng thượng cổ, mở ra hướng nghiên cứu mới. Mục tiêu cả đời là hoàn thành phá kén hóa bướm, đạt được hình thái tiến hóa hoàn hảo mà tổ tiên đã mất hàng ngàn năm tìm kiếm.

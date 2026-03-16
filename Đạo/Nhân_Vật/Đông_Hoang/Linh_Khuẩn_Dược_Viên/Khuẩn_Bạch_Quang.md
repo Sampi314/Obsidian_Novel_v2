@@ -29,10 +29,12 @@ arcs:
 Vi khuẩn tiết dịch giải độc, dược liệu quý
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên gia trị liệu của Linh Khuẩn Dược Viên, tinh thông y thuật và dược lý. Chiêu thức 菌白光·Hồi Xuân Thuật (菌白光·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Khuẩn Cổ Ký Ức:** Ký Ức Thể, đồng liêu quan trọng nhất trong Linh Khuẩn Dược Viên.
+- **Khuẩn Huyền Thiên Hóa:** Phân Giải Sư, đối tác thường xuyên phối hợp.
+- **Khuẩn Hồng Sinh Dạ:** Cộng Sinh Sư, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Khuẩn Bạch Quang lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Linh Khuẩn Dược Viên. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Linh Khuẩn Dược Viên và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dược Sư.

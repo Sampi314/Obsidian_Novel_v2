@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Phó Hội Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lang Linh Thông khoác hình nhân trung niên, mặt hẹp, mắt xám sắc, tai nhọn có lông xám. Thân hình nhanh nhẹn, luôn có một con Linh Lang xám đi bên cạnh. Tính cách cảnh giác, trung thành, bảo vệ Hội Trưởng và Hội viên bằng mọi giá.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lang Linh Thông sở hữu Lang Quần Chiến Thuật (狼群戰術) — chỉ huy đàn Linh Lang tấn công phối hợp theo đội hình bao vây. Cá nhân sở hữu Lang Trảo Kích (狼爪擊) — tấn công bằng móng vuốt phủ phong linh khí, nhanh và chính xác. Điểm mạnh là chiến thuật tập thể; điểm yếu là cá nhân chiến đấu hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hổ Thú Ngữ:** Hội Trưởng mà y tôn kính và bảo vệ.
+- **Miêu Tiểu Linh:** Đàn em trẻ mà y hay cảnh báo không nên quá tin người lạ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lang Linh Thông là Yêu Tộc nhánh Lang, bị bầy đàn bỏ rơi vì thân hình nhỏ yếu. Được Hổ Thú Ngữ cứu và thu nhận, y thề trung thành trọn đời. Thuần hóa được đàn Linh Lang sáu con, y trở thành chiến lực chính của Hội. Bí mật: y phát hiện vài thành viên lén bán thông tin phân bố linh thú cho thợ săn bên ngoài, đang ngầm điều tra.

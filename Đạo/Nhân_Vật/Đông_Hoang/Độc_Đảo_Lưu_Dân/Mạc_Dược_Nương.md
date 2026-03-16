@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Thầy Thuốc.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thân hình vạm vỡ tráng kiện, gương mặt vuông vức đầy uy nghiêm. Giọng nói vang dội đầy sức thuyết phục. Tính cách hào sảng, trọng nghĩa khí, ghét sự bất công.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Độc Đảo Lưu Dân, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 莫藥娘·Bản Mệnh (莫藥娘·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Mạc Lão Đầu:** Trưởng Thôn, đồng liêu quan trọng nhất trong Độc Đảo Lưu Dân.
+- **Mạc Tiểu Ngư:** Ngư Dân, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Mạc Dược Nương vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Độc Đảo Lưu Dân. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Độc Đảo Lưu Dân và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thầy Thuốc.

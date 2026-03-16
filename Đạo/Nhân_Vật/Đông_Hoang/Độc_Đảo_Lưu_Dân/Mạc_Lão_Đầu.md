@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Trưởng Thôn.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Vẻ ngoài hiền hậu chất phác với nụ cười ấm áp. Đôi tay chai sạn chứng tỏ sự chăm chỉ lao động. Tính cách thực dụng, không ưa phô trương, coi trọng kết quả hơn lời nói.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Độc Đảo Lưu Dân, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 莫老頭·Bản Mệnh (莫老頭·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Mạc Dược Nương:** Thầy Thuốc, đồng liêu quan trọng nhất trong Độc Đảo Lưu Dân.
+- **Mạc Tiểu Ngư:** Ngư Dân, đối tác thường xuyên phối hợp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Mạc Lão Đầu sinh ra trong một gia đình Nhân Tộc bình thường, sớm thể hiện tư chất phù hợp với Độc Đảo Lưu Dân. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Độc Đảo Lưu Dân và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Đỉnh Phong, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trưởng Thôn.

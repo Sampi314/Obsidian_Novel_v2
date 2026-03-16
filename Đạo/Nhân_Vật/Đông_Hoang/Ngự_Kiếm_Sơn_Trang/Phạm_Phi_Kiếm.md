@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão Kiếm Đúc Viện.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phạm Phi Kiếm dáng người thanh tú, mặc áo bào xanh lam của Kiếm Đúc Viện, tóc búi gọn gàng, trên tay luôn cầm một thanh kiếm chưa hoàn thiện đang nghiên cứu. Gương mặt điềm tĩnh, mắt sáng rực khi bàn về kiếm thuật, nhưng lạnh lùng khi giao tiếp thường ngày. Tính cách tỉ mỉ, cầu toàn đến mức hoàn hảo, một vết xước nhỏ trên thanh kiếm cũng khiến y đúc lại từ đầu.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phạm Phi Kiếm là bậc thầy Tinh Luyện Kiếm Thuật (精煉劍術), có thể đánh giá và nâng cấp phẩm chất linh binh chỉ bằng cách chạm vào. Tuyệt kỹ Phi Kiếm Vô Ảnh (飛劍無影) — phóng ra phi kiếm biến mất hoàn toàn, chỉ xuất hiện khi đã đâm trúng mục tiêu. Điểm mạnh là khả năng ám sát tầm xa bất ngờ; điểm yếu là cần thời gian chuẩn bị dài và tiêu hao nhiều linh lực cho mỗi đòn.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Kiếm Nam:** Trang Chủ, người mà Phi Kiếm tuyệt đối tin tưởng và hỗ trợ trong mọi quyết sách.
+- **Hoàng Thiên Hỏa:** Đồng liêu hay tranh luận, Phi Kiếm coi trọng quy trình truyền thống trong khi Thiên Hỏa muốn cách tân.
+- **Đặng Tiểu Kiếm:** Nội môn đệ tử mà Phi Kiếm trực tiếp hướng dẫn kỹ thuật đúc kiếm, nhận thấy tài năng tiềm ẩn của y.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phạm Phi Kiếm xuất thân từ dòng tộc luyện khí, gia nhập Ngự Kiếm Sơn Trang từ nhỏ và nhanh chóng thể hiện tài năng đúc kiếm vượt trội. Y trở thành Trưởng Lão Kiếm Đúc Viện nhờ tạo ra nhiều thanh phi kiếm thượng phẩm mà không ai trong sơn trang sánh kịp. Cả đời cống hiến cho việc hoàn thiện kỹ thuật đúc, từ chối nhiều lời mời từ các thế lực bên ngoài. Mục tiêu hiện tại là đúc một thanh Linh Kiếm bậc sáu — thứ mà chưa ai trong sơn trang từng làm được kể từ thời tổ sư.

@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Mộc Độc Sư Đường Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Ân Mộc Thanh là một trung niên gương mặt dài với đôi mắt xanh lục sâu thẳm, da xanh nhạt như lá cây, mái tóc xanh đen buộc gọn. Thường mặc áo bào xanh lục, tay luôn dính nhựa cây và bào tử nấm. Tính cách trầm lặng, khoa học và có phần lạnh lùng, coi nghiên cứu thực vật độc là đam mê lớn nhất. Ông ít quan tâm đến chính trị nội bộ, chỉ chuyên tâm vào công việc.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Ân Mộc Thanh chuyên về độc thực vật và nấm linh, có thể nuôi trồng và lai tạo các loại cây cỏ kịch độc. Tuyệt chiêu Mộc Độc Vạn Hoa (木毒万花) cho phép ông kích hoạt toàn bộ thực vật độc trong khu vực phun ra bào tử chết người cùng lúc. Mạnh về chiến đấu trong rừng rậm và kiểm soát khu vực, nhưng bất lực khi chiến đấu ở nơi không có thực vật.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Độc Cô Lão Quái:** Môn Chủ, cấp trên mà ông phục tùng vì được tự do nghiên cứu.
+- **Cổ Hàn Sương:** Luyện Tà Đường Chủ, đồng liêu hay hợp tác nghiên cứu.
+- **Ân Tiểu Độc:** Nội Môn Đệ Tử, cháu họ mà ông ngầm bảo vệ.
+- **Ngô Công Trưởng Lão:** Tiền bối mà ông kính trọng về kiến thức.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ân Mộc Thanh xuất thân từ một gia đình dược sư ở vùng rìa Nam Cương, bị cuốn vào con đường độc thuật sau khi vô tình phát hiện một loài nấm linh có khả năng kiểm soát tâm trí. Ông gia nhập Vạn Độc Môn để có tài nguyên nghiên cứu, coi đó là sự đánh đổi cần thiết. Sự kiện then chốt là khi ông lai tạo thành công loại Nấm Điên có thể biến một khu rừng thành vùng tử địa trong một đêm. Bí mật là ông đang bí mật nghiên cứu cách vô hiệu hóa Bản Mệnh Cổ Trùng, muốn tự do nhưng không dám hành động.

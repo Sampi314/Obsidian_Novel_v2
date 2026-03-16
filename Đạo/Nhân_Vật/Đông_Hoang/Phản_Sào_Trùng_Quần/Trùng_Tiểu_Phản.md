@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Trinh Sát.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Trùng Tiểu Phản là kiến lửa nhỏ bé, chỉ dài vài phân, nhưng có đôi râu đặc biệt dài và nhạy cảm. Thân hình đỏ sẫm, di chuyển nhanh như chớp trên mặt đất. Tính cách lanh lẹ, tò mò, hay đi khám phá xa đàn nhưng luôn quay về kịp thời, là tai mắt đáng tin cậy nhất của Xích Giác.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Trùng Tiểu Phản sở hữu Vi Trùng Thám Mạch (微蟲探脈) — dùng đôi râu cảm nhận rung động mặt đất để phát hiện sự tiếp cận của Trùng Binh tuần tra từ xa. Ngoài ra, y tiết ra bào tử ngụy trang che giấu mùi hương của đàn. Không có khả năng chiến đấu đáng kể do thân hình quá nhỏ.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trùng Xích Giác:** Trùng Trưởng mà Tiểu Phản kính trọng như cha, y là cá thể trẻ nhất đàn.
+- **Trùng Thanh Dực:** Đồng đội trinh sát, Tiểu Phản trinh sát mặt đất trong khi Thanh Dực quan sát trên không.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Trùng Tiểu Phản sinh ra đã có ý thức riêng — một trong số ít Trùng Tộc tự phát linh trí mà không cần liên kết với Trùng Mẫu. Y được đàn Phản Sào thu nhận khi còn nhỏ, lớn lên không biết đến sự kiểm soát của Trùng Mẫu. Vì thế, y mang theo sự lạc quan mà những cá thể từng bị kiểm soát không có được. Gần đây, y phát hiện dấu hiệu Trùng Binh tuần tra ngày càng gần hang ẩn, khiến cả đàn phải chuẩn bị di dời.

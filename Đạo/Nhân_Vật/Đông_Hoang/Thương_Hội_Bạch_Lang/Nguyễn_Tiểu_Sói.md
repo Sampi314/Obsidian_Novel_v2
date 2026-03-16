@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Hộ Vệ Ngoại Vi.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Nguyễn Tiểu Sói là thiếu niên mười sáu tuổi, mặt non nớt, mắt sáng nhiệt huyết, tóc đen xù. Mặc áo da thú rộng thùng thình, mang dao ngắn. Tính cách sôi nổi, bồng bột, hay lao vào nguy hiểm mà không suy nghĩ.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Nguyễn Tiểu Sói đang tu luyện Luyện Khí cơ bản, kỹ năng chiến đấu còn sơ khai. Sở trường là chạy nhanh và trốn giỏi — kỹ năng sinh tồn thiết yếu cho hộ vệ ngoại vi. Đang học đao pháp cơ bản từ Phạm Bạch Vệ.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Bạch Lang:** Hội Trưởng mà y ngưỡng mộ, mơ ước trở thành Đại Lang.
+- **Hoàng Phong Hành:** Đồng đội hay cạnh tranh nhưng coi nhau như huynh đệ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Nguyễn Tiểu Sói là trẻ đường phố, sống bằng trộm vặt ở biên giới. Bị bắt khi cố ăn trộm hàng Thương Hội, thay vì bị trừng phạt, Trần Bạch Lang thấy y nhanh nhẹn nên thu nhận. Từ kẻ trộm vặt thành hộ vệ ngoại vi, y dần học được kỷ luật và lòng trung thành. Dù vẫn bồng bột, tinh thần chiến đấu không thua ai.

@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão Yểm Ma.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Tinh Linh tha hóa có làn da xám tím với những vân đen chạy dọc như rễ cây mục. Đôi mắt hoàn toàn đen, không có lòng trắng, tỏa ra ánh sáng tím u ám. Mái tóc bạc trắng rối bù, thường đội một vương miện gai đen. Tính cách tàn nhẫn, cuồng tín với bóng tối, coi nỗi đau của kẻ khác là nguồn khoái cảm.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đại thành Cửu Chuyển Yểm Ma Quyết (九轉魘魔訣), có thể kéo bất kỳ ai vào ác mộng vĩnh cửu chỉ bằng ánh mắt. Tuyệt chiêu Nguyệt Yểm Vạn Hồn (月魘萬魂) triệu hồi linh hồn của hàng vạn nạn nhân tạo thành biển ác mộng nuốt chửng đối thủ. Cực mạnh trong chiến đấu tinh thần nhưng thể chất yếu ớt, sợ ánh sáng mãnh liệt.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Vân Huyễn Ảnh:** Trưởng Lão đồng liêu, phụ tá đắc lực, hai người bàn bạc mọi quyết định lớn.
+- **Sương Mê Hồn:** Yểm Hồn Đội Trưởng, đệ tử được truyền thụ trực tiếp.
+- **Phong Ảo Mộng:** Chiến binh trẻ có tiềm năng, đang được quan sát để đào tạo thành thế hệ kế cận.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Nguyệt Yểm Ma vốn là một Tinh Linh Tộc quý tộc có thiên phú mộng cảnh hiếm có. Trong cuộc nổi loạn của Ảnh Nguyệt Nữ Vương, hắn là một trong những người đầu tiên phản bội Vương Đình. Sau khi bị nguyền rủa và trục xuất, hắn tự nguyện hiến mình cho bóng tối, dùng hàng ngàn năm tu luyện để biến ác mộng thành vũ khí. Hiện tại hắn thèm khát sức mạnh để trả thù Tinh Linh Vương Đình, đồng thời bí mật nghiên cứu cách phá phong ấn của Ảnh Nguyệt Nữ Vương để hồi sinh thủy tổ.

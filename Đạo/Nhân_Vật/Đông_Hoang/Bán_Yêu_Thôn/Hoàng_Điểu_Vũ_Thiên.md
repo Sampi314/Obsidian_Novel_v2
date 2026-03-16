@@ -29,10 +29,12 @@ arcs:
 Mọc cánh bay được, canh gác thôn từ trên cao
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Bán Yêu Thôn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 黃鳥羽天·Bản Mệnh (黃鳥羽天·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Long Huyết Nhi:** Hài Nhi Long Huyết, đồng liêu quan trọng nhất trong Bán Yêu Thôn.
+- **Lê Hồ Nguyệt Hoa:** Giáo Viên, đối tác thường xuyên phối hợp.
+- **Lý Bán Nguyệt:** Thôn Trưởng, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Hoàng Điểu Vũ Thiên được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Bán Yêu Thôn. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Bán Yêu Thôn và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trinh Sát.

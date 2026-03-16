@@ -29,10 +29,12 @@ arcs:
 Phát hiện 12 loại dược liệu mới trong Đầm Lầy Tử Thần
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên gia trị liệu của Dược Thảo Tinh Linh Viện, tinh thông y thuật và dược lý. Chiêu thức 草天香玉·Hồi Xuân Thuật (草天香玉·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Thảo Hàn Lộ:** Đệ Tử, đồng liêu quan trọng nhất trong Dược Thảo Tinh Linh Viện.
+- **Thảo Linh:** Dược Sư, đối tác thường xuyên phối hợp.
+- **Thảo Mộng Điệp:** Đệ Tử, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Thảo Thiên Hương Ngọc vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Dược Thảo Tinh Linh Viện. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Dược Thảo Tinh Linh Viện và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dược Sư.

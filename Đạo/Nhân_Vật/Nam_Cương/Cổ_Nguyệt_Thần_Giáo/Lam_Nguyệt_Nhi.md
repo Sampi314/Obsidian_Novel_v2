@@ -26,13 +26,16 @@ arcs:
 - **Chức Vụ:** Thánh Nữ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lam Nguyệt Nhi là một thiếu nữ xinh đẹp với mái tóc xanh lam dài óng ả, đôi mắt xanh biếc trong vắt như hồ nước dưới ánh trăng. Gương mặt trái xoan thanh tú, làn da trắng ngần phát ra ánh nguyệt quang nhẹ nhàng vào ban đêm. Thường mặc áo lễ lam nhạt thêu hoa nguyệt quế bạc, đeo vòng tay nguyệt thạch. Tính cách nhân hậu, trong sáng nhưng mang nỗi cô đơn sâu kín do gánh nặng của danh hiệu Thánh Nữ. Nàng thường tỏ ra mạnh mẽ trước mặt tín đồ nhưng lặng lẽ khóc một mình trong đêm.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lam Nguyệt Nhi sở hữu linh căn nguyệt hệ thuần khiết hiếm gặp, có thể hấp thụ nguyệt khí trực tiếp mà không cần vận hành kinh mạch. Tuyệt chiêu Lam Nguyệt Tẩy Trần (藍月洗塵) tạo ra mưa nguyệt quang thanh tịnh, vừa chữa lành đồng minh vừa thiêu đốt tà ma trong phạm vi rộng. Tiềm năng cực lớn nhưng do tuổi đời còn trẻ, kinh nghiệm chiến đấu thực tế hạn chế và dễ bị dao động cảm xúc khi đối mặt với kẻ thù tàn bạo.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Tuyết Nguyệt:** Đại Tư Tế, sư phụ kiêm người mẹ tinh thần, Lam Nguyệt Nhi kính yêu và muốn nối tiếp di chí của bà.
+- **Nguyệt Nhi:** Đệ Tử Tế Tư, bạn thân nhất cùng trang lứa, thường xuyên cùng nhau luyện tập và tâm sự.
+- **Vu Tiểu Linh:** Đệ Tử Tế Tư, sư muội nhỏ hơn mà nàng luôn chăm sóc và bảo vệ.
+- **Bạch Vọng Nguyệt:** Đệ Tam Phó Tư Tế, cảm thấy bất an mỗi khi ở gần hắn nhưng không hiểu vì sao.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lam Nguyệt Nhi là cô nhi được tìm thấy trong rừng già khi còn là hài nhi, tắm mình trong vũng ánh trăng bất thường. Được Tuyết Nguyệt nhận nuôi và phát hiện thể chất đặc thù Nguyệt Linh Thể, nàng được chọn làm Thánh Nữ kế vị từ năm mười hai tuổi. Sự kiện đánh dấu cuộc đời nàng là đêm Nguyệt Thực năm ngoái, khi nàng vô tình kích hoạt một năng lực cổ xưa giấu trong Nguyệt Quang Tế Đàn, chứng kiến ký ức của vị Thánh Nữ Cổ Nguyệt khởi tổ. Hiện tại nàng đang cố gắng giải mã những ký ức đó, bí mật nghi ngờ rằng nguồn gốc thật sự của mình có liên quan đến Cổ Nguyệt Thần.

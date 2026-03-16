@@ -29,10 +29,12 @@ arcs:
 Tay chai vì dệt ti biển, khóc không còn nước mắt
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Thành viên của Giao Nhân Bần Dân, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 鲛殘絲·Bản Mệnh (鲛殘絲·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Giao Bạch Phát:** Trưởng Lão, đồng liêu quan trọng nhất trong Giao Nhân Bần Dân.
+- **Giao Hàn Sương Lệ:** Liên Lạc Viên, đối tác thường xuyên phối hợp.
+- **Giao Khổ Hải:** Thợ Dệt, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Giao Tàn Ty lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Giao Nhân Bần Dân. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Giao Nhân Bần Dân và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thợ Dệt.

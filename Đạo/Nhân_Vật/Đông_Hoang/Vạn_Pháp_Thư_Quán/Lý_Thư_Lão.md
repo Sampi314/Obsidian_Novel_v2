@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Quán Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lý Thư Lão là lão nhân nhỏ thó, lưng hơi còng, tóc bạc phơ, mắt nheo nheo sau cặp kính tròn cũ kỹ. Luôn mang theo cây gậy gỗ và cuốn sách cũ. Áo bào nâu giản dị, bụi sách phủ đầy vai. Tính cách bí ẩn, ít nói, nhưng mỗi lời đều sâu xa. Không ai biết lai lịch thật.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lý Thư Lão sở hữu tu vi Kim Đan Trung Kỳ (nghi ngờ ẩn giấu thực lực). Biết rất nhiều công pháp nhờ đọc hàng ngàn bí kíp nhưng không tinh thông cái nào. Kỹ năng đặc biệt: Vạn Pháp Nhận Biết (萬法認識) — nhìn qua liền biết công pháp đó thuộc hệ nào, cấp nào, có tàn khuyết không. Bố trí trận pháp phòng hỏa phòng ẩm bảo quản kho sách.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Trần Mặc Hương:** Phó Quán Chủ, tay phải đắc lực trong quản lý.
+- **Phạm Tiểu Thư:** Thủ Thư trẻ mà y đang đào tạo, coi như cháu gái.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Thư Lão (Thư Lão) xuất hiện ở rừng sâu Đông Hoang khoảng bốn trăm năm trước, bắt đầu thu thập bí kíp tàn khuyết. Không ai biết y đến từ đâu — có tin đồn thực ra y là Nguyên Anh bị tổn thương tu vi, ẩn thân dưới dạng Kim Đan. Dần dần tán tu biết tiếng, mang sách đến đổi chác. Trong kho có một cuốn bí kíp y khóa kín, không cho ai đọc — nghi là công pháp cấm thất truyền.

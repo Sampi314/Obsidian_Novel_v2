@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Dược Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phạm Giải Độc là thiếu nữ nhỏ nhắn, mặt non nớt nhưng đôi tay chai sần vì thường xuyên nghiền dược liệu. Tóc buộc cao gọn gàng, áo dược sư xanh nhạt, lưng đeo bình bầu chứa dung dịch giải độc. Tính cách trầm lặng, tỉ mỉ, dành phần lớn thời gian nghiên cứu phương thuốc giải.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phạm Giải Độc sở hữu Bách Độc Giải Phương (百毒解方) — kiến thức giải độc thu thập từ kinh nghiệm của hơn ba trăm nạn nhân, có thể sơ cứu hiệu quả hầu hết các loại độc phổ biến của Vạn Độc Môn. Không có khả năng chiến đấu, nhưng thuốc giải của y đã cứu sống hàng chục sinh mạng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lê Thiết Tâm:** Minh Chủ và ân nhân cứu mạng, Giải Độc nguyện dùng cả đời nghiên cứu phương thuốc để báo đáp.
+- **Trần Chính Khí:** Hộ vệ thường xuyên, hai người phối hợp ăn ý trong các nhiệm vụ thu thập dược liệu.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phạm Giải Độc là con gái một thầy thuốc bị Vạn Độc Môn giết chết khi từ chối hợp tác. Được Lê Thiết Tâm cứu sống khi còn nhỏ, y được nuôi dạy trong Phản Độc Minh. Thừa hưởng kiến thức y thuật từ cha và kết hợp với kinh nghiệm thực chiến của Minh, y trở thành Dược Sư giỏi nhất tổ chức. Ước mơ: tạo ra phương thuốc giải được Vạn Độc Phệ Tâm — loại độc mạnh nhất mà chưa ai giải được.

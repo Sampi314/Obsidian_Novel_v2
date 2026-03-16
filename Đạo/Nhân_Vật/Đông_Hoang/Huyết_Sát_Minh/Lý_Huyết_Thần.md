@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Minh Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thân hình vạm vỡ tráng kiện, gương mặt vuông vức đầy uy nghiêm. Giọng nói vang dội đầy sức thuyết phục. Tính cách hào sảng, trọng nghĩa khí, ghét sự bất công.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tinh thông công pháp trấn phái của Huyết Sát Minh, đạt cảnh giới đại thành. Tuyệt chiêu 李血神·Chấn Phái Quyết (李血神·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Huyết Yến:** Đường Chủ Tình Báo Đường, đồng liêu quan trọng nhất trong Huyết Sát Minh.
+- **Lê Huyết La:** Đường Chủ Sát Thủ Đường, đối tác thường xuyên phối hợp.
+- **Lý Huyết Vũ:** Sát Thủ Tinh Nhuệ, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lý Huyết Thần xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Huyết Sát Minh. Trải qua thử thách sinh tử, nàng gia nhập Huyết Sát Minh và dần khẳng định vị trí của mình. Với tu vi Luyện Hư Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Minh Chủ.

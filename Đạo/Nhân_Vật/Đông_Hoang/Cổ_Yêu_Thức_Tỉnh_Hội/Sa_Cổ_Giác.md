@@ -29,10 +29,12 @@ arcs:
 Thằn lằn cổ đại mới thức tỉnh, lạc lõng giữa thời đại
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tinh thông công pháp trấn phái của Cổ Yêu Thức Tỉnh Hội, đạt cảnh giới đại thành. Tuyệt chiêu 沙古覺·Chấn Phái Quyết (沙古覺·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hổ Viêm Cốt:** Thành Viên, đồng liêu quan trọng nhất trong Cổ Yêu Thức Tỉnh Hội.
+- **Mãng Thái Cổ Huyền:** Thành Viên, đối tác thường xuyên phối hợp.
+- **Quy Vạn Niên:** Phó Hội Trưởng, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Sa Cổ Giác vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Cổ Yêu Thức Tỉnh Hội. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Cổ Yêu Thức Tỉnh Hội và dần khẳng định vị trí của mình. Với tu vi Kim Đan Trung Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hội Trưởng.

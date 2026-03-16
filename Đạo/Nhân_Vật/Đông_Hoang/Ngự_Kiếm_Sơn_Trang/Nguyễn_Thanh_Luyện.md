@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Chân Truyền Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Nguyễn Thanh Luyện là thanh niên anh tuấn, da trắng sáng, mắt thanh tú chứa đựng sự tập trung cao độ. Luôn mặc áo đúc kiếm sư màu xám bạc, tay cầm búa luyện nhỏ như thói quen. Tính cách trầm lặng, chăm chỉ, ít giao tiếp xã hội, dành gần như toàn bộ thời gian trong lò đúc. Có tham vọng lớn nhưng giấu kín, kiên nhẫn chờ đợi thời cơ.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Nguyễn Thanh Luyện sở hữu Thanh Luyện Kiếm Pháp (青煉劍法) — kết hợp kỹ thuật đúc kiếm với kiếm thuật chiến đấu, mỗi đòn kiếm mang theo nhiệt lượng của lò đúc. Tuyệt kỹ Bách Luyện Thành Cương (百煉成鋼) tạm thời tăng cường độ cứng của phi kiếm lên gấp mười lần trong thời gian ngắn. Điểm mạnh là khả năng kết hợp đúc và chiến, vừa đánh vừa sửa chữa vũ khí; điểm yếu là thiếu kinh nghiệm thực chiến.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hoàng Thiên Hỏa:** Trưởng Lão bí mật kèm cặp kỹ thuật hỏa luyện, Thanh Luyện coi ông như sư phụ thứ hai.
+- **Phạm Phi Kiếm:** Trưởng Lão trực tiếp hướng dẫn, Thanh Luyện học được sự tỉ mỉ cầu toàn từ ông.
+- **Đặng Tiểu Kiếm:** Sư đệ đồng môn, hai người hay thi đua kiếm thuật, quan hệ vừa cạnh tranh vừa thân thiết.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Nguyễn Thanh Luyện gia nhập Ngự Kiếm Sơn Trang khi mười lăm tuổi, nhanh chóng thể hiện tài năng luyện khí xuất chúng. Được chọn làm chân truyền đệ tử, y âm thầm tu luyện đạt Kim Đan Hậu Kỳ trong khi đồng đạo cùng lứa còn ở Trúc Cơ. Tham vọng thầm kín của y là trở thành Trang Chủ tiếp theo, nhưng luôn giữ vẻ khiêm tốn để không gây nghi ngờ. Gần đây, y phát hiện một mảnh kiếm cổ trong lò đúc cũ, nghi ngờ đó là tàn dư liên quan đến Thần Kiếm Phôi.

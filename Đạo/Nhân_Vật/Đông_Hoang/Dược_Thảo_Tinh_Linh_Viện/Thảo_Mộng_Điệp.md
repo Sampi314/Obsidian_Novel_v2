@@ -29,10 +29,12 @@ arcs:
 Dùng bướm truyền phấn hoa để nhân giống linh thảo
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Đang tu luyện công pháp cơ bản của Dược Thảo Tinh Linh Viện, tiềm năng phát triển lớn. Chiêu thức 草夢蝶·Sơ Thức (草夢蝶·初式) tuy đơn giản nhưng nền tảng vững chắc. Tu vi còn thấp nên chủ yếu hỗ trợ và học hỏi từ tiền bối.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Thảo Hàn Lộ:** Đệ Tử, đồng liêu quan trọng nhất trong Dược Thảo Tinh Linh Viện.
+- **Thảo Linh:** Dược Sư, đối tác thường xuyên phối hợp.
+- **Thảo Ngọc:** Đệ Tử, mối quan hệ tin cậy lẫn nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Thảo Mộng Điệp sinh ra trong một gia đình Tinh Linh Tộc bình thường, sớm thể hiện tư chất phù hợp với Dược Thảo Tinh Linh Viện. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Dược Thảo Tinh Linh Viện và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Đệ Tử.

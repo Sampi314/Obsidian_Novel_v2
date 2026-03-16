@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão Hoa Linh Đường.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phụ nữ trung niên nhan sắc thanh nhã với làn da hồng hào khỏe mạnh, mái tóc nâu buộc gọn cài trâm lan. Luôn mặc áo lục nhạt của Hoa Linh Đường. Tính cách hiền hậu, nhẫn nại, giỏi chăm sóc người khác. Là người phụ nữ đáng tin cậy nhất trong cốc.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên gia trị liệu hàng đầu, tinh thông Bách Hoa Linh Sương Thuật (百花靈霜術) chữa trị mọi thương tích bằng tinh chất hoa. Tuyệt chiêu Tú Lan Hồi Xuân (秀蘭回春) có thể hồi phục nguyên khí cho tu sĩ kiệt lực. Chiến đấu không phải sở trường nhưng có khả năng phòng thủ và hỗ trợ đồng đội xuất sắc.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Hoa Nguyệt:** Cốc Chủ, sư muội mà bà hết lòng phò tá.
+- **Trần Bách Liên:** Thái Thượng Trưởng Lão, sư phụ mà bà tôn kính.
+- **Hoàng Tiểu Đào:** Đệ tử nhỏ tuổi mà bà yêu quý và dạy dỗ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Phạm Tú Lan gia nhập Bách Hoa Cốc từ nhỏ, vốn là trẻ mồ côi được Trần Bách Liên đưa về nuôi dưỡng. Bà thể hiện thiên phú trị liệu vượt trội, sớm được giao quản lý Hoa Linh Đường. Dưới sự điều hành của bà, danh tiếng trị liệu của Bách Hoa Cốc vang xa khắp lục địa. Hiện tại bà đang nghiên cứu phương pháp chữa trị Hàn Độc Tuyệt Mạch — một loại kịch độc mà Hợp Hoan Tông thường dùng hại nữ tu sĩ.

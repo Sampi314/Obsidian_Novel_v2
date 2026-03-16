@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Phụ nữ trung niên mạnh mẽ với dáng vóc cao ráo, mái tóc đen ngắn thực dụng, gương mặt cương nghị. Luôn mặc giáp nhẹ thêu hoa cúc trên vai. Tính cách thẳng thắn, quyết đoán, không ưa vòng vo. Là trụ cột quân sự của Bách Hoa Cốc.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Chuyên gia Linh Hoa Kiếm Quyết phái chiến đấu, thanh kiếm của bà có thể hóa thành vạn cánh cúc sắc bén. Tuyệt chiêu Vũ Cúc Phong Bạo (雨菊風暴) triệu hồn bão cánh cúc kim loại cuốn phăng mọi thứ. Cân bằng giữa tấn công và phòng thủ, nhưng thiếu tính linh hoạt khi đối mặt chiến thuật bất ngờ.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lý Hoa Nguyệt:** Cốc Chủ, đồng liêu mà bà bảo vệ bằng cả tính mạng.
+- **Trần Bách Liên:** Thái Thượng Trưởng Lão, sư phụ dạy kiếm thuật.
+- **Lê Thanh Mai:** Chưởng Quản Đệ Tử, hậu bối mà bà kỳ vọng lớn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Nguyễn Vũ Cúc gia nhập Bách Hoa Cốc không phải vì yêu hoa mà vì muốn trả thù cho mẹ — một nữ tu sĩ bị Hợp Hoan Tông bắt cóc. Bà dùng kiếm thuật hoa để chiến đấu thay vì trị liệu, trở thành trưởng lão quân sự hiếm hoi của cốc. Nhiều lần đích thân dẫn quân đánh chặn gián điệp Hợp Hoan Tông xâm nhập thung lũng. Mục tiêu duy nhất là tiêu diệt Hợp Hoan Tông, đôi khi sự cuồng nhiệt này khiến bà xung đột với đường lối ôn hòa của Cốc Chủ.
