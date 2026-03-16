@@ -26,13 +26,19 @@ arcs:
 - **Chức Vụ:** Phó Đàn.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+- Kích thước khổng lồ chỉ xếp sau Nguyệt Quang, thân thể trong suốt phát ra ánh sáng trắng tinh khiết, không chói lóa nhưng có khả năng soi rọi những tầng biển sâu tối tăm nhất.
+- Tính cách điềm đạm, vững chãi, hiếm khi tỏ ra nôn nóng, luôn là chỗ dựa vững chắc cho cả đàn sứa mỗi khi đối mặt với biển động.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+- Không có khả năng tấn công chủ động mạnh mẽ nhưng sở hữu thiên phú phòng ngự xuất sắc, giúp bảo vệ các ấu trùng yếu ớt.
+- **Bạch Quang Hộ Trận (白光护阵):** Khi tụ lực, ánh sáng trắng ngưng kết thành một lớp màng phòng ngự vô hình, có thể chặn đứng những luồng hải lưu xiết hoặc đòn tấn công từ dã thú nhỏ.
+- **Minh Quang Thiểm (明光闪):** Có khả năng bùng phát ánh sáng chói lóa trong chớp mắt, gây mù tạm thời cho những kẻ địch đang bám đuổi, tạo cơ hội cho cả đàn chạy trốn.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Nguyệt Quang:** Tuyệt đối trung thành và kính trọng Đàn Mẫu, luôn phối hợp nhịp nhàng với ánh sáng bạc để điều hướng bầy đàn.
+- **Trùng Hồng Diệm:** Thường xuyên phải "dọn dẹp hậu quả" cho những lần kích động bốc đồng của Hồng Diệm, coi đối phương như một đứa em nhỏ cần được bảo vệ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+- Là một trong những ấu trùng lứa đầu tiên được Nguyệt Quang ấp nở và bảo bọc sau cuộc thảm sát của Hải Thần Cung, Bạch Quang thấu hiểu được giá trị của sự sinh tồn.
+- Qua nhiều năm tháng bôn ba trong những dòng hải lưu phức tạp của Vô Tận Hải, nó đã tích lũy kinh nghiệm phong phú về việc né tránh những vòng xoáy chết người.
+- Khi Nguyệt Quang suy yếu hoặc cần tập trung năng lượng để đối phó với kẻ thù mạnh, Bạch Quang tự động tiếp quản vai trò duy trì sự ổn định của cả đàn, trở thành mỏ neo tinh thần thứ hai.

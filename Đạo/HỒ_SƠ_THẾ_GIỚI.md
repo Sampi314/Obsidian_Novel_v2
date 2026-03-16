@@ -447,6 +447,7 @@
     - [San Hô Đảo Quốc](Thế_Lực/San_Hô_Đảo_Quốc.md)
     - [Vực Thẳm Ma Cung](Thế_Lực/Vực_Thẳm_Ma_Cung.md)
     - [Cự Kình Bảo](Thế_Lực/Cự_Kình_Bảo.md)
+    - [Thủy Mẫu Trùng Đàn](Thế_Lực/Thủy_Mẫu_Trùng_Đàn.md) (Gồm Nguyệt Quang, Trùng Bạch Quang, Trùng Hồng Diệm)
     - [Hải Yêu Mê Cung](Thế_Lực/Hải_Yêu_Mê_Cung.md)
     - [Giao Nhân Tộc Liên Minh](Thế_Lực/Giao_Nhân_Tộc_Liên_Minh.md)
     - [Thủy Kiếm Đảo](Thế_Lực/Thủy_Kiếm_Đảo.md)
