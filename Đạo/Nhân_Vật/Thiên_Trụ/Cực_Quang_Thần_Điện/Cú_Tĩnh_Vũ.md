@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Mưu Sĩ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Im lặng như cú đêm, mỗi kế sách đều giết người không dao
+Im lặng như cú đêm, mỗi kế sách đều giết người không dao. Cú Tĩnh Vũ có ngoại hình gầy gò, khoác chiếc áo choàng lông vũ xám tro tệp màu với bầu trời xám xịt của Bắc Băng. Đôi mắt sắc lẹm, sáng rực như đuốc trong bóng tối, là thứ duy nhất phát sáng trên gương mặt luôn che nửa phần dưới. Tính cách của hắn trầm mặc, tính toán đến mức tàn nhẫn, luôn tìm kiếm điểm yếu chết người của địch thủ. Hắn hiện diện lặng lẽ như cái bóng, một mưu sĩ đầy sát khí mà không ai dám lại gần.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phong cách chiến đấu của Cú Tĩnh Vũ dựa trên ám sát, sử dụng ảo ảnh ánh sáng khúc xạ kết hợp với độc từ hàn băng. Tuyệt kỹ **"Ám Quang Vô Ảnh Đoạt Mệnh" (暗光无影夺命)** sử dụng các hạt băng nhỏ lơ lửng, tạo ra vô số ảo ảnh, khi kẻ thù hoang mang, một cây quang trượng ẩn giấu trong bóng tối sẽ đâm xuyên yết hầu. Hắn cũng thành thạo **"Huyễn Cảnh Quang Minh" (幻境光明)**, dùng ánh sáng lạnh thâm nhập trí óc, thiêu đốt linh hồn kẻ địch mà cơ thể bên ngoài không một vết thương.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Đại Tế Tư Ánh Sáng:** Báo cáo trực tiếp và là cánh tay phải đắc lực của Đại Tế Tư, chuyên xử lý những nhiệm vụ trong bóng tối.
+- **Bằng Vạn Lý:** Đồng minh ngoài sáng - trong tối, nhưng luôn mâu thuẫn về phương pháp. Hắn coi Vạn Lý là tên hữu dũng vô mưu, dù đôi khi cần sức mạnh càn quét của Vạn Lý.
+- **Hạc Minh Nguyệt:** Cảm thấy năng lực âm nhạc của nàng là một biến số khó đoán, luôn âm thầm giám sát để chắc chắn nàng không phản bội thần điện.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Bị bộ lạc Vũ Tộc gốc của mình xa lánh vì đôi mắt có thể nhìn thấu sự thật và tâm can người khác, Cú Tĩnh Vũ đã bỏ trốn lên vùng cực Bắc lạnh giá. Trong cơn đói rét, hắn nhận ra ánh sáng không phải lúc nào cũng mang hơi ấm, mà còn là công cụ thao túng. Hắn gia nhập Tế Tư Viện của Cực Quang Thần Điện, không ngừng cung cấp những mưu kế thâm độc giúp thanh trừng các phe phái đối lập, nâng cao vị thế của Đại Tế Tư. Hiện tại, hắn là người điều khiển Mật Thám Tín Ngưỡng, cài cắm tay trong khắp Bắc Băng.

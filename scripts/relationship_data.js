@@ -2,6 +2,39 @@ const relationshipData = {
   // Danh sách nhân vật (nodes)
   "characters": [
     {
+      "id": "bang_van_ly",
+      "name": "Bằng Vạn Lý",
+      "title": "Tiên Phong Tướng",
+      "realm": "Nguyên Anh",
+      "faction": "Cực Quang Thần Điện",
+      "region": "Thiên Trụ",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#d3d3d3"
+    },
+    {
+      "id": "cu_tinh_vu",
+      "name": "Cú Tĩnh Vũ",
+      "title": "Mưu Sĩ",
+      "realm": "Nguyên Anh",
+      "faction": "Cực Quang Thần Điện",
+      "region": "Thiên Trụ",
+      "role": "villain",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "hac_minh_nguyet",
+      "name": "Hạc Minh Nguyệt",
+      "title": "Nhạc Sĩ",
+      "realm": "Kim Đan",
+      "faction": "Cực Quang Thần Điện",
+      "region": "Thiên Trụ",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ffffff"
+    },
+    {
       "id": "hac_phong",
       "name": "Hắc Phong",
       "title": "Cốc Chủ",
@@ -346,6 +379,42 @@ const relationshipData = {
 
   // Danh sách quan hệ (edges)
   "relationships": [
+    {
+      "source": "Bằng Vạn Lý",
+      "target": "Cú Tĩnh Vũ",
+      "description": "Không cùng chí hướng, coi thường mưu kế hèn hạ",
+      "type": "neutral"
+    },
+    {
+      "source": "Bằng Vạn Lý",
+      "target": "Hạc Minh Nguyệt",
+      "description": "Nể trọng y thuật chữa lành",
+      "type": "positive"
+    },
+    {
+      "source": "Cú Tĩnh Vũ",
+      "target": "Bằng Vạn Lý",
+      "description": "Coi là kẻ hữu dũng vô mưu",
+      "type": "neutral"
+    },
+    {
+      "source": "Cú Tĩnh Vũ",
+      "target": "Hạc Minh Nguyệt",
+      "description": "Theo dõi khả năng phản bội thần điện",
+      "type": "negative"
+    },
+    {
+      "source": "Hạc Minh Nguyệt",
+      "target": "Bằng Vạn Lý",
+      "description": "Chữa trị nhưng không thích sự hung tàn",
+      "type": "neutral"
+    },
+    {
+      "source": "Hạc Minh Nguyệt",
+      "target": "Cú Tĩnh Vũ",
+      "description": "E ngại sự giám sát thâm độc",
+      "type": "negative"
+    },
     {
       "source": "Giao Bạch Ngọc",
       "target": "Giao Thiên Lệ Nguyệt",
