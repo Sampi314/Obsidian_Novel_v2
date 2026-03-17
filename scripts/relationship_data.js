@@ -975,3 +975,39 @@ if (typeof relationships !== 'undefined') {
         { source: "Hải Cung", target: "Lý Tuyết Ưng", type: "Cảnh Giác", description: "Nhận thấy ý chí rực cháy của Lý Tuyết Ưng có thể phá vỡ huyễn cảnh băng giá." }
     );
 }
+
+// Tán Tu (Tây Mạc)
+if (typeof characterData !== 'undefined') {
+    characterData["Hắc Sa"] = {
+        name: "Hắc Sa",
+        faction: "Tán Tu",
+        realm: "Trúc Cơ Viên Mãn",
+        description: "Tán tu mang dòng máu Bán Cự xảo quyệt, am hiểu địa hình ngầm và thiết lập cạm bẫy sập hầm.",
+        image: ""
+    };
+    characterData["Khô Giáp Lão"] = {
+        name: "Khô Giáp Lão",
+        faction: "Tán Tu",
+        realm: "Kim Đan Hậu Kỳ",
+        description: "Yêu thú Trùng Tộc dưới hình hài bọ hung khổng lồ, thường giả chết chờ con mồi sập bẫy.",
+        image: ""
+    };
+    characterData["Oanh Minh Sa"] = {
+        name: "Oanh Minh Sa",
+        faction: "Tán Tu",
+        realm: "Kim Đan Sơ Kỳ",
+        description: "Yêu thú Vũ Tộc mang hình dáng chim oanh hiền hòa, dùng tiếng hót để dẫn đường và báo động cho lữ khách.",
+        image: ""
+    };
+}
+
+if (typeof relationships !== 'undefined') {
+    relationships.push(
+        { source: "Hắc Sa", target: "Khô Giáp Lão", type: "Cảnh Giác", description: "Thường đi theo nhặt mót nhưng luôn sợ bị nuốt chửng." },
+        { source: "Khô Giáp Lão", target: "Hắc Sa", type: "Khinh Thường", description: "Coi Hắc Sa như rệp nhặt mót, nhưng lười không buồn giết." },
+        { source: "Hắc Sa", target: "Oanh Minh Sa", type: "Kẻ Thù", description: "Căm ghét vì Oanh Minh Sa hay cảnh báo làm hỏng các bẫy sập." },
+        { source: "Oanh Minh Sa", target: "Hắc Sa", type: "Đề Phòng", description: "Thường xuyên phá rối và cảnh báo lữ khách né bẫy của Hắc Sa." },
+        { source: "Oanh Minh Sa", target: "Khô Giáp Lão", type: "Sợ Hãi", description: "Luôn phải bay cao tránh lực hút tử thần của con quái vật này." },
+        { source: "Khô Giáp Lão", target: "Oanh Minh Sa", type: "Săn Mồi", description: "Luôn chực chờ cơ hội nuốt chửng con chim hay phá đám bữa ăn của mình." }
+    );
+}

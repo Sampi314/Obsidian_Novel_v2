@@ -10,5 +10,5 @@
 - TODO phiên tiếp theo: Tiếp tục viết chương 125, 126, 127, 128... cho Góc Nhìn Lâm Phong. Nhóm liên minh khám phá sâu hơn Hoàng Sa Địa Cung, giải quyết hậu quả của Kẻ Gác Cổng và đối mặt với thực thể phong ấn thực sự hoặc thoát khỏi phế tích.
 
 ## PHIÊN GẦN NHẤT
-- Hoàn thành Task 9 cho 3 nhân vật của Phiêu Miễu Băng Hải (Bắc Băng): Băng San Hô, Hàn Thanh Âm, Hải Cung.
+- Hoàn thành Task 9 cho 3 nhân vật Tán Tu (Tây Mạc): Hắc Sa, Khô Giáp Lão, Oanh Minh Sa.
 - Cập nhật INSTRUCTIONS, HỒ_SƠ_THẾ_GIỚI, BÁO_CÁO_CHẤT_LƯỢNG, và relationship_data.
