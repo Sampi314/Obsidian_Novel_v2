@@ -759,4 +759,31 @@ if (typeof characterData !== 'undefined') {
         description: "Đốm lửa nhỏ linh hoạt, trẻ con nhưng dũng cảm, mơ ước tiến ra thế giới tìm nguồn lửa mới cho bộ tộc.",
         image: ""
     };
+
+    // Cổ Nham Bộ Lạc (Tây Mạc)
+    characterData["Nham Tĩnh"] = {
+        name: "Nham Tĩnh",
+        faction: "Cổ Nham Bộ Lạc",
+        realm: "Trúc Cơ Trung Kỳ",
+        description: "Tế Tư trầm mặc, thiền định ngộ đạo từ sự im lặng của trầm tích nham.",
+        image: ""
+    };
+    characterData["Xích Nham"] = {
+        name: "Xích Nham",
+        faction: "Cổ Nham Bộ Lạc",
+        realm: "Trúc Cơ Hậu Kỳ",
+        description: "Thủ Vệ Trưởng dũng mãnh, sử dụng Xích Luyện Thạch Phủ canh giữ con đường lên đỉnh thiêng.",
+        image: ""
+    };
+}
+
+if (typeof relationships !== 'undefined') {
+    relationships.push(
+        { source: "Nham Tĩnh", target: "Bàn Thạch", type: "Kính Trọng", description: "Âm thầm ủng hộ và chia sẻ gánh nặng với Đại Tế Tư." },
+        { source: "Nham Tĩnh", target: "Nham Linh", type: "Lắng Nghe", description: "Người duy nhất lắng nghe mọi ý tưởng điên rồ của nàng." },
+        { source: "Nham Tĩnh", target: "Nham Cốt", type: "Đồng Liêu", description: "Tôn trọng lòng trung thành nhưng giữ khoảng cách với sự bảo thủ." },
+        { source: "Xích Nham", target: "Bàn Thạch", type: "Trung Thành", description: "Thủ vệ trung thành nhất, thề nguyện bảo vệ bằng cả sinh mạng." },
+        { source: "Xích Nham", target: "Nham Cốt", type: "Chiến Hữu", description: "Đồng tâm hiệp lực trong việc bảo vệ bộ lạc khỏi ngoại đạo." },
+        { source: "Xích Nham", target: "Nham Linh", type: "Nghi Ngờ", description: "Cho rằng nàng quá yếu đuối và có nhiều ý nghĩ kỳ quái." }
+    );
 }
