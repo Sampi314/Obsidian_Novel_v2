@@ -100,6 +100,9 @@
 - **Giao Bích Hải:** Dệt Sư của Giao Nhân Tộc Liên Minh. Tính cách tĩnh lặng, sử dụng Lụa Vân và dòng chảy để tạo bẫy rập.
 - **Giao Băng Ngọc Tâm:** Trưởng Lão 800 tuổi của Giao Nhân Tộc Liên Minh. Mang vẻ đẹp lão suy, tinh thông trận pháp Thượng Cổ Thủy Diệu Trận.
 - **Giao Bạch Lệ Hoa:** Mưu Sĩ của Giao Nhân Tộc Liên Minh. Sắc sảo, tàn nhẫn, sử dụng huyễn thuật và mưu kế để chống lại ngoại xâm.
+- **Linh Thâm Nguyệt (Trưởng Lão Quan Sát):** Vi Tộc (Thâm Hải Vi Linh), Kim Đan. Sở hữu con mắt nhìn thấu Vực Thẳm Vạn Trượng. Trầm tĩnh, nhạy bén.
+- **Linh Tiểu Uyên (Đệ Tử Thâm Hải):** Vi Tộc (Thâm Hải Vi Linh), Luyện Khí. Non nớt, tò mò nhưng nhút nhát trước sự rộng lớn của Vô Tận Hải.
+- **Linh Trầm Uyên (Thu Thập Viên):** Vi Tộc (Thâm Hải Vi Linh), Trúc Cơ. Chuyên thu thập tàn tích và khoáng sản từ mặt biển rơi xuống, rắn rỏi và cần mẫn.
 - **Đan Dương Tử (Hỏa Long Tôn Giả):** Cốc Chủ Đan Hà Cốc, Hóa Thần Sơ Kỳ. Đệ nhất đan sư Nam Cương, tính cách nóng nảy nhưng sòng phẳng. Sở hữu *Cửu Chuyển Đan Hỏa Quyết*.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/Đan_Dương_Tử.md`.
 - **Độc Cô Lão Quái (Vạn Độc Ma Quân):** Môn Chủ Vạn Độc Môn, Hóa Thần Sơ Kỳ. Tính cách tàn nhẫn, đa nghi, chuyên dùng độc và cổ trùng. Sở hữu *Vạn Độc Chân Kinh*.

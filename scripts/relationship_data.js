@@ -2,6 +2,39 @@ const relationshipData = {
   // Danh sách nhân vật (nodes)
   "characters": [
     {
+      "id": "linh_tham_nguyet",
+      "name": "Linh Thâm Nguyệt",
+      "title": "Trưởng Lão Quan Sát",
+      "realm": "Kim Đan",
+      "faction": "Thâm Hải Vi Linh",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#1e3a8a"
+    },
+    {
+      "id": "linh_tieu_uyen",
+      "name": "Linh Tiểu Uyên",
+      "title": "Đệ Tử Thâm Hải",
+      "realm": "Luyện Khí",
+      "faction": "Thâm Hải Vi Linh",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#3b82f6"
+    },
+    {
+      "id": "linh_tram_uyen",
+      "name": "Linh Trầm Uyên",
+      "title": "Thu Thập Viên",
+      "realm": "Trúc Cơ",
+      "faction": "Thâm Hải Vi Linh",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#4338ca"
+    },
+    {
       "id": "a_ngoc",
       "name": "A Ngốc",
       "title": "Hồn Nhiên Tử",
