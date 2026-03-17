@@ -947,6 +947,29 @@ if (typeof characterData !== 'undefined') {
         description: "Cung Chủ thoát tục và lạnh lùng, nắm giữ bản nhạc Trần Thế Chủng để đối phó đại kiếp.",
         image: ""
     };
+
+    // Bách Bảo Các (Thiên Trụ)
+    characterData["Lý Minh Châu"] = {
+        name: "Lý Minh Châu",
+        faction: "Bách Bảo Các",
+        realm: "Nguyên Anh Sơ Kỳ",
+        description: "Giám Định Viện Chủ, quý phu nhân đài các với đôi mắt phượng nhìn thấu vạn vật.",
+        image: ""
+    };
+    characterData["Châu Thương"] = {
+        name: "Châu Thương",
+        faction: "Bách Bảo Các",
+        realm: "Kim Đan Viên Mãn",
+        description: "Đấu Giá Đường Chủ, thân hình béo phốt pháp, mưu trí thao túng đám đông xuất sắc.",
+        image: ""
+    };
+    characterData["Hứa Ngọc"] = {
+        name: "Hứa Ngọc",
+        faction: "Bách Bảo Các",
+        realm: "Kim Đan Trung Kỳ",
+        description: "Giám Định Sư, thư sinh giảo hoạt chuyên hoạt động hai mang tại vùng biên viễn.",
+        image: ""
+    };
 }
 
 if (typeof relationships !== 'undefined') {
@@ -973,6 +996,13 @@ if (typeof relationships !== 'undefined') {
         { source: "Băng San Hô", target: "Hàn Thanh Âm", type: "Đồng Liêu", description: "Phối hợp ăn ý, dùng dược liệu gia tăng uy lực tiếng đàn." },
         { source: "Hàn Thanh Âm", target: "Sở Lăng Sương", type: "Khinh Thường", description: "Cho rằng lối đánh trực diện của Lăng Sương thiếu tinh tế nghệ thuật." },
         { source: "Hải Cung", target: "Lý Tuyết Ưng", type: "Cảnh Giác", description: "Nhận thấy ý chí rực cháy của Lý Tuyết Ưng có thể phá vỡ huyễn cảnh băng giá." }
+    );
+    relationships.push(
+        { source: "Lý Minh Châu", target: "Châu Thương", type: "Đồng Liêu", description: "Hợp tác làm ăn nhưng luôn ngầm cạnh tranh ảnh hưởng trước mặt Các Chủ." },
+        { source: "Châu Thương", target: "Lý Minh Châu", type: "Hợp Tác", description: "Phụ thuộc vào sự thẩm định chính xác của Viện Chủ để đảm bảo giá trị hàng đấu giá." },
+        { source: "Lý Minh Châu", target: "Hứa Ngọc", type: "Cấp Trên", description: "Biết Hứa Ngọc hai mặt nhưng vẫn trọng dụng vì tài tình báo và giám định." },
+        { source: "Hứa Ngọc", target: "Lý Minh Châu", type: "Cấp Dưới", description: "Kính nể và tuyệt đối phục tùng người duy nhất nhìn thấu mình." },
+        { source: "Hứa Ngọc", target: "Lâm Phong", type: "Kẻ Thù", description: "Ôm hận vì từng bị Lâm Phong phá hỏng kế hoạch làm 'bia đỡ đạn' tại Tây Mạc." }
     );
 }
 
