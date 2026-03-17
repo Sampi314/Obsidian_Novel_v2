@@ -18,6 +18,7 @@
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Cự Linh Tông (Bắc Băng): Nham Chấn Nhạc, Nham Hồng Hoang, Nham Kình Thiên. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 2 nhân vật Cổ Nham Bộ Lạc (Tây Mạc): Nham Tĩnh, Xích Nham. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Thần Cung Môn (Tây Mạc): Phạm Nhất Tiễn, Tiễn Linh Phong, Tiễn Phá Không. Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Phong Sát Cốc (Tây Mạc): Hắc Phong, Huyết Phong, Hắc Sa. Cập nhật data JSON, HỒ_SƠ_THẾ_GIỚI.md và INSTRUCTIONS.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hỏa Yêu Tàn Đoàn (Tây Mạc): Hỏa Nham Dung, Hỏa Thiên Viêm Sơn, Hỏa Tinh. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Băng Lang Bộ Lạc: Lang Bạch Sương, Lang Bạo Phong, Lang Cô Hàn. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hắc Tinh Linh Lưu Đày: Ám Diệp, Ám Dạ Hành, Ám Huyết. Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |

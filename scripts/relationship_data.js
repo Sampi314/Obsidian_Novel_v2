@@ -2,6 +2,39 @@ const relationshipData = {
   // Danh sách nhân vật (nodes)
   "characters": [
     {
+      "id": "hac_phong",
+      "name": "Hắc Phong",
+      "title": "Cốc Chủ",
+      "realm": "Nguyên Anh",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "villain",
+      "pov": false,
+      "avatar_color": "#000000"
+    },
+    {
+      "id": "huyet_phong",
+      "name": "Huyết Phong",
+      "title": "Hộ Pháp",
+      "realm": "Nguyên Anh",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "villain",
+      "pov": false,
+      "avatar_color": "#8b0000"
+    },
+    {
+      "id": "hac_sa",
+      "name": "Hắc Sa",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Kim Đan",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#2f4f4f"
+    },
+    {
       "id": "linh_tham_nguyet",
       "name": "Linh Thâm Nguyệt",
       "title": "Trưởng Lão Quan Sát",
@@ -247,6 +280,30 @@ const relationshipData = {
 
   // Danh sách quan hệ (edges)
   "relationships": [
+    {
+      "source": "Hắc Phong",
+      "target": "Huyết Phong",
+      "description": "Là Cốc Chủ và Hộ Pháp. Bề ngoài tin tưởng để sai sử, nhưng Hắc Phong luôn phòng bị con sói này.",
+      "type": "negative"
+    },
+    {
+      "source": "Huyết Phong",
+      "target": "Hắc Phong",
+      "description": "Tạm thời thần phục vì sức mạnh áp đảo của Hắc Phong.",
+      "type": "neutral"
+    },
+    {
+      "source": "Huyết Phong",
+      "target": "Hắc Sa",
+      "description": "Xem Hắc Sa như một tay sai hữu dụng cho các nhiệm vụ bẩn thỉu.",
+      "type": "positive"
+    },
+    {
+      "source": "Hắc Sa",
+      "target": "Hắc Phong",
+      "description": "Nịnh nọt và sợ hãi Cốc Chủ, khao khát được truyền dạy Hắc Sa Phù.",
+      "type": "neutral"
+    },
     {
       "source": "Cung Tuyệt Trần",
       "target": "Tiễn Vô Song",
