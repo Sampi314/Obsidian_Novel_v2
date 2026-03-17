@@ -616,3 +616,8 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Khu vực**: Băng Ngục Thành, Bắc Băng
 - **Diễn biến**: Tổ chức Huyết Sát Minh từ Nam Cương âm thầm thâm nhập Bắc Băng, sử dụng Huyết Tinh Sa và máu của tội nhân trong Băng Ngục Thành để tạo ra "Huyết Trì". Mục đích của chúng là kích hoạt trận pháp truyền tống quy mô lớn nối liền Nam Cương và Bắc Băng. Băng Sương Tử Độc trong cơ thể Sở Lăng Sương trở thành vũ khí sắc bén nhất của nàng trong quá trình phá hủy Huyết Trì. Cùng lúc đó, Triệu Thanh Hằng, sau khi giải quyết ân oán cũ, đã lần theo dấu vết Huyết Độc lan tràn và tham gia vào cuộc hỗn chiến bảo vệ Băng Ngục Thành. Nàng đã dùng "Lãnh Phong Kiếm Quyết" dọn dẹp các chốt chặn ngoại vi, giải cứu các tán tu, và có một trận chiến sinh tử với chỉ huy Huyết Vệ Trúc Cơ Viên Mãn, tự ngộ ra chiêu thức mới "Tuyệt Băng Diệt Sát".
 - **Kết quả**: Sở Lăng Sương đơn thương độc mã phá vây và đả thương một cao thủ Nguyên Anh, nhưng bị phản phệ độc tính trọng thương. Cuối cùng, Lý Tuyết Ưng (vừa đột phá Hóa Thần) giáng lâm, dùng Băng Tâm uy áp đóng băng Huyết Trì, tiêu diệt toàn bộ lực lượng Huyết Sát Minh tại đây. Lý Tuyết Ưng chính thức thu nạp Sở Lăng Sương và mời Triệu Thanh Hằng làm khách khanh, tạo ra những thanh kiếm tiên phong bảo vệ Bắc Băng.
+
+### Giao Nhân Tộc Liên Minh (Vô Tận Hải)
+- **Ba Nguyệt Hà (Viện Chủ):** Bậc thầy dệt Lụa Vân, thanh tao u buồn, đóng vai trò quan trọng trong đối ngoại và kinh tế.
+- **Ba Ngọc Hàn (Đội Trưởng Hải Ba Vệ):** Chiến binh nóng nảy, mang mối hận sâu sắc với những kẻ săn trộm Giao Nhân, dũng mãnh bảo vệ liên minh.
+- **Ba Thiên Lệ (Trưởng Lão):** Kỳ cựu trầm mặc, biến nỗi bi thương thành sức mạnh trị liệu và phòng ngự, là tiếng nói khôn ngoan của liên minh.
