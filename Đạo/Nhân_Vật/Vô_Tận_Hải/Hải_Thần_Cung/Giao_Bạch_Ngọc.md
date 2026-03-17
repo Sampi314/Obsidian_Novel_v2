@@ -26,13 +26,14 @@ arcs:
 - **Chức Vụ:** Dệt Sư Trưởng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Dệt ti biển thành lụa thần, quý hơn vàng
+Nàng mang vẻ đẹp thanh khiết của trân châu, với mái tóc trắng buông dài óng ả như lụa và làn da phát ra ánh sáng bàng bạc dịu nhẹ của biển đêm. Đôi mắt nàng tĩnh lặng và chăm chú, đôi tay thon dài lúc nào cũng thoăn thoắt dệt những sợi tơ vô hình. Tính cách Bạch Ngọc cẩn trọng, tỉ mỉ và yêu thích sự hoàn mỹ, luôn dành toàn bộ tâm trí vào khung cửi hơn là những tranh đoạt quyền lực bên ngoài cung điện.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Sở trường của nàng không nằm ở chiến đấu trực diện mà là khả năng thao túng linh lực hệ thủy để dệt thành trận pháp hoặc phòng ngự. Bằng tuyệt kỹ *Hải Tịch Thiên Ti*, nàng có thể biến nước biển thành những sợi tơ linh hoạt, bén như dao cạo để trói buộc hoặc cắt nát kẻ thù xâm phạm xưởng dệt. Bộ pháp *Lưu Thủy Tầm Ti* giúp nàng lướt đi nhẹ nhàng giữa chiến trường như một dải lụa mỏng.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Giao Thiên Lệ Nguyệt:** Bạn tâm giao và là đối tác ăn ý trong xưởng dệt. Bạch Ngọc thường dùng ngọc trai của Lệ Nguyệt để khảm lên những tấm lụa quý giá nhất.
+- **Giao Nguyệt Hàn:** Kính trọng vị Tế Tư này nhưng cũng e ngại sự lạnh lẽo, sâu thẳm phát ra từ ngài.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Bạch Ngọc xuất thân từ một nhánh Giao Nhân nhỏ bé chuyên nghề dệt lưới, nhưng nhờ thiên phú cảm ngộ dòng chảy và linh lực từ bé, nàng được triệu vào Thủy Tinh Cung. Bằng đôi bàn tay tài hoa, nàng đã dệt nên tấm "Thủy Tinh Khải" hoàn mỹ dâng lên Hải Đế, từ đó được thăng làm Dệt Sư Trưởng. Hiện tại, nàng đang dốc sức nghiên cứu một loại tơ linh lực mới có khả năng chống lại sự ăn mòn của Huyết Thần Độc đang manh nha lan xuống Vô Tận Hải.
