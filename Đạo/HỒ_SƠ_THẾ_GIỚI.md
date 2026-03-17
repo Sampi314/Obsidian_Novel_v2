@@ -597,6 +597,10 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Phạm Nhất Tiễn (Xạ Thủ Chân Truyền)**: Thanh niên sát thủ cao gầy với tuyệt kỹ "Nhất Tiễn Định Hồn", tuân thủ nguyên tắc "tên đã bắn ra, sinh tử định đoạt", chuyên thực hiện các nhiệm vụ ám sát thủ lĩnh Sa Tặc.
   - **Tiễn Linh Phong (Trưởng Lão Chấp Sự Tình Báo)**: Trưởng lão giảo hoạt chuyên mượn sức gió để điều khiển mũi tên "Linh Phong Phi Tiễn" và thu thập tình báo qua "Lưu Ảnh Phong Tức", điều hành mạng lưới Truy Phong Đội.
   - **Tiễn Phá Không (Đại Trưởng Lão Chấp Pháp)**: Lão giả dũng mãnh đứng đầu Sát Thần Đội, tuyệt đối tuân thủ "Pháp Tông", sử dụng tuyệt kỹ "Toái Giáp Kinh Lôi Tiễn" với sức phá hoại cực lớn để xuyên thủng trận pháp và thành lũy.
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Tán Tu** (Tây Mạc):
+  - **Hắc Sa (Thợ Mỏ)**: Tán tu mang dòng máu Bán Cự xảo quyệt, am hiểu địa hình ngầm và thiết lập cạm bẫy với kỹ thuật "Phá Sơn Sa Trảo".
+  - **Khô Giáp Lão (Giáp Trùng Sa Mạc)**: Yêu thú Trùng Tộc Kim Đan Hậu Kỳ dưới hình hài bọ hung khổng lồ, giả chết chờ con mồi với kỹ năng "Thôn Phệ Sa Bạo".
+  - **Oanh Minh Sa (Truyền Tin)**: Yêu thú Vũ Tộc mang hình dáng chim oanh hiền hòa, dùng "Huyễn Âm Mê Sa" và tiếng hót để dẫn đường cho lữ khách.
 
 - Cập nhật các mối quan hệ nội bộ và ngoại giao của phường vào hệ thống dữ liệu cốt truyện.
 

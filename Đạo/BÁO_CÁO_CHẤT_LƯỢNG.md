@@ -15,6 +15,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Tán Tu (Tây Mạc): Hắc Sa, Khô Giáp Lão, Oanh Minh Sa. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Băng Lang Bộ Lạc: Lang Bạch Sương, Lang Bạo Phong, Lang Cô Hàn. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hắc Tinh Linh Lưu Đày: Ám Diệp, Ám Dạ Hành, Ám Huyết. Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hàn Độc Vi Trùng Đoàn: Băng Dực, Trùng Băng Châm, Trùng Bạch Lân. Cập nhật INSTRUCTIONS và HỒ_SƠ_THẾ_GIỚI.md. |
