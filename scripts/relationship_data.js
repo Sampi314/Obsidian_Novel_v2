@@ -275,11 +275,80 @@ const relationshipData = {
       "role": "supporting",
       "pov": false,
       "avatar_color": "#ffffff"
+    },
+    {
+      "id": "giao_bach_ngoc",
+      "name": "Giao Bạch Ngọc",
+      "title": "Dệt Sư Trưởng",
+      "realm": "Kim Đan",
+      "faction": "Hải Thần Cung",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#E0FFFF"
+    },
+    {
+      "id": "giao_nguyet_han",
+      "name": "Giao Nguyệt Hàn",
+      "title": "Đệ Nhị Tế Tư",
+      "realm": "Nguyên Anh",
+      "faction": "Hải Thần Cung",
+      "region": "Vô Tận Hải",
+      "role": "villain",
+      "pov": false,
+      "avatar_color": "#191970"
+    },
+    {
+      "id": "giao_thien_le_nguyet",
+      "name": "Giao Thiên Lệ Nguyệt",
+      "title": "Ngọc Trai Sư",
+      "realm": "Kim Đan",
+      "faction": "Hải Thần Cung",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#F0FFFF"
     }
   ],
 
   // Danh sách quan hệ (edges)
   "relationships": [
+    {
+      "source": "Giao Bạch Ngọc",
+      "target": "Giao Thiên Lệ Nguyệt",
+      "description": "Bạn tâm giao và là đối tác ăn ý trong xưởng dệt. Thường dùng ngọc trai để khảm lên những tấm lụa.",
+      "type": "positive"
+    },
+    {
+      "source": "Giao Bạch Ngọc",
+      "target": "Giao Nguyệt Hàn",
+      "description": "Kính trọng vị Tế Tư này nhưng cũng e ngại sự lạnh lẽo phát ra từ ngài.",
+      "type": "neutral"
+    },
+    {
+      "source": "Giao Nguyệt Hàn",
+      "target": "Chương Thiên Cơ Huyền",
+      "description": "Thường xuyên trao đổi và bàn luận về trận pháp cổ đại.",
+      "type": "positive"
+    },
+    {
+      "source": "Giao Nguyệt Hàn",
+      "target": "Hải Đế",
+      "description": "Tuyệt đối trung thành, là người thực thi những mệnh lệnh trong bóng tối.",
+      "type": "positive"
+    },
+    {
+      "source": "Giao Thiên Lệ Nguyệt",
+      "target": "Giao Bạch Ngọc",
+      "description": "Bạn thân thiết nhất, thường chia sẻ nỗi buồn thầm kín và cùng nhau tạo tác.",
+      "type": "positive"
+    },
+    {
+      "source": "Giao Thiên Lệ Nguyệt",
+      "target": "Giao Nguyệt Hàn",
+      "description": "E sợ sự nghiêm khắc của Đệ Nhị Tế Tư, thường lảng tránh ánh mắt lạnh lẽo của y.",
+      "type": "neutral"
+    },
     {
       "source": "Hắc Phong",
       "target": "Huyết Phong",

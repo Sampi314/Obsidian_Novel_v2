@@ -9,17 +9,12 @@
 - **[Hôm nay]**: Viết POV 7-10 cho Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hàn Thanh Nguyệt, Lục Trần.
 - **[Hôm nay]**: Viết POV 7-10 cho Ngô Công Trưởng Lão, Phương Vô Kỵ.
 - **[Hôm nay]**: Hoàn thành Chương 9-10 (Sở Lăng Sương), Chương 6-10 (Triệu Thanh Hằng), Chương 7-10 (Lý Tuyết Ưng). Bắc Băng hội tụ tại Băng Ngục Thành.
+- **[Gần Đây]**: Hoàn thành Task 9 cho các thế lực: Phiêu Miễu Băng Hải, Cự Linh Tông, Cổ Nham Bộ Lạc, Thần Cung Môn, Phong Sát Cốc, Hỏa Yêu Tàn Đoàn.
 
 ## PHIÊN GẦN NHẤT
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Phiêu Miễu Băng Hải (Bắc Băng): Băng San Hô, Hàn Thanh Âm, Hải Cung. Cập nhật JSON, HỒ_SƠ_THẾ_GIỚI.md và INSTRUCTIONS. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Cự Linh Tông (Bắc Băng): Nham Chấn Nhạc, Nham Hồng Hoang, Nham Kình Thiên. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 2 nhân vật Cổ Nham Bộ Lạc (Tây Mạc): Nham Tĩnh, Xích Nham. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Thần Cung Môn (Tây Mạc): Phạm Nhất Tiễn, Tiễn Linh Phong, Tiễn Phá Không. Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Phong Sát Cốc (Tây Mạc): Hắc Phong, Huyết Phong, Hắc Sa. Cập nhật data JSON, HỒ_SƠ_THẾ_GIỚI.md và INSTRUCTIONS.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hỏa Yêu Tàn Đoàn (Tây Mạc): Hỏa Nham Dung, Hỏa Thiên Viêm Sơn, Hỏa Tinh. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Băng Lang Bộ Lạc: Lang Bạch Sương, Lang Bạo Phong, Lang Cô Hàn. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hắc Tinh Linh Lưu Đày: Ám Diệp, Ám Dạ Hành, Ám Huyết. Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hàn Độc Vi Trùng Đoàn: Băng Dực, Trùng Băng Châm, Trùng Bạch Lân. Cập nhật INSTRUCTIONS và HỒ_SƠ_THẾ_GIỚI.md. |
@@ -29,9 +24,7 @@
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hoàng Đại Sơn, Lý Tuyết Phong, Nguyễn Hàn Sương (Băng Nguyên Tán Tu Hội). Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Viết Chương 129-132 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm liên minh sinh tồn trong Hắc Sa Bão bằng lồng gỗ bọc băng của Lâm Phong. Rơi xuống thạch thất ngầm. |
 | Hôm nay | Tổng Quản | Viết Chương 125-128 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm tiến vào tâm phong ấn, đối mặt với Long Cốt và Huyết Độc Chi Hỏa. Phải đào thoát khỏi Hoàng Sa Địa Cung. |
-| Hôm nay | Tổng Quản | Viết Chương 121-124 (Góc Nhìn Lâm Phong) | Hoàn Thành | Đụng độ khôi lỗi đá tảng Thượng Cổ. Lệ Vô Tâm dùng tà chú Vu Tộc để kiểm soát bầy khôi lỗi. |
-| Hôm nay | Tổng Quản | Viết Chương 113-116 (Góc Nhìn Lâm Phong) | Hoàn Thành | Lệ Vô Tâm dùng Băng Ma Khí tàn sát tổ chức Ám Cốc. Quyết định tiến vào cấm địa Lưu Sa Phế Tích. |
-| Hôm nay | Tổng Quản | Viết Chương 109-112 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm Lâm Phong đến Trạm Dừng Chân Số 7. Đụng độ tổ chức sát thủ "Ám Cốc". |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hải Thần Cung (Vô Tận Hải): Giao Bạch Ngọc, Giao Nguyệt Hàn, Giao Thiên Lệ Nguyệt. Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 
 ## GHI CHÚ GẦN ĐÂY
 - **Hôm nay:** Viết Chương 121-124 (Góc Nhìn Lâm Phong). Nhóm vượt qua cánh cổng đá, khám phá bí mật Huyết Độc Chi Hỏa của Vu Tộc trong Hoàng Sa Địa Cung, chiến đấu với khôi lỗi đá, Lệ Vô Tâm dùng tà chú Vu Tộc và A Ngốc vô tình tiêu diệt Kẻ Gác Cổng Huyết Vu.
