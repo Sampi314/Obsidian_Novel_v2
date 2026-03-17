@@ -428,7 +428,7 @@
 - **Tây Mạc (Western Desert):**
     - [Thiên Sa Thương Hội](Thế_Lực/Thiên_Sa_Thương_Hội.md)
     - [Sa Tặc Liên Minh](Thế_Lực/Sa_Tặc_Liên_Minh.md) (Đã bổ sung chi tiết: Minh Chủ Hắc Phong Đại Vương, Đội Trưởng Lang Ảnh Sa, Đội Trưởng Lý Huyết Lang)
-    - [Kim Sa Tự](Thế_Lực/Kim_Sa_Tự.md)
+    - [Kim Sa Tự](Thế_Lực/Kim_Sa_Tự.md) (Đã bổ sung chi tiết: Trụ Trì Không Độ, Trưởng Lão Giới Trần, Thủ Các Huệ Minh)
     - [Độc Long Bảo](Thế_Lực/Độc_Long_Bảo.md)
     - [Lưu Sa Huyễn Ảo](Thế_Lực/Lưu_Sa_Huyễn_Ảo.md)
     - [Hoàng Sa Cổ Quốc](Thế_Lực/Hoàng_Sa_Cổ_Quốc.md)
