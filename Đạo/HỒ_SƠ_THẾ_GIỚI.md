@@ -579,6 +579,10 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hỏa Nham Dung (Thợ Rèn)**: Thợ rèn mang thân hình nham thạch bán nung chảy, kiên nhẫn chế tạo vũ khí và khao khát rèn ra "Hỏa Bảo" để lưu giữ hỏa linh cho bộ tộc.
   - **Hỏa Thiên Viêm Sơn (Phó Đoàn Trưởng)**: Chiến binh khổng lồ với lớp giáp nham thạch, dũng mãnh và luôn có niềm tin bất diệt vào việc tìm kiếm Hỏa Hạch truyền thuyết.
   - **Hỏa Tinh (Chiến Sĩ)**: Đốm lửa nhỏ linh hoạt, tính cách trẻ con nhưng dũng cảm, luôn mơ ước tiến ra thế giới tìm nguồn lửa mới để cứu lấy tương lai của Tàn Đoàn.
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Cự Linh Tông** (Bắc Băng):
+  - **Nham Chấn Nhạc (Trưởng Lão)**: Một Hóa Thần Sơ Kỳ Luyện Thể bảo thủ, sử dụng Bá Thể Cự Thần Quyết, thường dùng sức mạnh cơ bắp tuyệt đối để đè bẹp đối thủ.
+  - **Nham Hồng Hoang (Thái Thượng Trưởng Lão)**: Luyện Hư Sơ Kỳ, ngủ vạn năm trong lõi núi Thần Chùy Phong, thân thể hóa đá mang sức mạnh của địa mạch.
+  - **Nham Kình Thiên (Chiến Cự Tử)**: Thế hệ trẻ xuất sắc với tu vi Nguyên Anh Sơ Kỳ, tính cách bốc đồng và khao khát chiến đấu chứng tỏ sức mạnh Cự Tộc.
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Cổ Nham Bộ Lạc** (Tây Mạc):
   - **Nham Tĩnh (Tế Tư)**: Tế Tư mang thân hình trầm tích nham trầm mặc, thiền định ngộ đạo từ sự im lặng để kết nối với Nham Thần, là người dùng sự hiện diện tĩnh lặng để bảo vệ bộ lạc.
   - **Xích Nham (Thủ Vệ Trưởng)**: Chiến binh đồ sộ từ xích thiết nham, trung thành tuyệt đối với Đại Tế Tư Bàn Thạch, sử dụng Xích Luyện Thạch Phủ canh giữ con đường duy nhất lên đỉnh thiêng.

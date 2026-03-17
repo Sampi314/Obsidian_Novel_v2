@@ -14,6 +14,7 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Cự Linh Tông (Bắc Băng): Nham Chấn Nhạc, Nham Hồng Hoang, Nham Kình Thiên. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 2 nhân vật Cổ Nham Bộ Lạc (Tây Mạc): Nham Tĩnh, Xích Nham. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Thần Cung Môn (Tây Mạc): Phạm Nhất Tiễn, Tiễn Linh Phong, Tiễn Phá Không. Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Thần Cung Môn (Tây Mạc): Cung Tuyệt Trần, Lý Xuyên Vân, Lê Thiên Mục. |

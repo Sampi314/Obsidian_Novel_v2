@@ -14,6 +14,6 @@
 - **Ưu tiên phiên sau**: Tiếp tục Task 9 (Điền chi tiết nhân vật) cho các phe phái khác cho đến khi hoàn thành.
 
 ## PHIÊN GẦN NHẤT
-- Hoàn thành Task 9 (Điền thông tin nhân vật) cho Nham Tĩnh và Xích Nham thuộc Cổ Nham Bộ Lạc (Tây Mạc).
+- Hoàn thành Task 9 (Điền thông tin nhân vật) cho Nham Chấn Nhạc, Nham Hồng Hoang và Nham Kình Thiên thuộc Cự Linh Tông (Bắc Băng).
 - Đã cập nhật `scripts/relationship_data.js` để thêm mối quan hệ cho nhóm nhân vật này.
 - Đã cập nhật thông tin trong `Đạo/HỒ_SƠ_THẾ_GIỚI.md`, ghi log trong `BÁO_CÁO_CHẤT_LƯỢNG.md` và cập nhật tiến độ trong `.jules/INSTRUCTIONS.md`.
