@@ -798,6 +798,29 @@ if (typeof characterData !== 'undefined') {
         description: "Chiến Cự Tử bốc đồng, muốn mở rộng ảnh hưởng của Cự Tộc.",
         image: ""
     };
+
+    // Phiêu Miễu Băng Hải (Bắc Băng)
+    characterData["Băng San Hô"] = {
+        name: "Băng San Hô",
+        faction: "Phiêu Miễu Băng Hải",
+        realm: "Kim Đan Trung Kỳ",
+        description: "Dược Sư Biển Băng trầm tĩnh, chuyên điều chế mộng dược và xóa bỏ tâm ma.",
+        image: ""
+    };
+    characterData["Hàn Thanh Âm"] = {
+        name: "Hàn Thanh Âm",
+        faction: "Phiêu Miễu Băng Hải",
+        realm: "Kim Đan Sơ Kỳ",
+        description: "Nhạc Sư Huyễn Âm kiêu ngạo, dùng tiếng đàn Hải Thạch Đàn gieo rắc huyễn cảnh chết chóc.",
+        image: ""
+    };
+    characterData["Hải Cung"] = {
+        name: "Hải Cung",
+        faction: "Phiêu Miễu Băng Hải",
+        realm: "Hóa Thần Sơ Kỳ",
+        description: "Cung Chủ thoát tục và lạnh lùng, nắm giữ bản nhạc Trần Thế Chủng để đối phó đại kiếp.",
+        image: ""
+    };
 }
 
 if (typeof relationships !== 'undefined') {
@@ -815,5 +838,14 @@ if (typeof relationships !== 'undefined') {
         { source: "Xích Nham", target: "Bàn Thạch", type: "Trung Thành", description: "Thủ vệ trung thành nhất, thề nguyện bảo vệ bằng cả sinh mạng." },
         { source: "Xích Nham", target: "Nham Cốt", type: "Chiến Hữu", description: "Đồng tâm hiệp lực trong việc bảo vệ bộ lạc khỏi ngoại đạo." },
         { source: "Xích Nham", target: "Nham Linh", type: "Nghi Ngờ", description: "Cho rằng nàng quá yếu đuối và có nhiều ý nghĩ kỳ quái." }
+    );
+    relationships.push(
+        { source: "Băng San Hô", target: "Hải Cung", type: "Kính Trọng", description: "Điều chế hương liệu đặc biệt giúp Cung Chủ duy trì minh mẫn." },
+        { source: "Hàn Thanh Âm", target: "Hải Cung", type: "Ngưỡng Mộ", description: "Xem Cung Chủ là hiện thân của sự hoàn hảo và lòng trung thành tuyệt đối." },
+        { source: "Hải Cung", target: "Hàn Thanh Âm", type: "Trọng Dụng", description: "Giao phó trọng trách kiểm soát tâm trí và huyễn thuật." },
+        { source: "Hải Cung", target: "Băng San Hô", type: "Trọng Dụng", description: "Tin tưởng trong việc điều chế dược liệu bảo vệ thần thức." },
+        { source: "Băng San Hô", target: "Hàn Thanh Âm", type: "Đồng Liêu", description: "Phối hợp ăn ý, dùng dược liệu gia tăng uy lực tiếng đàn." },
+        { source: "Hàn Thanh Âm", target: "Sở Lăng Sương", type: "Khinh Thường", description: "Cho rằng lối đánh trực diện của Lăng Sương thiếu tinh tế nghệ thuật." },
+        { source: "Hải Cung", target: "Lý Tuyết Ưng", type: "Cảnh Giác", description: "Nhận thấy ý chí rực cháy của Lý Tuyết Ưng có thể phá vỡ huyễn cảnh băng giá." }
     );
 }

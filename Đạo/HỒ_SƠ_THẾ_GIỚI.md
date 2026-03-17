@@ -410,7 +410,7 @@
     - [Băng Ngục Thành](Thế_Lực/Băng_Ngục_Thành.md)
     - [Hàn Kiếm Cốc](Thế_Lực/Hàn_Kiếm_Cốc.md)
     - [Tuyết Cự Nhân Đảo](Thế_Lực/Tuyết_Cự_Nhân_Đảo.md)
-    - [Phiêu Miễu Băng Hải](Thế_Lực/Phiêu_Miễu_Băng_Hải.md)
+    - [Phiêu Miễu Băng Hải](Thế_Lực/Phiêu_Miễu_Băng_Hải.md) (Gồm Băng San Hô, Hàn Thanh Âm, Hải Cung)
     - [Thiên Sơn Đông Cốc](Thế_Lực/Thiên_Sơn_Đông_Cốc.md)
 - **Đông Hoang (Eastern Wilderness):**
     - [Bào Tử Mật Lâm Tộc](Thế_Lực/Bào_Tử_Mật_Lâm_Tộc.md) (Gồm Bào Hồng Tán, Bào Huyết Tịnh, Bào Hắc Lâm)
