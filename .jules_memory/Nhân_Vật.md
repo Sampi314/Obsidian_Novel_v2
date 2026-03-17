@@ -8,3 +8,4 @@
 - Đã cập nhật ngoại hình, tính cách, kỹ năng, quan hệ và tiểu sử cho từng nhân vật, tuân thủ bối cảnh huyễn thuật ánh sáng và âm nhạc của San Hô Đảo Quốc.
 - Đã thêm dữ liệu vào `scripts/relationship_data.js`.
 - Cập nhật `HỒ_SƠ_THẾ_GIỚI.md` và `INSTRUCTIONS.md` (giảm số remaining).
+- [Hôm nay]: Điền chi tiết cho 3 nhân vật Hàn Kiếm Cốc (Bắc Băng): Hàn Tiêu, Hoàng Đoạn Tuyết, Lê Kiếm Tâm. Cập nhật relationship_data.js và HỒ_SƠ_THẾ_GIỚI.md.
