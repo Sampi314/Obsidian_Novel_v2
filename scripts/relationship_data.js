@@ -2,6 +2,39 @@ const relationshipData = {
   // Danh sách nhân vật (nodes)
   "characters": [
     {
+      "id": "hac_suong_quy",
+      "name": "Hắc Sương Quỷ",
+      "title": "Hộ Pháp",
+      "realm": "Nguyên Anh",
+      "faction": "Sương Ma Uyển",
+      "region": "Bắc Băng",
+      "role": "villain",
+      "pov": false,
+      "avatar_color": "#424242"
+    },
+    {
+      "id": "lanh_vo_hon",
+      "name": "Lãnh Vô Hồn",
+      "title": "Ma Tu",
+      "realm": "Kim Đan",
+      "faction": "Sương Ma Uyển",
+      "region": "Bắc Băng",
+      "role": "villain",
+      "pov": false,
+      "avatar_color": "#1976D2"
+    },
+    {
+      "id": "suong_no_vuong",
+      "name": "Sương Nô Vương",
+      "title": "Thống Lĩnh Băng Nô",
+      "realm": "Kim Đan",
+      "faction": "Sương Ma Uyển",
+      "region": "Bắc Băng",
+      "role": "villain",
+      "pov": false,
+      "avatar_color": "#BDBDBD"
+    },
+    {
       "id": "bang_van_ly",
       "name": "Bằng Vạn Lý",
       "title": "Tiên Phong Tướng",
@@ -1371,5 +1404,15 @@ if (typeof relationships !== 'undefined') {
         { source: "Thiết Nha", target: "Thiết Giáp Vương", type: "Tôn Sùng", description: "Tôn sùng sức mạnh nhưng đôi lúc bất mãn vì chiến thuật quá an toàn." },
         { source: "Thiết Lân", target: "Thiết Nha", type: "Đồng Đội", description: "Đồng đội kề vai sát cánh, thường xuyên nhắc nhở và kìm hãm đối phương." },
         { source: "Thiết Nha", target: "Thiết Lân", type: "Đồng Đội", description: "Hay bực bội vì sự cẩn trọng của Thiết Lân nhưng luôn tin tưởng giao lưng." }
+    );
+}
+
+// Sương Ma Uyển (Bắc Băng)
+if (typeof relationships !== 'undefined') {
+    relationships.push(
+        { source: "hac_suong_quy", target: "lanh_vo_hon", type: "Cộng Sự", description: "Hắc Sương Quỷ cung cấp thi thể chất lượng cho thí nghiệm của Lãnh Vô Hồn." },
+        { source: "lanh_vo_hon", target: "suong_no_vuong", type: "Chủ Tớ", description: "Lãnh Vô Hồn là kẻ sáng tạo và khống chế hoàn toàn Sương Nô Vương." },
+        { source: "hac_suong_quy", target: "Lý Tuyết Ưng", type: "Kẻ Thù", description: "Lý Tuyết Ưng là mục tiêu ám sát lớn nhất của Hắc Sương Quỷ." },
+        { source: "suong_no_vuong", target: "Triệu Thanh Hằng", type: "Cố Nhân", description: "Ánh kiếm của Triệu Thanh Hằng đôi khi gợi lại chút nhân tính trong hắn." }
     );
 }

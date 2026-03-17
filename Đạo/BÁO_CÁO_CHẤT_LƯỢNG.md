@@ -1,5 +1,10 @@
 # BÁO CÁO CHẤT LƯỢNG - DỰ ÁN CỐ NGUYÊN
 ---
+
+## [2026-03-17] - Cập Nhật Nhân Vật Sương Ma Uyển (Bắc Băng)
+- **Nội Dung:** Bổ sung chi tiết (Ngoại hình, Tính cách, Năng lực, Quan hệ, Tiểu sử) cho Hắc Sương Quỷ, Lãnh Vô Hồn, Sương Nô Vương.
+- **Đánh Giá:** Các nhân vật đã được điền đủ 4 mục II-V, mang đặc trưng tàn bạo, độc ác của Ma Tộc phương Bắc, phù hợp với tông chỉ của Sương Ma Uyển.
+- **Trạng Thái:** Đã hoàn thành và thêm vào dữ liệu quan hệ (`relationship_data.js`).
 ## LỊCH SỬ (Tóm Tắt)
 - **Tự động nén (Auto-compact):** Lịch sử phát triển đã ghi nhận việc khởi tạo thế giới, các chủng tộc, hệ thống tu luyện, nhân vật và sự kiện từ Arc 1 đến Arc 6 của cả Góc Nhìn Chính và Lệ Vô Tâm. Bao gồm mở rộng thế lực, cập nhật Hồ sơ Thế giới, sửa lỗi tham chiếu, và viết catch-up góc nhìn Lâm Phong (Chương 4-32) cùng các diễn biến tại Băng Ngục Thành.
 - **[Các phiên trước]**: A Ngốc hoàn thành Arc 4-13. Gặp Phương Vô Kỵ, Lệ Vô Tâm. Đột phá Trúc Cơ, Kim Đan, Nguyên Anh. Cùng Lệ Vô Tâm tiến vào Đông Hoang, Tây Mạc, thanh tẩy Huyết Thần Độc.

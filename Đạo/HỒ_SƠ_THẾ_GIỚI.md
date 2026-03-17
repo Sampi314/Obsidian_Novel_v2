@@ -552,6 +552,10 @@ Tại Tây Mạc, Hứa Nhược Thủy chính thức tiếp quản Hứa Gia sa
 Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương trường đầy mùi linh thạch — đã trốn đi làm "hiệp khách". Trong lúc mạo hiểm dưới Hoàng Sa Phế Tích, Thanh Vân tận mắt chứng kiến sự tàn bạo của Huyết Sát Minh khi dùng nô lệ khai thác Huyết Tinh Sa. Cậu vô tình được Lệ Vô Tâm và A Ngốc cứu mạng rồi gia nhập đoàn xe của Hứa Nhược Thủy. Cảm thấy thế giới quan sụp đổ khi biết mẹ mình dung túng (nhằm lấy bằng chứng) việc vận chuyển ma vật, Thanh Vân lại bỏ đi trong đêm. Cậu đụng độ Hắc Sa Bão và được Lệ Vô Tâm, dưới sự che chở của A Ngốc, dùng khiên băng bảo vệ. Trong bão cát, khi một Huyết Tướng phục kích Lệ Vô Tâm, Thanh Vân đã dùng một mảnh băng vỡ để bảo vệ vị "ác ma", thể hiện sự trưởng thành và dũng khí. Sau trận bão, Thanh Vân quyết định rời khỏi cái ô của Hứa Gia, đi về phía Đông (Vĩnh Hằng Sâm Lâm) cùng Lệ Vô Tâm và A Ngốc để tự rèn luyện thành một đại hiệp đích thực (Chương 1-10, Góc Nhìn Hứa Nhược Thủy & Hứa Thanh Vân).
 
 ### Hệ Thống Nhân Vật & Thế Lực Bổ Sung
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Sương Ma Uyển** (Bắc Băng):
+  - **Hắc Sương Quỷ (Hộ Pháp)**: Đệ Nhất Sát Sương Quỷ, sát thủ bóng tối tàn nhẫn và vô cảm, sử dụng *Hắc Băng Châm* để ám sát các mục tiêu chính đạo.
+  - **Lãnh Vô Hồn (Luyện Tà Đường Chủ)**: Học giả điên loạn và ác độc, thiên tài trong lĩnh vực tà thuật thi đạo, phụ trách việc chế tạo Băng Thi và Băng Nô từ tu sĩ.
+  - **Sương Nô Vương (Thống Lĩnh Băng Nô)**: Từng là một hiệp khách cường đại, nay bị biến thành cỗ máy chiến tranh vô hồn chỉ biết tuân lệnh chủ nhân bằng sức mạnh cơ bắp và hàn khí tuyệt đối.
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Hải Thần Cung** (Vô Tận Hải):
   - **Giao Bạch Ngọc (Dệt Sư Trưởng)**: Nữ Giao Nhân mang vẻ đẹp trân châu, cẩn trọng và tỉ mỉ, dùng linh lực hệ thủy thao túng và tạo tuyệt kỹ *Hải Tịch Thiên Ti* dệt trận pháp hoặc phòng ngự.
   - **Giao Nguyệt Hàn (Đệ Nhị Tế Tư)**: Nam Giao Nhân thâm trầm, tàn nhẫn khi cần thiết, sử dụng *Thâm Uyên Băng Hàn Quyết* để tạo áp lực vực thẳm và đóng băng huyết mạch kẻ thù.
