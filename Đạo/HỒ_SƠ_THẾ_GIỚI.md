@@ -622,3 +622,6 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Ba Nguyệt Hà (Viện Chủ):** Bậc thầy dệt Lụa Vân, thanh tao u buồn, đóng vai trò quan trọng trong đối ngoại và kinh tế.
 - **Ba Ngọc Hàn (Đội Trưởng Hải Ba Vệ):** Chiến binh nóng nảy, mang mối hận sâu sắc với những kẻ săn trộm Giao Nhân, dũng mãnh bảo vệ liên minh.
 - **Ba Thiên Lệ (Trưởng Lão):** Kỳ cựu trầm mặc, biến nỗi bi thương thành sức mạnh trị liệu và phòng ngự, là tiếng nói khôn ngoan của liên minh.
+
+### San Hô Đảo Quốc (Vô Tận Hải)
+- **Ngư Ngân Lân Hà (Vệ Binh Trưởng), Ngư Thiên Ca (Đại Nhạc Sư), Ngư Thiên Lãng (Thương Nhân):** Các nhân vật đại diện cho San Hô Đảo Quốc. Ngân Lân Hà nghiêm nghị bảo vệ ranh giới bằng sóng âm; Thiên Ca điềm đạm dùng huyễn thuật và âm nhạc để chữa lành; Thiên Lãng linh hoạt khôn khéo mở rộng mạng lưới giao thương. Họ tạo nên bức tranh đa dạng về sức mạnh, nghệ thuật và sự khéo léo của cư dân đảo quốc.
