@@ -290,6 +290,60 @@ const relationshipData = {
       "type": "positive"
     },
     {
+      "source": "Phạm Nhất Tiễn",
+      "target": "Tiễn Vô Song",
+      "description": "Sư phụ đích thực, người đã nhặt hắn về từ bão cát và truyền dạy đạo lý \"Nhất tiễn\".",
+      "type": "positive"
+    },
+    {
+      "source": "Phạm Nhất Tiễn",
+      "target": "Tiễn Phá Không",
+      "description": "Vô cùng kính sợ vị Đại Trưởng Lão uy nghiêm này, luôn lấy sức mạnh phá hoại của ông làm mục tiêu phấn đấu.",
+      "type": "positive"
+    },
+    {
+      "source": "Phạm Nhất Tiễn",
+      "target": "Lê Thiên Mục",
+      "description": "Thường cùng tên đồng môn này thực hiện các nhiệm vụ săn bắn; một người tìm kiếm con mồi, một người tung đòn kết liễu.",
+      "type": "positive"
+    },
+    {
+      "source": "Tiễn Linh Phong",
+      "target": "Tiễn Vô Song",
+      "description": "Kính nể Môn Chủ, là cánh tay đắc lực phụ trách mạng lưới tai mắt cho tông môn.",
+      "type": "positive"
+    },
+    {
+      "source": "Tiễn Linh Phong",
+      "target": "Tiễn Phá Không",
+      "description": "Cực kỳ khó chịu với sự cứng nhắc của vị Đại Trưởng Lão, thường xuyên tranh cãi về chiến lược, nhưng khi cần lại phối hợp rất nhịp nhàng.",
+      "type": "neutral"
+    },
+    {
+      "source": "Tiễn Linh Phong",
+      "target": "Lý Xuyên Vân",
+      "description": "Tôn trọng cái nhìn đại cục của vị Trưởng Lão này, thường trao đổi thông tin về các thương đoàn để tối ưu hóa nguồn thu bảo kê của tông môn.",
+      "type": "positive"
+    },
+    {
+      "source": "Tiễn Phá Không",
+      "target": "Tiễn Vô Song",
+      "description": "Tôn sùng Môn Chủ nhưng thường có quan điểm khắt khe hơn về trừng phạt kẻ phản bội, luôn là chỗ dựa quân sự vững chắc nhất.",
+      "type": "positive"
+    },
+    {
+      "source": "Tiễn Phá Không",
+      "target": "Tiễn Linh Phong",
+      "description": "Thường mắng mỏ vị Chấp Sự Tình Báo này vì những cách hành động lén lút, nhưng lại dựa dẫm vào thông tin của ông ta để nhắm mục tiêu chuẩn xác.",
+      "type": "neutral"
+    },
+    {
+      "source": "Tiễn Phá Không",
+      "target": "Phạm Nhất Tiễn",
+      "description": "Khen ngợi sát khí của tên đệ tử này, thường xuyên huấn luyện khắc nghiệt với hắn để rèn giũa kỹ năng \"Nhất Tiễn\".",
+      "type": "positive"
+    },
+    {
       "source": "Lê Thiên Mục",
       "target": "Cung Tuyệt Trần",
       "description": "Vô cùng biết ơn Viện Chủ vì đã ưu ái rèn riêng cho y một cây linh cung cốt xà vô cùng phù hợp với nhãn lực đặc thù.",

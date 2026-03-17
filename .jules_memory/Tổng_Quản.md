@@ -8,7 +8,7 @@
 
 ## PHIÊN GẦN NHẤT
 - **Ngày**: Hiện tại
-- **Công việc**: Thực hiện Task 9 - Điền chi tiết nhân vật (Section II-V) cho 3 nhân vật thuộc Hỏa Yêu Tàn Đoàn (Tây Mạc): Hỏa Nham Dung, Hỏa Thiên Viêm Sơn, và Hỏa Tinh. Cập nhật data JSON, HỒ_SƠ_THẾ_GIỚI.md và INSTRUCTIONS.md.
+- **Công việc**: Thực hiện Task 9 - Điền chi tiết nhân vật (Section II-V) cho 3 nhân vật thuộc Thần Cung Môn (Tây Mạc): Phạm Nhất Tiễn, Tiễn Linh Phong, và Tiễn Phá Không. Cập nhật data JSON, HỒ_SƠ_THẾ_GIỚI.md và INSTRUCTIONS.md.
 - **Agent đã kích hoạt**: Tổng Quản.
 - **Tình trạng file**: Đã cập nhật xong nội dung 3 file nhân vật.
 - **Ưu tiên phiên sau**: Tiếp tục Task 9 (Điền chi tiết nhân vật) cho các phe phái khác cho đến khi hoàn thành.
