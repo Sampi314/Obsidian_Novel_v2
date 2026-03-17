@@ -775,9 +775,39 @@ if (typeof characterData !== 'undefined') {
         description: "Thủ Vệ Trưởng dũng mãnh, sử dụng Xích Luyện Thạch Phủ canh giữ con đường lên đỉnh thiêng.",
         image: ""
     };
+
+    // Cự Linh Tông (Bắc Băng)
+    characterData["Nham Chấn Nhạc"] = {
+        name: "Nham Chấn Nhạc",
+        faction: "Cự Linh Tông",
+        realm: "Hóa Thần Sơ Kỳ",
+        description: "Trưởng Lão bảo thủ, luyện thể bá đạo với Bá Thể Cự Thần Quyết.",
+        image: ""
+    };
+    characterData["Nham Hồng Hoang"] = {
+        name: "Nham Hồng Hoang",
+        faction: "Cự Linh Tông",
+        realm: "Luyện Hư Sơ Kỳ",
+        description: "Thái Thượng Trưởng Lão ngủ vạn năm trong lõi núi Thần Chùy Phong, mang sức mạnh đại địa.",
+        image: ""
+    };
+    characterData["Nham Kình Thiên"] = {
+        name: "Nham Kình Thiên",
+        faction: "Cự Linh Tông",
+        realm: "Nguyên Anh Sơ Kỳ",
+        description: "Chiến Cự Tử bốc đồng, muốn mở rộng ảnh hưởng của Cự Tộc.",
+        image: ""
+    };
 }
 
 if (typeof relationships !== 'undefined') {
+    relationships.push(
+        { source: "Nham Chấn Nhạc", target: "Nham Hồng Hoang", type: "Tôn Kính", description: "Thường xuyên đến thỉnh giáo và xin lời khuyên từ Thái Thượng Trưởng Lão." },
+        { source: "Nham Chấn Nhạc", target: "Nham Kình Thiên", type: "Sư Phụ", description: "Đích thân huấn luyện và truyền đạt Bá Thể Cự Thần Quyết." },
+        { source: "Nham Kình Thiên", target: "Nham Chấn Nhạc", type: "Đệ Tử", description: "Kính trọng nhưng hay cãi lại quan điểm bảo thủ của sư phụ." },
+        { source: "Nham Kình Thiên", target: "Triệu Thanh Hằng", type: "Kình Địch", description: "Từng giao thủ nhưng không phân thắng bại, luôn xem là đối thủ đáng gờm." },
+        { source: "Nham Hồng Hoang", target: "Nham Chấn Nhạc", type: "Hướng Dẫn", description: "Âm thầm chỉ bảo để bảo vệ tông môn." }
+    );
     relationships.push(
         { source: "Nham Tĩnh", target: "Bàn Thạch", type: "Kính Trọng", description: "Âm thầm ủng hộ và chia sẻ gánh nặng với Đại Tế Tư." },
         { source: "Nham Tĩnh", target: "Nham Linh", type: "Lắng Nghe", description: "Người duy nhất lắng nghe mọi ý tưởng điên rồ của nàng." },
