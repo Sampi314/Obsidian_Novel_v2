@@ -1323,12 +1323,38 @@ if (typeof characterData !== 'undefined') {
         description: "Gia Chủ Sa Dược đằm thắm nhưng tàn nhẫn khi cần thiết, thao túng Thủy và Độc.",
         image: ""
     };
+
+    // Thiết Giáp Yêu Thú Đàn (Tây Mạc)
+    characterData["Thiết Giáp Vương"] = {
+        name: "Thiết Giáp Vương",
+        faction: "Thiết Giáp Yêu Thú Đàn",
+        realm: "Trúc Cơ Viên Mãn",
+        description: "Đàn Chủ khổng lồ, thông minh và kiên cường, luôn đặt chữ tín với các thương đoàn lên hàng đầu.",
+        image: ""
+    };
+    characterData["Thiết Lân"] = {
+        name: "Thiết Lân",
+        faction: "Thiết Giáp Yêu Thú Đàn",
+        realm: "Trúc Cơ Trung Kỳ",
+        description: "Cận Vệ cẩn trọng, kỷ luật, đóng vai trò như đôi mắt và tai quan sát nhạy bén của cả đàn.",
+        image: ""
+    };
+    characterData["Thiết Nha"] = {
+        name: "Thiết Nha",
+        faction: "Thiết Giáp Yêu Thú Đàn",
+        realm: "Trúc Cơ Trung Kỳ",
+        description: "Cận Vệ hung hăng, hiếu chiến, là mũi nhọn tấn công chuyên phá vây và truy sát.",
+        image: ""
+    };
 }
 if (typeof characters !== 'undefined') {
     characters.push(
         { id: "Cổ Thiên Lý", name: "Cổ Thiên Lý", faction: "Thiên Sa Thương Hội", description: "Gia Chủ Sa Thương, 'Thiết Toán Bàn'." },
         { id: "Hoàng Sa Nhạn", name: "Hoàng Sa Nhạn", faction: "Thiên Sa Thương Hội", description: "Sát Thủ Sa Ảnh lạnh lùng vô tình." },
-        { id: "Hứa Nhược Thủy", name: "Hứa Nhược Thủy", faction: "Thiên Sa Thương Hội", description: "Gia Chủ Sa Dược, mẫu thân Hứa Thanh Vân." }
+        { id: "Hứa Nhược Thủy", name: "Hứa Nhược Thủy", faction: "Thiên Sa Thương Hội", description: "Gia Chủ Sa Dược, mẫu thân Hứa Thanh Vân." },
+        { id: "Thiết Giáp Vương", name: "Thiết Giáp Vương", faction: "Thiết Giáp Yêu Thú Đàn", description: "Đàn Chủ bọ giáp bảo vệ thương đoàn." },
+        { id: "Thiết Lân", name: "Thiết Lân", faction: "Thiết Giáp Yêu Thú Đàn", description: "Cận Vệ cẩn trọng, kỷ luật." },
+        { id: "Thiết Nha", name: "Thiết Nha", faction: "Thiết Giáp Yêu Thú Đàn", description: "Cận Vệ hung hăng, hiếu chiến." }
     );
 }
 if (typeof relationships !== 'undefined') {
@@ -1337,5 +1363,13 @@ if (typeof relationships !== 'undefined') {
         { source: "Cổ Thiên Lý", target: "Hoàng Sa Nhạn", type: "Thuê Mướn", description: "Thuê mạng lưới Sa Ảnh làm công cụ dọn dẹp chướng ngại." },
         { source: "Hứa Nhược Thủy", target: "Hứa Thanh Vân", type: "Mẹ Con", description: "Bảo vệ con trai bằng mọi giá dù Thanh Vân muốn tự do." },
         { source: "Hứa Nhược Thủy", target: "Lâm Phong", type: "Liên Minh", description: "Liên minh ngầm trong Lưu Sa Phế Tích." }
+    );
+    relationships.push(
+        { source: "Thiết Giáp Vương", target: "Thiết Lân", type: "Đàn Chủ", description: "Tin tưởng giao phó chỉ huy vòng ngoài." },
+        { source: "Thiết Lân", target: "Thiết Giáp Vương", type: "Trung Thành", description: "Tuyệt đối trung thành, sẵn sàng hy sinh bảo vệ Đàn Chủ." },
+        { source: "Thiết Giáp Vương", target: "Thiết Nha", type: "Đàn Chủ", description: "Tin tưởng sức mạnh nhưng đôi khi phải kìm hãm sự hung hăng." },
+        { source: "Thiết Nha", target: "Thiết Giáp Vương", type: "Tôn Sùng", description: "Tôn sùng sức mạnh nhưng đôi lúc bất mãn vì chiến thuật quá an toàn." },
+        { source: "Thiết Lân", target: "Thiết Nha", type: "Đồng Đội", description: "Đồng đội kề vai sát cánh, thường xuyên nhắc nhở và kìm hãm đối phương." },
+        { source: "Thiết Nha", target: "Thiết Lân", type: "Đồng Đội", description: "Hay bực bội vì sự cẩn trọng của Thiết Lân nhưng luôn tin tưởng giao lưng." }
     );
 }

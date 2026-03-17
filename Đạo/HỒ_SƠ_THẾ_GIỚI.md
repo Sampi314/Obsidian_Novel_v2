@@ -607,6 +607,10 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hắc Sa (Thợ Mỏ)**: Tán tu mang dòng máu Bán Cự xảo quyệt, am hiểu địa hình ngầm và thiết lập cạm bẫy với kỹ thuật "Phá Sơn Sa Trảo".
   - **Khô Giáp Lão (Giáp Trùng Sa Mạc)**: Yêu thú Trùng Tộc Kim Đan Hậu Kỳ dưới hình hài bọ hung khổng lồ, giả chết chờ con mồi với kỹ năng "Thôn Phệ Sa Bạo".
   - **Oanh Minh Sa (Truyền Tin)**: Yêu thú Vũ Tộc mang hình dáng chim oanh hiền hòa, dùng "Huyễn Âm Mê Sa" và tiếng hót để dẫn đường cho lữ khách.
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Thiết Giáp Yêu Thú Đàn** (Tây Mạc):
+  - **Thiết Giáp Vương (Đàn Chủ)**: Bọ giáp khổng lồ, thông minh và kiên cường, luôn đặt chữ tín với các thương đoàn lên hàng đầu.
+  - **Thiết Lân (Cận Vệ)**: Cận Vệ cẩn trọng, kỷ luật, đóng vai trò như đôi mắt và tai quan sát nhạy bén của cả đàn.
+  - **Thiết Nha (Cận Vệ)**: Cận Vệ hung hăng, hiếu chiến, là mũi nhọn tấn công chuyên phá vây và truy sát.
 
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Bách Bảo Các** (Thiên Trụ):
   - **Lý Minh Châu (Giám Định Viện Chủ)**: Quý phu nhân đài các, sở hữu đôi mắt phượng sắc bén và "Linh Nhãn Thông" nhìn thấu mọi ngụy trang, là bậc thầy thẩm định cổ vật.
