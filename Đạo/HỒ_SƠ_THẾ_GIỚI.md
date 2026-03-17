@@ -583,6 +583,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Cung Tuyệt Trần (Viện Chủ Chế Khí)**: Vóc dáng vạm vỡ, đôi tay linh hoạt, chuyên rèn linh cốt thành cung và tiễn, sở hữu Đạo Tâm "Hóa Cốt Thành Thần". Sử dụng "Toái Cốt Luyện Hồn Quyết" để điều khiển tàn cốt chiến đấu.
   - **Lý Xuyên Vân (Trưởng Lão)**: Thân hình gầy gò, sát thủ nhẫn nại ẩn mình trong cát, sở hữu Đạo Tâm "Tiễn Vô Hư Phát". Sử dụng "Xuyên Vân Kinh Lôi Tiễn" ám sát tầm xa hiệu quả.
   - **Lê Thiên Mục (Nội Môn Đệ Tử)**: Thanh niên mang dị đồng có thể khóa mục tiêu chuẩn xác, Đạo Tâm "Phá Huyễn Kiến Chân". Sử dụng "Huyễn Ảnh Liên Châu Tiễn" để săn giết kẻ thù và nung nấu ý chí trả thù Sa Tặc Liên Minh.
+  - **Phạm Nhất Tiễn (Xạ Thủ Chân Truyền)**: Thanh niên sát thủ cao gầy với tuyệt kỹ "Nhất Tiễn Định Hồn", tuân thủ nguyên tắc "tên đã bắn ra, sinh tử định đoạt", chuyên thực hiện các nhiệm vụ ám sát thủ lĩnh Sa Tặc.
+  - **Tiễn Linh Phong (Trưởng Lão Chấp Sự Tình Báo)**: Trưởng lão giảo hoạt chuyên mượn sức gió để điều khiển mũi tên "Linh Phong Phi Tiễn" và thu thập tình báo qua "Lưu Ảnh Phong Tức", điều hành mạng lưới Truy Phong Đội.
+  - **Tiễn Phá Không (Đại Trưởng Lão Chấp Pháp)**: Lão giả dũng mãnh đứng đầu Sát Thần Đội, tuyệt đối tuân thủ "Pháp Tông", sử dụng tuyệt kỹ "Toái Giáp Kinh Lôi Tiễn" với sức phá hoại cực lớn để xuyên thủng trận pháp và thành lũy.
 
 - Cập nhật các mối quan hệ nội bộ và ngoại giao của phường vào hệ thống dữ liệu cốt truyện.
 
