@@ -1230,3 +1230,43 @@ if (typeof relationships !== 'undefined') {
         { source: "San Huyền Quang Dạ", target: "San Bích Quang", type: "Bằng Hữu", description: "Bạn đồng hành lâu năm, người cùng thiết kế các tác phẩm huyễn quang đỉnh cao." }
     );
 }
+
+// Thiên Sa Thương Hội (Tây Mạc)
+if (typeof characterData !== 'undefined') {
+    characterData["Cổ Thiên Lý"] = {
+        name: "Cổ Thiên Lý",
+        faction: "Thiên Sa Thương Hội",
+        realm: "Nguyên Anh Trung Kỳ",
+        description: "Gia Chủ Sa Thương mập mạp, xưng tụng 'Thiết Toán Bàn', am hiểu Sa Hà Bảo Điển.",
+        image: ""
+    };
+    characterData["Hoàng Sa Nhạn"] = {
+        name: "Hoàng Sa Nhạn",
+        faction: "Thiên Sa Thương Hội",
+        realm: "Kim Đan Sơ Kỳ",
+        description: "Sát Thủ Sa Ảnh lạnh lùng vô cảm, am hiểu Sa Ảnh Quyết.",
+        image: ""
+    };
+    characterData["Hứa Nhược Thủy"] = {
+        name: "Hứa Nhược Thủy",
+        faction: "Thiên Sa Thương Hội",
+        realm: "Nguyên Anh Sơ Kỳ",
+        description: "Gia Chủ Sa Dược đằm thắm nhưng tàn nhẫn khi cần thiết, thao túng Thủy và Độc.",
+        image: ""
+    };
+}
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "Cổ Thiên Lý", name: "Cổ Thiên Lý", faction: "Thiên Sa Thương Hội", description: "Gia Chủ Sa Thương, 'Thiết Toán Bàn'." },
+        { id: "Hoàng Sa Nhạn", name: "Hoàng Sa Nhạn", faction: "Thiên Sa Thương Hội", description: "Sát Thủ Sa Ảnh lạnh lùng vô tình." },
+        { id: "Hứa Nhược Thủy", name: "Hứa Nhược Thủy", faction: "Thiên Sa Thương Hội", description: "Gia Chủ Sa Dược, mẫu thân Hứa Thanh Vân." }
+    );
+}
+if (typeof relationships !== 'undefined') {
+    relationships.push(
+        { source: "Cổ Thiên Lý", target: "Hứa Nhược Thủy", type: "Đối Thủ", description: "Cạnh tranh vị thế nội bộ trong Thiên Sa Thương Hội." },
+        { source: "Cổ Thiên Lý", target: "Hoàng Sa Nhạn", type: "Thuê Mướn", description: "Thuê mạng lưới Sa Ảnh làm công cụ dọn dẹp chướng ngại." },
+        { source: "Hứa Nhược Thủy", target: "Hứa Thanh Vân", type: "Mẹ Con", description: "Bảo vệ con trai bằng mọi giá dù Thanh Vân muốn tự do." },
+        { source: "Hứa Nhược Thủy", target: "Lâm Phong", type: "Liên Minh", description: "Liên minh ngầm trong Lưu Sa Phế Tích." }
+    );
+}

@@ -220,6 +220,7 @@
 > Đã hoàn thành Task 9 cho 3 nhân vật Bán Thạch Cự Nhân (Tây Mạc): Nham Liệt, Thạch Chùy, Thạch Cương.
 > Đã hoàn thành Task 9 cho 3 nhân vật Sa Tặc Liên Minh (Tây Mạc): Hắc Phong Đại Vương, Lang Ảnh Sa, Lý Huyết Lang.
 > Đã hoàn thành Task 9 cho 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Ngư Ngân Lân Hà, Ngư Thiên Ca, Ngư Thiên Lãng.
+> Đã hoàn thành Task 9 cho 3 nhân vật Thiên Sa Thương Hội (Tây Mạc): Cổ Thiên Lý, Hoàng Sa Nhạn, Hứa Nhược Thủy.
 
 ---
 
