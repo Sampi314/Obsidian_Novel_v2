@@ -436,6 +436,7 @@
     - [Thủy Nguồn Bảo Vệ Đoàn](Thế_Lực/Thủy_Nguồn_Bảo_Vệ_Đoàn.md)
     - [Phong Sát Cốc](Thế_Lực/Phong_Sát_Cốc.md) (Đã bổ sung chi tiết: Cốc Chủ Hắc Phong, Hộ Pháp Huyết Phong, Nội Môn Hắc Sa)
     - [Pháo Đài Xanh Hội](Thế_Lực/Pháo_Đài_Xanh_Hội.md)
+    - [Bán Thạch Cự Nhân](Thế_Lực/Tây_Mạc/Bán_Thạch_Cự_Nhân.md) (Đã bổ sung chi tiết: Trưởng Lão Thạch Cương, Đội Trưởng Thạch Chùy, Chiến Binh Nham Liệt)
 - **Trung Tâm (Central):**
     - [Cửu Hoa Kiếm Tông](Thế_Lực/Cửu_Hoa_Kiếm_Tông.md)
     - [Huyết Sát Minh](Thế_Lực/Huyết_Sát_Minh.md)

@@ -8,3 +8,4 @@
 - Cập nhật file `.jules/INSTRUCTIONS.md` (giảm số nhân vật còn lại trong mục Task 9).
 - Chạy frontend tests để đảm bảo không có lỗi regressions.
 - Sẵn sàng chuyển giao Task 9 cho phiên tiếp theo.
+Phiên gần nhất: Hoàn thành Task 9 cho Bán Thạch Cự Nhân (Tây Mạc), điền chi tiết 3 nhân vật Nham Liệt, Thạch Chùy, Thạch Cương. Cập nhật relationship JSON. Còn lại 653 nhân vật.
