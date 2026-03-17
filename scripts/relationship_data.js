@@ -2,6 +2,39 @@ const relationshipData = {
   // Danh sách nhân vật (nodes)
   "characters": [
     {
+      "id": "han_tieu",
+      "name": "Hàn Tiêu",
+      "title": "Cốc Chủ",
+      "realm": "Nguyên Anh",
+      "faction": "Hàn Kiếm Cốc",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#e0f7fa"
+    },
+    {
+      "id": "hoang_doan_tuyet",
+      "name": "Hoàng Đoạn Tuyết",
+      "title": "Trưởng Lão",
+      "realm": "Kim Đan",
+      "faction": "Hàn Kiếm Cốc",
+      "region": "Bắc Băng",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#e0f7fa"
+    },
+    {
+      "id": "le_kiem_tam",
+      "name": "Lê Kiếm Tâm",
+      "title": "Chân Truyền",
+      "realm": "Kim Đan",
+      "faction": "Hàn Kiếm Cốc",
+      "region": "Bắc Băng",
+      "role": "fighter",
+      "pov": false,
+      "avatar_color": "#e0f7fa"
+    },
+    {
       "id": "hac_suong_quy",
       "name": "Hắc Sương Quỷ",
       "title": "Hộ Pháp",
@@ -412,6 +445,42 @@ const relationshipData = {
 
   // Danh sách quan hệ (edges)
   "relationships": [
+    {
+      "source": "han_tieu",
+      "target": "hoang_doan_tuyet",
+      "type": "friendly",
+      "label": "Sư đệ/Trợ thủ"
+    },
+    {
+      "source": "han_tieu",
+      "target": "le_kiem_tam",
+      "type": "master",
+      "label": "Sư phụ"
+    },
+    {
+      "source": "han_tieu",
+      "target": "lanh_vo_hon",
+      "type": "hostile",
+      "label": "Tử địch"
+    },
+    {
+      "source": "hoang_doan_tuyet",
+      "target": "le_kiem_tam",
+      "type": "friendly",
+      "label": "Trưởng bối/Tiếp tế"
+    },
+    {
+      "source": "hoang_doan_tuyet",
+      "target": "hoang_dai_san",
+      "type": "neutral",
+      "label": "Đối tác giao thương"
+    },
+    {
+      "source": "le_kiem_tam",
+      "target": "so_lang_suong",
+      "type": "rival",
+      "label": "Kình địch"
+    },
     {
       "source": "Bằng Vạn Lý",
       "target": "Cú Tĩnh Vũ",
