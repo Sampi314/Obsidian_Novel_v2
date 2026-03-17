@@ -308,6 +308,39 @@ const relationshipData = {
       "role": "supporting",
       "pov": false,
       "avatar_color": "#F0FFFF"
+    },
+    {
+      "id": "hac_phong_dai_vuong",
+      "name": "Hắc Phong Đại Vương",
+      "title": "Minh Chủ",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Sa Tặc Liên Minh",
+      "region": "Tây Mạc",
+      "role": "villain",
+      "pov": false,
+      "avatar_color": "#2c2c2c"
+    },
+    {
+      "id": "lang_anh_sa",
+      "name": "Lang Ảnh Sa",
+      "title": "Đội Trưởng Ảnh Sa",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Sa Tặc Liên Minh",
+      "region": "Tây Mạc",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#d2b48c"
+    },
+    {
+      "id": "ly_huyet_lang",
+      "name": "Lý Huyết Lang",
+      "title": "Đội Trưởng Huyết Lang",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Sa Tặc Liên Minh",
+      "region": "Tây Mạc",
+      "role": "villain",
+      "pov": false,
+      "avatar_color": "#8b0000"
     }
   ],
 
@@ -705,6 +738,54 @@ const relationshipData = {
       "since_chapter": 1,
       "bidirectional": true,
       "notes": "Cô Hàn dọn dẹp cạm bẫy giúp Bạo Phong yên tâm lao lên càn quét."
+    },
+    {
+      "from": "hac_phong_dai_vuong",
+      "to": "lang_anh_sa",
+      "type": "đồng_minh",
+      "subtype": "cấp_trên_cấp_dưới",
+      "label": "Trọng Dụng / Đề Phòng",
+      "strength": 4,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": false,
+      "notes": "Hắc Phong Đại Vương giao Ảnh Sa Đội cho Lang Ảnh Sa quản lý nhưng vẫn đề phòng."
+    },
+    {
+      "from": "hac_phong_dai_vuong",
+      "to": "ly_huyet_lang",
+      "type": "đồng_minh",
+      "subtype": "cấp_trên_cấp_dưới",
+      "label": "Tay Sai Đắc Lực",
+      "strength": 4,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": false,
+      "notes": "Hắc Phong Đại Vương lợi dụng sức mạnh cơ bắp của Huyết Lang để cướp bóc."
+    },
+    {
+      "from": "lang_anh_sa",
+      "to": "ly_huyet_lang",
+      "type": "ngờ_vực",
+      "subtype": "bất_hòa",
+      "label": "Khinh Bỉ",
+      "strength": 2,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Hai đội trưởng có phong cách trái ngược: một âm thầm ám sát, một bốc đồng ồn ào."
+    },
+    {
+      "from": "hac_phong_dai_vuong",
+      "to": "hac_phong",
+      "type": "kẻ_thù",
+      "subtype": "cạnh_tranh",
+      "label": "Cạnh Tranh Phong Lực",
+      "strength": -3,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Hắc Phong Đại Vương và Hắc Phong (Phong Sát Cốc) tranh giành địa bàn Tây Mạc."
     }
   ],
 

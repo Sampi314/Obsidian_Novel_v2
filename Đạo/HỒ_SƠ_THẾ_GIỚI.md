@@ -427,7 +427,7 @@
     - [Ảo Ảnh Lâm Tộc](Thế_Lực/Ảo_Ảnh_Lâm_Tộc.md)
 - **Tây Mạc (Western Desert):**
     - [Thiên Sa Thương Hội](Thế_Lực/Thiên_Sa_Thương_Hội.md)
-    - [Sa Tặc Liên Minh](Thế_Lực/Sa_Tặc_Liên_Minh.md)
+    - [Sa Tặc Liên Minh](Thế_Lực/Sa_Tặc_Liên_Minh.md) (Đã bổ sung chi tiết: Minh Chủ Hắc Phong Đại Vương, Đội Trưởng Lang Ảnh Sa, Đội Trưởng Lý Huyết Lang)
     - [Kim Sa Tự](Thế_Lực/Kim_Sa_Tự.md)
     - [Độc Long Bảo](Thế_Lực/Độc_Long_Bảo.md)
     - [Lưu Sa Huyễn Ảo](Thế_Lực/Lưu_Sa_Huyễn_Ảo.md)
