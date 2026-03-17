@@ -1213,4 +1213,20 @@ if (typeof relationships !== 'undefined') {
         { source: "Ngư Thiên Ca", target: "Ngư Thiên Lãng", type: "Họ Hàng", description: "Là người anh họ xa thường đem về những nhạc cụ hiếm từ đất liền làm quà." },
         { source: "Ngư Thiên Lãng", target: "Ngư Thiên Ca", type: "Họ Hàng", description: "Người em họ tài năng, luôn trân trọng nàng bằng những món quà độc đáo." }
     );
+
+    // San Hô Đảo Quốc - Vô Tận Hải (Tây Mạc path bug)
+    characters.push(
+        { id: "Ngư Tiểu Bạch", name: "Ngư Tiểu Bạch", faction: "San Hô Đảo Quốc", description: "Thiếu nữ nhân ngư, ca sĩ tập sự của Linh Ca Viện." },
+        { id: "San Bích Quang", name: "San Bích Quang", faction: "San Hô Đảo Quốc", description: "Thái tử San Hô Đảo Quốc, nghệ nhân huyễn quang tài năng." },
+        { id: "San Huyền Quang Dạ", name: "San Huyền Quang Dạ", faction: "San Hô Đảo Quốc", description: "Quang Sư bảo vệ vùng biển sâu, người dẫn đường thầm lặng." }
+    );
+
+    relationships.push(
+        { source: "Ngư Tiểu Bạch", target: "San Bích Quang", type: "Ngưỡng Mộ", description: "Vô cùng ngưỡng mộ và luôn muốn học hỏi cách kết hợp ánh sáng huyễn quang." },
+        { source: "Ngư Tiểu Bạch", target: "San Huyền Quang Dạ", type: "Kính Trọng", description: "Xem như một người anh lớn đáng tin cậy luôn thắp sáng và chỉ đường cho cô." },
+        { source: "San Bích Quang", target: "Ngư Tiểu Bạch", type: "Chăm Sóc", description: "Coi cô bé như một người em gái nhỏ đáng yêu cần được dẫn dắt." },
+        { source: "San Bích Quang", target: "San Huyền Quang Dạ", type: "Bằng Hữu", description: "Bằng hữu thân thiết và là đối tác ăn ý nhất trong việc sáng tác huyễn quang." },
+        { source: "San Huyền Quang Dạ", target: "Ngư Tiểu Bạch", type: "Bảo Vệ", description: "Thường xuyên làm người dẫn đường và soi sáng bảo vệ cô mỗi khi cô bé mạo hiểm." },
+        { source: "San Huyền Quang Dạ", target: "San Bích Quang", type: "Bằng Hữu", description: "Bạn đồng hành lâu năm, người cùng thiết kế các tác phẩm huyễn quang đỉnh cao." }
+    );
 }
