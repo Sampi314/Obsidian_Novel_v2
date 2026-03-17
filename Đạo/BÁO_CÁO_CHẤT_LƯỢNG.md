@@ -36,3 +36,4 @@
 - **Hôm nay:** Viết Chương 7-10 cho Nham Thần và Lục Tiêu (Đông Hoang). Lục Tiêu ra khỏi Vĩnh Hằng Sâm Lâm, dùng âm nhạc tịnh hóa Huyết Độc.
 
 - [2026-03-16] Hoàn thành điền chi tiết 3 nhân vật cho thế lực Ngọc Trai Sâu Phường (Đông Hoang).
+- [x] **Task 9 (Điền thông tin nhân vật):** Hoàn thành cho Linh Thâm Nguyệt, Linh Tiểu Uyên, và Linh Trầm Uyên (Thâm Hải Vi Linh - Vô Tận Hải) theo đúng template. Không mâu thuẫn lore. Đã cập nhật Relationship Data JS.

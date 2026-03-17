@@ -50,3 +50,8 @@
 - **Đặc Điểm:** Gia Chủ Hứa Gia (Thiên Sa Thương Hội), Nguyên Anh Sơ Kỳ, Song Linh Căn Thủy-Mộc.
 - **Vai Trò:** Thương nhân trung lập, cung cấp dược liệu quan trọng cho cả hai phe. Người giao nhiệm vụ.
 - **Ghi Chú:** Tính cách thực dụng, uy quyền nhưng có tình mẫu tử sâu sắc. Là nhân vật cầu nối tại Tây Mạc.
+
+## PHIÊN GẦN NHẤT
+- Đã hoàn thành Task 9 cho 3 nhân vật thuộc Thâm Hải Vi Linh (Vô Tận Hải): Linh Thâm Nguyệt, Linh Tiểu Uyên, Linh Trầm Uyên.
+- Đã bổ sung đầy đủ các mục Ngoại Hình & Tính Cách, Năng Lực & Chiến Đấu, Các Mối Quan Hệ, và Tiểu Sử & Hành Trình.
+- Đã cập nhật `scripts/relationship_data.js` để kết nối 3 nhân vật này.
