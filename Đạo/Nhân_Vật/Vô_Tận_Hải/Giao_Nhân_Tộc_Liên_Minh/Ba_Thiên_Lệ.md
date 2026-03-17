@@ -26,13 +26,17 @@ arcs:
 - **Chức Vụ:** Trưởng Lão.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Ông là một Giao Nhân lớn tuổi, tóc bạc phơ được kết lại bằng những dải rong biển phát sáng, trên mặt hằn những nếp nhăn của thời gian và nỗi sầu vô tận. Khí chất của ông uy nghiêm nhưng lại chất chứa sự bi kịch của một dân tộc luôn bị dồn ép. Ông có tính cách trầm mặc, đầy lo âu và rất khôn ngoan trong ngoại giao, luôn ưu tiên đàm phán hơn là đổ máu vô ích.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+- Là một trưởng lão kỳ cựu, ông tu luyện sâu sắc *Giao Nhân Khấp Lệ Quyết* (鲛人泣泪诀), biến nỗi đau thương của bản thân và tộc nhân thành sức mạnh tâm linh để phòng ngự.
+- **Kỹ thuật đặc trưng:** *Lệ Châu Trấn Hồn* (泪珠镇魂) - Tung ra những giọt nước mắt hóa ngọc chứa linh lực tịnh hóa, giải trừ các trạng thái hỗn loạn, khôi phục sinh lực cho đồng minh trong phạm vi rộng.
+- Hầu như không bao giờ chủ động tấn công, ông là trụ cột phòng thủ và trị liệu quan trọng bậc nhất trong các cuộc giao tranh lớn.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lệ Cơ (Minh Chủ):** Luôn khuyên can nàng không nên kích động chiến tranh với Long Cung, thường xuyên đóng vai trò là "kẻ nói thật mất lòng" nhưng vì đại cục.
+- **Ba Nguyệt Hà:** Ông đánh giá cao tài năng của nàng và luôn cố gắng chỉ dạy nàng về tầm quan trọng của việc duy trì sự nhẫn nhịn và khôn khéo trong kinh tế.
+- **Sứ giả Bách Bảo Các:** Những đối tác thương mại, ông cố gắng duy trì mối quan hệ bằng hữu nhưng vẫn không thôi cảnh giác trước bản tính tham lam của con người.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ba Thiên Lệ từng chứng kiến cuộc đại di cư tàn khốc của Giao Nhân khỏi các vùng biển nông trước sự tàn phá của các thế lực khác. Ông đã tự tay dệt nên những viên Ngọc Trai Giao Nhân đầu tiên từ chính nỗi đau mất đi gia đình mình, và đó cũng là nguồn sức mạnh để ông sống sót, trở thành một trong những trưởng lão quyền lực nhất của Liên Minh. Hiện tại, ông gánh vác trách nhiệm thương thuyết, tìm kiếm sự bảo trợ từ những thế lực không thù địch, đồng thời duy trì sự ổn định mong manh giữa Giao Nhân Tộc với Long Cung.

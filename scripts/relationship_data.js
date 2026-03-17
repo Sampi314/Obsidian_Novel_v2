@@ -791,6 +791,20 @@ if (typeof characterData !== 'undefined') {
         description: "Tây Bắc Tướng Quân, bạch tuộc đen tàn nhẫn và khát máu.",
         image: ""
     };
+    characterData["Ba Ngọc Hàn"] = {
+        name: "Ba Ngọc Hàn",
+        faction: "Giao Nhân Tộc Liên Minh",
+        realm: "Trúc Cơ Hậu Kỳ",
+        description: "Đội Trưởng Hải Ba Vệ, nóng nảy, can đảm, mang mối hận thù sâu sắc với những kẻ săn trộm Giao Nhân.",
+        image: ""
+    };
+    characterData["Ba Thiên Lệ"] = {
+        name: "Ba Thiên Lệ",
+        faction: "Giao Nhân Tộc Liên Minh",
+        realm: "Kim Đan Hậu Kỳ",
+        description: "Trưởng Lão, trầm mặc, uy nghiêm, biến nỗi bi thương thành sức mạnh phòng ngự và trị liệu.",
+        image: ""
+    };
     characterData["Chương Thiên Cơ Huyền"] = {
         name: "Chương Thiên Cơ Huyền",
         faction: "Hải Thần Cung",
@@ -1070,5 +1084,13 @@ if (typeof relationships !== 'undefined') {
         { source: "Oanh Minh Sa", target: "Hắc Sa", type: "Đề Phòng", description: "Thường xuyên phá rối và cảnh báo lữ khách né bẫy của Hắc Sa." },
         { source: "Oanh Minh Sa", target: "Khô Giáp Lão", type: "Sợ Hãi", description: "Luôn phải bay cao tránh lực hút tử thần của con quái vật này." },
         { source: "Khô Giáp Lão", target: "Oanh Minh Sa", type: "Săn Mồi", description: "Luôn chực chờ cơ hội nuốt chửng con chim hay phá đám bữa ăn của mình." }
+    );
+    relationships.push(
+        { source: "Ba Nguyệt Hà", target: "Ba Ngọc Hàn", type: "Chị Em", description: "Là chị ruột, thường xuyên lo lắng và trách mắng tính bốc đồng của em trai." },
+        { source: "Ba Ngọc Hàn", target: "Ba Nguyệt Hà", type: "Chị Em", description: "Dù hay bị mắng nhưng luôn hết lòng bảo vệ chị gái khỏi mọi nguy hiểm." },
+        { source: "Ba Nguyệt Hà", target: "Ba Thiên Lệ", type: "Đồng Liêu", description: "Tôn trọng kinh nghiệm và thường xuyên tiếp thu những bài học ngoại giao từ ông." },
+        { source: "Ba Thiên Lệ", target: "Ba Nguyệt Hà", type: "Hướng Dẫn", description: "Đánh giá cao tài năng của nàng, luôn hướng dẫn nàng tầm quan trọng của sự khôn khéo." },
+        { source: "Ba Ngọc Hàn", target: "Ba Thiên Lệ", type: "Đồng Liêu", description: "Hay khó chịu vì sự nhẫn nhịn của vị trưởng lão, nhưng không thể không kính nể." },
+        { source: "Ba Thiên Lệ", target: "Ba Ngọc Hàn", type: "Nhắc Nhở", description: "Thường nhắc nhở hắn bớt nóng nảy để không đem lại rắc rối cho liên minh." }
     );
 }
