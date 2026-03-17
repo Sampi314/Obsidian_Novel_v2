@@ -15,21 +15,16 @@
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Ốc Đảo Vi Linh (Tây Mạc): Linh Dao Nhi, Linh Hạ Vũ, Linh Lộ Hà. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Tán Tu (Tây Mạc): Hắc Sa, Khô Giáp Lão, Oanh Minh Sa. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Băng Lang Bộ Lạc: Lang Bạch Sương, Lang Bạo Phong, Lang Cô Hàn. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hắc Tinh Linh Lưu Đày: Ám Diệp, Ám Dạ Hành, Ám Huyết. Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hàn Độc Vi Trùng Đoàn: Băng Dực, Trùng Băng Châm, Trùng Bạch Lân. Cập nhật INSTRUCTIONS và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hỗn Huyết Tinh Linh Hội: Hỗn Nguyệt, Lâm Kỳ Dạ, Hồ Linh Hoa Nguyệt. Cập nhật INSTRUCTIONS và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Bào Tử Mật Lâm Tộc: Bào Hồng Tán, Bào Huyết Tịnh, Bào Hắc Lâm. Cập nhật HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hải Thần Cung (Vô Tận Hải): Chương Hắc Triều, Chương Thiên Cơ Huyền, Chương Thiên Nhãn. Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hoàng Đại Sơn, Lý Tuyết Phong, Nguyễn Hàn Sương (Băng Nguyên Tán Tu Hội). Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Viết Chương 129-132 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm liên minh sinh tồn trong Hắc Sa Bão bằng lồng gỗ bọc băng của Lâm Phong. Rơi xuống thạch thất ngầm. |
-| Hôm nay | Tổng Quản | Viết Chương 125-128 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm tiến vào tâm phong ấn, đối mặt với Long Cốt và Huyết Độc Chi Hỏa. Phải đào thoát khỏi Hoàng Sa Địa Cung. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hải Thần Cung (Vô Tận Hải): Giao Bạch Ngọc, Giao Nguyệt Hàn, Giao Thiên Lệ Nguyệt. Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Bách Bảo Các (Thiên Trụ): Lý Minh Châu, Châu Thương, Hứa Ngọc. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Bán Thạch Cự Nhân (Tây Mạc): Nham Liệt, Thạch Chùy, Thạch Cương. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Sa Tặc Liên Minh (Tây Mạc): Hắc Phong Đại Vương, Lang Ảnh Sa, Lý Huyết Lang. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Ngư Ngân Lân Hà, Ngư Thiên Ca, Ngư Thiên Lãng. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Ốc Đảo Vi Linh (Tây Mạc): Linh Dao Nhi, Linh Hạ Vũ, Linh Lộ Hà. |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Tán Tu (Tây Mạc): Hắc Sa, Khô Giáp Lão, Oanh Minh Sa. |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Băng Lang Bộ Lạc: Lang Bạch Sương, Lang Bạo Phong, Lang Cô Hàn. |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hắc Tinh Linh Lưu Đày: Ám Diệp, Ám Dạ Hành, Ám Huyết. |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hàn Độc Vi Trùng Đoàn: Băng Dực, Trùng Băng Châm, Trùng Bạch Lân. |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hỗn Huyết Tinh Linh Hội: Hỗn Nguyệt, Lâm Kỳ Dạ, Hồ Linh Hoa Nguyệt. |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Bào Tử Mật Lâm Tộc: Bào Hồng Tán, Bào Huyết Tịnh, Bào Hắc Lâm. |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hải Thần Cung (Vô Tận Hải): Chương Hắc Triều, Chương Thiên Cơ Huyền, Chương Thiên Nhãn. |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Băng Nguyên Tán Tu Hội: Hoàng Đại Sơn, Lý Tuyết Phong, Nguyễn Hàn Sương. |
 
 ## GHI CHÚ GẦN ĐÂY
 - **Hôm nay:** Viết Chương 121-124 (Góc Nhìn Lâm Phong). Nhóm vượt qua cánh cổng đá, khám phá bí mật Huyết Độc Chi Hỏa của Vu Tộc trong Hoàng Sa Địa Cung, chiến đấu với khôi lỗi đá, Lệ Vô Tâm dùng tà chú Vu Tộc và A Ngốc vô tình tiêu diệt Kẻ Gác Cổng Huyết Vu.

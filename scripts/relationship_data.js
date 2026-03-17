@@ -1205,4 +1205,12 @@ if (typeof relationships !== 'undefined') {
         { source: "Ba Ngọc Hàn", target: "Ba Thiên Lệ", type: "Đồng Liêu", description: "Hay khó chịu vì sự nhẫn nhịn của vị trưởng lão, nhưng không thể không kính nể." },
         { source: "Ba Thiên Lệ", target: "Ba Ngọc Hàn", type: "Nhắc Nhở", description: "Thường nhắc nhở hắn bớt nóng nảy để không đem lại rắc rối cho liên minh." }
     );
+    relationships.push(
+        { source: "Ngư Ngân Lân Hà", target: "Ngư Thiên Ca", type: "Đồng Liêu", description: "Phối hợp duy trì trận pháp, nàng thường trêu chọc sự cứng nhắc của hắn nhưng luôn hồi phục sức mạnh cho hắn." },
+        { source: "Ngư Thiên Ca", target: "Ngư Ngân Lân Hà", type: "Đồng Liêu", description: "Được nàng trêu chọc, là người bảo vệ đắc lực cho mọi nhiệm vụ ranh giới." },
+        { source: "Ngư Ngân Lân Hà", target: "Ngư Thiên Lãng", type: "Hộ Tống", description: "Thường xuyên phải hộ tống và bảo vệ thương nhân đôi khi phiền phức này." },
+        { source: "Ngư Thiên Lãng", target: "Ngư Ngân Lân Hà", type: "Tin Tưởng", description: "Dù Ngân Lân Hà hay càu nhàu, hắn vẫn coi vị vệ binh trưởng là người bảo vệ đắc lực nhất." },
+        { source: "Ngư Thiên Ca", target: "Ngư Thiên Lãng", type: "Họ Hàng", description: "Là người anh họ xa thường đem về những nhạc cụ hiếm từ đất liền làm quà." },
+        { source: "Ngư Thiên Lãng", target: "Ngư Thiên Ca", type: "Họ Hàng", description: "Người em họ tài năng, luôn trân trọng nàng bằng những món quà độc đáo." }
+    );
 }
