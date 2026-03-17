@@ -440,6 +440,39 @@ const relationshipData = {
       "role": "villain",
       "pov": false,
       "avatar_color": "#8b0000"
+    },
+    {
+      "id": "gioi_tran",
+      "name": "Giới Trần",
+      "title": "Trưởng Lão",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Kim Sa Tự",
+      "region": "Tây Mạc",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#daa520"
+    },
+    {
+      "id": "hue_minh",
+      "name": "Huệ Minh",
+      "title": "Thủ Các Kinh Diệu",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Kim Sa Tự",
+      "region": "Tây Mạc",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#d2b48c"
+    },
+    {
+      "id": "khong_do",
+      "name": "Không Độ",
+      "title": "Trụ Trì",
+      "realm": "Hóa Thần Sơ Kỳ",
+      "faction": "Kim Sa Tự",
+      "region": "Tây Mạc",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ffb6c1"
     }
   ],
 
@@ -957,6 +990,78 @@ const relationshipData = {
       "since_chapter": 1,
       "bidirectional": true,
       "notes": "Hắc Phong Đại Vương và Hắc Phong (Phong Sát Cốc) tranh giành địa bàn Tây Mạc."
+    },
+    {
+      "from": "khong_do",
+      "to": "gioi_tran",
+      "type": "đồng_minh",
+      "subtype": "sư_đệ",
+      "label": "Sư huynh - Sư đệ",
+      "strength": 4,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Không Độ cố gắng độ hóa sát khí trong lòng Giới Trần, trong khi Giới Trần kính trọng Không Độ dù hay cằn nhằn."
+    },
+    {
+      "from": "khong_do",
+      "to": "hue_minh",
+      "type": "đồng_minh",
+      "subtype": "sư_đệ",
+      "label": "Sư huynh - Sư đệ",
+      "strength": 4,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Không Độ tin tưởng giao trọng trách bảo tồn di sản cho Huệ Minh, Huệ Minh phục tùng và bàn luận kinh Phật cùng trụ trì."
+    },
+    {
+      "from": "gioi_tran",
+      "to": "hue_minh",
+      "type": "đồng_minh",
+      "subtype": "sư_huynh_đệ",
+      "label": "Khắc Khẩu",
+      "strength": 2,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Hai người thường xuyên khắc khẩu do khác biệt quan điểm văn-võ."
+    },
+    {
+      "from": "khong_do",
+      "to": "hac_phong_dai_vuong",
+      "type": "kẻ_thù",
+      "subtype": "cần_độ_hóa",
+      "label": "Hy Vọng Độ Hóa",
+      "strength": -2,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": false,
+      "notes": "Không Độ không muốn tiêu diệt mà luôn hy vọng có một ngày sẽ độ hóa được Hắc Phong Đại Vương."
+    },
+    {
+      "from": "gioi_tran",
+      "to": "hac_phong_dai_vuong",
+      "type": "kẻ_thù",
+      "subtype": "thề_giết",
+      "label": "Không Đội Trời Chung",
+      "strength": -5,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Giới Trần thề nhổ cỏ tận gốc băng sa tặc của Hắc Phong Đại Vương."
+    },
+    {
+      "from": "hue_minh",
+      "to": "hua_nhuoc_thuy",
+      "type": "đồng_minh",
+      "subtype": "hợp_tác",
+      "label": "Đối Tác Học Thuật",
+      "strength": 3,
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Huệ Minh giao dịch với Hứa Nhược Thủy để thu thập các bản kinh thư cổ thất lạc."
     }
   ],
 
@@ -1423,6 +1528,29 @@ if (typeof characterData !== 'undefined') {
         faction: "Thiên Sa Thương Hội",
         realm: "Nguyên Anh Sơ Kỳ",
         description: "Gia Chủ Sa Dược đằm thắm nhưng tàn nhẫn khi cần thiết, thao túng Thủy và Độc.",
+        image: ""
+    };
+
+    // Kim Sa Tự (Tây Mạc)
+    characterData["Giới Trần"] = {
+        name: "Giới Trần",
+        faction: "Kim Sa Tự",
+        realm: "Nguyên Anh Trung Kỳ",
+        description: "Trưởng Lão nóng nảy, luyện thể cương mãnh, ghét cái ác và sử dụng Phá Giới Kim Cương Quyền.",
+        image: ""
+    };
+    characterData["Huệ Minh"] = {
+        name: "Huệ Minh",
+        faction: "Kim Sa Tự",
+        realm: "Nguyên Anh Trung Kỳ",
+        description: "Thủ Các Kinh Diệu điềm đạm, thiên về thuật pháp, âm công, và phục dựng di thư cổ.",
+        image: ""
+    };
+    characterData["Không Độ"] = {
+        name: "Không Độ",
+        faction: "Kim Sa Tự",
+        realm: "Hóa Thần Sơ Kỳ",
+        description: "Trụ Trì từ bi uy nghiêm, trấn áp ma vật dưới Cửu Tầng Kim Tháp bằng sức mạnh kim hệ và phật pháp.",
         image: ""
     };
 
