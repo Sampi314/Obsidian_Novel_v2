@@ -38,6 +38,7 @@
         - *Ốc Đảo Thanh Lương:* Điểm dừng chân an toàn với nguồn nước chữa lành. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Ốc_Đảo_Thanh_Lương.md`.
         - *Ốc Đảo Tịch Mịch:* Một ốc đảo nhỏ xơ xác giữa Tây Mạc, nơi Lệ Vô Tâm lần đầu tiên thanh tẩy Huyết Thần Độc khỏi mạch nước ngầm để cứu những người dân nghèo.
         - *Trạm Dừng Chân Số 7:* Pháo đài trung chuyển của Thiên Sa Thương Hội, cửa ngõ vào sa mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Trạm_Dừng_Chân_Số_7.md`.
+        - *Ốc Đảo Vi Linh:* Các ốc đảo nằm rải rác khắp Tây Mạc (như Minh Nguyệt Châu, Khô Vinh Châu, Huyết Tuyền Châu) là nơi cư ngụ của Vi Tộc nhỏ bé. Họ đảm nhận vai trò thanh lọc, duy trì nguồn nước, và chữa trị cho cư dân sa mạc (Task 9: Linh Dao Nhi, Linh Hạ Vũ, Linh Lộ Hà).
         - *Hắc Sa Bão:* Hiện tượng thiên nhiên tàn khốc đặc trưng của Tây Mạc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Hắc_Sa_Bão.md`.
         - *Pháo Đài Xanh:* Thánh địa ẩn giấu trong Rừng Thiên Trụ, nơi trấn áp Phong Sát. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Pháo_Đài_Xanh.md`.
     - **Đông Hoang (Eastern Wilderness):** Vùng đất rộng lớn với sự tồn tại của nhiều Yêu Tộc và các thế lực tà môn.

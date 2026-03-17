@@ -999,9 +999,40 @@ if (typeof characterData !== 'undefined') {
         description: "Yêu thú Vũ Tộc mang hình dáng chim oanh hiền hòa, dùng tiếng hót để dẫn đường và báo động cho lữ khách.",
         image: ""
     };
+
+    // Ốc Đảo Vi Linh (Tây Mạc)
+    characterData["Linh Dao Nhi"] = {
+        name: "Linh Dao Nhi",
+        faction: "Ốc Đảo Vi Linh",
+        realm: "Trúc Cơ",
+        description: "Nữ Quan Thủy Khố cẩn trọng và nghiêm khắc, quản lý kho nước dự trữ và tính toán phân phối lượng nước cho mùa hạn hán.",
+        image: ""
+    };
+    characterData["Linh Hạ Vũ"] = {
+        name: "Linh Hạ Vũ",
+        faction: "Ốc Đảo Vi Linh",
+        realm: "Trúc Cơ",
+        description: "Cầu Vũ Sư kiên trì với hy vọng gọi mưa cho ốc đảo, dù thường xuyên thất bại.",
+        image: ""
+    };
+    characterData["Linh Lộ Hà"] = {
+        name: "Linh Lộ Hà",
+        faction: "Ốc Đảo Vi Linh",
+        realm: "Kim Đan",
+        description: "Dược Sư Nước từ tốn, tĩnh lặng, tinh lọc dược tính từ thực vật để tạo thành linh dược chữa trị.",
+        image: ""
+    };
 }
 
 if (typeof relationships !== 'undefined') {
+    relationships.push(
+        { source: "Linh Dao Nhi", target: "Linh Hạ Vũ", type: "Đồng Sự", description: "Thường xuyên trao đổi về lượng nước cần thiết để chuẩn bị cho các nghi lễ gọi mưa." },
+        { source: "Linh Hạ Vũ", target: "Linh Dao Nhi", type: "Phối Hợp", description: "Dao Nhi cung cấp và tiết kiệm nước để có đủ lượng linh khí cần thiết cho nghi thức gọi mưa của Hạ Vũ." },
+        { source: "Linh Dao Nhi", target: "Linh Lộ Hà", type: "Bạn Thân", description: "Thường xuyên cung cấp những giọt nước tinh khiết nhất để Lộ Hà bào chế dược liệu." },
+        { source: "Linh Lộ Hà", target: "Linh Dao Nhi", type: "Bằng Hữu", description: "Nhận được những giọt sương giá trị nhất từ Dao Nhi để tinh luyện." },
+        { source: "Linh Hạ Vũ", target: "Linh Lộ Hà", type: "Bạn Bè", description: "Nhận được linh dược hồi phục tinh thần từ Lộ Hà mỗi khi gọi mưa thất bại." },
+        { source: "Linh Lộ Hà", target: "Linh Hạ Vũ", type: "Hỗ Trợ", description: "Sự thất bại của Hạ Vũ là động lực để Lộ Hà liên tục chế ra các linh dược làm mát và hồi phục tinh thần." }
+    );
     relationships.push(
         { source: "Hắc Sa", target: "Khô Giáp Lão", type: "Cảnh Giác", description: "Thường đi theo nhặt mót nhưng luôn sợ bị nuốt chửng." },
         { source: "Khô Giáp Lão", target: "Hắc Sa", type: "Khinh Thường", description: "Coi Hắc Sa như rệp nhặt mót, nhưng lười không buồn giết." },

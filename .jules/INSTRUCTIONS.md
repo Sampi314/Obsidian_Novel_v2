@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: ~722 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Tán Tu - Tây Mạc ở phiên trước). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
+1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: ~665 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Ốc Đảo Vi Linh - Tây Mạc ở phiên trước). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
 2. **Sau khi Task 9 hoàn thành** → Tiếp tục Catch-up Lâm Phong (Task 2): Viết chương 133+ cho Góc Nhìn Lâm Phong.
 3. **Sau khi Task 9 hoàn thành** → Tiếp tục Task 5 (Tuyến Khu Vực): Viết Arc 2 cho các khu vực.
 
@@ -213,6 +213,7 @@
 > Đã hoàn thành Task 9 cho 3 nhân vật Cự Linh Tông (Bắc Băng): Nham Chấn Nhạc, Nham Hồng Hoang, Nham Kình Thiên.
 > Đã hoàn thành Task 9 cho 2 nhân vật Cổ Nham Bộ Lạc (Tây Mạc): Nham Tĩnh, Xích Nham.
 > Đã hoàn thành Task 9 cho 3 nhân vật Phong Sát Cốc (Tây Mạc): Hắc Phong, Huyết Phong, Hắc Sa.
+> Đã hoàn thành Task 9 cho 3 nhân vật Ốc Đảo Vi Linh (Tây Mạc): Linh Dao Nhi, Linh Hạ Vũ, Linh Lộ Hà.
 
 ---
 
