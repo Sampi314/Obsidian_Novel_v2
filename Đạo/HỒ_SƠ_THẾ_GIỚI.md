@@ -603,6 +603,11 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Khô Giáp Lão (Giáp Trùng Sa Mạc)**: Yêu thú Trùng Tộc Kim Đan Hậu Kỳ dưới hình hài bọ hung khổng lồ, giả chết chờ con mồi với kỹ năng "Thôn Phệ Sa Bạo".
   - **Oanh Minh Sa (Truyền Tin)**: Yêu thú Vũ Tộc mang hình dáng chim oanh hiền hòa, dùng "Huyễn Âm Mê Sa" và tiếng hót để dẫn đường cho lữ khách.
 
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Bách Bảo Các** (Thiên Trụ):
+  - **Lý Minh Châu (Giám Định Viện Chủ)**: Quý phu nhân đài các, sở hữu đôi mắt phượng sắc bén và "Linh Nhãn Thông" nhìn thấu mọi ngụy trang, là bậc thầy thẩm định cổ vật.
+  - **Châu Thương (Đấu Giá Đường Chủ)**: Thương nhân phốt pháp, phúc hậu nhưng vô cùng mưu mô, bậc thầy thao túng tâm lý đám đông tại các buổi đấu giá bằng "Ngôn Linh Thôi Miên".
+  - **Hứa Ngọc (Giám Định Sư)**: Từng là thành viên Hứa gia và quản sự phân đà Thiên Sa Thương Hội tại Tây Mạc, mang thân phận hai mang và giảo hoạt, hiện làm việc cho Bách Bảo Các tại vùng biên viễn để phục vụ ý đồ báo thù Lâm Phong.
+
 - Cập nhật các mối quan hệ nội bộ và ngoại giao của phường vào hệ thống dữ liệu cốt truyện.
 
 ## SỰ KIỆN LỊCH SỬ NỔI BẬT

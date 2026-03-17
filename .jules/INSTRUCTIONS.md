@@ -214,6 +214,7 @@
 > Đã hoàn thành Task 9 cho 2 nhân vật Cổ Nham Bộ Lạc (Tây Mạc): Nham Tĩnh, Xích Nham.
 > Đã hoàn thành Task 9 cho 3 nhân vật Phong Sát Cốc (Tây Mạc): Hắc Phong, Huyết Phong, Hắc Sa.
 > Đã hoàn thành Task 9 cho 3 nhân vật Ốc Đảo Vi Linh (Tây Mạc): Linh Dao Nhi, Linh Hạ Vũ, Linh Lộ Hà.
+> Đã hoàn thành Task 9 cho 3 nhân vật Bách Bảo Các (Thiên Trụ): Lý Minh Châu, Châu Thương, Hứa Ngọc.
 
 ---
 
