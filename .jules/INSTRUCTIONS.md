@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: ~641 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Sương Ma Uyển - Bắc Băng ở phiên trước). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
+1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: ~638 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Sương Ma Uyển - Bắc Băng ở phiên trước). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
 2. **Sau khi Task 9 hoàn thành** → Tiếp tục Catch-up Lâm Phong (Task 2): Viết chương 133+ cho Góc Nhìn Lâm Phong.
 3. **Sau khi Task 9 hoàn thành** → Tiếp tục Task 5 (Tuyến Khu Vực): Viết Arc 2 cho các khu vực.
 
@@ -209,6 +209,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã hoàn thành Task 9 cho 3 nhân vật Vực Thẳm Ma Cung (Vô Tận Hải): Hắc Triều, Ngư Quỷ Diện, Thâm Hải.
 > Đã hoàn thành Task 9 cho 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Ngư Tiểu Bạch, San Bích Quang, San Huyền Quang Dạ.
 > Đã hoàn thành Task 9 cho 3 nhân vật Phiêu Miễu Băng Hải (Bắc Băng): Băng San Hô, Hàn Thanh Âm, Hải Cung.
 > Đã hoàn thành Task 9 cho 3 nhân vật Cự Linh Tông (Bắc Băng): Nham Chấn Nhạc, Nham Hồng Hoang, Nham Kình Thiên.

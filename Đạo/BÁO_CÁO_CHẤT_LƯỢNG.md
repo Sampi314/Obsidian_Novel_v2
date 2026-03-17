@@ -41,3 +41,10 @@
 - [2026-03-16] Hoàn thành điền chi tiết 3 nhân vật cho thế lực Ngọc Trai Sâu Phường (Đông Hoang).
 - [x] **Task 9 (Điền thông tin nhân vật):** Hoàn thành cho Linh Thâm Nguyệt, Linh Tiểu Uyên, và Linh Trầm Uyên (Thâm Hải Vi Linh - Vô Tận Hải) theo đúng template. Không mâu thuẫn lore. Đã cập nhật Relationship Data JS.
 - **Ngày 03/06/2024:** Đã điền chi tiết 4 section (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật phe Thiên Sa Thương Hội (Tây Mạc): Cổ Thiên Lý, Hoàng Sa Nhạn, Hứa Nhược Thủy. Đảm bảo format chuẩn, đầy đủ thông tin tiếng Việt.
+
+## [BÁO CÁO MỚI] - 2026-03-17
+**Loại kiểm tra:** Cập Nhật Hồ Sơ Nhân Vật (Task 9)
+**Nội dung:**
+- Hoàn thiện Section II - V cho 3 nhân vật: `Hắc Triều`, `Ngư Quỷ Diện`, và `Thâm Hải` thuộc Vực Thẳm Ma Cung (Vô Tận Hải).
+- Cập nhật relationship_data.js.
+- Nhân vật đã được kiểm tra: Đủ 4 section, có quan hệ chéo, có đặc điểm nhận diện riêng biệt phù hợp với tộc Hải Tộc (Biến Dị)/Thủy Ma.

@@ -640,3 +640,6 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 
 ### San Hô Đảo Quốc (Vô Tận Hải)
 - **Ngư Ngân Lân Hà (Vệ Binh Trưởng), Ngư Thiên Ca (Đại Nhạc Sư), Ngư Thiên Lãng (Thương Nhân):** Các nhân vật đại diện cho San Hô Đảo Quốc. Ngân Lân Hà nghiêm nghị bảo vệ ranh giới bằng sóng âm; Thiên Ca điềm đạm dùng huyễn thuật và âm nhạc để chữa lành; Thiên Lãng linh hoạt khôn khéo mở rộng mạng lưới giao thương. Họ tạo nên bức tranh đa dạng về sức mạnh, nghệ thuật và sự khéo léo của cư dân đảo quốc.
+
+## NHỮNG CẬP NHẬT GẦN ĐÂY
+- **[Vô Tận Hải]** Bổ sung hồ sơ nhân vật **Hắc Triều**, **Ngư Quỷ Diện**, và **Thâm Hải** thuộc **Vực Thẳm Ma Cung**.
