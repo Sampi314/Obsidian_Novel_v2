@@ -781,6 +781,14 @@ if (typeof relationships !== 'undefined') {
         { source: "Chương Thiên Cơ Huyền", target: "Chương Hắc Triều", type: "Cấp Trên", description: "Thường xuyên răn đe Hắc Triều vì sự bạo lực vô cớ." },
         { source: "Chương Thiên Nhãn", target: "Chương Hắc Triều", type: "Đồng Liêu", description: "Cung cấp tọa độ mục tiêu nhưng cũng âm thầm đề phòng." }
     );
+    relationships.push(
+        { source: "Nham Liệt", target: "Thạch Chùy", type: "Cấp Dưới", description: "Kính trọng nhưng thường xuyên cãi lời vì cho rằng đội trưởng quá thận trọng." },
+        { source: "Thạch Chùy", target: "Nham Liệt", type: "Đội Trưởng", description: "Thường xuyên trách mắng và sửa chữa sai lầm cho Liệt, nhưng thâm tâm rất thương hắn." },
+        { source: "Nham Liệt", target: "Thạch Cương", type: "Sùng Bái", description: "Coi Trưởng Lão là hình mẫu lý tưởng, luôn mong mỏi sự công nhận từ ông." },
+        { source: "Thạch Cương", target: "Nham Liệt", type: "Chỉ Dạy", description: "Thấu hiểu mặc cảm, hay để hắn nhận thử thách nhằm rèn giũa bản tính." },
+        { source: "Thạch Chùy", target: "Thạch Cương", type: "Kính Trọng", description: "Coi ông như người thầy, người cha đã truyền cảm hứng và cưu mang mình." },
+        { source: "Thạch Cương", target: "Thạch Chùy", type: "Tin Tưởng", description: "Tin tưởng tuyệt đối vào sự thận trọng của Chùy, coi là người kế nghiệp tương lai." }
+    );
 }
 
 if (typeof characterData !== 'undefined') {
@@ -817,6 +825,29 @@ if (typeof characterData !== 'undefined') {
         faction: "Hải Thần Cung",
         realm: "Trúc Cơ Viên Mãn",
         description: "Tình Báo Trưởng, bạch tuộc nhỏ bé với hàng ngàn con mắt.",
+        image: ""
+    };
+
+    // Bán Thạch Cự Nhân (Tây Mạc)
+    characterData["Nham Liệt"] = {
+        name: "Nham Liệt",
+        faction: "Bán Thạch Cự Nhân",
+        realm: "Luyện Khí Hậu Kỳ",
+        description: "Chiến binh trẻ bốc đồng, luôn muốn chứng tỏ bản thân với Thiết Thạch Quyền.",
+        image: ""
+    };
+    characterData["Thạch Chùy"] = {
+        name: "Thạch Chùy",
+        faction: "Bán Thạch Cự Nhân",
+        realm: "Trúc Cơ Sơ Kỳ",
+        description: "Đội Trưởng Vệ Binh vạm vỡ, thận trọng, phòng ngự kiên cố như bàn thạch.",
+        image: ""
+    };
+    characterData["Thạch Cương"] = {
+        name: "Thạch Cương",
+        faction: "Bán Thạch Cự Nhân",
+        realm: "Trúc Cơ Viên Mãn",
+        description: "Trưởng Lão khổng lồ già cỗi, bao dung, người sáng lập và che chở bộ lạc.",
         image: ""
     };
 }

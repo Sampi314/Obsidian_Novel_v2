@@ -26,13 +26,17 @@ arcs:
 - **Chức Vụ:** Đội Trưởng Vệ Binh.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Thạch Chùy vạm vỡ, cao lớn với lớp da màu nâu đen điểm xuyết những mảng đá hoa cương lấm tấm, cùng một vết sẹo xẻ dọc ngực - dấu tích từ trận chiến với bão cát. Gương mặt vuông vức lúc nào cũng tỏ vẻ điềm tĩnh, suy tư. Trái ngược với ngoại hình cục cằn, Thạch Chùy cực kỳ thận trọng, sống có nguyên tắc, và đề cao sự an toàn của bộ lạc lên hàng đầu. Hắn luôn bình tĩnh phân tích tình hình, ghét cay ghét đắng sự liều lĩnh.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phong cách chiến đấu của Thạch Chùy thiên về phòng thủ kiên cố, tạo thành một bức tường đá chắn trước đồng đội để sau đó mới phản công.
+- **Bàn Thạch Hộ Thể (盘石护体):** Kích hoạt nội lực, đẩy những mảng đá trên da tạo thành một lớp giáp dày đặc, chịu đựng được những đòn tấn công vật lý nặng nề.
+- **Cốt Thạch Chấn Chùy (骨石震锤):** Sử dụng một chiếc chùy lớn rèn từ xương thú và thạch anh, đập thẳng vào mặt đất tạo chấn động cản bước hoặc làm suy yếu đối phương.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Thạch Cương:** Trưởng Lão bộ lạc. Thạch Chùy coi ông như một người thầy, người cha đã truyền cảm hứng và trao trọng trách bảo vệ bộ lạc.
+- **Nham Liệt:** Cấp dưới trong Đội Vệ Binh. Thạch Chùy thường xuyên phải sửa chữa những sai lầm bốc đồng của Nham Liệt, tuy luôn trách mắng nhưng lại rất thương hắn.
+- **Đại Mạc Gác Đêm:** Một vài sĩ quan Gác Đêm từng hợp tác giao thương với hắn, có sự tôn trọng lẫn nhau dù vẫn duy trì khoảng cách.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Từng là một kẻ lang thang giữa vùng đất chết, Thạch Chùy chỉ biết chịu đựng sự khinh rẻ từ Cự Tộc vì không có dòng máu thuần khiết. Hắn tình cờ được Thạch Cương phát hiện khi đang thoi thóp sau một cơn bão cát khổng lồ. Từ đó, bộ lạc Bán Thạch Cự Nhân trở thành ngôi nhà duy nhất của hắn. Với lòng biết ơn và ý chí sắt đá, Thạch Chùy tự rèn luyện không ngừng, thăng tiến trở thành Đội Trưởng Vệ Binh, trở thành chiếc khiên vững chắc che chở cho những người cùng cảnh ngộ.

@@ -28,6 +28,7 @@
 | Hôm nay | Tổng Quản | Viết Chương 125-128 (Góc Nhìn Lâm Phong) | Hoàn Thành | Nhóm tiến vào tâm phong ấn, đối mặt với Long Cốt và Huyết Độc Chi Hỏa. Phải đào thoát khỏi Hoàng Sa Địa Cung. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hải Thần Cung (Vô Tận Hải): Giao Bạch Ngọc, Giao Nguyệt Hàn, Giao Thiên Lệ Nguyệt. Cập nhật data JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 | Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Bách Bảo Các (Thiên Trụ): Lý Minh Châu, Châu Thương, Hứa Ngọc. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
+| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Bán Thạch Cự Nhân (Tây Mạc): Nham Liệt, Thạch Chùy, Thạch Cương. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
 
 ## GHI CHÚ GẦN ĐÂY
 - **Hôm nay:** Viết Chương 121-124 (Góc Nhìn Lâm Phong). Nhóm vượt qua cánh cổng đá, khám phá bí mật Huyết Độc Chi Hỏa của Vu Tộc trong Hoàng Sa Địa Cung, chiến đấu với khôi lỗi đá, Lệ Vô Tâm dùng tà chú Vu Tộc và A Ngốc vô tình tiêu diệt Kẻ Gác Cổng Huyết Vu.
