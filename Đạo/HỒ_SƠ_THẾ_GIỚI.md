@@ -627,5 +627,8 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Ba Ngọc Hàn (Đội Trưởng Hải Ba Vệ):** Chiến binh nóng nảy, mang mối hận sâu sắc với những kẻ săn trộm Giao Nhân, dũng mãnh bảo vệ liên minh.
 - **Ba Thiên Lệ (Trưởng Lão):** Kỳ cựu trầm mặc, biến nỗi bi thương thành sức mạnh trị liệu và phòng ngự, là tiếng nói khôn ngoan của liên minh.
 
+### Cực Quang Thần Điện (Thiên Trụ)
+- **Bằng Vạn Lý (Tiên Phong Tướng), Cú Tĩnh Vũ (Mưu Sĩ), Hạc Minh Nguyệt (Nhạc Sĩ):** Đại diện cho 3 khía cạnh của thần điện tại Thiên Trụ. Bằng Vạn Lý kiêu ngạo, đi tiên phong với tốc độ và sự tàn khốc của quang hệ pháp thuật; Cú Tĩnh Vũ thâm hiểm, dùng ảo ảnh và hàn băng để ám sát trong bóng tối; Hạc Minh Nguyệt buồn bã, dùng âm nhạc chữa trị và tẩy não binh lính thành cỗ máy chém giết vô tình.
+
 ### San Hô Đảo Quốc (Vô Tận Hải)
 - **Ngư Ngân Lân Hà (Vệ Binh Trưởng), Ngư Thiên Ca (Đại Nhạc Sư), Ngư Thiên Lãng (Thương Nhân):** Các nhân vật đại diện cho San Hô Đảo Quốc. Ngân Lân Hà nghiêm nghị bảo vệ ranh giới bằng sóng âm; Thiên Ca điềm đạm dùng huyễn thuật và âm nhạc để chữa lành; Thiên Lãng linh hoạt khôn khéo mở rộng mạng lưới giao thương. Họ tạo nên bức tranh đa dạng về sức mạnh, nghệ thuật và sự khéo léo của cư dân đảo quốc.
