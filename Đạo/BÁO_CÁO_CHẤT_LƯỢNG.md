@@ -17,6 +17,7 @@
 - **[Gần Đây]**: Hoàn thành Task 9 cho các thế lực: Phiêu Miễu Băng Hải, Cự Linh Tông, Cổ Nham Bộ Lạc, Thần Cung Môn, Phong Sát Cốc, Hỏa Yêu Tàn Đoàn.
 
 ## PHIÊN GẦN NHẤT
+- **Hoạt động**: Hoàn thành Task 9 (Điền thông tin nhân vật) cho 3 nhân vật thuộc Phù Du Linh Đoàn (Vô Tận Hải): Linh Quang Mẫu, Linh Bích Hải, Linh Tiểu Quang. Cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
 | Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
 |---|---|---|---|---|

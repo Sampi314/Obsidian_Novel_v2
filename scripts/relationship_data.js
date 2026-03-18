@@ -473,6 +473,39 @@ const relationshipData = {
       "role": "supporting",
       "pov": false,
       "avatar_color": "#ffb6c1"
+    },
+    {
+      "id": "linh_quang_mau",
+      "name": "Linh Quang Mẫu",
+      "title": "Quần Thể Ý Thức",
+      "realm": "Luyện Khí",
+      "faction": "Phù Du Linh Đoàn",
+      "region": "Vô Tận Hải",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ffffff"
+    },
+    {
+      "id": "linh_bich_hai",
+      "name": "Linh Bích Hải",
+      "title": "Hạch Tâm Quần Thể",
+      "realm": "Luyện Khí",
+      "faction": "Phù Du Linh Đoàn",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#00fa9a"
+    },
+    {
+      "id": "linh_tieu_quang",
+      "name": "Linh Tiểu Quang",
+      "title": "Tiên Phong Chiếu Sáng",
+      "realm": "Luyện Khí",
+      "faction": "Phù Du Linh Đoàn",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#fffacd"
     }
   ],
 
@@ -1062,6 +1095,36 @@ const relationshipData = {
       "since_chapter": 1,
       "bidirectional": true,
       "notes": "Huệ Minh giao dịch với Hứa Nhược Thủy để thu thập các bản kinh thư cổ thất lạc."
+    },
+    {
+      "source": "linh_quang_mau",
+      "target": "linh_bich_hai",
+      "type": "hợp_tác",
+      "description": "Linh Bích Hải cung cấp ký ức định hướng.",
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": true,
+      "notes": "Linh Bích Hải đóng vai trò là kho lưu trữ ký ức cổ đại giúp Linh Quang Mẫu định hướng hành trình của cả đoàn."
+    },
+    {
+      "source": "linh_quang_mau",
+      "target": "linh_tieu_quang",
+      "type": "chủ_tớ",
+      "description": "Linh Quang Mẫu dẫn dắt Linh Tiểu Quang.",
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": false,
+      "notes": "Linh Tiểu Quang là những cá thể rìa ngoài chịu sự điều khiển vô thức từ ánh sáng của Linh Quang Mẫu."
+    },
+    {
+      "source": "linh_bich_hai",
+      "target": "linh_tieu_quang",
+      "type": "hợp_tác",
+      "description": "Thu thập thông tin.",
+      "status": "active",
+      "since_chapter": 1,
+      "bidirectional": false,
+      "notes": "Linh Bích Hải sử dụng tầm nhìn của Linh Tiểu Quang ở lớp ngoài cùng để thu nạp và ghi chép thông tin vào dòng ký ức."
     }
   ],
 
@@ -1106,6 +1169,14 @@ const relationshipData = {
       "region": "Đông Hoang",
       "members": ["bao_hong_tan", "bao_huyet_tinh", "bao_hac_lam"],
       "leader": "bao_hong_tan"
+    },
+    {
+      "id": "phu_du_linh_doan",
+      "name": "Phù Du Linh Đoàn",
+      "type": "đoàn",
+      "region": "Vô Tận Hải",
+      "members": ["linh_quang_mau", "linh_bich_hai", "linh_tieu_quang"],
+      "leader": "linh_quang_mau"
     }
   ],
 
