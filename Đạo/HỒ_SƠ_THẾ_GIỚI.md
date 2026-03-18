@@ -672,3 +672,8 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hắc Thiên:** Đông Hải Long Vương Luyện Hư Sơ Kỳ, tồn tại cổ xưa nhất Vô Tận Hải, sở hữu *Thiên Địa Long Ngâm* và tham vọng khôi phục vinh quang Long Tộc.
   - **Hắc Ngạo Thiên:** Thái Tử Đông Hải Nguyên Anh Trung Kỳ, từ bỏ ngai vàng để lang thang nhân gian, thông thạo *Hắc Long Trấn Hải Quyết*.
   - **Hắc Lạc Nhạn:** Nhạc Sư Cung Đình Kim Đan Hậu Kỳ, dùng tiếng đàn *Hải Ba Cầm Âm* chi phối sóng biển và kết nối những linh hồn cô độc.
+
+- **Phiêu Lưu Đảo Liên Minh (Vô Tận Hải):**
+  - **Hoàng Hải Triều:** Đội Trưởng Hải Tuần Đội Trúc Cơ Hậu Kỳ, rắn rỏi và trầm ổn. Bảo vệ quần đảo bằng *Nộ Hải Lãng Quyết*.
+  - **Lê Bạch Ngư:** Đảo Chủ Đảo Số Ba Trúc Cơ Viên Mãn, thư sinh khôn khéo và giỏi tính toán. Uyển chuyển né đòn bằng *Bạch Ngư Du Dực*.
+  - **Phạm Sóng:** Thuyền Trưởng Thương Thuyền Trúc Cơ Sơ Kỳ, cương mãnh và sảng khoái. Đánh sập phòng tuyến bằng *Bạo Phong Chùy Pháp*.
