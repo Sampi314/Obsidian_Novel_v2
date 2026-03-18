@@ -1842,3 +1842,17 @@ if (typeof characters !== 'undefined') {
         { source: "hoa_tieu_viem", target: "hua_thanh_van", type: "Bạn Trao Đổi", description: "Hỏa Tiểu Viêm thỉnh thoảng trao đổi linh kiện với thiếu niên Hứa Thanh Vân." }
     );
 }
+
+// Phiêu Lưu Đảo Liên Minh (Vô Tận Hải)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "hoang_hai_trieu", name: "Hoàng Hải Triều", title: "Đội Trưởng", realm: "Trúc Cơ", faction: "Phiêu Lưu Đảo Liên Minh", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#4a90e2" },
+        { id: "le_bach_ngu", name: "Lê Bạch Ngư", title: "Đảo Chủ", realm: "Trúc Cơ", faction: "Phiêu Lưu Đảo Liên Minh", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#b3e5fc" },
+        { id: "pham_song", name: "Phạm Sóng", title: "Thuyền Trưởng", realm: "Trúc Cơ", faction: "Phiêu Lưu Đảo Liên Minh", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#ffca28" }
+    );
+    relationships.push(
+        { source: "hoang_hai_trieu", target: "le_bach_ngu", type: "Hỗ Trợ", description: "Hai người thường xuyên phối hợp để bảo vệ an ninh cho hòn đảo lớn nhất nhì liên minh." },
+        { source: "hoang_hai_trieu", target: "pham_song", type: "Bằng Hữu", description: "Bạn nhậu thân thiết mỗi khi Phạm Sóng trở về từ đất liền." },
+        { source: "le_bach_ngu", target: "pham_song", type: "Đối Tác", description: "Đối tác làm ăn chính của Lê Bạch Ngư để xuất khẩu đặc sản của đảo." }
+    );
+}

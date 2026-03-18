@@ -73,3 +73,7 @@
 - **Loại Công Việc:** World-Building, Dữ Liệu
 - **Đã Tạo/Cập Nhật:** Hoàn thành chi tiết nhân vật Giới Trần, Huệ Minh, Không Độ (Kim Sa Tự - Tây Mạc). Cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 - **Ưu Tiên Tiếp Theo:** Tiếp tục Task 9, điền chi tiết nhân vật.
+
+## [2026-03-18] - Hoàn thiện nhân vật Phiêu Lưu Đảo Liên Minh
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hoàng Hải Triều, Lê Bạch Ngư, và Phạm Sóng thuộc khu vực Vô Tận Hải.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
