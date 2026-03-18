@@ -376,7 +376,7 @@
     - [Vạn Trùng Cốc](Thế_Lực/Vạn_Trùng_Cốc.md)
     - [Tinh Linh Vương Đình](Thế_Lực/Tinh_Linh_Vương_Đình.md)
     - [Hắc Báo Trại](Thế_Lực/Hắc_Báo_Trại.md)
-    - [Thiên Mộc Thành](Thế_Lực/Thiên_Mộc_Thành.md)
+    - [Thiên Mộc Thành](Thế_Lực/Thiên_Mộc_Thành.md) (Gồm Lâm Vạn Hóa, Lâm Thương, Hồ Thương)
     - [Cổ Nguyệt Thần Giáo](Thế_Lực/Cổ_Nguyệt_Thần_Giáo.md)
     - [Huyết Ma Tông](Thế_Lực/Huyết_Ma_Tông.md)
     - [Quỷ Thị Nam Cương](Thế_Lực/Quỷ_Thị_Nam_Cương.md)
@@ -665,6 +665,11 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Lôi Chấn (Đệ Nhất Hộ Pháp):** Một thân thể thao khổng lồ, sẹo chằng chịt do thiên lôi, lạnh lùng, tàn nhẫn và tuân thủ tuyệt đối Thiên Đạo. Sử dụng *Thiên Cương Lôi Quyết*.
 - **Lôi Cương (Viện Chủ Lôi Pháp):** Thể tu với vóc dáng vạm vỡ như tượng đồng, hào sảng và thích khám phá sức mạnh cơ thể qua *Cửu Chuyển Lôi Thể Công*.
 - **Lôi Phong (Đệ Nhị Hộ Pháp):** Dáng người dong dỏng, phong lưu và tà mị. Sử dụng tốc độ của sấm sét thông qua *Phong Lôi Ảo Bộ* và *Lôi Ảnh Huyết Thiểm*.
+
+- **Thiên Mộc Thành (Thiên Trụ):**
+  - **Lâm Vạn Hóa:** Thương Hội Chủ Tịch Kim Đan Viên Mãn, mập mạp điềm đạm nhưng sắc sảo và mưu mô. Phương châm "Không gì không thể mua được". Dùng "kim tiền áp đảo" trong chiến đấu.
+  - **Lâm Thương:** Phó Thành Chủ Thương Mại Nguyên Anh Sơ Kỳ, con trai Lâm Vạn Hóa. Phong thái khiêm nhường nhưng lạnh lùng trên thương trường. Sở hữu tuyệt kỹ *Lâm Mộc Tiền Sinh Quyết*.
+  - **Hồ Thương:** Thương Nhân Trúc Cơ Hậu Kỳ, khôn ngoan và thực dụng. Là một tên cò mồi đắc lực cho Lâm Vạn Hóa, chuyên tuồn linh thảo hiếm từ Nam Cương.
 
 - **San Hô Vi Trùng (Tây Mạc):**
   - **Trùng Mẫu:** San Hô Mẫu Trùng Luyện Khí Hậu Kỳ, hiện thân của ý chí tập thể, điều phối kiến tạo "san hô sa mạc" khổng lồ bảo vệ mạch ngầm Tây Mạc.
