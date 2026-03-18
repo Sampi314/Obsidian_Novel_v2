@@ -666,6 +666,11 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Lôi Cương (Viện Chủ Lôi Pháp):** Thể tu với vóc dáng vạm vỡ như tượng đồng, hào sảng và thích khám phá sức mạnh cơ thể qua *Cửu Chuyển Lôi Thể Công*.
 - **Lôi Phong (Đệ Nhị Hộ Pháp):** Dáng người dong dỏng, phong lưu và tà mị. Sử dụng tốc độ của sấm sét thông qua *Phong Lôi Ảo Bộ* và *Lôi Ảnh Huyết Thiểm*.
 
+- **San Hô Vi Trùng (Tây Mạc):**
+  - **Trùng Mẫu:** San Hô Mẫu Trùng Luyện Khí Hậu Kỳ, hiện thân của ý chí tập thể, điều phối kiến tạo "san hô sa mạc" khổng lồ bảo vệ mạch ngầm Tây Mạc.
+  - **Trùng Cổ Sinh:** Vi Trùng Cổ Đại Luyện Khí Trung Kỳ, những "thợ xây vô hình" kiên cường mang vỏ bọc linh khoáng vạn năm, biến cát thành thạch.
+  - **Trùng Tân Nha:** Vi Trùng Kế Thừa Luyện Khí Sơ Kỳ, thế hệ mới tiến hóa có khả năng kháng lại Huyết Độc, mang tiềm năng thay thế Trùng Mẫu.
+
 - **Sa Mạc Hướng Đạo Hội (Tây Mạc):**
   - **Lê Thuận Phong:** Trưởng Lão Trúc Cơ Sơ Kỳ, khắc khổ, am hiểu sinh tồn và di chuyển trong bão cát với *Thuận Phong Bộ*.
   - **Phong Sa Lão Nhân:** Hội Trưởng Trúc Cơ Trung Kỳ, mù một mắt, ôm giữ bí mật về Vĩnh Tịch Chi Địa và sáng tạo ra *Tầm Sa Bí Quyết*.
