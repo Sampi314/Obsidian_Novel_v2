@@ -15,9 +15,10 @@
 ## BÁO CÁO GẦN NHẤT
 ### Báo Cáo Chất Lượng (2026-03-18)
 - **Task 9:** Hoàn thành điền chi tiết 4 phần (II-V) cho 3 nhân vật thuộc phe phái Hỏa Diễm Công Phường (Tây Mạc): Hỏa Thiết Tâm, Hỏa Giáp Trụ, Hỏa Tiểu Viêm.
-- **Dữ liệu quan hệ:** Cập nhật 3 nhân vật và 6 mối quan hệ vào `scripts/relationship_data.js`.
-- **Hồ Sơ Thế Giới:** Cập nhật tiểu sử và đặc điểm của 3 nhân vật vào cuối file `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-- **Đánh giá:** Các nhân vật đã thể hiện được bản sắc nghề rèn của Tây Mạc, không còn placeholder.
+- **Task 9:** Hoàn thành điền chi tiết 4 phần (II-V) cho 3 nhân vật thuộc phe phái San Hô Đảo Quốc (Vô Tận Hải): Hải Nguyệt Ca, Hải Vân Dao, Hải Tiểu Loa.
+- **Dữ liệu quan hệ:** Cập nhật các nhân vật vào `scripts/relationship_data.js`.
+- **Hồ Sơ Thế Giới:** Cập nhật tiểu sử và đặc điểm vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+- **Đánh giá:** Các nhân vật đã thể hiện được bản sắc âm nhạc trị liệu, không còn placeholder.
 
 # BÁO CÁO CHẤT LƯỢNG - DỰ ÁN CỐ NGUYÊN
 ---
