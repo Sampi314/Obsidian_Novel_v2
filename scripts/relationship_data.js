@@ -2306,3 +2306,20 @@ if (typeof characters !== 'undefined') {
         { source: "moc_van", target: "moc_thien_quan", type: "Đồng Phái", description: "Chỉ huy tiền tuyến theo chiến thuật của Mộc Vân, được Mộc Vân nể trọng dũng khí." }
     );
 }
+
+// Linh Sa Khuẩn Đoàn (Tây Mạc)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "khuan_bach_cot", name: "Khuẩn Bạch Cốt", title: "Xử Lý Sư Trưởng", realm: "Kim Đan", faction: "Linh Sa Khuẩn Đoàn", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#e0e0e0" },
+        { id: "khuan_da_thuc", name: "Khuẩn Dạ Thực", title: "Dạ Hành Viên", realm: "Trúc Cơ", faction: "Linh Sa Khuẩn Đoàn", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#4a4a4a" },
+        { id: "khuan_hac_nhuong", name: "Khuẩn Hắc Nhưỡng", title: "Phì Nhiêu Sư", realm: "Kim Đan", faction: "Linh Sa Khuẩn Đoàn", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#654321" }
+    );
+    relationships.push(
+        { source: "khuan_bach_cot", target: "khuan_da_thuc", type: "Đồng Phái", description: "Đối tác ăn ý trong việc xử lý thi thể. Dạ Thực ăn thịt, Bạch Cốt dọn xương." },
+        { source: "khuan_bach_cot", target: "khuan_hac_nhuong", type: "Đồng Phái", description: "Quan hệ cộng sinh. Hắc Nhưỡng tiếp nhận phần tàn dư cuối cùng từ Bạch Cốt để tạo đất màu." },
+        { source: "khuan_da_thuc", target: "khuan_bach_cot", type: "Đồng Phái", description: "Sau khi Dạ Thực thưởng thức xong phần thịt, y sẽ để lại phần xương cốt cho Bạch Cốt xử lý." },
+        { source: "khuan_da_thuc", target: "khuan_hac_nhuong", type: "Đồng Phái", description: "Dạ Thực thỉnh thoảng cung cấp cho Hắc Nhưỡng những chất hữu cơ dư thừa không thể tiêu hóa hết để làm phân bón." },
+        { source: "khuan_hac_nhuong", target: "khuan_bach_cot", type: "Đồng Phái", description: "Là trạm cuối cùng trong quy trình xử lý của Linh Sa Khuẩn Đoàn. Y tiếp nhận mọi phế phẩm từ Bạch Cốt để hoàn tất vòng tuần hoàn." },
+        { source: "khuan_hac_nhuong", target: "khuan_da_thuc", type: "Đồng Phái", description: "Là trạm cuối cùng trong quy trình xử lý của Linh Sa Khuẩn Đoàn. Y tiếp nhận mọi phế phẩm từ Dạ Thực để hoàn tất vòng tuần hoàn." }
+    );
+}
