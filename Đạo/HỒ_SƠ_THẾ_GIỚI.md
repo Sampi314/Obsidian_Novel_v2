@@ -697,5 +697,11 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Kình Lôi Âm:** Hộ Vệ Trưởng Trúc Cơ Viên Mãn, dũng mãnh và cương trực. Chuyên dùng *Chấn Lôi Kình Kích* bảo vệ sự an nguy của bầy cá voi.
   - **Kình Mẫu Từ:** Hộ Sản Trúc Cơ Viên Mãn, hiền từ và bao dung. Sử dụng *Sinh Linh Tế Thủy* để chữa trị và che chở những sinh mệnh non nớt.
 
+### Tuyết Liên Dược Phường (Bắc Băng)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Tuyết Liên Dược Phường** (Bắc Băng):
+  - **Hoàng Dược Sư (Luyện Khí Đỉnh Phong):** Dược Sư Trưởng gầy gò, trầm tĩnh, nắm giữ bí kíp bào chế đan dược cốt lõi của phường với phương châm "Y đạo cứu thế". Dùng Băng Tỏa Y Thuật (冰锁医术) để phong bế độc tố và thương thế.
+  - **Liên Tuyết Nhi (Trúc Cơ Hậu Kỳ):** Phường Chủ thanh tú, lạnh lẽo tựa đóa tuyết liên. Tu luyện Băng Sương Hóa Khí (冰霜化气) và Hàn Mai Tảo Tuyết Kiếm (寒梅扫雪剑). Kiên định bảo vệ dược phường và cứu chữa quần sinh, mang hoài bão nghiên cứu thành công đan dược từ Băng Tằm Ti.
+  - **Lý Tiểu Liên (Luyện Khí Sơ Kỳ):** Cô bé Dược Sư Học Việc nhí nhảnh, hoạt bát. Dù tu vi thấp chỉ dùng Tiểu Linh Khí Thuật (小灵气术), cô bé có khứu giác cực nhạy với dược thảo và ước mơ chế tạo kẹo hồ lô thảo dược trị bách bệnh.
+
 ### Cập Nhật Tán Tu (Bắc Băng)
 - Hoàn thiện chi tiết (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật lang bạt: Bằng Bắc Minh, Hạc Tuyết Nhi, Sương Lệ Nhi.
