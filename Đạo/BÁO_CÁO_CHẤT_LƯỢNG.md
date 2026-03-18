@@ -7,7 +7,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Tuyết Liên Dược Phường
+### [Hiện Tại] - Hoàn thiện nhân vật Cổ Thạch Bộ Lạc
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Ngọc Thạch, Nham Phong, và Nham Trầm thuộc khu vực Tây Mạc.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên trước] - Hoàn thiện nhân vật Tuyết Liên Dược Phường
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hoàng Dược Sư, Liên Tuyết Nhi, và Lý Tiểu Liên thuộc khu vực Bắc Băng.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -39,8 +43,6 @@
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lôi Chấn, Lôi Cương, và Lôi Phong thuộc khu vực Thiên Trụ.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `INSTRUCTIONS.md`.
 
-### [Phiên trước] - Hoàn thiện nhân vật Hỏa Diễm Công Phường
-- **Task 9:** Hoàn thành điền chi tiết 4 phần (II-V) cho 3 nhân vật thuộc phe phái Hỏa Diễm Công Phường (Tây Mạc): Hỏa Thiết Tâm, Hỏa Giáp Trụ, Hỏa Tiểu Viêm.
-
-### [Phiên trước] - Hoàn thiện nhân vật San Hô Đảo Quốc
-- **Task 9:** Hoàn thành điền chi tiết 4 phần (II-V) cho 3 nhân vật thuộc phe phái San Hô Đảo Quốc (Vô Tận Hải): Hải Nguyệt Ca, Hải Vân Dao, Hải Tiểu Loa.
+### [Phiên trước] - Hoàn thiện nhân vật Lôi Trì Thánh Địa
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lôi Chấn, Lôi Cương, và Lôi Phong thuộc khu vực Thiên Trụ.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `INSTRUCTIONS.md`.

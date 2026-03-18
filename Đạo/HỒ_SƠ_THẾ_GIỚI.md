@@ -659,8 +659,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 ## Cập Nhật Mới
 - **Nhân Vật Mới Điền Chi Tiết:** Trùng Thiên Lý Nhãn, Trùng Thính Phong, Trùng Tiểu Mật (Vi Trùng Trinh Sát Đội - Tây Mạc).
 ### Các Nhân Vật Gần Đây Được Cập Nhật
-### Cổ Thạch Bộ Lạc (Thiên Trụ)
-- Bổ sung chi tiết: **Thạch Cửu Sơn** (Tộc Trưởng khổng lồ, điềm tĩnh, Bất Diệt Thạch Thể), **Thạch Lôi Chùy** (Chiến tướng nghiêm nghị, sử dụng búa vạn cân), **Thạch Lôi** (Chiến sĩ trẻ tuổi, thân đầy lôi điện, nhiệt huyết sôi nổi).
+### Cổ Thạch Bộ Lạc (Thiên Trụ & Tây Mạc)
+- Thiên Trụ - Bổ sung chi tiết: **Thạch Cửu Sơn** (Tộc Trưởng khổng lồ, điềm tĩnh, Bất Diệt Thạch Thể), **Thạch Lôi Chùy** (Chiến tướng nghiêm nghị, sử dụng búa vạn cân), **Thạch Lôi** (Chiến sĩ trẻ tuổi, thân đầy lôi điện, nhiệt huyết sôi nổi).
+- Tây Mạc - Bổ sung chi tiết: **Ngọc Thạch** (Trưởng Lão ngọc bích trang nghiêm, trí tuệ), **Nham Phong** (Trưởng Lão nham thạch đen hiếu chiến, sức mạnh pháo đài sống), **Nham Trầm** (Trưởng Lão sa thạch kết khối trầm mặc, bậc thầy thao túng địa hình).
 
 ### Lôi Trì Thánh Địa (Thiên Trụ)
 - **Lôi Chấn (Đệ Nhất Hộ Pháp):** Một thân thể thao khổng lồ, sẹo chằng chịt do thiên lôi, lạnh lùng, tàn nhẫn và tuân thủ tuyệt đối Thiên Đạo. Sử dụng *Thiên Cương Lôi Quyết*.

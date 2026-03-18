@@ -4,6 +4,6 @@
 - Hoàn thành Task 9 cho Tuyết Liên Dược Phường (Bắc Băng).
 
 ## PHIÊN GẦN NHẤT
-- Đã hoàn thành Task 9 cho 3 nhân vật Tuyết Liên Dược Phường (Bắc Băng): Hoàng Dược Sư, Liên Tuyết Nhi, Lý Tiểu Liên.
+- Đã hoàn thành Task 9 cho 3 nhân vật Cổ Thạch Bộ Lạc (Tây Mạc): Ngọc Thạch, Nham Phong, Nham Trầm.
 - Cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 - File bộ nhớ được nén.

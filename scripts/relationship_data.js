@@ -67,6 +67,39 @@ const relationshipData = {
       "avatar_color": "#d8bfd8"
     },
     {
+      "id": "ngoc_thach",
+      "name": "Ngọc Thạch",
+      "title": "Trưởng Lão",
+      "realm": "Nguyên Anh",
+      "faction": "Cổ Thạch Bộ Lạc Tây Mạc",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#a1a1a1"
+    },
+    {
+      "id": "nham_phong",
+      "name": "Nham Phong",
+      "title": "Trưởng Lão",
+      "realm": "Kim Đan",
+      "faction": "Cổ Thạch Bộ Lạc Tây Mạc",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#a1a1a1"
+    },
+    {
+      "id": "nham_tram",
+      "name": "Nham Trầm",
+      "title": "Trưởng Lão",
+      "realm": "Nguyên Anh",
+      "faction": "Cổ Thạch Bộ Lạc Tây Mạc",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#a1a1a1"
+    },
+    {
       "id": "thach_cuu_son",
       "name": "Thạch Cửu Sơn",
       "title": "Tộc Trưởng",
@@ -708,6 +741,24 @@ const relationshipData = {
       "target": "hoang_duoc_su",
       "type": "disciple",
       "description": "Sư phụ nghiêm khắc nhưng hay lén cho cô bé kẹo hồ lô thảo dược."
+    },
+    {
+      "source": "ngoc_thach",
+      "target": "nham_tram",
+      "type": "ally",
+      "description": "Đệ đệ đồng môn, thường bất đồng quan điểm nhưng luôn sẵn sàng bảo vệ lẫn nhau."
+    },
+    {
+      "source": "nham_phong",
+      "target": "nham_tram",
+      "type": "subordinate",
+      "description": "Tuân theo sự dẫn dắt chiến thuật của Nham Trầm."
+    },
+    {
+      "source": "ngoc_thach",
+      "target": "nham_phong",
+      "type": "conflict",
+      "description": "Thường mâu thuẫn do quan điểm phòng thủ và tấn công."
     },
     {
       "source": "thach_cuu_son",
