@@ -1,6 +1,39 @@
 const relationshipData = {
   "characters": [
     {
+      "id": "thach_cuu_son",
+      "name": "Thạch Cửu Sơn",
+      "title": "Tộc Trưởng",
+      "realm": "Hóa Thần",
+      "faction": "Cổ Thạch Bộ Lạc",
+      "region": "Thiên Trụ",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#a1a1a1"
+    },
+    {
+      "id": "thach_loi",
+      "name": "Thạch Lôi",
+      "title": "Chiến Sĩ",
+      "realm": "Kim Đan",
+      "faction": "Cổ Thạch Bộ Lạc",
+      "region": "Thiên Trụ",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#a1a1a1"
+    },
+    {
+      "id": "thach_loi_chuy",
+      "name": "Thạch Lôi Chùy",
+      "title": "Chiến Sĩ",
+      "realm": "Kim Đan",
+      "faction": "Cổ Thạch Bộ Lạc",
+      "region": "Thiên Trụ",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#a1a1a1"
+    },
+    {
       "id": "le_thuan_phong",
       "name": "Lê Thuận Phong",
       "title": "Trưởng Lão",
@@ -574,6 +607,24 @@ const relationshipData = {
     }
   ],
   "relationships": [
+    {
+      "source": "thach_cuu_son",
+      "target": "thach_loi_chuy",
+      "type": "subordinate",
+      "description": "Chiến tướng đắc lực"
+    },
+    {
+      "source": "thach_loi_chuy",
+      "target": "thach_loi",
+      "type": "family",
+      "description": "Cha con"
+    },
+    {
+      "source": "thach_cuu_son",
+      "target": "thach_loi",
+      "type": "mentor",
+      "description": "Quan sát, che chở"
+    },
     {
       "source": "han_tieu",
       "target": "hoang_doan_tuyet",
