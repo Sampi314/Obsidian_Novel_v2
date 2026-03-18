@@ -7,7 +7,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Thiên Mộc Thành
+### [Hiện Tại] - Hoàn thiện nhân vật Tuyết Liên Dược Phường
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hoàng Dược Sư, Liên Tuyết Nhi, và Lý Tiểu Liên thuộc khu vực Bắc Băng.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên trước] - Hoàn thiện nhân vật Thiên Mộc Thành
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lâm Vạn Hóa, Lâm Thương, và Hồ Thương thuộc khu vực Thiên Trụ.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -40,5 +44,3 @@
 
 ### [Phiên trước] - Hoàn thiện nhân vật San Hô Đảo Quốc
 - **Task 9:** Hoàn thành điền chi tiết 4 phần (II-V) cho 3 nhân vật thuộc phe phái San Hô Đảo Quốc (Vô Tận Hải): Hải Nguyệt Ca, Hải Vân Dao, Hải Tiểu Loa.
-
-- Hoàn thành chi tiết hồ sơ (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật Tán Tu (Bắc Băng): Bằng Bắc Minh, Hạc Tuyết Nhi, Sương Lệ Nhi.

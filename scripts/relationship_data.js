@@ -1,6 +1,39 @@
 const relationshipData = {
   "characters": [
     {
+      "id": "hoang_duoc_su",
+      "name": "Hoàng Dược Sư",
+      "title": "Dược Sư",
+      "realm": "Luyện Khí",
+      "faction": "Tuyết Liên Dược Phường",
+      "region": "Bắc Băng",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#a0e8af"
+    },
+    {
+      "id": "lien_tuyet_nhi",
+      "name": "Liên Tuyết Nhi",
+      "title": "Phường Chủ",
+      "realm": "Trúc Cơ",
+      "faction": "Tuyết Liên Dược Phường",
+      "region": "Bắc Băng",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#a0e8af"
+    },
+    {
+      "id": "ly_tieu_lien",
+      "name": "Lý Tiểu Liên",
+      "title": "Dược Sư",
+      "realm": "Luyện Khí",
+      "faction": "Tuyết Liên Dược Phường",
+      "region": "Bắc Băng",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#a0e8af"
+    },
+    {
       "id": "trung_co_sinh",
       "name": "Trùng Cổ Sinh",
       "title": "Vi Trùng Cổ Đại",
@@ -640,6 +673,42 @@ const relationshipData = {
     }
   ],
   "relationships": [
+    {
+      "source": "hoang_duoc_su",
+      "target": "lien_tuyet_nhi",
+      "type": "ally",
+      "description": "Kính trọng Phường Chủ, là người phò tá đắc lực từ đời Phường Chủ trước."
+    },
+    {
+      "source": "hoang_duoc_su",
+      "target": "ly_tieu_lien",
+      "type": "master",
+      "description": "Sư phụ nghiêm khắc nhưng luôn tận tâm truyền dạy y thuật cho đệ tử nhỏ."
+    },
+    {
+      "source": "lien_tuyet_nhi",
+      "target": "hoang_duoc_su",
+      "type": "ally",
+      "description": "Dược Sư Trưởng kính cẩn, một vị tiền bối đáng tin cậy."
+    },
+    {
+      "source": "lien_tuyet_nhi",
+      "target": "ly_tieu_lien",
+      "type": "ally",
+      "description": "Tiểu y sư hoạt bát, luôn được che chở."
+    },
+    {
+      "source": "ly_tieu_lien",
+      "target": "lien_tuyet_nhi",
+      "type": "ally",
+      "description": "Vô cùng ngưỡng mộ và coi Phường Chủ như người chị lớn che chở mình."
+    },
+    {
+      "source": "ly_tieu_lien",
+      "target": "hoang_duoc_su",
+      "type": "disciple",
+      "description": "Sư phụ nghiêm khắc nhưng hay lén cho cô bé kẹo hồ lô thảo dược."
+    },
     {
       "source": "thach_cuu_son",
       "target": "thach_loi_chuy",
