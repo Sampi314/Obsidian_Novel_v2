@@ -2289,3 +2289,20 @@ if (typeof characters !== 'undefined') {
         { source: "ho_nha_tam", target: "ho_han_le", type: "Đồng Minh", description: "Tôn trọng sự hy sinh của nàng, thường xuyên hỗ trợ nàng che giấu bí mật của Hổ Bạch Văn." }
     );
 }
+
+// Thiên Mộc Thành (Thiên Trụ)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "moc_thien_hao", name: "Mộc Thiên Hào", title: "Thành Chủ", realm: "Nguyên Anh Viên Mãn", faction: "Thiên Mộc Thành", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#228b22" },
+        { id: "moc_thien_quan", name: "Mộc Thiên Quân", title: "Tướng Quân Thị Vệ", realm: "Nguyên Anh Sơ Kỳ", faction: "Thiên Mộc Thành", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#8b4513" },
+        { id: "moc_van", name: "Mộc Vân", title: "Phó Thành Chủ Quân Sự", realm: "Nguyên Anh Hậu Kỳ", faction: "Thiên Mộc Thành", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#2e8b57" }
+    );
+    relationships.push(
+        { source: "moc_thien_hao", target: "moc_thien_quan", type: "Anh Em", description: "Anh trai của Mộc Thiên Quân. Tin tưởng vào lòng trung thành của em trai." },
+        { source: "moc_thien_quan", target: "moc_thien_hao", type: "Anh Em", description: "Em trai của Mộc Thiên Hào. Xông pha bảo vệ Thành Chủ dù thường xuyên bất đồng." },
+        { source: "moc_thien_hao", target: "moc_van", type: "Đồng Minh", description: "Cánh tay phải đắc lực, rất trân trọng tài trí mưu lược của Mộc Vân." },
+        { source: "moc_van", target: "moc_thien_hao", type: "Đồng Minh", description: "Thành Chủ mà Mộc Vân hết lòng phò tá, được giao toàn quyền quân sự." },
+        { source: "moc_thien_quan", target: "moc_van", type: "Đồng Phái", description: "Tôn trọng tài trí, thường phối hợp chiến dịch dù hay phàn nàn về sự tính toán quá mức." },
+        { source: "moc_van", target: "moc_thien_quan", type: "Đồng Phái", description: "Chỉ huy tiền tuyến theo chiến thuật của Mộc Vân, được Mộc Vân nể trọng dũng khí." }
+    );
+}
