@@ -552,6 +552,10 @@ Tại Tây Mạc, Hứa Nhược Thủy chính thức tiếp quản Hứa Gia sa
 Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương trường đầy mùi linh thạch — đã trốn đi làm "hiệp khách". Trong lúc mạo hiểm dưới Hoàng Sa Phế Tích, Thanh Vân tận mắt chứng kiến sự tàn bạo của Huyết Sát Minh khi dùng nô lệ khai thác Huyết Tinh Sa. Cậu vô tình được Lệ Vô Tâm và A Ngốc cứu mạng rồi gia nhập đoàn xe của Hứa Nhược Thủy. Cảm thấy thế giới quan sụp đổ khi biết mẹ mình dung túng (nhằm lấy bằng chứng) việc vận chuyển ma vật, Thanh Vân lại bỏ đi trong đêm. Cậu đụng độ Hắc Sa Bão và được Lệ Vô Tâm, dưới sự che chở của A Ngốc, dùng khiên băng bảo vệ. Trong bão cát, khi một Huyết Tướng phục kích Lệ Vô Tâm, Thanh Vân đã dùng một mảnh băng vỡ để bảo vệ vị "ác ma", thể hiện sự trưởng thành và dũng khí. Sau trận bão, Thanh Vân quyết định rời khỏi cái ô của Hứa Gia, đi về phía Đông (Vĩnh Hằng Sâm Lâm) cùng Lệ Vô Tâm và A Ngốc để tự rèn luyện thành một đại hiệp đích thực (Chương 1-10, Góc Nhìn Hứa Nhược Thủy & Hứa Thanh Vân).
 
 ### Hệ Thống Nhân Vật & Thế Lực Bổ Sung
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Long Cung** (Vô Tận Hải):
+  - **Băng Nha (Bắc Phương Thủy Tướng)**: Giao Long tu luyện Băng Thủy thuộc tính tới cực hạn, tính cách lãnh khốc tàn nhẫn, luôn tĩnh lặng không cảm xúc.
+  - **Cuồng Lôi (Đông Phương Thủy Tướng)**: Giao Long đột biến nuốt Lôi Châu, mang sức mạnh lôi kiếp cuồng bạo, kiêu ngạo và dễ nổi cơn thịnh nộ.
+  - **Huyết Triều (Nam Phương Thủy Tướng)**: Nữ Giao Long điên loạn chuyên tu Huyết Đạo tà ác, cuồng sát và có sở thích tàn bạo là nhuộm đỏ biển bằng máu.
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Sương Ma Uyển** (Bắc Băng):
   - **Hắc Sương Quỷ (Hộ Pháp)**: Đệ Nhất Sát Sương Quỷ, sát thủ bóng tối tàn nhẫn và vô cảm, sử dụng *Hắc Băng Châm* để ám sát các mục tiêu chính đạo.
   - **Lãnh Vô Hồn (Luyện Tà Đường Chủ)**: Học giả điên loạn và ác độc, thiên tài trong lĩnh vực tà thuật thi đạo, phụ trách việc chế tạo Băng Thi và Băng Nô từ tu sĩ.
