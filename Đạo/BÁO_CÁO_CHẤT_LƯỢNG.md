@@ -1,83 +1,45 @@
-
-## [2026-03-18] - Hoàn thiện nhân vật Long Cung
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hắc Thiên, Hắc Ngạo Thiên, và Hắc Lạc Nhạn thuộc khu vực Vô Tận Hải.
-- **Hành động:** Điền đủ các section II-V, khắc họa rõ đặc điểm từng người: Hắc Thiên bảo thủ uy nghiêm; Hắc Ngạo Thiên phóng khoáng tự do; Hắc Lạc Nhạn kiêu hãnh nhạy cảm. Đã cập nhật `scripts/relationship_data.js` và `HỒ_SƠ_THẾ_GIỚI.md`.
-
-## [2026-03-18] - Hoàn thiện nhân vật Sa Mạc Hướng Đạo Hội
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lê Thuận Phong, Phong Sa Lão Nhân, và Phạm Hướng Tây thuộc khu vực Tây Mạc.
-- **Hành động:** Điền đủ các section II-V, khắc họa rõ đặc điểm từng người: Lê Thuận Phong nghiêm khắc, am hiểu sinh tồn; Phong Sa Lão Nhân điềm đạm, bí ẩn; Phạm Hướng Tây bốc đồng nhưng có tài. Đã cập nhật `scripts/relationship_data.js`.
-
-
-## [2026-03-18] - Hoàn thiện nhân vật Lôi Trì Thánh Địa
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lôi Chấn, Lôi Cương, và Lôi Phong thuộc khu vực Thiên Trụ.
-- **Hành động:** Điền đủ các section II-V, khắc họa rõ đặc điểm từng người: Lôi Chấn nghiêm khắc và tàn nhẫn; Lôi Cương cởi mở, chuyên về luyện thể; Lôi Phong nhanh nhẹn, tà mị. Đã cập nhật `scripts/relationship_data.js` và `INSTRUCTIONS.md`.
-
-## BÁO CÁO GẦN NHẤT
-### Báo Cáo Chất Lượng (2026-03-18)
-- **Task 9:** Hoàn thành điền chi tiết 4 phần (II-V) cho 3 nhân vật thuộc phe phái Hỏa Diễm Công Phường (Tây Mạc): Hỏa Thiết Tâm, Hỏa Giáp Trụ, Hỏa Tiểu Viêm.
-- **Task 9:** Hoàn thành điền chi tiết 4 phần (II-V) cho 3 nhân vật thuộc phe phái San Hô Đảo Quốc (Vô Tận Hải): Hải Nguyệt Ca, Hải Vân Dao, Hải Tiểu Loa.
-- **Dữ liệu quan hệ:** Cập nhật các nhân vật vào `scripts/relationship_data.js`.
-- **Hồ Sơ Thế Giới:** Cập nhật tiểu sử và đặc điểm vào `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-- **Đánh giá:** Các nhân vật đã thể hiện được bản sắc âm nhạc trị liệu, không còn placeholder.
-
 # BÁO CÁO CHẤT LƯỢNG - DỰ ÁN CỐ NGUYÊN
 ---
 
-## [2026-03-18] - Hoàn thiện nhân vật Cổ Thạch Bộ Lạc
+## LỊCH SỬ (Tóm Tắt)
+- Các báo cáo cũ: Hoàn thành Task 9 cho các phe phái: Long Cung, Sa Mạc Hướng Đạo Hội, Lôi Trì Thánh Địa, Hỏa Diễm Công Phường, San Hô Đảo Quốc, Cổ Thạch Bộ Lạc, Sương Ma Uyển, Phù Du Linh Đoàn, Cực Quang Thần Điện, Ốc Đảo Vi Linh, Tán Tu Tây Mạc, Băng Lang Bộ Lạc, Hắc Tinh Linh Lưu Đày, Hàn Độc Vi Trùng Đoàn, Hỗn Huyết Tinh Linh Hội, Bào Tử Mật Lâm Tộc, Hải Thần Cung, Băng Nguyên Tán Tu Hội, Hàn Kiếm Cốc, Kim Sa Tự, Phiêu Lưu Đảo Liên Minh, Ngọc Trai Sâu Phường, Thâm Hải Vi Linh, Thiên Sa Thương Hội.
+- Các báo cáo truyện: Viết POV cho A Ngốc, Lâm Phong, Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hàn Thanh Nguyệt, Lục Trần, Ngô Công Trưởng Lão, Phương Vô Kỵ, Sở Lăng Sương, Triệu Thanh Hằng, Lý Tuyết Ưng, Ngao Đình, Lệ Nhược Thủy, Nham Thần, Lục Tiêu.
+
+## 10 BÁO CÁO GẦN NHẤT
+
+### [Hiện Tại] - Hoàn thiện nhân vật San Hô Vi Trùng
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Trùng Cổ Sinh, Trùng Mẫu, và Trùng Tân Nha thuộc khu vực Tây Mạc.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên trước] - Hoàn thiện nhân vật Cổ Thạch Bộ Lạc
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Thạch Cửu Sơn, Thạch Lôi, và Thạch Lôi Chùy thuộc khu vực Thiên Trụ.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
-## [2026-03-17] - Cập Nhật Nhân Vật Sương Ma Uyển (Bắc Băng)
-- **Nội Dung:** Bổ sung chi tiết (Ngoại hình, Tính cách, Năng lực, Quan hệ, Tiểu sử) cho Hắc Sương Quỷ, Lãnh Vô Hồn, Sương Nô Vương.
-- **Đánh Giá:** Các nhân vật đã được điền đủ 4 mục II-V, mang đặc trưng tàn bạo, độc ác của Ma Tộc phương Bắc, phù hợp với tông chỉ của Sương Ma Uyển.
-- **Trạng Thái:** Đã hoàn thành và thêm vào dữ liệu quan hệ (`relationship_data.js`).
-## LỊCH SỬ (Tóm Tắt)
-- **Tự động nén (Auto-compact):** Lịch sử phát triển đã ghi nhận việc khởi tạo thế giới, các chủng tộc, hệ thống tu luyện, nhân vật và sự kiện từ Arc 1 đến Arc 6 của cả Góc Nhìn Chính và Lệ Vô Tâm. Bao gồm mở rộng thế lực, cập nhật Hồ sơ Thế giới, sửa lỗi tham chiếu, và viết catch-up góc nhìn Lâm Phong (Chương 4-32) cùng các diễn biến tại Băng Ngục Thành.
-- **[Các phiên trước]**: A Ngốc hoàn thành Arc 4-13. Gặp Phương Vô Kỵ, Lệ Vô Tâm. Đột phá Trúc Cơ, Kim Đan, Nguyên Anh. Cùng Lệ Vô Tâm tiến vào Đông Hoang, Tây Mạc, thanh tẩy Huyết Thần Độc.
-- **[Các phiên trước]**: Lâm Phong catch-up từ Chương 59-90. Đối phó Băng Lang Vương, diệt Huyết Sứ, phá âm mưu đầu độc mạch nước ngầm Đông Hoang. Vào Vương Đình gặp Nguyệt Dao Nữ Vương.
-- **[Các phiên trước]**: Lệ Vô Tâm hoàn thành Bridge Arc (Sụp Đổ). Trốn chạy đến đền hoang, đồng hành cùng A Ngốc, dần kiềm chế sát tâm, chuyển biến tâm lý rõ rệt.
-- **[Hôm nay]**: Viết xong 152 chương POV A Ngốc. Viết 96 chương Lâm Phong.
-- **[Hôm nay]**: Viết POV 7-10 cho Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hàn Thanh Nguyệt, Lục Trần.
-- **[Hôm nay]**: Viết POV 7-10 cho Ngô Công Trưởng Lão, Phương Vô Kỵ.
-- **[Hôm nay]**: Hoàn thành Chương 9-10 (Sở Lăng Sương), Chương 6-10 (Triệu Thanh Hằng), Chương 7-10 (Lý Tuyết Ưng). Bắc Băng hội tụ tại Băng Ngục Thành.
-- **[Gần Đây]**: Hoàn thành Task 9 cho các thế lực: Phiêu Miễu Băng Hải, Cự Linh Tông, Cổ Nham Bộ Lạc, Thần Cung Môn, Phong Sát Cốc, Hỏa Yêu Tàn Đoàn.
-
-## PHIÊN GẦN NHẤT
-- **Hoạt động**: Hoàn thành Task 9 (Điền thông tin nhân vật) cho 3 nhân vật thuộc Phù Du Linh Đoàn (Vô Tận Hải): Linh Quang Mẫu, Linh Bích Hải, Linh Tiểu Quang. Cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-
-| Ngày | Đại Diện | Nội Dung | Trạng Thái | Ghi Chú |
-|---|---|---|---|---|
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Long Cung (Vô Tận Hải): Băng Nha, Cuồng Lôi, Huyết Triều. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Cực Quang Thần Điện (Thiên Trụ): Bằng Vạn Lý, Cú Tĩnh Vũ, Hạc Minh Nguyệt. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Ngư Ngân Lân Hà, Ngư Thiên Ca, Ngư Thiên Lãng. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Ốc Đảo Vi Linh (Tây Mạc): Linh Dao Nhi, Linh Hạ Vũ, Linh Lộ Hà. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Tán Tu (Tây Mạc): Hắc Sa, Khô Giáp Lão, Oanh Minh Sa. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Băng Lang Bộ Lạc: Lang Bạch Sương, Lang Bạo Phong, Lang Cô Hàn. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hắc Tinh Linh Lưu Đày: Ám Diệp, Ám Dạ Hành, Ám Huyết. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hàn Độc Vi Trùng Đoàn: Băng Dực, Trùng Băng Châm, Trùng Bạch Lân. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hỗn Huyết Tinh Linh Hội: Hỗn Nguyệt, Lâm Kỳ Dạ, Hồ Linh Hoa Nguyệt. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Bào Tử Mật Lâm Tộc: Bào Hồng Tán, Bào Huyết Tịnh, Bào Hắc Lâm. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hải Thần Cung (Vô Tận Hải): Chương Hắc Triều, Chương Thiên Cơ Huyền, Chương Thiên Nhãn. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Băng Nguyên Tán Tu Hội: Hoàng Đại Sơn, Lý Tuyết Phong, Nguyễn Hàn Sương. |
-| Hôm nay | Tổng Quản | Cập nhật Task 9 | Hoàn Thành | Điền chi tiết cho 3 nhân vật Hàn Kiếm Cốc (Bắc Băng): Hàn Tiêu, Hoàng Đoạn Tuyết, Lê Kiếm Tâm. Cập nhật JSON và HỒ_SƠ_THẾ_GIỚI.md. |
-
-## GHI CHÚ GẦN ĐÂY
-- **Hôm nay:** Viết Chương 121-124 (Góc Nhìn Lâm Phong). Nhóm vượt qua cánh cổng đá, khám phá bí mật Huyết Độc Chi Hỏa của Vu Tộc trong Hoàng Sa Địa Cung, chiến đấu với khôi lỗi đá, Lệ Vô Tâm dùng tà chú Vu Tộc và A Ngốc vô tình tiêu diệt Kẻ Gác Cổng Huyết Vu.
-- **Hôm nay:** Viết Chương 109-112 (Góc Nhìn Lâm Phong). Nhóm liên minh đến Trạm Dừng Chân Số 7, Lâm Phong và Tĩnh Sương điều tra mạng lưới phân phối Huyết Thần Độc và đụng độ tổ chức sát thủ "Ám Cốc" của Huyết Sát Minh. Lệ Vô Tâm dùng Băng Ma Khí can thiệp.
-- **Hôm nay:** Viết Chương 6-10 (Góc Nhìn Ngao Đình) và Chương 7-10 (Góc Nhìn Lệ Nhược Thủy) cho khu vực Vô Tận Hải. Cả hai rời biển lên bờ, đụng độ nhau và thiết lập một liên minh bất đắc dĩ để phong ấn trận pháp Huyết Độc.
-- **Hôm nay:** Viết Chương 7-10 cho Nham Thần và Lục Tiêu (Đông Hoang). Lục Tiêu ra khỏi Vĩnh Hằng Sâm Lâm, dùng âm nhạc tịnh hóa Huyết Độc.
-
-- [2026-03-16] Hoàn thành điền chi tiết 3 nhân vật cho thế lực Ngọc Trai Sâu Phường (Đông Hoang).
-- [x] **Task 9 (Điền thông tin nhân vật):** Hoàn thành cho Linh Thâm Nguyệt, Linh Tiểu Uyên, và Linh Trầm Uyên (Thâm Hải Vi Linh - Vô Tận Hải) theo đúng template. Không mâu thuẫn lore. Đã cập nhật Relationship Data JS.
-- **Ngày 03/06/2024:** Đã điền chi tiết 4 section (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật phe Thiên Sa Thương Hội (Tây Mạc): Cổ Thiên Lý, Hoàng Sa Nhạn, Hứa Nhược Thủy. Đảm bảo format chuẩn, đầy đủ thông tin tiếng Việt.
-
-## BÁO CÁO PHIÊN
-- **Ngày:** $(date '+%Y-%m-%d %H:%M:%S')
-- **Agent Kích Hoạt:** Nhân Vật, Quan Hệ
-- **Loại Công Việc:** World-Building, Dữ Liệu
-- **Đã Tạo/Cập Nhật:** Hoàn thành chi tiết nhân vật Giới Trần, Huệ Minh, Không Độ (Kim Sa Tự - Tây Mạc). Cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-- **Ưu Tiên Tiếp Theo:** Tiếp tục Task 9, điền chi tiết nhân vật.
-
-## [2026-03-18] - Hoàn thiện nhân vật Phiêu Lưu Đảo Liên Minh
+### [Phiên trước] - Hoàn thiện nhân vật Phiêu Lưu Đảo Liên Minh
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hoàng Hải Triều, Lê Bạch Ngư, và Phạm Sóng thuộc khu vực Vô Tận Hải.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên trước] - Hoàn thiện nhân vật Long Cung
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hắc Thiên, Hắc Ngạo Thiên, và Hắc Lạc Nhạn thuộc khu vực Vô Tận Hải.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên trước] - Hoàn thiện nhân vật Sa Mạc Hướng Đạo Hội
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lê Thuận Phong, Phong Sa Lão Nhân, và Phạm Hướng Tây thuộc khu vực Tây Mạc.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js`.
+
+### [Phiên trước] - Hoàn thiện nhân vật Lôi Trì Thánh Địa
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lôi Chấn, Lôi Cương, và Lôi Phong thuộc khu vực Thiên Trụ.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `INSTRUCTIONS.md`.
+
+### [Phiên trước] - Hoàn thiện nhân vật Hỏa Diễm Công Phường
+- **Task 9:** Hoàn thành điền chi tiết 4 phần (II-V) cho 3 nhân vật thuộc phe phái Hỏa Diễm Công Phường (Tây Mạc): Hỏa Thiết Tâm, Hỏa Giáp Trụ, Hỏa Tiểu Viêm.
+
+### [Phiên trước] - Hoàn thiện nhân vật San Hô Đảo Quốc
+- **Task 9:** Hoàn thành điền chi tiết 4 phần (II-V) cho 3 nhân vật thuộc phe phái San Hô Đảo Quốc (Vô Tận Hải): Hải Nguyệt Ca, Hải Vân Dao, Hải Tiểu Loa.
+
+### [Phiên trước] - Cập Nhật Nhân Vật Sương Ma Uyển
+- **Nội Dung:** Bổ sung chi tiết (Ngoại hình, Tính cách, Năng lực, Quan hệ, Tiểu sử) cho Hắc Sương Quỷ, Lãnh Vô Hồn, Sương Nô Vương.
+- **Trạng Thái:** Đã hoàn thành và thêm vào dữ liệu quan hệ (`relationship_data.js`).
+
+### [Phiên trước] - Hoàn thiện nhân vật Phù Du Linh Đoàn
+- **Hoạt động**: Hoàn thành Task 9 (Điền thông tin nhân vật) cho 3 nhân vật thuộc Phù Du Linh Đoàn (Vô Tận Hải): Linh Quang Mẫu, Linh Bích Hải, Linh Tiểu Quang. Cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.

@@ -1,6 +1,39 @@
 const relationshipData = {
   "characters": [
     {
+      "id": "trung_co_sinh",
+      "name": "Trùng Cổ Sinh",
+      "title": "Vi Trùng Cổ Đại",
+      "realm": "Luyện Khí",
+      "faction": "San Hô Vi Trùng",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#e0b0ff"
+    },
+    {
+      "id": "trung_mau",
+      "name": "Trùng Mẫu",
+      "title": "San Hô Mẫu Trùng",
+      "realm": "Luyện Khí",
+      "faction": "San Hô Vi Trùng",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#c4a3f5"
+    },
+    {
+      "id": "trung_tan_nha",
+      "name": "Trùng Tân Nha",
+      "title": "Vi Trùng Kế Thừa",
+      "realm": "Luyện Khí",
+      "faction": "San Hô Vi Trùng",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#d8bfd8"
+    },
+    {
       "id": "thach_cuu_son",
       "name": "Thạch Cửu Sơn",
       "title": "Tộc Trưởng",
@@ -1257,6 +1290,16 @@ const relationshipData = {
       "target": "loi_phong",
       "type": "friendly",
       "label": "Sư huynh"
+    },
+    {
+      "source": "trung_mau",
+      "target": "trung_co_sinh",
+      "type": "leader"
+    },
+    {
+      "source": "trung_mau",
+      "target": "trung_tan_nha",
+      "type": "master"
     }
   ],
   "factions": [
