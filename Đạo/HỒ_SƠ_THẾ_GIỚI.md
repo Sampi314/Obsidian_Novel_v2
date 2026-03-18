@@ -664,3 +664,8 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Lê Thuận Phong:** Trưởng Lão Trúc Cơ Sơ Kỳ, khắc khổ, am hiểu sinh tồn và di chuyển trong bão cát với *Thuận Phong Bộ*.
   - **Phong Sa Lão Nhân:** Hội Trưởng Trúc Cơ Trung Kỳ, mù một mắt, ôm giữ bí mật về Vĩnh Tịch Chi Địa và sáng tạo ra *Tầm Sa Bí Quyết*.
   - **Phạm Hướng Tây:** Hướng Đạo Luyện Khí Hậu Kỳ, bốc đồng nhưng có tài cảm nhận nước ngầm và ghi nhớ 8 lộ tuyến phức tạp.
+
+- **Long Cung (Vô Tận Hải):**
+  - **Hắc Thiên:** Đông Hải Long Vương Luyện Hư Sơ Kỳ, tồn tại cổ xưa nhất Vô Tận Hải, sở hữu *Thiên Địa Long Ngâm* và tham vọng khôi phục vinh quang Long Tộc.
+  - **Hắc Ngạo Thiên:** Thái Tử Đông Hải Nguyên Anh Trung Kỳ, từ bỏ ngai vàng để lang thang nhân gian, thông thạo *Hắc Long Trấn Hải Quyết*.
+  - **Hắc Lạc Nhạn:** Nhạc Sư Cung Đình Kim Đan Hậu Kỳ, dùng tiếng đàn *Hải Ba Cầm Âm* chi phối sóng biển và kết nối những linh hồn cô độc.
