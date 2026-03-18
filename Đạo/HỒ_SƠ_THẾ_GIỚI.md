@@ -640,3 +640,6 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 
 ### San Hô Đảo Quốc (Vô Tận Hải)
 - **Ngư Ngân Lân Hà (Vệ Binh Trưởng), Ngư Thiên Ca (Đại Nhạc Sư), Ngư Thiên Lãng (Thương Nhân):** Các nhân vật đại diện cho San Hô Đảo Quốc. Ngân Lân Hà nghiêm nghị bảo vệ ranh giới bằng sóng âm; Thiên Ca điềm đạm dùng huyễn thuật và âm nhạc để chữa lành; Thiên Lãng linh hoạt khôn khéo mở rộng mạng lưới giao thương. Họ tạo nên bức tranh đa dạng về sức mạnh, nghệ thuật và sự khéo léo của cư dân đảo quốc.
+
+### Phù Du Linh Đoàn (Vô Tận Hải)
+- **Linh Quang Mẫu (Quần Thể Ý Thức), Linh Bích Hải (Hạch Tâm Quần Thể), Linh Tiểu Quang (Tiên Phong Chiếu Sáng):** Vi Tộc phù du sống ở tầng nước tối Vô Tận Hải. Linh Quang Mẫu là hạt nhân tâm linh dẫn dắt cả đoàn; Linh Bích Hải mang màu xanh biếc lưu trữ ký ức di truyền; Linh Tiểu Quang là những đốm sáng nhỏ li ti đi tiên phong thu thập thông tin và cảnh báo nguy hiểm. Chúng kết hợp lại thành một Quần Thể Ý Thức khổng lồ.
