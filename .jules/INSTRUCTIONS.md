@@ -435,6 +435,7 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
   1. **Bản Tiếng Trung:** (Văn bản tiếng Trung)
   2. **Dịch Hán Việt:** (Phiên âm Hán Việt)
   3. **Dịch Sát Nghĩa:** (Bản dịch nghĩa Tiếng Việt)
+> Đã hoàn thành Task 9 cho 3 nhân vật Thiên Mộc Thành (Thiên Trụ): Mộc Thiên Hào, Mộc Thiên Quân, Mộc Vân.
 > Đã hoàn thành Task 9 cho 3 nhân vật San Hô Vi Trùng (Tây Mạc): Trùng Cổ Sinh, Trùng Mẫu, Trùng Tân Nha.
 > Đã hoàn thành Task 9 cho 3 nhân vật Thiên Mộc Thành (Thiên Trụ): Lâm Vạn Hóa, Lâm Thương, Hồ Thương.
 > Đã hoàn thành Task 9 cho 3 nhân vật Kình Ngư Bộ Lạc (Vô Tận Hải): Kình Hải Âm Thiên, Kình Lôi Âm, Kình Mẫu Từ. Cũng đã tạo file Thế Lực cho Kình Ngư Bộ Lạc.
