@@ -2193,6 +2193,23 @@ if (typeof characters !== 'undefined') {
     );
 }
 
+// Linh Hồ Tàn Tộc (Vô Tận Hải)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "ho_cuu_thien", name: "Hồ Cửu Thiên", title: "Hồ Con", realm: "Luyện Khí Viên Mãn", faction: "Linh Hồ Tàn Tộc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#ffffff" },
+        { id: "ho_linh_hoa", name: "Hồ Linh Hỏa", title: "Hộ Pháp", realm: "Trúc Cơ Hậu Kỳ", faction: "Linh Hồ Tàn Tộc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#ff4500" },
+        { id: "ho_nguyet_quang", name: "Hồ Nguyệt Quang", title: "Giữ Nguyệt Quang Thạch", realm: "Trúc Cơ Sơ Kỳ", faction: "Linh Hồ Tàn Tộc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#dda0dd" }
+    );
+    relationships.push(
+        { source: "ho_cuu_thien", target: "ho_linh_hoa", type: "Được Bảo Vệ", description: "Hồ Cửu Thiên thường xuyên nhận được trái cây ngọt từ Hồ Linh Hỏa, coi hắn như một người chú." },
+        { source: "ho_cuu_thien", target: "ho_nguyet_quang", type: "Mượn Bảo Vật", description: "Hồ Cửu Thiên mượn Nguyệt Quang Thạch từ Hồ Nguyệt Quang để tu luyện mỗi độ trăng rằm." },
+        { source: "ho_linh_hoa", target: "ho_cuu_thien", type: "Quan Tâm", description: "Hồ Linh Hỏa thầm lặng quan tâm, chăm sóc và lén cho Cửu Thiên trái cây ngọt." },
+        { source: "ho_linh_hoa", target: "ho_nguyet_quang", type: "Đồng Liêu", description: "Hồ Linh Hỏa thường phối hợp cùng Nguyệt Quang trong các phiên gác đêm bảo vệ hang động." },
+        { source: "ho_nguyet_quang", target: "ho_cuu_thien", type: "Kỳ Vọng", description: "Hồ Nguyệt Quang xem Cửu Thiên là chìa khóa tương lai của tộc, luôn sẵn sàng giúp đỡ tu luyện." },
+        { source: "ho_nguyet_quang", target: "ho_linh_hoa", type: "Chữa Lành", description: "Hồ Nguyệt Quang dùng huyễn thuật xoa dịu nỗi đau kinh mạch do Hỏa Độn Thuật gây ra cho Linh Hỏa." }
+    );
+}
+
 // Phiêu Lưu Đảo Liên Minh (Vô Tận Hải)
 if (typeof characters !== 'undefined') {
     characters.push(
