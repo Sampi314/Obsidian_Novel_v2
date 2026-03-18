@@ -1,6 +1,7 @@
 # Hồ Sơ Thế Giới: Cố Nguyên Giới
 
 ### Tình trạng cập nhật gần nhất
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Huyết Hổ Hạ Chúng** (Vô Tận Hải): **Hổ Bạch Văn**, **Hổ Hàn Lệ**, và **Hổ Nha Tam**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Băng Ngục Thành** (Bắc Băng): **Băng Cốt Yêu Nữ**, **Huyết Đồ Tàn Phong**, và **Hắc Giáp Thống Lĩnh**.
 
 ## I. Tổng Quan
@@ -465,6 +466,7 @@
     - [Thủy Kiếm Đảo](Thế_Lực/Thủy_Kiếm_Đảo.md)
     - [Bắc Hải Cự Yêu Hang](Thế_Lực/Bắc_Hải_Cự_Yêu_Hang.md)
     - [Phong Bạo Thương Đội](Thế_Lực/Phong_Bạo_Thương_Đội.md)
+    - [Huyết Hổ Hạ Chúng](Thế_Lực/Vô_Tận_Hải/Huyết_Hổ_Hạ_Chúng.md) (Gồm Hổ Bạch Văn, Hổ Hàn Lệ, Hổ Nha Tam)
 
 
 ### Sự Kiện Mới: Dã Tâm Thu Phục Của Độc Cô Lão Quái (Góc Nhìn Độc Cô Lão Quái)
@@ -700,6 +702,11 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Kình Hải Âm Thiên:** Ca Sĩ Bộ Lạc Kim Đan Trung Kỳ, sử dụng tiếng hát âm ba và *Hải Minh Âm Sát* để giao tiếp và tấn công. Khao khát hoàn thiện Khúc Hát Tận Cùng.
   - **Kình Lôi Âm:** Hộ Vệ Trưởng Trúc Cơ Viên Mãn, dũng mãnh và cương trực. Chuyên dùng *Chấn Lôi Kình Kích* bảo vệ sự an nguy của bầy cá voi.
   - **Kình Mẫu Từ:** Hộ Sản Trúc Cơ Viên Mãn, hiền từ và bao dung. Sử dụng *Sinh Linh Tế Thủy* để chữa trị và che chở những sinh mệnh non nớt.
+
+- **Huyết Hổ Hạ Chúng (Vô Tận Hải):**
+  - **Hổ Bạch Văn:** Hổ Con Đặc Biệt mang vằn trắng đột biến của huyết mạch cổ xưa, luôn khát khao sức mạnh lật đổ bạo chúa Huyết Hổ Vương.
+  - **Hổ Hàn Lệ:** Nữ Hổ Trúc Cơ Sơ Kỳ, người mẹ kiên cường nhẫn nhục, sử dụng bản năng sinh tồn để che chở và bảo vệ bí mật của Hổ Bạch Văn.
+  - **Hổ Nha Tam:** Quản Sự Trúc Cơ Viên Mãn, lão hổ già mưu mô xảo quyệt, bề ngoài phục tùng nhưng bên trong âm thầm tích trữ tài nguyên và lên kế hoạch nổi dậy.
 
 ### Tuyết Liên Dược Phường (Bắc Băng)
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Tuyết Liên Dược Phường** (Bắc Băng):

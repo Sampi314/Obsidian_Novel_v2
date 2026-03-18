@@ -8,7 +8,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Băng Ngục Thành
+### [Hiện Tại] - Hoàn thiện nhân vật Huyết Hổ Hạ Chúng
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hổ Bạch Văn, Hổ Hàn Lệ, và Hổ Nha Tam thuộc khu vực Vô Tận Hải.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên trước] - Hoàn thiện nhân vật Băng Ngục Thành
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Băng Cốt Yêu Nữ, Huyết Đồ Tàn Phong, và Hắc Giáp Thống Lĩnh thuộc khu vực Bắc Băng.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -44,6 +48,3 @@
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lê Thuận Phong, Phong Sa Lão Nhân, và Phạm Hướng Tây thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js`.
 
-### [Phiên trước] - Hoàn thiện nhân vật Lôi Trì Thánh Địa
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lôi Chấn, Lôi Cương, và Lôi Phong thuộc khu vực Thiên Trụ.
-- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `INSTRUCTIONS.md`.
