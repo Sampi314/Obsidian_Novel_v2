@@ -26,13 +26,18 @@ arcs:
 - **Chức Vụ:** Nhạc Sư Cung Đình.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Tiếng đàn nàng khiến chim trời rơi, cá biển quên bơi
+Sở hữu dung mạo khuynh nước khuynh thành, Hắc Lạc Nhạn mang dáng vẻ thanh tao, kiêu sa của một thiếu nữ Long Tộc với mái tóc dài đen nhánh như thác nước và đôi mắt sâu thẳm mang sắc xanh thẫm của đại dương. Nàng thường khoác lên mình những bộ y phục lộng lẫy điểm xuyết vảy rồng chìm lấp lánh mỗi khi có ánh sáng chiếu vào. Tính cách của nàng bề ngoài tỏ ra lạnh lùng, xa cách và vô cùng kiêu hãnh đúng với bản chất Long Cung, nhưng thực chất lại ẩn chứa một tâm hồn nhạy cảm, luôn khao khát dùng âm nhạc để kết nối với những linh hồn cô độc dưới đáy biển sâu. Tiếng đàn của nàng uyển chuyển và bi ai, có thể khiến chim trời ngừng cánh, cá biển quên bơi.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phép thuật của nàng không thiên về sát thương trực tiếp mà xoay quanh sóng âm và huyễn thuật, sử dụng âm nhạc để chi phối tâm trí đối thủ.
+- **Hải Ba Cầm Âm (海波琴音):** Khúc đàn tạo ra những sóng âm tàng hình dưới nước, có thể dễ dàng làm rối loạn kinh mạch và cắt đứt liên kết linh khí của đối thủ.
+- **Trầm Miên Khúc (沉眠曲):** Một bản nhạc ru ngủ cực kỳ nguy hiểm, có thể đưa những kẻ địch yếu bóng vía chìm vào giấc ngủ ngàn thu nơi đáy biển lạnh giá.
+Điểm yếu của nàng là khả năng cận chiến tương đối yếu kém so với các thành viên khác của Long Tộc, cần có khoảng cách và thời gian để thi triển các khúc nhạc.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Hắc Thiên:** Đông Hải Long Vương, người mà nàng luôn phải gảy đàn tấu khúc phục vụ trong những buổi tiệc xa hoa, mang lòng kính sợ và phục tùng tuyệt đối.
+- **Hắc Ngạo Thiên:** Thái Tử Đông Hải, một trong số ít người thực sự biết thưởng thức tiếng đàn của nàng mà không mang theo ý niệm dung tục, nàng xem hắn như một vị tri kỷ hoàng tộc.
+- **Ngư Thiên Ca:** Nhạc sư của San Hô Đảo Quốc, đối thủ cạnh tranh trên con đường âm luật mà nàng luôn muốn đánh bại để chứng minh âm nhạc của Long Tộc là vô song.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Sinh ra trong một nhánh phụ ít được coi trọng của Long Tộc, Hắc Lạc Nhạn từ nhỏ đã thể hiện thiên phú bẩm sinh với âm nhạc, dùng tiếng đàn để thay lời muốn nói. Nàng được tuyển vào Long Cung nhờ một khúc đàn bi tráng vô tình lọt vào tai của một vị Trưởng Lão, từ đó trở thành Nhạc Sư Cung Đình được sủng ái nhất. Dù sống trong nhung lụa và sự bảo bọc của Thủy Tinh Cung, sâu thẳm trong lòng nàng vẫn khao khát được tự do dạo bước khắp Vô Tận Hải, sáng tác ra một khúc nhạc đủ sức lay động cả Thiên Đạo. Hiện tại, nàng đang âm thầm tìm kiếm những nhạc cụ cổ xưa bị chôn vùi trong các tàn tích đại dương để hoàn thiện bản thân.

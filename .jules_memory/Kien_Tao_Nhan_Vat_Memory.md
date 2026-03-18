@@ -52,6 +52,6 @@
 - **Ghi Chú:** Tính cách thực dụng, uy quyền nhưng có tình mẫu tử sâu sắc. Là nhân vật cầu nối tại Tây Mạc.
 
 ## PHIÊN GẦN NHẤT
-- Đã hoàn thành Task 9 cho 3 nhân vật thuộc Thâm Hải Vi Linh (Vô Tận Hải): Linh Thâm Nguyệt, Linh Tiểu Uyên, Linh Trầm Uyên.
+- Đã hoàn thành Task 9 cho 3 nhân vật thuộc Long Cung (Vô Tận Hải): Hắc Thiên, Hắc Ngạo Thiên, Hắc Lạc Nhạn.
 - Đã bổ sung đầy đủ các mục Ngoại Hình & Tính Cách, Năng Lực & Chiến Đấu, Các Mối Quan Hệ, và Tiểu Sử & Hành Trình.
-- Đã cập nhật `scripts/relationship_data.js` để kết nối 3 nhân vật này.
+- Đã cập nhật `scripts/relationship_data.js` để kết nối 3 nhân vật này vào mạng lưới.

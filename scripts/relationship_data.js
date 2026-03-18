@@ -1799,13 +1799,20 @@ if (typeof characters !== 'undefined') {
     characters.push(
         { id: "bang_nha", name: "Băng Nha", title: "Bắc Phương Thủy Tướng", realm: "Nguyên Anh", faction: "Long Cung", region: "Vô Tận Hải", role: "core", pov: false, avatar_color: "#1e90ff" },
         { id: "cuong_loi", name: "Cuồng Lôi", title: "Đông Phương Thủy Tướng", realm: "Nguyên Anh", faction: "Long Cung", region: "Vô Tận Hải", role: "core", pov: false, avatar_color: "#4b0082" },
-        { id: "huyet_trieu", name: "Huyết Triều", title: "Nam Phương Thủy Tướng", realm: "Nguyên Anh", faction: "Long Cung", region: "Vô Tận Hải", role: "core", pov: false, avatar_color: "#8b0000" }
+        { id: "huyet_trieu", name: "Huyết Triều", title: "Nam Phương Thủy Tướng", realm: "Nguyên Anh", faction: "Long Cung", region: "Vô Tận Hải", role: "core", pov: false, avatar_color: "#8b0000" },
+        { id: "hac_thien", name: "Hắc Thiên", title: "Đông Hải Long Vương", realm: "Luyện Hư", faction: "Long Cung", region: "Vô Tận Hải", role: "leader", pov: false, avatar_color: "#ffd700" },
+        { id: "hac_ngao_thien", name: "Hắc Ngạo Thiên", title: "Thái Tử Đông Hải", realm: "Nguyên Anh", faction: "Long Cung", region: "Vô Tận Hải", role: "core", pov: false, avatar_color: "#c0c0c0" },
+        { id: "hac_lac_nhan", name: "Hắc Lạc Nhạn", title: "Nhạc Sư Cung Đình", realm: "Kim Đan", faction: "Long Cung", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#ffb6c1" }
     );
     relationships.push(
         { source: "bang_nha", target: "cuong_loi", type: "Tôn Trọng", description: "Băng Nha và Cuồng Lôi tôn trọng thực lực của nhau nhưng vẫn e dè đối phương." },
         { source: "bang_nha", target: "huyet_trieu", type: "Khinh Thường", description: "Băng Nha khinh thường sự ồn ào và cuồng loạn của Huyết Triều." },
         { source: "cuong_loi", target: "huyet_trieu", type: "Đồng Sự", description: "Cuồng Lôi đôi lúc hùa theo nàng ta nhưng chán ngắt việc nàng thích hành hạ con mồi từ từ." },
-        { source: "huyet_trieu", target: "bang_nha", type: "Thù Ghét", description: "Huyết Triều ghét sự lạnh nhạt giả thanh cao của Băng Nha và hay khiêu khích hắn." }
+        { source: "huyet_trieu", target: "bang_nha", type: "Thù Ghét", description: "Huyết Triều ghét sự lạnh nhạt giả thanh cao của Băng Nha và hay khiêu khích hắn." },
+        { source: "hac_thien", target: "hac_ngao_thien", type: "Phụ Tử", description: "Hắc Thiên luôn thất vọng vì sự phóng túng và không chịu gánh vác trách nhiệm hoàng tộc của Hắc Ngạo Thiên." },
+        { source: "hac_lac_nhan", target: "hac_thien", type: "Phục Tùng", description: "Hắc Lạc Nhạn luôn phải gảy đàn tấu khúc phục vụ Hắc Thiên, mang lòng kính sợ tuyệt đối." },
+        { source: "hac_lac_nhan", target: "hac_ngao_thien", type: "Tri Kỷ", description: "Hắc Lạc Nhạn xem Hắc Ngạo Thiên như một vị tri kỷ hoàng tộc vì thấu hiểu nỗi lòng và tiếng đàn của nàng." },
+        { source: "hac_thien", target: "chuong_thien_co_huyen", type: "Kẻ Thù", description: "Hắc Thiên luôn đề phòng và tìm cơ hội tiêu diệt Thái Thượng Trưởng Lão Chương Thiên Cơ Huyền để củng cố quyền lực." }
     );
 }
 

@@ -1,4 +1,8 @@
 
+## [2026-03-18] - Hoàn thiện nhân vật Long Cung
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hắc Thiên, Hắc Ngạo Thiên, và Hắc Lạc Nhạn thuộc khu vực Vô Tận Hải.
+- **Hành động:** Điền đủ các section II-V, khắc họa rõ đặc điểm từng người: Hắc Thiên bảo thủ uy nghiêm; Hắc Ngạo Thiên phóng khoáng tự do; Hắc Lạc Nhạn kiêu hãnh nhạy cảm. Đã cập nhật `scripts/relationship_data.js` và `HỒ_SƠ_THẾ_GIỚI.md`.
+
 ## [2026-03-18] - Hoàn thiện nhân vật Sa Mạc Hướng Đạo Hội
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lê Thuận Phong, Phong Sa Lão Nhân, và Phạm Hướng Tây thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V, khắc họa rõ đặc điểm từng người: Lê Thuận Phong nghiêm khắc, am hiểu sinh tồn; Phong Sa Lão Nhân điềm đạm, bí ẩn; Phạm Hướng Tây bốc đồng nhưng có tài. Đã cập nhật `scripts/relationship_data.js`.
