@@ -1674,7 +1674,10 @@ if (typeof relationships !== 'undefined') {
     characters.push(
         { id: "Ngư Tiểu Bạch", name: "Ngư Tiểu Bạch", faction: "San Hô Đảo Quốc", description: "Thiếu nữ nhân ngư, ca sĩ tập sự của Linh Ca Viện." },
         { id: "San Bích Quang", name: "San Bích Quang", faction: "San Hô Đảo Quốc", description: "Thái tử San Hô Đảo Quốc, nghệ nhân huyễn quang tài năng." },
-        { id: "San Huyền Quang Dạ", name: "San Huyền Quang Dạ", faction: "San Hô Đảo Quốc", description: "Quang Sư bảo vệ vùng biển sâu, người dẫn đường thầm lặng." }
+        { id: "San Huyền Quang Dạ", name: "San Huyền Quang Dạ", faction: "San Hô Đảo Quốc", description: "Quang Sư bảo vệ vùng biển sâu, người dẫn đường thầm lặng." },
+        { id: "Hải Nguyệt Ca", name: "Hải Nguyệt Ca", faction: "San Hô Đảo Quốc", description: "Viện Chủ Linh Ca Viện, mang vẻ đẹp thanh tao và sức mạnh thanh tẩy." },
+        { id: "Hải Vân Dao", name: "Hải Vân Dao", faction: "San Hô Đảo Quốc", description: "Đại Sư Linh Ca, trẻ trung, chuyên thu nạp tâm ma và khống chế bằng tiếng sáo." },
+        { id: "Hải Tiểu Loa", name: "Hải Tiểu Loa", faction: "San Hô Đảo Quốc", description: "Nghệ Nhân Điêu Khắc San Hô, Tiên Cá vui vẻ, tận tụy với pháp bảo âm nhạc." }
     );
 
     relationships.push(
@@ -1683,7 +1686,14 @@ if (typeof relationships !== 'undefined') {
         { source: "San Bích Quang", target: "Ngư Tiểu Bạch", type: "Chăm Sóc", description: "Coi cô bé như một người em gái nhỏ đáng yêu cần được dẫn dắt." },
         { source: "San Bích Quang", target: "San Huyền Quang Dạ", type: "Bằng Hữu", description: "Bằng hữu thân thiết và là đối tác ăn ý nhất trong việc sáng tác huyễn quang." },
         { source: "San Huyền Quang Dạ", target: "Ngư Tiểu Bạch", type: "Bảo Vệ", description: "Thường xuyên làm người dẫn đường và soi sáng bảo vệ cô mỗi khi cô bé mạo hiểm." },
-        { source: "San Huyền Quang Dạ", target: "San Bích Quang", type: "Bằng Hữu", description: "Bạn đồng hành lâu năm, người cùng thiết kế các tác phẩm huyễn quang đỉnh cao." }
+        { source: "San Huyền Quang Dạ", target: "San Bích Quang", type: "Bằng Hữu", description: "Bạn đồng hành lâu năm, người cùng thiết kế các tác phẩm huyễn quang đỉnh cao." },
+        { source: "Hải Nguyệt Ca", target: "Hải Vân Dao", type: "Sư Phụ", description: "Tin tưởng truyền thụ kỹ năng huyễn âm trị liệu cho đệ tử chân truyền." },
+        { source: "Hải Vân Dao", target: "Hải Nguyệt Ca", type: "Đệ Tử", description: "Hết lòng noi theo sư phụ, luôn cố gắng tiếp bước bảo vệ Đảo Quốc." },
+        { source: "Hải Nguyệt Ca", target: "Hải Tiểu Loa", type: "Ưu Ái", description: "Đích thân ban phước cho những nhạc cụ san hô tinh xảo của Tiểu Loa." },
+        { source: "Hải Tiểu Loa", target: "Hải Nguyệt Ca", type: "Tôn Kính", description: "Xem Viện Chủ như một vị thần, vô cùng biết ơn sự nâng đỡ." },
+        { source: "Hải Vân Dao", target: "Ngư Ngân Lân Hà", type: "Bạn Tâm Giao", description: "Bạn thân thiết, thường đàn tấu để xoa dịu tính khí gắt gỏng của Ngân Lân Hà." },
+        { source: "Ngư Thiên Lãng", target: "Hải Tiểu Loa", type: "Đối Tác", description: "Thương nhân luôn đặt mua nhạc cụ pháp bảo của Tiểu Loa để giao thương." },
+        { source: "Hải Vân Dao", target: "Ngư Thiên Ca", type: "Đồng Liêu", description: "Ngưỡng mộ tài nghệ của Đại Nhạc Sư Thiên Ca và thường trao đổi kinh nghiệm." }
     );
 }
 
