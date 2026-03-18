@@ -1764,6 +1764,15 @@ if (typeof relationships !== 'undefined') {
         { source: "Ngư Thiên Lãng", target: "Ngư Thiên Ca", type: "Họ Hàng", description: "Người em họ tài năng, luôn trân trọng nàng bằng những món quà độc đáo." }
     );
 
+    // Kình Ngư Bộ Lạc - Vô Tận Hải
+    characters.push(
+        ...[
+            { id: "Kình Hải Âm Thiên", name: "Kình Hải Âm Thiên", faction: "Kình Ngư Bộ Lạc", description: "Ca Sĩ Bộ Lạc sử dụng sóng âm truyền đạt ý chí của Kình Tổ và kết nối cá voi. Mơ ước hoàn thiện Khúc Hát Tận Cùng." },
+            { id: "Kình Lôi Âm", name: "Kình Lôi Âm", faction: "Kình Ngư Bộ Lạc", description: "Hộ Vệ Trưởng dũng mãnh, chiến đấu bằng sóng âm nén. Thề tiêu diệt hải tặc quấy rối lộ trình di cư." },
+            { id: "Kình Mẫu Từ", name: "Kình Mẫu Từ", faction: "Kình Ngư Bộ Lạc", description: "Hộ Sản hiền từ của bộ lạc, dùng Sinh Linh Tế Thủy bảo vệ cá voi con. Đang tìm Thủy Tinh Khởi Nguyên." }
+        ].map(c => ({...c, region: "Vô Tận Hải"}))
+    );
+
     // San Hô Đảo Quốc - Vô Tận Hải (Tây Mạc path bug)
     characters.push(
         { id: "Ngư Tiểu Bạch", name: "Ngư Tiểu Bạch", faction: "San Hô Đảo Quốc", description: "Thiếu nữ nhân ngư, ca sĩ tập sự của Linh Ca Viện." },
@@ -1775,6 +1784,14 @@ if (typeof relationships !== 'undefined') {
     );
 
     relationships.push(
+        // Kình Ngư Bộ Lạc
+        { source: "Kình Hải Âm Thiên", target: "Kình Lôi Âm", type: "Đồng Đội", description: "Bù đắp hoàn hảo giữa hỗ trợ và phòng thủ." },
+        { source: "Kình Hải Âm Thiên", target: "Kình Mẫu Từ", type: "Mẹ Con", description: "Xem như người mẹ thứ hai, người dạy hát ru." },
+        { source: "Kình Lôi Âm", target: "Kình Hải Âm Thiên", type: "Bảo Vệ", description: "Thường xuyên che chắn cho nàng trong giao tranh." },
+        { source: "Kình Lôi Âm", target: "Kình Mẫu Từ", type: "Nể Phục", description: "Người duy nhất Lôi Âm nể phục ngoài Tộc Trưởng." },
+        { source: "Kình Mẫu Từ", target: "Kình Hải Âm Thiên", type: "Nuôi Dưỡng", description: "Dạy cách hát ru và coi như con đẻ." },
+        { source: "Kình Mẫu Từ", target: "Kình Lôi Âm", type: "Chữa Lành", description: "Từng băng bó vết thương cho hắn vô số lần." },
+
         { source: "Ngư Tiểu Bạch", target: "San Bích Quang", type: "Ngưỡng Mộ", description: "Vô cùng ngưỡng mộ và luôn muốn học hỏi cách kết hợp ánh sáng huyễn quang." },
         { source: "Ngư Tiểu Bạch", target: "San Huyền Quang Dạ", type: "Kính Trọng", description: "Xem như một người anh lớn đáng tin cậy luôn thắp sáng và chỉ đường cho cô." },
         { source: "San Bích Quang", target: "Ngư Tiểu Bạch", type: "Chăm Sóc", description: "Coi cô bé như một người em gái nhỏ đáng yêu cần được dẫn dắt." },
