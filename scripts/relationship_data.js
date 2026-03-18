@@ -1684,3 +1684,18 @@ if (typeof relationships !== 'undefined') {
         { source: "suong_no_vuong", target: "Triệu Thanh Hằng", type: "Cố Nhân", description: "Ánh kiếm của Triệu Thanh Hằng đôi khi gợi lại chút nhân tính trong hắn." }
     );
 }
+
+// Long Cung (Vô Tận Hải)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "bang_nha", name: "Băng Nha", title: "Bắc Phương Thủy Tướng", realm: "Nguyên Anh", faction: "Long Cung", region: "Vô Tận Hải", role: "core", pov: false, avatar_color: "#1e90ff" },
+        { id: "cuong_loi", name: "Cuồng Lôi", title: "Đông Phương Thủy Tướng", realm: "Nguyên Anh", faction: "Long Cung", region: "Vô Tận Hải", role: "core", pov: false, avatar_color: "#4b0082" },
+        { id: "huyet_trieu", name: "Huyết Triều", title: "Nam Phương Thủy Tướng", realm: "Nguyên Anh", faction: "Long Cung", region: "Vô Tận Hải", role: "core", pov: false, avatar_color: "#8b0000" }
+    );
+    relationships.push(
+        { source: "bang_nha", target: "cuong_loi", type: "Tôn Trọng", description: "Băng Nha và Cuồng Lôi tôn trọng thực lực của nhau nhưng vẫn e dè đối phương." },
+        { source: "bang_nha", target: "huyet_trieu", type: "Khinh Thường", description: "Băng Nha khinh thường sự ồn ào và cuồng loạn của Huyết Triều." },
+        { source: "cuong_loi", target: "huyet_trieu", type: "Đồng Sự", description: "Cuồng Lôi đôi lúc hùa theo nàng ta nhưng chán ngắt việc nàng thích hành hạ con mồi từ từ." },
+        { source: "huyet_trieu", target: "bang_nha", type: "Thù Ghét", description: "Huyết Triều ghét sự lạnh nhạt giả thanh cao của Băng Nha và hay khiêu khích hắn." }
+    );
+}

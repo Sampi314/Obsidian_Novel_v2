@@ -209,6 +209,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã hoàn thành Task 9 cho 3 nhân vật Long Cung (Vô Tận Hải): Băng Nha, Cuồng Lôi, Huyết Triều.
 > Đã hoàn thành Task 9 cho 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Ngư Tiểu Bạch, San Bích Quang, San Huyền Quang Dạ.
 > Đã hoàn thành Task 9 cho 3 nhân vật Phiêu Miễu Băng Hải (Bắc Băng): Băng San Hô, Hàn Thanh Âm, Hải Cung.
 > Đã hoàn thành Task 9 cho 3 nhân vật Cự Linh Tông (Bắc Băng): Nham Chấn Nhạc, Nham Hồng Hoang, Nham Kình Thiên.
