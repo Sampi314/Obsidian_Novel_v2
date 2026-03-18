@@ -658,6 +658,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 
 ## Cập Nhật Mới
 ### Các Nhân Vật Gần Đây Được Cập Nhật
+### Cổ Thạch Bộ Lạc (Thiên Trụ)
+- Bổ sung chi tiết: **Thạch Cửu Sơn** (Tộc Trưởng khổng lồ, điềm tĩnh, Bất Diệt Thạch Thể), **Thạch Lôi Chùy** (Chiến tướng nghiêm nghị, sử dụng búa vạn cân), **Thạch Lôi** (Chiến sĩ trẻ tuổi, thân đầy lôi điện, nhiệt huyết sôi nổi).
+
 ### Lôi Trì Thánh Địa (Thiên Trụ)
 - **Lôi Chấn (Đệ Nhất Hộ Pháp):** Một thân thể thao khổng lồ, sẹo chằng chịt do thiên lôi, lạnh lùng, tàn nhẫn và tuân thủ tuyệt đối Thiên Đạo. Sử dụng *Thiên Cương Lôi Quyết*.
 - **Lôi Cương (Viện Chủ Lôi Pháp):** Thể tu với vóc dáng vạm vỡ như tượng đồng, hào sảng và thích khám phá sức mạnh cơ thể qua *Cửu Chuyển Lôi Thể Công*.

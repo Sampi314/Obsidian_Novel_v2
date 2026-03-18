@@ -23,6 +23,10 @@
 # BÁO CÁO CHẤT LƯỢNG - DỰ ÁN CỐ NGUYÊN
 ---
 
+## [2026-03-18] - Hoàn thiện nhân vật Cổ Thạch Bộ Lạc
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Thạch Cửu Sơn, Thạch Lôi, và Thạch Lôi Chùy thuộc khu vực Thiên Trụ.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
 ## [2026-03-17] - Cập Nhật Nhân Vật Sương Ma Uyển (Bắc Băng)
 - **Nội Dung:** Bổ sung chi tiết (Ngoại hình, Tính cách, Năng lực, Quan hệ, Tiểu sử) cho Hắc Sương Quỷ, Lãnh Vô Hồn, Sương Nô Vương.
 - **Đánh Giá:** Các nhân vật đã được điền đủ 4 mục II-V, mang đặc trưng tàn bạo, độc ác của Ma Tộc phương Bắc, phù hợp với tông chỉ của Sương Ma Uyển.

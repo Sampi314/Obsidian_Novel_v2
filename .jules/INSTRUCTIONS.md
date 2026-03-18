@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: ~605 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Phiêu Lưu Đảo Liên Minh - Vô Tận Hải ở phiên trước). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
+1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: ~602 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Cổ Thạch Bộ Lạc - Thiên Trụ ở phiên trước). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
 2. **Sau khi Task 9 hoàn thành** → Tiếp tục Catch-up Lâm Phong (Task 2): Viết chương 133+ cho Góc Nhìn Lâm Phong.
 3. **Sau khi Task 9 hoàn thành** → Tiếp tục Task 5 (Tuyến Khu Vực): Viết Arc 2 cho các khu vực.
 
@@ -458,3 +458,4 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
 > Đã hoàn thành Task 9 cho 3 nhân vật Hỏa Diễm Công Phường (Tây Mạc): Hỏa Thiết Tâm, Hỏa Giáp Trụ, Hỏa Tiểu Viêm.
 > Đã hoàn thành Task 9 cho 3 nhân vật Long Cung (Vô Tận Hải): Hắc Thiên, Hắc Ngạo Thiên, Hắc Lạc Nhạn.
 > Đã hoàn thành Task 9 cho 3 nhân vật Phiêu Lưu Đảo Liên Minh (Vô Tận Hải): Hoàng Hải Triều, Lê Bạch Ngư, Phạm Sóng.
+> Đã hoàn thành Task 9 cho 3 nhân vật Cổ Thạch Bộ Lạc (Thiên Trụ): Thạch Cửu Sơn, Thạch Lôi, Thạch Lôi Chùy.
