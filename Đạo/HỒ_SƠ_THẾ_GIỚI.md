@@ -1,5 +1,8 @@
 # Hồ Sơ Thế Giới: Cố Nguyên Giới
 
+### Tình trạng cập nhật gần nhất
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Băng Ngục Thành** (Bắc Băng): **Băng Cốt Yêu Nữ**, **Huyết Đồ Tàn Phong**, và **Hắc Giáp Thống Lĩnh**.
+
 ## I. Tổng Quan
 - **Tên:** Cố Nguyên Giới (固元界).
 - **Trạng Thái:** Kỷ Nguyên Khởi Nguyên - Đơn Lục Địa.

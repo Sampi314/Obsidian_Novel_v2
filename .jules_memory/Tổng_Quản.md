@@ -5,7 +5,7 @@
 
 ## PHIÊN GẦN NHẤT
 - Kích hoạt: Thế Giới, Nhân Vật, Quan Hệ
-- Công việc: Điền chi tiết cho 3 nhân vật thuộc Cổ Thạch Bộ Lạc (Tây Mạc): Ngọc Thạch, Nham Phong, Nham Trầm.
+- Công việc: Điền chi tiết cho 3 nhân vật thuộc phe Băng Ngục Thành (Bắc Băng): Băng Cốt Yêu Nữ, Huyết Đồ Tàn Phong, Hắc Giáp Thống Lĩnh.
 - Đã thêm Ngoại Hình & Tính Cách, Năng Lực & Chiến Đấu, Quan Hệ, Tiểu Sử.
 - Đã cập nhật `HỒ_SƠ_THẾ_GIỚI.md`, `relationship_data.js`, `INSTRUCTIONS.md`, và `BÁO_CÁO_CHẤT_LƯỢNG.md`.
 - Đã thực hiện auto-compact.

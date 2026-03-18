@@ -2122,5 +2122,17 @@ if (typeof characters !== 'undefined') {
 { source: "trung_thien_ly_nhan", target: "trung_thinh_phong", type: "Thượng Cấp", description: "Đội trưởng và đôi tai đắc lực" },
         { source: "trung_thien_ly_nhan", target: "trung_tieu_mat", type: "Thượng Cấp", description: "Thủ lĩnh và mật thám tinh anh" },
         { source: "trung_thinh_phong", target: "trung_tieu_mat", type: "Đồng Liêu", description: "Phối hợp thu thập tình báo" },
-        { source: "trung_tieu_mat", target: "co_thien_ly", type: "Theo Dõi", description: "Bám theo hành lý để trộm thông tin" });
+        { source: "trung_tieu_mat", target: "co_thien_ly", type: "Theo Dõi", description: "Bám theo hành lý để trộm thông tin" },
+
+        { source: "bang_cot_yeu_nu", target: "nguc_truong_vo_tinh", type: "Kiêng Dè & Lợi Dụng", description: "Vừa kiêng dè sức mạnh lại vừa muốn mê hoặc để chiếm quyền." },
+        { source: "bang_cot_yeu_nu", target: "huyet_do_tan_phong", type: "Kẻ Thù", description: "Đối thủ cạnh tranh trực tiếp lãnh thổ, cực kỳ ghét nhau." },
+        { source: "huyet_do_tan_phong", target: "hac_giap_thong_linh", type: "Khinh Thường", description: "Luôn coi thường, bắt nạt và khiêu khích lực lượng của Thống Lĩnh." },
+        { source: "hac_giap_thong_linh", target: "nguc_truong_vo_tinh", type: "Trung Thành", description: "Cánh tay phải đắc lực, trung thành tuyệt đối với Ngục Trưởng." });
+
+    characters.push(
+        { id: "bang_cot_yeu_nu", name: "Băng Cốt Yêu Nữ", title: "Thủ Lĩnh Tầng Bốn", realm: "Kim Đan Viên Mãn", faction: "Băng Ngục Thành", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#b0e0e6" },
+        { id: "huyet_do_tan_phong", name: "Huyết Đồ Tàn Phong", title: "Thủ Lĩnh Tầng Hai", realm: "Nguyên Anh Sơ Kỳ", faction: "Băng Ngục Thành", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#dc143c" },
+        { id: "hac_giap_thong_linh", name: "Hắc Giáp Thống Lĩnh", title: "Thống Lĩnh", realm: "Nguyên Anh Hậu Kỳ", faction: "Băng Ngục Thành", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#2f4f4f" },
+        { id: "nguc_truong_vo_tinh", name: "Ngục Trưởng Vô Tình", title: "Thành Chủ", realm: "Hóa Thần Sơ Kỳ", faction: "Băng Ngục Thành", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#4b0082" }
+    );
 }
