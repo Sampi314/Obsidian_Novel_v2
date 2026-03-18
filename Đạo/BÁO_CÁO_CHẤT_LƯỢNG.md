@@ -41,3 +41,4 @@
 ### [Phiên trước] - Hoàn thiện nhân vật San Hô Đảo Quốc
 - **Task 9:** Hoàn thành điền chi tiết 4 phần (II-V) cho 3 nhân vật thuộc phe phái San Hô Đảo Quốc (Vô Tận Hải): Hải Nguyệt Ca, Hải Vân Dao, Hải Tiểu Loa.
 
+- Hoàn thành chi tiết hồ sơ (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật Tán Tu (Bắc Băng): Bằng Bắc Minh, Hạc Tuyết Nhi, Sương Lệ Nhi.

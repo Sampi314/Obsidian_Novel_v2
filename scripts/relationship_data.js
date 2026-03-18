@@ -1983,3 +1983,17 @@ if (typeof characters !== 'undefined') {
         { source: "lam_thuong", target: "hua_nhuoc_thuy", type: "Tôn Trọng", description: "Đánh giá cao sự khôn ngoan và tàn nhẫn của Hứa Nhược Thủy trong thương trường." }
     );
 }
+
+// Tán Tu (Bắc Băng)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "bang_bac_minh", name: "Bằng Bắc Minh", title: "Truyền Tin", realm: "Kim Đan", faction: "Tán Tu", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#4a5d6e" },
+        { id: "hac_tuyet_nhi", name: "Hạc Tuyết Nhi", title: "Y Sư", realm: "Kim Đan", faction: "Tán Tu", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#dbe9f4" },
+        { id: "suong_le_nhi", name: "Sương Lệ Nhi", title: "Lữ Khách", realm: "Kim Đan", faction: "Tán Tu", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#a0c4ff" }
+    );
+    relationships.push(
+        { source: "bang_bac_minh", target: "hac_tuyet_nhi", type: "Được Cứu", description: "Bằng Bắc Minh được Hạc Tuyết Nhi cứu mạng" },
+        { source: "bang_bac_minh", target: "suong_le_nhi", type: "Thấu Hiểu", description: "Hai linh hồn tự do cô độc thấu hiểu nhau" },
+        { source: "hac_tuyet_nhi", target: "suong_le_nhi", type: "Che Chở", description: "Hạc Tuyết Nhi che chở cho sự yếu đuối của Sương Lệ Nhi" }
+    );
+}
