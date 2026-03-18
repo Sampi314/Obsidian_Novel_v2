@@ -652,3 +652,10 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hỏa Thiết Tâm (Phường Chủ)**: Thợ rèn danh tiếng bị khai trừ, người sáng lập Công Phường với triết lý rèn đúc thực dụng. Sở hữu "Hỏa Diễm Chú Linh Thuật".
   - **Hỏa Giáp Trụ (Thợ Cả)**: Mồ côi được cưu mang, chuyên gia "Thiết Tráp Chú Ấn", người lầm lì và là tấm khiên vững chắc của Công Phường.
   - **Hỏa Tiểu Viêm (Học Việc)**: Linh hoạt, năng nổ nhưng bộp chộp. Thích thử nghiệm công thức nổ mới, mang trong mình giấc mơ rèn pháp bảo trả thù cho bộ lạc.
+
+## Cập Nhật Mới
+### Các Nhân Vật Gần Đây Được Cập Nhật
+### Lôi Trì Thánh Địa (Thiên Trụ)
+- **Lôi Chấn (Đệ Nhất Hộ Pháp):** Một thân thể thao khổng lồ, sẹo chằng chịt do thiên lôi, lạnh lùng, tàn nhẫn và tuân thủ tuyệt đối Thiên Đạo. Sử dụng *Thiên Cương Lôi Quyết*.
+- **Lôi Cương (Viện Chủ Lôi Pháp):** Thể tu với vóc dáng vạm vỡ như tượng đồng, hào sảng và thích khám phá sức mạnh cơ thể qua *Cửu Chuyển Lôi Thể Công*.
+- **Lôi Phong (Đệ Nhị Hộ Pháp):** Dáng người dong dỏng, phong lưu và tà mị. Sử dụng tốc độ của sấm sét thông qua *Phong Lôi Ảo Bộ* và *Lôi Ảnh Huyết Thiểm*.

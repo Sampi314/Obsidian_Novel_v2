@@ -1,5 +1,4 @@
 const relationshipData = {
-  // Danh sách nhân vật (nodes)
   "characters": [
     {
       "id": "han_tieu",
@@ -506,10 +505,41 @@ const relationshipData = {
       "role": "supporting",
       "pov": false,
       "avatar_color": "#fffacd"
+    },
+    {
+      "id": "loi_chan",
+      "name": "Lôi Chấn",
+      "title": "Đệ Nhất Hộ Pháp",
+      "realm": "Nguyên Anh Hậu Kỳ",
+      "faction": "Lôi Trì Thánh Địa",
+      "region": "Thiên Trụ",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffb300"
+    },
+    {
+      "id": "loi_cuong",
+      "name": "Lôi Cương",
+      "title": "Viện Chủ Lôi Pháp",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Lôi Trì Thánh Địa",
+      "region": "Thiên Trụ",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffca28"
+    },
+    {
+      "id": "loi_phong",
+      "name": "Lôi Phong",
+      "title": "Đệ Nhị Hộ Pháp",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Lôi Trì Thánh Địa",
+      "region": "Thiên Trụ",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#ffe082"
     }
   ],
-
-  // Danh sách quan hệ (edges)
   "relationships": [
     {
       "source": "han_tieu",
@@ -1125,17 +1155,35 @@ const relationshipData = {
       "since_chapter": 1,
       "bidirectional": false,
       "notes": "Linh Bích Hải sử dụng tầm nhìn của Linh Tiểu Quang ở lớp ngoài cùng để thu nạp và ghi chép thông tin vào dòng ký ức."
+    },
+    {
+      "source": "loi_chan",
+      "target": "loi_cuong",
+      "type": "friendly",
+      "label": "Đồng môn/Hợp tác"
+    },
+    {
+      "source": "loi_chan",
+      "target": "loi_phong",
+      "type": "master",
+      "label": "Cấp trên"
+    },
+    {
+      "source": "loi_cuong",
+      "target": "loi_phong",
+      "type": "friendly",
+      "label": "Sư huynh"
     }
   ],
-
-  // Nhóm thế lực
   "factions": [
     {
       "id": "van_doc_mon",
       "name": "Vạn Độc Môn",
       "type": "tông_môn",
       "region": "Nam Cương",
-      "members": ["le_vo_tam"],
+      "members": [
+        "le_vo_tam"
+      ],
       "leader": "doc_co_lao_quai"
     },
     {
@@ -1143,7 +1191,10 @@ const relationshipData = {
       "name": "Tán Tu",
       "type": "tự_do",
       "region": "Khắp Nơi",
-      "members": ["a_ngoc", "lam_phong"],
+      "members": [
+        "a_ngoc",
+        "lam_phong"
+      ],
       "leader": null
     },
     {
@@ -1151,7 +1202,11 @@ const relationshipData = {
       "name": "Hắc Tinh Linh Lưu Đày",
       "type": "thế_lực_ẩn",
       "region": "Đông Hoang",
-      "members": ["am_diep", "am_da_hanh", "am_huyet"],
+      "members": [
+        "am_diep",
+        "am_da_hanh",
+        "am_huyet"
+      ],
       "leader": "am_diep"
     },
     {
@@ -1159,7 +1214,11 @@ const relationshipData = {
       "name": "Băng Nguyên Tán Tu Hội",
       "type": "tông_môn",
       "region": "Bắc Băng",
-      "members": ["hoang_dai_son", "ly_tuyet_phong", "nguyen_han_suong"],
+      "members": [
+        "hoang_dai_son",
+        "ly_tuyet_phong",
+        "nguyen_han_suong"
+      ],
       "leader": "tran_han_phong"
     },
     {
@@ -1167,7 +1226,11 @@ const relationshipData = {
       "name": "Bào Tử Mật Lâm Tộc",
       "type": "bộ_lạc",
       "region": "Đông Hoang",
-      "members": ["bao_hong_tan", "bao_huyet_tinh", "bao_hac_lam"],
+      "members": [
+        "bao_hong_tan",
+        "bao_huyet_tinh",
+        "bao_hac_lam"
+      ],
       "leader": "bao_hong_tan"
     },
     {
@@ -1175,12 +1238,25 @@ const relationshipData = {
       "name": "Phù Du Linh Đoàn",
       "type": "đoàn",
       "region": "Vô Tận Hải",
-      "members": ["linh_quang_mau", "linh_bich_hai", "linh_tieu_quang"],
+      "members": [
+        "linh_quang_mau",
+        "linh_bich_hai",
+        "linh_tieu_quang"
+      ],
       "leader": "linh_quang_mau"
+    },
+    {
+      "id": "loi_tri_thanh_dia",
+      "name": "Lôi Trì Thánh Địa",
+      "region": "Thiên Trụ",
+      "color": "#ffb300",
+      "members": [
+        "loi_chan",
+        "loi_cuong",
+        "loi_phong"
+      ]
     }
   ],
-
-  // Metadata
   "meta": {
     "last_updated": "2026-03-15",
     "total_characters": 7,
