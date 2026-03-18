@@ -647,3 +647,8 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 
 ### Phù Du Linh Đoàn (Vô Tận Hải)
 - **Linh Quang Mẫu (Quần Thể Ý Thức), Linh Bích Hải (Hạch Tâm Quần Thể), Linh Tiểu Quang (Tiên Phong Chiếu Sáng):** Vi Tộc phù du sống ở tầng nước tối Vô Tận Hải. Linh Quang Mẫu là hạt nhân tâm linh dẫn dắt cả đoàn; Linh Bích Hải mang màu xanh biếc lưu trữ ký ức di truyền; Linh Tiểu Quang là những đốm sáng nhỏ li ti đi tiên phong thu thập thông tin và cảnh báo nguy hiểm. Chúng kết hợp lại thành một Quần Thể Ý Thức khổng lồ.
+
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Hỏa Diễm Công Phường** (Tây Mạc):
+  - **Hỏa Thiết Tâm (Phường Chủ)**: Thợ rèn danh tiếng bị khai trừ, người sáng lập Công Phường với triết lý rèn đúc thực dụng. Sở hữu "Hỏa Diễm Chú Linh Thuật".
+  - **Hỏa Giáp Trụ (Thợ Cả)**: Mồ côi được cưu mang, chuyên gia "Thiết Tráp Chú Ấn", người lầm lì và là tấm khiên vững chắc của Công Phường.
+  - **Hỏa Tiểu Viêm (Học Việc)**: Linh hoạt, năng nổ nhưng bộp chộp. Thích thử nghiệm công thức nổ mới, mang trong mình giấc mơ rèn pháp bảo trả thù cho bộ lạc.

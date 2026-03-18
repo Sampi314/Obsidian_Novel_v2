@@ -1699,3 +1699,20 @@ if (typeof characters !== 'undefined') {
         { source: "huyet_trieu", target: "bang_nha", type: "Thù Ghét", description: "Huyết Triều ghét sự lạnh nhạt giả thanh cao của Băng Nha và hay khiêu khích hắn." }
     );
 }
+
+// Hỏa Diễm Công Phường (Tây Mạc)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "hoa_thiet_tam", name: "Hỏa Thiết Tâm", title: "Phường Chủ", realm: "Trúc Cơ", faction: "Hỏa Diễm Công Phường", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ff8a65" },
+        { id: "hoa_giap_tru", name: "Hỏa Giáp Trụ", title: "Thợ Cả", realm: "Trúc Cơ", faction: "Hỏa Diễm Công Phường", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ffccbc" },
+        { id: "hoa_tieu_viem", name: "Hỏa Tiểu Viêm", title: "Học Việc", realm: "Luyện Khí", faction: "Hỏa Diễm Công Phường", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ffab91" }
+    );
+    relationships.push(
+        { source: "hoa_thiet_tam", target: "hoa_giap_tru", type: "Sư Đồ", description: "Hỏa Thiết Tâm là ân nhân và người cha thứ hai của Hỏa Giáp Trụ." },
+        { source: "hoa_thiet_tam", target: "hoa_tieu_viem", type: "Sư Đồ", description: "Hỏa Thiết Tâm dung túng cho sự sáng tạo của đệ tử út Hỏa Tiểu Viêm." },
+        { source: "hoa_giap_tru", target: "hoa_tieu_viem", type: "Sư Huynh Đệ", description: "Sư huynh nghiêm khắc nhưng luôn bảo vệ sư đệ." },
+        { source: "hoa_thiet_tam", target: "co_thien_ly", type: "Cạnh Tranh", description: "Đối tác nhưng luôn dè chừng âm mưu thâu tóm của Cổ Thiên Lý (Thiên Sa Thương Hội)." },
+        { source: "hoa_giap_tru", target: "hoang_sa_nhan", type: "Khó Chịu", description: "Hỏa Giáp Trụ không ưa tính cách cò kè, tính toán của Hoàng Sa Nhạn." },
+        { source: "hoa_tieu_viem", target: "hua_thanh_van", type: "Bạn Trao Đổi", description: "Hỏa Tiểu Viêm thỉnh thoảng trao đổi linh kiện với thiếu niên Hứa Thanh Vân." }
+    );
+}
