@@ -1950,3 +1950,19 @@ if (typeof characters !== 'undefined') {
         { source: "le_bach_ngu", target: "pham_song", type: "Đối Tác", description: "Đối tác làm ăn chính của Lê Bạch Ngư để xuất khẩu đặc sản của đảo." }
     );
 }
+
+// Thiên Mộc Thành (Thiên Trụ)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "lam_van_hoa", name: "Lâm Vạn Hóa", title: "Thương Hội Chủ Tịch", realm: "Kim Đan", faction: "Thiên Mộc Thành", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#d4af37" },
+        { id: "lam_thuong", name: "Lâm Thương", title: "Phó Thành Chủ Thương Mại", realm: "Nguyên Anh", faction: "Thiên Mộc Thành", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#ffb347" },
+        { id: "ho_thuong", name: "Hồ Thương", title: "Thương Nhân", realm: "Trúc Cơ", faction: "Thiên Mộc Thành", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#8fbc8f" }
+    );
+    relationships.push(
+        { source: "lam_thuong", target: "lam_van_hoa", type: "Cha Con / Bất Đồng", description: "Cha con nhưng thường mâu thuẫn về phương pháp điều hành thương hội." },
+        { source: "ho_thuong", target: "lam_thuong", type: "Đối Tác Ngầm", description: "Hồ Thương tuồn hàng quý cho Lâm Thương để đổi lấy sự thuận lợi." },
+        { source: "ho_thuong", target: "lam_van_hoa", type: "Kính Sợ / Cò Mồi", description: "Hồ Thương rất ngưỡng mộ và sợ Lâm Vạn Hóa, làm cò mồi cho lão." },
+        { source: "ho_thuong", target: "dan_duong_tu", type: "Hợp Tác", description: "Đối tác làm ăn cung cấp linh thảo quý từ Nam Cương." },
+        { source: "lam_thuong", target: "hua_nhuoc_thuy", type: "Tôn Trọng", description: "Đánh giá cao sự khôn ngoan và tàn nhẫn của Hứa Nhược Thủy trong thương trường." }
+    );
+}

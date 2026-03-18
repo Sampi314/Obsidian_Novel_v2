@@ -7,7 +7,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật San Hô Vi Trùng
+### [Hiện Tại] - Hoàn thiện nhân vật Thiên Mộc Thành
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lâm Vạn Hóa, Lâm Thương, và Hồ Thương thuộc khu vực Thiên Trụ.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên trước] - Hoàn thiện nhân vật San Hô Vi Trùng
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Trùng Cổ Sinh, Trùng Mẫu, và Trùng Tân Nha thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -37,9 +41,3 @@
 ### [Phiên trước] - Hoàn thiện nhân vật San Hô Đảo Quốc
 - **Task 9:** Hoàn thành điền chi tiết 4 phần (II-V) cho 3 nhân vật thuộc phe phái San Hô Đảo Quốc (Vô Tận Hải): Hải Nguyệt Ca, Hải Vân Dao, Hải Tiểu Loa.
 
-### [Phiên trước] - Cập Nhật Nhân Vật Sương Ma Uyển
-- **Nội Dung:** Bổ sung chi tiết (Ngoại hình, Tính cách, Năng lực, Quan hệ, Tiểu sử) cho Hắc Sương Quỷ, Lãnh Vô Hồn, Sương Nô Vương.
-- **Trạng Thái:** Đã hoàn thành và thêm vào dữ liệu quan hệ (`relationship_data.js`).
-
-### [Phiên trước] - Hoàn thiện nhân vật Phù Du Linh Đoàn
-- **Hoạt động**: Hoàn thành Task 9 (Điền thông tin nhân vật) cho 3 nhân vật thuộc Phù Du Linh Đoàn (Vô Tận Hải): Linh Quang Mẫu, Linh Bích Hải, Linh Tiểu Quang. Cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
