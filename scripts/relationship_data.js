@@ -331,6 +331,39 @@ const relationshipData = {
       "avatar_color": "#4338ca"
     },
     {
+      "id": "linh_u_quang",
+      "name": "Linh U Quang",
+      "title": "Dẫn Đường Sư",
+      "realm": "Kim Đan",
+      "faction": "Thâm Hải Vi Linh",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#1e3a8a"
+    },
+    {
+      "id": "linh_van_truong",
+      "name": "Linh Vạn Trượng",
+      "title": "Thủ Vệ Hải Cấu",
+      "realm": "Nguyên Anh",
+      "faction": "Thâm Hải Vi Linh",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#3b82f6"
+    },
+    {
+      "id": "linh_vuc_uyen",
+      "name": "Linh Vực Uyên",
+      "title": "Thâm Hải Chủ",
+      "realm": "Hóa Thần",
+      "faction": "Thâm Hải Vi Linh",
+      "region": "Vô Tận Hải",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#4338ca"
+    },
+    {
       "id": "a_ngoc",
       "name": "A Ngốc",
       "title": "Hồn Nhiên Tử",
