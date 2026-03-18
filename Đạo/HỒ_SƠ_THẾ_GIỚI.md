@@ -707,6 +707,10 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hổ Bạch Văn:** Hổ Con Đặc Biệt mang vằn trắng đột biến của huyết mạch cổ xưa, luôn khát khao sức mạnh lật đổ bạo chúa Huyết Hổ Vương.
   - **Hổ Hàn Lệ:** Nữ Hổ Trúc Cơ Sơ Kỳ, người mẹ kiên cường nhẫn nhục, sử dụng bản năng sinh tồn để che chở và bảo vệ bí mật của Hổ Bạch Văn.
   - **Hổ Nha Tam:** Quản Sự Trúc Cơ Viên Mãn, lão hổ già mưu mô xảo quyệt, bề ngoài phục tùng nhưng bên trong âm thầm tích trữ tài nguyên và lên kế hoạch nổi dậy.
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Thâm Hải Vi Linh** (Vô Tận Hải):
+  - **Linh U Quang (Dẫn Đường Sư)**: Ánh sáng xanh lam huyền ảo tạo thành từ tỷ cá thể Vi Tộc, tò mò, soi sáng hải cấu tối tăm và làm hoa tiêu dưới Vực Thẳm Vạn Trượng.
+  - **Linh Vạn Trượng (Thủ Vệ Hải Cấu)**: Bức tường sinh vật đỏ sẫm trải dài vạn trượng, lạnh lùng dùng áp suất cực hạn chặn đứng và nghiền nát tà vật muốn thoát khỏi phong ấn.
+  - **Linh Vực Uyên (Thâm Hải Chủ)**: Ý thức tập thể khổng lồ bao trùm màu xanh đen, trầm lặng và uy nghiêm thao túng hải lưu, một mình gồng gánh sứ mệnh canh giữ tà vật Thượng Cổ.
 
 ### Tuyết Liên Dược Phường (Bắc Băng)
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Tuyết Liên Dược Phường** (Bắc Băng):
