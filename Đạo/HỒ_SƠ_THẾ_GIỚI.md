@@ -695,3 +695,6 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Kình Hải Âm Thiên:** Ca Sĩ Bộ Lạc Kim Đan Trung Kỳ, sử dụng tiếng hát âm ba và *Hải Minh Âm Sát* để giao tiếp và tấn công. Khao khát hoàn thiện Khúc Hát Tận Cùng.
   - **Kình Lôi Âm:** Hộ Vệ Trưởng Trúc Cơ Viên Mãn, dũng mãnh và cương trực. Chuyên dùng *Chấn Lôi Kình Kích* bảo vệ sự an nguy của bầy cá voi.
   - **Kình Mẫu Từ:** Hộ Sản Trúc Cơ Viên Mãn, hiền từ và bao dung. Sử dụng *Sinh Linh Tế Thủy* để chữa trị và che chở những sinh mệnh non nớt.
+
+### Cập Nhật Tán Tu (Bắc Băng)
+- Hoàn thiện chi tiết (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật lang bạt: Bằng Bắc Minh, Hạc Tuyết Nhi, Sương Lệ Nhi.
