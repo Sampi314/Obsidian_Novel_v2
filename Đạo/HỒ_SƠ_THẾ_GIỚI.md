@@ -690,3 +690,8 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hoàng Hải Triều:** Đội Trưởng Hải Tuần Đội Trúc Cơ Hậu Kỳ, rắn rỏi và trầm ổn. Bảo vệ quần đảo bằng *Nộ Hải Lãng Quyết*.
   - **Lê Bạch Ngư:** Đảo Chủ Đảo Số Ba Trúc Cơ Viên Mãn, thư sinh khôn khéo và giỏi tính toán. Uyển chuyển né đòn bằng *Bạch Ngư Du Dực*.
   - **Phạm Sóng:** Thuyền Trưởng Thương Thuyền Trúc Cơ Sơ Kỳ, cương mãnh và sảng khoái. Đánh sập phòng tuyến bằng *Bạo Phong Chùy Pháp*.
+
+- **Kình Ngư Bộ Lạc (Vô Tận Hải):**
+  - **Kình Hải Âm Thiên:** Ca Sĩ Bộ Lạc Kim Đan Trung Kỳ, sử dụng tiếng hát âm ba và *Hải Minh Âm Sát* để giao tiếp và tấn công. Khao khát hoàn thiện Khúc Hát Tận Cùng.
+  - **Kình Lôi Âm:** Hộ Vệ Trưởng Trúc Cơ Viên Mãn, dũng mãnh và cương trực. Chuyên dùng *Chấn Lôi Kình Kích* bảo vệ sự an nguy của bầy cá voi.
+  - **Kình Mẫu Từ:** Hộ Sản Trúc Cơ Viên Mãn, hiền từ và bao dung. Sử dụng *Sinh Linh Tế Thủy* để chữa trị và che chở những sinh mệnh non nớt.
