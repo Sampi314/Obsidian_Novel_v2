@@ -8,7 +8,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Thâm Hải Vi Linh
+### [Hiện Tại] - Hoàn thiện nhân vật Băng Ngục Đào Vong Giả
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Cương Thạch Nữ, Hắc Diện Nhân, và Lãnh Vô Tâm thuộc khu vực Bắc Băng.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên trước] - Hoàn thiện nhân vật Thâm Hải Vi Linh
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Linh U Quang, Linh Vạn Trượng, và Linh Vực Uyên thuộc khu vực Vô Tận Hải.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -44,7 +48,4 @@
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hoàng Hải Triều, Lê Bạch Ngư, và Phạm Sóng thuộc khu vực Vô Tận Hải.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
-### [Phiên trước] - Hoàn thiện nhân vật Long Cung
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hắc Thiên, Hắc Ngạo Thiên, và Hắc Lạc Nhạn thuộc khu vực Vô Tận Hải.
-- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `HỒ_SƠ_THẾ_GIỚI.md`.
 

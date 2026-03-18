@@ -2,6 +2,7 @@
 
 ### Tình trạng cập nhật gần nhất
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Huyết Hổ Hạ Chúng** (Vô Tận Hải): **Hổ Bạch Văn**, **Hổ Hàn Lệ**, và **Hổ Nha Tam**.
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Băng Ngục Đào Vong Giả** (Bắc Băng): **Cương Thạch Nữ**, **Hắc Diện Nhân**, và **Lãnh Vô Tâm**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Băng Ngục Thành** (Bắc Băng): **Băng Cốt Yêu Nữ**, **Huyết Đồ Tàn Phong**, và **Hắc Giáp Thống Lĩnh**.
 
 ## I. Tổng Quan
