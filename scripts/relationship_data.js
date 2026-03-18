@@ -1,6 +1,39 @@
 const relationshipData = {
   "characters": [
     {
+      "id": "le_thuan_phong",
+      "name": "Lê Thuận Phong",
+      "title": "Trưởng Lão",
+      "realm": "Trúc Cơ",
+      "faction": "Sa Mạc Hướng Đạo Hội",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#f2cc8f"
+    },
+    {
+      "id": "phong_sa_lao_nhan",
+      "name": "Phong Sa Lão Nhân",
+      "title": "Hội Trưởng",
+      "realm": "Trúc Cơ",
+      "faction": "Sa Mạc Hướng Đạo Hội",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f2cc8f"
+    },
+    {
+      "id": "pham_huong_tay",
+      "name": "Phạm Hướng Tây",
+      "title": "Hướng Đạo",
+      "realm": "Luyện Khí",
+      "faction": "Sa Mạc Hướng Đạo Hội",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#f2cc8f"
+    },
+    {
       "id": "han_tieu",
       "name": "Hàn Tiêu",
       "title": "Cốc Chủ",

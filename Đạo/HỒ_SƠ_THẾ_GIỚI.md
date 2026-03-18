@@ -659,3 +659,8 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Lôi Chấn (Đệ Nhất Hộ Pháp):** Một thân thể thao khổng lồ, sẹo chằng chịt do thiên lôi, lạnh lùng, tàn nhẫn và tuân thủ tuyệt đối Thiên Đạo. Sử dụng *Thiên Cương Lôi Quyết*.
 - **Lôi Cương (Viện Chủ Lôi Pháp):** Thể tu với vóc dáng vạm vỡ như tượng đồng, hào sảng và thích khám phá sức mạnh cơ thể qua *Cửu Chuyển Lôi Thể Công*.
 - **Lôi Phong (Đệ Nhị Hộ Pháp):** Dáng người dong dỏng, phong lưu và tà mị. Sử dụng tốc độ của sấm sét thông qua *Phong Lôi Ảo Bộ* và *Lôi Ảnh Huyết Thiểm*.
+
+- **Sa Mạc Hướng Đạo Hội (Tây Mạc):**
+  - **Lê Thuận Phong:** Trưởng Lão Trúc Cơ Sơ Kỳ, khắc khổ, am hiểu sinh tồn và di chuyển trong bão cát với *Thuận Phong Bộ*.
+  - **Phong Sa Lão Nhân:** Hội Trưởng Trúc Cơ Trung Kỳ, mù một mắt, ôm giữ bí mật về Vĩnh Tịch Chi Địa và sáng tạo ra *Tầm Sa Bí Quyết*.
+  - **Phạm Hướng Tây:** Hướng Đạo Luyện Khí Hậu Kỳ, bốc đồng nhưng có tài cảm nhận nước ngầm và ghi nhớ 8 lộ tuyến phức tạp.

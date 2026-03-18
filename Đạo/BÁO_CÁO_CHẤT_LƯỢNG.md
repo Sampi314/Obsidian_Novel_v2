@@ -1,4 +1,9 @@
 
+## [2026-03-18] - Hoàn thiện nhân vật Sa Mạc Hướng Đạo Hội
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lê Thuận Phong, Phong Sa Lão Nhân, và Phạm Hướng Tây thuộc khu vực Tây Mạc.
+- **Hành động:** Điền đủ các section II-V, khắc họa rõ đặc điểm từng người: Lê Thuận Phong nghiêm khắc, am hiểu sinh tồn; Phong Sa Lão Nhân điềm đạm, bí ẩn; Phạm Hướng Tây bốc đồng nhưng có tài. Đã cập nhật `scripts/relationship_data.js`.
+
+
 ## [2026-03-18] - Hoàn thiện nhân vật Lôi Trì Thánh Địa
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lôi Chấn, Lôi Cương, và Lôi Phong thuộc khu vực Thiên Trụ.
 - **Hành động:** Điền đủ các section II-V, khắc họa rõ đặc điểm từng người: Lôi Chấn nghiêm khắc và tàn nhẫn; Lôi Cương cởi mở, chuyên về luyện thể; Lôi Phong nhanh nhẹn, tà mị. Đã cập nhật `scripts/relationship_data.js` và `INSTRUCTIONS.md`.
