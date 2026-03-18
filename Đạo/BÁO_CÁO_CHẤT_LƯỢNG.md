@@ -49,3 +49,4 @@
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
 
+- [Linh Hồ Tàn Tộc] Đã điền thông tin chi tiết (Sections II-V) cho Hồ Cửu Thiên, Hồ Linh Hỏa, Hồ Nguyệt Quang.

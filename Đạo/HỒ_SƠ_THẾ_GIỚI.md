@@ -679,6 +679,11 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Lâm Thương:** Phó Thành Chủ Thương Mại Nguyên Anh Sơ Kỳ, con trai Lâm Vạn Hóa. Phong thái khiêm nhường nhưng lạnh lùng trên thương trường. Sở hữu tuyệt kỹ *Lâm Mộc Tiền Sinh Quyết*.
   - **Hồ Thương:** Thương Nhân Trúc Cơ Hậu Kỳ, khôn ngoan và thực dụng. Là một tên cò mồi đắc lực cho Lâm Vạn Hóa, chuyên tuồn linh thảo hiếm từ Nam Cương.
 
+- **Linh Hồ Tàn Tộc (Vô Tận Hải):**
+  - **Hồ Cửu Thiên:** Hồ Con Luyện Khí Viên Mãn, mang huyết mạch Cửu Vĩ Thiên Hồ cực hiếm. Vẫn còn ngây thơ tò mò thế giới ngoài kia.
+  - **Hồ Linh Hỏa:** Hộ Pháp Trúc Cơ Hậu Kỳ, trung niên khắc khổ, tận trung với bộ tộc và có sức mạnh chiến đấu lớn nhất hiện tại.
+  - **Hồ Nguyệt Quang:** Giữ Nguyệt Quang Thạch Trúc Cơ Sơ Kỳ, thanh y tuấn tú và mang sứ mệnh bảo vệ bảo vật của Hồ Tộc phương Bắc.
+
 - **San Hô Vi Trùng (Tây Mạc):**
   - **Trùng Mẫu:** San Hô Mẫu Trùng Luyện Khí Hậu Kỳ, hiện thân của ý chí tập thể, điều phối kiến tạo "san hô sa mạc" khổng lồ bảo vệ mạch ngầm Tây Mạc.
   - **Trùng Cổ Sinh:** Vi Trùng Cổ Đại Luyện Khí Trung Kỳ, những "thợ xây vô hình" kiên cường mang vỏ bọc linh khoáng vạn năm, biến cát thành thạch.
