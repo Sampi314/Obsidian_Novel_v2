@@ -1,3 +1,8 @@
+
+## [2026-03-18] - Hoàn thiện nhân vật Lôi Trì Thánh Địa
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lôi Chấn, Lôi Cương, và Lôi Phong thuộc khu vực Thiên Trụ.
+- **Hành động:** Điền đủ các section II-V, khắc họa rõ đặc điểm từng người: Lôi Chấn nghiêm khắc và tàn nhẫn; Lôi Cương cởi mở, chuyên về luyện thể; Lôi Phong nhanh nhẹn, tà mị. Đã cập nhật `scripts/relationship_data.js` và `INSTRUCTIONS.md`.
+
 ## BÁO CÁO GẦN NHẤT
 ### Báo Cáo Chất Lượng (2026-03-18)
 - **Task 9:** Hoàn thành điền chi tiết 4 phần (II-V) cho 3 nhân vật thuộc phe phái Hỏa Diễm Công Phường (Tây Mạc): Hỏa Thiết Tâm, Hỏa Giáp Trụ, Hỏa Tiểu Viêm.
