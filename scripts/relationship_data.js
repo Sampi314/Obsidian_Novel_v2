@@ -1990,10 +1990,17 @@ if (typeof characters !== 'undefined') {
         { id: "bang_bac_minh", name: "Bằng Bắc Minh", title: "Truyền Tin", realm: "Kim Đan", faction: "Tán Tu", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#4a5d6e" },
         { id: "hac_tuyet_nhi", name: "Hạc Tuyết Nhi", title: "Y Sư", realm: "Kim Đan", faction: "Tán Tu", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#dbe9f4" },
         { id: "suong_le_nhi", name: "Sương Lệ Nhi", title: "Lữ Khách", realm: "Kim Đan", faction: "Tán Tu", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#a0c4ff" }
-    );
+    ,
+{ id: "trung_thien_ly_nhan", name: "Trùng Thiên Lý Nhãn", title: "Đội Trưởng", realm: "Kim Đan", faction: "Vi Trùng Trinh Sát Đội", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#b0b0b0" },
+        { id: "trung_thinh_phong", name: "Trùng Thính Phong", title: "Thính Giả", realm: "Trúc Cơ", faction: "Vi Trùng Trinh Sát Đội", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#d0d0d0" },
+        { id: "trung_tieu_mat", name: "Trùng Tiểu Mật", title: "Mật Thám", realm: "Trúc Cơ", faction: "Vi Trùng Trinh Sát Đội", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#e6c229" });
     relationships.push(
         { source: "bang_bac_minh", target: "hac_tuyet_nhi", type: "Được Cứu", description: "Bằng Bắc Minh được Hạc Tuyết Nhi cứu mạng" },
         { source: "bang_bac_minh", target: "suong_le_nhi", type: "Thấu Hiểu", description: "Hai linh hồn tự do cô độc thấu hiểu nhau" },
         { source: "hac_tuyet_nhi", target: "suong_le_nhi", type: "Che Chở", description: "Hạc Tuyết Nhi che chở cho sự yếu đuối của Sương Lệ Nhi" }
-    );
+    ,
+{ source: "trung_thien_ly_nhan", target: "trung_thinh_phong", type: "Thượng Cấp", description: "Đội trưởng và đôi tai đắc lực" },
+        { source: "trung_thien_ly_nhan", target: "trung_tieu_mat", type: "Thượng Cấp", description: "Thủ lĩnh và mật thám tinh anh" },
+        { source: "trung_thinh_phong", target: "trung_tieu_mat", type: "Đồng Liêu", description: "Phối hợp thu thập tình báo" },
+        { source: "trung_tieu_mat", target: "co_thien_ly", type: "Theo Dõi", description: "Bám theo hành lý để trộm thông tin" });
 }
