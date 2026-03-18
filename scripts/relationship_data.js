@@ -2136,3 +2136,20 @@ if (typeof characters !== 'undefined') {
         { id: "nguc_truong_vo_tinh", name: "Ngục Trưởng Vô Tình", title: "Thành Chủ", realm: "Hóa Thần Sơ Kỳ", faction: "Băng Ngục Thành", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#4b0082" }
     );
 }
+
+// Huyết Hổ Hạ Chúng (Vô Tận Hải)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "ho_bach_van", name: "Hổ Bạch Văn", title: "Hổ Con Đặc Biệt", realm: "Luyện Khí Viên Mãn", faction: "Huyết Hổ Hạ Chúng", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#ffffff" },
+        { id: "ho_han_le", name: "Hổ Hàn Lệ", title: "Nữ Hổ", realm: "Trúc Cơ Sơ Kỳ", faction: "Huyết Hổ Hạ Chúng", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#d4a373" },
+        { id: "ho_nha_tam", name: "Hổ Nha Tam", title: "Quản Sự", realm: "Trúc Cơ Viên Mãn", faction: "Huyết Hổ Hạ Chúng", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#8c7851" }
+    );
+    relationships.push(
+        { source: "ho_bach_van", target: "ho_han_le", type: "Mẹ Con", description: "Vô cùng yêu thương và tỏ ra ngoan ngoãn để mẹ không chịu đòn roi thay mình." },
+        { source: "ho_han_le", target: "ho_bach_van", type: "Mẹ Con", description: "Bảo bọc, dùng thân mình che chở và giấu giếm vằn trắng của con trai." },
+        { source: "ho_bach_van", target: "ho_nha_tam", type: "Học Trò", description: "Bí mật được truyền thụ kỹ năng sinh tồn và nung nấu ý chí khởi nghĩa." },
+        { source: "ho_nha_tam", target: "ho_bach_van", type: "Thầy Trò", description: "Nhận ra huyết mạch bất phàm, âm thầm huấn luyện làm ngọn cờ khởi nghĩa." },
+        { source: "ho_han_le", target: "ho_nha_tam", type: "Đồng Minh", description: "Âm thầm hợp tác, giao phó sự an nguy của con trai cho những chỉ dạy của lão." },
+        { source: "ho_nha_tam", target: "ho_han_le", type: "Đồng Minh", description: "Tôn trọng sự hy sinh của nàng, thường xuyên hỗ trợ nàng che giấu bí mật của Hổ Bạch Văn." }
+    );
+}
