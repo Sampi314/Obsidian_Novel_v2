@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: ~569 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Thâm Hải Vi Linh - Vô Tận Hải ở phiên trước). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
+1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: ~566 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Băng Ngục Đào Vong Giả - Bắc Băng ở phiên trước). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
 2. **Sau khi Task 9 hoàn thành** → Tiếp tục Catch-up Lâm Phong (Task 2): Viết chương 133+ cho Góc Nhìn Lâm Phong.
 3. **Sau khi Task 9 hoàn thành** → Tiếp tục Task 5 (Tuyến Khu Vực): Viết Arc 2 cho các khu vực.
 
@@ -438,7 +438,7 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
 > Đã hoàn thành Task 9 cho 3 nhân vật San Hô Vi Trùng (Tây Mạc): Trùng Cổ Sinh, Trùng Mẫu, Trùng Tân Nha.
 > Đã hoàn thành Task 9 cho 3 nhân vật Thiên Mộc Thành (Thiên Trụ): Lâm Vạn Hóa, Lâm Thương, Hồ Thương.
 > Đã hoàn thành Task 9 cho 3 nhân vật Kình Ngư Bộ Lạc (Vô Tận Hải): Kình Hải Âm Thiên, Kình Lôi Âm, Kình Mẫu Từ. Cũng đã tạo file Thế Lực cho Kình Ngư Bộ Lạc.
-> Đã hoàn thành Task 9 cho 3 nhân vật Tán Tu (Bắc Băng): Bằng Bắc Minh, Hạc Tuyết Nhi, Sương Lệ Nhi.
 > Đã hoàn thành Task 9 cho 3 nhân vật Băng Ngục Thành (Bắc Băng): Băng Cốt Yêu Nữ, Huyết Đồ Tàn Phong, Hắc Giáp Thống Lĩnh.
 > Đã hoàn thành Task 9 cho 3 nhân vật Huyết Hổ Hạ Chúng (Vô Tận Hải): Hổ Bạch Văn, Hổ Hàn Lệ, Hổ Nha Tam.
 > Đã hoàn thành Task 9 cho 3 nhân vật Thâm Hải Vi Linh (Vô Tận Hải): Linh U Quang, Linh Vạn Trượng, Linh Vực Uyên.
+> Đã hoàn thành Task 9 cho 3 nhân vật Băng Ngục Đào Vong Giả (Bắc Băng): Cương Thạch Nữ, Hắc Diện Nhân, Lãnh Vô Tâm.

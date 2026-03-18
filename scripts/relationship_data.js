@@ -1,6 +1,50 @@
 const relationshipData = {
   "characters": [
     {
+      "id": "cuong_thach_nu",
+      "name": "Cương Thạch Nữ",
+      "title": "Hộ Vệ",
+      "realm": "Trúc Cơ",
+      "faction": "Băng Ngục Đào Vong Giả",
+      "region": "Bắc Băng",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#e0e0e0"
+    },
+    {
+      "id": "hac_dien_nhan",
+      "name": "Hắc Diện Nhân",
+      "title": "Phó Minh Chủ",
+      "realm": "Kim Đan",
+      "faction": "Băng Ngục Đào Vong Giả",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#606060"
+    },
+    {
+      "id": "lanh_vo_tam_dao_vong",
+      "name": "Lãnh Vô Tâm",
+      "title": "Ám Sát Thủ",
+      "realm": "Trúc Cơ",
+      "faction": "Băng Ngục Đào Vong Giả",
+      "region": "Bắc Băng",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#80c0c0"
+    },
+    {
+      "id": "mac_vo_danh",
+      "name": "Mạc Vô Danh",
+      "title": "Minh Chủ",
+      "realm": "Nguyên Anh",
+      "faction": "Băng Ngục Đào Vong Giả",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#d0d0d0"
+    },
+    {
       "id": "hoang_duoc_su",
       "name": "Hoàng Dược Sư",
       "title": "Dược Sư",
@@ -739,6 +783,48 @@ const relationshipData = {
     }
   ],
   "relationships": [
+    {
+      "source": "cuong_thach_nu",
+      "target": "mac_vo_danh",
+      "type": "ally",
+      "description": "Kính trọng tuyệt đối, xem Minh Chủ như ân nhân cứu mạng."
+    },
+    {
+      "source": "cuong_thach_nu",
+      "target": "hac_dien_nhan",
+      "type": "neutral",
+      "description": "E dè và không tin tưởng hành tung bí ẩn của Phó Minh Chủ."
+    },
+    {
+      "source": "cuong_thach_nu",
+      "target": "lanh_vo_tam_dao_vong",
+      "type": "ally",
+      "description": "Đồng đội vào sinh ra tử, thường làm tiên phong thu hút sự chú ý để Lãnh Vô Tâm ám sát."
+    },
+    {
+      "source": "hac_dien_nhan",
+      "target": "mac_vo_danh",
+      "type": "enemy",
+      "description": "Phục tùng trên danh nghĩa nhưng ngấm ngầm muốn lật đổ để nắm quyền."
+    },
+    {
+      "source": "hac_dien_nhan",
+      "target": "cuong_thach_nu",
+      "type": "neutral",
+      "description": "Khinh bỉ sự trung thành mù quáng, xem nàng như quân cờ thí mạng."
+    },
+    {
+      "source": "hac_dien_nhan",
+      "target": "lanh_vo_tam_dao_vong",
+      "type": "ally",
+      "description": "Hợp tác ngầm, sử dụng Lãnh Vô Tâm cho các nhiệm vụ ám sát riêng."
+    },
+    {
+      "source": "lanh_vo_tam_dao_vong",
+      "target": "mac_vo_danh",
+      "type": "neutral",
+      "description": "Tuân lệnh máy móc, thực hiện nhiệm vụ đổi lấy chỗ ẩn nấp."
+    },
     {
       "source": "hoang_duoc_su",
       "target": "lien_tuyet_nhi",

@@ -1,11 +1,10 @@
+## TỔNG HỢP LỊCH SỬ (tự động nén)
+- Hoàn thành Task 9: Điền chi tiết nhân vật (Nham Tĩnh, Xích Nham - Cổ Nham Bộ Lạc).
+- Hoàn thành Task 9: Điền chi tiết nhân vật (Ngư Tiểu Bạch, San Bích Quang, San Huyền Quang Dạ - San Hô Đảo Quốc).
+- Hoàn thành Task 9: Điền chi tiết nhân vật (Hàn Tiêu, Hoàng Đoạn Tuyết, Lê Kiếm Tâm - Hàn Kiếm Cốc).
 
 ## PHIÊN GẦN NHẤT
-- Đã tạo chi tiết hồ sơ (Sections II-V) cho Nham Tĩnh và Xích Nham của phe Cổ Nham Bộ Lạc, tuân theo thiết lập thế giới và văn hóa của vùng Tây Mạc.
-
-
-## PHIÊN GẦN NHẤT (2026-03-17)
-- Hoàn thành Task 9: Điền chi tiết 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Ngư Tiểu Bạch, San Bích Quang, San Huyền Quang Dạ.
-- Đã cập nhật ngoại hình, tính cách, kỹ năng, quan hệ và tiểu sử cho từng nhân vật, tuân thủ bối cảnh huyễn thuật ánh sáng và âm nhạc của San Hô Đảo Quốc.
-- Đã thêm dữ liệu vào `scripts/relationship_data.js`.
-- Cập nhật `HỒ_SƠ_THẾ_GIỚI.md` và `INSTRUCTIONS.md` (giảm số remaining).
-- [Hôm nay]: Điền chi tiết cho 3 nhân vật Hàn Kiếm Cốc (Bắc Băng): Hàn Tiêu, Hoàng Đoạn Tuyết, Lê Kiếm Tâm. Cập nhật relationship_data.js và HỒ_SƠ_THẾ_GIỚI.md.
+- Hoàn thành Task 9: Điền chi tiết (Sections II-V) cho 3 nhân vật phe Băng Ngục Đào Vong Giả (Bắc Băng): Cương Thạch Nữ, Hắc Diện Nhân, Lãnh Vô Tâm.
+- Cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+- Ghi log chất lượng và nén file ghi nhớ tự động.
+- Cập nhật ưu tiên cho phiên tới trong `INSTRUCTIONS.md` (giảm remaining placeholder xuống ~566).
