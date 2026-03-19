@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: 494 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Độc Lập - Tây Mạc ở phiên trước: Giao Thiên Mạc Nguyệt, Ngư Sa Hà, Sa Cát Vương). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
+1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: 467 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật San Hô Đảo Quốc - Vô Tận Hải ở phiên trước: Thủy Tinh, Triều Bích Hải, Triều Thiên Vệ). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
 2. **Sau khi Task 9 hoàn thành** → Tiếp tục Catch-up Lâm Phong (Task 2): Viết chương 133+ cho Góc Nhìn Lâm Phong.
 3. **Sau khi Task 9 hoàn thành** → Tiếp tục Task 5 (Tuyến Khu Vực): Viết Arc 2 cho các khu vực.
 
@@ -451,3 +451,9 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
 > Đã hoàn thành Task 9 cho 3 nhân vật Tán Tu (Thiên Trụ): Hỏa Kiến Vương, Thiết Trùng, Vân Nga Tiên Tử.
 > Đã hoàn thành Task 9 cho 3 nhân vật Hàn Dân Hộ Vệ Đội (Bắc Băng): Lê Thạch Bàn, Nguyễn Đại Lực, Phạm Hỏa Nương.
 > Đã hoàn thành Task 9 cho 3 nhân vật Sa Mạc Yêu Hồ (Tây Mạc): Hồ Diệu Ngôn, Hồ Huyễn Dạ Thiên, Hồ Hỏa Vĩ.
+> Đã hoàn thành Task 9 cho 3 nhân vật Lông Vũ Phường (Thiên Trụ): Công Kim Lông, Công Diệu Thủ, Công Thái Vũ.
+> Đã hoàn thành Task 9 cho 3 nhân vật Tuyết Cự Nhân Đảo (Bắc Băng): Nham Cương Thể, Sơn Thiết Quyền, Sơn Đại Địa.
+> Đã hoàn thành Task 9 cho 3 nhân vật Phiêu Miễu Băng Hải (Bắc Băng): Lam Tịnh Thủy, Mộng Hàn Yên, Nguyệt Ảnh Hồ.
+> Đã hoàn thành Task 9 cho 3 nhân vật Sóng Vi Ba Liên Lạc (Vô Tận Hải): Ba Cộng Minh, Ba Hải Vọng, Ba Linh Thoại.
+> Đã hoàn thành Task 9 cho 3 nhân vật Cực Quang Thần Điện (Thiên Trụ): Phượng Tiêu, Phượng Thiên Dực, Phượng Kim Sí.
+> Đã hoàn thành Task 9 cho 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Thủy Tinh, Triều Bích Hải, Triều Thiên Vệ.

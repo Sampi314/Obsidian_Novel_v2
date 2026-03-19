@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Nhuộm Sư.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Nhuộm lông vũ bảy sắc, một chiếc đổi ngàn viên linh thạch
+Thân hình quyến rũ, luôn khoác trên mình những dải lụa và lông vũ nhuộm bảy màu rực rỡ, mỗi bước đi của Công Thái Vũ đều lưu lại một mùi hương dịu nhẹ kỳ lạ. Ánh mắt lanh lợi, nụ cười thường trực trên môi nhưng luôn ẩn chứa sự toan tính. Nàng thông minh, sắc sảo và rất biết cách nâng cao giá trị sản phẩm bằng vẻ ngoài bắt mắt cũng như những lời lẽ đường mật khi giao thương.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Sử dụng các loại màu nhuộm chứa độc tính hoặc mộc linh lực để chiến đấu. Kỹ năng **"Thất Thải Độc Vũ" (七彩毒羽)** tung ra những chiếc lông vũ mang độc tính gây tê liệt hệ thần kinh, kết hợp với **"Huyễn Sắc Mê Trận" (幻色迷阵)** dùng ảo ảnh màu sắc để làm lóa mắt và rối loạn tâm trí đối thủ. Tốc độ di chuyển rất cao nhưng sức mạnh thể chất lại khá mỏng manh.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Công Kim Lông:** Phục tùng và nghe lệnh Phường Chủ Kim Lông, nhưng thỉnh thoảng vẫn lén lút giấu lại những chiếc lông vũ nhuộm hiếm để trục lợi riêng.
+- **Công Diệu Thủ:** Rất thích trêu chọc Diệu Thủ vì sự cầu toàn thái quá của y, nhưng lại phối hợp làm việc vô cùng ăn ý để tạo ra các tác phẩm giá trị cao.
+- **Phá Băng Thương Đội:** Thường xuyên giao thương và đàm phán trực tiếp với các thương nhân của Phá Băng, có mạng lưới quan hệ rộng rãi trong giới buôn bán.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Từng là một dược sư nghèo ở tầng đáy xã hội, Thái Vũ vô tình phát hiện ra cách dùng một số loại thảo dược hiếm để nhuộm màu và tăng cường linh lực cho lông vũ rụng. Bằng sự sáng tạo và khéo léo, nàng đã mang lại lợi nhuận khổng lồ cho Lông Vũ Phường qua việc bán lông vũ nhuộm. Nàng luôn ấp ủ ước mơ tìm được loại "Sinh Linh Mộc Thảo" trong truyền thuyết để có thể nhuộm ra một chiếc lông vũ mang trong mình sinh mệnh thực sự.

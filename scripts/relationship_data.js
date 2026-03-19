@@ -1786,6 +1786,18 @@ const relationshipData = {
         "loi_cuong",
         "loi_phong"
       ]
+    },
+    {
+      "id": "co_tich_cu_nhan_thuc_tinh",
+      "name": "Cổ Tích Cự Nhân Thức Tỉnh",
+      "type": "bộ_lạc",
+      "region": "Tây Mạc",
+      "members": [
+        "co_mong",
+        "co_nham_hon",
+        "co_son"
+      ],
+      "leader": "co_mong"
     }
   ],
   "meta": {
@@ -1823,6 +1835,33 @@ if (typeof relationships !== 'undefined') {
         { source: "Thạch Cương", target: "Nham Liệt", type: "Chỉ Dạy", description: "Thấu hiểu mặc cảm, hay để hắn nhận thử thách nhằm rèn giũa bản tính." },
         { source: "Thạch Chùy", target: "Thạch Cương", type: "Kính Trọng", description: "Coi ông như người thầy, người cha đã truyền cảm hứng và cưu mang mình." },
         { source: "Thạch Cương", target: "Thạch Chùy", type: "Tin Tưởng", description: "Tin tưởng tuyệt đối vào sự thận trọng của Chùy, coi là người kế nghiệp tương lai." }
+    );
+
+    characters.push(
+        { id: "cong_kim_long", name: "Công Kim Lông", title: "Phường Chủ", realm: "Nguyên Anh Sơ Kỳ", faction: "Lông Vũ Phường", region: "Thiên Trụ", role: "leader", pov: false, avatar_color: "#ffc107" },
+        { id: "cong_dieu_thu", name: "Công Diệu Thủ", title: "Thợ Thủ Công", realm: "Kim Đan Hậu Kỳ", faction: "Lông Vũ Phường", region: "Thiên Trụ", role: "artisan", pov: false, avatar_color: "#9e9e9e" },
+        { id: "cong_thai_vu", name: "Công Thái Vũ", title: "Nhuộm Sư", realm: "Kim Đan Trung Kỳ", faction: "Lông Vũ Phường", region: "Thiên Trụ", role: "artisan", pov: false, avatar_color: "#e91e63" },
+
+        // Bắc Băng - Phiêu Miễu Băng Hải
+        { id: "lam_tinh_thuy", name: "Lam Tịnh Thủy", title: "Trưởng Lão", realm: "Nguyên Anh Sơ Kỳ", faction: "Phiêu Miễu Băng Hải", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#00bcd4" },
+        { id: "mong_han_yen", name: "Mộng Hàn Yên", title: "Đường Chủ", realm: "Nguyên Anh Sơ Kỳ", faction: "Phiêu Miễu Băng Hải", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#00bcd4" },
+        { id: "nguyet_anh_ho", name: "Nguyệt Ảnh Hồ", title: "Chân Truyền", realm: "Trúc Cơ Viên Mãn", faction: "Phiêu Miễu Băng Hải", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#00bcd4" }
+    );
+    relationships.push(
+        { source: "cong_kim_long", target: "vu_mao_nhi", type: "Kính Trọng", description: "Vô cùng kính trọng Phường Chủ sáng lập, coi bà là người khai sinh ra con đường tái sinh cho lông vũ rụng." },
+        { source: "cong_dieu_thu", target: "cong_kim_long", type: "Đồng Liêu", description: "Vô cùng kính trọng tài năng của Kim Lông, coi ông là người dẫn dắt nghệ thuật." },
+        { source: "cong_thai_vu", target: "cong_kim_long", type: "Phục Tùng", description: "Nghe lệnh Phường Chủ Kim Lông, nhưng thỉnh thoảng vẫn lén lút trục lợi riêng." },
+        { source: "cong_dieu_thu", target: "cong_thai_vu", type: "Bạn Đồng Tu", description: "Phối hợp làm việc vô cùng ăn ý để tạo ra các tác phẩm giá trị cao." },
+        { source: "cong_kim_long", target: "cong_thai_vu", type: "Đánh Giá Cao", description: "Đánh giá rất cao tài năng nhuộm màu lông vũ của Thái Vũ." },
+        { source: "cong_thai_vu", target: "cong_dieu_thu", type: "Trêu Chọc", description: "Rất thích trêu chọc Diệu Thủ vì sự cầu toàn thái quá của y." },
+
+        // Phiêu Miễu Băng Hải
+        { source: "lam_tinh_thuy", target: "mong_han_yen", type: "Đối Thủ/Đồng Nghiệp", description: "Đồng nghiệp kiêm kỳ phùng địch thủ, thường xuyên tranh luận về triết lý giữa việc 'Xâm nhập giấc mơ' và 'Đóng băng tâm trí'." },
+        { source: "mong_han_yen", target: "lam_tinh_thuy", type: "Châm Chọc", description: "Thường châm chọc sự cứng nhắc của Tịnh Thủy và cho rằng chỉ có 'mộng' mới là thứ tịnh hóa triệt để nhất." },
+        { source: "lam_tinh_thuy", target: "nguyet_anh_ho", type: "Để Mắt/Đánh Giá Cao", description: "Đệ tử chân truyền của Ảo Vũ Viện mà nàng luôn để mắt đến, đánh giá cao tiềm năng thủy hệ của cô bé." },
+        { source: "nguyet_anh_ho", target: "lam_tinh_thuy", type: "Ngưỡng Mộ/Sợ Hãi", description: "Sư thúc hướng dẫn nghiêm khắc mà Nguyệt Ảnh Hồ rất mực ngưỡng mộ nhưng cũng đôi phần e sợ trước sự lạnh lẽo tột cùng đó." },
+        { source: "mong_han_yen", target: "nguyet_anh_ho", type: "Đùa Giỡn/Thử Nghiệm", description: "Coi Nguyệt Ảnh Hồ là một con cờ thú vị, thỉnh thoảng ả đưa những gợi ý mờ nhạt để thử nghiệm độ nhạy bén tâm linh của cô nương trẻ." },
+        { source: "nguyet_anh_ho", target: "mong_han_yen", type: "Bối Rối", description: "Một tỷ tỷ thú vị nhưng nguy hiểm, người luôn trêu chọc nàng bằng những giấc mơ kỳ lạ khiến nàng đôi lúc bối rối về Đạo tâm của bản thân." }
     );
 }
 
@@ -2179,6 +2218,9 @@ if (typeof relationships !== 'undefined') {
 
     // San Hô Đảo Quốc - Vô Tận Hải (Tây Mạc path bug)
     characters.push(
+        { id: "Thủy Tinh", name: "Thủy Tinh", faction: "San Hô Đảo Quốc", description: "Nữ Vương San Hô Đảo Quốc, hiền từ, tinh thông âm nhạc chữa lành và huyễn thuật." },
+        { id: "Triều Thiên Vệ", name: "Triều Thiên Vệ", faction: "San Hô Đảo Quốc", description: "Thống Lĩnh Hải Vệ Quân, trầm ổn, kỷ luật thép, dùng Hải Triều Cuồng Nộ." },
+        { id: "Triều Bích Hải", name: "Triều Bích Hải", faction: "San Hô Đảo Quốc", description: "Đội Trưởng Hải Vệ, nhiệt huyết bộc trực, tiên phong dùng sóng âm và thương san hô." },
         { id: "Ngư Tiểu Bạch", name: "Ngư Tiểu Bạch", faction: "San Hô Đảo Quốc", description: "Thiếu nữ nhân ngư, ca sĩ tập sự của Linh Ca Viện." },
         { id: "San Bích Quang", name: "San Bích Quang", faction: "San Hô Đảo Quốc", description: "Thái tử San Hô Đảo Quốc, nghệ nhân huyễn quang tài năng." },
         { id: "San Huyền Quang Dạ", name: "San Huyền Quang Dạ", faction: "San Hô Đảo Quốc", description: "Quang Sư bảo vệ vùng biển sâu, người dẫn đường thầm lặng." },
@@ -2208,7 +2250,13 @@ if (typeof relationships !== 'undefined') {
         { source: "Hải Tiểu Loa", target: "Hải Nguyệt Ca", type: "Tôn Kính", description: "Xem Viện Chủ như một vị thần, vô cùng biết ơn sự nâng đỡ." },
         { source: "Hải Vân Dao", target: "Ngư Ngân Lân Hà", type: "Bạn Tâm Giao", description: "Bạn thân thiết, thường đàn tấu để xoa dịu tính khí gắt gỏng của Ngân Lân Hà." },
         { source: "Ngư Thiên Lãng", target: "Hải Tiểu Loa", type: "Đối Tác", description: "Thương nhân luôn đặt mua nhạc cụ pháp bảo của Tiểu Loa để giao thương." },
-        { source: "Hải Vân Dao", target: "Ngư Thiên Ca", type: "Đồng Liêu", description: "Ngưỡng mộ tài nghệ của Đại Nhạc Sư Thiên Ca và thường trao đổi kinh nghiệm." }
+        { source: "Hải Vân Dao", target: "Ngư Thiên Ca", type: "Đồng Liêu", description: "Ngưỡng mộ tài nghệ của Đại Nhạc Sư Thiên Ca và thường trao đổi kinh nghiệm." },
+        { source: "Thủy Tinh", target: "Triều Thiên Vệ", type: "Quân - Thần", description: "Là Nữ Vương được Triều Thiên Vệ bảo vệ một lòng bằng mạng sống." },
+        { source: "Thủy Tinh", target: "Hải Vân Dao", type: "Sủng Ái", description: "Xem Hải Vân Dao như người kế vị tiềm năng, truyền thụ Thủy Tinh Linh Ca." },
+        { source: "Triều Thiên Vệ", target: "Thủy Tinh", type: "Trung Thành", description: "Nguyện dùng cả mạng sống để bảo vệ Nữ Vương." },
+        { source: "Triều Thiên Vệ", target: "Triều Bích Hải", type: "Cấp Trên", description: "Vừa là thống lĩnh, vừa là người dìu dắt, uốn nắn Triều Bích Hải khỏi tính xốc nổi." },
+        { source: "Triều Bích Hải", target: "Triều Thiên Vệ", type: "Kính Trọng", description: "Xem như sư phụ và luôn cố gắng hoàn thành nhiệm vụ để không làm ngài thất vọng." },
+        { source: "Triều Bích Hải", target: "Hải Tiểu Loa", type: "Bạn Thân", description: "Thường xuyên dùng các pháp khí vỏ ốc do Hải Tiểu Loa chế tạo trong chiến đấu." }
     );
 }
 
@@ -2593,7 +2641,10 @@ if (typeof characters !== 'undefined') {
     characters.push(
         { id: "san_bach_ngoc_hq", name: "San Bạch Ngọc", title: "Trưởng Lão Hội Đồng", realm: "Nguyên Anh Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#f0f8ff" },
         { id: "san_hong_diep", name: "San Hồng Diệp", title: "Đoàn Trưởng Thương Hồ", realm: "Kim Đan Hậu Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#ff6347" },
-        { id: "san_ngoc_lan", name: "San Ngọc Lan", title: "Dược Sư Tảo Biển", realm: "Kim Đan Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#98fb98" }
+        { id: "san_ngoc_lan", name: "San Ngọc Lan", title: "Dược Sư Tảo Biển", realm: "Kim Đan Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#98fb98" },
+        { id: "thuy_tinh", name: "Thủy Tinh", title: "Nữ Vương", realm: "Nguyên Anh Đỉnh Phong", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#00bfff" },
+        { id: "trieu_thien_ve", name: "Triều Thiên Vệ", title: "Thống Lĩnh Hải Vệ", realm: "Nguyên Anh Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#4682b4" },
+        { id: "trieu_bich_hai", name: "Triều Bích Hải", title: "Đội Trưởng Hải Vệ", realm: "Kim Đan Trung Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#1e90ff" }
     );
 
     relationships.push(
@@ -2693,5 +2744,108 @@ if (typeof characters !== 'undefined') {
         { source: "giao_thien_mac_nguyet", target: "pham_thuong_dao", type: "Khách Hàng", description: "Một trong những khách hàng thu mua Hải Châu lớn nhất của Giao Thiên Mạc Nguyệt." },
         { source: "ngu_sa_ha", target: "pham_thuong_dao", type: "Trao Đổi", description: "Cung cấp bản đồ mạch nước ngầm để đổi lấy bảo vật thủy hệ." },
         { source: "sa_cat_vuong", target: "hac_phong_dai_vuong", type: "Tôn Trọng", description: "Chạm trán vài lần và duy trì khoảng cách tôn trọng lẫn nhau." }
+    );
+}
+
+// Tuyết Cự Nhân Đảo (Bắc Băng)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "nham_cuong_the", name: "Nham Cương Thể", title: "Dũng Sĩ Phòng Thủ", realm: "Kim Đan Sơ Kỳ", faction: "Tuyết Cự Nhân Đảo", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#ffffff" },
+        { id: "son_thiet_quyen", name: "Sơn Thiết Quyền", title: "Chiến Binh Tuần Tra", realm: "Trúc Cơ Viên Mãn", faction: "Tuyết Cự Nhân Đảo", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#e0ffff" },
+        { id: "son_dai_dia", name: "Sơn Đại Địa", title: "Dũng Sĩ Ném Băng", realm: "Kim Đan Hậu Kỳ", faction: "Tuyết Cự Nhân Đảo", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#b0e0e6" }
+    );
+    relationships.push(
+        { source: "nham_cuong_the", target: "son_thiet_quyen", type: "Đồng Đội", description: "Cặp bài trùng hoàn hảo trên bờ biển, một kẻ thủ vững vàng, một kẻ xông pha cận chiến." },
+        { source: "son_thiet_quyen", target: "nham_cuong_the", type: "Đồng Đội", description: "Bằng hữu thân thiết, luôn nghe lời khuyên cản sự nóng nảy từ Cương Thể." },
+        { source: "nham_cuong_the", target: "son_dai_dia", type: "Phối Hợp", description: "Cương Thể chắn đòn từ xa, tạo thời gian cho Đại Địa ngắm chuẩn và ném băng dập tắt kẻ thù." },
+        { source: "son_dai_dia", target: "nham_cuong_the", type: "Tôn Trọng", description: "Rất nể phục sức chịu đựng phi thường của Cương Thể." },
+        { source: "son_thiet_quyen", target: "son_dai_dia", type: "Đồng Đội", description: "Một người nghiền nát địch gần, một người bắn phá địch xa." },
+        { source: "son_dai_dia", target: "son_thiet_quyen", type: "Hợp Tác", description: "Bọc lót cho Thiết Quyền khi hắn bị bao vây bằng những tảng băng khổng lồ." }
+    );
+}
+
+// Cực Quang Thần Điện (Thiên Trụ)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "hac_ngan_vu", name: "Hạc Ngân Vũ", title: "Hữu Hộ Pháp", realm: "Hóa Thần Hậu Kỳ", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#e0e0e0" },
+        { id: "hac_thanh_kiem", name: "Hạc Thanh Kiếm", title: "Kiếm Sĩ", realm: "Kim Đan Trung Kỳ", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#4dd0e1" },
+        { id: "hac_tuong_van", name: "Hạc Tường Vân", title: "Trưởng Lão", realm: "Hóa Thần Sơ Kỳ", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "elder", pov: false, avatar_color: "#b2ebf2" },
+        { id: "thanh_nu_cuc_quang", name: "Thánh Nữ Cực Quang", title: "Lãnh Đạo Tối Cao", realm: "Chưa Rõ", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "leader", pov: false, avatar_color: "#ffffff" }
+    );
+    relationships.push(
+        { source: "hac_ngan_vu", target: "thanh_nu_cuc_quang", type: "Phục Tùng", description: "Tôn thờ Thánh Nữ và tuyệt đối phục tùng mệnh lệnh, sẵn sàng hiến dâng mạng sống." },
+        { source: "hac_ngan_vu", target: "hac_tuong_van", type: "Kính Trọng", description: "Kính trọng trưởng lão đồng tộc, tuy đôi lúc thấy lão quá siêu thoát." },
+        { source: "hac_ngan_vu", target: "hac_thanh_kiem", type: "Chỉ Dạy", description: "Vừa là cấp trên nghiêm khắc vừa là người thầy dẫn dắt, kỳ vọng vào hậu bối." },
+        { source: "hac_thanh_kiem", target: "hac_ngan_vu", type: "Tôn Sư", description: "Cấp trên và người thầy trên con đường kiếm đạo, được giám sát và rèn luyện khắc nghiệt." },
+        { source: "hac_thanh_kiem", target: "hac_tuong_van", type: "Hậu Bối", description: "Thường bị trưởng lão khuyên răn không nên sa đà vào sát khí." },
+        { source: "hac_tuong_van", target: "hac_ngan_vu", type: "Quan Tâm", description: "Tán thưởng năng lực của hậu bối nhưng luôn lo ngại về sự cực đoan và lạnh lùng quá mức." },
+        { source: "hac_tuong_van", target: "hac_thanh_kiem", type: "Khuyên Răn", description: "Dùng lời bóng gió khuyên nhủ kiếm sĩ trẻ đừng để lưỡi kiếm làm mờ mắt tâm trí." },
+        { source: "hac_tuong_van", target: "thanh_nu_cuc_quang", type: "Cố Vấn", description: "Tôn kính như một vị thần, đồng thời là cố vấn tinh thần đưa ra những lời khuyên sâu sắc." }
+    );
+}
+
+// Linh Hồ Tàn Tộc (Vô Tận Hải) - Update
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "ho_tuyet_lan", name: "Hồ Tuyết Lan", title: "Y Sư", realm: "Trúc Cơ Sơ Kỳ", faction: "Linh Hồ Tàn Tộc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#f8f8ff" },
+        { id: "ho_tuyet_nhi", name: "Hồ Tuyết Nhi", title: "Tộc Trưởng", realm: "Trúc Cơ Viên Mãn", faction: "Linh Hồ Tàn Tộc", region: "Vô Tận Hải", role: "leader", pov: false, avatar_color: "#ffffff" },
+        { id: "ho_ao_mong_thien", name: "Hồ Ảo Mộng Thiên", title: "Ảo Sư", realm: "Trúc Cơ Trung Kỳ", faction: "Linh Hồ Tàn Tộc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#e6e6fa" }
+    );
+    relationships.push(
+        { source: "ho_tuyet_lan", target: "ho_tuyet_nhi", type: "Chị Em", description: "Người em dịu dàng luôn ủng hộ và chia sẻ gánh nặng với Tộc Trưởng." },
+        { source: "ho_tuyet_lan", target: "ho_ao_mong_thien", type: "Đồng Liêu", description: "Trưởng lão thường trêu chọc nàng nhưng hỗ trợ nàng tạo ảo ảnh ru ngủ ấu sinh." },
+        { source: "ho_tuyet_nhi", target: "ho_tuyet_lan", type: "Chị Em", description: "Chị gái nghiêm khắc nhưng vô cùng yêu thương em gái." },
+        { source: "ho_tuyet_nhi", target: "ho_ao_mong_thien", type: "Cánh Tay Phải", description: "Người trợ thủ đắc lực nhất giúp nàng bảo vệ hang ổ Tàn Tộc." },
+        { source: "ho_ao_mong_thien", target: "ho_tuyet_nhi", type: "Bảo Vệ", description: "Thề bảo vệ vị Tộc Trưởng trẻ tuổi này đến hơi thở cuối cùng." },
+        { source: "ho_ao_mong_thien", target: "ho_tuyet_lan", type: "Quan Tâm", description: "Thường xuyên ghé thăm trêu đùa để giảm bớt áp lực cho nàng Y Sư tận tụy." }
+    );
+}
+
+// Cổ Tích Cự Nhân Thức Tỉnh (Tây Mạc)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "co_mong", name: "Cổ Mộng", title: "Trưởng Lão", realm: "Kim Đan Sơ Kỳ", faction: "Cổ Tích Cự Nhân Thức Tỉnh", region: "Tây Mạc", role: "leader", pov: false, avatar_color: "#8b4513" },
+        { id: "co_nham_hon", name: "Cổ Nham Hồn", title: "Chiến Binh Cổ Đại", realm: "Trúc Cơ Hậu Kỳ", faction: "Cổ Tích Cự Nhân Thức Tỉnh", region: "Tây Mạc", role: "combat", pov: false, avatar_color: "#696969" },
+        { id: "co_son", name: "Cổ Sơn", title: "Chiến Binh Cổ Đại", realm: "Trúc Cơ Viên Mãn", faction: "Cổ Tích Cự Nhân Thức Tỉnh", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#cd853f" }
+    );
+    relationships.push(
+        { source: "co_mong", target: "co_nham_hon", type: "Đồng Minh", description: "Cổ Mộng tin tưởng Cổ Nham Hồn là tấm khiên vững chắc nhất của cộng đồng." },
+        { source: "co_mong", target: "co_son", type: "Che Chở", description: "Cổ Mộng đóng vai trò như người cha, che chở và trấn an tâm lý cho Cổ Sơn." },
+        { source: "co_nham_hon", target: "co_mong", type: "Phụ Thuộc", description: "Cổ Nham Hồn phục tùng mệnh lệnh và coi Cổ Mộng là hiện thân của Cổ Quốc." },
+        { source: "co_nham_hon", target: "co_son", type: "Bảo Vệ", description: "Cổ Nham Hồn xót xa cho Cổ Sơn và luôn âm thầm bảo vệ." },
+        { source: "co_son", target: "co_mong", type: "Phụ Thuộc", description: "Cổ Sơn bám lấy Cổ Mộng như một đứa trẻ." },
+        { source: "co_son", target: "co_nham_hon", type: "Phụ Thuộc", description: "Cổ Sơn cảm thấy an toàn khi nấp sau lưng Cổ Nham Hồn." }
+    );
+}
+
+// Sóng Vi Ba Liên Lạc (Vô Tận Hải) - Update
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "ba_cong_minh", name: "Ba Cộng Minh", title: "Giải Mã Sư", realm: "Kim Đan", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#6495ed" },
+        { id: "ba_hai_vong", name: "Ba Hải Vọng", title: "Quan Sát Viên", realm: "Trúc Cơ", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#4682b4" },
+        { id: "ba_linh_thoai", name: "Ba Linh Thoại", title: "Phiên Dịch Sư", realm: "Kim Đan", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#87ceeb" }
+    );
+    relationships.push(
+        { source: "ba_cong_minh", target: "ba_hai_vong", type: "Đồng Sự", description: "Phối hợp ăn ý: Hải Vọng tìm tín hiệu lạ, Cộng Minh bóc tách giải mã." },
+        { source: "ba_cong_minh", target: "ba_linh_thoai", type: "Hợp Tác", description: "Cộng Minh giải mã cấu trúc, Linh Thoại dịch nghĩa nội dung." },
+        { source: "ba_hai_vong", target: "ba_cong_minh", type: "Cung Cấp", description: "Liên tục gửi các đoạn vi sóng mã hóa bất thường về để phân tích." },
+        { source: "ba_linh_thoai", target: "ba_cong_minh", type: "Đồng Sự", description: "Giúp Cộng Minh hiểu được thông điệp ẩn sau lớp mã hóa phức tạp." }
+    );
+}
+
+// Cực Quang Thần Điện (Thiên Trụ) - Update
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "phuong_tieu", name: "Phượng Tiêu", title: "Vũ Hoàng", realm: "Luyện Hư", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#ffd700" },
+        { id: "phuong_thien_duc", name: "Phượng Thiên Dực", title: "Đại Trưởng Lão", realm: "Hóa Thần", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#ff8c00" },
+        { id: "phuong_kim_si", name: "Phượng Kim Sí", title: "Tả Hộ Pháp", realm: "Hóa Thần", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#daa520" }
+    );
+    relationships.push(
+        { source: "phuong_tieu", target: "phuong_thien_duc", type: "Cha / Con", description: "Kỳ vọng cao nhưng luôn phải răn đe bản tính hiếu chiến." },
+        { source: "phuong_tieu", target: "phuong_kim_si", type: "Huynh / Đệ", description: "Hoàn toàn tin tưởng giao phó nhiệm vụ thanh trừng đẫm máu." },
+        { source: "phuong_thien_duc", target: "phuong_tieu", type: "Con / Cha", description: "Vừa sùng bái vừa e ngại uy áp thâm trầm của cha." },
+        { source: "phuong_thien_duc", target: "phuong_kim_si", type: "Cháu / Thúc", description: "Thường phối hợp càn quét, xem cách thúc thúc giết chóc là nghệ thuật." },
+        { source: "phuong_kim_si", target: "phuong_tieu", type: "Đệ / Huynh", description: "Tôn kính tuyệt đối, nguyện làm bàn tay dọn dẹp cản trở cho đại ca." },
+        { source: "phuong_kim_si", target: "phuong_thien_duc", type: "Thúc / Cháu", description: "Hài lòng với sức mạnh nhưng đôi lúc phải dọn hậu quả cho hắn." }
     );
 }
