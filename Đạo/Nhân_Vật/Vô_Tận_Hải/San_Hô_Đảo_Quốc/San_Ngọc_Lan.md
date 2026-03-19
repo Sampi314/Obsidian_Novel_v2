@@ -26,13 +26,17 @@ arcs:
 - **Chức Vụ:** Dược Sư Tảo Biển.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+San Ngọc Lan toát lên vẻ đẹp nhu mì và thuần khiết, với mái tóc màu xanh lục nhạt mang theo mùi hương của các loài cỏ biển quý hiếm. Da nàng trắng như lớp vỏ trai non, điểm thêm những mảng vảy mỏng màu xanh rêu dọc theo lưng và cổ tay. Nàng luôn mang theo một chiếc túi xách đan từ rong biển tẩm linh khí, chứa đầy các loại dược liệu. Tính cách của nàng trầm ổn, rụt rè nhưng chứa đựng tình thương bao la đối với mọi sinh linh. Ngọc Lan ghét những cuộc cãi vã lớn tiếng, thích vùi mình trong khu vườn ươm hơn là những vũ hội ồn ào của đảo quốc.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Ngọc Lan là một trong những y sư giỏi nhất của San Hô Đảo Quốc, chuyên môn về việc điều hòa linh khí và trị liệu thể xác lẫn linh hồn. Khả năng chiến đấu của nàng chủ yếu là phòng ngự và duy trì sự sống.
+- **Linh Tảo Trị Liệu (灵藻治疗):** Nàng có khả năng kích thích sự phát triển của các loại tảo biển mang dược tính cao, nhanh chóng cuốn quanh và hồi phục vết thương sâu của đồng đội, hoặc trung hòa các loại kịch độc trong nước biển.
+- **Thủy Linh Chuyển Sinh (水灵转生):** Một dạng bí thuật cổ được lưu truyền, dùng tinh hoa của nước để truyền sinh lực cho những người đang đứng trên bờ vực sinh tử, nhưng bù lại nàng phải tiêu tốn một lượng lớn nguyên khí bản thân.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **San Hồng Diệp:** Một mối quan hệ tương hỗ và đôi khi là cãi vã. Hồng Diệp cung cấp kinh phí và môi trường để nàng nghiên cứu, đổi lại Ngọc Lan cung cấp những bài thuốc quý. Ngọc Lan thường cằn nhằn về việc Hồng Diệp bán thuốc của mình với giá quá cao.
+- **San Bạch Ngọc:** Được Bạch Ngọc hướng dẫn trong việc dung hòa âm nhạc vào quá trình trị liệu linh hồn, tạo ra những bản *Thủy Tinh Linh Ca* chuyên dùng để an thần.
+- **Hải Vệ Quân:** Là người chăm sóc chính cho những chiến binh của lực lượng này mỗi khi họ trở về từ các cuộc đụng độ, được họ kính trọng như một người mẹ hiền của đại dương.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Ngọc Lan sinh ra trong một gia tộc nhân ngư chuyên làm nghề trồng trọt và chăm sóc rạn san hô. Từ nhỏ, nàng đã thể hiện sự nhạy bén bất thường với các loại linh thảo dưới biển sâu. Cuộc sống của nàng bước sang trang mới khi phát hiện ra một giống *Linh Tảo Băng Liên* kỳ lạ ở khu vực giáp ranh với Vực Thẳm Ma Cung. Bằng cách kết hợp giống tảo này với linh khí của đảo quốc, nàng đã tạo ra một phương thuốc chống lại sự xói mòn linh hồn của sát khí, cứu sống hàng trăm tu sĩ bị tẩu hỏa nhập ma. Hiện tại, Ngọc Lan đang dành phần lớn thời gian tại Vườn Ngọc Trai, cố gắng lai tạo một giống cây mới có thể tự động thanh tẩy các dòng hải lưu ô nhiễm, một mối đe dọa đang ngày càng lớn dần đối với sự tồn vong của San Hô Đảo Quốc.

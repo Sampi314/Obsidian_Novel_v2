@@ -660,6 +660,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Hải Nguyệt Ca (Viện Chủ Linh Ca Viện):** Nhân Ngư hoàng tộc thanh tao thoát tục, đạt cảnh giới Thủy Tinh Linh Ca, dùng tiếng hát để thanh tẩy tâm trí và điều khiển Lưu Ly Huyễn Hải Trận.
 - **Hải Vân Dao (Đại Sư Linh Ca):** Nữ đệ tử Kim Đan trẻ trung, chuyên dùng Huyễn Ba Mê Ảo Khúc để thu nạp và khống chế tâm ma của tu sĩ.
 - **Hải Tiểu Loa (Nghệ Nhân Điêu Khắc):** Tiên Cá Trúc Cơ với đôi tay linh hoạt, chuyên chế tác pháp bảo âm nhạc từ vỏ san hô sống cho San Hô Đảo Quốc.
+- **San Bạch Ngọc (Trưởng Lão Hội Đồng), San Hồng Diệp (Đoàn Trưởng Thương Hồ), San Ngọc Lan (Dược Sư Tảo Biển):** Bạch Ngọc dùng huyễn thuật ánh sáng và âm thanh để bảo vệ; Hồng Diệp xảo quyệt và mạnh mẽ trong giao thương; Ngọc Lan sử dụng tảo linh khí để chữa bệnh.
 
 ### Phù Du Linh Đoàn (Vô Tận Hải)
 - **Linh Quang Mẫu (Quần Thể Ý Thức), Linh Bích Hải (Hạch Tâm Quần Thể), Linh Tiểu Quang (Tiên Phong Chiếu Sáng):** Vi Tộc phù du sống ở tầng nước tối Vô Tận Hải. Linh Quang Mẫu là hạt nhân tâm linh dẫn dắt cả đoàn; Linh Bích Hải mang màu xanh biếc lưu trữ ký ức di truyền; Linh Tiểu Quang là những đốm sáng nhỏ li ti đi tiên phong thu thập thông tin và cảnh báo nguy hiểm. Chúng kết hợp lại thành một Quần Thể Ý Thức khổng lồ.
