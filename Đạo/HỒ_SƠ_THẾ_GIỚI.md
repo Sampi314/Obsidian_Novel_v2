@@ -760,3 +760,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Nham Quang (Thành Viên - Luyện Khí Hậu Kỳ):** Thạch Tộc nhỏ gọn với bề mặt xen lẫn khoáng chất phát sáng. Là nguồn sáng lạc quan của đội, chuyên sử dụng Thạch Dung Thuật kết hợp khoáng chất phát quang để soi rọi hang động và đánh lạc hướng kẻ thù.
   - **Nham Thính (Thạch Tộc Nghe Đá - Trúc Cơ Sơ Kỳ):** Thạch Tộc với cơ thể nham thạch xốp, tĩnh lặng và trầm mặc. Đóng vai trò là "đôi tai sống" đo lường rung động, cảm nhận mạch khoáng và sinh vật ngầm từ xa.
   - **Nham Đào (Phó Đội - Trúc Cơ Trung Kỳ):** Chiến binh Thạch Tộc vạm vỡ, kỷ luật với đôi tay cưa sắt khổng lồ. Là người mở đường chủ lực, dọn dẹp chướng ngại vật vững chắc và chuyên phác họa bản đồ hang động chi tiết.
+
+### Sa Mạc Yêu Hồ (Tây Mạc)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Sa Mạc Yêu Hồ** (Tây Mạc):
+  - **Hồ Diệu Ngôn (Ngoại Giao - Trúc Cơ Hậu Kỳ):** Yêu Hồ ngoại giao xảo quyệt ngụy trang thành nữ quản sự duyên dáng, thao túng tâm lý và đọc "Khuy Tâm Thuật".
+  - **Hồ Huyễn Dạ Thiên (Ảo Thuật Sư - Trúc Cơ Viên Mãn):** Ảo thuật sư trầm tĩnh trong lốt lão già mù, tinh thông "Sa Ảo Mê Cung" dụ lữ khách bỏ mạng.
+  - **Hồ Hỏa Vĩ (Chiến Sĩ - Trúc Cơ Trung Kỳ):** Chiến binh tiên phong hình xăm ngọn lửa, bốc đồng dũng mãnh bảo vệ bằng đuôi lửa.

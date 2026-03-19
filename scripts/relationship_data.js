@@ -2599,3 +2599,22 @@ if (typeof characters !== 'undefined') {
         { source: "thach_noi_da", target: "son_tieu_nhi", type: "Bạn Thân", description: "Bạn thân duy nhất, cùng chơi tạo tác phẩm điêu khắc kỳ lạ bên mỏ đá." }
     );
 }
+
+// Sa Mạc Yêu Hồ (Tây Mạc)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "ho_nguyet_nhi", name: "Hồ Nguyệt Nhi", title: "Tộc Trưởng", realm: "Kim Đan Sơ Kỳ", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "leader", pov: false, avatar_color: "#ff69b4" },
+        { id: "ho_dieu_ngon", name: "Hồ Diệu Ngôn", title: "Ngoại Giao", realm: "Trúc Cơ Hậu Kỳ", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ffb6c1" },
+        { id: "ho_huyen_da_thien", name: "Hồ Huyễn Dạ Thiên", title: "Ảo Thuật Sư", realm: "Trúc Cơ Viên Mãn", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#dda0dd" },
+        { id: "ho_hoa_vi", name: "Hồ Hỏa Vĩ", title: "Chiến Sĩ", realm: "Trúc Cơ Trung Kỳ", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ff4500" }
+    );
+    relationships.push(
+        { source: "ho_dieu_ngon", target: "ho_nguyet_nhi", type: "Phục Tùng", description: "Tuyệt đối phục tùng mệnh lệnh và làm theo mọi kế sách ngoại giao của Tộc Trưởng." },
+        { source: "ho_huyen_da_thien", target: "ho_nguyet_nhi", type: "Trung Thành", description: "Trực tiếp chịu sự chỉ đạo của Tộc Trưởng để thực hiện các nhiệm vụ dọn dẹp dấu vết." },
+        { source: "ho_hoa_vi", target: "ho_nguyet_nhi", type: "Hộ Vệ", description: "Sẵn sàng hiến dâng sinh mạng để bảo vệ Tộc Trưởng và sự bình yên của bộ tộc." },
+        { source: "ho_dieu_ngon", target: "ho_huyen_da_thien", type: "Đồng Đội", description: "Đối tác hoàn hảo, biến những lời đồn thổi của Diệu Ngôn thành hình ảnh thực tế." },
+        { source: "ho_hoa_vi", target: "ho_dieu_ngon", type: "Bảo Vệ", description: "Thường đóng vai trò hộ vệ ngầm cho Diệu Ngôn trong những lần đàm phán." },
+        { source: "ho_huyen_da_thien", target: "pham_huong_tay", type: "Trêu Chọc", description: "Từng dùng ảo ảnh trêu chọc và khiến tên hướng đạo sinh này lạc đường suốt ba ngày." },
+        { source: "ho_hoa_vi", target: "ly_huyet_lang", type: "Kẻ Thù", description: "Từng để lại một vết bỏng lớn cho tên đội trưởng sa tặc này trong một lần đụng độ." }
+    );
+}
