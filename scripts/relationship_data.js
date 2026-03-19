@@ -2680,4 +2680,18 @@ if (typeof characters !== 'undefined') {
         { source: "ho_huyen_da_thien", target: "pham_huong_tay", type: "Trêu Chọc", description: "Từng dùng ảo ảnh trêu chọc và khiến tên hướng đạo sinh này lạc đường suốt ba ngày." },
         { source: "ho_hoa_vi", target: "ly_huyet_lang", type: "Kẻ Thù", description: "Từng để lại một vết bỏng lớn cho tên đội trưởng sa tặc này trong một lần đụng độ." }
     );
+
+    characters.push(
+        { id: "giao_thien_mac_nguyet", name: "Giao Thiên Mạc Nguyệt", title: "Thương Nhân", realm: "Trúc Cơ Viên Mãn", faction: "Độc Lập", region: "Tây Mạc", role: "merchant", pov: false, avatar_color: "#00bcd4" },
+        { id: "ngu_sa_ha", name: "Ngư Sa Hà", title: "Hướng Dẫn", realm: "Trúc Cơ Hậu Kỳ", faction: "Độc Lập", region: "Tây Mạc", role: "guide", pov: false, avatar_color: "#9e9e9e" },
+        { id: "sa_cat_vuong", name: "Sa Cát Vương", title: "Sa Ngư Đột Biến", realm: "Kim Đan Sơ Kỳ", faction: "Độc Lập", region: "Tây Mạc", role: "enemy", pov: false, avatar_color: "#f44336" }
+    );
+    relationships.push(
+        { source: "giao_thien_mac_nguyet", target: "ngu_sa_ha", type: "Đối Tác", description: "Người thuê và kẻ được thuê, dựa dẫm qua lại trên sông ngầm sa mạc." },
+        { source: "giao_thien_mac_nguyet", target: "sa_cat_vuong", type: "Kẻ Thù", description: "Kẻ cướp thường xuyên ngáng đường các chuyến hàng của nàng." },
+        { source: "ngu_sa_ha", target: "sa_cat_vuong", type: "Trốn Tránh", description: "Lão cá linh này cực kỳ khiếp sợ tên bạo chúa khát máu." },
+        { source: "giao_thien_mac_nguyet", target: "pham_thuong_dao", type: "Khách Hàng", description: "Một trong những khách hàng thu mua Hải Châu lớn nhất của Giao Thiên Mạc Nguyệt." },
+        { source: "ngu_sa_ha", target: "pham_thuong_dao", type: "Trao Đổi", description: "Cung cấp bản đồ mạch nước ngầm để đổi lấy bảo vật thủy hệ." },
+        { source: "sa_cat_vuong", target: "hac_phong_dai_vuong", type: "Tôn Trọng", description: "Chạm trán vài lần và duy trì khoảng cách tôn trọng lẫn nhau." }
+    );
 }
