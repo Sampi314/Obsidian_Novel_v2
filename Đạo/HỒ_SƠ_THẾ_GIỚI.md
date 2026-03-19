@@ -658,6 +658,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 
 ### Cực Quang Thần Điện (Thiên Trụ)
 - **Bằng Vạn Lý (Tiên Phong Tướng), Cú Tĩnh Vũ (Mưu Sĩ), Hạc Minh Nguyệt (Nhạc Sĩ):** Đại diện cho 3 khía cạnh của thần điện tại Thiên Trụ. Bằng Vạn Lý kiêu ngạo, đi tiên phong với tốc độ và sự tàn khốc của quang hệ pháp thuật; Cú Tĩnh Vũ thâm hiểm, dùng ảo ảnh và hàn băng để ám sát trong bóng tối; Hạc Minh Nguyệt buồn bã, dùng âm nhạc chữa trị và tẩy não binh lính thành cỗ máy chém giết vô tình.
+- **Phượng Tiêu (Vũ Hoàng - Luyện Hư Sơ Kỳ):** Lãnh đạo cao ngạo, tinh thông âm luật, dùng ngọc tiêu *Cửu Tiêu Phượng Khúc* phát ra sóng ánh sáng cực hàn đủ sức trấn áp vạn vật, kể cả Chân Long, coi chiến trường chỉ là bản giao hưởng riêng.
+- **Phượng Thiên Dực (Đại Trưởng Lão - Hóa Thần Đỉnh Phong):** Con trai Phượng Tiêu, kiêu ngạo và vô cùng hiếu chiến, sở hữu đôi cánh khổng lồ che khuất bầu trời, tung ra *Quang Vũ Tuyệt Sát* gieo rắc kinh hoàng bằng sức nóng ánh sáng tinh luyện.
+- **Phượng Kim Sí (Tả Hộ Pháp - Hóa Thần Hậu Kỳ):** Em trai Phượng Tiêu, sát thủ tàn nhẫn với đôi mắt có khả năng phát ra *Kim Quang Xuyên Đồng* gây mù lòa đối thủ, tự xem mình là "bàn tay nhuốm máu" thanh tẩy kẻ dị giáo cho anh trai.
 
 ### San Hô Đảo Quốc (Vô Tận Hải)
 - **Ngư Ngân Lân Hà (Vệ Binh Trưởng), Ngư Thiên Ca (Đại Nhạc Sư), Ngư Thiên Lãng (Thương Nhân):** Các nhân vật đại diện cho San Hô Đảo Quốc. Ngân Lân Hà nghiêm nghị bảo vệ ranh giới bằng sóng âm; Thiên Ca điềm đạm dùng huyễn thuật và âm nhạc để chữa lành; Thiên Lãng linh hoạt khôn khéo mở rộng mạng lưới giao thương. Họ tạo nên bức tranh đa dạng về sức mạnh, nghệ thuật và sự khéo léo của cư dân đảo quốc.
