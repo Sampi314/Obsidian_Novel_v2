@@ -5,7 +5,7 @@
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Phong Sát Cốc** (Tây Mạc): **Phong Nha**, **Phong Ảnh**, và **Sa Quỷ**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Hải Thần Cung** (Vô Tận Hải): **Giao Vân Hà**, **Giải Huyền Giáp**, và **Giải Thiết Giáp Vương**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **San Hô Đảo Quốc** (Vô Tận Hải): **Thủy Tinh**, **Triều Bích Hải**, và **Triều Thiên Vệ**.
-- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Sóng Vi Ba Liên Lạc** (Vô Tận Hải): **Ba Cộng Minh**, **Ba Hải Vọng**, và **Ba Linh Thoại**.
+- Đã cập nhật hồ sơ chi tiết cho 6 nhân vật phe **Sóng Vi Ba Liên Lạc** (Vô Tận Hải): **Ba Cộng Minh**, **Ba Hải Vọng**, **Ba Linh Thoại**, **Ba Ngân Hà**, **Ba Tiểu Sóng**, và **Ba Trầm Lặng**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Phiêu Miễu Băng Hải** (Bắc Băng): **Lam Tịnh Thủy**, **Mộng Hàn Yên**, và **Nguyệt Ảnh Hồ**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Linh Sa Khuẩn Đoàn** (Tây Mạc): **Khuẩn Bạch Cốt**, **Khuẩn Dạ Thực**, và **Khuẩn Hắc Nhưỡng**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Thiên Mộc Thành** (Thiên Trụ): **Mộc Thiên Hào**, **Mộc Thiên Quân**, và **Mộc Vân**.

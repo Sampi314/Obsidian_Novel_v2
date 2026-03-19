@@ -2830,13 +2830,20 @@ if (typeof characters !== 'undefined') {
     characters.push(
         { id: "ba_cong_minh", name: "Ba Cộng Minh", title: "Giải Mã Sư", realm: "Kim Đan", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#6495ed" },
         { id: "ba_hai_vong", name: "Ba Hải Vọng", title: "Quan Sát Viên", realm: "Trúc Cơ", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#4682b4" },
-        { id: "ba_linh_thoai", name: "Ba Linh Thoại", title: "Phiên Dịch Sư", realm: "Kim Đan", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#87ceeb" }
+        { id: "ba_linh_thoai", name: "Ba Linh Thoại", title: "Phiên Dịch Sư", realm: "Kim Đan", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#87ceeb" },
+        { id: "ba_ngan_ha", name: "Ba Ngân Hà", title: "Thiên Văn Liên Lạc", realm: "Trúc Cơ", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#1e90ff" },
+        { id: "ba_tieu_song", name: "Ba Tiểu Sóng", title: "Đệ Tử Phát Sóng", realm: "Luyện Khí", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#00bfff" },
+        { id: "ba_tram_lang", name: "Ba Trầm Lặng", title: "Gây Nhiễu Viên", realm: "Trúc Cơ", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#708090" }
     );
     relationships.push(
         { source: "ba_cong_minh", target: "ba_hai_vong", type: "Đồng Sự", description: "Phối hợp ăn ý: Hải Vọng tìm tín hiệu lạ, Cộng Minh bóc tách giải mã." },
         { source: "ba_cong_minh", target: "ba_linh_thoai", type: "Hợp Tác", description: "Cộng Minh giải mã cấu trúc, Linh Thoại dịch nghĩa nội dung." },
         { source: "ba_hai_vong", target: "ba_cong_minh", type: "Cung Cấp", description: "Liên tục gửi các đoạn vi sóng mã hóa bất thường về để phân tích." },
-        { source: "ba_linh_thoai", target: "ba_cong_minh", type: "Đồng Sự", description: "Giúp Cộng Minh hiểu được thông điệp ẩn sau lớp mã hóa phức tạp." }
+        { source: "ba_linh_thoai", target: "ba_cong_minh", type: "Đồng Sự", description: "Giúp Cộng Minh hiểu được thông điệp ẩn sau lớp mã hóa phức tạp." },
+        { source: "ba_ngan_ha", target: "ba_tram_lang", type: "Đối Tác Bù Trừ", description: "Ba Trầm Lặng bảo vệ những tín hiệu bầu trời mà Ba Ngân Hà bắt được bằng cách tạo nhiễu." },
+        { source: "ba_tieu_song", target: "ba_cong_minh", type: "Người Hướng Dẫn", description: "Ba Tiểu Sóng học cách khuếch đại tín hiệu từ Ba Cộng Minh." },
+        { source: "ba_tieu_song", target: "ba_hai_vong", type: "Thần Tượng", description: "Ba Tiểu Sóng ngưỡng mộ khả năng truyền tin xa vạn dặm của Ba Hải Vọng." },
+        { source: "ba_tram_lang", target: "ba_linh_thoai", type: "Đối Nghịch Bản Chất", description: "Sự tĩnh lặng triệt tiêu tín hiệu của Ba Trầm Lặng xung đột với việc truyền bá thông tin của Ba Linh Thoại." }
     );
 }
 
