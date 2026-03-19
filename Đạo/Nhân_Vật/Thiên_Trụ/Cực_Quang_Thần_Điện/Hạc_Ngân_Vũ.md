@@ -26,13 +26,17 @@ arcs:
 - **Chức Vụ:** Hữu Hộ Pháp.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Lông bạc mỗi chiếc là pháp khí, rụng một chiếc đủ mua thành trì
+Lông bạc mỗi chiếc là pháp khí, rụng một chiếc đủ mua thành trì. Thân khoác một tầng lông vũ sáng lấp lánh như bạc, mỗi chiếc lông vũ trên người hắn đều tỏa ra ánh sáng cực quang huyền ảo, tựa như những thanh kiếm nhỏ sắc bén. Đôi mắt sắc lạnh và nghiêm nghị, thường mang một thái độ vô cùng tôn nghiêm đối với mọi thứ. Tính cách hắn lạnh lùng, tĩnh tại, coi trọng kỷ luật của thần điện hơn bất cứ điều gì, tuyệt đối trung thành với Thánh Nữ Cực Quang. Hắn không dễ biểu lộ cảm xúc, coi mọi sự xáo trộn tâm lý là cản trở sự thuần khiết của ánh sáng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Phong cách chiến đấu của hắn kết hợp hoàn hảo giữa năng lực bay lượn của Vũ Tộc và sức mạnh quang hệ của thần điện.
+- **Bạc Vũ Cực Quang Kiếm (薄羽极光剑):** Phóng ra hàng ngàn chiếc lông vũ mang theo ánh sáng cực quang sắc bén, xuyên thấu và thiêu đốt linh hồn kẻ thù từ khoảng cách xa.
+- **Thiên Quang Thủ Ngự (天光守御):** Tạo ra một kết giới ánh sáng cực mạnh bảo vệ bản thân và đồng minh khỏi mọi đòn tấn công tà đạo.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Thánh Nữ Cực Quang:** Đối tượng mà hắn tôn thờ và tuyệt đối phục tùng, sẵn sàng hiến dâng mạng sống để bảo vệ.
+- **Hạc Tường Vân:** Trưởng lão đồng tộc, người mà hắn kính trọng nhưng đôi lúc cũng cảm thấy quá siêu thoát so với hiện thực khốc liệt.
+- **Hạc Thanh Kiếm:** Hậu bối cùng tộc, được hắn chỉ dạy và kỳ vọng trở thành một chiến binh quang hệ xuất sắc.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Sinh ra trong một nhánh Vũ Tộc sống gần Thung lũng Ánh Sáng Vĩnh Cửu, hắn từ nhỏ đã được chọn làm người kế thừa sức mạnh cực quang. Sau nhiều năm rèn luyện khổ hạnh và hấp thụ năng lượng quang hệ tinh thuần, hắn đã chứng minh được sự kiên định của mình qua những lần chiến đấu với Huyền Băng Cung. Việc trở thành Hữu Hộ Pháp là minh chứng cho sức mạnh và lòng trung thành tuyệt đối của hắn. Hiện tại, hắn đang chỉ huy lực lượng bảo vệ Thần Điện khỏi các thế lực tà đạo và tìm cách mở rộng tầm ảnh hưởng của ánh sáng cực quang.
