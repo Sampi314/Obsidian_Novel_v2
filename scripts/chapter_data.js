@@ -810,6 +810,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Lời_Thề_Dưới_Gốc_Cửu_Thiên.md",
       "title": "Chương 10: Lời Thề Dưới Gốc Cửu Thiên"
+    },
+    {
+      "filename": "Chương_00011_Máu_Và_Mầm_Xanh.md",
+      "title": "Chương 11: Máu Và Mầm Xanh"
     }
   ],
   "Góc_Nhìn_Diệp_Tĩnh_Sương": [
@@ -890,9 +894,29 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Dấu_Vết_Về_Phương_Nam.md",
       "title": "Chương 10: Dấu Vết Về Phương Nam"
+    },
+    {
+      "filename": "Chương_00011_Chợ_Đen_Dưới_Đất.md",
+      "title": "Chương 11: Chợ Đen Dưới Đất"
     }
   ],
   "Góc_Nhìn_Hắc_Hạt_Ma_Trùng": [
+    {
+      "filename": "Chương_00003_Giấc_Ngủ_Vạn_Năm.md",
+      "title": "Chương 3: Giấc Ngủ Vạn Năm"
+    },
+    {
+      "filename": "Chương_00004_Thức_Ăn_Từ_Trên_Cao.md",
+      "title": "Chương 4: Thức Ăn Từ Trên Cao"
+    },
+    {
+      "filename": "Chương_00005_Phong_Ấn_Sụp_Đổ.md",
+      "title": "Chương 5: Phong Ấn Sụp Đổ"
+    },
+    {
+      "filename": "Chương_00006_Ý_Chí_Trùng_Đế.md",
+      "title": "Chương 6: Ý Chí Trùng Đế"
+    },
     {
       "filename": "Chương_00007_Cơn_Đói_Nguyên_Thủy.md",
       "title": "Chương 7: Cơn Đói Nguyên Thủy"
@@ -908,6 +932,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Trùng_Triều_Trỗi_Dậy.md",
       "title": "Chương 10: Trùng Triều Trỗi Dậy"
+    },
+    {
+      "filename": "Chương_00011_Cát_Và_Nanh_Vuốt.md",
+      "title": "Chương 11: Cát Và Nanh Vuốt"
     }
   ],
   "Góc_Nhìn_Lâm_Phong": [
@@ -2632,6 +2660,14 @@ Object.assign(chapterData, {
   ],
   "Góc_Nhìn_Ngô_Công_Trưởng_Lão": [
     {
+      "filename": "Chương_00003_Kẻ_Không_Ai_Nhớ.md",
+      "title": "Chương 3: Kẻ Không Ai Nhớ"
+    },
+    {
+      "filename": "Chương_00004_Máu_Của_Kẻ_Yếu.md",
+      "title": "Chương 4: Máu Của Kẻ Yếu"
+    },
+    {
       "filename": "Chương_00007_Nỗi_Nhục_Kẻ_Bại_Trận.md",
       "title": "Chương 7: Nỗi Nhục Kẻ Bại Trận"
     },
@@ -2698,6 +2734,10 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Khởi_Đầu_Của_Liên_Minh.md",
       "title": "Chương 10: Khởi Đầu Của Liên Minh"
+    },
+    {
+      "filename": "Chương_00011_Lửa_Thử_Vàng.md",
+      "title": "Chương 11: Lửa Thử Vàng"
     }
   ],
   "Góc_Nhìn_Độc_Cô_Lão_Quái": [
@@ -2720,6 +2760,22 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00007_Kế_Hoạch_Mở_Rộng.md",
       "title": "Chương 7: Kế Hoạch Mở Rộng"
+    },
+    {
+      "filename": "Chương_00008_Huyết_Ma_Đan_Thành.md",
+      "title": "Chương 8: Huyết Ma Đan Thành"
+    },
+    {
+      "filename": "Chương_00009_Xuất_Sơn.md",
+      "title": "Chương 9: Xuất Sơn"
+    },
+    {
+      "filename": "Chương_00010_Hội_Tụ_Bão_Cát.md",
+      "title": "Chương 10: Hội Tụ Bão Cát"
+    },
+    {
+      "filename": "Chương_00011_Bóng_Tối_Nuốt_Bình_Minh.md",
+      "title": "Chương 11: Bóng Tối Nuốt Bình Minh"
     }
   ],
   "Góc_Nhìn_Hứa_Nhược_Thủy": [
@@ -2846,6 +2902,30 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Bão_Cát_Sắp_Đến.md",
       "title": "Chương 10: Bão Cát Sắp Đến"
+    },
+    {
+      "filename": "Chương_00011_Đêm_Cắt_Dây.md",
+      "title": "Chương 11: Đêm Cắt Dây"
+    },
+    {
+      "filename": "Chương_00012_Sứ_Giả_Trong_Bão.md",
+      "title": "Chương 12: Sứ Giả Trong Bão"
+    },
+    {
+      "filename": "Chương_00013_Sa_Thành_Phong_Tỏa.md",
+      "title": "Chương 13: Sa Thành Phong Tỏa"
+    },
+    {
+      "filename": "Chương_00014_Vạn_Cốt_Hiệp_Đêm.md",
+      "title": "Chương 14: Vạn Cốt Hiệp Đêm"
+    },
+    {
+      "filename": "Chương_00015_Kẻ_Thù_Trong_Bóng_Tối.md",
+      "title": "Chương 15: Kẻ Thù Trong Bóng Tối"
+    },
+    {
+      "filename": "Chương_00016_Biên_Giới_Và_Lửa.md",
+      "title": "Chương 16: Biên Giới Và Lửa"
     }
   ],
   "Góc_Nhìn_Lệ_Nhược_Thủy": [
@@ -2956,6 +3036,30 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Liên_Minh_Bất_Đắc_Dĩ.md",
       "title": "Chương 10: Liên Minh Bất Đắc Dĩ"
+    },
+    {
+      "filename": "Chương_00011_Vết_Sẹo_Của_Biển.md",
+      "title": "Chương 11: Vết Sẹo Của Biển"
+    },
+    {
+      "filename": "Chương_00012_Mồi_Nhử_Giữa_Trùng_Khơi.md",
+      "title": "Chương 12: Mồi Nhử Giữa Trùng Khơi"
+    },
+    {
+      "filename": "Chương_00013_Bước_Chân_Lên_Bờ.md",
+      "title": "Chương 13: Bước Chân Lên Bờ"
+    },
+    {
+      "filename": "Chương_00014_Long_Cung_Báo_Động.md",
+      "title": "Chương 14: Long Cung Báo Động"
+    },
+    {
+      "filename": "Chương_00015_Kẻ_Phản_Bội_Năm_Xưa.md",
+      "title": "Chương 15: Kẻ Phản Bội Năm Xưa"
+    },
+    {
+      "filename": "Chương_00016_Dưới_Đáy_Vực_Sâu.md",
+      "title": "Chương 16: Dưới Đáy Vực Sâu"
     }
   ],
   "Góc_Nhìn_Lục_Ly": [
@@ -3102,6 +3206,30 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Lời_Tiên_Tri_Từ_Rừng_Sâu.md",
       "title": "Chương 10: Lời Tiên Tri Từ Rừng Sâu"
+    },
+    {
+      "filename": "Chương_00011_Ký_Ức_Và_Sứ_Mệnh.md",
+      "title": "Chương 11: Ký Ức Và Sứ Mệnh"
+    },
+    {
+      "filename": "Chương_00012_Nguyệt_Quang_Suy_Tàn.md",
+      "title": "Chương 12: Nguyệt Quang Suy Tàn"
+    },
+    {
+      "filename": "Chương_00013_Phá_Trụ.md",
+      "title": "Chương 13: Phá Trụ"
+    },
+    {
+      "filename": "Chương_00014_Tiếng_Sáo_Giữa_Hoang_Dã.md",
+      "title": "Chương 14: Tiếng Sáo Giữa Hoang Dã"
+    },
+    {
+      "filename": "Chương_00015_Nước_Không_Lùi_Bước.md",
+      "title": "Chương 15: Nước Không Lùi Bước"
+    },
+    {
+      "filename": "Chương_00016_Giá_Của_Ánh_Trăng.md",
+      "title": "Chương 16: Giá Của Ánh Trăng"
     }
   ]
 });
