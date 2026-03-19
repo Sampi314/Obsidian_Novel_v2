@@ -1,6 +1,7 @@
 # Hồ Sơ Thế Giới: Cố Nguyên Giới
 
 ### Tình trạng cập nhật gần nhất
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Hải Thần Cung** (Vô Tận Hải): **Giao Vân Hà**, **Giải Huyền Giáp**, và **Giải Thiết Giáp Vương**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **San Hô Đảo Quốc** (Vô Tận Hải): **Thủy Tinh**, **Triều Bích Hải**, và **Triều Thiên Vệ**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Sóng Vi Ba Liên Lạc** (Vô Tận Hải): **Ba Cộng Minh**, **Ba Hải Vọng**, và **Ba Linh Thoại**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Phiêu Miễu Băng Hải** (Bắc Băng): **Lam Tịnh Thủy**, **Mộng Hàn Yên**, và **Nguyệt Ảnh Hồ**.
@@ -594,6 +595,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Chương Hắc Triều (Tây Bắc Tướng Quân)**: Con bạch tuộc đen khổng lồ, tàn nhẫn, luôn tìm kiếm sức mạnh bằng bạo lực. Sử dụng Hắc Uyên Chướng Mực để tàn phá chiến trường.
   - **Chương Thiên Cơ Huyền (Đệ Tứ Tế Tư)**: Lão giả bạch tuộc uyên bác và bảo thủ. Sử dụng tám xúc tu để thao túng các trận pháp thủy hệ cổ đại và là cố vấn đắc lực của Hải Đế.
   - **Chương Thiên Nhãn (Tình Báo Trưởng)**: Bạch tuộc nhỏ trong suốt với hàng ngàn con mắt, sở hữu khả năng tình báo và thâm nhập siêu phàm nhờ thuật Thiên Nhãn Phân Thân.
+  - **Giao Vân Hà (Y Sư)**: Giao nhân dịu dàng ôn hòa, sử dụng Thủy Linh Sinh Cơ Quyết và ngọc trai để thanh tẩy độc tố, chữa trị thương vong cho Hải Thần Cung.
+  - **Giải Huyền Giáp (Thành Môn Tướng)**: Cua giáp sắt cao hai trượng cộc cằn, tu luyện Huyền Vũ Giải Giáp Công, tạo hàng phòng ngự kiên cố và tung cú kẹp có sức ép kinh hoàng.
+  - **Giải Thiết Giáp Vương (Nam Hải Tướng Quân)**: Tướng quân lão luyện đồ sộ như ngọn đồi, tu luyện Huyết Luyện Kim Cương Giải Công, sử dụng Liệt Hải Đoạn Lãng Kiềm cắt đôi dòng hải lưu.
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Hàn Độc Vi Trùng Đoàn** (Bắc Băng):
   - **Băng Dực (Trinh Sát)**: Trùng Tộc với kích cỡ hạt tuyết, cẩn trọng, kiên nhẫn, đi xuyên qua bão tuyết thu thập tình báo và sử dụng ảo ảnh để tẩu thoát.
   - **Trùng Băng Châm (Phó Đoàn Trưởng)**: Mang hình dáng kim gai vi mô siêu nhỏ, kiên nhẫn phục kích, âm thầm xuyên kinh mạch mục tiêu bằng chất độc băng tàn khốc.
