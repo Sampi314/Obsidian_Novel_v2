@@ -1824,6 +1824,20 @@ if (typeof relationships !== 'undefined') {
         { source: "Thạch Chùy", target: "Thạch Cương", type: "Kính Trọng", description: "Coi ông như người thầy, người cha đã truyền cảm hứng và cưu mang mình." },
         { source: "Thạch Cương", target: "Thạch Chùy", type: "Tin Tưởng", description: "Tin tưởng tuyệt đối vào sự thận trọng của Chùy, coi là người kế nghiệp tương lai." }
     );
+
+    characters.push(
+        { id: "cong_kim_long", name: "Công Kim Lông", title: "Phường Chủ", realm: "Nguyên Anh Sơ Kỳ", faction: "Lông Vũ Phường", region: "Thiên Trụ", role: "leader", pov: false, avatar_color: "#ffc107" },
+        { id: "cong_dieu_thu", name: "Công Diệu Thủ", title: "Thợ Thủ Công", realm: "Kim Đan Hậu Kỳ", faction: "Lông Vũ Phường", region: "Thiên Trụ", role: "artisan", pov: false, avatar_color: "#9e9e9e" },
+        { id: "cong_thai_vu", name: "Công Thái Vũ", title: "Nhuộm Sư", realm: "Kim Đan Trung Kỳ", faction: "Lông Vũ Phường", region: "Thiên Trụ", role: "artisan", pov: false, avatar_color: "#e91e63" }
+    );
+    relationships.push(
+        { source: "cong_kim_long", target: "vu_mao_nhi", type: "Kính Trọng", description: "Vô cùng kính trọng Phường Chủ sáng lập, coi bà là người khai sinh ra con đường tái sinh cho lông vũ rụng." },
+        { source: "cong_dieu_thu", target: "cong_kim_long", type: "Đồng Liêu", description: "Vô cùng kính trọng tài năng của Kim Lông, coi ông là người dẫn dắt nghệ thuật." },
+        { source: "cong_thai_vu", target: "cong_kim_long", type: "Phục Tùng", description: "Nghe lệnh Phường Chủ Kim Lông, nhưng thỉnh thoảng vẫn lén lút trục lợi riêng." },
+        { source: "cong_dieu_thu", target: "cong_thai_vu", type: "Bạn Đồng Tu", description: "Phối hợp làm việc vô cùng ăn ý để tạo ra các tác phẩm giá trị cao." },
+        { source: "cong_kim_long", target: "cong_thai_vu", type: "Đánh Giá Cao", description: "Đánh giá rất cao tài năng nhuộm màu lông vũ của Thái Vũ." },
+        { source: "cong_thai_vu", target: "cong_dieu_thu", type: "Trêu Chọc", description: "Rất thích trêu chọc Diệu Thủ vì sự cầu toàn thái quá của y." }
+    );
 }
 
 if (typeof characterData !== 'undefined') {
