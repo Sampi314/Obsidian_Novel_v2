@@ -2218,6 +2218,9 @@ if (typeof relationships !== 'undefined') {
 
     // San Hô Đảo Quốc - Vô Tận Hải (Tây Mạc path bug)
     characters.push(
+        { id: "Thủy Tinh", name: "Thủy Tinh", faction: "San Hô Đảo Quốc", description: "Nữ Vương San Hô Đảo Quốc, hiền từ, tinh thông âm nhạc chữa lành và huyễn thuật." },
+        { id: "Triều Thiên Vệ", name: "Triều Thiên Vệ", faction: "San Hô Đảo Quốc", description: "Thống Lĩnh Hải Vệ Quân, trầm ổn, kỷ luật thép, dùng Hải Triều Cuồng Nộ." },
+        { id: "Triều Bích Hải", name: "Triều Bích Hải", faction: "San Hô Đảo Quốc", description: "Đội Trưởng Hải Vệ, nhiệt huyết bộc trực, tiên phong dùng sóng âm và thương san hô." },
         { id: "Ngư Tiểu Bạch", name: "Ngư Tiểu Bạch", faction: "San Hô Đảo Quốc", description: "Thiếu nữ nhân ngư, ca sĩ tập sự của Linh Ca Viện." },
         { id: "San Bích Quang", name: "San Bích Quang", faction: "San Hô Đảo Quốc", description: "Thái tử San Hô Đảo Quốc, nghệ nhân huyễn quang tài năng." },
         { id: "San Huyền Quang Dạ", name: "San Huyền Quang Dạ", faction: "San Hô Đảo Quốc", description: "Quang Sư bảo vệ vùng biển sâu, người dẫn đường thầm lặng." },
@@ -2247,7 +2250,13 @@ if (typeof relationships !== 'undefined') {
         { source: "Hải Tiểu Loa", target: "Hải Nguyệt Ca", type: "Tôn Kính", description: "Xem Viện Chủ như một vị thần, vô cùng biết ơn sự nâng đỡ." },
         { source: "Hải Vân Dao", target: "Ngư Ngân Lân Hà", type: "Bạn Tâm Giao", description: "Bạn thân thiết, thường đàn tấu để xoa dịu tính khí gắt gỏng của Ngân Lân Hà." },
         { source: "Ngư Thiên Lãng", target: "Hải Tiểu Loa", type: "Đối Tác", description: "Thương nhân luôn đặt mua nhạc cụ pháp bảo của Tiểu Loa để giao thương." },
-        { source: "Hải Vân Dao", target: "Ngư Thiên Ca", type: "Đồng Liêu", description: "Ngưỡng mộ tài nghệ của Đại Nhạc Sư Thiên Ca và thường trao đổi kinh nghiệm." }
+        { source: "Hải Vân Dao", target: "Ngư Thiên Ca", type: "Đồng Liêu", description: "Ngưỡng mộ tài nghệ của Đại Nhạc Sư Thiên Ca và thường trao đổi kinh nghiệm." },
+        { source: "Thủy Tinh", target: "Triều Thiên Vệ", type: "Quân - Thần", description: "Là Nữ Vương được Triều Thiên Vệ bảo vệ một lòng bằng mạng sống." },
+        { source: "Thủy Tinh", target: "Hải Vân Dao", type: "Sủng Ái", description: "Xem Hải Vân Dao như người kế vị tiềm năng, truyền thụ Thủy Tinh Linh Ca." },
+        { source: "Triều Thiên Vệ", target: "Thủy Tinh", type: "Trung Thành", description: "Nguyện dùng cả mạng sống để bảo vệ Nữ Vương." },
+        { source: "Triều Thiên Vệ", target: "Triều Bích Hải", type: "Cấp Trên", description: "Vừa là thống lĩnh, vừa là người dìu dắt, uốn nắn Triều Bích Hải khỏi tính xốc nổi." },
+        { source: "Triều Bích Hải", target: "Triều Thiên Vệ", type: "Kính Trọng", description: "Xem như sư phụ và luôn cố gắng hoàn thành nhiệm vụ để không làm ngài thất vọng." },
+        { source: "Triều Bích Hải", target: "Hải Tiểu Loa", type: "Bạn Thân", description: "Thường xuyên dùng các pháp khí vỏ ốc do Hải Tiểu Loa chế tạo trong chiến đấu." }
     );
 }
 
@@ -2632,7 +2641,10 @@ if (typeof characters !== 'undefined') {
     characters.push(
         { id: "san_bach_ngoc_hq", name: "San Bạch Ngọc", title: "Trưởng Lão Hội Đồng", realm: "Nguyên Anh Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#f0f8ff" },
         { id: "san_hong_diep", name: "San Hồng Diệp", title: "Đoàn Trưởng Thương Hồ", realm: "Kim Đan Hậu Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#ff6347" },
-        { id: "san_ngoc_lan", name: "San Ngọc Lan", title: "Dược Sư Tảo Biển", realm: "Kim Đan Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#98fb98" }
+        { id: "san_ngoc_lan", name: "San Ngọc Lan", title: "Dược Sư Tảo Biển", realm: "Kim Đan Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#98fb98" },
+        { id: "thuy_tinh", name: "Thủy Tinh", title: "Nữ Vương", realm: "Nguyên Anh Đỉnh Phong", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#00bfff" },
+        { id: "trieu_thien_ve", name: "Triều Thiên Vệ", title: "Thống Lĩnh Hải Vệ", realm: "Nguyên Anh Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#4682b4" },
+        { id: "trieu_bich_hai", name: "Triều Bích Hải", title: "Đội Trưởng Hải Vệ", realm: "Kim Đan Trung Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#1e90ff" }
     );
 
     relationships.push(

@@ -12,7 +12,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Cực Quang Thần Điện (Thiên Trụ)
+### [Hiện Tại] - Hoàn thiện nhân vật San Hô Đảo Quốc (Vô Tận Hải)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Thủy Tinh, Triều Thiên Vệ, Triều Bích Hải thuộc khu vực Vô Tận Hải.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Cực Quang Thần Điện (Thiên Trụ)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Phượng Tiêu, Phượng Thiên Dực, Phượng Kim Sí thuộc khu vực Thiên Trụ.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
