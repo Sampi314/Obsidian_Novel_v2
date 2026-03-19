@@ -52,3 +52,7 @@
 - [Linh Hồ Tàn Tộc] Đã điền thông tin chi tiết (Sections II-V) cho Hồ Cửu Thiên, Hồ Linh Hỏa, Hồ Nguyệt Quang.
 
 - [Hoàn Thành] Đã điền chi tiết 3 nhân vật Tinh Minh, Tinh Sắc, Tinh Thấu (Thủy Tinh Thạch Phường - Tây Mạc).
+
+### [Phiên hiện tại] - Hoàn thiện nhân vật Thiên Sa Thương Hội
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Phạm Thương Đạo, Trần Khoáng Sơn, và Vô Danh thuộc khu vực Tây Mạc.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.

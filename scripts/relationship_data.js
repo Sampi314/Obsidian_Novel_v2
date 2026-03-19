@@ -2341,3 +2341,22 @@ if (typeof characters !== 'undefined') {
         { source: "tinh_thau", target: "tinh_sac", type: "Đồng Phái", description: "Sư thúc thường xuyên rầy la vì thiếu cẩn thận nhưng lại luôn bảo vệ hắn." }
     );
 }
+
+// Thiên Sa Thương Hội (Tây Mạc)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "pham_thuong_dao", name: "Phạm Thương Đạo", title: "Tổng Quản Vận Tải", realm: "Kim Đan", faction: "Thiên Sa Thương Hội", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#b8860b" },
+        { id: "tran_khoang_son", name: "Trần Khoáng Sơn", title: "Gia Chủ Khai Khoáng", realm: "Nguyên Anh", faction: "Thiên Sa Thương Hội", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#cd5c5c" },
+        { id: "vo_danh", name: "Vô Danh", title: "Thủ Lĩnh Sa Ảnh", realm: "Nguyên Anh", faction: "Thiên Sa Thương Hội", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#1c1c1c" }
+    );
+    relationships.push(
+        { source: "pham_thuong_dao", target: "co_thien_ly", type: "Thượng Cấp", description: "Gia chủ Sa Thương, cấp trên trực tiếp mà lão tuyệt đối kính trọng và trung thành." },
+        { source: "pham_thuong_dao", target: "tran_khoang_son", type: "Đồng Minh", description: "Đối tác chiến lược quan trọng, cung cấp linh thạch và khoáng sản để vận chuyển, hai người thường xuyên nhậu nhẹt luận bàn." },
+        { source: "pham_thuong_dao", target: "vo_danh", type: "Hợp Tác", description: "Hợp tác ngầm, Phạm Thương Đạo thường cung cấp tình báo để Vô Danh dọn dẹp chướng ngại vật trên tuyến đường thương mại." },
+        { source: "tran_khoang_son", target: "pham_thuong_dao", type: "Đồng Minh", description: "Đối tác ruột, chịu trách nhiệm vận chuyển toàn bộ sa kim thạch mà gã khai thác, thấu hiểu tính cách nhau." },
+        { source: "tran_khoang_son", target: "hua_nhuoc_thuy", type: "Giao Dịch", description: "Gia chủ Sa Dược, người cung cấp các loại đan dược trị thương cao cấp cho nhân công mỏ của gã." },
+        { source: "tran_khoang_son", target: "nham_kinh_thien", type: "Giao Hảo", description: "Trưởng lão Cự Linh Tông ở Bắc Băng, gã thường xuyên trao đổi kỹ thuật khai khoáng và luyện khí với vị này." },
+        { source: "vo_danh", target: "pham_thuong_dao", type: "Hợp Tác", description: "Tổng quản thường xuyên nhờ cậy mạng lưới của hắn để dọn dẹp những thế lực quấy phá trên tuyến thương đạo." },
+        { source: "vo_danh", target: "hac_phong_dai_vuong", type: "Kẻ Thù", description: "Thủ lĩnh Sa Tặc Liên Minh, một con mồi mà Vô Danh vẫn đang kiên nhẫn bám đuổi và chực chờ cơ hội ám sát." }
+    );
+}

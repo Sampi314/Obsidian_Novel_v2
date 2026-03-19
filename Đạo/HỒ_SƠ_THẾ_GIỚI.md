@@ -730,3 +730,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 
 ### Cập Nhật Tán Tu (Bắc Băng)
 - Hoàn thiện chi tiết (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật lang bạt: Bằng Bắc Minh, Hạc Tuyết Nhi, Sương Lệ Nhi.
+
+### Thiên Sa Thương Hội (Tây Mạc)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Thiên Sa Thương Hội** (Tây Mạc):
+  - **Phạm Thương Đạo (Tổng Quản Vận Tải - Kim Đan Viên Mãn):** Lão phu khoác cẩm bào thêu vàng, sòng phẳng trọng chữ tín. Tinh thông *Lưu Sa Xa Trận*, chịu trách nhiệm vận chuyển và bảo vệ an toàn cho các đoàn hàng.
+  - **Trần Khoáng Sơn (Gia Chủ Khai Khoáng - Nguyên Anh Sơ Kỳ):** Gã khổng lồ thô lỗ, nhiều sẹo, xăm pháp trận rực đỏ. Dùng tuyệt kỹ *Toái Tinh Nham Chùy* độc quyền khai thác sa kim thạch và tìm kiếm khoáng thạch viễn cổ.
+  - **Vô Danh (Thủ Lĩnh Sa Ảnh - Nguyên Anh Hậu Kỳ):** Sát thủ vô diện khoác sa y đen, tuyệt tình và vô hồn. Tu luyện *Sa Ảnh Quyết* ám sát kẻ thù ngáng đường và bảo vệ bí mật thương mại.
