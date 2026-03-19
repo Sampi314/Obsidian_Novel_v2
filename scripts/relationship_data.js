@@ -2726,3 +2726,23 @@ if (typeof characters !== 'undefined') {
         { source: "son_dai_dia", target: "son_thiet_quyen", type: "Hợp Tác", description: "Bọc lót cho Thiết Quyền khi hắn bị bao vây bằng những tảng băng khổng lồ." }
     );
 }
+
+// Cực Quang Thần Điện (Thiên Trụ)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "hac_ngan_vu", name: "Hạc Ngân Vũ", title: "Hữu Hộ Pháp", realm: "Hóa Thần Hậu Kỳ", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#e0e0e0" },
+        { id: "hac_thanh_kiem", name: "Hạc Thanh Kiếm", title: "Kiếm Sĩ", realm: "Kim Đan Trung Kỳ", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#4dd0e1" },
+        { id: "hac_tuong_van", name: "Hạc Tường Vân", title: "Trưởng Lão", realm: "Hóa Thần Sơ Kỳ", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "elder", pov: false, avatar_color: "#b2ebf2" },
+        { id: "thanh_nu_cuc_quang", name: "Thánh Nữ Cực Quang", title: "Lãnh Đạo Tối Cao", realm: "Chưa Rõ", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "leader", pov: false, avatar_color: "#ffffff" }
+    );
+    relationships.push(
+        { source: "hac_ngan_vu", target: "thanh_nu_cuc_quang", type: "Phục Tùng", description: "Tôn thờ Thánh Nữ và tuyệt đối phục tùng mệnh lệnh, sẵn sàng hiến dâng mạng sống." },
+        { source: "hac_ngan_vu", target: "hac_tuong_van", type: "Kính Trọng", description: "Kính trọng trưởng lão đồng tộc, tuy đôi lúc thấy lão quá siêu thoát." },
+        { source: "hac_ngan_vu", target: "hac_thanh_kiem", type: "Chỉ Dạy", description: "Vừa là cấp trên nghiêm khắc vừa là người thầy dẫn dắt, kỳ vọng vào hậu bối." },
+        { source: "hac_thanh_kiem", target: "hac_ngan_vu", type: "Tôn Sư", description: "Cấp trên và người thầy trên con đường kiếm đạo, được giám sát và rèn luyện khắc nghiệt." },
+        { source: "hac_thanh_kiem", target: "hac_tuong_van", type: "Hậu Bối", description: "Thường bị trưởng lão khuyên răn không nên sa đà vào sát khí." },
+        { source: "hac_tuong_van", target: "hac_ngan_vu", type: "Quan Tâm", description: "Tán thưởng năng lực của hậu bối nhưng luôn lo ngại về sự cực đoan và lạnh lùng quá mức." },
+        { source: "hac_tuong_van", target: "hac_thanh_kiem", type: "Khuyên Răn", description: "Dùng lời bóng gió khuyên nhủ kiếm sĩ trẻ đừng để lưỡi kiếm làm mờ mắt tâm trí." },
+        { source: "hac_tuong_van", target: "thanh_nu_cuc_quang", type: "Cố Vấn", description: "Tôn kính như một vị thần, đồng thời là cố vấn tinh thần đưa ra những lời khuyên sâu sắc." }
+    );
+}
