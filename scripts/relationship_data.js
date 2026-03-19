@@ -1786,6 +1786,18 @@ const relationshipData = {
         "loi_cuong",
         "loi_phong"
       ]
+    },
+    {
+      "id": "co_tich_cu_nhan_thuc_tinh",
+      "name": "Cổ Tích Cự Nhân Thức Tỉnh",
+      "type": "bộ_lạc",
+      "region": "Tây Mạc",
+      "members": [
+        "co_mong",
+        "co_nham_hon",
+        "co_son"
+      ],
+      "leader": "co_mong"
     }
   ],
   "meta": {
@@ -2774,6 +2786,23 @@ if (typeof characters !== 'undefined') {
         { source: "ho_tuyet_nhi", target: "ho_ao_mong_thien", type: "Cánh Tay Phải", description: "Người trợ thủ đắc lực nhất giúp nàng bảo vệ hang ổ Tàn Tộc." },
         { source: "ho_ao_mong_thien", target: "ho_tuyet_nhi", type: "Bảo Vệ", description: "Thề bảo vệ vị Tộc Trưởng trẻ tuổi này đến hơi thở cuối cùng." },
         { source: "ho_ao_mong_thien", target: "ho_tuyet_lan", type: "Quan Tâm", description: "Thường xuyên ghé thăm trêu đùa để giảm bớt áp lực cho nàng Y Sư tận tụy." }
+    );
+}
+
+// Cổ Tích Cự Nhân Thức Tỉnh (Tây Mạc)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "co_mong", name: "Cổ Mộng", title: "Trưởng Lão", realm: "Kim Đan Sơ Kỳ", faction: "Cổ Tích Cự Nhân Thức Tỉnh", region: "Tây Mạc", role: "leader", pov: false, avatar_color: "#8b4513" },
+        { id: "co_nham_hon", name: "Cổ Nham Hồn", title: "Chiến Binh Cổ Đại", realm: "Trúc Cơ Hậu Kỳ", faction: "Cổ Tích Cự Nhân Thức Tỉnh", region: "Tây Mạc", role: "combat", pov: false, avatar_color: "#696969" },
+        { id: "co_son", name: "Cổ Sơn", title: "Chiến Binh Cổ Đại", realm: "Trúc Cơ Viên Mãn", faction: "Cổ Tích Cự Nhân Thức Tỉnh", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#cd853f" }
+    );
+    relationships.push(
+        { source: "co_mong", target: "co_nham_hon", type: "Đồng Minh", description: "Cổ Mộng tin tưởng Cổ Nham Hồn là tấm khiên vững chắc nhất của cộng đồng." },
+        { source: "co_mong", target: "co_son", type: "Che Chở", description: "Cổ Mộng đóng vai trò như người cha, che chở và trấn an tâm lý cho Cổ Sơn." },
+        { source: "co_nham_hon", target: "co_mong", type: "Phụ Thuộc", description: "Cổ Nham Hồn phục tùng mệnh lệnh và coi Cổ Mộng là hiện thân của Cổ Quốc." },
+        { source: "co_nham_hon", target: "co_son", type: "Bảo Vệ", description: "Cổ Nham Hồn xót xa cho Cổ Sơn và luôn âm thầm bảo vệ." },
+        { source: "co_son", target: "co_mong", type: "Phụ Thuộc", description: "Cổ Sơn bám lấy Cổ Mộng như một đứa trẻ." },
+        { source: "co_son", target: "co_nham_hon", type: "Phụ Thuộc", description: "Cổ Sơn cảm thấy an toàn khi nấp sau lưng Cổ Nham Hồn." }
     );
 }
 
