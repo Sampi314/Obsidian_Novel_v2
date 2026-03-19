@@ -78,6 +78,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chủng_Tộc_Chính.md`.
 
 ## V. Nhân Vật Tiêu Biểu
+
+- **Tây Mạc Độc Lập:** Giao Thiên Mạc Nguyệt (Giao nhân thương nhân quyến rũ), Ngư Sa Hà (Cá linh hướng đạo trên sông ngầm), và Sa Cát Vương (Sa ngư đột biến tàn bạo, thống trị các ốc đảo).
 - **A Ngốc (Hồn Nhiên Tử):** Tán tu Nhân tộc, Trúc Cơ Trung Kỳ. Là người mang Hỗn Độn Linh Căn nhưng tâm trí chỉ như một đứa trẻ (khoảng 5-7 tuổi). Năng lực Hỗn Độn tự động phản ứng bảo vệ và có khả năng miễn nhiễm mọi loại độc, bao gồm cả Huyết Thần Độc. Hắn đang ở Arc 6. Tại Vĩnh Hằng Sâm Lâm, A Ngốc đã cứu sống một đứa trẻ Yêu Tộc và thanh tẩy một phần nhỏ rễ cổ thụ. Sức mạnh thanh tẩy tuyệt đối của hắn đã được Lục Tiêu báo cáo về cho Nguyệt Dao Nữ Vương. Tuy nhiên, do lo ngại sự có mặt của nhân loại sẽ thu hút thêm sự chú ý của các thế lực tà đạo, Nguyệt Dao đã ra lệnh chia cắt A Ngốc và Lục Tiêu. Việc bị bỏ lại một mình giữa khu rừng chết chóc đã khoét sâu vào nỗi đau bị bỏ rơi của A Ngốc, kích hoạt một đợt bùng nổ Hỗn Độn chi lực mới và đẩy hắn đột phá lên Trúc Cơ Trung Kỳ. Hiện hắn đang lang thang tiến về phía Bắc (Bắc Băng) theo sự dẫn đường vô thức của Hộ Tâm Diệp.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/A_Ngốc.md`.
 - **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*. Đã rời khỏi Cửu Hoa Kiếm Tông và đang hướng về Đông Hoang cùng Lâm Phong.
