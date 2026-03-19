@@ -789,6 +789,12 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Nham Thính (Thạch Tộc Nghe Đá - Trúc Cơ Sơ Kỳ):** Thạch Tộc với cơ thể nham thạch xốp, tĩnh lặng và trầm mặc. Đóng vai trò là "đôi tai sống" đo lường rung động, cảm nhận mạch khoáng và sinh vật ngầm từ xa.
   - **Nham Đào (Phó Đội - Trúc Cơ Trung Kỳ):** Chiến binh Thạch Tộc vạm vỡ, kỷ luật với đôi tay cưa sắt khổng lồ. Là người mở đường chủ lực, dọn dẹp chướng ngại vật vững chắc và chuyên phác họa bản đồ hang động chi tiết.
 
+### Cổ Tích Cự Nhân Thức Tỉnh (Tây Mạc)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Cổ Tích Cự Nhân Thức Tỉnh** (Tây Mạc):
+  - **Cổ Mộng (Trưởng Lão - Kim Đan Sơ Kỳ):** Trưởng lão mang nỗi bi ai của một kẻ thức dậy sau hàng ngàn năm phong ấn, có khả năng kích hoạt tàn dư trận pháp bảo vệ Lưu Sa Cổ Thành.
+  - **Cổ Nham Hồn (Chiến Binh Cổ Đại - Trúc Cơ Hậu Kỳ):** Chiến binh vạm vỡ mang vết nứt tàn dư của quá khứ, lầm lì và trung thành bảo vệ cộng đồng bằng sức mạnh thể chất áp đảo.
+  - **Cổ Sơn (Chiến Binh Cổ Đại - Trúc Cơ Viên Mãn):** Cự nhân trẻ bị chấn thương tâm lý, nhút nhát và sợ hãi, thường dùng "Độn Sa Ẩn Thạch" để lẩn trốn thay vì chiến đấu.
+
 ### Sa Mạc Yêu Hồ (Tây Mạc)
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Sa Mạc Yêu Hồ** (Tây Mạc):
   - **Hồ Diệu Ngôn (Ngoại Giao - Trúc Cơ Hậu Kỳ):** Yêu Hồ ngoại giao xảo quyệt ngụy trang thành nữ quản sự duyên dáng, thao túng tâm lý và đọc "Khuy Tâm Thuật".
