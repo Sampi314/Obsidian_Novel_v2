@@ -13,11 +13,15 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Phong Sát Cốc (Tây Mạc)
+### [Hiện Tại] - Hoàn thiện nhân vật Thâm Hải Vi Linh (Vô Tận Hải)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Linh Áp Lực, Thủy Cổ Ký Ức, Thủy Nhiệt Tuyền thuộc khu vực Vô Tận Hải.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Phong Sát Cốc (Tây Mạc)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Phong Nha, Phong Ảnh, Sa Quỷ thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
-### [Phiên Trước] - Hoàn thiện nhân vật Hải Thần Cung (Vô Tận Hải)
+### [Phiên Trước 2] - Hoàn thiện nhân vật Hải Thần Cung (Vô Tận Hải)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Giao Vân Hà, Giải Huyền Giáp, Giải Thiết Giáp Vương thuộc khu vực Vô Tận Hải.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 

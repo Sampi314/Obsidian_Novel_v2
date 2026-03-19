@@ -1,6 +1,7 @@
 # Hồ Sơ Thế Giới: Cố Nguyên Giới
 
 ### Tình trạng cập nhật gần nhất
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Thâm Hải Vi Linh** (Vô Tận Hải): **Linh Áp Lực**, **Thủy Cổ Ký Ức**, và **Thủy Nhiệt Tuyền**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Phong Sát Cốc** (Tây Mạc): **Phong Nha**, **Phong Ảnh**, và **Sa Quỷ**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Hải Thần Cung** (Vô Tận Hải): **Giao Vân Hà**, **Giải Huyền Giáp**, và **Giải Thiết Giáp Vương**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **San Hô Đảo Quốc** (Vô Tận Hải): **Thủy Tinh**, **Triều Bích Hải**, và **Triều Thiên Vệ**.

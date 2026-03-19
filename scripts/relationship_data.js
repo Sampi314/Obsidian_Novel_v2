@@ -2876,3 +2876,20 @@ if (typeof characters !== 'undefined') {
         { source: "sa_quy", target: "phong_anh", type: "Tránh Xa", description: "Không ưa tính sạch sẽ của Phong Ảnh." }
     );
 }
+
+// Thâm Hải Vi Linh (Vô Tận Hải)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "linh_ap_luc", name: "Linh Áp Lực", title: "Chiến Sĩ Áp Suất", realm: "Kim Đan", faction: "Thâm Hải Vi Linh", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#00008b" },
+        { id: "thuy_co_ky_uc", name: "Thủy Cổ Ký Ức", title: "Ký Ức Thể", realm: "Trúc Cơ Trung Kỳ", faction: "Thâm Hải Vi Linh", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#3cb371" },
+        { id: "thuy_nhiet_tuyen", name: "Thủy Nhiệt Tuyền", title: "Nhiệt Linh", realm: "Trúc Cơ Sơ Kỳ", faction: "Thâm Hải Vi Linh", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#ff8c00" }
+    );
+    relationships.push(
+        { source: "linh_ap_luc", target: "tham_uyen_mau_linh", type: "Bảo Vệ", description: "Bảo vệ Mẫu Linh trước mọi hiểm nguy dưới Vực Thẳm." },
+        { source: "linh_ap_luc", target: "thuy_co_ky_uc", type: "Hỗ Trợ", description: "Nhận thông tin quang học từ Thủy Cổ Ký Ức để nhận diện kẻ thù." },
+        { source: "linh_ap_luc", target: "thuy_nhiet_tuyen", type: "Cộng Sinh", description: "Kết hợp áp suất và nhiệt lượng để gia tăng sát thương." },
+        { source: "thuy_co_ky_uc", target: "tham_uyen_mau_linh", type: "Truyền Tải", description: "Là kho lưu trữ thông tin cung cấp ký ức cho Mẫu Linh." },
+        { source: "thuy_co_ky_uc", target: "thuy_nhiet_tuyen", type: "Trao Đổi", description: "Trao đổi thông tin lấy nhiệt lượng giữ ổn định tốc độ truyền quang." },
+        { source: "thuy_nhiet_tuyen", target: "tham_uyen_mau_linh", type: "Cung Cấp", description: "Cung cấp năng lượng nhiệt để duy trì sự sống cho Mẫu Linh." }
+    );
+}
