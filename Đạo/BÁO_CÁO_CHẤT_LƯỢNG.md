@@ -13,7 +13,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Hải Thần Cung (Vô Tận Hải)
+### [Hiện Tại] - Hoàn thiện nhân vật Phong Sát Cốc (Tây Mạc)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Phong Nha, Phong Ảnh, Sa Quỷ thuộc khu vực Tây Mạc.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Hải Thần Cung (Vô Tận Hải)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Giao Vân Hà, Giải Huyền Giáp, Giải Thiết Giáp Vương thuộc khu vực Vô Tận Hải.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -49,6 +53,3 @@
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật San Bạch Ngọc, San Hồng Diệp, và San Ngọc Lan thuộc khu vực Vô Tận Hải.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` với ID `san_bach_ngoc_hq` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
-### [Phiên Trước] - Hoàn thiện nhân vật Tán Tu (Thiên Trụ)
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hỏa Kiến Vương, Thiết Trùng, và Vân Nga Tiên Tử thuộc Tán Tu khu vực Thiên Trụ.
-- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.

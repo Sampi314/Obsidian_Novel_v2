@@ -2856,3 +2856,23 @@ if (typeof characters !== 'undefined') {
         { source: "phuong_kim_si", target: "phuong_thien_duc", type: "Thúc / Cháu", description: "Hài lòng với sức mạnh nhưng đôi lúc phải dọn hậu quả cho hắn." }
     );
 }
+
+// Phong Sát Cốc (Tây Mạc) - Update
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "phong_nha", name: "Phong Nha", title: "Trưởng Lão", realm: "Kim Đan Hậu Kỳ", faction: "Phong Sát Cốc", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#8b0000" },
+        { id: "phong_anh", name: "Phong Ảnh", title: "Đội Trưởng Ảnh Phong", realm: "Kim Đan Đỉnh Phong", faction: "Phong Sát Cốc", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#1a1a1a" },
+        { id: "sa_quy", name: "Sa Quỷ", title: "Đội Trưởng Sa Quỷ", realm: "Kim Đan Hậu Kỳ", faction: "Phong Sát Cốc", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#696969" }
+    );
+    relationships.push(
+        { source: "phong_nha", target: "hac_phong", type: "Phục Tùng", description: "Tôn sùng sức mạnh của Hắc Phong nhưng thầm khao khát lật đổ." },
+        { source: "phong_nha", target: "phong_anh", type: "Khinh Thường", description: "Mỉa mai lối đánh lén lút thiếu nam nhi của Phong Ảnh." },
+        { source: "phong_nha", target: "sa_quy", type: "Bạn Nhậu", description: "Đồng bọn khát máu, thường trao đổi chiến lợi phẩm sau các cuộc săn." },
+        { source: "phong_anh", target: "hac_phong", type: "Công Cụ", description: "Công cụ trung thành thi hành án mạng ngầm." },
+        { source: "phong_anh", target: "phong_nha", type: "Khinh Thường", description: "Coi Phong Nha là con thú hoang vô mưu." },
+        { source: "phong_anh", target: "hoang_sa_nhan", type: "Kình Địch", description: "Kình địch thường xuyên giao phong trong giới sát thủ Tây Mạc." },
+        { source: "sa_quy", target: "hac_phong", type: "Cung Cấp", description: "Cung cấp tài nguyên ma đạo để duy trì đại trận." },
+        { source: "sa_quy", target: "phong_nha", type: "Đối Tác", description: "Hưởng lợi xác chết và vong hồn từ những vụ thảm sát của Phong Nha." },
+        { source: "sa_quy", target: "phong_anh", type: "Tránh Xa", description: "Không ưa tính sạch sẽ của Phong Ảnh." }
+    );
+}
