@@ -1828,7 +1828,12 @@ if (typeof relationships !== 'undefined') {
     characters.push(
         { id: "cong_kim_long", name: "Công Kim Lông", title: "Phường Chủ", realm: "Nguyên Anh Sơ Kỳ", faction: "Lông Vũ Phường", region: "Thiên Trụ", role: "leader", pov: false, avatar_color: "#ffc107" },
         { id: "cong_dieu_thu", name: "Công Diệu Thủ", title: "Thợ Thủ Công", realm: "Kim Đan Hậu Kỳ", faction: "Lông Vũ Phường", region: "Thiên Trụ", role: "artisan", pov: false, avatar_color: "#9e9e9e" },
-        { id: "cong_thai_vu", name: "Công Thái Vũ", title: "Nhuộm Sư", realm: "Kim Đan Trung Kỳ", faction: "Lông Vũ Phường", region: "Thiên Trụ", role: "artisan", pov: false, avatar_color: "#e91e63" }
+        { id: "cong_thai_vu", name: "Công Thái Vũ", title: "Nhuộm Sư", realm: "Kim Đan Trung Kỳ", faction: "Lông Vũ Phường", region: "Thiên Trụ", role: "artisan", pov: false, avatar_color: "#e91e63" },
+
+        // Bắc Băng - Phiêu Miễu Băng Hải
+        { id: "lam_tinh_thuy", name: "Lam Tịnh Thủy", title: "Trưởng Lão", realm: "Nguyên Anh Sơ Kỳ", faction: "Phiêu Miễu Băng Hải", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#00bcd4" },
+        { id: "mong_han_yen", name: "Mộng Hàn Yên", title: "Đường Chủ", realm: "Nguyên Anh Sơ Kỳ", faction: "Phiêu Miễu Băng Hải", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#00bcd4" },
+        { id: "nguyet_anh_ho", name: "Nguyệt Ảnh Hồ", title: "Chân Truyền", realm: "Trúc Cơ Viên Mãn", faction: "Phiêu Miễu Băng Hải", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#00bcd4" }
     );
     relationships.push(
         { source: "cong_kim_long", target: "vu_mao_nhi", type: "Kính Trọng", description: "Vô cùng kính trọng Phường Chủ sáng lập, coi bà là người khai sinh ra con đường tái sinh cho lông vũ rụng." },
@@ -1836,7 +1841,15 @@ if (typeof relationships !== 'undefined') {
         { source: "cong_thai_vu", target: "cong_kim_long", type: "Phục Tùng", description: "Nghe lệnh Phường Chủ Kim Lông, nhưng thỉnh thoảng vẫn lén lút trục lợi riêng." },
         { source: "cong_dieu_thu", target: "cong_thai_vu", type: "Bạn Đồng Tu", description: "Phối hợp làm việc vô cùng ăn ý để tạo ra các tác phẩm giá trị cao." },
         { source: "cong_kim_long", target: "cong_thai_vu", type: "Đánh Giá Cao", description: "Đánh giá rất cao tài năng nhuộm màu lông vũ của Thái Vũ." },
-        { source: "cong_thai_vu", target: "cong_dieu_thu", type: "Trêu Chọc", description: "Rất thích trêu chọc Diệu Thủ vì sự cầu toàn thái quá của y." }
+        { source: "cong_thai_vu", target: "cong_dieu_thu", type: "Trêu Chọc", description: "Rất thích trêu chọc Diệu Thủ vì sự cầu toàn thái quá của y." },
+
+        // Phiêu Miễu Băng Hải
+        { source: "lam_tinh_thuy", target: "mong_han_yen", type: "Đối Thủ/Đồng Nghiệp", description: "Đồng nghiệp kiêm kỳ phùng địch thủ, thường xuyên tranh luận về triết lý giữa việc 'Xâm nhập giấc mơ' và 'Đóng băng tâm trí'." },
+        { source: "mong_han_yen", target: "lam_tinh_thuy", type: "Châm Chọc", description: "Thường châm chọc sự cứng nhắc của Tịnh Thủy và cho rằng chỉ có 'mộng' mới là thứ tịnh hóa triệt để nhất." },
+        { source: "lam_tinh_thuy", target: "nguyet_anh_ho", type: "Để Mắt/Đánh Giá Cao", description: "Đệ tử chân truyền của Ảo Vũ Viện mà nàng luôn để mắt đến, đánh giá cao tiềm năng thủy hệ của cô bé." },
+        { source: "nguyet_anh_ho", target: "lam_tinh_thuy", type: "Ngưỡng Mộ/Sợ Hãi", description: "Sư thúc hướng dẫn nghiêm khắc mà Nguyệt Ảnh Hồ rất mực ngưỡng mộ nhưng cũng đôi phần e sợ trước sự lạnh lẽo tột cùng đó." },
+        { source: "mong_han_yen", target: "nguyet_anh_ho", type: "Đùa Giỡn/Thử Nghiệm", description: "Coi Nguyệt Ảnh Hồ là một con cờ thú vị, thỉnh thoảng ả đưa những gợi ý mờ nhạt để thử nghiệm độ nhạy bén tâm linh của cô nương trẻ." },
+        { source: "nguyet_anh_ho", target: "mong_han_yen", type: "Bối Rối", description: "Một tỷ tỷ thú vị nhưng nguy hiểm, người luôn trêu chọc nàng bằng những giấc mơ kỳ lạ khiến nàng đôi lúc bối rối về Đạo tâm của bản thân." }
     );
 }
 

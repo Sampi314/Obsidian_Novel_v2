@@ -12,7 +12,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Linh Hồ Tàn Tộc (Vô Tận Hải)
+### [Hiện Tại] - Hoàn thiện nhân vật Phiêu Miễu Băng Hải (Bắc Băng)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lam Tịnh Thủy, Mộng Hàn Yên, Nguyệt Ảnh Hồ thuộc khu vực Bắc Băng.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Linh Hồ Tàn Tộc (Vô Tận Hải)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hồ Tuyết Lan, Hồ Tuyết Nhi, Hồ Ảo Mộng Thiên thuộc khu vực Vô Tận Hải.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -39,8 +43,3 @@
 ### [Phiên Trước] - Hoàn thiện nhân vật Hoàng Sa Di Dân
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hoàng Cổ Nham, Hoàng Minh Nguyệt, và Hoàng Ngọc Dương thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-
-### [Phiên Trước] - Hoàn thiện nhân vật Thiên Sa Thương Hội
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Phạm Thương Đạo, Trần Khoáng Sơn, và Vô Danh thuộc khu vực Tây Mạc.
-- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-- **2026-03-19 - Tổng Quản:** Đã giải quyết 3 nhân vật trống trong phe phái Độc Lập - Tây Mạc. Số lượng nhân vật cần hoàn thiện (Task 9) hiện còn 488.

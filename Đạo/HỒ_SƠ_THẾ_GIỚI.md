@@ -1,6 +1,7 @@
 # Hồ Sơ Thế Giới: Cố Nguyên Giới
 
 ### Tình trạng cập nhật gần nhất
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Phiêu Miễu Băng Hải** (Bắc Băng): **Lam Tịnh Thủy**, **Mộng Hàn Yên**, và **Nguyệt Ảnh Hồ**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Linh Sa Khuẩn Đoàn** (Tây Mạc): **Khuẩn Bạch Cốt**, **Khuẩn Dạ Thực**, và **Khuẩn Hắc Nhưỡng**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Thiên Mộc Thành** (Thiên Trụ): **Mộc Thiên Hào**, **Mộc Thiên Quân**, và **Mộc Vân**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Huyết Hổ Hạ Chúng** (Vô Tận Hải): **Hổ Bạch Văn**, **Hổ Hàn Lệ**, và **Hổ Nha Tam**.
@@ -750,6 +751,12 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hoàng Dược Sư (Luyện Khí Đỉnh Phong):** Dược Sư Trưởng gầy gò, trầm tĩnh, nắm giữ bí kíp bào chế đan dược cốt lõi của phường với phương châm "Y đạo cứu thế". Dùng Băng Tỏa Y Thuật (冰锁医术) để phong bế độc tố và thương thế.
   - **Liên Tuyết Nhi (Trúc Cơ Hậu Kỳ):** Phường Chủ thanh tú, lạnh lẽo tựa đóa tuyết liên. Tu luyện Băng Sương Hóa Khí (冰霜化气) và Hàn Mai Tảo Tuyết Kiếm (寒梅扫雪剑). Kiên định bảo vệ dược phường và cứu chữa quần sinh, mang hoài bão nghiên cứu thành công đan dược từ Băng Tằm Ti.
   - **Lý Tiểu Liên (Luyện Khí Sơ Kỳ):** Cô bé Dược Sư Học Việc nhí nhảnh, hoạt bát. Dù tu vi thấp chỉ dùng Tiểu Linh Khí Thuật (小灵气术), cô bé có khứu giác cực nhạy với dược thảo và ước mơ chế tạo kẹo hồ lô thảo dược trị bách bệnh.
+
+### Phiêu Miễu Băng Hải (Bắc Băng)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Phiêu Miễu Băng Hải** (Bắc Băng):
+  - **Lam Tịnh Thủy (Nguyên Anh Sơ Kỳ):** Trưởng Lão Thủy Hoa Viện. Tộc Hải Yêu, chuyên kiểm soát thủy hệ biến dị với kỹ thuật Thủy Tiễn Hàn Băng Quyết. Tính cách lạnh lùng, xa cách để che giấu nội tâm mãnh liệt, thề trả thù Huyền Băng Cung.
+  - **Mộng Hàn Yên (Nguyên Anh Sơ Kỳ):** Đường Chủ Tâm Trí Đường. Giảo hoạt và tinh quái, sử dụng Huyễn Mộng Khóa Tâm Cảnh để thao túng giấc mơ của kẻ thù. Âm mưu tạo đại mộng trận nhốt cao thủ Huyền Băng Cung.
+  - **Nguyệt Ảnh Hồ (Trúc Cơ Viên Mãn):** Chân Truyền Đệ Tử. Hồn nhiên, hoạt bát, chiến đấu qua những điệu múa mê hoặc (Lung Nguyệt Trầm Thủy Vũ) cùng Hải Thạch Đàn. Đang chuẩn bị sát hạch Hàn Tinh Hồ để đột phá Kim Đan.
 
 ### Cập Nhật Tán Tu (Bắc Băng)
 - Hoàn thiện chi tiết (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật lang bạt: Bằng Bắc Minh, Hạc Tuyết Nhi, Sương Lệ Nhi.
