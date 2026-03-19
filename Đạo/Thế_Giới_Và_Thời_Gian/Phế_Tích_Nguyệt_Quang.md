@@ -11,19 +11,46 @@
 - **Sự Kiện:** Sau đại chiến Thần Ma, linh mạch thay đổi, khí độc xâm lấn biến vùng đất này thành đầm lầy chết chóc. Tinh Linh Tộc buộc phải rút lui về sâu trong Vĩnh Hằng Sâm Lâm, bỏ lại trạm tiền tiêu này.
 - **Hiện Tại:** Trải qua năm tháng, kiến trúc chính đã sụp đổ, chỉ còn lại những cột đá và bệ thờ cổ xưa trồi lên mặt nước đen.
 
+### Niên Đại Quan Trọng
+- **Mười ngàn năm trước:** Trạm tiền tiêu được xây dựng như một phần trong hệ thống phòng thủ vòng ngoài của Tinh Linh Tộc, đồng thời là trạm quan trắc linh mạch.
+- **Tám ngàn năm trước:** Đại chiến Thần Ma nổ ra, linh mạch bị phá hủy, vùng đất bắt đầu biến đổi. Tinh Linh Tộc rút lui, để lại đội tuần tra cuối cùng gồm mười hai chiến binh. Không ai biết số phận của họ.
+- **Năm ngàn năm trước:** Đầm Lầy Tử Thần hình thành hoàn chỉnh, nhấn chìm phần lớn trạm tiền tiêu. Chỉ còn lại Bệ Thờ Nguyệt Thần và một số cột đá trồi lên khỏi mặt bùn.
+- **Hiện tại:** Phế tích vẫn phát ra ánh sáng bạc mờ nhạt, chứng tỏ trận pháp bảo vệ chưa hoàn toàn suy kiệt — một minh chứng cho trình độ trận đạo phi thường của Tinh Linh Tộc cổ đại.
+
 ## III. ĐẶC ĐIỂM KIẾN TRÚC & MÔI TRƯỜNG
-- **Kiến Trúc:**
-    - Những cột đá trắng (Nguyệt Thạch) chạm khắc hoa văn dây leo và mặt trăng, nay đã bị rêu phong và bùn đất bám đầy.
-    - Trung tâm phế tích là một Bệ Thờ Nguyệt Thần nhỏ, nơi đặt một viên đá trận pháp đã nứt vỡ nhưng vẫn hoạt động yếu ớt.
-- **Kết Giới Tự Nhiên:**
-    - Bệ thờ phát ra một luồng ánh sáng bạc mờ nhạt (Nguyệt Quang Hộ Trận) trong phạm vi bán kính 10 trượng.
-    - Ánh sáng này có khả năng đẩy lùi chướng khí và độc trùng cấp thấp, tạo thành một "ốc đảo" an toàn hiếm hoi giữa biển độc.
-- **Thực Vật:**
-    - *Nguyệt Quang Thảo:* Một loại cỏ phát sáng mọc quanh bệ thờ, hấp thụ ánh trăng để sinh trưởng, có tác dụng thanh lọc độc tố nhẹ.
+
+### 1. Kiến Trúc
+- Những cột đá trắng (Nguyệt Thạch) chạm khắc hoa văn dây leo và mặt trăng, nay đã bị rêu phong và bùn đất bám đầy. Tổng cộng còn lại bảy cột, xếp thành hình bán nguyệt hướng về phía Đông — nơi mặt trăng mọc.
+- Trung tâm phế tích là một Bệ Thờ Nguyệt Thần nhỏ, nơi đặt một viên đá trận pháp đã nứt vỡ nhưng vẫn hoạt động yếu ớt.
+- Nền đá Nguyệt Thạch trải rộng khoảng 15 trượng vuông, cao hơn mặt bùn chừng nửa trượng. Bề mặt khắc những rãnh dẫn linh lực hình xoáy ốc, từ bảy cột đá quy tụ về bệ thờ trung tâm. Mặc dù đã nứt nẻ nhiều chỗ, hệ thống rãnh này vẫn hoạt động, dẫn truyền ánh trăng như dẫn truyền máu trong mạch.
+- Phía sau bệ thờ, một tấm bia đá Nguyệt Thạch nhỏ khắc chữ Tinh Linh cổ đại, nội dung đại ý: *"Nguyệt chiếu, lộ hàn, ngã tộc bất vong"* (Trăng chiếu, sương lạnh, tộc ta bất diệt). Chữ khắc đã mờ nhưng vẫn phát sáng nhẹ vào đêm trăng.
+
+### 2. Kết Giới Tự Nhiên
+- Bệ thờ phát ra một luồng ánh sáng bạc mờ nhạt (Nguyệt Quang Hộ Trận) trong phạm vi bán kính 10 trượng.
+- Ánh sáng này có khả năng đẩy lùi chướng khí và độc trùng cấp thấp, tạo thành một "ốc đảo" an toàn hiếm hoi giữa biển độc.
+- Vào đêm trăng tròn, kết giới mạnh lên gấp ba lần, phạm vi mở rộng đến 30 trượng. Lúc này, không khí bên trong kết giới trong lành đến mức kỳ diệu, tương phản hoàn toàn với chướng khí nồng nặc bên ngoài.
+- Vào đêm không trăng, kết giới yếu đi đáng kể, phạm vi thu hẹp chỉ còn 5 trượng quanh bệ thờ. Đây là thời điểm nguy hiểm nhất cho bất kỳ ai trú ẩn tại đây.
+
+### 3. Thực Vật
+- *Nguyệt Quang Thảo:* Một loại cỏ phát sáng mọc quanh bệ thờ, hấp thụ ánh trăng để sinh trưởng, có tác dụng thanh lọc độc tố nhẹ. Lá cỏ mỏng manh như cánh bướm, phát ra ánh sáng bạc dịu dàng, tạo thành một vòng tròn sáng quanh bệ thờ như một vòng hoa bạc.
+- *Nguyệt Liên:* Loài hoa sen trắng mọc trên mặt nước đen xung quanh phế tích, chỉ nở vào đêm trăng tròn. Hương thơm của nó có tác dụng xua đuổi Độc Thiềm Thừ và Ngư Tinh trong bán kính 20 trượng.
+- *Rêu Tinh Linh:* Một loại rêu xanh bám trên cột Nguyệt Thạch, không giống rêu phong thông thường mà phát ra mùi thơm thoang thoảng giống hương gỗ Tinh Linh cổ đại. Các nhà nghiên cứu cho rằng đây là hậu duệ của thảm thực vật do Tinh Linh Tộc trồng khi xây trạm.
 
 ## IV. VAI TRÒ TRONG CỐT TRUYỆN
 - Là nơi [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md) và [Lâm Phong](../Nhân_Vật/Lâm_Phong.md) vô tình lạc vào khi trốn chạy sự truy sát của Vạn Độc Môn.
 - Tại đây, họ tìm thấy [Tinh Linh Cổ Ngọc](../Kỳ_Vật/Tinh_Linh_Cổ_Ngọc.md) - vật tín vật quan trọng để kết nối với Tinh Linh Tộc sau này.
+- Phế tích cũng là nơi Tĩnh Sương lần đầu cảm nhận được sự cộng hưởng giữa huyết mạch Tinh Linh trong cơ thể mình và trận pháp cổ đại, mở ra manh mối về thân thế thực sự của nàng.
 
-## V. GIAI THOẠI
+## V. BÍ MẬT CHƯA ĐƯỢC KHÁM PHÁ
+- Bên dưới Bệ Thờ Nguyệt Thần, có một khoang trống ẩn giấu mà trận pháp bảo vệ — chỉ mở khi viên Tinh Linh Cổ Ngọc được đặt đúng vị trí. Nội dung bên trong chưa được tiết lộ, nhưng Diệp Tĩnh Sương cảm nhận được một luồng linh lực quen thuộc phát ra từ bên dưới.
+- Bảy cột Nguyệt Thạch không chỉ là kiến trúc trang trí — chúng tạo thành một trận pháp liên lạc đường dài của Tinh Linh Tộc. Nếu được kích hoạt đúng cách, chúng có thể gửi tín hiệu đến các trạm tiền tiêu khác còn sót lại (nếu có).
+- Đội tuần tra mười hai chiến binh Tinh Linh cuối cùng — tấm bia đá có khắc tên của họ, nhưng chữ đã mờ gần hết. Chỉ còn đọc được hai cái tên: "Nguyệt Lam" và "Tinh Vũ." Số phận của họ là một bí ẩn đã tồn tại hàng ngàn năm.
+
+## VI. GIAI THOẠI
 - Tương truyền vào những đêm trăng tròn, ánh sáng từ phế tích sẽ chiếu thẳng lên trời cao, tạo thành một cột sáng bạc dẫn đường cho những đứa con lạc lối của rừng già trở về nhà.
+
+> *"Giữa đầm lầy chết chóc, ta tìm thấy một nơi ánh trăng vẫn chiếu. Bảy cây cột đá đứng im lặng như những người lính gác trung thành, canh giữ một lời hứa mà kẻ hứa đã quên từ lâu. Nhưng đá thì không quên."*
+> — Trích nhật ký hành trình của Diệp Tĩnh Sương
+
+> *"Nếu ngươi lạc trong Đầm Lầy Tử Thần, hãy tìm ánh bạc. Đó là di sản cuối cùng của Tinh Linh Tộc — một ngọn đèn họ thắp lên trước khi rời đi, để lại cho những kẻ đến sau."*
+> — Truyền thuyết dân gian vùng biên giới
