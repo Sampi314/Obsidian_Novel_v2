@@ -8,7 +8,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật San Hô Thủ Hộ Đoàn
+### [Hiện Tại] - Hoàn thiện nhân vật Tán Tu (Thiên Trụ)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hỏa Kiến Vương, Thiết Trùng, và Vân Nga Tiên Tử thuộc Tán Tu khu vực Thiên Trụ.
+- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật San Hô Thủ Hộ Đoàn
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Giải Thiết Kìm, Hà Thiên Nhảy, Loa Hải Thanh Âm thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 

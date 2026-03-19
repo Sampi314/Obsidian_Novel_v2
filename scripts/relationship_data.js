@@ -1,6 +1,39 @@
 const relationshipData = {
   "characters": [
     {
+      "id": "hoa_kien_vuong",
+      "name": "Hỏa Kiến Vương",
+      "title": "Kiến Đoàn Trưởng",
+      "realm": "Trúc Cơ",
+      "faction": "Tán Tu",
+      "region": "Thiên Trụ",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff5722"
+    },
+    {
+      "id": "thiet_trung",
+      "name": "Thiết Trùng",
+      "title": "Sơn Trùng Thủ Vệ",
+      "realm": "Kim Đan",
+      "faction": "Tán Tu",
+      "region": "Thiên Trụ",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#9e9e9e"
+    },
+    {
+      "id": "van_nga_tien_tu",
+      "name": "Vân Nga Tiên Tử",
+      "title": "Trinh Sát",
+      "realm": "Kim Đan",
+      "faction": "Tán Tu",
+      "region": "Thiên Trụ",
+      "role": "scout",
+      "pov": false,
+      "avatar_color": "#9c27b0"
+    },
+    {
       "id": "cuong_thach_nu",
       "name": "Cương Thạch Nữ",
       "title": "Hộ Vệ",
@@ -2444,6 +2477,23 @@ if (typeof characters !== 'undefined') {
         { source: "hoang_minh_nguyet", target: "hoang_ngoc_duong", type: "Chăm Sóc", description: "Người bà chăm lo sức khỏe từ bé, luôn dặn dò cậu phải cẩn thận với bí mật huyết mạch." },
         { source: "hoang_ngoc_duong", target: "hoang_co_nham", type: "Áp Lực", description: "Trưởng lão của tộc, người đặt trọng trách lớn lên vai cậu nhưng thường xuyên giám sát quá mức." },
         { source: "hoang_ngoc_duong", target: "hoang_minh_nguyet", type: "Biết Ơn", description: "Người bà che chở cậu, người chia sẻ những bí mật y lý để Ngọc Dương sống sót." }
+    );
+}
+
+// Tán Tu (Thiên Trụ)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "hoa_kien_vuong", name: "Hỏa Kiến Vương", title: "Kiến Đoàn Trưởng", realm: "Trúc Cơ Viên Mãn", faction: "Tán Tu", region: "Thiên Trụ", role: "leader", pov: false, avatar_color: "#ff5722" },
+        { id: "thiet_trung", name: "Thiết Trùng", title: "Sơn Trùng Thủ Vệ", realm: "Kim Đan Hậu Kỳ", faction: "Tán Tu", region: "Thiên Trụ", role: "combat", pov: false, avatar_color: "#9e9e9e" },
+        { id: "van_nga_tien_tu", name: "Vân Nga Tiên Tử", title: "Trinh Sát", realm: "Kim Đan Sơ Kỳ", faction: "Tán Tu", region: "Thiên Trụ", role: "scout", pov: false, avatar_color: "#9c27b0" }
+    );
+    relationships.push(
+        { source: "hoa_kien_vuong", target: "thiet_trung", type: "Hợp Tác", description: "Đối tác quen thuộc, thường đổi tinh thạch lấy quặng sắt." },
+        { source: "hoa_kien_vuong", target: "van_nga_tien_tu", type: "Giao Dịch", description: "Mua tin tức tình báo từ ả, nhưng luôn đề phòng kịch độc." },
+        { source: "thiet_trung", target: "hoa_kien_vuong", type: "Hợp Tác", description: "Đổi quặng lấy tinh thạch để làm mềm thức ăn." },
+        { source: "thiet_trung", target: "van_nga_tien_tu", type: "Giao Dịch", description: "Cần tin tức, nhưng rất ghét sự ồn ào và mỉa mai của ả." },
+        { source: "van_nga_tien_tu", target: "hoa_kien_vuong", type: "Khách Hàng", description: "Bán tình báo cho Hỏa Kiến Vương để đổi linh thạch." },
+        { source: "van_nga_tien_tu", target: "thiet_trung", type: "Lợi Dụng", description: "Đôi khi mượn đao giết người bằng cách dụ kẻ thù đến lãnh địa của Thiết Trùng." }
     );
 }
 
