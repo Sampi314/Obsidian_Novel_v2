@@ -9,10 +9,15 @@
 - Các báo cáo cũ: Hoàn thành Task 9 cho các phe phái: Long Cung, Sa Mạc Hướng Đạo Hội, Lôi Trì Thánh Địa, Hỏa Diễm Công Phường, San Hô Đảo Quốc, Cổ Thạch Bộ Lạc, Sương Ma Uyển, Phù Du Linh Đoàn, Cực Quang Thần Điện, Ốc Đảo Vi Linh, Tán Tu Tây Mạc, Băng Lang Bộ Lạc, Hắc Tinh Linh Lưu Đày, Hàn Độc Vi Trùng Đoàn, Hỗn Huyết Tinh Linh Hội, Bào Tử Mật Lâm Tộc, Hải Thần Cung, Băng Nguyên Tán Tu Hội, Hàn Kiếm Cốc, Kim Sa Tự, Phiêu Lưu Đảo Liên Minh, Ngọc Trai Sâu Phường, Thâm Hải Vi Linh, Thiên Sa Thương Hội.
 - Báo cáo cũ (nén): Hoàn thiện Cổ Thạch Bộ Lạc, San Hô Vi Trùng, Thiên Mộc Thành, Tuyết Liên Dược Phường, Thủy Tinh Thạch Phường, Băng Ngục Thành, Huyết Hổ Hạ Chúng, Băng Ngục Đào Vong Giả.
 - Các báo cáo truyện: Viết POV cho A Ngốc, Lâm Phong, Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hàn Thanh Nguyệt, Lục Trần, Ngô Công Trưởng Lão, Phương Vô Kỵ, Sở Lăng Sương, Triệu Thanh Hằng, Lý Tuyết Ưng, Ngao Đình, Lệ Nhược Thủy, Nham Thần, Lục Tiêu.
+- [Đã chuyển từ 10 Báo Cáo Gần Nhất] Hoàn thiện nhân vật Địa Tâm Thám Hiểm Đội (Tây Mạc).
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Phiêu Miễu Băng Hải (Bắc Băng)
+### [Hiện Tại] - Hoàn thiện nhân vật Sóng Vi Ba Liên Lạc (Vô Tận Hải)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Ba Cộng Minh, Ba Hải Vọng, Ba Linh Thoại thuộc khu vực Vô Tận Hải.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Phiêu Miễu Băng Hải (Bắc Băng)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lam Tịnh Thủy, Mộng Hàn Yên, Nguyệt Ảnh Hồ thuộc khu vực Bắc Băng.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
