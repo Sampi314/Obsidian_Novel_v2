@@ -2641,7 +2641,10 @@ if (typeof characters !== 'undefined') {
     characters.push(
         { id: "san_bach_ngoc_hq", name: "San Bạch Ngọc", title: "Trưởng Lão Hội Đồng", realm: "Nguyên Anh Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#f0f8ff" },
         { id: "san_hong_diep", name: "San Hồng Diệp", title: "Đoàn Trưởng Thương Hồ", realm: "Kim Đan Hậu Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#ff6347" },
-        { id: "san_ngoc_lan", name: "San Ngọc Lan", title: "Dược Sư Tảo Biển", realm: "Kim Đan Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#98fb98" },
+        { id: "san_ngoc_lan", name: "San Ngọc Lan", title: "Dược Sư Tảo Biển", realm: "Kim Đan Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#3cb371" },
+        { id: "giao_van_ha", name: "Giao Vân Hà", title: "Y Sư", realm: "Kim Đan Sơ Kỳ", faction: "Hải Thần Cung", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#ffd1dc" },
+        { id: "giai_huyen_giap", name: "Giải Huyền Giáp", title: "Thành Môn Tướng", realm: "Kim Đan Sơ Kỳ", faction: "Hải Thần Cung", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#2f4f4f" },
+        { id: "giai_thiet_giap_vuong", name: "Giải Thiết Giáp Vương", title: "Nam Hải Tướng Quân", realm: "Nguyên Anh Sơ Kỳ", faction: "Hải Thần Cung", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#8b0000" },
         { id: "thuy_tinh", name: "Thủy Tinh", title: "Nữ Vương", realm: "Nguyên Anh Đỉnh Phong", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#00bfff" },
         { id: "trieu_thien_ve", name: "Triều Thiên Vệ", title: "Thống Lĩnh Hải Vệ", realm: "Nguyên Anh Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#4682b4" },
         { id: "trieu_bich_hai", name: "Triều Bích Hải", title: "Đội Trưởng Hải Vệ", realm: "Kim Đan Trung Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#1e90ff" }
@@ -2653,7 +2656,11 @@ if (typeof characters !== 'undefined') {
         { source: "san_hong_diep", target: "san_ngoc_lan", type: "Đối Tác", description: "Đứng ra phân phối và tiêu thụ các loại thuốc quý do Ngọc Lan chế tạo, mang lại lợi nhuận lớn." },
         { source: "san_ngoc_lan", target: "san_hong_diep", type: "Đối Tác", description: "Nhận kinh phí từ Hồng Diệp để nghiên cứu, dù thường cằn nhằn về việc Hồng Diệp bán thuốc giá quá cao." },
         { source: "san_ngoc_lan", target: "san_bach_ngoc_hq", type: "Học Trò", description: "Được Bạch Ngọc hướng dẫn dung hòa âm nhạc vào trị liệu linh hồn để tạo ra những bản Thủy Tinh Linh Ca an thần." },
-        { source: "san_bach_ngoc_hq", target: "san_ngoc_lan", type: "Chỉ Dạy", description: "Truyền thụ nghệ thuật âm nhạc chữa lành cho y sư xuất sắc này." }
+        { source: "san_bach_ngoc_hq", target: "san_ngoc_lan", type: "Chỉ Dạy", description: "Truyền thụ nghệ thuật âm nhạc chữa lành cho y sư xuất sắc này." },
+        { source: "giai_huyen_giap", target: "giai_thiet_giap_vuong", type: "Thuộc Hạ", description: "Thượng cấp trực tiếp và là hình mẫu lý tưởng mà Huyền Giáp hướng tới." },
+        { source: "giai_thiet_giap_vuong", target: "giai_huyen_giap", type: "Đệ Tử", description: "Rất tự hào về Huyền Giáp và đang dốc lòng bồi dưỡng thành người kế nhiệm." },
+        { source: "giao_van_ha", target: "giai_huyen_giap", type: "Bác Sĩ", description: "Thường xuyên chữa trị những vết nứt vỏ cho Huyền Giáp." },
+        { source: "giai_huyen_giap", target: "giao_van_ha", type: "Kính Trọng", description: "Rất tôn trọng y sư Vân Hà, người duy nhất có thể dọn dẹp các vết nứt trên lớp vỏ của hắn." }
     );
     relationships.push(
         { source: "san_bach_ngoc", target: "san_hai_yen_sao", type: "Đồng Liêu", description: "Một xây mới, một sửa chữa — phối hợp ăn ý bảo toàn rạn san hô." },
