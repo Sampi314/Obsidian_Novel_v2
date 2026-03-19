@@ -2776,3 +2776,18 @@ if (typeof characters !== 'undefined') {
         { source: "ho_ao_mong_thien", target: "ho_tuyet_lan", type: "Quan Tâm", description: "Thường xuyên ghé thăm trêu đùa để giảm bớt áp lực cho nàng Y Sư tận tụy." }
     );
 }
+
+// Sóng Vi Ba Liên Lạc (Vô Tận Hải) - Update
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "ba_cong_minh", name: "Ba Cộng Minh", title: "Giải Mã Sư", realm: "Kim Đan", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#6495ed" },
+        { id: "ba_hai_vong", name: "Ba Hải Vọng", title: "Quan Sát Viên", realm: "Trúc Cơ", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#4682b4" },
+        { id: "ba_linh_thoai", name: "Ba Linh Thoại", title: "Phiên Dịch Sư", realm: "Kim Đan", faction: "Sóng Vi Ba Liên Lạc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#87ceeb" }
+    );
+    relationships.push(
+        { source: "ba_cong_minh", target: "ba_hai_vong", type: "Đồng Sự", description: "Phối hợp ăn ý: Hải Vọng tìm tín hiệu lạ, Cộng Minh bóc tách giải mã." },
+        { source: "ba_cong_minh", target: "ba_linh_thoai", type: "Hợp Tác", description: "Cộng Minh giải mã cấu trúc, Linh Thoại dịch nghĩa nội dung." },
+        { source: "ba_hai_vong", target: "ba_cong_minh", type: "Cung Cấp", description: "Liên tục gửi các đoạn vi sóng mã hóa bất thường về để phân tích." },
+        { source: "ba_linh_thoai", target: "ba_cong_minh", type: "Đồng Sự", description: "Giúp Cộng Minh hiểu được thông điệp ẩn sau lớp mã hóa phức tạp." }
+    );
+}
