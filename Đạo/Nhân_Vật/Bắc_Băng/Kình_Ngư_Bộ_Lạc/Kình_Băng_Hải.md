@@ -124,7 +124,9 @@ arcs:
 - **Điểm Yếu:**
     - **Chiến đấu trên cạn:** Mất gần bảy mươi phần trăm sức mạnh khi rời khỏi nước. Trên đất liền, y chậm chạp, vụng về, linh lực thủy hệ không có môi trường khuếch đại, và da khô nhanh dưới gió lạnh khiến y đau đớn. Y chỉ có thể ở trên cạn tối đa hai canh giờ trước khi phải quay về nước.
     - **Phụ thuộc đàn cá voi:** Sức mạnh cộng hưởng âm ba phụ thuộc vào số lượng cá voi trong đàn — nếu đàn bị phân tán hoặc mất mát, khả năng phòng thủ sụt giảm nghiêm trọng.
-    - **Cô lập thông tin:** Đoàn y bị cắt đứt liên lạc với bộ lạc chính ở Vô Tận Hải suốt ba mươi năm — không biết tình hình bên ngoài, không có viện binh, không có tiếp tế.
+    - **Cô lập thông tin:** Đoàn y bị cắt đứt liên lạc với bộ lạc chính ở Vô Tận Hải suốt ba mươi năm — không biết tình hình bên ngoài, không có viện binh, không có tiếp tế. Y không biết cha có còn sống không, Hắc Hải Hải Tặc đã bị đánh lui chưa, hay bộ lạc chính đã quên mất đoàn tiền tiêu từ lâu.
+    - **Nguyệt Ấn bất ổn:** Nguyệt Ấn trên trán y gần đây phát sáng bất thường vào ban đêm — không rõ nguyên nhân, nhưng y nghi ngờ nó phản ứng với một nguồn năng lượng nào đó sâu dưới đáy biển Bắc Băng.
+    Điều này khiến y lo lắng, vì Nguyệt Ấn chỉ phản ứng khi dòng máu trưởng tử cảm nhận được mối nguy cho bộ lạc.
 
 ## VI. QUAN HỆ
 - **Kình Thiên Hải Vương — Tộc Trưởng & Phụ Thân:**
@@ -144,3 +146,5 @@ arcs:
 - **Truyền Thuyết "Phá Băng Nhất Kích":** Dân chài ven bờ Bắc Băng kể rằng vào một đêm đông sâu, mặt băng bỗng nứt toác một đường dài hàng trăm trượng — từ dưới khe nứt, một bàn tay khổng lồ xám xanh với lên, đặt một viên ngọc phát sáng lên mặt băng, rồi rút xuống. Sáng hôm sau, viên ngọc biến mất, nhưng trên mặt băng còn lại dấu ấn năm ngón tay — mỗi ngón sâu một gang, rộng một sải, in hằn trên băng cứng như thể đá vào bơ. Câu chuyện có thể thêu dệt, nhưng những dấu tay trên băng là có thật — dân chài đã chỉ cho nhau xem trước khi tuyết mới phủ kín chúng.
 
 - **Lời Đồn "Biển Hát Dưới Băng":** Vào những đêm yên tĩnh, nếu úp tai xuống mặt băng Bắc Băng, có thể nghe thấy tiếng hát — không phải tiếng gió, không phải tiếng nước, mà là giai điệu trầm hùng, vang vọng, như thể cả một dàn hợp xướng đang biểu diễn dưới đáy biển. Đó là đàn cá voi hát cùng Kình Băng Hải — bản giao hưởng dưới băng mà không ai trên mặt đất được mời nghe, nhưng ai nghe thấy đều không bao giờ quên. Một tu sĩ của Huyền Băng Cung từng vô tình nghe được, rồi suốt đời không thể nghe nhạc nào khác mà không cảm thấy nhạt nhẽo — lão gọi đó là "Khúc Hát Chìm Đắm" và coi nó là một loại tâm ma.
+
+- **Giai Thoại "Viên Ngọc Trên Băng":** Mỗi tháng, dân hái dược Tuyết Liên Dược Phường tìm thấy một viên trân châu phát sáng nhẹ trên mặt băng ven bờ — nằm ngay chỗ túi dược thảo đã biến mất qua đêm. Không ai biết ai đặt viên ngọc, không ai thấy ai lấy túi thuốc. Trần Sơn Nhi — Trưởng Nhóm Hái Dược — là người duy nhất biết câu trả lời, nhưng y giữ bí mật tuyệt đối theo lời dặn của Liên Tuyết Nhi. Dân trong Phường gọi hiện tượng này là "Lễ Vật Của Biển" và coi đó là điềm lành — rằng Hải Thần phù hộ cho Phường vì họ tôn trọng thiên nhiên. Sự thật tuy kém thơ mộng hơn nhưng lại phi thường hơn: dưới lớp băng ấy là cả một bộ lạc cá voi khổng lồ, và thủ lĩnh của chúng đang cần thuốc chữa bệnh cho tộc nhân — một mối duyên giữa biển và đất mà chưa ai từng thấy tại Bắc Băng.
