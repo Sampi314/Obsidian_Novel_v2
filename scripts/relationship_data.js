@@ -780,9 +780,78 @@ const relationshipData = {
       "role": "support",
       "pov": false,
       "avatar_color": "#ffe082"
+    },
+    {
+      "id": "giai_thiet_kim",
+      "name": "Giải Thiết Kìm",
+      "title": "Chiến Sĩ",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "San Hô Thủ Hộ Đoàn",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#e57373"
+    },
+    {
+      "id": "ha_thien_nhay",
+      "name": "Hà Thiên Nhảy",
+      "title": "Tuần Tra",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "San Hô Thủ Hộ Đoàn",
+      "region": "Tây Mạc",
+      "role": "scout",
+      "pov": false,
+      "avatar_color": "#81c784"
+    },
+    {
+      "id": "loa_hai_thanh_am",
+      "name": "Loa Hải Thanh Âm",
+      "title": "Báo Động Sư",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "San Hô Thủ Hộ Đoàn",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#4fc3f7"
     }
   ],
   "relationships": [
+    {
+      "source": "giai_thiet_kim",
+      "target": "thuy_linh_nhi",
+      "type": "master",
+      "description": "Trung thành tuyệt đối với Đoàn Trưởng."
+    },
+    {
+      "source": "giai_thiet_kim",
+      "target": "ha_thien_nhay",
+      "type": "ally",
+      "description": "Đồng đội tác chiến, người gây rối kẻ đánh kết liễu."
+    },
+    {
+      "source": "ha_thien_nhay",
+      "target": "thuy_linh_nhi",
+      "type": "master",
+      "description": "Kính trọng và luôn báo tin sớm nhất cho Đoàn Trưởng."
+    },
+    {
+      "source": "loa_hai_thanh_am",
+      "target": "thuy_linh_nhi",
+      "type": "master",
+      "description": "Coi Thủy Linh Nhi là biểu tượng tinh thần cần bảo vệ."
+    },
+    {
+      "source": "loa_hai_thanh_am",
+      "target": "ha_thien_nhay",
+      "type": "ally",
+      "description": "Phụ thuộc vào tình báo của Hà Thiên Nhảy để báo động."
+    },
+    {
+      "source": "loa_hai_thanh_am",
+      "target": "giai_thiet_kim",
+      "type": "ally",
+      "description": "Dựa vào Giải Thiết Kìm như bức tường bảo vệ mình."
+    },
     {
       "source": "cuong_thach_nu",
       "target": "mac_vo_danh",

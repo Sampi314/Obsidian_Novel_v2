@@ -731,6 +731,12 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 ### Cập Nhật Tán Tu (Bắc Băng)
 - Hoàn thiện chi tiết (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật lang bạt: Bằng Bắc Minh, Hạc Tuyết Nhi, Sương Lệ Nhi.
 
+### San Hô Thủ Hộ Đoàn (Tây Mạc)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **San Hô Thủ Hộ Đoàn** (Tây Mạc):
+  - **Giải Thiết Kìm:** Chiến binh lực lưỡng, cục cằn, tuyệt đối trung thành với Thủy Linh Nhi, sở hữu sức phòng thủ và lực kẹp nghiền nát kinh người.
+  - **Hà Thiên Nhảy:** Tuần tra viên ranh mãnh, linh hoạt, di chuyển như chớp dưới nước để quấy rối và trinh sát.
+  - **Loa Hải Thanh Âm:** Báo động sư ốc sên điềm đạm, khả năng khuếch đại sóng âm diện rộng để cảnh báo và hỗ trợ phòng ngự tập thể.
+
 ### Thiên Sa Thương Hội (Tây Mạc)
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Thiên Sa Thương Hội** (Tây Mạc):
   - **Phạm Thương Đạo (Tổng Quản Vận Tải - Kim Đan Viên Mãn):** Lão phu khoác cẩm bào thêu vàng, sòng phẳng trọng chữ tín. Tinh thông *Lưu Sa Xa Trận*, chịu trách nhiệm vận chuyển và bảo vệ an toàn cho các đoàn hàng.
