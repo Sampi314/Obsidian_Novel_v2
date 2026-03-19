@@ -78,6 +78,8 @@
 - **Chi Tiết:** Xem tại `Đạo/Chủng_Tộc/Chủng_Tộc_Chính.md`.
 
 ## V. Nhân Vật Tiêu Biểu
+
+- **Tây Mạc Độc Lập:** Giao Thiên Mạc Nguyệt (Giao nhân thương nhân quyến rũ), Ngư Sa Hà (Cá linh hướng đạo trên sông ngầm), và Sa Cát Vương (Sa ngư đột biến tàn bạo, thống trị các ốc đảo).
 - **A Ngốc (Hồn Nhiên Tử):** Tán tu Nhân tộc, Trúc Cơ Trung Kỳ. Là người mang Hỗn Độn Linh Căn nhưng tâm trí chỉ như một đứa trẻ (khoảng 5-7 tuổi). Năng lực Hỗn Độn tự động phản ứng bảo vệ và có khả năng miễn nhiễm mọi loại độc, bao gồm cả Huyết Thần Độc. Hắn đang ở Arc 6. Tại Vĩnh Hằng Sâm Lâm, A Ngốc đã cứu sống một đứa trẻ Yêu Tộc và thanh tẩy một phần nhỏ rễ cổ thụ. Sức mạnh thanh tẩy tuyệt đối của hắn đã được Lục Tiêu báo cáo về cho Nguyệt Dao Nữ Vương. Tuy nhiên, do lo ngại sự có mặt của nhân loại sẽ thu hút thêm sự chú ý của các thế lực tà đạo, Nguyệt Dao đã ra lệnh chia cắt A Ngốc và Lục Tiêu. Việc bị bỏ lại một mình giữa khu rừng chết chóc đã khoét sâu vào nỗi đau bị bỏ rơi của A Ngốc, kích hoạt một đợt bùng nổ Hỗn Độn chi lực mới và đẩy hắn đột phá lên Trúc Cơ Trung Kỳ. Hiện hắn đang lang thang tiến về phía Bắc (Bắc Băng) theo sự dẫn đường vô thức của Hộ Tâm Diệp.
 - **Chi Tiết:** Xem tại `Đạo/Nhân_Vật/A_Ngốc.md`.
 - **Diệp Tĩnh Sương (Hàn Mai Kiếm):** Nữ kiếm tu Nhân tộc, Trúc Cơ Sơ Kỳ. Tính cách lạnh lùng, đạo tâm "Kiếm Trảm Bất Bình". Sở hữu *Hàn Mai Kiếm Quyết*. Đã rời khỏi Cửu Hoa Kiếm Tông và đang hướng về Đông Hoang cùng Lâm Phong.
@@ -671,6 +673,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hỏa Tiểu Viêm (Học Việc)**: Linh hoạt, năng nổ nhưng bộp chộp. Thích thử nghiệm công thức nổ mới, mang trong mình giấc mơ rèn pháp bảo trả thù cho bộ lạc.
 
 ## Cập Nhật Mới
+- **Nhân Vật Mới Điền Chi Tiết:** Lý Cuồng Phong, Phong Cuồng, Phong Liệt (Phong Sát Cốc - Tây Mạc).
 - **Nhân Vật Mới Điền Chi Tiết:** Trùng Thiên Lý Nhãn, Trùng Thính Phong, Trùng Tiểu Mật (Vi Trùng Trinh Sát Đội - Tây Mạc).
 ### Các Nhân Vật Gần Đây Được Cập Nhật
 - **Thủy Tinh Thạch Phường (Tây Mạc):** Hoàn thiện hồ sơ chi tiết cho Phường Chủ Tinh Minh, cùng 2 Thợ Cả là Tinh Sắc và Tinh Thấu. Phe phái Thạch Tộc này hiện đang chịu sự áp bức của Thiên Sa Thương Hội và đang tìm cách thoát khỏi sự kìm kẹp.
@@ -760,3 +763,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Nham Quang (Thành Viên - Luyện Khí Hậu Kỳ):** Thạch Tộc nhỏ gọn với bề mặt xen lẫn khoáng chất phát sáng. Là nguồn sáng lạc quan của đội, chuyên sử dụng Thạch Dung Thuật kết hợp khoáng chất phát quang để soi rọi hang động và đánh lạc hướng kẻ thù.
   - **Nham Thính (Thạch Tộc Nghe Đá - Trúc Cơ Sơ Kỳ):** Thạch Tộc với cơ thể nham thạch xốp, tĩnh lặng và trầm mặc. Đóng vai trò là "đôi tai sống" đo lường rung động, cảm nhận mạch khoáng và sinh vật ngầm từ xa.
   - **Nham Đào (Phó Đội - Trúc Cơ Trung Kỳ):** Chiến binh Thạch Tộc vạm vỡ, kỷ luật với đôi tay cưa sắt khổng lồ. Là người mở đường chủ lực, dọn dẹp chướng ngại vật vững chắc và chuyên phác họa bản đồ hang động chi tiết.
+
+### Sa Mạc Yêu Hồ (Tây Mạc)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Sa Mạc Yêu Hồ** (Tây Mạc):
+  - **Hồ Diệu Ngôn (Ngoại Giao - Trúc Cơ Hậu Kỳ):** Yêu Hồ ngoại giao xảo quyệt ngụy trang thành nữ quản sự duyên dáng, thao túng tâm lý và đọc "Khuy Tâm Thuật".
+  - **Hồ Huyễn Dạ Thiên (Ảo Thuật Sư - Trúc Cơ Viên Mãn):** Ảo thuật sư trầm tĩnh trong lốt lão già mù, tinh thông "Sa Ảo Mê Cung" dụ lữ khách bỏ mạng.
+  - **Hồ Hỏa Vĩ (Chiến Sĩ - Trúc Cơ Trung Kỳ):** Chiến binh tiên phong hình xăm ngọn lửa, bốc đồng dũng mãnh bảo vệ bằng đuôi lửa.

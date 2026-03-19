@@ -683,6 +683,39 @@ const relationshipData = {
       "avatar_color": "#F0FFFF"
     },
     {
+      "id": "ly_cuong_phong",
+      "name": "Lý Cuồng Phong",
+      "title": "Chân Truyền",
+      "realm": "Kim Đan",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#212121"
+    },
+    {
+      "id": "phong_cuong",
+      "name": "Phong Cuồng",
+      "title": "Hộ Pháp",
+      "realm": "Nguyên Anh",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#424242"
+    },
+    {
+      "id": "phong_liet",
+      "name": "Phong Liệt",
+      "title": "Ngoại Môn",
+      "realm": "Trúc Cơ",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#616161"
+    },
+    {
       "id": "hac_phong_dai_vuong",
       "name": "Hắc Phong Đại Vương",
       "title": "Minh Chủ",
@@ -944,6 +977,36 @@ const relationshipData = {
       "target": "hoang_duoc_su",
       "type": "ally",
       "description": "Dược Sư Trưởng kính cẩn, một vị tiền bối đáng tin cậy."
+    },
+    {
+      "source": "phong_cuong",
+      "target": "ly_cuong_phong",
+      "type": "master",
+      "description": "Thường xuyên giao phó nhiệm vụ nguy hiểm."
+    },
+    {
+      "source": "ly_cuong_phong",
+      "target": "phong_cuong",
+      "type": "master",
+      "description": "Sợ hãi và phải tuân lệnh của Hộ Pháp."
+    },
+    {
+      "source": "ly_cuong_phong",
+      "target": "phong_liet",
+      "type": "ally",
+      "description": "Sai vặt và sử dụng làm bia đỡ đạn."
+    },
+    {
+      "source": "phong_liet",
+      "target": "ly_cuong_phong",
+      "type": "master",
+      "description": "Kinh sợ và phục tùng đàn anh."
+    },
+    {
+      "source": "phong_liet",
+      "target": "phong_cuong",
+      "type": "master",
+      "description": "Tuân lệnh cấp trên, không dám làm trái."
     },
     {
       "source": "lien_tuyet_nhi",
@@ -2597,5 +2660,38 @@ if (typeof characters !== 'undefined') {
         { source: "son_tieu_nhi", target: "thach_noi_da", type: "Bạn Thân", description: "Bạn đồng trang lứa duy nhất, một làm mềm đá, một nói chuyện với đá." },
         { source: "thach_noi_da", target: "nham_ban_than", type: "Biết Ơn", description: "Biết ơn người bảo hộ luôn canh gác và đưa đi các vùng đá cổ." },
         { source: "thach_noi_da", target: "son_tieu_nhi", type: "Bạn Thân", description: "Bạn thân duy nhất, cùng chơi tạo tác phẩm điêu khắc kỳ lạ bên mỏ đá." }
+    );
+}
+
+// Sa Mạc Yêu Hồ (Tây Mạc)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "ho_nguyet_nhi", name: "Hồ Nguyệt Nhi", title: "Tộc Trưởng", realm: "Kim Đan Sơ Kỳ", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "leader", pov: false, avatar_color: "#ff69b4" },
+        { id: "ho_dieu_ngon", name: "Hồ Diệu Ngôn", title: "Ngoại Giao", realm: "Trúc Cơ Hậu Kỳ", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ffb6c1" },
+        { id: "ho_huyen_da_thien", name: "Hồ Huyễn Dạ Thiên", title: "Ảo Thuật Sư", realm: "Trúc Cơ Viên Mãn", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#dda0dd" },
+        { id: "ho_hoa_vi", name: "Hồ Hỏa Vĩ", title: "Chiến Sĩ", realm: "Trúc Cơ Trung Kỳ", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ff4500" }
+    );
+    relationships.push(
+        { source: "ho_dieu_ngon", target: "ho_nguyet_nhi", type: "Phục Tùng", description: "Tuyệt đối phục tùng mệnh lệnh và làm theo mọi kế sách ngoại giao của Tộc Trưởng." },
+        { source: "ho_huyen_da_thien", target: "ho_nguyet_nhi", type: "Trung Thành", description: "Trực tiếp chịu sự chỉ đạo của Tộc Trưởng để thực hiện các nhiệm vụ dọn dẹp dấu vết." },
+        { source: "ho_hoa_vi", target: "ho_nguyet_nhi", type: "Hộ Vệ", description: "Sẵn sàng hiến dâng sinh mạng để bảo vệ Tộc Trưởng và sự bình yên của bộ tộc." },
+        { source: "ho_dieu_ngon", target: "ho_huyen_da_thien", type: "Đồng Đội", description: "Đối tác hoàn hảo, biến những lời đồn thổi của Diệu Ngôn thành hình ảnh thực tế." },
+        { source: "ho_hoa_vi", target: "ho_dieu_ngon", type: "Bảo Vệ", description: "Thường đóng vai trò hộ vệ ngầm cho Diệu Ngôn trong những lần đàm phán." },
+        { source: "ho_huyen_da_thien", target: "pham_huong_tay", type: "Trêu Chọc", description: "Từng dùng ảo ảnh trêu chọc và khiến tên hướng đạo sinh này lạc đường suốt ba ngày." },
+        { source: "ho_hoa_vi", target: "ly_huyet_lang", type: "Kẻ Thù", description: "Từng để lại một vết bỏng lớn cho tên đội trưởng sa tặc này trong một lần đụng độ." }
+    );
+
+    characters.push(
+        { id: "giao_thien_mac_nguyet", name: "Giao Thiên Mạc Nguyệt", title: "Thương Nhân", realm: "Trúc Cơ Viên Mãn", faction: "Độc Lập", region: "Tây Mạc", role: "merchant", pov: false, avatar_color: "#00bcd4" },
+        { id: "ngu_sa_ha", name: "Ngư Sa Hà", title: "Hướng Dẫn", realm: "Trúc Cơ Hậu Kỳ", faction: "Độc Lập", region: "Tây Mạc", role: "guide", pov: false, avatar_color: "#9e9e9e" },
+        { id: "sa_cat_vuong", name: "Sa Cát Vương", title: "Sa Ngư Đột Biến", realm: "Kim Đan Sơ Kỳ", faction: "Độc Lập", region: "Tây Mạc", role: "enemy", pov: false, avatar_color: "#f44336" }
+    );
+    relationships.push(
+        { source: "giao_thien_mac_nguyet", target: "ngu_sa_ha", type: "Đối Tác", description: "Người thuê và kẻ được thuê, dựa dẫm qua lại trên sông ngầm sa mạc." },
+        { source: "giao_thien_mac_nguyet", target: "sa_cat_vuong", type: "Kẻ Thù", description: "Kẻ cướp thường xuyên ngáng đường các chuyến hàng của nàng." },
+        { source: "ngu_sa_ha", target: "sa_cat_vuong", type: "Trốn Tránh", description: "Lão cá linh này cực kỳ khiếp sợ tên bạo chúa khát máu." },
+        { source: "giao_thien_mac_nguyet", target: "pham_thuong_dao", type: "Khách Hàng", description: "Một trong những khách hàng thu mua Hải Châu lớn nhất của Giao Thiên Mạc Nguyệt." },
+        { source: "ngu_sa_ha", target: "pham_thuong_dao", type: "Trao Đổi", description: "Cung cấp bản đồ mạch nước ngầm để đổi lấy bảo vật thủy hệ." },
+        { source: "sa_cat_vuong", target: "hac_phong_dai_vuong", type: "Tôn Trọng", description: "Chạm trán vài lần và duy trì khoảng cách tôn trọng lẫn nhau." }
     );
 }

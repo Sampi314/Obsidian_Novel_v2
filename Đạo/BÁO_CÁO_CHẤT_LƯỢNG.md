@@ -9,7 +9,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật San Hô Đảo Quốc
+### [Hiện Tại] - Hoàn thiện nhân vật Phong Sát Cốc
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lý Cuồng Phong, Phong Cuồng, và Phong Liệt thuộc khu vực Tây Mạc.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật San Hô Đảo Quốc
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật San Bạch Ngọc, San Hồng Diệp, và San Ngọc Lan thuộc khu vực Vô Tận Hải.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` với ID `san_bach_ngoc_hq` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -48,3 +52,4 @@
 ### [Phiên trước] - Hoàn thiện nhân vật Thiên Sa Thương Hội
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Phạm Thương Đạo, Trần Khoáng Sơn, và Vô Danh thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+- **2026-03-19 - Tổng Quản:** Đã giải quyết 3 nhân vật trống trong phe phái Độc Lập - Tây Mạc. Số lượng nhân vật cần hoàn thiện (Task 9) hiện còn 494.
