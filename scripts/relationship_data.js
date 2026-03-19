@@ -2525,6 +2525,22 @@ if (typeof characters !== 'undefined') {
         { id: "san_huyen_thach", name: "San Huyền Thạch", title: "Khai Khoáng Viên", realm: "Trúc Cơ", faction: "San Hô Vi Trùng", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#4a0080" },
         { id: "san_hai_yen_sao", name: "San Hải Yến Sào", title: "Trưởng Lão Sửa Chữa", realm: "Kim Đan", faction: "San Hô Vi Trùng", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#d4a060" }
     );
+
+    // San Hô Đảo Quốc (Cập nhật)
+    characters.push(
+        { id: "san_bach_ngoc_hq", name: "San Bạch Ngọc", title: "Trưởng Lão Hội Đồng", realm: "Nguyên Anh Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#f0f8ff" },
+        { id: "san_hong_diep", name: "San Hồng Diệp", title: "Đoàn Trưởng Thương Hồ", realm: "Kim Đan Hậu Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#ff6347" },
+        { id: "san_ngoc_lan", name: "San Ngọc Lan", title: "Dược Sư Tảo Biển", realm: "Kim Đan Sơ Kỳ", faction: "San Hô Đảo Quốc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#98fb98" }
+    );
+
+    relationships.push(
+        { source: "san_bach_ngoc_hq", target: "san_hong_diep", type: "Đồng Sự", description: "Bạn đồng liêu trong Hội Đồng Linh San. Bạch Ngọc là tiếng nói lý trí kìm hãm sự bốc đồng của Hồng Diệp." },
+        { source: "san_hong_diep", target: "san_bach_ngoc_hq", type: "Đồng Sự", description: "Đôi khi thấy Bạch Ngọc quá cẩn trọng, nhưng tin tưởng vào khả năng ngoại giao và tầm nhìn xa của nàng." },
+        { source: "san_hong_diep", target: "san_ngoc_lan", type: "Đối Tác", description: "Đứng ra phân phối và tiêu thụ các loại thuốc quý do Ngọc Lan chế tạo, mang lại lợi nhuận lớn." },
+        { source: "san_ngoc_lan", target: "san_hong_diep", type: "Đối Tác", description: "Nhận kinh phí từ Hồng Diệp để nghiên cứu, dù thường cằn nhằn về việc Hồng Diệp bán thuốc giá quá cao." },
+        { source: "san_ngoc_lan", target: "san_bach_ngoc_hq", type: "Học Trò", description: "Được Bạch Ngọc hướng dẫn dung hòa âm nhạc vào trị liệu linh hồn để tạo ra những bản Thủy Tinh Linh Ca an thần." },
+        { source: "san_bach_ngoc_hq", target: "san_ngoc_lan", type: "Chỉ Dạy", description: "Truyền thụ nghệ thuật âm nhạc chữa lành cho y sư xuất sắc này." }
+    );
     relationships.push(
         { source: "san_bach_ngoc", target: "san_hai_yen_sao", type: "Đồng Liêu", description: "Một xây mới, một sửa chữa — phối hợp ăn ý bảo toàn rạn san hô." },
         { source: "san_bach_ngoc", target: "san_huyen_thach", type: "Cộng Tác/Lo Lắng", description: "Coi trọng tay nghề khai khoáng nhưng lo lắng việc khai thác lõi san hô làm yếu nền móng." },
