@@ -2791,3 +2791,20 @@ if (typeof characters !== 'undefined') {
         { source: "ba_linh_thoai", target: "ba_cong_minh", type: "Đồng Sự", description: "Giúp Cộng Minh hiểu được thông điệp ẩn sau lớp mã hóa phức tạp." }
     );
 }
+
+// Cực Quang Thần Điện (Thiên Trụ) - Update
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "phuong_tieu", name: "Phượng Tiêu", title: "Vũ Hoàng", realm: "Luyện Hư", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#ffd700" },
+        { id: "phuong_thien_duc", name: "Phượng Thiên Dực", title: "Đại Trưởng Lão", realm: "Hóa Thần", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#ff8c00" },
+        { id: "phuong_kim_si", name: "Phượng Kim Sí", title: "Tả Hộ Pháp", realm: "Hóa Thần", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#daa520" }
+    );
+    relationships.push(
+        { source: "phuong_tieu", target: "phuong_thien_duc", type: "Cha / Con", description: "Kỳ vọng cao nhưng luôn phải răn đe bản tính hiếu chiến." },
+        { source: "phuong_tieu", target: "phuong_kim_si", type: "Huynh / Đệ", description: "Hoàn toàn tin tưởng giao phó nhiệm vụ thanh trừng đẫm máu." },
+        { source: "phuong_thien_duc", target: "phuong_tieu", type: "Con / Cha", description: "Vừa sùng bái vừa e ngại uy áp thâm trầm của cha." },
+        { source: "phuong_thien_duc", target: "phuong_kim_si", type: "Cháu / Thúc", description: "Thường phối hợp càn quét, xem cách thúc thúc giết chóc là nghệ thuật." },
+        { source: "phuong_kim_si", target: "phuong_tieu", type: "Đệ / Huynh", description: "Tôn kính tuyệt đối, nguyện làm bàn tay dọn dẹp cản trở cho đại ca." },
+        { source: "phuong_kim_si", target: "phuong_thien_duc", type: "Thúc / Cháu", description: "Hài lòng với sức mạnh nhưng đôi lúc phải dọn hậu quả cho hắn." }
+    );
+}
