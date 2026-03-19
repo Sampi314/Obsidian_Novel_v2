@@ -66,6 +66,7 @@ arcs:
 - **Khu Vực:** Bắc Băng — sâu dưới lớp băng vĩnh cửu vùng tundra, nơi tầng đất đóng băng dày nhất.
 - **Thế Lực:** Hàn Độc Vi Trùng Đoàn (寒毒微虫团).
 - **Chức Vụ:** Trưởng Lão Phục Kích — chức vụ đặc biệt chỉ dành cho hắn, không có trong hệ thống cấp bậc thông thường của đoàn. Hắn là "vũ khí tối thượng" được chôn dưới băng, chỉ kích hoạt khi đoàn đối mặt nguy cơ diệt vong.
+- **Linh Căn:** Thủy — Thổ song linh căn biến dị, thiên về hấp thụ thụ động thay vì vận hành chủ động, phù hợp hoàn hảo với cơ chế ngủ đông.
 - **Xuất Thân:** Một trong những cá thể vi trùng cổ đại nhất còn tồn tại, sinh ra từ bào tử nguyên thủy trong kỷ nguyên Thái Cổ, phát triển đột biến khả năng ngủ đông siêu trường kỳ.
 
 ## II. NGOẠI HÌNH & KHÍ CHẤT
@@ -145,3 +146,5 @@ arcs:
 - **Truyền Thuyết "Tứ Tượng Băng":** Trong những cuộc họp hiếm hoi giữa các thế lực Bắc Băng, đôi khi có kẻ nhắc đến bốn pho tượng băng kỳ lạ tìm thấy trên vùng tundra — bốn tu sĩ tà đạo bị đông cứng trong tư thế vẫn đang đào xới, biểu cảm trên mặt nguyên vẹn sau hơn hai ngàn năm, ánh mắt đầy kinh hoàng nhìn xuống dưới chân như thể vừa nhìn thấy thứ gì đó từ lòng đất trồi lên. Không ai biết nguồn gốc bốn pho tượng ấy — Hàn Độc Vi Trùng Đoàn không bao giờ xác nhận hay phủ nhận. Chỉ có Hàn Độc Vương và Hàn Cốt biết rằng đó là tác phẩm đầu tiên của Đông Miên, lần tỉnh dậy đầu tiên cách đây hai ngàn rưỡi năm.
 
 - **Lời Đồn "Lớp Băng Biết Thở":** Thợ khai thác băng cổ vùng tundra thỉnh thoảng kể về hiện tượng kỳ lạ: có những vùng băng cứng như sắt, đục ngầu khác thường, và nếu áp tai vào sẽ nghe thấy một nhịp đập cực chậm — chậm đến mức mỗi nhịp cách nhau hàng phút — như tiếng thở của thứ gì đó đang ngủ say bên dưới. Dân gian gọi những vùng ấy là "Địa Phế Băng" (地肺冰) — Lá Phổi Đất Bằng Băng — và tin rằng đó là nơi chính lòng đất Bắc Băng đang hít thở. Thực tế, đó là nhịp phân giải hàn độc thụ động của Trùng Đông Miên trong giấc ngủ, truyền qua lớp băng dưới dạng sóng rung vi mô mà tai người có thể cảm nhận mơ hồ trong im lặng tuyệt đối.
+
+- **Bí Mật "Nhật Ký Kén":** Chỉ có Trùng Hàn Độc Vương biết rằng lớp kén cổ của Đông Miên thực chất chứa toàn bộ lịch sử hơn ba ngàn năm của đoàn — mỗi lớp tinh thể ghi lại sự kiện của một lần tỉnh dậy, mã hóa dưới dạng vân sáng chỉ đọc được bằng thần thức Nguyên Anh. Nếu ngày nào đoàn bị hủy diệt hoàn toàn, kén của Đông Miên sẽ là di vật duy nhất chứng minh Vi Tộc từng tồn tại — một cuốn sử sống, đang ngủ, dưới lớp băng vĩnh cửu.
