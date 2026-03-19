@@ -20,16 +20,38 @@ Trạm được xây dựng trên một gò đất cao, lợi dụng địa hìn
 - **Tháp Canh:** 4 tháp canh ở 4 góc, luôn có cung thủ và tu sĩ Trúc Cơ túc trực. Trên đỉnh tháp có "Linh Nhãn Kính" để quan sát xa 50 dặm.
 - **Hộ Trạm Trận Pháp:** *Tiểu Sa Bích Trận (Cấp 5)* - Khi kích hoạt sẽ tạo ra một vòm cát cứng như thép bao phủ toàn bộ trạm, chặn đứng các cuộc tấn công của tu sĩ Kim Đan trong thời gian ngắn.
 
+### 3. Cảnh Quan Chi Tiết
+- **Nhìn Từ Xa:** Giữa biển cát vàng bất tận, Trạm Số 7 nổi lên như một hòn đảo đá. Tường thành màu vàng đất hòa lẫn với sa mạc, nhưng bốn tháp canh với cờ hiệu Thiên Sa Thương Hội (hình lạc đà vàng trên nền xanh) phấp phới trên đỉnh là dấu hiệu nhận biết từ xa.
+- **Cổng Chính:** Cổng đá Xích Nham nặng nề, trên đỉnh khắc dòng chữ "Đệ Thất Dịch" bằng Hán tự cổ, mạ vàng nhưng đã bạc màu theo thời gian. Hai bên cổng là tượng Sa Sư Tử (Sư Tử Sa Mạc) bằng đá, miệng ngậm ngọc dạ quang soi sáng lối vào vào ban đêm.
+- **Quảng Trường Trung Tâm:** Khoảng đất trống rộng trước Đại Sảnh Giao Dịch, nơi diễn ra chợ phiên mỗi buổi sáng. Sáng sớm, quảng trường tấp nập với tiếng mặc cả, tiếng Sa Trùng gầm rú và mùi thức ăn từ các gian hàng lưu động. Chiều tối, nơi đây trở thành sân tập cho Hộ Thương Đội.
+- **Giếng Sa Tuyền:** Giếng nước duy nhất của trạm, nằm ở sân sau Sa Khách Sạn. Nước ngọt được bơm lên từ mạch ngầm sâu 200 trượng, trong lành nhưng hơi mặn. Giếng được canh gác suốt ngày đêm — ở sa mạc, nước quý hơn vàng.
+
 ## III. CHỨC NĂNG & DỊCH VỤ
 - **Tiếp Tế:** Cung cấp nước ngọt, lương khô, Sa Viêm Tán, và các loại đan dược giải độc/hồi phục cơ bản.
 - **Thông Tin:** Có một quầy nhỏ của [Tình Báo Các](../Thế_Lực/Thiên_Sa_Thương_Hội.md), nơi bán bản đồ khu vực, tin tức thời tiết (bão cát), và tin tức về trộm cướp.
 - **Sửa Chữa:** Có thợ rèn và thợ trận pháp chuyên sửa chữa xe kéo, pháp bảo bị hỏng do bão cát.
+- **Hộ Tống:** Thuê Hộ Thương Đội để bảo vệ thương đoàn trên đường xuyên sa mạc. Giá cả tùy thuộc vào khoảng cách, mức nguy hiểm và số lượng hàng hóa.
+- **Y Liệu:** Một phòng thuốc nhỏ do một lão Đan Sư bậc trung quản lý, chuyên chữa trị các bệnh liên quan đến nhiệt sa, cháy nắng, mất nước và nhiễm độc cát.
 
-## IV. NHÂN VẬT QUAN TRỌNG TẠI ĐÂY
-- **Trạm Trưởng:** **Lão Hắc (Hắc Sa)** - Một tu sĩ Trúc Cơ Hậu Kỳ, cựu lính đánh thuê, mặt đầy sẹo, tính tình cộc cằn nhưng làm việc rất uy tín.
+## IV. ĐỜI SỐNG THƯỜNG NGÀY
+- **Buổi sáng:** Chợ phiên bắt đầu từ khi mặt trời chưa lên, khi nhiệt độ còn dễ chịu. Thương nhân bày bán hàng hóa, thợ săn đem chiến lợi phẩm trao đổi, Sa Trùng được cho ăn và chải lông.
+- **Buổi trưa:** Trạm gần như đóng cửa. Nhiệt độ sa mạc lên đến mức cực đoan, mọi người trú trong nhà đá mát mẻ. Chỉ có lính gác trên tháp canh mới phải chịu đựng cái nắng thiêu đốt, được trang bị Hàn Ngọc Phù để hạ nhiệt.
+- **Buổi tối:** Thời gian náo nhiệt nhất. Quán rượu trong Sa Khách Sạn mở cửa, các tu sĩ và thương nhân tụ tập ăn uống, kể chuyện phiêu lưu, đánh bạc và trao đổi tin tức. Đôi khi có ca nữ từ Trung Thổ biểu diễn, thu hút đông đảo khán giả.
+- **Ban đêm:** Sa mạc lạnh buốt, gió cát gào thét bên ngoài tường thành. Lính gác đốt lửa trên tháp canh, ánh sáng nhấp nháy trong đêm đen vô tận là dấu hiệu duy nhất cho biết nơi đây có sự sống.
+
+## V. NHÂN VẬT QUAN TRỌNG TẠI ĐÂY
+- **Trạm Trưởng:** **Lão Hắc (Hắc Sa)** - Một tu sĩ Trúc Cơ Hậu Kỳ, cựu lính đánh thuê, mặt đầy sẹo, tính tình cộc cằn nhưng làm việc rất uy tín. Ông ta cai quản Trạm Số 7 đã hơn 30 năm, biết rõ từng hạt cát trong bán kính 100 dặm.
 - **Hứa Nhược Thủy (Tạm trú):** Gia chủ Hứa Gia đang lưu lại đây để chỉ đạo việc tìm kiếm con trai [Hứa Thanh Vân](../Nhân_Vật/Hứa_Thanh_Vân.md). Sự hiện diện của bà khiến an ninh tại trạm được thắt chặt lên mức cao nhất.
 
-## V. VAI TRÒ TRONG CỐT TRUYỆN
+## VI. VAI TRÒ TRONG CỐT TRUYỆN
 - Là nơi [Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md) và [Lâm Phong](../Nhân_Vật/Lâm_Phong.md) nhận nhiệm vụ tìm người ở [Chương 12](../Chương_Truyện/Góc_Nhìn_Chính/Chương_00012_Thương_Vụ_Bạc_Tỷ.md).
 - Là điểm tập kết sau khi giải cứu thành công Hứa Thanh Vân ở [Chương 16](../Chương_Truyện/Góc_Nhìn_Chính/Chương_00016_Trở_Về_Cát_Bụi.md).
 - Nơi diễn ra cuộc họp quan trọng bàn về bí mật [Long Cốt](../Kỳ_Vật/Long_Cốt.md) và kế hoạch chống lại [Vạn Độc Môn](../Thế_Lực/Vạn_Độc_Môn.md).
+
+## VII. GIAI THOẠI
+
+> *"Ở sa mạc, Trạm Số 7 không chỉ là nơi dừng chân — nó là sự sống. Giữa biển cát chết chóc, ánh đèn trên tháp canh giống như ngôi sao dẫn đường cho lữ khách. Không ít kẻ đã gục ngã chỉ cách tường thành vài trăm trượng, vì họ không nhìn thấy ánh đèn ấy trong bão cát."*
+> — Lão Hắc, Trạm Trưởng
+
+> *"Nếu muốn biết Tây Mạc rộng lớn và khắc nghiệt đến mức nào, hãy ngồi trên tháp canh Trạm Số 7 vào một đêm quang đãng. Nhìn ra bốn phía, chỉ có cát và bóng tối. Rồi ngươi sẽ hiểu vì sao người sa mạc trân trọng từng giọt nước, từng que củi, và từng mạng sống."*
+> — Trích "Sa Mạc Hành Ký" của một thương nhân Trung Thổ

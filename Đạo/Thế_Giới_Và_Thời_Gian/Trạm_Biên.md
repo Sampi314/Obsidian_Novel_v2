@@ -11,15 +11,47 @@
 - Mùi đặc trưng: Rỉ sét, phân ngựa, máu khô, mùi đan dược rẻ tiền, tạo thành một mớ bòng bong hôi hám.
 - Tụ Bảo Các: Quán trọ kiêm nơi giao dịch vật phẩm lớn nhất thị trấn. Biển hiệu mờ tịt, không gian tranh tối tranh sáng, ám đầy mùi rượu thịt và khói thuốc.
 
-## III. VAI TRÒ & HOẠT ĐỘNG
+## III. CẢNH QUAN CHI TIẾT
+
+### 1. Cổng Trạm
+- Gọi là "cổng" cho sang chứ thực chất chỉ là hai cái cọc gỗ cao hơn đầu người, nối bằng một tấm ván khắc hai chữ "Trạm Biên" đã phai mờ. Một bên cọc bị mối mọt ăn gần gãy, nghiêng lệch sang trái.
+- Hai bên cổng có hai lều canh nhỏ, nhưng hiếm khi thấy ai gác. Lính canh thường nằm ngủ trong lều hoặc bỏ đi uống rượu ở Tụ Bảo Các.
+- Con đường đất dẫn vào trạm lầy lội khi mưa, bụi mù khi nắng, vương vãi xương thú và vỏ đan dược.
+
+### 2. Chợ Đen
+- Nằm ở trung tâm thị trấn, là một khoảng đất trống nơi các gian hàng tạm bợ dựng bằng vải bạt và cọc gỗ tụ lại. Không có quy hoạch, không có trật tự — ai đến trước dựng trước, kẻ yếu hơn bị đẩy ra rìa.
+- Hàng hóa giao dịch chủ yếu: tai và nanh ma thú (bằng chứng săn bắt), nọc rắn, thảo dược hoang dã, lương khô ẩm mốc, vũ khí cũ, và đôi khi cả bản đồ vẽ tay (chất lượng không đảm bảo) của các khu vực rừng sâu.
+- Mỗi buổi sáng, một hồi kẻng rỉ sét được gõ lên báo hiệu phiên chợ bắt đầu. Nhưng giao dịch thực sự quan trọng chỉ diễn ra vào ban đêm, trong các phòng kín phía sau Tụ Bảo Các.
+
+### 3. Khu Dân Cư
+- Dãy nhà gỗ tồi tàn dọc theo con suối nhỏ chảy qua rìa thị trấn. Nước suối đục ngầu, lẫn rác thải và đôi khi cả máu. Không ai dám tắm hay uống nước ở đây.
+- Đa phần cư dân là tán tu thất bại, cựu lính đánh thuê tàn phế, hoặc phàm nhân bỏ xứ không còn nơi nào khác để đi. Họ sống bằng việc buôn bán lặt vặt, làm phu khuân vác, hoặc bán tin tức cho thợ săn.
+- Vào ban đêm, tiếng cãi vã, tiếng chai vỡ và đôi khi tiếng thét đau đớn vang lên từ các ngõ hẻm. Không ai can thiệp, không ai hỏi thăm — đó là nhịp sống bình thường ở Trạm Biên.
+
+## IV. VAI TRÒ & HOẠT ĐỘNG
 - Là điểm dừng chân cuối cùng trước khi tiến vào các khu rừng hung hiểm của Nam Cương, hoặc trạm nghỉ ngơi đầu tiên cho những kẻ từ cõi chết trở về.
 - Nơi tụ tập của giang hồ, tán tu nghèo, lính đánh thuê, cường đạo và thợ săn.
 - Diễn ra các hoạt động giao dịch chợ đen: trao đổi chiến lợi phẩm (tai ma thú, nọc độc, thảo dược) lấy lương khô, nước sạch, linh thạch hạ phẩm.
 - Không có luật lệ rõ ràng, mạnh được yếu thua. Bạo lực, lừa gạt, chèn ép giá cả (như lão chưởng quỹ Tụ Bảo Các) là chuyện thường ngày. Bản đồ vùng lân cận là thứ bị cấm mua bán công khai.
 
-## IV. NHÂN VẬT & THẾ LỰC
+## V. LỊCH SỬ
+- **Một trăm năm trước:** Trạm Biên ban đầu là một trạm gác quân sự nhỏ do một phái chính đạo địa phương thiết lập để kiểm soát tu sĩ ra vào Nam Cương. Nhưng sau khi phái ấy suy vong, trạm gác bị bỏ hoang rồi dần biến thành nơi tụ tập của đám giang hồ vô gia cư.
+- **Năm mươi năm trước:** Lão chưởng quỹ đời đầu của Tụ Bảo Các (cha của lão chưởng quỹ hiện tại) đã biến nơi đây thành trung tâm giao dịch chợ đen bằng cách đặt ra quy tắc duy nhất: "Không giết người trong quán." Quy tắc này tồn tại đến ngày nay, dù thường xuyên bị vi phạm.
+- **Hiện tại:** Trạm Biên ngày càng tấp nập do hoạt động khai thác tài nguyên ở Nam Cương gia tăng, nhưng cũng ngày càng hỗn loạn hơn khi không có thế lực nào đủ mạnh để duy trì trật tự.
+
+## VI. NHÂN VẬT & THẾ LỰC
 - Quản lý tự phát bởi các băng nhóm địa phương hoặc chưởng quỹ các quán trọ (có nuôi hộ vệ).
 - Không có sự cai trị trực tiếp của các tông môn lớn.
+- **Lão chưởng quỹ Tụ Bảo Các:** Một phàm nhân béo ục ịch nhưng tinh ranh, chuyên chèn ép giá mua và nâng giá bán. Hắn nuôi ba tên hộ vệ Luyện Khí kỳ để đe dọa khách hàng bất mãn.
+- **Băng Mặt Sẹo:** Một nhóm cường đạo nhỏ chuyên cướp bóc thợ săn trở về từ rừng, do gã mặt sẹo dẫn đầu. Chúng không dám gây sự với tu sĩ Trúc Cơ trở lên.
 
-## V. SỰ KIỆN LIÊN QUAN
+## VII. SỰ KIỆN LIÊN QUAN
 - Lâm Phong (Truy Phong Khách) đã ghé qua đây sau khi rời Hắc Mộc Lâm. Hắn mang tai của Hắc Huyết Lang đến Tụ Bảo Các để đổi vật tư nhưng bị chưởng quỹ chèn ép và một gã mặt sẹo đe dọa cướp bóc. Lâm Phong đã dùng Hoa Huyễn Độc và khinh công để cướp vật tư và trốn thoát, để lại một bài học sinh tồn đẫm máu về thế giới loài người.
+
+## VIII. GIAI THOẠI
+
+> *"Ở Trạm Biên, đừng tin bất kỳ ai mỉm cười với ngươi. Họ không tốt bụng — họ đang tính xem ngươi đáng bao nhiêu linh thạch."*
+> — Lời khuyên của một tán tu già cho những kẻ mới đến
+
+> *"Nếu muốn biết Nam Cương tàn khốc đến mức nào, chỉ cần nhìn vào mắt những kẻ trở về Trạm Biên. Ánh mắt ấy không còn sợ hãi — chúng đã vượt qua nỗi sợ. Nhưng chúng cũng không còn hy vọng."*
+> — Nhật ký hành trình của một thương nhân vô danh
