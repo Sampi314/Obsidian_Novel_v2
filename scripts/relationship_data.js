@@ -2467,3 +2467,69 @@ if (typeof characters !== 'undefined') {
         { source: "nham_dao", target: "nham_quang", type: "Bảo Vệ", description: "Xem Nham Quang như người em út cần được bảo vệ mỗi khi đối mặt với hiểm họa." }
     );
 }
+
+// San Hô Vi Trùng — Vô Tận Hải
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "san_bach_ngoc", name: "San Bạch Ngọc", title: "Kiến Trúc Sư San Hô", realm: "Kim Đan", faction: "San Hô Vi Trùng", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#e0f0ff" },
+        { id: "san_huyen_thach", name: "San Huyền Thạch", title: "Khai Khoáng Viên", realm: "Trúc Cơ", faction: "San Hô Vi Trùng", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#4a0080" },
+        { id: "san_hai_yen_sao", name: "San Hải Yến Sào", title: "Trưởng Lão Sửa Chữa", realm: "Kim Đan", faction: "San Hô Vi Trùng", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#d4a060" }
+    );
+    relationships.push(
+        { source: "san_bach_ngoc", target: "san_hai_yen_sao", type: "Đồng Liêu", description: "Một xây mới, một sửa chữa — phối hợp ăn ý bảo toàn rạn san hô." },
+        { source: "san_bach_ngoc", target: "san_huyen_thach", type: "Cộng Tác/Lo Lắng", description: "Coi trọng tay nghề khai khoáng nhưng lo lắng việc khai thác lõi san hô làm yếu nền móng." },
+        { source: "san_huyen_thach", target: "san_bach_ngoc", type: "Kính Trọng", description: "Kính trọng tài năng kiến trúc, cung cấp vật liệu cổ cho nàng." },
+        { source: "san_huyen_thach", target: "san_hai_yen_sao", type: "Nể Phục", description: "Nể phục trưởng lão sửa chữa, người thường âm thầm dọn dẹp hậu quả khai khoáng." },
+        { source: "san_hai_yen_sao", target: "san_bach_ngoc", type: "Kính Trọng", description: "Kính trọng kiến trúc sư, luôn sẵn sàng hỗ trợ công trình." },
+        { source: "san_hai_yen_sao", target: "san_huyen_thach", type: "Bao Dung", description: "Bao dung với kẻ khai khoáng quá tay, xem đó là cơ duyên hoàn thiện kỹ năng." }
+    );
+}
+
+// Độc Lập — Thiên Trụ
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "giao_van_thien", name: "Giao Vân Thiên", title: "Lưu Vong", realm: "Trúc Cơ Hậu Kỳ", faction: "Độc Lập", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#2e8b57" },
+        { id: "khuan_thien_co", name: "Khuẩn Thiên Cơ", title: "Tiên Tri Sư", realm: "Nguyên Anh", faction: "Độc Lập", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#800080" },
+        { id: "loa_thien_hai_am", name: "Loa Thiên Hải Âm", title: "Truyền Tin Biển-Núi", realm: "Trúc Cơ Viên Mãn", faction: "Độc Lập", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#ff69b4" }
+    );
+    relationships.push(
+        { source: "giao_van_thien", target: "loa_thien_hai_am", type: "Tri Kỷ", description: "Đồng cảnh ngộ Hải Tộc lưu vong, Loa Thiên Hải Âm mang tin biển cả cho hắn." },
+        { source: "loa_thien_hai_am", target: "giao_van_thien", type: "Tri Kỷ", description: "Hiểu nỗi nhớ biển của Giao Nhân cô độc, thường xuyên mang tin tức biển khơi lên núi." },
+        { source: "khuan_thien_co", target: "giao_van_thien", type: "Quan Sát", description: "Nhìn thấy vận mệnh kỳ lạ nhưng không tiết lộ, chỉ nói 'nước sẽ chảy ngược về nguồn'." },
+        { source: "loa_thien_hai_am", target: "khuan_thien_co", type: "Kính Sợ/Tò Mò", description: "Vừa kính sợ vừa tò mò về khả năng tiên tri, thỉnh thoảng đến kể chuyện biển." }
+    );
+}
+
+// Phản Loạn Long Tử — Vô Tận Hải
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "long_hac_da", name: "Long Hắc Dạ", title: "Thủ Lĩnh / Hắc Long", realm: "Nguyên Anh Sơ Kỳ", faction: "Phản Loạn Long Tử", region: "Vô Tận Hải", role: "leader", pov: false, avatar_color: "#1a1a2e" },
+        { id: "long_ngoc_han", name: "Long Ngọc Hàn", title: "Phó Thủ Lĩnh", realm: "Kim Đan Hậu Kỳ", faction: "Phản Loạn Long Tử", region: "Vô Tận Hải", role: "leader", pov: false, avatar_color: "#b0c4de" },
+        { id: "long_thanh_phong", name: "Long Thanh Phong", title: "Liên Lạc Viên", realm: "Kim Đan Trung Kỳ", faction: "Phản Loạn Long Tử", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#32cd32" }
+    );
+    relationships.push(
+        { source: "long_hac_da", target: "long_ngoc_han", type: "Đồng Chí", description: "Phó thủ lĩnh đáng tin cậy nhất, bổ sung cho nhau — Hắc Dạ quyết đoán, Ngọc Hàn thận trọng." },
+        { source: "long_hac_da", target: "long_thanh_phong", type: "Trân Trọng/Lo Lắng", description: "Trân trọng sự trung thành nhưng lo lắng tính bốc đồng gây rắc rối." },
+        { source: "long_ngoc_han", target: "long_hac_da", type: "Trung Thành", description: "Tuyệt đối trung thành, một trong hai người biết danh tính thật của Hắc Long." },
+        { source: "long_ngoc_han", target: "long_thanh_phong", type: "Bảo Hộ", description: "Xem như em trai cần bảo vệ, thường phải kìm hãm tính nóng nảy." },
+        { source: "long_thanh_phong", target: "long_hac_da", type: "Tôn Kính", description: "Coi thủ lĩnh như anh cả, sẵn sàng chết vì lý tưởng." },
+        { source: "long_thanh_phong", target: "long_ngoc_han", type: "Bất Mãn/Kính Trọng", description: "Cho rằng phó thủ lĩnh quá chậm chạp, nhưng trong thâm tâm biết nàng đúng." }
+    );
+}
+
+// Tuyết Cự Nhân Lạc Đoàn — Bắc Băng
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "nham_ban_than", name: "Nham Bán Thân", title: "Phó Đoàn Trưởng", realm: "Trúc Cơ Sơ Kỳ", faction: "Tuyết Cự Nhân Lạc Đoàn", region: "Bắc Băng", role: "combat", pov: false, avatar_color: "#696969" },
+        { id: "son_tieu_nhi", name: "Sơn Tiểu Nhi", title: "Ấu Cự Nhân", realm: "Luyện Khí Sơ Kỳ", faction: "Tuyết Cự Nhân Lạc Đoàn", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#f5f5dc" },
+        { id: "thach_noi_da", name: "Thạch Nói Đá", title: "Cự Tộc Trẻ Thạch Linh", realm: "Luyện Khí Hậu Kỳ", faction: "Tuyết Cự Nhân Lạc Đoàn", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#a0a0a0" }
+    );
+    relationships.push(
+        { source: "nham_ban_than", target: "son_tieu_nhi", type: "Cha Nuôi", description: "Âm thầm nuôi dưỡng đứa trẻ mồ côi như con ruột, dù không bao giờ nói ra." },
+        { source: "nham_ban_than", target: "thach_noi_da", type: "Bảo Hộ", description: "Lặng lẽ canh gác khi Thạch Nói Đá thử nghiệm năng lực giao tiếp với đá." },
+        { source: "son_tieu_nhi", target: "nham_ban_than", type: "Yêu Thương", description: "Bám riết lấy người 'cha nuôi', ngủ cuộn tròn dưới cánh tay nham thạch." },
+        { source: "son_tieu_nhi", target: "thach_noi_da", type: "Bạn Thân", description: "Bạn đồng trang lứa duy nhất, một làm mềm đá, một nói chuyện với đá." },
+        { source: "thach_noi_da", target: "nham_ban_than", type: "Biết Ơn", description: "Biết ơn người bảo hộ luôn canh gác và đưa đi các vùng đá cổ." },
+        { source: "thach_noi_da", target: "son_tieu_nhi", type: "Bạn Thân", description: "Bạn thân duy nhất, cùng chơi tạo tác phẩm điêu khắc kỳ lạ bên mỏ đá." }
+    );
+}
