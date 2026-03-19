@@ -1,15 +1,8 @@
 ## TỔNG HỢP LỊCH SỬ (tự động nén)
-- Phiên trước: Điền thông tin 3 nhân vật Băng Ngục Đào Vong Giả.
+- Phiên trước: Hoàn thành Task 9 cho 3 nhân vật Thủy Tinh Thạch Phường (Tây Mạc).
 
 ## PHIÊN GẦN NHẤT
-- Đã hoàn thành Task 9 cho 3 nhân vật phe Linh Hồ Tàn Tộc (Vô Tận Hải): Hồ Cửu Thiên, Hồ Linh Hỏa, Hồ Nguyệt Quang.
+- Hoàn thành Task 9: Điền chi tiết cho 3 nhân vật San Hô Thủ Hộ Đoàn (Tây Mạc): Giải Thiết Kìm, Hà Thiên Nhảy, Loa Hải Thanh Âm.
 - Cập nhật relationship_data.js.
 - Cập nhật HỒ_SƠ_THẾ_GIỚI.md và INSTRUCTIONS.md.
-
-## PHIÊN GẦN NHẤT
-- Đã hoàn thiện hồ sơ cho 3 nhân vật phe Thiên Mộc Thành (Thiên Trụ): Mộc Thiên Hào, Mộc Thiên Quân, Mộc Vân.
-- Cập nhật relationship_data.js.
-- Cập nhật HỒ_SƠ_THẾ_GIỚI.md.
-
-## PHIÊN GẦN NHẤT
-- Hoàn thành Task 9: Điền chi tiết cho 3 nhân vật Thủy Tinh Thạch Phường (Tây Mạc): Tinh Minh, Tinh Sắc, Tinh Thấu. Cập nhật relationship_data.js và HỒ_SƠ_THẾ_GIỚI.md. Đã chạy test và pass.
+- Chạy các script để đảm bảo tính toàn vẹn của dữ liệu và không có lỗi trong Frontend.
