@@ -683,6 +683,39 @@ const relationshipData = {
       "avatar_color": "#F0FFFF"
     },
     {
+      "id": "ly_cuong_phong",
+      "name": "Lý Cuồng Phong",
+      "title": "Chân Truyền",
+      "realm": "Kim Đan",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#212121"
+    },
+    {
+      "id": "phong_cuong",
+      "name": "Phong Cuồng",
+      "title": "Hộ Pháp",
+      "realm": "Nguyên Anh",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#424242"
+    },
+    {
+      "id": "phong_liet",
+      "name": "Phong Liệt",
+      "title": "Ngoại Môn",
+      "realm": "Trúc Cơ",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#616161"
+    },
+    {
       "id": "hac_phong_dai_vuong",
       "name": "Hắc Phong Đại Vương",
       "title": "Minh Chủ",
@@ -944,6 +977,36 @@ const relationshipData = {
       "target": "hoang_duoc_su",
       "type": "ally",
       "description": "Dược Sư Trưởng kính cẩn, một vị tiền bối đáng tin cậy."
+    },
+    {
+      "source": "phong_cuong",
+      "target": "ly_cuong_phong",
+      "type": "master",
+      "description": "Thường xuyên giao phó nhiệm vụ nguy hiểm."
+    },
+    {
+      "source": "ly_cuong_phong",
+      "target": "phong_cuong",
+      "type": "master",
+      "description": "Sợ hãi và phải tuân lệnh của Hộ Pháp."
+    },
+    {
+      "source": "ly_cuong_phong",
+      "target": "phong_liet",
+      "type": "ally",
+      "description": "Sai vặt và sử dụng làm bia đỡ đạn."
+    },
+    {
+      "source": "phong_liet",
+      "target": "ly_cuong_phong",
+      "type": "master",
+      "description": "Kinh sợ và phục tùng đàn anh."
+    },
+    {
+      "source": "phong_liet",
+      "target": "phong_cuong",
+      "type": "master",
+      "description": "Tuân lệnh cấp trên, không dám làm trái."
     },
     {
       "source": "lien_tuyet_nhi",
