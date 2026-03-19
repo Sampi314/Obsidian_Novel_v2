@@ -2446,3 +2446,24 @@ if (typeof characters !== 'undefined') {
         { source: "hoang_ngoc_duong", target: "hoang_minh_nguyet", type: "Biết Ơn", description: "Người bà che chở cậu, người chia sẻ những bí mật y lý để Ngọc Dương sống sót." }
     );
 }
+
+// Địa Tâm Thám Hiểm Đội (Tây Mạc)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "tham_nham", name: "Thâm Nham", title: "Đội Trưởng", realm: "Trúc Cơ Viên Mãn", faction: "Địa Tâm Thám Hiểm Đội", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#b22222" },
+        { id: "nham_quang", name: "Nham Quang", title: "Thành Viên", realm: "Luyện Khí Hậu Kỳ", faction: "Địa Tâm Thám Hiểm Đội", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ff8c00" },
+        { id: "nham_thinh", name: "Nham Thính", title: "Thạch Tộc Nghe Đá", realm: "Trúc Cơ Sơ Kỳ", faction: "Địa Tâm Thám Hiểm Đội", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#8b4513" },
+        { id: "nham_dao", name: "Nham Đào", title: "Phó Đội", realm: "Trúc Cơ Trung Kỳ", faction: "Địa Tâm Thám Hiểm Đội", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#cd5c5c" }
+    );
+    relationships.push(
+        { source: "nham_quang", target: "tham_nham", type: "Tôn Kính", description: "Đội trưởng và là người truyền cảm hứng lớn nhất, luôn tin tưởng vào phán đoán của Thâm Nham." },
+        { source: "nham_quang", target: "nham_dao", type: "Hợp Tác", description: "Cặp bài trùng ăn ý: Nham Quang soi sáng, Nham Đào vẽ bản đồ." },
+        { source: "nham_quang", target: "nham_thinh", type: "Kính Trọng", description: "Kính trọng khả năng nghe đá và phối hợp nhịp nhàng giữa ánh sáng với âm thanh." },
+        { source: "nham_thinh", target: "tham_nham", type: "Trung Thành", description: "Nể phục quyết tâm khám phá cội nguồn của Đội trưởng, luôn được Thâm Nham bảo vệ." },
+        { source: "nham_thinh", target: "nham_dao", type: "Đồng Đội", description: "Trao đổi thông tin để đảm bảo Nham Đào có thể phác họa bản đồ chính xác." },
+        { source: "nham_thinh", target: "nham_quang", type: "Phụ Thuộc", description: "Dựa vào ánh sáng yếu ớt của Nham Quang để định vị trong lúc giao tranh." },
+        { source: "nham_dao", target: "tham_nham", type: "Cánh Tay Phải", description: "Một trong hai Phó Đội, cánh tay phải đắc lực bảo vệ Đội trưởng." },
+        { source: "nham_dao", target: "nham_thinh", type: "Phối Hợp", description: "Phối hợp chặt chẽ, dựa vào thông tin của Nham Thính để định hướng việc đào." },
+        { source: "nham_dao", target: "nham_quang", type: "Bảo Vệ", description: "Xem Nham Quang như người em út cần được bảo vệ mỗi khi đối mặt với hiểm họa." }
+    );
+}
