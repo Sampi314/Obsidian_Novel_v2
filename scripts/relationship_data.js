@@ -2429,3 +2429,20 @@ if (typeof characters !== 'undefined') {
         { source: "vo_danh", target: "hac_phong_dai_vuong", type: "Kẻ Thù", description: "Thủ lĩnh Sa Tặc Liên Minh, một con mồi mà Vô Danh vẫn đang kiên nhẫn bám đuổi và chực chờ cơ hội ám sát." }
     );
 }
+
+// Hoàng Sa Di Dân (Tây Mạc)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "hoang_co_nham", name: "Hoàng Cổ Nham", title: "Trưởng Lão", realm: "Phàm Nhân", faction: "Hoàng Sa Di Dân", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#8b7355" },
+        { id: "hoang_minh_nguyet", name: "Hoàng Minh Nguyệt", title: "Bô Lão", realm: "Phàm Nhân", faction: "Hoàng Sa Di Dân", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#deb887" },
+        { id: "hoang_ngoc_duong", name: "Hoàng Ngọc Dương", title: "Huyết Mạch Thức Tỉnh", realm: "Luyện Khí Sơ Kỳ", faction: "Hoàng Sa Di Dân", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#daa520" }
+    );
+    relationships.push(
+        { source: "hoang_co_nham", target: "hoang_minh_nguyet", type: "Tri Kỷ", description: "Bô lão đồng cấp, người bạn tri kỷ thường cùng lão bàn luận về tương lai của cộng đồng và các di vật tổ tiên." },
+        { source: "hoang_co_nham", target: "hoang_ngoc_duong", type: "Kỳ Vọng/Lo Sợ", description: "Thiếu niên trong tộc vừa thức tỉnh huyết mạch, được lão đặt nhiều kỳ vọng nhưng cũng lo sợ sức mạnh đó sẽ mang đến tai họa." },
+        { source: "hoang_minh_nguyet", target: "hoang_co_nham", type: "Đồng Sự", description: "Tri kỷ và đồng sự lâu năm, bà là người hiếm hoi khuyên giải được lão khi có mâu thuẫn thế hệ." },
+        { source: "hoang_minh_nguyet", target: "hoang_ngoc_duong", type: "Chăm Sóc", description: "Người bà chăm lo sức khỏe từ bé, luôn dặn dò cậu phải cẩn thận với bí mật huyết mạch." },
+        { source: "hoang_ngoc_duong", target: "hoang_co_nham", type: "Áp Lực", description: "Trưởng lão của tộc, người đặt trọng trách lớn lên vai cậu nhưng thường xuyên giám sát quá mức." },
+        { source: "hoang_ngoc_duong", target: "hoang_minh_nguyet", type: "Biết Ơn", description: "Người bà che chở cậu, người chia sẻ những bí mật y lý để Ngọc Dương sống sót." }
+    );
+}

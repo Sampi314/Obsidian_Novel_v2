@@ -12,12 +12,12 @@
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Giải Thiết Kìm, Hà Thiên Nhảy, Loa Hải Thanh Âm thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
-### [Phiên trước] - Hoàn thiện nhân vật Băng Ngục Đào Vong Giả
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Cương Thạch Nữ, Hắc Diện Nhân, và Lãnh Vô Tâm thuộc khu vực Bắc Băng.
+### [Hiện Tại] - Hoàn thiện nhân vật Hoàng Sa Di Dân
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hoàng Cổ Nham, Hoàng Minh Nguyệt, và Hoàng Ngọc Dương thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
-### [Phiên trước] - Hoàn thiện nhân vật Thâm Hải Vi Linh
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Linh U Quang, Linh Vạn Trượng, và Linh Vực Uyên thuộc khu vực Vô Tận Hải.
+### [Phiên trước] - Hoàn thiện nhân vật Băng Ngục Đào Vong Giả
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Cương Thạch Nữ, Hắc Diện Nhân, và Lãnh Vô Tâm thuộc khu vực Bắc Băng.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
 ### [Phiên trước] - Hoàn thiện nhân vật Huyết Hổ Hạ Chúng
@@ -53,10 +53,4 @@
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
 
-- [Linh Hồ Tàn Tộc] Đã điền thông tin chi tiết (Sections II-V) cho Hồ Cửu Thiên, Hồ Linh Hỏa, Hồ Nguyệt Quang.
-
 - [Hoàn Thành] Đã điền chi tiết 3 nhân vật Tinh Minh, Tinh Sắc, Tinh Thấu (Thủy Tinh Thạch Phường - Tây Mạc).
-
-### [Phiên hiện tại] - Hoàn thiện nhân vật Thiên Sa Thương Hội
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Phạm Thương Đạo, Trần Khoáng Sơn, và Vô Danh thuộc khu vực Tây Mạc.
-- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
