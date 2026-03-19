@@ -1,6 +1,7 @@
 # Hồ Sơ Thế Giới: Cố Nguyên Giới
 
 ### Tình trạng cập nhật gần nhất
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **San Hô Đảo Quốc** (Vô Tận Hải): **Thủy Tinh**, **Triều Bích Hải**, và **Triều Thiên Vệ**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Sóng Vi Ba Liên Lạc** (Vô Tận Hải): **Ba Cộng Minh**, **Ba Hải Vọng**, và **Ba Linh Thoại**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Phiêu Miễu Băng Hải** (Bắc Băng): **Lam Tịnh Thủy**, **Mộng Hàn Yên**, và **Nguyệt Ảnh Hồ**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Linh Sa Khuẩn Đoàn** (Tây Mạc): **Khuẩn Bạch Cốt**, **Khuẩn Dạ Thực**, và **Khuẩn Hắc Nhưỡng**.
@@ -663,6 +664,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Phượng Kim Sí (Tả Hộ Pháp - Hóa Thần Hậu Kỳ):** Em trai Phượng Tiêu, sát thủ tàn nhẫn với đôi mắt có khả năng phát ra *Kim Quang Xuyên Đồng* gây mù lòa đối thủ, tự xem mình là "bàn tay nhuốm máu" thanh tẩy kẻ dị giáo cho anh trai.
 
 ### San Hô Đảo Quốc (Vô Tận Hải)
+- **Thủy Tinh (Nữ Vương), Triều Thiên Vệ (Thống Lĩnh Hải Vệ Quân), Triều Bích Hải (Đội Trưởng Hải Vệ):** Hải Tộc. Nữ vương Thủy Tinh (Nguyên Anh Đỉnh Phong) hiền từ, tinh thông âm nhạc chữa lành và huyễn thuật, dùng Thủy Tinh Linh Ca bảo vệ quốc gia. Triều Thiên Vệ trầm ổn, kỷ luật thép, dùng Hải Triều Cuồng Nộ nghiền nát địch. Triều Bích Hải nhiệt huyết bộc trực, tiên phong dùng sóng âm và thương san hô xuyên phá phòng tuyến địch.
 - **Ngư Ngân Lân Hà (Vệ Binh Trưởng), Ngư Thiên Ca (Đại Nhạc Sư), Ngư Thiên Lãng (Thương Nhân):** Các nhân vật đại diện cho San Hô Đảo Quốc. Ngân Lân Hà nghiêm nghị bảo vệ ranh giới bằng sóng âm; Thiên Ca điềm đạm dùng huyễn thuật và âm nhạc để chữa lành; Thiên Lãng linh hoạt khôn khéo mở rộng mạng lưới giao thương. Họ tạo nên bức tranh đa dạng về sức mạnh, nghệ thuật và sự khéo léo của cư dân đảo quốc.
 - **Hải Nguyệt Ca (Viện Chủ Linh Ca Viện):** Nhân Ngư hoàng tộc thanh tao thoát tục, đạt cảnh giới Thủy Tinh Linh Ca, dùng tiếng hát để thanh tẩy tâm trí và điều khiển Lưu Ly Huyễn Hải Trận.
 - **Hải Vân Dao (Đại Sư Linh Ca):** Nữ đệ tử Kim Đan trẻ trung, chuyên dùng Huyễn Ba Mê Ảo Khúc để thu nạp và khống chế tâm ma của tu sĩ.
