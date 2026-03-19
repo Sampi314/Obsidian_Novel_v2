@@ -809,3 +809,8 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hồ Diệu Ngôn (Ngoại Giao - Trúc Cơ Hậu Kỳ):** Yêu Hồ ngoại giao xảo quyệt ngụy trang thành nữ quản sự duyên dáng, thao túng tâm lý và đọc "Khuy Tâm Thuật".
   - **Hồ Huyễn Dạ Thiên (Ảo Thuật Sư - Trúc Cơ Viên Mãn):** Ảo thuật sư trầm tĩnh trong lốt lão già mù, tinh thông "Sa Ảo Mê Cung" dụ lữ khách bỏ mạng.
   - **Hồ Hỏa Vĩ (Chiến Sĩ - Trúc Cơ Trung Kỳ):** Chiến binh tiên phong hình xăm ngọn lửa, bốc đồng dũng mãnh bảo vệ bằng đuôi lửa.
+
+### Sa Mãng Tộc (Tây Mạc)
+- **Huyền Sa:** Tộc Trưởng Sa Mãng Tộc (Trúc Cơ Hậu Kỳ). Xà yêu khổng lồ, điềm tĩnh và cẩn trọng, sở hữu Hắc Sa Kịch Độc. Đang tìm hiểu bí mật bộ xương Mãng cổ đại để tìm công pháp cho xà tộc.
+- **Xà Ám Lân:** Trưởng Lão (Trúc Cơ Sơ Kỳ). Xà yêu xám tro nóng nảy, hiếu chiến, sức mạnh cận chiến đáng nể nhưng dễ bị kích động. Tuyệt đối trung thành với Huyền Sa và căm thù Thiết Giáp Yêu Thú Đàn.
+- **Xà Linh Vĩ:** Trinh Sát (Luyện Khí Hậu Kỳ). Xà yêu nhỏ màu vàng nhạt, rụt rè và đa nghi. Kỹ năng Ẩn Sa Độn cực tốt, đóng vai trò tai mắt quan trọng cho toàn tộc nhưng luôn muốn tự do.
