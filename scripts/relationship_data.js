@@ -2709,3 +2709,20 @@ if (typeof characters !== 'undefined') {
         { source: "sa_cat_vuong", target: "hac_phong_dai_vuong", type: "Tôn Trọng", description: "Chạm trán vài lần và duy trì khoảng cách tôn trọng lẫn nhau." }
     );
 }
+
+// Tuyết Cự Nhân Đảo (Bắc Băng)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "nham_cuong_the", name: "Nham Cương Thể", title: "Dũng Sĩ Phòng Thủ", realm: "Kim Đan Sơ Kỳ", faction: "Tuyết Cự Nhân Đảo", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#ffffff" },
+        { id: "son_thiet_quyen", name: "Sơn Thiết Quyền", title: "Chiến Binh Tuần Tra", realm: "Trúc Cơ Viên Mãn", faction: "Tuyết Cự Nhân Đảo", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#e0ffff" },
+        { id: "son_dai_dia", name: "Sơn Đại Địa", title: "Dũng Sĩ Ném Băng", realm: "Kim Đan Hậu Kỳ", faction: "Tuyết Cự Nhân Đảo", region: "Bắc Băng", role: "supporting", pov: false, avatar_color: "#b0e0e6" }
+    );
+    relationships.push(
+        { source: "nham_cuong_the", target: "son_thiet_quyen", type: "Đồng Đội", description: "Cặp bài trùng hoàn hảo trên bờ biển, một kẻ thủ vững vàng, một kẻ xông pha cận chiến." },
+        { source: "son_thiet_quyen", target: "nham_cuong_the", type: "Đồng Đội", description: "Bằng hữu thân thiết, luôn nghe lời khuyên cản sự nóng nảy từ Cương Thể." },
+        { source: "nham_cuong_the", target: "son_dai_dia", type: "Phối Hợp", description: "Cương Thể chắn đòn từ xa, tạo thời gian cho Đại Địa ngắm chuẩn và ném băng dập tắt kẻ thù." },
+        { source: "son_dai_dia", target: "nham_cuong_the", type: "Tôn Trọng", description: "Rất nể phục sức chịu đựng phi thường của Cương Thể." },
+        { source: "son_thiet_quyen", target: "son_dai_dia", type: "Đồng Đội", description: "Một người nghiền nát địch gần, một người bắn phá địch xa." },
+        { source: "son_dai_dia", target: "son_thiet_quyen", type: "Hợp Tác", description: "Bọc lót cho Thiết Quyền khi hắn bị bao vây bằng những tảng băng khổng lồ." }
+    );
+}

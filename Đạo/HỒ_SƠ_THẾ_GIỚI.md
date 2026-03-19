@@ -419,7 +419,7 @@
     - [Sương Ma Uyển](Thế_Lực/Sương_Ma_Uyển.md)
     - [Băng Ngục Thành](Thế_Lực/Băng_Ngục_Thành.md)
     - [Hàn Kiếm Cốc](Thế_Lực/Hàn_Kiếm_Cốc.md) (Gồm Hàn Tiêu, Hoàng Đoạn Tuyết, Lê Kiếm Tâm)
-    - [Tuyết Cự Nhân Đảo](Thế_Lực/Tuyết_Cự_Nhân_Đảo.md)
+    - [Tuyết Cự Nhân Đảo](Thế_Lực/Tuyết_Cự_Nhân_Đảo.md) (Gồm Nham Cương Thể, Sơn Thiết Quyền, Sơn Đại Địa)
     - [Phiêu Miễu Băng Hải](Thế_Lực/Phiêu_Miễu_Băng_Hải.md) (Gồm Băng San Hô, Hàn Thanh Âm, Hải Cung)
     - [Thiên Sơn Đông Cốc](Thế_Lực/Thiên_Sơn_Đông_Cốc.md)
 - **Đông Hoang (Eastern Wilderness):**
@@ -735,6 +735,12 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Linh U Quang (Dẫn Đường Sư)**: Ánh sáng xanh lam huyền ảo tạo thành từ tỷ cá thể Vi Tộc, tò mò, soi sáng hải cấu tối tăm và làm hoa tiêu dưới Vực Thẳm Vạn Trượng.
   - **Linh Vạn Trượng (Thủ Vệ Hải Cấu)**: Bức tường sinh vật đỏ sẫm trải dài vạn trượng, lạnh lùng dùng áp suất cực hạn chặn đứng và nghiền nát tà vật muốn thoát khỏi phong ấn.
   - **Linh Vực Uyên (Thâm Hải Chủ)**: Ý thức tập thể khổng lồ bao trùm màu xanh đen, trầm lặng và uy nghiêm thao túng hải lưu, một mình gồng gánh sứ mệnh canh giữ tà vật Thượng Cổ.
+
+### Tuyết Cự Nhân Đảo (Bắc Băng)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Tuyết Cự Nhân Đảo** (Bắc Băng):
+  - **Nham Cương Thể (Dũng Sĩ Phòng Thủ):** Kim Đan Sơ Kỳ, sở hữu thân hình khổng lồ vững chãi như núi băng, sử dụng cơ thể làm tấm khiên chắn mọi đợt tấn công từ biển khơi.
+  - **Sơn Thiết Quyền (Chiến Binh Tuần Tra):** Trúc Cơ Viên Mãn, mang đôi nắm đấm cứng như băng tinh linh thạch, phong cách cận chiến bạo lực, nghiền nát mọi kẻ xâm nhập.
+  - **Sơn Đại Địa (Dũng Sĩ Ném Băng):** Kim Đan Hậu Kỳ, nổi bật với khả năng ném băng tầm xa có sức mạnh khủng khiếp và độ chính xác cao, bảo vệ đảo khỏi tàu thuyền địch.
 
 ### Tuyết Liên Dược Phường (Bắc Băng)
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Tuyết Liên Dược Phường** (Bắc Băng):
