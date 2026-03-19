@@ -5,6 +5,6 @@
 - [Gần đây]: Hoàn thành Task 9 cho 3 nhân vật thuộc Long Cung (Vô Tận Hải): Hắc Thiên, Hắc Ngạo Thiên, Hắc Lạc Nhạn.
 
 ## PHIÊN GẦN NHẤT
-- Đã hoàn thành Task 9 cho 3 nhân vật thuộc Linh Hồ Tàn Tộc (Vô Tận Hải): Hồ Tuyết Lan, Hồ Tuyết Nhi, Hồ Ảo Mộng Thiên.
+- Đã hoàn thành Task 9 cho 3 nhân vật thuộc Hải Thần Cung (Vô Tận Hải): Giao Vân Hà, Giải Huyền Giáp, Giải Thiết Giáp Vương.
 - Đã bổ sung đầy đủ các mục Ngoại Hình & Tính Cách, Năng Lực & Chiến Đấu, Các Mối Quan Hệ, và Tiểu Sử & Hành Trình.
-- Đã cập nhật `scripts/relationship_data.js` để kết nối 3 nhân vật này vào mạng lưới.
+- Đã cập nhật `scripts/relationship_data.js` để kết nối 3 nhân vật này vào mạng lưới quan hệ.

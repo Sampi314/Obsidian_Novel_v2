@@ -9,10 +9,15 @@
 - Báo cáo cũ (nén): Hoàn thiện Cổ Thạch Bộ Lạc, San Hô Vi Trùng, Thiên Mộc Thành, Tuyết Liên Dược Phường, Thủy Tinh Thạch Phường, Băng Ngục Thành, Huyết Hổ Hạ Chúng, Băng Ngục Đào Vong Giả. Địa Tâm Thám Hiểm Đội.
 - Các báo cáo truyện: Viết POV cho A Ngốc, Lâm Phong, Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hàn Thanh Nguyệt, Lục Trần, Ngô Công Trưởng Lão, Phương Vô Kỵ, Sở Lăng Sương, Triệu Thanh Hằng, Lý Tuyết Ưng, Ngao Đình, Lệ Nhược Thủy, Nham Thần, Lục Tiêu.
 - [Đã chuyển từ 10 Báo Cáo Gần Nhất] Hoàn thiện nhân vật Hoàng Sa Di Dân (Tây Mạc).
+- [Đã chuyển từ 10 Báo Cáo Gần Nhất] Hoàn thiện nhân vật San Hô Thủ Hộ Đoàn (Tây Mạc).
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật San Hô Đảo Quốc (Vô Tận Hải)
+### [Hiện Tại] - Hoàn thiện nhân vật Hải Thần Cung (Vô Tận Hải)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Giao Vân Hà, Giải Huyền Giáp, Giải Thiết Giáp Vương thuộc khu vực Vô Tận Hải.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật San Hô Đảo Quốc (Vô Tận Hải)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Thủy Tinh, Triều Thiên Vệ, Triều Bích Hải thuộc khu vực Vô Tận Hải.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -46,8 +51,4 @@
 
 ### [Phiên Trước] - Hoàn thiện nhân vật Tán Tu (Thiên Trụ)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hỏa Kiến Vương, Thiết Trùng, và Vân Nga Tiên Tử thuộc Tán Tu khu vực Thiên Trụ.
-- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-
-### [Phiên Trước] - Hoàn thiện nhân vật San Hô Thủ Hộ Đoàn
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Giải Thiết Kìm, Hà Thiên Nhảy, Loa Hải Thanh Âm thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
