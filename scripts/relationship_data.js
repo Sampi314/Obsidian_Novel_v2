@@ -2746,3 +2746,20 @@ if (typeof characters !== 'undefined') {
         { source: "hac_tuong_van", target: "thanh_nu_cuc_quang", type: "Cố Vấn", description: "Tôn kính như một vị thần, đồng thời là cố vấn tinh thần đưa ra những lời khuyên sâu sắc." }
     );
 }
+
+// Linh Hồ Tàn Tộc (Vô Tận Hải) - Update
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "ho_tuyet_lan", name: "Hồ Tuyết Lan", title: "Y Sư", realm: "Trúc Cơ Sơ Kỳ", faction: "Linh Hồ Tàn Tộc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#f8f8ff" },
+        { id: "ho_tuyet_nhi", name: "Hồ Tuyết Nhi", title: "Tộc Trưởng", realm: "Trúc Cơ Viên Mãn", faction: "Linh Hồ Tàn Tộc", region: "Vô Tận Hải", role: "leader", pov: false, avatar_color: "#ffffff" },
+        { id: "ho_ao_mong_thien", name: "Hồ Ảo Mộng Thiên", title: "Ảo Sư", realm: "Trúc Cơ Trung Kỳ", faction: "Linh Hồ Tàn Tộc", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#e6e6fa" }
+    );
+    relationships.push(
+        { source: "ho_tuyet_lan", target: "ho_tuyet_nhi", type: "Chị Em", description: "Người em dịu dàng luôn ủng hộ và chia sẻ gánh nặng với Tộc Trưởng." },
+        { source: "ho_tuyet_lan", target: "ho_ao_mong_thien", type: "Đồng Liêu", description: "Trưởng lão thường trêu chọc nàng nhưng hỗ trợ nàng tạo ảo ảnh ru ngủ ấu sinh." },
+        { source: "ho_tuyet_nhi", target: "ho_tuyet_lan", type: "Chị Em", description: "Chị gái nghiêm khắc nhưng vô cùng yêu thương em gái." },
+        { source: "ho_tuyet_nhi", target: "ho_ao_mong_thien", type: "Cánh Tay Phải", description: "Người trợ thủ đắc lực nhất giúp nàng bảo vệ hang ổ Tàn Tộc." },
+        { source: "ho_ao_mong_thien", target: "ho_tuyet_nhi", type: "Bảo Vệ", description: "Thề bảo vệ vị Tộc Trưởng trẻ tuổi này đến hơi thở cuối cùng." },
+        { source: "ho_ao_mong_thien", target: "ho_tuyet_lan", type: "Quan Tâm", description: "Thường xuyên ghé thăm trêu đùa để giảm bớt áp lực cho nàng Y Sư tận tụy." }
+    );
+}

@@ -701,6 +701,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hồ Cửu Thiên:** Hồ Con Luyện Khí Viên Mãn, mang huyết mạch Cửu Vĩ Thiên Hồ cực hiếm. Vẫn còn ngây thơ tò mò thế giới ngoài kia.
   - **Hồ Linh Hỏa:** Hộ Pháp Trúc Cơ Hậu Kỳ, trung niên khắc khổ, tận trung với bộ tộc và có sức mạnh chiến đấu lớn nhất hiện tại.
   - **Hồ Nguyệt Quang:** Giữ Nguyệt Quang Thạch Trúc Cơ Sơ Kỳ, thanh y tuấn tú và mang sứ mệnh bảo vệ bảo vật của Hồ Tộc phương Bắc.
+  - **Hồ Tuyết Lan:** Y Sư Trúc Cơ Sơ Kỳ, tận tụy, hy sinh thân mình che chở sinh mệnh cho mười hai ấu sinh chưa hóa hình.
+  - **Hồ Tuyết Nhi:** Tộc Trưởng Trúc Cơ Viên Mãn, bạch hồ hai trăm tuổi, mang trọng trách bảo vệ toàn tộc bằng mọi giá.
+  - **Hồ Ảo Mộng Thiên:** Ảo Sư Trúc Cơ Trung Kỳ, lão giả râu tóc bạc phơ, người duy trì kết giới bảo vệ gia tộc khỏi kẻ thù.
 
 - **San Hô Vi Trùng (Tây Mạc):**
   - **Trùng Mẫu:** San Hô Mẫu Trùng Luyện Khí Hậu Kỳ, hiện thân của ý chí tập thể, điều phối kiến tạo "san hô sa mạc" khổng lồ bảo vệ mạch ngầm Tây Mạc.
