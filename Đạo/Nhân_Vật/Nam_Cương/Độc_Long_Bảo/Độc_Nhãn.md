@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1221, 1400, 1355, 1212, 1375, 960]
+    relationships:
+      - character: Lưu Ám Ảnh
+        description: Long Ảnh Đội Trưởng, cánh tay phải chỉ huy đội trinh sát tinh nhuệ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Trần Phục Long
+        description: Phục Thú Viện Chủ, người quản lý toàn bộ thú chiến của Độc Long Bảo
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hoàng Thạch
+        description: Trưởng Lão đáng tin cậy nhất, phụ trách phòng thủ nội bảo
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 61
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐỘC NHÃN (獨眼)

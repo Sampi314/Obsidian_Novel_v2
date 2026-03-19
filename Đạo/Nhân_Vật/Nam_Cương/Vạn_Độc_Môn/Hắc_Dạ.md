@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Hậu Kỳ
-    methods: []
+    methods: [Hắc Dạ Vô Thanh]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1000, 1600, 1538, 1593, 1600, 1000]
+    relationships:
+      - character: Hàn Phong
+        description: Nhất Sát, đồng đội chiến đấu mà hắn phối hợp tốt nhất
+        feelings:
+          yeu: 33
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 0
+      - character: Bạch Vô Ảnh
+        description: Tam Sát, đồng đội có kỹ năng ẩn thân bổ sung
+        feelings:
+          yeu: 41
+          han: 0
+          kinh: 0
+          tin: 48
+          so: 0
+          on: 0
+      - character: Diệp Thanh Trúc
+        description: Ngũ Sát, đồng đội trẻ mà hắn ngầm hướng dẫn
+        feelings:
+          yeu: 27
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 0
+      - character: Liễu Lãnh Huyết
+        description: Xà Chi Hộ Pháp, cấp trên nhận lệnh trực tiếp
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 36
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẮC DẠ (黑夜)

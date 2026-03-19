@@ -7,12 +7,39 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [251, 296, 280, 293, 268, 285]
+    relationships:
+      - character: Oanh Lâm Ca
+        description: Anh trai ruột, người bảo vệ và dẫn dắt hắn từ nhỏ. Nam Ca kính trọng anh nhưng cũng muốn tự chứng minh bản thân
+        feelings:
+          yeu: 61
+          han: 0
+          kinh: 55
+          tin: 50
+          so: 0
+          on: 27
+      - character: Oanh Thúy Thanh
+        description: Chị họ, thường nhờ Nam Ca hát dẫn dụ khi nàng cần vượt qua vùng nguy hiểm để truyền tin
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Yến Thanh Tốc
+        description: Bạn bè cùng trang lứa, hay cùng nhau lang thang khắp rừng già. Thanh Tốc thường trêu chọc giọng hát "ủy mị" của Nam Ca
+        feelings:
+          yeu: 38
+          han: 0
+          kinh: 0
+          tin: 32
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: OANH NAM CA (鶯南歌)

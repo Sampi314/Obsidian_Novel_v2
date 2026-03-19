@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [Hàn Sương Dược Nhân Trận]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2000, 3000, 3000, 3000, 3000, 3000]
+    relationships:
+      - character: Âu Dương Vô Tích
+        description: Thái Thượng Trưởng Lão, sư phụ cũ mà bà kính trọng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 52
+          tin: 50
+          so: 0
+          on: 47
+      - character: Ân Mộc Thanh
+        description: Mộc Độc Sư Đường Chủ, đồng liêu hay hợp tác nghiên cứu
+        feelings:
+          yeu: 39
+          han: 0
+          kinh: 0
+          tin: 47
+          so: 0
+          on: 0
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ, cấp trên mà bà coi là vũ khí chứ không phải lãnh đạo thực sự
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 27
+          tin: 0
+          so: 0
+          on: 0
+      - character: Đàm Trầm Thủy
+        description: Thiềm Chi Hộ Pháp, kẻ mà bà ngầm theo dõi vì nghi ngờ lòng trung thành
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: -47
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CỔ HÀN SƯƠNG (古寒霜)

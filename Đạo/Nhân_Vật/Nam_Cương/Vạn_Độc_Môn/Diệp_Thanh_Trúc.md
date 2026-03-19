@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
-    methods: []
+    methods: [uyệt chiêu Thanh Trúc Bách Phát]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1092, 1272, 1211, 1387, 1054, 1400]
+    relationships:
+      - character: Hắc Dạ
+        description: Tứ Sát, đồng đội lớn tuổi ngầm hướng dẫn cô
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 0
+      - character: Phùng Tiêu
+        description: Lục Sát, đồng đội cùng trang lứa, bạn luyện tập thân thiết
+        feelings:
+          yeu: 77
+          han: 0
+          kinh: 0
+          tin: 52
+          so: 0
+          on: 38
+      - character: Đinh Huyết Mi
+        description: Nhị Sát, sư tỷ mà cô ngưỡng mộ nhưng không muốn bắt chước
+        feelings:
+          yeu: 42
+          han: 0
+          kinh: 73
+          tin: 44
+          so: 0
+          on: 0
+      - character: Hàn Phong
+        description: Nhất Sát, mục tiêu vượt qua của cô
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: DIỆP THANH TRÚC (葉青竹)

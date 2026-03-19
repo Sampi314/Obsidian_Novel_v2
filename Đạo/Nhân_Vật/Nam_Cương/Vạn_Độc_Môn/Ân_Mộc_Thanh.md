@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [Mộc Độc Vạn Hoa]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2475, 3000, 3000, 2690, 2271, 3000]
+    relationships:
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ, cấp trên mà ông phục tùng vì được tự do nghiên cứu
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 23
+          tin: 0
+          so: 0
+          on: 0
+      - character: Cổ Hàn Sương
+        description: Luyện Tà Đường Chủ, đồng liêu hay hợp tác nghiên cứu
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 0
+          tin: 40
+          so: 0
+          on: 0
+      - character: Ân Tiểu Độc
+        description: Nội Môn Đệ Tử, cháu họ mà ông ngầm bảo vệ
+        feelings:
+          yeu: 65
+          han: 0
+          kinh: 0
+          tin: 42
+          so: 0
+          on: 37
+      - character: Ngô Công Trưởng Lão
+        description: Tiền bối mà ông kính trọng về kiến thức
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 69
+          tin: 33
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ÂN MỘC THANH (殷木青)

@@ -7,12 +7,39 @@ race: Trùng Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
-    methods: []
+    methods: [uyện Huyết Giáp Cương Thể Thuật, yệt chiêu Huyết Giáp Hoành Xung]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1173, 1206, 1135, 1400, 1001, 1400]
+    relationships:
+      - character: Linh Vi Trần
+        description: Gián Điệp Vi Tộc, đồng minh bí mật cung cấp tin tức tình báo, mối quan hệ ngoài mặt như người lạ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Ngọc Sơn
+        description: Hội Trưởng Bán Cự Nhân Hội, đối tác thương mại đáng tin cậy, hai người tôn trọng lẫn nhau
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 51
+          so: 0
+          on: 0
+      - character: Mặc Kén Tử
+        description: Kén Sư Cổ Kén Tu Luyện Xã, đồng tộc Trùng Tộc hay gặp nhau trao đổi kinh nghiệm tu luyện
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HUYẾT GIÁP (血甲)

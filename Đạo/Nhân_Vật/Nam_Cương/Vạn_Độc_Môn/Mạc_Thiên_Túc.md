@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [uyệt chiêu Thiên Túc Cuồng Loạn]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3000, 2934, 3000, 2422, 3000, 3000]
+    relationships:
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ, cấp trên mà ông sợ và phục tùng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 20
+          tin: 0
+          so: 41
+          on: 0
+      - character: Liễu Lãnh Huyết
+        description: Xà Chi Hộ Pháp, đồng liêu mà ông bị coi thường, luôn muốn chứng minh mình mạnh hơn
+        feelings:
+          yeu: 23
+          han: 0
+          kinh: -39
+          tin: 37
+          so: 0
+          on: 0
+      - character: Đàm Trầm Thủy
+        description: Thiềm Chi Hộ Pháp, đồng liêu mà ông ngại vì tính cách âm hiểm
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 0
+          tin: 21
+          so: 0
+          on: 0
+      - character: Ngô Công Trưởng Lão
+        description: sư phụ truyền thụ Ngô Công Độc Thuật, ông kính trọng tuyệt đối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 68
+          tin: 40
+          so: 0
+          on: 38
 ---
 
 # HỒ SƠ NHÂN VẬT: MẠC THIÊN TÚC (莫千足)

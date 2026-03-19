@@ -7,12 +7,30 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [343, 400, 335, 348, 315, 400]
+    relationships:
+      - character: Trương Phách
+        description: Huyết Nô Viện Chủ, thượng cấp trực tiếp, người giao việc hàng ngày
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hà Linh
+        description: Đồng môn, người mà Ân Thiết thầm cảm phục vì trí tuệ và sự nhân hậu hiếm có trong tông
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ÂN THIẾT (殷鐵)

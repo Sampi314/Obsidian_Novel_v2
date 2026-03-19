@@ -7,12 +7,39 @@ race: Hải Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [288, 285, 300, 314, 312, 289]
+    relationships:
+      - character: Ngư Thanh Hà
+        description: Láng giềng ven sông, hai người thường xuyên giúp đỡ lẫn nhau — Đại Kìm xây đập, Thanh Hà canh giữ nguồn nước
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hà Thiên Nhảy Sông
+        description: Khách hàng thường xuyên, Hà Thiên thuê Đại Kìm xây kho chứa hàng ven sông
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Giao Phong Lãng Hải
+        description: Tôn trọng nhưng giữ khoảng cách, biết Lãng Hải mang theo nhiều bí mật nguy hiểm
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: GIẢI ĐẠI KÌM (蟹大鉗)

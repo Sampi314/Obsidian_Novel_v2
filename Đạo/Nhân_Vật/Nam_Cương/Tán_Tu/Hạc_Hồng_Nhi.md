@@ -7,12 +7,39 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Viên Mãn
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [458, 500, 500, 500, 421, 396]
+    relationships:
+      - character: Oanh Thúy Thanh
+        description: Bạn thân, cùng nhau săn bắt trong rừng già Nam Cương. Thúy Thanh thường truyền tin về vị trí con mồi cho Hồng Nhi
+        feelings:
+          yeu: 32
+          han: 0
+          kinh: 0
+          tin: 50
+          so: 0
+          on: 0
+      - character: Yến Thanh Tốc
+        description: Đối thủ cạnh tranh về tốc độ, hai bên thường thách đua xem ai bay nhanh hơn
+        feelings:
+          yeu: -35
+          han: 51
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Song Đao Liệt
+        description: Từng giao đấu khi Song Đao Liệt thách thức nàng ngang qua lãnh thổ hắn, kết quả hòa — từ đó hai bên tôn trọng nhau
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẠC HỒNG NHI (鶴紅兒)

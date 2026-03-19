@@ -7,12 +7,30 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Viên Mãn
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [414, 500, 500, 433, 450, 425]
+    relationships:
+      - character: Hà Minh Phong
+        description: Cha ruột, người luôn bảo vệ và dìu dắt nàng trong bóng tối
+        feelings:
+          yeu: 77
+          han: 0
+          kinh: 0
+          tin: 67
+          so: 0
+          on: 46
+      - character: Cừu Tiểu Đao
+        description: Đồng môn cùng thế hệ, hay cãi nhau nhưng thực ra rất quan tâm lẫn nhau
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HÀ LINH (何靈)

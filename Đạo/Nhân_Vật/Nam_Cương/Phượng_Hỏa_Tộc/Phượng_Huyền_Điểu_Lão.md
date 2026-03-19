@@ -7,12 +7,39 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Hậu Kỳ
-    methods: []
+    methods: [Lão tu luyện Huyền Hỏa Cổ Thuật, uyệt chiêu Huyền Điểu Thiên Hỏa]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3000, 4468, 3407, 3556, 3957, 3842]
+    relationships:
+      - character: Phượng Xích
+        description: Tộc Trưởng, cháu mấy đời mà ông coi như con, tận tâm dạy dỗ đường lối cai trị
+        feelings:
+          yeu: 57
+          han: 0
+          kinh: 72
+          tin: 63
+          so: 0
+          on: 55
+      - character: Công Thái Hồng
+        description: Chiến Tướng, vị tướng trẻ mà ông đánh giá cao nhất trong thế hệ hiện tại
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 28
+          tin: 21
+          so: 0
+          on: 0
+      - character: Phượng Xích Diệm
+        description: Chiến Sĩ, chắt trai mà ông thường kể chuyện lịch sử gia tộc cho nghe
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: PHƯỢNG HUYỀN ĐIỂU LÃO (鳳玄鳥老)

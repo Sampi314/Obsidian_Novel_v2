@@ -1,8 +1,8 @@
 # Mục Lục — Góc Nhìn Sở Lăng Sương
 
 ## Arc 1: Sương Độc Và Băng Thành (Chương 1-10)
-- [Chương 1: Lời Nguyền Sương Độc](Chương_00001_Lời_Nguyền_Sương_Độc.md)
-- [Chương 2: Sát Cơ Trong Tuyết](Chương_00002_Sát_Cơ_Trong_Tuyết.md)
+- Chương 1: Lời Nguyền Sương Độc *(chưa viết)*
+- Chương 2: Sát Cơ Trong Tuyết *(chưa viết)*
 - [Chương 3: Sương Độc Phát Tác](Chương_00003_Sương_Độc_Phát_Tác.md)
 - [Chương 4: Cường Đạo Tuyết Sơn](Chương_00004_Cường_Đạo_Tuyết_Sơn.md)
 - [Chương 5: Bóng Đen Huyết Tinh Sa](Chương_00005_Bóng_Đen_Huyết_Tinh_Sa.md)

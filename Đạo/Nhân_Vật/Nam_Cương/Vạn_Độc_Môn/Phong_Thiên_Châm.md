@@ -7,12 +7,48 @@ race: Trùng Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Hậu Kỳ
-    methods: []
+    methods: [uyện Thiên Châm Độc Phong Thuật, Vạn Phong Tề Xạ]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1423, 1580, 1537, 1600, 1401, 1600]
+    relationships:
+      - character: Cô Nguyệt Nương
+        description: Cổ Độc Sư, cấp trên mà hắn kính phục, hai người phối hợp trùng độc ám sát rất hiệu quả
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 63
+          tin: 60
+          so: 0
+          on: 0
+      - character: U Ảnh
+        description: Nhện Sát Thủ, đồng liêu Trùng Tộc, hắn hay trêu nàng nhưng biết giữ khoảng cách vì nàng nguy hiểm
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 0
+          tin: 44
+          so: 0
+          on: 0
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ Vạn Độc Môn, chủ nhân ban cho hắn nhiệm vụ ám sát cao cấp
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hắc Dạ
+        description: Sát Thủ Vạn Độc Môn, đồng nghiệp cạnh tranh thành tích ám sát, hai người không ưa nhau
+        feelings:
+          yeu: 0
+          han: 15
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: PHONG THIÊN CHÂM (蜂千針)

@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Hậu Kỳ
-    methods: []
+    methods: [ệt chiêu Bách Luyện Thành Cương]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1000, 1600, 1600, 1443, 1343, 1480]
+    relationships:
+      - character: Trần Hỏa Nham
+        description: Đệ Nhị Tháp Chủ, đồng nghiệp nghiên cứu thân thiết nhất, hai người thường hợp tác dự án
+        feelings:
+          yeu: 51
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 26
+      - character: Hoàng Thiên Hỏa
+        description: Đệ Lục Tháp Chủ, đồng liêu cùng đam mê chế tạo, thường trao đổi kỹ thuật
+        feelings:
+          yeu: 23
+          han: 0
+          kinh: 0
+          tin: 25
+          so: 0
+          on: 0
+      - character: Đan Dương Tử
+        description: Cốc Chủ, người ủng hộ và tài trợ các dự án nghiên cứu của ông
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Lâm Ngọc Yên
+        description: Nội Môn Đệ Tử, đệ tử có tiềm năng mà ông đang hướng dẫn về kỹ thuật
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HỨA LUYỆN (許煉)

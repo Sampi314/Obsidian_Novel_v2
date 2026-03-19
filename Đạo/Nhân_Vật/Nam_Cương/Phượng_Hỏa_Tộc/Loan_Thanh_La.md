@@ -7,12 +7,39 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Hậu Kỳ
-    methods: []
+    methods: [nh La tu luyện Thanh La Kiếm Vũ, Loan Minh Thiên Lý]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1165, 1600, 1600, 1167, 1241, 1295]
+    relationships:
+      - character: Phượng Xích
+        description: Tộc Trưởng, chủ nhân mà nàng trung thành phục vụ, đôi khi nàng là người duy nhất dám góp ý thẳng thắn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 45
+          tin: 67
+          so: 0
+          on: 0
+      - character: Công Thái Hồng
+        description: Chiến Tướng, đồng liêu mà nàng ngầm cạnh tranh, hai người hay bất đồng về chiến thuật
+        feelings:
+          yeu: 26
+          han: 21
+          kinh: 0
+          tin: 29
+          so: 0
+          on: 0
+      - character: Phượng Viêm Phong
+        description: Chiến Sĩ, hậu bối mà nàng quý mến vì tính điềm tĩnh giống mình
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LOAN THANH LA (鸞青羅)

@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Viên Mãn
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [500, 500, 460, 419, 500, 500]
+    relationships:
+      - character: Độc Nhãn
+        description: Bảo Chủ, người mà Hoàng Thạch phò tá từ ngày đầu lập bảo
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hoàng Nhi
+        description: Con gái ruột, niềm vui tuổi già, đang tu luyện trong bảo
+        feelings:
+          yeu: 76
+          han: 0
+          kinh: 0
+          tin: 58
+          so: 0
+          on: 34
+      - character: Triệu Long Hổ
+        description: Đồng liêu Trưởng Lão, chiến hữu cùng thế hệ
+        feelings:
+          yeu: 26
+          han: 0
+          kinh: 0
+          tin: 36
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HOÀNG THẠCH (黃石)

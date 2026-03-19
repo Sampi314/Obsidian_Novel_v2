@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [200, 319, 333, 308, 263, 350]
+    relationships:
+      - character: Đỗ Môn
+        description: Trại Chủ, chiến hữu tri kỷ từ thời trẻ, người mà Lý Sơn Đao nguyện phò tá cả đời
+        feelings:
+          yeu: 46
+          han: 0
+          kinh: 0
+          tin: 38
+          so: 0
+          on: 0
+      - character: Lý Sơn Nhi
+        description: Con gái ruột, đang theo cha học đao pháp trong trại
+        feelings:
+          yeu: 74
+          han: 0
+          kinh: 0
+          tin: 67
+          so: 0
+          on: 37
+      - character: Vương Thiết Nha
+        description: Đồng liêu Hắc Đao Trưởng Lão, chiến hữu đánh trận cùng nhau nhiều năm
+        feelings:
+          yeu: 34
+          han: 0
+          kinh: 0
+          tin: 42
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LÝ SƠN ĐAO (李山刀)

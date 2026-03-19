@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
-    methods: []
+    methods: [ức sở trường Thanh Ưng Tốc Kích]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [297, 368, 330, 383, 345, 304]
+    relationships:
+      - character: Đằng Thiết Sơn
+        description: Thống Lĩnh Đồ Đằng, sư phụ nghiêm khắc mà hắn vô cùng kính trọng và muốn vượt qua
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 76
+          tin: 58
+          so: 0
+          on: 45
+      - character: Đằng Hổ
+        description: Phó Trưởng Lão Đồ Đằng, sư thúc hay dạy dỗ bằng cách đánh đau nhưng hắn biết đó là tình thương
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 66
+          tin: 49
+          so: 0
+          on: 59
+      - character: Sơn Mãng
+        description: Chiến Sĩ Đồ Đằng, sư huynh thân thiết cùng luyện tập hàng ngày, là người hắn tin tưởng nhất
+        feelings:
+          yeu: 79
+          han: 0
+          kinh: 0
+          tin: 64
+          so: 0
+          on: 34
+      - character: Nguyệt Nhi
+        description: Đệ Tử Tế Tư, bạn cùng trang lứa, thường xuyên cãi nhau vặt nhưng thực ra rất quan tâm lẫn nhau
+        feelings:
+          yeu: 53
+          han: 0
+          kinh: 0
+          tin: 24
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐẰNG THANH (藤青)

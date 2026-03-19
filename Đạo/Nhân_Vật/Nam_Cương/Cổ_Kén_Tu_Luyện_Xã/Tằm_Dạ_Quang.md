@@ -7,12 +7,30 @@ race: Trùng Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Viên Mãn
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [425, 500, 500, 407, 438, 431]
+    relationships:
+      - character: Phấn Vũ
+        description: Đồng minh Bụi Phấn Hội, duy trì quan hệ trao đổi tơ lụa lấy phấn hoa dược liệu
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Phấn Thanh Lộ
+        description: Đồng minh Bụi Phấn Hội, cung cấp sương lộ đặc biệt dùng trong quá trình dệt tơ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TẰM DẠ QUANG (蠶夜光)

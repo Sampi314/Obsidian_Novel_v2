@@ -40,6 +40,30 @@ Object.assign(chapterData, {
     {
       "filename": "Chương_00010_Bóng_Ma_Dưới_Băng.md",
       "title": "Chương 10: Bóng Ma Dưới Băng"
+    },
+    {
+      "filename": "Chương_00011_Dấu_Vết_Trên_Băng.md",
+      "title": "Chương 11: Dấu Vết Trên Băng"
+    },
+    {
+      "filename": "Chương_00012_Kẻ_Thù_Lớn_Hơn.md",
+      "title": "Chương 12: Kẻ Thù Lớn Hơn"
+    },
+    {
+      "filename": "Chương_00013_Bí_Mật_Tầng_Sâu.md",
+      "title": "Chương 13: Bí Mật Tầng Sâu"
+    },
+    {
+      "filename": "Chương_00014_Sương_Độc_Và_Nước_Mắt.md",
+      "title": "Chương 14: Sương Độc Và Nước Mắt"
+    },
+    {
+      "filename": "Chương_00015_Nợ_Mới_Nợ_Cũ.md",
+      "title": "Chương 15: Nợ Mới Nợ Cũ"
+    },
+    {
+      "filename": "Chương_00016_Băng_Giải_Huyết_Hàn.md",
+      "title": "Chương 16: Băng Giải Huyết Hàn"
     }
   ],
   "Góc_Nhìn_Lý_Tuyết_Ưng": [

@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Viên Mãn
-    methods: []
+    methods: [Lôi Hỏa Thiểm Kích]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1712, 2000, 1833, 2000, 2000, 1866]
+    relationships:
+      - character: Thạch Hổ
+        description: Hộ Pháp Đường Chủ, cấp trên mà hắn sợ nhất vì hay bị phạt do lười biếng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 40
+          tin: 0
+          so: 70
+          on: 0
+      - character: Lưu_Thiết_Giáp
+        description: Đệ Nhất Hộ Pháp, đồng liêu mà hắn hay núp sau lưng trong chiến đấu phòng ngự
+        feelings:
+          yeu: 24
+          han: 0
+          kinh: 0
+          tin: 42
+          so: 0
+          on: 0
+      - character: Vương Cương
+        description: Đệ Tam Hộ Pháp, đồng liêu thân thiết nhất, hai người hay rủ nhau trốn luyện tập
+        feelings:
+          yeu: 62
+          han: 0
+          kinh: 0
+          tin: 42
+          so: 0
+          on: 33
+      - character: Dương Tiểu Lô
+        description: Đại Đệ Tử, bạn cùng trang lứa mà hắn công nhận tài năng
+        feelings:
+          yeu: 41
+          han: 0
+          kinh: 34
+          tin: 35
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NGÔ LÔI (吳雷)

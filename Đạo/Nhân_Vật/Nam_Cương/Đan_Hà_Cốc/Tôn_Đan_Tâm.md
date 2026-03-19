@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Hậu Kỳ
-    methods: []
+    methods: [Đan Tâm Hồi Xuân]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3691, 4500, 4500, 3474, 4076, 4500]
+    relationships:
+      - character: Đan Dương Tử
+        description: Cốc Chủ, sư đệ mà bà coi như em trai, hai người trưởng thành cùng nhau
+        feelings:
+          yeu: 59
+          han: 0
+          kinh: 0
+          tin: 46
+          so: 0
+          on: 47
+      - character: Dương Linh Hỏa
+        description: Đệ Nhất Tháp Chủ, đồng liêu mà bà tôn trọng tài năng luyện đan
+        feelings:
+          yeu: 44
+          han: 0
+          kinh: 40
+          tin: 38
+          so: 0
+          on: 0
+      - character: Lâm Thanh Hà
+        description: Đệ Tứ Tháp Chủ, đệ tử cũ mà bà đích thân đào tạo, rất tự hào về cô ấy
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 78
+          tin: 25
+          so: 0
+          on: 40
+      - character: Tiêu Hỏa Nhi
+        description: Đệ Cửu Tháp Chủ, đệ tử trẻ nhất mà bà thường lo lắng vì tính cách bốc đồng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TÔN ĐAN TÂM (孫丹心)

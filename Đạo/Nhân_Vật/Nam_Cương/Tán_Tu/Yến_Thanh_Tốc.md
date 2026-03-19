@@ -7,12 +7,48 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [225, 234, 247, 300, 257, 239]
+    relationships:
+      - character: Yến Tử
+        description: Đàn chị cùng chi tộc Yến, Thanh Tốc cực kỳ ngưỡng mộ Yến Tử và coi nàng là mục tiêu phấn đấu
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 48
+          tin: 60
+          so: 0
+          on: 0
+      - character: Hạc Hồng Nhi
+        description: Đối thủ cạnh tranh tốc độ, hai bên thường xuyên thách đua nhưng Thanh Tốc chưa bao giờ thắng nổi
+        feelings:
+          yeu: -50
+          han: 63
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Oanh Nam Ca
+        description: Bạn bè cùng trang lứa, hay lang thang cùng nhau trong rừng già. Thanh Tốc thường trêu chọc giọng hát sầu bi của Nam Ca
+        feelings:
+          yeu: 46
+          han: 0
+          kinh: 0
+          tin: 43
+          so: 0
+          on: 0
+      - character: Oanh Thúy Thanh
+        description: Đồng nghiệp truyền tin, đôi khi phối hợp truyền tin đường dài — Thanh Tốc lo đoạn trống trải, Thúy Thanh lo đoạn rừng rậm
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: YẾN THANH TỐC (燕青速)

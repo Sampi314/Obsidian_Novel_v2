@@ -1,5 +1,7 @@
 # Mục Lục — Góc Nhìn Lục Ly
 
+## Arc Hồ Nguyệt — Sứ Mệnh Kế Thừa (Chương 3-10)
+
 - [Chương 3: Tiếng Sáo Trong Hồ Nguyệt](Chương_00003_Tiếng_Sáo_Trong_Hồ_Nguyệt.md)
 - [Chương 4: Kẻ Xâm Nhập](Chương_00004_Kẻ_Xâm_Nhập.md)
 - [Chương 5: Ký Ức Vỡ Vụn](Chương_00005_Ký_Ức_Vỡ_Vụn.md)

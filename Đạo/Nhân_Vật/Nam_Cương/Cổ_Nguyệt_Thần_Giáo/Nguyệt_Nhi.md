@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
-    methods: []
+    methods: [Nguyệt Ca Liệu Thương]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [349, 391, 308, 400, 305, 311]
+    relationships:
+      - character: Lam Nguyệt Nhi
+        description: Thánh Nữ, chị thân nhất cùng trang lứa, hai người gần như không rời nhau
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Vu Tiểu Linh
+        description: Đệ Tử Tế Tư, sư muội nhỏ tuổi mà nàng hay trêu đùa nhưng luôn bảo vệ
+        feelings:
+          yeu: 57
+          han: 0
+          kinh: 0
+          tin: 51
+          so: 0
+          on: 42
+      - character: Đằng Thanh
+        description: Đệ Tử Đồ Đằng, bạn cùng trang lứa hay cãi nhau nhưng nàng thầm coi hắn là người đáng tin cậy
+        feelings:
+          yeu: 60
+          han: 0
+          kinh: 0
+          tin: 78
+          so: 0
+          on: 0
+      - character: Cổ Lan
+        description: Trưởng Lão Tế Tư, sư bà dạy nàng các bài ca cổ xưa, nàng rất kính yêu bà
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NGUYỆT NHI (月兒)

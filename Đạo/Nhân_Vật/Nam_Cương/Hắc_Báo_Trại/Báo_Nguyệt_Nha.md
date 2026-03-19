@@ -7,12 +7,39 @@ race: Yêu Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Trung Kỳ
-    methods: []
+    methods: [a tu luyện Nguyệt Nha Thị Thuật, ở trường Nguyệt Quang Trinh Sát]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [307, 296, 306, 350, 261, 239]
+    relationships:
+      - character: Báo Hắc Dạ
+        description: Báo Vương, thủ lĩnh mà nàng kính phục và nguyện trung thành, người dạy nàng cách sinh tồn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 42
+          tin: 74
+          so: 0
+          on: 0
+      - character: Báo Ám Ảnh Phong
+        description: Sát Thủ, đồng đội phối hợp ăn ý nhất, nàng trinh sát hắn ra tay
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 0
+          tin: 25
+          so: 0
+          on: 0
+      - character: Báo Tiểu Hắc
+        description: Báo Con, em nhỏ mà nàng hay dắt đi chơi và dạy nhận biết cây cỏ trong rừng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: BÁO NGUYỆT NHA (豹月牙)

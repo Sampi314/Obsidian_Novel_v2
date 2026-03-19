@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [Thanh Hà Liệt Hỏa]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2366, 3000, 3000, 3000, 3000, 3000]
+    relationships:
+      - character: Tôn Đan Tâm
+        description: Đệ Tam Tháp Chủ, sư phụ trực tiếp, người mà cô kính trọng và mang ơn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 78
+          tin: 38
+          so: 0
+          on: 37
+      - character: Đan Dương Tử
+        description: Cốc Chủ, cấp trên mà cô ngưỡng mộ về tài luyện đan siêu phàm
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 69
+          tin: 38
+          so: 0
+          on: 0
+      - character: Lâm Ngọc Yên
+        description: Nội Môn Đệ Tử, em gái ruột mà cô luôn lo lắng và bảo vệ
+        feelings:
+          yeu: 62
+          han: 0
+          kinh: 0
+          tin: 69
+          so: 0
+          on: 22
+      - character: Châu Ngọc Yên
+        description: Đệ Thất Tháp Chủ, đồng liêu nữ duy nhất cùng cấp, quan hệ thân thiết
+        feelings:
+          yeu: 62
+          han: 0
+          kinh: 0
+          tin: 69
+          so: 0
+          on: 21
 ---
 
 # HỒ SƠ NHÂN VẬT: LÂM THANH HÀ (林清河)

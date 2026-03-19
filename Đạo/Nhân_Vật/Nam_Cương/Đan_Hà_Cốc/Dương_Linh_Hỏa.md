@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Trung Kỳ
-    methods: []
+    methods: [Linh Hỏa Phần Đan]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3800, 3800, 3800, 2907, 3800, 3800]
+    relationships:
+      - character: Đan Dương Tử
+        description: Cốc Chủ, cấp trên trực tiếp mà ông tôn kính và phục tùng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 66
+          tin: 45
+          so: 0
+          on: 0
+      - character: Trần Hỏa Nham
+        description: Đệ Nhị Tháp Chủ, đồng liêu thân thiết nhất, hai người thường xuyên hợp tác nghiên cứu
+        feelings:
+          yeu: 73
+          han: 0
+          kinh: 0
+          tin: 47
+          so: 0
+          on: 32
+      - character: Tôn Đan Tâm
+        description: Đệ Tam Tháp Chủ, đồng liêu có tài năng ngang ngửa, quan hệ cạnh tranh lành mạnh
+        feelings:
+          yeu: 30
+          han: 30
+          kinh: 33
+          tin: 33
+          so: 0
+          on: 0
+      - character: Hạ Viêm
+        description: Thái Thượng Trưởng Lão, ân sư dạy dỗ thuở nhỏ, ông luôn mang ơn sâu sắc
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 75
+          tin: 44
+          so: 0
+          on: 33
 ---
 
 # HỒ SƠ NHÂN VẬT: DƯƠNG LINH HỎA (楊靈火)

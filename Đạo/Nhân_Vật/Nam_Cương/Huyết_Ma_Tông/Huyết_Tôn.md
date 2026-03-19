@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3000, 4166, 4277, 3924, 3720, 4500]
+    relationships:
+      - character: Mộ Dung Huyết Thiên
+        description: Thái Thượng Trưởng Lão, bậc tiền bối mà Huyết Tôn tôn kính nhất, người truyền thụ Huyết Ma Đại Pháp
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 56
+          tin: 31
+          so: 0
+          on: 32
+      - character: Cừu Thiên
+        description: Đệ Nhất Huyết Tướng, cánh tay phải đắc lực nhất, được giao nhiệm vụ chinh phạt bên ngoài
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 72
+          so: 0
+          on: 0
+      - character: Trương Phách
+        description: Huyết Nô Viện Chủ, quản lý nguồn huyết nô cung cấp tài nguyên tu luyện cho tông môn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HUYẾT TÔN (血尊)

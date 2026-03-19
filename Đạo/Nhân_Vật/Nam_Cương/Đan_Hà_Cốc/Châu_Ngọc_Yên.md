@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Đỉnh Phong
-    methods: []
+    methods: [Ngọc Yên Tỏa Hương]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1200, 1800, 1800, 1501, 1554, 1575]
+    relationships:
+      - character: Lâm Thanh Hà
+        description: Đệ Tứ Tháp Chủ, đồng liêu nữ thân thiết, hai người hay trò chuyện về đan đạo
+        feelings:
+          yeu: 54
+          han: 0
+          kinh: 0
+          tin: 63
+          so: 0
+          on: 33
+      - character: Hoàng Thiên Hỏa
+        description: Đệ Lục Tháp Chủ, đồng liêu mà bà đánh giá cao sự sáng tạo
+        feelings:
+          yeu: 37
+          han: 0
+          kinh: 37
+          tin: 44
+          so: 0
+          on: 0
+      - character: Tôn Đan Tâm
+        description: Đệ Tam Tháp Chủ, sư tỷ mà bà kính trọng vì tấm lòng nhân hậu
+        feelings:
+          yeu: 46
+          han: 0
+          kinh: 71
+          tin: 40
+          so: 0
+          on: 0
+      - character: Tiêu Hỏa Nhi
+        description: Đệ Cửu Tháp Chủ, đệ tử trẻ mà bà thỉnh thoảng chỉ dạy thêm
+        feelings:
+          yeu: 11
+          han: 0
+          kinh: 0
+          tin: 20
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CHÂU NGỌC YÊN (周玉煙)

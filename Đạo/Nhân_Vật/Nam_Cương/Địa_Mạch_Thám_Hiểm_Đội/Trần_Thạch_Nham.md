@@ -7,12 +7,30 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [297, 234, 218, 288, 248, 237]
+    relationships:
+      - character: Thạch Vạn Lý
+        description: Đội Trưởng, người hướng dẫn phương hướng khai thác
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Châu Hàn Dạ
+        description: Đồng đội, người tìm đường dẫn đến mỏ quặng mới
+        feelings:
+          yeu: 45
+          han: 0
+          kinh: 0
+          tin: 32
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TRẦN THẠCH NHAM (陳石岩)

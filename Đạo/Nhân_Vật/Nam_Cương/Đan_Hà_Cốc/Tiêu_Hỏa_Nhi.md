@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
-    methods: []
+    methods: [Hỏa Nhi Cuồng Vũ]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1046, 1400, 1400, 1400, 1155, 1238]
+    relationships:
+      - character: Tôn Đan Tâm
+        description: Đệ Tam Tháp Chủ, sư phụ trực tiếp, người mà nàng kính yêu nhất dù hay bị mắng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 66
+          tin: 37
+          so: 0
+          on: 59
+      - character: Châu Ngọc Yên
+        description: Đệ Thất Tháp Chủ, sư bá thỉnh thoảng chỉ dạy, nàng ngưỡng mộ sự tỉ mỉ của bà
+        feelings:
+          yeu: 28
+          han: 0
+          kinh: 48
+          tin: 50
+          so: 0
+          on: 0
+      - character: Dương Tiểu Lô
+        description: Đại Đệ Tử, sư huynh đồng trang lứa, bạn cạnh tranh và cũng là bạn thân
+        feelings:
+          yeu: 48
+          han: 16
+          kinh: 0
+          tin: 37
+          so: 0
+          on: 0
+      - character: Phùng Lô Hỏa
+        description: Nội Môn Đệ Tử, sư đệ hay bị nàng bắt nạt nhưng nàng thực sự coi hắn là bạn
+        feelings:
+          yeu: 56
+          han: 0
+          kinh: -22
+          tin: 27
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TIÊU HỎA NHI (蕭火兒)

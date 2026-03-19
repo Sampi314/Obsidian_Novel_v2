@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Đỉnh Phong
-    methods: []
+    methods: [Huyết Mi Đoạn Hồn]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1535, 1752, 1800, 1415, 1770, 1800]
+    relationships:
+      - character: Hàn Phong
+        description: Nhất Sát, đồng đội mà cô tin cậy nhất, hai người phối hợp ám sát hoàn hảo
+        feelings:
+          yeu: 49
+          han: 0
+          kinh: 0
+          tin: 28
+          so: 0
+          on: 0
+      - character: Bạch Vô Ảnh
+        description: Tam Sát, đồng đội thân thiết, hay ganh đua về số mục tiêu hạ được
+        feelings:
+          yeu: 56
+          han: 17
+          kinh: 0
+          tin: 48
+          so: 0
+          on: 42
+      - character: Hắc Dạ
+        description: Tứ Sát, đồng đội trầm lặng mà cô tôn trọng về kỹ năng
+        feelings:
+          yeu: 28
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
+      - character: Liễu Lãnh Huyết
+        description: Xà Chi Hộ Pháp, cấp trên mà cô ngưỡng mộ và muốn vượt qua
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 79
+          tin: 49
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐINH HUYẾT MI (丁血眉)

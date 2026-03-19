@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Hậu Kỳ
-    methods: []
+    methods: [uyệt chiêu Nguyệt Hà Triệu Linh]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1417, 1600, 1485, 1600, 1271, 1344]
+    relationships:
+      - character: Cổ Lan
+        description: Trưởng Lão Tế Tư, đồng liêu thân thiết nhất, người duy nhất hiểu được bà
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 0
+          tin: 58
+          so: 0
+          on: 42
+      - character: Mộng Yểm
+        description: Trưởng Lão Tế Tư, có mối quan hệ căng thẳng do bất đồng về cách sử dụng vu thuật tử linh
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Nguyệt Trầm
+        description: Trưởng Lão Tế Tư, đồng liêu nhưng ít giao tiếp, duy trì sự tôn trọng từ xa
+        feelings:
+          yeu: 28
+          han: 0
+          kinh: 0
+          tin: 29
+          so: 0
+          on: 0
+      - character: Tuyết Nguyệt
+        description: Đại Tư Tế, trung thành phục vụ nhưng thỉnh thoảng nhận được những lời cảnh báo bí ẩn từ tử linh về tương lai của giáo phái
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 36
+          tin: 75
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LINH NGUYỆT HÀ (靈月河)

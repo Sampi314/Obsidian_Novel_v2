@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [294, 346, 361, 400, 335, 400]
+    relationships:
+      - character: Độc Nhãn
+        description: Bảo Chủ, thượng cấp mà Triệu Long Hổ trung thành tuyệt đối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 73
+          so: 0
+          on: 0
+      - character: Hoàng Thạch
+        description: Đồng liêu Trưởng Lão, bạn chiến đấu lâu năm
+        feelings:
+          yeu: 38
+          han: 0
+          kinh: 0
+          tin: 49
+          so: 0
+          on: 0
+      - character: Mạc Vân
+        description: Đồng liêu Trưởng Lão, người mà Triệu Long Hổ thường bất đồng ý kiến vì khác biệt tính cách
+        feelings:
+          yeu: 43
+          han: 0
+          kinh: 0
+          tin: 40
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TRIỆU LONG HỔ (趙龍虎)

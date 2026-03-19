@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Sơ Kỳ
-    methods: []
+    methods: [Vô Hận Mạn Độc]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [600, 860, 792, 842, 791, 840]
+    relationships:
+      - character: Phùng Tiêu
+        description: Lục Sát, sư huynh hay trêu đùa nhưng hắn thầm coi là bạn
+        feelings:
+          yeu: 36
+          han: 0
+          kinh: 0
+          tin: 34
+          so: 0
+          on: 0
+      - character: Hàn Phong
+        description: Nhất Sát, hình mẫu mà hắn muốn trở thành
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Đinh Huyết Mi
+        description: Nhị Sát, người mà hắn ngầm sợ hãi vì quá tàn nhẫn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 58
+          on: 0
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ, người mà hắn phục tùng vì được hứa cơ hội báo thù
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 45
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TIÊU VÔ HẬN (蕭無恨)

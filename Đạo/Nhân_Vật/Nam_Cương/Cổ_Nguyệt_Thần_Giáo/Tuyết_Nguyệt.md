@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Hậu Kỳ
-    methods: []
+    methods: [t tinh thông Cổ Nguyệt Tâm Kinh, ệt chiêu Nguyệt Hoa Thiên Giáng]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [4500, 4500, 3721, 4500, 4500, 4500]
+    relationships:
+      - character: Vu Huyền Nương
+        description: Đệ Nhị Phó Tư Tế, cánh tay phải đáng tin cậy nhất, được Tuyết Nguyệt coi như em gái
+        feelings:
+          yeu: 59
+          han: 0
+          kinh: 0
+          tin: 80
+          so: 0
+          on: 35
+      - character: Bạch Vọng Nguyệt
+        description: Đệ Tam Phó Tư Tế, môn đồ tài năng nhưng tham vọng, Tuyết Nguyệt vừa trọng dụng vừa đề phòng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 22
+          tin: 40
+          so: 0
+          on: 0
+      - character: Đằng Thiết Sơn
+        description: Thống Lĩnh Đồ Đằng, chiến tướng trung thành bảo vệ giáo phái, được bà tuyệt đối tín nhiệm
+        feelings:
+          yeu: 66
+          han: 0
+          kinh: 0
+          tin: 73
+          so: 0
+          on: 47
+      - character: Lam Nguyệt Nhi
+        description: Thánh Nữ kế nhiệm, người bà dồn hết tâm huyết đào tạo
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 50
+          tin: 29
+          so: 0
+          on: 40
 ---
 
 # HỒ SƠ NHÂN VẬT: TUYẾT NGUYỆT (雪月)

@@ -7,12 +7,48 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [luyện Xích Viêm Phá Thiên Quyền, yệt chiêu Phượng Viêm Liên Kích]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3000, 2719, 2533, 2601, 2710, 2727]
+    relationships:
+      - character: Phượng Xích
+        description: Tộc Trưởng, cha ruột mà hắn vừa kính yêu vừa muốn vượt qua bằng mọi giá
+        feelings:
+          yeu: 75
+          han: 0
+          kinh: 0
+          tin: 41
+          so: 0
+          on: 22
+      - character: Công Thái Hồng
+        description: Chiến Tướng, hộ vệ mà hắn vừa biết ơn vừa bực bội vì luôn bị coi là trẻ con
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Phượng Viêm Phong
+        description: Chiến Sĩ, em họ thân thiết cùng luyện tập hàng ngày, đối thủ cạnh tranh lành mạnh
+        feelings:
+          yeu: -56
+          han: 49
+          kinh: 0
+          tin: 47
+          so: 0
+          on: 35
+      - character: Phượng Viêm Cánh
+        description: Chiến Sĩ Trẻ, em trai nhỏ mà hắn luôn bảo vệ dù miệng nói ghét phiền phức
+        feelings:
+          yeu: -40
+          han: 42
+          kinh: 0
+          tin: 44
+          so: 0
+          on: 21
 ---
 
 # HỒ SƠ NHÂN VẬT: PHƯỢNG XÍCH DIỆM (鳳赤焰)

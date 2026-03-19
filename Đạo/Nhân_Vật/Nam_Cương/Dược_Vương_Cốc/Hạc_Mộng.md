@@ -7,12 +7,39 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
-    methods: []
+    methods: [Hạc Mộng tu luyện Mộng Y Thuật, Hạc Mộng Liệu Thương]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [800, 1400, 1400, 998, 1089, 1141]
+    relationships:
+      - character: Oanh Phương Dược
+        description: Dược Sư, đồng nghiệp trong Dược Vương Cốc, nàng luyện đan ông kê toa, phối hợp ăn ý
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Tuyết Nguyệt
+        description: Đại Tư Tế Cổ Nguyệt Thần Giáo, bệnh nhân đặc biệt mà ông từng chữa trị, quen biết qua lần hợp tác
+        feelings:
+          yeu: 28
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
+      - character: Ngọc Sơn
+        description: Hội Trưởng Bán Cự Nhân Hội, từng nhờ ông chữa thương cho thành viên hội sau trận chiến
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẠC MỘNG (鶴夢)

@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Đỉnh Phong
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1791, 1800, 1579, 1362, 1800, 1800]
+    relationships:
+      - character: Huyết Tôn
+        description: Tông Chủ, người mà Tôn Hàn Thiết nguyện lấy mạng bảo vệ
+        feelings:
+          yeu: 80
+          han: 0
+          kinh: 0
+          tin: 58
+          so: 0
+          on: 25
+      - character: Cừu Thiên
+        description: Đệ Nhất Huyết Tướng, thường xuyên phối hợp chiến đấu — Cừu Thiên tấn công, Tôn Hàn Thiết phòng thủ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Lý Ám
+        description: Đệ Tam Huyết Tướng, đồng liêu ít nói nhưng đáng tin cậy trong nhiệm vụ
+        feelings:
+          yeu: 23
+          han: 0
+          kinh: 0
+          tin: 66
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TÔN HÀN THIẾT (孫寒鐵)

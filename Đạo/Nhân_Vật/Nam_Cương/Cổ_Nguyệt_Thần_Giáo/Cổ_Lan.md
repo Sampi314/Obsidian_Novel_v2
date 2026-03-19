@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
-    methods: []
+    methods: [Cổ Lan Chiếu Mệnh]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1140, 1400, 1228, 1085, 1106, 1257]
+    relationships:
+      - character: Vu Thiên Hương
+        description: Đại Trưởng Lão, bạn tri kỷ nhiều năm, cùng nhau gánh vác trọng trách bảo tồn truyền thống
+        feelings:
+          yeu: 43
+          han: 0
+          kinh: 0
+          tin: 39
+          so: 0
+          on: 0
+      - character: Linh Nguyệt Hà
+        description: Trưởng Lão Tế Tư, đồng liêu ăn ý, thường phối hợp trong các nghi lễ lớn
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 0
+          tin: 32
+          so: 0
+          on: 0
+      - character: Mộng Yểm
+        description: Trưởng Lão Tế Tư, có sự bất đồng quan điểm về cách vận hành giáo phái nhưng tôn trọng lẫn nhau
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Tuyết Nguyệt
+        description: Đại Tư Tế, bà ủng hộ hết lòng và coi như con cháu trong nhà
+        feelings:
+          yeu: 61
+          han: 0
+          kinh: 0
+          tin: 69
+          so: 0
+          on: 26
 ---
 
 # HỒ SƠ NHÂN VẬT: CỔ LAN (古蘭)

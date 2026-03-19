@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Hậu Kỳ
-    methods: []
+    methods: [Lãnh Huyết Xà Vũ]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3000, 4500, 4500, 4500, 4491, 4500]
+    relationships:
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ, người mà bà thề trung thành đến chết
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 75
+          so: 0
+          on: 0
+      - character: Hạ Thiên Châm
+        description: Yết Chi Hộ Pháp, đồng liêu mạnh nhất, quan hệ cạnh tranh nhưng tôn trọng
+        feelings:
+          yeu: 48
+          han: 15
+          kinh: 0
+          tin: 27
+          so: 0
+          on: 0
+      - character: Mạc Thiên Túc
+        description: Rết Chi Hộ Pháp, đồng liêu mà bà coi thường vì tính tình nóng nảy
+        feelings:
+          yeu: 44
+          han: 0
+          kinh: -22
+          tin: 41
+          so: 0
+          on: 0
+      - character: Đinh Huyết Mi
+        description: Nhị Sát, thuộc hạ tin cậy nhất trong đội Thất Sát
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LIỄU LÃNH HUYẾT (柳冷血)

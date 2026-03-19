@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Đỉnh Phong
-    methods: []
+    methods: [yệt chiêu Cương Thương Liệt Hỏa]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1765, 1772, 1500, 1508, 1800, 1577]
+    relationships:
+      - character: Ngô Lôi
+        description: Đệ Nhị Hộ Pháp, đồng liêu thân thiết nhất, hay rủ nhau trốn luyện tập nhưng chiến đấu luôn phối hợp ăn ý
+        feelings:
+          yeu: 67
+          han: 0
+          kinh: 0
+          tin: 60
+          so: 0
+          on: 24
+      - character: Lưu Thiết Giáp
+        description: Đệ Nhất Hộ Pháp, sư huynh mà hắn kính trọng và đang nỗ lực học hỏi
+        feelings:
+          yeu: 43
+          han: 0
+          kinh: 73
+          tin: 43
+          so: 0
+          on: 0
+      - character: Thạch Hổ
+        description: Hộ Pháp Đường Chủ, cấp trên nghiêm khắc mà hắn sợ nhưng ngưỡng mộ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 53
+          tin: 44
+          so: 53
+          on: 0
+      - character: Phùng Lô Hỏa
+        description: Nội Môn Đệ Tử, đàn em thân thiết cùng luyện tập
+        feelings:
+          yeu: 66
+          han: 0
+          kinh: 0
+          tin: 58
+          so: 0
+          on: 47
 ---
 
 # HỒ SƠ NHÂN VẬT: VƯƠNG CƯƠNG (王鋼)

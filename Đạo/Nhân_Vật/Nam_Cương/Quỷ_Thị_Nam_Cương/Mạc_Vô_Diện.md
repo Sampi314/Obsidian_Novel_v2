@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Viên Mãn
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2713, 2746, 2708, 2491, 2514, 3000]
+    relationships:
+      - character: Chu Thiết Diện
+        description: Trưởng Lão Chấp Pháp, cánh tay phải thực thi luật lệ Quỷ Thị
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hồ Vô Thanh
+        description: Tổng Quản, người điều hành mọi hoạt động hàng ngày theo chỉ thị của Quỷ Chủ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Vương Cổ Thuyền
+        description: Đưa Đò Trưởng, người kiểm soát con đường duy nhất dẫn vào Quỷ Thị
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: MẠC VÔ DIỆN (莫無面)

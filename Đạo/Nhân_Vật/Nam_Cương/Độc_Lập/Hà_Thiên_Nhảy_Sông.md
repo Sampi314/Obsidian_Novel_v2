@@ -7,12 +7,48 @@ race: Hải Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [379, 386, 306, 391, 400, 345]
+    relationships:
+      - character: Giải Đại Kìm
+        description: Đối tác kinh doanh, Hà Thiên thuê Đại Kìm xây kho chứa hàng và bến đậu dọc sông
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Ngư Thanh Hà
+        description: Bạn buôn bán, cùng nhau vận chuyển hải sản ngược dòng. Thanh Hà đánh cá, Hà Thiên lo khâu vận chuyển và bán
+        feelings:
+          yeu: 48
+          han: 0
+          kinh: 0
+          tin: 36
+          so: 0
+          on: 0
+      - character: Giao Phong Lãng Hải
+        description: Khách hàng bí mật, Hà Thiên giúp Lãng Hải mua nguyên liệu tu luyện từ vùng biển mà không tiết lộ danh tính người mua
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Mạch Phiêu Bạc
+        description: Đôi khi giao thương khi Mạch Phiêu Bạc đi qua vùng sông Nam Cương, trao đổi hải sản lấy khoáng sản
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HÀ THIÊN NHẢY SÔNG (蝦千跳江)

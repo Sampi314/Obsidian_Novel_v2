@@ -7,12 +7,48 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Trung Kỳ
-    methods: []
+    methods: [sở hữu Thất Sắc Vũ Quang Thuật, uyệt chiêu Khổng Tước Khai Bình]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2861, 3422, 3130, 3039, 3015, 2908]
+    relationships:
+      - character: Phượng Xích
+        description: Tộc Trưởng, chủ nhân mà hắn thề trung thành đến chết, người hắn kính phục nhất
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 69
+          tin: 57
+          so: 0
+          on: 0
+      - character: Phượng Xích Diệm
+        description: Chiến Sĩ, thiếu gia mà hắn phải bảo vệ, đôi khi bực mình vì tính nóng nảy của cậu ta
+        feelings:
+          yeu: 79
+          han: 0
+          kinh: 0
+          tin: 61
+          so: 0
+          on: 43
+      - character: Loan Thanh La
+        description: Chiến Sĩ, đồng liêu chiến đấu thường xuyên phối hợp, hắn ngầm cạnh tranh ngôi vị chiến tướng đệ nhất
+        feelings:
+          yeu: 43
+          han: 17
+          kinh: 0
+          tin: 49
+          so: 0
+          on: 0
+      - character: Phượng Viêm Phong
+        description: Chiến Sĩ, hậu bối có tiềm năng mà hắn đang âm thầm dìu dắt
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CÔNG THÁI HỒNG (孔彩虹)

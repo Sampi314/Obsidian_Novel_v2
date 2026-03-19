@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Đỉnh Phong
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1437, 1755, 1604, 1555, 1485, 1800]
+    relationships:
+      - character: Huyết Tôn
+        description: Tông Chủ, người giao quyền quản lý toàn bộ Huyết Nô Viện
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Cừu Thiên
+        description: Đệ Nhất Huyết Tướng, thường xuyên yêu cầu cung cấp huyết nô cho các chiến dịch
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Ân Thiết
+        description: Nội Môn đệ tử, phụ tá đắc lực trong việc quản lý huyết nô hàng ngày
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 67
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TRƯƠNG PHÁCH (張魄)

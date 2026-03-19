@@ -7,12 +7,39 @@ race: Cự Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Hậu Kỳ
-    methods: []
+    methods: [h Lâm tu luyện Thạch Toái Quyền, yệt chiêu Cự Nhân Bạo Liệt Kích]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1600, 1164, 1259, 1388, 1569, 1237]
+    relationships:
+      - character: Ngọc Sơn
+        description: Hội Trưởng, chị gái ruột mà hắn yêu thương và bảo vệ, người duy nhất kiểm soát được tính nóng nảy của hắn
+        feelings:
+          yeu: 63
+          han: 0
+          kinh: 0
+          tin: 47
+          so: 0
+          on: 45
+      - character: Ngọc Thiết Lôi
+        description: Thợ Rèn Bán Thạch Cự Nhân, anh họ xa mà hắn hay thi đấu tay đôi, mối quan hệ cạnh tranh lành mạnh
+        feelings:
+          yeu: 0
+          han: 30
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Sơn Mãng
+        description: Chiến Sĩ Cổ Nguyệt Thần Giáo, từng giao đấu hòa, từ đó kết thành bạn bè tôn trọng lẫn nhau
+        feelings:
+          yeu: 43
+          han: 0
+          kinh: 0
+          tin: 35
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NGỌC THẠCH LÂM (玉石林)

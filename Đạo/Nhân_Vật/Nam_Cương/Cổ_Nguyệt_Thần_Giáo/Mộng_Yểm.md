@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Hậu Kỳ
-    methods: []
+    methods: [Mộng Yểm Vạn Sinh]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1014, 1556, 1331, 1170, 1230, 1600]
+    relationships:
+      - character: Linh Nguyệt Hà
+        description: Trưởng Lão Tế Tư, có xung đột quan điểm nhưng ông thầm ngưỡng mộ khả năng của bà
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 70
+          tin: 58
+          so: 0
+          on: 0
+      - character: Nguyệt Trầm
+        description: Trưởng Lão Tế Tư, bạn uống rượu thân thiết nhất, thường xuyên tranh luận đến tận khuya
+        feelings:
+          yeu: 59
+          han: 0
+          kinh: 0
+          tin: 67
+          so: 0
+          on: 38
+      - character: Cổ Lan
+        description: Trưởng Lão Tế Tư, người mà ông tôn trọng dù hay bất đồng ý kiến
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Tuyết Nguyệt
+        description: Đại Tư Tế, ông trung thành nhưng thường xuyên phản biện các quyết định của bà một cách thẳng thắn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 63
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: MỘNG YỂM (夢魘)

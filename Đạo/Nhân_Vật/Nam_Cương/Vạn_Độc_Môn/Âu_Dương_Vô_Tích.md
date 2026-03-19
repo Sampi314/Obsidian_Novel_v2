@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Hóa Thần Trung Kỳ
-    methods: []
+    methods: [Vô Tích Hóa Cổ]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [7000, 10795, 10425, 9272, 9866, 9963]
+    relationships:
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ, kẻ mà ông coi thường nhưng vẫn phục tùng vì lười tranh giành
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 38
+          tin: 0
+          so: 0
+          on: 0
+      - character: Ngô Công Trưởng Lão
+        description: Đồng liêu cùng thế hệ, người duy nhất ông chịu nói chuyện
+        feelings:
+          yeu: 46
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 0
+      - character: Cổ Hàn Sương
+        description: Luyện Tà Đường Chủ, đệ tử cũ mà ông từng dạy dỗ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 63
+          tin: 22
+          so: 0
+          on: 43
+      - character: Hắc Hạt Ma Trùng
+        description: Trùng Đế, sinh vật mà ông thầm e ngại vì hiểu rõ sức mạnh thực sự
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 72
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ÂU DƯƠNG VÔ TÍCH (歐陽無跡)

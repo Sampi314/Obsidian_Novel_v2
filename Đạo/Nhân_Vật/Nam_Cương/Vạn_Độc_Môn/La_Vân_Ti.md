@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Viên Mãn
-    methods: []
+    methods: [Vân Ti Vạn Võng]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1400, 1994, 2000, 1814, 2000, 2000]
+    relationships:
+      - character: Đàm Trầm Thủy
+        description: Thiềm Chi Hộ Pháp, đồng liêu hay hợp tác, hai người bổ sung khống chế và bẫy rập
+        feelings:
+          yeu: 49
+          han: 0
+          kinh: 0
+          tin: 41
+          so: 0
+          on: 0
+      - character: Hạ Thiên Châm
+        description: Yết Chi Hộ Pháp, đồng liêu mà bà tôn trọng sức chiến đấu
+        feelings:
+          yeu: 48
+          han: 0
+          kinh: 0
+          tin: 28
+          so: 0
+          on: 0
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ, cấp trên mà bà phục tùng tuyệt đối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 26
+          tin: 0
+          so: 0
+          on: 0
+      - character: U Ảnh
+        description: Nhện Sát Thủ, đệ tử mà bà đang đào tạo thành thế hệ kế cận
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 76
+          tin: 30
+          so: 0
+          on: 51
 ---
 
 # HỒ SƠ NHÂN VẬT: LA VÂN TI (羅雲絲)

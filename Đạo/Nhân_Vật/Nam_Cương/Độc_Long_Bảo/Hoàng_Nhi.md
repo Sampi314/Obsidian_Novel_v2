@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Luyện Khí Đỉnh Phong
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [108, 150, 103, 150, 98, 81]
+    relationships:
+      - character: Hoàng Thạch
+        description: Cha ruột, người bảo vệ và lo lắng cho Hoàng Nhi nhất
+        feelings:
+          yeu: 58
+          han: 0
+          kinh: 0
+          tin: 57
+          so: 0
+          on: 27
+      - character: Trần Phục Long
+        description: Sư phụ dạy Phục Thú Thuật, người phát hiện thiên phú của nàng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 63
+          tin: 47
+          so: 0
+          on: 40
+      - character: Lưu Tiểu Long
+        description: Bạn đồng trang lứa, thường cùng nhau đi tuần
+        feelings:
+          yeu: 59
+          han: 0
+          kinh: 0
+          tin: 31
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HOÀNG NHI (黃兒)

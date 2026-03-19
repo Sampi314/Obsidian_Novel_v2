@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Trung Kỳ
-    methods: []
+    methods: [c sở trường Tiểu Độc Nhận Hương]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [200, 350, 350, 303, 261, 276]
+    relationships:
+      - character: Ân Mộc Thanh
+        description: Mộc Độc Sư Đường Chủ, chú họ ngầm bảo vệ hắn
+        feelings:
+          yeu: 73
+          han: 0
+          kinh: 0
+          tin: 53
+          so: 0
+          on: 50
+      - character: Lệ Vô Tâm
+        description: Thánh Tử, đồng môn duy nhất mà hắn dám nói chuyện
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 0
+          tin: 33
+          so: 0
+          on: 0
+      - character: A Mộc
+        description: Chân Truyền Đệ Tử, sư huynh thân thiết nhất, hay giúp hắn tránh bị bắt nạt
+        feelings:
+          yeu: 76
+          han: 0
+          kinh: -43
+          tin: 64
+          so: 0
+          on: 20
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ, người mà hắn sợ hãi tuyệt đối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 45
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ÂN TIỂU ĐỘC (殷小毒)

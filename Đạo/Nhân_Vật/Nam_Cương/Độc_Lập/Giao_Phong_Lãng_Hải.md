@@ -7,12 +7,39 @@ race: Hải Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1239, 1162, 1097, 1218, 1013, 1164]
+    relationships:
+      - character: Ngư Thanh Hà
+        description: Đồng tộc Hải Tộc sống cùng khúc sông, Thanh Hà là một trong số ít người biết quá khứ của Lãng Hải nhưng giữ bí mật cho hắn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Giải Đại Kìm
+        description: Láng giềng đáng tin cậy, Đại Kìm xây đập giúp ổn định dòng chảy mà Lãng Hải cần để tu luyện
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 57
+          so: 0
+          on: 0
+      - character: Hà Thiên Nhảy Sông
+        description: Bạn buôn bán, Hà Thiên giúp Lãng Hải mua nguyên liệu tu luyện từ vùng biển mà hắn không dám quay về
+        feelings:
+          yeu: 39
+          han: 0
+          kinh: 0
+          tin: 32
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: GIAO PHONG LÃNG HẢI (鲛風浪海)

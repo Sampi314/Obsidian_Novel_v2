@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Đỉnh Phong
-    methods: []
+    methods: [Thiên Hỏa Đoạn Kim]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1800, 1800, 1800, 1434, 1800, 1399]
+    relationships:
+      - character: Mã Hồng Lô
+        description: Đệ Ngũ Tháp Chủ, bạn uống rượu thân thiết, hai người thường trao đổi kinh nghiệm
+        feelings:
+          yeu: 60
+          han: 0
+          kinh: 0
+          tin: 65
+          so: 0
+          on: 47
+      - character: Châu Ngọc Yên
+        description: Đệ Thất Tháp Chủ, đồng liêu mà ông đánh giá cao sự sáng tạo
+        feelings:
+          yeu: 32
+          han: 0
+          kinh: 47
+          tin: 40
+          so: 0
+          on: 0
+      - character: Hứa Luyện
+        description: Đệ Bát Tháp Chủ, đồng liêu ít nói nhất nhưng ông tin tưởng về chuyên môn
+        feelings:
+          yeu: 29
+          han: 0
+          kinh: 0
+          tin: 73
+          so: 0
+          on: 0
+      - character: Thạch Hổ
+        description: Hộ Pháp Đường Chủ, chiến hữu cũ từ thời cùng nhau chống lại cuộc tập kích
+        feelings:
+          yeu: 42
+          han: 0
+          kinh: 0
+          tin: 47
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HOÀNG THIÊN HỎA (黃天火)

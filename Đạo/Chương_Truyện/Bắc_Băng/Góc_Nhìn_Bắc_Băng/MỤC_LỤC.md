@@ -15,3 +15,12 @@
 - [Chương 8: Nợ Máu Trả Bằng Kiếm — *Triệu Thanh Hằng*](Chương_00008_Nợ_Máu_Trả_Bằng_Kiếm.md)
 - [Chương 9: Hội Tụ Tại Băng Ngục — *Lý Tuyết Ưng*](Chương_00009_Hội_Tụ_Tại_Băng_Ngục.md)
 - [Chương 10: Bóng Ma Dưới Băng — *Sở Lăng Sương*](Chương_00010_Bóng_Ma_Dưới_Băng.md)
+
+## Arc 2: Băng Giải Huyết Hàn (Chương 11-16)
+
+- [Chương 11: Dấu Vết Trên Băng — *Sở Lăng Sương*](Chương_00011_Dấu_Vết_Trên_Băng.md)
+- [Chương 12: Kẻ Thù Lớn Hơn — *Triệu Thanh Hằng*](Chương_00012_Kẻ_Thù_Lớn_Hơn.md)
+- [Chương 13: Bí Mật Tầng Sâu — *Lý Tuyết Ưng*](Chương_00013_Bí_Mật_Tầng_Sâu.md)
+- [Chương 14: Sương Độc Và Nước Mắt — *Sở Lăng Sương*](Chương_00014_Sương_Độc_Và_Nước_Mắt.md)
+- [Chương 15: Nợ Mới Nợ Cũ — *Triệu Thanh Hằng*](Chương_00015_Nợ_Mới_Nợ_Cũ.md)
+- [Chương 16: Băng Giải Huyết Hàn — *Lý Tuyết Ưng*](Chương_00016_Băng_Giải_Huyết_Hàn.md)

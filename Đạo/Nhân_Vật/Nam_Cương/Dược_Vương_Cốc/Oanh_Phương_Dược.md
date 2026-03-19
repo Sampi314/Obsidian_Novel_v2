@@ -7,12 +7,39 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Sơ Kỳ
-    methods: []
+    methods: [yện Phương Dược Luyện Đan Thuật, thức sở trường Oanh Ca Thúc Đan]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [809, 1000, 866, 1000, 797, 818]
+    relationships:
+      - character: Hạc Mộng
+        description: Y Sư, đồng nghiệp thân thiết, ông ấy kê toa nàng bào chế, hai người như thầy trò
+        feelings:
+          yeu: 70
+          han: 0
+          kinh: 78
+          tin: 54
+          so: 0
+          on: 41
+      - character: Oanh Lâm Ca
+        description: Ca Sĩ tán tu, người cùng tộc oanh mà nàng quen biết, đôi khi trao đổi thảo dược rừng già
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Phượng Xích Diệm
+        description: Chiến Sĩ Phượng Hỏa Tộc, khách hàng thường xuyên mua đan dược trị bỏng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: OANH PHƯƠNG DƯỢC (鶯芳藥)

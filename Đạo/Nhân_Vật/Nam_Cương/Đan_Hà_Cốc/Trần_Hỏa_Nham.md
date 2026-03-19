@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [Nham Hỏa Dung Luyện]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2000, 3000, 3000, 3000, 2591, 3000]
+    relationships:
+      - character: Dương Linh Hỏa
+        description: Đệ Nhất Tháp Chủ, đồng liêu thân thiết nhất, hai người bổ sung tài năng cho nhau
+        feelings:
+          yeu: 79
+          han: 0
+          kinh: 23
+          tin: 69
+          so: 0
+          on: 44
+      - character: Đan Dương Tử
+        description: Cốc Chủ, cấp trên mà ông tôn kính vì tầm nhìn và tài năng lãnh đạo
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 72
+          tin: 51
+          so: 0
+          on: 0
+      - character: Mã Hồng Lô
+        description: Đệ Ngũ Tháp Chủ, đồng liêu hay tranh luận về phương pháp luyện đan nhưng tôn trọng lẫn nhau
+        feelings:
+          yeu: 21
+          han: 0
+          kinh: 0
+          tin: 44
+          so: 0
+          on: 0
+      - character: Phùng Lô Hỏa
+        description: Nội Môn Đệ Tử, đệ tử ruột mà ông đang đào tạo thành thế hệ kế cận
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 67
+          tin: 36
+          so: 0
+          on: 54
 ---
 
 # HỒ SƠ NHÂN VẬT: TRẦN HỎA NHAM (陳火岩)

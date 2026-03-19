@@ -7,12 +7,41 @@ race: Vi Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Trung Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    methods: [Huyết Tịnh Phân Giải Pháp]
+    inventory:
+      - name: Huyết Tịnh Hạch
+        type: Linh Vật
+    stats: [160, 380, 490, 200, 270, 300]
+    relationships:
+      - character: Bào Hồng Tán
+        description: Tộc Trưởng, người duy nhất hiểu được giá trị nghiên cứu của hắn dù lo lắng cho sự an toàn
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 45
+          tin: 70
+          so: 0
+          on: 40
+      - character: Bào Ngọc Quang
+        description: Dược Sư, học trò và đối tác nghiên cứu, thường xuyên tranh luận về phương pháp trị liệu
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 10
+          tin: 65
+          so: 0
+          on: 0
+      - character: Bào Tịnh Hóa
+        description: Tịnh Hóa Sư, đồng nghiệp chuyên thanh lọc nhưng theo hướng khác — nàng dùng cơ thể hấp thụ, hắn dùng trí tuệ phân tích
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 25
+          tin: 60
+          so: 15
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: BÀO HUYẾT TỊNH (孢血淨)
@@ -26,15 +55,19 @@ arcs:
 - **Chức Vụ:** Chuyên Gia Huyết Độc.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Hiểu rõ huyết độc hơn bất kỳ ai trên lục địa
+Bào Huyết Tịnh có hình dáng một cây nấm nhỏ sắc đỏ thẫm pha tím, tán nấm dày và cong xuống như chiếc ô ngược, bề mặt luôn rỉ ra một lớp dịch nhầy trong suốt hơi đỏ — dấu hiệu của việc liên tục hấp thụ và xử lý huyết độc. Thân nấm ngắn, mập, có màu xám đen vì tích tụ quá nhiều tạp chất đã qua phân giải. Điểm đặc biệt nhất là phần dưới tán nấm — nơi phiến nấm mọc dày đặc — phát ra ánh sáng đỏ nhạt theo nhịp chậm rãi, như nhịp tim của một sinh vật cổ xưa đang thở.
+
+Tính cách trầm mặc, ít giao tiếp với tộc nhân, dành phần lớn thời gian chìm trong "trạng thái phân giải" — một dạng thiền định nơi hắn tập trung toàn bộ linh thức vào việc phân tích cấu trúc của các loại huyết độc. Huyết Tịnh mang tâm lý của một học giả hơn là chiến binh, đặt câu hỏi "tại sao" trước mọi hiện tượng. Đạo Tâm: "Tri Độc Tắc Giải Độc" (知毒則解毒) — hiểu rõ độc thì mới giải được độc. Hắn tin rằng mọi thứ trên đời đều có cấu trúc, và cấu trúc nào cũng có thể bị phá vỡ nếu tìm đúng điểm yếu.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-Thành viên của Bào Tử Mật Lâm Tộc, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 孢血淨·Bản Mệnh (孢血淨·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
+Tu luyện *Huyết Tịnh Phân Giải Pháp* (血淨分解法) — pháp môn cho phép Huyết Tịnh phân tích bất kỳ loại độc tố nào ở cấp vi mô, tách chúng thành các thành phần cơ bản rồi chuyển hóa thành dưỡng chất nuôi thảm nấm. Chiêu thức *Huyết Phân Vạn Tích* (血分萬析) tạo ra một trường phân giải bán kính ba trượng, bất kỳ chất độc nào trong phạm vi đều bị hút về phía hắn và xử lý. Trong tình huống chiến đấu, hắn có thể đảo ngược quá trình — phun ngược độc tố đã tích lũy dưới dạng sương mù độc cực đặc bằng *Huyết Phản Độc Vụ* (血反毒霧), nhưng điều này tổn hại nghiêm trọng đến thân thể vì phải tống hết tạp chất đã tích tụ ra ngoài cùng lúc.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bào Hắc Lâm:** Trinh Sát, đồng liêu quan trọng nhất trong Bào Tử Mật Lâm Tộc.
-- **Bào Hồng Tán:** Tộc Trưởng, đối tác thường xuyên phối hợp.
-- **Bào Lục Quang Thiên:** Phát Quang Sư, mối quan hệ tin cậy lẫn nhau.
+- **Bào Hồng Tán:** Tộc Trưởng, người giao cho hắn nhiệm vụ nguy hiểm nhất — nghiên cứu Huyết Thần Độc của Vạn Độc Môn. Huyết Tịnh cảm kích sự tin tưởng nhưng cũng biết mình đang đi trên lưỡi dao.
+- **Bào Ngọc Quang:** Dược Sư trẻ tuổi, thường xuyên mang mẫu nấm dược liệu đến để cùng Huyết Tịnh thử nghiệm phương pháp giải độc mới. Hai người tranh cãi không ngừng nhưng tôn trọng nhau sâu sắc.
+- **Bào Tịnh Hóa:** Tịnh Hóa Sư cùng chuyên ngành thanh lọc nhưng khác phương pháp. Huyết Tịnh phân tích bằng trí tuệ, Tịnh Hóa dùng cơ thể hấp thụ trực tiếp. Hắn ngầm lo lắng rằng cách làm của Tịnh Hóa quá mạo hiểm.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-Bào Huyết Tịnh lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Bào Tử Mật Lâm Tộc. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Bào Tử Mật Lâm Tộc và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Chuyên Gia Huyết Độc.
+Bào Huyết Tịnh nảy mầm ngay tại rìa vùng ô nhiễm nặng nhất của Rừng Huyết Độc, nơi đất đã biến thành bùn đen và linh lực hoàn toàn bị độc tố thay thế. Điều kỳ lạ là thay vì chết đi như hàng vạn bào tử khác, Huyết Tịnh lại hấp thụ được huyết độc và chuyển hóa nó thành năng lượng tu luyện. Hồng Tán phát hiện hắn khi mạng sợi nấm ngầm truyền về tín hiệu bất thường — một cá thể nấm đơn độc đang sống khỏe mạnh ở nơi mà không ai có thể tồn tại.
+
+Được đưa về trung tâm thảm nấm, Huyết Tịnh nhanh chóng trở thành chuyên gia huyết độc không thể thay thế. Hắn là người đầu tiên trong tộc nhận ra rằng Huyết Thần Độc mà Vạn Độc Môn sử dụng không phải sản phẩm nhân tạo thông thường, mà chứa tàn dư linh lực thượng cổ — phát hiện này khiến toàn tộc rúng động. Gần đây, Huyết Tịnh âm thầm nghiên cứu mối liên hệ giữa Huyết Thần Độc và Huyết Tinh Sa, nghi ngờ rằng nguồn gốc thật sự của loại độc này có liên quan đến phế tích cổ đại nằm sâu dưới lòng đất. Bí mật lớn nhất của hắn: trong quá trình phân giải Huyết Thần Độc, thần trí hắn đôi khi bắt gặp những mảnh ký ức cổ xưa không thuộc về mình — hình ảnh lờ mờ về một trận chiến khủng khiếp từ thời thượng cổ.

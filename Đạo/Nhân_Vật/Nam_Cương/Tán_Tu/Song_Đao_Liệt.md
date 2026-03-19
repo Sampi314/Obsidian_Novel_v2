@@ -7,12 +7,39 @@ race: Trùng Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [393, 364, 339, 400, 375, 307]
+    relationships:
+      - character: Dạ Nga Tiên
+        description: Đồng hương Trùng Tộc, hắn khinh thường lối đánh ẩn nấp của nàng nhưng vẫn trao đổi tin tức khi cần
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: -34
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hạc Hồng Nhi
+        description: Từng giao đấu khi Hồng Nhi bay qua lãnh thổ hắn, kết quả hòa. Từ đó hai bên có sự tôn trọng ngầm
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Yến Tử
+        description: Tránh né, biết Yến Tử tu vi cao hơn nhiều nên không dám thách đấu. Âm thầm coi nàng là mục tiêu cần vượt qua
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: SONG ĐAO LIỆT (雙刀裂)

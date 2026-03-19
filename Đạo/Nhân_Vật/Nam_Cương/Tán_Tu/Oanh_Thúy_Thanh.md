@@ -7,12 +7,48 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [811, 819, 784, 1000, 843, 712]
+    relationships:
+      - character: Oanh Lâm Ca
+        description: Anh họ, người thường xuyên phối hợp cùng nàng — Lâm Ca hát dẫn dụ yêu thú để nàng truyền tin an toàn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hạc Hồng Nhi
+        description: Bạn thân và đồng minh, Hồng Nhi từng cứu nàng khỏi nanh vuốt yêu thú. Hai người thường hợp tác săn bắt
+        feelings:
+          yeu: 51
+          han: 0
+          kinh: 0
+          tin: 44
+          so: 0
+          on: 0
+      - character: Yến Tử
+        description: Đàn chị trong giới trinh sát tán tu, Thúy Thanh học được nhiều kỹ năng ẩn tung từ Yến Tử
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Dạ Nga Tiên
+        description: Khách hàng thường xuyên, Dạ Nga Tiên trả tiền để Thúy Thanh truyền tin mật cho các mối liên lạc
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: OANH THÚY THANH (鶯翠青)

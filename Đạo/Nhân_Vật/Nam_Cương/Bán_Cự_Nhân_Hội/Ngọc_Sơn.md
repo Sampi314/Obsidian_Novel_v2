@@ -7,12 +7,39 @@ race: Cự Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [u luyện Ngọc Sơn Chấn Địa Thuật, Sơn Hà Nhất Chưởng]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3000, 3000, 2923, 2615, 3000, 2769]
+    relationships:
+      - character: Ngọc Thạch Lâm
+        description: Chiến Sĩ, em trai ruột mà nàng luôn lo lắng và bảo vệ, sợ cậu ta quá nóng nảy gây họa
+        feelings:
+          yeu: 72
+          han: 0
+          kinh: 0
+          tin: 44
+          so: 66
+          on: 49
+      - character: Ngọc Thiết Lôi
+        description: Thợ Rèn Bán Thạch Cự Nhân, họ hàng xa đáng tin cậy, người rèn vũ khí cho hội
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 54
+          so: 0
+          on: 0
+      - character: Huyết Giáp
+        description: Giáp Chiến Sĩ Ký Sinh Liên Minh, đối tác thương mại và đồng minh chiến đấu đáng tin cậy
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 57
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NGỌC SƠN (玉山)

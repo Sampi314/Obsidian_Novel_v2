@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [Trầm Thủy Mê Hồn]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2663, 3000, 3000, 2693, 3000, 2400]
+    relationships:
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ, người duy nhất mà ông thực sự sợ hãi
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 51
+          on: 0
+      - character: La Vân Ti
+        description: Nhện Chi Hộ Pháp, đồng liêu mà ông thường hợp tác trong chiến đấu
+        feelings:
+          yeu: 31
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 0
+      - character: Cổ Hàn Sương
+        description: Luyện Tà Đường Chủ, người mà ông thầm ngưỡng mộ về trí tuệ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 72
+          tin: 59
+          so: 0
+          on: 0
+      - character: Mạc Thiên Túc
+        description: Rết Chi Hộ Pháp, đồng liêu mà ông ngầm thao túng bằng lời nói
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 0
+          tin: 26
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐÀM TRẦM THỦY (譚沈水)

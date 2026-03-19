@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Viên Mãn
-    methods: []
+    methods: [u thức sở trường Lô Hỏa Vi Diệu]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [440, 500, 500, 429, 500, 350]
+    relationships:
+      - character: Trần Hỏa Nham
+        description: Đệ Nhị Tháp Chủ, sư phụ trực tiếp, người mà hắn kính trọng và muốn noi theo
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 54
+          tin: 58
+          so: 0
+          on: 38
+      - character: Dương Tiểu Lô
+        description: Đại Đệ Tử, sư huynh và bạn tâm giao thân thiết nhất
+        feelings:
+          yeu: 77
+          han: 0
+          kinh: 0
+          tin: 44
+          so: 0
+          on: 35
+      - character: Tiêu Hỏa Nhi
+        description: Đệ Cửu Tháp Chủ, sư tỷ hay bắt nạt nhưng hắn biết cô ấy quan tâm
+        feelings:
+          yeu: 38
+          han: 0
+          kinh: -43
+          tin: 45
+          so: 0
+          on: 0
+      - character: Vương Cương
+        description: Đệ Tam Hộ Pháp, đàn em thân thiết cùng luyện tập
+        feelings:
+          yeu: 53
+          han: 0
+          kinh: 0
+          tin: 69
+          so: 0
+          on: 44
 ---
 
 # HỒ SƠ NHÂN VẬT: PHÙNG LÔ HỎA (馮爐火)

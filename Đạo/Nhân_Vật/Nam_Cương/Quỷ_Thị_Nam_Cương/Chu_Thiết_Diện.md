@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2478, 2573, 2447, 2734, 3000, 2666]
+    relationships:
+      - character: Mạc Vô Diện
+        description: Quỷ Chủ, thượng cấp tối cao mà Chu Thiết Diện tuyệt đối trung thành
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 50
+          so: 0
+          on: 0
+      - character: Ám Nhị
+        description: Tổng Quản phụ, người hỗ trợ điều tra các vụ vi phạm luật lệ trong Quỷ Thị
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Lệ Tam
+        description: Đấu Giá Sư, kẻ hay gây phiền phức bằng miệng lưỡi nhưng Chu Thiết Diện phải bảo vệ an toàn
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 0
+          tin: 44
+          so: 0
+          on: 28
 ---
 
 # HỒ SƠ NHÂN VẬT: CHU THIẾT DIỆN (朱鐵面)

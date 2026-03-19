@@ -7,12 +7,39 @@ race: Trùng Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
-    methods: []
+    methods: [c Kén Tử tu luyện Kén Hóa Quyết, thức sở trường Mặc Kén Phong Ấn]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [800, 1291, 1051, 1079, 1116, 1026]
+    relationships:
+      - character: Huyết Giáp
+        description: Giáp Chiến Sĩ Ký Sinh Liên Minh, đồng tộc Trùng Tộc hay gặp nhau bàn luận tu luyện
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: U Ảnh
+        description: Nhện Sát Thủ Vạn Độc Môn, đồng tộc Trùng Tộc nhưng quan điểm khác biệt, hay tranh luận triết học côn trùng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Dạ Nga Tiên
+        description: Gián Điệp tán tu, đồng tộc Trùng Tộc mà hắn từng giúp đỡ khi nàng bị thương
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: MẶC KÉN TỬ (墨繭子)

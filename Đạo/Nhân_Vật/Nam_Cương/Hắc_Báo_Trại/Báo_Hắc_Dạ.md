@@ -7,12 +7,39 @@ race: Yêu Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Viên Mãn
-    methods: []
+    methods: [Dạ tu luyện Hắc Dạ Vương Thuật, Dạ Vương Tập Kích]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [445, 413, 500, 438, 430, 458]
+    relationships:
+      - character: Báo Ám Ảnh Phong
+        description: Sát Thủ, thuộc hạ trung thành nhất, cánh tay trong bóng tối mà hắn tin tưởng tuyệt đối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 74
+          so: 0
+          on: 0
+      - character: Báo Nguyệt Nha
+        description: Trinh Sát, đôi tai đôi mắt của hắn trong rừng già, thông minh và đáng tin cậy
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 52
+          so: 0
+          on: 0
+      - character: Báo Tiểu Hắc
+        description: Báo Con, con trai ruột mà hắn vừa yêu thương vừa lo lắng vì tính hiếu kỳ
+        feelings:
+          yeu: 62
+          han: 0
+          kinh: 0
+          tin: 69
+          so: 0
+          on: 43
 ---
 
 # HỒ SƠ NHÂN VẬT: BÁO HẮC DẠ (豹黑夜)

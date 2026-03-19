@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Sơ Kỳ
-    methods: []
+    methods: [Mộc Thân Vạn Độc]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1000, 974, 821, 886, 1000, 710]
+    relationships:
+      - character: Ân Tiểu Độc
+        description: Nội Môn Đệ Tử, người mà hắn bảo vệ như em trai
+        feelings:
+          yeu: 80
+          han: 0
+          kinh: 0
+          tin: 60
+          so: 0
+          on: 42
+      - character: Lệ Vô Tâm
+        description: Thánh Tử, đồng môn mà hắn cố gắng kết bạn dù bị từ chối
+        feelings:
+          yeu: 47
+          han: 0
+          kinh: 0
+          tin: 35
+          so: 0
+          on: 0
+      - character: Cô Nguyệt Nương
+        description: Cổ Độc Sư, người phụ nữ tốt bụng mà hắn kính trọng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 44
+          tin: 60
+          so: 0
+          on: 0
+      - character: Mạc Thiên Túc
+        description: Rết Chi Hộ Pháp, cấp trên hay bắt nạt hắn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 50
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: A MỘC (阿木)

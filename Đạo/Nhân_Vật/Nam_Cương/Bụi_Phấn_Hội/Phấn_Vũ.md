@@ -7,12 +7,30 @@ race: Vi Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Luyện Khí Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [60, 86, 87, 87, 48, 72]
+    relationships:
+      - character: Phấn Thanh Lộ
+        description: Đồng môn Bụi Phấn Hội, em nuôi, cùng nhau nghiên cứu thực vật
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Tằm Dạ Quang
+        description: Đồng minh Cổ Kén Tu Luyện Xã, đối tác trao đổi lâu dài
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: PHẤN VŨ (粉羽)
