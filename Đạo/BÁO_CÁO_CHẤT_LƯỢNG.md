@@ -50,3 +50,5 @@
 
 
 - [Linh Hồ Tàn Tộc] Đã điền thông tin chi tiết (Sections II-V) cho Hồ Cửu Thiên, Hồ Linh Hỏa, Hồ Nguyệt Quang.
+
+- [Hoàn Thành] Đã điền chi tiết 3 nhân vật Tinh Minh, Tinh Sắc, Tinh Thấu (Thủy Tinh Thạch Phường - Tây Mạc).

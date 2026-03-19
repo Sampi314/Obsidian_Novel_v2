@@ -2323,3 +2323,21 @@ if (typeof characters !== 'undefined') {
         { source: "khuan_hac_nhuong", target: "khuan_da_thuc", type: "Đồng Phái", description: "Là trạm cuối cùng trong quy trình xử lý của Linh Sa Khuẩn Đoàn. Y tiếp nhận mọi phế phẩm từ Dạ Thực để hoàn tất vòng tuần hoàn." }
     );
 }
+
+// Thủy Tinh Thạch Phường (Tây Mạc)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "tinh_minh", name: "Tinh Minh", title: "Phường Chủ", realm: "Trúc Cơ", faction: "Thủy Tinh Thạch Phường", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#b0e0e6" },
+        { id: "tinh_sac", name: "Tinh Sắc", title: "Thợ Cả", realm: "Trúc Cơ", faction: "Thủy Tinh Thạch Phường", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ff7f50" },
+        { id: "tinh_thau", name: "Tinh Thấu", title: "Thợ Cả", realm: "Trúc Cơ", faction: "Thủy Tinh Thạch Phường", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#e0ffff" }
+    );
+    relationships.push(
+        { source: "tinh_minh", target: "tinh_sac", type: "Đồng Phái", description: "Bằng hữu sinh tử, Thợ cả đắc lực luôn ủng hộ nhiệt tình mọi quyết định táo bạo của hắn." },
+        { source: "tinh_minh", target: "tinh_thau", type: "Sư Đồ", description: "Đệ tử chân truyền, ngộ tính cao, học hỏi rất nhanh các kỹ thuật chế tác thủy tinh linh do hắn truyền thụ." },
+        { source: "tinh_minh", target: "hua_nhuoc_thuy", type: "Đồng Minh", description: "Khách hàng tiềm năng từ Thiên Sa Thương Hội mà Tinh Minh đang cố gắng đàm phán." },
+        { source: "tinh_sac", target: "tinh_minh", type: "Đồng Phái", description: "Phường Chủ mà hắn hết mực trung thành, coi như minh chủ của thế hệ trẻ Thạch Tộc." },
+        { source: "tinh_sac", target: "tinh_thau", type: "Đồng Phái", description: "Sư thúc thường xuyên nghiêm khắc rèn giũa kỹ năng cho Tinh Thấu nhưng thực chất rất quan tâm, bảo vệ." },
+        { source: "tinh_thau", target: "tinh_minh", type: "Sư Đồ", description: "Vị sư phụ đáng kính đã cưu mang hắn từ nhỏ, truyền thụ tinh hoa 'Tinh Luyện Thuật'." },
+        { source: "tinh_thau", target: "tinh_sac", type: "Đồng Phái", description: "Sư thúc thường xuyên rầy la vì thiếu cẩn thận nhưng lại luôn bảo vệ hắn." }
+    );
+}

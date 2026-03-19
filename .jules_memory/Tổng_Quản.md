@@ -10,3 +10,6 @@
 - Đã hoàn thiện hồ sơ cho 3 nhân vật phe Thiên Mộc Thành (Thiên Trụ): Mộc Thiên Hào, Mộc Thiên Quân, Mộc Vân.
 - Cập nhật relationship_data.js.
 - Cập nhật HỒ_SƠ_THẾ_GIỚI.md.
+
+## PHIÊN GẦN NHẤT
+- Hoàn thành Task 9: Điền chi tiết cho 3 nhân vật Thủy Tinh Thạch Phường (Tây Mạc): Tinh Minh, Tinh Sắc, Tinh Thấu. Cập nhật relationship_data.js và HỒ_SƠ_THẾ_GIỚI.md. Đã chạy test và pass.
