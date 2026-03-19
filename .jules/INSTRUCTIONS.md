@@ -449,3 +449,4 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
 > Đã hoàn thành Task 9 cho 3 nhân vật Hoàng Sa Di Dân (Tây Mạc): Hoàng Cổ Nham, Hoàng Minh Nguyệt, Hoàng Ngọc Dương.
 > Đã hoàn thành Task 9 cho 3 nhân vật Địa Tâm Thám Hiểm Đội (Tây Mạc): Nham Quang, Nham Thính, Nham Đào.
 > Đã hoàn thành Task 9 cho 3 nhân vật Tán Tu (Thiên Trụ): Hỏa Kiến Vương, Thiết Trùng, Vân Nga Tiên Tử.
+> Đã hoàn thành Task 9 cho 3 nhân vật Hàn Dân Hộ Vệ Đội (Bắc Băng): Lê Thạch Bàn, Nguyễn Đại Lực, Phạm Hỏa Nương.
