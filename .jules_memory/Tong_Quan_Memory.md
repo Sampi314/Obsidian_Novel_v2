@@ -1,11 +1,5 @@
 ## TỔNG HỢP LỊCH SỬ (tự động nén)
-- Hoàn thành Task 9 cho nhiều phe phái ở các khu vực khác nhau.
-- Tiếp tục viết chương catch-up cho Lâm Phong và các POV khác (A Ngốc, v.v.).
-
+- Các phiên trước: Cập nhật nhiều nhân vật ở Tây Mạc, Thiên Trụ, Vô Tận Hải, Bắc Băng.
 ## PHIÊN GẦN NHẤT
-- Đã hoàn thành Task 9 (Điền thông tin nhân vật) cho 3 nhân vật thuộc Sóng Vi Ba Liên Lạc (Vô Tận Hải): Ba Ngân Hà, Ba Tiểu Sóng, Ba Trầm Lặng.
-- Bổ sung các section II-V (Ngoại hình, Tính cách, Năng lực, Quan hệ, Tiểu sử) hoàn toàn bằng tiếng Việt.
-- Đã cập nhật `scripts/relationship_data.js` thêm nodes và links của 3 nhân vật trên.
-- Đã cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md` bổ sung tóm tắt thông tin của 3 nhân vật.
-- Đã ghi log vào `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
-- Cập nhật số liệu Task 9 trong `INSTRUCTIONS.md` (còn 296 nhân vật chưa điền chi tiết).
+- Đã hoàn thành Task 9 cho 3 nhân vật Sa Mãng Tộc (Tây Mạc): Huyền Sa, Xà Ám Lân, Xà Linh Vĩ.
+- Cập nhật scripts/relationship_data.js và Đạo/HỒ_SƠ_THẾ_GIỚI.md.

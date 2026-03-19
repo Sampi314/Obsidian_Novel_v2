@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: Còn khoảng 296 nhân vật có placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Sóng Vi Ba Liên Lạc - Vô Tận Hải ở phiên trước: Ba Ngân Hà, Ba Tiểu Sóng, Ba Trầm Lặng). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
+1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: Còn khoảng 293 nhân vật có placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Sa Mãng Tộc - Tây Mạc ở phiên trước: Huyền Sa, Xà Ám Lân, Xà Linh Vĩ). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
 2. **Sau khi Task 9 hoàn thành** → Tiếp tục Catch-up Lâm Phong (Task 2): Viết chương 133+ cho Góc Nhìn Lâm Phong.
 3. **Sau khi Task 9 hoàn thành** → Tiếp tục Task 5 (Tuyến Khu Vực): Viết Arc 2 cho các khu vực.
 

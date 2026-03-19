@@ -1,6 +1,39 @@
 const relationshipData = {
   "characters": [
     {
+      "id": "huyen_sa",
+      "name": "Huyền Sa",
+      "title": "Tộc Trưởng",
+      "realm": "Trúc Cơ",
+      "faction": "Sa Mãng Tộc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "xa_am_lan",
+      "name": "Xà Ám Lân",
+      "title": "Trưởng Lão",
+      "realm": "Trúc Cơ",
+      "faction": "Sa Mãng Tộc",
+      "region": "Tây Mạc",
+      "role": "key_member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "xa_linh_vi",
+      "name": "Xà Linh Vĩ",
+      "title": "Trinh Sát",
+      "realm": "Luyện Khí",
+      "faction": "Sa Mãng Tộc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#cddc39"
+    },
+    {
       "id": "hoa_kien_vuong",
       "name": "Hỏa Kiến Vương",
       "title": "Kiến Đoàn Trưởng",
@@ -882,6 +915,27 @@ const relationshipData = {
     }
   ],
   "relationships": [
+    {
+      "source": "huyen_sa",
+      "target": "xa_am_lan",
+      "type": "master",
+      "description": "Tin tưởng tuyệt đối, giao phó quản lý đàn",
+      "strength": 80
+    },
+    {
+      "source": "huyen_sa",
+      "target": "xa_linh_vi",
+      "type": "master",
+      "description": "Lựa chọn làm trinh sát trưởng vì sự thông minh",
+      "strength": 70
+    },
+    {
+      "source": "xa_am_lan",
+      "target": "xa_linh_vi",
+      "type": "rival",
+      "description": "Bằng mặt không bằng lòng, khinh thường sự nhỏ bé",
+      "strength": 30
+    },
     {
       "source": "giai_thiet_kim",
       "target": "thuy_linh_nhi",
