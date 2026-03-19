@@ -633,6 +633,11 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Châu Thương (Đấu Giá Đường Chủ)**: Thương nhân phốt pháp, phúc hậu nhưng vô cùng mưu mô, bậc thầy thao túng tâm lý đám đông tại các buổi đấu giá bằng "Ngôn Linh Thôi Miên".
   - **Hứa Ngọc (Giám Định Sư)**: Từng là thành viên Hứa gia và quản sự phân đà Thiên Sa Thương Hội tại Tây Mạc, mang thân phận hai mang và giảo hoạt, hiện làm việc cho Bách Bảo Các tại vùng biên viễn để phục vụ ý đồ báo thù Lâm Phong.
 
+### Tán Tu Trùng Tộc (Thiên Trụ)
+- **Hỏa Kiến Vương (Kiến Đoàn Trưởng):** Trúc Cơ Viên Mãn, kiến lửa khổng lồ với lớp vỏ đỏ rực kiên cố, điều khiển vạn kiến quy tông tạo biển lửa phệ hồn. Tàn bạo, độc đoán, muốn xưng bá khu vực dưới chân Thiên Trụ.
+- **Thiết Trùng (Sơn Trùng Thủ Vệ):** Kim Đan Hậu Kỳ, thân cứng hơn huyền thiết, phản đòn pháp thuật, thích ăn quặng mỏ và thường cuộn mình như khối thiên thạch để nghiền nát đối thủ.
+- **Vân Nga Tiên Tử (Trinh Sát):** Kim Đan Sơ Kỳ, hóa hình thành nữ tử kiều diễm, dùng độc và huyễn thuật để mê hoặc nhân tâm, chuyên bán tình báo và dùng mưu để đoạt tài nguyên.
+
 - Cập nhật các mối quan hệ nội bộ và ngoại giao của phường vào hệ thống dữ liệu cốt truyện.
 
 ## SỰ KIỆN LỊCH SỬ NỔI BẬT
