@@ -445,3 +445,4 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
 > Đã hoàn thành Task 9 cho 3 nhân vật Băng Ngục Đào Vong Giả (Bắc Băng): Cương Thạch Nữ, Hắc Diện Nhân, Lãnh Vô Tâm.
 > Đã hoàn thành Task 9 cho 3 nhân vật Linh Hồ Tàn Tộc (Vô Tận Hải): Hồ Cửu Thiên, Hồ Linh Hỏa, Hồ Nguyệt Quang.
 > Đã hoàn thành Task 9 cho 3 nhân vật Linh Sa Khuẩn Đoàn (Tây Mạc): Khuẩn Bạch Cốt, Khuẩn Dạ Thực, Khuẩn Hắc Nhưỡng.
+> Đã hoàn thành Task 9 cho 3 nhân vật Thủy Tinh Thạch Phường (Tây Mạc): Tinh Minh, Tinh Sắc, Tinh Thấu.
