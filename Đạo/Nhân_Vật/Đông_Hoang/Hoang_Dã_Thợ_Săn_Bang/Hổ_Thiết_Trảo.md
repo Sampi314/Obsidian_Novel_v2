@@ -32,9 +32,9 @@ Dáng người nhỏ nhắn nhanh nhẹn, đôi mắt to tròn lanh lợi. Nụ 
 Tinh thông công pháp trấn phái của Hoang Dã Thợ Săn Bang, đạt cảnh giới đại thành. Tuyệt chiêu 虎鐵爪·Chấn Phái Quyết (虎鐵爪·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Báo Khoái Đao:** Sát Thủ, đồng liêu quan trọng nhất trong Hoang Dã Thợ Săn Bang.
-- **Lang Liệp Phong:** Bang Chủ, đối tác thường xuyên phối hợp.
-- **Ưng Lợi Nhãn:** Trinh Sát Trưởng, mối quan hệ tin cậy lẫn nhau.
-
+- **Lang Liệp Phong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Hoang Dã Thợ Săn Bang
+- **Lang Liệp Phong** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lang Liệp Phong
+- **Ưng Lợi Nhãn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hoang Dã Thợ Săn Bang
+- **Báo Khoái Đao** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hoang Dã Thợ Săn Bang
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hổ Thiết Trảo được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Hoang Dã Thợ Săn Bang. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Hoang Dã Thợ Săn Bang và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Phó Bang Chủ.

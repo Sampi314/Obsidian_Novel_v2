@@ -32,9 +32,13 @@ Vẻ ngoài khắc khổ với dáng người gầy gò nhưng tinh thần mạn
 Tinh thông công pháp trấn phái của Hoang Dã Thợ Săn Bang, đạt cảnh giới đại thành. Tuyệt chiêu 狼獵風·Chấn Phái Quyết (狼獵風·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Báo Khoái Đao:** Sát Thủ, đồng liêu quan trọng nhất trong Hoang Dã Thợ Săn Bang.
-- **Hổ Thiết Trảo:** Phó Bang Chủ, đối tác thường xuyên phối hợp.
-- **Ưng Lợi Nhãn:** Trinh Sát Trưởng, mối quan hệ tin cậy lẫn nhau.
-
+- **Hổ Thiết Trảo** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Hoang Dã Thợ Săn Bang
+- **Ưng Lợi Nhãn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Hoang Dã Thợ Săn Bang
+- **Báo Khoái Đao** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Hoang Dã Thợ Săn Bang
+- **Hổ Thiết Trảo** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lang Liệp Phong
+- **Ưng Lợi Nhãn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lang Liệp Phong
+- **Báo Khoái Đao** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lang Liệp Phong
+- **Hồ Thất Cửu** (Đồng minh): Bang Chủ Thợ Săn nhận nhiệm vụ từ Thành Chủ
+- **Nha Huyền Dạ Phong** (Đối thủ): Thợ Săn Bang và Liên Trưởng Hoang Dã, xung đột lãnh thổ
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lang Liệp Phong được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Hoang Dã Thợ Săn Bang. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Hoang Dã Thợ Săn Bang và dần khẳng định vị trí của mình. Với tu vi Kim Đan Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Bang Chủ.
