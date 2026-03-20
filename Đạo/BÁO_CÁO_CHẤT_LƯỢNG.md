@@ -72,3 +72,5 @@
 
 
 - **Ngày 2024-05-30**: Đã điền chi tiết 4 phần (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật: **Vũ Khinh Hồng**, **Vũ Phiêu Linh**, **Vũ Tật Phong** (Hàn Phong Truyền Tin Đội - Bắc Băng) theo Task 9. Cập nhật relationship_data.js.
+
+- [Nhân Vật] Điền thông tin cho Phong Thiết Nha, Vân Hải Đồ, Đặng Thương Hà (Phong Bạo Thương Đội - Vô Tận Hải).

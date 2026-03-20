@@ -9,3 +9,5 @@
 - Đã điền các phần Ngoại Hình & Tính Cách, Năng Lực & Chiến Đấu, Các Mối Quan Hệ, và Tiểu Sử & Hành Trình bằng Tiếng Việt dựa trên thông tin phe phái.
 - Đã cập nhật `scripts/relationship_data.js` với 3 nhân vật và các mối quan hệ của họ, đồng thời chạy kiểm tra frontend bằng pytest.
 - Đã cập nhật `.jules/INSTRUCTIONS.md`, `Đạo/HỒ_SƠ_THẾ_GIỚI.md` với tiến độ mới nhất của Task 9.
+
+- Phiên hiện tại: Hoàn thành Task 9 cho Phong Thiết Nha, Vân Hải Đồ, Đặng Thương Hà (Phong Bạo Thương Đội - Vô Tận Hải).

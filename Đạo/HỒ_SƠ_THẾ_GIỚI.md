@@ -859,3 +859,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 
 - **Trần Hải Phong (Phiêu Lưu Đảo Liên Minh):** Tổng Đảo Chủ với tu vi Kim Đan Sơ Kỳ nhưng phong cách chiến đấu thô sơ. Một người cha kiên cường che chở cho liên minh mười bảy đảo, mang trong mình bí mật nhục nhã từ quá khứ và sự thật về Đảo Thứ Mười Ba.
 - **Trần Tiểu Đăng (Phiêu Lưu Đảo Liên Minh):** Một thiếu niên mồ côi lạc quan, tò mò và yêu biển. Cậu là học trò cưng của Trần Hải Phong, có khả năng lặn sâu và đang ấp ủ ý định khám phá Đảo Thứ Mười Ba bị cấm.
+## NHÂN VẬT MỚI
+
+#### Phong Bạo Thương Đội
+- **Phong Thiết Nha** (Nguyên Anh Trung Kỳ): Hộ Pháp cường tráng, sử dụng Tật Phong Thiết Côn bảo vệ hạm đội.
+- **Vân Hải Đồ** (Kim Đan Viên Mãn): Hướng Đạo Sư trầm tĩnh, am hiểu hải lưu, la bàn định vị và tạo ảo ảnh sương mù.
+- **Đặng Thương Hà** (Kim Đan Hậu Kỳ): Đại Chưởng Quỹ mập mạp, mưu mô, coi trọng chữ tín và đàm phán thương mại.
