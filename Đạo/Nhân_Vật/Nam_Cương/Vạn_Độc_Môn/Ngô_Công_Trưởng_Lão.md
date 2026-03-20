@@ -38,6 +38,33 @@ arcs:
           tin: -100
           so: 0
           on: -100
+      - character: Âu Dương Vô Tích
+        description: Đồng liêu cùng thế hệ trong Vạn Độc Môn, lão nhân duy nhất hắn chịu nói chuyện
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 30
+          tin: 40
+          so: 0
+          on: 0
+      - character: Ân Mộc Thanh
+        description: Mộc Độc Sư Đường Chủ, hậu bối kính trọng hắn về kiến thức ngô công độc thuật
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 20
+          tin: 30
+          so: 0
+          on: 0
+      - character: Mạc Thiên Túc
+        description: Rết Chi Hộ Pháp, đệ tử truyền thụ Ngô Công Độc Thuật, thuộc hạ trung thành
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 25
+          tin: 45
+          so: 0
+          on: 5
 ---
 
 # NGÔ CÔNG TRƯỞNG LÃO (蜈蚣長老)
@@ -74,3 +101,10 @@ arcs:
 - Là kẻ truy sát chính trong Arc Huyết Mạch Thượng Cổ.
 - Đã bị trọng thương bởi đòn phối hợp của Diệp Tĩnh Sương và Lâm Phong nhưng chưa chết. Hắn vẫn đang lùng sục trong hệ thống rễ cây để báo thù.
 - Đại diện cho sự dai dẳng và đáng sợ của Vạn Độc Môn: Ngay cả khi bị thương nặng, chúng vẫn là mối đe dọa tử thần.
+
+## V. QUAN HỆ
+- **Lâm Phong** (Kẻ thù): Kẻ thù thâm thù, đã phối hợp trọng thương hắn tại Huyết Mạch Thượng Cổ.
+- **Diệp Tĩnh Sương** (Kẻ thù): Kẻ thù cay đắng, đã phối hợp trọng thương hắn.
+- **Âu Dương Vô Tích** (Đồng liêu): Thái Thượng Trưởng Lão, đồng liêu cùng thế hệ, người duy nhất hắn chịu nói chuyện.
+- **Ân Mộc Thanh** (Thuộc hạ): Mộc Độc Sư Đường Chủ, hậu bối kính trọng kiến thức của hắn.
+- **Mạc Thiên Túc** (Đệ tử): Rết Chi Hộ Pháp, đệ tử được truyền thụ Ngô Công Độc Thuật.
