@@ -32,8 +32,8 @@ Trùng Ngọc Châu dài khoảng bảy mươi phân, thân hình trắng hồng
 Trùng Ngọc Châu sở hữu Ngũ Sắc Ngọc Kết Tinh Thuật (五色玉結晶術) — kiểm soát quá trình kết tinh ngọc trai với độ chính xác cao, có thể tạo ra ngọc trai có màu sắc và hình dạng theo ý muốn. Trong trường hợp khẩn cấp, y có thể phóng ra một loạt ngọc trai nhỏ sắc bén như đạn, gây sát thương nhẹ cho kẻ địch. Tuy nhiên, khả năng chiến đấu rất hạn chế do bản chất là thợ chế tác, không phải chiến sĩ.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trùng Bạch:** Phường Chủ, người mà Ngọc Châu cực kỳ kính trọng và sẵn sàng hỗ trợ mọi kế hoạch, thường đóng vai cố vấn kỹ thuật cho Bạch.
-- **Trùng Tiểu Trai:** Học trò mà Ngọc Châu đang truyền dạy kỹ thuật chế tác ngọc, hy vọng thế hệ sau sẽ tạo ra ngọc trai vượt trội hơn.
-
+- **Trùng Bạch** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ngọc Trai Sâu Phường
+- **Trùng Bạch** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Bạch
+- **Trùng Tiểu Trai** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ngọc Trai Sâu Phường
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trùng Ngọc Châu là con sâu ngọc trai có tài năng chế tác bẩm sinh hiếm gặp, từ nhỏ đã tạo ra ngọc trai đẹp hơn hẳn đồng loại. Nhờ khả năng này, y được Giao Nhân ưu ái đôi chút — được cho ăn tốt hơn để duy trì chất lượng sản phẩm, nhưng cũng vì thế mà sản lượng bị ép cao hơn. Y âm thầm nghiên cứu cách tạo ngọc trai có đặc tính phòng thủ, cung cấp cho Trùng Bạch làm vũ khí bí mật. Ước mơ của y là tạo ra một viên ngọc trai hoàn hảo tuyệt đối — thứ mà y tin rằng sẽ mang lại tự do cho cả Phường.
