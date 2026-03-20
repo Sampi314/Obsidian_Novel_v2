@@ -85,7 +85,7 @@ arcs:
 
 ### Tier 2 — Nhân Vật Phụ Quan Trọng (19 POV characters)
 - [x] Đan Dương Tử (Đan Hà Cốc)
-- [ ] Diệp Thanh Y
+- [x] Diệp Thanh Y
 - [x] Hắc Hạt Ma Trùng
 - [x] Hàn Thanh Nguyệt
 - [x] Lục Trần
@@ -200,3 +200,4 @@ Tên file = tên nhân vật với `_` thay khoảng trắng (có dấu Tiếng 
 | 2026-03-20 | Claude Code | Lục Tiêu (DONE) | Checked 5 refs (Nguyệt Dao, A Ngốc, Diệp Thanh Y, Lâm Phong, Hắc Hạt Ma Trùng), all already bidirectional, no fixes needed |
 | 2026-03-20 | Claude Code | A Ngốc (DONE) | Checked 5 YAML + 9 markdown refs, fixed 3 missing reciprocals in A Ngốc's YAML (Nguyệt Dao, Sở Lăng Sương, Lâm Phong) |
 | 2026-03-20 | Claude Code | Lệ Nhược Thủy (DONE) | Checked 4 refs (Độc Cô Lão Quái, Ngao Đình, Ngư Quỷ Diện, Lệ Ngọc Hà), fixed 2 missing: Ngao Đình + Ngư Quỷ Diện YAML |
+| 2026-03-20 | Claude Code | Diệp Thanh Y (DONE) | Checked 5 YAML + 7 markdown refs, fixed 3: added Nguyệt Dao + Thảo Tâm Linh to Diệp Thanh Y's YAML, added Diệp Thanh Y to Thảo Tâm Linh's YAML |
