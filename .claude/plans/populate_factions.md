@@ -1,291 +1,421 @@
-# Kế Hoạch: Tạo Toàn Bộ Dân Số Thế Lực
+# Kế Hoạch Chi Tiết: Tạo Toàn Bộ Dân Số Thế Lực
 
-## Mục Tiêu
-Tạo stub nhân vật cho MỌI thế lực dựa trên cấp bậc (Hạng), bao gồm cả **phàm nhân**.
-Mỗi stub có tên có ý nghĩa + YAML + Section I (chức vụ, phong, tu vi).
-Phần nội dung chi tiết (Section II-V) sẽ do agent khác điền sau.
-
-## Unified Skill Source
-⚠️ **Mọi agent đều dùng:** `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1: Tạo Nhân Vật Mới)
-
-## ⛔ CẤM
-- **KHÔNG dùng script** để tạo tên — mỗi tên phải do AI đặt, có ý nghĩa phù hợp văn hóa xianxia
-- **KHÔNG dùng tên chức danh** làm tên riêng (Vương, Trưởng Lão, Chiến Sĩ...)
-- **KHÔNG trùng tên** trong cùng 1 thế lực
+## ⛔ QUY TẮC TUYỆT ĐỐI
+- **KHÔNG dùng script** — mỗi tên phải do AI đặt, có ý nghĩa xianxia
+- **KHÔNG dùng chức danh làm tên** (Vương, Trưởng Lão, Chiến Sĩ, Thủ Hộ...)
+- **KHÔNG trùng tên** trong cùng thế lực
+- **Skill duy nhất:** `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
 
 ---
 
-## Cấu Trúc Tông Môn Chuẩn
+# PHẦN 1: CẤU TRÚC THEO LOẠI THẾ LỰC
 
-### Cấp Bậc (Cao → Thấp)
+## 1A. Tông Môn (宗門) — 15 thế lực Hạng Nhất
+
+### Hệ Thống Cấp Bậc
 ```
-Thái Thượng Đại Trưởng Lão > Thái Thượng Trưởng Lão > Hộ Pháp > Tông Chủ > Phó Tông Chủ
-> Trưởng Lão/Phong Chủ > Thánh Tử/Nữ > Chân Truyền > Nội Môn > Ngoại Môn > Tạp Dịch
+Thái Thượng Đại Trưởng Lão (Luyện Hư+)
+  └─ Thái Thượng Trưởng Lão (Luyện Hư)
+       └─ Hộ Pháp (Nguyên Anh Đỉnh Phong)  ← tu vi cao hơn Tông Chủ
+            └─ Tông Chủ (Hóa Thần)  ← quản lý hành chính
+                 ├─ Phó Tông Chủ (Hóa Thần / Nguyên Anh Đỉnh Phong)
+                 ├─ Thánh Tử / Thánh Nữ (Kim Đan)  ← thế hệ kế thừa
+                 └─ Trưởng Lão / Phong Chủ (Nguyên Anh)
+                      └─ Chân Truyền Đệ Tử (Kim Đan)
+                           └─ Nội Môn Đệ Tử (Trúc Cơ)
+                                └─ Ngoại Môn Đệ Tử (Luyện Khí - Trúc Cơ Sơ)
+                                     └─ Tạp Dịch / Phàm Nhân
 ```
 
-**Lưu ý quan trọng:**
-- Tông Chủ = quản lý hành chính, KHÔNG nhất thiết mạnh nhất
-- Hộ Pháp tu vi CAO HƠN Tông Chủ
-- Ngoại Môn = pool chung, chưa phân phong
-- Tạp Dịch/Phàm Nhân = pool chung phục vụ toàn tông
+### Headcount Chi Tiết Cho Hạng Nhất Tông Môn
 
-### Số Lượng Theo Hạng
+| Vị Trí | Số Lượng | Tu Vi | Tuổi | Ghi Chú |
+|--------|:--------:|-------|:----:|---------|
+| Thái Thượng Đại TL | 1-3 | Luyện Hư Trung-Hậu Kỳ | 2000-5000 | Ẩn cư bế quan, chỉ xuất thế khi tông môn nguy |
+| Thái Thượng TL | 2-5 | Luyện Hư Sơ Kỳ | 1500-3000 | Cựu Tông Chủ, cố vấn |
+| Hộ Pháp | 5-10 | Nguyên Anh Đỉnh Phong | 800-1500 | Trấn phái, bảo vệ sơn môn |
+| Tông Chủ | 1 | Hóa Thần Sơ-Trung Kỳ | 800-1500 | Quản lý hành chính |
+| Phó Tông Chủ | 1-2 | Hóa Thần Sơ / NY Đỉnh Phong | 600-1200 | Phụ trách ngoại giao hoặc nội chính |
+| Thánh Tử | 0-1 | Kim Đan Trung-Hậu Kỳ | 80-200 | Thiên tài nam thế hệ trẻ |
+| Thánh Nữ | 0-1 | Kim Đan Trung-Hậu Kỳ | 80-200 | Thiên tài nữ thế hệ trẻ |
+| Chấp Pháp Đường Chủ | 1 | Nguyên Anh Hậu-Đỉnh Phong | 600-1000 | Phụ trách kỷ luật, thường kiêm Hộ Pháp |
+| **Phong Chủ / Trưởng Lão** | **5-15** | **Nguyên Anh Sơ-Hậu Kỳ** | **400-800** | **Mỗi người quản 1 phong/đường** |
+| └─ Chân Truyền (1-5/sư phụ) | **20-60** | Kim Đan Sơ-Hậu Kỳ | 50-200 | Đệ tử ruột, được truyền chân pháp |
+| **Ngoại Môn TL** | **5-10** | **Nguyên Anh Sơ-Trung Kỳ** | **400-600** | **Quản lý tuyển sinh và ngoại môn** |
+| **Nội Môn** (pool chung) | **100** | Trúc Cơ Trung-Viên Mãn | 25-80 | Đã được phân phong |
+| **Ngoại Môn** (pool chung) | **200** | Luyện Khí - Trúc Cơ Sơ | 14-30 | Chưa phân phong, chờ tuyển chọn |
+| **Phàm Nhân** (Hậu Cần) | **10,000** | Phàm Nhân | 8-80 | Tạp dịch, thợ, nông dân, bếp, v.v. |
 
-| Vị Trí | Hạng Nhất | Hạng Nhì | Hạng Ba | Hạng Tư | Hạng Năm |
-|--------|:---------:|:--------:|:-------:|:-------:|:--------:|
-| Thái Thượng (Lão Tổ) | 5-10 | 2-5 | 1-2 | 0-1 | 0 |
-| Tông Chủ | 1 | 1 | 1 | 1 | 1 |
-| Phó Tông Chủ | 1-2 | 0-1 | 0 | 0 | 0 |
-| Thánh Tử | 0-1 | 0-1 | 0 | 0 | 0 |
-| Thánh Nữ | 0-1 | 0-1 | 0 | 0 | 0 |
-| Hộ Pháp | 5-20 | 3-10 | 2-5 | 1-2 | 0-1 |
-| Trưởng Lão / Phong Chủ | 5-20 | 3-10 | 3-5 | 2-3 | 1-2 |
-| Chân Truyền (1-5/sư phụ) | 20-60 | 10-30 | 5-15 | 3-8 | 2-5 |
-| **Nội Môn** (chung các phong) | **100** | **50** | **20** | **10** | **5** |
-| **Ngoại Môn** (pool chung) | **200** | **100** | **50** | **20** | **10** |
-| Ngoại Môn Trưởng Lão | 5-10 | 3-5 | 1-3 | 1 | 0 |
-| **Phàm Nhân** (Hậu Cần chung) | **10,000** | **3,000** | **1,000** | **300** | **100** |
-| **TỔNG DÂN SỐ** | **~10,000-18,000** | **~3,000-5,000** | **~1,000-2,000** | **~300-600** | **~100-200** |
+### Quan Hệ Sư Đồ (BẮT BUỘC ghi trong Section I)
+- Mỗi Chân Truyền GHI RÕ: "Đệ tử của [Tên Trưởng Lão/Phong Chủ]"
+- Mỗi Nội Môn GHI: "Thuộc [Tên Phong]" (nếu đã phân)
+- Ngoại Môn GHI: "Thuộc Ngoại Môn Viện"
+- Phàm Nhân GHI: "Thuộc Hậu Cần Đường" + nghề cụ thể
 
-### Quan Hệ Sư Đồ
-- Mỗi Trưởng Lão/Phong Chủ nhận 1-5 Chân Truyền đệ tử
-- Tông Chủ có thể nhận 1-3 Chân Truyền
-- Lão Tổ/Hộ Pháp HIẾM KHI nhận đệ tử nhưng có thể có 0-1
-- Mỗi Trưởng Lão quản lý 10-100 Nội Môn đệ tử (tùy phong)
-- Ngoại Môn chưa được phân, do Ngoại Môn Trưởng Lão quản lý
+### Phàm Nhân Theo Chuyên Môn Tông Môn
+
+| Tông Môn | Phàm Nhân Đặc Thù | Phàm Nhân Chung |
+|----------|-------------------|-----------------|
+| Kiếm Tu (Cửu Hoa) | Thợ mài kiếm, Phu khai thác Huyền Thiết, Chăm sóc Kiếm Thảo | Bếp, giặt, xây, canh |
+| Đan Tu (Đan Hà Cốc) | Phu luyện lò, Hái dược sư phàm, Quản lý dược viên | Bếp, giặt, xây, canh |
+| Y Tu (Dược Vương Cốc) | Phụ tá y liệu, Trồng dược thảo, Chăm sóc bệnh nhân | Bếp, giặt, xây, canh |
+| Phật Tu (Vô Tranh Tự) | Quét sân tăng nhân, Gõ chuông, Nấu trai phạn | Bếp, giặt, xây, canh |
+| Ma Tu (Huyết Ma Tông) | Huyết nô, Quản lý ngục tối, Chế biến huyết thực | Nô lệ |
+| Trận Tu (Thái Ất Môn) | Thợ khắc trận bàn, Phu vận chuyển trận kỳ | Bếp, giặt, xây, canh |
+| Lôi Tu (Lôi Trì) | Thợ chế tạo lôi phù, Canh giữ Lôi Trì | Bếp, giặt, xây, canh |
+| Chế Tạo (Thần Khí Phường) | Thợ rèn phàm, Thợ lắp ráp, Vận hành lò | Bếp, giặt, xây, canh |
 
 ---
 
-## Quy Tắc Đặt Tên
+## 1B. Vương Quốc (王國) — 4 thế lực Hạng Nhất
 
-### Tu Sĩ (Nhân Tộc)
-| Loại | Họ | Tên | Ví dụ |
-|------|-----|------|-------|
-| Lãnh đạo | Họ Việt trang trọng | 2-3 chữ, uy nghiêm | Vân Thanh Hà, Đoàn Kiếm Sơn |
-| Chân Truyền | Họ Việt | 2 chữ, khí phách | Lê Thiên Vũ, Phạm Liệt Hỏa |
-| Nội Môn | Họ Việt | 2 chữ, trẻ trung | Hoàng Thanh Trúc, Mã Vân Sương |
-| Ngoại Môn | Họ Việt | 1-2 chữ, giản dị hơn | Lý Phong, Nguyễn Hoa |
+### Hệ Thống Cấp Bậc
+```
+Vương / Nữ Hoàng / Long Đế
+  ├─ Hoàng Tử / Công Chúa
+  ├─ Đại Thần / Quân Sư
+  ├─ Cấm Vệ Quân Thống Lĩnh
+  │    └─ Cấm Vệ Quân
+  ├─ Quan Viên (Các Bộ)
+  │    └─ Nha Dịch
+  └─ Dân (Thường dân, Thợ, Nông, Thương)
+```
 
-### Tu Sĩ (Phi Nhân Tộc)
-| Chủng Tộc | Họ theo | Ví dụ |
-|-----------|---------|-------|
-| Yêu Tộc | Loài thú | Hổ Huyết Nha, Lang Tuyết, Hồ Nguyệt |
-| Cự Tộc | Đá/núi | Nham Chấn Nhạc, Thạch Vĩnh Đông, Sơn Cương |
-| Hải Tộc | Sinh vật biển | Kình Thiên Hải, Giải Thiết Giáp, Chương Mặc |
-| Vi Tộc | Vi sinh | Nấm Độc Tâm, Bào Tử Linh, Khuẩn Minh |
-| Tinh Linh | Nguyên tố | Diệp Phong, Hoa Ngọc Lan, Ám Dạ Hành |
-| Vũ Tộc | Loài chim | Ưng Liệt Phong, Hạc Minh Nguyệt, Yến Phi |
-| Long Tộc | Rồng/nước | Ngao Đình, Xích Viêm, Hắc Thiên |
+| Vị Trí | Số Lượng | Tu Vi | Ghi Chú |
+|--------|:--------:|-------|---------|
+| Vương/Đế | 1 | Hóa Thần+ | Tối cao |
+| Hoàng Tử/Công Chúa | 2-5 | Kim Đan-Nguyên Anh | Tranh đoạt ngôi vị |
+| Đại Thần | 5-10 | Nguyên Anh | Quân sư, Tể Tướng |
+| Cấm Vệ Thống Lĩnh | 1-3 | Nguyên Anh | Bảo vệ hoàng cung |
+| Cấm Vệ | 50-200 | Trúc Cơ-Kim Đan | Tinh nhuệ |
+| Quan Viên | 50-100 | Trúc Cơ-Kim Đan | Quản lý các bộ |
+| Nha Dịch | 100-500 | Luyện Khí | Thư lại, sai nha |
+| **Dân** | **phần còn lại** | **Phàm Nhân** | Nông, thương, thợ |
 
-### Phàm Nhân
-| Loại | Cách đặt tên | Ví dụ |
-|------|-------------|-------|
-| Người có chức trách | Họ + tên giản dị | Nguyễn Đại Chùy (thợ rèn), Phạm Thị Lan (giặt giũ) |
-| Người già | Lão + Họ | Lão Trương, Lão Lý |
-| Trẻ em / thanh niên | Tiểu + tên | Tiểu Hoa, Tiểu Đậu |
-| Phụ nữ | Họ + Thị + tên | Trần Thị Nấu, Lê Thị Mai |
-
-### Nghề Phàm Nhân
-Đầu bếp, Phụ bếp, Thợ rèn, Thợ mộc, Giặt giũ, Quét dọn, Gánh nước, Chăn ngựa,
-Canh cổng, Trồng rau, Khuân vác, Dệt vải, Nấu rượu, Quản kho, Sửa chữa,
-Hái thuốc, Đốn củi, Khâu vá, Chăm vườn, Nuôi linh thú, Giao hàng,
-Đào giếng, Xây tường, Lợp mái, Làm gốm, Nung gạch, Đan rổ...
+**Áp dụng cho:** Đại Càn Hoàng Triều (Nhân Tộc), Long Cung (Long Tộc), Tinh Linh Vương Đình (Tinh Linh), Vũ Hoàng Các (Vũ Tộc)
 
 ---
 
-## Work Queue System
+## 1C. Thương Hội (商會) — 3 thế lực Hạng Nhất
 
-### Trước khi bắt đầu
-```bash
-git pull origin main
-cat WORK_QUEUE.md  # Kiểm tra ai đang làm gì
+### Hệ Thống Cấp Bậc
+```
+Hội Trưởng / Các Chủ
+  ├─ Trưởng Lão Hội (Cổ đông)
+  ├─ Chưởng Quỹ (Tài chính)
+  ├─ Đại Thương Nhân (Quản lý chi nhánh)
+  │    └─ Thương Nhân (Buôn bán)
+  ├─ Hộ Vệ Thống Lĩnh
+  │    └─ Hộ Vệ (Bảo vệ hàng hóa)
+  └─ Nhân Công (Khuân vác, Vận chuyển, Kho bãi)
 ```
 
-### Claim thế lực
-Thêm vào `WORK_QUEUE.md` → commit → push NGAY trước khi làm:
-```bash
-git add WORK_QUEUE.md && git commit -m "claim: [Tên Thế Lực]" && git push
-```
+**Áp dụng cho:** Bách Bảo Các (Đấu giá), Phong Bạo Thương Đội (Vận tải biển), Thiên Sa Thương Hội (Sa mạc)
 
-### Sau khi xong
-Chuyển sang `## Hoàn Thành` → commit tất cả → push.
+### Phàm Nhân Thương Hội
+Bốc hàng, Phu thuyền, Kế toán, Quản kho, Đầu bếp thuyền, Thợ sửa thuyền, Người dẫn đường, Thợ đóng thùng, Thương lái dạo...
 
 ---
 
-## Schedule Chi Tiết — Cửu Hoa Kiếm Tông (Mẫu)
+## 1D. Liên Minh (聯盟) — 3 thế lực Hạng Nhất
 
-### Đã hoàn thành (92 nhân vật)
-- 5 Thái Thượng ✓
-- 1 Tông Chủ + 1 Phó Tông Chủ ✓
-- 1 Thánh Tử + 1 Thánh Nữ ✓
-- 6 Hộ Pháp ✓
-- 7 Phong Chủ (Bạch/Hồng/Kim/Ngọc/Tử/Thanh/Huyền/Nguyệt Hoa) ✓
-- 18 Chân Truyền (2 mỗi phong) ✓
-- 27 Nội Môn (3 mỗi phong) ✓
-- 15 Ngoại Môn ✓
-- 10 Phàm Nhân ✓
+```
+Minh Chủ
+  ├─ Phó Minh Chủ
+  ├─ Trưởng Lão Hội (Đại diện các bang phái)
+  ├─ Sứ Giả (Ngoại giao)
+  └─ Thanh Viên Phái (Các thế lực thành viên)
+```
 
-### Còn thiếu
-| Batch | Loại | Số Lượng | Ưu Tiên |
-|-------|------|----------|---------|
-| A | Ngoại Môn Trưởng Lão | 7 | 🔴 Cao |
-| B | Chân Truyền bổ sung (3-5/phong thay vì 2) | ~20 | 🔴 Cao |
-| C | Nội Môn bổ sung (đạt ~100 tổng) | ~70 | 🟡 Trung |
-| D | Ngoại Môn bổ sung (đạt ~200 tổng) | ~185 | 🟡 Trung |
-| E1-E100 | Phàm Nhân batch (100/phiên × 100 phiên) | ~10,000 | 🟢 Thấp |
+**Áp dụng cho:** Huyết Sát Minh (Ma đạo), Thiên Yêu Đình (Yêu Tộc), Bắc Hải Cự Yêu Hang (Cự Yêu)
 
 ---
 
-## Schedule Tổng — Tất Cả Hạng Nhất (33 thế lực)
+## 1E. Thành Trì (城池) — 2 thế lực
 
-### Phase 1: Leadership (Batch 10-20 chars/phiên)
-Mỗi phiên: chọn 1 thế lực → tạo toàn bộ Thái Thượng + Hộ Pháp + Tông Chủ/Phó + Thánh Tử/Nữ + Trưởng Lão/Phong Chủ.
+```
+Thành Chủ
+  ├─ Phó Thành Chủ
+  ├─ Vệ Binh Thống Lĩnh → Vệ Binh
+  ├─ Quan Viên → Nha Dịch
+  └─ Dân Cư (thợ, thương, nông, tạp)
+```
 
-| Phiên | Thế Lực | Khu Vực | Chars Cần |
-|-------|---------|---------|-----------|
-| 1 | Thần Khí Phường | Đông Hoang | ~20 leadership |
-| 2 | Dược Vương Cốc | Đông Hoang | ~20 leadership |
-| 3 | Huyền Băng Cung | Bắc Băng | ~20 leadership |
-| 4 | Vân Tông | Đông Hoang | ~15 leadership |
-| 5 | Thanh Đế Cung | Đông Hoang | ~15 leadership |
-| 6 | Thái Ất Môn | Đông Hoang | ~15 leadership |
-| 7 | Vô Tranh Tự | Đông Hoang | ~15 leadership |
-| 8 | Vũ Hoàng Các | Đông Hoang | ~15 leadership |
-| 9 | Huyết Sát Minh | Đông Hoang | ~15 leadership |
-| 10 | Huyết Ma Tông | Nam Cương | ~15 leadership |
-| 11 | Vạn Độc Môn | Nam Cương | ~10 leadership |
-| 12 | Đan Hà Cốc | Nam Cương | ~10 leadership |
-| 13 | Kim Sa Tự | Tây Mạc | ~15 leadership |
-| 14 | Thiên Sa Thương Hội | Tây Mạc | ~15 leadership |
-| 15 | Hải Thần Cung | Vô Tận Hải | ~10 leadership |
-| 16 | Phong Bạo Thương Đội | Vô Tận Hải | ~15 leadership |
-| 17 | Đại Càn Hoàng Triều | Thiên Trụ | ~15 leadership |
-| 18 | Cửu U Ma Tông | Thiên Trụ | ~10 leadership |
-| 19 | Thiên Kiêu Học Viện | Thiên Trụ | ~15 leadership |
-| 20 | Bách Bảo Các | Thiên Trụ | ~15 leadership |
-| 21 | Thiên Mộc Thành | Thiên Trụ | ~15 leadership |
-| 22 | Lôi Trì Thánh Địa | Thiên Trụ | ~15 leadership |
-| 23 | Thiên Môn Kính Đài | Thiên Trụ | ~15 leadership |
-| 24 | Trích Tinh Lâu | Thiên Trụ | ~10 leadership |
-| 25 | Long Cung | Vô Tận Hải | ~10 leadership |
-| 26 | Bắc Hải Cự Yêu Hang | Bắc Băng | ~10 leadership |
-| 27 | Cực Quang Thần Điện | Bắc Băng | ~10 leadership |
-| 28 | Thiên Yêu Đình | Đông Hoang | ~5 (gần đủ) |
-| 29 | Tinh Linh Vương Đình | Đông Hoang | ~5 (gần đủ) |
-| 30 | Vạn Yêu Thành | Đông Hoang | ~10 leadership |
-| 31 | Thiên Trụ Hộ Vệ Đoàn | Đông Hoang | ~15 leadership |
-| 32 | Ảnh Nguyệt Uyển | Đông Hoang | ~15 leadership |
-| 33 | Thần Khí Phường | Đông Hoang | ~15 leadership |
-
-### Phase 2: Chân Truyền + Nội Môn (Batch 20-30/phiên)
-Sau khi Phase 1 xong cho 1 thế lực → quay lại tạo Chân Truyền (2-5/Trưởng Lão) + Nội Môn notable.
-
-### Phase 3: Ngoại Môn (Batch 50/phiên)
-Tạo 200 ngoại môn cho mỗi Hạng Nhất. Mỗi phiên 50 tên = 4 phiên/thế lực.
-
-### Phase 4: Phàm Nhân (Batch 100/phiên)
-Tạo 10,000 phàm nhân cho mỗi Hạng Nhất. Mỗi phiên 100 tên = 100 phiên/thế lực.
-
-**Ước tính tổng cho 33 Hạng Nhất:**
-- Phase 1: ~33 phiên
-- Phase 2: ~66 phiên (2 phiên/thế lực)
-- Phase 3: ~132 phiên (4 phiên/thế lực)
-- Phase 4: ~3,300 phiên (100 phiên/thế lực)
-- **Tổng: ~3,500 phiên**
-
-> **Với mỗi phiên Jules tạo 100 chars, chạy 10 phiên/ngày = 1,000 chars/ngày.**
-> **Ước tính hoàn thành Hạng Nhất: ~350 ngày.**
-> **→ Cần nhiều agents chạy song song để rút ngắn.**
+**Áp dụng cho:** Vạn Yêu Thành (Yêu Tộc), Thiên Mộc Thành (Đa chủng)
 
 ---
 
-## Quy Trình Mỗi Phiên (Step-by-Step)
+## 1F. Khác
 
-### 1. Pull & Check Queue
-```bash
-git pull origin main
-cat WORK_QUEUE.md
-```
-
-### 2. Chọn & Claim
-```bash
-# Chọn thế lực chưa ai claim, ưu tiên Hạng Nhất
-# Thêm vào WORK_QUEUE.md
-git add WORK_QUEUE.md && git commit -m "claim: [Tên]" && git push
-```
-
-### 3. Đọc Context
-```
-1. Đọc .claude/skills/nhan-vat/SKILL.md (Chế Độ 1)
-2. Đọc Đạo/Thế_Lực/[Region]/[Faction].md (divisions, members, headcount)
-3. Đọc Đạo/Chủng_Tộc/[Race].md (nếu phi Nhân Tộc)
-4. Đọc nhân vật đã có: ls Đạo/Nhân_Vật/[Region]/[Faction]/
-```
-
-### 4. Tạo Stub Characters
-Mỗi file theo template:
-```yaml
----
-type: character
-name: [Tên có ý nghĩa]
-hantu: ''
-archetype: [Vai trò]
-race: [Chủng tộc]
-dao_tam: ''
-age: [Tuổi hợp lý theo cảnh giới]
-avatar: ''
-arcs:
-  - arc: 1
-    status: Còn Sống
-    cultivation: [Cảnh giới or "Phàm Nhân"]
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
----
-
-# [Tên]
-
-## I. THÔNG TIN CƠ BẢN
-- **Tên:** [Tên]
-- **Chức Vụ:** [Vị trí] — [Phong/Viện/Đường]
-- **Tu Vi:** [Cảnh giới]
-- **Phe Phái:** [Tên thế lực]
-
-## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
-
-## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
-
-## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
-## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
-```
-
-**Phàm Nhân dùng:** `cultivation: Phàm Nhân` và Section III → `## III. KỸ NĂNG & ĐỜI SỐNG`
-
-### 5. Commit & Push
-```bash
-git add Đạo/Nhân_Vật/[Region]/[Faction]/ WORK_QUEUE.md
-git commit -m "docs: populate [Faction] — [N] new characters ([loại])"
-git push origin main
-```
-
-### 6. Cập nhật WORK_QUEUE.md
-Chuyển từ `## Đang Làm` sang `## Hoàn Thành`, ghi số chars tạo.
+| Loại | Thế Lực | Cấu Trúc Đặc Thù |
+|------|---------|-------------------|
+| Giáo Phái | Cực Quang Thần Điện | Giáo Chủ → Đại Tế Tư → Linh Mục → Chiến Binh → Tín Đồ |
+| Học Viện | Thiên Kiêu Học Viện | Viện Trưởng → Giáo Sư → Trợ Giảng → Sinh Viên → Tạp Dịch |
+| Quân Đoàn | Thiên Trụ Hộ Vệ Đoàn | Đại Tướng → Tướng → Úy → Binh |
+| Tự Viện | Kim Sa Tự, Vô Tranh Tự | Trụ Trì → Trưởng Lão → Tăng Lữ → Sa Di → Cư Sĩ |
+| Trạm Gác | Thiên Môn Kính Đài | Trạm Trưởng → Giám Sát Viên → Quan Sát Viên → Trực Ban |
+| Hội | Ảnh Nguyệt Uyển | Hội Trưởng → Phó Hội Trưởng → Thành Viên → Tổng Quản |
 
 ---
 
-## Checklist Mỗi Phiên
-- [ ] Pull mới nhất trước khi bắt đầu
-- [ ] Đã claim trong WORK_QUEUE.md và push
-- [ ] Mỗi tên có ý nghĩa, không trùng, không dùng chức danh
-- [ ] Họ nhất quán theo chủng tộc
-- [ ] Tuổi hợp lý (phàm nhân 8-80, tu sĩ theo cảnh giới)
-- [ ] Section I có đủ: Tên, Chức Vụ (kèm phong), Tu Vi, Phe Phái
-- [ ] Phàm nhân có ghi nghề cụ thể
-- [ ] Không trùng tên với nhân vật đã có trong thư mục
-- [ ] Đã cập nhật WORK_QUEUE.md sau khi xong
+# PHẦN 2: BLUEPRINT CHI TIẾT TỪNG THẾ LỰC HẠNG NHẤT
+
+## 🗡️ 01. Cửu Hoa Kiếm Tông (Tông Môn, Đông Hoang)
+- **Đặc trưng:** Kiếm Tu, 9 phong (Cửu Hoa), mỗi phong mang tên 1 loài hoa
+- **Đã có:** 92 chars
+- **Cấu trúc:** Thiên Hoa (Tổng) + Bạch/Hồng/Kim/Ngọc/Tử/Thanh/Huyền/Nguyệt Hoa + Ngoại Môn Viện + Hậu Cần Đường
+
+| Cần Tạo | Số Lượng | Chi Tiết |
+|---------|:--------:|----------|
+| Ngoại Môn TL | 7 | Nguyên Anh Sơ Kỳ, quản lý 200 ngoại môn |
+| Chân Truyền bổ sung | ~20 | 3-5 mỗi phong (hiện mới có 2/phong) |
+| Nội Môn bổ sung | ~70 | Đạt 100 tổng (hiện ~30) |
+| Ngoại Môn | ~185 | Đạt 200 tổng (hiện ~15) |
+| Phàm Nhân | ~9,990 | Thợ mài kiếm, phu mỏ Huyền Thiết, bếp, v.v. |
+
+**Tổng cần: ~10,272 chars**
+
+---
+
+## ☁️ 02. Vân Tông (Tông Môn, Đông Hoang)
+- **Đặc trưng:** Khí Tu thuần túy, Đằng Vân Giá Vũ, thanh cao nhất Đông Hoang
+- **Đã có:** 12 chars | **Dân số:** 50,000
+- **Phong:** Thái Hư Phong (Tổng), Vân Du Phong, Vũ Linh Phong, Phong Vân Phong, Hư Không Phong
+
+| Cần Tạo | Số Lượng |
+|---------|:--------:|
+| Thái Thượng | 8 (Luyện Hư) |
+| Hộ Pháp | 10 (NY Đỉnh Phong) |
+| Tông Chủ + Phó | 2 (Hóa Thần) |
+| Thánh Tử/Nữ | 2 (Kim Đan) |
+| Phong Chủ | 5 (NY Trung-Hậu Kỳ) |
+| Ngoại Môn TL | 7 |
+| Chân Truyền | 25 (5/phong) |
+| Nội Môn | 100 |
+| Ngoại Môn | 200 |
+| Phàm Nhân | 10,000 |
+| **Tổng** | **~10,359** |
+
+**Naming theme:** Họ thường gặp: Vân, Phong, Vũ, Hà, Thanh. Tên mang ý bay bổng, mây gió.
+
+---
+
+## 🏛️ 03. Thanh Đế Cung (Tông Môn, Đông Hoang)
+- **Đặc trưng:** Mộc hệ, hợp tác Tinh Linh, chữa lành và hồi sinh
+- **Đã có:** 10 | **Dân số:** 8,000
+
+| Cần Tạo | Số Lượng |
+|---------|:--------:|
+| Leadership (Thái Thượng → Phong Chủ) | ~25 |
+| Chân Truyền | ~30 |
+| Nội Môn | 100 |
+| Ngoại Môn | 200 |
+| Phàm Nhân (thợ chăm cây, hái dược, bếp chay) | 7,000 |
+| **Tổng** | **~7,365** |
+
+**Naming theme:** Họ: Thanh, Mộc, Diệp, Lâm. Tên mang ý cây cỏ, thiên nhiên.
+
+---
+
+## ☯️ 04. Thái Ất Môn (Tông Môn, Đông Hoang)
+- **Đặc trưng:** Bát Quái Trận Đồ, Thiên Cơ Bói Toán
+- **Đã có:** 10 | **Dân số:** 12,000
+
+| Cần Tạo | Số Lượng |
+|---------|:--------:|
+| Leadership | ~25 |
+| Chân Truyền | ~30 |
+| Nội Môn | 100 |
+| Ngoại Môn | 200 |
+| Phàm Nhân (thợ khắc trận bàn, phu vận chuyển trận kỳ) | 10,000 |
+| **Tổng** | **~10,365** |
+
+**Naming theme:** Họ: Thái, Quách, Tôn, Lý. Tên mang ý huyền bí, tinh tú.
+
+---
+
+## 🩸 05. Huyết Sát Minh (Liên Minh, Đông Hoang)
+- **Đặc trưng:** Ma đạo liên minh, Huyết Thần Phệ Thiên Quyết, hiến tế
+- **Đã có:** 10 | **Dân số:** 7,200
+- **Cấu trúc:** 8 divisions (Huyết Đường, Sát Đường, Mẫu Cổ Đường, v.v.)
+
+| Cần Tạo | Số Lượng |
+|---------|:--------:|
+| Minh Chủ + Phó | 2 |
+| Đường Chủ (8 đường) | 8 |
+| Trưởng Lão | 10 |
+| Sát Thủ tinh anh | 50 |
+| Ma Tu thường | 150 |
+| Huyết Nô / Phàm Nhân | 6,000 |
+| **Tổng** | **~6,220** |
+
+**Naming theme:** Họ: Huyết, Ám, Sát, Tử, Lệ. Tên mang ý chết chóc, bóng tối.
+
+---
+
+## ⚗️ 06. Đan Hà Cốc (Tông Môn, Nam Cương)
+- **Đặc trưng:** Đan Đạo, luyện đan lò Cửu Chuyển
+- **Đã có:** 20 | **Dân số:** 6,000
+
+| Cần Tạo | Số Lượng |
+|---------|:--------:|
+| Leadership | ~15 |
+| Chân Truyền | ~20 |
+| Nội Môn | 80 |
+| Ngoại Môn | 150 |
+| Phàm Nhân (phu luyện lò, hái dược, quản kho) | 5,000 |
+| **Tổng** | **~5,265** |
+
+**Naming theme:** Họ: Đan, Hà, Lô, Hỏa. Tên mang ý lửa, lò, dược.
+
+---
+
+## ☠️ 07. Vạn Độc Môn (Tông Môn, Nam Cương)
+- **Đã có:** 25 | **Dân số:** 15,000 (5,000 ma tu + 10,000 nô lệ)
+
+| Cần Tạo | Số Lượng |
+|---------|:--------:|
+| Leadership | ~10 |
+| Chân Truyền | ~15 |
+| Nội Môn | 80 |
+| Ngoại Môn | 150 |
+| Dược Nhân/Nô Lệ | 10,000 |
+| **Tổng** | **~10,255** |
+
+---
+
+## 🩸 08. Huyết Ma Tông (Tông Môn, Nam Cương)
+- **Đã có:** 10 | **Dân số:** 7,000 (2,000 ma tu + 5,000 huyết nô)
+
+| Cần Tạo | Số Lượng |
+|---------|:--------:|
+| Leadership | ~20 |
+| Ma Tu | ~200 |
+| Huyết Nô (tên phàm nhân bị bắt) | 5,000 |
+| **Tổng** | **~5,220** |
+
+---
+
+## 🌊 09. Hải Thần Cung (Tông Môn, Vô Tận Hải)
+- **Đã có:** 30 | **Dân số:** 1,000,000 (Hải Tộc đa chủng)
+
+| Cần Tạo | Số Lượng |
+|---------|:--------:|
+| Leadership | ~15 |
+| Chân Truyền | ~30 |
+| Binh lính | 200 |
+| Dân cư thường | 10,000+ |
+
+**Naming theme:** Họ theo loài biển: Kình, Giải, Chương, Quy, Triều, Sóng, San...
+
+---
+
+## 🐉 10. Long Cung (Vương Quốc, Vô Tận Hải)
+- **Đã có:** 17 | **Dân số:** 800 (Long Tộc ít nhưng mạnh)
+
+| Cần Tạo | Số Lượng |
+|---------|:--------:|
+| Long Đế + Hoàng Tử/Công Chúa | 5 |
+| Tứ Hải Long Vương | 4 |
+| Lão Long | 5 |
+| Chiến binh Giao Long | 50 |
+| Á Long phục vụ | 100 |
+| Phàm nhân hầu | 500 |
+| **Tổng** | **~664** |
+
+**Naming theme:** Họ: Ngao, Xích, Thanh, Bạch, Hắc (theo Long sắc). Tên mang ý uy nghi.
+
+---
+
+## 🏔️ 11-33. Các Thế Lực Hạng Nhất Còn Lại
+
+*(Cùng pattern — mỗi thế lực có blueprint tương tự, tùy theo faction_type và đặc trưng riêng)*
+
+| # | Thế Lực | Loại | Chars Có | Ước Cần |
+|---|---------|------|:--------:|:-------:|
+| 11 | Dược Vương Cốc | Tông Môn | 3 | ~7,500 |
+| 12 | Thần Khí Phường | Tông Môn | 0 | ~5,500 |
+| 13 | Vô Tranh Tự | Tự Viện | 10 | ~9,500 |
+| 14 | Kim Sa Tự | Tự Viện | 10 | ~4,500 |
+| 15 | Huyền Băng Cung | Tông Môn | 0 | ~9,500 |
+| 16 | Cửu U Ma Tông | Tông Môn | 14 | ~9,500 |
+| 17 | Lôi Trì Thánh Địa | Tông Môn | 8 | ~400 |
+| 18 | Trích Tinh Lâu | Tông Môn | 5 | ~80 |
+| 19 | Đại Càn Hoàng Triều | Vương Quốc | 16 | ~50,000+ |
+| 20 | Tinh Linh Vương Đình | Vương Quốc | 23 | ~11,500 |
+| 21 | Vũ Hoàng Các | Vương Quốc | 8 | ~7,500 |
+| 22 | Thiên Yêu Đình | Liên Minh | 33 | ~11,500 |
+| 23 | Vạn Yêu Thành | Thành Trì | 20 | ~11,500 |
+| 24 | Thiên Mộc Thành | Thành Trì | 8 | ~100,000+ |
+| 25 | Bách Bảo Các | Thương Hội | 7 | ~14,500 |
+| 26 | Thiên Sa Thương Hội | Thương Hội | 11 | ~19,500 |
+| 27 | Phong Bạo Thương Đội | Thương Hội | 9 | ~2,500 |
+| 28 | Thiên Kiêu Học Viện | Học Viện | 11 | ~4,500 |
+| 29 | Thiên Trụ Hộ Vệ Đoàn | Quân Đoàn | 10 | ~49,500 |
+| 30 | Cực Quang Thần Điện | Giáo Phái | 29 | ~9,500 |
+| 31 | Bắc Hải Cự Yêu Hang | Liên Minh | 8 | ~450 |
+| 32 | Thiên Môn Kính Đài | Trạm Gác | 6 | ~2,500 |
+| 33 | Ảnh Nguyệt Uyển | Hội | 10 | ~50,000+ |
+
+---
+
+# PHẦN 3: SCHEDULE THỰC HIỆN
+
+## Phase 1: Leadership (Phiên 1-33)
+**Mỗi phiên:** Chọn 1 thế lực → tạo TẤT CẢ leadership (Thái Thượng → Phong Chủ/Trưởng Lão)
+- Batch size: 10-25 chars/phiên
+- Ưu tiên: Thế lực có 0 chars trước (Thần Khí Phường, Huyền Băng Cung)
+
+## Phase 2: Chân Truyền (Phiên 34-66)
+**Mỗi phiên:** Quay lại 1 thế lực đã xong Phase 1 → tạo Chân Truyền + Ngoại Môn TL
+- Batch size: 20-30 chars/phiên
+- Ghi rõ: "Đệ tử của [Tên Trưởng Lão]" trong Section I
+
+## Phase 3: Nội Môn (Phiên 67-132)
+**Mỗi phiên:** 50 Nội Môn cho 1 thế lực (2 phiên/thế lực đạt 100)
+- Batch size: 50 chars/phiên
+- Ghi rõ: thuộc phong nào
+
+## Phase 4: Ngoại Môn (Phiên 133-264)
+**Mỗi phiên:** 50 Ngoại Môn (4 phiên/thế lực đạt 200)
+- Batch size: 50 chars/phiên
+- Chỉ cần: Tên + Tu Vi + "Thuộc Ngoại Môn Viện"
+
+## Phase 5: Phàm Nhân (Phiên 265+)
+**Mỗi phiên:** 100 Phàm Nhân cho 1 thế lực
+- Batch size: 100 chars/phiên
+- Ghi rõ: nghề nghiệp cụ thể
+- Ưu tiên tông môn lớn trước (Vân Tông 10,000, Thái Ất Môn 10,000...)
+
+**Ước tính Phase 5 cho tất cả Hạng Nhất:**
+~350,000 phàm nhân ÷ 100/phiên = **~3,500 phiên**
+
+---
+
+# PHẦN 4: WORK QUEUE
+
+Xem `WORK_QUEUE.md` tại repo root.
+
+**Quy trình:**
+1. `git pull origin main`
+2. `cat WORK_QUEUE.md` — kiểm tra ai đang làm gì
+3. Claim thế lực + phase → commit + push NGAY
+4. Tạo chars → commit + push
+5. Cập nhật WORK_QUEUE.md → commit + push
+
+---
+
+# PHẦN 5: CHECKLIST MỖI PHIÊN
+
+- [ ] Pull mới nhất
+- [ ] Đã claim trong WORK_QUEUE.md
+- [ ] Đọc file thế lực (divisions, members) trước khi tạo
+- [ ] Đọc file chủng tộc nếu phi Nhân Tộc
+- [ ] Tên có ý nghĩa xianxia, không random
+- [ ] Họ nhất quán theo chủng tộc/phe phái
+- [ ] Tuổi hợp lý theo cảnh giới
+- [ ] Section I đầy đủ: Tên, Chức Vụ + Phong, Tu Vi, Phe Phái
+- [ ] Chân Truyền ghi rõ sư phụ
+- [ ] Phàm nhân ghi rõ nghề
+- [ ] Không trùng tên
+- [ ] Cập nhật WORK_QUEUE.md sau khi xong
