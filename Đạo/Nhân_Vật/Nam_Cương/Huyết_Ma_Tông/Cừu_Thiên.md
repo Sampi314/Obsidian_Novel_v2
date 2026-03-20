@@ -42,6 +42,24 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Tôn Hàn Thiết
+        description: Đệ Tứ Huyết Tướng, thường xuyên phối hợp chiến đấu — Cừu Thiên tấn công, Tôn Hàn Thiết phòng thủ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Trương Phách
+        description: Huyết Nô Viện Chủ, người cung cấp huyết nô cho các chiến dịch của hắn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CỪU THIÊN (仇天)
@@ -64,6 +82,8 @@ Chuyên tu Cuồng Huyết Chiến Thể — biến máu trong người thành g
 - **[[Huyết Tôn]]** — Tông Chủ, người mà Cừu Thiên tuyệt đối trung thành dù thường xuyên làm trái ý.
 - **[[Cừu Tiểu Đao]]** — Con trai ruột, đang được Cừu Thiên huấn luyện trở thành chiến sĩ mạnh nhất thế hệ mới.
 - **[[Hà Minh Phong]]** — Đệ Nhị Huyết Tướng, người mà Cừu Thiên khinh thường vì chỉ biết dùng mưu kế.
+- **[[Tôn Hàn Thiết]]** — Đệ Tứ Huyết Tướng, thường xuyên phối hợp chiến đấu — Cừu Thiên tấn công, Tôn Hàn Thiết phòng thủ.
+- **[[Trương Phách]]** — Huyết Nô Viện Chủ, người cung cấp huyết nô cho các chiến dịch của hắn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Cừu Thiên xuất thân từ một bộ lạc chiến binh ở vùng biên giới Nam Cương, từ nhỏ đã sống bằng việc săn yêu thú. Bị Huyết Tôn đánh bại và khuất phục, từ đó trở thành Đệ Nhất Huyết Tướng trung thành nhất. Trong các cuộc tập kích bí mật để thu thập tài nguyên cho tông môn, Cừu Thiên luôn là người xung phong đầu tiên. Có một đứa con trai tên Cừu Tiểu Đao đang theo hắn học nghệ.
