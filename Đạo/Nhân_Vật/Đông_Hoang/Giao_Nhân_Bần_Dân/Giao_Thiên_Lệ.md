@@ -107,6 +107,17 @@ Chồng bà chết khi bà bốn mươi — kiệt sức trên khung dệt. Con 
 
 Hiện tại, Giao Thiên Lệ vẫn dệt mỗi ngày — bằng xúc giác, bằng ký ức, bằng đôi tay nhớ đường đi của sợi tơ. Chất lượng kém hơn trước nhưng vẫn đủ hoàn thành chỉ tiêu tối thiểu. Nước mắt vẫn chảy, ngọc trai vẫn rơi, quản công vẫn nhặt. Bà đã ngừng đếm từ lâu — nhưng Giao Bạch Phát ước tính bà đã sản xuất hơn mười ngàn viên ngọc trai trong đời. Mười ngàn lần đau, mười ngàn lần mất, và bà vẫn sống.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Giao Bạch Phát** (Thủ lĩnh): Người phụ nữ đã khóc đến mù, nỗi hổ thẹn lớn nhất vì mình không bảo vệ được
+- **Giao Bạch Phát** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Bạch Phát
+- **Giao Mộng Hải** (Sư phụ): Sư phụ dệt, người dạy mình mọi hoa văn trước khi bà mù hẳn
+- **Giao Hàn Sương Lệ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Giao Nhân Bần Dân
+- **Giao Lệ Vân** (Đồng minh): Thủ lĩnh trẻ mà mình tin tưởng, người sẽ mang lại ngày mình không phải khóc nữa
+- **Giao Khổ Hải** (Đồng minh): Thợ dệt cần mẫn nhất, người hiểu nỗi đau của khung dệt hơn ai hết
+- **Giao Tàn Ty** (Đồng minh): Người phụ nữ khóc đến mù, mình dệt vải che mắt nàng mỗi ngày
+- **Giao Vô Danh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Bần Dân
+- **Giao Tiểu Lệ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Bần Dân
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 - **Phưởng Ti Thuật (纺丝术):**
