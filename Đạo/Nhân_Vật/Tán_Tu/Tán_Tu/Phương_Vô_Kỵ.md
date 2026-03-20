@@ -44,6 +44,24 @@ arcs:
           tin: -60
           so: 30
           on: -50
+      - character: Nham Thần
+        description: Cự Tộc tiền bối bực mình vì bị hắn trộm đồ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 60
+          tin: -10
+          so: 40
+          on: -20
+      - character: A Ngốc
+        description: Hai kẻ phế linh căn gặp nhau ở Arc 5, dạy A Ngốc cách chạy trốn và sinh tồn
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 30
+          tin: 30
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: PHƯƠNG VÔ KỴ (方無忌)

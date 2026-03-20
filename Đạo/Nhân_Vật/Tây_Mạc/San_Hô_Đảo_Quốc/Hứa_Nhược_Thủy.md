@@ -39,6 +39,24 @@ arcs:
           tin: 45
           so: 10
           on: 10
+      - character: Diệp Tĩnh Sương
+        description: Kiếm tu trẻ, giao nhiệm vụ tìm con trai Hứa Thanh Vân
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 20
+          tin: 30
+          so: 0
+          on: 0
+      - character: Lâm Phong
+        description: Tán tu đồng hành của Diệp Tĩnh Sương, giao nhiệm vụ tìm con trai
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 15
+          tin: 25
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HỨA NHƯỢC THỦY

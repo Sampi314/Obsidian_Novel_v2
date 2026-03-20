@@ -35,6 +35,87 @@ arcs:
           tin: -85
           so: 40
           on: -90
+      - character: Phương Vô Kỵ
+        description: Oan gia ngõ hẹp, tán tu từng sao chép kiếm pháp của nàng, nhưng đôi khi hợp tác ăn ý
+        feelings:
+          yeu: 10
+          han: 15
+          kinh: 55
+          tin: 35
+          so: 0
+          on: 0
+      - character: Sở Lăng Sương
+        description: Kiếm tu hậu bối ngưỡng mộ nàng, chưa gặp mặt
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 10
+          tin: 5
+          so: 0
+          on: 0
+      - character: Triệu Thanh Hằng
+        description: Kiếm tu đồng đạo, chưa gặp mặt
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 10
+          tin: 5
+          so: 0
+          on: 0
+      - character: Lục Ly
+        description: Hộ Pháp Tinh Linh thử thách tại Long Huyệt
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 15
+          tin: 5
+          so: 0
+          on: 0
+      - character: Nham Thần
+        description: Tiền bối Cự Tộc từng gặp gỡ và chỉ dẫn trên hành trình
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 70
+          tin: 30
+          so: 15
+          on: 25
+      - character: Lục Trần
+        description: Tông Chủ Cửu Hoa Kiếm Tông, bậc tiền bối kiếm đạo đáng kính, kỳ vọng nàng kế thừa
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 80
+          tin: 65
+          so: 15
+          on: 55
+      - character: Hàn Thanh Nguyệt
+        description: Kiếm tu cùng trang lứa, chưa gặp mặt
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 15
+          tin: 0
+          so: 0
+          on: 0
+      - character: Ngô Công Trưởng Lão
+        description: Ngũ Độc Trưởng Lão Vạn Độc Môn, kẻ truy sát tại Huyết Mạch Thượng Cổ
+        feelings:
+          yeu: -70
+          han: 85
+          kinh: -15
+          tin: -90
+          so: 25
+          on: -100
+      - character: Hứa Nhược Thủy
+        description: Gia chủ Hứa Gia, giao nhiệm vụ tìm con trai Hứa Thanh Vân tại Chương 12
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 30
+          tin: 25
+          so: 0
+          on: 10
   - arc: 5
     status: Còn Sống
     cultivation: Trúc Cơ Sơ Kỳ
@@ -108,3 +189,10 @@ arcs:
 - **Đồng Hành:** Lâm Phong (Tán tu - Bạn đồng hành đáng tin cậy, luôn bảo vệ nàng vô điều kiện).
 - **Kẻ Thù:** Huyết Sát Minh (Tổ chức tà đạo).
 - **Kẻ Thù:** Lệ Vô Tâm (Vạn Độc Môn Thánh Tử - Tà tu tàn độc muốn bắt nàng làm Độc Nô, đại diện cho loại ác nhân mà nàng quyết tâm diệt trừ).
+- **Phương Vô Kỵ** (Đồng minh): Oan gia ngõ hẹp, tán tu từng sao chép kiếm pháp của nàng, nhưng đôi khi hợp tác ăn ý
+- **Sở Lăng Sương** (Đồng đạo): Kiếm tu hậu bối ngưỡng mộ nàng, chưa gặp mặt
+- **Triệu Thanh Hằng** (Đồng đạo): Kiếm tu đồng đạo, chưa gặp mặt
+- **Lục Ly** (Đồng minh): Hộ Pháp Tinh Linh thử thách tại Long Huyệt
+- **Tiền Bối:** Lục Trần (Cửu Hoa Kiếm Tông - Tông Chủ, bậc tiền bối kiếm đạo đáng kính, kỳ vọng nàng kế thừa).
+- **Đồng Đạo:** Hàn Thanh Nguyệt (Kiếm tu cùng trang lứa, chưa gặp mặt).
+- **Kẻ Thù:** Ngô Công Trưởng Lão (Vạn Độc Môn - Ngũ Độc Trưởng Lão, kẻ truy sát tại Huyết Mạch Thượng Cổ).

@@ -48,6 +48,123 @@ arcs:
           tin: 60
           so: 0
           on: 25
+      - character: Hạ Viêm
+        description: Thái Thượng Trưởng Lão, ân sư truyền đạo, người ông kính trọng nhất trong cốc
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 85
+          tin: 70
+          so: 0
+          on: 60
+      - character: Dương Tiểu Lô
+        description: Đại Đệ Tử, con trai ruột, vừa là đệ tử vừa là người kế thừa tương lai
+        feelings:
+          yeu: 80
+          han: 0
+          kinh: 30
+          tin: 50
+          so: 0
+          on: 0
+      - character: Tôn Đan Tâm
+        description: Đệ Tam Tháp Chủ, sư tỷ đồng môn, người ông coi như chị gái
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 40
+          tin: 55
+          so: 0
+          on: 30
+      - character: Dương Linh Hỏa
+        description: Đệ Nhất Tháp Chủ, thuộc hạ tài năng đáng tin cậy
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 35
+          tin: 55
+          so: 0
+          on: 10
+      - character: Trần Hỏa Nham
+        description: Đệ Nhị Tháp Chủ, thuộc hạ trầm tĩnh, giỏi nghiên cứu nguyên liệu
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 30
+          tin: 50
+          so: 0
+          on: 5
+      - character: Lâm Thanh Hà
+        description: Đệ Tứ Tháp Chủ, thuộc hạ trẻ tuổi tài năng
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 25
+          tin: 45
+          so: 0
+          on: 5
+      - character: Mã Hồng Lô
+        description: Đệ Ngũ Tháp Chủ, thuộc hạ giỏi giao tiếp, phụ trách giao dịch đan dược
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 20
+          tin: 50
+          so: 0
+          on: 5
+      - character: Hứa Luyện
+        description: Đệ Bát Tháp Chủ, thuộc hạ chuyên nghiên cứu kỹ thuật luyện đan
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 20
+          tin: 40
+          so: 0
+          on: 0
+      - character: Lư Hỏa
+        description: Tả Hộ Pháp, chiến tướng trung thành bảo vệ cốc, tình đồng môn sâu nặng
+        feelings:
+          yeu: 35
+          han: 0
+          kinh: 30
+          tin: 60
+          so: 0
+          on: 15
+      - character: Phùng Đan Thanh
+        description: Hữu Hộ Pháp, sư đệ mưu trí, quân sư lực lượng hộ pháp
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 30
+          tin: 55
+          so: 0
+          on: 10
+      - character: Thạch Hổ
+        description: Hộ Pháp Đường Chủ, thuộc hạ trung thành, chiến binh mạnh nhất lực lượng hộ pháp
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 25
+          tin: 55
+          so: 0
+          on: 10
+      - character: Hứa Nhược Thủy
+        description: Gia Chủ Sa Dược Hứa Gia, đối tác thương mại cung cấp nguyên liệu quý
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 20
+          tin: 40
+          so: 0
+          on: 10
+      - character: Liễu Như Yên
+        description: Đệ Tử Chân Truyền, Thánh Nữ Đan Hà Cốc, đệ tử tâm đắc nhất
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 40
+          tin: 60
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐAN DƯƠNG TỬ
@@ -110,4 +227,17 @@ arcs:
 - **Kẻ Thù Truyền Kiếp:** Độc Cô Lão Quái (Vạn Độc Môn).
 - **Đồng Minh:** Diệp Thanh Y (Dược Vương Cốc - Cốc Chủ Dược Vương Cốc, thường nhờ ông luyện các loại đan dược cần hỏa hầu cao, hợp tác chống lại Vạn Độc Môn).
 - **Bằng Hữu:** Lý Tuyết Ưng (Huyền Băng Cung - Dù tính cách trái ngược, một nóng một lạnh, nhưng thường trao đổi đan dược lấy băng ngọc).
+- **Ân Sư:** Hạ Viêm (Thái Thượng Trưởng Lão Đan Hà Cốc, người truyền đạo cho ông).
+- **Con Trai / Đại Đệ Tử:** Dương Tiểu Lô (Con trai ruột, cũng là đệ tử, người kế thừa tương lai).
 - **Đệ Tử Chân Truyền:** Liễu Như Yên (Đang là Thánh Nữ Đan Hà Cốc).
+- **Thuộc Hạ Cốt Cán:**
+    - Dương Linh Hỏa (Đệ Nhất Tháp Chủ).
+    - Tôn Đan Tâm (Đệ Tam Tháp Chủ, sư tỷ đồng môn).
+    - Trần Hỏa Nham (Đệ Nhị Tháp Chủ).
+    - Lâm Thanh Hà (Đệ Tứ Tháp Chủ).
+    - Mã Hồng Lô (Đệ Ngũ Tháp Chủ).
+    - Hứa Luyện (Đệ Bát Tháp Chủ).
+    - Lư Hỏa (Tả Hộ Pháp).
+    - Phùng Đan Thanh (Hữu Hộ Pháp).
+    - Thạch Hổ (Hộ Pháp Đường Chủ).
+- **Đối Tác Thương Mại:** Hứa Nhược Thủy (Gia Chủ Sa Dược Hứa Gia, cung cấp nguyên liệu quý).

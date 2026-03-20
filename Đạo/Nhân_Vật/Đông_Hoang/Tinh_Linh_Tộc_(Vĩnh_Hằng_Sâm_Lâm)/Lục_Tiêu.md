@@ -29,6 +29,33 @@ arcs:
           tin: 100
           so: 0
           on: 100
+      - character: A Ngốc
+        description: Tán tu hồn nhiên, được A Ngốc dùng sức mạnh thanh tẩy Huyết Thần Độc cứu mạng tại Đông Hoang
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 20
+          tin: 50
+          so: 0
+          on: 70
+      - character: Diệp Thanh Y
+        description: Cốc Chủ Dược Vương Cốc, mục tiêu cần tìm kiếm để liên minh chống Huyết Thần Độc
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 50
+          tin: 30
+          so: 0
+          on: 0
+      - character: Lâm Phong
+        description: Người dẫn đường dự kiến gặp gỡ trong hành trình
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 15
+          tin: 10
+          so: 0
+          on: 0
 ---
 
 # LỤC TIÊU (綠簫)

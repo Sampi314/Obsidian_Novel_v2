@@ -26,6 +26,15 @@ arcs:
           tin: 30
           so: 0
           on: 0
+      - character: A Ngốc
+        description: Chạm trán trên hành trình, nhận ra sự đặc biệt của Hỗn Độn Linh Căn và Vô Niệm
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 40
+          tin: 20
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: SỞ LĂNG SƯƠNG

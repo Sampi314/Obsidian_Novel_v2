@@ -47,6 +47,15 @@ arcs:
           tin: 45
           so: 0
           on: 30
+      - character: A Ngốc
+        description: Tán tu hồn nhiên sở hữu Hỗn Độn Linh Căn, nhận ra sự đặc biệt vô song của nàng
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 50
+          tin: 20
+          so: 0
+          on: 0
 ---
 
 # NGUYỆT DAO (月瑤)

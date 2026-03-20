@@ -27,6 +27,24 @@ arcs:
           tin: 55
           so: 0
           on: 40
+      - character: Ưng Bạch Đế
+        description: Tộc Trưởng Hàn Ưng Bộ Lạc, kẻ cản trở sự thống nhất Bắc Băng
+        feelings:
+          yeu: 0
+          han: 30
+          kinh: 55
+          tin: 10
+          so: 0
+          on: 0
+      - character: A Ngốc
+        description: Tán tu hồn nhiên sở hữu Hỗn Độn Linh Căn, nhận ra sự đặc biệt vô song của nàng
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 60
+          tin: 20
+          so: 0
+          on: 0
 ---
 
 # LÝ TUYẾT ƯNG (李雪鹰)

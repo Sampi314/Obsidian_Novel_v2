@@ -39,6 +39,24 @@ arcs:
           tin: 55
           so: 0
           on: 30
+      - character: Lục Trần
+        description: Bạn vong niên, đồng minh lâu năm
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 55
+          tin: 60
+          so: 0
+          on: 35
+      - character: Lục Tiêu
+        description: Sứ giả Tinh Linh Tộc đến cầu viện chống Huyết Thần Độc
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 30
+          tin: 25
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: DIỆP THANH Y
@@ -82,6 +100,7 @@ arcs:
 - **Lục Trần** (Đồng minh): Bạn vong niên, đồng minh lâu năm
 - **Thảo Tâm Linh** (Đồng minh): Y Sư Dược Vương Cốc và Viện Trưởng Dược Thảo, cùng dược
 - **Độc Cô Lão Quái** (Kẻ thù): Kẻ thù
+- **Lục Tiêu** (Đồng minh): Sứ giả Tinh Linh Tộc đến cầu viện chống Huyết Thần Độc
 
 ## V. CÔNG PHÁP & KỸ NĂNG
 1.  **Thanh Nang Trường Sinh Quyết (Thiên Cấp Trung Phẩm):**
@@ -105,4 +124,5 @@ arcs:
 ## VIII. QUAN HỆ
 - **Kẻ Thù:** Độc Cô Lão Quái (Luôn tìm cách tiêu diệt Dược Vương Cốc để xóa bỏ khắc tinh của độc dược).
 - **Đồng Minh:** Đan Dương Tử (Đan Hà Cốc - Bà thường nhờ ông luyện các loại đan dược cần hỏa hầu cao mà Dược Vương Cốc không chuyên).
+- **Đồng Minh:** Lục Trần (Cửu Hoa Kiếm Tông - Bạn vong niên, đồng minh lâu năm).
 - **Đệ Tử:** Có 5 đệ tử chân truyền, đều là những y sư tài năng.

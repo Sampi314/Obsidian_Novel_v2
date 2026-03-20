@@ -52,6 +52,33 @@ arcs:
           tin: -90
           so: 0
           on: -100
+      - character: Hắc Hạt Ma Trùng
+        description: Cộng sinh nguy hiểm, nuôi dưỡng bằng xác chết và máu, mượn Trùng Triều tấn công Cửu Hoa Kiếm Tông. Coi hắn như công cụ nhưng luôn phải đề phòng bị phản phệ.
+        feelings:
+          yeu: -70
+          han: 20
+          kinh: 10
+          tin: -60
+          so: 40
+          on: -80
+      - character: A Ngốc
+        description: Tán tu hồn nhiên tìm thấy hắn khi hấp hối, chăm sóc và đồng hành. Người duy nhất khiến hắn thay đổi hành vi, ngừng giết chóc vô cớ. Gương soi của đời nhau.
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 10
+          tin: 50
+          so: 0
+          on: 30
+      - character: Lệ Nhược Thủy
+        description: Hải Yêu Vương Hải Thần Cung, kẻ thù truyền kiếp do Huyết Độc Vạn Độc Môn lan ra biển
+        feelings:
+          yeu: -30
+          han: 20
+          kinh: 10
+          tin: -40
+          so: 5
+          on: -60
 ---
 
 # HỒ SƠ NHÂN VẬT: LỆ VÔ TÂM
@@ -115,6 +142,7 @@ arcs:
 - **Kẻ Thù (Thế Hệ Trẻ):**
     - **Diệp Tĩnh Sương (Cửu Hoa Kiếm Tông):** Hắn ghét cay ghét đắng vẻ mặt lạnh lùng cao ngạo của nàng, luôn muốn bắt nàng về làm "Độc Nô".
     - **Lâm Phong (Tán Tu):** Kẻ nhiều lần phá hoại kế hoạch của hắn, là cái gai trong mắt cần nhổ bỏ.
+- **Cộng Sinh:** Hắc Hạt Ma Trùng (Trùng Đế - Nuôi dưỡng bằng xác chết và máu, mượn Trùng Triều tấn công Cửu Hoa Kiếm Tông. Coi hắn như công cụ nhưng luôn phải đề phòng bị phản phệ).
 - **Đồng Minh:**
     - **Huyết Ma Tông Thiếu Chủ:** Thỉnh thoảng hợp tác để đối phó phe chính đạo, nhưng luôn đề phòng lẫn nhau.
 

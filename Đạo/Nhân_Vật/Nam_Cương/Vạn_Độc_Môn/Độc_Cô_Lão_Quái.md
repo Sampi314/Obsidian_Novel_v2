@@ -49,6 +49,33 @@ arcs:
           tin: -85
           so: 5
           on: -100
+      - character: Lục Trần
+        description: Kẻ thù, Tông Chủ Cửu Hoa Kiếm Tông, thường quấy nhiễu tông môn hắn
+        feelings:
+          yeu: -60
+          han: 70
+          kinh: -15
+          tin: -80
+          so: 10
+          on: -100
+      - character: Nguyệt Dao
+        description: Kẻ thù không đội trời chung, Nữ Hoàng Tinh Linh bảo vệ Thần Mộc chống lại Vạn Độc
+        feelings:
+          yeu: -90
+          han: 95
+          kinh: -35
+          tin: -100
+          so: 10
+          on: -100
+      - character: Lệ Nhược Thủy
+        description: Hải Yêu Vương Hải Thần Cung, kẻ thù do Huyết Độc lan ra biển giết tộc nhân của nàng
+        feelings:
+          yeu: -50
+          han: 40
+          kinh: -10
+          tin: -60
+          so: 0
+          on: -80
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐỘC CÔ LÃO QUÁI
@@ -111,4 +138,6 @@ arcs:
 - **Kẻ Thù:** Diệp Thanh Y (Dược Vương Cốc - Cốc Chủ Dược Vương Cốc, khắc tinh của độc dược, luôn tìm cách hóa giải các âm mưu phát tán độc của Vạn Độc Môn).
 - **Đồng Minh Lợi Ích:** Huyết Ma Tông Chủ (Hợp tác trao đổi tài nguyên ma đạo).
 - **Đại Đệ Tử:** Lệ Vô Tâm (Thánh Tử - Kẻ kế thừa y bát, vừa đánh giá cao tài năng vừa đề phòng dã tâm soán ngôi. Coi hắn như con cờ lợi dụng).
+- **Kẻ Thù:** Nguyệt Dao (Nữ Hoàng Tinh Linh - Kẻ thù không đội trời chung, bảo vệ Thần Mộc chống lại Vạn Độc).
+- **Kẻ Thù:** Lục Trần (Cửu Hoa Kiếm Tông - Tông Chủ Cửu Hoa Kiếm Tông, thường quấy nhiễu tông môn hắn).
 - **Con Rối:** Đa số đệ tử dưới quyền đều bị hắn hạ "Trung Tâm Cổ" để kiểm soát sự trung thành.

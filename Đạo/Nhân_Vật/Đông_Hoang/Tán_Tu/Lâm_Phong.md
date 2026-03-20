@@ -34,6 +34,42 @@ arcs:
           tin: -85
           so: 15
           on: -100
+      - character: Ngô Công Trưởng Lão
+        description: Kẻ thù thâm thù, Ngũ Độc Trưởng Lão Vạn Độc Môn. Truy sát trong Arc Huyết Mạch Thượng Cổ, đã phối hợp với Diệp Tĩnh Sương trọng thương hắn.
+        feelings:
+          yeu: -80
+          han: 90
+          kinh: -25
+          tin: -90
+          so: 10
+          on: -100
+      - character: A Ngốc
+        description: Gặp gỡ chớp nhoáng tại Rừng Huyết Độc Arc 4, gặp lại Arc 14. Luôn đối xử tốt với nàng.
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 10
+          tin: 40
+          so: 0
+          on: 0
+      - character: Lục Tiêu
+        description: Sứ giả Tinh Linh Tộc, dự kiến gặp gỡ và dẫn đường trong hành trình
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 25
+          tin: 20
+          so: 0
+          on: 0
+      - character: Hứa Nhược Thủy
+        description: Gia chủ Hứa Gia, giao nhiệm vụ tìm con trai Hứa Thanh Vân tại Chương 12
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 25
+          tin: 20
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: Lâm Phong
@@ -84,7 +120,7 @@ arcs:
 - **Hắc Thiết Nham** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
 - **Tàn Dực** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
 - **Ưng Nham Trảo** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
-- **Ngô Công Trưởng Lão** (Đồng minh): Enemy — murderous hatred
+- **Ngô Công Trưởng Lão** (Kẻ thù): Kẻ thù thâm thù, Ngũ Độc Trưởng Lão Vạn Độc Môn, truy sát tại Huyết Mạch Thượng Cổ
 - **Phương Vô Kỵ** (Đồng minh): Good friends, genuine camaraderie
 - **Tước Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Ưng Dã Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu

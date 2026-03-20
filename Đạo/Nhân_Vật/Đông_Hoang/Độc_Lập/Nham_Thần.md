@@ -34,6 +34,15 @@ arcs:
           tin: -30
           so: 0
           on: -30
+      - character: A Ngốc
+        description: Tán tu hồn nhiên sở hữu Hỗn Độn Linh Căn, kết nối sâu sắc qua sự thấu hiểu
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 40
+          tin: 35
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NHAM THẦN (岩神)
