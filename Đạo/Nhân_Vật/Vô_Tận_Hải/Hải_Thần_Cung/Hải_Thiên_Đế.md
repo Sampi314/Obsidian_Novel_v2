@@ -136,6 +136,11 @@ arcs:
     - **Hải Đế Ngọc Tỷ (海帝玉玺):** Ấn tín hoàng gia, có thể kích hoạt trận pháp Vạn Hải Triều Tịch bảo vệ toàn bộ Thủy Tinh Cung. Chỉ phản ứng với huyết mạch Hải Đế.
 
 ## VI. QUAN HỆ
+- **Hải Thiên Hà** (Đồng minh): Phụ hoàng nghiêm khắc, người mà cậu vừa kính sợ vừa khao khát vượt qua
+- **Lệ Ngọc Hà** (Đồng minh): Hải Hậu, tri kỷ tâm giao và điểm tựa tinh thần suốt ngàn năm trị vì
+- **Hải Ngọc Lan** (Đồng minh): Công chúa út, nguồn vui hiếm hoi giữa trọng trách đè nặng
+- **Quy Huyền Thiên** (Gia tộc): Đệ Nhất Tế Tư, cố vấn tâm linh đáng tin cậy nhất, nhân chứng sống của lịch sử
+- **Sa Cuồng Đào** (Cấp dưới): Đông Hải Tướng Quân, cánh tay phải trên chiến trường, chiến hữu trung thành nhất
 - **Lệ Ngọc Hà (Hải Hậu — Tri Kỷ, Điểm Tựa Tâm Linh):**
     - Cuộc hôn nhân ban đầu mang tính chính trị — liên minh giữa hoàng tộc và bộ lạc Giao Nhân phương Nam. Nhưng qua hàng nghìn năm sóng gió, hai người đã trở thành tri kỷ không thể tách rời. Ngọc Hà là người duy nhất Thiên Đế cho phép gọi tên thật (tên trước khi đăng cơ), là người duy nhất được vào thư phòng riêng khi ông suy tư, là người duy nhất nhìn thấy ông khóc — lần duy nhất, sau trận Phong Ấn Đại Ma suýt chết. Nàng dùng Ngọc Hà Trấn Tâm cứu sống ông, và từ đó hai người không cần nói gì — chỉ một ánh mắt đã hiểu hết.
 - **Hải Thiên Hà (Thái Tử — Kỳ Vọng và Lo Lắng):**
@@ -148,7 +153,6 @@ arcs:
     - Hai người quen biết từ thời nội chiến, khi cả hai đều còn trẻ. Cuồng Đào là chiến tướng đầu tiên tự nguyện theo Thiên Đế không phải vì hứa hẹn hay quyền lực, mà vì "ngửi thấy mùi của kẻ mạnh thực sự" — lời của Cuồng Đào. Sau ba nghìn năm, mối quan hệ giữa họ vượt xa vua tôi — Thiên Đế coi Cuồng Đào là cánh tay phải tuyệt đối trên chiến trường, còn Cuồng Đào coi Thiên Đế là vị vua duy nhất xứng đáng để mình chết vì.
 - **Long Vương (Long Cung — Đối Thủ Truyền Kiếp):**
     - Hai vị quân chủ mạnh nhất đại dương duy trì một sự cân bằng quyền lực đầy căng thẳng suốt hàng nghìn năm. Thiên Đế tôn trọng sức mạnh của Long Vương nhưng không bao giờ nhượng bộ — "Đại dương đủ rộng cho hai vương quốc, nhưng không đủ rộng cho hai vị hoàng đế." Cả hai đều biết rằng một cuộc chiến toàn diện sẽ hủy diệt cả hai — nên chọn cách đấu trí thay vì đấu lực, nhưng luôn sẵn sàng cho kịch bản tệ nhất.
-
 ## VII. GIAI THOẠI
 > *"Khi Hải Đế cắm Đinh Ba xuống đáy biển, cả đại dương rung chuyển — đó không phải là tín hiệu chiến tranh, mà là lời nhắc nhở rằng biển cả có chủ."*
 > — Truyền thuyết trong dân gian Hải Tộc.
