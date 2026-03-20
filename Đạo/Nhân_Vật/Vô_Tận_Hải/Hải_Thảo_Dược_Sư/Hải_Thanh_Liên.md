@@ -125,6 +125,10 @@ arcs:
     - **Ngọc Tảo Lô (玉藻爐) (Huyền Cấp Thượng Phẩm):** Lò luyện đan hình vỏ sò khổng lồ, bên trong khắc trận pháp thủy hệ. Chỉ hoạt động dưới nước, dùng áp suất đáy biển thay cho hỏa lực để luyện đan dược — phương pháp "Thủy Áp Luyện Đan" độc nhất vô nhị.
 
 ## VI. QUAN HỆ
+- **Hải Huyền Thảo** (Sư đồ): Sư phụ, ân nhân cứu mạng, trung thành tuyệt đối
+- **Hải Lam Thảo** (Sư đồ): Sư phụ, vừa kính trọng vừa muốn làm nàng vui lòng
+- **Hải Ngọc Tảo Thiên** (Sư đồ): Sư phụ, người cứu mạng và dẫn đường, tôn kính tuyệt đối
+- **Hải Tiểu Tảo** (Đệ tử): Đệ tử nhỏ nhất, xem như con gái nuôi
 - **Đệ Tử Thân Tín:**
     - **Hải Ngọc Tảo Thiên:** Đệ tử lâu năm nhất, người mà Thanh Liên tin tưởng giao phó hầu hết mọi công việc quản lý. Nàng coi Tảo Thiên như người em gái, đôi khi lo lắng vì sự hoàn hảo quá mức của cô ấy sẽ khiến cô ấy không biết cách đối mặt với thất bại.
     - **Hải Huyền Thảo:** Người mà Thanh Liên nợ một mạng cứu — chính Huyền Thảo đã nhiều lần xả thân lặn vào vùng chết để mang về nguyên liệu quý. Nàng vừa biết ơn vừa áy náy vì phải giao cho hắn những nhiệm vụ nguy hiểm nhất.
@@ -132,7 +136,6 @@ arcs:
     - **Hải Tiểu Tảo:** Đệ tử nhỏ nhất, được Thanh Liên cưng chiều nhất. Nàng nhìn thấy bóng dáng mình ngày xưa trong cô bé mồ côi này — cô đơn, kiên cường, và yêu biển hơn mọi thứ.
 - **Cựu Sư Môn:**
     - **Dược Vương Cốc:** Dù bị trục xuất, Thanh Liên không hoàn toàn oán hận. Nàng hiểu rằng bản tính bảo thủ của Dược Vương Cốc xuất phát từ truyền thống ngàn năm. Nhưng vết sẹo trên tay luôn nhắc nàng rằng sự cố chấp có thể giết chết chân lý.
-
 ## VII. GIAI THOẠI
 > *"Nếu ngươi bị trúng độc mà trên đất liền không ai cứu được, hãy lặn xuống biển sâu tìm Dược Mẫu. Nàng không bao giờ từ chối bệnh nhân — kể cả kẻ đã hại nàng."*
 > — Lời truyền miệng trong giới tán tu Vô Tận Hải.

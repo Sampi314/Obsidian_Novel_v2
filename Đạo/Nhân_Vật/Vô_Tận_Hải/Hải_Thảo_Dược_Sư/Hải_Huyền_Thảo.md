@@ -122,6 +122,11 @@ arcs:
     - **Thâm Uyên Giáp (深淵甲) (Huyền Cấp Hạ Phẩm):** Không phải pháp bảo bên ngoài mà chính là chiếc mai rùa trên lưng, đã được Thanh Liên khắc trận pháp tăng cường. Ngoài phòng ngự, bên trong mai có một khoang trống nhỏ dùng để bảo quản dược liệu quý trong môi trường linh lực ổn định.
 
 ## VI. QUAN HỆ
+- **Hải Thanh Liên** (Sư đồ): Sư phụ, ân nhân cứu mạng, trung thành tuyệt đối
+- **Hải Ngọc Tảo Thiên** (Đồng minh): Sư muội, người luôn lặng lẽ chăm sóc mình
+- **Hải Lam Thảo** (Đồng minh): Cộng sự thân thiết nhất, người duy nhất có thể khiến mình cười
+- **Hải Tiểu Tảo** (Gia tộc): Tiểu sư muội, xem như con gái
+- **Ám Lưu** (Đồng minh): Đối tác tình báo từ Hải Miên Trùng Xã, tin tưởng có giới hạn
 - **Sư Phụ:**
     - **Hải Thanh Liên:** Ân nhân cứu mạng, lý do duy nhất hắn còn sống và có mục đích sống. Huyền Thảo trung thành với Thanh Liên đến mức tuyệt đối — nếu nàng bảo lặn xuống hỏa diệm sơn, hắn sẽ đi mà không hỏi vì sao. Nỗi lo lớn nhất của hắn là một ngày nào đó sư phụ gặp nguy mà hắn không đủ mạnh để bảo vệ.
 - **Đồng Môn:**
@@ -130,7 +135,6 @@ arcs:
     - **Hải Tiểu Tảo:** Tiểu sư muội mà hắn cưng chiều theo cách vụng về nhất — lặng lẽ khắc đồ chơi gỗ, bắt cá đẹp bỏ vào bể cho bé xem, và luôn đứng chắn trước mặt bé khi có nguy hiểm.
 - **Ngoại Giao:**
     - **Ám Lưu (Hải Miên Trùng Xã):** Đối tác cung cấp tình báo về biến động linh lực vùng biển. Huyền Thảo cảnh giác với hắn nhưng thừa nhận tin tức của Ám Lưu nhiều lần cứu mạng đoàn thu hoạch.
-
 ## VII. GIAI THOẠI
 > *"Ngươi thấy hắn lầm lì ít nói ư? Đó là vì hắn đã dùng hết lời nói của cả đời để cảm ơn sư phụ một lần, sau đó không còn gì để nói nữa."*
 > — Hải Lam Thảo trêu chọc Huyền Thảo trước mặt tân đệ tử.
