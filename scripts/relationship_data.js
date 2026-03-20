@@ -25312,6 +25312,12 @@ var relationshipData = {
   ],
   "relationships": [
     {
+      "source": "tran_hai_phong",
+      "target": "hac_hai_hai_tac",
+      "type": "enemy",
+      "description": "Kẻ thù không đội trời chung nhưng ông buộc phải nhẫn nhịn nộp 'thuế bình an' để bảo vệ tính mạng cho cư dân"
+    },
+    {
       "source": "huyen_sa",
       "target": "xa_am_lan",
       "type": "master",

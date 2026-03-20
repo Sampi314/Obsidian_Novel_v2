@@ -828,3 +828,6 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Huyền Sa:** Tộc Trưởng Sa Mãng Tộc (Trúc Cơ Hậu Kỳ). Xà yêu khổng lồ, điềm tĩnh và cẩn trọng, sở hữu Hắc Sa Kịch Độc. Đang tìm hiểu bí mật bộ xương Mãng cổ đại để tìm công pháp cho xà tộc.
 - **Xà Ám Lân:** Trưởng Lão (Trúc Cơ Sơ Kỳ). Xà yêu xám tro nóng nảy, hiếu chiến, sức mạnh cận chiến đáng nể nhưng dễ bị kích động. Tuyệt đối trung thành với Huyền Sa và căm thù Thiết Giáp Yêu Thú Đàn.
 - **Xà Linh Vĩ:** Trinh Sát (Luyện Khí Hậu Kỳ). Xà yêu nhỏ màu vàng nhạt, rụt rè và đa nghi. Kỹ năng Ẩn Sa Độn cực tốt, đóng vai trò tai mắt quan trọng cho toàn tộc nhưng luôn muốn tự do.
+
+- **Trần Hải Phong (Phiêu Lưu Đảo Liên Minh):** Tổng Đảo Chủ với tu vi Kim Đan Sơ Kỳ nhưng phong cách chiến đấu thô sơ. Một người cha kiên cường che chở cho liên minh mười bảy đảo, mang trong mình bí mật nhục nhã từ quá khứ và sự thật về Đảo Thứ Mười Ba.
+- **Trần Tiểu Đăng (Phiêu Lưu Đảo Liên Minh):** Một thiếu niên mồ côi lạc quan, tò mò và yêu biển. Cậu là học trò cưng của Trần Hải Phong, có khả năng lặn sâu và đang ấp ủ ý định khám phá Đảo Thứ Mười Ba bị cấm.

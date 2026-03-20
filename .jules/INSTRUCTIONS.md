@@ -450,6 +450,8 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
   1. **Bản Tiếng Trung:** (Văn bản tiếng Trung)
   2. **Dịch Hán Việt:** (Phiên âm Hán Việt)
   3. **Dịch Sát Nghĩa:** (Bản dịch nghĩa Tiếng Việt)
+> Đã hoàn thành Task 9 cho 2 nhân vật Phiêu Lưu Đảo Liên Minh (Vô Tận Hải): Trần Hải Phong, Trần Tiểu Đăng.
+
 > Đã hoàn thành Task 9 cho 3 nhân vật Thiên Mộc Thành (Thiên Trụ): Mộc Thiên Hào, Mộc Thiên Quân, Mộc Vân.
 > Đã hoàn thành Task 9 cho 3 nhân vật San Hô Vi Trùng (Tây Mạc): Trùng Cổ Sinh, Trùng Mẫu, Trùng Tân Nha.
 > Đã hoàn thành Task 9 cho 3 nhân vật Thiên Mộc Thành (Thiên Trụ): Lâm Vạn Hóa, Lâm Thương, Hồ Thương.
