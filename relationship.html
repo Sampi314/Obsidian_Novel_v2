@@ -633,7 +633,7 @@
     'use strict';
 
     // ─── Data normalization ───
-    var data = window.relationshipData || {};
+    var data = (typeof relationshipData !== 'undefined' ? relationshipData : window.relationshipData) || {};
     var characters = (data.characters || []).slice();
     var relationships = (data.relationships || []).slice();
     var factions = (data.factions || []).slice();
