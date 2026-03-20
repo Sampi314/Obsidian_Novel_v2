@@ -13,6 +13,7 @@
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Huyết Hổ Hạ Chúng** (Vô Tận Hải): **Hổ Bạch Văn**, **Hổ Hàn Lệ**, và **Hổ Nha Tam**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Băng Ngục Đào Vong Giả** (Bắc Băng): **Cương Thạch Nữ**, **Hắc Diện Nhân**, và **Lãnh Vô Tâm**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Băng Ngục Thành** (Bắc Băng): **Băng Cốt Yêu Nữ**, **Huyết Đồ Tàn Phong**, và **Hắc Giáp Thống Lĩnh**.
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Hàn Phong Truyền Tin Đội** (Bắc Băng): **Vũ Khinh Hồng**, **Vũ Phiêu Linh**, và **Vũ Tật Phong**.
 
 ## I. Tổng Quan
 - **Tên:** Cố Nguyên Giới (固元界).
@@ -757,6 +758,12 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Linh U Quang (Dẫn Đường Sư)**: Ánh sáng xanh lam huyền ảo tạo thành từ tỷ cá thể Vi Tộc, tò mò, soi sáng hải cấu tối tăm và làm hoa tiêu dưới Vực Thẳm Vạn Trượng.
   - **Linh Vạn Trượng (Thủ Vệ Hải Cấu)**: Bức tường sinh vật đỏ sẫm trải dài vạn trượng, lạnh lùng dùng áp suất cực hạn chặn đứng và nghiền nát tà vật muốn thoát khỏi phong ấn.
   - **Linh Vực Uyên (Thâm Hải Chủ)**: Ý thức tập thể khổng lồ bao trùm màu xanh đen, trầm lặng và uy nghiêm thao túng hải lưu, một mình gồng gánh sứ mệnh canh giữ tà vật Thượng Cổ.
+
+### Hàn Phong Truyền Tin Đội (Bắc Băng)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Hàn Phong Truyền Tin Đội** (Bắc Băng):
+  - **Vũ Khinh Hồng (Luyện Khí Đỉnh Phong):** Phó Đội Trưởng. Khí chất lạnh lùng, trân trọng sinh mạng. Dùng Hàn Lưu Xuyên Kích tấn công từ xa nhưng yếu cận chiến.
+  - **Vũ Phiêu Linh (Luyện Khí Hậu Kỳ):** Truyền Tin Viên. Phóng túng, liều lĩnh, thích mượn sức gió cận chiến bằng Cuồng Phong Trảm.
+  - **Vũ Tật Phong (Luyện Khí Trung Kỳ):** Chuyên Viên Khí Tượng. Rụt rè nhưng có thính phong thuật siêu việt, nghe gió đoán bão.
 
 ### Tuyết Cự Nhân Đảo (Bắc Băng)
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Tuyết Cự Nhân Đảo** (Bắc Băng):

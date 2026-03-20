@@ -58566,6 +58566,42 @@ var relationshipData = {
       "target": "trieu_kinh_ve",
       "type": "ally",
       "description": "Đồng liêu cùng Thiên Môn Kính Đài"
+    },
+    {
+      "source": "vu_khinh_hong",
+      "target": "vu_toc_van",
+      "type": "Thủ Lĩnh",
+      "description": "Cánh tay phải đắc lực"
+    },
+    {
+      "source": "vu_phieu_linh",
+      "target": "vu_toc_van",
+      "type": "Thủ Lĩnh",
+      "description": "Sẵn sàng xông pha nhiệm vụ nguy hiểm"
+    },
+    {
+      "source": "vu_tat_phong",
+      "target": "vu_toc_van",
+      "type": "Thủ Lĩnh",
+      "description": "Thần tượng"
+    },
+    {
+      "source": "vu_khinh_hong",
+      "target": "vu_phieu_linh",
+      "type": "Đồng Minh",
+      "description": "Cùng sát cánh sinh tử"
+    },
+    {
+      "source": "vu_khinh_hong",
+      "target": "vu_tat_phong",
+      "type": "Sư Phụ",
+      "description": "Hướng dẫn khắc nghiệt"
+    },
+    {
+      "source": "vu_phieu_linh",
+      "target": "vu_tat_phong",
+      "type": "Đồng Minh",
+      "description": "Hay trêu chọc nhưng luôn bảo vệ"
     }
   ],
   "factions": [
