@@ -32,7 +32,8 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Sơn Cổ Nham** (Sư đồ): Sơn Cổ Nham chỉ dẫn Sơn Trấn trong Cổ Nham Bộ Lạc
+- **Sơn Ngọa** (Sư đồ): Sơn Trấn chỉ dẫn Sơn Ngọa trong Cổ Nham Bộ Lạc
+- **Sơn Cổ Nham** (Cấp dưới): Phục tùng Sơn Cổ Nham, Tộc Trưởng của Cổ Nham Bộ Lạc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
