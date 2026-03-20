@@ -35,6 +35,7 @@ Là Dũng Sĩ Ném Băng xuất sắc nhất của bộ lạc, Sơn Đại Đị
 - **Sơn Thiết Quyền (Chiến Binh Tuần Tra):** Đối tác chiến lược hoàn hảo; khi Thiết Quyền xông lên làm bia đỡ và nghiền nát địch gần, Đại Địa sẽ dùng băng thạch che chắn từ trên cao.
 - **Nham Cương Thể (Dũng Sĩ Phòng Thủ):** Dành sự tôn trọng lớn cho sức chịu đựng của Cương Thể, thường đứng ngay phía sau để tung đòn dập tắt sự phản kháng của kẻ thù.
 - **Lão Cự Nhân Tuyết Sơn (Trưởng Lão):** Luôn lắng nghe những lời tiên tri, dặn dò của Lão Cự Nhân để định hướng ném băng, nhắm vào những khu vực nguy hiểm nhất mà các Tuyết Vu dự đoán.
+- **Tuyết Nham Cốt** (Đồng minh): Dũng Sĩ Ném Băng, mắt phải trong chiến đấu tầm xa
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh trưởng trong một thời đại biển Bắc Băng thường xuyên bị Hắc Hải Hải Tặc dòm ngó, Sơn Đại Địa đã tự mình trui rèn kỹ năng từ thuở nhỏ. Y từng trải qua bài tập khắc nghiệt ném băng chặn đứng những đợt sóng thần đe dọa Hang Trú Đông. Y nổi danh trong trận chiến với lũ Hải Tặc săn trộm, nơi một mình y đã đứng trên đỉnh núi cao ném chìm năm chiến thuyền của địch mà không cho chúng cơ hội tẩu thoát. Từ đó, Sơn Đại Địa trở thành biểu tượng phòng ngự tầm xa không thể thiếu của Tuyết Cự Nhân Đảo.

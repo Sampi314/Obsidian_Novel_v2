@@ -144,6 +144,9 @@ arcs:
     - Hai người đại diện cho hai nửa sức mạnh Thần Điện — Đại Tế quản lý tinh thần và nội bộ, Tướng Quân quản lý quân sự và chiến đấu. Tính cách đối lập hoàn toàn: Đại Tế cẩn thận tính toán, Tướng Quân quyết đoán hành động. Hai người kính trọng lẫn nhau nhưng thường xuyên bất đồng về chiến lược — Đại Tế muốn bành trướng bằng tín ngưỡng, Tướng Quân muốn bành trướng bằng quân sự. Thánh Nữ cân bằng cả hai.
 - **Băng Tịnh Liên (Nữ Tế Tư — "Con Gái Nuôi" Trong Lòng):**
     - Lão nhìn thấy ở Băng Tịnh Liên hình bóng của chính mình thuở trẻ — cùng sự tận tụy, cùng tài năng xuất chúng trong nghi lễ. Lão âm thầm bảo vệ nàng và dành cho nàng sự chỉ dạy đặc biệt, nhưng không bao giờ thể hiện ra ngoài vì sợ bị coi là thiên vị. Trong lòng, lão xem nàng như đứa con gái mà lão chưa bao giờ có.
+- **Băng Lăng Vệ** (Chủ nhân): Lãnh đạo Tế Tư Viện, y tôn trọng nhưng không gần gũi
+- **Cực Quang Đồng Tử** (Sư phụ): Ông nội nghiêm khắc nhưng đáng kính, dạy cậu bé kinh văn
+- **Quang Ảnh Tử** (Đồng minh): Cấp trên danh nghĩa, y tôn trọng trí tuệ nhưng không thân thiết
 
 ## VII. GIAI THOẠI
 > *"Ánh sáng không cần ngươi tin. Ánh sáng chỉ cần ngươi mở mắt."*

@@ -148,6 +148,7 @@ arcs:
     - Tuyết Nhi đã cứu Ngọc Châu khỏi hàm Hải Xà, và từ đó Ngọc Châu coi bà như ân nhân tái sinh. Tuyết Nhi không nhận công — bà chỉ nói: "Đó là việc ta phải làm." Nhưng sau lần đó, bà lặng lẽ dạy Ngọc Châu một vài chiêu tự vệ dưới nước, để cô ta có thể tự bảo vệ mình khi lặn sâu.
 - **Hồ Ẩn Phong (Giám Sát Yêu Khí — Đồng Minh An Ninh):**
     - Hai người phối hợp chặt chẽ trong việc bảo vệ tộc — Ẩn Phong phát hiện mối đe dọa bằng cảm ứng yêu khí, Tuyết Nhi xử lý bằng sức mạnh chiến đấu. Họ ít nói chuyện cá nhân, nhưng có sự tin tưởng nghề nghiệp tuyệt đối — khi Ẩn Phong báo nguy hiểm, Tuyết Nhi hành động ngay mà không cần hỏi lại.
+- **Tuyết Cô Hàn** (Đồng minh): Thiếu nữ bạch hồ từng được nàng cứu khỏi đám buôn nô lệ, coi nàng như chị gái
 
 ## VII. GIAI THOẠI
 > *"Chiêu hay nhất là không cần đánh. Nhưng nếu buộc phải đánh, thì giết cho sạch, không để sống sót một mống."*

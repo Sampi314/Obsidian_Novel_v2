@@ -126,6 +126,9 @@ Hiện tại, Vạn Tuế đang ở giai đoạn Nguyên Anh Trung Kỳ, phần 
 - **Xà Hải Mãng Vương (Kim Đan Hậu Kỳ):** Đồng minh lỏng lẻo. Vạn Tuế tôn trọng sức mạnh của Mãng Vương nhưng không hoàn toàn tin tưởng — loài xà luôn có bản tính xảo quyệt hơn loài chương. Hai bên duy trì hòa bình dựa trên nguyên tắc "không xâm phạm lãnh thổ của nhau trong hang".
 - **Quy Cổ Băng (Kim Đan Trung Kỳ):** Lão rùa là sinh vật sống lâu nhất trong hang (không tính Kraken Già), và Vạn Tuế thường "nghe" những sóng âm ký ức mà Cổ Băng phát ra — đó là cách lão rùa truyền đạt kinh nghiệm. Vạn Tuế coi lão là "ký ức sống" của hang ổ.
 - **Sa Cổ Hải Thú (Kim Đan Viên Mãn):** Cự ngư tuần tra vòng ngoài. Vạn Tuế coi hắn là lính gác đáng tin cậy nhưng không giao thiệp nhiều — loài sa (cá mập) quá hung bạo và thiếu kiên nhẫn cho những cuộc trò chuyện dài.
+- **Chương Băng Hải** (Kẻ thù): Chủ nhân tuyệt đối, nhận lệnh tuần tra
+- **Sa Hàn Cổ Thiên** (Đồng minh): Kraken Chủ, kính sợ tuyệt đối
+- **Quy Băng Hải Thiên** (Đối thủ): Kình ngư thượng cổ ở Bắc Hải Cự Yêu Hang, lão từng gặp khi lặn biển và được tha mạng vì cùng Hải Tộc
 
 ## VII. GIAI THOẠI
 Trong số các cự yêu biển Bắc, có một truyền thuyết được kể lại qua sóng âm: Khi Chương Vạn Tuế mới sinh, hắn chỉ nhỏ bằng một chiếc thuyền câu. Kraken Già đang ngủ đông đã vô thức duỗi một xúc tu quấn lấy quả trứng nội đan, và khi Vạn Tuế nở ra, điều đầu tiên hắn thấy là bóng tối vô tận của xúc tu tổ tiên. Vì vậy, hắn tin rằng bóng tối là quê nhà, và ánh sáng mặt trời là kẻ thù tự nhiên.

@@ -37,6 +37,7 @@ Hoàng Tinh Nguyệt hoàn toàn không có khả năng chiến đấu — tu vi
 - **Tinh Hàn Tử:** Đài Trưởng mà cô ấy coi như ông nội — Tinh Hàn Tử hay nhét bánh ngọt vào túi áo cô ấy khi trời lạnh, và cô ấy là người duy nhất dám kéo tay ông vào nhà khi ông đứng ngoài trời tuyết quan sát quá lâu. Cô ấy tin tưởng tuyệt đối mọi điều Đài Trưởng nói, kể cả khi ông nói về U Tinh mà không ai khác tin.
 - **Lý Tinh Vân:** Giáo sư nghiêm khắc mà cô ấy vừa sợ vừa kính — Tinh Vân bắt cô ấy kiểm tra số liệu ba lần trước khi vẽ, điều mà bản tính nghệ sĩ của cô ấy rất khó chịu nhưng phải thừa nhận là đúng. Hai người thường xung đột nhỏ giữa "chính xác" và "đẹp", nhưng kết quả cuối cùng luôn tốt hơn khi cả hai hợp tác.
 - **Các thành viên đài:** Cô ấy là "ánh nắng" của nhóm mười lăm người trên đồi đá lạnh lẽo — sự sôi nổi và mơ mộng của cô ấy khiến cuộc sống khắc khổ bớt nặng nề, dù đôi khi gây phiền vì quên việc nhà để mải vẽ.
+- **Trần Quang Minh** (Đồng minh): Đồng liêu cùng Hàn Tinh Quan Trắc Đài, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoàng Tinh Nguyệt sinh ra trong gia đình thợ nhuộm vải ở một thị trấn nhỏ phía nam Bắc Băng — cha mẹ chuyên nhuộm vải lụa cho thương nhân, và cô ấy thừa hưởng đôi mắt nhạy cảm với màu sắc từ nghề gia đình. Cơ duyên đến khi một bản Tinh Đồ Sống cũ của Hàn Tinh Quan Trắc Đài bị thương nhân bỏ quên tại cửa hàng cha cô — cô nhặt lên, nhìn thấy các ngôi sao trên bản đồ di chuyển chậm rãi, và lần đầu tiên trong đời cảm thấy bầu trời sao không phải thứ xa vời mà là thứ có thể chạm vào và vẽ lại.

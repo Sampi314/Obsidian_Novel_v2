@@ -163,6 +163,7 @@ arcs:
     - Ban đầu ông phản đối kịch liệt việc thu nhận yêu tộc. Nhưng sau khi chứng kiến tài năng của Tuyết Ngọc, ông lặng lẽ thay đổi — không bao giờ xin lỗi bằng lời, nhưng bắt đầu giao cho nàng những nhiệm vụ quan trọng trong Lửa Lạnh Viện, đó là cách ông thể hiện sự công nhận.
 - **Nguyễn Băng Tâm — Học Trò Nóng Vội:**
     - Băng Tâm nhắc ông nhớ đến chính mình thời trẻ — nhiệt huyết, liều lĩnh, muốn chứng minh bản thân bằng mọi giá. Ông nghiêm khắc với Băng Tâm hơn ai hết, vì ông biết nóng vội trên con đường đan đạo là con đường ngắn nhất đến tẩu hỏa nhập ma.
+- **Đặng Tiểu Hàn** (Đồng minh): Viện Chủ, bậc trưởng bối mà hắn kính phục tận đáy lòng
 
 ## VII. GIAI THOẠI
 > *"Thiên hạ nói Lý Băng Diễm không có linh căn Hỏa. Lý Băng Diễm không cần. Ông ấy tạo ra lửa từ nước — thử hỏi ai trên đời làm được?"*

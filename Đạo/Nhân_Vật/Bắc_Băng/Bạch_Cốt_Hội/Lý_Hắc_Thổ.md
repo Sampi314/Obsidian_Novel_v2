@@ -53,6 +53,7 @@ Lý Hắc Thổ là nghệ nhân chế tác pháp khí từ xương cốt, khôn
 - **Đoạn Vô Tình:** Hội Chủ, người hiểu giá trị tay nghề của hắn. Hội Chủ cho hắn tự do sáng tạo và không bao giờ ép buộc hắn làm thứ hắn coi là "phá hoại nguyên liệu."
 - **Hoàng Mộ Dạ:** Giám Định Viên, người "phiên dịch" câu chuyện trong xương cốt cho hắn. Mỗi khi Hoàng Mộ Dạ kể về lịch sử một bộ xương, Lý Hắc Thổ lại chế tác tốt hơn vì hiểu rõ nguồn gốc nguyên liệu.
 - **Phạm U Linh:** Trinh Sát Phế Tích, người mang về nguyên liệu từ bãi xương. Hắn thường cằn nhằn vì Phạm U Linh hay làm nứt xương khi vận chuyển.
+- **Trần Cốt Lão** (Đồng minh): Đồng sự lâu năm, khâm phục tay nghề nhưng ngán tính khí
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Hắc Thổ xuất thân từ một gia đình thợ mộc phàm nhân ở vùng ven Bắc Băng. Từ nhỏ, hắn đã thể hiện tài năng chạm khắc phi thường — có thể khắc một con rồng cực kỳ chi tiết trên chiếc đũa ăn cơm. Khi mười tám tuổi, hắn vô tình nhặt được một mảnh xương trắng phát ra tiếng vo nhẹ trên bãi biển đóng băng, và khi chạm khắc lên đó, phù văn tự phát sáng — từ đó phát hiện linh căn thổ hệ tiềm ẩn. Không có sư phụ, hắn tự học cách chế tác pháp khí xương bằng thử nghiệm liên tục, phá hỏng hàng trăm mảnh xương trước khi tạo ra tác phẩm đầu tiên thành công. Danh tiếng lan đến Đoạn Vô Tình, Hội Chủ mời hắn gia nhập với lời hứa cung cấp nguyên liệu xương cốt cường giả vô hạn. Tham vọng thầm lặng nhất của hắn: tái tạo một kiện pháp bảo hoàn chỉnh từ bộ xương của một cường giả Nguyên Anh, điều mà chưa ai trong lịch sử Bạch Cốt Hội từng làm được.

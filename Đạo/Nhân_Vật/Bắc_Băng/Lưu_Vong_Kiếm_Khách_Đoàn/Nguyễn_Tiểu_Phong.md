@@ -64,6 +64,8 @@ Nguyễn Tiểu Phong mới bắt đầu học Tàn Kiếm Thất Thức, hiện
 - **Lý Tàn Kiếm:** Sư huynh trực tiếp huấn luyện hắn, nghiêm khắc đến mức hắn nhiều lần muốn bỏ chạy, nhưng cũng là người lặng lẽ nhét thêm lương khô vào túi hắn mỗi chuyến đi xa.
 - **Hoàng Vô Niệm:** Sư huynh mà hắn ngưỡng mộ vì sự điềm tĩnh phi thường, thường lén quan sát đối phương luyện kiếm để tự học hỏi.
 - **Phương Hàn:** Đoàn trưởng, hình mẫu kiếm khách lý tưởng trong lòng hắn, hắn mong một ngày được chứng minh giá trị trước mặt đoàn trưởng.
+- **Trần Đoạn Phong** (Đồng minh): Tân nhân nhỏ tuổi, hắn thường kể chuyện giang hồ cho thiếu niên nghe, âm thầm trau dồi kiến thức xã hội cho đứa nhỏ
+- **Vũ Hàn Kiếm** (Đồng minh): Tân nhân nhỏ tuổi, sự ngây thơ và nhiệt huyết của thiếu niên khiến hắn thỉnh thoảng quên mất vai gián điệp
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyễn Tiểu Phong xuất thân từ một gia đình phàm nhân nghèo khó ở thị trấn biên giới Bắc Băng, cha mẹ làm nghề bán củi và kiếm sống qua ngày. Năm mười lăm tuổi, hắn tình cờ nhặt được một thanh kiếm gãy bị vứt bên đường sau trận chiến giữa tu sĩ và yêu thú, từ đó mê kiếm đến điên cuồng, ngày ngày tự mình vung kiếm bắt chước theo những gì hắn thấy. Tin đồn về một nhóm kiếm khách lưu vong sẵn sàng nhận người không có sư môn khiến hắn rời nhà, lặn lội qua ba tháng đường tuyết để tìm đến hẻm núi của đoàn. Lý Tàn Kiếm ban đầu muốn đuổi hắn về vì quá yếu, nhưng Phương Hàn thấy trong ánh mắt thiếu niên ấy ngọn lửa kiếm ý thuần khiết hiếm có nên quyết định giữ lại. Hiện tại hắn là tân nhân yếu nhất đoàn nhưng cũng chăm chỉ nhất, mục tiêu trước mắt là đột phá Trúc Cơ và chính thức trở thành kiếm khách được giao nhiệm vụ độc lập.

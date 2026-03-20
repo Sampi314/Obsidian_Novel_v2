@@ -149,6 +149,9 @@ arcs:
     - Đông Phong đào tạo Tiểu Đông làm người kế thừa hệ thống truyền tin. Hắn vừa nghiêm khắc vừa bao dung — yêu cầu Tiểu Đông phải truyền tin chính xác tuyệt đối, nhưng cũng kiên nhẫn sửa lỗi mà không la mắng. Hắn thấy trong Tiểu Đông hình bóng của mình lúc mới tỉnh giấc — đầy năng lượng nhưng chưa biết kiểm soát.
 - **Bào Sương Hàn — Trinh Sát Tuyết & Đồng Đội Tin:**
     - Đông Phong và Sương Hàn phối hợp thường xuyên: Sương Hàn thu thập tình báo, Đông Phong truyền về trung tâm. Hai người bổ sung nhau hoàn hảo — Sương Hàn âm thầm như bóng, Đông Phong ồn ào như gió — nhưng cùng phục vụ mục đích: thông tin.
+- **Bào Bạch Vũ** (Sư phụ): Hàn Phong Sứ truyền lệnh trên chiến trường, phối hợp thường xuyên
+- **Bào Phiêu Linh** (Đồng minh): Hàn Phong Sứ giúp truyền tin khi hắn ở xa, cầu nối với liên minh
+- **Bào Tuyết Nhi** (Đồng minh): Hàn Phong Sứ mà nàng lặng lẽ chăm sóc khi hắn kiệt sức
 
 ## VII. GIAI THOẠI
 > *"Nghe kỹ tiếng gió đêm Bắc Băng — đôi khi ngươi sẽ nghe thấy ai đó đang nói. Đừng trả lời. Đó không phải ma quỷ — đó là Sứ Gió đang truyền tin. Nhưng nếu ngươi trả lời, hắn sẽ biết ngươi ở đâu."*

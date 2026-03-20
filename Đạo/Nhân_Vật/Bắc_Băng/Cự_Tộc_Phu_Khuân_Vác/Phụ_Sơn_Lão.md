@@ -157,6 +157,9 @@ arcs:
     - Vạn Quân xây, Phụ Sơn Lão vận chuyển vật liệu — hai người phối hợp thường xuyên trong các dự án xây dựng lớn. Lão đánh giá cao tay nghề của Vạn Quân, coi y là "Cự Tộc hiếm hoi biến sức mạnh thành nghệ thuật." Ngược lại, Vạn Quân coi lão là "trụ cột hậu cần không thể thay thế" — không có phu khuân, vật liệu không đến công trường, thợ xây giỏi mấy cũng vô dụng.
 - **Cực Quang Thần Điện — Chủ Thuê & Kẻ Bóc Lột:**
     - Phần lớn đơn hàng lớn của đội đều đến từ Cực Quang Thần Điện — nhưng quan hệ căng thẳng. Thần Điện trả công thấp, hay quỵt tiền, và đối xử với Cự Tộc như lao nô. Lão nuốt giận vì cần đơn hàng nuôi đội, nhưng mỗi lần bị ép giá, lão đều nhớ — và tích lũy oán hận thầm lặng. Lão từng nói với Đồng Cân Lực vào một đêm uống rượu: "Ngày nào Thần Điện sụp, ta sẽ cõng phần đổ nát ấy ra biển đổ — miễn phí."
+- **Thiên Cân** (Chủ nhân): Đội trưởng Phu Khuân Vác, trưởng bối y kính trọng vì sức chịu đựng phi thường
+- **Băng Cương** (Đồng minh): Đội trưởng Phu Khuân Vác, đồng tộc thường xuyên vận chuyển vật tư cho hang
+- **Băng Đông Thạch** (Đồng minh): Đội trưởng Phu Khuân Vác, trưởng bối đồng tộc đáng kính, thường xuyên vận chuyển vật tư cho hang
 
 ## VII. GIAI THOẠI
 > *"Phụ Sơn Lão cõng núi trên lưng đi ngàn dặm mà không thở dốc. Ngươi hỏi lão có mệt không — lão nhìn ngươi, nhìn ngọn núi, rồi nói: 'Núi không kêu, ta kêu gì?'"*

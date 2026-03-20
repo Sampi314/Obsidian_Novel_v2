@@ -177,6 +177,9 @@ arcs:
     - Nỗi thù hận sâu đậm nhất của Tuyết Sơn. Bọn hải tặc đã giết cha y, giết bạn đời thứ hai của y, bắt cóc và giết hại vô số Tuyết Cự Nhân non trẻ để luyện đan hoặc bán cho các thế lực tà đạo. Mỗi lần nghe tin tàu Hắc Hải xuất hiện gần đảo, đôi mắt xanh băng già nua của y lại bùng lên ánh lửa — đó là khoảnh khắc hiếm hoi mà ba trăm Tuyết Cự Nhân thấy được sức mạnh nguyên thủy của vị Lão Cự Nhân ba nghìn tuổi.
 - **Hải Thần Cung (Đồng Minh Hiền Lành):**
     - Quan hệ thân thiện nhưng giữ khoảng cách. Tuyết Sơn tôn trọng Hải Thần Cung vì họ cũng là sinh vật biển, hiểu được cuộc sống cô độc giữa đại dương. Đôi khi Hải Tộc gửi tin tình báo về hoạt động của Hắc Hải Hải Tặc, đổi lại Tuyết Cự Nhân giúp phá băng mở đường biển cho Hải Tộc vào mùa đông. Nhưng Tuyết Sơn không bao giờ đặt hoàn toàn niềm tin vào bất kỳ thế lực bên ngoài nào — y đã học được bài học ấy từ quá khứ đau thương.
+- **Nham Cương Thể** (Thuộc hạ): Dũng Sĩ Phòng Thủ trung thành, vệ sĩ thường trực của y
+- **Sơn Đại Địa** (Đồng minh): Dũng Sĩ Ném Băng xuất sắc, trụ cột phòng thủ tầm xa
+- **Sơn Thiết Quyền** (Gia tộc): Chiến Binh Tuần Tra nóng tính nhưng dũng mãnh, y xem như cháu ruột
 
 ## VII. GIAI THOẠI
 > *"Khi Lão Cự Nhân ngồi trên đỉnh núi, ngọn núi cao thêm ba mươi trượng. Khi Lão Cự Nhân đứng dậy, cả biển Bắc Băng phải lùi lại."*

@@ -179,6 +179,7 @@ arcs:
 
 - **Trần Hắc Tâm — Kẻ Giám Sát Đáng Ghét:**
     - Trần Hắc Tâm là cai ngục trưởng Tầng Một — trên danh nghĩa là cai ngục, thực chất là tai mắt của Lý Tham Quan giám sát hắn. Hai bên ghét nhau nhưng phải chung sống: Hắc Tâm cần Lão Ngũ giữ trật tự Tầng Một, Lão Ngũ cần Hắc Tâm không báo cáo xấu về mình lên Ngục Trưởng. Mối quan hệ này giống hai con rắn nằm chung hang — cả hai đều biết đối phương có thể cắn mình bất cứ lúc nào.
+- **Băng Cốt Yêu Nữ** (Đối thủ): Tù trưởng Tầng Một đáng khinh, kẻ dùng trùng độc bẩn thỉu mà ả coi thường nhưng đôi khi cần giao dịch
 
 ## VII. GIAI THOẠI
 > *"Giết người bằng đao là hạ sách — nạn nhân biết mình chết vì ai. Giết người bằng độc mới là thượng sách — nạn nhân không biết mình đã chết, cho đến khi nhìn thấy chính xác mình trong gương."*

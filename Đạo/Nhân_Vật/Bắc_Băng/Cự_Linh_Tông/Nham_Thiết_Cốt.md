@@ -42,6 +42,8 @@ Với tu vi Hóa Thần Hậu Kỳ, Nham Thiết Cốt là một trong những c
 - **Nham Chấn Nhạc:** Đồng liêu trong Trưởng Lão Hội. Hai người tuy cùng bảo thủ nhưng Nham Thiết Cốt ôn hòa hơn, thường đóng vai trung gian khi Nham Chấn Nhạc xung đột với phe trẻ.
 - **Nham Liệt Địa:** Đệ tử đầu tiên và cũng là kẻ khiến ông tự hào nhất. Ông truyền thụ Liệt Địa Khai Sơn Quyền cho Nham Liệt Địa và kỳ vọng hắn sẽ là người kế thừa vị trí Đại Trưởng Lão.
 - **Nham Phá Sơn:** Đệ tử thứ hai, một kẻ lai mà ông nhận nuôi bất chấp sự phản đối của nhiều trưởng lão khác. Ông tin rằng ý chí kiên cường quan trọng hơn huyết mạch thuần khiết.
+- **Nham Thương** (Đồng minh): Bạn cũ từ Cự Linh Tông, nay đã quay lưng
+- **Nham Tâm** (Sư phụ): Nham Thiết Cốt chỉ dẫn Nham Tâm trong Cự Linh Tông
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nham Thiết Cốt sinh ra với thể chất yếu ớt so với tiêu chuẩn Cự Tộc — xương mềm, cơ bắp nhão, bị đồng tộc chế giễu là "Nhuyễn Cốt." Chính sự nhục nhã ấy thôi thúc ông dành cả đời tập trung rèn luyện cốt cách, biến điểm yếu nhất thành thế mạnh áp đảo nhất. Ông tự mình phát triển Thiết Cốt Bất Hoại Thân từ nền tảng Cửu Chuyển Kim Cương Quyết, một quá trình đau đớn kéo dài hàng trăm năm khi phải liên tục đập gãy và tái tạo xương cốt.

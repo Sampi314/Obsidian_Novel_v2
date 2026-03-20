@@ -33,6 +33,10 @@ Sẻ tuyết nhỏ bé nhưng sống sót giữa Bắc Băng — bản lĩnh hơ
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Sương Lệ Nhi** (Đồng minh): Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+- **Sở Lăng Sương** (Sư phụ): Tước Tuyết Nhi chỉ dẫn Sở Lăng Sương trong Tán Tu
+- **Triệu Thanh Hằng** (Đồng minh): Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+- **Tước Hàn** (Sư phụ): Tước Tuyết Nhi chỉ dẫn Tước Hàn trong Tán Tu
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

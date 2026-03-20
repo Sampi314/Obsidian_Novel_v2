@@ -143,6 +143,8 @@ arcs:
     - Cương yêu thương Tĩnh Nguyệt — bảo vệ em khỏi mọi nguy hiểm, đánh nhau với bất kỳ ai dám bắt nạt em. Nhưng hắn cũng ngầm ghen tị — vì em gái thông minh hơn, được mẹ dạy dỗ nhiều hơn, được trưởng lão khen ngợi *"hiểu chuyện"* trong khi hắn bị gọi *"nóng đầu."* Hắn sợ rằng một ngày, mọi người sẽ chọn Tĩnh Nguyệt thay vì hắn — và nỗi sợ ấy biến thành sự bốc đồng nhiều hơn, tạo vòng xoáy tự hủy.
 - **Lang Bạo Phong — Chiến Hữu & Tấm Gương Tốt:**
     - Bạo Phong là người duy nhất mà Cương thực sự coi là bạn — hai sói trẻ (theo tuổi lang yêu, Bạo Phong trẻ hơn nhiều trưởng lão) hiếu chiến, bốc đồng, thích xông pha. Họ hay cùng nhau săn yêu thú, cùng uống rượu, cùng gào thét trên chiến trường. Nhưng Bạo Phong khác Cương ở một điểm: Bạo Phong chiến đấu vì bộ lạc, Cương chiến đấu vì bản thân. Cương chưa nhận ra sự khác biệt ấy — nhưng khi hắn nhận ra, đó sẽ là bước ngoặt.
+- **Lang Hàn Thiên Nộ** (Gia tộc): Đại Tướng Quân, hắn nể phục nhưng ngầm ganh tị vì Thiên Nộ được cha tin tưởng hơn
+- **Lang Thiên Nha Huyết** (Đồng minh): Thái tử cùng trang lứa, đối thủ ngầm và đồng minh trên chiến trường
 
 ## VII. GIAI THOẠI
 > *"Tiểu Bạo Vương gầm lên xung trận, năm mươi Lang Nha lao theo — không phải vì hắn ra lệnh, mà vì khi hắn chạy, ngươi không muốn đứng lại."*

@@ -35,6 +35,10 @@ Kỹ năng chiến đấu của Hoàng Đoạn Tuyết xoay quanh khả năng ph
 - **Hàn Tiêu:** Sư huynh đồng môn (Cốc Chủ), người mà Hoàng Đoạn Tuyết luôn âm thầm lo liệu phía sau để Hàn Tiêu có thể yên tâm rèn luyện "Nhất Kiếm Vô Niệm".
 - **Lê Kiếm Tâm:** Thế hệ sau, Hoàng Đoạn Tuyết luôn là người tiếp tế đan dược và phôi kiếm tốt nhất cho Lê Kiếm Tâm, coi hắn như hy vọng tương lai của tông môn.
 - **Hoàng Đại Sơn (Băng Nguyên Tán Tu Hội):** Đối tác giao thương, thường xuyên trao đổi lương thực và tin tức để đổi lấy băng tinh linh thạch, duy trì đường sống cho Hàn Kiếm Cốc.
+- **hoang_dai_san** (Trung lập): Đối tác giao thương
+- **Lý Băng Kiếm** (Chủ nhân): Đồng liêu Trưởng Lão, thường phối hợp bảo vệ tông môn
+- **Trần Tuyết Phong** (Đồng minh): Trưởng Lão Tiếp Tế, biết ơn vì duy trì hậu cần cho Khổ Tu Đoàn
+- **Nguyễn Phá Tuyết** (Đồng minh): Đồng liêu cùng Hàn Kiếm Cốc, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra trong một gia đình tán tu ở Bắc Băng, Hoàng Đoạn Tuyết sớm nếm trải sự tàn khốc của cái lạnh và nạn đói trước khi được nhận vào Hàn Kiếm Cốc. Trong một lần hộ tống đệ tử ngoại môn qua Hẻm Núi Tử Thần, ông đã hy sinh cánh tay trái (sau này thay bằng tay giả bằng băng vĩnh cửu) để chặn đường một con Băng Tuyết Ma Hùng, bảo vệ toàn vẹn người và tài nguyên. Kể từ đó, ông từ bỏ con đường truy cầu kiếm đạo tối thượng để lui về nhậm chức Trưởng Lão Tiếp Tế Viện. Mục tiêu hiện tại của ông là tìm kiếm những tuyến giao thương an toàn hơn và tích trữ đủ tài nguyên để Hàn Kiếm Cốc vượt qua chu kỳ bão tuyết vạn năm sắp tới.

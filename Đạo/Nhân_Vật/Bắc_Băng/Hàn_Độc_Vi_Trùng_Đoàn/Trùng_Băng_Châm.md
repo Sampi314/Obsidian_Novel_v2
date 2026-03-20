@@ -35,6 +35,8 @@ Lợi thế lớn nhất của hắn là khả năng xuyên thấu phòng ngự 
 - **Vi Thanh (Đoàn Trưởng):** Trùng Băng Châm là phó thủ trung thành và là người thực thi các chiến lược bảo vệ Đoàn một cách quyết đoán.
 - **Băng Dực (Trinh Sát):** Đối tác tin cậy trong các chiến dịch phối hợp; Băng Dực sẽ chỉ định mục tiêu và đánh lạc hướng trong khi Trùng Băng Châm tung đòn kết liễu.
 - **Trùng Bạch Lân (Trinh Sát Độc):** Đồng hành nhưng không mấy hòa hợp do khác biệt trong phương thức chiến đấu (một bên thích tấn công trực diện từ bên trong, một bên lại thiên về ngụy trang và lẩn khuất lâu dài).
+- **Trùng Sương Ẩn** (Sư phụ): Cấp trên trực tiếp và sư huynh, người đã dạy hắn nghệ thuật ám sát ở cấp vi mô
+- **Trùng Tuyết Nha** (Sư phụ): Sư phụ trực tiếp truyền thụ kỹ thuật xâm nhập, bậc tiền bối mà hắn kính trọng và nỗ lực noi theo
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Từ một cá thể yếu ớt sống sót trong bể độc của một trận địa ma đạo bị lãng quên, Trùng Băng Châm đã dần chuyển hóa hàn ma khí trong đó thành vũ khí của riêng mình. Trong một lần Sương Ma Uyển tấn công quần thể, hắn đã dùng bản lĩnh của mình xuyên thủng kinh mạch của một tu sĩ ma đạo Trúc Cơ hậu kỳ, giúp giải cứu Vi Thanh và được đề bạt lên chức Phó Đoàn Trưởng. Hiện nay, nhiệm vụ chính của hắn là tổ chức tuyến phòng ngự chống lại sự bành trướng ma đạo, bảo vệ đàn vi trùng yếu ớt.

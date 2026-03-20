@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Châu Phá Thiên** (Sư phụ): Châu Phá Thiên chỉ dẫn Đặng Hỏa Nhi trong Phá Băng Thương Đội
+- **Lý Thiết Kế** (Sư phụ): Lý Thiết Kế chỉ dẫn Đặng Hỏa Nhi trong Phá Băng Thương Đội
+- **Nguyễn Đại Xa** (Sư phụ): Đặng Hỏa Nhi chỉ dẫn Nguyễn Đại Xa trong Phá Băng Thương Đội
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

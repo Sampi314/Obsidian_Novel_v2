@@ -41,6 +41,7 @@ Là một Hóa Thần Sơ Kỳ Luyện Thể, Nham Chấn Nhạc không dùng li
 - **Nham Hồng Hoang:** Thái Thượng Trưởng Lão mà hắn hết mực tôn kính, coi như vị thần sống của tông môn. Hắn thường xuyên đến xin lời khuyên của ông mỗi khi Cự Linh Tông có quyết định quan trọng.
 - **Nham Kình Thiên:** Vãn bối mà hắn vô cùng kỳ vọng. Hắn chính là người đích thân huấn luyện Nham Kình Thiên, truyền đạt lại những tinh hoa của Bá Thể Cự Thần Quyết.
 - **Sở Lăng Sương:** Hắn từng một lần chạm trán Sở Lăng Sương khi cô đi điều tra sương độc gần lãnh địa của Cự Linh Tông. Dù không ưa những kẻ dùng độc, hắn lại khá tôn trọng sự kiên cường và quyết đoán của cô.
+- **Nham Liệt Địa** (Sư phụ): Nham Chấn Nhạc chỉ dẫn Nham Liệt Địa trong Cự Linh Tông
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nham Chấn Nhạc sinh ra với huyết mạch Cự Tộc tương đối thuần khiết. Từ nhỏ, hắn đã thể hiện sức mạnh phi thường khi có thể nhấc bổng một tảng đá nặng vạn cân chỉ bằng một tay. Quá trình trưởng thành của hắn gắn liền với những cuộc săn bắt yêu thú khổng lồ ở Bắc Băng, nơi hắn rèn luyện nhục thân qua vô số trận tử chiến.

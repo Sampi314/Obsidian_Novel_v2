@@ -159,6 +159,7 @@ arcs:
     - Ông là người trực tiếp dạy Vũ Hàn Thiết thực chiến kiếm pháp. Ông nhìn thấy tiềm năng lớn ở Hàn Thiết — sự cứng cỏi, ý chí bất khuất, và một thanh kiếm thô mộc nhưng mạnh mẽ. Tuy nhiên, ông lo lắng về tính cách quá trực tính và cố chấp của Hàn Thiết — kiếm tu cần linh hoạt, mà Hàn Thiết cứng như sắt, không chịu uốn. Ông thường rèn luyện Hàn Thiết bằng cách đặt vào những tình huống buộc phải thích ứng — và mỗi lần Hàn Thiết thất bại, ông không mắng, chỉ nói: *"Lần sau, thử cách khác."*
 - **Phương Hàn Lôi — Anh Cả (Đã Mất):**
     - Bốn trăm năm đã trôi qua, nhưng bóng dáng anh cả vẫn hiện diện trong mọi quyết định của ông. Mỗi khi ông rút kiếm, ông nghe thấy tiếng anh hét "Rút kiếm!" — và ông rút, nhanh hơn bất kỳ ai, vì ông không bao giờ muốn chậm nữa. Thanh kiếm cùn treo trên tường không phải di vật — nó là lời nguyền, là lời hứa, là lý do ông tồn tại.
+- **Lê Kiếm Tâm** (Sư phụ): Đệ tử cùng thế hệ chân truyền, thường giao đấu rèn luyện
 
 ## VII. GIAI THOẠI
 > *"Sương Ảnh rút kiếm nhanh nhất Hàn Kiếm Cốc — không phải vì ông ấy tài giỏi hơn Cốc Chủ, mà vì ông ấy sợ chậm hơn bất kỳ ai."*

@@ -132,6 +132,10 @@ Gần đây, hiện tượng ma khí rò rỉ từ dưới lòng đất khiến 
 
 - **Tuyết Thanh Hàn (Hộ Vệ Hoa Linh):**
     - Kẻ canh giữ vườn dược liệu — khu vực quan trọng bậc nhất cho sự tồn vong quần thể. Tuyết Dao giao nhiệm vụ này cho Thanh Hàn vì Vi Linh này có bản năng bảo vệ mãnh liệt nhất trong quần thể — sẵn sàng hy sinh bản thân để bảo vệ khu vực được giao.
+- **Tuyết Bạch Vân** (Đồng minh): Hoa Linh Chủ, cung cấp tinh thể cực quang quý để dệt những tấm vải đặc biệt
+- **Tuyết Lăng Phong** (Sư phụ): Hoa Linh Chủ, người truyền cảm hứng cho vũ điệu lớn nhất — Lục Biện Khai Hoa Vũ
+- **Tuyết Mộng Hàn** (Đồng minh): Hoa Linh Chủ, người duy nhất mà Mộng Hàn không thể đọc giấc mơ
+- **Tuyết Ngưng Hương** (Đồng minh): Hoa Linh Chủ, đôi khi ban tinh thể cực quang — nguyên liệu hương liệu thượng hạng
 
 ## VII. GIAI THOẠI
 

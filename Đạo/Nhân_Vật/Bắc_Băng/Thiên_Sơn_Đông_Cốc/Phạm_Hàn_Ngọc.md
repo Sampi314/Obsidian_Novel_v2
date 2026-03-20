@@ -163,6 +163,8 @@ arcs:
     - Tiểu Hàn là trợ lý phòng thí nghiệm của cô, người dọn dẹp sau mỗi vụ nổ lò, người sắp xếp dược liệu mà cô vứt lung tung, và người âm thầm ghi chép lại những đan phương cô nguệch ngoạc trên tường trước khi chúng bị xóa. Cô biết ơn Tiểu Hàn nhưng hay quên nói cảm ơn.
 - **Hoàng Đông Tuyền — Sư Bá Hay Lo:**
     - Đông Tuyền coi cô như cháu gái liều lĩnh, luôn lo lắng mỗi khi nghe tiếng nổ từ phòng thí nghiệm của cô. Cô kính trọng sư bá nhưng hay cãi lại khi ông bảo cô bớt liều: *"Sư bá, không liều thì sao có đan dược mới?"*
+- **Nguyễn Băng Tâm** (Đồng minh): Trưởng Lão Đan Sư, tiền bối mà hắn ngưỡng mộ sự sáng tạo
+- **Trần Tuyết Liên** (Đồng minh): Trưởng Lão Đan Sư, khách hàng chính của dược liệu cô hái về
 
 ## VII. GIAI THOẠI
 > *"Khi nào nghe tiếng nổ từ Lửa Lạnh Viện, đừng hoảng — chỉ là Hàn Ngọc đang luyện đan. Khi nào không nghe tiếng nổ, mới nên hoảng — nghĩa là cô ấy đang âm thầm thử thứ gì đó thật sự nguy hiểm."*

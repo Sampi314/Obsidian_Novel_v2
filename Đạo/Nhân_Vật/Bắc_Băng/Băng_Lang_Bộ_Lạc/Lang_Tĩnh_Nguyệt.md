@@ -136,6 +136,8 @@ arcs:
     - Bà yêu anh trai — nhưng bà cũng nhìn thấy rõ hơn ai hết rằng Cương chưa sẵn sàng kế vị. Bà không muốn tranh giành — bà muốn hỗ trợ Cương trở thành Đại Tù Trưởng giỏi. Nhưng Cương không chịu nghe, và Tĩnh Nguyệt bắt đầu tự hỏi: nếu hắn không thay đổi, bà có trách nhiệm gì với bộ lạc?
 - **Lang Mộng Tuyết — Bạn Thân & Đôi Mắt Thấy Tương Lai:**
     - Mộng Tuyết là bạn thân duy nhất cùng trang lứa — hai cô gái trẻ trong bộ lạc toàn chiến binh, cả hai đều khác biệt theo cách riêng. Tĩnh Nguyệt kể cho Mộng Tuyết nghe về chính trị, Mộng Tuyết kể cho bà nghe về giấc mơ tiên tri — hai thế giới kỳ lạ giao nhau trong hang đá mỗi đêm.
+- **Lang Nguyệt Nha** (Gia tộc): Con gái út, người mang nhiều nét giống bà nhất, bà đặt kỳ vọng lớn
+- **Lang Bạch Sương** (Chủ nhân): Y sư mà bà kính trọng, đang học y thuật cơ bản từ nàng
 
 ## VII. GIAI THOẠI
 > *"Con gái Tuyết Vương không cần nanh vuốt — nàng dùng đầu óc, và đầu óc ấy sắc hơn bất kỳ thanh đao nào trong bộ lạc."*

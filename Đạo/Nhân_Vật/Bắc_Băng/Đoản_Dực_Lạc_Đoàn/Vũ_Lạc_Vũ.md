@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Vũ Chiết Dực** (Đồng minh): Đồng liêu cùng Đoản Dực Lạc Đoàn, hỗ trợ lẫn nhau
+- **Vũ Tàn Phong** (Đồng minh): Đồng liêu cùng Đoản Dực Lạc Đoàn, hỗ trợ lẫn nhau
+- **Vũ Vô Thiên** (Sư phụ): Vũ Lạc Vũ chỉ dẫn Vũ Vô Thiên trong Đoản Dực Lạc Đoàn
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

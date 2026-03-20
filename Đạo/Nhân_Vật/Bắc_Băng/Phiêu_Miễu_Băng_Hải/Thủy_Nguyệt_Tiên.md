@@ -157,6 +157,7 @@ arcs:
     - Nhạc sư và vũ nữ — sự kết hợp tự nhiên nhất trong Phiêu Miễu Băng Hải. Thanh Âm cung cấp âm nhạc, Thủy Nguyệt Tiên cung cấp vũ đạo, và khi hai người phối hợp, hiệu quả huyễn thuật tăng gấp bội. Nàng đánh giá cao tài năng của Thanh Âm nhưng lo ngại tính kiêu ngạo và cực đoan của cô — nếu không kiểm soát, Thanh Âm có thể gây ra xung đột không cần thiết với các thế lực bên ngoài.
 - **Sư Phụ Quá Cố — Vết Sẹo Không Lành:**
     - Dù đã hơn ba trăm năm trôi qua, Thủy Nguyệt Tiên vẫn chưa nguôi ngoai. Mỗi năm vào ngày giỗ sư phụ, nàng một mình múa trên mặt biển đóng băng suốt đêm — bộ vũ phổ mà sư phụ dạy nàng đầu tiên, từ đầu đến cuối, không sai một thức. Đệ tử trong viện biết và không bao giờ quấy rầy nàng vào đêm đó.
+- **Lam Tịnh Thủy** (Đồng minh): Viện Chủ Ảo Vũ Viện, tôn trọng nhưng ít giao thiệp trực tiếp
 
 ## VII. GIAI THOẠI
 > *"Thủy Nguyệt Tiên múa trên mặt biển đóng băng — và cả Bắc Băng quên mất mùa đông."*

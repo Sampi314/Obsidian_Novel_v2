@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Ưng Bạch Vũ** (Thuộc hạ): Phục tùng Ưng Liệt, Đàn Trưởng của Đại Bàng Tuyết Đàn
+- **Ưng Hàn Ảnh** (Đồng minh): Đồng liêu cùng Đại Bàng Tuyết Đàn, hỗ trợ lẫn nhau
+- **Ưng Tiểu Phong** (Sư phụ): Ưng Liệt chỉ dẫn Ưng Tiểu Phong trong Đại Bàng Tuyết Đàn
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

@@ -178,6 +178,7 @@ arcs:
     - Quan hệ thuần túy công việc — Hàn Sương tìm nguồn nguyên liệu rèn quý hiếm từ bên ngoài (hàn thiết, linh khoáng, than linh mạch) qua mạng lưới giao dịch, Thiết Ngưu rèn thành sản phẩm. Gã không tin tưởng Hàn Sương hoàn toàn — gã nghi cô đôi khi ăn chênh giá — nhưng gã không giỏi đàm phán, nên cần cô. Gã đối xử với cô lịch sự, trả tiền đúng hẹn, và kiểm tra nguyên liệu kỹ lưỡng mỗi lần nhận hàng — cô biết gã kiểm tra nên không dám giao hàng kém.
 - **Cha — Đặng Thiết Sơn (Đã Mất):**
     - Chiếc búa rèn của cha vẫn treo trên tường trong lều gã ở Trại Suối Lạnh — gã không dùng nó, vì cán búa đã mòn và đầu búa đã lệch trọng tâm — nhưng gã không sửa, vì sửa là xóa dấu tay cha. Mỗi sáng trước khi vào lò rèn, gã nhìn chiếc búa một lần, gật đầu, rồi cầm búa của mình bắt đầu làm việc. Gã không bao giờ nói chuyện với chiếc búa — gã không phải kiểu người nói chuyện với đồ vật — nhưng gã tin rằng mỗi nhát búa gã đập đều có cha nhìn thấy.
+- **Quy Băng Hải Thiên** (Đồng minh): Tán tu thô lỗ nhưng tốt bụng, hay mời lão uống rượu mỗi khi gặp
 
 ## VII. GIAI THOẠI
 > *"Lão Ngưu rèn sắt không cần nhìn — lão nghe tiếng sắt kêu là biết đủ chưa."*

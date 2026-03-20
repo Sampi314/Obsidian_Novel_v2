@@ -67,6 +67,7 @@ Dù không thể bay, Vũ Lão Cốt là bậc thầy về quan sát khí tượ
 - **Vũ Thanh Phong:** Phó đội trưởng, học trò đắc ý nhất của lão trong việc đọc gió, người duy nhất lão tin tưởng giao phó nhiệm vụ nguy hiểm.
 - **Đoản Dực Lạc Đoàn:** Thế lực cũ mà lão từng thuộc về trước khi bị thương mất khả năng bay, lão rời đi vì không muốn trở thành gánh nặng.
 - **Hàn Kiếm Cốc:** Lão kính trọng nhưng cũng cảnh giác — hiểu rằng họ chỉ coi Đội như công cụ rẻ tiền.
+- **Vũ Nhạn Nhi** (Đồng minh): Trinh sát viên trẻ nhất, nhắc nhở lão về thời trai trẻ
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vũ Lão Cốt vốn là trinh sát kỳ cựu của Đoản Dực Lạc Đoàn, từng bay khắp Bắc Băng suốt hơn năm mươi năm, nổi tiếng với biệt danh "Mắt Bão" vì khả năng dự đoán bão tuyết trước ba ngày. Mười lăm năm trước, trong một lần tuần tra, lão bị Tuyết Điêu tấn công, gân cánh bị xé nát khiến đôi cánh teo rút vĩnh viễn — nỗi nhục lớn nhất đời một Vũ Tộc. Lão rời Đoản Dực Lạc Đoàn trong im lặng, lang thang vô định cho đến khi gặp Vũ Tiểu Vũ — đứa trẻ mồ côi đang cố gắng tập hợp đám nhóc Vũ Tộc lập đội tuần tra. Lão quyết định ở lại làm cố vấn, truyền lại toàn bộ kinh nghiệm đọc gió và sinh tồn cho thế hệ kế tiếp. Mong ước cuối đời của lão là nhìn thấy Phong Vũ Trinh Sát Đội được Hàn Kiếm Cốc công nhận, để đám trẻ có một mái nhà vững chãi hơn mỏm đá lộng gió.

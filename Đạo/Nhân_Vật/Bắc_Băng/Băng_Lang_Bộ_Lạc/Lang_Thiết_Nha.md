@@ -125,6 +125,8 @@ arcs:
     - Thiên Nha Huyết — chiến binh trẻ cuồng chiến — bị Thiên Nộ phái đến dưới quyền Thiết Nha để "học kỷ luật." Thiết Nha đối xử với gã bằng roi sắt — bắt đứng canh gác, bắt tập bất động, phạt mỗi khi nóng nảy. Thiên Nha Huyết ghét Thiết Nha — nhưng dần dần bắt đầu hiểu rằng kỷ luật không phải xiềng xích mà là nền tảng.
 - **Hang Lang Thần — "Nhà":**
     - Thiết Nha sống tại cửa Hang Lang Thần — hắn ăn ở đó, ngủ ở đó, canh gác ở đó. Hang là nhà, là nhiệm vụ, là ý nghĩa sống. Hắn nói: *"Ta không bảo vệ hang. Ta là một phần của hang. Phá hang tức phá ta."*
+- **Lang Nguyệt Nha** (Chủ nhân): Vương Phi, người hắn lặng lẽ bảo vệ như bảo vệ Hang Lang Thần
+- **Lang Hàn Thiên Nộ** (Đồng minh): Đại Tướng Quân, chiến hữu cũ từ thời trẻ, đường ai nấy đi nhưng vẫn tin nhau
 
 ## VII. GIAI THOẠI
 > *"Muốn vào Hang Lang Thần? Bước qua Thiết Nha trước. Mà bước qua Thiết Nha — tốt hơn là đi đập núi, dễ hơn."*

@@ -165,6 +165,8 @@ arcs:
     - Minh Nguyệt Băng cho Tiểu Tinh biết về thế giới bên ngoài — trăng, sao, bầu trời, thời tiết. Đối với một cá thể sinh ra và lớn lên trong hang tối, những khái niệm này gây chấn động. Tiểu Tinh bắt đầu mơ — mơ về bên ngoài, mơ về trăng, mơ về thứ hắn chưa bao giờ thấy. Giấc mơ ấy có thể trở thành đạo tâm — hoặc thành thảm họa.
 - **Toàn Tộc — Hy Vọng Sống:**
     - Tiểu Tinh không biết — nhưng hắn là lý do mà nhiều cá thể già vẫn tiếp tục phát quang. Cổ Băng chiến đấu với suy yếu vì Tiểu Tinh. Thủy Tinh gấp rút chế Kết Tinh Mẫu vì Tiểu Tinh. Tuyết Liên nghiên cứu nguyên nhân suy giảm vì Tiểu Tinh. Tất cả vì một cá thể nhỏ bé, méo mó, phát quang loạn xạ — nhưng sống.
+- **Khuẩn Băng Nham** (Đệ tử): Đệ tử nhỏ hay lang thang vào khu cấm, Băng Nham phải đuổi về thường xuyên
+- **Khuẩn Vạn Niên Băng** (Đồng minh): Tộc Trưởng vĩ đại mà Tiểu Tinh chưa bao giờ giao tiếp trực tiếp, chỉ ngưỡng mộ từ xa
 
 ## VII. GIAI THOẠI
 > *"Khi Tiểu Méo tỉnh dậy, cả Cung Quang Sai sáng rực — như thể tộc ta vừa nhớ ra mình từng biết vui."*

@@ -136,6 +136,7 @@ Thành tích đáng kể nhất: trong vụ Hắc Hải Hải Tặc xâm nhập 
 - **Sa Hàn Cổ Thiên (Trúc Cơ Viên Mãn):** Đàn em cùng loài duy nhất trong hang. Sa Cổ Hải Thú có một mối liên kết bản năng với Cổ Thiên — cùng loài sa, cùng tuần tra. Hắn "dạy" Cổ Thiên bằng cách thực chiến — đuổi con cá mập trẻ vào vùng nguy hiểm rồi xem nó xoay xở. Kiểu dạy tàn nhẫn nhưng hiệu quả.
 - **Xà Hải Mãng Vương (Kim Đan Hậu Kỳ):** Kẻ thù tiềm tàng. Hai bên thường xuyên tranh chấp vùng biển săn mồi gần hang ổ. Hắn ghét Mãng Vương vì loài xà quá xảo quyệt — thay vì đối mặt trực tiếp, Mãng Vương hay dùng nọc độc từ xa, khiến hắn không thể phát huy sở trường cận chiến.
 - **Quy Cổ Băng (Kim Đan Trung Kỳ):** Sinh vật duy nhất khiến hắn bình tĩnh không cần lý do. Mỗi khi Huyết Cuồng phát tác ngoài ý muốn, Thiên Tý sẽ dẫn hắn đến gần Cổ Băng — Trấn Tĩnh Trường của lão rùa là phương thuốc hiệu quả nhất.
+- **Chương Tiểu Vạn** (Đồng minh): Kraken non hay quấy rối, không dám đuổi
 
 ## VII. GIAI THOẠI
 Hắc Hải Hải Tặc gọi Sa Cổ Hải Thú bằng cái tên "Hàm Sắt" — vì tên thuyền trưởng duy nhất sống sót sau cuộc gặp gỡ với hắn mô tả: "Biển yên lặng, rồi nước đổi màu đỏ, rồi một cái hàm từ dưới lên — to bằng cổng thành, đầy răng sáng loáng. Nó cắn đôi tàu ta như ta cắn đôi que tăm."

@@ -33,6 +33,9 @@ Lạnh lùng như tên, lướt qua không để dấu vết trên tuyết
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Hạc Sương Vũ** (Sư phụ): Trinh sát trẻ, kẻ mà lão dạy thuật quan sát và ghi nhớ
+- **Cú Bạch Dạ** (Đồng minh): Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau
+- **Ưng Băng Phong** (Đồng minh): Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

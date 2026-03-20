@@ -140,6 +140,7 @@ Hiện tại, Mãng Vương kiểm soát một phần đáng kể hang ổ — k
 - **Sa Cổ Hải Thú (Kim Đan Viên Mãn):** Kẻ thù tiềm tàng. Hai bên tranh chấp vùng biển săn mồi thường xuyên. Mãng Vương coi thường trí tuệ của Cổ Hải Thú nhưng nể sức mạnh hàm răng — trong giao chiến cận chiến, hắn không chắc thắng. Chiến thuật của hắn là dùng nọc độc từ xa, tránh bị cắn bằng mọi giá.
 - **Quy Cổ Băng (Kim Đan Trung Kỳ):** Sinh vật duy nhất Mãng Vương thực sự kính trọng ngoài Kraken Già. Lão rùa đã sống đủ lâu để biết hết mọi mánh khóe của loài xà, và Mãng Vương cảm nhận được rằng Cổ Băng "nhìn thấu" hắn. Điều này vừa khiến hắn ngại, vừa khiến hắn thận trọng hơn.
 - **Kraken Già (Hóa Thần Hậu Kỳ):** Lý do duy nhất Mãng Vương không dám thách thức quyền lực Kraken. Hắn biết rằng nếu Kraken Già tỉnh giấc, hắn sẽ bị nghiền nát trong nháy mắt. Sự tồn tại của Kraken Già như một thanh kiếm treo trên đầu — ngăn cản mọi tham vọng của hắn. Nhưng Kraken Già đã ngủ quá lâu... và Mãng Vương đang chờ.
+- **Chương Tiểu Vạn** (Đồng minh): Kraken non phiền phức, nhưng không dám động đến
 
 ## VII. GIAI THOẠI
 Trong vùng biển Bắc Băng, thuỷ thủ kể về "Cực Quang Dưới Biển" — hiện tượng ánh sáng rực rỡ bùng lên từ đáy biển, đẹp đẽ đến mức mê hồn. Những kẻ dại dột cúi nhìn sẽ không thể rời mắt, và thuyền của họ từ từ trôi vào vùng biển cấm. Không ai sống sót để xác nhận, nhưng những thủy thủ lão luyện biết rằng "Cực Quang Dưới Biển" chính là Xà Hải Mãng Vương đang săn mồi.

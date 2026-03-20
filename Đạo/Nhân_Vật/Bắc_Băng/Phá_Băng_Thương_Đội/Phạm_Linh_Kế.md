@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Châu Phá Thiên** (Sư phụ): Châu Phá Thiên chỉ dẫn Phạm Linh Kế trong Phá Băng Thương Đội
+- **Lý Thiết Kế** (Sư phụ): Lý Thiết Kế chỉ dẫn Phạm Linh Kế trong Phá Băng Thương Đội
+- **Nguyễn Đại Xa** (Đồng minh): Đồng liêu cùng Phá Băng Thương Đội, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

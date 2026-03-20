@@ -34,6 +34,9 @@ Lợi thế lớn nhất của Hạc Tuyết Nhi không phải là sát thương
 ## IV. CÁC MỐI QUAN HỆ
 - **Bằng Bắc Minh:** Nàng từng ra tay cứu mạng Bằng Bắc Minh và từ đó trở thành ân nhân duy nhất khiến gã nam nhân cô ngạo này phải cúi đầu, thi thoảng nàng lại nhận được những bảo vật kỳ lạ từ y.
 - **Sương Lệ Nhi:** Sương Lệ Nhi thỉnh thoảng tìm đến nàng như một chốn bình yên ngắn ngủi; Hạc Tuyết Nhi cảm thông sâu sắc với số phận bi kịch của nữ nhân tộc Trùng này.
+- **Sở Lăng Sương** (Sư phụ): Hạc Tuyết Nhi chỉ dẫn Sở Lăng Sương trong Tán Tu
+- **Triệu Thanh Hằng** (Sư phụ): Hạc Tuyết Nhi chỉ dẫn Triệu Thanh Hằng trong Tán Tu
+- **Tước Hàn** (Sư phụ): Hạc Tuyết Nhi chỉ dẫn Tước Hàn trong Tán Tu
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ dòng dõi quý tộc Thiên Nga Tuyết đã bị suy tàn ở phương Bắc xa xôi, Hạc Tuyết Nhi là người duy nhất trốn thoát được sự truy sát trong đêm huyết án. Nàng chọn không gia nhập môn phái nào để tự do bảo toàn bí kíp trị liệu gia truyền, lang bạt khắp các hoang mạc băng giá để cứu người và rèn luyện y thuật. Từng chứng kiến quá nhiều sinh ly tử biệt, nàng học cách giữ thái độ bình thản để không bị tổn thương tâm trí. Trong tương lai, nàng mong muốn tìm ra linh dược tối thượng ẩn trong truyền thuyết có khả năng tái sinh toàn bộ gia tộc mình từ đống tro tàn.

@@ -183,6 +183,16 @@ arcs:
     - Nhưng lão cũng đủ tỉnh táo để không gây chiến trực diện. Trận đối đầu đệ tử ngoại môn Huyền Băng Cung năm sáu mươi tuổi là lần duy nhất lão "vượt giới" — và lão biết đó là rủi ro. Nếu Huyền Băng Cung nghiêm túc trả đũa, Hộ Vệ Đội sẽ bị nghiền nát trong nháy mắt. Lão cân bằng giữa tự trọng và sinh tồn mỗi ngày.
 - **Băng Nguyên Tán Tu Hội — Đồng Minh Thực Dụng:**
     - Lão không tin tu sĩ, nhưng lão cần Tán Tu Hội — cần tin tức về yêu thú di chuyển, cần dược liệu, cần phù lục sơ cấp. Đổi lại, Hộ Vệ Đội bảo vệ tuyến đường buôn bán của tán tu qua vùng bảy thôn. Mối quan hệ thuần túy thực dụng, không có tình cảm, nhưng cả hai bên đều cần nhau.
+- **Lê Bán Sơn** (Đồng minh): Đội trưởng Hàn Dân Hộ Vệ Đội, đối tác đàm phán thường xuyên
+- **Nham Thiết Bích** (Đồng minh): Đội trưởng Hàn Dân Hộ Vệ Đội, nhân tộc mà y miễn cưỡng kính nể
+- **Sơn Đại Nham** (Đối thủ): Đội trưởng Hàn Dân Hộ Vệ Đội, đối tượng y ngầm coi là đối thủ đáng kính
+- **Thạch Bán Nhân** (Đồng minh): Đội trưởng Hàn Dân Hộ Vệ Đội, đối tác giao thương đáng tin cậy
+- **Thạch Nhu Nhi** (Đồng minh): Đội trưởng Hàn Dân Hộ Vệ Đội, đối tác trao đổi gia súc
+- **Trần Hàn Phong** (Chủ nhân): Đội trưởng Hàn Dân Hộ Vệ Đội, đối tác bảo vệ dân thường, hai bên tôn trọng lẫn nhau
+- **Quy Băng Hải Thiên** (Đồng minh): Đội trưởng Hàn Dân Hộ Vệ Đội, lão từng ghé bảy thôn và trao đổi tin tức thế giới bên ngoài
+- **Tuyết Cô Hàn** (Đồng minh): Đội trưởng dân quân, đôi khi nàng lặng lẽ giúp bảy thôn diệt yêu thú mà không để ai biết
+- **Lý Sơn Đao** (Đồng minh): Đồng liêu Hắc Đao Trưởng Lão, chiến hữu đánh trận cùng nhau nhiều năm
+- **Đỗ Hải** (Đồng minh): Hắc Đao Trưởng Lão, chiến hữu thường xuyên uống rượu cùng
 
 ## VII. GIAI THOẠI
 > *"Tông môn không bảo vệ dân, dân tự bảo vệ mình."*

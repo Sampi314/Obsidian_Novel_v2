@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Vũ Khinh Hồng** (Sư phụ): Vũ Khinh Hồng chỉ dẫn Vũ Tật Phong trong Hàn Phong Truyền Tin Đội
+- **Vũ Phiêu Linh** (Đồng minh): Đồng liêu cùng Hàn Phong Truyền Tin Đội, hỗ trợ lẫn nhau
+- **Vũ Tốc Vân** (Thuộc hạ): Phục tùng Vũ Tốc Vân, Đội Trưởng của Hàn Phong Truyền Tin Đội
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

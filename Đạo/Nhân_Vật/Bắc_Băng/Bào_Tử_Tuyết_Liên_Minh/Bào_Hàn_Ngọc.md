@@ -148,6 +148,8 @@ arcs:
     - Hàn Ngọc kính trọng Ngân Lộ vì khả năng bào chế hàn dược duy trì sức khỏe quần thể. Y hiểu rằng liên minh tồn tại không chỉ nhờ chiến đấu và ngoại giao mà còn nhờ hệ thống y tế nội bộ — và Ngân Lộ là trụ cột không thể thay thế trong lĩnh vực này.
 - **Bạch Cốt Hội — Kẻ Thù Số Một:**
     - Sau vụ phản bội Ngọc Tủy 1.200 năm trước, Hàn Ngọc coi Bạch Cốt Hội là mối đe dọa thường trực cần theo dõi chặt chẽ. Y không ghét họ theo kiểu cảm xúc — y chỉ xếp họ vào danh mục "thế lực không đáng tin, cần kiểm soát bằng mọi cách". Mọi cuộc đàm phán với Bạch Cốt Hội đều do y trực tiếp xử lý, và y không bao giờ nhượng bộ bất kỳ điều khoản nào mà không có bảo chứng cụ thể.
+- **Bào Đông Phong** (Sư phụ): Hàn Phong Sứ truyền đạt mệnh lệnh, cánh tay truyền tin trung thành
+- **Bào Sương Hàn** (Chủ nhân): Phó Minh Chủ giao nhiệm vụ tình báo, thượng cấp trực tiếp trong hệ thống trinh sát
 
 ## VII. GIAI THOẠI
 > *"Đàm phán với Ngọc Diện giống như đấm vào tường băng — ngươi mỏi tay, tường vẫn nguyên. Hắn không thắng bằng lý lẽ, hắn thắng bằng sự kiên nhẫn vô hạn."*

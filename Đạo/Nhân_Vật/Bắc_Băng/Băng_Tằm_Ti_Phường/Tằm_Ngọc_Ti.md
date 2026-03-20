@@ -140,6 +140,12 @@ arcs:
     - Thiên Trùng là Trưởng Lão Kén, chuyên gia bảo hộ và di cư, tính cách trái ngược hoàn toàn với Ngọc Ti — nóng nảy, thẳng thắn, hay phản đối. Hai lão bất đồng thường xuyên trong hội đồng quản sự, nhưng Ngọc Ti coi sự phản đối của Thiên Trùng là cần thiết: *"Nếu cả phường đều đồng ý với ta, thì hoặc ta đang đúng, hoặc cả phường đang sợ ta. Thiên Trùng không sợ ai, vậy nên lão ấy phản đối nghĩa là ta cần suy nghĩ lại."*
 - **Huyền Băng Cung — Kẻ Thù Thương Mại:**
     - Ngọc Ti không thù hận Huyền Băng Cung theo kiểu cá nhân, nhưng lão cảnh giác tuyệt đối. Huyền Băng Cung muốn kiểm soát nguồn tơ, muốn biến phường thành công cụ phục vụ — và Ngọc Ti từ chối, dù phải trả giá bằng việc mất khách hàng lớn nhất. Lão tin rằng độc lập là sự sống còn: *"Bán tơ thì được. Bán phường thì không."*
+- **Ngân Hàn Kén** (Chủ nhân): Phường Chủ và bậc trưởng bối kính trọng
+- **Tằm Hàn Quang** (Đồng minh): Phường Chủ, người giao phó trọng trách duy trì Ôn Hòa Kết Giới Trận
+- **Tằm Minh Nguyệt** (Đồng minh): Phường Chủ, người giao phó toàn bộ việc giao thương bên ngoài
+- **Tằm Ngân Ti** (Đồng minh): Phường Chủ, người giao phó hệ thống phòng thủ ngoài hang
+- **Tằm Tiểu Kiên** (Đồng minh): Đại Phường Chủ, bậc trưởng bối tối cao mà nó kính sợ xa xa
+- **Tằm Tuyết Lụa** (Đồng minh): Phường Chủ, người khuyến khích nàng phát triển nghệ thuật nhuộm
 
 ## VII. GIAI THOẠI
 > *"Ngọc Ti Phường Chủ nhả tơ mỏng hơn sợi tóc, nhưng thử cắt đi — kiếm Trúc Cơ không đứt được. Lão ấy nói tơ mềm là mềm, nhưng mềm theo kiểu nước sông — mềm mà cuốn chết người."*

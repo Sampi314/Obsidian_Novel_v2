@@ -152,6 +152,11 @@ arcs:
     - Minh Nguyệt Băng là cá thể khiến Vạn Niên Băng vừa kính trọng vừa bất an. Hắn ta nhìn thấy những thứ mà Cổ Băng không thể — viễn cảnh qua tinh tượng, dự báo thiên tai trước hàng trăm mùa đông — nhưng cách diễn đạt của hắn quá trừu tượng, thường chỉ là những hoa văn băng tinh kỳ dị mà không ai giải mã được. Vạn Niên Băng luôn lắng nghe Minh Nguyệt Băng, dù hiểu chưa tới phân nửa.
 - **Khuẩn Tiểu Tinh — Hậu Duệ Trẻ Nhất:**
     - Tiểu Tinh đại diện cho thế hệ mới nhất của khuẩn tộc — trẻ trung, tò mò, hơi vụng về, và đầy nhiệt huyết. Vạn Niên Băng nhìn Tiểu Tinh bằng thứ gần nhất mà khuẩn tộc có với "tình thương" — hắn để Tiểu Tinh tự do khám phá, tự do mắc sai lầm, nhưng luôn lặng lẽ theo dõi qua mạng lưới. Tiểu Tinh là lý do khiến Vạn Niên Băng vẫn tiếp tục chiến đấu với sự suy yếu — nếu Cổ Băng gục ngã, ai sẽ bảo vệ thế hệ tiếp theo?
+- **Khuẩn Băng Nham** (Chủ nhân): Tộc Trưởng mà hắn tuyệt đối bảo vệ, sẵn sàng hy sinh vì an toàn của Cổ Băng
+- **Khuẩn Lãnh Quang** (Đồng minh): Tộc Trưởng mà hắn phụng sự bằng ánh sáng, coi việc duy trì sáng hang là nghĩa vụ thiêng liêng
+- **Khuẩn Lưu Ly** (Đồng minh): Tộc Trưởng mà Lưu Ly kính sợ và ngưỡng mộ, coi lõi tinh thể của Cổ Băng là tác phẩm đẹp nhất
+- **Khuẩn Ngọc Hàn** (Đồng minh): Tộc Trưởng mà nàng phụng sự qua nghi lễ, cầu nối giữa quần thể và ý chí Tinh Khuẩn Mẫu
+- **Khuẩn Tuyết Liên** (Đồng minh): Tộc Trưởng mà hắn âm thầm lo lắng về sức khỏe, nhưng không được phép can thiệp
 
 ## VII. GIAI THOẠI
 > *"Mười hai ngàn mùa đông, và ánh sáng vẫn chưa tắt. Ngày nào Cổ Băng còn phát quang, ngày đó Bắc Băng còn thanh khiết."*

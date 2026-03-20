@@ -122,6 +122,9 @@ arcs:
     - Hắc Vũ coi Bạo Phong như con — đứa trẻ lai bị bỏ rơi mà hắn đã dùng sáu mươi năm để dạy thành chiến binh. Mỗi khi Bạo Phong xông vào nguy hiểm, Hắc Vũ lo — không phải vì Bạo Phong yếu, mà vì hắn quá mạnh nên quên sợ. Hắc Vũ thầm nghĩ: *"Ta đã dạy nó đánh. Nhưng quên dạy nó khi nào không nên đánh."*
 - **Đàn Sói Con — "Gia Đình":**
     - Hắc Vũ không có vợ con — đàn sói con là gia đình hắn. Mỗi lứa sói con mới, hắn đều đặt tên, nhớ tính cách, theo dõi phát triển. Khi con sói hắn dạy chết trên chiến trường, hắn nhận tin, im lặng, rồi tiếp tục dạy lứa tiếp theo — vì hắn biết rằng lứa tiếp theo cũng sẽ ra chiến trường, và hắn phải dạy chúng sống sót.
+- **Lang Tuyết Vương** (Đồng minh): Đại Tù Trưởng, người giao phó hắn đào tạo thế hệ sói chiến kế tiếp
+- **Lang Hàn Thiên Nộ** (Kẻ thù): Đại Tướng Quân, người nhận binh sĩ đã qua tay hắn huấn luyện
+- **Lang Phong Tuyết Hào** (Đệ tử): Trinh sát trưởng, cựu đệ tử giỏi nhất về tốc độ
 
 ## VII. GIAI THOẠI
 > *"Hắc Vũ không phải chiến binh mạnh nhất. Nhưng mọi chiến binh mạnh nhất đều qua tay hắn. Kẻ nào không biết ơn Hắc Vũ — kẻ đó không xứng mang tên Kỵ Sĩ Sói."*

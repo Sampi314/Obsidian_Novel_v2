@@ -160,6 +160,7 @@ arcs:
     - Ông để ý đến Nguyễn Phá Tuyết từ sớm — đứa trẻ nhà nông chân thật, nỗ lực, có ý chí mạnh mẽ giống ông thuở xưa. Ông rèn luyện Phá Tuyết nghiêm khắc hơn cả — vì ông kỳ vọng, và vì ông biết Phá Tuyết chịu được.
 - **Hộ Pháp Đời Trước (Đã Mất):**
     - Người truyền lại Khổ Tu Giới Chỉ và chức Hộ Pháp. Ông nhớ rõ hình ảnh cuối cùng — Hộ Pháp đứng giữa bầy yêu thú, đại kiếm vung không ngừng, máu nhuộm đỏ tuyết, chém đến khi gãy kiếm rồi dùng tay không — và cuối cùng gục xuống. Mỗi khi nhìn Khổ Tu Giới Chỉ, ông nhắc mình: chưa đến lượt mình gục.
+- **Vũ Hàn Thiết** (Đồng minh): Hộ Pháp rèn luyện thực chiến, kính sợ nhưng ngưỡng mộ
 
 ## VII. GIAI THOẠI
 > *"Đệ tử Khổ Tu Đoàn sợ hai thứ: bão tuyết và Trần Hộ Pháp. Mà thường thì sợ Trần Hộ Pháp hơn — vì bão tuyết còn có lúc ngừng, ông ấy thì không."*

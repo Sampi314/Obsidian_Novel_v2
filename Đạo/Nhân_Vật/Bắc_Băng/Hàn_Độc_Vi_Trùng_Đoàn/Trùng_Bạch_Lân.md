@@ -35,6 +35,8 @@ Chuyên môn của hắn là sự kết hợp hoàn hảo giữa ẩn thân và 
 - **Vi Thanh (Đoàn Trưởng):** Trùng Bạch Lân được Vi Thanh tin tưởng phân công nhiệm vụ quan sát và bám theo các tu sĩ Sương Ma Uyển nguy hiểm nhất, gửi thông điệp báo hiệu bằng sự thay đổi độ lạnh cục bộ.
 - **Băng Dực (Trinh Sát):** Thường xuyên tranh cãi ngầm về cách tiếp cận mục tiêu—Băng Dực ưu tiên tốc độ, trong khi Trùng Bạch Lân chuộng sự nhẫn nại bền bỉ.
 - **Trùng Băng Châm (Phó Đoàn Trưởng):** Kính nể sức công phá của Trùng Băng Châm nhưng thường xuyên giữ khoảng cách vì sợ sóng linh lực bạo phát làm hỏng trạng thái ngụy trang tinh tế của mình.
+- **Trùng Sương Ẩn** (Đồng minh): Đồng liêu trinh sát cùng thế hệ, đối tác phối hợp ẩn thân và trao đổi kỹ thuật ngụy trang
+- **Trùng Tuyết Nha** (Đồng minh): Tiền bối trinh sát mà hắn tôn sùng phong cách nhẫn nại, coi là hình mẫu nghề nghiệp
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trùng Bạch Lân sinh trưởng từ một khối băng nhiễm độc bên trong một xác chết cổ đại trên đồng bằng tuyết trắng. Hắn chứng kiến cảnh các đồng loại bị giết chóc do không kịp ẩn náu, vì thế hắn tập trung rèn luyện khả năng hòa nhập và đứng yên. Nhờ lần bám sát thành công vào quần áo của một ma tu tiến vào căn cứ Sương Ma Uyển, cung cấp tọa độ chính xác để bầy đàn tránh một cuộc thảm sát, Trùng Bạch Lân đã khẳng định vị trí "Trinh Sát Độc" của mình. Nhiệm vụ hiện tại của hắn là giám sát các động tĩnh kỳ lạ ở biên giới Nam - Bắc.

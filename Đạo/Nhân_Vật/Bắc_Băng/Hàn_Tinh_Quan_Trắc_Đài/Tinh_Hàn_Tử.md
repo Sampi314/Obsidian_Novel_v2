@@ -37,6 +37,7 @@ Tinh Hàn Tử gần như không có khả năng chiến đấu — tu vi Trúc 
 - **Lý Tinh Vân:** Giáo sư đầu tiên bỏ tông phái đến theo ông — Tinh Vân vốn là đệ tử của một tông môn nhỏ, bất mãn vì tông môn không coi trọng nghiên cứu, nghe danh Tinh Hàn Tử liền bỏ đến. Ông coi Tinh Vân như đồng liêu tri kỷ, hai người có thể tranh luận về quỹ đạo một ngôi sao suốt ba ngày không mệt.
 - **Hoàng Tinh Nguyệt:** Họa sĩ thiên văn trẻ nhất đài, người duy nhất vẽ được "Tinh Đồ Sống" chính xác — ông quý Tinh Nguyệt vì cô ấy biến những con số khô khan thành nghệ thuật, khiến bầu trời sao sống động trên giấy.
 - **Cực Quang Thần Điện:** Thế lực đã từ chối thu nạp ông sáu mươi năm trước — ông không oán hận nhưng cũng không quên, và bí mật quan sát mọi hoạt động của Thần Điện từ xa thông qua phân tích cực quang. Ông biết về Thần Điện nhiều hơn họ nghĩ.
+- **Trần Quang Minh** (Sư phụ): Tinh Hàn Tử chỉ dẫn Trần Quang Minh trong Hàn Tinh Quan Trắc Đài
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Tinh Hàn Tử tên thật là Tinh Minh, sinh ra trong gia đình nông dân ở một làng nhỏ ven Bắc Băng — cha mẹ làm ruộng lúa mạch, không biết chữ, không biết tu luyện. Từ nhỏ cậu bé Tinh Minh đã có thói quen lạ: mỗi đêm leo lên mái nhà nằm nhìn sao trời cho đến khi ngủ thiếp đi, mẹ phải bế xuống mỗi sáng. Linh căn của ông cực kém — khi đến Cực Quang Thần Điện xin gia nhập năm mười tám tuổi, trưởng lão đo linh căn rồi lắc đầu: "Linh căn Hạ Phẩm, suốt đời chỉ Luyện Khí, đừng mơ."

@@ -176,6 +176,7 @@ arcs:
 
 - **Cha — Nham Đại Bích (Đã Hy Sinh):**
     - Y mang Thiết Bì Hộ Oản của cha — đôi hộ oản vẫn còn vết máu cũ mà y không bao giờ rửa sạch — như lời nhắc nhở rằng y phải mạnh hơn cha, để không chết như cha. Y vừa tự hào về cha vừa giận cha — tự hào vì cha chết như anh hùng, giận vì cha chết để lại y một mình. *"Cha nói 'con phải mạnh.' Cha mạnh lắm. Vậy mà cha vẫn chết."*
+- **Vương Thiết Nha** (Đồng minh): Đội trưởng Hàn Dân Hộ Vệ Đội, nhân tộc mà y miễn cưỡng kính nể
 
 ## VII. GIAI THOẠI
 > *"Nham Thiết Bích giống ngọn lửa đốt trong lò đá — nóng đến mức nung chảy cả đá, nhưng không ai dám đến gần sưởi."*

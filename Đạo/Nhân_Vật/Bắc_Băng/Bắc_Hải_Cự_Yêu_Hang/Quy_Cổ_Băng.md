@@ -138,6 +138,7 @@ Hiện tại, Cổ Băng nằm ở khoang sâu nhất và yên tĩnh nhất tron
 - **Chương Tiểu Vạn (Luyện Khí Viên Mãn):** Cổ Băng yêu quý Tiểu Vạn như cháu ruột. Lão kiên nhẫn kể chuyện cho Kraken non nghe hàng giờ liền, dù biết rằng Tiểu Vạn chỉ hiểu được một phần nhỏ. Lão cũng là người duy nhất nhận ra tiềm năng thực sự của Tiểu Vạn — sự hiếu kỳ của nó giống hệt Kraken Thủy Tổ trong ký ức xa xưa nhất.
 - **Xà Hải Mãng Vương (Kim Đan Hậu Kỳ):** Cổ Băng không ghét Mãng Vương nhưng hiểu rõ bản tính loài xà — xảo quyệt, tham lam, và luôn tìm cách mở rộng ảnh hưởng. Lão theo dõi Mãng Vương bằng kinh nghiệm vạn năm và thường xuyên "nhắc nhở" Thiên Tý giữ cảnh giác.
 - **Kraken Già (Hóa Thần Hậu Kỳ):** Sinh vật duy nhất trong hang mà Cổ Băng thực sự kính sợ. Lão nhớ rõ lần cuối cùng Kraken Già tỉnh giấc — hơn năm ngàn năm trước, khi một lũ tu sĩ Hóa Thần xâm nhập. Kraken Già chỉ mở một con mắt, và áp lực đó đủ để đẩy cả Cổ Băng — hai mươi trượng mai rùa — trượt lùi mười dặm.
+- **Sa Cổ Hải Thú** (Thuộc hạ): Cự ngư hung bạo nhưng trung thành
 
 ## VII. GIAI THOẠI
 Trong ký ức sóng âm mà Cổ Băng truyền lại cho các thế hệ sau, có một đoạn đặc biệt: ký ức về thời kỳ Thượng Cổ khi đại dương chưa đóng băng. Lão nhớ rõ ánh nắng xuyên qua mặt nước trong vắt, những rạn san hô rực rỡ cao bằng núi, và âm thanh hàng ngàn loài sinh vật cùng hát — một "bài ca đại dương" mà ngày nay không còn ai nhớ. Mỗi lần phát ký ức này, các sinh vật trong hang đều im lặng lắng nghe, và dòng nước xung quanh dường như ấm lên một chút.

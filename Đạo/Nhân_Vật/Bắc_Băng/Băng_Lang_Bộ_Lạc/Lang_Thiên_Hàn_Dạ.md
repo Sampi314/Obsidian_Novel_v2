@@ -128,6 +128,7 @@ arcs:
     - Mộng Tuyết là đệ tử mà lão chờ đợi cả đời — cô bé có thiên phú cảm ứng linh thể giống lão thời trẻ, thậm chí mạnh hơn. Lão dạy bà mọi thứ — bói toán, nghi lễ, lịch sử, triệu hoán — với sự gấp gáp của kẻ biết mình không còn nhiều thời gian. Lão lo rằng bà quá trẻ, quá nhạy cảm — thế giới Saman đầy bóng tối, và không phải ai cũng chịu nổi.
 - **Lang Nguyệt Nha — Đồng Minh Cải Cách:**
     - Nguyệt Nha và Thiên Hàn Dạ — bà dùng chính trị, lão dùng tâm linh — cùng hướng đến mục tiêu cải cách luật cổ. Hai người không thân thiết cá nhân nhưng tôn trọng nhau sâu sắc — mỗi người hiểu rằng mình cần người kia để thành công.
+- **Lang Bạch Sương** (Đồng minh): Y sư đồng nghiệp trong Lang Vu Viện, hợp tác chặt chẽ
 
 ## VII. GIAI THOẠI
 > *"Lão Đại Lang Vu hỏi tuyết: 'Ngày mai có bão không?' Tuyết đáp: 'Có.' Lão lại hỏi: 'Bão lớn không?' Tuyết đáp: 'Lớn đến mức ngươi nên hỏi ta câu khác: mùa đông này có qua được không?'"*

@@ -148,6 +148,7 @@ arcs:
     - Tuyết Nhi có tình cảm đặc biệt với Tiểu Đông — bào tử non yếu nhất trong liên minh. Nàng lo lắng cho cậu, chăm sóc cậu, và đôi khi thấy trong cậu hình bóng của chính nàng lúc mới tỉnh giấc — nhỏ bé, yếu đuối, nhưng đầy tiềm năng.
 - **Bào Thiên Lý Tuyết — Viễn Chinh Tướng & Bão Trong Tim:**
     - Tuyết Nhi ngại ở gần Thiên Lý Tuyết — cảm xúc mãnh liệt của hắn (giận dữ, quyết đoán, hiếu chiến) quá nặng nề cho Linh Bào Hạch của nàng. Nhưng nàng cũng là người duy nhất nhìn thấy nỗi đau mà hắn giấu kín — nỗi đau khi bào tử dưới quyền chết trong trận chiến. Nàng không bao giờ nói ra, nhưng sau mỗi trận đánh, nàng luôn thầm thực hiện một nghi lễ nhỏ — cầu phúc cho Thiên Lý Tuyết và những bào tử đã hy sinh.
+- **Bào Ngân Lộ** (Đồng minh): Nữ Tế Tư cung cấp linh lực tịnh hóa cho quá trình bào chế dược phẩm
 
 ## VII. GIAI THOẠI
 > *"Khi Hồn Tuyết hát, cả Bắc Băng lắng nghe. Không phải vì nàng hát hay — mà vì bài hát của nàng chạm đến chỗ sâu nhất trong mỗi bào tử, nơi mà ngay cả Tuyết Đế cũng không chạm tới được."*

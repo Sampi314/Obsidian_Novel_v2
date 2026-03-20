@@ -161,6 +161,9 @@ arcs:
     - Quan hệ kính trọng nhưng có bất đồng về phương pháp giáo dục. Ông tin vào "ngộ kiếm qua tĩnh lặng", Tuyết Phong tin vào "ngộ kiếm qua chiến đấu thực tế". Hai người từng tranh luận gay gắt trước mặt Cốc Chủ về việc nên để đệ tử ra ngoài chiến đấu sớm hay muộn — ông muốn giữ họ trong viện luyện đủ mới cho ra, Tuyết Phong muốn đưa họ vào Khổ Tu Đoàn sớm để rèn giũa qua thực chiến. Cuối cùng, Hàn Tiêu phán quyết: đệ tử luyện trong viện ba năm, rồi ra Khổ Tu Đoàn ba năm, luân phiên. Cả hai đều không hoàn toàn hài lòng, nhưng chấp nhận.
 - **Sư Phụ — Viện Chủ Đời Trước (Đã Mất):**
     - Người nuôi ông từ thuở sơ sinh, dạy ông kiếm đạo, truyền cho ông chức Viện Chủ. Ông không nhớ mặt cha mẹ ruột, nhưng nhớ rõ từng nếp nhăn trên mặt sư phụ, từng câu nói sư phụ dạy, từng chiêu kiếm sư phụ diễn. Băng Tâm Ngọc Bội ông đeo trước ngực là di vật cuối cùng — ông sờ vào nó mỗi khi cảm thấy lung lay, như thể sư phụ vẫn đang đứng sau lưng, nhìn ông giảng bài, gật đầu hài lòng.
+- **Vũ Hàn Thiết** (Sư phụ): Viện Chủ dạy kiếm ý nền tảng, vị ân sư nghiêm khắc
+- **Trần Tiểu Kiếm** (Thuộc hạ): Phục tùng Lý Băng Kiếm, Viện Chủ của Hàn Kiếm Cốc
+- **Đặng Hàn Phong** (Thuộc hạ): Phục tùng Lý Băng Kiếm, Viện Chủ của Hàn Kiếm Cốc
 
 ## VII. GIAI THOẠI
 > *"Kiếm Trì vạn năm đóng băng, tâm Lý Viện Chủ cũng vạn năm đóng băng — nhưng khác ở chỗ: Kiếm Trì lạnh vì không ai sưởi, còn ông ấy lạnh vì đã đem hết hơi ấm cho đệ tử."*

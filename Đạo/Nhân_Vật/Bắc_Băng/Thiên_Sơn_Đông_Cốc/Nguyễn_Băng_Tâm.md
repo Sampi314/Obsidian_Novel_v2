@@ -162,6 +162,7 @@ arcs:
     - Linh Nhi ngưỡng mộ hắn vì hắn hay kể chuyện phiêu lưu hấp dẫn (dù thêm mắm thêm muối). Hắn thích được ngưỡng mộ — cảm giác có ai đó nhìn hắn bằng đôi mắt sáng rực khiến hắn muốn trở thành người xứng đáng hơn. Hắn tự nhủ sẽ không bao giờ phụ lòng tin của Tiểu Bạch.
 - **Đặng Tiểu Hàn — Bạn Học Đáng Tin:**
     - Tiểu Hàn là bạn học cùng lớp mà hắn tin tưởng nhất — kiên nhẫn, đáng tin, không phán xét. Khi hắn nóng vội gây lỗi, Tiểu Hàn giúp hắn dọn dẹp mà không phàn nàn.
+- **Trần Tuyết Liên** (Sư phụ): Chân truyền đệ tử, đàn em hay theo cô đi hái thuốc để rèn luyện
 
 ## VII. GIAI THOẠI
 > *"Tiểu Hỏa Đầu luyện đan — bùm một cái là xong. Không biết xong là thành hay xong là nổ."*

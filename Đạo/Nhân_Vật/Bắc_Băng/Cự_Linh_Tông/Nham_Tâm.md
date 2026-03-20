@@ -38,6 +38,8 @@ Nham Tâm không theo đuổi sức mạnh công phạt áp đảo như các Chi
 - **Nham Chấn Nhạc:** Trưởng Lão trực tiếp chỉ huy. Nham Tâm tuyệt đối tuân lệnh mà không bao giờ hỏi lý do, khiến Nham Chấn Nhạc rất hài lòng nhưng đôi khi cũng lo lắng rằng hắn đã đánh mất quá nhiều bản ngã.
 - **Nham Kình Thiên:** Chiến Cự Tử trẻ tuổi. Nham Tâm lặng lẽ quan sát sự bồng bột của Kình Thiên, thỉnh thoảng đứng chắn giữa hắn và rắc rối mà không nói một lời.
 - **Nham Phá Sơn:** Đồng liêu trong đội thủ vệ. Hai người phối hợp ăn ý — Nham Phá Sơn tấn công, Nham Tâm phòng thủ — nhưng gần như không trò chuyện ngoài công vụ.
+- **Nham Hồng Hoang** (Đồng minh): Đồng liêu cùng Cự Linh Tông, hỗ trợ lẫn nhau
+- **Nham Thiết Cốt** (Sư phụ): Nham Thiết Cốt chỉ dẫn Nham Tâm trong Cự Linh Tông
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nham Tâm sinh ra với huyết mạch Cự Tộc không hoàn toàn thuần khiết — cơ thể hắn nhỏ hơn đồng tộc và thiếu đi bản năng hiếu chiến đặc trưng. Trong một tông môn tôn thờ sức mạnh và chiến đấu, hắn từng bị coi thường và xếp vào hàng tạp dịch. Thay vì phẫn uất hay cố gắng chứng tỏ bản thân trên đấu trường, Nham Tâm chọn một con đường khác: rèn luyện phòng ngự đến mức cực hạn. Hắn tự đứng trước cổng Thần Chùy Phong suốt một năm ròng không rời đi, chịu đựng bão tuyết, nắng gắt và cả những đòn thử thách của các sư huynh mà không hề nhúc nhích. Hành động ấy cuối cùng khiến Nham Chấn Nhạc chú ý và đề bạt hắn làm Thủ Vệ Đội Trưởng. Bí mật duy nhất của Nham Tâm là trong lồng ngực đá lạnh lẽo ấy, hắn vẫn giữ một viên đá nhỏ — mảnh vỡ từ ngôi nhà thời thơ ấu đã bị sập trong bão tuyết — thứ duy nhất nhắc hắn rằng mình từng biết cảm xúc là gì.

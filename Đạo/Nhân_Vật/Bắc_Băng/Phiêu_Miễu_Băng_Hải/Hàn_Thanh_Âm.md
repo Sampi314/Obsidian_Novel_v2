@@ -35,6 +35,9 @@ Phong cách chiến đấu của Thanh Âm hoàn toàn dựa vào huyễn thuậ
 - **Hải Cung:** Trung thành và ngưỡng mộ. Thanh Âm xem Cung Chủ như hiện thân hoàn hảo của triết lý "Thế Gian Như Mộng, Tâm Lãnh Như Băng" và khao khát một ngày đạt tới cảnh giới của ngài.
 - **Băng San Hô:** Đồng liêu tin cậy. Dược liệu của San Hô giúp tiếng đàn của Thanh Âm thâm nhập vào những thần thức phòng ngự kiên cố nhất.
 - **Sở Lăng Sương:** Đối thủ ngầm. Thanh Âm từng đụng độ Lăng Sương (Bắc Băng) và khinh thường lối chiến đấu trực diện bạo lực của cô, cho rằng nó thiếu đi sự tinh tế của nghệ thuật.
+- **Thủy Nguyệt Tiên** (Đồng minh): Nhạc sư phối hợp thường xuyên, cung cấp âm nhạc cho các vũ điệu huyễn thuật
+- **Sương Vũ Nữ** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
+- **Thủy Linh Nhi** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra trong một gia đình nhạc sư phàm nhân trên lục địa Bắc Băng, Thanh Âm sớm chứng kiến cảnh gia đình bị tàn sát bởi những kẻ tu tiên khát máu. Giữa đêm khuya lạnh giá, tiếng khóc than của nàng đã đánh thức sự cộng hưởng từ một đệ tử Phiêu Miễu Băng Hải đang dạo chơi gần đó. Nàng được đưa xuống đáy biển, nơi nàng học cách đóng băng trái tim mình và biến nỗi đau thành những khúc nhạc giết người. Mục tiêu hiện tại của Hàn Thanh Âm là sáng tác ra một khúc nhạc huyễn thuật có thể khiến một cường giả Nguyên Anh Kỳ tự sát ngay trong mộng cảnh, qua đó khẳng định vị thế của Ảo Vũ Viện trên toàn cõi Bắc Băng.

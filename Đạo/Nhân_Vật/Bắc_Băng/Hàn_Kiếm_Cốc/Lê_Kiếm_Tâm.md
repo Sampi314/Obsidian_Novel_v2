@@ -35,6 +35,9 @@ Là đệ tử chân truyền kiệt xuất, Lê Kiếm Tâm chiến đấu vớ
 - **Hàn Tiêu:** Sư phụ (Cốc Chủ), người mà Lê Kiếm Tâm vô cùng kính trọng và khao khát vượt qua trên con đường kiếm đạo.
 - **Hoàng Đoạn Tuyết:** Trưởng lão Tiếp Tế Viện, người cung cấp đan dược và tài nguyên giúp hắn nhanh chóng phục hồi sau những ngày khổ tu cực khổ.
 - **Sở Lăng Sương:** Đối thủ (hay "kình địch" đáng tôn trọng) trong các cuộc thi tài Bắc Băng, một kiếm tu khác khiến hắn luôn phải nỗ lực để không bị bỏ lại phía sau.
+- **Lý Băng Kiếm** (Sư phụ): Đệ tử chân truyền xuất sắc nhất viện, trực tiếp truyền thụ kiếm ý
+- **Phương Hàn Sương** (Sư phụ): Đệ tử cùng thế hệ chân truyền, thường giao đấu rèn luyện
+- **Vũ Hàn Thiết** (Đồng minh): Đồng môn chân truyền, vừa là bạn vừa là đối thủ cạnh tranh
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lê Kiếm Tâm là con trai độc nhất của một gia đình kiếm tu sa sút, cha mẹ hắn từng hy sinh trong cuộc đối đầu với tà vật Sương Ma Uyển. Hắn được Hàn Tiêu mang về và rèn giũa từ tấm bé, sớm bộc lộ thiên tư kiếm đạo xuất chúng khi lãnh ngộ được chân lý "Băng Kiếm" ngay khi mới Trúc Cơ. Trong một cuộc đụng độ gần đây với đám tàn dư Sương Ma Uyển, hắn đã dùng kiếm trận tiêu diệt cả một đội tuần tra, bảo vệ được đoàn tiếp tế của Hàn Kiếm Cốc. Tham vọng của hắn là một ngày nào đó sẽ quét sạch mọi sự tà ác khỏi Bắc Băng bằng chính thanh kiếm vô niệm của mình.

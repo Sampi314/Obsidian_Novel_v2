@@ -67,6 +67,13 @@ Bạch Thi Nương tu luyện Cửu U Băng Thi Quyết (九幽冰尸訣) đến
 - **Huyết Băng Tử:** Đệ Nhị Sát Sương Quỷ, đồng liêu cùng cấp trong Sương Ma Uyển; hai bên hợp tác trong các chiến dịch nhưng âm thầm cạnh tranh ân sủng từ Cốc Chủ.
 - **Hàn Độc Cốt:** Thuộc hạ dưới trướng, chuyên cung cấp hàn độc để nâng cao phẩm chất Băng Thi; nàng đánh giá hắn là kẻ có ích nhưng không đáng tin hoàn toàn.
 - **Huyền Băng Cung trưởng lão:** Kẻ thù truyền kiếp, nàng từng bị các trưởng lão Huyền Băng Cung truy sát nhiều lần khi đi thu thập xác tu sĩ tại chiến trường.
+- **Hắc Sương Quỷ** (Đồng minh): Đồng liêu cùng Sương Ma Uyển
+- **Lãnh Vô Hồn** (Sư phụ): Bạch Thi Nương dẫn dắt Lãnh Vô Hồn trong Sương Ma Uyển
+- **Sương Nô Vương** (Sư phụ): Bạch Thi Nương dẫn dắt Sương Nô Vương trong Sương Ma Uyển
+- **Sương Vô Tình** (Đồng minh): Đồng liêu cùng Sương Ma Uyển
+- **Tuyệt Tình Hàn** (Sư phụ): Bạch Thi Nương dẫn dắt Tuyệt Tình Hàn trong Sương Ma Uyển
+- **Ám Băng Nhi** (Sư phụ): Bạch Thi Nương dẫn dắt Ám Băng Nhi trong Sương Ma Uyển
+- **Ám Sương Ảnh** (Đồng minh): Đồng liêu cùng Sương Ma Uyển
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Bạch Thi Nương vốn là một nữ ma tu lang thang ở rìa hoang nguyên Bắc Băng, xuất thân từ một bộ tộc Ma Tộc nhỏ đã bị diệt vong trong cuộc thanh trừng của Huyền Băng Cung. Nàng sống sót nhờ bản năng hoang dã và khả năng bẩm sinh thao túng tử khí, ẩn mình giữa đống xác chết đồng tộc suốt ba ngày để thoát truy sát. Sương Ma Cốc Chủ phát hiện nàng khi đi ngang qua chiến trường và nhận ra tiềm năng luyện thi phi phàm, bèn mang về Lâu Đài Ma Sương thu nhận. Trải qua hai mươi năm khổ luyện trong Ngục Giam Hàn Băng, nàng từ một đứa trẻ hoang dại trở thành Đường Chủ Băng Thi Đội — kẻ chỉ huy đội quân xác sống đáng sợ nhất Bắc Băng. Mục tiêu hiện tại của nàng là đột phá Nguyên Anh để luyện chế Băng Thi cấp Kim Đan, đồng thời nuôi tham vọng thầm kín là trả thù Huyền Băng Cung vì tội diệt tộc năm xưa.

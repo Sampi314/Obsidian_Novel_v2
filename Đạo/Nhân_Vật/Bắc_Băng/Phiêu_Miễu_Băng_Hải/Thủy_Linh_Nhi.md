@@ -33,6 +33,12 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Giải Thiết Kìm** (Chủ nhân): Trung thành tuyệt đối với Đoàn Trưởng.
+- **Hà Thiên Nhảy** (Chủ nhân): Kính trọng và luôn báo tin sớm nhất cho Đoàn Trưởng.
+- **Loa Hải Thanh Âm** (Chủ nhân): Coi Thủy Linh Nhi là biểu tượng tinh thần cần bảo vệ.
+- **Lam Tịnh Thủy** (Đệ tử): Nội môn đệ tử đồng tộc, tiềm năng nhưng chưa trưởng thành, cần được dẫn dắt
+- **Băng San Hô** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
+- **Hàn Thanh Âm** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

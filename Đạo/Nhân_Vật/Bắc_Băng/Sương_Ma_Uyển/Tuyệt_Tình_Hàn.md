@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Sương Nô Vương** (Đồng minh): Đồng liêu cùng Sương Ma Uyển, hỗ trợ lẫn nhau
+- **Sương Vô Tình** (Sư phụ): Sương Vô Tình chỉ dẫn Tuyệt Tình Hàn trong Sương Ma Uyển
+- **Bạch Thi Nương** (Sư phụ): Bạch Thi Nương dẫn dắt Tuyệt Tình Hàn trong Sương Ma Uyển
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

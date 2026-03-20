@@ -164,6 +164,7 @@ arcs:
 - **Thợ Trẻ Trong Phường — Bậc Trưởng Bối Đáng Sợ & Đáng Kính:**
     - Thợ trẻ vừa sợ vừa kính Hàn Chùy. Sợ vì y khó tính đến mức không thể chịu nổi — đá đục sai một ly là bị mắng cả ngày, mặt y lạnh như đá và giọng nói như búa đập. Kính vì y luôn nhận phần việc nguy hiểm nhất, luôn nhường cơm sẻ áo, và vì tay nghề của y thuộc hàng không thể tranh cãi.
     - Có một truyền thống bất thành văn trong phường: thợ mới phải qua "Bài Kiểm Tra Của Thạch Ông" — đục một khối phôi đá theo kích thước y đưa, dưới sự giám sát trực tiếp. Chưa ai qua được lần đầu — nhưng khi nào qua được, y sẽ lặng lẽ gật đầu, rồi đưa cho người ấy một chiếc đục nhỏ do y tự mài — đó là sự công nhận cao nhất.
+- **Thạch Khai Sơn** (Đồng minh): Đội trưởng Băng Nguyên Khai Hoang Đội, từng thuê Băng Sơn Thợ Đá xây dựng trạm khai hoang
 
 ## VII. GIAI THOẠI
 > *"Lão Thạch Ông đục đá như người ta viết thư — mỗi nhát búa là một chữ, mỗi khối phôi là một câu. Kẻ nào đọc được, sẽ thấy cả đời ông nằm trong đó."*

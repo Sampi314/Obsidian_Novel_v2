@@ -33,6 +33,11 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Hồ Bạch Liên** (Đệ tử): Cháu gái ruột, con của đệ tử quá cố, bà xem như con đẻ
+- **Hồ Ngọc Châu** (Gia tộc): Sư muội nhỏ, cô hay dẫn cô bé đi nhặt vỏ sò và kể chuyện biển cả
+- **Hồ Thanh Nguyệt** (Gia tộc): Sư muội nhỏ tuổi, đối tượng bảo vệ, hay gây phiền toái nhưng y không nỡ trách
+- **Hồ Tuyết Nhi** (Đồng minh): Cháu nhỏ nghịch ngợm, bà yêu thương chiều chuộng nhưng cũng lo lắng
+- **Hồ Ẩn Phong** (Đệ tử): Đệ tử nhỏ, hắn lặng lẽ theo dõi bảo vệ cô bé khi cô bé chạy nhảy gần bìa làng
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

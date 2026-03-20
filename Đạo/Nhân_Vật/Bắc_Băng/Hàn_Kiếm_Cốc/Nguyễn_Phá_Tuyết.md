@@ -37,6 +37,8 @@ Nguyễn Phá Tuyết là đệ tử hiếm hoi trong thế hệ mình đạt Ki
 - **Đặng Hàn Phong:** Đồng môn cùng vào cốc một năm, hai người thường xuyên đấu kiếm luyện tập với nhau. Phá Tuyết nhanh hơn nhưng Hàn Phong bền hơn — sự bổ sung khiến cả hai đều tiến bộ, dù ngoài sân tập thì hiếm khi nói chuyện vì cả hai đều là kẻ ít lời.
 - **Trần Tiểu Kiếm:** Đệ tử ngoại môn trẻ tuổi mà Phá Tuyết thỉnh thoảng hướng dẫn mài kiếm phôi — không phải vì tình sư đệ mà vì nhìn thấy ở Tiểu Kiếm sự kiên trì giống mình ngày xưa. Hắn không bao giờ khen, chỉ chỉ ra lỗi, nhưng việc hắn chịu dừng bước để chỉ dẫn đã là sự công nhận lớn nhất trong Hàn Kiếm Cốc.
 - **Cốc Chủ Hàn Tiêu:** Vị Cốc Chủ mà hắn kính phục tuyệt đối — Phá Tuyết từng chứng kiến Hàn Tiêu vung một kiếm dẹp bão tuyết kéo dài ba ngày, và từ đó coi đó là cảnh giới mà mình phải vươn tới bằng mọi giá.
+- **Trần Tuyết Phong** (Đệ tử): Đệ tử nội môn dưới quyền, kỳ vọng và nghiêm khắc rèn luyện
+- **Hoàng Đoạn Tuyết** (Đồng minh): Đồng liêu cùng Hàn Kiếm Cốc, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyễn Phá Tuyết sinh ra trong một gia đình tiều phu ở chân núi Bắc Băng — cha mẹ hắn sống bằng nghề đốn cây trong rừng tuyết, không biết gì về tu luyện. Cơ duyên đến khi hắn mười lăm tuổi, lạc vào vùng bão tuyết trên núi và vô tình bước vào lãnh địa Hàn Kiếm Cốc — thay vì chết cóng như mọi phàm nhân, hắn sống sót ba ngày giữa bão bằng ý chí thuần túy, ôm gốc cây chịu trận cho đến khi tuần tra tìm thấy. Cốc Chủ Hàn Tiêu đích thân ra xem, nói một câu: "Thân phàm mà không chết trong bão ba ngày — hoặc là ngu, hoặc là có kiếm cốt", rồi cho hắn vào ngoại môn.

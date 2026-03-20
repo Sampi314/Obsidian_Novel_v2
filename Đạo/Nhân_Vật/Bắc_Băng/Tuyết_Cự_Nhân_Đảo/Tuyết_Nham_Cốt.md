@@ -152,6 +152,8 @@ arcs:
     - Nham Cốt kính trọng trí tuệ và tuổi tác của Băng Nha, nhưng đôi khi bất đồng với bà về phương pháp bảo vệ đảo. Băng Nha chủ trương dùng Tuyết Vực Hộ Đảo Trận và ngoại giao để ngăn chặn kẻ thù; Nham Cốt tin rằng chỉ có sức mạnh quân sự mới thực sự đáng tin cậy. Dù bất đồng, cả hai đều hiểu rằng bộ lạc cần cả hai phương pháp — và sự cân bằng giữa "cương" của Nham Cốt và "nhu" của Băng Nha chính là nền tảng phòng thủ vững chắc nhất của đảo.
 - **Tuyết Tiểu Phong (Ấu Cự Nhân — Nỗi Bất Lực Dịu Dàng):**
     - Nham Cốt muốn bảo vệ Tiểu Phong hơn bất cứ thứ gì trên đảo — vì thằng bé là tương lai của cả chủng tộc. Nhưng y hoàn toàn không biết cách tiếp cận trẻ con. Mỗi lần y cố gắng chơi với Tiểu Phong, khuôn mặt dữ tợn và giọng nói sấm sét của y khiến thằng bé khóc ré. Nhu Sương phải can thiệp, dạy y nói nhỏ hơn và cúi xuống thấp hơn. Y cố gắng, nhưng "nói nhỏ" của y vẫn vang rền như tiếng đá lở. Cuối cùng y chọn cách bảo vệ từ xa — đứng canh gác ở nơi Tiểu Phong chơi đùa, im lặng như pho tượng, và tự nhủ rằng chỉ cần thằng bé an toàn là đủ.
+- **Thạch Vĩnh Đông** (Đồng minh): Thống Lĩnh Dũng Sĩ, y kính phục sức mạnh nhưng ngầm bất đồng quan điểm
+- **Tuyết Nhu Sương** (Đồng minh): Thống Lĩnh Dũng Sĩ, bệnh nhân thường xuyên và ngoan cố nhất của nàng
 
 ## VII. GIAI THOẠI
 > *"Nghe tiếng sừng rền trên biển Bắc Băng, thì quay mũi thuyền lại ngay — vì sau tiếng sừng ấy là bão đá, và sau bão đá là cái chết."*

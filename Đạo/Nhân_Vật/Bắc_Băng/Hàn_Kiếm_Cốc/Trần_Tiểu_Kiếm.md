@@ -37,6 +37,14 @@ Tu vi Trúc Cơ Sơ Kỳ, Tiểu Kiếm chưa có kỹ thuật chiến đấu đ
 - **Nguyễn Phá Tuyết:** Sư huynh nội môn thỉnh thoảng dừng chân chỉ cho cậu ta cách mài kiếm phôi — Tiểu Kiếm coi đó là vinh dự lớn nhất từ ngày vào cốc, dù Phá Tuyết chưa bao giờ nói một lời khen. Cậu ta lén quan sát Phá Tuyết luyện kiếm trong bão tuyết và coi đó là hình mẫu phải vươn tới.
 - **Đặng Hàn Phong:** Sư huynh nội môn mà cậu ta hơi sợ — Hàn Phong có vẻ ngoài quá nghiêm nghị và ít khi nói chuyện với ngoại môn. Nhưng có lần Tiểu Kiếm bị thương khi mài kiếm phôi, Hàn Phong lặng lẽ để một viên đan dược trị thương cạnh chỗ cậu ta ngồi rồi đi mà không nói gì.
 - **Các đệ tử ngoại môn:** Cậu ta bị trêu chọc vì thói quen nói chuyện với kiếm gỗ, nhưng không ai ức hiếp — phần vì quy tắc nghiêm khắc của Hàn Kiếm Cốc, phần vì ai cũng thầm phục sự chịu đựng của cậu ta trong bão tuyết.
+- **Hải Triều Kiếm** (Đệ tử): Cháu ngoại Kiếm Ngư, ngoại môn đệ tử có khí chất kiếm tu hiếm thấy
+- **Lý Hải Đào** (Đồng minh): Cháu ngoại Kiếm Ngư, cô bé hay đến Lưu Thủy Viện chơi, dễ thương
+- **Thủy Nguyệt Hàn** (Đệ tử): Sư muội nhỏ, đệ tử cùng luyện tập, thương mến như em gái
+- **Thủy Vô Trần** (Đệ tử): Ngoại môn đệ tử ưu tú, cháu ngoại Trần Kiếm Ngư, đáng được dìu dắt
+- **Trần Kiếm Ngư** (Đồng minh): Cháu ngoại, niềm tự hào và lo lắng lớn nhất, huyết mạch duy nhất còn lại
+- **Vũ Sóng Triều** (Đồng minh): Bạn thân nhất, sư muội ngoại môn, cùng nhau lớn lên, bảo vệ bằng mọi giá
+- **Lý Băng Kiếm** (Thuộc hạ): Phục tùng Lý Băng Kiếm, Viện Chủ của Hàn Kiếm Cốc
+- **Hàn Tiêu** (Sư phụ): Hàn Tiêu dẫn dắt Trần Tiểu Kiếm trong Hàn Kiếm Cốc
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trần Tiểu Kiếm là con mồ côi lớn lên trong trại trẻ ở một thị trấn khai mỏ phía nam Bắc Băng — không biết cha mẹ là ai, không có họ hàng, tên "Tiểu Kiếm" là do chính cậu ta tự đặt khi lần đầu nhìn thấy một kiếm tu bay qua bầu trời. Cậu ta xin vào Hàn Kiếm Cốc ba lần bị từ chối vì thể chất quá gầy yếu, đến lần thứ tư mới được nhận vào ngoại môn — không phải vì cải thiện thể chất mà vì người gác cổng thấy thương đứa nhỏ đứng chờ ngoài bão tuyết suốt bảy ngày mà vẫn không bỏ cuộc.

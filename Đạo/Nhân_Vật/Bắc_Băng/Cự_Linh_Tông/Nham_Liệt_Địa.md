@@ -41,6 +41,8 @@ Là Chiến Cự Tử tu vi Nguyên Anh Hậu Kỳ, Nham Liệt Địa chuyên v
 - **Nham Thiết Cốt:** Đại Trưởng Lão và cũng là sư phụ trực tiếp dạy hắn Liệt Địa Khai Sơn Quyền. Hắn kính trọng lão nhân như cha, luôn nghe theo lời dạy mà không hỏi lại.
 - **Nham Phá Sơn:** Sư đệ cùng môn, hai người thường xuyên phối hợp dẫn đầu tổ săn yêu thú ở biên giới Bắc Băng – Đông Hoang. Tính cách trầm lặng của hắn bổ khuyết hoàn hảo cho sự bốc đồng của Nham Phá Sơn.
 - **Nham Kình Thiên:** Hắn xem Nham Kình Thiên như vãn bối có tiềm năng nhưng quá ngông cuồng, thỉnh thoảng dùng một cú đấm để dạy dỗ kẻ trẻ tuổi biết thế nào là kiên nhẫn.
+- **Nham Chấn Nhạc** (Sư phụ): Nham Chấn Nhạc chỉ dẫn Nham Liệt Địa trong Cự Linh Tông
+- **Nham Hồng Hoang** (Thuộc hạ): Phục tùng Nham Hồng Hoang, Thái Thượng Trưởng Lão của Cự Linh Tông
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nham Liệt Địa sinh ra trong một gia tộc Cự Tộc thuần chủng sống ở rìa Tầng Băng Vĩnh Cửu, nơi chỉ có đá và băng giá. Từ nhỏ hắn đã quen với sự im lặng của núi non, và tính cách trầm mặc của hắn được hun đúc từ chính vùng đất hoang vu ấy. Năm bảy mươi tuổi, hắn được Nham Thiết Cốt chọn làm đệ tử sau khi chứng kiến hắn dùng tay không đào một hang động sâu trong vách đá để trú bão tuyết suốt ba tháng không nghỉ.

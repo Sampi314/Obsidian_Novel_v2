@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Sương Vô Tình** (Thuộc hạ): Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển
+- **Bạch Thi Nương** (Đồng minh): Đồng liêu cùng Sương Ma Uyển
+- **Hắc Sương Quỷ** (Đồng minh): Đồng liêu cùng Sương Ma Uyển, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

@@ -33,6 +33,9 @@ Thở ra hơi lạnh đóng băng đối thủ giữa không trung rồi để r
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Ưng Tuyết Phong** (Đồng minh): Chiến sĩ cứng đầu nhưng đáng tin, người mà hắn thường giao những nhiệm vụ cần sức mạnh brute force
+- **Cú Bạch Dạ** (Đồng minh): Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau
+- **Hạc Sương Vũ** (Chủ nhân): Hạc Sương Vũ quản lý Ưng Đông Sương trong Hàn Ưng Bộ Lạc
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

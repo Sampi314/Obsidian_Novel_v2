@@ -146,6 +146,7 @@ arcs:
     - Y kính sợ Thánh Nữ như chiến binh kính sợ vị thần chiến tranh — không hiểu, không gần gũi, chỉ phục tùng. Y hiếm khi tiếp xúc trực tiếp với nàng, mọi mệnh lệnh đều qua Tướng Quân. Y không nghi ngờ quyền lực nàng nhưng cũng không cuồng tín — y đơn giản không quan tâm đến tôn giáo.
 - **Quang Ảnh Tử (Thủ Lĩnh Mật Thám — Không Thoải Mái):**
     - Y không thích Quang Ảnh Tử — không phải vì khinh thường như Tướng Quân mà vì bản năng chiến binh cảnh báo y rằng kẻ này nguy hiểm. Y cảm nhận được sự theo dõi của Chấp Đạo Đội và điều đó khiến y bất an. Y từng nói với Tướng Quân: "Con không sợ kẻ thù trước mặt, nhưng con ghét kẻ đứng sau lưng mà mình không nhìn thấy."
+- **Quang Minh Đại Tế** (Chủ nhân): Lãnh đạo Tế Tư Viện, y tôn trọng nhưng không gần gũi
 
 ## VII. GIAI THOẠI
 > *"Ta phạt các ngươi vì muốn các ngươi sống. Ta đứng trước vì không muốn các ngươi chết."*

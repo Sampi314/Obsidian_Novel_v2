@@ -144,6 +144,7 @@ arcs:
     - Y khinh bỉ sự cuồng tín của Thánh Quang Linh — trong mắt y, đức tin chỉ là công cụ kiểm soát đám đông, và Linh Mục là kẻ tự huyễn hoặc tin rằng công cụ ấy là chân lý. Khi Linh Mục ám chỉ y trong bài giảng, y chỉ cười lạnh — vì y biết mười hai bí mật của Linh Mục mà nếu tiết lộ sẽ phá hủy hình ảnh "thánh khiết" của lão ta.
 - **Quang Hàn Chấp Sự (Phó Viện Chủ — Mục Tiêu Giám Sát):**
     - Y đã phát hiện những suy nghĩ "không chính thống" của Chấp Sự — sự nghi ngờ thầm kín đối với phương pháp cực đoan, tình cảm giấu giếm với Băng Tịnh Liên. Y chưa báo cáo vì giữ thông tin này như đòn bẩy — nếu một ngày cần Chấp Sự hợp tác hoặc im lặng, y sẽ dùng nó. Đây là cách y vận hành: thu thập, lưu trữ, sử dụng khi cần.
+- **Băng Lăng Vệ** (Đồng minh): Thủ lĩnh mật thám, y không thoải mái với lối hành xử bí ẩn
 
 ## VII. GIAI THOẠI
 > *"Ta không ẩn trong bóng tối. Ta ẩn trong ánh sáng — vì không ai ngờ rằng con ma lại đứng giữa ban ngày."*

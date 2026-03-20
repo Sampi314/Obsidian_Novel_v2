@@ -170,6 +170,7 @@ arcs:
 
 - **Đệ Tử Cũ Của Thiết Chưởng Môn — Nỗi Đau Giấu Kín:**
     - Lão Ma hiếm khi nhắc đến Thiết Chưởng Môn — tông môn mà hắn là trưởng môn cuối cùng trước khi bị giải tán. Đệ tử lưu lạc bốn phương, không biết sống chết ra sao. Đôi khi, khi Đấu Trường Máu vắng người và hắn ngồi một mình giữa đấu trường trống, hắn sẽ tập quyền — từng chiêu từng thức của Thiết Chưởng Quyền Phổ, bài quyền đầu tiên sư phụ dạy hắn. Đánh xong, hắn đứng lặng, nắm đấm run nhẹ — không ai nhìn thấy, vì Lão Ma không bao giờ để ai thấy mình yếu đuối.
+- **Hắc Giáp Thống Lĩnh** (Đồng minh): Tù trưởng Tầng Ba mà hắn tôn trọng ngầm vì bản lĩnh chiến đấu, dù vẫn phải đàn áp khi cần
 
 ## VII. GIAI THOẠI
 > *"Ngươi hỏi ta vì sao bị giam ở đây? Vì ta đấm nhầm kẻ không nên đấm. Nhưng nếu được chọn lại, ta vẫn đấm — chỉ đấm mạnh hơn thôi."*

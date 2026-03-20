@@ -41,6 +41,8 @@ Nguyễn Đại Xa là phàm nhân không biết tu luyện, nhưng sức mạnh
 - **Châu Phá Thiên:** Đội Trưởng mà hắn theo từ ngày đầu tiên, khi cả đoàn chỉ có hai người và hai con lừa. Hắn coi Châu Phá Thiên như ân nhân cứu mạng vì đã cho hắn công ăn việc làm khi không ai chịu thuê một gã phàm nhân to xác ở Bắc Băng.
 - **Lý Thiết Kế:** Phó Đội Trưởng hay cằn nhằn về cách hắn xếp hàng, nhưng hắn không bao giờ giận vì biết tên gầy gò ấy đúng nhiều hơn sai.
 - **Phu khuân vác:** Ba mươi sáu anh em phu khuân vác coi hắn như đại ca, nghe lời hắn răm rắp vì hắn luôn xông trước vác nặng nhất và ăn sau cùng.
+- **Phạm Linh Kế** (Đồng minh): Đồng liêu cùng Phá Băng Thương Đội, hỗ trợ lẫn nhau
+- **Đặng Hỏa Nhi** (Sư phụ): Đặng Hỏa Nhi chỉ dẫn Nguyễn Đại Xa trong Phá Băng Thương Đội
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyễn Đại Xa sinh ra trong một gia đình nông dân nghèo ở rìa Bắc Băng, cha mẹ mất sớm vì đông cước, để lại hắn một mình từ năm mười hai tuổi. Không có linh căn, không có tiền, không có quan hệ — hắn sống bằng cách bán sức lao động cho bất kỳ ai cần người khuân vác. Cái tên "Đại Xa" (Xe Lớn) là biệt danh từ thời hắn một mình kéo chiếc xe chở gỗ nặng hai tấn leo dốc — việc mà hai con ngựa không làm nổi.

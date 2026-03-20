@@ -164,6 +164,8 @@ arcs:
     - Hàn Ngọc là "khách hàng" chính của dược liệu cô hái về — và là khách hàng khó tính nhất, vì cô ấy đòi hỏi dược liệu phải hoàn hảo về mọi mặt. Tuyết Liên vừa nể vừa bực: nể vì biết yêu cầu cao của Hàn Ngọc là để đan dược tốt hơn, bực vì đôi khi cô ấy phê bình dược liệu mà Tuyết Liên mạo mạng tính mạng để hái. Dù vậy, hai người tôn trọng nhau trong thâm tâm.
 - **Cha — Trần Băng Nham (Đã Mất):**
     - Cha cô là hình mẫu, là động lực, và cũng là nỗi đau lớn nhất. Chiếc Dược Nang và bông Tuyết Liên khô bên trong là sợi dây nối cô với cha. Mỗi lần leo lên vách đá Cửu Thiên Nhai, cô siết chặt dược nang và thì thầm: *"Cha, con lại lên đây."*
+- **Miêu Tuyết Ngọc** (Đồng minh): Đội Trưởng Hái Thuốc, người cung cấp dược liệu, bạn tốt
+- **Nguyễn Băng Tâm** (Sư phụ): Chân truyền đệ tử, đàn em hay theo cô đi hái thuốc để rèn luyện
 
 ## VII. GIAI THOẠI
 > *"Tuyết Nhai Yến leo vách đá, chim yến chưa chắc theo kịp. Nhưng cô ấy leo không phải để nhanh — cô ấy leo để mang thuốc về cho người cần."*

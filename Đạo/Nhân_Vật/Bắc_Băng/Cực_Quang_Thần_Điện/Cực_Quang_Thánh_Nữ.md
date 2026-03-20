@@ -149,6 +149,10 @@ arcs:
     - Quang Ảnh Tử chỉ huy Chấp Đạo Đội, mạng lưới mật thám truy lùng dị giáo và phản bội. Thánh Nữ cần y nhưng không hoàn toàn tin tưởng — một kẻ sống trong bóng tối vốn dĩ mâu thuẫn với giáo lý "Quang Minh Tuyệt Đối." Nàng giữ y bằng sợi dây ngắn, cho y quyền lực đủ để làm việc nhưng không đủ để đe dọa.
 - **Huyền Băng Cung (Tử Địch):**
     - Kẻ thù truyền kiếp, thế lực duy nhất có thể cạnh tranh vị trí thống trị tín ngưỡng Băng Tộc với Thần Điện. Thánh Nữ coi Huyền Băng Cung là "bóng tối lớn nhất cần thanh tẩy," và mọi kế hoạch dài hạn của nàng đều hướng đến mục tiêu cuối cùng: hủy diệt hoàn toàn Huyền Băng Cung.
+- **Băng Lăng Vệ** (Đồng minh): Chủ nhân tối cao, y kính sợ nhưng ít tiếp xúc trực tiếp
+- **Băng Tịnh Liên** (Đồng minh): Chủ nhân tối cao, nàng kính sợ nhưng đôi khi thấy nàng ta đáng thương
+- **Hàn Quang Kiếm** (Đồng minh): Chủ nhân tối cao, y sùng kính nhưng chưa bao giờ tiếp xúc trực tiếp
+- **Quang Hàn Chấp Sự** (Chủ nhân): Chủ nhân tối cao, y kính sợ nhưng cũng ngầm lo lắng cho Thần Điện dưới sự lãnh đạo của nàng
 
 ## VII. GIAI THOẠI
 > *"Ta không phán xét các ngươi. Ta chỉ mang đến ánh sáng — và ánh sáng tự nó sẽ phân biệt sáng tối."*

@@ -148,6 +148,13 @@ arcs:
     - Đứa trẻ đầu tiên sinh ra trong Lạc Đoàn — biểu tượng cho sự sống mới, cho tương lai. Hắn coi Tiểu Nhi như cháu ruột — dạy đứa trẻ đục đá, kể chuyện tổ tiên, và lặng lẽ vui mừng mỗi khi thấy nó dùng năng lực Nham Thạch Ôn Nhu làm mềm đá — một năng lực chưa từng thấy, thêm bằng chứng cho giả thuyết tiến hóa.
 - **Tuyết Cự Nhân Đảo — Quê Hương & Kẻ Thù:**
     - Phức tạp. Hắn oán hận Đảo vì trục xuất hắn và tất cả những kẻ "không đủ lớn." Nhưng hắn cũng nhớ — nhớ mùi đá trên Đảo, nhớ tiếng gió qua vách băng khổng lồ, nhớ bóng dáng cha mẹ đứng trên bến đá nhìn hắn bơi đi. Bức thư gần đây khiến mọi thứ thêm phức tạp — nếu Đảo thực sự cần giúp đỡ, hắn có nên giúp kẻ đã ruồng bỏ mình không? Và nếu giúp, cái giá là gì?
+- **Nham Cự Lực** (Sư phụ): Đoàn Trưởng Lạc Đoàn, trưởng bối đã dạy hắn cách sống giữa băng giá
+- **Thạch Khai Sơn** (Sư phụ): Đoàn Trưởng Tuyết Cự Nhân Lạc Đoàn, cha nuôi, người đã dạy hắn mọi thứ từ nhỏ
+- **Thạch Thiết Chùy** (Đồng minh): Đoàn Trưởng Lạc Đoàn, bác nuôi, người lặng lẽ trao cho hắn trách nhiệm kìm hãm Khai Sơn
+- **Sơn Lực** (Đồng minh): Bạn thân nhất, Thạch Tộc, đồng lứa, anh em bạn bè
+- **Thạch Hùng** (Sư phụ): Đệ tử nhỏ mà gã dạy võ thuật cơ bản
+- **Thạch Linh Quang** (Sư phụ): Đệ tử nhỏ tuổi nhất mà nàng hay chỉ dạy, xem như đứa em nhỏ
+- **Trần Phong** (Đệ tử): Đệ tử Thạch Tộc nhỏ tuổi, thường chạy đến hỏi gã mọi thứ
 
 ## VII. GIAI THOẠI
 > *"Thạch Tiểu Sơn cao năm trượng — nhỏ nhất trong mọi Đoàn Trưởng Cự Tộc từ cổ chí kim. Nhưng khi hắn đứng trước cửa hang, giơ nắm đấm lên, hai mươi bảy Cự Tộc phía sau đều cảm thấy: mình đang đứng sau một ngọn núi."*

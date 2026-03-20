@@ -33,6 +33,9 @@ Cánh lạnh đông cứng không khí, kẻ xâm nhập đều rơi xuống
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Ưng Bạch Đế** (Chủ nhân): Tuần Tra Đội Trưởng mẫn cán, tấm khiên bảo vệ biên cương bộ lạc
+- **Cú Bạch Dạ** (Chủ nhân): Ưng Hàn Dực quản lý Cú Bạch Dạ trong Hàn Ưng Bộ Lạc
+- **Hạc Sương Vũ** (Đồng minh): Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

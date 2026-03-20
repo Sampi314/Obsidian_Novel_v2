@@ -42,6 +42,8 @@ Với tu vi Nguyên Anh Trung Kỳ, Nham Phá Sơn chuyên về lối đánh xun
 - **Nham Thiết Cốt:** Sư phụ đã truyền thụ cho hắn Cửu Chuyển Kim Cương Quyết. Dù thường bị sư phụ mắng vì liều lĩnh, hắn vẫn coi lão nhân là người hắn tin tưởng nhất trên đời.
 - **Nham Kình Thiên:** Đồng trang lứa và đối thủ cạnh tranh thân thiết. Hai người thường xuyên thách đấu nhau tại Trường Đấu Cự Thần, mỗi trận đều khiến đấu trường nứt thêm vài vết.
 - **Yêu Tộc tuần tra viên:** Hắn từng húc chết một đại yêu hình gấu Nguyên Anh cấp bằng một cú Phá Sơn Thiết Đầu Công tại biên giới, sự kiện khiến Yêu Tộc Đông Hoang đặt biệt danh cho hắn là "Cuồng Ngưu Đá."
+- **Nham Hồng Hoang** (Thuộc hạ): Phục tùng Nham Hồng Hoang, Thái Thượng Trưởng Lão của Cự Linh Tông
+- **Nham Tâm** (Đồng minh): Đồng liêu cùng Cự Linh Tông, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nham Phá Sơn là Cự Tộc lai — mẹ hắn là Nhân Tộc, cha là Cự Tộc thuần chủng — khiến hắn từ nhỏ đã nhỏ hơn đồng tộc và bị coi thường. Để chứng minh bản thân, hắn bắt đầu húc đầu vào đá núi từ khi mới biết đi, và thói quen ấy dần trở thành phong cách chiến đấu độc đáo không ai bắt chước nổi.

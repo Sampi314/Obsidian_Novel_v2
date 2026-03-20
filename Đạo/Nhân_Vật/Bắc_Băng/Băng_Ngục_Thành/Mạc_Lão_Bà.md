@@ -160,6 +160,8 @@ arcs:
 
 - **Tù Nhân Tầng Bốn — Bầy Con Nuôi Không Mong Muốn:**
     - Bà nấu cháo cho chúng, chữa thương cho chúng, đôi khi kể chuyện cho chúng nghe — nhưng bà không cố cứu chúng, không cố cải tạo chúng. Bà đã thấy quá nhiều thế hệ tù nhân đến và đi — cứu được một người thì mười người khác chết, và một trăm năm sau không ai nhớ ai. Bà quan tâm trong phạm vi bà chọn, và buông tay khi bà quyết định buông.
+- **Lý Tham Quan** (Đồng minh): Kẻ buôn bán nhỏ nhặt, bà đôi khi nhờ hắn mang vào vài vị thuốc hiếm đổi bằng bí mật nhỏ
+- **Độc Vương Lão Ngũ** (Đồng minh): Tù trưởng Tầng Một thỉnh thoảng gửi thuốc quý để xin bà chỉ điểm, bà cho vài lời nửa thật nửa giả
 
 ## VII. GIAI THOẠI
 > *"Con muốn tự do à? Tự do là gì? Bà đã tự do hai nghìn năm trước khi bị giam ở đây, và bà nói cho con biết — tự do không khác gì nhà tù, chỉ là nhà tù lớn hơn và không có ai nấu cháo cho ăn."*

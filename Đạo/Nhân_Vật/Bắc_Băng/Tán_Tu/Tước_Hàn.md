@@ -33,6 +33,11 @@ Sẻ lạnh trồng linh thảo dưới băng — kiên nhẫn hơn cả thời 
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Hạc Tuyết Nhi** (Sư phụ): Hạc Tuyết Nhi chỉ dẫn Tước Hàn trong Tán Tu
+- **Sương Lệ Nhi** (Sư phụ): Sương Lệ Nhi chỉ dẫn Tước Hàn trong Tán Tu
+- **Sở Lăng Sương** (Đồng minh): Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+- **Triệu Thanh Hằng** (Đồng minh): Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+- **Tước Tuyết Nhi** (Sư phụ): Tước Tuyết Nhi chỉ dẫn Tước Hàn trong Tán Tu
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

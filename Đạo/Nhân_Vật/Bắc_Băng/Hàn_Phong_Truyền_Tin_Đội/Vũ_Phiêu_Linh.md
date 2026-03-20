@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Vũ Khinh Hồng** (Đồng minh): Đồng nghiệp hỗ trợ trong Hàn Phong Truyền Tin Đội
+- **Vũ Tốc Vân** (Thuộc hạ): Phục tùng Vũ Tốc Vân, Đội Trưởng của Hàn Phong Truyền Tin Đội
+- **Vũ Tật Phong** (Đồng minh): Đồng liêu cùng Hàn Phong Truyền Tin Đội, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

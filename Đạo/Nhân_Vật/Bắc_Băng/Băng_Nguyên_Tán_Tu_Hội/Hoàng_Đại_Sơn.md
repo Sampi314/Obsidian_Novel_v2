@@ -36,6 +36,9 @@ Với phong cách chiến đấu trực diện và điên cuồng, Hoàng Đại
 - **Lý Tuyết Phong:** Đồng đội, Trưởng Trại Hàn Phong. Cả hai thường xuyên cãi vã vì bất đồng quan điểm trong cách quản lý trại, nhưng lại phối hợp cực kỳ ăn ý trong chiến đấu.
 - **Nguyễn Hàn Sương:** Cấp dưới phụ trách giao thương. Hoàng Đại Sơn không tin tưởng Nguyễn Hàn Sương do tính cách lươn lẹo của cô, nhưng vẫn phải nhờ cô lo liệu những nhu yếu phẩm khó tìm.
 - **Bạch Cốt Hội:** Kẻ thù không đội trời chung, Hoàng Đại Sơn từng thề sẽ đập nát hộp sọ của bất kỳ tu sĩ Bạch Cốt Hội nào lảng vảng gần Trại Tuyết Thưa.
+- **Phạm Lệ Nương** (Đồng minh): Trưởng Trại Tuyết Thưa, bệnh nhân thường xuyên nhất, gã hay bị thương vì liều mạng
+- **Vũ Thiên Hàn** (Kẻ thù): Trưởng Trại Tuyết Thưa, gã ngầm nể sức mạnh của Đại Sơn dù miệng không thừa nhận
+- **Đặng Thiết Ngưu** (Đồng minh): Trưởng Trại Tuyết Thưa, huynh đệ thân thiết, bạn nhậu mỗi lễ Hội Ẩm
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân là một thợ săn phàm nhân may mắn nhặt được một cuốn công pháp luyện thể rách nát trong bão tuyết, Hoàng Đại Sơn đã từng bước tu luyện lên Trúc Cơ bằng ý chí sinh tồn mãnh liệt. Trong một lần bị vây hãm bởi đàn Băng Sói, gã đã được Trần Hàn Phong cứu sống. Cảm kích ơn cứu mạng và lý tưởng của hội, Hoàng Đại Sơn gia nhập Băng Nguyên Tán Tu Hội và nhanh chóng trở thành một trong những trụ cột vững chắc nhất. Hiện tại, gã đảm nhận vị trí Trưởng Trại Tuyết Thưa, thề sẽ bảo vệ những tán tu yếu ớt nơi đây bằng chính mạng sống của mình, đồng thời âm thầm truy tìm tung tích của đàn Băng Sói năm xưa để giải quyết ân oán.
