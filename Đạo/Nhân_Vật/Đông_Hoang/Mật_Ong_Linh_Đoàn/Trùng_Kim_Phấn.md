@@ -32,8 +32,10 @@ Dáng người nhỏ nhắn nhanh nhẹn, đôi mắt to tròn lanh lợi. Nụ 
 Thành viên của Mật Ong Linh Đoàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 蟲金粉·Bản Mệnh (蟲金粉·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trùng Mật Linh:** Ong Hậu, đồng liêu quan trọng nhất trong Mật Ong Linh Đoàn.
-- **Trùng Tiểu Mật:** Ong Lính, đối tác thường xuyên phối hợp.
-
+- **Trùng Mật Linh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Mật Ong Linh Đoàn
+- **Trùng Tiểu Mật** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Mật Ong Linh Đoàn
+- **Trùng Mật Linh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Kim Phấn
+- **Trùng Tiểu Mật** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Kim Phấn
+- **Trùng Hoàng Châm** (Đồng minh): Ong Thợ Trưởng và Ong Chiến Binh, phối hợp thu hoạch bảo vệ
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trùng Kim Phấn được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Mật Ong Linh Đoàn. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Mật Ong Linh Đoàn và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Ong Thợ Trưởng.
