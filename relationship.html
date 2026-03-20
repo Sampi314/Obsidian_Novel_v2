@@ -356,12 +356,35 @@
             text-align: center;
             margin-bottom: 2px;
         }
+        .info-view-link {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            padding: 6px 14px;
+            margin: 8px auto 12px;
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 0.8rem;
+            letter-spacing: 0.05em;
+            text-decoration: none;
+            border-radius: 3px;
+            background: rgba(107, 143, 113, 0.12);
+            border: 1px solid rgba(107, 143, 113, 0.25);
+            color: var(--sage-bright);
+            transition: all 0.3s;
+        }
+        .info-view-link:hover {
+            background: rgba(107, 143, 113, 0.22);
+            border-color: var(--sage-bright);
+            box-shadow: 0 2px 12px rgba(107, 143, 113, 0.15);
+        }
+        .info-row-desc { margin-top: 6px; }
         .info-title-text {
             font-family: 'Cormorant Garamond', serif;
             font-size: 0.85rem;
             color: var(--muted);
             text-align: center;
-            margin-bottom: 12px;
+            margin-bottom: 4px;
             font-style: italic;
         }
 
@@ -455,7 +478,7 @@
         /* ── Stats bar ── */
         .stats-bar {
             position: fixed;
-            bottom: 10px; left: 50%;
+            bottom: 8px; left: 50%;
             transform: translateX(-50%);
             z-index: 60;
             background: var(--card-bg);
@@ -473,7 +496,7 @@
         /* ── Zoom controls ── */
         .zoom-controls {
             position: fixed;
-            bottom: 50px;
+            bottom: 94px;
             right: 16px;
             z-index: 60;
             display: flex;
@@ -537,6 +560,156 @@
             background: rgba(107,143,113,0.15);
         }
 
+        /* ── Arc Timeline Slider ── */
+        .arc-slider-container {
+            position: fixed;
+            bottom: 38px;
+            left: 260px;
+            right: 0;
+            height: 48px;
+            z-index: 60;
+            display: flex;
+            align-items: center;
+            padding: 0 24px;
+            transition: left 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+            pointer-events: none;
+        }
+        .sidebar.collapsed ~ .arc-slider-container { left: 0; }
+
+        .arc-slider-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            pointer-events: auto;
+        }
+
+        .arc-slider-track {
+            position: absolute;
+            left: 0; right: 0;
+            top: 50%;
+            height: 2px;
+            transform: translateY(-50%);
+            background: rgba(107,143,113,0.18);
+            border-radius: 2px;
+            box-shadow: 0 0 8px rgba(107,143,113,0.08);
+            cursor: pointer;
+        }
+
+        .arc-slider-fill {
+            position: absolute;
+            left: 0;
+            top: 50%;
+            height: 2px;
+            transform: translateY(-50%);
+            background: linear-gradient(90deg, var(--sage), var(--accent));
+            border-radius: 2px;
+            box-shadow: 0 0 10px rgba(107,143,113,0.25), 0 0 4px var(--sage);
+            transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            pointer-events: none;
+        }
+
+        .arc-slider-thumb {
+            position: absolute;
+            top: 50%;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: radial-gradient(circle at 40% 40%, var(--accent-bright), var(--sage));
+            border: 2px solid var(--accent);
+            transform: translate(-50%, -50%);
+            cursor: grab;
+            z-index: 3;
+            box-shadow: 0 0 12px rgba(107,143,113,0.5), 0 0 24px rgba(107,143,113,0.2);
+            transition: left 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+                        box-shadow 0.3s;
+        }
+        .arc-slider-thumb:hover {
+            box-shadow: 0 0 18px rgba(107,143,113,0.7), 0 0 36px rgba(107,143,113,0.3);
+        }
+        .arc-slider-thumb.dragging {
+            cursor: grabbing;
+            box-shadow: 0 0 22px rgba(107,143,113,0.8), 0 0 44px rgba(107,143,113,0.4);
+            transition: box-shadow 0.15s;
+        }
+
+        .arc-marker {
+            position: absolute;
+            top: 50%;
+            width: 8px;
+            height: 8px;
+            transform: translate(-50%, -50%) rotate(45deg);
+            background: var(--paper-mid);
+            border: 1px solid var(--sage);
+            cursor: pointer;
+            z-index: 2;
+            transition: background 0.3s, border-color 0.3s, transform 0.3s, box-shadow 0.3s;
+        }
+        .arc-marker:hover {
+            background: var(--sage);
+            border-color: var(--sage-bright);
+            box-shadow: 0 0 10px rgba(107,143,113,0.4);
+            transform: translate(-50%, -50%) rotate(45deg) scale(1.3);
+        }
+        .arc-marker.active {
+            background: var(--accent);
+            border-color: var(--accent-bright);
+            box-shadow: 0 0 12px rgba(212,165,116,0.4);
+        }
+
+        .arc-marker-label {
+            position: absolute;
+            top: -22px;
+            left: 50%;
+            transform: translateX(-50%) rotate(-45deg);
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 0.65rem;
+            color: var(--muted);
+            white-space: nowrap;
+            letter-spacing: 0.05em;
+            opacity: 0;
+            transition: opacity 0.25s, color 0.25s;
+            pointer-events: none;
+        }
+        .arc-marker:hover .arc-marker-label,
+        .arc-marker.active .arc-marker-label {
+            opacity: 1;
+            color: var(--text);
+        }
+
+        .arc-slider-label {
+            position: absolute;
+            left: -8px;
+            top: 50%;
+            transform: translateY(-50%) translateX(-100%);
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 0.65rem;
+            color: var(--muted);
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            white-space: nowrap;
+            padding-right: 12px;
+        }
+
+        .arc-slider-current {
+            position: absolute;
+            bottom: -16px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-family: 'Source Serif 4', serif;
+            font-size: 0.7rem;
+            color: var(--accent);
+            white-space: nowrap;
+            opacity: 0;
+            transition: opacity 0.3s;
+            pointer-events: none;
+        }
+        .arc-slider-thumb:hover ~ .arc-slider-current,
+        .arc-slider-thumb.dragging ~ .arc-slider-current {
+            opacity: 1;
+        }
+
         /* ── Mobile ── */
         @media (max-width: 768px) {
             .sidebar {
@@ -548,12 +721,21 @@
             .info-panel { width: 100%; }
             .top-title { font-size: 0.82rem; }
             .stats-bar { font-size: 0.65rem; gap: 10px; padding: 4px 10px; }
+            .arc-slider-container {
+                left: 0;
+                bottom: 34px;
+                height: 40px;
+                padding: 0 16px;
+            }
+            .arc-marker-label { font-size: 0.58rem; top: -18px; }
+            .arc-slider-label { display: none; }
         }
         @media (max-width: 480px) {
             .sidebar { width: 200px; }
             .sidebar.collapsed { transform: translateX(-200px); }
             .sidebar-toggle { left: 200px; }
             .sidebar.collapsed ~ .sidebar-toggle { left: 0; }
+            .arc-slider-container { padding: 0 10px; }
         }
     </style>
 </head>
@@ -612,6 +794,16 @@
 <div class="info-panel" id="info-panel">
     <button class="info-close" id="info-close">&times;</button>
     <div id="info-content"></div>
+</div>
+
+<!-- Arc Timeline Slider -->
+<div class="arc-slider-container" id="arc-slider-container">
+    <div class="arc-slider-inner" id="arc-slider-inner">
+        <div class="arc-slider-label">Mạch Truyện</div>
+        <div class="arc-slider-track" id="arc-slider-track"></div>
+        <div class="arc-slider-fill" id="arc-slider-fill"></div>
+        <!-- Arc markers and thumb will be inserted by JS -->
+    </div>
 </div>
 
 <!-- Stats Bar -->
@@ -797,6 +989,7 @@
             character: c,
             connections: conns,
             visible: true,
+            arcVisible: true,
             highlighted: false,
             selected: false,
             dimmed: false,
@@ -880,6 +1073,7 @@
                 members: members,
                 color: fColor,
                 visible: true,
+                arcVisible: true,
                 highlighted: false,
                 selected: false,
                 dimmed: false
@@ -1849,6 +2043,12 @@
         html += '<div class="info-name">' + escHtml(ch.name) + '</div>';
         if (ch.title) html += '<div class="info-title-text">' + escHtml(ch.title) + '</div>';
 
+        // View profile link
+        var profilePath = 'Đạo/Nhân_Vật/' + encodeURIComponent(ch.region || '') + '/' + encodeURIComponent(ch.faction ? ch.faction.replace(/\s+/g, '_') : '') + '/' + encodeURIComponent(ch.name.replace(/\s+/g, '_')) + '.md';
+        html += '<a class="info-view-link" href="reader.html?file=' + profilePath + '" target="_blank">';
+        html += '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14"><path d="M15 3h6v6"/><path d="M10 14L21 3"/><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"/></svg>';
+        html += ' Xem Hồ Sơ</a>';
+
         // Details
         html += '<div class="info-details">';
         if (ch.realm) html += '<div class="info-row"><span class="info-row-label">Cảnh giới</span><span class="info-row-value">' + escHtml(ch.realm) + '</span></div>';
@@ -1857,6 +2057,7 @@
         if (ch.role) html += '<div class="info-row"><span class="info-row-label">Vai trò</span><span class="info-row-value">' + escHtml(ch.role) + '</span></div>';
         html += '<div class="info-row"><span class="info-row-label">Kết nối</span><span class="info-row-value">' + (node.connections) + ' mối liên hệ</span></div>';
         if (ch.pov) html += '<div class="info-row"><span class="info-row-label">POV</span><span class="info-row-value" style="color:var(--accent-bright)">Góc nhìn chính</span></div>';
+        if (ch.description) html += '<div class="info-row info-row-desc"><span class="info-row-value" style="font-style:italic;color:var(--muted)">' + escHtml(ch.description) + '</span></div>';
         html += '</div>';
 
         // Relationships
@@ -2176,6 +2377,11 @@
         // Build/rebuild faction graph
         buildFactionGraph();
 
+        // Re-apply arc filter to newly created faction nodes
+        if (currentArc !== 'arc_all') {
+            filterByArc(currentArc);
+        }
+
         // Update search placeholder
         searchBox.placeholder = 'T\u00ean th\u1EBF l\u1EF1c...';
         searchBox.value = '';
@@ -2282,6 +2488,441 @@
                 '<span>Zoom: ' + (cam.zoom * 100).toFixed(0) + '%</span>';
         }
     }
+
+    // ─── Arc Timeline Slider ───
+    var arcs = [
+        { id: 'arc1', name: 'Kh\u1EDFi Nguy\u00EAn', desc: 'Kh\u1EDFi \u0111\u1EA7u h\u00E0nh tr\u00ECnh' },
+        { id: 'arc2', name: 'Huy\u1EBFt Th\u1EA7n \u0110\u1ED9c', desc: '\u0110\u1EA1i d\u1ECBch Huy\u1EBFt Th\u1EA7n \u0110\u1ED9c' },
+        { id: 'arc3', name: 'T\u00F4ng M\u00F4n \u0110\u1EA1i Chi\u1EBFn', desc: 'Chi\u1EBFn tranh gi\u1EEFa c\u00E1c t\u00F4ng m\u00F4n' },
+        { id: 'arc4', name: 'B\u0103ng Ng\u1EE5c Th\u00E0nh', desc: 'Cu\u1ED9c chi\u1EBFn t\u1EA1i B\u0103ng Ng\u1EE5c Th\u00E0nh' },
+        { id: 'arc5', name: 'Ng\u0169 V\u1EF1c Li\u00EAn Minh', desc: 'Li\u00EAn minh n\u0103m khu v\u1EF1c' },
+        { id: 'arc_all', name: 'T\u1EA5t C\u1EA3', desc: 'Hi\u1EC7n t\u1EA5t c\u1EA3 nh\u00E2n v\u1EADt' }
+    ];
+
+    // Map factions to the arc when they first appear (cumulative)
+    var arcFactionMap = {
+        'arc1': [
+            'C\u1EEDu Hoa Ki\u1EBFm T\u00F4ng', 'V\u1EA1n \u0110\u1ED9c M\u00F4n', 'Sa M\u00E3ng T\u1ED9c', 'T\u00E1n Tu',
+            'H\u1EE3p Hoan T\u00F4ng', 'V\u00E2n T\u00F4ng', 'Ng\u01B0 Ki\u1EBFm S\u01A1n Trang',
+            'B\u00E1ch Hoa C\u1ED1c', 'V\u1EA1n Tr\u00F9ng C\u1ED1c', 'D\u01B0\u1EE3c V\u01B0\u01A1ng C\u1ED1c',
+            'Qu\u1EF7 Th\u1ECB Nam C\u01B0\u01A1ng', 'H\u1EAFc B\u00E1o Tr\u1EA1i',
+            'C\u1ED5 Nguy\u1EC7t Th\u1EA7n Gi\u00E1o', 'V\u1EF1c Th\u1EB3m Ma Cung',
+            'Thanh V\u00E2n Ngh\u0129a \u0110o\u00E0n', '\u0110an H\u00E0 C\u1ED1c',
+            'Li\u1EC7t D\u01B0\u01A1ng T\u00F4ng', 'B\u00E1ch Th\u00FA S\u01A1n Trang',
+            'Ph\u1EA3n \u0110\u1ED9c Minh', 'Huy\u1EBFt Ma T\u00F4ng',
+            'V\u0169 Ho\u00E0ng C\u00E1c', 'Thanh \u0110\u1EBF Cung',
+            'Nam C\u01B0\u01A1ng D\u01B0\u1EE3c S\u01B0 H\u1ED9i', 'Ph\u1EBF \u0110\u1ED9c \u0110\u01B0\u1EDDng',
+            '\u0110\u1ED9c Long B\u1EA3o', 'C\u1EF1 Linh T\u00F4ng',
+            'Tr\u00EDch Tinh L\u00E2u', 'Huy\u1EBFt S\u00E1t Minh',
+            '\u0110\u1EA1i C\u00E0n Ho\u00E0ng Tri\u1EC1u', 'B\u1EA1ch C\u1ED1t H\u1ED9i',
+            'C\u1EEDu U Ma T\u00F4ng', 'Th\u00E1i \u1EA4t M\u00F4n',
+            'Ti\u00EAn C\u1EA7m Vi\u1EC7n', 'V\u1EA1n Ph\u00E1p Th\u01B0 Qu\u00E1n'
+        ],
+        'arc2': [
+            'B\u0103ng Ng\u1EE5c \u0110\u00E0o Vong Gi\u1EA3', 'S\u01B0\u01A1ng Ma Uy\u1EC3n',
+            'Tuy\u1EBFt Li\u00EAn D\u01B0\u1EE3c Ph\u01B0\u1EDDng', 'H\u00E0n Ki\u1EBFm C\u1ED1c',
+            'C\u1EF1c Quang Th\u1EA7n \u0110i\u1EC7n', 'Phong S\u00E1t C\u1ED1c',
+            'Huy\u1EC1n B\u0103ng Cung (Cung Ch\u1EE7)',
+            'B\u0103ng Ng\u1EE5c Th\u00E0nh', 'B\u0103ng Lang B\u1ED9 L\u1EA1c',
+            '\u0110\u1EA1i B\u00E0ng Tuy\u1EBFt \u0110\u00E0n', 'H\u00E0n \u01AFng B\u1ED9 L\u1EA1c',
+            'Tuy\u1EBFt Trung C\u00F4 Vi\u1EC7n', 'H\u00E0n Ph\u1ECBnh Truy\u1EC1n Tin \u0110\u1ED9i',
+            'B\u0103ng Nguy\u00EAn Khai Hoang \u0110\u1ED9i', 'H\u00E0n D\u00E2n H\u1ED9 V\u1EC7 \u0110\u1ED9i',
+            'H\u00E0n Tinh Quan Tr\u1EAFc \u0110\u00E0i', 'Huy\u1EBFt Th\u1EA3o \u0110\u01B0\u1EDDng',
+            'Ph\u00E1 B\u0103ng Th\u01B0\u01A1ng \u0110\u1ED9i', 'B\u0103ng S\u01A1n Th\u1EE3 \u0110\u00E1',
+            'B\u0103ng T\u1EB1m Ti Ph\u01B0\u1EDDng', 'B\u0103ng Nguy\u00EAn T\u00E1n Tu H\u1ED9i',
+            'B\u0103ng Lang T\u00E0n \u0110\u1ED9i', 'H\u00E0n \u0110\u1ED9c Vi Tr\u00F9ng \u0110o\u00E0n',
+            'B\u0103ng Tinh Khu\u1EA9n T\u1ED9c', 'Tuy\u1EBFt Hoa Vi Linh',
+            '\u0110\u1ED9c Tr\u00F9ng Tr\u1ECB Li\u1EC7u \u0110\u01B0\u1EDDng',
+            'Tuy\u1EBFt C\u1EF1 Nh\u00E2n \u0110\u1EA3o', 'Tuy\u1EBFt C\u1EF1 Nh\u00E2n L\u1EA1c \u0110o\u00E0n',
+            'Phi\u00EAu Mi\u1EC5u B\u0103ng H\u1EA3i',
+            'B\u1EAFc Phong Th\u00F4ng T\u00EDn Tr\u1EA1m'
+        ],
+        'arc3': [
+            'Ngo\u1EA1i M\u00F4n \u0110\u1EC7 T\u1EED Li\u00EAn Minh', 'B\u00E1n Y\u00EAu Th\u00F4n',
+            'Hoang D\u00E3 Th\u1EE3 S\u0103n Bang', 'M\u1EADt L\u00E2m Th\u1EE3 S\u0103n H\u1ED9i',
+            'Linh Th\u00FA M\u1EE5c Tr\u01B0\u1EDDng', 'Th\u00FA Linh S\u01B0 H\u1ED9i',
+            'Th\u00FA Ng\u1EEF Th\u00F4ng D\u1ECBch H\u1ED9i',
+            'Y\u00EAu Th\u00FA C\u1EE9u H\u1ED9 \u0110o\u00E0n', 'Y\u00EAu Th\u00FA \u0110\u00F4ng Mi\u00EAn H\u1ED9i',
+            'M\u1ED9c Di\u1EC7p Th\u00F4n', 'H\u1ECFa Di\u1EC5m C\u00F4ng Ph\u01B0\u1EDDng',
+            'Th\u1EA1ch Linh Cung', 'Li\u00EAu D\u01B0\u01A1ng T\u00F4ng',
+            'V\u1EA1n Y\u00EAu Th\u00E0nh', 'V\u1EA1n Y\u00EAu Th\u00E0nh Ngo\u1EA1i Vi',
+            'Thi\u00EAn Y\u00EAu \u0110\u00ECnh', 'Ph\u01B0\u1EE3ng H\u1ECFa T\u1ED9c',
+            'D\u1EA1 C\u00FA T\u1ED9c', '\u1EA2o \u1EA2nh L\u00E2m T\u1ED9c',
+            'L\u00E2m \u0110i\u1EC3u T\u1ED9c',
+            'H\u1EAFc Tinh Linh L\u01B0u \u0110\u00E0y', 'Tinh Linh T\u1ED9c (V\u0129nh H\u1EB1ng S\u00E2m L\u00E2m)',
+            'Tinh Linh V\u01B0\u01A1ng \u0110\u00ECnh', 'Du M\u1EE5c Tinh Linh',
+            'L\u1EA1c Di\u1EC7p Tinh Linh', 'H\u1ED7n Huy\u1EBFt Tinh Linh H\u1ED9i',
+            'B\u00E1n Tinh Linh H\u1ED9i',
+            'Ho\u00E0ng T\u1EC1n C\u1EE9u H\u1ED9 \u0110\u1ED9i', 'Tr\u00F9ng C\u1ED1c T\u00E0n Binh',
+            'Ph\u1EBF Linh C\u00E1c', 'Ph\u1EBF Kh\u00ED Luy\u1EC7n \u0110an Ph\u01B0\u1EDDng',
+            'Luy\u1EC7n Kh\u00ED \u0110\u1EA1i S\u01B0 H\u1ED9i'
+        ],
+        'arc4': [
+            'Thi\u00EAn Tr\u1EE5 H\u1ED9 V\u1EC7 \u0110o\u00E0n', 'Thi\u00EAn Ki\u00EAu H\u1ECDc Vi\u1EC7n',
+            '\u1EA4u Long H\u1ECDc Vi\u1EC7n', 'Thi\u00EAn M\u1ED9c Th\u00E0nh',
+            'Thi\u00EAn M\u00F4n K\u00EDnh \u0110\u00E0i', 'Thi\u00EAn S\u01A1n \u0110\u00F4ng C\u1ED1c',
+            'C\u1ED5 Th\u1EE5 Th\u1EE7 H\u1ED9 \u0110o\u00E0n', 'C\u1ED5 Th\u1EE5 T\u1EBF T\u1EF1 \u0110o\u00E0n',
+            'Th\u1EA7n M\u1ED9c K\u00FD Sinh T\u1ED9c', 'M\u1ED9c Tinh Linh C\u00F4ng Nh\u00E2n',
+            'T\u1EB1m Ti D\u1EC7t Ph\u01B0\u1EDDng', 'L\u00F4ng V\u0169 Ph\u01B0\u1EDDng',
+            'B\u00E1ch Ngh\u1EC7 Ph\u01B0\u1EDDng T\u1ED5ng \u0110\u00E0n',
+            'B\u00E1n C\u1EF1 Nh\u00E2n H\u1ED9i', 'Ti\u1EC3u C\u1EF1 Nh\u00E2n \u0110o\u00E0n',
+            'C\u1EF1 T\u1ED9c \u0110\u00F4ng Mi\u00EAn Th\u1EE7 V\u1EC7', 'C\u1EF1 T\u1ED9c Phu Khu\u00E2n V\u00E1c',
+            'C\u1EF1 T\u1ED9c Th\u1EE3 X\u00E2y', 'S\u01A1n C\u1ED1c C\u1EF1 T\u1ED9c \u1EA8n S\u0129',
+            'C\u1ED5 T\u00EDch C\u1EF1 Nh\u00E2n Th\u1EE9c T\u1EC9nh',
+            'Th\u1EA1ch Linh \u0110\u1ED3ng T\u1EED H\u1ED9i', 'Th\u1EA1ch T\u01B0\u1EE3ng Th\u1EE7 V\u1EC7',
+            'Th\u1EA1ch T\u00E2m Th\u1EE7 H\u1ED9 \u0110o\u00E0n',
+            'Nham Th\u1EA1ch Ti\u1EC3u \u0110\u1ED9i',
+            'C\u1ED5 Nham B\u1ED9 L\u1EA1c',
+            'Huy\u1EBFt H\u1ED5 H\u1EA1 Ch\u00FAng',
+            'B\u1EA1ch H\u1ED3 \u1EA8n T\u1ED9c', 'Linh H\u1ED3 T\u00E0n T\u1ED9c',
+            'Thi\u1EBFt Gi\u00E1p Y\u00EAu Th\u00FA \u0110\u00E0n',
+            'Ho\u1EA3 D\u00E3 Y\u00EAu Li\u00EAn', 'H\u1ECFa Y\u00EAu T\u00E0n \u0110o\u00E0n',
+            'H\u1ED7n Huy\u1EBFt Y\u00EAu \u0110o\u00E0n', 'C\u1ED5 Y\u00EAu Th\u1EE9c T\u1EC9nh H\u1ED9i',
+            'S\u00F3ng Vi Ba Li\u00EAn L\u1EA1c',
+            '\u0110\u01B0\u1EDDng L\u00FD Truy\u1EC1n Th\u01B0 C\u00E1c',
+            'Thi\u00EAn L\u00FD Truy\u1EC1n Th\u01B0 C\u00E1c'
+        ],
+        'arc5': [
+            'Th\u00E2m H\u1EA3i Vi Linh', 'San H\u00F4 Vi Tr\u00F9ng',
+            'Long Cung', 'H\u1EA3i Th\u1EA7n Cung',
+            'C\u1EF1 K\u00ECnh B\u1EA3o', 'K\u00ECnh Ng\u01B0 B\u1ED9 L\u1EA1c',
+            'Giao Long L\u01B0u Vong', 'Ph\u1EA3n Lo\u1EA1n Long T\u1EED',
+            'T\u1EA1p Huy\u1EBFt Long \u0110\u00E0n', 'Giao Nh\u00E2n T\u1ED9c Li\u00EAn Minh',
+            'Giao Nh\u00E2n B\u1EA7n D\u00E2n',
+            'Ti\u1EC3u Ng\u01B0 Nh\u00E2n Th\u00F4n', 'Ng\u01B0 D\u00E2n Tu Luy\u1EC7n H\u1ED9i',
+            'Gi\u00E1p X\u00E1c Li\u00EAn Minh', 'Th\u1EE7y M\u1EABu Tr\u00F9ng \u0110\u00E0n',
+            'San H\u00F4 \u0110\u1EA3o Qu\u1ED1c', 'San H\u00F4 Th\u1EE7 H\u1ED9 \u0110o\u00E0n',
+            'San H\u00F4 Th\u1EE3 L\u1EB7n \u0110\u1ED9i',
+            'H\u1EA3i T\u1EA3o N\u00F4ng D\u00E2n H\u1ED9i', 'H\u1EA3i Th\u1EA3o D\u01B0\u1EE3c S\u01B0',
+            'H\u1EA3i Mi\u00EAn Tr\u00F9ng X\u00E3', 'H\u1EA3i Khu\u1EA9n T\u1ECBnh H\u00F3a \u0110\u1ED9i',
+            'H\u1EA3i Tr\u00F9ng \u0110o\u00E0n', 'H\u1EA3i Quy Tr\u01B0\u1EDFng L\u00E3o H\u1ED9i',
+            'H\u1EA3i Long M\u00E3 \u0110o\u00E0n', 'H\u1EA3i \u0110i\u1EC3u H\u1ED9i',
+            'H\u1EA3i Y\u00EAu M\u00EA Cung', '\u0110\u1EA3o Qu\u1ED1c T\u1EF1 Tr\u1ECB H\u1ED9i',
+            'Th\u1EE7y Ki\u1EBFm \u0110\u1EA3o', '\u0110\u1ED9c \u0110\u1EA3o L\u01B0u D\u00E2n',
+            'Th\u01B0\u1EE3ng H\u1ED9i B\u1EA1ch Lang', 'H\u1EAFc H\u1EA3i H\u1EA3i T\u1EB7c',
+            'H\u1EA3i T\u1EB7c T\u00E0n D\u01B0', 'L\u01B0u Vong Thuy\u1EC1n \u0110\u1ED9i',
+            'Thuy\u1EC1n Nh\u00E2n H\u1ED9 V\u1EC7 \u0110\u1ED9i',
+            'Th\u00E2m H\u1EA3i Th\u00E1m Hi\u1EC3m \u0110o\u00E0n',
+            'Phi\u00EAu L\u01B0u \u0110\u1EA3o Li\u00EAn Minh',
+            'Tri\u1EC1u T\u1ECBch Quan Tr\u1EAFc \u0110\u00E0i',
+            'Th\u1EE7y Ngu\u1ED3n B\u1EA3o V\u1EC7 \u0110o\u00E0n',
+            'Th\u1EE7y Tinh Th\u1EA1ch Ph\u01B0\u1EDDng',
+            'Ng\u1ECDc Trai S\u00E2u Ph\u01B0\u1EDDng',
+            'C\u1ED5 Th\u1EA1ch B\u1ED9 L\u1EA1c T\u00E2y M\u1EA1c', 'C\u1ED5 Th\u1EA1ch B\u1ED9 L\u1EA1c',
+            'Sa M\u1EA1c H\u01B0\u1EDBng \u0110\u1EA1o H\u1ED9i',
+            'Ho\u00E0ng Sa C\u1ED5 Qu\u1ED1c', 'Ho\u00E0ng Sa Di D\u00E2n',
+            'Sa T\u1EB7c Li\u00EAn Minh', 'Sa \u01AEng \u0110o\u00E0n',
+            'Th\u1EA7n Cung B\u1EAFn Sa', '\u0110\u1EA1i M\u1EA1c G\u00E1c \u0110\u00EAm',
+            'Thi\u00EAn Sa Th\u01B0\u01A1ng H\u1ED9i',
+            'Sa M\u1EA1c Sinh T\u1ED3n \u0110o\u00E0n', 'Sa M\u1EA1c Y\u00EAu H\u1ED3',
+            'Sa C\u1EF1 Nh\u00E2n B\u1ED9 L\u1EA1c', 'C\u1ED5 Sa Y\u00EAu T\u1ED9c',
+            'Sa Th\u1EA1ch Du M\u1EE5c', 'Sa Th\u1EA1ch L\u01B0u D\u00E2n',
+            'L\u01B0u Sa \u0110\u00E0o Binh', 'L\u01B0u Sa Huy\u1EC5n \u1EA2o',
+            '\u1ED0c \u0110\u1EA3o H\u1ED9 V\u1EC7 \u0110\u1ED9i', '\u1ED0c \u0110\u1EA3o Vi Linh',
+            'Kim Sa T\u1EF1', 'Kim Sa Th\u1EE3 M\u1ECF H\u1ED9i', 'Kim Sa Vi M\u1EA1ch',
+            'Sa Tr\u00F9ng Vi T\u1ED9c',
+            'Ng\u1ECDc Th\u1EA1ch Th\u1EE3 M\u1ECF',
+            'Ph\u01B0\u01A1ng V\u00F4 K\u1ECB',
+            'L\u01B0u Vong Ki\u1EBFm Kh\u00E1ch \u0110o\u00E0n',
+            'S\u01B0\u01A1ng Kh\u00F3i L\u1EEF \u0110o\u00E0n',
+            'Phi\u00EAu B\u1EA1t Kh\u00E1ch S\u1EA1n Li\u00EAn Minh',
+            'V\u00F4 Tranh T\u1EF1',
+            '\u0110\u00F4ng Hoang',
+            '\u0110\u1EA1i \u0110\u1ECBa H\u00E0nh Gi\u1EA3',
+            '\u0110\u1ECBa M\u1EA1ch Th\u00E1m Hi\u1EC3m \u0110\u1ED9i',
+            '\u0110\u1ECBa T\u00E2m Th\u00E1m Hi\u1EC3m \u0110\u1ED9i',
+            'Phong H\u00F3a Gi\u1EA3 H\u1ED9i',
+            'B\u00E0o T\u1EED M\u1EADt L\u00E2m T\u1ED9c', 'B\u00E0o T\u1EED Tuy\u1EBFt Li\u00EAn Minh',
+            'Linh Khu\u1EA9n D\u01B0\u1EE3c Vi\u00EAn', 'N\u1EA5m Linh M\u1EA1ng L\u01B0\u1EDBi',
+            'Phong Sa B\u00E0o T\u1EED',
+            'D\u01B0\u1EE3c Th\u1EA3o Tinh Linh Vi\u1EC7n',
+            'Ph\u00F9 Du Linh \u0110o\u00E0n', 'M\u1EADt Ong Linh \u0110o\u00E0n',
+            'M\u1EADt Phong Linh \u0110\u00E0n',
+            'C\u1ED5 K\u00E9n Tu Luy\u1EC7n X\u00E3',
+            'Phi\u00EAn Phi\u1EBFu Trinh S\u00E1t',
+            'B\u1EE5i Ph\u1EA5n H\u1ED9i',
+            'K\u00FD Sinh Li\u00EAn Minh', 'Ph\u1EA3n S\u00E0o Tr\u00F9ng Qu\u1EA7n',
+            'Linh Tr\u1EA7n Vi T\u1ED9c', 'Linh Sa Khu\u1EA9n \u0110o\u00E0n',
+            'Vi Tr\u00F9ng Trinh S\u00E1t \u0110\u1ED9i',
+            'V\u1EA1n T\u01B0\u1EE3ng S\u00E2m La',
+            'Phong V\u0169 Trinh S\u00E1t \u0110\u1ED9i', 'Phong B\u1EA1o Th\u01B0\u01A1ng \u0110\u1ED9i',
+            '\u0110o\u1EA3n D\u1EF1c L\u1EA1c \u0110o\u00E0n',
+            'Tr\u1EE5c Kh\u00E1ch \u0110\u01B0\u1EDDng',
+            'L\u00F4i Tr\u00EC Th\u00E1nh \u0110\u1ECBa',
+            'T\u1EED Vong Chi Thung L\u0169ng',
+            'V\u0169 T\u1ED9c L\u01B0u D\u00E2n Tr\u1EA1i', 'Vu T\u1ED9c Chi\u1EBFu C\u00E1o',
+            'Qu\u1EF7 Nhai H\u1ED9i',
+            'Ph\u00E0o \u0110\u00E0i Xanh H\u1ED9i',
+            'C\u1ED5 T\u00EDch Th\u00E1m Hi\u1EC3m \u0110o\u00E0n',
+            '\u0110\u1ED9c L\u1EADp',
+            'L\u1EE5c M\u00E3ng H\u1EA1 T\u1ED9c',
+            'B\u00E1n Th\u1EA1ch C\u1EF1 Nh\u00E2n'
+        ]
+    };
+
+    // Build a lookup: factionName (normalized) -> earliest arc index
+    var factionArcIndex = {};
+    var arcKeys = ['arc1', 'arc2', 'arc3', 'arc4', 'arc5'];
+    for (var ai = 0; ai < arcKeys.length; ai++) {
+        var arcFactions = arcFactionMap[arcKeys[ai]] || [];
+        for (var af = 0; af < arcFactions.length; af++) {
+            var normFac = normalizeStr(arcFactions[af]);
+            if (factionArcIndex[normFac] === undefined) {
+                factionArcIndex[normFac] = ai; // 0-based arc index
+            }
+        }
+    }
+
+    var currentArc = 'arc_all';
+    var arcSliderContainer = document.getElementById('arc-slider-container');
+    var arcSliderInner = document.getElementById('arc-slider-inner');
+    var arcSliderTrack = document.getElementById('arc-slider-track');
+    var arcSliderFill = document.getElementById('arc-slider-fill');
+
+    // Create arc markers and thumb
+    function buildArcSlider() {
+        // Remove existing markers/thumb
+        var existingMarkers = arcSliderInner.querySelectorAll('.arc-marker, .arc-slider-thumb, .arc-slider-current');
+        for (var em = 0; em < existingMarkers.length; em++) {
+            existingMarkers[em].parentNode.removeChild(existingMarkers[em]);
+        }
+
+        for (var ai2 = 0; ai2 < arcs.length; ai2++) {
+            var pct = (ai2 / (arcs.length - 1)) * 100;
+            var marker = document.createElement('div');
+            marker.className = 'arc-marker' + (arcs[ai2].id === currentArc ? ' active' : '');
+            marker.style.left = pct + '%';
+            marker.setAttribute('data-arc', arcs[ai2].id);
+            marker.setAttribute('title', arcs[ai2].desc);
+
+            var label = document.createElement('div');
+            label.className = 'arc-marker-label';
+            label.textContent = arcs[ai2].name;
+            marker.appendChild(label);
+
+            arcSliderInner.appendChild(marker);
+        }
+
+        // Thumb
+        var thumb = document.createElement('div');
+        thumb.className = 'arc-slider-thumb';
+        thumb.id = 'arc-slider-thumb';
+        arcSliderInner.appendChild(thumb);
+
+        // Current arc label
+        var currentLabel = document.createElement('div');
+        currentLabel.className = 'arc-slider-current';
+        currentLabel.id = 'arc-slider-current-label';
+        arcSliderInner.appendChild(currentLabel);
+
+        updateArcSliderPosition();
+    }
+
+    function getArcIndex(arcId) {
+        for (var i = 0; i < arcs.length; i++) {
+            if (arcs[i].id === arcId) return i;
+        }
+        return arcs.length - 1;
+    }
+
+    function updateArcSliderPosition() {
+        var idx = getArcIndex(currentArc);
+        var pct = (idx / (arcs.length - 1)) * 100;
+        var thumb = document.getElementById('arc-slider-thumb');
+        var currentLabel = document.getElementById('arc-slider-current-label');
+
+        if (thumb) {
+            thumb.style.left = pct + '%';
+        }
+        arcSliderFill.style.width = pct + '%';
+
+        if (currentLabel) {
+            currentLabel.style.left = pct + '%';
+            currentLabel.textContent = arcs[idx].name;
+        }
+
+        // Update marker active states
+        var markers = arcSliderInner.querySelectorAll('.arc-marker');
+        for (var m = 0; m < markers.length; m++) {
+            var markerArc = markers[m].getAttribute('data-arc');
+            if (markerArc === currentArc) {
+                markers[m].classList.add('active');
+            } else {
+                markers[m].classList.remove('active');
+            }
+        }
+    }
+
+    function filterByArc(arcId) {
+        currentArc = arcId;
+        updateArcSliderPosition();
+
+        var arcIdx = getArcIndex(arcId);
+        var isAll = (arcId === 'arc_all');
+
+        // Filter character nodes
+        for (var ni = 0; ni < nodes.length; ni++) {
+            var nd = nodes[ni];
+            if (isAll) {
+                nd.arcVisible = true;
+            } else {
+                var fac = normalizeStr(nd.character.faction || '');
+                var facArcIdx = factionArcIndex[fac];
+                // Characters appear if their faction's arc index <= current arc index
+                // If faction is not mapped, show it only in arc_all
+                nd.arcVisible = (facArcIdx !== undefined && facArcIdx <= arcIdx);
+            }
+        }
+
+        // Filter faction nodes
+        for (var fi = 0; fi < factionNodes.length; fi++) {
+            var fn = factionNodes[fi];
+            if (isAll) {
+                fn.arcVisible = true;
+            } else {
+                var fnFac = normalizeStr(fn.name || '');
+                var fnArcIdx = factionArcIndex[fnFac];
+                fn.arcVisible = (fnArcIdx !== undefined && fnArcIdx <= arcIdx);
+            }
+        }
+
+        // Apply combined visibility (arc + region filters)
+        updateCombinedVisibility();
+
+        // Reheat simulation for re-layout
+        simCooling = Math.max(simCooling, 0.5);
+        simIterations = Math.min(simIterations, maxIterations - 200);
+    }
+
+    function updateCombinedVisibility() {
+        for (var i = 0; i < nodes.length; i++) {
+            var nd = nodes[i];
+            var regionOk = activeRegions[normalizeStr(nd.character.region)] !== false;
+            var arcOk = nd.arcVisible !== false;
+            nd.visible = regionOk && arcOk;
+        }
+        for (var j = 0; j < factionNodes.length; j++) {
+            var fn = factionNodes[j];
+            var fnRegion = normalizeStr(fn.region);
+            var fnRegionOk = activeRegions[fnRegion] !== false;
+            if (!fnRegion) fnRegionOk = true;
+            var fnArcOk = fn.arcVisible !== false;
+            fn.visible = fnRegionOk && fnArcOk;
+        }
+    }
+
+    // Slider interaction: clicking markers
+    arcSliderInner.addEventListener('click', function(e) {
+        var marker = e.target.closest('.arc-marker');
+        if (marker) {
+            var arcId = marker.getAttribute('data-arc');
+            if (arcId) filterByArc(arcId);
+            return;
+        }
+
+        // Clicking on track also sets position
+        if (e.target === arcSliderTrack || e.target === arcSliderFill) {
+            var rect = arcSliderTrack.getBoundingClientRect();
+            var relX = e.clientX - rect.left;
+            var pct = relX / rect.width;
+            var nearestIdx = Math.round(pct * (arcs.length - 1));
+            nearestIdx = Math.max(0, Math.min(arcs.length - 1, nearestIdx));
+            filterByArc(arcs[nearestIdx].id);
+        }
+    });
+
+    // Thumb drag
+    var thumbDragging = false;
+    arcSliderInner.addEventListener('mousedown', function(e) {
+        if (e.target.id === 'arc-slider-thumb') {
+            thumbDragging = true;
+            e.target.classList.add('dragging');
+            e.preventDefault();
+        }
+    });
+
+    document.addEventListener('mousemove', function(e) {
+        if (!thumbDragging) return;
+        var rect = arcSliderTrack.getBoundingClientRect();
+        var relX = e.clientX - rect.left;
+        var pct = relX / rect.width;
+        var nearestIdx = Math.round(pct * (arcs.length - 1));
+        nearestIdx = Math.max(0, Math.min(arcs.length - 1, nearestIdx));
+        if (arcs[nearestIdx].id !== currentArc) {
+            filterByArc(arcs[nearestIdx].id);
+        }
+    });
+
+    document.addEventListener('mouseup', function() {
+        if (thumbDragging) {
+            thumbDragging = false;
+            var thumb = document.getElementById('arc-slider-thumb');
+            if (thumb) thumb.classList.remove('dragging');
+        }
+    });
+
+    // Touch support for thumb
+    arcSliderInner.addEventListener('touchstart', function(e) {
+        if (e.target.id === 'arc-slider-thumb') {
+            thumbDragging = true;
+            e.target.classList.add('dragging');
+            e.preventDefault();
+        }
+    }, { passive: false });
+
+    document.addEventListener('touchmove', function(e) {
+        if (!thumbDragging) return;
+        var touch = e.touches[0];
+        var rect = arcSliderTrack.getBoundingClientRect();
+        var relX = touch.clientX - rect.left;
+        var pct = relX / rect.width;
+        var nearestIdx = Math.round(pct * (arcs.length - 1));
+        nearestIdx = Math.max(0, Math.min(arcs.length - 1, nearestIdx));
+        if (arcs[nearestIdx].id !== currentArc) {
+            filterByArc(arcs[nearestIdx].id);
+        }
+    }, { passive: true });
+
+    document.addEventListener('touchend', function() {
+        if (thumbDragging) {
+            thumbDragging = false;
+            var thumb = document.getElementById('arc-slider-thumb');
+            if (thumb) thumb.classList.remove('dragging');
+        }
+    });
+
+    // Override updateNodeVisibility to respect arc filter
+    var origUpdateNodeVisibility = updateNodeVisibility;
+    updateNodeVisibility = function() {
+        origUpdateNodeVisibility();
+        // Re-apply arc filter on top
+        if (currentArc !== 'arc_all') {
+            updateCombinedVisibility();
+        }
+    };
+
+    // Update sidebar collapsed class listener for slider offset
+    var origSidebarToggleHandler = null;
+    (function() {
+        var observer = new MutationObserver(function(mutations) {
+            for (var mi2 = 0; mi2 < mutations.length; mi2++) {
+                if (mutations[mi2].attributeName === 'class') {
+                    if (sidebar.classList.contains('collapsed')) {
+                        arcSliderContainer.style.left = '0';
+                    } else {
+                        arcSliderContainer.style.left = '260px';
+                    }
+                }
+            }
+        });
+        observer.observe(sidebar, { attributes: true });
+        // Set initial state
+        if (sidebar.classList.contains('collapsed')) {
+            arcSliderContainer.style.left = '0';
+        }
+    })();
+
+    buildArcSlider();
 
     // ─── Ambient particles ───
     var ambEl = document.getElementById('ambient-particles');
