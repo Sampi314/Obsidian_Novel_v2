@@ -96,6 +96,15 @@ arcs:
           tin: 55
           so: 0
           on: 30
+      - character: Vu Thiên Hương
+        description: Đại Trưởng Lão Tế Tư, sư phụ mà bà kính yêu nhất, coi như mẹ ruột
+        feelings:
+          yeu: 70
+          han: 0
+          kinh: 60
+          tin: 75
+          so: 0
+          on: 55
 ---
 
 # HỒ SƠ NHÂN VẬT: TUYẾT NGUYỆT (雪月)
@@ -124,6 +133,7 @@ Tuyết Nguyệt tinh thông Cổ Nguyệt Tâm Kinh (古月心經) đến cản
 - **Linh Nguyệt Hà:** Trưởng Lão Tế Tư, người nắm giữ bí thuật tử linh quý giá, bà tôn trọng tài năng đặc thù của Linh Nguyệt Hà.
 - **Mộng Yểm:** Trưởng Lão Tế Tư, hay phản biện nhưng bà đánh giá cao sự thẳng thắn và trí tuệ sắc bén của ông.
 - **Nguyệt Trầm:** Trưởng Lão Tế Tư, tài năng huyễn thuật đáng quý nhưng bà nhận thấy ông thiếu bản lĩnh quyết đoán.
+- **Vu Thiên Hương:** Đại Trưởng Lão Tế Tư, sư phụ mà bà kính yêu nhất, coi như mẹ ruột.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Tuyết Nguyệt sinh ra trong dòng dõi vu nữ lâu đời nhất của Cổ Nguyệt Thần Giáo, từ nhỏ đã được chọn làm Thánh Nữ nhờ thể chất đặc thù hấp thụ nguyệt quang. Sau khi vị Đại Tư Tế tiền nhiệm qua đời trong một cuộc xung đột với Vạn Độc Môn, bà kế vị ở tuổi hai mươi lăm và nhanh chóng ổn định lòng dân bằng tài lãnh đạo thiên bẩm. Dưới thời bà, giáo phái chuyển sang chiến lược biệt lập, tránh xa các cuộc tranh chấp bên ngoài để tập trung tu luyện và bảo tồn bí thuật cổ đại. Bí mật lớn nhất của Tuyết Nguyệt là bà đang dần mất đi khả năng giao tiếp với Cổ Nguyệt Thần, điều mà bà giấu kín để không gây hoang mang trong giáo phái.

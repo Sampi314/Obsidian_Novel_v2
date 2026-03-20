@@ -36,6 +36,24 @@ arcs:
           tin: 55
           so: 5
           on: 10
+      - character: Tinh Hà
+        description: Lâu Chủ, bậc tiền bối âm thầm bảo vệ và kỳ vọng
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 50
+          tin: 60
+          so: 10
+          on: 15
+      - character: Tinh Thần
+        description: Đồng liêu cùng thế hệ, tri kỷ nghiên cứu thân thiết nhất
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 30
+          tin: 70
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: BẠCH QUANG NIÊN (白光年)
