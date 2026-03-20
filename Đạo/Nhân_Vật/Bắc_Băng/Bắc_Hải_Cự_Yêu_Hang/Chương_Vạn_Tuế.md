@@ -67,6 +67,33 @@ arcs:
           tin: 80
           so: 40
           on: 70
+      - character: Chương Băng Hải
+        description: Trinh sát trung thành, nhận lệnh tuần tra bảo vệ vùng biển
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 0
+          tin: 50
+          so: 0
+          on: 0
+      - character: Sa Cổ Hải Thú
+        description: Cự ngư trong hang, phục tùng nhưng cần giám sát
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 10
+          tin: 40
+          so: 0
+          on: 0
+      - character: Sa Hàn Cổ Thiên
+        description: Canh gác vòng ngoài, tuần tra biên giới hang ổ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 40
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CHƯƠNG VẠN TUẾ (章萬歲)

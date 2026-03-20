@@ -65,6 +65,33 @@ arcs:
           tin: 50
           so: 60
           on: 30
+      - character: Sa Hàn Cổ Thiên
+        description: Cá mập canh gác, hay đùa nhưng để mặc
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 0
+          tin: 20
+          so: 0
+          on: 0
+      - character: Sa Cổ Hải Thú
+        description: Cự ngư hung dữ, hay quấy rối nhưng không dám đuổi
+        feelings:
+          yeu: 10
+          han: 10
+          kinh: 20
+          tin: 20
+          so: 30
+          on: 0
+      - character: Xà Hải Mãng Vương
+        description: Hải xà đáng sợ trong hang, tránh xa
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 30
+          tin: 10
+          so: 40
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CHƯƠNG TIỂU VẠN (章小萬)
