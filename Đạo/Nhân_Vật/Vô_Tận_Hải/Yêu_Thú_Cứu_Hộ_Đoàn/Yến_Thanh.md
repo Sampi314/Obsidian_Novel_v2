@@ -115,6 +115,9 @@ Gần đây, nàng là người phát hiện con Hỏa Lân nằm trong khe đá
     - Kỹ năng né tránh bẩm sinh. Khi bị tấn công trên không, nàng có thể thay đổi hướng bay đột ngột ở góc gần như vuông — chuyển động mà loài chim lớn không thể bắt chước. Kết hợp với tốc độ, nàng gần như bất khả xâm phạm trên không. Thợ săn Mật Lâm đã cố bắn nàng nhiều lần — không mũi tên nào chạm được lông cánh.
 
 ## VI. QUAN HỆ
+- **Hùng Từ Bi** (Cấp dưới): Phó Đoàn trung thành, cánh tay phải đáng tin cậy nhất
+- **Hổ Thiết Chưởng** (Gia tộc): Phó Đoàn, đối tác trinh sát-cứu hộ, con yến nhỏ nhưng đáng sợ khi mắng
+- **Miêu Nhược Nhược** (Đồng minh): Phó Đoàn, bạn thân, con yến hay la mắng nhưng lén để thuốc bồi bổ cho mình
 - **Hùng Từ Bi (熊慈悲):**
     - Đoàn Trưởng, ân nhân cứu mạng, người cha trong tâm. Yến Thanh kính trọng và biết ơn Hùng Từ Bi sâu sắc — không phải kiểu biết ơn treo trên miệng, mà là kiểu khắc vào xương. Nàng tận tụy bay trinh sát mỗi ngày không phải vì nhiệm vụ, mà vì nàng muốn trả ơn bằng cách làm tốt nhất phần việc của mình — để gánh nặng trên vai con gấu già bớt đi một chút. Nhưng nàng lo: Hùng Từ Bi già đi trông thấy, mệt đi trông thấy, và giấu ngày càng nhiều bí mật. Nàng biết về con Hỏa Lân, nhưng nàng nghi rằng còn nhiều thứ khác Đoàn Trưởng chưa nói.
 - **Miêu Nhược Nhược (猫弱弱):**
@@ -123,7 +126,6 @@ Gần đây, nàng là người phát hiện con Hỏa Lân nằm trong khe đá
     - Cứu hộ viên chính, đối tác phối hợp tốt nhất. Yến Thanh phát hiện, Hổ Thiết Chưởng đến cứu — hai kẻ đã phối hợp vô số lần. Nàng tôn trọng gã hổ: một con hổ sinh ra để săn mồi mà chọn cứu sinh vật khác — sự giằng xé bên trong gã không ai hiểu rõ hơn nàng, vì nàng cũng từng giằng xé giữa bản năng yến (bay đi, tránh nguy hiểm) và lựa chọn ở lại. Nàng tin tưởng sức mạnh và tấm lòng của gã, nhưng đôi khi nhắc nhở: "Nhẹ tay. Mày mạnh quá, nó sợ."
 - **Mật Lâm Thợ Săn Hội:**
     - Đối tượng giám sát hàng ngày. Nàng biết mặt, biết tên, biết thói quen của từng thợ săn hoạt động gần ranh giới. Nàng không ghét họ một cách mù quáng — nàng hiểu thợ săn cũng cần sống — nhưng nàng không tin họ. Thỏa thuận ngừng bắn với Hùng Từ Bi mong manh lắm, và nàng là người duy nhất theo dõi xem nó có bị vi phạm không. Nàng đã ghi nhận ba lần thợ săn vượt ranh giới trong năm qua — chưa nói cho Đoàn Trưởng vì chưa chắc có cố ý hay không.
-
 ## VII. GIAI THOẠI
 
 > *"Ta bay mỗi ngày không phải vì ta thích bay. Ta bay vì nếu ta dừng lại, sẽ có con gì đó chết mà không ai biết. Nó sẽ nằm đó, một mình, trong rừng, chờ ai đó nhìn thấy. Ta không muốn nó chờ."*

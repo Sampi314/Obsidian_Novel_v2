@@ -115,6 +115,9 @@ Gần đây nhất — ba tháng trước — Yến Thanh trinh sát phát hiệ
     - Kỹ năng đặc biệt hình thành từ sáu mươi năm chữa trị linh thú hoang dã. Bằng cách điều chỉnh hơi thở, nhịp tim, và linh khí phát ra, Hùng Từ Bi có thể khiến linh thú hung dữ dần hạ cảnh giác, ngừng tấn công, thậm chí ngủ thiếp đi. Không phải mê hoặc hay khống chế tinh thần — chỉ đơn giản là sự bình tĩnh của gã có sức lây lan. Hiệu quả giảm mạnh với yêu thú tu vi cao hơn gã.
 
 ## VI. QUAN HỆ
+- **Yến Thanh** (Cấp dưới): Phó Đoàn trung thành, cánh tay phải đáng tin cậy nhất
+- **Miêu Nhược Nhược** (Đồng minh): Dược sư tài năng nhưng lười biếng, đứa nhỏ cần ai đó thúc đẩy
+- **Hổ Thiết Chưởng** (Đồng minh): Cứu hộ viên dũng cảm, nhìn thấy bóng dáng bản thân ngày trước trong gã
 - **Yến Thanh (燕清):**
     - Phó Đoàn, cánh tay phải, đôi mắt và đôi cánh của đoàn. Hùng Từ Bi tin tưởng Yến Thanh tuyệt đối — nàng là người duy nhất gã giao toàn quyền trinh sát mà không cần báo cáo chi tiết. Gã coi nàng như đứa con gái cả trong gia đình, nghiêm túc và đáng tin. Nhưng gã cũng lo: Yến Thanh làm việc quá sức, bay trinh sát từ sáng đến tối không nghỉ, gầy đi trông thấy. Gã muốn bảo nàng nghỉ ngơi nhưng biết nàng sẽ không nghe — tính nàng còn cứng đầu hơn cả gã.
 - **Miêu Nhược Nhược (猫弱弱):**
@@ -125,7 +128,6 @@ Gần đây nhất — ba tháng trước — Yến Thanh trinh sát phát hiệ
     - Ân nhân cứu mạng, người đặt tên cho gã, người để lại bộ kim châm vàng và mảnh ngọc hộ thể. Hùng Từ Bi không biết tên lão, không biết lão từ đâu đến, không biết lão còn sống hay đã chết. Nhưng mỗi khi cầm kim châm chữa trị, gã đều cảm thấy đôi tay mình không phải của mình — mà là của lão, đang tiếp tục cứu người qua gã. Đây là mối quan hệ sâu sắc nhất trong đời gã, dù chỉ kéo dài bảy ngày.
 - **Mật Lâm Thợ Săn Hội:**
     - Quan hệ căng thẳng nhưng có thỏa thuận ngừng bắn. Thợ săn không săn trong vùng suối ấm, đoàn cứu hộ không can thiệp vùng săn. Thỏa thuận này mong manh — dựa trên sự kiêng nể tu vi Trúc Cơ Hậu Kỳ của gã hơn là thiện chí thực sự. Gã biết nếu mình suy yếu, thỏa thuận sẽ tan.
-
 ## VII. GIAI THOẠI
 
 > *"Nó đang đau. Đau thì cứu. Mi hỏi nó là loài gì, thiện hay ác, có đáng cứu không — mi hỏi trong lúc nó đang chảy máu. Ta không có thời gian trả lời câu hỏi ngu ngốc."*

@@ -32,7 +32,8 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Huyết Ba** (Đồng minh): Đồng liêu cùng xuất thân Thủy Ma, hay cạnh tranh nhưng có chút tình đồng tộc
+- **Hắc Triều** (Đồng minh): Đồng liêu cùng Vực Thẳm Ma Cung, hỗ trợ lẫn nhau
+- **Ngư Quỷ Diện** (Đồng minh): Đồng liêu cùng Vực Thẳm Ma Cung, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
