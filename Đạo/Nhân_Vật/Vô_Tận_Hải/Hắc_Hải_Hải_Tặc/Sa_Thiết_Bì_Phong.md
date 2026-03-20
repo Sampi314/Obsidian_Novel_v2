@@ -32,9 +32,13 @@ Một chiến binh Cá Mập với làn da xám sẫm, dày và cứng như mộ
 Chuyên tu về công pháp cường hóa cơ thể đạt đến mức "đao thương bất nhập". Tuyệt kỹ "Thiết Bì Xung Chàng" (铁皮冲撞) cho phép hắn biến toàn bộ cơ thể thành một khối sắt khổng lồ lao thẳng vào đội hình đối phương, dùng sức nặng và độ cứng của lớp da để nghiền nát mọi sự kháng cự. Điểm mạnh là khả năng phòng ngự vật lý tuyệt đối và sức chịu đựng phi thường, nhưng điểm yếu là rất sợ các loại công pháp xuyên thấu hoặc tấn công trực tiếp vào thần thức.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Sa Cuồng Nha** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
+- **Sa Huyết Đao** (Sư đồ): Sa Huyết Đao chỉ dẫn Sa Thiết Bì Phong trong Hắc Hải Hải Tặc
+- **Sa Hàn Thiên Nha** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
+- **Sa Huyết Đao** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
+- **Sa Tiểu Bạch Nha** (Sư đồ): Sa Thiết Bì Phong chỉ dẫn Sa Tiểu Bạch Nha trong Hắc Hải Hải Tặc
 - **Sa Huyết Đao:** Vị vương mà hắn phục vụ, hắn luôn tự hào vì là lá chắn vững chắc nhất cho hạm đội của Sa Huyết Đao.
 - **Sa Tiểu Bạch Nha:** Người đàn em mà hắn thường xuyên bảo bọc trong các trận chiến khốc liệt.
 - **Giải Cự Kìm:** Hắn thường phối hợp với Giải Cự Kìm để tạo ra bộ đôi "giáp sắt và kìm thép" càn quét mọi chiến trường.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sa Thiết Bì Phong vốn sinh ra với một dị tật khiến lớp da cứng hơn bình thường gấp nhiều lần, điều này khiến hắn bị đồng tộc coi là quái vật. Sau khi bị trục xuất, hắn lang thang khắp nơi và rèn luyện lớp da của mình trong những luồng hải lưu áp suất cao nhất. Gia nhập Hắc Hải Hải Tặc, hắn nhanh chóng trở thành một đội trưởng cướp khét tiếng nhờ khả năng sống sót sau những đòn tấn công chí mạng. Hiện tại, hắn đang dẫn dắt một tiểu đội chuyên đảm nhận việc đánh chiếm các con tàu có hỏa lực mạnh nhất của đối phương.

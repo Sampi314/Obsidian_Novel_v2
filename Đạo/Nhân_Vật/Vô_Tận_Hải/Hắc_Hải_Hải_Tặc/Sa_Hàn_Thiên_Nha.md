@@ -32,9 +32,14 @@ Một gã Cá Mập có vóc dáng cao gầy nhưng cơ bắp săn chắc như d
 Chuyên tu về các công pháp hàn băng và kỹ thuật xử tử dứt điểm. Tuyệt kỹ "Hàn Thiên Nha Trảm" (寒千牙斩) cho phép hắn ngưng tụ hơi lạnh vào hàm răng, tạo ra một đòn cắn mang theo lực đóng băng linh lực, có thể khiến cổ họng đối phương vỡ vụn như thủy tinh chỉ trong một nhịp thở. Điểm mạnh là khả năng gây sát thương chí mạng và tâm lý chiến cực tốt, nhưng điểm yếu là phong cách chiến đấu quá đơn điệu, dễ bị bắt bài.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Sa Cuồng Nha** (Sư đồ): Sa Cuồng Nha chỉ dẫn Sa Hàn Thiên Nha trong Hắc Hải Hải Tặc
+- **Sa Cô Nha** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
+- **Sa Huyết Đao** (Chủ tớ): Thủ hạ trung thành trong Hắc Hải Hải Tặc
+- **Sa Huyết Đao** (Cấp dưới): Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc
+- **Sa Thiết Bì Phong** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
+- **Sa Tiểu Bạch Nha** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
 - **Sa Huyết Đao:** Chủ nhân mà hắn tuyệt đối trung thành, người trực tiếp ra lệnh cho hắn xử tử những kẻ phản bội.
 - **Sa Bạch Cốt:** Người thường xuyên cung cấp cho hắn những "dụng cụ" bằng xương để tăng hiệu quả cho các buổi hành quyết.
 - **Chương Huyết Mực Vương:** Đồng nghiệp thường phối hợp để thực hiện các màn tra tấn và xử tử công khai trên Đảo Xương Sọ.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sa Hàn Thiên Nha vốn là một quản ngục nghiêm khắc trong một nhà tù của Long Cung trước khi bị hãm hại và phải bỏ trốn. Hắn đã tìm thấy ý nghĩa cuộc đời mình trong việc trở thành đao phủ cho Hắc Hải Hải Tặc, nơi hắn có thể tự do thực thi "công lý" của kẻ mạnh. Với hắn, sự phản bội là tội lỗi duy nhất không thể dung thứ. Hiện tại, hắn là nỗi khiếp sợ của mọi thành viên trong liên minh, luôn âm thầm quan sát và sẵn sàng ra tay với bất kỳ ai có ý định làm phản.
