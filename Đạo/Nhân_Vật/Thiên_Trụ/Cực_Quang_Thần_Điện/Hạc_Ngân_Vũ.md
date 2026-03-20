@@ -34,9 +34,13 @@ Phong cách chiến đấu của hắn kết hợp hoàn hảo giữa năng lự
 - **Thiên Quang Thủ Ngự (天光守御):** Tạo ra một kết giới ánh sáng cực mạnh bảo vệ bản thân và đồng minh khỏi mọi đòn tấn công tà đạo.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hạc Minh Nguyệt** (Sư đồ): Hạc Ngân Vũ chỉ dẫn Hạc Minh Nguyệt trong Cực Quang Thần Điện
+- **Phượng Thiên Dực** (Chủ tớ): Thủ hạ trung thành trong Cực Quang Thần Điện
+- **Phượng Thiên Dực** (Cấp dưới): Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện
+- **Bằng Vạn Lý** (Đồng minh): Đồng liêu cùng Cực Quang Thần Điện
+- **Hạc Thanh Kiếm** (Sư đồ): Hạc Ngân Vũ chỉ dẫn Hạc Thanh Kiếm trong Cực Quang Thần Điện
 - **Thánh Nữ Cực Quang:** Đối tượng mà hắn tôn thờ và tuyệt đối phục tùng, sẵn sàng hiến dâng mạng sống để bảo vệ.
 - **Hạc Tường Vân:** Trưởng lão đồng tộc, người mà hắn kính trọng nhưng đôi lúc cũng cảm thấy quá siêu thoát so với hiện thực khốc liệt.
 - **Hạc Thanh Kiếm:** Hậu bối cùng tộc, được hắn chỉ dạy và kỳ vọng trở thành một chiến binh quang hệ xuất sắc.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra trong một nhánh Vũ Tộc sống gần Thung lũng Ánh Sáng Vĩnh Cửu, hắn từ nhỏ đã được chọn làm người kế thừa sức mạnh cực quang. Sau nhiều năm rèn luyện khổ hạnh và hấp thụ năng lượng quang hệ tinh thuần, hắn đã chứng minh được sự kiên định của mình qua những lần chiến đấu với Huyền Băng Cung. Việc trở thành Hữu Hộ Pháp là minh chứng cho sức mạnh và lòng trung thành tuyệt đối của hắn. Hiện tại, hắn đang chỉ huy lực lượng bảo vệ Thần Điện khỏi các thế lực tà đạo và tìm cách mở rộng tầm ảnh hưởng của ánh sáng cực quang.
