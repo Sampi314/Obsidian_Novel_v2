@@ -15,7 +15,52 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Thanh Huyền
+        description: Bắc Hải Long Vương, đối thủ truyền kiếp — băng và lửa không đội trời chung
+        feelings:
+          yeu: 0
+          han: 40
+          kinh: 30
+          tin: 10
+          so: 0
+          on: 0
+      - character: Vạn Kiếp
+        description: Thái Thượng Trưởng Lão, bậc tiền bối kiêng nể nhưng không thừa nhận
+        feelings:
+          yeu: 5
+          han: 10
+          kinh: 60
+          tin: 30
+          so: 10
+          on: 5
+      - character: Minh Uyên
+        description: Tây Hải Long Vương, con tốt nóng nảy bị thao túng từ xa
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 15
+          tin: 15
+          so: 0
+          on: 0
+      - character: Xích Liệt Hỏa
+        description: Trưởng tử, Hỏa Long Chiến Tướng, người kế thừa duy nhất được công nhận
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 0
+          tin: 60
+          so: 0
+          on: 0
+      - character: Xích Ngọc Yên
+        description: Ấu nữ, công chúa theo luyện đan, nỗi nhục gia tộc
+        feelings:
+          yeu: 10
+          han: 30
+          kinh: 0
+          tin: 10
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: XÍCH VIÊM (赤炎)

@@ -14,7 +14,43 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Hắc Thiên
+        description: Đông Hải Long Vương, kính sợ và phục tùng tuyệt đối
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 70
+          tin: 40
+          so: 40
+          on: 10
+      - character: Hắc Ngạo Thiên
+        description: Thái Tử Đông Hải, tri kỷ hoàng tộc biết thưởng thức tiếng đàn
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 15
+          tin: 40
+          so: 0
+          on: 10
+      - character: Băng Nha
+        description: Bắc Phương Thủy Tướng, bậc dẫn dắt trong Long Cung
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 40
+          tin: 30
+          so: 20
+          on: 10
+      - character: Huyết Triều
+        description: Nam Phương Thủy Tướng, bậc chỉ dẫn trong Long Cung
+        feelings:
+          yeu: 0
+          han: 5
+          kinh: 20
+          tin: 15
+          so: 10
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: HẮC LẠC NHẠN (黑落雁)

@@ -59,6 +59,15 @@ arcs:
           tin: 65
           so: 0
           on: 10
+      - character: Hoàng Điểu Vũ Thiên
+        description: Thanh niên điểu huyết, đệ tử chiến đấu, kính sợ nhưng biết ơn sư phụ
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 5
+          tin: 55
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: TRẦN THIÊN HỔ (陳天虎)

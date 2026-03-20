@@ -14,7 +14,52 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Hắc Thiên
+        description: Đông Hải Long Vương, phụ vương thất vọng vì sự phóng túng của hắn
+        feelings:
+          yeu: 20
+          han: 15
+          kinh: 40
+          tin: 20
+          so: 5
+          on: 10
+      - character: Hắc Lạc Nhạn
+        description: Nhạc Sư Cung Đình, tri kỷ duy nhất trong Thủy Tinh Cung
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 10
+          tin: 40
+          so: 0
+          on: 10
+      - character: Minh Trầm Mặc
+        description: Mưu Sĩ Tây Hải, kẻ đánh giá hắn là biến số lớn nhất Long Cung
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 30
+          tin: 15
+          so: 5
+          on: 0
+      - character: Lệ Nhược Thủy
+        description: Hải Vương Hải Thần Cung, kẻ thù truyền kiếp nhưng kính trọng sức mạnh
+        feelings:
+          yeu: 0
+          han: 10
+          kinh: 40
+          tin: 10
+          so: 5
+          on: 0
+      - character: Xích Ngọc Yên
+        description: Công chúa Nam Hải, tri kỷ cùng chí hướng thoát khỏi khuôn khổ Long Cung
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 0
+          tin: 35
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: HẮC NGẠO THIÊN (黑傲天)

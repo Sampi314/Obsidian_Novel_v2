@@ -14,7 +14,43 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Xích Viêm
+        description: Phụ vương, coi nàng là nỗi nhục, đe dọa phế bỏ huyết mạch
+        feelings:
+          yeu: 15
+          han: 20
+          kinh: 50
+          tin: 10
+          so: 60
+          on: 0
+      - character: Xích Liệt Hỏa
+        description: Huynh trưởng, Hỏa Long Chiến Tướng, âm thầm che chắn cho nàng
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 20
+          tin: 50
+          so: 5
+          on: 30
+      - character: Hắc Ngạo Thiên
+        description: Thái Tử Đông Hải, tri kỷ cùng chí hướng thoát khỏi khuôn khổ Long Cung
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 5
+          tin: 35
+          so: 0
+          on: 5
+      - character: Băng Nha
+        description: Bắc Phương Thủy Tướng, bậc dẫn dắt trong Long Cung
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 35
+          tin: 20
+          so: 15
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: XÍCH NGỌC YÊN (赤玉嫣)

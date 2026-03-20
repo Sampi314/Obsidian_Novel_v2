@@ -14,7 +14,70 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Thanh Huyền
+        description: Bắc Hải Long Vương, đồng liêu lão luyện mà kính trọng nhưng không thân cận
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 50
+          tin: 35
+          so: 0
+          on: 0
+      - character: Vạn Kiếp
+        description: Thái Thượng Trưởng Lão, đồng liêu cổ xưa nhất, chia sẻ gánh nặng bí mật Long Đế
+        feelings:
+          yeu: 20
+          han: 10
+          kinh: 60
+          tin: 50
+          so: 5
+          on: 15
+      - character: Băng Nha
+        description: Bắc Phương Thủy Tướng, thuộc hạ trung thành quản lý trong Long Cung
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 0
+          tin: 40
+          so: 0
+          on: 5
+      - character: Minh Uyên
+        description: Tây Hải Long Vương, đối thủ chính trị đang bị lũng đoạn mà chưa nhận ra
+        feelings:
+          yeu: 0
+          han: 15
+          kinh: 30
+          tin: 20
+          so: 0
+          on: 0
+      - character: Tế Vân Trạch
+        description: Thủ Hộ Hóa Long Trì, bậc tiền bối mà kính trọng nhưng cảnh giác
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 30
+          tin: 25
+          so: 0
+          on: 0
+      - character: Hắc Ngạo Thiên
+        description: Thái Tử Đông Hải, con trai ruột khiến phẫn nộ vì bản tính nổi loạn
+        feelings:
+          yeu: 30
+          han: 25
+          kinh: 0
+          tin: 20
+          so: 0
+          on: 0
+      - character: Hắc Lạc Nhạn
+        description: Nhạc Sư Cung Đình, thuộc hạ cho phép đến gần xoa dịu tâm trí bằng âm nhạc
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: HẮC THIÊN (黑天)

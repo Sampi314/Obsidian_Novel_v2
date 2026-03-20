@@ -67,6 +67,24 @@ arcs:
           tin: 60
           so: 0
           on: 10
+      - character: Hoàng Điểu Vũ Thiên
+        description: Thanh niên điểu huyết, ân nhân cứu mạng, coi như con nuôi, tôn kính như mẹ
+        feelings:
+          yeu: 45
+          han: 0
+          kinh: 5
+          tin: 70
+          so: 0
+          on: 0
+      - character: Phạm Hùng Sơn
+        description: Thợ rèn trung thành, tôn kính sâu sắc, trụ cột đáng tin cậy của thôn
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 10
+          tin: 70
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: LÝ BÁN NGUYỆT (李半月)

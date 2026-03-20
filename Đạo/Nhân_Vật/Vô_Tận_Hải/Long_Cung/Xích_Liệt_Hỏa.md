@@ -14,7 +14,43 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Xích Viêm
+        description: Phụ vương, Nam Hải Long Vương, tôn kính và phục tùng tuyệt đối
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 70
+          tin: 80
+          so: 10
+          on: 50
+      - character: Xích Ngọc Yên
+        description: Muội muội, công chúa theo luyện đan, lặng lẽ bảo vệ em gái
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 0
+          tin: 35
+          so: 0
+          on: 0
+      - character: Ngao Đình
+        description: Lôi Minh Thái Tử, đối thủ đồng lứa muốn đánh bại nhất
+        feelings:
+          yeu: 0
+          han: 20
+          kinh: 30
+          tin: 10
+          so: 5
+          on: 0
+      - character: Băng Nha
+        description: Bắc Phương Thủy Tướng, đồng liêu cùng Long Cung
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 30
+          tin: 20
+          so: 5
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: XÍCH LIỆT HỎA (赤烈火)
