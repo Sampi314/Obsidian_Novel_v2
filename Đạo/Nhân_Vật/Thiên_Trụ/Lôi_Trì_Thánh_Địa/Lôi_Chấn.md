@@ -32,9 +32,15 @@ Lôi Chấn sở hữu thân hình cao lớn, lực lưỡng tựa như một ng
 Là Đệ Nhất Hộ Pháp, Lôi Chấn sở hữu tu vi Nguyên Anh Hậu Kỳ với khả năng điều khiển Lôi Điện đạt mức thượng thừa, có thể tùy ý gọi thiên lôi giáng thế để nghiền nát kẻ thù. Hắn tu luyện *Thiên Cương Lôi Quyết* đến cảnh giới đại thành, biến nhục thân thành một lò phản ứng lôi điện khổng lồ, miễn nhiễm với hầu hết các đòn tấn công vật lý thông thường. Tuyệt kỹ thành danh của hắn là *Thiên Phạt Lôi Ngục (天罚雷狱)*, tạo ra một không gian khép kín bằng sấm sét để nhốt và tiêu diệt đối thủ từ mọi phía, không chừa đường lui. Điểm yếu duy nhất là các chiêu thức của hắn tiêu hao lượng linh lực cực lớn, khiến hắn dễ bị hụt hơi nếu trận chiến kéo dài quá lâu trước những đối thủ có khả năng né tránh tốt.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Lôi Cương** (Thân thiện): Đồng môn/Hợp tác
+- **Lôi Phong** (Chủ tớ): Cấp trên
+- **Lôi Thiên Nộ** (Đồng minh): Đồng liêu cùng Lôi Trì Thánh Địa
+- **Lôi Tiểu Chấn** (Sư đồ): Lôi Chấn dẫn dắt Lôi Tiểu Chấn trong Lôi Trì Thánh Địa
+- **Lôi Vân** (Sư đồ): Lôi Chấn dẫn dắt Lôi Vân trong Lôi Trì Thánh Địa
+- **Trần Lôi Hỏa** (Sư đồ): Lôi Chấn dẫn dắt Trần Lôi Hỏa trong Lôi Trì Thánh Địa
+- **Tôn Lôi Ưng** (Sư đồ): Lôi Chấn dẫn dắt Tôn Lôi Ưng trong Lôi Trì Thánh Địa
 - **Lôi Cương:** Đồng môn sư đệ và là viện chủ quản lý Lôi Thể Viện. Lôi Chấn thường xuyên hợp tác cùng Lôi Cương trong các chiến dịch trấn áp tà đạo, tuy đôi lúc bất đồng về cách huấn luyện đệ tử.
 - **Lôi Phong:** Cấp dưới trực tiếp và là Đệ Nhị Hộ Pháp. Lôi Chấn đánh giá cao sự nhanh nhẹn của Lôi Phong nhưng luôn nghiêm khắc nhắc nhở y bớt sự kiêu ngạo.
 - **Long Cung:** Kẻ thù truyền kiếp. Lôi Chấn cực kỳ căm ghét các Yêu Tu rồng vì chúng thường xuyên cạnh tranh tài nguyên Lôi Kiếp cổ đại với thánh địa.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lôi Chấn vốn là một cô nhi mang Lôi Căn biến dị, được các trưởng lão của Lôi Trì Thánh Địa nhặt về từ một đống hoang tàn sau trận cuồng phong sét đánh. Từ nhỏ, hắn đã bị nhốt dưới đáy Cửu Cực Lôi Đài để chịu đựng những trận thiên lôi tẩy tủy tàn khốc nhất, rèn luyện ý chí sinh tồn mãnh liệt. Trong một lần trấn áp tà tu Huyết Ma Tông, hắn đã một mình đồ sát hàng trăm tu sĩ ma đạo, chính thức khẳng định vị thế và được phong làm Đệ Nhất Hộ Pháp. Hiện tại, Lôi Chấn vừa nhận trọng trách bảo vệ Lôi Trì, vừa ngầm truy tìm manh mối về "Trái Tim Của Sấm Sét" đang bị thất lạc để khôi phục hoàn toàn vinh quang của Thánh Địa.

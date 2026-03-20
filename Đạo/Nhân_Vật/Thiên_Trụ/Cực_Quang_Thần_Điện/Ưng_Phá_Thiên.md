@@ -38,10 +38,13 @@ Tu vi Kim Đan Hậu Kỳ, Ưng Phá Thiên là chiến sĩ chuyên về chiến
 - Điểm mạnh là tốc độ thẳng đứng và khả năng chiến đấu ở độ cao không ai theo kịp; điểm yếu là khi bị kéo xuống mặt đất hoặc không gian hẹp, hắn mất gần hết ưu thế và dễ mắc chứng Bế Dực.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Phượng Thiên Dực** (Chủ tớ): Thủ hạ trung thành trong Cực Quang Thần Điện
+- **Phượng Thiên Dực** (Cấp dưới): Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện
+- **Bằng Vạn Lý** (Sư đồ): Bằng Vạn Lý dẫn dắt Ưng Phá Thiên trong Cực Quang Thần Điện
+- **Yến Tiểu Tiểu** (Sư đồ): Ưng Phá Thiên chỉ dẫn Yến Tiểu Tiểu trong Cực Quang Thần Điện
 - **Ưng Lôi Dực:** Chiến hữu hay bay cùng, một người chuyên tầm cao, một người chuyên tầm thấp. Hắn ngưỡng mộ sự dũng cảm liều lĩnh của Ưng Lôi Dực dù cho rằng cách đánh của hắn quá mạo hiểm.
 - **Ưng Phong Nhận:** Người mà hắn tôn trọng nhất trong nhóm vì khả năng phân tích chiến trường lạnh lùng. Hai người thường xuyên trao đổi chiến thuật không chiến vào ban đêm.
 - **Bằng Vạn Lý:** Chiến sĩ Bằng Vũ Tộc cùng phục vụ trong thần điện. Hắn coi Bằng Vạn Lý là đối thủ duy nhất xứng tầm về tốc độ bay, và hai người âm thầm thi đua xem ai bay cao hơn mỗi lần tuần tra.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ưng Phá Thiên không thuộc gia tộc Ưng của Ưng Lôi Dực và Ưng Phong Nhận — hắn là Ưng Vũ Tộc đơn lẻ, lớn lên trên một đỉnh núi hẻo lánh ở rìa Bắc Băng với cha mẹ già. Từ nhỏ hắn đã có thói quen bay thẳng lên cao nhất có thể, đến mức cha mẹ phải buộc dây vào chân hắn để kéo xuống. Trong một lần bay quá cao, hắn vô tình xuyên qua tầng mây cực quang và nhìn thấy ánh sáng rực rỡ đến mức suýt mù — trải nghiệm đó khiến hắn tin rằng phía trên bầu trời còn có một thế giới khác.
 
