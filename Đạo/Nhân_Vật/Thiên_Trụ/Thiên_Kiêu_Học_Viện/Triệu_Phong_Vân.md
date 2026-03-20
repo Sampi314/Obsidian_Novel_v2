@@ -32,9 +32,11 @@ Nữ tướng trung niên, dáng người cao ráo mạnh mẽ, mái tóc đen c
 Tu luyện Cuồng Phong Kiếm Pháp — kiếm thuật dương cương tốc độ cao, mỗi kiếm chiêu tạo ra phong nhận sắc bén cắt qua mọi phòng ngự. Có thể triển khai Phong Vân Kiếm Trận đơn độc, biến mình thành tâm bão kiếm khí quét sạch đối thủ. Là chiến đấu gia mạnh nhất Thiên Kiêu sau Viện Trưởng và hai Phó Viện Trưởng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Vương Chiến]] — Phó Viện Trưởng Chiến Đấu, sư phụ đã dạy dỗ cô thành chiến sĩ.
-- [[Tôn Thiên Cơ]] — Trận Chư Viện Chủ, đối tác phối hợp chiến đấu và trận pháp.
-- [[Trương Tinh Thần]] — Sinh viên xuất sắc nhất, đệ tử mà cô đặt nhiều kỳ vọng.
-
+- **Lý Học Hải** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
+- **Tiêu Mộng Dao** (Sư đồ): Triệu Phong Vân chỉ dẫn Tiêu Mộng Dao trong Thiên Kiêu Học Viện
+- **Hạo Nhiên** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
+- **Trương Tinh Thần** (Sư đồ): Triệu Phong Vân chỉ dẫn Trương Tinh Thần trong Thiên Kiêu Học Viện
+- **Vương Chiến** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
+- **Tôn Thiên Cơ** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân bình dân, cha mẹ là tu sĩ cấp thấp ở ngoại thành. Nhờ thiên phú chiến đấu phi phàm được tuyển vào Thiên Kiêu, trở thành học trò xuất sắc nhất của Vương Chiến. Sau khi tốt nghiệp, từ chối nhiều lời mời từ quân đội và tông phái, chọn ở lại học viện dạy dỗ thế hệ sau. Trở thành Chiến Đấu Viện Chủ trẻ nhất lịch sử Thiên Kiêu, vẫn giữ phong độ chiến đấu đỉnh cao.

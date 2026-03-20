@@ -32,9 +32,12 @@ Trung niên nho nhã, khuôn mặt thông tuệ với cặp kính ngọc bạch,
 Tu luyện Bác Học Đa Văn Thuật — công pháp dựa trên tri thức, càng hiểu biết rộng thì linh lực càng mạnh. Sở trường phân tích và giải mã pháp thuật, trận pháp, đan dược của bất kỳ hệ phái nào. Có thể dùng Vạn Quyển Thư Lâu — không gian lưu trữ tri thức trong thần thức — để tức thời tra cứu và phản chế kỹ thuật đối phương.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Hạo Nhiên]] — Viện Trưởng kiêm sư phụ, người mà hắn kính trọng nhất đời.
-- [[Vương Chiến]] — Phó Viện Trưởng Chiến Đấu, đồng liêu, văn võ bổ sung lẫn nhau.
-- [[Khổng Thư]] — Giáo sư lịch sử, đệ tử mà hắn đào tạo, kỳ vọng kế nhiệm.
-
+- **Hạo Nhiên** (Sư đồ): Hạo Nhiên chỉ dẫn Lý Học Hải trong Thiên Kiêu Học Viện
+- **Khổng Thư** (Sư đồ): Lý Học Hải chỉ dẫn Khổng Thư trong Thiên Kiêu Học Viện
+- **Lâm Tĩnh** (Sư đồ): Lý Học Hải chỉ dẫn Lâm Tĩnh trong Thiên Kiêu Học Viện
+- **Hạo Nhiên** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
+- **Tiêu Mộng Dao** (Sư đồ): Lý Học Hải chỉ dẫn Tiêu Mộng Dao trong Thiên Kiêu Học Viện
+- **Triệu Phong Vân** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
+- **Lỗ Bách Nghệ** (Sư đồ): Lý Học Hải chỉ dẫn Lỗ Bách Nghệ trong Thiên Kiêu Học Viện
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ một gia đình thư hương, từ nhỏ đã đọc vạn quyển sách, được coi là thần đồng tri thức. Bái nhập Thiên Kiêu từ năm mười tuổi, là sinh viên xuất sắc nhất trong lịch sử bộ phận học thuật. Được Hạo Nhiên đích thân thu nhận làm đệ tử, truyền thụ và phát triển Bác Học Đa Văn Thuật. Trở thành Phó Viện Trưởng Học Thuật ở tuổi hai trăm, quản lý toàn bộ chương trình giảng dạy và nghiên cứu của học viện.

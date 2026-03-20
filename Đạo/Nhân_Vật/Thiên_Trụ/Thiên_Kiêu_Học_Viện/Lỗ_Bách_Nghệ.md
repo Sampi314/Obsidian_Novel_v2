@@ -32,9 +32,9 @@ Trung niên nữ, dáng người tròn trịa phúc hậu, tay chai sạn đầy
 Tu luyện Bách Nghệ Tạo Hóa Công — công pháp chuyên về luyện khí, chế tạo pháp khí và phù lục. Có thể luyện chế pháp khí từ linh quặng, cải tạo và nâng cấp pháp khí cũ, sáng chế công cụ tu chân mới. Tuy chiến lực trực diện không nổi bật nhưng pháp khí do cô chế tạo có chất lượng hàng đầu Thiên Trụ.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Hạo Nhiên]] — Viện Trưởng, ân sư cho phép cô tự do sáng tạo trong học viện.
-- [[Tôn Thiên Cơ]] — Trận Chư Viện Chủ, đối tác thường xuyên — cô chế tạo vật liệu trận pháp cho hắn.
-- [[Hoàng Phủ Lạc Thiên]] — Giáo sư đan dược, bằng hữu thân thiết, thường trao đổi kỹ thuật.
-
+- **Lâm Tĩnh** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
+- **Hạo Nhiên** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
+- **Lý Học Hải** (Sư đồ): Lý Học Hải chỉ dẫn Lỗ Bách Nghệ trong Thiên Kiêu Học Viện
+- **Tiêu Mộng Dao** (Sư đồ): Lỗ Bách Nghệ chỉ dẫn Tiêu Mộng Dao trong Thiên Kiêu Học Viện
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ Lỗ gia — nhánh bên của gia tộc Lỗ Thiên Kiều (Công Bộ Thượng Thư), thừa hưởng thiên phú thủ công mỹ nghệ. Không thích quan trường, chọn bái nhập Thiên Kiêu để tự do nghiên cứu và sáng tạo. Phát triển Bách Nghệ Tạo Hóa Công kết hợp kỹ thuật gia truyền với phương pháp học viện. Hiện quản lý Bách Nghệ Viện, cung cấp pháp khí và công cụ cho toàn bộ học viện và cả hoàng triều.
