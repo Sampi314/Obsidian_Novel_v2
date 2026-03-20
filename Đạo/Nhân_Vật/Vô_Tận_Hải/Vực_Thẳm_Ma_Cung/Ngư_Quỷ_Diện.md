@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Lệ Nhược Thủy
+        description: Hải Yêu Vương Hải Thần Cung, con mồi xứng đáng nhất để săn lùng trên mặt biển
+        feelings:
+          yeu: -30
+          han: 20
+          kinh: -20
+          tin: -40
+          so: 10
+          on: -30
 ---
 
 # HỒ SƠ NHÂN VẬT: NGƯ QUỶ DIỆN (鱼鬼面)

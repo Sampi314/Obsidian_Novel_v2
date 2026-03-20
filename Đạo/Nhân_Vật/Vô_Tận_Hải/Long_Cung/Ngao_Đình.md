@@ -26,6 +26,15 @@ arcs:
           tin: -70
           so: 0
           on: -80
+      - character: Lệ Nhược Thủy
+        description: Hải Yêu Vương Hải Thần Cung, quan hệ vua tôi danh nghĩa, kính nể nhưng không thích sự kiêu ngạo
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 30
+          tin: 25
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NGAO ĐÌNH (敖霆)

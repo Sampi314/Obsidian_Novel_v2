@@ -35,6 +35,69 @@ arcs:
           tin: 20
           so: 0
           on: 0
+      - character: Lê Kiếm Tâm
+        description: Kình địch kiếm tu tại Bắc Băng, đối thủ đáng tôn trọng
+        feelings:
+          yeu: 0
+          han: 15
+          kinh: 35
+          tin: -10
+          so: 10
+          on: 0
+      - character: Bằng Bắc Minh
+        description: Tiền bối Vũ Tộc chỉ dẫn nàng trong Tán Tu
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 60
+          tin: 50
+          so: 0
+          on: 40
+      - character: Hạc Tuyết Nhi
+        description: Tiền bối y sư Vũ Tộc chỉ dẫn nàng trong Tán Tu
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 65
+          tin: 55
+          so: 0
+          on: 45
+      - character: Sương Lệ Nhi
+        description: Tiền bối Trùng Tộc chỉ dẫn nàng trong Tán Tu
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 50
+          tin: 40
+          so: 0
+          on: 35
+      - character: Triệu Thanh Hằng
+        description: Chiến hữu cùng Tán Tu, chiến đấu song song
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 30
+          tin: 50
+          so: 0
+          on: 10
+      - character: Tước Hàn
+        description: Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 20
+          tin: 40
+          so: 0
+          on: 5
+      - character: Tước Tuyết Nhi
+        description: Tiền bối Vũ Tộc chỉ dẫn nàng trong Tán Tu
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 55
+          tin: 45
+          so: 0
+          on: 35
 ---
 
 # HỒ SƠ NHÂN VẬT: SỞ LĂNG SƯƠNG

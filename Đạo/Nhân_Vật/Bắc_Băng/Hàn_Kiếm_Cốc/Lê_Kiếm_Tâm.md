@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Sở Lăng Sương
+        description: Kình địch đáng tôn trọng trong các cuộc thi tài Bắc Băng, kiếm tu khiến hắn phải nỗ lực
+        feelings:
+          yeu: 0
+          han: 15
+          kinh: 40
+          tin: -10
+          so: 5
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LÊ KIẾM TÂM (黎剑心)

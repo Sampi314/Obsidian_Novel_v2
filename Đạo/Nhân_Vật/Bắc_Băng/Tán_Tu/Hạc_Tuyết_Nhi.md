@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Sở Lăng Sương
+        description: Hậu bối kiếm tu được chỉ dẫn trong Tán Tu
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 15
+          tin: 40
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẠC TUYẾT NHI (鶴雪兒)
