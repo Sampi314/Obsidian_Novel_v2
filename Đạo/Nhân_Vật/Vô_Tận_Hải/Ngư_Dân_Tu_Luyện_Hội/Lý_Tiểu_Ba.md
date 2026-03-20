@@ -32,7 +32,10 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Lý Vạn Triều** (Đồng minh): Đồng liêu cùng Ngư Dân Tu Luyện Hội, hỗ trợ lẫn nhau
+- **Trần Hải Yến** (Sư đồ): Lý Tiểu Ba chỉ dẫn Trần Hải Yến trong Ngư Dân Tu Luyện Hội
+- **Lý Đại Hải** (Chủ tớ): Thủ hạ trung thành trong Ngư Dân Tu Luyện Hội
+- **Lý Đại Hải** (Cấp dưới): Phục tùng Lý Tiểu Ba, Ngư Đội Trưởng của Ngư Dân Tu Luyện Hội
+- **Trần Hải Yến** (Cấp dưới): Phục tùng Lý Tiểu Ba, Ngư Đội Trưởng của Ngư Dân Tu Luyện Hội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
