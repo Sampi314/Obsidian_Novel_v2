@@ -32,9 +32,14 @@ Mã Vạn Kim là một trung niên mập mạp với khuôn mặt tròn phúc h
 Tu vi Kim Đan Hậu Kỳ của Mã Vạn Kim chủ yếu dùng cho việc giám định và bảo vệ bản thân trong các thương vụ nguy hiểm, hắn không phải chiến binh nhưng tuyệt đối không phải kẻ yếu. Kỹ thuật cốt lõi là *Linh Nhãn Thông* (靈眼通) — nhìn thấu bản chất, xuất xứ và giá trị thực của bất kỳ vật phẩm nào chỉ bằng một cái liếc, bao gồm cả pháp bảo giả mạo, đan dược pha tạp và linh thạch kém chất lượng. Trong trường hợp bị tấn công, hắn sử dụng *Kim Tiền Vạn Thuẫn* (金錢萬盾) — tung ra hàng ngàn đồng tiền linh thạch nén đặc biệt bay quanh thân tạo thành lớp phòng hộ cực mạnh, mỗi đồng tiền chứa đủ linh lực phản đòn khiến kẻ tấn công chịu sát thương ngược. Điểm yếu là hắn thiếu kinh nghiệm chiến đấu thực tế và phụ thuộc vào Kim Giáp Vệ bảo vệ khi gặp đối thủ mạnh.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hứa Ngọc** (Đồng minh): Đồng liêu cùng Bách Bảo Các, hỗ trợ lẫn nhau
+- **Lý Minh Châu** (Sư đồ): Lý Minh Châu chỉ dẫn Mã Vạn Kim trong Bách Bảo Các
+- **Tiền Đa Đa** (Chủ tớ): Thủ hạ trung thành trong Bách Bảo Các
+- **Tiền Đa Đa** (Cấp dưới): Phục tùng Tiền Đa Đa, Các Chủ của Bách Bảo Các
+- **Thiết Quân** (Sư đồ): Thiết Quân chỉ dẫn Mã Vạn Kim trong Bách Bảo Các
+- **Tiền Bảo** (Đồng minh): Đồng liêu cùng Bách Bảo Các, hỗ trợ lẫn nhau
 - **Tiền Bảo (錢寶):** Cấp trên trực tiếp và người mà Mã Vạn Kim vừa kính trọng vừa ngầm cạnh tranh — hắn muốn vượt qua Tiền Bảo để lên vị trí Đại Chưởng Quỹ.
 - **Thiết Quân (鐵軍):** Thống Lĩnh Kim Giáp Vệ thường áp tải hàng hóa mà Mã Vạn Kim đích thân thu mua, hai người phối hợp ăn ý nhưng quan hệ thuần túy công việc.
 - **Thiên Sa Thương Hội:** Đối thủ cạnh tranh trực tiếp trên thị trường, Mã Vạn Kim đã nhiều lần giành giật thương vụ béo bở từ tay thương hội này.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mã Vạn Kim sinh ra trong một gia đình thương nhân nhỏ ở ngoại ô Bách Bảo Thành, từ nhỏ đã chứng kiến cha mình bị các thương hội lớn chèn ép phá sản rồi uất hận mà chết. Thay vì thù hận hệ thống, hắn chọn cách gia nhập Bách Bảo Các từ vị trí thấp nhất — kẻ khuân vác trong kho Vạn Bảo Lâu — rồi từ từ leo lên bằng tài năng giám định vượt trội và khả năng đàm phán thiên phú. Bước ngoặt lớn nhất là khi hắn phát hiện một pháp bảo giả mạo tinh vi đến mức Giám Định Viện cũng bỏ qua, giúp Bách Bảo Các tránh được vụ lừa đảo trị giá mười vạn linh thạch thượng phẩm — từ đó hắn được thăng cấp liên tục. Mục tiêu thầm kín là trở thành Các Chủ kế nhiệm, nhưng hắn giấu kỹ tham vọng này sau nụ cười phúc hậu và thái độ khiêm tốn quá mức.
