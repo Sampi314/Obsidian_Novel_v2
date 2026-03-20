@@ -32,9 +32,13 @@ arcs:
 Thành viên của Hắc Tinh Linh Lưu Đày, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 暗玉·Bản Mệnh (暗玉·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Ám Diệp:** Thủ Lĩnh, đồng liêu quan trọng nhất trong Hắc Tinh Linh Lưu Đày.
-- **Ám Dạ Hành:** Ám Sát Đội Trưởng, đối tác thường xuyên phối hợp.
-- **Ám Huyết:** Huyết Mạch Sư, mối quan hệ tin cậy lẫn nhau.
-
+- **Ám Diệp** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Hắc Tinh Linh Lưu Đày
+- **Ám Diệp** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Ám Diệp
+- **Ám Phong Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hắc Tinh Linh Lưu Đày
+- **Ám Thiên Dạ Hành** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hắc Tinh Linh Lưu Đày
+- **Ám Huyết** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hắc Tinh Linh Lưu Đày
+- **Ám Vạn Lý** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hắc Tinh Linh Lưu Đày
+- **Ám Hà** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hắc Tinh Linh Lưu Đày
+- **Ám Vân Mặc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hắc Tinh Linh Lưu Đày
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ám Ngọc sinh ra trong một gia đình Tinh Linh Tộc bình thường, sớm thể hiện tư chất phù hợp với Hắc Tinh Linh Lưu Đày. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Hắc Tinh Linh Lưu Đày và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Chế Tác Sư.
