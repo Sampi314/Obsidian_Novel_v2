@@ -32,9 +32,13 @@ Một nữ nhân Hải Yêu với vẻ đẹp thanh cao nhưng đầy ma mị, m
 Chuyên tu về thuật dẫn dụ bằng âm thanh và khả năng thao túng sương mù cục bộ. Tuyệt kỹ "Hải Âm Tuyệt Diệu" (海音绝妙) cho phép nàng cất tiếng hát cao vút xuyên qua lớp sương mù dày đặc, tạo ra các ảo giác về bến cảng an toàn hoặc tiếng gọi của người thân, dẫn dắt các con tàu đi thẳng vào những bãi đá ngầm sắc nhọn. Điểm mạnh là khả năng tấn công tinh thần tầm xa, nhưng điểm yếu là thể chất mỏng manh và hầu như không có năng lực tự vệ khi bị tiếp cận gần.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Mẫu Nguyệt Huyền Ca** (Chủ tớ): Thủ hạ trung thành trong Hải Yêu Mê Cung
+- **Mẫu Nguyệt Huyền Ca** (Cấp dưới): Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung
+- **Mẫu Huyền Vũ** (Sư đồ): Mẫu Hải Thiên Âm chỉ dẫn Mẫu Huyền Vũ trong Hải Yêu Mê Cung
+- **Mẫu Hồng Lệ** (Đồng minh): Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau
+- **Mẫu Ám Sóng** (Đồng minh): Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau
 - **Mẫu Nguyệt Huyền Ca:** Người chỉ huy trực tiếp, nàng luôn nỗ lực hoàn thành các bản nhạc theo yêu cầu của phó minh chủ.
 - **Mẫu Thiên Ca:** Người em gái trong Tiên Ca Đội, cả hai thường phối hợp để tạo ra những bản hợp xướng ma quái.
 - **Loa Ngân Thanh (Hải Thần Cung):** Một đối thủ mà nàng thầm ngưỡng mộ về kỹ thuật âm thanh nhưng lại cực kỳ chán ghét về tư tưởng chính đạo.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mẫu Hải Thiên Âm sinh ra trong một gia đình có truyền thống ca hát lâu đời của Hải Yêu Tộc, từ nhỏ đã được rèn luyện kỹ năng sử dụng giọng hát để săn mồi. Với tài năng vượt trội, nàng đã sớm vươn lên vị trí Đệ Nhất Ca Nương của Tiên Ca Đội, chịu trách nhiệm chính trong việc dẫn dụ các thương thuyền lớn vào mê cung. Suốt nhiều năm qua, nàng đã góp công lớn trong việc thu thập tài sản từ hàng trăm vụ đắm tàu cho mê cung. Hiện tại, nàng đang nỗ lực rèn luyện để đột phá lên Kim Đan Trung Kỳ, với mong muốn tiếng hát của mình có thể bao phủ toàn bộ vùng biển Tam Giác Chết.

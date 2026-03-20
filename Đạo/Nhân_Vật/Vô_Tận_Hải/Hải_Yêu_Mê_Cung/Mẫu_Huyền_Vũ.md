@@ -32,7 +32,12 @@ Nhảy múa trên sóng, phân tán sự chú ý
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Mẫu Nguyệt Huyền Ca** (Chủ tớ): Thủ hạ trung thành trong Hải Yêu Mê Cung
+- **Mẫu Nguyệt Huyền Ca** (Cấp dưới): Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung
+- **Mẫu Ngân Thanh** (Đồng minh): Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau
+- **Mẫu Phong Ba Hải** (Đồng minh): Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau
+- **Mẫu Hải Thiên Âm** (Sư đồ): Mẫu Hải Thiên Âm chỉ dẫn Mẫu Huyền Vũ trong Hải Yêu Mê Cung
+- **Mẫu Hồng Lệ** (Đồng minh): Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau
+- **Mẫu Ám Sóng** (Đồng minh): Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
