@@ -32,7 +32,8 @@ Ban ngày là cây khô, ban đêm là ác mộng — tiếng kêu khiến hồn
 Tinh thông công pháp trấn phái của Dạ Cú Tộc, đạt cảnh giới đại thành. Tuyệt chiêu 梟夜鳴·Chấn Phái Quyết (梟夜鳴·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Cú Tĩnh Dạ:** Trinh Sát, đồng liêu quan trọng nhất trong Dạ Cú Tộc.
-
+- **Cú Tĩnh Dạ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Dạ Cú Tộc
+- **Cú Tĩnh Dạ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cú Dạ Minh
+- **Phượng Lâm** (Đồng minh): Tộc Trưởng Dạ Cú và Tộc Trưởng Lâm Điểu, liên minh gia cầm
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Cú Dạ Minh lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Dạ Cú Tộc. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Dạ Cú Tộc và dần khẳng định vị trí của mình. Với tu vi Nguyên Anh Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Tộc Trưởng.

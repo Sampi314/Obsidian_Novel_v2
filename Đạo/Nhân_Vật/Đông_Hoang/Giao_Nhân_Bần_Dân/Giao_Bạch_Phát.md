@@ -107,6 +107,27 @@ Hai trăm năm sau, lão vẫn sống — không phải vì muốn sống, mà v
 
 Hiện tại, Giao Bạch Phát đang suy yếu nhanh chóng. Đôi mắt mù, đôi tay run, tu vi đang bị xói mòn bởi tuổi tác. Lão biết mình không còn nhiều năm, và điều duy nhất lão sợ không phải cái chết mà là chết trước khi truyền hết ký ức — một ngàn bốn trăm cái tên, cùng lời hứa cuối cùng của Giao Lệ Huyết.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Giao Thiên Lệ** (Thủ lĩnh): Người phụ nữ đã khóc đến mù, nỗi hổ thẹn lớn nhất vì mình không bảo vệ được
+- **Giao Hàn Sương Lệ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Bần Dân
+- **Giao Tàn Ty** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Bần Dân
+- **Giao Vô Danh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Bần Dân
+- **Giao Khổ Hải** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Bần Dân
+- **Giao Mộng Hải** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Bần Dân
+- **Giao Lệ Vân** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Bạch Phát
+- **Giao Phẫn Hải** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Bạch Phát
+- **Giao Mộng Hải** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Bạch Phát
+- **Giao Thiên Lệ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Bạch Phát
+- **Giao Tiểu Lệ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Bạch Phát
+- **Giao Hàn Sương Lệ** (Sư phụ): Trưởng lão, người dạy mình bơi lén khi còn nhỏ
+- **Giao Lệ Vân** (Đồng minh): Hậu duệ của Lệ Huyết, đứa trẻ mà mình đặt cả hy vọng cuối đời vào
+- **Giao Phẫn Hải** (Đồng minh): Thằng nhỏ nóng nảy, giống hệt Lệ Huyết thời trẻ — đó là điều đáng sợ nhất
+- **Giao Tiểu Lệ** (Đồng minh): Đứa trẻ nước mắt đen, điềm báo mà mình không hiểu nổi
+- **Giao Khổ Hải** (Đồng minh): Trưởng lão, người cùng thế hệ nhưng già hơn rất nhiều, kẻ duy nhất hiểu nỗi mệt mỏi của mình
+- **Giao Tàn Ty** (Đồng minh): Trưởng lão, người kể chuyện về thời Giao Nhân tự do dệt hoa văn riêng
+- **Giao Vô Danh** (Đồng minh): Trưởng lão, người kể cho mình nghe về tên thật đã bị tước — dù lão cũng không nhớ
+- **Giao Lệ Hoa Nguyệt** (Đồng minh): Dệt Sư Tự Do hỗ trợ ngầm Trưởng Lão Bần Dân
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 - **Phưởng Ti Thuật (纺丝术):**
