@@ -25,6 +25,69 @@ arcs:
           tin: -70
           so: 5
           on: -60
+      - character: Hắc Triều
+        description: Thống Lĩnh Thâm Hải Ma Quân, thuộc hạ phục tùng sùng bái tuyệt đối
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: -20
+          tin: 50
+          so: 0
+          on: 10
+      - character: Ngư Quỷ Diện
+        description: Con dao trong bóng tối trung thành nhất, sẵn sàng thực hiện mọi mệnh lệnh
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: -10
+          tin: 50
+          so: 0
+          on: 5
+      - character: Huyết Ba
+        description: Ngoại môn đệ tử cấp thấp, kính sợ tuyệt đối và tôn sùng như thần linh
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: -30
+          tin: 10
+          so: 0
+          on: 0
+      - character: Huyết Trùng
+        description: Trưởng Lão Ma Quân phụng sự trung thành nhưng ngầm ghen tị quyền lực
+        feelings:
+          yeu: 0
+          han: 10
+          kinh: -10
+          tin: 40
+          so: 0
+          on: 15
+      - character: Ám Lưu
+        description: Đại Hộ Pháp, tay chân trung thành nhất, kẻ duy nhất được giao nhiệm vụ tối mật
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 0
+          tin: 60
+          so: 0
+          on: 10
+      - character: Thâm Uyên Nữ
+        description: Trưởng Lão Thi Ma Các, con gái nuôi được tạo ra, coi như tác phẩm nghệ thuật
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
+      - character: Lệ Nhược Thủy
+        description: Hải Vương Hải Thần Cung, kẻ thù âm thầm nghiên cứu chờ thời cơ nuốt chửng
+        feelings:
+          yeu: -30
+          han: 50
+          kinh: 20
+          tin: -60
+          so: 10
+          on: -50
 ---
 
 # HỒ SƠ NHÂN VẬT: THÂM HẢI (深海)
