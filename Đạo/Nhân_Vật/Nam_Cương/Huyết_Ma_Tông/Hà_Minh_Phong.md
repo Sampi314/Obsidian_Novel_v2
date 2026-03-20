@@ -42,6 +42,24 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Lý Ám
+        description: Đệ Tam Huyết Tướng, người thường xuyên nhận nhiệm vụ tình báo từ Hà Minh Phong
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Mộ Dung Huyết Thiên
+        description: Thái Thượng Trưởng Lão, bậc tiền bối đánh giá cao mưu lược của hắn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HÀ MINH PHONG (何明風)

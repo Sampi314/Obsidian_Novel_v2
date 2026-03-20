@@ -83,6 +83,7 @@ Hắc Dạ chuyên về ám sát ban đêm, sử dụng bóng tối và độc d
 - **Bạch Vô Ảnh:** Tam Sát, đồng đội có kỹ năng ẩn thân bổ sung.
 - **Diệp Thanh Trúc:** Ngũ Sát, đồng đội trẻ mà hắn ngầm hướng dẫn.
 - **Liễu Lãnh Huyết:** Xà Chi Hộ Pháp, cấp trên nhận lệnh trực tiếp.
+- **Phong Thiên Châm:** Thích Khách, đồng nghiệp cạnh tranh thành tích ám sát, hai người không ưa nhau.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Quá khứ của Hắc Dạ là một bí ẩn hoàn toàn, không ai biết hắn đến từ đâu hay tên thật là gì. Hắn xuất hiện tại Vạn Độc Môn một đêm không trăng, giết chết ba lính canh rồi tự nguyện gia nhập Thất Sát. Sự kiện then chốt là khi hắn ám sát cùng lúc năm mục tiêu ở năm địa điểm khác nhau trong một đêm, khiến cả Nam Cương sợ hãi cái tên Hắc Dạ. Bí mật lớn nhất là hắn thực ra đang tìm kiếm một người cụ thể, và lý do gia nhập Vạn Độc Môn có liên quan đến mục tiêu cá nhân.

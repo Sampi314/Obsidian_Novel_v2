@@ -14,7 +14,25 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Bào Độc Vương
+        description: Hộ Pháp, đồng đội chiến trường — Độc Vương canh giữ phía trước, Thâm Thổ dọn bãi chiến trường phía sau
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 15
+          tin: 60
+          so: 0
+          on: 10
+      - character: Bào Tịnh Hóa
+        description: Tịnh Hóa Sư, đối tác hoàn hảo — nàng thanh lọc độc tố, Thâm Thổ phục hồi đất đai sau đó
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 15
+          tin: 65
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: BÀO THÂM THỔ (孢深土)

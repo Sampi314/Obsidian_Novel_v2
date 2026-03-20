@@ -83,6 +83,7 @@ Hạ Thiên Châm chuyên về Yết Độc Thuật, tích lũy nọc bọ cạp
 - **Liễu Lãnh Huyết:** Xà Chi Hộ Pháp, đồng liêu mạnh nhất, cạnh tranh vị trí nhưng ngầm tôn trọng.
 - **La Vân Ti:** Nhện Chi Hộ Pháp, đồng liêu hay hợp tác trong các nhiệm vụ phức tạp.
 - **Hàn Phong:** Nhất Sát, thống lĩnh Thất Sát mà ông đánh giá cao sức mạnh.
+- **Phùng Tiêu:** Lục Sát, kẻ dưới mà ông cung cấp nguyên liệu độc dược cho bẫy.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hạ Thiên Châm vốn là sát thủ đơn độc lang thang khắp Nam Cương, gia nhập Vạn Độc Môn sau khi bại trận trước Độc Cô Lão Quái và bị ép buộc phục tùng. Tuy nhiên, sức mạnh mà ông nhận được từ Yết Độc Thuật khiến ông dần chấp nhận cuộc sống mới. Sự kiện then chốt là khi ông một mình giết chết một đội hộ pháp của Đan Hà Cốc gồm năm người chỉ trong một đêm, khiến danh tiếng đáng sợ của ông lan khắp Nam Cương. Mục tiêu hiện tại là đạt Nguyên Anh Hậu Kỳ để trở thành chiến binh mạnh nhất lịch sử Vạn Độc Môn.

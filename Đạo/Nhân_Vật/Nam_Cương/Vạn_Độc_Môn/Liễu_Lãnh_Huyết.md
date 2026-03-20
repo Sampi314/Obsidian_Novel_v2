@@ -83,6 +83,7 @@ Liễu Lãnh Huyết tinh thông Xà Độc Thuật, có thể điều khiển h
 - **Hạ Thiên Châm:** Yết Chi Hộ Pháp, đồng liêu mạnh nhất, quan hệ cạnh tranh nhưng tôn trọng.
 - **Mạc Thiên Túc:** Rết Chi Hộ Pháp, đồng liêu mà bà coi thường vì tính tình nóng nảy.
 - **Đinh Huyết Mi:** Nhị Sát, thuộc hạ tin cậy nhất trong đội Thất Sát.
+- **Hắc Dạ:** Tứ Sát, thuộc hạ trầm lặng nhận lệnh trực tiếp.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Liễu Lãnh Huyết sinh ra trong một bộ lạc thờ rắn ở rìa Nam Cương, từ nhỏ đã có khả năng giao tiếp với loài xà. Khi bộ lạc bị tàn sát bởi thợ săn yêu thú, bà được Độc Cô Lão Quái cứu sống và nuôi dưỡng thành sát thủ. Sự kiện then chốt là khi bà ám sát thành công một Trưởng Lão Dược Vương Cốc bằng xà độc, khiến cuộc chiến giữa hai phe leo thang. Mục tiêu hiện tại là bảo vệ Môn Chủ và tiêu diệt bất kỳ ai dám đe dọa Vạn Độc Môn.

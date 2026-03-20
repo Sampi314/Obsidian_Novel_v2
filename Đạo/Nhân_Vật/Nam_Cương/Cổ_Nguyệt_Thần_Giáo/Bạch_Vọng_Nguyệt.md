@@ -39,7 +39,7 @@ arcs:
           yeu: 0
           han: 0
           kinh: 0
-          tin: 0
+          tin: 35
           so: 0
           on: 0
       - character: Lam Nguyệt Nhi
