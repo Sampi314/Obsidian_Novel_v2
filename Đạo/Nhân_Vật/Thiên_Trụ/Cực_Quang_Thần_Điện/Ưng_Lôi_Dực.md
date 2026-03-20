@@ -38,10 +38,13 @@ Tu vi Kim Đan Trung Kỳ, Ưng Lôi Dực là chiến sĩ kết hợp hiếm ho
 - Điểm mạnh là tốc độ và sức công phá tức thời áp đảo, nhưng điểm yếu là xương cốt mỏng manh của Vũ Tộc khiến hắn không chịu nổi nhiều đòn phản công nặng.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Phượng Thiên Dực** (Sư đồ): Phượng Thiên Dực chỉ dẫn Ưng Lôi Dực trong Cực Quang Thần Điện
+- **Phượng Thiên Dực** (Cấp dưới): Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện
+- **Bằng Vạn Lý** (Sư đồ): Bằng Vạn Lý dẫn dắt Ưng Lôi Dực trong Cực Quang Thần Điện
+- **Yến Tiểu Tiểu** (Sư đồ): Ưng Lôi Dực chỉ dẫn Yến Tiểu Tiểu trong Cực Quang Thần Điện
 - **Ưng Phong Nhận:** Huynh trưởng cùng huyết thống, người mà hắn vừa kính phục vừa muốn vượt qua. Hai người thường xuyên phối hợp chiến đấu nhưng cũng hay cãi nhau về chiến thuật — hắn thích lao vào, Ưng Phong Nhận thích mai phục.
 - **Ưng Phá Thiên:** Chiến hữu thân thiết, cả hai thường bay sóng đôi trong các nhiệm vụ tuần tra. Ưng Phá Thiên chuyên đánh tầm cao, Ưng Lôi Dực chuyên bổ nhào tầm thấp, phối hợp như hai mũi kéo.
 - **Thánh Nữ Cực Quang:** Hắn sùng bái Thánh Nữ như thần linh sống, sẵn sàng hy sinh tính mạng vì một mệnh lệnh của nàng mà không hỏi lý do.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ưng Lôi Dực sinh ra trong một gia tộc Ưng Vũ Tộc từng tự do sống trên các đỉnh núi cao Bắc Băng. Khi Cực Quang Thần Điện bành trướng tín ngưỡng, gia tộc hắn là một trong những nhóm Vũ Tộc đầu tiên quy thuận, đổi lại được bảo hộ trước sự xâm lấn của Huyền Băng Cung. Từ nhỏ hắn đã được nuôi dạy trong giáo lý cuồng tín của thần điện, tin tưởng tuyệt đối rằng ánh sáng cực quang là ý chí thần thánh.
 

@@ -38,10 +38,13 @@ Tu vi Kim Đan Hậu Kỳ, Ưng Phong Nhận chuyên về phong hệ sát thươ
 - Điểm mạnh là tầm tấn công xa, độ chính xác cao và khó phòng bị; điểm yếu là khi bị áp sát ở cự ly gần, khả năng cận chiến kém hơn đáng kể so với chiến sĩ cùng cảnh giới.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Phượng Thiên Dực** (Chủ tớ): Thủ hạ trung thành trong Cực Quang Thần Điện
+- **Phượng Thiên Dực** (Cấp dưới): Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện
+- **Bằng Vạn Lý** (Sư đồ): Bằng Vạn Lý dẫn dắt Ưng Phong Nhận trong Cực Quang Thần Điện
+- **Yến Tiểu Tiểu** (Sư đồ): Ưng Phong Nhận chỉ dẫn Yến Tiểu Tiểu trong Cực Quang Thần Điện
 - **Ưng Lôi Dực:** Đệ đệ cùng huyết thống, kẻ bốc đồng mà hắn phải liên tục kìm hãm trên chiến trường. Dù hay mâu thuẫn về chiến thuật, hắn sẵn sàng chết thay cho Ưng Lôi Dực mà không cần suy nghĩ.
 - **Ưng Phá Thiên:** Đồng đội mà hắn đánh giá là chiến sĩ toàn diện nhất trong nhóm. Hai người thường xuyên thảo luận chiến thuật không chiến và cùng nhau phát triển các đội hình phối hợp mới.
 - **Ưng Thiên Phong:** Trinh Sát Đội Trưởng tu vi Nguyên Anh mà hắn ngầm coi là mục tiêu phải vượt qua. Hắn thường xuyên quan sát chiến pháp của Ưng Thiên Phong để tự hoàn thiện bản thân.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ưng Phong Nhận là anh trai Ưng Lôi Dực, sinh ra trong cùng gia tộc Ưng Vũ Tộc quy thuận Cực Quang Thần Điện. Khác với đệ đệ may mắn thức tỉnh lôi hệ, Ưng Phong Nhận đi theo con đường truyền thống của Vũ Tộc — phong hệ thuần túy — nhưng đẩy nó đến cực hạn bằng kỷ luật và luyện tập không ngừng nghỉ.
 
