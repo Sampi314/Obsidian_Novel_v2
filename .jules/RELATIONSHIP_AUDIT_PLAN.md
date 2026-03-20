@@ -104,16 +104,13 @@ arcs:
 - [x] Lý Tuyết Ưng
 - [ ] Bắc Băng (nhân vật chính khu vực)
 
-### Tier 3 — Nhân Vật Nền (Theo phe phái)
-- [ ] Hàn Dân Hộ Vệ Đội (Bắc Băng) — 6 nhân vật ← **ĐÃ LÀM MỘT PHẦN**
-- [ ] Vạn Độc Môn (Nam Cương)
-- [ ] Đan Hà Cốc (Nam Cương)
-- [ ] Cửu Hoa Kiếm Tông
-- [ ] Huyền Băng Cung (Bắc Băng)
-- [ ] Hải Thần Cung (Vô Tận Hải)
-- [ ] Long Cung (Vô Tận Hải)
-- [ ] Đại Càn Hoàng Triều (Thiên Trụ)
-- [ ] ... (tất cả các phe phái còn lại)
+### Tier 3 — Nhân Vật Nền (Theo phe phái) ✅ HOÀN THÀNH
+- [x] **Nam Cương:** Vạn Độc Môn (21), Đan Hà Cốc (19), Cổ Nguyệt Thần Giáo (15), Hắc Báo Trại (11), Huyết Ma Tông (10), Phượng Hỏa Tộc (7), Tán Tu (8), Độc Long Bảo (8), Quỷ Thị Nam Cương (6)
+- [x] **Bắc Băng:** Tuyết Hoa Vi Linh (10), Bắc Hải Cự Yêu Hang (8), Hàn Ưng Bộ Lạc (9), Tán Tu (7), Hàn Dân Hộ Vệ Đội (6)
+- [x] **Thiên Trụ:** Cực Quang Thần Điện (19), Bách Bảo Các (7), Thiên Môn Kính Đài (6), Trích Tinh Lâu (5), Cổ Nham Bộ Lạc (3), Lông Vũ Phường (5), Thiên Mộc Thành (8), Thạch Linh Cung (19)
+- [x] **Đông Hoang:** Bào Tử Mật Lâm Tộc (12), Tinh Linh Vương Đình (23), Giao Nhân Bần Dân (10), Độc Lập (6), Bán Yêu Thôn (8)
+- [x] **Vô Tận Hải:** Hải Thần Cung (12), Vực Thẳm Ma Cung (10), Long Cung (16), Tạp Huyết Long Đàn (5)
+- [x] **Tây Mạc:** Kim Sa Vi Mạch (6), San Hô Đảo Quốc (15), Phong Sát Cốc (10), Sa Mạc Yêu Hồ (10), Thiên Sa Thương Hội (11), Sa Ưng Đoàn (8)
 
 ---
 
