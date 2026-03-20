@@ -33,6 +33,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Ân Thiết
+        description: Đồng môn, người thầm cảm phục nàng vì trí tuệ và sự nhân hậu
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HÀ LINH (何靈)
@@ -54,6 +63,7 @@ Thiếu nữ mười sáu tuổi, dung mạo thanh tú thừa hưởng từ cha,
 ## IV. CÁC MỐI QUAN HỆ
 - **[[Hà Minh Phong]]** — Cha ruột, người luôn bảo vệ và dìu dắt nàng trong bóng tối.
 - **[[Cừu Tiểu Đao]]** — Đồng môn cùng thế hệ, hay cãi nhau nhưng thực ra rất quan tâm lẫn nhau.
+- **[[Ân Thiết]]** — Đồng môn, người thầm cảm phục nàng vì trí tuệ và sự nhân hậu.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hà Linh sinh ra trong Huyết Ma Tông, được cha Hà Minh Phong nuôi dạy cẩn thận, vừa tu luyện vừa học mưu lược. Là một trong ít người trẻ trong tông biết đọc sách và nghiên cứu trận pháp. Dù sống trong môi trường tà đạo nhưng bản tính không tàn ác, thường âm thầm giảm nhẹ hình phạt cho huyết nô khi cha không để ý.
