@@ -72,10 +72,55 @@ arcs:
     - *Ngọc Trai Huyễn Ảnh (Pháp Bảo Phòng Ngự)*: Hấp thu sát thương chí mạng và hóa thân thành một bọt nước để tẩu thoát.
 
 ## 6. QUAN HỆ NHÂN VẬT
+- **Ngư Quỷ Diện** (Kẻ thù): Đối thủ/Con mồi
+- **Lệ Ngọc Hà** (Đồng minh): Muội muội họ, người chia sẻ mối lo về tà khí ăn mòn đại dương
+- **Độc Cô Lão Quái** (Kẻ thù): Kẻ thù không đội trời chung
+- **Ngao Đình** (Đồng minh): Quan hệ vua tôi danh nghĩa, độc lập
+- **Giao Bạch Ngọc** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Giao Bạch Ngọc** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Giao Nguyệt Hàn** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Giao Nguyệt Hàn** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Giao Thiên Lệ Nguyệt** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Giao Thiên Lệ Nguyệt** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Chương Hắc Triều** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Chương Hắc Triều** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Chương Thiên Cơ Huyền** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Chương Thiên Cơ Huyền** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Chương Thiên Nhãn** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
+- **Giao Thanh Lan** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Giao Thanh Lan** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Giao Vân Hà** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Giao Vân Hà** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Giải Huyền Giáp** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Giải Huyền Giáp** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Giải Thiết Giáp Vương** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Giải Thiết Giáp Vương** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Hà Kim Giáp** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
+- **Kình Lôi Thanh** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Kình Lôi Thanh** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Kình Thiên Lôi Âm** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
+- **Kình Vạn Lý** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Kình Vạn Lý** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Loa Ngân Thanh** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Loa Ngân Thanh** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Loa Thiên Âm** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Loa Thiên Âm** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Lệ Vân Hải** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Lệ Vân Hải** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Ngư Thiên Vạn Lý** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Ngư Thiên Vạn Lý** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Ngư Tiểu Ngân Lân** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Ngư Tiểu Ngân Lân** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Sa Bạch Phong** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Sa Bạch Phong** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Sa Huyết Nha** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Sa Huyết Nha** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Sa Phong Đào Thiên** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Sa Phong Đào Thiên** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Sa Thiết Nha** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
 - **Với Lâm Phong:** Sẽ có giao thoa. Lâm Phong với bản tính tự do và sự thông đạt về tự nhiên có thể là một trong số ít Nhân Tộc khiến Lệ Nhược Thủy không chán ghét ngay từ đầu.
 - **Với Ngao Đình (Long Tộc):** Quan hệ vua tôi danh nghĩa, nhưng Lệ Nhược Thủy độc lập ở vùng biển của mình. Cô kính nể sức mạnh của Long Tộc nhưng không thích sự kiêu ngạo thô lỗ của Ngao Đình.
 - **Với Độc Cô Lão Quái & Lệ Vô Tâm:** Kẻ thù truyền kiếp. Huyết Độc của Vạn Độc Môn ngấm qua lòng đất chảy ra biển đã giết chết vô số tộc nhân của cô. Lệ Nhược Thủy đang chuẩn bị một trận hồng thủy để nhấn chìm Nam Cương nhằm thanh tẩy độc tố.
-
 ## 7. LỊCH SỬ & CỐT TRUYỆN (Tiểu Sử)
 - **Quá Khứ:** Là công chúa của Giao Nhân Tộc. Từng cứu một tu sĩ Nhân Tộc trên biển và đem lòng yêu hắn, nhưng sau đó bị hắn phản bội để lấy đi "Lệ Giao Nhân" (Trân Châu ngưng tụ từ nước mắt Giao Nhân) đem đi luyện đan. Từ đó, trái tim nàng băng giá, giết chết kẻ phản bội và thề không bao giờ bước chân lên đất liền.
 - **Hiện Tại:** Ẩn mình dưới Hải Thần Cung, điều khiển Hải thú ngăn chặn sự bành trướng của Nhân Tộc ra Vô Tận Hải. Đang điều tra về nguồn cơn của sự ô nhiễm Huyết Độc lan truyền từ lục địa.
