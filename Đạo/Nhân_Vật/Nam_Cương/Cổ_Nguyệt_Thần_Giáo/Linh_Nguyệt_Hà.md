@@ -28,9 +28,9 @@ arcs:
         description: Trưởng Lão Tế Tư, có mối quan hệ căng thẳng do bất đồng về cách sử dụng vu thuật tử linh
         feelings:
           yeu: 0
-          han: 0
-          kinh: 0
-          tin: 0
+          han: 20
+          kinh: 35
+          tin: -25
           so: 0
           on: 0
       - character: Nguyệt Trầm

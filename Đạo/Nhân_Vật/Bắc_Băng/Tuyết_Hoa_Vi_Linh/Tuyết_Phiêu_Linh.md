@@ -57,6 +57,24 @@ arcs:
           tin: 70
           so: 0
           on: 60
+      - character: Tuyết Bạch Vân
+        description: Thợ Dệt Tuyết, người dệt Tuyết Huyền Cầm — tác phẩm tự hào nhất mà Phiêu Linh trân quý
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 40
+          tin: 60
+          so: 0
+          on: 30
+      - character: Tuyết Ngọc Điệp
+        description: Trinh Sát Hoa, đồng nghiệp thu thập thông tin bên ngoài nhưng bằng cách khác
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 20
+          tin: 60
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TUYẾT PHIÊU LINH (雪飄零)
