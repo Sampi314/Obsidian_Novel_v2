@@ -19,7 +19,7 @@ arcs:
     status: Hưng thịnh phục hưng
     rank: Hạng Nhất
     leader: Tông Chủ Lục Trần
-    population: 5000
+    population: 18300
     territory:
       - Cửu Hoa Sơn
       - Thiên Hoa Phong
@@ -34,44 +34,197 @@ arcs:
     stats: [12000, 8000, 14000, 5000, 13000, 11000]
     divisions:
       - name: Thiên Hoa Phong
-        role: Tổng đàn điều hành và trung tâm chính trị
+        role: Tổng đàn điều hành, chính trị và tài chính
         headcount:
-          thai_thuong: 2
-          ho_phap: 2
-          truong_lao: 3
-          chan_truyen: 5
-          noi_mon: 120
-          ngoai_mon: 800
+          thai_thuong: 5
+          ho_phap: 6
+          truong_lao: 1
+          chan_truyen: 2
+          noi_mon: 15
+          ngoai_mon: 30
           tap_dich: 2000
         members:
           - character: Lục Trần
             position: Tông Chủ
             cultivation: Hóa Thần Sơ Kỳ
-          - character: "[Hộ Pháp Nhất]"
+          - character: Trần Thiên Hoa
+            position: Phó Tông Chủ
+            cultivation: Hóa Thần Sơ Kỳ
+          - character: Vân Thanh Hà
+            position: Thái Thượng Trưởng Lão
+            cultivation: Luyện Hư Trung Kỳ
+          - character: Hoàng Thiên Phong
             position: Hộ Pháp
             cultivation: Nguyên Anh Đỉnh Phong
-            placeholder: true
+          - character: Trương Kiếm Tâm
+            position: Hộ Pháp — Chấp Pháp Đường Chủ
+            cultivation: Nguyên Anh Đỉnh Phong
+          - character: Lục Kiếm Hoa
+            position: Thánh Nữ
+            cultivation: Kim Đan Hậu Kỳ
+          - character: Hoàng Thiên Dực
+            position: Thánh Tử
+            cultivation: Kim Đan Trung Kỳ
       - name: Bạch Hoa Phong
         role: Huấn luyện kiếm pháp và chiến đấu thực tế
         headcount:
           thai_thuong: 0
-          ho_phap: 1
+          ho_phap: 0
           truong_lao: 1
-          chan_truyen: 3
-          noi_mon: 80
-          ngoai_mon: 400
-          tap_dich: 600
+          chan_truyen: 2
+          noi_mon: 12
+          ngoai_mon: 25
+          tap_dich: 800
         members:
-          - character: "[Bạch Hoa Phong Chủ]"
+          - character: Lê Hàn Sương
+            position: Phong Chủ
+            cultivation: Nguyên Anh Hậu Kỳ
+          - character: Trương Bạch Kiếm
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+          - character: Hoàng Tuyết Liên
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+      - name: Hồng Hoa Phong
+        role: Công kích kiếm pháp và trận chiến thực địa
+        headcount:
+          thai_thuong: 0
+          ho_phap: 0
+          truong_lao: 1
+          chan_truyen: 2
+          noi_mon: 12
+          ngoai_mon: 25
+          tap_dich: 800
+        members:
+          - character: Trần Hồng Kiếm
             position: Phong Chủ
             cultivation: Nguyên Anh Trung Kỳ
-            placeholder: true
-          - character: Diệp Tĩnh Sương
-            position: Ngoại Môn Đệ Tử
-            cultivation: Trúc Cơ Sơ Kỳ
-          - character: Lâm Phong
-            position: Ngoại Môn Đệ Tử
-            cultivation: Trúc Cơ Sơ Kỳ
+          - character: Trần Hồng Nhi
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+          - character: Phạm Liệt Hỏa
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+      - name: Kim Hoa Phong
+        role: Luyện khí, rèn kiếm và chế tạo pháp khí
+        headcount:
+          thai_thuong: 0
+          ho_phap: 0
+          truong_lao: 1
+          chan_truyen: 2
+          noi_mon: 10
+          ngoai_mon: 20
+          tap_dich: 1200
+        members:
+          - character: Vương Kim Tỏa
+            position: Phong Chủ
+            cultivation: Nguyên Anh Trung Kỳ
+          - character: Vương Tiểu Kim
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+          - character: Nguyễn Thiết Hoa
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+      - name: Ngọc Hoa Phong
+        role: Đan dược, y liệu và dưỡng sinh
+        headcount:
+          thai_thuong: 0
+          ho_phap: 0
+          truong_lao: 1
+          chan_truyen: 2
+          noi_mon: 10
+          ngoai_mon: 20
+          tap_dich: 800
+        members:
+          - character: Nguyễn Tĩnh Kiếm
+            position: Phong Chủ
+            cultivation: Nguyên Anh Hậu Kỳ
+          - character: Lý Ngọc Dược
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Trung Kỳ
+          - character: Đoàn Ngọc Tâm
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+      - name: Tử Hoa Phong
+        role: Trận pháp, cấm chế và phòng thủ
+        headcount:
+          thai_thuong: 0
+          ho_phap: 0
+          truong_lao: 1
+          chan_truyen: 2
+          noi_mon: 8
+          ngoai_mon: 18
+          tap_dich: 600
+        members:
+          - character: Mã Tử Vân
+            position: Phong Chủ
+            cultivation: Nguyên Anh Trung Kỳ
+          - character: Mã Tiểu Tử
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+          - character: Hà Trận Linh
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+      - name: Thanh Hoa Phong
+        role: Tình báo, ngoại giao và quản lý thông tin
+        headcount:
+          thai_thuong: 0
+          ho_phap: 0
+          truong_lao: 1
+          chan_truyen: 2
+          noi_mon: 8
+          ngoai_mon: 18
+          tap_dich: 500
+        members:
+          - character: Lý Thanh Phong
+            position: Phong Chủ
+            cultivation: Trúc Cơ Hậu Kỳ
+          - character: Lý Thanh Vũ
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+          - character: Chu Minh Nguyệt
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+      - name: Huyền Hoa Phong
+        role: Ám sát, trinh sát và nhiệm vụ bí mật
+        headcount:
+          thai_thuong: 0
+          ho_phap: 0
+          truong_lao: 1
+          chan_truyen: 2
+          noi_mon: 8
+          ngoai_mon: 18
+          tap_dich: 400
+        members:
+          - character: Đặng Huyền Dạ
+            position: Phong Chủ
+            cultivation: Nguyên Anh Trung Kỳ
+          - character: Đặng Ám Ảnh
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+          - character: Trần Vô Thanh
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+      - name: Nguyệt Hoa Phong
+        role: Tu luyện tĩnh tâm, thiền định và nghiên cứu kiếm ý
+        headcount:
+          thai_thuong: 0
+          ho_phap: 0
+          truong_lao: 1
+          chan_truyen: 2
+          noi_mon: 10
+          ngoai_mon: 25
+          tap_dich: 900
+        members:
+          - character: Vũ Phi Kiếm
+            position: Phong Chủ
+            cultivation: Nguyên Anh Trung Kỳ
+          - character: Vũ Nguyệt Nhi
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Sơ Kỳ
+          - character: Lâm Tĩnh Tâm
+            position: Chân Truyền Đệ Tử
+            cultivation: Kim Đan Trung Kỳ
     relationships:
       - faction: Vân Tông
         description: Đồng minh lâu đời, cùng bảo vệ trật tự Chính Đạo Đông Hoang.
