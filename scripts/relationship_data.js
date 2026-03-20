@@ -3032,3 +3032,20 @@ if (typeof characters !== 'undefined') {
         { source: "thuy_nhiet_tuyen", target: "tham_uyen_mau_linh", type: "Cung Cấp", description: "Cung cấp năng lượng nhiệt để duy trì sự sống cho Mẫu Linh." }
     );
 }
+
+// Long Cung (Vô Tận Hải)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "minh_tram_mac", name: "Minh Trầm Mặc", title: "Mưu Sĩ Tây Hải", realm: "Nguyên Anh", faction: "Long Cung", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#2196f3" },
+        { id: "minh_uyen", name: "Minh Uyên", title: "Tây Hải Long Vương", realm: "Hóa Thần", faction: "Long Cung", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#ff5722" },
+        { id: "thanh_han_nguyet", name: "Thanh Hàn Nguyệt", title: "Tuần Sát Sứ Bắc Hải", realm: "Nguyên Anh", faction: "Long Cung", region: "Vô Tận Hải", role: "supporting", pov: false, avatar_color: "#03a9f4" }
+    );
+    relationships.push(
+        { source: "minh_tram_mac", target: "minh_uyen", type: "Trung Thành Tuyệt Đối", description: "Y tuyệt đối trung thành với nàng, là cánh tay phải đắc lực, thường truyền đạt ý chỉ của ngài qua ánh mắt." },
+        { source: "minh_uyen", target: "minh_tram_mac", type: "Tín Nhiệm", description: "Người duy nhất nàng hoàn toàn tin tưởng, thường giao phó những nhiệm vụ đen tối nhất." },
+        { source: "minh_tram_mac", target: "thanh_han_nguyet", type: "Hợp Tác", description: "Thường xuyên trao đổi tình báo bí mật, đánh giá cao sự tàn nhẫn và lạnh lùng của y." },
+        { source: "minh_uyen", target: "thanh_han_nguyet", type: "Lợi Dụng", description: "Coi hắn là một công cụ hữu ích để thăm dò động tĩnh của Bắc Hải, thỉnh thoảng mượn tay hắn diệt trừ kẻ ngáng đường." },
+        { source: "thanh_han_nguyet", target: "minh_uyen", type: "Cảnh Giác", description: "Luôn cảnh giác trước những nụ cười đầy ẩn ý của nàng, biết rằng vị Long Vương này vô cùng nguy hiểm." },
+        { source: "thanh_han_nguyet", target: "minh_tram_mac", type: "Hợp Tác Miễn Cưỡng", description: "Tôn trọng trí tuệ của hắn nhưng không thích sự tĩnh lặng đáng sợ đó, thường miễn cưỡng hợp tác khi có lệnh." }
+    );
+}
