@@ -161,6 +161,8 @@ Mermaid chart bắt buộc cho Hạng Nhất-Nhì, khuyến khích cho Hạng Ba
 - **Nơi Lưu Kết Quả:** `Đạo/Thế_Lực/`
 - **Bộ Nhớ Làm Việc:** Claude Code auto memory (tự động lưu qua các phiên)
 
+**Tham khảo:** Bất kỳ file thế lực đã hoàn chỉnh trong `Đạo/Thế_Lực/` (ví dụ: `Đạo/Thế_Lực/Vạn_Độc_Môn.md`)
+
 ## QUY TẮC NGÔN NGỮ (BẮT BUỘC)
 - **TUYỆT ĐỐI KHÔNG SỬ DỤNG TIẾNG ANH** trong nội dung (trừ tên tệp/đường dẫn kỹ thuật).
 - Tiêu đề, danh xưng dùng Tiếng Việt (Tiếng Trung), ví dụ: `Hồ Sơ Thế Giới (世界档案)`.

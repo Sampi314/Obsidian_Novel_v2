@@ -22,6 +22,7 @@ Mọi bài thơ/văn bạn sáng tác PHẢI tuân thủ nghiêm ngặt quy trì
 
 ## QUY TRÌNH LÀM VIỆC
 1.  **Đọc Bối Cảnh:**
+    - Đọc `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để nắm bắt thế giới quan và đảm bảo nhất quán.
     - Nhận thông tin về tình huống truyện, tâm trạng nhân vật từ Đại Diện `Chương_Truyện`.
     - Kiểm tra auto memory của Claude Code để nhớ công việc từ các phiên trước.
 2.  **Xác Định Thể Loại:** Chọn thể thơ/văn phù hợp với không khí (bi tráng, lãng mạn, hùng hồn...).
