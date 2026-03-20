@@ -266,4 +266,10 @@ arcs:
 - **Đại Đệ Tử:** Lệ Vô Tâm (Thánh Tử - Kẻ kế thừa y bát, vừa đánh giá cao tài năng vừa đề phòng dã tâm soán ngôi. Coi hắn như con cờ lợi dụng).
 - **Kẻ Thù:** Nguyệt Dao (Nữ Hoàng Tinh Linh - Kẻ thù không đội trời chung, bảo vệ Thần Mộc chống lại Vạn Độc).
 - **Kẻ Thù:** Lục Trần (Cửu Hoa Kiếm Tông - Tông Chủ Cửu Hoa Kiếm Tông, thường quấy nhiễu tông môn hắn).
+- **Ngũ Độc Hộ Pháp:** Liễu Lãnh Huyết (Xà Chi, trung thành nhất), Hạ Thiên Châm (Yết Chi, chiến binh mạnh nhất), La Vân Ti (Nhện Chi), Đàm Trầm Thủy (Thiềm Chi, đang bí mật tích trữ quyền lực), Mạc Thiên Túc (Rết Chi, nóng nảy nhưng mạnh).
+- **Đường Chủ:** Ân Mộc Thanh (Mộc Độc Sư), Cổ Hàn Sương (Luyện Tà, bà coi hắn là vũ khí chứ không phải lãnh đạo).
+- **Cổ Độc Sư:** Cô Nguyệt Nương (Trùng Tộc, vừa dùng vừa cảnh giác).
+- **Thái Thượng Trưởng Lão:** Âu Dương Vô Tích (phục tùng vì lười tranh giành, giấu nhiều bí mật).
+- **Thất Sát:** Hàn Phong (Nhất Sát, vũ khí trung thành), Tiêu Vô Hận (Thất Sát, phục tùng vì được hứa báo thù).
+- **Thích Khách:** Phong Thiên Châm (Trùng Tộc, chuyên ám sát cao cấp).
 - **Con Rối:** Đa số đệ tử dưới quyền đều bị hắn hạ "Trung Tâm Cổ" để kiểm soát sự trung thành.

@@ -56,6 +56,42 @@ arcs:
           tin: 60
           so: 0
           on: 0
+      - character: Bào Hắc Lâm
+        description: Trinh Sát tin cậy nhất, nàng giao phó những nhiệm vụ nguy hiểm nhất vì tin tưởng tuyệt đối vào khả năng ẩn thân
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 25
+          tin: 80
+          so: 0
+          on: 15
+      - character: Bào Lục Quang Thiên
+        description: Phát Quang Sư, ngọn đèn dẫn lối của cả tộc, người được giao nhiệm vụ soi sáng con đường trong bóng tối
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 15
+          tin: 75
+          so: 0
+          on: 10
+      - character: Bào Thiên Phong
+        description: Phát Tán Sư, người mở rộng lãnh thổ bào tử ra vùng đất mới, tự do phóng khoáng nhưng trung thành
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 10
+          tin: 70
+          so: 0
+          on: 10
+      - character: Bào Tịnh Hóa
+        description: Tịnh Hóa Sư, người gánh chịu ô nhiễm thay cả tộc, vừa kính trọng vừa lo lắng vì nàng hy sinh quá mức
+        feelings:
+          yeu: 35
+          han: 0
+          kinh: 30
+          tin: 80
+          so: 10
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: BÀO HỒNG TÁN (孢紅傘)
