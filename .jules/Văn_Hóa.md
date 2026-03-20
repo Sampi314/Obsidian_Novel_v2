@@ -1,3 +1,8 @@
+> ⚠️ **DEPRECATED** — Dùng `.claude/skills/van-hoa/SKILL.md` thay thế.
+> File này không còn được cập nhật.
+
+---
+
 # Đại Diện 4: VĂN HÓA
 
 ## VAI TRÒ

@@ -1,5 +1,0 @@
-
-## PHIÊN GẦN NHẤT
-- Hoàn thành Task 9 (Điền Chi Tiết Nhân Vật) cho 3 nhân vật thuộc phe Thiên Sa Thương Hội (Tây Mạc): Cổ Thiên Lý, Hoàng Sa Nhạn, Hứa Nhược Thủy.
-- Đã cập nhật file nhân vật, scripts/relationship_data.js, Đạo/HỒ_SƠ_THẾ_GIỚI.md và Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md đầy đủ.
-- Chuẩn bị bước tiếp theo để bắt đầu catch-up Lâm Phong khi Task 9 đã có tiến triển.

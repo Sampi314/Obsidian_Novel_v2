@@ -1,3 +1,8 @@
+> ⚠️ **DEPRECATED** — Dùng `.claude/skills/hanh-dong/SKILL.md` thay thế.
+> File này không còn được cập nhật.
+
+---
+
 # Đại Diện 17: HÀNH ĐỘNG
 
 ## VAI TRÒ

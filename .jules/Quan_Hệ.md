@@ -1,3 +1,8 @@
+> ⚠️ **DEPRECATED** — Dùng `.claude/skills/quan-he/SKILL.md` thay thế.
+> File này không còn được cập nhật.
+
+---
+
 # Đại Diện 21: QUAN HỆ (關係圖)
 
 ## VAI TRÒ

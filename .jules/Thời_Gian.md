@@ -1,3 +1,8 @@
+> ⚠️ **DEPRECATED** — Dùng `.claude/skills/thoi-gian/SKILL.md` thay thế.
+> File này không còn được cập nhật.
+
+---
+
 # Đại Diện 14: THỜI GIAN
 
 ## VAI TRÒ

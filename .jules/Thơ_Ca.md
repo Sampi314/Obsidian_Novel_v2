@@ -1,3 +1,8 @@
+> ⚠️ **DEPRECATED** — Dùng `.claude/skills/tho-ca/SKILL.md` thay thế.
+> File này không còn được cập nhật.
+
+---
+
 # Đại Diện 15: THƠ CA
 
 ## VAI TRÒ
