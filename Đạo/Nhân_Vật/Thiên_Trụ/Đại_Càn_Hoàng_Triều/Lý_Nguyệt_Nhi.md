@@ -32,9 +32,14 @@ Thiếu nữ xinh đẹp thanh thoát, dung mạo như trăng rằm sáng tỏ, 
 Tu luyện Nguyệt Hoa Thuật — chi lưu nhẹ nhàng của Hoàng Đạo Chân Kinh, chuyên về chữa trị và bảo hộ. Linh lực mang thuộc tính nguyệt quang, có thể chữa lành vết thương và giải trừ độc tố. Tuy chiến lực không cao nhưng năng lực chữa trị hiếm có, được coi là báu vật của hoàng gia.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Lý Thiên Vũ]] — Phụ hoàng, người sủng ái cô nhất, luôn bảo vệ khỏi mưu mô triều chính.
-- [[Lý Thiên Long]] — Thái Tử huynh, người mà cô thương yêu và lo lắng nhất.
-- [[Hà Thiên Chiêu]] — Bằng hữu thân thiết, thường cùng nhau ngắm trăng sao trong cung.
-
+- **Bao Chính** (Sư đồ): Bao Chính chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Hà Thiên Chiêu** (Sư đồ): Hà Thiên Chiêu chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Khổng Minh Đức** (Sư đồ): Khổng Minh Đức chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Lý Thiên Long** (Sư đồ): Lý Thiên Long chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Lý Thiên Phượng** (Sư đồ): Lý Thiên Phượng chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Lý Thiên Vũ** (Sư đồ): Lý Thiên Vũ chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Mộ Dung Chiến** (Sư đồ): Mộ Dung Chiến chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Lưu Phong Thành** (Sư đồ): Lưu Phong Thành chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Lỗ Thiên Kiều** (Sư đồ): Lỗ Thiên Kiều chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Là con gái duy nhất của Càn Đế, được sủng ái vô cùng. Từ nhỏ không thích mưu mô chính trị, chỉ say mê tu luyện y thuật và ngắm trăng sao. Phát hiện Nguyệt Hoa Thuật hoàn toàn ngẫu nhiên khi cố chữa trị cho con chim bị thương trong cung. Luôn lo lắng về mâu thuẫn ngày càng gay gắt giữa hai anh trai, hy vọng gia đình hoàng thất có thể hòa thuận.

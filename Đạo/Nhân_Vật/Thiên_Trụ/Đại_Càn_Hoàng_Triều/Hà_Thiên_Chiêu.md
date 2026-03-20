@@ -32,9 +32,10 @@ Thiếu nữ trẻ tuổi dáng mảnh mai, mái tóc dài đen mượt buông x
 Tu luyện Quan Tinh Thuật do Tư Mã Tinh Vân truyền dạy, tuy chưa đạt đến trình độ của sư phụ nhưng đã có thể dự đoán cát hung ngắn hạn. Sở trường sử dụng Tinh La Bàn để định vị và truy tìm, có thể tìm ra vị trí của bất kỳ ai trong phạm vi nghìn dặm. Đang nghiên cứu cách kết hợp Quan Tinh Thuật với Long Mạch Thuật để nâng cao độ chính xác dự đoán.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Tư Mã Tinh Vân]] — Khâm Thiên Giám Chính, sư phụ kính yêu, người dẫn dắt cô vào thiên đạo.
-- [[Lý Nguyệt Nhi]] — Công Chúa, bằng hữu thân thiết, thường cùng nhau ngắm sao đêm.
-- [[Trương Văn Hàn]] — Hàn Lâm Học Sĩ, sư huynh cùng theo học Nho đạo thời niên thiếu.
-
+- **Bao Chính** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Khổng Minh Đức** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Lý Nguyệt Nhi** (Sư đồ): Hà Thiên Chiêu chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Lý Thiên Long** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Lý Thiên Phượng** (Sư đồ): Hà Thiên Chiêu chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mồ côi từ nhỏ, được Tư Mã Tinh Vân nhặt về nuôi dạy khi phát hiện cô có linh căn đặc biệt tương thích với Quan Tinh Thuật. Cô lớn lên trong Khâm Thiên Giám, coi tinh tú là bạn bè, sư phụ là cha. Tuy tuổi còn trẻ nhưng đã lập công lớn khi dự đoán chính xác vị trí bọn gián điệp Ma Tông trong kinh thành. Được bổ nhiệm Phó Giám, là nữ quan viên trẻ nhất trong lịch sử Khâm Thiên Giám.
