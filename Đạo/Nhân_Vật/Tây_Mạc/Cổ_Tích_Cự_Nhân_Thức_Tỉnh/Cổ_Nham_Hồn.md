@@ -32,9 +32,8 @@ Cổ Nham Hồn có thân hình vạm vỡ, rắn rỏi hơn hẳn những Cự 
 Với tu vi hiện tại đã tụt xuống Trúc Cơ Hậu Kỳ, Cổ Nham Hồn chiến đấu chủ yếu bằng sức mạnh thể chất áp đảo và kỹ năng cận chiến bạo liệt của Cự Tộc. Tuyệt kỹ của ông là "Băng Nham Toái Hồn" (崩岩碎魂) — dồn toàn bộ sức mạnh vào một cú đấm có thể phá vỡ cả không gian xung quanh, gây ra chấn động lan truyền làm tan nát nội tạng đối thủ. Ông sử dụng một mảnh cột đá khổng lồ lấy từ phế tích làm vũ khí. Tuy nhiên, những vết nứt cũ trên cơ thể khiến ông dễ bị tổn thương bởi các loại linh hỏa và khí độc nếu trận chiến kéo dài.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Cổ Mộng:** Cổ Nham Hồn coi Trưởng Lão Cổ Mộng như hiện thân cuối cùng của vinh quang Cổ Quốc. Dù không hiểu hết những lời Cổ Mộng lẩm bẩm, ông vẫn là tấm khiên trung thành, sẵn sàng thực thi mọi mệnh lệnh.
-- **Cổ Sơn:** Từng là đồng đội sát cánh trong quá khứ, Cổ Nham Hồn rất xót xa trước tình trạng hoảng loạn của Cổ Sơn hiện tại, thường lặng lẽ bảo vệ và chia sẻ con mồi săn được.
+- **Cổ Mộng** (Sư phụ): Cổ Nham Hồn coi Trưởng Lão Cổ Mộng như hiện thân cuối cùng của vinh quang Cổ Quốc. Dù không hiểu hết những lời Cổ Mộng lẩm bẩm, ông vẫn là tấm khiên trung thành, sẵn sàng thực thi mọi mệnh lệnh.
+- **Cổ Sơn** (Đồng minh): Từng là đồng đội sát cánh trong quá khứ, Cổ Nham Hồn rất xót xa trước tình trạng hoảng loạn của Cổ Sơn hiện tại, thường lặng lẽ bảo vệ và chia sẻ con mồi săn được.
 - **Cổ Sa Yêu Tộc:** Cổ Nham Hồn có linh cảm tồi tệ và phản ứng thù địch vô cớ bất cứ khi nào đánh hơi thấy mùi của Yêu Tộc cổ đại, dường như chúng có liên quan đến những vết thương chưa bao giờ lành trên cơ thể ông.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trước khi bị phong ấn, Cổ Nham Hồn là một Tướng Quân vinh quang của Hoàng Sa Cổ Quốc, người từng chỉ huy những trận chiến rung chuyển đất trời. Tuy nhiên, giấc ngủ hàng ngàn năm đã xóa sạch ký ức về nguyên nhân thất bại và sự sụp đổ của vương quốc. Tỉnh dậy trong một phế tích hoang tàn và nhìn thấy thân xác tàn tạ của mình cùng đồng loại, ông chọn cách chôn vùi quá khứ huy hoàng để tập trung vào thực tại tàn khốc. Hiện tại, Cổ Nham Hồn đảm nhận vai trò người bảo vệ, thường xuyên tuần tra vòng ngoài phế tích Lưu Sa Cổ Thành, săn bắt thú hoang và đập nát bất kỳ kẻ tò mò nào dám xâm phạm lãnh địa cuối cùng của họ.

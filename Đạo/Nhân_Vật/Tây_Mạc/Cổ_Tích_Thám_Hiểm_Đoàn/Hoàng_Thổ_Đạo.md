@@ -38,10 +38,10 @@ Dù chỉ ở Trúc Cơ Hậu Kỳ, Hoàng Thổ Đạo là thám hiểm viên g
 - Trong chiến đấu trực diện, hắn chỉ dùng đoản kiếm tự vệ ở mức cơ bản, và dựa vào Thổ Độn Thuật để rút lui khi gặp nguy hiểm quá sức.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Cổ Trần:** Đoàn Trưởng và sư phụ dạy hắn Thổ Độn Thuật. Hắn là người Lý Cổ Trần tin tưởng nhất để dẫn đầu vào các di tích nguy hiểm, và cũng là người thường xuyên phải kéo ông ra khi ông mải mê nghiên cứu trong di tích sắp sụp.
-- **Nguyễn Dịch Cổ:** Phó Đoàn thường đi cùng hắn trong các chuyến thám hiểm. Hắn dẫn đường và phá bẫy, cô giải mã cổ văn — bộ đôi phối hợp ăn ý nhất đoàn.
+- **Lý Cổ Trần** (Chủ tớ): Đoàn Trưởng và sư phụ dạy hắn Thổ Độn Thuật. Hắn là người Lý Cổ Trần tin tưởng nhất để dẫn đầu vào các di tích nguy hiểm, và cũng là người thường xuyên phải kéo ông ra khi ông mải mê nghiên cứu trong di tích sắp sụp.
+- **Nguyễn Dịch Cổ** (Đồng minh): Phó Đoàn thường đi cùng hắn trong các chuyến thám hiểm. Hắn dẫn đường và phá bẫy, cô giải mã cổ văn — bộ đôi phối hợp ăn ý nhất đoàn.
+- **Trần Phá Bẫy** (Đồng minh): Đồng liêu cùng Cổ Tích Thám Hiểm Đoàn, hỗ trợ lẫn nhau
 - **Sa Tặc Liên Minh:** Hắn từng bị Sa Tặc phục kích khi đi khảo sát một mình, suýt mất mạng. Từ đó hắn luôn mang theo bẫy tự chế để đề phòng, và không bao giờ đi thám hiểm một mình nữa.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoàng Thổ Đạo vốn là thợ đào mỏ trong một hầm khoáng sản nhỏ ở rìa Tây Mạc, cuộc sống vất vả và nguy hiểm suốt ngày chui rúc dưới lòng đất. Một ngày nọ, hắn đào trúng một lối vào di tích cổ đại, và thay vì hoảng sợ bỏ chạy, bản năng sinh tồn và sự tò mò đã thúc đẩy hắn khám phá sâu hơn. Hắn sống sót được ba ngày trong di tích đầy bẫy nhờ kinh nghiệm đào mỏ, và khi thoát ra ngoài đã mang theo một viên linh thạch giúp hắn bắt đầu con đường tu luyện.
 

@@ -32,9 +32,8 @@ Vạn Cổ Thạch là một khối đá khổng lồ cao hàng trăm trượng 
 Vạn Cổ Thạch tu vi Luyện Hư Sơ Kỳ nhưng gần như không bao giờ chiến đấu. Năng lực *Thạch Tổ Chấn Mạch* (石祖震脈) kết nối toàn bộ mạch đất trong phạm vi ngàn dặm, kích hoạt địa chấn kinh hoàng. Phòng thủ bằng *Vạn Cổ Bất Hoại Thể* (萬古不壞體) — thân thể kết tinh hàng triệu năm, cứng đến mức ngay cả Hóa Thần cường giả cũng khó gây tổn thương. Điểm yếu là hoàn toàn bất động và mọi năng lực chỉ phát huy trong phạm vi mạch đất.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Vạn Niên Nham (Đại Trưởng Lão):** Người duy nhất giao tiếp trực tiếp với Thạch Tổ và truyền đạt ý chỉ cho toàn bộ lạc.
-- **Thạch Uy:** Chiến Thạch Thần mạnh nhất, được Thạch Tổ tin tưởng giao nhiệm vụ bảo vệ vòng ngoài.
+- **Thạch Uy** (Sư phụ): Chiến Thạch Thần mạnh nhất, được Thạch Tổ tin tưởng giao nhiệm vụ bảo vệ vòng ngoài.
+- **Vạn Niên Nham:** Người duy nhất giao tiếp trực tiếp với Thạch Tổ và truyền đạt ý chỉ cho toàn bộ lạc.
 - **Thạch Lôi:** Thạch Tổ từng phát ra rung động đặc biệt khi Lôi ra đời, được coi là điềm lành cho bộ lạc.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vạn Cổ Thạch tồn tại từ thời khai thiên lập địa, là một trong những thực thể cổ xưa nhất Cố Nguyên Giới. Ngài hình thành khi linh khí Thổ nguyên thủy kết tụ tại giao điểm nhiều mạch đất, dần phát triển linh trí qua hàng triệu năm. Toàn bộ Thạch Lâm Uyển thực chất là sản phẩm của ngài — mỗi cột đá là phần cơ thể kéo dài, và Thạch Tộc sinh ra trong rừng đều mang một phần linh trí của ngài. Ngài chứng kiến sự trỗi dậy và sụp đổ của vô số văn minh nhưng chưa bao giờ can thiệp. Tuy nhiên, gần đây ngài cảm nhận được rung động bất thường từ sâu trong lòng đất, thứ gì đó chưa từng gặp trong hàng triệu năm — và lần đầu tiên, Thạch Tổ tỏ ra bất an.
