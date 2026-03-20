@@ -1,4 +1,4 @@
-var relationshipData = {
+const relationshipData = {
   "characters": [
     {
       "id": "huyen_sa",
@@ -25339,6 +25339,336 @@ var relationshipData = {
       "race": "Nhân Tộc",
       "personality": "Trầm ổn, Trọng tình",
       "description": "Thân hình vạm vỡ như thiết tháp, mang một thanh trọng đao khổng lồ sau lưng."
+    },
+    {
+      "id": "lang_tuyet_nha",
+      "name": "Lang Tuyết Nha",
+      "title": "Tuyết Lang Nha",
+      "realm": "Nguyên Anh Viên Mãn",
+      "faction": "Băng Lang Bộ Lạc",
+      "region": "Bắc Băng",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "nham_hung_bach",
+      "name": "Nham Hùng Bách",
+      "title": "Chiến Binh",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Băng Nguyên Khai Hoang Đội",
+      "region": "Bắc Băng",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "ho_bach_tuyet",
+      "name": "Hồ Bạch Tuyết",
+      "title": "Tộc Trưởng",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Bạch Hồ Ẩn Tộc",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ho_tuyet_linh",
+      "name": "Hồ Tuyết Linh",
+      "title": "Trưởng Lão",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Bạch Hồ Ẩn Tộc",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "sa_thiet_quan",
+      "name": "Sa Thiết Quân",
+      "title": "Phu Khuân",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cự Tộc Phu Khuân Vác",
+      "region": "Bắc Băng",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "sa_trong_duc",
+      "name": "Sa Trọng Đức",
+      "title": "Đội Trưởng",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Cự Tộc Phu Khuân Vác",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "hac_bang_ngoc",
+      "name": "Hạc Băng Ngọc",
+      "title": "Dệt Sư",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Lông Vũ Phường",
+      "region": "Bắc Băng",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "vu_phong_cot",
+      "name": "Vũ Phong Cốt",
+      "title": "Cố Vấn",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Phong Vũ Trinh Sát Đội",
+      "region": "Bắc Băng",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "vu_tieu_phieu",
+      "name": "Vũ Tiểu Phiêu",
+      "title": "Đội Trưởng",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Phong Vũ Trinh Sát Đội",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "thach_ngu_linh",
+      "name": "Thạch Ngữ Linh",
+      "title": "Đặc Biệt",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Tuyết Cự Nhân Lạc Đoàn",
+      "region": "Bắc Băng",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "phuong_huyen_minh",
+      "name": "Phượng Huyền Minh",
+      "title": "Trưởng Lão",
+      "realm": "Nguyên Anh Hậu Kỳ",
+      "faction": "Phượng Hỏa Tộc",
+      "region": "Nam Cương",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "phuong_viem_hong",
+      "name": "Phượng Viêm Hồng",
+      "title": "Chiến Sĩ Trẻ",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Phượng Hỏa Tộc",
+      "region": "Nam Cương",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "thach_loi_chan",
+      "name": "Thạch Lôi Chấn",
+      "title": "Chiến Sĩ",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Cổ Thạch Bộ Lạc",
+      "region": "Thiên Trụ",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "qua_huyet_linh",
+      "name": "Quạ Huyết Linh",
+      "title": "Sát Thủ Đội Trưởng",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Cực Quang Thần Điện",
+      "region": "Thiên Trụ",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "cong_kim_hoa",
+      "name": "Công Kim Hoa",
+      "title": "Phường Chủ",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Lông Vũ Phường",
+      "region": "Thiên Trụ",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "sa_co_liet",
+      "name": "Sa Cổ Liệt",
+      "title": "Tộc Trưởng",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Cổ Sa Yêu Tộc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "hoa_nham_uy",
+      "name": "Hỏa Nham Uy",
+      "title": "Chiến Tướng",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Hoàng Sa Cổ Quốc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "thiet_giap_hung",
+      "name": "Thiết Giáp Hùng",
+      "title": "Đàn Chủ",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Thiết Giáp Yêu Thú Đàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "son_minh_ha",
+      "name": "Sơn Minh Hà",
+      "title": "Hộ Pháp Cự Nhân",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Thủy Nguồn Bảo Vệ Đoàn",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "phong_sa_liet",
+      "name": "Phong Sa Liệt",
+      "title": "Chiến Sĩ",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Tán Tu",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ho_nguyet_dao",
+      "name": "Hồ Nguyệt Dao",
+      "title": "Trưởng Lão Hồng Phấn Các",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Hợp Hoan Tông",
+      "region": "Đông Hoang",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "nham_tran_son",
+      "name": "Nham Trấn Sơn",
+      "title": "Tướng Quân Cự Tộc",
+      "realm": "Nguyên Anh Hậu Kỳ",
+      "faction": "Thiên Trụ Hộ Vệ Đoàn",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "tru_thiet_nha",
+      "name": "Trư Thiết Nha",
+      "title": "Dã Trư Bộ Lạc Trưởng",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Thiên Yêu Đình",
+      "region": "Đông Hoang",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "hoang_son_mac",
+      "name": "Hoang Sơn Mặc",
+      "title": "Ẩn Sĩ",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Tán Tu",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "hac_thiet_nham",
+      "name": "Hắc Thiết Nham",
+      "title": "Đấu Sĩ",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Tán Tu",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "cuong_ho_phong",
+      "name": "Cương Hổ Phong",
+      "title": "Chiến Vu Đội Trưởng",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Vu Tộc Chiếu Cáo",
+      "region": "Đông Hoang",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "hung_ngan_loi",
+      "name": "Hùng Ngân Lôi",
+      "title": "Ngoại Thành Chủ",
+      "realm": "Kim Đan Viên Mãn",
+      "faction": "Vạn Yêu Thành",
+      "region": "Đông Hoang",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ho_huyet_nha",
+      "name": "Hổ Huyết Nha",
+      "title": "Đấu Trường Chủ",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Vạn Yêu Thành",
+      "region": "Đông Hoang",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "mang_luc_truong",
+      "name": "Mãng Lục Trường",
+      "title": "Hắc Thị Chủ",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Vạn Yêu Thành",
+      "region": "Đông Hoang",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "xa_am_van",
+      "name": "Xà Ám Vân",
+      "title": "Bán Thuốc Rong",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Vạn Yêu Thành Ngoại Vi",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
     }
   ],
   "relationships": [
@@ -58633,6 +58963,324 @@ var relationshipData = {
       "target": "vu_tat_phong",
       "type": "Đồng Minh",
       "description": "Hay trêu chọc nhưng luôn bảo vệ"
+    },
+    {
+      "source": "lang_tuyet_nha",
+      "target": "lang_nguyet_nha",
+      "type": "ally",
+      "description": "Phu nhân tri kỷ, người phụ tá mưu lược bên cạnh suốt trăm năm"
+    },
+    {
+      "source": "lang_tuyet_nha",
+      "target": "lang_cuong",
+      "type": "family",
+      "description": "Con trai trưởng, thái tử nối dõi nhưng tính tình nóng nảy khiến lão lo lắng"
+    },
+    {
+      "source": "lang_tuyet_nha",
+      "target": "lang_tinh_nguyet",
+      "type": "family",
+      "description": "Con gái út yêu quý, thông minh nhưng quá mềm mỏng để cai trị"
+    },
+    {
+      "source": "lang_tuyet_nha",
+      "target": "lang_han_thien_no",
+      "type": "subordinate",
+      "description": "Đại tướng quân trung thành nhất, cánh tay phải trên chiến trường"
+    },
+    {
+      "source": "lang_tuyet_nha",
+      "target": "lang_han_nha",
+      "type": "ally",
+      "description": "Cựu chiến binh bị trục xuất theo luật cổ, nỗi áy náy chôn giấu trong lòng lão"
+    },
+    {
+      "source": "nham_hung_bach",
+      "target": "thach_khai_son",
+      "type": "subordinate",
+      "description": "Đội Trưởng và người hắn tuyệt đối trung thành, lý do duy nhất hắn rời Lạc Đoàn"
+    },
+    {
+      "source": "nham_hung_bach",
+      "target": "thach_thiet_chuy",
+      "type": "ally",
+      "description": "Uy Trấn và đồng đội đáng tin cậy, người giữ hậu phương khi hắn xông lên"
+    },
+    {
+      "source": "nham_hung_bach",
+      "target": "thach_tieu_son",
+      "type": "mentor",
+      "description": "Đoàn Trưởng Lạc Đoàn, trưởng bối đã dạy hắn cách sống giữa băng giá"
+    },
+    {
+      "source": "ho_bach_tuyet",
+      "target": "ho_tuyet_nhi",
+      "type": "ally",
+      "description": "Đại trưởng lão, chị gái ruột, người duy nhất cùng bà sống sót từ cuộc thảm sát năm xưa"
+    },
+    {
+      "source": "ho_bach_tuyet",
+      "target": "ho_thanh_nguyet",
+      "type": "disciple",
+      "description": "Hộ vệ trưởng trung thành, đệ tử đầu tiên bà đào tạo trong thời kỳ lưu vong"
+    },
+    {
+      "source": "ho_bach_tuyet",
+      "target": "ho_tieu_bach",
+      "type": "disciple",
+      "description": "Cháu gái ruột, con của đệ tử quá cố, bà xem như con đẻ"
+    },
+    {
+      "source": "ho_bach_tuyet",
+      "target": "ho_ngoc_chau",
+      "type": "ally",
+      "description": "Thợ lặn giỏi nhất tộc, người bà giao phó trọng trách kinh tế"
+    },
+    {
+      "source": "ho_bach_tuyet",
+      "target": "ho_an_phong",
+      "type": "ally",
+      "description": "Giám sát yêu khí, đôi tai thính nhất tộc, bà tin tưởng tuyệt đối trong việc canh gác"
+    },
+    {
+      "source": "ho_bach_tuyet",
+      "target": "chau_pha_thien",
+      "type": "enemy",
+      "description": "Đội trưởng Phá Băng Thương Đội, đối tác thương mại duy nhất biết thân phận thật của tộc"
+    },
+    {
+      "source": "ho_tuyet_linh",
+      "target": "ho_bach_lien",
+      "type": "master",
+      "description": "Em gái ruột, tộc trưởng, người mà bà nguyện dùng mạng sống để bảo vệ"
+    },
+    {
+      "source": "ho_tuyet_linh",
+      "target": "ho_thanh_nguyet",
+      "type": "mentor",
+      "description": "Đệ tử chiến đấu, hộ vệ trưởng, người bà truyền dạy kỹ thuật chiến đấu trực tiếp"
+    },
+    {
+      "source": "ho_tuyet_linh",
+      "target": "ho_tieu_bach",
+      "type": "ally",
+      "description": "Cháu nhỏ nghịch ngợm, bà yêu thương chiều chuộng nhưng cũng lo lắng"
+    },
+    {
+      "source": "ho_tuyet_linh",
+      "target": "ho_ngoc_chau",
+      "type": "ally",
+      "description": "Tộc nhân cần mẫn, bà đánh giá cao tinh thần trách nhiệm"
+    },
+    {
+      "source": "ho_tuyet_linh",
+      "target": "ho_an_phong",
+      "type": "ally",
+      "description": "Giám sát yêu khí, bà xem như cánh tay phải trong việc phòng thủ"
+    },
+    {
+      "source": "sa_thiet_quan",
+      "target": "sa_trong_duc",
+      "type": "subordinate",
+      "description": "Đội trưởng và ân nhân cứu mạng, người duy nhất y tuyệt đối phục tùng"
+    },
+    {
+      "source": "sa_thiet_quan",
+      "target": "thien_can",
+      "type": "ally",
+      "description": "Thợ xây Cự Tộc Thợ Xây, thường phối hợp trong các công trình, tính tình tương phản nhưng hợp ý"
+    },
+    {
+      "source": "sa_thiet_quan",
+      "target": "bang_dong_thach",
+      "type": "master",
+      "description": "Thủ vệ Đông Miên Thủ Vệ, quen biết qua các chuyến vận chuyển, kính trọng sự kiên định"
+    },
+    {
+      "source": "sa_thiet_quan",
+      "target": "van_quan",
+      "type": "ally",
+      "description": "Thợ Xây Trưởng, người hay đặt hàng vận chuyển, quan hệ nghề nghiệp tốt"
+    },
+    {
+      "source": "sa_thiet_quan",
+      "target": "nham_dai_chuy",
+      "type": "ally",
+      "description": "Phường Chủ Băng Sơn Thợ Đá, đồng cảnh ngộ Cự Tộc lao động"
+    },
+    {
+      "source": "sa_trong_duc",
+      "target": "nham_dai_chuy",
+      "type": "ally",
+      "description": "Phường Chủ Băng Sơn Thợ Đá, khách hàng thường xuyên thuê vận chuyển đá xây dựng"
+    },
+    {
+      "source": "sa_trong_duc",
+      "target": "van_quan",
+      "type": "ally",
+      "description": "Thợ Xây Trưởng Cự Tộc Thợ Xây, đối tác phối hợp vận chuyển-xây dựng nhiều năm"
+    },
+    {
+      "source": "hac_bang_ngoc",
+      "target": "vu_mao_nhi",
+      "type": "mentor",
+      "description": "Phường Chủ, sư phụ dạy phân loại lông vũ, ân nhân cưu mang lúc sa cơ"
+    },
+    {
+      "source": "hac_bang_ngoc",
+      "target": "lien_tuyet_nhi",
+      "type": "ally",
+      "description": "Đối tác cung cấp tơ Băng Tằm, quan hệ thương mại nhưng nể phục nhau"
+    },
+    {
+      "source": "hac_bang_ngoc",
+      "target": "vu_nhan_nhi",
+      "type": "ally",
+      "description": "Thiếu nữ Phong Vũ Trinh Sát Đội, thỉnh thoảng mang lông vũ đến đổi, nhắc nhở nàng về tuổi trẻ"
+    },
+    {
+      "source": "vu_phong_cot",
+      "target": "vu_tieu_phieu",
+      "type": "ally",
+      "description": "Đội trưởng, coi như cháu ruột, lo lắng cho tính mạo hiểm của hắn"
+    },
+    {
+      "source": "vu_phong_cot",
+      "target": "vu_thanh_phong",
+      "type": "mentor",
+      "description": "Phó đội trưởng đáng tin cậy, truyền dạy kinh nghiệm đọc gió"
+    },
+    {
+      "source": "vu_phong_cot",
+      "target": "vu_nhan_nhi",
+      "type": "ally",
+      "description": "Trinh sát viên trẻ nhất, nhắc nhở lão về thời trai trẻ"
+    },
+    {
+      "source": "vu_tieu_phieu",
+      "target": "vu_thanh_phong",
+      "type": "ally",
+      "description": "Phó đội, bạn thân nhất từ thuở nhỏ, người duy nhất y tin tưởng tuyệt đối"
+    },
+    {
+      "source": "vu_tieu_phieu",
+      "target": "vu_nhan_nhi",
+      "type": "master",
+      "description": "Trinh sát viên trẻ nhất, muội muội của cả đội, người y muốn bảo vệ nhất"
+    },
+    {
+      "source": "phuong_huyen_minh",
+      "target": "phuong_xich",
+      "type": "mentor",
+      "description": "Tộc Trưởng, cháu mấy đời mà ông coi như con, tận tâm dạy dỗ đường lối cai trị"
+    },
+    {
+      "source": "phuong_huyen_minh",
+      "target": "cong_thai_hong",
+      "type": "ally",
+      "description": "Chiến Tướng, vị tướng trẻ mà ông đánh giá cao nhất trong thế hệ hiện tại"
+    },
+    {
+      "source": "phuong_huyen_minh",
+      "target": "phuong_xich_diem",
+      "type": "ally",
+      "description": "Chiến Sĩ, chắt trai mà ông thường kể chuyện lịch sử gia tộc cho nghe"
+    },
+    {
+      "source": "phuong_viem_hong",
+      "target": "phuong_xich_diem",
+      "type": "ally",
+      "description": "Chiến Sĩ, anh trai mà hắn ngưỡng mộ cuồng nhiệt, luôn bám đuôi theo sau"
+    },
+    {
+      "source": "phuong_viem_hong",
+      "target": "phuong_viem_phong",
+      "type": "ally",
+      "description": "Chiến Sĩ, anh họ kiên nhẫn dạy hắn bay, người hắn thân thiết nhất sau anh trai"
+    },
+    {
+      "source": "phuong_viem_hong",
+      "target": "phuong_xich",
+      "type": "family",
+      "description": "Tộc Trưởng, cha ruột mà hắn vừa yêu vừa sợ, luôn cố gắng làm cha vui lòng"
+    },
+    {
+      "source": "phuong_viem_hong",
+      "target": "phuong_huyen_minh",
+      "type": "ally",
+      "description": "Trưởng Lão, cụ tổ hay kể chuyện cổ tích khiến hắn mê mẩn"
+    },
+    {
+      "source": "qua_huyet_linh",
+      "target": "phuong_kim_si",
+      "type": "master",
+      "description": "Tả Hộ Pháp, thượng cấp trực tiếp ra lệnh thanh trừng — hắn tuân lệnh nhưng không sợ"
+    },
+    {
+      "source": "qua_huyet_linh",
+      "target": "qua_hac_da",
+      "type": "subordinate",
+      "description": "Thuộc hạ trung thành nhất, kẻ hắn tự tay huấn luyện từ đứa trẻ mồ côi"
+    },
+    {
+      "source": "qua_huyet_linh",
+      "target": "cu_tinh_vu",
+      "type": "family",
+      "description": "Mưu sĩ cung cấp danh sách mục tiêu — hắn coi Tĩnh Vũ là con rắn nguy hiểm nhưng cần thiết"
+    },
+    {
+      "source": "qua_huyet_linh",
+      "target": "bang_van_ly",
+      "type": "ally",
+      "description": "Tiên Phong Tướng, kẻ chiến đấu ngoài sáng — hắn coi thường lối đánh vũ phu của Vạn Lý"
+    },
+    {
+      "source": "qua_huyet_linh",
+      "target": "ung_liet_phong",
+      "type": "ally",
+      "description": "Chiến tướng đồng cấp, từng phối hợp trong nhiều chiến dịch — quan hệ tôn trọng nhưng lạnh nhạt"
+    },
+    {
+      "source": "sa_co_liet",
+      "target": "sa_hoang_thien_phong",
+      "type": "ally",
+      "description": "Trưởng lão thân cận nhất, người duy nhất biết một phần bí mật phong ấn"
+    },
+    {
+      "source": "sa_co_liet",
+      "target": "sa_bao",
+      "type": "ally",
+      "description": "Trưởng lão nóng nảy, thường xung đột về đường lối ẩn cư"
+    },
+    {
+      "source": "sa_co_liet",
+      "target": "sa_linh_nham",
+      "type": "subordinate",
+      "description": "Phong ấn thủ trung thành, canh giữ phòng phong ấn theo lệnh trực tiếp"
+    },
+    {
+      "source": "sa_co_liet",
+      "target": "sa_mac_hon_da",
+      "type": "ally",
+      "description": "Thám tử trưởng giỏi nhất, tai mắt của tộc trên bề mặt sa mạc"
+    },
+    {
+      "source": "sa_co_liet",
+      "target": "sa_ngoc",
+      "type": "ally",
+      "description": "Dược sư trẻ tài giỏi, người y kỳ vọng sẽ kéo dài tuổi thọ cho tộc nhân"
+    },
+    {
+      "source": "sa_co_liet",
+      "target": "sa_doc_hat_vuong",
+      "type": "ally",
+      "description": "Cổ thú đồng minh từ thời Hoàng Sa Cổ Quốc, canh giữ ngoại vi hang cổ"
+    },
+    {
+      "source": "sa_co_liet",
+      "target": "ho_nguyet_nhi",
+      "type": "ally",
+      "description": "Yêu Hồ biết sự tồn tại của Cổ Sa, để yên thì tốt — động vào thì diệt"
     }
   ],
   "factions": [

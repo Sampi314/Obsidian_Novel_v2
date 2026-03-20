@@ -12,7 +12,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Kim Sa Vi Mạch (Tây Mạc)
+### [Hiện Tại] - Hoàn thiện nhân vật Sương Ma Uyển (Bắc Băng)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Sương Vô Tình, Tuyệt Tình Hàn, Ám Băng Nhi thuộc khu vực Bắc Băng.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Kim Sa Vi Mạch (Tây Mạc)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Mạch Hoàng Kim, Mạch Thiết Cốt, Mạch Tiểu Quặng thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
