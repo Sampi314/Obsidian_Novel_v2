@@ -32,9 +32,13 @@ Sống hoang dã lâu đến nỗi thú rừng coi là đồng loại
 Thành viên của Du Mục Tinh Linh, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 楓野·Bản Mệnh (楓野·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Phong Diệp:** Thủ Lĩnh, đồng liêu quan trọng nhất trong Du Mục Tinh Linh.
-- **Phong Hỏa Diệp:** Chiến Sĩ, đối tác thường xuyên phối hợp.
-- **Phong Lạc:** Thợ Săn, mối quan hệ tin cậy lẫn nhau.
-
+- **Phong Vân Lãng** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Du Mục Tinh Linh
+- **Phong Vân Lãng** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phong Vân Lãng
+- **Phong Diệp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Du Mục Tinh Linh
+- **Phong Hỏa Diệp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Du Mục Tinh Linh
+- **Phong Nguyệt Hàn Thanh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Du Mục Tinh Linh
+- **Phong Thanh Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Du Mục Tinh Linh
+- **Phong Lạc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Du Mục Tinh Linh
+- **Phong Tiểu Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Du Mục Tinh Linh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phong Dã sinh ra trong một gia đình Tinh Linh Tộc bình thường, sớm thể hiện tư chất phù hợp với Du Mục Tinh Linh. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Du Mục Tinh Linh và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trinh Sát.
