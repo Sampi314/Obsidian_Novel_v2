@@ -140,6 +140,11 @@ arcs:
     - **Cô lập:** Vạn năm ngủ dưới băng khiến Thanh Huyền mất liên lạc với phần lớn chính trị Long Cung. Lão không nắm rõ tình hình hiện tại, dễ bị thao túng bởi thông tin sai lệch.
 
 ## VI. QUAN HỆ
+- **Vạn Kiếp** (Sư đồ): Sư phụ và Thái Thượng Trưởng Lão, bậc tiền bối mà Thanh Huyền tôn kính tuyệt đối
+- **Xích Viêm** (Sư đồ): Nam Hải Long Vương, đối thủ truyền kiếp — băng và lửa không đội trời chung
+- **Hắc Thiên** (Đồng minh): Đông Hải Long Vương, đồng liêu lão luyện mà Thanh Huyền kính trọng nhưng không thân cận
+- **Băng Nha** (Cấp dưới): Bắc Phương Thủy Tướng, thủ hạ trung thành nhất và thanh gươm của Bắc Hải
+- **Thanh Hàn Nguyệt** (Đồng minh): Tuần Sát Sứ Bắc Hải, cánh tay phải trên chiến trường, đệ tử thân truyền
 - **Vạn Kiếp — Sư Phụ & Thái Thượng Trưởng Lão:**
     - Vạn Kiếp là bóng bảo vệ lớn nhất đời Thanh Huyền — cứu lão từ Thiên Kiếp, nuôi dạy lão thành Long Vương, truyền thụ mọi kiến thức và triết lý. Thanh Huyền tôn kính Vạn Kiếp tuyệt đối — đây là người duy nhất mà lão sẵn sàng quỳ gối trước mặt mà không cảm thấy mất mặt. Tuy nhiên, qua vạn năm, Thanh Huyền bắt đầu cảm nhận rằng sư phụ đang giấu điều gì đó — những ánh mắt né tránh, những câu trả lời lảng vào mỗi khi lão hỏi về Long Đế. Thanh Huyền không truy vấn — lão tin sư phụ có lý do — nhưng sự tò mò âm ỉ như con sông chảy dưới băng.
     - Mỗi khi Vạn Kiếp đến Bắc Hải ngồi câu cá trên mặt băng, Thanh Huyền dù đang ngủ cũng cảm nhận được Long Uy quen thuộc của sư phụ — và lớp băng quanh lão mỏng đi một chút, như thể lão đang cố "trồi lên" để gần hơn.
@@ -150,7 +155,6 @@ arcs:
     - Băng Nha là Giao Long do Thanh Huyền đích thân tuyển chọn và huấn luyện từ Vực Băng Uyên — vùng biển lạnh nhất Bắc Hải. Lão nhìn thấy ở Băng Nha phẩm chất mà lão đánh giá cao nhất: sự lạnh lùng tuyệt đối trong chiến đấu, không cảm xúc, không do dự, chỉ có hiệu quả. Băng Nha là thanh gươm của Bắc Hải — Thanh Huyền chỉ cần hướng mũi, Băng Nha sẽ chém. Mối quan hệ giữa hai kẻ thuần túy là chủ-tớ, nhưng có một sợi dây liên kết thầm lặng: cả hai đều là những kẻ ít nói nhất Long Cung, và đôi khi ngồi cạnh nhau hàng canh giờ mà không nói lời nào — đó là cách giao tiếp của họ.
 - **Thanh Hàn Nguyệt — Đệ Tử Thân Truyền & Tuần Sát Sứ:**
     - Thanh Hàn Nguyệt là đệ tử mà Thanh Huyền truyền dạy trực tiếp — một Giao Long trẻ có thiên phú hàn băng hiếm thấy, gợi nhớ đến huyết mạch Cổ Hàn Long đã tuyệt chủng. Thanh Huyền giao cho Thanh Hàn Nguyệt nhiệm vụ Tuần Sát Sứ — đôi mắt và tai của Bắc Hải trên chiến trường — và kỳ vọng đệ tử sẽ thay lão quản lý Bắc Hải trong tương lai. Lão dạy Thanh Hàn Nguyệt bằng phương pháp khắc nghiệt: ném ra chiến trường và để tự sống sót, vì lão tin rằng chỉ có kẻ sống sót mới xứng đáng kế thừa.
-
 ## VII. GIAI THOẠI
 > *"Bắc Hải có ba thứ vĩnh cửu: băng, im lặng, và Thanh Huyền."*
 > — Câu nói cửa miệng của Hải Tộc vùng Bắc Hải khi giải thích cho thương nhân ngoại lai tại sao không nên đi về phía Bắc.

@@ -54,10 +54,18 @@ arcs:
     - **Bản Thân Hắn:** Cơ thể hắn chính là pháp bảo mạnh nhất. Vảy rồng (Long Lân) chặn đao kiếm, móng rồng (Long Trảo) xé nát giáp trụ.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hắc Triều** (Kẻ thù): Kẻ thù
+- **Thâm Hải** (Kẻ thù): Tử địch
+- **Lệ Nhược Thủy** (Đồng minh): Quan hệ vua tôi danh nghĩa, độc lập
+- **Phương Vô Kỵ** (Gia tộc): Enemy, a challenge and obstacle to overcome
+- **Minh Trầm Mặc** (Đồng minh): Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau
+- **Vạn Kiếp** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Vạn Kiếp** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Băng Nha** (Đồng minh): Đồng liêu cùng Long Cung
+- **Thiết Lân** (Đồng minh): Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau
 - **Diệp Tĩnh Sương:** Chưa từng chạm trán, nhưng nếu gặp, Ngao Đình chắc chắn sẽ hứng thú với kiếm ý lạnh lẽo vô tình của cô. Hắn muốn xem "Hàn Mai" có thể chịu được mấy tia sấm sét của hắn.
 - **Phương Vô Kỵ:** Một lần đụng độ ở vùng ven Vô Tận Hải. Ngao Đình đánh Phương Vô Kỵ tơi bời bằng bạo lực thuần túy, nhưng Vô Kỵ lại dùng "Dĩ Nhu Khắc Cương" và "Sâm La Vạn Tượng Quyết" chạy thoát được, khiến Ngao Đình ghi hận và cảm thấy bị sỉ nhục bởi sự "vô sỉ" của Tán Tu Nhân Tộc.
 - **Long Vương:** Kính trọng nhưng đồng thời cũng muốn lật đổ cha mình để trở thành Long Vương thống nhất Tứ Hải, khôi phục lại thời kỳ hoàng kim của Long Tộc thống trị Cố Nguyên Giới.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 - Sinh ra đã ngậm sấm sét (Lôi Đình Chi Nộ). Trong lúc Độ Kiếp Lên Nguyên Anh Kỳ, hắn không dùng pháp bảo mà trực tiếp dùng thân xác đón 99 đạo Thiên Lôi, từ đó luyện thành "Tử Tiêu Thần Lôi" trong cơ thể.
 - Đã từng một mình chém giết 3 vị Nguyên Anh Hậu Kỳ của Hải Tộc phản loạn, nhuộm đỏ một góc Vô Tận Hải.

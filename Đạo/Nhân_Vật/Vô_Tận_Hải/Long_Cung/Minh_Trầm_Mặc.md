@@ -32,8 +32,12 @@ Trong hình hài nhân loại, y khoác trường bào màu đen tĩnh lặng, k
 Y thiên về mưu lược, nhưng khi cần ra tay, phong cách chiến đấu của y là thao túng dòng chảy ngầm và bóng tối dưới đáy biển, giết địch mà không phát ra tiếng động. Tuyệt kỹ *Ám Lưu Trầm Uyên* (暗流沉渊) có thể tạo ra những luồng nước xiết vô hình bóp nghẹt đối thủ trước khi chúng kịp nhận ra mình đang bị tấn công. Điểm yếu của y là không thích hợp cho các cuộc chiến trực diện tiêu hao thể lực cường độ cao.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Huyết Triều** (Đồng minh): Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau
+- **Vạn Kiếp** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Vạn Kiếp** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Băng Nha** (Đồng minh): Đồng liêu cùng Long Cung
+- **Ngao Đình** (Đồng minh): Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau
 - **Minh Uyên:** Tây Hải Long Vương. Nữ chúa nhân danh y phục vụ. Y tuyệt đối trung thành với nàng, là cánh tay phải đắc lực, thường truyền đạt ý chỉ của ngài qua ánh mắt hoặc ký hiệu tay mà không cần cất lời.
 - **Thanh Hàn Nguyệt:** Tuần Sát Sứ Bắc Hải. Thường xuyên trao đổi tình báo bí mật, y đánh giá cao sự tàn nhẫn và hiệu quả trong công việc của vị sứ giả này, coi hắn là thanh đao sắc bén có thể mượn lực.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Là một Chân Long hiếm hoi mất đi phần lớn giọng nói và Long Ngâm sau một lần chống lại thiên kiếp khắc nghiệt lúc Hóa Long. Thay vì tuyệt vọng, y đã dùng sự im lặng để rèn giũa một trí tuệ sắc bén, trở thành Mưu Sĩ số một của Tây Hải. Hàng ngàn năm trước, chính tay y đã sắp đặt mưu kế dập tắt một cuộc nổi loạn của Giao Long trong im lặng tuyệt đối, không để lọt một giọt máu nào ra ngoài. Hiện tại, y đang âm thầm quan sát những biến động từ Vực Thẳm Ma Cung, chuẩn bị cho một cuộc chiến không thể tránh khỏi.
