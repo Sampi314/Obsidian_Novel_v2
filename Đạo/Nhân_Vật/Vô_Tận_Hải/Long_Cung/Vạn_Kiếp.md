@@ -141,6 +141,29 @@ arcs:
     - **Bị trói buộc:** Lão không thể rời khỏi Vô Tận Hải quá lâu vì phải liên tục theo dõi trạng thái phong ấn qua Long Mạch. Nếu bị dụ ra khỏi đại dương, lão sẽ mất khả năng cảm ứng Long Mạch và trở nên "mù" chiến lược.
 
 ## VI. QUAN HỆ
+- **Thanh Huyền** (Sư đồ): Sư phụ và Thái Thượng Trưởng Lão, bậc tiền bối mà Thanh Huyền tôn kính tuyệt đối
+- **Xích Viêm** (Đồng minh): Nam Hải Long Vương, kẻ mà lão phải liên tục kềm cương tính bạo liệt
+- **Hắc Thiên** (Đồng minh): Đông Hải Long Vương, đồng liêu cổ xưa nhất còn sống, chia sẻ gánh nặng bí mật về Long Đế
+- **Tế Vân Trạch** (Đệ tử): Đệ tử đắc ý nhất, người được lão giao phó canh giữ Hóa Long Trì
+- **Minh Uyên** (Kình địch): Tây Hải Long Vương, đối thủ chính trị sắc sảo nhất mà lão phải đề phòng
+- **Cuồng Lôi** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Cuồng Lôi** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Huyết Triều** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Huyết Triều** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Hắc Lạc Nhạn** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Hắc Lạc Nhạn** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Hắc Ngạo Thiên** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Hắc Ngạo Thiên** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Minh Trầm Mặc** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Minh Trầm Mặc** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Ngao Đình** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Ngao Đình** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Thiết Lân** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Thiết Lân** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Xích Liệt Hỏa** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Xích Liệt Hỏa** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Xích Ngọc Yên** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Xích Ngọc Yên** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
 - **Thanh Huyền — Bắc Hải Long Vương & Đệ Tử Yêu Quý:**
     - Trong bốn Long Vương đương nhiệm, Thanh Huyền là kẻ duy nhất do Vạn Kiếp đích thân dẫn dắt từ thuở ấu long. Lão nhìn thấy ở Thanh Huyền một phẩm chất hiếm có trong Long Tộc: sự kiên nhẫn tuyệt đối. Trong khi các Long Vương khác nóng nảy, kiêu ngạo hay mưu mô, Thanh Huyền ngủ dưới băng vạn năm chờ đợi thời cơ — phẩm chất mà Vạn Kiếp coi là gần gũi nhất với bản thân mình. Lão đã dạy Thanh Huyền mọi thứ trừ bí mật về Long Đế — và đây là nỗi đau thầm kín của lão: đệ tử thân cận nhất mà lão vẫn phải nói dối.
     - Vạn Kiếp thỉnh thoảng đến Bắc Hải ngồi câu cá trên mặt băng phía trên nơi Thanh Huyền ngủ, nhấp rượu một mình và nói chuyện với lớp băng bên dưới — biết rằng Thanh Huyền có thể nghe nhưng không đáp. Đó là cách giao tiếp mà cả hai đều thoải mái nhất.
@@ -154,7 +177,6 @@ arcs:
     - Vạn Kiếp đang âm thầm cân nhắc liệu có nên kể cho Tế Vân Trạch sự thật hay không — lão đã quá già, và cần ít nhất một người kế thừa gánh nặng bí mật. Nhưng mỗi lần định nói, lão lại nhớ đến hai Chân Long cùng biết bí mật năm xưa — cả hai đều chết vì gánh nặng tâm lý quá lớn, một tự sát, một phát điên — và lão lại im lặng.
 - **Minh Uyên — Tây Hải Long Vương & Đối Thủ Chính Trị:**
     - Trong bốn Long Vương, Minh Uyên là kẻ mà Vạn Kiếp đề phòng nhất — không phải vì sức mạnh, mà vì trí tuệ. Minh Uyên quá thông minh, quá sắc sảo, và quá giỏi đọc người. Vạn Kiếp luôn cảm thấy rằng mỗi khi nói chuyện với Minh Uyên, nàng ta đang cố đọc những gì lão giấu đằng sau ánh mắt mờ đục — và đôi khi, lão sợ rằng nàng ta đã đọc được. Nếu có ai trong Long Cung có khả năng tự tìm ra bí mật về Long Đế mà không cần lão kể, thì đó là Minh Uyên.
-
 ## VII. GIAI THOẠI
 > *"Khi Long Đế gầm, cả thế giới run rẩy. Khi Vạn Kiếp thở dài, cả Long Cung im lặng."*
 > — Câu nói truyền miệng trong Chân Long Trưởng Lão Hội, không ai biết ai nói đầu tiên.

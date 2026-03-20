@@ -32,7 +32,10 @@ Già nhất, yếu nhất, nhưng không ai dám khinh — vì lão quá xảo q
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Ngao Đình** (Đồng minh): Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau
+- **Vạn Kiếp** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Vạn Kiếp** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Băng Nha** (Sư đồ): Băng Nha dẫn dắt Thiết Lân trong Long Cung
+- **Xích Liệt Hỏa** (Đồng minh): Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
