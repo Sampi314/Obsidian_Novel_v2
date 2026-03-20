@@ -32,9 +32,13 @@ Một nữ tu có vẻ đẹp thanh tao, quý phái với làn da trắng mịn 
 Chuyên tu về trận pháp và thuật thao túng không gian sơ cấp, cô đạt tu vi Nguyên Anh Sơ Kỳ với khả năng điều khiển các linh mạch của thành phố di động một cách tinh tế. Tuyệt kỹ "Vân Hải Mê Vụ" (云海迷雾) cho phép cô tạo ra những lớp sương mù ảo ảnh dày đặc bao phủ toàn bộ lưng cá voi, giúp thành phố di chuyển một cách bí mật và tránh né các mối nguy hiểm từ xa. Điểm mạnh là khả năng duy trì trận pháp phòng thủ lâu dài, nhưng nhược điểm là sức tấn công trực diện không mạnh.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Ba Tiểu Vũ** (Sư đồ): Kình Hải Vân chỉ dẫn Ba Tiểu Vũ trong Cự Kình Bảo
+- **Hải Đại Mộc** (Sư đồ): Kình Hải Vân chỉ dẫn Hải Đại Mộc trong Cự Kình Bảo
+- **Kình Thiên** (Đồng minh): Đồng liêu cùng Cự Kình Bảo, hỗ trợ lẫn nhau
+- **Kình Lão Ngư** (Đồng minh): Đồng liêu cùng Cự Kình Bảo, hỗ trợ lẫn nhau
+- **Kình Tiểu Ngư** (Sư đồ): Kình Hải Vân chỉ dẫn Kình Tiểu Ngư trong Cự Kình Bảo
 - **Kình Thiên:** Phu quân và là người cô hết lòng kính trọng, cả hai cùng nhau gánh vác vận mệnh của Cự Kình Bảo.
 - **Kình Tiểu Ngư:** Con gái yêu quý, người cô dành nhiều thời gian để dạy bảo về nghệ thuật quản lý và trận pháp.
 - **Triều Ngọc Hà:** Cộng sự tin cậy trong việc điều hành Giao Thương Viện, cả hai thường xuyên bàn bạc về các chiến lược kinh tế của thành phố.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ một gia tộc chuyên về trận pháp ở hải đảo xa xôi, Kình Hải Vân đã chọn rời bỏ cuộc sống yên bình để đi theo Kình Thiên và xây dựng Cự Kình Bảo từ những ngày đầu gian khó. Với tài năng thiên bẩm về quản lý, cô đã biến các hoạt động giao thương trên lưng cá voi trở nên quy củ và mang lại nguồn thu khổng lồ. Hiện tại, Kình Hải Vân đang dồn tâm huyết vào việc nghiên cứu cách thức mở rộng không gian sống trên lưng cá voi mà không làm ảnh hưởng đến sức khỏe của sinh vật bảo hộ này.
