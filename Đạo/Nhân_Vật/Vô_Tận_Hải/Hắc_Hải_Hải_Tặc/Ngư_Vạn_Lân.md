@@ -32,9 +32,14 @@ Một tộc nhân thuộc chi Cá Linh với lớp vảy màu bạc lấp lánh,
 Chuyên tu về các kỹ thuật tính toán linh lực và khả năng phân loại tài nguyên biển. Tuyệt kỹ "Vạn Lân Kiểm Kê" (万鳞检稽) cho phép hắn sử dụng linh lực để quét qua một đống tài vật khổng lồ và đưa ra con số chính xác về giá trị cũng như số lượng chỉ trong vài nhịp thở. Điểm mạnh là khả năng quản lý kho tàng và tư duy logic tuyệt vời, nhưng điểm yếu là hầu như không có năng lực chiến đấu trực tiếp, luôn cần có vệ binh bảo vệ khi đang làm việc.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Ngư Hắc Lân** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
+- **Ngư Thiên Lôi Hỏa** (Sư đồ): Ngư Thiên Lôi Hỏa chỉ dẫn Ngư Vạn Lân trong Hắc Hải Hải Tặc
+- **Sa Huyết Đao** (Chủ tớ): Thủ hạ trung thành trong Hắc Hải Hải Tặc
+- **Sa Huyết Đao** (Cấp dưới): Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc
+- **Sa Bạch Cốt** (Sư đồ): Sa Bạch Cốt chỉ dẫn Ngư Vạn Lân trong Hắc Hải Hải Tặc
+- **Sa Cuồng Nha** (Sư đồ): Sa Cuồng Nha chỉ dẫn Ngư Vạn Lân trong Hắc Hải Hải Tặc
 - **Kình Hắc Triều:** Cộng sự thân thiết nhất, người trực tiếp mang tài vật về để hắn kiểm kê và phân loại.
 - **Hội đồng Thất Vương:** Những người luôn nể trọng hắn vì sự công bằng và chính xác trong việc phân chia chiến lợi phẩm.
 - **Triều Tiểu Ca:** Đối tác hiếm hoi bên phía Giao Nhân Liên Minh mà hắn thường lén lút trao đổi những thông tin về thị trường kỳ vật.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ngư Vạn Lân vốn là một kế toán viên bị hãm hại và bị tống giam trong một nhà ngục ven biển. Được hạm đội hải tặc cứu thoát trong một cuộc cướp bóc, hắn đã quyết định dùng tài năng của mình để phục vụ liên minh. Với hắn, những con số và linh thạch mang lại sự bình yên hơn là đao kiếm. Hiện tại, hắn giữ trọng trách quản lý toàn bộ kho lương thực và linh thạch trên Đảo Xương Sọ, đảm bảo hạm đội luôn đủ sức mạnh để duy trì các cuộc chinh phạt dài ngày.
