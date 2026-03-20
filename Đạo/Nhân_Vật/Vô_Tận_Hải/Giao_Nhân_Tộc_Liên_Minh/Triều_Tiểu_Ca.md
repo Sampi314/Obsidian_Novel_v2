@@ -32,7 +32,9 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Lệ Cơ** (Sư đồ): Lệ Cơ chỉ dẫn Triều Tiểu Ca trong Giao Nhân Tộc Liên Minh
+- **Lệ Vân Trường** (Sư đồ): Lệ Vân Trường chỉ dẫn Triều Tiểu Ca trong Giao Nhân Tộc Liên Minh
+- **Thủy Lan Nhi** (Sư đồ): Thủy Lan Nhi chỉ dẫn Triều Tiểu Ca trong Giao Nhân Tộc Liên Minh
+- **Lệ Cơ** (Cấp dưới): Phục tùng Lệ Cơ, Minh Chủ của Giao Nhân Tộc Liên Minh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
