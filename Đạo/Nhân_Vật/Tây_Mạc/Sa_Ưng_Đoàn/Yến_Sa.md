@@ -80,6 +80,15 @@ arcs:
           tin: 90
           so: 0
           on: 30
+      - character: Ưng Cuồng Sa Bão
+        description: Chiến Tướng mạnh mẽ, cô nể phục sức chiến đấu nhưng lo lắng vì tính liều lĩnh
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 45
+          tin: 65
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: YẾN SA (燕沙)

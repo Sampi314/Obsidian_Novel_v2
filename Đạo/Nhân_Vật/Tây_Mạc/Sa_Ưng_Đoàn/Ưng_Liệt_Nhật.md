@@ -71,6 +71,15 @@ arcs:
           tin: 90
           so: 0
           on: 70
+      - character: Cú Dạ Sa
+        description: Dạ Trinh Sát bí ẩn, hắn tôn trọng năng lực nhưng cảnh giác với những bí mật ẩn giấu
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 40
+          tin: 55
+          so: 10
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ƯNG LIỆT NHẬT (鷹烈日)

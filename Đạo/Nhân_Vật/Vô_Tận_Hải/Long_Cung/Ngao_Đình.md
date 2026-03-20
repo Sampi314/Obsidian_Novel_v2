@@ -35,6 +35,24 @@ arcs:
           tin: 25
           so: 0
           on: 0
+      - character: Hắc Triều
+        description: Thống Lĩnh Vực Thẳm Ma Cung, kẻ thù không đội trời chung
+        feelings:
+          yeu: -40
+          han: 60
+          kinh: -20
+          tin: -50
+          so: 0
+          on: -60
+      - character: Thâm Hải
+        description: Ma Cung Chủ Vực Thẳm Ma Cung, tử địch của Long Cung
+        feelings:
+          yeu: -50
+          han: 70
+          kinh: 10
+          tin: -70
+          so: 5
+          on: -70
 ---
 
 # HỒ SƠ NHÂN VẬT: NGAO ĐÌNH (敖霆)

@@ -33,6 +33,15 @@ arcs:
           tin: 50
           so: 0
           on: 10
+      - character: Ưng Cuồng Sa Bão
+        description: Chiến Tướng oai phong mà hắn ngưỡng mộ sức mạnh chiến đấu, thường bay cùng trong nhiệm vụ
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 50
+          tin: 55
+          so: 0
+          on: 15
 ---
 
 # HỒ SƠ NHÂN VẬT: YẾN SA PHONG (燕沙風)
