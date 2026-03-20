@@ -1,6 +1,7 @@
 # Hồ Sơ Thế Giới: Cố Nguyên Giới
 
 ### Tình trạng cập nhật gần nhất
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Cửu Hoa Kiếm Tông** (Đông Hoang): **Lý Thanh Vũ**, **Lý Tiểu Kiếm**, và **Lục Thiên Thanh**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Cửu Hoa Kiếm Tông** (Đông Hoang): **Lý Ngọc Dược**, **Lý Ngọc Phong**, và **Lý Thanh Hà**.
 - Đã cập nhật hồ sơ chi tiết cho 2 nhân vật phe **Ngư Dân Tu Luyện Hội** (Vô Tận Hải): **Lý Vạn Triều**, và **Trần Hải Yến**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Tuyết Trung Cô Viện** (Bắc Băng): **Lý Mộ Tuyết**, **Lê Dược Nương**, và **Phạm Thư Sinh**.

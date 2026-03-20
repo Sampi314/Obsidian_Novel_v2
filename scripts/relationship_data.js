@@ -25995,6 +25995,51 @@ const relationshipData = {
             "cultivation_technique": "Viêm Tử Phá Trận Thuật",
             "personality": "Nóng nảy, Bộc trực, Thích thử nghiệm",
             "description": "Dáng người vạm vỡ, tóc búi cao có phần lộn xộn, trên người luôn tỏa ra mùi thuốc súng và linh phù chưa hoàn thiện. Tự xem mình là một 'sáng tạo gia' của trận pháp bạo phá."
+        },
+        {
+            "id": "ly_thanh_vu",
+            "name": "Lý Thanh Vũ",
+            "title": "Chân Truyền Đệ Tử",
+            "realm": "Kim Đan Sơ Kỳ",
+            "faction": "Cửu Hoa Kiếm Tông",
+            "region": "Đông Hoang",
+            "role": "supporting",
+            "pov": false,
+            "avatar_color": "#aed581",
+            "race": "Nhân Tộc",
+            "cultivation_technique": "Thanh Phong Lưu Ảnh Kiếm",
+            "personality": "Sắc sảo, Cẩn trọng",
+            "description": "Lý Thanh Vũ sở hữu vóc dáng thư sinh, thanh tú với phong thái điềm đạm. Y thường khoác Thanh Sam có điểm xuyết họa tiết lông vũ bằng chỉ bạc, trên tay lúc nào cũng phe phẩy một chiếc quạt lông chim."
+        },
+        {
+            "id": "ly_tieu_kiem",
+            "name": "Lý Tiểu Kiếm",
+            "title": "Ngoại Môn Đệ Tử",
+            "realm": "Trúc Cơ Sơ Kỳ",
+            "faction": "Cửu Hoa Kiếm Tông",
+            "region": "Đông Hoang",
+            "role": "supporting",
+            "pov": false,
+            "avatar_color": "#90a4ae",
+            "race": "Nhân Tộc",
+            "cultivation_technique": "Ngoại Môn Cơ Bản Kiếm Pháp",
+            "personality": "Bướng bỉnh, Chân thật",
+            "description": "Lý Tiểu Kiếm là một thiếu niên gầy gò, mặt hay lem luốc do tập luyện nhưng lại vác trên lưng một thanh thiết kiếm to bản đen nhánh, nặng hơn nhiều so với trọng lượng cơ thể cậu."
+        },
+        {
+            "id": "luc_thien_thanh",
+            "name": "Lục Thiên Thanh",
+            "title": "Nội Môn Đệ Tử",
+            "realm": "Trúc Cơ Trung Kỳ",
+            "faction": "Cửu Hoa Kiếm Tông",
+            "region": "Đông Hoang",
+            "role": "supporting",
+            "pov": false,
+            "avatar_color": "#81d4fa",
+            "race": "Nhân Tộc",
+            "cultivation_technique": "Thiên Hoa Lạc Hướng Kiếm",
+            "personality": "Chững chạc, Ngay thẳng",
+            "description": "Lục Thiên Thanh là nam tử thanh tú nhưng chững chạc trước tuổi, thường khoác lam bào đai lụa trắng đặc trưng của đệ tử Thiên Hoa Phong. Đôi mày rậm, ánh mắt luôn kiên định nhìn thẳng."
         }
     ],
     "relationships": [
@@ -59775,6 +59820,78 @@ const relationshipData = {
             "strength": 65,
             "bidirectional": true,
             "description": "Vương Tiểu Kim (bên Kim Hoa Phong) là người cung cấp linh tài chế tạo các trận đài chịu nhiệt và cùng nhau thảo luận những ý tưởng điên rồ."
+        },
+        {
+            "source": "ly_thanh_phong",
+            "target": "ly_thanh_vu",
+            "type": "Sư Đồ",
+            "strength": 85,
+            "bidirectional": true,
+            "description": "Sư tôn đáng kính, người đã nhặt y về từ nhỏ và dạy dỗ mọi kỹ năng do thám."
+        },
+        {
+            "source": "ly_thanh_vu",
+            "target": "chu_minh_nguyet",
+            "type": "Đồng Môn",
+            "strength": 75,
+            "bidirectional": true,
+            "description": "Sư muội đồng môn thân thiết, hay trêu chọc nhưng thực chất luôn âm thầm bảo vệ nàng."
+        },
+        {
+            "source": "ly_thanh_vu",
+            "target": "luc_tran",
+            "type": "Trung Thành",
+            "strength": 90,
+            "bidirectional": false,
+            "description": "Tuyệt đối trung thành với Tông chủ và quản lý mạng lưới tình báo ngầm."
+        },
+        {
+            "source": "ly_tieu_kiem",
+            "target": "lam_phong",
+            "type": "Bằng Hữu",
+            "strength": 80,
+            "bidirectional": true,
+            "description": "Bạn đồng môn Ngoại Môn, cùng luyện tập và an ủi nhau khi bị ức hiếp."
+        },
+        {
+            "source": "ly_tieu_kiem",
+            "target": "lao_truong",
+            "type": "Bằng Hữu",
+            "strength": 60,
+            "bidirectional": false,
+            "description": "Lão Trương ở Hậu Cần Đường hay giấu phần cơm thêm cho Tiểu Kiếm ăn nhiều."
+        },
+        {
+            "source": "ly_tieu_kiem",
+            "target": "diep_tinh_suong",
+            "type": "Ngưỡng Mộ",
+            "strength": 70,
+            "bidirectional": false,
+            "description": "Đàn tỷ mà Tiểu Kiếm thầm ngưỡng mộ ý chí kiên định để tiếp tục vung kiếm."
+        },
+        {
+            "source": "luc_thien_thanh",
+            "target": "luc_tran",
+            "type": "Gia Đình",
+            "strength": 85,
+            "bidirectional": true,
+            "description": "Bá phụ xa và Tông chủ mà Thiên Thanh coi là hình mẫu hoàn hảo để noi theo."
+        },
+        {
+            "source": "luc_thien_thanh",
+            "target": "luc_kiem_hoa",
+            "type": "Đồng Môn",
+            "strength": 70,
+            "bidirectional": false,
+            "description": "Ngưỡng mộ khí chất băng thanh ngọc khiết của Thánh Nữ."
+        },
+        {
+            "source": "luc_thien_thanh",
+            "target": "truong_kiem_tam",
+            "type": "Sư Đồ",
+            "strength": 60,
+            "bidirectional": false,
+            "description": "Nể sợ và hay thỉnh giáo Chấp Pháp Đường Chủ về hình luật tông môn."
         }
     ],
     "factions": [

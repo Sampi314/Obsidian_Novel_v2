@@ -5,6 +5,7 @@
 ---
 
 ## LỊCH SỬ (Tóm Tắt)
+- [Đã nén] Hoàn thành Hoàn thiện nhân vật Sóng Vi Ba Liên Lạc (Vô Tận Hải)
 - Báo cáo cũ: Hoàn thiện nhân vật Lôi Trì Thánh Địa, Long Cung, Sa Mạc Hướng Đạo Hội, Hỏa Diễm Công Phường, San Hô Đảo Quốc, Cổ Thạch Bộ Lạc, Sương Ma Uyển, Phù Du Linh Đoàn, Cực Quang Thần Điện, Ốc Đảo Vi Linh, Tán Tu Tây Mạc, Băng Lang Bộ Lạc, Hắc Tinh Linh Lưu Đày, Hàn Độc Vi Trùng Đoàn, Hỗn Huyết Tinh Linh Hội, Bào Tử Mật Lâm Tộc, Hải Thần Cung, Băng Nguyên Tán Tu Hội, Hàn Kiếm Cốc, Kim Sa Tự, Phiêu Lưu Đảo Liên Minh, Ngọc Trai Sâu Phường, Thâm Hải Vi Linh, Thiên Sa Thương Hội.
 - Báo cáo cũ (nén): Hoàn thiện Cổ Thạch Bộ Lạc, San Hô Vi Trùng, Thiên Mộc Thành, Tuyết Liên Dược Phường, Thủy Tinh Thạch Phường, Băng Ngục Thành, Huyết Hổ Hạ Chúng, Băng Ngục Đào Vong Giả. Địa Tâm Thám Hiểm Đội.
 - [Đã nén] Hoàn thiện các nhân vật Vô Tận Hải (Hải Thần Cung, San Hô Đảo Quốc, Sóng Vi Ba Liên Lạc, Phiêu Miễu Băng Hải, Linh Hồ Tàn Tộc), Thiên Trụ (Cực Quang Thần Điện), Bắc Băng (Tuyết Cự Nhân Đảo), Tây Mạc (Phong Sát Cốc, Hoàng Sa Di Dân, San Hô Thủ Hộ Đoàn).
@@ -12,7 +13,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang) - Phần 5
+### [Hiện Tại] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang) - Phần 6
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lý Thanh Vũ, Lý Tiểu Kiếm, Lục Thiên Thanh thuộc khu vực Đông Hoang.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang) - Phần 5
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lý Ngọc Dược, Lý Ngọc Phong, Lý Thanh Hà thuộc khu vực Đông Hoang.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -63,14 +68,3 @@
 ### [Phiên Trước] - Hoàn thiện nhân vật Sa Mãng Tộc (Tây Mạc)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Huyền Sa, Xà Ám Lân, Xà Linh Vĩ thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-
-### [Phiên Trước 1] - Hoàn thiện nhân vật Sóng Vi Ba Liên Lạc (Vô Tận Hải)
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Ba Ngân Hà, Ba Tiểu Sóng, Ba Trầm Lặng thuộc khu vực Vô Tận Hải.
-- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-
-
-
-
-- **Ngày 2024-05-30**: Đã điền chi tiết 4 phần (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật: **Vũ Khinh Hồng**, **Vũ Phiêu Linh**, **Vũ Tật Phong** (Hàn Phong Truyền Tin Đội - Bắc Băng) theo Task 9. Cập nhật relationship_data.js.
-
-- [Nhân Vật] Điền thông tin cho Phong Thiết Nha, Vân Hải Đồ, Đặng Thương Hà (Phong Bạo Thương Đội - Vô Tận Hải).
