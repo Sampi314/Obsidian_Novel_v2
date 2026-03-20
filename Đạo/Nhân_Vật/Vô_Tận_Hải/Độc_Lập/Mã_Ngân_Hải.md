@@ -32,9 +32,16 @@ Một tộc nhân thuộc chi Hải Mã với vẻ ngoài lãng tử, mái tóc 
 Đạt tu vi Trúc Cơ Trung Kỳ, anh chuyên tu về âm nhạc huyễn thuật kết hợp với các kỹ năng tăng tốc bơi lội đặc trưng của tộc Hải Mã. Tuyệt kỹ "Hải Mã Âm Ba" (海马音波) cho phép anh sử dụng tiếng sáo để tạo ra những luồng sóng âm có khả năng làm rối loạn thần trí đối phương hoặc tạo ra các lớp màng bảo vệ âm thanh ngăn chặn các cuộc tấn công tinh thần. Điểm mạnh là khả năng khống chế tâm lý đối thủ từ xa và tốc độ bơi lội linh hoạt tuyệt vời, nhưng nhược điểm là sức tấn công vật lý gần như không đáng kể.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Giao Thiên Vạn Hải** (Sư đồ): Giao Thiên Vạn Hải chỉ dẫn Mã Ngân Hải trong Độc Lập
+- **Giải Cổ Giáp Vương** (Sư đồ): Giải Cổ Giáp Vương chỉ dẫn Mã Ngân Hải trong Độc Lập
+- **Hà Phong Vân Hải** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau
+- **Hải Thiên Thương** (Sư đồ): Hải Thiên Thương chỉ dẫn Mã Ngân Hải trong Độc Lập
+- **Mẫu Phiêu Lưu** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau
+- **Ngư Phi Thiên** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau
+- **Sa Thiên Lý Hành** (Sư đồ): Sa Thiên Lý Hành chỉ dẫn Mã Ngân Hải trong Độc Lập
+- **San Lạc Hồn** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau
 - **Mẫu Phiêu Lưu:** Người bạn đồng hành thường cùng anh trôi dạt trên các dòng hải lưu, cả hai thỉnh thoảng lại chia sẻ những bản nhạc và tin tức từ phương xa.
 - **Hà Phong Vân Hải:** Người thám hiểm trẻ tuổi luôn dành cho lối sống tự do của anh sự ngưỡng mộ đặc biệt và thường xuyên tìm đến để nghe chuyện phiêu lưu.
 - **Long Cung Trưởng Lão:** Những người từng tìm cách chiêu mộ anh vào đội cận vệ rồng nhưng đều bị anh từ chối một cách thẳng thừng.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mã Ngân Hải vốn là một trong những tài năng trẻ xuất chúng nhất của đội kỵ sĩ phục vụ Long Cung, nhưng sau khi chứng kiến những cuộc thanh trừng đẫm máu trong hoàng tộc, anh đã quyết định từ bỏ vinh hoa để tìm kiếm sự tự do. Anh dành nhiều năm lang thang khắp các vùng biển hoang sơ của Vô Tận Hải, dùng tiếng sáo của mình để xoa dịu nỗi đau của các sinh vật biển bị thương tổn bởi chiến tranh và săn lùng. Với anh, đại dương không phải là nơi để tranh đoạt mà là một tổ ấm cần được bảo vệ bằng trái tim thuần khiết. Hiện tại, Mã Ngân Hải là một biểu tượng của sự độc lập và tự do đối với các tộc nhân Hải Tộc trẻ tuổi đang chán ghét xiềng xích của cường quyền.
