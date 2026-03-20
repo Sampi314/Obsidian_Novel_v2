@@ -362,29 +362,53 @@ Thành Chủ
 # PHẦN 3: SCHEDULE THỰC HIỆN
 
 ## Phase 1: Leadership (Phiên 1-33)
+> 📖 **Đọc trước khi bắt đầu:**
+> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1: Tạo Nhân Vật Mới) — template YAML + 5 section
+> - `.claude/skills/the-luc/SKILL.md` — hiểu headcount schema theo faction_type
+> - File thế lực: `Đạo/Thế_Lực/[Region]/[Faction].md` — xem divisions, members hiện có
+> - File chủng tộc: `Đạo/Chủng_Tộc/[Race].md` — nếu phi Nhân Tộc
+
 **Mỗi phiên:** Chọn 1 thế lực → tạo TẤT CẢ leadership (Thái Thượng → Phong Chủ/Trưởng Lão)
 - Batch size: 10-25 chars/phiên
 - Ưu tiên: Thế lực có 0 chars trước (Thần Khí Phường, Huyền Băng Cung)
 
 ## Phase 2: Chân Truyền (Phiên 34-66)
+> 📖 **Đọc trước khi bắt đầu:**
+> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+> - File thế lực — xem danh sách Trưởng Lão/Phong Chủ (Phase 1 đã tạo)
+> - Nhân vật đã có: `ls Đạo/Nhân_Vật/[Region]/[Faction]/` — để gán sư phụ đúng
+
 **Mỗi phiên:** Quay lại 1 thế lực đã xong Phase 1 → tạo Chân Truyền + Ngoại Môn TL
 - Batch size: 20-30 chars/phiên
-- Ghi rõ: "Đệ tử của [Tên Trưởng Lão]" trong Section I
+- **BẮT BUỘC** ghi: "Đệ tử của [Tên Trưởng Lão]" trong Section I
 
 ## Phase 3: Nội Môn (Phiên 67-132)
+> 📖 **Đọc trước khi bắt đầu:**
+> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+> - File thế lực — xem phong nào thuộc chức năng gì
+> - Nhân vật đã có — để phân nội môn vào đúng phong
+
 **Mỗi phiên:** 50 Nội Môn cho 1 thế lực (2 phiên/thế lực đạt 100)
 - Batch size: 50 chars/phiên
-- Ghi rõ: thuộc phong nào
+- **BẮT BUỘC** ghi: "Thuộc [Tên Phong]" trong Section I
 
 ## Phase 4: Ngoại Môn (Phiên 133-264)
+> 📖 **Đọc trước khi bắt đầu:**
+> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+
 **Mỗi phiên:** 50 Ngoại Môn (4 phiên/thế lực đạt 200)
 - Batch size: 50 chars/phiên
 - Chỉ cần: Tên + Tu Vi + "Thuộc Ngoại Môn Viện"
 
 ## Phase 5: Phàm Nhân (Phiên 265+)
+> 📖 **Đọc trước khi bắt đầu:**
+> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+> - File thế lực — xem specialty để biết cần loại phàm nhân gì
+> - Phần "Phàm Nhân Theo Chuyên Môn Tông Môn" ở PHẦN 1 của plan này
+
 **Mỗi phiên:** 100 Phàm Nhân cho 1 thế lực
 - Batch size: 100 chars/phiên
-- Ghi rõ: nghề nghiệp cụ thể
+- **BẮT BUỘC** ghi: nghề nghiệp cụ thể trong Section I
 - Ưu tiên tông môn lớn trước (Vân Tông 10,000, Thái Ất Môn 10,000...)
 
 **Ước tính Phase 5 cho tất cả Hạng Nhất:**
@@ -396,26 +420,47 @@ Thành Chủ
 
 Xem `WORK_QUEUE.md` tại repo root.
 
-**Quy trình:**
-1. `git pull origin main`
-2. `cat WORK_QUEUE.md` — kiểm tra ai đang làm gì
-3. Claim thế lực + phase → commit + push NGAY
-4. Tạo chars → commit + push
-5. Cập nhật WORK_QUEUE.md → commit + push
+**Quy trình mỗi phiên (step-by-step):**
+
+```
+1. git pull origin main
+2. cat WORK_QUEUE.md                              ← kiểm tra ai đang làm gì
+3. Thêm claim vào WORK_QUEUE.md → commit → push   ← claim TRƯỚC khi đọc skill
+4. Đọc .claude/skills/nhan-vat/SKILL.md (Chế Độ 1) ← template YAML + body
+5. Đọc .claude/skills/the-luc/SKILL.md            ← headcount schema (nếu cần)
+6. Đọc Đạo/Thế_Lực/[Region]/[Faction].md          ← divisions, members, specialty
+7. Đọc Đạo/Chủng_Tộc/[Race].md                    ← nếu phi Nhân Tộc
+8. Đọc nhân vật đã có: ls Đạo/Nhân_Vật/[Region]/[Faction]/
+9. Tạo character stubs (10-100 tùy phase)
+10. git add + commit + push
+11. Cập nhật WORK_QUEUE.md (chuyển sang Hoàn Thành) → commit → push
+```
 
 ---
 
 # PHẦN 5: CHECKLIST MỖI PHIÊN
 
-- [ ] Pull mới nhất
-- [ ] Đã claim trong WORK_QUEUE.md
-- [ ] Đọc file thế lực (divisions, members) trước khi tạo
-- [ ] Đọc file chủng tộc nếu phi Nhân Tộc
-- [ ] Tên có ý nghĩa xianxia, không random
-- [ ] Họ nhất quán theo chủng tộc/phe phái
-- [ ] Tuổi hợp lý theo cảnh giới
-- [ ] Section I đầy đủ: Tên, Chức Vụ + Phong, Tu Vi, Phe Phái
-- [ ] Chân Truyền ghi rõ sư phụ
-- [ ] Phàm nhân ghi rõ nghề
+**Trước khi tạo:**
+- [ ] `git pull origin main` — mới nhất
+- [ ] Đã claim trong `WORK_QUEUE.md` và push
+- [ ] Đã đọc `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+- [ ] Đã đọc file thế lực `Đạo/Thế_Lực/[Region]/[Faction].md`
+- [ ] Đã đọc file chủng tộc `Đạo/Chủng_Tộc/[Race].md` (nếu phi Nhân Tộc)
+- [ ] Đã xem nhân vật đã có trong thư mục
+
+**Khi tạo:**
+- [ ] Tên có ý nghĩa xianxia, KHÔNG random, KHÔNG chức danh
+- [ ] Họ nhất quán theo chủng tộc/phe phái (xem bảng ở PHẦN 1)
+- [ ] Tuổi hợp lý theo cảnh giới (xem bảng ở PHẦN 1)
+- [ ] Section I đầy đủ: Tên, Chức Vụ + Phong/Viện/Đường, Tu Vi, Phe Phái
+- [ ] Chân Truyền GHI RÕ: "Đệ tử của [Tên Trưởng Lão]"
+- [ ] Nội Môn GHI RÕ: "Thuộc [Tên Phong]"
+- [ ] Ngoại Môn GHI: "Thuộc Ngoại Môn Viện"
+- [ ] Phàm nhân GHI RÕ: nghề + "Thuộc Hậu Cần Đường"
+- [ ] Không trùng tên với nhân vật đã có
+
+**Sau khi tạo:**
+- [ ] Đã commit + push
+- [ ] Đã cập nhật `WORK_QUEUE.md` (chuyển sang Hoàn Thành)
 - [ ] Không trùng tên
 - [ ] Cập nhật WORK_QUEUE.md sau khi xong
