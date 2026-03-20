@@ -32,7 +32,10 @@ Chăm sóc vườn san hô non, tưới bằng linh lực mỗi ngày
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **San Ngân Mạch** (Sư đồ): San Ngân Mạch chỉ dẫn San Tiểu Chi trong San Hô Vi Trùng
+- **San Thúy Liên** (Sư đồ): San Thúy Liên chỉ dẫn San Tiểu Chi trong San Hô Vi Trùng
+- **San Hồng Ngọc** (Chủ tớ): Thủ hạ trung thành trong San Hô Vi Trùng
+- **San Hồng Ngọc** (Cấp dưới): Phục tùng San Hồng Ngọc, Tộc Trưởng của San Hô Vi Trùng
+- **San Tử Hà** (Sư đồ): San Tử Hà chỉ dẫn San Tiểu Chi trong San Hô Vi Trùng
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

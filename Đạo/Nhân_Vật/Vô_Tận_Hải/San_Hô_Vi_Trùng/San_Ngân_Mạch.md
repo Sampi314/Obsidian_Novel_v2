@@ -32,7 +32,11 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **San Hồng Ngọc** (Sư đồ): San Hồng Ngọc chỉ dẫn San Ngân Mạch trong San Hô Vi Trùng
+- **San Kim Hoa** (Sư đồ): San Ngân Mạch chỉ dẫn San Kim Hoa trong San Hô Vi Trùng
+- **San Lục Đảo** (Sư đồ): San Ngân Mạch chỉ dẫn San Lục Đảo trong San Hô Vi Trùng
+- **San Hồng Ngọc** (Cấp dưới): Phục tùng San Hồng Ngọc, Tộc Trưởng của San Hô Vi Trùng
+- **San Thúy Liên** (Đồng minh): Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau
+- **San Tiểu Chi** (Sư đồ): San Ngân Mạch chỉ dẫn San Tiểu Chi trong San Hô Vi Trùng
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
