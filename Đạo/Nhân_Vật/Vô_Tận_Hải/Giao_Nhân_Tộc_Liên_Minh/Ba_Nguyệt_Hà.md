@@ -34,9 +34,12 @@ Ba Nguyệt Hà mang một vẻ đẹp u buồn và tao nhã đặc trưng của
 - Nàng thiên về phòng thủ và hỗ trợ hơn là tấn công trực diện.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Lệ Cơ** (Đồng minh): Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau
+- **Ba Thiên Lệ** (Đồng minh): Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau
+- **Hải Minh Châu** (Sư đồ): Ba Nguyệt Hà chỉ dẫn Hải Minh Châu trong Giao Nhân Tộc Liên Minh
+- **Ba Ngọc Hàn** (Sư đồ): Ba Nguyệt Hà chỉ dẫn Ba Ngọc Hàn trong Giao Nhân Tộc Liên Minh
 - **Lệ Cơ (Minh Chủ):** Người mà Ba Nguyệt Hà hết lòng phò tá và tin tưởng tuyệt đối, thường xuyên cung cấp Lụa Vân chất lượng nhất để trang bị cho Hải Ba Vệ.
 - **Ba Ngọc Hàn:** Em trai ruột của nàng. Nàng luôn lo lắng cho tính cách nóng nảy của hắn, nhưng cũng là điểm tựa vững chắc để hắn có thể chiến đấu hết mình.
 - **Ba Thiên Lệ:** Người đồng liêu, đôi khi có những bất đồng về cách thức đối ngoại nhưng cả hai luôn cùng hướng về sự sinh tồn của Giao Nhân Tộc Liên Minh.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Từ khi còn nhỏ, Ba Nguyệt Hà đã bộc lộ thiên phú hiếm có trong việc cảm nhận và thêu dệt nên những dải Lụa Vân từ ánh sáng Nguyệt Quang san hô và linh khí đất trời. Sau một cuộc tấn công của bọn săn trộm khiến gia đình nàng chịu nhiều tổn thất nặng nề, Ba Nguyệt Hà đã quyết định hiến dâng cả đời mình cho Vân Khâu Viện. Nàng dùng nghệ thuật chế tác Lụa Vân và Ngọc trai giao nhân không chỉ như một kế sinh nhai mà còn là vũ khí để tạo sức ép lên các thương hội, bảo vệ đồng bào mình bằng con đường ngoại giao và kinh tế.

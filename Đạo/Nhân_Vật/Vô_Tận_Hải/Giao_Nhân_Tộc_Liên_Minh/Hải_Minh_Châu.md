@@ -32,9 +32,14 @@ Hải Minh Châu sở hữu vẻ đẹp mê hồn đặc trưng Giao Nhân — n
 Hải Minh Châu không phải chiến binh mà là nghệ nhân bậc thầy, năng lực của nàng nằm ở nghệ thuật dệt *Lụa Vân* (雲絲) — loại lụa thần kỳ dệt từ ráng chiều phản chiếu trên mặt nước kết hợp linh khí thủy hệ tinh khiết, mỏng như sương nhưng bền hơn thép, có thể phong ấn phù văn hoặc chứa pháp thuật bên trong sợi vải. Trong trường hợp tự vệ, nàng sử dụng *Vân Ty Phọc Phược* (雲絲縛縛) — phóng ra hàng trăm sợi lụa vân mỏng như tóc nhưng sắc như kiếm, bao quanh và trói chặt mục tiêu trong một kén lụa không thể phá vỡ bằng sức mạnh vật lý thông thường. Điểm yếu rõ ràng là nàng hoàn toàn không có khả năng tấn công hủy diệt, và lụa vân dù bền nhưng có thể bị hỏa thuật thiêu cháy.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Ba Nguyệt Hà** (Sư đồ): Ba Nguyệt Hà chỉ dẫn Hải Minh Châu trong Giao Nhân Tộc Liên Minh
+- **Ba Thiên Lệ** (Đồng minh): Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau
+- **Lệ Cơ** (Chủ tớ): Thủ hạ trung thành trong Giao Nhân Tộc Liên Minh
+- **Lệ Cơ** (Cấp dưới): Phục tùng Lệ Cơ, Minh Chủ của Giao Nhân Tộc Liên Minh
+- **Lệ Vân Trường** (Sư đồ): Lệ Vân Trường chỉ dẫn Hải Minh Châu trong Giao Nhân Tộc Liên Minh
+- **Thủy Lan Nhi** (Sư đồ): Thủy Lan Nhi chỉ dẫn Hải Minh Châu trong Giao Nhân Tộc Liên Minh
 - **Lệ Vân Trường (泪云长):** Phó Minh Chủ và người bảo trợ của Vân Khâu Viện, Minh Châu kính trọng sự uyên bác và tầm nhìn xa của Lệ Vân Trường trong việc phát triển nghề dệt lụa vân.
 - **Thủy Lan Nhi (水兰儿):** Tướng Quân Hải Ba Vệ, người đảm bảo an ninh cho Vân Khâu Viện khỏi nạn cướp bóc — hai người thân thiết như chị em dù tính cách đối lập.
 - **Minh Chủ Lệ Cơ:** Minh Chủ liên minh từng đích thân đặt hàng Minh Châu dệt một tấm lụa vân đặc biệt, mối quan hệ giữa hai người mang nét sư đệ hơn là cấp trên cấp dưới.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hải Minh Châu sinh ra tại một bộ lạc Giao Nhân nhỏ ở rìa rạn san hô Nguyệt Quang, là con gái duy nhất của một gia đình dệt lụa truyền thống ba đời. Từ nhỏ nàng đã thể hiện tài năng dệt vượt trội — tấm lụa vân đầu tiên nàng dệt ở tuổi mười hai mịn đến mức Đại Sư đương thời phải thừa nhận "già này dệt cả đời không bằng." Sự kiện thay đổi cuộc đời nàng xảy ra khi một nhóm săn trộm Nhân Tộc tấn công bộ lạc để cướp lụa vân và bắt Giao Nhân lấy nước mắt — nàng thoát chết nhờ Hải Ba Vệ đến kịp, nhưng mẹ nàng bị giết trong trận tập kích đó. Từ đó nàng gia nhập Vân Khâu Viện tại thành phố Thủy Tinh chính, quyết tâm nâng cao nghệ thuật dệt lụa vân đến đỉnh cao mà không ai có thể bắt chước hay cướp đoạt. Bí mật nghệ thuật của nàng là mỗi tấm lụa vân đẹp nhất đều được dệt bằng nước mắt thật — không phải nước mắt bị ép mà là giọt lệ tự nguyện rơi khi tâm hồn chạm đến cảm xúc thuần khiết nhất.
