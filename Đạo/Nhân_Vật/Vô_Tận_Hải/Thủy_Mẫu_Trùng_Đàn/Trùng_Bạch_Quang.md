@@ -35,9 +35,12 @@ arcs:
 - **Minh Quang Thiểm (明光闪):** Có khả năng bùng phát ánh sáng chói lóa trong chớp mắt, gây mù tạm thời cho những kẻ địch đang bám đuổi, tạo cơ hội cho cả đàn chạy trốn.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Nguyệt Quang** (Đồng minh): Tín nhiệm
+- **Trùng Hồng Diệm** (Đồng minh): Quản giáo
+- **Nguyệt Quang** (Đồng minh): Đồng liêu cùng Thủy Mẫu Trùng Đàn, hỗ trợ lẫn nhau
+- **Trùng Hồng Diệm** (Đồng minh): Đồng liêu cùng Thủy Mẫu Trùng Đàn, hỗ trợ lẫn nhau
 - **Nguyệt Quang:** Tuyệt đối trung thành và kính trọng Đàn Mẫu, luôn phối hợp nhịp nhàng với ánh sáng bạc để điều hướng bầy đàn.
 - **Trùng Hồng Diệm:** Thường xuyên phải "dọn dẹp hậu quả" cho những lần kích động bốc đồng của Hồng Diệm, coi đối phương như một đứa em nhỏ cần được bảo vệ.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 - Là một trong những ấu trùng lứa đầu tiên được Nguyệt Quang ấp nở và bảo bọc sau cuộc thảm sát của Hải Thần Cung, Bạch Quang thấu hiểu được giá trị của sự sinh tồn.
 - Qua nhiều năm tháng bôn ba trong những dòng hải lưu phức tạp của Vô Tận Hải, nó đã tích lũy kinh nghiệm phong phú về việc né tránh những vòng xoáy chết người.
