@@ -32,9 +32,13 @@ Phụ nữ cao ráo mảnh khảnh với đôi mắt sắc bén như mắt ưng,
 Chuyên gia ngự phi cầm chiến đấu, cộng sinh với Bạch Vũ Linh Ưng cấp Nguyên Anh. Tuyệt chiêu Linh Ưng Thiên Kích (靈鷹天擊) phối hợp với đàn ưng tấn công từ trên cao. Sở trường không chiến và trinh sát từ xa, nhưng chiến đấu mặt đất yếu hơn rõ rệt.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Vạn Thú:** Trang Chủ, lãnh đạo mà nàng phụng sự.
-- **Hoàng Mãnh Hổ:** Hộ Pháp đồng liêu, phối hợp không-bộ trong chiến trận.
-- **Lê Phượng Nhi:** Đệ tử có thiên phú phi cầm, nàng đang đào tạo.
-
+- **Trần Vạn Thú** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bách Thú Sơn Trang
+- **Trần Vạn Thú** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Vạn Thú
+- **Vũ Tiểu Long** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bách Thú Sơn Trang
+- **Lê Phượng Nhi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bách Thú Sơn Trang
+- **Lý Thiên Mã** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bách Thú Sơn Trang
+- **Hoàng Mãnh Hổ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bách Thú Sơn Trang
+- **Nguyễn Kỳ Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bách Thú Sơn Trang
+- **Đặng Xà Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bách Thú Sơn Trang
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Linh Ưng xuất thân từ một bộ lạc du mục trên thảo nguyên, từ nhỏ đã sống cùng đàn ưng hoang. Khi bộ lạc bị thiên tai tàn phá, nàng lang thang đến Bách Thú Sơn Trang và được thu nhận nhờ mối liên kết đặc biệt với phi cầm. Nàng xây dựng hệ thống trinh sát ưng hiệu quả nhất Đông Hoang. Bí mật của nàng là vẫn giữ liên lạc với tàn dư bộ lạc cũ, hy vọng một ngày giúp họ tái thiết.
