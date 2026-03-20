@@ -65,6 +65,15 @@ arcs:
           tin: 0
           so: 40
           on: 0
+      - character: Giao Tàn Ty
+        description: Thợ dệt lâu năm, người dệt vải che mắt mình mỗi ngày, ân tình lặng lẽ
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 20
 ---
 
 # HỒ SƠ NHÂN VẬT: GIAO THIÊN LỆ (鲛千淚)

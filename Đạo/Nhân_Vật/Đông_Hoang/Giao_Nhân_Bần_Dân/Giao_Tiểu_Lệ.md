@@ -63,6 +63,15 @@ arcs:
           tin: 35
           so: 0
           on: 10
+      - character: Giao Khổ Hải
+        description: Anh Khổ, người lớn thương mình như cháu gái, hay giúp mình khi mệt
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 15
 ---
 
 # HỒ SƠ NHÂN VẬT: GIAO TIỂU LỆ (鲛小淚)
