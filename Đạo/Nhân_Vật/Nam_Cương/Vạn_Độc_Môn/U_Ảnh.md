@@ -42,6 +42,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: La Vân Ti
+        description: Nhện Chi Hộ Pháp, sư phụ đang đào tạo nàng thành thế hệ kế cận
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 70
+          tin: 60
+          so: 0
+          on: 50
 ---
 
 # HỒ SƠ NHÂN VẬT: U ẢNH (幽影)
