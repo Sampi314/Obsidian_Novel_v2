@@ -94,7 +94,7 @@ arcs:
 - [x] Sở Lăng Sương
 - [x] Triệu Thanh Hằng
 - [x] Lục Ly
-- [ ] Nguyệt Dao
+- [x] Nguyệt Dao
 - [x] Nham Thần
 - [x] Lục Tiêu
 - [x] Lệ Nhược Thủy
@@ -206,3 +206,4 @@ Tên file = tên nhân vật với `_` thay khoảng trắng (có dấu Tiếng 
 | 2026-03-20 | Claude Code | Triệu Thanh Hằng (DONE) | Checked 7 refs, added 5 YAML entries to Triệu Thanh Hằng + 5 reciprocal YAML entries to Bằng Bắc Minh, Hạc Tuyết Nhi, Sương Lệ Nhi, Tước Hàn, Tước Tuyết Nhi |
 | 2026-03-20 | Claude Code | Hứa Nhược Thủy (DONE) | Checked 7 YAML refs (Hứa Thanh Vân, Đan Dương Tử, Diệp Tĩnh Sương, Lâm Phong, Cổ Thiên Lý, Diệp Thanh Y, Độc Cô Lão Quái), all already bidirectional, no fixes needed |
 | 2026-03-20 | Claude Code | Lục Ly (DONE) | Checked 9 refs, added 8 YAML entries to Lục Ly + 8 reciprocal YAML entries to Nguyệt Thiên Hà, Nguyệt Hàn Sương, Vân Hà, Hoa Ngọc Lan, Hoa Tuyết, Lục Thanh, Vân Thiên Lý, Ám Thiên Lôi |
+| 2026-03-20 | Claude Code | Nguyệt Dao (DONE) | Checked 5 YAML refs (Lục Tiêu, Độc Cô Lão Quái, Diệp Thanh Y, A Ngốc, Hắc Hạt Ma Trùng), all already bidirectional, no fixes needed |
