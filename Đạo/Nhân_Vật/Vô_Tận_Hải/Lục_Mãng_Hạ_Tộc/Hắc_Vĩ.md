@@ -115,6 +115,9 @@ Hắc Vĩ xách roi da mãng từ đó, bảy mươi năm không buông. Hắn p
     - Bản năng hắc xà — hoạt động ban đêm cực mạnh. Vảy đen hấp thu nhiệt ban ngày, giải phóng năng lượng ban đêm, khiến hắn nhanh hơn, nhạy hơn, mạnh hơn vào ban đêm so với ban ngày. Trong bóng tối hoàn toàn, hắn gần như vô hình — vảy đen hòa vào đêm, không phát ra âm thanh, không phát ra mùi (nọc xà che phủ mùi cơ thể). Hắn là kẻ giữ đêm của Lục Mãng Hạ Tộc — tộc nhân ngủ yên vì biết đêm nay Hắc Vĩ tuần tra.
 
 ## VI. QUAN HỆ
+- **Thanh Lân** (Cấp dưới): Tộc Trưởng, người duy nhất hắn phục tùng tâm phục khẩu phục, anh lớn trong lòng
+- **Xà Bạch Linh** (Chủ tớ): Con bạch xà bí mật, đứa nhỏ kỳ lạ mà hắn vừa bảo vệ vừa dè chừng
+- **Thanh Vĩ Nhi** (Đồng minh): Đàn em trẻ bốc đồng, phải thường xuyên dọa nẹt để nó không gây họa
 - **Thanh Lân (青鳞):**
     - Tộc Trưởng, ân nhân, anh lớn, lý do duy nhất hắn ở lại Lục Mãng Hạ Tộc. Hắc Vĩ không phục Lục Mãng Hạ Tộc — hắn phục Thanh Lân. Nếu Thanh Lân rời tộc, hắn bò theo không do dự. Nếu Thanh Lân chết, hắn không biết mình sẽ làm gì — và ý nghĩ đó đôi khi khiến hắn đêm tuần tra bỗng nằm im, đuôi cuộn chặt, mắt đen trống rỗng nhìn vào bóng tối. Hắn biết Thanh Lân đang mưu tính điều gì đó lớn — không biết cụ thể, nhưng cảm nhận được qua cách Thanh Lân đôi khi nhìn về phương Lục Mãng Vương với ánh mắt mà hắn, một kẻ đánh người chuyên nghiệp, nhận ra ngay: ánh mắt của kẻ đang chờ thời cơ. Hắn không hỏi. Khi nào Lân Ca cần, hắn có mặt.
 - **Lục Mãng Vương (绿蟒王):**
@@ -123,7 +126,6 @@ Hắc Vĩ xách roi da mãng từ đó, bảy mươi năm không buông. Hắn p
     - Con bạch xà bí mật mà Thanh Lân giấu. Hắc Vĩ biết Bạch Linh tồn tại — hắn là một trong số ít người được phép vào hang sâu — nhưng hắn không hiểu tại sao Thanh Lân coi nó quan trọng đến vậy. Hắn thấy nó trắng toát, mong manh, lạ lùng — hoàn toàn khác với mọi xà yêu hắn từng gặp. Hắn vừa bảo vệ nó theo lệnh Thanh Lân, vừa dè chừng: nếu nó mang lại nguy hiểm cho tộc, hắn sẽ không ngần ngại đề nghị Thanh Lân xử lý. Nhưng hắn cũng nhận ra — con bạch xà nhìn hắn bằng đôi mắt bạc không sợ hãi, dù hắn là Hình Phạt Sứ, và điều đó khiến hắn kỳ lạ khó chịu. Hắn quen được sợ.
 - **Thanh Vĩ Nhi (青尾儿):**
     - Đàn em trẻ bốc đồng nhất tộc. Hắc Vĩ hay dọa nẹt Thanh Vĩ Nhi — "Mày muốn ăn roi hả?" — nhưng thực ra hắn thấy ở nó ngọn lửa mà hắn không có: dũng cảm, nhiệt huyết, dám nói dám làm. Hắn sợ ngọn lửa đó sẽ đốt cháy chính nó — kinh nghiệm dạy hắn rằng trong tộc phục tùng, bốc đồng đồng nghĩa tự sát. Hắn phạt Thanh Vĩ Nhi thường xuyên nhất trong tộc — toàn lỗi nhỏ — không phải vì ghét, mà vì muốn nó quen đau trước khi gặp đau thật.
-
 ## VII. GIAI THOẠI
 
 > *"Roi ta đánh, thuốc ta bôi. Ai không chịu nổi roi thì đừng phạm lỗi. Ai phạm lỗi thì đừng kêu đau."*

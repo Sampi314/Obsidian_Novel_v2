@@ -116,16 +116,15 @@ Sáu tháng trước, trong một lần tuần tra, nó vô tình phát hiện l
     - Hóa hình chưa hoàn hảo — đuôi lòi ra khi mất tập trung, khiến không thể ngụy trang thành nhân tộc.
 
 ## VI. QUAN HỆ
-
+- **Hắc Vĩ** (Đồng minh): Đàn em trẻ bốc đồng, phải thường xuyên dọa nẹt để nó không gây họa
+- **Thanh Lân** (Đồng minh): Xà yêu trẻ tài năng, thế hệ kế thừa mà hắn đặt nhiều kỳ vọng
+- **Xà Bạch Linh** (Gia tộc): Con bạch xà bí ẩn trong hang sâu, nó lén đến thăm dù bị cấm
 - **Thanh Lân (Tộc Trưởng — Cha Nuôi):**
     - Toàn bộ thế giới. Thanh Lân cứu nó, nuôi nó, dạy nó. Nó muốn chứng minh xứng đáng — mỗi lần tuần tra thành công, nó chạy về báo cáo cho Thanh Lân với đôi mắt sáng rực, chờ một cái gật đầu. Một cái gật đầu của cha bằng cả trăm lời khen.
-
 - **Hắc Vĩ (Phó Tộc Trưởng):**
     - Kẻ dạy nó kỷ luật bằng roi. Nó sợ Hắc Vĩ — sợ thật — nhưng cũng biết rằng mỗi lần bị phạt là vì nó làm sai. Và mỗi lần nó gặp nguy, Hắc Vĩ luôn là con rắn đầu tiên xuất hiện. Nó chưa hiểu — nhưng Hắc Vĩ bảo vệ nó vì nhìn thấy trong nó hình ảnh của chính mình khi còn trẻ: nhanh, liều, và may mắn chưa chết.
-
 - **Xà Bạch Linh (Bạch Xà Bí Mật):**
     - Bạn duy nhất cùng tuổi mà nó có — dù "tình bạn" này bị cấm. Mỗi lần lén xuống hang, nó mang theo một con thằn lằn nhỏ làm quà. Bạch Linh nhận, ăn, rồi hai đứa ngồi im nhìn nhau — không nói gì vì Bạch Linh chưa biết nói tiếng người. Nhưng sự im lặng đó thoải mái hơn bất kỳ cuộc nói chuyện nào.
-
 ## VII. GIAI THOẠI
 
 > *"Nhanh thì sống. Chậm thì chết. Suy nghĩ là chậm. Vậy đừng suy nghĩ."*

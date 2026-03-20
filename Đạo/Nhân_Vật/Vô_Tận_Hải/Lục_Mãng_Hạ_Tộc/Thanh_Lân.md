@@ -111,6 +111,9 @@ Năm mươi năm trước, hắn phát hiện Xà Bạch Linh — một con rắ
     - Kỹ thuật chiến đấu cốt lõi. Đuôi mãng dài hai trượng, cứng như thép khi tập trung linh lực, quất nhanh đến mức phá âm thanh. Một đòn quất đuôi toàn lực có thể đánh gãy cây cổ thụ hoặc đập nát tảng đá. Kết hợp với lực siết toàn thân — khi Thanh Lân cuộn quanh đối thủ, áp lực tăng dần đều đặn, không vội vã, cho đến khi xương gãy, nội tạng vỡ. Cách chiến đấu phản ánh tính cách: kiên nhẫn, không nóng vội, nhưng khi đã siết thì không buông.
 
 ## VI. QUAN HỆ
+- **Hắc Vĩ** (Cấp dưới): Tộc Trưởng, người duy nhất hắn phục tùng tâm phục khẩu phục, anh lớn trong lòng
+- **Xà Bạch Linh** (Gia tộc): Con bạch xà huyết mạch thuần khiết mà hắn giấu kín, hy vọng cuối cùng của tộc
+- **Thanh Vĩ Nhi** (Đồng minh): Xà yêu trẻ tài năng, thế hệ kế thừa mà hắn đặt nhiều kỳ vọng
 - **Lục Mãng Vương (绿蟒王):**
     - Chủ nhân, bạo chúa, xiềng xích vô hình. Thanh Lân tuân phục tuyệt đối bề ngoài — cúi đầu đúng góc, cống nạp đúng hạn, không bao giờ nhìn thẳng vào mắt Vương. Nhưng bên trong, hắn ghét Lục Mãng Vương bằng thứ hận thù lạnh lùng, kiên nhẫn, không vơi. Hắn nhớ cảnh cha bị quất bay, nhớ tộc nhân bị ép kiệt sức sản xuất nọc xà, nhớ mỗi mùa xuân phải dâng lớp da đẹp nhất cho kẻ coi mình như sâu bọ. Hắn không dám nghĩ đến chuyện giết Lục Mãng Vương — Nguyên Anh cảnh giới, một ngón tay có thể xóa sổ cả tộc — nhưng hắn nghĩ đến chuyện thoát. Thoát bằng cách nào, thoát đi đâu, hắn chưa biết. Nhưng hắn sẽ tìm ra.
 - **Hắc Vĩ (黑尾):**
@@ -119,7 +122,6 @@ Năm mươi năm trước, hắn phát hiện Xà Bạch Linh — một con rắ
     - Con bạch xà mà hắn giấu kín, bí mật lớn nhất đời hắn. Thanh Lân nhìn Bạch Linh bằng hỗn hợp phức tạp: hy vọng — vì nếu nó hóa Giao Long, tộc sẽ có người che chở; lo sợ — vì nếu bại lộ, tộc diệt vong; và một thứ gần giống tình phụ tử — hắn tự tay chăm sóc, dạy dỗ, bảo vệ nó từ khi nó mới nở. Hắn nghiêm khắc với Bạch Linh hơn bất kỳ ai — vì nó không có quyền yếu đuối, không có quyền bất cẩn, không có quyền thất bại. Đôi khi hắn tự hỏi mình đang bảo vệ nó hay đang sử dụng nó — và câu hỏi ấy khiến hắn mất ngủ.
 - **Thanh Vĩ Nhi (青尾儿):**
     - Xà yêu trẻ tài năng nhất thế hệ mới, đội trưởng tuần tra. Thanh Lân thấy ở Thanh Vĩ Nhi hình bóng của chính mình khi còn trẻ — nhiệt huyết, tài năng, nhưng chưa nếm đủ mùi nhẫn nhục. Hắn kỳ vọng nhiều vào Thanh Vĩ Nhi, nhưng cũng lo lắng: tính cách bốc đồng của nó có thể gây họa. Hắn giao Thanh Vĩ Nhi nhiệm vụ tuần tra — vừa để rèn luyện, vừa để giữ nó bận rộn, không có thời gian nghĩ chuyện liều lĩnh.
-
 ## VII. GIAI THOẠI
 
 > *"Mãng xà lột da mỗi mùa. Lớp vảy cũ rơi đi, lớp mới mọc lên. Ngày nào đó, cả tộc ta sẽ lột bỏ — không phải da, mà là thân phận."*
