@@ -32,9 +32,14 @@ Báo Vân Ảnh trong hình dạng yêu thú là một con báo đen mảnh mai,
 Là Hắc Báo Bộ Lạc Trưởng cảnh giới Kim Đan Trung Kỳ, Báo Vân Ảnh tu luyện "Vân Ảnh Tàng Thân" (云影藏身) — hòa nhập hoàn toàn vào bóng tối và mây đen, di chuyển không tiếng động. Tuyệt kỹ "Ám Dạ Liệp Sát" (暗夜猎杀) cho phép hắn tấn công từ bóng tối với tốc độ và độ chính xác tuyệt đối. Điểm mạnh là tàng hình và ám sát ban đêm, nhược điểm là ban ngày sức mạnh giảm sút đáng kể.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Báo Lôi Ảnh:** Thánh Tướng xuất thân từ bộ lạc, hắn coi như huynh đệ kết nghĩa và tự hào vô cùng.
-- **Lang Thiên Dạ Hành:** Đồng minh chiến thuật đêm, hai bộ lạc thường phối hợp tuần tra ban đêm.
-- **Hổ Cuồng Phong:** Thánh Tướng mà hắn tránh xa vì phong cách đánh ồn ào trái ngược triết lý ẩn mình.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Hổ Vạn Kiếp** (Thuộc hạ): Yêu Đế thống lĩnh Hắc Báo Bộ Lạc Trưởng
+- **Điêu Thiên Hương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Thiên Nộ Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Ưng Hồng Sí** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Hàn Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Trư Thiết Nha Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Xà Lục Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Báo Vân Ảnh sinh ra trong đêm không trăng tối nhất năm, được coi là điềm lành của bộ lạc Hắc Báo. Hắn kế thừa vị trí Bộ Lạc Trưởng từ cha sau khi bộ lạc bị một nhóm thợ săn Nhân Tộc tấn công bất ngờ ban ngày — khi báo đen yếu nhất. Bài học đau thương đó khiến hắn tập trung xây dựng hệ thống canh gác ban ngày và huấn luyện bộ lạc chiến đấu cả dưới ánh mặt trời. Hiện tại, hắn đang giúp Báo Lôi Ảnh nghiên cứu cách dung hợp lôi lực vào huyết mạch báo đen.

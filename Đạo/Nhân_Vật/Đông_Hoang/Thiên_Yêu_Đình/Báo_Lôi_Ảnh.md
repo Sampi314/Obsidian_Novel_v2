@@ -32,9 +32,14 @@ Báo Lôi Ảnh trong hình dạng yêu thú là một con báo đen thuần tú
 Thánh Tướng Thứ Ba với tu vi Nguyên Anh Trung Kỳ, Báo Lôi Ảnh tu luyện "Lôi Ảnh Sát Bộ" (雷影杀步) — kết hợp tốc độ báo với sét, đạt tốc độ gần ánh sáng trong khoảnh khắc. Tuyệt kỹ "Thiên Lôi Nhất Trảo" (天雷一爪) tập trung toàn bộ lôi lực vào một vuốt, giết chết mục tiêu trước khi đối phương kịp nhìn thấy bóng hắn. Điểm mạnh là tốc độ ám sát tuyệt đối, nhược điểm là sức chịu đựng kém, không phù hợp trận chiến kéo dài.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Vạn Kiếp:** Yêu Đế, người duy nhất có thể nhìn thấy hắn di chuyển ở tốc độ tối đa.
-- **Lang Thiên Dạ Hành:** Đồng đội ám sát, hai người phối hợp đánh đêm vô cùng ăn ý.
-- **Báo Vân Ảnh:** Trưởng bộ lạc Hắc Báo mà hắn xuất thân, người anh em kết nghĩa.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Mãng Địa Hoàng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Xà Thủy Huyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Cuồng Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hùng Cổ Mộc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hùng Thiết Sơn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hồ Thiên Mị** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Lang Thiên Dạ Hành** (Đồng minh): Thánh Tướng Thứ Ba và Thứ Tư, phối hợp tác chiến
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Báo Lôi Ảnh sinh ra trong đêm giông bão, khi một tia sét đánh trúng hang ổ khiến hắn mang thiên lôi trong huyết mạch từ lúc lọt lòng. Thuở nhỏ, hắn bị các yêu thú khác khinh thường vì thân hình nhỏ bé, nhưng phát hiện ra rằng tốc độ có thể bù đắp mọi yếu điểm. Hắn trở thành Thánh Tướng sau khi ám sát thành công một kẻ thù Nguyên Anh của Yêu Đế mà không ai phát hiện. Bí mật lớn nhất của hắn là đang nghiên cứu cách dung hợp lôi lực với huyết mạch báo để đạt tốc độ ánh sáng thực sự.

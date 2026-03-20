@@ -32,9 +32,13 @@ Thân hình nhỏ gọn nhưng cơ bắp săn chắc, mỗi cử động đều 
 Sát thủ hàng đầu của Ảnh Nguyệt Uyển, tinh thông Vô Thanh Ám Sát Thuật (無聲暗殺術) cho phép tiếp cận và hạ sát mục tiêu mà không phát ra bất kỳ âm thanh nào. Tuyệt chiêu Vô Thanh Thiên Nhận (無聲千刃) phóng ra hàng ngàn lưỡi dao vi mô xuyên thủng phòng ngự. Ưu điểm là tốc độ và sự chính xác tuyệt đối, nhược điểm là không giỏi chiến đấu kéo dài.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Vi Nguyệt Ảnh:** Ảnh Chủ, người cứu mạng và là đối tượng trung thành tuyệt đối.
-- **Hoa Tiểu Yến:** Gián Điệp Trưởng, đối tác phối hợp nhiều nhất trong các nhiệm vụ ám sát.
-- **Vi Ám Hà:** Phó Ảnh Chủ, người đặt ra phần lớn các nhiệm vụ cho hắn.
-
+- **Vi Ám Hà** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ảnh Nguyệt Uyển
+- **Vi Ám Hà** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Vi Ám Hà
+- **Tiểu Dạ Lan** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Vi Sương Vân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Linh Ảnh Điệp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Hoa Tiểu Yến** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Vi Minh Nguyệt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Tiểu Phong Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vi Vô Thanh từng là nô lệ của một tà tu nhân tộc, bị ép làm công cụ giết người từ nhỏ. Khi tà tu đó bị Ảnh Nguyệt Uyển hạ sát trong một nhiệm vụ, Vi Nguyệt Ảnh phát hiện đứa trẻ Vi Tộc bị giam cầm và đưa về nuôi dưỡng. Hắn tự nguyện trở thành Sát Thủ Trưởng để trả ơn cứu mạng, và kể từ đó chưa bao giờ thất bại trong bất kỳ nhiệm vụ nào. Bí mật là hắn hoàn toàn mất khả năng cảm nhận cảm xúc do bị tà tu dùng cấm thuật tẩy não, và Vi Nguyệt Ảnh đang âm thầm tìm cách chữa trị cho hắn.

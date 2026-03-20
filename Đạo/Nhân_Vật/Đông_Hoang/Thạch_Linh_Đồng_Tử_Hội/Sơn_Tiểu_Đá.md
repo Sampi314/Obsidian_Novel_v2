@@ -32,8 +32,8 @@ Sơn Tiểu Đá là bé Cự Tộc nhỏ nhất hội, cao chưa đến một m
 Sơn Tiểu Đá chưa có kỹ năng chiến đấu rõ ràng, chỉ có Thạch Bì Hộ Thể (石皮護體) — bản năng Cự Tộc cứng hóa da khi sợ hãi. Y có thiên phú đặc biệt: nghe được 'tiếng nói' của đá, cảm nhận được lịch sử của khoáng vật khi chạm vào.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Thạch Viên Viên:** Đầu lĩnh mà Tiểu Đá bám theo như bóng, cảm thấy an toàn bên cạnh.
-- **Nham Tiểu Đậu:** Bạn chơi hay trêu nhưng luôn bảo vệ Tiểu Đá.
-
+- **Thạch Viên Viên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thạch Linh Đồng Tử Hội
+- **Thạch Viên Viên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Thạch Viên Viên
+- **Nham Tiểu Đậu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thạch Linh Đồng Tử Hội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sơn Tiểu Đá là bé Cự Tộc mồ côi, cha mẹ mất trong vụ sập hầm mỏ. Được các Cự Tộc lớn nuôi dưỡng nhưng hay bị bỏ rơi vì quá nhỏ. Thạch Viên Viên kết bạn với y, cho y gia nhập Hội, từ đó Tiểu Đá tìm được gia đình. Thiên phú nghe 'tiếng nói' của đá có thể là dấu hiệu y có tiềm năng trở thành Thạch Ngữ Sư — chức vị hiếm gặp trong Cự Tộc.

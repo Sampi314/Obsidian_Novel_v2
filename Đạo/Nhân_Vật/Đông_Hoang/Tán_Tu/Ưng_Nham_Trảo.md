@@ -31,9 +31,15 @@ arcs:
 Ưng Nham Trảo sở hữu Nham Ưng Tuyệt Trảo (岩鷹絕爪) — kết hợp sức mạnh móng vuốt với linh lực thổ hệ, mỗi cú cào có thể xé toạc giáp xác yêu thú và nghiền nát phòng ngự linh lực. Ngoài ra y tinh thông Ưng Nhãn Truy Tung (鷹眼追蹤) — kỹ thuật dùng thần thức kết hợp thị giác ưng để truy dấu con mồi xuyên qua rừng rậm và sương mù. Là thợ săn đáng sợ nhất trong giới tán tu Đông Hoang.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Ưng Dã Phong:** Hậu bối Vũ Tộc mà Ưng Nham Trảo đang cân nhắc thu nhận làm đồ đệ.
-- **Hoang Sơn Ẩn Sĩ:** Ẩn sĩ Cự Tộc mà Ưng Nham Trảo đổi thú rừng lấy thuốc chữa thương.
-- **Tàn Dực:** Trùng Tộc tán tu từng giao đấu với y, hai bên ngầm tôn trọng nhau.
-
+- **Cuồng Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
+- **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
+- **Lâm Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Lâm Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Hắc Thiết Giáp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Tàn Dực** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Hoang Sơn Ẩn Sĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Quạ Hắc Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Liệt Quyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Ưng Dã Phong** (Đồng minh): Hai thợ săn Ưng, đồng nghiệp săn bắn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ưng Nham Trảo từng là thợ săn phục vụ Tiên Cầm Viện, chuyên bắt linh điểu hoang dã mang về thuần hóa. Nhưng khi phát hiện Viện bán linh điểu cho đấu trường Vạn Yêu Thành, y phẫn nộ rời đi. Trở thành tán tu, y sống bằng nghề săn yêu thú, bán vật liệu cho thương hội. Bí mật: y đang nuôi một quả trứng linh ưng cổ đại tìm được trong hang núi, chờ ngày nó nở.

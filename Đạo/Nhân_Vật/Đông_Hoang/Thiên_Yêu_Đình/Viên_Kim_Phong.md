@@ -32,9 +32,13 @@ Viên Kim Phong trong hình dạng yêu thú là một con vượn vàng nhỏ n
 Là Viên Tộc Chiến Sĩ cảnh giới Kim Đan Sơ Kỳ, Viên Kim Phong tu luyện "Kim Phong Khinh Thân Thuật" (金风轻身术) — nhẹ nhàng như gió, di chuyển trên cành cây mà không gây lay động. Tuyệt kỹ "Phong Quyền Liên Hoàn" (风拳连环) phóng ra chuỗi quyền nhanh như gió, mỗi quyền nhẹ nhưng liên tục không ngừng. Điểm mạnh là tốc độ và sự linh hoạt, nhược điểm là sức mạnh từng đòn yếu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Viên Bá Thiên:** Thánh Tướng và cũng là sư huynh, hắn bị dẫn đi tỉ thí khắp nơi.
-- **Lang Bạch Nha:** Đối thủ cùng thế hệ, hai người hay tỉ thí và là bạn tốt.
-- **Ưng Hồng Sí:** Chiến sĩ Vũ Tộc mà hắn ngưỡng mộ vì sự kiên cường.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Hổ Vạn Kiếp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Yêu Đình
+- **Vạn Ti La Nương** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Yêu Đình
+- **Hùng Thiết Chưởng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hồ Thanh Lăng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Lang Bạch Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Thử Linh Nhĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Viên Kim Phong sinh ra trên cành cây cao nhất khu rừng viên tộc, suýt rơi xuống đất ngay khi chào đời nhưng bản năng nắm cành cứu mạng. Từ nhỏ, hắn đã nhanh nhẹn hơn mọi vượn cùng lứa, nhảy từ cành này sang cành khác mà không bao giờ rơi. Được Viên Bá Thiên nhận làm đệ và huấn luyện chiến đấu, hắn nhanh chóng trở thành chiến sĩ trẻ triển vọng nhất viên tộc. Mục tiêu của hắn là vượt qua sư huynh và trở thành Thánh Tướng.

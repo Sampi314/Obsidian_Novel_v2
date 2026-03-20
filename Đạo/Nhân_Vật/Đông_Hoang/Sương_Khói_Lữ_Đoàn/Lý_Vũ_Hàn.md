@@ -32,8 +32,11 @@ Lý Vũ Hàn dáng người tầm thước, luôn mặc áo choàng xám bạc, 
 Lý Vũ Hàn sở hữu Sương Khói Ẩn Thân Thuật (霜煙隱身術) — hòa mình vào sương mù trở nên vô hình, dẫn dắt cả đoàn di chuyển mà không bị phát hiện. Tuyệt kỹ Hàn Sương Mê Trận (寒霜迷陣) tạo ra vùng sương khói dày đặc khiến kẻ địch mất phương hướng. Điểm yếu là trong điều kiện không có sương, sức chiến đấu giảm mạnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Sương Phong:** Phó Đoàn Trưởng, đồng đạo thân thiết nhất, hai người phối hợp ăn ý.
-- **Phạm Tiểu Sương:** Thành viên trẻ mà Vũ Hàn đang dẫn dắt trưởng thành.
-
+- **Trần Sương Phong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Sương Khói Lữ Đoàn
+- **Phạm Tiểu Sương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Sương Khói Lữ Đoàn
+- **Trần Sương Phong** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Vũ Hàn
+- **Phạm Tiểu Sương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Vũ Hàn
+- **Hồ Thất Cửu** (Thuộc hạ): Đoàn Trưởng Sương Khói nhận nhiệm vụ từ Thành Chủ
+- **Lý Chấp Kim** (Đồng minh): Lữ Đoàn Sương Khói hợp tác với Vạn Tượng Sâm La
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Vũ Hàn từng là đệ tử một tông phái nhỏ bị diệt, y là người sống sót duy nhất nhờ khả năng ẩn thân trong sương. Từ đó lang thang, thu nạp những lữ khách cùng cảnh ngộ thành Sương Khói Lữ Đoàn — một nhóm chuyên hộ tống và vận chuyển bí mật qua các vùng nguy hiểm. Nỗi buồn mất tông phái khiến y không bao giờ ở yên một chỗ, luôn trên đường đi.

@@ -32,9 +32,8 @@ Vũ Đoạn Dực là một Vũ Tộc lão niên, đôi cánh từng to lớn na
 Là Phó Trại Chủ cảnh giới Luyện Khí Đỉnh Phong, Vũ Đoạn Dực không còn bay được nhưng tu luyện "Đoạn Dực Địa Chiến" (断翼地战) — chiến đấu trên mặt đất bằng kinh nghiệm quân sự cũ. Tuyệt kỹ "Tàn Phong Vệ Trại" (残风卫寨) dùng phong khí tàn dư trong cánh cụt tạo lá chắn gió. Điểm mạnh là kinh nghiệm chiến đấu và tinh thần bất khuất, nhược điểm là không bay được và tu vi suy yếu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Vũ Lạc Vũ:** Trại Chủ, hắn phò tá như người anh cả.
-- **Vũ Tiểu Lạc:** Con gái Trại Chủ, hắn dạy kỹ năng sinh tồn.
-- **Bà lão cánh bạc:** Cựu nội môn đệ tử Vũ Hoàng Các, người hắn kính trọng.
-
+- **Vũ Tiểu Lạc** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vũ Tộc Lưu Dân Trại
+- **Vũ Tiểu Lạc** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Vũ Đoạn Dực
+- **Vũ Thiên Hoàng** (Thuộc hạ): Phó Trại Chủ Lưu Dân hướng về Vũ Hoàng
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vũ Đoạn Dực từng là chiến binh Thương Khung Vệ, bị cắt cánh và trục xuất sau khi bất tuân mệnh lệnh — hắn từ chối ném đá xuống khu dân cư Nhân Tộc. Mất cánh là nỗi nhục lớn nhất của Vũ Tộc, nhưng hắn coi đó là giá của lương tâm. Hắn tìm đến Lưu Dân Trại và trở thành trụ cột quân sự dù không còn bay. Bí mật là hắn biết điểm yếu trong hệ thống phòng thủ Vũ Hoàng Các — kiến thức có thể thay đổi cục diện nếu cần.

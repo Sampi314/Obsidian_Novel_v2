@@ -66,3 +66,15 @@ arcs:
 ## TRANG BỊ & VẬT PHẨM
 - **Ngọc Tiêu (Pháp Bảo):** Cây sáo ngọc bích trấn phái, có khả năng khuếch đại âm công và điều khiển thủy hệ linh lực.
 - **Tinh Linh Hồn Châu:** Nội đan linh hồn của nàng, chứa đựng ký ức và sức mạnh tu luyện ngàn năm.
+
+## IV. CÁC MỐI QUAN HỆ
+- **Nguyệt Thiên Hà** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tinh Linh Vương Đình
+- **Nguyệt Thiên Hà** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nguyệt Thiên Hà
+- **Nguyệt Hàn Sương** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tinh Linh Vương Đình
+- **Diệp Tĩnh Sương** (Đồng minh): Thử thách kẻ xâm nhập Long Huyệt
+- **Vân Hà** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Hoa Ngọc Lan** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Hoa Tuyết** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Lục Thanh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Vân Thiên Lý** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Ám Thiên Lôi** (Kẻ thù): Hộ Pháp Vương Đình và Chiến Sĩ Hắc Tinh Linh, thù hận sâu sắc

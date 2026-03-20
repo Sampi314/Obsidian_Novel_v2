@@ -32,9 +32,14 @@ Linh Ngọc Thụ Tâm là một Mộc Tinh Linh đặc biệt, da phủ lớp v
 Là Thần Mộc Thông Dịch cảnh giới Nguyên Anh Sơ Kỳ, Linh Ngọc Thụ Tâm tu luyện "Thần Mộc Tâm Ấn" (神木心印) — kết nối trực tiếp với ý thức của Cây Thế Giới, truyền đạt thông điệp hai chiều. Tuyệt kỹ "Vạn Căn Truyền Âm" (万根传音) gửi tin nhắn qua hệ thống rễ cây đến bất kỳ Tinh Linh nào trong rừng. Điểm mạnh là liên lạc và cảnh báo tức thì trong phạm vi rừng, nhược điểm là rời khỏi rừng thì mất kết nối và gần như bất lực.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nguyệt Linh Quang:** Đại Tế Tư, đồng nghiệp phụng sự Cây Thế Giới, cùng chia sẻ nỗi lo.
-- **Hoa Tử Yên:** Vườn Thần Quản Lý, hai người phối hợp chăm sóc hệ thực vật hoàng cung.
-- **Lục Thanh:** Trinh Sát Trưởng, nàng cung cấp cảnh báo sớm qua rễ cây cho hệ thống trinh sát.
-
+- **Nguyệt Thiên Hà** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tinh Linh Vương Đình
+- **Nguyệt Thiên Hà** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nguyệt Thiên Hà
+- **Lục Thanh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tinh Linh Vương Đình
+- **Vân Thiên Lý** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tinh Linh Vương Đình
+- **Nguyệt Hàn Sương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Nguyệt Huyền Thiên Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Nguyệt Linh Quang** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Vân Tiêu Dao Khách** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Vân Hà** (Đồng minh): Thần Mộc Thông Dịch và Thư Viện Trưởng, hợp tác tri thức
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Linh Ngọc Thụ Tâm sinh ra ngay dưới gốc Cây Thế Giới, được nuôi dưỡng trực tiếp bởi linh khí thần mộc. Nàng phát triển khả năng giao tiếp với cây cối từ khi mới biết đi, và được chọn làm Thần Mộc Thông Dịch khi chứng minh có thể nghe được tiếng nói của Cây Thế Giới. Sự kiện quan trọng nhất là khi nàng truyền đạt lời cảnh báo của Thần Mộc về một trận động đất sắp xảy ra, cứu sống hàng ngàn Tinh Linh. Nỗi lo lớn nhất là Cây Thế Giới ngày càng ít nói — nàng không biết đó là sự im lặng của trí tuệ hay dấu hiệu héo úa.

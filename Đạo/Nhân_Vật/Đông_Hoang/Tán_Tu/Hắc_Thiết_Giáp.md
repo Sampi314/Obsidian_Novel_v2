@@ -31,9 +31,14 @@ Hắc Thiết Giáp là Cự Tộc cao chín trượng, toàn thân phủ lớp 
 Hắc Thiết Giáp luyện thành Huyền Thiết Bất Hoại Thể (玄鐵不壞體) — biến da thịt thành kim loại tự nhiên, miễn dịch hầu hết công kích vật lý và pháp thuật cấp thấp. Đấu pháp của y là Thiết Sơn Áp Đỉnh (鐵山壓頂) — dùng sức nặng kinh hoàng kết hợp tốc độ bất ngờ để nghiền nát đối thủ. Được coi là một trong những đấu sĩ cận chiến đáng sợ nhất trong giới tán tu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Cuồng Nham:** Kình địch lâu năm, hai Cự Tộc thường đấu quyền để giải khuây.
-- **Hoang Sơn Ẩn Sĩ:** Lão nhân mà Hắc Thiết Giáp kính trọng, thường đến uống trà bàn đạo.
-- **Liệt Quyền:** Hậu bối mà Hắc Thiết Giáp đang nhắm làm học trò, dù chưa chính thức thu nhận.
-
+- **Cuồng Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
+- **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
+- **Lâm Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Tước Lâm** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Ưng Dã Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Lâm Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Tàn Dực** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Ưng Nham Trảo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Hoang Sơn Ẩn Sĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hắc Thiết Giáp vốn là nô lệ khai mỏ cho một tông môn luyện khí, bị bắt từ nhỏ và buộc phải lao động trong hầm mỏ suốt hai trăm năm. Trong một vụ sập hầm, y bị chôn vùi trong mạch khoáng huyền thiết, cơ thể hấp thu tinh hoa kim loại mà đột phá. Sau khi thoát ra, y giết sạch những kẻ giam cầm mình và trở thành tán tu. Hiện tại y lang bạt Đông Hoang, nhận nhiệm vụ đấu đài kiếm sống.

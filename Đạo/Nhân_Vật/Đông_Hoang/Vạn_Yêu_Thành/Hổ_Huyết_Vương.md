@@ -32,9 +32,44 @@ Hổ Huyết Vương mang nhân hình một tráng niên cơ bắp cuồn cuộn
 Đạt cảnh giới Nguyên Anh Sơ Kỳ, Hổ Huyết Vương tu luyện "Huyết Hổ Cuồng Bạo Quyết" (血虎狂暴诀) — kích hoạt huyết mạch cổ đại trong cơ thể, biến nỗi đau và máu thành sức mạnh chiến đấu, càng bị thương càng mạnh. Tuyệt kỹ "Huyết Bạo Hổ Vương Quyền" (血暴虎王拳) giáng xuống đòn quyền mang hình hổ khổng lồ bằng máu, sức hủy diệt phá sơn đoạn nhạc. Điểm mạnh là sức mạnh cận chiến và sức chịu đựng kinh hoàng, nhược điểm là mất lý trí khi cuồng bạo quá độ và dễ bị đánh bại bằng chiến thuật.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hồ Thất Cửu:** Thành Chủ mà hắn phục tùng vì coi đây là nơi duy nhất cho phép hắn chiến đấu thoải mái.
-- **Hổ Thiết Quyền:** Đấu sĩ hạng nhất, chiến binh mà hắn đánh giá cao nhất trên đấu trường, coi như kình địch đáng gờm.
-- **Hổ Phá Quân:** Cựu đấu sĩ mất một mắt, hắn vừa thương xót vừa khinh thường vì cho rằng kẻ thua cuộc không xứng đáng đứng trên đấu trường.
-
+- **Mãng Lục Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hùng Ngân Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hồ Thất Cửu** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Phá Quân** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Mãng Huyền Thiên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Báo Thiên Dạ Hành** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hồ Diễm Nương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Lang Cô Nha Hàn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hùng Cự Lực** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hồ Ngọc Nhan** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Thiết Quyền** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Xà Bạch Lân** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Nha Thiên Mục** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Thử Thiên Đạo** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Trư Đại Phúc** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Viên Thiên Lý Nhãn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Điêu Hương Phong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hồ Tiểu Vũ Nguyệt** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Xà Hồng Tín Tử** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Mãng Lục Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hùng Ngân Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hồ Thất Cửu** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hổ Phá Quân** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Mãng Huyền Thiên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Báo Thiên Dạ Hành** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hồ Diễm Nương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Lang Cô Nha Hàn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hùng Cự Lực** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hồ Ngọc Nhan** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hổ Thiết Quyền** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Xà Bạch Lân** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Nha Thiên Mục** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Thử Thiên Đạo** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Trư Đại Phúc** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Viên Thiên Lý Nhãn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Điêu Hương Phong** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hồ Tiểu Vũ Nguyệt** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Xà Hồng Tín Tử** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hổ Cuồng Phong** (Đối thủ): Thánh Tướng Thứ Nhất và Đấu Trường Chủ, cùng Hổ Tộc nhưng khác phe
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hổ Huyết Vương từ nhỏ đã khác biệt với đồng tộc — hắn không thỏa mãn với việc săn mồi thông thường mà khao khát chiến đấu với những đối thủ mạnh hơn mình. Bị trục xuất khỏi bộ lạc vì tính khí bạo liệt giết chết đồng tộc trong lúc thi đấu, hắn lang thang khắp Đông Hoang thách đấu bất kỳ ai gặp. Khi đến Vạn Yêu Thành, Hồ Thất Cửu nhìn ra tiềm năng và giao cho hắn xây dựng Đấu Trường — nơi yêu tu giải quyết mâu thuẫn bằng nắm đấm thay vì hỗn chiến trên phố. Hiện tại, hắn đang tìm kiếm một đối thủ xứng tầm có thể đẩy hắn đến giới hạn, vì đã rất lâu không ai trên đấu trường khiến hắn cảm thấy sợ hãi.

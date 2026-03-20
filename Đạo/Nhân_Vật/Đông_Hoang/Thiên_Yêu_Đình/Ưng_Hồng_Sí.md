@@ -32,9 +32,14 @@ arcs:
 Là Chiến Sĩ Vũ Tộc cảnh giới Kim Đan Hậu Kỳ, Ưng Hồng Sí tu luyện "Hồng Sí Huyết Chiến Công" (红翅血战功) — mỗi giọt máu kẻ thù dính trên cánh tăng cường sức mạnh và tốc độ. Tuyệt kỹ "Huyết Vũ Cuồng Phong" (血羽狂风) xoay tròn tạo bão lông vũ đỏ cắt nát mọi thứ. Điểm mạnh là càng đánh càng mạnh và tốc độ bay chiến đấu, nhược điểm là phụ thuộc vào việc dính máu nên gặp đối thủ không chảy máu thì yếu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Ưng Thương Thiên:** Chiến Tướng đồng tộc, người hắn theo sau trên mọi chiến trường.
-- **Hổ Cuồng Phong:** Thánh Tướng hay giao nhiệm vụ tiên phong cho hắn vì tin tưởng sự liều lĩnh.
-- **Lang Bạch Nha:** Chiến sĩ trẻ cùng thế hệ, hai người hay tỉ thí thân thiện.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Hùng Thiết Chưởng** (Thuộc hạ): Vệ Binh Trưởng chỉ huy Chiến Sĩ Ưng
+- **Nha Huyền Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Điêu Thiên Hương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Thiên Nộ Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Báo Vân Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Hàn Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Trư Thiết Nha Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ưng Hồng Sí vốn sinh ra trong Vũ Hoàng Các với cánh trắng tinh, nhưng bị đuổi cùng Ưng Thương Thiên sau sự cố bạo lực. Ban đầu cánh hắn trắng như mọi Vũ Tộc, nhưng sau khi theo Thương Thiên vào Thiên Yêu Đình, mỗi trận chiến khiến máu kẻ thù nhuộm cánh hắn đỏ thẫm dần. Hắn mang mặc cảm tội lỗi về quá khứ bạo lực ở Vũ Hoàng Các, nhưng đã chấp nhận số phận chiến sĩ. Ước mơ giấu kín là một ngày cánh sẽ trở lại trắng tinh.

@@ -32,9 +32,13 @@ arcs:
 Là Trưởng Lão cảnh giới Kim Đan Viên Mãn, Điêu Thiên Hương tu luyện "Thiên Hương Mê Trận" (天香迷阵) — tỏa ra hương thơm tạo ra kết giới ảo ảnh khiến kẻ thù lạc lối. Tuyệt kỹ "Kim Tơ Phược Địch" (金丝缚敌) phóng ra tơ vàng từ lông điêu, trói buộc và phong ấn linh lực đối phương. Điểm mạnh là trận pháp hỗ trợ mạnh và khả năng phong ấn, nhược điểm là chiến đấu tay đôi không phải sở trường.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Vạn Kiếp:** Yêu Đế, nàng quản lý kho tàng cho hắn nhưng luôn giữ lại một phần cho riêng mình.
-- **Hồ Thiên Mị:** Thánh Tướng thường xuyên xin ngân sách ngoại giao, hai người đàm phán căng thẳng nhưng tôn trọng nhau.
-- **Thử Linh Nhĩ:** Thử Tộc Trưởng cung cấp tin về nguồn tài nguyên mới, đổi lấy phần thưởng.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Lang Thiên Nộ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Mãng Hắc Vân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Nha Huyền Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Thiên Nộ Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Ưng Hồng Sí** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Báo Vân Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Điêu Thiên Hương sinh ra trong khu rừng linh mộc quý, nơi chồn điêu thiên hương chỉ xuất hiện một con mỗi ngàn năm. Lông của nàng có giá trị ngang ngọc quý, từ nhỏ đã bị thợ săn truy đuổi liên tục. Kinh nghiệm sinh tồn đó dạy nàng rằng tài nguyên là quyền lực, kẻ nắm giữ kho tàng mới thực sự nắm quyền. Khi gia nhập Thiên Yêu Đình, nàng tình nguyện quản lý kho tàng và nhanh chóng biến nó thành hệ thống hậu cần hiệu quả nhất Đông Hoang. Bí mật là nàng đã cất giấu một kho tàng riêng phòng thân nếu Đình gặp biến.

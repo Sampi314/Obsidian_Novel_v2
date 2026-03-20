@@ -32,9 +32,14 @@ Trần Thanh Tiên là lão nhân cao gầy, tóc trắng búi cao, râu dài xa
 Trần Thanh Tiên tinh thông Thanh Đế Linh Dược Thuật (青帝靈藥術) — có thể trồng và thu hoạch linh dược cấp cao chỉ trong vài tháng thay vì hàng trăm năm. Chiến đấu bằng Linh Đằng Phược Pháp (靈藤縛法) — điều khiển dây leo linh lực trói buộc và siết chặt đối thủ. Là dược sư hàng đầu Thanh Đế Cung.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Tinh Vạn Diệp:** Đồng liêu Thái Thượng, hai người hay cùng chăm sóc Vườn Dược.
-- **Lý Mộc Thanh:** Cung Chủ mà y phò tá và cung cấp đan dược.
-- **Hoàng Mộc Linh:** Trưởng Lão Dược Tiên Viện mà y trực tiếp dẫn dắt.
-
+- **Lý Mộc Thanh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Lý Mộc Thanh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Phạm Thanh Hoa** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Hoàng Mộc Linh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Nguyệt Thường Xuân** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Đặng Thanh Liên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Vũ Tiểu Thanh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Tinh Vạn Diệp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
+- **Hoàng Mộc Linh** (Đồng minh): Cùng Thanh Đế Cung, quan hệ tổ chức
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trần Thanh Tiên gia nhập Thanh Đế Cung từ thời còn trẻ, tài năng luyện dược vượt trội. Trải qua sáu trăm năm tu luyện và nghiên cứu, y trở thành dược sư giỏi nhất tông môn. Đóng góp lớn nhất là phát triển Thanh Đế Trường Sinh Đan — đan dược kéo dài tuổi thọ cho toàn bộ tu sĩ trong Cung. Hiện tại y nhận thấy linh dược trong Vườn Dược Thượng Cổ đang héo úa bất thường dù linh khí vẫn dồi dào.

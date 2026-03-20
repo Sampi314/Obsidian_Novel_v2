@@ -32,10 +32,26 @@ Lý Mộc Thanh có dáng vẻ thanh nhã như cây tùng bách, tóc xanh biế
 Lý Mộc Thanh tinh thông Thanh Đế Trường Sinh Quyết (青帝長生訣) — tâm pháp tối cao của tông môn, sinh cơ vô tận có thể hồi phục mọi vết thương. Chiến đấu bằng Vạn Diệp Phi Hoa Lệnh (萬葉飛花令) — triệu hồi hàng vạn lá cây hóa thành lưỡi dao sắc bén bao vây đối thủ. Là cường giả mộc hệ mạnh nhất Đông Hoang hiện tại.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Tinh Vạn Diệp:** Thái Thượng Trưởng Lão Tinh Linh Tộc, cố vấn thân thiết nhất.
-- **Trần Thanh Tiên:** Thái Thượng Trưởng Lão đồng liêu, cùng gánh vác vận mệnh Cung.
-- **Phạm Thanh Hoa:** Hộ Pháp trung thành, bảo vệ Cung Chủ bằng mọi giá.
-- **Nguyệt Thường Xuân:** Trưởng Lão Tinh Linh, đại diện cho liên minh Tinh Linh Vương Đình.
-
+- **Tinh Vạn Diệp** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Trần Thanh Tiên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Phạm Thanh Hoa** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Hoàng Mộc Linh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Nguyệt Thường Xuân** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Nguyễn Thanh Trúc** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Lê Dược Tiên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Đặng Thanh Liên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Vũ Tiểu Thanh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Tinh Vạn Diệp** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Trần Thanh Tiên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Phạm Thanh Hoa** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Hoàng Mộc Linh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Nguyệt Thường Xuân** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Nguyễn Thanh Trúc** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Lê Dược Tiên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Đặng Thanh Liên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Vũ Tiểu Thanh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Lý Vân Thiên** (Đồng minh): Tông Chủ Vân Tông và Cung Chủ Thanh Đế Cung, đồng minh chiến lược
+- **Lý Hoa Nguyệt** (Đồng minh): Cung Chủ Thanh Đế và Cốc Chủ Bách Hoa, cùng chí hướng tự nhiên
+- **Lý Huyết Thần** (Kẻ thù): Huyết Sát Minh và Thanh Đế Cung, kẻ thù sinh tử
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Mộc Thanh sinh ra với thể chất Mộc Linh đặc biệt — cơ thể tự phát ra mộc linh khí nuôi dưỡng cây cối xung quanh. Được Thanh Đế Cung thu nhận từ nhỏ, y nhanh chóng trở thành thiên tài tu luyện. Sau khi Cung Chủ tiền nhiệm qua đời trong trận chiến với Vạn Độc Môn, y kế vị và thề sẽ bảo vệ mảnh xanh cuối cùng của Đông Hoang. Hiện tại, rừng rậm đang suy yếu bất thường và Mộc Linh Trận Địa có dấu hiệu rạn nứt — y đang tìm cách cứu chữa.

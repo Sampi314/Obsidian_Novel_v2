@@ -32,9 +32,14 @@ Phạm Thanh Hoa là nữ tu sĩ trung niên, thân hình cường tráng, mặc
 Phạm Thanh Hoa sở hữu Mộc Linh Chiến Giáp Thuật (木靈戰甲術) — biến mộc linh khí thành lớp giáp chiến đấu cực cứng bao phủ toàn thân. Chiến đấu bằng Thanh Kiếm Liên Hoa Trảm (青劍蓮花斬) — kiếm pháp mộc hệ, mỗi kiếm chiêu nở ra một bông sen linh lực sắc bén. Là Hộ Pháp mạnh nhất hiện tại của Thanh Đế Cung.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Mộc Thanh:** Cung Chủ mà y thề bảo vệ bằng sinh mệnh.
-- **Nguyễn Thanh Trúc:** Đồng liêu Trưởng Lão, cùng chỉ huy Mộc Linh Vệ.
-- **Lê Dược Tiên:** Trưởng Lão hay chữa trị vết thương cho y sau trận chiến.
-
+- **Lý Mộc Thanh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Lý Mộc Thanh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Hoàng Mộc Linh** (Thuộc hạ): Cùng Thanh Đế Cung, quan hệ tổ chức
+- **Tinh Vạn Diệp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Trần Thanh Tiên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Vũ Tiểu Thanh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Hoàng Mộc Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
+- **Nguyệt Thường Xuân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
+- **Nguyễn Thanh Trúc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Thanh Hoa sinh ra trong gia đình tiều phu bình thường, nhưng từ nhỏ đã có khả năng kỳ lạ — cây cối tự uốn cong để bảo vệ y mỗi khi gặp nguy hiểm. Được Thanh Đế Cung thu nhận, y chọn con đường chiến binh thay vì dược sư. Từng dẫn đầu Mộc Linh Vệ đẩy lùi cuộc tấn công của Vạn Độc Môn, cứu được hàng trăm mẫu rừng linh. Vết sẹo trên má là dấu tích từ trận chiến đó.

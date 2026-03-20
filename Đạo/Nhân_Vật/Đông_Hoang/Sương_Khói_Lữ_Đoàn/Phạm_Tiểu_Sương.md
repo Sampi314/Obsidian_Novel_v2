@@ -32,8 +32,8 @@ Phạm Tiểu Sương là thiếu niên nhỏ nhắn, mặt trắng hồng, tóc
 Phạm Tiểu Sương đang luyện Sương Mê Bộ (霜迷步) — bộ pháp di chuyển trong sương, bước đi không để lại dấu vết. Có thiên phú tạo sương tự nhiên từ hơi thở, khiến đồng đội ngạc nhiên. Không giỏi chiến đấu, chuyên hỗ trợ tạo sương che chắn.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Vũ Hàn:** Đoàn Trưởng mà Tiểu Sương coi như cha, theo sát bên cạnh.
-- **Trần Sương Phong:** Phó Đoàn Trưởng dạy kiếm, Tiểu Sương ngưỡng mộ phong thái của ông.
-
+- **Lý Vũ Hàn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Sương Khói Lữ Đoàn
+- **Lý Vũ Hàn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Vũ Hàn
+- **Trần Sương Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Sương Khói Lữ Đoàn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Tiểu Sương là cô nhi được lữ đoàn nhặt về trên đường, không rõ xuất thân. Thiên phú tạo sương tự nhiên khiến y được thu nhận làm thành viên chính thức dù còn nhỏ. Y coi lữ đoàn là gia đình, sợ nhất là một ngày mọi người chia tay. Gần đây, y phát hiện mình có thể nhìn xuyên sương — khả năng mà không ai khác trong đoàn có được.

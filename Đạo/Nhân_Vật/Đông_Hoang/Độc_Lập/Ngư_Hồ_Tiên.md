@@ -32,9 +32,12 @@ Cá linh sống trong hồ rừng sâu, cô lập ngàn năm
 Thành viên của Độc Lập, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 魚湖仙·Bản Mệnh (魚湖仙·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Giao Lệ Hoa Nguyệt:** Dệt Sư Tự Do, đồng liêu quan trọng nhất trong Độc Lập.
-- **Loa Thiên Âm Hải:** Nhạc Sư Lưu Lạc, đối tác thường xuyên phối hợp.
-- **Ngư Vạn Hải:** Trinh Sát Bờ Biển, mối quan hệ tin cậy lẫn nhau.
-
+- **Loa Thiên Âm Hải** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Độc Lập
+- **Loa Thiên Âm Hải** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Loa Thiên Âm Hải
+- **Nham Thần** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Độc Lập
+- **Nấm Cổ Thụ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Độc Lập
+- **Ngư Vạn Hải** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Độc Lập
+- **Giao Lệ Hoa Nguyệt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Độc Lập
+- **Ngư Lão Vĩ** (Đồng minh): Hồ Cư Dân và Thôn Trưởng Tiểu Ngư, láng giềng
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ngư Hồ Tiên sinh ra trong một gia đình Hải Tộc bình thường, sớm thể hiện tư chất phù hợp với Độc Lập. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Độc Lập và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hồ Cư Dân.

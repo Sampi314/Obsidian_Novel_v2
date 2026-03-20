@@ -32,9 +32,11 @@ arcs:
 Đạt cảnh giới Kim Đan Hậu Kỳ, Đặng Tiểu La tu luyện "Tiểu La Ám Khí Quyết" (小罗暗器诀) — biến bất kỳ vật nhỏ nào thành ám khí chết người thông qua phủ linh lực, tốc độ phóng ám khí nhanh đến mức mắt thường không thể nhìn thấy. Tuyệt kỹ "Thiên La Địa Võng Châm" (天罗地网针) phóng ra hàng trăm kim nhỏ phủ kín không gian, không chừa kẽ hở để thoát. Điểm mạnh là tốc độ tay và ám khí thuật xuất chúng, nhược điểm là nội lực còn non và không thể duy trì chiến đấu cường độ cao lâu dài.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hoàng Ám Ảnh:** Sư phụ ám sát thuật, hắn kính sợ nhưng cũng ngưỡng mộ sâu sắc, luôn cố gắng được Ám Ảnh công nhận.
-- **Phạm Kim Đao:** Đàn anh dạy hắn chiến đấu trực diện, hắn coi như cha anh trong tổ chức.
-- **Lý Chấp Kim:** Hội Trưởng, người cho hắn chỗ dung thân khi cả thế giới quay lưng.
-
+- **Lý Chấp Kim** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Tượng Sâm La
+- **Lý Chấp Kim** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Chấp Kim
+- **Phạm Kim Đao** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Tượng Sâm La
+- **Trần Thiên Nhãn** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Tượng Sâm La
+- **Hoàng Ám Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Tượng Sâm La
+- **Nguyễn Tầm Tung** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Tượng Sâm La
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Đặng Tiểu La là trẻ mồ côi lớn lên trên đường phố của một thị trấn nhỏ, sống bằng nghề móc túi và trộm cắp. Thiên phú tay nhanh mắt tinh của hắn bị Hoàng Ám Ảnh phát hiện khi hắn dám móc túi một sát thủ Nguyên Anh mà không bị phát giác — điều mà chính Ám Ảnh cũng phải kinh ngạc. Được đưa về Vạn Tượng Sâm La đào tạo, hắn nhanh chóng trở thành sát thủ trẻ nhất hoàn thành hợp đồng hạng B. Hiện tại, hắn đang nỗ lực nâng cao tu vi để được giao nhiệm vụ hạng A, đồng thời bí mật tìm kiếm tung tích cha mẹ ruột mà hắn chưa bao giờ biết mặt.

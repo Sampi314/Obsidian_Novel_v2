@@ -32,9 +32,16 @@ Mãng Lục Vương mang nhân hình một trung niên gầy cao, làn da xanh n
 Đạt cảnh giới Nguyên Anh Sơ Kỳ, Mãng Lục Vương tu luyện "Lục Mãng Thôn Thiên Quyết" (綠蟒吞天诀) — mở rộng miệng có thể nuốt chửng bất kỳ thứ gì nhỏ hơn bản thể, bao gồm cả pháp thuật và linh lực của đối phương. Tuyệt kỹ "Vạn Xà Trầm Uyên" (万蛇沉渊) triệu hồi hàng ngàn bóng rắn từ bóng tối, siết chặt và kéo mục tiêu vào hư không. Điểm mạnh là khả năng nuốt và hóa giải pháp thuật đối phương cùng chiến đấu trong bóng tối, nhược điểm là kỵ quang minh chính đại và yếu đuối dưới ánh sáng mạnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hồ Thất Cửu:** Thành Chủ, người duy nhất hắn thật sự kiêng dè vì biết không thể dùng mưu mẹo lừa được hồ ly bảy đuôi.
-- **Mãng Huyền Thiên:** Phó tướng chợ đen, tay chân đắc lực xử lý mọi việc bẩn thỉu.
-- **Xà Bạch Lân:** Đối tác cung cấp độc dược cho chợ đen, hắn đánh giá cao tài năng bào chế của nàng.
-
+- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hồ Thất Cửu** (Thuộc hạ): Thành Chủ chỉ huy Hắc Thị Chủ
+- **Mãng Huyền Thiên** (Thuộc hạ): Hắc Thị Chủ chỉ huy tay chân Mãng
+- **Điêu Hương Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Yêu Thành
+- **Hồ Tiểu Vũ Nguyệt** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Yêu Thành
+- **Xà Hồng Tín Tử** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Yêu Thành
+- **Hùng Ngân Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hồ Thất Cửu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hổ Phá Quân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Mãng Địa Hoàng** (Đối thủ): Địa Yêu Vương và Hắc Thị Chủ, cùng Mãng Tộc nhưng đối lập lý tưởng
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mãng Lục Vương là mãng xà đã tu luyện thành yêu trong một đầm lầy độc khí ở rìa Đông Hoang, từ nhỏ đã sống bằng cách nuốt chửng mọi thứ trên đường — từ linh thảo đến yêu thú đều biến thành dưỡng chất. Khi đến Vạn Yêu Thành, hắn nhận ra rằng buôn bán những thứ cấm có lợi nhuận gấp trăm lần cướp bóc, nên đề xuất với Hồ Thất Cửu thành lập chợ đen và tự mình đứng ra quản lý. Chợ đen dưới tay hắn trở thành nơi giao dịch mọi thứ — từ linh dược quý hiếm, pháp khí bị đánh cắp đến thông tin mật, miễn trả đủ giá. Hiện tại, hắn đang bí mật tích trữ một loại nguyên liệu luyện đan cấm chế mà nguồn gốc đến từ Tử Vong Chi Thung Lũng, hắn biết nếu bị phát giác sẽ gây ra chiến tranh nhưng lợi nhuận quá hấp dẫn.

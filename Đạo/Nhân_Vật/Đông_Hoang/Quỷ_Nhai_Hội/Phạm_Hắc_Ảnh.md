@@ -32,8 +32,10 @@ Phạm Hắc Ảnh dáng người trung bình, mặt tầm thường, không có
 Phạm Hắc Ảnh tinh thông Hắc Ảnh Tình Báo Thuật (黑影情報術) — thu thập, phân tích và tổng hợp thông tin từ nhiều nguồn. Tuyệt kỹ Thiên Biến Vạn Hóa (千變萬化) ngụy trang thành bất kỳ ai trong thời gian ngắn. Không giỏi chiến đấu trực diện, vũ khí chính là thông tin.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Quỷ Nhị:** Quỷ Chủ, người duy nhất nhận được báo cáo tình báo trực tiếp từ Hắc Ảnh.
-- **Nguyễn Tiểu Quỷ:** Thành viên trẻ mà Hắc Ảnh đang đào tạo thành gián điệp mới.
-
+- **Lý Quỷ Nhị** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Quỷ Nhai Hội
+- **Lý Quỷ Nhị** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Quỷ Nhị
+- **Trần Quỷ Diện** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Quỷ Nhai Hội
+- **Hoàng Quỷ Thủ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Quỷ Nhai Hội
+- **Nguyễn Tiểu Quỷ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Quỷ Nhai Hội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Hắc Ảnh từng là gián điệp của một thế lực khác, bị phát hiện và suýt bị giết. Lý Quỷ Nhị cứu y và chiêu mộ, từ đó y dùng toàn bộ tài năng tình báo phục vụ Quỷ Nhai Hội. Mạng lưới thông tin của y phủ khắp chợ đen Đông Hoang, khiến Hội luôn nắm bắt tình hình trước đối thủ. Bí mật: y vẫn giữ liên lạc với thế lực cũ, nhưng không ai biết mục đích thật sự.

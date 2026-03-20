@@ -76,6 +76,10 @@ arcs:
   - **[Diệp Thanh Y](../Nhân_Vật/Diệp_Thanh_Y.md) (Dược Vương Cốc):** Mục tiêu cần tìm kiếm để liên minh.
   - **[Lâm Phong](../Nhân_Vật/Lâm_Phong.md):** Người dẫn đường (dự kiến gặp gỡ trong hành trình).
 
+## IV. CÁC MỐI QUAN HỆ
+- **Nguyệt Dao** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tinh Linh Tộc (Vĩnh Hằng Sâm Lâm)
+- **Nguyệt Dao** (Đồng minh): Queen/mother figure
+
 ## V. CÂU NÓI TIÊU BIỂU
 > *"Cây có cội, nước có nguồn. Tiếng sáo của ta không phải để giết chóc, mà là tiếng khóc của rừng già vọng về."*
 

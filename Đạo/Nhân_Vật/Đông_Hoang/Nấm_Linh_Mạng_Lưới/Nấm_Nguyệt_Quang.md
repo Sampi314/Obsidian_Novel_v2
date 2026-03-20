@@ -32,9 +32,14 @@ Chỉ nở dưới trăng, hấp thụ nguyệt quang tu luyện
 Thành viên của Nấm Linh Mạng Lưới, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 菌月光·Bản Mệnh (菌月光·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nấm Bạch Ty:** Sợi Nấm Mới, đồng liêu quan trọng nhất trong Nấm Linh Mạng Lưới.
-- **Nấm Cộng Sinh Thiên:** Cộng Sinh Sư, đối tác thường xuyên phối hợp.
-- **Nấm Huyền Thông Thiên:** Truyền Tin Sư, mối quan hệ tin cậy lẫn nhau.
-
+- **Nấm Thiên Căn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Nấm Linh Mạng Lưới
+- **Nấm Thiên Căn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nấm Thiên Căn
+- **Nấm Thâm Căn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Hồng Tán** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Ngọc Tán** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Thiên Nhĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Bạch Ty** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Linh Quang** (Đồng minh): Phát Quang Sư và Dạ Quang Sư, đồng nghiệp
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nấm Nguyệt Quang vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Nấm Linh Mạng Lưới. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Nấm Linh Mạng Lưới và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dạ Quang Sư.

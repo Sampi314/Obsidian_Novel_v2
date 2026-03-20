@@ -32,9 +32,23 @@ Nhan sắc thanh tú với nét mặt dịu dàng, cử chỉ nhẹ nhàng tinh 
 Thành viên của Thần Khí Phường, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 李機械·Bản Mệnh (李機械·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hoàng Thần Lô:** Trưởng Lão, đồng liêu quan trọng nhất trong Thần Khí Phường.
-- **Lê Luyện Kim:** Nội Môn Đệ Tử, đối tác thường xuyên phối hợp.
-- **Nguyễn Đúc Kim:** Trưởng Lão, mối quan hệ tin cậy lẫn nhau.
-
+- **Trần Thiên Cơ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Luyện Khí Đại Sư Hội
+- **Hoàng Thần Lô** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Luyện Khí Đại Sư Hội
+- **Phạm Thiết Đúc** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Luyện Khí Đại Sư Hội
+- **Nguyễn Đúc Kim** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Luyện Khí Đại Sư Hội
+- **Đặng Linh Cơ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Luyện Khí Đại Sư Hội
+- **Vũ Tiểu Đúc** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Luyện Khí Đại Sư Hội
+- **Lê Luyện Kim** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Luyện Khí Đại Sư Hội
+- **Trần Thiên Cơ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Cơ Giới
+- **Hoàng Thần Lô** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Cơ Giới
+- **Phạm Thiết Đúc** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Cơ Giới
+- **Nguyễn Đúc Kim** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Cơ Giới
+- **Đặng Linh Cơ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Cơ Giới
+- **Vũ Tiểu Đúc** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Cơ Giới
+- **Lê Luyện Kim** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Cơ Giới
+- **Trần Vạn Thú** (Đồng minh): Phường Chủ Luyện Khí cung cấp vũ khí cho Bách Thú Sơn Trang
+- **Phạm Hùng Sơn** (Đồng minh): Đồng nghiệp thợ rèn, trao đổi kỹ thuật luyện khí
+- **Đặng Công Mẫu** (Đồng minh): Phường Chủ Bách Nghệ và Phường Chủ Luyện Khí, cùng chế tác
+- **Nham Ngọc Đục** (Đồng minh): Phường Trưởng Ngọc Thạch cung cấp nguyên liệu cho Luyện Khí
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Cơ Giới được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Thần Khí Phường. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Thần Khí Phường và dần khẳng định vị trí của mình. Với tu vi Luyện Hư Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Phường Chủ.

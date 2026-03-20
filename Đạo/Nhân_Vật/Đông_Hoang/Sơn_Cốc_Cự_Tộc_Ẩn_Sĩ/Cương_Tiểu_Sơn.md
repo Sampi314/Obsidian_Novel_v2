@@ -32,8 +32,9 @@ Cương Tiểu Sơn cao ba mét, nhỏ con so với Cự Tộc nhưng linh hoạ
 Cương Tiểu Sơn sử dụng Tiểu Thạch Liên Hoàn Pháo (小石連環砲) — bắn liên tiếp nhiều viên đá nhỏ cứng từ tay với tốc độ cao, chính xác đáng kinh ngạc. Ngoài ra, y có khả năng Thạch Biến Thuật (石變術) — biến hình thành đống đá để ẩn thân. Điểm mạnh là tốc độ và linh hoạt hiếm thấy ở Cự Tộc; điểm yếu là sức mạnh thô kém hơn đồng tộc.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Sơn Thiết Nhai:** Sư phụ nghiêm khắc, dạy y chiến đấu, Tiểu Sơn vừa sợ vừa kính.
-- **Thạch Tổ:** Đại Trưởng Lão mà Tiểu Sơn kính sợ nhưng cũng tò mò muốn trò chuyện.
-
+- **Thạch Tổ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Sơn Cốc Cự Tộc Ẩn Sĩ
+- **Thạch Tổ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Thạch Tổ
+- **Nham Trường Lão** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Sơn Cốc Cự Tộc Ẩn Sĩ
+- **Sơn Thiết Nhai** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Sơn Cốc Cự Tộc Ẩn Sĩ
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Cương Tiểu Sơn là thế hệ Cự Tộc trẻ nhất sơn cốc, sinh ra với tính cách khác biệt — thay vì trầm tĩnh như tiền bối, y năng động và tò mò. Sơn Thiết Nhai rèn y thành chiến sĩ, nhưng Thạch Tổ nhận thấy y có tiềm năng làm lãnh đạo nhờ sự linh hoạt trong tư duy. Mơ ước bí mật: ra ngoài sơn cốc khám phá thế giới, nhưng biết rằng rời đi là phản bội lời thề của tộc.

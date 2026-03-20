@@ -32,8 +32,8 @@ Dáng người nhỏ nhắn nhanh nhẹn, đôi mắt to tròn lanh lợi. Nụ 
 Thành viên của Độc Trùng Trị Liệu Đường, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 胞黃絲·Bản Mệnh (胞黃絲·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Khuẩn Tiểu Linh:** Dược Sư, đồng liêu quan trọng nhất trong Độc Trùng Trị Liệu Đường.
-- **Trùng Thanh Châm:** Đường Chủ, đối tác thường xuyên phối hợp.
-
+- **Trùng Thanh Châm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Độc Trùng Trị Liệu Đường
+- **Trùng Thanh Châm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Thanh Châm
+- **Khuẩn Tiểu Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Độc Trùng Trị Liệu Đường
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Bào Hoàng Ty vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Độc Trùng Trị Liệu Đường. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Độc Trùng Trị Liệu Đường và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Học Đồ.

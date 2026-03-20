@@ -32,9 +32,13 @@ Trần Thi Vương là một xác sống cổ đại, thân hình cao lớn như
 Là Thái Thượng Trưởng Lão cảnh giới Nguyên Anh Đỉnh Phong, Trần Thi Vương tu luyện "Thi Vương Bất Diệt Thể" (尸王不灭体) — nhục thân đã chết nhưng bất hoại, mọi tổn thương tự hồi phục. Tuyệt kỹ "Vạn Cổ Thi Uy" (万古尸威) phóng ra tử khí cổ đại trấn áp mọi sinh vật, khiến kẻ yếu chết ngay tại chỗ. Điểm mạnh là bất tử thực sự và tử khí áp chế, nhược điểm là chậm chạp, sợ Phật quang và chính khí thuần dương.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Thi Ma:** Cốc Chủ, hắn để y cai quản nhưng luôn giám sát từ xa.
-- **Phạm Hắc Cốt:** Hộ Pháp mà hắn trực tiếp truyền dạy bí thuật luyện xác.
-- **Vô Tranh Tự:** Tử địch, phật pháp của họ là thứ duy nhất hắn sợ.
-
+- **Lý Thi Ma** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tử Vong Chi Thung Lũng
+- **Lý Thi Ma** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Thi Ma
+- **Đặng Huyết Nhục** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tử Vong Chi Thung Lũng
+- **Vũ Thi Khôi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tử Vong Chi Thung Lũng
+- **Lê Tiểu Thi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tử Vong Chi Thung Lũng
+- **Hoàng Tử Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tử Vong Chi Thung Lũng
+- **Phạm Hắc Cốt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tử Vong Chi Thung Lũng
+- **Nguyễn Vạn Thi** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tử Vong Chi Thung Lũng
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trần Thi Vương vốn là tu sĩ nhân tộc từ thời Trung Cổ, tu luyện đến Nguyên Anh thì chết vì kiếp nạn. Nhưng ý chí cầu đạo quá mãnh liệt khiến linh hồn từ chối rời đi, tự hồi sinh trong xác chết của chính mình. Hắn trở thành Thi Vương đầu tiên — sinh vật nửa sống nửa chết — và thành lập Tử Vong Chi Thung Lũng. Sau hàng vạn năm, hắn nhường quyền cho đời sau nhưng vẫn ẩn cư trong Vạn Thi Trì, chờ đợi ngày tìm ra cách hồi sinh hoàn toàn.

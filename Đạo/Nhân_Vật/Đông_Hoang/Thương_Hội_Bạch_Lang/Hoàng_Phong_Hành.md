@@ -32,8 +32,10 @@ Hoàng Phong Hành là thanh niên nhanh nhẹn, thân hình gầy nhưng dẻo 
 Hoàng Phong Hành đang tu luyện Phong Hành Cung Tiễn (風行弓箭) — cung thuật kết hợp phong linh khí, mũi tên bay nhanh hơn bình thường và có thể đổi hướng một lần. Tu vi thấp nhưng bù lại bằng kỹ năng trinh sát xuất sắc và phản xạ nhanh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Phạm Bạch Vệ:** Đàn anh đang rèn luyện y thành hộ vệ cốt cán.
-- **Nguyễn Tiểu Sói:** Đồng đội trẻ, hai người hay cạnh tranh vui vẻ.
-
+- **Trần Bạch Lang** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thương Hội Bạch Lang
+- **Trần Bạch Lang** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Bạch Lang
+- **Lý Thiết Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thương Hội Bạch Lang
+- **Phạm Bạch Vệ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thương Hội Bạch Lang
+- **Nguyễn Tiểu Sói** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thương Hội Bạch Lang
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoàng Phong Hành là con trai thợ săn biên giới, gia nhập Hội để kiếm tiền nuôi mẹ già. Tài năng bắn cung được phát hiện sớm, y nhanh chóng thăng từ hộ vệ ngoại vi lên cốt cán. Mơ ước trở thành Quản Sự để có thể lo cho gia đình tốt hơn.

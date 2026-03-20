@@ -32,9 +32,13 @@ Nấm độc bảo vệ mạng lưới, xâm nhập là chết
 Tu luyện công pháp cốt lõi của Nấm Linh Mạng Lưới đạt trình độ cao thâm. Chiêu thức 菌毒王·Hộ Pháp Ấn (菌毒王·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nấm Bạch Ty:** Sợi Nấm Mới, đồng liêu quan trọng nhất trong Nấm Linh Mạng Lưới.
-- **Nấm Cộng Sinh Thiên:** Cộng Sinh Sư, đối tác thường xuyên phối hợp.
-- **Nấm Huyền Thông Thiên:** Truyền Tin Sư, mối quan hệ tin cậy lẫn nhau.
-
+- **Nấm Thiên Căn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Nấm Linh Mạng Lưới
+- **Nấm Thiên Căn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nấm Thiên Căn
+- **Nấm Hắc Thổ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Linh Quang** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Thâm Căn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Hồng Tán** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Nguyệt Quang** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Ngọc Tán** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nấm Độc Vương được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Nấm Linh Mạng Lưới. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Nấm Linh Mạng Lưới và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hộ Pháp.

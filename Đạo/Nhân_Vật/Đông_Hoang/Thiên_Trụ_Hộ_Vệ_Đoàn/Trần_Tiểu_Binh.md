@@ -32,9 +32,14 @@ Trần Tiểu Binh là thiếu niên mười tám tuổi, khuôn mặt non nớt
 Trần Tiểu Binh đang tu luyện Thiên Trụ Cơ Bản Kiếm (天柱基本劍) — kiếm thuật cơ bản của quân đoàn, chắc chắn, thiếu biến hóa nhưng hiệu quả trong đội hình. Điểm mạnh là sức bền tốt và tinh thần bất khuất; điểm yếu là tu vi thấp và thiếu kinh nghiệm thực chiến.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nham Cự Lực:** Tướng Quân Cự Tộc coi y như em trai, hay bảo vệ.
-- **Đặng Thiết Vệ:** Uy Trưởng nghiêm khắc rèn luyện y hàng ngày.
-- **Vũ Phi Long:** Hiệu Úy hay kéo y đi uống rượu, dạy kinh nghiệm chiến trường.
-
+- **Trần Thiên Giáp** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Trụ Hộ Vệ Đoàn
+- **Trần Thiên Giáp** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Thiên Giáp
+- **Nguyễn Trấn Quan** (Thuộc hạ): Cùng Thiên Trụ Hộ Vệ Đoàn, quan hệ tổ chức
+- **Đặng Thiết Vệ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Trụ Hộ Vệ Đoàn
+- **Vũ Phi Long** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Trụ Hộ Vệ Đoàn
+- **Lý Vô Nhai** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Trụ Hộ Vệ Đoàn
+- **Hoàng Thạch Bích** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Trụ Hộ Vệ Đoàn
+- **Phạm Thiết Thành** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Trụ Hộ Vệ Đoàn
+- **Lê Trấn Sơn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Trụ Hộ Vệ Đoàn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trần Tiểu Binh là con trai nông dân, gia nhập quân đoàn vì muốn đổi đời cho gia đình. Dù tu vi thấp nhất đội, y không bao giờ bỏ cuộc. Tính chăm chỉ và trung thực khiến y được nhiều cấp trên để ý. Trong một lần tuần tra, y vô tình phát hiện vết nứt bất thường trên tường thành cửa ải — có thể là dấu hiệu ai đó đang đào hầm xâm nhập.

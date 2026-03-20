@@ -32,8 +32,8 @@ Nham Tiểu Đậu nhỏ xíu, cao chỉ một mét, thân hình gầy nhỏ so 
 Nham Tiểu Đậu có khả năng Thạch Đậu Bắn Tung (石豆彈射) — bắn viên đá nhỏ từ tay chính xác, và Tiểu Thạch Ẩn (小石隱) — thu nhỏ cơ thể trốn vào khe đá. Sức chiến đấu thấp nhưng nhanh nhẹn và giỏi ẩn nấp.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Thạch Viên Viên:** Bạn thân và đầu lĩnh, Tiểu Đậu luôn nghe theo dù hay trêu.
-- **Sơn Tiểu Đá:** Bạn chơi, hai đứa hay nghịch phá cùng nhau.
-
+- **Thạch Viên Viên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thạch Linh Đồng Tử Hội
+- **Thạch Viên Viên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Thạch Viên Viên
+- **Sơn Tiểu Đá** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thạch Linh Đồng Tử Hội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nham Tiểu Đậu là đứa trẻ Cự Tộc nhỏ nhất nhì vùng, bị đồng loại trêu chọc vì kích thước. Thạch Viên Viên là người bạn đầu tiên không chê cười y, nên Tiểu Đậu trung thành tuyệt đối. Y thường lẻn ra ngoài khám phá, từng phát hiện một hang động bí mật chứa đầy khoáng thạch phát sáng nhưng chưa dám kể.

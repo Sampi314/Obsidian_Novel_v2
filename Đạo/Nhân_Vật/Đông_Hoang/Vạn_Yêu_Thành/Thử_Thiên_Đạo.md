@@ -32,9 +32,14 @@ Thử Thiên Đạo mang nhân hình một thiếu niên nhỏ thó nhanh nhẹn
 Đạt cảnh giới Trúc Cơ Viên Mãn, Thử Thiên Đạo tu luyện "Thiên Đạo Thu Tàng Thuật" (千盜收藏术) — thu nhỏ và cất giấu bất kỳ vật thể nào trong không gian túi không đáy, đồng thời di chuyển qua khe hở nhỏ nhất bằng cách biến thành chuột. Tuyệt kỹ "Thần Thâu Vạn Vật" (神偷万物) đánh cắp một vật từ tay đối phương mà ngay cả tu sĩ Nguyên Anh cũng không phát hiện. Điểm mạnh là đạo thuật và khả năng ẩn thân trong không gian chật hẹp, nhược điểm là sức chiến đấu gần như không có, chạy là bản năng đầu tiên.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nha Thiên Mục:** Đối tác, hắn cung cấp vị trí kho báu để Thiên Đạo đi trộm, chia nhau lợi nhuận.
-- **Hồ Thất Cửu:** Thành Chủ, hắn sợ nhất người này vì biết hồ ly bảy đuôi biết rõ mọi vụ trộm nhưng nhắm mắt cho qua.
-- **Điêu Hương Phong:** Khách hàng bán lại tang vật trộm cắp, nàng mua giá rẻ rồi bán lại giá cao.
-
+- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hồ Thất Cửu** (Thuộc hạ): Thành Chủ dung dưỡng Trộm Cắp Vương
+- **Hổ Thiết Quyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Xà Bạch Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Nha Thiên Mục** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Trư Đại Phúc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Viên Thiên Lý Nhãn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Điêu Hương Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thử Thiên Đạo sinh ra là chuột đồng bé nhỏ, khai mở linh trí do lâu năm sống gần mạch linh thạch ngầm. Bản năng tích trữ của loài chuột kết hợp trí thông minh mới biến hắn thành tên trộm thiên tài — hắn có thể đột nhập bất kỳ nơi nào và lấy bất kỳ thứ gì mà không ai hay. Đến Vạn Yêu Thành, hắn phát hiện đây là thiên đường cho nghề trộm vì có vô số kho báu nhưng lại không có ai thèm truy đuổi một con chuột nhỏ. Hiện tại, hắn vừa đánh cắp được một cổ vật bí ẩn từ kho của một thương nhân lớn, nhưng cổ vật đó bắt đầu phát ra tiếng gọi kỳ lạ trong đêm khiến hắn không ngủ được và không dám bỏ đi.

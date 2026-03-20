@@ -32,8 +32,10 @@ Thạch Kiên cao ba mét, thân hình vạm vỡ như pháo đài di động, d
 Thạch Kiên sở hữu Thạch Tâm Bất Hoại (石心不壞) — phòng thủ nhục thân đạt đến cảnh giới gần như bất hoại, mọi đòn tấn công đều bị giáp đá tự nhiên đỡ lại. Tuyệt kỹ Cự Thạch Thuẫn Bích (巨石盾壁) dựng tường đá khổng lồ bảo vệ diện rộng. Điểm yếu là hoàn toàn phòng thủ, tốc độ tấn công chậm.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nham Thiết Vệ:** Phó Đoàn Trưởng, cánh tay phải mà Thạch Kiên hoàn toàn tin tưởng.
-- **Sơn Tiểu Hộ:** Thủ hộ trẻ mà Thạch Kiên đang rèn luyện làm thế hệ kế thừa.
-
+- **Nham Thiết Vệ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thạch Tâm Thủ Hộ Đoàn
+- **Sơn Tiểu Hộ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thạch Tâm Thủ Hộ Đoàn
+- **Nham Thiết Vệ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Thạch Kiên
+- **Sơn Tiểu Hộ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Thạch Kiên
+- **Thạch Miên** (Đồng minh): Thủ Vệ Trưởng và Đoàn Trưởng Thạch Tâm, Thạch Tộc đoàn kết
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thạch Kiên sinh ra với bản năng bảo vệ mãnh liệt, từ nhỏ đã đứng chắn trước đồng tộc khi có nguy hiểm. Thành lập Thạch Tâm Thủ Hộ Đoàn để tổ chức các Cự Tộc có cùng chí hướng, chuyên bảo vệ các khu định cư Cự Tộc. Triết lý 'tâm như đá, vững như sơn' truyền cảm hứng cho cả đoàn. Hiện đang lo lắng vì mối đe dọa từ bên ngoài ngày càng tăng.

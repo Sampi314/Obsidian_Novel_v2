@@ -32,9 +32,17 @@ Ngoại hình xinh đẹp yêu kiều với đôi cánh bướm mỏng manh phá
 Sở trường Thiên Diện Ẩn Ảnh Thuật ở mức đại thành, có thể giả dạng hoàn hảo ngay cả trước thần thức của cường giả Nguyên Anh. Tuyệt chiêu Yến Vũ Thiên Châm (燕舞千針) phóng hàng ngàn vi châm độc trong vũ điệu uyển chuyển. Sở đoản là phòng thủ kém, nếu bị phát hiện danh tính sẽ rơi vào thế bị động.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Vi Ám Hà:** Phó Ảnh Chủ, người tuyển chọn và đào tạo nàng, coi như sư phụ.
-- **Vi Vô Thanh:** Sát Thủ Trưởng, đối tác thường xuyên trong các nhiệm vụ kết hợp tình báo và ám sát.
-- **Tiểu Phong Linh:** Hậu bối mà Hoa Tiểu Yến đang dẫn dắt, coi như em gái.
-
+- **Vi Ám Hà** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ảnh Nguyệt Uyển
+- **Vi Ám Hà** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Vi Ám Hà
+- **Linh Ảnh Điệp** (Thuộc hạ): Cùng Ảnh Nguyệt Uyển, quan hệ tổ chức
+- **Tiểu Dạ Lan** (Thuộc hạ): Cùng Ảnh Nguyệt Uyển, quan hệ tổ chức
+- **Vi Sương Vân** (Thuộc hạ): Cùng Ảnh Nguyệt Uyển, quan hệ tổ chức
+- **Vi Tiểu Hàn** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ảnh Nguyệt Uyển
+- **Vi Sương Vân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Linh Ảnh Điệp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Vi Vô Thanh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Vi Minh Nguyệt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Tiểu Phong Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Vi Nguyệt Ảnh** (Đồng minh): Cùng Ảnh Nguyệt Uyển, quan hệ tổ chức
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoa Tiểu Yến không phải Vi Tộc thuần chủng mà là con lai giữa Vi Tộc và Hoa Tinh Linh, điều này giải thích cho đôi cánh bướm đặc biệt của nàng. Bị gia tộc Hoa Tinh Linh ruồng bỏ vì huyết thống pha tạp, nàng được Vi Ám Hà tìm thấy và đưa về Ảnh Nguyệt Uyển. Nhờ khả năng biến hình bẩm sinh vượt trội, nàng nhanh chóng thăng tiến thành Gián Điệp Trưởng. Hiện tại nàng đang thực hiện một nhiệm vụ dài hạn, cài cắm vào một tông môn lớn tại Trung Châu.

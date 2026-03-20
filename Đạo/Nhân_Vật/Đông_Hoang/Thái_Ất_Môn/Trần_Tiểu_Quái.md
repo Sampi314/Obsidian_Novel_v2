@@ -32,10 +32,13 @@ Trần Tiểu Quái là thiếu niên mặt tròn, má phính, biểu cảm luô
 Trần Tiểu Quái sở hữu thiên phú Tiên Thiên Quái Cảm (先天卦感) — trực giác bẩm sinh về cát hung cực mạnh, thường né được nguy hiểm mà không cần bói. Đang tu luyện Bát Quái Du Long Bộ (八卦遊龍步) — thân pháp biến ảo dựa trên bát quái phương vị, kết hợp Tiểu Quái Ấn (小卦印) — ném phù ấn nhỏ gây rối đối thủ. Chiến đấu thiên về né tránh và phản công khi đối thủ lộ sơ hở.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Đặng Huyền Thanh:** Trưởng Lão cực kỳ khắt khe với y, hay phạt vì lười biếng.
-- **Lý Minh Tinh:** Đồng môn vừa là bạn thân vừa là đối thủ, hai người hay cá cược bói quẻ.
-- **Hoàng Bát Quái:** Hộ Pháp mà Tiểu Quái kính trọng vì sự trung thực và mạnh mẽ.
-- **Lê Thái Ất:** Trưởng Lão hiền từ hay bảo vệ y khi bị Đặng Huyền Thanh phạt.
-
+- **Phạm Thiên Cơ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thái Ất Môn
+- **Phạm Thiên Cơ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phạm Thiên Cơ
+- **Vũ Linh Bảo** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thái Ất Môn
+- **Đặng Huyền Thanh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thái Ất Môn
+- **Lý Thanh Vân** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thái Ất Môn
+- **Trần Thái Huyền** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thái Ất Môn
+- **Lê Thái Ất** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thái Ất Môn
+- **Lý Minh Tinh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thái Ất Môn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trần Tiểu Quái là trẻ mồ côi được Thái Ất Môn thu nhận, phát hiện có thiên phú Tiên Thiên Quái Cảm cực hiếm — khả năng cảm nhận cát hung bẩm sinh mà không cần bói toán. Được phong Chân Truyền đệ tử, nhưng y hay trốn học và dùng thiên phú để tránh bị phạt, khiến các Trưởng Lão vừa giận vừa tiếc. Gần đây, thiên phú của y bắt đầu phát ra cảnh báo liên tục — một cảm giác nguy hiểm mơ hồ nhưng không xác định được nguồn gốc.

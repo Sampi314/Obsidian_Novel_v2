@@ -32,9 +32,13 @@ Hoàng Tiểu Vân là một thiếu nữ nhỏ nhắn, mặt bầu bĩnh, mắt
 Là Nội Môn Đệ Tử cảnh giới Kim Đan Sơ Kỳ, Hoàng Tiểu Vân tu luyện "Tiểu Vân Đan Thuật" (小云丹术) — luyện đan bằng linh khí mây, tạo đan dược nhẹ như mây và dễ hấp thu. Tuyệt kỹ "Vân Yên Đan Bộc" (云烟丹爆) ném đan dược tạo vụ nổ khói mây che mắt và gây mê. Điểm mạnh là luyện đan sáng tạo, nhược điểm là kiếm thuật yếu vì ít luyện.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Phạm Hạo Nhiên:** Thái Thượng Trưởng Lão dạy luyện đan, sư phụ.
-- **Phạm Vân Kiếm:** Sư huynh Chân Truyền, hai người hay luyện tập cùng.
-- **Lý Vân Phong:** Sư huynh ngoại môn, người bạn thân nhất.
-
+- **Lý Vân Thiên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vân Tông
+- **Lý Vân Thiên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Vân Thiên
+- **Lê Vân Sơn** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vân Tông
+- **Trần Thiên Vân** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vân Tông
+- **Trần Thái Hư** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vân Tông
+- **Hoàng Vân Du** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vân Tông
+- **Phạm Vân Kiếm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vân Tông
+- **Lý Vân Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vân Tông
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoàng Tiểu Vân gia nhập Vân Tông vì ngưỡng mộ danh tiếng đan đạo của Đan Đỉnh hơn là kiếm thuật. Nàng được Phạm Hạo Nhiên phát hiện tài năng luyện đan và nhận làm đệ tử đích truyền. Sự kiện đáng nhớ nhất là khi nàng vô tình luyện thành một loại đan dược mới giúp hồi phục kiếm khí nhanh gấp đôi. Ước mơ là tạo ra loại đan dược giúp mọi người bay trên mây mà không cần tu luyện.

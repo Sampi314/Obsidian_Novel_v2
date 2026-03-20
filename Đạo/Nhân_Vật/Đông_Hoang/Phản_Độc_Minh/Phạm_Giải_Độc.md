@@ -32,8 +32,8 @@ Phạm Giải Độc là thiếu nữ nhỏ nhắn, mặt non nớt nhưng đôi
 Phạm Giải Độc sở hữu Bách Độc Giải Phương (百毒解方) — kiến thức giải độc thu thập từ kinh nghiệm của hơn ba trăm nạn nhân, có thể sơ cứu hiệu quả hầu hết các loại độc phổ biến của Vạn Độc Môn. Không có khả năng chiến đấu, nhưng thuốc giải của y đã cứu sống hàng chục sinh mạng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lê Thiết Tâm:** Minh Chủ và ân nhân cứu mạng, Giải Độc nguyện dùng cả đời nghiên cứu phương thuốc để báo đáp.
-- **Trần Chính Khí:** Hộ vệ thường xuyên, hai người phối hợp ăn ý trong các nhiệm vụ thu thập dược liệu.
-
+- **Lê Thiết Tâm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Phản Độc Minh
+- **Lê Thiết Tâm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lê Thiết Tâm
+- **Trần Chính Khí** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Phản Độc Minh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Giải Độc là con gái một thầy thuốc bị Vạn Độc Môn giết chết khi từ chối hợp tác. Được Lê Thiết Tâm cứu sống khi còn nhỏ, y được nuôi dạy trong Phản Độc Minh. Thừa hưởng kiến thức y thuật từ cha và kết hợp với kinh nghiệm thực chiến của Minh, y trở thành Dược Sư giỏi nhất tổ chức. Ước mơ: tạo ra phương thuốc giải được Vạn Độc Phệ Tâm — loại độc mạnh nhất mà chưa ai giải được.

@@ -32,9 +32,13 @@ Hùng Thiết Sơn trong hình dạng yêu thú là một con gấu đen khổng
 Thánh Tướng Thứ Hai với tu vi Nguyên Anh Trung Kỳ, Hùng Thiết Sơn tu luyện "Thiết Sơn Bất Động Thể" (铁山不动体) — cường hóa da thịt đến mức cứng hơn thần binh. Tuyệt kỹ "Vạn Nhạc Áp Đỉnh" (万岳压顶) biến toàn bộ trọng lượng thành lực ép, khiến đối thủ chịu áp lực tương đương một ngọn núi đè xuống. Điểm mạnh là phòng ngự và sức chịu đựng vô song, nhược điểm là tốc độ chậm chạp và không giỏi đối phó với pháp thuật phạm vi rộng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Vạn Kiếp:** Yêu Đế mà hắn thề bảo vệ đến hơi thở cuối cùng, hai người là chiến hữu từ thuở thiếu thời.
-- **Hổ Cuồng Phong:** Đối thủ luyện tập, Cuồng Phong tấn công còn hắn phòng thủ — cặp đôi không ai phá nổi.
-- **Hùng Cổ Mộc:** Đại Trưởng Lão và cũng là sư phụ dạy hắn nghệ thuật luyện thể từ nhỏ.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Hổ Cuồng Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Báo Lôi Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hùng Cổ Mộc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hồ Thiên Mị** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Bạch Nhãn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Lang Thiên Dạ Hành** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hùng Thiết Sơn sinh ra trong một hang đá sâu nhất dãy núi Đông Hoang, từ nhỏ đã chịu đựng áp lực đá nặng ngàn cân để rèn luyện thân thể. Hắn gặp Hổ Vạn Kiếp khi cả hai còn là yêu thú non, cùng nhau chiến đấu sinh tồn trong rừng sâu. Khi Vạn Kiếp tranh đoạt ngôi vị Yêu Đế, Thiết Sơn là kẻ đứng sau chắn mọi đòn ám sát và phục kích. Hiện tại, hắn âm thầm lo lắng về sức khỏe suy giảm của Yêu Đế sau trận chiến vạn năm trước, nhưng không dám nói ra.

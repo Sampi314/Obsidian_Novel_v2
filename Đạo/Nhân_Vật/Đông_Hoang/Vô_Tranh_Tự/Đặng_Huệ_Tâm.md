@@ -32,9 +32,13 @@ arcs:
 Là Trưởng Lão cảnh giới Nguyên Anh Hậu Kỳ, Đặng Huệ Tâm tu luyện "Huệ Tâm Liệu Thương" (慧心疗伤) — dùng phật lực chữa lành mọi vết thương thể xác và tinh thần. Tuyệt kỹ "Đại Bi Chú Tịnh Hóa" (大悲咒净化) tụng kinh tịnh hóa tà khí và chữa trị đồng loạt nhiều người. Điểm mạnh là y thuật phật pháp và tịnh hóa, nhược điểm là chiến đấu không phải sở trường.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Vô Nhai:** Phương Trượng, nàng hỗ trợ chữa trị cho toàn tự viện.
-- **Nguyễn Bát Nhã:** Hộ Pháp, nàng chữa trị vết thương cho hắn sau mỗi trận chiến.
-- **Trần Tiểu Tăng:** Tiểu tăng mà nàng chăm sóc như con.
-
+- **Phạm Vô Niệm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vô Tranh Tự
+- **Phạm Vô Niệm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phạm Vô Niệm
+- **Trần Tiểu Tăng** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vô Tranh Tự
+- **Lý Ngộ Không** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vô Tranh Tự
+- **Hoàng Kim Cương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vô Tranh Tự
+- **Nguyễn Bát Nhã** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vô Tranh Tự
+- **Vũ Giới Luật** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vô Tranh Tự
+- **Lê Thiền Định** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vô Tranh Tự
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Đặng Huệ Tâm vốn là y nữ của một gia tộc lớn, bỏ vinh hoa phú quý đi tu sau khi chứng kiến chiến tranh giết chóc. Nàng gia nhập Vô Tranh Tự và phát triển phương pháp kết hợp y thuật với phật pháp, chữa trị hiệu quả hơn cả đan dược. Sự kiện nổi tiếng là khi nàng cứu sống cả ngôi làng bị tà thuật nhiễm độc bằng ba ngày ba đêm tụng kinh chữa trị. Hiện tại, nàng lo lắng vì ngày càng nhiều tăng lữ mắc chứng tâm ma sau khi canh giữ Đạt Ma Viện.

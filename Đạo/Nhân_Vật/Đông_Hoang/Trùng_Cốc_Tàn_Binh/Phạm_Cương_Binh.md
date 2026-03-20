@@ -32,9 +32,9 @@ Phạm Cương Binh là thanh niên cao lớn, da nâu, mắt sáng kiên cườ
 Phạm Cương Binh sử dụng Cương Binh Hỏa Thương (鋼兵火槍) — thương pháp tẩm dầu lửa linh lực, mỗi đòn đâm đều mang theo lửa thiêu đốt giáp xác trùng. Ngoài ra y giỏi thiết kế bẫy hố axit và hàng rào phòng thủ. Chiến binh thực chiến giỏi nhất đội.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lê Thiết Giáp:** Liên Minh Chủ mà y kính trọng và tuân lệnh.
-- **Trần Trùng Chiến:** Phó Minh Chủ bán trùng mà y không sợ, ngồi cạnh mỗi bữa ăn.
-- **Hoàng Tiểu Giáp:** Chiến binh trẻ mà y dìu dắt.
-
+- **Lê Thiết Giáp** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Trùng Cốc Tàn Binh
+- **Lê Thiết Giáp** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lê Thiết Giáp
+- **Trần Trùng Chiến** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Trùng Cốc Tàn Binh
+- **Hoàng Tiểu Giáp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Trùng Cốc Tàn Binh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Cương Binh sinh ra ở làng biên giới gần Vạn Trùng Cốc, mất gia đình trong Trùng Triều. Gia nhập Tàn Binh vì thù hận, y nhanh chóng trở thành Đội Trưởng nhờ sức mạnh và kinh nghiệm chiến trường. Từng chặn đứng một Trùng Tướng cấp Kim Đan trong ba mươi phút cho dân làng chạy trốn — kỳ tích với tu vi Trúc Cơ.

@@ -32,9 +32,16 @@ Thân hình nhỏ bé chỉ cao bằng ngón tay, nhưng toát ra uy nghiêm phi
 Tinh thông Thiên Diện Ẩn Ảnh Thuật (千面隱影術) cho phép biến đổi hình dạng và khí tức hoàn hảo. Tuyệt chiêu Nguyệt Ảnh Vô Hình Châm (月影無形針) có thể phóng hàng ngàn vi châm tẩm độc từ khoảng cách xa mà mục tiêu không hề hay biết. Điểm yếu là thể chất Vi Tộc mong manh, không thể đối đầu trực diện với cường giả cùng cấp.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Vi Ám Hà:** Phó Ảnh Chủ, cánh tay phải đáng tin cậy nhất, hai người đã cùng nhau gây dựng Ảnh Nguyệt Uyển suốt hàng ngàn năm.
-- **Vi Sương Vân:** Thất Dạ Sứ tài năng nhất, được Vi Nguyệt Ảnh đích thân đào tạo từ nhỏ.
-- **Vi Vô Thanh:** Sát Thủ Trưởng, công cụ sắc bén nhất trong tay Ảnh Chủ, trung thành tuyệt đối.
-
+- **Vi Ám Hà** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ảnh Nguyệt Uyển
+- **Vi Ám Hà** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Vi Ám Hà
+- **Hồ Thất Cửu** (Thuộc hạ): Ảnh Chủ Ảnh Nguyệt Uyển phục vụ Thành Chủ Vạn Yêu Thành
+- **Linh Ảnh Điệp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ảnh Nguyệt Uyển
+- **Vi Minh Nguyệt** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ảnh Nguyệt Uyển
+- **Tiểu Phong Linh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ảnh Nguyệt Uyển
+- **Vi Tiểu Hàn** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ảnh Nguyệt Uyển
+- **Tiểu Dạ Lan** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Vi Sương Vân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Hoa Tiểu Yến** (Đồng minh): Cùng Ảnh Nguyệt Uyển, quan hệ tổ chức
+- **Hồ Thanh Lăng** (Đối thủ): Ảnh Chủ và Tình Báo Trưởng Yêu Tộc, cạnh tranh thông tin
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra trong thời kỳ Vi Tộc bị các chủng tộc lớn xua đuổi và khinh thường, Vi Nguyệt Ảnh đã chứng kiến gia tộc mình bị tàn sát khi còn niên thiếu. Nàng được Nguyệt Ảnh Lão Nhân cứu và truyền thụ toàn bộ tuyệt học, trở thành Ảnh Chủ đời thứ bảy. Dưới sự lãnh đạo của nàng, mạng lưới tình báo Ảnh Nguyệt Uyển mở rộng đến mọi ngóc ngách của lục địa. Mục tiêu hiện tại là nâng cao địa vị của Vi Tộc, biến thông tin thành quyền lực thực sự để không ai còn dám khinh thường chủng tộc mình.

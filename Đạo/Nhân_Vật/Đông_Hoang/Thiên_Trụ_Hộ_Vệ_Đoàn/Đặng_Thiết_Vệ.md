@@ -32,9 +32,13 @@ arcs:
 Đặng Thiết Vệ sở hữu Thiết Vệ Thương Pháp (鐵衛槍法) — thương pháp phòng thủ, mỗi đòn đâm đều nhằm bảo vệ đồng đội phía sau. Khiên thuật của y cũng rất tinh xảo, có thể đỡ được đòn tấn công từ tu sĩ cao hơn một bậc nhờ kỹ thuật hóa giải lực.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Thiên Giáp:** Phó Tướng mà y nhận mệnh lệnh về an ninh nội bộ.
-- **Nguyễn Trấn Quan:** Đồng liêu Uy Trưởng cửa ải kế bên, hay hợp tác tuần tra.
-- **Trần Tiểu Binh:** Binh sĩ trẻ mà y nghiêm khắc rèn luyện.
-
+- **Trần Thiên Giáp** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Trụ Hộ Vệ Đoàn
+- **Trần Thiên Giáp** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Thiên Giáp
+- **Hoàng Thạch Bích** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Trụ Hộ Vệ Đoàn
+- **Phạm Thiết Thành** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Trụ Hộ Vệ Đoàn
+- **Trần Tiểu Binh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Trụ Hộ Vệ Đoàn
+- **Nguyễn Trấn Quan** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Trụ Hộ Vệ Đoàn
+- **Vũ Phi Long** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Trụ Hộ Vệ Đoàn
+- **Lê Trấn Sơn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Trụ Hộ Vệ Đoàn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Đặng Thiết Vệ gia nhập quân đoàn để trả ơn cứu mạng — Đại Tướng Quân tiền nhiệm từng cứu gia đình y khỏi sa tặc. Thăng tiến lên Uy Trưởng nhờ thành tích tuần tra xuất sắc, y phụ trách an ninh nội bộ. Tính cách cứng rắn đôi khi gây xung đột với đồng liêu, nhưng không ai nghi ngờ lòng trung thành của y.

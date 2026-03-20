@@ -32,8 +32,8 @@ Trùng Tiểu Tằm là tằm con nhỏ xíu, dài chỉ mười phân, thân tr
 Trùng Tiểu Tằm đang học Sơ Cấp Nhả Ti (初級吐絲) — hiện chỉ nhả được sợi tơ mỏng yếu ớt, nhưng tơ của y có đặc điểm lạ: phát sáng nhẹ trong bóng tối. Không có khả năng chiến đấu, hoàn toàn phụ thuộc vào sự bảo vệ của Phường.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trùng Bạch Ti:** Tằm Mẫu mà Tiểu Tằm coi như mẹ, luôn cuộn bên cạnh.
-- **Trùng Kim Ti:** Sư huynh mà Tiểu Tằm ngưỡng mộ, hay xem Kim Ti dệt và cố bắt chước.
-
+- **Trùng Kim Ti** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tằm Ti Dệt Phường
+- **Trùng Kim Ti** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Kim Ti
+- **Trùng Bạch Ti** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tằm Ti Dệt Phường
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trùng Tiểu Tằm sinh ra trong Phường, được cả đội nuôi dưỡng. Tơ phát sáng của y là hiện tượng chưa từng có, Bạch Ti đang quan sát xem đây là đột biến tốt hay xấu. Tính cách ham ăn khiến y lớn nhanh, và mọi người kỳ vọng khi y trưởng thành sẽ nhả được loại tơ đặc biệt mới. Mơ ước: dệt được tấm vải đầu tiên của riêng mình.

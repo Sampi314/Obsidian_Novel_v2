@@ -32,8 +32,8 @@ Ngư Tiểu Lân là Ngư Nhân trẻ nhỏ nhất thôn, da xanh nhạt phủ v
 Ngư Tiểu Lân không có kỹ năng chiến đấu. Nhưng y thể hiện Linh Trí Dị Thường (靈智異常) — trí tuệ cao bất thường cho loài Ngư Nhân, có thể vẽ hình, nhận diện mẫu lặp lại, và học bắt chước âm thanh mới nhanh hơn đồng loại gấp mười lần. Đây là dấu hiệu linh trí tiến hóa đáng kinh ngạc.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Ngư Lão Vĩ:** Thôn Trưởng theo dõi sát sự phát triển bất thường của y.
-- **Ngư Bạch San:** Ngư dân luôn bảo vệ y, thấy y đặc biệt.
-
+- **Ngư Lão Vĩ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tiểu Ngư Nhân Thôn
+- **Ngư Lão Vĩ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Ngư Lão Vĩ
+- **Ngư Bạch San** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tiểu Ngư Nhân Thôn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ngư Tiểu Lân sinh ra gần hang động phát sáng lạ trong rạn san hô — nơi mà Ngư Nhân khác không dám vào. Từ nhỏ y đã khác biệt: biết vẽ, biết bắt chước tiếng người, và hay nhìn lên mặt nước tò mò. Ngư Lão Vĩ tin rằng y là cá thể tiến hóa mới, có thể mang lại hy vọng cho loài Ngư Nhân. Bí mật: y thường lén bơi đến hang động phát sáng, và mỗi lần quay về đều thông minh hơn.

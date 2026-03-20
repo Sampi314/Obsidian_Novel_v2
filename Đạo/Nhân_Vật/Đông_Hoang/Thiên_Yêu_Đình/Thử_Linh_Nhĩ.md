@@ -32,9 +32,13 @@ Thử Linh Nhĩ trong hình dạng yêu thú là một con chuột xám nhỏ nh
 Là Thử Tộc Trưởng cảnh giới Trúc Cơ Viên Mãn, Thử Linh Nhĩ tu luyện "Linh Nhĩ Thính Phong" (灵耳听风) — đôi tai có thể nghe được âm thanh từ xa ngàn dặm, xuyên qua tường đá và trận pháp cách âm. Tuyệt kỹ "Vạn Nhĩ Đồng Thính" (万耳同听) cho phép cô nghe đồng thời ở nhiều địa điểm thông qua mạng lưới chuột con. Điểm mạnh là thu thập tin âm thanh vô song, nhược điểm là chiến đấu gần như bằng không.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nha Huyền Dạ:** Trưởng Lão quạ, đối tác tình báo — hắn cung cấp hình ảnh, cô cung cấp âm thanh.
-- **Điêu Thiên Hương:** Trưởng Lão kho tàng, cô cung cấp tin về nguồn tài nguyên đổi lấy phần thưởng.
-- **Hồ Thanh Lăng:** Tình Báo Trưởng, cô ngưỡng mộ sự can đảm nhưng quá sợ để đi cùng trong nhiệm vụ nguy hiểm.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Hổ Vạn Kiếp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Yêu Đình
+- **Vạn Ti La Nương** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Yêu Đình
+- **Ưng Thương Thiên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Yêu Đình
+- **Hồ Thanh Lăng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Lang Bạch Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Viên Kim Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thử Linh Nhĩ sinh ra trong hang chuột dưới gốc cây cổ thụ, nơi rễ cây truyền âm thanh từ khắp khu rừng. Từ nhỏ, cô đã nghe được mọi cuộc trò chuyện trong phạm vi rộng lớn mà không cần rời hang. Được Thiên Yêu Đình thu nhận sau khi cô vô tình nghe được và cảnh báo về một cuộc phục kích, cứu sống một đoàn tuần tra. Dù tu vi thấp nhất trong hàng ngũ Tộc Trưởng, không ai dám coi thường đôi tai của cô. Bí mật của cô là đã nghe được nhiều bí mật đáng sợ mà cô ước chưa từng nghe.

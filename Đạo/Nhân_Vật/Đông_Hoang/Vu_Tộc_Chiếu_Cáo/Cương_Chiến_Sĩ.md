@@ -32,9 +32,11 @@ Cương Chiến Sĩ là một Cự Tộc lai vạm vỡ, cao gần hai trượng
 Là Chiến Vu Đội Trưởng cảnh giới Kim Đan Hậu Kỳ, Cương Chiến Sĩ tu luyện "Cương Thạch Luyện Thể" (钢石炼体) — cường hóa cơ thể cứng như thép, chịu được đòn tấn công cấp Kim Đan. Tuyệt kỹ "Rìu Phá Sơn" (斧破山) vung rìu đá tạo ra sóng chấn xuyên thủng phòng tuyến. Điểm mạnh là sức mạnh vật lý và phòng ngự kiểu Cự Tộc, nhược điểm là chậm chạp và không biết phép thuật.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nham Vu Huyết:** Đại Tế Tư, chủ nhân mà hắn thề bảo vệ.
-- **Thạch Vu Hỏa:** Trưởng Lão, đồng minh chiến trường, hai người phối hợp tấn — thủ.
-- **Nham Tiểu Vu:** Con nhỏ của Đại Tế Tư, hắn coi như cháu ruột cần bảo vệ.
-
+- **Sơn Vu Cốt** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vu Tộc Chiếu Cáo
+- **Sơn Vu Cốt** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Sơn Vu Cốt
+- **Nham Vu Huyết** (Thuộc hạ): Cùng Vu Tộc Chiếu Cáo, quan hệ tổ chức
+- **Nham Vu Huyết** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vu Tộc Chiếu Cáo
+- **Nham Tiểu Vu** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vu Tộc Chiếu Cáo
+- **Thạch Vu Hỏa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vu Tộc Chiếu Cáo
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Cương Chiến Sĩ sinh ra trong gia đình chiến binh phụng sự Đại Tế Tư qua nhiều đời. Hắn được rèn luyện từ nhỏ, ba tuổi đã vác đá, mười tuổi đã đánh yêu thú. Trở thành Đội Trưởng sau khi một mình chặn đứng bầy sói độc xâm nhập bộ lạc, bảo vệ đàn bà trẻ nhỏ. Mục tiêu đơn giản là bảo vệ bộ lạc đến hơi thở cuối, và hắn chưa bao giờ nghi ngờ mục tiêu đó.

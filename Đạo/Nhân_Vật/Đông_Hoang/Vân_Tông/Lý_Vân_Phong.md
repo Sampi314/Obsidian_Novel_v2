@@ -32,9 +32,13 @@ Lý Vân Phong là một thanh niên bình thường, tóc đen ngắn, mặt hi
 Là Ngoại Môn Đệ Tử cảnh giới Trúc Cơ Hậu Kỳ, Lý Vân Phong tu luyện "Vân Phong Cơ Bản Kiếm" (云风基本剑) — kiếm thuật cơ bản nhất của Vân Tông nhưng luyện đến mức tinh thông. Tuyệt kỹ "Thiên Luyện Nhất Kiếm" (千练一剑) — một kiếm đã luyện ngàn lần, đơn giản nhưng không sơ hở. Điểm mạnh là cơ bản vững chắc và ý chí kiên cường, nhược điểm là tài năng hạn chế và tu vi thấp.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hoàng Tiểu Vân:** Sư muội nội môn, bạn thân nhất, hay cho hắn đan dược luyện tập.
-- **Phạm Vân Kiếm:** Sư huynh Chân Truyền mà hắn ngưỡng mộ nhưng không ghen tị.
-- **Vũ Thanh Phong:** Trưởng Lão đã cho hắn một lời khuyên thay đổi cuộc đời.
-
+- **Lý Vân Thiên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vân Tông
+- **Lý Vân Thiên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Vân Thiên
+- **Trần Thiên Vân** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vân Tông
+- **Phạm Vân Kiếm** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vân Tông
+- **Trần Thái Hư** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vân Tông
+- **Hoàng Vân Du** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vân Tông
+- **Phạm Hạo Nhiên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vân Tông
+- **Hoàng Tiểu Vân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vân Tông
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Vân Phong sinh ra trong gia đình nông dân chân núi Thiên Trụ Sơn, phát hiện linh căn yếu ớt và được tuyển vào ngoại môn. Dù linh căn kém, hắn luyện kiếm mỗi ngày không nghỉ, kiếm thuật cơ bản đã đạt mức hoàn hảo mà nhiều nội môn đệ tử không bằng. Sự kiện thay đổi cuộc đời là khi Vũ Thanh Phong nói: "Một kiếm luyện vạn lần còn hơn vạn kiếm mỗi kiếm một lần." Mục tiêu là chứng minh nỗ lực có thể vượt qua thiên phú.

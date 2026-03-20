@@ -31,9 +31,14 @@ Liệt Quyền là Cự Tộc trẻ cao bảy trượng, thân hình gọn gàng
 Liệt Quyền đang tu luyện Địa Liệt Quyền Pháp (地裂拳法) — quyền pháp tập trung toàn bộ lực lượng vào một cú đấm, có thể nứt toác mặt đất trong phạm vi mười trượng. Dù tu vi còn thấp nhưng uy lực nhục thân cực mạnh nhờ huyết mạch Cự Tộc. Điểm yếu là thiếu kỹ thuật phòng thủ và chiến thuật linh hoạt.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Cuồng Nham:** Đàn anh mà Liệt Quyền ngưỡng mộ sức mạnh, thường xin đấu luyện.
-- **Hắc Thiết Giáp:** Đấu sĩ kỳ cựu mà Liệt Quyền coi như sư phụ không chính thức.
-- **Tước Lâm:** Vũ Tộc nông dân hiền lành, hay chia sẻ lương thực cho Liệt Quyền khi y tập luyện quên ăn.
-
+- **Cuồng Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
+- **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
+- **Lâm Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Lâm Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Ưng Nham Trảo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Hoang Sơn Ẩn Sĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Quạ Hắc Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Tước Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Ưng Dã Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Liệt Quyền là Cự Tộc thế hệ mới, sinh ra đã nhỏ hơn tổ tiên rất nhiều. Bị bộ lạc coi thường vì thân hình bé nhỏ, y bỏ nhà ra đi khi mười tuổi. Tình cờ chứng kiến Cuồng Nham đánh bại yêu thú bậc Kim Đan, y quyết tâm theo đuổi con đường quyền pháp. Suốt nhiều năm khổ luyện một mình giữa hoang dã, cuối cùng y đột phá Trúc Cơ Viên Mãn và đang hướng tới Kim Đan.

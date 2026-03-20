@@ -32,9 +32,13 @@ Mãng Ngàn Thu trong hình dạng yêu thú là một con trăn xanh cổ đạ
 Là Trưởng Lão cảnh giới Nguyên Anh Sơ Kỳ, Mãng Ngàn Thu tu luyện "Thiên Mệnh Xà Nhãn" (天命蛇眼) — con mắt thứ ba trên trán có thể nhìn thấy những mảnh vỡ của tương lai. Tuyệt kỹ "Quá Khứ Vị Lai Toàn" (过去未来全) cho phép hắn chiếu lại quá khứ hoặc nhìn trước vài giây tương lai trong phạm vi nhỏ. Điểm mạnh là khả năng tiên tri và cảnh báo sớm, nhược điểm là không thể kiểm soát khi nào thị kiến xuất hiện và mỗi lần dùng đều tổn hao thọ nguyên.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Vạn Kiếp:** Yêu Đế mà hắn thỉnh thoảng tiên đoán cho, dù lời tiên tri thường khó hiểu.
-- **Hổ Bạch Nhãn:** Trưởng Lão đồng liêu có cùng khả năng siêu giác — Bạch Nhãn nhìn hiện tại, hắn nhìn thời gian.
-- **Viên Thiên Thọ:** Tri kỷ lâu đời, người duy nhất hiểu được những lời hắn nói.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Hồ Thiên Mị** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Bạch Nhãn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Lang Thiên Dạ Hành** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Viên Bá Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Xà Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hùng Thiên Sơn Hống** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mãng Ngàn Thu đã sống hơn hai ngàn năm, phần lớn thời gian nằm im một chỗ ngủ đông và tu luyện. Hắn phát hiện khả năng tiên tri khi vô tình nhìn thấy một trận đại chiến trước khi nó xảy ra, cảnh báo Thiên Yêu Đình chuẩn bị và tránh được thảm họa. Từ đó, hắn được tôn làm Trưởng Lão dù tu vi không phải cao nhất. Bí mật nặng nề nhất là hắn đã nhìn thấy một thị kiến về sự sụp đổ của Thiên Yêu Đình trong tương lai xa, nhưng không dám nói ra vì sợ gây hoảng loạn.

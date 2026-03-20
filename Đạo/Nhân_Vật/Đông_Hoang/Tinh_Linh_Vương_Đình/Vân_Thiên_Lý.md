@@ -32,9 +32,14 @@ Vân Thiên Lý là một Tinh Linh mảnh mai nhưng nhanh nhất tộc, chân 
 Là Truyền Tin Sứ cảnh giới Trúc Cơ Viên Mãn, Vân Thiên Lý tu luyện "Thiên Lý Tật Phong Bộ" (千里疾风步) — thân pháp nhanh nhất Tinh Linh Tộc, di chuyển như gió thổi qua rừng. Tuyệt kỹ "Phong Tốc Truyền Thư" (风速传书) gửi tin nhắn đi khắp rừng trong thời gian ngắn nhất. Điểm mạnh là tốc độ tuyệt đối và truyền tin, nhược điểm là sức chịu đựng kém và chiến đấu yếu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lục Thanh:** Trinh Sát Trưởng, nàng truyền tin cho Thanh để phối hợp giám sát.
-- **Nguyệt Thanh Hà:** Ngoại Giao Sứ, nàng mang thư ngoại giao đi lại giữa rừng và thế giới bên ngoài.
-- **Vân Hà:** Thư Viện Trưởng, nàng hay mang sách từ nơi khác về cho Vân Hà.
-
+- **Nguyệt Thiên Hà** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tinh Linh Vương Đình
+- **Nguyệt Thiên Hà** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nguyệt Thiên Hà
+- **Nguyệt Hàn Sương** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tinh Linh Vương Đình
+- **Linh Ngọc Thụ Tâm** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tinh Linh Vương Đình
+- **Nguyệt Huyền Thiên Vũ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tinh Linh Vương Đình
+- **Hoa Tuyết** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Lục Ly** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Lục Thanh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Nguyệt Thanh Hà** (Đồng minh): Truyền Tin Sứ và Ngoại Giao Sứ, phối hợp liên lạc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vân Thiên Lý sinh ra giữa cơn gió mạnh nhất năm, được gió cuốn bay mất ba dặm trước khi cha mẹ bắt kịp. Từ nhỏ, nàng đã nhanh hơn mọi Tinh Linh cùng tuổi, chạy vượt cả chim bay. Được bổ nhiệm Truyền Tin Sứ vì tốc độ vô song, nàng là sợi dây liên lạc quan trọng nhất giữa các đồn biên giới. Mục tiêu hiện tại là phá kỷ lục tốc độ xuyên rừng mà nàng tự đặt ra.

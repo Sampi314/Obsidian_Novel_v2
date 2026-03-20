@@ -32,9 +32,9 @@ Nham Tiểu Sơn là Cự Tộc trẻ cao chín mét, nhỏ hơn nhiều so vớ
 Nham Tiểu Sơn tu luyện biến thể giản lược của cổ pháp Cự Tộc, sở hữu Tiểu Sơn Chấn (小山震) — chưởng pháp gom linh lực vào lòng bàn tay rồi đập xuống đất gây chấn động diện rộng. Dù thân nhỏ hơn tổ tiên, sức mạnh vật lý vẫn vượt trội so với Nhân Tộc. Ngoài ra y có khả năng giao tiếp cơ bản với cả Nhân Tộc — kỹ năng hiếm gặp ở Cự Tộc.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Thạch Tiểu Lực:** Phó Đoàn Trưởng đáng tin cậy, tay phải của y.
-- **Sơn Tiểu Nham:** Thành viên trẻ nhất mà y quan tâm đặc biệt.
-- **Sơn Cốc Cự Tộc Ẩn Sĩ:** Bí mật đến thăm Thạch Tổ, biết được lịch sử tộc.
-
+- **Thạch Tiểu Lực** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tiểu Cự Nhân Đoàn
+- **Sơn Tiểu Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tiểu Cự Nhân Đoàn
+- **Thạch Tiểu Lực** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nham Tiểu Sơn
+- **Sơn Tiểu Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nham Tiểu Sơn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nham Tiểu Sơn sinh ra đã nhỏ hơn Cự Tộc bình thường, bị coi là dấu hiệu suy tàn. Nhưng y tin đây là tiến hóa, không phải thoái hóa. Tập hợp Cự Tộc trẻ lập Đoàn hai mươi năm trước, cố gắng xây dựng quan hệ với Nhân Tộc vùng lân cận. Dần dần được chấp nhận nhờ giúp đỡ xây dựng và vận chuyển hàng nặng. Bí mật: sau khi gặp Thạch Tổ, y nhận ra thân hình nhỏ có thể là chìa khóa cho đột biến mới.

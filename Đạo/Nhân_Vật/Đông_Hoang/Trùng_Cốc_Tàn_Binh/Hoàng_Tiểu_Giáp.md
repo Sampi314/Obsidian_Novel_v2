@@ -32,9 +32,9 @@ Hoàng Tiểu Giáp là thiếu niên mười bảy tuổi, thân gầy nhưng m
 Hoàng Tiểu Giáp đang tu luyện Luyện Khí cơ bản, kỹ năng chiến đấu sơ khai. Điểm mạnh là sức chịu đựng bất thường — từng bị nọc trùng nhưng sống sót, cơ thể dần miễn dịch nhẹ với nọc trùng cấp thấp. Đang học Hỏa Đao Pháp (火刀法) từ Phạm Cương Binh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lê Thiết Giáp:** Liên Minh Chủ y ngưỡng mộ, mơ ước mạnh như ông.
-- **Phạm Cương Binh:** Đội Trưởng dìu dắt y, dạy kiếm thuật.
-- **Trần Trùng Chiến:** Ban đầu sợ nhưng dần tôn trọng sau khi thấy y cứu đồng đội.
-
+- **Lê Thiết Giáp** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Trùng Cốc Tàn Binh
+- **Lê Thiết Giáp** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lê Thiết Giáp
+- **Trần Trùng Chiến** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Trùng Cốc Tàn Binh
+- **Phạm Cương Binh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Trùng Cốc Tàn Binh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoàng Tiểu Giáp là trẻ mồ côi sống sót từ đợt Trùng Triều — bị Trùng Binh cắn nhưng không chết nhờ thể chất đặc biệt. Được Tàn Binh cứu và thu nhận, y thề tiêu diệt mọi Trùng Tộc đến gần. Dù yếu nhất đội, y không bao giờ lùi bước. Khả năng kháng nọc trùng tự nhiên khiến Lê Thiết Giáp tin rằng y có tiềm năng trở thành vũ khí sống chống Trùng Triều.

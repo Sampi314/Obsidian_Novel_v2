@@ -32,9 +32,18 @@ Hoàng Mộc Linh là trung niên tu sĩ ung dung, khuôn mặt phúc hậu, tó
 Hoàng Mộc Linh tinh thông Mộc Linh Y Thuật (木靈醫術) — dùng mộc linh khí chữa lành nội thương, ngoại thương và cả tổn thương linh hồn. Kỹ thuật đặc biệt là Sinh Cơ Tái Tạo Thuật (生機再造術) — có thể hồi phục chi thể bị mất nếu điều trị kịp thời. Không giỏi chiến đấu, nhưng khả năng hỗ trợ trên chiến trường vô giá.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Thanh Tiên:** Thái Thượng Trưởng Lão trực tiếp dẫn dắt y trong dược thuật.
-- **Lê Dược Tiên:** Đồng liêu Trưởng Lão trong Dược Tiên Viện.
-- **Vũ Tiểu Thanh:** Đệ tử mà y đang đào tạo thành thế hệ dược sư tiếp theo.
-
+- **Lý Mộc Thanh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Lý Mộc Thanh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Phạm Thanh Hoa** (Thuộc hạ): Cùng Thanh Đế Cung, quan hệ tổ chức
+- **Vũ Tiểu Thanh** (Thuộc hạ): Cùng Thanh Đế Cung, quan hệ tổ chức
+- **Đặng Thanh Liên** (Thuộc hạ): Cùng Thanh Đế Cung, quan hệ tổ chức
+- **Tinh Vạn Diệp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Trần Thanh Tiên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Phạm Thanh Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
+- **Nguyệt Thường Xuân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
+- **Nguyễn Thanh Trúc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
+- **Lê Dược Tiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
+- **Tinh Vạn Diệp** (Đồng minh): Cùng Thanh Đế Cung, quan hệ tổ chức
+- **Trần Thanh Tiên** (Đồng minh): Cùng Thanh Đế Cung, quan hệ tổ chức
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoàng Mộc Linh từng là dược sư lang thang, chữa bệnh miễn phí cho dân nghèo khắp Đông Hoang. Danh tiếng của y lan rộng đến mức Thanh Đế Cung chủ động mời y gia nhập. Trở thành Trưởng Lão Dược Tiên Viện, y xây dựng hệ thống y tế phục vụ không chỉ tông môn mà cả cư dân xung quanh. Hiện tại, y đang nghiên cứu loại bệnh lạ khiến cây cối héo úa — nghi ngờ có liên quan đến sự ô nhiễm linh mạch.

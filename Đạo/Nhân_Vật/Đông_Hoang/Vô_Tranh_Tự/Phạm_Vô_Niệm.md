@@ -32,9 +32,22 @@ Phạm Vô Niệm là một lão tăng gầy gò, mặt khô khốc, mắt nhắ
 Là Thái Thượng Trưởng Lão cảnh giới Luyện Hư Sơ Kỳ, Phạm Vô Niệm tu luyện "Vô Niệm Tâm Kinh" (无念心经) — tâm pháp xóa bỏ mọi tạp niệm, đạt trạng thái giác ngộ. Tuyệt kỹ "Vô Niệm Phật Ấn" (无念佛印) — một chưởng mang phật lực thuần túy, phong ấn mọi tà thuật. Điểm mạnh là tâm pháp phòng ngự tinh thần bất khả xâm phạm, nhược điểm là quá tịch mịch nên hiếm khi hành động.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Vô Nhai:** Phương Trượng, sư đệ mà hắn tin tưởng giao phó mọi việc.
-- **Trần Vô Tướng:** Đồng liêu, hai người ẩn tu cùng nhau ngàn năm.
-- **Nguyễn Bát Nhã:** Hộ Pháp, đệ tử trực tiếp mà hắn truyền thụ tâm pháp.
-
+- **Trần Vô Tướng** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vô Tranh Tự
+- **Hoàng Kim Cương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vô Tranh Tự
+- **Nguyễn Bát Nhã** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vô Tranh Tự
+- **Vũ Giới Luật** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vô Tranh Tự
+- **Đặng Huệ Tâm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vô Tranh Tự
+- **Lê Thiền Định** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vô Tranh Tự
+- **Trần Tiểu Tăng** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vô Tranh Tự
+- **Lý Ngộ Không** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vô Tranh Tự
+- **Trần Vô Tướng** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phạm Vô Niệm
+- **Hoàng Kim Cương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phạm Vô Niệm
+- **Nguyễn Bát Nhã** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phạm Vô Niệm
+- **Vũ Giới Luật** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phạm Vô Niệm
+- **Đặng Huệ Tâm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phạm Vô Niệm
+- **Lê Thiền Định** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phạm Vô Niệm
+- **Trần Tiểu Tăng** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phạm Vô Niệm
+- **Lý Ngộ Không** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phạm Vô Niệm
+- **Lý Huyết Thần** (Kẻ thù): Thái Thượng Trưởng Lão Vô Tranh Tự thề diệt Huyết Sát Minh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Vô Niệm đã ngồi thiền liên tục hơn năm trăm năm không đứng dậy, đạt cảnh giới "Vô Niệm" mà hầu hết tăng lữ chỉ nghe nói trong truyền thuyết. Trước khi ẩn tu, hắn từng dẫn đầu cuộc chiến trấn áp Huyết Ma Tông, phong ấn hàng trăm ma tu. Sự kiện nổi tiếng nhất là hắn dùng một chưởng Phật Ấn phong ấn cửa Đạt Ma Viện nơi giam Ma Quân. Dù thân xác gần như hóa đá, ý thức hắn vẫn minh mẫn và có thể thức tỉnh khi tự viện lâm nguy.

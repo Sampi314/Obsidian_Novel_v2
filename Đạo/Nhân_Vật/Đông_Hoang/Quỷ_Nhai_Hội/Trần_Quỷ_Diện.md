@@ -32,8 +32,10 @@ Trần Quỷ Diện có thân hình cao lớn vạm vỡ, mặt đeo mặt nạ 
 Trần Quỷ Diện sử dụng Quỷ Diện Đại Đao (鬼面大刀) — đao pháp mạnh mẽ, mỗi nhát chém mang theo áp lực tinh thần khiến kẻ yếu bóng vía ngất xỉu. Tuyệt kỹ Quỷ Khốc Thần Hào (鬼哭神嚎) phát ra tiếng hú kinh hoàng ảnh hưởng thần thức. Điểm yếu là chậm chạp, dễ bị đối thủ nhanh lợi dụng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Quỷ Nhị:** Quỷ Chủ mà Quỷ Diện thề bảo vệ bằng mạng sống, người duy nhất y tuyệt đối phục tùng.
-- **Hoàng Quỷ Thủ:** Sát Thủ Trưởng, đồng liêu mà Quỷ Diện tôn trọng vì kỹ năng.
-
+- **Lý Quỷ Nhị** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Quỷ Nhai Hội
+- **Lý Quỷ Nhị** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Quỷ Nhị
+- **Phạm Hắc Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Quỷ Nhai Hội
+- **Hoàng Quỷ Thủ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Quỷ Nhai Hội
+- **Nguyễn Tiểu Quỷ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Quỷ Nhai Hội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trần Quỷ Diện vốn là tù nhân bị kết án tử, được Lý Quỷ Nhị giải cứu và cho cơ hội sống lại. Từ đó, y thề trung thành và trở thành lực lượng chiến đấu chủ lực của Hội. Mặt nạ quỷ che giấu gương mặt bị hủy hoại trong ngục — y không muốn ai nhìn thấy. Sức mạnh thô bạo nhưng trung thành tuyệt đối khiến y trở thành cánh tay phải không thể thay thế.

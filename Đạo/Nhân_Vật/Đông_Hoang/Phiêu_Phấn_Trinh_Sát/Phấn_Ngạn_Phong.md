@@ -32,9 +32,10 @@ Phấn Ngạn Phong là một hạt phấn hoa mai già, thân mang sắc vàng 
 Là cựu binh dày dạn kinh nghiệm, Phấn Ngạn Phong sở trường ở khả năng xâm nhập các khu vực phòng bị nghiêm ngặt. Chiêu thức "Phong Tẩu Vô Ảnh" (風走無影) cho phép y di chuyển hoàn toàn theo luồng gió mà không tạo ra bất kỳ dao động linh khí nào, ngay cả trận pháp cảm ứng cũng không phát hiện được. Điểm mạnh là kinh nghiệm thực chiến phong phú, nhược điểm là tuổi già khiến tốc độ bay giảm sút đáng kể.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Phấn Dao:** Đội Trưởng mà y tuyệt đối trung thành, từng cứu mạng nhau trong nhiệm vụ xâm nhập Long Cung.
-- **Phấn Khinh Vũ:** Hậu bối mà y nghiêm khắc huấn luyện nhưng thầm tự hào về tài năng truyền tin.
-- **Phấn Tiểu Lộ:** Tân binh mà y lo lắng nhất — sợ cô bé quá liều lĩnh vì muốn chứng minh bản thân.
-
+- **Phấn Dao** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Phiêu Phấn Trinh Sát
+- **Phấn Dao** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phấn Dao
+- **Phấn Khinh Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Phiêu Phấn Trinh Sát
+- **Phấn Lăng Yên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Phiêu Phấn Trinh Sát
+- **Phấn Tiểu Lộ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Phiêu Phấn Trinh Sát
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phấn Ngạn Phong đã sống gần ba trăm năm, là Vi Tộc lâu đời nhất trong đội. Thời trẻ, y từng đơn độc xâm nhập Long Cung để thu thập tình báo cho một khách hàng bí ẩn — nhiệm vụ nguy hiểm nhất lịch sử đội và cũng là nhiệm vụ mang lại danh tiếng cho Phiêu Phấn Trinh Sát. Kinh nghiệm đó để lại cho y không chỉ những vết sẹo trên thân mà còn một nỗi sợ hãi sâu thẳm về sức mạnh của các đại thế lực. Hiện tại, y đang dần chuyển giao kinh nghiệm cho thế hệ trẻ, đặc biệt là Phấn Lăng Yên, người y tin sẽ kế nhiệm vị trí Phó Đội Trưởng.

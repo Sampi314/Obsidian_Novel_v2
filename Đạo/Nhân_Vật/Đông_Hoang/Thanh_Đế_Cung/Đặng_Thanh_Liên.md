@@ -32,9 +32,14 @@ arcs:
 Đặng Thanh Liên đang tu luyện Thanh Liên Tâm Pháp (青蓮心法) — tâm pháp mộc hệ đặc biệt phù hợp với thể chất thuần khiết, gia tăng sức mạnh chữa lành theo cảm xúc. Chiến đấu bằng Linh Mộc Trượng Pháp (靈木杖法) — dùng gậy mộc linh kết hợp dây leo tấn công và phòng thủ linh hoạt. Tiềm năng cực lớn nhưng kinh nghiệm chiến đấu còn thiếu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lê Dược Tiên:** Trưởng Lão coi y như em gái, truyền thụ dược thuật.
-- **Vũ Tiểu Thanh:** Đồng môn nội môn, hai người là bạn thân nhất trong Cung.
-- **Hoàng Mộc Linh:** Trưởng Lão đang đào tạo y thành dược sư thế hệ mới.
-
+- **Lý Mộc Thanh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Lý Mộc Thanh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Hoàng Mộc Linh** (Thuộc hạ): Cùng Thanh Đế Cung, quan hệ tổ chức
+- **Nguyệt Thường Xuân** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Vũ Tiểu Thanh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Tinh Vạn Diệp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Trần Thanh Tiên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Nguyễn Thanh Trúc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
+- **Lê Dược Tiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Đặng Thanh Liên là trẻ mồ côi được Thanh Đế Cung cứu từ vùng rừng bị Vạn Độc Môn đầu độc. Y là đứa trẻ duy nhất sống sót nhờ thể chất đặc biệt kháng độc tố tự nhiên. Được phong Chân Truyền đệ tử, y mang trong mình ký ức đau thương nhưng vẫn giữ được tâm hồn trong sáng. Thể chất kháng độc của y có thể là chìa khóa chống lại cuộc xâm lăng của Vạn Độc Môn.

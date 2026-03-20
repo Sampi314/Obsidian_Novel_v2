@@ -32,8 +32,8 @@ Phong thái lạnh lùng bí ẩn, ít ai biết được suy nghĩ thực sự.
 Chuyên gia trị liệu của Độc Trùng Trị Liệu Đường, tinh thông y thuật và dược lý. Chiêu thức 菌小靈·Hồi Xuân Thuật (菌小靈·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bào Hoàng Ty:** Học Đồ, đồng liêu quan trọng nhất trong Độc Trùng Trị Liệu Đường.
-- **Trùng Thanh Châm:** Đường Chủ, đối tác thường xuyên phối hợp.
-
+- **Trùng Thanh Châm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Độc Trùng Trị Liệu Đường
+- **Trùng Thanh Châm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Thanh Châm
+- **Bào Hoàng Ty** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Độc Trùng Trị Liệu Đường
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Khuẩn Tiểu Linh sinh ra trong một gia đình Trùng Tộc bình thường, sớm thể hiện tư chất phù hợp với Độc Trùng Trị Liệu Đường. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Độc Trùng Trị Liệu Đường và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dược Sư.

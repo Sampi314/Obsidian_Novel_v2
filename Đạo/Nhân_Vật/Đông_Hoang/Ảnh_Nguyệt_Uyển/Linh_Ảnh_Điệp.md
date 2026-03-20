@@ -32,9 +32,14 @@ Thân hình mảnh khảnh với đôi cánh bướm đêm màu tím đen luôn 
 Chỉ huy đàn Ảnh Điệp - mạng lưới bướm đêm tình báo rộng khắp lục địa. Tuyệt chiêu Ảnh Điệp Vạn Hóa (影蝶萬化) triệu hồi hàng vạn bướm đêm tạo thành ma trận ảo giác khiến đối thủ mất phương hướng. Tinh thông thần thức liên kết, có thể đồng thời nhận thông tin từ hàng ngàn con Ảnh Điệp. Điểm yếu là khi đàn Ảnh Điệp bị tiêu diệt, thần thức sẽ bị phản phệ nghiêm trọng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Vi Sương Vân:** Đồng liêu Thất Dạ Sứ, đối tác phối hợp thu thập tình báo từ xa, quan hệ tin tưởng sâu sắc.
-- **Tiểu Dạ Lan:** Đồng liêu Thất Dạ Sứ, người duy nhất mà Linh Ảnh Điệp chịu trò chuyện thân mật.
-- **Vi Nguyệt Ảnh:** Ảnh Chủ, người ban cho nàng ý nghĩa cuộc sống khi còn là đứa trẻ mồ côi.
-
+- **Vi Ám Hà** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ảnh Nguyệt Uyển
+- **Vi Ám Hà** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Vi Ám Hà
+- **Hoa Tiểu Yến** (Thuộc hạ): Cùng Ảnh Nguyệt Uyển, quan hệ tổ chức
+- **Vi Nguyệt Ảnh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ảnh Nguyệt Uyển
+- **Tiểu Dạ Lan** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Vi Sương Vân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Vi Vô Thanh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Hoa Tiểu Yến** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
+- **Vi Minh Nguyệt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Linh Ảnh Điệp được tìm thấy khi còn là hài nhi trong một tổ bướm đêm khổng lồ, không rõ cha mẹ. Nàng sở hữu khả năng bẩm sinh giao tiếp với loài bướm đêm, một thiên phú cực kỳ hiếm có trong Vi Tộc. Được Ảnh Nguyệt Uyển nuôi dưỡng, nàng phát triển mạng lưới Ảnh Điệp thành hệ thống tình báo sinh học hiệu quả nhất của tổ chức. Bí mật của nàng là đôi khi nhận được những hình ảnh kỳ lạ từ đàn Ảnh Điệp — những ký ức không thuộc về thời đại này — khiến nàng nghi ngờ Ảnh Điệp có nguồn gốc từ thời Thái Cổ.
