@@ -75,9 +75,11 @@ Hàn Phong Truyền Tin Đội là đơn vị vận chuyển đường không du
 
 ## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
 Trụ sở đặt tại "Trạm Vọng Gió" — một vách đá cao phía đông gần Hàn Kiếm Cốc, nơi có các luồng gió "Đông Phong Thăng" mạnh vĩnh cửu giúp việc cất cánh trở nên dễ dàng ngay cả khi mang theo bưu kiện nặng. Đội không nắm giữ linh mạch nhưng sở hữu kiến thức độc quyền về "Hành Lang Gió" — bảy con đường mòn không trung an toàn ẩn giữa các tầng mây bão mà chỉ Vũ Tộc có giác quan phong hệ nhạy bén mới có thể cảm nhận được. Mỗi Hành Lang Gió được đặt tên riêng: "Bạch Vân Đạo", "Hàn Lưu Tuyến", "Phong Tức Cung"... và bản đồ của chúng là bí mật thương mại quan trọng nhất của đội.
+Khu vực xung quanh ẩn chứa nhiều bí mật chưa được khám phá — hang động chưa ai đến, mạch khoáng chưa ai biết, dấu tích cổ đại mà thời gian chưa kịp xóa nhòa.
 
 ## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
 Đề cao danh dự nghề nghiệp và sự trung thực tuyệt đối. Thành viên đội coi mỗi bức thư là một "Phong Ước" — lời hứa linh hồn với gió — và phá vỡ Phong Ước là điều không thể tha thứ. Văn hóa của họ mang đậm tính thực dụng và sự chuẩn bị kỹ lưỡng: trước mỗi chuyến bay nguy hiểm, mỗi truyền tin viên đều để lại "Di Phong Thư" — bức thư trối trăng — cho đồng đội trong một hộp gỗ khắc tên tại Trạm Vọng Gió. Họ không tôn thờ thần thánh mà tôn trọng sự biến hóa khôn lường của mây gió, coi gió phương Bắc vừa là đồng minh vừa là kẻ thù. Mỗi tối sau khi trở về an toàn, cả đội sẽ uống một chén "Phong Ẩm Tửu" — rượu nóng pha mật ong tuyết — và kể lại hành trình trong ngày, coi đó là nghi thức "Quy Phong" biểu thị sự sống sót.
+Mỗi thế hệ mới được truyền dạy không chỉ kỹ năng sinh tồn mà cả câu chuyện về nguồn cội, để ngọn lửa ký ức không bao giờ tắt dù hoàn cảnh khắc nghiệt đến đâu.
 
 ## IV. Cơ Cấu Tổ Chức (组织结构)
 ```mermaid
@@ -99,19 +101,24 @@ graph TD
 - **Hàn Phong Bản Đồ "Phong Đạo Đồ":** Loại bản đồ da thú ghi lại các luồng gió và điểm dừng chân không trung an toàn theo mùa, cập nhật mỗi quý. Phiên bản đầy đủ chỉ bán cho đối tác tin cậy với giá hai trăm linh thạch hạ phẩm, phiên bản rút gọn bán rộng rãi với giá hai mươi linh thạch.
 - **Lông Vũ Truyền Tin "Quy Sào Vũ":** Lông vũ được yểm bùa có khả năng tự động tìm đường về Trạm Vọng Gió nếu người đưa thư gặp nạn — lông sẽ phát sáng đỏ và bay về trạm, thông báo cho đồng đội biết vị trí cuối cùng của người mất tích.
 - **Phong Ẩm Tửu:** Loại rượu nóng đặc sản của đội, pha từ mật ong tuyết sơn và thảo dược kháng hàn, giúp hồi phục thể lực nhanh chóng sau chuyến bay dài. Không bán ra ngoài, nhưng khách quen đôi khi được mời nếm thử.
+Ngoài ra, Hàn Phong Truyền Tin Đội còn sở hữu vật phẩm có giá trị văn hóa hơn vật chất — thứ mà thương nhân bỏ qua nhưng nhà sử học trả bất cứ giá nào.
 
 ## VII. Cơ Sở Hạ Tầng (基础设施)
 - **Trạm Vọng Gió "Phong Sào":** Tháp canh gỗ Hàn Tùng trên vách đá với hệ thống đèn linh lực "Hồi Quang Đăng" báo hiệu hạ cánh — ba ngọn đèn xanh nghĩa là an toàn, đỏ nghĩa là nguy hiểm, tắt hết nghĩa là trạm bị tấn công. Bên trong tháp có phòng phân loại thư, kho bưu kiện, và phòng nghỉ cho tám truyền tin viên.
 - **Hầm Trú Bão "Phong Tị Động":** Khu vực hang đá sâu trong vách đá dành cho thành viên nghỉ ngơi khi có đại bão cấp mười trở lên, trang bị đủ lương thực cho hai tuần và một lò sưởi linh lực nhỏ. Trên vách hầm khắc đầy tên của các truyền tin viên đã hy sinh trong bão — danh sách "Phong Liệt" — lời nhắc nhở về cái giá của nghề nghiệp.
+Toàn bộ hạ tầng mang dấu ấn đặc trưng cộng đồng — không phải xa hoa mà là thực dụng đúc kết qua nhiều thế hệ thử nghiệm.
 
 ## VIII. Kinh Tế (経済)
 Nguồn thu nhập chính từ phí dịch vụ chuyển phát nhanh đường không, chia ba mức: "Thường Bay" (bảy ngày), "Tốc Bay" (ba ngày), và "Tử Phong" (một ngày, giá gấp hai mươi lần, chỉ nhận trong thời tiết tốt). Họ cũng thu lợi từ việc bán dữ liệu khí tượng "Phong Đạo Đồ" cho Bắc Phong Thông Tín Trạm và các thương đoàn — mỗi quý một bản cập nhật, mang lại nguồn thu ổn định. Kinh tế của đội tuy nhỏ nhưng ổn định, đủ để duy trì các trang thiết bị bảo hộ đắt tiền — đặc biệt là "Hàn Phong Hộ Giáp" cho mỗi truyền tin viên, giá một trăm linh thạch hạ phẩm mỗi bộ và cần thay mới mỗi năm.
+Tiềm năng kinh tế vượt xa những gì đang được khai thác — sự thiếu hụt nhân lực, kiến thức thương mại, và bảo hộ chính trị khiến phần lớn giá trị vẫn nằm yên.
 
 ## IX. Lịch Sử Tóm Tắt (简史)
 Sáng lập bởi Vũ Tốc Vân, một nữ Vũ Tộc nhỏ con nhưng có ý chí sắt đá. Sau khi bị Vũ Hoàng Các từ chối vì sải cánh không đủ rộng — thiếu đúng hai thốn so với tiêu chuẩn — cô đã rời bỏ bầu trời phương Nam và tìm đến Bắc Băng. Tại đây, cô nhận ra rằng trong khi các đại tông phái có hệ thống truyền tin riêng, hàng trăm thế lực nhỏ và tán tu hoàn toàn bị cô lập về thông tin. Từ một nhóm ba người bay thuê, đội đã phát triển thành mạng lưới mười hai truyền tin viên tin cậy, với tỷ lệ giao thư thành công chín mươi bảy phần trăm — con số ấn tượng trong điều kiện thời tiết khắc nghiệt nhất Cố Nguyên Giới.
+Mỗi thế hệ kế tiếp gánh di sản và gánh nặng thế hệ trước — nhưng cũng mang khả năng mới mà cha ông chưa từng tưởng tượng.
 
 ## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
 Tương truyền Vũ Tốc Vân đang nắm giữ một bức mật thư của Cực Quang Thần Điện bị rơi trong bão ba năm trước — bức thư bọc trong ống trúc mang ấn tín của hai vị trưởng lão, nội dung bên trong chứa đựng kế hoạch "Bạch Quang Thanh Tẩy" — một âm mưu chấn động nhằm thanh trừng các thế lực nhỏ không phục tùng thần điện. Vũ Tốc Vân đã giấu bức thư trong một khe đá bí mật gần Trạm Vọng Gió mà chỉ mình cô biết, coi đó là "bảo hiểm nhân thọ" cho toàn đội. Cô hiểu rằng nếu tiết lộ nội dung, cô sẽ bị Cực Quang Thần Điện truy sát — nhưng nếu giữ im lặng, bức thư sẽ là lá bùa hộ mệnh mạnh nhất phương Bắc.
+Những bí mật này, nếu được tiết lộ, có thể khiến nhiều thế lực phải nhìn lại đánh giá của mình về cộng đồng nhỏ bé này — vừa là cơ hội vừa là mối nguy.
 
 ## XI. Quan Hệ Thế Lực (势力关系)
 ```mermaid
@@ -120,4 +127,5 @@ graph LR
     HPTTĐ -- Khách hàng -- HKC[Hàn Kiếm Cốc]
     HPTTĐ -- Cảnh giác -- CQTĐ[Cực Quang Thần Điện]
     HPTTĐ -- Tránh né -- VHC[Vũ Hoàng Các]
+Nhìn tổng thể, mạng lưới quan hệ tuy mỏng manh nhưng đủ duy trì sự tồn tại — trong thế giới tu chân tàn khốc, tồn tại đã là chiến thắng.
 ```

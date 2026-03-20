@@ -83,6 +83,12 @@ arcs:
 
 # HẢI TẶC TÀN DƯ (海贼残余)
 
+> *"Mộng phục thù đẹp lắm — đẹp nhất là lúc say rượu, xấu nhất là lúc tỉnh dậy nhìn đảo hoang."*
+> — "Độc Nhãn" Châu Thiết, lời tự thuật sau năm mươi năm lưu đày
+
+> *"Hắn là Kim Đan cường giả, nhưng hắn cũng là một ông già mệt mỏi trên hòn đảo mà cả thế giới quên lãng."*
+> — Lý Hắc Ngư, phó thuyền trưởng, bình luận thầm về thuyền trưởng
+
 ## I. Tổng Quan (总览)
 Hải Tặc Tàn Dư là tàn dư của một phái hệ trong Hắc Hải Hải Tặc, do "Độc Nhãn" Châu Thiết dẫn đầu sau khi bị trục xuất trong cuộc thanh trừng nội bộ năm mươi năm trước. Với vỏn vẹn ba mươi ba người ẩn náu trên một hòn đảo hoang vùng biển nam, đây là một trong những thế lực nhỏ bé và thảm hại nhất Vô Tận Hải. Châu Thiết ở cảnh giới Kim Đan Sơ Kỳ, là tu sĩ mạnh nhất nhóm, nhưng sức mạnh đó không đủ để thực hiện bất kỳ mưu đồ lớn nào. Nhóm sống trong trạng thái nửa hải tặc nửa ngư dân, vừa muốn cướp vừa sợ bị phát hiện, vừa mơ phục thù vừa biết mình bất lực.
 

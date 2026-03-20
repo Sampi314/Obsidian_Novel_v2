@@ -78,6 +78,7 @@ Không có căn cứ cố định — đó là quy tắc sinh tồn số một. 
 
 ## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
 Đề cao triết lý: *"Tự do quý hơn tính mạng, phản bội nặng hơn cái chết."* Thành viên liên minh coi sự phản bội là tội lỗi tối thượng — kẻ nào tiết lộ vị trí hang ổ sẽ bị xử bằng "Ngục Hình" — chính các cấm chế trong cơ thể chúng sẽ được kích hoạt để giết chết từ bên trong. Họ có văn hóa ẩn danh triệt để: xóa bỏ tên thật, xóa bỏ quá khứ, và chỉ gọi nhau bằng biệt danh dựa trên vết sẹo hoặc khiếm khuyết. Mỗi cá nhân đều mang trên mình ít nhất một vết sẹo hoặc cấm chế từ thời bị giam cầm như một lời nhắc nhở về nỗi hận đối với Băng Ngục Thành. Nghi thức quan trọng nhất là "Lễ Đốt Xích" — mỗi năm vào ngày kỷ niệm cuộc vượt ngục, cả liên minh sẽ nung chảy một đoạn xích sắt trong lửa rồi rải tro xuống biển, tượng trưng cho sự giải phóng.
+Liên minh duy trì một "Bảng Thù" khắc tên từng cai ngục đã đối xử tàn bạo với tù nhân — mỗi tên bị gạch đi khi kẻ đó chết, và Mạc Vô Danh thề rằng bảng sẽ trống hết trước khi ông ta nhắm mắt.
 
 ## IV. Cơ Cấu Tổ Chức (组织结构)
 ```mermaid
@@ -92,24 +93,30 @@ graph TD
 ## V. Công Pháp & Trận Pháp (功法 với阵法)
 - **Công Pháp:** *Ngục Ảnh Bộ* (Thân pháp chuyên dụng để lẩn tránh thần thức, được Mạc Vô Danh sáng tạo trong mười năm bị giam cầm đơn độc — mỗi bước chân tạo ra một tàn ảnh băng giá có thể đánh lừa cả thần thức Kim Đan kỳ), *Hàn Sát Cấm Thuật* (Sử dụng chính cấm chế trong cơ thể để tấn công — biến xiềng xích thành vũ khí, mỗi đòn tấn công sẽ gây đau đớn cho cả người dùng lẫn kẻ thù).
 - **Trận Pháp:** *Ảo Ảnh Băng Sương Trận* - trận pháp ngụy trang dùng để che giấu lối vào các hang động tạm thời, tạo ra một lớp sương băng dày đặc khiến mắt thường và thần thức đều nhìn thấy một vách băng liền mạch. Trận pháp do sáu Phó Minh Chủ thay phiên duy trì, mỗi người một ca sáu canh giờ.
+Mạc Vô Danh đang bí mật nghiên cứu cách biến cấm chế trong cơ thể các đào vong giả thành trận pháp kết nối — cho phép bốn mươi bảy người chia sẻ cảm nhận nguy hiểm trong thời gian thực.
 
 ## VI. Đặc Sản Môn Phái (门派特产)
 - **Sơ Đồ Ngục Giam "Băng Ngục Toàn Đồ":** Các bản vẽ chi tiết về kết cấu và điểm yếu của Băng Ngục Thành, được Mạc Vô Danh ghi nhớ và vẽ lại sau khi vượt ngục. Đây là hàng cấm tuyệt đối, chỉ bán cho những kẻ sẵn sàng trả giá bằng máu — mỗi bản chỉ tiết lộ một phần nhỏ, không bao giờ đầy đủ.
 - **Xương Mài Đục "Ngục Thoát Trùy":** Loại vũ khí thô sơ được mài từ xương yêu thú Bắc Hải, có khả năng phá giải một số loại cấm chế không gian đơn giản nhờ tần số rung động đặc biệt khi va chạm.
 - **Cấm Chế Ấn Phù:** Các phù lục ghi lại cách thức vô hiệu hóa một số loại cấm chế thông dụng trong ngục, được chế tác bởi những thành viên có kinh nghiệm bị giam giữ lâu nhất.
+- **Hàn Băng Độc Phấn:** Bột chế từ bào tử nấm độc mọc trên xích cấm chế, gây tê liệt tạm thời kinh mạch đối phương — vũ khí sinh tồn cuối cùng mà mỗi đào vong giả luôn mang trong túi da nhỏ đeo cổ.
 
 ## VII. Cơ Sở Hạ Tầng (基础设施)
 - **Hang Băng Di Động "Vô Ảnh Sào":** Các hang động được yểm bùa Ảo Ảnh Băng Sương Trận để có thể biến mất khỏi cảm nhận khi cần thiết. Mỗi hang có diện tích đủ cho mười người nằm chen chúc, với một lối thoát ngầm luôn được giữ thông suốt hướng ra biển.
 - **Trạm Tiếp Tế Ngầm "Ngục Ấn Điểm":** Mười hai điểm giấu lương thực và linh thạch rải rác trên bờ biển, mỗi điểm được đánh dấu bằng Ngục Ấn và chứa đủ nhu yếu phẩm cho bảy ngày sống sót. Vị trí các trạm thay đổi mỗi ba tháng theo một quy tắc mà chỉ Mạc Vô Danh và hai Phó Minh Chủ tin cẩn nhất nắm giữ.
+- **Bến Đá Chìm "Ngục Cảng":** Bến đậu thuyền bí mật ẩn dưới mặt nước biển băng, chỉ lộ ra khi thủy triều rút thấp nhất — nơi giấu hai chiếc thuyền gỗ nhỏ dùng di chuyển giữa các hang ổ dọc bờ biển.
 
 ## VIII. Kinh Tế (経済)
 Nguồn thu nhập đến từ việc đánh cướp các thương thuyền nhỏ hoặc các đội vận tải "Hàn Lương Đội" của Băng Ngục Thành — mỗi lần tấn công đều phải tính toán kỹ lưỡng để tránh chạm trán với lực lượng Hắc Giáp hộ tống. Họ cũng bí mật trao đổi các thông tin tuyệt mật về cấu trúc nhà tù cho các thế lực ma đạo khác muốn giải cứu thuộc hạ, giao dịch qua trung gian Bạch Cốt Hội tại phiên chợ đen "Quỷ Thị". Thu nhập bấp bênh và nguy hiểm, nhưng Mạc Vô Danh luôn duy trì kỷ luật phân chia nghiêm ngặt: năm phần mười cho quỹ chung, ba phần mười cho chiến binh, hai phần mười dự trữ cho trường hợp khẩn cấp.
+Gần đây, Mạc Vô Danh thiết lập tuyến buôn lậu nhỏ với tán tu bí ẩn tự xưng "Hải Phong Khách", trao đổi thông tin lịch trình tuần tra Hắc Giáp Liệp Đội để lấy linh dược trị thương.
 
 ## IX. Lịch Sử Tóm Tắt (简史)
 Khởi nguồn từ cuộc đại vượt ngục 30 năm trước do Mạc Vô Danh dẫn đầu, được gọi là "Đêm Băng Vỡ". Trong đêm đó, Mạc Vô Danh đã lợi dụng một trận bão tuyết cấp tám để phá vỡ phong ấn tầng hầm thứ bảy, giải phóng hơn ba trăm tù nhân. Tuy nhiên, trong số hàng trăm tù nhân, chỉ có 47 người sống sót qua được biển băng và sự truy sát của quân đoàn Hắc Giáp — phần lớn chết vì đuối nước trong biển băng hoặc bị cấm chế trong cơ thể kích hoạt tự hủy. Kể từ đó, họ đã trở thành một biểu tượng của sự phản kháng thầm lặng chống lại sự tàn bạo của ngục tù phương Bắc, và "Đêm Băng Vỡ" trở thành ngày lễ linh thiêng nhất của liên minh.
+Trong bốn mươi bảy thành viên, ít nhất năm người mang "Tàn Ký" — mảnh ký ức bị cấm chế phong ấn trong não, chứa bí mật nội bộ Băng Ngục Thành mà ngay cai ngục cũng không biết.
 
 ## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
 Tương truyền Mạc Vô Danh vốn là một kiếm tu tài ba bị hãm hại bởi chính sư huynh đồng môn, và trong cơ thể ông ta vẫn còn găm một mảnh "Hàn Băng Thần Châm" liên tục ăn mòn tu vi, nhưng đồng thời cũng cung cấp cho ông khả năng cảm nhận cái lạnh ở mức độ thần thánh — ông có thể phát hiện bất kỳ biến động nhiệt độ nào trong phạm vi mười dặm, kể cả hơi thở của một sát thủ đang ẩn nấp. Ngoài ra, mảnh "Bản Đồ Cổ Vực" mà ông mang theo được đồn đại chỉ dẫn đến một pháp bảo thượng cổ bị chôn giấu dưới đáy biển băng — thứ mà nếu tìm được, có thể giúp ông phá giải toàn bộ cấm chế trong cơ thể bốn mươi bảy thành viên và khôi phục hoàn toàn tu vi Nguyên Anh.
+Gần đây, có người nhìn thấy hình bóng mặc áo cai ngục đứng trên vách băng gần hang ổ lúc nửa đêm — không rõ là gián điệp hay cai ngục cũ đang tìm đường đào tẩu.
 
 ## XI. Quan Hệ Thế Lực (势力关系)
 ```mermaid

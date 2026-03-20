@@ -75,9 +75,11 @@ Bắc Phong Thông Tín Trạm là mạng lưới liên lạc quan trọng nhấ
 
 ## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
 Trạm chính là một tòa tháp đá kiên cố mang tên "Tháp Thính Phong" nằm trên một điểm cao chiến lược tại tundra Bắc Băng, nơi gió bốn phương hội tụ tạo thành một vùng xoáy linh khí phong hệ đặc biệt thích hợp cho việc truyền tín hiệu. Ngoài ra, mạng lưới còn bao gồm mười hai trạm nhỏ rải rác dọc theo "Tuyến Hành Lang Bạch Tuyết" — con đường lữ hành chính nối liền các điểm dân cư rìa nam. Tài nguyên quý giá nhất của trạm là đàn Chim Tuyết "Bạch Vũ" được huấn luyện đặc biệt để bay xuyên qua những trận bão tuyết cường độ thấp, mỗi con mang theo một viên "Phong Linh Châu" nhỏ giúp chúng cảm nhận đường đi giữa mù tuyết. Các trạm nhỏ đều được đánh dấu bằng "Phong Kỳ" — những lá cờ linh lực phát sáng xanh nhạt trong bão, dẫn đường cho lữ khách lạc đường.
+Khu vực xung quanh ẩn chứa nhiều bí mật chưa được khám phá — hang động chưa ai đến, mạch khoáng chưa ai biết, dấu tích cổ đại mà thời gian chưa kịp xóa nhòa.
 
 ## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
 Đề cao triết lý "Tin tức là mạng sống". Thành viên của trạm coi trọng sự trung thực và tốc độ, và mỗi liên lạc viên mới đều phải tuyên thệ trước "Phong Thạch Đài" — tảng đá khắc lời thề bảo mật nằm ở tầng cao nhất của tháp chính. Họ có văn hóa ghi chép tỉ mỉ về các biến động của gió và mây tuyết, biến việc dự báo thời tiết thành một loại nghệ thuật sinh tồn mang tên "Phong Vân Thư". Mỗi buổi sáng, toàn trạm thực hiện nghi thức "Thính Phong" — đứng im lặng trên đỉnh tháp trong mười phút để cảm nhận hướng gió và dự đoán tình hình thời tiết trong ngày. Tín ngưỡng duy nhất là sự tôn trọng đối với sức mạnh của gió phương Bắc, được thể hiện qua câu nói truyền miệng: *"Gió không thiên vị ai — nó mang tin đến cho cả người sống lẫn kẻ chết."*
+Mỗi thế hệ mới được truyền dạy không chỉ kỹ năng sinh tồn mà cả câu chuyện về nguồn cội, để ngọn lửa ký ức không bao giờ tắt dù hoàn cảnh khắc nghiệt đến đâu.
 
 ## IV. Cơ Cấu Tổ Chức (组织结构)
 ```mermaid
@@ -99,19 +101,24 @@ graph TD
 - **Bắc Phong Phù:** Loại bùa truyền tin có khả năng chống nhiễu loạn từ hàn khí, được khắc bằng mực chế từ huyết Chim Tuyết pha bột Phong Linh Thạch. Mỗi phù lục có thời hạn sử dụng ba tháng và có thể truyền tải tín hiệu xuyên qua bão tuyết cấp bốn.
 - **Lông Chim Tuyết:** Vật liệu nhẹ và chứa phong linh khí, dùng để chế tạo ám khí hoặc pháp bảo tốc độ. Đặc biệt, lông đuôi của "Bạch Vũ Vương" — con chim tuyết đầu đàn — được đồn đại có thể dẫn đường trong bất kỳ trận bão nào, bất kể cường độ.
 - **Phong Vân Thư Lục:** Các bản ghi chép chi tiết về quy luật gió và bão tuyết theo mùa, được các thương đoàn và bộ lạc mua với giá cao để lập kế hoạch hành trình.
+Ngoài ra, Bắc Phong Thông Tín Trạm còn sở hữu vật phẩm có giá trị văn hóa hơn vật chất — thứ mà thương nhân bỏ qua nhưng nhà sử học trả bất cứ giá nào.
 
 ## VII. Cơ Sở Hạ Tầng (基础设施)
 - **Tháp Thính Phong:** Tòa tháp đá cao bảy tầng với hệ thống thu phát tín hiệu liên tục, đỉnh tháp gắn một "Phong Linh Chuông" lớn sẽ tự rung khi có bão tuyết cấp năm trở lên đang tiến đến, cảnh báo cho toàn bộ cư dân trong phạm vi ba mươi dặm. Tầng hầm của tháp là nơi Phong Tín Nhi cất giấu "Hồn Ngọc" chứa bản sao mật thư.
 - **Chuồng Chim Băng "Bạch Vũ Sào":** Khu vực nuôi dưỡng hai mươi con chim tuyết với môi trường mô phỏng bão tố để rèn luyện sức bền, được xây dựng bên hông tháp chính với mái che bằng da thú Bạch Hùng.
+Toàn bộ hạ tầng mang dấu ấn đặc trưng cộng đồng — không phải xa hoa mà là thực dụng đúc kết qua nhiều thế hệ thử nghiệm.
 
 ## VIII. Kinh Tế (経済)
 Nguồn thu ổn định từ phí dịch vụ chuyển phát thư tín và bưu kiện nhỏ, với ba mức giá: "Thường Tốc" (mười ngày), "Cấp Tốc" (ba ngày), và "Sinh Tử Tốc" (một ngày, giá gấp mười lần nhưng cam kết thư đến nơi hoặc hoàn tiền). Phong Tín Nhi cũng bí mật thu lợi nhuận từ việc phân tích và bán các xu hướng thông tin (không tiết lộ nội dung thư) cho các thương hội lớn — một hoạt động mà bà gọi là "đọc gió" và coi đó là nghệ thuật hơn là gian lận. Ngoài ra, dịch vụ bán "Phong Vân Thư Lục" theo quý đang trở thành nguồn thu mới quan trọng.
+Tiềm năng kinh tế vượt xa những gì đang được khai thác — sự thiếu hụt nhân lực, kiến thức thương mại, và bảo hộ chính trị khiến phần lớn giá trị vẫn nằm yên.
 
 ## IX. Lịch Sử Tóm Tắt (简史)
 Được sáng lập 40 năm trước bởi Phong Tín Nhi, một tu sĩ phong hệ bị lạc trong bão tuyết và được cứu mạng nhờ sự dẫn đường của một con chim tuyết hoang. Bà nhận ra nhu cầu cấp thiết về thông tin tại vùng đất này và đã dùng số vốn ít ỏi — ba trăm viên linh thạch hạ phẩm và một bộ phù lục rẻ tiền — để xây dựng trạm liên lạc đầu tiên trên nền một tháp canh đổ nát. Qua bốn thập kỷ, trạm đã mở rộng từ một người thành mười ba, và mạng lưới mười hai trạm phụ trải dài khắp rìa nam Bắc Băng, trở thành hạ tầng không thể thiếu cho thương mại và sinh tồn phương Bắc.
+Mỗi thế hệ kế tiếp gánh di sản và gánh nặng thế hệ trước — nhưng cũng mang khả năng mới mà cha ông chưa từng tưởng tượng.
 
 ## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
 Tương truyền Phong Tín Nhi bí mật lưu trữ bản sao của mọi bức thư đã từng đi qua trạm của mình trong một "Hồn Ngọc" tuyệt mật, coi đó là con bài tẩy để bảo vệ mạng sống của toàn trạm trước các thế lực lớn. Viên Hồn Ngọc này được giấu trong một hốc đá bí mật dưới tầng hầm Tháp Thính Phong, bên ngoài yểm ba lớp phong ấn mà chỉ Phong Tín Nhi mới biết cách mở. Nếu thông tin này bị lộ, nó sẽ trở thành quả bom có thể phá vỡ quan hệ ngoại giao giữa hàng chục thế lực — đặc biệt là một bức mật thư giữa hai vị trưởng lão Cực Quang Thần Điện bàn về việc thanh trừng nội bộ.
+Những bí mật này, nếu được tiết lộ, có thể khiến nhiều thế lực phải nhìn lại đánh giá của mình về cộng đồng nhỏ bé này — vừa là cơ hội vừa là mối nguy.
 
 ## XI. Quan Hệ Thế Lực (势力关系)
 ```mermaid
@@ -120,4 +127,5 @@ graph LR
     BPTTT -- Liên kết -- HPTTĐ[Hàn Phong Truyền Tin Đội]
     BPTTT -- Cảnh giác -- CQTĐ[Cực Quang Thần Điện]
     BPTTT -- Hỗ trợ -- BNTTH[Băng Nguyên Tán Tu Hội]
+Nhìn tổng thể, mạng lưới quan hệ tuy mỏng manh nhưng đủ duy trì sự tồn tại — trong thế giới tu chân tàn khốc, tồn tại đã là chiến thắng.
 ```

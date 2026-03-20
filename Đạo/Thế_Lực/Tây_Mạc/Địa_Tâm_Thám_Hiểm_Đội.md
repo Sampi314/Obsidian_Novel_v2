@@ -80,6 +80,12 @@ arcs:
 
 # Địa Tâm Thám Hiểm Đội (地心探险队)
 
+> *"Cội nguồn của Thạch Tộc nằm ở nơi sâu nhất — phải đào xuống mới tìm được câu trả lời."*
+> — Đội Trưởng Thâm Nham, khẩu hiệu của đội
+
+> *"Đào quá sâu sẽ đánh thức thứ không nên đánh thức — ta đã cảnh báo ngươi rồi, Thâm Nham."*
+> — Đại Tế Tư Bàn Thạch của Cổ Nham Bộ Lạc
+
 ## I. Tổng Quan (总览)
 Địa Tâm Thám Hiểm Đội là một nhóm nhỏ gồm hai mươi Thạch Tộc trẻ tuổi chuyên thám hiểm tầng sâu nhất của Xích Nham Sơn Mạch, nơi ánh sáng không bao giờ chạm tới và nhiệt độ tăng dần theo từng tầng đá. Đứng đầu bởi Đội Trưởng Thâm Nham — một Thạch Tộc gan dạ với thân xác bằng hắc diệu thạch cứng — đội hoạt động theo tôn chỉ "Cội nguồn của Thạch Tộc nằm ở nơi sâu nhất — phải đào xuống mới tìm được câu trả lời". Dù quy mô nhỏ bé và đã mất ba thành viên trong các chuyến thám hiểm, Địa Tâm Thám Hiểm Đội vẫn kiên trì đào sâu hơn, bởi mỗi tầng mới đều mang đến những phát hiện kỳ lạ và nguy hiểm chưa từng thấy.
 

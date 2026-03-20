@@ -118,6 +118,8 @@ Có tin đồn thuyền đội từng đi qua "Vùng Biển Chết" — một kh
 
 Khoang thuyền chính bị khóa kín của Vạn Lý Phong chứa một thứ bí mật mà không ai biết. Một vài trưởng thuyền cũ từng nghe thấy tiếng vo vo kỳ lạ phát ra từ đó vào những đêm trăng tròn, nhưng không dám hỏi. Ngoài ra, đội thuyền từng cứu được một tu sĩ trọng thương trôi dạt trên biển — người đó để lại một cuốn ngọc giản trước khi chết, nội dung chưa ai giải mã được dù đã thử nhiều cách.
 
+Gần đây, một thuyền nhỏ ở rìa đội phát hiện xác một sinh vật biển lạ trôi nổi — thân dài hơn mười trượng, vảy đen bóng, và mang trên mình vết thương sâu như bị vũ khí linh lực gây ra. Không ai trong thuyền đội nhận ra đây là sinh vật gì, nhưng Vạn Lý Phong đích thân ra xem và lập tức ra lệnh đẩy xác ra xa, không ai được chạm vào. Ông nhận ra rằng vết thương trên thân sinh vật mang dấu vết của công pháp Long Cung — nghĩa là gần đây Long Cung đã giao chiến với thứ gì đó ở vùng biển sâu, và chiến trường ấy không xa thuyền đội. Ông lặng lẽ ra lệnh thay đổi hướng đi, rời xa khu vực đó càng nhanh càng tốt.
+
 ## XI. Quan Hệ Thế Lực (势力关系)
 - **Hắc Hải Hải Tặc:** Kẻ thù sinh tử — hai mươi năm trước suýt bị tiêu diệt, hiện tại hai bên vẫn đánh nhau khi chạm mặt trên biển. Hắc Hải muốn trả thù vụ mất ba thuyền.
 - **Hải Thần Cung:** Tránh mặt hoàn toàn — thuyền đội luôn đi vòng quanh lãnh hải Hải Thần Cung, không dám xâm phạm. Hải Thần Cung coi họ quá nhỏ để bận tâm.

@@ -82,6 +82,12 @@ arcs:
 
 # Ngoại Môn Đệ Tử Liên Minh (外门弟子联盟)
 
+> *"Trong bóng tối của chính tông môn mình, ta tìm được đồng đạo — có lẽ đó là điều trớ trêu nhất của tu chân giới."*
+> — Ảnh Thủ, qua Truyền Âm Phù gửi cho Liên Lạc Viên đời đầu
+
+> *"Ngày mà chúng ta không cần tồn tại nữa, chính là ngày tu chân giới thực sự công bằng."*
+> — Ảnh Thủ, lời nhắn hiếm hoi gửi cho toàn bộ Liên Lạc Viên
+
 ## I. Tổng Quan (总览)
 Ngoại Môn Đệ Tử Liên Minh là một tổ chức bí mật kết nối ngoại môn đệ tử từ nhiều tông phái lớn tại Đông Hoang. Ra đời từ sự bất mãn với hệ thống phân biệt đối xử giữa nội môn và ngoại môn, Liên Minh cung cấp cho những đệ tử bị thiệt thòi một mạng lưới hỗ trợ lẫn nhau — chia sẻ thông tin, trao đổi tài nguyên cấp thấp, và cảnh báo nguy hiểm. Với ước tính 100-200 thành viên rải rác tại nhiều tông phái, Liên Minh hoạt động cực kỳ kín đáo dưới sự điều phối của một nhân vật bí ẩn chỉ biết qua danh hiệu "Ảnh Thủ". Dù không có lãnh thổ, không có trụ sở, và không xếp hạng trên bất kỳ bảng thế lực nào, Liên Minh nắm giữ thứ mà nhiều tông phái sợ hãi: thông tin nội bộ từ bên trong chính họ.
 

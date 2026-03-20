@@ -87,9 +87,11 @@ Mộc Diệp Thôn là một cộng đồng ẩn cư nhỏ bé nằm sâu trong 
 
 ## II. Địa Lý & Tài Nguyên (地理与资源)
 Thung lũng nơi Mộc Diệp Thôn tọa lạc được che chắn bởi dãy núi thấp bốn phía và lớp rừng cổ thụ dày đặc bên ngoài. Lối vào duy nhất là một khe núi hẹp bị rễ cây và dây leo phủ kín, rất khó phát hiện nếu không có người dẫn đường. Bên trong thung lũng, địa hình bằng phẳng với đất phì nhiêu, suối nước trong chảy từ khe đá, và khí hậu ôn hòa quanh năm nhờ địa thế che chắn gió lạnh từ phía bắc. Tài nguyên chính là dược thảo trồng tại vườn cộng đồng, lương thực tự cung tự cấp từ ruộng linh điền, và một lượng nhỏ gỗ linh mộc cấp thấp từ rừng xung quanh. Đặc biệt, bên dưới thung lũng ẩn chứa một long mạch nhỏ — nguồn linh khí âm thầm nuôi dưỡng đất đai và cây cối, khiến mọi thứ ở đây tươi tốt bất thường.
+Khu vực xung quanh ẩn chứa nhiều bí mật chưa được khám phá — hang động chưa ai đến, mạch khoáng chưa ai biết, dấu tích cổ đại mà thời gian chưa kịp xóa nhòa.
 
 ## III. Văn Hóa & Tín Ngưỡng (文化与信仰)
 Cư dân Mộc Diệp Thôn sống theo nguyên tắc giản dị và hòa hợp với thiên nhiên. Mọi tranh chấp nội bộ được giải quyết thông qua bỏ phiếu tại Hội Đồng Trưởng Lão, không ai được dùng vũ lực. Quy tắc nghiêm ngặt nhất là cấm tiết lộ vị trí Thôn cho người ngoài — bất kỳ ai vi phạm sẽ bị trục xuất vĩnh viễn. Vũ khí không được mang vào khu dân cư, chỉ được cất giữ tại nhà kho chung ở rìa Thôn. Mỗi mùa thu, toàn thể dân làng tổ chức Lễ Tạ Thụ — buổi lễ tạ ơn rừng cổ thụ đã che chở cộng đồng, trong đó mỗi gia đình trồng thêm một cây non và cầu nguyện cho sự bình yên tiếp tục. Đây là nghi thức mang tính tâm linh sâu sắc, thể hiện lòng biết ơn đối với thiên nhiên thay vì thần linh hay tổ sư.
+Mỗi thế hệ mới được truyền dạy không chỉ kỹ năng sinh tồn mà cả câu chuyện về nguồn cội, để ngọn lửa ký ức không bao giờ tắt dù hoàn cảnh khắc nghiệt đến đâu.
 
 ## IV. Cơ Cấu Tổ Chức (组织结构)
 Mộc Diệp Thôn không có hệ thống tôn ti phức tạp. Trưởng Lão Mộc Thanh Phong giữ vai trò lãnh đạo tinh thần và là người có tu vi cao nhất, nhưng quyền hành thực tế được chia sẻ đều cho Hội Đồng gồm 5 vị Trúc Cơ kỳ cựu cùng ông. Mọi quyết định lớn — từ phân chia đất canh tác đến tiếp nhận cư dân mới — đều phải qua bỏ phiếu đa số. Dân cư khoảng 150 người, bao gồm tu sĩ cấp thấp (Luyện Khí đến Trúc Cơ), phàm nhân, và gia đình hỗn hợp. Một đội tuần tra nhỏ gồm 15 tu sĩ Luyện Khí luân phiên canh gác rìa thung lũng, nhưng nhiệm vụ chính của họ là duy trì trận pháp che giấu chứ không phải chiến đấu.
@@ -101,21 +103,27 @@ Mộc Diệp Thôn không có công pháp chiến đấu. Dân làng tu luyện 
 - **Mộc Diệp Linh Trà:** Trà pha từ lá cây cổ thụ bao quanh thung lũng, có tác dụng thanh tâm tĩnh thần và tăng tốc hồi phục linh lực nhẹ. Hương vị thanh ngọt đặc trưng, chỉ có thể trồng tại vùng đất được long mạch nuôi dưỡng.
 - **Dược Thảo Cấp Thấp:** Các loại linh thảo phổ thông như Thanh Linh Thảo, Dưỡng Khí Hoa được trồng trong vườn cộng đồng, chất lượng cao hơn bình thường nhờ đất đai phì nhiêu.
 - **Gỗ Linh Mộc Thôn:** Gỗ từ cành cây rụng tự nhiên, được thu gom và sử dụng làm công cụ canh tác hoặc đồ gia dụng, có chứa một lượng nhỏ linh khí.
+Ngoài ra, Mộc Diệp Thôn còn sở hữu vật phẩm có giá trị văn hóa hơn vật chất — thứ mà thương nhân bỏ qua nhưng nhà sử học trả bất cứ giá nào.
 
 ## VII. Cơ Sở Hạ Tầng (基础设施)
 - **Quảng Trường Cổ Thụ:** Trung tâm Thôn, nơi cây cổ thụ lớn nhất mọc — dân làng họp mặt và tổ chức Lễ Tạ Thụ tại đây.
 - **Vườn Dược Thảo Cộng Đồng:** Khu vườn được chia thành lô cho mỗi gia đình, trồng dược thảo và lương thực, tưới bằng nước suối tự nhiên.
 - **Nhà Kho Chung:** Nơi cất giữ lương thực dự trữ, vũ khí, và vật tư của toàn Thôn.
 - **Trạm Tuần Tra:** Bốn trạm nhỏ ở bốn hướng rìa thung lũng, nơi đội tuần tra luân phiên kiểm tra trận pháp che giấu.
+Toàn bộ hạ tầng mang dấu ấn đặc trưng cộng đồng — không phải xa hoa mà là thực dụng đúc kết qua nhiều thế hệ thử nghiệm.
 
 ## VIII. Kinh Tế (经济)
 Kinh tế Mộc Diệp Thôn hoàn toàn dựa trên tự cung tự cấp. Dân làng trồng lương thực và dược thảo trên linh điền được long mạch ngầm nuôi dưỡng, thu hoạch gỗ linh mộc từ cành rụng tự nhiên, và đánh bắt cá suối. Không có hoạt động thương mại với bên ngoài — đây vừa là nguyên tắc sống vừa là biện pháp bảo vệ bí mật vị trí. Thỉnh thoảng, một vài tán tu có nhu cầu đặc biệt sẽ bí mật rời Thôn để mua nhu yếu phẩm ở thị trấn xa, nhưng họ không bao giờ tiết lộ mình đến từ đâu. Mức sống trong Thôn giản dị nhưng đủ đầy, không ai thiếu ăn nhờ đất đai màu mỡ.
+Tiềm năng kinh tế vượt xa những gì đang được khai thác — sự thiếu hụt nhân lực, kiến thức thương mại, và bảo hộ chính trị khiến phần lớn giá trị vẫn nằm yên.
 
 ## IX. Lịch Sử Tóm Tắt (简史)
 Hai trăm năm trước, Mộc Thanh Phong — khi ấy là một tu sĩ mộc hệ Kim Đan — lui về thung lũng này sau khi thất bại đột phá Nguyên Anh. Ban đầu ông chỉ một mình ẩn cư, tìm kiếm sự thanh tĩnh để tĩnh tâm tu dưỡng. Dần dần, những tán tu chán nản với cuộc sống tranh đoạt bên ngoài tìm đến xin ở. Mộc Thanh Phong không từ chối, chỉ yêu cầu họ giữ bí mật và sống hòa thuận. Thôn từ một túp lều phát triển thành cộng đồng nhỏ với vài chục hộ, rồi dần ổn định ở mức 150 người. Trong suốt 200 năm, Thôn chưa từng bị phát hiện bởi bất kỳ thế lực nào bên ngoài nhờ trận pháp che giấu và vị trí địa lý hiểm trở.
+Mỗi thế hệ kế tiếp gánh di sản và gánh nặng thế hệ trước — nhưng cũng mang khả năng mới mà cha ông chưa từng tưởng tượng.
 
 ## X. Giai Thoại & Bí Mật (轶事与秘密)
 Mộc Thanh Phong thất bại đột phá Nguyên Anh không phải vì thiếu tài năng hay tài nguyên. Theo lời đồn thầm trong Hội Đồng Trưởng Lão, ông cố tình dừng lại giữa chừng — lý do thực sự chỉ mình ông biết. Một số người đoán rằng ông nhìn thấy điều gì đó trong quá trình đột phá khiến ông chọn từ bỏ sức mạnh để giữ lại thứ quan trọng hơn. Bí mật lớn nhất của Thôn nằm ngay dưới chân: một long mạch nhỏ chạy xuyên qua lòng đất thung lũng, là nguồn cội khiến đất đai phì nhiêu và linh khí dồi dào bất thường. Nếu tin tức về long mạch này lọt ra ngoài, các tông phái lớn như Cửu Hoa Kiếm Tông hay Thanh Đế Cung chắc chắn sẽ nhòm ngó, và cộng đồng nhỏ bé này không có khả năng chống cự.
+Những bí mật này, nếu được tiết lộ, có thể khiến nhiều thế lực phải nhìn lại đánh giá của mình về cộng đồng nhỏ bé này — vừa là cơ hội vừa là mối nguy.
 
 ## XI. Quan Hệ Thế Lực (势力关系)
 Mộc Diệp Thôn gần như không có quan hệ với bất kỳ thế lực nào — đây là chủ đích chứ không phải sự cô lập bất đắc dĩ. Thôn tồn tại trong trạng thái "vô hình" trên bản đồ quyền lực Đông Hoang. Dược Vương Cốc đôi khi nhận được dược thảo chất lượng cao từ các tán tu không rõ xuất xứ — trên thực tế là từ Thôn, nhưng không bên nào biết mối liên hệ gián tiếp này. Mật Lâm Thợ Săn Hội thỉnh thoảng có thợ săn đi lạc gần thung lũng, nhưng trận pháp che giấu luôn đánh lạc hướng họ thành công. Mối đe dọa lớn nhất không đến từ kẻ thù mà từ khả năng bí mật long mạch bị vô tình tiết lộ.
+Nhìn tổng thể, mạng lưới quan hệ tuy mỏng manh nhưng đủ duy trì sự tồn tại — trong thế giới tu chân tàn khốc, tồn tại đã là chiến thắng.

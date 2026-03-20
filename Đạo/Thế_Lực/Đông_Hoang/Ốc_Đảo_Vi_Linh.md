@@ -115,6 +115,8 @@ Suốt nhiều ngàn năm, không ai biết đến sự tồn tại của chúng
 - Ở Huyết Tuyền Châu, Vi Linh có màu đỏ nhạt thay vì xanh. Một số tu sĩ cổ đại để lại ghi chép cho rằng nguồn nước đó thực ra là máu của một thần thú thượng cổ chết tại đây, và Vi Linh đỏ đã thích nghi qua hàng vạn năm. Nếu đúng vậy, máu thần thú ấy có thể chứa bí mật về thời kỳ Hồng Hoang.
 - Ốc Đảo Hộ Vệ Đội nhận ra Vi Linh đang suy yếu và bí mật tìm cách bảo vệ chúng. Trần Sa Nghĩa lo lắng rằng nếu Vi Linh chết hết, không chỉ ốc đảo mà cả hệ sinh thái sa mạc sẽ sụp đổ — nhưng ông không biết nguyên nhân suy giảm là gì.
 
+Một chi tiết đáng chú ý mà ít người biết: khi Vi Linh chết, cơ thể chúng phân hủy thành bụi mịn phát sáng nhẹ lắng xuống đáy mạch nước, tạo thành lớp trầm tích gọi là "Linh Sa" — cát linh chứa linh lực vi lượng. Linh Sa tích tụ qua hàng nghìn năm tạo thành lớp dày ở đáy mạch nước, và chính lớp Linh Sa này giúp mạch nước duy trì linh lực ngay cả khi số lượng Vi Linh sống giảm sút. Tuy nhiên, nếu Vi Linh tuyệt chủng, Linh Sa cũng sẽ dần mất linh tính và trở thành cát thường.
+
 ## XI. Quan Hệ Thế Lực (势力关系)
 
 | Thế Lực | Quan Hệ | Mô Tả |

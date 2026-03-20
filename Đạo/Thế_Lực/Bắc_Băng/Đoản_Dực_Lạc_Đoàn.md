@@ -75,9 +75,11 @@ arcs:
 
 ## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
 Trụ sở chính là khu trại "Đoản Dực Trại" dựng dưới những vách đá chắn gió mang tên "Lạc Vũ Nhai" phía tây chân núi Tuyết Sơn — nơi các vách đá dựng đứng tạo ra một vùng trũng tự nhiên ít gió, thích hợp cho việc cư trú. Địa hình tại đây vừa có "Bạch Tùng Lâm" — rừng thông tuyết cổ thụ bao phủ — vừa có các hang đá kiên cố gọi là "Thạch Sào" để tránh đại bão. Tài nguyên của đoàn bao gồm các loại gỗ rừng tuyết quý hiếm — đặc biệt là gỗ "Hàn Tùng" có khả năng dẫn truyền phong linh khí — và nguồn lông vũ linh lực tự nhiên thu thập được từ các loài phi cầm cư ngụ trên vách đá cao. Khu vực "Vũ Lạc Thác" — thác nước đóng băng một nửa gần trại — là nguồn cung cấp nước sinh hoạt chính.
+Khu vực xung quanh ẩn chứa nhiều bí mật chưa được khám phá — hang động chưa ai đến, mạch khoáng chưa ai biết, dấu tích cổ đại mà thời gian chưa kịp xóa nhòa.
 
 ## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
 Đề cao sự kiên cường và lòng tự trọng. Thành viên đoàn coi việc sống tiếp dù không bay được là một thử thách tâm linh tối cao — họ gọi đó là "Lạc Địa Tu Hành". Văn hóa của họ mang đậm tính hoài niệm về bầu trời nhưng cũng vô cùng thực dụng trong việc thích nghi với mặt đất. Mỗi ngày, họ duy trì tập tục "Vọng Thiên Lễ" — đứng trên đỉnh vách đá nhìn về phía xa khi bình minh lên, dang hai cánh gãy đón gió, như một lời nhắc nhở về nguồn gốc và động lực để vươn lên. Nghi thức quan trọng nhất là "Lễ Đoạn Dực" — khi có thành viên mới gia nhập, toàn đoàn sẽ cùng cắt một sợi lông vũ từ cánh gãy và đan thành vòng tay mang suốt đời, tượng trưng cho sự đoàn kết giữa những kẻ bị ruồng bỏ. Bài hát truyền thống *"Vũ Lạc Ca"* — *"Cánh gãy trời không thương, đất này ta tự bước"* — được hát mỗi tối bên lửa trại.
+Mỗi thế hệ mới được truyền dạy không chỉ kỹ năng sinh tồn mà cả câu chuyện về nguồn cội, để ngọn lửa ký ức không bao giờ tắt dù hoàn cảnh khắc nghiệt đến đâu.
 
 ## IV. Cơ Cấu Tổ Chức (组织结构)
 ```mermaid
@@ -99,19 +101,24 @@ graph TD
 - **Lông Vũ Phù "Phong Vũ Phù":** Các loại bùa chú được khắc trực tiếp lên lông vũ linh cầm bằng mực chế từ nhựa Hàn Tùng, có tác dụng tăng tốc độ di chuyển hoặc làm nhẹ trọng lượng cơ thể. Mỗi bùa dùng được ba lần, giá mười linh thạch hạ phẩm — rẻ và tiện dụng, rất được lữ khách ưa chuộng.
 - **Tuyết Sơn Mộc Khí "Hàn Tùng Khí":** Các vật dụng làm từ gỗ Hàn Tùng có khả năng giữ ấm và dẫn truyền phong linh khí — từ bát đũa đến gậy chống, đều mang theo một lớp phong khí nhẹ nhàng. Các thương nhân phương Nam coi đây là quà lưu niệm độc đáo từ Bắc Băng.
 - **Vòng Tay Đoản Dực:** Vòng tay đan từ lông vũ cánh gãy, mang ý nghĩa tinh thần hơn giá trị vật chất — tượng trưng cho sự kiên cường, được một số tu sĩ mua về làm vật nhắc nhở bản thân.
+Ngoài ra, Đoản Dực Lạc Đoàn còn sở hữu vật phẩm có giá trị văn hóa hơn vật chất — thứ mà thương nhân bỏ qua nhưng nhà sử học trả bất cứ giá nào.
 
 ## VII. Cơ Sở Hạ Tầng (基础设施)
 - **Đoản Dực Trại "Lạc Vũ Thôn":** Tổ hợp mười lăm căn nhà gỗ Hàn Tùng áp sát vào vách đá Lạc Vũ Nhai để tận dụng sự che chắn tự nhiên, mái nhà phủ da thú và cỏ tuyết chống bão. Giữa trại là bãi đất trống "Quyền Trường" — nơi Vũ Tàn Phong dạy Lạc Địa Phong Quyền mỗi sáng sớm, mặt đất in đầy dấu chân và vết chém gió.
 - **Đài Vọng Không "Nhớ Trời Đài":** Điểm cao nhất của trại — một mỏm đá nhô ra từ vách núi — dùng để quan sát kẻ thù từ xa và thực hiện nghi lễ "Vọng Thiên". Vào những ngày trời quang, từ đây có thể nhìn thấy bóng dáng xa xăm của Vũ Hoàng Các bay lượn trên cao — cảnh tượng vừa đẹp vừa xót xa đối với mọi thành viên.
+Toàn bộ hạ tầng mang dấu ấn đặc trưng cộng đồng — không phải xa hoa mà là thực dụng đúc kết qua nhiều thế hệ thử nghiệm.
 
 ## VIII. Kinh Tế (経済)
 Nguồn thu nhập đến từ việc bán lông vũ rụng thu thập được cho các phường luyện khí — đặc biệt là lông vũ "Bạch Ưng Tuyết Sơn" cực hiếm có giá năm mươi linh thạch hạ phẩm mỗi chiếc — và việc trao đổi gỗ Hàn Tùng lấy lương thực từ các làng nhân tộc. Họ cũng thỉnh thoảng hợp tác phòng thủ với Hàn Dân Hộ Vệ Đội để đổi lấy sự hỗ trợ về tài liệu tu luyện cơ bản. Gần đây, việc bán "Phong Vũ Phù" đã trở thành nguồn thu quan trọng mới — sản phẩm nhỏ gọn, giá rẻ, và cực kỳ hữu ích cho lữ khách, giúp đoàn thoát khỏi cảnh phải sống hoàn toàn phụ thuộc vào săn bắn.
+Tiềm năng kinh tế vượt xa những gì đang được khai thác — sự thiếu hụt nhân lực, kiến thức thương mại, và bảo hộ chính trị khiến phần lớn giá trị vẫn nằm yên.
 
 ## IX. Lịch Sử Tóm Tắt (简史)
 Sáng lập 15 năm trước bởi Vũ Tàn Phong, một cựu chiến binh Vũ Tộc bị gãy cánh trong trận "Phong Sát Đại Chiến" khi hộ tống một đoàn thương thuyền không trung qua bão. Theo tập tục Vũ Hoàng Các, Vũ Tộc mất cánh phải tự kết liễu bằng cách nhảy từ "Tuyệt Vọng Nhai" — nhưng Vũ Tàn Phong đã chọn rơi xuống đất và sống. Ông mất ba năm để học cách đi bộ, năm năm để sáng tạo ra Lạc Địa Phong Quyền, và sau đó bắt đầu tìm kiếm những Vũ Tộc đồng cảnh ngộ. Từ một người, hai người, đến ba mươi — biến một đám người tàn phế thành một cộng đồng có tổ chức và đầy nghị lực mà ngay cả Vũ Hoàng Các cũng phải thầm thừa nhận.
+Mỗi thế hệ kế tiếp gánh di sản và gánh nặng thế hệ trước — nhưng cũng mang khả năng mới mà cha ông chưa từng tưởng tượng.
 
 ## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
 Tương truyền trong đoàn đang bí mật bảo vệ một Vũ Tộc trẻ tên "Vũ Vô Dực" — bẩm sinh không có cánh nhưng lại sở hữu Phong Linh Căn ở mức độ thần thánh, thực thể được kỳ vọng sẽ tìm ra cách giúp toàn đoàn "bay" lại bằng chính linh lực của mình thay vì đôi cánh vật lý. Vũ Tàn Phong đã dành riêng một căn nhà gỗ kín đáo ở rìa trại — "Vô Dực Thất" — để bảo vệ và dạy dỗ đứa trẻ này, tránh xa mọi con mắt tò mò. Ngoài ra, trên vách đá Lạc Vũ Nhai có một bích họa cổ đại bị rêu che phủ, mô tả một Vũ Tộc không có cánh đang bay lên trời bằng luồng gió — phát hiện này khiến Vũ Tàn Phong tin rằng việc bay không cần cánh từng tồn tại trong lịch sử Vũ Tộc.
+Những bí mật này, nếu được tiết lộ, có thể khiến nhiều thế lực phải nhìn lại đánh giá của mình về cộng đồng nhỏ bé này — vừa là cơ hội vừa là mối nguy.
 
 ## XI. Quan Hệ Thế Lực (势力关系)
 ```mermaid
@@ -120,4 +127,5 @@ graph LR
     ĐDLD -- Hợp tác -- HDHVĐ[Hàn Dân Hộ Vệ Đội]
     ĐDLD -- Đồng cảnh -- BLTĐ[Băng Lang Tàn Đội]
     ĐDLD -- Tránh né -- HBC[Huyền Băng Cung]
+Nhìn tổng thể, mạng lưới quan hệ tuy mỏng manh nhưng đủ duy trì sự tồn tại — trong thế giới tu chân tàn khốc, tồn tại đã là chiến thắng.
 ```

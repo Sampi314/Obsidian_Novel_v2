@@ -119,6 +119,8 @@ Phường được thành lập khi Thiên Sa Thương Hội phát hiện mạch
 ## X. Giai Thoại & Bí Mật (轶事与秘密)
 Sâu trong mạch thủy tinh, tại vị trí mà chưa ai khai thác tới, tồn tại một khối thủy tinh linh khổng lồ tự nhiên, trong suốt hoàn hảo. Bên trong khối thủy tinh dường như có hình bóng mờ ảo của một sinh vật bị đóng băng từ thời cổ đại, nhưng không ai dám đến gần vì nhiệt độ xung quanh khối thủy tinh cao đến mức ngay cả Thạch Tộc cũng khó chịu đựng. Tinh Minh âm thầm giữ lại những viên thủy tinh linh đẹp nhất thay vì giao cho Thương Hội, tích trữ chúng trong một hốc đá bí mật với hy vọng một ngày có đủ vốn để thoát khỏi sự lệ thuộc. Hỏa Diễm Công Phường gần đây chủ động đề nghị hợp tác trực tiếp, bỏ qua Thương Hội, nhưng Tinh Minh vẫn đang do dự vì sợ bị Thương Hội phát hiện và trả thù.
 
+Tinh Minh gần đây phát hiện rằng sâu trong mạch thủy tinh, nơi nhiệt độ cao nhất, xuất hiện những tinh thể mới mà anh chưa từng thấy — trong suốt như thủy tinh linh nhưng cứng gấp mười lần và phát ra nhiệt độ riêng. Anh đặt tên chúng là "Linh Hỏa Thạch" và bí mật thu thập vài mảnh nhỏ. Nếu Linh Hỏa Thạch có thể gia công được, giá trị sẽ vượt xa thủy tinh linh thông thường — nhưng hiện tại Tinh Minh chưa tìm ra cách luyện chúng vì nhiệt độ nóng chảy vượt quá khả năng Tinh Luyện Thuật hiện tại của phường.
+
 ## XI. Quan Hệ Thế Lực (势力关系)
 - **Thiên Sa Thương Hội:** Quan hệ bất bình đẳng, Thương Hội ép giá thu mua và kiểm soát quyền bán sản phẩm. Phường âm thầm bất mãn nhưng chưa đủ sức phản kháng.
 - **Hỏa Diễm Công Phường:** Đối tác tiềm năng, đề nghị hợp tác trực tiếp. Nếu thành công, có thể mở ra con đường thoát khỏi sự lệ thuộc Thương Hội.

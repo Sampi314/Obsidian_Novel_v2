@@ -118,6 +118,8 @@ Hàng nghìn năm trước, trong thời Thượng Cổ, Cự Tộc là chủng 
 ## X. Giai Thoại & Bí Mật (轶事与秘密)
 Thạch Tổ không phải đang ngủ — hắn đang chiến đấu với thứ gì đó trong mộng cảnh, và đã chiến đấu suốt hàng nghìn năm. Ba trưởng lão cảm nhận được qua long mạch: rung động nhẹ, nhịp tim bất thường, và đôi khi tiếng rên khe khẽ từ hang Thạch Tổ vang vọng trong đêm khuya. Họ không biết Thạch Tổ đang chiến đấu với cái gì, nhưng biết rằng nếu hắn thua, hậu quả sẽ vượt xa thung lũng. Bí mật thứ hai đáng lo ngại không kém: nếu Thạch Tổ tỉnh dậy, sức mạnh Hóa Thần giải phóng đột ngột sẽ gây chấn động toàn Đông Hoang — nhưng cũng hoàn toàn có khả năng hắn tỉnh dậy trong trạng thái tẩu hỏa nhập ma, và không gì trên đời có thể ngăn cản một Cự Tộc Hóa Thần điên cuồng.
 
+Trưởng Lão Đại thỉnh thoảng đứng ở lối vào thung lũng, đặt tay lên tảng đá khổng lồ che cửa và lắng nghe. Ông nói rằng qua tảng đá, ông có thể cảm nhận nhịp đập của thế giới bên ngoài — và nhịp đập đó ngày càng nhanh và hỗn loạn hơn qua mỗi thập kỷ. *"Ta không biết điều gì đang đến,"* ông từng nói với Trưởng Lão Nhị trong một đêm khuya, *"nhưng đất đang run — và khi đất run, nghĩa là thứ gì đó rất lớn đang thức dậy."*
+
 ## XI. Quan Hệ Thế Lực (势力关系)
 - **Thạch Tâm Thủ Hộ Đoàn:** Đoàn biết về sự tồn tại của thung lũng nhưng tôn trọng quyết định ẩn cư. Quan hệ xa cách nhưng có tình đồng tộc, đôi khi Đoàn gửi tin về biến động bên ngoài vào thung lũng qua cách để lại dấu hiệu trên đá gần lối vào.
 - **Thạch Linh Đồng Tử Hội:** Các trưởng lão biết về bọn trẻ Thạch Tộc ở mỏ đá gần đó và lặng lẽ quan sát từ xa. Muốn bảo vệ nhưng không thể tiết lộ vị trí thung lũng, nên chỉ đành giữ khoảng cách.
