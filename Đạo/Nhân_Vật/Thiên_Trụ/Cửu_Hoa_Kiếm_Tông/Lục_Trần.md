@@ -44,6 +44,15 @@ arcs:
           tin: -90
           so: 5
           on: -100
+      - character: Đoạn Kiếm Sinh
+        description: Sư đệ năm xưa bị trục xuất khỏi tông môn, hiện là Đường Chủ Trục Khách Đường, ông từng cố bảo vệ nhưng bất lực
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 20
+          tin: 15
+          so: 0
+          on: -20
 ---
 
 # LỤC TRẦN (陸塵)
@@ -90,6 +99,7 @@ arcs:
 - **Diệp Tĩnh Sương** (Đệ tử): Đệ tử ưu tú, kỳ vọng kế thừa
 - **Diệp Thanh Y** (Đồng minh): Bạn vong niên, đồng minh lâu năm
 - **Độc Cô Lão Quái** (Kẻ thù): Kẻ thù quấy nhiễu tông môn
+- **Đoạn Kiếm Sinh** (Sư đệ cũ): Sư đệ năm xưa bị trục xuất, hiện là Đường Chủ Trục Khách Đường
 - **[Diệp Thanh Y](../Nhân_Vật/Diệp_Thanh_Y.md) (Dược Vương Cốc):**
 - **[Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md) (Đệ Tử):**
 - **[Độc Cô Lão Quái](../Nhân_Vật/Độc_Cô_Lão_Quái.md) (Kẻ Thù):**
