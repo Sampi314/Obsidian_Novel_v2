@@ -32,9 +32,13 @@ Kình Lôi Âm sở hữu thân hình lực lưỡng, cường tráng tựa như
 Lôi Âm là một cỗ xe tăng của biển cả, sử dụng **Chấn Lôi Kình Kích (震雷鯨擊)** để giải phóng năng lượng siêu âm nén, tạo ra những đợt sóng xung kích cực mạnh hất văng mọi chướng ngại vật. Hắn cũng thông thạo **Kình Giáp Kim Thân (鯨甲金身)**, biến lớp da thành tấm khiên kiên cố chặn đứng linh khí hay binh khí. Điểm yếu lớn nhất của hắn là sự chậm chạp trong di chuyển và phản xạ trước các đòn đánh mưu mẹo, thường dùng lực áp đảo hơn là kỹ xảo.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Kình Hải Âm Thiên** (Sư đồ): Kình Hải Âm Thiên chỉ dẫn Kình Lôi Âm trong Kình Ngư Bộ Lạc
+- **Kình Thiên Hải Vương** (Chủ tớ): Thủ hạ trung thành trong Kình Ngư Bộ Lạc
+- **Kình Thiên Hải Vương** (Cấp dưới): Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc
+- **Kình Mẫu Từ** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
+- **Kình Ngân Hải Thiên** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
 - **Kình Hải Âm Thiên (Ca Sĩ):** Đồng minh thân thiết; thường xuyên dùng cơ thể che chắn cho nàng trong các cuộc giao tranh.
 - **Kình Thiên Hải Vương (Tộc Trưởng):** Lòng trung thành tuyệt đối, Lôi Âm coi Hải Vương như kim chỉ nam cho lưỡi kiếm của mình.
 - **Hắc Hải Hải Tặc (Đối thủ):** Kẻ thù không đội trời chung, Lôi Âm hận chúng tận xương tủy vì những hành vi săn trộm bầy cá voi.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lôi Âm sinh ra trong một ngày bão lớn, và ngay từ nhỏ đã bộc lộ thiên tư võ thuật xuất chúng. Khi còn là một chiến binh trẻ, hắn từng đơn thương độc mã chống lại ba chiếc thuyền săn của Hắc Hải Hải Tặc để bảo vệ một con cá voi mẹ đang sinh nở, và mặc dù suýt mất mạng nhưng đã thành danh. Kể từ đó, hắn được thăng lên làm Hộ Vệ Trưởng. Hiện tại, Lôi Âm mang hoài bão tìm ra và tiêu diệt triệt để nguồn gốc lũ hải tặc đang liên tục quấy rối lộ trình di cư của bộ lạc.
