@@ -38,10 +38,11 @@ Tu vi Trúc Cơ Sơ Kỳ — mạnh nhất trong đoàn nhưng yếu so với th
 - Điểm yếu hiển nhiên là tu vi quá thấp và mỗi lần chiến đấu đều đánh đổi bằng sinh mệnh. Hắn gần như không bao giờ chiến đấu trừ khi cả đoàn bị đe dọa.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hỏa Tàn Hoa:** Y Sư của đoàn và cũng là người mà Tàn Viêm tin tưởng nhất. Cô liên tục cảnh báo hắn ngừng chia lửa lực cho người khác nếu không muốn chết, nhưng hắn không bao giờ nghe.
+- **Hỏa Tàn Hoa** (Sư phụ): Y Sư của đoàn và cũng là người mà Tàn Viêm tin tưởng nhất. Cô liên tục cảnh báo hắn ngừng chia lửa lực cho người khác nếu không muốn chết, nhưng hắn không bao giờ nghe.
+- **Hỏa Thiên Viêm Sơn** (Đồng minh): Đồng liêu cùng Hỏa Yêu Tàn Đoàn, hỗ trợ lẫn nhau
+- **Hỏa Tinh** (Sư phụ): Hỏa Tàn Viêm chỉ dẫn Hỏa Tinh trong Hỏa Yêu Tàn Đoàn
 - **Lão Hỏa:** Trưởng lão già nhất, kho tàng ký ức sống mà Tàn Viêm luôn lắng nghe để tìm manh mối về Hỏa Hạch — viên hạch lửa truyền thuyết có thể cứu cả chủng tộc.
 - **Hỏa Diễm Công Phường:** Đối tác trao đổi than linh duy nhất, Tàn Viêm duy trì mối quan hệ này bằng sự khiêm nhường và kiên nhẫn dù biết họ đang ép giá.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hỏa Tàn Viêm sinh ra khi bộ tộc Hỏa Yêu đã suy tàn nghiêm trọng — ngọn lửa khi hắn chào đời nhỏ đến mức các trưởng lão tưởng hắn sẽ tắt trong vài ngày. Nhưng ngọn lửa nhỏ bé ấy kiên cường cháy suốt, từ từ lớn lên trong khi nhiều Hỏa Yêu xung quanh dần tắt đi vĩnh viễn.
 

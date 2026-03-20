@@ -42,9 +42,15 @@ Giới Trần sở hữu thân hình vạm vỡ, cao lớn như một tòa tháp
 Lão là một trong những chiến tăng mạnh nhất của Đạt Ma Viện, sở hữu phong cách chiến đấu đại khai đại hợp, dũng mãnh vô song. Tuyệt kỹ "Phá Giới Kim Cương Quyền" (破戒金刚拳) kết hợp với pháp lực kim hệ và thể phách kim cang tạo ra những cú đấm có thể nát đá vụn kim, dễ dàng xuyên thủng phòng ngự của kẻ thù. Điểm yếu của lão là thiếu đi sự linh hoạt tinh tế và dễ bị kích động, khiến lão đôi khi lọt vào những bẫy rập xảo quyệt của ma tu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Không Độ:** Sư huynh kiêm người lãnh đạo. Giới Trần luôn kính trọng Không Độ nhưng thỉnh thoảng vẫn cằn nhằn vì cho rằng trụ trì quá mức khoan dung.
-- **Huệ Minh:** Sư đệ. Hai người thường xuyên khắc khẩu do khác biệt quan điểm: một người trọng thực chiến và diệt ma, người kia lại tôn sùng việc nghiên cứu kinh văn và thiền định.
+- **Pháp Không** (Gia tộc): Sư điệt, lão coi như con trai nhưng lo lắng vì sát khí quá nặng
+- **Kim Cương** (Sư phụ): Giới Trần dẫn dắt Kim Cương trong Kim Sa Tự
+- **Minh Ngộ** (Sư phụ): Giới Trần dẫn dắt Minh Ngộ trong Kim Sa Tự
+- **Phổ Tế** (Sư phụ): Giới Trần dẫn dắt Phổ Tế trong Kim Sa Tự
+- **Tịnh Tâm** (Sư phụ): Giới Trần dẫn dắt Tịnh Tâm trong Kim Sa Tự
+- **Viên Thông** (Sư phụ): Giới Trần dẫn dắt Viên Thông trong Kim Sa Tự
+- **Huệ Minh** (Đồng minh): Sư đệ. Hai người thường xuyên khắc khẩu do khác biệt quan điểm: một người trọng thực chiến và diệt ma, người kia lại tôn sùng việc nghiên cứu kinh văn và thiền định.
+- **Không Độ** (Đồng minh): Sư huynh kiêm người lãnh đạo. Giới Trần luôn kính trọng Không Độ nhưng thỉnh thoảng vẫn cằn nhằn vì cho rằng trụ trì quá mức khoan dung.
+- **Thiện Nhẫn** (Chủ tớ): Thiện Nhẫn quản lý Giới Trần trong Kim Sa Tự
 - **Hắc Phong Đại Vương:** Kẻ thù không đội trời chung. Giới Trần đã nhiều lần truy quét băng nhóm sa tặc này nhưng chưa thể nhổ cỏ tận gốc.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Giới Trần vốn là một cô nhi sống sót sau một trận tàn sát của sa tặc, được Không Độ cứu về Kim Sa Tự và nuôi dưỡng từ nhỏ. Mối thù gia đình khiến lão ôm hận với cái ác, do đó thay vì dốc lòng vào kinh Phật, lão dành toàn bộ tâm trí cho việc rèn luyện thể phách và chiến kỹ tại Đạt Ma Viện. Mặc dù tu vi dừng lại ở Nguyên Anh Trung Kỳ do tâm tính còn nhiều vướng bận sát khí, Giới Trần vẫn là thanh kiếm sắc bén nhất của tự viện. Mục tiêu lớn nhất của lão hiện tại là quét sạch tận gốc bọn sa tặc và ma tu đang hoành hành tại Tây Mạc, mang lại bình yên thực sự cho người dân.

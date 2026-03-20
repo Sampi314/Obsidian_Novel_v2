@@ -38,10 +38,12 @@ Tu vi Luyện Khí Trung Kỳ, Hỏa Tàn Hoa hoàn toàn không có khả năng
 - Nếu bị tấn công, cô chỉ có thể phóng ra luồng hơi nóng yếu ớt để tự vệ, không đủ sức gây thương tích cho bất kỳ tu sĩ nào.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hỏa Tàn Viêm:** Đoàn Trưởng mà cô vừa lo lắng vừa bất lực. Cô biết rõ hắn đang chết dần vì liên tục chia lửa lực cho đồng tộc, nhưng không thể ngăn cản vì chính cô cũng đang làm điều tương tự.
+- **Hỏa Nham Dung** (Đồng minh): Đồng liêu cùng Hỏa Yêu Tàn Đoàn, hỗ trợ lẫn nhau
+- **Hỏa Thiên Viêm Sơn** (Chủ tớ): Thủ hạ trung thành trong Hỏa Yêu Tàn Đoàn
+- **Hỏa Tinh** (Đồng minh): Đồng liêu cùng Hỏa Yêu Tàn Đoàn, hỗ trợ lẫn nhau
+- **Hỏa Tàn Viêm** (Sư phụ): Đoàn Trưởng mà cô vừa lo lắng vừa bất lực. Cô biết rõ hắn đang chết dần vì liên tục chia lửa lực cho đồng tộc, nhưng không thể ngăn cản vì chính cô cũng đang làm điều tương tự.
 - **Lão Hỏa:** Trưởng lão mà cô chăm sóc hàng ngày. Ngọn lửa của Lão Hỏa đã yếu đến mức gần như trong suốt, và Tàn Hoa là người duy nhất giữ cho ông không tắt bằng Ôn Hỏa Dưỡng Linh.
 - **Các Hỏa Yêu trẻ:** Cô đóng vai mẹ và y sư cho sáu Hỏa Yêu con sinh ra trong mười năm gần đây — những ngọn lửa bé xíu yếu ớt mà cô thề sẽ bảo vệ bằng mọi giá.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hỏa Tàn Hoa sinh ra với ngọn lửa bất thường — thay vì đỏ rực, lửa của cô có sắc hồng cam dịu dàng và tự nở thành hình bông hoa, điều chưa từng xuất hiện trong lịch sử bộ tộc. Lão Hỏa cho rằng đây là dấu hiệu của "Dưỡng Hỏa Linh" — loại Hỏa Yêu hiếm hoi chuyên chữa lành thay vì thiêu đốt, chỉ xuất hiện khi chủng tộc đối mặt với nguy cơ diệt vong.
 
