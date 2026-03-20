@@ -60,7 +60,7 @@ Dù chuyên tu y đạo, Liên Tuyết Nhi vẫn sở hữu khả năng chiến 
 - **Lý Tiểu Liên:** Đứa trẻ hoạt bát được nàng nuôi nấng và bảo vệ như em gái nhỏ.
 - **Băng Tằm Ti Phường (Thế lực):** Đối tác lâu năm, nàng thường giao dịch dược thảo lấy tơ Băng Tằm để nghiên cứu đan dược.
 - **Kình Băng Hải** (Đồng minh): Phường Chủ Tuyết Liên Dược Phường, đối tác trao đổi dược liệu biển-đất
-- **Hạc Băng Lông** (Đồng minh): Đối tác cung cấp tơ Băng Tằm, quan hệ thương mại nhưng nể phục nhau
+- **Hạc Băng Ngọc** (Đồng minh): Đối tác cung cấp tơ Băng Tằm, quan hệ thương mại nhưng nể phục nhau
 - **Trần Sơn Nhi** (Chủ nhân): Phường Chủ, người cứu mạng và cho mục đích sống, kính trọng tuyệt đối
 
 ## V. TIỂU SỬ & HÀNH TRÌNH

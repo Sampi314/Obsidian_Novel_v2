@@ -30,12 +30,12 @@
 
 - [Thạch Cửu Sơn (石九山)](Cổ_Thạch_Bộ_Lạc/Thạch_Cửu_Sơn.md)
 - [Thạch Lôi (石雷)](Cổ_Thạch_Bộ_Lạc/Thạch_Lôi.md)
-- [Thạch Lôi Chùy (石雷錘)](Cổ_Thạch_Bộ_Lạc/Thạch_Lôi_Chùy.md)
+- [Thạch Lôi Chấn (石雷震)](Cổ_Thạch_Bộ_Lạc/Thạch_Lôi_Chấn.md)
 - [Thạch Thiên Trùy (石天錘)](Cổ_Thạch_Bộ_Lạc/Thạch_Thiên_Trùy.md)
 
 ## Cổ Tích Cự Nhân Thức Tỉnh (古迹巨人觉醒) — 1
 
-- [Vân Đỉnh Trưởng Lão (雲頂長老)](Cổ_Tích_Cự_Nhân_Thức_Tỉnh/Vân_Đỉnh_Trưởng_Lão.md)
+- [Cổ Vân Đỉnh (古云顶)](Cổ_Tích_Cự_Nhân_Thức_Tỉnh/Cổ_Vân_Đỉnh.md)
 
 ## Cửu Hoa Kiếm Tông (九花劍宗) — 1
 
@@ -69,8 +69,8 @@
 - [Phượng Kim Sí (鳳金翅)](Cực_Quang_Thần_Điện/Phượng_Kim_Sí.md)
 - [Phượng Thiên Dực (鳳天翼)](Cực_Quang_Thần_Điện/Phượng_Thiên_Dực.md)
 - [Phượng Tiêu (鳳簫)](Cực_Quang_Thần_Điện/Phượng_Tiêu.md)
-- [Quạ Huyết Dực Ma (鴉血翼魔)](Cực_Quang_Thần_Điện/Quạ_Huyết_Dực_Ma.md)
-- [Quạ Hắc Cánh (鴉黑翅)](Cực_Quang_Thần_Điện/Quạ_Hắc_Cánh.md)
+- [Quạ Huyết Linh (鸦血灵)](Cực_Quang_Thần_Điện/Quạ_Huyết_Linh.md)
+- [Quạ Hắc Dạ (鸦黑夜)](Cực_Quang_Thần_Điện/Quạ_Hắc_Dạ.md)
 - [Yến Phi (燕飛)](Cực_Quang_Thần_Điện/Yến_Phi.md)
 - [Yến Tiểu Tiểu (燕小小)](Cực_Quang_Thần_Điện/Yến_Tiểu_Tiểu.md)
 - [Ưng Liệt Phong (鷹烈風)](Cực_Quang_Thần_Điện/Ưng_Liệt_Phong.md)
@@ -94,9 +94,9 @@
 ## Lông Vũ Phường (羽毛坊) — 5
 
 - [Công Diệu Thủ (孔妙手)](Lông_Vũ_Phường/Công_Diệu_Thủ.md)
-- [Công Kim Lông (孔金翎)](Lông_Vũ_Phường/Công_Kim_Lông.md)
+- [Công Kim Hoa (孔金花)](Lông_Vũ_Phường/Công_Kim_Hoa.md)
 - [Công Thái Vũ (孔彩羽)](Lông_Vũ_Phường/Công_Thái_Vũ.md)
-- [Hạc Tuyết Lông (鶴雪翎)](Lông_Vũ_Phường/Hạc_Tuyết_Lông.md)
+- [Hạc Tuyết Nhi (鹤雪儿)](Lông_Vũ_Phường/Hạc_Tuyết_Nhi.md)
 - [Tước Thanh (雀青)](Lông_Vũ_Phường/Tước_Thanh.md)
 
 ## Thiên Kiêu Học Viện (天骄学院) — 11

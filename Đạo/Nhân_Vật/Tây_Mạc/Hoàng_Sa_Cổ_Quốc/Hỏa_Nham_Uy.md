@@ -1,7 +1,7 @@
 ---
 type: character
-name: Hỏa Nham Đại Tướng
-hantu: 火岩大將
+name: Hỏa Nham Uy
+hantu: 火岩威
 archetype: Chiến Tướng
 race: Cự Tộc
 origin: Tây Mạc
@@ -17,10 +17,10 @@ arcs:
     relationships: []
 ---
 
-# HỒ SƠ NHÂN VẬT: HỎA NHAM ĐẠI TƯỚNG (火岩大將)
+# HỒ SƠ NHÂN VẬT: HỎA NHAM UY (火岩威)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Họ Tên:** Hỏa Nham Đại Tướng (火岩大將).
+- **Họ Tên:** Hỏa Nham Uy (火岩威).
 - **Chủng Tộc:** Cự Tộc.
 - **Tu Vi:** Nguyên Anh Sơ Kỳ.
 - **Khu Vực:** Tây Mạc.

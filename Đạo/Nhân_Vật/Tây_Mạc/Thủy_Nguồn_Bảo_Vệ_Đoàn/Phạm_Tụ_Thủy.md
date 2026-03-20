@@ -42,7 +42,7 @@ Với tu vi Trúc Cơ Viên Mãn, Phạm Tụ Thủy không phải chiến đấ
 ## IV. CÁC MỐI QUAN HỆ
 - **Lý Thủy Nguyên:** Viện Chủ Thủy Nguyên Viện và cũng là sư phụ trực tiếp dạy hắn Sa Hải Tụ Thủy Thuật. Hắn vô cùng kính trọng sư phụ và mong ngày nào đó kế thừa vị trí Viện Chủ.
 - **Hàn Thủy:** Đoàn Trưởng mà hắn ngưỡng mộ từ xa, tuy ít khi trực tiếp tiếp xúc nhưng hắn coi y là tấm gương về việc dùng thủy hệ bảo vệ mọi người.
-- **Sơn Thủ Hộ:** Hộ Pháp Cự Nhân thường được phái đi cùng hắn khi hắn ra ngoài ốc đảo tìm mạch nước mới, đóng vai hộ vệ. Hai người tuy ít nói chuyện nhưng phối hợp ăn ý.
+- **Sơn Minh Hà:** Hộ Pháp Cự Nhân thường được phái đi cùng hắn khi hắn ra ngoài ốc đảo tìm mạch nước mới, đóng vai hộ vệ. Hai người tuy ít nói chuyện nhưng phối hợp ăn ý.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Tụ Thủy là con trai một thương nhân buôn nước lưu động trên sa mạc. Từ nhỏ hắn theo cha đi khắp Tây Mạc, học được cách nhận biết dấu hiệu của mạch nước ngầm qua màu sắc cát và hướng gió. Khi cha hắn bị Sa Tặc cướp sạch hàng hóa và bỏ mặc chết khát giữa sa mạc, hắn một mình tìm đường về được ốc đảo Thanh Lương nhờ bản năng tìm nước thiên bẩm.

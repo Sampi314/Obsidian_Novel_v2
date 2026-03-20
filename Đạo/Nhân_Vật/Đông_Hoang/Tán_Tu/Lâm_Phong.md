@@ -61,8 +61,8 @@ arcs:
 ## IV. CÁC MỐI QUAN HỆ
 - **Cuồng Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
 - **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
-- **Hoang Sơn Ẩn Sĩ** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
-- **Hắc Thiết Giáp** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Hoang Sơn Mặc** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Hắc Thiết Nham** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
 - **Liệt Quyền** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
 - **Quạ Hắc Dạ** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
 - **Tàn Dực** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
@@ -70,7 +70,7 @@ arcs:
 - **Ưng Dã Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
 - **Ưng Nham Trảo** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
 - **Liệt Quyền** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
-- **Hắc Thiết Giáp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Hắc Thiết Nham** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
 - **Tàn Dực** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
 - **Ưng Nham Trảo** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
 - **Ngô Công Trưởng Lão** (Đồng minh): Enemy — murderous hatred

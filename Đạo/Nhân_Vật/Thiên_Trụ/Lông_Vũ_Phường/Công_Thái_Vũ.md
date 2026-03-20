@@ -35,11 +35,11 @@ Sử dụng các loại màu nhuộm chứa độc tính hoặc mộc linh lực
 
 ## IV. CÁC MỐI QUAN HỆ
 - **Công Diệu Thủ** (Đồng minh): Đồng liêu cùng Lông Vũ Phường, hỗ trợ lẫn nhau
-- **Công Kim Lông** (Sư đồ): Công Kim Lông chỉ dẫn Công Thái Vũ trong Lông Vũ Phường
-- **Công Kim Lông** (Cấp dưới): Phục tùng Công Kim Lông, Phường Chủ của Lông Vũ Phường
-- **Hạc Tuyết Lông** (Sư đồ): Công Thái Vũ chỉ dẫn Hạc Tuyết Lông trong Lông Vũ Phường
+- **Công Kim Hoa** (Sư đồ): Công Kim Hoa chỉ dẫn Công Thái Vũ trong Lông Vũ Phường
+- **Công Kim Hoa** (Cấp dưới): Phục tùng Công Kim Hoa, Phường Chủ của Lông Vũ Phường
+- **Hạc Tuyết Nhi** (Sư đồ): Công Thái Vũ chỉ dẫn Hạc Tuyết Nhi trong Lông Vũ Phường
 - **Tước Thanh** (Sư đồ): Công Thái Vũ chỉ dẫn Tước Thanh trong Lông Vũ Phường
-- **Công Kim Lông:** Phục tùng và nghe lệnh Phường Chủ Kim Lông, nhưng thỉnh thoảng vẫn lén lút giấu lại những chiếc lông vũ nhuộm hiếm để trục lợi riêng.
+- **Công Kim Hoa:** Phục tùng và nghe lệnh Phường Chủ Kim Lông, nhưng thỉnh thoảng vẫn lén lút giấu lại những chiếc lông vũ nhuộm hiếm để trục lợi riêng.
 - **Công Diệu Thủ:** Rất thích trêu chọc Diệu Thủ vì sự cầu toàn thái quá của y, nhưng lại phối hợp làm việc vô cùng ăn ý để tạo ra các tác phẩm giá trị cao.
 - **Phá Băng Thương Đội:** Thường xuyên giao thương và đàm phán trực tiếp với các thương nhân của Phá Băng, có mạng lưới quan hệ rộng rãi trong giới buôn bán.
 ## V. TIỂU SỬ & HÀNH TRÌNH

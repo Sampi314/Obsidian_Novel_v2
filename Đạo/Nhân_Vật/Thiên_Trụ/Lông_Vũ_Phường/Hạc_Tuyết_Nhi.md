@@ -1,7 +1,7 @@
 ---
 type: character
-name: Hạc Tuyết Lông
-hantu: 鶴雪翎
+name: Hạc Tuyết Nhi
+hantu: 鹤雪儿
 archetype: Dệt Sư
 race: Vũ Tộc
 lingan: Phong Linh Căn (Thuần Phong — Biến dị Tuyết Vũ Thể)
@@ -25,7 +25,7 @@ arcs:
         type: Linh Khí
     stats: [400, 1200, 800, 600, 500, 1400]
     relationships:
-      - character: Công Kim Lông
+      - character: Công Kim Hoa
         description: Phường Chủ, bậc tiền bối mà nàng kính trọng sâu sắc và học hỏi kỹ thuật giáp vũ
         feelings:
           yeu: 30
@@ -63,10 +63,10 @@ arcs:
           on: 15
 ---
 
-# HỒ SƠ NHÂN VẬT: HẠC TUYẾT LÔNG (鶴雪翎)
+# HỒ SƠ NHÂN VẬT: HẠC TUYẾT NHI (鹤雪儿)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Họ Tên:** Hạc Tuyết Lông (鶴雪翎).
+- **Họ Tên:** Hạc Tuyết Nhi (鹤雪儿).
 - **Danh Hiệu:** Tuyết Dệt Nương (雪織娘), Bạch Vũ Tiên Thủ (白羽仙手).
 - **Tuổi/Thọ Nguyên:** 180/500 tuổi.
 - **Chủng Tộc:** Vũ Tộc (Hạc).
@@ -98,7 +98,7 @@ arcs:
     - Sinh ra trong một nhánh Hạc tộc nhỏ sống trên đỉnh núi tuyết phía bắc Thiên Trụ Sơn. Gia đình nàng thuộc dòng Tuyết Hạc — loài hạc chuyên sống ở vùng giá lạnh, lông vũ trắng tinh có khả năng chống rét phi thường.
     - Từ nhỏ nàng đã có thói quen kỳ lạ: nhặt mọi chiếc lông vũ rụng mà nàng tìm thấy — lông hạc, lông chim sẻ, lông đại bàng — và thử đan chúng lại với nhau bằng tay không. Gia đình coi đó là hành vi kỳ quặc vô ích.
 - **Gia Nhập Lông Vũ Phường:**
-    - Năm tám mươi tuổi, khi tin đồn về Lông Vũ Phường — nơi biến lông vũ rụng thành bảo vật — lan đến vùng tuyết sơn, nàng lập tức rời bỏ gia đình tìm đến. Công Kim Lông kiểm tra tay nghề nàng: trao cho nàng mười chiếc lông vũ khác loài và một canh giờ. Nàng dệt ra một bông hoa tuyết nhỏ hoàn hảo — Phường Chủ gật đầu thu nhận ngay.
+    - Năm tám mươi tuổi, khi tin đồn về Lông Vũ Phường — nơi biến lông vũ rụng thành bảo vật — lan đến vùng tuyết sơn, nàng lập tức rời bỏ gia đình tìm đến. Công Kim Hoa kiểm tra tay nghề nàng: trao cho nàng mười chiếc lông vũ khác loài và một canh giờ. Nàng dệt ra một bông hoa tuyết nhỏ hoàn hảo — Phường Chủ gật đầu thu nhận ngay.
     - Một trăm năm trong phường, nàng học hỏi từ cả ba tiền bối — kỹ thuật đan từ Diệu Thủ, kỹ thuật giáp từ Kim Lông, kỹ thuật phối màu từ Thái Vũ — và phát triển phong cách riêng: "dệt bằng tuyết vũ."
 - **Thành Tựu Nổi Bật:**
     - Tạo ra "Tuyết Vũ Khinh Y" — áo choàng nhẹ nhất từng được dệt trong lịch sử phường, nặng chỉ bằng mười chiếc lá, nhưng có khả năng chắn gió và giữ ấm tương đương pháp bảo cấp Huyền. Tác phẩm này đã khiến giới nữ tu sĩ Thiên Trụ tranh nhau đặt hàng.
@@ -117,7 +117,7 @@ arcs:
 
 ## VI. QUAN HỆ
 - **Sư Phụ & Tiền Bối:**
-    - **Công Kim Lông (Phường Chủ):** Nàng kính trọng sâu sắc, coi ông là hình mẫu lý tưởng của người thợ — kiên trì, nghiêm khắc, và luôn theo đuổi sự hoàn hảo. Nàng hy vọng một ngày dệt được tấm áo choàng xứng đáng làm quà tặng ông.
+    - **Công Kim Hoa (Phường Chủ):** Nàng kính trọng sâu sắc, coi ông là hình mẫu lý tưởng của người thợ — kiên trì, nghiêm khắc, và luôn theo đuổi sự hoàn hảo. Nàng hy vọng một ngày dệt được tấm áo choàng xứng đáng làm quà tặng ông.
     - **Công Diệu Thủ:** Người dạy nàng nhiều nhất về kỹ thuật đan — nàng biết ơn sự tỉ mỉ kiên nhẫn của tiền bối, và thừa hưởng cả tính cầu toàn đôi khi cực đoan.
     - **Công Thái Vũ:** Nàng ngưỡng mộ sự sáng tạo và khéo léo xã giao của Thái Vũ, nhưng không thích cách nàng ta đôi khi ưu tiên lợi nhuận hơn chất lượng.
 - **Bạn Tri Kỷ:**

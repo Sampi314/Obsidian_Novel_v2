@@ -36,8 +36,8 @@ Tước Lâm tu luyện Mộc Linh Sinh Trưởng Thuật (木靈生長術) — 
 - **Cuồng Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
 - **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
 - **Lâm Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
-- **Hắc Thiết Giáp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
-- **Hoang Sơn Ẩn Sĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Hắc Thiết Nham** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Hoang Sơn Mặc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Quạ Hắc Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Liệt Quyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Ưng Dã Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu

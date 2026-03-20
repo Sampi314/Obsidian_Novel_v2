@@ -38,7 +38,7 @@ arcs:
           tin: 90
           so: 0
           on: 40
-      - character: Nham Cự Lực
+      - character: Nham Hùng Bách
         description: Chiến hữu đáng tin cậy, gã cùng hắn chia sẻ trách nhiệm bảo vệ đội
         feelings:
           yeu: 25
@@ -164,7 +164,7 @@ arcs:
 - **Thạch Khai Sơn — Anh Họ & Đội Trưởng:**
     - Mối quan hệ phức tạp nhất trong cuộc đời Thiết Chùy. Hắn vừa ngưỡng mộ vừa lo lắng, vừa tin tưởng vừa bực bội. Ngưỡng mộ vì Khai Sơn có thứ mà hắn không có — lửa trong mắt, khả năng khiến người ta sẵn sàng chết vì mình. Lo lắng vì hắn thấy rõ nhất sự ngạo mạn và liều lĩnh đang dần trở thành thói quen nguy hiểm. Hắn là người duy nhất dám nói thẳng: *"Anh không phải bất tử. Đừng chiến đấu như thể anh bất tử."* Khai Sơn thường gạt đi bằng tiếng cười — nhưng Thiết Chùy để ý rằng sau mỗi lần hắn cảnh báo, Khai Sơn sẽ cẩn thận hơn một chút, dù chỉ trong vài ngày. Đó là đủ.
     - Sâu trong lòng, Thiết Chùy biết rằng nếu Khai Sơn chết, đội sẽ tan rã — vì không ai khác có khả năng giữ chân mười một người giữa vùng tử địa bằng ý chí thuần túy. Và điều đó có nghĩa là tất cả mọi thứ — em gái ở Lạc Đoàn, giấc mơ về vùng đất mới, hai năm gian khổ — sẽ trở thành vô nghĩa. Vì thế, hắn bảo vệ Khai Sơn không phải vì tình cảm (dù tình cảm có), mà vì logic: giữ Khai Sơn sống = giữ mọi thứ sống.
-- **Nham Cự Lực — Chiến Hữu & Đối Trọng Tính Cách:**
+- **Nham Hùng Bách — Chiến Hữu & Đối Trọng Tính Cách:**
     - Cự Lực đơn giản, Thiết Chùy phức tạp — nhưng chính vì vậy mà hai người bổ sung nhau. Cự Lực xông vào đánh trước, Thiết Chùy đứng sau chặn hậu. Cự Lực không bao giờ nghĩ đến chuyện rút lui, Thiết Chùy lúc nào cũng có kế hoạch rút lui sẵn. Họ không thân thiết kiểu tri kỷ uống rượu bên lửa trại — quan hệ của họ thuần túy là đồng đội tin tưởng nhau trên chiến trường. Cự Lực tin Thiết Chùy sẽ giữ trại khi gã ra ngoài, Thiết Chùy tin Cự Lực sẽ phá đường khi đội cần tiến. Đơn giản, hiệu quả, không cần lời nói.
 - **Thạch Tiểu Sơn — Bác Nuôi & Người Giao Phó:**
     - Tiểu Sơn không chỉ nuôi dưỡng Thiết Chùy — ông giao cho hắn một nhiệm vụ không ai nói ra nhưng cả hai đều hiểu: giữ Khai Sơn sống. Khi Thiết Chùy hỏi *"Không đi thì ai giữ nó?"* và Tiểu Sơn im lặng gật đầu — đó là giao ước không lời giữa hai thế hệ: ông già giao con nuôi cho đứa cháu đáng tin nhất, vì ông biết mình không thể đi theo. Thiết Chùy mang giao ước ấy như mang tấm giáp đá trước ngực — nặng, nhưng không bao giờ tháo.

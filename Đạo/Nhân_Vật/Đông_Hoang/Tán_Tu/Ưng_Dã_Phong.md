@@ -37,7 +37,7 @@ arcs:
 - **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
 - **Lâm Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
 - **Quạ Hắc Dạ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
-- **Hắc Thiết Giáp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Hắc Thiết Nham** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
 - **Tàn Dực** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
 - **Liệt Quyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Tước Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu

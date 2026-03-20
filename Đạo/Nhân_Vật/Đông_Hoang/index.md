@@ -586,7 +586,7 @@
 - [Lê Trấn Sơn (黎鎮山)](Thiên_Trụ_Hộ_Vệ_Đoàn/Lê_Trấn_Sơn.md)
 - [Lý Vô Nhai (李無涯)](Thiên_Trụ_Hộ_Vệ_Đoàn/Lý_Vô_Nhai.md)
 - [Nguyễn Trấn Quan (阮鎮關)](Thiên_Trụ_Hộ_Vệ_Đoàn/Nguyễn_Trấn_Quan.md)
-- [Nham Cự Lực (岩巨力)](Thiên_Trụ_Hộ_Vệ_Đoàn/Nham_Cự_Lực.md)
+- [Nham Trấn Sơn (岩镇山)](Thiên_Trụ_Hộ_Vệ_Đoàn/Nham_Trấn_Sơn.md)
 - [Phạm Thiết Thành (范鐵城)](Thiên_Trụ_Hộ_Vệ_Đoàn/Phạm_Thiết_Thành.md)
 - [Trần Thiên Giáp (陳天甲)](Thiên_Trụ_Hộ_Vệ_Đoàn/Trần_Thiên_Giáp.md)
 - [Trần Tiểu Binh (陳小兵)](Thiên_Trụ_Hộ_Vệ_Đoàn/Trần_Tiểu_Binh.md)
@@ -755,8 +755,8 @@
 
 - [Cuồng Nham (狂岩)](Tán_Tu/Cuồng_Nham.md)
 - [Diệp Tĩnh Sương (葉靜霜)](Tán_Tu/Diệp_Tĩnh_Sương.md)
-- [Hoang Sơn Ẩn Sĩ (荒山隱士)](Tán_Tu/Hoang_Sơn_Ẩn_Sĩ.md)
-- [Hắc Thiết Giáp (黑鐵甲)](Tán_Tu/Hắc_Thiết_Giáp.md)
+- [Hoang Sơn Mặc (荒山默)](Tán_Tu/Hoang_Sơn_Mặc.md)
+- [Hắc Thiết Nham (黑铁岩)](Tán_Tu/Hắc_Thiết_Nham.md)
 - [Liệt Quyền (裂拳)](Tán_Tu/Liệt_Quyền.md)
 - [Lâm Phong (林風)](Tán_Tu/Lâm_Phong.md)
 - [Quạ Hắc Dạ (鴉黑夜)](Tán_Tu/Quạ_Hắc_Dạ.md)
@@ -784,7 +784,7 @@
 
 ## Vu Tộc Chiếu Cáo (巫族祭坛) — 5
 
-- [Cương Chiến Sĩ (鋼戰士)](Vu_Tộc_Chiếu_Cáo/Cương_Chiến_Sĩ.md)
+- [Cương Hổ Phong (刚虎风)](Vu_Tộc_Chiếu_Cáo/Cương_Hổ_Phong.md)
 - [Nham Tiểu Vu (岩小巫)](Vu_Tộc_Chiếu_Cáo/Nham_Tiểu_Vu.md)
 - [Nham Vu Huyết (岩巫血)](Vu_Tộc_Chiếu_Cáo/Nham_Vu_Huyết.md)
 - [Sơn Vu Cốt (山巫骨)](Vu_Tộc_Chiếu_Cáo/Sơn_Vu_Cốt.md)

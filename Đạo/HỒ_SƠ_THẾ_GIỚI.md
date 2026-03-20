@@ -696,7 +696,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Thủy Tinh Thạch Phường (Tây Mạc):** Hoàn thiện hồ sơ chi tiết cho Phường Chủ Tinh Minh, cùng 2 Thợ Cả là Tinh Sắc và Tinh Thấu. Phe phái Thạch Tộc này hiện đang chịu sự áp bức của Thiên Sa Thương Hội và đang tìm cách thoát khỏi sự kìm kẹp.
 
 ### Cổ Thạch Bộ Lạc (Thiên Trụ & Tây Mạc)
-- Thiên Trụ - Bổ sung chi tiết: **Thạch Cửu Sơn** (Tộc Trưởng khổng lồ, điềm tĩnh, Bất Diệt Thạch Thể), **Thạch Lôi Chùy** (Chiến tướng nghiêm nghị, sử dụng búa vạn cân), **Thạch Lôi** (Chiến sĩ trẻ tuổi, thân đầy lôi điện, nhiệt huyết sôi nổi).
+- Thiên Trụ - Bổ sung chi tiết: **Thạch Cửu Sơn** (Tộc Trưởng khổng lồ, điềm tĩnh, Bất Diệt Thạch Thể), **Thạch Lôi Chấn** (Chiến tướng nghiêm nghị, sử dụng búa vạn cân), **Thạch Lôi** (Chiến sĩ trẻ tuổi, thân đầy lôi điện, nhiệt huyết sôi nổi).
 - Tây Mạc - Bổ sung chi tiết: **Ngọc Thạch** (Trưởng Lão ngọc bích trang nghiêm, trí tuệ), **Nham Phong** (Trưởng Lão nham thạch đen hiếu chiến, sức mạnh pháo đài sống), **Nham Trầm** (Trưởng Lão sa thạch kết khối trầm mặc, bậc thầy thao túng địa hình).
 
 ### Lôi Trì Thánh Địa (Thiên Trụ)
@@ -710,7 +710,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hồ Thương:** Thương Nhân Trúc Cơ Hậu Kỳ, khôn ngoan và thực dụng. Là một tên cò mồi đắc lực cho Lâm Vạn Hóa, chuyên tuồn linh thảo hiếm từ Nam Cương.
 
 - **Lông Vũ Phường (Thiên Trụ):**
-  - **Công Kim Lông:** Phường Chủ Nguyên Anh Sơ Kỳ, vóc dáng cao gầy, khoác "Kim Vũ Lăng Giáp". Dệt áo giáp lông vũ phòng thủ tuyệt luân.
+  - **Công Kim Hoa:** Phường Chủ Nguyên Anh Sơ Kỳ, vóc dáng cao gầy, khoác "Kim Vũ Lăng Giáp". Dệt áo giáp lông vũ phòng thủ tuyệt luân.
   - **Công Diệu Thủ:** Thợ Thủ Công Kim Đan Hậu Kỳ, tỉ mỉ cực đoan. Chế tác pháp bảo từ lông vũ, tuyệt kỹ "Vũ La Thiên Võng".
   - **Công Thái Vũ:** Nhuộm Sư Kim Đan Trung Kỳ, quyến rũ lanh lợi. Dùng màu nhuộm lông vũ chứa độc tính và mộc linh lực để chiến đấu.
 
@@ -826,6 +826,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hồ Kim Sa (Thương Nhân Giả - Trúc Cơ Hậu Kỳ):** Gián điệp khôn khéo trong vỏ bọc lão bản thương điếm, chuyên thu thập tình báo và sinh tồn.
   - **Hồ Minh Nguyệt (Dược Sư - Trúc Cơ Hậu Kỳ):** Dược sư lạnh lùng và tài năng, chuyên điều chế Mê Hồn Hương và độc dược dưới vỏ bọc yểu điệu.
   - **Hồ Phong Vân (Đệ Tử - Luyện Khí Viên Mãn):** Thiếu niên hồ ly ngây thơ, bốc đồng, luôn gặp rắc rối nhưng có khát khao mãnh liệt trở thành gián điệp giỏi.
+
+### Kim Sa Vi Mạch (Tây Mạc)
+- **Kim Sa Vi Mạch:** Chủng tộc vi thể sống trong mạch vàng ngầm Tây Mạc. Gồm Mạch Hoàng Kim (Mạch Chủ to lớn, dẫn dắt toàn tộc di tản), Mạch Thiết Cốt (Thủ Vệ Mỏ dùng "Thiết Cốt Biến Hóa" che chắn chống sập hầm), Mạch Tiểu Quặng (Đệ Tử Thăm Mạch bé nhỏ hay đi lạc). Đang bị đe dọa bởi Thiên Sa Thương Hội.
 
 ### San Hô Thợ Lặn Đội (Tây Mạc)
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **San Hô Thợ Lặn Đội** (Tây Mạc):

@@ -46,7 +46,7 @@ arcs:
           tin: 95
           so: 0
           on: 30
-      - character: Phụ Sơn Lão
+      - character: Sa Trọng Đức
         description: Đội trưởng Phu Khuân Vác, đồng tộc thường xuyên vận chuyển vật tư cho hang
         feelings:
           yeu: 0
@@ -162,8 +162,8 @@ arcs:
 - **Băng Đông Thạch — Phó Đội & Đồng Đạo Trung Thành:**
     - Băng Đông Thạch là người duy nhất thường xuyên tiếp xúc với y — đến thay ca (dù y không cần), mang tin tức, và thỉnh thoảng chỉ đứng bên cạnh y im lặng suốt nhiều ngày. Y coi Đông Thạch là... đồng đạo duy nhất. Không phải bạn (y đã quên cách kết bạn), không phải đệ tử (y không dạy ai), mà là người chia sẻ cùng sứ mệnh — cùng đứng, cùng canh, cùng im lặng.
     - Y lo lắng cho Đông Thạch nhiều hơn y thừa nhận — gã trẻ hơn y, tu vi thấp hơn, nhưng cũng dần biến thành... đá. Y nhìn Đông Thạch như nhìn tương lai bản thân: một tảng đá băng biết thở, sống nhưng gần như không sống. Y tự hỏi: "Đó có phải cái giá đáng trả không?" — rồi tự đáp: "Có."
-- **Phụ Sơn Lão — Đồng Tộc Đáng Trọng:**
-    - Phụ Sơn Lão vận chuyển vật tư cho hang đông miên — y là một trong số ít người mà Băng Cương cho phép tiến vào gần cửa hang. Y kính trọng lão vì sức chịu đựng — cõng hàng ba trăm năm cũng là một dạng canh gác, chỉ khác là canh gác bằng vai thay vì bằng mắt. Khi lão đến, Băng Cương gật đầu — đó là lời chào duy nhất y dành cho bất kỳ ai ngoài Thạch Tĩnh Nham.
+- **Sa Trọng Đức — Đồng Tộc Đáng Trọng:**
+    - Sa Trọng Đức vận chuyển vật tư cho hang đông miên — y là một trong số ít người mà Băng Cương cho phép tiến vào gần cửa hang. Y kính trọng lão vì sức chịu đựng — cõng hàng ba trăm năm cũng là một dạng canh gác, chỉ khác là canh gác bằng vai thay vì bằng mắt. Khi lão đến, Băng Cương gật đầu — đó là lời chào duy nhất y dành cho bất kỳ ai ngoài Thạch Tĩnh Nham.
 - **Vạn Quân — Kiến Trúc Sư Gia Cố Hang:**
     - Vạn Quân đã gia cố hang đông miên — công trình mà Băng Cương đánh giá là "hoàn hảo." Y không nói nhiều với Vạn Quân, nhưng việc cho phép một kẻ ngoài vào trong hang làm việc suốt sáu tháng mà không can thiệp — đó là sự tin tưởng cao nhất Băng Cương dành cho ai không thuộc đội.
 - **Vị Đại Năng Ngủ 500 Năm — Bí Mật Và Sứ Mệnh:**

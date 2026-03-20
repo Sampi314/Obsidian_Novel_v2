@@ -38,7 +38,7 @@ Liệt Quyền đang tu luyện Địa Liệt Quyền Pháp (地裂拳法) — q
 - **Lâm Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
 - **Lâm Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
 - **Ưng Nham Trảo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
-- **Hoang Sơn Ẩn Sĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Hoang Sơn Mặc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Quạ Hắc Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Tước Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Ưng Dã Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu

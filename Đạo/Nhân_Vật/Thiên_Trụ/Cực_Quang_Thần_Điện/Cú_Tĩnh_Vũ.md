@@ -38,8 +38,8 @@ Phong cách chiến đấu của Cú Tĩnh Vũ dựa trên ám sát, sử dụng
 - **Bằng Vạn Lý** (Trung lập): Coi là kẻ hữu dũng vô mưu
 - **Hạc Minh Nguyệt** (Tiêu cực): Theo dõi khả năng phản bội thần điện
 - **Hạc Minh Nguyệt** (Tiêu cực): E ngại sự giám sát thâm độc
-- **Quạ Huyết Dực Ma** (Gia tộc): Mưu sĩ cung cấp danh sách mục tiêu — hắn coi Tĩnh Vũ là con rắn nguy hiểm nhưng cần thiết
-- **Quạ Hắc Cánh** (Đồng minh): Mưu sĩ cung cấp tình báo cho đội dạ tuần, y kính sợ trí tuệ đáng sợ của hắn
+- **Quạ Huyết Linh** (Gia tộc): Mưu sĩ cung cấp danh sách mục tiêu — hắn coi Tĩnh Vũ là con rắn nguy hiểm nhưng cần thiết
+- **Quạ Hắc Dạ** (Đồng minh): Mưu sĩ cung cấp tình báo cho đội dạ tuần, y kính sợ trí tuệ đáng sợ của hắn
 - **Bằng Vạn Lý** (Đồng minh): Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau
 - **Yến Phi** (Đồng minh): Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau
 - **Ưng Liệt Phong** (Đồng minh): Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau

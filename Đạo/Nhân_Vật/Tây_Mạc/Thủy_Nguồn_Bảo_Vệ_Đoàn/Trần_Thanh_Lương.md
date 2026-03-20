@@ -43,7 +43,7 @@ Với tu vi Kim Đan Trung Kỳ, Trần Thanh Lương sở trường trinh sát 
 ## IV. CÁC MỐI QUAN HỆ
 - **Hàn Thủy:** Đoàn Trưởng mà bà tuyệt đối trung thành. Bà coi Hàn Thủy như vị chỉ huy duy nhất xứng đáng lãnh đạo Thanh Lương Thủ Vệ, và sẵn sàng làm mọi việc để bảo vệ vị trí của y.
 - **Đặng Tuần Sa:** Đội Phó trẻ tuổi dưới quyền trực tiếp của bà, người mà bà vừa nghiêm khắc đào tạo vừa âm thầm coi như con gái.
-- **Sơn Thủ Hộ:** Hộ Pháp Cự Nhân trong đội tuần tra, bà thường phối hợp với hắn — bà lo trinh sát, hắn lo đánh chặn — tạo thành cặp đôi công thủ hiệu quả nhất của Thanh Lương Thủ Vệ.
+- **Sơn Minh Hà:** Hộ Pháp Cự Nhân trong đội tuần tra, bà thường phối hợp với hắn — bà lo trinh sát, hắn lo đánh chặn — tạo thành cặp đôi công thủ hiệu quả nhất của Thanh Lương Thủ Vệ.
 - **Sa Tặc Liên Minh:** Bà đã mất chồng trong một cuộc tập kích của Sa Tặc, mối hận thù cá nhân này khiến bà trở thành kẻ săn lùng Sa Tặc không mệt mỏi nhất trong tổ chức.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH

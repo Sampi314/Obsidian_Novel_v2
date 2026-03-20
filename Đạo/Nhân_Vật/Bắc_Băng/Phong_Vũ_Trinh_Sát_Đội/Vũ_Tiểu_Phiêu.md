@@ -1,7 +1,7 @@
 ---
 type: character
-name: Vũ Tiểu Vũ
-hantu: 羽小雨
+name: Vũ Tiểu Phiêu
+hantu: 羽小飘
 archetype: Đội Trưởng
 race: Vũ Tộc
 dao_tam: Cánh nhỏ vẫn xé gió
@@ -33,7 +33,7 @@ arcs:
           tin: 95
           so: 0
           on: 30
-      - character: Vũ Lão Cốt
+      - character: Vũ Phong Cốt
         description: Cố vấn già, sư phụ không chính thức, người dạy y mọi thứ về Bắc Băng
         feelings:
           yeu: 50
@@ -62,10 +62,10 @@ arcs:
           on: 0
 ---
 
-# HỒ SƠ NHÂN VẬT: VŨ TIỂU VŨ (羽小雨)
+# HỒ SƠ NHÂN VẬT: VŨ TIỂU PHIÊU (羽小飘)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Tên:** Vũ Tiểu Vũ (羽小雨).
+- **Tên:** Vũ Tiểu Phiêu (羽小飘).
 - **Biệt Danh:** "Vũ Điên" (羽癲) — dân các làng phàm nhân gọi hắn như vậy vì hắn hay bay vào bão tuyết cấp thấp để trinh sát mà không thèm chờ bão tan, liều lĩnh đến mức ai cũng nghĩ hắn điên.
 - **Tuổi:** 16 tuổi.
 - **Chủng Tộc:** Vũ Tộc — không rõ phân chi cụ thể, cha mẹ mất khi hắn quá nhỏ, không ai nói cho hắn biết dòng dõi. Cánh màu nâu sẫm pha xám — không đặc biệt, không nổi bật, giống lông chim sẻ tuyết hơn là ưng hay đại bàng.
@@ -82,12 +82,12 @@ arcs:
     - Khuôn mặt gầy, xương gò má cao, da ngăm đen vì nắng tuyết phản chiếu, hai má lúc nào cũng nứt nẻ vì giá rét. Đôi mắt — thứ duy nhất nổi bật trên khuôn mặt tầm thường ấy — to, sáng, màu nâu hổ phách, luôn mở to như đang tìm kiếm thứ gì đó ở chân trời. Ánh mắt ấy không phải sợ hãi mà là háo hức — háo hức nhìn, háo hức tìm, háo hức khám phá — ánh mắt của kẻ chưa bao giờ chấp nhận rằng thế giới chỉ có bấy nhiêu.
     - Trên cánh tay trái có một vết sẹo dài do bị Tuyết Lang cào — dấu tích lần hắn liều mình dụ Tuyết Lang ra xa khu vực Hàn Dân Hộ Vệ Đội đang bố trí bẫy. Hắn tự hào vết sẹo này — gọi nó là "huân chương đầu tiên."
 - **Trang Phục:**
-    - Mặc một bộ áo vá chằng vá đụp từ da thú và vải thô — mỗi mảnh vá đến từ một nguồn khác nhau: da thỏ tuyết đổi được từ làng phàm nhân, vải rách xin từ Hàn Dân Hộ Vệ Đội, một mảnh da cáo tuyết nhỏ do Vũ Lão Cốt cắt từ áo cũ của lão. Áo trông lố bịch nhưng đủ ấm, và hắn tự hào rằng mỗi mảnh vá là một câu chuyện.
+    - Mặc một bộ áo vá chằng vá đụp từ da thú và vải thô — mỗi mảnh vá đến từ một nguồn khác nhau: da thỏ tuyết đổi được từ làng phàm nhân, vải rách xin từ Hàn Dân Hộ Vệ Đội, một mảnh da cáo tuyết nhỏ do Vũ Phong Cốt cắt từ áo cũ của lão. Áo trông lố bịch nhưng đủ ấm, và hắn tự hào rằng mỗi mảnh vá là một câu chuyện.
     - Đeo bên hông một con dao ngắn — Phong Trảo Đoản Đao — chế từ móng vuốt Tuyết Lang bọc gỗ tùng, do chính tay hắn tự rèn (thô kệch đến mức Thanh Phong nhìn một cái rồi quay đi không nói gì). Dao này gần như vô dụng trong chiến đấu nghiêm túc nhưng hắn không bao giờ rời nó — vì nó là vũ khí đầu tiên hắn có.
     - Trong túi ngực áo, luôn giấu miếng kiếm mảnh cổ nhặt được từ bãi tập cũ Hàn Kiếm Cốc — bọc trong ba lớp vải, buộc chặt bằng dây gân thú. Hắn không để ai nhìn thấy, không để ai sờ vào, thậm chí không để ai biết nó tồn tại.
 - **Khí Chất:**
     - Sôi nổi, bốc đồng, liều lĩnh đến mức bất chấp — kiểu khí chất của một thiếu niên quá trẻ để hiểu giới hạn và quá tự hào để thừa nhận sợ hãi. Hắn nói nhiều, nói nhanh, nói to, tay chân khua khoắng khi nói — đối lập hoàn toàn với sự trầm tĩnh của Thanh Phong và sự cằn nhằn của Lão Cốt. Trong đội, hắn là ngọn lửa — nóng, sáng, nhưng cũng dễ bốc cháy và gây bỏng.
-    - Nhưng dưới vẻ bốc đồng ấy là sự quan sát tinh tế đáng kinh ngạc — hắn nhìn thấy mọi thứ từ trên cao mà không ai khác chú ý: dấu chân lạ trên tuyết, hướng gió thay đổi bất thường, một bóng đen xa xa di chuyển ngược hướng đàn yêu thú. Chính khả năng quan sát này khiến Vũ Lão Cốt nể phục — lão nói: *"Mắt thằng nhóc này sinh ra để bay trinh sát. Chỉ tiếc cái mồm nó sinh ra để gây họa."*
+    - Nhưng dưới vẻ bốc đồng ấy là sự quan sát tinh tế đáng kinh ngạc — hắn nhìn thấy mọi thứ từ trên cao mà không ai khác chú ý: dấu chân lạ trên tuyết, hướng gió thay đổi bất thường, một bóng đen xa xa di chuyển ngược hướng đàn yêu thú. Chính khả năng quan sát này khiến Vũ Phong Cốt nể phục — lão nói: *"Mắt thằng nhóc này sinh ra để bay trinh sát. Chỉ tiếc cái mồm nó sinh ra để gây họa."*
     - Khi ở một mình — thường là lúc đêm khuya, sau khi cả đội ngủ hết — hắn ngồi trên mỏm đá Tổ Chim Đá, nhìn ra bóng tối Bắc Băng, im lặng hoàn toàn. Trong những khoảnh khắc ấy, hắn không phải Vũ Điên liều lĩnh, mà là đứa trẻ mồ côi mười sáu tuổi đang tự hỏi: liệu mình có đủ sức bảo vệ đám đồng đội không, liệu ngày mai có ai chết không, liệu tất cả những gì mình xây dựng có đổ sập trong một trận bão.
 
 ## III. TÍNH CÁCH & ĐẠO TÂM
@@ -97,12 +97,12 @@ arcs:
     - **Kiêu Ngạo Trẻ Tuổi (傲):** Hắn tin rằng mình đúng — luôn luôn đúng. Khi Lão Cốt khuyên hắn nên thận trọng, hắn nghe nhưng không thay đổi. Khi Thanh Phong cảnh báo nguy hiểm, hắn gật đầu rồi vẫn bay vào. Sự kiêu ngạo này đến từ việc hắn đã tự sống sót từ năm tám tuổi mà không cần ai dạy — nhưng cũng là điểm mù lớn nhất của hắn. Hắn chưa từng thất bại thật sự, nên chưa biết thất bại có thể giết cả đội.
     - **Ước Mơ Cháy Bỏng (夢):** Ước mơ lớn nhất của hắn là Phong Vũ Trinh Sát Đội được Hàn Kiếm Cốc chính thức thu nhận làm đơn vị trinh sát ngoại vi. Hắn biết điều này gần như bất khả — nhưng hắn không từ bỏ, vì từ bỏ ước mơ đồng nghĩa với thừa nhận rằng cả đội sẽ mãi mãi là đám trẻ con vô danh chết đói bên rìa thế giới tu chân.
 - **Đạo Tâm:** **"Cánh nhỏ vẫn xé gió."**
-    - Vũ Tiểu Vũ không có đạo tâm cao siêu hay triết lý sâu xa — hắn chỉ tin một điều giản đơn: dù cánh nhỏ, dù yếu, dù không ai thèm nhìn, vẫn có thể bay. Và nếu bay đủ nhanh, đủ xa, đủ lâu — thì ngay cả đại tông phái cũng phải ngước lên mà nhìn.
+    - Vũ Tiểu Phiêu không có đạo tâm cao siêu hay triết lý sâu xa — hắn chỉ tin một điều giản đơn: dù cánh nhỏ, dù yếu, dù không ai thèm nhìn, vẫn có thể bay. Và nếu bay đủ nhanh, đủ xa, đủ lâu — thì ngay cả đại tông phái cũng phải ngước lên mà nhìn.
     - Đạo tâm này mong manh vì nó dựa trên niềm tin thuần túy, chưa qua thử thách thực sự. Nếu một ngày hắn phải đối mặt với thực tế rằng dù nỗ lực thế nào, cánh nhỏ vẫn không thể sánh với đại bàng — đạo tâm ấy sẽ vỡ vụn, hoặc tôi luyện thành thứ gì đó mạnh mẽ hơn.
 
 ## IV. LỊCH SỬ & XUẤT THÂN
 - **Xuất Thân — Mồ Côi Lưu Dân Trại:**
-    - Vũ Tiểu Vũ sinh ra tại Vũ Tộc Lưu Dân Trại — nơi tập hợp Vũ Tộc vô gia cư, bệnh tật, và bị ruồng bỏ ở vùng Bắc Băng. Cha mẹ hắn là Vũ Tộc cấp thấp, kiếm sống bằng nghề thu nhặt thảo dược trên vách đá bán cho Tuyết Liên Dược Phường. Năm hắn tám tuổi, cả hai mất trong một trận yêu thú tấn công khi đang hái thuốc trên sườn Tuyết Sơn — thi thể không tìm được, chỉ còn lại chiếc túi hái dược rách nát dính máu.
+    - Vũ Tiểu Phiêu sinh ra tại Vũ Tộc Lưu Dân Trại — nơi tập hợp Vũ Tộc vô gia cư, bệnh tật, và bị ruồng bỏ ở vùng Bắc Băng. Cha mẹ hắn là Vũ Tộc cấp thấp, kiếm sống bằng nghề thu nhặt thảo dược trên vách đá bán cho Tuyết Liên Dược Phường. Năm hắn tám tuổi, cả hai mất trong một trận yêu thú tấn công khi đang hái thuốc trên sườn Tuyết Sơn — thi thể không tìm được, chỉ còn lại chiếc túi hái dược rách nát dính máu.
     - Từ tám đến mười ba tuổi, hắn sống trong Lưu Dân Trại, ăn bám cộng đồng, bị coi là gánh nặng. Không ai dạy hắn tu luyện — hắn tự mò mẫm luyện khí bằng cách bắt chước các Vũ Tộc lớn tuổi trong trại, thất bại hàng trăm lần trước khi linh lực lần đầu chạy qua kinh mạch. Hắn tự dạy mình bay bằng cách nhảy từ mỏm đá thấp, rồi cao hơn, rồi cao hơn nữa — gãy cánh hai lần, trật khớp vai ba lần, rách lông cánh không đếm nổi.
     - Chính giai đoạn "tự học" này tạo nên phong cách bay đặc trưng của hắn — không bài bản, không ưu nhã, nhưng cực kỳ thực dụng và khó đoán. Hắn bay kiểu "mưa" — thay đổi hướng liên tục, lên xuống bất thường, đôi khi cụp cánh rơi tự do rồi bất ngờ tung cánh lướt ngang — khiến cả yêu thú lẫn đồng đội đều không biết hắn sẽ bay đi đâu tiếp.
 - **Thành Lập Phong Vũ Trinh Sát Đội (năm 13 tuổi):**
@@ -145,7 +145,7 @@ arcs:
 - **Vũ Thanh Phong — Phó Đội & Tri Kỷ:**
     - Thanh Phong là bóng tối lặng lẽ bên cạnh ngọn lửa Tiểu Vũ — hắn bốc đồng, Thanh Phong trầm tĩnh; hắn liều, Thanh Phong cẩn thận; hắn nói nhiều, Thanh Phong im lặng. Hai người bổ sung nhau hoàn hảo — và chính sự bổ sung này giữ cho cả đội không tan rã. Hắn tin Thanh Phong hơn bất kỳ ai — nếu một ngày hắn chết, hắn biết Thanh Phong sẽ dẫn đội tiếp tục bay.
     - Tuy nhiên, hắn không bao giờ nói cho Thanh Phong biết về miếng kiếm mảnh — vì hắn sợ Thanh Phong sẽ bắt hắn vứt nó đi, và hắn không muốn vứt. Đây là bí mật duy nhất hắn giấu tri kỷ — và cũng là khoảng cách duy nhất giữa hai người.
-- **Vũ Lão Cốt — Cố Vấn & Ông Nội Tinh Thần:**
+- **Vũ Phong Cốt — Cố Vấn & Ông Nội Tinh Thần:**
     - Lão Cốt là người thay cha thay mẹ dạy hắn mọi thứ — đọc gió, nhận thời tiết, chiến thuật sinh tồn, và cả cách đối xử với đồng đội. Hắn nghe lão cằn nhằn mỗi ngày mà không bao giờ thấy phiền — vì hắn biết mỗi câu cằn nhằn là một lời lo lắng. Hắn sợ nhất ngày lão không còn đủ sức ngồi trên Tổ Chim Đá đón hắn về — và hắn không biết phải làm gì nếu ngày đó đến.
 - **Vũ Nhạn Nhi — Trinh Sát Viên & Muội Muội:**
     - Hắn coi Nhạn Nhi như em gái ruột — bảo vệ, che chở, và cũng hay mắng. Nàng liều hơn cả hắn — điều khiến hắn vừa tự hào vừa lo sợ. Hắn biết nàng gia nhập đội một phần vì hy vọng tìm cha — và hắn không bao giờ nói cho nàng biết rằng hy vọng ấy gần như vô vọng, vì hắn không nỡ dập tắt ngọn lửa trong mắt nàng.

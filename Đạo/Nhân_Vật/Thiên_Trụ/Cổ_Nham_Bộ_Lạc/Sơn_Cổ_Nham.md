@@ -52,7 +52,7 @@ arcs:
           tin: 25
           so: 0
           on: 0
-      - character: Vân Đỉnh Trưởng Lão
+      - character: Cổ Vân Đỉnh
         description: Trưởng Lão Cổ Tích Cự Nhân Thức Tỉnh, đồng tộc Cự Tộc duy nhất hắn coi là ngang hàng
         feelings:
           yeu: 25
@@ -124,7 +124,7 @@ arcs:
     - **Sơn Trấn (Thủ Vệ):** Đệ tử ruột mà hắn tin tưởng nhất. Hắn dạy Sơn Trấn nghệ thuật "đứng yên" — cách biến bản thân thành bức tường bất khả xâm phạm. Hắn tự hào nhưng lo lắng Sơn Trấn quá cứng nhắc, thiếu sự linh hoạt cần thiết để lãnh đạo bộ lạc.
     - **Sơn Ngọa (Trinh Sát):** Đệ tử nhỏ tuổi nhất, hay nằm xuống ngụy trang thành quả đồi để do thám. Hắn thấy buồn cười với phương pháp trinh sát kỳ quặc này nhưng phải công nhận hiệu quả — chưa ai phát hiện ra Sơn Ngọa khi nó nằm im.
 - **Đồng Minh & Láng Giềng:**
-    - **Vân Đỉnh Trưởng Lão (Cổ Tích Cự Nhân Thức Tỉnh):** Cự Nhân duy nhất ngoài bộ lạc mà hắn coi là ngang hàng. Hai người gặp nhau mỗi ngàn năm một lần, ngồi im lặng cạnh nhau suốt ba ngày rồi chia tay — đó là "cuộc trò chuyện" của họ.
+    - **Cổ Vân Đỉnh (Cổ Tích Cự Nhân Thức Tỉnh):** Cự Nhân duy nhất ngoài bộ lạc mà hắn coi là ngang hàng. Hai người gặp nhau mỗi ngàn năm một lần, ngồi im lặng cạnh nhau suốt ba ngày rồi chia tay — đó là "cuộc trò chuyện" của họ.
     - **Thạch Linh Cung:** Quan hệ phức tạp. Hắn tôn trọng Thạch Tộc vì họ cũng sinh ra từ đá, nhưng không tha thứ việc khai thác nham thạch cổ trong vùng lãnh thổ — hắn coi đó như "mổ xẻ xương cốt tổ tiên."
 - **Mối Đe Dọa:**
     - **Những Rung Chấn Dưới Đất:** Gần đây hắn cảm nhận được rung chấn bất thường từ sâu dưới lòng đất — giống y hệt tín hiệu của thời Thái Cổ khi các Cự Nhân thức tỉnh. Nhưng lần này, thứ đang thức dậy không phải Cự Nhân — mà là thứ gì đó lớn hơn, cổ xưa hơn, và hắn không chắc mình có thể trấn áp được.

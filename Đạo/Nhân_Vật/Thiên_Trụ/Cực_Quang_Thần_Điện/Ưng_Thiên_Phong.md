@@ -36,7 +36,7 @@ arcs:
           tin: 95
           so: 0
           on: 40
-      - character: Quạ Hắc Cánh
+      - character: Quạ Hắc Dạ
         description: Đối tác phối hợp tuần tra — bàn giao ca ban đêm, hai người tôn trọng năng lực lẫn nhau
         feelings:
           yeu: 0
@@ -154,7 +154,7 @@ arcs:
     - Hai anh em cãi nhau thường xuyên — thường là Liệt Phong muốn xung phong mà Thiên Phong ngăn lại, hoặc Liệt Phong cấm Thiên Phong đi trinh sát đường hiểm. Nhưng trên chiến trường, họ là cặp đôi ăn ý nhất Hiệp Sĩ Băng Lăng — mắt và rìu, trinh sát và xung kích.
 - **Ưng Tuyệt Huyền — Cung Thủ Tin Cẩn:**
     - Tuyệt Huyền là cung thủ giỏi nhất đội trinh sát, và là người Thiên Phong tin tưởng nhất dưới quyền. Nàng ít nói, chính xác, và không bao giờ bắn mũi thứ hai — phẩm chất hoàn hảo cho một trinh sát. Hai người phối hợp chặt chẽ: Thiên Phong chỉ điểm mục tiêu từ xa, Tuyệt Huyền bắn hạ. Hắn đánh giá nàng cao đến mức đã nhiều lần từ chối lệnh điều chuyển nàng sang đội khác.
-- **Quạ Hắc Cánh — Đối Tác Ca Đêm:**
+- **Quạ Hắc Dạ — Đối Tác Ca Đêm:**
     - Hai đội trưởng — trinh sát ban ngày và dạ tuần ban đêm — bàn giao thông tin vào lúc hoàng hôn và bình minh. Thiên Phong đánh giá cao Hắc Cánh vì năng lực dạ thị vượt trội và sự kín đáo tuyệt đối. Hai người giao tiếp ngắn gọn, hiệu quả — không thừa một từ, không thiếu một chi tiết. Kiểu quan hệ của hai chuyên gia tôn trọng chuyên môn lẫn nhau.
 - **Ưng Lôi Dực — Thuộc Hạ Gây Đau Đầu:**
     - Chiến sĩ trẻ trong đội trinh sát, có tài năng nhưng nóng nảy thiếu kiểm soát — giống hệt anh trai hắn thời trẻ. Thiên Phong phải liên tục kiềm chế Lôi Dực, ngăn hắn hành động bốc đồng trong nhiệm vụ trinh sát. Hắn hiểu rằng nếu không ai uốn nắn, Lôi Dực sẽ lặp lại sai lầm của cha — xung phong mà không biết nguy hiểm phía trước.

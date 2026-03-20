@@ -89,8 +89,8 @@
 
 - [Công Thái Hồng (孔彩虹)](Phượng_Hỏa_Tộc/Công_Thái_Hồng.md)
 - [Loan Thanh La (鸞青羅)](Phượng_Hỏa_Tộc/Loan_Thanh_La.md)
-- [Phượng Huyền Điểu Lão (鳳玄鳥老)](Phượng_Hỏa_Tộc/Phượng_Huyền_Điểu_Lão.md)
-- [Phượng Viêm Cánh (鳳炎翅)](Phượng_Hỏa_Tộc/Phượng_Viêm_Cánh.md)
+- [Phượng Huyền Minh (凤玄明)](Phượng_Hỏa_Tộc/Phượng_Huyền_Minh.md)
+- [Phượng Viêm Hồng (凤炎红)](Phượng_Hỏa_Tộc/Phượng_Viêm_Hồng.md)
 - [Phượng Viêm Phong (鳳炎鋒)](Phượng_Hỏa_Tộc/Phượng_Viêm_Phong.md)
 - [Phượng Xích (鳳赤)](Phượng_Hỏa_Tộc/Phượng_Xích.md)
 - [Phượng Xích Diệm (鳳赤焰)](Phượng_Hỏa_Tộc/Phượng_Xích_Diệm.md)

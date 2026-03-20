@@ -15,7 +15,7 @@ arcs:
     inventory: []
     stats: [800, 1600, 1400, 1200, 700, 1300]
     relationships:
-      - character: Phong Sa Cuồng Nhân
+      - character: Phong Sa Liệt
         description: Tán tu cùng vùng, kẻ duy nhất dám ngồi uống rượu với một con trùng
         feelings:
           yeu: 20
@@ -43,7 +43,7 @@ Phi Hoàng khi mang hình người là một gã trung niên gầy nhom, da vàn
 Phi Hoàng chiến đấu bằng cách triệu hồi và điều khiển đàn châu chấu sa mạc số lượng lên đến hàng triệu con, tạo thành một cơn bão sinh vật sống quét sạch mọi thứ. Kỹ thuật sở trường là *Hoàng Tai Thiên Giáng* (蝗災天降) — hắn phóng thích toàn bộ đàn châu chấu ẩn giấu trong áo choàng cùng lúc với đám châu chấu đang nằm im dưới cát, hàng triệu con bùng lên che kín trời đất, ăn sạch linh lực bảo hộ, pháp bảo gỗ, và thậm chí cả y phục của đối thủ. Thuật thứ hai là *Phân Thân Trùng Hóa* (分身蟲化) — hắn phân tán toàn bộ cơ thể thành mười vạn châu chấu nhỏ, mỗi con mang một mảnh ý thức, gần như bất tử trừ khi tiêu diệt được từng con một. Điểm yếu chí mạng: hỏa thuật và lôi thuật có thể thiêu rụi đàn châu chấu hàng loạt, và nếu mất quá nhiều cá thể trong bầy, tu vi hắn sẽ tạm thời sụt giảm.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Phong Sa Cuồng Nhân:** Tán tu Cự Tộc cùng lang thang Tây Mạc. Hai kẻ kỳ quái gặp nhau trong một trận bão cát, đánh nhau không phân thắng bại rồi ngồi xuống uống rượu. Phi Hoàng không coi đó là tình bạn, chỉ là "hai kẻ mà sa mạc chưa giết được."
+- **Phong Sa Liệt:** Tán tu Cự Tộc cùng lang thang Tây Mạc. Hai kẻ kỳ quái gặp nhau trong một trận bão cát, đánh nhau không phân thắng bại rồi ngồi xuống uống rượu. Phi Hoàng không coi đó là tình bạn, chỉ là "hai kẻ mà sa mạc chưa giết được."
 - **Thiên Sa Thương Hội:** Phi Hoàng thỉnh thoảng nhận hợp đồng tiêu diệt sâu bệnh linh thảo cho các đoàn buôn, đổi lấy linh thạch và khoáng vật quý cho bầy châu chấu ăn. Một mối quan hệ thuần túy thương mại.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH

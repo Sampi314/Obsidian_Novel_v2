@@ -36,9 +36,9 @@ Là Đại Tế Tư cảnh giới Nguyên Anh Đỉnh Phong, Nham Vu Huyết tu 
 ## IV. CÁC MỐI QUAN HỆ
 - **Sơn Vu Cốt** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vu Tộc Chiếu Cáo
 - **Sơn Vu Cốt** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Sơn Vu Cốt
-- **Cương Chiến Sĩ** (Thuộc hạ): Cùng Vu Tộc Chiếu Cáo, quan hệ tổ chức
+- **Cương Hổ Phong** (Thuộc hạ): Cùng Vu Tộc Chiếu Cáo, quan hệ tổ chức
 - **Thạch Vu Hỏa** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vu Tộc Chiếu Cáo
-- **Cương Chiến Sĩ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vu Tộc Chiếu Cáo
+- **Cương Hổ Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vu Tộc Chiếu Cáo
 - **Nham Tiểu Vu** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vu Tộc Chiếu Cáo
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nham Vu Huyết là hậu duệ trực hệ của Đại Vu Tổ, mang trong mình huyết mạch Cự Tộc thuần nhất nhất bộ lạc. Hắn kế thừa vị trí Đại Tế Tư sau khi hoàn thành nghi lễ dung hợp với nọc độc Vạn Độc Trì — quá trình gần chết mà chỉ một phần mười thử thách sống sót. Sự kiện quan trọng nhất là khi hắn đánh lui một đoàn viễn chinh của Vạn Độc Môn đến bắt người thí nghiệm, bảo vệ toàn bộ bộ lạc. Bí mật là hắn nghe được tiếng nói của Trái Tim Của Đất dưới Tế Đàn và đang tìm cách dung hợp với nó.
