@@ -37,9 +37,13 @@ arcs:
   - *Quỷ Diện Độc Nhận* (鬼面毒刃): Sử dụng ma nhẫn tẩm độc cá quỷ biển sâu, chỉ một vết xước nhỏ cũng đủ khiến tu sĩ Kim Đan kỳ chịu đựng sự tra tấn thần hồn tột độ trước khi chết.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hắc Triều** (Kẻ thù): Đồng liêu/Khinh bỉ
+- **Thâm Hải** (Cấp dưới): Trung thành
+- **Lệ Nhược Thủy** (Kẻ thù): Đối thủ/Con mồi
+- **Huyết Ba** (Đồng minh): Đồng liêu cùng Vực Thẳm Ma Cung, hỗ trợ lẫn nhau
+- **Ám Ảnh Ngư** (Đồng minh): Đồng liêu cùng Vực Thẳm Ma Cung, hỗ trợ lẫn nhau
 - **Thâm Hải (Cung Chủ):** Là con dao trong bóng tối trung thành nhất của Cung Chủ, sẵn sàng thực hiện mọi mệnh lệnh dơ bẩn nhất.
 - **Hắc Triều (Đồng Liêu):** Chê bai Hắc Triều là một con thú hoang ngu ngốc chỉ biết dùng sức mạnh cơ bắp.
 - **Lệ Nhược Thủy (Hải Thần Cung):** Từng chạm trán và coi Lệ Nhược Thủy là con mồi xứng đáng nhất để săn lùng trên mặt biển.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ngư Quỷ Diện xuất thân từ một bộ lạc Thủy Ma nhỏ lẻ bị tàn sát bởi sự cạnh tranh tàn khốc của Vô Tận Hải. May mắn sống sót và trôi dạt đến vùng ranh giới của Vực Thẳm Hắc Ám, hắn được Cung Chủ Thâm Hải phát hiện và đào tạo thành cỗ máy ám sát hoàn hảo. Hắn đã thực hiện vô số nhiệm vụ tàn sát các trạm trinh sát của Long Cung và bắt cóc tu sĩ để phục vụ cho các thí nghiệm ma đạo của Vực Thẳm Ma Cung. Hiện tại, Ngư Quỷ Diện đang chỉ huy Ám Ảnh Ngư Đội len lỏi vào các vùng nước nông, thu thập tình báo và gieo rắc sự hỗn loạn trước thềm cuộc đại chiến sắp tới.

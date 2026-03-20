@@ -37,9 +37,16 @@ arcs:
   - *Hắc Lưu Giảo Sát* (黑流绞杀): Phun ra một dòng nước đen ngòm chứa đầy ma khí ăn mòn và vô số mảnh xương vụn sắc nhọn.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Thâm Hải** (Cấp dưới): Phục tùng/Sùng bái
+- **Ngư Quỷ Diện** (Kẻ thù): Đồng liêu/Khinh bỉ
+- **Ngao Đình** (Kẻ thù): Kẻ thù
+- **Huyết Trùng** (Kình địch): Thống Lĩnh Ma Quân, đối thủ tranh quyền trong hội đồng trưởng lão
+- **Hắc Nha** (Cấp dưới): Thống Lĩnh trực tiếp, tôn kính như huynh trưởng và tuyệt đối trung thành
+- **Thâm Hải Trùng** (Sư đồ): Hắc Triều dẫn dắt Thâm Hải Trùng trong Vực Thẳm Ma Cung
+- **Thâm Uyên Nữ** (Đồng minh): Đồng liêu cùng Vực Thẳm Ma Cung
+- **Ám Ảnh Ngư** (Đồng minh): Đồng liêu cùng Vực Thẳm Ma Cung, hỗ trợ lẫn nhau
 - **Thâm Hải (Cung Chủ):** Tuyệt đối phục tùng và sùng bái như một vị thần giáng thế.
 - **Ngư Quỷ Diện (Đồng Liêu):** Khinh bỉ lối đánh lén lút của Ngư Quỷ Diện nhưng vẫn phải phối hợp khi có lệnh từ Cung Chủ.
 - **Ngao Đình (Long Tộc):** Kẻ thù không đội trời chung, luôn khao khát được nếm thử mùi vị máu thịt của Long tộc.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hắc Triều vốn là một con thú săn mồi bình thường ở rãnh Mariana, vô tình nuốt phải một mảnh vỡ ma tinh thạch chứa máu của Thâm Uyên Ma Chủ. Trải qua hàng ngàn năm lột xác đầy đau đớn dưới áp lực cực độ của đáy biển sâu, hắn tiến hóa thành một ma vật khủng khiếp mang theo sức mạnh hủy diệt. Được Cung Chủ Thâm Hải thu nạp, Hắc Triều nhanh chóng thăng tiến trở thành Thống Lĩnh của Thâm Hải Ma Quân, dẫn dắt đội quân biến dị càn quét và mở rộng lãnh thổ cho Vực Thẳm Ma Cung. Hiện tại, hắn đang chỉ huy quân đoàn chuẩn bị cho một cuộc tấn công quy mô lớn nhằm vào các khu vực ven bờ của Vô Tận Hải.

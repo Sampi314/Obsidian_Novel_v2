@@ -32,7 +32,9 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Huyết Trùng** (Chủ tớ): Thủ hạ trung thành trong Vực Thẳm Ma Cung
+- **Huyết Trùng** (Cấp dưới): Phục tùng Huyết Trùng, Trưởng Lão của Vực Thẳm Ma Cung
+- **Hắc Triều** (Sư đồ): Hắc Triều dẫn dắt Thâm Hải Trùng trong Vực Thẳm Ma Cung
+- **Thâm Uyên Nữ** (Sư đồ): Thâm Uyên Nữ chỉ dẫn Thâm Hải Trùng trong Vực Thẳm Ma Cung
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
