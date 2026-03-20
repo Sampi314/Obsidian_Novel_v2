@@ -32,8 +32,8 @@ Thân hình cao ráo mạnh mẽ, ánh mắt sắc bén đầy quyết tâm. Tí
 Thành viên của Linh Thú Mục Trường, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 羊小牧·Bản Mệnh (羊小牧·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Mã Phi Vân:** Thuần Thú Sư, đồng liêu quan trọng nhất trong Linh Thú Mục Trường.
-- **Ngưu Đại Lực:** Mục Trường Chủ, đối tác thường xuyên phối hợp.
-
+- **Ngưu Đại Lực** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Linh Thú Mục Trường
+- **Ngưu Đại Lực** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Ngưu Đại Lực
+- **Mã Phi Vân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Linh Thú Mục Trường
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Dương Tiểu Mục lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Linh Thú Mục Trường. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Linh Thú Mục Trường và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Mục Đồng.
