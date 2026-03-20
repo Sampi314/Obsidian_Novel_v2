@@ -1,6 +1,7 @@
 # Hồ Sơ Thế Giới: Cố Nguyên Giới
 
 ### Tình trạng cập nhật gần nhất
+- Đã cập nhật hồ sơ chi tiết cho 2 nhân vật phe **Ngư Dân Tu Luyện Hội** (Vô Tận Hải): **Lý Vạn Triều**, và **Trần Hải Yến**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Tuyết Trung Cô Viện** (Bắc Băng): **Lý Mộ Tuyết**, **Lê Dược Nương**, và **Phạm Thư Sinh**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Thâm Hải Vi Linh** (Vô Tận Hải): **Linh Áp Lực**, **Thủy Cổ Ký Ức**, và **Thủy Nhiệt Tuyền**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Phong Sát Cốc** (Tây Mạc): **Phong Nha**, **Phong Ảnh**, và **Sa Quỷ**.
@@ -741,6 +742,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Minh Uyên:** Tây Hải Long Vương, Hóa Thần Đỉnh Phong. Nữ chúa tuyệt sắc nhưng tàn nhẫn, dùng áp lực không gian đại dương để nghiền nát kẻ thù. Dã tâm thâu tóm Kho Báu Vạn Năm.
   - **Thanh Hàn Nguyệt:** Tuần Sát Sứ Bắc Hải, Nguyên Anh Hậu Kỳ. Chân Long băng giá, là thanh gươm hành quyết tàn nhẫn, sở trường *Băng Hồn Tỏa Hải*, quyết tâm nghiền nát mọi mầm mống nổi loạn.
 
+- **Ngư Dân Tu Luyện Hội (Vô Tận Hải):**
+  - **Lý Vạn Triều:** Phó Hội Trưởng Luyện Khí Sơ Kỳ, lão ngư dân khắc khổ, bảo thủ nhưng hết lòng bảo vệ gia đình, luyện tập "Triều Tức Dẫn Khí Pháp".
+  - **Trần Hải Yến:** Đệ Tử Trẻ Luyện Khí Tam Tầng, thiếu nữ vùng biển khỏe khoắn, hoạt bát, bơi lội và lặn sâu tuyệt vời, khao khát khám phá Vô Tận Hải.
 - **Phiêu Lưu Đảo Liên Minh (Vô Tận Hải):**
   - **Hoàng Hải Triều:** Đội Trưởng Hải Tuần Đội Trúc Cơ Hậu Kỳ, rắn rỏi và trầm ổn. Bảo vệ quần đảo bằng *Nộ Hải Lãng Quyết*.
   - **Lê Bạch Ngư:** Đảo Chủ Đảo Số Ba Trúc Cơ Viên Mãn, thư sinh khôn khéo và giỏi tính toán. Uyển chuyển né đòn bằng *Bạch Ngư Du Dực*.

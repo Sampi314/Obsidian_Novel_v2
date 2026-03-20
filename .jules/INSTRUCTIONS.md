@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: Còn khoảng 64 nhân vật có placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Sương Ma Uyển - Bắc Băng ở phiên trước: Sương Vô Tình, Tuyệt Tình Hàn, Ám Băng Nhi). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
+1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: Còn khoảng 61 nhân vật có placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 2 nhân vật Ngư Dân Tu Luyện Hội - Vô Tận Hải ở phiên trước: Lý Vạn Triều, Trần Hải Yến). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
 2. **Sau khi Task 9 hoàn thành** → Tiếp tục Catch-up Lâm Phong (Task 2): Viết chương 133+ cho Góc Nhìn Lâm Phong.
 3. **Sau khi Task 9 hoàn thành** → Tiếp tục Task 5 (Tuyến Khu Vực): Viết Arc 2 cho các khu vực.
 
@@ -484,3 +484,4 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
 > Đã hoàn thành Task 9 cho 2 nhân vật Thiên Sa Thương Hội (Tây Mạc): Vũ Thương Vân, Đặng Thiên Hà.
 > Đã hoàn thành Task 9 cho 3 nhân vật Kim Sa Vi Mạch (Tây Mạc): Mạch Hoàng Kim, Mạch Thiết Cốt, Mạch Tiểu Quặng.
 > Đã hoàn thành Task 9 cho 3 nhân vật Sương Ma Uyển (Bắc Băng): Sương Vô Tình, Tuyệt Tình Hàn, Ám Băng Nhi.
+> Đã hoàn thành Task 9 cho 2 nhân vật Ngư Dân Tu Luyện Hội (Vô Tận Hải): Lý Vạn Triều, Trần Hải Yến.
