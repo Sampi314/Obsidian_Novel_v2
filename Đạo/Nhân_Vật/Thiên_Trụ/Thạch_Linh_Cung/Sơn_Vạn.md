@@ -120,16 +120,17 @@ Gã lên chức Quân Trưởng cách đây một trăm năm, trẻ nhất trong
 - **Thạch Linh Tâm Chú (石靈心咒):** Phiên bản thực chiến — tập trung linh khí vào nắm đấm và chân, tăng sức mạnh và tốc độ phá đá.
 
 ## VI. QUAN HỆ
-
+- **Sơn Cương** (Chủ tớ): Anh trai ruột, Quân Trưởng, người gã kính trọng nhưng hay cãi
+- **Sơn Thiết** (Đồng minh): Quân Trưởng Thạch Mạch, đồng tộc, chiến hữu đáng tin
+- **Thạch Nham** (Gia tộc): Đệ Tứ Hỏa Sư, cố vấn kiểm định quặng, la bàn thầm lặng
+- **Thạch Chùy** (Cấp dưới): Cung Chủ, người gã trung thành phục vụ
+- **Thạch Hùng** (Đồng minh): Quân Trưởng Thạch Mạch, đồng nghiệp phòng thủ
 - **Sơn Cương (Em Trai):**
     - Tình anh em ruột thịt. Vạn lo lắng cho Cương vì em trai nóng nảy, hay tranh đua với người khác. Nhưng gã cũng tự hào — Cương là Hỏa Sư giỏi, xứng đáng với vị trí.
-
 - **Thạch Nham (Cố Vấn Quặng):**
     - Mỗi mạch quặng mới phát hiện đều qua tay Nham đánh giá trước khi Vạn quyết định khai thác. Gã tin Nham tuyệt đối — "Nham sư huynh lắc đầu, ta không đào."
-
 - **Sơn Thiết (Hộ Pháp):**
     - Đồng tộc, chiến hữu. Hai gã phối hợp phòng thủ — Thiết lo vòng ngoài, Vạn lo vùng mỏ. Phong cách khác nhau (Thiết đánh trực diện, Vạn dùng bẫy và địa hình), nhưng bổ sung hoàn hảo.
-
 ## VII. GIAI THOẠI
 
 > *"Mỏ quặng không phải của ta, không phải của Thạch Linh Cung. Mỏ quặng là của đất. Ta chỉ mượn — và mượn thì phải trả."*

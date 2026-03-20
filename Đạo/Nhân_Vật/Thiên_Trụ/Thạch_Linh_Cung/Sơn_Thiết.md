@@ -122,19 +122,19 @@ Hiện tại, gã là Hộ Pháp phụ trách vòng ngoài — tuần tra, truy 
 - **Thạch Linh Tâm Chú (石靈心咒):** Phiên bản Lai Cự Tộc — tập trung linh khí vào cơ bắp thay vì lõi đá, tăng sức mạnh vật lý thay vì phòng thủ.
 
 ## VI. QUAN HỆ
-
+- **Sơn Lực** (Đồng minh): Hộ Pháp, sư thúc hay tóm cổ kéo về khi lén đi khám phá
+- **Thạch Chùy** (Đồng minh): Cung Chủ, người gã phụng sự suốt đời
+- **Thạch Vạn Niên** (Đồng minh): Thái Thượng Trưởng Lão, từng theo hầu lão suốt ba trăm năm
+- **Thạch Hùng** (Đồng minh): Hộ Pháp đồng liêu, Thạch Tộc, đối tác phòng thủ hoàn hảo
+- **Sơn Vạn** (Đồng minh): Quân Trưởng Thạch Mạch, đồng tộc, chiến hữu đáng tin
 - **Thạch Vạn Niên (Thái Thượng Trưởng Lão):**
     - Ba trăm năm theo hầu tạo nên mối quan hệ đặc biệt. Gã kính trọng lão như kính trọng ngọn núi — lão là vĩnh cửu, gã là kẻ đi dưới bóng ngọn núi. Mỗi khi lão tỉnh dậy từ giấc ngủ sâu, gã là người đầu tiên có mặt — mang theo quặng mới nhất để lão ăn.
-
 - **Thạch Hùng (Hộ Pháp Đồng Liêu):**
     - Đối tác phòng thủ hoàn hảo. Hùng tĩnh, Thiết động. Hùng chắn, Thiết đánh. Hai gã hiếm khi nói chuyện nhưng phối hợp như một — kết quả của hàng trăm năm luyện tập cùng nhau. Gã quý Hùng vì Thạch Tộc đó không nói nhiều nhưng đáng tin nhất.
-
 - **Sơn Vạn (Quân Trưởng Thạch Mạch):**
     - Đồng tộc Lai Cự Tộc, phụ trách bảo vệ mỏ quặng. Hai gã chia sẻ gánh nặng phòng thủ — Thiết lo vòng ngoài, Vạn lo vùng mỏ. Gã tin tưởng Vạn tuyệt đối trong chuyện quân sự.
-
 - **Thạch Chùy (Cung Chủ):**
     - Gã phụng sự Cung Chủ không vì mệnh lệnh mà vì tôn trọng. Thạch Chùy là người cho gã cơ hội, cho gã mục đích, cho gã gia đình. "Thạch Linh Cung là nhà ta," gã nói, "và ta bảo vệ nhà."
-
 ## VII. GIAI THOẠI
 
 > *"Ba trăm năm theo lão nhân gia đi khắp nơi, ta học được một điều: sức mạnh không nằm ở nắm đấm. Nắm đấm chỉ là công cụ. Sức mạnh nằm ở lý do ta đấm."*
