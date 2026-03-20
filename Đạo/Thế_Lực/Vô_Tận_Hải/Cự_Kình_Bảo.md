@@ -85,7 +85,7 @@ arcs:
 # CỰ KÌNH BẢO (巨鯨堡)
 
 ## I. Tổng Quan (总览)
-Cự Kình Bảo là một trong những kỳ quan di động của Vô Tận Hải, một thành phố sầm uất được xây dựng hoàn toàn trên lưng của một con Lĩnh Vực Cự Kình Thượng Cổ - loài cá voi có kích thước tương đương một hòn đảo nhỏ. Nơi đây không chỉ là một pháo đài vững chắc mà còn là trung tâm giao thương quan trọng, cho phép các thương nhân trao đổi hàng hóa ngay giữa đại dương bao la mà không sợ sự đe dọa từ bão tố hay quái vật biển.
+Cự Kình Bảo là một trong những kỳ quan di động của Vô Tận Hải — một thành phố sầm uất với năm ngàn cư dân được xây dựng hoàn toàn trên lưng Lĩnh Vực Cự Kình, loài cá voi thượng cổ có kích thước tương đương một hòn đảo nhỏ. Dưới quyền cai trị của Thành Chủ Kình Thiên — tu vi Nguyên Anh Viên Mãn, người duy nhất có thể giao tiếp trực tiếp với Cự Kình qua thuật Ngự Thú Linh Tâm — thành phố di chuyển không ngừng trên Vô Tận Hải, theo dõi hải lưu giàu linh khí và tránh xa vùng nguy hiểm. Cự Kình Bảo vừa là pháo đài quân sự vững chắc vừa là trung tâm giao thương quan trọng nhất trên mặt biển, cho phép thương nhân từ mọi phương trời trao đổi hàng hóa ngay giữa đại dương bao la. Xếp Hạng Nhì, thành phố giữ lập trường trung lập trong các tranh chấp lớn — không theo Hải Thần Cung cũng không theo Long Cung — mà chỉ phục vụ thương mại và bảo vệ cư dân.
 
 ## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
 Vì là thành phố di động, "địa lý" của Cự Kình Bảo thay đổi theo hải lưu. Tuy nhiên, nó luôn di chuyển qua các vùng biển giàu linh khí thủy hệ. Tài nguyên quý giá nhất chính là lớp da và chất tiết từ con cá voi khổng lồ, có khả năng gia cố các công trình kiến trúc và làm nguyên liệu luyện đan. Bảo cũng kiểm soát các túi trữ vật không gian quy mô lớn được tích hợp vào kiến trúc thành phố.
