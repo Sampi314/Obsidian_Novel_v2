@@ -816,6 +816,12 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hồ Minh Nguyệt (Dược Sư - Trúc Cơ Hậu Kỳ):** Dược sư lạnh lùng và tài năng, chuyên điều chế Mê Hồn Hương và độc dược dưới vỏ bọc yểu điệu.
   - **Hồ Phong Vân (Đệ Tử - Luyện Khí Viên Mãn):** Thiếu niên hồ ly ngây thơ, bốc đồng, luôn gặp rắc rối nhưng có khát khao mãnh liệt trở thành gián điệp giỏi.
 
+### San Hô Thợ Lặn Đội (Tây Mạc)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **San Hô Thợ Lặn Đội** (Tây Mạc):
+  - **Nguyễn Thủy Tiên:** Đội Trưởng Trúc Cơ Viên Mãn, trụ cột kiên nghị, tự luyện Ngưng Tức Thuật, tìm cách thoát khỏi sự ép giá của Thiên Sa Thương Hội.
+  - **Lê Ngọc Trai:** Thợ Lặn Kỳ Cựu Luyện Khí Trung Kỳ, cô nhi hoạt bát, sở hữu thân pháp Ngọc Cốt Lưu Thủy mượt mà dưới nước.
+  - **Trần Hải Sâm:** Thợ Lặn Kỳ Cựu Luyện Khí Trung Kỳ, chiến hữu cũ của cha Thủy Tiên, vạm vỡ, trầm ổn, dùng mạng sống bảo vệ đội.
+
 ### Sa Mãng Tộc (Tây Mạc)
 - **Huyền Sa:** Tộc Trưởng Sa Mãng Tộc (Trúc Cơ Hậu Kỳ). Xà yêu khổng lồ, điềm tĩnh và cẩn trọng, sở hữu Hắc Sa Kịch Độc. Đang tìm hiểu bí mật bộ xương Mãng cổ đại để tìm công pháp cho xà tộc.
 - **Xà Ám Lân:** Trưởng Lão (Trúc Cơ Sơ Kỳ). Xà yêu xám tro nóng nảy, hiếu chiến, sức mạnh cận chiến đáng nể nhưng dễ bị kích động. Tuyệt đối trung thành với Huyền Sa và căm thù Thiết Giáp Yêu Thú Đàn.

@@ -10,10 +10,15 @@
 - Các báo cáo truyện: Viết POV cho A Ngốc, Lâm Phong, Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái, Hàn Thanh Nguyệt, Lục Trần, Ngô Công Trưởng Lão, Phương Vô Kỵ, Sở Lăng Sương, Triệu Thanh Hằng, Lý Tuyết Ưng, Ngao Đình, Lệ Nhược Thủy, Nham Thần, Lục Tiêu.
 - [Đã chuyển từ 10 Báo Cáo Gần Nhất] Hoàn thiện nhân vật Hoàng Sa Di Dân (Tây Mạc).
 - [Đã chuyển từ 10 Báo Cáo Gần Nhất] Hoàn thiện nhân vật San Hô Thủ Hộ Đoàn (Tây Mạc).
+- [Đã nén] Hoàn thiện các nhân vật Vô Tận Hải (Hải Thần Cung, San Hô Đảo Quốc, Sóng Vi Ba Liên Lạc, Phiêu Miễu Băng Hải, Linh Hồ Tàn Tộc), Thiên Trụ (Cực Quang Thần Điện), Bắc Băng (Tuyết Cự Nhân Đảo), Tây Mạc (Phong Sát Cốc).
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Long Cung (Vô Tận Hải)
+### [Hiện Tại] - Hoàn thiện nhân vật San Hô Thợ Lặn Đội (Tây Mạc)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Nguyễn Thủy Tiên, Lê Ngọc Trai, Trần Hải Sâm thuộc khu vực Tây Mạc.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Long Cung (Vô Tận Hải)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Minh Trầm Mặc, Minh Uyên, Thanh Hàn Nguyệt thuộc khu vực Vô Tận Hải.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -61,20 +66,3 @@
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Nham Cương Thể, Sơn Thiết Quyền, và Sơn Đại Địa thuộc khu vực Bắc Băng.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
-### [Phiên Trước] - Hoàn thiện nhân vật Phong Sát Cốc (Tây Mạc)
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lý Cuồng Phong, Phong Cuồng, và Phong Liệt thuộc khu vực Tây Mạc.
-- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-
-### [Phiên Trước] - Hoàn thiện nhân vật San Hô Đảo Quốc
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật San Bạch Ngọc, San Hồng Diệp, và San Ngọc Lan thuộc khu vực Vô Tận Hải.
-- **Hành động:** Điền đủ các section II-V. Đã cập nhật `scripts/relationship_data.js` với ID `san_bach_ngoc_hq` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-
-- [2026-03-16] Hoàn thành điền chi tiết 3 nhân vật cho thế lực Ngọc Trai Sâu Phường (Đông Hoang).
-- [x] **Task 9 (Điền thông tin nhân vật):** Hoàn thành cho Linh Thâm Nguyệt, Linh Tiểu Uyên, và Linh Trầm Uyên (Thâm Hải Vi Linh - Vô Tận Hải) theo đúng template. Không mâu thuẫn lore. Đã cập nhật Relationship Data JS.
-
-## [BÁO CÁO MỚI] - 2026-03-17
-**Loại kiểm tra:** Cập Nhật Hồ Sơ Nhân Vật (Task 9)
-**Nội dung:**
-- Hoàn thiện Section II - V cho 3 nhân vật: `Hắc Triều`, `Ngư Quỷ Diện`, và `Thâm Hải` thuộc Vực Thẳm Ma Cung (Vô Tận Hải).
-- Cập nhật relationship_data.js.
-- Nhân vật đã được kiểm tra: Đủ 4 section, có quan hệ chéo, có đặc điểm nhận diện riêng biệt phù hợp với tộc Hải Tộc (Biến Dị)/Thủy Ma.
