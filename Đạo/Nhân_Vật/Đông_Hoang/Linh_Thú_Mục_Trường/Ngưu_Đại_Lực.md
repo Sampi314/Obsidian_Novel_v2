@@ -32,8 +32,10 @@ Thân hình cao ráo mạnh mẽ, ánh mắt sắc bén đầy quyết tâm. Tí
 Thành viên của Linh Thú Mục Trường, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 牛大力·Bản Mệnh (牛大力·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Dương Tiểu Mục:** Mục Đồng, đồng liêu quan trọng nhất trong Linh Thú Mục Trường.
-- **Mã Phi Vân:** Thuần Thú Sư, đối tác thường xuyên phối hợp.
-
+- **Dương Tiểu Mục** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Linh Thú Mục Trường
+- **Mã Phi Vân** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Linh Thú Mục Trường
+- **Dương Tiểu Mục** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Ngưu Đại Lực
+- **Mã Phi Vân** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Ngưu Đại Lực
+- **Trần Vạn Thú** (Đồng minh): Mục Trường Chủ cung cấp linh thú cho Bách Thú Sơn Trang
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ngưu Đại Lực lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Linh Thú Mục Trường. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Linh Thú Mục Trường và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Mục Trường Chủ.
