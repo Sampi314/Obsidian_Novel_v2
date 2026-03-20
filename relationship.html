@@ -2,7 +2,7 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
     <title>Quan Hệ Đồ — Cố Nguyên Giới</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,57 +16,83 @@
     <style>
         /* ── Multi-Theme Support ── */
         :root, [data-theme="thuy-mac"] {
-            --void: #0c0f14; --ink: #151a22;
+            --void: #0c0f14; --deep: #0f1318; --ink: #151a22;
+            --paper: #1c222c; --paper-mid: #232a36;
             --accent: #d4a574; --accent-bright: #e8be8e; --accent-dim: #9b7a52;
             --crimson: #7a3040; --crimson-bright: #a64458;
             --sage: #6b8f71; --sage-bright: #82ab88;
             --text: #e8e0d4; --muted: #6a7080;
+            --card-bg: rgba(21,26,34,0.85); --card-border: rgba(212,165,116,0.06);
+            --card-glow: rgba(212,165,116,0.04);
+            --is-light: 0;
         }
         [data-theme="huyet-nguyet"] {
-            --void: #100808; --ink: #1c1212;
+            --void: #100808; --deep: #140c0c; --ink: #1c1212;
+            --paper: #241818; --paper-mid: #2c1e1e;
             --accent: #c4746c; --accent-bright: #e09088; --accent-dim: #8a524c;
-            --text: #e8dcd8; --muted: #7a6468;
             --crimson: #8a2020; --crimson-bright: #b83030;
             --sage: #6b8f71; --sage-bright: #82ab88;
+            --text: #e8dcd8; --muted: #7a6468;
+            --card-bg: rgba(28,18,18,0.85); --card-border: rgba(196,116,108,0.06);
+            --card-glow: rgba(196,116,108,0.04);
+            --is-light: 0;
         }
         [data-theme="thanh-truc"] {
-            --void: #080f0c; --ink: #121c16;
+            --void: #080f0c; --deep: #0c1410; --ink: #121c16;
+            --paper: #18241e; --paper-mid: #1e2c24;
             --accent: #7ab88a; --accent-bright: #96d4a6; --accent-dim: #5a8a66;
-            --text: #dce8e0; --muted: #607a68;
             --crimson: #7a3040; --crimson-bright: #a64458;
             --sage: #4a9a6a; --sage-bright: #60b880;
+            --text: #dce8e0; --muted: #607a68;
+            --card-bg: rgba(18,28,22,0.85); --card-border: rgba(122,184,138,0.06);
+            --card-glow: rgba(122,184,138,0.04);
+            --is-light: 0;
         }
         [data-theme="bach-tuyet"] {
-            --void: #f5f0e8; --ink: #faf6ef;
+            --void: #f5f0e8; --deep: #eee7dc; --ink: #faf6ef;
+            --paper: #e8e0d4; --paper-mid: #f0eae0;
             --accent: #8a6020; --accent-bright: #a07428; --accent-dim: #b8a06a;
-            --text: #2a2420; --muted: #7a7068;
             --crimson: #8a3545; --crimson-bright: #a64458;
             --sage: #4a7a52; --sage-bright: #5a9060;
+            --text: #2a2420; --muted: #7a7068;
+            --card-bg: rgba(250,246,239,0.9); --card-border: rgba(138,96,32,0.08);
+            --card-glow: rgba(138,96,32,0.03);
+            --is-light: 1;
         }
         [data-theme="co-thu"] {
-            --void: #0a0908; --ink: #1a1714;
+            --void: #0a0908; --deep: #0f0d0b; --ink: #1a1714;
+            --paper: #242019; --paper-mid: #2e2820;
             --accent: #c9a96e; --accent-bright: #e4c98a; --accent-dim: #8a7549;
-            --text: #d4cbbf; --muted: #7a7067;
             --crimson: #6b1c23; --crimson-bright: #9b2c3a;
             --sage: #2d6a4f; --sage-bright: #40916c;
+            --text: #d4cbbf; --muted: #7a7067;
+            --card-bg: rgba(26,23,20,0.85); --card-border: rgba(201,169,110,0.06);
+            --card-glow: rgba(201,169,110,0.04);
+            --is-light: 0;
+        }
+
+        :root {
+            --nam-cuong: #a64458; --bac-bang: #5a9ec4;
+            --dong-hoang: #c4a24e; --vo-tan-hai: #3a9e8e;
+            --tay-mac: #c89850; --thien-tru: #8a6cb8;
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
+        ::-webkit-scrollbar { width: 5px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: var(--muted); border-radius: 3px; }
 
         body {
             font-family: 'Source Serif 4', 'Georgia', serif;
             background: var(--void);
             color: var(--text);
-            min-height: 100vh;
-            overflow-x: hidden;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
+            overflow: hidden;
+            width: 100vw;
+            height: 100vh;
             position: relative;
         }
 
-        /* Noise */
+        /* Noise overlay */
         body::before {
             content: '';
             position: fixed;
@@ -80,428 +106,1608 @@
             background-size: 256px 256px;
         }
 
-        /* ── Background ── */
-        .scene {
+        /* ── Top bar ── */
+        .top-bar {
             position: fixed;
-            top: 0; left: 0;
-            width: 100%; height: 100%;
-            z-index: 0;
-        }
-
-        .scene-bg {
-            position: absolute;
-            width: 100%; height: 100%;
-            background:
-                radial-gradient(ellipse 80% 60% at 50% 50%, rgba(45, 106, 79, 0.04) 0%, transparent 60%),
-                radial-gradient(ellipse 50% 40% at 30% 40%, rgba(201, 169, 110, 0.025) 0%, transparent 50%),
-                var(--void);
-        }
-
-        /* ── Formation Array Being Drawn ── */
-        .array-container {
-            position: relative;
-            width: 400px; height: 400px;
-            z-index: 5;
-            margin-bottom: 40px;
-        }
-
-        /* Animated drawing rings */
-        .array-ring {
-            position: absolute;
-            top: 50%; left: 50%;
-            border-radius: 50%;
-            transform: translate(-50%, -50%);
-        }
-
-        .array-ring--outer {
-            width: 360px; height: 360px;
-            border: 1px solid transparent;
-            animation: draw-ring 3s ease-out 0.5s forwards;
-        }
-
-        .array-ring--mid {
-            width: 260px; height: 260px;
-            border: 1px solid transparent;
-            animation: draw-ring 2.5s ease-out 1s forwards;
-        }
-
-        .array-ring--inner {
-            width: 160px; height: 160px;
-            border: 1px solid transparent;
-            animation: draw-ring 2s ease-out 1.5s forwards;
-        }
-
-        @keyframes draw-ring {
-            0% {
-                border-color: transparent;
-                box-shadow: none;
-            }
-            30% {
-                border-color: rgba(45, 106, 79, 0.2);
-            }
-            100% {
-                border-color: rgba(45, 106, 79, 0.1);
-                box-shadow: 0 0 20px rgba(45, 106, 79, 0.05);
-            }
-        }
-
-        /* Rotating formation lines */
-        .array-lines {
-            position: absolute;
-            top: 50%; left: 50%;
-            width: 340px; height: 340px;
-            transform: translate(-50%, -50%);
-            animation: slow-rotate 60s linear infinite;
-            opacity: 0;
-            animation: array-appear 2s ease-out 1.5s forwards, slow-rotate 60s linear 3.5s infinite;
-        }
-
-        @keyframes slow-rotate {
-            from { transform: translate(-50%, -50%) rotate(0deg); }
-            to { transform: translate(-50%, -50%) rotate(360deg); }
-        }
-
-        @keyframes array-appear {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
-
-        .array-line {
-            position: absolute;
-            top: 50%; left: 50%;
-            width: 1px;
-            height: 170px;
-            transform-origin: top center;
-            background: linear-gradient(to bottom, rgba(45, 106, 79, 0.15), transparent);
-        }
-
-        /* Trigram characters around the array */
-        .array-char {
-            position: absolute;
-            font-family: 'Noto Serif TC', serif;
-            font-size: 1.1rem;
-            font-weight: 700;
-            color: rgba(201, 169, 110, 0.08);
-            text-shadow: 0 0 10px rgba(201, 169, 110, 0.04);
-            opacity: 0;
-            animation: char-appear 1s ease-out forwards;
-        }
-
-        @keyframes char-appear {
-            from { opacity: 0; transform: scale(0.5); }
-            to { opacity: 1; transform: scale(1); }
-        }
-
-        /* Pulsing center node */
-        .array-center {
-            position: absolute;
-            top: 50%; left: 50%;
-            transform: translate(-50%, -50%);
-            width: 12px; height: 12px;
-            border-radius: 50%;
-            background: rgba(201, 169, 110, 0.3);
-            box-shadow: 0 0 20px rgba(201, 169, 110, 0.15), 0 0 40px rgba(201, 169, 110, 0.05);
-            animation: center-pulse 3s ease-in-out infinite;
-            opacity: 0;
-            animation: center-appear 1s ease-out 2s forwards, center-pulse 3s ease-in-out 3s infinite;
-        }
-
-        @keyframes center-appear {
-            from { opacity: 0; }
-            to { opacity: 1; }
-        }
-
-        @keyframes center-pulse {
-            0%, 100% { transform: translate(-50%, -50%) scale(1); box-shadow: 0 0 20px rgba(201, 169, 110, 0.15); }
-            50% { transform: translate(-50%, -50%) scale(1.5); box-shadow: 0 0 40px rgba(201, 169, 110, 0.25); }
-        }
-
-        /* Connecting node dots — future character positions */
-        .array-node {
-            position: absolute;
-            width: 6px; height: 6px;
-            border-radius: 50%;
-            background: rgba(45, 106, 79, 0.3);
-            box-shadow: 0 0 8px rgba(45, 106, 79, 0.15);
-            opacity: 0;
-            animation: node-appear 0.6s ease-out forwards;
-        }
-
-        @keyframes node-appear {
-            from { opacity: 0; transform: scale(0); }
-            to { opacity: 1; transform: scale(1); }
-        }
-
-        /* ── Text Content ── */
-        .coming-content {
-            position: relative;
-            z-index: 10;
-            text-align: center;
-            padding: 0 24px;
-        }
-
-        .coming-title {
-            font-family: 'Noto Serif TC', 'Cormorant Garamond', serif;
-            font-size: clamp(1.4rem, 3vw, 2rem);
-            font-weight: 500;
-            color: var(--accent);
-            letter-spacing: 0.15em;
-            margin-bottom: 8px;
-            opacity: 0;
-            animation: fade-rise 1.2s ease-out 2.5s forwards;
-            text-shadow: 0 0 40px rgba(201, 169, 110, 0.12);
-        }
-
-        .coming-subtitle {
-            font-family: 'Cormorant Garamond', serif;
-            font-size: clamp(0.8rem, 1.5vw, 0.95rem);
-            color: var(--muted);
-            letter-spacing: 0.3em;
-            margin-bottom: 28px;
-            opacity: 0;
-            animation: fade-rise 1.2s ease-out 2.8s forwards;
-        }
-
-        .coming-divider {
+            top: 0; left: 0; right: 0;
+            height: 48px;
+            background: var(--card-bg);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--card-border);
             display: flex;
             align-items: center;
+            padding: 0 16px;
+            z-index: 100;
             gap: 12px;
-            justify-content: center;
-            margin-bottom: 24px;
-            opacity: 0;
-            animation: fade-rise 1.2s ease-out 3s forwards;
         }
 
-        .coming-divider-line {
-            width: 50px; height: 1px;
-            background: linear-gradient(to right, transparent, rgba(45, 106, 79, 0.3));
-        }
-
-        .coming-divider-line:last-child {
-            background: linear-gradient(to left, transparent, rgba(45, 106, 79, 0.3));
-        }
-
-        .coming-divider-symbol {
-            font-family: 'Noto Serif TC', serif;
-            color: rgba(45, 106, 79, 0.4);
-            font-size: 0.9rem;
-        }
-
-        .coming-desc {
-            font-size: clamp(0.88rem, 1.3vw, 1rem);
-            color: var(--muted);
-            max-width: 500px;
-            margin: 0 auto 12px;
-            line-height: 1.9;
-            opacity: 0;
-            animation: fade-rise 1.2s ease-out 3.2s forwards;
-        }
-
-        .coming-verse {
-            font-family: 'Noto Serif TC', serif;
-            font-size: 0.82rem;
-            color: rgba(201, 169, 110, 0.25);
-            font-style: italic;
-            letter-spacing: 0.12em;
-            margin-bottom: 36px;
-            opacity: 0;
-            animation: fade-rise 1.2s ease-out 3.4s forwards;
-        }
-
-        .coming-btn {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            padding: 14px 32px;
+        .back-link {
             font-family: 'Cormorant Garamond', serif;
             font-size: 0.85rem;
-            letter-spacing: 0.1em;
+            color: var(--sage-bright);
             text-decoration: none;
-            border-radius: 2px;
-            background: rgba(45, 106, 79, 0.1);
-            border: 1px solid rgba(45, 106, 79, 0.2);
-            color: var(--sage-bright);
-            transition: all 0.4s ease;
-            opacity: 0;
-            animation: fade-rise 1.2s ease-out 3.6s forwards;
-        }
-
-        .coming-btn:hover {
-            background: rgba(45, 106, 79, 0.18);
-            border-color: var(--sage-bright);
-            box-shadow: 0 4px 24px rgba(45, 106, 79, 0.1);
-            transform: translateY(-2px);
-        }
-
-        /* Status indicator */
-        .status-badge {
-            display: inline-flex;
+            letter-spacing: 0.05em;
+            display: flex;
             align-items: center;
-            gap: 8px;
-            padding: 6px 16px;
-            border-radius: 20px;
-            border: 1px solid rgba(45, 106, 79, 0.15);
-            background: rgba(45, 106, 79, 0.05);
-            font-size: 0.75rem;
-            color: var(--sage-bright);
-            letter-spacing: 0.08em;
-            margin-bottom: 32px;
-            opacity: 0;
-            animation: fade-rise 1.2s ease-out 2.3s forwards;
+            gap: 6px;
+            transition: color 0.3s;
+            white-space: nowrap;
+        }
+        .back-link:hover { color: var(--accent-bright); }
+        .back-link svg { width: 14px; height: 14px; }
+
+        .top-title {
+            font-family: 'Noto Serif TC', serif;
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: var(--accent);
+            letter-spacing: 0.1em;
+            flex: 1;
+            text-align: center;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
         }
 
-        .status-dot {
+        .theme-select {
+            background: transparent;
+            border: 1px solid var(--card-border);
+            color: var(--muted);
+            font-family: 'Source Serif 4', serif;
+            font-size: 0.75rem;
+            padding: 4px 8px;
+            border-radius: 3px;
+            cursor: pointer;
+            outline: none;
+            min-width: 90px;
+        }
+        .theme-select option { background: var(--ink); color: var(--text); }
+
+        /* ── Canvas ── */
+        #graph-canvas {
+            position: fixed;
+            top: 48px; left: 0;
+            width: 100%;
+            height: calc(100% - 48px);
+            cursor: grab;
+            touch-action: none;
+        }
+        #graph-canvas.grabbing { cursor: grabbing; }
+
+        /* ── Sidebar ── */
+        .sidebar {
+            position: fixed;
+            top: 48px; left: 0;
+            width: 260px;
+            height: calc(100% - 48px);
+            background: var(--card-bg);
+            backdrop-filter: blur(14px);
+            -webkit-backdrop-filter: blur(14px);
+            border-right: 1px solid var(--card-border);
+            z-index: 50;
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+            overflow: hidden;
+        }
+        .sidebar.collapsed { transform: translateX(-260px); }
+
+        .sidebar-toggle {
+            position: fixed;
+            top: 60px;
+            left: 260px;
+            z-index: 51;
+            width: 28px;
+            height: 36px;
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-left: none;
+            border-radius: 0 4px 4px 0;
+            color: var(--muted);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.7rem;
+            transition: left 0.35s cubic-bezier(0.4, 0, 0.2, 1), color 0.2s;
+            backdrop-filter: blur(14px);
+        }
+        .sidebar.collapsed ~ .sidebar-toggle { left: 0; }
+        .sidebar-toggle:hover { color: var(--accent); }
+
+        .sidebar-section {
+            padding: 12px 14px 8px;
+            border-bottom: 1px solid var(--card-border);
+        }
+
+        .sidebar-label {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 0.7rem;
+            color: var(--muted);
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+
+        /* Search */
+        .search-box {
+            width: 100%;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid var(--card-border);
+            color: var(--text);
+            font-family: 'Source Serif 4', serif;
+            font-size: 0.85rem;
+            padding: 7px 10px;
+            border-radius: 3px;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+        .search-box::placeholder { color: var(--muted); opacity: 0.6; }
+        .search-box:focus { border-color: var(--accent-dim); }
+
+        /* Region filters */
+        .region-filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+        .region-btn {
+            font-family: 'Source Serif 4', serif;
+            font-size: 0.72rem;
+            padding: 4px 9px;
+            border-radius: 3px;
+            border: 1px solid var(--card-border);
+            background: transparent;
+            color: var(--muted);
+            cursor: pointer;
+            transition: all 0.25s;
+            white-space: nowrap;
+        }
+        .region-btn.active {
+            color: var(--text);
+            border-color: var(--accent-dim);
+            background: rgba(255,255,255,0.06);
+        }
+        .region-btn:hover { border-color: var(--accent-dim); }
+
+        /* Legend */
+        .legend-list { display: flex; flex-direction: column; gap: 4px; }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 7px;
+            font-size: 0.75rem;
+            color: var(--muted);
+            cursor: pointer;
+            padding: 2px 0;
+            transition: color 0.2s;
+        }
+        .legend-item:hover { color: var(--text); }
+        .legend-dot {
+            width: 10px; height: 3px;
+            border-radius: 2px;
+            flex-shrink: 0;
+        }
+
+        /* ── Character Info Panel ── */
+        .info-panel {
+            position: fixed;
+            top: 48px; right: 0;
+            width: 300px;
+            height: calc(100% - 48px);
+            background: var(--card-bg);
+            backdrop-filter: blur(14px);
+            -webkit-backdrop-filter: blur(14px);
+            border-left: 1px solid var(--card-border);
+            z-index: 50;
+            transform: translateX(100%);
+            transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+            overflow-y: auto;
+            padding: 20px 16px;
+        }
+        .info-panel.open { transform: translateX(0); }
+
+        .info-close {
+            position: absolute;
+            top: 12px; right: 12px;
+            background: none; border: none;
+            color: var(--muted);
+            cursor: pointer;
+            font-size: 1.1rem;
+            transition: color 0.2s;
+            width: 24px; height: 24px;
+            display: flex; align-items: center; justify-content: center;
+        }
+        .info-close:hover { color: var(--accent); }
+
+        .info-avatar {
+            width: 64px; height: 64px;
+            border-radius: 50%;
+            margin: 0 auto 12px;
+            display: flex; align-items: center; justify-content: center;
+            font-family: 'Noto Serif TC', serif;
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: #fff;
+            box-shadow: 0 0 20px rgba(0,0,0,0.3);
+            position: relative;
+        }
+        .info-avatar::after {
+            content: '';
+            position: absolute;
+            inset: -4px;
+            border-radius: 50%;
+            border: 1px solid;
+            border-color: inherit;
+            opacity: 0.3;
+            animation: avatar-pulse 2.5s ease-in-out infinite;
+        }
+        @keyframes avatar-pulse {
+            0%, 100% { transform: scale(1); opacity: 0.3; }
+            50% { transform: scale(1.08); opacity: 0.15; }
+        }
+
+        .info-name {
+            font-family: 'Noto Serif TC', serif;
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: var(--accent);
+            text-align: center;
+            margin-bottom: 2px;
+        }
+        .info-title-text {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 0.85rem;
+            color: var(--muted);
+            text-align: center;
+            margin-bottom: 12px;
+            font-style: italic;
+        }
+
+        .info-details {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            margin-bottom: 16px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid var(--card-border);
+        }
+        .info-row {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.8rem;
+        }
+        .info-row-label { color: var(--muted); }
+        .info-row-value { color: var(--text); text-align: right; max-width: 60%; }
+
+        .info-rels-title {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 0.75rem;
+            color: var(--muted);
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+        .info-rel {
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.03);
+        }
+        .info-rel-header {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            margin-bottom: 3px;
+        }
+        .info-rel-dot {
             width: 6px; height: 6px;
             border-radius: 50%;
-            background: var(--sage-bright);
-            animation: status-blink 2s ease-in-out infinite;
+            flex-shrink: 0;
+        }
+        .info-rel-name {
+            font-size: 0.82rem;
+            color: var(--text);
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+        .info-rel-name:hover { color: var(--accent-bright); }
+        .info-rel-type {
+            font-size: 0.7rem;
+            color: var(--muted);
+            margin-left: auto;
+        }
+        .info-rel-desc {
+            font-size: 0.75rem;
+            color: var(--muted);
+            line-height: 1.5;
+            margin-top: 2px;
+            padding-left: 12px;
         }
 
-        @keyframes status-blink {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.3; }
+        /* ── Tooltip ── */
+        .tooltip {
+            position: fixed;
+            pointer-events: none;
+            z-index: 200;
+            background: var(--card-bg);
+            backdrop-filter: blur(10px);
+            border: 1px solid var(--card-border);
+            border-radius: 4px;
+            padding: 6px 10px;
+            font-size: 0.8rem;
+            color: var(--text);
+            white-space: nowrap;
+            opacity: 0;
+            transition: opacity 0.15s;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+        }
+        .tooltip.visible { opacity: 1; }
+        .tooltip-name {
+            font-family: 'Noto Serif TC', serif;
+            font-weight: 600;
+            color: var(--accent);
+        }
+        .tooltip-sub {
+            font-size: 0.7rem;
+            color: var(--muted);
         }
 
-        @keyframes fade-rise {
-            from { opacity: 0; transform: translateY(15px); }
-            to { opacity: 1; transform: translateY(0); }
+        /* ── Stats bar ── */
+        .stats-bar {
+            position: fixed;
+            bottom: 10px; left: 50%;
+            transform: translateX(-50%);
+            z-index: 60;
+            background: var(--card-bg);
+            backdrop-filter: blur(10px);
+            border: 1px solid var(--card-border);
+            border-radius: 4px;
+            padding: 5px 14px;
+            font-size: 0.7rem;
+            color: var(--muted);
+            display: flex;
+            gap: 16px;
+            white-space: nowrap;
         }
 
-        /* Ambient particles */
+        /* ── Zoom controls ── */
+        .zoom-controls {
+            position: fixed;
+            bottom: 50px;
+            right: 16px;
+            z-index: 60;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+        .zoom-btn {
+            width: 32px; height: 32px;
+            background: var(--card-bg);
+            backdrop-filter: blur(10px);
+            border: 1px solid var(--card-border);
+            border-radius: 4px;
+            color: var(--muted);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1rem;
+            transition: color 0.2s, border-color 0.2s;
+        }
+        .zoom-btn:hover { color: var(--accent); border-color: var(--accent-dim); }
+
+        /* ── Ambient particles ── */
         .ambient-particle {
             position: fixed;
             border-radius: 50%;
-            z-index: 2;
+            z-index: 1;
             pointer-events: none;
             animation: ambient-float var(--dur) ease-in-out infinite;
             animation-delay: var(--delay);
         }
-
         @keyframes ambient-float {
             0%, 100% { transform: translateY(0); opacity: var(--o, 0.2); }
             50% { transform: translateY(var(--dy, -20px)); opacity: calc(var(--o, 0.2) * 1.5); }
         }
 
-        @media (max-width: 640px) {
-            .array-container { width: 280px; height: 280px; }
-            .array-ring--outer { width: 250px; height: 250px; }
-            .array-ring--mid { width: 180px; height: 180px; }
-            .array-ring--inner { width: 110px; height: 110px; }
+        /* ── Mobile ── */
+        @media (max-width: 768px) {
+            .sidebar {
+                width: 220px;
+            }
+            .sidebar.collapsed { transform: translateX(-220px); }
+            .sidebar-toggle { left: 220px; }
+            .sidebar.collapsed ~ .sidebar-toggle { left: 0; }
+            .info-panel { width: 100%; }
+            .top-title { font-size: 0.82rem; }
+            .stats-bar { font-size: 0.65rem; gap: 10px; padding: 4px 10px; }
+        }
+        @media (max-width: 480px) {
+            .sidebar { width: 200px; }
+            .sidebar.collapsed { transform: translateX(-200px); }
+            .sidebar-toggle { left: 200px; }
+            .sidebar.collapsed ~ .sidebar-toggle { left: 0; }
         }
     </style>
 </head>
 <body>
 
-    <div class="scene">
-        <div class="scene-bg"></div>
+<!-- Top Bar -->
+<div class="top-bar">
+    <a href="index.html" class="back-link">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
+        Trang Chủ
+    </a>
+    <div class="top-title">Trận Pháp Quan Hệ  —  Cố Nguyên Giới</div>
+    <select class="theme-select" id="theme-select">
+        <option value="thuy-mac">Thủy Mặc</option>
+        <option value="huyet-nguyet">Huyết Nguyệt</option>
+        <option value="thanh-truc">Thanh Trúc</option>
+        <option value="bach-tuyet">Bạch Tuyết</option>
+        <option value="co-thu">Cổ Thư</option>
+    </select>
+</div>
+
+<!-- Sidebar -->
+<div class="sidebar" id="sidebar">
+    <div class="sidebar-section">
+        <div class="sidebar-label">Tìm Kiếm</div>
+        <input type="text" class="search-box" id="search-box" placeholder="Tên nhân vật...">
     </div>
-
-    <!-- Formation Array Animation -->
-    <div class="array-container" id="array-container">
-        <div class="array-ring array-ring--outer"></div>
-        <div class="array-ring array-ring--mid"></div>
-        <div class="array-ring array-ring--inner"></div>
-        <div class="array-lines" id="array-lines"></div>
-        <div class="array-center"></div>
+    <div class="sidebar-section">
+        <div class="sidebar-label">Khu Vực</div>
+        <div class="region-filters" id="region-filters"></div>
     </div>
-
-    <div class="coming-content">
-        <div class="status-badge">
-            <div class="status-dot"></div>
-            Đang Xây Dựng
-        </div>
-
-        <h1 class="coming-title">Quan Hệ Đồ  關係圖</h1>
-        <p class="coming-subtitle">Biểu Đồ Quan Hệ Nhân Vật</p>
-
-        <div class="coming-divider">
-            <div class="coming-divider-line"></div>
-            <span class="coming-divider-symbol">陣</span>
-            <div class="coming-divider-line"></div>
-        </div>
-
-        <p class="coming-desc">
-            Trận pháp quan hệ đang được vẽ.<br>
-            Biểu đồ tương tác giữa các nhân vật trong Cố Nguyên Giới sẽ sớm hoàn thiện.
-        </p>
-
-        <p class="coming-verse">「 萬 物 皆 有 緣 ， 緣 起 緣 滅 」</p>
-
-        <a href="index.html" class="coming-btn">Về Trang Chủ</a>
+    <div class="sidebar-section" style="flex:1;overflow-y:auto;">
+        <div class="sidebar-label">Chú Giải</div>
+        <div class="legend-list" id="legend-list"></div>
     </div>
+</div>
+<button class="sidebar-toggle" id="sidebar-toggle" title="Ẩn/hiện thanh bên">&lsaquo;</button>
 
-    <!-- Ambient particles -->
-    <div id="ambient-particles"></div>
+<!-- Canvas -->
+<canvas id="graph-canvas"></canvas>
 
-    <script src="scripts/navbar.js"></script>
-    <script>
-    (function() {
-        /* Formation lines */
-        var linesEl = document.getElementById('array-lines');
-        for (var l = 0; l < 8; l++) {
-            var line = document.createElement('div');
-            line.className = 'array-line';
-            var angle = (l / 8) * 360;
-            line.style.transform = 'rotate(' + angle + 'deg)';
-            linesEl.appendChild(line);
+<!-- Tooltip -->
+<div class="tooltip" id="tooltip">
+    <div class="tooltip-name" id="tooltip-name"></div>
+    <div class="tooltip-sub" id="tooltip-sub"></div>
+</div>
+
+<!-- Info Panel -->
+<div class="info-panel" id="info-panel">
+    <button class="info-close" id="info-close">&times;</button>
+    <div id="info-content"></div>
+</div>
+
+<!-- Stats Bar -->
+<div class="stats-bar" id="stats-bar"></div>
+
+<!-- Zoom Controls -->
+<div class="zoom-controls">
+    <button class="zoom-btn" id="zoom-in" title="Phóng to">+</button>
+    <button class="zoom-btn" id="zoom-out" title="Thu nhỏ">&minus;</button>
+    <button class="zoom-btn" id="zoom-reset" title="Đặt lại" style="font-size:0.7rem;">R</button>
+</div>
+
+<!-- Ambient particles -->
+<div id="ambient-particles"></div>
+
+<script src="scripts/relationship_data.js"></script>
+<script>
+(function() {
+    'use strict';
+
+    // ─── Data normalization ───
+    var data = window.relationshipData || {};
+    var characters = (data.characters || []).slice();
+    var relationships = (data.relationships || []).slice();
+    var factions = (data.factions || []).slice();
+
+    // Build lookup by id AND by name
+    var charById = {};
+    var charByName = {};
+    var i, c, r;
+    for (i = 0; i < characters.length; i++) {
+        c = characters[i];
+        charById[c.id] = c;
+        charByName[c.name] = c;
+    }
+
+    // Normalize relationships: handle from/to vs source/target, name-based refs
+    function resolveCharId(ref) {
+        if (!ref) return null;
+        if (charById[ref]) return ref;
+        if (charByName[ref]) return charByName[ref].id;
+        // Try lowercase/normalized
+        var lower = ref.toLowerCase().replace(/\s+/g, '_');
+        if (charById[lower]) return lower;
+        return null;
+    }
+
+    var normalizedRels = [];
+    for (i = 0; i < relationships.length; i++) {
+        r = relationships[i];
+        var src = r.source || r.from;
+        var tgt = r.target || r.to;
+        var srcId = resolveCharId(src);
+        var tgtId = resolveCharId(tgt);
+        if (srcId && tgtId) {
+            normalizedRels.push({
+                source: srcId,
+                target: tgtId,
+                type: (r.type || 'neutral').toLowerCase().replace(/[\s\/]+/g, '_'),
+                description: r.description || r.desc || r.notes || '',
+                label: r.label || '',
+                strength: r.strength || 50
+            });
+        }
+    }
+    relationships = normalizedRels;
+
+    // ─── Relationship type color mapping ───
+    var typeColors = {
+        'ally': '#4caf50', 'positive': '#4caf50', 'friendly': '#4caf50',
+        'dong_minh': '#4caf50', 'hop_tac': '#4caf50',
+        'enemy': '#e53935', 'hostile': '#e53935', 'ke_thu': '#e53935',
+        'conflict': '#e53935', 'negative': '#e53935',
+        'master': '#ffc107', 'subordinate': '#ffc107', 'chu_to': '#ffc107',
+        'leader': '#ffc107', 'disciple': '#ffc107',
+        'neutral': '#78909c', 'ngo_vuc': '#78909c',
+        'rival': '#ff9800',
+        'family': '#42a5f5', 'mentor': '#42a5f5'
+    };
+
+    function getTypeColor(type) {
+        var t = (type || '').toLowerCase().replace(/[\s\/]+/g, '_');
+        // Check exact match
+        if (typeColors[t]) return typeColors[t];
+        // Check partial matches
+        if (t.indexOf('dong_minh') >= 0 || t.indexOf('ally') >= 0 || t.indexOf('positive') >= 0 ||
+            t.indexOf('friendly') >= 0 || t.indexOf('hop_tac') >= 0 || t.indexOf('bao_ve') >= 0 ||
+            t.indexOf('tin_tuong') >= 0 || t.indexOf('che_cho') >= 0 || t.indexOf('dong_doi') >= 0 ||
+            t.indexOf('dong_su') >= 0) return '#4caf50';
+        if (t.indexOf('enemy') >= 0 || t.indexOf('hostile') >= 0 || t.indexOf('ke_thu') >= 0 ||
+            t.indexOf('conflict') >= 0 || t.indexOf('negative') >= 0) return '#e53935';
+        if (t.indexOf('master') >= 0 || t.indexOf('subordinate') >= 0 || t.indexOf('chu_to') >= 0 ||
+            t.indexOf('leader') >= 0 || t.indexOf('disciple') >= 0 || t.indexOf('cap_tren') >= 0 ||
+            t.indexOf('cap_duoi') >= 0) return '#ffc107';
+        if (t.indexOf('rival') >= 0 || t.indexOf('canh_tranh') >= 0) return '#ff9800';
+        if (t.indexOf('family') >= 0 || t.indexOf('mentor') >= 0 || t.indexOf('chi_em') >= 0 ||
+            t.indexOf('su_phu') >= 0 || t.indexOf('su_de') >= 0) return '#42a5f5';
+        if (t.indexOf('ngo_vuc') >= 0 || t.indexOf('neutral') >= 0) return '#78909c';
+        return '#78909c';
+    }
+
+    var legendCategories = [
+        { label: 'Đồng minh / Tích cực', color: '#4caf50' },
+        { label: 'Thù địch / Xung đột', color: '#e53935' },
+        { label: 'Sư phụ / Cấp dưới', color: '#ffc107' },
+        { label: 'Trung lập / Ngờ vực', color: '#78909c' },
+        { label: 'Địch thủ / Cạnh tranh', color: '#ff9800' },
+        { label: 'Gia đình / Sư đồ', color: '#42a5f5' }
+    ];
+
+    // ─── Regions ───
+    var regionColors = {
+        'Tay Mac': '#c89850',
+        'Thien Tru': '#8a6cb8',
+        'Bac Bang': '#5a9ec4',
+        'Vo Tan Hai': '#3a9e8e',
+        'Trung Tam': '#d4a574',
+        'Dong Hoang': '#c4a24e'
+    };
+
+    // Normalize region names for comparison (strip diacritics)
+    function normalizeStr(s) {
+        if (!s) return '';
+        return s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[dDdD\u0110\u0111]/g, 'd');
+    }
+
+    // Build region -> normalized mapping
+    var regionMap = {};
+    var allRegions = [];
+    for (i = 0; i < characters.length; i++) {
+        var reg = characters[i].region;
+        if (reg) {
+            var normReg = normalizeStr(reg);
+            if (!regionMap[normReg]) {
+                regionMap[normReg] = reg;
+                allRegions.push(reg);
+            }
+        }
+    }
+    // Deduplicate using normalized
+    var uniqueRegions = [];
+    var seenNorm = {};
+    for (i = 0; i < allRegions.length; i++) {
+        var n = normalizeStr(allRegions[i]);
+        if (!seenNorm[n]) {
+            seenNorm[n] = true;
+            uniqueRegions.push(allRegions[i]);
+        }
+    }
+    allRegions = uniqueRegions;
+
+    function getRegionColor(region) {
+        var norm = normalizeStr(region);
+        for (var key in regionColors) {
+            if (norm === normalizeStr(key)) return regionColors[key];
+        }
+        return '#888';
+    }
+
+    // ─── Build graph nodes ───
+    var nodes = [];
+    var nodeMap = {};
+    var connectionCount = {};
+
+    // Count connections per character
+    for (i = 0; i < relationships.length; i++) {
+        r = relationships[i];
+        connectionCount[r.source] = (connectionCount[r.source] || 0) + 1;
+        connectionCount[r.target] = (connectionCount[r.target] || 0) + 1;
+    }
+
+    for (i = 0; i < characters.length; i++) {
+        c = characters[i];
+        var conns = connectionCount[c.id] || 0;
+        var radius = Math.max(5, Math.min(18, 5 + conns * 1.3));
+        var node = {
+            id: c.id,
+            x: 0,
+            y: 0,
+            vx: 0,
+            vy: 0,
+            radius: radius,
+            character: c,
+            connections: conns,
+            visible: true,
+            highlighted: false,
+            selected: false,
+            dimmed: false,
+            factionCluster: normalizeStr(c.faction || '')
+        };
+        nodes.push(node);
+        nodeMap[c.id] = node;
+    }
+
+    // ─── Build edges ───
+    var edges = [];
+    for (i = 0; i < relationships.length; i++) {
+        r = relationships[i];
+        if (nodeMap[r.source] && nodeMap[r.target]) {
+            edges.push({
+                source: nodeMap[r.source],
+                target: nodeMap[r.target],
+                rel: r,
+                color: getTypeColor(r.type)
+            });
+        }
+    }
+
+    // ─── Layout initialization ───
+    var canvas = document.getElementById('graph-canvas');
+    var ctx = canvas.getContext('2d');
+    var W, H;
+    var dpr = window.devicePixelRatio || 1;
+
+    function resizeCanvas() {
+        W = window.innerWidth;
+        H = window.innerHeight - 48;
+        canvas.width = W * dpr;
+        canvas.height = H * dpr;
+        canvas.style.width = W + 'px';
+        canvas.style.height = H + 'px';
+        ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    }
+    resizeCanvas();
+    window.addEventListener('resize', function() {
+        resizeCanvas();
+    });
+
+    // Faction cluster centers
+    var factionClusters = {};
+    var factionList = [];
+    for (i = 0; i < nodes.length; i++) {
+        var fc = nodes[i].factionCluster;
+        if (fc && !factionClusters[fc]) {
+            factionClusters[fc] = { x: 0, y: 0, count: 0 };
+            factionList.push(fc);
+        }
+        if (fc) factionClusters[fc].count++;
+    }
+
+    // Place faction clusters in a circle
+    var clusterRadius = Math.min(W, H) * 0.32;
+    for (i = 0; i < factionList.length; i++) {
+        var angle = (i / factionList.length) * Math.PI * 2 - Math.PI / 2;
+        factionClusters[factionList[i]].x = Math.cos(angle) * clusterRadius;
+        factionClusters[factionList[i]].y = Math.sin(angle) * clusterRadius;
+    }
+
+    // Initialize node positions near their faction cluster
+    for (i = 0; i < nodes.length; i++) {
+        var nd = nodes[i];
+        var cl = factionClusters[nd.factionCluster];
+        if (cl) {
+            nd.x = cl.x + (Math.random() - 0.5) * 100;
+            nd.y = cl.y + (Math.random() - 0.5) * 100;
+        } else {
+            nd.x = (Math.random() - 0.5) * W * 0.6;
+            nd.y = (Math.random() - 0.5) * H * 0.6;
+        }
+    }
+
+    // ─── Camera ───
+    var cam = { x: 0, y: 0, zoom: 1 };
+    var targetZoom = 1;
+
+    function screenToWorld(sx, sy) {
+        return {
+            x: (sx - W / 2) / cam.zoom + cam.x,
+            y: (sy - H / 2) / cam.zoom + cam.y
+        };
+    }
+    function worldToScreen(wx, wy) {
+        return {
+            x: (wx - cam.x) * cam.zoom + W / 2,
+            y: (wy - cam.y) * cam.zoom + H / 2
+        };
+    }
+
+    // ─── Physics simulation ───
+    var simRunning = true;
+    var simCooling = 1.0;
+    var simIterations = 0;
+    var maxIterations = 600;
+
+    function simulate() {
+        if (!simRunning) return;
+        if (simIterations > maxIterations) { simCooling *= 0.998; }
+        simIterations++;
+        var alpha = Math.max(0.001, simCooling * 0.3);
+
+        var ni, nj, dx, dy, dist, force, fx, fy;
+
+        // Repulsion between all visible nodes
+        for (i = 0; i < nodes.length; i++) {
+            ni = nodes[i];
+            if (!ni.visible) continue;
+            for (var j = i + 1; j < nodes.length; j++) {
+                nj = nodes[j];
+                if (!nj.visible) continue;
+                dx = ni.x - nj.x;
+                dy = ni.y - nj.y;
+                dist = Math.sqrt(dx * dx + dy * dy);
+                if (dist < 1) { dist = 1; dx = Math.random() - 0.5; dy = Math.random() - 0.5; }
+                var minDist = (ni.radius + nj.radius) * 3;
+                force = 800 / (dist * dist);
+                if (dist < minDist) force += (minDist - dist) * 0.5;
+                fx = (dx / dist) * force * alpha;
+                fy = (dy / dist) * force * alpha;
+                ni.vx += fx;
+                ni.vy += fy;
+                nj.vx -= fx;
+                nj.vy -= fy;
+            }
         }
 
-        /* Trigram characters around array */
-        var container = document.getElementById('array-container');
-        var trigrams = ['乾', '兌', '離', '震', '巽', '坎', '艮', '坤'];
-        var cw = container.offsetWidth || 400;
-        var ch = container.offsetHeight || 400;
-        for (var t = 0; t < trigrams.length; t++) {
-            var tc = document.createElement('div');
-            tc.className = 'array-char';
-            tc.textContent = trigrams[t];
-            var angle = (t / trigrams.length) * 360;
-            var radius = (cw / 2) - 10;
-            var tx = (cw / 2) + radius * Math.cos((angle - 90) * Math.PI / 180) - 8;
-            var ty = (ch / 2) + radius * Math.sin((angle - 90) * Math.PI / 180) - 10;
-            tc.style.left = tx + 'px';
-            tc.style.top = ty + 'px';
-            tc.style.animationDelay = (2 + t * 0.15) + 's';
-            container.appendChild(tc);
+        // Spring force along edges
+        for (i = 0; i < edges.length; i++) {
+            var e = edges[i];
+            if (!e.source.visible || !e.target.visible) continue;
+            dx = e.target.x - e.source.x;
+            dy = e.target.y - e.source.y;
+            dist = Math.sqrt(dx * dx + dy * dy);
+            if (dist < 1) dist = 1;
+            var idealLen = 80 + (e.source.radius + e.target.radius);
+            force = (dist - idealLen) * 0.015 * alpha;
+            fx = (dx / dist) * force;
+            fy = (dy / dist) * force;
+            e.source.vx += fx;
+            e.source.vy += fy;
+            e.target.vx -= fx;
+            e.target.vy -= fy;
         }
 
-        /* Node dots on the mid ring */
-        var nodeCount = 6;
-        var midRadius = 130;
-        for (var n = 0; n < nodeCount; n++) {
-            var node = document.createElement('div');
-            node.className = 'array-node';
-            var nAngle = (n / nodeCount) * 360;
-            var nx = (cw / 2) + midRadius * Math.cos((nAngle - 90) * Math.PI / 180) - 3;
-            var ny = (ch / 2) + midRadius * Math.sin((nAngle - 90) * Math.PI / 180) - 3;
-            node.style.left = nx + 'px';
-            node.style.top = ny + 'px';
-            node.style.animationDelay = (1.8 + n * 0.2) + 's';
-            container.appendChild(node);
+        // Faction clustering force
+        for (i = 0; i < nodes.length; i++) {
+            ni = nodes[i];
+            if (!ni.visible) continue;
+            var cluster = factionClusters[ni.factionCluster];
+            if (cluster) {
+                dx = cluster.x - ni.x;
+                dy = cluster.y - ni.y;
+                ni.vx += dx * 0.003 * alpha;
+                ni.vy += dy * 0.003 * alpha;
+            }
         }
 
-        /* Ambient particles */
-        var ambEl = document.getElementById('ambient-particles');
-        for (var p = 0; p < 15; p++) {
-            var pt = document.createElement('div');
-            pt.className = 'ambient-particle';
-            var pSize = 1 + Math.random() * 3;
-            var pOp = 0.08 + Math.random() * 0.15;
-            var isJade = Math.random() > 0.4;
-            var c = isJade ? 'rgba(45,106,79,' + pOp + ')' : 'rgba(201,169,110,' + (pOp * 0.6) + ')';
-            pt.style.cssText =
-                'width:' + pSize + 'px;height:' + pSize + 'px;' +
-                'top:' + (Math.random() * 100) + '%;' +
-                'left:' + (Math.random() * 100) + '%;' +
-                'background:' + c + ';' +
-                'box-shadow:0 0 ' + (pSize * 3) + 'px ' + c + ';' +
-                '--dur:' + (4 + Math.random() * 8) + 's;' +
-                '--delay:' + (Math.random() * 6) + 's;' +
-                '--dy:' + (-10 - Math.random() * 20) + 'px;' +
-                '--o:' + pOp + ';';
-            ambEl.appendChild(pt);
+        // Centering force
+        for (i = 0; i < nodes.length; i++) {
+            ni = nodes[i];
+            if (!ni.visible) continue;
+            ni.vx -= ni.x * 0.0003 * alpha;
+            ni.vy -= ni.y * 0.0003 * alpha;
         }
-    })();
-    </script>
+
+        // Apply velocity with damping
+        var damping = 0.85;
+        var maxV = 8;
+        for (i = 0; i < nodes.length; i++) {
+            ni = nodes[i];
+            if (ni === dragNode) continue;
+            ni.vx *= damping;
+            ni.vy *= damping;
+            var speed = Math.sqrt(ni.vx * ni.vx + ni.vy * ni.vy);
+            if (speed > maxV) {
+                ni.vx = (ni.vx / speed) * maxV;
+                ni.vy = (ni.vy / speed) * maxV;
+            }
+            ni.x += ni.vx;
+            ni.y += ni.vy;
+        }
+
+        // Gradually cool simulation
+        if (simIterations > 200) {
+            simCooling *= 0.999;
+        }
+    }
+
+    // ─── Rendering ───
+    var animTime = 0;
+
+    function draw() {
+        animTime += 0.016;
+        ctx.clearRect(0, 0, W, H);
+
+        // Smooth zoom
+        cam.zoom += (targetZoom - cam.zoom) * 0.12;
+
+        ctx.save();
+        ctx.translate(W / 2, H / 2);
+        ctx.scale(cam.zoom, cam.zoom);
+        ctx.translate(-cam.x, -cam.y);
+
+        // Draw edges
+        for (i = 0; i < edges.length; i++) {
+            var e = edges[i];
+            if (!e.source.visible || !e.target.visible) continue;
+
+            var edgeDimmed = false;
+            if (selectedNode) {
+                if (e.source !== selectedNode && e.target !== selectedNode) {
+                    edgeDimmed = true;
+                }
+            }
+            if (searchActive) {
+                if (e.source.dimmed && e.target.dimmed) edgeDimmed = true;
+            }
+
+            ctx.beginPath();
+            ctx.moveTo(e.source.x, e.source.y);
+            ctx.lineTo(e.target.x, e.target.y);
+
+            if (edgeDimmed) {
+                ctx.strokeStyle = hexToRgba(e.color, 0.06);
+                ctx.lineWidth = 0.5;
+            } else {
+                var edgeAlpha = selectedNode ? 0.6 : 0.2;
+                ctx.strokeStyle = hexToRgba(e.color, edgeAlpha);
+                ctx.lineWidth = selectedNode ? 1.5 : 0.8;
+            }
+            ctx.stroke();
+
+            // Glow for selected edges
+            if (selectedNode && !edgeDimmed) {
+                ctx.beginPath();
+                ctx.moveTo(e.source.x, e.source.y);
+                ctx.lineTo(e.target.x, e.target.y);
+                ctx.strokeStyle = hexToRgba(e.color, 0.15);
+                ctx.lineWidth = 4;
+                ctx.stroke();
+            }
+        }
+
+        // Draw nodes
+        for (i = 0; i < nodes.length; i++) {
+            var nd = nodes[i];
+            if (!nd.visible) continue;
+
+            var isDimmed = nd.dimmed || (selectedNode && !nd.selected && !nd.highlighted);
+            var isSelected = nd === selectedNode;
+            var isHighlighted = nd.highlighted;
+
+            // Node glow
+            if (isSelected) {
+                var pulseR = nd.radius + 8 + Math.sin(animTime * 3) * 3;
+                ctx.beginPath();
+                ctx.arc(nd.x, nd.y, pulseR, 0, Math.PI * 2);
+                ctx.fillStyle = hexToRgba(nd.character.avatar_color || '#fff', 0.12);
+                ctx.fill();
+
+                ctx.beginPath();
+                ctx.arc(nd.x, nd.y, pulseR + 4, 0, Math.PI * 2);
+                ctx.fillStyle = hexToRgba(nd.character.avatar_color || '#fff', 0.05);
+                ctx.fill();
+            } else if (isHighlighted) {
+                ctx.beginPath();
+                ctx.arc(nd.x, nd.y, nd.radius + 5, 0, Math.PI * 2);
+                ctx.fillStyle = hexToRgba(nd.character.avatar_color || '#fff', 0.1);
+                ctx.fill();
+            }
+
+            // Node circle
+            ctx.beginPath();
+            ctx.arc(nd.x, nd.y, nd.radius, 0, Math.PI * 2);
+            var nodeAlpha = isDimmed ? 0.12 : (isSelected ? 1.0 : (isHighlighted ? 0.85 : 0.65));
+            ctx.fillStyle = hexToRgba(nd.character.avatar_color || '#888', nodeAlpha);
+            ctx.fill();
+
+            // Border
+            if (!isDimmed) {
+                ctx.beginPath();
+                ctx.arc(nd.x, nd.y, nd.radius, 0, Math.PI * 2);
+                ctx.strokeStyle = hexToRgba(nd.character.avatar_color || '#888', isSelected ? 0.9 : 0.35);
+                ctx.lineWidth = isSelected ? 2 : 1;
+                ctx.stroke();
+            }
+
+            // POV indicator
+            if (nd.character.pov && !isDimmed) {
+                ctx.beginPath();
+                ctx.arc(nd.x, nd.y, nd.radius + 3, 0, Math.PI * 2);
+                ctx.strokeStyle = hexToRgba('#ffc107', 0.4);
+                ctx.lineWidth = 1;
+                ctx.setLineDash([3, 3]);
+                ctx.stroke();
+                ctx.setLineDash([]);
+            }
+
+            // Node label (show when zoomed in enough or selected/highlighted)
+            if (cam.zoom > 0.6 || isSelected || isHighlighted) {
+                if (!isDimmed || cam.zoom > 1.2) {
+                    var labelAlpha = isDimmed ? 0.2 : (isSelected ? 1.0 : (isHighlighted ? 0.9 : Math.min(1, (cam.zoom - 0.4) * 1.5)));
+                    var fontSize = Math.max(8, Math.min(12, 10 / cam.zoom));
+                    ctx.font = '500 ' + fontSize + 'px "Noto Serif TC", serif';
+                    ctx.textAlign = 'center';
+                    ctx.textBaseline = 'top';
+                    ctx.fillStyle = hexToRgba(getComputedCSSVar('--text', '#e8e0d4'), labelAlpha);
+                    ctx.fillText(nd.character.name, nd.x, nd.y + nd.radius + 4);
+                }
+            }
+        }
+
+        ctx.restore();
+    }
+
+    function hexToRgba(hex, alpha) {
+        if (!hex) hex = '#888888';
+        // Handle rgb/rgba
+        if (hex.indexOf('rgb') === 0) {
+            return hex.replace(')', ', ' + alpha + ')').replace('rgb(', 'rgba(');
+        }
+        hex = hex.replace('#', '');
+        if (hex.length === 3) hex = hex[0]+hex[0]+hex[1]+hex[1]+hex[2]+hex[2];
+        var rr = parseInt(hex.substring(0, 2), 16);
+        var gg = parseInt(hex.substring(2, 4), 16);
+        var bb = parseInt(hex.substring(4, 6), 16);
+        return 'rgba(' + rr + ',' + gg + ',' + bb + ',' + alpha + ')';
+    }
+
+    function getComputedCSSVar(name, fallback) {
+        try {
+            var val = getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+            return val || fallback;
+        } catch(e) { return fallback; }
+    }
+
+    // ─── Hit testing ───
+    function findNodeAt(wx, wy) {
+        var hitRadius = 8 / cam.zoom;
+        var closest = null;
+        var closestDist = Infinity;
+        for (var i = 0; i < nodes.length; i++) {
+            var nd = nodes[i];
+            if (!nd.visible) continue;
+            var dx = nd.x - wx;
+            var dy = nd.y - wy;
+            var dist = Math.sqrt(dx * dx + dy * dy);
+            if (dist < nd.radius + hitRadius && dist < closestDist) {
+                closest = nd;
+                closestDist = dist;
+            }
+        }
+        return closest;
+    }
+
+    // ─── Interaction state ───
+    var selectedNode = null;
+    var hoveredNode = null;
+    var dragNode = null;
+    var isPanning = false;
+    var panStart = { x: 0, y: 0 };
+    var camStart = { x: 0, y: 0 };
+    var searchActive = false;
+    var activeRegions = {};
+
+    // Initialize all regions active
+    for (i = 0; i < allRegions.length; i++) {
+        activeRegions[normalizeStr(allRegions[i])] = true;
+    }
+
+    // ─── Mouse/Touch handlers ───
+    var mouseDown = false;
+    var mouseDownPos = { x: 0, y: 0 };
+    var mouseDownTime = 0;
+    var hasDragged = false;
+
+    canvas.addEventListener('mousedown', function(e) {
+        var rect = canvas.getBoundingClientRect();
+        var sx = e.clientX - rect.left;
+        var sy = e.clientY - rect.top;
+        var wp = screenToWorld(sx, sy);
+        var node = findNodeAt(wp.x, wp.y);
+
+        mouseDown = true;
+        mouseDownPos = { x: e.clientX, y: e.clientY };
+        mouseDownTime = Date.now();
+        hasDragged = false;
+
+        if (node) {
+            dragNode = node;
+            // Reheat simulation when dragging
+            simCooling = Math.max(simCooling, 0.3);
+            simIterations = Math.min(simIterations, maxIterations - 100);
+        } else {
+            isPanning = true;
+            panStart = { x: e.clientX, y: e.clientY };
+            camStart = { x: cam.x, y: cam.y };
+            canvas.classList.add('grabbing');
+        }
+    });
+
+    canvas.addEventListener('mousemove', function(e) {
+        var rect = canvas.getBoundingClientRect();
+        var sx = e.clientX - rect.left;
+        var sy = e.clientY - rect.top;
+        var wp = screenToWorld(sx, sy);
+
+        if (mouseDown) {
+            var ddx = e.clientX - mouseDownPos.x;
+            var ddy = e.clientY - mouseDownPos.y;
+            if (Math.abs(ddx) > 3 || Math.abs(ddy) > 3) hasDragged = true;
+        }
+
+        if (dragNode) {
+            dragNode.x = wp.x;
+            dragNode.y = wp.y;
+            dragNode.vx = 0;
+            dragNode.vy = 0;
+        } else if (isPanning) {
+            var dx = (e.clientX - panStart.x) / cam.zoom;
+            var dy = (e.clientY - panStart.y) / cam.zoom;
+            cam.x = camStart.x - dx;
+            cam.y = camStart.y - dy;
+        } else {
+            // Hover detection
+            var node = findNodeAt(wp.x, wp.y);
+            if (node !== hoveredNode) {
+                hoveredNode = node;
+                updateTooltip(e.clientX, e.clientY);
+            }
+        }
+    });
+
+    canvas.addEventListener('mouseup', function(e) {
+        if (dragNode && !hasDragged) {
+            selectNode(dragNode);
+        } else if (!isPanning && !hasDragged) {
+            var rect = canvas.getBoundingClientRect();
+            var sx = e.clientX - rect.left;
+            var sy = e.clientY - rect.top;
+            var wp = screenToWorld(sx, sy);
+            var node = findNodeAt(wp.x, wp.y);
+            if (!node) {
+                deselectNode();
+            }
+        } else if (isPanning && !hasDragged) {
+            deselectNode();
+        }
+
+        dragNode = null;
+        isPanning = false;
+        mouseDown = false;
+        canvas.classList.remove('grabbing');
+    });
+
+    canvas.addEventListener('mouseleave', function() {
+        hoveredNode = null;
+        updateTooltip(0, 0);
+        if (isPanning) {
+            isPanning = false;
+            canvas.classList.remove('grabbing');
+        }
+    });
+
+    // Wheel zoom
+    canvas.addEventListener('wheel', function(e) {
+        e.preventDefault();
+        var zoomFactor = e.deltaY < 0 ? 1.1 : 0.9;
+        targetZoom = Math.max(0.15, Math.min(5, targetZoom * zoomFactor));
+
+        // Zoom toward mouse position
+        var rect = canvas.getBoundingClientRect();
+        var sx = e.clientX - rect.left;
+        var sy = e.clientY - rect.top;
+        var wp = screenToWorld(sx, sy);
+        cam.x += (wp.x - cam.x) * (1 - 1/zoomFactor) * 0.3;
+        cam.y += (wp.y - cam.y) * (1 - 1/zoomFactor) * 0.3;
+    }, { passive: false });
+
+    // ─── Touch handlers ───
+    var touches = {};
+    var lastPinchDist = 0;
+
+    canvas.addEventListener('touchstart', function(e) {
+        e.preventDefault();
+        var rect = canvas.getBoundingClientRect();
+        if (e.touches.length === 1) {
+            var t = e.touches[0];
+            var sx = t.clientX - rect.left;
+            var sy = t.clientY - rect.top;
+            var wp = screenToWorld(sx, sy);
+            var node = findNodeAt(wp.x, wp.y);
+
+            mouseDown = true;
+            mouseDownPos = { x: t.clientX, y: t.clientY };
+            mouseDownTime = Date.now();
+            hasDragged = false;
+
+            if (node) {
+                dragNode = node;
+                simCooling = Math.max(simCooling, 0.3);
+            } else {
+                isPanning = true;
+                panStart = { x: t.clientX, y: t.clientY };
+                camStart = { x: cam.x, y: cam.y };
+            }
+        } else if (e.touches.length === 2) {
+            dragNode = null;
+            isPanning = false;
+            var dx = e.touches[0].clientX - e.touches[1].clientX;
+            var dy = e.touches[0].clientY - e.touches[1].clientY;
+            lastPinchDist = Math.sqrt(dx * dx + dy * dy);
+        }
+    }, { passive: false });
+
+    canvas.addEventListener('touchmove', function(e) {
+        e.preventDefault();
+        var rect = canvas.getBoundingClientRect();
+        if (e.touches.length === 1 && (dragNode || isPanning)) {
+            var t = e.touches[0];
+            var ddx = t.clientX - mouseDownPos.x;
+            var ddy = t.clientY - mouseDownPos.y;
+            if (Math.abs(ddx) > 5 || Math.abs(ddy) > 5) hasDragged = true;
+
+            if (dragNode) {
+                var sx = t.clientX - rect.left;
+                var sy = t.clientY - rect.top;
+                var wp = screenToWorld(sx, sy);
+                dragNode.x = wp.x;
+                dragNode.y = wp.y;
+                dragNode.vx = 0;
+                dragNode.vy = 0;
+            } else if (isPanning) {
+                var dx = (t.clientX - panStart.x) / cam.zoom;
+                var dy = (t.clientY - panStart.y) / cam.zoom;
+                cam.x = camStart.x - dx;
+                cam.y = camStart.y - dy;
+            }
+        } else if (e.touches.length === 2) {
+            var dx2 = e.touches[0].clientX - e.touches[1].clientX;
+            var dy2 = e.touches[0].clientY - e.touches[1].clientY;
+            var pinchDist = Math.sqrt(dx2 * dx2 + dy2 * dy2);
+            if (lastPinchDist > 0) {
+                var scale = pinchDist / lastPinchDist;
+                targetZoom = Math.max(0.15, Math.min(5, targetZoom * scale));
+            }
+            lastPinchDist = pinchDist;
+            hasDragged = true;
+
+            // Pan during pinch
+            var cx = (e.touches[0].clientX + e.touches[1].clientX) / 2;
+            var cy = (e.touches[0].clientY + e.touches[1].clientY) / 2;
+            if (!isPanning) {
+                isPanning = true;
+                panStart = { x: cx, y: cy };
+                camStart = { x: cam.x, y: cam.y };
+            } else {
+                var pdx = (cx - panStart.x) / cam.zoom;
+                var pdy = (cy - panStart.y) / cam.zoom;
+                cam.x = camStart.x - pdx;
+                cam.y = camStart.y - pdy;
+            }
+        }
+    }, { passive: false });
+
+    canvas.addEventListener('touchend', function(e) {
+        if (e.touches.length === 0) {
+            if (dragNode && !hasDragged) {
+                selectNode(dragNode);
+            } else if (!hasDragged) {
+                deselectNode();
+            }
+            dragNode = null;
+            isPanning = false;
+            mouseDown = false;
+            lastPinchDist = 0;
+        } else if (e.touches.length === 1) {
+            lastPinchDist = 0;
+            var t = e.touches[0];
+            panStart = { x: t.clientX, y: t.clientY };
+            camStart = { x: cam.x, y: cam.y };
+            isPanning = true;
+        }
+    });
+
+    // ─── Node selection ───
+    function selectNode(node) {
+        selectedNode = node;
+        // Mark connected nodes
+        for (var i = 0; i < nodes.length; i++) {
+            nodes[i].selected = false;
+            nodes[i].highlighted = false;
+        }
+        node.selected = true;
+
+        for (var j = 0; j < edges.length; j++) {
+            var e = edges[j];
+            if (e.source === node) e.target.highlighted = true;
+            if (e.target === node) e.source.highlighted = true;
+        }
+
+        showInfoPanel(node);
+    }
+
+    function deselectNode() {
+        selectedNode = null;
+        for (var i = 0; i < nodes.length; i++) {
+            nodes[i].selected = false;
+            nodes[i].highlighted = false;
+        }
+        hideInfoPanel();
+    }
+
+    // ─── Tooltip ───
+    var tooltipEl = document.getElementById('tooltip');
+    var tooltipName = document.getElementById('tooltip-name');
+    var tooltipSub = document.getElementById('tooltip-sub');
+
+    function updateTooltip(mx, my) {
+        if (hoveredNode && !dragNode) {
+            tooltipName.textContent = hoveredNode.character.name;
+            tooltipSub.textContent = (hoveredNode.character.title || '') + ' | ' + (hoveredNode.character.faction || '');
+            tooltipEl.style.left = (mx + 14) + 'px';
+            tooltipEl.style.top = (my - 10) + 'px';
+            tooltipEl.classList.add('visible');
+        } else {
+            tooltipEl.classList.remove('visible');
+        }
+    }
+
+    canvas.addEventListener('mousemove', function(e) {
+        if (hoveredNode && !dragNode && !isPanning) {
+            updateTooltip(e.clientX, e.clientY);
+        }
+    });
+
+    // ─── Info Panel ───
+    var infoPanel = document.getElementById('info-panel');
+    var infoContent = document.getElementById('info-content');
+
+    function showInfoPanel(node) {
+        var ch = node.character;
+        var html = '';
+
+        // Avatar
+        html += '<div class="info-avatar" style="background:' + (ch.avatar_color || '#888') + ';border-color:' + (ch.avatar_color || '#888') + '">';
+        html += ch.name.charAt(0);
+        html += '</div>';
+
+        // Name & title
+        html += '<div class="info-name">' + escHtml(ch.name) + '</div>';
+        if (ch.title) html += '<div class="info-title-text">' + escHtml(ch.title) + '</div>';
+
+        // Details
+        html += '<div class="info-details">';
+        if (ch.realm) html += '<div class="info-row"><span class="info-row-label">Cảnh giới</span><span class="info-row-value">' + escHtml(ch.realm) + '</span></div>';
+        if (ch.faction) html += '<div class="info-row"><span class="info-row-label">Thế lực</span><span class="info-row-value">' + escHtml(ch.faction) + '</span></div>';
+        if (ch.region) html += '<div class="info-row"><span class="info-row-label">Khu vực</span><span class="info-row-value">' + escHtml(ch.region) + '</span></div>';
+        if (ch.role) html += '<div class="info-row"><span class="info-row-label">Vai trò</span><span class="info-row-value">' + escHtml(ch.role) + '</span></div>';
+        html += '<div class="info-row"><span class="info-row-label">Kết nối</span><span class="info-row-value">' + (node.connections) + ' mối liên hệ</span></div>';
+        if (ch.pov) html += '<div class="info-row"><span class="info-row-label">POV</span><span class="info-row-value" style="color:var(--accent-bright)">Góc nhìn chính</span></div>';
+        html += '</div>';
+
+        // Relationships
+        var rels = [];
+        for (var j = 0; j < edges.length; j++) {
+            var e = edges[j];
+            if (e.source === node) {
+                rels.push({ node: e.target, rel: e.rel, color: e.color, direction: 'to' });
+            } else if (e.target === node) {
+                rels.push({ node: e.source, rel: e.rel, color: e.color, direction: 'from' });
+            }
+        }
+
+        if (rels.length > 0) {
+            html += '<div class="info-rels-title">Quan Hệ (' + rels.length + ')</div>';
+            for (var k = 0; k < rels.length; k++) {
+                var rel = rels[k];
+                var arrow = rel.direction === 'to' ? ' \u2192 ' : ' \u2190 ';
+                html += '<div class="info-rel">';
+                html += '<div class="info-rel-header">';
+                html += '<div class="info-rel-dot" style="background:' + rel.color + '"></div>';
+                html += '<span class="info-rel-name" data-node-id="' + rel.node.id + '">' + escHtml(rel.node.character.name) + '</span>';
+                html += '<span class="info-rel-type">' + escHtml(rel.rel.type.replace(/_/g, ' ')) + '</span>';
+                html += '</div>';
+                if (rel.rel.description) {
+                    html += '<div class="info-rel-desc">' + escHtml(rel.rel.description) + '</div>';
+                }
+                html += '</div>';
+            }
+        }
+
+        infoContent.innerHTML = html;
+        infoPanel.classList.add('open');
+
+        // Click handlers for relationship names
+        var relNames = infoContent.querySelectorAll('.info-rel-name');
+        for (var m = 0; m < relNames.length; m++) {
+            relNames[m].addEventListener('click', function() {
+                var nid = this.getAttribute('data-node-id');
+                if (nodeMap[nid]) {
+                    selectNode(nodeMap[nid]);
+                    // Pan to node
+                    cam.x = nodeMap[nid].x;
+                    cam.y = nodeMap[nid].y;
+                }
+            });
+        }
+    }
+
+    function hideInfoPanel() {
+        infoPanel.classList.remove('open');
+    }
+
+    document.getElementById('info-close').addEventListener('click', function() {
+        deselectNode();
+    });
+
+    function escHtml(s) {
+        if (!s) return '';
+        var d = document.createElement('div');
+        d.textContent = s;
+        return d.innerHTML;
+    }
+
+    // ─── Search ───
+    var searchBox = document.getElementById('search-box');
+    searchBox.addEventListener('input', function() {
+        var q = normalizeStr(this.value.trim().toLowerCase());
+        searchActive = q.length > 0;
+
+        for (var i = 0; i < nodes.length; i++) {
+            if (searchActive) {
+                var name = normalizeStr(nodes[i].character.name.toLowerCase());
+                var faction = normalizeStr((nodes[i].character.faction || '').toLowerCase());
+                var title = normalizeStr((nodes[i].character.title || '').toLowerCase());
+                nodes[i].dimmed = !(name.indexOf(q) >= 0 || faction.indexOf(q) >= 0 || title.indexOf(q) >= 0);
+            } else {
+                nodes[i].dimmed = false;
+            }
+        }
+    });
+
+    // ─── Region filters ───
+    var regionFiltersEl = document.getElementById('region-filters');
+
+    // "All" button
+    var allBtn = document.createElement('button');
+    allBtn.className = 'region-btn active';
+    allBtn.textContent = 'Tất cả';
+    allBtn.setAttribute('data-region', 'all');
+    regionFiltersEl.appendChild(allBtn);
+
+    for (i = 0; i < allRegions.length; i++) {
+        var btn = document.createElement('button');
+        btn.className = 'region-btn active';
+        btn.textContent = allRegions[i];
+        btn.setAttribute('data-region', normalizeStr(allRegions[i]));
+        btn.style.borderLeftColor = getRegionColor(allRegions[i]);
+        btn.style.borderLeftWidth = '3px';
+        regionFiltersEl.appendChild(btn);
+    }
+
+    regionFiltersEl.addEventListener('click', function(e) {
+        if (e.target.classList.contains('region-btn')) {
+            var region = e.target.getAttribute('data-region');
+            if (region === 'all') {
+                var allActive = true;
+                for (var key in activeRegions) {
+                    if (!activeRegions[key]) { allActive = false; break; }
+                }
+                var newState = !allActive;
+                for (var key2 in activeRegions) {
+                    activeRegions[key2] = newState;
+                }
+                var btns = regionFiltersEl.querySelectorAll('.region-btn');
+                for (var b = 0; b < btns.length; b++) {
+                    if (newState) btns[b].classList.add('active');
+                    else btns[b].classList.remove('active');
+                }
+            } else {
+                activeRegions[region] = !activeRegions[region];
+                e.target.classList.toggle('active');
+                // Update "all" button state
+                var allOn = true;
+                for (var k in activeRegions) {
+                    if (!activeRegions[k]) { allOn = false; break; }
+                }
+                if (allOn) allBtn.classList.add('active');
+                else allBtn.classList.remove('active');
+            }
+
+            // Update node visibility
+            updateNodeVisibility();
+
+            // Reheat simulation
+            simCooling = Math.max(simCooling, 0.5);
+            simIterations = Math.min(simIterations, maxIterations - 200);
+        }
+    });
+
+    function updateNodeVisibility() {
+        for (var i = 0; i < nodes.length; i++) {
+            var nd = nodes[i];
+            var normRegion = normalizeStr(nd.character.region);
+            nd.visible = activeRegions[normRegion] !== false;
+        }
+    }
+
+    // ─── Legend ───
+    var legendList = document.getElementById('legend-list');
+    for (i = 0; i < legendCategories.length; i++) {
+        var cat = legendCategories[i];
+        var item = document.createElement('div');
+        item.className = 'legend-item';
+        item.innerHTML = '<div class="legend-dot" style="background:' + cat.color + '"></div><span>' + cat.label + '</span>';
+        legendList.appendChild(item);
+    }
+
+    // ─── Theme switcher ───
+    var themeSelect = document.getElementById('theme-select');
+    var currentTheme = localStorage.getItem('co-nguyen-theme') || 'thuy-mac';
+    themeSelect.value = currentTheme;
+    themeSelect.addEventListener('change', function() {
+        var t = this.value;
+        document.documentElement.setAttribute('data-theme', t);
+        localStorage.setItem('co-nguyen-theme', t);
+    });
+
+    // ─── Sidebar toggle ───
+    var sidebar = document.getElementById('sidebar');
+    var sidebarToggle = document.getElementById('sidebar-toggle');
+    sidebarToggle.addEventListener('click', function() {
+        sidebar.classList.toggle('collapsed');
+        sidebarToggle.textContent = sidebar.classList.contains('collapsed') ? '\u203A' : '\u2039';
+    });
+
+    // ─── Zoom buttons ───
+    document.getElementById('zoom-in').addEventListener('click', function() {
+        targetZoom = Math.min(5, targetZoom * 1.3);
+    });
+    document.getElementById('zoom-out').addEventListener('click', function() {
+        targetZoom = Math.max(0.15, targetZoom * 0.7);
+    });
+    document.getElementById('zoom-reset').addEventListener('click', function() {
+        targetZoom = 1;
+        cam.x = 0;
+        cam.y = 0;
+    });
+
+    // ─── Stats bar ───
+    var statsBar = document.getElementById('stats-bar');
+    function updateStats() {
+        var visibleNodes = 0;
+        for (var i = 0; i < nodes.length; i++) {
+            if (nodes[i].visible) visibleNodes++;
+        }
+        statsBar.innerHTML =
+            '<span>Nhân vật: ' + visibleNodes + '/' + nodes.length + '</span>' +
+            '<span>Liên hệ: ' + edges.length + '</span>' +
+            '<span>Zoom: ' + (cam.zoom * 100).toFixed(0) + '%</span>';
+    }
+
+    // ─── Ambient particles ───
+    var ambEl = document.getElementById('ambient-particles');
+    for (var p = 0; p < 12; p++) {
+        var pt = document.createElement('div');
+        pt.className = 'ambient-particle';
+        var pSize = 1 + Math.random() * 2.5;
+        var pOp = 0.06 + Math.random() * 0.12;
+        var isJade = Math.random() > 0.4;
+        var pColor = isJade ? 'rgba(45,106,79,' + pOp + ')' : 'rgba(201,169,110,' + (pOp * 0.6) + ')';
+        pt.style.cssText =
+            'width:' + pSize + 'px;height:' + pSize + 'px;' +
+            'top:' + (Math.random() * 100) + '%;' +
+            'left:' + (Math.random() * 100) + '%;' +
+            'background:' + pColor + ';' +
+            'box-shadow:0 0 ' + (pSize * 3) + 'px ' + pColor + ';' +
+            '--dur:' + (5 + Math.random() * 10) + 's;' +
+            '--delay:' + (Math.random() * 6) + 's;' +
+            '--dy:' + (-8 - Math.random() * 16) + 'px;' +
+            '--o:' + pOp + ';';
+        ambEl.appendChild(pt);
+    }
+
+    // ─── Animation loop ───
+    var frameCount = 0;
+    function loop() {
+        requestAnimationFrame(loop);
+
+        // Run simulation (multiple steps for initial settling)
+        var steps = simIterations < 100 ? 3 : 1;
+        for (var s = 0; s < steps; s++) {
+            simulate();
+        }
+
+        draw();
+
+        frameCount++;
+        if (frameCount % 30 === 0) {
+            updateStats();
+        }
+    }
+
+    // Auto-fit initial view
+    function fitView() {
+        if (nodes.length === 0) return;
+        var minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
+        for (var i = 0; i < nodes.length; i++) {
+            if (nodes[i].x < minX) minX = nodes[i].x;
+            if (nodes[i].x > maxX) maxX = nodes[i].x;
+            if (nodes[i].y < minY) minY = nodes[i].y;
+            if (nodes[i].y > maxY) maxY = nodes[i].y;
+        }
+        var rangeX = maxX - minX + 100;
+        var rangeY = maxY - minY + 100;
+        cam.x = (minX + maxX) / 2;
+        cam.y = (minY + maxY) / 2;
+        targetZoom = Math.min(W / rangeX, H / rangeY, 1.5);
+        cam.zoom = targetZoom;
+    }
+
+    // Start after a brief stabilization
+    setTimeout(function() {
+        fitView();
+    }, 100);
+
+    // Fit again after simulation has settled
+    setTimeout(function() {
+        fitView();
+    }, 2000);
+
+    loop();
+
+    // Collapse sidebar on mobile by default
+    if (window.innerWidth < 768) {
+        sidebar.classList.add('collapsed');
+        sidebarToggle.textContent = '\u203A';
+    }
+
+})();
+</script>
 </body>
 </html>
