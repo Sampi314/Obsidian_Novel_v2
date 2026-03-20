@@ -89,7 +89,7 @@ arcs:
 - [x] Hắc Hạt Ma Trùng
 - [x] Hàn Thanh Nguyệt
 - [x] Lục Trần
-- [ ] Ngô Công Trưởng Lão
+- [x] Ngô Công Trưởng Lão
 - [ ] Phương Vô Kỵ
 - [ ] Sở Lăng Sương
 - [ ] Triệu Thanh Hằng
@@ -192,3 +192,4 @@ Tên file = tên nhân vật với `_` thay khoảng trắng (có dấu Tiếng 
 | 2026-03-20 | Claude Code | Hắc Hạt Ma Trùng (DONE) | Checked 6 refs, fixed 5 missing bidirectional links (Nguyệt Dao, Lục Tiêu, Âu Dương Vô Tích, Trùng Ám Ảnh, Trùng Xích Giác) |
 | 2026-03-20 | Claude Code | Hàn Thanh Nguyệt (DONE) | Checked 1 ref (Diệp Tĩnh Sương), all bidirectional OK, no fixes needed |
 | 2026-03-20 | Claude Code | Lục Trần (DONE) | Checked 4 refs, fixed 1 missing bidirectional link (Đoạn Kiếm Sinh) |
+| 2026-03-20 | Claude Code | Ngô Công Trưởng Lão (DONE) | Checked 5 refs, fixed 3 missing bidirectional links (Âu Dương Vô Tích, Ân Mộc Thanh, Mạc Thiên Túc) |
