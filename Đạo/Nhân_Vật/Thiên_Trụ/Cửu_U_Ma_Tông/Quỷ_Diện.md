@@ -32,9 +32,8 @@ Không có dung mạo cố định — khuôn mặt thay đổi liên tục, lú
 Tu luyện Thiên Biến Vạn Hóa Thuật — có thể biến hình thành bất kỳ ai, sao chép hoàn hảo cả ngoại hình, giọng nói, khí tức và thần thái. Ngoài biến hình, có thể "ăn cắp" một phần năng lực của đối tượng bị sao chép trong thời gian ngắn. Tuy tu vi thấp nhất trong Cửu Đại Ma Vương, nhưng khả năng gián điệp và ám sát khiến hắn trở thành kẻ nguy hiểm nhất.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Ma Chủ Vô Tên]] — Ma Chủ, người duy nhất mà hắn không thể sao chép, vì vậy càng kính sợ.
-- [[Lý Vô Ảnh]] — Ảnh Ma Viện Chủ, thượng cấp trực tiếp trong nhiều nhiệm vụ gián điệp.
-- [[Bạch Cốt]] — Đệ Thất Ma Vương, kẻ ghét hắn cay đắng, luôn muốn rút xương hắn.
-
+- **Nạp Lan Tiểu U** (Đồng minh): Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau
+- **Nạp Lan U Minh** (Sư đồ): Nạp Lan U Minh chỉ dẫn Quỷ Diện trong Cửu U Ma Tông
+- **Ma Chủ Vô Tên** (Đồng minh): Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Không ai biết Quỷ Diện thật sự là ai — ngay cả hắn cũng quên mất khuôn mặt thật sau hàng trăm năm biến hình. Có giả thuyết nói hắn từng là tội phạm bị xử tử, dùng Thiên Biến Vạn Hóa Thuật thay thế người khác để trốn thoát. Gia nhập Ma Tông và trở thành gián điệp hoàn hảo, xâm nhập nhiều tông phái chính đạo đánh cắp bí mật. Được phong Đệ Cửu Ma Vương tuy tu vi thấp nhưng công lao tình báo vượt trội, là con dao bí mật sắc bén nhất của Ma Chủ.
