@@ -35,9 +35,13 @@ Là Thái Tử Đông Hải, hắn kế thừa trọn vẹn sức mạnh của H
 - **Long Thần Thể (龙身体):** Khi chiến đấu đến mức cực hạn, hắn có thể bán yêu hóa, cơ thể được bao bọc bởi lớp vảy đen cứng hơn huyền thiết, miễn nhiễm hầu hết phép thuật cấp thấp.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Ba Thanh Tần** (Kẻ thù): Thủ lĩnh Hắc Hải Hải Tặc, kẻ thù vô hình mà Ba Thanh Tần coi là mục tiêu phải triệt tiêu khỏi mạng lưới
+- **Vạn Kiếp** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Vạn Kiếp** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Băng Nha** (Đồng minh): Đồng liêu cùng Long Cung
+- **Huyết Triều** (Đồng minh): Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau
 - **Hắc Thiên:** Đông Hải Long Vương, phụ vương của hắn, người luôn thất vọng vì sự phóng túng và không chịu gánh vác trách nhiệm hoàng tộc của Hắc Ngạo Thiên.
 - **Hắc Lạc Nhạn:** Nhạc Sư Cung Đình, tri kỷ duy nhất trong Thủy Tinh Cung thấu hiểu nỗi lòng và khát vọng tự do của hắn thông qua những khúc đàn.
 - **Lệ Nhược Thủy:** Hải vương của Hải Thần Cung, một kẻ thù truyền kiếp nhưng cũng là người mà Hắc Ngạo Thiên rất kính trọng vì sức mạnh và tài lãnh đạo.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Từ khi sinh ra, Hắc Ngạo Thiên đã được định sẵn là người thừa kế ngai vàng Đông Hải Long Cung, gánh vác kỳ vọng khôi phục vinh quang xưa cũ của Long Tộc. Tuy nhiên, qua nhiều lần lén lút rời khỏi Thủy Tinh Cung lên mặt đất, hắn nhận ra thế giới rộng lớn hơn rất nhiều so với những cuộc tranh giành quyền lực tẻ nhạt dưới đáy biển. Từ chối cuộc hôn nhân chính trị với công chúa của một tộc hải yêu mạnh mẽ, Hắc Ngạo Thiên từ bỏ thân phận Thái tử, hóa hình người và bắt đầu hành trình lang thang nhân gian. Hiện tại, hắn đang che giấu thân phận, ngao du khắp Vô Tận Hải và các đại lục lân cận, tìm kiếm con đường tu luyện của riêng mình để vượt qua giới hạn của Long Tộc.

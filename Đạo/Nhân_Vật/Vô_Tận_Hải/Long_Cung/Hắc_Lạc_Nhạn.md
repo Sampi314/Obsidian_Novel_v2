@@ -35,9 +35,12 @@ Phép thuật của nàng không thiên về sát thương trực tiếp mà xoa
 Điểm yếu của nàng là khả năng cận chiến tương đối yếu kém so với các thành viên khác của Long Tộc, cần có khoảng cách và thời gian để thi triển các khúc nhạc.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Vạn Kiếp** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Vạn Kiếp** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Băng Nha** (Sư đồ): Băng Nha dẫn dắt Hắc Lạc Nhạn trong Long Cung
+- **Huyết Triều** (Sư đồ): Huyết Triều chỉ dẫn Hắc Lạc Nhạn trong Long Cung
 - **Hắc Thiên:** Đông Hải Long Vương, người mà nàng luôn phải gảy đàn tấu khúc phục vụ trong những buổi tiệc xa hoa, mang lòng kính sợ và phục tùng tuyệt đối.
 - **Hắc Ngạo Thiên:** Thái Tử Đông Hải, một trong số ít người thực sự biết thưởng thức tiếng đàn của nàng mà không mang theo ý niệm dung tục, nàng xem hắn như một vị tri kỷ hoàng tộc.
 - **Ngư Thiên Ca:** Nhạc sư của San Hô Đảo Quốc, đối thủ cạnh tranh trên con đường âm luật mà nàng luôn muốn đánh bại để chứng minh âm nhạc của Long Tộc là vô song.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra trong một nhánh phụ ít được coi trọng của Long Tộc, Hắc Lạc Nhạn từ nhỏ đã thể hiện thiên phú bẩm sinh với âm nhạc, dùng tiếng đàn để thay lời muốn nói. Nàng được tuyển vào Long Cung nhờ một khúc đàn bi tráng vô tình lọt vào tai của một vị Trưởng Lão, từ đó trở thành Nhạc Sư Cung Đình được sủng ái nhất. Dù sống trong nhung lụa và sự bảo bọc của Thủy Tinh Cung, sâu thẳm trong lòng nàng vẫn khao khát được tự do dạo bước khắp Vô Tận Hải, sáng tác ra một khúc nhạc đủ sức lay động cả Thiên Đạo. Hiện tại, nàng đang âm thầm tìm kiếm những nhạc cụ cổ xưa bị chôn vùi trong các tàn tích đại dương để hoàn thiện bản thân.
