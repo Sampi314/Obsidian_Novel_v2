@@ -15234,6 +15234,2602 @@ const relationshipData = {
       "role": "member",
       "pov": false,
       "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "nham_liet",
+      "name": "Nham Liệt",
+      "title": "Chiến Binh",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Bán Thạch Cự Nhân",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "thach_chuy",
+      "name": "Thạch Chùy",
+      "title": "Đội Trưởng Vệ Binh",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Bán Thạch Cự Nhân",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "thach_cuong",
+      "name": "Thạch Cương",
+      "title": "Trưởng Lão",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Bán Thạch Cự Nhân",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "thach_huyet_nham",
+      "name": "Thạch Huyết Nham",
+      "title": "Trưởng Lão",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Bán Thạch Cự Nhân",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tuoc_phong",
+      "name": "Tước Phong",
+      "title": "Truyền Tin",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Bắc Phong Thông Tín Trạm",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ban_thach",
+      "name": "Bàn Thạch",
+      "title": "Đại Tế Tư",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cổ Nham Bộ Lạc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "nham_cot",
+      "name": "Nham Cốt",
+      "title": "Tế Tư",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cổ Nham Bộ Lạc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "nham_linh",
+      "name": "Nham Linh",
+      "title": "Tế Tư",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cổ Nham Bộ Lạc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "nham_tinh",
+      "name": "Nham Tĩnh",
+      "title": "Tế Tư",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cổ Nham Bộ Lạc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "xich_nham",
+      "name": "Xích Nham",
+      "title": "Thủ Vệ Trưởng",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cổ Nham Bộ Lạc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "sa_bao",
+      "name": "Sa Bạo",
+      "title": "Chiến Sĩ",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cổ Sa Yêu Tộc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "sa_co_vuong",
+      "name": "Sa Cổ Vương",
+      "title": "Tộc Trưởng",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Cổ Sa Yêu Tộc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "sa_hoang_thien_phong",
+      "name": "Sa Hoàng Thiên Phong",
+      "title": "Trưởng Lão",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Cổ Sa Yêu Tộc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "sa_linh_nham",
+      "name": "Sa Linh Nham",
+      "title": "Phong Ấn Thủ",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cổ Sa Yêu Tộc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "sa_mac_hon_da",
+      "name": "Sa Mạc Hồn Dạ",
+      "title": "Trinh Sát",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cổ Sa Yêu Tộc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "sa_ngoc",
+      "name": "Sa Ngọc",
+      "title": "Dược Sư",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cổ Sa Yêu Tộc",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "sa_doc_hat_vuong",
+      "name": "Sa Độc Hạt Vương",
+      "title": "Bọ Cạp Chúa",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Cổ Sa Yêu Tộc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "thach_uy",
+      "name": "Thạch Uy",
+      "title": "Chiến Thạch Thần",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Cổ Thạch Bộ Lạc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "van_co_thach",
+      "name": "Vạn Cổ Thạch",
+      "title": "Thạch Tổ",
+      "realm": "Luyện Hư Sơ Kỳ",
+      "faction": "Cổ Thạch Bộ Lạc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#673ab7"
+    },
+    {
+      "id": "co_mong",
+      "name": "Cổ Mộng",
+      "title": "Trưởng Lão",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cổ Tích Cự Nhân Thức Tỉnh",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "co_nham_hon",
+      "name": "Cổ Nham Hồn",
+      "title": "Chiến Binh Cổ Đại",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cổ Tích Cự Nhân Thức Tỉnh",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "co_son",
+      "name": "Cổ Sơn",
+      "title": "Chiến Binh Cổ Đại",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cổ Tích Cự Nhân Thức Tỉnh",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "hoang_tho_dao",
+      "name": "Hoàng Thổ Đạo",
+      "title": "Thám Hiểm Viên",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cổ Tích Thám Hiểm Đoàn",
+      "region": "Tây Mạc",
+      "role": "scout",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ly_co_tran",
+      "name": "Lý Cổ Trần",
+      "title": "Đoàn Trưởng",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cổ Tích Thám Hiểm Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "nguyen_dich_co",
+      "name": "Nguyễn Dịch Cổ",
+      "title": "Phó Đoàn",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cổ Tích Thám Hiểm Đoàn",
+      "region": "Tây Mạc",
+      "role": "key_member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tran_pha_bay",
+      "name": "Trần Phá Bẫy",
+      "title": "Phó Đoàn",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cổ Tích Thám Hiểm Đoàn",
+      "region": "Tây Mạc",
+      "role": "key_member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "sa_kien",
+      "name": "Sa Kiên",
+      "title": "Tổ Trưởng",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cự Tộc Phu Khuân Vác",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "sa_luc",
+      "name": "Sa Lực",
+      "title": "Công Đầu",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cự Tộc Phu Khuân Vác",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "sa_mac",
+      "name": "Sa Mặc",
+      "title": "Phu Khuân Vác",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cự Tộc Phu Khuân Vác",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "sa_trong",
+      "name": "Sa Trọng",
+      "title": "Tổ Trưởng",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cự Tộc Phu Khuân Vác",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "hoa_nham_dai_tuong",
+      "name": "Hỏa Nham Đại Tướng",
+      "title": "Chiến Tướng",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Hoàng Sa Cổ Quốc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "hoang_co_nham",
+      "name": "Hoàng Cổ Nham",
+      "title": "Trưởng Lão",
+      "realm": "Phàm Nhân",
+      "faction": "Hoàng Sa Di Dân",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#9e9e9e"
+    },
+    {
+      "id": "hoang_minh_nguyet",
+      "name": "Hoàng Minh Nguyệt",
+      "title": "Bô Lão",
+      "realm": "Phàm Nhân",
+      "faction": "Hoàng Sa Di Dân",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#9e9e9e"
+    },
+    {
+      "id": "hoang_ngoc_duong",
+      "name": "Hoàng Ngọc Dương",
+      "title": "Huyết Mạch Thức Tỉnh",
+      "realm": "Luyện Khí Sơ Kỳ",
+      "faction": "Hoàng Sa Di Dân",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "hoang_thieu_quang",
+      "name": "Hoàng Thiếu Quang",
+      "title": "Thanh Niên",
+      "realm": "Phàm Nhân",
+      "faction": "Hoàng Sa Di Dân",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#9e9e9e"
+    },
+    {
+      "id": "hoa_giap_tru",
+      "name": "Hỏa Giáp Trụ",
+      "title": "Thợ Cả",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Hỏa Diễm Công Phường",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "hoa_thiet_tam",
+      "name": "Hỏa Thiết Tâm",
+      "title": "Phường Chủ",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Hỏa Diễm Công Phường",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "hoa_tieu_viem",
+      "name": "Hỏa Tiểu Viêm",
+      "title": "Học Việc",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "Hỏa Diễm Công Phường",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "hoa_nham_dung",
+      "name": "Hỏa Nham Dung",
+      "title": "Thợ Rèn",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Hỏa Yêu Tàn Đoàn",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "hoa_thien_viem_son",
+      "name": "Hỏa Thiên Viêm Sơn",
+      "title": "Phó Đoàn Trưởng",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Hỏa Yêu Tàn Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "hoa_tinh",
+      "name": "Hỏa Tinh",
+      "title": "Chiến Sĩ",
+      "realm": "Luyện Khí Viên Mãn",
+      "faction": "Hỏa Yêu Tàn Đoàn",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "hoa_tan_hoa",
+      "name": "Hỏa Tàn Hoa",
+      "title": "Y Sư",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "Hỏa Yêu Tàn Đoàn",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "hoa_tan_viem",
+      "name": "Hỏa Tàn Viêm",
+      "title": "Đoàn Trưởng",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Hỏa Yêu Tàn Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "kim_sa",
+      "name": "Kim Sa",
+      "title": "Thợ Mỏ Trưởng",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Kim Sa Thợ Mỏ Hội",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "kim_cuong",
+      "name": "Kim Cương",
+      "title": "Hộ Pháp",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Kim Sa Tự",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "minh_ngo",
+      "name": "Minh Ngộ",
+      "title": "Khổ Hạnh Tăng",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Kim Sa Tự",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "phap_khong",
+      "name": "Pháp Không",
+      "title": "Đại Trưởng Lão",
+      "realm": "Nguyên Anh Hậu Kỳ",
+      "faction": "Kim Sa Tự",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "pho_te",
+      "name": "Phổ Tế",
+      "title": "Trưởng Lão Phổ Độ",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Kim Sa Tự",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "thien_nhan",
+      "name": "Thiện Nhẫn",
+      "title": "Trưởng Lão Đạt Ma",
+      "realm": "Kim Đan Đỉnh Phong",
+      "faction": "Kim Sa Tự",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "tinh_tam",
+      "name": "Tịnh Tâm",
+      "title": "Tăng Lữ",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Kim Sa Tự",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "vien_thong",
+      "name": "Viên Thông",
+      "title": "Sa Di Trưởng",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Kim Sa Tự",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "mach_hoang_kim",
+      "name": "Mạch Hoàng Kim",
+      "title": "Mạch Chủ",
+      "realm": "Nguyên Anh",
+      "faction": "Kim Sa Vi Mạch",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "mach_ngan_quang",
+      "name": "Mạch Ngân Quang",
+      "title": "Khai Thác Trưởng",
+      "realm": "Kim Đan",
+      "faction": "Kim Sa Vi Mạch",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "mach_ngoc_thach",
+      "name": "Mạch Ngọc Thạch",
+      "title": "Thẩm Định Viên",
+      "realm": "Trúc Cơ",
+      "faction": "Kim Sa Vi Mạch",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "mach_thiet_cot",
+      "name": "Mạch Thiết Cốt",
+      "title": "Thủ Vệ Mỏ",
+      "realm": "Trúc Cơ",
+      "faction": "Kim Sa Vi Mạch",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "mach_tieu_quang",
+      "name": "Mạch Tiểu Quặng",
+      "title": "Đệ Tử Thăm Mạch",
+      "realm": "Luyện Khí",
+      "faction": "Kim Sa Vi Mạch",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "mach_dong_tam",
+      "name": "Mạch Đồng Tâm",
+      "title": "Luyện Kim Sư",
+      "realm": "Kim Đan",
+      "faction": "Kim Sa Vi Mạch",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "bao_an",
+      "name": "Bào Ẩn",
+      "title": "Ký Sinh Trưởng",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "Ký Sinh Liên Minh",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "khuan_tiem",
+      "name": "Khuẩn Tiềm",
+      "title": "Ký Sinh Trưởng",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "Ký Sinh Liên Minh",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "khuan_am",
+      "name": "Khuẩn Ám",
+      "title": "Ký Sinh Trưởng",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Ký Sinh Liên Minh",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "khuan_bach_cot",
+      "name": "Khuẩn Bạch Cốt",
+      "title": "Xử Lý Sư Trưởng",
+      "realm": "Kim Đan",
+      "faction": "Linh Sa Khuẩn Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "khuan_da_thuc",
+      "name": "Khuẩn Dạ Thực",
+      "title": "Dạ Hành Viên",
+      "realm": "Trúc Cơ",
+      "faction": "Linh Sa Khuẩn Đoàn",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "khuan_hac_nhuong",
+      "name": "Khuẩn Hắc Nhưỡng",
+      "title": "Phì Nhiêu Sư",
+      "realm": "Kim Đan",
+      "faction": "Linh Sa Khuẩn Đoàn",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "khuan_hu_cot",
+      "name": "Khuẩn Hủ Cốt",
+      "title": "Đoàn Trưởng",
+      "realm": "Nguyên Anh",
+      "faction": "Linh Sa Khuẩn Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "khuan_linh_hoa",
+      "name": "Khuẩn Linh Hóa",
+      "title": "Chuyển Hóa Viên",
+      "realm": "Trúc Cơ",
+      "faction": "Linh Sa Khuẩn Đoàn",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "khuan_tieu_hu",
+      "name": "Khuẩn Tiểu Hủ",
+      "title": "Đệ Tử Mới",
+      "realm": "Luyện Khí",
+      "faction": "Linh Sa Khuẩn Đoàn",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "khuan_tram_huong",
+      "name": "Khuẩn Trầm Hương",
+      "title": "Dược Khuẩn Sư",
+      "realm": "Kim Đan",
+      "faction": "Linh Sa Khuẩn Đoàn",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "khuan_tinh_hoa",
+      "name": "Khuẩn Tĩnh Hóa",
+      "title": "Tịnh Hóa Viên",
+      "realm": "Trúc Cơ",
+      "faction": "Linh Sa Khuẩn Đoàn",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "oanh_sa_ngan",
+      "name": "Oanh Sa Ngân",
+      "title": "Thợ Thủ Công",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Lông Vũ Phường",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ho_huyen_yen",
+      "name": "Hồ Huyễn Yên",
+      "title": "Viện Chủ Huyễn Ảnh",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Lưu Sa Huyễn Ảo",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "ho_mong_diep",
+      "name": "Hồ Mộng Điệp",
+      "title": "Đội Trưởng Sa Hồ",
+      "realm": "Kim Đan Viên Mãn",
+      "faction": "Lưu Sa Huyễn Ảo",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ho_suong_nhi",
+      "name": "Hồ Sương Nhi",
+      "title": "Linh Hồ Trinh Sát",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Lưu Sa Huyễn Ảo",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ho_tuyet_lac",
+      "name": "Hồ Tuyết Lạc",
+      "title": "Huyễn Thuật Sư",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Lưu Sa Huyễn Ảo",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "linh_co",
+      "name": "Linh Cơ",
+      "title": "Cung Chủ",
+      "realm": "Nguyên Anh Hậu Kỳ",
+      "faction": "Lưu Sa Huyễn Ảo",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "linh_mong",
+      "name": "Linh Mộng",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Lưu Sa Huyễn Ảo",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "mong_ha",
+      "name": "Mộng Hà",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Lưu Sa Huyễn Ảo",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "van_ao",
+      "name": "Vân Ảo",
+      "title": "Trưởng Lão",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Lưu Sa Huyễn Ảo",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "kho_cot",
+      "name": "Khô Cốt",
+      "title": "Tử Sĩ",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Lưu Sa Đào Binh",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "bac_thach",
+      "name": "Bạc Thạch",
+      "title": "Thành Viên",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Phong Hóa Giả Hội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "mat_nham",
+      "name": "Mạt Nham",
+      "title": "Thành Viên",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Phong Hóa Giả Hội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tan_nham",
+      "name": "Tàn Nham",
+      "title": "Hội Trưởng",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Phong Hóa Giả Hội",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "bao_cuong_phong",
+      "name": "Bào Cuồng Phong",
+      "title": "Phong Bào Chủ",
+      "realm": "Nguyên Anh (Tương đương)",
+      "faction": "Phong Sa Bào Tử",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "bao_hoang_sa",
+      "name": "Bào Hoàng Sa",
+      "title": "Phó Chủ Phong Bào",
+      "realm": "Kim Đan",
+      "faction": "Phong Sa Bào Tử",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "bao_hac_tran",
+      "name": "Bào Hắc Trần",
+      "title": "Ám Sát Thủ",
+      "realm": "Trúc Cơ",
+      "faction": "Phong Sa Bào Tử",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "bao_liet_diem",
+      "name": "Bào Liệt Diễm",
+      "title": "Hỏa Sa Chiến Sĩ",
+      "realm": "Kim Đan",
+      "faction": "Phong Sa Bào Tử",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "bao_me_suong",
+      "name": "Bào Mê Sương",
+      "title": "Ảo Thuật Sư",
+      "realm": "Trúc Cơ",
+      "faction": "Phong Sa Bào Tử",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "bao_thien_ly",
+      "name": "Bào Thiên Lý",
+      "title": "Viễn Chinh Sứ",
+      "realm": "Kim Đan",
+      "faction": "Phong Sa Bào Tử",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "bao_tieu_tran",
+      "name": "Bào Tiểu Trần",
+      "title": "Liên Lạc Viên Gió",
+      "realm": "Luyện Khí",
+      "faction": "Phong Sa Bào Tử",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "bao_toan_phong",
+      "name": "Bào Toàn Phong",
+      "title": "Kỵ Binh Gió",
+      "realm": "Trúc Cơ",
+      "faction": "Phong Sa Bào Tử",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "phong_nha",
+      "name": "Phong Nha",
+      "title": "Trưởng Lão",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "phong_anh",
+      "name": "Phong Ảnh",
+      "title": "Đội Trưởng Ảnh Phong",
+      "realm": "Kim Đan Đỉnh Phong",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "sa_quy",
+      "name": "Sa Quỷ",
+      "title": "Đội Trưởng Sa Quỷ",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "tu_bao",
+      "name": "Tử Bão",
+      "title": "Trưởng Lão",
+      "realm": "Kim Đan Viên Mãn",
+      "faction": "Phong Sát Cốc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "lao_sa",
+      "name": "Lão Sa",
+      "title": "Thợ Đào Giếng",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Sa Cự Nhân Bộ Lạc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "sa_cuong",
+      "name": "Sa Cương",
+      "title": "Tộc Trưởng",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Sa Cự Nhân Bộ Lạc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "sa_hung",
+      "name": "Sa Hùng",
+      "title": "Trưởng Lão",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Sa Cự Nhân Bộ Lạc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "sa_thiet",
+      "name": "Sa Thiết",
+      "title": "Chiến Binh",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Sa Cự Nhân Bộ Lạc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "sa_tram",
+      "name": "Sa Trầm",
+      "title": "Trưởng Lão",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Sa Cự Nhân Bộ Lạc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "xa_doc_nha",
+      "name": "Xà Độc Nha",
+      "title": "Trưởng Lão",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Sa Mãng Tộc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "vu_sa_lo",
+      "name": "Vũ Sa Lộ",
+      "title": "Hướng Đạo",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "Sa Mạc Hướng Đạo Hội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "dang_sa_dao",
+      "name": "Đặng Sa Đạo",
+      "title": "Trưởng Lão",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Sa Mạc Hướng Đạo Hội",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ha_thien_ly",
+      "name": "Hạ Thiên Lý",
+      "title": "Đoàn Trưởng",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Sa Mạc Sinh Tồn Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "le_hoang_sa",
+      "name": "Lê Hoang Sa",
+      "title": "Phó Đoàn",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Sa Mạc Sinh Tồn Đoàn",
+      "region": "Tây Mạc",
+      "role": "key_member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "nguyen_sinh_ton",
+      "name": "Nguyễn Sinh Tồn",
+      "title": "Thành Viên",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Sa Mạc Sinh Tồn Đoàn",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "tran_cat_phong",
+      "name": "Trần Cát Phong",
+      "title": "Phó Đoàn",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Sa Mạc Sinh Tồn Đoàn",
+      "region": "Tây Mạc",
+      "role": "key_member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "ho_dieu_ngon",
+      "name": "Hồ Diệu Ngôn",
+      "title": "Ngoại Giao",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Sa Mạc Yêu Hồ",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ho_huyen_da_thien",
+      "name": "Hồ Huyễn Dạ Thiên",
+      "title": "Ảo Thuật Sư",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Sa Mạc Yêu Hồ",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ho_hoa_vi",
+      "name": "Hồ Hỏa Vĩ",
+      "title": "Chiến Sĩ",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Sa Mạc Yêu Hồ",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ho_kim_sa",
+      "name": "Hồ Kim Sa",
+      "title": "Thương Nhân Giả",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Sa Mạc Yêu Hồ",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ho_minh_nguyet",
+      "name": "Hồ Minh Nguyệt",
+      "title": "Dược Sư",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Sa Mạc Yêu Hồ",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ho_phong_van",
+      "name": "Hồ Phong Vân",
+      "title": "Đệ Tử",
+      "realm": "Luyện Khí Viên Mãn",
+      "faction": "Sa Mạc Yêu Hồ",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "ho_sa_phong",
+      "name": "Hồ Sa Phong",
+      "title": "Phó Tộc Trưởng",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Sa Mạc Yêu Hồ",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ho_tieu_sa_nguyet",
+      "name": "Hồ Tiểu Sa Nguyệt",
+      "title": "Tín Sứ",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Sa Mạc Yêu Hồ",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ho_am_huong",
+      "name": "Hồ Ám Hương",
+      "title": "Gián Điệp",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Sa Mạc Yêu Hồ",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "nham_hau",
+      "name": "Nham Hậu",
+      "title": "Trưởng Lão",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Sa Thạch Du Mục",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "nham_luu",
+      "name": "Nham Lưu",
+      "title": "Tộc Trưởng",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Sa Thạch Du Mục",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "nham_tieu_lo",
+      "name": "Nham Tiểu Lộ",
+      "title": "Trinh Sát",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Sa Thạch Du Mục",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "thach_sa",
+      "name": "Thạch Sa",
+      "title": "Trinh Sát Trưởng",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Sa Thạch Du Mục",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "nham_nghich",
+      "name": "Nham Nghịch",
+      "title": "Lưu Dân Đặc Biệt",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "Sa Thạch Lưu Dân",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "nham_thuong",
+      "name": "Nham Thương",
+      "title": "Hộ Vệ",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Sa Thạch Lưu Dân",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "sa_tan",
+      "name": "Sa Tàn",
+      "title": "Trưởng Đoàn",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Sa Thạch Lưu Dân",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "trung_hoang_nham",
+      "name": "Trùng Hoàng Nham",
+      "title": "Chấn Động Sư",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Sa Trùng Vi Tộc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "trung_liet_nhat",
+      "name": "Trùng Liệt Nhật",
+      "title": "Chiến Binh Cát",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Sa Trùng Vi Tộc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "trung_mang_luc",
+      "name": "Trùng Mãng Lực",
+      "title": "Đội Trưởng Vận Tải",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Sa Trùng Vi Tộc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "trung_nganh_giap",
+      "name": "Trùng Ngạnh Giáp",
+      "title": "Trưởng Lão Phòng Thủ",
+      "realm": "Kim Đan",
+      "faction": "Sa Trùng Vi Tộc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "trung_sa_yen",
+      "name": "Trùng Sa Yến",
+      "title": "Trinh Sát Mặt Đất",
+      "realm": "Trúc Cơ",
+      "faction": "Sa Trùng Vi Tộc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "trung_thiet_sa",
+      "name": "Trùng Thiết Sa",
+      "title": "Tộc Trưởng",
+      "realm": "Kim Đan",
+      "faction": "Sa Trùng Vi Tộc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "trung_tieu_thach",
+      "name": "Trùng Tiểu Thạch",
+      "title": "Đệ Tử Thăm Dò",
+      "realm": "Luyện Khí",
+      "faction": "Sa Trùng Vi Tộc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "trung_xuyen_dia",
+      "name": "Trùng Xuyên Địa",
+      "title": "Đào Khoáng Thủ",
+      "realm": "Trúc Cơ",
+      "faction": "Sa Trùng Vi Tộc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "luu_cat_dao",
+      "name": "Lưu Cát Đạo",
+      "title": "Thủ Lĩnh Băng Đảng",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Sa Tặc Liên Minh",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "phong_tan_nhan",
+      "name": "Phong Tàn Nhẫn",
+      "title": "Trưởng Lão",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Sa Tặc Liên Minh",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "sa_do",
+      "name": "Sa Đồ",
+      "title": "Sát Thủ",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Sa Tặc Liên Minh",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tran_doc_nhan",
+      "name": "Trần Độc Nhãn",
+      "title": "Thủ Lĩnh Băng Đảng",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Sa Tặc Liên Minh",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "dao_cuong_sa",
+      "name": "Đào Cuồng Sa",
+      "title": "Phó Minh Chủ",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Sa Tặc Liên Minh",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "bang_sa_thien",
+      "name": "Bằng Sa Thiên",
+      "title": "Đoàn Trưởng",
+      "realm": "Hóa Thần Sơ Kỳ",
+      "faction": "Sa Ưng Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#9c27b0"
+    },
+    {
+      "id": "cu_da_sa",
+      "name": "Cú Dạ Sa",
+      "title": "Dạ Trinh Sát",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Sa Ưng Đoàn",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "yen_sa",
+      "name": "Yến Sa",
+      "title": "Trinh Sát Đội Trưởng",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Sa Ưng Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "yen_sa_phong",
+      "name": "Yến Sa Phong",
+      "title": "Trinh Sát",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Sa Ưng Đoàn",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ung_cuong_sa_bao",
+      "name": "Ưng Cuồng Sa Bão",
+      "title": "Chiến Tướng",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Sa Ưng Đoàn",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "ung_kim_trao",
+      "name": "Ưng Kim Trảo",
+      "title": "Thợ Săn Trưởng",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Sa Ưng Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "ung_liet_nhat",
+      "name": "Ưng Liệt Nhật",
+      "title": "Phó Đoàn Trưởng",
+      "realm": "Nguyên Anh Hậu Kỳ",
+      "faction": "Sa Ưng Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "ung_tan_duong",
+      "name": "Ưng Tàn Dương",
+      "title": "Chiến Sĩ Già",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Sa Ưng Đoàn",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "le_ngoc_trai",
+      "name": "Lê Ngọc Trai",
+      "title": "Thợ Lặn Kỳ Cựu",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "San Hô Thợ Lặn Đội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "nguyen_thuy_tien",
+      "name": "Nguyễn Thủy Tiên",
+      "title": "Đội Trưởng",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "San Hô Thợ Lặn Đội",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tran_hai_sam",
+      "name": "Trần Hải Sâm",
+      "title": "Thợ Lặn Kỳ Cựu",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "San Hô Thợ Lặn Đội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "ma_tieu_hai",
+      "name": "Mã Tiểu Hải",
+      "title": "Tín Sứ",
+      "realm": "Luyện Khí Viên Mãn",
+      "faction": "San Hô Thủ Hộ Đoàn",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "ngu_ngan_quang",
+      "name": "Ngư Ngân Quang",
+      "title": "Trinh Sát",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "San Hô Thủ Hộ Đoàn",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "san_luc_quang_minh",
+      "name": "San Lục Quang Minh",
+      "title": "Y Sư",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "San Hô Thủ Hộ Đoàn",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "san_tieu_hong",
+      "name": "San Tiểu Hồng",
+      "title": "Phó Đoàn",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "San Hô Thủ Hộ Đoàn",
+      "region": "Tây Mạc",
+      "role": "key_member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "hua_nhuoc_thuy",
+      "name": "Hứa Nhược Thủy",
+      "title": "Thương Nhân",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "hua_thanh_van",
+      "name": "Hứa Thanh Vân",
+      "title": "Du Hiệp",
+      "realm": "Luyện Khí Tầng 9",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "ngu_kim_lan",
+      "name": "Ngư Kim Lân",
+      "title": "Chiến Sĩ",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ngu_lam_hai_thanh",
+      "name": "Ngư Lam Hải Thanh",
+      "title": "Nhạc Sư",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ngu_nguyet_vu",
+      "name": "Ngư Nguyệt Vũ",
+      "title": "Vũ Sư",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ngu_ngan_lan_ha",
+      "name": "Ngư Ngân Lân Hà",
+      "title": "Vệ Binh Trưởng",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ngu_thien_ca",
+      "name": "Ngư Thiên Ca",
+      "title": "Đại Nhạc Sư",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ngu_thien_lang",
+      "name": "Ngư Thiên Lãng",
+      "title": "Thương Nhân",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ngu_tieu_bach",
+      "name": "Ngư Tiểu Bạch",
+      "title": "Ca Sĩ Tập Sự",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "san_bich_quang",
+      "name": "San Bích Quang",
+      "title": "Thái Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "san_huyen_quang_da",
+      "name": "San Huyền Quang Dạ",
+      "title": "Quang Sư",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "san_hong_ngoc_thien",
+      "name": "San Hồng Ngọc Thiên",
+      "title": "Vương Hậu",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "san_luc_quang",
+      "name": "San Lục Quang",
+      "title": "Y Sư",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "san_ngoc_vuong",
+      "name": "San Ngọc Vương",
+      "title": "Đảo Chủ",
+      "realm": "Kim Đan Viên Mãn",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "san_van_ha",
+      "name": "San Vân Hà",
+      "title": "Đệ Tử",
+      "realm": "Luyện Khí Viên Mãn",
+      "faction": "San Hô Đảo Quốc",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "co_thien_ly",
+      "name": "Cổ Thiên Lý",
+      "title": "Gia Chủ Sa Thương",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Thiên Sa Thương Hội",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "hoang_sa_nhan",
+      "name": "Hoàng Sa Nhạn",
+      "title": "Sát Thủ Sa Ảnh",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Thiên Sa Thương Hội",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "lam_thien_muc",
+      "name": "Lâm Thiên Mục",
+      "title": "Gia Chủ Tình Báo",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thiên Sa Thương Hội",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "ly_sa_kim",
+      "name": "Lý Sa Kim",
+      "title": "Tổng Quản Thương Phường",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Thiên Sa Thương Hội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "nguyen_bao_thap",
+      "name": "Nguyễn Bảo Tháp",
+      "title": "Quản Lý Bảo Tháp",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Thiên Sa Thương Hội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "pham_thuong_dao",
+      "name": "Phạm Thương Đạo",
+      "title": "Tổng Quản Vận Tải",
+      "realm": "Kim Đan Viên Mãn",
+      "faction": "Thiên Sa Thương Hội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "tran_khoang_son",
+      "name": "Trần Khoáng Sơn",
+      "title": "Gia Chủ Khai Khoáng",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thiên Sa Thương Hội",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "vo_danh",
+      "name": "Vô Danh",
+      "title": "Thủ Lĩnh Sa Ảnh",
+      "realm": "Nguyên Anh Hậu Kỳ",
+      "faction": "Thiên Sa Thương Hội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "vu_thuong_van",
+      "name": "Vũ Thương Vân",
+      "title": "Thương Nhân",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Thiên Sa Thương Hội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "dang_thien_ha",
+      "name": "Đặng Thiên Hà",
+      "title": "Đội Trưởng Hộ Thương",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Thiên Sa Thương Hội",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "thiet_giap_vuong",
+      "name": "Thiết Giáp Vương",
+      "title": "Đàn Chủ",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Thiết Giáp Yêu Thú Đàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "thiet_nha",
+      "name": "Thiết Nha",
+      "title": "Cận Vệ",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Thiết Giáp Yêu Thú Đàn",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "thiet_au",
+      "name": "Thiết Ấu",
+      "title": "Ấu Trùng Đặc Biệt",
+      "realm": "Luyện Khí Sơ Kỳ",
+      "faction": "Thiết Giáp Yêu Thú Đàn",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "cung_tuyet_tran",
+      "name": "Cung Tuyệt Trần",
+      "title": "Viện Chủ Chế Khí",
+      "realm": "Kim Đan Viên Mãn",
+      "faction": "Thần Cung Bắn Sa",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "le_thien_muc",
+      "name": "Lê Thiên Mục",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Thần Cung Bắn Sa",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ly_xuyen_van",
+      "name": "Lý Xuyên Vân",
+      "title": "Trưởng Lão",
+      "realm": "Kim Đan Viên Mãn",
+      "faction": "Thần Cung Bắn Sa",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "pham_nhat_tien",
+      "name": "Phạm Nhất Tiễn",
+      "title": "Xạ Thủ Chân Truyền",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Thần Cung Bắn Sa",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "tien_linh_phong",
+      "name": "Tiễn Linh Phong",
+      "title": "Trưởng Lão Chấp Sự Tình Báo",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Thần Cung Bắn Sa",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "tien_pha_khong",
+      "name": "Tiễn Phá Không",
+      "title": "Đại Trưởng Lão Chấp Pháp",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thần Cung Bắn Sa",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "tien_vo_song",
+      "name": "Tiễn Vô Song",
+      "title": "Môn Chủ",
+      "realm": "Nguyên Anh Hậu Kỳ",
+      "faction": "Thần Cung Bắn Sa",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "dang_truy_phong",
+      "name": "Đặng Truy Phong",
+      "title": "Đội Trưởng Trinh Sát",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Thần Cung Bắn Sa",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "han_thuy",
+      "name": "Hàn Thủy",
+      "title": "Đoàn Trưởng",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thủy Nguồn Bảo Vệ Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "ly_thuy_nguyen",
+      "name": "Lý Thủy Nguyên",
+      "title": "Viện Chủ Thủy Nguyên",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Thủy Nguồn Bảo Vệ Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "nguyen_huong_tuyen",
+      "name": "Nguyễn Hướng Tuyền",
+      "title": "Hướng Đạo",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Thủy Nguồn Bảo Vệ Đoàn",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "pham_tu_thuy",
+      "name": "Phạm Tụ Thủy",
+      "title": "Thủy Sư",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Thủy Nguồn Bảo Vệ Đoàn",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "son_thu_ho",
+      "name": "Sơn Thủ Hộ",
+      "title": "Hộ Pháp Cự Nhân",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Thủy Nguồn Bảo Vệ Đoàn",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tran_thanh_luong",
+      "name": "Trần Thanh Lương",
+      "title": "Thống Lĩnh Tuần Tra",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Thủy Nguồn Bảo Vệ Đoàn",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "dang_tuan_sa",
+      "name": "Đặng Tuần Sa",
+      "title": "Đội Phó Tuần Tra",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Thủy Nguồn Bảo Vệ Đoàn",
+      "region": "Tây Mạc",
+      "role": "key_member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tinh_minh",
+      "name": "Tinh Minh",
+      "title": "Phường Chủ",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Thủy Tinh Thạch Phường",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tinh_sac",
+      "name": "Tinh Sắc",
+      "title": "Thợ Cả",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Thủy Tinh Thạch Phường",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tinh_thau",
+      "name": "Tinh Thấu",
+      "title": "Thợ Cả",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Thủy Tinh Thạch Phường",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tinh_tieu_quang",
+      "name": "Tinh Tiểu Quang",
+      "title": "Thợ Phụ",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Thủy Tinh Thạch Phường",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "lam_tan_kiem",
+      "name": "Lâm Tàn Kiếm",
+      "title": "Giáo Tập",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Trục Khách Đường",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ly_truc_phong",
+      "name": "Lý Trúc Phong",
+      "title": "Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Trục Khách Đường",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "phong_bach_nhan",
+      "name": "Phong Bạch Nhận",
+      "title": "Giáo Tập",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Trục Khách Đường",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "tran_vo_danh",
+      "name": "Trần Vô Danh",
+      "title": "Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Trục Khách Đường",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "vu_loan_kiem",
+      "name": "Vũ Loạn Kiếm",
+      "title": "Giáo Tập",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Trục Khách Đường",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "doan_kiem_sinh",
+      "name": "Đoạn Kiếm Sinh",
+      "title": "Đường Chủ",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Trục Khách Đường",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "kho_giap_lao",
+      "name": "Khô Giáp Lão",
+      "title": "Giáp Trùng Sa Mạc",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Tán Tu",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "oanh_minh_sa",
+      "name": "Oanh Minh Sa",
+      "title": "Truyền Tin",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Tán Tu",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "phi_hoang",
+      "name": "Phi Hoàng",
+      "title": "Châu Chấu Vương",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Tán Tu",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "phong_sa_cuong_nhan",
+      "name": "Phong Sa Cuồng Nhân",
+      "title": "Chiến Sĩ",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Tán Tu",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "phuong_thieu_duc",
+      "name": "Phượng Thiêu Dực",
+      "title": "Chiến Sĩ",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Tán Tu",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "tuoc_hoang_sa",
+      "name": "Tước Hoàng Sa",
+      "title": "Nông Dân",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Tán Tu",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ung_hoang_da",
+      "name": "Ưng Hoang Dã",
+      "title": "Chiến Sĩ",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Tán Tu",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ung_xich_trao",
+      "name": "Ưng Xích Trảo",
+      "title": "Thợ Săn",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Tán Tu",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "trung_thien_ly_nhan",
+      "name": "Trùng Thiên Lý Nhãn",
+      "title": "Đội Trưởng",
+      "realm": "Kim Đan",
+      "faction": "Vi Trùng Trinh Sát Đội",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "trung_thinh_phong",
+      "name": "Trùng Thính Phong",
+      "title": "Thính Giả",
+      "realm": "Trúc Cơ",
+      "faction": "Vi Trùng Trinh Sát Đội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "trung_vo_thanh",
+      "name": "Trùng Vô Thanh",
+      "title": "Xâm Nhập Viên",
+      "realm": "Trúc Cơ",
+      "faction": "Vi Trùng Trinh Sát Đội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "trung_am_anh",
+      "name": "Trùng Ám Ảnh",
+      "title": "Ám Sát Viên",
+      "realm": "Kim Đan",
+      "faction": "Vi Trùng Trinh Sát Đội",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "da_cuong",
+      "name": "Dạ Cương",
+      "title": "Đội Trưởng",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Đại Mạc Gác Đêm",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "da_hoa",
+      "name": "Dạ Hỏa",
+      "title": "Thợ Đuốc",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Đại Mạc Gác Đêm",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "da_tram",
+      "name": "Dạ Trầm",
+      "title": "Vệ Binh",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Đại Mạc Gác Đêm",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "da_anh",
+      "name": "Dạ Ảnh",
+      "title": "Vệ Binh",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Đại Mạc Gác Đêm",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "nham_quang",
+      "name": "Nham Quang",
+      "title": "Thành Viên",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Địa Tâm Thám Hiểm Đội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "nham_thinh",
+      "name": "Nham Thính",
+      "title": "Thạch Tộc Nghe Đá",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Địa Tâm Thám Hiểm Đội",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "nham_dao",
+      "name": "Nham Đào",
+      "title": "Phó Đội",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Địa Tâm Thám Hiểm Đội",
+      "region": "Tây Mạc",
+      "role": "key_member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tham_nham",
+      "name": "Thâm Nham",
+      "title": "Đội Trưởng",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Địa Tâm Thám Hiểm Đội",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "giao_thien_mac_nguyet",
+      "name": "Giao Thiên Mạc Nguyệt",
+      "title": "Thương Nhân",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Độc Lập",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ngu_sa_ha",
+      "name": "Ngư Sa Hà",
+      "title": "Hướng Dẫn",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Độc Lập",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "sa_cat_vuong",
+      "name": "Sa Cát Vương",
+      "title": "Sa Ngư Đột Biến",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Độc Lập",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "trung_doc_hanh",
+      "name": "Trùng Độc Hành",
+      "title": "Sát Thủ Đơn Độc",
+      "realm": "Kim Đan",
+      "faction": "Độc Lập",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "linh_dao_nhi",
+      "name": "Linh Dao Nhi",
+      "title": "Nữ Quan Thủy Khố",
+      "realm": "Trúc Cơ",
+      "faction": "Ốc Đảo Vi Linh",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "linh_ha_vu",
+      "name": "Linh Hạ Vũ",
+      "title": "Cầu Vũ Sư",
+      "realm": "Trúc Cơ",
+      "faction": "Ốc Đảo Vi Linh",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "linh_lo_ha",
+      "name": "Linh Lộ Hà",
+      "title": "Dược Sư Nước",
+      "realm": "Kim Đan",
+      "faction": "Ốc Đảo Vi Linh",
+      "region": "Tây Mạc",
+      "role": "support",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "linh_ngoc_tri",
+      "name": "Linh Ngọc Trì",
+      "title": "Trưởng Lão Tịnh Hóa",
+      "realm": "Kim Đan",
+      "faction": "Ốc Đảo Vi Linh",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "linh_phieu_luu",
+      "name": "Linh Phiêu Lưu",
+      "title": "Thương Nhân Nước",
+      "realm": "Kim Đan",
+      "faction": "Ốc Đảo Vi Linh",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "linh_suong_han",
+      "name": "Linh Sương Hàn",
+      "title": "Trinh Sát Sương Đêm",
+      "realm": "Trúc Cơ",
+      "faction": "Ốc Đảo Vi Linh",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "linh_thanh_tuyen",
+      "name": "Linh Thanh Tuyền",
+      "title": "Ốc Đảo Chủ",
+      "realm": "Nguyên Anh",
+      "faction": "Ốc Đảo Vi Linh",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#f44336"
+    },
+    {
+      "id": "linh_thuy_nguyet",
+      "name": "Linh Thủy Nguyệt",
+      "title": "Tế Tư Thủy Nguyên",
+      "realm": "Kim Đan",
+      "faction": "Ốc Đảo Vi Linh",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "linh_tieu_ho",
+      "name": "Linh Tiểu Hồ",
+      "title": "Đệ Tử Thủy Mạch",
+      "realm": "Luyện Khí",
+      "faction": "Ốc Đảo Vi Linh",
+      "region": "Tây Mạc",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "linh_vu_sa",
+      "name": "Linh Vũ Sa",
+      "title": "Thủ Vệ Ốc Đảo",
+      "realm": "Trúc Cơ",
+      "faction": "Ốc Đảo Vi Linh",
+      "region": "Tây Mạc",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#4caf50"
     }
   ],
   "relationships": [
@@ -21942,6 +24538,714 @@ const relationshipData = {
       "target": "yen_thanh",
       "type": "ally",
       "description": "Phó Đoàn, bạn thân, con yến hay la mắng nhưng lén để thuốc bồi bổ cho mình"
+    },
+    {
+      "source": "ban_thach",
+      "target": "nham_cot",
+      "type": "mentor",
+      "description": "Tế Tư phụ trách nghi lễ, truyền nhân đáng tin cậy nhất"
+    },
+    {
+      "source": "ban_thach",
+      "target": "nham_linh",
+      "type": "ally",
+      "description": "Tế Tư trẻ tuổi nhất, hay đặt câu hỏi khiến ông vừa lo lắng vừa trân trọng"
+    },
+    {
+      "source": "ban_thach",
+      "target": "xich_nham",
+      "type": "subordinate",
+      "description": "Thủ Vệ Trưởng trung thành, cánh tay phải bảo vệ bộ lạc"
+    },
+    {
+      "source": "nham_cot",
+      "target": "nham_linh",
+      "type": "mentor",
+      "description": "Đồng liêu Tế Tư, coi như hậu bối cần dạy dỗ"
+    },
+    {
+      "source": "nham_cot",
+      "target": "xich_nham",
+      "type": "master",
+      "description": "Thủ Vệ Trưởng, chiến hữu đáng tin khi bảo vệ đỉnh thiêng"
+    },
+    {
+      "source": "nham_linh",
+      "target": "nham_tinh",
+      "type": "ally",
+      "description": "Đồng liêu Tế Tư ít nói, người duy nhất chịu lắng nghe những suy nghĩ khác biệt của nàng"
+    },
+    {
+      "source": "nham_tinh",
+      "target": "ban_thach",
+      "type": "master",
+      "description": "Đại Tế Tư, người Nham Tĩnh âm thầm bảo vệ bằng cách lắng nghe những điều ông không nói ra"
+    },
+    {
+      "source": "nham_tinh",
+      "target": "nham_cot",
+      "type": "subordinate",
+      "description": "Đồng liêu Tế Tư bảo thủ, Nham Tĩnh tôn trọng lòng trung thành nhưng không đồng tình với sự cứng nhắc của hắn"
+    },
+    {
+      "source": "xich_nham",
+      "target": "nham_linh",
+      "type": "master",
+      "description": "Tế Tư trẻ tuổi, Xích Nham cho rằng nàng quá mỏng manh và cần được bảo vệ hơn là đứng ra làm lễ"
+    },
+    {
+      "source": "sa_co_vuong",
+      "target": "sa_hoang_thien_phong",
+      "type": "ally",
+      "description": "Trưởng lão thân cận nhất, người duy nhất biết một phần bí mật phong ấn"
+    },
+    {
+      "source": "sa_co_vuong",
+      "target": "sa_bao",
+      "type": "ally",
+      "description": "Trưởng lão nóng nảy, thường xung đột về đường lối ẩn cư"
+    },
+    {
+      "source": "sa_co_vuong",
+      "target": "sa_linh_nham",
+      "type": "subordinate",
+      "description": "Phong ấn thủ trung thành, canh giữ phòng phong ấn theo lệnh trực tiếp"
+    },
+    {
+      "source": "sa_co_vuong",
+      "target": "sa_mac_hon_da",
+      "type": "ally",
+      "description": "Thám tử trưởng giỏi nhất, tai mắt của tộc trên bề mặt sa mạc"
+    },
+    {
+      "source": "sa_co_vuong",
+      "target": "sa_ngoc",
+      "type": "ally",
+      "description": "Dược sư trẻ tài giỏi, người y kỳ vọng sẽ kéo dài tuổi thọ cho tộc nhân"
+    },
+    {
+      "source": "sa_co_vuong",
+      "target": "sa_doc_hat_vuong",
+      "type": "ally",
+      "description": "Cổ thú đồng minh từ thời Hoàng Sa Cổ Quốc, canh giữ ngoại vi hang cổ"
+    },
+    {
+      "source": "sa_co_vuong",
+      "target": "ho_nguyet_nhi",
+      "type": "ally",
+      "description": "Yêu Hồ biết sự tồn tại của Cổ Sa, để yên thì tốt — động vào thì diệt"
+    },
+    {
+      "source": "sa_kien",
+      "target": "sa_luc",
+      "type": "master",
+      "description": "Công Đầu, người lão tôn kính như huynh trưởng"
+    },
+    {
+      "source": "sa_kien",
+      "target": "sa_trong",
+      "type": "ally",
+      "description": "Đồng liêu hay cãi nhau nhưng sẵn sàng chết vì nhau"
+    },
+    {
+      "source": "sa_kien",
+      "target": "sa_mac",
+      "type": "neutral",
+      "description": "Phu khuân bí ẩn, lão nghi ngờ nhưng không ghét"
+    },
+    {
+      "source": "sa_luc",
+      "target": "sa_trong",
+      "type": "ally",
+      "description": "Tổ trưởng đáng tin, cánh tay phải"
+    },
+    {
+      "source": "sa_luc",
+      "target": "sa_mac",
+      "type": "ally",
+      "description": "Phu khuân bí ẩn, ngầm lo lắng cho hắn"
+    },
+    {
+      "source": "sa_mac",
+      "target": "sa_trong",
+      "type": "ally",
+      "description": "Tổ trưởng hay trêu nhưng tốt bụng, người gã ngầm quý"
+    },
+    {
+      "source": "phap_khong",
+      "target": "khong_do",
+      "type": "master",
+      "description": "Sư huynh, Trụ Trì Kim Sa Tự, người lão tôn kính nhất và cũng là người hiểu lão sâu nhất"
+    },
+    {
+      "source": "phap_khong",
+      "target": "gioi_tran",
+      "type": "family",
+      "description": "Sư điệt, lão coi như con trai nhưng lo lắng vì sát khí quá nặng"
+    },
+    {
+      "source": "phap_khong",
+      "target": "hue_minh",
+      "type": "ally",
+      "description": "Sư điệt, lão đánh giá cao trí tuệ nhưng cho rằng cần rèn thêm ý chí"
+    },
+    {
+      "source": "phap_khong",
+      "target": "thien_nhan",
+      "type": "mentor",
+      "description": "Đệ tử đích truyền, người thừa kế y bát của lão tại Đạt Ma Viện"
+    },
+    {
+      "source": "phap_khong",
+      "target": "hac_phong_dai_vuong",
+      "type": "enemy",
+      "description": "Kẻ thù truyền kiếp, sa tặc đầu mục từng tấn công Kim Sa Tự ba lần"
+    },
+    {
+      "source": "ho_huyen_yen",
+      "target": "linh_co",
+      "type": "ally",
+      "description": "Cung Chủ mà mình phò tá hơn ba trăm năm, kẻ duy nhất khiến mình thực sự tâm phục"
+    },
+    {
+      "source": "ho_huyen_yen",
+      "target": "ho_mong_diep",
+      "type": "ally",
+      "description": "Đội Trưởng Sa Hồ, hồ ly trẻ tài năng nhưng ngông cuồng, cần uốn nắn"
+    },
+    {
+      "source": "ho_huyen_yen",
+      "target": "ho_tuyet_lac",
+      "type": "ally",
+      "description": "Huyễn Thuật Sư trẻ mà mình bí mật để ý, có thiên phú hiếm thấy trong ngàn năm"
+    },
+    {
+      "source": "ho_huyen_yen",
+      "target": "van_ao",
+      "type": "ally",
+      "description": "Trưởng Lão nhân tộc, người hiểu biết rộng mà mình tôn trọng dù khác chủng tộc"
+    },
+    {
+      "source": "ho_huyen_yen",
+      "target": "ho_suong_nhi",
+      "type": "ally",
+      "description": "Trinh sát trẻ lanh lợi, nhắc mình nhớ về thời còn hoang dã"
+    },
+    {
+      "source": "ho_mong_diep",
+      "target": "linh_co",
+      "type": "disciple",
+      "description": "Cung Chủ mà mình kính trọng nhưng chưa tha thứ vì quyết định bỏ rơi bốn đệ tử"
+    },
+    {
+      "source": "ho_mong_diep",
+      "target": "ho_suong_nhi",
+      "type": "ally",
+      "description": "Trinh sát trẻ dưới quyền, lanh lợi như chính mình ngày xưa"
+    },
+    {
+      "source": "ho_mong_diep",
+      "target": "ho_tuyet_lac",
+      "type": "ally",
+      "description": "Huyễn Thuật Sư cùng lứa, bạn thân nhưng tính cách trái ngược hoàn toàn"
+    },
+    {
+      "source": "ho_mong_diep",
+      "target": "mong_ha",
+      "type": "mentor",
+      "description": "Đệ tử nhân tộc trẻ mà mình bí mật dạy kỹ năng sinh tồn sa mạc"
+    },
+    {
+      "source": "ho_suong_nhi",
+      "target": "linh_mong",
+      "type": "ally",
+      "description": "Bạn chơi nhân tộc cùng tuổi, người mà mình cãi nhau mỗi ngày nhưng không thể thiếu"
+    },
+    {
+      "source": "ho_suong_nhi",
+      "target": "linh_co",
+      "type": "ally",
+      "description": "Cung Chủ bí ẩn, người mà mình canh gác ngoài cửa phòng mỗi tháng"
+    },
+    {
+      "source": "ho_suong_nhi",
+      "target": "mong_ha",
+      "type": "master",
+      "description": "Sư muội nhân tộc nhỏ hơn, đứa em mà mình hay trêu nhưng bảo vệ ghê lắm"
+    },
+    {
+      "source": "ho_tuyet_lac",
+      "target": "linh_co",
+      "type": "ally",
+      "description": "Cung Chủ đáng kính sợ, người mà mình muốn hiểu nhưng không dám đến gần"
+    },
+    {
+      "source": "ho_tuyet_lac",
+      "target": "ho_suong_nhi",
+      "type": "ally",
+      "description": "Hồ ly em nhỏ hay theo mình xin học, nhắc mình nhớ mình cũng từng tò mò như vậy"
+    },
+    {
+      "source": "ho_tuyet_lac",
+      "target": "linh_mong",
+      "type": "family",
+      "description": "Đồ đệ Cung Chủ, cô bé nhân tộc mà mình hay trao đổi về huyễn thuật lý thuyết"
+    },
+    {
+      "source": "linh_co",
+      "target": "van_ao",
+      "type": "ally",
+      "description": "Trưởng Lão thâm niên nhất, người giữ ký ức lịch sử của cung, kẻ duy nhất dám phản bác nàng"
+    },
+    {
+      "source": "linh_co",
+      "target": "linh_mong",
+      "type": "mentor",
+      "description": "Chân Truyền Đệ Tử, đồ đệ ruột mà nàng đặt kỳ vọng lớn nhất, nhìn thấy bóng dáng mình thuở trẻ"
+    },
+    {
+      "source": "linh_mong",
+      "target": "van_ao",
+      "type": "mentor",
+      "description": "Trưởng Lão dạy lịch sử, người cho mình góc nhìn khác về cung"
+    },
+    {
+      "source": "linh_mong",
+      "target": "mong_ha",
+      "type": "master",
+      "description": "Sư muội nhân tộc, đứa em nhỏ mà mình cảm thấy trách nhiệm phải bảo vệ"
+    },
+    {
+      "source": "mong_ha",
+      "target": "van_ao",
+      "type": "ally",
+      "description": "Trưởng Lão hay mời uống trà kể chuyện, bà nội tinh thần"
+    },
+    {
+      "source": "mong_ha",
+      "target": "linh_co",
+      "type": "ally",
+      "description": "Cung Chủ xa vời, hình mẫu mà mình không biết có bao giờ với tới"
+    },
+    {
+      "source": "bao_cuong_phong",
+      "target": "bao_hoang_sa",
+      "type": "ally",
+      "description": "Phó Chủ đáng tin cậy nhất, điều phối đoàn khi Cuồng Phong nhập bão"
+    },
+    {
+      "source": "bao_cuong_phong",
+      "target": "bao_thien_ly",
+      "type": "ally",
+      "description": "Viễn Chinh Sứ mang tin tức từ những cơn bão xa xôi, nguồn thông tin duy nhất về thế giới bên ngoài"
+    },
+    {
+      "source": "bao_cuong_phong",
+      "target": "bao_hac_tran",
+      "type": "ally",
+      "description": "Bào tử dị biến sau sự kiện Hắc Tinh, Cuồng Phong vừa cảnh giác vừa tò mò"
+    },
+    {
+      "source": "bao_cuong_phong",
+      "target": "bao_liet_diem",
+      "type": "ally",
+      "description": "Chiến sĩ mạnh nhất đoàn, lá chắn cuối cùng khi đoàn bị tấn công"
+    },
+    {
+      "source": "bao_cuong_phong",
+      "target": "bao_toan_phong",
+      "type": "ally",
+      "description": "Kỵ binh trinh sát, đôi mắt và đôi tai của Cuồng Phong trong lòng bão"
+    },
+    {
+      "source": "bao_cuong_phong",
+      "target": "bao_me_suong",
+      "type": "enemy",
+      "description": "Ảo thuật sư phòng ngự, người giấu đoàn khỏi kẻ thù bằng sương ảo"
+    },
+    {
+      "source": "bao_cuong_phong",
+      "target": "bao_tieu_tran",
+      "type": "ally",
+      "description": "Liên lạc viên nhỏ nhất, nhanh nhất, gắn bó với Cuồng Phong từ thời ấu sinh"
+    },
+    {
+      "source": "lao_sa",
+      "target": "sa_cuong",
+      "type": "mentor",
+      "description": "Tộc Trưởng mà mình dạy từ nhỏ, như con trai ruột"
+    },
+    {
+      "source": "lao_sa",
+      "target": "sa_hung",
+      "type": "subordinate",
+      "description": "Trưởng Lão trung thành, đứa trẻ hay khóc ngày xưa giờ thành chiến binh"
+    },
+    {
+      "source": "lao_sa",
+      "target": "sa_thiet",
+      "type": "family",
+      "description": "Chiến binh trẻ nóng nảy, giống hệt cha nó ngày xưa"
+    },
+    {
+      "source": "lao_sa",
+      "target": "sa_tram",
+      "type": "ally",
+      "description": "Trưởng Lão thông minh, kẻ duy nhất hiểu nỗi cô đơn của người già"
+    },
+    {
+      "source": "sa_cuong",
+      "target": "sa_hung",
+      "type": "subordinate",
+      "description": "Trưởng Lão trung thành, cánh tay phải bảo vệ bộ lạc"
+    },
+    {
+      "source": "sa_cuong",
+      "target": "sa_thiet",
+      "type": "ally",
+      "description": "Chiến binh trẻ nóng nảy, nhìn thấy bóng dáng mình thuở xưa"
+    },
+    {
+      "source": "sa_cuong",
+      "target": "sa_tram",
+      "type": "ally",
+      "description": "Quân sư thầm lặng, người duy nhất biết bí mật Giếng Hoàng Kim"
+    },
+    {
+      "source": "sa_hung",
+      "target": "sa_thiet",
+      "type": "disciple",
+      "description": "Đệ tử mà mình huấn luyện, nóng nảy quá nhưng có tiềm năng"
+    },
+    {
+      "source": "sa_hung",
+      "target": "sa_tram",
+      "type": "enemy",
+      "description": "Đồng liêu Trưởng Lão, quá thận trọng nhưng luôn đúng"
+    },
+    {
+      "source": "sa_thiet",
+      "target": "sa_tram",
+      "type": "enemy",
+      "description": "Trưởng Lão thận trọng, quá chậm theo ý mình nhưng kế sách luôn hiệu quả"
+    },
+    {
+      "source": "nham_nghich",
+      "target": "sa_tan",
+      "type": "master",
+      "description": "Trưởng đoàn, người che chở và bảo vệ bí mật"
+    },
+    {
+      "source": "nham_nghich",
+      "target": "nham_thuong",
+      "type": "ally",
+      "description": "Hộ vệ lặng lẽ, như người anh cả"
+    },
+    {
+      "source": "nham_thuong",
+      "target": "sa_tan",
+      "type": "master",
+      "description": "Trưởng đoàn, người hắn nguyện bảo vệ đến chết"
+    },
+    {
+      "source": "nham_thuong",
+      "target": "nham_thiet_cot",
+      "type": "ally",
+      "description": "Bạn cũ từ Cự Linh Tông, nay đã quay lưng"
+    },
+    {
+      "source": "sa_tan",
+      "target": "nham_kinh_thien",
+      "type": "ally",
+      "description": "Cự Linh Tông trưởng lão, kẻ đã trục xuất lưu dân phong hóa"
+    },
+    {
+      "source": "trung_hoang_nham",
+      "target": "trung_mau",
+      "type": "mentor",
+      "description": "Thủ lĩnh quần thể, người truyền dạy thuật cảm ứng"
+    },
+    {
+      "source": "trung_hoang_nham",
+      "target": "trung_liet_nhat",
+      "type": "master",
+      "description": "Hậu bối cùng quần thể, thường bảo vệ khi gã chấn động"
+    },
+    {
+      "source": "trung_hoang_nham",
+      "target": "trung_mang_luc",
+      "type": "ally",
+      "description": "Hậu bối phụ trách vận tải, hay nhờ gã thăm dò địa hình"
+    },
+    {
+      "source": "trung_liet_nhat",
+      "target": "trung_mau",
+      "type": "ally",
+      "description": "Thủ lĩnh quần thể, luôn la mắng tính hung hăng của gã"
+    },
+    {
+      "source": "trung_liet_nhat",
+      "target": "trung_mang_luc",
+      "type": "ally",
+      "description": "Đồng bối, hay thi sức mạnh với nhau"
+    },
+    {
+      "source": "trung_mang_luc",
+      "target": "trung_mau",
+      "type": "ally",
+      "description": "Thủ lĩnh quần thể, giao phó gã nhiệm vụ vận tải"
+    },
+    {
+      "source": "bang_sa_thien",
+      "target": "ung_liet_nhat",
+      "type": "subordinate",
+      "description": "Phó đoàn trưởng trung thành nhất, huynh đệ kết nghĩa cùng trải trăm trận"
+    },
+    {
+      "source": "bang_sa_thien",
+      "target": "ung_cuong_sa_bao",
+      "type": "ally",
+      "description": "Chiến tướng mãnh liệt nhất dưới trướng, cánh tay phải trên chiến trường"
+    },
+    {
+      "source": "bang_sa_thien",
+      "target": "yen_sa",
+      "type": "ally",
+      "description": "Trinh sát đội trưởng tín nhiệm, đôi mắt và đôi tai của Sa Ưng Đoàn"
+    },
+    {
+      "source": "bang_sa_thien",
+      "target": "ung_tan_duong",
+      "type": "ally",
+      "description": "Lão chiến sĩ từ thời khai đoàn, người duy nhất dám nói thẳng với hắn"
+    },
+    {
+      "source": "bang_sa_thien",
+      "target": "ung_kim_trao",
+      "type": "ally",
+      "description": "Thợ săn trưởng tài hoa, kẻ hắn đào tạo từ nhỏ"
+    },
+    {
+      "source": "bang_sa_thien",
+      "target": "cu_da_sa",
+      "type": "ally",
+      "description": "Dạ trinh sát kỳ dị, hắn vừa trọng dụng vừa cảnh giác"
+    },
+    {
+      "source": "hua_nhuoc_thuy",
+      "target": "hua_thanh_van",
+      "type": "family",
+      "description": "Con trai"
+    },
+    {
+      "source": "hua_nhuoc_thuy",
+      "target": "dan_duong_tu",
+      "type": "ally",
+      "description": "Khách hàng"
+    },
+    {
+      "source": "ngu_kim_lan",
+      "target": "ngu_nguyet_vu",
+      "type": "ally",
+      "description": "Đội trưởng trực tiếp, vừa nể phục vừa muốn vượt qua"
+    },
+    {
+      "source": "ngu_kim_lan",
+      "target": "ngu_lam_hai_thanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng tuổi, thường cãi nhau về phương pháp chiến đấu"
+    },
+    {
+      "source": "ngu_kim_lan",
+      "target": "hua_thanh_van",
+      "type": "ally",
+      "description": "Nhân tộc lang thang hay gây rắc rối, từng cứu hắn khỏi hải tặc"
+    },
+    {
+      "source": "ngu_lam_hai_thanh",
+      "target": "ngu_nguyet_vu",
+      "type": "mentor",
+      "description": "Tiền bối trong Linh Ca Viện, người truyền dạy kỹ pháp ca vũ"
+    },
+    {
+      "source": "ngu_lam_hai_thanh",
+      "target": "hua_nhuoc_thuy",
+      "type": "ally",
+      "description": "Thương nhân nhân tộc hay mua ngọc trai linh khí, quen biết qua giao thương"
+    },
+    {
+      "source": "ngu_nguyet_vu",
+      "target": "hua_nhuoc_thuy",
+      "type": "ally",
+      "description": "Thương nhân nhân tộc có quan hệ ngoại giao với đảo quốc, cảnh giác với sự tính toán của bà"
+    },
+    {
+      "source": "lam_thien_muc",
+      "target": "co_thien_ly",
+      "type": "ally",
+      "description": "Đồng liêu trong Tứ Đại Thương Gia, hợp tác chặt chẽ nhưng luôn giữ khoảng cách"
+    },
+    {
+      "source": "lam_thien_muc",
+      "target": "hua_nhuoc_thuy",
+      "type": "ally",
+      "description": "Đồng liêu Gia Chủ Sa Dược, thỉnh thoảng trao đổi tình báo về dược liệu hiếm"
+    },
+    {
+      "source": "lam_thien_muc",
+      "target": "ly_sa_kim",
+      "type": "subordinate",
+      "description": "Thuộc hạ đáng tin cậy phụ trách thương phường, tai mắt quan trọng của mạng lưới"
+    },
+    {
+      "source": "ly_sa_kim",
+      "target": "nguyen_bao_thap",
+      "type": "ally",
+      "description": "Đồng liêu trẻ tuổi quản lý Bảo Tháp, thường xuyên phối hợp công việc"
+    },
+    {
+      "source": "ly_sa_kim",
+      "target": "co_thien_ly",
+      "type": "ally",
+      "description": "Gia Chủ Sa Thương, bậc tiền bối đáng kính trong Thương Hội"
+    },
+    {
+      "source": "nguyen_bao_thap",
+      "target": "lam_thien_muc",
+      "type": "master",
+      "description": "Gia Chủ Tình Báo, bậc thượng cấp bí ẩn khiến cậu vừa ngưỡng mộ vừa e dè"
+    },
+    {
+      "source": "nguyen_bao_thap",
+      "target": "co_thien_ly",
+      "type": "ally",
+      "description": "Gia Chủ Sa Thương, bậc đại tiền bối mà cậu chỉ được gặp trong các dịp trọng đại"
+    },
+    {
+      "source": "han_thuy",
+      "target": "ly_thuy_nguyen",
+      "type": "ally",
+      "description": "Thuộc hạ thân tín phụ trách Thủy Nguyên Viện, tin tưởng tuyệt đối"
+    },
+    {
+      "source": "han_thuy",
+      "target": "nguyen_huong_tuyen",
+      "type": "ally",
+      "description": "Hướng đạo trẻ tuổi tài năng, coi như hậu bối cần dìu dắt"
+    },
+    {
+      "source": "ly_thuy_nguyen",
+      "target": "nguyen_huong_tuyen",
+      "type": "family",
+      "description": "Hướng đạo thường mang về tin tức về các mạch nước mới, coi như sư đệ"
+    },
+    {
+      "source": "ly_thuy_nguyen",
+      "target": "pham_tu_thuy",
+      "type": "ally",
+      "description": "Thủy Sư cùng viện, trợ thủ đắc lực trong việc nghiên cứu thanh lọc nguồn nước"
+    },
+    {
+      "source": "lam_tan_kiem",
+      "target": "doan_kiem_sinh",
+      "type": "master",
+      "description": "Đường Chủ, người duy nhất hắn thực sự tôn kính vì đã cho hắn con đường kiếm đạo mới"
+    },
+    {
+      "source": "lam_tan_kiem",
+      "target": "phong_bach_nhan",
+      "type": "ally",
+      "description": "Đồng liêu giáo tập, thường tranh luận về kiếm lý nhưng ngầm quý trọng nhau"
+    },
+    {
+      "source": "lam_tan_kiem",
+      "target": "ly_truc_phong",
+      "type": "disciple",
+      "description": "Đệ tử có tư chất kiếm đạo xuất chúng nhất Đường, hắn đặc biệt quan tâm dìu dắt"
+    },
+    {
+      "source": "ly_truc_phong",
+      "target": "doan_kiem_sinh",
+      "type": "mentor",
+      "description": "Đường Chủ, trong mắt hắn là bậc kiếm đạo truyền kỳ, mục tiêu vươn tới"
+    },
+    {
+      "source": "ly_truc_phong",
+      "target": "phong_bach_nhan",
+      "type": "mentor",
+      "description": "Giáo Tập dạy kỹ thuật tốc kiếm, nghiêm khắc nhưng công bằng"
+    },
+    {
+      "source": "phong_bach_nhan",
+      "target": "doan_kiem_sinh",
+      "type": "subordinate",
+      "description": "Đường Chủ, người cứu rỗi kiếm đạo đã chết của hắn, trung thành tuyệt đối"
+    },
+    {
+      "source": "tran_vo_danh",
+      "target": "vu_loan_kiem",
+      "type": "ally",
+      "description": "Giáo Tập trực tiếp huấn luyện, nghiêm khắc đến tàn nhẫn nhưng hắn biết đó là lòng tốt thô ráp"
+    },
+    {
+      "source": "tran_vo_danh",
+      "target": "doan_kiem_sinh",
+      "type": "ally",
+      "description": "Đường Chủ, người đã cho hắn cái tên mới và cuộc đời mới khi hắn chẳng còn gì"
+    },
+    {
+      "source": "tran_vo_danh",
+      "target": "ly_truc_phong",
+      "type": "ally",
+      "description": "Đồng môn cùng thế hệ, tính cách trái ngược nhưng thường xuyên phối hợp luyện kiếm"
+    },
+    {
+      "source": "vu_loan_kiem",
+      "target": "doan_kiem_sinh",
+      "type": "ally",
+      "description": "Đường Chủ, bậc tiền bối duy nhất không cười nhạo kiếm pháp hỗn loạn của hắn"
+    },
+    {
+      "source": "vu_loan_kiem",
+      "target": "lam_tan_kiem",
+      "type": "ally",
+      "description": "Đồng liêu giáo tập, người duy nhất chịu đấu luyện cùng hắn mà không phàn nàn về sự tàn bạo"
+    },
+    {
+      "source": "da_cuong",
+      "target": "da_anh",
+      "type": "ally",
+      "description": "Vệ binh đáng tin cậy nhất, người duy nhất dám tuần tra một mình vào Vĩnh Tịch"
+    },
+    {
+      "source": "da_cuong",
+      "target": "da_hoa",
+      "type": "ally",
+      "description": "Thợ đuốc trẻ tuổi tận tụy, ánh lửa của y giữ cho mọi người sống sót qua đêm"
+    },
+    {
+      "source": "da_cuong",
+      "target": "da_tram",
+      "type": "ally",
+      "description": "Vệ binh mới gia nhập, tuy non nớt nhưng có quyết tâm khiến lão nhớ lại chính mình thuở trẻ"
+    },
+    {
+      "source": "da_hoa",
+      "target": "da_anh",
+      "type": "ally",
+      "description": "Vệ binh mà y luôn lo lắng mỗi khi y tuần tra sâu, ngọn lửa y thắp luôn hướng về phía y đi"
+    },
+    {
+      "source": "da_hoa",
+      "target": "da_tram",
+      "type": "ally",
+      "description": "Đồng đội thân thiết nhất vì cùng thế hệ trẻ, thường ngồi bên lửa trại chia sẻ nỗi sợ"
+    },
+    {
+      "source": "da_anh",
+      "target": "da_tram",
+      "type": "master",
+      "description": "Vệ binh đồng đội, đệ đệ mà y âm thầm dìu dắt và bảo vệ trên tuyến tuần tra"
     }
   ],
   "factions": [
