@@ -32,9 +32,14 @@ Một tộc nhân tí hon thuộc chi Tôm với thân hình mảnh khảnh, kho
 Chuyên về thuật ám sát tốc độ cao và kỹ thuật cắt đứt kinh mạch trong tích tắc. Tuyệt kỹ "Phong Nhận Nhất Sát" (风刃一杀) cho phép hắn lướt đi trên mặt nước với tốc độ không thể nhìn thấy bằng mắt thường, tung ra một nhát chém chí mạng vào cổ họng đối phương trước khi chúng kịp nhận ra sự hiện diện của hắn. Điểm mạnh là tốc độ và khả năng ẩn nấp tuyệt đỉnh, nhưng điểm yếu là sức chịu đựng cực thấp, hầu như sẽ chết nếu trúng phải một đòn đánh trực diện.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Giải Thiên Giáp Vương** (Sư đồ): Giải Thiên Giáp Vương chỉ dẫn Hà Phong Nhận trong Hắc Hải Hải Tặc
+- **Giải Thiết Quyền** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
+- **Sa Huyết Đao** (Chủ tớ): Thủ hạ trung thành trong Hắc Hải Hải Tặc
+- **Sa Huyết Đao** (Cấp dưới): Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc
+- **Hà Thiên Đao** (Sư đồ): Hà Thiên Đao chỉ dẫn Hà Phong Nhận trong Hắc Hải Hải Tặc
+- **Kình Hắc Triều** (Sư đồ): Kình Hắc Triều chỉ dẫn Hà Phong Nhận trong Hắc Hải Hải Tặc
 - **Hà Thiên Đao:** Cấp trên và cũng là người thầy đã huấn luyện hắn các kỹ năng ám sát, cả hai thường phối hợp trong các phi vụ tiêu diệt các thuyền trưởng phe đối địch.
 - **Ngư Hắc Lân:** Người cung cấp sơ đồ boong tàu và thói quen sinh hoạt của mục tiêu để hắn lập kế hoạch tiếp cận.
 - **Chương Ám Lưu:** Hắn thường thực hiện các vụ ám sát theo chỉ định mật từ mưu sĩ này.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hà Phong Nhận sinh ra trong một rạn san hô bị tàn phá bởi chiến tranh, hắn đã học được cách giết chóc để sinh tồn ngay từ khi còn nhỏ. Với bản năng của một thợ săn bóng đêm, hắn gia nhập Hắc Hải Hải Tặc để tìm kiếm những con mồi lớn hơn và danh tiếng trong giới sát thủ. Hiện tại, hắn là một trong những lưỡi dao giấu kín đáng sợ nhất của liên minh, chuyên đảm nhận việc loại bỏ các chướng ngại vật nhỏ nhưng quan trọng trước khi hạm đội chính áp sát.

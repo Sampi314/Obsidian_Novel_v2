@@ -32,9 +32,14 @@ Một gã Cua khổng lồ với đôi kìm sù sì, một bên kìm lớn bất
 Chuyên về sức mạnh vật lý thuần túy và kỹ thuật công phá điểm yếu của các trận pháp phòng thủ thành trì. Tuyệt kỹ "Cự Kìm Phá Chướng" (巨钳破障) giúp hắn dồn toàn bộ trọng lượng và linh lực vào chiếc kìm lớn để tung ra một cú kẹp nghìn cân, có thể dễ dàng nghiền nát cổng thành dưới nước hoặc phá vỡ các cột trụ linh lực của trận pháp. Điểm mạnh là sức phá hoại cực lớn ở cự ly gần, nhưng điểm yếu là vô cùng chậm chạp và dễ trở thành mục tiêu cho các đòn tấn công từ xa.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Chương Lục Mực** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
+- **Chương Thiên Tý Hắc** (Sư đồ): Chương Thiên Tý Hắc chỉ dẫn Giải Cự Kìm trong Hắc Hải Hải Tặc
+- **Sa Huyết Đao** (Chủ tớ): Thủ hạ trung thành trong Hắc Hải Hải Tặc
+- **Sa Huyết Đao** (Cấp dưới): Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc
+- **Giải Thiên Giáp Vương** (Sư đồ): Giải Thiên Giáp Vương chỉ dẫn Giải Cự Kìm trong Hắc Hải Hải Tặc
+- **Giải Thiết Quyền** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
 - **Giải Thiên Giáp Vương:** Vị vương mà hắn hết mực trung thành, người luôn chỉ điểm cho hắn những vị trí cần phá hủy trên chiến trường.
 - **Kình Phá Lãng:** Hắn thường phối hợp với Kình Phá Lãng để tạo ra những cuộc tấn công "đâm và phá" quy mô lớn vào các căn cứ hải đảo.
 - **Giải Thiết Quyền:** Huynh đệ cùng tộc, người thường giúp hắn tập luyện để tăng cường sức chịu đựng của lớp vỏ.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Giải Cự Kìm vốn là một thợ khai thác khoáng thạch biển sâu bị các mỏ đá sụp đổ đè nát một bên kìm. Trong quá trình hồi phục kỳ diệu, chiếc kìm đó lại phát triển to lớn và cứng cáp một cách bất thường nhờ hấp thụ linh khí thổ hệ. Bị đuổi việc vì sức phá hoại quá mức, hắn gia nhập hải tặc để tìm nơi có thể tự do phô diễn sức mạnh hủy diệt của mình. Hiện tại, hắn là nỗi khiếp sợ của bất kỳ thành trì ven biển nào khi hạm đội Hắc Hải áp sát.
