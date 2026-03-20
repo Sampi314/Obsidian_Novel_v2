@@ -63,10 +63,15 @@ Tính cách điềm đạm, nhẫn nại, mang trong mình sự hy sinh thầm l
 Tu luyện *Tịnh Hóa Ngọc Thể Thuật* (淨化玉體術) — pháp môn biến toàn bộ cơ thể thành bộ lọc sinh học, hấp thụ độc tố từ đất, nước và không khí rồi chuyển hóa thành linh lực thuần khiết nuôi thảm nấm. Chiêu thức *Bạch Ngọc Tịnh Thế* (白玉淨世) tạo ra một vùng thanh tịnh bán kính năm trượng, mọi chất độc trong phạm vi bị hút về phía nàng và trung hòa. Trong tình huống nguy cấp, nàng có thể dùng *Tịnh Hóa Bạo Phát* (淨化暴發) — tống toàn bộ linh lực đã thanh lọc ra ngoài cùng lúc dưới dạng sóng xung kích trắng, đẩy lùi mọi ô nhiễm trong phạm vi lớn, nhưng hậu quả là thân thể nàng sẽ bị ô nhiễm ngược nghiêm trọng, cần thời gian hồi phục rất dài. Khả năng chiến đấu trực diện yếu, sở trường nằm ở hỗ trợ và phục hồi chiến trường.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bào Hồng Tán:** Tộc Trưởng, người thường xuyên nhắc nhở nàng phải biết giới hạn bản thân, đừng hy sinh quá mức. Nhưng cả hai đều biết rằng nếu không có Tịnh Hóa, thảm nấm đã sụp đổ từ lâu.
-- **Bào Huyết Tịnh:** Đồng nghiệp cùng lĩnh vực thanh lọc nhưng bằng phương pháp đối lập. Huyết Tịnh phân tích lý trí, Tịnh Hóa dùng thân thể cảm nhận. Hai người bổ sung cho nhau nhưng Huyết Tịnh luôn ngầm lo lắng rằng cách làm của nàng quá mạo hiểm.
-- **Bào Thâm Thổ:** Đối tác hoàn hảo — Tịnh Hóa thanh lọc vùng đất ô nhiễm, Thâm Thổ ngay sau đó bồi đắp dinh dưỡng để rừng hồi sinh. Hai người làm việc cùng nhau nhiều đến mức hiểu ý nhau không cần bào tử giao tiếp.
-
+- **Bào Hồng Tán** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Hồng Tán** (Đồng minh): Tộc Trưởng, người giao cho nàng nhiệm vụ thanh lọc vùng đất ô nhiễm nặng nhất
+- **Bào Huyết Tịnh** (Đồng minh): Chuyên gia huyết độc, đồng nghiệp cùng lĩnh vực nhưng phương pháp đối lập — nàng dùng thân hấp thụ, hắn dùng trí phân tích
+- **Bào Thâm Thổ** (Đồng minh): Thổ Dưỡng Sư, đối tác hoàn hảo — nàng thanh lọc, Thâm Thổ phục hồi đất đai sau đó
+- **Bào Thiên Biến Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Thiên Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Hắc Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Lục Quang Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Bào Tịnh Hóa nảy mầm trong một khoảng đất sạch duy nhất giữa vùng ô nhiễm nặng — như một đốm trắng giữa biển đen. Nàng là bào tử đột biến hiếm gặp, thay vì bị độc tố tiêu diệt, cơ thể nàng tự phát triển khả năng hấp thụ và tịnh hóa, dần dần mở rộng khoảnh đất sạch xung quanh mình. Khi Hồng Tán phát hiện nàng thông qua mạng sợi nấm ngầm, khoảnh đất sạch ấy đã mở rộng đến ba trượng — một kỳ tích mà trước đó chưa cá thể nấm đơn lẻ nào làm được.
 

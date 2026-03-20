@@ -63,10 +63,14 @@ Tính cách tự do phóng khoáng, ghét bị giới hạn trong một không g
 Tu luyện *Phong Bào Thiên Lý Thuật* (風孢千里術) — pháp môn cho phép Thiên Phong kiểm soát dòng khí lưu ở quy mô nhỏ, đủ để điều hướng bào tử bay đến chính xác vị trí mong muốn trong phạm vi mười dặm. Chiêu thức *Vạn Bào Tùy Phong* (萬孢隨風) phát tán đồng loạt hàng vạn bào tử theo gió, mỗi bào tử mang theo một lượng nhỏ linh lực đánh dấu lãnh thổ hoặc truyền tin. Trong chiến đấu, hắn sử dụng *Phong Bào Trận Vụ* (風孢陣霧) — kết hợp bào tử với gió tạo thành vòi xoáy nhỏ chứa đầy bào tử độc, mê hoặc hoặc ăn mòn, cuốn kẻ thù vào trong. Sở trường là tác chiến tầm xa và phân tán — hắn có thể rải bào tử khắp một khu vực rồi kích hoạt đồng loạt từ xa. Nhược điểm lớn nhất là phụ thuộc hoàn toàn vào gió, nếu trời lặng gió, hiệu quả chiến đấu giảm đi chín phần.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bào Hồng Tán:** Tộc Trưởng, người kiên nhẫn dung thứ tính phóng khoáng của hắn, nhưng cũng là người duy nhất khiến hắn cảm thấy trách nhiệm nặng nề.
-- **Bào Hắc Lâm:** Trinh sát đáng tin cậy. Hắc Lâm chỉ đường, Thiên Phong gửi bào tử liên lạc theo hướng an toàn — hai người phối hợp tạo thành hệ thống thông tin nhanh nhất tộc.
-- **Bào Thiên Biến Hoa:** Tiến Hóa Sư cung cấp những chủng bào tử thí nghiệm mà Thiên Phong phát tán thử trên diện rộng. Hắn vừa khâm phục trí tuệ của nàng vừa ngại ngùng khi phải thử nghiệm những bào tử có nguy cơ phản tác dụng.
-
+- **Bào Hồng Tán** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Thiên Biến Hoa** (Đồng minh): Phát Tán Sư, người phụ trách phân phối bào tử tiến hóa mà nàng tạo ra đến mọi ngóc ngách của thảm nấm
+- **Bào Hồng Tán** (Đồng minh): Tộc Trưởng, người giao nhiệm vụ mở rộng lãnh thổ bào tử ra vùng đất mới
+- **Bào Hắc Lâm** (Đồng minh): Trinh sát, đồng đội thường xuyên phối hợp — Hắc Lâm dò đường, Thiên Phong phát tán bào tử theo hướng an toàn
+- **Bào Huyết Tịnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Tịnh Hóa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Vạn Căn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Bào Thiên Phong nảy mầm trên đỉnh một cây cổ thụ cao nhất khu vực, nơi gió lùa suốt ngày đêm, khác hẳn với phần lớn tộc nhân sống ở tầng đất ẩm tối tăm. Ngay từ nhỏ, hắn đã quen với gió và ánh sáng, phát triển khả năng cưỡi gió bẩm sinh mà không tộc nhân nào khác có. Hồng Tán nhận ra tiềm năng này, bổ nhiệm hắn làm Phát Tán Sư — người chịu trách nhiệm lan truyền bào tử, ký ức và thông tin đến mọi ngóc ngách của thảm nấm.
 
