@@ -32,10 +32,14 @@ Một thanh niên có dáng người nhỏ nhắn, luôn di chuyển với tốc
 Chuyên tu phong hệ công pháp thiên về tốc độ và kỹ thuật nén tín hiệu linh lực để truyền tin. Tuyệt kỹ "Thiên Lý Truyền Âm" (千里传音) cho phép anh gửi đi những thông điệp ngắn qua sóng linh lực trên biển đến các trạm liên lạc bí mật ở khoảng cách xa ngàn dặm mà không bị phát hiện. Điểm mạnh là khả năng định hướng xuất sắc và tốc độ vượt trội, nhưng điểm yếu là tu vi trung bình nên không thể duy trì truyền tin liên tục trong thời gian dài.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hồ Bạch Nhi** (Sư đồ): Hồ Bạch Thiên Lý chỉ dẫn Hồ Bạch Nhi trong Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Sương Hàn** (Đồng minh): Đồng liêu cùng Bạch Hồ Ẩn Tộc, hỗ trợ lẫn nhau
+- **Hồ Bạch Tuyết Nhi** (Chủ tớ): Thủ hạ trung thành trong Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Tuyết Nhi** (Cấp dưới): Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Vân** (Đồng minh): Đồng liêu cùng Bạch Hồ Ẩn Tộc, hỗ trợ lẫn nhau
 - **Hồ Bạch Liên:** Tộc trưởng trực tiếp chỉ đạo các lộ trình liên lạc bí mật cho anh.
 - **Hồ Bạch Sương Hàn:** Người thường cung cấp tin tức về các vùng biển an toàn để anh thực hiện nhiệm vụ.
 - **Linh Hồ Tàn Tộc (Đại Diện):** Đầu mối liên lạc chính của anh bên ngoài vùng biển Bắc Hải, nơi anh thường xuyên gửi mật thư.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ một gia đình có truyền thống làm nghề liên lạc lâu đời của hồ tộc, Hồ Bạch Thiên Lý kế thừa những bí thuật truyền tin cổ xưa. Sau khi bộ lạc ẩn cư, anh nhận trọng trách xây dựng và duy trì mạng lưới liên lạc ngầm với các nhóm hồ yêu tàn dư khác để hỗ trợ lẫn nhau trong cơn hoạn nạn. Hiện tại, anh là người nắm giữ những bí mật quan trọng nhất về vị trí và tình trạng của các nhóm đồng tộc đang lẩn trốn, luôn sẵn sàng lên đường thực hiện những chuyến đi đầy rẫy hiểm nguy xuyên qua đại dương.
 
