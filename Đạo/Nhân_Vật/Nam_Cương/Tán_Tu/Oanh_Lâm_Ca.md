@@ -42,6 +42,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Yến Tử
+        description: Tôn trọng lẫn nhau, đôi khi trao đổi thông tin tình báo về các thế lực tà đạo trong vùng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: OANH LÂM CA (鶯林歌)
@@ -64,6 +73,7 @@ Oanh Lâm Ca chiến đấu hoàn toàn bằng âm thanh, không cần vũ khí 
 - **Oanh Nam Ca:** Em trai ruột, hai anh em thường song ca để tăng uy lực chiêu thức. Lâm Ca luôn bảo vệ em dù Nam Ca đã trưởng thành.
 - **Oanh Thúy Thanh:** Bà con trong tộc Oanh, Thúy Thanh thường nhờ Lâm Ca hát để dẫn dụ yêu thú ra khỏi hang cho nàng truyền tin an toàn.
 - **Hạc Hồng Nhi:** Đồng minh săn bắt, Hồng Nhi tấn công từ trên cao trong khi Lâm Ca dùng âm thanh khống chế con mồi bên dưới.
+- **Yến Tử:** Tôn trọng lẫn nhau, đôi khi trao đổi thông tin tình báo về các thế lực tà đạo trong vùng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Oanh Lâm Ca sinh ra trong rừng già sâu thẳm Nam Cương, nơi tộc Oanh thế hệ của hắn đã sinh sống hàng trăm năm. Hắn sớm bộc lộ thiên phú âm thanh vượt trội, tiếng hót có thể làm rung chuyển cành cây từ khi còn nhỏ. Khi rừng già bị một đám tu sĩ tà đạo đốt phá để khai thác linh mạch, tộc Oanh tan tác — Lâm Ca dẫn em trai Nam Ca chạy thoát và thề sẽ bảo vệ những khu rừng còn lại. Hiện hắn sống tán tu tại vùng rừng biên giới Nam Cương, dùng tiếng hát bảo vệ lãnh thổ và giúp đỡ các sinh vật rừng. Bí mật lớn nhất là hắn đang nghiên cứu một bài ca cổ có khả năng hồi sinh rừng chết, nhưng chưa đủ tu vi để thi triển.
