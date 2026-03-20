@@ -51,6 +51,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: A Mộc
+        description: Chân Truyền Đệ Tử, thanh niên thật thà mà bà ngầm bảo vệ vì tính cách lương thiện hiếm có trong môn phái
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CÔ NGUYỆT NƯƠNG (蛊月娘)

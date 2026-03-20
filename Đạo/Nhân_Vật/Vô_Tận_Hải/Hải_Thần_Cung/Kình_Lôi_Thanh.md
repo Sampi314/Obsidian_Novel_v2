@@ -15,7 +15,25 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Kình Vạn Lý
+        description: Bác họ và Tây Hải Tướng Quân, người mà hắn kính trọng và hướng tới
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 80
+          tin: 85
+          so: 0
+          on: 30
+      - character: Sa Huyết Nha
+        description: Bắc Hải Tướng Quân, bạn chiến đấu tốt nhất dù tính cách trái ngược hoàn toàn
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 60
+          tin: 70
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: KÌNH LÔI THANH (鯨雷聲)

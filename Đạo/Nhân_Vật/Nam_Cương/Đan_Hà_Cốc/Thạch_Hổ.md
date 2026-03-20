@@ -51,6 +51,33 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Hoàng Thiên Hỏa
+        description: Đệ Lục Tháp Chủ, chiến hữu cũ từ thời cùng nhau chống lại cuộc tập kích
+        feelings:
+          yeu: 42
+          han: 0
+          kinh: 0
+          tin: 47
+          so: 0
+          on: 0
+      - character: Ngô Lôi
+        description: Đệ Nhị Hộ Pháp, thuộc hạ lười biếng nhưng tốc độ chiến đấu cực nhanh
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Vương Cương
+        description: Đệ Tam Hộ Pháp, thuộc hạ nhiệt tình và trung thành
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 44
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: THẠCH HỔ (石虎)
@@ -74,6 +101,9 @@ Thạch Hổ kết hợp thể thuật cường đại với hỏa hệ công ph
 - **Lưu Thiết Giáp:** Đệ Nhất Hộ Pháp, thuộc hạ tin cậy, bức tường thành vững chắc.
 - **Phùng Đan Thanh:** Hữu Hộ Pháp, quân sư mà ông tin tưởng hoàn toàn.
 - **Đan Dương Tử:** Cốc Chủ, người duy nhất có thể ra lệnh cho ông.
+- **Hoàng Thiên Hỏa:** Đệ Lục Tháp Chủ, chiến hữu cũ từ thời cùng nhau chống lại cuộc tập kích.
+- **Ngô Lôi:** Đệ Nhị Hộ Pháp, thuộc hạ lười biếng nhưng tốc độ chiến đấu cực nhanh.
+- **Vương Cương:** Đệ Tam Hộ Pháp, thuộc hạ nhiệt tình và trung thành.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thạch Hổ xuất thân từ một bộ lạc chiến binh ở vùng rìa Hỏa Diệm Sơn, được Đan Hà Cốc chiêu mộ nhờ sức mạnh thể chất phi thường và linh căn hỏa hệ mãnh liệt. Ông thăng tiến qua hàng trăm trận chiến thực tế, mỗi vết sẹo trên người đều là bài học xương máu. Sự kiện quyết định là khi ông đơn độc chém chết một yêu thú cấp Nguyên Anh trong cuộc chiến bảo vệ tuyến vận chuyển, từ đó được phong Hộ Pháp Đường Chủ. Mục tiêu hiện tại là đào tạo thế hệ chiến binh tiếp theo đủ sức bảo vệ cốc khi ông không còn.

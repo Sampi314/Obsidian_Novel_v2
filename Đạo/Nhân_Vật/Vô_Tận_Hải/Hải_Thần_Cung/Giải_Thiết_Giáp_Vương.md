@@ -14,7 +14,25 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Chương Hắc Triều
+        description: Tướng quân Tây Bắc, đối thủ tranh luận chiến lược muôn thuở nhưng cặp đôi hoàn hảo trên chiến trường
+        feelings:
+          yeu: 15
+          han: 20
+          kinh: 40
+          tin: 50
+          so: 0
+          on: 5
+      - character: Kình Vạn Lý
+        description: Đồng liêu lâu năm trong Bát Đại Tướng Quân, kẻ duy nhất đấm mà lão phải đỡ
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 65
+          tin: 75
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: GIẢI THIẾT GIÁP VƯƠNG (蟹鐵甲王)

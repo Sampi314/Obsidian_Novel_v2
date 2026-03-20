@@ -51,6 +51,15 @@ arcs:
           tin: 36
           so: 0
           on: 54
+      - character: Hứa Luyện
+        description: Đệ Bát Tháp Chủ, đồng nghiệp nghiên cứu thân thiết, hai người thường hợp tác dự án
+        feelings:
+          yeu: 51
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 26
 ---
 
 # HỒ SƠ NHÂN VẬT: TRẦN HỎA NHAM (陳火岩)
@@ -74,6 +83,7 @@ Trần Hỏa Nham chuyên về nghiên cứu nguyên liệu khoáng thạch và 
 - **Đan Dương Tử:** Cốc Chủ, cấp trên mà ông tôn kính vì tầm nhìn và tài năng lãnh đạo.
 - **Mã Hồng Lô:** Đệ Ngũ Tháp Chủ, đồng liêu hay tranh luận về phương pháp luyện đan nhưng tôn trọng lẫn nhau.
 - **Phùng Lô Hỏa:** Nội Môn Đệ Tử, đệ tử ruột mà ông đang đào tạo thành thế hệ kế cận.
+- **Hứa Luyện:** Đệ Bát Tháp Chủ, đồng nghiệp nghiên cứu thân thiết, hai người thường hợp tác dự án.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trần Hỏa Nham vốn là con trai một thợ mỏ tại vùng Hỏa Diệm Sơn, từ nhỏ đã quen thuộc với các loại khoáng vật và nham thạch. Được Đan Hà Cốc tuyển chọn nhờ linh căn hỏa thổ song hệ hiếm gặp, ông nhanh chóng tìm thấy sở trường trong lĩnh vực nghiên cứu nguyên liệu. Sự kiện quyết định là khi ông phát hiện một mạch Hỏa Tinh Thạch mới sâu dưới lòng núi, mở rộng nguồn tài nguyên của cốc đáng kể. Hiện tại ông đang nghiên cứu cách tận dụng nham thạch đặc biệt từ khu vực cấm để tạo ra loại lò luyện đan thế hệ mới.

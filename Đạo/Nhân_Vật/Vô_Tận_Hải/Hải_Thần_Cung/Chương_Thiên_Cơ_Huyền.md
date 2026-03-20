@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Giao Nguyệt Hàn
+        description: Đồng liêu Tế Tư, thường xuyên trao đổi về trận pháp cổ đại và bí thuật phong ấn
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 65
+          tin: 70
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CHƯƠNG THIÊN CƠ HUYỀN (章天機玄)

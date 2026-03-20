@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Chương Hắc Triều
+        description: Cấp trên đào tạo, viên tướng mà hắn vừa nể phục vừa cảnh giác vì sự bạo lực vô cớ
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 50
+          tin: 40
+          so: 10
+          on: 20
 ---
 
 # HỒ SƠ NHÂN VẬT: KÌNH THIÊN LÔI ÂM (鯨天雷音)

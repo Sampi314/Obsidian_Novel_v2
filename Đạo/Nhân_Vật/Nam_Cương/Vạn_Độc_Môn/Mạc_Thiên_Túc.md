@@ -51,6 +51,15 @@ arcs:
           tin: 40
           so: 0
           on: 38
+      - character: A Mộc
+        description: Chân Truyền Đệ Tử, kẻ dưới mà ông hay bắt nạt vì xem thường tính hiền lành
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: -30
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: MẠC THIÊN TÚC (莫千足)

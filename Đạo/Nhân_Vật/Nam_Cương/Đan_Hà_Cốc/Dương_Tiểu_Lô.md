@@ -51,6 +51,33 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Lâm Ngọc Yên
+        description: Nội Môn Đệ Tử, sư muội ngưỡng mộ hắn, hắn coi nàng là đàn em đáng quý
+        feelings:
+          yeu: 43
+          han: 0
+          kinh: 0
+          tin: 44
+          so: 0
+          on: 0
+      - character: Ngô Lôi
+        description: Đệ Nhị Hộ Pháp, bạn cùng trang lứa tính cách thoải mái
+        feelings:
+          yeu: 41
+          han: 0
+          kinh: 0
+          tin: 35
+          so: 0
+          on: 0
+      - character: Phùng Đan Thanh
+        description: Hữu Hộ Pháp, sư thúc mưu trí mà hắn đánh giá cao tài chiến thuật
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: DƯƠNG TIỂU LÔ (楊小爐)
@@ -74,6 +101,9 @@ Dương Tiểu Lô thừa hưởng thiên phú đan đạo và hỏa hệ linh l
 - **Tiêu Hỏa Nhi:** Đệ Cửu Tháp Chủ, bạn cạnh tranh đồng trang lứa, hai người thường xuyên so tài.
 - **Phùng Lô Hỏa:** Nội Môn Đệ Tử, sư đệ thân thiết nhất, bạn tâm giao.
 - **Mã Hồng Lô:** Đệ Ngũ Tháp Chủ, sư thúc mà hắn hay xin ý kiến về chuyện ngoại giao.
+- **Lâm Ngọc Yên:** Nội Môn Đệ Tử, sư muội ngưỡng mộ hắn, hắn coi nàng là đàn em đáng quý.
+- **Ngô Lôi:** Đệ Nhị Hộ Pháp, bạn cùng trang lứa tính cách thoải mái.
+- **Phùng Đan Thanh:** Hữu Hộ Pháp, sư thúc mưu trí mà hắn đánh giá cao tài chiến thuật.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Dương Tiểu Lô là con trai duy nhất của Cốc Chủ Đan Dương Tử, từ nhỏ được đào tạo toàn diện với kỳ vọng sẽ kế thừa vị trí lãnh đạo. Tuy nhiên, gánh nặng kỳ vọng khiến hắn luôn tự hỏi liệu mình đang sống cho bản thân hay cho cha. Sự kiện then chốt là chuyến du lịch bí mật ra ngoài cốc, nơi hắn tận mắt chứng kiến sự khổ đau của dân thường bị Vạn Độc Môn áp bức, thắp lên ý chí muốn thay đổi hiện trạng. Bí mật hiện tại là hắn đang âm thầm liên lạc với một số tán tu và thế lực nhỏ ở Nam Cương, hy vọng xây dựng liên minh chống lại Vạn Độc Môn.

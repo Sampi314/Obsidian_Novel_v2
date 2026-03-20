@@ -79,6 +79,33 @@ arcs:
           tin: -40
           so: 5
           on: -60
+      - character: A Mộc
+        description: Chân Truyền Đệ Tử, đồng môn lớn hơn cố gắng kết bạn nhưng hắn không quan tâm
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Ân Tiểu Độc
+        description: Nội Môn Đệ Tử, đồng môn nhút nhát duy nhất dám nói chuyện với hắn
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 0
+          tin: 15
+          so: 0
+          on: 0
+      - character: Mặc Dơi
+        description: Đệ tử nội môn, thuộc hạ trung thành vì sợ hãi, phụ trách vận chuyển Huyết Tinh
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: -20
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LỆ VÔ TÂM

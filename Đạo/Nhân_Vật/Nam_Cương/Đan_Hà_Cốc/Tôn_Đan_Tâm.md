@@ -51,6 +51,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Châu Ngọc Yên
+        description: Đệ Thất Tháp Chủ, sư muội mà bà quý mến vì sự tỉ mỉ và tinh tế trong đan đạo
+        feelings:
+          yeu: 46
+          han: 0
+          kinh: 0
+          tin: 40
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TÔN ĐAN TÂM (孫丹心)
@@ -74,6 +83,7 @@ Tôn Đan Tâm chuyên về luyện chế các loại đan dược chữa trị 
 - **Dương Linh Hỏa:** Đệ Nhất Tháp Chủ, đồng liêu mà bà tôn trọng tài năng luyện đan.
 - **Lâm Thanh Hà:** Đệ Tứ Tháp Chủ, đệ tử cũ mà bà đích thân đào tạo, rất tự hào về cô ấy.
 - **Tiêu Hỏa Nhi:** Đệ Cửu Tháp Chủ, đệ tử trẻ nhất mà bà thường lo lắng vì tính cách bốc đồng.
+- **Châu Ngọc Yên:** Đệ Thất Tháp Chủ, sư muội mà bà quý mến vì sự tỉ mỉ và tinh tế trong đan đạo.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Tôn Đan Tâm gia nhập Đan Hà Cốc cùng thời với Đan Dương Tử, là một trong những đệ tử tài năng nhất thế hệ. Bà chọn con đường y đan thay vì đan đạo chiến đấu sau khi chứng kiến nhiều đồng môn thiệt mạng trong cuộc xung đột với Vạn Độc Môn. Sự kiện then chốt là khi bà cứu sống hàng trăm đệ tử bị trúng độc trong một cuộc tập kích của kẻ thù, từ đó được phong Đệ Tam Tháp Chủ phụ trách y dược. Bí mật của bà là đang nghiên cứu một loại giải độc vạn năng để đối phó với bất kỳ loại kỳ độc nào của Vạn Độc Môn.
