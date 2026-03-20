@@ -34,9 +34,11 @@ arcs:
 - **Chiến Đấu:** Phong cách phòng thủ phản kích, ít khi chủ động tấn công. Long Ngọc Hàn dụ đối phương tấn công trước, dùng hàn khí bao phủ xung quanh làm lá chắn, chờ kẻ địch lộ sơ hở rồi tung *Ngọc Long Toái Kích* (玉龍碎擊) — hàng ngàn mảnh băng ngọc sắc như kiếm bắn ra đồng loạt. Ở dạng long thân, nàng là một Bạch Long phủ vảy ngọc lam, Long Uy tuy không bằng Chân Long huyết mạch thuần khiết nhưng hàn khí đủ đông cứng cả vùng biển rộng. Điểm yếu là hỏa pháp cao cấp khắc chế nghiêm trọng hàn khí của nàng.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Long Hắc Dạ** (Sư đồ): Long Hắc Dạ chỉ dẫn Long Ngọc Hàn trong Phản Loạn Long Tử
+- **Long Thanh Phong** (Đồng minh): Đồng liêu cùng Phản Loạn Long Tử, hỗ trợ lẫn nhau
+- **Long Tử Vân** (Đồng minh): Đồng liêu cùng Phản Loạn Long Tử, hỗ trợ lẫn nhau
 - **Long Hắc Dạ:** Thủ lĩnh mà nàng tuyệt đối trung thành. Là một trong hai người biết danh tính thật của Hắc Long. Giữa hai người không có tình cảm nam nữ, chỉ có sự tin tưởng tuyệt đối của đồng chí cùng chung lý tưởng.
 - **Long Thanh Phong:** Đồng đội trẻ tuổi mà nàng thường phải kìm hãm. Long Ngọc Hàn nhiều lần phải uốn nắn tính nóng nảy của Thanh Phong, xem hắn như em trai cần bảo vệ nhưng cũng là mắt xích dễ gãy nhất trong tổ chức.
 - **Mẫu thân (đã mất):** Mẫu thân nàng là một nữ Giao Long bị ép hiến tế huyết tinh cho trứng Chân Long, qua đời khi nàng còn nhỏ. Đây là nguồn cơn khiến nàng gia nhập Phản Loạn Long Tử.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Long Ngọc Hàn là con gái của một Long Tử cấp trung và một nữ Giao Long — huyết mạch hỗn hợp khiến nàng bị xếp vào hàng Bán Long, bị coi thường trong Long Cung. Mẫu thân nàng bị bắt tham gia Long Huyết Trận hiến tế để nuôi dưỡng trứng Chân Long, kiệt sức mà chết khi nàng mới trăm tuổi. Cha nàng dù đau lòng nhưng không dám phản kháng, chỉ lặng lẽ trao lại chiếc trâm ngọc của vợ cho con gái. Chính bi kịch ấy đã khiến Long Ngọc Hàn mang trong lòng nỗi hận thấu xương đối với hệ thống phân chia huyết mạch. Khi Long Hắc Dạ bí mật chiêu mộ, nàng lập tức gia nhập và nhanh chóng trở thành mưu sĩ chủ chốt, được phong Phó Thủ Lĩnh nhờ trí tuệ sắc bén và sự tỉ mỉ trong tổ chức mạng lưới liên lạc. Bí mật mà nàng giấu kín: nàng đã âm thầm liên lạc với Tạp Huyết Long Đàn bên ngoài Long Cung, chuẩn bị một liên minh rộng lớn hơn mà chưa báo cáo cho Hắc Dạ.
