@@ -113,16 +113,16 @@ Hiện tại, Thạch Vạn Niên dành phần lớn thời gian trong trạng t
 - **Thiên Hỏa Luyện Kim (天火煉金):** Dù là Thạch Tộc, lão thông thạo hỏa đạo ở mức cao thâm — có thể triệu hồi địa hỏa từ lõi đất, nhiệt độ đủ nóng để nung chảy bất kỳ kim loại nào. Tuy nhiên, lão hiếm khi tự rèn — lão coi việc rèn đúc là "chuyện của thế hệ sau."
 
 ## VI. QUAN HỆ
-
+- **Sơn Thiết** (Đồng minh): Thái Thượng Trưởng Lão, từng theo hầu lão suốt ba trăm năm
+- **Thạch Chùy** (Đồng minh): Đệ tử thân truyền duy nhất, người kế thừa ý chí rèn đúc của lão
+- **Thạch Hỏa Long** (Đệ tử): Đệ tử đời thứ hai, được Thạch Chùy đào tạo nhưng lão vẫn thỉnh thoảng chỉ điểm
+- **Hồ Vân** (Chủ tớ): Thạch Vạn Niên quản lý Hồ Vân trong Thạch Linh Cung
 - **Thạch Chùy (Đệ Tử Duy Nhất):**
     - Mối quan hệ sâu sắc nhất và cũng là duy nhất mà Thạch Vạn Niên thực sự đầu tư tình cảm. Lão đã đợi ba trăm năm để Thạch Chùy khai linh, rồi dành thêm ngàn năm nữa để dạy hắn mọi thứ. Lão tin rằng Thạch Chùy sẽ vượt qua mình — không phải về tu vi, mà về khả năng rèn đúc. Bí mật "Thập Tam Thần Binh" mà Thạch Chùy đang theo đuổi, thực ra là ý tưởng mà Thạch Vạn Niên gieo vào tâm trí hắn từ khi hắn còn nhỏ.
-
 - **Thạch Hỏa Long (Đệ Tử Đời Thứ Hai):**
     - Lão không chính thức nhận Hỏa Long làm đệ tử, nhưng thỉnh thoảng chỉ điểm vài câu — mỗi câu đều khiến Hỏa Long ngẫm nghĩ hàng chục năm. Lão đánh giá Hỏa Long "nóng nảy nhưng thành thật" — đối với Thạch Tộc, sự thành thật quý hơn tài năng.
-
 - **Sơn Thiết (Hộ Pháp Trung Thành):**
     - Sơn Thiết từng theo hầu lão suốt ba trăm năm trong chuyến vân du cuối cùng. Lão coi gã Lai Cự Tộc này như một tảng đá trung thành — không hoa mỹ, không nổi bật, nhưng luôn ở đúng chỗ cần ở.
-
 ## VII. GIAI THOẠI
 
 > *"Ta không dạy ngươi cách rèn kiếm. Ta dạy ngươi cách lắng nghe. Khi ngươi nghe được tiếng thở dài của quặng sắt trong lò lửa, ngươi sẽ tự biết phải đánh búa khi nào."*
