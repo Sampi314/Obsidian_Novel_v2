@@ -32,9 +32,13 @@ Dáng người cân đối với phong thái điềm tĩnh, gương mặt toát 
 Đang tu luyện công pháp cơ bản của Thần Khí Phường, tiềm năng phát triển lớn. Chiêu thức 武小鑄·Sơ Thức (武小鑄·初式) tuy đơn giản nhưng nền tảng vững chắc. Tu vi còn thấp nên chủ yếu hỗ trợ và học hỏi từ tiền bối.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hoàng Thần Lô:** Trưởng Lão, đồng liêu quan trọng nhất trong Thần Khí Phường.
-- **Lê Luyện Kim:** Nội Môn Đệ Tử, đối tác thường xuyên phối hợp.
-- **Lý Cơ Giới:** Phường Chủ, mối quan hệ tin cậy lẫn nhau.
-
+- **Lý Cơ Giới** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Luyện Khí Đại Sư Hội
+- **Lý Cơ Giới** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Cơ Giới
+- **Phạm Thiết Đúc** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Luyện Khí Đại Sư Hội
+- **Trần Thiên Cơ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Luyện Khí Đại Sư Hội
+- **Hoàng Thần Lô** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Luyện Khí Đại Sư Hội
+- **Nguyễn Đúc Kim** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Luyện Khí Đại Sư Hội
+- **Đặng Linh Cơ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Luyện Khí Đại Sư Hội
+- **Lê Luyện Kim** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Luyện Khí Đại Sư Hội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vũ Tiểu Đúc lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Thần Khí Phường. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Thần Khí Phường và dần khẳng định vị trí của mình. Với tu vi Kim Đan Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Chân Truyền Đệ Tử.
