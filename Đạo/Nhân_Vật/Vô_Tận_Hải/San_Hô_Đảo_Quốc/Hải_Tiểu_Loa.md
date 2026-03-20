@@ -34,9 +34,12 @@ Tuy chỉ đạt Trúc Cơ Viên Mãn và không phải là một chiến binh g
 - **Tuyệt kỹ - San Hô Thuẫn Biển (珊瑚海盾):** Dùng linh lực kết tinh san hô thành một mộc thuẫn phòng ngự tức thì để chặn đòn chí mạng.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hải Nguyệt Ca** (Sư đồ): Hải Nguyệt Ca chỉ dẫn Hải Tiểu Loa trong San Hô Đảo Quốc
+- **Hải Nguyệt Ca** (Cấp dưới): Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc
+- **Hải Vân Dao** (Sư đồ): Hải Vân Dao chỉ dẫn Hải Tiểu Loa trong San Hô Đảo Quốc
+- **San Hồng Diệp** (Sư đồ): San Hồng Diệp chỉ dẫn Hải Tiểu Loa trong San Hô Đảo Quốc
 - **Hải Nguyệt Ca:** Người mà cô vừa tôn kính như vị thần của Đảo Quốc, vừa biết ơn vì sự ưu ái Viện Chủ dành cho những tác phẩm của cô.
 - **Ngư Thiên Lãng:** Là khách hàng lớn nhất, một thương nhân sành sỏi luôn mang những chiếc Sáo San Hô do Tiểu Loa chế tạo ra ngoài giao thương.
 - **Hải Vân Dao:** Từng xem Vân Dao là chị gái tốt, thường làm tặng những nhạc cụ đắt giá nhất để giúp vị đại sư này dễ dàng chống đỡ tâm ma.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hải Tiểu Loa sinh ra trong một gia đình thợ thủ công Tiên Cá nghèo ven Rạn San Hô Khổng Lồ. Từ bé, cô đã bộc lộ thiên khiếu lắng nghe "tiếng nói" của những khối san hô câm lặng, hiểu được cấu trúc tinh thể của chúng. Những tác phẩm đầu tay của cô không may lọt vào mắt xanh của bọn Hải Yêu Mê Cung và cô suýt bị bắt cóc để trở thành nô lệ thợ rèn cho chúng. May mắn thay, nàng được Hải Vệ Quân kịp thời giải cứu. Từ đó, cô thề dùng kỹ năng của mình chế tạo pháp bảo tốt nhất cho Linh Ca Viện và quân đội, mong mỏi tiếng ca thanh bình sẽ ngân mãi nơi San Hô Đảo Quốc.
