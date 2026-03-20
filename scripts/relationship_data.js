@@ -24027,6 +24027,51 @@ var relationshipData = {
       "description": "Ưng Liệt Phong sở hữu vóc dáng cao lớn, cường tráng vượt trội so với các Vũ Tộc khác, nổi bật với đôi cánh ưng xám tro sải rộng đầy dũng mãnh và bộ lông vũ sắc nhọn như cương đao. Khuôn mặt hắn mang những đường nét góc cạnh, cương nghị, đi kèm với đôi mắt vàng kim sắc lẹm luôn ẩn chứa ngọn lửa cu..."
     },
     {
+      "id": "ly_mo_tuyet",
+      "name": "Lý Mộ Tuyết",
+      "title": "Viện Trưởng",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Tuyết Trung Cô Viện",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#00bcd4",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Ôn Noãn Kết Giới",
+      "personality": "Từ bi, Nhẫn nại, Vị tha",
+      "description": "Bà cụ với mái tóc bạc trắng như tuyết, luôn mặc một bộ đạo bào sờn cũ của Huyền Băng Cung."
+    },
+    {
+      "id": "le_duoc_nuong",
+      "name": "Lê Dược Nương",
+      "title": "Quản Sự Chữa Bệnh",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Tuyết Trung Cô Viện",
+      "region": "Bắc Băng",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tuyết Liên Bách Thảo Quyết",
+      "personality": "Thực tế, Nghiêm khắc, Nhân hậu",
+      "description": "Nữ tử tuổi trung niên hơi tròn trịa, luôn đeo tạp dề giắt đầy thảo dược khô."
+    },
+    {
+      "id": "pham_thu_sinh",
+      "name": "Phạm Thư Sinh",
+      "title": "Quản Sự Dạy Chữ",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Tuyết Trung Cô Viện",
+      "region": "Bắc Băng",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Hàn Nho Khí Quyết",
+      "personality": "Ôn hòa, Lý tưởng hóa, Mệt mỏi",
+      "description": "Nam tử gầy gò mặc nho phục sờn rách độn bông, tay vương nét mực."
+    },
+    {
       "id": "ung_loi_duc",
       "name": "Ưng Lôi Dực",
       "title": "Chiến Sĩ",
@@ -49103,6 +49148,42 @@ var relationshipData = {
       "description": "Ưng Tuyệt Huyền chỉ dẫn Yến Tiểu Tiểu trong Cực Quang Thần Điện"
     },
     {
+      "source": "ly_mo_tuyet",
+      "target": "le_duoc_nuong",
+      "type": "mentor",
+      "description": "Lý Mộ Tuyết nhặt Lê Dược Nương về nuôi dưỡng và coi như con ruột, giao phó việc chữa bệnh."
+    },
+    {
+      "source": "le_duoc_nuong",
+      "target": "ly_mo_tuyet",
+      "type": "subordinate",
+      "description": "Lê Dược Nương kính trọng và chăm sóc sức khỏe cho Viện Trưởng."
+    },
+    {
+      "source": "ly_mo_tuyet",
+      "target": "pham_thu_sinh",
+      "type": "mentor",
+      "description": "Lý Mộ Tuyết cứu mạng Phạm Thư Sinh và tin tưởng giao cho việc dạy chữ."
+    },
+    {
+      "source": "pham_thu_sinh",
+      "target": "ly_mo_tuyet",
+      "type": "subordinate",
+      "description": "Phạm Thư Sinh coi Viện Trưởng như thánh sống và âm thầm ghi chép cuộc đời bà."
+    },
+    {
+      "source": "le_duoc_nuong",
+      "target": "pham_thu_sinh",
+      "type": "ally",
+      "description": "Đối tác thân thiết trong việc quản lý Cô Viện, thường xuyên cãi vã nhưng rất tôn trọng nhau."
+    },
+    {
+      "source": "pham_thu_sinh",
+      "target": "le_duoc_nuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tuyết Trung Cô Viện, Phạm Thư Sinh dựa dẫm vào sự thực dụng của Lê Dược Nương."
+    },
+    {
       "source": "nghich_lan",
       "target": "no_dao",
       "type": "mentor",
@@ -58573,6 +58654,18 @@ var relationshipData = {
         "co_son"
       ],
       "leader": "co_mong"
+    },
+    {
+      "id": "tuyet_trung_co_vien",
+      "name": "Tuyết Trung Cô Viện",
+      "type": "tự_viện",
+      "region": "Bắc Băng",
+      "members": [
+        "ly_mo_tuyet",
+        "le_duoc_nuong",
+        "pham_thu_sinh"
+      ],
+      "leader": "ly_mo_tuyet"
     }
   ],
   "meta": {
