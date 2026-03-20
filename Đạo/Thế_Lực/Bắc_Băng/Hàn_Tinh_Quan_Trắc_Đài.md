@@ -74,9 +74,11 @@ Hàn Tinh Quan Trắc Đài là một cơ sở nghiên cứu thiên văn nhỏ b
 
 ## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
 Trụ sở tọa lạc trên "Hàn Tinh Đồi" — một đồi đá cao điểm tách biệt khỏi dãy Tuyết Sơn, có bầu trời quanh năm quang đãng nhất khu vực nhờ một hiện tượng khí tượng đặc biệt: các luồng gió xoáy ngược đẩy mây tuyết tách ra hai bên, tạo ra một "Thiên Nhãn" vĩnh cửu phía trên đồi. Tài nguyên quý giá nhất là bộ "Kinh Tinh Tượng Cổ" — ba mươi sáu cuộn da thú ghi chép vị trí tinh tú từ thời đại trước bị thất lạc, được Tinh Hàn Tử tìm thấy trong phế tích nền đài — và kho dữ liệu thiên văn "Lục Thập Niên Tinh Lục" tích lũy qua sáu mươi năm quan sát liên tục không gián đoạn. Đài cũng sở hữu loại "Tinh Quang Mực" đặc biệt chế từ bột linh thạch pha Hàn Quang Linh Phấn để vẽ các bản "Tinh Đồ Sống" — bản đồ sao có khả năng tự cập nhật vị trí theo thời gian thực.
+Khu vực xung quanh ẩn chứa nhiều bí mật chưa được khám phá — hang động chưa ai đến, mạch khoáng chưa ai biết, dấu tích cổ đại mà thời gian chưa kịp xóa nhòa.
 
 ## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
 Đề cao triết lý: *"Sao trời không nói dối — kẻ ghi sai là tội nhân của thiên đạo."* Thành viên đài coi sự trung thực trong ghi chép là đức hạnh tối cao, và bất kỳ ai bị phát hiện giả mạo dữ liệu sẽ bị trục xuất vĩnh viễn. Văn hóa tại đây mang đậm tính học thuật, yên bình và kiên nhẫn — cuộc sống quay quanh việc quan sát, ghi chép, và tranh luận. Họ có tập tục "Thức Tinh Dạ" — thức trắng đêm khi có nhật thực, nguyệt thực hoặc cực quang bất thường, coi đó là những thời khắc "Thiên Đạo mở lời" mà không được phép bỏ lỡ. Mỗi lần phát hiện một hiện tượng thiên văn mới, cả đài sẽ tổ chức "Tinh Trà Hội" — uống trà nóng và thảo luận ý nghĩa của phát hiện bên lò sưởi, đôi khi kéo dài suốt mấy ngày đêm.
+Mỗi thế hệ mới được truyền dạy không chỉ kỹ năng sinh tồn mà cả câu chuyện về nguồn cội, để ngọn lửa ký ức không bao giờ tắt dù hoàn cảnh khắc nghiệt đến đâu.
 
 ## IV. Cơ Cấu Tổ Chức (组织结构)
 ```mermaid
@@ -98,19 +100,24 @@ graph TD
 - **Hàn Tinh Đồ "Tinh Đồ Sống":** Các bản đồ thiên văn chính xác có khả năng tự cập nhật, được vẽ bằng Tinh Quang Mực trên da thú đặc biệt. Thường được các đại tông môn mua về để dự đoán thời điểm thích hợp cho việc đột phá cảnh giới — giá một bản từ năm trăm đến hai ngàn linh thạch hạ phẩm tùy độ chi tiết.
 - **Linh Thạch Tụ Quang "Tinh Thạch":** Loại đá dùng để lưu trữ ánh sáng sao trong suốt đêm dài, có tác dụng ổn định đạo tâm và xua tan tâm ma cho tu sĩ khi bế quan. Mỗi viên cần phơi dưới sao trời ba tháng mới đủ năng lượng, giá mười linh thạch hạ phẩm mỗi viên.
 - **Cực Quang Dự Báo Thư:** Bản tin hàng tháng phân tích hiện tượng cực quang và dự đoán các biến động linh khí lớn, được gửi đến các khách hàng đăng ký qua Bắc Phong Thông Tín Trạm.
+Ngoài ra, Hàn Tinh Quan Trắc Đài còn sở hữu vật phẩm có giá trị văn hóa hơn vật chất — thứ mà thương nhân bỏ qua nhưng nhà sử học trả bất cứ giá nào.
 
 ## VII. Cơ Sở Hạ Tầng (基础设施)
 - **Thiên Văn Đài Cổ "Vọng Tinh Đài":** Công trình bằng đá xám với hệ thống thấu kính "Thâm Hải Pha Lê" khổng lồ — ba tấm kính lớn bằng bàn ăn lắp trên khung gỗ xoay được, cho phép phóng đại hình ảnh tinh tú gấp trăm lần. Đây là di tích duy nhất còn sót lại từ phế tích ban đầu, và Tinh Hàn Tử tin rằng nó được xây bởi một nền văn minh cổ đại tiên tiến hơn nhiều so với hiện tại.
 - **Tàng Thư Các Tinh Tượng "Tinh Thư Lầu":** Nơi lưu giữ hàng vạn cuộn giấy ghi chép dữ liệu qua sáu mươi năm, được phân loại theo năm, tháng và loại hiện tượng. Tầng hầm chứa bộ "Kinh Tinh Tượng Cổ" gốc, bọc trong vải chống ẩm và khóa bằng ba lớp phù ấn.
+Toàn bộ hạ tầng mang dấu ấn đặc trưng cộng đồng — không phải xa hoa mà là thực dụng đúc kết qua nhiều thế hệ thử nghiệm.
 
 ## VIII. Kinh Tế (経済)
 Nguồn thu nhập khiêm tốn từ việc cung cấp bản tin dự báo thời tiết cho các làng phàm nhân và thương đoàn qua đường — mỗi bản tin giá năm linh thạch hạ phẩm, phát hành hàng tuần qua Bắc Phong Thông Tín Trạm. Đôi khi họ nhận được các khoản tài trợ nhỏ từ Thái Ất Môn để thực hiện các nghiên cứu thiên văn chuyên sâu — khoản lớn nhất gần đây là một ngàn linh thạch hạ phẩm cho dự án "Cực Quang Chu Kỳ" kéo dài ba năm. "Tinh Đồ Sống" là mặt hàng đắt nhất nhưng bán rất chậm — mỗi năm chỉ vài bản. Cuộc sống của các thành viên rất thanh đạm, chủ yếu dành cho niềm đam mê nghiên cứu — Tinh Hàn Tử thường đùa rằng *"tri thức là linh thạch, và ta giàu nhất Bắc Băng"*.
+Tiềm năng kinh tế vượt xa những gì đang được khai thác — sự thiếu hụt nhân lực, kiến thức thương mại, và bảo hộ chính trị khiến phần lớn giá trị vẫn nằm yên.
 
 ## IX. Lịch Sử Tóm Tắt (简史)
 Sáng lập 60 năm trước bởi Tinh Hàn Tử sau khi ông bị Cực Quang Thần Điện từ chối thu nạp vì "linh căn quá kém, không xứng đáng". Không từ bỏ ước mơ giải mã bầu trời, ông đã tự mình xây dựng đài quan sát này từ đống đổ nát của một phế tích cổ trên Hàn Tinh Đồi — phát hiện ra rằng phế tích chính là tàn tích của một đài thiên văn từ thời đại trước. Qua thời gian, sự kiên trì và những phát hiện chính xác đáng kinh ngạc của ông đã cảm hóa được một số học trò — bắt đầu từ hai giáo sư bỏ tông phái đến theo, rồi dần dần có thêm sinh viên — tạo nên một cộng đồng học thuật nhỏ bé nhưng đáng kính giữa lòng Bắc Băng.
+Mỗi thế hệ kế tiếp gánh di sản và gánh nặng thế hệ trước — nhưng cũng mang khả năng mới mà cha ông chưa từng tưởng tượng.
 
 ## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
 Tương truyền Tinh Hàn Tử đã quan sát thấy một ngôi sao mới xuất hiện ở phương Bắc mà không có trong bất kỳ cổ thư nào — ông đặt tên nó là "U Tinh" — và tin rằng đó là điềm báo cho sự tái sinh của một thực thể thượng cổ đang đến gần. U Tinh chỉ xuất hiện vào những đêm cực quang mạnh nhất, nhấp nháy theo nhịp hoàn toàn đồng bộ với ánh sáng của Băng Tinh Khuẩn Tộc dưới lòng đất — mối liên hệ mà Tinh Hàn Tử ghi trong nhật ký mật là "Thiên Địa Đồng Mạch". Ngoài ra, trong bộ "Kinh Tinh Tượng Cổ", ông đã tìm thấy một trang bị xé mất — và dựa trên các dấu vết còn lại, ông tin rằng trang đó chứa đựng bản đồ tinh tú chỉ dẫn đến vị trí phong ấn chính của ma tộc thượng cổ, bị ai đó cố tình hủy diệt để che giấu sự thật.
+Những bí mật này, nếu được tiết lộ, có thể khiến nhiều thế lực phải nhìn lại đánh giá của mình về cộng đồng nhỏ bé này — vừa là cơ hội vừa là mối nguy.
 
 ## XI. Quan Hệ Thế Lực (势力关系)
 ```mermaid
@@ -119,4 +126,5 @@ graph LR
     HTQTCĐ -- Phớt lờ -- CQTĐ[Cực Quang Thần Điện]
     HTQTCĐ -- Hợp tác ngầm -- ĐBTĐ[Đại Bàng Tuyết Đàn]
     HTQTCĐ -- Trao đổi -- TAM[Thái Ất Môn]
+Nhìn tổng thể, mạng lưới quan hệ tuy mỏng manh nhưng đủ duy trì sự tồn tại — trong thế giới tu chân tàn khốc, tồn tại đã là chiến thắng.
 ```

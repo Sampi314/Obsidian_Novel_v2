@@ -88,9 +88,11 @@ Hoàng Tuyền Cứu Hộ Đội là tổ chức cứu hộ duy nhất hoạt đ
 
 ## II. Địa Lý & Tài Nguyên (地理与资源)
 Trụ sở đặt tại vị trí chiến lược gần cổng bắc Trạm Biên Nam Cương — hướng mà hầu hết tu sĩ bị thương từ rừng sâu quay về. Nhà gỗ hai tầng được xây dựng chắc chắn: tầng dưới là phòng cấp cứu rộng rãi với giường bệnh, bàn phẫu thuật, và kho dược liệu; tầng trên là nơi nghỉ ngơi của đội viên. Phía sau có sân tập luyện cứu hộ, nơi cứu hộ viên mới rèn luyện kỹ năng leo trèo, chạy nhanh và vận chuyển thương binh. Tài nguyên gồm dược liệu giải độc và cầm máu cơ bản do Nam Cương Dược Sư Hội cung cấp giá ưu đãi, cáng khiêng bằng xương trùng nhẹ và bền, cùng hệ thống tín hiệu khói — mạng lưới báo động thô sơ nhưng hiệu quả trong bán kính ba mươi dặm.
+Khu vực xung quanh ẩn chứa nhiều bí mật chưa được khám phá — hang động chưa ai đến, mạch khoáng chưa ai biết, dấu tích cổ đại mà thời gian chưa kịp xóa nhòa.
 
 ## III. Văn Hóa & Tín Ngưỡng (文化与信仰)
 Triết lý sống của đội gói gọn trong câu: "Ở Nam Cương, không ai chết một mình nếu ta còn sống." Đây không chỉ là khẩu hiệu mà là cam kết bằng máu của mỗi đội viên khi gia nhập. Quy tắc bất di bất dịch là không thu phí cứu hộ, chỉ nhận quyên góp tự nguyện; không hỏi danh tính người được cứu; và không tham gia tranh chấp giữa các thế lực. Đội viên đeo dải băng trắng trên tay trái khi làm nhiệm vụ — ký hiệu này được mọi thế lực Nam Cương ngầm tôn trọng, kể cả sơn tặc. Tấn công người đeo băng trắng được coi là hành vi đáng khinh bỉ nhất vùng biên cương, và kẻ vi phạm sẽ bị cả chính đạo lẫn tà đạo truy sát.
+Mỗi thế hệ mới được truyền dạy không chỉ kỹ năng sinh tồn mà cả câu chuyện về nguồn cội, để ngọn lửa ký ức không bao giờ tắt dù hoàn cảnh khắc nghiệt đến đâu.
 
 ## IV. Cơ Cấu Tổ Chức (组织结构)
 Đứng đầu là Đội Trưởng Bạch Cứu Mệnh, cựu quân y cảnh giới Trúc Cơ Viên Mãn. Gã ở lại Nam Cương sau khi đoàn viễn chinh bị xóa sổ, cảm thấy nơi đây cần mình hơn bất kỳ đâu. Dưới gã là bốn Y Sư cảnh giới Trúc Cơ Sơ đến Trung Kỳ, có kiến thức y học và khả năng sử dụng linh lực chữa trị. Lực lượng chính gồm mười sáu Cứu Hộ Viên cảnh giới Luyện Khí, được tuyển chọn vì thể lực tốt, giỏi leo trèo và chạy nhanh trong địa hình hiểm trở. Ngoài ra có từ mười đến hai mươi Tình Nguyện Viên phàm nhân, phụ trách hậu cần, nấu ăn, giặt giũ, và chăm sóc bệnh nhân nhẹ. Tổng cộng khoảng bốn mươi người, quy mô nhỏ nhưng hoạt động hiệu quả nhờ tinh thần đoàn kết cao.
@@ -102,22 +104,28 @@ Triết lý sống của đội gói gọn trong câu: "Ở Nam Cương, không 
 - **Dải Băng Trắng Cứu Hộ:** Biểu tượng được toàn Nam Cương tôn trọng, đeo trên tay trái khi làm nhiệm vụ, có tác dụng bảo vệ tốt hơn bất kỳ pháp khí nào nhờ vào uy tín của đội.
 - **Thuốc Giải Độc Cấp Cứu:** Hỗn hợp dược liệu do Bạch Cứu Mệnh tự phát triển, có thể giải tạm thời hơn hai mươi loại độc phổ biến ở Nam Cương, đủ để ổn định nạn nhân trước khi đưa về trạm.
 - **Cáng Xương Trùng:** Cáng khiêng làm từ xương trùng, nhẹ hơn tre nhưng bền hơn thép thường, thiết kế đặc biệt để vận chuyển thương binh qua địa hình rừng rậm hiểm trở.
+Ngoài ra, Hoàng Tuyền Cứu Hộ Đội còn sở hữu vật phẩm có giá trị văn hóa hơn vật chất — thứ mà thương nhân bỏ qua nhưng nhà sử học trả bất cứ giá nào.
 
 ## VII. Cơ Sở Hạ Tầng (基础设施)
 - **Trạm Cứu Hộ Cổng Bắc:** Nhà gỗ hai tầng gần cổng bắc Trạm Biên, tầng dưới phòng cấp cứu và kho dược liệu, tầng trên nơi nghỉ của đội viên. Luôn có ít nhất hai người trực ca suốt ngày đêm.
 - **Hệ Thống Tín Hiệu Khói:** Mạng lưới điểm phát tín hiệu rải rác trong bán kính ba mươi dặm quanh Trạm Biên, sử dụng khói màu đặc biệt để báo động vị trí nạn nhân cần cứu hộ.
 - **Sân Tập Cứu Hộ:** Khu vực phía sau trụ sở dùng để huấn luyện cứu hộ viên mới, mô phỏng các tình huống cứu hộ trong rừng rậm, đầm lầy, và vách núi.
+Toàn bộ hạ tầng mang dấu ấn đặc trưng cộng đồng — không phải xa hoa mà là thực dụng đúc kết qua nhiều thế hệ thử nghiệm.
 
 ## VIII. Kinh Tế (经济)
 Đội hoạt động phi lợi nhuận, không thu phí cứu hộ mà dựa vào quyên góp tự nguyện từ người được cứu và gia đình họ. Một số tu sĩ được cứu sống khi trở nên giàu có đã gửi tặng linh thạch và vật tư y tế, tạo thành nguồn tài trợ không ổn định nhưng đủ duy trì hoạt động cơ bản. Nam Cương Dược Sư Hội cung cấp dược liệu giá ưu đãi, và Dược Thảo Tinh Linh Viện cũng bán linh dược với giá gần như giá gốc. Ngoài ra, đội bán dược liệu dư thừa và cáng xương trùng cũ để bổ sung ngân quỹ. Tài chính luôn eo hẹp nhưng chưa bao giờ thiếu đến mức phải ngừng hoạt động.
+Tiềm năng kinh tế vượt xa những gì đang được khai thác — sự thiếu hụt nhân lực, kiến thức thương mại, và bảo hộ chính trị khiến phần lớn giá trị vẫn nằm yên.
 
 ## IX. Lịch Sử Tóm Tắt (简史)
 Mười tám năm trước, Bạch Cứu Mệnh là quân y duy nhất sống sót sau khi đoàn viễn chinh bị xóa sổ trong Rừng Huyết Độc. Thay vì rời đi, gã ở lại Trạm Biên Nam Cương, bắt đầu từ việc một mình chạy ra rừng kéo xác tu sĩ bị thương về cấp cứu. Dần dần, những người có thiện tâm bị cảm động trước hành động của gã đã gia nhập, từ tu sĩ lang thang đến phàm nhân bản địa. Đội lớn dần và trở thành tổ chức duy nhất ở Nam Cương được cả chính đạo lẫn tà đạo tôn trọng. Sự kiện then chốt là khi đội cứu sống một đệ tử Vạn Độc Môn bị thương nặng — hành động này khiến ngay cả tà đạo cũng không dám gây khó dễ cho đội, vì tấn công đội cứu hộ đồng nghĩa với việc đối đầu dư luận toàn Nam Cương.
+Mỗi thế hệ kế tiếp gánh di sản và gánh nặng thế hệ trước — nhưng cũng mang khả năng mới mà cha ông chưa từng tưởng tượng.
 
 ## X. Giai Thoại & Bí Mật (轶事与秘密)
 Bạch Cứu Mệnh thực ra là đệ tử ruột của một cường giả Nguyên Anh đã thất tung nhiều năm trước. Chiếc nhẫn trữ vật trên tay gã chứa vài pháp khí cấp cao mà gã không bao giờ sử dụng, coi đó như di vật cuối cùng của sư phụ. Nếu gã buộc phải dùng đến, sức mạnh vượt xa cảnh giới Trúc Cơ Viên Mãn hiện tại sẽ khiến toàn Nam Cương chấn động. Một bí mật khác liên quan đến một "người" từ Mạch Ngầm mà đội từng cứu sống — kẻ đó hồi phục rồi biến mất không để lại dấu vết, chỉ để lại một viên đan dược phẩm chất kỳ lạ mà không ai trong Trạm Biên nhận ra. Bạch Cứu Mệnh cất giữ viên đan nhưng không dám sử dụng, vì gã cảm nhận được dược lực bên trong vượt xa bất cứ thứ gì gã từng thấy.
+Những bí mật này, nếu được tiết lộ, có thể khiến nhiều thế lực phải nhìn lại đánh giá của mình về cộng đồng nhỏ bé này — vừa là cơ hội vừa là mối nguy.
 
 ## XI. Quan Hệ Thế Lực (势力关系)
 - **Nam Cương Dược Sư Hội:** Đối tác cung cấp dược liệu chính, quan hệ hợp tác lâu dài dựa trên thiện chí và lý tưởng chung về việc cứu người.
 - **Dược Thảo Tinh Linh Viện:** Nguồn cung cấp linh dược chất lượng cao với giá ưu đãi, Thảo Tâm Linh coi đội cứu hộ là đối tác lý tưởng cùng chí hướng.
 - **Vạn Độc Môn:** Quan hệ trung lập đặc biệt — đội từng cứu đệ tử của môn, nhờ đó Vạn Độc Môn không chủ động gây khó dễ, tạo nên một thỏa thuận bất thành văn giữa thiện và ác.
+Nhìn tổng thể, mạng lưới quan hệ tuy mỏng manh nhưng đủ duy trì sự tồn tại — trong thế giới tu chân tàn khốc, tồn tại đã là chiến thắng.

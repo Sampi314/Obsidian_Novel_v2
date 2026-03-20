@@ -221,6 +221,58 @@
             border-bottom: 1px solid var(--card-border);
         }
 
+        /* Force sliders */
+        .force-slider-row {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            margin-bottom: 6px;
+        }
+        .force-slider-label {
+            font-family: 'Source Serif 4', serif;
+            font-size: 0.72rem;
+            color: var(--muted);
+            min-width: 68px;
+            flex-shrink: 0;
+        }
+        .force-slider {
+            -webkit-appearance: none;
+            appearance: none;
+            flex: 1;
+            height: 3px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 2px;
+            outline: none;
+            cursor: pointer;
+        }
+        .force-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: var(--accent-dim);
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .force-slider::-webkit-slider-thumb:hover {
+            background: var(--accent);
+        }
+        .force-slider::-moz-range-thumb {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: var(--accent-dim);
+            border: none;
+            cursor: pointer;
+        }
+        .force-slider-val {
+            font-family: 'Source Serif 4', serif;
+            font-size: 0.68rem;
+            color: var(--accent-dim);
+            min-width: 32px;
+            text-align: right;
+        }
+
         .sidebar-label {
             font-family: 'Cormorant Garamond', serif;
             font-size: 0.7rem;
@@ -774,6 +826,29 @@
         <div class="sidebar-label">Khu Vực</div>
         <div class="region-filters" id="region-filters"></div>
     </div>
+    <div class="sidebar-section" id="force-controls">
+        <div class="sidebar-label">Lực Mô Phỏng</div>
+        <div class="force-slider-row">
+            <span class="force-slider-label">Tâm Lực</span>
+            <input type="range" class="force-slider" id="slider-center" min="1" max="100" value="30">
+            <span class="force-slider-val" id="val-center">30</span>
+        </div>
+        <div class="force-slider-row">
+            <span class="force-slider-label">Đẩy Lực</span>
+            <input type="range" class="force-slider" id="slider-repel" min="100" max="5000" value="800">
+            <span class="force-slider-val" id="val-repel">800</span>
+        </div>
+        <div class="force-slider-row">
+            <span class="force-slider-label">Kéo Lực</span>
+            <input type="range" class="force-slider" id="slider-link" min="1" max="100" value="15">
+            <span class="force-slider-val" id="val-link">15</span>
+        </div>
+        <div class="force-slider-row">
+            <span class="force-slider-label">Khoảng Cách</span>
+            <input type="range" class="force-slider" id="slider-dist" min="20" max="400" value="80">
+            <span class="force-slider-val" id="val-dist">80</span>
+        </div>
+    </div>
     <div class="sidebar-section" style="flex:1;overflow-y:auto;">
         <div class="sidebar-label">Chú Giải</div>
         <div class="legend-list" id="legend-list"></div>
@@ -1222,6 +1297,53 @@
     var simIterations = 0;
     var maxIterations = 600;
 
+    // Tunable force parameters (bound to sliders)
+    var forceCenter = 0.0003;
+    var forceRepel = 800;
+    var forceLinkStrength = 0.015;
+    var forceLinkDist = 80;
+
+    // Faction mode equivalents (derived from character values)
+    function fCenterForce() { return forceCenter * 1.67; }
+    function fRepelForce() { return forceRepel * 3.75; }
+    function fLinkStrength() { return forceLinkStrength * 0.67; }
+    function fLinkDist() { return forceLinkDist * 1.875; }
+
+    // Bind sliders
+    (function initForceSliders() {
+        var sCenter = document.getElementById('slider-center');
+        var sRepel  = document.getElementById('slider-repel');
+        var sLink   = document.getElementById('slider-link');
+        var sDist   = document.getElementById('slider-dist');
+        var vCenter = document.getElementById('val-center');
+        var vRepel  = document.getElementById('val-repel');
+        var vLink   = document.getElementById('val-link');
+        var vDist   = document.getElementById('val-dist');
+
+        function resetSim() { simCooling = 1.0; simIterations = 0; }
+
+        sCenter.addEventListener('input', function() {
+            forceCenter = this.value / 100000;
+            vCenter.textContent = this.value;
+            resetSim();
+        });
+        sRepel.addEventListener('input', function() {
+            forceRepel = +this.value;
+            vRepel.textContent = this.value;
+            resetSim();
+        });
+        sLink.addEventListener('input', function() {
+            forceLinkStrength = this.value / 1000;
+            vLink.textContent = this.value;
+            resetSim();
+        });
+        sDist.addEventListener('input', function() {
+            forceLinkDist = +this.value;
+            vDist.textContent = this.value;
+            resetSim();
+        });
+    })();
+
     function simulate() {
         if (!simRunning) return;
         if (simIterations > maxIterations) { simCooling *= 0.998; }
@@ -1244,7 +1366,7 @@
                     dist = Math.sqrt(dx * dx + dy * dy);
                     if (dist < 1) { dist = 1; dx = Math.random() - 0.5; dy = Math.random() - 0.5; }
                     var fMinDist = (ni.radius + nj.radius) * 2.5;
-                    force = 3000 / (dist * dist);
+                    force = fRepelForce() / (dist * dist);
                     if (dist < fMinDist) force += (fMinDist - dist) * 0.8;
                     fx = (dx / dist) * force * alpha;
                     fy = (dy / dist) * force * alpha;
@@ -1263,8 +1385,8 @@
                 dy = fe.target.y - fe.source.y;
                 dist = Math.sqrt(dx * dx + dy * dy);
                 if (dist < 1) dist = 1;
-                var fIdealLen = 150 + (fe.source.radius + fe.target.radius);
-                force = (dist - fIdealLen) * 0.01 * alpha;
+                var fIdealLen = fLinkDist() + (fe.source.radius + fe.target.radius);
+                force = (dist - fIdealLen) * fLinkStrength() * alpha;
                 fx = (dx / dist) * force;
                 fy = (dy / dist) * force;
                 fe.source.vx += fx;
@@ -1277,8 +1399,8 @@
             for (i = 0; i < factionNodes.length; i++) {
                 ni = factionNodes[i];
                 if (!ni.visible) continue;
-                ni.vx -= ni.x * 0.0005 * alpha;
-                ni.vy -= ni.y * 0.0005 * alpha;
+                ni.vx -= ni.x * fCenterForce() * alpha;
+                ni.vy -= ni.y * fCenterForce() * alpha;
             }
 
             // Apply velocity with damping for faction nodes
@@ -1311,7 +1433,7 @@
                     dist = Math.sqrt(dx * dx + dy * dy);
                     if (dist < 1) { dist = 1; dx = Math.random() - 0.5; dy = Math.random() - 0.5; }
                     var minDist = (ni.radius + nj.radius) * 3;
-                    force = 800 / (dist * dist);
+                    force = forceRepel / (dist * dist);
                     if (dist < minDist) force += (minDist - dist) * 0.5;
                     fx = (dx / dist) * force * alpha;
                     fy = (dy / dist) * force * alpha;
@@ -1330,8 +1452,8 @@
                 dy = e.target.y - e.source.y;
                 dist = Math.sqrt(dx * dx + dy * dy);
                 if (dist < 1) dist = 1;
-                var idealLen = 80 + (e.source.radius + e.target.radius);
-                force = (dist - idealLen) * 0.015 * alpha;
+                var idealLen = forceLinkDist + (e.source.radius + e.target.radius);
+                force = (dist - idealLen) * forceLinkStrength * alpha;
                 fx = (dx / dist) * force;
                 fy = (dy / dist) * force;
                 e.source.vx += fx;
@@ -1357,8 +1479,8 @@
             for (i = 0; i < nodes.length; i++) {
                 ni = nodes[i];
                 if (!ni.visible) continue;
-                ni.vx -= ni.x * 0.0003 * alpha;
-                ni.vy -= ni.y * 0.0003 * alpha;
+                ni.vx -= ni.x * forceCenter * alpha;
+                ni.vy -= ni.y * forceCenter * alpha;
             }
 
             // Apply velocity with damping
@@ -2369,10 +2491,29 @@
         }
     });
 
+    function syncSlidersToMode(mode) {
+        var sCenter = document.getElementById('slider-center');
+        var sRepel  = document.getElementById('slider-repel');
+        var sLink   = document.getElementById('slider-link');
+        var sDist   = document.getElementById('slider-dist');
+        if (mode === 'faction') {
+            sCenter.value = 50; sRepel.value = 3000; sLink.value = 10; sDist.value = 150;
+            forceCenter = 0.0005; forceRepel = 3000; forceLinkStrength = 0.01; forceLinkDist = 150;
+        } else {
+            sCenter.value = 30; sRepel.value = 800; sLink.value = 15; sDist.value = 80;
+            forceCenter = 0.0003; forceRepel = 800; forceLinkStrength = 0.015; forceLinkDist = 80;
+        }
+        document.getElementById('val-center').textContent = sCenter.value;
+        document.getElementById('val-repel').textContent = sRepel.value;
+        document.getElementById('val-link').textContent = sLink.value;
+        document.getElementById('val-dist').textContent = sDist.value;
+    }
+
     function switchToFactionView() {
         if (viewMode === 'faction') return;
         viewMode = 'faction';
         deselectNode();
+        syncSlidersToMode('faction');
 
         // Build/rebuild faction graph
         buildFactionGraph();
@@ -2415,6 +2556,7 @@
         if (viewMode === 'character') return;
         viewMode = 'character';
         deselectNode();
+        syncSlidersToMode('character');
 
         // Update search placeholder
         searchBox.placeholder = 'T\u00ean nh\u00E2n v\u1EADt...';

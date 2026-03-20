@@ -118,6 +118,8 @@ Thiết Giáp Yêu Thú ban đầu là đàn bọ hoang dã sống rải rác tr
 ## X. Giai Thoại & Bí Mật (轶事与秘密)
 Thiết Giáp Vương từng một mình đứng chắn trước cả đàn Sa Mãng tấn công thương đoàn trong một trận chiến khốc liệt. Giáp xác bị nứt ba chỗ, một chân bị gãy, nhưng nó không lùi một bước cho đến khi đàn Sa Mãng rút lui. Vết nứt đó đến nay vẫn còn, trở thành "huân chương" mà thương nhân kể lại với giọng đầy kính nể. Một số thương nhân phát hiện rằng giáp xác rụng của bọ giáp chứa thiết khoáng quý hiếm, bắt đầu lén thu gom và bán kiếm lời. Hành vi này đang khiến đàn bọ dần mất lòng tin với con người, và nếu không được ngăn chặn, mối quan hệ cộng sinh kéo dài hàng trăm năm có thể tan vỡ.
 
+Gần đây, một số thương nhân bắt đầu nhận ra rằng Thiết Giáp Vương đang trở nên thông minh hơn rõ rệt — nó bắt đầu hiểu khái niệm "số lượng" (từ chối hộ tống khi khoáng linh ít hơn thường lệ), phân biệt được "thương nhân quen" và "thương nhân lạ" (đòi giá cao hơn cho người mới), và thậm chí thể hiện sự giận dữ có chủ đích khi phát hiện thương nhân lén thu gom giáp xác rụng. Nếu trí tuệ của Thiết Giáp Vương tiếp tục phát triển, một ngày nào đó nó có thể đủ thông minh để nhận ra rằng mình đang bị lợi dụng — và khi đó, mối quan hệ cộng sinh kéo dài hàng trăm năm sẽ bước vào giai đoạn hoàn toàn mới.
+
 ## XI. Quan Hệ Thế Lực (势力关系)
 - **Thiên Sa Thương Hội:** Quan hệ cộng sinh lâu đời, thương hội là nguồn cung cấp khoáng linh và thức ăn chính cho đàn, đổi lại được hộ tống trung thành.
 - **Cự Tộc Phu Khuân Vác:** Bằng hữu tự nhiên, Cự Nhân và bọ giáp cùng dừng chân tại các trạm dừng, chia sẻ thức ăn và không gian nghỉ ngơi.

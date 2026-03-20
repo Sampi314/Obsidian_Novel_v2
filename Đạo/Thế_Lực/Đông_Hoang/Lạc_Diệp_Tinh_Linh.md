@@ -115,6 +115,8 @@ Diệp Thu Thanh mang theo một hạt giống từ Cây Thế Giới khi rời 
 
 Khu Rừng Lá Vàng thực ra không tự nhiên hình thành — dưới lòng đất có một trận pháp cổ đại đang chậm rãi biến đổi linh khí, khiến cây luôn ở trạng thái mùa thu. Ai tạo ra trận pháp này, vì mục đích gì, và liệu nó có liên quan đến một nền văn minh cổ đại đã biến mất hay không — tất cả vẫn là bí ẩn mà ngay cả Diệp Thu Thanh cũng chưa giải đáp được.
 
+Một hiện tượng kỳ lạ mới xuất hiện: gần đây, lá vàng rụng trong Rừng Lá Vàng bắt đầu có vệt đỏ — không phải do bệnh mà như thể rừng đang chuyển từ "mùa thu vĩnh cửu" sang một trạng thái mới. Diệp Thu Thanh lo lắng rằng trận pháp cổ đại dưới đất đang thay đổi, và sự thay đổi này có thể liên quan đến hoạt động gia tăng của Hỏa Vân Sơn gần đó. Bà đã gửi mẫu lá đỏ cho Dược Thảo Tinh Linh Viện phân tích, nhưng kết quả chưa có. Nếu rừng biến đổi hoàn toàn, nơi trú ẩn duy nhất của cộng đồng sẽ không còn an toàn.
+
 ## XI. Quan Hệ Thế Lực (势力关系)
 ```mermaid
 graph LR

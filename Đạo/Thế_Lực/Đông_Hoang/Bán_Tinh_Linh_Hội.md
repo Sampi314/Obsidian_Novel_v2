@@ -67,6 +67,9 @@ arcs:
 
 # BÁN TINH LINH HỘI (半精灵会)
 
+> *"Giọt mực bẩn, họ gọi ta thế. Nhưng giọt mực ấy viết nên câu chuyện mà không suối trong nào kể nổi."*
+> — Khuyết danh, câu nói lưu truyền giữa các bán tinh linh
+
 ## I. Tổng Quan (总览)
 Bán Tinh Linh Hội là một tổ chức tương trợ dành cho những cá thể mang hai dòng máu Tinh Linh và Nhân Tộc. Sống trong một thế giới nơi sự thuần huyết được coi trọng, các bán tinh linh thường phải đối mặt với sự ghẻ lạnh và xua đuổi từ cả hai phía — Tinh Linh Vương Đình coi họ là "giọt mực bẩn trong dòng suối trong", còn nhân tộc lại nghi kỵ đôi tai nhọn và tuổi thọ dài bất thường của họ. Hội ra đời như một mái nhà chung, nơi họ có thể khẳng định bản sắc riêng và bảo vệ quyền lợi của những kẻ *"đứng giữa hai thế giới, không thuộc về nơi nào"*. Bán Lâm thường nói với các thành viên: *"Nửa này nửa kia, nhưng cả hai đều là ta — ai bảo ta không trọn vẹn?"* Bốn mươi hai thành viên rải rác khắp lục địa, nhưng trái tim họ luôn hướng về căn nhà gỗ nhỏ bên bìa rừng Vĩnh Hằng.
 
@@ -118,3 +121,5 @@ graph LR
     BTLH -- Dịch vụ -- TMT[Thiên Mộc Thành]
     BTLH -- Cảnh giác -- ALL[Mọi Thế Lực Lớn]
 ```
+
+Tinh Linh Vương Đình là mối đe dọa lớn nhất và cũng là nỗi đau lớn nhất — nơi mà nhiều thành viên hội mang một nửa dòng máu nhưng bị coi là "tạp chủng" đáng khinh bỉ. Hắc Tinh Linh Lưu Đày chia sẻ cảnh ngộ tương tự và có liên kết ngầm, đôi bên trao đổi thông tin khi gặp khó khăn. Thiên Mộc Thành là khách hàng chính cho dịch vụ dẫn đường và trang sức, mối quan hệ thuần thương mại nhưng ổn định. Bán Lâm luôn nhắc nhở: tất cả thế lực lớn đều có thể trở thành kẻ thù nếu phát hiện mạng lưới tình báo bìa rừng — sự cảnh giác là giá phải trả cho tự do.

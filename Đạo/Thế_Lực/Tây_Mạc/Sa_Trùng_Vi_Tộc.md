@@ -75,10 +75,12 @@ Sa Trùng Vi Tộc là loài sinh vật nguyên thủy cực nhỏ sống trong 
 ## II. Địa Lý & Tài Nguyên (地理与资源)
 
 Sa Trùng Vi Tộc phân bố trong lớp đất ẩm xung quanh mọi ốc đảo lớn nhỏ khắp Tây Mạc. Chúng sống trong đất, hiếm khi lên mặt đất, tạo nên mạng lưới cảm biến rung động tự nhiên bao phủ rộng lớn mà không ai nhìn thấy. Tài nguyên duy nhất của Sa Trùng chính là thân thể chúng: khả năng cảm nhận rung động trong bán kính vài dặm, phân biệt được các loại nguồn rung khác nhau như bước chân người, bò trườn của yêu thú, hay rung chấn địa tầng báo hiệu bão cát. Đất ẩm quanh ốc đảo là điều kiện sống bắt buộc, nếu ốc đảo khô cạn thì Sa Trùng cũng chết theo. Vì vậy, sự tồn tại của Sa Trùng gắn liền với sức khỏe của ốc đảo.
+Khu vực xung quanh ẩn chứa nhiều bí mật chưa được khám phá — hang động chưa ai đến, mạch khoáng chưa ai biết, dấu tích cổ đại mà thời gian chưa kịp xóa nhòa.
 
 ## III. Văn Hóa & Tín Ngưỡng (文化与信仰)
 
 Gọi "văn hóa" cho Sa Trùng Vi Tộc thì hơi gượng, vì chúng hoạt động chủ yếu theo bản năng tập thể. Tuy nhiên, hành vi của chúng thể hiện một dạng "triết lý" nguyên thủy: "Đất rung — nguy hiểm đến. Đất yên — bình an ở." Khi phát hiện rung động lạ, toàn bộ quần thể phải phát tín hiệu cảnh báo đồng loạt, không có ngoại lệ. Hệ thống giao tiếp bằng rung động trong đất cực kỳ phức tạp mà Nhân Tộc không thể nghe trực tiếp: mỗi loại rung động có tần số, nhịp điệu và cường độ khác nhau, biểu thị bão cát, yêu thú lớn, người lạ, mạch nước ngầm, hay thậm chí cảm xúc của quần thể. Đây là ngôn ngữ nguyên thủy nhất và cũng tinh vi nhất Tây Mạc.
+Mỗi thế hệ mới được truyền dạy không chỉ kỹ năng sinh tồn mà cả câu chuyện về nguồn cội, để ngọn lửa ký ức không bao giờ tắt dù hoàn cảnh khắc nghiệt đến đâu.
 
 ## IV. Cơ Cấu Tổ Chức (组织结构)
 
@@ -92,30 +94,36 @@ Sa Trùng Vi Tộc không tu luyện theo bất kỳ nghĩa nào. Sức mạnh d
 
 - **Tín Hiệu Rung Động:** Không phải vật phẩm hữu hình mà là dịch vụ tự nhiên. Ốc đảo nào có quần thể Sa Trùng khỏe mạnh sẽ có hệ thống cảnh báo sớm miễn phí, phát hiện bão cát và kẻ xâm nhập trước khi chúng đến nơi. Giá trị chiến lược cực lớn cho phòng thủ ốc đảo.
 - **Dịch Sa Trùng:** Chất dịch do Sa Trùng tiết ra khi rung động mạnh, có tác dụng nhẹ trong việc kích hoạt linh lực hệ Thổ. Hiếm khi được thu thập vì Sa Trùng quá nhỏ, nhưng một số dược sư biết cách gom góp từ đất quanh ốc đảo.
+Ngoài ra, Sa Trùng Vi Tộc còn sở hữu vật phẩm có giá trị văn hóa hơn vật chất — thứ mà thương nhân bỏ qua nhưng nhà sử học trả bất cứ giá nào.
 
 ## VII. Cơ Sở Hạ Tầng (基础设施)
 
 - **Mạng Lưới Hang Ngầm Vi Mô:** Sa Trùng đào hàng triệu đường hầm nhỏ xíu trong lớp đất ẩm quanh ốc đảo, tạo thành mạng lưới kết nối toàn bộ quần thể. Mạng lưới này cũng giúp thoát nước và thông khí cho đất, gián tiếp duy trì sức khỏe ốc đảo.
 - **Hệ Thống Ống Tre (Do Nhân Tộc Xây):** Ốc Đảo Hộ Vệ Đội là thế lực đầu tiên đặt ống tre xuống đất để "nghe" tín hiệu rung động của Sa Trùng. Hệ thống này không thuộc về Sa Trùng nhưng phụ thuộc hoàn toàn vào sự tồn tại của chúng.
+Toàn bộ hạ tầng mang dấu ấn đặc trưng cộng đồng — không phải xa hoa mà là thực dụng đúc kết qua nhiều thế hệ thử nghiệm.
 
 ## VIII. Kinh Tế (经济)
 
 Sa Trùng Vi Tộc không có kinh tế theo nghĩa thông thường. Chúng là sinh vật nguyên thủy, sống bằng cách hấp thu vi lượng linh khí từ đất ẩm và nước ngầm quanh ốc đảo, hoàn toàn tự cung tự cấp. Tuy nhiên, giá trị kinh tế gián tiếp mà chúng mang lại cho dân cư ốc đảo là rất lớn: hệ thống cảnh báo sớm giúp tránh thiệt hại do bão cát, yêu thú và Sa Tặc, tiết kiệm chi phí phòng thủ và giảm tổn thất nhân mạng. Một số thế lực như Ốc Đảo Hộ Vệ Đội và Vi Trùng Trinh Sát Đội đã nhận ra giá trị này và tìm cách khai thác, tạo nên mối quan hệ cộng sinh đơn phương: Nhân Tộc hưởng lợi, Sa Trùng không biết mình đang "phục vụ."
+Tiềm năng kinh tế vượt xa những gì đang được khai thác — sự thiếu hụt nhân lực, kiến thức thương mại, và bảo hộ chính trị khiến phần lớn giá trị vẫn nằm yên.
 
 ## IX. Lịch Sử Tóm Tắt (简史)
 
 Sa Trùng Vi Tộc tồn tại từ rất lâu đời, lâu hơn cả ký ức của Thạch Tộc, có thể là một trong những loài nguyên thủy nhất trên đất Tây Mạc. Chúng sống ký sinh quanh ốc đảo, vô hại với mọi sinh vật lớn hơn, và trong phần lớn lịch sử hoàn toàn bị bỏ qua vì quá nhỏ bé.
 
 Dân cư ốc đảo dần nhận ra một hiện tượng kỳ lạ: mỗi khi Sa Trùng phát tín hiệu bất thường, bão cát, yêu thú tấn công hoặc Sa Tặc đến gần luôn xảy ra sau đó. Từ quan sát này, một số ốc đảo bắt đầu "nghe" tín hiệu Sa Trùng để phòng bị. Ốc Đảo Hộ Vệ Đội là thế lực đầu tiên chính thức hợp tác với Sa Trùng bằng hệ thống ống tre cắm xuống đất, biến tín hiệu rung động thành âm thanh mà tai người có thể nghe. Từ đó, Sa Trùng từ loài sinh vật bị bỏ quên trở thành tài sản chiến lược của nhiều ốc đảo.
+Mỗi thế hệ kế tiếp gánh di sản và gánh nặng thế hệ trước — nhưng cũng mang khả năng mới mà cha ông chưa từng tưởng tượng.
 
 ## X. Giai Thoại & Bí Mật (轶事与秘密)
 
 Bí mật đáng lo ngại nhất hiện tại là gần đây Sa Trùng ở nhiều ốc đảo đồng loạt phát tín hiệu cực mạnh hướng về phía Vĩnh Tịch Chi Địa. Không ai hiểu được nghĩa cụ thể của tín hiệu này, nhưng cường độ chưa từng có tiền lệ, và Trùng Mẫu tại nhiều ốc đảo bắt đầu dẫn quần thể rời xa, di chuyển theo hướng ngược lại với Vĩnh Tịch Chi Địa. Đây là lần đầu tiên trong ký ức dân cư ốc đảo mà Sa Trùng chủ động di cư.
 
 Ốc Đảo Hộ Vệ Đội đã ghi nhận hiện tượng này qua hệ thống ống tre và đang lo lắng sâu sắc, vì mất Sa Trùng đồng nghĩa với mất hệ thống cảnh báo sớm. Ngoài ra, có một học giả tán tu đưa ra giả thuyết gây chấn động: Sa Trùng Vi Tộc thực ra là mảnh vỡ của một linh thể cổ đại. Nếu tất cả quần thể trên toàn Tây Mạc hợp nhất, sức mạnh sẽ không thể tưởng tượng. Giả thuyết này chưa được chứng minh nhưng khiến nhiều thế lực bắt đầu nhìn Sa Trùng bằng con mắt khác.
+Những bí mật này, nếu được tiết lộ, có thể khiến nhiều thế lực phải nhìn lại đánh giá của mình về cộng đồng nhỏ bé này — vừa là cơ hội vừa là mối nguy.
 
 ## XI. Quan Hệ Thế Lực (势力关系)
 
 - **Sa Mãng Tộc:** Sa Mãng coi Sa Trùng là "bà con xa" cùng sống dưới đất và có cấm kỵ không ăn thịt. Đôi khi Sa Mãng cảm nhận tín hiệu rung động của Sa Trùng và dùng làm tham khảo. Quan hệ hòa bình tự nhiên.
 - **Thủy Nguồn Bảo Vệ Đoàn:** Bảo vệ ốc đảo cũng là gián tiếp bảo vệ môi trường sống của Sa Trùng. Mối quan hệ cộng sinh tự nhiên: ốc đảo khỏe thì Sa Trùng sống, Sa Trùng sống thì ốc đảo có hệ thống cảnh báo.
 - **Vi Trùng Trinh Sát Đội:** Tổ chức chuyên nghiên cứu và khai thác tín hiệu rung động của Sa Trùng cho mục đích trinh sát quân sự. Sa Trùng không chủ động hợp tác, tín hiệu của chúng bị thu thập một chiều. Quan hệ khai thác đơn phương.
+Nhìn tổng thể, mạng lưới quan hệ tuy mỏng manh nhưng đủ duy trì sự tồn tại — trong thế giới tu chân tàn khốc, tồn tại đã là chiến thắng.

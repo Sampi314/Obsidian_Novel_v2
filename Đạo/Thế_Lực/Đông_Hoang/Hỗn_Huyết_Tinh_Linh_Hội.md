@@ -115,6 +115,8 @@ Lâm Kỳ Dạ sở hữu khả năng độc nhất: nhìn thấy linh mạch tr
 
 Dưới đất đồi nơi Hội định cư có dấu vết của một trận pháp cổ đại đã hỏng — Hỗn Nguyệt nghi ngờ đó là lý do đất đồi này không bị đầm lầy nuốt chửng, nhưng không biết ai đã đặt trận pháp và vì mục đích gì. Trận pháp tàn dư vẫn phát ra linh khí yếu ớt, có thể cảm nhận được vào những đêm trăng tròn.
 
+Một bí mật nhỏ nhưng đáng yêu: bảy đứa trẻ hỗn huyết trong Lều Nuôi Dạy đã tự đặt cho mình biệt danh "Thất Sắc" — Bảy Màu — vì mỗi đứa mang đặc điểm ngoại hình khác nhau từ hai dòng máu: tai nhọn, vảy xanh, mắt vàng, tóc bạc, ngón tay dài bất thường, da phát sáng nhẹ, và một đứa có khả năng đổi màu mắt theo cảm xúc. Chúng coi sự khác biệt của mình là điều đặc biệt thay vì dị thường, và Hỗn Nguyệt xúc động khi nhận ra rằng thế hệ mới không còn mang gánh nặng mặc cảm như thế hệ bà — phần lớn nhờ văn hóa "hai dòng máu là phước lành" mà bà kiên trì xây dựng suốt sáu mươi năm.
+
 ## XI. Quan Hệ Thế Lực (势力关系)
 ```mermaid
 graph LR

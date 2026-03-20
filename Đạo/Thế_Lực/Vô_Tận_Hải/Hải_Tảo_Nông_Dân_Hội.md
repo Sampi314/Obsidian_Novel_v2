@@ -81,6 +81,12 @@ arcs:
 
 # HẢI TẢO NÔNG DÂN HỘI (海藻农民会)
 
+> *"Tảo mọc lại, nỗi buồn cũng qua đi — nhưng thuế thì không bao giờ giảm."*
+> — Phì Ngư Ông, lời tự trào trong buổi họp nông dân
+
+> *"Ai coi thường hạt gạo, kẻ đó chưa bao giờ đói. Ai coi thường tảo linh, kẻ đó chưa bao giờ sống dưới đáy biển."*
+> — Khuyết danh, câu nói lưu truyền trong giới Hải Tộc cấp thấp
+
 ## I. Tổng Quan (总览)
 Hải Tảo Nông Dân Hội là tổ chức của những Hải Tộc cấp thấp chuyên canh tác tảo linh tại rìa lãnh thổ Hải Thần Cung, không xếp hạng trong bảng thế lực Vô Tận Hải. Với tám mươi hai thành viên gồm cá nhỏ, tôm, và các sinh vật biển giản đơn, hội là mắt xích thấp nhất trong chuỗi cung ứng lương thực dưới đáy biển — quan trọng nhưng bị coi thường. Đứng đầu là Hội Trưởng Phì Ngư Ông, một con cá linh béo tốt vui tính ở cảnh giới Trúc Cơ Sơ Kỳ, nổi tiếng với triết lý lạc quan bất chấp hoàn cảnh bị bóc lột. Tảo linh do hội trồng là lương thực chính của nhiều Hải Tộc, nhưng nông dân chỉ được giữ lại phần nhỏ thu hoạch sau khi nộp thuế cho Hải Thần Cung.
 
@@ -100,6 +106,7 @@ Hội không có bất kỳ công pháp chiến đấu nào, chỉ nắm giữ D
 - **Tảo Linh Cơ Bản:** Lương thực chính của Hải Tộc cấp thấp, chứa linh khí thủy hệ ở mức tối thiểu. Tuy không quý giá nhưng là nhu yếu phẩm thiết yếu, thiếu nó thì hàng nghìn Hải Tộc sẽ đói.
 - **Tảo Linh Phì Ông:** Loại tảo đặc biệt do Phì Ngư Ông dùng Phì Thổ Thuật trồng, kích thước lớn gấp đôi và hàm lượng dinh dưỡng cao hơn tảo thường. Được các Hải Tộc giàu có ưa chuộng làm thực phẩm cao cấp.
 - **Nước Dưỡng Tảo:** Dung dịch dinh dưỡng chiết xuất từ quá trình canh tác, có tác dụng nuôi dưỡng linh thực vật thủy sinh. Hải Thảo Dược Sư mua để bổ sung cho rừng tảo dược liệu.
+- **Canh Tảo Phì Ông:** Món canh nấu từ tảo linh tươi kết hợp rong biển và muối linh, Phì Ngư Ông tự tay nấu mỗi chiều cho cả hội. Không có giá trị thương mại nhưng là biểu tượng tình đoàn kết — nông dân nói rằng "chưa uống canh Phì Ông thì chưa phải người trong hội."
 
 ## VII. Cơ Sở Hạ Tầng (基础设施)
 - **Cánh Đồng Tảo Linh:** Khu vực canh tác chính trải dài trên đáy biển phì nhiêu, chia thành mười hai lô theo hải lưu và chất đất. Mỗi lô do một nhóm nông dân phụ trách, luân canh theo mùa.
@@ -116,4 +123,4 @@ Cánh Đồng Tảo tồn tại từ rất lâu trước khi hội được thà
 Phì Ngư Ông vô tình phát hiện một loại tảo đột biến mọc nhanh gấp mười lần bình thường tại một góc khuất của cánh đồng. Ông giấu kín phát hiện này, chỉ bí mật trồng một mảnh nhỏ và chia cho những gia đình khó khăn nhất — nếu Hải Thần Cung biết, chắc chắn thuế sẽ tăng hoặc tảo đột biến sẽ bị tịch thu. Dưới cánh đồng tảo có tầng đất cổ đại chứa hóa thạch linh — các trưởng lão Hải Quy xác nhận đó là di tích từ kỷ nguyên trước, nếu khai quật có thể tìm được bảo vật nhưng đồng thời phá hủy hoàn toàn cánh đồng. Hai giám sát viên từ Hải Thần Cung đang bí mật ăn chặn thuế, báo cáo sản lượng thấp hơn thực tế và bỏ túi phần chênh lệch — nếu bị phát hiện, cả hai sẽ bị xử tử, nhưng nông dân không dám tố cáo vì sợ mất đi sự bảo hộ.
 
 ## XI. Quan Hệ Thế Lực (势力关系)
-Hải Tảo Nông Dân Hội ở vị trí thấp nhất trong hệ thống quyền lực Vô Tận Hải, phụ thuộc hoàn toàn vào Hải Thần Cung về đất canh tác và sự bảo hộ. Mối quan hệ với Hải Thần Cung mang tính chủ - tá điền, bất bình đẳng sâu sắc nhưng nông dân không có lựa chọn nào khác. Hải Thảo Dược Sư là đối tác thương mại thân thiện nhất, thường xuyên mua tảo linh nguyên liệu và đổi lại cung cấp thuốc chữa bệnh. Hải Quy Trưởng Lão Hội là láng giềng đáng tin cậy, sẵn sàng cho lời khuyên và dự báo thời tiết biển giúp nông dân chuẩn bị cho mùa vụ.
+Hải Tảo Nông Dân Hội ở vị trí thấp nhất trong hệ thống quyền lực Vô Tận Hải, phụ thuộc hoàn toàn vào Hải Thần Cung về đất canh tác và sự bảo hộ. Mối quan hệ với Hải Thần Cung mang tính chủ - tá điền, bất bình đẳng sâu sắc nhưng nông dân không có lựa chọn nào khác. Hải Thảo Dược Sư là đối tác thương mại thân thiện nhất, thường xuyên mua tảo linh nguyên liệu và đổi lại cung cấp thuốc chữa bệnh. Hải Quy Trưởng Lão Hội là láng giềng đáng tin cậy, sẵn sàng cho lời khuyên và dự báo thời tiết biển giúp nông dân chuẩn bị cho mùa vụ. Gần đây, tin đồn về Tảo Đột Biến bắt đầu lan rộng trong giới Hải Tộc cấp thấp — nếu Hải Thần Cung phát hiện, số phận của cả hội sẽ thay đổi theo hướng mà Phì Ngư Ông không dám tưởng tượng.

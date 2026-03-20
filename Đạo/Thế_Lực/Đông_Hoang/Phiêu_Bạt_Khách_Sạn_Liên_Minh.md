@@ -118,6 +118,8 @@ Bảy mươi năm trước, Phiêu Mẫu chỉ là một tán tu nữ Trúc Cơ 
 ## X. Giai Thoại & Bí Mật (轶事与秘密)
 Một trong bảy chi nhánh bí mật là điểm liên lạc của Ngoại Môn Đệ Tử Liên Minh, nhưng các Chưởng Quầy khác hoàn toàn không biết. Chưởng Quầy chi nhánh đó nhận thêm thu nhập từ việc cho thuê phòng kín mà không hỏi mục đích, coi đây chỉ là giao dịch bình thường. Ngoài ra, Liên Minh nắm giữ lượng lớn tin tức tích lũy suốt bảy mươi năm về hoạt động tán tu ở Đông Hoang — nếu bán toàn bộ cho một thế lực lớn, giá trị có thể ngang hàng với kho bảo vật của một tông phái Hạng Ba. Tuy nhiên, Phiêu Mẫu hiểu rằng làm vậy sẽ phá hủy uy tín bảo mật mà Liên Minh xây dựng suốt nhiều thập kỷ, và khi mất uy tín, Liên Minh sẽ chẳng còn gì.
 
+Mỗi chi nhánh đều có một "Phòng Kín" — phòng đặc biệt không ghi trong sổ sách, dành cho khách có nhu cầu bảo mật tuyệt đối. Giá thuê Phòng Kín gấp năm lần phòng thường, nhưng đảm bảo không ai biết khách đã ở đây — kể cả nhân viên chi nhánh. Chỉ Chưởng Quầy đích thân phục vụ khách Phòng Kín, và chìa khóa được hủy ngay sau khi khách rời đi. Đây là nguồn thu nhập bí mật nhưng béo bở của mỗi chi nhánh, và cũng là lý do nhiều tu sĩ coi Phiêu Bạt là nơi đáng tin cậy nhất khi cần biến mất.
+
 ## XI. Quan Hệ Thế Lực (势力关系)
 - **Ngoại Môn Đệ Tử Liên Minh:** Một chi nhánh vô tình cung cấp điểm hẹn cho tổ chức bí mật này. Quan hệ đơn phương — Ngoại Môn Đệ Tử Liên Minh lợi dụng tính bảo mật của khách sạn, còn Phiêu Bạt chỉ biết đó là khách thuê phòng bình thường.
 - **Hoang Dã Thợ Săn Bang:** Thợ săn bang là nhóm khách hàng trung thành nhất, thường xuyên thuê phòng và mua tin tức về linh thú dọc đường. Quan hệ thương mại ổn định, lâu dài, có lợi cho cả hai bên.

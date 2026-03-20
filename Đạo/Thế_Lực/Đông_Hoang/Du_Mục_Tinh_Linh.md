@@ -118,6 +118,8 @@ Phong Diệp bí mật vẽ bản đồ tất cả các khu rừng Đông Hoang 
 
 Gần đây, Phong Diệp phát hiện nhiều khu rừng phía nam đang chết dần — cây cối héo úa không rõ nguyên nhân, linh khí loãng dần. Nàng ghi chép hiện tượng này vào bản đồ nhưng chưa tìm ra giải thích, chỉ biết rằng phạm vi ảnh hưởng đang mở rộng mỗi năm.
 
+Đặc biệt, Đoàn từng phát hiện nhiều "Khu Rừng Chết" — nơi cây cối chết hàng loạt không rõ nguyên nhân — rải rác phía nam Đông Hoang. Phong Diệp đánh dấu vị trí các khu rừng này trên bản đồ bí mật và nhận ra rằng chúng xếp thành một đường cong lớn hướng về phía tây — như thể có thứ gì đó đang di chuyển dưới lòng đất, hút cạn linh khí trên đường đi. Nàng chưa báo cho ai vì không biết nên nói với thế lực nào mà không gây nguy hiểm cho Đoàn.
+
 ## XI. Quan Hệ Thế Lực (势力关系)
 - **Tinh Linh Vương Đình:** Quan hệ căng thẳng nhưng không thù địch. Vương Đình coi Đoàn là kẻ phản bội nhưng không đáng để truy đuổi. Phong Diệp thi thoảng nghe tin tức về Vương Đình qua các Tinh Linh khác và thầm lo lắng.
 - **Lạc Diệp Tinh Linh:** Đồng cảm sâu sắc, cũng là nhóm Tinh Linh rời bỏ Vương Đình. Hai bên thỉnh thoảng gặp nhau trong rừng, chia sẻ tin tức và dược thảo.

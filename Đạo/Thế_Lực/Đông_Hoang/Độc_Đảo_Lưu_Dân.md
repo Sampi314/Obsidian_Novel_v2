@@ -75,6 +75,12 @@ arcs:
 
 # ĐỘC ĐẢO LƯU DÂN (毒岛流民)
 
+> *"Thế gian ruồng bỏ ta, nhưng giếng nước này không. Ai đến đây đều bình đẳng — vì đều đã mất hết."*
+> — Khuyết danh, câu khắc trên thành giếng đá trung tâm đảo
+
+> *"Ta không phải anh hùng — ta chỉ là kẻ sống sót lâu nhất trên hòn đảo mà tử thần quên ghé thăm."*
+> — Mạc Lão Đầu, tự thuật với ánh mắt nhìn xa xăm về phía sương mù
+
 ## I. Tổng Quan (总览)
 Độc Đảo Lưu Dân là một cộng đồng cô lập gồm khoảng một trăm năm mươi người — phàm nhân, phế tu, tàn binh, tội phạm trốn chạy — sống trên một hòn đảo nhỏ giữa Đầm Lầy Tử Thần. Không có ai chọn đến đây vì muốn, mà vì không còn nơi nào khác chịu chấp nhận họ. Với triết lý "Ở đây không ai hỏi ngươi từ đâu đến, chỉ hỏi ngươi có chịu nổi mùi không", cộng đồng này là nơi trú ẩn cuối cùng cho những kẻ bị thế giới ruồng bỏ, được bảo vệ bởi chính khí độc chết người bao quanh — thứ mà phần lớn kẻ mạnh không thèm vượt qua.
 

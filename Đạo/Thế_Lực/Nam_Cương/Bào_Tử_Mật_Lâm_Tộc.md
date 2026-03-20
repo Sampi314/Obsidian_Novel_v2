@@ -74,9 +74,11 @@ Bào Tử Mật Lâm Tộc là một chủng tộc Vi Tộc độc đáo, đóng
 
 ## II. Địa Lý & Tài Nguyên (地理 với tài nguyên)
 Hoạt động tại tầng đất ẩm ướt và tối tăm nhất của Rừng Huyết Độc. Địa bàn là những thảm nấm dày đặc phủ kín mặt đất, nơi ánh sáng gần như không tồn tại. Tài nguyên chính là khả năng xử lý huyết độc và các loại nấm dược liệu hiếm thấy, có tác dụng thanh lọc linh lực bị ô nhiễm. Mạng sợi nấm ngầm của tộc kết nối trực tiếp với địa mạch, cho phép họ cảm nhận mọi rung động từ sâu dưới lòng đất.
+Khu vực xung quanh ẩn chứa nhiều bí mật chưa được khám phá — hang động chưa ai đến, mạch khoáng chưa ai biết, dấu tích cổ đại mà thời gian chưa kịp xóa nhòa.
 
 ## III. Văn Hóa & Tín Ngưỡng (文化 với信仰)
 Đề cao triết lý: "Rừng là cơ thể, ta là tế bào". Mỗi cá thể nấm coi mình là một phần không thể tách rời của hệ sinh thái đại ngàn. Họ không có tôn giáo cá nhân mà tôn thờ sự lan tỏa và cộng sinh. Văn hóa của tộc gắn liền với việc phát tán bào tử - mỗi đợt phát tán là một lần sẻ chia ký ức và tri thức cho toàn bộ quần thể.
+Mỗi thế hệ mới được truyền dạy không chỉ kỹ năng sinh tồn mà cả câu chuyện về nguồn cội, để ngọn lửa ký ức không bao giờ tắt dù hoàn cảnh khắc nghiệt đến đâu.
 
 ## IV. Cơ Cấu Tổ Chức (组织结构)
 ```mermaid
@@ -97,19 +99,24 @@ graph TD
 ## VI. Đặc Sản Môn Phái (门派特产)
 - **Huyết Độc Linh Nấm:** Loại nấm đã qua tịnh hóa, dùng làm thuốc giải cho các loại độc tố liên quan đến máu.
 - **Bào Tử Ánh Sáng:** Bào tử phát quang dùng để chiếu sáng trong môi trường tối tăm mà không cần lửa.
+Ngoài ra, Bào Tử Mật Lâm Tộc còn sở hữu vật phẩm có giá trị văn hóa hơn vật chất — thứ mà thương nhân bỏ qua nhưng nhà sử học trả bất cứ giá nào.
 
 ## VII. Cơ Sở Hạ Tầng (基础设施)
 - **Thảm Nấm Khổng Lồ:** Kiến trúc sinh học bề mặt đóng vai trò là nơi cư trú và trạm thu phát bào tử.
 - **Tổ Nấm Nguyên Thủy:** Trung tâm lưu trữ ký ức sinh học của toàn tộc, nằm tại điểm giao thoa địa mạch sâu nhất.
+Toàn bộ hạ tầng mang dấu ấn đặc trưng cộng đồng — không phải xa hoa mà là thực dụng đúc kết qua nhiều thế hệ thử nghiệm.
 
 ## VIII. Kinh Tế (経済)
 Kinh tế mang tính thụ động. Họ không trực tiếp tham gia giao thương nhưng thỉnh thoảng cung cấp nấm dược liệu cho các bộ lạc bán yêu để đổi lấy các loại linh dịch thúc đẩy sự phát triển của thảm nấm. Giá trị lớn nhất họ mang lại là việc thanh lọc đất đai rừng già một cách miễn phí.
+Tiềm năng kinh tế vượt xa những gì đang được khai thác — sự thiếu hụt nhân lực, kiến thức thương mại, và bảo hộ chính trị khiến phần lớn giá trị vẫn nằm yên.
 
 ## IX. Lịch Sử Tóm Tắt (简史)
 Tồn tại từ khi Rừng Huyết Độc mới hình thành, Bào Tử Mật Lâm Tộc đã chứng kiến sự biến đổi của Nam Cương qua hàng vạn năm. Họ từng là lực lượng chính ngăn chặn sự sụp đổ hoàn toàn của rừng già sau các cuộc chiến thượng cổ. Tuy nhiên, sự bành trướng gần đây của Vạn Độc Môn đang đe dọa nghiêm trọng đến sự tồn vong của mạng lưới nấm cổ xưa này.
+Mỗi thế hệ kế tiếp gánh di sản và gánh nặng thế hệ trước — nhưng cũng mang khả năng mới mà cha ông chưa từng tưởng tượng.
 
 ## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
 Tương truyền Tộc trưởng Hồng Tán có thể cảm nhận được ý chí của chính Rừng Huyết Độc và mỗi khi có một đại năng tu sĩ ngã xuống trong rừng, linh hồn của họ sẽ được mạng sợi nấm thu giữ và chuyển hóa thành kiến thức cho tộc.
+Những bí mật này, nếu được tiết lộ, có thể khiến nhiều thế lực phải nhìn lại đánh giá của mình về cộng đồng nhỏ bé này — vừa là cơ hội vừa là mối nguy.
 
 ## XI. Quan Hệ Thế Lực (势力关系)
 ```mermaid
@@ -118,4 +125,5 @@ graph LR
     BTMLT -- Bị bóc lột -- VDM[Vạn Độc Môn]
     BTMLT -- Thân thiện -- BYT[Bán Yêu Thôn]
     BTMLT -- Cảnh giác -- ĐMTHĐ[Địa Mạch Thám Hiểm Đội]
+Nhìn tổng thể, mạng lưới quan hệ tuy mỏng manh nhưng đủ duy trì sự tồn tại — trong thế giới tu chân tàn khốc, tồn tại đã là chiến thắng.
 ```

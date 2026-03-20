@@ -77,6 +77,12 @@ arcs:
 
 # Lông Vũ Phường (羽毛坊)
 
+> *"Lông rụng vẫn có giá — chỉ cần có người biết nhìn."*
+> — Vũ Mao Nhi, triết lý kinh doanh
+
+> *"Bà lão Vũ Tộc ấy biến rác thành vàng, biến sự khinh miệt thành kế sinh nhai — đó mới là bản lĩnh thực sự."*
+> — Một thương nhân Phá Băng Thương Đội, nhận xét về Vũ Mao Nhi
+
 ## I. Tổng Quan (总览)
 Lông Vũ Phường là một phường buôn nhỏ chuyên thu mua, phân loại và bán lông vũ linh của Vũ Tộc. Tọa lạc trên vách đá tundra gần Vũ Tộc Lưu Dân Trại, phường do Vũ Mao Nhi — một Vũ Tộc nữ già có kinh nghiệm bốn mươi năm phân biệt chất lượng lông vũ — sáng lập và điều hành. Dù quy mô nhỏ bé với chỉ mười hai thành viên, Lông Vũ Phường đóng vai trò quan trọng trong đời sống kinh tế của Vũ Tộc nghèo vùng Bắc Băng, biến thứ mà nhiều người coi là rác rưởi — lông vũ rụng tự nhiên — thành nguồn thu nhập nuôi sống cả cộng đồng.
 

@@ -119,6 +119,8 @@ Vạn Niên Tùng — cổ thụ lớn nhất — thực ra có linh trí riêng
 
 Mộc Thâm Căn biết rằng huyết độc đang lan nhanh hơn mỗi năm, xâm thực dần từng tấc rễ cổ thụ thiêng. Theo tính toán của ông, trong năm mươi năm nữa tuyến phòng thủ sẽ sụp đổ hoàn toàn, huyết độc sẽ tràn vào Vĩnh Hằng Sâm Lâm. Ông đã chuẩn bị một hạt giống từ Vạn Niên Tùng, giao cho Hộ Vệ trẻ nhất với nhiệm vụ: nếu tuyến phòng thủ thất thủ, hãy mang hạt giống chạy sâu vào rừng và gieo ở nơi an toàn nhất.
 
+Gần đây, Mộc Thâm Căn phát hiện một hiện tượng kỳ lạ: một số cành cổ thụ thiêng bị huyết độc xâm nhập không chết mà biến đổi — vỏ chuyển đỏ sẫm, lá mọc ngược, và nhựa tiết ra có tính chất lạ, vừa chống huyết độc vừa mang theo huyết độc loãng. Ông gọi hiện tượng này là "Huyết Biến" và lo sợ rằng cổ thụ thiêng đang bị biến đổi từ bên trong thay vì bị giết chết — một kết quả có thể nguy hiểm hơn nhiều so với việc mất cây. Ông đã chặt cành Huyết Biến và niêm phong, nhưng mỗi mùa xuân lại xuất hiện thêm cành mới.
+
 ## XI. Quan Hệ Thế Lực (势力关系)
 - **Tinh Linh Vương Đình:** Trên danh nghĩa vẫn là cấp dưới, nhưng thực tế đã bị bỏ rơi hoàn toàn. Mộc Thâm Căn không oán hận mà chỉ thất vọng, vẫn giữ trung thành với sứ mệnh ban đầu.
 - **Cổ Thụ Tế Tự Đoàn:** Đồng đạo cùng tôn thờ cổ thụ. Tế Tự Đoàn đôi khi gửi nhựa cổ thụ có dược tính đặc biệt giúp Thủ Hộ Đoàn chống huyết độc.
