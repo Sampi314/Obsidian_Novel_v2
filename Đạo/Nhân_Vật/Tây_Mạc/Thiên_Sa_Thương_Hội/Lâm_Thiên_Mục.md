@@ -47,6 +47,15 @@ arcs:
           tin: 55
           so: 0
           on: 30
+      - character: Nguyễn Bảo Tháp
+        description: Quản Lý Bảo Tháp trẻ tuổi, thuộc hạ tiềm năng đang được rèn giũa
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 5
+          tin: 40
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: LÂM THIÊN MỤC (林千目)

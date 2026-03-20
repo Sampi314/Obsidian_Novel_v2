@@ -33,6 +33,33 @@ arcs:
           tin: 40
           so: 0
           on: 5
+      - character: Hạc Tuyết Nhi
+        description: Sư phụ chỉ dẫn trong Tán Tu, y sư đáng kính
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 30
+          tin: 40
+          so: 0
+          on: 20
+      - character: Sương Lệ Nhi
+        description: Sư phụ chỉ dẫn trong Tán Tu
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 10
+          tin: 30
+          so: 0
+          on: 10
+      - character: Tước Tuyết Nhi
+        description: Sư phụ chỉ dẫn trong Tán Tu, đồng tộc Tước
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 20
+          tin: 40
+          so: 0
+          on: 15
 ---
 
 # HỒ SƠ NHÂN VẬT: TƯỚC HÀN (雀寒)

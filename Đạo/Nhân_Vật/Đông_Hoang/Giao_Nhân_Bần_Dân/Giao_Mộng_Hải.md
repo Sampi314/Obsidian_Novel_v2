@@ -65,6 +65,15 @@ arcs:
           tin: 0
           so: 30
           on: 0
+      - character: Giao Hàn Sương Lệ
+        description: Liên lạc viên, thợ dệt mật mã mà mình đưa cho nàng mang đi, người hiền lành nhất
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 10
+          tin: 45
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: GIAO MỘNG HẢI (鲛夢海)

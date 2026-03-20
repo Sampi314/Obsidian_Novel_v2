@@ -33,6 +33,42 @@ arcs:
           tin: 35
           so: 0
           on: 0
+      - character: Hạc Tuyết Nhi
+        description: Bến đỗ an toàn nhất, y sư cứu tế và che chở nàng trên hành trình dài
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 10
+          tin: 50
+          so: 0
+          on: 40
+      - character: Bằng Bắc Minh
+        description: Gã nam nhân cô ngạo từng bỏ qua cho nàng khi yếu đuối, nàng cảm nhận sự lạc lõng tương đồng
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 20
+          tin: 25
+          so: 0
+          on: 10
+      - character: Tước Hàn
+        description: Hậu bối được nàng chỉ dẫn trong Tán Tu
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
+      - character: Tước Tuyết Nhi
+        description: Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 10
+          tin: 30
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: SƯƠNG LỆ NHI (霜淚兒)

@@ -24,6 +24,24 @@ arcs:
           tin: -40
           so: 0
           on: -30
+      - character: Lâm Thiên Mục
+        description: Đồng liêu Gia Chủ Tình Báo trong Tứ Đại Thương Gia, nắm giữ tai mắt toàn Thương Hội
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 35
+          tin: 45
+          so: 10
+          on: 15
+      - character: Lý Sa Kim
+        description: Tổng Quản Thương Phường dưới quyền Lâm Thiên Mục, thuộc hạ cần mẫn thường xuyên phục vụ
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 10
+          tin: 40
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: CỔ THIÊN LÝ (古千里)

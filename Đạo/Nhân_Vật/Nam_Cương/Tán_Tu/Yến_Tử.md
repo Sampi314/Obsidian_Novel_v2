@@ -51,6 +51,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Song Đao Liệt
+        description: Bọ ngựa đấu sĩ tu vi thấp, biết hắn tránh né mình vì không dám thách đấu, nàng không để tâm
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: YẾN TỬ (燕紫)
@@ -74,6 +83,7 @@ Yến Tử là trinh sát chiến đấu hàng đầu, kết hợp tốc độ k
 - **Dạ Nga Tiên:** Đối tác trinh sát, Yến Tử bay trên cao còn Dạ Nga Tiên xâm nhập từ mặt đất — hai người bổ sung cho nhau hoàn hảo.
 - **Oanh Thúy Thanh:** Đàn em mà Yến Tử đã truyền dạy kỹ năng ẩn tung, coi Thúy Thanh như học trò.
 - **Oanh Lâm Ca:** Tôn trọng lẫn nhau, đôi khi trao đổi thông tin tình báo về các thế lực tà đạo trong vùng.
+- **Song Đao Liệt:** Bọ ngựa đấu sĩ tu vi thấp, biết hắn tránh né mình vì không dám thách đấu, nàng không để tâm.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Yến Tử từng là trinh sát tinh nhuệ phục vụ một thế lực lớn ở ngoài Nam Cương — Hàn Phong Truyền Tin Đội tại Bắc Băng. Nàng bị phái đi thực hiện một nhiệm vụ tình báo tại Nam Cương nhưng phát hiện ra rằng thông tin nàng mang về đã bị lợi dụng để tiêu diệt một ngôi làng vô tội. Từ đó nàng từ bỏ tổ chức, tự xóa dấu vết và ẩn mình tại rừng già Nam Cương. Với tu vi Nguyên Anh, nàng dễ dàng trở thành thế lực đáng gờm nhưng chọn sống ẩn dật, chỉ can thiệp khi thấy kẻ yếu bị ức hiếp. Bí mật lớn nhất là nàng vẫn mang theo một cuộn mật thư chứa thông tin về âm mưu của thế lực cũ, và nàng biết rằng một ngày nào đó họ sẽ đến tìm nàng để diệt khẩu.

@@ -33,6 +33,33 @@ arcs:
           tin: 40
           so: 0
           on: 0
+      - character: Bằng Bắc Minh
+        description: Kẻ cô ngạo từng được nàng cứu mạng, thi thoảng mang bảo vật kỳ lạ đến đáp ơn
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 20
+          tin: 40
+          so: 0
+          on: 0
+      - character: Sương Lệ Nhi
+        description: Nữ nhân Trùng Tộc hay tìm đến như chốn bình yên ngắn ngủi, nàng cảm thông số phận bi kịch
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 0
+          tin: 40
+          so: 0
+          on: 0
+      - character: Tước Hàn
+        description: Hậu bối được nàng chỉ dẫn trong Tán Tu
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẠC TUYẾT NHI (鶴雪兒)

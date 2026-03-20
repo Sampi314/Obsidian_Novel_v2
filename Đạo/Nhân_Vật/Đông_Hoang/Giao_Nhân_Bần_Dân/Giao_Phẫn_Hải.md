@@ -63,6 +63,24 @@ arcs:
           tin: 0
           so: 15
           on: 0
+      - character: Giao Hàn Sương Lệ
+        description: Liên lạc viên, kẻ mà mình phải tránh xa vì không thể để biết quá nhiều
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 5
+          tin: 20
+          so: 15
+          on: 0
+      - character: Giao Vô Danh
+        description: Thằng nhỏ im lặng, kẻ phản kháng kiểu khác mà mình ngưỡng mộ từ xa
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 10
+          tin: 30
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: GIAO PHẪN HẢI (鲛憤海)
