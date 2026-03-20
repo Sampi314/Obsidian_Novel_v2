@@ -32,9 +32,10 @@ Nguyễn Thanh Luyện là thanh niên anh tuấn, da trắng sáng, mắt thanh
 Nguyễn Thanh Luyện sở hữu Thanh Luyện Kiếm Pháp (青煉劍法) — kết hợp kỹ thuật đúc kiếm với kiếm thuật chiến đấu, mỗi đòn kiếm mang theo nhiệt lượng của lò đúc. Tuyệt kỹ Bách Luyện Thành Cương (百煉成鋼) tạm thời tăng cường độ cứng của phi kiếm lên gấp mười lần trong thời gian ngắn. Điểm mạnh là khả năng kết hợp đúc và chiến, vừa đánh vừa sửa chữa vũ khí; điểm yếu là thiếu kinh nghiệm thực chiến.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hoàng Thiên Hỏa:** Trưởng Lão bí mật kèm cặp kỹ thuật hỏa luyện, Thanh Luyện coi ông như sư phụ thứ hai.
-- **Phạm Phi Kiếm:** Trưởng Lão trực tiếp hướng dẫn, Thanh Luyện học được sự tỉ mỉ cầu toàn từ ông.
-- **Đặng Tiểu Kiếm:** Sư đệ đồng môn, hai người hay thi đua kiếm thuật, quan hệ vừa cạnh tranh vừa thân thiết.
-
+- **Trần Kiếm Nam** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ngự Kiếm Sơn Trang
+- **Trần Kiếm Nam** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Kiếm Nam
+- **Lý Kiếm Hồn** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ngự Kiếm Sơn Trang
+- **Phạm Phi Kiếm** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ngự Kiếm Sơn Trang
+- **Đặng Tiểu Kiếm** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ngự Kiếm Sơn Trang
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyễn Thanh Luyện gia nhập Ngự Kiếm Sơn Trang khi mười lăm tuổi, nhanh chóng thể hiện tài năng luyện khí xuất chúng. Được chọn làm chân truyền đệ tử, y âm thầm tu luyện đạt Kim Đan Hậu Kỳ trong khi đồng đạo cùng lứa còn ở Trúc Cơ. Tham vọng thầm kín của y là trở thành Trang Chủ tiếp theo, nhưng luôn giữ vẻ khiêm tốn để không gây nghi ngờ. Gần đây, y phát hiện một mảnh kiếm cổ trong lò đúc cũ, nghi ngờ đó là tàn dư liên quan đến Thần Kiếm Phôi.

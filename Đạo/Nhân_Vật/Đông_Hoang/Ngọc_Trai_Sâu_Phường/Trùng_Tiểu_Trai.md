@@ -32,8 +32,8 @@ Trùng Tiểu Trai nhỏ bé, chỉ dài khoảng ba mươi phân, thân hình t
 Trùng Tiểu Trai đang học Tiểu Ngọc Tạo Hình Thuật (小玉造形術) — kỹ thuật cơ bản tạo hình ngọc trai, hiện chỉ có thể tạo ra ngọc trai nhỏ hình tròn đơn giản. Không có khả năng chiến đấu, chỉ có thể thu mình lại tạo thành lớp vỏ cứng để tự vệ. Điểm đặc biệt là tốc độ sản xuất ngọc nhanh hơn đồng loại cùng tuổi, cho thấy tiềm năng lớn.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trùng Bạch:** Phường Chủ mà Tiểu Trai xem như cha, luôn quấn quít bên cạnh, không biết rằng Bạch đang cố che chở y khỏi sự thật tàn khốc.
-- **Trùng Ngọc Châu:** Sư phụ dạy kỹ thuật chế tác, Tiểu Trai ngưỡng mộ những viên ngọc đẹp mà Ngọc Châu tạo ra và nỗ lực học tập.
-
+- **Trùng Bạch** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ngọc Trai Sâu Phường
+- **Trùng Bạch** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Bạch
+- **Trùng Ngọc Châu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ngọc Trai Sâu Phường
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trùng Tiểu Trai sinh ra trong rạn san hô, là thế hệ sâu ngọc trai trẻ nhất của Phường. Từ nhỏ được Trùng Bạch bảo bọc, y lớn lên không biết đến khổ đau, tin rằng cuộc sống trong rạn san hô là bình thường. Gần đây, y bắt đầu nhận ra một số điều kỳ lạ — tại sao Giao Nhân lấy đi toàn bộ ngọc trai, tại sao Bạch luôn buồn bã. Sự thức tỉnh này đang dần diễn ra, và Bạch lo sợ rằng khi Tiểu Trai hiểu hết sự thật, y sẽ hành động bốc đồng gây nguy hiểm cho cả Phường.
