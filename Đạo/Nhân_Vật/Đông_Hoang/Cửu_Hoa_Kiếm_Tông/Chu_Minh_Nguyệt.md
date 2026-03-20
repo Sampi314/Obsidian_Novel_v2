@@ -26,13 +26,15 @@ arcs:
 - **Phe Phái:** Cửu Hoa Kiếm Tông
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Chu Minh Nguyệt sở hữu dung mạo băng thanh ngọc khiết, dáng người thon thả tựa cành liễu trước gió. Nàng thường khoác một bộ y phục màu xanh ngọc bích thêu chìm họa tiết hoa sen, mái tóc đen dài được vấn cao gọn gàng bằng một chiếc trâm bạch ngọc. Tính cách của nàng bề ngoài ôn hòa, nho nhã, nhưng bên trong lại vô cùng kiên cường và quyết đoán, mang đậm phong thái của một nữ kiếm tu xuất chúng.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Lối đánh của nàng nhẹ nhàng, uyển chuyển nhưng ẩn chứa sát cơ đáng sợ, chuyên dùng mộc linh khí kết hợp với kiếm ý để khắc chế kẻ thù. Tuyệt kỹ thành danh của nàng là *Thanh Hoa Liên Tự Kiếm (青花蓮字劍)*, biến hóa kiếm khí thành hàng vạn đóa sen xanh nở rộ giữa không trung, mỗi cánh hoa đều là một mũi kiếm vô hình tước đoạt sinh mạng. Điểm yếu của nàng là khả năng phòng ngự vật lý kém khi phải đối đầu với các cường giả Luyện Thể.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lục Trần:** Tông Chủ, người thường xuyên chỉ điểm kiếm đạo cho nàng, đồng thời là biểu tượng mà nàng vô cùng ngưỡng mộ.
+- **Hoàng Thanh Trúc:** Sư đệ Nội Môn, thường được nàng hướng dẫn và bảo vệ trong các lần thực hiện nhiệm vụ tông môn.
+- **Chu Phong Kiếm:** Đường đệ (em họ) đang ở Ngoại Môn, nàng luôn ngầm quan tâm và gửi gắm hy vọng y sẽ sớm đột phá.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Chu Minh Nguyệt xuất thân từ một gia tộc phàm nhân nhỏ bé dưới chân Cửu Hoa Sơn, được một vị trưởng lão phát hiện linh căn và đưa vào tông môn từ khi mới sáu tuổi. Trải qua vô vàn khổ luyện và một lần suýt tẩu hỏa nhập ma khi lĩnh ngộ kiếm ý, nàng đã thành công thức tỉnh Thanh Hoa Kiếm Tâm, chính thức trở thành Chân Truyền Đệ Tử. Hiện tại, mục tiêu lớn nhất của nàng là tìm ra nguyên nhân đằng sau sự suy yếu của một số linh mạch quanh Thiên Hoa Phong và dọn dẹp những kẻ phản bội đang cấu kết với tà đạo.

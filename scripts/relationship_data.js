@@ -739,6 +739,51 @@ const relationshipData = {
       "description": "Nghiên cứu tại sao da Hắc Tinh Linh đổi màu"
     },
     {
+      "id": "chu_minh_nguyet",
+      "name": "Chu Minh Nguyệt",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#4caf50",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Thanh Hoa Liên Tự Kiếm",
+      "personality": "Ôn hòa, Nho nhã, Kiên cường",
+      "description": "Chu Minh Nguyệt sở hữu dung mạo băng thanh ngọc khiết, dáng người thon thả tựa cành liễu trước gió. Nàng thường khoác y phục màu xanh ngọc bích thêu chìm họa tiết hoa sen, toát lên phong thái của một nữ kiếm tu xuất chúng."
+    },
+    {
+      "id": "chu_phong_kiem",
+      "name": "Chu Phong Kiếm",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tật Phong Tảo Diệp Kiếm",
+      "personality": "Kiên trì, Chịu khó, Bướng bỉnh",
+      "description": "Chu Phong Kiếm có dáng người cao ráo, nước da ngăm đen. Y phục Ngoại Môn sờn cũ nhưng luôn sạch sẽ, toát lên ý chí sắt đá không bỏ cuộc của một đệ tử đi lên từ Tạp Dịch."
+    },
+    {
+      "id": "hoang_thanh_truc",
+      "name": "Hoàng Thanh Trúc",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#cddc39",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Thanh Trúc Mạn Ba Kiếm",
+      "personality": "Ôn hòa, Nhẫn nại, Sắc bén",
+      "description": "Hoàng Thanh Trúc là một nam tử trung niên với dáng người cao gầy, dong dỏng như cây trúc già. Hắn khoác đạo bào lục nhạt viền bạc, luôn trầm tĩnh và nhạy bén trước biến động."
+    },
+    {
       "id": "hoang_dai_son",
       "name": "Hoàng Đại Sơn",
       "title": "Trưởng Trại Tuyết Thưa",
@@ -58389,6 +58434,54 @@ const relationshipData = {
       "target": "linh_thanh_tuyen",
       "type": "subordinate",
       "description": "Phục tùng Linh Thanh Tuyền, Ốc Đảo Chủ của Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "chu_minh_nguyet",
+      "target": "chu_phong_kiem",
+      "type": "family",
+      "description": "Đường tỷ (chị họ), luôn ngầm quan tâm đệ đệ"
+    },
+    {
+      "source": "chu_phong_kiem",
+      "target": "chu_minh_nguyet",
+      "type": "family",
+      "description": "Đường đệ (em họ), coi tỷ tỷ là tấm gương"
+    },
+    {
+      "source": "chu_minh_nguyet",
+      "target": "hoang_thanh_truc",
+      "type": "ally",
+      "description": "Sư tỷ Chân Truyền, sát cánh hỗ trợ"
+    },
+    {
+      "source": "hoang_thanh_truc",
+      "target": "chu_minh_nguyet",
+      "type": "ally",
+      "description": "Tôn trọng và hỗ trợ sư tỷ"
+    },
+    {
+      "source": "hoang_thanh_truc",
+      "target": "chu_phong_kiem",
+      "type": "mentor",
+      "description": "Sư huynh Nội Môn, thường xuyên chỉ điểm"
+    },
+    {
+      "source": "chu_phong_kiem",
+      "target": "hoang_thanh_truc",
+      "type": "disciple",
+      "description": "Kính trọng sư huynh chỉ điểm"
+    },
+    {
+      "source": "chu_phong_kiem",
+      "target": "lam_phong",
+      "type": "ally",
+      "description": "Đồng môn, cùng chia sẻ kinh nghiệm sinh tồn"
+    },
+    {
+      "source": "chu_phong_kiem",
+      "target": "diep_tinh_suong",
+      "type": "ally",
+      "description": "Đồng môn, từng sát cánh phá vây"
     },
     {
       "source": "lang_co_han",

@@ -12,7 +12,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Lông Vũ Phường, Địa Tâm Thám Hiểm Đội, San Hô Thủ Hộ Đoàn (Tây Mạc)
+### [Hiện Tại] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Chu Minh Nguyệt, Chu Phong Kiếm, Hoàng Thanh Trúc thuộc khu vực Đông Hoang.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Lông Vũ Phường, Địa Tâm Thám Hiểm Đội, San Hô Thủ Hộ Đoàn (Tây Mạc)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Oanh Sa Ngân (Lông Vũ Phường), Thâm Nham (Địa Tâm Thám Hiểm Đội), Thủy Linh Nhi (San Hô Thủ Hộ Đoàn) thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật bộ nhớ và Trạng Thái Hiện Tại.
 
@@ -56,13 +60,6 @@
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Phong Nha, Phong Ảnh, Sa Quỷ thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
-### [Phiên Trước 2] - Hoàn thiện nhân vật Hải Thần Cung (Vô Tận Hải)
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Giao Vân Hà, Giải Huyền Giáp, Giải Thiết Giáp thuộc khu vực Vô Tận Hải.
-- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-
-### [Phiên Trước] - Hoàn thiện nhân vật San Hô Đảo Quốc (Vô Tận Hải)
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Thủy Tinh, Triều Thiên Phong, Triều Bích Hải thuộc khu vực Vô Tận Hải.
-- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
 
 - **Ngày 2024-05-30**: Đã điền chi tiết 4 phần (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật: **Vũ Khinh Hồng**, **Vũ Phiêu Linh**, **Vũ Tật Phong** (Hàn Phong Truyền Tin Đội - Bắc Băng) theo Task 9. Cập nhật relationship_data.js.

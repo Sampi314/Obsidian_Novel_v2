@@ -209,6 +209,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã hoàn thành Task 9 cho 3 nhân vật Cửu Hoa Kiếm Tông (Đông Hoang): Chu Minh Nguyệt, Chu Phong Kiếm, Hoàng Thanh Trúc.
 > Đã hoàn thành Task 9 cho nhân vật Oanh Sa Ngân (Lông Vũ Phường - Tây Mạc), Thâm Nham (Địa Tâm Thám Hiểm Đội - Tây Mạc), Thủy Linh Nhi (San Hô Thủ Hộ Đoàn - Tây Mạc).
 > Đã hoàn thành Task 9 cho 3 nhân vật Vực Thẳm Ma Cung (Vô Tận Hải): Hắc Triều, Ngư Quỷ Diện, Thâm Hải.
 > Đã hoàn thành Task 9 cho 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Ngư Tiểu Bạch, San Bích Quang, San Huyền Quang Dạ.
