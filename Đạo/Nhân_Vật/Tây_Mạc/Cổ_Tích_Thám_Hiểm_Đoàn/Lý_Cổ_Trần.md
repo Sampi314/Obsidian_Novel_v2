@@ -38,10 +38,10 @@ Tu vi Kim Đan Sơ Kỳ của Lý Cổ Trần đến từ cơ duyên trong một
 - Điểm yếu hiển nhiên là khả năng chiến đấu kém, ông gần như không biết bất kỳ chiêu thức tấn công nào và phải dựa hoàn toàn vào đồng đội khi đối mặt với kẻ thù.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nguyễn Dịch Cổ:** Phó Đoàn phụ trách hậu cần, người duy nhất có thể kéo ông ra khỏi cơn mê nghiên cứu khi trời tối và ép ông ăn uống đúng giờ. Ông coi cô như em gái ruột.
-- **Hoàng Thổ Đạo:** Thám hiểm viên giỏi nhất đoàn, người mà ông tin tưởng giao nhiệm vụ tiên phong vào các di tích nguy hiểm nhất. Ông đánh giá cao bản lĩnh và sự bình tĩnh của hắn.
+- **Hoàng Thổ Đạo** (Chủ tớ): Thám hiểm viên giỏi nhất đoàn, người mà ông tin tưởng giao nhiệm vụ tiên phong vào các di tích nguy hiểm nhất. Ông đánh giá cao bản lĩnh và sự bình tĩnh của hắn.
+- **Nguyễn Dịch Cổ** (Đồng minh): Phó Đoàn phụ trách hậu cần, người duy nhất có thể kéo ông ra khỏi cơn mê nghiên cứu khi trời tối và ép ông ăn uống đúng giờ. Ông coi cô như em gái ruột.
+- **Trần Phá Bẫy** (Đồng minh): Đồng liêu cùng Cổ Tích Thám Hiểm Đoàn, hỗ trợ lẫn nhau
 - **Hoàng Sa Di Dân:** Ông đang cố gắng xây dựng mối quan hệ với nhóm di dân này để thu thập truyền thuyết truyền miệng về Hoàng Sa Cổ Quốc — mảnh ghép quan trọng nhất mà ông còn thiếu.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Cổ Trần vốn là con một thương nhân nhỏ trên Thiên Sa Thương Đạo, từ nhỏ đã mê mẩn những câu chuyện về thành phố bị chôn vùi dưới cát. Cha ông coi đó là mơ mộng viển vông, nhưng ông vẫn lén lút đi theo các đoàn thám hiểm mỗi khi có cơ hội. Năm hai mươi tuổi, ông tình cờ rơi vào một di tích nhỏ khi tránh bão cát, và trong đó phát hiện một đan lô cổ đại còn chứa một viên Kim Đan bán thành phẩm — cơ duyên kỳ ngộ giúp ông đột phá lên Kim Đan mà không cần sư phụ hay tông môn.
 

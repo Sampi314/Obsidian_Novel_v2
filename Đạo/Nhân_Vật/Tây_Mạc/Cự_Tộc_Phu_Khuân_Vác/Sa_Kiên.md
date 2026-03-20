@@ -110,16 +110,10 @@ arcs:
     - Cứng nhắc trong chiến đấu, chỉ biết đánh thẳng, không biết né. Tu vi thấp, hoàn toàn phụ thuộc thể phách. Tính cách quá cương trực khiến lão dễ bị khích tướng và rơi vào bẫy.
 
 ## VI. QUAN HỆ
-
-- **Sa Lực (Công Đầu):**
-    - Người duy nhất Sa Kiên tâm phục khẩu phục. Lão không a dua nịnh nọt, nhưng mỗi khi Sa Lực quyết định điều gì, lão chấp hành triệt để. Lão nói: "Công Đầu sai thì ta nói. Nhưng Công Đầu hiếm khi sai." Hai người ít nói chuyện phiếm, nhưng mỗi lần ngồi cạnh nhau trong im lặng, cái im lặng đó đáng giá hơn vạn lời.
-- **Sa Trọng (Tổ Trưởng):**
-    - Cãi nhau mỗi lần gặp mặt. Sa Kiên ghét cái kiểu "cười hề hề rồi mọi chuyện sẽ ổn" của Sa Trọng. Nhưng trong thâm tâm, lão biết đội cần Sa Trọng — vì chính lão không thể làm được điều Sa Trọng làm: khiến người ta cười khi muốn khóc. Hai lần Sa Trọng gặp nguy, Sa Kiên chạy nhanh nhất.
-- **Sa Mặc (Phu Khuân Vác):**
-    - Sa Kiên là người duy nhất trong đội công khai nghi ngờ lai lịch Sa Mặc. Lão nói với Sa Lực: "Gã đó mạnh quá mức cho một phu khuân. Sức gã không phải sức lao động — là sức luyện tập." Sa Lực bảo lão đừng hỏi, lão tuân lệnh nhưng vẫn âm thầm để ý. Dù vậy, lão không ghét Sa Mặc — vì gã làm việc gấp ba mà không đòi thêm một đồng.
-- **Phu Khuân Dưới Quyền:**
-    - Nghiêm khắc như quân pháp. Ai lười bị phạt tăng ca, ai quỵt nội quy bị trừ lương. Nhưng ai bệnh, lão tự tay mang cháo đến. Ai thiếu tiền gửi về nhà, lão cho mượn không lấy lãi — chỉ ghi sổ, để khi nào có thì trả. Phu khuân trạm Nam Sa sợ lão nhưng kính lão.
-
+- **Sa Lực** (Chủ tớ): Người duy nhất Sa Kiên tâm phục khẩu phục. Lão không a dua nịnh nọt, nhưng mỗi khi Sa Lực quyết định điều gì, lão chấp hành triệt để. Lão nói: "Công Đầu sai thì ta nói. Nhưng Công Đầu hiếm khi sai." Hai người ít nói chuyện phiếm, nhưng mỗi lần ngồi cạnh nhau trong im lặng, cái im lặng đó đáng giá hơn vạn lời.
+- **Sa Trọng** (Đồng minh): Cãi nhau mỗi lần gặp mặt. Sa Kiên ghét cái kiểu "cười hề hề rồi mọi chuyện sẽ ổn" của Sa Trọng. Nhưng trong thâm tâm, lão biết đội cần Sa Trọng — vì chính lão không thể làm được điều Sa Trọng làm: khiến người ta cười khi muốn khóc. Hai lần Sa Trọng gặp nguy, Sa Kiên chạy nhanh nhất.
+- **Sa Mặc** (Trung lập): Sa Kiên là người duy nhất trong đội công khai nghi ngờ lai lịch Sa Mặc. Lão nói với Sa Lực: "Gã đó mạnh quá mức cho một phu khuân. Sức gã không phải sức lao động — là sức luyện tập." Sa Lực bảo lão đừng hỏi, lão tuân lệnh nhưng vẫn âm thầm để ý. Dù vậy, lão không ghét Sa Mặc — vì gã làm việc gấp ba mà không đòi thêm một đồng.
+- **Phu Khuân Dưới Quyền:** Nghiêm khắc như quân pháp. Ai lười bị phạt tăng ca, ai quỵt nội quy bị trừ lương. Nhưng ai bệnh, lão tự tay mang cháo đến. Ai thiếu tiền gửi về nhà, lão cho mượn không lấy lãi — chỉ ghi sổ, để khi nào có thì trả. Phu khuân trạm Nam Sa sợ lão nhưng kính lão.
 ## VII. GIAI THOẠI
 
 > *"Nợ ai chớ nợ Sa Kiên. Lão ghi sổ kỹ hơn Diêm Vương ghi sinh tử bạ."*

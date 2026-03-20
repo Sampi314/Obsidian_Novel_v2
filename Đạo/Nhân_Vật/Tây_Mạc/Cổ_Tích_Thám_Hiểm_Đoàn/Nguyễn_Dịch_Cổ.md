@@ -38,10 +38,10 @@ Với tu vi Trúc Cơ Viên Mãn, Nguyễn Dịch Cổ không phải chiến sĩ
 - Khả năng chiến đấu trực diện gần như không có, cô dựa hoàn toàn vào sự bảo vệ của đồng đội.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Cổ Trần:** Đoàn Trưởng mà cô vừa kính trọng vừa phải chịu đựng. Cô là người duy nhất dám mắng ông khi ông quên ăn ba ngày liên tiếp hoặc tiêu hết ngân quỹ đoàn để mua một mảnh gốm cổ.
-- **Hoàng Thổ Đạo:** Đồng đội đáng tin cậy nhất trong các chuyến thám hiểm. Cô đánh giá cao sự cẩn thận và kỷ luật của hắn, thường phối hợp — cô giải mã, hắn dẫn đường.
+- **Hoàng Thổ Đạo** (Đồng minh): Đồng đội đáng tin cậy nhất trong các chuyến thám hiểm. Cô đánh giá cao sự cẩn thận và kỷ luật của hắn, thường phối hợp — cô giải mã, hắn dẫn đường.
+- **Lý Cổ Trần** (Đồng minh): Đoàn Trưởng mà cô vừa kính trọng vừa phải chịu đựng. Cô là người duy nhất dám mắng ông khi ông quên ăn ba ngày liên tiếp hoặc tiêu hết ngân quỹ đoàn để mua một mảnh gốm cổ.
+- **Trần Phá Bẫy** (Đồng minh): Đồng liêu cùng Cổ Tích Thám Hiểm Đoàn, hỗ trợ lẫn nhau
 - **Hoàng Sa Di Dân:** Cô đang học ngôn ngữ truyền miệng của nhóm di dân này để bổ sung vào kho kiến thức cổ ngữ, và đã xây dựng được mối quan hệ thân thiện với một số trưởng lão di dân.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyễn Dịch Cổ sinh ra trong gia đình thợ khắc bia đá tại một thị trấn nhỏ trên Thiên Sa Thương Đạo. Từ bé cô đã mê mẩn những dòng chữ cổ trên các mảnh bia vỡ mà cha cô thu gom, tự học đọc cổ văn khi mới mười tuổi. Tài năng ngôn ngữ thiên bẩm của cô thu hút sự chú ý của Lý Cổ Trần khi ông ghé qua tiệm bia đá và phát hiện cô gái mười bốn tuổi đang dịch một mảnh Hoàng Sa cổ ngữ mà chính ông mất ba tháng chưa giải được.
 
