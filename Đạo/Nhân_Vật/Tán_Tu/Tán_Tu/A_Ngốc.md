@@ -53,6 +53,15 @@ arcs:
           tin: 40
           so: 10
           on: 15
+      - character: Lý Tuyết Ưng
+        description: Cung Chủ Huyền Băng Cung, tiền bối nhận ra sự đặc biệt của Hỗn Độn Linh Căn trên hành trình
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 15
+          tin: 20
+          so: 5
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: A NGỐC (阿傻)

@@ -90,7 +90,7 @@ arcs:
 - [x] Hàn Thanh Nguyệt
 - [x] Lục Trần
 - [x] Ngô Công Trưởng Lão
-- [ ] Phương Vô Kỵ
+- [x] Phương Vô Kỵ
 - [ ] Sở Lăng Sương
 - [ ] Triệu Thanh Hằng
 - [ ] Lục Ly

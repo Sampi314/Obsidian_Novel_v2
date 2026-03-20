@@ -43,6 +43,51 @@ arcs:
           tin: 35
           so: 0
           on: 0
+      - character: Loa Thiên Âm Hải
+        description: Đồng liêu trong nhóm Độc Lập, thủ hạ trung thành
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 15
+          tin: 40
+          so: 0
+          on: 10
+      - character: Ngư Vạn Hải
+        description: Hậu bối Hải Tộc trong nhóm Độc Lập, tiền bối dẫn dắt
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 10
+          tin: 35
+          so: 0
+          on: 5
+      - character: Giao Lệ Hoa Nguyệt
+        description: Hậu bối Giao Nhân trong nhóm Độc Lập, tiền bối dẫn dắt
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 10
+          tin: 35
+          so: 0
+          on: 5
+      - character: Ngư Hồ Tiên
+        description: Hậu bối Hải Tộc trong nhóm Độc Lập, tiền bối dẫn dắt
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 10
+          tin: 35
+          so: 0
+          on: 5
+      - character: Nấm Cổ Thụ
+        description: Đồng liêu Vi Tộc trong nhóm Độc Lập, hỗ trợ lẫn nhau bảo vệ rừng
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 40
+          tin: 55
+          so: 0
+          on: 15
 ---
 
 # HỒ SƠ NHÂN VẬT: NHAM THẦN (岩神)
