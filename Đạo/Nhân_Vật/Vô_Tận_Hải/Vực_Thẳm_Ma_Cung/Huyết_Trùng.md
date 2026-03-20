@@ -47,6 +47,33 @@ arcs:
           tin: 35
           so: 0
           on: 10
+      - character: Thâm Hải Trùng
+        description: Thủ hạ trung thành phục tùng trong Vực Thẳm Ma Cung
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: -10
+          tin: 30
+          so: 0
+          on: 10
+      - character: Thâm Uyên Nữ
+        description: Thủ hạ trung thành phục tùng trong Vực Thẳm Ma Cung
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: -5
+          tin: 25
+          so: 0
+          on: 5
+      - character: Huyết Ba
+        description: Ngoại môn đệ tử cấp thấp, ghi nhận tiềm năng phục kích xuất sắc
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: -20
+          tin: 15
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HUYẾT TRÙNG (血虫)
