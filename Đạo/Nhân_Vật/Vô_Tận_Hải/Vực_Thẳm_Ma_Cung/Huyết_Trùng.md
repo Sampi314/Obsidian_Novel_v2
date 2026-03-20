@@ -63,10 +63,16 @@ Huyết Trùng sở hữu thân hình gầy gò dị thường, da xám xịt ph
 Huyết Trùng tu luyện Thâm Uyên Áp Sát Quyết (深渊压杀诀) kết hợp với năng lực bẩm sinh thao túng huyết trùng ký sinh, tạo thành phong cách chiến đấu cực kỳ ghê rợn — hắn có thể phóng ra hàng vạn con huyết trùng từ trong cơ thể, mỗi con mang theo ma lực ăn mòn, xâm nhập vào cơ thể đối phương qua mọi lỗ chân lông. Chiêu thức đáng sợ nhất là Vạn Trùng Phệ Cốt (萬蟲噬骨) — triệu hồi đại quân huyết trùng bao vây đối thủ, gặm nhấm từ xương cốt đến nguyên thần, và Thâm Uyên Trùng Triều (深渊虫潮) — biến cả vùng nước xung quanh thành biển trùng huyết đỏ ngầu, bất kỳ sinh vật nào chạm vào đều bị nuốt chửng. Điểm yếu là khi huyết trùng bị tiêu diệt hàng loạt bởi hỏa hệ hoặc lôi hệ công pháp, bản thân hắn cũng chịu phản phệ tổn thương nghiêm trọng.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Thâm Hải** (Cấp dưới): Cung Chủ mà mình phụng sự, tuyệt đối trung thành nhưng ngầm ghen tị quyền lực
+- **Hắc Triều** (Kình địch): Thống Lĩnh Ma Quân, đối thủ tranh quyền trong hội đồng trưởng lão
+- **Hắc Nha** (Cấp dưới): Thuộc hạ đắc lực, coi như công cụ chiến tranh hữu dụng
+- **Thâm Hải Trùng** (Chủ tớ): Thủ hạ trung thành trong Vực Thẳm Ma Cung
+- **Thâm Hải Trùng** (Cấp dưới): Phục tùng Huyết Trùng, Trưởng Lão của Vực Thẳm Ma Cung
+- **Thâm Uyên Nữ** (Chủ tớ): Thủ hạ trung thành trong Vực Thẳm Ma Cung
+- **Thâm Uyên Nữ** (Cấp dưới): Phục tùng Huyết Trùng, Trưởng Lão của Vực Thẳm Ma Cung
 - **Thâm Hải:** Cung Chủ mà Huyết Trùng phụng sự trung thành suốt hàng trăm năm, nhưng trong thâm tâm luôn ghen tị với quyền lực tuyệt đối của vị Ma Chủ này và âm thầm tích lũy thực lực.
 - **Hắc Triều:** Thống Lĩnh Thâm Hải Ma Quân, kẻ mà Huyết Trùng coi là đối thủ chính trị lớn nhất trong Hội Đồng Ma Trưởng Lão, hai bên thường xuyên tranh giành ảnh hưởng và tài nguyên.
 - **Hắc Nha:** Phó Thống Lĩnh dưới quyền, Huyết Trùng coi hắn như một công cụ chiến tranh hữu ích và đôi khi lợi dụng sự trung thành mù quáng của Hắc Nha để kiềm chế phe cánh Hắc Triều.
 - **Huyết Ba:** Ngoại môn đệ tử cấp thấp, Huyết Trùng hiếm khi để ý nhưng đã ghi nhận tiềm năng phục kích xuất sắc của kẻ Thủy Ma này.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Huyết Trùng nguyên là một con Hải Ngư Nhân bình thường thuộc bộ tộc nhỏ ở rìa Vùng Biển Chết, nhưng trong một lần vô tình rơi xuống rãnh biển sâu, hắn bị ma khí cô đặc xâm nhập toàn thân, biến đổi thành Hải Tộc Biến Dị với cơ thể có khả năng cộng sinh cùng huyết trùng ma giới. Được Thâm Uyên Ma Chủ đời trước phát hiện thiên phú dị thường, hắn được đưa vào Vực Thẳm Ma Cung và bắt đầu con đường tu luyện ma đạo, trải qua hàng trăm năm gian khổ dưới áp suất nghiền nát của rãnh Mariana. Huyết Trùng từng bước leo lên vị trí Trưởng Lão Ma Quân bằng cách tiêu diệt không thương tiếc mọi đối thủ cạnh tranh, nổi tiếng nhất là trận đại chiến Hắc Sào khi hắn một mình dùng trùng triều nuốt chửng cả một hạm đội Long Cung gồm năm chiến thuyền. Hiện tại Huyết Trùng đang cố gắng ổn định cảnh giới Nguyên Anh Sơ Kỳ, đồng thời bí mật nghiên cứu cách nâng cấp huyết trùng thành "Ma Trùng Vương", một loại ký sinh có thể khống chế cả Nguyên Anh kỳ tu sĩ, nhằm củng cố quyền lực và chuẩn bị cho cuộc tranh đoạt vị trí Thống Lĩnh với Hắc Triều.
