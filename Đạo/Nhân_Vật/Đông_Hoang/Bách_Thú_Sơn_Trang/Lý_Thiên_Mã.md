@@ -32,9 +32,13 @@ Lão nhân gầy gò nhưng tinh thần phấn chấn, mái tóc bạc bay phấ
 Tu luyện Đồng Sinh Cộng Tử Ấn (同生共死印) đến cực hạn, cộng sinh với Bạch Thiên Mã — linh thú thượng cổ. Tuyệt chiêu Thiên Mã Hành Không (天馬行空) cho phép ông và thiên mã hóa thành tia sáng di chuyển tốc độ cực đại. Chiến đấu trên không là bất khả chiến bại nhưng tuổi cao nên thể lực suy giảm.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Vạn Thú:** Đệ tử ruột và Trang Chủ hiện tại, niềm tự hào lớn nhất.
-- **Nguyễn Kỳ Lân:** Trưởng Lão đồng liêu, bạn cũ cùng lớn lên trong sơn trang.
-- **Vũ Tiểu Long:** Hậu bối mà ông thấy có tiềm năng đặc biệt.
-
+- **Trần Vạn Thú** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bách Thú Sơn Trang
+- **Trần Vạn Thú** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Vạn Thú
+- **Đặng Xà Vương** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bách Thú Sơn Trang
+- **Vũ Tiểu Long** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bách Thú Sơn Trang
+- **Lê Phượng Nhi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bách Thú Sơn Trang
+- **Hoàng Mãnh Hổ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bách Thú Sơn Trang
+- **Phạm Linh Ưng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bách Thú Sơn Trang
+- **Nguyễn Kỳ Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bách Thú Sơn Trang
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Thiên Mã là Trang Chủ đời trước, đã nhường vị trí lại cho Trần Vạn Thú khi nhận ra đệ tử tài năng hơn mình. Ông từng du hành khắp lục địa trên lưng Bạch Thiên Mã, khám phá và ghi chép hàng ngàn loài linh thú mới. Cuốn sách Vạn Thú Đồ Lục của ông là tài liệu tham khảo quý giá nhất về linh thú học. Hiện tại ông sống ẩn dật trên đỉnh núi cao nhất sơn trang, chỉ xuất hiện khi có đại sự.
