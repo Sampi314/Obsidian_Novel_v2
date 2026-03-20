@@ -25788,6 +25788,48 @@ const relationshipData = {
       "race": "Hải Tộc (Nhân Ngư)",
       "personality": "Kiên cường, Dũng cảm, Nhân ái",
       "description": "Thủy Linh Nhi là một Mỹ Nhân Ngư (Nhân Ngư) có vóc dáng vô cùng nhỏ bé so với đồng tộc, chỉ cao bằng một thiếu nữ Nhân Tộc mười lăm tuổi. Mái tóc nàng màu xanh lam lấp lánh như nước biển vùng nước nông, thường được tết gọn gàng bằng những nhánh san hô nhỏ xíu. Tuy nhỏ bé và yếu ớt về thể chất, Thủy Linh Nhi lại sở hữu một tinh thần thép, lòng dũng cảm phi thường và một trái tim nhân ái bao la dành cho mọi sinh linh trong rạn san hô."
+    },
+    {
+      "id": "chu_thanh_truc",
+      "name": "Chu Thanh Trúc",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "spy",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Trầm ổn, Lặng lẽ, Cẩn trọng",
+      "description": "Chu Thanh Trúc mang một vẻ ngoài trầm ổn và lặng lẽ, luôn khoác trên mình thanh y giản dị của đệ tử Thanh Hoa Phong, khuôn mặt thường ẩn sau một chiếc nón trúc vành rộng. Tính cách y cực kỳ cẩn trọng, ít nói, làm việc dứt khoát và có khả năng che giấu cảm xúc tuyệt vời, hoàn toàn phù hợp với công việc của một điệp viên tình báo. Y là người được sư huynh đệ tin cậy bởi sự bình tĩnh đáng kinh ngạc trong mọi tình huống nguy hiểm."
+    },
+    {
+      "id": "chu_tieu_thanh",
+      "name": "Chu Tiểu Thanh",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "scout",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Lanh lợi, Hoạt ngôn, Tò mò",
+      "description": "Chu Tiểu Thanh mang dáng vẻ của một thiếu niên lanh lợi, đôi mắt sáng và nụ cười luôn nở trên môi, giúp hắn dễ dàng hòa nhập vào đám đông. Trái ngược với sự trầm tĩnh của ca ca Chu Thanh Trúc, Tiểu Thanh hoạt ngôn, tò mò và rất giỏi giao tiếp. Sự lanh lợi và ngây thơ bề ngoài thường khiến người khác mất cảnh giác, biến hắn thành một \"cái tai\" hoàn hảo ở vòng ngoài cho Thanh Hoa Phong."
+    },
+    {
+      "id": "hoang_hong_vu",
+      "name": "Hoàng Hồng Vũ",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Bộc trực, Nóng nảy, Trọng tình nghĩa",
+      "description": "Hoàng Hồng Vũ là một nam tử vạm vỡ, để râu quai nón, luôn khoác trên mình bộ hồng y đặc trưng của Hồng Hoa Phong cùng một thanh cự kiếm màu đỏ rực đeo sau lưng. Tính cách y bộc trực, nóng nảy và vô cùng hiếu chiến, hệt như ngọn lửa cháy rực. Tuy nhiên, đằng sau vẻ ngoài thô lỗ đó lại là một người trọng tình trọng nghĩa, luôn sẵn sàng xả thân để bảo vệ sư huynh đệ đồng môn."
     }
   ],
   "relationships": [
@@ -59614,6 +59656,70 @@ const relationshipData = {
         "pham_thu_sinh"
       ],
       "leader": "ly_mo_tuyet"
+    },
+    {
+      "source": "chu_thanh_truc",
+      "target": "chu_tieu_thanh",
+      "type": "Huynh Đệ",
+      "strength": 90,
+      "bidirectional": true,
+      "description": "Hai huynh đệ mồ côi nương tựa vào nhau sống sót sau thảm kịch, Chu Thanh Trúc luôn âm thầm bảo vệ đệ đệ."
+    },
+    {
+      "source": "chu_thanh_truc",
+      "target": "ly_thanh_phong",
+      "type": "Sư Đồ",
+      "strength": 80,
+      "bidirectional": true,
+      "description": "Sư tôn và cấp trên trực tiếp tại Thanh Hoa Phong, người truyền dạy kỹ năng tình báo."
+    },
+    {
+      "source": "chu_thanh_truc",
+      "target": "ly_thanh_vu",
+      "type": "Đồng Môn",
+      "strength": 70,
+      "bidirectional": true,
+      "description": "Sư tỷ đồng môn, thường phối hợp trong các nhiệm vụ trinh sát nguy hiểm."
+    },
+    {
+      "source": "chu_tieu_thanh",
+      "target": "ly_thanh_vu",
+      "type": "Đồng Môn",
+      "strength": 65,
+      "bidirectional": false,
+      "description": "Người tỷ tỷ đồng môn hay chỉ dẫn võ công phòng thân và bao che cho hắn."
+    },
+    {
+      "source": "chu_tieu_thanh",
+      "target": "vuong_tieu_kim",
+      "type": "Bằng Hữu",
+      "strength": 60,
+      "bidirectional": true,
+      "description": "Vương Tiểu Kim (Kim Hoa Phong) hay sửa vũ khí giúp Tiểu Thanh và nghe hắn kể chuyện phiếm."
+    },
+    {
+      "source": "hoang_hong_vu",
+      "target": "tran_hong_kiem",
+      "type": "Sư Đồ",
+      "strength": 80,
+      "bidirectional": true,
+      "description": "Sư tôn kiên nhẫn rèn giũa tính nóng nảy của y và truyền thụ công pháp."
+    },
+    {
+      "source": "hoang_hong_vu",
+      "target": "tran_hong_nhi",
+      "type": "Đồng Môn",
+      "strength": 75,
+      "bidirectional": true,
+      "description": "Sư muội đồng môn thường xuyên phải 'dọn dẹp' tàn cuộc sau những cơn điên trong chiến đấu của y."
+    },
+    {
+      "source": "hoang_hong_vu",
+      "target": "hoang_thien_duc",
+      "type": "Biểu Huynh Đệ",
+      "strength": 65,
+      "bidirectional": true,
+      "description": "Hoàng Thiên Dực là biểu ca họ xa và Thánh Tử, luôn kỳ vọng Hồng Vũ thành trụ cột tông môn."
     }
   ],
   "meta": {
