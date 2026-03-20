@@ -71,7 +71,7 @@ Tu luyện *Ám Bào Tiềm Hành Thuật* (暗孢潛行術) — thuật ẩn th
 - **Bào Lục Quang Thiên** (Đồng minh): Đối tác trinh sát, một sáng một tối, nhau như hai mặt của đồng tiền
 - **Bào Thiên Phong** (Đồng minh): Trinh sát, đồng đội thường xuyên phối hợp — Hắc Lâm dò đường, Thiên Phong phát tán bào tử theo hướng an toàn
 - **Bào Tịnh Hóa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
-- **Bào Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Độc Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Ngọc Quang** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Thâm Thổ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 ## V. TIỂU SỬ & HÀNH TRÌNH

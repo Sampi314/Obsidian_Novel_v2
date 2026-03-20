@@ -114,7 +114,7 @@
 - [Giao Thiên Lệ Nguyệt (鲛天淚月)](Hải_Thần_Cung/Giao_Thiên_Lệ_Nguyệt.md)
 - [Giao Vân Hà (鲛雲霞)](Hải_Thần_Cung/Giao_Vân_Hà.md)
 - [Giải Huyền Giáp (蟹玄甲)](Hải_Thần_Cung/Giải_Huyền_Giáp.md)
-- [Giải Thiết Giáp Vương (蟹鐵甲王)](Hải_Thần_Cung/Giải_Thiết_Giáp_Vương.md)
+- [Giải Thiết Giáp (蟹鐵甲王)](Hải_Thần_Cung/Giải_Thiết_Giáp.md)
 - [Hà Kim Giáp (蝦金甲)](Hải_Thần_Cung/Hà_Kim_Giáp.md)
 - [Hải Ngọc Lan (海玉蘭)](Hải_Thần_Cung/Hải_Ngọc_Lan.md)
 - [Hải Thiên Hà (海天河)](Hải_Thần_Cung/Hải_Thiên_Hà.md)
@@ -183,12 +183,12 @@
 
 ## Hắc Hải Hải Tặc (黑海海贼) — 25
 
-- [Chương Huyết Mực Vương (章血墨王)](Hắc_Hải_Hải_Tặc/Chương_Huyết_Mực_Vương.md)
+- [Chương Huyết Mực (章血墨王)](Hắc_Hải_Hải_Tặc/Chương_Huyết_Mực.md)
 - [Chương Lục Mực (章綠墨)](Hắc_Hải_Hải_Tặc/Chương_Lục_Mực.md)
 - [Chương Thiên Tý Hắc (章千臂黑)](Hắc_Hải_Hải_Tặc/Chương_Thiên_Tý_Hắc.md)
 - [Chương Ám Lưu (章暗流)](Hắc_Hải_Hải_Tặc/Chương_Ám_Lưu.md)
 - [Giải Cự Kìm (蟹巨鉗)](Hắc_Hải_Hải_Tặc/Giải_Cự_Kìm.md)
-- [Giải Thiên Giáp Vương (蟹千甲王)](Hắc_Hải_Hải_Tặc/Giải_Thiên_Giáp_Vương.md)
+- [Giải Thiên Giáp (蟹千甲王)](Hắc_Hải_Hải_Tặc/Giải_Thiên_Giáp.md)
 - [Giải Thiết Quyền (蟹鐵拳)](Hắc_Hải_Hải_Tặc/Giải_Thiết_Quyền.md)
 - [Hà Phong Nhận (蝦風刃)](Hắc_Hải_Hải_Tặc/Hà_Phong_Nhận.md)
 - [Hà Thiên Đao (蝦千刀)](Hắc_Hải_Hải_Tặc/Hà_Thiên_Đao.md)
@@ -215,7 +215,7 @@
 - [Kình Lôi Âm (鯨雷音)](Kình_Ngư_Bộ_Lạc/Kình_Lôi_Âm.md)
 - [Kình Mẫu Từ (鯨母慈)](Kình_Ngư_Bộ_Lạc/Kình_Mẫu_Từ.md)
 - [Kình Ngân Hải Thiên (鯨銀海天)](Kình_Ngư_Bộ_Lạc/Kình_Ngân_Hải_Thiên.md)
-- [Kình Thiên Hải Vương (鯨天海王)](Kình_Ngư_Bộ_Lạc/Kình_Thiên_Hải_Vương.md)
+- [Kình Thiên Hải (鯨天海王)](Kình_Ngư_Bộ_Lạc/Kình_Thiên_Hải.md)
 - [Kình Thiết Đầu (鯨鐵頭)](Kình_Ngư_Bộ_Lạc/Kình_Thiết_Đầu.md)
 - [Kình Thâm Uyên Hải (鯨深淵海)](Kình_Ngư_Bộ_Lạc/Kình_Thâm_Uyên_Hải.md)
 - [Kình Tiểu Thanh (鯨小青)](Kình_Ngư_Bộ_Lạc/Kình_Tiểu_Thanh.md)
@@ -320,7 +320,7 @@
 - [San Ngọc Lan (珊玉兰)](San_Hô_Đảo_Quốc/San_Ngọc_Lan.md)
 - [Thủy Tinh (水晶)](San_Hô_Đảo_Quốc/Thủy_Tinh.md)
 - [Triều Bích Hải (潮碧海)](San_Hô_Đảo_Quốc/Triều_Bích_Hải.md)
-- [Triều Thiên Vệ (潮天卫)](San_Hô_Đảo_Quốc/Triều_Thiên_Vệ.md)
+- [Triều Thiên Phong (潮天卫)](San_Hô_Đảo_Quốc/Triều_Thiên_Phong.md)
 
 ## Sóng Vi Ba Liên Lạc (波微联络) — 10
 
@@ -347,7 +347,7 @@
 
 - [Chương Thâm Uyên (章深淵)](Thâm_Hải_Thám_Hiểm_Đoàn/Chương_Thâm_Uyên.md)
 - [Hải Lục Thâm (海陸深)](Thâm_Hải_Thám_Hiểm_Đoàn/Hải_Lục_Thâm.md)
-- [Kình Áp Suất Vương (鯨壓力王)](Thâm_Hải_Thám_Hiểm_Đoàn/Kình_Áp_Suất_Vương.md)
+- [Kình Áp Uyên (鯨壓力王)](Thâm_Hải_Thám_Hiểm_Đoàn/Kình_Áp_Uyên.md)
 - [Ngư Phát Quang (魚發光)](Thâm_Hải_Thám_Hiểm_Đoàn/Ngư_Phát_Quang.md)
 - [Sa Hắc Thâm Hải (鯊黑深海)](Thâm_Hải_Thám_Hiểm_Đoàn/Sa_Hắc_Thâm_Hải.md)
 
@@ -436,7 +436,7 @@
 
 - [Chương Bách Biến (章百變)](Độc_Lập/Chương_Bách_Biến.md)
 - [Giao Thiên Vạn Hải (鲛天萬海)](Độc_Lập/Giao_Thiên_Vạn_Hải.md)
-- [Giải Cổ Giáp Vương (蟹古甲王)](Độc_Lập/Giải_Cổ_Giáp_Vương.md)
+- [Giải Cổ Giáp (蟹古甲王)](Độc_Lập/Giải_Cổ_Giáp.md)
 - [Hà Phong Vân Hải (蝦風雲海)](Độc_Lập/Hà_Phong_Vân_Hải.md)
 - [Hải Thiên Thương (海天商)](Độc_Lập/Hải_Thiên_Thương.md)
 - [Mã Ngân Hải (馬銀海)](Độc_Lập/Mã_Ngân_Hải.md)

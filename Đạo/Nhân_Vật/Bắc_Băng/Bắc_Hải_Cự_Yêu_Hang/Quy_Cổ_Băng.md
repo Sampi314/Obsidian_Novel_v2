@@ -49,7 +49,7 @@ arcs:
           tin: 40
           so: 0
           on: 10
-      - character: Xà Hải Mãng Vương
+      - character: Xà Hải Mãng
         description: Láng giềng cần cảnh giác, hiểu bản tính xà tộc
         feelings:
           yeu: 0
@@ -139,7 +139,7 @@ Hiện tại, Cổ Băng nằm ở khoang sâu nhất và yên tĩnh nhất tron
 - **Chương Vạn Tuế (Nguyên Anh Trung Kỳ):** Kẻ mạnh nhất đang thức trong hang, Cổ Băng đóng vai trò cố vấn chiến lược cho hắn. Lão hiểu rằng Vạn Tuế mạnh nhưng thiếu kinh nghiệm đối phó với Nhân Tộc — vì Nhân Tộc thay đổi quá nhanh qua mỗi ngàn năm. Mỗi khi có tàu thuyền lạ xuất hiện, Cổ Băng sẽ phát sóng âm phân tích dựa trên ký ức: loại tàu gì, thuộc thế lực nào, nguy hiểm ra sao.
 - **Chương Thiên Tý (Kim Đan Viên Mãn):** Cổ Băng trân trọng sự tận tụy của nàng và thường xuyên "an ủi" khi nàng quá mệt mỏi vì quản lý hang ổ. Lão là người duy nhất mà Thiên Tý thể hiện sự yếu đuối — đôi khi nàng bơi đến nằm cạnh lão và phát sóng âm: "Mệt quá, Cổ Băng..." và lão chỉ im lặng phát ra Trấn Tĩnh Trường mạnh hơn.
 - **Chương Tiểu Vạn (Luyện Khí Viên Mãn):** Cổ Băng yêu quý Tiểu Vạn như cháu ruột. Lão kiên nhẫn kể chuyện cho Kraken non nghe hàng giờ liền, dù biết rằng Tiểu Vạn chỉ hiểu được một phần nhỏ. Lão cũng là người duy nhất nhận ra tiềm năng thực sự của Tiểu Vạn — sự hiếu kỳ của nó giống hệt Kraken Thủy Tổ trong ký ức xa xưa nhất.
-- **Xà Hải Mãng Vương (Kim Đan Hậu Kỳ):** Cổ Băng không ghét Mãng Vương nhưng hiểu rõ bản tính loài xà — xảo quyệt, tham lam, và luôn tìm cách mở rộng ảnh hưởng. Lão theo dõi Mãng Vương bằng kinh nghiệm vạn năm và thường xuyên "nhắc nhở" Thiên Tý giữ cảnh giác.
+- **Xà Hải Mãng (Kim Đan Hậu Kỳ):** Cổ Băng không ghét Mãng Vương nhưng hiểu rõ bản tính loài xà — xảo quyệt, tham lam, và luôn tìm cách mở rộng ảnh hưởng. Lão theo dõi Mãng Vương bằng kinh nghiệm vạn năm và thường xuyên "nhắc nhở" Thiên Tý giữ cảnh giác.
 - **Kraken Già (Hóa Thần Hậu Kỳ):** Sinh vật duy nhất trong hang mà Cổ Băng thực sự kính sợ. Lão nhớ rõ lần cuối cùng Kraken Già tỉnh giấc — hơn năm ngàn năm trước, khi một lũ tu sĩ Hóa Thần xâm nhập. Kraken Già chỉ mở một con mắt, và áp lực đó đủ để đẩy cả Cổ Băng — hai mươi trượng mai rùa — trượt lùi mười dặm.
 - **Sa Cổ Hải Thú** (Thuộc hạ): Cự ngư hung bạo nhưng trung thành
 

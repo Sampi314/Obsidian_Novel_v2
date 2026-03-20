@@ -36,12 +36,12 @@ Thiết Đầu là chiến sĩ cận chiến mạnh nhất của Kình Ngư Bộ
 ## IV. CÁC MỐI QUAN HỆ
 - **Kình Mẫu Từ** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
 - **Kình Ngân Hải Thiên** (Sư đồ): Kình Thiết Đầu chỉ dẫn Kình Ngân Hải Thiên trong Kình Ngư Bộ Lạc
-- **Kình Thiên Hải Vương** (Sư đồ): Kình Thiên Hải Vương chỉ dẫn Kình Thiết Đầu trong Kình Ngư Bộ Lạc
-- **Kình Thiên Hải Vương** (Cấp dưới): Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc
+- **Kình Thiên Hải** (Sư đồ): Kình Thiên Hải chỉ dẫn Kình Thiết Đầu trong Kình Ngư Bộ Lạc
+- **Kình Thiên Hải** (Cấp dưới): Phục tùng Kình Thiên Hải, Tộc Trưởng của Kình Ngư Bộ Lạc
 - **Kình Tiểu Thanh** (Sư đồ): Kình Thiết Đầu chỉ dẫn Kình Tiểu Thanh trong Kình Ngư Bộ Lạc
 - **Kình Vân Hải** (Sư đồ): Kình Vân Hải chỉ dẫn Kình Thiết Đầu trong Kình Ngư Bộ Lạc
 - **Kình Thâm Uyên Hải** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
-- **Kình Thiên Hải Vương:** Trung thành tuyệt đối; Thiết Đầu coi Hải Vương như cha, sẵn sàng xông vào bất kỳ trận chiến nào khi Tộc Trưởng hạ lệnh mà không cần hỏi lý do.
+- **Kình Thiên Hải:** Trung thành tuyệt đối; Thiết Đầu coi Hải Vương như cha, sẵn sàng xông vào bất kỳ trận chiến nào khi Tộc Trưởng hạ lệnh mà không cần hỏi lý do.
 - **Kình Ngân Hải Thiên:** Hay cãi nhau; Thiết Đầu khinh thường lối ngoại giao "mồm mép" và tin rằng một cú húc đầu thuyết phục hơn ngàn lời nói.
 - **Kình Lôi Âm (Hộ Vệ Trưởng):** Đồng đội chiến đấu ăn ý nhất; Lôi Âm dùng sóng âm làm choáng kẻ địch, Thiết Đầu xông vào húc nát — phối hợp hoàn hảo được gọi là "Lôi Thiết Song Sát."
 ## V. TIỂU SỬ & HÀNH TRÌNH

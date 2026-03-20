@@ -41,7 +41,7 @@ Chuyên môn chiến đấu của nàng không nằm ở khả năng sát thươ
 - **Mộng Hàn Yên** (Đồng minh): Dược Sư cung cấp dược liệu chuyên dụng cho các ca tịnh hóa thần thức phức tạp
 - **Nguyệt Ảnh Hồ** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
 - **Sương Vũ Nữ** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
-- **Thủy Linh Nhi** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
+- **Thủy Băng Nhi** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vốn là một Hải Yêu sinh ra từ rạn san hô ngàn năm tuổi dưới đáy Bắc Băng, Băng San Hô sớm bộc lộ thiên phú về việc kết tinh linh khí thủy hệ thành các loại dược liệu quý hiếm. Nàng được Phiêu Miễu Băng Hải phát hiện, thu nhận và đào tạo để trở thành Dược Sư Biển Băng chủ lực của Thủy Hoa Viện. Hiện tại, hành trình của nàng xoay quanh việc tìm kiếm những linh hồn biển sâu thuần khiết nhất để hoàn thiện "Tĩnh Tâm Tiên Lộ" - một loại thánh dược có khả năng xóa bỏ những tâm ma dai dẳng nhất. Thông qua việc điều trị tâm ma cho các cường giả khắp nơi, nàng đóng vai trò then chốt trong việc duy trì mạng lưới tình báo và tài chính của tông môn.

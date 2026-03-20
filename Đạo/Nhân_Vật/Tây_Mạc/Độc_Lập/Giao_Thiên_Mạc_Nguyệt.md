@@ -35,7 +35,7 @@ Giao Thiên Mạc Nguyệt sở hữu khả năng ngưng tụ thủy linh khí h
 
 ## IV. CÁC MỐI QUAN HỆ
 - **Ngư Sa Hà (魚沙河):** Đối tác làm ăn thường xuyên, dựa vào khả năng dẫn đường của hắn để vận chuyển trân châu và thủy sản qua sông ngầm.
-- **Sa Cát Vương (鯊渴王):** Kẻ thù không đội trời chung, thường xuyên bị hắn cướp bóc các chuyến hàng trên những tuyến đường sa mạc nguy hiểm.
+- **Sa Cát Liệt (鯊渴王):** Kẻ thù không đội trời chung, thường xuyên bị hắn cướp bóc các chuyến hàng trên những tuyến đường sa mạc nguy hiểm.
 - **Phạm Thương Đạo (范商道):** Một trong những khách hàng lớn mạnh nhất của nàng tại Thiên Sa Thương Hội, chuyên thu mua Hải Châu Cực Phẩm.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH

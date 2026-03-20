@@ -45,7 +45,7 @@ Chuyên gia trị liệu của Bào Tử Mật Lâm Tộc, tinh thông y thuật
 ## IV. CÁC MỐI QUAN HỆ
 - **Bào Hồng Tán** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
 - **Bào Hồng Tán** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Bào Hồng Tán
-- **Bào Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Độc Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Hắc Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Lục Quang Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Thâm Thổ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc

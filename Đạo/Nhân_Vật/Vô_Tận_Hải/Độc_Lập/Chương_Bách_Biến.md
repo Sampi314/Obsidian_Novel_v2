@@ -35,7 +35,7 @@ Một tộc nhân thuộc chi Bạch Tuộc với khả năng thay đổi màu d
 
 ## IV. CÁC MỐI QUAN HỆ
 - **Giao Thiên Vạn Hải** (Sư đồ): Giao Thiên Vạn Hải chỉ dẫn Chương Bách Biến trong Độc Lập
-- **Giải Cổ Giáp Vương** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau
+- **Giải Cổ Giáp** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau
 - **Hà Phong Vân Hải** (Sư đồ): Chương Bách Biến chỉ dẫn Hà Phong Vân Hải trong Độc Lập
 - **Hải Thiên Thương** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau
 - **Phong Tín Nhi:** Đối thủ cạnh tranh đáng gờm trong giới tình báo, cả hai thường xuyên có những cuộc đấu trí ngầm để chiếm lĩnh các nguồn tin quan trọng.

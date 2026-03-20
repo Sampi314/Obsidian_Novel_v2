@@ -152,7 +152,7 @@
 - [Quy Cổ Băng (龜古冰)](Bắc_Hải_Cự_Yêu_Hang/Quy_Cổ_Băng.md)
 - [Sa Cổ Hải Thú (鯊古海獸)](Bắc_Hải_Cự_Yêu_Hang/Sa_Cổ_Hải_Thú.md)
 - [Sa Hàn Cổ Thiên (鯊寒古天)](Bắc_Hải_Cự_Yêu_Hang/Sa_Hàn_Cổ_Thiên.md)
-- [Xà Hải Mãng Vương (蛇海蟒王)](Bắc_Hải_Cự_Yêu_Hang/Xà_Hải_Mãng_Vương.md)
+- [Xà Hải Mãng (蛇海蟒王)](Bắc_Hải_Cự_Yêu_Hang/Xà_Hải_Mãng.md)
 
 ## Bắc Phong Thông Tín Trạm (北风通信站) — 1
 
@@ -242,7 +242,7 @@
 - [Trùng Băng Châm (蟲冰針)](Hàn_Độc_Vi_Trùng_Đoàn/Trùng_Băng_Châm.md)
 - [Trùng Bạch Lân (蟲白鱗)](Hàn_Độc_Vi_Trùng_Đoàn/Trùng_Bạch_Lân.md)
 - [Trùng Hàn Cốt (蟲寒骨)](Hàn_Độc_Vi_Trùng_Đoàn/Trùng_Hàn_Cốt.md)
-- [Trùng Hàn Độc Vương (蟲寒毒王)](Hàn_Độc_Vi_Trùng_Đoàn/Trùng_Hàn_Độc_Vương.md)
+- [Trùng Hàn Độc (蟲寒毒王)](Hàn_Độc_Vi_Trùng_Đoàn/Trùng_Hàn_Độc.md)
 - [Trùng Lãnh Diễm (蟲冷焰)](Hàn_Độc_Vi_Trùng_Đoàn/Trùng_Lãnh_Diễm.md)
 - [Trùng Ngưng Huyết (蟲凝血)](Hàn_Độc_Vi_Trùng_Đoàn/Trùng_Ngưng_Huyết.md)
 - [Trùng Sương Ẩn (蟲霜隱)](Hàn_Độc_Vi_Trùng_Đoàn/Trùng_Sương_Ẩn.md)
@@ -288,7 +288,7 @@
 - [Mộng Hàn Yên (梦寒烟)](Phiêu_Miễu_Băng_Hải/Mộng_Hàn_Yên.md)
 - [Nguyệt Ảnh Hồ (月影湖)](Phiêu_Miễu_Băng_Hải/Nguyệt_Ảnh_Hồ.md)
 - [Sương Vũ Nữ (霜舞女)](Phiêu_Miễu_Băng_Hải/Sương_Vũ_Nữ.md)
-- [Thủy Linh Nhi (水灵儿)](Phiêu_Miễu_Băng_Hải/Thủy_Linh_Nhi.md)
+- [Thủy Băng Nhi (水灵儿)](Phiêu_Miễu_Băng_Hải/Thủy_Băng_Nhi.md)
 - [Thủy Nguyệt Tiên (水月仙)](Phiêu_Miễu_Băng_Hải/Thủy_Nguyệt_Tiên.md)
 
 ## Phong Vũ Trinh Sát Đội (风雨侦察队) — 4

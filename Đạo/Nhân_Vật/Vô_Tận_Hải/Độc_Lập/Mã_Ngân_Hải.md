@@ -35,7 +35,7 @@ Một tộc nhân thuộc chi Hải Mã với vẻ ngoài lãng tử, mái tóc 
 
 ## IV. CÁC MỐI QUAN HỆ
 - **Giao Thiên Vạn Hải** (Sư đồ): Giao Thiên Vạn Hải chỉ dẫn Mã Ngân Hải trong Độc Lập
-- **Giải Cổ Giáp Vương** (Sư đồ): Giải Cổ Giáp Vương chỉ dẫn Mã Ngân Hải trong Độc Lập
+- **Giải Cổ Giáp** (Sư đồ): Giải Cổ Giáp chỉ dẫn Mã Ngân Hải trong Độc Lập
 - **Hà Phong Vân Hải** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau
 - **Hải Thiên Thương** (Sư đồ): Hải Thiên Thương chỉ dẫn Mã Ngân Hải trong Độc Lập
 - **Mẫu Phiêu Lưu** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau

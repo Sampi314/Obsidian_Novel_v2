@@ -40,7 +40,7 @@ Thành viên của Nấm Linh Mạng Lưới, tu luyện công pháp đặc trư
 - **Nấm Cộng Sinh Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
 - **Nấm Hắc Thổ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
 - **Nấm Thâm Căn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
-- **Nấm Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Độc Tâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
 - **Nấm Hồng Tán** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
 - **Nấm Nguyệt Quang** (Đồng minh): Phát Quang Sư và Dạ Quang Sư, đồng nghiệp
 ## V. TIỂU SỬ & HÀNH TRÌNH

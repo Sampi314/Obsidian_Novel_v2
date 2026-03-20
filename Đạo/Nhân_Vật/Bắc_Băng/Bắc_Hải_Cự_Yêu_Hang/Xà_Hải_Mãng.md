@@ -1,7 +1,7 @@
 ---
 type: character
-name: Xà Hải Mãng Vương
-hantu: 蛇海蟒王
+name: Xà Hải Mãng
+hantu: 蛇海蟒
 archetype: Hải Xà Vương
 race: Hải Tộc
 origin: Bắc Băng
@@ -80,10 +80,10 @@ arcs:
           on: 0
 ---
 
-# HỒ SƠ NHÂN VẬT: XÀ HẢI MÃNG VƯƠNG (蛇海蟒王)
+# HỒ SƠ NHÂN VẬT: XÀ HẢI MÃNG (蛇海蟒)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Họ Tên:** Xà Hải Mãng Vương (蛇海蟒王).
+- **Họ Tên:** Xà Hải Mãng (蛇海蟒).
 - **Danh Xưng:** "Hải Mãng Thiên Trượng" (海蟒千丈), "Vương Xà Bắc Hải" (北海蛇王).
 - **Tuổi:** Khoảng 5.000 tuổi. Đối với Hải Xà Tinh, đây là giai đoạn chín muồi nhất — sức mạnh đạt đỉnh cao, trí tuệ và mưu lược ở mức sắc bén nhất.
 - **Giới Tính:** Đực (xác định qua tần số sóng âm giao phối đặc trưng).
@@ -96,7 +96,7 @@ arcs:
 ## II. NGOẠI HÌNH & KHÍ CHẤT
 
 ### Dung Mạo
-Xà Hải Mãng Vương là một con rắn biển khổng lồ dài hơn ngàn trượng — khi cuộn tròn, hắn chiếm trọn một khoang hang lớn; khi duỗi thẳng, hắn kéo dài từ cửa hang ra tận vùng biển băng trôi. Thân hình tròn đều, đường kính rộng nhất ngang một con sông nhỏ, phủ kín vảy xà đặc biệt.
+Xà Hải Mãng là một con rắn biển khổng lồ dài hơn ngàn trượng — khi cuộn tròn, hắn chiếm trọn một khoang hang lớn; khi duỗi thẳng, hắn kéo dài từ cửa hang ra tận vùng biển băng trôi. Thân hình tròn đều, đường kính rộng nhất ngang một con sông nhỏ, phủ kín vảy xà đặc biệt.
 
 Vảy của Mãng Vương không đơn sắc — mỗi chiếc vảy có năm lớp màu xếp chồng lên nhau: đen ở gốc, xanh đen ở giữa, xanh lục, xanh ngọc, và lớp ngoài cùng trắng bạc phản quang. Khi hắn di chuyển, vảy gợn sóng tạo ra hiệu ứng như cực quang chạy dọc thân — đẹp đến mức mê hoặc, nhưng đó chính là bẫy. Bất kỳ sinh vật nào nhìn chăm chú vào "cực quang vảy xà" quá lâu sẽ bị thôi miên, mất khả năng phản ứng.
 
@@ -121,7 +121,7 @@ Nham hiểm, mê hoặc, và cực kỳ nguy hiểm. Mãng Vương không tỏa 
 **"Mãng Xà Thoát Xác, Hóa Giao Thăng Thiên"** (蟒蛇蛻皮，化蛟升天) — Mãng xà lột da, hóa Giao Long lên trời. Mãng Vương tin rằng số mệnh của hắn là tiến hóa — từ mãng xà thành Giao Long, từ Giao Long thành Chân Long. Dòng máu Giao Long loãng trong huyết quản là "hạt giống", và hắn dành cả đời tìm cách kích hoạt nó. Đạo tâm này mãnh liệt nhưng mang trong mình mầm họa — vì khát khao hóa Giao quá lớn, hắn sẵn sàng làm những điều cực đoan để đạt mục đích.
 
 ## IV. LỊCH SỬ & XUẤT THÂN
-Xà Hải Mãng Vương sinh ra trong vùng Vô Tận Hải sâu thẳm, nơi ánh sáng không bao giờ chạm tới. Hắn là con đầu đàn của một ổ xà tinh gồm hàng trăm con — và cũng là con duy nhất mang dấu vết huyết mạch Giao Long. Dấu vết này thể hiện qua chiếc Vương Lân trên đầu — một đột biến hiếm gặp trong mười vạn con xà tinh.
+Xà Hải Mãng sinh ra trong vùng Vô Tận Hải sâu thẳm, nơi ánh sáng không bao giờ chạm tới. Hắn là con đầu đàn của một ổ xà tinh gồm hàng trăm con — và cũng là con duy nhất mang dấu vết huyết mạch Giao Long. Dấu vết này thể hiện qua chiếc Vương Lân trên đầu — một đột biến hiếm gặp trong mười vạn con xà tinh.
 
 Thời trẻ, Mãng Vương sống trong lãnh thổ thuộc ảnh hưởng xa của Long Cung. Hắn từng cố tiếp cận Long Cung để xin nhận dòng máu Giao Long chính thống, nhưng bị Long Tộc khinh bỉ đuổi đi — trong mắt Chân Long, một con mãng xà có chút máu Giao Long loãng chỉ là "phế phẩm". Sự sỉ nhục đó khắc sâu vào xương cốt Mãng Vương, trở thành động lực xuyên suốt cuộc đời: hắn sẽ chứng minh rằng mãng xà có thể hóa Giao mà không cần Long Tộc ban phước.
 
@@ -146,7 +146,7 @@ Hiện tại, Mãng Vương kiểm soát một phần đáng kể hang ổ — k
 - **Chương Tiểu Vạn** (Đồng minh): Kraken non phiền phức, nhưng không dám động đến
 
 ## VII. GIAI THOẠI
-Trong vùng biển Bắc Băng, thuỷ thủ kể về "Cực Quang Dưới Biển" — hiện tượng ánh sáng rực rỡ bùng lên từ đáy biển, đẹp đẽ đến mức mê hồn. Những kẻ dại dột cúi nhìn sẽ không thể rời mắt, và thuyền của họ từ từ trôi vào vùng biển cấm. Không ai sống sót để xác nhận, nhưng những thủy thủ lão luyện biết rằng "Cực Quang Dưới Biển" chính là Xà Hải Mãng Vương đang săn mồi.
+Trong vùng biển Bắc Băng, thuỷ thủ kể về "Cực Quang Dưới Biển" — hiện tượng ánh sáng rực rỡ bùng lên từ đáy biển, đẹp đẽ đến mức mê hồn. Những kẻ dại dột cúi nhìn sẽ không thể rời mắt, và thuyền của họ từ từ trôi vào vùng biển cấm. Không ai sống sót để xác nhận, nhưng những thủy thủ lão luyện biết rằng "Cực Quang Dưới Biển" chính là Xà Hải Mãng đang săn mồi.
 
 Có một bí mật mà chỉ Quy Cổ Băng biết: chiếc Vương Lân trên đầu Mãng Vương không hoàn toàn là đột biến tự nhiên. Trong ký ức vạn năm, Cổ Băng từng thấy một con Giao Long bị thương rơi xuống vùng biển sâu Vô Tận Hải — đúng thời điểm và địa điểm mà mẹ Mãng Vương đẻ trứng. Máu Giao Long hòa vào nước biển, thấm qua vỏ trứng, và đó là nguồn gốc thực sự của huyết mạch Giao Long trong Mãng Vương. Cổ Băng không nói ra vì biết rằng sự thật này — huyết mạch đến từ "tai nạn" chứ không phải "thiên mệnh" — sẽ phá hủy đạo tâm của Mãng Vương.
 

@@ -41,7 +41,7 @@ Thành viên của Nấm Linh Mạng Lưới, tu luyện công pháp đặc trư
 - **Nấm Hắc Thổ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Nấm Linh Mạng Lưới
 - **Nấm Linh Quang** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Nấm Linh Mạng Lưới
 - **Nấm Thâm Căn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Nấm Linh Mạng Lưới
-- **Nấm Độc Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Nấm Linh Mạng Lưới
+- **Nấm Độc Tâm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Nấm Linh Mạng Lưới
 - **Nấm Hồng Tán** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Nấm Linh Mạng Lưới
 - **Nấm Nguyệt Quang** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Nấm Linh Mạng Lưới
 - **Nấm Ngọc Tán** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Nấm Linh Mạng Lưới
@@ -55,7 +55,7 @@ Thành viên của Nấm Linh Mạng Lưới, tu luyện công pháp đặc trư
 - **Nấm Hắc Thổ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nấm Thiên Căn
 - **Nấm Linh Quang** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nấm Thiên Căn
 - **Nấm Thâm Căn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nấm Thiên Căn
-- **Nấm Độc Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nấm Thiên Căn
+- **Nấm Độc Tâm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nấm Thiên Căn
 - **Nấm Hồng Tán** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nấm Thiên Căn
 - **Nấm Nguyệt Quang** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nấm Thiên Căn
 - **Nấm Ngọc Tán** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nấm Thiên Căn

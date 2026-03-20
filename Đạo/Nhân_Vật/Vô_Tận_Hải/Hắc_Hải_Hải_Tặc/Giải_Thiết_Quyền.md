@@ -35,12 +35,12 @@ Bậc thầy võ thuật cận chiến dưới nước, chuyên sử dụng đô
 
 ## IV. CÁC MỐI QUAN HỆ
 - **Giải Cự Kìm** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
-- **Giải Thiên Giáp Vương** (Sư đồ): Giải Thiên Giáp Vương chỉ dẫn Giải Thiết Quyền trong Hắc Hải Hải Tặc
+- **Giải Thiên Giáp** (Sư đồ): Giải Thiên Giáp chỉ dẫn Giải Thiết Quyền trong Hắc Hải Hải Tặc
 - **Sa Huyết Đao** (Chủ tớ): Thủ hạ trung thành trong Hắc Hải Hải Tặc
 - **Sa Huyết Đao** (Cấp dưới): Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc
 - **Hà Phong Nhận** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
 - **Hà Thiên Đao** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
-- **Giải Thiên Giáp Vương:** Vị vương mà hắn nể phục vì lớp giáp bất khả xâm phạm, thường xuyên thách đấu để tìm cách phá giải phòng ngự của ông.
+- **Giải Thiên Giáp:** Vị vương mà hắn nể phục vì lớp giáp bất khả xâm phạm, thường xuyên thách đấu để tìm cách phá giải phòng ngự của ông.
 - **Giải Cự Kìm:** Người huynh đệ thân thiết, cả hai thường cùng nhau "quậy tưng bừng" tại các sàn đấu chọi trên Đảo Xương Sọ.
 - **Sa Cuồng Nha:** Đối thủ truyền kiếp trên đấu trường hải tặc, cả hai luôn tìm cách khẳng định xem "răng cá mập" hay "nắm đấm cua" mạnh hơn.
 ## V. TIỂU SỬ & HÀNH TRÌNH

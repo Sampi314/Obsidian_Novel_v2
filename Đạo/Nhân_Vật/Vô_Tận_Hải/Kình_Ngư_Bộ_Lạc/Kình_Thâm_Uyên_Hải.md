@@ -35,8 +35,8 @@ Lặn sâu nhất, biết đường đến vực thẳm
 
 ## IV. CÁC MỐI QUAN HỆ
 - **Kình Ngân Hải Thiên** (Sư đồ): Kình Thâm Uyên Hải chỉ dẫn Kình Ngân Hải Thiên trong Kình Ngư Bộ Lạc
-- **Kình Thiên Hải Vương** (Chủ tớ): Thủ hạ trung thành trong Kình Ngư Bộ Lạc
-- **Kình Thiên Hải Vương** (Cấp dưới): Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc
+- **Kình Thiên Hải** (Chủ tớ): Thủ hạ trung thành trong Kình Ngư Bộ Lạc
+- **Kình Thiên Hải** (Cấp dưới): Phục tùng Kình Thiên Hải, Tộc Trưởng của Kình Ngư Bộ Lạc
 - **Kình Thiết Đầu** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
 - **Kình Tiểu Thanh** (Sư đồ): Kình Thâm Uyên Hải chỉ dẫn Kình Tiểu Thanh trong Kình Ngư Bộ Lạc
 ## V. TIỂU SỬ & HÀNH TRÌNH

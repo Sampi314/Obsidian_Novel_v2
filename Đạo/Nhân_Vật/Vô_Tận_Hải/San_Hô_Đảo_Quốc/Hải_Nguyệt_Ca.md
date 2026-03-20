@@ -47,8 +47,8 @@ Là Viện Chủ Linh Ca Viện, Hải Nguyệt Ca đạt đến cảnh giới t
 - **Thủy Tinh** (Đồng minh): Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau
 - **Triều Bích Hải** (Chủ tớ): Thủ hạ trung thành trong San Hô Đảo Quốc
 - **Triều Bích Hải** (Cấp dưới): Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc
-- **Triều Thiên Vệ** (Chủ tớ): Thủ hạ trung thành trong San Hô Đảo Quốc
-- **Triều Thiên Vệ** (Cấp dưới): Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc
+- **Triều Thiên Phong** (Chủ tớ): Thủ hạ trung thành trong San Hô Đảo Quốc
+- **Triều Thiên Phong** (Cấp dưới): Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc
 - **Hải Vân Dao:** Đệ tử chân truyền và cũng là Đại Sư Linh Ca mà nàng tin tưởng nhất, người kế thừa hoàn hảo những khúc ca trị liệu của nàng.
 - **Ngư Thiên Ca:** Đồng liêu trong San Hô Đảo Quốc, nàng đánh giá cao tài năng huyễn thuật của Thiên Ca nhưng đôi khi nhắc nhở hắn về sự điềm đạm.
 - **Hải Tiểu Loa:** Có phần bao dung và ưu ái với đôi tay điêu khắc tài hoa của Hải Tiểu Loa, thường đích thân ban phước cho những nhạc cụ mà cô bé tạo ra.

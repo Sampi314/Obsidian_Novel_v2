@@ -72,7 +72,7 @@ Tu luyện *Phong Bào Thiên Lý Thuật* (風孢千里術) — pháp môn cho 
 - **Bào Hắc Lâm** (Đồng minh): Trinh sát, đồng đội thường xuyên phối hợp — Hắc Lâm dò đường, Thiên Phong phát tán bào tử theo hướng an toàn
 - **Bào Huyết Tịnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Tịnh Hóa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
-- **Bào Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Độc Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Vạn Căn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Bào Thiên Phong nảy mầm trên đỉnh một cây cổ thụ cao nhất khu vực, nơi gió lùa suốt ngày đêm, khác hẳn với phần lớn tộc nhân sống ở tầng đất ẩm tối tăm. Ngay từ nhỏ, hắn đã quen với gió và ánh sáng, phát triển khả năng cưỡi gió bẩm sinh mà không tộc nhân nào khác có. Hồng Tán nhận ra tiềm năng này, bổ nhiệm hắn làm Phát Tán Sư — người chịu trách nhiệm lan truyền bào tử, ký ức và thông tin đến mọi ngóc ngách của thảm nấm.

@@ -34,8 +34,8 @@ Phấn hoa pha sương ngọc, linh dược bậc thượng
 Chuyên gia trị liệu của Bụi Phấn Hội, tinh thông y thuật và dược lý. Chiêu thức 粉玉露·Hồi Xuân Thuật (粉玉露·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Phấn Hoàng Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bụi Phấn Hội
-- **Phấn Hoàng Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phấn Hoàng Vương
+- **Phấn Hoàng Linh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bụi Phấn Hội
+- **Phấn Hoàng Linh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phấn Hoàng Linh
 - **Bích Dực Nhi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bụi Phấn Hội
 - **Phấn Hỏa Liên Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bụi Phấn Hội
 - **Phấn Hồng Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bụi Phấn Hội

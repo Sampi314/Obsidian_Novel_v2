@@ -71,7 +71,7 @@ Tu luyện *Lục Quang Chiếu Dạ Thuật* (綠光照夜術) — thuật phá
 - **Bào Hồng Tán** (Gia đình): Tộc Trưởng, người đã giao cho nàng nhiệm vụ soi sáng con đường cho cả tộc
 - **Bào Hắc Lâm** (Đồng minh): Đối tác trinh sát, một sáng một tối, nhau như hai mặt của đồng tiền
 - **Bào Tịnh Hóa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
-- **Bào Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Độc Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Ngọc Quang** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Thâm Thổ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 ## V. TIỂU SỬ & HÀNH TRÌNH
