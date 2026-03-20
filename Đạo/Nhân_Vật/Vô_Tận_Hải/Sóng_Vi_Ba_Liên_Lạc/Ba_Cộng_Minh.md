@@ -32,10 +32,17 @@ Giống như mọi Vi Ba Linh khác, cơ thể Ba Cộng Minh là một chấm s
 Ba Cộng Minh không tham gia chiến đấu vật lý, năng lực của y nằm ở việc thao túng và phân tích vi sóng tình báo. Y sở hữu "Đồng Bộ Giải Mã" (同步解碼), kỹ năng có thể cộng hưởng với bất kỳ vi sóng nào đi qua để bóc tách các lớp ngụy trang hay mã hóa mà không làm suy giảm tín hiệu gốc. Y là thiên địch của những trận pháp truyền tin phức tạp, có khả năng giải mã cả những thông điệp tối mật mà Hải Thần Cung hay Hắc Hải Hải Tặc truyền qua mạng lưới dưới dạng tần số dị thường.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Ba Thanh Tần** (Đồng minh): Giải mã sư, đối thủ và đồng minh — Cộng Minh phá mã, Thanh Tần tạo mã, hai bên thường xuyên thử sức
+- **Ba Vạn Lý** (Đồng minh): Giải mã sư, đồng sự tình báo giúp Ba Vạn Lý nắm bắt mọi luồng thông tin trên đại dương
+- **Ba Hải Vọng** (Sư đồ): Ba Cộng Minh dẫn dắt Ba Hải Vọng trong Sóng Vi Ba Liên Lạc
+- **Ba Linh Thoại** (Đồng minh): Đồng liêu cùng Sóng Vi Ba Liên Lạc
+- **Ba Ngân Hà** (Sư đồ): Ba Cộng Minh dẫn dắt Ba Ngân Hà trong Sóng Vi Ba Liên Lạc
+- **Ba Âm Hưởng** (Đồng minh): Đồng liêu cùng Sóng Vi Ba Liên Lạc
+- **Ba Tiểu Sóng** (Đồng minh): Đồng liêu cùng Sóng Vi Ba Liên Lạc, hỗ trợ lẫn nhau
+- **Ba Trầm Lặng** (Đồng minh): Đồng liêu cùng Sóng Vi Ba Liên Lạc, hỗ trợ lẫn nhau
 - **Ba Mẫu:** Tôn kính nhưng luôn cố gắng phân tích một phần "Kho Tín Hiệu của Ba Mẫu", hy vọng có ngày đủ sức giải mã những mảnh ký ức thượng cổ đang được lưu trữ.
 - **Ba Hải Vọng:** Là đồng sự ăn ý. Hải Vọng phát hiện tín hiệu bất thường, Cộng Minh sẽ chịu trách nhiệm bóc tách và giải mã chúng.
 - **Ba Linh Thoại:** Thường xuyên trao đổi với Linh Thoại để nhờ dịch những ngôn ngữ cổ xưa ẩn trong các đoạn vi sóng đã giải mã được.
 - **Hắc Hải Hải Tặc (Hắc Ngạo Thiên):** Kẻ thù vô hình. Cộng Minh thường xuyên giải mã những thông điệp phục kích của hải tặc và bí mật phát chúng dưới dạng vi sóng công khai để phá hỏng kế hoạch của chúng.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ban đầu, Ba Cộng Minh chỉ là một Vi Ba Linh bình thường ở tầng nước sâu, cho đến khi y tình cờ đi qua một mảnh ngọc giản thượng cổ trôi dạt mang theo những dao động cực kỳ phức tạp. Việc cố gắng sao chép lại dao động đó đã mở ra khả năng "cộng hưởng phân tích" của y. Hiện tại, y đang tự coi mình là "người phân loại" của mạng lưới, âm thầm chọn lọc, giải mã và đôi khi can thiệp vào các thông tin tình báo của các thế lực lớn truyền qua Sóng Vi Ba Liên Lạc, với mục tiêu cuối cùng là giải mã bí ẩn lớn nhất — nguồn gốc thật sự của mạng lưới Vi Ba Linh và nội dung của Kho Tín Hiệu Ba Mẫu.
