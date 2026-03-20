@@ -51,6 +51,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Phong Thiên Châm
+        description: Thích Khách, đồng nghiệp cạnh tranh thành tích ám sát, hai người không ưa nhau
+        feelings:
+          yeu: 0
+          han: 20
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẮC DẠ (黑夜)

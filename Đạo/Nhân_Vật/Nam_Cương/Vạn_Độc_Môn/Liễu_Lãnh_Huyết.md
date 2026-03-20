@@ -51,6 +51,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Hắc Dạ
+        description: Tứ Sát, thuộc hạ trầm lặng nhận lệnh trực tiếp
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LIỄU LÃNH HUYẾT (柳冷血)
