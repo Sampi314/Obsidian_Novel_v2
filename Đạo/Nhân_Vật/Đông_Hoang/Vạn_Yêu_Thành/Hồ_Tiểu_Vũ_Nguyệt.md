@@ -34,11 +34,11 @@ Hồ Tiểu Vũ Nguyệt mang nhân hình một thiếu nữ trẻ đẹp mong m
 Đạt cảnh giới Trúc Cơ Hậu Kỳ, Hồ Tiểu Vũ Nguyệt tu luyện "Nguyệt Vũ Ám Sát Quyết" (月舞暗杀诀) — ẩn giấu sát chiêu trong điệu múa, mỗi động tác đều là một chiêu thức chết người mà khán giả không hề nhận ra. Tuyệt kỹ "Vũ Nguyệt Thiên Châm" (舞月千针) phóng ra ngàn kim bạc từ tay áo múa, xuyên thấu mục tiêu trước khi bản nhạc kết thúc. Điểm mạnh là kết hợp hoàn hảo nghệ thuật và sát thuật, khó phòng bị, nhược điểm là tu vi thấp nên chỉ hiệu quả khi bất ngờ, chiến đấu trực diện gần như không thể.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
-- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hổ Huyết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Nha
 - **Hồ Ngọc Nhan** (Thuộc hạ): Kỹ Viện Chủ quản lý Vũ Nương
-- **Mãng Lục Vương** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Yêu Thành
-- **Hùng Ngân Vương** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Yêu Thành
+- **Mãng Lục Trường** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Yêu Thành
+- **Hùng Ngân Lôi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Yêu Thành
 - **Trư Đại Phúc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Viên Thiên Lý Nhãn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Điêu Hương Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành

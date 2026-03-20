@@ -28,7 +28,7 @@ arcs:
 - **Chức Vụ:** Hổ Con Đặc Biệt.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Hổ Bạch Văn là một tiểu hổ yêu với thân hình rắn rỏi, tuy nhỏ bé nhưng toát lên vẻ lanh lẹ khác thường. Bộ lông của hắn vốn mang màu vàng úa như đồng loại, nhưng nếu nhìn kỹ dưới ánh sáng mờ ảo, có thể thấy những vằn trắng lấp lánh ẩn hiện - minh chứng cho huyết mạch cổ xưa đang say ngủ. Tính cách của hắn là sự pha trộn giữa vẻ tinh nghịch, hiếu động của một ấu sinh với sự cẩn trọng, cảnh giác lạ thường, luôn biết cách che giấu bản thân trước cái nhìn dò xét của Huyết Hổ Vương.
+Hổ Bạch Văn là một tiểu hổ yêu với thân hình rắn rỏi, tuy nhỏ bé nhưng toát lên vẻ lanh lẹ khác thường. Bộ lông của hắn vốn mang màu vàng úa như đồng loại, nhưng nếu nhìn kỹ dưới ánh sáng mờ ảo, có thể thấy những vằn trắng lấp lánh ẩn hiện - minh chứng cho huyết mạch cổ xưa đang say ngủ. Tính cách của hắn là sự pha trộn giữa vẻ tinh nghịch, hiếu động của một ấu sinh với sự cẩn trọng, cảnh giác lạ thường, luôn biết cách che giấu bản thân trước cái nhìn dò xét của Huyết Hổ Nha.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
 - **Huyết Mạch Bạch Hổ (Thiên Phú):** Huyết mạch cổ xưa giúp hắn có thể chất vượt trội và tốc độ hồi phục kinh người dù chỉ ở Luyện Khí Viên Mãn.
@@ -38,7 +38,7 @@ Hổ Bạch Văn là một tiểu hổ yêu với thân hình rắn rỏi, tuy n
 ## IV. CÁC MỐI QUAN HỆ
 - **Hổ Hàn Lệ:** Mẹ ruột. Bạch Văn vô cùng yêu thương và luôn cố gắng tỏ ra ngoan ngoãn để mẹ không phải chịu đòn roi thay mình. Hắn thề sẽ có ngày đưa mẹ thoát khỏi kiếp nô lệ.
 - **Hổ Nha Tam:** Người thầy thầm lặng. Quản Sự già hay lén lút chỉ dạy cho hắn cách sinh tồn và che giấu vằn trắng, đồng thời nung nấu ý chí phản kháng trong lòng tiểu hổ.
-- **Huyết Hổ Vương:** Kẻ thù tuyệt đối. Dù ngoài mặt quỳ phục, Bạch Văn luôn nhìn lên với ánh mắt rực cháy khao khát lật đổ sự thống trị tàn bạo này.
+- **Huyết Hổ Nha:** Kẻ thù tuyệt đối. Dù ngoài mặt quỳ phục, Bạch Văn luôn nhìn lên với ánh mắt rực cháy khao khát lật đổ sự thống trị tàn bạo này.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-Sinh ra trong hang sâu tối tăm của Huyết Hổ Hạ Chúng, Hổ Bạch Văn từ nhỏ đã mang theo vằn trắng đột biến - một dấu hiệu tử hình nếu bị Huyết Hổ Vương phát hiện. Mẹ hắn, Hổ Hàn Lệ, đã dùng bùn lầy và máu thú săn để che đậy bí mật này suốt nhiều năm. Quá trình lớn lên trong xiềng xích, chứng kiến đồng loại bị tàn sát vì không đủ cống nạp đã nung nấu trong Bạch Văn ý chí quật cường. Dưới sự bao bọc của mẹ và sự bảo ban ngầm của Hổ Nha Tam, Bạch Văn đang âm thầm tích lũy sức mạnh, chờ đợi khoảnh khắc huyết mạch cổ xưa hoàn toàn thức tỉnh để dẫn dắt Hạ Chúng vùng lên phá nát ngai vàng đẫm máu của Huyết Hổ Vương.
+Sinh ra trong hang sâu tối tăm của Huyết Hổ Hạ Chúng, Hổ Bạch Văn từ nhỏ đã mang theo vằn trắng đột biến - một dấu hiệu tử hình nếu bị Huyết Hổ Nha phát hiện. Mẹ hắn, Hổ Hàn Lệ, đã dùng bùn lầy và máu thú săn để che đậy bí mật này suốt nhiều năm. Quá trình lớn lên trong xiềng xích, chứng kiến đồng loại bị tàn sát vì không đủ cống nạp đã nung nấu trong Bạch Văn ý chí quật cường. Dưới sự bao bọc của mẹ và sự bảo ban ngầm của Hổ Nha Tam, Bạch Văn đang âm thầm tích lũy sức mạnh, chờ đợi khoảnh khắc huyết mạch cổ xưa hoàn toàn thức tỉnh để dẫn dắt Hạ Chúng vùng lên phá nát ngai vàng đẫm máu của Huyết Hổ Nha.

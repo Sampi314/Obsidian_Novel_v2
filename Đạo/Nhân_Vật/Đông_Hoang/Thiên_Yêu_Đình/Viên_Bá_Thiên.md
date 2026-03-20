@@ -39,7 +39,7 @@ Thánh Tướng Thứ Sáu với tu vi Nguyên Anh Sơ Kỳ, Viên Bá Thiên tu
 - **Hổ Bạch Nhãn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Lang Thiên Dạ Hành** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Mãng Ngàn Thu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
-- **Xà Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Xà Độc Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hùng Thiên Sơn Hống** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hổ Liệt Diễm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hồ Thiên Mị** (Đồng minh): Thánh Tướng Thứ Năm và Thứ Sáu, phối hợp chiến lược

@@ -26,7 +26,7 @@ arcs:
         type: Di Vật
     stats: [220, 100, 80, 30, 250, 60]
     relationships:
-      - character: Sa Cổ Vương
+      - character: Sa Cổ Liệt
         description: Tộc Trưởng mà y vừa kính vừa bất mãn vì đường lối ẩn cư
         feelings:
           yeu: 0
@@ -92,12 +92,12 @@ arcs:
 - **Tu Vi:** Kim Đan Sơ Kỳ (Tương đương — yêu đan đạt mức này đã hơn năm trăm năm nhưng không tiến bộ thêm do thiếu tài nguyên và công pháp hoàn chỉnh).
 - **Khu Vực:** Tây Mạc — Hoàng Kim Sa Hải, hệ thống hang cổ đại.
 - **Thế Lực:** Cổ Sa Yêu Tộc (古沙妖族).
-- **Chức Vụ:** Trưởng Lão — thành viên Hội Đồng Trưởng Lão, phụ trách quân sự và phòng thủ. Đồng thời là chiến sĩ mạnh nhất tộc ở thời điểm hiện tại (nếu không tính Sa Cổ Vương với tu vi cao hơn nhưng suy yếu vì tuổi tác).
+- **Chức Vụ:** Trưởng Lão — thành viên Hội Đồng Trưởng Lão, phụ trách quân sự và phòng thủ. Đồng thời là chiến sĩ mạnh nhất tộc ở thời điểm hiện tại (nếu không tính Sa Cổ Liệt với tu vi cao hơn nhưng suy yếu vì tuổi tác).
 - **Xuất Thân:** Sinh trong hang cổ từ dòng máu chiến sĩ Sa Yêu, huyết mạch chiến đấu mạnh nhưng huyết mạch cổ đại yếu — y là chiến binh thuần túy, không phải học giả hay gác cổng.
 
 ## II. NGOẠI HÌNH & KHÍ CHẤT
 - **Dung Mạo:**
-    - Hình dạng nửa người nửa thú rõ rệt hơn phần lớn tộc nhân cùng thế hệ — huyết mạch chiến sĩ khiến đặc tính thú bộc phát mạnh. Thân hình vạm vỡ, cao hơn đầu so với Thiên Phong, vai rộng, ngực nổi cơ cứng như sa thạch. Cánh tay dài, dày, phủ lớp vảy cát thô ráp màu nâu đỏ — khác với vảy vàng sẫm tinh tế của Sa Cổ Vương, vảy của Sa Bạo lởm chởm, sần sùi, nhìn như bề mặt đá ong bị gió sa mạc bào mòn.
+    - Hình dạng nửa người nửa thú rõ rệt hơn phần lớn tộc nhân cùng thế hệ — huyết mạch chiến sĩ khiến đặc tính thú bộc phát mạnh. Thân hình vạm vỡ, cao hơn đầu so với Thiên Phong, vai rộng, ngực nổi cơ cứng như sa thạch. Cánh tay dài, dày, phủ lớp vảy cát thô ráp màu nâu đỏ — khác với vảy vàng sẫm tinh tế của Sa Cổ Liệt, vảy của Sa Bạo lởm chởm, sần sùi, nhìn như bề mặt đá ong bị gió sa mạc bào mòn.
     - Khuôn mặt rộng, xương hàm bạnh, mũi tẹt — hoàn toàn không có nét thanh tú của Sa Yêu cổ đại. Mắt tròn lớn, đồng tử đỏ hồng như cát bị nắng nung — ánh mắt lúc nào cũng bùng cháy bất mãn, giận dữ, hoặc thiêu đốt. Miệng rộng, hai hàm răng nhọn to bản — khi y gầm lên, hàm răng ấy hiện ra dữ tợn như mõm thú.
     - Sừng yêu bên phải dài một gang tay, cong về sau, nhọn hoắt, màu đen bóng — sừng bên trái gãy mất nửa trong một lần tập luyện quá mức, chỗ gãy đã sần sẹo. Y coi vết gãy ấy là nỗi nhục: *"Gãy sừng trong hang luyện tập — không bằng gãy sừng ngoài chiến trường. Nhưng ta có được ra chiến trường đâu."*
     - Lưng rộng, dọc xương sống nổi một hàng gai xương nhỏ — dấu tích giáp cát tổ tiên, trên Sa Bạo chúng phát triển thành gai thực sự, cứng, sắc, có thể đâm thủng da thường. Đuôi ngắn, dày, như đuôi thằn lằn sa mạc, thường xuyên quật qua quật lại khi y bực bội.
@@ -112,11 +112,11 @@ arcs:
 ## III. TÍNH CÁCH & ĐẠO TÂM
 - **Tính Cách:**
     - **Nóng Nảy Cháy Bỏng (暴烈):** Sa Bạo không biết cách kiềm chế cảm xúc — y vui thì cười vang cả hang, giận thì gầm lên làm rơi bụi đá từ trần, buồn thì đấm vách hang đến chảy máu tay. Tộc nhân không sợ y — vì dù nóng nảy, y chưa bao giờ thực sự làm hại ai trong tộc. Nhưng họ mệt vì y — sống cạnh Sa Bạo như sống cạnh một ngọn lửa không tắt: ấm nhưng bỏng.
-    - **Bất Mãn Sâu Sắc (不滿):** Y là tiếng nói phản đối mạnh nhất đường lối ẩn cư của Sa Cổ Vương. Luận điểm của y đơn giản nhưng đanh thép: *"Bảy mươi tộc nhân sống trong hang tối, ăn trùng sa mạc, uống nước mạch ngầm, luyện công pháp thiếu, dùng pháp khí hỏng — rồi chết dần chết mòn. Đó là bảo vệ hay giết chậm?"* Y muốn tộc mở cửa — không phải liên minh với Nhân Tộc, mà ít nhất ra ngoài săn tài nguyên, tìm kiến thức mới, và cho tộc nhân trẻ thấy mặt trời.
+    - **Bất Mãn Sâu Sắc (不滿):** Y là tiếng nói phản đối mạnh nhất đường lối ẩn cư của Sa Cổ Liệt. Luận điểm của y đơn giản nhưng đanh thép: *"Bảy mươi tộc nhân sống trong hang tối, ăn trùng sa mạc, uống nước mạch ngầm, luyện công pháp thiếu, dùng pháp khí hỏng — rồi chết dần chết mòn. Đó là bảo vệ hay giết chậm?"* Y muốn tộc mở cửa — không phải liên minh với Nhân Tộc, mà ít nhất ra ngoài săn tài nguyên, tìm kiến thức mới, và cho tộc nhân trẻ thấy mặt trời.
     - **Trung Thành Dù Bất Đồng (忠逆):** Điều khiến Sa Bạo phức tạp hơn kẻ phản loạn đơn thuần: y bất đồng với Cổ Vương nhưng không bao giờ phản bội. Y gào thét trong họp tộc, đập bàn đá vỡ, xông ra khỏi sảnh — nhưng khi Cổ Vương ra lệnh, y vẫn tuân theo, dù nắm tay đến trắng bệch. Y ghét đường lối, không ghét người. Và sự trung thành mâu thuẫn ấy đang ăn mòn y từ bên trong.
     - **Bảo Vệ Tộc Nhân (護族):** Dưới lớp vỏ nóng nảy, Sa Bạo yêu tộc nhân bằng tình yêu thô bạo nhất — y huấn luyện chiến sĩ trẻ đến kiệt sức vì muốn họ sống sót, y gầm lên khi ai đó vi phạm quy tắc an toàn vì sợ họ chết, y đấm vách hang khi nghe tin tộc nhân bệnh mà không có thuốc vì y bất lực. Lửa giận của y — phần lớn — đến từ tình yêu không biết cách thể hiện.
 - **Đạo Tâm:** **"Kẻ mạnh không phải kẻ sống lâu nhất — mà là kẻ dám bước ra ngoài dù biết có thể chết."**
-    - Sa Bạo tin rằng sống trong an toàn tuyệt đối không phải sống — mà là chờ chết. Y coi ẩn cư là từ bỏ, là đầu hàng, là phản bội tổ tiên chiến sĩ đã ngã xuống để bảo vệ Cổ Quốc. Trong mắt y, Sa Cổ Vương đã biến tộc Yêu chiến binh thành bầy thú nhốt trong lồng — và y thà chết ngoài sa mạc dưới nắng còn hơn mục nát trong bóng tối.
+    - Sa Bạo tin rằng sống trong an toàn tuyệt đối không phải sống — mà là chờ chết. Y coi ẩn cư là từ bỏ, là đầu hàng, là phản bội tổ tiên chiến sĩ đã ngã xuống để bảo vệ Cổ Quốc. Trong mắt y, Sa Cổ Liệt đã biến tộc Yêu chiến binh thành bầy thú nhốt trong lồng — và y thà chết ngoài sa mạc dưới nắng còn hơn mục nát trong bóng tối.
     - Triết lý này xung đột trực diện với Cổ Vương — và bi kịch là cả hai đều đúng một phần: Cổ Vương đúng khi nói ra ngoài là nguy hiểm, Sa Bạo đúng khi nói ở trong là chết dần. Không ai chịu nhường, và khoảng cách giữa hai đường lối ngày càng rộng.
 
 ## IV. LỊCH SỬ & XUẤT THÂN
@@ -126,17 +126,17 @@ arcs:
     - Câu di chúc ấy trở thành ngọn lửa đốt cháy mọi thứ Sa Bạo làm — y chiến đấu vì nó, bất đồng vì nó, gầm lên vì nó, và sẵn sàng chết vì nó.
 - **Biến Cố — "Lần Đầu Thấy Mặt Trời" (khoảng 600 tuổi):**
     - Khi mới đạt Kim Đan Sơ Kỳ, Sa Bạo lén trốn khỏi hang qua một lối thoát bí mật — lần đầu tiên trong đời y bước ra bề mặt sa mạc. Y đứng trên cát vàng, nhìn lên bầu trời xanh vô tận, cảm nhận gió nóng thổi qua vảy, ánh mặt trời đốt cháy da — và y khóc. Không phải vì đau, mà vì nhận ra tộc mình đã bỏ lỡ tất cả những thứ này suốt hàng ngàn năm.
-    - Y ở trên bề mặt nửa ngày trước khi bị Sa Mạc Hồn Dạ (lúc đó mới là thám tử thường) phát hiện và đưa về. Sự việc đến tai Sa Cổ Vương — Tộc Trưởng không nổi giận, chỉ nhìn y bằng đôi mắt vàng kim mệt mỏi rồi nói: *"Ngươi đã thấy mặt trời. Tốt. Bây giờ hãy nhớ rằng dưới mặt trời ấy, Cổ Quốc đã chết."* Sa Bạo im lặng — nhưng từ đó, ngọn lửa bất mãn cháy mãnh liệt hơn bao giờ hết.
+    - Y ở trên bề mặt nửa ngày trước khi bị Sa Mạc Hồn Dạ (lúc đó mới là thám tử thường) phát hiện và đưa về. Sự việc đến tai Sa Cổ Liệt — Tộc Trưởng không nổi giận, chỉ nhìn y bằng đôi mắt vàng kim mệt mỏi rồi nói: *"Ngươi đã thấy mặt trời. Tốt. Bây giờ hãy nhớ rằng dưới mặt trời ấy, Cổ Quốc đã chết."* Sa Bạo im lặng — nhưng từ đó, ngọn lửa bất mãn cháy mãnh liệt hơn bao giờ hết.
 - **Vai Trò Quân Sự — Chiến Sĩ Không Chiến Trường:**
     - Sa Bạo phụ trách huấn luyện mười lăm chiến sĩ trong tộc — toàn bộ lực lượng quân sự của Cổ Sa Yêu Tộc. Y dạy họ chiến đấu bằng phương pháp thô bạo kế thừa từ cha, kết hợp với Cổ Sa Yêu Thuật phiên bản chiến đấu mà y tự phát triển (vì phần chiến đấu trong công pháp gốc đã thất truyền nhiều). Y tự tạo ra bộ giáo trình riêng dựa trên bản năng thú hơn là kỹ thuật tinh vi — thực dụng, tàn bạo, hiệu quả.
     - Y cũng phụ trách phòng thủ nội bộ hang cổ — bố trí chiến sĩ canh gác các nút giao, huấn luyện phương án đối phó khi trận pháp bị phá, và thiết kế đường rút lui. Tuy chưa bao giờ phải chiến đấu thực sự (không ai xâm nhập hang cổ trong suốt lịch sử ẩn cư), y vẫn duy trì trạng thái sẵn sàng chiến đấu mọi lúc — vì y tin rằng ngày đó sẽ đến.
 - **Sự Kiện Gần Đây — Cự Nhân Thức Tỉnh & Cơ Hội:**
-    - Khi nghe tin Cự Nhân thức tỉnh, phản ứng của Sa Bạo hoàn toàn ngược với Sa Cổ Vương: thay vì hoảng loạn, y thấy đây là cơ hội. *"Nếu có kẻ thù đến,"* y nói trong cuộc họp trưởng lão, *"thì cuối cùng ta cũng có lý do chính đáng để ra ngoài."* Phát ngôn này khiến Cổ Vương nổi giận — cuộc họp kết thúc bằng việc Sa Bạo đấm vỡ bàn đá rồi bỏ ra ngoài.
+    - Khi nghe tin Cự Nhân thức tỉnh, phản ứng của Sa Bạo hoàn toàn ngược với Sa Cổ Liệt: thay vì hoảng loạn, y thấy đây là cơ hội. *"Nếu có kẻ thù đến,"* y nói trong cuộc họp trưởng lão, *"thì cuối cùng ta cũng có lý do chính đáng để ra ngoài."* Phát ngôn này khiến Cổ Vương nổi giận — cuộc họp kết thúc bằng việc Sa Bạo đấm vỡ bàn đá rồi bỏ ra ngoài.
     - Nhưng sau cuộc họp, Thiên Phong lặng lẽ tìm Sa Bạo — và lần đầu tiên, thay vì khuyên nhủ, Thiên Phong lắng nghe. Sự thay đổi nhỏ bé này khiến Sa Bạo nhận ra: ngay cả Phong Lão ôn hòa cũng bắt đầu lo rằng ẩn cư không còn là lựa chọn.
 
 ## V. KỸ NĂNG & TRANG BỊ
 - **Sở Trường:**
-    - **Cận Chiến Yêu Thuật (近戰妖術):** Sa Bạo là chiến sĩ cận chiến mạnh nhất tộc — y kết hợp sức mạnh thể chất của Sa Yêu (da vảy cứng, sức mạnh vượt trội, tốc độ bùng nổ) với yêu thuật cát tầm gần, tạo thành phong cách chiến đấu thô bạo nhưng hiệu quả. Y không có sự tinh tế của Sa Cổ Vương hay sự uyển chuyển của Thiên Phong — y đánh như bão cát: mạnh, nhanh, và tàn phá mọi thứ trên đường đi.
+    - **Cận Chiến Yêu Thuật (近戰妖術):** Sa Bạo là chiến sĩ cận chiến mạnh nhất tộc — y kết hợp sức mạnh thể chất của Sa Yêu (da vảy cứng, sức mạnh vượt trội, tốc độ bùng nổ) với yêu thuật cát tầm gần, tạo thành phong cách chiến đấu thô bạo nhưng hiệu quả. Y không có sự tinh tế của Sa Cổ Liệt hay sự uyển chuyển của Thiên Phong — y đánh như bão cát: mạnh, nhanh, và tàn phá mọi thứ trên đường đi.
     - **Huấn Luyện Chiến Đấu (Combat Training):** Y là huấn luyện viên duy nhất của tộc, phát triển bộ giáo trình chiến đấu riêng phù hợp với tộc nhân huyết mạch loãng — ít dựa vào yêu thuật phức tạp (mà phần lớn đã thất truyền), nhiều dựa vào bản năng thú, sức mạnh thể chất, và chiến thuật bầy đàn.
     - **Bản Năng Sinh Tồn (Survival Instinct):** Huyết mạch chiến sĩ cho y phản xạ chiến đấu vượt trội — y có thể phát hiện nguy hiểm trước khi nó xuất hiện, phản ứng trong phần mười giây, và chịu đau phi thường. Y từng để Sa Trùng cắn vào tay để kiểm tra nọc độc — không phải vì dũng cảm, mà vì y cần biết để huấn luyện chiến sĩ cách đối phó.
 - **Kỹ Thuật Đặc Trưng:**
@@ -156,8 +156,8 @@ arcs:
     - **Mâu thuẫn nội tâm:** Xung đột giữa trung thành với Tộc Trưởng và bất mãn với đường lối đang ăn mòn tinh thần y. Y không phải kẻ phản loạn — nhưng nếu bị ép đến giới hạn, y có thể làm điều y sẽ hối hận.
 
 ## VI. QUAN HỆ
-- **Sa Cổ Vương — Tộc Trưởng Kính Mà Bất Phục:**
-    - Mối quan hệ giữa Sa Bạo và Sa Cổ Vương là bi kịch của hai người đúng ở hai cực. Sa Bạo kính Cổ Vương — kính tuổi tác, kính tu vi, kính gánh nặng mà y đoán là rất nặng dù không biết chi tiết. Nhưng y bất phục đường lối: *"Ngài sống bốn ngàn năm, nhưng bốn ngàn năm trong hang tối thì có gì đáng tự hào?"* Câu này y nói trong một cuộc họp — là câu nặng nhất y từng nói với Tộc Trưởng. Cổ Vương không đáp, chỉ nhìn y rồi quay đi — và sự im lặng ấy đau hơn bất kỳ roi đòn nào.
+- **Sa Cổ Liệt — Tộc Trưởng Kính Mà Bất Phục:**
+    - Mối quan hệ giữa Sa Bạo và Sa Cổ Liệt là bi kịch của hai người đúng ở hai cực. Sa Bạo kính Cổ Vương — kính tuổi tác, kính tu vi, kính gánh nặng mà y đoán là rất nặng dù không biết chi tiết. Nhưng y bất phục đường lối: *"Ngài sống bốn ngàn năm, nhưng bốn ngàn năm trong hang tối thì có gì đáng tự hào?"* Câu này y nói trong một cuộc họp — là câu nặng nhất y từng nói với Tộc Trưởng. Cổ Vương không đáp, chỉ nhìn y rồi quay đi — và sự im lặng ấy đau hơn bất kỳ roi đòn nào.
     - Sa Bạo không biết rằng Cổ Vương, trong thâm tâm, đánh giá cao y hơn bất kỳ trưởng lão nào — vì y là người duy nhất dám nói thẳng. Nhưng khoảng cách bí mật giữa hai người khiến sự đánh giá ấy không bao giờ được nói ra.
 - **Sa Hoàng Thiên Phong — Trưởng Lão Hiền Hay Khuyên:**
     - Sa Bạo tôn trọng Thiên Phong — y biết Phong Lão khôn ngoan, kiên nhẫn, và thực sự quan tâm đến tộc nhân. Nhưng y cũng cho rằng Thiên Phong quá nhu nhược: *"Ngài kể chuyện hay, nhưng chuyện hay không cứu được tộc nhân đang chết."* Thiên Phong chấp nhận lời phê bình này mà không giận — và chính sự bao dung ấy khiến Sa Bạo dù bực nhưng không thể ghét.

@@ -12,7 +12,7 @@
 
 ---
 
-Cơ thể Lệ Vô Tâm nặng trĩu. Lớp Vạn Độc Thân Trúc Cơ Viên Mãn của hắn, thứ từng khiến cả Đấu Trường Vạn Yêu Thành khiếp sợ, giờ đây nứt nẻ chằng chịt, rỉ ra những giọt máu đen ngòm. Việc cưỡng ép sử dụng Huyết Độn để thoát khỏi đòn hợp kích của Lục Mãng Vương và Huyết Hổ Vương đã vượt quá giới hạn chịu đựng của hắn. Nếu không nhờ những quả trứng Mãng Tộc tươi sống dọc đường cung cấp huyết khí thông qua Huyết Tinh Phù, có lẽ hắn đã gục ngã trước khi đến được đây.
+Cơ thể Lệ Vô Tâm nặng trĩu. Lớp Vạn Độc Thân Trúc Cơ Viên Mãn của hắn, thứ từng khiến cả Đấu Trường Vạn Yêu Thành khiếp sợ, giờ đây nứt nẻ chằng chịt, rỉ ra những giọt máu đen ngòm. Việc cưỡng ép sử dụng Huyết Độn để thoát khỏi đòn hợp kích của Lục Mãng Trường và Huyết Hổ Nha đã vượt quá giới hạn chịu đựng của hắn. Nếu không nhờ những quả trứng Mãng Tộc tươi sống dọc đường cung cấp huyết khí thông qua Huyết Tinh Phù, có lẽ hắn đã gục ngã trước khi đến được đây.
 
 Hắn đứng trước một ranh giới vô hình, nơi bóng tối của hang động nhường chỗ cho một màn sương mù màu đỏ sậm cuồn cuộn. Đó không phải sương mù, mà là thực thể hóa của sát khí Thượng Cổ.
 
@@ -40,7 +40,7 @@ Lệ Vô Tâm cắn chặt răng, không thốt ra một tiếng kêu đau đớ
 
 Mạng lưới Huyết Tinh Phù mới của hắn không chỉ hút máu, mà đang chuyển hóa sát khí Thượng Cổ thành năng lượng thuần túy cho hắn.
 
-Từ phía xa, tiếng gầm rống của Lục Mãng Vương và thanh âm vỡ nát của các bức tường đá vọng lại. Lệ Vô Tâm biết, bọn chúng đã đuổi tới cửa Phế Tích.
+Từ phía xa, tiếng gầm rống của Lục Mãng Trường và thanh âm vỡ nát của các bức tường đá vọng lại. Lệ Vô Tâm biết, bọn chúng đã đuổi tới cửa Phế Tích.
 
 "Diệp Tĩnh Sương, Yêu Vương... Cứ chờ đấy. Khi ta bước xuống từ đài tế này, ta sẽ cho các ngươi biết thế nào là Huyết Đan tà ác chân chính!"
 

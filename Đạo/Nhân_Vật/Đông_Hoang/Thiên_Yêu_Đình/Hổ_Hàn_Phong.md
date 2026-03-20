@@ -40,7 +40,7 @@ Là Băng Hổ Bộ Lạc Trưởng cảnh giới Kim Đan Trung Kỳ, Hổ Hàn
 - **Hổ Thiên Nộ Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Ưng Hồng Sí** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Báo Vân Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
-- **Trư Thiết Nha Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Trư Thiết Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Xà Lục Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hùng Thiết Chưởng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH

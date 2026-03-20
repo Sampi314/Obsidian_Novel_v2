@@ -26,7 +26,7 @@ arcs:
         type: Công Cụ
     stats: [180, 380, 350, 400, 300, 350]
     relationships:
-      - character: Lang Tuyết Vương
+      - character: Lang Tuyết Nha
         description: Cha, người bà kính yêu và muốn gánh bớt gánh nặng nhưng không được phép
         feelings:
           yeu: 80
@@ -137,7 +137,7 @@ arcs:
     - **Bạch Ngọc Thư Giản (白玉書簡):** Tấm ngọc trắng mỏng dùng để ghi chép — thay thế giấy (quá hiếm ở Bắc Băng). Bà ghi chép mọi thứ: số liệu dân số, ghi chú cuộc họp, công thức thuốc, thậm chí nhật ký cá nhân. Tấm ngọc có thể xóa và viết lại bằng linh lực — tiện lợi và bền.
 
 ## VI. QUAN HỆ
-- **Lang Tuyết Vương — Cha & Người Bà Muốn Gánh Bớt:**
+- **Lang Tuyết Nha — Cha & Người Bà Muốn Gánh Bớt:**
     - Tĩnh Nguyệt nhìn thấy gánh nặng mà cha mang — gánh nặng mà Cương không nhìn thấy vì quá bận so sánh. Bà muốn giúp cha — không phải bằng cách kế vị, mà bằng cách làm cho bộ lạc mạnh hơn từ bên trong, để cha bớt lo. Mỗi cải cách nội chính bà thực hiện, trong lòng bà đều nghĩ: *"Đây là một gánh nặng cha không cần mang nữa."*
 - **Lang Cương — Anh Trai & Nỗi Lo:**
     - Bà yêu anh trai — nhưng bà cũng nhìn thấy rõ hơn ai hết rằng Cương chưa sẵn sàng kế vị. Bà không muốn tranh giành — bà muốn hỗ trợ Cương trở thành Đại Tù Trưởng giỏi. Nhưng Cương không chịu nghe, và Tĩnh Nguyệt bắt đầu tự hỏi: nếu hắn không thay đổi, bà có trách nhiệm gì với bộ lạc?

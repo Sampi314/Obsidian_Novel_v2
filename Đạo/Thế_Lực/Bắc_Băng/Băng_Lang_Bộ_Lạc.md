@@ -7,7 +7,7 @@ alignment: 4
 race: Nhân Tộc (Băng Tộc lai), Lang Yêu
 region: Bắc Băng
 founded: Trung Cổ Kỷ Nguyên
-founder: Tuyết Lang Vương
+founder: Tuyết Lang Nha
 emblem: Dau_Soi_Trong_Bao_Tuyet.png
 specialty: Khế ước sinh tử với Băng Lang, Băng Luyện Thể, Săn bắn trong bão tuyết
 economy:
@@ -115,7 +115,7 @@ graph TD
 Kinh tế dựa trên săn bắn và thu thập. Họ trao đổi da sói, xương yêu thú và các dược liệu băng hệ cho các thương hội từ Trung Tâm để lấy gạo, vải vóc và vũ khí kim loại. Họ cũng thỉnh thoảng nhận các nhiệm vụ bảo vệ các đoàn thám hiểm đi vào vùng lõi Bắc Băng.
 
 ## IX. Lịch Sử Tóm Tắt (简史)
-Được thành lập bởi Tuyết Lang Vương, một vị anh hùng bị trục xuất khỏi Huyền Băng Cung do mang trong mình dòng máu lai. Ông đã thuần hóa được bầy sói hoang và tập hợp những kẻ bị ruồng bỏ để xây dựng nên một bộ lạc có thể kiêu hãnh tồn tại giữa tuyết trắng, thách thức sự thống trị của các tông môn chính thống.
+Được thành lập bởi Tuyết Lang Nha, một vị anh hùng bị trục xuất khỏi Huyền Băng Cung do mang trong mình dòng máu lai. Ông đã thuần hóa được bầy sói hoang và tập hợp những kẻ bị ruồng bỏ để xây dựng nên một bộ lạc có thể kiêu hãnh tồn tại giữa tuyết trắng, thách thức sự thống trị của các tông môn chính thống.
 
 ## X. Giai Thoại & Bí Mật (轶 sự với bí mật)
 Tương truyền mỗi khi trăng tròn đỏ xuất hiện, các chiến binh cao cấp của bộ lạc có thể thực hiện "Lang Hóa", biến thành những thực thể bán thú với sức mạnh tăng vọt gấp nhiều lần.

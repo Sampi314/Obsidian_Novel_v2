@@ -35,7 +35,7 @@ Sa Ngọc mang hình dáng nửa người nửa thằn lằn sa mạc, thân hì
 Sa Ngọc không phải chiến binh mà là dược sư duy nhất còn lại của Cổ Sa Yêu Tộc, nắm giữ bí truyền bào chế *Cổ Sa Mật Dược* (古沙秘藥) — loại dược liệu chiết xuất từ khoáng vật sâu trong hang và nọc độc Yêu Tộc, có khả năng kéo dài tuổi thọ và phục hồi linh lực suy kiệt cho đồng tộc già yếu. Kỹ thuật chiến đấu duy nhất nàng biết là *Mê Hương Độc Phấn* (迷香毒粉) — rải bột khoáng vật đặc chế vào gió tạo thành đám mây độc vô sắc vô vị gây ảo giác và suy kiệt linh lực mục tiêu từ từ. Điểm yếu lớn nhất là thể chất mỏng manh và phụ thuộc hoàn toàn vào chiến binh bảo vệ khi gặp đối thủ tấn công trực diện.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Sa Cổ Vương** (Đồng minh): Dược sư trẻ tài giỏi, người y kỳ vọng sẽ kéo dài tuổi thọ cho tộc nhân
+- **Sa Cổ Liệt** (Đồng minh): Dược sư trẻ tài giỏi, người y kỳ vọng sẽ kéo dài tuổi thọ cho tộc nhân
 - **Sa Bạo** (Đồng minh): Đồng liêu cùng Cổ Sa Yêu Tộc, hỗ trợ lẫn nhau
 - **Sa Hoàng Thiên Phong** (Chủ tớ): Sa Hoàng Thiên Phong quản lý Sa Ngọc trong Cổ Sa Yêu Tộc
 - **Cổ Sa:** Được Tộc Trưởng đặc biệt bảo vệ vì nàng là dược sư duy nhất còn biết bào chế Cổ Sa Mật Dược, mất nàng là mất cả bí truyền y dược ngàn năm.

@@ -55,7 +55,7 @@ arcs:
             position: Thị Vệ Trưởng
             cultivation: Nguyên Anh Hậu Kỳ
             placeholder: true
-      - name: Khu Đấu Trường (Huyết Hổ Vương)
+      - name: Khu Đấu Trường (Huyết Hổ Nha)
         role: Quản lý Đấu Trường, tổ chức thi đấu, giải quyết ân oán bằng vũ lực
         headcount:
           thanh_chu: 0
@@ -64,7 +64,7 @@ arcs:
           quan_vien: 30
           dan_cu: 3000
         members:
-          - character: "[Huyết Hổ Vương]"
+          - character: "[Huyết Hổ Nha]"
             position: Vương — Chủ Đấu Trường
             cultivation: Hóa Thần Sơ Kỳ
             placeholder: true
@@ -72,7 +72,7 @@ arcs:
             position: Yêu Tướng
             cultivation: Nguyên Anh Trung Kỳ
             placeholder: true
-      - name: Khu Chợ Đen (Lục Mãng Vương)
+      - name: Khu Chợ Đen (Lục Mãng Trường)
         role: Quản lý giao thương, kiểm soát hàng cấm, thu thuế và duy trì trật tự thương mại
         headcount:
           thanh_chu: 0
@@ -81,7 +81,7 @@ arcs:
           quan_vien: 100
           dan_cu: 4000
         members:
-          - character: "[Lục Mãng Vương]"
+          - character: "[Lục Mãng Trường]"
             position: Vương — Chủ Chợ Đen
             cultivation: Hóa Thần Sơ Kỳ
             placeholder: true
@@ -89,7 +89,7 @@ arcs:
             position: Yêu Tướng
             cultivation: Nguyên Anh Hậu Kỳ
             placeholder: true
-      - name: Khu Ngoại Thành (Ngân Hùng Vương)
+      - name: Khu Ngoại Thành (Ngân Hùng Lôi)
         role: Kiểm soát vùng ngoại thành, quản lý lưu dân và phòng thủ ngoại vi
         headcount:
           thanh_chu: 0
@@ -98,7 +98,7 @@ arcs:
           quan_vien: 20
           dan_cu: 3000
         members:
-          - character: "[Ngân Hùng Vương]"
+          - character: "[Ngân Hùng Lôi]"
             position: Vương — Chủ Ngoại Thành
             cultivation: Hóa Thần Sơ Kỳ
             placeholder: true
@@ -159,7 +159,7 @@ arcs:
 ## I. Tổng Quan (总览)
 Vạn Yêu Thành là thành phố tự do lớn nhất Đông Hoang, hoạt động như một liên minh Yêu Tộc phi tập trung, đồng thời là trung tâm giao thương ngầm lớn nhất Cố Nguyên Giới dành cho yêu thú, tán tu, và các thế lực hắc ám. Xếp hạng Hạng Nhất về quy mô và ảnh hưởng, Thành có dân số khoảng mười hai nghìn sinh linh thường trú — chưa kể hàng nghìn khách vãng lai qua lại mỗi ngày.
 
-"Thành Chủ" trên danh nghĩa là Thất Cửu — Thất Vĩ Hồ Yêu ở cảnh giới Hóa Thần Trung Kỳ — nhưng thực quyền chia đều cho Tam Đại Yêu Vương, ba vị cường giả Hóa Thần Sơ Kỳ cai quản ba khu vực chính: Huyết Hổ Vương quản Khu Đấu Trường, Lục Mãng Vương quản Khu Chợ Đen, và Ngân Hùng Vương quản Khu Ngoại Thành. Luật lệ duy nhất ở Vạn Yêu Thành là "kẻ mạnh làm vua" — mọi ân oán đều có thể được giải quyết tại Đấu Trường, còn trong Chợ Đen, miễn có đủ Linh Thạch và tài nguyên, mọi thứ đều có thể mua được.
+"Thành Chủ" trên danh nghĩa là Thất Cửu — Thất Vĩ Hồ Yêu ở cảnh giới Hóa Thần Trung Kỳ — nhưng thực quyền chia đều cho Tam Đại Yêu Vương, ba vị cường giả Hóa Thần Sơ Kỳ cai quản ba khu vực chính: Huyết Hổ Nha quản Khu Đấu Trường, Lục Mãng Trường quản Khu Chợ Đen, và Ngân Hùng Lôi quản Khu Ngoại Thành. Luật lệ duy nhất ở Vạn Yêu Thành là "kẻ mạnh làm vua" — mọi ân oán đều có thể được giải quyết tại Đấu Trường, còn trong Chợ Đen, miễn có đủ Linh Thạch và tài nguyên, mọi thứ đều có thể mua được.
 
 Nơi quy tụ mọi nguồn tài nguyên quý hiếm, bất hợp pháp, hàng cấm — Huyết Tinh, độc dược, yêu đan — cùng với mạng lưới tình báo ngầm rộng lớn không chịu sự chi phối của Chính Đạo. Tuy nhiên, sự tự do này cũng biến Vạn Yêu Thành thành một thùng thuốc súng, chỉ chờ một mồi lửa nhỏ để bùng nổ, đặc biệt là khi các thế lực bên ngoài như Huyết Sát Minh bắt đầu nhúng tay vào.
 
@@ -176,9 +176,9 @@ Phong tục nổi bật nhất là Đấu Trường — nơi mọi tranh chấp 
 ## IV. Cơ Cấu Tổ Chức (组织结构)
 ```mermaid
 graph TD
-    TC[Thành Chủ: Thất Cửu<br>Thất Vĩ Hồ Yêu] --> HHV[Huyết Hổ Vương<br>Khu Đấu Trường]
-    TC --> LMV[Lục Mãng Vương<br>Khu Chợ Đen]
-    TC --> NHV[Ngân Hùng Vương<br>Khu Ngoại Thành]
+    TC[Thành Chủ: Thất Cửu<br>Thất Vĩ Hồ Yêu] --> HHV[Huyết Hổ Nha<br>Khu Đấu Trường]
+    TC --> LMV[Lục Mãng Trường<br>Khu Chợ Đen]
+    TC --> NHV[Ngân Hùng Lôi<br>Khu Ngoại Thành]
     TC --> CPD[Chấp Pháp Đội]
     HHV --> YT1[Yêu Tướng Đấu Trường]
     HHV --> VB1[Vệ Binh Đấu Trường]
@@ -192,7 +192,7 @@ graph TD
 Cơ cấu quyền lực của Vạn Yêu Thành là tam đầu chế dưới sự điều phối danh nghĩa của Thành Chủ. Thất Cửu giữ vai trò trọng tài và người điều phối — bà không trực tiếp cai trị mà duy trì cân bằng quyền lực giữa Tam Đại Yêu Vương, ngăn không cho bất kỳ ai trong ba vị trở nên quá mạnh. Mỗi Yêu Vương có Yêu Tướng riêng — các cường giả Nguyên Anh Kỳ làm tay sai đắc lực — cùng hệ thống vệ binh và quan viên riêng biệt. Chấp Pháp Đội là lực lượng duy nhất trung lập, trực thuộc Thành Chủ, chịu trách nhiệm duy trì trật tự tối thiểu trong Nội Thành — đảm bảo giao dịch không bị phá vỡ bằng bạo lực trắng trợn và kẻ nào vi phạm quy tắc Chợ Đen sẽ bị trừng phạt.
 
 ## V. Công Pháp & Trận Pháp (功法与阵法)
-Vạn Yêu Thành không có công pháp thống nhất — mỗi yêu tộc tu luyện theo huyết mạch và bản năng riêng. Tuy nhiên, Tam Đại Yêu Vương mỗi vị sở hữu bí thuật riêng đáng sợ: Huyết Hổ Vương tu luyện **Huyết Hổ Cuồng Bạo Thể**, biến thân thể thành vũ khí sát thương cận chiến khủng khiếp; Lục Mãng Vương tu luyện **Huyền Mãng Thôn Thiên Thuật**, có thể nuốt chửng cả pháp bảo và trận pháp; Ngân Hùng Vương tu luyện **Cự Hùng Chấn Sơn Công**, mỗi quyền đánh ra có thể lay chuyển núi non.
+Vạn Yêu Thành không có công pháp thống nhất — mỗi yêu tộc tu luyện theo huyết mạch và bản năng riêng. Tuy nhiên, Tam Đại Yêu Vương mỗi vị sở hữu bí thuật riêng đáng sợ: Huyết Hổ Nha tu luyện **Huyết Hổ Cuồng Bạo Thể**, biến thân thể thành vũ khí sát thương cận chiến khủng khiếp; Lục Mãng Trường tu luyện **Huyền Mãng Thôn Thiên Thuật**, có thể nuốt chửng cả pháp bảo và trận pháp; Ngân Hùng Lôi tu luyện **Cự Hùng Chấn Sơn Công**, mỗi quyền đánh ra có thể lay chuyển núi non.
 
 Về trận pháp, tường thành Vạn Yêu Thành được khắc **Vạn Yêu Hộ Thành Trận** — đại trận pháp cổ xưa kích hoạt bằng yêu lực tập thể, có thể chịu được đòn tấn công từ cường giả Hóa Thần. Ngoài ra, Chợ Đen có hệ thống trận pháp cách âm và che giấu thần thức riêng, đảm bảo các giao dịch bí mật không bị dò xét.
 
@@ -210,7 +210,7 @@ Về trận pháp, tường thành Vạn Yêu Thành được khắc **Vạn Yê
 - **Mạng Lưới Đường Hầm:** Hệ thống đường ngầm bí mật nối liền ba khu vực, dùng để vận chuyển hàng hóa nhạy cảm và di tản khi cần thiết.
 
 ## VIII. Kinh Tế (经济)
-Kinh tế Vạn Yêu Thành cực kỳ sôi động nhưng hoàn toàn nằm ngoài hệ thống thương mại chính thức của Cố Nguyên Giới. Nguồn thu chính đến từ thuế giao dịch Chợ Đen — mọi giao dịch trong Chợ Đen phải nộp một phần trăm giá trị cho Lục Mãng Vương, đổi lại được bảo đảm an toàn và quyền kiện cáo nếu bị lừa. Phí tham gia và cá cược tại Đấu Trường mang về nguồn thu khổng lồ cho Huyết Hổ Vương — mỗi trận đấu lớn có thể sinh ra hàng vạn linh thạch tiền cược. Thuế thương nhân vào thành do Ngân Hùng Vương thu, cùng với dịch vụ tình báo bán cho khách hàng cấp cao. Thành hợp tác ngầm với Thiên Sa Thương Hội — thương hội cung cấp hàng hóa hợp pháp từ bên ngoài, đổi lấy tài nguyên quý hiếm chỉ có trong Chợ Đen.
+Kinh tế Vạn Yêu Thành cực kỳ sôi động nhưng hoàn toàn nằm ngoài hệ thống thương mại chính thức của Cố Nguyên Giới. Nguồn thu chính đến từ thuế giao dịch Chợ Đen — mọi giao dịch trong Chợ Đen phải nộp một phần trăm giá trị cho Lục Mãng Trường, đổi lại được bảo đảm an toàn và quyền kiện cáo nếu bị lừa. Phí tham gia và cá cược tại Đấu Trường mang về nguồn thu khổng lồ cho Huyết Hổ Nha — mỗi trận đấu lớn có thể sinh ra hàng vạn linh thạch tiền cược. Thuế thương nhân vào thành do Ngân Hùng Lôi thu, cùng với dịch vụ tình báo bán cho khách hàng cấp cao. Thành hợp tác ngầm với Thiên Sa Thương Hội — thương hội cung cấp hàng hóa hợp pháp từ bên ngoài, đổi lấy tài nguyên quý hiếm chỉ có trong Chợ Đen.
 
 ## IX. Lịch Sử Tóm Tắt (简史)
 Vạn Yêu Thành được hình thành từ hàng vạn năm trước, ban đầu chỉ là nơi trú ẩn của những Yêu Tộc bị Nhân Tộc truy sát. Trong thời kỳ đen tối khi các tông môn Chính Đạo phát động "Diệt Yêu Lệnh," vô số yêu tộc bị săn lùng vì nội đan và vật liệu quý — những kẻ sống sót chạy về vùng rừng sâu trung tâm Đông Hoang, nơi sa mạc và rừng độc ngăn cản sự truy đuổi.
@@ -224,7 +224,7 @@ Thất Cửu — Thất Vĩ Hồ Yêu — được đồn đại thực ra đã 
 
 Dưới Đấu Trường có một tầng ngục bí mật gọi là "Vạn Yêu Mộ" — nơi giam giữ những yêu tộc cổ đại bị trấn phong từ thời khai thiên lập địa. Máu và yêu lực từ các trận đấu trên Đấu Trường chảy xuống, nuôi dưỡng con dấu trấn phong. Nếu con dấu bị phá, những gì bên trong sẽ khiến cả Đông Hoang chấn động.
 
-Tam Đại Yêu Vương bề ngoài cân bằng quyền lực, nhưng bên trong mỗi vị đều đang âm thầm tích lũy lực lượng riêng, chờ ngày Thất Cửu suy yếu hoặc rời đi. Mâu thuẫn sâu sắc nhất là giữa Huyết Hổ Vương và Lục Mãng Vương — hai bên đã giao tranh bí mật qua tay chân ít nhất ba lần trong năm trăm năm qua.
+Tam Đại Yêu Vương bề ngoài cân bằng quyền lực, nhưng bên trong mỗi vị đều đang âm thầm tích lũy lực lượng riêng, chờ ngày Thất Cửu suy yếu hoặc rời đi. Mâu thuẫn sâu sắc nhất là giữa Huyết Hổ Nha và Lục Mãng Trường — hai bên đã giao tranh bí mật qua tay chân ít nhất ba lần trong năm trăm năm qua.
 
 ## XI. Quan Hệ Thế Lực (势力关系)
 ```mermaid

@@ -27,7 +27,7 @@ arcs:
         type: Di Vật
     stats: [350, 200, 180, 100, 400, 250]
     relationships:
-      - character: Lang Tuyết Vương
+      - character: Lang Tuyết Nha
         description: Cha, Đại Tù Trưởng, người hắn kính sợ và muốn chứng minh mình xứng đáng
         feelings:
           yeu: 50
@@ -143,7 +143,7 @@ arcs:
     - **Giáp Lông Hắc Lang (黑狼毛甲):** Giáp bán thân da Hắc Lang cấp cao, nhẹ, linh hoạt — phù hợp phong cách đột kích nhanh. Nguyệt Nha đặt may riêng cho hắn, bên trong khâu thêm một lớp phù văn bảo hộ mà hắn không biết — tình yêu của mẹ giấu trong từng đường kim.
 
 ## VI. QUAN HỆ
-- **Lang Tuyết Vương — Cha & Đỉnh Núi Không Thể Vượt:**
+- **Lang Tuyết Nha — Cha & Đỉnh Núi Không Thể Vượt:**
     - Cương kính sợ cha — kính vì sức mạnh, sợ vì sự kỳ vọng. Hắn muốn cha tự hào — nhưng mỗi lần nhìn vào mắt Tuyết Vương, hắn chỉ thấy sự thất vọng lặng lẽ, và điều đó đau hơn bất kỳ vết thương nào. Hắn không bao giờ nói *"con muốn cha khen"* — nhưng mọi hành động liều lĩnh của hắn đều là tiếng gào thầm: *"Hãy nhìn con. Con đủ mạnh rồi."*
 - **Lang Nguyệt Nha — Mẹ & Tiếng Nói Lương Tâm:**
     - Cương yêu mẹ nhưng không đủ kiên nhẫn lắng nghe lời khuyên của bà — mỗi khi mẹ bắt đầu *"con à, nghe mẹ nói..."*, hắn tìm cớ rời đi. Hắn biết mẹ đúng — nhưng nghe mẹ nói khiến hắn cảm thấy mình yếu đuối, và hắn ghét cảm giác đó. Nhưng mỗi khi bị thương, người đầu tiên hắn gọi vẫn là *"mẹ."*

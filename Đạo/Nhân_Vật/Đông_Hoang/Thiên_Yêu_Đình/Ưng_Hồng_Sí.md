@@ -42,6 +42,6 @@ Là Chiến Sĩ Vũ Tộc cảnh giới Kim Đan Hậu Kỳ, Ưng Hồng Sí tu 
 - **Hổ Thiên Nộ Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Báo Vân Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hổ Hàn Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
-- **Trư Thiết Nha Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Trư Thiết Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ưng Hồng Sí vốn sinh ra trong Vũ Hoàng Các với cánh trắng tinh, nhưng bị đuổi cùng Ưng Thương Thiên sau sự cố bạo lực. Ban đầu cánh hắn trắng như mọi Vũ Tộc, nhưng sau khi theo Thương Thiên vào Thiên Yêu Đình, mỗi trận chiến khiến máu kẻ thù nhuộm cánh hắn đỏ thẫm dần. Hắn mang mặc cảm tội lỗi về quá khứ bạo lực ở Vũ Hoàng Các, nhưng đã chấp nhận số phận chiến sĩ. Ước mơ giấu kín là một ngày cánh sẽ trở lại trắng tinh.

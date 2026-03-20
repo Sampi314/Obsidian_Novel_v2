@@ -71,7 +71,7 @@ arcs:
 
 ## V. QUAN HỆ NHÂN MẠCH
 - **Đồng Minh:** Đan Dương Tử (Cốc Chủ Đan Hà Cốc - từng có ơn cứu mạng), Chưởng Môn Cửu Hoa Kiếm Tông.
-- **Kẻ Thù:** Tuyết Lang Vương (Vua sói tuyết Bắc Băng), Huyết Ma Lão Tổ.
+- **Kẻ Thù:** Tuyết Lang Nha (Vua sói tuyết Bắc Băng), Huyết Ma Lão Tổ.
 - **Đệ Tử:** Có 3 đệ tử chân truyền, nổi bật nhất là *Hàn Băng Nhi* (Trúc Cơ Viên Mãn).
 
 > *"Nếu tâm không tĩnh, kiếm sẽ loạn. Nếu lòng không lạnh, tình sẽ vương."*

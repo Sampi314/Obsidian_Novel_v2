@@ -106,7 +106,7 @@ arcs:
           - character: Viên Bá Thiên
             position: Thánh Tướng Thứ Sáu
             cultivation: Nguyên Anh Sơ Kỳ
-          - character: Xà Độc Vương
+          - character: Xà Độc Nha
             position: Thánh Tướng Thứ Bảy
             cultivation: Nguyên Anh Sơ Kỳ
       - name: Liên Minh Bộ Lạc
@@ -134,7 +134,7 @@ arcs:
           - character: Mãng Hắc Vân
             position: Mãng Bộ Lạc Trưởng
             cultivation: Kim Đan Trung Kỳ
-          - character: Trư Thiết Nha Vương
+          - character: Trư Thiết Nha
             position: Dã Trư Bộ Lạc Trưởng
             cultivation: Kim Đan Trung Kỳ
           - character: Thử Linh Nhĩ
@@ -209,7 +209,7 @@ graph TD
     TDTT --> TT4[4. Lang Thiên Dạ Hành]
     TDTT --> TT5[5. Hồ Thiên Mị]
     TDTT --> TT6[6. Viên Bá Thiên]
-    TDTT --> TT7[7. Xà Độc Vương]
+    TDTT --> TT7[7. Xà Độc Nha]
     TLH --> DTL[Đại Trưởng Lão: Hùng Cổ Mộc]
     TLH --> TL1[Hổ Bạch Nhãn]
     TLH --> TL2[Điêu Thiên Hương]

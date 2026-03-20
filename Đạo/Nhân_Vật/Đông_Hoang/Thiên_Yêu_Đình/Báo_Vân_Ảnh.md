@@ -41,7 +41,7 @@ Là Hắc Báo Bộ Lạc Trưởng cảnh giới Kim Đan Trung Kỳ, Báo Vân
 - **Hổ Thiên Nộ Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Ưng Hồng Sí** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hổ Hàn Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
-- **Trư Thiết Nha Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Trư Thiết Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Xà Lục Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Báo Vân Ảnh sinh ra trong đêm không trăng tối nhất năm, được coi là điềm lành của bộ lạc Hắc Báo. Hắn kế thừa vị trí Bộ Lạc Trưởng từ cha sau khi bộ lạc bị một nhóm thợ săn Nhân Tộc tấn công bất ngờ ban ngày — khi báo đen yếu nhất. Bài học đau thương đó khiến hắn tập trung xây dựng hệ thống canh gác ban ngày và huấn luyện bộ lạc chiến đấu cả dưới ánh mặt trời. Hiện tại, hắn đang giúp Báo Lôi Ảnh nghiên cứu cách dung hợp lôi lực vào huyết mạch báo đen.

@@ -34,7 +34,7 @@ Kích thước tương đương Thiết Lân, nhưng lớp giáp của Thiết N
 Mang phong cách chiến đấu tàn bạo, tập trung vào tấn công hơn là phòng thủ. Kỹ năng đáng sợ nhất là *Phá Giáp Hàm* (Hàm cưa phá giáp), sử dụng cặp răng cưa sắc bén được cường hóa bởi linh khí sa mạc để nghiền nát pháp khí và xé toạc lớp phòng ngự của kẻ thù. Trong "Thiết Giáp Trận", Thiết Nha là mũi nhọn tấn công, chuyên phá vây và truy sát.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Thiết Giáp Vương (Đàn Chủ):** Tôn sùng sức mạnh của Đàn Chủ, nhưng đôi khi bất mãn vì chiến thuật phòng ngự quá an toàn của Thiết Giáp Vương.
+- **Thiết Giáp Hùng (Đàn Chủ):** Tôn sùng sức mạnh của Đàn Chủ, nhưng đôi khi bất mãn vì chiến thuật phòng ngự quá an toàn của Thiết Giáp Hùng.
 - **Thiết Lân (Cận Vệ):** Đồng đội kề vai sát cánh, tuy hay bực bội vì sự cẩn trọng của Thiết Lân nhưng luôn tin tưởng giao lưng cho nó trong trận chiến.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH

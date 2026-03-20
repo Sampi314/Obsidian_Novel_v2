@@ -1,8 +1,8 @@
 ---
 type: character
-name: Lang Tuyết Vương
-hantu: 狼雪王
-archetype: Tuyết Lang Vương
+name: Lang Tuyết Nha
+hantu: 狼雪牙
+archetype: Tuyết Lang Nha
 race: Yêu Tộc
 dao_tam: Đàn sói đi qua mùa đông, không phải bằng nanh vuốt sắc nhất, mà bằng ý chí của con sói đầu đàn
 aliases:
@@ -16,7 +16,7 @@ arcs:
   - arc: 1
     status: Còn Sống
     cultivation: Nguyên Anh Viên Mãn
-    methods: [Tuyết Lang Vương Khí Quyết, Vạn Lang Hú Thiên, Băng Giáp Nguyên Hình]
+    methods: [Tuyết Lang Nha Khí Quyết, Vạn Lang Hú Thiên, Băng Giáp Nguyên Hình]
     inventory:
       - name: Răng Nanh Thần Sói
         type: Pháp Bảo
@@ -82,13 +82,13 @@ arcs:
           on: 0
 ---
 
-# HỒ SƠ NHÂN VẬT: LANG TUYẾT VƯƠNG (狼雪王)
+# HỒ SƠ NHÂN VẬT: LANG TUYẾT VƯƠNG (狼雪牙)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Tên:** Lang Tuyết Vương (狼雪王).
+- **Tên:** Lang Tuyết Nha (狼雪牙).
 - **Biệt Danh:** "Bạch Sói Bá Vương" (白狼霸王) — cách gọi phổ biến của các thế lực Bắc Băng khi nhắc đến lão; "Tuyết Sơn Lão Lang" (雪山老狼) — cách thương nhân Phá Băng Thương Đội gọi với vẻ kính sợ lẫn thân thuộc.
 - **Tuổi:** Khoảng 800 tuổi (tương đương lão niên theo tuổi thọ lang yêu Nguyên Anh).
-- **Chủng Tộc:** Yêu Tộc — Băng Lang (lang yêu Bắc Băng, mang huyết mạch Vương Giả thuần khiết, có thể truy nguyên về Tuyết Lang Vương đời đầu).
+- **Chủng Tộc:** Yêu Tộc — Băng Lang (lang yêu Bắc Băng, mang huyết mạch Vương Giả thuần khiết, có thể truy nguyên về Tuyết Lang Nha đời đầu).
 - **Cảnh Giới:** Nguyên Anh Viên Mãn — đỉnh cao chiến lực của Băng Lang Bộ Lạc, đạt được sau hơn bảy trăm năm tu luyện Băng Lang Luyện Thể Quyết. Nguyên Anh của lão mang hình dạng bạch lang, toàn thân tỏa hàn khí ngập trời.
 - **Thân Phận:** Đại Tù Trưởng đương nhiệm (大酋长) — thủ lĩnh tối cao của Băng Lang Bộ Lạc, cai trị mười vạn dân bao gồm lang yêu, Băng Tộc lai, và dân du mục phụ thuộc. Quyền lực của lão không đến từ sắc phong hay luật lệ, mà từ sức mạnh tuyệt đối và lòng tín nhiệm tích lũy qua hàng trăm năm dẫn dắt bộ lạc sinh tồn trong vùng cực bắc khắc nghiệt.
 - **Khu Vực:** Bắc Băng — Rừng Tuyết biên thùy, di chuyển theo mùa giữa các vùng trại.
@@ -122,7 +122,7 @@ arcs:
 
 ## IV. LỊCH SỬ & XUẤT THÂN
 - **Xuất Thân — Huyết Mạch Vương Giả:**
-    - Lang Tuyết Vương sinh ra trong dòng chính của Băng Lang Bộ Lạc, mang huyết mạch Vương Giả thuần khiết — dòng máu được cho là kế thừa trực tiếp từ Tuyết Lang Vương khai tổ. Từ nhỏ đã thể hiện thiên phú tu luyện vượt trội — Luyện Khí năm hai mươi tuổi, Trúc Cơ năm sáu mươi, Kết Đan năm một trăm năm mươi — tốc độ mà các trưởng lão gọi là "thiên tuyển chi tử."
+    - Lang Tuyết Nha sinh ra trong dòng chính của Băng Lang Bộ Lạc, mang huyết mạch Vương Giả thuần khiết — dòng máu được cho là kế thừa trực tiếp từ Tuyết Lang Nha khai tổ. Từ nhỏ đã thể hiện thiên phú tu luyện vượt trội — Luyện Khí năm hai mươi tuổi, Trúc Cơ năm sáu mươi, Kết Đan năm một trăm năm mươi — tốc độ mà các trưởng lão gọi là "thiên tuyển chi tử."
     - Cha lão là Đại Tù Trưởng đời trước — một chiến binh Nguyên Anh Sơ Kỳ hùng mạnh nhưng bảo thủ, cai trị bộ lạc bằng luật sắt và truyền thống cứng nhắc. Mẹ là nữ lang yêu thuộc chi nhánh Lang Vu Viện, tính tình nhu hòa, dạy lão rằng sức mạnh thực sự nằm ở lòng nhân từ chứ không phải nanh vuốt. Hai luồng tư tưởng đối lập ấy hình thành nên tính cách phức tạp của Tuyết Vương — vừa nghiêm khắc vừa nhân hậu, vừa cứng rắn vừa biết lắng nghe.
 - **Thách Đấu & Lên Ngôi (năm 300 tuổi):**
     - Khi Đại Tù Trưởng đời trước từ chối thay đổi tuyến di cư dù vùng đất cũ đã cạn kiệt tài nguyên, Tuyết Vương — lúc ấy mới Kết Đan Hậu Kỳ — thách đấu cha mình theo luật cổ "Vương Trảo Quyết" (王爪决). Trận đấu kéo dài từ bình minh đến hoàng hôn trên đỉnh Tuyết Sơn — hai con sói khổng lồ lao vào nhau giữa bão tuyết, nanh vuốt xé gió, máu nhuộm đỏ tuyết trắng.
@@ -145,7 +145,7 @@ arcs:
     - **Nhục Thân Bá Vương (Supreme Physical Body):** Hơn tám trăm năm tu luyện Băng Lang Luyện Thể Quyết đã biến nhục thân Tuyết Vương thành pháp bảo sống — da cứng hơn giáp sắt, nanh vuốt sắc hơn phi kiếm, sức mạnh thuần túy đủ để đè bẹp bất kỳ đối thủ nào dưới Nguyên Anh. Khi kết hợp nhục thân và linh lực Nguyên Anh, lão có thể phá núi bằng một cú vồ.
     - **Hàn Khí Lĩnh Vực (Cold Domain):** Trong phạm vi ba trăm trượng xung quanh, Tuyết Vương có thể hạ nhiệt độ xuống mức đóng băng tức thì — bất kỳ tu sĩ nào dưới Kim Đan bước vào đều bị chậm lại, linh lực đông cứng, phản ứng trì trệ. Đây không phải trận pháp mà là biểu hiện tự nhiên của tu vi Nguyên Anh Viên Mãn kết hợp huyết mạch Vương Giả.
 - **Công Pháp:**
-    - **Tuyết Lang Vương Khí Quyết (雪狼王氣訣) — "Quyết Vương Khí Sói Tuyết":**
+    - **Tuyết Lang Nha Khí Quyết (雪狼王氣訣) — "Quyết Vương Khí Sói Tuyết":**
         Công pháp truyền thừa dòng chính, chỉ có Đại Tù Trưởng và người kế vị mới được tu luyện. Dẫn linh khí thiên địa qua huyết mạch Vương Giả, chuyển hóa thành "Vương Khí" — loại linh lực đặc biệt mang uy áp bẩm sinh lên mọi lang yêu. Khi Tuyết Vương hú lên, Vương Khí theo tiếng hú lan tỏa, khiến sói đồng tộc phấn chấn, tăng sức chiến đấu — còn sói đối thủ thì run sợ, bản năng phục tùng bị kích hoạt.
     - **Vạn Lang Hú Thiên (萬狼嗥天) — "Vạn Sói Gào Trời":**
         Tuyệt kỹ cấm của dòng Đại Tù Trưởng — tập trung toàn bộ Nguyên Anh lực vào một tiếng hú duy nhất, tạo ra sóng xung kích hàn khí hình nón lan ra trước mặt. Tiếng hú mang theo ảo âm của vạn sói — như thể cả bầy đàn tổ tiên đang gào thét cùng lão — phá hủy mọi phòng ngự trong phạm vi, đóng băng linh lực đối phương từ bên trong. Chỉ dùng được ba lần trong đời — mỗi lần tiêu hao tuổi thọ năm mươi năm. Tuyết Vương đã dùng một lần trong Trận Phòng Thủ Rừng Tuyết, còn hai lần.

@@ -34,8 +34,8 @@ Lang Cô Nha Hàn mang nhân hình một nam tử gầy gò khắc khổ, mái t
 Đạt cảnh giới Kim Đan Trung Kỳ, Lang Cô Nha Hàn tu luyện "Cô Lang Hàn Nha Quyết" (孤狼寒牙诀) — ngưng tụ yêu lực lên nanh và vuốt, tạo ra sương giá có thể đóng băng vết thương khi cắn xé, khiến mục tiêu chảy máu không ngừng. Tuyệt kỹ "Nhất Lang Thôn Nguyệt" (一狼吞月) phóng lao vào bóng tối rồi tấn công từ điểm mù, đòn cắn duy nhất nhắm cổ họng. Điểm mạnh là khả năng sinh tồn hoang dã và chiến đấu đơn độc, nhược điểm là không giỏi phối hợp đội nhóm và dễ bị áp đảo bằng số lượng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
-- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hổ Huyết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Nha
 - **Mãng Huyền Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Báo Thiên Dạ Hành** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Hồ Diễm Nương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành

@@ -34,8 +34,8 @@ Thử Thiên Đạo mang nhân hình một thiếu niên nhỏ thó nhanh nhẹn
 Đạt cảnh giới Trúc Cơ Viên Mãn, Thử Thiên Đạo tu luyện "Thiên Đạo Thu Tàng Thuật" (千盜收藏术) — thu nhỏ và cất giấu bất kỳ vật thể nào trong không gian túi không đáy, đồng thời di chuyển qua khe hở nhỏ nhất bằng cách biến thành chuột. Tuyệt kỹ "Thần Thâu Vạn Vật" (神偷万物) đánh cắp một vật từ tay đối phương mà ngay cả tu sĩ Nguyên Anh cũng không phát hiện. Điểm mạnh là đạo thuật và khả năng ẩn thân trong không gian chật hẹp, nhược điểm là sức chiến đấu gần như không có, chạy là bản năng đầu tiên.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
-- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hổ Huyết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Nha
 - **Hồ Thất Cửu** (Thuộc hạ): Thành Chủ dung dưỡng Trộm Cắp Vương
 - **Hổ Thiết Quyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Xà Bạch Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành

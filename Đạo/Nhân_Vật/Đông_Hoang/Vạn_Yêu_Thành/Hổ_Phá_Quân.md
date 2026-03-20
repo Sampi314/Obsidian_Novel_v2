@@ -34,10 +34,10 @@ Hổ Phá Quân mang nhân hình một trung niên hổ, một bên mặt bị s
 Đạt cảnh giới Kim Đan Hậu Kỳ, Hổ Phá Quân tu luyện "Phá Quân Sát Phạt Quyền" (破軍杀伐拳) — quyền pháp hung hãn tàn bạo, mỗi đòn đều nhắm vào tử huyệt đối phương. Tuyệt kỹ "Độc Nhãn Sát Cơ" (独眼杀机) tập trung toàn bộ sát ý vào mắt phải duy nhất, tạo ra áp lực tinh thần khiến đối thủ co rúm trước khi bị đánh. Điểm mạnh là kinh nghiệm chiến đấu dày dặn và ý chí bất khuất, nhược điểm là mất một mắt khiến điểm mù lớn và thể lực không còn như trước.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
-- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
-- **Mãng Lục Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
-- **Hùng Ngân Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Nha
+- **Mãng Lục Trường** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hùng Ngân Lôi** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Hồ Thất Cửu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Mãng Huyền Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Báo Thiên Dạ Hành** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành

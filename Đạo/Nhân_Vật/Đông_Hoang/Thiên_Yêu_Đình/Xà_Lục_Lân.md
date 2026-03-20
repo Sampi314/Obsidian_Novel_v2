@@ -39,9 +39,9 @@ Là Xà Tộc Chiến Sĩ cảnh giới Kim Đan Trung Kỳ, Xà Lục Lân tu l
 - **Hùng Thiết Chưởng** (Thuộc hạ): Vệ Binh Trưởng chỉ huy Xà Tộc Chiến Sĩ
 - **Báo Vân Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hổ Hàn Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
-- **Trư Thiết Nha Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Trư Thiết Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hùng Thiết Chưởng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hồ Thanh Lăng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Lang Bạch Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
-Xà Lục Lân sinh ra trong ổ rắn xanh giữa rừng tre, nơi tre và rắn cộng sinh. Hắn sống tĩnh lặng và tu luyện kiên trì, không có khát vọng lớn nhưng trung thành tuyệt đối. Được Xà Độc Vương chọn làm cánh tay phải vì sự đáng tin cậy và vảy xanh có thể chống lại phần lớn nọc độc — kỹ năng quý giá khi ở cạnh kẻ độc nhất Đình. Mục tiêu hiện tại là bảo vệ chủ nhân và hoàn thiện kỹ thuật cường hóa vảy.
+Xà Lục Lân sinh ra trong ổ rắn xanh giữa rừng tre, nơi tre và rắn cộng sinh. Hắn sống tĩnh lặng và tu luyện kiên trì, không có khát vọng lớn nhưng trung thành tuyệt đối. Được Xà Độc Nha chọn làm cánh tay phải vì sự đáng tin cậy và vảy xanh có thể chống lại phần lớn nọc độc — kỹ năng quý giá khi ở cạnh kẻ độc nhất Đình. Mục tiêu hiện tại là bảo vệ chủ nhân và hoàn thiện kỹ thuật cường hóa vảy.

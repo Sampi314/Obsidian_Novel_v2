@@ -34,8 +34,8 @@ Báo Thiên Dạ Hành mang nhân hình một thanh niên mảnh khảnh thanh t
 Đạt cảnh giới Kim Đan Trung Kỳ, Báo Thiên Dạ Hành tu luyện "Dạ Hành Bách Bộ Sát" (夜行百步杀) — tăng tốc độ trong bóng tối lên gấp mười lần, kết hợp vuốt báo đen phủ ám khí xuyên thấu hộ thể. Tuyệt kỹ "Nhất Tức Thiên Ảnh" (一息千影) di chuyển nhanh đến mức tạo ra hàng ngàn tàn ảnh, đối thủ không phân biệt được thật giả trước khi bị giết. Điểm mạnh là tốc độ và ám sát nhất kích trong đêm, nhược điểm là ban ngày sức chiến đấu giảm sút rõ rệt và yếu trước tấn công diện rộng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
-- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hổ Huyết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Nha
 - **Xà Hồng Tín Tử** (Thuộc hạ): Sát Thủ Đoàn Trưởng chỉ huy Gián Điệp
 - **Hồ Thất Cửu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Hổ Phá Quân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành

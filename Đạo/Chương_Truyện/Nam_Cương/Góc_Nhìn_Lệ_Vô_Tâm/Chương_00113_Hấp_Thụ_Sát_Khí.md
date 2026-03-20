@@ -6,11 +6,11 @@
 <!-- NAVIGATION_END -->
 # Chương 113: Hấp Thụ Sát Khí
 
-Chiến hỏa đã thiêu rụi một phần Khu Chợ Đen, và sự hỗn loạn nhanh chóng lan rộng ra toàn bộ Vạn Yêu Thành như một giọt mực rơi vào chậu nước trong. Tiếng gầm thét của Lục Mãng Vương và sự phẫn nộ của Ngân Hùng Vương vang dội, kéo theo sự đáp trả hung hãn từ Huyết Hổ Vương. Những cuộc đụng độ nhỏ lẻ giữa các thế lực dưới trướng nhanh chóng leo thang thành một cuộc chiến tranh toàn diện, nơi sát khí và máu tươi nhuộm đỏ cả bầu trời đêm Đông Hoang.
+Chiến hỏa đã thiêu rụi một phần Khu Chợ Đen, và sự hỗn loạn nhanh chóng lan rộng ra toàn bộ Vạn Yêu Thành như một giọt mực rơi vào chậu nước trong. Tiếng gầm thét của Lục Mãng Trường và sự phẫn nộ của Ngân Hùng Lôi vang dội, kéo theo sự đáp trả hung hãn từ Huyết Hổ Nha. Những cuộc đụng độ nhỏ lẻ giữa các thế lực dưới trướng nhanh chóng leo thang thành một cuộc chiến tranh toàn diện, nơi sát khí và máu tươi nhuộm đỏ cả bầu trời đêm Đông Hoang.
 
 Giữa cơn bão táp đó, Lệ Vô Tâm lại là kẻ tĩnh lặng nhất.
 
-Hắn đang ở một căn mật thất tồi tàn nằm sâu dưới lòng đất, ngay ranh giới giữa lãnh địa của Lục Mãng Vương và Huyết Hổ Vương. Nơi này vốn là một hang động bị bỏ hoang, nhưng nay đã được hắn cẩn thận cải tạo thành một tế đàn ngập ngụa tà khí.
+Hắn đang ở một căn mật thất tồi tàn nằm sâu dưới lòng đất, ngay ranh giới giữa lãnh địa của Lục Mãng Trường và Huyết Hổ Nha. Nơi này vốn là một hang động bị bỏ hoang, nhưng nay đã được hắn cẩn thận cải tạo thành một tế đàn ngập ngụa tà khí.
 
 Trên mặt đất, những đường vân máu đỏ tươi vẽ nên một trận đồ phức tạp, mô phỏng lại Vạn Độc Huyết Tế Đại Trận nhưng ở quy mô nhỏ và tinh vi hơn rất nhiều. Tâm điểm của trận pháp là một khối Huyết Tinh thạch đang rung lên nhè nhẹ, cộng hưởng với từng nhịp đập của sinh mệnh đang tàn lụi phía trên.
 

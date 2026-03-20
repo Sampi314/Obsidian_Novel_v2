@@ -44,7 +44,7 @@
 - [Lang Thiên Hàn Dạ (狼千寒夜)](Băng_Lang_Bộ_Lạc/Lang_Thiên_Hàn_Dạ.md)
 - [Lang Thiên Nha Huyết (狼天牙血)](Băng_Lang_Bộ_Lạc/Lang_Thiên_Nha_Huyết.md)
 - [Lang Thiết Nha (狼鐵牙)](Băng_Lang_Bộ_Lạc/Lang_Thiết_Nha.md)
-- [Lang Tuyết Vương (狼雪王)](Băng_Lang_Bộ_Lạc/Lang_Tuyết_Vương.md)
+- [Lang Tuyết Nha (狼雪牙)](Băng_Lang_Bộ_Lạc/Lang_Tuyết_Nha.md)
 - [Lang Tĩnh Nguyệt (狼靜月)](Băng_Lang_Bộ_Lạc/Lang_Tĩnh_Nguyệt.md)
 
 ## Băng Lang Tàn Đội (冰狼残队) — 5
@@ -136,11 +136,11 @@
 
 ## Bạch Hồ Ẩn Tộc (白狐隐族) — 6
 
-- [Hồ Bạch Liên (狐白莲)](Bạch_Hồ_Ẩn_Tộc/Hồ_Bạch_Liên.md)
+- [Hồ Bạch Tuyết (狐白雪)](Bạch_Hồ_Ẩn_Tộc/Hồ_Bạch_Tuyết.md)
 - [Hồ Ngọc Châu (狐玉珠)](Bạch_Hồ_Ẩn_Tộc/Hồ_Ngọc_Châu.md)
 - [Hồ Thanh Nguyệt (狐青月)](Bạch_Hồ_Ẩn_Tộc/Hồ_Thanh_Nguyệt.md)
 - [Hồ Tiểu Bạch (狐小白)](Bạch_Hồ_Ẩn_Tộc/Hồ_Tiểu_Bạch.md)
-- [Hồ Tuyết Nhi (狐雪儿)](Bạch_Hồ_Ẩn_Tộc/Hồ_Tuyết_Nhi.md)
+- [Hồ Tuyết Linh (狐雪灵)](Bạch_Hồ_Ẩn_Tộc/Hồ_Tuyết_Linh.md)
 - [Hồ Ẩn Phong (狐隐风)](Bạch_Hồ_Ẩn_Tộc/Hồ_Ẩn_Phong.md)
 
 ## Bắc Hải Cự Yêu Hang (北海巨妖穴) — 8

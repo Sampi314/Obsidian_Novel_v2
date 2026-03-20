@@ -24,7 +24,7 @@ arcs:
         type: Pháp Khí
     stats: [60, 100, 180, 35, 120, 150]
     relationships:
-      - character: Sa Cổ Vương
+      - character: Sa Cổ Liệt
         description: Tộc Trưởng giao nhiệm vụ trinh sát, y trung thành nhưng giằng xé khi thấy thế giới bên ngoài
         feelings:
           yeu: 0
@@ -153,7 +153,7 @@ arcs:
     - **Bí mật giấu kín:** Thông tin y giữ lại không báo cáo — nếu bị phát hiện, y sẽ mất chức, mất lòng tin của Cổ Vương, và tệ hơn — tộc có thể bị tấn công bất ngờ vì thiếu thông tin.
 
 ## VI. QUAN HỆ
-- **Sa Cổ Vương — Chủ Mệnh Lệnh & Gánh Nặng Lương Tâm:**
+- **Sa Cổ Liệt — Chủ Mệnh Lệnh & Gánh Nặng Lương Tâm:**
     - Hồn Dạ trung thành với Cổ Vương — y biết Tộc Trưởng tin y vì y luôn hoàn thành nhiệm vụ. Nhưng sự giấu giếm gần đây đang ăn mòn lòng trung thành ấy: mỗi lần báo cáo, y bỏ qua một chi tiết, rồi hai, rồi ba — và mỗi chi tiết bỏ qua đều khiến y khó nhìn vào đôi mắt vàng kim của Tộc Trưởng hơn.
     - Y tự biện minh: *"Ta giữ lại vì Tộc Trưởng sẽ phản ứng thái quá. Nếu ngài biết Nhân Tộc đang tìm hang cổ, ngài sẽ phong tỏa hoàn toàn — và tộc sẽ chết ngạt."* Nhưng y cũng biết: lý do thật là y không muốn mất quyền ra ngoài. Sự trung thực với chính mình — kỹ năng y vẫn tự hào — đang sụp đổ.
 - **Sa Bạo — Đồng Minh Không Chính Thức:**

@@ -28,7 +28,7 @@ arcs:
         type: Hộ Giáp
     stats: [350, 500, 400, 300, 550, 450]
     relationships:
-      - character: Lang Tuyết Vương
+      - character: Lang Tuyết Nha
         description: Phu quân, tri kỷ trăm năm, người duy nhất bà thực sự tin tưởng hoàn toàn
         feelings:
           yeu: 80
@@ -146,7 +146,7 @@ arcs:
     - **Ngọc Bội Sói Nguyệt (狼月玉佩):** Viên ngọc trắng hình bán nguyệt, quà tặng kết đôi từ Tuyết Vương. Chứa giọt nguyệt quang cổ đại, phát sáng dịu vào ban đêm, tăng cường thị lực và tinh thần lực của bà trong bóng tối. Ngoài ra, ngọc bội cộng hưởng với Ấn Tín Băng Lang của Tuyết Vương — khi cả hai ở gần nhau, hàn khí và nguyệt quang hòa quyện, tạo phạm vi bảo hộ tăng cường.
 
 ## VI. QUAN HỆ
-- **Lang Tuyết Vương — Phu Quân & Tri Kỷ:**
+- **Lang Tuyết Nha — Phu Quân & Tri Kỷ:**
     - Gần năm trăm năm bên nhau đã biến tình yêu thành sự thấu hiểu hoàn hảo — Nguyệt Nha biết chồng nghĩ gì trước khi lão nói, biết khi nào lão lo lắng dù mặt không đổi, biết khi nào lão cần bà lên tiếng và khi nào lão cần bà im lặng. Hai người không cần thể hiện tình cảm trước mặt người ngoài — nhưng mỗi đêm, khi cả bộ lạc ngủ, Tuyết Vương nằm cuộn quanh bà ở nguyên hình sói, mũi chạm mũi, hai hơi thở hòa làm một.
 - **Lang Cương — Con Trai & Nỗi Lo:**
     - Nguyệt Nha lo cho Cương nhiều hơn Tuyết Vương — vì bà hiểu rằng tính nóng nảy của con trai không chỉ gây nguy hiểm cho hắn mà còn cho cả bộ lạc nếu hắn kế vị. Bà đã thử mọi cách — dạy nhẫn nại bằng trò chơi cờ chiến thuật, kể câu chuyện về những tù trưởng thất bại vì nóng vội — nhưng Cương không nghe. Bà bắt đầu tính đến phương án thứ hai: đào tạo Tĩnh Nguyệt thành lựa chọn dự phòng, dù biết điều đó sẽ gây chiến tranh kế vị.

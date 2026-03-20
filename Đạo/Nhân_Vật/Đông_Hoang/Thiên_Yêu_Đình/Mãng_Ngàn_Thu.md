@@ -40,7 +40,7 @@ Là Trưởng Lão cảnh giới Nguyên Anh Sơ Kỳ, Mãng Ngàn Thu tu luyệ
 - **Hổ Bạch Nhãn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Lang Thiên Dạ Hành** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Viên Bá Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
-- **Xà Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Xà Độc Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hùng Thiên Sơn Hống** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mãng Ngàn Thu đã sống hơn hai ngàn năm, phần lớn thời gian nằm im một chỗ ngủ đông và tu luyện. Hắn phát hiện khả năng tiên tri khi vô tình nhìn thấy một trận đại chiến trước khi nó xảy ra, cảnh báo Thiên Yêu Đình chuẩn bị và tránh được thảm họa. Từ đó, hắn được tôn làm Trưởng Lão dù tu vi không phải cao nhất. Bí mật nặng nề nhất là hắn đã nhìn thấy một thị kiến về sự sụp đổ của Thiên Yêu Đình trong tương lai xa, nhưng không dám nói ra vì sợ gây hoảng loạn.

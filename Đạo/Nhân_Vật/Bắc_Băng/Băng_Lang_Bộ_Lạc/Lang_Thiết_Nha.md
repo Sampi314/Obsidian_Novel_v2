@@ -27,7 +27,7 @@ arcs:
         type: Linh Vật
     stats: [400, 200, 250, 100, 500, 350]
     relationships:
-      - character: Lang Tuyết Vương
+      - character: Lang Tuyết Nha
         description: Đại Tù Trưởng, người giao phó nhiệm vụ thiêng liêng nhất — bảo vệ Hang Lang Thần
         feelings:
           yeu: 0
@@ -127,7 +127,7 @@ arcs:
     - **Thiết Nha Khiên (鐵牙盾):** Khiên tròn lớn bằng huyền thiết — truyền thừa Vệ Binh Trưởng qua nhiều đời. Nặng đến mức người bình thường không nhấc nổi, nhưng hắn dùng một tay. Bề mặt khắc hình nanh sói và phù văn bảo hộ cổ — chặn được kiếm khí cấp Kim Đan mà không nứt.
 
 ## VI. QUAN HỆ
-- **Lang Tuyết Vương — Chủ Nhân & Người Giao Phó:**
+- **Lang Tuyết Nha — Chủ Nhân & Người Giao Phó:**
     - Tuyết Vương giao cho Thiết Nha nhiệm vụ bảo vệ Hang Lang Thần — nơi chứa di cốt tổ tiên và bí tịch cổ đại. Đây là nhiệm vụ thiêng liêng nhất bộ lạc, và Thiết Nha coi đó là vinh dự lớn nhất đời mình. Hắn không cần khen, không cần thưởng — chỉ cần được tiếp tục đứng ở cửa hang.
 - **Lang Thiên Nha Huyết — Đàn Em Đang Uốn Nắn:**
     - Thiên Nha Huyết — chiến binh trẻ cuồng chiến — bị Thiên Nộ phái đến dưới quyền Thiết Nha để "học kỷ luật." Thiết Nha đối xử với gã bằng roi sắt — bắt đứng canh gác, bắt tập bất động, phạt mỗi khi nóng nảy. Thiên Nha Huyết ghét Thiết Nha — nhưng dần dần bắt đầu hiểu rằng kỷ luật không phải xiềng xích mà là nền tảng.

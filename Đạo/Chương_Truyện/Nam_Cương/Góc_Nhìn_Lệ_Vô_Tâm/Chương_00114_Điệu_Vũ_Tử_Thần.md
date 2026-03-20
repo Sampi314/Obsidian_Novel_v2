@@ -12,7 +12,7 @@
 
 ---
 
-Cảm giác đột phá ranh giới Trúc Cơ Viên Mãn mang lại cho Lệ Vô Tâm một thứ khoái cảm gây nghiện, thứ khoái cảm của quyền lực tuyệt đối khi định đoạt sinh tử kẻ khác. Những mạch máu dưới da hắn nổi lên như những con giun đỏ ngòm, luân chuyển luồng Huyết Độc Chân Khí đặc sệt, tràn đầy bạo lệ. Hắn vừa bước ra khỏi mật thất, liền ngự phong bay thẳng đến trung tâm Khu Đấu Trường của Huyết Hổ Vương – tâm điểm của cuộc tàn sát tại Vạn Yêu Thành.
+Cảm giác đột phá ranh giới Trúc Cơ Viên Mãn mang lại cho Lệ Vô Tâm một thứ khoái cảm gây nghiện, thứ khoái cảm của quyền lực tuyệt đối khi định đoạt sinh tử kẻ khác. Những mạch máu dưới da hắn nổi lên như những con giun đỏ ngòm, luân chuyển luồng Huyết Độc Chân Khí đặc sệt, tràn đầy bạo lệ. Hắn vừa bước ra khỏi mật thất, liền ngự phong bay thẳng đến trung tâm Khu Đấu Trường của Huyết Hổ Nha – tâm điểm của cuộc tàn sát tại Vạn Yêu Thành.
 
 Gió đêm rít gào, mang theo hơi thở của tử vong tạt qua khuôn mặt lạnh lẽo của Vạn Độc Thánh Tử. Lệ Vô Tâm thả mình lơ lửng trên cao, ánh mắt hắn nhìn xuống biển máu bên dưới không mang theo một tia xót thương, mà chỉ có sự thỏa mãn của một kẻ săn mồi đang ngắm nhìn bầy cừu tự cắn xé lẫn nhau.
 

@@ -44,7 +44,7 @@ arcs:
           tin: 40
           so: 0
           on: 0
-      - character: Lục Mãng Vương
+      - character: Lục Mãng Trường
         description: Chủ nhân tối thượng mà nó chưa từng gặp mặt, chỉ biết qua lệnh truyền
         feelings:
           yeu: 0
@@ -83,9 +83,9 @@ Bốc đồng, năng động, không ngồi yên được quá nửa khắc. Nó
 ### Tính Cách
 - **Nhanh Miệng Nhanh Tay:** Nó nói nhanh, hành động nhanh, và hối hận nhanh. Hôm trước cãi nhau với đồng đội, hôm sau quên sạch. Hắc Vĩ phạt nó ba roi vì bất tuân lệnh, nó nhăn mặt chịu đòn xong chạy đi tuần tra như không có chuyện gì. Tốc độ xử lý cảm xúc của nó nhanh bằng tốc độ bò — mọi thứ đến rồi đi, không đọng lại.
 
-- **Trung Thành Bản Năng:** Nó không hiểu chính trị, không biết Thanh Lân đang giấu bí mật gì, không quan tâm Lục Mãng Vương muốn gì. Nó chỉ biết: Thanh Lân nuôi nó lớn, vậy nó bảo vệ Thanh Lân. Hắc Vĩ dạy nó chiến đấu, vậy nó nghe Hắc Vĩ. Hạ Tộc là nhà, vậy nó tuần tra biên giới. Sự trung thành của nó không qua suy nghĩ — nó là bản năng, giống rắn bảo vệ hang.
+- **Trung Thành Bản Năng:** Nó không hiểu chính trị, không biết Thanh Lân đang giấu bí mật gì, không quan tâm Lục Mãng Trường muốn gì. Nó chỉ biết: Thanh Lân nuôi nó lớn, vậy nó bảo vệ Thanh Lân. Hắc Vĩ dạy nó chiến đấu, vậy nó nghe Hắc Vĩ. Hạ Tộc là nhà, vậy nó tuần tra biên giới. Sự trung thành của nó không qua suy nghĩ — nó là bản năng, giống rắn bảo vệ hang.
 
-- **Tò Mò Nguy Hiểm:** Nó lén xuống hang sâu nhất thăm Xà Bạch Linh dù bị cấm. Nó bò ra ngoài lãnh thổ dù biết nguy hiểm. Nó hỏi Thanh Lân "tại sao mình phải nộp nọc cho Lục Mãng Vương?" dù ai cũng bảo không nên hỏi. Sự tò mò này một ngày sẽ cứu nó hoặc giết nó — chưa biết là cái nào.
+- **Tò Mò Nguy Hiểm:** Nó lén xuống hang sâu nhất thăm Xà Bạch Linh dù bị cấm. Nó bò ra ngoài lãnh thổ dù biết nguy hiểm. Nó hỏi Thanh Lân "tại sao mình phải nộp nọc cho Lục Mãng Trường?" dù ai cũng bảo không nên hỏi. Sự tò mò này một ngày sẽ cứu nó hoặc giết nó — chưa biết là cái nào.
 
 ### Đạo Tâm
 **"Tốc Hành Đạo" (速行道) — Đạo Của Kẻ Đi Nhanh."**
@@ -104,7 +104,7 @@ Sáu tháng trước, trong một lần tuần tra, nó vô tình phát hiện l
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 - **Thanh Mãng Thôn Thiên Quyết (青蟒吞天訣) — Phiên Bản Sơ Kỳ:**
-    - Công pháp nền tảng do Lục Mãng Vương ban cho Hạ Tộc. Ở cấp độ Luyện Khí, chỉ tăng cường thể chất cơ bản — da cứng hơn rắn thường, nọc mạnh hơn một chút, phản xạ nhanh hơn.
+    - Công pháp nền tảng do Lục Mãng Trường ban cho Hạ Tộc. Ở cấp độ Luyện Khí, chỉ tăng cường thể chất cơ bản — da cứng hơn rắn thường, nọc mạnh hơn một chút, phản xạ nhanh hơn.
 
 - **Thanh Phong Tốc Hành (青風速行) — Bước Gió Xanh:**
     - Kỹ năng di chuyển tự phát triển. Khi kích hoạt, toàn thân trở nên mềm dẻo cực độ, luồn qua khe hở nhỏ nhất, tốc độ bò tăng gấp ba — gần như biến thành vệt xanh mờ. Ở nguyên hình hiệu quả hơn nhân hình nhiều lần. Hạn chế: chỉ duy trì được nửa khắc, sau đó kiệt sức cần nghỉ.

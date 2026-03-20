@@ -1,7 +1,7 @@
 ---
 type: character
-name: Hồ Tuyết Nhi
-hantu: 狐雪儿
+name: Hồ Tuyết Linh
+hantu: 狐雪灵
 archetype: Trưởng Lão
 race: Yêu Tộc
 dao_tam: Dĩ Chiến Hộ Tộc
@@ -74,10 +74,10 @@ arcs:
           on: 15
 ---
 
-# HỒ SƠ NHÂN VẬT: HỒ TUYẾT NHI (狐雪儿)
+# HỒ SƠ NHÂN VẬT: HỒ TUYẾT NHI (狐雪灵)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Tên:** Hồ Tuyết Nhi (狐雪儿).
+- **Tên:** Hồ Tuyết Linh (狐雪灵).
 - **Biệt Danh:** Bạch Sương Lão Hồ (白霜老狐) — tên gọi mà các tộc nhân kính cẩn dùng phía sau lưng, ám chỉ sức mạnh và sự lạnh lùng trong chiến đấu; Tuyết Bà (雪婆) — tên mà dân chài gọi khi thấy bà lão bán muối mỗi sáng sớm.
 - **Tuổi:** 361 tuổi (ngoại hình ngụy trang là bà lão gầy gò khoảng sáu mươi, tóc bạc trắng, lưng hơi còng; nguyên hình yêu tộc trẻ hơn nhiều — diện mạo phụ nữ khoảng ba mươi lăm, sắc bén và uy nghiêm).
 - **Chủng Tộc:** Yêu Tộc — Bạch Hồ Tuyết (白狐雪), trưởng nữ dòng chính Cửu Vĩ Hồ Tộc, mang huyết thống thuần khiết nhất còn sót lại.
@@ -160,7 +160,7 @@ arcs:
 
 ## VII. GIAI THOẠI
 > *"Chiêu hay nhất là không cần đánh. Nhưng nếu buộc phải đánh, thì giết cho sạch, không để sống sót một mống."*
-> — Hồ Tuyết Nhi, lời dạy cho tộc nhân trẻ.
+> — Hồ Tuyết Linh, lời dạy cho tộc nhân trẻ.
 
 > *"Trước thảm sát, chị ấy cười nhiều nhất tộc. Sau thảm sát, chị ấy không cười suốt năm mươi năm."*
 > — Hồ Bạch Liên, khi nhắc về chị gái.
