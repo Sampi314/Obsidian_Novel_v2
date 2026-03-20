@@ -32,9 +32,8 @@ Phạm Tiểu Ngạo là một thanh niên cao gầy, mắt sáng rực đầy n
 Phạm Tiểu Ngạo sở trường quyền cước cận chiến, đặc biệt là Cuồng Phong Liên Hoàn Quyền (狂風連環拳) — một bộ quyền pháp hắn tự sáng tạo, kết hợp tốc độ và sức mạnh bùng nổ. Dù chỉ Trúc Cơ Trung Kỳ nhưng sức đánh gần của hắn khiến đồng cảnh giới phải kiêng dè. Điểm yếu là thiếu phòng ngự từ xa và dễ bị khiêu khích mất bình tĩnh trong chiến đấu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Ảnh Thủ:** Minh Chủ Liên Minh, người mà Tiểu Ngạo kính trọng nhất, tuy không biết thân phận thật nhưng tuyệt đối tin tưởng mệnh lệnh của Ảnh Thủ.
-- **Trần Ám Vệ:** Phó Minh Chủ, thường xuyên nhắc nhở Tiểu Ngạo kiềm chế tính nóng, hai người hay cãi nhau nhưng thực tâm coi nhau như huynh đệ.
-- **Nội môn đệ tử Cửu Hoa Kiếm Tông:** Là đối tượng hắn căm ghét nhất vì thái độ khinh miệt đối với ngoại môn.
-
+- **Lý Ảnh Thủ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ngoại Môn Đệ Tử Liên Minh
+- **Lý Ảnh Thủ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Ảnh Thủ
+- **Trần Ám Vệ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ngoại Môn Đệ Tử Liên Minh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Tiểu Ngạo là con trai một ngoại môn đệ tử đã chết trong nhiệm vụ nguy hiểm mà nội môn từ chối nhận. Mang theo mối thù mất cha, hắn gia nhập Cửu Hoa Kiếm Tông quyết tâm trở nên mạnh hơn. Tuy nhiên, tư chất kiếm đạo trung bình khiến hắn mãi chỉ là ngoại môn, chuyển sang tu luyện quyền pháp. Được Liên Minh chiêu mộ sau khi hắn đánh nhau với một nội môn đệ tử vì bất bình và suýt bị trục xuất. Hiện tại, hắn là một trong những thành viên hoạt động tích cực nhất, nhưng tính bốc đồng khiến hắn trở thành mắt xích yếu nhất trong chuỗi bảo mật của Liên Minh.
