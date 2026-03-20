@@ -25701,9 +25701,75 @@ const relationshipData = {
       "role": "member",
       "pov": false,
       "avatar_color": "#4caf50"
+    },
+    {
+      "id": "oanh_sa_ngan",
+      "name": "Oanh Sa Ngân",
+      "title": "Thợ Thủ Công",
+      "realm": "Trúc Cơ",
+      "faction": "Lông Vũ Phường",
+      "region": "Tây Mạc",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ff9800",
+      "race": "Vũ Tộc",
+      "personality": "Trầm lặng, Tỉ mỉ, Lãng mạn",
+      "description": "Oanh Sa Ngân mang vẻ đẹp mỏng manh của loài chim Oanh, với đôi cánh nhỏ màu cát vàng điểm xuyết những sợi lông vũ lấp lánh như bụi kim loại dưới nắng Tây Mạc. Sự điềm tĩnh và kiên nhẫn của nàng khiến nàng trở thành một thợ phân loại và chế tác xuất sắc trong phường."
+    },
+    {
+      "id": "tham_nham",
+      "name": "Thâm Nham",
+      "title": "Đội Trưởng",
+      "realm": "Trúc Cơ",
+      "faction": "Địa Tâm Thám Hiểm Đội",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#9e9e9e",
+      "race": "Thạch Tộc",
+      "personality": "Kiên định, Lạnh lùng, Gan dạ",
+      "description": "Thâm Nham có thân xác đúc từ hắc diệu thạch đen bóng, những đường nứt tự nhiên trên cơ thể tỏa ra ánh sáng nhàn nhạt của linh lực địa tâm, cho thấy mức độ hấp thụ năng lượng lòng đất cao hơn hẳn đồng loại. Ông là một người thực chứng cực đoan, gan dạ đến mức liều lĩnh và không tin vào những truyền thuyết sáo rỗng."
+    },
+    {
+      "id": "thuy_linh_nhi",
+      "name": "Thủy Linh Nhi",
+      "title": "Đoàn Trưởng",
+      "realm": "Trúc Cơ",
+      "faction": "San Hô Thủ Hộ Đoàn",
+      "region": "Tây Mạc",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#03a9f4",
+      "race": "Hải Tộc (Nhân Ngư)",
+      "personality": "Kiên cường, Dũng cảm, Nhân ái",
+      "description": "Thủy Linh Nhi là một Mỹ Nhân Ngư (Nhân Ngư) có vóc dáng vô cùng nhỏ bé so với đồng tộc, chỉ cao bằng một thiếu nữ Nhân Tộc mười lăm tuổi. Mái tóc nàng màu xanh lam lấp lánh như nước biển vùng nước nông, thường được tết gọn gàng bằng những nhánh san hô nhỏ xíu. Tuy nhỏ bé và yếu ớt về thể chất, Thủy Linh Nhi lại sở hữu một tinh thần thép, lòng dũng cảm phi thường và một trái tim nhân ái bao la dành cho mọi sinh linh trong rạn san hô."
     }
   ],
   "relationships": [
+    {
+      "source": "oanh_sa_ngan",
+      "target": "vu_mao_nhi",
+      "type": "Môn Đồ/Sư Phụ",
+      "strength": 80,
+      "bidirectional": false,
+      "description": "Kính trọng bà như một người mẹ và luôn cố gắng hoàn thiện kỹ năng chế tác để đền đáp công ơn cứu mạng."
+    },
+    {
+      "source": "tham_nham",
+      "target": "ban_thach",
+      "type": "Cạnh Tranh/Đối Thủ",
+      "strength": -50,
+      "bidirectional": true,
+      "description": "Mâu thuẫn tư tưởng sâu sắc, thường xuyên tranh cãi gay gắt nhưng chưa đến mức sinh tử."
+    },
+    {
+      "source": "thuy_linh_nhi",
+      "target": "nguyen_thuy_tien",
+      "type": "Đồng Minh/Hợp Tác",
+      "strength": 60,
+      "bidirectional": true,
+      "description": "Cả hai thường xuyên trao đổi thông tin về tình trạng rạn san hô và đánh giá cao việc tuân thủ quy tắc khai thác bền vững."
+    },
     {
       "source": "tran_hai_phong",
       "target": "hac_hai_hai_tac",
