@@ -48,8 +48,8 @@ arcs:
           yeu: 0
           han: 0
           kinh: 0
-          tin: 0
-          so: 0
+          tin: -25
+          so: 30
           on: 0
 ---
 
