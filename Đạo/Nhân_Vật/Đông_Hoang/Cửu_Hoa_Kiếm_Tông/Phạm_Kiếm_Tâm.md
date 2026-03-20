@@ -32,9 +32,13 @@ Dáng người nhỏ nhắn nhanh nhẹn, đôi mắt to tròn lanh lợi. Nụ 
 Tu luyện công pháp cốt lõi của Cửu Hoa Kiếm Tông đạt trình độ cao thâm. Chiêu thức 范劍心·Hộ Pháp Ấn (范劍心·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hoàng Thiên Phong:** Hộ Pháp, đồng liêu quan trọng nhất trong Cửu Hoa Kiếm Tông.
-- **Lê Hàn Sương:** Trưởng Lão, đối tác thường xuyên phối hợp.
-- **Lý Lục Trần:** Tông Chủ, mối quan hệ tin cậy lẫn nhau.
-
+- **Lý Lục Trần** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Cửu Hoa Kiếm Tông
+- **Lý Lục Trần** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Lục Trần
+- **Trần Cửu Hoa** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Cửu Hoa Kiếm Tông
+- **Đặng Minh Nguyệt** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Cửu Hoa Kiếm Tông
+- **Diệp Tĩnh Sương** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Cửu Hoa Kiếm Tông
+- **Hoàng Thiên Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Cửu Hoa Kiếm Tông
+- **Nguyễn Tĩnh Kiếm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Cửu Hoa Kiếm Tông
+- **Vũ Phi Kiếm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Cửu Hoa Kiếm Tông
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Kiếm Tâm vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Cửu Hoa Kiếm Tông. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Cửu Hoa Kiếm Tông và dần khẳng định vị trí của mình. Với tu vi Nguyên Anh Đỉnh Phong, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hộ Pháp.
