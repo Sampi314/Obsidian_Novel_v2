@@ -164,21 +164,19 @@ Kim đan kết thành muộn — năm 150 tuổi — vì hắn dành phần lớ
 - **Vạn Dược Hải Nang (万药海囊) (Hoàng Cấp Hạ Phẩm):** Túi trữ vật dạng bong bóng nước, bên trong duy trì môi trường bảo quản dược liệu tối ưu — độ ẩm, nhiệt độ, áp suất đều kiểm soát. Chứa hơn ba trăm loại dược liệu và đan dược thường dùng, luôn mang theo bên mình.
 
 ## VI. QUAN HỆ
-
-### Gia Đình
+- **Thủy Vô Trần** (Chủ tớ): Đảo Chủ, bệnh nhân ngoan cố nhất, kính trọng nhưng hay cằn nhằn
+- **Hải Triều Kiếm** (Đồng minh): Bệnh nhân thường xuyên nhất, lão chiến binh cứng đầu
+- **Lý Thanh Lãng** (Đồng minh): Em họ xa, bệnh nhân quen thuộc, kẻ phá hoại thân thể chuyên nghiệp
+- **Thủy Nguyệt Hàn** (Gia tộc): Con gái Đảo Chủ, bệnh nhân tự hủy, lo lắng cho sức khỏe nàng
+- **Trần Kiếm Ngư** (Đồng minh): Trưởng lão, người cung cấp dược liệu biển hiếm, đồng nghiệp tin cậy
+- **Vũ Sóng Triều** (Đệ tử): Đệ tử nội môn, trợ thủ thu hái dược liệu, chịu khó
+- **Trần Tiểu Kiếm** (Đồng minh): Cháu ngoại Kiếm Ngư, cô bé hay đến Lưu Thủy Viện chơi, dễ thương
 - **Cha (Lý Hải Phong — còn sống, nghỉ hưu):** Dược sư tiền nhiệm, hiện sống ẩn cư trên vách đá phía bắc đảo, trồng dược thảo. Cha con gặp nhau mỗi tháng — cha mang dược liệu mới, con mang đan dược mới — hai người ngồi thử thuốc, bàn luận y thuật, không nói chuyện riêng tư. Giản đơn, lặng lẽ, nhưng ấm áp theo cách của hai y sư.
-
 - **Mẹ (còn sống):** Vẫn thu hái dược liệu biển, sức khỏe tốt nhờ phương pháp giải độc mà Hải Đào cứu năm xưa. Mẹ hay gửi đồ ăn đến Lưu Thủy Viện vì lo con trai bỏ bữa — Hải Đào than phiền nhưng ăn hết.
-
-### Tông Môn
 - **Thủy Vô Trần:** Bệnh nhân ngoan cố nhất — Đảo Chủ hay bỏ bữa, ngồi thiền quá lâu, không chịu khám định kỳ. Hải Đào phải dùng đủ mọi cách — từ nhắc nhở lịch sự đến đe dọa "nếu Đảo Chủ gục thì cả đảo loạn." Nhưng cũng là bệnh nhân mà hắn tôn trọng nhất — vì sau cái chết của Bạch Nguyệt Hàn, Vô Trần không trách hắn mà còn giao nhiệm vụ nghiên cứu. Ơn ấy, Hải Đào ghi nhớ.
-
 - **Lý Thanh Lãng:** Em họ xa, nguồn thu nhập ổn định nhất (vì bị thương liên tục). Hai người cãi nhau mỗi lần gặp — Thanh Lãng kêu thuốc đắng, Hải Đào kêu "đắng là thuốc, ngọt là độc, im đi uống đi." Nhưng mỗi khi Thanh Lãng bị thương nặng thật, Hải Đào không nói gì — chỉ chữa, tay run nhẹ, và sau khi xong, quay mặt đi lẩm bẩm: "Lần nữa là ta không chữa." Nhưng lần nào cũng chữa.
-
 - **Thủy Nguyệt Hàn:** Bệnh nhân lo lắng nhất — nàng luyện kiếm quá sức, thủy linh khí hàn hóa ảnh hưởng sức khỏe, tay luôn lạnh, thể lực yếu. Hải Đào đã nhiều lần cảnh báo nhưng nàng không nghe — giống cha. Hắn lặng lẽ pha trà ấm có thảo dược gửi đến phòng nàng mỗi tối — không nói là thuốc, chỉ nói "trà ngon."
-
 - **Trần Kiếm Ngư:** Nguồn cung dược liệu biển hiếm. Kiếm Ngư biết mọi vùng biển — biết đâu mọc san hô dược, đâu có hải tảo quý, đâu có yêu thú biển mang nội đan đặc biệt. Hai người trao đổi thông tin thường xuyên — Kiếm Ngư mang dược liệu, Hải Đào mang đan dược. Quan hệ "mua bán" nhưng tôn trọng chân thành.
-
 ## VII. GIAI THOẠI
 
 > *"Ta không cứu được tất cả mọi người — nhưng ta sẽ không ngừng cố. Ngày nào ta ngừng, ngày đó ta nên bỏ nghề."*

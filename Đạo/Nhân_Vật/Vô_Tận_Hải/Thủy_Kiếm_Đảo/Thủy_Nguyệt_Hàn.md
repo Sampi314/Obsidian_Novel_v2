@@ -163,19 +163,18 @@ Từ đó, nàng càng thu mình hơn. Lớp băng dày hơn. Kiếm sắc hơn.
 - **Thủy Nguyệt Bội Ngọc (水月佩玉) (Hoàng Cấp Trung Phẩm):** Viên ngọc bội hình giọt nước của mẹ — bên trong phong ấn một sợi tóc và một chút tàn dư linh lực của Bạch Nguyệt Hàn. Ngọc bội có khả năng tự động kích hoạt lá chắn khi chủ nhân gặp nguy — bảo vệ một lần duy nhất trước khi linh lực cạn. Nguyệt Hàn đeo suốt ngày đêm, không bao giờ tháo ra.
 
 ## VI. QUAN HỆ
-
-### Gia Đình
+- **Hải Triều Kiếm** (Chủ tớ): Con gái Đảo Chủ, xem như cháu gái, lặng lẽ bảo vệ
+- **Lý Hải Đào** (Gia tộc): Con gái Đảo Chủ, bệnh nhân tự hủy, lo lắng cho sức khỏe nàng
+- **Lý Thanh Lãng** (Kình địch): Sư muội đồng thế hệ, đối thủ kiếm thuật, mối quan hệ phức tạp
+- **Thủy Vô Trần** (Kẻ thù): Cha ruột, Đảo Chủ, kính trọng nhưng xa cách, khao khát được cha nhìn nhận
+- **Trần Kiếm Ngư** (Đồng minh): Trưởng lão hiền hậu, người hay lén dúi cho đồ ăn ngon, ông lão dễ thương
+- **Trần Tiểu Kiếm** (Đệ tử): Sư muội nhỏ, đệ tử cùng luyện tập, thương mến như em gái
+- **Vũ Sóng Triều** (Đệ tử): Sư đệ nội môn, đệ tử nhiệt huyết, hay giúp đỡ
 - **Thủy Vô Trần (Cha):** Mối quan hệ phức tạp nhất đời nàng. Nàng kính trọng cha như Đảo Chủ, nhưng hận cha như người cha thiếu vắng. Nàng biết cha yêu thương mình — vì Hải Triều Kiếm kể, vì nàng nhận ra kiếm trước cửa phòng, vì nàng cảm nhận kết giới bảo vệ phòng ngủ mỗi đêm — nhưng nàng muốn cha nói ra, chứ không phải đoán. Đôi khi, khi tập kiếm dưới trăng, nàng tưởng tượng cha đứng xem và nói: "Con giỏi lắm." Rồi nàng mở mắt, bờ đá trống trơn, chỉ có sóng biển vỗ.
-
 - **Bạch Nguyệt Hàn (Mẹ — đã mất):** Ký ức về mẹ mờ nhạt — nàng chỉ nhớ mùi tóc, giọng hát ru, và đôi tay ấm áp. Viên ngọc bội là sợi dây duy nhất kết nối hai mẹ con. Nàng luyện Nguyệt Ảnh Kiếm Pháp không chỉ vì mạnh — mà vì mỗi khi múa kiếm theo phong cách mẹ, nàng cảm thấy mẹ vẫn ở bên.
-
-### Tông Môn
 - **Hải Triều Kiếm:** Sư bá, người thay cha kể chuyện. Nguyệt Hàn thân với Hải Triều Kiếm hơn cha ruột — vì lão không ngại bày tỏ tình cảm, hay kéo nàng uống rượu (dù nàng không uống được), kể chuyện cha thuở nhỏ — những câu chuyện mà Vô Trần không bao giờ tự kể. Nhờ Hải Triều Kiếm, nàng biết cha từng là đứa trẻ mồ côi, biết cha từng cười, biết cha yêu mẹ sâu đậm thế nào. Và nàng hiểu hơn — dù chưa tha thứ hoàn toàn.
-
 - **Lý Thanh Lãng:** Đối thủ kiếm thuật, mối quan hệ rắc rối. Nàng biết Thanh Lãng có tình ý — nhìn hắn nhìn mình đủ biết. Nhưng nàng không biết mình cảm thấy gì — đôi khi khó chịu vì hắn quá ồn ào, đôi khi ấm lòng vì hắn liều mạng cứu mình. Nàng chọn cách phớt lờ và tập trung vào kiếm — "khi nào ta hiểu được mình muốn gì, ta sẽ trả lời."
-
 - **Trần Tiểu Kiếm:** Em gái không cùng huyết thống. Tiểu Kiếm là người duy nhất xuyên qua lớp băng của Nguyệt Hàn mà không cần cố gắng — vì Tiểu Kiếm chân thành, thẳng thắn, không biết sợ. Hai người luyện kiếm cùng nhau mỗi sáng, ăn tối cùng nhau mỗi tối, và Nguyệt Hàn lặng lẽ dạy Tiểu Kiếm những chiêu thức nàng tự sáng tạo — điều mà nàng không chia sẻ với bất kỳ ai khác.
-
 ## VII. GIAI THOẠI
 
 > *"Trăng không cần ai khen sáng — nhưng nếu có người đứng dưới nhìn lên, trăng sẽ chiếu rực hơn."*
