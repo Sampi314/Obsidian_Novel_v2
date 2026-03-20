@@ -24,6 +24,15 @@ arcs:
           tin: 35
           so: 0
           on: 0
+      - character: Triệu Thanh Hằng
+        description: Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 20
+          tin: 35
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: TƯỚC TUYẾT NHI (雀雪兒)
