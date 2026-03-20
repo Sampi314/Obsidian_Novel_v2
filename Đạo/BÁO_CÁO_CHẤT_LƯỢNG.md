@@ -12,7 +12,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Phá Băng Thương Đội (Bắc Băng)
+### [Hiện Tại] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang) - Phần 4
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lê Bạch Liên, Lê Thiên Vũ, Lê Tiểu Liên thuộc khu vực Đông Hoang.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Phá Băng Thương Đội (Bắc Băng)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 2 nhân vật Phạm Linh Kế, Đặng Hỏa Nhi thuộc khu vực Bắc Băng.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 

@@ -26,13 +26,15 @@ arcs:
 - **Phe Phái:** Cửu Hoa Kiếm Tông
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-*(Chưa xác định)*
+Lê Thiên Vũ mang dáng vẻ uy nghi, đỉnh đạc của một Chân Truyền Đệ Tử thuộc đỉnh chính Thiên Hoa Phong. Y có khuôn mặt góc cạnh, đôi mắt sáng như sao và luôn khoác đạo bào màu vàng nhạt điểm xuyết viền mây trắng. Tính cách y điềm tĩnh, suy nghĩ thấu đáo và luôn đặt đại cục của tông môn lên hàng đầu. Lời nói của Thiên Vũ tuy nhẹ nhàng nhưng mang theo áp lực vô hình, khiến các sư đệ sư muội không dám làm trái.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là tinh anh của Thiên Hoa Phong, Lê Thiên Vũ sở hữu kiếm pháp mang tầm vóc rộng lớn và bao quát. Tuyệt kỹ thành danh của y là *Thiên Vũ Phá Không Kiếm* (天羽破空劍), một kiếm chiêu ngưng tụ kim linh khí sắc bén để chọc thủng mọi sự phòng ngự. Điểm mạnh của Thiên Vũ là khả năng duy trì thế trận ổn định và kiểm soát nhịp độ chiến đấu. Tuy nhiên, y thiếu đi sự bạo liệt và hung hãn trong những tình huống cần phải "đặt cược" sinh tử.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Lục Trần:** Tông Chủ. Là ân sư chỉ dạy trực tiếp cho Thiên Vũ, người mà y coi là tấm gương mẫu mực để noi theo.
+- **Hoàng Thiên Dực:** Thánh Tử. Vừa là bạn đồng tu, vừa là đối thủ cạnh tranh công bằng trên con đường trở thành rường cột của tông môn.
+- **Lê Bạch Liên:** Biểu muội họ xa. Thiên Vũ âm thầm quan sát và khích lệ nàng, đánh giá cao sự nỗ lực và ý chí kiên cường của cô biểu muội này.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Lê Thiên Vũ xuất thân từ nhánh chính của Lê gia - một thế gia tu tiên từng có thời kỳ hoàng kim tại Đông Hoang. Mang trên vai kỳ vọng phục hưng gia tộc, y thể hiện thiên phú trác tuyệt ngay từ khi bái nhập Cửu Hoa Kiếm Tông. Dưới sự dẫn dắt của Tông Chủ Lục Trần, Thiên Vũ nhanh chóng thăng tiến và trở thành Chân Truyền Đệ Tử cốt cán tại Thiên Hoa Phong. Hiện tại, y không chỉ đóng vai trò rèn luyện bản thân mà còn phụ trợ Tông Chủ trong việc điều hành các công việc sự vụ thường ngày của tông môn.
