@@ -51,6 +51,15 @@ arcs:
           tin: 20
           so: 0
           on: 0
+      - character: Phùng Tiêu
+        description: Lục Sát, kẻ dưới mà ông cung cấp nguyên liệu độc dược cho bẫy
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 20
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẠ THIÊN CHÂM (夏天針)
