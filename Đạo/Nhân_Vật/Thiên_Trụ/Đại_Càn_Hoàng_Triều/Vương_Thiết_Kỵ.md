@@ -32,9 +32,9 @@ Thân hình vạm vỡ như tháp sắt, cao hơn hai mét, da ngăm đen rám n
 Tu luyện Thiết Kỵ Chiến Thể, toàn thân cứng như huyền thiết, có thể chịu được công kích của tu sĩ cùng cảnh giới mà không hề hấn. Sở trường chiến đấu cận chiến với đại đao, mỗi nhát chém mang theo sát khí nghìn quân. Thống lĩnh binh pháp trận đồ, có thể chỉ huy quân đoàn tu sĩ bài binh bố trận trên chiến trường.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Lý Thiên Vũ]] — Càn Đế, chủ soái mà hắn thề nguyện bảo vệ đến chết.
-- [[Mộ Dung Chiến]] — Thần Sách Đại Tướng, chiến hữu sống chết từ thuở loạn Thất Vương.
-- [[Triệu Vạn Quân]] — Phó Tướng Thần Sách, thuộc hạ tin cậy được hắn đề bạt.
-
+- **Triệu Vạn Quân** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Trương Văn Hàn** (Sư đồ): Vương Thiết Kỵ chỉ dẫn Trương Văn Hàn trong Đại Càn Hoàng Triều
+- **Trần Bách Tài** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Tư Mã Tinh Vân** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ biên cương phía bắc, là con trai một tướng quân trấn thủ đã tử trận khi chống Ma Tông xâm lấn. Mang thù nhà nợ nước, Vương Thiết Kỵ gia nhập quân đội hoàng triều từ năm mười sáu tuổi, lập vô số chiến công. Trong loạn Thất Vương, hắn cùng Mộ Dung Chiến đánh lui phản quân ở Thiết Quan, được Càn Đế phong Binh Bộ Thượng Thư. Chủ trương cứng rắn với các thế lực ma đạo, luôn đề nghị xuất binh tiêu diệt Cửu U Ma Tông.

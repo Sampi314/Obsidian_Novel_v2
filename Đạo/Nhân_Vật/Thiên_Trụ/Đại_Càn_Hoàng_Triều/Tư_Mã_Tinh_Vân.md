@@ -32,9 +32,10 @@ Lão nhân tóc bạc phơ, mắt mờ đục như bị sương phủ, nhưng kh
 Tu luyện Quan Tinh Thuật — tuyệt học quan sát tinh tú để suy đoán thiên cơ, vận mệnh và cát hung. Có thể dùng Tinh Vân Trận Pháp triển khai trận thế dựa trên vị trí tinh tú, uy lực biến ảo khôn lường. Ngoài ra còn tinh thông bốc quẻ, phong thủy, và dự đoán thiên tai, là bộ não chiến lược ẩn sau triều đình.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Lý Thiên Vũ]] — Càn Đế, quân vương mà ông bí mật cố vấn thiên cơ đại sự.
-- [[Hà Thiên Chiêu]] — Phó Giám, đệ tử thân cận nhất, được truyền thụ Quan Tinh Thuật.
-- [[Khổng Minh Đức]] — Lễ Bộ Thượng Thư, cùng hợp tác trong các đại lễ tế Long Mạch.
-
+- **Triệu Vạn Quân** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Trương Văn Hàn** (Sư đồ): Tư Mã Tinh Vân chỉ dẫn Trương Văn Hàn trong Đại Càn Hoàng Triều
+- **Trần Bách Tài** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Tôn Hiền** (Sư đồ): Tư Mã Tinh Vân chỉ dẫn Tôn Hiền trong Đại Càn Hoàng Triều
+- **Vương Thiết Kỵ** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ Tư Mã gia — gia tộc thiên văn lâu đời nhất Đại Càn, đời đời giữ chức Khâm Thiên Giám. Từ thuở nhỏ đã có thể nhìn thấy tinh tú giữa ban ngày, được coi là thiên tài bẩm sinh. Dự đoán chính xác loạn Thất Vương trước ba năm, giúp Lý Thiên Vũ chuẩn bị đối phó kịp thời. Hiện đang lo lắng vì tinh tượng gần đây cho thấy một kiếp nạn lớn sắp giáng xuống Thiên Trụ.
