@@ -32,9 +32,11 @@ Sa Độc Hạt Vương là một Trùng Tộc bọ cạp khổng lồ dài gầ
 Sa Độc Hạt Vương là thực thể chiến đấu mạnh nhất trong vùng ảnh hưởng của Cổ Sa Yêu Tộc, kết hợp giáp xương bất hoại, nọc độc chết người và sức mạnh vật lý khủng khiếp của Trùng Tộc bọ cạp cổ đại. Kỹ thuật sát thương chính là *Vạn Độc Hạt Châm* (萬毒蝎針) — phóng ngòi đuôi với tốc độ nhanh hơn kiếm quang, nọc độc bên trong có thể hủy hoại kim đan của tu sĩ Kim Đan trong vòng mười hơi thở nếu không giải kịp. Ngoài ra, hắn kiểm soát toàn bộ vùng cát xung quanh hang cổ bằng *Sa Mạc Độc Vực* (沙漠毒域) — nọc độc tiết ra hòa vào cát khiến mặt đất trong phạm vi vài dặm trở thành bãi mìn độc, bất kỳ ai đi qua đều bị ngấm độc qua chân mà không hay biết. Điểm yếu là tốc độ tư duy chậm và dễ bị đánh lừa bởi ảo thuật phức tạp, đặc biệt các kỹ thuật phân thân hay tàng hình.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Cổ Sa (Tộc Trưởng):** Mối quan hệ cộng sinh lâu đời — Hạt Vương bảo vệ vòng ngoài hang cổ, đổi lại Cổ Sa cung cấp thuốc chữa thương và không xâm phạm lãnh thổ của hắn.
-- **Sa Ngọc (沙玉):** Dược sư duy nhất mà Hạt Vương cho phép đến gần để lấy nọc, đổi lại nàng mang đến thuốc chữa lành vết thương cũ từ thời hắn chiến đấu với tu sĩ Nhân Tộc xâm nhập.
-- **Sa Mạc Hồn Dạ (沙漠魂夜):** Hai kẻ trinh sát vòng ngoài, Hồn Dạ theo dõi trên mặt cát còn Hạt Vương canh giữ dưới cát — hai tuyến phòng thủ bổ khuyết nhau hoàn hảo.
-
+- **Sa Cổ Vương** (Đồng minh): Cổ thú đồng minh từ thời Hoàng Sa Cổ Quốc, canh giữ ngoại vi hang cổ
+- **Sa Bạo** (Đồng minh): Đồng liêu cùng Cổ Sa Yêu Tộc, hỗ trợ lẫn nhau
+- **Sa Hoàng Thiên Phong** (Chủ tớ): Sa Hoàng Thiên Phong quản lý Sa Độc Hạt Vương trong Cổ Sa Yêu Tộc
+- **Cổ Sa:** Mối quan hệ cộng sinh lâu đời — Hạt Vương bảo vệ vòng ngoài hang cổ, đổi lại Cổ Sa cung cấp thuốc chữa thương và không xâm phạm lãnh thổ của hắn.
+- **Sa Ngọc:** Dược sư duy nhất mà Hạt Vương cho phép đến gần để lấy nọc, đổi lại nàng mang đến thuốc chữa lành vết thương cũ từ thời hắn chiến đấu với tu sĩ Nhân Tộc xâm nhập.
+- **Sa Mạc Hồn Dạ:** Hai kẻ trinh sát vòng ngoài, Hồn Dạ theo dõi trên mặt cát còn Hạt Vương canh giữ dưới cát — hai tuyến phòng thủ bổ khuyết nhau hoàn hảo.
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sa Độc Hạt Vương không phải thành viên gốc của Cổ Sa Yêu Tộc mà là một Trùng Tộc bọ cạp cổ đại đã cư ngụ tại vùng cát xung quanh hang cổ từ trước khi Yêu Tộc ẩn cư. Khi Cổ Sa Yêu Tộc rút vào hang sau sự sụp đổ của Hoàng Sa Cổ Quốc, Hạt Vương ban đầu coi họ là kẻ xâm lấn và tấn công dữ dội — trận chiến kéo dài nhiều tháng khiến cả hai bên thiệt hại nặng nề. Cuối cùng, Tộc Trưởng Cổ Sa đích thân đàm phán, đề nghị trao đổi thuốc chữa thương lấy sự bảo vệ — Hạt Vương đồng ý vì nọc độc tích lũy ngàn năm khiến chính cơ thể hắn bị ăn mòn từ bên trong, cần thuốc duy trì. Kể từ đó hàng ngàn năm trôi qua, mối quan hệ cộng sinh trở nên bền chặt đến mức Hạt Vương tự coi mình là lớp phòng thủ đầu tiên của hang cổ, và bí mật sâu thẳm mà hắn giữ kín là hắn biết trong Phòng Phong Ấn có thứ gì đó — vì hắn cảm nhận được rung động từ sâu dưới lòng đất mỗi khi ép mình sát mặt cát.
