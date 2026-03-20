@@ -51,6 +51,24 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Oanh Nam Ca
+        description: Em họ, thường nhờ Nam Ca hát dẫn dụ khi nàng cần vượt qua vùng nguy hiểm để truyền tin
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 35
+          so: 0
+          on: 0
+      - character: Yến Thanh Tốc
+        description: Đồng nghiệp truyền tin, đôi khi phối hợp truyền tin đường dài — Thanh Tốc lo đoạn trống trải, Thúy Thanh lo đoạn rừng rậm
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: OANH THÚY THANH (鶯翠青)
@@ -74,6 +92,8 @@ Oanh Thúy Thanh chuyên về tốc độ di chuyển và khả năng ngụy tra
 - **Hạc Hồng Nhi:** Bạn thân và đồng minh, Hồng Nhi từng cứu nàng khỏi nanh vuốt yêu thú. Hai người thường hợp tác săn bắt.
 - **Yến Tử:** Đàn chị trong giới trinh sát tán tu, Thúy Thanh học được nhiều kỹ năng ẩn tung từ Yến Tử.
 - **Dạ Nga Tiên:** Khách hàng thường xuyên, Dạ Nga Tiên trả tiền để Thúy Thanh truyền tin mật cho các mối liên lạc.
+- **Oanh Nam Ca:** Em họ, thường nhờ Nam Ca hát dẫn dụ khi nàng cần vượt qua vùng nguy hiểm để truyền tin.
+- **Yến Thanh Tốc:** Đồng nghiệp truyền tin, đôi khi phối hợp truyền tin đường dài — Thanh Tốc lo đoạn trống trải, Thúy Thanh lo đoạn rừng rậm.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Oanh Thúy Thanh lớn lên trong nhánh phụ của tộc Oanh tại rừng già Nam Cương. Nàng không có giọng hót hay như các anh chị em họ, nhưng bù lại sở hữu bộ lông ngụy trang hoàn hảo và tốc độ bay đáng kinh ngạc. Khi rừng cũ bị phá hủy, nàng nhận ra rằng thông tin liên lạc giữa các sinh vật rừng là yếu tố sống còn, từ đó chuyển sang nghề truyền tin. Nàng xây dựng mạng lưới liên lạc khắp rừng già Nam Cương, phục vụ cả Vũ Tộc, Trùng Tộc lẫn tu sĩ Nhân Tộc — miễn ai trả đủ linh thạch. Bí mật của nàng là đang âm thầm lập bản đồ toàn bộ linh mạch ẩn trong rừng già, với hy vọng tìm ra nơi thích hợp để tái lập lãnh thổ cho tộc Oanh.

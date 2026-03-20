@@ -73,6 +73,7 @@ Hạc Hồng Nhi thiên về tốc độ và đòn đánh chính xác từ trên
 - **Oanh Thúy Thanh:** Bạn thân, cùng nhau săn bắt trong rừng già Nam Cương. Thúy Thanh thường truyền tin về vị trí con mồi cho Hồng Nhi.
 - **Yến Thanh Tốc:** Đối thủ cạnh tranh về tốc độ, hai bên thường thách đua xem ai bay nhanh hơn.
 - **Song Đao Liệt:** Từng giao đấu khi Song Đao Liệt thách thức nàng ngang qua lãnh thổ hắn, kết quả hòa — từ đó hai bên tôn trọng nhau.
+- **Oanh Lâm Ca:** Đồng minh săn bắt, Lâm Ca dùng âm thanh khống chế con mồi bên dưới trong khi nàng tấn công từ trên cao.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hạc Hồng Nhi sinh ra trong một đàn hồng hạc hoang dã ven đầm lầy nhiệt đới Nam Cương. Nàng khai linh sớm hơn đồng loại nhưng tính tình kiêu ngạo, không chịu phục tùng thủ lĩnh đàn, dẫn đến bị trục xuất khi mới hóa hình. Từ đó nàng sống một mình, lấy nghề săn yêu thú cấp thấp và bán vật liệu cho thương nhân để đổi đan dược tu luyện. Một lần suýt chết khi xâm phạm lãnh địa của yêu thú Kim Đan, nàng được Oanh Thúy Thanh cứu giúp, từ đó hai người trở thành đồng minh. Mục tiêu hiện tại là đột phá Kim Đan để chứng minh mình xứng đáng làm thủ lĩnh đàn hạc năm xưa.

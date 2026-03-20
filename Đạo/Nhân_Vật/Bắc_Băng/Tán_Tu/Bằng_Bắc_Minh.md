@@ -33,6 +33,24 @@ arcs:
           tin: 35
           so: 0
           on: 0
+      - character: Hạc Tuyết Nhi
+        description: Ân nhân cứu mạng, y sư từng chữa trị thương tích nặng cho y
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 30
+          tin: 50
+          so: 0
+          on: 60
+      - character: Sương Lệ Nhi
+        description: Kẻ cô độc tình cờ gặp trong bão tuyết, chia sẻ sự thấu hiểu tĩnh lặng
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 10
+          tin: 30
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: BẰNG BẮC MINH (鵬北冥)

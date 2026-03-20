@@ -67,6 +67,24 @@ arcs:
           tin: 25
           so: 15
           on: 0
+      - character: Giao Vô Danh
+        description: Thợ dệt im lặng, người ngồi gần mình, hiểu nhau qua ánh mắt không cần lời
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 0
+          tin: 40
+          so: 0
+          on: 0
+      - character: Giao Thiên Lệ
+        description: Người phụ nữ khóc đến mù, thợ dệt cần mẫn nhất, hiểu nỗi đau của khung dệt hơn ai hết
+        feelings:
+          yeu: 35
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: GIAO KHỔ HẢI (鲛苦海)
