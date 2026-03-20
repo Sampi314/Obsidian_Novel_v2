@@ -11,10 +11,15 @@
 - [Đã chuyển từ 10 Báo Cáo Gần Nhất] Hoàn thiện nhân vật Hoàng Sa Di Dân (Tây Mạc).
 - [Đã chuyển từ 10 Báo Cáo Gần Nhất] Hoàn thiện nhân vật San Hô Thủ Hộ Đoàn (Tây Mạc).
 - [Đã nén] Hoàn thiện các nhân vật Vô Tận Hải (Hải Thần Cung, San Hô Đảo Quốc, Sóng Vi Ba Liên Lạc, Phiêu Miễu Băng Hải, Linh Hồ Tàn Tộc), Thiên Trụ (Cực Quang Thần Điện), Bắc Băng (Tuyết Cự Nhân Đảo), Tây Mạc (Phong Sát Cốc).
+- [Đã nén] Hoàn thiện các nhân vật Tuyết Cự Nhân Đảo (Bắc Băng).
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật San Hô Thợ Lặn Đội (Tây Mạc)
+### [Hiện Tại] - Hoàn thiện nhân vật Cực Quang Thần Điện (Thiên Trụ)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Yến Phi, Yến Tiểu Tiểu, Ưng Liệt Phong thuộc khu vực Thiên Trụ.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật San Hô Thợ Lặn Đội (Tây Mạc)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Nguyễn Thủy Tiên, Lê Ngọc Trai, Trần Hải Sâm thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -60,9 +65,5 @@
 
 ### [Phiên Trước] - Hoàn thiện nhân vật Linh Hồ Tàn Tộc (Vô Tận Hải)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hồ Tuyết Lan, Hồ Tuyết Nhi, Hồ Ảo Mộng Thiên thuộc khu vực Vô Tận Hải.
-- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-
-### [Phiên Trước] - Hoàn thiện nhân vật Tuyết Cự Nhân Đảo (Bắc Băng)
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Nham Cương Thể, Sơn Thiết Quyền, và Sơn Đại Địa thuộc khu vực Bắc Băng.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
