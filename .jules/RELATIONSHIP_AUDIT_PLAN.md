@@ -88,7 +88,7 @@ arcs:
 - [ ] Diệp Thanh Y
 - [x] Hắc Hạt Ma Trùng
 - [x] Hàn Thanh Nguyệt
-- [ ] Lục Trần
+- [x] Lục Trần
 - [ ] Ngô Công Trưởng Lão
 - [ ] Phương Vô Kỵ
 - [ ] Sở Lăng Sương
@@ -191,3 +191,4 @@ Tên file = tên nhân vật với `_` thay khoảng trắng (có dấu Tiếng 
 | 2026-03-20 | Claude Code | Đan Dương Tử (DONE) | Checked 15 refs, fixed 13 missing bidirectional links (Đan Hà Cốc subordinates + Hứa Nhược Thủy + Liễu Như Yên) |
 | 2026-03-20 | Claude Code | Hắc Hạt Ma Trùng (DONE) | Checked 6 refs, fixed 5 missing bidirectional links (Nguyệt Dao, Lục Tiêu, Âu Dương Vô Tích, Trùng Ám Ảnh, Trùng Xích Giác) |
 | 2026-03-20 | Claude Code | Hàn Thanh Nguyệt (DONE) | Checked 1 ref (Diệp Tĩnh Sương), all bidirectional OK, no fixes needed |
+| 2026-03-20 | Claude Code | Lục Trần (DONE) | Checked 4 refs, fixed 1 missing bidirectional link (Đoạn Kiếm Sinh) |
