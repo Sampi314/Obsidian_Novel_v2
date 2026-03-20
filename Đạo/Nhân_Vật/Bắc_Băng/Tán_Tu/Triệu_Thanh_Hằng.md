@@ -26,6 +26,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Sở Lăng Sương
+        description: Chiến hữu cùng Tán Tu, chiến đấu song song
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 30
+          tin: 50
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: TRIỆU THANH HẰNG

@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Diệp Thanh Y
+        description: Cốc Chủ Dược Vương Cốc, đồng minh về dược đạo, cùng nghiên cứu dược liệu
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 45
+          tin: 40
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: THẢO TÂM LINH (草心靈)

@@ -97,7 +97,7 @@ arcs:
 - [ ] Nguyệt Dao
 - [x] Nham Thần
 - [x] Lục Tiêu
-- [ ] Lệ Nhược Thủy
+- [x] Lệ Nhược Thủy
 - [ ] Ngao Đình
 - [ ] Hứa Nhược Thủy
 - [x] Hứa Thanh Vân

@@ -66,6 +66,24 @@ arcs:
           tin: 20
           so: 0
           on: 0
+      - character: Nguyệt Dao
+        description: Nữ Hoàng Tinh Linh, đồng minh bất đắc dĩ sau thành tri kỷ vì cùng chung tấm lòng y đức cứu thế
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 55
+          tin: 45
+          so: 0
+          on: 30
+      - character: Thảo Tâm Linh
+        description: Viện Trưởng Dược Thảo Tinh Linh Viện, đồng minh về dược đạo, cùng nghiên cứu dược liệu
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 20
+          tin: 35
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: DIỆP THANH Y
