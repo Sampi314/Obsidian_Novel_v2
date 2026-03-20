@@ -4,6 +4,11 @@ name: Hồ Vân
 hantu: 胡雲
 archetype: Đệ Thập Hỏa Sư
 race: Nhân Tộc
+aliases:
+  - "Vân Sư" (雲師) — Bậc Thầy Mây"
+  - "vì kỹ thuật kiểm soát nhiệt độ mượt mà như mây trôi"
+origin: Thiên Trụ
+faction_rank: Đệ Thập Hỏa Sư
 avatar: ''
 arcs:
   - arc: 1

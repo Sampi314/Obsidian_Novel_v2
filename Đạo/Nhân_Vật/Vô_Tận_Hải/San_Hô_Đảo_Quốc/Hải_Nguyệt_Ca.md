@@ -4,6 +4,8 @@ name: Hải Nguyệt Ca
 hantu: 海月歌
 archetype: Viện Chủ
 race: Hải Tộc (Nhân Ngư)
+origin: Vô Tận Hải
+faction_rank: Viện Chủ Linh Ca Viện
 avatar: ''
 arcs:
   - arc: 1

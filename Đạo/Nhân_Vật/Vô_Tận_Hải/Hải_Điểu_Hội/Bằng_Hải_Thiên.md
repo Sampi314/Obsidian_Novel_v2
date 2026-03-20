@@ -4,6 +4,8 @@ name: Bằng Hải Thiên
 hantu: 鵬海天
 archetype: Hội Trưởng
 race: Vũ Tộc
+origin: Vô Tận Hải
+faction_rank: Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

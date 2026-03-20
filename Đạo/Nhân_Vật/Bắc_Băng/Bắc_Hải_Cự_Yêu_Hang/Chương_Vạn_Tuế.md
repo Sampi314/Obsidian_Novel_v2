@@ -4,6 +4,9 @@ name: Chương Vạn Tuế
 hantu: 章萬歲
 archetype: Kraken Chủ
 race: Hải Tộc
+origin: Bắc Băng
+age: 8
+faction_rank: Kraken Chủ
 avatar: ''
 arcs:
   - arc: 1

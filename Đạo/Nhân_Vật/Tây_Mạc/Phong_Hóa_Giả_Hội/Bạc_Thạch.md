@@ -4,6 +4,9 @@ name: Bạc Thạch
 hantu: 薄石
 archetype: Thành Viên
 race: Thạch Tộc
+dao_tam: Nói hết mọi thứ muốn nói trước khi không còn nói được nữa
+origin: Tây Mạc
+faction_rank: Thành Viên
 avatar: ''
 arcs:
   - arc: 1

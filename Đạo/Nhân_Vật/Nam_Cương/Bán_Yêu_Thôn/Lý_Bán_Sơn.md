@@ -4,6 +4,8 @@ name: Lý Bán Sơn
 hantu: 李半山
 archetype: Trưởng Lão
 race: Bán Yêu
+origin: Nam Cương
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

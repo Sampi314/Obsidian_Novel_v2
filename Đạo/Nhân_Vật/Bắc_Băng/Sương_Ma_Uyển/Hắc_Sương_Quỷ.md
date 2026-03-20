@@ -4,6 +4,8 @@ name: Hắc Sương Quỷ
 hantu: 黑霜鬼
 archetype: Hộ Pháp
 race: Băng Tộc
+origin: Bắc Băng
+faction_rank: Đệ Nhất Sát Sương Quỷ
 avatar: ''
 arcs:
   - arc: 1

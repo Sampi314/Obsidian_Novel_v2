@@ -4,6 +4,9 @@ name: Loa Thiên Hải Âm
 hantu: 螺天海音
 archetype: Truyền Tin Biển-Núi
 race: Hải Tộc
+dao_tam: Vạn Lý Truyền Âm
+origin: Thiên Trụ
+faction_rank: Truyền Tin Biển-Núi
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,13 @@ name: Hồ Hỏa Vĩ
 hantu: 狐火尾
 archetype: Chiến Sĩ
 race: Yêu Tộc
+dao_tam: Lửa không cần lý do để cháy. Ta không cần lý do để chiến đấu
+aliases:
+  - "Đuốc Sống" (活火炬)"
+  - "Cường Sĩ Sẹo" (疤壮士)"
+origin: Tây Mạc
+age: 152
+faction_rank: Chiến Binh Tiên Phong (先锋战士)
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Long Hắc Dạ
 hantu: 龙黑夜
 archetype: Thủ Lĩnh
 race: Long Tộc
+dao_tam: Phá Cựu Lập Tân
+origin: Vô Tận Hải
+faction_rank: Thủ Lĩnh / Hắc Long
 avatar: ''
 arcs:
   - arc: 1

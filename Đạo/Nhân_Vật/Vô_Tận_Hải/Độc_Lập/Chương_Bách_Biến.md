@@ -4,6 +4,8 @@ name: Chương Bách Biến
 hantu: 章百變
 archetype: Thám Tử
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Thám Tử
 avatar: ''
 arcs:
   - arc: 1

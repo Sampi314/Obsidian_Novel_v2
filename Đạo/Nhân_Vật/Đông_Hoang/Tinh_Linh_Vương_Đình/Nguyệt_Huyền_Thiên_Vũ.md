@@ -4,6 +4,8 @@ name: Nguyệt Huyền Thiên Vũ
 hantu: 月玄天羽
 archetype: Quân Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Quân Sư
 avatar: ''
 arcs:
   - arc: 1

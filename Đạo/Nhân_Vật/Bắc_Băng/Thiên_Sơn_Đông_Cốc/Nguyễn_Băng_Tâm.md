@@ -4,6 +4,15 @@ name: Nguyễn Băng Tâm
 hantu: 阮冰心
 archetype: Chân Truyền
 race: Nhân Tộc
+lingan: Song linh căn Thủy-Hỏa (giống Cốc Chủ Hàn Đan và Phạm Hàn Ngọc)
+dao_tam: Chậm rãi là đường của kẻ già. Ta trẻ, ta phải nhanh — nhưng nhanh đúng hướng
+aliases:
+  - "Tiểu Hỏa Đầu" (小火头)"
+  - "nóng vội"
+  - "nóng lòng chứng minh bản thân"
+origin: Bắc Băng — Thung lũng Mùa Đông, dãy Thiên Sơn
+age: 72
+faction_rank: Chân Truyền Đệ Tử (真传弟子) trực thuộc Cốc Chủ Hàn Đan
 avatar: ''
 arcs:
   - arc: 1

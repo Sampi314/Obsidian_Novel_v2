@@ -4,6 +4,8 @@ name: Khuẩn Linh Hóa
 hantu: 菌靈化
 archetype: Chuyển Hóa Viên
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Chuyển Hóa Viên
 avatar: ''
 arcs:
   - arc: 1

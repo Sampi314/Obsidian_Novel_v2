@@ -4,6 +4,17 @@ name: Hàn Chùy
 hantu: 寒錘
 archetype: Thợ Đá
 race: Cự Tộc
+lingan: Thổ - Băng song linh căn (bẩm sinh theo dòng máu Cự Tộc
+dao_tam: Đá không kêu khi bị đập, nhưng nó nhớ từng nhát búa
+aliases:
+  - "Thạch Ông" (石翁)"
+  - "tay nghề cao nhất"
+  - "và cũng khó tính nhất khi kiểm tra chất lượng phôi đá. Bên ngoài phường"
+  - "những kẻ khinh miệt Cự Tộc gọi y là "Lão Búa Gỉ" (老鏽錘)"
+  - "chỉ nhìn họ một lần rồi quay đi"
+origin: Bắc Băng — vùng đá băng gần biên giới Cực Quang Thần Điện
+age: 187
+faction_rank: Thợ Cả (đứng ngay dưới Phường Chủ Nham Đại Chùy
 avatar: ''
 arcs:
   - arc: 1

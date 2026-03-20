@@ -4,6 +4,8 @@ name: Nghịch Lân
 hantu: 逆鱗
 archetype: Thủ Lĩnh Lưu Vong
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Thủ Lĩnh Lưu Vong
 avatar: ''
 arcs:
   - arc: 1

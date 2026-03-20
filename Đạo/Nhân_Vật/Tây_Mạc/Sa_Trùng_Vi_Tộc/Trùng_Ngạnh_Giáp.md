@@ -4,6 +4,9 @@ name: Trùng Ngạnh Giáp
 hantu: 蟲硬甲
 archetype: Trưởng Lão Phòng Thủ
 race: Vi Tộc
+dao_tam: Bất Động Như Sơn
+origin: Tây Mạc
+faction_rank: Trưởng Lão Phòng Thủ
 avatar: ''
 arcs:
   - arc: 1

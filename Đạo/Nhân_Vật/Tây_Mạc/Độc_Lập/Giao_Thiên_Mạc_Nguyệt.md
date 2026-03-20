@@ -4,6 +4,8 @@ name: Giao Thiên Mạc Nguyệt
 hantu: 鲛天漠月
 archetype: Thương Nhân
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Thương Nhân
 avatar: ''
 arcs:
   - arc: 1

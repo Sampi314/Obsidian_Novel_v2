@@ -4,6 +4,8 @@ name: Vũ Lạc Vũ
 hantu: 羽落羽
 archetype: Phó Đoàn Trưởng
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Phó Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Cổ Thiên Lý
 hantu: 古千里
 archetype: Gia Chủ Sa Thương
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Gia Chủ Sa Thương
 avatar: ''
 arcs:
   - arc: 1

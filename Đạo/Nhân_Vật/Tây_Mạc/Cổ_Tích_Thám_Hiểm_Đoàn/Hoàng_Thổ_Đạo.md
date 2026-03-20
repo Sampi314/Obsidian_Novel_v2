@@ -4,6 +4,8 @@ name: Hoàng Thổ Đạo
 hantu: 黄土道
 archetype: Thám Hiểm Viên
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Thám Hiểm Viên
 avatar: ''
 arcs:
   - arc: 1

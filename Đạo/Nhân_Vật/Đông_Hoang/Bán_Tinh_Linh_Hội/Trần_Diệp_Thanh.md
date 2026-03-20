@@ -4,6 +4,8 @@ name: Trần Diệp Thanh
 hantu: 陳葉青
 archetype: Phó Hội Trưởng
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Phó Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

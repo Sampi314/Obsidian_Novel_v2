@@ -4,6 +4,8 @@ name: Ngư Phát Quang
 hantu: 魚發光
 archetype: Dẫn Đường
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Dẫn Đường
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: San Hồng Ngọc Thiên
 hantu: 珊紅玉天
 archetype: Vương Hậu
 race: Hải Tộc
+dao_tam: Hồng Liên Từ Bi
+origin: Tây Mạc
+faction_rank: Vương Hậu
 avatar: ''
 arcs:
   - arc: 1

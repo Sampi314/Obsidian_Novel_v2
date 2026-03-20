@@ -4,6 +4,15 @@ name: Lê Bán Sơn
 hantu: 黎半山
 archetype: Trưởng Lão
 race: Hỗn huyết (Cự Tộc, Nhân Tộc)
+lingan: Thổ đơn linh căn
+dao_tam: Bút ghi, người nhớ. Không ai bị quên
+aliases:
+  - "Bán Sơn Tiên Sinh" (半山先生)"
+  - "luôn nói chuyện từ tốn như thầy đồ. Ngoài hội"
+  - "người ta gọi ông là "Lão Bút Đá" (老笔石)"
+origin: Bắc Băng — vùng tundra đóng băng vĩnh cửu
+age: 82
+faction_rank: Trưởng Lão Cố Vấn — phụ trách ngoại giao
 avatar: ''
 arcs:
   - arc: 1

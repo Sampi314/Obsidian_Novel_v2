@@ -4,6 +4,8 @@ name: Trùng Kim Phấn
 hantu: 蟲金粉
 archetype: Ong Thợ Trưởng
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Ong Thợ Trưởng
 avatar: ''
 arcs:
   - arc: 1

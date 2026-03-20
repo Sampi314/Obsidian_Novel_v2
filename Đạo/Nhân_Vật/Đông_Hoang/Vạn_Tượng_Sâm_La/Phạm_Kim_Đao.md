@@ -4,6 +4,8 @@ name: Phạm Kim Đao
 hantu: 范金刀
 archetype: Kim Đao Đội Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Kim Đao Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

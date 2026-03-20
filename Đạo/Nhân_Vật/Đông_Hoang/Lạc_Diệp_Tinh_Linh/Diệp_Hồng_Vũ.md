@@ -4,6 +4,8 @@ name: Diệp Hồng Vũ
 hantu: 叶紅雨
 archetype: Cung Thủ
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Cung Thủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Khuẩn Lục Sinh
 hantu: 菌綠生
 archetype: Sinh Trưởng Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Sinh Trưởng Sư
 avatar: ''
 arcs:
   - arc: 1

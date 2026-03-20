@@ -4,6 +4,8 @@ name: Hoàng Minh Nguyệt
 hantu: 黄明月
 archetype: Bô Lão
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Bô Lão
 avatar: ''
 arcs:
   - arc: 1

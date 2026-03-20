@@ -4,6 +4,8 @@ name: Trùng Ngọc Châu
 hantu: 蟲玉珠
 archetype: Thợ Chế Tác
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Thợ Chế Tác
 avatar: ''
 arcs:
   - arc: 1

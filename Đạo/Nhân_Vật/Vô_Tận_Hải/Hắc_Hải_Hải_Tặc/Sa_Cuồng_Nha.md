@@ -4,6 +4,8 @@ name: Sa Cuồng Nha
 hantu: 鯊狂牙
 archetype: Tiên Phong Tướng
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Tiên Phong Tướng
 avatar: ''
 arcs:
   - arc: 1

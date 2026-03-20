@@ -4,6 +4,8 @@ name: Ưng Hoang Dã
 hantu: 鷹荒野
 archetype: Chiến Sĩ
 race: Vũ Tộc
+origin: Tây Mạc
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,14 @@ name: Lang Hàn Nha
 hantu: 狼寒牙
 archetype: Đội Trưởng
 race: Yêu Tộc
+dao_tam: Đàn không cần lớn, chỉ cần còn sống
+aliases:
+  - "Sói Mẹ Gãy Chân" (折脚母狼)"
+  - "nhưng Hàn Nha đã biến nó thành danh hiệu tự hào"
+  - "tuyên bố: *"Sói mẹ gãy chân vẫn cắn được cổ kẻ nào dám đụng vào con ta.""
+origin: Bắc Băng
+age: 200
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

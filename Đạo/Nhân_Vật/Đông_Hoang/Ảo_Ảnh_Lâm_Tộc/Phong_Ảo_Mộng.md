@@ -4,6 +4,8 @@ name: Phong Ảo Mộng
 hantu: 風幻夢
 archetype: Chiến Binh
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Chiến Binh
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nguyệt Vũ
 hantu: 月羽
 archetype: Công Chúa
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Công Chúa
 avatar: ''
 arcs:
   - arc: 1

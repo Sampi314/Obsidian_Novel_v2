@@ -4,6 +4,12 @@ name: Sa Lực
 hantu: 沙力
 archetype: Công Đầu
 race: Cự Tộc
+dao_tam: Lưng Thẳng Đạo
+aliases:
+  - "Thiết Vai Công Đầu (鐵肩工頭)"
+  - "Lùn Nhất Tây Mạc (矮一西漠)"
+origin: Tây Mạc — dọc theo Thiên Sa Thương Đạo
+faction_rank: Công Đầu (trưởng bang) của Cự Tộc Phu Khuân Vác
 avatar: ''
 arcs:
   - arc: 1

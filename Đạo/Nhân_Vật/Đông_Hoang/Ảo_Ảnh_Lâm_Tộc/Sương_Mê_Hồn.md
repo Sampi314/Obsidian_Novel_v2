@@ -4,6 +4,8 @@ name: Sương Mê Hồn
 hantu: 霜迷魂
 archetype: Yểm Hồn Đội Trưởng
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Yểm Hồn Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

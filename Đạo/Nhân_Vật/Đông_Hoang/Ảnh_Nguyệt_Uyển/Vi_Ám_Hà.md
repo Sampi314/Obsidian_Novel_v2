@@ -4,6 +4,8 @@ name: Vi Ám Hà
 hantu: 微暗荷
 archetype: Phó Ảnh Chủ
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Phó Ảnh Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lý Phong Thư
 hantu: 李風書
 archetype: Các Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Các Chủ
 avatar: ''
 arcs:
   - arc: 1

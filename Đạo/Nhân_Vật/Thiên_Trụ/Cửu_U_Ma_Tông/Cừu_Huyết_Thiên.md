@@ -4,6 +4,8 @@ name: Cừu Huyết Thiên
 hantu: 仇血天
 archetype: Đệ Nhất Ma Vương
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Nhất Ma Vương
 avatar: ''
 arcs:
   - arc: 1

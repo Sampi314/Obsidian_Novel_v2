@@ -4,6 +4,8 @@ name: San Huyền Quang Dạ
 hantu: 珊玄光夜
 archetype: Quang Sư
 race: Hải Tộc
+origin: Tây Mạc (Thực tế thuộc Vô Tận Hải)
+faction_rank: Quang Sư
 avatar: ''
 arcs:
   - arc: 1

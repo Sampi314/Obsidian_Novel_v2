@@ -4,6 +4,8 @@ name: Mẫu Thiên Ca
 hantu: 母天歌
 archetype: Nữ Vương
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Nữ Vương
 avatar: ''
 arcs:
   - arc: 1

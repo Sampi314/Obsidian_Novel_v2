@@ -4,6 +4,8 @@ name: Hoàng Thiên Hỏa
 hantu: 黃天火
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

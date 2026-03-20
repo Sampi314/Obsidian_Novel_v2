@@ -4,6 +4,8 @@ name: Mạc Lão Đầu
 hantu: 莫老頭
 archetype: Trưởng Thôn
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Thôn
 avatar: ''
 arcs:
   - arc: 1

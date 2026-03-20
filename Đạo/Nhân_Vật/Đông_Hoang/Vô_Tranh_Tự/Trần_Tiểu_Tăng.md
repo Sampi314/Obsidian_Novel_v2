@@ -4,6 +4,8 @@ name: Trần Tiểu Tăng
 hantu: 陳小僧
 archetype: Đệ Tử
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

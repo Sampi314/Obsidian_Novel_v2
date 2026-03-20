@@ -4,6 +4,11 @@ name: Vương Xà Nhi
 hantu: 王蛇兒
 archetype: Y Sư
 race: Bán Yêu
+aliases:
+  - "Lãnh Huyết Y Cô (冷血醫姑)"
+  - "vừa khen tay nghề vừa chê tính tình"
+origin: Đông Hoang
+faction_rank: Y sư duy nhất của Bán Yêu Thôn. Nàng phụ trách chữa trị mọi thương tích, bệnh tật cho toàn bộ dân thôn — từ vết cào của trẻ con đến nội thương tu luyện. Không ai trong thôn thay thế được nàng, nhưng cũng không ai dám đến gần nàng khi không cần thiết
 avatar: ''
 arcs:
   - arc: 1

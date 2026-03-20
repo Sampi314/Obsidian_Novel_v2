@@ -4,6 +4,8 @@ name: Tước Hàn
 hantu: 雀寒
 archetype: Nông Dân
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Nông Dân
 avatar: ''
 arcs:
   - arc: 1

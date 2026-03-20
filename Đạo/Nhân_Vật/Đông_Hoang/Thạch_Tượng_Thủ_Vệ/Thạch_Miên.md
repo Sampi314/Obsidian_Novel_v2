@@ -4,6 +4,8 @@ name: Thạch Miên
 hantu: 石眠
 archetype: Thủ Vệ Trưởng
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Thủ Vệ Trưởng
 avatar: ''
 arcs:
   - arc: 1

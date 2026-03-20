@@ -4,6 +4,9 @@ name: Hoàng Tinh Nguyệt
 hantu: 黄星月
 archetype: Họa Sĩ
 race: Nhân Tộc
+dao_tam: Bầu trời đẹp nhất khi không ai nhìn — nhưng tôi lúc nào cũng nhìn, nên tôi thấy đẹp nhất
+origin: Bắc Băng
+faction_rank: Họa Sĩ Thiên Văn
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,14 @@ name: Thạch Khai Sơn
 hantu: 石开山
 archetype: Đội Trưởng
 race: Cự Tộc
+dao_tam: Đất mới cho kẻ dũng cảm. Đất cũ chôn kẻ hèn nhát
+aliases:
+  - "Tiểu Cuồng Sơn" (小狂山)"
+  - "vừa trìu mến vừa ngán ngẩm"
+  - "vì hắn bướng bỉnh đến mức dám cãi cả Đoàn Trưởng để đòi dẫn người đi khai hoang"
+origin: Bắc Băng — vùng tundra hoang sơ cực Bắc
+age: 19
+faction_rank: Đội Trưởng (sáng lập kiêm chỉ huy tối cao)
 avatar: ''
 arcs:
   - arc: 1

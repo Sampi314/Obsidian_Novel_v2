@@ -4,6 +4,8 @@ name: Khuẩn Tiểu Hủ
 hantu: 菌小腐
 archetype: Đệ Tử Mới
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Đệ Tử Mới
 avatar: ''
 arcs:
   - arc: 1

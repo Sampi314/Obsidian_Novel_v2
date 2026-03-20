@@ -4,6 +4,8 @@ name: Lưu Thiết Giáp
 hantu: 劉鐵甲
 archetype: Đệ Nhất Hộ Pháp
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Nhất Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

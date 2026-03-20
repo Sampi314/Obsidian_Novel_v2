@@ -4,6 +4,8 @@ name: Yến Tiểu Tiểu
 hantu: 燕小小
 archetype: Truyền Tin Viên
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Truyền Tin Viên
 avatar: ''
 arcs:
   - arc: 1

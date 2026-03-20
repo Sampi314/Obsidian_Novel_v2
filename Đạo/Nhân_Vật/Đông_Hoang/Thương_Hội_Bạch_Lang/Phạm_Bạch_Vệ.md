@@ -4,6 +4,8 @@ name: Phạm Bạch Vệ
 hantu: 范白衛
 archetype: Hộ Vệ Cốt Cán (Sói Bạc)
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Vệ Cốt Cán (Sói Bạc)
 avatar: ''
 arcs:
   - arc: 1

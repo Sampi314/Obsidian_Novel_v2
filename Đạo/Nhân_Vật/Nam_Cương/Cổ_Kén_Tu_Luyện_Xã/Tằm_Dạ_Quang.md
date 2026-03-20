@@ -4,6 +4,8 @@ name: Tằm Dạ Quang
 hantu: 蠶夜光
 archetype: Cố Vấn Đệ Tử
 race: Trùng Tộc
+origin: Nam Cương
+faction_rank: Cố Vấn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

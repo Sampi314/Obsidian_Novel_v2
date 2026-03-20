@@ -4,6 +4,8 @@ name: Thạch Trấn Sơn
 hantu: 石鎮山
 archetype: Phó Đội Trưởng
 race: Thạch Tộc
+origin: Đông Hoang
+faction_rank: Phó Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

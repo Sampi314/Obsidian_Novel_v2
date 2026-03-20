@@ -4,6 +4,8 @@ name: Hoa Ngọc Lan
 hantu: 花玉蘭
 archetype: Nhạc Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Nhạc Sư
 avatar: ''
 arcs:
   - arc: 1

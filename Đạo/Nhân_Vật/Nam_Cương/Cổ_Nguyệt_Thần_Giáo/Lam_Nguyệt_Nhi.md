@@ -4,6 +4,8 @@ name: Lam Nguyệt Nhi
 hantu: 藍月兒
 archetype: Thánh Nữ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Thánh Nữ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Tam Huyết Nhi
 hantu: 三血兒
 archetype: Hài Nhi Đặc Biệt
 race: Bán Yêu
+origin: Đông Hoang
+faction_rank: Hài Nhi Đặc Biệt
 avatar: ''
 arcs:
   - arc: 1

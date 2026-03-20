@@ -4,6 +4,11 @@ name: Lý Ngọc Nham
 hantu: 李玉岩
 archetype: Đệ Cửu Hỏa Sư
 race: Nhân Tộc
+aliases:
+  - "Họa Thủ" (畫手) — Bàn Tay Vẽ"
+  - "vì kỹ năng vẽ linh văn lên pháp bảo đẹp như tranh"
+origin: Thiên Trụ
+faction_rank: Đệ Cửu Hỏa Sư — phụ trách vẽ linh văn và khảm nạm
 avatar: ''
 arcs:
   - arc: 1

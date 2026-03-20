@@ -4,6 +4,8 @@ name: Báo Thiên Dạ Hành
 hantu: 豹天夜行
 archetype: Sát Thủ Đoàn Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Sát Thủ Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

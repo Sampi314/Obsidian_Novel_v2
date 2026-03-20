@@ -4,6 +4,16 @@ name: Vũ Hàn Thiết
 hantu: 武寒铁
 archetype: Chân Truyền
 race: Nhân Tộc
+lingan: Thủy-Kim Song Linh Căn
+dao_tam: Kiếm tốt phải qua lửa, kiếm tu tốt phải qua chiến
+aliases:
+  - "Thiết Đầu" (铁头)"
+  - "bảo gì cũng cãi"
+  - "kiếm ý gì cũng phải tự ngộ theo cách riêng"
+  - "không chịu làm theo khuôn mẫu"
+origin: Bắc Băng — Hẻm núi Bão Tuyết
+age: 85
+faction_rank: Chân Truyền Đệ Tử (真传弟子)
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trần Quang Mẫu
 hantu: 塵光母
 archetype: Tập Thể Ý Thức
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Tập Thể Ý Thức
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Ám Nguyệt
 hantu: 暗月
 archetype: Nữ Tế Tư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Nữ Tế Tư
 avatar: ''
 arcs:
   - arc: 1

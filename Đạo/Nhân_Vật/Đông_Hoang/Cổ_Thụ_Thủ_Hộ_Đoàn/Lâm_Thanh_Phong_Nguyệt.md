@@ -4,6 +4,8 @@ name: Lâm Thanh Phong Nguyệt
 hantu: 林清風月
 archetype: Hộ Thụ Sĩ
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Hộ Thụ Sĩ
 avatar: ''
 arcs:
   - arc: 1

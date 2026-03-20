@@ -4,6 +4,8 @@ name: Ngư Lão Vĩ
 hantu: 魚老尾
 archetype: Thôn Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thôn Trưởng
 avatar: ''
 arcs:
   - arc: 1

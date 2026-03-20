@@ -4,6 +4,9 @@ name: Đặng Hàn Phong
 hantu: 邓寒风
 archetype: Nội Môn
 race: Nhân Tộc
+dao_tam: Kiếm không cần hoa mỹ — sắc là đủ, thẳng là đủ, lạnh là đủ
+origin: Bắc Băng
+faction_rank: Nội Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

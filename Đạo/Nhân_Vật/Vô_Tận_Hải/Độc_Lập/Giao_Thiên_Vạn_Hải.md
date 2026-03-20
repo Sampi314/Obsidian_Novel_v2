@@ -4,6 +4,8 @@ name: Giao Thiên Vạn Hải
 hantu: 鲛天萬海
 archetype: Ẩn Sĩ Cổ Đại
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Ẩn Sĩ Cổ Đại
 avatar: ''
 arcs:
   - arc: 1

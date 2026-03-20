@@ -4,6 +4,8 @@ name: Thảo Thiên Hương Ngọc
 hantu: 草天香玉
 archetype: Dược Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

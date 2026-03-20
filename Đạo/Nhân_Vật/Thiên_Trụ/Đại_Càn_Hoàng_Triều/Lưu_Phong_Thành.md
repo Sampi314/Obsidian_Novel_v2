@@ -4,6 +4,8 @@ name: Lưu Phong Thành
 hantu: 劉風城
 archetype: Tướng Quân Thị Vệ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Tướng Quân Thị Vệ
 avatar: ''
 arcs:
   - arc: 1

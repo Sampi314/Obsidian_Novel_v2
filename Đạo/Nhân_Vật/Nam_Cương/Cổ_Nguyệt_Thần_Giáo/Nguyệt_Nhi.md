@@ -4,6 +4,8 @@ name: Nguyệt Nhi
 hantu: 月兒
 archetype: Đệ Tử Tế Tư
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Tử Tế Tư
 avatar: ''
 arcs:
   - arc: 1

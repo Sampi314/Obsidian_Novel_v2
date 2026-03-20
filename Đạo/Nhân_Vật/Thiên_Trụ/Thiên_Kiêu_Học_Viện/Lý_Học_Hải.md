@@ -4,6 +4,8 @@ name: Lý Học Hải
 hantu: 李學海
 archetype: Phó Viện Trưởng Học Thuật
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Phó Viện Trưởng Học Thuật
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Huyết Trùng
 hantu: 血虫
 archetype: Trưởng Lão
 race: Hải Tộc (Biến Dị)
+dao_tam: Vạn Trùng Nhất Thể
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão Ma Quân
 avatar: ''
 arcs:
   - arc: 1

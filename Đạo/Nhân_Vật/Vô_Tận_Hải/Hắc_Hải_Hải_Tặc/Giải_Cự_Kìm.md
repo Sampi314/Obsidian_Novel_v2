@@ -4,6 +4,8 @@ name: Giải Cự Kìm
 hantu: 蟹巨鉗
 archetype: Phá Thành Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Phá Thành Sư
 avatar: ''
 arcs:
   - arc: 1

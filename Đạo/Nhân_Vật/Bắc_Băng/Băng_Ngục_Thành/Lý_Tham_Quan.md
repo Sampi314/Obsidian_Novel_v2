@@ -4,6 +4,16 @@ name: Lý Tham Quan
 hantu: 李贪官
 archetype: Cai Ngục
 race: Nhân Tộc
+lingan: Kim Hệ Trung Phẩm Linh Căn (金系中品灵根)
+dao_tam: Vạn Sự Giai Giá
+aliases:
+  - "Tham Quan" (贪官)"
+  - "Chuột Vàng" (金鼠)"
+  - "Lý Toán Bàn" (李算盘)"
+  - "ám chỉ hắn chỉ là chiếc bàn tính cho Ngục Trưởng dùng"
+origin: Bắc Băng
+age: 195
+faction_rank: Phó Ngục Trưởng kiêm Quản Lý Tài Chính (副狱长兼财务总管)
 avatar: ''
 arcs:
   - arc: 1

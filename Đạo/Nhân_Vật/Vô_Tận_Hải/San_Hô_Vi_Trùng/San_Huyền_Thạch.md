@@ -4,6 +4,9 @@ name: San Huyền Thạch
 hantu: 珊玄石
 archetype: Khai Khoáng Viên
 race: Vi Tộc
+dao_tam: Truy Tìm Cội Nguồn
+origin: Vô Tận Hải
+faction_rank: Khai Khoáng Viên
 avatar: ''
 arcs:
   - arc: 1

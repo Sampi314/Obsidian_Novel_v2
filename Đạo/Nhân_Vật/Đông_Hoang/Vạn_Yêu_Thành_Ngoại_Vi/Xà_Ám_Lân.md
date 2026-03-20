@@ -4,6 +4,8 @@ name: Xà Ám Lân
 hantu: 蛇暗鱗
 archetype: Bán Thuốc Rong
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Bán Thuốc Rong
 avatar: ''
 arcs:
   - arc: 1

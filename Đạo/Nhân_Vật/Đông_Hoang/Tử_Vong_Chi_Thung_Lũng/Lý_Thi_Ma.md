@@ -4,6 +4,8 @@ name: Lý Thi Ma
 hantu: 李屍魔
 archetype: Cốc Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Cốc Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Thạch Tổ
 hantu: 石祖
 archetype: Đại Trưởng Lão
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Đại Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

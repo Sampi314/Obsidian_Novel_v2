@@ -4,6 +4,8 @@ name: Lý Chấp Kim
 hantu: 李執金
 archetype: Hội Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

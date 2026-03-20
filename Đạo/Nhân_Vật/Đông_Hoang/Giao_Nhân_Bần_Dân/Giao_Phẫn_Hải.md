@@ -4,6 +4,7 @@ name: Giao Phẫn Hải
 hantu: 鲛憤海
 archetype: Phản Kháng
 race: Hải Tộc
+faction_rank: Thợ dệt trên danh nghĩa
 avatar: ''
 arcs:
   - arc: 1

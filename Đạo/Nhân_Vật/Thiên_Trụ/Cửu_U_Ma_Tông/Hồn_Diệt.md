@@ -4,6 +4,8 @@ name: Hồn Diệt
 hantu: 魂滅
 archetype: Đệ Tam Ma Vương
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Tam Ma Vương
 avatar: ''
 arcs:
   - arc: 1

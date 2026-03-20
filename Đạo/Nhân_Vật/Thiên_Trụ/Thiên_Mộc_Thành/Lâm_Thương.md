@@ -4,6 +4,8 @@ name: Lâm Thương
 hantu: 林商
 archetype: Phó Thành Chủ Thương Mại
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Phó Thành Chủ Thương Mại
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Oanh Phương Dược
 hantu: 鶯芳藥
 archetype: Dược Sư
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

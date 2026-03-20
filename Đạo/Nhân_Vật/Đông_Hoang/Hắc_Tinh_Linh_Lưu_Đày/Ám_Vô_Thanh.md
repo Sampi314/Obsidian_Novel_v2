@@ -4,6 +4,8 @@ name: Ám Vô Thanh
 hantu: 暗無聲
 archetype: Vô Thanh Sát Thủ
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Vô Thanh Sát Thủ
 avatar: ''
 arcs:
   - arc: 1

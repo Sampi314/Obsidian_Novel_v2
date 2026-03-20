@@ -4,6 +4,12 @@ name: Trùng Sương Ẩn
 hantu: 蟲霜隱
 archetype: Ám Sát Thủ
 race: Vi Tộc
+dao_tam: Sương tan không dấu, kẻ thù không mồ
+aliases:
+  - "Vô Ảnh" (无影)"
+  - "chỉ có Đoàn Trưởng Vi Thanh mới gọi được hắn ra"
+origin: Bắc Băng
+faction_rank: Ám Sát Thủ (暗杀手)
 avatar: ''
 arcs:
   - arc: 1

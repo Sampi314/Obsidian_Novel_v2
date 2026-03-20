@@ -4,6 +4,9 @@ name: Đặng Truy Phong
 hantu: 邓追风
 archetype: Đội Trưởng Trinh Sát
 race: Nhân Tộc
+dao_tam: Thấy trước kẻ thù một bước — cả môn đều sống. Thấy chậm một bước — mũi tên không kịp cứu ai
+origin: Tây Mạc
+faction_rank: Đội Trưởng Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

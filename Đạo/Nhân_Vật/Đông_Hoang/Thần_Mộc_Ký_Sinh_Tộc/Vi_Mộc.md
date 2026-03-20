@@ -4,6 +4,8 @@ name: Vi Mộc
 hantu: 微木
 archetype: Tộc Trưởng
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

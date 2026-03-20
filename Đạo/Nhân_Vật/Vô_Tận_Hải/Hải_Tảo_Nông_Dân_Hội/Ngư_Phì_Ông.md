@@ -4,6 +4,8 @@ name: Ngư Phì Ông
 hantu: 魚肥翁
 archetype: Hội Trưởng
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

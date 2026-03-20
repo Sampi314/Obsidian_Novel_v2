@@ -4,6 +4,18 @@ name: Đặng Thiết Ngưu
 hantu: 邓铁牛
 archetype: Trưởng Trại
 race: Nhân Tộc
+lingan: Kim thuộc đơn linh căn
+dao_tam: Ta không biết đánh nhau giỏi, nhưng ta biết rèn cho họ thứ tốt nhất
+aliases:
+  - "Lão Ngưu" (老牛)"
+  - "từ Hội Trưởng đến tán tu mới. Không ai nhớ ai gọi đầu tiên"
+  - "nhưng cái tên dính như keo vì nó quá hợp — gã to như trâu"
+  - "chậm như trâu"
+  - "bền bỉ như trâu"
+  - "chỉ gãi đầu cười hề hề"
+origin: Bắc Băng — Trại Suối Lạnh, tọa lạc cạnh một mạch suối ngầm tỏa hơi ấm
+age: 58
+faction_rank: Trưởng Trại Suối Lạnh
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Cương Chiến Sĩ
 hantu: 鋼戰士
 archetype: Chiến Vu Đội Trưởng
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Chiến Vu Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,15 @@ name: Nham Cự Lực
 hantu: 岩巨力
 archetype: Chiến Binh
 race: Cự Tộc
+dao_tam: Khai Sơn đi đâu, ta đi đó. Đơn giản vậy thôi
+aliases:
+  - "Tảng Đá Biết Đi" (行走巨岩)"
+  - "chậm chạp"
+  - "ít nói"
+  - "và khi xông lên thì không gì cản nổi"
+origin: Bắc Băng — vùng tundra hoang sơ cực Bắc
+age: 19
+faction_rank: Tiên Phong (người đi đầu khi đội mở đường qua vùng đất mới
 avatar: ''
 arcs:
   - arc: 1

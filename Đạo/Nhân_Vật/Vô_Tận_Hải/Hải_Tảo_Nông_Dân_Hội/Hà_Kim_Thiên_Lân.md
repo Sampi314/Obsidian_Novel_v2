@@ -4,6 +4,8 @@ name: Hà Kim Thiên Lân
 hantu: 蝦金千鱗
 archetype: Nông Dân
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Nông Dân
 avatar: ''
 arcs:
   - arc: 1

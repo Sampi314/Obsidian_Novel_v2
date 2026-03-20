@@ -4,6 +4,12 @@ name: Khuẩn Minh Nguyệt Băng
 hantu: 菌明月冰
 archetype: Thiên Văn Sư
 race: Vi Tộc
+dao_tam: Trời có ngôn ngữ riêng. Ta chỉ là kẻ dịch — dịch sai, tộc chết. Dịch đúng, tộc sống
+aliases:
+  - "Nguyệt Sư" (月師)"
+origin: Bắc Băng
+age: 5
+faction_rank: Thiên Văn Sư — quan sát tinh tượng
 avatar: ''
 arcs:
   - arc: 1

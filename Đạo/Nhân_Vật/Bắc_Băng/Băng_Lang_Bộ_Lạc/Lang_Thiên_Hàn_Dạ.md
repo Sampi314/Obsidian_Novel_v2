@@ -4,6 +4,15 @@ name: Lang Thiên Hàn Dạ
 hantu: 狼千寒夜
 archetype: Pháp Sư Bộ Lạc
 race: Yêu Tộc
+dao_tam: Tuyết rơi một nghìn năm, mỗi bông tuyết kể một câu chuyện. Nhiệm vụ của Saman là lắng nghe
+aliases:
+  - "Đại Lang Vu" (大狼巫)"
+  - "lão là Saman tối cao duy nhất của Băng Lang Bộ Lạc"
+  - "Lão Tuyết Mù" (老雪瞎)"
+  - "nhưng không ai dám nói trước mặt"
+origin: Bắc Băng — Lang Vu Viện, khu lều trại riêng biệt bên rìa trại chính
+age: 650
+faction_rank: Pháp Sư Bộ Lạc / Đại Lang Vu (大狼巫) — thủ lĩnh Lang Vu Viện
 avatar: ''
 arcs:
   - arc: 1

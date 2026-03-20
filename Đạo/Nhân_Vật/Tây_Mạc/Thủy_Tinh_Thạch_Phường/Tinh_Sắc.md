@@ -4,6 +4,8 @@ name: Tinh Sắc
 hantu: 晶色
 archetype: Thợ Cả
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Thợ Cả
 avatar: ''
 arcs:
   - arc: 1

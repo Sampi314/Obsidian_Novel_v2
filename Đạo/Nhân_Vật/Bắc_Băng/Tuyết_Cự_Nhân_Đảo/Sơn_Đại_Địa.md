@@ -4,6 +4,8 @@ name: Sơn Đại Địa
 hantu: 山大地
 archetype: Chiến Binh
 race: Cự Tộc
+origin: Bắc Băng
+faction_rank: Dũng Sĩ Ném Băng
 avatar: ''
 arcs:
   - arc: 1

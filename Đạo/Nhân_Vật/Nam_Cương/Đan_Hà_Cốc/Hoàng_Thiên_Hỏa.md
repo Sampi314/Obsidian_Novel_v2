@@ -4,6 +4,8 @@ name: Hoàng Thiên Hỏa
 hantu: 黃天火
 archetype: Đệ Lục Tháp Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Lục Tháp Chủ
 avatar: ''
 arcs:
   - arc: 1

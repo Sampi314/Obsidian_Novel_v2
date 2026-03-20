@@ -4,6 +4,13 @@ name: Bào Lưu Lạc
 hantu: 孢流落
 archetype: Lữ Khách
 race: Vi Tộc
+dao_tam: Tịnh Bào Đạo
+aliases:
+  - "Cô Bào Khách (孤孢客)"
+  - "trong tộc cũ"
+  - "hắn bị gọi bằng danh xưng nhục nhã "Phản Bào" (叛孢)"
+origin: Lang thang
+faction_rank: Vi Tộc Kim Đan lưu vong
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nguyệt Hàn Sương
 hantu: 月寒霜
 archetype: Thái Tử
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thái Tử
 avatar: ''
 arcs:
   - arc: 1

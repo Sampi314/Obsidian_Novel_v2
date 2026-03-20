@@ -4,6 +4,10 @@ name: Thạch Vạn Niên
 hantu: 石萬年
 archetype: Thái Thượng Trưởng Lão
 race: Thạch Tộc
+aliases:
+  - "Vạn Cổ Thạch Tổ" (萬古石祖) — Vị đá muôn đời"
+origin: Thiên Trụ
+faction_rank: Thái Thượng Trưởng Lão — bề trên tối cao của toàn cung
 avatar: ''
 arcs:
   - arc: 1

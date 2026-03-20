@@ -4,6 +4,8 @@ name: Trần Quỷ Diện
 hantu: 陳鬼面
 archetype: Phó Quỷ Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Quỷ Chủ
 avatar: ''
 arcs:
   - arc: 1

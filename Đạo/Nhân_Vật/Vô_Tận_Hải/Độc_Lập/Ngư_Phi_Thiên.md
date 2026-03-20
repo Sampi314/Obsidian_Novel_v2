@@ -4,6 +4,8 @@ name: Ngư Phi Thiên
 hantu: 魚飛天
 archetype: Cá Bay
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Cá Bay
 avatar: ''
 arcs:
   - arc: 1

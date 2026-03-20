@@ -4,6 +4,8 @@ name: Yến Sa Phong
 hantu: 燕沙風
 archetype: Trinh Sát
 race: Vũ Tộc
+origin: Tây Mạc
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

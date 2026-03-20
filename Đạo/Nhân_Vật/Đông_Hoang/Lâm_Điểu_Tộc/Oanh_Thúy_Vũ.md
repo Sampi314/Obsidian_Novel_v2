@@ -4,6 +4,8 @@ name: Oanh Thúy Vũ
 hantu: 鶯翠羽
 archetype: Trinh Sát
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

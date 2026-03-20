@@ -4,6 +4,8 @@ name: Vũ Huyết Cuồng
 hantu: 武血狂
 archetype: Đường Chủ Chiến Đấu Đường
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đường Chủ Chiến Đấu Đường
 avatar: ''
 arcs:
   - arc: 1

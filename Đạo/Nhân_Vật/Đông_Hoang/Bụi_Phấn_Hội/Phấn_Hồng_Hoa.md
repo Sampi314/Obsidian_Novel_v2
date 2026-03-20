@@ -4,6 +4,8 @@ name: Phấn Hồng Hoa
 hantu: 粉紅花
 archetype: Thụ Phấn Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Thụ Phấn Sư
 avatar: ''
 arcs:
   - arc: 1

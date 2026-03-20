@@ -4,6 +4,14 @@ name: Mạc Vô Danh
 hantu: 莫无名
 archetype: Minh Chủ
 race: Nhân Tộc
+lingan: Băng Linh Căn đơn hệ
+dao_tam: Tự do không phải là quyền — tự do là thứ phải cướp lại bằng máu, và giữ lại bằng xương
+aliases:
+  - "Vô Danh Kiếm Tù" (无名剑囚)"
+  - "các đào vong giả gọi hắn là "Lão Đại" hoặc đơn giản là "Minh Chủ."
+origin: Bắc Băng — lang thang giữa các hang băng di động ven bờ Bắc Hải
+age: 280
+faction_rank: Minh Chủ (明主)
 avatar: ''
 arcs:
   - arc: 1

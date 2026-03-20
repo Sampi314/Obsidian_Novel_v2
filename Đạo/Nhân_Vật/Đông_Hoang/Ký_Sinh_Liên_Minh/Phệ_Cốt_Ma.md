@@ -4,6 +4,8 @@ name: Phệ Cốt Ma
 hantu: 噬骨魔
 archetype: Ký Sinh Trùng Chúa
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Ký Sinh Trùng Chúa
 avatar: ''
 arcs:
   - arc: 1

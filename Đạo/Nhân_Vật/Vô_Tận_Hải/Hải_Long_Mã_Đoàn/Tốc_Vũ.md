@@ -4,6 +4,8 @@ name: Tốc Vũ
 hantu: 速羽
 archetype: Đội Trưởng
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

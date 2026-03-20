@@ -4,6 +4,17 @@ name: Băng Cốt Yêu Nữ
 hantu: 冰骨妖女
 archetype: Tù Trưởng
 race: Yêu Tộc
+lingan: Băng Hệ Thượng Phẩm Linh Căn (冰系上品灵根)
+dao_tam: Vạn Vật Giai Mộng
+aliases:
+  - "Yêu Nữ" (妖女)"
+  - "Cốt Mỹ Nhân" (骨美人)"
+  - "Hàn Mộng Tà Nữ" (寒梦邪女)"
+  - "Tiểu Yêu" (小妖) — Mạc Lão Bà gọi"
+  - "khiến ả tức nghẹn nhưng không dám phản bác"
+origin: Bắc Băng
+age: 650
+faction_rank: Thủ Lĩnh Tầng Bốn (四层首领) — tầng sâu nhất
 avatar: ''
 arcs:
   - arc: 1

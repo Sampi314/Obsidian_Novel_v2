@@ -4,6 +4,8 @@ name: Ám Linh Quang Diệu
 hantu: 暗靈光耀
 archetype: Phát Quang Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Phát Quang Sư
 avatar: ''
 arcs:
   - arc: 1

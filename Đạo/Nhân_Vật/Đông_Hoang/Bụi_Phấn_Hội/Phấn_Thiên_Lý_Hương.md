@@ -4,6 +4,8 @@ name: Phấn Thiên Lý Hương
 hantu: 粉千里香
 archetype: Truyền Tin Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Truyền Tin Sư
 avatar: ''
 arcs:
   - arc: 1

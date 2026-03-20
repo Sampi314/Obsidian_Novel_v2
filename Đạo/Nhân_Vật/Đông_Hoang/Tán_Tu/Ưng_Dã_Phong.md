@@ -4,6 +4,8 @@ name: Ưng Dã Phong
 hantu: 鷹野風
 archetype: Thợ Săn
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Thợ Săn
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Hải Lục Thâm
 hantu: 海陸深
 archetype: Đoàn Trưởng
 race: Hải Tộc
+dao_tam: Thâm Uyên Bất Hối
+origin: Vô Tận Hải
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

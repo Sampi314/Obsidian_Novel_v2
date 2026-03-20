@@ -4,6 +4,8 @@ name: Ưng Đông Sương
 hantu: 鷹凍霜
 archetype: Chiến Sĩ
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

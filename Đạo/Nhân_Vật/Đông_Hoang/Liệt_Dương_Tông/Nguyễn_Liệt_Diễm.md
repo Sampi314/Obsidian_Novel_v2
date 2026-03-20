@@ -4,6 +4,8 @@ name: Nguyễn Liệt Diễm
 hantu: 阮烈焰
 archetype: Trưởng Lão Viêm Long Quân
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Viêm Long Quân
 avatar: ''
 arcs:
   - arc: 1

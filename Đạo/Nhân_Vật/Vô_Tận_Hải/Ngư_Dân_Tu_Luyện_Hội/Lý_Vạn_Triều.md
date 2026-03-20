@@ -4,6 +4,8 @@ name: Lý Vạn Triều
 hantu: 李万潮
 archetype: Trưởng Thôn
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Phó Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

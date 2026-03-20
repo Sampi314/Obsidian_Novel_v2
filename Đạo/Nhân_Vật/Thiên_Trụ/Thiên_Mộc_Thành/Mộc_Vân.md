@@ -4,6 +4,8 @@ name: Mộc Vân
 hantu: 木雲
 archetype: Phó Thành Chủ Quân Sự
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Phó Thành Chủ Quân Sự
 avatar: ''
 arcs:
   - arc: 1

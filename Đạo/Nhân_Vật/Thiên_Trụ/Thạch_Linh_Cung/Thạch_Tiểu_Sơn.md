@@ -4,6 +4,8 @@ name: Thạch Tiểu Sơn
 hantu: 石小山
 archetype: Nội Môn Đệ Tử
 race: Thạch Tộc
+origin: Thiên Trụ
+faction_rank: Nội Môn Đệ Tử — đang trong giai đoạn học việc
 avatar: ''
 arcs:
   - arc: 1

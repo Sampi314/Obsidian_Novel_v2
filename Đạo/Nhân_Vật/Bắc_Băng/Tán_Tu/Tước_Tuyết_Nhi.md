@@ -4,6 +4,8 @@ name: Tước Tuyết Nhi
 hantu: 雀雪兒
 archetype: Thợ Săn
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Thợ Săn
 avatar: ''
 arcs:
   - arc: 1

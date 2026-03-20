@@ -4,6 +4,8 @@ name: Sương Lệ Nhi
 hantu: 霜淚兒
 archetype: Lữ Khách
 race: Trùng Tộc
+origin: Bắc Băng
+faction_rank: Lữ Khách
 avatar: ''
 arcs:
   - arc: 1

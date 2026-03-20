@@ -4,6 +4,9 @@ name: Lý Tàn Kiếm
 hantu: 李残剑
 archetype: Phó Đoàn
 race: Nhân Tộc
+dao_tam: Tàn Kiếm Bất Khuất
+origin: Bắc Băng
+faction_rank: Phó Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

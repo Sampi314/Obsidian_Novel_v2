@@ -4,6 +4,8 @@ name: Yến Hải Triều
 hantu: 燕海潮
 archetype: Trinh Sát
 race: Vũ Tộc
+origin: Vô Tận Hải
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trùng Bạch
 hantu: 蟲白
 archetype: Phường Chủ
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Phường Chủ
 avatar: ''
 arcs:
   - arc: 1

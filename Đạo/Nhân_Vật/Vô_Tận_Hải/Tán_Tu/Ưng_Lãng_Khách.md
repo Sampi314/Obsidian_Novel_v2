@@ -4,6 +4,8 @@ name: Ưng Lãng Khách
 hantu: 鷹浪客
 archetype: Chiến Sĩ
 race: Vũ Tộc
+origin: Vô Tận Hải
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

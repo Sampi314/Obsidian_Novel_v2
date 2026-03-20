@@ -4,6 +4,8 @@ name: Nguyễn Thanh Luyện
 hantu: 阮青煉
 archetype: Chân Truyền Đệ Tử
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Chân Truyền Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

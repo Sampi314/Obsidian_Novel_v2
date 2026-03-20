@@ -4,6 +4,8 @@ name: Hoa Liên Hương Tử
 hantu: 花蓮香紫
 archetype: Trận Pháp Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Trận Pháp Sư
 avatar: ''
 arcs:
   - arc: 1

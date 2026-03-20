@@ -4,6 +4,8 @@ name: Triều Ngọc Hà
 hantu: 潮玉荷
 archetype: Đại Chưởng Quỹ
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Quản Sự Giao Thương Viện
 avatar: ''
 arcs:
   - arc: 1

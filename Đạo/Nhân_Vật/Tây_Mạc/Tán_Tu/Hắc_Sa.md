@@ -4,6 +4,8 @@ name: Hắc Sa
 hantu: 黑沙
 archetype: Thợ Mỏ
 race: Cự Tộc
+origin: Tây Mạc
+faction_rank: Thợ Mỏ
 avatar: ''
 arcs:
   - arc: 1

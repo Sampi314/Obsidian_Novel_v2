@@ -4,6 +4,8 @@ name: Lý Vân Thiên
 hantu: 李雲天
 archetype: Tông Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Tông Chủ
 avatar: ''
 arcs:
   - arc: 1

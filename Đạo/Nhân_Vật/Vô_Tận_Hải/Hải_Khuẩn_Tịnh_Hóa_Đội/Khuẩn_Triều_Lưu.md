@@ -4,6 +4,8 @@ name: Khuẩn Triều Lưu
 hantu: 菌潮流
 archetype: Hải Lưu Sư
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Hải Lưu Sư
 avatar: ''
 arcs:
   - arc: 1

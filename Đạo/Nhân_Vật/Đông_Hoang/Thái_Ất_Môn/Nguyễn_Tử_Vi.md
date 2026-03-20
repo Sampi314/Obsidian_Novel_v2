@@ -4,6 +4,8 @@ name: Nguyễn Tử Vi
 hantu: 阮紫微
 archetype: Hộ Pháp
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

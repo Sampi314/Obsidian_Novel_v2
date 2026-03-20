@@ -4,6 +4,14 @@ name: Băng Tịnh Liên
 hantu: 冰净莲
 archetype: Nữ Tế
 race: Băng Tộc
+lingan: Quang Mộc Song Linh Căn (光木双灵根)
+dao_tam: Tịnh Liên Độ Sinh
+aliases:
+  - "Tịnh Liên Y Nữ (净莲医女"
+  - "Tiểu Liên (小莲"
+origin: Bắc Băng
+age: 52
+faction_rank: Nữ Tế Tư (女祭司) của Tế Tư Viện
 avatar: ''
 arcs:
   - arc: 1

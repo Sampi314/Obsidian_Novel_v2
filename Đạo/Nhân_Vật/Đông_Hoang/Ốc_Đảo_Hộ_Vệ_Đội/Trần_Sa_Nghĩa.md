@@ -4,6 +4,8 @@ name: Trần Sa Nghĩa
 hantu: 陳沙義
 archetype: Tổng Đội Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Tổng Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

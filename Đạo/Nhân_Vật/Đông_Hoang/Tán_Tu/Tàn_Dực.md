@@ -4,6 +4,8 @@ name: Tàn Dực
 hantu: 殘翼
 archetype: Chiến Sĩ
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Mạc Vô Diện
 hantu: 莫無面
 archetype: Quỷ Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Quỷ Chủ
 avatar: ''
 arcs:
   - arc: 1

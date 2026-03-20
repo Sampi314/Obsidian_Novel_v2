@@ -4,6 +4,8 @@ name: Nguyễn Bát Nhã
 hantu: 阮般若
 archetype: Hộ Pháp
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

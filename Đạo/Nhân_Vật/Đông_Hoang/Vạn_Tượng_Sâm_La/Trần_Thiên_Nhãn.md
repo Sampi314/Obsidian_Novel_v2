@@ -4,6 +4,8 @@ name: Trần Thiên Nhãn
 hantu: 陳天眼
 archetype: Phó Hội Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

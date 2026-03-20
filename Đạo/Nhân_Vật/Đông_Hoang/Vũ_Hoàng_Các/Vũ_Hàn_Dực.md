@@ -4,6 +4,8 @@ name: Vũ Hàn Dực
 hantu: 羽寒翼
 archetype: Dực Tướng Bắc
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Dực Tướng Bắc
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hoàng Thạch Bích
 hantu: 黃石壁
 archetype: Tướng Quân
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Tướng Quân
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Ân Thiết
 hantu: 殷鐵
 archetype: Nội Môn Đệ Tử
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Nội Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

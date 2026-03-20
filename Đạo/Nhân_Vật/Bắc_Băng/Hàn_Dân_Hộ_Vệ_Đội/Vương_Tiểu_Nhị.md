@@ -4,6 +4,14 @@ name: Vương Tiểu Nhị
 hantu: 王小二
 archetype: Phó Đội
 race: Nhân Tộc
+dao_tam: Dĩ Trí Hộ Dân
+aliases:
+  - "Tiểu Đội Trưởng" (小队长)"
+  - "Sổ Sách Tiên Sinh" (账簿先生)"
+  - "Thằng Nhóc Nhà Lão Răng Sắt" — Hỏa Nương gọi"
+origin: Bắc Băng — vùng đất đóng băng vĩnh cửu dưới chân Tuyết Sơn
+age: 28
+faction_rank: Phó Đội (副队) — phụ trách hậu cần
 avatar: ''
 arcs:
   - arc: 1

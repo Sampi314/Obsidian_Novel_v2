@@ -4,6 +4,8 @@ name: Nham Tầm
 hantu: 岩寻
 archetype: Trưởng Lão Thăm Dò
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Trưởng Lão Thăm Dò
 avatar: ''
 arcs:
   - arc: 1

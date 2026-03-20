@@ -4,6 +4,8 @@ name: Vũ Phiêu Linh
 hantu: 羽飘零
 archetype: Truyền Tin Viên
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Truyền Tin Viên
 avatar: ''
 arcs:
   - arc: 1

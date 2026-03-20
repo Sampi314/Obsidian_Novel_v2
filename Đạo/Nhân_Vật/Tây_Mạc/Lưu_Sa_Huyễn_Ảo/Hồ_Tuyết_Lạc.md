@@ -4,6 +4,11 @@ name: Hồ Tuyết Lạc
 hantu: 狐雪落
 archetype: Huyễn Thuật Sư
 race: Yêu Tộc (Hồ Ly)
+aliases:
+  - "Hàn Sa Hồ Nương (寒沙狐娘)"
+  - "biệt danh do Mộng Điệp đặt để trêu nàng xinh đẹp nhưng lạnh lùng"
+origin: Tây Mạc — Vùng Lưu Sa Di Động
+faction_rank: Huyễn Thuật Sư
 avatar: ''
 arcs:
   - arc: 1

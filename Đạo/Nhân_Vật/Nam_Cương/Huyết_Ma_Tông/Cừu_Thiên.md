@@ -4,6 +4,8 @@ name: Cừu Thiên
 hantu: 仇天
 archetype: Đệ Nhất Huyết Tướng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Nhất Huyết Tướng
 avatar: ''
 arcs:
   - arc: 1

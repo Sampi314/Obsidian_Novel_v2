@@ -4,6 +4,13 @@ name: Trần Sơn Nhi
 hantu: 陈山儿
 archetype: Hái Dược
 race: Nhân Tộc
+dao_tam: Hái mà không tận, sống mà không quên
+aliases:
+  - "Sơn Khỉ" (山猴)"
+  - "bám đá bằng đầu ngón tay ở những chỗ mà người khác nhìn vào đã chóng mặt"
+origin: Bắc Băng
+age: 28
+faction_rank: Trưởng Nhóm Hái Dược
 avatar: ''
 arcs:
   - arc: 1

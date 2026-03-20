@@ -4,6 +4,8 @@ name: Vũ Quang Dực
 hantu: 羽光翼
 archetype: Dực Tướng Nam
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Dực Tướng Nam
 avatar: ''
 arcs:
   - arc: 1

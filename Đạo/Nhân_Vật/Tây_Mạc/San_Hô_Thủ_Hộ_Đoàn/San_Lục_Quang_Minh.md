@@ -4,6 +4,9 @@ name: San Lục Quang Minh
 hantu: 珊綠光明
 archetype: Y Sư
 race: Hải Tộc
+dao_tam: Chữa lành từng cành san hô, dù biết biển đang chết dần
+origin: Tây Mạc
+faction_rank: Y Sư
 avatar: ''
 arcs:
   - arc: 1

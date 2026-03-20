@@ -4,6 +4,11 @@ name: Sa Độc Hạt Vương
 hantu: 沙毒蝎王
 archetype: Bọ Cạp Chúa
 race: Trùng Tộc
+aliases:
+  - "Hạt Vương" (蝎王)"
+  - "Cái Chết Dưới Cát" (沙下之死)"
+origin: Tây Mạc
+faction_rank: Không có — hắn là sinh vật tự do
 avatar: ''
 arcs:
   - arc: 1

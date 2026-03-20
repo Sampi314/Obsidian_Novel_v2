@@ -4,6 +4,11 @@ name: Sa Tàn
 hantu: 沙残
 archetype: Trưởng Đoàn
 race: Thạch Tộc
+aliases:
+  - "Tàn Thạch Trưởng Lão (残石长老)"
+  - "Sa Mạc Cô Hồn (砂漠孤魂)"
+origin: Tây Mạc — Đông Hoang (lang thang giữa các mỏ đá hoang phế)
+faction_rank: Trưởng Đoàn
 avatar: ''
 arcs:
   - arc: 1

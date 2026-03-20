@@ -4,6 +4,14 @@ name: Hồ Thanh Nguyệt
 hantu: 狐青月
 archetype: Chiến Binh
 race: Yêu Tộc
+dao_tam: Nguyệt Ảnh Hộ Vệ
+aliases:
+  - "Nguyệt Nha (月牙"
+  - "Gã Câm Cá (哑鱼汉)"
+  - "suốt ngày ngồi trên thuyền không nói một lời"
+origin: Bắc Băng — làng chài ven biển Bắc Hải
+age: 178
+faction_rank: Hộ Vệ Trưởng (护卫长) của Bạch Hồ Ẩn Tộc
 avatar: ''
 arcs:
   - arc: 1

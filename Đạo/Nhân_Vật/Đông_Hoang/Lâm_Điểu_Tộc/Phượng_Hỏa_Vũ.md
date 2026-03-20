@@ -4,6 +4,8 @@ name: Phượng Hỏa Vũ
 hantu: 鳳火羽
 archetype: Chiến Sĩ
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

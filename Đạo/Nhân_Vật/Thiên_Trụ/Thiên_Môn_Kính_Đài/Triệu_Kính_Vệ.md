@@ -4,6 +4,9 @@ name: Triệu Kính Vệ
 hantu: 趙鏡衛
 archetype: Kính Vệ Thống Lĩnh
 race: Nhân Tộc
+dao_tam: Kính Bất Khả Phá
+origin: Thiên Trụ
+faction_rank: Kính Vệ Thống Lĩnh
 avatar: ''
 arcs:
   - arc: 1

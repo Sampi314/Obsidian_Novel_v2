@@ -4,6 +4,15 @@ name: Hồ Diệu Ngôn
 hantu: 狐妙言
 archetype: Ngoại Giao
 race: Yêu Tộc
+dao_tam: Lời nói đúng lúc mạnh hơn lưỡi kiếm. Nhưng lời nói không đúng lúc... cũng giết người như kiếm
+aliases:
+  - "Lưỡi Lụa" (綢舌)"
+  - "vì lời nói của nàng mềm mại và trơn tru như lụa"
+  - "bọc kín mọi bẫy bên trong"
+  - "Quản Sự Ngôn" (管事言)"
+origin: Tây Mạc
+age: 186
+faction_rank: Ngoại Giao Viên Chủ Chốt (外交官)
 avatar: ''
 arcs:
   - arc: 1

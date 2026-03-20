@@ -4,6 +4,14 @@ name: Lang Thiết Nha
 hantu: 狼鐵牙
 archetype: Vệ Binh Trưởng
 race: Yêu Tộc
+dao_tam: Đứng ở đây. Không rời. Cho đến khi chết
+aliases:
+  - "Cổng Sắt" (鐵門)"
+  - "không bao giờ rời vị trí"
+  - "Lão Thạch Tượng" (老石像)"
+origin: Bắc Băng — Hang Lang Thần và khu trung tâm
+age: 450
+faction_rank: Vệ Binh Trưởng (卫兵长)
 avatar: ''
 arcs:
   - arc: 1

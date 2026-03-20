@@ -4,6 +4,8 @@ name: Hùng Thiết Sơn
 hantu: 熊鐵山
 archetype: Thánh Tướng Thứ Hai
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thánh Tướng Thứ Hai
 avatar: ''
 arcs:
   - arc: 1

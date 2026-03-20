@@ -4,6 +4,8 @@ name: Ưng Hàn Ảnh
 hantu: 鹰寒影
 archetype: Đội Trưởng Trinh Sát
 race: Yêu Tộc
+origin: Bắc Băng
+faction_rank: Đội Trưởng Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

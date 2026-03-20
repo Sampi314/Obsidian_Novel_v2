@@ -4,6 +4,8 @@ name: Ám Kỵ Giáp
 hantu: 暗騎甲
 archetype: Giáp Trùng Kỵ Sĩ
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Giáp Trùng Kỵ Sĩ
 avatar: ''
 arcs:
   - arc: 1

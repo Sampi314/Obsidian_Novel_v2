@@ -4,6 +4,8 @@ name: Ngư Quỷ Diện
 hantu: 鱼鬼面
 archetype: Đội Trưởng
 race: Thủy Ma
+origin: Vô Tận Hải
+faction_rank: Đội Trưởng Ám Ảnh Ngư Đội
 avatar: ''
 arcs:
   - arc: 1

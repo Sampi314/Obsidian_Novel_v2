@@ -4,6 +4,8 @@ name: Phượng Lâm
 hantu: 鳳林
 archetype: Tộc Trưởng
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

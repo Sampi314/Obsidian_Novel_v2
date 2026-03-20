@@ -4,6 +4,11 @@ name: Nguyệt Dao
 hantu: 月瑤
 archetype: Cung Thủ
 race: Tinh Linh Tộc
+dao_tam: Nguyện Dùng Thân Này, Hóa Thành Ánh Trăng Soi Sáng Rừng Già
+aliases:
+  - "Nữ Hoàng Tinh Linh (Elf Queen)"
+  - "Nguyệt Thần Chi Ảnh (Shadow of the Moon God)"
+faction_rank: Nữ Hoàng Đương Nhiệm (Đời thứ 6)
 avatar: Nguyệt_Dao.png
 arcs:
   - arc: 1

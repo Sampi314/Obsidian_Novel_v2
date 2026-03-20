@@ -4,6 +4,8 @@ name: Châu Ngọc Yên
 hantu: 周玉煙
 archetype: Đệ Thất Tháp Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Thất Tháp Chủ
 avatar: ''
 arcs:
   - arc: 1

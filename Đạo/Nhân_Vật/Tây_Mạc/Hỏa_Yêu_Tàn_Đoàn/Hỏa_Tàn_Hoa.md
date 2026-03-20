@@ -4,6 +4,8 @@ name: Hỏa Tàn Hoa
 hantu: 火殘花
 archetype: Y Sư
 race: Yêu Tộc
+origin: Tây Mạc
+faction_rank: Y Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Linh Dao Hoa
 hantu: 靈桃花
 archetype: Đan Dược Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Đan Dược Sư
 avatar: ''
 arcs:
   - arc: 1

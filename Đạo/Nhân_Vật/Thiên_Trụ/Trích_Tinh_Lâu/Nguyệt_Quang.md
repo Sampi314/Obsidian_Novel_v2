@@ -4,6 +4,9 @@ name: Nguyệt Quang
 hantu: 月光
 archetype: Thủ Các Trưởng Lão
 race: Nhân Tộc
+dao_tam: Vũ trụ là một bài trận pháp vĩ đại — ta chỉ đang tìm cách đọc hiểu nó
+origin: Thiên Trụ
+faction_rank: Thủ Các Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

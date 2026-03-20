@@ -4,6 +4,13 @@ name: Ba Hải Vọng
 hantu: 波海望
 archetype: Quan Sát Viên
 race: Vi Tộc
+dao_tam: Ta là đôi mắt mở suốt đêm — vì mạng lưới không được phép bị bất ngờ
+aliases:
+  - "Mắt Của Đại Dương" (海之眼)"
+  - "vì Ba Hải Vọng là cá thể có phạm vi cảm nhận rộng nhất trong mạng lưới"
+  - "từ trận chiến cách hàng vạn dặm đến con bão đang hình thành ở chân trời"
+origin: Vô Tận Hải
+faction_rank: Quan Sát Viên (观察员) — cá thể chuyên trách trinh sát
 avatar: ''
 arcs:
   - arc: 1

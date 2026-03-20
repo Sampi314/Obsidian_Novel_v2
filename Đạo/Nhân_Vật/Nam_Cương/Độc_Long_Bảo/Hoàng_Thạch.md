@@ -4,6 +4,8 @@ name: Hoàng Thạch
 hantu: 黃石
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

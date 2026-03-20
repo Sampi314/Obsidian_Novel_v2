@@ -4,6 +4,11 @@ name: Hoàng Điểu Vũ Thiên
 hantu: 黃鳥羽天
 archetype: Trinh Sát
 race: Bán Yêu
+aliases:
+  - "Kim Vũ Trinh Sát (金羽偵察)"
+  - "người ngoài thì gọi "con chim vàng"
+age: 87
+faction_rank: Trinh Sát Trưởng
 avatar: ''
 arcs:
   - arc: 1

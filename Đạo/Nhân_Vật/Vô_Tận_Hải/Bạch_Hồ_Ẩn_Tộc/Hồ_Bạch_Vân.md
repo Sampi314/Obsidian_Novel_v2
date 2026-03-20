@@ -4,6 +4,8 @@ name: Hồ Bạch Vân
 hantu: 狐白雲
 archetype: Hộ Pháp
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nấm Bạch Ty
 hantu: 菌白絲
 archetype: Sợi Nấm Mới
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Sợi Nấm Mới
 avatar: ''
 arcs:
   - arc: 1

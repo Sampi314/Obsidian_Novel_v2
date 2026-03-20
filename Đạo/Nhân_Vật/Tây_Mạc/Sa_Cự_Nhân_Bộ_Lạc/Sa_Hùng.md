@@ -4,6 +4,11 @@ name: Sa Hùng
 hantu: 沙雄
 archetype: Trưởng Lão
 race: Cự Tộc
+aliases:
+  - "Sa Mạc Chiến Thần (沙漠战神)"
+  - "hơi phóng đại nhưng không ai dám nói trước mặt gã. Thiết Chùy Sa Hùng (铁锤沙雄)"
+origin: Tây Mạc — Hoàng Kim Sa Hải
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

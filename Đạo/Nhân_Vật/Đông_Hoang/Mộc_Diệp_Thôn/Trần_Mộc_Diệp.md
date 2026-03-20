@@ -4,6 +4,8 @@ name: Trần Mộc Diệp
 hantu: 陳木葉
 archetype: Phó Trưởng Lão
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

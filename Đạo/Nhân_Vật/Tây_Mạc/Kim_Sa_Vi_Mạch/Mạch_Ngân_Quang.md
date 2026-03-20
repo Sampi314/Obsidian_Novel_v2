@@ -4,6 +4,9 @@ name: Mạch Ngân Quang
 hantu: 脈銀光
 archetype: Khai Thác Trưởng
 race: Vi Tộc
+dao_tam: giữ mạch
+origin: Tây Mạc
+faction_rank: Khai Thác Trưởng
 avatar: ''
 arcs:
   - arc: 1

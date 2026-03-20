@@ -4,6 +4,8 @@ name: Lý Túy Tiên
 hantu: 李醉仙
 archetype: Chưởng Quầy Chi Nhánh
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Chưởng Quầy Chi Nhánh
 avatar: ''
 arcs:
   - arc: 1

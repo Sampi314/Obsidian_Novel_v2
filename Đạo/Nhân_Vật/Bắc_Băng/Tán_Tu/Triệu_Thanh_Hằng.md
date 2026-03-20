@@ -4,6 +4,8 @@ name: Triệu Thanh Hằng
 hantu: 趙清恒
 archetype: Kiếm Tu
 race: Nhân Tộc
+dao_tam: Duy Kiếm Duy Ngã
+age: 22
 avatar: Triệu_Thanh_Hằng.png
 arcs:
   - arc: 1

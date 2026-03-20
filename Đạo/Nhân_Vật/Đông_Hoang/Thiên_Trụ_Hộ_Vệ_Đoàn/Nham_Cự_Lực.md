@@ -4,6 +4,8 @@ name: Nham Cự Lực
 hantu: 岩巨力
 archetype: Tướng Quân Cự Tộc
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Tướng Quân Cự Tộc
 avatar: ''
 arcs:
   - arc: 1

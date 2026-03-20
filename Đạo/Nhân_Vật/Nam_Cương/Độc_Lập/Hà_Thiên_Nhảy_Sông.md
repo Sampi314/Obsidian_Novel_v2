@@ -4,6 +4,8 @@ name: Hà Thiên Nhảy Sông
 hantu: 蝦千跳江
 archetype: Thương Nhân
 race: Hải Tộc
+origin: Nam Cương
+faction_rank: Thương Nhân
 avatar: ''
 arcs:
   - arc: 1

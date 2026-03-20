@@ -4,6 +4,8 @@ name: Bán Lâm
 hantu: 半林
 archetype: Hội Trưởng
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

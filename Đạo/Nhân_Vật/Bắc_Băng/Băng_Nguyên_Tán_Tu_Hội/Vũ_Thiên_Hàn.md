@@ -4,6 +4,13 @@ name: Vũ Thiên Hàn
 hantu: 武天寒
 archetype: Trưởng Trại
 race: Nhân Tộc
+lingan: Băng thuộc đơn linh căn
+dao_tam: Ta không cần trời đất ban cho. Ta tự lấy
+aliases:
+  - "Tiểu Bạch Long" (小白龙)"
+origin: Bắc Băng
+age: 31
+faction_rank: Trưởng Trại Đá Ngầm — trại khó khăn nhất
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,12 @@ name: Vân Ảo
 hantu: 云幻
 archetype: Trưởng Lão
 race: Nhân Tộc
+aliases:
+  - "Vân Lão (云老) — cách đệ tử trẻ gọi"
+  - "vừa kính trọng vừa thân mật. Sử Ký Huyễn Cung (史记幻宫) — biệt danh tự phong"
+  - "vì bà tự coi mình là người ghi chép lịch sử cung"
+origin: Tây Mạc — Vùng Lưu Sa Di Động
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

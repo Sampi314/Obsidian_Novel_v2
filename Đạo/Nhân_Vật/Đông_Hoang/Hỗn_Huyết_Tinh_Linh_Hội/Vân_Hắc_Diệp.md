@@ -4,6 +4,8 @@ name: Vân Hắc Diệp
 hantu: 雲黑葉
 archetype: Đệ Tử
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

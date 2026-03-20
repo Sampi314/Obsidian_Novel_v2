@@ -4,6 +4,8 @@ name: Mãng Lục Vương
 hantu: 蟒綠王
 archetype: Hắc Thị Chủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Hắc Thị Chủ
 avatar: ''
 arcs:
   - arc: 1

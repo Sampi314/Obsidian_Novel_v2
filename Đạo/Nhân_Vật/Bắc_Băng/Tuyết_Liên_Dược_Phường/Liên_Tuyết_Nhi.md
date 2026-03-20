@@ -4,6 +4,8 @@ name: Liên Tuyết Nhi
 hantu: 莲雪儿
 archetype: Phường Chủ
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Phường Chủ
 avatar: ''
 arcs:
   - arc: 1

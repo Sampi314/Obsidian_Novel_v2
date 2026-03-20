@@ -4,6 +4,8 @@ name: Hắc Sa
 hantu: 黑沙
 archetype: Nội Môn Đệ Tử
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Nội Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

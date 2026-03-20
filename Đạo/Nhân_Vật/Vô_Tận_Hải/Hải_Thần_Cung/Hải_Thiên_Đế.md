@@ -4,6 +4,12 @@ name: Hải Thiên Đế
 hantu: 海天帝
 archetype: Hải Đế
 race: Hải Tộc
+dao_tam: Trấn Hải An Dân, Phong Ma Vệ Thế
+aliases:
+  - "Đế Vương Vạn Hải (萬海帝王)"
+  - "Hải Uyên Chí Tôn (海渊至尊"
+origin: Vô Tận Hải
+faction_rank: Hải Đế (海帝) — Lãnh Đạo Tối Cao của Hải Thần Cung
 avatar: ''
 arcs:
   - arc: 1

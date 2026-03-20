@@ -4,6 +4,8 @@ name: Lang Hoang Nha
 hantu: 狼荒牙
 archetype: Lang Đội Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Lang Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

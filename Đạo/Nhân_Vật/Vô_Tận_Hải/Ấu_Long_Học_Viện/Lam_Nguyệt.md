@@ -4,6 +4,8 @@ name: Lam Nguyệt
 hantu: 蓝月
 archetype: Bảo Mẫu Trưởng
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Viện Trưởng / Bảo Mẫu Trưởng
 avatar: ''
 arcs:
   - arc: 1

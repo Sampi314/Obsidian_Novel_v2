@@ -4,6 +4,8 @@ name: Trần Chính Khí
 hantu: 陳正氣
 archetype: Phó Minh Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

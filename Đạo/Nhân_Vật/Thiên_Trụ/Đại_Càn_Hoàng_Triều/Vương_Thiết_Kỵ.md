@@ -4,6 +4,8 @@ name: Vương Thiết Kỵ
 hantu: 王鐵騎
 archetype: Binh Bộ Thượng Thư
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Binh Bộ Thượng Thư
 avatar: ''
 arcs:
   - arc: 1

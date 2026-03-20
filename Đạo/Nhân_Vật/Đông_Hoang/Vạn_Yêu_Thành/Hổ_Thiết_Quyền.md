@@ -4,6 +4,8 @@ name: Hổ Thiết Quyền
 hantu: 虎鐵拳
 archetype: Đấu Sĩ Hạng Nhất
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Đấu Sĩ Hạng Nhất
 avatar: ''
 arcs:
   - arc: 1

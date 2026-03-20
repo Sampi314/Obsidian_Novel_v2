@@ -4,6 +4,8 @@ name: Nha Thiên Mục
 hantu: 鴉千目
 archetype: Tin Tặc
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Tin Tặc
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nguyệt Yểm Ma
 hantu: 月魘魔
 archetype: Trưởng Lão Yểm Ma
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Yểm Ma
 avatar: ''
 arcs:
   - arc: 1

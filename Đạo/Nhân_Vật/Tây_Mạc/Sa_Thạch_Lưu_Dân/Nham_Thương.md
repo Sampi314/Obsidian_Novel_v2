@@ -4,6 +4,8 @@ name: Nham Thương
 hantu: 岩伤
 archetype: Hộ Vệ
 race: Thạch Tộc
+origin: Tây Mạc — Đông Hoang (lang thang cùng Sa Thạch Lưu Dân)
+faction_rank: Hộ Vệ (một trong ba Thạch Tộc còn tương đối nguyên vẹn)
 avatar: ''
 arcs:
   - arc: 1

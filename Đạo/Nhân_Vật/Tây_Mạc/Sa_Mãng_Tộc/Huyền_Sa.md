@@ -4,6 +4,8 @@ name: Huyền Sa
 hantu: 玄沙
 archetype: Tộc Trưởng
 race: Yêu Tộc (Xà)
+origin: Tây Mạc
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,13 @@ name: Trần Tiểu Kiếm
 hantu: 陈小剑
 archetype: Ngoại Môn
 race: Nhân Tộc
+aliases:
+  - "Chưa có"
+  - "ông ngoại gọi "Cá Con"
+  - "Sóng Triều gọi "Kiếm Nhỏ"
+origin: Vô Tận Hải
+age: 40
+faction_rank: Ngoại Môn Đệ Tử Ưu Tú
 avatar: ''
 arcs:
   - arc: 1

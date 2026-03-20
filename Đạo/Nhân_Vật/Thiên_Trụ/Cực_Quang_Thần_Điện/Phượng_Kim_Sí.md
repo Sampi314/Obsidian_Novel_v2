@@ -4,6 +4,8 @@ name: Phượng Kim Sí
 hantu: 鳳金翅
 archetype: Tả Hộ Pháp
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Tả Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

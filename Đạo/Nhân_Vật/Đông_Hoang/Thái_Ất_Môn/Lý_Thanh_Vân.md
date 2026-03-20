@@ -4,6 +4,8 @@ name: Lý Thanh Vân
 hantu: 李青雲
 archetype: Chưởng Môn
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Chưởng Môn
 avatar: ''
 arcs:
   - arc: 1

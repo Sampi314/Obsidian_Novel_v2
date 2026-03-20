@@ -4,6 +4,9 @@ name: Hải Nham
 hantu: 海岩
 archetype: San Hô Cự Nhân
 race: Cự Tộc
+dao_tam: Vạn Vật Tự Nhiên Thành
+origin: Vô Tận Hải
+faction_rank: San Hô Cự Nhân
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Kình Thiên Hải Vương
 hantu: 鯨天海王
 archetype: Tộc Trưởng
 race: Hải Tộc
+dao_tam: Kình Ca Hộ Hải
+origin: Vô Tận Hải
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lý Vô Nhai
 hantu: 李無涯
 archetype: Đại Tướng Quân
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đại Tướng Quân
 avatar: ''
 arcs:
   - arc: 1

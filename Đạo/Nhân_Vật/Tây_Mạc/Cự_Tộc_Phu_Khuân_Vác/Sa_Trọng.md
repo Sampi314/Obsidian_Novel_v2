@@ -4,6 +4,11 @@ name: Sa Trọng
 hantu: 沙重
 archetype: Tổ Trưởng
 race: Cự Tộc
+dao_tam: Tiếu Diện Đạo
+aliases:
+  - "Miệng Lớn Sa Trọng (大嘴沙重)"
+origin: Tây Mạc — trạm Bắc Phong trên Thiên Sa Thương Đạo
+faction_rank: Tổ trưởng phụ trách trạm khuân phía Bắc trên Thiên Sa Thương Đạo, một trong bốn tổ trưởng của Cự Tộc Phu Khuân Vác
 avatar: ''
 arcs:
   - arc: 1

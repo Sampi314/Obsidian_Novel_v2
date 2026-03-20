@@ -4,6 +4,8 @@ name: Phạm Hắc Ảnh
 hantu: 范黑影
 archetype: Đường Chủ Tình Báo
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đường Chủ Tình Báo
 avatar: ''
 arcs:
   - arc: 1

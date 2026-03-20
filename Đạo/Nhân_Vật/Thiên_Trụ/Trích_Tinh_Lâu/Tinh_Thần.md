@@ -4,6 +4,8 @@ name: Tinh Thần
 hantu: 星辰
 archetype: Thiên Hà Học Giả
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Thiên Hà Học Giả
 avatar: ''
 arcs:
   - arc: 1

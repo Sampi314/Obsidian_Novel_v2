@@ -4,6 +4,12 @@ name: Sa Cuồng Đào
 hantu: 鯊狂濤
 archetype: Đông Hải Tướng Quân
 race: Hải Tộc
+dao_tam: Dĩ Chiến Vi Đạo, Huyết Tẩy Sơn Hà
+aliases:
+  - "Huyết Sát Chiến Thần (血殺戰神"
+  - "Cuồng Sa Đại Tướng (狂鯊大將)"
+origin: Vô Tận Hải — thường xuyên ngoài chiến trường, hiếm khi về Thủy Tinh Cung
+faction_rank: Đông Hải Tướng Quân (東海將軍)
 avatar: ''
 arcs:
   - arc: 1

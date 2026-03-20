@@ -4,6 +4,9 @@ name: Trần Vô Danh
 hantu: 陈无名
 archetype: Đệ Tử
 race: Nhân Tộc
+dao_tam: Vô Danh Nhi Tồn
+origin: Tây Mạc
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

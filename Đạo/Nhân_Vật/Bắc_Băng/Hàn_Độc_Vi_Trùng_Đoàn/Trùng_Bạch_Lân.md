@@ -4,6 +4,8 @@ name: Trùng Bạch Lân
 hantu: 蟲白鱗
 archetype: Trinh Sát Độc
 race: Vi Tộc
+origin: Bắc Băng
+faction_rank: Trinh Sát Độc
 avatar: ''
 arcs:
   - arc: 1

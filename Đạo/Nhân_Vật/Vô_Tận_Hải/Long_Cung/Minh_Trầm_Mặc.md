@@ -4,6 +4,12 @@ name: Minh Trầm Mặc
 hantu: 冥沉默
 archetype: Mưu Sĩ Tây Hải
 race: Long Tộc
+dao_tam: Ngôn bất tại đa, tại vu tinh; mưu bất tại hiển, tại vu thâm
+aliases:
+  - "Mười Câu" (十句)"
+  - "vì hắn nổi tiếng suốt đời chỉ nói đúng mười câu có ý nghĩa"
+origin: Vô Tận Hải
+faction_rank: Mưu Sĩ Tây Hải (西海谋士)
 avatar: ''
 arcs:
   - arc: 1

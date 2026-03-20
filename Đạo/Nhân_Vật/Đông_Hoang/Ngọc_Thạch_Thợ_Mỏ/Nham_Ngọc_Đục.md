@@ -4,6 +4,8 @@ name: Nham Ngọc Đục
 hantu: 岩玉琢
 archetype: Phường Trưởng
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Phường Trưởng
 avatar: ''
 arcs:
   - arc: 1

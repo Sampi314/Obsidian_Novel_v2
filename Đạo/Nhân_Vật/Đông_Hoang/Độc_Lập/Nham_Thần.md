@@ -4,6 +4,7 @@ name: Nham Thần
 hantu: 岩神
 archetype: Thể Tu
 race: Cự Tộc
+dao_tam: Đất Mẹ ôm trọn tất cả, sinh diệt đều từ cát bụi
 avatar: Nham_Thần.png
 arcs:
   - arc: 1

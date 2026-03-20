@@ -4,6 +4,8 @@ name: Mộc Vô Danh
 hantu: 木無名
 archetype: Công Nhân
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Công Nhân
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Triều Bích Hải
 hantu: 潮碧海
 archetype: Chiến Binh
 race: Hải Tộc (Nhân Ngư)
+origin: Vô Tận Hải
+faction_rank: Đội Trưởng Hải Vệ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hỏa Nham Đại Tướng
 hantu: 火岩大將
 archetype: Chiến Tướng
 race: Cự Tộc
+origin: Tây Mạc
+faction_rank: Chiến Tướng
 avatar: ''
 arcs:
   - arc: 1

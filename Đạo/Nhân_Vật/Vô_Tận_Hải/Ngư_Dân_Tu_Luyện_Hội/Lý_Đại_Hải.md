@@ -4,6 +4,8 @@ name: Lý Đại Hải
 hantu: 李大海
 archetype: Lão Ngư Ông
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Hội Trưởng / Lão Ngư Ông
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,13 @@ name: Hồ Ngọc Châu
 hantu: 狐玉珠
 archetype: Thợ Lặn
 race: Yêu Tộc
+dao_tam: Thâm Hải Dưỡng Tộc
+aliases:
+  - "Ngọc Nữ Biển Sâu (深海玉女)"
+  - "Châu Nương (珠娘)"
+origin: Bắc Băng
+age: 89
+faction_rank: Thợ Lặn Ngọc Trai (潜珠手)
 avatar: ''
 arcs:
   - arc: 1

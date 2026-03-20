@@ -4,6 +4,8 @@ name: Nguyệt Ảnh Hồ
 hantu: 月影湖
 archetype: Chân Truyền
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Chân Truyền Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

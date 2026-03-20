@@ -4,6 +4,8 @@ name: Thảo Vân Hương
 hantu: 草雲香
 archetype: Dược Sư Trưởng
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Dược Sư Trưởng
 avatar: ''
 arcs:
   - arc: 1

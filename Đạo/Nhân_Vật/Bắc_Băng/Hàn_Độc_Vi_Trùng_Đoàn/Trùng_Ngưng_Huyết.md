@@ -4,6 +4,13 @@ name: Trùng Ngưng Huyết
 hantu: 蟲凝血
 archetype: Huyết Độc Sư
 race: Vi Tộc
+dao_tam: Máu chảy thì ta theo, máu đông thì ta ngừng
+aliases:
+  - "Huyết Đông" (血冻)"
+  - "khiến kẻ thù chết trong trạng thái máu biến thành băng đỏ sẫm giữa mạch"
+  - "như bị đóng băng từ chính dòng máu của mình"
+origin: Bắc Băng
+faction_rank: Huyết Độc Sư (血毒师)
 avatar: ''
 arcs:
   - arc: 1

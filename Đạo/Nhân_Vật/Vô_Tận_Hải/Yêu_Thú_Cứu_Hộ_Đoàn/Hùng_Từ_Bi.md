@@ -4,6 +4,9 @@ name: Hùng Từ Bi
 hantu: 熊慈悲
 archetype: Đoàn Trưởng
 race: Yêu Tộc (Gấu Yêu)
+aliases:
+  - "Lão Gấu Suối Ấm (老熊温泉)"
+faction_rank: Đoàn Trưởng kiêm sáng lập Yêu Thú Cứu Hộ Đoàn. Người bảo vệ suối ấm linh mạch. Kẻ duy nhất biết chính xác vị trí linh mạch ngầm dưới lòng đất. Cha già của mười lăm đứa con nuôi đủ loài
 avatar: ''
 arcs:
   - arc: 1

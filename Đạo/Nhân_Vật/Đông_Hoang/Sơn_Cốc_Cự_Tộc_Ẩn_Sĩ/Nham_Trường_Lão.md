@@ -4,6 +4,8 @@ name: Nham Trường Lão
 hantu: 岩長老
 archetype: Trưởng Lão
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

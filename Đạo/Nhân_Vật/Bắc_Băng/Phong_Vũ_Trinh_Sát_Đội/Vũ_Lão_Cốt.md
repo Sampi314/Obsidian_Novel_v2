@@ -4,6 +4,9 @@ name: Vũ Lão Cốt
 hantu: 羽老骨
 archetype: Cố Vấn
 race: Vũ Tộc
+dao_tam: Thuận Phong Nhi Hành
+origin: Bắc Băng
+faction_rank: Cố Vấn Khí Tượng
 avatar: ''
 arcs:
   - arc: 1

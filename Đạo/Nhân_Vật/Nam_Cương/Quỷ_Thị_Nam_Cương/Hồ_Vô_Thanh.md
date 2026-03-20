@@ -4,6 +4,8 @@ name: Hồ Vô Thanh
 hantu: 胡無聲
 archetype: Tổng Quản
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Tổng Quản
 avatar: ''
 arcs:
   - arc: 1

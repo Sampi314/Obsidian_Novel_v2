@@ -4,6 +4,8 @@ name: Hồ Bạch Sương Hàn
 hantu: 狐白霜寒
 archetype: Trinh Sát
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,13 @@ name: Kim Cương
 hantu: 金刚
 archetype: Hộ Pháp
 race: Nhân Tộc
+dao_tam: Ngô Thân Tức Thành
+aliases:
+  - "Thiết Tháp (鐵塔 — "Tháp Sắt")"
+  - "Nhất Chùy Hộ Pháp (一锤护法"
+origin: Tây Mạc — Kim Sa Nguyên
+age: 195
+faction_rank: Hộ Pháp (护法) của Kim Sa Tự
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Huyết Giáp
 hantu: 血甲
 archetype: Giáp Chiến Sĩ
 race: Trùng Tộc
+origin: Nam Cương
+faction_rank: Giáp Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

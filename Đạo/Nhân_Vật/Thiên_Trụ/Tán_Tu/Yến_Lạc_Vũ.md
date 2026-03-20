@@ -4,6 +4,8 @@ name: Yến Lạc Vũ
 hantu: 燕落羽
 archetype: Lữ Khách
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Lữ Khách
 avatar: ''
 arcs:
   - arc: 1

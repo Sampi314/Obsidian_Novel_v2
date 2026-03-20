@@ -4,6 +4,8 @@ name: Long Hôi Vĩ
 hantu: 龙灰尾
 archetype: Trưởng Lão
 race: Long Tộc (Tạp Huyết)
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

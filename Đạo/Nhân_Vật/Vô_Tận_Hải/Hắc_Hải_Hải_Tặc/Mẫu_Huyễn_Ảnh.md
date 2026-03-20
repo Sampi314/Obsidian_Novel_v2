@@ -4,6 +4,8 @@ name: Mẫu Huyễn Ảnh
 hantu: 母幻影
 archetype: Đệ Lục Hải Tặc Vương
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Lục Hải Tặc Vương
 avatar: ''
 arcs:
   - arc: 1

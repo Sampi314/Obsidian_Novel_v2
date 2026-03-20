@@ -4,6 +4,8 @@ name: Thủy Linh Nhi
 hantu: 水灵儿
 archetype: Nội Môn
 race: Hải Yêu
+origin: Bắc Băng
+faction_rank: Nội Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

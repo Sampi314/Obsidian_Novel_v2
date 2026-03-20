@@ -4,6 +4,8 @@ name: Ma Chủ Vô Tên
 hantu: 魔主無名
 archetype: Ma Chủ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Ma Chủ
 avatar: ''
 arcs:
   - arc: 1

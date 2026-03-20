@@ -4,6 +4,8 @@ name: Yến Phi Vân
 hantu: 燕飛雲
 archetype: Truyền Tin Viên
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Truyền Tin Viên
 avatar: ''
 arcs:
   - arc: 1

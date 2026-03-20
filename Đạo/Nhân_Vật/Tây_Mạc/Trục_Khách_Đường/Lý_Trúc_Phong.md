@@ -4,6 +4,9 @@ name: Lý Trúc Phong
 hantu: 李逐风
 archetype: Đệ Tử
 race: Nhân Tộc
+dao_tam: Trục Phong Bất Hồi
+origin: Tây Mạc
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

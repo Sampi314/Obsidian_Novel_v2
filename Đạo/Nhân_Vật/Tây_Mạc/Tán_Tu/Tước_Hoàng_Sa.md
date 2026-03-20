@@ -4,6 +4,8 @@ name: Tước Hoàng Sa
 hantu: 雀荒沙
 archetype: Nông Dân
 race: Vũ Tộc
+origin: Tây Mạc
+faction_rank: Nông Dân
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nấm Nguyệt Quang
 hantu: 菌月光
 archetype: Dạ Quang Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Dạ Quang Sư
 avatar: ''
 arcs:
   - arc: 1

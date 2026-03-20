@@ -4,6 +4,8 @@ name: Trần Thạch Nham
 hantu: 陳石岩
 archetype: Khai Khoáng Sư
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Khai Khoáng Sư
 avatar: ''
 arcs:
   - arc: 1

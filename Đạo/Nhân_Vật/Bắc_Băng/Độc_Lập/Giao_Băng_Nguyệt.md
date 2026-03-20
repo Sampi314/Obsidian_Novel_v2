@@ -4,6 +4,13 @@ name: Giao Băng Nguyệt
 hantu: 鲛冰月
 archetype: Ẩn Sĩ
 race: Hải Tộc
+lingan: Thủy Linh Căn thiên phú (biến dị thành Hàn Thủy song thuộc tính sau khi sống ở Bắc Băng hơn trăm năm)
+dao_tam: Nước mắt hóa châu, nhưng không phải viên châu nào cũng đáng rơi
+aliases:
+  - "Nguyệt Trầm Hàn" (月沉寒)"
+origin: Bắc Băng
+age: 180
+faction_rank: Ẩn sĩ — một Giao Nhân lưu vong tự nguyện
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Loa Hải Thanh Âm
 hantu: 螺海聲音
 archetype: Báo Động Sư
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Báo Động Sư
 avatar: ''
 arcs:
   - arc: 1

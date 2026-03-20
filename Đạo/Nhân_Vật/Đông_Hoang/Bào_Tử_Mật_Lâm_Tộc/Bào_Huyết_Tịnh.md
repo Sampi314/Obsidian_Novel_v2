@@ -4,6 +4,9 @@ name: Bào Huyết Tịnh
 hantu: 孢血淨
 archetype: Chuyên Gia Huyết Độc
 race: Vi Tộc
+dao_tam: Tri Độc Tắc Giải Độc
+origin: Đông Hoang
+faction_rank: Chuyên Gia Huyết Độc
 avatar: ''
 arcs:
   - arc: 1

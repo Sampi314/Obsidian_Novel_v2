@@ -4,6 +4,8 @@ name: Nguyễn Tiểu Phong
 hantu: 阮小锋
 archetype: Tân Nhân
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Tân Nhân
 avatar: ''
 arcs:
   - arc: 1

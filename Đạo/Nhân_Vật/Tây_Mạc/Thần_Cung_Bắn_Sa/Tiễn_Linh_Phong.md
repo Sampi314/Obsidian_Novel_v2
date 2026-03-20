@@ -4,6 +4,8 @@ name: Tiễn Linh Phong
 hantu: 箭灵风
 archetype: Trưởng Lão Chấp Sự Tình Báo
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Trưởng Lão Chấp Sự Tình Báo (Truy Phong Đội)
 avatar: ''
 arcs:
   - arc: 1

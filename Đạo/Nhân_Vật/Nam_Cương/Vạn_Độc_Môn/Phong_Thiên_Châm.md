@@ -4,6 +4,8 @@ name: Phong Thiên Châm
 hantu: 蜂千針
 archetype: Thích Khách
 race: Trùng Tộc
+origin: Nam Cương
+faction_rank: Thích Khách
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,17 @@ name: Trần Hắc Tâm
 hantu: 陈黑心
 archetype: Cai Ngục
 race: Nhân Tộc
+lingan: Thủy Hệ Trung Phẩm Linh Căn (水系中品灵根)
+dao_tam: Sinh Tồn Vi Thượng
+aliases:
+  - "Hắc Tâm" (黑心) — gọi vắn tắt"
+  - "Chó Săn Của Tham Quan" (贪官之犬)"
+  - "Tiểu Hắc" (小黑)"
+  - "giọng điệu vừa thân mật vừa kẻ cả"
+  - "Cai Ngục Mặt Chuột" (鼠面狱卒)"
+origin: Bắc Băng
+age: 120
+faction_rank: Cai Ngục Trưởng Tầng Một (一层狱卒长)
 avatar: ''
 arcs:
   - arc: 1

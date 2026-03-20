@@ -4,6 +4,8 @@ name: Hoàng Tiểu Dược
 hantu: 黃小藥
 archetype: Dược Đồ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Dược Đồ
 avatar: ''
 arcs:
   - arc: 1

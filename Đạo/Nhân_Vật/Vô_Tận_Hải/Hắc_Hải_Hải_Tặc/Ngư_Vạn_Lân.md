@@ -4,6 +4,8 @@ name: Ngư Vạn Lân
 hantu: 魚萬鱗
 archetype: Hậu Cần
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Hậu Cần
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,14 @@ name: Hồ Nguyệt Nhi
 hantu: 狐月兒
 archetype: Tộc Trưởng
 race: Yêu Tộc
+dao_tam: "Lừa dối không xấu — chỉ xấu khi bị bắt. Nhưng quan trọng hơn: đừng bao giờ lừa dối chính mình"
+aliases:
+  - "Nguyệt Nương" (月娘)"
+  - "Ngũ Vĩ Lão Hồ" (五尾老狐)"
+  - "ám chỉ cấp bậc năm đuôi của bà"
+origin: Tây Mạc — rải rác trên toàn tuyến Thiên Sa Thương Đạo
+age: 347
+faction_rank: Tộc Trưởng (族長) — lãnh đạo tối cao
 avatar: ''
 arcs:
   - arc: 1

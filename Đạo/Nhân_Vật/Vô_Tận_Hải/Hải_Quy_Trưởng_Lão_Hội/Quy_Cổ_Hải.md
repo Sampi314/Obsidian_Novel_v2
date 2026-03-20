@@ -4,6 +4,8 @@ name: Quy Cổ Hải
 hantu: 龜古海
 archetype: Trưởng Lão
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

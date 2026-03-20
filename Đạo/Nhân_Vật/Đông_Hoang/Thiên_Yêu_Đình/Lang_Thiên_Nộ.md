@@ -4,6 +4,8 @@ name: Lang Thiên Nộ
 hantu: 狼天怒
 archetype: Thương Lang Bộ Lạc Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thương Lang Bộ Lạc Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Ngư Tiểu Bạch
 hantu: 魚小白
 archetype: Ca Sĩ Tập Sự
 race: Hải Tộc
+origin: Tây Mạc (Thực tế thuộc Vô Tận Hải)
+faction_rank: Ca Sĩ Tập Sự
 avatar: ''
 arcs:
   - arc: 1

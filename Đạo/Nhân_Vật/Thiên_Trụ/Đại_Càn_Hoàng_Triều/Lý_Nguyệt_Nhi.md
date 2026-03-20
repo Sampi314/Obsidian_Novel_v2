@@ -4,6 +4,8 @@ name: Lý Nguyệt Nhi
 hantu: 李月兒
 archetype: Công Chúa
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Công Chúa
 avatar: ''
 arcs:
   - arc: 1

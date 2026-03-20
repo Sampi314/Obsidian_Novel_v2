@@ -4,6 +4,8 @@ name: Phạm Thiết Thành
 hantu: 范鐵城
 archetype: Tướng Quân Kiếm Trận
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Tướng Quân Kiếm Trận
 avatar: ''
 arcs:
   - arc: 1

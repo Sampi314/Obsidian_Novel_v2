@@ -4,6 +4,8 @@ name: Linh Trầm Uyên
 hantu: 靈沉淵
 archetype: Thu Thập Viên
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Thu Thập Viên
 avatar: ''
 arcs:
   - arc: 1

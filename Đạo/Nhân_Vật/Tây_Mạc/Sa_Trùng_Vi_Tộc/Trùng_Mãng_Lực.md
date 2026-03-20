@@ -4,6 +4,9 @@ name: Trùng Mãng Lực
 hantu: 蟲猛力
 archetype: Đội Trưởng Vận Tải
 race: Vi Tộc
+dao_tam: Phụ Trọng Tiền Hành
+origin: Tây Mạc
+faction_rank: Đội Trưởng Vận Tải
 avatar: ''
 arcs:
   - arc: 1

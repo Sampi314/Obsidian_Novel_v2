@@ -4,6 +4,16 @@ name: Huyết Đồ Tàn Phong
 hantu: 血屠残风
 archetype: Tù Trưởng
 race: Yêu Tộc
+dao_tam: Cường Giả Vi Vương
+aliases:
+  - "Tàn Phong" (残风) — gọi vắn tắt"
+  - "Cuồng Thú" (狂兽)"
+  - "Huyết Ma" (血魔)"
+  - "Gió Đẫm Máu" (血风)"
+  - "Sát Thú Tầng Hai" (二层杀兽)"
+origin: Bắc Băng
+age: 480
+faction_rank: Thủ Lĩnh Tầng Hai (二层首领)
 avatar: ''
 arcs:
   - arc: 1

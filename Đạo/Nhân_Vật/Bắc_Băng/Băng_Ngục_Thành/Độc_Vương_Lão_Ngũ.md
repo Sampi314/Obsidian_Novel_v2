@@ -4,6 +4,16 @@ name: Độc Vương Lão Ngũ
 hantu: 毒王老五
 archetype: Tù Trưởng
 race: Nhân Tộc
+lingan: Mộc Hệ Thượng Phẩm Linh Căn (木系上品灵根)
+dao_tam: Vạn Vật Giai Độc
+aliases:
+  - "Độc Vương" (毒王) — danh hiệu tự phong"
+  - "nhưng không ai dám phản bác vì mọi kẻ từng phản bác đều đang nằm dưới đất"
+  - "Trùng Phụ" (虫父)"
+  - "Ngũ Độc Lão Quỷ" (五毒老鬼)"
+origin: Bắc Băng
+age: 380
+faction_rank: Thủ Lĩnh Tầng Một (一层首领) — tầng cao nhất
 avatar: ''
 arcs:
   - arc: 1

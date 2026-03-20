@@ -4,6 +4,8 @@ name: Hoa Vũ
 hantu: 花雨
 archetype: Cung Thủ Tinh Nhuệ
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Cung Thủ Tinh Nhuệ
 avatar: ''
 arcs:
   - arc: 1

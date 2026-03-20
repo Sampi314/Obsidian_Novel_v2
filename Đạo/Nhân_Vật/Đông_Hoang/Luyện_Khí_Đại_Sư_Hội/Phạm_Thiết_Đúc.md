@@ -4,6 +4,8 @@ name: Phạm Thiết Đúc
 hantu: 范鐵鑄
 archetype: Trưởng Lão Cơ Giới Viện
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Cơ Giới Viện
 avatar: ''
 arcs:
   - arc: 1

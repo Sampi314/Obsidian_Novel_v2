@@ -4,6 +4,13 @@ name: Lý Hải Đào
 hantu: 李海涛
 archetype: Dược Sư
 race: Nhân Tộc
+aliases:
+  - "Hải Y Tiên Sinh (海医先生) — đệ tử gọi "Đào Sư"
+  - "bệnh nhân gọi "Lão Cằn Nhằn"
+  - "Thanh Lãng gọi "Anh Họ Khó Tính"
+origin: Vô Tận Hải
+age: 210
+faction_rank: Dược Sư Trưởng Lưu Thủy Viện — phụ trách toàn bộ y dược
 avatar: ''
 arcs:
   - arc: 1

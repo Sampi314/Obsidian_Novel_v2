@@ -4,6 +4,8 @@ name: Trần Vô Danh
 hantu: 塵無名
 archetype: Ẩn Sĩ
 race: Vi Tộc
+origin: Thiên Trụ
+faction_rank: Ẩn Sĩ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hà Minh Phong
 hantu: 何明風
 archetype: Đệ Nhị Huyết Tướng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Nhị Huyết Tướng
 avatar: ''
 arcs:
   - arc: 1

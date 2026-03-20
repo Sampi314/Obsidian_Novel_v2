@@ -4,6 +4,15 @@ name: Thiết Lân
 hantu: 鐵鱗
 archetype: Tây Phương Thủy Tướng
 race: Long Tộc
+dao_tam: Hoạt hạ lai, tài hữu hạ nhất bộ
+aliases:
+  - "Lão Cáo Biển" (老海狐)"
+  - "không bao giờ để lộ ý đồ thật"
+  - "đánh không thủng"
+  - "chém không xước"
+  - "như tấm khiên di động"
+origin: Vô Tận Hải — Tây Hải Phân Cung, đặc biệt kiểm soát Mê Cung Hải Lưu
+faction_rank: Tây Phương Thủy Tướng (西方水将) — chỉ huy quân sự Tây Hải
 avatar: ''
 arcs:
   - arc: 1

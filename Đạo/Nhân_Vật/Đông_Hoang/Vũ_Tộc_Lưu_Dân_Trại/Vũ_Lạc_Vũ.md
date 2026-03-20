@@ -4,6 +4,8 @@ name: Vũ Lạc Vũ
 hantu: 羽落羽
 archetype: Trại Chủ
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Trại Chủ
 avatar: ''
 arcs:
   - arc: 1

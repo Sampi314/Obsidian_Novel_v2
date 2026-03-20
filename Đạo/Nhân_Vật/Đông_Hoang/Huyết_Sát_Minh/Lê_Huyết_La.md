@@ -4,6 +4,8 @@ name: Lê Huyết La
 hantu: 黎血羅
 archetype: Đường Chủ Sát Thủ Đường
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đường Chủ Sát Thủ Đường
 avatar: ''
 arcs:
   - arc: 1

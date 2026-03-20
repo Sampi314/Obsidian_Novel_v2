@@ -4,6 +4,8 @@ name: Hàn Phong
 hantu: 韓鋒
 archetype: Nhất Sát
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Nhất Sát
 avatar: ''
 arcs:
   - arc: 1

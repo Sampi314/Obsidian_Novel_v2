@@ -4,6 +4,8 @@ name: Nguyễn Trấn Quan
 hantu: 阮鎮關
 archetype: Uy Trưởng Cửa Ải
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Uy Trưởng Cửa Ải
 avatar: ''
 arcs:
   - arc: 1

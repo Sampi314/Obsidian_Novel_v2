@@ -4,6 +4,13 @@ name: Bằng Sa Thiên
 hantu: 鵬沙天
 archetype: Đoàn Trưởng
 race: Vũ Tộc
+dao_tam: Thiên Phong Hộ Dực
+aliases:
+  - "Sa Hoàng Đại Bằng (沙皇大鵬"
+  - "Thiên Phong Chi Chủ (天風之主"
+origin: Tây Mạc
+age: 487
+faction_rank: Đoàn Trưởng (團長) của Sa Ưng Đoàn
 avatar: ''
 arcs:
   - arc: 1

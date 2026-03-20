@@ -4,6 +4,8 @@ name: Mạc Dược Nương
 hantu: 莫藥娘
 archetype: Thầy Thuốc
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Thầy Thuốc
 avatar: ''
 arcs:
   - arc: 1

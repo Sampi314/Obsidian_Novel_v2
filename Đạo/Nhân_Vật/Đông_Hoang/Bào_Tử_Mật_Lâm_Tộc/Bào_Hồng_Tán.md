@@ -4,6 +4,9 @@ name: Bào Hồng Tán
 hantu: 孢紅傘
 archetype: Tộc Trưởng
 race: Vi Tộc
+dao_tam: Lâm Tức Ngã, Ngã Tức Lâm
+origin: Đông Hoang
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

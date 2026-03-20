@@ -4,6 +4,8 @@ name: Nấm Độc Vương
 hantu: 菌毒王
 archetype: Hộ Pháp
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

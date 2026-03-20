@@ -4,6 +4,8 @@ name: Hồ Diễm Nương
 hantu: 狐艷娘
 archetype: Tửu Lâu Chủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Tửu Lâu Chủ
 avatar: ''
 arcs:
   - arc: 1

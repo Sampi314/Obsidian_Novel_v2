@@ -4,6 +4,8 @@ name: Xà Độc Nha
 hantu: 蛇毒牙
 archetype: Trưởng Lão
 race: Yêu Tộc (Xà)
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

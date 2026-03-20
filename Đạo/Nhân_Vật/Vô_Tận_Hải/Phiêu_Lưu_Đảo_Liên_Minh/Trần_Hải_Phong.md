@@ -4,6 +4,8 @@ name: Trần Hải Phong
 hantu: 陈海风
 archetype: Tổng Đảo Chủ
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Tổng Đảo Chủ
 avatar: ''
 arcs:
   - arc: 1

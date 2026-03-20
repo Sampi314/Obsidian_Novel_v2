@@ -4,6 +4,8 @@ name: Khuẩn Hải Nguyệt
 hantu: 菌海月
 archetype: Dạ Tuần Viên
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Dạ Tuần Viên
 avatar: ''
 arcs:
   - arc: 1

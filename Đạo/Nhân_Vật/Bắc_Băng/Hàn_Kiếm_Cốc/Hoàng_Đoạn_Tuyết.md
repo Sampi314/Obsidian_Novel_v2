@@ -4,6 +4,8 @@ name: Hoàng Đoạn Tuyết
 hantu: 黄断雪
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Trưởng Lão Tiếp Tế Viện
 avatar: ''
 arcs:
   - arc: 1

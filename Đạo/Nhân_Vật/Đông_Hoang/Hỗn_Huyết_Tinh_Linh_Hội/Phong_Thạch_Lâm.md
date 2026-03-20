@@ -4,6 +4,8 @@ name: Phong Thạch Lâm
 hantu: 風石林
 archetype: Thợ Xây
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thợ Xây
 avatar: ''
 arcs:
   - arc: 1

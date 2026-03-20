@@ -4,6 +4,8 @@ name: Lý Vô Nhai
 hantu: 李無崖
 archetype: Phương Trượng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phương Trượng
 avatar: ''
 arcs:
   - arc: 1

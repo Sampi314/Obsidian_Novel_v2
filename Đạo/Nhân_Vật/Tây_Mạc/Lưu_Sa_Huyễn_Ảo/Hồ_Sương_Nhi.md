@@ -4,6 +4,12 @@ name: Hồ Sương Nhi
 hantu: 狐霜儿
 archetype: Linh Hồ Trinh Sát
 race: Yêu Tộc (Hồ Ly)
+aliases:
+  - "Chưa có — tu vi thấp"
+  - "tuổi trẻ"
+  - "chưa đủ thành tích. Trong Sa Hồ Đội"
+origin: Tây Mạc — Vùng Lưu Sa Di Động
+faction_rank: Linh Hồ Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

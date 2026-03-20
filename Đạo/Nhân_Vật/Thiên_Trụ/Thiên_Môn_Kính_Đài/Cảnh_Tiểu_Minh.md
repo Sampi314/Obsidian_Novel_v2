@@ -4,6 +4,9 @@ name: Cảnh Tiểu Minh
 hantu: 景小明
 archetype: Chấp Pháp Trưởng Sứ
 race: Nhân Tộc
+dao_tam: Minh Kính Chiếu Tà
+origin: Thiên Trụ
+faction_rank: Chấp Pháp Trưởng Sứ
 avatar: ''
 arcs:
   - arc: 1

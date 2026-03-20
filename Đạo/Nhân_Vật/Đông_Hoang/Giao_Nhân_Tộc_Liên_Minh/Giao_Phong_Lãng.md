@@ -4,6 +4,8 @@ name: Giao Phong Lãng
 hantu: 鲛風浪
 archetype: Chiến Sĩ
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

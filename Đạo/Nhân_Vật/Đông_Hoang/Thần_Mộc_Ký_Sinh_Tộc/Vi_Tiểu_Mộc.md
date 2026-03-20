@@ -4,6 +4,8 @@ name: Vi Tiểu Mộc
 hantu: 微小木
 archetype: Tộc Dân
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Tộc Dân
 avatar: ''
 arcs:
   - arc: 1

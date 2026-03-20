@@ -4,6 +4,8 @@ name: Viên Kim Phong
 hantu: 猿金風
 archetype: Viên Tộc Chiến Sĩ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Viên Tộc Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,11 @@ name: Hồ Mộng Điệp
 hantu: 狐梦蝶
 archetype: Đội Trưởng Sa Hồ
 race: Yêu Tộc (Hồ Ly)
+aliases:
+  - "Sa Mạc Hồ Điệp (沙漠狐蝶)"
+  - "cách các thương nhân qua sa mạc gọi khi kể về nàng"
+origin: Tây Mạc — Vùng Lưu Sa Di Động
+faction_rank: Đội Trưởng Sa Hồ
 avatar: ''
 arcs:
   - arc: 1

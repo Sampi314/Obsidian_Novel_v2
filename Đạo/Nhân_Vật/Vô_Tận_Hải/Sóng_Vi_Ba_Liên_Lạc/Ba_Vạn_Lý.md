@@ -4,6 +4,12 @@ name: Ba Vạn Lý
 hantu: 波萬里
 archetype: Liên Lạc Trưởng
 race: Vi Tộc
+dao_tam: Ta là sóng, sóng là đại dương, đại dương không thuộc về ai
+aliases:
+  - "Vạn Lý Sóng" (萬里波)"
+  - "một kỳ tích mà ngay cả Ba Mẫu cũng hiếm khi làm được ở tốc độ tương đương"
+origin: Vô Tận Hải
+faction_rank: Liên Lạc Trưởng (联络长)
 avatar: ''
 arcs:
   - arc: 1

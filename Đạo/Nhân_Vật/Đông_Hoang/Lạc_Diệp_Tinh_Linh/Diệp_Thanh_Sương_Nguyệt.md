@@ -4,6 +4,8 @@ name: Diệp Thanh Sương Nguyệt
 hantu: 叶青霜月
 archetype: Trinh Sát
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Báo Lôi Ảnh
 hantu: 豹雷影
 archetype: Thánh Tướng Thứ Ba
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thánh Tướng Thứ Ba
 avatar: ''
 arcs:
   - arc: 1

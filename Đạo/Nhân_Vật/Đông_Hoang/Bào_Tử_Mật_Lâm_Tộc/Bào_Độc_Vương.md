@@ -4,6 +4,9 @@ name: Bào Độc Vương
 hantu: 孢毒王
 archetype: Hộ Pháp
 race: Vi Tộc
+dao_tam: Độc Tuyệt Giả Bất Khả Xâm
+origin: Đông Hoang
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

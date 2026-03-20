@@ -4,6 +4,8 @@ name: Thiết Ấu
 hantu: 铁幼
 archetype: Ấu Trùng Đặc Biệt
 race: Yêu Tộc (Trùng)
+origin: Tây Mạc
+faction_rank: Ấu Trùng Đặc Biệt
 avatar: ''
 arcs:
   - arc: 1

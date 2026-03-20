@@ -4,6 +4,8 @@ name: Giao Lam Thiên
 hantu: 鲛蓝天
 archetype: Canh Gác
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Canh Gác
 avatar: ''
 arcs:
   - arc: 1

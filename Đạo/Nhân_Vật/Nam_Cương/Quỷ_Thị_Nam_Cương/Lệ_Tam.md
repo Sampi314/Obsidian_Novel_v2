@@ -4,6 +4,8 @@ name: Lệ Tam
 hantu: 厲三
 archetype: Đấu Giá Sư
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đấu Giá Sư
 avatar: ''
 arcs:
   - arc: 1

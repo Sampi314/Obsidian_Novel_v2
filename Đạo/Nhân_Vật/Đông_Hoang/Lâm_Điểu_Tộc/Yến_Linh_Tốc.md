@@ -4,6 +4,8 @@ name: Yến Linh Tốc
 hantu: 燕靈速
 archetype: Trinh Sát Đội Trưởng
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

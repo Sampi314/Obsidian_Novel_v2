@@ -4,6 +4,8 @@ name: San Bích Quang
 hantu: 珊碧光
 archetype: Thái Tử
 race: Hải Tộc
+origin: Tây Mạc (Thực tế thuộc Vô Tận Hải)
+faction_rank: Thái Tử
 avatar: ''
 arcs:
   - arc: 1

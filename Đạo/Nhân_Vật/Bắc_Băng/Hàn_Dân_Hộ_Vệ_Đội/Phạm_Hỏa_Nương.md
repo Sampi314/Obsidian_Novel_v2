@@ -4,6 +4,15 @@ name: Phạm Hỏa Nương
 hantu: 范火娘
 archetype: Y Sư
 race: Nhân Tộc
+dao_tam: Dĩ Hỏa Tồn Nhân
+aliases:
+  - "Hỏa Bà Bà (火婆婆)"
+  - "Ngọn Lửa Tuyết Sơn (雪山之火)"
+  - "Phạm Thị Ấm (范氏暖) — tên do cha đặt"
+  - "nghĩa là "ấm áp"
+  - "bà bỏ dùng từ khi cha mất và tự xưng Hỏa Nương"
+age: 52
+faction_rank: Y Sư Dân Quân (民军医师) của Hàn Dân Hộ Vệ Đội (寒民护卫队)
 avatar: ''
 arcs:
   - arc: 1

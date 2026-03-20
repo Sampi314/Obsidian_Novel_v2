@@ -4,6 +4,8 @@ name: Lý Thiết Trụ
 hantu: 李鐵柱
 archetype: Đoàn Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

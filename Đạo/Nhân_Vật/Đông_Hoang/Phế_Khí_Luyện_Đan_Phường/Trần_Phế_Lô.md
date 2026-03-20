@@ -4,6 +4,8 @@ name: Trần Phế Lô
 hantu: 陳廢爐
 archetype: Đan Sư
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đan Sư
 avatar: ''
 arcs:
   - arc: 1

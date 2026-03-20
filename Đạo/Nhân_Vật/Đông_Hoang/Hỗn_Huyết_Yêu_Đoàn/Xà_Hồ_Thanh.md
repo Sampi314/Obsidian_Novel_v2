@@ -4,6 +4,8 @@ name: Xà Hồ Thanh
 hantu: 蛇狐青
 archetype: Dược Sư
 race: Bán Yêu
+origin: Đông Hoang
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Mẫu Phong Ba Hải
 hantu: 母風波海
 archetype: Canh Gác
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Canh Gác
 avatar: ''
 arcs:
   - arc: 1

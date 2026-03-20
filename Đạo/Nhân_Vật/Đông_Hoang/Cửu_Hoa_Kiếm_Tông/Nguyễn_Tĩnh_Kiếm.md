@@ -4,6 +4,8 @@ name: Nguyễn Tĩnh Kiếm
 hantu: 阮靜劍
 archetype: Trưởng Lão Thiên Hoa Phong
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Thiên Hoa Phong
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,11 @@ name: Vạn Kiếp
 hantu: 萬劫
 archetype: Thái Thượng Trưởng Lão
 race: Long Tộc
+dao_tam: Vạn kiếp bất diệt, phi vị trường sinh, nhi vị thủ hộ
+aliases:
+  - "Bất Tử Lão Long" (不死老龙)"
+origin: Vô Tận Hải — Thủy Tinh Long Cung, tầng sâu nhất, Cấm Khu Trưởng Lão Đường
+faction_rank: Thái Thượng Trưởng Lão (太上长老)
 avatar: ''
 arcs:
   - arc: 1

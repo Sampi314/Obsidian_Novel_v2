@@ -4,6 +4,13 @@ name: Sa Cổ Vương
 hantu: 沙古王
 archetype: Tộc Trưởng
 race: Yêu Tộc
+dao_tam: Canh giữ là sống, quên lãng là chết. Ta không bảo vệ tộc — ta bảo vệ thứ tộc đang giữ
+aliases:
+  - "Vương Cát Câm" (王沙喑)"
+  - "vì y đã không nói một lời nào với thế giới bên ngoài suốt hơn ba ngàn năm"
+  - "Cổ Sa" (古沙)"
+origin: Tây Mạc — Hoàng Kim Sa Hải, sâu trong hệ thống hang cổ đại
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

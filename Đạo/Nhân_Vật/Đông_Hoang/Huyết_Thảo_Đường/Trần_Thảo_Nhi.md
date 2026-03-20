@@ -4,6 +4,8 @@ name: Trần Thảo Nhi
 hantu: 陳草兒
 archetype: Học Đồ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Học Đồ
 avatar: ''
 arcs:
   - arc: 1

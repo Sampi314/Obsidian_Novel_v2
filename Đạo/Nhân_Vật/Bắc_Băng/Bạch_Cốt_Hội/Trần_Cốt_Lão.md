@@ -4,6 +4,13 @@ name: Trần Cốt Lão
 hantu: 陈骨老
 archetype: Đội Trưởng
 race: Nhân Tộc
+lingan: Thổ đơn linh căn
+dao_tam: Đất không phụ kẻ chịu đào
+aliases:
+  - "Lão Cuốc" (老镐)"
+origin: Bắc Băng — bờ biển phía Tây Bắc Hải
+age: 108
+faction_rank: Đội Trưởng Thu Nhặt (收拾队长)
 avatar: ''
 arcs:
   - arc: 1

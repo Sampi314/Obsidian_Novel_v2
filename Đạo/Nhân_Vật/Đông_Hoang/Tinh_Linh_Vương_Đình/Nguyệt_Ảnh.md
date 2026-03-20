@@ -4,6 +4,8 @@ name: Nguyệt Ảnh
 hantu: 月影
 archetype: Ám Vệ Thống Lĩnh
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Ám Vệ Thống Lĩnh
 avatar: ''
 arcs:
   - arc: 1

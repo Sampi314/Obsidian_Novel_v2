@@ -4,6 +4,8 @@ name: Hạc Mộng
 hantu: 鶴夢
 archetype: Y Sư
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Y Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trần Bạch Lang
 hantu: 陳白狼
 archetype: Hội Trưởng (Đại Lang)
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hội Trưởng (Đại Lang)
 avatar: ''
 arcs:
   - arc: 1

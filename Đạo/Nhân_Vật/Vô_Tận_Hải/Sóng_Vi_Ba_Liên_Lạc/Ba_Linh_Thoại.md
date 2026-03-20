@@ -4,6 +4,8 @@ name: Ba Linh Thoại
 hantu: 波靈話
 archetype: Phiên Dịch Sư
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Phiên Dịch Sư
 avatar: ''
 arcs:
   - arc: 1

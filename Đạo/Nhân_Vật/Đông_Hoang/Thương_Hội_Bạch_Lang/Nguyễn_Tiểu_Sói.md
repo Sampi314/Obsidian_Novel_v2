@@ -4,6 +4,8 @@ name: Nguyễn Tiểu Sói
 hantu: 阮小狼
 archetype: Hộ Vệ Ngoại Vi
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Vệ Ngoại Vi
 avatar: ''
 arcs:
   - arc: 1

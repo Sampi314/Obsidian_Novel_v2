@@ -4,6 +4,8 @@ name: Vu Thiên Hương
 hantu: 巫天香
 archetype: Đại Trưởng Lão Tế Tư
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đại Trưởng Lão Tế Tư
 avatar: ''
 arcs:
   - arc: 1

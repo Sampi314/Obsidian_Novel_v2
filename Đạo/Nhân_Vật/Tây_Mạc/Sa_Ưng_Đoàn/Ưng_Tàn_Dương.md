@@ -4,6 +4,13 @@ name: Ưng Tàn Dương
 hantu: 鷹殘陽
 archetype: Chiến Sĩ Già
 race: Vũ Tộc
+dao_tam: Tàn Dương Chiếu Hậu
+aliases:
+  - "Hoàng Hôn Lão Ưng (黃昏老鷹"
+  - "Sa Mạc Ký Ức (沙漠記憶"
+origin: Tây Mạc
+age: 623
+faction_rank: Chiến Sĩ Già (老戰士)
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lê Vô Hận
 hantu: 黎無恨
 archetype: Đường Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đường Chủ
 avatar: ''
 arcs:
   - arc: 1

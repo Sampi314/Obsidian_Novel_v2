@@ -4,6 +4,8 @@ name: Trùng Băng Châm
 hantu: 蟲冰針
 archetype: Phó Đoàn Trưởng
 race: Vi Tộc
+origin: Bắc Băng
+faction_rank: Phó Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,14 @@ name: Ưng Tuyệt Huyền
 hantu: 鷹絕弦
 archetype: Cung Thủ
 race: Vũ Tộc
+lingan: Song linh căn
+dao_tam: Mỗi mũi tên chỉ có một lần. Giống như mạng người
+aliases:
+  - "Nhất Tiễn" (一箭)"
+  - "một mạng"
+origin: Thiên Trụ — Bắc Băng
+age: 63
+faction_rank: Cung Thủ (弓手)
 avatar: ''
 arcs:
   - arc: 1

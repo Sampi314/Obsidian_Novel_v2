@@ -4,6 +4,8 @@ name: Khuẩn Bạch Cốt
 hantu: 菌白骨
 archetype: Xử Lý Sư Trưởng
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Xử Lý Sư Trưởng
 avatar: ''
 arcs:
   - arc: 1

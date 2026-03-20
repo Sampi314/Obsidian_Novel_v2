@@ -4,6 +4,8 @@ name: Trần Quang Minh
 hantu: 陈光明
 archetype: Trợ Giảng
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Quan Trắc Viên
 avatar: ''
 arcs:
   - arc: 1

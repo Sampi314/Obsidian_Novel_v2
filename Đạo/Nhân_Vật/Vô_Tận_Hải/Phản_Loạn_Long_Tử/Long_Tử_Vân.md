@@ -4,6 +4,8 @@ name: Long Tử Vân
 hantu: 龙紫云
 archetype: Phó Thủ Lĩnh
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Phó Thủ Lĩnh
 avatar: ''
 arcs:
   - arc: 1

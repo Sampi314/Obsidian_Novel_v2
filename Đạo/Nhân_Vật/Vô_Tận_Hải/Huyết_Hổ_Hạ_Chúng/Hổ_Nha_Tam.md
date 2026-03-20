@@ -4,6 +4,8 @@ name: Hổ Nha Tam
 hantu: 虎牙三
 archetype: Quản Sự
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Quản Sự
 avatar: ''
 arcs:
   - arc: 1

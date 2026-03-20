@@ -4,6 +4,9 @@ name: Hắc Nha
 hantu: 黑牙
 archetype: Ma Binh
 race: Hải Tộc (Biến Dị)
+dao_tam: Cường Giả Vi Tôn
+origin: Vô Tận Hải
+faction_rank: Phó Thống Lĩnh
 avatar: ''
 arcs:
   - arc: 1

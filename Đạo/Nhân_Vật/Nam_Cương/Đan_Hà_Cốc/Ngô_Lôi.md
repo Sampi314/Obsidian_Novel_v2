@@ -4,6 +4,8 @@ name: Ngô Lôi
 hantu: 吳雷
 archetype: Đệ Nhị Hộ Pháp
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Nhị Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

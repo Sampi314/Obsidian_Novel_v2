@@ -4,6 +4,8 @@ name: Đặng Tiểu La
 hantu: 鄧小羅
 archetype: Sát Thủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Sát Thủ
 avatar: ''
 arcs:
   - arc: 1

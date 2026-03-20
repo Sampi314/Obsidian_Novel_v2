@@ -4,6 +4,8 @@ name: Lý Thiết Kế
 hantu: 李铁计
 archetype: Phó Đội
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Phó Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

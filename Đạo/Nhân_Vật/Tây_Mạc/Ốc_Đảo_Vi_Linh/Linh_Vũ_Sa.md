@@ -4,6 +4,8 @@ name: Linh Vũ Sa
 hantu: 靈雨沙
 archetype: Thủ Vệ Ốc Đảo
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Thủ Vệ Ốc Đảo
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hoàng Kim Cương
 hantu: 黃金剛
 archetype: Hộ Pháp La Hán Đường
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Pháp La Hán Đường
 avatar: ''
 arcs:
   - arc: 1

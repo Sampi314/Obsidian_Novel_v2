@@ -4,6 +4,8 @@ name: Trần Nghĩa Sĩ
 hantu: 陳義士
 archetype: Phó Đoàn Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

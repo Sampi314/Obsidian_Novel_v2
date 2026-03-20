@@ -4,6 +4,13 @@ name: Lang Mộng Tuyết
 hantu: 狼夢雪
 archetype: Saman Tập Sự
 race: Yêu Tộc
+aliases:
+  - "Cô Bé Ngủ Gật" (瞌睡丫头)"
+  - "bất cứ đâu"
+  - "Tiểu Vu" (小巫)"
+origin: Bắc Băng — Lang Vu Viện
+age: 100
+faction_rank: Saman Tập Sự (实习萨满)
 avatar: ''
 arcs:
   - arc: 1

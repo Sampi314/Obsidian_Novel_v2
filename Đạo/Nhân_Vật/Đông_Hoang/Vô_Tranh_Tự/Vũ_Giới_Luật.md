@@ -4,6 +4,8 @@ name: Vũ Giới Luật
 hantu: 武戒律
 archetype: Giới Luật Viện Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Giới Luật Viện Trưởng
 avatar: ''
 arcs:
   - arc: 1

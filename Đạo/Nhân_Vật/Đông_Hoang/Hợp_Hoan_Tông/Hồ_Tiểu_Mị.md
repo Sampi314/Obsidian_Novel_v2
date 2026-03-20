@@ -4,6 +4,8 @@ name: Hồ Tiểu Mị
 hantu: 狐小媚
 archetype: Nội Môn Đệ Tử
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Nội Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

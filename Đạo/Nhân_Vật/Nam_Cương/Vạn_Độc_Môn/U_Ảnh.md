@@ -4,6 +4,8 @@ name: U Ảnh
 hantu: 幽影
 archetype: Nhện Sát Thủ
 race: Trùng Tộc
+origin: Nam Cương
+faction_rank: Nhện Sát Thủ
 avatar: ''
 arcs:
   - arc: 1

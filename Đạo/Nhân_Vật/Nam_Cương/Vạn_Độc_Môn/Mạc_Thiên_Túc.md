@@ -4,6 +4,8 @@ name: Mạc Thiên Túc
 hantu: 莫千足
 archetype: Rết Chi Hộ Pháp
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Rết Chi Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

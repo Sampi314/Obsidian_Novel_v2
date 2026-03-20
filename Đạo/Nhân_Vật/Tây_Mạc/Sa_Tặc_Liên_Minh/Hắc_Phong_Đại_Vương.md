@@ -4,6 +4,8 @@ name: Hắc Phong Đại Vương
 hantu: 黑风大王
 archetype: Minh Chủ
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

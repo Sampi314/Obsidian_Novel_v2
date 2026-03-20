@@ -4,6 +4,9 @@ name: Long Ngọc Hàn
 hantu: 龙玉寒
 archetype: Phó Thủ Lĩnh
 race: Long Tộc
+dao_tam: Hàn Ngọc Bất Toái
+origin: Vô Tận Hải
+faction_rank: Phó Thủ Lĩnh
 avatar: ''
 arcs:
   - arc: 1

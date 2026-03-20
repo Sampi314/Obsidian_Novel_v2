@@ -4,6 +4,8 @@ name: Linh Vực Uyên
 hantu: 靈域淵
 archetype: Thâm Hải Chủ
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Thâm Hải Chủ
 avatar: ''
 arcs:
   - arc: 1

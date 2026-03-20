@@ -4,6 +4,8 @@ name: Trùng Bạch Ti
 hantu: 蟲白絲
 archetype: Tằm Mẫu
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Tằm Mẫu
 avatar: ''
 arcs:
   - arc: 1

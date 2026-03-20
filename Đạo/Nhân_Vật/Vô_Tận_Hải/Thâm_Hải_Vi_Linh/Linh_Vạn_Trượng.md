@@ -4,6 +4,8 @@ name: Linh Vạn Trượng
 hantu: 靈萬丈
 archetype: Thủ Vệ Hải Cấu
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Thủ Vệ Hải Cấu
 avatar: ''
 arcs:
   - arc: 1

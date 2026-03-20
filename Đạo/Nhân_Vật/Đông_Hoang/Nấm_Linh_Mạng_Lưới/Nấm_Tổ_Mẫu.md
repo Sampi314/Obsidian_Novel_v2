@@ -4,6 +4,8 @@ name: Nấm Tổ Mẫu
 hantu: 菌祖母
 archetype: Tổ Nấm
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Tổ Nấm
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nấm Hồng Tán
 hantu: 菌紅傘
 archetype: Cảnh Báo Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Cảnh Báo Sư
 avatar: ''
 arcs:
   - arc: 1

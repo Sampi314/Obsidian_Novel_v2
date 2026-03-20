@@ -4,6 +4,8 @@ name: Phong Liệt
 hantu: 风烈
 archetype: Ngoại Môn Đệ Tử
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Ngoại Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

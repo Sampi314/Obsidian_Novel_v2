@@ -4,6 +4,13 @@ name: Hồ Sa Phong
 hantu: 狐沙風
 archetype: Phó Tộc Trưởng
 race: Yêu Tộc
+dao_tam: Sống là đủ. Mọi thứ khác đều là xa xỉ
+aliases:
+  - "Cát Già" (老沙)"
+  - "Ông Chủ Trầm" (沉掌柜)"
+origin: Tây Mạc — trạm Nam Phong trên Thiên Sa Thương Đạo
+age: 339
+faction_rank: Phó Tộc Trưởng (副族長) — phụ trách hậu cần
 avatar: ''
 arcs:
   - arc: 1

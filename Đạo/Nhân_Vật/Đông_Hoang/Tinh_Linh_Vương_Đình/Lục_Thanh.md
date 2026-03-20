@@ -4,6 +4,8 @@ name: Lục Thanh
 hantu: 綠青
 archetype: Trinh Sát Trưởng
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát Trưởng
 avatar: ''
 arcs:
   - arc: 1

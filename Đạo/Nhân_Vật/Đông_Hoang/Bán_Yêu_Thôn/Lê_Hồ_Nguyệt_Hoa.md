@@ -4,6 +4,13 @@ name: Lê Hồ Nguyệt Hoa
 hantu: 黎狐月花
 archetype: Giáo Viên
 race: Bán Yêu
+aliases:
+  - "Nguyệt Hoa Tiên Tử (月花仙子)"
+  - "vì nàng là người đẹp nhất thôn"
+  - "bên ngoài"
+  - "những ai thoáng thấy nàng gọi là "Hồ Tiên trong sương"
+age: 135
+faction_rank: "Giáo Viên — phụ trách giáo dục trẻ em Bán Yêu: dạy chữ"
 avatar: ''
 arcs:
   - arc: 1

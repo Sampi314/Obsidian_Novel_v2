@@ -4,6 +4,9 @@ name: Xích Viêm
 hantu: 赤炎
 archetype: Nam Hải Long Vương
 race: Long Tộc
+dao_tam: Hỏa Thiêu Vạn Vật, Duy Long Bất Diệt
+origin: Vô Tận Hải
+faction_rank: Nam Hải Long Vương
 avatar: ''
 arcs:
   - arc: 1

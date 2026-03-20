@@ -4,6 +4,7 @@ name: Giao Bạch Phát
 hantu: 鲛白髮
 archetype: Trưởng Lão
 race: Hải Tộc
+faction_rank: Trưởng lão không chính thức của khu ổ chuột Giao Nhân. Không có quyền hành thực sự — chỉ là người già nhất, người duy nhất còn nhớ thời trước cuộc nổi dậy, người duy nhất chứng kiến Giao Lệ Huyết bị chặt đầu tận mắt
 avatar: ''
 arcs:
   - arc: 1

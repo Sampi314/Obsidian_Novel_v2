@@ -4,6 +4,8 @@ name: Lệ Cơ
 hantu: 泪姬
 archetype: Minh Chủ
 race: Hải Tộc (Giao Nhân)
+origin: Vô Tận Hải
+faction_rank: Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

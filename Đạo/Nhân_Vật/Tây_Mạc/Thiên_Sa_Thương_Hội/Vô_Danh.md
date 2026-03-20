@@ -4,6 +4,8 @@ name: Vô Danh
 hantu: 无名
 archetype: Thủ Lĩnh Sa Ảnh
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Thủ Lĩnh Sa Ảnh
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Ngô Thanh
 hantu: 吳青
 archetype: Thương Nhân
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thương Nhân
 avatar: ''
 arcs:
   - arc: 1

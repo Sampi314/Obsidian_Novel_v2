@@ -4,6 +4,8 @@ name: Hổ Xà Lôi Hỏa
 hantu: 虎蛇雷火
 archetype: Phó Đoàn Trưởng
 race: Bán Yêu
+origin: Đông Hoang
+faction_rank: Phó Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

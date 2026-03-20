@@ -4,6 +4,9 @@ name: Lâm Tàn Kiếm
 hantu: 林残剑
 archetype: Giáo Tập
 race: Nhân Tộc
+dao_tam: Tàn Kiếm Bất Phế
+origin: Tây Mạc
+faction_rank: Giáo Tập
 avatar: ''
 arcs:
   - arc: 1

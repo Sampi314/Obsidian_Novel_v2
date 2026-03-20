@@ -4,6 +4,9 @@ name: Hàn Thủy
 hantu: 寒水
 archetype: Đoàn Trưởng
 race: Nhân Tộc
+dao_tam: Thủ Thủy Hộ Sinh
+origin: Tây Mạc
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

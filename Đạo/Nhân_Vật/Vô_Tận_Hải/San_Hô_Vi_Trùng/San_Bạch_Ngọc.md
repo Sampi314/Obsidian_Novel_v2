@@ -4,6 +4,9 @@ name: San Bạch Ngọc
 hantu: 珊白玉
 archetype: Kiến Trúc Sư San Hô
 race: Vi Tộc
+dao_tam: Kiến Trúc Vĩnh Hằng
+origin: Vô Tận Hải
+faction_rank: Kiến Trúc Sư San Hô
 avatar: ''
 arcs:
   - arc: 1

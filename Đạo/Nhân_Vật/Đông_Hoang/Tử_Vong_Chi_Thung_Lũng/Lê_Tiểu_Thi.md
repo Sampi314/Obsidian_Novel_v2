@@ -4,6 +4,8 @@ name: Lê Tiểu Thi
 hantu: 黎小屍
 archetype: Nội Môn Đệ Tử
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Nội Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

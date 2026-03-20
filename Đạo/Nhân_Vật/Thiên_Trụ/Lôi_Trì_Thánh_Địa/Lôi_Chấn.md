@@ -4,6 +4,8 @@ name: Lôi Chấn
 hantu: 雷震
 archetype: Đệ Nhất Hộ Pháp
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Nhất Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

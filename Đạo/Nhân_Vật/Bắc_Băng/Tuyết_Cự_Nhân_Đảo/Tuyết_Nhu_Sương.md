@@ -4,6 +4,12 @@ name: Tuyết Nhu Sương
 hantu: 雪柔霜
 archetype: Tuyết Vu
 race: Cự Tộc
+dao_tam: Dĩ Nhu Hộ Sinh
+aliases:
+  - "Sương Vu Nương (霜巫娘 — "Nàng Vu Sương")"
+  - "Ôn Nhu Cự Nhân (温柔巨人"
+origin: Bắc Băng
+faction_rank: Tuyết Vu Chữa Thương (雪巫医者)
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Sa Thiết Bì Phong
 hantu: 鯊鐵皮風
 archetype: Đội Trưởng Cướp
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đội Trưởng Cướp
 avatar: ''
 arcs:
   - arc: 1

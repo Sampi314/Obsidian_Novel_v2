@@ -4,6 +4,8 @@ name: Phạm Hạo Nhiên
 hantu: 范浩然
 archetype: Thái Thượng Trưởng Lão
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Thái Thượng Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

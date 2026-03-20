@@ -4,6 +4,8 @@ name: Vạn Cổ Thạch
 hantu: 万古石
 archetype: Thạch Tổ
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Thạch Tổ
 avatar: ''
 arcs:
   - arc: 1

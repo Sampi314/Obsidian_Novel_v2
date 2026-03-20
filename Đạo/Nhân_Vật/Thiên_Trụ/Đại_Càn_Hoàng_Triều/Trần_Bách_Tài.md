@@ -4,6 +4,8 @@ name: Trần Bách Tài
 hantu: 陳百財
 archetype: Hộ Bộ Thượng Thư
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Hộ Bộ Thượng Thư
 avatar: ''
 arcs:
   - arc: 1

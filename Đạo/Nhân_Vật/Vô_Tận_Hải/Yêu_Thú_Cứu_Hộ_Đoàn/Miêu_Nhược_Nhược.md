@@ -4,6 +4,9 @@ name: Miêu Nhược Nhược
 hantu: 猫弱弱
 archetype: Dược Sư
 race: Yêu Tộc (Miêu Yêu)
+aliases:
+  - "Lười Miêu Dược Sư (懒猫药师) — cả đoàn gọi vậy"
+faction_rank: Dược Sư chính của Yêu Thú Cứu Hộ Đoàn. Chuyên gia bào chế dược liệu, phụ trách chăm sóc linh thú hồi phục. Một trong hai người biết bí mật về con Hỏa Lân
 avatar: ''
 arcs:
   - arc: 1

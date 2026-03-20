@@ -4,6 +4,9 @@ name: Sa Hàn Cổ Thiên
 hantu: 鯊寒古天
 archetype: Canh Gác
 race: Hải Tộc
+origin: Bắc Băng
+age: 1
+faction_rank: Canh Gác — tuần tra vòng ngoài cùng của vùng biển cấm
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trùng Thanh Châm
 hantu: 蟲青針
 archetype: Đường Chủ
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Đường Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hồ Bạch Tuyết Nhi
 hantu: 狐白雪兒
 archetype: Trưởng Lão
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

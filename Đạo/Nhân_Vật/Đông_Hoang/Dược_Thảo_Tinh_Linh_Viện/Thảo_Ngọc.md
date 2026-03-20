@@ -4,6 +4,8 @@ name: Thảo Ngọc
 hantu: 草玉
 archetype: Đệ Tử
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

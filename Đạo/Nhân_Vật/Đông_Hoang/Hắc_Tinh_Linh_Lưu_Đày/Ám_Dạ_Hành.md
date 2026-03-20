@@ -4,6 +4,8 @@ name: Ám Dạ Hành
 hantu: 暗夜行
 archetype: Ám Sát Đội Trưởng
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Ám Sát Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

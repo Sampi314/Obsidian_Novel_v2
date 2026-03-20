@@ -4,6 +4,8 @@ name: Lê Dược Nương
 hantu: 黎药娘
 archetype: Quản Sự
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Quản Sự Chữa Bệnh
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Viên Thiên Thọ
 hantu: 猿天壽
 archetype: Thiên Yêu Vương
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thiên Yêu Vương
 avatar: ''
 arcs:
   - arc: 1

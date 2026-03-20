@@ -4,6 +4,8 @@ name: San Ngân Mạch
 hantu: 珊銀脈
 archetype: Thủ Vệ Rạn
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Thủ Vệ Rạn
 avatar: ''
 arcs:
   - arc: 1

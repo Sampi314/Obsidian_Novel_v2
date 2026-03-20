@@ -4,6 +4,8 @@ name: Tinh Vạn Diệp
 hantu: 星萬葉
 archetype: Thái Thượng Trưởng Lão
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thái Thượng Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

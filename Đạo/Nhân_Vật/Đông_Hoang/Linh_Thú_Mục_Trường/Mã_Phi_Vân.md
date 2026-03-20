@@ -4,6 +4,8 @@ name: Mã Phi Vân
 hantu: 馬飛雲
 archetype: Thuần Thú Sư
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thuần Thú Sư
 avatar: ''
 arcs:
   - arc: 1

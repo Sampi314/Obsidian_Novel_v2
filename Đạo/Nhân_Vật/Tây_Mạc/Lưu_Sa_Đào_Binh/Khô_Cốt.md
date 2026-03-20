@@ -4,6 +4,9 @@ name: Khô Cốt
 hantu: 枯骨
 archetype: Tử Sĩ
 race: Cự Tộc
+dao_tam: Chết Đứng Không Quỳ
+origin: Tây Mạc
+faction_rank: Tử Sĩ
 avatar: ''
 arcs:
   - arc: 1

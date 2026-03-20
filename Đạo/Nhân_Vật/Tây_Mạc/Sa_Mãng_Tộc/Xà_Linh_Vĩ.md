@@ -4,6 +4,8 @@ name: Xà Linh Vĩ
 hantu: 蛇灵尾
 archetype: Trinh Sát
 race: Yêu Tộc (Xà)
+origin: Tây Mạc
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

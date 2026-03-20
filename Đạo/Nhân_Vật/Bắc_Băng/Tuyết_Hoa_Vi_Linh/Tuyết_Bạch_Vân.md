@@ -4,6 +4,8 @@ name: Tuyết Bạch Vân
 hantu: 雪白雲
 archetype: Thợ Dệt Tuyết
 race: Vi Tộc
+origin: Bắc Băng — thường ở vùng có tuyết rơi dày nhất, nơi nguyên liệu dồi dào
+faction_rank: Thợ Dệt Tuyết — nghệ nhân dệt vải từ sợi tuyết kết tinh
 avatar: ''
 arcs:
   - arc: 1

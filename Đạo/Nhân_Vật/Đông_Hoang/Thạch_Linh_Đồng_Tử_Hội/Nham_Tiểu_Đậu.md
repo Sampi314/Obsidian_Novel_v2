@@ -4,6 +4,8 @@ name: Nham Tiểu Đậu
 hantu: 岩小豆
 archetype: Thành Viên
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Thành Viên
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Tuyết Phiêu Linh
 hantu: 雪飄零
 archetype: Du Ca Sĩ
 race: Vi Tộc
+origin: Bắc Băng
+faction_rank: Du Ca Sĩ
 avatar: ''
 arcs:
   - arc: 1

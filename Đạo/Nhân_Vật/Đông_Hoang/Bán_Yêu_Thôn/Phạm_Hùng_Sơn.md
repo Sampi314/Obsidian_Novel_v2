@@ -4,6 +4,11 @@ name: Phạm Hùng Sơn
 hantu: 范熊山
 archetype: Thợ Rèn
 race: Bán Yêu
+aliases:
+  - "Thiết Chưởng Gấu Sơn (鐵掌熊山)"
+  - "trẻ con gọi "Chú Gấu Lớn"
+age: 108
+faction_rank: Thợ Rèn — phụ trách chế tạo và bảo trì toàn bộ vũ khí
 avatar: ''
 arcs:
   - arc: 1

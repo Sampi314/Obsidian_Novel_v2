@@ -4,6 +4,9 @@ name: Trùng Lãnh Diễm
 hantu: 蟲冷焰
 archetype: Hàn Hỏa Chiến Sĩ
 race: Vi Tộc
+dao_tam: Dĩ Hỏa Tịnh Độc
+origin: Bắc Băng
+faction_rank: Hàn Hỏa Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

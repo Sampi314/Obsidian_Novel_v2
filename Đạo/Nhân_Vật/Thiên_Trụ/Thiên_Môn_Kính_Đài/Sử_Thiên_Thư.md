@@ -4,6 +4,9 @@ name: Sử Thiên Thư
 hantu: 史天書
 archetype: Đại Sử Quan
 race: Nhân Tộc
+dao_tam: Sử Bút Vô Tình
+origin: Thiên Trụ
+faction_rank: Đại Sử Quan
 avatar: ''
 arcs:
   - arc: 1

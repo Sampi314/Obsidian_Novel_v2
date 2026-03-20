@@ -4,6 +4,8 @@ name: Diệp Huyền Minh
 hantu: 葉玄冥
 archetype: Đệ Bát Ma Vương
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Bát Ma Vương
 avatar: ''
 arcs:
   - arc: 1

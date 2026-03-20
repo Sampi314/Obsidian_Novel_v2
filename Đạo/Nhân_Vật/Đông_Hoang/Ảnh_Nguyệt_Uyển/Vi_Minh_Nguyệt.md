@@ -4,6 +4,8 @@ name: Vi Minh Nguyệt
 hantu: 微明月
 archetype: Trưởng Lão
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

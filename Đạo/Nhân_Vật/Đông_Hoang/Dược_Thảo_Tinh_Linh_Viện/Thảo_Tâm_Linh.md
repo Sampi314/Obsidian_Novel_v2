@@ -4,6 +4,8 @@ name: Thảo Tâm Linh
 hantu: 草心靈
 archetype: Viện Trưởng
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Viện Trưởng
 avatar: ''
 arcs:
   - arc: 1

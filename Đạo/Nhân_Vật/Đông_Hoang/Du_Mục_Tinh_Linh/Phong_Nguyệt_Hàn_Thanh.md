@@ -4,6 +4,8 @@ name: Phong Nguyệt Hàn Thanh
 hantu: 楓月寒清
 archetype: Dược Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

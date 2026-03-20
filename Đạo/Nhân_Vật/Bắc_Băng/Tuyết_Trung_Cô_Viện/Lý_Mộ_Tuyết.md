@@ -4,6 +4,8 @@ name: Lý Mộ Tuyết
 hantu: 李慕雪
 archetype: Viện Trưởng
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Viện Trưởng
 avatar: ''
 arcs:
   - arc: 1

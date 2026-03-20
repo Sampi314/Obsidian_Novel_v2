@@ -4,6 +4,13 @@ name: Bào Lăng Tiêu
 hantu: 孢凌霄
 archetype: Trưởng Lão Phòng Thủ
 race: Vi Tộc
+dao_tam: Tường không cần đẹp. Tường chỉ cần không đổ
+aliases:
+  - "Tường Lão" (牆老)"
+  - "Đá Tảng" (磐石) — Thiên Lý Tuyết đặt"
+  - "vừa khen sự vững vàng vừa chê sự cứng nhắc"
+age: 2
+faction_rank: Trưởng Lão Phòng Thủ (防禦長老)
 avatar: ''
 arcs:
   - arc: 1

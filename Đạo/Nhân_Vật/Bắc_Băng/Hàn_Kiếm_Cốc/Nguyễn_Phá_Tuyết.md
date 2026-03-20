@@ -4,6 +4,9 @@ name: Nguyễn Phá Tuyết
 hantu: 阮破雪
 archetype: Nội Môn
 race: Nhân Tộc
+dao_tam: Tuyết rơi vạn năm chưa từng mỏi — kiếm ta cũng vậy
+origin: Bắc Băng
+faction_rank: Nội Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hà Cần Lao
 hantu: 蝦勤勞
 archetype: Phó Hội Trưởng
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Phó Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

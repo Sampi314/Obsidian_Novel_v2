@@ -4,6 +4,7 @@ name: Mặc Dơi
 hantu: 墨蝠
 archetype: Ám Sát
 race: Nhân Tộc
+age: 40
 avatar: Mặc_Dơi.png
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Lệ Vân Hải
 hantu: 麗雲海
 archetype: Ngoại Giao Sứ
 race: Hải Tộc
+dao_tam: Nước Mềm Nhưng Xuyên Đá
+origin: Vô Tận Hải
+faction_rank: Ngoại Giao Sứ
 avatar: ''
 arcs:
   - arc: 1

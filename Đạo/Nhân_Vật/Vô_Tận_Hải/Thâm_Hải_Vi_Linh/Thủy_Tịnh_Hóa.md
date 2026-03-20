@@ -4,6 +4,9 @@ name: Thủy Tịnh Hóa
 hantu: 水淨化
 archetype: Tịnh Hóa Thể
 race: Hải Tộc
+dao_tam: Tịnh Hóa Vạn Vật
+origin: Vô Tận Hải
+faction_rank: Tịnh Hóa Thể
 avatar: ''
 arcs:
   - arc: 1

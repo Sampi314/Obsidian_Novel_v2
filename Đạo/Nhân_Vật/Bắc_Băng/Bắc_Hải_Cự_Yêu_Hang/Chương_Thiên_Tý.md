@@ -4,6 +4,9 @@ name: Chương Thiên Tý
 hantu: 章千臂
 archetype: Phó Chủ
 race: Hải Tộc
+origin: Bắc Băng
+age: 6
+faction_rank: Phó Chủ — quản lý trực tiếp mọi hoạt động nội bộ hang ổ
 avatar: ''
 arcs:
   - arc: 1

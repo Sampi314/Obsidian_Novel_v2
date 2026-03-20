@@ -4,6 +4,9 @@ name: Trần Thiết
 hantu: 陳鐵
 archetype: Đại Sư Rèn Đúc
 race: Nhân Tộc
+dao_tam: Bách Luyện
+origin: Thiên Trụ
+faction_rank: Đại Sư Rèn Đúc
 avatar: ''
 arcs:
   - arc: 1

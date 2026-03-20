@@ -4,6 +4,8 @@ name: Nguyễn Dịch Cổ
 hantu: 阮译古
 archetype: Phó Đoàn
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Phó Đoàn
 avatar: ''
 arcs:
   - arc: 1

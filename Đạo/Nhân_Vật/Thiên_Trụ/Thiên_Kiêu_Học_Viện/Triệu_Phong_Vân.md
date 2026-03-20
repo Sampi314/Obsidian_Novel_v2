@@ -4,6 +4,8 @@ name: Triệu Phong Vân
 hantu: 趙風雲
 archetype: Chiến Đấu Viện Chủ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Chiến Đấu Viện Chủ
 avatar: ''
 arcs:
   - arc: 1

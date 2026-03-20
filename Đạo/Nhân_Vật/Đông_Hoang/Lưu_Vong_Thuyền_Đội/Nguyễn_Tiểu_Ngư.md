@@ -4,6 +4,8 @@ name: Nguyễn Tiểu Ngư
 hantu: 阮小魚
 archetype: Thủy Thủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Thủy Thủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,14 @@ name: Bào Thiên Lý Tuyết
 hantu: 孢千里雪
 archetype: Viễn Chinh Tướng
 race: Vi Tộc
+dao_tam: Bão tuyết không hỏi kẻ thù có sẵn sàng chưa. Nó chỉ đến
+aliases:
+  - "Bão Tuyết Có Mắt" (有眼暴雪)"
+  - "trận bão tuyết hắn mang theo dường như có ý thức riêng"
+  - "truy đuổi kẻ thù đến cùng"
+  - "Thiết Bào" (鉄孢)"
+age: 2
+faction_rank: Viễn Chinh Tướng (遠征將)
 avatar: ''
 arcs:
   - arc: 1

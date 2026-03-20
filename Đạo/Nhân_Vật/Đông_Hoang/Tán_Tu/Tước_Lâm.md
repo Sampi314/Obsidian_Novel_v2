@@ -4,6 +4,8 @@ name: Tước Lâm
 hantu: 雀林
 archetype: Nông Dân
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Nông Dân
 avatar: ''
 arcs:
   - arc: 1

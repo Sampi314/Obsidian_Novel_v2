@@ -4,6 +4,12 @@ name: Bào Tuyết Nhi
 hantu: 孢雪兒
 archetype: Nữ Tế Tư
 race: Vi Tộc
+dao_tam: Tuyết rơi không vì ai, nhưng che phủ cho tất cả. Ta muốn được như tuyết
+aliases:
+  - "Tuyết Ca" (雪歌)"
+  - "Hồn Tuyết" (雪魂)"
+age: 1
+faction_rank: Nữ Tế Tư (女祭司)
 avatar: ''
 arcs:
   - arc: 1

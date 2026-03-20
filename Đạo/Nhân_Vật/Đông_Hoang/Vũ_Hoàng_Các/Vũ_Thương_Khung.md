@@ -4,6 +4,8 @@ name: Vũ Thương Khung
 hantu: 羽蒼穹
 archetype: Thương Khung Vệ Đội Trưởng
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Thương Khung Vệ Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

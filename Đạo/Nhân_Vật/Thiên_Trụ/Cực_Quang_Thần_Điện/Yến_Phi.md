@@ -4,6 +4,8 @@ name: Yến Phi
 hantu: 燕飛
 archetype: Truyền Tin
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Truyền Tin
 avatar: ''
 arcs:
   - arc: 1

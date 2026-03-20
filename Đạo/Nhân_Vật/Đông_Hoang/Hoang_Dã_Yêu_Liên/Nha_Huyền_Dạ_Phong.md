@@ -4,6 +4,8 @@ name: Nha Huyền Dạ Phong
 hantu: 鴉玄夜風
 archetype: Liên Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Liên Trưởng
 avatar: ''
 arcs:
   - arc: 1

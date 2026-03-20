@@ -4,6 +4,8 @@ name: Triều Thiên Vệ
 hantu: 潮天卫
 archetype: Tướng Quân
 race: Hải Tộc (Nhân Ngư)
+origin: Vô Tận Hải
+faction_rank: Thống Lĩnh Hải Vệ Quân
 avatar: ''
 arcs:
   - arc: 1

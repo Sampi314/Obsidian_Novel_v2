@@ -4,6 +4,8 @@ name: Quy Hắc Giáp
 hantu: 龜黑甲
 archetype: Hộ Pháp
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hoa Tiểu Yến
 hantu: 花小燕
 archetype: Gián Điệp Trưởng
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Gián Điệp Trưởng
 avatar: ''
 arcs:
   - arc: 1

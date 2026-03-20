@@ -4,6 +4,8 @@ name: Bào Ngọc Quang
 hantu: 孢玉光
 archetype: Dược Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

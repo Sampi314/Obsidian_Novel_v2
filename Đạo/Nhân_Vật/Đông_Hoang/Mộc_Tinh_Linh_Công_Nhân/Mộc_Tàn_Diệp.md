@@ -4,6 +4,8 @@ name: Mộc Tàn Diệp
 hantu: 木殘葉
 archetype: Công Nhân
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Công Nhân
 avatar: ''
 arcs:
   - arc: 1

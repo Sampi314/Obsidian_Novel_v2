@@ -4,6 +4,8 @@ name: Hoàng Tiểu Giáp
 hantu: 黃小甲
 archetype: Chiến Binh
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Chiến Binh
 avatar: ''
 arcs:
   - arc: 1

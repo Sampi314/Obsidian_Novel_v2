@@ -4,6 +4,8 @@ name: Ám Thiên Lôi
 hantu: 暗天雷
 archetype: Chiến Sĩ
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

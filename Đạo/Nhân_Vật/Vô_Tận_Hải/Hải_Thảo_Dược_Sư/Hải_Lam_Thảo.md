@@ -4,6 +4,14 @@ name: Hải Lam Thảo
 hantu: 海藍草
 archetype: Dược Sư
 race: Hải Tộc
+lingan: Thủy Linh Căn (Trung phẩm
+dao_tam: Nhất Tảo Sinh, Vạn Hải Hưng
+aliases:
+  - "Tảo Viên Du Phong (藻園遊風)"
+  - "ý chỉ hắn bơi lướt qua rừng tảo nhanh như gió"
+  - "Lam Vĩ (藍尾)"
+age: 67
+faction_rank: Dược Sư Thu Hoạch kiêm Dược Sư Vận Chuyển của Hải Thảo Dược Sư, chuyên trách thu hoạch nhanh và bảo quản dược liệu tươi
 avatar: ''
 arcs:
   - arc: 1

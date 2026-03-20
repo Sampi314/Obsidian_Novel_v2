@@ -4,6 +4,9 @@ name: Trùng Hàn Độc Vương
 hantu: 蟲寒毒王
 archetype: Đoàn Trưởng
 race: Vi Tộc
+dao_tam: Dĩ Thân Hóa Độc, Dĩ Độc Hộ Sinh
+origin: Bắc Băng
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

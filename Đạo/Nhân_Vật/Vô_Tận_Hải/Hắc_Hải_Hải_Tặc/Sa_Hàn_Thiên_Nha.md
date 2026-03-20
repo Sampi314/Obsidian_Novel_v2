@@ -4,6 +4,8 @@ name: Sa Hàn Thiên Nha
 hantu: 鯊寒千牙
 archetype: Đao Phủ
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đao Phủ
 avatar: ''
 arcs:
   - arc: 1

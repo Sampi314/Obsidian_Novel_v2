@@ -4,6 +4,13 @@ name: Sa Thiết
 hantu: 沙铁
 archetype: Chiến Binh
 race: Cự Tộc
+aliases:
+  - "Thiết Đầu (铁头)"
+  - "vì hắn hay dùng đầu húc. Hỏa Sa (火沙)"
+  - "nghĩa là "cát nóng"
+  - "ám chỉ tính cách bốc đồng"
+origin: Tây Mạc — Hoàng Kim Sa Hải
+faction_rank: Chiến binh trẻ xuất sắc nhất bộ lạc
 avatar: ''
 arcs:
   - arc: 1

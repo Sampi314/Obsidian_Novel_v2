@@ -4,6 +4,14 @@ name: Cực Quang Đồng Tử
 hantu: 极光童子
 archetype: Đồng Tử
 race: Băng Tộc
+lingan: Quang Hệ Thiên Phẩm Linh Căn (光系天品灵根)
+dao_tam: Chưa hình thành hoàn chỉnh
+aliases:
+  - "Tiểu Quang (小光"
+  - "Quang Đồng (光童)"
+origin: Bắc Băng
+age: 15
+faction_rank: Thị Vệ Thánh Nữ (圣女侍卫) — danh nghĩa là thị vệ
 avatar: ''
 arcs:
   - arc: 1

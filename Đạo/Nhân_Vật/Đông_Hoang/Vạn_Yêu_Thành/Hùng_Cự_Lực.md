@@ -4,6 +4,8 @@ name: Hùng Cự Lực
 hantu: 熊巨力
 archetype: Bảo Tiêu Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Bảo Tiêu Trưởng
 avatar: ''
 arcs:
   - arc: 1

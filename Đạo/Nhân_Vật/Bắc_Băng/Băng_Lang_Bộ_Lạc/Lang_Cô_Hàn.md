@@ -4,6 +4,8 @@ name: Lang Cô Hàn
 hantu: 狼孤寒
 archetype: Sói Đơn Độc
 race: Yêu Tộc
+origin: Bắc Băng
+faction_rank: Sói Đơn Độc
 avatar: ''
 arcs:
   - arc: 1

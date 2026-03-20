@@ -4,6 +4,8 @@ name: Khuẩn Hắc Nhưỡng
 hantu: 菌黑壤
 archetype: Phì Nhiêu Sư
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Phì Nhiêu Sư
 avatar: ''
 arcs:
   - arc: 1

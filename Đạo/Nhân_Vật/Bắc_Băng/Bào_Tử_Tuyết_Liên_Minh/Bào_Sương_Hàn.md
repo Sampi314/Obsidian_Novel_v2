@@ -4,6 +4,13 @@ name: Bào Sương Hàn
 hantu: 孢霜寒
 archetype: Trinh Sát Tuyết
 race: Vi Tộc
+dao_tam: Trinh sát giỏi nhất là trinh sát mà kẻ thù không bao giờ biết tồn tại
+aliases:
+  - "Bóng Sương" (霜影)"
+  - "không ai thấy nàng đi"
+  - "Mắt Trong Tuyết" (雪中目)"
+age: 1
+faction_rank: Trinh Sát Tuyết (雪偵察)
 avatar: ''
 arcs:
   - arc: 1

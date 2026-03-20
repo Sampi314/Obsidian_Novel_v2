@@ -4,6 +4,14 @@ name: Quang Minh Đại Tế
 hantu: 光明大祭
 archetype: Đại Tế Tư
 race: Băng Tộc
+lingan: Quang Hệ Thượng Phẩm Linh Căn (光系上品灵根)
+dao_tam: Phụng Quang Vô Ngã
+aliases:
+  - "Thiên Quang Lão Nhân (天光老人"
+  - "Vạn Pháp Tế Tư (万法祭司 — "Tế Tư Vạn Pháp")"
+origin: Bắc Băng — Thung lũng Ánh Sáng Vĩnh Cửu
+age: 287
+faction_rank: Viện Chủ Tế Tư Viện (祭司院院主) kiêm Đại Tế Tư Ánh Sáng (大祭司光)
 avatar: ''
 arcs:
   - arc: 1

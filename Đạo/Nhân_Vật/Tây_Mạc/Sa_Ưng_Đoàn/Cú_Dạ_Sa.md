@@ -4,6 +4,12 @@ name: Cú Dạ Sa
 hantu: 梟夜沙
 archetype: Dạ Trinh Sát
 race: Vũ Tộc
+dao_tam: Dạ Trung Hữu Nhãn
+aliases:
+  - "Vô Diện (無面"
+  - "Hắc Dạ Chi Nhãn (黑夜之眼 — "Mắt Đêm Đen")"
+origin: Tây Mạc — hoạt động khắp lãnh thổ Sa Ưng Đoàn và xa hơn, nhưng chỉ vào ban đêm
+faction_rank: Dạ Trinh Sát (夜偵察) của Sa Ưng Đoàn
 avatar: ''
 arcs:
   - arc: 1

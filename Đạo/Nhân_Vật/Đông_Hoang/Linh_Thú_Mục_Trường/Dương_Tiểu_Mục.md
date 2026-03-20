@@ -4,6 +4,8 @@ name: Dương Tiểu Mục
 hantu: 羊小牧
 archetype: Mục Đồng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Mục Đồng
 avatar: ''
 arcs:
   - arc: 1

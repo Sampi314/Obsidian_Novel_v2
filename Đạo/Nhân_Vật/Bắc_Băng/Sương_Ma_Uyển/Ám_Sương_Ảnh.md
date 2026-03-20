@@ -4,6 +4,8 @@ name: Ám Sương Ảnh
 hantu: 暗霜影
 archetype: Sát Thủ
 race: Băng Tộc
+origin: Bắc Băng
+faction_rank: Đệ Tam Sát Sương Quỷ
 avatar: ''
 arcs:
   - arc: 1

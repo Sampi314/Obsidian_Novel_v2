@@ -4,6 +4,8 @@ name: Thạch Vu Hỏa
 hantu: 石巫火
 archetype: Trưởng Lão
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

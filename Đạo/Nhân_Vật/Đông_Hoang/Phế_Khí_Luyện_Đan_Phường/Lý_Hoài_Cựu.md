@@ -4,6 +4,8 @@ name: Lý Hoài Cựu
 hantu: 李懷舊
 archetype: Phường Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phường Chủ
 avatar: ''
 arcs:
   - arc: 1

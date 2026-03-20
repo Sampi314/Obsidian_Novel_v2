@@ -4,6 +4,9 @@ name: Ngô Công Trưởng Lão
 hantu: 蜈蚣長老
 archetype: Độc Sư
 race: Nhân Tộc
+aliases:
+  - "Thiên Túc Lão Quái (Thiên Túc Lão Quái - Quái Vật Ngàn Chân)"
+faction_rank: Một trong Ngũ Độc Trưởng Lão của [Vạn Độc Môn]
 avatar: Ngô_Công_Trưởng_Lão.png
 arcs:
   - arc: 1

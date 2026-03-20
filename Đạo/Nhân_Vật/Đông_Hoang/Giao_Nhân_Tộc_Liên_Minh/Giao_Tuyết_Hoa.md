@@ -4,6 +4,8 @@ name: Giao Tuyết Hoa
 hantu: 鲛雪花
 archetype: Hộ Sản Sư
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Hộ Sản Sư
 avatar: ''
 arcs:
   - arc: 1

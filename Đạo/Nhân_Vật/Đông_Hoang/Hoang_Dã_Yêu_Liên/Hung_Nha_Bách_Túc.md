@@ -4,6 +4,8 @@ name: Hung Nha Bách Túc
 hantu: 凶牙百足
 archetype: Ngô Công Tướng
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Ngô Công Tướng
 avatar: ''
 arcs:
   - arc: 1

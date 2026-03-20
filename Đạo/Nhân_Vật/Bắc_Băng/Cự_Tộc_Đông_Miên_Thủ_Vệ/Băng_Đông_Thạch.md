@@ -4,6 +4,22 @@ name: Băng Đông Thạch
 hantu: 冰凍石
 archetype: Thủ Vệ
 race: Cự Tộc
+lingan: Thổ Linh Căn Đơn Hệ (土灵根)
+dao_tam: Thạch Vi Bạn, Thủ Vi Đạo
+aliases:
+  - "Bóng Đá" (石影)"
+  - "im lặng"
+  - "trung thành"
+  - "bất ly"
+  - "Thạch Nhĩ" (石耳"
+  - "tai y gần như mọc từ đá mà ra"
+  - "Kẻ Đứng Thứ Hai" (第二立者)"
+  - "vì nếu Băng Cương là tảng đá đầu tiên trước cửa hang"
+  - "thì y luôn là tảng đá thứ hai — không ai để ý"
+  - "nhưng không bao giờ vắng mặt"
+origin: Bắc Băng
+age: 320
+faction_rank: Phó Đội (副隊) — phó đội trưởng Cự Tộc Đông Miên Thủ Vệ
 avatar: ''
 arcs:
   - arc: 1

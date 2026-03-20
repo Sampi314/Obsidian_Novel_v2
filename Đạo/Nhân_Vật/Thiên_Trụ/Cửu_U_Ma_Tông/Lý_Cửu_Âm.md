@@ -4,6 +4,8 @@ name: Lý Cửu Âm
 hantu: 李九陰
 archetype: Đệ Ngũ Ma Vương
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Ngũ Ma Vương
 avatar: ''
 arcs:
   - arc: 1

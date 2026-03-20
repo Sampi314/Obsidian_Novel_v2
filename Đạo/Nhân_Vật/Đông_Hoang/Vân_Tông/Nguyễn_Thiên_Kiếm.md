@@ -4,6 +4,8 @@ name: Nguyễn Thiên Kiếm
 hantu: 阮天劍
 archetype: Hộ Pháp
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

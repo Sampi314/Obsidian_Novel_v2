@@ -4,6 +4,8 @@ name: Lôi Tiểu Chấn
 hantu: 雷小震
 archetype: Chân Truyền Đệ Tử
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Chân Truyền Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

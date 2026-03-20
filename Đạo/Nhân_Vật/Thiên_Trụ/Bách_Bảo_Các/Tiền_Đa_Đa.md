@@ -4,6 +4,8 @@ name: Tiền Đa Đa
 hantu: 錢多多
 archetype: Các Chủ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Các Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lý Ám
 hantu: 李暗
 archetype: Đệ Tam Huyết Tướng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Tam Huyết Tướng
 avatar: ''
 arcs:
   - arc: 1

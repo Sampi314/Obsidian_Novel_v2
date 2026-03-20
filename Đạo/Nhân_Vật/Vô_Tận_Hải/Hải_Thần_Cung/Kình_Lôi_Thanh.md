@@ -4,6 +4,9 @@ name: Kình Lôi Thanh
 hantu: 鯨雷聲
 archetype: Đông Nam Tướng Quân
 race: Hải Tộc
+dao_tam: Bảo vệ đồng loại, đó là lẽ sống
+origin: Vô Tận Hải
+faction_rank: Đông Nam Tướng Quân
 avatar: ''
 arcs:
   - arc: 1

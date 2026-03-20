@@ -4,6 +4,15 @@ name: Ba Trầm Lặng
 hantu: 波沉默
 archetype: Gây Nhiễu Viên
 race: Vi Tộc
+dao_tam: Im lặng không phải hư vô — im lặng là lá chắn
+aliases:
+  - "Sóng Câm" (哑波)"
+  - "Ba Trầm Lặng là kẻ "bịt miệng"
+  - "không nói mà bắt kẻ khác câm. Đó là tên y tự đặt cho mình"
+  - "và y coi nó là danh hiệu"
+  - "không phải biệt danh"
+origin: Vô Tận Hải
+faction_rank: Gây Nhiễu Viên (干扰员)
 avatar: ''
 arcs:
   - arc: 1

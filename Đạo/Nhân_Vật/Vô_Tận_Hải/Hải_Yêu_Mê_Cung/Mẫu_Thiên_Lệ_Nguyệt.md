@@ -4,6 +4,8 @@ name: Mẫu Thiên Lệ Nguyệt
 hantu: 母千淚月
 archetype: Thợ Thu Hoạch
 race: Hải Tộc (Siren)
+origin: Vô Tận Hải
+faction_rank: Thợ Thu Hoạch
 avatar: ''
 arcs:
   - arc: 1

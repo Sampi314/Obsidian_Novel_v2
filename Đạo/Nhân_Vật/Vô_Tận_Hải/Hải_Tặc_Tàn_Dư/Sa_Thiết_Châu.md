@@ -4,6 +4,8 @@ name: Sa Thiết Châu
 hantu: 鯊鐵珠
 archetype: Đội Trưởng "Độc Nhãn"
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: "Đội Trưởng \"Độc Nhãn\""
 avatar: ''
 arcs:
   - arc: 1

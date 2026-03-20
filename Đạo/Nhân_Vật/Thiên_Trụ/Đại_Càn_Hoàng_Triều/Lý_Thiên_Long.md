@@ -4,6 +4,8 @@ name: Lý Thiên Long
 hantu: 李天龍
 archetype: Thái Tử
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Thái Tử
 avatar: ''
 arcs:
   - arc: 1

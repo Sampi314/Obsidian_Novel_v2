@@ -4,6 +4,8 @@ name: Lê Dương Thiết
 hantu: 黎陽鐵
 archetype: Tông Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Tông Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Ưng Bạch Vũ
 hantu: 鹰白羽
 archetype: Sứ Giả
 race: Yêu Tộc
+origin: Bắc Băng
+faction_rank: Sứ Giả Giao Thương
 avatar: ''
 arcs:
   - arc: 1

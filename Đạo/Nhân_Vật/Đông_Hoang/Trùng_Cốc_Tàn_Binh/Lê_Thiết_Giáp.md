@@ -4,6 +4,8 @@ name: Lê Thiết Giáp
 hantu: 黎鐵甲
 archetype: Liên Minh Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Liên Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

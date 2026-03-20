@@ -4,6 +4,8 @@ name: Trùng Kim Hoa
 hantu: 蟲金花
 archetype: Ong Chúa
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Ong Chúa
 avatar: ''
 arcs:
   - arc: 1

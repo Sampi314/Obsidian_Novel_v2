@@ -4,6 +4,9 @@ name: Hải Minh Châu
 hantu: 海明珠
 archetype: Nghệ Nhân
 race: Hải Tộc (Giao Nhân)
+dao_tam: Mỹ Tự Nhiên Thành
+origin: Vô Tận Hải
+faction_rank: Đại Sư Dệt Lụa Vân
 avatar: ''
 arcs:
   - arc: 1

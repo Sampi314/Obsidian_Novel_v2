@@ -4,6 +4,8 @@ name: Khuẩn Thủy Thanh
 hantu: 菌水清
 archetype: Phó Đội Trưởng
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Phó Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

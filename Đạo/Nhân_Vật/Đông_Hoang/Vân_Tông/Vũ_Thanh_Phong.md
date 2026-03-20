@@ -4,6 +4,8 @@ name: Vũ Thanh Phong
 hantu: 武清風
 archetype: Trưởng Lão Kiếm Đỉnh
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Kiếm Đỉnh
 avatar: ''
 arcs:
   - arc: 1

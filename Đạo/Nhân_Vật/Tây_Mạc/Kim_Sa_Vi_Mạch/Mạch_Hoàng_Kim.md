@@ -4,6 +4,8 @@ name: Mạch Hoàng Kim
 hantu: 脈黃金
 archetype: Mạch Chủ
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Mạch Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nham Kình Thiên
 hantu: 岩擎天
 archetype: Chiến Cự Tử
 race: Cự Tộc
+origin: Bắc Băng
+faction_rank: Chiến Cự Tử
 avatar: ''
 arcs:
   - arc: 1

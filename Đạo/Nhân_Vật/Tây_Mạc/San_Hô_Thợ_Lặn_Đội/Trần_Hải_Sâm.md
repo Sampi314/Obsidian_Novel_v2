@@ -4,6 +4,8 @@ name: Trần Hải Sâm
 hantu: 陈海参
 archetype: Thợ Lặn Kỳ Cựu
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Thợ Lặn Kỳ Cựu
 avatar: ''
 arcs:
   - arc: 1

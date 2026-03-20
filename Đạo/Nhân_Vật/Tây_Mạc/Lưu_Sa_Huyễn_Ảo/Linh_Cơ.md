@@ -4,6 +4,11 @@ name: Linh Cơ
 hantu: 灵机
 archetype: Cung Chủ
 race: Nhân Tộc
+aliases:
+  - "Huyễn Cung Chi Chủ (幻宫之主)"
+  - "cách mà các thương nhân Tây Mạc gọi khi nhắc đến nàng"
+origin: Tây Mạc — Vùng Lưu Sa Di Động
+faction_rank: Cung Chủ
 avatar: ''
 arcs:
   - arc: 1

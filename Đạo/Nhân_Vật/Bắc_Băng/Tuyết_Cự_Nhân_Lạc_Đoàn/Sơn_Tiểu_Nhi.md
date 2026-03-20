@@ -4,6 +4,9 @@ name: Sơn Tiểu Nhi
 hantu: 山小儿
 archetype: Ấu Cự Nhân
 race: Cự Tộc
+dao_tam: Che Chở Kẻ Yếu
+origin: Bắc Băng
+faction_rank: Ấu Cự Nhân
 avatar: ''
 arcs:
   - arc: 1

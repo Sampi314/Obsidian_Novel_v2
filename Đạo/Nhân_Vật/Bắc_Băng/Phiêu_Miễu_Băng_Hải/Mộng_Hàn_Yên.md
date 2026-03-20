@@ -4,6 +4,13 @@ name: Mộng Hàn Yên
 hantu: 梦寒烟
 archetype: Đường Chủ
 race: Nhân Tộc
+lingan: Thủy-Âm Song Linh Căn (水阴双灵根)
+dao_tam: Giấc mơ là nơi thần thức trần trụi nhất — và kẻ nắm giữ giấc mơ, nắm giữ linh hồn
+aliases:
+  - "Tiên Tử Mộng Cảnh" (仙子梦境)"
+  - "Hàn Yên Quỷ Thủ" (寒烟鬼手)"
+origin: Bắc Băng
+faction_rank: Đường Chủ Tâm Trí Đường (心智堂堂主)
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nham Tiểu Sơn
 hantu: 岩小山
 archetype: Đoàn Trưởng
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

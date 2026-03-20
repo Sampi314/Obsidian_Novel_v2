@@ -4,6 +4,8 @@ name: Ba Ngọc Hàn
 hantu: 波玉寒
 archetype: Chiến Binh
 race: Hải Tộc (Giao Nhân)
+origin: Vô Tận Hải
+faction_rank: Đội Trưởng Hải Ba Vệ
 avatar: ''
 arcs:
   - arc: 1

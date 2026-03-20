@@ -4,6 +4,8 @@ name: Trùng Độc Ong
 hantu: 蟲毒蜂
 archetype: Trùng Tướng
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Trùng Tướng
 avatar: ''
 arcs:
   - arc: 1

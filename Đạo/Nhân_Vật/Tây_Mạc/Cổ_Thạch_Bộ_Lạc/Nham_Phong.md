@@ -4,6 +4,8 @@ name: Nham Phong
 hantu: 岩峰
 archetype: Trưởng Lão
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

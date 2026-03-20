@@ -4,6 +4,9 @@ name: Trùng Sa Yến
 hantu: 蟲沙燕
 archetype: Trinh Sát Mặt Đất
 race: Vi Tộc
+dao_tam: Vạn Lý Tầm Thanh
+origin: Tây Mạc
+faction_rank: Trinh Sát Mặt Đất
 avatar: ''
 arcs:
   - arc: 1

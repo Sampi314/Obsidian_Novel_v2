@@ -4,6 +4,8 @@ name: Hoàng Tiểu Độc
 hantu: 黃小毒
 archetype: Đệ Tử
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

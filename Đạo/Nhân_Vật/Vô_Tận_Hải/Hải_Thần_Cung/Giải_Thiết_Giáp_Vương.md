@@ -4,6 +4,8 @@ name: Giải Thiết Giáp Vương
 hantu: 蟹鐵甲王
 archetype: Nam Hải Tướng Quân
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Nam Hải Tướng Quân
 avatar: ''
 arcs:
   - arc: 1

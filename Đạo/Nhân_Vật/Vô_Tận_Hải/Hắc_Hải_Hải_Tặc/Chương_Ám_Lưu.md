@@ -4,6 +4,8 @@ name: Chương Ám Lưu
 hantu: 章暗流
 archetype: Mưu Sĩ
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Mưu Sĩ
 avatar: ''
 arcs:
   - arc: 1

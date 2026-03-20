@@ -4,6 +4,8 @@ name: Trần Hỏa Nham
 hantu: 陳火岩
 archetype: Đệ Nhị Tháp Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Nhị Tháp Chủ
 avatar: ''
 arcs:
   - arc: 1

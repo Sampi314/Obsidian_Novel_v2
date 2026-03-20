@@ -4,6 +4,14 @@ name: Trần Hàn Phong
 hantu: 陈寒风
 archetype: Hội Trưởng
 race: Nhân Tộc
+lingan: Băng thuộc đơn linh căn
+dao_tam: Một mình thì chết, cùng nhau thì sống
+aliases:
+  - "Lão Hàn Phong" (老寒风)"
+  - "vừa vì tên ông"
+origin: Bắc Băng — vùng rìa phía nam, nơi năm trại tán tu tọa lạc
+age: 127
+faction_rank: Hội Trưởng — người sáng lập và lãnh đạo tối cao
 avatar: ''
 arcs:
   - arc: 1

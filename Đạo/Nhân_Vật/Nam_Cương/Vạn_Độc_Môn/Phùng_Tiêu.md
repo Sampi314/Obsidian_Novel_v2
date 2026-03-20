@@ -4,6 +4,8 @@ name: Phùng Tiêu
 hantu: 馮蕭
 archetype: Lục Sát
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Lục Sát
 avatar: ''
 arcs:
   - arc: 1

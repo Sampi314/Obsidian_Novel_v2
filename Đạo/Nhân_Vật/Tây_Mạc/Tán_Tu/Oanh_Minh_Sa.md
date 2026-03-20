@@ -4,6 +4,8 @@ name: Oanh Minh Sa
 hantu: 鶯鳴沙
 archetype: Truyền Tin
 race: Vũ Tộc
+origin: Tây Mạc
+faction_rank: Truyền Tin
 avatar: ''
 arcs:
   - arc: 1

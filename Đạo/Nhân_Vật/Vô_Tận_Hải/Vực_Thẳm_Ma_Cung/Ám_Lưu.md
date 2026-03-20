@@ -4,6 +4,8 @@ name: Ám Lưu
 hantu: 暗流
 archetype: Hộ Pháp
 race: Thủy Ma
+origin: Vô Tận Hải
+faction_rank: Đại Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

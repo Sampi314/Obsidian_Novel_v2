@@ -4,6 +4,8 @@ name: Tuyết Tiểu Hồng
 hantu: 雪小紅
 archetype: Đệ Tử Nhuộm Tuyết
 race: Vi Tộc
+origin: Bắc Băng — bay khắp nơi, không ở yên, hay lẻn vào vùng cấm
+faction_rank: Đệ Tử Nhuộm Tuyết
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,13 @@ name: Lam Tịnh Thủy
 hantu: 蓝净水
 archetype: Trưởng Lão
 race: Hải Yêu
+lingan: Thủy Linh Căn Đơn Thuần (纯水灵根)
+dao_tam: Nước không tranh giành, nhưng vạn vật đều cần nước để sống
+aliases:
+  - "Tịnh Thủy Lão Tổ" (净水老祖)"
+  - "Lam Hải Dược Mẫu" (蓝海药母)"
+origin: Bắc Băng
+faction_rank: Trưởng Lão Thủy Hoa Viện (水花院长老)
 avatar: ''
 arcs:
   - arc: 1

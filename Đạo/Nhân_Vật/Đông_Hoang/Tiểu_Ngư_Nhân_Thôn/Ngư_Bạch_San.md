@@ -4,6 +4,8 @@ name: Ngư Bạch San
 hantu: 魚白珊
 archetype: Ngư Dân
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Ngư Dân
 avatar: ''
 arcs:
   - arc: 1

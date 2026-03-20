@@ -4,6 +4,8 @@ name: Ngư Tiểu Phì
 hantu: 魚小肥
 archetype: Tập Sự
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Tập Sự
 avatar: ''
 arcs:
   - arc: 1

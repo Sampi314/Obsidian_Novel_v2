@@ -4,6 +4,8 @@ name: Hoang Sơn Ẩn Sĩ
 hantu: 荒山隱士
 archetype: Ẩn Sĩ
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Ẩn Sĩ
 avatar: ''
 arcs:
   - arc: 1

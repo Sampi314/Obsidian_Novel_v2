@@ -4,6 +4,8 @@ name: Nấm Hắc Thổ
 hantu: 菌黑土
 archetype: Phân Giải Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Phân Giải Sư
 avatar: ''
 arcs:
   - arc: 1

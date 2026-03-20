@@ -4,6 +4,8 @@ name: Ám Ngọc
 hantu: 暗玉
 archetype: Chế Tác Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Chế Tác Sư
 avatar: ''
 arcs:
   - arc: 1

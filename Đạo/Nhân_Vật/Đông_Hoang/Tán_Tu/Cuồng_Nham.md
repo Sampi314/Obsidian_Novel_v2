@@ -4,6 +4,8 @@ name: Cuồng Nham
 hantu: 狂岩
 archetype: Cuồng Chiến Sĩ
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Cuồng Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,14 @@ name: Ưng Hàn Minh
 hantu: 鷹寒鳴
 archetype: Truyền Tin
 race: Vũ Tộc
+dao_tam: Tin đến nơi, dù trời sập
+aliases:
+  - "Phong Ảnh" (風影)"
+  - "chỉ thấy một cái bóng lướt qua trước bão tuyết rồi biến mất"
+  - "không ai kịp nhìn rõ mặt"
+origin: Bắc Băng
+age: 87
+faction_rank: Liên Lạc Viên Cấp Cao
 avatar: ''
 arcs:
   - arc: 1

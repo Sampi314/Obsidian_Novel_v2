@@ -4,6 +4,14 @@ name: Trùng Đông Miên
 hantu: 蟲冬眠
 archetype: Trưởng Lão Phục Kích
 race: Vi Tộc
+lingan: Thủy
+dao_tam: Ngủ để thức, thức để nuốt, nuốt để tịnh
+aliases:
+  - "Lão Trùng Ngủ Đông" (老冬虫)"
+  - "ẩn mình dưới lớp băng vĩnh cửu. Khi Lão Trùng tỉnh"
+  - "nghĩa là có kẻ đã xâm phạm lãnh thổ đoàn sâu đến mức không thể bỏ qua"
+origin: Bắc Băng
+faction_rank: Trưởng Lão Phục Kích — chức vụ đặc biệt chỉ dành cho hắn
 avatar: ''
 arcs:
   - arc: 1

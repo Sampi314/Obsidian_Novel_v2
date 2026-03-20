@@ -4,6 +4,8 @@ name: Linh Ngọc Thụ Tâm
 hantu: 靈玉樹心
 archetype: Thần Mộc Thông Dịch
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thần Mộc Thông Dịch
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Phạm Cương Binh
 hantu: 范鋼兵
 archetype: Đội Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

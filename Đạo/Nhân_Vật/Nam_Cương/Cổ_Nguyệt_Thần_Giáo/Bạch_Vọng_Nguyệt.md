@@ -4,6 +4,8 @@ name: Bạch Vọng Nguyệt
 hantu: 白望月
 archetype: Đệ Tam Phó Tư Tế
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Tam Phó Tư Tế
 avatar: ''
 arcs:
   - arc: 1

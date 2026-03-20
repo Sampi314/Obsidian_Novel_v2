@@ -4,6 +4,8 @@ name: Phạm Tiểu Thư
 hantu: 范小書
 archetype: Thủ Thư
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Thủ Thư
 avatar: ''
 arcs:
   - arc: 1

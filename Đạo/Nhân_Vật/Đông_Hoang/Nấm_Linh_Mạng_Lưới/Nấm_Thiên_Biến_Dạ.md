@@ -4,6 +4,8 @@ name: Nấm Thiên Biến Dạ
 hantu: 菌千變夜
 archetype: Tiến Hóa Thể
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Tiến Hóa Thể
 avatar: ''
 arcs:
   - arc: 1

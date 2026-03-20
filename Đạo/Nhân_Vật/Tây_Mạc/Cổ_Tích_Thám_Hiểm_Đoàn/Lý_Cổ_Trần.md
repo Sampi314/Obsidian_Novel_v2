@@ -4,6 +4,9 @@ name: Lý Cổ Trần
 hantu: 李古尘
 archetype: Đoàn Trưởng
 race: Nhân Tộc
+dao_tam: Truy Vấn
+origin: Tây Mạc
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

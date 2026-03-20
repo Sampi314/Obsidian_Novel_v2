@@ -4,6 +4,8 @@ name: Mặc Triều Hải
 hantu: 墨潮海
 archetype: Hải Trùng Tướng
 race: Trùng Tộc
+origin: Vô Tận Hải
+faction_rank: Hải Trùng Tướng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Ưng Lãng Tiêu
 hantu: 鷹浪嘯
 archetype: Chiến Sĩ
 race: Vũ Tộc
+origin: Vô Tận Hải
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

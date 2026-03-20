@@ -4,6 +4,8 @@ name: Đỗ Hải
 hantu: 杜海
 archetype: Phó Trại Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Phó Trại Chủ
 avatar: ''
 arcs:
   - arc: 1

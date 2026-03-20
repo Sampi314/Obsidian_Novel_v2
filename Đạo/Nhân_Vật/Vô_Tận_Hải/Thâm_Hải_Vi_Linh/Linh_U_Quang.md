@@ -4,6 +4,8 @@ name: Linh U Quang
 hantu: 靈幽光
 archetype: Dẫn Đường Sư
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Dẫn Đường Sư
 avatar: ''
 arcs:
   - arc: 1

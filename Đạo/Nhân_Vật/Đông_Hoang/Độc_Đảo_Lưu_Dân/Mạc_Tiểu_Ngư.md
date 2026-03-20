@@ -4,6 +4,8 @@ name: Mạc Tiểu Ngư
 hantu: 莫小魚
 archetype: Ngư Dân
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Ngư Dân
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hồ Nguyệt Quang
 hantu: 狐月光
 archetype: Giữ Nguyệt Quang Thạch
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Giữ Nguyệt Quang Thạch
 avatar: ''
 arcs:
   - arc: 1

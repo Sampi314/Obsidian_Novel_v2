@@ -4,6 +4,13 @@ name: Lang Tuyết Vương
 hantu: 狼雪王
 archetype: Tuyết Lang Vương
 race: Yêu Tộc
+dao_tam: Đàn sói đi qua mùa đông, không phải bằng nanh vuốt sắc nhất, mà bằng ý chí của con sói đầu đàn
+aliases:
+  - "Bạch Sói Bá Vương" (白狼霸王)"
+  - "Tuyết Sơn Lão Lang" (雪山老狼)"
+origin: Bắc Băng — Rừng Tuyết biên thùy, di chuyển theo mùa giữa các vùng trại
+age: 800
+faction_rank: Đại Tù Trưởng đương nhiệm (大酋长)
 avatar: ''
 arcs:
   - arc: 1

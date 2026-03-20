@@ -4,6 +4,8 @@ name: Dạ Trầm
 hantu: 夜沉
 archetype: Vệ Binh
 race: Cự Tộc (Sa Cự Nhân)
+origin: Tây Mạc
+faction_rank: Vệ Binh
 avatar: ''
 arcs:
   - arc: 1

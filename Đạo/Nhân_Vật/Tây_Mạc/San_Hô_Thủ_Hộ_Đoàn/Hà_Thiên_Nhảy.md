@@ -4,6 +4,8 @@ name: Hà Thiên Nhảy
 hantu: 蝦千跳
 archetype: Tuần Tra
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Tuần Tra
 avatar: ''
 arcs:
   - arc: 1

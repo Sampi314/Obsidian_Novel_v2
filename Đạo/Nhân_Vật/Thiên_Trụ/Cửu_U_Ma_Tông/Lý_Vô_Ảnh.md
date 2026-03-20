@@ -4,6 +4,8 @@ name: Lý Vô Ảnh
 hantu: 李無影
 archetype: Ảnh Ma Viện Chủ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Ảnh Ma Viện Chủ
 avatar: ''
 arcs:
   - arc: 1

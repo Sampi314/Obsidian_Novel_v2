@@ -4,6 +4,8 @@ name: Lý Cầm Tiên
 hantu: 李禽仙
 archetype: Viện Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Viện Trưởng
 avatar: ''
 arcs:
   - arc: 1

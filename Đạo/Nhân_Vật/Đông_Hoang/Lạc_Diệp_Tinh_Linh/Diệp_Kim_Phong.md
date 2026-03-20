@@ -4,6 +4,8 @@ name: Diệp Kim Phong
 hantu: 叶金楓
 archetype: Vệ Sĩ Trưởng
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Vệ Sĩ Trưởng
 avatar: ''
 arcs:
   - arc: 1

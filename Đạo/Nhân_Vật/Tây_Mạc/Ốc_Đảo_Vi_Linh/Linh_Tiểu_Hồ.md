@@ -4,6 +4,9 @@ name: Linh Tiểu Hồ
 hantu: 靈小湖
 archetype: Đệ Tử Thủy Mạch
 race: Vi Tộc
+dao_tam: Tại sao nước chảy về hướng đó? Ta muốn biết
+origin: Tây Mạc
+faction_rank: Đệ Tử Thủy Mạch
 avatar: ''
 arcs:
   - arc: 1

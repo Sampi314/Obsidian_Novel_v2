@@ -4,6 +4,14 @@ name: Lang Thiên Nha Huyết
 hantu: 狼天牙血
 archetype: Chiến Binh
 race: Yêu Tộc
+dao_tam: Ta sẽ mạnh. Mạnh đến mức không ai dám bảo ta yếu
+aliases:
+  - "Sói Điên" (疯狼)"
+  - "Huyết Nha" (血牙)"
+  - "vì nghe đủ hung hãn"
+origin: Bắc Băng — Hang Lang Thần (canh gác) và Bãi Huấn Luyện
+age: 80
+faction_rank: Chiến Binh (战士) — lính thường trong Kỵ Sĩ Sói
 avatar: ''
 arcs:
   - arc: 1

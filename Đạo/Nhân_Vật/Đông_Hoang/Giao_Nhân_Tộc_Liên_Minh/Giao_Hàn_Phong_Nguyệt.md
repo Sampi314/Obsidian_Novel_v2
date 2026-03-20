@@ -4,6 +4,8 @@ name: Giao Hàn Phong Nguyệt
 hantu: 鲛寒風月
 archetype: Huấn Luyện Sư
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Huấn Luyện Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Loa Chiến Hào
 hantu: 螺戰號
 archetype: Hiệu Lệnh Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Hiệu Lệnh Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Thạch Cửu Sơn
 hantu: 石九山
 archetype: Tộc Trưởng
 race: Cự Tộc
+origin: Thiên Trụ
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

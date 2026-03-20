@@ -4,6 +4,13 @@ name: Vũ Sóng Triều
 hantu: 武浪潮
 archetype: Nội Môn
 race: Nhân Tộc
+aliases:
+  - "Chưa có danh hiệu chính thức"
+  - "sư huynh Thanh Lãng gọi "Thằng Nhóc Liều"
+  - "Trần Tiểu Kiếm gọi "Sóng Ngốc"
+origin: Vô Tận Hải
+age: 42
+faction_rank: Đội Trưởng Nội Môn
 avatar: ''
 arcs:
   - arc: 1

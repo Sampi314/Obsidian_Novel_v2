@@ -4,6 +4,8 @@ name: Vu Huyền Nương
 hantu: 巫玄娘
 archetype: Đệ Nhị Phó Tư Tế
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Nhị Phó Tư Tế
 avatar: ''
 arcs:
   - arc: 1

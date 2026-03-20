@@ -4,6 +4,8 @@ name: Hổ Cuồng Phong
 hantu: 虎狂風
 archetype: Thánh Tướng Thứ Nhất
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thánh Tướng Thứ Nhất
 avatar: ''
 arcs:
   - arc: 1

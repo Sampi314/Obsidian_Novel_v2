@@ -4,6 +4,14 @@ name: Lệ Vô Tâm
 hantu: 厲無心
 archetype: Độc Tu
 race: Nhân Tộc
+lingan: Độc Linh Căn (Biến dị từ Mộc-Thủy)
+dao_tam: Dĩ Độc Nhập Đạo
+aliases:
+  - "Vạn Độc Thánh Tử (萬毒聖子)"
+  - "Huyết Thủ Thư Sinh (血手書生)"
+  - "Lệ Hữu Tâm (厲有心)"
+age: 28
+faction_rank: Đại để tử chân truyền của Vạn Độc Môn (Thánh Tử)
 avatar: Lệ_Vô_Tâm.png
 arcs:
   - arc: 1

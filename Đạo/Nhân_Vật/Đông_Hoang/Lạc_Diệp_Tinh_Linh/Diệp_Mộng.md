@@ -4,6 +4,8 @@ name: Diệp Mộng
 hantu: 叶夢
 archetype: Mộng Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Mộng Sư
 avatar: ''
 arcs:
   - arc: 1

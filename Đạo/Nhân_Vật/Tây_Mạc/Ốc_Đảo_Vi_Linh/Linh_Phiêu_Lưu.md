@@ -4,6 +4,9 @@ name: Linh Phiêu Lưu
 hantu: 靈漂流
 archetype: Thương Nhân Nước
 race: Vi Tộc
+dao_tam: Lưu Thủy Bất Tranh
+origin: Tây Mạc
+faction_rank: Thương Nhân Nước
 avatar: ''
 arcs:
   - arc: 1

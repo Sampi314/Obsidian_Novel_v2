@@ -4,6 +4,13 @@ name: Thạch Nhu Nhi
 hantu: 石柔儿
 archetype: Quản Sự
 race: Hỗn huyết (Cự Tộc, Nhân Tộc)
+lingan: Thổ - Mộc song linh căn, thiên lệch Mộc
+dao_tam: Nuôi sống một ngày là thêm một ngày hy vọng
+aliases:
+  - "Nhu Nương" (柔娘)"
+origin: Bắc Băng — vùng tundra đóng băng vĩnh cửu
+age: 26
+faction_rank: Quản Sự Chăn Nuôi
 avatar: ''
 arcs:
   - arc: 1

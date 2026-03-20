@@ -4,6 +4,8 @@ name: Sở Lăng Sương
 hantu: 楚凌霜
 archetype: Kiếm Tu
 race: Nhân Tộc
+dao_tam: Kiếm Tâm Thông Minh
+age: 19
 avatar: Sở_Lăng_Sương.png
 arcs:
   - arc: 1

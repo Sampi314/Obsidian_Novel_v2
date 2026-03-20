@@ -4,6 +4,8 @@ name: Khuẩn Thiên Mục
 hantu: 菌千目
 archetype: Trinh Sát
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

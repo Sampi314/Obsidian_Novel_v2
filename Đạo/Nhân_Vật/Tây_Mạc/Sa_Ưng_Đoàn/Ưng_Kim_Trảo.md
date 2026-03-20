@@ -4,6 +4,13 @@ name: Ưng Kim Trảo
 hantu: 鷹金爪
 archetype: Thợ Săn Trưởng
 race: Vũ Tộc
+dao_tam: Nhất Kích Tất Sát
+aliases:
+  - "Kim Nhãn Liệp Thủ (金眼獵手"
+  - "Nhất Trảo Phong Hầu (一爪封喉"
+origin: Tây Mạc
+age: 187
+faction_rank: Thợ Săn Trưởng (獵頭) của Sa Ưng Đoàn
 avatar: ''
 arcs:
   - arc: 1

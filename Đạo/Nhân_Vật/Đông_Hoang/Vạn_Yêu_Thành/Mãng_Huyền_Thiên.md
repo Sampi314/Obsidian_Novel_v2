@@ -4,6 +4,8 @@ name: Mãng Huyền Thiên
 hantu: 蟒玄天
 archetype: Tay Chân Mãng Lục
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Tay Chân Mãng Lục
 avatar: ''
 arcs:
   - arc: 1

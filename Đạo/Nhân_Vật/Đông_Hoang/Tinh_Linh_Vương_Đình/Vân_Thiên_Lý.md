@@ -4,6 +4,8 @@ name: Vân Thiên Lý
 hantu: 雲千里
 archetype: Truyền Tin Sứ
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Truyền Tin Sứ
 avatar: ''
 arcs:
   - arc: 1

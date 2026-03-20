@@ -4,6 +4,8 @@ name: Thạch Sa
 hantu: 石沙
 archetype: Trinh Sát Trưởng
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Trinh Sát Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Tinh Hà
 hantu: 星河
 archetype: Lâu Chủ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Lâu Chủ
 avatar: ''
 arcs:
   - arc: 1

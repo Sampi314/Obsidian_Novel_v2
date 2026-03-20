@@ -4,6 +4,8 @@ name: Viên Bá Thiên
 hantu: 猿霸天
 archetype: Thánh Tướng Thứ Sáu
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thánh Tướng Thứ Sáu
 avatar: ''
 arcs:
   - arc: 1

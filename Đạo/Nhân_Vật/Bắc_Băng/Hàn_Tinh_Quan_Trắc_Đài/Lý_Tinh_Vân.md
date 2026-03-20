@@ -4,6 +4,9 @@ name: Lý Tinh Vân
 hantu: 李星云
 archetype: Giáo Sư
 race: Nhân Tộc
+dao_tam: Số không biết nói dối — nhưng người tính có thể sai. Kiểm tra lại, luôn luôn kiểm tra lại
+origin: Bắc Băng
+faction_rank: Giáo Sư Thiên Văn
 avatar: ''
 arcs:
   - arc: 1

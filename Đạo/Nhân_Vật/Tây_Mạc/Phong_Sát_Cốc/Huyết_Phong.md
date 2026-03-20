@@ -4,6 +4,8 @@ name: Huyết Phong
 hantu: 血风
 archetype: Hộ Pháp
 race: Yêu Tộc
+origin: Tây Mạc
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

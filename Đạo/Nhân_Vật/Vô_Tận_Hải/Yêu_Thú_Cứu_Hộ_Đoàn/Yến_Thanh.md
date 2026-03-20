@@ -4,6 +4,9 @@ name: Yến Thanh
 hantu: 燕清
 archetype: Phó Đoàn
 race: Yêu Tộc (Yến Yêu)
+aliases:
+  - "Thiên Lý Nhãn (千里眼)"
+faction_rank: Phó Đoàn Trưởng kiêm Trinh Sát Trưởng của Yêu Thú Cứu Hộ Đoàn. Đôi mắt và đôi cánh của toàn đoàn. Người phát hiện phần lớn các linh thú bị thương trước khi quá muộn
 avatar: ''
 arcs:
   - arc: 1

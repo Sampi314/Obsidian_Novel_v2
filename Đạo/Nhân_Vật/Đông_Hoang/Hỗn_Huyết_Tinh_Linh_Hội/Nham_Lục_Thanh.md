@@ -4,6 +4,8 @@ name: Nham Lục Thanh
 hantu: 岩綠青
 archetype: Chiến Sĩ
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

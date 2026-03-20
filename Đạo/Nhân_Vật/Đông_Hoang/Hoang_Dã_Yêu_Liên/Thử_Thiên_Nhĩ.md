@@ -4,6 +4,8 @@ name: Thử Thiên Nhĩ
 hantu: 鼠千耳
 archetype: Thử Đội Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thử Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

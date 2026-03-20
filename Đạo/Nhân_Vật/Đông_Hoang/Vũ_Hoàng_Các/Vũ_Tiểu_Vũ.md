@@ -4,6 +4,8 @@ name: Vũ Tiểu Vũ
 hantu: 羽小羽
 archetype: Thường Dân
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Thường Dân
 avatar: ''
 arcs:
   - arc: 1

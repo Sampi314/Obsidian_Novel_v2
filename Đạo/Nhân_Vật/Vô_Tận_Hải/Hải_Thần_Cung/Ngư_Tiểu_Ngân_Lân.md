@@ -4,6 +4,8 @@ name: Ngư Tiểu Ngân Lân
 hantu: 魚小銀鱗
 archetype: Tiểu Hầu
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Tiểu Hầu
 avatar: ''
 arcs:
   - arc: 1

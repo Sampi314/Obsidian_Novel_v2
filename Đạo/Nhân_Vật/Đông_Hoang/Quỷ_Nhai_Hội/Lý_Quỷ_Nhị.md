@@ -4,6 +4,8 @@ name: Lý Quỷ Nhị
 hantu: 李鬼二
 archetype: Quỷ Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Quỷ Chủ
 avatar: ''
 arcs:
   - arc: 1

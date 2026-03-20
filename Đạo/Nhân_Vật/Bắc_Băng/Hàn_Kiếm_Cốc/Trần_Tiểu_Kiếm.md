@@ -4,6 +4,9 @@ name: Trần Tiểu Kiếm
 hantu: 陈小剑
 archetype: Ngoại Môn
 race: Nhân Tộc
+dao_tam: Lão Mộc, ngày nào mình cũng mài cho ông sắc hơn hôm qua — ông phải đợi mình nhé
+origin: Bắc Băng
+faction_rank: Ngoại Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Linh Lân Quang
 hantu: 靈鱗光
 archetype: Mồi Sáng Viên
 race: Vi Tộc
+dao_tam: Quang Minh Tại Thâm Uyên
+origin: Vô Tận Hải
+faction_rank: Mồi Sáng Viên
 avatar: ''
 arcs:
   - arc: 1

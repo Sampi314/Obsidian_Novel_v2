@@ -4,6 +4,9 @@ name: Cảnh Thiên Minh
 hantu: 景天明
 archetype: Đài Chủ / Kính Lão
 race: Nhân Tộc
+dao_tam: Minh Kính Chỉ Thủy
+origin: Thiên Trụ
+faction_rank: Đài Chủ / Kính Lão
 avatar: ''
 arcs:
   - arc: 1

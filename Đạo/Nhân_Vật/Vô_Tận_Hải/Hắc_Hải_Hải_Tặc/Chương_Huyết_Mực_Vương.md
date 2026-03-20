@@ -4,6 +4,8 @@ name: Chương Huyết Mực Vương
 hantu: 章血墨王
 archetype: Tra Tấn Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Tra Tấn Sư
 avatar: ''
 arcs:
   - arc: 1

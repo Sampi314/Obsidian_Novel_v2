@@ -4,6 +4,14 @@ name: Quang Ảnh Tử
 hantu: 光影子
 archetype: Mật Thám
 race: Băng Tộc
+lingan: Quang Hệ Trung Phẩm Linh Căn (光系中品灵根)
+dao_tam: Quang Ảnh Nhất Thể
+aliases:
+  - "Vô Ảnh (无影 — "Không Bóng")"
+  - "Quang Trung Ma (光中魔"
+origin: Bắc Băng — hoạt động khắp nơi, không có vị trí cố định
+age: 130
+faction_rank: Thủ Lĩnh Chấp Đạo Đội (执道队首领)
 avatar: ''
 arcs:
   - arc: 1

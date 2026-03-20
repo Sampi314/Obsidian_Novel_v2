@@ -4,6 +4,8 @@ name: Nguyễn Vạn Thi
 hantu: 阮萬屍
 archetype: Trưởng Lão Thi Khôi Đội
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Thi Khôi Đội
 avatar: ''
 arcs:
   - arc: 1

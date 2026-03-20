@@ -4,6 +4,15 @@ name: Tằm Thiên Trùng
 hantu: 蠶千重
 archetype: Trưởng Lão Kén
 race: Vi Tộc
+dao_tam: Kén không cần đẹp. Kén cần đủ dày
+aliases:
+  - "Ngàn Lớp" (千層)"
+  - "Lão Gấu Tằm" (老熊蠶)"
+  - "chậm chạp"
+  - "và hay càu nhàu"
+origin: Bắc Băng — Hang Tằm Vạn Năm, Trùng Động (hang rộng nhất, chứa kén dự trữ)
+age: 800
+faction_rank: Trưởng Lão Kén — phụ trách kén bảo hộ quy mô lớn
 avatar: ''
 arcs:
   - arc: 1

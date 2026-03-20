@@ -4,6 +4,8 @@ name: Giải Cổ Giáp Vương
 hantu: 蟹古甲王
 archetype: Ẩn Sĩ
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Ẩn Sĩ
 avatar: ''
 arcs:
   - arc: 1

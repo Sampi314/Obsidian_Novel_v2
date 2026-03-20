@@ -4,6 +4,8 @@ name: Giải Thiết Quyền
 hantu: 蟹鐵拳
 archetype: Đấu Sĩ
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đấu Sĩ
 avatar: ''
 arcs:
   - arc: 1

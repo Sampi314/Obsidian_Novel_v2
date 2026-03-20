@@ -4,6 +4,9 @@ name: Tàn Nham
 hantu: 残岩
 archetype: Hội Trưởng
 race: Thạch Tộc
+dao_tam: Vạn Thạch Giai Hữu Ngữ
+origin: Tây Mạc
+faction_rank: Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

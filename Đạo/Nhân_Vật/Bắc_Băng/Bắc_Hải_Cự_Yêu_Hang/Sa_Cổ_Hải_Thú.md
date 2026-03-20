@@ -4,6 +4,9 @@ name: Sa Cổ Hải Thú
 hantu: 鯊古海獸
 archetype: Cự Ngư
 race: Hải Tộc
+origin: Bắc Băng
+age: 7
+faction_rank: Cự Ngư
 avatar: ''
 arcs:
   - arc: 1

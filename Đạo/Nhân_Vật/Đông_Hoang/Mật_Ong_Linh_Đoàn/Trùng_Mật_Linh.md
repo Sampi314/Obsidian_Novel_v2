@@ -4,6 +4,8 @@ name: Trùng Mật Linh
 hantu: 蟲蜜靈
 archetype: Ong Hậu
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Ong Hậu
 avatar: ''
 arcs:
   - arc: 1

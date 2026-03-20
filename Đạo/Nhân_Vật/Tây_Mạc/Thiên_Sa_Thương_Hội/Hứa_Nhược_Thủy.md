@@ -4,6 +4,8 @@ name: Hứa Nhược Thủy
 hantu: 许若水
 archetype: Gia Chủ Sa Dược
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Gia Chủ Sa Dược
 avatar: ''
 arcs:
   - arc: 1

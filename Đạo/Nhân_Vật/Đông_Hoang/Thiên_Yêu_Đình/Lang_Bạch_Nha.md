@@ -4,6 +4,8 @@ name: Lang Bạch Nha
 hantu: 狼白牙
 archetype: Lang Chiến Sĩ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Lang Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

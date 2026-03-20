@@ -4,6 +4,8 @@ name: Phạm Giải Độc
 hantu: 范解毒
 archetype: Dược Sư
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

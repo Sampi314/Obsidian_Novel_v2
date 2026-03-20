@@ -4,6 +4,8 @@ name: Loan Thanh Hà
 hantu: 鸞青荷
 archetype: Nữ Chiến Sĩ
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Nữ Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

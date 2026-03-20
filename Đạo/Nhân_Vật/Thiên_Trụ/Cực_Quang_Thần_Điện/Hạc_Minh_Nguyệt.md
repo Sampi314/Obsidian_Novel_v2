@@ -4,6 +4,8 @@ name: Hạc Minh Nguyệt
 hantu: 鶴鳴月
 archetype: Nhạc Sĩ
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Nhạc Sĩ
 avatar: ''
 arcs:
   - arc: 1

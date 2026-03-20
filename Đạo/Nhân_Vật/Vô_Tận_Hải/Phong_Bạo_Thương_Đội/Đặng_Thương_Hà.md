@@ -4,6 +4,8 @@ name: Đặng Thương Hà
 hantu: 邓商荷
 archetype: Thương Nhân
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Đại Chưởng Quỹ
 avatar: ''
 arcs:
   - arc: 1

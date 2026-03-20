@@ -4,6 +4,14 @@ name: Quạ Huyết Dực Ma
 hantu: 鴉血翼魔
 archetype: Sát Thủ Đội Trưởng
 race: Vũ Tộc
+lingan: Song linh căn
+dao_tam: Máu rửa sạch máu. Không có gì khác
+aliases:
+  - "Hồng Nguyệt" (紅月)"
+  - "khiến tu giới Bắc Băng gọi hắn là hiện thân của trăng đỏ chết chóc"
+origin: Thiên Trụ — Bắc Băng
+age: 187
+faction_rank: Sát Thủ Đội Trưởng (殺手隊長)
 avatar: ''
 arcs:
   - arc: 1

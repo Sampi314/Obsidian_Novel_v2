@@ -4,6 +4,8 @@ name: Giao Thanh Hà Vũ
 hantu: 鲛清河雨
 archetype: Thợ Rèn
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Thợ Rèn
 avatar: ''
 arcs:
   - arc: 1

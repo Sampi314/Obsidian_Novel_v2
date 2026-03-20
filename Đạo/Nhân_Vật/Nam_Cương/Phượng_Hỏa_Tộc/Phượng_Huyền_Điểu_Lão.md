@@ -4,6 +4,8 @@ name: Phượng Huyền Điểu Lão
 hantu: 鳳玄鳥老
 archetype: Trưởng Lão
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

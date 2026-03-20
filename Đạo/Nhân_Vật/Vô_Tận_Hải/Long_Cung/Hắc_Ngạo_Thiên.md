@@ -4,6 +4,8 @@ name: Hắc Ngạo Thiên
 hantu: 黑傲天
 archetype: Thái Tử Đông Hải
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Thái Tử Đông Hải
 avatar: ''
 arcs:
   - arc: 1

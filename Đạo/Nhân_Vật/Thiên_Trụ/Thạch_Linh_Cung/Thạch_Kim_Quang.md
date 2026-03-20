@@ -4,6 +4,11 @@ name: Thạch Kim Quang
 hantu: 石金光
 archetype: Đệ Nhị Hỏa Sư
 race: Thạch Tộc
+aliases:
+  - "Kim Thủ" (金手) — Bàn Tay Vàng"
+  - "do giới tu sĩ giàu có đặt cho vì kỹ thuật khảm nạm bậc thầy"
+origin: Thiên Trụ
+faction_rank: Đệ Nhị Hỏa Sư — phụ trách bộ phận khảm nạm nội đan
 avatar: ''
 arcs:
   - arc: 1

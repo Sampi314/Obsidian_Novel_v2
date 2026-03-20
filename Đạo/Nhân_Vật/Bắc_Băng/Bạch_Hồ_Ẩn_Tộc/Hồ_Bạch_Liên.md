@@ -4,6 +4,14 @@ name: Hồ Bạch Liên
 hantu: 狐白莲
 archetype: Tộc Trưởng
 race: Yêu Tộc
+dao_tam: Ẩn Thế Hộ Tộc
+aliases:
+  - "Sương Mù Phu Nhân (霧夫人)"
+  - "Bạch Liên Lão Nương (白莲老娘)"
+  - "tưởng bà chỉ là một bà lão bán cá hiền hậu"
+origin: Bắc Băng
+age: 347
+faction_rank: Tộc Trưởng (族长) của Bạch Hồ Ẩn Tộc
 avatar: ''
 arcs:
   - arc: 1

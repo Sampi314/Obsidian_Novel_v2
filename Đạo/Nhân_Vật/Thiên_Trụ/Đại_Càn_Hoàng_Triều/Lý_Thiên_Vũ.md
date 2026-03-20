@@ -4,6 +4,8 @@ name: Lý Thiên Vũ
 hantu: 李天武
 archetype: Càn Đế
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Càn Đế
 avatar: ''
 arcs:
   - arc: 1

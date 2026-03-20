@@ -4,6 +4,9 @@ name: Linh Thủy Nguyệt
 hantu: 靈水月
 archetype: Tế Tư Thủy Nguyên
 race: Vi Tộc
+dao_tam: Nước chảy theo đường thấp nhất — không phải vì lười, mà vì đó là con đường duy nhất đúng
+origin: Tây Mạc
+faction_rank: Tế Tư Thủy Nguyên
 avatar: ''
 arcs:
   - arc: 1

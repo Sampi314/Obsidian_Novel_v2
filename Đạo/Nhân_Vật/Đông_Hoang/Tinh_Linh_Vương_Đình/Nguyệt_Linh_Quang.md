@@ -4,6 +4,8 @@ name: Nguyệt Linh Quang
 hantu: 月靈光
 archetype: Đại Tế Tư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Đại Tế Tư
 avatar: ''
 arcs:
   - arc: 1

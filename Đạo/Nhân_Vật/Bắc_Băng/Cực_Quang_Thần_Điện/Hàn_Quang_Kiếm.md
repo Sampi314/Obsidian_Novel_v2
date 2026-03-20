@@ -4,6 +4,14 @@ name: Hàn Quang Kiếm
 hantu: 寒光剑
 archetype: Hiệp Sĩ
 race: Băng Tộc
+lingan: Băng Quang Song Linh Căn (冰光双灵根)
+dao_tam: Nhất Kiếm Phá Vạn
+aliases:
+  - "Tiểu Băng Kích (小冰戟"
+  - "Tốc Kiếm (速剑 — "Kiếm Nhanh")"
+origin: Bắc Băng — biên giới phía nam
+age: 45
+faction_rank: Hiệp Sĩ Băng Lăng (冰棱骑士)
 avatar: ''
 arcs:
   - arc: 1

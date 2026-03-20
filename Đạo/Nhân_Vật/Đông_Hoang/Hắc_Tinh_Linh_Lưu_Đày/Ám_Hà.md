@@ -4,6 +4,8 @@ name: Ám Hà
 hantu: 暗河
 archetype: Dẫn Đường
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Dẫn Đường
 avatar: ''
 arcs:
   - arc: 1

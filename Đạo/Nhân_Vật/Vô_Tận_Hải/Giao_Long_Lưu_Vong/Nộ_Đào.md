@@ -4,6 +4,8 @@ name: Nộ Đào
 hantu: 怒濤
 archetype: Chiến Sĩ
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

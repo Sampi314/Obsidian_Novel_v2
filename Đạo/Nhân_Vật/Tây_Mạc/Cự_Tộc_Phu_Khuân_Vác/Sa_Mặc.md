@@ -4,6 +4,12 @@ name: Sa Mặc
 hantu: 沙默
 archetype: Phu Khuân Vác
 race: Cự Tộc
+dao_tam: Mặc Nhiên Đạo
+aliases:
+  - "Gã Câm (啞巨人)"
+  - "Bóng Đêm Khuân Hàng (夜影搬工)"
+origin: Tây Mạc — Thiên Sa Thương Đạo
+faction_rank: Phu khuân vác bình thường trong Cự Tộc Phu Khuân Vác. Không chức vụ, không tổ trưởng, chỉ là một trong sáu mươi gã vác hàng
 avatar: ''
 arcs:
   - arc: 1

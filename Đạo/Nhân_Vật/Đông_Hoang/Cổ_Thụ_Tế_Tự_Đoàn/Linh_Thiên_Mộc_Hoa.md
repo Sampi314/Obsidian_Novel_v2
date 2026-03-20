@@ -4,6 +4,8 @@ name: Linh Thiên Mộc Hoa
 hantu: 靈天木花
 archetype: Đại Tế Tư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Đại Tế Tư
 avatar: ''
 arcs:
   - arc: 1

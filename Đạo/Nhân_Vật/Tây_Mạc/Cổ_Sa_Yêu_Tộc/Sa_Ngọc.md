@@ -4,6 +4,9 @@ name: Sa Ngọc
 hantu: 沙玉
 archetype: Dược Sư
 race: Yêu Tộc
+dao_tam: Vạn Dược Tại Cát
+origin: Tây Mạc
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

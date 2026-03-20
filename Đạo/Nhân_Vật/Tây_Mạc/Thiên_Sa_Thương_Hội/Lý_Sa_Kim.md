@@ -4,6 +4,9 @@ name: Lý Sa Kim
 hantu: 李沙金
 archetype: Tổng Quản Thương Phường
 race: Nhân Tộc
+dao_tam: Kim Sa Hóa Đạo
+origin: Tây Mạc
+faction_rank: Tổng Quản Thương Phường
 avatar: ''
 arcs:
   - arc: 1

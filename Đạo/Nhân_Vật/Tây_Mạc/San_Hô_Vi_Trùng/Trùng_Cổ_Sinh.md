@@ -4,6 +4,8 @@ name: Trùng Cổ Sinh
 hantu: 虫古生
 archetype: Vi Trùng Cổ Đại
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Vi Trùng Cổ Đại
 avatar: ''
 arcs:
   - arc: 1

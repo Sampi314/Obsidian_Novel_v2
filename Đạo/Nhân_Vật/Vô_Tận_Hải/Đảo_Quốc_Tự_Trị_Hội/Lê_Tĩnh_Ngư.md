@@ -4,6 +4,8 @@ name: Lê Tĩnh Ngư
 hantu: 黎静渔
 archetype: Dân Binh Trưởng
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Dân Binh Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trương Văn Hàn
 hantu: 張文翰
 archetype: Hàn Lâm Học Sĩ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Hàn Lâm Học Sĩ
 avatar: ''
 arcs:
   - arc: 1

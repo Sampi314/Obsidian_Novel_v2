@@ -4,6 +4,9 @@ name: Ngư Thiên Vạn Lý
 hantu: 魚千萬里
 archetype: Truyền Tin Sứ
 race: Hải Tộc
+dao_tam: Tin đến nơi — ta còn sống. Tin không đến — ta đã chết trên đường
+origin: Vô Tận Hải
+faction_rank: Truyền Tin Sứ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,12 @@ name: Ưng Bạch Đế
 hantu: 鷹白帝
 archetype: Tộc Trưởng
 race: Vũ Tộc
+dao_tam: Thiên Ưng Hộ Sào
+aliases:
+  - "Bạch Đế Thiên Ưng (白帝天鷹"
+  - "Băng Thiên Vương (冰天王 — "Vua Trời Băng")"
+origin: Bắc Băng
+faction_rank: Tộc Trưởng (族長) đời thứ mười ba của Hàn Ưng Bộ Lạc
 avatar: ''
 arcs:
   - arc: 1

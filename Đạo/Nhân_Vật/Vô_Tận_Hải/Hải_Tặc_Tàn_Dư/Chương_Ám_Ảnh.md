@@ -4,6 +4,8 @@ name: Chương Ám Ảnh
 hantu: 章暗影
 archetype: Gián Điệp
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Gián Điệp
 avatar: ''
 arcs:
   - arc: 1

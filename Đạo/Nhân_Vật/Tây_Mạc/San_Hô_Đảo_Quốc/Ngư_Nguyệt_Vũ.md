@@ -4,6 +4,9 @@ name: Ngư Nguyệt Vũ
 hantu: 魚月舞
 archetype: Vũ Sư
 race: Hải Tộc
+dao_tam: Nguyệt Ảnh Vô Hình
+origin: Tây Mạc
+faction_rank: Vũ Sư
 avatar: ''
 arcs:
   - arc: 1

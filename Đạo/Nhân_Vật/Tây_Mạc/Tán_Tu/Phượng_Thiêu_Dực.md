@@ -4,6 +4,8 @@ name: Phượng Thiêu Dực
 hantu: 鳳燒翼
 archetype: Chiến Sĩ
 race: Vũ Tộc
+origin: Tây Mạc
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

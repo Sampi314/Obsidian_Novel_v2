@@ -4,6 +4,9 @@ name: Nham Cốt
 hantu: 岩骨
 archetype: Tế Tư
 race: Thạch Tộc
+dao_tam: Thạch Bất Khả Di
+origin: Tây Mạc
+faction_rank: Tế Tư
 avatar: ''
 arcs:
   - arc: 1

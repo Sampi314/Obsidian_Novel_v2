@@ -4,6 +4,9 @@ name: Lý Tiểu Liên
 hantu: 李小莲
 archetype: Dược Sư
 race: Nhân Tộc
+dao_tam: không để ai trong phường phải chịu đau ốm
+origin: Bắc Băng
+faction_rank: Dược Sư Học Việc
 avatar: ''
 arcs:
   - arc: 1

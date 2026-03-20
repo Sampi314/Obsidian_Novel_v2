@@ -4,6 +4,8 @@ name: Ám Thiên Dạ Hành
 hantu: 暗天夜行
 archetype: Mưu Sĩ
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Mưu Sĩ
 avatar: ''
 arcs:
   - arc: 1

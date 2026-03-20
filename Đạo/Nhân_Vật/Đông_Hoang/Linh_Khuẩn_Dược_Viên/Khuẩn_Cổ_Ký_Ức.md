@@ -4,6 +4,8 @@ name: Khuẩn Cổ Ký Ức
 hantu: 菌古記憶
 archetype: Ký Ức Thể
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Ký Ức Thể
 avatar: ''
 arcs:
   - arc: 1

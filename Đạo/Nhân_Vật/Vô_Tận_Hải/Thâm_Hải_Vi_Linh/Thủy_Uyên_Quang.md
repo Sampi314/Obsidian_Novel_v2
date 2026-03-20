@@ -4,6 +4,9 @@ name: Thủy Uyên Quang
 hantu: 水淵光
 archetype: Phát Quang Thể
 race: Hải Tộc
+dao_tam: Chiếu Rọi Bất Tận
+origin: Vô Tận Hải
+faction_rank: Phát Quang Thể
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hồ Kim Sa
 hantu: 狐金沙
 archetype: Thương Nhân Giả
 race: Yêu Tộc
+origin: Tây Mạc
+faction_rank: Thương Nhân Giả
 avatar: ''
 arcs:
   - arc: 1

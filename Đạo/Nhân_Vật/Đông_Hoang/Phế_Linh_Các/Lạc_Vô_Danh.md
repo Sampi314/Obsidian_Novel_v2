@@ -4,6 +4,8 @@ name: Lạc Vô Danh
 hantu: 洛無名
 archetype: Các Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Các Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trùng Kim Ti
 hantu: 蟲金絲
 archetype: Thợ Dệt Trưởng
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Thợ Dệt Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Oanh Hoàng Kim
 hantu: 鶯黃金
 archetype: Ca Sĩ
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Ca Sĩ
 avatar: ''
 arcs:
   - arc: 1

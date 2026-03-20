@@ -4,6 +4,8 @@ name: Mộ Dung Chiến
 hantu: 慕容戰
 archetype: Thần Sách Đại Tướng
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Thần Sách Đại Tướng
 avatar: ''
 arcs:
   - arc: 1

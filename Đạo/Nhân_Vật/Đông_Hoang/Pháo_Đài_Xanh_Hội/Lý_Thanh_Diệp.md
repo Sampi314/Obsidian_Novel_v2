@@ -4,6 +4,8 @@ name: Lý Thanh Diệp
 hantu: 李青葉
 archetype: Phó Đoàn Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

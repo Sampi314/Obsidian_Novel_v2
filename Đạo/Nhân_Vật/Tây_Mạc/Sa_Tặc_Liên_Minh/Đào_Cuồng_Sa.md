@@ -4,6 +4,8 @@ name: Đào Cuồng Sa
 hantu: 陶狂沙
 archetype: Phó Minh Chủ
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Phó Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

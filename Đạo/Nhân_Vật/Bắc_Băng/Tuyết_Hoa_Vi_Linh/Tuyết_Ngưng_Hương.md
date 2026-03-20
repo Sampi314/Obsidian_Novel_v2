@@ -4,6 +4,8 @@ name: Tuyết Ngưng Hương
 hantu: 雪凝香
 archetype: Hương Liệu Sư
 race: Vi Tộc
+origin: Bắc Băng
+faction_rank: Hương Liệu Sư — chuyên gia chiết xuất
 avatar: ''
 arcs:
   - arc: 1

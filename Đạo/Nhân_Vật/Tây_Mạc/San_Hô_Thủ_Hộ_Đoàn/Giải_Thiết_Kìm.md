@@ -4,6 +4,8 @@ name: Giải Thiết Kìm
 hantu: 蟹鐵鉗
 archetype: Chiến Sĩ
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

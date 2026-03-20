@@ -4,6 +4,8 @@ name: Phạm Linh Ưng
 hantu: 范靈鷹
 archetype: Hộ Pháp
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

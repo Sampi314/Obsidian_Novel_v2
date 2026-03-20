@@ -4,6 +4,9 @@ name: Trùng Độc Hành
 hantu: 蟲獨行
 archetype: Sát Thủ Đơn Độc
 race: Vi Tộc
+dao_tam: Một Kích Tất Sát
+origin: Tây Mạc
+faction_rank: Sát Thủ Đơn Độc
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hổ Liệt Diễm
 hantu: 虎烈焰
 archetype: Hỏa Hổ Bộ Lạc Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Hỏa Hổ Bộ Lạc Trưởng
 avatar: ''
 arcs:
   - arc: 1

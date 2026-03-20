@@ -4,6 +4,8 @@ name: Công Diệu Thủ
 hantu: 孔妙手
 archetype: Thợ Thủ Công
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Thợ Thủ Công
 avatar: ''
 arcs:
   - arc: 1

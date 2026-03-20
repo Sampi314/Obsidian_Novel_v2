@@ -4,6 +4,9 @@ name: Nhím Khoai Nhi
 hantu: 刺球儿
 archetype: Thành Viên
 race: Yêu Tộc
+aliases:
+  - "Không có. Quá nhỏ và quá yếu để ai đặt danh hiệu"
+faction_rank: Thành viên nhỏ tuổi nhất
 avatar: ''
 arcs:
   - arc: 1

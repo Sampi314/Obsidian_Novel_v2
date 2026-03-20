@@ -4,6 +4,13 @@ name: Khuẩn Tuyết Liên
 hantu: 菌雪蓮
 archetype: Dược Sư Băng
 race: Vi Tộc
+dao_tam: Chữa một bào tử là cứu một nhánh ánh sáng. Đủ nhiều nhánh, mạng lưới sẽ không bao giờ tắt
+aliases:
+  - "Dược Sư" (藥師)"
+  - "vì hắn luôn kèm theo lời quở trách khi chữa bệnh"
+origin: Bắc Băng
+age: 3
+faction_rank: Dược Sư Tổng Quản
 avatar: ''
 arcs:
   - arc: 1

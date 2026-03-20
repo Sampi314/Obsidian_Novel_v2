@@ -4,6 +4,8 @@ name: Trần Huyết Ảnh
 hantu: 陳血影
 archetype: Tả Sứ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Tả Sứ
 avatar: ''
 arcs:
   - arc: 1

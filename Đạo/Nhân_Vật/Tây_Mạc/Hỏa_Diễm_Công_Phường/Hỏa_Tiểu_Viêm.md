@@ -4,6 +4,8 @@ name: Hỏa Tiểu Viêm
 hantu: 火小炎
 archetype: Học Việc
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Học Việc
 avatar: ''
 arcs:
   - arc: 1

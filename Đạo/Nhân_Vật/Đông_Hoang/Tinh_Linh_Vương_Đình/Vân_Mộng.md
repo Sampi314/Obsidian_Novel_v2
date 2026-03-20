@@ -4,6 +4,8 @@ name: Vân Mộng
 hantu: 雲夢
 archetype: Mộng Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Mộng Sư
 avatar: ''
 arcs:
   - arc: 1

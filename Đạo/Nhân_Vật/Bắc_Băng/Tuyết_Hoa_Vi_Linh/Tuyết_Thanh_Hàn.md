@@ -4,6 +4,8 @@ name: Tuyết Thanh Hàn
 hantu: 雪清寒
 archetype: Hộ Vệ Hoa Linh
 race: Vi Tộc
+origin: Bắc Băng
+faction_rank: Hộ Vệ Hoa Linh — bảo vệ vườn tuyết hoa linh
 avatar: ''
 arcs:
   - arc: 1

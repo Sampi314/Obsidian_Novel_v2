@@ -4,6 +4,8 @@ name: Sương Nô Vương
 hantu: 霜奴王
 archetype: Băng Nô Thủ Lĩnh
 race: Băng Tộc
+origin: Bắc Băng
+faction_rank: Thống Lĩnh Băng Nô
 avatar: ''
 arcs:
   - arc: 1

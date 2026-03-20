@@ -4,6 +4,15 @@ name: Bào Tiểu Đông
 hantu: 孢小冬
 archetype: Đệ Tử Truyền Tin
 race: Vi Tộc
+dao_tam: Ta nhỏ nhưng ta có thể lớn. Chỉ cần cho ta thời gian
+aliases:
+  - "Bông Tuyết Nhỏ" (小雪花)"
+  - "nhỏ nhất"
+  - "và yếu nhất"
+  - "Tiểu Gió" (小風) — Đông Phong đặt cho"
+  - "vì cậu là phiên bản thu nhỏ của sư phụ"
+age: 50
+faction_rank: Đệ Tử Truyền Tin (傳訊弟子) — học trò của Bào Đông Phong
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Vũ Thương Vân
 hantu: 武商云
 archetype: Thương Nhân
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Thương Nhân
 avatar: ''
 arcs:
   - arc: 1

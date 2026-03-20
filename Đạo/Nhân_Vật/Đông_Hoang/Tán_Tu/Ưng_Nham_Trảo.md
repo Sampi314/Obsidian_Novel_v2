@@ -4,6 +4,8 @@ name: Ưng Nham Trảo
 hantu: 鷹岩爪
 archetype: Thợ Săn
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Thợ Săn
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Ưng Liệt
 hantu: 鹰烈
 archetype: Đàn Trưởng
 race: Yêu Tộc
+origin: Bắc Băng
+faction_rank: Đàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

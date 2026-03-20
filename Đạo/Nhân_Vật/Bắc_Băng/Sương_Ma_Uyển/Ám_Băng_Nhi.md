@@ -4,6 +4,8 @@ name: Ám Băng Nhi
 hantu: 暗冰儿
 archetype: Nội Môn
 race: Băng Tộc
+origin: Bắc Băng
+faction_rank: Nội Môn Ma Đồ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lý Hắc Thổ
 hantu: 李黑土
 archetype: Nghệ Nhân
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Nghệ Nhân Cốt Pháp
 avatar: ''
 arcs:
   - arc: 1

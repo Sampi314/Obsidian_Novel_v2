@@ -4,6 +4,8 @@ name: Thạch Thiên Trùy
 hantu: 石天錘
 archetype: Vũ Khí Sư
 race: Cự Tộc
+origin: Thiên Trụ
+faction_rank: Vũ Khí Sư
 avatar: ''
 arcs:
   - arc: 1

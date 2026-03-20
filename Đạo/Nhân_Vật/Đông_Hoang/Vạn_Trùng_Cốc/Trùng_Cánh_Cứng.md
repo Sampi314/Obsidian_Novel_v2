@@ -4,6 +4,8 @@ name: Trùng Cánh Cứng
 hantu: 蟲甲蟲
 archetype: Trùng Tướng
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Trùng Tướng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,11 @@ name: Sơn Thiết Bích
 hantu: 山鐵壁
 archetype: Thợ Xây
 race: Cự Tộc
+dao_tam: Bất Khuất Đạo
+aliases:
+  - "Không có"
+origin: Đông Hoang — ngoại ô thành thị nhân tộc
+faction_rank: Thợ xây thường trong Cự Tộc Thợ Xây. Không chức vụ
 avatar: ''
 arcs:
   - arc: 1

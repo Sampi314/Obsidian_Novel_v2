@@ -4,6 +4,8 @@ name: Linh Nguyệt Hà
 hantu: 靈月河
 archetype: Trưởng Lão Tế Tư
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Trưởng Lão Tế Tư
 avatar: ''
 arcs:
   - arc: 1

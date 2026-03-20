@@ -4,6 +4,8 @@ name: Âm Phong
 hantu: 陰風
 archetype: Đệ Nhị Ma Vương
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Nhị Ma Vương
 avatar: ''
 arcs:
   - arc: 1

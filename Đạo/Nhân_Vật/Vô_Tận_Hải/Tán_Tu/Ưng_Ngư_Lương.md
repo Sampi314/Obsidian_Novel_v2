@@ -4,6 +4,8 @@ name: Ưng Ngư Lương
 hantu: 鷹漁良
 archetype: Thợ Săn
 race: Vũ Tộc
+origin: Vô Tận Hải
+faction_rank: Thợ Săn
 avatar: ''
 arcs:
   - arc: 1

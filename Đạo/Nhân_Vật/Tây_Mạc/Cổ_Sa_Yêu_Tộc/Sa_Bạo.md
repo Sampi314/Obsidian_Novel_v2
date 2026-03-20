@@ -4,6 +4,13 @@ name: Sa Bạo
 hantu: 沙暴
 archetype: Chiến Sĩ
 race: Yêu Tộc
+dao_tam: Kẻ mạnh không phải kẻ sống lâu nhất — mà là kẻ dám bước ra ngoài dù biết có thể chết
+aliases:
+  - "Bạo Tử" (暴子)"
+  - "Sa Mạc Sấm" (沙漠雷)"
+  - "vì y nổi nóng ầm ầm như sấm giữa sa mạc nhưng không giết được ai"
+origin: Tây Mạc — Hoàng Kim Sa Hải, hệ thống hang cổ đại
+faction_rank: Trưởng Lão — thành viên Hội Đồng Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

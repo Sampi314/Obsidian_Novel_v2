@@ -4,6 +4,8 @@ name: Thạch Lôi
 hantu: 石雷
 archetype: Chiến Thạch Thần
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Chiến Thạch Thần
 avatar: ''
 arcs:
   - arc: 1

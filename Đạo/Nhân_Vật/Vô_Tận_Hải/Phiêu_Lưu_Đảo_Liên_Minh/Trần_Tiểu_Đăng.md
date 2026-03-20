@@ -4,6 +4,8 @@ name: Trần Tiểu Đăng
 hantu: 陈小灯
 archetype: Ngư Dân
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Đại Diện Đảo Thứ Mười Ba
 avatar: ''
 arcs:
   - arc: 1

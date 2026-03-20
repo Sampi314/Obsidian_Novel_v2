@@ -4,6 +4,13 @@ name: Cương Thạch Nữ
 hantu: 钢石女
 archetype: Chiến Binh
 race: Cự Tộc
+lingan: Thổ Linh Căn đơn hệ
+dao_tam: Đá không biết đau. Đá chỉ biết đứng vững. Khi đá vỡ — đá vỡ để che cho người đứng sau
+aliases:
+  - "Tường Đá" (石墙)"
+origin: Bắc Băng — di chuyển cùng liên minh giữa các hang băng ven Bắc Hải
+age: 75
+faction_rank: Hộ Vệ Trưởng (đứng đầu đội cận vệ bảo vệ Minh Chủ và hang ổ
 avatar: ''
 arcs:
   - arc: 1

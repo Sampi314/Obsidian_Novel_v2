@@ -4,6 +4,8 @@ name: Ngao Tiểu Lôi
 hantu: 鳌小雷
 archetype: Trợ Giảng
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Trợ Giảng
 avatar: ''
 arcs:
   - arc: 1

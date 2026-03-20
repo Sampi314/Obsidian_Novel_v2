@@ -4,6 +4,8 @@ name: Long Huyết Nhi
 hantu: 龍血兒
 archetype: Hài Nhi Long Huyết
 race: Bán Yêu
+origin: Đông Hoang
+faction_rank: Hài nhi được cả thôn bảo vệ. Long huyết cực kỳ hiếm
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Mạc U Hồn
 hantu: 莫幽魂
 archetype: Đệ Lục Ma Vương
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Lục Ma Vương
 avatar: ''
 arcs:
   - arc: 1

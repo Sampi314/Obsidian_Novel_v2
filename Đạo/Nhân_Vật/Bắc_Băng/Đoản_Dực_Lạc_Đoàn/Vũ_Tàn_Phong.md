@@ -4,6 +4,8 @@ name: Vũ Tàn Phong
 hantu: 羽残风
 archetype: Đoàn Trưởng
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

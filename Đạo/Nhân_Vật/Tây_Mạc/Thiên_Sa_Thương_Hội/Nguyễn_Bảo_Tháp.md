@@ -4,6 +4,9 @@ name: Nguyễn Bảo Tháp
 hantu: 阮宝塔
 archetype: Quản Lý Bảo Tháp
 race: Nhân Tộc
+dao_tam: Thủ Tháp Như Thủ Gia
+origin: Tây Mạc
+faction_rank: Quản Lý Bảo Tháp
 avatar: ''
 arcs:
   - arc: 1

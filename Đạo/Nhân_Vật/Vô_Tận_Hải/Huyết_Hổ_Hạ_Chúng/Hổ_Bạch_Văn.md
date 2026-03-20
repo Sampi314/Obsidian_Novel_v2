@@ -4,6 +4,8 @@ name: Hổ Bạch Văn
 hantu: 虎白紋
 archetype: Hổ Con Đặc Biệt
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Hổ Con Đặc Biệt
 avatar: ''
 arcs:
   - arc: 1

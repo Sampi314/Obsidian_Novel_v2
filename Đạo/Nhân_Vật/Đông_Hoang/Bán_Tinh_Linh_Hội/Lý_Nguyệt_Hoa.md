@@ -4,6 +4,8 @@ name: Lý Nguyệt Hoa
 hantu: 李月花
 archetype: Y Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Y Sư
 avatar: ''
 arcs:
   - arc: 1

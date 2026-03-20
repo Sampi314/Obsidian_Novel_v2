@@ -4,6 +4,8 @@ name: Vân Hải Đồ
 hantu: 云海图
 archetype: Hướng Đạo Sư
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Hướng Đạo Sư Trưởng
 avatar: ''
 arcs:
   - arc: 1

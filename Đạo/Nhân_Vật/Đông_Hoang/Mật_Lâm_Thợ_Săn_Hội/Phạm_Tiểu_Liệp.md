@@ -4,6 +4,8 @@ name: Phạm Tiểu Liệp
 hantu: 范小獵
 archetype: Thợ Săn
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Thợ Săn
 avatar: ''
 arcs:
   - arc: 1

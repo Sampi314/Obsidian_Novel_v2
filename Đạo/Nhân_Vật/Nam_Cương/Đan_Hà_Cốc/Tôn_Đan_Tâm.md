@@ -4,6 +4,8 @@ name: Tôn Đan Tâm
 hantu: 孫丹心
 archetype: Đệ Tam Tháp Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Tam Tháp Chủ
 avatar: ''
 arcs:
   - arc: 1

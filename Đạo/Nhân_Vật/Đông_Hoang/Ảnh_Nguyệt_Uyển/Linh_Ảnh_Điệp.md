@@ -4,6 +4,8 @@ name: Linh Ảnh Điệp
 hantu: 靈影蝶
 archetype: Thất Dạ Sứ
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Thất Dạ Sứ
 avatar: ''
 arcs:
   - arc: 1

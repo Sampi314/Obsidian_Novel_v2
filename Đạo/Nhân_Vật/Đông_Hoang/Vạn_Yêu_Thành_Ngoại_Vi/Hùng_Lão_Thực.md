@@ -4,6 +4,8 @@ name: Hùng Lão Thực
 hantu: 熊老實
 archetype: Phu Khuân Vác
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Phu Khuân Vác
 avatar: ''
 arcs:
   - arc: 1

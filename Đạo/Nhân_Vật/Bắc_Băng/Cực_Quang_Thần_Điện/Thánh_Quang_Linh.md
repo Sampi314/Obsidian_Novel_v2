@@ -4,6 +4,14 @@ name: Thánh Quang Linh
 hantu: 圣光灵
 archetype: Linh Mục
 race: Băng Tộc
+lingan: Quang Hệ Thượng Phẩm Linh Căn (光系上品灵根)
+dao_tam: Quang Minh Phổ Chiếu
+aliases:
+  - "Cuồng Tín Chi Thiệt (狂信之舌 — "Lưỡi Cuồng Tín")"
+  - "Quang Minh Hiền Giả (光明贤者"
+origin: Bắc Băng
+age: 156
+faction_rank: Đại Linh Mục (大灵牧) của Hội Đồng Linh Mục
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,13 @@ name: Lý Thanh Lãng
 hantu: 李清浪
 archetype: Hộ Pháp
 race: Nhân Tộc
+aliases:
+  - "Cuồng Lãng Kiếm Sĩ (狂浪剑士)"
+  - "hải tặc gọi "Sóng Dữ"
+  - "trưởng bối gọi "Thằng Nóng Nảy"
+origin: Vô Tận Hải
+age: 178
+faction_rank: Hộ Pháp Hải Ngự Đoàn
 avatar: ''
 arcs:
   - arc: 1

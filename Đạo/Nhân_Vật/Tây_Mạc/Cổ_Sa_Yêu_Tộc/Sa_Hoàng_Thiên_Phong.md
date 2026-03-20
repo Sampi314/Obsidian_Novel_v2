@@ -4,6 +4,12 @@ name: Sa Hoàng Thiên Phong
 hantu: 沙皇天風
 archetype: Trưởng Lão
 race: Yêu Tộc
+dao_tam: Kẻ nhớ giùm người khác thì không được phép quên. Nhưng kẻ nhớ quá nhiều thì sẽ quên chính mình
+aliases:
+  - "Phong Lão" (風老)"
+  - "Người Kể Chuyện" (述者)"
+origin: Tây Mạc — Hoàng Kim Sa Hải, hệ thống hang cổ đại
+faction_rank: Trưởng Lão — thành viên Hội Đồng Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

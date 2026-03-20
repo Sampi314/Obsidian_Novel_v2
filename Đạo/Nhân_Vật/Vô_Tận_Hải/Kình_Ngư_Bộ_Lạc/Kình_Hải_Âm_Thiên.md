@@ -4,6 +4,8 @@ name: Kình Hải Âm Thiên
 hantu: 鯨海音天
 archetype: Ca Sĩ Bộ Lạc
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Ca Sĩ Bộ Lạc
 avatar: ''
 arcs:
   - arc: 1

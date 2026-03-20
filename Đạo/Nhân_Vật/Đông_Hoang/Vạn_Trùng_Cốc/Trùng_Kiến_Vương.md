@@ -4,6 +4,8 @@ name: Trùng Kiến Vương
 hantu: 蟲蟻王
 archetype: Trùng Binh Trưởng
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Trùng Binh Trưởng
 avatar: ''
 arcs:
   - arc: 1

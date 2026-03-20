@@ -4,6 +4,8 @@ name: Mạch Thiết Cốt
 hantu: 脈鐵骨
 archetype: Thủ Vệ Mỏ
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Thủ Vệ Mỏ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trần Vạn Lý
 hantu: 陳萬里
 archetype: Thuyền Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Thuyền Chủ
 avatar: ''
 arcs:
   - arc: 1

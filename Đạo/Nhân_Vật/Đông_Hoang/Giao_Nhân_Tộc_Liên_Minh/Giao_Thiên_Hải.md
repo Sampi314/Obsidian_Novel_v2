@@ -4,6 +4,8 @@ name: Giao Thiên Hải
 hantu: 鲛天海
 archetype: Minh Chủ
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

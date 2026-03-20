@@ -4,6 +4,8 @@ name: Sơn Ngọa
 hantu: 山臥
 archetype: Trinh Sát
 race: Cự Tộc
+origin: Thiên Trụ
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

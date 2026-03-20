@@ -4,6 +4,13 @@ name: Kình Băng Hải
 hantu: 鯨冰海
 archetype: Bắc Hải Trưởng
 race: Hải Tộc
+dao_tam: Biển nuôi ta, ta nuôi biển
+aliases:
+  - "Phá Băng" (破冰)"
+  - "mở đường cho cả đoàn bơi qua"
+origin: Bắc Băng
+age: 120
+faction_rank: Bắc Hải Trưởng
 avatar: ''
 arcs:
   - arc: 1

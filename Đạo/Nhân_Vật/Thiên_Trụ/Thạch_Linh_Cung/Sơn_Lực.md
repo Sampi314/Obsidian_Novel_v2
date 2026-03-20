@@ -4,6 +4,8 @@ name: Sơn Lực
 hantu: 山力
 archetype: Nội Môn Đệ Tử
 race: Lai Cự Tộc
+origin: Thiên Trụ
+faction_rank: Nội Môn Đệ Tử — đang trong giai đoạn học việc
 avatar: ''
 arcs:
   - arc: 1

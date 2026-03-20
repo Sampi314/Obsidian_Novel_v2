@@ -4,6 +4,9 @@ name: Bào Lục Quang Thiên
 hantu: 孢綠光天
 archetype: Phát Quang Sư
 race: Vi Tộc
+dao_tam: Nhất Quang Phá Vạn Ám
+origin: Đông Hoang
+faction_rank: Phát Quang Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lê Dược Nương
 hantu: 黎藥娘
 archetype: Hội Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

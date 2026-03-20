@@ -4,6 +4,8 @@ name: Ngọc Thạch Lâm
 hantu: 玉石林
 archetype: Chiến Sĩ
 race: Cự Tộc
+origin: Nam Cương
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

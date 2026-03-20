@@ -4,6 +4,8 @@ name: Lý Tiểu Lô
 hantu: 李小爐
 archetype: Tổng Quản
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Tổng Quản
 avatar: ''
 arcs:
   - arc: 1

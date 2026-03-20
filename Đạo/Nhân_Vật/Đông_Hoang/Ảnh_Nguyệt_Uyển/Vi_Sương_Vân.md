@@ -4,6 +4,8 @@ name: Vi Sương Vân
 hantu: 微霜雲
 archetype: Thất Dạ Sứ
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Thất Dạ Sứ
 avatar: ''
 arcs:
   - arc: 1

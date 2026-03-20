@@ -4,6 +4,13 @@ name: Bào Ngưng Sương
 hantu: 孢凝霜
 archetype: Kiến Trúc Sư Băng
 race: Vi Tộc
+dao_tam: "Kiến trúc không chỉ là tường và mái. Kiến trúc là cách ta nói với thời gian rằng: ta đã từng ở đây"
+aliases:
+  - "Sương Họa Sĩ" (霜畫師)"
+  - "Tiểu Tường" (小牆) — Lăng Tiêu đặt cho"
+  - "vừa thể hiện tình sư đồ vừa ám chỉ nàng là phiên bản nhỏ hơn của chính y"
+age: 1
+faction_rank: Kiến Trúc Sư Băng (冰建築師)
 avatar: ''
 arcs:
   - arc: 1

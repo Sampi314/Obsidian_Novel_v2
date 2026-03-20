@@ -4,6 +4,8 @@ name: San Kim Hoa
 hantu: 珊金花
 archetype: Thợ Chế Tác
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Thợ Chế Tác
 avatar: ''
 arcs:
   - arc: 1

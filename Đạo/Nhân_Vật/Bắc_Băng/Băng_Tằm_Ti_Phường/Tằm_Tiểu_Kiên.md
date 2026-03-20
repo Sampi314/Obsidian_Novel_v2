@@ -4,6 +4,12 @@ name: Tằm Tiểu Kiên
 hantu: 蠶小繭
 archetype: Đệ Tử Nhả Ti
 race: Vi Tộc
+aliases:
+  - "Kiên Con" (小繭兒)"
+  - "Cuộn Rối" (亂卷)"
+origin: Bắc Băng — Hang Tằm Vạn Năm, khu ấu niên
+age: 30
+faction_rank: Đệ Tử Nhả Ti — tằm non đang học nhả tơ cơ bản
 avatar: ''
 arcs:
   - arc: 1

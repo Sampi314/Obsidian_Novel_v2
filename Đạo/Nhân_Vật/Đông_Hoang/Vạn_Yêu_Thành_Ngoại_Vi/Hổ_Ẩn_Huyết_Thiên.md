@@ -4,6 +4,8 @@ name: Hổ Ẩn Huyết Thiên
 hantu: 虎隱血天
 archetype: Kẻ Lang Thang
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Kẻ Lang Thang
 avatar: ''
 arcs:
   - arc: 1

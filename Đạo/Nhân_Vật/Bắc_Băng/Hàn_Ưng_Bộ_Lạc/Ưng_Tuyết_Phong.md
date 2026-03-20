@@ -4,6 +4,12 @@ name: Ưng Tuyết Phong
 hantu: 鷹雪鋒
 archetype: Chiến Tướng
 race: Vũ Tộc
+dao_tam: Phong Tiền Liệt Nhận
+aliases:
+  - "Tuyết Phong Chiến Tướng (雪鋒戰將)"
+  - "Bạch Đao Ưng (白刀鷹"
+origin: Bắc Băng
+faction_rank: Chiến Tướng (戰將) — tổng chỉ huy quân sự của Hàn Ưng Bộ Lạc
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Tiền Bảo
 hantu: 錢寶
 archetype: Đại Chưởng Quỹ
 race: Nhân Tộc
+dao_tam: Tín Nghĩa Tuyệt Đối
+origin: Thiên Trụ
+faction_rank: Đại Chưởng Quỹ
 avatar: ''
 arcs:
   - arc: 1

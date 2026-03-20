@@ -4,6 +4,10 @@ name: Thạch Bàn
 hantu: 石盤
 archetype: Đệ Lục Hỏa Sư
 race: Thạch Tộc
+aliases:
+  - "Phục Cổ Sư" (復古師)"
+origin: Thiên Trụ
+faction_rank: Đệ Lục Hỏa Sư — phụ trách phục hồi
 avatar: ''
 arcs:
   - arc: 1

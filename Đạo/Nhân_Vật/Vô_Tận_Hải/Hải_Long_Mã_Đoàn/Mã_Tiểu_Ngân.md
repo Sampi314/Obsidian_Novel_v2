@@ -4,6 +4,8 @@ name: Mã Tiểu Ngân
 hantu: 馬小銀
 archetype: Tập Sự
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Tập Sự
 avatar: ''
 arcs:
   - arc: 1

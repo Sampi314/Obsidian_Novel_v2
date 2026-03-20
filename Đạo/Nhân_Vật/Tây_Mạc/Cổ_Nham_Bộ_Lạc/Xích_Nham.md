@@ -4,6 +4,9 @@ name: Xích Nham
 hantu: 赤岩
 archetype: Thủ Vệ Trưởng
 race: Thạch Tộc
+dao_tam: Thạch Vệ Hộ Cương
+origin: Tây Mạc
+faction_rank: Thủ Vệ Trưởng
 avatar: ''
 arcs:
   - arc: 1

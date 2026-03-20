@@ -4,6 +4,16 @@ name: Hắc Diện Nhân
 hantu: 黑面人
 archetype: Phó Minh Chủ
 race: Nhân Tộc
+lingan: Không xác định
+dao_tam: Kẻ yếu chạy trốn, kẻ mạnh phản công. Tự do không cần cướp — tự do có được khi kẻ thù đã chết sạch
+aliases:
+  - "Ác Nhân Vô Diện" (恶人无面)"
+  - "ghi rõ "đối tượng cực kỳ nguy hiểm"
+  - "không xác định được dung mạo." Trong liên minh"
+  - "không ai đặt biệt danh cho y"
+  - "người ta chỉ nói "Phó Minh Chủ" hoặc đơn giản là "kẻ đeo mặt nạ."
+origin: Bắc Băng
+faction_rank: Phó Minh Chủ (副明主) — vị trí cao thứ hai
 avatar: ''
 arcs:
   - arc: 1

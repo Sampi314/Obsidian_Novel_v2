@@ -4,6 +4,10 @@ name: A Ngốc
 hantu: 阿傻
 archetype: Hỗn Độn Tu
 race: Nhân Tộc
+lingan: Hỗn Độn Linh Căn (混沌灵根) — Căn cốt Ngũ Hành Hỗn Độn
+dao_tam: "- Trạng thái **\"Vô Niệm"
+age: 400
+faction_rank: - Trẻ mồ côi phàm nhân
 avatar: A_Ngốc.png
 arcs:
   - arc: 1

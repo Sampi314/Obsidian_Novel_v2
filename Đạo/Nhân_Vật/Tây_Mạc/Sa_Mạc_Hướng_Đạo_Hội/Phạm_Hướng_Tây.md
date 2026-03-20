@@ -4,6 +4,9 @@ name: Phạm Hướng Tây
 hantu: 范向西
 archetype: Hướng Đạo
 race: Nhân Tộc
+dao_tam: không bao giờ bán đứng khách
+origin: Tây Mạc
+faction_rank: Hướng Đạo
 avatar: ''
 arcs:
   - arc: 1

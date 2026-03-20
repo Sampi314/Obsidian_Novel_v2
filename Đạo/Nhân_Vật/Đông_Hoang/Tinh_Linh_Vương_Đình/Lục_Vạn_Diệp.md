@@ -4,6 +4,8 @@ name: Lục Vạn Diệp
 hantu: 綠萬葉
 archetype: Tiền Phong Tướng
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Tiền Phong Tướng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Giải Thiên Giáp Vương
 hantu: 蟹千甲王
 archetype: Đệ Ngũ Hải Tặc Vương
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Ngũ Hải Tặc Vương
 avatar: ''
 arcs:
   - arc: 1

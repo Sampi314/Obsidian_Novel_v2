@@ -4,6 +4,8 @@ name: Phạm Lâm Nhi
 hantu: 范林兒
 archetype: Dược Sư
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

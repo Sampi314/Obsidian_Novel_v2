@@ -4,6 +4,8 @@ name: Mộc Thanh Hàn Dạ
 hantu: 木青寒夜
 archetype: Liên Lạc Viên
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Liên Lạc Viên
 avatar: ''
 arcs:
   - arc: 1

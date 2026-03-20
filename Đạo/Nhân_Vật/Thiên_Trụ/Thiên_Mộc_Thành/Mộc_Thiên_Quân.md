@@ -4,6 +4,8 @@ name: Mộc Thiên Quân
 hantu: 木天軍
 archetype: Tướng Quân Thị Vệ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Tướng Quân Thị Vệ
 avatar: ''
 arcs:
   - arc: 1

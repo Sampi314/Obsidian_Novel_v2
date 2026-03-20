@@ -4,6 +4,8 @@ name: Thạch Chùy
 hantu: 石锤
 archetype: Đội Trưởng Vệ Binh
 race: Hỗn huyết (Cự Tộc, Thạch Tộc)
+origin: Tây Mạc
+faction_rank: Đội Trưởng Vệ Binh
 avatar: ''
 arcs:
   - arc: 1

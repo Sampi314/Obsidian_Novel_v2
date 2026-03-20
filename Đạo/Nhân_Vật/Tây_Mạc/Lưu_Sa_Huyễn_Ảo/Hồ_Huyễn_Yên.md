@@ -4,6 +4,11 @@ name: Hồ Huyễn Yên
 hantu: 狐幻烟
 archetype: Viện Chủ Huyễn Ảnh
 race: Yêu Tộc (Hồ Ly)
+aliases:
+  - "Yên Vụ Hồ Tiên (烟雾狐仙)"
+  - "cách mà đệ tử trong cung gọi khi nàng hiện nguyên hình"
+origin: Tây Mạc — Vùng Lưu Sa Di Động
+faction_rank: Viện Chủ Huyễn Ảnh
 avatar: ''
 arcs:
   - arc: 1

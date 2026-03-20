@@ -4,6 +4,8 @@ name: Lỗ Bách Nghệ
 hantu: 魯百藝
 archetype: Bách Nghệ Viện Chủ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Bách Nghệ Viện Chủ
 avatar: ''
 arcs:
   - arc: 1

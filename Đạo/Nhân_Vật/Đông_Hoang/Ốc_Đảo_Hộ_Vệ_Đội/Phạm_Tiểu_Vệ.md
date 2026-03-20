@@ -4,6 +4,8 @@ name: Phạm Tiểu Vệ
 hantu: 范小衛
 archetype: Hộ Vệ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Vệ
 avatar: ''
 arcs:
   - arc: 1

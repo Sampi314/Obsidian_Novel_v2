@@ -4,6 +4,8 @@ name: Sa Hắc Thâm Hải
 hantu: 鯊黑深海
 archetype: Phó Đoàn
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Phó Đoàn
 avatar: ''
 arcs:
   - arc: 1

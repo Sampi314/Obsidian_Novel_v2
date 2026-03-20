@@ -4,6 +4,8 @@ name: Trần Thi Vương
 hantu: 陳屍王
 archetype: Thái Thượng Trưởng Lão
 race: Thi Tộc
+origin: Đông Hoang
+faction_rank: Thái Thượng Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,14 @@ name: Khuẩn Ngọc Hàn
 hantu: 菌玉寒
 archetype: Nữ Tế Băng
 race: Vi Tộc
+aliases:
+  - "Nữ Tế" (女祭)"
+  - "vì nàng là cá thể duy nhất đảm nhiệm vai trò nghi lễ"
+  - "thực hiện tế lễ đông chí"
+  - "và duy trì mối liên hệ tâm linh với ý chí Tinh Khuẩn Mẫu"
+origin: Bắc Băng
+age: 2
+faction_rank: Nữ Tế Băng
 avatar: ''
 arcs:
   - arc: 1

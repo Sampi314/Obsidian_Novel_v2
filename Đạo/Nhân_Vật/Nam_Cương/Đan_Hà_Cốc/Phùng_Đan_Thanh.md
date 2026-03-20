@@ -4,6 +4,8 @@ name: Phùng Đan Thanh
 hantu: 馮丹青
 archetype: Hữu Hộ Pháp
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Hữu Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

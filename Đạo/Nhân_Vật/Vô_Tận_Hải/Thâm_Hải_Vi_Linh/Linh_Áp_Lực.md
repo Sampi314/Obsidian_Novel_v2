@@ -4,6 +4,8 @@ name: Linh Áp Lực
 hantu: 靈壓力
 archetype: Chiến Sĩ Áp Suất
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Chiến Sĩ Áp Suất
 avatar: ''
 arcs:
   - arc: 1

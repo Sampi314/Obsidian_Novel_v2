@@ -4,6 +4,8 @@ name: Quy Thiết Bối
 hantu: 龜鐵背
 archetype: Phó Minh Chủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Phó Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

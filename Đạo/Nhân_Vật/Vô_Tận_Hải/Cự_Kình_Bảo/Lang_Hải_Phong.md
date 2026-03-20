@@ -4,6 +4,8 @@ name: Lang Hải Phong
 hantu: 浪海枫
 archetype: Thương Nhân
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Chưởng Quầy Đấu Giá
 avatar: ''
 arcs:
   - arc: 1

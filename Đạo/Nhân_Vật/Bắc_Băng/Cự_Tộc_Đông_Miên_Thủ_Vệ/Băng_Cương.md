@@ -4,6 +4,15 @@ name: Băng Cương
 hantu: 冰剛
 archetype: Đội Trưởng
 race: Cự Tộc
+lingan: Thổ-Băng Song Linh Căn (土冰双灵根)
+dao_tam: Thủ Hộ Bất Miên
+aliases:
+  - "Bất Miên Giả" (不眠者"
+  - "Băng Nham Tướng Quân" (冰巖將軍)"
+  - "chỉ nhìn qua tưởng là tượng đá"
+origin: Bắc Băng — trú tại cụm hang đông miên chính, hiếm khi rời đi
+age: 450
+faction_rank: Đội Trưởng (隊長) — phó thủ lĩnh Cự Tộc Đông Miên Thủ Vệ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lang Bạo Phong
 hantu: 狼暴風
 archetype: Tiền Phong Tướng
 race: Yêu Tộc
+origin: Bắc Băng
+faction_rank: Tiền Phong Tướng
 avatar: ''
 arcs:
   - arc: 1

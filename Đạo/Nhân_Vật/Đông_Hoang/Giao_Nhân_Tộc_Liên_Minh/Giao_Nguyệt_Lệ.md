@@ -4,6 +4,8 @@ name: Giao Nguyệt Lệ
 hantu: 鲛月淚
 archetype: Phó Minh Chủ
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Phó Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

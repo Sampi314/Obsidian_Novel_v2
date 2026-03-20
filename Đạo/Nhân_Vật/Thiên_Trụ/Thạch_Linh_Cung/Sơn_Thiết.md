@@ -4,6 +4,11 @@ name: Sơn Thiết
 hantu: 山鐵
 archetype: Hộ Pháp
 race: Lai Cự Tộc
+aliases:
+  - "Thiết Sơn" (鐵山) — Núi Sắt"
+  - "vì thân hình to lớn như núi và cứng như sắt"
+origin: Thiên Trụ
+faction_rank: Hộ Pháp — phụ trách tuần tra
 avatar: ''
 arcs:
   - arc: 1

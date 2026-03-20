@@ -4,6 +4,8 @@ name: Trần Hải Triều
 hantu: 陳海潮
 archetype: Quan Trắc Viên
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Quan Trắc Viên
 avatar: ''
 arcs:
   - arc: 1

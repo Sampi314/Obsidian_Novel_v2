@@ -4,6 +4,8 @@ name: Vũ Vô Thiên
 hantu: 羽无天
 archetype: Đệ Tử
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Ấu Đồ Phong Linh Căn
 avatar: ''
 arcs:
   - arc: 1

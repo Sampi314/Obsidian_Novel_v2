@@ -4,6 +4,8 @@ name: Khô Giáp Lão
 hantu: 枯甲老
 archetype: Giáp Trùng Sa Mạc
 race: Trùng Tộc
+origin: Tây Mạc
+faction_rank: Giáp Trùng Sa Mạc
 avatar: ''
 arcs:
   - arc: 1

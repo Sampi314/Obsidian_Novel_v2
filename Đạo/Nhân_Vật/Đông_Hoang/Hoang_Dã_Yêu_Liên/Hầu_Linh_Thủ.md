@@ -4,6 +4,8 @@ name: Hầu Linh Thủ
 hantu: 猴靈手
 archetype: Hầu Đội Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Hầu Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Nham Tĩnh
 hantu: 岩静
 archetype: Tế Tư
 race: Thạch Tộc
+dao_tam: Thạch Tĩnh Quan Thiên
+origin: Tây Mạc
+faction_rank: Tế Tư
 avatar: ''
 arcs:
   - arc: 1

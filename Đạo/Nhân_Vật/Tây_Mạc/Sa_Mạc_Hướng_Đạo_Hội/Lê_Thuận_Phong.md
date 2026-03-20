@@ -4,6 +4,8 @@ name: Lê Thuận Phong
 hantu: 黎顺风
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

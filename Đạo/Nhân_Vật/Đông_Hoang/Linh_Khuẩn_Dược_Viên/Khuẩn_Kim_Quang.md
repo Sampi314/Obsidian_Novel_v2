@@ -4,6 +4,8 @@ name: Khuẩn Kim Quang
 hantu: 菌金光
 archetype: Viên Trưởng
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Viên Trưởng
 avatar: ''
 arcs:
   - arc: 1

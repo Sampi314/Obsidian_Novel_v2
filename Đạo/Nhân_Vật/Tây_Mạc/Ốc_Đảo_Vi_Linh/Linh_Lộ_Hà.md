@@ -4,6 +4,8 @@ name: Linh Lộ Hà
 hantu: 靈露荷
 archetype: Dược Sư Nước
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Dược Sư Nước
 avatar: ''
 arcs:
   - arc: 1

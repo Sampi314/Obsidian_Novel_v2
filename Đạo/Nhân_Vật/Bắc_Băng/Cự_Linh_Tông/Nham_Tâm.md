@@ -4,6 +4,8 @@ name: Nham Tâm
 hantu: 岩心
 archetype: Thủ Vệ Đội Trưởng
 race: Cự Tộc
+origin: Bắc Băng
+faction_rank: Thủ Vệ Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

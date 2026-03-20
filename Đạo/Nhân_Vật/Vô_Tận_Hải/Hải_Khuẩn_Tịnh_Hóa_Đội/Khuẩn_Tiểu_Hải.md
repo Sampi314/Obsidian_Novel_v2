@@ -4,6 +4,8 @@ name: Khuẩn Tiểu Hải
 hantu: 菌小海
 archetype: Đệ Tử Tân Binh
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Tử Tân Binh
 avatar: ''
 arcs:
   - arc: 1

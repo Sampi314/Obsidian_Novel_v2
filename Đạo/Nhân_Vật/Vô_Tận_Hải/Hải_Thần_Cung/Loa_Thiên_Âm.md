@@ -4,6 +4,9 @@ name: Loa Thiên Âm
 hantu: 螺天音
 archetype: Đệ Tam Tế Tư
 race: Hải Tộc
+dao_tam: Tiếng ốc vang — ý Hải Thần truyền
+origin: Vô Tận Hải
+faction_rank: Đệ Tam Tế Tư
 avatar: ''
 arcs:
   - arc: 1

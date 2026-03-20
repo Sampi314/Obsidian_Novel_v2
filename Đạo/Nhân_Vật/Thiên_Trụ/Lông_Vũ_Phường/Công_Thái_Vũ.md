@@ -4,6 +4,8 @@ name: Công Thái Vũ
 hantu: 孔彩羽
 archetype: Nhuộm Sư
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Nhuộm Sư
 avatar: ''
 arcs:
   - arc: 1

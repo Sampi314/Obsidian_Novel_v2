@@ -4,6 +4,13 @@ name: Yến Sa
 hantu: 燕沙
 archetype: Trinh Sát Đội Trưởng
 race: Vũ Tộc
+dao_tam: Phong Tri Vạn Lý
+aliases:
+  - "Phong Ảnh (風影 — "Bóng Gió")"
+  - "Thiên Nhĩ Yến Nương (千耳燕娘"
+origin: Tây Mạc — hoạt động trên toàn lãnh thổ và cả ngoài biên giới Sa Ưng Đoàn
+age: 231
+faction_rank: Trinh Sát Đội Trưởng (偵察隊長) của Sa Ưng Đoàn
 avatar: ''
 arcs:
   - arc: 1

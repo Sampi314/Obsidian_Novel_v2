@@ -4,6 +4,8 @@ name: Diệp Thiên Thu Hàn
 hantu: 叶千秋寒
 archetype: Trưởng Lão
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

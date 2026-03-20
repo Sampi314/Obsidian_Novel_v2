@@ -4,6 +4,9 @@ name: Lệ Vân Trường
 hantu: 泪云长
 archetype: Phó Minh Chủ
 race: Hải Tộc (Giao Nhân)
+dao_tam: Tộc Hưng Bất Phế
+origin: Vô Tận Hải
+faction_rank: Phó Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

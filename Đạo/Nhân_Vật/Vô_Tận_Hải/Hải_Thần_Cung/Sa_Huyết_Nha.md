@@ -4,6 +4,12 @@ name: Sa Huyết Nha
 hantu: 鯊血牙
 archetype: Bắc Hải Tướng Quân
 race: Hải Tộc
+dao_tam: Lãnh Huyết Truy Sát, Nhất Kích Tất Sát
+aliases:
+  - "Bạch Sa Tử Thần (白鯊死神"
+  - "Máu Lạnh (冷血"
+origin: Vô Tận Hải — Bắc Hải doanh trại, vùng biển lạnh nhất và nguy hiểm nhất
+faction_rank: Bắc Hải Tướng Quân (北海將軍)
 avatar: ''
 arcs:
   - arc: 1

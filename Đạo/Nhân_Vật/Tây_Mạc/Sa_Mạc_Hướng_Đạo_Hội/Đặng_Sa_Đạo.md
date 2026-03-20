@@ -4,6 +4,8 @@ name: Đặng Sa Đạo
 hantu: 邓沙道
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

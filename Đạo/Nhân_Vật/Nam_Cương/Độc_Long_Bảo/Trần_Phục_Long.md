@@ -4,6 +4,8 @@ name: Trần Phục Long
 hantu: 陳伏龍
 archetype: Phục Thú Viện Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Phục Thú Viện Chủ
 avatar: ''
 arcs:
   - arc: 1

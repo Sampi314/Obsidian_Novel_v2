@@ -4,6 +4,12 @@ name: Linh Mộng
 hantu: 灵梦
 archetype: Chân Truyền Đệ Tử
 race: Nhân Tộc
+aliases:
+  - "Chưa có — nàng còn trẻ"
+  - "chưa đủ danh tiếng để có danh hiệu. Trong cung"
+  - "đệ tử gọi nàng là "Tiểu Mộng" hoặc "Mộng Sư Tỷ."
+origin: Tây Mạc — Vùng Lưu Sa Di Động
+faction_rank: Chân Truyền Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Giao Huyết Lệ
 hantu: 鲛血淚
 archetype: Sát Thủ
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Sát Thủ
 avatar: ''
 arcs:
   - arc: 1

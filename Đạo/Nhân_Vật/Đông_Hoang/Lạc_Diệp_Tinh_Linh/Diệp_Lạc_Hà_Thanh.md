@@ -4,6 +4,8 @@ name: Diệp Lạc Hà Thanh
 hantu: 叶落霞晴
 archetype: Vũ Giả
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Vũ Giả
 avatar: ''
 arcs:
   - arc: 1

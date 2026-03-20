@@ -4,6 +4,8 @@ name: Chương Lục Mực
 hantu: 章綠墨
 archetype: Che Phủ Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Che Phủ Sư
 avatar: ''
 arcs:
   - arc: 1

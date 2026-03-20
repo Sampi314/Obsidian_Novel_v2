@@ -4,6 +4,8 @@ name: Hàn Thanh Âm
 hantu: 寒清音
 archetype: Nhạc Sư
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Nhạc Sư Huyễn Âm
 avatar: ''
 arcs:
   - arc: 1

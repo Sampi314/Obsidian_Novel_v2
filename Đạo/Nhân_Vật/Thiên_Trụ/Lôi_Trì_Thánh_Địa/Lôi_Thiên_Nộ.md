@@ -4,6 +4,8 @@ name: Lôi Thiên Nộ
 hantu: 雷天怒
 archetype: Lôi Tôn
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Lôi Tôn
 avatar: ''
 arcs:
   - arc: 1

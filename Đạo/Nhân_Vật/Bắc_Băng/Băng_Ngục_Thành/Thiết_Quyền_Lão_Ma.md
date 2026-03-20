@@ -4,6 +4,18 @@ name: Thiết Quyền Lão Ma
 hantu: 铁拳老魔
 archetype: Tù Trưởng
 race: Nhân Tộc
+lingan: Thổ Hệ Hạ Phẩm Linh Căn (土系下品灵根)
+dao_tam: Quyền Đạo Vô Cực
+aliases:
+  - "Lão Ma" (老魔)"
+  - "Thiết Quyền" (铁拳)"
+  - "Phá Thành Quyền Ma" (破城拳魔)"
+  - "vì hắn từng đấm vỡ tường thành trận pháp Tầng Ba khi nổi điên"
+  - "Ngưu Đầu Lão Quỷ" (牛头老鬼)"
+  - "húc vào tường mà tường nứt chứ đầu không sao"
+origin: Bắc Băng
+age: 420
+faction_rank: Thủ Lĩnh Tầng Ba (三层首领) — tầng sâu thứ ba
 avatar: ''
 arcs:
   - arc: 1

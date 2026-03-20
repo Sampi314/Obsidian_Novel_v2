@@ -4,6 +4,14 @@ name: Đoạn Vô Tình
 hantu: 断无情
 archetype: Hội Chủ
 race: Nhân Tộc
+lingan: Thổ-Ám song linh căn (Thổ chủ đạo, Ám phụ trợ)
+dao_tam: Người chết không cần của cải. Ta chỉ lấy thứ họ không dùng nữa
+aliases:
+  - "Bạch Cốt Vương" (白骨王)"
+  - "nhưng y mặc kệ"
+origin: Bắc Băng — bờ biển phía Tây Bắc Hải
+age: 127
+faction_rank: Hội Chủ (会主)
 avatar: ''
 arcs:
   - arc: 1

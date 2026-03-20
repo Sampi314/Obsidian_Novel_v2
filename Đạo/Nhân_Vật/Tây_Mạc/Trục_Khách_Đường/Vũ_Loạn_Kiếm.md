@@ -4,6 +4,9 @@ name: Vũ Loạn Kiếm
 hantu: 武乱剑
 archetype: Giáo Tập
 race: Nhân Tộc
+dao_tam: Loạn Kiếm Phá Quy
+origin: Tây Mạc
+faction_rank: Giáo Tập
 avatar: ''
 arcs:
   - arc: 1

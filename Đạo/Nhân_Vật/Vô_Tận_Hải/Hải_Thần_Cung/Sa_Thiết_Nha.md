@@ -4,6 +4,8 @@ name: Sa Thiết Nha
 hantu: 鯊鐵牙
 archetype: Cận Vệ Đội Trưởng
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Cận Vệ Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

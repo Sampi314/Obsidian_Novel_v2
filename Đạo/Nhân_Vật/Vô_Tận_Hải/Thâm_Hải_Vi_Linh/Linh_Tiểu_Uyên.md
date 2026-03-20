@@ -4,6 +4,8 @@ name: Linh Tiểu Uyên
 hantu: 靈小淵
 archetype: Đệ Tử Thâm Hải
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Tử Thâm Hải
 avatar: ''
 arcs:
   - arc: 1

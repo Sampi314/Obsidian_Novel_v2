@@ -4,6 +4,8 @@ name: Nấm Cổ Thụ
 hantu: 菌古樹
 archetype: Hiền Giả Rừng
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Hiền Giả Rừng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,18 @@ name: Hắc Giáp Thống Lĩnh
 hantu: 黑甲统领
 archetype: Tướng Quân
 race: Nhân Tộc
+lingan: Kim Hệ Thượng Phẩm Linh Căn (金系上品灵根)
+dao_tam: Giáp Tại Tâm Tồn
+aliases:
+  - "Thống Lĩnh" (统领)"
+  - "Hắc Giáp" (黑甲)"
+  - "Khối Sắt Vô Hồn" (无魂铁块)"
+  - "Bóng Đen Của Ngục Trưởng" (狱长之影)"
+  - "Nghĩa Binh Cuối Cùng" (最后义兵)"
+  - "giờ không ai còn nhớ"
+origin: Bắc Băng
+age: 550
+faction_rank: Thống Lĩnh Hắc Giáp (黑甲统领)
 avatar: ''
 arcs:
   - arc: 1

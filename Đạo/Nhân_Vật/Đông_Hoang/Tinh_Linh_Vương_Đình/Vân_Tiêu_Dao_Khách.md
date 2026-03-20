@@ -4,6 +4,8 @@ name: Vân Tiêu Dao Khách
 hantu: 雲逍遙客
 archetype: Phiêu Du Trưởng Lão
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Phiêu Du Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Mã Thanh Phong
 hantu: 馬青風
 archetype: Huấn Luyện Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Huấn Luyện Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hổ Thiết Trảo
 hantu: 虎鐵爪
 archetype: Phó Bang Chủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Phó Bang Chủ
 avatar: ''
 arcs:
   - arc: 1

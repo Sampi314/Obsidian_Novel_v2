@@ -4,6 +4,8 @@ name: Lý Huyết Dược
 hantu: 李血藥
 archetype: Dược Sư
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Báo Hồ Nguyệt Ảnh
 hantu: 豹狐月影
 archetype: Trinh Sát
 race: Bán Yêu
+origin: Đông Hoang
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

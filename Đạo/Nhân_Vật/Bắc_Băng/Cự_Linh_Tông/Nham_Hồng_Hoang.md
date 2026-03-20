@@ -4,6 +4,8 @@ name: Nham Hồng Hoang
 hantu: 岩洪荒
 archetype: Thái Thượng Trưởng Lão
 race: Cự Tộc
+origin: Bắc Băng
+faction_rank: Thái Thượng Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

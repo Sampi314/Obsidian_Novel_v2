@@ -4,6 +4,8 @@ name: Hạ Viêm
 hantu: 夏炎
 archetype: Thái Thượng Trưởng Lão
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Thái Thượng Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

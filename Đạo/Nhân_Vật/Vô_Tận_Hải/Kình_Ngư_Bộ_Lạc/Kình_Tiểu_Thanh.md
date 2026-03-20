@@ -4,6 +4,8 @@ name: Kình Tiểu Thanh
 hantu: 鯨小青
 archetype: Cá Con
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Cá Con
 avatar: ''
 arcs:
   - arc: 1

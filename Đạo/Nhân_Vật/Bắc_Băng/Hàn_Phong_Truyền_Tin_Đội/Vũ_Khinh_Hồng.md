@@ -4,6 +4,8 @@ name: Vũ Khinh Hồng
 hantu: 羽轻鸿
 archetype: Truyền Tin Viên
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Phó Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

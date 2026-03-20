@@ -4,6 +4,13 @@ name: Bào Mê Sương
 hantu: 孢迷霜
 archetype: Ảo Thuật Sư
 race: Vi Tộc
+dao_tam: Ánh sáng là ngôn ngữ của sa mạc. Ta chỉ dịch lại
+aliases:
+  - "Ảo Cảnh" (幻景)"
+  - "tạo ra ảo ảnh sa mạc thu nhỏ xung quanh mình. "Sương Tinh" (霜星)"
+  - "lấp lánh như sương đêm đọng trên cát"
+origin: Tây Mạc
+faction_rank: Ảo Thuật Sư (幻术师) — phụ trách phòng ngự ảo giác
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trùng Hồng Diệm
 hantu: 虫红焰
 archetype: Sứa Linh Đỏ
 race: Trùng Tộc (Sứa Linh)
+origin: Vô Tận Hải
+faction_rank: Tiên Phong Dẫn Đường
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Thử Linh Nhĩ
 hantu: 鼠靈耳
 archetype: Thử Tộc Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thử Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

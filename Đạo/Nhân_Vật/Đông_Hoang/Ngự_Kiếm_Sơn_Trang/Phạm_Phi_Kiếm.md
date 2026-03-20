@@ -4,6 +4,8 @@ name: Phạm Phi Kiếm
 hantu: 范飛劍
 archetype: Trưởng Lão Kiếm Đúc Viện
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Kiếm Đúc Viện
 avatar: ''
 arcs:
   - arc: 1

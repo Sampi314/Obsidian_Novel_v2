@@ -4,6 +4,8 @@ name: Mẫu Ngân Thanh
 hantu: 母銀聲
 archetype: Ca Nương
 race: Hải Tộc (Siren)
+origin: Vô Tận Hải
+faction_rank: Ca Nương
 avatar: ''
 arcs:
   - arc: 1

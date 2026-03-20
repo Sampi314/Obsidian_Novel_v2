@@ -4,6 +4,16 @@ name: Sương Thạch Nhi
 hantu: 霜石兒
 archetype: Học Đồ
 race: Cự Tộc
+lingan: Băng đơn linh căn (bẩm sinh theo dòng máu Cự Tộc
+dao_tam: Tao sẽ xây một cái gì đó cao đến mức không ai có thể nhìn xuống Cự Tộc nữa
+aliases:
+  - "Đá Nhỏ" (小石頭)"
+  - "nhỏ nhất (theo chuẩn Cự Tộc)"
+  - "và cũng ồn ào nhất. Hàn Chùy chưa bao giờ gọi nàng bằng biệt danh"
+  - "nhưng nàng biết đó là cách y thể hiện tình thương"
+origin: Bắc Băng — Xưởng Đục Đá Tuyết Sơn
+age: 42
+faction_rank: Học Đồ (đang trong giai đoạn cuối của quá trình học nghề
 avatar: ''
 arcs:
   - arc: 1

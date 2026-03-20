@@ -4,6 +4,8 @@ name: Sơn Tiểu Ngọc
 hantu: 山小玉
 archetype: Thợ Mỏ
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Thợ Mỏ
 avatar: ''
 arcs:
   - arc: 1

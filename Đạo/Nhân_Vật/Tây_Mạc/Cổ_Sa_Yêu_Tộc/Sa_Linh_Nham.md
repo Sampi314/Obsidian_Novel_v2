@@ -4,6 +4,11 @@ name: Sa Linh Nham
 hantu: 沙靈岩
 archetype: Phong Ấn Thủ
 race: Yêu Tộc
+aliases:
+  - "Nham Câm" (岩喑)"
+  - "Người Gác Cửa" (守門者)"
+origin: Tây Mạc
+faction_rank: Phong Ấn Thủ (封印守)
 avatar: ''
 arcs:
   - arc: 1

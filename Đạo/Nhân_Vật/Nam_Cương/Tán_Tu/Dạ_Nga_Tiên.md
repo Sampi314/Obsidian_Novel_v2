@@ -4,6 +4,8 @@ name: Dạ Nga Tiên
 hantu: 夜蛾仙
 archetype: Gián Điệp
 race: Trùng Tộc
+origin: Nam Cương
+faction_rank: Gián Điệp
 avatar: ''
 arcs:
   - arc: 1

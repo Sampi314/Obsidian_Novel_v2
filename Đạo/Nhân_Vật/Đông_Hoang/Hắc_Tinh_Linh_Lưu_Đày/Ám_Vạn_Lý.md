@@ -4,6 +4,8 @@ name: Ám Vạn Lý
 hantu: 暗萬里
 archetype: Thám Tử
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thám Tử
 avatar: ''
 arcs:
   - arc: 1

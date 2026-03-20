@@ -4,6 +4,8 @@ name: Sa Bạch Phong
 hantu: 鯊白風
 archetype: Trinh Sát Biên Giới
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Trinh Sát Biên Giới
 avatar: ''
 arcs:
   - arc: 1

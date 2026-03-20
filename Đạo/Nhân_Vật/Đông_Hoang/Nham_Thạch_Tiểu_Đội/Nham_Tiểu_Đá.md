@@ -4,6 +4,8 @@ name: Nham Tiểu Đá
 hantu: 岩小石
 archetype: Tuần Tra Viên
 race: Thạch Tộc
+origin: Đông Hoang
+faction_rank: Tuần Tra Viên
 avatar: ''
 arcs:
   - arc: 1

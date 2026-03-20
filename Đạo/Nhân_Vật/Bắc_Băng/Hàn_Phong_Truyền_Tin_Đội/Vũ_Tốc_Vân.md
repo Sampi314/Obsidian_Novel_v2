@@ -4,6 +4,8 @@ name: Vũ Tốc Vân
 hantu: 羽速云
 archetype: Đội Trưởng
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

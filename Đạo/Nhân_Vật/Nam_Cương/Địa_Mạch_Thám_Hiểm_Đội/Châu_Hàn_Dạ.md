@@ -4,6 +4,8 @@ name: Châu Hàn Dạ
 hantu: 周寒夜
 archetype: Bản Đồ Sư
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Bản Đồ Sư
 avatar: ''
 arcs:
   - arc: 1

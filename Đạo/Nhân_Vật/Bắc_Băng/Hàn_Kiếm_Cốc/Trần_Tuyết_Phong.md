@@ -4,6 +4,15 @@ name: Trần Tuyết Phong
 hantu: 陈雪锋
 archetype: Hộ Pháp
 race: Nhân Tộc
+lingan: Thủy-Thổ Song Linh Căn
+dao_tam: Kiếm tu khổ hạnh không sợ chết — chỉ sợ đồng đạo chết trước mình
+aliases:
+  - "Thiết Kiếm" (铁剑)"
+  - "cứng cỏi"
+  - "không hoa mỹ như thanh kiếm sắt chưa qua tôi luyện nhưng chém gì cũng đứt"
+origin: Bắc Băng — Hẻm núi Bão Tuyết
+age: 400
+faction_rank: Hộ Pháp Khổ Tu Đoàn (苦修团护法)
 avatar: ''
 arcs:
   - arc: 1

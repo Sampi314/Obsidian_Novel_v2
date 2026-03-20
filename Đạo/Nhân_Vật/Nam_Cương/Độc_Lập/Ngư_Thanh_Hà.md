@@ -4,6 +4,8 @@ name: Ngư Thanh Hà
 hantu: 魚清河
 archetype: Ngư Dân Sông
 race: Hải Tộc
+origin: Nam Cương
+faction_rank: Ngư Dân Sông
 avatar: ''
 arcs:
   - arc: 1

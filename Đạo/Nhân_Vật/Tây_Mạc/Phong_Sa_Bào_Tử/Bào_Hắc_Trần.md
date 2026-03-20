@@ -4,6 +4,11 @@ name: Bào Hắc Trần
 hantu: 孢黑塵
 archetype: Ám Sát Thủ
 race: Vi Tộc
+dao_tam: Ta là ai — bụi trắng hay bụi đen? Hay ta đã là thứ gì đó không có tên?
+aliases:
+  - "Xám Ảnh" (灰影)"
+origin: Tây Mạc — Hoàng Kim Sa Hải, khu cách ly rìa đông Đoàn Bão Mắt Sa Trường
+faction_rank: Ám Sát Thủ (暗杀手)
 avatar: ''
 arcs:
   - arc: 1

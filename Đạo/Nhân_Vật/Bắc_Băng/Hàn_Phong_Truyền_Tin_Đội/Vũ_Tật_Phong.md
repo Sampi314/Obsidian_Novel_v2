@@ -4,6 +4,8 @@ name: Vũ Tật Phong
 hantu: 羽疾风
 archetype: Khí Tượng Viên
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Chuyên Viên Khí Tượng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hải Đại Mộc
 hantu: 海大木
 archetype: Kỹ Sư
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Kỹ Sư Trưởng Hậu Mãnh Viện
 avatar: ''
 arcs:
   - arc: 1

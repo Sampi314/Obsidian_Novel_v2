@@ -4,6 +4,10 @@ name: Xà Hàn Thân
 hantu: 蛇寒身
 archetype: Canh Gác
 race: Yêu Tộc
+aliases:
+  - "Đông Miên Hàn Vệ (冬眠寒衛)"
+  - "Băng Giáp Xà (冰甲蛇)"
+faction_rank: Đội Trưởng Canh Gác Yêu Thú Đông Miên Hội
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lê Ngọc Trai
 hantu: 黎玉珠
 archetype: Thợ Lặn Kỳ Cựu
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Thợ Lặn Kỳ Cựu
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Chương Hắc Triều
 hantu: 章黑潮
 archetype: Tây Bắc Tướng Quân
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Tây Bắc Tướng Quân
 avatar: ''
 arcs:
   - arc: 1

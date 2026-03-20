@@ -4,6 +4,8 @@ name: Vũ Phi Long
 hantu: 武飛龍
 archetype: Hiệu Úy
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hiệu Úy
 avatar: ''
 arcs:
   - arc: 1

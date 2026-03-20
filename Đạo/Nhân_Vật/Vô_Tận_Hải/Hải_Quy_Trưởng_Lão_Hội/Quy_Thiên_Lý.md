@@ -4,6 +4,8 @@ name: Quy Thiên Lý
 hantu: 龜千里
 archetype: Sứ Giả
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Sứ Giả
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,11 @@ name: Sa Cương
 hantu: 沙刚
 archetype: Tộc Trưởng
 race: Cự Tộc
+aliases:
+  - "Sa Hải Tộc Trưởng (沙海族長)"
+  - "Giếng Chủ (井主)"
+origin: Tây Mạc — Hoàng Kim Sa Hải
+faction_rank: Tộc Trưởng Sa Cự Nhân Bộ Lạc. Người đứng đầu tám mươi Cự Nhân ở Hoàng Kim Sa Hải, quyết định mọi việc từ đào giếng đến giao thương. Trách nhiệm nặng nhất không phải chiến đấu mà là giữ cho bộ lạc không bị nuốt chửng giữa sa mạc tham lam
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Đỗ Hùng
 hantu: 杜雄
 archetype: Báo Ảnh Đội Trưởng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Báo Ảnh Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

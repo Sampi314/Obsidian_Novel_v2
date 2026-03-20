@@ -4,6 +4,8 @@ name: Vân Huyễn Ảnh
 hantu: 雲幻影
 archetype: Trưởng Lão
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

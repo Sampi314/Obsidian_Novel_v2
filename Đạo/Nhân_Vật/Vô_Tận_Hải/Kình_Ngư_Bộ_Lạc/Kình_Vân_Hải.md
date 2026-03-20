@@ -4,6 +4,8 @@ name: Kình Vân Hải
 hantu: 鯨雲海
 archetype: Trưởng Lão
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

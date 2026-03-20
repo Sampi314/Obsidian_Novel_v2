@@ -4,6 +4,8 @@ name: Đặng Thiết Vệ
 hantu: 鄧鐵衛
 archetype: Uy Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Uy Trưởng
 avatar: ''
 arcs:
   - arc: 1

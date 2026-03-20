@@ -4,6 +4,8 @@ name: Báo Vân Ảnh
 hantu: 豹雲影
 archetype: Hắc Báo Bộ Lạc Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Hắc Báo Bộ Lạc Trưởng
 avatar: ''
 arcs:
   - arc: 1

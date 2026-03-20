@@ -4,6 +4,9 @@ name: Bào Thiên Biến Hoa
 hantu: 孢千變花
 archetype: Tiến Hóa Sư
 race: Vi Tộc
+dao_tam: Vạn Biến Bất Ly Kỳ Tông
+origin: Đông Hoang
+faction_rank: Tiến Hóa Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hứa Ngọc
 hantu: 許玉
 archetype: Giám Định Sư
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Giám Định Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trần Phiêu
 hantu: 塵飄
 archetype: Trinh Sát
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

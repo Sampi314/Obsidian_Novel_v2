@@ -4,6 +4,8 @@ name: Mẫu Hồng Lệ
 hantu: 母紅淚
 archetype: Dẫn Dụ Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Dẫn Dụ Sư
 avatar: ''
 arcs:
   - arc: 1

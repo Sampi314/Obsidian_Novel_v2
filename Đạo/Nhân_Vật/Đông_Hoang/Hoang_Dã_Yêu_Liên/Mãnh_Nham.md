@@ -4,6 +4,8 @@ name: Mãnh Nham
 hantu: 猛岩
 archetype: Chiến Sĩ
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

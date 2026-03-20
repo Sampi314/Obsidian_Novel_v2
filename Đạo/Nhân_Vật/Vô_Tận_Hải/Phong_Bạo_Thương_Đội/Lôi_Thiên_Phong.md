@@ -4,6 +4,8 @@ name: Lôi Thiên Phong
 hantu: 雷天风
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão Hội Đồng
 avatar: ''
 arcs:
   - arc: 1

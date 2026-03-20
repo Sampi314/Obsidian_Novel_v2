@@ -4,6 +4,8 @@ name: Trần Kim Quang
 hantu: 塵金光
 archetype: Linh Khí Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Linh Khí Sư
 avatar: ''
 arcs:
   - arc: 1

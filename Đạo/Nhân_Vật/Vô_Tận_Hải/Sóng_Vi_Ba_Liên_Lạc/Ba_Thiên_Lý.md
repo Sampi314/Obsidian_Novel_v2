@@ -4,6 +4,12 @@ name: Ba Thiên Lý
 hantu: 波千里
 archetype: Phó Trưởng Trạm
 race: Vi Tộc
+dao_tam: Mạng lưới là thể xác, tín hiệu là huyết mạch — ta là kẻ giữ cho máu chảy đều
+aliases:
+  - "Nghìn Dặm" (千里)"
+  - "gần đủ để vâng lệnh"
+origin: Vô Tận Hải
+faction_rank: Phó Trưởng Trạm (副站长)
 avatar: ''
 arcs:
   - arc: 1

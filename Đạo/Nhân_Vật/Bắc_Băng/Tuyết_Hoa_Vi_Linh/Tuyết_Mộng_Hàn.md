@@ -4,6 +4,8 @@ name: Tuyết Mộng Hàn
 hantu: 雪夢寒
 archetype: Mộng Sư
 race: Vi Tộc
+origin: Bắc Băng — thường ở vùng yên tĩnh nhất, tránh gió mạnh, nơi tuyết rơi nhẹ và đều
+faction_rank: Mộng Sư
 avatar: ''
 arcs:
   - arc: 1

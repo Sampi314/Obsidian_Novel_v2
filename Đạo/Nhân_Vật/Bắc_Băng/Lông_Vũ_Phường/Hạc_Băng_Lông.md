@@ -4,6 +4,13 @@ name: Hạc Băng Lông
 hantu: 鶴冰翎
 archetype: Dệt Sư
 race: Vũ Tộc
+dao_tam: Sợi tơ kết nối, y phục che chở
+aliases:
+  - "Tuyết Khâu" (雪裘)"
+  - "dù chỉ bằng lông vũ rụng rẻ mạt"
+origin: Bắc Băng — sống và làm việc tại hang đá Lông Vũ Phường gần Vũ Tộc Lưu Dân Trại
+age: 45
+faction_rank: Dệt Sư — thợ dệt duy nhất trong phường
 avatar: ''
 arcs:
   - arc: 1

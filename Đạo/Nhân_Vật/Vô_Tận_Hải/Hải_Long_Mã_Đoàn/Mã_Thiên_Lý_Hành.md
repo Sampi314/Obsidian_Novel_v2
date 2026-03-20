@@ -4,6 +4,8 @@ name: Mã Thiên Lý Hành
 hantu: 馬千里行
 archetype: Kỵ Sĩ
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Kỵ Sĩ
 avatar: ''
 arcs:
   - arc: 1

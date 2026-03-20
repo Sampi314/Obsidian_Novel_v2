@@ -4,6 +4,8 @@ name: Giao Hàn Băng
 hantu: 蛟寒冰
 archetype: Chiến Binh
 race: Long Tộc (Tạp Huyết)
+origin: Vô Tận Hải
+faction_rank: Chiến Binh (Phun Băng)
 avatar: ''
 arcs:
   - arc: 1

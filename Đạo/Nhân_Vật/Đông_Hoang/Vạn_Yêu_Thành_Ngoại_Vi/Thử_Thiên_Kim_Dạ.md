@@ -4,6 +4,8 @@ name: Thử Thiên Kim Dạ
 hantu: 鼠千金夜
 archetype: Ăn Cắp Vặt
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Ăn Cắp Vặt
 avatar: ''
 arcs:
   - arc: 1

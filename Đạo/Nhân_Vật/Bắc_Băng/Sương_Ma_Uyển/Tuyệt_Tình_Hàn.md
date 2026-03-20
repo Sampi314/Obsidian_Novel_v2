@@ -4,6 +4,8 @@ name: Tuyệt Tình Hàn
 hantu: 绝情寒
 archetype: Chân Truyền
 race: Băng Tộc
+origin: Bắc Băng
+faction_rank: Chân Truyền Ma Đồ
 avatar: ''
 arcs:
   - arc: 1

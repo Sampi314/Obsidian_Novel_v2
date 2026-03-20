@@ -4,6 +4,8 @@ name: Lý Huyết Thần
 hantu: 李血神
 archetype: Minh Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

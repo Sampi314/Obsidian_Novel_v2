@@ -4,6 +4,12 @@ name: Quy Huyền Thiên
 hantu: 龜玄天
 archetype: Đệ Nhất Tế Tư
 race: Hải Tộc
+dao_tam: Hải Ký Vạn Cổ, Quy Trấn Vạn Thế
+aliases:
+  - "Vạn Cổ Hải Quy (萬古海龜 — "Rùa Biển Vạn Cổ")"
+  - "Sống Hóa Thạch (活化石"
+origin: Vô Tận Hải
+faction_rank: Đệ Nhất Tế Tư (第一祭司) — Viện Chủ Tứ Đại Tế Tư Viện
 avatar: ''
 arcs:
   - arc: 1

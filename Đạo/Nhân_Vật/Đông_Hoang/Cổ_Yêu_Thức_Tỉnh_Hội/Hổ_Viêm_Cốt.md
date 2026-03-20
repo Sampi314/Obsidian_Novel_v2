@@ -4,6 +4,8 @@ name: Hổ Viêm Cốt
 hantu: 虎炎骨
 archetype: Thành Viên
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thành Viên
 avatar: ''
 arcs:
   - arc: 1

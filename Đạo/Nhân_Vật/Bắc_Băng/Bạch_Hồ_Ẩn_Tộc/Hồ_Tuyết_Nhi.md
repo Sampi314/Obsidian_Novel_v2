@@ -4,6 +4,14 @@ name: Hồ Tuyết Nhi
 hantu: 狐雪儿
 archetype: Trưởng Lão
 race: Yêu Tộc
+dao_tam: Dĩ Chiến Hộ Tộc
+aliases:
+  - "Bạch Sương Lão Hồ (白霜老狐)"
+  - "ám chỉ sức mạnh và sự lạnh lùng trong chiến đấu"
+  - "Tuyết Bà (雪婆)"
+origin: Bắc Băng — làng chài ven biển Bắc Hải
+age: 361
+faction_rank: Đại Trưởng Lão (大长老) của Bạch Hồ Ẩn Tộc
 avatar: ''
 arcs:
   - arc: 1

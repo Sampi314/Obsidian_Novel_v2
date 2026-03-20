@@ -4,6 +4,8 @@ name: Quy Vạn Niên
 hantu: 龜萬年
 archetype: Phó Hội Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Phó Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

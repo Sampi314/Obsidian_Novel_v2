@@ -4,6 +4,8 @@ name: San Lục Đảo
 hantu: 珊綠島
 archetype: Nông Dân Tảo
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Nông Dân Tảo
 avatar: ''
 arcs:
   - arc: 1

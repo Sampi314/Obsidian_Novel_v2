@@ -4,6 +4,16 @@ name: Thủy Nguyệt Tiên
 hantu: 水月仙
 archetype: Viện Chủ
 race: Nhân Tộc
+lingan: Thủy-Băng Song Linh Căn (水冰双灵根)
+dao_tam: Vũ đạo là ngôn ngữ của nước — không lời, không thanh, nhưng vạn vật đều hiểu
+aliases:
+  - "Ảo Vũ Tiên Tử" (幻舞仙子)"
+  - "Nguyệt Thủy Song Diện" (月水双面)"
+  - "ám chỉ tính cách hai mặt của nàng"
+  - "lúc dịu dàng như ánh trăng"
+  - "lúc lạnh lùng như nước ngầm"
+origin: Bắc Băng — Cung điện Phiêu Miễu, vùng hải lưu ấm dưới băng
+faction_rank: Viện Chủ Ảo Vũ Viện (幻舞院院主)
 avatar: ''
 arcs:
   - arc: 1

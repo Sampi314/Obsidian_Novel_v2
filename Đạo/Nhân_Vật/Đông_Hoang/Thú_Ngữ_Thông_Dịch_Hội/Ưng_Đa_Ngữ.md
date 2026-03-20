@@ -4,6 +4,8 @@ name: Ưng Đa Ngữ
 hantu: 鷹多語
 archetype: Hội Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

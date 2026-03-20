@@ -4,6 +4,8 @@ name: Hắc Lạc Nhạn
 hantu: 黑落雁
 archetype: Nhạc Sư Cung Đình
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Nhạc Sư Cung Đình
 avatar: ''
 arcs:
   - arc: 1

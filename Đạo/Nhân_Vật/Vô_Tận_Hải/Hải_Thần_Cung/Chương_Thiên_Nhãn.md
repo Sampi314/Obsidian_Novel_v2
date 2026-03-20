@@ -4,6 +4,8 @@ name: Chương Thiên Nhãn
 hantu: 章千眼
 archetype: Tình Báo Trưởng
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Tình Báo Trưởng
 avatar: ''
 arcs:
   - arc: 1

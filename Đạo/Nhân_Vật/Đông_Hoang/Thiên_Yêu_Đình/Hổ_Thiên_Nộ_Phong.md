@@ -4,6 +4,8 @@ name: Hổ Thiên Nộ Phong
 hantu: 虎天怒風
 archetype: Cận Vệ Yêu Đế
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Cận Vệ Yêu Đế
 avatar: ''
 arcs:
   - arc: 1

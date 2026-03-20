@@ -4,6 +4,8 @@ name: Linh Thâm Nguyệt
 hantu: 靈深月
 archetype: Trưởng Lão Quan Sát
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão Quan Sát
 avatar: ''
 arcs:
   - arc: 1

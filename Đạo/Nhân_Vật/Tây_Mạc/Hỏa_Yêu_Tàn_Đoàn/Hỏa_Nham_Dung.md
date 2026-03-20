@@ -4,6 +4,8 @@ name: Hỏa Nham Dung
 hantu: 火岩熔
 archetype: Thợ Rèn
 race: Yêu Tộc
+origin: Tây Mạc
+faction_rank: Thợ Rèn
 avatar: ''
 arcs:
   - arc: 1

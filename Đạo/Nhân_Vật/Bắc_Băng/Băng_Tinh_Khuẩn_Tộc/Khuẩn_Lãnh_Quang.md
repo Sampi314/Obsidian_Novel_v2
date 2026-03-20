@@ -4,6 +4,12 @@ name: Khuẩn Lãnh Quang
 hantu: 菌冷光
 archetype: Chiếu Sáng Viên
 race: Vi Tộc
+aliases:
+  - "Đèn Đêm" (夜燈)"
+  - "vì hắn là cá thể chịu trách nhiệm duy trì ánh sáng cho toàn bộ hệ thống hang"
+origin: Bắc Băng
+age: 2
+faction_rank: Chiếu Sáng Viên Trưởng
 avatar: ''
 arcs:
   - arc: 1

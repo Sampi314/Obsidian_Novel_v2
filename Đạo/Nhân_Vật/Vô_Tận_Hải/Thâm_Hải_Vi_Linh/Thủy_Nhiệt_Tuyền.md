@@ -4,6 +4,8 @@ name: Thủy Nhiệt Tuyền
 hantu: 水熱泉
 archetype: Nhiệt Linh
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Nhiệt Linh
 avatar: ''
 arcs:
   - arc: 1

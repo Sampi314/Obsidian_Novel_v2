@@ -4,6 +4,13 @@ name: Hoàng Đông Tuyền
 hantu: 黄冬泉
 archetype: Trưởng Lão
 race: Nhân Tộc
+lingan: Song linh căn Thủy-Mộc
+dao_tam: Sống là đã đủ. Sống khỏe là thừa. Sống lâu là thưởng
+aliases:
+  - "Đông Miên Lão Tiên" (冬眠老仙)"
+origin: Bắc Băng — Thung lũng Mùa Đông, dãy Thiên Sơn
+age: 471
+faction_rank: Trưởng Lão Trường Sinh Viện (长生院长老)
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Đoạn Kiếm Sinh
 hantu: 断剑生
 archetype: Đường Chủ
 race: Nhân Tộc
+dao_tam: Đoạn Kiếm Tái Sinh
+origin: Tây Mạc
+faction_rank: Đường Chủ
 avatar: ''
 arcs:
   - arc: 1

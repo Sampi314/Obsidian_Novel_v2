@@ -4,6 +4,13 @@ name: Hải Ngọc Tảo Thiên
 hantu: 海玉藻天
 archetype: Dược Sư
 race: Hải Tộc
+lingan: Thủy-Mộc Song Linh Căn (Trung phẩm
+dao_tam: Tịnh Thủy Vô Trần, Tảo Thiên Vô Hạt
+aliases:
+  - "Tảo Thiên Tiên Thủ (藻天纖手)"
+  - "Ngọc Nhi (玉兒)"
+age: 95
+faction_rank: Đại đệ tử của Hải Thanh Liên
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,14 @@ name: Thạch Mạch Nhi
 hantu: 石脉儿
 archetype: Học Đồ
 race: Cự Tộc
+lingan: Thổ Thủy Song Linh Căn (土水双灵根)
+dao_tam: Thính Địa Nhi Hành
+aliases:
+  - "Tiểu Mạch Nhi (小脉儿"
+  - "Nhĩ Thính Đại Địa (耳听大地 — "Tai Nghe Đại Địa"
+origin: Bắc Băng
+age: 24
+faction_rank: Học Đồ trẻ nhất của Đại Địa Hành Giả
 avatar: ''
 arcs:
   - arc: 1

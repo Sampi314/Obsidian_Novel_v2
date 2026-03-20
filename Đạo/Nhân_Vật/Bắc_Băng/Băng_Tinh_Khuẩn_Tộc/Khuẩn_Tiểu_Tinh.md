@@ -4,6 +4,15 @@ name: Khuẩn Tiểu Tinh
 hantu: 菌小晶
 archetype: Đệ Tử Kết Tinh
 race: Vi Tộc
+dao_tam: Chưa hình thành
+aliases:
+  - "Tiểu Méo" (小歪)"
+  - "vì mỗi tinh thể hắn tạo ra đều méo mó"
+  - "lệch lạc"
+  - "không bao giờ đúng hình. Một số cá thể già gọi hắn là "Hy Vọng"
+origin: Bắc Băng
+age: 150
+faction_rank: Đệ Tử Kết Tinh
 avatar: ''
 arcs:
   - arc: 1

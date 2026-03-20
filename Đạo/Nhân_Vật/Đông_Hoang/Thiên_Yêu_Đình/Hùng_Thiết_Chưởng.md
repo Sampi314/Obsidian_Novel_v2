@@ -4,6 +4,8 @@ name: Hùng Thiết Chưởng
 hantu: 熊鐵掌
 archetype: Vệ Binh Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Vệ Binh Trưởng
 avatar: ''
 arcs:
   - arc: 1

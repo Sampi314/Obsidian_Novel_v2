@@ -4,6 +4,9 @@ name: Hải Phong
 hantu: 海风
 archetype: Tổng Quản
 race: Nhân Tộc
+dao_tam: Mỗi chuyến hàng cập bến, mỗi thủy thủ về nhà — đó mới là chiến thắng thực sự
+origin: Vô Tận Hải
+faction_rank: Tổng Quản
 avatar: ''
 arcs:
   - arc: 1

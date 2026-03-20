@@ -4,6 +4,8 @@ name: Xà Ngữ Âm
 hantu: 蛇語音
 archetype: Dịch Giả Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Dịch Giả Trưởng
 avatar: ''
 arcs:
   - arc: 1

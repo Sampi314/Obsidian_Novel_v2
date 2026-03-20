@@ -4,6 +4,8 @@ name: Lý Vọng Nguyệt
 hantu: 李望月
 archetype: Đài Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đài Trưởng
 avatar: ''
 arcs:
   - arc: 1

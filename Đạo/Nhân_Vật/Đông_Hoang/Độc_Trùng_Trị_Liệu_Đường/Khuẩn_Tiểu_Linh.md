@@ -4,6 +4,8 @@ name: Khuẩn Tiểu Linh
 hantu: 菌小靈
 archetype: Dược Sư
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

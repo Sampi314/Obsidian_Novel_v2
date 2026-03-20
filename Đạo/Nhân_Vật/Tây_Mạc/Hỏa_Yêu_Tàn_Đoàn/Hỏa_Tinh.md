@@ -4,6 +4,8 @@ name: Hỏa Tinh
 hantu: 火星
 archetype: Chiến Sĩ
 race: Yêu Tộc
+origin: Tây Mạc
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

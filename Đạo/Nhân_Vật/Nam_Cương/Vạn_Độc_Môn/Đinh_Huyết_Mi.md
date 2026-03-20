@@ -4,6 +4,8 @@ name: Đinh Huyết Mi
 hantu: 丁血眉
 archetype: Nhị Sát
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Nhị Sát
 avatar: ''
 arcs:
   - arc: 1

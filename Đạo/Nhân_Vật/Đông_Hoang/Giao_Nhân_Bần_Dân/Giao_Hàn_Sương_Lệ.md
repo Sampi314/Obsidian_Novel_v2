@@ -4,6 +4,7 @@ name: Giao Hàn Sương Lệ
 hantu: 鲛寒霜淚
 archetype: Liên Lạc Viên
 race: Hải Tộc
+faction_rank: Trên danh nghĩa là thợ dệt bình thường. Thực tế là liên lạc viên duy nhất của khu ổ chuột với thế giới bên ngoài — người duy nhất biết đường ra, biết cách lẻn qua hàng rào canh gác, và là cầu nối với Giao Nhân Tộc Liên Minh
 avatar: ''
 arcs:
   - arc: 1

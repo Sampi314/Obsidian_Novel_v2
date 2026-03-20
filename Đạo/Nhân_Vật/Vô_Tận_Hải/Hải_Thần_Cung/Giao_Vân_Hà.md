@@ -4,6 +4,8 @@ name: Giao Vân Hà
 hantu: 鲛雲霞
 archetype: Y Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Y Sư
 avatar: ''
 arcs:
   - arc: 1

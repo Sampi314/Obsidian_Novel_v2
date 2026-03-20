@@ -4,6 +4,9 @@ name: Tiễn Vô Song
 hantu: 箭无双
 archetype: Môn Chủ
 race: Nhân Tộc
+dao_tam: Mũi tên không hối hận — ta cũng vậy. Mỗi quyết định là một phát bắn, không thể thu lại
+origin: Tây Mạc
+faction_rank: Môn Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nham Thính
 hantu: 岩听
 archetype: Thạch Tộc Nghe Đá
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Thạch Tộc Nghe Đá
 avatar: ''
 arcs:
   - arc: 1

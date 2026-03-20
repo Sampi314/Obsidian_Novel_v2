@@ -4,6 +4,8 @@ name: Lý Huyết Vũ
 hantu: 李血雨
 archetype: Sát Thủ Tinh Nhuệ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Sát Thủ Tinh Nhuệ
 avatar: ''
 arcs:
   - arc: 1

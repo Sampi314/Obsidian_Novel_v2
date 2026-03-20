@@ -4,6 +4,9 @@ name: Mã Vạn Kim
 hantu: 馬萬金
 archetype: Thương Nhân
 race: Nhân Tộc
+dao_tam: Vạn Vật Giai Hữu Giá
+origin: Thiên Trụ
+faction_rank: Thương Nhân
 avatar: ''
 arcs:
   - arc: 1

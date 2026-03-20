@@ -4,6 +4,8 @@ name: Phấn Tiểu Lộ
 hantu: 粉小露
 archetype: Trinh Sát Tân Binh
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát Tân Binh
 avatar: ''
 arcs:
   - arc: 1

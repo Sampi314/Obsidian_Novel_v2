@@ -4,6 +4,8 @@ name: Lý Hải Phong
 hantu: 李海風
 archetype: Phó Thuyền Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Thuyền Chủ
 avatar: ''
 arcs:
   - arc: 1

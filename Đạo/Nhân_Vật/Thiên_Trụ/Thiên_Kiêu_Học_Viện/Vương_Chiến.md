@@ -4,6 +4,8 @@ name: Vương Chiến
 hantu: 王戰
 archetype: Phó Viện Trưởng Chiến Đấu
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Phó Viện Trưởng Chiến Đấu
 avatar: ''
 arcs:
   - arc: 1

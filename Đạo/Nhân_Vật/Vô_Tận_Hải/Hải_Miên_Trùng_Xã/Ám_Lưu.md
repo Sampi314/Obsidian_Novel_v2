@@ -4,6 +4,8 @@ name: Ám Lưu
 hantu: 暗流
 archetype: Trinh Sát
 race: Trùng Tộc
+origin: Vô Tận Hải
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

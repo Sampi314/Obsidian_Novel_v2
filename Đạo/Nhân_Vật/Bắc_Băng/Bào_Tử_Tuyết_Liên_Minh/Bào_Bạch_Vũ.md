@@ -4,6 +4,13 @@ name: Bào Bạch Vũ
 hantu: 孢白羽
 archetype: Tuyết Kỵ Tướng
 race: Vi Tộc
+dao_tam: Lông vũ nhẹ nhất lại bay xa nhất. Ta không cần nặng — ta cần nhanh
+aliases:
+  - "Vũ Tướng" (羽將)"
+  - "Bão Nhỏ" (小暴)"
+  - "ám chỉ hắn là phiên bản thu nhỏ của "Bão Tuyết Có Mắt"
+age: 1
+faction_rank: Tuyết Kỵ Tướng (雪骑将) — chỉ huy đội kỵ binh bông tuyết
 avatar: ''
 arcs:
   - arc: 1

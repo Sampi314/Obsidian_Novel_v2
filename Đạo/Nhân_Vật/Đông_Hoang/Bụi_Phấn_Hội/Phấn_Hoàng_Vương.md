@@ -4,6 +4,8 @@ name: Phấn Hoàng Vương
 hantu: 粉皇王
 archetype: Hội Trưởng
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

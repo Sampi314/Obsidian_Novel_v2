@@ -4,6 +4,9 @@ name: Mạch Ngọc Thạch
 hantu: 脈玉石
 archetype: Thẩm Định Viên
 race: Vi Tộc
+dao_tam: Hiểu mạch trước khi dùng mạch
+origin: Tây Mạc
+faction_rank: Thẩm Định Viên
 avatar: ''
 arcs:
   - arc: 1

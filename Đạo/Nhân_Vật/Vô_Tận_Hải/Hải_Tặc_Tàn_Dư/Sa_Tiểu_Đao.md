@@ -4,6 +4,8 @@ name: Sa Tiểu Đao
 hantu: 鯊小刀
 archetype: Tân Binh
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Tân Binh
 avatar: ''
 arcs:
   - arc: 1

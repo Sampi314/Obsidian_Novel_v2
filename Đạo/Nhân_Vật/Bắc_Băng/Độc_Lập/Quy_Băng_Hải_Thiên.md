@@ -4,6 +4,14 @@ name: Quy Băng Hải Thiên
 hantu: 龜冰海天
 archetype: Du Hành Giả
 race: Hải Tộc
+lingan: Thủy Thổ Song Linh Căn
+dao_tam: Trời rộng, biển sâu, trà còn nóng — vội gì?
+aliases:
+  - "Lão Quy Pha Trà" (老龜泡茶) — khắp Bắc Băng"
+  - "vì ai gặp lão cũng chỉ biết miêu tả bằng đúng bốn chữ ấy"
+origin: Bắc Băng
+age: 800
+faction_rank: Du hành giả — kẻ lang thang vĩnh viễn
 avatar: ''
 arcs:
   - arc: 1

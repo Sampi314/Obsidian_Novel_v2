@@ -4,6 +4,8 @@ name: Linh Sương Hàn
 hantu: 靈霜寒
 archetype: Trinh Sát Sương Đêm
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Trinh Sát Sương Đêm
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: San Tiểu Chi
 hantu: 珊小枝
 archetype: Đệ Tử Trồng San Hô
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Tử Trồng San Hô
 avatar: ''
 arcs:
   - arc: 1

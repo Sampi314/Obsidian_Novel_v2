@@ -4,6 +4,8 @@ name: Cuồng Lôi
 hantu: 狂雷
 archetype: Đông Phương Thủy Tướng
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Đông Phương Thủy Tướng
 avatar: ''
 arcs:
   - arc: 1

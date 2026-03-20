@@ -4,6 +4,9 @@ name: Tử Bão
 hantu: 紫暴
 archetype: Trưởng Lão
 race: Nhân Tộc
+dao_tam: Bão không cần lý do để phá hủy — ta cũng không cần lý do để giết. Đó là bản năng
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

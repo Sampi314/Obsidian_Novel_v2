@@ -4,6 +4,8 @@ name: Hàn Tiêu
 hantu: 寒萧
 archetype: Cốc Chủ
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Cốc Chủ
 avatar: ''
 arcs:
   - arc: 1

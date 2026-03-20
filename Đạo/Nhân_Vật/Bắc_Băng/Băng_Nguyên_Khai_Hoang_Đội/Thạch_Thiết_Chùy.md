@@ -4,6 +4,14 @@ name: Thạch Thiết Chùy
 hantu: 石铁锤
 archetype: Uy Trấn
 race: Cự Tộc
+dao_tam: Không giữ nổi cái gì đang có, thì đừng mơ cái chưa có
+aliases:
+  - "Thiết Câm" (铁喑)"
+  - "mà vì mỗi khi hắn mở miệng"
+  - "lời nói nặng như búa đập"
+origin: Bắc Băng — vùng tundra hoang sơ cực Bắc
+age: 18
+faction_rank: Uy Trấn (chỉ huy nhóm phụ trách trật tự
 avatar: ''
 arcs:
   - arc: 1

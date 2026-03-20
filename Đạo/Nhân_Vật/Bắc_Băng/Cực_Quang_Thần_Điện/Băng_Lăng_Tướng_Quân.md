@@ -4,6 +4,14 @@ name: Băng Lăng Tướng Quân
 hantu: 冰棱将军
 archetype: Tướng Quân
 race: Băng Tộc
+lingan: Băng Quang Song Linh Căn (冰光双灵根)
+dao_tam: Chiến Thắng Hộ Quang
+aliases:
+  - "Băng Kích Chiến Thần (冰戟战神"
+  - "Bất Thoái Tướng (不退将"
+origin: Bắc Băng
+age: 195
+faction_rank: Thống Lĩnh Hiệp Sĩ Băng Lăng (冰棱骑士统领)
 avatar: ''
 arcs:
   - arc: 1

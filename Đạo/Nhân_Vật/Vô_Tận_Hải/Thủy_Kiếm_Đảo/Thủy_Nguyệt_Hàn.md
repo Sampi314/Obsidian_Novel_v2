@@ -4,6 +4,12 @@ name: Thủy Nguyệt Hàn
 hantu: 水月寒
 archetype: Chân Truyền
 race: Nhân Tộc
+aliases:
+  - "Nguyệt Ảnh Kiếm Cơ (月影剑姬)"
+  - "ngư dân gọi "Tiểu Đảo Chủ" (dù nàng ghét danh xưng này)"
+origin: Vô Tận Hải
+age: 125
+faction_rank: Chân Truyền Đệ Tử — đệ tử trực truyền của Đảo Chủ
 avatar: ''
 arcs:
   - arc: 1

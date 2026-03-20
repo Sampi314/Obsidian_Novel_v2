@@ -4,6 +4,8 @@ name: Ngư Vạn Hải
 hantu: 魚萬海
 archetype: Trinh Sát Bờ Biển
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát Bờ Biển
 avatar: ''
 arcs:
   - arc: 1

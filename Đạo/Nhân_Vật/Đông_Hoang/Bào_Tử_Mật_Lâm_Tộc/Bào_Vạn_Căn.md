@@ -4,6 +4,8 @@ name: Bào Vạn Căn
 hantu: 孢萬根
 archetype: Mạng Lưới Viên
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Mạng Lưới Viên
 avatar: ''
 arcs:
   - arc: 1

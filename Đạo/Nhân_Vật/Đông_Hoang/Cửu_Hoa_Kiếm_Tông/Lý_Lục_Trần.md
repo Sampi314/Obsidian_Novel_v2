@@ -4,6 +4,8 @@ name: Lý Lục Trần
 hantu: 李六塵
 archetype: Tông Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Tông Chủ
 avatar: ''
 arcs:
   - arc: 1

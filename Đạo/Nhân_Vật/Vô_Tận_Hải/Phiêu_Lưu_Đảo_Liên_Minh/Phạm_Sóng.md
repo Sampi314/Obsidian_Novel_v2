@@ -4,6 +4,8 @@ name: Phạm Sóng
 hantu: 范浪
 archetype: Thuyền Trưởng
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Thuyền Trưởng Thương Thuyền
 avatar: ''
 arcs:
   - arc: 1

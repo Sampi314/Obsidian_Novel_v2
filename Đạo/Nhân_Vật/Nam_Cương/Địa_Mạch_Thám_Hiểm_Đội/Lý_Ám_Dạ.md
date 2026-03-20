@@ -4,6 +4,8 @@ name: Lý Ám Dạ
 hantu: 李暗夜
 archetype: Phó Đội Trưởng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Phó Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

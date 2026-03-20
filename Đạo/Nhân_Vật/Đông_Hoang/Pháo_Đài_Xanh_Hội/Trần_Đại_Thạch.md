@@ -4,6 +4,8 @@ name: Trần Đại Thạch
 hantu: 陳大石
 archetype: Đoàn Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

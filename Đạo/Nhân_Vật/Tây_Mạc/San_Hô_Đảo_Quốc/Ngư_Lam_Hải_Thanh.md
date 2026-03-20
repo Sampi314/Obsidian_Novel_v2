@@ -4,6 +4,9 @@ name: Ngư Lam Hải Thanh
 hantu: 魚藍海聲
 archetype: Nhạc Sư
 race: Hải Tộc
+dao_tam: Vạn Vật Giai Nhạc
+origin: Tây Mạc
+faction_rank: Nhạc Sư
 avatar: ''
 arcs:
   - arc: 1

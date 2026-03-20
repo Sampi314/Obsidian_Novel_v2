@@ -4,6 +4,9 @@ name: Hoàng Vô Niệm
 hantu: 黄无念
 archetype: Kiếm Khách
 race: Nhân Tộc
+dao_tam: Vô Niệm Kiếm Đạo
+origin: Bắc Băng
+faction_rank: Kiếm Khách
 avatar: ''
 arcs:
   - arc: 1

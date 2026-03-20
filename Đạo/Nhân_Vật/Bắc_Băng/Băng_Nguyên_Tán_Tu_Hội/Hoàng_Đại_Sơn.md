@@ -4,6 +4,8 @@ name: Hoàng Đại Sơn
 hantu: 黄大山
 archetype: Trưởng Trại
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Trưởng Trại Tuyết Thưa
 avatar: ''
 arcs:
   - arc: 1

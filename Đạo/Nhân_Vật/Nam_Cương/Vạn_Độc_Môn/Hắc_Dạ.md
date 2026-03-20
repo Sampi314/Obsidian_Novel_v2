@@ -4,6 +4,8 @@ name: Hắc Dạ
 hantu: 黑夜
 archetype: Tứ Sát
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Tứ Sát
 avatar: ''
 arcs:
   - arc: 1

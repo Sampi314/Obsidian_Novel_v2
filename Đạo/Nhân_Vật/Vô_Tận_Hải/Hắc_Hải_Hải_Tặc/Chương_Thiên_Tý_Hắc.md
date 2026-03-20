@@ -4,6 +4,8 @@ name: Chương Thiên Tý Hắc
 hantu: 章千臂黑
 archetype: Đệ Nhị Hải Tặc Vương
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Nhị Hải Tặc Vương
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Cú Tĩnh Vũ
 hantu: 梟靜羽
 archetype: Mưu Sĩ
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Mưu Sĩ
 avatar: ''
 arcs:
   - arc: 1

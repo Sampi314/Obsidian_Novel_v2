@@ -4,6 +4,15 @@ name: Lang Tàn Phong
 hantu: 狼殘風
 archetype: Phó Đội
 race: Yêu Tộc
+dao_tam: Sói mất chân không mất nanh. Nanh còn thì vẫn là sói
+aliases:
+  - "Sói Ba Chân" (三足狼)"
+  - "hắn tự nhận với vẻ mỉa mai kiêu hãnh"
+  - "Bức Tường" (壁)"
+  - "vì hắn chặn hậu vững như tường thành"
+origin: Bắc Băng — Hang Suối Băng, vùng rìa phía nam lãnh thổ Băng Lang Bộ Lạc
+age: 180
+faction_rank: Phó Đội Trưởng — cánh tay phải của Hàn Nha
 avatar: ''
 arcs:
   - arc: 1

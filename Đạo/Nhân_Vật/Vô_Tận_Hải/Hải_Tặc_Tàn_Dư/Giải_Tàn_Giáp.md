@@ -4,6 +4,8 @@ name: Giải Tàn Giáp
 hantu: 蟹殘甲
 archetype: Thợ Sửa
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Thợ Sửa
 avatar: ''
 arcs:
   - arc: 1

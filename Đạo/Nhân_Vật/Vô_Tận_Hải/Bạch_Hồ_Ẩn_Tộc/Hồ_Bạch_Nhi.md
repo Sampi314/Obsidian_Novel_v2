@@ -4,6 +4,8 @@ name: Hồ Bạch Nhi
 hantu: 狐白兒
 archetype: Ấu Sinh
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Ấu Sinh
 avatar: ''
 arcs:
   - arc: 1

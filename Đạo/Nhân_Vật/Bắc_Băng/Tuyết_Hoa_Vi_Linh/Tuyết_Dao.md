@@ -4,6 +4,8 @@ name: Tuyết Dao
 hantu: 雪瑤
 archetype: Hoa Linh Chủ
 race: Vi Tộc
+origin: Bắc Băng — thường ở vùng trung tâm băng nguyên, nơi Hàn khí nồng đặc nhất
+faction_rank: "Hoa Linh Chủ — không phải \"lãnh đạo\" theo nghĩa ra lệnh"
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Đàm Trầm Thủy
 hantu: 譚沈水
 archetype: Thiềm Chi Hộ Pháp
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Thiềm Chi Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

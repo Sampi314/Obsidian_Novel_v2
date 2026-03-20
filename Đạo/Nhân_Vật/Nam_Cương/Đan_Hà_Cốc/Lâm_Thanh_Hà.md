@@ -4,6 +4,8 @@ name: Lâm Thanh Hà
 hantu: 林清河
 archetype: Đệ Tứ Tháp Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Tứ Tháp Chủ
 avatar: ''
 arcs:
   - arc: 1

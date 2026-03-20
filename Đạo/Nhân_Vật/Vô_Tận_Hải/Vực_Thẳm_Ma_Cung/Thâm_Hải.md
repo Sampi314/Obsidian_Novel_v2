@@ -4,6 +4,9 @@ name: Thâm Hải
 hantu: 深海
 archetype: Cung Chủ
 race: Hải Tộc (Biến Dị)
+dao_tam: Vực thẳm không có đáy, bóng tối không có giới hạn — ta cũng vậy
+origin: Vô Tận Hải
+faction_rank: Ma Cung Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Linh Vi Trần
 hantu: 靈微塵
 archetype: Gián Điệp
 race: Vi Tộc
+origin: Nam Cương
+faction_rank: Gián Điệp
 avatar: ''
 arcs:
   - arc: 1

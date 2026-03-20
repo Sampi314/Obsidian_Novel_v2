@@ -4,6 +4,8 @@ name: Độc Nhãn
 hantu: 獨眼
 archetype: Bảo Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Bảo Chủ
 avatar: ''
 arcs:
   - arc: 1

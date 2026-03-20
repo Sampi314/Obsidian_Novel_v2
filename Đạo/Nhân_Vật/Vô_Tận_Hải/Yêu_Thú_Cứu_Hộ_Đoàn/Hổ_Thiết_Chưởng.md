@@ -4,6 +4,10 @@ name: Hổ Thiết Chưởng
 hantu: 虎铁掌
 archetype: Cứu Hộ Viên
 race: Yêu Tộc (Hổ Yêu)
+aliases:
+  - "nhưng con hổ này lại cõng mình chạy về suối ấm. Trong đoàn"
+  - "Yến Thanh gọi gã là "Đồ Vụng" vì gã hay lỡ tay dùng sức quá mạnh"
+faction_rank: Cứu Hộ Viên Chính của Yêu Thú Cứu Hộ Đoàn. Chuyên vận chuyển linh thú bị thương nặng về suối ấm. Sức mạnh thể chất mạnh nhất đoàn — mạnh hơn cả Hùng Từ Bi về lực thuần túy ở cự ly ngắn — nhưng tu vi thấp hơn nhiều
 avatar: ''
 arcs:
   - arc: 1

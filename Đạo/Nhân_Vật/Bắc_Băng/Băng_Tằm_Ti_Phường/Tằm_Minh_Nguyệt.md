@@ -4,6 +4,14 @@ name: Tằm Minh Nguyệt
 hantu: 蠶明月
 archetype: Thương Nhân Ti
 race: Vi Tộc
+dao_tam: Tơ bán đi, duyên giữ lại
+aliases:
+  - "Tằm Miệng Ngọt" (蠶甜嘴)"
+  - "buôn gì bán nấy"
+  - "Tiểu Nguyệt" (小月)"
+origin: Bắc Băng
+age: 300
+faction_rank: Thương Nhân Ti
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lang Ảnh Sa
 hantu: 狼影沙
 archetype: Đội Trưởng Ảnh Sa
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Đội Trưởng Ảnh Sa
 avatar: ''
 arcs:
   - arc: 1

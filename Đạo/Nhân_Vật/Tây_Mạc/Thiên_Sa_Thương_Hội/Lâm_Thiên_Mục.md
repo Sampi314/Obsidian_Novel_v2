@@ -4,6 +4,9 @@ name: Lâm Thiên Mục
 hantu: 林千目
 archetype: Gia Chủ Tình Báo
 race: Nhân Tộc
+dao_tam: Vạn Mục Thấu Thị
+origin: Tây Mạc
+faction_rank: Gia Chủ Tình Báo
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Tàn Vân Hải
 hantu: 殘雲海
 archetype: Trinh Sát
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

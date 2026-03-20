@@ -4,6 +4,8 @@ name: Ưng Lợi Nhãn
 hantu: 鷹利眼
 archetype: Trinh Sát Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát Trưởng
 avatar: ''
 arcs:
   - arc: 1

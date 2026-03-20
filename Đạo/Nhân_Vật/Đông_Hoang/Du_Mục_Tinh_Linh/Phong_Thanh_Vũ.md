@@ -4,6 +4,8 @@ name: Phong Thanh Vũ
 hantu: 楓青雨
 archetype: Nhạc Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Nhạc Sư
 avatar: ''
 arcs:
   - arc: 1

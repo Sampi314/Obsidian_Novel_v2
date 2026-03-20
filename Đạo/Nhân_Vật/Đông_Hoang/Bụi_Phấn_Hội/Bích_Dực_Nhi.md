@@ -4,6 +4,8 @@ name: Bích Dực Nhi
 hantu: 碧翼兒
 archetype: Trinh Sát
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

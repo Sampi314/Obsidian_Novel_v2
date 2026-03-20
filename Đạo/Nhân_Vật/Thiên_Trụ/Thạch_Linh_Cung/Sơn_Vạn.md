@@ -4,6 +4,10 @@ name: Sơn Vạn
 hantu: 山萬
 archetype: Quân Trưởng Thạch Mạch
 race: Lai Cự Tộc
+aliases:
+  - "Vạn Mỏ" (萬礦)"
+origin: Thiên Trụ
+faction_rank: Quân Trưởng Thạch Mạch Quân
 avatar: ''
 arcs:
   - arc: 1

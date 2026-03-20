@@ -4,6 +4,7 @@ name: Lục Ly
 hantu: 陆离
 archetype: Hộ Pháp
 race: Tinh Linh Tộc
+dao_tam: Thủ Hộ Chi Tâm
 avatar: Lục_Ly.png
 arcs:
   - arc: 1

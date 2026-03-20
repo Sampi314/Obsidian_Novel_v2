@@ -4,6 +4,10 @@ name: Thanh Lân
 hantu: 青鳞
 archetype: Tộc Trưởng
 race: Yêu Tộc (Xà Tộc)
+aliases:
+  - "Lục Mãng Tộc Trưởng (绿蟒族长). Trong tộc gọi hắn là "Lân Ca"
+  - "giọng coi thường"
+faction_rank: Tộc Trưởng Lục Mãng Hạ Tộc. Quản lý hơn tám mươi xà yêu
 avatar: ''
 arcs:
   - arc: 1

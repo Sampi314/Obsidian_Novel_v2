@@ -4,6 +4,9 @@ name: Chương Băng Hải
 hantu: 章冰海
 archetype: Trinh Sát
 race: Hải Tộc
+origin: Bắc Băng
+age: 1
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Sơn Mãng
 hantu: 山莽
 archetype: Chiến Sĩ Đồ Đằng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Chiến Sĩ Đồ Đằng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,13 @@ name: Cực Quang Thánh Nữ
 hantu: 极光圣女
 archetype: Thánh Nữ
 race: Băng Tộc
+lingan: Quang Băng Song Linh Căn (光冰双灵根)
+dao_tam: Quang Minh Tịnh Thế
+aliases:
+  - "Thiên Quang Chi Chủ (天光之主"
+  - "Băng Thiên Thánh Mẫu (冰天圣母)"
+origin: Bắc Băng — Thung lũng Ánh Sáng Vĩnh Cửu
+faction_rank: Lãnh Đạo Tối Cao (最高领袖) của Cực Quang Thần Điện
 avatar: ''
 arcs:
   - arc: 1

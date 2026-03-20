@@ -4,6 +4,17 @@ name: Phạm Lệ Nương
 hantu: 范丽娘
 archetype: Trưởng Trại
 race: Nhân Tộc
+lingan: Mộc thuộc đơn linh căn
+dao_tam: Y giả, nhân thuật dã. Cứu một mạng người, hơn xây bảy tầng phù đồ
+aliases:
+  - "Lệ Y" (丽医)"
+  - "vừa lấy chữ "Lệ" trong tên"
+  - "vừa mang nghĩa "y sư xinh đẹp"
+  - "nhan sắc không còn"
+  - "chỉ cười rồi tăng liều thuốc đắng lên gấp đôi"
+origin: Bắc Băng — Trại Gió Hú, tọa lạc tại vùng thung lũng khuất gió giữa hai vách đá
+age: 63
+faction_rank: Trưởng Trại Gió Hú — kiêm Y Sư Trưởng của toàn hội
 avatar: ''
 arcs:
   - arc: 1

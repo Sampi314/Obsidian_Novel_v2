@@ -4,6 +4,14 @@ name: Ba Cộng Minh
 hantu: 波共鳴
 archetype: Giải Mã Sư
 race: Vi Tộc
+dao_tam: Mọi tín hiệu đều có ý nghĩa — nhiệm vụ của ta là tìm ra nó
+aliases:
+  - "Kẻ Bóc Trần" (揭波者)"
+  - "y được gọi là "Kẻ Phá Khóa"
+  - "dù do Ba Thanh Tần hay Hải Thần Cung tạo ra"
+  - "y đều có thể phá"
+origin: Vô Tận Hải
+faction_rank: Giải Mã Sư (解码师) — cá thể chuyên trách phân tích
 avatar: ''
 arcs:
   - arc: 1

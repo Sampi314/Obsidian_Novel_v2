@@ -4,6 +4,8 @@ name: Sa Phong Đào Thiên
 hantu: 鯊風濤天
 archetype: Tây Nam Tướng Quân
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Tây Nam Tướng Quân
 avatar: ''
 arcs:
   - arc: 1

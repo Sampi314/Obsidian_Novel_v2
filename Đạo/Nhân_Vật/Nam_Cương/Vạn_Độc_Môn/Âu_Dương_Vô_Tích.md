@@ -4,6 +4,8 @@ name: Âu Dương Vô Tích
 hantu: 歐陽無跡
 archetype: Thái Thượng Trưởng Lão
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Thái Thượng Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hồ Huyễn Nương
 hantu: 狐幻娘
 archetype: Thái Thượng Trưởng Lão
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thái Thượng Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

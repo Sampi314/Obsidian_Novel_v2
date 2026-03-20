@@ -4,6 +4,9 @@ name: Dạ Ảnh
 hantu: 夜影
 archetype: Vệ Binh
 race: Cự Tộc (Sa Cự Nhân)
+dao_tam: Ảnh Tùy Dạ
+origin: Tây Mạc
+faction_rank: Vệ Binh
 avatar: ''
 arcs:
   - arc: 1

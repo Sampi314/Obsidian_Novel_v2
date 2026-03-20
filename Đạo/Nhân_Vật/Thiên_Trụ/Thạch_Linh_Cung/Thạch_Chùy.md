@@ -4,6 +4,11 @@ name: Thạch Chùy
 hantu: 石錘
 archetype: Cung Chủ
 race: Thạch Tộc
+aliases:
+  - "Thần Chùy" (神錘)"
+  - "hoặc "Thạch Cung Chủ" trong giao dịch chính thức"
+origin: Thiên Trụ
+faction_rank: Cung Chủ — người đứng đầu toàn bộ Thạch Linh Cung
 avatar: ''
 arcs:
   - arc: 1

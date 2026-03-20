@@ -4,6 +4,8 @@ name: Ưng Mộc Diệp
 hantu: 鷹木葉
 archetype: Chiến Sĩ
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,12 @@ name: Thanh Hàn Nguyệt
 hantu: 青寒月
 archetype: Tuần Sát Sứ Bắc Hải
 race: Long Tộc
+dao_tam: Nguyệt chiếu vạn dặm, kiếm hộ nhất phương
+aliases:
+  - "Nguyệt Ảnh" (月影)"
+  - "chỉ thấy một bóng mờ lướt nhanh tựa ánh trăng phản chiếu trên mặt băng"
+origin: Vô Tận Hải — Bắc Hải, tuần tra liên tục toàn bộ biên giới lãnh hải Bắc
+faction_rank: Tuần Sát Sứ Bắc Hải (北海巡察使)
 avatar: ''
 arcs:
   - arc: 1

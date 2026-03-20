@@ -4,6 +4,15 @@ name: Phương Hàn
 hantu: 方寒
 archetype: Đoàn Trưởng
 race: Nhân Tộc
+dao_tam: Tàn Kiếm Bất Tử
+aliases:
+  - "Tàn Kiếm" (残剑)"
+  - "Phương Đoàn Trưởng" (方团长)"
+  - "Kẻ Phản Cốc" (叛谷者)"
+  - "dấu ấn ô nhục mà hắn mang theo cả đời"
+origin: Bắc Băng — hẻm núi phụ cách Hàn Kiếm Cốc khoảng trăm dặm
+age: 42
+faction_rank: Đoàn Trưởng (团长) — người sáng lập
 avatar: ''
 arcs:
   - arc: 1

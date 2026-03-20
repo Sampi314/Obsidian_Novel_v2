@@ -4,6 +4,8 @@ name: Chương Thiên Cơ Huyền
 hantu: 章天機玄
 archetype: Đệ Tứ Tế Tư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Tứ Tế Tư
 avatar: ''
 arcs:
   - arc: 1

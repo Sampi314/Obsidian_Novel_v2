@@ -4,6 +4,9 @@ name: Lê Thiên Mục
 hantu: 黎天目
 archetype: Nội Môn Đệ Tử
 race: Nhân Tộc
+dao_tam: Phá Huyễn Kiến Chân
+origin: Tây Mạc
+faction_rank: Nội Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

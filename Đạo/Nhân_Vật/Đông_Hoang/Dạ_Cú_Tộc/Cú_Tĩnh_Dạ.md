@@ -4,6 +4,8 @@ name: Cú Tĩnh Dạ
 hantu: 梟靜夜
 archetype: Trinh Sát
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hùng Cổ Mộc
 hantu: 熊古木
 archetype: Đại Trưởng Lão
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Đại Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

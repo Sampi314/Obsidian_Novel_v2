@@ -4,6 +4,8 @@ name: Tước Thanh
 hantu: 雀青
 archetype: Thợ Rèn
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Thợ Rèn
 avatar: ''
 arcs:
   - arc: 1

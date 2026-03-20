@@ -4,6 +4,8 @@ name: Hồ Tiểu Nương
 hantu: 狐小娘
 archetype: Tiếng Nói Có Ảnh Hưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Tiếng Nói Có Ảnh Hưởng
 avatar: ''
 arcs:
   - arc: 1

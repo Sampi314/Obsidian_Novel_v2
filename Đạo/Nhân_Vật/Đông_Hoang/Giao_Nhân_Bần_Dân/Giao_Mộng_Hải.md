@@ -4,6 +4,9 @@ name: Giao Mộng Hải
 hantu: 鲛夢海
 archetype: Thợ Dệt
 race: Hải Tộc
+aliases:
+  - "Tay Vàng"
+faction_rank: Thợ dệt ti biển tài hoa nhất khu ổ chuột
 avatar: ''
 arcs:
   - arc: 1

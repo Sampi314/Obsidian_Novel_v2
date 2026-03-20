@@ -4,6 +4,8 @@ name: Viên Thông
 hantu: 圆通
 archetype: Sa Di Trưởng
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Sa Di Trưởng
 avatar: ''
 arcs:
   - arc: 1

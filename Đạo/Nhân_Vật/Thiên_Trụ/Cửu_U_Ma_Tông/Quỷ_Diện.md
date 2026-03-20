@@ -4,6 +4,8 @@ name: Quỷ Diện
 hantu: 鬼面
 archetype: Đệ Cửu Ma Vương
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Cửu Ma Vương
 avatar: ''
 arcs:
   - arc: 1

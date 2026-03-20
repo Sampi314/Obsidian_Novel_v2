@@ -4,6 +4,8 @@ name: Hổ Phá Quân
 hantu: 虎破軍
 archetype: Cựu Đấu Sĩ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Cựu Đấu Sĩ
 avatar: ''
 arcs:
   - arc: 1

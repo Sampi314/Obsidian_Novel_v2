@@ -4,6 +4,8 @@ name: Giao Băng Ngọc Tâm
 hantu: 鲛冰玉心
 archetype: Trưởng Lão
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trần Hải Yến
 hantu: 陈海燕
 archetype: Ngư Dân
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Ngư Dân / Đệ Tử Trẻ
 avatar: ''
 arcs:
   - arc: 1

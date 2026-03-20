@@ -4,6 +4,11 @@ name: Tế Vân Trạch
 hantu: 霽雲澤
 archetype: Thủ Hộ Hóa Long Trì
 race: Long Tộc
+dao_tam: Thủ hộ nhất xứ, thắng quá chinh phạt vạn dặm
+aliases:
+  - "Vân Trạch Bất Động" (雲澤不動)"
+origin: Vô Tận Hải — Cấm Địa Long Cung, Hóa Long Trì
+faction_rank: Thủ Hộ Hóa Long Trì (化龙池守护)
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Sơn Thiết Nhai
 hantu: 山鐵崖
 archetype: Hộ Vệ
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Hộ Vệ
 avatar: ''
 arcs:
   - arc: 1

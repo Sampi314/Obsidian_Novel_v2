@@ -4,6 +4,8 @@ name: Miêu Tiểu Dịch
 hantu: 貓小譯
 archetype: Tập Sự
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Tập Sự
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hoàng Lâm Vệ
 hantu: 黃林衛
 archetype: Kỵ Sĩ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Kỵ Sĩ
 avatar: ''
 arcs:
   - arc: 1

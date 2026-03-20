@@ -4,6 +4,8 @@ name: Lý Thiên Phượng
 hantu: 李天鳳
 archetype: Nhị Hoàng Tử
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Nhị Hoàng Tử
 avatar: ''
 arcs:
   - arc: 1

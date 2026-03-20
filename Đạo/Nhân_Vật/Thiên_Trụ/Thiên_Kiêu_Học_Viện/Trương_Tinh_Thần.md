@@ -4,6 +4,8 @@ name: Trương Tinh Thần
 hantu: 張星辰
 archetype: Sinh Viên
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Sinh Viên
 avatar: ''
 arcs:
   - arc: 1

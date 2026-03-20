@@ -4,6 +4,8 @@ name: Lý Sơn Nhi
 hantu: 李山兒
 archetype: Ngoại Cơ Sở Đệ Tử
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Ngoại Cơ Sở Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

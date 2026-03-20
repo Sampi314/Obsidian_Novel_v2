@@ -4,6 +4,9 @@ name: Vũ Thanh Phong
 hantu: 羽清风
 archetype: Phó Đội
 race: Vũ Tộc
+dao_tam: Tĩnh Phong Như Kiếm
+origin: Bắc Băng
+faction_rank: Phó Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

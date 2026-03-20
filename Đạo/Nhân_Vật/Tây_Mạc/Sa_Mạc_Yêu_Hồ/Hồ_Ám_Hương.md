@@ -4,6 +4,14 @@ name: Hồ Ám Hương
 hantu: 狐暗香
 archetype: Gián Điệp
 race: Yêu Tộc
+dao_tam: Ta không phải ta. Nhưng ta làm tất cả vì những người thật sự là ta
+aliases:
+  - "Hương" (香)"
+  - "Trần Tố Hương" (陳素香)"
+  - "đóng vai nữ kế toán tên Tố Hương"
+origin: Tây Mạc — trụ sở chính Thiên Sa Thương Hội tại Thiên Sa Thành
+age: 163
+faction_rank: Gián Điệp Nằm Vùng (間諜)
 avatar: ''
 arcs:
   - arc: 1

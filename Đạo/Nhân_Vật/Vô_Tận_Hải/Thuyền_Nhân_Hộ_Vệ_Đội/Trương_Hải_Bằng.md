@@ -4,6 +4,9 @@ name: Trương Hải Bằng
 hantu: 张海鹏
 archetype: Đội Trưởng
 race: Nhân Tộc
+dao_tam: Nhận tiền thì bảo vệ đến cùng, hàng đến nơi, người về nhà
+origin: Vô Tận Hải
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

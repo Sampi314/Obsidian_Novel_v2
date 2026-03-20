@@ -4,6 +4,8 @@ name: Cổ Sơn
 hantu: 古山
 archetype: Chiến Binh Cổ Đại
 race: Cự Tộc
+origin: Tây Mạc
+faction_rank: Chiến Binh Cổ Đại
 avatar: ''
 arcs:
   - arc: 1

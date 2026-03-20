@@ -4,6 +4,8 @@ name: Hồ Tuyết Nhi
 hantu: 狐雪兒
 archetype: Tộc Trưởng
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

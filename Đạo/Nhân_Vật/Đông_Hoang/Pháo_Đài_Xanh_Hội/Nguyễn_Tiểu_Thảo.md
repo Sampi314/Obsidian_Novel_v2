@@ -4,6 +4,8 @@ name: Nguyễn Tiểu Thảo
 hantu: 阮小草
 archetype: Tân Binh
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Tân Binh
 avatar: ''
 arcs:
   - arc: 1

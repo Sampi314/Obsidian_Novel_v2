@@ -4,6 +4,8 @@ name: Ngọc Sơn
 hantu: 玉山
 archetype: Hội Trưởng
 race: Cự Tộc
+origin: Nam Cương
+faction_rank: Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

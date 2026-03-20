@@ -4,6 +4,8 @@ name: Nham Cương
 hantu: 岩鋼
 archetype: Đội Trưởng
 race: Thạch Tộc
+origin: Đông Hoang
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

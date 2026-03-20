@@ -4,6 +4,8 @@ name: Lý Thanh Phong
 hantu: 李清風
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

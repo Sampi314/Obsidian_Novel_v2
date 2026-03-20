@@ -4,6 +4,13 @@ name: Khuẩn Vạn Niên Băng
 hantu: 菌萬年冰
 archetype: Tộc Trưởng
 race: Vi Tộc
+dao_tam: Tồn tại là mục đích duy nhất. Tộc còn, ta còn. Tộc diệt, ta diệt
+aliases:
+  - "Cổ Băng" (古冰)"
+  - "tồn tại ít nhất mười ngàn mùa đông"
+origin: Bắc Băng
+age: 12
+faction_rank: Tộc Trưởng — cá thể có ý thức cá nhân mạnh nhất
 avatar: ''
 arcs:
   - arc: 1

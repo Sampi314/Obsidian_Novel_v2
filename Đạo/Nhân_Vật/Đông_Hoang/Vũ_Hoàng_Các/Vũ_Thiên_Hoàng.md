@@ -4,6 +4,8 @@ name: Vũ Thiên Hoàng
 hantu: 羽天凰
 archetype: Vũ Hoàng
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Vũ Hoàng
 avatar: ''
 arcs:
   - arc: 1

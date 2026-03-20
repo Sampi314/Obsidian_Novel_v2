@@ -4,6 +4,8 @@ name: Hùng Ngân Vương
 hantu: 熊銀王
 archetype: Ngoại Thành Chủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Ngoại Thành Chủ
 avatar: ''
 arcs:
   - arc: 1

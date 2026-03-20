@@ -4,6 +4,8 @@ name: Mãng Thái Cổ Huyền
 hantu: 蟒太古玄
 archetype: Thành Viên
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thành Viên
 avatar: ''
 arcs:
   - arc: 1

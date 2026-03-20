@@ -4,6 +4,8 @@ name: Mặc Kén Tử
 hantu: 墨繭子
 archetype: Kén Sư
 race: Trùng Tộc
+origin: Nam Cương
+faction_rank: Kén Sư
 avatar: ''
 arcs:
   - arc: 1

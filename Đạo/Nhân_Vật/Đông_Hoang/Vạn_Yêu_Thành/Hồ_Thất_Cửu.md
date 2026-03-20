@@ -4,6 +4,8 @@ name: Hồ Thất Cửu
 hantu: 狐七九
 archetype: Thành Chủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thành Chủ
 avatar: ''
 arcs:
   - arc: 1

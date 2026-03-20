@@ -4,6 +4,13 @@ name: Nham Thiết Bích
 hantu: 岩铁臂
 archetype: Chiến Binh
 race: Hỗn huyết (Cự Tộc, Nhân Tộc)
+lingan: Hỏa - Thổ song linh căn, thiên lệch Hỏa
+dao_tam: Mạnh hơn. Mạnh hơn nữa. Cho đến khi không ai có thể bỏ rơi ta
+aliases:
+  - "Thiết Tý" (铁臂)"
+origin: Bắc Băng — vùng tundra đóng băng vĩnh cửu
+age: 22
+faction_rank: Vệ Binh
 avatar: ''
 arcs:
   - arc: 1

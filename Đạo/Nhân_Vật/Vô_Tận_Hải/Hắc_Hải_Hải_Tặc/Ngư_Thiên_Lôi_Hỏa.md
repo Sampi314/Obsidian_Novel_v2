@@ -4,6 +4,8 @@ name: Ngư Thiên Lôi Hỏa
 hantu: 魚千雷火
 archetype: Đệ Thất Hải Tặc Vương
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Thất Hải Tặc Vương
 avatar: ''
 arcs:
   - arc: 1

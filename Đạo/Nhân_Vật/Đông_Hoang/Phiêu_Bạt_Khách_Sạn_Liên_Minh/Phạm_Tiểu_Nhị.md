@@ -4,6 +4,8 @@ name: Phạm Tiểu Nhị
 hantu: 范小二
 archetype: Tiểu Nhị
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Tiểu Nhị
 avatar: ''
 arcs:
   - arc: 1

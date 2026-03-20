@@ -4,6 +4,14 @@ name: Hàn Đan
 hantu: 寒丹
 archetype: Cốc Chủ
 race: Nhân Tộc
+lingan: Song linh căn Thủy-Hỏa (cực kỳ hiếm, tỷ lệ 1 trên vạn)
+dao_tam: Đan dược là từ bi đúc thành hình
+aliases:
+  - "Băng Diễm Lão Nhân" (冰焰老人)"
+  - "đệ tử trong cốc thường gọi ông là "Cốc Lão" (谷老) một cách thân mật"
+origin: Bắc Băng — Thung lũng Mùa Đông, dãy Thiên Sơn
+age: 487
+faction_rank: Cốc Chủ đời thứ bảy của Thiên Sơn Đông Cốc (天山冬谷)
 avatar: ''
 arcs:
   - arc: 1

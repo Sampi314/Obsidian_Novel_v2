@@ -4,6 +4,14 @@ name: Sơn Đại Nham
 hantu: 山大岩
 archetype: Đội Trưởng Vệ Binh
 race: Hỗn huyết (Cự Tộc, Nhân Tộc)
+lingan: Thổ - Kim song linh căn
+dao_tam: Ta là tường thành. Kẻ thù muốn qua phải đạp qua xác ta
+aliases:
+  - "Nham Đầu" (岩头)"
+  - "ai nói gì cũng không chịu nghe). Đội Vệ Binh thì gọi y là "Sơn Cuồng" (山狂)"
+origin: Bắc Băng — vùng tundra đóng băng vĩnh cửu
+age: 48
+faction_rank: Đội Trưởng Vệ Binh
 avatar: ''
 arcs:
   - arc: 1

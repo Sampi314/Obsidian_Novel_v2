@@ -4,6 +4,8 @@ name: Trùng Ám Ảnh
 hantu: 蟲暗影
 archetype: Ám Sát Viên
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Ám Sát Viên
 avatar: ''
 arcs:
   - arc: 1

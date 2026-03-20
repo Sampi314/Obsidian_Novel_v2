@@ -4,6 +4,8 @@ name: Vân Nga Tiên Tử
 hantu: 雲蛾仙子
 archetype: Trinh Sát
 race: Trùng Tộc
+origin: Thiên Trụ
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

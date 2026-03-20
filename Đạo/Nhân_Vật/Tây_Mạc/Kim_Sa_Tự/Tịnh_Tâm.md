@@ -4,6 +4,8 @@ name: Tịnh Tâm
 hantu: 净心
 archetype: Tăng Lữ
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Tăng Lữ
 avatar: ''
 arcs:
   - arc: 1

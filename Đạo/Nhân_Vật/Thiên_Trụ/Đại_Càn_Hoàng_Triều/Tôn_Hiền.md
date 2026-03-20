@@ -4,6 +4,8 @@ name: Tôn Hiền
 hantu: 孫賢
 archetype: Lại Bộ Thượng Thư
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Lại Bộ Thượng Thư
 avatar: ''
 arcs:
   - arc: 1

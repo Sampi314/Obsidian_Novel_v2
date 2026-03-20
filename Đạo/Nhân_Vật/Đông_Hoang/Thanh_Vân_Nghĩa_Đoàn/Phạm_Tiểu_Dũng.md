@@ -4,6 +4,8 @@ name: Phạm Tiểu Dũng
 hantu: 范小勇
 archetype: Nghĩa Quân
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Nghĩa Quân
 avatar: ''
 arcs:
   - arc: 1

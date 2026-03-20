@@ -4,6 +4,8 @@ name: Bào Thâm Thổ
 hantu: 孢深土
 archetype: Thổ Dưỡng Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Thổ Dưỡng Sư
 avatar: ''
 arcs:
   - arc: 1

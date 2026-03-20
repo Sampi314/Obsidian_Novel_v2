@@ -4,6 +4,7 @@ name: Hàn Thanh Nguyệt
 hantu: 寒清月
 archetype: Kiếm Tu
 race: Nhân Tộc
+age: 19
 avatar: Hàn_Thanh_Nguyệt.png
 arcs:
   - arc: 1

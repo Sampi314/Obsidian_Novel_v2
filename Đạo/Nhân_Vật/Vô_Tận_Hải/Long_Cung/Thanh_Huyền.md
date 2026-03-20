@@ -4,6 +4,11 @@ name: Thanh Huyền
 hantu: 青玄
 archetype: Bắc Hải Long Vương
 race: Long Tộc
+dao_tam: Hàn băng phong vạn vật, duy hữu bản tâm bất đông
+aliases:
+  - "Vạn Tải Hàn Long" (萬載寒龍)"
+origin: Vô Tận Hải
+faction_rank: Bắc Hải Long Vương (北海龙王)
 avatar: ''
 arcs:
   - arc: 1

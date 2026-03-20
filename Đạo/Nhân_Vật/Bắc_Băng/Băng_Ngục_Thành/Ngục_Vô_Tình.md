@@ -4,6 +4,14 @@ name: Ngục Vô Tình
 hantu: 狱无情
 archetype: Thành Chủ
 race: Nhân Tộc
+lingan: Băng Hệ Thiên Linh Căn (冰系天灵根)
+dao_tam: Vô Tình Thiên Ngục
+aliases:
+  - "Hàn Ngục Chi Chủ" (寒狱之主)"
+  - "Vô Tình Lão Quỷ" (无情老鬼)"
+  - "Kẻ Không Có Tim" (无心者)"
+origin: Bắc Băng
+faction_rank: Ngục Trưởng kiêm Thành Chủ (狱长兼城主)
 avatar: ''
 arcs:
   - arc: 1

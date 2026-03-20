@@ -4,6 +4,10 @@ name: Giao Lệ Vân
 hantu: 鲛淚雲
 archetype: Thủ Lĩnh Ngầm
 race: Hải Tộc
+aliases:
+  - "Không có danh hiệu chính thức. Trong khu ổ chuột"
+  - "những ai biết bí mật gọi nàng là "Chị Vân" hoặc đơn giản là "Người Dệt Đêm"
+faction_rank: Thủ lĩnh ngầm của khoảng hai trăm Giao Nhân bần dân sống ở rìa ngoài cùng lãnh thổ hoàng tộc Giao Nhân. Trên danh nghĩa chỉ là một thợ dệt ti biển bình thường. Dưới bề mặt, nàng là hậu duệ trực hệ của Giao Lệ Huyết — thủ lĩnh cuộc nổi dậy hai trăm năm trước bị hoàng tộc đàn áp dã man
 avatar: ''
 arcs:
   - arc: 1

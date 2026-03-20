@@ -4,6 +4,8 @@ name: Phấn Vũ
 hantu: 粉羽
 archetype: Phấn Sư
 race: Vi Tộc
+origin: Nam Cương
+faction_rank: Phấn Sư
 avatar: ''
 arcs:
   - arc: 1

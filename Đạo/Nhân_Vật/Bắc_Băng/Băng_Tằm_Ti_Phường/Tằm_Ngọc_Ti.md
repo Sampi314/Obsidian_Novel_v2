@@ -4,6 +4,12 @@ name: Tằm Ngọc Ti
 hantu: 蠶玉絲
 archetype: Phường Chủ
 race: Vi Tộc
+dao_tam: Tơ bền vì nhẫn, vải đẹp vì công
+aliases:
+  - "Ngọc Ti Phường Chủ" (玉絲坊主)"
+origin: Bắc Băng — Hang Tằm Vạn Năm, tầng sâu nhất
+age: 1
+faction_rank: Phường Chủ — quản lý toàn bộ hoạt động sản xuất
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,14 @@ name: Đồng Cân Lực
 hantu: 銅筋力
 archetype: Phu Khuân
 race: Cự Tộc
+lingan: Thổ-Kim Song Linh Căn (土金双灵根)
+dao_tam: Cân Bằng Vi Đạo
+aliases:
+  - "Cái Cân Biết Đi" (行秤)"
+  - "Đồng Gân" (銅筋)"
+origin: Bắc Băng
+age: 230
+faction_rank: Phó Đội (副隊) — phó đội trưởng Cự Tộc Phu Khuân Vác
 avatar: ''
 arcs:
   - arc: 1

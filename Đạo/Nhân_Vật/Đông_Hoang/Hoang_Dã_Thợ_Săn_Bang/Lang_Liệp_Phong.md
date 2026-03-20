@@ -4,6 +4,8 @@ name: Lang Liệp Phong
 hantu: 狼獵風
 archetype: Bang Chủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Bang Chủ
 avatar: ''
 arcs:
   - arc: 1

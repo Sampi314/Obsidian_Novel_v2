@@ -4,6 +4,8 @@ name: Ám Huyết
 hantu: 暗血
 archetype: Huyết Mạch Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Huyết Mạch Sư
 avatar: ''
 arcs:
   - arc: 1

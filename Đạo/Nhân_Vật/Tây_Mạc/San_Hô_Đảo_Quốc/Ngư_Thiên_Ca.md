@@ -4,6 +4,8 @@ name: Ngư Thiên Ca
 hantu: 魚天歌
 archetype: Đại Nhạc Sư
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Đại Nhạc Sư
 avatar: ''
 arcs:
   - arc: 1

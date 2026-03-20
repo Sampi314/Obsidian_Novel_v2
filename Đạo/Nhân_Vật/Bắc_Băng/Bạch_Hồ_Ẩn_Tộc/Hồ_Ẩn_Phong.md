@@ -4,6 +4,14 @@ name: Hồ Ẩn Phong
 hantu: 狐隐风
 archetype: Giám Sát
 race: Yêu Tộc
+dao_tam: Thiên Nhĩ Hộ Tộc
+aliases:
+  - "Thiên Nhĩ (千耳 — "Ngàn Tai")"
+  - "Gió Thầm (暗风)"
+  - "dân chài gọi hắn là Lão Phong Câm (风哑佬)"
+origin: Bắc Băng — làng chài ven biển Bắc Hải
+age: 203
+faction_rank: Giám Sát Yêu Khí (妖气监察)
 avatar: ''
 arcs:
   - arc: 1

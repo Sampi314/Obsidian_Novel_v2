@@ -4,6 +4,9 @@ name: Huyết Băng Tử
 hantu: 血冰子
 archetype: Hộ Pháp
 race: Băng Tộc
+dao_tam: Dĩ Huyết Tôi Băng
+origin: Bắc Băng
+faction_rank: Đệ Nhị Sát Sương Quỷ
 avatar: ''
 arcs:
   - arc: 1

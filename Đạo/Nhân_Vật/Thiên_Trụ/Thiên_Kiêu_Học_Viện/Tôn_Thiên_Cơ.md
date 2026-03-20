@@ -4,6 +4,8 @@ name: Tôn Thiên Cơ
 hantu: 孫天機
 archetype: Trận Chư Viện Chủ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Trận Chư Viện Chủ
 avatar: ''
 arcs:
   - arc: 1

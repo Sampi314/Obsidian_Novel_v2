@@ -4,6 +4,11 @@ name: Sơn Cương
 hantu: 山鋼
 archetype: Đệ Thất Hỏa Sư
 race: Lai Cự Tộc
+aliases:
+  - "Cương Chùy" (鋼錘) — Búa Thép"
+  - "vì nhát búa gã nặng nhất Thạch Linh Cung (tính theo lực tuyệt đối)"
+origin: Thiên Trụ
+faction_rank: Đệ Thất Hỏa Sư — phụ trách rèn đúc nặng
 avatar: ''
 arcs:
   - arc: 1

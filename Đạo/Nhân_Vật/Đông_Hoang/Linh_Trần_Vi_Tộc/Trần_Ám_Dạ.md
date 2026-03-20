@@ -4,6 +4,8 @@ name: Trần Ám Dạ
 hantu: 塵暗夜
 archetype: Ám Trần
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Ám Trần
 avatar: ''
 arcs:
   - arc: 1

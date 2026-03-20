@@ -4,6 +4,8 @@ name: Thạch Lôi
 hantu: 石雷
 archetype: Chiến Sĩ
 race: Cự Tộc
+origin: Thiên Trụ
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

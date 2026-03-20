@@ -4,6 +4,8 @@ name: Lý Minh Châu
 hantu: 李明珠
 archetype: Giám Định Viện Chủ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Giám Định Viện Chủ
 avatar: ''
 arcs:
   - arc: 1

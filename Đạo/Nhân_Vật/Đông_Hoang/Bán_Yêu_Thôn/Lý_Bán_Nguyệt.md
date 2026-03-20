@@ -4,6 +4,11 @@ name: Lý Bán Nguyệt
 hantu: 李半月
 archetype: Thôn Trưởng
 race: Bán Yêu
+aliases:
+  - "Bán Nguyệt Hồ Mẫu (半月狐母)"
+  - "nhưng thôn dân gọi kính cẩn là "Nguyệt Mẫu"
+age: 347
+faction_rank: Thôn Trưởng
 avatar: ''
 arcs:
   - arc: 1

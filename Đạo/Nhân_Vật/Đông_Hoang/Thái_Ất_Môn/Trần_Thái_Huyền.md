@@ -4,6 +4,8 @@ name: Trần Thái Huyền
 hantu: 陳太玄
 archetype: Thái Thượng Trưởng Lão
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Thái Thượng Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

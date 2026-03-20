@@ -4,6 +4,8 @@ name: Phạm Thư Sinh
 hantu: 范书生
 archetype: Quản Sự
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Quản Sự Dạy Chữ
 avatar: ''
 arcs:
   - arc: 1

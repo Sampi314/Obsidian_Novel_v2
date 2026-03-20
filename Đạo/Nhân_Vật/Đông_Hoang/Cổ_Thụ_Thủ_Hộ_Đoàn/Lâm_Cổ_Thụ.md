@@ -4,6 +4,8 @@ name: Lâm Cổ Thụ
 hantu: 林古樹
 archetype: Đoàn Trưởng
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

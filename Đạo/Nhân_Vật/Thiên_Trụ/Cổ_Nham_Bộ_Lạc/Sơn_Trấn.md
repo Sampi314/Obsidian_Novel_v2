@@ -4,6 +4,8 @@ name: Sơn Trấn
 hantu: 山鎮
 archetype: Thủ Vệ
 race: Cự Tộc
+origin: Thiên Trụ
+faction_rank: Thủ Vệ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Vũ Tiểu Phong
 hantu: 羽小風
 archetype: Học Đồ
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Học Đồ
 avatar: ''
 arcs:
   - arc: 1

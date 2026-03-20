@@ -4,6 +4,8 @@ name: Đặng Hỏa Nhi
 hantu: 邓火儿
 archetype: Hộ Vệ
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Hộ Vệ Trưởng
 avatar: ''
 arcs:
   - arc: 1

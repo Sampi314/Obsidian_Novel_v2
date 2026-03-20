@@ -4,6 +4,8 @@ name: Trần Nhu Tâm
 hantu: 陈柔心
 archetype: Quản Sự
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Quản Sự Nấu Ăn
 avatar: ''
 arcs:
   - arc: 1

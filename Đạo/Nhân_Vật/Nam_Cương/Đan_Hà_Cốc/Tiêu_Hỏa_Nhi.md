@@ -4,6 +4,8 @@ name: Tiêu Hỏa Nhi
 hantu: 蕭火兒
 archetype: Đệ Cửu Tháp Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Cửu Tháp Chủ
 avatar: ''
 arcs:
   - arc: 1

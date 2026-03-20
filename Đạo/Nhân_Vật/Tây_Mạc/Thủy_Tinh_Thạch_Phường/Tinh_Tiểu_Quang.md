@@ -4,6 +4,8 @@ name: Tinh Tiểu Quang
 hantu: 晶小光
 archetype: Thợ Phụ
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Thợ Phụ
 avatar: ''
 arcs:
   - arc: 1

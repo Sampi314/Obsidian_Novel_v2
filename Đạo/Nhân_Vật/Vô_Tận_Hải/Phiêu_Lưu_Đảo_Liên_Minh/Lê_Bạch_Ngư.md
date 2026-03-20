@@ -4,6 +4,8 @@ name: Lê Bạch Ngư
 hantu: 黎白鱼
 archetype: Đảo Chủ
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Đảo Chủ Đảo Số Ba
 avatar: ''
 arcs:
   - arc: 1

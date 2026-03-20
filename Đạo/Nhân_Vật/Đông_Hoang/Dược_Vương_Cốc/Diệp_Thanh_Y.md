@@ -4,6 +4,10 @@ name: Diệp Thanh Y
 hantu: 葉青衣
 archetype: Y Sư
 race: Nhân Tộc
+lingan: Mộc Linh Căn (Thiên Linh Căn - Thuần Mộc)
+dao_tam: Sinh Sinh Bất Tức
+age: 900
+faction_rank: - Cốc Chủ Dược Vương Cốc (Đời thứ 18)
 avatar: Diệp_Thanh_Y.png
 arcs:
   - arc: 1

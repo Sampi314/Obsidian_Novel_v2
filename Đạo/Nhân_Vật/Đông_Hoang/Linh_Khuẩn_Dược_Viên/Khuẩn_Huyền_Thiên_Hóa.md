@@ -4,6 +4,8 @@ name: Khuẩn Huyền Thiên Hóa
 hantu: 菌玄天化
 archetype: Phân Giải Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Phân Giải Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Đặng Tiểu Ngư
 hantu: 邓小鱼
 archetype: Hộ Vệ
 race: Nhân Tộc
+dao_tam: Muốn biết biển sâu đến đâu
+origin: Vô Tận Hải
+faction_rank: Hộ Vệ Viên / Linh Căn Thủy
 avatar: ''
 arcs:
   - arc: 1

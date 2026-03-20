@@ -4,6 +4,8 @@ name: Chu Thiết Diện
 hantu: 朱鐵面
 archetype: Trưởng Lão Chấp Pháp
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Trưởng Lão Chấp Pháp
 avatar: ''
 arcs:
   - arc: 1

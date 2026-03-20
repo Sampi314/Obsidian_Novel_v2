@@ -4,6 +4,8 @@ name: Huyết Triều
 hantu: 血潮
 archetype: Nam Phương Thủy Tướng
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Nam Phương Thủy Tướng
 avatar: ''
 arcs:
   - arc: 1

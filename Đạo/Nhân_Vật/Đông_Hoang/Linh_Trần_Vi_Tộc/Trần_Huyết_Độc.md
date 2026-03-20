@@ -4,6 +4,8 @@ name: Trần Huyết Độc
 hantu: 塵血毒
 archetype: Cảnh Báo Thể
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Cảnh Báo Thể
 avatar: ''
 arcs:
   - arc: 1

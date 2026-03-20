@@ -4,6 +4,13 @@ name: Bào Hàn Ngọc
 hantu: 孢寒玉
 archetype: Phó Minh Chủ
 race: Vi Tộc
+dao_tam: Ngọc không cần hoa, băng không cần sắc. Sự thật thuần túy mới là vũ khí sắc bén nhất
+aliases:
+  - "Ngọc Diện" (玉面)"
+  - "Lạnh Hơn Băng" (寒過冰)"
+  - "ám chỉ tính cách lãnh đạm đến mức cả băng cũng phải ghen tị"
+age: 2
+faction_rank: Phó Minh Chủ (副盟主)
 avatar: ''
 arcs:
   - arc: 1

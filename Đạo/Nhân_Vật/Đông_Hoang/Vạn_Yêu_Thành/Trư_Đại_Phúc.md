@@ -4,6 +4,8 @@ name: Trư Đại Phúc
 hantu: 猪大福
 archetype: Đầu Bếp
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Đầu Bếp
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Xà Ám Lân
 hantu: 蛇暗鳞
 archetype: Trưởng Lão
 race: Yêu Tộc (Xà)
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

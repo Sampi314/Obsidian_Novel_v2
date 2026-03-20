@@ -4,6 +4,8 @@ name: Loan Thanh La
 hantu: 鸞青羅
 archetype: Chiến Sĩ
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

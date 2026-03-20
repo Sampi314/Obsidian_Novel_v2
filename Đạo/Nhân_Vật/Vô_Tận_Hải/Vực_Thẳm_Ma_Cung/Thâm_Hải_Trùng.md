@@ -4,6 +4,8 @@ name: Thâm Hải Trùng
 hantu: 深海虫
 archetype: Ma Binh
 race: Hải Tộc (Biến Dị)
+origin: Vô Tận Hải
+faction_rank: Đội Trưởng Xung Kích
 avatar: ''
 arcs:
   - arc: 1

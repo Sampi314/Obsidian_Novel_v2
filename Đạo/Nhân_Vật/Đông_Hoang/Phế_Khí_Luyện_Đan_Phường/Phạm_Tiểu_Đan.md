@@ -4,6 +4,8 @@ name: Phạm Tiểu Đan
 hantu: 范小丹
 archetype: Học Đồ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Học Đồ
 avatar: ''
 arcs:
   - arc: 1

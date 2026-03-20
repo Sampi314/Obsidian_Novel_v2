@@ -4,6 +4,12 @@ name: Trần Thiên Hổ
 hantu: 陳天虎
 archetype: Phó Thôn Trưởng
 race: Bán Yêu
+aliases:
+  - "Độc Bì Chiến Hổ (禿皮戰虎) — biệt danh tự đặt"
+  - "vì hắn nói "da hổ ta đã bị cuộc đời lột hết"
+  - "chỉ còn xương và nanh"
+age: 312
+faction_rank: Phó Thôn Trưởng kiêm Thống Lĩnh Phòng Vệ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Đỗ Tiểu Hổ
 hantu: 杜小虎
 archetype: Cơ Sở Đệ Tử
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Cơ Sở Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Vi Linh Mẫu
 hantu: 微靈母
 archetype: Linh Mẫu
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Linh Mẫu
 avatar: ''
 arcs:
   - arc: 1

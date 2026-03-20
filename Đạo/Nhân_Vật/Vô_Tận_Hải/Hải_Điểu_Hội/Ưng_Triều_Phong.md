@@ -4,6 +4,8 @@ name: Ưng Triều Phong
 hantu: 鷹潮鋒
 archetype: Chiến Tướng
 race: Vũ Tộc
+origin: Vô Tận Hải
+faction_rank: Chiến Tướng
 avatar: ''
 arcs:
   - arc: 1

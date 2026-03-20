@@ -4,6 +4,8 @@ name: Xà Thanh Lân Dạ
 hantu: 蛇青鱗夜
 archetype: Xà Đội Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Xà Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

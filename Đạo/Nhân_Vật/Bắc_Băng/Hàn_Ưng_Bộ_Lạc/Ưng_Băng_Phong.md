@@ -4,6 +4,8 @@ name: Ưng Băng Phong
 hantu: 鷹冰鋒
 archetype: Chiến Sĩ
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

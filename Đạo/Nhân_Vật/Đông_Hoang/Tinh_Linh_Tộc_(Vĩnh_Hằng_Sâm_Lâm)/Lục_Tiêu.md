@@ -4,6 +4,11 @@ name: Lục Tiêu
 hantu: 綠簫
 archetype: Âm Luật Sư
 race: Tinh Linh Tộc
+dao_tam: Vạn Vật Hữu Linh, Thanh Âm Hộ Mệnh
+aliases:
+  - "Thanh Âm Sứ Giả (Thanh Am Su Gia)"
+  - "Lục Diệp Tiên Tử (Luc Diep Tien Tu)"
+faction_rank: Sứ Giả Đặc Phái của Nữ Hoàng Nguyệt Dao
 avatar: Lục_Tiêu.png
 arcs:
   - arc: 1

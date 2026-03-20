@@ -4,6 +4,8 @@ name: Trần Thiện Tâm
 hantu: 陳善心
 archetype: Phó Đội Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

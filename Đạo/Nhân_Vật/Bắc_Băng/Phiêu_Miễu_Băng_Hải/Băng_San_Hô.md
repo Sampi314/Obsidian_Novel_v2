@@ -4,6 +4,8 @@ name: Băng San Hô
 hantu: 冰珊瑚
 archetype: Dược Sư
 race: Hải Yêu
+origin: Bắc Băng
+faction_rank: Dược Sư Biển Băng
 avatar: ''
 arcs:
   - arc: 1

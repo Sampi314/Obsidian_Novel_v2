@@ -4,6 +4,8 @@ name: Hồ Nguyệt Nhi
 hantu: 狐月兒
 archetype: Trưởng Lão Hồng Phấn Các
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Hồng Phấn Các
 avatar: ''
 arcs:
   - arc: 1

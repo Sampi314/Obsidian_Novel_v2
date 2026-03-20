@@ -4,6 +4,8 @@ name: Triệu Vạn Quân
 hantu: 趙萬軍
 archetype: Phó Tướng Thần Sách
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Phó Tướng Thần Sách
 avatar: ''
 arcs:
   - arc: 1

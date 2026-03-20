@@ -4,6 +4,8 @@ name: Phạm Ba Đào
 hantu: 范波濤
 archetype: Hoa Tiêu Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hoa Tiêu Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nguyệt Quang
 hantu: 月光
 archetype: Đàn Mẫu
 race: Trùng Tộc (Sứa Linh)
+origin: Vô Tận Hải
+faction_rank: Đàn Mẫu
 avatar: ''
 arcs:
   - arc: 1

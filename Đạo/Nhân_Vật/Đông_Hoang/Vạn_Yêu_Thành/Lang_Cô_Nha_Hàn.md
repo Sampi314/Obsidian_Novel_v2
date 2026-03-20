@@ -4,6 +4,8 @@ name: Lang Cô Nha Hàn
 hantu: 狼孤牙寒
 archetype: Lính Đánh Thuê
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Lính Đánh Thuê
 avatar: ''
 arcs:
   - arc: 1

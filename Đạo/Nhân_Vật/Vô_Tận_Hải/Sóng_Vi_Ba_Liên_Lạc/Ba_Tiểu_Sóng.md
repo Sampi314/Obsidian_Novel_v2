@@ -4,6 +4,12 @@ name: Ba Tiểu Sóng
 hantu: 波小浪
 archetype: Đệ Tử Phát Sóng
 race: Vi Tộc
+dao_tam: Chưa hình thành
+aliases:
+  - "Sóng Nhóc" (小波)"
+  - "trong khi Ba Vạn Lý phát được vạn dặm"
+origin: Vô Tận Hải
+faction_rank: Đệ Tử Phát Sóng (发波弟子) — vị trí thấp nhất trong hệ thống
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trùng Tiểu Mật
 hantu: 蟲小密
 archetype: Mật Thám
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Mật Thám
 avatar: ''
 arcs:
   - arc: 1

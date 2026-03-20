@@ -4,6 +4,14 @@ name: Quang Hàn Chấp Sự
 hantu: 光寒执事
 archetype: Chấp Sự
 race: Băng Tộc
+lingan: Quang Băng Song Linh Căn (光冰双灵根)
+dao_tam: Quang Hàn Tịnh Tâm
+aliases:
+  - "Tuyết Trung Thư Sinh (雪中书生"
+  - "Song Bút Chấp Sự (双笔执事 — "Chấp Sự Hai Bút")"
+origin: Bắc Băng — Thung lũng Ánh Sáng Vĩnh Cửu
+age: 112
+faction_rank: Phó Viện Chủ Tế Tư Viện (祭司院副院主)
 avatar: ''
 arcs:
   - arc: 1

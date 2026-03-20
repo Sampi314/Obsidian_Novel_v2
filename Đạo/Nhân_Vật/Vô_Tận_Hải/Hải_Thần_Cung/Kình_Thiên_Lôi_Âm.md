@@ -4,6 +4,8 @@ name: Kình Thiên Lôi Âm
 hantu: 鯨天雷音
 archetype: Hải Quân Trưởng
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Hải Quân Trưởng
 avatar: ''
 arcs:
   - arc: 1

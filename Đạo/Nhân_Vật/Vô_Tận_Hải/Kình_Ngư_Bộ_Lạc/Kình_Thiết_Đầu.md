@@ -4,6 +4,8 @@ name: Kình Thiết Đầu
 hantu: 鯨鐵頭
 archetype: Chiến Sĩ
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

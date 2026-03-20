@@ -4,6 +4,8 @@ name: Quy Tiểu Thanh
 hantu: 龜小青
 archetype: Đệ Tử
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

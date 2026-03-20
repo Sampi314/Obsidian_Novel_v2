@@ -4,6 +4,10 @@ name: Hùng Đông
 hantu: 熊冬
 archetype: Hội Trưởng
 race: Yêu Tộc
+aliases:
+  - "Đông Miên Lão Hùng (冬眠老熊)"
+  - "Ấm Bụng Đại Vương (暖腹大王)"
+faction_rank: Hội Trưởng Yêu Thú Đông Miên Hội
 avatar: ''
 arcs:
   - arc: 1

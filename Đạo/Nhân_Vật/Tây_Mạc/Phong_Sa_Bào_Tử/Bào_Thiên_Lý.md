@@ -4,6 +4,11 @@ name: Bào Thiên Lý
 hantu: 孢千里
 archetype: Viễn Chinh Sứ
 race: Vi Tộc
+dao_tam: Bay xa để biết nhà quý. Quay về để biết đường rộng
+aliases:
+  - "Vạn Dặm" (万里)"
+origin: Tây Mạc
+faction_rank: Viễn Chinh Sứ (远征使)
 avatar: ''
 arcs:
   - arc: 1

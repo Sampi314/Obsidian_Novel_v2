@@ -4,6 +4,9 @@ name: Trầm Nham Hải
 hantu: 沉岩海
 archetype: Hải Đáy Ẩn Sĩ
 race: Cự Tộc
+dao_tam: Vạn Vật Quy Tĩnh
+origin: Vô Tận Hải
+faction_rank: Hải Đáy Ẩn Sĩ
 avatar: ''
 arcs:
   - arc: 1

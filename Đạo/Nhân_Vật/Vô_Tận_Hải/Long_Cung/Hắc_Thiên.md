@@ -4,6 +4,8 @@ name: Hắc Thiên
 hantu: 黑天
 archetype: Đông Hải Long Vương
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Đông Hải Long Vương
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Báo Nguyệt Nha
 hantu: 豹月牙
 archetype: Trinh Sát
 race: Yêu Tộc
+origin: Nam Cương
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

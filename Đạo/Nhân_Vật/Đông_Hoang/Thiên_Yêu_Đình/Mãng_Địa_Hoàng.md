@@ -4,6 +4,8 @@ name: Mãng Địa Hoàng
 hantu: 蟒地皇
 archetype: Địa Yêu Vương
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Địa Yêu Vương
 avatar: ''
 arcs:
   - arc: 1

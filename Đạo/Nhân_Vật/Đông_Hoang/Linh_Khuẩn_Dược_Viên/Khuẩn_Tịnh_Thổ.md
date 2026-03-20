@@ -4,6 +4,8 @@ name: Khuẩn Tịnh Thổ
 hantu: 菌淨土
 archetype: Tịnh Hóa Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Tịnh Hóa Sư
 avatar: ''
 arcs:
   - arc: 1

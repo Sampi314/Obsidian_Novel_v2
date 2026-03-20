@@ -4,6 +4,8 @@ name: Lê Trấn Sơn
 hantu: 黎鎮山
 archetype: Hiệu Úy
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hiệu Úy
 avatar: ''
 arcs:
   - arc: 1

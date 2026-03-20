@@ -4,6 +4,8 @@ name: Đặng Thiên Hà
 hantu: 邓天河
 archetype: Đội Trưởng Hộ Thương
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Đội Trưởng Hộ Thương
 avatar: ''
 arcs:
   - arc: 1

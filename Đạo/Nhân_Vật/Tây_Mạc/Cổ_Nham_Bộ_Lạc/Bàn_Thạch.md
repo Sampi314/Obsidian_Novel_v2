@@ -4,6 +4,9 @@ name: Bàn Thạch
 hantu: 磐石
 archetype: Đại Tế Tư
 race: Thạch Tộc
+dao_tam: Nham Thần Vĩnh Tồn
+origin: Tây Mạc
+faction_rank: Đại Tế Tư
 avatar: ''
 arcs:
   - arc: 1

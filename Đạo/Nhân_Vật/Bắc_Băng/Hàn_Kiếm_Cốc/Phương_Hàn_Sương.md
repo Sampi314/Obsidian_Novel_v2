@@ -4,6 +4,13 @@ name: Phương Hàn Sương
 hantu: 方寒霜
 archetype: Trưởng Lão
 race: Nhân Tộc
+lingan: Thủy-Phong Song Linh Căn
+dao_tam: Kiếm không cần đẹp, chỉ cần đúng lúc cứu được người
+aliases:
+  - "Sương Ảnh" (霜影)"
+origin: Bắc Băng — Hẻm núi Bão Tuyết
+age: 420
+faction_rank: Trưởng Lão Kiếm Đạo (剑道长老)
 avatar: ''
 arcs:
   - arc: 1

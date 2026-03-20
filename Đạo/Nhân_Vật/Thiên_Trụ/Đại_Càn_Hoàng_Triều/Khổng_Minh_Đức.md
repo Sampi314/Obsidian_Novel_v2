@@ -4,6 +4,8 @@ name: Khổng Minh Đức
 hantu: 孔明德
 archetype: Lễ Bộ Thượng Thư
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Lễ Bộ Thượng Thư
 avatar: ''
 arcs:
   - arc: 1

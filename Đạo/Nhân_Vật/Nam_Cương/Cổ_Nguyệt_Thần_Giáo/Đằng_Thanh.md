@@ -4,6 +4,8 @@ name: Đằng Thanh
 hantu: 藤青
 archetype: Đệ Tử Đồ Đằng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Tử Đồ Đằng
 avatar: ''
 arcs:
   - arc: 1

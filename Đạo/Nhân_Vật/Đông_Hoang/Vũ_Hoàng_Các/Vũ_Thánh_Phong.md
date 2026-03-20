@@ -4,6 +4,8 @@ name: Vũ Thánh Phong
 hantu: 羽聖風
 archetype: Thánh Phong Trưởng Lão
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Thánh Phong Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

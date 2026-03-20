@@ -4,6 +4,8 @@ name: Thanh Vĩ Nhi
 hantu: 青尾儿
 archetype: Đội Trưởng Tuần Tra
 race: Yêu Tộc (Xà Tộc)
+origin: Vô Tận Hải — rừng rậm phía đông Núi Độc Long
+faction_rank: Đội Trưởng Tuần Tra của Lục Mãng Hạ Tộc
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Phong Thiết Nha
 hantu: 风铁牙
 archetype: Hộ Pháp
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Hộ Pháp Phong Lôi Hộ Vệ
 avatar: ''
 arcs:
   - arc: 1

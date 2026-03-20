@@ -4,6 +4,8 @@ name: Mộc Dạ Hỏa
 hantu: 木夜火
 archetype: Gián Điệp
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Gián Điệp
 avatar: ''
 arcs:
   - arc: 1

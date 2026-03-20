@@ -4,6 +4,8 @@ name: Thạch Vạn Lý
 hantu: 石萬里
 archetype: Đội Trưởng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

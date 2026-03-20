@@ -4,6 +4,8 @@ name: San Thúy Liên
 hantu: 珊翠蓮
 archetype: Nữ Nuôi Trồng Sư
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Nữ Nuôi Trồng Sư
 avatar: ''
 arcs:
   - arc: 1

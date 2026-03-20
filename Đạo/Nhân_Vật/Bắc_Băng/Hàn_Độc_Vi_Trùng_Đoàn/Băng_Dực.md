@@ -4,6 +4,8 @@ name: Băng Dực
 hantu: 冰翼
 archetype: Trinh Sát
 race: Trùng Tộc
+origin: Bắc Băng
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

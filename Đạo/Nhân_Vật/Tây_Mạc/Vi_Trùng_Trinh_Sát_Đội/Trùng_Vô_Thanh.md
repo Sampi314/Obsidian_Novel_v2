@@ -4,6 +4,8 @@ name: Trùng Vô Thanh
 hantu: 蟲無聲
 archetype: Xâm Nhập Viên
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Xâm Nhập Viên
 avatar: ''
 arcs:
   - arc: 1

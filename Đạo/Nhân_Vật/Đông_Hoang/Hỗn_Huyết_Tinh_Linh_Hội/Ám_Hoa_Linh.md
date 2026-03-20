@@ -4,6 +4,8 @@ name: Ám Hoa Linh
 hantu: 暗花靈
 archetype: Mưu Sĩ
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Mưu Sĩ
 avatar: ''
 arcs:
   - arc: 1

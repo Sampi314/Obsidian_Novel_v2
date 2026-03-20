@@ -4,6 +4,8 @@ name: Điêu Hương Phong
 hantu: 貂香風
 archetype: Thương Nhân
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thương Nhân
 avatar: ''
 arcs:
   - arc: 1

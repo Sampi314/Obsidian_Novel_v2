@@ -4,6 +4,8 @@ name: San Tử Hà
 hantu: 珊紫霞
 archetype: Dược Sư San Hô
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Dược Sư San Hô
 avatar: ''
 arcs:
   - arc: 1

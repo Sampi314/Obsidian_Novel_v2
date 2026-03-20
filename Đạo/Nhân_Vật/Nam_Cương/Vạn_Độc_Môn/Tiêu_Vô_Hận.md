@@ -4,6 +4,8 @@ name: Tiêu Vô Hận
 hantu: 蕭無恨
 archetype: Thất Sát
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Thất Sát
 avatar: ''
 arcs:
   - arc: 1

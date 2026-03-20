@@ -4,6 +4,14 @@ name: Ưng Phong Nhận
 hantu: 鷹風刃
 archetype: Chiến Sĩ
 race: Vũ Tộc
+lingan: Song linh căn
+dao_tam: Mỗi lưỡi dao đều mang trách nhiệm. Mỗi nhát cắt đều có ý nghĩa
+aliases:
+  - "Lông Dao" (刃羽)"
+  - "phóng ra cắt đứt mọi thứ trên đường bay"
+origin: Thiên Trụ — Bắc Băng
+age: 72
+faction_rank: Chiến Sĩ (戰士)
 avatar: ''
 arcs:
   - arc: 1

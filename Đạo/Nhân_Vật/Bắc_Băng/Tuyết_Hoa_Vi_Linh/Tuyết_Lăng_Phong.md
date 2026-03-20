@@ -4,6 +4,9 @@ name: Tuyết Lăng Phong
 hantu: 雪凌風
 archetype: Vũ Điệu Sư
 race: Vi Tộc
+dao_tam: gió ở đó đẹp
+origin: Bắc Băng — ưa thích vùng có gió mạnh, đặc biệt hẻm gió giữa các dãy băng sơn
+faction_rank: Vũ Điệu Sư — nghệ sĩ múa của quần thể
 avatar: ''
 arcs:
   - arc: 1

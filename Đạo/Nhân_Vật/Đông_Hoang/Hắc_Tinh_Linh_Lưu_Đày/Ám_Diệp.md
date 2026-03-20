@@ -4,6 +4,8 @@ name: Ám Diệp
 hantu: 暗葉
 archetype: Thủ Lĩnh
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thủ Lĩnh
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Vi Ngọc Tuyền
 hantu: 微玉泉
 archetype: Thủ Hộ
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Thủ Hộ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Yến Thanh Tốc
 hantu: 燕青速
 archetype: Truyền Tin
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Truyền Tin
 avatar: ''
 arcs:
   - arc: 1

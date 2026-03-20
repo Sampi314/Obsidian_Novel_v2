@@ -4,6 +4,8 @@ name: Cú Bạch Dạ
 hantu: 梟白夜
 archetype: Dạ Trinh Sát
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Dạ Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

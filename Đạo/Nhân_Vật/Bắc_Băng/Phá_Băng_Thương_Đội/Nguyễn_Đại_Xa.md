@@ -4,6 +4,9 @@ name: Nguyễn Đại Xa
 hantu: 阮大车
 archetype: Phu Khuân Vác
 race: Nhân Tộc
+dao_tam: Vác nổi bao nhiêu thì vác, không vác nổi thì gọi anh em phụ
+origin: Bắc Băng
+faction_rank: Trưởng Nhóm Khuân Vác
 avatar: ''
 arcs:
   - arc: 1

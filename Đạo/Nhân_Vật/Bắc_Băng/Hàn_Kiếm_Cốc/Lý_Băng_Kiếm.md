@@ -4,6 +4,14 @@ name: Lý Băng Kiếm
 hantu: 李冰剑
 archetype: Viện Chủ
 race: Nhân Tộc
+lingan: Thủy Linh Căn đơn hệ
+dao_tam: Kiếm ý không sinh từ kiếm, mà sinh từ tâm tĩnh lặng nhất
+aliases:
+  - "Kiếm Sư Không Ngủ" (不眠剑师)"
+  - "đôi mắt mở suốt như chưa bao giờ biết mỏi"
+origin: Bắc Băng — Hẻm núi Bão Tuyết
+age: 480
+faction_rank: Viện Chủ Chân Ngôn Kiếm Viện (真言剑院院主)
 avatar: ''
 arcs:
   - arc: 1

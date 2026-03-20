@@ -4,6 +4,8 @@ name: Mã Ngân Hải
 hantu: 馬銀海
 archetype: Cá Ngựa Hoang
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Cá Ngựa Hoang
 avatar: ''
 arcs:
   - arc: 1

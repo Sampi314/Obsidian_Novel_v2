@@ -4,6 +4,8 @@ name: Giải Huyền Giáp
 hantu: 蟹玄甲
 archetype: Thành Môn Tướng
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Thành Môn Tướng
 avatar: ''
 arcs:
   - arc: 1

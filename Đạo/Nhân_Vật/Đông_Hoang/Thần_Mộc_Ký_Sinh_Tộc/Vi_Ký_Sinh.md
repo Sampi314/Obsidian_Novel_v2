@@ -4,6 +4,8 @@ name: Vi Ký Sinh
 hantu: 微寄生
 archetype: Trưởng Lão
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

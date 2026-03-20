@@ -4,6 +4,8 @@ name: Thạch Khoáng Sơn
 hantu: 石礦山
 archetype: Thợ Mỏ Trưởng
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Thợ Mỏ Trưởng
 avatar: ''
 arcs:
   - arc: 1

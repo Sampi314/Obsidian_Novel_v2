@@ -4,6 +4,8 @@ name: Giao Phong Vân Hải
 hantu: 鲛風雲海
 archetype: Gián Điệp
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Gián Điệp
 avatar: ''
 arcs:
   - arc: 1

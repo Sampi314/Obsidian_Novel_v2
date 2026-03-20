@@ -4,6 +4,8 @@ name: Hoàng Ám Ảnh
 hantu: 黃暗影
 archetype: Ám Sát Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Ám Sát Trưởng
 avatar: ''
 arcs:
   - arc: 1

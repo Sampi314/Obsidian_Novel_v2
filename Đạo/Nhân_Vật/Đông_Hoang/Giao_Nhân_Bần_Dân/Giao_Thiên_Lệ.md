@@ -4,6 +4,9 @@ name: Giao Thiên Lệ
 hantu: 鲛千淚
 archetype: Thợ Dệt
 race: Hải Tộc
+aliases:
+  - "Bà Mù" trong khu ổ chuột — gọi thương"
+faction_rank: Thợ dệt lâu năm
 avatar: ''
 arcs:
   - arc: 1

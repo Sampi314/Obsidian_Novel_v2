@@ -4,6 +4,8 @@ name: Hải Cung
 hantu: 海宫
 archetype: Cung Chủ
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Cung Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Ngưu Đại Lực
 hantu: 牛大力
 archetype: Mục Trường Chủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Mục Trường Chủ
 avatar: ''
 arcs:
   - arc: 1

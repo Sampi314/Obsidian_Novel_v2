@@ -4,6 +4,9 @@ name: Dạ Cương
 hantu: 夜刚
 archetype: Đội Trưởng
 race: Cự Tộc (Sa Cự Nhân)
+dao_tam: Thủ Dạ Bất Di
+origin: Tây Mạc
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

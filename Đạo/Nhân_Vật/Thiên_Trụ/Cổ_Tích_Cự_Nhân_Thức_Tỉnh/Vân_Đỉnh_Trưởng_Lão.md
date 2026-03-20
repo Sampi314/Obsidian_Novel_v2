@@ -4,6 +4,8 @@ name: Vân Đỉnh Trưởng Lão
 hantu: 雲頂長老
 archetype: Trưởng Lão
 race: Cự Tộc
+origin: Thiên Trụ
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

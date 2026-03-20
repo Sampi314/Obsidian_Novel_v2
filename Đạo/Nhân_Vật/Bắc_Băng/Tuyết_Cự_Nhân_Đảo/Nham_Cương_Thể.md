@@ -4,6 +4,8 @@ name: Nham Cương Thể
 hantu: 岩刚体
 archetype: Chiến Binh
 race: Cự Tộc
+origin: Bắc Băng
+faction_rank: Dũng Sĩ Phòng Thủ
 avatar: ''
 arcs:
   - arc: 1

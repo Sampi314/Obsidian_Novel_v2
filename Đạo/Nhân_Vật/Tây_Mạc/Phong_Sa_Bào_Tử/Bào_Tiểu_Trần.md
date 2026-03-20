@@ -4,6 +4,9 @@ name: Bào Tiểu Trần
 hantu: 孢小塵
 archetype: Liên Lạc Viên Gió
 race: Vi Tộc
+dao_tam: Gió nhẹ — bay xa. Gió mạnh — núp kỹ
+origin: Tây Mạc
+faction_rank: Liên Lạc Viên Gió
 avatar: ''
 arcs:
   - arc: 1

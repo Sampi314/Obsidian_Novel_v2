@@ -4,6 +4,11 @@ name: Nham Đại Chùy
 hantu: 岩大錘
 archetype: Thợ Cả
 race: Cự Tộc
+dao_tam: Khắc Thạch Đạo
+aliases:
+  - "Thiên Khắc Thủ (千刻手) — "tay ngàn vết khắc"
+origin: Đông Hoang — ngoại ô thành thị nhân tộc
+faction_rank: Thợ Cả của Cự Tộc Thợ Xây
 avatar: ''
 arcs:
   - arc: 1

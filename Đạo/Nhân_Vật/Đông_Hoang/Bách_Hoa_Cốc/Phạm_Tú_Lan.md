@@ -4,6 +4,8 @@ name: Phạm Tú Lan
 hantu: 范秀蘭
 archetype: Trưởng Lão Hoa Linh Đường
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Hoa Linh Đường
 avatar: ''
 arcs:
   - arc: 1

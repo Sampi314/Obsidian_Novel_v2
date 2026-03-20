@@ -4,6 +4,8 @@ name: Mẫu Độc Châm
 hantu: 母毒針
 archetype: Độc Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Độc Sư
 avatar: ''
 arcs:
   - arc: 1

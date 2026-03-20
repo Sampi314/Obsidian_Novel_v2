@@ -4,6 +4,8 @@ name: Hoàng Ngọc Dương
 hantu: 黄玉阳
 archetype: Huyết Mạch Thức Tỉnh
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Huyết Mạch Thức Tỉnh
 avatar: ''
 arcs:
   - arc: 1

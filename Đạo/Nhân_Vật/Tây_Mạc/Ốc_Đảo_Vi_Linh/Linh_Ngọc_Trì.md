@@ -4,6 +4,9 @@ name: Linh Ngọc Trì
 hantu: 靈玉池
 archetype: Trưởng Lão Tịnh Hóa
 race: Vi Tộc
+dao_tam: Tịnh Thủy Vô Ba
+origin: Tây Mạc
+faction_rank: Trưởng Lão Tịnh Hóa
 avatar: ''
 arcs:
   - arc: 1

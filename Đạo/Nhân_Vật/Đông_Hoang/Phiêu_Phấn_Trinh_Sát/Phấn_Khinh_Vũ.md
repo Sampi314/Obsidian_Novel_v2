@@ -4,6 +4,8 @@ name: Phấn Khinh Vũ
 hantu: 粉輕羽
 archetype: Liên Lạc Viên
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Liên Lạc Viên
 avatar: ''
 arcs:
   - arc: 1

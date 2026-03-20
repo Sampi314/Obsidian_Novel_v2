@@ -4,6 +4,8 @@ name: Phượng Viêm Phong
 hantu: 鳳炎鋒
 archetype: Chiến Sĩ
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

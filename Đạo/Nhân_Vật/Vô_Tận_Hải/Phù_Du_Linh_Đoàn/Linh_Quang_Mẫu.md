@@ -4,6 +4,8 @@ name: Linh Quang Mẫu
 hantu: 灵光母
 archetype: Đoàn Mẫu
 race: Vi Tộc (Phù Du)
+origin: Vô Tận Hải
+faction_rank: Linh Quang Mẫu / Quần Thể Ý Thức
 avatar: ''
 arcs:
   - arc: 1

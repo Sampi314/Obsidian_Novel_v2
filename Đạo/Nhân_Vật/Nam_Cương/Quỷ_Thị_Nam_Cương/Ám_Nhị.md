@@ -4,6 +4,8 @@ name: Ám Nhị
 hantu: 暗二
 archetype: Tổng Quản
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Tổng Quản
 avatar: ''
 arcs:
   - arc: 1

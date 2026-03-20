@@ -4,6 +4,9 @@ name: Khuẩn Hủ Cốt
 hantu: 菌腐骨
 archetype: Đoàn Trưởng
 race: Vi Tộc
+dao_tam: Chết là nguyên liệu — ta biến chết thành sống, đó là lẽ trời
+origin: Tây Mạc
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

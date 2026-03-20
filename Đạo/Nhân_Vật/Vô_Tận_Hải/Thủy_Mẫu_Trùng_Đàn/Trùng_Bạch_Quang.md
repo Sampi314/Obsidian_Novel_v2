@@ -4,6 +4,8 @@ name: Trùng Bạch Quang
 hantu: 虫白光
 archetype: Sứa Linh Lớn
 race: Trùng Tộc (Sứa Linh)
+origin: Vô Tận Hải
+faction_rank: Phó Đàn
 avatar: ''
 arcs:
   - arc: 1

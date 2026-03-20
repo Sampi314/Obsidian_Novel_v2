@@ -4,6 +4,8 @@ name: Mẫu Tiểu Ca
 hantu: 母小歌
 archetype: Tập Sự
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Tập Sự
 avatar: ''
 arcs:
   - arc: 1

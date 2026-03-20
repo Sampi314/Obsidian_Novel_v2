@@ -4,6 +4,8 @@ name: Linh Tiểu Quang
 hantu: 灵小光
 archetype: Phù Du Tiên Phong
 race: Vi Tộc (Phù Du)
+origin: Vô Tận Hải
+faction_rank: Tiên Phong Chiếu Sáng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Cú Dạ Minh
 hantu: 梟夜鳴
 archetype: Tộc Trưởng
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

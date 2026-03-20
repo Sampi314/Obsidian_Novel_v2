@@ -4,6 +4,8 @@ name: Vi Nguyệt Ảnh
 hantu: 微月影
 archetype: Ảnh Chủ
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Ảnh Chủ
 avatar: ''
 arcs:
   - arc: 1

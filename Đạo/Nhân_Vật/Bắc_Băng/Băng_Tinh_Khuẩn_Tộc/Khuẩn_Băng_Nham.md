@@ -4,6 +4,14 @@ name: Khuẩn Băng Nham
 hantu: 菌冰岩
 archetype: Thủ Vệ Băng Thành
 race: Vi Tộc
+dao_tam: Đá không hỏi vì sao phải giữ vững. Đá chỉ giữ
+aliases:
+  - "Nham Vệ" (岩衛)"
+  - "vì hắn là cá thể duy nhất đảm nhận vai trò thủ vệ chuyên trách"
+  - "phát hiện vết nứt"
+origin: Bắc Băng
+age: 2
+faction_rank: Thủ Vệ Băng Thành
 avatar: ''
 arcs:
   - arc: 1

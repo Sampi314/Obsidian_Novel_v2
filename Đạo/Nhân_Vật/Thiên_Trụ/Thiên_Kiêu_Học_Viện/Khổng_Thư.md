@@ -4,6 +4,8 @@ name: Khổng Thư
 hantu: 孔書
 archetype: Giáo Sư
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Giáo Sư
 avatar: ''
 arcs:
   - arc: 1

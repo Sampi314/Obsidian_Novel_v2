@@ -4,6 +4,8 @@ name: Băng Nha
 hantu: 冰牙
 archetype: Bắc Phương Thủy Tướng
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Bắc Phương Thủy Tướng
 avatar: ''
 arcs:
   - arc: 1

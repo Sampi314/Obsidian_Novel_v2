@@ -4,6 +4,8 @@ name: Xích Ngọc Yên
 hantu: 赤玉嫣
 archetype: Dược Sư
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

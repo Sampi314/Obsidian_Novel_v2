@@ -4,6 +4,12 @@ name: Giao Thanh Lan
 hantu: 鲛青蘭
 archetype: Đông Bắc Tướng Quân
 race: Hải Tộc
+dao_tam: Kiếm Giữ Biên Cương, Nhất Kiếm Nhất Tâm
+aliases:
+  - "Thanh Kiếm Nữ Tướng (青劍女將)"
+  - "Lãng Hoa Thanh Lan (浪花青蘭"
+origin: Vô Tận Hải — đồn bốt phòng thủ trên các rạn san hô đá vùng Đông Bắc
+faction_rank: Đông Bắc Tướng Quân (東北將軍)
 avatar: ''
 arcs:
   - arc: 1

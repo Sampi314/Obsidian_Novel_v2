@@ -4,6 +4,8 @@ name: San Bạch Ngọc
 hantu: 珊白玉
 archetype: Trưởng Lão
 race: Hải Tộc (Tiên Cá)
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão Hội Đồng Linh San
 avatar: ''
 arcs:
   - arc: 1

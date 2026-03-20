@@ -4,6 +4,8 @@ name: Lý Xuân Phong
 hantu: 李春風
 archetype: Hộ Pháp
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

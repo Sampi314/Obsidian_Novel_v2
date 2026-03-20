@@ -4,6 +4,8 @@ name: Nham Đào
 hantu: 岩掘
 archetype: Phó Đội
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Phó Đội
 avatar: ''
 arcs:
   - arc: 1

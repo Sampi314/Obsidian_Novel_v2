@@ -4,6 +4,9 @@ name: Lý Tuyết Ưng
 hantu: 李雪鹰
 archetype: Cầm Sư
 race: Băng Tộc
+lingan: Thiên Linh Căn (Băng)
+dao_tam: "Băng Tâm Kiên Cố\" - Lòng vững như băng ngàn năm, không gì lay chuyển được"
+age: 1500
 avatar: Lý_Tuyết_Ưng.png
 arcs:
   - arc: 1

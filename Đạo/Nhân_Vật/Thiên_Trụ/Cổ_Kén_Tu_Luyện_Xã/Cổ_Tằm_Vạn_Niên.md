@@ -4,6 +4,8 @@ name: Cổ Tằm Vạn Niên
 hantu: 古蠶萬年
 archetype: Thái Thượng Trưởng Lão
 race: Trùng Tộc
+origin: Thiên Trụ
+faction_rank: Thái Thượng Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

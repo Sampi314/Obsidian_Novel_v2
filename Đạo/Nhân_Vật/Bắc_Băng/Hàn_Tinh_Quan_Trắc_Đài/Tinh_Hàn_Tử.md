@@ -4,6 +4,9 @@ name: Tinh Hàn Tử
 hantu: 星寒子
 archetype: Đài Trưởng
 race: Nhân Tộc
+dao_tam: Sao trời không nói dối — kẻ ghi sai là tội nhân của thiên đạo
+origin: Bắc Băng
+faction_rank: Đài Trưởng
 avatar: ''
 arcs:
   - arc: 1

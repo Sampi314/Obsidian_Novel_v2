@@ -4,6 +4,8 @@ name: Ngư Ngân Lân Hà
 hantu: 魚銀鱗河
 archetype: Vệ Binh Trưởng
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Vệ Binh Trưởng
 avatar: ''
 arcs:
   - arc: 1

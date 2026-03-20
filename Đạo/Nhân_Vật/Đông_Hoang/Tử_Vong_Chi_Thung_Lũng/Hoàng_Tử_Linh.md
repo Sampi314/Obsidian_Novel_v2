@@ -4,6 +4,8 @@ name: Hoàng Tử Linh
 hantu: 黃死靈
 archetype: Hộ Pháp
 race: Thi Tộc
+origin: Đông Hoang
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

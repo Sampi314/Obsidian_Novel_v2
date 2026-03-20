@@ -4,6 +4,8 @@ name: Hạc Tường Vân
 hantu: 鶴翔雲
 archetype: Trưởng Lão
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

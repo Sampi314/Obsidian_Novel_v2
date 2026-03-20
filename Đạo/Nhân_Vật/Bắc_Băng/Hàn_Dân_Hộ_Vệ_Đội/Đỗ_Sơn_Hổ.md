@@ -4,6 +4,14 @@ name: Đỗ Sơn Hổ
 hantu: 杜山虎
 archetype: Trinh Sát
 race: Nhân Tộc
+dao_tam: Bất Khứ
+aliases:
+  - "Hổ Điên" (疯虎)"
+  - "Tiểu Hổ" (小虎)"
+  - "Thằng Hổ Sợ Kim" (怕针虎)"
+origin: Bắc Băng — vùng đất đóng băng vĩnh cửu dưới chân Tuyết Sơn
+age: 23
+faction_rank: Trinh Sát Viên (侦察员)
 avatar: ''
 arcs:
   - arc: 1

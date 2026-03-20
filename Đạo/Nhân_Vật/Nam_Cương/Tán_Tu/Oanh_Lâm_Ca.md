@@ -4,6 +4,8 @@ name: Oanh Lâm Ca
 hantu: 鶯林歌
 archetype: Ca Sĩ
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Ca Sĩ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Chương Tiểu Vạn
 hantu: 章小萬
 archetype: Hậu Duệ
 race: Hải Tộc
+origin: Bắc Băng
+age: 200
+faction_rank: Hậu Duệ — không có chức vụ chính thức
 avatar: ''
 arcs:
   - arc: 1

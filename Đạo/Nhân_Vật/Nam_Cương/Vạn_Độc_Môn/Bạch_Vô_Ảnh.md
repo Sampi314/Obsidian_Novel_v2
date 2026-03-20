@@ -4,6 +4,8 @@ name: Bạch Vô Ảnh
 hantu: 白無影
 archetype: Tam Sát
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Tam Sát
 avatar: ''
 arcs:
   - arc: 1

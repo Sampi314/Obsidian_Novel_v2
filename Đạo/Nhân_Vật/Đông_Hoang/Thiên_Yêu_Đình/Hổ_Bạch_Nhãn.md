@@ -4,6 +4,8 @@ name: Hổ Bạch Nhãn
 hantu: 虎白眼
 archetype: Trưởng Lão
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

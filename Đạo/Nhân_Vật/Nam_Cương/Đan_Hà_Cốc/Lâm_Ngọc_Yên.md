@@ -4,6 +4,8 @@ name: Lâm Ngọc Yên
 hantu: 林玉煙
 archetype: Nội Môn Đệ Tử
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Nội Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

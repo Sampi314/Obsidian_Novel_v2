@@ -4,6 +4,16 @@ name: Lang Nhẫn Hàn
 hantu: 狼忍寒
 archetype: Chiến Binh
 race: Yêu Tộc
+dao_tam: Sói nhẫn nhịn không phải sói yếu — là sói chưa đến lúc cắn
+aliases:
+  - "Sói Lặng" (沉狼)"
+  - "luôn quan sát"
+  - "ít khi bộc lộ cảm xúc"
+  - "Kẻ Nhẫn Nhịn"
+  - "nửa mỉa mai nửa cảnh cáo"
+origin: Bắc Băng — Hang Suối Băng, vùng rìa phía nam lãnh thổ Băng Lang Bộ Lạc
+age: 80
+faction_rank: Chiến Binh Xung Kích
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Thạch Viên Viên
 hantu: 石圓圓
 archetype: Đầu Lĩnh
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Đầu Lĩnh
 avatar: ''
 arcs:
   - arc: 1

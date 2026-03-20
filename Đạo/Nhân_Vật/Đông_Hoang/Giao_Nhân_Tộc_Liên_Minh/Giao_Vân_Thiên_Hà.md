@@ -4,6 +4,8 @@ name: Giao Vân Thiên Hà
 hantu: 鲛雲天河
 archetype: Ngoại Giao
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Ngoại Giao
 avatar: ''
 arcs:
   - arc: 1

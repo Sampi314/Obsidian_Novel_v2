@@ -4,6 +4,9 @@ name: Vũ Thiết Sơn
 hantu: 武铁山
 archetype: Phó Đội
 race: Nhân Tộc
+dao_tam: Hoàn thành nhiệm vụ, đưa người về — không cần lý do đẹp đẽ
+origin: Vô Tận Hải
+faction_rank: Phó Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

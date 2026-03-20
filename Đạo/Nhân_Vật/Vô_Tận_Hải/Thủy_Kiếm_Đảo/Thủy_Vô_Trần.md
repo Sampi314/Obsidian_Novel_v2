@@ -4,6 +4,12 @@ name: Thủy Vô Trần
 hantu: 水无尘
 archetype: Đảo Chủ
 race: Nhân Tộc
+aliases:
+  - "Tĩnh Hải Kiếm Tôn (静海剑尊)"
+  - "đệ tử gọi kính cẩn là "Đảo Chủ" hoặc "Sư Phụ"
+origin: Vô Tận Hải
+age: 487
+faction_rank: Đảo Chủ — đời thứ mười một kế thừa Thủy Kiếm Đảo
 avatar: ''
 arcs:
   - arc: 1

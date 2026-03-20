@@ -4,6 +4,8 @@ name: Loa Thiên Âm Hải
 hantu: 螺千音海
 archetype: Nhạc Sư Lưu Lạc
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Nhạc Sư Lưu Lạc
 avatar: ''
 arcs:
   - arc: 1

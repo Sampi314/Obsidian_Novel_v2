@@ -4,6 +4,8 @@ name: Hoàng Phong Hành
 hantu: 黃風行
 archetype: Hộ Vệ Cốt Cán
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Vệ Cốt Cán
 avatar: ''
 arcs:
   - arc: 1

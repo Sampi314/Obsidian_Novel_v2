@@ -4,6 +4,8 @@ name: Diệp Tĩnh Sương
 hantu: 葉靜霜
 archetype: Kiếm Tu
 race: Nhân Tộc
+dao_tam: Kiếm Trảm Bất Bình
+age: 25
 avatar: Diệp_Tĩnh_Sương.png
 arcs:
   - arc: 1

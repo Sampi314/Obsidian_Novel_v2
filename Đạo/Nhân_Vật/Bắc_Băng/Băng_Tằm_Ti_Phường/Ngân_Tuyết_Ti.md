@@ -4,6 +4,13 @@ name: Ngân Tuyết Ti
 hantu: 銀雪絲
 archetype: Dệt Sư
 race: Trùng Tộc
+dao_tam: Tơ đẹp nhất là tơ có thể giết
+aliases:
+  - "Tuyết Nhận" (雪刃)"
+  - "Tiểu Tuyết" (小雪)"
+origin: Bắc Băng — Hang Tằm Vạn Năm, nhưng thường xuyên ra ngoài
+age: 400
+faction_rank: Dệt Sư
 avatar: ''
 arcs:
   - arc: 1

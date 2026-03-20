@@ -4,6 +4,12 @@ name: Hải Ngọc Lan
 hantu: 海玉蘭
 archetype: Công Chúa
 race: Hải Tộc
+dao_tam: Dĩ Nhạc Hóa Thương, Dĩ Mỹ Trị Thế
+aliases:
+  - "Tiểu Ngọc Lan (小玉蘭"
+  - "Lãng Du Công Chúa (浪遊公主"
+origin: Vô Tận Hải — Ngọc Lan Các (cung riêng), nhưng thường xuyên trốn lên mặt nước
+faction_rank: "Công Chúa Út (公主) — \"viên ngọc quý\" của Thủy Tinh Cung"
 avatar: ''
 arcs:
   - arc: 1

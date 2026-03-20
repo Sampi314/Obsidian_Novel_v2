@@ -4,6 +4,8 @@ name: Hồ Ngọc Nhan
 hantu: 狐玉顏
 archetype: Kỹ Viện Chủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Kỹ Viện Chủ
 avatar: ''
 arcs:
   - arc: 1

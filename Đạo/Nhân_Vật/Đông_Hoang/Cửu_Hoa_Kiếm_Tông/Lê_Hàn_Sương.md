@@ -4,6 +4,8 @@ name: Lê Hàn Sương
 hantu: 黎寒霜
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

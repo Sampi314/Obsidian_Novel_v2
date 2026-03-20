@@ -4,6 +4,8 @@ name: Điêu Thiên Hương
 hantu: 貂天香
 archetype: Trưởng Lão
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Thạch Nói Đá
 hantu: 石语石
 archetype: Đặc Biệt
 race: Cự Tộc
+dao_tam: Thạch Ngữ Vô Ngôn
+origin: Bắc Băng
+faction_rank: Cự Tộc Trẻ Thạch Linh
 avatar: ''
 arcs:
   - arc: 1

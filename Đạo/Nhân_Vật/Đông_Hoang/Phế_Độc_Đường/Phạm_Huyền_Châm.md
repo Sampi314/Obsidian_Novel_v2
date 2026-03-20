@@ -4,6 +4,8 @@ name: Phạm Huyền Châm
 hantu: 范玄針
 archetype: Sát Thủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Sát Thủ
 avatar: ''
 arcs:
   - arc: 1

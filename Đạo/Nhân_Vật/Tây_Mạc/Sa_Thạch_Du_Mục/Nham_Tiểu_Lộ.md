@@ -4,6 +4,8 @@ name: Nham Tiểu Lộ
 hantu: 岩小路
 archetype: Trinh Sát
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

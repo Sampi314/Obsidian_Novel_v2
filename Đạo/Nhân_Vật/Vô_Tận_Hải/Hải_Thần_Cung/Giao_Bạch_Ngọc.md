@@ -4,6 +4,8 @@ name: Giao Bạch Ngọc
 hantu: 鲛白玉
 archetype: Dệt Sư Trưởng
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Dệt Sư Trưởng
 avatar: ''
 arcs:
   - arc: 1

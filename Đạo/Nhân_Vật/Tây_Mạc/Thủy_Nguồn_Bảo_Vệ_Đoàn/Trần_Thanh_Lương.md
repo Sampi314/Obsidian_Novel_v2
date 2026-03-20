@@ -4,6 +4,9 @@ name: Trần Thanh Lương
 hantu: 陈清凉
 archetype: Thống Lĩnh Tuần Tra
 race: Nhân Tộc
+dao_tam: Cảnh Giác
+origin: Tây Mạc
+faction_rank: Thống Lĩnh Tuần Tra
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nha Thiên Dực
 hantu: 鴉千翼
 archetype: Trinh Sát Trên Không
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát Trên Không
 avatar: ''
 arcs:
   - arc: 1

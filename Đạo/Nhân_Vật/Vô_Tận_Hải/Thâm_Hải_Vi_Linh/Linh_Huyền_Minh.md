@@ -4,6 +4,9 @@ name: Linh Huyền Minh
 hantu: 靈玄冥
 archetype: Phó Chủ Thâm Uyên
 race: Vi Tộc
+dao_tam: Thủ Hộ Thâm Uyên
+origin: Vô Tận Hải
+faction_rank: Phó Chủ Thâm Uyên
 avatar: ''
 arcs:
   - arc: 1

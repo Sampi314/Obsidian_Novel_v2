@@ -4,6 +4,8 @@ name: Hồ Cửu Thiên
 hantu: 狐九天
 archetype: Hồ Con
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Hồ Con
 avatar: ''
 arcs:
   - arc: 1

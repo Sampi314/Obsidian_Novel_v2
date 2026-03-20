@@ -4,6 +4,8 @@ name: Mạc Vân
 hantu: 莫雲
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

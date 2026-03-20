@@ -4,6 +4,8 @@ name: Hỏa Kiến Vương
 hantu: 火蟻王
 archetype: Kiến Đoàn Trưởng
 race: Trùng Tộc
+origin: Thiên Trụ
+faction_rank: Kiến Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

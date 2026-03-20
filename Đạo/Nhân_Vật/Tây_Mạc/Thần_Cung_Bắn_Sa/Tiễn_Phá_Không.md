@@ -4,6 +4,8 @@ name: Tiễn Phá Không
 hantu: 箭破空
 archetype: Đại Trưởng Lão Chấp Pháp
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Đại Trưởng Lão (Chấp Pháp & Sát Thần Đội)
 avatar: ''
 arcs:
   - arc: 1

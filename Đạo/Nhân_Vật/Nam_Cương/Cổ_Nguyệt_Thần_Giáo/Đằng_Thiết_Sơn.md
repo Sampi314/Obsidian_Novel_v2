@@ -4,6 +4,8 @@ name: Đằng Thiết Sơn
 hantu: 藤鐵山
 archetype: Thống Lĩnh Đồ Đằng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Thống Lĩnh Đồ Đằng
 avatar: ''
 arcs:
   - arc: 1

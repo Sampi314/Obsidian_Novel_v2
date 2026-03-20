@@ -4,6 +4,8 @@ name: Nham Liệt
 hantu: 岩裂
 archetype: Chiến Binh
 race: Hỗn huyết (Cự Tộc, Thạch Tộc)
+origin: Tây Mạc
+faction_rank: Chiến Binh
 avatar: ''
 arcs:
   - arc: 1

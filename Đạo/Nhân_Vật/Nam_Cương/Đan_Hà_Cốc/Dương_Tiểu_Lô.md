@@ -4,6 +4,8 @@ name: Dương Tiểu Lô
 hantu: 楊小爐
 archetype: Đại Đệ Tử
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đại Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Yến Hải Phong
 hantu: 燕海風
 archetype: Truyền Tin
 race: Vũ Tộc
+origin: Vô Tận Hải
+faction_rank: Truyền Tin
 avatar: ''
 arcs:
   - arc: 1

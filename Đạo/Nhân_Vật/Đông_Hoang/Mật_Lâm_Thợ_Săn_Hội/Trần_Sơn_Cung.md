@@ -4,6 +4,8 @@ name: Trần Sơn Cung
 hantu: 陳山弓
 archetype: Phó Hội Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lãnh Vô Hồn
 hantu: 冷无魂
 archetype: Ma Tu
 race: Ma Tộc
+origin: Bắc Băng
+faction_rank: Luyện Tà Đường Chủ
 avatar: ''
 arcs:
   - arc: 1

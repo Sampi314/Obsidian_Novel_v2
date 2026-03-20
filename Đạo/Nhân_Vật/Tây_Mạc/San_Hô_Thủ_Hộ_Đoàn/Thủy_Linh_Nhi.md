@@ -4,6 +4,8 @@ name: Thủy Linh Nhi
 hantu: 水靈兒
 archetype: Đoàn Trưởng
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

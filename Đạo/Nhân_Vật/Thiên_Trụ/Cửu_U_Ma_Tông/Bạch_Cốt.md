@@ -4,6 +4,8 @@ name: Bạch Cốt
 hantu: 白骨
 archetype: Đệ Thất Ma Vương
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Thất Ma Vương
 avatar: ''
 arcs:
   - arc: 1

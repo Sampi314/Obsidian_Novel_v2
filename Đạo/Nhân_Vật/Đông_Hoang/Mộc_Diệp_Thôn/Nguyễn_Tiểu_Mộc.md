@@ -4,6 +4,8 @@ name: Nguyễn Tiểu Mộc
 hantu: 阮小木
 archetype: Thôn Dân
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Thôn Dân
 avatar: ''
 arcs:
   - arc: 1

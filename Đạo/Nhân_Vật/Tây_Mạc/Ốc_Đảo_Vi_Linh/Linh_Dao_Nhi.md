@@ -4,6 +4,8 @@ name: Linh Dao Nhi
 hantu: 靈瑤兒
 archetype: Nữ Quan Thủy Khố
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Nữ Quan Thủy Khố
 avatar: ''
 arcs:
   - arc: 1

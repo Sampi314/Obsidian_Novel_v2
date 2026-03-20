@@ -4,6 +4,9 @@ name: Phong Sa Cuồng Nhân
 hantu: 風沙狂人
 archetype: Chiến Sĩ
 race: Cự Tộc
+dao_tam: Tự Do Tuyệt Đối
+origin: Tây Mạc
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

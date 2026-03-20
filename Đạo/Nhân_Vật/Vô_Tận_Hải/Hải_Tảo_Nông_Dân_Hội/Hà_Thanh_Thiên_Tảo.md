@@ -4,6 +4,8 @@ name: Hà Thanh Thiên Tảo
 hantu: 蝦青千藻
 archetype: Kỹ Thuật Viên
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Kỹ Thuật Viên
 avatar: ''
 arcs:
   - arc: 1

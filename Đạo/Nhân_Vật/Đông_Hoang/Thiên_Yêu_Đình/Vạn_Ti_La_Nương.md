@@ -4,6 +4,8 @@ name: Vạn Ti La Nương
 hantu: 萬絲羅娘
 archetype: Nhện Hậu
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Nhện Hậu
 avatar: ''
 arcs:
   - arc: 1

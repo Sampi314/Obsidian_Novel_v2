@@ -4,6 +4,8 @@ name: Trùng Mẫu
 hantu: 蟲母
 archetype: Trùng Mẫu (Nữ Hoàng)
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Trùng Mẫu (Nữ Hoàng)
 avatar: ''
 arcs:
   - arc: 1

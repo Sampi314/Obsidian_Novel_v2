@@ -4,6 +4,8 @@ name: Phượng Thiên Dực
 hantu: 鳳天翼
 archetype: Đại Trưởng Lão
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Đại Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Sơn Thủ Hộ
 hantu: 山守护
 archetype: Hộ Pháp Cự Nhân
 race: Cự Tộc
+origin: Tây Mạc
+faction_rank: Hộ Pháp Cự Nhân
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,17 @@ name: Đặng Tiểu Hàn
 hantu: 邓小寒
 archetype: Nội Môn
 race: Nhân Tộc
+lingan: Đơn linh căn Thủy (trung phẩm)
+dao_tam: Người giỏi luyện đan. Người giỏi hơn giữ cho đan phương không bị mất
+aliases:
+  - "Tiểu Quản Gia" (小管家)"
+  - "dọn dẹp"
+  - "sắp xếp"
+  - "và duy trì trật tự cho phòng thí nghiệm của Phạm Hàn Ngọc"
+  - "đệ tử còn gọi hắn là "Ký Ức Sống" (活记忆) vì hắn nhớ mọi thứ"
+origin: Bắc Băng — Thung lũng Mùa Đông, dãy Thiên Sơn
+age: 78
+faction_rank: Nội Môn Đệ Tử (内门弟子)
 avatar: ''
 arcs:
   - arc: 1

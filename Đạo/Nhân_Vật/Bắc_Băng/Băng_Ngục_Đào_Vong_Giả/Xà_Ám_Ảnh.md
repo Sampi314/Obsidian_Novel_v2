@@ -4,6 +4,13 @@ name: Xà Ám Ảnh
 hantu: 蛇暗影
 archetype: Trinh Sát
 race: Yêu Tộc
+lingan: Thủy Linh Căn biến dị
+dao_tam: Rắn không cần bầy để sống. Nhưng mùa đông Bắc Hải — rắn một mình sẽ chết cóng
+aliases:
+  - "Mắt Rắn" (蛇目)"
+origin: Bắc Băng — hoạt động trinh sát trên khắp bờ biển Bắc Hải và vùng lân cận
+age: 180
+faction_rank: Trinh Sát Trưởng (đứng đầu Đội Thu Thập
 avatar: ''
 arcs:
   - arc: 1

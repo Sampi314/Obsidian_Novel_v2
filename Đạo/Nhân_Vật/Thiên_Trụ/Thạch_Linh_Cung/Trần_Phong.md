@@ -4,6 +4,11 @@ name: Trần Phong
 hantu: 陳鋒
 archetype: Đệ Thập Nhất Hỏa Sư
 race: Nhân Tộc
+aliases:
+  - "Nhẫn Phong" (忍鋒) — Mũi Nhọn Nhẫn Nại"
+  - "vì ba năm mài kiếm đã trở thành truyền thuyết"
+origin: Thiên Trụ
+faction_rank: Đệ Thập Nhất Hỏa Sư
 avatar: ''
 arcs:
   - arc: 1

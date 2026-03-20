@@ -4,6 +4,9 @@ name: Hà Quan Tinh
 hantu: 何觀星
 archetype: Chấp Pháp Trưởng Sứ
 race: Nhân Tộc
+dao_tam: Quán Tinh Ngộ Đạo
+origin: Thiên Trụ
+faction_rank: Chấp Pháp Trưởng Sứ
 avatar: ''
 arcs:
   - arc: 1

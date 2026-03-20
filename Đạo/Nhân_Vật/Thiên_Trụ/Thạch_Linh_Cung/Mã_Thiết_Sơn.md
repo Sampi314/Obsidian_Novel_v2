@@ -4,6 +4,11 @@ name: Mã Thiết Sơn
 hantu: 馬鐵山
 archetype: Đệ Bát Hỏa Sư
 race: Lai Cự Tộc
+aliases:
+  - "Song Chùy" (雙錘) — Đôi Búa"
+  - "vì gã là người duy nhất trong cung rèn bằng hai búa cùng lúc"
+origin: Thiên Trụ
+faction_rank: Đệ Bát Hỏa Sư
 avatar: ''
 arcs:
   - arc: 1

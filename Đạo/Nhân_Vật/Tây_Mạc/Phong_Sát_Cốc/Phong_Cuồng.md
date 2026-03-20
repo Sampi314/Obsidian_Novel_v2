@@ -4,6 +4,8 @@ name: Phong Cuồng
 hantu: 风狂
 archetype: Hộ Pháp
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

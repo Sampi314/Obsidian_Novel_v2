@@ -4,6 +4,12 @@ name: Tuyết Băng Nha
 hantu: 雪冰牙
 archetype: Trưởng Lão
 race: Cự Tộc
+dao_tam: Truyền Hỏa Thủ Hồn
+aliases:
+  - "Lão Vu Mẫu (老巫母 — "Mẹ Vu Già")"
+  - "Băng Nha Tiên Tri (冰牙先知"
+origin: Bắc Băng
+faction_rank: Trưởng Lão Tuyết Vu Các (雪巫阁长老)
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,13 @@ name: Tằm Hàn Quang
 hantu: 蠶寒光
 archetype: Thêu Trận Sư
 race: Vi Tộc
+dao_tam: Trận pháp là ngôn ngữ của trời đất. Ta chỉ là người phiên dịch
+aliases:
+  - "Trận Ti" (陣絲)"
+  - "Lão Câm Tay" (老啞手)"
+origin: Bắc Băng — Hang Tằm Vạn Năm, Trận Phòng (phòng nghiên cứu trận pháp riêng biệt)
+age: 550
+faction_rank: Thêu Trận Sư
 avatar: ''
 arcs:
   - arc: 1

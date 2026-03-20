@@ -4,6 +4,9 @@ name: Quy Cổ Băng
 hantu: 龜古冰
 archetype: Cố Vấn
 race: Hải Tộc
+origin: Bắc Băng
+age: 20
+faction_rank: Cố Vấn — không có quyền lực trực tiếp
 avatar: ''
 arcs:
   - arc: 1

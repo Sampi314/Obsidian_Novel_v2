@@ -4,6 +4,8 @@ name: Giao Tàn Ty
 hantu: 鲛殘絲
 archetype: Thợ Dệt
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Thợ Dệt (thâm niên cao nhất sau Giao Bạch Phát)
 avatar: ''
 arcs:
   - arc: 1

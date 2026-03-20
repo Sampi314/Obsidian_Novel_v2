@@ -4,6 +4,8 @@ name: Xích Giác
 hantu: 赤角
 archetype: Đàn Chủ
 race: Long Tộc (Tạp Huyết)
+origin: Vô Tận Hải
+faction_rank: Đàn Chủ
 avatar: ''
 arcs:
   - arc: 1

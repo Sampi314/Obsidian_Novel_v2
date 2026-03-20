@@ -4,6 +4,8 @@ name: Lục Trần
 hantu: 陸塵
 archetype: Kiếm Tu
 race: Nhân Tộc
+aliases:
+  - "Cửu Hoa Kiếm Tôn (九花劍尊)"
 avatar: Lục_Trần.png
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Linh Mộc Dao
 hantu: 靈木瑤
 archetype: Tế Tư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Tế Tư
 avatar: ''
 arcs:
   - arc: 1

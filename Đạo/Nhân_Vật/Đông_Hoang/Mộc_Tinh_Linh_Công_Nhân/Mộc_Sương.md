@@ -4,6 +4,8 @@ name: Mộc Sương
 hantu: 木霜
 archetype: Công Nhân
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Công Nhân
 avatar: ''
 arcs:
   - arc: 1

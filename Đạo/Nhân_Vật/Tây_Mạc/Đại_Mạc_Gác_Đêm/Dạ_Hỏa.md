@@ -4,6 +4,9 @@ name: Dạ Hỏa
 hantu: 夜火
 archetype: Thợ Đuốc
 race: Cự Tộc (Sa Cự Nhân)
+dao_tam: Hỏa Chiếu Vạn Dạ
+origin: Tây Mạc
+faction_rank: Thợ Đuốc
 avatar: ''
 arcs:
   - arc: 1

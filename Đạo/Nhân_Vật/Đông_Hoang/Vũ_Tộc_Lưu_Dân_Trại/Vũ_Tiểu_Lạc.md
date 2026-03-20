@@ -4,6 +4,8 @@ name: Vũ Tiểu Lạc
 hantu: 羽小落
 archetype: Trại Dân
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Trại Dân
 avatar: ''
 arcs:
   - arc: 1

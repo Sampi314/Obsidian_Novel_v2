@@ -4,6 +4,8 @@ name: Mộ Dung Huyết Thiên
 hantu: 慕容血天
 archetype: Thái Thượng Trưởng Lão
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Thái Thượng Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

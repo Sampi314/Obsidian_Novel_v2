@@ -4,6 +4,9 @@ name: Bào Hắc Lâm
 hantu: 孢黑林
 archetype: Trinh Sát
 race: Vi Tộc
+dao_tam: Bất Kiến Tắc Tồn
+origin: Đông Hoang
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

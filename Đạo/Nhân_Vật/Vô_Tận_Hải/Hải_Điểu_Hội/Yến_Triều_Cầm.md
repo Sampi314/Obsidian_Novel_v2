@@ -4,6 +4,8 @@ name: Yến Triều Cầm
 hantu: 燕潮禽
 archetype: Truyền Tin
 race: Vũ Tộc
+origin: Vô Tận Hải
+faction_rank: Truyền Tin
 avatar: ''
 arcs:
   - arc: 1

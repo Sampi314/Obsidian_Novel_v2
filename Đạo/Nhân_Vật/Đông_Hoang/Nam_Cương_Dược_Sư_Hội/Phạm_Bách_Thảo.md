@@ -4,6 +4,8 @@ name: Phạm Bách Thảo
 hantu: 范百草
 archetype: Phó Hội Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

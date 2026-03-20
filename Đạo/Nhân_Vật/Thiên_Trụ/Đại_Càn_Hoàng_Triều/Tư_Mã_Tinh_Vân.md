@@ -4,6 +4,8 @@ name: Tư Mã Tinh Vân
 hantu: 司馬星雲
 archetype: Khâm Thiên Giám Chính
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Khâm Thiên Giám Chính
 avatar: ''
 arcs:
   - arc: 1

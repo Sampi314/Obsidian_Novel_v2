@@ -4,6 +4,8 @@ name: Xà Thủy Huyền
 hantu: 蛇水玄
 archetype: Thủy Yêu Vương
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thủy Yêu Vương
 avatar: ''
 arcs:
   - arc: 1

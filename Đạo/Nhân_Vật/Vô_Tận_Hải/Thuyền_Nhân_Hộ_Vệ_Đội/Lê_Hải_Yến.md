@@ -4,6 +4,9 @@ name: Lê Hải Yến
 hantu: 黎海燕
 archetype: Phó Đội
 race: Nhân Tộc
+dao_tam: Không ai bị bỏ lại phía sau
+origin: Vô Tận Hải
+faction_rank: Phó Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,11 @@ name: Mộng Hà
 hantu: 梦霞
 archetype: Nội Môn Đệ Tử
 race: Nhân Tộc
+aliases:
+  - "Chưa có — tu vi thấp"
+  - "tuổi trẻ nhất trong nội môn. Đệ tử gọi nàng là "Tiểu Hà" hoặc "Mộng muội muội."
+origin: Tây Mạc — Vùng Lưu Sa Di Động
+faction_rank: Nội Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

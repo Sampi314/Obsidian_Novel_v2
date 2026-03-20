@@ -4,6 +4,8 @@ name: Hỏa Thiên Viêm Sơn
 hantu: 火天炎山
 archetype: Phó Đoàn Trưởng
 race: Yêu Tộc
+origin: Tây Mạc
+faction_rank: Phó Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

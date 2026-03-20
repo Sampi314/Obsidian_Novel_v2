@@ -4,6 +4,9 @@ name: Lưu Cát Đạo
 hantu: 刘割盗
 archetype: Thủ Lĩnh Băng Đảng
 race: Nhân Tộc
+dao_tam: Tồn Tại Bằng Mọi Giá
+origin: Tây Mạc
+faction_rank: Thủ Lĩnh Băng Đảng
 avatar: ''
 arcs:
   - arc: 1

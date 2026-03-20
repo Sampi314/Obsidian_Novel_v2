@@ -4,6 +4,8 @@ name: Thủy Cổ Ký Ức
 hantu: 水古記憶
 archetype: Ký Ức Thể
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Ký Ức Thể
 avatar: ''
 arcs:
   - arc: 1

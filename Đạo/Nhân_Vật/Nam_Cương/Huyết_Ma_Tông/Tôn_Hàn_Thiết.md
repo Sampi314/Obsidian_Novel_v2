@@ -4,6 +4,8 @@ name: Tôn Hàn Thiết
 hantu: 孫寒鐵
 archetype: Đệ Tứ Huyết Tướng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Tứ Huyết Tướng
 avatar: ''
 arcs:
   - arc: 1

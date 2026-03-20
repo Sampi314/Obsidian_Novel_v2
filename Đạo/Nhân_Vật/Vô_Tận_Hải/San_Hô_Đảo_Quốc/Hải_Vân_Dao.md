@@ -4,6 +4,8 @@ name: Hải Vân Dao
 hantu: 海云瑶
 archetype: Nhạc Sư
 race: Hải Tộc (Nhân Ngư)
+origin: Vô Tận Hải
+faction_rank: Đại Sư Linh Ca
 avatar: ''
 arcs:
   - arc: 1

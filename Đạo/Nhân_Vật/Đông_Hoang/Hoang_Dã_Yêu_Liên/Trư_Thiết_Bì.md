@@ -4,6 +4,8 @@ name: Trư Thiết Bì
 hantu: 猪鐵皮
 archetype: Trư Đội Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Trư Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

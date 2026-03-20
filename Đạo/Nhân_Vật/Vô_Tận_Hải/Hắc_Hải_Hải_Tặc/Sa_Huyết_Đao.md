@@ -4,6 +4,8 @@ name: Sa Huyết Đao
 hantu: 鯊血刀
 archetype: Đệ Nhất Hải Tặc Vương
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Nhất Hải Tặc Vương
 avatar: ''
 arcs:
   - arc: 1

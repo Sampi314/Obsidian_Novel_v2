@@ -4,6 +4,8 @@ name: Ưng Hàn Dực
 hantu: 鷹寒翼
 archetype: Tuần Tra Đội Trưởng
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Tuần Tra Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

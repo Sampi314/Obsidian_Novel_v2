@@ -4,6 +4,12 @@ name: Sa Kiên
 hantu: 沙坚
 archetype: Tổ Trưởng
 race: Cự Tộc
+dao_tam: Công Bằng Đạo
+aliases:
+  - "Thiết Diện Sa Kiên (鐵面沙坚)"
+  - "Kẻ Đếm Nợ (數債者)"
+origin: Tây Mạc — trạm Nam Sa trên Thiên Sa Thương Đạo
+faction_rank: Tổ trưởng phụ trách trạm khuân phía Nam trên Thiên Sa Thương Đạo, một trong bốn tổ trưởng của Cự Tộc Phu Khuân Vác
 avatar: ''
 arcs:
   - arc: 1

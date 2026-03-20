@@ -4,6 +4,8 @@ name: Nguyễn Sinh Tồn
 hantu: 阮生存
 archetype: Thành Viên
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Thành Viên
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,13 @@ name: Tằm Bạch Liên
 hantu: 蠶白蓮
 archetype: Nữ Dệt Sư Trưởng
 race: Vi Tộc
+dao_tam: Mỗi sợi tơ là một nhịp thở. Dệt vải là dệt hơi thở vào cuộc đời
+aliases:
+  - "Liên Sư" (蓮師)"
+  - "Bạch Tằm Nương Tử" (白蠶娘子)"
+origin: Bắc Băng — Hang Tằm Vạn Năm, Bạch Phòng (phòng dệt riêng biệt)
+age: 600
+faction_rank: Nữ Dệt Sư Trưởng — trưởng Nhóm Dệt Lụa
 avatar: ''
 arcs:
   - arc: 1

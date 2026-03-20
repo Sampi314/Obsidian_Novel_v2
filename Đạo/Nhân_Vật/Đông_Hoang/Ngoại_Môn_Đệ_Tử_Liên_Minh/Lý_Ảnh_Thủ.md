@@ -4,6 +4,8 @@ name: Lý Ảnh Thủ
 hantu: 李影首
 archetype: Minh Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

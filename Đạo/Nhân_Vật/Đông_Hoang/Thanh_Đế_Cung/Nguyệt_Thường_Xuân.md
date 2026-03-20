@@ -4,6 +4,8 @@ name: Nguyệt Thường Xuân
 hantu: 月長春
 archetype: Trưởng Lão
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

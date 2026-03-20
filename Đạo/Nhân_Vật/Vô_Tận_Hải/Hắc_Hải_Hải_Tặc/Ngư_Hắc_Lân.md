@@ -4,6 +4,8 @@ name: Ngư Hắc Lân
 hantu: 魚黑鱗
 archetype: Gián Điệp
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Gián Điệp
 avatar: ''
 arcs:
   - arc: 1

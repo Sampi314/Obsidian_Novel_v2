@@ -4,6 +4,8 @@ name: Trùng Tiểu Tằm
 hantu: 蟲小蚕
 archetype: Thợ Dệt
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Thợ Dệt
 avatar: ''
 arcs:
   - arc: 1

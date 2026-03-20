@@ -4,6 +4,8 @@ name: Lý Cơ Giới
 hantu: 李機械
 archetype: Phường Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phường Chủ
 avatar: ''
 arcs:
   - arc: 1

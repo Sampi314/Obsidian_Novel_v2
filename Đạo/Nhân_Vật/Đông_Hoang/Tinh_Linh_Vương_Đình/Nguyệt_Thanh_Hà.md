@@ -4,6 +4,8 @@ name: Nguyệt Thanh Hà
 hantu: 月清河
 archetype: Ngoại Giao Sứ
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Ngoại Giao Sứ
 avatar: ''
 arcs:
   - arc: 1

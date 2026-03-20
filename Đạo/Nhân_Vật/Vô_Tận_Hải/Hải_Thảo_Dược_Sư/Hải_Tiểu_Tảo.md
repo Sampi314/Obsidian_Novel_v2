@@ -4,6 +4,13 @@ name: Hải Tiểu Tảo
 hantu: 海小藻
 archetype: Đệ Tử
 race: Hải Tộc
+lingan: Thủy Linh Căn (Trung phẩm
+dao_tam: Tảo Tiểu Năng Sinh, Hải Thâm Năng Đạt
+aliases:
+  - "Không rõ"
+  - "không có ai để hỏi"
+age: 14
+faction_rank: Đệ tử nhỏ nhất của Hải Thảo Dược Sư
 avatar: ''
 arcs:
   - arc: 1

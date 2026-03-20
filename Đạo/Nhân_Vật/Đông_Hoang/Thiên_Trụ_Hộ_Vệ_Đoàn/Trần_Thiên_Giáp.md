@@ -4,6 +4,8 @@ name: Trần Thiên Giáp
 hantu: 陳天甲
 archetype: Phó Tướng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Tướng
 avatar: ''
 arcs:
   - arc: 1

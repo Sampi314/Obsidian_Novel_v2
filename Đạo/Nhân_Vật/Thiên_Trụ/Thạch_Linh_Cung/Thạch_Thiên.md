@@ -4,6 +4,11 @@ name: Thạch Thiên
 hantu: 石天
 archetype: Đệ Tam Hỏa Sư
 race: Thạch Tộc
+aliases:
+  - "Hàn Chùy" (寒錘) — Búa Lạnh"
+  - "vì kỹ thuật nung lạnh độc đáo"
+origin: Thiên Trụ
+faction_rank: Đệ Tam Hỏa Sư
 avatar: ''
 arcs:
   - arc: 1

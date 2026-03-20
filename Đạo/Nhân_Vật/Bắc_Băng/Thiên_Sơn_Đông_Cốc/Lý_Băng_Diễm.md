@@ -4,6 +4,15 @@ name: Lý Băng Diễm
 hantu: 李冰焰
 archetype: Viện Chủ
 race: Nhân Tộc
+lingan: Đơn linh căn Thủy (cực phẩm)
+dao_tam: Kỷ luật là ngọn lửa không bao giờ tắt
+aliases:
+  - "Thiết Diện Đan Sư" (铁面丹师)"
+  - "dù thành hay bại đều lạnh như sắt. Bên ngoài Đông Cốc"
+  - "ông được biết đến với danh hiệu "Hàn Diễm Đệ Nhị" (寒焰第二)"
+origin: Bắc Băng — Thung lũng Mùa Đông, dãy Thiên Sơn
+age: 312
+faction_rank: Viện Chủ Lửa Lạnh Viện (炉冷院院主)
 avatar: ''
 arcs:
   - arc: 1

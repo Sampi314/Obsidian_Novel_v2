@@ -4,6 +4,15 @@ name: Ưng Lôi Dực
 hantu: 鷹雷翼
 archetype: Chiến Sĩ
 race: Vũ Tộc
+lingan: Song linh căn
+dao_tam: Sấm sét không chờ ai sẵn sàng. Ta cũng vậy
+aliases:
+  - "Sấm Con" (小雷)"
+  - "nóng nảy"
+  - "hay nổ như tiếng sấm nhưng chưa đủ lớn để gọi là bão"
+origin: Thiên Trụ — Bắc Băng
+age: 55
+faction_rank: Chiến Sĩ (戰士)
 avatar: ''
 arcs:
   - arc: 1

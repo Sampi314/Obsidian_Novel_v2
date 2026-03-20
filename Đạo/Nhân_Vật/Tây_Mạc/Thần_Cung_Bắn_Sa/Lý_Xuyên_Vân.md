@@ -4,6 +4,9 @@ name: Lý Xuyên Vân
 hantu: 李穿云
 archetype: Trưởng Lão
 race: Nhân Tộc
+dao_tam: Tiễn Vô Hư Phát
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

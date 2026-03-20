@@ -4,6 +4,8 @@ name: Mã Tiểu Hải
 hantu: 馬小海
 archetype: Tín Sứ
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Tín Sứ
 avatar: ''
 arcs:
   - arc: 1

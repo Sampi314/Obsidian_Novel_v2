@@ -4,6 +4,8 @@ name: Lôi Vân
 hantu: 雷雲
 archetype: Đệ Tam Hộ Pháp
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Tam Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

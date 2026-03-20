@@ -4,6 +4,7 @@ name: Giao Tiểu Lệ
 hantu: 鲛小淚
 archetype: Trẻ Dệt
 race: Hải Tộc
+faction_rank: Trẻ dệt bảy tuổi
 avatar: ''
 arcs:
   - arc: 1

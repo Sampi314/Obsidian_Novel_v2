@@ -4,6 +4,9 @@ name: Thủy Thâm Uyên Mẫu
 hantu: 水深淵母
 archetype: Mẫu Linh
 race: Hải Tộc
+dao_tam: Thủ Hộ Vĩnh Hằng
+origin: Vô Tận Hải
+faction_rank: Mẫu Linh
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Vi Vô Thanh
 hantu: 微無聲
 archetype: Sát Thủ Trưởng
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Sát Thủ Trưởng
 avatar: ''
 arcs:
   - arc: 1

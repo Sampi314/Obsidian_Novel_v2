@@ -4,6 +4,12 @@ name: Thiết Toả Nhân
 hantu: 铁锁人
 archetype: Chiến Binh
 race: Nhân Tộc
+lingan: Kim Thổ Song Linh Căn
+aliases:
+  - "Xiềng Xích Quỷ" (锁链鬼)"
+origin: Bắc Băng — di chuyển cùng liên minh giữa các hang băng ven Bắc Hải
+age: 95
+faction_rank: Đội Trưởng Chiến Đấu
 avatar: ''
 arcs:
   - arc: 1

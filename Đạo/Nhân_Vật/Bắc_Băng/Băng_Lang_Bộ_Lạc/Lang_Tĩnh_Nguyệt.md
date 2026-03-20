@@ -4,6 +4,13 @@ name: Lang Tĩnh Nguyệt
 hantu: 狼靜月
 archetype: Công Chúa
 race: Yêu Tộc
+dao_tam: Bộ lạc không cần anh hùng. Bộ lạc cần người đưa ra quyết định đúng vào đúng lúc
+aliases:
+  - "Tiểu Nguyệt" (小月) — cách gia đình gọi"
+  - "Sói Thư Phòng" (书房狼)"
+origin: Bắc Băng — Lều Vương Trướng và Lang Vu Viện
+age: 120
+faction_rank: Công Chúa (公主)
 avatar: ''
 arcs:
   - arc: 1

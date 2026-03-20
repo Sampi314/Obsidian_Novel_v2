@@ -4,6 +4,12 @@ name: Hạc Sương Vũ
 hantu: 鶴霜羽
 archetype: Trưởng Lão
 race: Vũ Tộc
+dao_tam: Sương Tụ Vạn Vật
+aliases:
+  - "Sương Hạc Lão Nhân (霜鶴老人"
+  - "Thiên Nhãn Trưởng Lão (千眼長老"
+origin: Bắc Băng
+faction_rank: Trưởng Lão (長老)
 avatar: ''
 arcs:
   - arc: 1

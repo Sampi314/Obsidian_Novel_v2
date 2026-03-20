@@ -4,6 +4,8 @@ name: Trần Tàn Linh
 hantu: 陳殘靈
 archetype: Đại Trưởng Lão
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đại Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

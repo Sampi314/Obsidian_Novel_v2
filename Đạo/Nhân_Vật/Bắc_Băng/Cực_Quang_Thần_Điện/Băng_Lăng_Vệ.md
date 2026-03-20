@@ -4,6 +4,14 @@ name: Băng Lăng Vệ
 hantu: 冰棱卫
 archetype: Hiệp Sĩ
 race: Băng Tộc
+lingan: Băng Hệ Thượng Phẩm Linh Căn (冰系上品灵根)
+dao_tam: Đao Bất Ly Thân
+aliases:
+  - "Song Đao Hàn Quang (双刀寒光"
+  - "Trung Kiên Vệ (忠坚卫"
+origin: Bắc Băng
+age: 145
+faction_rank: Hiệp Sĩ Băng Lăng Trưởng (冰棱骑士长)
 avatar: ''
 arcs:
   - arc: 1

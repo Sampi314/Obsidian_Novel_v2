@@ -4,6 +4,8 @@ name: Giao Hàn Ngọc
 hantu: 鲛寒玉
 archetype: Chiến Đội Trưởng
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Chiến Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

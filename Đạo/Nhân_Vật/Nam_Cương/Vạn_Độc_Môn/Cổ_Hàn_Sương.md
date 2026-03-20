@@ -4,6 +4,8 @@ name: Cổ Hàn Sương
 hantu: 古寒霜
 archetype: Luyện Tà Đường Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Luyện Tà Đường Chủ
 avatar: ''
 arcs:
   - arc: 1

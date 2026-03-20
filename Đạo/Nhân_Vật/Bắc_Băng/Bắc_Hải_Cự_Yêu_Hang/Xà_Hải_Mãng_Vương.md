@@ -4,6 +4,9 @@ name: Xà Hải Mãng Vương
 hantu: 蛇海蟒王
 archetype: Hải Xà Vương
 race: Hải Tộc
+origin: Bắc Băng
+age: 5
+faction_rank: Hải Xà Vương
 avatar: ''
 arcs:
   - arc: 1

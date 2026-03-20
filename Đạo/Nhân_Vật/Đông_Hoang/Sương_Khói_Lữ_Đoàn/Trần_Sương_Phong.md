@@ -4,6 +4,8 @@ name: Trần Sương Phong
 hantu: 陳霜風
 archetype: Phó Đoàn Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

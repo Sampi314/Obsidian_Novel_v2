@@ -4,6 +4,16 @@ name: Trần Đoạn Phong
 hantu: 陈断锋
 archetype: Kiếm Khách
 race: Nhân Tộc
+dao_tam: Nhu Phong Bất Đoạn
+aliases:
+  - "Nhu Kiếm" (柔剑)"
+  - "khác hẳn kiếm đạo cương mãnh của Hàn Kiếm Cốc"
+  - "Thương Nhân Kiếm Khách" (商人剑客)"
+  - "Lão Trà" (老茶)"
+  - "ngay cả giữa bão tuyết"
+origin: Bắc Băng — hẻm núi phụ, trụ sở Lưu Vong Kiếm Khách Đoàn
+age: 37
+faction_rank: Kiếm Khách kiêm Ngoại Vụ (剑客兼外务)
 avatar: ''
 arcs:
   - arc: 1

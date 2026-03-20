@@ -4,6 +4,8 @@ name: Nham Tiểu Vu
 hantu: 岩小巫
 archetype: Tập Sự Vu Sư
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Tập Sự Vu Sư
 avatar: ''
 arcs:
   - arc: 1

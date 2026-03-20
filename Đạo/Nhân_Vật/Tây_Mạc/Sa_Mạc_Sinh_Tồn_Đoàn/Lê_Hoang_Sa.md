@@ -4,6 +4,8 @@ name: Lê Hoang Sa
 hantu: 黎荒沙
 archetype: Phó Đoàn
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Phó Đoàn
 avatar: ''
 arcs:
   - arc: 1

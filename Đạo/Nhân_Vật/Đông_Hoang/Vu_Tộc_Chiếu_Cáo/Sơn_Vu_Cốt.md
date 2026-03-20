@@ -4,6 +4,8 @@ name: Sơn Vu Cốt
 hantu: 山巫骨
 archetype: Trưởng Lão
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Sơn Thiết Quyền
 hantu: 山铁拳
 archetype: Chiến Binh
 race: Cự Tộc
+origin: Bắc Băng
+faction_rank: Chiến Binh Tuần Tra
 avatar: ''
 arcs:
   - arc: 1

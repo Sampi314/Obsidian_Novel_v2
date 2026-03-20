@@ -4,6 +4,8 @@ name: Vi Tiểu Hàn
 hantu: 微小寒
 archetype: Liên Lạc Viên
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Liên Lạc Viên
 avatar: ''
 arcs:
   - arc: 1

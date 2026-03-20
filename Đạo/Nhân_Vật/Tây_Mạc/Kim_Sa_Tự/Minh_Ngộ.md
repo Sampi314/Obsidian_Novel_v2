@@ -4,6 +4,13 @@ name: Minh Ngộ
 hantu: 明悟
 archetype: Khổ Hạnh Tăng
 race: Nhân Tộc
+dao_tam: Hỏa Trung Đắc Ngộ
+aliases:
+  - "Hỏa Chưởng Tăng (火掌僧 — "Nhà Sư Tay Lửa")"
+  - "Sa Hành Giả (沙行者"
+origin: Tây Mạc — sa mạc sâu, hiếm khi ở tại bản doanh Kim Sa Tự
+age: 98
+faction_rank: Khổ Hạnh Tăng (苦行僧) cao cấp nhất của Đạt Ma Viện
 avatar: ''
 arcs:
   - arc: 1

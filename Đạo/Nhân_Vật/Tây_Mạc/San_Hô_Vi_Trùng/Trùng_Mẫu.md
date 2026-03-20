@@ -4,6 +4,8 @@ name: Trùng Mẫu
 hantu: 虫母
 archetype: San Hô Mẫu Trùng
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: San Hô Mẫu Trùng
 avatar: ''
 arcs:
   - arc: 1

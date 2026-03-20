@@ -4,6 +4,10 @@ name: Thạch Hùng
 hantu: 石雄
 archetype: Hộ Pháp
 race: Thạch Tộc
+aliases:
+  - "Bất Động Thạch Vệ" (不動石衛)"
+origin: Thiên Trụ
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

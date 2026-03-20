@@ -4,6 +4,8 @@ name: Hoàng Sa Nhạn
 hantu: 黄沙雁
 archetype: Sát Thủ Sa Ảnh
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Sát Thủ Sa Ảnh
 avatar: ''
 arcs:
   - arc: 1

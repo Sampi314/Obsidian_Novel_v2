@@ -4,6 +4,8 @@ name: Mộc Thiên Nộ
 hantu: 木天怒
 archetype: Thủ Lĩnh Ngầm
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thủ Lĩnh Ngầm
 avatar: ''
 arcs:
   - arc: 1

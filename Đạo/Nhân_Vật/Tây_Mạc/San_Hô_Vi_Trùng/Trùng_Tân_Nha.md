@@ -4,6 +4,8 @@ name: Trùng Tân Nha
 hantu: 虫新芽
 archetype: Vi Trùng Kế Thừa
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Vi Trùng Kế Thừa
 avatar: ''
 arcs:
   - arc: 1

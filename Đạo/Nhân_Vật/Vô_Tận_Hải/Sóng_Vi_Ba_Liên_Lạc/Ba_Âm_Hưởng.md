@@ -4,6 +4,11 @@ name: Ba Âm Hưởng
 hantu: 波音響
 archetype: Âm Ba Chiến Sĩ
 race: Vi Tộc
+dao_tam: Sóng có thể truyền tin, sóng cũng có thể giết. Ta chọn giết để bảo vệ
+aliases:
+  - "Sóng Sát" (杀波)"
+origin: Vô Tận Hải
+faction_rank: Âm Ba Chiến Sĩ (音波战士)
 avatar: ''
 arcs:
   - arc: 1

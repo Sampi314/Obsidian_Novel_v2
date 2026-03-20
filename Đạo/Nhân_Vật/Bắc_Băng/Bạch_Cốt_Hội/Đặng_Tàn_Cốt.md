@@ -4,6 +4,8 @@ name: Đặng Tàn Cốt
 hantu: 邓残骨
 archetype: Chiến Binh
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Hộ Vệ Hang Ổ
 avatar: ''
 arcs:
   - arc: 1

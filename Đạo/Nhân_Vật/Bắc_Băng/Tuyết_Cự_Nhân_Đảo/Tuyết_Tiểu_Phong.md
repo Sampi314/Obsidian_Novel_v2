@@ -4,6 +4,11 @@ name: Tuyết Tiểu Phong
 hantu: 雪小峰
 archetype: Ấu Cự Nhân
 race: Cự Tộc
+aliases:
+  - "Tiểu Phong (小峰"
+  - "Ngọn Núi Nhỏ (小山"
+origin: Bắc Băng
+faction_rank: Ấu Cự Nhân (幼巨人)
 avatar: ''
 arcs:
   - arc: 1

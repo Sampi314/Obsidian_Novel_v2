@@ -4,6 +4,8 @@ name: Trùng Hoàng Châm
 hantu: 蟲黃針
 archetype: Ong Chiến Binh
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Ong Chiến Binh
 avatar: ''
 arcs:
   - arc: 1

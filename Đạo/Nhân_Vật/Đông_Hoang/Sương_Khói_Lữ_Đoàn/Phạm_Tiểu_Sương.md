@@ -4,6 +4,8 @@ name: Phạm Tiểu Sương
 hantu: 范小霜
 archetype: Thành Viên
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Thành Viên
 avatar: ''
 arcs:
   - arc: 1

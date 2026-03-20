@@ -4,6 +4,9 @@ name: Nguyễn Hướng Tuyền
 hantu: 阮向泉
 archetype: Hướng Đạo
 race: Nhân Tộc
+dao_tam: Trục Tuyền Nhi Hành
+origin: Tây Mạc
+faction_rank: Hướng Đạo
 avatar: ''
 arcs:
   - arc: 1

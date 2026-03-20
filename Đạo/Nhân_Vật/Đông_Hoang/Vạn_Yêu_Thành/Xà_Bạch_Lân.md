@@ -4,6 +4,8 @@ name: Xà Bạch Lân
 hantu: 蛇白鱗
 archetype: Độc Dược Sư
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Độc Dược Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trùng Thiên Lý Nhãn
 hantu: 蟲千里眼
 archetype: Đội Trưởng
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Đặng Huyết Nhục
 hantu: 鄧血肉
 archetype: Trưởng Lão
 race: Thi Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,12 @@ name: Lê Thạch Bàn
 hantu: 黎石磐
 archetype: Thợ Bẫy
 race: Nhân Tộc
+dao_tam: Bẫy là lời nói của kẻ câm
+aliases:
+  - "Lê Câm" (黎喑)"
+origin: Bắc Băng — vùng đất đóng băng vĩnh cửu dưới chân Tuyết Sơn
+age: 24
+faction_rank: Trưởng Nhóm Đặt Bẫy (Đội Bẫy gồm 4 người
 avatar: ''
 arcs:
   - arc: 1

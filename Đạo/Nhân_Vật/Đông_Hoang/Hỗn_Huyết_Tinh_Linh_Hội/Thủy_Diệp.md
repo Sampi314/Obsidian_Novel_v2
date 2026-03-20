@@ -4,6 +4,8 @@ name: Thủy Diệp
 hantu: 水葉
 archetype: Thủy Pháp Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thủy Pháp Sư
 avatar: ''
 arcs:
   - arc: 1

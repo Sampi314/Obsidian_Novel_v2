@@ -4,6 +4,8 @@ name: Lý Vũ Hàn
 hantu: 李雨寒
 archetype: Đoàn Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

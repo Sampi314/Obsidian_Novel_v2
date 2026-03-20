@@ -4,6 +4,9 @@ name: San Hồng Ngọc
 hantu: 珊紅玉
 archetype: Tộc Trưởng
 race: Vi Tộc
+dao_tam: Vạn Niên Bất Hủ
+origin: Vô Tận Hải
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Thiết Tiểu Tượng
 hantu: 鐵小像
 archetype: Thủ Vệ
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Thủ Vệ
 avatar: ''
 arcs:
   - arc: 1

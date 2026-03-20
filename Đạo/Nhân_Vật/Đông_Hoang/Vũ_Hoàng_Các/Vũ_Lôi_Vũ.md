@@ -4,6 +4,8 @@ name: Vũ Lôi Vũ
 hantu: 羽雷羽
 archetype: Dực Tướng Tây
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Dực Tướng Tây
 avatar: ''
 arcs:
   - arc: 1

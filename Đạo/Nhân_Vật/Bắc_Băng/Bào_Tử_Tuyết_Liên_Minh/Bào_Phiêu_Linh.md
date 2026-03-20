@@ -4,6 +4,15 @@ name: Bào Phiêu Linh
 hantu: 孢飄零
 archetype: Du Mục Bào Tử
 race: Vi Tộc
+dao_tam: Thế giới rộng hơn bất kỳ bức tường nào. Ta muốn nhìn thấy tất cả trước khi tuyết phủ lên mắt ta
+aliases:
+  - "Gió Lữ Hành" (旅風)"
+  - "theo gió về"
+  - "không ai biết hắn đang ở đâu cho đến khi hắn xuất hiện"
+  - "Kẻ Kể Chuyện" (說書者) — vì mỗi lần trở về"
+  - "hắn mang theo hàng trăm câu chuyện từ khắp Bắc Băng"
+age: 700
+faction_rank: Du Mục Bào Tử (遊牧孢子)
 avatar: ''
 arcs:
   - arc: 1

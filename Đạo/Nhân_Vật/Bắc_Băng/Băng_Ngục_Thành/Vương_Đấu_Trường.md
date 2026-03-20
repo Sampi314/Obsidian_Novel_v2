@@ -4,6 +4,17 @@ name: Vương Đấu Trường
 hantu: 王斗场
 archetype: Quản Lý
 race: Nhân Tộc
+lingan: Hỏa Hệ Hạ Phẩm Linh Căn (火系下品灵根)
+dao_tam: Vạn Nhân Vị Hí
+aliases:
+  - "Vương Đấu Trường" (王斗场)"
+  - "Ông Bầu Máu" (血经纪) — cai ngục gọi"
+  - "ám chỉ hắn kinh doanh bằng máu người"
+  - "Vương Miệng Loa" (王喇叭)"
+  - "Kẻ Buôn Mạng" (卖命者)"
+origin: Bắc Băng
+age: 210
+faction_rank: Quản Lý Đấu Trường Máu (血斗场管理)
 avatar: ''
 arcs:
   - arc: 1

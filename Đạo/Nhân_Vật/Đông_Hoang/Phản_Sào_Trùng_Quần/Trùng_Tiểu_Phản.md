@@ -4,6 +4,8 @@ name: Trùng Tiểu Phản
 hantu: 蟲小反
 archetype: Trinh Sát
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

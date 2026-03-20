@@ -4,6 +4,8 @@ name: Yến Tử
 hantu: 燕紫
 archetype: Nữ Trinh Sát
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Nữ Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

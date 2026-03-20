@@ -4,6 +4,8 @@ name: Thỏ Bạch Phong
 hantu: 兔白風
 archetype: Thỏ Đội Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thỏ Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

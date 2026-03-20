@@ -4,6 +4,10 @@ name: Nham Nghịch
 hantu: 岩逆
 archetype: Lưu Dân Đặc Biệt
 race: Thạch Tộc
+aliases:
+  - "Không rõ (thức giấc đã là lưu dân)"
+origin: Tây Mạc — Đông Hoang (lang thang cùng Sa Thạch Lưu Dân)
+faction_rank: Lưu Dân Đặc Biệt (thân phận bí mật trong đoàn)
 avatar: ''
 arcs:
   - arc: 1

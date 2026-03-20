@@ -4,6 +4,8 @@ name: Nấm Vạn Niên Hoa
 hantu: 菌萬年花
 archetype: Ký Ức Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Ký Ức Sư
 avatar: ''
 arcs:
   - arc: 1

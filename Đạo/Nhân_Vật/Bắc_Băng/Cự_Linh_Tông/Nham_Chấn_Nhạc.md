@@ -4,6 +4,8 @@ name: Nham Chấn Nhạc
 hantu: 岩震嶽
 archetype: Trưởng Lão
 race: Cự Tộc
+origin: Bắc Băng
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Mẫu Huyền Vũ
 hantu: 母玄舞
 archetype: Vũ Nương
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Vũ Nương
 avatar: ''
 arcs:
   - arc: 1

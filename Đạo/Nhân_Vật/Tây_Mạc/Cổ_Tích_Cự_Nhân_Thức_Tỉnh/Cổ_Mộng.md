@@ -4,6 +4,8 @@ name: Cổ Mộng
 hantu: 古梦
 archetype: Trưởng Lão
 race: Cự Tộc
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

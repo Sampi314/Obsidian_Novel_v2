@@ -4,6 +4,8 @@ name: Lưu Ám Ảnh
 hantu: 劉暗影
 archetype: Long Ảnh Đội Trưởng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Long Ảnh Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

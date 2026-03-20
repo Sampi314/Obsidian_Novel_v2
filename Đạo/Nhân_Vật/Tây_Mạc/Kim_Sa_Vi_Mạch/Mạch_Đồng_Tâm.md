@@ -4,6 +4,8 @@ name: Mạch Đồng Tâm
 hantu: 脈銅心
 archetype: Luyện Kim Sư
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Luyện Kim Sư
 avatar: ''
 arcs:
   - arc: 1

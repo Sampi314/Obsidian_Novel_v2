@@ -4,6 +4,13 @@ name: Quạ Hắc Cánh
 hantu: 鴉黑翅
 archetype: Dạ Tuần
 race: Vũ Tộc
+lingan: Ám hệ đơn linh căn
+dao_tam: Đêm không cần anh hùng, đêm cần kẻ còn thức
+aliases:
+  - "Bóng Đêm Không Tiếng" (無聲夜影)"
+origin: Thiên Trụ — Bắc Băng
+age: 67
+faction_rank: Dạ Tuần (夜巡) — trưởng nhóm tuần tra ban đêm
 avatar: ''
 arcs:
   - arc: 1

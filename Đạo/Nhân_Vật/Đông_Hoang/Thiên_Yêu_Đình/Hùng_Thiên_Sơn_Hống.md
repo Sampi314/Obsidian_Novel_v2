@@ -4,6 +4,8 @@ name: Hùng Thiên Sơn Hống
 hantu: 熊天山吼
 archetype: Hùng Bộ Lạc Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Hùng Bộ Lạc Trưởng
 avatar: ''
 arcs:
   - arc: 1

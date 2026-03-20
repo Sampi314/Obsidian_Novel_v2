@@ -4,6 +4,8 @@ name: Sơn Cổ Nham
 hantu: 山古岩
 archetype: Tộc Trưởng
 race: Cự Tộc
+origin: Thiên Trụ
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

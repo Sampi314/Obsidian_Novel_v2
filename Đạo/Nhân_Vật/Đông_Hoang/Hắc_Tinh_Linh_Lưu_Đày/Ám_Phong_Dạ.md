@@ -4,6 +4,8 @@ name: Ám Phong Dạ
 hantu: 暗風夜
 archetype: Trinh Sát
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

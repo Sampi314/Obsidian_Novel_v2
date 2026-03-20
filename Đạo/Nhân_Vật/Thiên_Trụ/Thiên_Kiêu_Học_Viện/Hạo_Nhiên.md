@@ -4,6 +4,8 @@ name: Hạo Nhiên
 hantu: 浩然
 archetype: Viện Trưởng
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Viện Trưởng
 avatar: ''
 arcs:
   - arc: 1

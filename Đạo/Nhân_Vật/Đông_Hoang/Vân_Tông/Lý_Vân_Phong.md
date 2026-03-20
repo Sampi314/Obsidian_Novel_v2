@@ -4,6 +4,8 @@ name: Lý Vân Phong
 hantu: 李雲風
 archetype: Ngoại Môn Đệ Tử
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Ngoại Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

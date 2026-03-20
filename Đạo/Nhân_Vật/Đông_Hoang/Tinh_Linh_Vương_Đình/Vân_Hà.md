@@ -4,6 +4,8 @@ name: Vân Hà
 hantu: 雲霞
 archetype: Thư Viện Trưởng
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thư Viện Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: San Hồng Diệp
 hantu: 珊红叶
 archetype: Thương Nhân
 race: Hải Tộc (Tiên Cá)
+origin: Vô Tận Hải
+faction_rank: Đoàn Trưởng Thương Hồ Đoàn
 avatar: ''
 arcs:
   - arc: 1

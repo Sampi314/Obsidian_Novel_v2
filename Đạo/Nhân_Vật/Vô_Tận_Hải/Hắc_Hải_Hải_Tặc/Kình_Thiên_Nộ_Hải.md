@@ -4,6 +4,8 @@ name: Kình Thiên Nộ Hải
 hantu: 鯨天怒海
 archetype: Phá Vây Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Phá Vây Sư
 avatar: ''
 arcs:
   - arc: 1

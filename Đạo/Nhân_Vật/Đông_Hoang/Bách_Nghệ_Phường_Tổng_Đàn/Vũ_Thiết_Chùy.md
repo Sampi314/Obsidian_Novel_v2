@@ -4,6 +4,8 @@ name: Vũ Thiết Chùy
 hantu: 武鐵錘
 archetype: Phó Phường Chủ Đan Đường
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Phường Chủ Đan Đường
 avatar: ''
 arcs:
   - arc: 1

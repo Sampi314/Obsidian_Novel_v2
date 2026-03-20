@@ -4,6 +4,15 @@ name: Lang Nguyệt Nha
 hantu: 狼月牙
 archetype: Vương Phi
 race: Yêu Tộc
+dao_tam: Sói đầu đàn dùng nanh bảo vệ. Sói phía sau dùng trí khôn giữ đàn
+aliases:
+  - "Sói Bạc Dưới Trăng" (月下銀狼)"
+  - "Nội Chính Vương" (内政王)"
+  - "vì ai cũng biết Tuyết Vương lo ngoại chiến"
+  - "Nguyệt Nha lo mọi thứ bên trong"
+origin: Bắc Băng — Lều Vương Trướng, trung tâm trại chính
+age: 750
+faction_rank: Vương Phi (王妃) — phu nhân Đại Tù Trưởng
 avatar: ''
 arcs:
   - arc: 1

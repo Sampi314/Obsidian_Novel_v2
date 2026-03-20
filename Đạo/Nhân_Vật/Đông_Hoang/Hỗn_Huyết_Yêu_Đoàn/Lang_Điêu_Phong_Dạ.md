@@ -4,6 +4,8 @@ name: Lang Điêu Phong Dạ
 hantu: 狼貂風夜
 archetype: Thợ Săn
 race: Bán Yêu
+origin: Đông Hoang
+faction_rank: Thợ Săn
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Hà Kim Giáp
 hantu: 蝦金甲
 archetype: Vệ Binh Trưởng
 race: Hải Tộc
+dao_tam: Kim Giáp Bất Phụ
+origin: Vô Tận Hải
+faction_rank: Vệ Binh Trưởng
 avatar: ''
 arcs:
   - arc: 1

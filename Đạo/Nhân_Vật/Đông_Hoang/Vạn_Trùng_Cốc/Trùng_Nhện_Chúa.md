@@ -4,6 +4,8 @@ name: Trùng Nhện Chúa
 hantu: 蟲蛛主
 archetype: Trùng Vương
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Trùng Vương
 avatar: ''
 arcs:
   - arc: 1

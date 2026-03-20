@@ -4,6 +4,8 @@ name: Lý Ngộ Không
 hantu: 李悟空
 archetype: Tập Sự
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Tập Sự
 avatar: ''
 arcs:
   - arc: 1

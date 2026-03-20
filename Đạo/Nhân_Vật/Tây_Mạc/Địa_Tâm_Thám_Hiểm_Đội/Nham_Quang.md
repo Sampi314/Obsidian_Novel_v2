@@ -4,6 +4,8 @@ name: Nham Quang
 hantu: 岩光
 archetype: Thành Viên
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Thành Viên
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hoa Tử Yên
 hantu: 花紫煙
 archetype: Vườn Thần Quản Lý
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Vườn Thần Quản Lý
 avatar: ''
 arcs:
   - arc: 1

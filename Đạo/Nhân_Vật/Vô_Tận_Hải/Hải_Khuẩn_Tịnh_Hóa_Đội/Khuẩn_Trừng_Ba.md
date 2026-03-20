@@ -4,6 +4,8 @@ name: Khuẩn Trừng Ba
 hantu: 菌澄波
 archetype: Ngoại Giao Sứ
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Ngoại Giao Sứ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,14 @@ name: Thạch Tiểu Sơn
 hantu: 石小山
 archetype: Đoàn Trưởng
 race: Cự Tộc
+dao_tam: Nhỏ không phải hèn. Nhỏ là về nguồn
+aliases:
+  - "Tiểu Sơn Vương" (小山王)"
+  - "vừa trêu đùa vì hắn "nhỏ" (so với Cự Tộc thuần huyết)"
+  - "vừa tôn kính vì hắn là "vua" bảo vệ họ"
+origin: Bắc Băng — khu định cư Tiểu Thạch ở rìa nam
+age: 80
+faction_rank: Đoàn Trưởng đời thứ ba
 avatar: ''
 arcs:
   - arc: 1

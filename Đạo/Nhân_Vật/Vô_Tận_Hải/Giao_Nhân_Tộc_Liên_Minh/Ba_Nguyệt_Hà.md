@@ -4,6 +4,8 @@ name: Ba Nguyệt Hà
 hantu: 波月荷
 archetype: Viện Chủ
 race: Hải Tộc (Giao Nhân)
+origin: Vô Tận Hải
+faction_rank: Viện Chủ Vân Khâu Viện
 avatar: ''
 arcs:
   - arc: 1

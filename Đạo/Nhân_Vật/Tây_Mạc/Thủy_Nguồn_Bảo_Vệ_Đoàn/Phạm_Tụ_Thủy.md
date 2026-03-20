@@ -4,6 +4,8 @@ name: Phạm Tụ Thủy
 hantu: 范聚水
 archetype: Thủy Sư
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Thủy Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Ưng Thương Thiên
 hantu: 鷹蒼天
 archetype: Chiến Tướng
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Chiến Tướng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Tuyết Nguyệt
 hantu: 雪月
 archetype: Đại Tư Tế
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đại Tư Tế
 avatar: ''
 arcs:
   - arc: 1

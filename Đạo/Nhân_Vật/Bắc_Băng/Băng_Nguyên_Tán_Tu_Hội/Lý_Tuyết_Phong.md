@@ -4,6 +4,8 @@ name: Lý Tuyết Phong
 hantu: 李雪峰
 archetype: Phó Hội Trưởng
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Trưởng Trại Hàn Phong
 avatar: ''
 arcs:
   - arc: 1

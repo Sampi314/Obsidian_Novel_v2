@@ -4,6 +4,8 @@ name: Khuẩn Ngọc Tảo
 hantu: 菌玉藻
 archetype: Dược Sư Biển
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Dược Sư Biển
 avatar: ''
 arcs:
   - arc: 1

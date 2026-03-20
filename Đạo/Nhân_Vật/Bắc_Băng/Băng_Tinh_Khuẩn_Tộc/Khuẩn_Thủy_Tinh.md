@@ -4,6 +4,13 @@ name: Khuẩn Thủy Tinh
 hantu: 菌水晶
 archetype: Trưởng Lão Tinh Luyện
 race: Vi Tộc
+dao_tam: Tinh luyện là tách bỏ tạp chất. Sống cũng vậy — giữ lại điều cần thiết, vứt bỏ phần dư thừa
+aliases:
+  - "Lão Tinh" (老晶)"
+  - "vì hắn là cá thể già thứ hai sau Cổ Băng"
+origin: Bắc Băng
+age: 7
+faction_rank: Trưởng Lão Tinh Luyện — phụ trách quá trình kết tinh bào tử
 avatar: ''
 arcs:
   - arc: 1

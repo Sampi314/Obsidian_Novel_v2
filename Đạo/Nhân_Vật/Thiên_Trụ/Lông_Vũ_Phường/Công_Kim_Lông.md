@@ -4,6 +4,8 @@ name: Công Kim Lông
 hantu: 孔金翎
 archetype: Phường Chủ
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Phường Chủ
 avatar: ''
 arcs:
   - arc: 1

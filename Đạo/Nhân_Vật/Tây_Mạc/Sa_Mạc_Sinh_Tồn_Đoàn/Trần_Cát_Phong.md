@@ -4,6 +4,8 @@ name: Trần Cát Phong
 hantu: 陈喝风
 archetype: Phó Đoàn
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Phó Đoàn
 avatar: ''
 arcs:
   - arc: 1

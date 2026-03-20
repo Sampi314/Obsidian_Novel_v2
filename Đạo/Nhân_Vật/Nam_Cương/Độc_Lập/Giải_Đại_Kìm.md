@@ -4,6 +4,8 @@ name: Giải Đại Kìm
 hantu: 蟹大鉗
 archetype: Thợ Xây
 race: Hải Tộc
+origin: Nam Cương
+faction_rank: Thợ Xây
 avatar: ''
 arcs:
   - arc: 1

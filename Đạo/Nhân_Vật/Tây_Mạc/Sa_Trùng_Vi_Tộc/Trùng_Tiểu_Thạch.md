@@ -4,6 +4,8 @@ name: Trùng Tiểu Thạch
 hantu: 蟲小石
 archetype: Đệ Tử Thăm Dò
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Đệ Tử Thăm Dò
 avatar: ''
 arcs:
   - arc: 1

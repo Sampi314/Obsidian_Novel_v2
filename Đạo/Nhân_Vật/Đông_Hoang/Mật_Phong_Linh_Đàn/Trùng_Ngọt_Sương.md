@@ -4,6 +4,8 @@ name: Trùng Ngọt Sương
 hantu: 蟲甜霜
 archetype: Ong Dưỡng Nhi
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Ong Dưỡng Nhi
 avatar: ''
 arcs:
   - arc: 1

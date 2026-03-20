@@ -4,6 +4,8 @@ name: Thủy Bạch Liên
 hantu: 水白莲
 archetype: Dược Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

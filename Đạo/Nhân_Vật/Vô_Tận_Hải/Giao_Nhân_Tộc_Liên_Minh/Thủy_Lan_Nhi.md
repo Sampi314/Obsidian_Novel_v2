@@ -4,6 +4,9 @@ name: Thủy Lan Nhi
 hantu: 水兰儿
 archetype: Tướng Quân
 race: Hải Tộc (Giao Nhân)
+dao_tam: Máu Giao Nhân Không Được Đổ Vô Ích
+origin: Vô Tận Hải
+faction_rank: Tướng Quân Hải Ba Vệ
 avatar: ''
 arcs:
   - arc: 1

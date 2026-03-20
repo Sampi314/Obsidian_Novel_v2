@@ -4,6 +4,8 @@ name: Trần Chưởng Quầy
 hantu: 陳掌櫃
 archetype: Tổng Quản
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Tổng Quản
 avatar: ''
 arcs:
   - arc: 1

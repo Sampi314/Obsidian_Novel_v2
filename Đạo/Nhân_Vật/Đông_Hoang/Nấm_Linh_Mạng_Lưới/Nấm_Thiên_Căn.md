@@ -4,6 +4,8 @@ name: Nấm Thiên Căn
 hantu: 菌千根
 archetype: Mạng Lưới Chủ
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Mạng Lưới Chủ
 avatar: ''
 arcs:
   - arc: 1

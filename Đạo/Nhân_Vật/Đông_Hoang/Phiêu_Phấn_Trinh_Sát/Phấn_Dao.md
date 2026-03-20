@@ -4,6 +4,8 @@ name: Phấn Dao
 hantu: 粉瑤
 archetype: Đội Trưởng Trinh Sát
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Đội Trưởng Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Diệp Phong
 hantu: 叶風
 archetype: Phó Thủ Lĩnh
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Phó Thủ Lĩnh
 avatar: ''
 arcs:
   - arc: 1

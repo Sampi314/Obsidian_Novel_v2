@@ -4,6 +4,8 @@ name: Hoàng Thiếu Quang
 hantu: 黄少光
 archetype: Thanh Niên
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Thanh Niên
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Tiểu Dạ Lan
 hantu: 小夜蘭
 archetype: Thất Dạ Sứ
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Thất Dạ Sứ
 avatar: ''
 arcs:
   - arc: 1

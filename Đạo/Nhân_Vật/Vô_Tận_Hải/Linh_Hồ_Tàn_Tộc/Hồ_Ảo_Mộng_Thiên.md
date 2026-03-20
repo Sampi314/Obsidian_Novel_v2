@@ -4,6 +4,8 @@ name: Hồ Ảo Mộng Thiên
 hantu: 狐幻夢天
 archetype: Ảo Sư
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Ảo Sư
 avatar: ''
 arcs:
   - arc: 1

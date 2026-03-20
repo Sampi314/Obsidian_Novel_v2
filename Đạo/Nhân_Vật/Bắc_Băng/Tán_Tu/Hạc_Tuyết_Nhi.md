@@ -4,6 +4,8 @@ name: Hạc Tuyết Nhi
 hantu: 鶴雪兒
 archetype: Y Sư
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Y Sư
 avatar: ''
 arcs:
   - arc: 1

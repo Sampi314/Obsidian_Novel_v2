@@ -4,6 +4,9 @@ name: Ngư Ngân Quang
 hantu: 魚銀光
 archetype: Trinh Sát
 race: Hải Tộc
+dao_tam: Thấy nguy hiểm trước — để mọi người chạy kịp
+origin: Tây Mạc
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

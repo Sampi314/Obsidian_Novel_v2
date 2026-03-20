@@ -4,6 +4,8 @@ name: Lý Tiểu Ba
 hantu: 李小波
 archetype: Ngư Đội Trưởng
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Ngư Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

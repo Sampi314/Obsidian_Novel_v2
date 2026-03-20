@@ -4,6 +4,9 @@ name: Phong Bạch Nhận
 hantu: 风白刃
 archetype: Giáo Tập
 race: Nhân Tộc
+dao_tam: Bạch Nhận Vô Tình
+origin: Tây Mạc
+faction_rank: Giáo Tập
 avatar: ''
 arcs:
   - arc: 1

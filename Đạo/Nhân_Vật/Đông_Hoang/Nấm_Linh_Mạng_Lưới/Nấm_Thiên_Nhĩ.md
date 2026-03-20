@@ -4,6 +4,8 @@ name: Nấm Thiên Nhĩ
 hantu: 菌千耳
 archetype: Trinh Sát
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

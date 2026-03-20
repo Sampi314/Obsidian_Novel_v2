@@ -4,6 +4,8 @@ name: Tinh Minh
 hantu: 晶明
 archetype: Phường Chủ
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Phường Chủ
 avatar: ''
 arcs:
   - arc: 1

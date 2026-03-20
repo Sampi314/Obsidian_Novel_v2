@@ -4,6 +4,8 @@ name: Mộc Trầm
 hantu: 木沉
 archetype: Đốc Công
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Đốc Công
 avatar: ''
 arcs:
   - arc: 1

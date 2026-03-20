@@ -4,6 +4,8 @@ name: Diệp Thu Thanh
 hantu: 叶秋晴
 archetype: Thủ Lĩnh
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thủ Lĩnh
 avatar: ''
 arcs:
   - arc: 1

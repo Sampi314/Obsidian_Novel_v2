@@ -4,6 +4,14 @@ name: Lang Phong Tuyết Hào
 hantu: 狼風雪嚎
 archetype: Trinh Sát Trưởng
 race: Yêu Tộc
+dao_tam: Chạy là sống. Dừng là chết. Nhanh hơn mọi thứ, thì mọi thứ không bắt được ta
+aliases:
+  - "Gió Tuyết" (雪风)"
+  - "không ai bắt kịp"
+  - "Sói Bưu Chính" (邮差狼)"
+origin: Bắc Băng — di chuyển liên tục, không có trại cố định
+age: 200
+faction_rank: Trinh Sát Trưởng (斥候长)
 avatar: ''
 arcs:
   - arc: 1

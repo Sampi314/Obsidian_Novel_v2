@@ -4,6 +4,8 @@ name: Phạm Nhất Tiễn
 hantu: 范一箭
 archetype: Xạ Thủ Chân Truyền
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Xạ Thủ Chân Truyền
 avatar: ''
 arcs:
   - arc: 1

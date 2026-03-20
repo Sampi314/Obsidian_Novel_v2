@@ -4,6 +4,8 @@ name: Lang Thiên Dạ Hành
 hantu: 狼天夜行
 archetype: Thánh Tướng Thứ Tư
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thánh Tướng Thứ Tư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: La Vân Ti
 hantu: 羅雲絲
 archetype: Nhện Chi Hộ Pháp
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Nhện Chi Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

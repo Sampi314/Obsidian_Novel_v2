@@ -4,6 +4,9 @@ name: Mạt Nham
 hantu: 末岩
 archetype: Thành Viên
 race: Thạch Tộc
+dao_tam: Trung Thực Tuyệt Đối
+origin: Tây Mạc
+faction_rank: Thành Viên
 avatar: ''
 arcs:
   - arc: 1

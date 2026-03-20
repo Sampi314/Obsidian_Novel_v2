@@ -4,6 +4,8 @@ name: Lý Mộc Thanh
 hantu: 李木青
 archetype: Cung Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Cung Chủ
 avatar: ''
 arcs:
   - arc: 1

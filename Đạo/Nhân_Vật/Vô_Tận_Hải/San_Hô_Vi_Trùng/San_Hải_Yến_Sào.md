@@ -4,6 +4,9 @@ name: San Hải Yến Sào
 hantu: 珊海燕巢
 archetype: Trưởng Lão Sửa Chữa
 race: Vi Tộc
+dao_tam: Phục Hồi Bất Tận
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão Sửa Chữa
 avatar: ''
 arcs:
   - arc: 1

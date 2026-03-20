@@ -4,6 +4,8 @@ name: Hạc Ngân Vũ
 hantu: 鶴銀羽
 archetype: Hữu Hộ Pháp
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Hữu Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,14 @@ name: Phụ Sơn Lão
 hantu: 負山老
 archetype: Đội Trưởng
 race: Cự Tộc
+lingan: Thổ Linh Căn Đơn Hệ (土灵根)
+dao_tam: Phụ Trọng Nhi Hành
+aliases:
+  - "Lão Cõng Núi" (老負山)"
+  - "Thiết Cốt Sơn Nhân" (鐵骨山人)"
+origin: Bắc Băng
+age: 380
+faction_rank: Đội Trưởng (隊長)
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Kình Thiên
 hantu: 鲸天
 archetype: Thành Chủ
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Thành Chủ
 avatar: ''
 arcs:
   - arc: 1

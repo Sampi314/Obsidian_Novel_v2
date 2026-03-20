@@ -4,6 +4,8 @@ name: San Ngọc Lan
 hantu: 珊玉兰
 archetype: Dược Sư
 race: Hải Tộc (Nhân Ngư)
+origin: Vô Tận Hải
+faction_rank: Dược Sư Tảo Biển
 avatar: ''
 arcs:
   - arc: 1

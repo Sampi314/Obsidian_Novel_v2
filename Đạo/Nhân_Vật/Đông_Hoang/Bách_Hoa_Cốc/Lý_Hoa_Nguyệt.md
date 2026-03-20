@@ -4,6 +4,8 @@ name: Lý Hoa Nguyệt
 hantu: 李花月
 archetype: Cốc Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Cốc Chủ
 avatar: ''
 arcs:
   - arc: 1

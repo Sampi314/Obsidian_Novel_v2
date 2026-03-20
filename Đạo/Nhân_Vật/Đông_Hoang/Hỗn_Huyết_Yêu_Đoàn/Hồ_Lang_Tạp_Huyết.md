@@ -4,6 +4,8 @@ name: Hồ Lang Tạp Huyết
 hantu: 狐狼雜血
 archetype: Đoàn Trưởng
 race: Bán Yêu
+origin: Đông Hoang
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

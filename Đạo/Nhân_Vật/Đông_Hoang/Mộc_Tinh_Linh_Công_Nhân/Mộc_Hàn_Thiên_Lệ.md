@@ -4,6 +4,8 @@ name: Mộc Hàn Thiên Lệ
 hantu: 木寒天淚
 archetype: Thợ Đốn
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thợ Đốn
 avatar: ''
 arcs:
   - arc: 1

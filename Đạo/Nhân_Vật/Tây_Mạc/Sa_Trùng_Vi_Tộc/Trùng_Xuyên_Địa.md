@@ -4,6 +4,8 @@ name: Trùng Xuyên Địa
 hantu: 蟲穿地
 archetype: Đào Khoáng Thủ
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Đào Khoáng Thủ
 avatar: ''
 arcs:
   - arc: 1

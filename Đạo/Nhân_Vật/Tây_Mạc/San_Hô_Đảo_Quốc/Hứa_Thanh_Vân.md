@@ -4,6 +4,11 @@ name: Hứa Thanh Vân
 hantu: 许清云
 archetype: Du Hiệp
 race: Nhân Tộc
+lingan: Thổ - Phong (Song Linh Căn)
+aliases:
+  - "Không (Tự xưng: "Thanh Vân Hiệp Khách")"
+age: 18
+faction_rank: - Thiếu Gia chủ Hứa Gia (Thiên Sa Thương Hội)
 avatar: Hứa_Thanh_Vân.png
 arcs:
   - arc: 1

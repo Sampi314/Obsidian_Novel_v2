@@ -4,6 +4,14 @@ name: Lang Hắc Vũ
 hantu: 狼黑羽
 archetype: Huấn Luyện Sư
 race: Yêu Tộc
+aliases:
+  - "Sư Phụ Roi" (鞭师父)"
+  - "đánh không thương tiếc nhưng không bao giờ gây thương tích vĩnh viễn"
+  - "Lão Vú Em Sói" (老狼奶妈)"
+  - "vì hắn chăm sóc sói con kỹ hơn mẹ chúng"
+origin: Bắc Băng — Bãi Huấn Luyện phía tây trại chính
+age: 350
+faction_rank: Huấn Luyện Sư (训练师)
 avatar: ''
 arcs:
   - arc: 1

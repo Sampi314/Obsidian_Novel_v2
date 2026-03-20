@@ -4,6 +4,8 @@ name: Hỏa Giáp Trụ
 hantu: 火甲柱
 archetype: Thợ Cả
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Thợ Cả
 avatar: ''
 arcs:
   - arc: 1

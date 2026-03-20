@@ -4,6 +4,8 @@ name: Hổ Hùng Cự Lực
 hantu: 虎熊巨力
 archetype: Vệ Sĩ
 race: Bán Yêu
+origin: Đông Hoang
+faction_rank: Vệ Sĩ
 avatar: ''
 arcs:
   - arc: 1

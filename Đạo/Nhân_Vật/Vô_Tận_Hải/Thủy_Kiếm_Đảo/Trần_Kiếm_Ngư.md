@@ -4,6 +4,13 @@ name: Trần Kiếm Ngư
 hantu: 陈剑鱼
 archetype: Trưởng Lão
 race: Nhân Tộc
+aliases:
+  - "Lão Ngư Kiếm Khách (老渔剑客)"
+  - "ngư dân gọi "Lão Cá"
+  - "Hải Triều Kiếm gọi "Lão Già Khó Tính"
+origin: Vô Tận Hải
+age: 503
+faction_rank: Trưởng Lão — cố vấn chiến lược
 avatar: ''
 arcs:
   - arc: 1

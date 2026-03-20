@@ -4,6 +4,8 @@ name: Hồ Tiểu Bạch
 hantu: 狐小白
 archetype: Đệ Tử
 race: Yêu Tộc
+origin: Bắc Băng
+faction_rank: Đệ Tử Huyễn Thuật
 avatar: ''
 arcs:
   - arc: 1

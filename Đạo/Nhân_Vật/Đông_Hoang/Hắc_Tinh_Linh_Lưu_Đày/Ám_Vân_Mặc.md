@@ -4,6 +4,8 @@ name: Ám Vân Mặc
 hantu: 暗雲墨
 archetype: Họa Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Họa Sư
 avatar: ''
 arcs:
   - arc: 1

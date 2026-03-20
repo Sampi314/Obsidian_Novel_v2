@@ -4,6 +4,8 @@ name: Hoàng Quỷ Thủ
 hantu: 黃鬼手
 archetype: Sát Thủ Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Sát Thủ Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Xà Hồng Tín Tử
 hantu: 蛇紅信子
 archetype: Gián Điệp
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Gián Điệp
 avatar: ''
 arcs:
   - arc: 1

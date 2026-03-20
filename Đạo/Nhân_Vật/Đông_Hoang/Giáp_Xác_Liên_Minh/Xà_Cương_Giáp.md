@@ -4,6 +4,8 @@ name: Xà Cương Giáp
 hantu: 蛇鋼甲
 archetype: Minh Chủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

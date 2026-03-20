@@ -4,6 +4,8 @@ name: Hạ Thiên Châm
 hantu: 夏天針
 archetype: Yết Chi Hộ Pháp
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Yết Chi Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Lôi Vạn Lý
 hantu: 雷万里
 archetype: Hạm Đội Trưởng
 race: Nhân Tộc
+dao_tam: Thiên Lý Hải Đồ
+origin: Vô Tận Hải
+faction_rank: Hạm Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

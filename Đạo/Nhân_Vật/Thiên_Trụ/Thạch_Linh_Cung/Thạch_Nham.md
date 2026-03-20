@@ -4,6 +4,13 @@ name: Thạch Nham
 hantu: 石岩
 archetype: Đệ Tứ Hỏa Sư
 race: Thạch Tộc
+aliases:
+  - "Trầm Nham" (沉岩) — Đá Chìm"
+  - "vì gã luôn ở phía sau"
+  - "lặng lẽ"
+  - "nhưng vững như nền móng"
+origin: Thiên Trụ
+faction_rank: Đệ Tứ Hỏa Sư
 avatar: ''
 arcs:
   - arc: 1

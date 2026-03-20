@@ -4,6 +4,8 @@ name: Công Thái Hồng
 hantu: 孔彩虹
 archetype: Chiến Tướng
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Chiến Tướng
 avatar: ''
 arcs:
   - arc: 1

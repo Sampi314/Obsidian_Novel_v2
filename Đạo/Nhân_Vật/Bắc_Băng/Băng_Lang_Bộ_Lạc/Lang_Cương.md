@@ -4,6 +4,14 @@ name: Lang Cương
 hantu: 狼剛
 archetype: Thái Tử
 race: Yêu Tộc
+dao_tam: Ta sẽ mạnh hơn cha. Mạnh đến mức không ai dám nghi ngờ ta
+aliases:
+  - "Tiểu Bạo Vương" (小暴王)"
+  - "Thái Tử Nóng Đầu" (热头太子)"
+  - "không ai dám nói trước mặt"
+origin: Bắc Băng — thường xuyên di chuyển giữa Trại Chính và Trại Quân Phong Tuyết
+age: 150
+faction_rank: Thái Tử (太子)
 avatar: ''
 arcs:
   - arc: 1

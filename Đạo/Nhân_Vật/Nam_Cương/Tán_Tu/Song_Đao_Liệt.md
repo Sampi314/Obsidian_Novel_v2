@@ -4,6 +4,8 @@ name: Song Đao Liệt
 hantu: 雙刀裂
 archetype: Bọ Ngựa Đấu Sĩ
 race: Trùng Tộc
+origin: Nam Cương
+faction_rank: Bọ Ngựa Đấu Sĩ
 avatar: ''
 arcs:
   - arc: 1

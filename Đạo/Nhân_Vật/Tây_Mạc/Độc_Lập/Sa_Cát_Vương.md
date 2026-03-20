@@ -4,6 +4,8 @@ name: Sa Cát Vương
 hantu: 鯊渴王
 archetype: Sa Ngư Đột Biến
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Sa Ngư Đột Biến
 avatar: ''
 arcs:
   - arc: 1

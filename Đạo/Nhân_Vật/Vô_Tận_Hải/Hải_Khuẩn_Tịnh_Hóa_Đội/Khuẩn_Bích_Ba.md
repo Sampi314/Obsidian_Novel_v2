@@ -4,6 +4,8 @@ name: Khuẩn Bích Ba
 hantu: 菌碧波
 archetype: Trinh Sát Ô Nhiễm
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Trinh Sát Ô Nhiễm
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Phi Hoàng
 hantu: 飛蝗
 archetype: Châu Chấu Vương
 race: Trùng Tộc
+origin: Tây Mạc
+faction_rank: Châu Chấu Vương
 avatar: ''
 arcs:
   - arc: 1

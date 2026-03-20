@@ -4,6 +4,8 @@ name: Phấn Lăng Yên
 hantu: 粉凌煙
 archetype: Thám Tử Không Trung
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Thám Tử Không Trung
 avatar: ''
 arcs:
   - arc: 1

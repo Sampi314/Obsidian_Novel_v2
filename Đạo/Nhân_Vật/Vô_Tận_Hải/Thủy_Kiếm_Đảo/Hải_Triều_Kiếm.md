@@ -4,6 +4,12 @@ name: Hải Triều Kiếm
 hantu: 海潮剑
 archetype: Trưởng Lão
 race: Nhân Tộc
+aliases:
+  - "Song Kiếm Triều Tịch (双剑潮汐)"
+  - "đệ tử gọi "Kiếm Lão" hoặc "Đội Trưởng"
+origin: Vô Tận Hải
+age: 492
+faction_rank: Đội Trưởng Triều Tịch Đội
 avatar: ''
 arcs:
   - arc: 1

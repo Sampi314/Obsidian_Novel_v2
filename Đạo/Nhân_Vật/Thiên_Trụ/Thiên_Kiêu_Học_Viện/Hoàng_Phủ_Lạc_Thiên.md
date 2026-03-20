@@ -4,6 +4,8 @@ name: Hoàng Phủ Lạc Thiên
 hantu: 皇甫落天
 archetype: Giáo Sư
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Giáo Sư
 avatar: ''
 arcs:
   - arc: 1

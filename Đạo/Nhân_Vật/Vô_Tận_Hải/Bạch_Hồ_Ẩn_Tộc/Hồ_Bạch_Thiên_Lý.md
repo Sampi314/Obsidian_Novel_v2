@@ -4,6 +4,8 @@ name: Hồ Bạch Thiên Lý
 hantu: 狐白千里
 archetype: Liên Lạc Viên
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Liên Lạc Viên
 avatar: ''
 arcs:
   - arc: 1

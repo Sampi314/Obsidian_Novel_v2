@@ -4,6 +4,8 @@ name: Mẫu Nguyệt Huyền Ca
 hantu: 母月玄歌
 archetype: Phó Minh Chủ
 race: Hải Tộc (Siren)
+origin: Vô Tận Hải
+faction_rank: Phó Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

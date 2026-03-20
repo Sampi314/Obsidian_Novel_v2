@@ -4,6 +4,8 @@ name: Dương Linh Hỏa
 hantu: 楊靈火
 archetype: Đệ Nhất Tháp Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Nhất Tháp Chủ
 avatar: ''
 arcs:
   - arc: 1

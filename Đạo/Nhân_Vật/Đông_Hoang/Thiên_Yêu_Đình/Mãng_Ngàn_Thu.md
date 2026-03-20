@@ -4,6 +4,8 @@ name: Mãng Ngàn Thu
 hantu: 蟒千秋
 archetype: Trưởng Lão
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

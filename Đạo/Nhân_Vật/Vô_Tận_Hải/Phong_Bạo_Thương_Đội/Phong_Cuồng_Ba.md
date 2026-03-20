@@ -4,6 +4,9 @@ name: Phong Cuồng Ba
 hantu: 风狂波
 archetype: Hộ Vệ
 race: Nhân Tộc
+dao_tam: Cuồng Phong Hộ Hạm
+origin: Vô Tận Hải
+faction_rank: Đội Trưởng Hộ Vệ
 avatar: ''
 arcs:
   - arc: 1

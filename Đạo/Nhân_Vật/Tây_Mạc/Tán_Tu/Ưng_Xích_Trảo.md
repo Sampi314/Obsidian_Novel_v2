@@ -4,6 +4,8 @@ name: Ưng Xích Trảo
 hantu: 鷹赤爪
 archetype: Thợ Săn
 race: Vũ Tộc
+origin: Tây Mạc
+faction_rank: Thợ Săn
 avatar: ''
 arcs:
   - arc: 1

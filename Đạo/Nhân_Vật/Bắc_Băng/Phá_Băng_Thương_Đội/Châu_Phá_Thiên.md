@@ -4,6 +4,8 @@ name: Châu Phá Thiên
 hantu: 周破天
 archetype: Đội Trưởng
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

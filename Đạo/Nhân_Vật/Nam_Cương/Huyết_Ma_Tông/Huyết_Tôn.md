@@ -4,6 +4,8 @@ name: Huyết Tôn
 hantu: 血尊
 archetype: Tông Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Tông Chủ
 avatar: ''
 arcs:
   - arc: 1

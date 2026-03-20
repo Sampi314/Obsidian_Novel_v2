@@ -4,6 +4,8 @@ name: Ân Mộc Thanh
 hantu: 殷木青
 archetype: Mộc Độc Sư Đường Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Mộc Độc Sư Đường Chủ
 avatar: ''
 arcs:
   - arc: 1

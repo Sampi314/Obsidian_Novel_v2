@@ -4,6 +4,8 @@ name: Vương Cương
 hantu: 王鋼
 archetype: Đệ Tam Hộ Pháp
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Tam Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

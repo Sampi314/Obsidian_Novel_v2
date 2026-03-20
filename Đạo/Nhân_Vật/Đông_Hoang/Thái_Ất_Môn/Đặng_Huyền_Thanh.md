@@ -4,6 +4,8 @@ name: Đặng Huyền Thanh
 hantu: 鄧玄清
 archetype: Trưởng Lão Thiên Cơ Các
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Thiên Cơ Các
 avatar: ''
 arcs:
   - arc: 1

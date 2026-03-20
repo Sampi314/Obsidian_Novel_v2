@@ -4,6 +4,8 @@ name: Nham Hậu
 hantu: 岩厚
 archetype: Trưởng Lão
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

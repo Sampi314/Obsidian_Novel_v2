@@ -4,6 +4,8 @@ name: Ngư Hàn Phong
 hantu: 魚寒風
 archetype: Phó Đội
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Phó Đội
 avatar: ''
 arcs:
   - arc: 1

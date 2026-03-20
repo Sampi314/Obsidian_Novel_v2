@@ -4,6 +4,8 @@ name: Quy Vạn Niên Hàn
 hantu: 龜萬年寒
 archetype: Sử Gia
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Sử Gia
 avatar: ''
 arcs:
   - arc: 1

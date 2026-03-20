@@ -4,6 +4,8 @@ name: Lục Minh Nguyệt Hoa
 hantu: 綠明月花
 archetype: Y Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Y Sư
 avatar: ''
 arcs:
   - arc: 1

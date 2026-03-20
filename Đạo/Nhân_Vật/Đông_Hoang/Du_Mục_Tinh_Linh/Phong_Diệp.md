@@ -4,6 +4,8 @@ name: Phong Diệp
 hantu: 楓葉
 archetype: Thủ Lĩnh
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thủ Lĩnh
 avatar: ''
 arcs:
   - arc: 1

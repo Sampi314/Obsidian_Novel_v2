@@ -4,6 +4,8 @@ name: Ưng Tiểu Phi
 hantu: 鷹小飛
 archetype: Đệ Tử
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Phấn Hỏa Liên Thiên
 hantu: 粉火蓮天
 archetype: Bí Mật Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Bí Mật Sư
 avatar: ''
 arcs:
   - arc: 1

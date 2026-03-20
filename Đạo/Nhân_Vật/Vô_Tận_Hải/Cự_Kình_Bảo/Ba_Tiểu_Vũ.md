@@ -4,6 +4,8 @@ name: Ba Tiểu Vũ
 hantu: 波小雨
 archetype: Hướng Đạo
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Hướng Đạo Sư Hải Lưu
 avatar: ''
 arcs:
   - arc: 1

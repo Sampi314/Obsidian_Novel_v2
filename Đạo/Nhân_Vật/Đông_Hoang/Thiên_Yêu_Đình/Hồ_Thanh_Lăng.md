@@ -4,6 +4,8 @@ name: Hồ Thanh Lăng
 hantu: 狐青棱
 archetype: Tình Báo Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Tình Báo Trưởng
 avatar: ''
 arcs:
   - arc: 1

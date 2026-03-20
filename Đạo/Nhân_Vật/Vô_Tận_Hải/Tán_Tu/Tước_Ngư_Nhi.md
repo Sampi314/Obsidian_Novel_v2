@@ -4,6 +4,8 @@ name: Tước Ngư Nhi
 hantu: 雀漁兒
 archetype: Ngư Dân
 race: Vũ Tộc
+origin: Vô Tận Hải
+faction_rank: Ngư Dân
 avatar: ''
 arcs:
   - arc: 1

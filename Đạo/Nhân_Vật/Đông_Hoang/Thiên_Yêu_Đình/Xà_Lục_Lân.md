@@ -4,6 +4,8 @@ name: Xà Lục Lân
 hantu: 蛇綠鱗
 archetype: Xà Tộc Chiến Sĩ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Xà Tộc Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

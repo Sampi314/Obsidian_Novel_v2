@@ -4,6 +4,9 @@ name: Trần Phá Bẫy
 hantu: 陈破陷
 archetype: Phó Đoàn
 race: Nhân Tộc
+dao_tam: Bẫy chỉ giết kẻ vội vàng — ta chậm một bước, cả đoàn sống thêm một ngày
+origin: Tây Mạc
+faction_rank: Phó Đoàn
 avatar: ''
 arcs:
   - arc: 1

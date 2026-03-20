@@ -4,6 +4,8 @@ name: Vũ Hạc Vũ
 hantu: 羽鶴羽
 archetype: Hộ Pháp
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

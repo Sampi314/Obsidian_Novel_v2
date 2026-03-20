@@ -4,6 +4,13 @@ name: Ngân Hàn Kén
 hantu: 銀寒繭
 archetype: Kén Sư
 race: Trùng Tộc
+dao_tam: Kén bọc vạn vật, không phân biệt lớn nhỏ
+aliases:
+  - "Kén Sư" (繭師)"
+  - "Tiểu Ngân" (小銀)"
+origin: Bắc Băng — Hang Tằm Vạn Năm, Ngân Động (khu vực riêng của dòng Ngân)
+age: 400
+faction_rank: Kén Sư — chuyên gia kết kén tơ bạc
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Mã Hồng Lô
 hantu: 馬紅爐
 archetype: Đệ Ngũ Tháp Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Ngũ Tháp Chủ
 avatar: ''
 arcs:
   - arc: 1

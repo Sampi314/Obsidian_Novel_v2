@@ -4,6 +4,9 @@ name: Hồ Tiểu Sa Nguyệt
 hantu: 狐小沙月
 archetype: Tín Sứ
 race: Yêu Tộc
+dao_tam: Chạy thật nhanh, không ai bắt được
+origin: Tây Mạc
+faction_rank: Tín Sứ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,14 @@ name: Ưng Phá Thiên
 hantu: 鷹破天
 archetype: Chiến Sĩ
 race: Vũ Tộc
+lingan: Song linh căn
+dao_tam: Bay thẳng lên trời cao. Xuyên thủng mọi thứ cản đường
+aliases:
+  - "Mũi Tên Sống" (活箭)"
+  - "lao như mũi tên xuyên qua mọi hàng rào phòng ngự"
+origin: Thiên Trụ — Bắc Băng
+age: 68
+faction_rank: Chiến Sĩ Xung Kích (衝擊戰士)
 avatar: ''
 arcs:
   - arc: 1

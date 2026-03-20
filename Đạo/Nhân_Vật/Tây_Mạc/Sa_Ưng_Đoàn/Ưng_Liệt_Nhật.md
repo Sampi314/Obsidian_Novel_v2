@@ -4,6 +4,13 @@ name: Ưng Liệt Nhật
 hantu: 鷹烈日
 archetype: Phó Đoàn Trưởng
 race: Vũ Tộc
+dao_tam: Liệt Hỏa Đoạn Kim
+aliases:
+  - "Xích Viêm Chiến Ưng (赤焰戰鷹"
+  - "Liệt Nhật Song Trảo (烈日雙爪"
+origin: Tây Mạc — lãnh thổ Sa Ưng Đoàn, thường trú tại Ốc Đảo Thiên Ưng
+age: 479
+faction_rank: Phó Đoàn Trưởng (副團長) của Sa Ưng Đoàn
 avatar: ''
 arcs:
   - arc: 1

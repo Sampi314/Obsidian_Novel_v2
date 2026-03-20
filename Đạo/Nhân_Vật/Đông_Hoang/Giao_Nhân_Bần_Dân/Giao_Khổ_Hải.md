@@ -4,6 +4,11 @@ name: Giao Khổ Hải
 hantu: 鲛苦海
 archetype: Thợ Dệt
 race: Hải Tộc
+aliases:
+  - "Không có danh hiệu. Trong khu ổ chuột"
+  - "mọi người gọi anh là "Anh Khổ" hoặc "Thợ Dệt Già." Quản công không buồn gọi tên"
+origin: Đông Hoang
+faction_rank: Thợ Dệt
 avatar: ''
 arcs:
   - arc: 1

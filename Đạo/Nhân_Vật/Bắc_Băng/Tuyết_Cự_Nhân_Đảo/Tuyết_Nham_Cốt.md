@@ -4,6 +4,12 @@ name: Tuyết Nham Cốt
 hantu: 雪岩骨
 archetype: Tướng Quân
 race: Cự Tộc
+dao_tam: Dĩ Thân Thành Bích
+aliases:
+  - "Nham Cốt Tướng Quân (岩骨将军"
+  - "Bạo Phong Chùy (暴风锤"
+origin: Bắc Băng
+faction_rank: Thống Lĩnh Dũng Sĩ (统领)
 avatar: ''
 arcs:
   - arc: 1

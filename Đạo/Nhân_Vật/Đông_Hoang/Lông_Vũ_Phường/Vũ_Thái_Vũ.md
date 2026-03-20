@@ -4,6 +4,8 @@ name: Vũ Thái Vũ
 hantu: 羽彩羽
 archetype: Thợ Dệt
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Thợ Dệt
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Linh Hắc Trào
 hantu: 靈黑潮
 archetype: Trinh Sát Hải Cấu
 race: Vi Tộc
+dao_tam: Vô Tận Thâm Tầm
+origin: Vô Tận Hải
+faction_rank: Trinh Sát Hải Cấu
 avatar: ''
 arcs:
   - arc: 1

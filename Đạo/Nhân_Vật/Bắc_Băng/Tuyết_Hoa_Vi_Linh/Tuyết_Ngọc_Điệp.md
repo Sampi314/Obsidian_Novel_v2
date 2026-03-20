@@ -4,6 +4,8 @@ name: Tuyết Ngọc Điệp
 hantu: 雪玉蝶
 archetype: Trinh Sát Hoa
 race: Vi Tộc
+origin: Bắc Băng — di chuyển liên tục giữa các thế lực, không ở cố định
+faction_rank: Trinh Sát Hoa — gián điệp của quần thể
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,11 @@ name: Trùng Tiểu Hàn
 hantu: 蟲小寒
 archetype: Đệ Tử Luyện Độc
 race: Vi Tộc
+dao_tam: Độc nhỏ cũng là độc, luyện nhiều sẽ thành lớn
+aliases:
+  - "Tiểu Độc" (小毒)"
+origin: Bắc Băng
+faction_rank: Đệ Tử Luyện Độc (弟子练毒)
 avatar: ''
 arcs:
   - arc: 1

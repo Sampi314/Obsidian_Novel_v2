@@ -4,6 +4,8 @@ name: Trùng Thanh Dực
 hantu: 蟲青翼
 archetype: Chiến Binh Trưởng
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Chiến Binh Trưởng
 avatar: ''
 arcs:
   - arc: 1

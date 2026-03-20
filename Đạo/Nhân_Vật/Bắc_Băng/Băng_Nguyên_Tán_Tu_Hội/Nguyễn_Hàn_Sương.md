@@ -4,6 +4,8 @@ name: Nguyễn Hàn Sương
 hantu: 阮寒霜
 archetype: Quản Sự
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Quản Sự Sàn Giao Dịch
 avatar: ''
 arcs:
   - arc: 1

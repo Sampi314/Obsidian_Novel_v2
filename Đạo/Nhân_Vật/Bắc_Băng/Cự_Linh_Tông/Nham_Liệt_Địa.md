@@ -4,6 +4,8 @@ name: Nham Liệt Địa
 hantu: 岩裂地
 archetype: Chiến Cự Tử
 race: Cự Tộc
+origin: Bắc Băng
+faction_rank: Chiến Cự Tử
 avatar: ''
 arcs:
   - arc: 1

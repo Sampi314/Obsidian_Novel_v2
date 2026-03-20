@@ -4,6 +4,8 @@ name: Nguyễn Thủy Tiên
 hantu: 阮水仙
 archetype: Đội Trưởng
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

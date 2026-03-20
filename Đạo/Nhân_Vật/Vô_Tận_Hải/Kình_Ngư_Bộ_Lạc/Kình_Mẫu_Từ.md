@@ -4,6 +4,8 @@ name: Kình Mẫu Từ
 hantu: 鯨母慈
 archetype: Hộ Sản
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Hộ Sản
 avatar: ''
 arcs:
   - arc: 1

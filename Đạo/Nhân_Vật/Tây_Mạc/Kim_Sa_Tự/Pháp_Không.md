@@ -4,6 +4,13 @@ name: Pháp Không
 hantu: 法空
 archetype: Đại Trưởng Lão
 race: Nhân Tộc
+dao_tam: Thiết Cốt Phật Tâm
+aliases:
+  - "Sa Mạc Cổ Phật (沙漠古佛"
+  - "Thiết Cốt Thiền Sư (鐵骨禪師"
+origin: Tây Mạc — Kim Sa Nguyên
+age: 487
+faction_rank: Đại Trưởng Lão (大長老) của Kim Sa Tự
 avatar: ''
 arcs:
   - arc: 1

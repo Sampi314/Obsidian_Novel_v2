@@ -4,6 +4,9 @@ name: Kình Áp Suất Vương
 hantu: 鯨壓力王
 archetype: Vận Tải
 race: Hải Tộc
+dao_tam: Tải Trọng
+origin: Vô Tận Hải
+faction_rank: Vận Tải
 avatar: ''
 arcs:
   - arc: 1

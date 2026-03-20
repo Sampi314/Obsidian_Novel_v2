@@ -4,6 +4,12 @@ name: Kình Vạn Lý
 hantu: 鯨萬里
 archetype: Tây Hải Tướng Quân
 race: Hải Tộc
+dao_tam: Kình Hành Vạn Lý, Hải Chấn Bát Hoang
+aliases:
+  - "Đại Dương Bá Chủ (大洋霸主"
+  - "Vạn Lý Kình Vương (萬里鯨王)"
+origin: Vô Tận Hải — biển Tây hoang vu, tuần tra xuyên suốt vạn dặm
+faction_rank: Tây Hải Tướng Quân (西海將軍)
 avatar: ''
 arcs:
   - arc: 1

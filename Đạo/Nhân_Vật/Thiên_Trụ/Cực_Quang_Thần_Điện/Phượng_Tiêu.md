@@ -4,6 +4,8 @@ name: Phượng Tiêu
 hantu: 鳳簫
 archetype: Vũ Hoàng
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Vũ Hoàng
 avatar: ''
 arcs:
   - arc: 1

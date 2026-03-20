@@ -4,6 +4,14 @@ name: Vạn Quân
 hantu: 萬鈞
 archetype: Thợ Xây Trưởng
 race: Cự Tộc
+lingan: Thổ Linh Căn Đơn Hệ (土灵根)
+dao_tam: Trúc Cơ Vi Đạo
+aliases:
+  - "Thạch Tượng" (石匠"
+  - "Lão Xây" (老建)"
+origin: Bắc Băng — trụ sở tại một xưởng xây dựng lộ thiên gần khu đá granite phía đông
+age: 350
+faction_rank: Thợ Xây Trưởng (建築長)
 avatar: ''
 arcs:
   - arc: 1

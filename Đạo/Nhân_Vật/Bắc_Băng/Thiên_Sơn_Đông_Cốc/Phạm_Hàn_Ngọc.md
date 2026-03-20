@@ -4,6 +4,15 @@ name: Phạm Hàn Ngọc
 hantu: 范寒玉
 archetype: Đan Sư
 race: Nhân Tộc
+lingan: Song linh căn Thủy-Hỏa (giống Cốc Chủ Hàn Đan)
+dao_tam: Đan phương tốt nhất là đan phương chưa được viết ra
+aliases:
+  - "Cuồng Đan Nữ" (狂丹女)"
+  - "bất kể nguy hiểm"
+  - "và đã làm nổ đỉnh luyện đan nhiều lần nhất lịch sử Đông Cốc. Ngoài ra"
+origin: Bắc Băng — Thung lũng Mùa Đông, dãy Thiên Sơn
+age: 186
+faction_rank: Trưởng Lão Đan Sư (丹师长老)
 avatar: ''
 arcs:
   - arc: 1

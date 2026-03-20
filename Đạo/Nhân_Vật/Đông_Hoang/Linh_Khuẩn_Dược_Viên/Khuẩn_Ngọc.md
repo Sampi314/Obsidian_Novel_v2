@@ -4,6 +4,8 @@ name: Khuẩn Ngọc
 hantu: 菌玉
 archetype: Kết Tinh Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Kết Tinh Sư
 avatar: ''
 arcs:
   - arc: 1

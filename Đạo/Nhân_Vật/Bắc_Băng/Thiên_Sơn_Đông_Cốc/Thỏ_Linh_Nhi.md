@@ -4,6 +4,14 @@ name: Thỏ Linh Nhi
 hantu: 兔灵儿
 archetype: Hái Thuốc
 race: Yêu Tộc
+lingan: Thiên Linh Căn Mộc-Thủy (đặc biệt hiếm trong yêu tộc)
+dao_tam: Mỗi cây cỏ đều đang nói. Chỉ cần biết lắng nghe
+aliases:
+  - "Tiểu Bạch" (小白)"
+  - "vì nàng luôn mặc trắng và vì tính cách "trắng tinh" ngây thơ. Ngoài ra"
+origin: Bắc Băng — Thung lũng Mùa Đông, dãy Thiên Sơn
+age: 89
+faction_rank: Thợ Hái Tuyết Liên (采雪莲手) — thành viên Hái Thuốc Đội
 avatar: ''
 arcs:
   - arc: 1

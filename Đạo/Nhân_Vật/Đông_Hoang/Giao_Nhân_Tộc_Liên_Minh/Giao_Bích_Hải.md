@@ -4,6 +4,8 @@ name: Giao Bích Hải
 hantu: 鲛碧海
 archetype: Dệt Sư
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Dệt Sư
 avatar: ''
 arcs:
   - arc: 1

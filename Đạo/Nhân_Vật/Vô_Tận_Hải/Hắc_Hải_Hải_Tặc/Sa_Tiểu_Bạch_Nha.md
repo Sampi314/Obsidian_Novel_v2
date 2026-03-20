@@ -4,6 +4,8 @@ name: Sa Tiểu Bạch Nha
 hantu: 鯊小白牙
 archetype: Trinh Sát
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hoàng Mộ Dạ
 hantu: 黄暮夜
 archetype: Giám Định Viên
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Giám Định Di Vật
 avatar: ''
 arcs:
   - arc: 1

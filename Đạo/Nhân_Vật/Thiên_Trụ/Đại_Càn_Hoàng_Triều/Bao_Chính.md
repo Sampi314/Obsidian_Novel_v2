@@ -4,6 +4,8 @@ name: Bao Chính
 hantu: 包正
 archetype: Hình Bộ Thượng Thư
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Hình Bộ Thượng Thư
 avatar: ''
 arcs:
   - arc: 1

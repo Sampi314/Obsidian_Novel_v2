@@ -4,6 +4,8 @@ name: Vương Cổ Thuyền
 hantu: 王古船
 archetype: Đưa Đò Trưởng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đưa Đò Trưởng
 avatar: ''
 arcs:
   - arc: 1

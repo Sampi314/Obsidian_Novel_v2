@@ -4,6 +4,15 @@ name: Bào Hoàng Sa
 hantu: 孢黃沙
 archetype: Phó Chủ Phong Bào
 race: Vi Tộc
+dao_tam: Không ai bị bỏ lại. Không ai thiếu thốn. Đều nhau, cùng sống
+aliases:
+  - "Sa Mẫu" (沙母)"
+  - "công bằng"
+  - "không bỏ sót ai. Phong Sa Lão Nhân gọi y là "Đám Mây Vàng" vì khi đoàn bay"
+  - "Hoàng Sa luôn ở tầng giữa bao quanh các cá thể yếu nhất"
+  - "tạo hình ảnh một đám mây vàng ấm áp che chở cả đoàn"
+origin: Tây Mạc — Hoàng Kim Sa Hải, hoạt động cùng Đoàn Bão Mắt Sa Trường
+faction_rank: Phó Chủ Phong Bào (副風孢主) — cá thể lớn thứ hai trong đoàn
 avatar: ''
 arcs:
   - arc: 1

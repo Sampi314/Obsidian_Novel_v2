@@ -4,6 +4,8 @@ name: Trùng Tiểu Trai
 hantu: 蟲小蚌
 archetype: Nuôi Trồng Viên
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Nuôi Trồng Viên
 avatar: ''
 arcs:
   - arc: 1

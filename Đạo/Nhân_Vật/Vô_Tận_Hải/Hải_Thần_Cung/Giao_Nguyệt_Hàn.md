@@ -4,6 +4,12 @@ name: Giao Nguyệt Hàn
 hantu: 鲛月寒
 archetype: Đệ Nhị Tế Tư
 race: Hải Tộc
+dao_tam: Trấn Uyên Thủ Ấn, Vạn Kiếp Bất Dịch
+aliases:
+  - "Hàn Uyên Tế Tư (寒渊祭司 — "Tế Tư Vực Lạnh")"
+  - "Bóng Tối Dưới Đáy Biển (海底之影)"
+origin: Vô Tận Hải — Hải Thần Cấm Địa, phần lớn thời gian ngồi trong bóng tối
+faction_rank: Đệ Nhị Tế Tư (第二祭司) — người canh giữ Hải Thần Cấm Địa
 avatar: ''
 arcs:
   - arc: 1

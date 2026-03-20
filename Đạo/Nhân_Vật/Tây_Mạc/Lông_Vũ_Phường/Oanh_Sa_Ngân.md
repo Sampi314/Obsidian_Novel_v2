@@ -4,6 +4,8 @@ name: Oanh Sa Ngân
 hantu: 鶯沙吟
 archetype: Thợ Thủ Công
 race: Vũ Tộc
+origin: Tây Mạc
+faction_rank: Thợ Thủ Công
 avatar: ''
 arcs:
   - arc: 1

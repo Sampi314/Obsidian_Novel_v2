@@ -4,6 +4,8 @@ name: Phong Lạc
 hantu: 楓落
 archetype: Thợ Săn
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thợ Săn
 avatar: ''
 arcs:
   - arc: 1

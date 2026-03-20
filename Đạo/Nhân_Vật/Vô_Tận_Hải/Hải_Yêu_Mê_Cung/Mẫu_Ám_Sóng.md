@@ -4,6 +4,8 @@ name: Mẫu Ám Sóng
 hantu: 母暗浪
 archetype: Mê Cung Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Mê Cung Sư
 avatar: ''
 arcs:
   - arc: 1

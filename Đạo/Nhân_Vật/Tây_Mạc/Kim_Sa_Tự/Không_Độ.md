@@ -4,6 +4,8 @@ name: Không Độ
 hantu: 空度
 archetype: Trụ Trì
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Trụ Trì
 avatar: ''
 arcs:
   - arc: 1

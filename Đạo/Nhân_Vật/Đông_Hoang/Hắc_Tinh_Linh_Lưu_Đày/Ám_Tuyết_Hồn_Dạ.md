@@ -4,6 +4,8 @@ name: Ám Tuyết Hồn Dạ
 hantu: 暗雪魂夜
 archetype: Băng Pháp Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Băng Pháp Sư
 avatar: ''
 arcs:
   - arc: 1

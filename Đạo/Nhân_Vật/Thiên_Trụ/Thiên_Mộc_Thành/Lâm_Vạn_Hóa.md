@@ -4,6 +4,8 @@ name: Lâm Vạn Hóa
 hantu: 林萬貨
 archetype: Thương Hội Chủ Tịch
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Thương Hội Chủ Tịch
 avatar: ''
 arcs:
   - arc: 1

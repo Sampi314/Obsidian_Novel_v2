@@ -4,6 +4,9 @@ name: San Lục Quang
 hantu: 珊綠光
 archetype: Y Sư
 race: Hải Tộc
+dao_tam: Lục Sinh
+origin: Tây Mạc
+faction_rank: Y Sư
 avatar: ''
 arcs:
   - arc: 1

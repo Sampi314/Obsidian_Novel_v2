@@ -4,6 +4,8 @@ name: Hồ Mị Cơ
 hantu: 狐媚姬
 archetype: Tông Chủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Tông Chủ
 avatar: ''
 arcs:
   - arc: 1

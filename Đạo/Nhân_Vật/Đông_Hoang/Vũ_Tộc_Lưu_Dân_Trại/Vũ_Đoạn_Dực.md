@@ -4,6 +4,8 @@ name: Vũ Đoạn Dực
 hantu: 羽斷翼
 archetype: Phó Trại Chủ
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Phó Trại Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Phương Vô Kỵ
 hantu: 方無忌
 archetype: Tán Tu
 race: Nhân Tộc
+dao_tam: Đạo bất đồng, ta dung hợp
+age: 35
 avatar: Phương_Vô_Kỵ.png
 arcs:
   - arc: 1

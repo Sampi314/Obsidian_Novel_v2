@@ -4,6 +4,8 @@ name: Thâm Uyên Nữ
 hantu: 深渊女
 archetype: Ma Sư
 race: Thủy Ma
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão Thi Ma Các
 avatar: ''
 arcs:
   - arc: 1

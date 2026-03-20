@@ -4,6 +4,19 @@ name: Tuyết Cô Hàn
 hantu: 雪孤寒
 archetype: Nữ Hiệp Đơn Độc
 race: Vi Tộc
+lingan: Băng Linh Căn đơn thuộc tính
+dao_tam: Tuyết rơi không chọn ai che, ta cũng vậy
+aliases:
+  - "Tuyết Trung Châm" (雪中針)"
+  - "ẩn mình trong tuyết"
+  - "không ai biết nàng ở đâu"
+  - "nàng đâm ra như mũi kim xuyên qua lớp tuyết"
+  - "nhanh"
+  - "chính xác"
+  - "và đau. Biết danh nhưng không biết mặt — đó là Tuyết Cô Hàn"
+origin: Bắc Băng
+age: 95
+faction_rank: Nữ hiệp đơn độc — lang thang bảo vệ kẻ yếu
 avatar: ''
 arcs:
   - arc: 1

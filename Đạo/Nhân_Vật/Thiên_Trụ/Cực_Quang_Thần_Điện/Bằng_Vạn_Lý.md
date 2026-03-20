@@ -4,6 +4,8 @@ name: Bằng Vạn Lý
 hantu: 鵬萬里
 archetype: Tiên Phong Tướng
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Tiên Phong Tướng
 avatar: ''
 arcs:
   - arc: 1

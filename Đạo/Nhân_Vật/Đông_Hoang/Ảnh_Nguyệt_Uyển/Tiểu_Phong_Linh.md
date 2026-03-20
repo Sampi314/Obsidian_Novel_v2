@@ -4,6 +4,8 @@ name: Tiểu Phong Linh
 hantu: 小風鈴
 archetype: Trinh Sát Viên
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát Viên
 avatar: ''
 arcs:
   - arc: 1

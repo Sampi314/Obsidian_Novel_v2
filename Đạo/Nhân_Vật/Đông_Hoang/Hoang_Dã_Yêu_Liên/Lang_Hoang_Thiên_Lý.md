@@ -4,6 +4,8 @@ name: Lang Hoang Thiên Lý
 hantu: 狼荒千里
 archetype: Chiến Binh
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Chiến Binh
 avatar: ''
 arcs:
   - arc: 1

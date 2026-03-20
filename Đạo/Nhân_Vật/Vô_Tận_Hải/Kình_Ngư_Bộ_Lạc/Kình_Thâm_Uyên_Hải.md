@@ -4,6 +4,8 @@ name: Kình Thâm Uyên Hải
 hantu: 鯨深淵海
 archetype: Thâm Hải Hướng Đạo
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Thâm Hải Hướng Đạo
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Phong Tiểu Lâm
 hantu: 楓小林
 archetype: Đệ Tử
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

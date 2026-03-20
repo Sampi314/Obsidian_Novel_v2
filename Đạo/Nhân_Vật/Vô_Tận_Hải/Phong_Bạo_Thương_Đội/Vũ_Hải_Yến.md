@@ -4,6 +4,9 @@ name: Vũ Hải Yến
 hantu: 武海燕
 archetype: Thuyền Viên
 race: Nhân Tộc
+dao_tam: Biển rộng bao la, ta chỉ cần đủ can đảm để đi hết
+origin: Vô Tận Hải
+faction_rank: Phó Thuyền Trưởng
 avatar: ''
 arcs:
   - arc: 1

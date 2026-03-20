@@ -4,6 +4,14 @@ name: Địa Tâm
 hantu: 地心
 archetype: Hành Giả Trưởng
 race: Cự Tộc
+lingan: Thổ Linh Căn Dị Biến (土灵根异变)
+dao_tam: Đại Địa Vi Mẫu, Ngã Vi Tử
+aliases:
+  - "Lão Khổng Lồ Đất (老土巨人"
+  - "Đại Địa Chi Phụ (大地之父 — "Cha Của Đại Địa"
+  - "các Hành Giả trong đoàn gọi kính cẩn dù ông luôn ngăn cản)"
+origin: Bắc Băng
+faction_rank: Hành Giả Trưởng (行者长)
 avatar: ''
 arcs:
   - arc: 1

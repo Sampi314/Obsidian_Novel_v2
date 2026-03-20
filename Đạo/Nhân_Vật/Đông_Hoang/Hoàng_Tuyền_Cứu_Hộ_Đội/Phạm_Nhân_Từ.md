@@ -4,6 +4,8 @@ name: Phạm Nhân Từ
 hantu: 范仁慈
 archetype: Cứu Hộ Viên
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Cứu Hộ Viên
 avatar: ''
 arcs:
   - arc: 1

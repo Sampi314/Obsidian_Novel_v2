@@ -4,6 +4,8 @@ name: Vũ Mao Nhi
 hantu: 羽毛兒
 archetype: Phường Chủ
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Phường Chủ
 avatar: ''
 arcs:
   - arc: 1

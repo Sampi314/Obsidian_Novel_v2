@@ -4,6 +4,8 @@ name: San Vân Hà
 hantu: 珊雲霞
 archetype: Đệ Tử
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

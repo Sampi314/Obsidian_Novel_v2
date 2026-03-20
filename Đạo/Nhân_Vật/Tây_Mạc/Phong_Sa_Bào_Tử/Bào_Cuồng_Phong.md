@@ -4,6 +4,11 @@ name: Bào Cuồng Phong
 hantu: 孢狂風
 archetype: Phong Bào Chủ
 race: Vi Tộc
+dao_tam: Bay là sống. Dừng là chờ. Chờ là tin
+aliases:
+  - "Bão Tâm" (暴心)"
+origin: Tây Mạc
+faction_rank: Phong Bào Chủ (風孢主) — cá thể lớn nhất và cổ xưa nhất
 avatar: ''
 arcs:
   - arc: 1

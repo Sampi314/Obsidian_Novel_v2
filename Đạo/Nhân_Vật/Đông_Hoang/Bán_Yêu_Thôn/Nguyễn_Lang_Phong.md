@@ -4,6 +4,11 @@ name: Nguyễn Lang Phong
 hantu: 阮狼風
 archetype: Thợ Săn Trưởng
 race: Bán Yêu
+aliases:
+  - "Cô Lang Dạ Sát (孤狼夜殺)"
+  - "thôn dân gọi thân mật là "Lang Ca"
+age: 95
+faction_rank: Thợ Săn Trưởng — phụ trách toàn bộ hoạt động săn bắn
 avatar: ''
 arcs:
   - arc: 1

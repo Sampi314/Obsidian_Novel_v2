@@ -4,6 +4,8 @@ name: Sa Thiên Lý Hành
 hantu: 鯊千里行
 archetype: Lính Đánh Thuê
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Lính Đánh Thuê
 avatar: ''
 arcs:
   - arc: 1

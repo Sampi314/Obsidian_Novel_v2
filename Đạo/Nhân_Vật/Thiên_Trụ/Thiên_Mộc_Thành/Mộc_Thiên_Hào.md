@@ -4,6 +4,8 @@ name: Mộc Thiên Hào
 hantu: 木天浩
 archetype: Thành Chủ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Thành Chủ
 avatar: ''
 arcs:
   - arc: 1

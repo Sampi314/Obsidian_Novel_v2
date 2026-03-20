@@ -4,6 +4,13 @@ name: Tằm Tuyết Lụa
 hantu: 蠶雪綢
 archetype: Nhuộm Sư
 race: Vi Tộc
+dao_tam: Màu sắc là linh hồn của vải. Vải không màu là vải chết
+aliases:
+  - "Sắc Sư" (色師)"
+  - "Bảy Màu" (七色)"
+origin: Bắc Băng — Hang Tằm Vạn Năm, Nhuộm Phòng (phòng nhuộm riêng biệt)
+age: 250
+faction_rank: Nhuộm Sư
 avatar: ''
 arcs:
   - arc: 1

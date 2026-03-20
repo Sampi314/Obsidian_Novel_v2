@@ -4,6 +4,12 @@ name: Trùng Tuyết Nha
 hantu: 蟲雪牙
 archetype: Xâm Nhập Viên
 race: Vi Tộc
+dao_tam: Cắn một lần, sâu đến tận gốc
+aliases:
+  - "Nha Nhỏ" (小牙)"
+  - "nha nhỏ thì cắn sâu"
+origin: Bắc Băng
+faction_rank: Xâm Nhập Viên (侵入员)
 avatar: ''
 arcs:
   - arc: 1

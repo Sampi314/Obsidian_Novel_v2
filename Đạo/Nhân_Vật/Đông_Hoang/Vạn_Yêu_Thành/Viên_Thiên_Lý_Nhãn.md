@@ -4,6 +4,8 @@ name: Viên Thiên Lý Nhãn
 hantu: 猿千里眼
 archetype: Canh Gác Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Canh Gác Trưởng
 avatar: ''
 arcs:
   - arc: 1

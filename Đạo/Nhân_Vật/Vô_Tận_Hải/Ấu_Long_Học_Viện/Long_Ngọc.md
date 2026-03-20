@@ -4,6 +4,8 @@ name: Long Ngọc
 hantu: 龙玉
 archetype: Học Viên
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Ấu Long Học Viên
 avatar: ''
 arcs:
   - arc: 1

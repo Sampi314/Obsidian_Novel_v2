@@ -4,6 +4,10 @@ name: Lão Sa
 hantu: 老沙
 archetype: Thợ Đào Giếng
 race: Cự Tộc
+aliases:
+  - "Bách Tuyền Lão Nhân (百泉老人)"
+origin: Tây Mạc — Hoàng Kim Sa Hải
+faction_rank: Thợ đào giếng lão luyện nhất lịch sử bộ lạc. Không chức vụ chính thức nhưng địa vị ngang Trưởng Lão — thậm chí Sa Cương cũng phải hỏi ý kiến lão trước mỗi quyết định lớn. Lão là ký ức sống của bộ lạc, người duy nhất còn nhớ được ba đời Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

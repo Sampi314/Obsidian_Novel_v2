@@ -4,6 +4,8 @@ name: Nguyễn Tiểu Quỷ
 hantu: 阮小鬼
 archetype: Thành Viên
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Thành Viên
 avatar: ''
 arcs:
   - arc: 1

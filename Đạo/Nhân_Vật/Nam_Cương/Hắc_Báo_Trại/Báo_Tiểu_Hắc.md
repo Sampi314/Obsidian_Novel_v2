@@ -4,6 +4,8 @@ name: Báo Tiểu Hắc
 hantu: 豹小黑
 archetype: Báo Con
 race: Yêu Tộc
+origin: Nam Cương
+faction_rank: Báo Con
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hạc Thanh Kiếm
 hantu: 鶴青劍
 archetype: Kiếm Sĩ
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Kiếm Sĩ
 avatar: ''
 arcs:
   - arc: 1

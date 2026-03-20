@@ -4,6 +4,9 @@ name: Huyết Ba
 hantu: 血波
 archetype: Ma Tu
 race: Thủy Ma
+dao_tam: Dĩ Huyết Hóa Ba
+origin: Vô Tận Hải
+faction_rank: Ngoại Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Kình Lão Ngư
 hantu: 鲸老渔
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão Hội Đồng
 avatar: ''
 arcs:
   - arc: 1

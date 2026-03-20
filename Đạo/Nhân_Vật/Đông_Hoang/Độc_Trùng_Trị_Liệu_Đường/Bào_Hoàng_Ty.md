@@ -4,6 +4,8 @@ name: Bào Hoàng Ty
 hantu: 胞黃絲
 archetype: Học Đồ
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Học Đồ
 avatar: ''
 arcs:
   - arc: 1

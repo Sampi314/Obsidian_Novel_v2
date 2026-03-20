@@ -4,6 +4,8 @@ name: Sương Vô Tình
 hantu: 霜无情
 archetype: Cốc Chủ
 race: Băng Tộc
+origin: Bắc Băng
+faction_rank: Sương Ma Cốc Chủ
 avatar: ''
 arcs:
   - arc: 1

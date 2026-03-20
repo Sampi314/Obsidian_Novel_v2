@@ -4,6 +4,8 @@ name: Khuẩn Dạ Thực
 hantu: 菌夜食
 archetype: Dạ Hành Viên
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Dạ Hành Viên
 avatar: ''
 arcs:
   - arc: 1

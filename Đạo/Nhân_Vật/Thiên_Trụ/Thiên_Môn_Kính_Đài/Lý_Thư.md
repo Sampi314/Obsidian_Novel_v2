@@ -4,6 +4,8 @@ name: Lý Thư
 hantu: 李書
 archetype: Sử Quan
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Sử Quan
 avatar: ''
 arcs:
   - arc: 1

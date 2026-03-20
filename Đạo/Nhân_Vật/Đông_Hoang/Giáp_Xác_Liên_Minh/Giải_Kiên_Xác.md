@@ -4,6 +4,8 @@ name: Giải Kiên Xác
 hantu: 蟹堅殼
 archetype: Chiến Binh
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Chiến Binh
 avatar: ''
 arcs:
   - arc: 1

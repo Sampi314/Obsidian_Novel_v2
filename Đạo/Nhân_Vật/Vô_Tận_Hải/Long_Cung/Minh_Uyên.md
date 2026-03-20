@@ -4,6 +4,16 @@ name: Minh Uyên
 hantu: 冥淵
 archetype: Tây Hải Long Vương
 race: Long Tộc
+dao_tam: Thâm uyên bất khả trắc, nhân tâm bất khả lượng
+aliases:
+  - "Thâm Uyên Nữ Vương" (深渊女王)"
+  - "vì mỗi lần đàm phán với Minh Uyên đều giống như nhìn xuống vực sâu"
+  - "và khi nhận ra mình đã rơi thì đã quá muộn. Trong Long Cung"
+  - "nàng còn được gọi là "Nguyệt Diện Long Nữ" (月面龙女)"
+  - "đẹp đẽ và sáng sủa"
+  - "nhưng không ai biết mặt sau trăng trông ra sao"
+origin: Vô Tận Hải
+faction_rank: Tây Hải Long Vương (西海龙王)
 avatar: ''
 arcs:
   - arc: 1

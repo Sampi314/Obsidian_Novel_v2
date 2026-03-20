@@ -4,6 +4,11 @@ name: Thạch Hỏa Long
 hantu: 石火龍
 archetype: Đệ Nhất Hỏa Sư
 race: Thạch Tộc
+aliases:
+  - "Hỏa Long" (火龍)"
+  - "vì tính cách nóng nảy và chuyên môn hỏa thuật"
+origin: Thiên Trụ
+faction_rank: Đệ Nhất Hỏa Sư — đứng đầu Thập Nhị Hỏa Viện
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,15 @@ name: Lãnh Vô Tâm
 hantu: 冷无心
 archetype: Sát Thủ
 race: Nhân Tộc
+lingan: Băng Linh Căn đơn hệ
+dao_tam: Ta không cần lý do để sống. Ta chỉ cần lý do để không chết
+aliases:
+  - "U Linh" (幽灵)"
+  - "vì y luôn xuất hiện và biến mất như bóng ma"
+  - "không kịp kêu một tiếng"
+origin: Bắc Băng
+age: 65
+faction_rank: Ám Sát Thủ (暗杀手)
 avatar: ''
 arcs:
   - arc: 1

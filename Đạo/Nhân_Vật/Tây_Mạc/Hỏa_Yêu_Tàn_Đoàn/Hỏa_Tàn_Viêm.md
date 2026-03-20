@@ -4,6 +4,8 @@ name: Hỏa Tàn Viêm
 hantu: 火殘炎
 archetype: Đoàn Trưởng
 race: Yêu Tộc
+origin: Tây Mạc
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

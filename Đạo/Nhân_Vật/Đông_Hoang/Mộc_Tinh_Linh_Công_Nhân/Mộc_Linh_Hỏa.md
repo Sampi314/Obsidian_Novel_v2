@@ -4,6 +4,8 @@ name: Mộc Linh Hỏa
 hantu: 木靈火
 archetype: Thợ Rèn
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thợ Rèn
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Thiết Giáp Vương
 hantu: 铁甲王
 archetype: Đàn Chủ
 race: Yêu Tộc (Trùng)
+origin: Tây Mạc
+faction_rank: Đàn Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Triều Tiểu Ca
 hantu: 潮小歌
 archetype: Sứ Giả
 race: Hải Tộc (Giao Nhân)
+origin: Vô Tận Hải
+faction_rank: Sứ Giả Giao Thương
 avatar: ''
 arcs:
   - arc: 1

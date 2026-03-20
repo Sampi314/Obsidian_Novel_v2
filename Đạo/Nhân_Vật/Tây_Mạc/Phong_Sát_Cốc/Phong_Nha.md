@@ -4,6 +4,8 @@ name: Phong Nha
 hantu: 风牙
 archetype: Trưởng Lão
 race: Yêu Tộc
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

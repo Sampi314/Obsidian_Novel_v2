@@ -4,6 +4,8 @@ name: Kình Phá Lãng
 hantu: 鯨破浪
 archetype: Đệ Tam Hải Tặc Vương
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Tam Hải Tặc Vương
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Bạch Thi Nương
 hantu: 白尸娘
 archetype: Đường Chủ
 race: Ma Tộc
+dao_tam: Dĩ Tử Dưỡng Sinh
+origin: Bắc Băng
+faction_rank: Đường Chủ Băng Thi Đội
 avatar: ''
 arcs:
   - arc: 1

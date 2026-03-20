@@ -4,6 +4,8 @@ name: Phạm Thương Đạo
 hantu: 范商道
 archetype: Tổng Quản Vận Tải
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Tổng Quản Vận Tải
 avatar: ''
 arcs:
   - arc: 1

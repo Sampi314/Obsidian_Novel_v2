@@ -4,6 +4,8 @@ name: Linh Vũ
 hantu: 靈羽
 archetype: Triệu Linh Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Triệu Linh Sư
 avatar: ''
 arcs:
   - arc: 1

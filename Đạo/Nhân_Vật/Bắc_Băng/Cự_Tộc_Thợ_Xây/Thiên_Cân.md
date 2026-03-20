@@ -4,6 +4,16 @@ name: Thiên Cân
 hantu: 千斤
 archetype: Thợ Xây
 race: Cự Tộc
+lingan: Thổ Linh Căn Đơn Hệ (土灵根)
+dao_tam: "Giằng Xé — \"Chiến Hay Trúc?"
+aliases:
+  - "Thạch Đầu" (石頭"
+  - "nói gì cũng không nghe"
+  - "Chiến Sĩ Xây Nhà" (建屋戰士) — Vạn Quân gọi mỉa"
+  - "vì y cứ đòi đánh trong khi xây giỏi hơn đánh gấp mười lần"
+origin: Bắc Băng — theo Vạn Quân đi khắp các công trường
+age: 120
+faction_rank: Thợ Xây (建築手) — thợ xây chính trong Cự Tộc Thợ Xây
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Xích Liệt Hỏa
 hantu: 赤烈火
 archetype: Hỏa Long Chiến Tướng
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Hỏa Long Chiến Tướng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lang Bạch Sương
 hantu: 狼白霜
 archetype: Y Sư
 race: Yêu Tộc
+origin: Bắc Băng
+faction_rank: Y Sư
 avatar: ''
 arcs:
   - arc: 1

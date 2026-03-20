@@ -4,6 +4,8 @@ name: Hắc Triều
 hantu: 黑潮
 archetype: Thống Lĩnh
 race: Hải Tộc (Biến Dị)
+origin: Vô Tận Hải
+faction_rank: Thống Lĩnh Thâm Hải Ma Quân
 avatar: ''
 arcs:
   - arc: 1

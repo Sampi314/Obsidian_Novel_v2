@@ -4,6 +4,8 @@ name: Phong Tàn Nhẫn
 hantu: 风残忍
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

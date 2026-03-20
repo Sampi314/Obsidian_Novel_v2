@@ -4,6 +4,8 @@ name: Phượng Xích
 hantu: 鳳赤
 archetype: Tộc Trưởng
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hải Tiểu Loa
 hantu: 海小螺
 archetype: Nghệ Nhân
 race: Hải Tộc (Tiên Cá)
+origin: Vô Tận Hải
+faction_rank: Nghệ Nhân Điêu Khắc San Hô
 avatar: ''
 arcs:
   - arc: 1

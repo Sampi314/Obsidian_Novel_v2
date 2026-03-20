@@ -4,6 +4,8 @@ name: Nham Lưu
 hantu: 岩流
 archetype: Tộc Trưởng
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

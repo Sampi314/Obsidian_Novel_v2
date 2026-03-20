@@ -4,6 +4,8 @@ name: Giao Phong Lãng Hải
 hantu: 鲛風浪海
 archetype: Lưu Vong Chiến Sĩ
 race: Hải Tộc
+origin: Nam Cương
+faction_rank: Lưu Vong Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

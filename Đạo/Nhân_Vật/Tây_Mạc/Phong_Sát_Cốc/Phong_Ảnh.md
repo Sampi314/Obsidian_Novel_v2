@@ -4,6 +4,8 @@ name: Phong Ảnh
 hantu: 风影
 archetype: Đội Trưởng Ảnh Phong
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Đội Trưởng Ảnh Phong
 avatar: ''
 arcs:
   - arc: 1

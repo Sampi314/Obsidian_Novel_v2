@@ -4,6 +4,8 @@ name: Lý Thiết Nha
 hantu: 李鐵牙
 archetype: Quản Sự (Sói Đầu Đàn)
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Quản Sự (Sói Đầu Đàn)
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Mộc Nham
 hantu: 木岩
 archetype: Thợ Mỏ
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thợ Mỏ
 avatar: ''
 arcs:
   - arc: 1

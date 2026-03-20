@@ -4,6 +4,12 @@ name: Thạch Lực
 hantu: 石力
 archetype: Phường Trưởng
 race: Cự Tộc
+dao_tam: Phụ Trọng Đạo
+aliases:
+  - "Trầm Thạch Phường Trưởng (沉石坊長)"
+  - "Gã Cự Nhân Cúi Đầu (俯首巨人)"
+origin: Đông Hoang — ngoại ô các thành thị nhân tộc
+faction_rank: Phường Trưởng Cự Tộc Thợ Xây
 avatar: ''
 arcs:
   - arc: 1

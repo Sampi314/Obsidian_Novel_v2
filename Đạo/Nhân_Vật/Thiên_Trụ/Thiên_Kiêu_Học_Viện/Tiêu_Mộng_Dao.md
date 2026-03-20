@@ -4,6 +4,8 @@ name: Tiêu Mộng Dao
 hantu: 蕭夢遥
 archetype: Nữ Sinh Viên
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Nữ Sinh Viên
 avatar: ''
 arcs:
   - arc: 1

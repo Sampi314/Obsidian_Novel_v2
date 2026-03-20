@@ -4,6 +4,14 @@ name: Ưng Liệt Phong
 hantu: 鷹烈風
 archetype: Chiến Tướng
 race: Vũ Tộc
+lingan: Song linh căn
+dao_tam: Gió mạnh không ngả, ưng mãnh không lui
+aliases:
+  - "Cuồng Ưng" (狂鷹)"
+  - "mỗi nhát vỗ cánh của hắn như cơn bão xé nát đội hình kẻ thù"
+origin: Thiên Trụ — Bắc Băng
+age: 178
+faction_rank: Chiến Tướng (戰將)
 avatar: ''
 arcs:
   - arc: 1

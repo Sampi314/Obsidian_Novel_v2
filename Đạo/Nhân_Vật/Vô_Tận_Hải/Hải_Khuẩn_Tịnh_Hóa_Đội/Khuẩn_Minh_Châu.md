@@ -4,6 +4,8 @@ name: Khuẩn Minh Châu
 hantu: 菌明珠
 archetype: Trưởng Lão Phát Quang
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão Phát Quang
 avatar: ''
 arcs:
   - arc: 1

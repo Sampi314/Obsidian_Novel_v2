@@ -4,6 +4,8 @@ name: Nấm Cộng Sinh Thiên
 hantu: 菌共生天
 archetype: Cộng Sinh Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Cộng Sinh Sư
 avatar: ''
 arcs:
   - arc: 1

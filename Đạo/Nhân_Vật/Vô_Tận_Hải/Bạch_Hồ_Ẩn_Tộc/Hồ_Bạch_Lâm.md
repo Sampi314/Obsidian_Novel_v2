@@ -4,6 +4,8 @@ name: Hồ Bạch Lâm
 hantu: 狐白林
 archetype: Chiến Sĩ
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

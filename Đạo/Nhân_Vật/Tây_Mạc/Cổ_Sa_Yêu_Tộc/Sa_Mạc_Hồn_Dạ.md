@@ -4,6 +4,11 @@ name: Sa Mạc Hồn Dạ
 hantu: 沙漠魂夜
 archetype: Trinh Sát
 race: Yêu Tộc
+aliases:
+  - "Bóng Cát" (沙影)"
+  - "Mắt Đêm" (夜目)"
+origin: Tây Mạc — hoạt động chính trên bề mặt Hoàng Kim Sa Hải, sống trong hang cổ đại
+faction_rank: Thám Tử Trưởng (探子長) — chỉ huy Đội Thám Tử gồm năm Sa Yêu
 avatar: ''
 arcs:
   - arc: 1

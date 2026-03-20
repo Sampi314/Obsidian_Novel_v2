@@ -4,6 +4,13 @@ name: Thiện Nhẫn
 hantu: 善忍
 archetype: Trưởng Lão Đạt Ma
 race: Nhân Tộc
+dao_tam: Bách Nhẫn Thành Kim
+aliases:
+  - "Thiết Tăng (鐵僧 — "Nhà Sư Sắt")"
+  - "Nhẫn Vương (忍王 — "Vua Nhẫn Nại")"
+origin: Tây Mạc — Kim Sa Nguyên
+age: 120
+faction_rank: Trưởng Lão Đạt Ma (达摩长老)
 avatar: ''
 arcs:
   - arc: 1

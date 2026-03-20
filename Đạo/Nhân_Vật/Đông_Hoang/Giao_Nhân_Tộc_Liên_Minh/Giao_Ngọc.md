@@ -4,6 +4,8 @@ name: Giao Ngọc
 hantu: 鲛玉
 archetype: Kho Báu Thủ
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Kho Báu Thủ
 avatar: ''
 arcs:
   - arc: 1

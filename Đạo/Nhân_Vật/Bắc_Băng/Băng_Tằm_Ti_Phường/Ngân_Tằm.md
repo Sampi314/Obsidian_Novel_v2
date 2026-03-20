@@ -4,6 +4,13 @@ name: Ngân Tằm
 hantu: 銀蠶
 archetype: Trưởng Lão
 race: Trùng Tộc
+dao_tam: Tơ bạc dệt giáp, không dệt áo
+aliases:
+  - "Bạc Giáp Lão Trùng" (銀甲老蟲)"
+  - "Lão Ngân" (老銀)"
+origin: Bắc Băng — Hang Tằm Vạn Năm, khu Ngân Động (hang bạc riêng biệt)
+age: 2
+faction_rank: Trưởng Lão — cố vấn quân sự tối cao
 avatar: ''
 arcs:
   - arc: 1

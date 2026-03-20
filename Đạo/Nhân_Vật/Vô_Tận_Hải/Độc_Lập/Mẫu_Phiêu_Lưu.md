@@ -4,6 +4,8 @@ name: Mẫu Phiêu Lưu
 hantu: 母漂流
 archetype: Sứa Lang Thang
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Sứa Lang Thang
 avatar: ''
 arcs:
   - arc: 1

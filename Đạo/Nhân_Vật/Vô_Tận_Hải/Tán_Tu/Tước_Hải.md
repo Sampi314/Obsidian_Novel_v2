@@ -4,6 +4,8 @@ name: Tước Hải
 hantu: 雀海
 archetype: Nông Dân
 race: Vũ Tộc
+origin: Vô Tận Hải
+faction_rank: Nông Dân
 avatar: ''
 arcs:
   - arc: 1

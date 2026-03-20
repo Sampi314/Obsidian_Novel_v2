@@ -4,6 +4,8 @@ name: Phạm Dân Chủ
 hantu: 范民主
 archetype: Hội Trưởng
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

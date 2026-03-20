@@ -4,6 +4,9 @@ name: Bào Tịnh Hóa
 hantu: 孢淨化
 archetype: Tịnh Hóa Sư
 race: Vi Tộc
+dao_tam: Ngã Thân Tức Lư
+origin: Đông Hoang
+faction_rank: Tịnh Hóa Sư
 avatar: ''
 arcs:
   - arc: 1

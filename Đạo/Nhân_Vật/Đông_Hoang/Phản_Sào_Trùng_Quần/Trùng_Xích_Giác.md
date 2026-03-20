@@ -4,6 +4,8 @@ name: Trùng Xích Giác
 hantu: 蟲赤角
 archetype: Trùng Trưởng
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Trùng Trưởng
 avatar: ''
 arcs:
   - arc: 1

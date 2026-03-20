@@ -4,6 +4,10 @@ name: Đan Dương Tử
 hantu: 丹陽子
 archetype: Đan Sư
 race: Nhân Tộc
+lingan: Hỏa Linh Căn (Thiên Linh Căn - Thuần Dương Chi Hỏa)
+dao_tam: Dùng lửa tôi luyện vạn vật, dùng đan dược cứu vớt
+age: 1250
+faction_rank: - Cốc Chủ Đan Hà Cốc (Đời thứ 15)
 avatar: Đan_Dương_Tử.png
 arcs:
   - arc: 1

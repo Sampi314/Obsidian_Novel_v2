@@ -4,6 +4,13 @@ name: Tằm Ngân Ti
 hantu: 蠶銀絲
 archetype: Kỹ Sư Bẫy
 race: Vi Tộc
+dao_tam: Lưới giăng khắp nơi, nhưng kẻ bẫy ở một mình
+aliases:
+  - "Lưới Vô Hình" (無形網)"
+  - "Nhện Tằm" (蛛蠶)"
+origin: Bắc Băng — Hang Tằm Vạn Năm, nhưng phần lớn thời gian ở ngoài hang tuần tra
+age: 500
+faction_rank: Kỹ Sư Bẫy — thiết kế
 avatar: ''
 arcs:
   - arc: 1

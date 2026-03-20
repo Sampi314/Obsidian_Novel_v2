@@ -4,6 +4,9 @@ name: Khắc Minh
 hantu: 刻明
 archetype: Viện Chủ
 race: Nhân Tộc
+dao_tam: Một nét khắc sai — vạn mạng tan
+origin: Thiên Trụ
+faction_rank: Viện Chủ
 avatar: ''
 arcs:
   - arc: 1

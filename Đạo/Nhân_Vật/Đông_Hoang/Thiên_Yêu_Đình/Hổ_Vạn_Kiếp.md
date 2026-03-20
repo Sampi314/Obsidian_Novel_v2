@@ -4,6 +4,8 @@ name: Hổ Vạn Kiếp
 hantu: 虎萬劫
 archetype: Yêu Đế
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Yêu Đế
 avatar: ''
 arcs:
   - arc: 1

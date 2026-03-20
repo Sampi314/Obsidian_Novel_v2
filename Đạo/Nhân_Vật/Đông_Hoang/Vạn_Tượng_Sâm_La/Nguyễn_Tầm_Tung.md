@@ -4,6 +4,8 @@ name: Nguyễn Tầm Tung
 hantu: 阮尋蹤
 archetype: Truy Tìm Chuyên Gia
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Truy Tìm Chuyên Gia
 avatar: ''
 arcs:
   - arc: 1

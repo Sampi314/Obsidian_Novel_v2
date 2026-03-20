@@ -4,6 +4,8 @@ name: Huệ Minh
 hantu: 慧明
 archetype: Thủ Các Kinh Diệu
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Thủ Các Kinh Diệu
 avatar: ''
 arcs:
   - arc: 1

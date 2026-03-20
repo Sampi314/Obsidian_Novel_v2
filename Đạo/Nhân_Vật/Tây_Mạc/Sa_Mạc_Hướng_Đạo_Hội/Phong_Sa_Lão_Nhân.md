@@ -4,6 +4,8 @@ name: Phong Sa Lão Nhân
 hantu: 风沙老人
 archetype: Hội Trưởng
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Hội Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Sa Bạch Cốt
 hantu: 鯊白骨
 archetype: Đệ Tứ Hải Tặc Vương
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Tứ Hải Tặc Vương
 avatar: ''
 arcs:
   - arc: 1

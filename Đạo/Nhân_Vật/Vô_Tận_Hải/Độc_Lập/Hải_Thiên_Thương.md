@@ -4,6 +4,8 @@ name: Hải Thiên Thương
 hantu: 海天商
 archetype: Đại Thương Nhân
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đại Thương Nhân
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trùng Bọ Ngựa
 hantu: 蟲螳螂
 archetype: Trùng Tướng
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Trùng Tướng
 avatar: ''
 arcs:
   - arc: 1

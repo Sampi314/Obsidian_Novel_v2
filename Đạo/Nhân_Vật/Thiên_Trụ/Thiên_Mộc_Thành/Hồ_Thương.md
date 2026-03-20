@@ -4,6 +4,8 @@ name: Hồ Thương
 hantu: 胡商
 archetype: Thương Nhân
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Thương Nhân
 avatar: ''
 arcs:
   - arc: 1

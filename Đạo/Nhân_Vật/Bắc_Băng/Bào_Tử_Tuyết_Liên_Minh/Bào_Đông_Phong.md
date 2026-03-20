@@ -4,6 +4,13 @@ name: Bào Đông Phong
 hantu: 孢冬風
 archetype: Hàn Phong Sứ
 race: Vi Tộc
+dao_tam: Gió không bao giờ ngừng thổi. Ta không bao giờ ngừng nói
+aliases:
+  - "Gió Biết Nói" (會言風)"
+  - "gió lạnh thổi qua sẽ mang theo những âm thanh kỳ lạ như tiếng nói"
+  - "Sứ Gió" (風使)"
+age: 1
+faction_rank: Hàn Phong Sứ (寒風使)
 avatar: ''
 arcs:
   - arc: 1

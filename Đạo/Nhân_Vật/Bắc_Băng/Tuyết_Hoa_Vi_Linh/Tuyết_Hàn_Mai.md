@@ -4,6 +4,8 @@ name: Tuyết Hàn Mai
 hantu: 雪寒梅
 archetype: Trưởng Lão Y Thuật
 race: Vi Tộc
+origin: Bắc Băng
+faction_rank: Trưởng Lão Y Thuật — y sư chính của quần thể
 avatar: ''
 arcs:
   - arc: 1

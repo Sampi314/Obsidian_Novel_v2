@@ -4,6 +4,9 @@ name: Khuẩn Thiên Cơ
 hantu: 菌天機
 archetype: Tiên Tri Sư
 race: Vi Tộc
+dao_tam: Thiên Cơ Bất Khả Lộ
+origin: Trung Tâm
+faction_rank: Tiên Tri Sư
 avatar: ''
 arcs:
   - arc: 1

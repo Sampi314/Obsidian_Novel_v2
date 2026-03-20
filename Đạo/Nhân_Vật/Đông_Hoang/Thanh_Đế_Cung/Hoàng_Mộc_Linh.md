@@ -4,6 +4,8 @@ name: Hoàng Mộc Linh
 hantu: 黃木靈
 archetype: Trưởng Lão Dược Tiên Viện
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Dược Tiên Viện
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Trùng Liệt Nhật
 hantu: 蟲烈日
 archetype: Chiến Binh Cát
 race: Vi Tộc
+dao_tam: Liệt Hỏa Thiêu Sa
+origin: Tây Mạc
+faction_rank: Chiến Binh Cát
 avatar: ''
 arcs:
   - arc: 1

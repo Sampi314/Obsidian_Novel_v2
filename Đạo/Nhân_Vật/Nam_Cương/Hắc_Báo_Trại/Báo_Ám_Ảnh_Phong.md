@@ -4,6 +4,8 @@ name: Báo Ám Ảnh Phong
 hantu: 豹暗影風
 archetype: Sát Thủ
 race: Yêu Tộc
+origin: Nam Cương
+faction_rank: Sát Thủ
 avatar: ''
 arcs:
   - arc: 1

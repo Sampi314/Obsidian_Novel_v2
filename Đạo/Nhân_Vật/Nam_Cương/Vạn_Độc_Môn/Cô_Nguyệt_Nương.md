@@ -4,6 +4,8 @@ name: Cô Nguyệt Nương
 hantu: 蛊月娘
 archetype: Cổ Độc Sư
 race: Trùng Tộc
+origin: Nam Cương
+faction_rank: Cổ Độc Sư
 avatar: ''
 arcs:
   - arc: 1

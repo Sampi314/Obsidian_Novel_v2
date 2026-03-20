@@ -4,6 +4,8 @@ name: Thiết Trùng
 hantu: 鐵蟲
 archetype: Sơn Trùng Thủ Vệ
 race: Trùng Tộc
+origin: Thiên Trụ
+faction_rank: Sơn Trùng Thủ Vệ
 avatar: ''
 arcs:
   - arc: 1

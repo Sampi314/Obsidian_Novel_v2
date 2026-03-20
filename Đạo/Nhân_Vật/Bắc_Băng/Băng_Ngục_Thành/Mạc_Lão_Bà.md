@@ -4,6 +4,15 @@ name: Mạc Lão Bà
 hantu: 莫老婆
 archetype: Tù Nhân Cổ
 race: Nhân Tộc
+lingan: Không xác định
+dao_tam: Vong Ức Bất Vong
+aliases:
+  - "Lão Bà Tầng Bốn" (四层老婆) — cách gọi phổ biến"
+  - "Bà Tiên Tri Mù" (盲先知)"
+  - "Cổ Nhân" (古人)"
+  - "chỉ có hắn biết bà đã ở đây lâu hơn mọi thứ khác trong Băng Ngục Thành"
+origin: Bắc Băng
+faction_rank: Tù Nhân Tầng Bốn — không có chức vụ chính thức
 avatar: ''
 arcs:
   - arc: 1

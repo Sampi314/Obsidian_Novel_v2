@@ -4,6 +4,8 @@ name: Linh Hạ Vũ
 hantu: 靈夏雨
 archetype: Cầu Vũ Sư
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Cầu Vũ Sư
 avatar: ''
 arcs:
   - arc: 1

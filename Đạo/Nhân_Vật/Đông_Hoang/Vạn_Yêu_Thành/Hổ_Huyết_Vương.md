@@ -4,6 +4,8 @@ name: Hổ Huyết Vương
 hantu: 虎血王
 archetype: Đấu Trường Chủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Đấu Trường Chủ
 avatar: ''
 arcs:
   - arc: 1

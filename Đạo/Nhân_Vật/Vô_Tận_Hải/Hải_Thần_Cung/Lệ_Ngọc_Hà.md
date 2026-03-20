@@ -4,6 +4,12 @@ name: Lệ Ngọc Hà
 hantu: 麗玉霞
 archetype: Hải Hậu
 race: Hải Tộc
+dao_tam: Nhu Thủy Hóa Cương, Từ Bi Trấn Thế
+aliases:
+  - "Ngọc Hà Thánh Mẫu (玉霞聖母"
+  - "Hải Dương Từ Hậu (海洋慈后"
+origin: Vô Tận Hải — Thủy Tinh Cung, Ngọc Hà Các (cung riêng của Hải Hậu)
+faction_rank: Hải Hậu (海后) — người đứng đầu hậu cung Thủy Tinh Cung
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Vương Lương
 hantu: 王良
 archetype: Nông Trưởng
 race: Nhân Tộc
+dao_tam: Dưỡng Sinh
+origin: Thiên Trụ
+faction_rank: Nông Trưởng
 avatar: ''
 arcs:
   - arc: 1

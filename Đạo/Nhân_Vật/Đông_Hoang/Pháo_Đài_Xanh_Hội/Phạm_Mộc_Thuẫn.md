@@ -4,6 +4,8 @@ name: Phạm Mộc Thuẫn
 hantu: 范木盾
 archetype: Kỵ Sĩ Trưởng Khiên Xanh Đội
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Kỵ Sĩ Trưởng Khiên Xanh Đội
 avatar: ''
 arcs:
   - arc: 1

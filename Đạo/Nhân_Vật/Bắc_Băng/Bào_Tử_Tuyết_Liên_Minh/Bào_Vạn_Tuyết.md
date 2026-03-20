@@ -4,6 +4,12 @@ name: Bào Vạn Tuyết
 hantu: 孢萬雪
 archetype: Liên Minh Chủ
 race: Vi Tộc
+dao_tam: Cái chết nuôi dưỡng sự sống. Ta là vòng luân hồi của tuyết
+aliases:
+  - "Tuyết Đế" (雪帝)"
+  - "Vạn Tuyết Nhất Thể" (萬雪一體)"
+  - "ám chỉ mỗi bông tuyết trên Bắc Băng đều là một phần thân thể của hắn"
+faction_rank: Liên Minh Chủ (联盟主)
 avatar: ''
 arcs:
   - arc: 1

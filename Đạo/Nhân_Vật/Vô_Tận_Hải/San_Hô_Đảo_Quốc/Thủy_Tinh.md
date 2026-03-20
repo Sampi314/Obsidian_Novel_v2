@@ -4,6 +4,8 @@ name: Thủy Tinh
 hantu: 水晶
 archetype: Nữ Vương
 race: Hải Tộc (Nhân Ngư)
+origin: Vô Tận Hải
+faction_rank: Nữ Vương
 avatar: ''
 arcs:
   - arc: 1

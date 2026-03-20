@@ -4,6 +4,8 @@ name: Ngọc Thiết Lôi
 hantu: 玉鐵雷
 archetype: Thợ Rèn
 race: Cự Tộc
+origin: Nam Cương
+faction_rank: Thợ Rèn
 avatar: ''
 arcs:
   - arc: 1

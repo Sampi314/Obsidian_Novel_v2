@@ -4,6 +4,10 @@ name: Xà Bạch Linh
 hantu: 蛇白灵
 archetype: Bạch Xà
 race: Yêu Tộc (Xà Tộc)
+aliases:
+  - "Không có"
+origin: Vô Tận Hải — hang sâu nhất trong lãnh thổ Lục Mãng Hạ Tộc
+faction_rank: Bí mật tối cao của Lục Mãng Hạ Tộc. Bạch xà huyết thống thuần khiết — loại đột biến cực hiếm, có thể tiến hóa thành Giao Long nếu đủ cơ duyên. Nếu Lục Mãng Vương biết, hoặc nuốt huyết mạch để tự cường, hoặc ép nó giao phối để truyền huyết thống. Cả hai đều là bản án tử đối với tự do của nó
 avatar: ''
 arcs:
   - arc: 1

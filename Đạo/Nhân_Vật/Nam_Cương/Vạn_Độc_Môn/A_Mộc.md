@@ -4,6 +4,8 @@ name: A Mộc
 hantu: 阿木
 archetype: Chân Truyền Đệ Tử
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Chân Truyền Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

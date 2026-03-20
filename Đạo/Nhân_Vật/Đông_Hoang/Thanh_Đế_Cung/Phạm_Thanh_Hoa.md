@@ -4,6 +4,8 @@ name: Phạm Thanh Hoa
 hantu: 范青花
 archetype: Hộ Pháp
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Linh Hương
 hantu: 靈香
 archetype: Tế Tư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Tế Tư
 avatar: ''
 arcs:
   - arc: 1

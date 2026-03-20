@@ -4,6 +4,8 @@ name: Bào Thiên Tán Hoa
 hantu: 孢千傘花
 archetype: Tân Sinh
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Tân Sinh
 avatar: ''
 arcs:
   - arc: 1

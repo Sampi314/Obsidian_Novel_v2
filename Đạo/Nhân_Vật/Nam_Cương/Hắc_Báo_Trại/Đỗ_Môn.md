@@ -4,6 +4,8 @@ name: Đỗ Môn
 hantu: 杜門
 archetype: Trại Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Trại Chủ
 avatar: ''
 arcs:
   - arc: 1

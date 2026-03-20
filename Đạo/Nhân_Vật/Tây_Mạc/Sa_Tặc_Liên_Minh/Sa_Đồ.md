@@ -4,6 +4,8 @@ name: Sa Đồ
 hantu: 沙屠
 archetype: Sát Thủ
 race: Sa Tộc
+origin: Tây Mạc
+faction_rank: Sát Thủ
 avatar: ''
 arcs:
   - arc: 1

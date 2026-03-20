@@ -4,6 +4,8 @@ name: Giao Thanh Ba
 hantu: 鲛清波
 archetype: Trinh Sát Trưởng
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát Trưởng
 avatar: ''
 arcs:
   - arc: 1

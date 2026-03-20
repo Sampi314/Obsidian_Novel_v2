@@ -4,6 +4,8 @@ name: Nấm Thâm Căn
 hantu: 菌深根
 archetype: Thâm Thổ Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Thâm Thổ Sư
 avatar: ''
 arcs:
   - arc: 1

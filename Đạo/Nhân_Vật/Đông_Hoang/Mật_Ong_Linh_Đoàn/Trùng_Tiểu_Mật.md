@@ -4,6 +4,8 @@ name: Trùng Tiểu Mật
 hantu: 蟲小蜜
 archetype: Ong Lính
 race: Trùng Tộc
+origin: Đông Hoang
+faction_rank: Ong Lính
 avatar: ''
 arcs:
   - arc: 1

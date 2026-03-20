@@ -4,6 +4,8 @@ name: Hổ Hàn Phong
 hantu: 虎寒風
 archetype: Băng Hổ Bộ Lạc Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Băng Hổ Bộ Lạc Trưởng
 avatar: ''
 arcs:
   - arc: 1

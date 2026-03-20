@@ -4,6 +4,8 @@ name: Trư Thiết Nha Vương
 hantu: 猪鐵牙王
 archetype: Dã Trư Bộ Lạc Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Dã Trư Bộ Lạc Trưởng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Hàn Độc Cốt
 hantu: 寒毒骨
 archetype: Ma Tu
 race: Băng Tộc
+dao_tam: Vạn Vật Giai Độc
+origin: Bắc Băng
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

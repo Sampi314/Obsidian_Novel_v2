@@ -4,6 +4,8 @@ name: Oanh Nam Ca
 hantu: 鶯南歌
 archetype: Ca Sĩ
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Ca Sĩ
 avatar: ''
 arcs:
   - arc: 1

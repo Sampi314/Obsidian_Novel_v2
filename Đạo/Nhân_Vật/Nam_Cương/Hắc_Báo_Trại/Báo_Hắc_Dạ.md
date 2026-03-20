@@ -4,6 +4,8 @@ name: Báo Hắc Dạ
 hantu: 豹黑夜
 archetype: Báo Vương
 race: Yêu Tộc
+origin: Nam Cương
+faction_rank: Báo Vương
 avatar: ''
 arcs:
   - arc: 1

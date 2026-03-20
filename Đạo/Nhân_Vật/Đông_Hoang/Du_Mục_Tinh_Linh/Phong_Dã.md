@@ -4,6 +4,8 @@ name: Phong Dã
 hantu: 楓野
 archetype: Trinh Sát
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Xà Độc Vương
 hantu: 蛇毒王
 archetype: Thánh Tướng Thứ Bảy
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thánh Tướng Thứ Bảy
 avatar: ''
 arcs:
   - arc: 1

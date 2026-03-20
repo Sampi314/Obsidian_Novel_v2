@@ -4,6 +4,8 @@ name: Lý Bạch Cứu
 hantu: 李白救
 archetype: Đội Trưởng
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

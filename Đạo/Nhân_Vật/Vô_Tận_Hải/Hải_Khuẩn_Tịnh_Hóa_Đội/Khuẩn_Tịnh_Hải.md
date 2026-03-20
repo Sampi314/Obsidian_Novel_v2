@@ -4,6 +4,8 @@ name: Khuẩn Tịnh Hải
 hantu: 菌淨海
 archetype: Đội Trưởng Tịnh Hóa
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Đội Trưởng Tịnh Hóa
 avatar: ''
 arcs:
   - arc: 1

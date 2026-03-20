@@ -4,6 +4,8 @@ name: Nguyễn Kỳ Lân
 hantu: 阮麒麟
 archetype: Trưởng Lão Ngự Thú Viện
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Ngự Thú Viện
 avatar: ''
 arcs:
   - arc: 1

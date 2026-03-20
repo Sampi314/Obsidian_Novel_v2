@@ -4,6 +4,8 @@ name: Châu Thương
 hantu: 周商
 archetype: Đấu Giá Đường Chủ
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đấu Giá Đường Chủ
 avatar: ''
 arcs:
   - arc: 1

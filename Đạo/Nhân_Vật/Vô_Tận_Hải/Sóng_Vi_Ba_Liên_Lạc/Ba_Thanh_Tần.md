@@ -4,6 +4,11 @@ name: Ba Thanh Tần
 hantu: 波清頻
 archetype: Kỹ Sư Tần Số
 race: Vi Tộc
+dao_tam: Tần số trong sạch là tự do — nhiễu loạn là nô lệ
+aliases:
+  - "Kẻ Khóa Sóng" (锁波者)"
+origin: Vô Tận Hải
+faction_rank: Kỹ Sư Tần Số (频率工程师)
 avatar: ''
 arcs:
   - arc: 1

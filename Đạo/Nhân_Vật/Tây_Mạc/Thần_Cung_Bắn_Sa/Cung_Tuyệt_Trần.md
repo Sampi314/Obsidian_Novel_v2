@@ -4,6 +4,9 @@ name: Cung Tuyệt Trần
 hantu: 弓绝尘
 archetype: Viện Chủ Chế Khí
 race: Nhân Tộc
+dao_tam: Hóa Cốt Thành Thần
+origin: Tây Mạc
+faction_rank: Viện Chủ Chế Khí
 avatar: ''
 arcs:
   - arc: 1

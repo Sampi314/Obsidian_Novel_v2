@@ -4,6 +4,8 @@ name: Phạm U Linh
 hantu: 范幽灵
 archetype: Trinh Sát
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Trinh Sát Phế Tích
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Giao Vô Danh
 hantu: 鲛無名
 archetype: Thợ Dệt
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Thợ Dệt. Tai mắt của Giao Lệ Vân — hắn là người thu thập thông tin trong khu ổ chuột, theo dõi quản công, và báo cáo mọi biến động cho thủ lĩnh ngầm
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nguyệt Thiên Hà
 hantu: 月天河
 archetype: Hộ Quốc Trưởng Lão
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Hộ Quốc Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lê Kiếm Tâm
 hantu: 黎剑心
 archetype: Chân Truyền
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Chân Truyền Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

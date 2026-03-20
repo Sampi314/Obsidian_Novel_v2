@@ -4,6 +4,9 @@ name: Trùng Thiết Sa
 hantu: 蟲鐵沙
 archetype: Tộc Trưởng
 race: Vi Tộc
+dao_tam: Khai Sơn Tịch Thổ
+origin: Tây Mạc
+faction_rank: Tộc Trưởng
 avatar: ''
 arcs:
   - arc: 1

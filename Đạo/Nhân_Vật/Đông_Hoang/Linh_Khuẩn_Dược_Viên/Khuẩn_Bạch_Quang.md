@@ -4,6 +4,8 @@ name: Khuẩn Bạch Quang
 hantu: 菌白光
 archetype: Dược Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

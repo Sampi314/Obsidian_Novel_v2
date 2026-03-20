@@ -4,6 +4,8 @@ name: Nấm Linh Quang
 hantu: 菌靈光
 archetype: Phát Quang Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Phát Quang Sư
 avatar: ''
 arcs:
   - arc: 1

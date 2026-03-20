@@ -4,6 +4,8 @@ name: Quạ Hắc Dạ
 hantu: 鴉黑夜
 archetype: Tình Báo
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Tình Báo
 avatar: ''
 arcs:
   - arc: 1

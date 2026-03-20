@@ -4,6 +4,8 @@ name: Kình Tiểu Ngư
 hantu: 鲸小鱼
 archetype: Vệ Binh
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Đội Trưởng Vệ Binh
 avatar: ''
 arcs:
   - arc: 1

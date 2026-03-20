@@ -4,6 +4,8 @@ name: Phượng Viêm Cánh
 hantu: 鳳炎翅
 archetype: Chiến Sĩ Trẻ
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Chiến Sĩ Trẻ
 avatar: ''
 arcs:
   - arc: 1

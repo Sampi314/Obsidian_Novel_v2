@@ -4,6 +4,8 @@ name: Bằng Bắc Minh
 hantu: 鵬北冥
 archetype: Truyền Tin
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Truyền Tin
 avatar: ''
 arcs:
   - arc: 1

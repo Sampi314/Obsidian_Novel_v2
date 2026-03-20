@@ -4,6 +4,8 @@ name: Giao Thiên Lệ Nguyệt
 hantu: 鲛天淚月
 archetype: Ngọc Trai Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Ngọc Trai Sư
 avatar: ''
 arcs:
   - arc: 1

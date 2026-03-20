@@ -4,6 +4,8 @@ name: Đặng Vân Hải
 hantu: 鄧雲海
 archetype: Hộ Pháp
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Báo Khoái Đao
 hantu: 豹快刀
 archetype: Sát Thủ
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Sát Thủ
 avatar: ''
 arcs:
   - arc: 1

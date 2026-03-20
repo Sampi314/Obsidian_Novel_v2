@@ -4,6 +4,14 @@ name: Hồ Huyễn Dạ Thiên
 hantu: 狐幻夜天
 archetype: Ảo Thuật Sư
 race: Yêu Tộc
+dao_tam: Phòng thủ tốt nhất không phải là giao tranh, mà là khiến kẻ thù vĩnh viễn không tìm được đường tới
+aliases:
+  - "Lão Mù" (盲老)"
+  - "Dạ Thiên Lão Hồ" (夜天老狐)"
+  - "ám chỉ ông là "cáo già dưới trời đêm"
+origin: Tây Mạc
+age: 372
+faction_rank: Trưởng Lão Giấu Mặt (隐长老) — phụ trách phòng thủ ảo giác
 avatar: ''
 arcs:
   - arc: 1

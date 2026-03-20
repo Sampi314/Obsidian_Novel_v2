@@ -4,6 +4,8 @@ name: Lôi Cương
 hantu: 雷鋼
 archetype: Viện Chủ Lôi Pháp
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Viện Chủ Lôi Pháp
 avatar: ''
 arcs:
   - arc: 1

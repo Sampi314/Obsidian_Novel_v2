@@ -4,6 +4,9 @@ name: Thiết Quân
 hantu: 鐵軍
 archetype: Kỵ Giáp Thống Lĩnh
 race: Nhân Tộc
+dao_tam: Thiết Luật Bất Khả Xâm
+origin: Thiên Trụ
+faction_rank: Kỵ Giáp Thống Lĩnh
 avatar: ''
 arcs:
   - arc: 1

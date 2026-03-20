@@ -4,6 +4,9 @@ name: San Ngọc Vương
 hantu: 珊玉王
 archetype: Đảo Chủ
 race: Hải Tộc
+dao_tam: Ngọc Hóa Bất Hủ
+origin: Tây Mạc
+faction_rank: Đảo Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hoa Tuyết
 hantu: 花雪
 archetype: Thị Vệ Công Chúa
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Thị Vệ Công Chúa
 avatar: ''
 arcs:
   - arc: 1

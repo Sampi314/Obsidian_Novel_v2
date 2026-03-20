@@ -4,6 +4,9 @@ name: Trùng Hàn Cốt
 hantu: 蟲寒骨
 archetype: Độc Sư Trưởng
 race: Vi Tộc
+dao_tam: Thấu Độc Ngộ Tịnh
+origin: Bắc Băng
+faction_rank: Độc Sư Trưởng
 avatar: ''
 arcs:
   - arc: 1

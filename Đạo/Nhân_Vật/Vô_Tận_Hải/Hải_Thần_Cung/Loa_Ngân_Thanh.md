@@ -4,6 +4,9 @@ name: Loa Ngân Thanh
 hantu: 螺銀聲
 archetype: Nhạc Sư Cung Đình
 race: Hải Tộc
+dao_tam: Âm nhạc không chỉ để phụng sự — âm nhạc là để cảm nhận biển cả
+origin: Vô Tận Hải
+faction_rank: Nhạc Sư Cung Đình
 avatar: ''
 arcs:
   - arc: 1

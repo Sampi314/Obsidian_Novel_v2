@@ -4,6 +4,8 @@ name: Mạch Tiểu Quặng
 hantu: 脈小礦
 archetype: Đệ Tử Thăm Mạch
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Đệ Tử Thăm Mạch
 avatar: ''
 arcs:
   - arc: 1

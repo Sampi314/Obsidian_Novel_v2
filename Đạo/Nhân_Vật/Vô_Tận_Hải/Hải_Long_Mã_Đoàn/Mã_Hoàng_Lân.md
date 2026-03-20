@@ -4,6 +4,8 @@ name: Mã Hoàng Lân
 hantu: 馬皇鱗
 archetype: Mã Phu Trưởng Lão
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Mã Phu Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

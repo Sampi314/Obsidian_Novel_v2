@@ -4,6 +4,8 @@ name: Phấn Ngọc Lộ
 hantu: 粉玉露
 archetype: Dược Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

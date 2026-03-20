@@ -4,6 +4,8 @@ name: Lý Thảo Tam
 hantu: 李草三
 archetype: Đường Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đường Chủ
 avatar: ''
 arcs:
   - arc: 1

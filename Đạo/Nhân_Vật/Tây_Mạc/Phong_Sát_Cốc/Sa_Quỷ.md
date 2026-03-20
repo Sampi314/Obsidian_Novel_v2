@@ -4,6 +4,8 @@ name: Sa Quỷ
 hantu: 沙鬼
 archetype: Đội Trưởng Sa Quỷ
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Đội Trưởng Sa Quỷ
 avatar: ''
 arcs:
   - arc: 1

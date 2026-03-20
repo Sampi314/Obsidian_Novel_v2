@@ -4,6 +4,8 @@ name: Hạ Thiên Lý
 hantu: 夏千里
 archetype: Đoàn Trưởng
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

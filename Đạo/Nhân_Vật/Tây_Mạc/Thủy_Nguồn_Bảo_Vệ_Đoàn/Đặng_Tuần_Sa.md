@@ -4,6 +4,8 @@ name: Đặng Tuần Sa
 hantu: 邓巡沙
 archetype: Đội Phó Tuần Tra
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Đội Phó Tuần Tra
 avatar: ''
 arcs:
   - arc: 1

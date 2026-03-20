@@ -4,6 +4,13 @@ name: Hải Thanh Liên
 hantu: 海清蓮
 archetype: Dược Sư Trưởng
 race: Hải Tộc
+lingan: Thủy Linh Căn (Thượng phẩm
+dao_tam: Thảo Mộc Hữu Linh, Y Giả Nhân Tâm
+aliases:
+  - "Thâm Hải Dược Mẫu (深海藥母)"
+  - "Tảo Linh Thánh Thủ (藻靈聖手)"
+age: 178
+faction_rank: Sáng lập và lãnh đạo Hải Thảo Dược Sư
 avatar: ''
 arcs:
   - arc: 1

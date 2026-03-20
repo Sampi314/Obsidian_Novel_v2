@@ -4,6 +4,9 @@ name: Nham Thiết Cốt
 hantu: 岩鐵骨
 archetype: Đại Trưởng Lão
 race: Cự Tộc
+dao_tam: Cốt Cách
+origin: Bắc Băng
+faction_rank: Đại Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

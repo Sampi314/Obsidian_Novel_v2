@@ -4,6 +4,14 @@ name: Khuẩn Hàn Ngưng
 hantu: 菌寒凝
 archetype: Kiến Trúc Sư
 race: Vi Tộc
+dao_tam: Xây dựng là chống lại sự sụp đổ. Mỗi khối băng ta đặt xuống là thêm một mùa đông tộc ta tồn tại
+aliases:
+  - "Ngưng Sư" (凝師)"
+  - "đường hầm"
+  - "phòng ốc trong lãnh thổ khuẩn tộc đều mang dấu ấn tay nghề của hắn"
+origin: Bắc Băng — di chuyển khắp hệ thống hang băng, hiếm khi ở yên một chỗ quá lâu
+age: 4
+faction_rank: Kiến Trúc Sư Tổng Quản — thiết kế
 avatar: ''
 arcs:
   - arc: 1

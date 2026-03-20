@@ -4,6 +4,8 @@ name: Hồ Tiểu Vũ Nguyệt
 hantu: 狐小雨月
 archetype: Vũ Nương
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Vũ Nương
 avatar: ''
 arcs:
   - arc: 1

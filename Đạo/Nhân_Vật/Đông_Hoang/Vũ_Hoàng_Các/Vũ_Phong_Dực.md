@@ -4,6 +4,8 @@ name: Vũ Phong Dực
 hantu: 羽風翼
 archetype: Dực Tướng Đông
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Dực Tướng Đông
 avatar: ''
 arcs:
   - arc: 1

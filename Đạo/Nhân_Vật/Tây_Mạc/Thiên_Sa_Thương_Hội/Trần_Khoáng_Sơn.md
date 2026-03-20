@@ -4,6 +4,8 @@ name: Trần Khoáng Sơn
 hantu: 陈矿山
 archetype: Gia Chủ Khai Khoáng
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Gia Chủ Khai Khoáng
 avatar: ''
 arcs:
   - arc: 1

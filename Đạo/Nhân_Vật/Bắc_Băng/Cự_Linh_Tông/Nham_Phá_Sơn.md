@@ -4,6 +4,9 @@ name: Nham Phá Sơn
 hantu: 岩破山
 archetype: Chiến Cự Tử
 race: Cự Tộc
+dao_tam: Không gì cản nổi ta, cứ lao thẳng về phía trước
+origin: Bắc Băng
+faction_rank: Chiến Cự Tử
 avatar: ''
 arcs:
   - arc: 1

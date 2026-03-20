@@ -4,6 +4,8 @@ name: Kim Sa
 hantu: 金沙
 archetype: Thợ Mỏ Trưởng
 race: Cự Tộc
+origin: Tây Mạc
+faction_rank: Thợ Mỏ Trưởng
 avatar: ''
 arcs:
   - arc: 1

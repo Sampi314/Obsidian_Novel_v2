@@ -4,6 +4,8 @@ name: Trùng Thính Phong
 hantu: 蟲聽風
 archetype: Thính Giả
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Thính Giả
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hà Thiên Chiêu
 hantu: 何天昭
 archetype: Phó Giám Khâm Thiên
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Phó Giám Khâm Thiên
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hồ Thiên Mị
 hantu: 狐天媚
 archetype: Thánh Tướng Thứ Năm
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Thánh Tướng Thứ Năm
 avatar: ''
 arcs:
   - arc: 1

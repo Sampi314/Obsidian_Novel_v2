@@ -4,6 +4,8 @@ name: Hồ Minh Nguyệt
 hantu: 狐明月
 archetype: Dược Sư
 race: Yêu Tộc
+origin: Tây Mạc
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

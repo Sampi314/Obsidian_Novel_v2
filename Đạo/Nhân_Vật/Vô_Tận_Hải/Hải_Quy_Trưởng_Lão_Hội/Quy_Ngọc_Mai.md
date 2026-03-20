@@ -4,6 +4,8 @@ name: Quy Ngọc Mai
 hantu: 龜玉玫
 archetype: Bốc Sư
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Bốc Sư
 avatar: ''
 arcs:
   - arc: 1

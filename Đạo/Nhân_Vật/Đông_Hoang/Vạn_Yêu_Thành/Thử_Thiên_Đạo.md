@@ -4,6 +4,8 @@ name: Thử Thiên Đạo
 hantu: 鼠千盜
 archetype: Trộm Cắp Vương
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Trộm Cắp Vương
 avatar: ''
 arcs:
   - arc: 1

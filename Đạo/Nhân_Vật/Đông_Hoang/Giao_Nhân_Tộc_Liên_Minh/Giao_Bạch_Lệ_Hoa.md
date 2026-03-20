@@ -4,6 +4,8 @@ name: Giao Bạch Lệ Hoa
 hantu: 鲛白淚花
 archetype: Mưu Sĩ
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Mưu Sĩ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Phạm Huyết Đao
 hantu: 范血刀
 archetype: Hữu Sứ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hữu Sứ
 avatar: ''
 arcs:
   - arc: 1

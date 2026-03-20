@@ -4,6 +4,11 @@ name: Thạch Linh Quang
 hantu: 石靈光
 archetype: Đệ Ngũ Hỏa Sư
 race: Thạch Tộc
+aliases:
+  - "Quang Thạch Nương" (光石娘) — Nàng Đá Phát Sáng"
+  - "do đệ tử trong cung gọi thân mật"
+origin: Thiên Trụ
+faction_rank: Đệ Ngũ Hỏa Sư
 avatar: ''
 arcs:
   - arc: 1

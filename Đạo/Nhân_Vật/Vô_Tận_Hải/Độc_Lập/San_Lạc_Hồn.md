@@ -4,6 +4,8 @@ name: San Lạc Hồn
 hantu: 珊落魂
 archetype: Kẻ Sống Sót
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Kẻ Sống Sót
 avatar: ''
 arcs:
   - arc: 1

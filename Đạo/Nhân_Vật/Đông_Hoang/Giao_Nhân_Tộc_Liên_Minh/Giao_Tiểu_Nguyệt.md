@@ -4,6 +4,8 @@ name: Giao Tiểu Nguyệt
 hantu: 鲛小月
 archetype: Đệ Tử
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

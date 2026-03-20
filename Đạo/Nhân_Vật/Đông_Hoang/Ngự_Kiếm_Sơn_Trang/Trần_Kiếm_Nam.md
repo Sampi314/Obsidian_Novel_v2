@@ -4,6 +4,8 @@ name: Trần Kiếm Nam
 hantu: 陳劍南
 archetype: Trang Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trang Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Nấm Huyền Thông Thiên
 hantu: 菌玄通天
 archetype: Truyền Tin Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Truyền Tin Sư
 avatar: ''
 arcs:
   - arc: 1

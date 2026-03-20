@@ -4,6 +4,8 @@ name: Hồ Tuyết Lan
 hantu: 狐雪蘭
 archetype: Y Sư
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Y Sư
 avatar: ''
 arcs:
   - arc: 1

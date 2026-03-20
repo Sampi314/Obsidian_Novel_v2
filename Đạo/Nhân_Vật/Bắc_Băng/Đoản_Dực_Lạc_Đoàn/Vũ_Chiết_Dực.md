@@ -4,6 +4,8 @@ name: Vũ Chiết Dực
 hantu: 羽折翼
 archetype: Thợ Thủ Công
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Thợ Chế Tác Lông Vũ
 avatar: ''
 arcs:
   - arc: 1

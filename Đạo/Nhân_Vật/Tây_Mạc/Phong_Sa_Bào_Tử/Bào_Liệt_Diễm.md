@@ -4,6 +4,12 @@ name: Bào Liệt Diễm
 hantu: 孢烈焰
 archetype: Hỏa Sa Chiến Sĩ
 race: Vi Tộc
+dao_tam: Đoàn cần lá chắn. Ta là lá chắn. Lá chắn không cần ai che
+aliases:
+  - "Hỏa Tinh" (火星)"
+  - "toàn thân phát sáng đỏ cam rực rỡ như ngôi sao lửa giữa bão cát"
+origin: Tây Mạc
+faction_rank: Hỏa Sa Chiến Sĩ (火沙战士)
 avatar: ''
 arcs:
   - arc: 1

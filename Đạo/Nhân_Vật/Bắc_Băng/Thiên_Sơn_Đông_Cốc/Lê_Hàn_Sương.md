@@ -4,6 +4,13 @@ name: Lê Hàn Sương
 hantu: 黎寒霜
 archetype: Chân Truyền
 race: Nhân Tộc
+lingan: Song linh căn Thủy-Kim
+dao_tam: Kiếm bảo vệ thân, đan cứu người — cả hai đều cần, cả hai đều là đạo
+aliases:
+  - "Sương Kiếm Tiểu Tử" (霜剑小子)"
+origin: Bắc Băng — Thung lũng Mùa Đông, dãy Thiên Sơn
+age: 93
+faction_rank: Chân Truyền Đệ Tử (真传弟子) trực thuộc Lý Băng Diễm
 avatar: ''
 arcs:
   - arc: 1

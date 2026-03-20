@@ -4,6 +4,8 @@ name: Khuẩn Vạn Sinh
 hantu: 菌萬生
 archetype: Nhân Bản Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Nhân Bản Sư
 avatar: ''
 arcs:
   - arc: 1

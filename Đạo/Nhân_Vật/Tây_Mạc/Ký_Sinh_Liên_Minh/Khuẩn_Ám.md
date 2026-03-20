@@ -4,6 +4,8 @@ name: Khuẩn Ám
 hantu: 菌暗
 archetype: Ký Sinh Trưởng
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Ký Sinh Trưởng
 avatar: ''
 arcs:
   - arc: 1

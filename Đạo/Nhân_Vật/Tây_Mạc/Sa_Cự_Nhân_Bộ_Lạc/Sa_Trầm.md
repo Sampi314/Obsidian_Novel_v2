@@ -4,6 +4,12 @@ name: Sa Trầm
 hantu: 沙沉
 archetype: Trưởng Lão
 race: Cự Tộc
+aliases:
+  - "Sa Mạc Mưu Sĩ (沙漠谋士)"
+  - "chỉ là cách các Trưởng Lão bộ lạc lân cận nhắc đến gã. Tĩnh Sa (静沙)"
+  - "nghĩa là "cát yên lặng."
+origin: Tây Mạc — Hoàng Kim Sa Hải
+faction_rank: Trưởng Lão — phụ trách chiến lược
 avatar: ''
 arcs:
   - arc: 1

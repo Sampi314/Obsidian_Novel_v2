@@ -4,6 +4,8 @@ name: Diệp Thanh Trúc
 hantu: 葉青竹
 archetype: Ngũ Sát
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Ngũ Sát
 avatar: ''
 arcs:
   - arc: 1

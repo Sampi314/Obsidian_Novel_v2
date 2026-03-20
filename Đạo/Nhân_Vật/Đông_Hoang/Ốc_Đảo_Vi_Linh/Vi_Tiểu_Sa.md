@@ -4,6 +4,8 @@ name: Vi Tiểu Sa
 hantu: 微小沙
 archetype: Linh Tộc
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Linh Tộc
 avatar: ''
 arcs:
   - arc: 1

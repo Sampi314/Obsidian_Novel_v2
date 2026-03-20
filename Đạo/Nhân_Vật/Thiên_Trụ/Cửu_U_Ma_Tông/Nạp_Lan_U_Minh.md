@@ -4,6 +4,8 @@ name: Nạp Lan U Minh
 hantu: 納蘭幽冥
 archetype: Đệ Tứ Ma Vương
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Tứ Ma Vương
 avatar: ''
 arcs:
   - arc: 1

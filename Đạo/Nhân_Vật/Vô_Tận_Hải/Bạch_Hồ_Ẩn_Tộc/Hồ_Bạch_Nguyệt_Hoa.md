@@ -4,6 +4,8 @@ name: Hồ Bạch Nguyệt Hoa
 hantu: 狐白月花
 archetype: Dược Sư
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1

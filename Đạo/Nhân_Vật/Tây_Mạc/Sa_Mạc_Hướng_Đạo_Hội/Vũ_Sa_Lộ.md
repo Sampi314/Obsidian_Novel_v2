@@ -4,6 +4,9 @@ name: Vũ Sa Lộ
 hantu: 武沙路
 archetype: Hướng Đạo
 race: Nhân Tộc
+dao_tam: Chậm một bước cũng không sao, miễn là bước đúng
+origin: Tây Mạc
+faction_rank: Hướng Đạo
 avatar: ''
 arcs:
   - arc: 1

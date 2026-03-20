@@ -4,6 +4,8 @@ name: Lê Thiết Tâm
 hantu: 黎鐵心
 archetype: Minh Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Minh Chủ
 avatar: ''
 arcs:
   - arc: 1

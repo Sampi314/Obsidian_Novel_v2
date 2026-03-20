@@ -4,6 +4,8 @@ name: Thâm Nham
 hantu: 深岩
 archetype: Đội Trưởng
 race: Thạch Tộc
+origin: Tây Mạc
+faction_rank: Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

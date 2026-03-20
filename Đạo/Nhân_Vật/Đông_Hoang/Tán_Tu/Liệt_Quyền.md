@@ -4,6 +4,8 @@ name: Liệt Quyền
 hantu: 裂拳
 archetype: Đấu Sĩ
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Đấu Sĩ
 avatar: ''
 arcs:
   - arc: 1

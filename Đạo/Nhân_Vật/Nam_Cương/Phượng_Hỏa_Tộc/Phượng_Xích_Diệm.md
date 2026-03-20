@@ -4,6 +4,8 @@ name: Phượng Xích Diệm
 hantu: 鳳赤焰
 archetype: Chiến Sĩ
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

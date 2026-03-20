@@ -4,6 +4,8 @@ name: Nguyễn Hải Nông
 hantu: 阮海农
 archetype: Nông Dân
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Trưởng Thôn Đảo Phía Nam
 avatar: ''
 arcs:
   - arc: 1

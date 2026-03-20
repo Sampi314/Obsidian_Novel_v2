@@ -4,6 +4,8 @@ name: Lâm Tiểu Đăng
 hantu: 林小燈
 archetype: Thám Hiểm Viên
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Thám Hiểm Viên
 avatar: ''
 arcs:
   - arc: 1

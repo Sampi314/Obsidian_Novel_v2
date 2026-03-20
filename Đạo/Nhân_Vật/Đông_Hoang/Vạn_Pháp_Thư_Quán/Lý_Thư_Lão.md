@@ -4,6 +4,8 @@ name: Lý Thư Lão
 hantu: 李書老
 archetype: Quán Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Quán Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Lê Thanh Mai
 hantu: 黎青梅
 archetype: Chưởng Quản Đệ Tử
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Chưởng Quản Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

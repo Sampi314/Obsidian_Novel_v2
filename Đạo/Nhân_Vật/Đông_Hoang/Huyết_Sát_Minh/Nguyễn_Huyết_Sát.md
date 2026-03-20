@@ -4,6 +4,8 @@ name: Nguyễn Huyết Sát
 hantu: 阮血煞
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,11 @@ name: Ba Ngân Hà
 hantu: 波銀河
 archetype: Thiên Văn Liên Lạc
 race: Vi Tộc
+dao_tam: Đại dương có đáy, bầu trời có giới hạn — nhưng sóng thì không
+aliases:
+  - "Kẻ Nhìn Trời" (望天者)"
+origin: Vô Tận Hải
+faction_rank: Thiên Văn Liên Lạc (天文联络)
 avatar: ''
 arcs:
   - arc: 1

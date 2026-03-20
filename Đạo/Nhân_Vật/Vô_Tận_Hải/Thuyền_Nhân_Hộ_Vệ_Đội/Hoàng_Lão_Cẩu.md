@@ -4,6 +4,9 @@ name: Hoàng Lão Cẩu
 hantu: 黄老狗
 archetype: Hộ Vệ
 race: Nhân Tộc
+dao_tam: sống qua ngày hôm nay, ngày mai tính sau
+origin: Vô Tận Hải
+faction_rank: Hộ Vệ Kỳ Cựu
 avatar: ''
 arcs:
   - arc: 1

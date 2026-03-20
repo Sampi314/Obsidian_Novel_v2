@@ -4,6 +4,8 @@ name: Ngư Thiên Lãng
 hantu: 魚天浪
 archetype: Thương Nhân
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Thương Nhân
 avatar: ''
 arcs:
   - arc: 1

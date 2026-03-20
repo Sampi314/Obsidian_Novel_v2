@@ -4,6 +4,9 @@ name: Nham Linh
 hantu: 岩灵
 archetype: Tế Tư
 race: Thạch Tộc
+dao_tam: Nham Trung Tầm Linh
+origin: Tây Mạc
+faction_rank: Tế Tư
 avatar: ''
 arcs:
   - arc: 1

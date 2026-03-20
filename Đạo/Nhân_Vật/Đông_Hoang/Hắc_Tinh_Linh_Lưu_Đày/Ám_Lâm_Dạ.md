@@ -4,6 +4,8 @@ name: Ám Lâm Dạ
 hantu: 暗林夜
 archetype: Tân Binh
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Tân Binh
 avatar: ''
 arcs:
   - arc: 1

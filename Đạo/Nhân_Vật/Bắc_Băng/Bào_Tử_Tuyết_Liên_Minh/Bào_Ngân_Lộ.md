@@ -4,6 +4,13 @@ name: Bào Ngân Lộ
 hantu: 孢銀露
 archetype: Dược Sư Tuyết
 race: Vi Tộc
+dao_tam: Mỗi giọt sương đều có thể trở thành thuốc. Ta chỉ cần tìm đúng cách
+aliases:
+  - "Giọt Sương Bạc" (銀滴)"
+  - "trông như giọt sương khổng lồ"
+  - "Dược Mẫu" (藥母)"
+age: 900
+faction_rank: Dược Sư Tuyết (雪藥師) — trưởng hệ thống y tế của liên minh
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hùng Lang Thiết Tâm
 hantu: 熊狼鐵心
 archetype: Chiến Sĩ
 race: Bán Yêu
+origin: Đông Hoang
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

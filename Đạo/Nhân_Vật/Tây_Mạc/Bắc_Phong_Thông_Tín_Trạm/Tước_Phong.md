@@ -4,6 +4,8 @@ name: Tước Phong
 hantu: 雀風
 archetype: Truyền Tin
 race: Vũ Tộc
+origin: Tây Mạc
+faction_rank: Truyền Tin
 avatar: ''
 arcs:
   - arc: 1

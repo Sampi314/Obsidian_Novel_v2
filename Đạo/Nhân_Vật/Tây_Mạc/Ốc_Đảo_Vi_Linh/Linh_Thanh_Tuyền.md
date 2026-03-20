@@ -4,6 +4,9 @@ name: Linh Thanh Tuyền
 hantu: 靈清泉
 archetype: Ốc Đảo Chủ
 race: Vi Tộc
+dao_tam: Nước trong thì sống, nước đục thì lọc, nước cạn thì chết — ta là nước, nước là ta
+origin: Tây Mạc
+faction_rank: Ốc Đảo Chủ
 avatar: ''
 arcs:
   - arc: 1

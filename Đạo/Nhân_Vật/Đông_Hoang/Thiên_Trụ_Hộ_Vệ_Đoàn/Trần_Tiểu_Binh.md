@@ -4,6 +4,8 @@ name: Trần Tiểu Binh
 hantu: 陳小兵
 archetype: Binh Sĩ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Binh Sĩ
 avatar: ''
 arcs:
   - arc: 1

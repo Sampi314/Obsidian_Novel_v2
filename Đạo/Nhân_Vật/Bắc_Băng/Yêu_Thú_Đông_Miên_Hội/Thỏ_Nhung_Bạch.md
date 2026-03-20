@@ -4,6 +4,10 @@ name: Thỏ Nhung Bạch
 hantu: 兔绒白
 archetype: Thành Viên
 race: Yêu Tộc
+aliases:
+  - "Bạch Nhung (白绒)"
+  - "không phải danh hiệu chính thức"
+faction_rank: Quản Kho Thực Phẩm kiêm Thành viên Luân Phiên Canh Gác của Yêu Thú Đông Miên Hội. Người ghi nhớ mọi con số, mọi khuôn mặt, mọi thứ ai khác quên
 avatar: ''
 arcs:
   - arc: 1

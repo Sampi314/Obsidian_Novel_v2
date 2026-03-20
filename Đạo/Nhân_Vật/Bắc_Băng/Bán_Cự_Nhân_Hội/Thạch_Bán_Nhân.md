@@ -4,6 +4,14 @@ name: Thạch Bán Nhân
 hantu: 石半人
 archetype: Hội Trưởng
 race: Hỗn huyết (Cự Tộc, Nhân Tộc)
+lingan: Thổ - Hỏa song linh căn
+dao_tam: Nửa người, trọn vẹn
+aliases:
+  - "Bán Sơn Vương" (半山王)"
+  - "không đủ tư cách làm núi"
+origin: Bắc Băng — vùng tundra đóng băng vĩnh cửu
+age: 78
+faction_rank: Hội Trưởng kiêm người sáng lập
 avatar: ''
 arcs:
   - arc: 1

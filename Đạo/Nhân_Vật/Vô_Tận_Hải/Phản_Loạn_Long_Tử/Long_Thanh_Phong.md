@@ -4,6 +4,9 @@ name: Long Thanh Phong
 hantu: 龙青风
 archetype: Thành Viên
 race: Long Tộc
+dao_tam: Phong Tùy Tự Do
+origin: Vô Tận Hải
+faction_rank: Liên Lạc Viên
 avatar: ''
 arcs:
   - arc: 1

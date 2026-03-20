@@ -4,6 +4,8 @@ name: Hà Phong Nhận
 hantu: 蝦風刃
 archetype: Sát Thủ
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Sát Thủ
 avatar: ''
 arcs:
   - arc: 1

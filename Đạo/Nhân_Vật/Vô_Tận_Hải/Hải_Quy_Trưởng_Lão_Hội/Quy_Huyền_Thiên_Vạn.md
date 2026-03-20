@@ -4,6 +4,8 @@ name: Quy Huyền Thiên Vạn
 hantu: 龜玄天萬
 archetype: Đại Trưởng Lão
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đại Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

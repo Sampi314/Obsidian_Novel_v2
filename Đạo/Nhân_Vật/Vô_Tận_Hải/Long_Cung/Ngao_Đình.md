@@ -4,6 +4,8 @@ name: Ngao Đình
 hantu: 敖霆
 archetype: Chiến Sĩ
 race: Long Tộc
+dao_tam: Thiên Sinh Vương Giả, sức mạnh tuyệt đối nghiền nát mọi âm mưu
+age: 1500
 avatar: Ngao_Đình.png
 arcs:
   - arc: 1

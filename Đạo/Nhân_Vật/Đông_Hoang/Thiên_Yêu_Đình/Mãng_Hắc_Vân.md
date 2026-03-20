@@ -4,6 +4,8 @@ name: Mãng Hắc Vân
 hantu: 蟒黑雲
 archetype: Mãng Bộ Lạc Trưởng
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Mãng Bộ Lạc Trưởng
 avatar: ''
 arcs:
   - arc: 1

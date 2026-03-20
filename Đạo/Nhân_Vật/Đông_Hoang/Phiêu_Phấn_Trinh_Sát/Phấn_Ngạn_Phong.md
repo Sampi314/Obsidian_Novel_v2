@@ -4,6 +4,8 @@ name: Phấn Ngạn Phong
 hantu: 粉岸風
 archetype: Phó Đội Trưởng
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Phó Đội Trưởng
 avatar: ''
 arcs:
   - arc: 1

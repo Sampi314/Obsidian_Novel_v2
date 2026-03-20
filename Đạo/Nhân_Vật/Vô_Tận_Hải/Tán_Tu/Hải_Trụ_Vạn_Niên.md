@@ -4,6 +4,9 @@ name: Hải Trụ Vạn Niên
 hantu: 海柱萬年
 archetype: Hải Đáy Thủ Vệ
 race: Cự Tộc
+dao_tam: Bất Động Vạn Niên
+origin: Vô Tận Hải
+faction_rank: Hải Đáy Thủ Vệ
 avatar: ''
 arcs:
   - arc: 1

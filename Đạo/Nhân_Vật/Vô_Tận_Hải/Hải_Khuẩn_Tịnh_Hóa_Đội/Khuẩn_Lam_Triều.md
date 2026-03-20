@@ -4,6 +4,8 @@ name: Khuẩn Lam Triều
 hantu: 菌藍潮
 archetype: Liên Lạc Viên
 race: Vi Tộc
+origin: Vô Tận Hải
+faction_rank: Liên Lạc Viên
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Giao Lam Nguyệt
 hantu: 鲛蓝月
 archetype: Y Sư
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Y Sư
 avatar: ''
 arcs:
   - arc: 1

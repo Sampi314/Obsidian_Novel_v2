@@ -4,6 +4,8 @@ name: Hà Thiên Đao
 hantu: 蝦千刀
 archetype: Ám Sát Đội
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Ám Sát Đội
 avatar: ''
 arcs:
   - arc: 1

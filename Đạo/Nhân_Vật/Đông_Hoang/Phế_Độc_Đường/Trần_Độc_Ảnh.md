@@ -4,6 +4,8 @@ name: Trần Độc Ảnh
 hantu: 陳毒影
 archetype: Phó Đường Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Đường Chủ
 avatar: ''
 arcs:
   - arc: 1

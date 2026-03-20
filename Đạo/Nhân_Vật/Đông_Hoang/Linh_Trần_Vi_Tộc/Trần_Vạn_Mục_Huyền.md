@@ -4,6 +4,8 @@ name: Trần Vạn Mục Huyền
 hantu: 塵萬目玄
 archetype: Ký Ức Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Ký Ức Sư
 avatar: ''
 arcs:
   - arc: 1

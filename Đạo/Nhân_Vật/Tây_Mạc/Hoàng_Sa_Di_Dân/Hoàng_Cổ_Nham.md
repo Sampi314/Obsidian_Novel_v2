@@ -4,6 +4,8 @@ name: Hoàng Cổ Nham
 hantu: 黄古岩
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Chương Thâm Uyên
 hantu: 章深淵
 archetype: Thám Hiểm Gia
 race: Hải Tộc
+dao_tam: Tri Thâm Vô Hối
+origin: Vô Tận Hải
+faction_rank: Thám Hiểm Gia
 avatar: ''
 arcs:
   - arc: 1

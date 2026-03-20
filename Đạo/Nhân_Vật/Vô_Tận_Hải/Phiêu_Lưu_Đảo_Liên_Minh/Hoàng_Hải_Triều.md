@@ -4,6 +4,8 @@ name: Hoàng Hải Triều
 hantu: 黄海潮
 archetype: Đội Trưởng
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Đội Trưởng Hải Tuần Đội
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hứa Luyện
 hantu: 許煉
 archetype: Đệ Bát Tháp Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Đệ Bát Tháp Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Mẫu Hải Thiên Âm
 hantu: 母海天音
 archetype: Đệ Nhất Ca Nương
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Đệ Nhất Ca Nương
 avatar: ''
 arcs:
   - arc: 1

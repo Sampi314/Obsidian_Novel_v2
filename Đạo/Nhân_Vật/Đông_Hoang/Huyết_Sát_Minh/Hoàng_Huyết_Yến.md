@@ -4,6 +4,8 @@ name: Hoàng Huyết Yến
 hantu: 黃血燕
 archetype: Đường Chủ Tình Báo Đường
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đường Chủ Tình Báo Đường
 avatar: ''
 arcs:
   - arc: 1

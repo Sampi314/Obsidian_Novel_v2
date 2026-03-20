@@ -4,6 +4,8 @@ name: Vũ Nhạn Nhi
 hantu: 羽雁儿
 archetype: Trinh Sát
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Trinh Sát Viên
 avatar: ''
 arcs:
   - arc: 1

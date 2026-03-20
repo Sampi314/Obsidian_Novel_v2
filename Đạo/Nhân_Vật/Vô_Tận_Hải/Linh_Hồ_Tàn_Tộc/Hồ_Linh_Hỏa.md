@@ -4,6 +4,8 @@ name: Hồ Linh Hỏa
 hantu: 狐靈火
 archetype: Hộ Pháp
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Phạm Linh Kế
 hantu: 范灵计
 archetype: Kế Toán
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Quản Lý Tài Vụ
 avatar: ''
 arcs:
   - arc: 1

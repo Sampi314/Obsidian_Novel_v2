@@ -4,6 +4,15 @@ name: Trần Tuyết Liên
 hantu: 陈雪莲
 archetype: Đội Trưởng
 race: Nhân Tộc
+lingan: Đơn linh căn Thủy (thượng phẩm)
+dao_tam: Mỗi bông Tuyết Liên hái về là một mạng người được cứu
+aliases:
+  - "Tuyết Nhai Yến" (雪崖燕)"
+  - "nhảy giữa các mỏm đá mà không hề trượt chân. Ngoài ra"
+  - "đội hái thuốc gọi cô là "Liên Tỷ" (莲姐) một cách thân mật"
+origin: Bắc Băng
+age: 127
+faction_rank: Đội Trưởng Hái Thuốc Đội (采药队队长)
 avatar: ''
 arcs:
   - arc: 1

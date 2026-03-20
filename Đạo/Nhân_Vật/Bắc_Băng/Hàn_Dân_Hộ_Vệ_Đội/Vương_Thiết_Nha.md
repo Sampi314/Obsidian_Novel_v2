@@ -4,6 +4,14 @@ name: Vương Thiết Nha
 hantu: 王铁牙
 archetype: Đội Trưởng
 race: Nhân Tộc
+dao_tam: Dân Tự Hộ Dân
+aliases:
+  - "Thiết Nha Lão Nhân" (铁牙老人)"
+  - "Lão Răng Sắt"
+  - "Gốc Tùng Già"
+origin: Bắc Băng — vùng đất đóng băng vĩnh cửu dưới chân Tuyết Sơn
+age: 68
+faction_rank: Đội Trưởng (队长) — người sáng lập
 avatar: ''
 arcs:
   - arc: 1

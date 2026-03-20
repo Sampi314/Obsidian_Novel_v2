@@ -4,6 +4,8 @@ name: Ba Thiên Lệ
 hantu: 波千泪
 archetype: Trưởng Lão
 race: Hải Tộc (Giao Nhân)
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

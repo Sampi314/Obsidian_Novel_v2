@@ -4,6 +4,8 @@ name: Sơn Tiểu Nham
 hantu: 山小岩
 archetype: Thành Viên
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Thành Viên
 avatar: ''
 arcs:
   - arc: 1

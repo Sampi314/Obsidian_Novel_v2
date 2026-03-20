@@ -4,6 +4,9 @@ name: Nham Bán Thân
 hantu: 岩半身
 archetype: Phó Đoàn
 race: Cự Tộc
+dao_tam: Bất Động Như Sơn
+origin: Bắc Băng
+faction_rank: Phó Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

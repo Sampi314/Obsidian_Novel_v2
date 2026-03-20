@@ -4,6 +4,8 @@ name: Thạch Hổ
 hantu: 石虎
 archetype: Hộ Pháp Đường Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Hộ Pháp Đường Chủ
 avatar: ''
 arcs:
   - arc: 1

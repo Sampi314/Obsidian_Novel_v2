@@ -4,6 +4,8 @@ name: Lư Hỏa
 hantu: 盧火
 archetype: Tả Hộ Pháp
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Tả Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

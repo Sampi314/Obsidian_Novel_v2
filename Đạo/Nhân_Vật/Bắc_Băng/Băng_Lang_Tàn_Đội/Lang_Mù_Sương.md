@@ -4,6 +4,14 @@ name: Lang Mù Sương
 hantu: 狼霧霜
 archetype: Thợ Săn
 race: Yêu Tộc
+dao_tam: Mũi không quên mùi, lòng không quên đàn
+aliases:
+  - "Sói Không Mắt" (无目狼)"
+  - "Mũi Vàng" (金鼻)"
+  - "vì bà bảo mũi lão "quý hơn vàng"
+origin: Bắc Băng — Hang Suối Băng, vùng rìa phía nam lãnh thổ Băng Lang Bộ Lạc
+age: 350
+faction_rank: Trưởng Lão Cố Vấn / Trinh Sát Khứu Giác
 avatar: ''
 arcs:
   - arc: 1

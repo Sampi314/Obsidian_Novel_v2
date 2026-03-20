@@ -4,6 +4,8 @@ name: Giao Thiên Sương
 hantu: 鲛天霜
 archetype: Liên Lạc Viên
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Liên Lạc Viên
 avatar: ''
 arcs:
   - arc: 1

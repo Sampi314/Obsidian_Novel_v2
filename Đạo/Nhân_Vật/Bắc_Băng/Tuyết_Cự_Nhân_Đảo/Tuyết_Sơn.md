@@ -4,6 +4,12 @@ name: Tuyết Sơn
 hantu: 雪山
 archetype: Trưởng Lão
 race: Cự Tộc
+dao_tam: Hộ Chủng Thủ Thổ
+aliases:
+  - "Lão Cự Nhân Tuyết Sơn (老巨人雪山"
+  - "Vạn Niên Sơn Thần (万年山神"
+origin: Bắc Băng
+faction_rank: Lão Cự Nhân (老巨人)
 avatar: ''
 arcs:
   - arc: 1

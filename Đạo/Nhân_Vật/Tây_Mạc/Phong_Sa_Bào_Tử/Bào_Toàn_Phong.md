@@ -4,6 +4,8 @@ name: Bào Toàn Phong
 hantu: 孢旋風
 archetype: Kỵ Binh Gió
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Kỵ Binh Gió
 avatar: ''
 arcs:
   - arc: 1

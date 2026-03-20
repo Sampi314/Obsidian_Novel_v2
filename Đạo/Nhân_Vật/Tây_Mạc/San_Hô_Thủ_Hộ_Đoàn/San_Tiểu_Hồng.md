@@ -4,6 +4,8 @@ name: San Tiểu Hồng
 hantu: 珊小紅
 archetype: Phó Đoàn
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Phó Đoàn
 avatar: ''
 arcs:
   - arc: 1

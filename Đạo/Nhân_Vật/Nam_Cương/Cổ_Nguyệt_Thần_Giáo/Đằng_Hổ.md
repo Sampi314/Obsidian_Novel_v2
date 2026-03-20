@@ -4,6 +4,8 @@ name: Đằng Hổ
 hantu: 藤虎
 archetype: Phó Trưởng Lão Đồ Đằng
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Phó Trưởng Lão Đồ Đằng
 avatar: ''
 arcs:
   - arc: 1

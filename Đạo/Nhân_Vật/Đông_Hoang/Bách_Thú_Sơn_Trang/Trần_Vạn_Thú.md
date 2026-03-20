@@ -4,6 +4,8 @@ name: Trần Vạn Thú
 hantu: 陳萬獸
 archetype: Trang Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trang Chủ
 avatar: ''
 arcs:
   - arc: 1

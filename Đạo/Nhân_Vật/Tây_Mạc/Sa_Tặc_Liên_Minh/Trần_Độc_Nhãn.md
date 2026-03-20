@@ -4,6 +4,9 @@ name: Trần Độc Nhãn
 hantu: 陈独眼
 archetype: Thủ Lĩnh Băng Đảng
 race: Nhân Tộc
+dao_tam: Sống Giàu Chết Sướng
+origin: Tây Mạc
+faction_rank: Thủ Lĩnh Băng Đảng
 avatar: ''
 arcs:
   - arc: 1

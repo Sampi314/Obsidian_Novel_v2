@@ -4,6 +4,8 @@ name: Ưng Hồng Sí
 hantu: 鷹紅翅
 archetype: Chiến Sĩ
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

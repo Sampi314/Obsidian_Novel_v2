@@ -4,6 +4,8 @@ name: Liễu Lãnh Huyết
 hantu: 柳冷血
 archetype: Xà Chi Hộ Pháp
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Xà Chi Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

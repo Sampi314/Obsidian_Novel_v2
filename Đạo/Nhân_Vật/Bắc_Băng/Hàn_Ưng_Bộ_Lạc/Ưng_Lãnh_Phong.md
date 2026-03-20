@@ -4,6 +4,8 @@ name: Ưng Lãnh Phong
 hantu: 鷹冷鋒
 archetype: Trinh Sát
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Trinh Sát
 avatar: ''
 arcs:
   - arc: 1

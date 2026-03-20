@@ -4,6 +4,8 @@ name: Lý Huyết Lang
 hantu: 李血狼
 archetype: Đội Trưởng Huyết Lang
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Đội Trưởng Huyết Lang
 avatar: ''
 arcs:
   - arc: 1

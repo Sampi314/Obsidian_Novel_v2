@@ -4,6 +4,14 @@ name: Lang Huyết Trảo
 hantu: 狼血爪
 archetype: Thợ Săn Trưởng
 race: Yêu Tộc
+dao_tam: Thợ săn giỏi nhất không phải kẻ giết nhiều nhất, mà là kẻ biết khi nào không nên giết
+aliases:
+  - "Vuốt Đẫm Máu" (染血之爪)"
+  - "Liệp Vương" (猎王) — Vua Săn"
+  - "danh hiệu dân bộ lạc tặng"
+origin: Bắc Băng — Rừng Tuyết biên thùy, di chuyển theo đàn thú di cư
+age: 400
+faction_rank: Thợ Săn Trưởng (猎首) — chỉ huy toàn bộ đội săn của bộ lạc
 avatar: ''
 arcs:
   - arc: 1

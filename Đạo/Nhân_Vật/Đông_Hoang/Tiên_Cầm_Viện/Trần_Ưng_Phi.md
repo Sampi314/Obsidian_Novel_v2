@@ -4,6 +4,8 @@ name: Trần Ưng Phi
 hantu: 陳鷹飛
 archetype: Trưởng Lão Linh Ca Đường
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Trưởng Lão Linh Ca Đường
 avatar: ''
 arcs:
   - arc: 1

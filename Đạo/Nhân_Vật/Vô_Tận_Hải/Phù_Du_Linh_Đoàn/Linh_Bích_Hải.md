@@ -4,6 +4,8 @@ name: Linh Bích Hải
 hantu: 灵碧海
 archetype: Phù Du Cổ
 race: Vi Tộc (Phù Du)
+origin: Vô Tận Hải
+faction_rank: Hạch Tâm Quần Thể
 avatar: ''
 arcs:
   - arc: 1

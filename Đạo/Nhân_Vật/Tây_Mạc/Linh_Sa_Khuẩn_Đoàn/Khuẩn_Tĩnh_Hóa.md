@@ -4,6 +4,8 @@ name: Khuẩn Tĩnh Hóa
 hantu: 菌淨化
 archetype: Tịnh Hóa Viên
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Tịnh Hóa Viên
 avatar: ''
 arcs:
   - arc: 1

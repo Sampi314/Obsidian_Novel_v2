@@ -4,6 +4,8 @@ name: Khuẩn Trầm Hương
 hantu: 菌沉香
 archetype: Dược Khuẩn Sư
 race: Vi Tộc
+origin: Tây Mạc
+faction_rank: Dược Khuẩn Sư
 avatar: ''
 arcs:
   - arc: 1

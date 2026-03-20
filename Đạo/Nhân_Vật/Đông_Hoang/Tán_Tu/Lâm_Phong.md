@@ -4,6 +4,7 @@ name: Lâm Phong
 hantu: 林風
 archetype: Cung Thủ
 race: Nhân Tộc
+age: 18
 avatar: Lâm_Phong.png
 arcs:
   - arc: 1

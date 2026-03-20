@@ -4,6 +4,8 @@ name: Lý Sơn Đao
 hantu: 李山刀
 archetype: Hắc Đao Trưởng Lão
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Hắc Đao Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

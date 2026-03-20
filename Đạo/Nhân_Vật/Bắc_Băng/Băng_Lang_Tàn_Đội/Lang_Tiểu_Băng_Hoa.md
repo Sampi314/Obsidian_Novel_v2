@@ -4,6 +4,14 @@ name: Lang Tiểu Băng Hoa
 hantu: 狼小冰花
 archetype: Sói Con
 race: Yêu Tộc
+dao_tam: Con muốn mạnh lên, để không ai phải chết vì bảo vệ con
+aliases:
+  - "Bông Tuyết" (雪花)"
+  - "Sói Con Xương Thủy Tinh" (玻璃骨狼崽)"
+  - "vì xương bà mỏng như thủy tinh"
+origin: Bắc Băng — Hang Suối Băng
+age: 40
+faction_rank: Không có chức vụ chính thức — sói con
 avatar: ''
 arcs:
   - arc: 1

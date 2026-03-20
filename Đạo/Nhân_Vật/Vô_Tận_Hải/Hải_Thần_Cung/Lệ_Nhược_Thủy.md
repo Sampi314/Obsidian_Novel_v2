@@ -4,6 +4,7 @@ name: Lệ Nhược Thủy
 hantu: 麗若水
 archetype: Hải Yêu Vương
 race: Hải Tộc
+age: 600
 avatar: Lệ_Nhược_Thủy.png
 arcs:
   - arc: 1

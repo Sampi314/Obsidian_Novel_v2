@@ -4,6 +4,13 @@ name: Nguyễn Đại Lực
 hantu: 阮大力
 archetype: Chiến Binh
 race: Nhân Tộc
+dao_tam: Dĩ Thân Hộ Dân
+aliases:
+  - "Gấu Tuyết Sơn (雪山熊)"
+  - "Thiết Tý (鐵臂 — "Cánh Tay Sắt")"
+origin: Bắc Băng
+age: 27
+faction_rank: Tổ Trưởng Tuần Tra (巡逻组长) của Hàn Dân Hộ Vệ Đội
 avatar: ''
 arcs:
   - arc: 1

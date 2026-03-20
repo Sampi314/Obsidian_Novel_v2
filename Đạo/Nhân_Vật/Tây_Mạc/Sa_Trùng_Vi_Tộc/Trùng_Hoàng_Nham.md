@@ -4,6 +4,9 @@ name: Trùng Hoàng Nham
 hantu: 蟲黃岩
 archetype: Chấn Động Sư
 race: Vi Tộc
+dao_tam: Tĩnh Thính
+origin: Tây Mạc
+faction_rank: Chấn Động Sư
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Phạm Hải Thanh
 hantu: 范海清
 archetype: Phó Hội Trưởng
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Phó Hội Trưởng / Đại Diện Đảo
 avatar: ''
 arcs:
   - arc: 1

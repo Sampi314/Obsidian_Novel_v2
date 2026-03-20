@@ -4,6 +4,8 @@ name: Giao Lệ Hoa Nguyệt
 hantu: 鲛淚花月
 archetype: Dệt Sư Tự Do
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Dệt Sư Tự Do
 avatar: ''
 arcs:
   - arc: 1

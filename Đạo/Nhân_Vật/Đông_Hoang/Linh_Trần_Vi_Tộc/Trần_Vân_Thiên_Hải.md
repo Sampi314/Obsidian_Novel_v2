@@ -4,6 +4,8 @@ name: Trần Vân Thiên Hải
 hantu: 塵雲天海
 archetype: Phiêu Du Thể
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Phiêu Du Thể
 avatar: ''
 arcs:
   - arc: 1

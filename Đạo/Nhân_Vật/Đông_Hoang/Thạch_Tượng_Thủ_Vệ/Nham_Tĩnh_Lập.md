@@ -4,6 +4,8 @@ name: Nham Tĩnh Lập
 hantu: 岩靜立
 archetype: Phó Thủ Vệ
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Phó Thủ Vệ
 avatar: ''
 arcs:
   - arc: 1

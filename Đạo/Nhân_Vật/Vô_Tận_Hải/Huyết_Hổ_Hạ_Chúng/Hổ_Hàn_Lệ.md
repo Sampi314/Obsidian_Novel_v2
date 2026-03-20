@@ -4,6 +4,8 @@ name: Hổ Hàn Lệ
 hantu: 虎寒淚
 archetype: Nữ Hổ
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Nữ Hổ
 avatar: ''
 arcs:
   - arc: 1

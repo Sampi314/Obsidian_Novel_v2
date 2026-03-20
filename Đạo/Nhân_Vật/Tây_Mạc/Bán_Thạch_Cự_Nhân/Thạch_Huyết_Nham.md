@@ -4,6 +4,8 @@ name: Thạch Huyết Nham
 hantu: 石血岩
 archetype: Trưởng Lão
 race: Hỗn huyết (Cự Tộc, Thạch Tộc)
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

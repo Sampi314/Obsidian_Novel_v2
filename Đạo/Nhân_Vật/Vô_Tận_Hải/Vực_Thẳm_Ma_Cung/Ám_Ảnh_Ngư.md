@@ -4,6 +4,8 @@ name: Ám Ảnh Ngư
 hantu: 暗影鱼
 archetype: Sát Thủ
 race: Thủy Ma
+origin: Vô Tận Hải
+faction_rank: Sát Thủ Tinh Nhuệ
 avatar: ''
 arcs:
   - arc: 1

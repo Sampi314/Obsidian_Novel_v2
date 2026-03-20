@@ -4,6 +4,9 @@ name: Ngư Kim Lân
 hantu: 魚金鱗
 archetype: Chiến Sĩ
 race: Hải Tộc
+dao_tam: Hộ San Bất Thoái
+origin: Tây Mạc
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

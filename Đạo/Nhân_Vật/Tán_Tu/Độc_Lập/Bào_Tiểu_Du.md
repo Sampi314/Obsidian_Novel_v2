@@ -4,6 +4,12 @@ name: Bào Tiểu Du
 hantu: 孢小遊
 archetype: Phiêu Lưu Gia
 race: Vi Tộc
+dao_tam: Vi Du Đạo
+aliases:
+  - "Bào Tử Du Ký (孢子遊記)"
+  - "ý chỉ "cái bào tử hay lang thang khắp nơi"
+origin: Lang thang — không có nơi cư trú cố định
+faction_rank: Tán tu Vi Tộc phiêu lưu độc lập
 avatar: ''
 arcs:
   - arc: 1

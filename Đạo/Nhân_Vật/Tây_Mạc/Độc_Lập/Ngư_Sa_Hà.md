@@ -4,6 +4,8 @@ name: Ngư Sa Hà
 hantu: 魚沙河
 archetype: Hướng Dẫn
 race: Hải Tộc
+origin: Tây Mạc
+faction_rank: Hướng Dẫn
 avatar: ''
 arcs:
   - arc: 1

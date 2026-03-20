@@ -4,6 +4,8 @@ name: Hắc Phong
 hantu: 黑风
 archetype: Cốc Chủ
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Cốc Chủ
 avatar: ''
 arcs:
   - arc: 1

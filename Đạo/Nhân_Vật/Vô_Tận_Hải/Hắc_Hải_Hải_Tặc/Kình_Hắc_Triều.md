@@ -4,6 +4,8 @@ name: Kình Hắc Triều
 hantu: 鯨黑潮
 archetype: Vận Tải Trưởng
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Vận Tải Trưởng
 avatar: ''
 arcs:
   - arc: 1

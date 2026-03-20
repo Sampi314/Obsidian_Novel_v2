@@ -4,6 +4,12 @@ name: Hải Thiên Hà
 hantu: 海天河
 archetype: Thái Tử
 race: Hải Tộc
+dao_tam: Dĩ Lực Chấn Hải, Bá Chủ Vạn Trào
+aliases:
+  - "Cuồng Lãng Thái Tử (狂浪太子 — "Thái Tử Sóng Dữ")"
+  - "Ngân Giáp Chiến Thần (銀甲戰神)"
+origin: Vô Tận Hải — thường xuyên ở ngoài chiến trường hơn là trong Thủy Tinh Cung
+faction_rank: Thái Tử (太子)
 avatar: ''
 arcs:
   - arc: 1

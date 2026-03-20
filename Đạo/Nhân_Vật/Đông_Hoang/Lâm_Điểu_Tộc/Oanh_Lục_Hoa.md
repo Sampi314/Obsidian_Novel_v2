@@ -4,6 +4,8 @@ name: Oanh Lục Hoa
 hantu: 鶯綠花
 archetype: Ca Sĩ
 race: Vũ Tộc
+origin: Đông Hoang
+faction_rank: Ca Sĩ
 avatar: ''
 arcs:
   - arc: 1

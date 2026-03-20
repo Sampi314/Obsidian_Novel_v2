@@ -4,6 +4,8 @@ name: Thạch Tiểu Lực
 hantu: 石小力
 archetype: Phó Đoàn Trưởng
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Phó Đoàn Trưởng
 avatar: ''
 arcs:
   - arc: 1

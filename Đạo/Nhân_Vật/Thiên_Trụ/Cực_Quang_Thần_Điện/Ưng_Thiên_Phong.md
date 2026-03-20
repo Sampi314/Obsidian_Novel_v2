@@ -4,6 +4,14 @@ name: Ưng Thiên Phong
 hantu: 鷹天風
 archetype: Trinh Sát Đội Trưởng
 race: Vũ Tộc
+lingan: Song linh căn
+dao_tam: Nhìn rõ tất cả, để không ai phải chết vì mù quáng
+aliases:
+  - "Thiên Nhãn" (天眼)"
+  - "và phân biệt được kẻ thù đang ngủ hay giả ngủ ở khoảng cách nghìn trượng"
+origin: Thiên Trụ — Bắc Băng
+age: 166
+faction_rank: Trinh Sát Đội Trưởng (偵察隊長)
 avatar: ''
 arcs:
   - arc: 1

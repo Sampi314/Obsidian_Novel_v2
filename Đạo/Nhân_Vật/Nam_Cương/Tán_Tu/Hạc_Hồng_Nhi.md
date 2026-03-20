@@ -4,6 +4,8 @@ name: Hạc Hồng Nhi
 hantu: 鶴紅兒
 archetype: Thợ Săn
 race: Vũ Tộc
+origin: Nam Cương
+faction_rank: Thợ Săn
 avatar: ''
 arcs:
   - arc: 1

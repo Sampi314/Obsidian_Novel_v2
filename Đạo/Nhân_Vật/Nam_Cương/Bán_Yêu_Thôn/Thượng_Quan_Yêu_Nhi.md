@@ -4,6 +4,8 @@ name: Thượng Quan Yêu Nhi
 hantu: 上官妖兒
 archetype: Đội Trưởng Tuần Tra
 race: Bán Yêu
+origin: Nam Cương
+faction_rank: Đội Trưởng Tuần Tra
 avatar: ''
 arcs:
   - arc: 1

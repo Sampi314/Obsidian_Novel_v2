@@ -4,6 +4,10 @@ name: Hắc Vĩ
 hantu: 黑尾
 archetype: Phó Tộc Trưởng
 race: Yêu Tộc (Xà Tộc)
+aliases:
+  - "Hắc Xà Hình Sứ (黑蛇刑使)"
+  - "vừa sợ vừa kính. Lũ xà non nghe tên hắn là thu mình im lặng"
+faction_rank: Phó Tộc Trưởng Lục Mãng Hạ Tộc
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Ba Thiết Phong
 hantu: 波铁锋
 archetype: Thống Lĩnh
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Thống Lĩnh Kình Vệ Quân
 avatar: ''
 arcs:
   - arc: 1

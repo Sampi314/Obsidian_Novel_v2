@@ -4,6 +4,12 @@ name: Hứa Nhược Thủy
 hantu: 許若水
 archetype: Thương Nhân
 race: Nhân Tộc
+lingan: Thủy - Mộc (Song Linh Căn)
+dao_tam: Thương Đạo Vô Tình
+aliases:
+  - "Sa Dược Phu Nhân (沙藥夫人)"
+age: 450
+faction_rank: Gia Chủ Sa Dược Hứa Gia
 avatar: Hứa_Nhược_Thủy.png
 arcs:
   - arc: 1

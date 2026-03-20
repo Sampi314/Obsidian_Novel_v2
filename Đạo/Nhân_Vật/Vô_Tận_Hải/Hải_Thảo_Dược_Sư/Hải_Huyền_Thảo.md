@@ -4,6 +4,13 @@ name: Hải Huyền Thảo
 hantu: 海玄草
 archetype: Dược Sư
 race: Hải Tộc
+lingan: Thủy-Thổ Song Linh Căn (Hạ phẩm
+dao_tam: Thân Như Đá Ngầm, Tâm Như Nước Lặng
+aliases:
+  - "Thâm Uyên Hành Giả (深淵行者)"
+  - "Huyền Giáp (玄甲)"
+age: 112
+faction_rank: Dược Sư Thu Hoạch của Hải Thảo Dược Sư
 avatar: ''
 arcs:
   - arc: 1

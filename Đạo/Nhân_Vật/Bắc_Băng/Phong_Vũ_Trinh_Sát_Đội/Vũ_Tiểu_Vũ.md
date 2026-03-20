@@ -4,6 +4,13 @@ name: Vũ Tiểu Vũ
 hantu: 羽小雨
 archetype: Đội Trưởng
 race: Vũ Tộc
+dao_tam: Cánh nhỏ vẫn xé gió
+aliases:
+  - "Vũ Điên" (羽癲)"
+  - "liều lĩnh đến mức ai cũng nghĩ hắn điên"
+origin: Bắc Băng — hoạt động tuần tra vùng trời tầm thấp quanh chân Tuyết Sơn
+age: 16
+faction_rank: Đội Trưởng — người sáng lập
 avatar: ''
 arcs:
   - arc: 1

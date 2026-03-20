@@ -4,6 +4,9 @@ name: Hoàng Dược Sư
 hantu: 黄药师
 archetype: Dược Sư
 race: Nhân Tộc
+dao_tam: Y đạo cứu thế
+origin: Bắc Băng
+faction_rank: Dược Sư Trưởng
 avatar: ''
 arcs:
   - arc: 1

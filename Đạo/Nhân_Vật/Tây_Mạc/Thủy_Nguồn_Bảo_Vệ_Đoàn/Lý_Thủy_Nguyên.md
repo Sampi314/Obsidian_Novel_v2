@@ -4,6 +4,9 @@ name: Lý Thủy Nguyên
 hantu: 李水源
 archetype: Viện Chủ Thủy Nguyên
 race: Nhân Tộc
+dao_tam: Tầm Nguyên Chí Thanh
+origin: Tây Mạc
+faction_rank: Viện Chủ Thủy Nguyên
 avatar: ''
 arcs:
   - arc: 1

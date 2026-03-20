@@ -4,6 +4,8 @@ name: Mộng Yểm
 hantu: 夢魘
 archetype: Trưởng Lão Tế Tư
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Trưởng Lão Tế Tư
 avatar: ''
 arcs:
   - arc: 1

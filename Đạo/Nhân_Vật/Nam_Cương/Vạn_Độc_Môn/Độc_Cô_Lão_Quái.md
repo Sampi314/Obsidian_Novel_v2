@@ -4,6 +4,9 @@ name: Độc Cô Lão Quái
 hantu: 独孤老怪
 archetype: Độc Sư
 race: Nhân Tộc
+lingan: Mộc - Độc Linh Căn (Biến Dị, cực hiếm)
+age: 1300
+faction_rank: - Môn Chủ Vạn Độc Môn (Đời thứ 12)
 avatar: Độc_Cô_Lão_Quái.png
 arcs:
   - arc: 1

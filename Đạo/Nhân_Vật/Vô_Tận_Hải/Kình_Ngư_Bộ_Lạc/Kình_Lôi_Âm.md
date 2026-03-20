@@ -4,6 +4,8 @@ name: Kình Lôi Âm
 hantu: 鯨雷音
 archetype: Hộ Vệ
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Hộ Vệ
 avatar: ''
 arcs:
   - arc: 1

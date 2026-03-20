@@ -4,6 +4,8 @@ name: Hà Phong Vân Hải
 hantu: 蝦風雲海
 archetype: Phiêu Lưu Gia
 race: Hải Tộc
+origin: Vô Tận Hải
+faction_rank: Phiêu Lưu Gia
 avatar: ''
 arcs:
   - arc: 1

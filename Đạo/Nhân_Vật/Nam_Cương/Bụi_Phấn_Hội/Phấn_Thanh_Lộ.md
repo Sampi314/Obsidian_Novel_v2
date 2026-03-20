@@ -4,6 +4,8 @@ name: Phấn Thanh Lộ
 hantu: 粉清露
 archetype: Phấn Sư
 race: Vi Tộc
+origin: Nam Cương
+faction_rank: Phấn Sư
 avatar: ''
 arcs:
   - arc: 1

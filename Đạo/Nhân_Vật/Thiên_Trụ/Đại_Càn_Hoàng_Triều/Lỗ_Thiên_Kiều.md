@@ -4,6 +4,8 @@ name: Lỗ Thiên Kiều
 hantu: 魯天橋
 archetype: Công Bộ Thượng Thư
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Công Bộ Thượng Thư
 avatar: ''
 arcs:
   - arc: 1

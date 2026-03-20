@@ -4,6 +4,8 @@ name: Mạc Ám
 hantu: 莫暗
 archetype: Nội Môn Đệ Tử
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Nội Môn Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

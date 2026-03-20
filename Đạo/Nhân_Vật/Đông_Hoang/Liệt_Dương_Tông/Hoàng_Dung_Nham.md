@@ -4,6 +4,8 @@ name: Hoàng Dung Nham
 hantu: 黃熔岩
 archetype: Hộ Pháp
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

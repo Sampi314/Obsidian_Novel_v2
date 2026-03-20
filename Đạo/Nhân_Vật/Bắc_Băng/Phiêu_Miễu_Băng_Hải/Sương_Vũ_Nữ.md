@@ -4,6 +4,8 @@ name: Sương Vũ Nữ
 hantu: 霜舞女
 archetype: Chân Truyền
 race: Nhân Tộc
+origin: Bắc Băng
+faction_rank: Chân Truyền Vũ Nữ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,11 @@ name: Mạch Phiêu Bạc
 hantu: 脈漂泊
 archetype: Thương Nhân Lưu Động
 race: Vi Tộc
+dao_tam: Lưu Thương Đạo
+aliases:
+  - "Vi Mạch Thương Thần (微脈商神)"
+origin: Lang thang
+faction_rank: Thương nhân Vi Tộc lưu động
 avatar: ''
 arcs:
   - arc: 1

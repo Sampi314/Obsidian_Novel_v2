@@ -4,6 +4,13 @@ name: Phổ Tế
 hantu: 普济
 archetype: Trưởng Lão Phổ Độ
 race: Nhân Tộc
+dao_tam: Phổ Độ Vô Biên
+aliases:
+  - "Cam Lộ Tăng (甘露僧"
+  - "Sa Mạc Dược Phật (沙漠药佛"
+origin: Tây Mạc — Kim Sa Nguyên, thường xuyên di chuyển giữa các ốc đảo
+age: 230
+faction_rank: Trưởng Lão Phổ Độ (普度长老) — đứng đầu Phổ Độ Đường
 avatar: ''
 arcs:
   - arc: 1

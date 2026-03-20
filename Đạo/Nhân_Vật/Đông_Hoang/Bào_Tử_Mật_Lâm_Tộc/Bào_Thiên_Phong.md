@@ -4,6 +4,9 @@ name: Bào Thiên Phong
 hantu: 孢千風
 archetype: Phát Tán Sư
 race: Vi Tộc
+dao_tam: Tùy Phong Nhi Hành, Vô Viễn Phất Giới
+origin: Đông Hoang
+faction_rank: Phát Tán Sư
 avatar: ''
 arcs:
   - arc: 1

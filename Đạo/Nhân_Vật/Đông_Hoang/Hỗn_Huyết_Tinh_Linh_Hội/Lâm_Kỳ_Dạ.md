@@ -4,6 +4,8 @@ name: Lâm Kỳ Dạ
 hantu: 林奇夜
 archetype: Đại Địa Cảm Ứng Sư
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Đại Địa Cảm Ứng Sư
 avatar: ''
 arcs:
   - arc: 1

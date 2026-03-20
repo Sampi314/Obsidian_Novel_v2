@@ -4,6 +4,15 @@ name: Miêu Tuyết Ngọc
 hantu: 猫雪玉
 archetype: Dược Sư
 race: Yêu Tộc
+lingan: Thiên Linh Căn Thủy (yêu tộc không phân loại linh căn như nhân tộc, nhưng nàng có ái lực với linh khí Thủy cực kỳ mạnh — tự nhiên như hơi thở)
+dao_tam: Mùi hương không nói dối. Con người có thể giấu sự thật, nhưng dược liệu thì không
+aliases:
+  - "Ngọc Tỵ Tiên Nữ" (玉鼻仙女)"
+  - "tỷ lệ"
+  - "và cả chất lượng của dược liệu. Ngoài ra"
+origin: Bắc Băng — Thung lũng Mùa Đông, dãy Thiên Sơn
+age: 203
+faction_rank: Dược Sư Thú Bạn (药师兽伴)
 avatar: ''
 arcs:
   - arc: 1

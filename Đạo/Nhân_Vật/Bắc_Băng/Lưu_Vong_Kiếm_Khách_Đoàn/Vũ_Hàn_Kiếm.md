@@ -4,6 +4,16 @@ name: Vũ Hàn Kiếm
 hantu: 武寒剑
 archetype: Kiếm Khách
 race: Nhân Tộc
+lingan: Trung phẩm thiên Băng
+dao_tam: Vâng Mệnh Là Đạo
+aliases:
+  - "Gã Câm Thứ Hai" (第二哑巴)"
+  - "Tân Nhân" (新人)"
+  - "Mật Kiếm" (密剑)"
+  - "ám chỉ kiếm pháp quá hoàn chỉnh đáng ngờ"
+origin: Bắc Băng — hẻm núi phụ, trụ sở Lưu Vong Kiếm Khách Đoàn
+age: 23
+faction_rank: Kiếm Khách (tân nhân)
 avatar: ''
 arcs:
   - arc: 1

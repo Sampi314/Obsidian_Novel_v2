@@ -4,6 +4,16 @@ name: Khuẩn Lưu Ly
 hantu: 菌琉璃
 archetype: Nghệ Nhân Pha Lê
 race: Vi Tộc
+aliases:
+  - "Sắc Sư" (色師)"
+  - "vì hắn là cá thể duy nhất trong toàn tộc có khả năng phát quang đa sắc"
+  - "hồng"
+  - "lục"
+  - "và vàng nhạt. Đây là đặc tính sinh học cực hiếm"
+  - "biến hắn thành nghệ nhân bẩm sinh"
+origin: Bắc Băng
+age: 3
+faction_rank: Nghệ Nhân Pha Lê — tạo ra các tác phẩm tinh thể trang trí
 avatar: ''
 arcs:
   - arc: 1

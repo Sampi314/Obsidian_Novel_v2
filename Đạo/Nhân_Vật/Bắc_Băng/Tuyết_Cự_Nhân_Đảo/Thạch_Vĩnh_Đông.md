@@ -4,6 +4,12 @@ name: Thạch Vĩnh Đông
 hantu: 石永冬
 archetype: Tuyết Vu
 race: Cự Tộc
+dao_tam: Phong Trung Cầu Đạo
+aliases:
+  - "Phong Ngữ Vu (风语巫"
+  - "Mắt Bão Tuyết (暴雪之眼)"
+origin: Bắc Băng
+faction_rank: Tuyết Vu (雪巫) — một trong năm Tuyết Vu của Tuyết Vu Các
 avatar: ''
 arcs:
   - arc: 1

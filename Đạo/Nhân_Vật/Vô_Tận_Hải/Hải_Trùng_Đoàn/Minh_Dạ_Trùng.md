@@ -4,6 +4,8 @@ name: Minh Dạ Trùng
 hantu: 鳴夜蟲
 archetype: Truyền Tin
 race: Trùng Tộc
+origin: Vô Tận Hải
+faction_rank: Truyền Tin
 avatar: ''
 arcs:
   - arc: 1

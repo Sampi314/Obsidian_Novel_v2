@@ -4,6 +4,8 @@ name: Trương Phách
 hantu: 張魄
 archetype: Huyết Nô Viện Chủ
 race: Nhân Tộc
+origin: Nam Cương
+faction_rank: Huyết Nô Viện Chủ
 avatar: ''
 arcs:
   - arc: 1

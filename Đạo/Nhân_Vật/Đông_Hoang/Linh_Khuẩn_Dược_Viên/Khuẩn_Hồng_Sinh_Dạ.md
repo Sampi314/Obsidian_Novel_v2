@@ -4,6 +4,8 @@ name: Khuẩn Hồng Sinh Dạ
 hantu: 菌紅生夜
 archetype: Cộng Sinh Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Cộng Sinh Sư
 avatar: ''
 arcs:
   - arc: 1

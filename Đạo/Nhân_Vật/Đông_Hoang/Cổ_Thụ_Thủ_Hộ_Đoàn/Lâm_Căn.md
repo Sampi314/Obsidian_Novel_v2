@@ -4,6 +4,8 @@ name: Lâm Căn
 hantu: 林根
 archetype: Hộ Thụ Sĩ
 race: Tinh Linh Tộc
+origin: Đông Hoang
+faction_rank: Hộ Thụ Sĩ
 avatar: ''
 arcs:
   - arc: 1

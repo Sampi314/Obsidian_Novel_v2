@@ -4,6 +4,8 @@ name: Trần Thiên Quang
 hantu: 塵千光
 archetype: Dạ Quang Đoàn
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Dạ Quang Đoàn
 avatar: ''
 arcs:
   - arc: 1

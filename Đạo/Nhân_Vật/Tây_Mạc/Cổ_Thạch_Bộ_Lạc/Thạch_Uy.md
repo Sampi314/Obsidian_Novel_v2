@@ -4,6 +4,9 @@ name: Thạch Uy
 hantu: 石威
 archetype: Chiến Thạch Thần
 race: Thạch Tộc
+dao_tam: Nham Bất Động
+origin: Tây Mạc
+faction_rank: Chiến Thạch Thần
 avatar: ''
 arcs:
   - arc: 1

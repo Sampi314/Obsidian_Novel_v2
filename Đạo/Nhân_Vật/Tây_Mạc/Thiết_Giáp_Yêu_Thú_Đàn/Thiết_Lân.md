@@ -4,6 +4,8 @@ name: Thiết Lân
 hantu: 铁鳞
 archetype: Cận Vệ
 race: Yêu Tộc (Trùng)
+origin: Tây Mạc
+faction_rank: Cận Vệ
 avatar: ''
 arcs:
   - arc: 1

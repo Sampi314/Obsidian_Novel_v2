@@ -4,6 +4,8 @@ name: Nham Vu Huyết
 hantu: 岩巫血
 archetype: Đại Tế Tư
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Đại Tế Tư
 avatar: ''
 arcs:
   - arc: 1

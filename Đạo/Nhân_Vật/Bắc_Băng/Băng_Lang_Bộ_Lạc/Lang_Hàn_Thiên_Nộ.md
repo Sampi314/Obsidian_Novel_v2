@@ -4,6 +4,15 @@ name: Lang Hàn Thiên Nộ
 hantu: 狼寒天怒
 archetype: Đại Tướng Quân
 race: Yêu Tộc
+dao_tam: Sói chiến sinh ra để chiến, chết trên chiến trường mới xứng là sói
+aliases:
+  - "Sấm Tuyết" (雪雷)"
+  - "khiến cả kẻ thù lẫn đồng minh đều rung chuyển"
+  - "Lão Nộ" (老怒)"
+  - "kể cả khi đang vui"
+origin: Bắc Băng
+age: 780
+faction_rank: Đại Tướng Quân (大将军)
 avatar: ''
 arcs:
   - arc: 1

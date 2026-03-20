@@ -4,6 +4,8 @@ name: Trần Phi Tín
 hantu: 陳飛信
 archetype: Truyền Thư Sứ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Truyền Thư Sứ
 avatar: ''
 arcs:
   - arc: 1

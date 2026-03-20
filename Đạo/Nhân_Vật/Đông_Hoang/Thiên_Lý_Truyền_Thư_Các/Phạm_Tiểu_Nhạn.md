@@ -4,6 +4,8 @@ name: Phạm Tiểu Nhạn
 hantu: 范小雁
 archetype: Đưa Thư Viên
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đưa Thư Viên
 avatar: ''
 arcs:
   - arc: 1

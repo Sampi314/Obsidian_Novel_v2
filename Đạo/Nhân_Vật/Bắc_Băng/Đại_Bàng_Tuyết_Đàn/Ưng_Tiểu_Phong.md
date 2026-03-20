@@ -4,6 +4,8 @@ name: Ưng Tiểu Phong
 hantu: 鹰小风
 archetype: Ấu Ưng
 race: Yêu Tộc
+origin: Bắc Băng
+faction_rank: Học Viên Ấu Ưng
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Sơn Tiểu Hộ
 hantu: 山小護
 archetype: Thủ Hộ
 race: Cự Tộc
+origin: Đông Hoang
+faction_rank: Thủ Hộ
 avatar: ''
 arcs:
   - arc: 1

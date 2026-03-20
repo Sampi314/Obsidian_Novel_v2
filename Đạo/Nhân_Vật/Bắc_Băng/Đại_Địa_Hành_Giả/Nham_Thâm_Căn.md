@@ -4,6 +4,14 @@ name: Nham Thâm Căn
 hantu: 岩深根
 archetype: Hành Giả
 race: Cự Tộc
+lingan: Thổ Linh Căn đơn hệ (土灵根)
+dao_tam: Căn Thâm Bất Động
+aliases:
+  - "Lão Rễ Đá (老石根"
+  - "Trầm Mặc Hành Giả (沉默行者"
+origin: Bắc Băng
+age: 187
+faction_rank: Hành Giả thâm niên nhất của Đại Địa Hành Giả
 avatar: ''
 arcs:
   - arc: 1

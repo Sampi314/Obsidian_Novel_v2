@@ -4,6 +4,8 @@ name: Lôi Phong
 hantu: 雷風
 archetype: Đệ Nhị Hộ Pháp
 race: Nhân Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Nhị Hộ Pháp
 avatar: ''
 arcs:
   - arc: 1

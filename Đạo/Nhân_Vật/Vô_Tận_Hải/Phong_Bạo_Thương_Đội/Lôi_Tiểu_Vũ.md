@@ -4,6 +4,9 @@ name: Lôi Tiểu Vũ
 hantu: 雷小雨
 archetype: Thuyền Trưởng
 race: Nhân Tộc
+dao_tam: Lôi Thanh Vạn Lý
+origin: Vô Tận Hải
+faction_rank: Thuyền Trưởng Kỳ Hạm
 avatar: ''
 arcs:
   - arc: 1

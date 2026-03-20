@@ -4,6 +4,9 @@ name: Giao Vân Thiên
 hantu: 鲛雲天
 archetype: Lưu Vong
 race: Hải Tộc
+dao_tam: Thủy Vân Tự Tại
+origin: Thiên Trụ
+faction_rank: Lưu Vong
 avatar: ''
 arcs:
   - arc: 1

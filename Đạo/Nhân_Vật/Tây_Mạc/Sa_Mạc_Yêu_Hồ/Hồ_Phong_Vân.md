@@ -4,6 +4,8 @@ name: Hồ Phong Vân
 hantu: 狐風雲
 archetype: Đệ Tử
 race: Yêu Tộc
+origin: Tây Mạc
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

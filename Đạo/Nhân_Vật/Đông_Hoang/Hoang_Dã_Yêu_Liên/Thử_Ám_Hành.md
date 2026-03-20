@@ -4,6 +4,8 @@ name: Thử Ám Hành
 hantu: 鼠暗行
 archetype: Gián Điệp
 race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Gián Điệp
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Trần Tiểu Huyết
 hantu: 陳小血
 archetype: Đệ Tử
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Đệ Tử
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Long Vân Nhi
 hantu: 龙云儿
 archetype: Giáo Sư
 race: Long Tộc
+origin: Vô Tận Hải
+faction_rank: Giáo Sư Giao Long
 avatar: ''
 arcs:
   - arc: 1

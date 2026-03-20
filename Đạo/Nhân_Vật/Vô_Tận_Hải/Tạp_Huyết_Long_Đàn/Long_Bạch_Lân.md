@@ -4,6 +4,8 @@ name: Long Bạch Lân
 hantu: 龙白鳞
 archetype: Trưởng Lão
 race: Long Tộc (Tạp Huyết)
+origin: Vô Tận Hải
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

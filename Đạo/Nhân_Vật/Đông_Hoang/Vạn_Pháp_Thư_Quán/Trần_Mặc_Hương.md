@@ -4,6 +4,8 @@ name: Trần Mặc Hương
 hantu: 陳墨香
 archetype: Phó Quán Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phó Quán Chủ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Giao Thiên Lệ Vũ
 hantu: 鲛天淚雨
 archetype: Ngọc Trai Sư
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Ngọc Trai Sư
 avatar: ''
 arcs:
   - arc: 1

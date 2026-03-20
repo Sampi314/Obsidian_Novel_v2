@@ -4,6 +4,8 @@ name: Ngư Hồ Tiên
 hantu: 魚湖仙
 archetype: Hồ Cư Dân
 race: Hải Tộc
+origin: Đông Hoang
+faction_rank: Hồ Cư Dân
 avatar: ''
 arcs:
   - arc: 1

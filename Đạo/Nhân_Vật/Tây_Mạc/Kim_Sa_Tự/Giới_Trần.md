@@ -4,6 +4,8 @@ name: Giới Trần
 hantu: 戒尘
 archetype: Trưởng Lão
 race: Nhân Tộc
+origin: Tây Mạc
+faction_rank: Trưởng Lão
 avatar: ''
 arcs:
   - arc: 1

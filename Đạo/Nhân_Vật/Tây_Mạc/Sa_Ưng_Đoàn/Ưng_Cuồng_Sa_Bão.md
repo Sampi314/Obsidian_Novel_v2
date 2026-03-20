@@ -4,6 +4,13 @@ name: Ưng Cuồng Sa Bão
 hantu: 鷹狂沙暴
 archetype: Chiến Tướng
 race: Vũ Tộc
+dao_tam: Cuồng Phong Toái Thạch
+aliases:
+  - "Cuồng Phong Chiến Thần (狂風戰神"
+  - "Sa Mạc Bạo Long (沙漠暴龍 — "Bạo Long Sa Mạc")"
+origin: Tây Mạc
+age: 312
+faction_rank: Chiến Tướng (戰將) của Sa Ưng Đoàn
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Hạc Tuyết Lông
 hantu: 鶴雪翎
 archetype: Dệt Sư
 race: Vũ Tộc
+origin: Thiên Trụ
+faction_rank: Dệt Sư
 avatar: ''
 arcs:
   - arc: 1

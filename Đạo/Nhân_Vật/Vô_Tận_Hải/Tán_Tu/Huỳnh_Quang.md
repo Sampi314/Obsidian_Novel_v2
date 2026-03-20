@@ -4,6 +4,9 @@ name: Huỳnh Quang
 hantu: 螢光
 archetype: Dẫn Đường
 race: Trùng Tộc
+dao_tam: Chiếu Sáng Vô Điều Kiện
+origin: Vô Tận Hải
+faction_rank: Dẫn Đường
 avatar: ''
 arcs:
   - arc: 1

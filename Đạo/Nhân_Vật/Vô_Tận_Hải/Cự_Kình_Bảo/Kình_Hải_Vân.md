@@ -4,6 +4,8 @@ name: Kình Hải Vân
 hantu: 鲸海云
 archetype: Phó Thành Chủ
 race: Nhân Tộc
+origin: Vô Tận Hải
+faction_rank: Phó Thành Chủ
 avatar: ''
 arcs:
   - arc: 1

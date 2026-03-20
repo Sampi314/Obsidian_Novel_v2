@@ -4,6 +4,8 @@ name: Sơn Tiểu Thạch
 hantu: 山小石
 archetype: Đệ Thập Nhị Hỏa Sư
 race: Lai Cự Tộc
+origin: Thiên Trụ
+faction_rank: Đệ Thập Nhị Hỏa Sư — thứ hạng cuối trong Thập Nhị Hỏa Sư
 avatar: ''
 arcs:
   - arc: 1

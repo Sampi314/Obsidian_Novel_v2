@@ -4,6 +4,8 @@ name: Ưng Sương Cầm
 hantu: 鷹霜禽
 archetype: Chiến Sĩ Trẻ
 race: Vũ Tộc
+origin: Bắc Băng
+faction_rank: Chiến Sĩ Trẻ
 avatar: ''
 arcs:
   - arc: 1

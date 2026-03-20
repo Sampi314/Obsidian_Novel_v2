@@ -4,6 +4,8 @@ name: Hổ Tuyết Vân
 hantu: 虎雪雲
 archetype: Chiến Sĩ
 race: Yêu Tộc
+origin: Vô Tận Hải
+faction_rank: Chiến Sĩ
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,9 @@ name: Bạch Quang Niên
 hantu: 白光年
 archetype: Không Gian Học Giả
 race: Nhân Tộc
+dao_tam: Không gian không trống rỗng — nó đang nói, chỉ là ta chưa nghe thấy
+origin: Thiên Trụ
+faction_rank: Không Gian Học Giả
 avatar: ''
 arcs:
   - arc: 1

@@ -4,6 +4,8 @@ name: Đặng Công Mẫu
 hantu: 鄧工母
 archetype: Phường Chủ
 race: Nhân Tộc
+origin: Đông Hoang
+faction_rank: Phường Chủ
 avatar: ''
 arcs:
   - arc: 1

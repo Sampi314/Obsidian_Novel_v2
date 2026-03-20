@@ -4,6 +4,8 @@ name: Nấm Ngọc Tán
 hantu: 菌玉傘
 archetype: Dược Sư
 race: Vi Tộc
+origin: Đông Hoang
+faction_rank: Dược Sư
 avatar: ''
 arcs:
   - arc: 1
