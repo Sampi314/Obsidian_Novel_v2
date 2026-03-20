@@ -690,6 +690,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hỏa Tiểu Viêm (Học Việc)**: Linh hoạt, năng nổ nhưng bộp chộp. Thích thử nghiệm công thức nổ mới, mang trong mình giấc mơ rèn pháp bảo trả thù cho bộ lạc.
 
 ## Cập Nhật Mới
+- **Nhân Vật Mới Điền Chi Tiết:** Hoàng Tuyết Liên, Hà Trận Linh, Hà Tử Phong (Cửu Hoa Kiếm Tông - Đông Hoang).
 - **Nhân Vật Mới Điền Chi Tiết:** Phong Nha, Phong Ảnh, Sa Quỷ (Phong Sát Cốc - Tây Mạc).
 - **Nhân Vật Mới Điền Chi Tiết:** Lý Cuồng Phong, Phong Cuồng, Phong Liệt (Phong Sát Cốc - Tây Mạc).
 - **Nhân Vật Mới Điền Chi Tiết:** Trùng Thiên Lý Nhãn, Trùng Thính Phong, Trùng Tiểu Mật (Vi Trùng Trinh Sát Đội - Tây Mạc).

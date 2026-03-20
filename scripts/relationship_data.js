@@ -25830,6 +25830,51 @@ const relationshipData = {
       "race": "Nhân Tộc",
       "personality": "Bộc trực, Nóng nảy, Trọng tình nghĩa",
       "description": "Hoàng Hồng Vũ là một nam tử vạm vỡ, để râu quai nón, luôn khoác trên mình bộ hồng y đặc trưng của Hồng Hoa Phong cùng một thanh cự kiếm màu đỏ rực đeo sau lưng. Tính cách y bộc trực, nóng nảy và vô cùng hiếu chiến, hệt như ngọn lửa cháy rực. Tuy nhiên, đằng sau vẻ ngoài thô lỗ đó lại là một người trọng tình trọng nghĩa, luôn sẵn sàng xả thân để bảo vệ sư huynh đệ đồng môn."
+    },
+    {
+      "id": "hoang_tuyet_lien",
+      "name": "Hoàng Tuyết Liên",
+      "title": "Chân Truyền",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#f0f8ff",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tuyết Liên Phá Không Trảm",
+      "personality": "Kiêu ngạo, Chính trực, Lạnh lùng",
+      "description": "Ngoại hình thanh tao thoát tục, tựa đóa tuyết liên nở rộ trên đỉnh Cửu Hoa. Nàng luôn khoác đạo bào màu trắng tinh khôi, ánh mắt sắc lạnh như sương, toát lên khí chất kiêu ngạo nhưng chính trực."
+    },
+    {
+      "id": "ha_tran_linh",
+      "name": "Hà Trận Linh",
+      "title": "Chân Truyền",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "key_member",
+      "pov": false,
+      "avatar_color": "#9c27b0",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tử Hoa Huyễn Trận Khí",
+      "personality": "Điềm đạm, Cẩn thận, Tính toán",
+      "description": "Khuôn mặt thanh thoát, luôn mang nụ cười nhẹ nhàng và đôi mắt sâu thẳm ẩn chứa sự tính toán. Hắn ăn mặc chỉnh tề, trang phục luôn điểm xuyết những hoa văn trận pháp tinh xảo."
+    },
+    {
+      "id": "ha_tu_phong",
+      "name": "Hà Tử Phong",
+      "title": "Nội Môn",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Viêm Tử Phá Trận Thuật",
+      "personality": "Nóng nảy, Bộc trực, Thích thử nghiệm",
+      "description": "Dáng người vạm vỡ, tóc búi cao có phần lộn xộn, trên người luôn tỏa ra mùi thuốc súng và linh phù chưa hoàn thiện. Tự xem mình là một 'sáng tạo gia' của trận pháp bạo phá."
     }
   ],
   "relationships": [
@@ -59562,6 +59607,54 @@ const relationshipData = {
       "target": "ho_nguyet_nhi",
       "type": "ally",
       "description": "Yêu Hồ biết sự tồn tại của Cổ Sa, để yên thì tốt — động vào thì diệt"
+    },
+    {
+      "source": "le_han_suong",
+      "target": "hoang_tuyet_lien",
+      "type": "Sư Đồ",
+      "strength": 80,
+      "bidirectional": true,
+      "description": "Sư tôn đáng kính, người truyền dạy toàn bộ kiếm pháp và rèn giũa đạo tâm cho nàng."
+    },
+    {
+      "source": "truong_bach_kiem",
+      "target": "hoang_tuyet_lien",
+      "type": "Đồng Môn",
+      "strength": 60,
+      "bidirectional": true,
+      "description": "Đại sư huynh cùng phong, thường xuyên luận bàn kiếm thuật, là đối thủ cạnh tranh gay gắt nhưng tôn trọng lẫn nhau."
+    },
+    {
+      "source": "hoang_tuyet_lien",
+      "target": "ha_tran_linh",
+      "type": "Bằng Hữu",
+      "strength": 85,
+      "bidirectional": true,
+      "description": "Bạn chí giao từ thuở nhỏ, thường xuyên hỗ trợ nàng về mặt trận pháp bảo mệnh."
+    },
+    {
+      "source": "ma_tu_van",
+      "target": "ha_tran_linh",
+      "type": "Sư Đồ",
+      "strength": 75,
+      "bidirectional": true,
+      "description": "Ân sư, người dẫn dắt hắn vào con đường nghiên cứu trận pháp chuyên sâu."
+    },
+    {
+      "source": "ha_tran_linh",
+      "target": "ha_tu_phong",
+      "type": "Gia Đình",
+      "strength": 90,
+      "bidirectional": true,
+      "description": "Hà Tử Phong là em trai ruột, cũng là niềm tự hào và nỗi lo lớn nhất của hắn. Trận Linh luôn phải đứng ra thu dọn những bãi chiến trường lộn xộn sau mỗi lần Tử Phong thử nghiệm thất bại."
+    },
+    {
+      "source": "vuong_tieu_kim",
+      "target": "ha_tu_phong",
+      "type": "Đồng Môn",
+      "strength": 65,
+      "bidirectional": true,
+      "description": "Vương Tiểu Kim (bên Kim Hoa Phong) là người cung cấp linh tài chế tạo các trận đài chịu nhiệt và cùng nhau thảo luận những ý tưởng điên rồ."
     }
   ],
   "factions": [
