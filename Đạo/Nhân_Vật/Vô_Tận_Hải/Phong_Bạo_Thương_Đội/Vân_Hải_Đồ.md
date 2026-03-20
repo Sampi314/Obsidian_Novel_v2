@@ -32,7 +32,10 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Phong Cuồng Ba** (Sư đồ): Vân Hải Đồ chỉ dẫn Phong Cuồng Ba trong Phong Bạo Thương Đội
+- **Phong Thiết Nha** (Sư đồ): Phong Thiết Nha chỉ dẫn Vân Hải Đồ trong Phong Bạo Thương Đội
+- **Lôi Thiên Phong** (Chủ tớ): Thủ hạ trung thành trong Phong Bạo Thương Đội
+- **Lôi Thiên Phong** (Cấp dưới): Phục tùng Lôi Thiên Phong, Trưởng Lão của Phong Bạo Thương Đội
+- **Vũ Hải Yến** (Sư đồ): Vân Hải Đồ chỉ dẫn Vũ Hải Yến trong Phong Bạo Thương Đội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
