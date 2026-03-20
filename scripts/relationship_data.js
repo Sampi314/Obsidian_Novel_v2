@@ -784,6 +784,51 @@ const relationshipData = {
       "description": "Hoàng Thanh Trúc là một nam tử trung niên với dáng người cao gầy, dong dỏng như cây trúc già. Hắn khoác đạo bào lục nhạt viền bạc, luôn trầm tĩnh và nhạy bén trước biến động."
     },
     {
+      "id": "le_bach_lien",
+      "name": "Lê Bạch Liên",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ffffff",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Bạch Liên Vô Tạp Kiếm",
+      "personality": "Kỷ luật, Điềm đạm, Nghiêm khắc",
+      "description": "Lê Bạch Liên sở hữu vẻ đẹp thanh tao, tinh khiết tựa đóa sen trắng chớm nở giữa hồ thu. Dáng người nàng dong dỏng cao, thường khoác đạo bào trắng muốt của đệ tử Bạch Hoa Phong, trên tóc cài trâm ngọc khắc hình hoa sen."
+    },
+    {
+      "id": "le_thien_vu",
+      "name": "Lê Thiên Vũ",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#fffacd",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Thiên Vũ Phá Không Kiếm",
+      "personality": "Uy nghi, Điềm tĩnh",
+      "description": "Lê Thiên Vũ mang dáng vẻ uy nghi, đỉnh đạc của một Chân Truyền Đệ Tử thuộc đỉnh chính Thiên Hoa Phong. Y có khuôn mặt góc cạnh, đôi mắt sáng như sao và luôn khoác đạo bào màu vàng nhạt điểm xuyết viền mây trắng."
+    },
+    {
+      "id": "le_tieu_lien",
+      "name": "Lê Tiểu Liên",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ffb6c1",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Hồng Liên Ảo Kiếm",
+      "personality": "Hoạt bát, Tinh nghịch, Lương thiện",
+      "description": "Lê Tiểu Liên mang một vẻ đẹp trong trẻo, đáng yêu với đôi mắt to tròn luôn ánh lên vẻ tinh nghịch. Trang phục của nàng thường phá cách với vài dải lụa hồng nhạt bay lượn theo gió."
+    },
+    {
       "id": "hoang_dai_son",
       "name": "Hoàng Đại Sơn",
       "title": "Trưởng Trại Tuyết Thưa",
@@ -59903,6 +59948,36 @@ const relationshipData = {
       "strength": 55,
       "bidirectional": true,
       "description": "Lâm Tĩnh Tâm thích hỏi han và đàm đạo nhân sinh với Lão Lý."
+    },
+    {
+      "source": "le_bach_lien",
+      "target": "le_thien_vu",
+      "type": "family",
+      "description": "Lê Bạch Liên tôn kính biểu ca Lê Thiên Vũ và lấy y làm mục tiêu phấn đấu."
+    },
+    {
+      "source": "le_thien_vu",
+      "target": "le_bach_lien",
+      "type": "family",
+      "description": "Lê Thiên Vũ âm thầm quan sát, khích lệ biểu muội Lê Bạch Liên."
+    },
+    {
+      "source": "le_bach_lien",
+      "target": "le_tieu_lien",
+      "type": "family",
+      "description": "Tỷ tỷ Lê Bạch Liên luôn nghiêm khắc quản lý và bảo ban Lê Tiểu Liên."
+    },
+    {
+      "source": "le_tieu_lien",
+      "target": "le_bach_lien",
+      "type": "family",
+      "description": "Lê Tiểu Liên vừa yêu thương vừa sợ hãi sự nghiêm khắc của tỷ tỷ."
+    },
+    {
+      "source": "le_tieu_lien",
+      "target": "le_thien_vu",
+      "type": "family",
+      "description": "Lê Tiểu Liên coi biểu ca Lê Thiên Vũ là 'lá chắn' để trốn tội với tỷ tỷ."
     }
   ],
   "meta": {
