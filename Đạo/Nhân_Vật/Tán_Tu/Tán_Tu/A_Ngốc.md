@@ -62,6 +62,33 @@ arcs:
           tin: 20
           so: 5
           on: 0
+      - character: Nguyệt Dao
+        description: Nữ Hoàng Tinh Linh, tiền bối nhận ra sự đặc biệt của Hỗn Độn Linh Căn trên hành trình
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 15
+          tin: 15
+          so: 5
+          on: 0
+      - character: Sở Lăng Sương
+        description: Kiếm tu trẻ chạm trán trên hành trình, người quen trên đường đi
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 10
+          tin: 20
+          so: 0
+          on: 0
+      - character: Lâm Phong
+        description: Tán tu tốt bụng gặp tại Rừng Huyết Độc, luôn đối xử tốt với nàng
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 10
+          tin: 30
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: A NGỐC (阿傻)
