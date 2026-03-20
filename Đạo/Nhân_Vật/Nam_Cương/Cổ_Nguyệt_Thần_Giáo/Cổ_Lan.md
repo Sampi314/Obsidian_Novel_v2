@@ -38,10 +38,10 @@ arcs:
         feelings:
           yeu: 0
           han: 0
-          kinh: 0
-          tin: 0
+          kinh: 35
+          tin: 30
           so: 0
-          on: 0
+          on: 15
       - character: Tuyết Nguyệt
         description: Đại Tư Tế, bà ủng hộ hết lòng và coi như con cháu trong nhà
         feelings:

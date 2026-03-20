@@ -60,6 +60,15 @@ arcs:
           tin: 50
           so: 5
           on: 10
+      - character: Mạch Ngọc Thạch
+        description: Thẩm Định Viên trẻ tuổi tài năng, đang được truyền dạy Địa Mạch Cảm Ứng — ứng viên kế vị tiềm năng
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 10
+          tin: 65
+          so: 0
+          on: 15
 ---
 
 # HỒ SƠ NHÂN VẬT: MẠCH HOÀNG KIM (脈黃金)
