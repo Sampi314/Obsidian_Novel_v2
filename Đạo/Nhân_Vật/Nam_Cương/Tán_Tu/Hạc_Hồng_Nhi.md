@@ -42,6 +42,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Oanh Lâm Ca
+        description: Đồng minh săn bắt, Lâm Ca dùng âm thanh khống chế con mồi bên dưới trong khi nàng tấn công từ trên cao
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 35
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẠC HỒNG NHI (鶴紅兒)

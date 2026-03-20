@@ -71,6 +71,15 @@ arcs:
           tin: 25
           so: 60
           on: 0
+      - character: Hồ Ám Hương
+        description: Gián điệp nằm vùng mà ông đã huấn luyện biến hóa suốt hai mươi năm, coi như con gái
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 60
+          tin: 85
+          so: 15
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HỒ SA PHONG (狐沙風)

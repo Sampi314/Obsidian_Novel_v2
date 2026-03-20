@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Thâm Hải
+        description: Cung Chủ tối cao, phụng sự trung thành tuyệt đối vì nỗi sợ hãi tuyệt đối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 80
+          tin: 50
+          so: 70
+          on: 30
 ---
 
 # HỒ SƠ NHÂN VẬT: ÁM LƯU (暗流)
@@ -34,7 +43,7 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Thâm Hải** (Cấp dưới): Cung Chủ tối cao, phụng sự trung thành tuyệt đối vì nỗi sợ hãi tuyệt đối
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
