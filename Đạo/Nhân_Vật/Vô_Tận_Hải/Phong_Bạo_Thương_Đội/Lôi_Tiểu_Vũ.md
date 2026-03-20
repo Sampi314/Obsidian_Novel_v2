@@ -36,11 +36,16 @@ Tiểu Vũ tu luyện *Phong Lôi Hải Hành Quyết* (风雷海行诀) giống
 Khi cận chiến, nàng dùng *Lôi Tiên Kích* (雷鞭击) — roi điện ngưng tụ từ lôi lực thuần túy, dài ngắn tùy ý, quất ra tiếng nổ chói tai. Điểm yếu là kinh nghiệm chiến đấu còn non, hay bị khiêu khích mất bình tĩnh, và lôi lực tiêu hao rất nhanh nếu chiến đấu kéo dài.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hải Phong** (Sư đồ): Hải Phong chỉ dẫn Lôi Tiểu Vũ trong Phong Bạo Thương Đội
+- **Lôi Thiên Phong** (Sư đồ): Lôi Thiên Phong chỉ dẫn Lôi Tiểu Vũ trong Phong Bạo Thương Đội
+- **Lôi Thiên Phong** (Đồng minh): Đồng liêu cùng Phong Bạo Thương Đội, hỗ trợ lẫn nhau
+- **Lôi Vạn Lý** (Sư đồ): Lôi Vạn Lý chỉ dẫn Lôi Tiểu Vũ trong Phong Bạo Thương Đội
+- **Phong Cuồng Ba** (Đồng minh): Đồng liêu cùng Phong Bạo Thương Đội, hỗ trợ lẫn nhau
+- **Đặng Thương Hà** (Đồng minh): Đồng liêu cùng Phong Bạo Thương Đội, hỗ trợ lẫn nhau
 - **Lôi Vạn Lý:** Cha ruột, Hạm Đội Trưởng. Tiểu Vũ vừa kính trọng vừa muốn thoát khỏi cái bóng quá lớn của cha — nàng nhất quyết không nhận đặc quyền, đòi tự mình leo lên bằng thực lực.
 - **Hải Phong:** Tổng Quản, coi nàng như cháu gái. Hải Phong âm thầm theo dõi sự trưởng thành của Tiểu Vũ và đôi khi giao cho nàng những nhiệm vụ thử thách vượt ngoài cấp bậc.
 - **Phong Cuồng Ba:** Đội Trưởng Hộ Vệ, người dạy nàng kỹ thuật chiến đấu trên boong tàu. Tiểu Vũ gọi hắn là "Cuồng ca" và hay trêu chọc tính nóng nảy của hắn.
 - **Vũ Hải Yến:** Phó Thuyền Trưởng, tỷ tỷ thân thiết nhất trên hạm đội. Hai người hay ngồi uống rượu trên boong tàu ban đêm, chia sẻ chuyện trên biển.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Tiểu Vũ sinh ra ngay trên soái hạm "Phong Bạo" trong một đêm bão lớn — mẹ nàng trở dạ giữa cơn cuồng phong, sấm sét đánh trúng cột buồm chính đúng khoảnh khắc nàng cất tiếng khóc đầu tiên. Thủy thủ trên tàu tin rằng đó là điềm trời, nên đặt tên nàng là Tiểu Vũ — cơn mưa nhỏ giữa trận lôi đình. Mẹ nàng mất vì sản hậu không lâu sau đó, nàng được cả hạm đội thay nhau nuôi nấng.
 

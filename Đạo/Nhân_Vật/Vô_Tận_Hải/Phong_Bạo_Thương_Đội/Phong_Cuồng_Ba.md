@@ -36,11 +36,16 @@ Cuồng Ba chuyên tu *Cuồng Phong Quyền Pháp* (狂风拳法), bộ quyền
 Hắn còn giỏi sử dụng *Phong Sát Liên Hoàn Tiêu* (风杀连环镖), một bộ phi tiêu hình cánh quạt bằng huyền thiết, ném ra theo đường cong lợi dụng gió biển, đánh trúng mục tiêu từ những góc không tưởng. Điểm yếu là hắn thiếu kiên nhẫn trong chiến đấu kéo dài, hay bỏ phòng thủ để tấn công liều, và hoàn toàn bất lực trước đối thủ giỏi chiến đấu tầm xa.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Lôi Thiên Phong** (Sư đồ): Lôi Thiên Phong chỉ dẫn Phong Cuồng Ba trong Phong Bạo Thương Đội
+- **Lôi Tiểu Vũ** (Đồng minh): Đồng liêu cùng Phong Bạo Thương Đội, hỗ trợ lẫn nhau
+- **Lôi Vạn Lý** (Sư đồ): Lôi Vạn Lý chỉ dẫn Phong Cuồng Ba trong Phong Bạo Thương Đội
+- **Lôi Thiên Phong** (Cấp dưới): Phục tùng Lôi Thiên Phong, Trưởng Lão của Phong Bạo Thương Đội
+- **Phong Thiết Nha** (Sư đồ): Phong Thiết Nha chỉ dẫn Phong Cuồng Ba trong Phong Bạo Thương Đội
+- **Vân Hải Đồ** (Sư đồ): Vân Hải Đồ chỉ dẫn Phong Cuồng Ba trong Phong Bạo Thương Đội
 - **Lôi Vạn Lý:** Hạm Đội Trưởng, cấp trên trực tiếp. Cuồng Ba sợ và phục Vạn Lý nhất hạm đội — chỉ có ông ta mới trị nổi tính nóng của hắn. Mỗi lần Cuồng Ba gây rối, Vạn Lý chỉ cần liếc một cái là hắn im re.
 - **Lôi Tiểu Vũ:** "Muội muội" mà hắn tự nhận, người hắn dạy kỹ thuật chiến đấu trên boong tàu. Tiểu Vũ gọi hắn "Cuồng ca", hay trêu chọc khiến hắn tím mặt nhưng không bao giờ nỡ giận thật.
 - **Phong Thiết Nha:** Đồng đội hộ vệ cùng thế hệ, hay cãi nhau xem ai đánh giỏi hơn nhưng luôn sát cánh trong hải chiến. Hai gã uống rượu cùng nhau nhiều hơn nói chuyện tỉnh táo.
 - **Hắc Hải Hải Tặc:** Kẻ thù không đội trời chung. Cuồng Ba đã giết hơn hai mươi tên hải tặc bằng tay không và thề sẽ xóa sổ bọn cướp biển này.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Cuồng Ba không phải người của hạm đội từ đầu. Hắn vốn là dân chài ở một làng cá nhỏ trên hòn đảo ngoài khơi Đông Hoang, cuộc sống bình yên cho đến khi Hắc Hải Hải Tặc đổ bộ cướp phá, đốt sạch làng. Gia đình hắn chết trong trận đó — cha bị chém khi cố chắn cửa, mẹ và em gái bị sóng cuốn khi cố bơi trốn. Cuồng Ba sống sót vì đang ra khơi đánh cá, khi trở về chỉ thấy tro tàn.
 
