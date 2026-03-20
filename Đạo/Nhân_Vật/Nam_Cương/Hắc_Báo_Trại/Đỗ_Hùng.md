@@ -42,6 +42,15 @@ arcs:
           tin: 25
           so: 0
           on: 30
+      - character: Lý Sơn Nhi
+        description: Đàn em mà Đỗ Hùng dẫn dắt, người kính trọng hắn trong thế hệ trẻ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐỖ HÙNG (杜雄)
@@ -64,6 +73,7 @@ Chuyên sử dụng cung tên và phi đao, bắn tỉa chính xác từ trên c
 - **[[Đỗ Môn]]** — Cha ruột kiêm Trại Chủ, người mà Đỗ Hùng muốn chứng minh bản thân xứng đáng kế thừa.
 - **[[Đỗ Hải]]** — Chú ruột, người cưng chiều và bảo vệ Đỗ Hùng từ nhỏ.
 - **[[Đỗ Tiểu Hổ]]** — Em họ, đệ tử nhỏ tuổi nhất mà Đỗ Hùng luôn dẫn theo dạy dỗ.
+- **[[Lý Sơn Nhi]]** — Đàn em mà Đỗ Hùng dẫn dắt, người kính trọng hắn trong thế hệ trẻ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Đỗ Hùng sinh ra trong Hắc Báo Trại, lớn lên giữa rừng già, coi cây cối là nhà. Được cha Đỗ Môn huấn luyện thuật sinh tồn từ khi năm tuổi, mười tuổi đã một mình hạ được bạo hùng (loại khỉ dữ). Hiện dẫn Báo Ảnh Đội — đội trinh sát tinh nhuệ nhất trại, chuyên nắm bắt di chuyển của thương đoàn và tuần tra lãnh thổ.
