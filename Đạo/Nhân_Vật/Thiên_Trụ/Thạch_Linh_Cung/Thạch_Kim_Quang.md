@@ -122,19 +122,18 @@ Mối bạn với Thạch Linh Quang hình thành khi cả hai cùng phát hiệ
 - **Thiên Hỏa Luyện Kim (天火煉金):** Gã sử dụng ở mức cơ bản — chỉ đủ để nung nhẹ đá quý và kim loại quý trước khi khảm, không phải để rèn đúc nặng.
 
 ## VI. QUAN HỆ
-
+- **Lý Ngọc Nham** (Sư đồ): Đệ Nhị Hỏa Sư, sư phụ khảm nạm, người tin tưởng và quý nhất
+- **Thạch Hỏa Long** (Gia tộc): Đệ Nhị Hỏa Sư, đồng liêu nhiều năm, tính cách đối lập nhưng bổ sung
+- **Thạch Chùy** (Đồng minh): Cung Chủ, người gã ngưỡng mộ về triết lý rèn đúc
+- **Thạch Linh Quang** (Gia tộc): Đệ Ngũ Hỏa Sư, em gái kết nghĩa, người duy nhất cùng gã thưởng thức đá quý
 - **Thạch Chùy (Cung Chủ):**
     - Gã ngưỡng mộ triết lý "vũ khí có linh hồn" của Thạch Chùy, và cố gắng thể hiện triết lý đó qua kỹ thuật khảm nạm — mỗi viên đá gã khảm không chỉ tăng sức mạnh mà còn cho vũ khí thêm "tính cách." Gã là người Thạch Chùy dự định tiết lộ bí mật Thập Tam Thần Binh đầu tiên — vì sáu món còn lại cần khảm nạm phức tạp mà chỉ Kim Quang mới làm được.
-
 - **Thạch Hỏa Long (Đệ Nhất Hỏa Sư):**
     - Hai gã như nước với lửa — nhưng nước và lửa đều cần nhau. Hỏa Long rèn thô, Kim Quang hoàn thiện. Không có Hỏa Long, Kim Quang không có gì để khảm. Không có Kim Quang, sản phẩm của Hỏa Long chỉ là "cục sắt có hình dáng." Gã chấp nhận mối quan hệ này, dù đôi khi bực mình vì Hỏa Long quá ồn ào.
-
 - **Lý Ngọc Nham (Đệ Cửu Hỏa Sư):**
     - Đệ tử Nhân Tộc yêu quý nhất. Kim Quang nhận ra Ngọc Nham có đôi tay khéo léo bẩm sinh — hiếm có ở nhân tộc, và hoàn toàn phù hợp với kỹ thuật khảm nạm. Gã đích thân dạy nàng, kiên nhẫn hơn với nàng hơn bất kỳ ai — điều khiến vài đệ tử Thạch Tộc ghen tỵ.
-
 - **Thạch Linh Quang (Đệ Ngũ Hỏa Sư):**
     - Tri kỷ. Hai gã thường cùng nhau thưởng thức đá quý mới tìm được — ngồi hàng giờ, xoay viên đá dưới ánh sáng, bàn luận về sắc màu và cấu trúc. Đối với Thạch Tộc khác, đây là hành vi kỳ quặc. Đối với hai gã, đây là niềm vui lớn nhất.
-
 ## VII. GIAI THOẠI
 
 > *"Ngươi bảo viên ngọc này đã hoàn hảo? Ta nhìn thấy một vết xước ở mặt thứ bảy mươi hai. Đưa đây, ta mài lại."*
