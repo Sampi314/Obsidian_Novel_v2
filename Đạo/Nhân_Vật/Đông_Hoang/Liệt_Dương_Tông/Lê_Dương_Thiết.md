@@ -32,9 +32,18 @@ Dáng người cân đối với phong thái điềm tĩnh, gương mặt toát 
 Tinh thông công pháp trấn phái của Liệt Dương Tông, đạt cảnh giới đại thành. Tuyệt chiêu 黎陽鐵·Chấn Phái Quyết (黎陽鐵·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hoàng Dung Nham:** Hộ Pháp, đồng liêu quan trọng nhất trong Liệt Dương Tông.
-- **Nguyễn Liệt Diễm:** Trưởng Lão Viêm Long Quân, đối tác thường xuyên phối hợp.
-- **Phạm Hỏa Liên:** Hộ Pháp, mối quan hệ tin cậy lẫn nhau.
-
+- **Trần Viêm Đế** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Liệt Dương Tông
+- **Hoàng Dung Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Liệt Dương Tông
+- **Phạm Hỏa Liên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Liệt Dương Tông
+- **Nguyễn Liệt Diễm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Liệt Dương Tông
+- **Đặng Xích Hỏa** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Liệt Dương Tông
+- **Vũ Tiểu Viêm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Liệt Dương Tông
+- **Trần Viêm Đế** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lê Dương Thiết
+- **Hoàng Dung Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lê Dương Thiết
+- **Phạm Hỏa Liên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lê Dương Thiết
+- **Nguyễn Liệt Diễm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lê Dương Thiết
+- **Đặng Xích Hỏa** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lê Dương Thiết
+- **Vũ Tiểu Viêm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lê Dương Thiết
+- **Lý Huyết Thần** (Kẻ thù): Tông Chủ Liệt Dương chính phái đối đầu Huyết Sát Minh tà đạo
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lê Dương Thiết sinh ra trong một gia đình Nhân Tộc bình thường, sớm thể hiện tư chất phù hợp với Liệt Dương Tông. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Liệt Dương Tông và dần khẳng định vị trí của mình. Với tu vi Luyện Hư Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Tông Chủ.
