@@ -47811,6 +47811,10674 @@ var relationshipData = {
       "target": "van_mong",
       "type": "ally",
       "description": "Trưởng Lão Ảo Ảnh và Mộng Sư Vương Đình, cựu đồng môn"
+    },
+    {
+      "source": "chau_thuong",
+      "target": "tien_da_da",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bách Bảo Các, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_da_da",
+      "target": "chau_thuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bách Bảo Các, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "chau_thuong",
+      "target": "hua_ngoc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bách Bảo Các, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_minh_chau",
+      "target": "chau_thuong",
+      "type": "mentor",
+      "description": "Lý Minh Châu chỉ dẫn Châu Thương trong Bách Bảo Các"
+    },
+    {
+      "source": "tien_da_da",
+      "target": "hua_ngoc",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Bách Bảo Các"
+    },
+    {
+      "source": "hua_ngoc",
+      "target": "tien_da_da",
+      "type": "subordinate",
+      "description": "Phục tùng Tiền Đa Đa, Các Chủ của Bách Bảo Các"
+    },
+    {
+      "source": "ly_minh_chau",
+      "target": "hua_ngoc",
+      "type": "mentor",
+      "description": "Lý Minh Châu chỉ dẫn Hứa Ngọc trong Bách Bảo Các"
+    },
+    {
+      "source": "hua_ngoc",
+      "target": "ma_van_kim",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bách Bảo Các, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_minh_chau",
+      "target": "tien_da_da",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bách Bảo Các, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_da_da",
+      "target": "ly_minh_chau",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bách Bảo Các, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_minh_chau",
+      "target": "ma_van_kim",
+      "type": "mentor",
+      "description": "Lý Minh Châu chỉ dẫn Mã Vạn Kim trong Bách Bảo Các"
+    },
+    {
+      "source": "ly_minh_chau",
+      "target": "thiet_quan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bách Bảo Các, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_da_da",
+      "target": "ma_van_kim",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Bách Bảo Các"
+    },
+    {
+      "source": "ma_van_kim",
+      "target": "tien_da_da",
+      "type": "subordinate",
+      "description": "Phục tùng Tiền Đa Đa, Các Chủ của Bách Bảo Các"
+    },
+    {
+      "source": "thiet_quan",
+      "target": "ma_van_kim",
+      "type": "mentor",
+      "description": "Thiết Quân chỉ dẫn Mã Vạn Kim trong Bách Bảo Các"
+    },
+    {
+      "source": "ma_van_kim",
+      "target": "tien_bao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bách Bảo Các, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_da_da",
+      "target": "thiet_quan",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Bách Bảo Các"
+    },
+    {
+      "source": "thiet_quan",
+      "target": "tien_da_da",
+      "type": "subordinate",
+      "description": "Phục tùng Tiền Đa Đa, Các Chủ của Bách Bảo Các"
+    },
+    {
+      "source": "thiet_quan",
+      "target": "tien_bao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bách Bảo Các, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_da_da",
+      "target": "tien_bao",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Bách Bảo Các"
+    },
+    {
+      "source": "tien_bao",
+      "target": "tien_da_da",
+      "type": "subordinate",
+      "description": "Phục tùng Tiền Đa Đa, Các Chủ của Bách Bảo Các"
+    },
+    {
+      "source": "thach_cuong",
+      "target": "nham_liet",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Bán Thạch Cự Nhân"
+    },
+    {
+      "source": "nham_liet",
+      "target": "thach_cuong",
+      "type": "subordinate",
+      "description": "Phục tùng Thạch Cương, Trưởng Lão của Bán Thạch Cự Nhân"
+    },
+    {
+      "source": "thach_chuy",
+      "target": "nham_liet",
+      "type": "mentor",
+      "description": "Thạch Chùy chỉ dẫn Nham Liệt trong Bán Thạch Cự Nhân"
+    },
+    {
+      "source": "thach_huyet_nham",
+      "target": "nham_liet",
+      "type": "mentor",
+      "description": "Thạch Huyết Nham chỉ dẫn Nham Liệt trong Bán Thạch Cự Nhân"
+    },
+    {
+      "source": "thach_chuy",
+      "target": "thach_cuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bán Thạch Cự Nhân, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thach_cuong",
+      "target": "thach_chuy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bán Thạch Cự Nhân, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thach_chuy",
+      "target": "thach_huyet_nham",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bán Thạch Cự Nhân, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thach_cuong",
+      "target": "thach_huyet_nham",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bán Thạch Cự Nhân, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thach_huyet_nham",
+      "target": "thach_cuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bán Thạch Cự Nhân, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_bach_tuyet_nhi",
+      "target": "ho_bach_lam",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_lam",
+      "target": "ho_bach_tuyet_nhi",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_lam",
+      "target": "ho_bach_nguyet_hoa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bạch Hồ Ẩn Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_bach_lam",
+      "target": "ho_bach_nhi",
+      "type": "mentor",
+      "description": "Hồ Bạch Lâm chỉ dẫn Hồ Bạch Nhi trong Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_tuyet_nhi",
+      "target": "ho_bach_nguyet_hoa",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_nguyet_hoa",
+      "target": "ho_bach_tuyet_nhi",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_nguyet_hoa",
+      "target": "ho_bach_nhi",
+      "type": "mentor",
+      "description": "Hồ Bạch Nguyệt Hoa chỉ dẫn Hồ Bạch Nhi trong Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_nguyet_hoa",
+      "target": "ho_bach_suong_han",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bạch Hồ Ẩn Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_bach_tuyet_nhi",
+      "target": "ho_bach_nhi",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_nhi",
+      "target": "ho_bach_tuyet_nhi",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_suong_han",
+      "target": "ho_bach_nhi",
+      "type": "mentor",
+      "description": "Hồ Bạch Sương Hàn chỉ dẫn Hồ Bạch Nhi trong Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_thien_ly",
+      "target": "ho_bach_nhi",
+      "type": "mentor",
+      "description": "Hồ Bạch Thiên Lý chỉ dẫn Hồ Bạch Nhi trong Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_tuyet_nhi",
+      "target": "ho_bach_suong_han",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_suong_han",
+      "target": "ho_bach_tuyet_nhi",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_suong_han",
+      "target": "ho_bach_thien_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bạch Hồ Ẩn Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_bach_suong_han",
+      "target": "ho_bach_van",
+      "type": "ally",
+      "description": "Chiến hữu cùng Bạch Hồ Ẩn Tộc, chiến đấu song song"
+    },
+    {
+      "source": "ho_bach_tuyet_nhi",
+      "target": "ho_bach_thien_ly",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_thien_ly",
+      "target": "ho_bach_tuyet_nhi",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "ho_bach_thien_ly",
+      "target": "ho_bach_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bạch Hồ Ẩn Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_bach_tuyet_nhi",
+      "target": "ho_bach_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bạch Hồ Ẩn Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_bach_van",
+      "target": "ho_bach_tuyet_nhi",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc"
+    },
+    {
+      "source": "son_co_nham",
+      "target": "son_ngoa",
+      "type": "mentor",
+      "description": "Sơn Cổ Nham chỉ dẫn Sơn Ngọa trong Cổ Nham Bộ Lạc"
+    },
+    {
+      "source": "son_co_nham",
+      "target": "son_tran",
+      "type": "mentor",
+      "description": "Sơn Cổ Nham chỉ dẫn Sơn Trấn trong Cổ Nham Bộ Lạc"
+    },
+    {
+      "source": "son_ngoa",
+      "target": "son_co_nham",
+      "type": "subordinate",
+      "description": "Phục tùng Sơn Cổ Nham, Tộc Trưởng của Cổ Nham Bộ Lạc"
+    },
+    {
+      "source": "son_tran",
+      "target": "son_ngoa",
+      "type": "mentor",
+      "description": "Sơn Trấn chỉ dẫn Sơn Ngọa trong Cổ Nham Bộ Lạc"
+    },
+    {
+      "source": "son_tran",
+      "target": "son_co_nham",
+      "type": "subordinate",
+      "description": "Phục tùng Sơn Cổ Nham, Tộc Trưởng của Cổ Nham Bộ Lạc"
+    },
+    {
+      "source": "thach_cuu_son",
+      "target": "thach_thien_truy",
+      "type": "mentor",
+      "description": "Thạch Cửu Sơn dẫn dắt Thạch Thiên Trùy trong Cổ Thạch Bộ Lạc"
+    },
+    {
+      "source": "van_co_thach",
+      "target": "thach_uy",
+      "type": "mentor",
+      "description": "Vạn Cổ Thạch chỉ dẫn Thạch Uy trong Cổ Thạch Bộ Lạc"
+    },
+    {
+      "source": "co_mong",
+      "target": "co_nham_hon",
+      "type": "mentor",
+      "description": "Cổ Mộng chỉ dẫn Cổ Nham Hồn trong Cổ Tích Cự Nhân Thức Tỉnh"
+    },
+    {
+      "source": "co_mong",
+      "target": "co_son",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Tích Cự Nhân Thức Tỉnh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "co_nham_hon",
+      "target": "co_mong",
+      "type": "subordinate",
+      "description": "Phục tùng Cổ Mộng, Trưởng Lão của Cổ Tích Cự Nhân Thức Tỉnh"
+    },
+    {
+      "source": "co_nham_hon",
+      "target": "co_son",
+      "type": "ally",
+      "description": "Chiến hữu cùng Cổ Tích Cự Nhân Thức Tỉnh, chiến đấu song song"
+    },
+    {
+      "source": "co_son",
+      "target": "co_mong",
+      "type": "subordinate",
+      "description": "Phục tùng Cổ Mộng, Trưởng Lão của Cổ Tích Cự Nhân Thức Tỉnh"
+    },
+    {
+      "source": "ly_co_tran",
+      "target": "hoang_tho_dao",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Cổ Tích Thám Hiểm Đoàn"
+    },
+    {
+      "source": "hoang_tho_dao",
+      "target": "ly_co_tran",
+      "type": "subordinate",
+      "description": "Phục tùng Lý Cổ Trần, Đoàn Trưởng của Cổ Tích Thám Hiểm Đoàn"
+    },
+    {
+      "source": "hoang_tho_dao",
+      "target": "nguyen_dich_co",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Tích Thám Hiểm Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoang_tho_dao",
+      "target": "tran_pha_bay",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Tích Thám Hiểm Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_co_tran",
+      "target": "nguyen_dich_co",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Tích Thám Hiểm Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_co_tran",
+      "target": "tran_pha_bay",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Tích Thám Hiểm Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nguyen_dich_co",
+      "target": "ly_co_tran",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Tích Thám Hiểm Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nguyen_dich_co",
+      "target": "tran_pha_bay",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Tích Thám Hiểm Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tran_pha_bay",
+      "target": "ly_co_tran",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Tích Thám Hiểm Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bach_cot",
+      "target": "ma_chu_vo_ten",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "bach_cot",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bach_cot",
+      "target": "cuu_huyet_nhi",
+      "type": "mentor",
+      "description": "Bạch Cốt chỉ dẫn Cừu Huyết Nhi trong Cửu U Ma Tông"
+    },
+    {
+      "source": "cuu_huyet_thien",
+      "target": "bach_cot",
+      "type": "mentor",
+      "description": "Cừu Huyết Thiên chỉ dẫn Bạch Cốt trong Cửu U Ma Tông"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "cuu_huyet_nhi",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Cửu U Ma Tông"
+    },
+    {
+      "source": "cuu_huyet_nhi",
+      "target": "ma_chu_vo_ten",
+      "type": "subordinate",
+      "description": "Phục tùng Ma Chủ Vô Tên, Ma Chủ của Cửu U Ma Tông"
+    },
+    {
+      "source": "cuu_huyet_thien",
+      "target": "cuu_huyet_nhi",
+      "type": "mentor",
+      "description": "Cừu Huyết Thiên chỉ dẫn Cừu Huyết Nhi trong Cửu U Ma Tông"
+    },
+    {
+      "source": "diep_huyen_minh",
+      "target": "cuu_huyet_nhi",
+      "type": "mentor",
+      "description": "Diệp Huyền Minh chỉ dẫn Cừu Huyết Nhi trong Cửu U Ma Tông"
+    },
+    {
+      "source": "cuu_huyet_thien",
+      "target": "ma_chu_vo_ten",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "cuu_huyet_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "cuu_huyet_thien",
+      "target": "diep_huyen_minh",
+      "type": "mentor",
+      "description": "Cừu Huyết Thiên chỉ dẫn Diệp Huyền Minh trong Cửu U Ma Tông"
+    },
+    {
+      "source": "cuu_huyet_thien",
+      "target": "hon_diet",
+      "type": "mentor",
+      "description": "Cừu Huyết Thiên chỉ dẫn Hồn Diệt trong Cửu U Ma Tông"
+    },
+    {
+      "source": "diep_huyen_minh",
+      "target": "ma_chu_vo_ten",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "diep_huyen_minh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "diep_huyen_minh",
+      "target": "hon_diet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "diep_huyen_minh",
+      "target": "ly_cuu_am",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hon_diet",
+      "target": "ma_chu_vo_ten",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "hon_diet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hon_diet",
+      "target": "ly_cuu_am",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hon_diet",
+      "target": "ly_vo_anh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_cuu_am",
+      "target": "ma_chu_vo_ten",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "ly_cuu_am",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_cuu_am",
+      "target": "ly_vo_anh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_cuu_am",
+      "target": "mac_u_hon",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_vo_anh",
+      "target": "ma_chu_vo_ten",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "ly_vo_anh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_vo_anh",
+      "target": "mac_u_hon",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_vo_anh",
+      "target": "mac_am",
+      "type": "mentor",
+      "description": "Lý Vô Ảnh chỉ dẫn Mạc Ám trong Cửu U Ma Tông"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "mac_u_hon",
+      "type": "mentor",
+      "description": "Ma Chủ Vô Tên chỉ dẫn Mạc U Hồn trong Cửu U Ma Tông"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "mac_am",
+      "type": "mentor",
+      "description": "Ma Chủ Vô Tên chỉ dẫn Mạc Ám trong Cửu U Ma Tông"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "nap_lan_tieu_u",
+      "type": "mentor",
+      "description": "Ma Chủ Vô Tên chỉ dẫn Nạp Lan Tiểu U trong Cửu U Ma Tông"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "nap_lan_u_minh",
+      "type": "mentor",
+      "description": "Ma Chủ Vô Tên chỉ dẫn Nạp Lan U Minh trong Cửu U Ma Tông"
+    },
+    {
+      "source": "mac_u_hon",
+      "target": "ma_chu_vo_ten",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mac_u_hon",
+      "target": "nap_lan_tieu_u",
+      "type": "mentor",
+      "description": "Mạc U Hồn chỉ dẫn Nạp Lan Tiểu U trong Cửu U Ma Tông"
+    },
+    {
+      "source": "mac_u_hon",
+      "target": "nap_lan_u_minh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mac_am",
+      "target": "ma_chu_vo_ten",
+      "type": "subordinate",
+      "description": "Phục tùng Ma Chủ Vô Tên, Ma Chủ của Cửu U Ma Tông"
+    },
+    {
+      "source": "mac_u_hon",
+      "target": "mac_am",
+      "type": "mentor",
+      "description": "Mạc U Hồn chỉ dẫn Mạc Ám trong Cửu U Ma Tông"
+    },
+    {
+      "source": "nap_lan_tieu_u",
+      "target": "mac_am",
+      "type": "mentor",
+      "description": "Nạp Lan Tiểu U chỉ dẫn Mạc Ám trong Cửu U Ma Tông"
+    },
+    {
+      "source": "nap_lan_tieu_u",
+      "target": "ma_chu_vo_ten",
+      "type": "subordinate",
+      "description": "Phục tùng Ma Chủ Vô Tên, Ma Chủ của Cửu U Ma Tông"
+    },
+    {
+      "source": "nap_lan_u_minh",
+      "target": "nap_lan_tieu_u",
+      "type": "mentor",
+      "description": "Nạp Lan U Minh chỉ dẫn Nạp Lan Tiểu U trong Cửu U Ma Tông"
+    },
+    {
+      "source": "nap_lan_tieu_u",
+      "target": "quy_dien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nap_lan_u_minh",
+      "target": "ma_chu_vo_ten",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nap_lan_u_minh",
+      "target": "quy_dien",
+      "type": "mentor",
+      "description": "Nạp Lan U Minh chỉ dẫn Quỷ Diện trong Cửu U Ma Tông"
+    },
+    {
+      "source": "quy_dien",
+      "target": "ma_chu_vo_ten",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "quy_dien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "am_phong",
+      "target": "ma_chu_vo_ten",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_chu_vo_ten",
+      "target": "am_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "am_phong",
+      "target": "bach_cot",
+      "type": "mentor",
+      "description": "Âm Phong chỉ dẫn Bạch Cốt trong Cửu U Ma Tông"
+    },
+    {
+      "source": "am_phong",
+      "target": "cuu_huyet_nhi",
+      "type": "mentor",
+      "description": "Âm Phong chỉ dẫn Cừu Huyết Nhi trong Cửu U Ma Tông"
+    },
+    {
+      "source": "kinh_thien",
+      "target": "ba_thiet_phong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Cự Kình Bảo"
+    },
+    {
+      "source": "ba_thiet_phong",
+      "target": "kinh_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên, Thành Chủ của Cự Kình Bảo"
+    },
+    {
+      "source": "ba_thiet_phong",
+      "target": "ba_tieu_vu",
+      "type": "mentor",
+      "description": "Ba Thiết Phong chỉ dẫn Ba Tiểu Vũ trong Cự Kình Bảo"
+    },
+    {
+      "source": "ba_thiet_phong",
+      "target": "hai_dai_moc",
+      "type": "mentor",
+      "description": "Ba Thiết Phong chỉ dẫn Hải Đại Mộc trong Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_thien",
+      "target": "ba_tieu_vu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Cự Kình Bảo"
+    },
+    {
+      "source": "ba_tieu_vu",
+      "target": "kinh_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên, Thành Chủ của Cự Kình Bảo"
+    },
+    {
+      "source": "hai_dai_moc",
+      "target": "ba_tieu_vu",
+      "type": "mentor",
+      "description": "Hải Đại Mộc chỉ dẫn Ba Tiểu Vũ trong Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_hai_van",
+      "target": "ba_tieu_vu",
+      "type": "mentor",
+      "description": "Kình Hải Vân chỉ dẫn Ba Tiểu Vũ trong Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_thien",
+      "target": "hai_dai_moc",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Cự Kình Bảo"
+    },
+    {
+      "source": "hai_dai_moc",
+      "target": "kinh_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên, Thành Chủ của Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_hai_van",
+      "target": "hai_dai_moc",
+      "type": "mentor",
+      "description": "Kình Hải Vân chỉ dẫn Hải Đại Mộc trong Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_lao_ngu",
+      "target": "hai_dai_moc",
+      "type": "mentor",
+      "description": "Kình Lão Ngư chỉ dẫn Hải Đại Mộc trong Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_hai_van",
+      "target": "kinh_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Kình Bảo, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_thien",
+      "target": "kinh_hai_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Kình Bảo, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_hai_van",
+      "target": "kinh_lao_ngu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Kình Bảo, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_hai_van",
+      "target": "kinh_tieu_ngu",
+      "type": "mentor",
+      "description": "Kình Hải Vân chỉ dẫn Kình Tiểu Ngư trong Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_lao_ngu",
+      "target": "kinh_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Kình Bảo, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_thien",
+      "target": "kinh_lao_ngu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Kình Bảo, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_lao_ngu",
+      "target": "kinh_tieu_ngu",
+      "type": "mentor",
+      "description": "Kình Lão Ngư chỉ dẫn Kình Tiểu Ngư trong Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_lao_ngu",
+      "target": "lang_hai_phong",
+      "type": "mentor",
+      "description": "Kình Lão Ngư chỉ dẫn Lang Hải Phong trong Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_thien",
+      "target": "kinh_tieu_ngu",
+      "type": "mentor",
+      "description": "Kình Thiên chỉ dẫn Kình Tiểu Ngư trong Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_thien",
+      "target": "lang_hai_phong",
+      "type": "mentor",
+      "description": "Kình Thiên chỉ dẫn Lang Hải Phong trong Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_thien",
+      "target": "thuy_bach_lien",
+      "type": "mentor",
+      "description": "Kình Thiên chỉ dẫn Thủy Bạch Liên trong Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_thien",
+      "target": "trieu_ngoc_ha",
+      "type": "mentor",
+      "description": "Kình Thiên chỉ dẫn Triều Ngọc Hà trong Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_tieu_ngu",
+      "target": "kinh_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên, Thành Chủ của Cự Kình Bảo"
+    },
+    {
+      "source": "kinh_tieu_ngu",
+      "target": "lang_hai_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Kình Bảo, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_tieu_ngu",
+      "target": "thuy_bach_lien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Kình Bảo, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "lang_hai_phong",
+      "target": "kinh_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên, Thành Chủ của Cự Kình Bảo"
+    },
+    {
+      "source": "thuy_bach_lien",
+      "target": "lang_hai_phong",
+      "type": "mentor",
+      "description": "Thủy Bạch Liên chỉ dẫn Lang Hải Phong trong Cự Kình Bảo"
+    },
+    {
+      "source": "trieu_ngoc_ha",
+      "target": "lang_hai_phong",
+      "type": "mentor",
+      "description": "Triều Ngọc Hà chỉ dẫn Lang Hải Phong trong Cự Kình Bảo"
+    },
+    {
+      "source": "thuy_bach_lien",
+      "target": "kinh_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên, Thành Chủ của Cự Kình Bảo"
+    },
+    {
+      "source": "thuy_bach_lien",
+      "target": "trieu_ngoc_ha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Kình Bảo, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trieu_ngoc_ha",
+      "target": "kinh_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên, Thành Chủ của Cự Kình Bảo"
+    },
+    {
+      "source": "nham_chan_nhac",
+      "target": "nham_hong_hoang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Linh Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_hong_hoang",
+      "target": "nham_chan_nhac",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Linh Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_chan_nhac",
+      "target": "nham_kinh_thien",
+      "type": "mentor",
+      "description": "Nham Chấn Nhạc chỉ dẫn Nham Kình Thiên trong Cự Linh Tông"
+    },
+    {
+      "source": "nham_chan_nhac",
+      "target": "nham_liet_dia",
+      "type": "mentor",
+      "description": "Nham Chấn Nhạc chỉ dẫn Nham Liệt Địa trong Cự Linh Tông"
+    },
+    {
+      "source": "nham_hong_hoang",
+      "target": "nham_kinh_thien",
+      "type": "mentor",
+      "description": "Nham Hồng Hoang chỉ dẫn Nham Kình Thiên trong Cự Linh Tông"
+    },
+    {
+      "source": "nham_hong_hoang",
+      "target": "nham_liet_dia",
+      "type": "mentor",
+      "description": "Nham Hồng Hoang chỉ dẫn Nham Liệt Địa trong Cự Linh Tông"
+    },
+    {
+      "source": "nham_hong_hoang",
+      "target": "nham_pha_son",
+      "type": "mentor",
+      "description": "Nham Hồng Hoang chỉ dẫn Nham Phá Sơn trong Cự Linh Tông"
+    },
+    {
+      "source": "nham_hong_hoang",
+      "target": "nham_thiet_cot",
+      "type": "mentor",
+      "description": "Nham Hồng Hoang chỉ dẫn Nham Thiết Cốt trong Cự Linh Tông"
+    },
+    {
+      "source": "nham_kinh_thien",
+      "target": "nham_hong_hoang",
+      "type": "subordinate",
+      "description": "Phục tùng Nham Hồng Hoang, Thái Thượng Trưởng Lão của Cự Linh Tông"
+    },
+    {
+      "source": "nham_kinh_thien",
+      "target": "nham_liet_dia",
+      "type": "ally",
+      "description": "Chiến hữu cùng Cự Linh Tông, chiến đấu song song"
+    },
+    {
+      "source": "nham_kinh_thien",
+      "target": "nham_pha_son",
+      "type": "ally",
+      "description": "Chiến hữu cùng Cự Linh Tông, chiến đấu song song"
+    },
+    {
+      "source": "nham_liet_dia",
+      "target": "nham_hong_hoang",
+      "type": "subordinate",
+      "description": "Phục tùng Nham Hồng Hoang, Thái Thượng Trưởng Lão của Cự Linh Tông"
+    },
+    {
+      "source": "nham_liet_dia",
+      "target": "nham_pha_son",
+      "type": "ally",
+      "description": "Chiến hữu cùng Cự Linh Tông, chiến đấu song song"
+    },
+    {
+      "source": "nham_thiet_cot",
+      "target": "nham_liet_dia",
+      "type": "mentor",
+      "description": "Nham Thiết Cốt chỉ dẫn Nham Liệt Địa trong Cự Linh Tông"
+    },
+    {
+      "source": "nham_pha_son",
+      "target": "nham_hong_hoang",
+      "type": "subordinate",
+      "description": "Phục tùng Nham Hồng Hoang, Thái Thượng Trưởng Lão của Cự Linh Tông"
+    },
+    {
+      "source": "nham_thiet_cot",
+      "target": "nham_pha_son",
+      "type": "mentor",
+      "description": "Nham Thiết Cốt chỉ dẫn Nham Phá Sơn trong Cự Linh Tông"
+    },
+    {
+      "source": "nham_pha_son",
+      "target": "nham_tam",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Linh Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_thiet_cot",
+      "target": "nham_hong_hoang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Linh Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_tam",
+      "target": "nham_hong_hoang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Linh Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_hong_hoang",
+      "target": "nham_tam",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cự Linh Tông, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_thiet_cot",
+      "target": "nham_tam",
+      "type": "mentor",
+      "description": "Nham Thiết Cốt chỉ dẫn Nham Tâm trong Cự Linh Tông"
+    },
+    {
+      "source": "phuong_thien_duc",
+      "target": "hac_minh_nguyet",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "hac_minh_nguyet",
+      "target": "phuong_thien_duc",
+      "type": "subordinate",
+      "description": "Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện"
+    },
+    {
+      "source": "bang_van_ly",
+      "target": "hac_minh_nguyet",
+      "type": "mentor",
+      "description": "Bằng Vạn Lý dẫn dắt Hạc Minh Nguyệt trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "hac_ngan_vu",
+      "target": "hac_minh_nguyet",
+      "type": "mentor",
+      "description": "Hạc Ngân Vũ chỉ dẫn Hạc Minh Nguyệt trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "phuong_thien_duc",
+      "target": "hac_ngan_vu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "hac_ngan_vu",
+      "target": "phuong_thien_duc",
+      "type": "subordinate",
+      "description": "Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện"
+    },
+    {
+      "source": "hac_ngan_vu",
+      "target": "bang_van_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện"
+    },
+    {
+      "source": "hac_ngan_vu",
+      "target": "hac_thanh_kiem",
+      "type": "mentor",
+      "description": "Hạc Ngân Vũ chỉ dẫn Hạc Thanh Kiếm trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "phuong_thien_duc",
+      "target": "hac_thanh_kiem",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "hac_thanh_kiem",
+      "target": "phuong_thien_duc",
+      "type": "subordinate",
+      "description": "Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện"
+    },
+    {
+      "source": "bang_van_ly",
+      "target": "hac_thanh_kiem",
+      "type": "mentor",
+      "description": "Bằng Vạn Lý dẫn dắt Hạc Thanh Kiếm trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "hac_tuong_van",
+      "target": "hac_thanh_kiem",
+      "type": "mentor",
+      "description": "Hạc Tường Vân chỉ dẫn Hạc Thanh Kiếm trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "hac_tuong_van",
+      "target": "phuong_thien_duc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phuong_thien_duc",
+      "target": "hac_tuong_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hac_tuong_van",
+      "target": "bang_van_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện"
+    },
+    {
+      "source": "phuong_tieu",
+      "target": "hac_tuong_van",
+      "type": "mentor",
+      "description": "Phượng Tiêu chỉ dẫn Hạc Tường Vân trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "phuong_thien_duc",
+      "target": "bang_van_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện"
+    },
+    {
+      "source": "phuong_thien_duc",
+      "target": "phuong_tieu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phuong_thien_duc",
+      "target": "yen_tieu_tieu",
+      "type": "mentor",
+      "description": "Phượng Thiên Dực chỉ dẫn Yến Tiểu Tiểu trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "phuong_thien_duc",
+      "target": "ung_loi_duc",
+      "type": "mentor",
+      "description": "Phượng Thiên Dực chỉ dẫn Ưng Lôi Dực trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "phuong_tieu",
+      "target": "phuong_thien_duc",
+      "type": "subordinate",
+      "description": "Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện"
+    },
+    {
+      "source": "phuong_tieu",
+      "target": "bang_van_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện"
+    },
+    {
+      "source": "phuong_tieu",
+      "target": "yen_tieu_tieu",
+      "type": "mentor",
+      "description": "Phượng Tiêu chỉ dẫn Yến Tiểu Tiểu trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "yen_tieu_tieu",
+      "target": "phuong_thien_duc",
+      "type": "subordinate",
+      "description": "Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện"
+    },
+    {
+      "source": "bang_van_ly",
+      "target": "yen_tieu_tieu",
+      "type": "mentor",
+      "description": "Bằng Vạn Lý dẫn dắt Yến Tiểu Tiểu trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "ung_loi_duc",
+      "target": "phuong_thien_duc",
+      "type": "subordinate",
+      "description": "Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện"
+    },
+    {
+      "source": "bang_van_ly",
+      "target": "ung_loi_duc",
+      "type": "mentor",
+      "description": "Bằng Vạn Lý dẫn dắt Ưng Lôi Dực trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "ung_loi_duc",
+      "target": "yen_tieu_tieu",
+      "type": "mentor",
+      "description": "Ưng Lôi Dực chỉ dẫn Yến Tiểu Tiểu trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "phuong_thien_duc",
+      "target": "ung_phong_nhan",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "ung_phong_nhan",
+      "target": "phuong_thien_duc",
+      "type": "subordinate",
+      "description": "Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện"
+    },
+    {
+      "source": "bang_van_ly",
+      "target": "ung_phong_nhan",
+      "type": "mentor",
+      "description": "Bằng Vạn Lý dẫn dắt Ưng Phong Nhận trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "ung_phong_nhan",
+      "target": "yen_tieu_tieu",
+      "type": "mentor",
+      "description": "Ưng Phong Nhận chỉ dẫn Yến Tiểu Tiểu trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "phuong_thien_duc",
+      "target": "ung_pha_thien",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "ung_pha_thien",
+      "target": "phuong_thien_duc",
+      "type": "subordinate",
+      "description": "Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện"
+    },
+    {
+      "source": "bang_van_ly",
+      "target": "ung_pha_thien",
+      "type": "mentor",
+      "description": "Bằng Vạn Lý dẫn dắt Ưng Phá Thiên trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "ung_pha_thien",
+      "target": "yen_tieu_tieu",
+      "type": "mentor",
+      "description": "Ưng Phá Thiên chỉ dẫn Yến Tiểu Tiểu trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "phuong_thien_duc",
+      "target": "ung_tuyet_huyen",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "ung_tuyet_huyen",
+      "target": "phuong_thien_duc",
+      "type": "subordinate",
+      "description": "Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện"
+    },
+    {
+      "source": "bang_van_ly",
+      "target": "ung_tuyet_huyen",
+      "type": "mentor",
+      "description": "Bằng Vạn Lý dẫn dắt Ưng Tuyệt Huyền trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "ung_tuyet_huyen",
+      "target": "yen_tieu_tieu",
+      "type": "mentor",
+      "description": "Ưng Tuyệt Huyền chỉ dẫn Yến Tiểu Tiểu trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "nghich_lan",
+      "target": "no_dao",
+      "type": "mentor",
+      "description": "Nghịch Lân chỉ dẫn Nộ Đào trong Giao Long Lưu Vong"
+    },
+    {
+      "source": "nghich_lan",
+      "target": "tan_van_hai",
+      "type": "mentor",
+      "description": "Nghịch Lân chỉ dẫn Tàn Vân Hải trong Giao Long Lưu Vong"
+    },
+    {
+      "source": "no_dao",
+      "target": "tan_van_hai",
+      "type": "ally",
+      "description": "Chiến hữu cùng Giao Long Lưu Vong, chiến đấu song song"
+    },
+    {
+      "source": "ba_nguyet_ha",
+      "target": "le_co",
+      "type": "ally",
+      "description": "Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_co",
+      "target": "ba_nguyet_ha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ba_nguyet_ha",
+      "target": "ba_thien_le",
+      "type": "ally",
+      "description": "Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ba_nguyet_ha",
+      "target": "hai_minh_chau",
+      "type": "mentor",
+      "description": "Ba Nguyệt Hà chỉ dẫn Hải Minh Châu trong Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "le_co",
+      "target": "ba_ngoc_han",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "ba_ngoc_han",
+      "target": "le_co",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Cơ, Minh Chủ của Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "ba_nguyet_ha",
+      "target": "ba_ngoc_han",
+      "type": "mentor",
+      "description": "Ba Nguyệt Hà chỉ dẫn Ba Ngọc Hàn trong Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "ba_thien_le",
+      "target": "ba_ngoc_han",
+      "type": "mentor",
+      "description": "Ba Thiên Lệ chỉ dẫn Ba Ngọc Hàn trong Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "ba_thien_le",
+      "target": "le_co",
+      "type": "ally",
+      "description": "Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_co",
+      "target": "ba_thien_le",
+      "type": "ally",
+      "description": "Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ba_thien_le",
+      "target": "hai_minh_chau",
+      "type": "ally",
+      "description": "Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ba_thien_le",
+      "target": "le_van_truong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_co",
+      "target": "hai_minh_chau",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "hai_minh_chau",
+      "target": "le_co",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Cơ, Minh Chủ của Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "le_van_truong",
+      "target": "hai_minh_chau",
+      "type": "mentor",
+      "description": "Lệ Vân Trường chỉ dẫn Hải Minh Châu trong Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "thuy_lan_nhi",
+      "target": "hai_minh_chau",
+      "type": "mentor",
+      "description": "Thủy Lan Nhi chỉ dẫn Hải Minh Châu trong Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "le_co",
+      "target": "le_van_truong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_co",
+      "target": "thuy_lan_nhi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_co",
+      "target": "trieu_tieu_ca",
+      "type": "mentor",
+      "description": "Lệ Cơ chỉ dẫn Triều Tiểu Ca trong Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "le_van_truong",
+      "target": "le_co",
+      "type": "ally",
+      "description": "Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_van_truong",
+      "target": "thuy_lan_nhi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_van_truong",
+      "target": "trieu_tieu_ca",
+      "type": "mentor",
+      "description": "Lệ Vân Trường chỉ dẫn Triều Tiểu Ca trong Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "thuy_lan_nhi",
+      "target": "le_co",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Cơ, Minh Chủ của Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "thuy_lan_nhi",
+      "target": "trieu_tieu_ca",
+      "type": "mentor",
+      "description": "Thủy Lan Nhi chỉ dẫn Triều Tiểu Ca trong Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "trieu_tieu_ca",
+      "target": "le_co",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Cơ, Minh Chủ của Giao Nhân Tộc Liên Minh"
+    },
+    {
+      "source": "hoang_co_nham",
+      "target": "hoang_minh_nguyet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hoàng Sa Di Dân, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoang_co_nham",
+      "target": "hoang_ngoc_duong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hoàng Sa Di Dân, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoang_co_nham",
+      "target": "hoang_thieu_quang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hoàng Sa Di Dân, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoang_minh_nguyet",
+      "target": "hoang_co_nham",
+      "type": "subordinate",
+      "description": "Phục tùng Hoàng Cổ Nham, Trưởng Lão của Hoàng Sa Di Dân"
+    },
+    {
+      "source": "hoang_minh_nguyet",
+      "target": "hoang_ngoc_duong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hoàng Sa Di Dân, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoang_minh_nguyet",
+      "target": "hoang_thieu_quang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hoàng Sa Di Dân, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoang_ngoc_duong",
+      "target": "hoang_co_nham",
+      "type": "subordinate",
+      "description": "Phục tùng Hoàng Cổ Nham, Trưởng Lão của Hoàng Sa Di Dân"
+    },
+    {
+      "source": "hoang_ngoc_duong",
+      "target": "hoang_thieu_quang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hoàng Sa Di Dân, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoang_thieu_quang",
+      "target": "hoang_co_nham",
+      "type": "subordinate",
+      "description": "Phục tùng Hoàng Cổ Nham, Trưởng Lão của Hoàng Sa Di Dân"
+    },
+    {
+      "source": "ho_nha_tam",
+      "target": "ho_han_le",
+      "type": "mentor",
+      "description": "Hổ Nha Tam chỉ dẫn Hổ Hàn Lệ trong Huyết Hổ Hạ Chúng"
+    },
+    {
+      "source": "ho_han_le",
+      "target": "ho_thiet_tam_han",
+      "type": "ally",
+      "description": "Đồng liêu cùng Huyết Hổ Hạ Chúng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_han_le",
+      "target": "ho_tuyet_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Huyết Hổ Hạ Chúng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_nha_tam",
+      "target": "ho_thiet_tam_han",
+      "type": "ally",
+      "description": "Đồng liêu cùng Huyết Hổ Hạ Chúng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_nha_tam",
+      "target": "ho_tuyet_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Huyết Hổ Hạ Chúng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_thiet_tam_han",
+      "target": "ho_tuyet_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Huyết Hổ Hạ Chúng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_bang_kiem",
+      "target": "tran_tieu_kiem",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hàn Kiếm Cốc"
+    },
+    {
+      "source": "tran_tieu_kiem",
+      "target": "ly_bang_kiem",
+      "type": "subordinate",
+      "description": "Phục tùng Lý Băng Kiếm, Viện Chủ của Hàn Kiếm Cốc"
+    },
+    {
+      "source": "han_tieu",
+      "target": "tran_tieu_kiem",
+      "type": "mentor",
+      "description": "Hàn Tiêu dẫn dắt Trần Tiểu Kiếm trong Hàn Kiếm Cốc"
+    },
+    {
+      "source": "ly_bang_kiem",
+      "target": "dang_han_phong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hàn Kiếm Cốc"
+    },
+    {
+      "source": "dang_han_phong",
+      "target": "ly_bang_kiem",
+      "type": "subordinate",
+      "description": "Phục tùng Lý Băng Kiếm, Viện Chủ của Hàn Kiếm Cốc"
+    },
+    {
+      "source": "han_tieu",
+      "target": "dang_han_phong",
+      "type": "mentor",
+      "description": "Hàn Tiêu dẫn dắt Đặng Hàn Phong trong Hàn Kiếm Cốc"
+    },
+    {
+      "source": "dang_han_phong",
+      "target": "tran_tieu_kiem",
+      "type": "mentor",
+      "description": "Đặng Hàn Phong chỉ dẫn Trần Tiểu Kiếm trong Hàn Kiếm Cốc"
+    },
+    {
+      "source": "vu_toc_van",
+      "target": "vu_khinh_hong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hàn Phong Truyền Tin Đội"
+    },
+    {
+      "source": "vu_khinh_hong",
+      "target": "vu_toc_van",
+      "type": "subordinate",
+      "description": "Phục tùng Vũ Tốc Vân, Đội Trưởng của Hàn Phong Truyền Tin Đội"
+    },
+    {
+      "source": "vu_khinh_hong",
+      "target": "vu_phieu_linh",
+      "type": "ally",
+      "description": "Đồng nghiệp hỗ trợ trong Hàn Phong Truyền Tin Đội"
+    },
+    {
+      "source": "vu_khinh_hong",
+      "target": "vu_tat_phong",
+      "type": "mentor",
+      "description": "Vũ Khinh Hồng chỉ dẫn Vũ Tật Phong trong Hàn Phong Truyền Tin Đội"
+    },
+    {
+      "source": "vu_toc_van",
+      "target": "vu_phieu_linh",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hàn Phong Truyền Tin Đội"
+    },
+    {
+      "source": "vu_phieu_linh",
+      "target": "vu_toc_van",
+      "type": "subordinate",
+      "description": "Phục tùng Vũ Tốc Vân, Đội Trưởng của Hàn Phong Truyền Tin Đội"
+    },
+    {
+      "source": "vu_phieu_linh",
+      "target": "vu_tat_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hàn Phong Truyền Tin Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "vu_toc_van",
+      "target": "vu_tat_phong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hàn Phong Truyền Tin Đội"
+    },
+    {
+      "source": "vu_tat_phong",
+      "target": "vu_toc_van",
+      "type": "subordinate",
+      "description": "Phục tùng Vũ Tốc Vân, Đội Trưởng của Hàn Phong Truyền Tin Đội"
+    },
+    {
+      "source": "tinh_han_tu",
+      "target": "hoang_tinh_nguyet",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hàn Tinh Quan Trắc Đài"
+    },
+    {
+      "source": "hoang_tinh_nguyet",
+      "target": "tinh_han_tu",
+      "type": "subordinate",
+      "description": "Phục tùng Tinh Hàn Tử, Đài Trưởng của Hàn Tinh Quan Trắc Đài"
+    },
+    {
+      "source": "ly_tinh_van",
+      "target": "hoang_tinh_nguyet",
+      "type": "mentor",
+      "description": "Lý Tinh Vân chỉ dẫn Hoàng Tinh Nguyệt trong Hàn Tinh Quan Trắc Đài"
+    },
+    {
+      "source": "hoang_tinh_nguyet",
+      "target": "tran_quang_minh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hàn Tinh Quan Trắc Đài, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tinh_han_tu",
+      "target": "ly_tinh_van",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hàn Tinh Quan Trắc Đài"
+    },
+    {
+      "source": "ly_tinh_van",
+      "target": "tinh_han_tu",
+      "type": "subordinate",
+      "description": "Phục tùng Tinh Hàn Tử, Đài Trưởng của Hàn Tinh Quan Trắc Đài"
+    },
+    {
+      "source": "ly_tinh_van",
+      "target": "tran_quang_minh",
+      "type": "mentor",
+      "description": "Lý Tinh Vân chỉ dẫn Trần Quang Minh trong Hàn Tinh Quan Trắc Đài"
+    },
+    {
+      "source": "tinh_han_tu",
+      "target": "tran_quang_minh",
+      "type": "mentor",
+      "description": "Tinh Hàn Tử chỉ dẫn Trần Quang Minh trong Hàn Tinh Quan Trắc Đài"
+    },
+    {
+      "source": "tran_quang_minh",
+      "target": "tinh_han_tu",
+      "type": "subordinate",
+      "description": "Phục tùng Tinh Hàn Tử, Đài Trưởng của Hàn Tinh Quan Trắc Đài"
+    },
+    {
+      "source": "trung_han_doc_vuong",
+      "target": "bang_duc",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hàn Độc Vi Trùng Đoàn"
+    },
+    {
+      "source": "bang_duc",
+      "target": "trung_han_doc_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng Trùng Hàn Độc Vương, Đoàn Trưởng của Hàn Độc Vi Trùng Đoàn"
+    },
+    {
+      "source": "bang_duc",
+      "target": "trung_bang_cham",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hàn Độc Vi Trùng Đoàn"
+    },
+    {
+      "source": "khuan_tinh_hai",
+      "target": "khuan_bich_ba",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_bich_ba",
+      "target": "khuan_tinh_hai",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Tịnh Hải, Đội Trưởng Tịnh Hóa của Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_bich_ba",
+      "target": "khuan_hai_nguyet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_bich_ba",
+      "target": "khuan_lam_trieu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_tinh_hai",
+      "target": "khuan_hai_nguyet",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_hai_nguyet",
+      "target": "khuan_tinh_hai",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Tịnh Hải, Đội Trưởng Tịnh Hóa của Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_hai_nguyet",
+      "target": "khuan_lam_trieu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_minh_chau",
+      "target": "khuan_hai_nguyet",
+      "type": "mentor",
+      "description": "Khuẩn Minh Châu chỉ dẫn Khuẩn Hải Nguyệt trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_tinh_hai",
+      "target": "khuan_lam_trieu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_lam_trieu",
+      "target": "khuan_tinh_hai",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Tịnh Hải, Đội Trưởng Tịnh Hóa của Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_minh_chau",
+      "target": "khuan_lam_trieu",
+      "type": "mentor",
+      "description": "Khuẩn Minh Châu chỉ dẫn Khuẩn Lam Triều trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_ngoc_tao",
+      "target": "khuan_lam_trieu",
+      "type": "mentor",
+      "description": "Khuẩn Ngọc Tảo chỉ dẫn Khuẩn Lam Triều trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_minh_chau",
+      "target": "khuan_tinh_hai",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_tinh_hai",
+      "target": "khuan_minh_chau",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_minh_chau",
+      "target": "khuan_ngoc_tao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_minh_chau",
+      "target": "khuan_thuy_thanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_tinh_hai",
+      "target": "khuan_ngoc_tao",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_ngoc_tao",
+      "target": "khuan_tinh_hai",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Tịnh Hải, Đội Trưởng Tịnh Hóa của Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_ngoc_tao",
+      "target": "khuan_thuy_thanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_ngoc_tao",
+      "target": "khuan_tieu_hai",
+      "type": "mentor",
+      "description": "Khuẩn Ngọc Tảo chỉ dẫn Khuẩn Tiểu Hải trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_thuy_thanh",
+      "target": "khuan_tinh_hai",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_tinh_hai",
+      "target": "khuan_thuy_thanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_thuy_thanh",
+      "target": "khuan_tieu_hai",
+      "type": "mentor",
+      "description": "Khuẩn Thủy Thanh chỉ dẫn Khuẩn Tiểu Hải trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_thuy_thanh",
+      "target": "khuan_trieu_luu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_tinh_hai",
+      "target": "khuan_tieu_hai",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_tieu_hai",
+      "target": "khuan_tinh_hai",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Tịnh Hải, Đội Trưởng Tịnh Hóa của Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_trieu_luu",
+      "target": "khuan_tieu_hai",
+      "type": "mentor",
+      "description": "Khuẩn Triều Lưu chỉ dẫn Khuẩn Tiểu Hải trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_trung_ba",
+      "target": "khuan_tieu_hai",
+      "type": "mentor",
+      "description": "Khuẩn Trừng Ba chỉ dẫn Khuẩn Tiểu Hải trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_tinh_hai",
+      "target": "khuan_trieu_luu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_trieu_luu",
+      "target": "khuan_tinh_hai",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Tịnh Hải, Đội Trưởng Tịnh Hóa của Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_trieu_luu",
+      "target": "khuan_trung_ba",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_tinh_hai",
+      "target": "khuan_trung_ba",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "khuan_trung_ba",
+      "target": "khuan_tinh_hai",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Tịnh Hải, Đội Trưởng Tịnh Hóa của Hải Khuẩn Tịnh Hóa Đội"
+    },
+    {
+      "source": "ma_hoang_lan",
+      "target": "toc_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Long Mã Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "toc_vu",
+      "target": "ma_hoang_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Long Mã Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_hoang_lan",
+      "target": "ma_thanh_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Long Mã Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_hoang_lan",
+      "target": "ma_thien_ly_hanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Long Mã Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "toc_vu",
+      "target": "ma_thanh_phong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Long Mã Đoàn"
+    },
+    {
+      "source": "ma_thanh_phong",
+      "target": "toc_vu",
+      "type": "subordinate",
+      "description": "Phục tùng Tốc Vũ, Đội Trưởng của Hải Long Mã Đoàn"
+    },
+    {
+      "source": "ma_thanh_phong",
+      "target": "ma_thien_ly_hanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Long Mã Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_thanh_phong",
+      "target": "ma_tieu_ngan",
+      "type": "mentor",
+      "description": "Mã Thanh Phong chỉ dẫn Mã Tiểu Ngân trong Hải Long Mã Đoàn"
+    },
+    {
+      "source": "toc_vu",
+      "target": "ma_thien_ly_hanh",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Long Mã Đoàn"
+    },
+    {
+      "source": "ma_thien_ly_hanh",
+      "target": "toc_vu",
+      "type": "subordinate",
+      "description": "Phục tùng Tốc Vũ, Đội Trưởng của Hải Long Mã Đoàn"
+    },
+    {
+      "source": "ma_thien_ly_hanh",
+      "target": "ma_tieu_ngan",
+      "type": "mentor",
+      "description": "Mã Thiên Lý Hành chỉ dẫn Mã Tiểu Ngân trong Hải Long Mã Đoàn"
+    },
+    {
+      "source": "toc_vu",
+      "target": "ma_tieu_ngan",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Long Mã Đoàn"
+    },
+    {
+      "source": "ma_tieu_ngan",
+      "target": "toc_vu",
+      "type": "subordinate",
+      "description": "Phục tùng Tốc Vũ, Đội Trưởng của Hải Long Mã Đoàn"
+    },
+    {
+      "source": "quy_co_hai",
+      "target": "quy_huyen_thien_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Quy Trưởng Lão Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "quy_huyen_thien_van",
+      "target": "quy_co_hai",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Quy Trưởng Lão Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "quy_co_hai",
+      "target": "quy_hac_giap",
+      "type": "mentor",
+      "description": "Quy Cổ Hải chỉ dẫn Quy Hắc Giáp trong Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_co_hai",
+      "target": "quy_ngoc_mai",
+      "type": "mentor",
+      "description": "Quy Cổ Hải chỉ dẫn Quy Ngọc Mai trong Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_huyen_thien_van",
+      "target": "quy_ngoc_mai",
+      "type": "mentor",
+      "description": "Quy Huyền Thiên Vạn chỉ dẫn Quy Ngọc Mai trong Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_huyen_thien_van",
+      "target": "quy_thien_ly",
+      "type": "mentor",
+      "description": "Quy Huyền Thiên Vạn chỉ dẫn Quy Thiên Lý trong Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_huyen_thien_van",
+      "target": "quy_tieu_thanh",
+      "type": "mentor",
+      "description": "Quy Huyền Thiên Vạn chỉ dẫn Quy Tiểu Thanh trong Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_huyen_thien_van",
+      "target": "quy_tinh_hai",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Quy Trưởng Lão Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "quy_huyen_thien_van",
+      "target": "quy_hac_giap",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_hac_giap",
+      "target": "quy_huyen_thien_van",
+      "type": "subordinate",
+      "description": "Phục tùng Quy Huyền Thiên Vạn, Đại Trưởng Lão của Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_hac_giap",
+      "target": "quy_ngoc_mai",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Quy Trưởng Lão Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "quy_hac_giap",
+      "target": "quy_thien_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Quy Trưởng Lão Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "quy_ngoc_mai",
+      "target": "quy_huyen_thien_van",
+      "type": "subordinate",
+      "description": "Phục tùng Quy Huyền Thiên Vạn, Đại Trưởng Lão của Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_ngoc_mai",
+      "target": "quy_thien_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Quy Trưởng Lão Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "quy_ngoc_mai",
+      "target": "quy_tieu_thanh",
+      "type": "mentor",
+      "description": "Quy Ngọc Mai chỉ dẫn Quy Tiểu Thanh trong Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_thien_ly",
+      "target": "quy_huyen_thien_van",
+      "type": "subordinate",
+      "description": "Phục tùng Quy Huyền Thiên Vạn, Đại Trưởng Lão của Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_thien_ly",
+      "target": "quy_tieu_thanh",
+      "type": "mentor",
+      "description": "Quy Thiên Lý chỉ dẫn Quy Tiểu Thanh trong Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_thien_ly",
+      "target": "quy_tinh_hai",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Quy Trưởng Lão Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "quy_tieu_thanh",
+      "target": "quy_huyen_thien_van",
+      "type": "subordinate",
+      "description": "Phục tùng Quy Huyền Thiên Vạn, Đại Trưởng Lão của Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_tinh_hai",
+      "target": "quy_tieu_thanh",
+      "type": "mentor",
+      "description": "Quy Tĩnh Hải chỉ dẫn Quy Tiểu Thanh trong Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_van_nien_han",
+      "target": "quy_tieu_thanh",
+      "type": "mentor",
+      "description": "Quy Vạn Niên Hàn chỉ dẫn Quy Tiểu Thanh trong Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_tinh_hai",
+      "target": "quy_huyen_thien_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Quy Trưởng Lão Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "quy_tinh_hai",
+      "target": "quy_van_nien_han",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Quy Trưởng Lão Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "quy_huyen_thien_van",
+      "target": "quy_van_nien_han",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "quy_van_nien_han",
+      "target": "quy_huyen_thien_van",
+      "type": "subordinate",
+      "description": "Phục tùng Quy Huyền Thiên Vạn, Đại Trưởng Lão của Hải Quy Trưởng Lão Hội"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "giao_bach_ngoc",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "giao_bach_ngoc",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "giao_bach_ngoc",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Giao Bạch Ngọc trong Hải Thần Cung"
+    },
+    {
+      "source": "giao_nguyet_han",
+      "target": "giao_bach_ngoc",
+      "type": "mentor",
+      "description": "Giao Nguyệt Hàn chỉ dẫn Giao Bạch Ngọc trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "giao_nguyet_han",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "giao_nguyet_han",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "giao_nguyet_han",
+      "target": "hai_ngoc_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung"
+    },
+    {
+      "source": "giao_nguyet_han",
+      "target": "giao_thien_le_nguyet",
+      "type": "mentor",
+      "description": "Giao Nguyệt Hàn chỉ dẫn Giao Thiên Lệ Nguyệt trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "giao_thien_le_nguyet",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "giao_thien_le_nguyet",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "giao_thien_le_nguyet",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Giao Thiên Lệ Nguyệt trong Hải Thần Cung"
+    },
+    {
+      "source": "giao_thien_le_nguyet",
+      "target": "giao_van_ha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "chuong_hac_trieu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "chuong_hac_trieu",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "chuong_hac_trieu",
+      "target": "hai_ngoc_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung"
+    },
+    {
+      "source": "chuong_hac_trieu",
+      "target": "giao_bach_ngoc",
+      "type": "mentor",
+      "description": "Chương Hắc Triều chỉ dẫn Giao Bạch Ngọc trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "chuong_thien_co_huyen",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "chuong_thien_co_huyen",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "chuong_thien_co_huyen",
+      "target": "hai_ngoc_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung"
+    },
+    {
+      "source": "chuong_thien_co_huyen",
+      "target": "giao_bach_ngoc",
+      "type": "mentor",
+      "description": "Chương Thiên Cơ Huyền chỉ dẫn Giao Bạch Ngọc trong Hải Thần Cung"
+    },
+    {
+      "source": "chuong_thien_nhan",
+      "target": "le_nhuoc_thuy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "chuong_thien_nhan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "chuong_thien_nhan",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Chương Thiên Nhãn trong Hải Thần Cung"
+    },
+    {
+      "source": "chuong_thien_nhan",
+      "target": "giao_bach_ngoc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "giao_thanh_lan",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "giao_thanh_lan",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "giao_thanh_lan",
+      "target": "hai_ngoc_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung"
+    },
+    {
+      "source": "giao_thanh_lan",
+      "target": "giao_thien_le_nguyet",
+      "type": "mentor",
+      "description": "Giao Thanh Lan chỉ dẫn Giao Thiên Lệ Nguyệt trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "giao_van_ha",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "giao_van_ha",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "giao_van_ha",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Giao Vân Hà trong Hải Thần Cung"
+    },
+    {
+      "source": "giao_van_ha",
+      "target": "ha_kim_giap",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "giai_huyen_giap",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "giai_huyen_giap",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "giai_huyen_giap",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Giải Huyền Giáp trong Hải Thần Cung"
+    },
+    {
+      "source": "giai_huyen_giap",
+      "target": "giao_bach_ngoc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "giai_thiet_giap_vuong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "giai_thiet_giap_vuong",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "giai_thiet_giap_vuong",
+      "target": "hai_ngoc_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung"
+    },
+    {
+      "source": "giai_thiet_giap_vuong",
+      "target": "giao_bach_ngoc",
+      "type": "mentor",
+      "description": "Giải Thiết Giáp Vương chỉ dẫn Giao Bạch Ngọc trong Hải Thần Cung"
+    },
+    {
+      "source": "ha_kim_giap",
+      "target": "le_nhuoc_thuy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "ha_kim_giap",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "ha_kim_giap",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Hà Kim Giáp trong Hải Thần Cung"
+    },
+    {
+      "source": "kinh_loi_thanh",
+      "target": "ha_kim_giap",
+      "type": "mentor",
+      "description": "Kình Lôi Thanh chỉ dẫn Hà Kim Giáp trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "kinh_loi_thanh",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "kinh_loi_thanh",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "kinh_loi_thanh",
+      "target": "hai_ngoc_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung"
+    },
+    {
+      "source": "kinh_loi_thanh",
+      "target": "kinh_thien_loi_am",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_thien_loi_am",
+      "target": "le_nhuoc_thuy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "kinh_thien_loi_am",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "kinh_thien_loi_am",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Kình Thiên Lôi Âm trong Hải Thần Cung"
+    },
+    {
+      "source": "kinh_van_ly",
+      "target": "kinh_thien_loi_am",
+      "type": "mentor",
+      "description": "Kình Vạn Lý chỉ dẫn Kình Thiên Lôi Âm trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "kinh_van_ly",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "kinh_van_ly",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "kinh_van_ly",
+      "target": "hai_ngoc_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung"
+    },
+    {
+      "source": "kinh_van_ly",
+      "target": "loa_ngan_thanh",
+      "type": "mentor",
+      "description": "Kình Vạn Lý chỉ dẫn Loa Ngân Thanh trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "loa_ngan_thanh",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "loa_ngan_thanh",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "loa_ngan_thanh",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Loa Ngân Thanh trong Hải Thần Cung"
+    },
+    {
+      "source": "loa_thien_am",
+      "target": "loa_ngan_thanh",
+      "type": "mentor",
+      "description": "Loa Thiên Âm chỉ dẫn Loa Ngân Thanh trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "loa_thien_am",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "loa_thien_am",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "loa_thien_am",
+      "target": "hai_ngoc_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung"
+    },
+    {
+      "source": "loa_thien_am",
+      "target": "ngu_thien_van_ly",
+      "type": "mentor",
+      "description": "Loa Thiên Âm chỉ dẫn Ngư Thiên Vạn Lý trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "le_van_hai",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "le_van_hai",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "le_van_hai",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Lệ Vân Hải trong Hải Thần Cung"
+    },
+    {
+      "source": "le_van_hai",
+      "target": "loa_ngan_thanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "ngu_thien_van_ly",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "ngu_thien_van_ly",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "ngu_thien_van_ly",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Ngư Thiên Vạn Lý trong Hải Thần Cung"
+    },
+    {
+      "source": "ngu_thien_van_ly",
+      "target": "ngu_tieu_ngan_lan",
+      "type": "mentor",
+      "description": "Ngư Thiên Vạn Lý chỉ dẫn Ngư Tiểu Ngân Lân trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "ngu_tieu_ngan_lan",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "ngu_tieu_ngan_lan",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "ngu_tieu_ngan_lan",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Ngư Tiểu Ngân Lân trong Hải Thần Cung"
+    },
+    {
+      "source": "sa_bach_phong",
+      "target": "ngu_tieu_ngan_lan",
+      "type": "mentor",
+      "description": "Sa Bạch Phong chỉ dẫn Ngư Tiểu Ngân Lân trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "sa_bach_phong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "sa_bach_phong",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "sa_bach_phong",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Sa Bạch Phong trong Hải Thần Cung"
+    },
+    {
+      "source": "sa_huyet_nha",
+      "target": "sa_bach_phong",
+      "type": "mentor",
+      "description": "Sa Huyết Nha chỉ dẫn Sa Bạch Phong trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "sa_huyet_nha",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "sa_huyet_nha",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "sa_huyet_nha",
+      "target": "hai_ngoc_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung"
+    },
+    {
+      "source": "sa_huyet_nha",
+      "target": "sa_phong_dao_thien",
+      "type": "mentor",
+      "description": "Sa Huyết Nha chỉ dẫn Sa Phong Đào Thiên trong Hải Thần Cung"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "sa_phong_dao_thien",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Thần Cung"
+    },
+    {
+      "source": "sa_phong_dao_thien",
+      "target": "le_nhuoc_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung"
+    },
+    {
+      "source": "sa_phong_dao_thien",
+      "target": "hai_ngoc_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung"
+    },
+    {
+      "source": "sa_phong_dao_thien",
+      "target": "sa_thiet_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_thiet_nha",
+      "target": "le_nhuoc_thuy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_nhuoc_thuy",
+      "target": "sa_thiet_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hai_ngoc_lan",
+      "target": "sa_thiet_nha",
+      "type": "mentor",
+      "description": "Hải Ngọc Lan dẫn dắt Sa Thiết Nha trong Hải Thần Cung"
+    },
+    {
+      "source": "mac_trieu_hai",
+      "target": "minh_da_trung",
+      "type": "mentor",
+      "description": "Mặc Triều Hải chỉ dẫn Minh Dạ Trùng trong Hải Trùng Đoàn"
+    },
+    {
+      "source": "ngu_phi_ong",
+      "target": "giai_nong_phu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "giai_nong_phu",
+      "target": "ngu_phi_ong",
+      "type": "subordinate",
+      "description": "Phục tùng Ngư Phì Ông, Hội Trưởng của Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "giai_nong_phu",
+      "target": "ha_can_lao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "giai_nong_phu",
+      "target": "ha_kim_thien_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ha_can_lao",
+      "target": "ngu_phi_ong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ngu_phi_ong",
+      "target": "ha_can_lao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ha_can_lao",
+      "target": "ha_kim_thien_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ha_can_lao",
+      "target": "ha_thanh_thien_tao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ngu_phi_ong",
+      "target": "ha_kim_thien_lan",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "ha_kim_thien_lan",
+      "target": "ngu_phi_ong",
+      "type": "subordinate",
+      "description": "Phục tùng Ngư Phì Ông, Hội Trưởng của Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "ha_kim_thien_lan",
+      "target": "ha_thanh_thien_tao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ha_kim_thien_lan",
+      "target": "loa_oc_cham",
+      "type": "mentor",
+      "description": "Hà Kim Thiên Lân chỉ dẫn Loa Ốc Chậm trong Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "ngu_phi_ong",
+      "target": "ha_thanh_thien_tao",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "ha_thanh_thien_tao",
+      "target": "ngu_phi_ong",
+      "type": "subordinate",
+      "description": "Phục tùng Ngư Phì Ông, Hội Trưởng của Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "ha_thanh_thien_tao",
+      "target": "loa_oc_cham",
+      "type": "mentor",
+      "description": "Hà Thanh Thiên Tảo chỉ dẫn Loa Ốc Chậm trong Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "ha_thanh_thien_tao",
+      "target": "ngu_thien_tao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ngu_phi_ong",
+      "target": "loa_oc_cham",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "loa_oc_cham",
+      "target": "ngu_phi_ong",
+      "type": "subordinate",
+      "description": "Phục tùng Ngư Phì Ông, Hội Trưởng của Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "ngu_thien_tao",
+      "target": "loa_oc_cham",
+      "type": "mentor",
+      "description": "Ngư Thiên Tảo chỉ dẫn Loa Ốc Chậm trong Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "loa_oc_cham",
+      "target": "ngu_tieu_phi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ngu_phi_ong",
+      "target": "ngu_thien_tao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ngu_phi_ong",
+      "target": "ngu_tieu_phi",
+      "type": "mentor",
+      "description": "Ngư Phì Ông chỉ dẫn Ngư Tiểu Phì trong Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "ngu_thien_tao",
+      "target": "ngu_phi_ong",
+      "type": "subordinate",
+      "description": "Phục tùng Ngư Phì Ông, Hội Trưởng của Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "ngu_thien_tao",
+      "target": "ngu_tieu_phi",
+      "type": "mentor",
+      "description": "Ngư Thiên Tảo chỉ dẫn Ngư Tiểu Phì trong Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "ngu_tieu_phi",
+      "target": "ngu_phi_ong",
+      "type": "subordinate",
+      "description": "Phục tùng Ngư Phì Ông, Hội Trưởng của Hải Tảo Nông Dân Hội"
+    },
+    {
+      "source": "sa_thiet_chau",
+      "target": "chuong_am_anh",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Tặc Tàn Dư"
+    },
+    {
+      "source": "chuong_am_anh",
+      "target": "sa_thiet_chau",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Thiết Châu, Đội Trưởng \"Độc Nhãn của Hải Tặc Tàn Dư"
+    },
+    {
+      "source": "chuong_am_anh",
+      "target": "giai_tan_giap",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tặc Tàn Dư, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "chuong_am_anh",
+      "target": "ngu_han_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tặc Tàn Dư, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_thiet_chau",
+      "target": "giai_tan_giap",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Tặc Tàn Dư"
+    },
+    {
+      "source": "giai_tan_giap",
+      "target": "sa_thiet_chau",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Thiết Châu, Đội Trưởng \"Độc Nhãn của Hải Tặc Tàn Dư"
+    },
+    {
+      "source": "giai_tan_giap",
+      "target": "ngu_han_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tặc Tàn Dư, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "giai_tan_giap",
+      "target": "sa_tieu_dao",
+      "type": "mentor",
+      "description": "Giải Tàn Giáp chỉ dẫn Sa Tiểu Đao trong Hải Tặc Tàn Dư"
+    },
+    {
+      "source": "ngu_han_phong",
+      "target": "sa_thiet_chau",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tặc Tàn Dư, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_thiet_chau",
+      "target": "ngu_han_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Tặc Tàn Dư, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ngu_han_phong",
+      "target": "sa_tieu_dao",
+      "type": "mentor",
+      "description": "Ngư Hàn Phong chỉ dẫn Sa Tiểu Đao trong Hải Tặc Tàn Dư"
+    },
+    {
+      "source": "sa_thiet_chau",
+      "target": "sa_tieu_dao",
+      "type": "mentor",
+      "description": "Sa Thiết Châu chỉ dẫn Sa Tiểu Đao trong Hải Tặc Tàn Dư"
+    },
+    {
+      "source": "sa_tieu_dao",
+      "target": "sa_thiet_chau",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Thiết Châu, Đội Trưởng \"Độc Nhãn của Hải Tặc Tàn Dư"
+    },
+    {
+      "source": "mau_nguyet_huyen_ca",
+      "target": "mau_huyen_vu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_huyen_vu",
+      "target": "mau_nguyet_huyen_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_huyen_vu",
+      "target": "mau_ngan_thanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mau_huyen_vu",
+      "target": "mau_phong_ba_hai",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mau_nguyet_huyen_ca",
+      "target": "mau_hai_thien_am",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_hai_thien_am",
+      "target": "mau_nguyet_huyen_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_hai_thien_am",
+      "target": "mau_huyen_vu",
+      "type": "mentor",
+      "description": "Mẫu Hải Thiên Âm chỉ dẫn Mẫu Huyền Vũ trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_hai_thien_am",
+      "target": "mau_hong_le",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mau_nguyet_huyen_ca",
+      "target": "mau_hong_le",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_hong_le",
+      "target": "mau_nguyet_huyen_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_hong_le",
+      "target": "mau_huyen_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mau_hong_le",
+      "target": "mau_ngan_thanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mau_nguyet_huyen_ca",
+      "target": "mau_phong_ba_hai",
+      "type": "mentor",
+      "description": "Mẫu Nguyệt Huyền Ca chỉ dẫn Mẫu Phong Ba Hải trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_nguyet_huyen_ca",
+      "target": "mau_thien_ca",
+      "type": "mentor",
+      "description": "Mẫu Nguyệt Huyền Ca chỉ dẫn Mẫu Thiên Ca trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_nguyet_huyen_ca",
+      "target": "mau_thien_le_nguyet",
+      "type": "mentor",
+      "description": "Mẫu Nguyệt Huyền Ca chỉ dẫn Mẫu Thiên Lệ Nguyệt trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_nguyet_huyen_ca",
+      "target": "mau_tieu_ca",
+      "type": "mentor",
+      "description": "Mẫu Nguyệt Huyền Ca chỉ dẫn Mẫu Tiểu Ca trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_nguyet_huyen_ca",
+      "target": "mau_ngan_thanh",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_ngan_thanh",
+      "target": "mau_nguyet_huyen_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_ngan_thanh",
+      "target": "mau_phong_ba_hai",
+      "type": "mentor",
+      "description": "Mẫu Ngân Thanh chỉ dẫn Mẫu Phong Ba Hải trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_thien_ca",
+      "target": "mau_ngan_thanh",
+      "type": "mentor",
+      "description": "Mẫu Thiên Ca chỉ dẫn Mẫu Ngân Thanh trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_phong_ba_hai",
+      "target": "mau_nguyet_huyen_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_thien_ca",
+      "target": "mau_phong_ba_hai",
+      "type": "mentor",
+      "description": "Mẫu Thiên Ca chỉ dẫn Mẫu Phong Ba Hải trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_phong_ba_hai",
+      "target": "mau_thien_le_nguyet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mau_thien_ca",
+      "target": "mau_nguyet_huyen_ca",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mau_thien_ca",
+      "target": "mau_thien_le_nguyet",
+      "type": "mentor",
+      "description": "Mẫu Thiên Ca chỉ dẫn Mẫu Thiên Lệ Nguyệt trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_thien_ca",
+      "target": "mau_tieu_ca",
+      "type": "mentor",
+      "description": "Mẫu Thiên Ca chỉ dẫn Mẫu Tiểu Ca trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_thien_le_nguyet",
+      "target": "mau_nguyet_huyen_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_thien_le_nguyet",
+      "target": "mau_tieu_ca",
+      "type": "mentor",
+      "description": "Mẫu Thiên Lệ Nguyệt chỉ dẫn Mẫu Tiểu Ca trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_tieu_ca",
+      "target": "mau_nguyet_huyen_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_nguyet_huyen_ca",
+      "target": "mau_am_song",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_am_song",
+      "target": "mau_nguyet_huyen_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung"
+    },
+    {
+      "source": "mau_am_song",
+      "target": "mau_huyen_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mau_am_song",
+      "target": "mau_hai_thien_am",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bang_hai_thien",
+      "target": "yen_hai_trieu",
+      "type": "mentor",
+      "description": "Bằng Hải Thiên chỉ dẫn Yến Hải Triều trong Hải Điểu Hội"
+    },
+    {
+      "source": "bang_hai_thien",
+      "target": "yen_trieu_cam",
+      "type": "mentor",
+      "description": "Bằng Hải Thiên chỉ dẫn Yến Triều Cầm trong Hải Điểu Hội"
+    },
+    {
+      "source": "bang_hai_thien",
+      "target": "ung_lang_tieu",
+      "type": "mentor",
+      "description": "Bằng Hải Thiên chỉ dẫn Ưng Lãng Tiêu trong Hải Điểu Hội"
+    },
+    {
+      "source": "bang_hai_thien",
+      "target": "ung_trieu_phong",
+      "type": "mentor",
+      "description": "Bằng Hải Thiên chỉ dẫn Ưng Triều Phong trong Hải Điểu Hội"
+    },
+    {
+      "source": "yen_hai_trieu",
+      "target": "bang_hai_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Bằng Hải Thiên, Hội Trưởng của Hải Điểu Hội"
+    },
+    {
+      "source": "yen_hai_trieu",
+      "target": "yen_trieu_cam",
+      "type": "mentor",
+      "description": "Yến Hải Triều chỉ dẫn Yến Triều Cầm trong Hải Điểu Hội"
+    },
+    {
+      "source": "yen_trieu_cam",
+      "target": "bang_hai_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Bằng Hải Thiên, Hội Trưởng của Hải Điểu Hội"
+    },
+    {
+      "source": "ung_lang_tieu",
+      "target": "bang_hai_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Bằng Hải Thiên, Hội Trưởng của Hải Điểu Hội"
+    },
+    {
+      "source": "ung_lang_tieu",
+      "target": "yen_hai_trieu",
+      "type": "mentor",
+      "description": "Ưng Lãng Tiêu chỉ dẫn Yến Hải Triều trong Hải Điểu Hội"
+    },
+    {
+      "source": "ung_lang_tieu",
+      "target": "yen_trieu_cam",
+      "type": "mentor",
+      "description": "Ưng Lãng Tiêu chỉ dẫn Yến Triều Cầm trong Hải Điểu Hội"
+    },
+    {
+      "source": "ung_trieu_phong",
+      "target": "bang_hai_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Bằng Hải Thiên, Hội Trưởng của Hải Điểu Hội"
+    },
+    {
+      "source": "ung_trieu_phong",
+      "target": "yen_hai_trieu",
+      "type": "mentor",
+      "description": "Ưng Triều Phong chỉ dẫn Yến Hải Triều trong Hải Điểu Hội"
+    },
+    {
+      "source": "ung_trieu_phong",
+      "target": "yen_trieu_cam",
+      "type": "mentor",
+      "description": "Ưng Triều Phong chỉ dẫn Yến Triều Cầm trong Hải Điểu Hội"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "chuong_huyet_muc_vuong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "chuong_huyet_muc_vuong",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "chuong_huyet_muc_vuong",
+      "target": "chuong_luc_muc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "chuong_thien_ty_hac",
+      "target": "chuong_huyet_muc_vuong",
+      "type": "mentor",
+      "description": "Chương Thiên Tý Hắc chỉ dẫn Chương Huyết Mực Vương trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "chuong_luc_muc",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "chuong_luc_muc",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "chuong_thien_ty_hac",
+      "target": "chuong_luc_muc",
+      "type": "mentor",
+      "description": "Chương Thiên Tý Hắc chỉ dẫn Chương Lục Mực trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "chuong_luc_muc",
+      "target": "giai_cu_kim",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "chuong_thien_ty_hac",
+      "target": "sa_huyet_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "chuong_thien_ty_hac",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "chuong_thien_ty_hac",
+      "target": "giai_cu_kim",
+      "type": "mentor",
+      "description": "Chương Thiên Tý Hắc chỉ dẫn Giải Cự Kìm trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "chuong_thien_ty_hac",
+      "target": "giai_thien_giap_vuong",
+      "type": "mentor",
+      "description": "Chương Thiên Tý Hắc chỉ dẫn Giải Thiên Giáp Vương trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "chuong_am_luu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "chuong_am_luu",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "chuong_am_luu",
+      "target": "chuong_huyet_muc_vuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "chuong_am_luu",
+      "target": "chuong_luc_muc",
+      "type": "mentor",
+      "description": "Chương Ám Lưu chỉ dẫn Chương Lục Mực trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "giai_cu_kim",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "giai_cu_kim",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "giai_thien_giap_vuong",
+      "target": "giai_cu_kim",
+      "type": "mentor",
+      "description": "Giải Thiên Giáp Vương chỉ dẫn Giải Cự Kìm trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "giai_cu_kim",
+      "target": "giai_thiet_quyen",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "giai_thien_giap_vuong",
+      "target": "sa_huyet_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "giai_thien_giap_vuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "giai_thien_giap_vuong",
+      "target": "giai_thiet_quyen",
+      "type": "mentor",
+      "description": "Giải Thiên Giáp Vương chỉ dẫn Giải Thiết Quyền trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "giai_thien_giap_vuong",
+      "target": "ha_phong_nhan",
+      "type": "mentor",
+      "description": "Giải Thiên Giáp Vương chỉ dẫn Hà Phong Nhận trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "giai_thiet_quyen",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "giai_thiet_quyen",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "giai_thiet_quyen",
+      "target": "ha_phong_nhan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "giai_thiet_quyen",
+      "target": "ha_thien_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "ha_phong_nhan",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "ha_phong_nhan",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "ha_thien_dao",
+      "target": "ha_phong_nhan",
+      "type": "mentor",
+      "description": "Hà Thiên Đao chỉ dẫn Hà Phong Nhận trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "kinh_hac_trieu",
+      "target": "ha_phong_nhan",
+      "type": "mentor",
+      "description": "Kình Hắc Triều chỉ dẫn Hà Phong Nhận trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "ha_thien_dao",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "ha_thien_dao",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "kinh_hac_trieu",
+      "target": "ha_thien_dao",
+      "type": "mentor",
+      "description": "Kình Hắc Triều chỉ dẫn Hà Thiên Đao trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "kinh_pha_lang",
+      "target": "ha_thien_dao",
+      "type": "mentor",
+      "description": "Kình Phá Lãng chỉ dẫn Hà Thiên Đao trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "kinh_hac_trieu",
+      "target": "sa_huyet_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "kinh_hac_trieu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_pha_lang",
+      "target": "kinh_hac_trieu",
+      "type": "mentor",
+      "description": "Kình Phá Lãng chỉ dẫn Kình Hắc Triều trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "kinh_hac_trieu",
+      "target": "kinh_thien_no_hai",
+      "type": "mentor",
+      "description": "Kình Hắc Triều chỉ dẫn Kình Thiên Nộ Hải trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "kinh_pha_lang",
+      "target": "sa_huyet_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "kinh_pha_lang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_pha_lang",
+      "target": "kinh_thien_no_hai",
+      "type": "mentor",
+      "description": "Kình Phá Lãng chỉ dẫn Kình Thiên Nộ Hải trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "kinh_pha_lang",
+      "target": "loa_chien_hao",
+      "type": "mentor",
+      "description": "Kình Phá Lãng chỉ dẫn Loa Chiến Hào trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "kinh_thien_no_hai",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "kinh_thien_no_hai",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "kinh_thien_no_hai",
+      "target": "loa_chien_hao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mau_huyen_anh",
+      "target": "kinh_thien_no_hai",
+      "type": "mentor",
+      "description": "Mẫu Huyễn Ảnh chỉ dẫn Kình Thiên Nộ Hải trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "loa_chien_hao",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "loa_chien_hao",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "mau_huyen_anh",
+      "target": "loa_chien_hao",
+      "type": "mentor",
+      "description": "Mẫu Huyễn Ảnh chỉ dẫn Loa Chiến Hào trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "loa_chien_hao",
+      "target": "mau_doc_cham",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mau_huyen_anh",
+      "target": "sa_huyet_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "mau_huyen_anh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mau_huyen_anh",
+      "target": "ngu_hac_lan",
+      "type": "mentor",
+      "description": "Mẫu Huyễn Ảnh chỉ dẫn Ngư Hắc Lân trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "mau_huyen_anh",
+      "target": "ngu_thien_loi_hoa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "mau_doc_cham",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "mau_doc_cham",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "mau_huyen_anh",
+      "target": "mau_doc_cham",
+      "type": "mentor",
+      "description": "Mẫu Huyễn Ảnh chỉ dẫn Mẫu Độc Châm trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "mau_doc_cham",
+      "target": "ngu_hac_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "ngu_hac_lan",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "ngu_hac_lan",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "ngu_thien_loi_hoa",
+      "target": "ngu_hac_lan",
+      "type": "mentor",
+      "description": "Ngư Thiên Lôi Hỏa chỉ dẫn Ngư Hắc Lân trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "ngu_hac_lan",
+      "target": "ngu_van_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ngu_thien_loi_hoa",
+      "target": "sa_huyet_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "ngu_thien_loi_hoa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ngu_thien_loi_hoa",
+      "target": "ngu_van_lan",
+      "type": "mentor",
+      "description": "Ngư Thiên Lôi Hỏa chỉ dẫn Ngư Vạn Lân trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "ngu_thien_loi_hoa",
+      "target": "sa_bach_cot",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "ngu_van_lan",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "ngu_van_lan",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_bach_cot",
+      "target": "ngu_van_lan",
+      "type": "mentor",
+      "description": "Sa Bạch Cốt chỉ dẫn Ngư Vạn Lân trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_cuong_nha",
+      "target": "ngu_van_lan",
+      "type": "mentor",
+      "description": "Sa Cuồng Nha chỉ dẫn Ngư Vạn Lân trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_bach_cot",
+      "target": "sa_huyet_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "sa_bach_cot",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_bach_cot",
+      "target": "sa_cuong_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_bach_cot",
+      "target": "sa_co_nha",
+      "type": "mentor",
+      "description": "Sa Bạch Cốt chỉ dẫn Sa Cô Nha trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "sa_cuong_nha",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_cuong_nha",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_cuong_nha",
+      "target": "sa_han_thien_nha",
+      "type": "mentor",
+      "description": "Sa Cuồng Nha chỉ dẫn Sa Hàn Thiên Nha trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_cuong_nha",
+      "target": "sa_thiet_bi_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "sa_co_nha",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_co_nha",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_co_nha",
+      "target": "sa_cuong_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_co_nha",
+      "target": "sa_han_thien_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "sa_thiet_bi_phong",
+      "type": "mentor",
+      "description": "Sa Huyết Đao chỉ dẫn Sa Thiết Bì Phong trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "sa_tieu_bach_nha",
+      "type": "mentor",
+      "description": "Sa Huyết Đao chỉ dẫn Sa Tiểu Bạch Nha trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_huyet_dao",
+      "target": "sa_han_thien_nha",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_han_thien_nha",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_han_thien_nha",
+      "target": "sa_thiet_bi_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_han_thien_nha",
+      "target": "sa_tieu_bach_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_thiet_bi_phong",
+      "target": "sa_huyet_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_thiet_bi_phong",
+      "target": "sa_tieu_bach_nha",
+      "type": "mentor",
+      "description": "Sa Thiết Bì Phong chỉ dẫn Sa Tiểu Bạch Nha trong Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "sa_tieu_bach_nha",
+      "target": "sa_huyet_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc"
+    },
+    {
+      "source": "hoa_thiet_tam",
+      "target": "hoa_giap_tru",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hỏa Diễm Công Phường"
+    },
+    {
+      "source": "hoa_giap_tru",
+      "target": "hoa_thiet_tam",
+      "type": "subordinate",
+      "description": "Phục tùng Hỏa Thiết Tâm, Phường Chủ của Hỏa Diễm Công Phường"
+    },
+    {
+      "source": "hoa_giap_tru",
+      "target": "hoa_tieu_viem",
+      "type": "mentor",
+      "description": "Hỏa Giáp Trụ chỉ dẫn Hỏa Tiểu Viêm trong Hỏa Diễm Công Phường"
+    },
+    {
+      "source": "hoa_thiet_tam",
+      "target": "hoa_tieu_viem",
+      "type": "mentor",
+      "description": "Hỏa Thiết Tâm chỉ dẫn Hỏa Tiểu Viêm trong Hỏa Diễm Công Phường"
+    },
+    {
+      "source": "hoa_tieu_viem",
+      "target": "hoa_thiet_tam",
+      "type": "subordinate",
+      "description": "Phục tùng Hỏa Thiết Tâm, Phường Chủ của Hỏa Diễm Công Phường"
+    },
+    {
+      "source": "hoa_thien_viem_son",
+      "target": "hoa_nham_dung",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hỏa Yêu Tàn Đoàn"
+    },
+    {
+      "source": "hoa_nham_dung",
+      "target": "hoa_thien_viem_son",
+      "type": "subordinate",
+      "description": "Phục tùng Hỏa Thiên Viêm Sơn, Phó Đoàn Trưởng của Hỏa Yêu Tàn Đoàn"
+    },
+    {
+      "source": "hoa_nham_dung",
+      "target": "hoa_tinh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hỏa Yêu Tàn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoa_nham_dung",
+      "target": "hoa_tan_hoa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hỏa Yêu Tàn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoa_thien_viem_son",
+      "target": "hoa_tinh",
+      "type": "mentor",
+      "description": "Hỏa Thiên Viêm Sơn chỉ dẫn Hỏa Tinh trong Hỏa Yêu Tàn Đoàn"
+    },
+    {
+      "source": "hoa_tinh",
+      "target": "hoa_thien_viem_son",
+      "type": "subordinate",
+      "description": "Phục tùng Hỏa Thiên Viêm Sơn, Phó Đoàn Trưởng của Hỏa Yêu Tàn Đoàn"
+    },
+    {
+      "source": "hoa_thien_viem_son",
+      "target": "hoa_tan_hoa",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Hỏa Yêu Tàn Đoàn"
+    },
+    {
+      "source": "hoa_tan_hoa",
+      "target": "hoa_thien_viem_son",
+      "type": "subordinate",
+      "description": "Phục tùng Hỏa Thiên Viêm Sơn, Phó Đoàn Trưởng của Hỏa Yêu Tàn Đoàn"
+    },
+    {
+      "source": "hoa_tan_hoa",
+      "target": "hoa_tinh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hỏa Yêu Tàn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoa_tan_viem",
+      "target": "hoa_tan_hoa",
+      "type": "mentor",
+      "description": "Hỏa Tàn Viêm chỉ dẫn Hỏa Tàn Hoa trong Hỏa Yêu Tàn Đoàn"
+    },
+    {
+      "source": "hoa_tan_viem",
+      "target": "hoa_thien_viem_son",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hỏa Yêu Tàn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoa_thien_viem_son",
+      "target": "hoa_tan_viem",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hỏa Yêu Tàn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoa_tan_viem",
+      "target": "hoa_tinh",
+      "type": "mentor",
+      "description": "Hỏa Tàn Viêm chỉ dẫn Hỏa Tinh trong Hỏa Yêu Tàn Đoàn"
+    },
+    {
+      "source": "phap_khong",
+      "target": "kim_cuong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Kim Sa Tự"
+    },
+    {
+      "source": "kim_cuong",
+      "target": "phap_khong",
+      "type": "subordinate",
+      "description": "Phục tùng Pháp Không, Đại Trưởng Lão của Kim Sa Tự"
+    },
+    {
+      "source": "gioi_tran",
+      "target": "kim_cuong",
+      "type": "mentor",
+      "description": "Giới Trần dẫn dắt Kim Cương trong Kim Sa Tự"
+    },
+    {
+      "source": "kim_cuong",
+      "target": "minh_ngo",
+      "type": "mentor",
+      "description": "Kim Cương chỉ dẫn Minh Ngộ trong Kim Sa Tự"
+    },
+    {
+      "source": "phap_khong",
+      "target": "minh_ngo",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Kim Sa Tự"
+    },
+    {
+      "source": "minh_ngo",
+      "target": "phap_khong",
+      "type": "subordinate",
+      "description": "Phục tùng Pháp Không, Đại Trưởng Lão của Kim Sa Tự"
+    },
+    {
+      "source": "gioi_tran",
+      "target": "minh_ngo",
+      "type": "mentor",
+      "description": "Giới Trần dẫn dắt Minh Ngộ trong Kim Sa Tự"
+    },
+    {
+      "source": "pho_te",
+      "target": "minh_ngo",
+      "type": "mentor",
+      "description": "Phổ Tế chỉ dẫn Minh Ngộ trong Kim Sa Tự"
+    },
+    {
+      "source": "pho_te",
+      "target": "phap_khong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kim Sa Tự, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phap_khong",
+      "target": "pho_te",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kim Sa Tự, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "gioi_tran",
+      "target": "pho_te",
+      "type": "mentor",
+      "description": "Giới Trần dẫn dắt Phổ Tế trong Kim Sa Tự"
+    },
+    {
+      "source": "pho_te",
+      "target": "tinh_tam",
+      "type": "mentor",
+      "description": "Phổ Tế chỉ dẫn Tịnh Tâm trong Kim Sa Tự"
+    },
+    {
+      "source": "phap_khong",
+      "target": "tinh_tam",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Kim Sa Tự"
+    },
+    {
+      "source": "tinh_tam",
+      "target": "phap_khong",
+      "type": "subordinate",
+      "description": "Phục tùng Pháp Không, Đại Trưởng Lão của Kim Sa Tự"
+    },
+    {
+      "source": "gioi_tran",
+      "target": "tinh_tam",
+      "type": "mentor",
+      "description": "Giới Trần dẫn dắt Tịnh Tâm trong Kim Sa Tự"
+    },
+    {
+      "source": "tinh_tam",
+      "target": "vien_thong",
+      "type": "mentor",
+      "description": "Tịnh Tâm chỉ dẫn Viên Thông trong Kim Sa Tự"
+    },
+    {
+      "source": "vien_thong",
+      "target": "phap_khong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kim Sa Tự, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phap_khong",
+      "target": "vien_thong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kim Sa Tự, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "gioi_tran",
+      "target": "vien_thong",
+      "type": "mentor",
+      "description": "Giới Trần dẫn dắt Viên Thông trong Kim Sa Tự"
+    },
+    {
+      "source": "mach_hoang_kim",
+      "target": "mach_ngan_quang",
+      "type": "mentor",
+      "description": "Mạch Hoàng Kim chỉ dẫn Mạch Ngân Quang trong Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_hoang_kim",
+      "target": "mach_ngoc_thach",
+      "type": "mentor",
+      "description": "Mạch Hoàng Kim chỉ dẫn Mạch Ngọc Thạch trong Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_hoang_kim",
+      "target": "mach_thiet_cot",
+      "type": "mentor",
+      "description": "Mạch Hoàng Kim chỉ dẫn Mạch Thiết Cốt trong Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_hoang_kim",
+      "target": "mach_tieu_quang",
+      "type": "mentor",
+      "description": "Mạch Hoàng Kim chỉ dẫn Mạch Tiểu Quặng trong Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_ngan_quang",
+      "target": "mach_hoang_kim",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kim Sa Vi Mạch, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mach_ngan_quang",
+      "target": "mach_ngoc_thach",
+      "type": "mentor",
+      "description": "Mạch Ngân Quang chỉ dẫn Mạch Ngọc Thạch trong Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_ngan_quang",
+      "target": "mach_thiet_cot",
+      "type": "mentor",
+      "description": "Mạch Ngân Quang chỉ dẫn Mạch Thiết Cốt trong Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_ngoc_thach",
+      "target": "mach_hoang_kim",
+      "type": "subordinate",
+      "description": "Phục tùng Mạch Hoàng Kim, Mạch Chủ của Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_ngoc_thach",
+      "target": "mach_thiet_cot",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kim Sa Vi Mạch, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mach_ngoc_thach",
+      "target": "mach_tieu_quang",
+      "type": "mentor",
+      "description": "Mạch Ngọc Thạch chỉ dẫn Mạch Tiểu Quặng trong Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_thiet_cot",
+      "target": "mach_hoang_kim",
+      "type": "subordinate",
+      "description": "Phục tùng Mạch Hoàng Kim, Mạch Chủ của Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_thiet_cot",
+      "target": "mach_tieu_quang",
+      "type": "mentor",
+      "description": "Mạch Thiết Cốt chỉ dẫn Mạch Tiểu Quặng trong Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_tieu_quang",
+      "target": "mach_hoang_kim",
+      "type": "subordinate",
+      "description": "Phục tùng Mạch Hoàng Kim, Mạch Chủ của Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_hoang_kim",
+      "target": "mach_dong_tam",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_dong_tam",
+      "target": "mach_hoang_kim",
+      "type": "subordinate",
+      "description": "Phục tùng Mạch Hoàng Kim, Mạch Chủ của Kim Sa Vi Mạch"
+    },
+    {
+      "source": "mach_dong_tam",
+      "target": "mach_ngan_quang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kim Sa Vi Mạch, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mach_dong_tam",
+      "target": "mach_ngoc_thach",
+      "type": "mentor",
+      "description": "Mạch Đồng Tâm chỉ dẫn Mạch Ngọc Thạch trong Kim Sa Vi Mạch"
+    },
+    {
+      "source": "kinh_thien_hai_vuong",
+      "target": "kinh_hai_am_thien",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_hai_am_thien",
+      "target": "kinh_thien_hai_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_hai_am_thien",
+      "target": "kinh_loi_am",
+      "type": "mentor",
+      "description": "Kình Hải Âm Thiên chỉ dẫn Kình Lôi Âm trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_hai_am_thien",
+      "target": "kinh_mau_tu",
+      "type": "mentor",
+      "description": "Kình Hải Âm Thiên chỉ dẫn Kình Mẫu Từ trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_thien_hai_vuong",
+      "target": "kinh_loi_am",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_loi_am",
+      "target": "kinh_thien_hai_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_loi_am",
+      "target": "kinh_mau_tu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_loi_am",
+      "target": "kinh_ngan_hai_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_thien_hai_vuong",
+      "target": "kinh_mau_tu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_mau_tu",
+      "target": "kinh_thien_hai_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_mau_tu",
+      "target": "kinh_ngan_hai_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_mau_tu",
+      "target": "kinh_thiet_dau",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_thien_hai_vuong",
+      "target": "kinh_ngan_hai_thien",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_ngan_hai_thien",
+      "target": "kinh_thien_hai_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_thiet_dau",
+      "target": "kinh_ngan_hai_thien",
+      "type": "mentor",
+      "description": "Kình Thiết Đầu chỉ dẫn Kình Ngân Hải Thiên trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_tham_uyen_hai",
+      "target": "kinh_ngan_hai_thien",
+      "type": "mentor",
+      "description": "Kình Thâm Uyên Hải chỉ dẫn Kình Ngân Hải Thiên trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_thien_hai_vuong",
+      "target": "kinh_thiet_dau",
+      "type": "mentor",
+      "description": "Kình Thiên Hải Vương chỉ dẫn Kình Thiết Đầu trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_thien_hai_vuong",
+      "target": "kinh_tieu_thanh",
+      "type": "mentor",
+      "description": "Kình Thiên Hải Vương chỉ dẫn Kình Tiểu Thanh trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_thien_hai_vuong",
+      "target": "kinh_van_hai",
+      "type": "mentor",
+      "description": "Kình Thiên Hải Vương chỉ dẫn Kình Vân Hải trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_thiet_dau",
+      "target": "kinh_thien_hai_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_thiet_dau",
+      "target": "kinh_tieu_thanh",
+      "type": "mentor",
+      "description": "Kình Thiết Đầu chỉ dẫn Kình Tiểu Thanh trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_van_hai",
+      "target": "kinh_thiet_dau",
+      "type": "mentor",
+      "description": "Kình Vân Hải chỉ dẫn Kình Thiết Đầu trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_thien_hai_vuong",
+      "target": "kinh_tham_uyen_hai",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_tham_uyen_hai",
+      "target": "kinh_thien_hai_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_tham_uyen_hai",
+      "target": "kinh_thiet_dau",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kinh_tham_uyen_hai",
+      "target": "kinh_tieu_thanh",
+      "type": "mentor",
+      "description": "Kình Thâm Uyên Hải chỉ dẫn Kình Tiểu Thanh trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_tieu_thanh",
+      "target": "kinh_thien_hai_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_van_hai",
+      "target": "kinh_tieu_thanh",
+      "type": "mentor",
+      "description": "Kình Vân Hải chỉ dẫn Kình Tiểu Thanh trong Kình Ngư Bộ Lạc"
+    },
+    {
+      "source": "kinh_van_hai",
+      "target": "kinh_thien_hai_vuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bao_an",
+      "target": "khuan_am",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ký Sinh Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_am",
+      "target": "bao_an",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ký Sinh Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bao_an",
+      "target": "khuan_tiem",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ký Sinh Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_tiem",
+      "target": "khuan_am",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ký Sinh Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_am",
+      "target": "khuan_tiem",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ký Sinh Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_linh_hoa",
+      "target": "ho_cuu_thien",
+      "type": "mentor",
+      "description": "Hồ Linh Hỏa chỉ dẫn Hồ Cửu Thiên trong Linh Hồ Tàn Tộc"
+    },
+    {
+      "source": "ho_nguyet_quang",
+      "target": "ho_cuu_thien",
+      "type": "mentor",
+      "description": "Hồ Nguyệt Quang chỉ dẫn Hồ Cửu Thiên trong Linh Hồ Tàn Tộc"
+    },
+    {
+      "source": "ho_tuyet_lan",
+      "target": "ho_cuu_thien",
+      "type": "mentor",
+      "description": "Hồ Tuyết Lan chỉ dẫn Hồ Cửu Thiên trong Linh Hồ Tàn Tộc"
+    },
+    {
+      "source": "ho_linh_hoa",
+      "target": "ho_nguyet_quang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Linh Hồ Tàn Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_linh_hoa",
+      "target": "ho_tuyet_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Linh Hồ Tàn Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_nguyet_quang",
+      "target": "ho_tuyet_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Linh Hồ Tàn Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_ao_mong_thien",
+      "target": "ho_cuu_thien",
+      "type": "mentor",
+      "description": "Hồ Ảo Mộng Thiên chỉ dẫn Hồ Cửu Thiên trong Linh Hồ Tàn Tộc"
+    },
+    {
+      "source": "ho_ao_mong_thien",
+      "target": "ho_linh_hoa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Linh Hồ Tàn Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_ao_mong_thien",
+      "target": "ho_nguyet_quang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Linh Hồ Tàn Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_ao_mong_thien",
+      "target": "ho_tuyet_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Linh Hồ Tàn Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_bach_cot",
+      "target": "khuan_hu_cot",
+      "type": "ally",
+      "description": "Đồng liêu cùng Linh Sa Khuẩn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_hu_cot",
+      "target": "khuan_bach_cot",
+      "type": "ally",
+      "description": "Đồng liêu cùng Linh Sa Khuẩn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_bach_cot",
+      "target": "khuan_da_thuc",
+      "type": "mentor",
+      "description": "Khuẩn Bạch Cốt chỉ dẫn Khuẩn Dạ Thực trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_bach_cot",
+      "target": "khuan_hac_nhuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Linh Sa Khuẩn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_hu_cot",
+      "target": "khuan_da_thuc",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_da_thuc",
+      "target": "khuan_hu_cot",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Hủ Cốt, Đoàn Trưởng của Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_hac_nhuong",
+      "target": "khuan_da_thuc",
+      "type": "mentor",
+      "description": "Khuẩn Hắc Nhưỡng chỉ dẫn Khuẩn Dạ Thực trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_da_thuc",
+      "target": "khuan_linh_hoa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Linh Sa Khuẩn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_hu_cot",
+      "target": "khuan_hac_nhuong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_hac_nhuong",
+      "target": "khuan_hu_cot",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Hủ Cốt, Đoàn Trưởng của Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_hac_nhuong",
+      "target": "khuan_linh_hoa",
+      "type": "mentor",
+      "description": "Khuẩn Hắc Nhưỡng chỉ dẫn Khuẩn Linh Hóa trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_hac_nhuong",
+      "target": "khuan_tieu_hu",
+      "type": "mentor",
+      "description": "Khuẩn Hắc Nhưỡng chỉ dẫn Khuẩn Tiểu Hủ trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_hu_cot",
+      "target": "khuan_linh_hoa",
+      "type": "mentor",
+      "description": "Khuẩn Hủ Cốt chỉ dẫn Khuẩn Linh Hóa trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_hu_cot",
+      "target": "khuan_tieu_hu",
+      "type": "mentor",
+      "description": "Khuẩn Hủ Cốt chỉ dẫn Khuẩn Tiểu Hủ trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_hu_cot",
+      "target": "khuan_tram_huong",
+      "type": "mentor",
+      "description": "Khuẩn Hủ Cốt chỉ dẫn Khuẩn Trầm Hương trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_hu_cot",
+      "target": "khuan_tinh_hoa",
+      "type": "mentor",
+      "description": "Khuẩn Hủ Cốt chỉ dẫn Khuẩn Tĩnh Hóa trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_linh_hoa",
+      "target": "khuan_hu_cot",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Hủ Cốt, Đoàn Trưởng của Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_linh_hoa",
+      "target": "khuan_tieu_hu",
+      "type": "mentor",
+      "description": "Khuẩn Linh Hóa chỉ dẫn Khuẩn Tiểu Hủ trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_tram_huong",
+      "target": "khuan_linh_hoa",
+      "type": "mentor",
+      "description": "Khuẩn Trầm Hương chỉ dẫn Khuẩn Linh Hóa trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_tieu_hu",
+      "target": "khuan_hu_cot",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Hủ Cốt, Đoàn Trưởng của Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_tram_huong",
+      "target": "khuan_tieu_hu",
+      "type": "mentor",
+      "description": "Khuẩn Trầm Hương chỉ dẫn Khuẩn Tiểu Hủ trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_tinh_hoa",
+      "target": "khuan_tieu_hu",
+      "type": "mentor",
+      "description": "Khuẩn Tĩnh Hóa chỉ dẫn Khuẩn Tiểu Hủ trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_tram_huong",
+      "target": "khuan_hu_cot",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Hủ Cốt, Đoàn Trưởng của Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_tinh_hoa",
+      "target": "khuan_hu_cot",
+      "type": "subordinate",
+      "description": "Phục tùng Khuẩn Hủ Cốt, Đoàn Trưởng của Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "khuan_tram_huong",
+      "target": "khuan_tinh_hoa",
+      "type": "mentor",
+      "description": "Khuẩn Trầm Hương chỉ dẫn Khuẩn Tĩnh Hóa trong Linh Sa Khuẩn Đoàn"
+    },
+    {
+      "source": "van_kiep",
+      "target": "cuong_loi",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Long Cung"
+    },
+    {
+      "source": "cuong_loi",
+      "target": "van_kiep",
+      "type": "subordinate",
+      "description": "Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung"
+    },
+    {
+      "source": "cuong_loi",
+      "target": "bang_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung"
+    },
+    {
+      "source": "cuong_loi",
+      "target": "huyet_trieu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "van_kiep",
+      "target": "huyet_trieu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Long Cung"
+    },
+    {
+      "source": "huyet_trieu",
+      "target": "van_kiep",
+      "type": "subordinate",
+      "description": "Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung"
+    },
+    {
+      "source": "huyet_trieu",
+      "target": "bang_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung"
+    },
+    {
+      "source": "huyet_trieu",
+      "target": "minh_tram_mac",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "van_kiep",
+      "target": "hac_lac_nhan",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Long Cung"
+    },
+    {
+      "source": "hac_lac_nhan",
+      "target": "van_kiep",
+      "type": "subordinate",
+      "description": "Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung"
+    },
+    {
+      "source": "bang_nha",
+      "target": "hac_lac_nhan",
+      "type": "mentor",
+      "description": "Băng Nha dẫn dắt Hắc Lạc Nhạn trong Long Cung"
+    },
+    {
+      "source": "huyet_trieu",
+      "target": "hac_lac_nhan",
+      "type": "mentor",
+      "description": "Huyết Triều chỉ dẫn Hắc Lạc Nhạn trong Long Cung"
+    },
+    {
+      "source": "van_kiep",
+      "target": "hac_ngao_thien",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Long Cung"
+    },
+    {
+      "source": "hac_ngao_thien",
+      "target": "van_kiep",
+      "type": "subordinate",
+      "description": "Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung"
+    },
+    {
+      "source": "hac_ngao_thien",
+      "target": "bang_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung"
+    },
+    {
+      "source": "hac_ngao_thien",
+      "target": "huyet_trieu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "van_kiep",
+      "target": "minh_tram_mac",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Long Cung"
+    },
+    {
+      "source": "minh_tram_mac",
+      "target": "van_kiep",
+      "type": "subordinate",
+      "description": "Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung"
+    },
+    {
+      "source": "minh_tram_mac",
+      "target": "bang_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung"
+    },
+    {
+      "source": "minh_tram_mac",
+      "target": "ngao_dinh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "van_kiep",
+      "target": "ngao_dinh",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Long Cung"
+    },
+    {
+      "source": "ngao_dinh",
+      "target": "van_kiep",
+      "type": "subordinate",
+      "description": "Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung"
+    },
+    {
+      "source": "ngao_dinh",
+      "target": "bang_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung"
+    },
+    {
+      "source": "ngao_dinh",
+      "target": "thiet_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "van_kiep",
+      "target": "thiet_lan",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Long Cung"
+    },
+    {
+      "source": "thiet_lan",
+      "target": "van_kiep",
+      "type": "subordinate",
+      "description": "Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung"
+    },
+    {
+      "source": "bang_nha",
+      "target": "thiet_lan",
+      "type": "mentor",
+      "description": "Băng Nha dẫn dắt Thiết Lân trong Long Cung"
+    },
+    {
+      "source": "thiet_lan",
+      "target": "xich_liet_hoa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "van_kiep",
+      "target": "xich_liet_hoa",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Long Cung"
+    },
+    {
+      "source": "xich_liet_hoa",
+      "target": "van_kiep",
+      "type": "subordinate",
+      "description": "Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung"
+    },
+    {
+      "source": "xich_liet_hoa",
+      "target": "bang_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung"
+    },
+    {
+      "source": "xich_liet_hoa",
+      "target": "xich_ngoc_yen",
+      "type": "mentor",
+      "description": "Xích Liệt Hỏa chỉ dẫn Xích Ngọc Yên trong Long Cung"
+    },
+    {
+      "source": "van_kiep",
+      "target": "xich_ngoc_yen",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Long Cung"
+    },
+    {
+      "source": "xich_ngoc_yen",
+      "target": "van_kiep",
+      "type": "subordinate",
+      "description": "Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung"
+    },
+    {
+      "source": "bang_nha",
+      "target": "xich_ngoc_yen",
+      "type": "mentor",
+      "description": "Băng Nha dẫn dắt Xích Ngọc Yên trong Long Cung"
+    },
+    {
+      "source": "loi_thien_no",
+      "target": "loi_chan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Lôi Trì Thánh Địa"
+    },
+    {
+      "source": "loi_thien_no",
+      "target": "loi_tieu_chan",
+      "type": "mentor",
+      "description": "Lôi Thiên Nộ chỉ dẫn Lôi Tiểu Chấn trong Lôi Trì Thánh Địa"
+    },
+    {
+      "source": "loi_thien_no",
+      "target": "loi_van",
+      "type": "mentor",
+      "description": "Lôi Thiên Nộ chỉ dẫn Lôi Vân trong Lôi Trì Thánh Địa"
+    },
+    {
+      "source": "loi_thien_no",
+      "target": "tran_loi_hoa",
+      "type": "mentor",
+      "description": "Lôi Thiên Nộ chỉ dẫn Trần Lôi Hỏa trong Lôi Trì Thánh Địa"
+    },
+    {
+      "source": "loi_chan",
+      "target": "loi_tieu_chan",
+      "type": "mentor",
+      "description": "Lôi Chấn dẫn dắt Lôi Tiểu Chấn trong Lôi Trì Thánh Địa"
+    },
+    {
+      "source": "loi_van",
+      "target": "loi_tieu_chan",
+      "type": "mentor",
+      "description": "Lôi Vân chỉ dẫn Lôi Tiểu Chấn trong Lôi Trì Thánh Địa"
+    },
+    {
+      "source": "loi_tieu_chan",
+      "target": "tran_loi_hoa",
+      "type": "mentor",
+      "description": "Lôi Tiểu Chấn chỉ dẫn Trần Lôi Hỏa trong Lôi Trì Thánh Địa"
+    },
+    {
+      "source": "loi_tieu_chan",
+      "target": "ton_loi_ung",
+      "type": "ally",
+      "description": "Đồng liêu cùng Lôi Trì Thánh Địa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "loi_chan",
+      "target": "loi_van",
+      "type": "mentor",
+      "description": "Lôi Chấn dẫn dắt Lôi Vân trong Lôi Trì Thánh Địa"
+    },
+    {
+      "source": "loi_van",
+      "target": "tran_loi_hoa",
+      "type": "mentor",
+      "description": "Lôi Vân chỉ dẫn Trần Lôi Hỏa trong Lôi Trì Thánh Địa"
+    },
+    {
+      "source": "loi_van",
+      "target": "ton_loi_ung",
+      "type": "mentor",
+      "description": "Lôi Vân chỉ dẫn Tôn Lôi Ưng trong Lôi Trì Thánh Địa"
+    },
+    {
+      "source": "loi_chan",
+      "target": "tran_loi_hoa",
+      "type": "mentor",
+      "description": "Lôi Chấn dẫn dắt Trần Lôi Hỏa trong Lôi Trì Thánh Địa"
+    },
+    {
+      "source": "loi_chan",
+      "target": "ton_loi_ung",
+      "type": "mentor",
+      "description": "Lôi Chấn dẫn dắt Tôn Lôi Ưng trong Lôi Trì Thánh Địa"
+    },
+    {
+      "source": "ton_loi_ung",
+      "target": "tran_loi_hoa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Lôi Trì Thánh Địa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "cong_kim_long",
+      "target": "cong_dieu_thu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Lông Vũ Phường"
+    },
+    {
+      "source": "cong_dieu_thu",
+      "target": "cong_kim_long",
+      "type": "subordinate",
+      "description": "Phục tùng Công Kim Lông, Phường Chủ của Lông Vũ Phường"
+    },
+    {
+      "source": "cong_dieu_thu",
+      "target": "cong_thai_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Lông Vũ Phường, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "cong_dieu_thu",
+      "target": "hac_tuyet_long",
+      "type": "mentor",
+      "description": "Công Diệu Thủ chỉ dẫn Hạc Tuyết Lông trong Lông Vũ Phường"
+    },
+    {
+      "source": "cong_kim_long",
+      "target": "cong_thai_vu",
+      "type": "mentor",
+      "description": "Công Kim Lông chỉ dẫn Công Thái Vũ trong Lông Vũ Phường"
+    },
+    {
+      "source": "cong_kim_long",
+      "target": "hac_tuyet_long",
+      "type": "mentor",
+      "description": "Công Kim Lông chỉ dẫn Hạc Tuyết Lông trong Lông Vũ Phường"
+    },
+    {
+      "source": "cong_kim_long",
+      "target": "tuoc_thanh",
+      "type": "mentor",
+      "description": "Công Kim Lông chỉ dẫn Tước Thanh trong Lông Vũ Phường"
+    },
+    {
+      "source": "cong_thai_vu",
+      "target": "cong_kim_long",
+      "type": "subordinate",
+      "description": "Phục tùng Công Kim Lông, Phường Chủ của Lông Vũ Phường"
+    },
+    {
+      "source": "cong_thai_vu",
+      "target": "hac_tuyet_long",
+      "type": "mentor",
+      "description": "Công Thái Vũ chỉ dẫn Hạc Tuyết Lông trong Lông Vũ Phường"
+    },
+    {
+      "source": "cong_thai_vu",
+      "target": "tuoc_thanh",
+      "type": "mentor",
+      "description": "Công Thái Vũ chỉ dẫn Tước Thanh trong Lông Vũ Phường"
+    },
+    {
+      "source": "hac_tuyet_long",
+      "target": "cong_kim_long",
+      "type": "subordinate",
+      "description": "Phục tùng Công Kim Lông, Phường Chủ của Lông Vũ Phường"
+    },
+    {
+      "source": "hac_tuyet_long",
+      "target": "tuoc_thanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Lông Vũ Phường, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tuoc_thanh",
+      "target": "cong_kim_long",
+      "type": "subordinate",
+      "description": "Phục tùng Công Kim Lông, Phường Chủ của Lông Vũ Phường"
+    },
+    {
+      "source": "ly_tieu_ba",
+      "target": "ly_van_trieu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ngư Dân Tu Luyện Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_tieu_ba",
+      "target": "tran_hai_yen",
+      "type": "mentor",
+      "description": "Lý Tiểu Ba chỉ dẫn Trần Hải Yến trong Ngư Dân Tu Luyện Hội"
+    },
+    {
+      "source": "ly_van_trieu",
+      "target": "ly_tieu_ba",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ngư Dân Tu Luyện Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_van_trieu",
+      "target": "tran_hai_yen",
+      "type": "mentor",
+      "description": "Lý Vạn Triều chỉ dẫn Trần Hải Yến trong Ngư Dân Tu Luyện Hội"
+    },
+    {
+      "source": "ly_tieu_ba",
+      "target": "ly_dai_hai",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Ngư Dân Tu Luyện Hội"
+    },
+    {
+      "source": "ly_dai_hai",
+      "target": "ly_tieu_ba",
+      "type": "subordinate",
+      "description": "Phục tùng Lý Tiểu Ba, Ngư Đội Trưởng của Ngư Dân Tu Luyện Hội"
+    },
+    {
+      "source": "ly_dai_hai",
+      "target": "ly_van_trieu",
+      "type": "mentor",
+      "description": "Lý Đại Hải chỉ dẫn Lý Vạn Triều trong Ngư Dân Tu Luyện Hội"
+    },
+    {
+      "source": "ly_dai_hai",
+      "target": "tran_hai_yen",
+      "type": "mentor",
+      "description": "Lý Đại Hải chỉ dẫn Trần Hải Yến trong Ngư Dân Tu Luyện Hội"
+    },
+    {
+      "source": "tran_hai_yen",
+      "target": "ly_tieu_ba",
+      "type": "subordinate",
+      "description": "Phục tùng Lý Tiểu Ba, Ngư Đội Trưởng của Ngư Dân Tu Luyện Hội"
+    },
+    {
+      "source": "hoang_hai_trieu",
+      "target": "tran_hai_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tran_hai_phong",
+      "target": "hoang_hai_trieu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoang_hai_trieu",
+      "target": "le_bach_ngu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoang_hai_trieu",
+      "target": "pham_song",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_bach_ngu",
+      "target": "tran_hai_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tran_hai_phong",
+      "target": "le_bach_ngu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_bach_ngu",
+      "target": "pham_song",
+      "type": "mentor",
+      "description": "Lê Bạch Ngư chỉ dẫn Phạm Sóng trong Phiêu Lưu Đảo Liên Minh"
+    },
+    {
+      "source": "le_bach_ngu",
+      "target": "tran_tieu_dang",
+      "type": "mentor",
+      "description": "Lê Bạch Ngư chỉ dẫn Trần Tiểu Đăng trong Phiêu Lưu Đảo Liên Minh"
+    },
+    {
+      "source": "pham_song",
+      "target": "tran_hai_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tran_hai_phong",
+      "target": "pham_song",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "pham_song",
+      "target": "tran_tieu_dang",
+      "type": "mentor",
+      "description": "Phạm Sóng chỉ dẫn Trần Tiểu Đăng trong Phiêu Lưu Đảo Liên Minh"
+    },
+    {
+      "source": "tran_hai_phong",
+      "target": "tran_tieu_dang",
+      "type": "mentor",
+      "description": "Trần Hải Phong chỉ dẫn Trần Tiểu Đăng trong Phiêu Lưu Đảo Liên Minh"
+    },
+    {
+      "source": "tran_tieu_dang",
+      "target": "tran_hai_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Trần Hải Phong, Tổng Đảo Chủ của Phiêu Lưu Đảo Liên Minh"
+    },
+    {
+      "source": "loi_thien_phong",
+      "target": "hai_phong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "hai_phong",
+      "target": "loi_thien_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Lôi Thiên Phong, Trưởng Lão của Phong Bạo Thương Đội"
+    },
+    {
+      "source": "hai_phong",
+      "target": "loi_tieu_vu",
+      "type": "mentor",
+      "description": "Hải Phong chỉ dẫn Lôi Tiểu Vũ trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "hai_phong",
+      "target": "loi_van_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Bạo Thương Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "loi_thien_phong",
+      "target": "loi_tieu_vu",
+      "type": "mentor",
+      "description": "Lôi Thiên Phong chỉ dẫn Lôi Tiểu Vũ trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "loi_thien_phong",
+      "target": "loi_van_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Bạo Thương Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "loi_thien_phong",
+      "target": "phong_cuong_ba",
+      "type": "mentor",
+      "description": "Lôi Thiên Phong chỉ dẫn Phong Cuồng Ba trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "loi_thien_phong",
+      "target": "phong_thiet_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Bạo Thương Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "loi_tieu_vu",
+      "target": "loi_thien_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Bạo Thương Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "loi_van_ly",
+      "target": "loi_tieu_vu",
+      "type": "mentor",
+      "description": "Lôi Vạn Lý chỉ dẫn Lôi Tiểu Vũ trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "loi_tieu_vu",
+      "target": "phong_cuong_ba",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Bạo Thương Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "loi_van_ly",
+      "target": "loi_thien_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Bạo Thương Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "loi_van_ly",
+      "target": "phong_cuong_ba",
+      "type": "mentor",
+      "description": "Lôi Vạn Lý chỉ dẫn Phong Cuồng Ba trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "loi_van_ly",
+      "target": "phong_thiet_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Bạo Thương Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_cuong_ba",
+      "target": "loi_thien_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Lôi Thiên Phong, Trưởng Lão của Phong Bạo Thương Đội"
+    },
+    {
+      "source": "phong_thiet_nha",
+      "target": "phong_cuong_ba",
+      "type": "mentor",
+      "description": "Phong Thiết Nha chỉ dẫn Phong Cuồng Ba trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "van_hai_do",
+      "target": "phong_cuong_ba",
+      "type": "mentor",
+      "description": "Vân Hải Đồ chỉ dẫn Phong Cuồng Ba trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "phong_thiet_nha",
+      "target": "loi_thien_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Lôi Thiên Phong, Trưởng Lão của Phong Bạo Thương Đội"
+    },
+    {
+      "source": "phong_thiet_nha",
+      "target": "van_hai_do",
+      "type": "mentor",
+      "description": "Phong Thiết Nha chỉ dẫn Vân Hải Đồ trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "phong_thiet_nha",
+      "target": "vu_hai_yen",
+      "type": "mentor",
+      "description": "Phong Thiết Nha chỉ dẫn Vũ Hải Yến trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "loi_thien_phong",
+      "target": "van_hai_do",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "van_hai_do",
+      "target": "loi_thien_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Lôi Thiên Phong, Trưởng Lão của Phong Bạo Thương Đội"
+    },
+    {
+      "source": "van_hai_do",
+      "target": "vu_hai_yen",
+      "type": "mentor",
+      "description": "Vân Hải Đồ chỉ dẫn Vũ Hải Yến trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "loi_thien_phong",
+      "target": "vu_hai_yen",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "vu_hai_yen",
+      "target": "loi_thien_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Lôi Thiên Phong, Trưởng Lão của Phong Bạo Thương Đội"
+    },
+    {
+      "source": "loi_thien_phong",
+      "target": "dang_thuong_ha",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "dang_thuong_ha",
+      "target": "loi_thien_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Lôi Thiên Phong, Trưởng Lão của Phong Bạo Thương Đội"
+    },
+    {
+      "source": "hai_phong",
+      "target": "dang_thuong_ha",
+      "type": "mentor",
+      "description": "Hải Phong chỉ dẫn Đặng Thương Hà trong Phong Bạo Thương Đội"
+    },
+    {
+      "source": "dang_thuong_ha",
+      "target": "loi_tieu_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Bạo Thương Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tan_nham",
+      "target": "bac_thach",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Phong Hóa Giả Hội"
+    },
+    {
+      "source": "bac_thach",
+      "target": "tan_nham",
+      "type": "subordinate",
+      "description": "Phục tùng Tàn Nham, Hội Trưởng của Phong Hóa Giả Hội"
+    },
+    {
+      "source": "bac_thach",
+      "target": "mat_nham",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Hóa Giả Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tan_nham",
+      "target": "mat_nham",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Phong Hóa Giả Hội"
+    },
+    {
+      "source": "mat_nham",
+      "target": "tan_nham",
+      "type": "subordinate",
+      "description": "Phục tùng Tàn Nham, Hội Trưởng của Phong Hóa Giả Hội"
+    },
+    {
+      "source": "phong_cuong",
+      "target": "hac_phong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Phong Sát Cốc"
+    },
+    {
+      "source": "hac_phong",
+      "target": "phong_cuong",
+      "type": "subordinate",
+      "description": "Phục tùng Phong Cuồng, Hộ Pháp của Phong Sát Cốc"
+    },
+    {
+      "source": "hac_phong",
+      "target": "ly_cuong_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc"
+    },
+    {
+      "source": "hac_phong",
+      "target": "huyet_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_cuong",
+      "target": "huyet_phong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Phong Sát Cốc"
+    },
+    {
+      "source": "huyet_phong",
+      "target": "phong_cuong",
+      "type": "subordinate",
+      "description": "Phục tùng Phong Cuồng, Hộ Pháp của Phong Sát Cốc"
+    },
+    {
+      "source": "huyet_phong",
+      "target": "ly_cuong_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc"
+    },
+    {
+      "source": "huyet_phong",
+      "target": "phong_nha",
+      "type": "mentor",
+      "description": "Huyết Phong chỉ dẫn Phong Nha trong Phong Sát Cốc"
+    },
+    {
+      "source": "phong_cuong",
+      "target": "hac_sa",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Phong Sát Cốc"
+    },
+    {
+      "source": "hac_sa",
+      "target": "phong_cuong",
+      "type": "subordinate",
+      "description": "Phục tùng Phong Cuồng, Hộ Pháp của Phong Sát Cốc"
+    },
+    {
+      "source": "hac_sa",
+      "target": "ly_cuong_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc"
+    },
+    {
+      "source": "huyet_phong",
+      "target": "hac_sa",
+      "type": "mentor",
+      "description": "Huyết Phong chỉ dẫn Hắc Sa trong Phong Sát Cốc"
+    },
+    {
+      "source": "phong_nha",
+      "target": "phong_cuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_cuong",
+      "target": "phong_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_nha",
+      "target": "ly_cuong_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc"
+    },
+    {
+      "source": "phong_nha",
+      "target": "sa_quy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_anh",
+      "target": "phong_cuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_cuong",
+      "target": "phong_anh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_anh",
+      "target": "ly_cuong_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc"
+    },
+    {
+      "source": "phong_anh",
+      "target": "phong_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_quy",
+      "target": "phong_cuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_cuong",
+      "target": "sa_quy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_quy",
+      "target": "ly_cuong_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc"
+    },
+    {
+      "source": "sa_quy",
+      "target": "tu_bao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tu_bao",
+      "target": "phong_cuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_cuong",
+      "target": "tu_bao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tu_bao",
+      "target": "ly_cuong_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sát Cốc"
+    },
+    {
+      "source": "chau_pha_thien",
+      "target": "ly_thiet_ke",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phá Băng Thương Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "chau_pha_thien",
+      "target": "nguyen_dai_xa",
+      "type": "mentor",
+      "description": "Châu Phá Thiên chỉ dẫn Nguyễn Đại Xa trong Phá Băng Thương Đội"
+    },
+    {
+      "source": "chau_pha_thien",
+      "target": "pham_linh_ke",
+      "type": "mentor",
+      "description": "Châu Phá Thiên chỉ dẫn Phạm Linh Kế trong Phá Băng Thương Đội"
+    },
+    {
+      "source": "chau_pha_thien",
+      "target": "dang_hoa_nhi",
+      "type": "mentor",
+      "description": "Châu Phá Thiên chỉ dẫn Đặng Hỏa Nhi trong Phá Băng Thương Đội"
+    },
+    {
+      "source": "ly_thiet_ke",
+      "target": "chau_pha_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phá Băng Thương Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_thiet_ke",
+      "target": "nguyen_dai_xa",
+      "type": "mentor",
+      "description": "Lý Thiết Kế chỉ dẫn Nguyễn Đại Xa trong Phá Băng Thương Đội"
+    },
+    {
+      "source": "ly_thiet_ke",
+      "target": "pham_linh_ke",
+      "type": "mentor",
+      "description": "Lý Thiết Kế chỉ dẫn Phạm Linh Kế trong Phá Băng Thương Đội"
+    },
+    {
+      "source": "nguyen_dai_xa",
+      "target": "chau_pha_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Châu Phá Thiên, Đội Trưởng của Phá Băng Thương Đội"
+    },
+    {
+      "source": "nguyen_dai_xa",
+      "target": "pham_linh_ke",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phá Băng Thương Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "pham_linh_ke",
+      "target": "chau_pha_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Châu Phá Thiên, Đội Trưởng của Phá Băng Thương Đội"
+    },
+    {
+      "source": "dang_hoa_nhi",
+      "target": "chau_pha_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Châu Phá Thiên, Đội Trưởng của Phá Băng Thương Đội"
+    },
+    {
+      "source": "ly_thiet_ke",
+      "target": "dang_hoa_nhi",
+      "type": "mentor",
+      "description": "Lý Thiết Kế chỉ dẫn Đặng Hỏa Nhi trong Phá Băng Thương Đội"
+    },
+    {
+      "source": "dang_hoa_nhi",
+      "target": "nguyen_dai_xa",
+      "type": "mentor",
+      "description": "Đặng Hỏa Nhi chỉ dẫn Nguyễn Đại Xa trong Phá Băng Thương Đội"
+    },
+    {
+      "source": "long_hac_da",
+      "target": "long_ngoc_han",
+      "type": "mentor",
+      "description": "Long Hắc Dạ chỉ dẫn Long Ngọc Hàn trong Phản Loạn Long Tử"
+    },
+    {
+      "source": "long_hac_da",
+      "target": "long_thanh_phong",
+      "type": "mentor",
+      "description": "Long Hắc Dạ chỉ dẫn Long Thanh Phong trong Phản Loạn Long Tử"
+    },
+    {
+      "source": "long_hac_da",
+      "target": "long_tu_van",
+      "type": "mentor",
+      "description": "Long Hắc Dạ chỉ dẫn Long Tử Vân trong Phản Loạn Long Tử"
+    },
+    {
+      "source": "long_ngoc_han",
+      "target": "long_thanh_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phản Loạn Long Tử, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "long_ngoc_han",
+      "target": "long_tu_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phản Loạn Long Tử, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "long_thanh_phong",
+      "target": "long_tu_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phản Loạn Long Tử, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "xa_doc_nha",
+      "target": "huyen_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mãng Tộc"
+    },
+    {
+      "source": "dang_sa_dao",
+      "target": "le_thuan_phong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Mạc Hướng Đạo Hội"
+    },
+    {
+      "source": "le_thuan_phong",
+      "target": "dang_sa_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Đặng Sa Đạo, Trưởng Lão của Sa Mạc Hướng Đạo Hội"
+    },
+    {
+      "source": "le_thuan_phong",
+      "target": "phong_sa_lao_nhan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Hướng Đạo Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_thuan_phong",
+      "target": "pham_huong_tay",
+      "type": "mentor",
+      "description": "Lê Thuận Phong chỉ dẫn Phạm Hướng Tây trong Sa Mạc Hướng Đạo Hội"
+    },
+    {
+      "source": "phong_sa_lao_nhan",
+      "target": "dang_sa_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Hướng Đạo Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "dang_sa_dao",
+      "target": "phong_sa_lao_nhan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Hướng Đạo Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_sa_lao_nhan",
+      "target": "vu_sa_lo",
+      "type": "mentor",
+      "description": "Phong Sa Lão Nhân chỉ dẫn Vũ Sa Lộ trong Sa Mạc Hướng Đạo Hội"
+    },
+    {
+      "source": "dang_sa_dao",
+      "target": "pham_huong_tay",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Mạc Hướng Đạo Hội"
+    },
+    {
+      "source": "pham_huong_tay",
+      "target": "dang_sa_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Đặng Sa Đạo, Trưởng Lão của Sa Mạc Hướng Đạo Hội"
+    },
+    {
+      "source": "phong_sa_lao_nhan",
+      "target": "pham_huong_tay",
+      "type": "mentor",
+      "description": "Phong Sa Lão Nhân chỉ dẫn Phạm Hướng Tây trong Sa Mạc Hướng Đạo Hội"
+    },
+    {
+      "source": "pham_huong_tay",
+      "target": "vu_sa_lo",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Hướng Đạo Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "dang_sa_dao",
+      "target": "vu_sa_lo",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Mạc Hướng Đạo Hội"
+    },
+    {
+      "source": "vu_sa_lo",
+      "target": "dang_sa_dao",
+      "type": "subordinate",
+      "description": "Phục tùng Đặng Sa Đạo, Trưởng Lão của Sa Mạc Hướng Đạo Hội"
+    },
+    {
+      "source": "ha_thien_ly",
+      "target": "le_hoang_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Sinh Tồn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ha_thien_ly",
+      "target": "nguyen_sinh_ton",
+      "type": "mentor",
+      "description": "Hạ Thiên Lý chỉ dẫn Nguyễn Sinh Tồn trong Sa Mạc Sinh Tồn Đoàn"
+    },
+    {
+      "source": "ha_thien_ly",
+      "target": "tran_cat_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Sinh Tồn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_hoang_sa",
+      "target": "ha_thien_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Sinh Tồn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_hoang_sa",
+      "target": "nguyen_sinh_ton",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Sinh Tồn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_hoang_sa",
+      "target": "tran_cat_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Sinh Tồn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nguyen_sinh_ton",
+      "target": "ha_thien_ly",
+      "type": "subordinate",
+      "description": "Phục tùng Hạ Thiên Lý, Đoàn Trưởng của Sa Mạc Sinh Tồn Đoàn"
+    },
+    {
+      "source": "nguyen_sinh_ton",
+      "target": "tran_cat_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Sinh Tồn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tran_cat_phong",
+      "target": "ha_thien_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Sinh Tồn Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_sa_phong",
+      "target": "ho_dieu_ngon",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_dieu_ngon",
+      "target": "ho_sa_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Sa Phong, Phó Tộc Trưởng của Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_dieu_ngon",
+      "target": "ho_huyen_da_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Yêu Hồ, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_dieu_ngon",
+      "target": "ho_hoa_vi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Yêu Hồ, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_sa_phong",
+      "target": "ho_huyen_da_thien",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_huyen_da_thien",
+      "target": "ho_sa_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Sa Phong, Phó Tộc Trưởng của Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_huyen_da_thien",
+      "target": "ho_kim_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Yêu Hồ, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_huyen_da_thien",
+      "target": "ho_minh_nguyet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Yêu Hồ, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_sa_phong",
+      "target": "ho_hoa_vi",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_hoa_vi",
+      "target": "ho_sa_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Sa Phong, Phó Tộc Trưởng của Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_hoa_vi",
+      "target": "ho_huyen_da_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Yêu Hồ, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_hoa_vi",
+      "target": "ho_kim_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Yêu Hồ, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_sa_phong",
+      "target": "ho_kim_sa",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_kim_sa",
+      "target": "ho_sa_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Sa Phong, Phó Tộc Trưởng của Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_kim_sa",
+      "target": "ho_minh_nguyet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Yêu Hồ, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_kim_sa",
+      "target": "ho_phong_van",
+      "type": "mentor",
+      "description": "Hồ Kim Sa chỉ dẫn Hồ Phong Vân trong Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_sa_phong",
+      "target": "ho_minh_nguyet",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_minh_nguyet",
+      "target": "ho_sa_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Sa Phong, Phó Tộc Trưởng của Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_minh_nguyet",
+      "target": "ho_phong_van",
+      "type": "mentor",
+      "description": "Hồ Minh Nguyệt chỉ dẫn Hồ Phong Vân trong Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_minh_nguyet",
+      "target": "ho_tieu_sa_nguyet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Yêu Hồ, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_sa_phong",
+      "target": "ho_phong_van",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_phong_van",
+      "target": "ho_sa_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Sa Phong, Phó Tộc Trưởng của Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_tieu_sa_nguyet",
+      "target": "ho_phong_van",
+      "type": "mentor",
+      "description": "Hồ Tiểu Sa Nguyệt chỉ dẫn Hồ Phong Vân trong Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_sa_phong",
+      "target": "ho_tieu_sa_nguyet",
+      "type": "mentor",
+      "description": "Hồ Sa Phong chỉ dẫn Hồ Tiểu Sa Nguyệt trong Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_tieu_sa_nguyet",
+      "target": "ho_sa_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Sa Phong, Phó Tộc Trưởng của Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_sa_phong",
+      "target": "ho_am_huong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_am_huong",
+      "target": "ho_sa_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Hồ Sa Phong, Phó Tộc Trưởng của Sa Mạc Yêu Hồ"
+    },
+    {
+      "source": "ho_am_huong",
+      "target": "ho_dieu_ngon",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Yêu Hồ, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ho_am_huong",
+      "target": "ho_huyen_da_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Mạc Yêu Hồ, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_hau",
+      "target": "nham_luu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Thạch Du Mục, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_luu",
+      "target": "nham_hau",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Thạch Du Mục, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_hau",
+      "target": "nham_tieu_lo",
+      "type": "mentor",
+      "description": "Nham Hậu chỉ dẫn Nham Tiểu Lộ trong Sa Thạch Du Mục"
+    },
+    {
+      "source": "nham_hau",
+      "target": "thach_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Thạch Du Mục, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_luu",
+      "target": "nham_tieu_lo",
+      "type": "mentor",
+      "description": "Nham Lưu chỉ dẫn Nham Tiểu Lộ trong Sa Thạch Du Mục"
+    },
+    {
+      "source": "nham_luu",
+      "target": "thach_sa",
+      "type": "mentor",
+      "description": "Nham Lưu chỉ dẫn Thạch Sa trong Sa Thạch Du Mục"
+    },
+    {
+      "source": "nham_tieu_lo",
+      "target": "nham_luu",
+      "type": "subordinate",
+      "description": "Phục tùng Nham Lưu, Tộc Trưởng của Sa Thạch Du Mục"
+    },
+    {
+      "source": "thach_sa",
+      "target": "nham_tieu_lo",
+      "type": "mentor",
+      "description": "Thạch Sa chỉ dẫn Nham Tiểu Lộ trong Sa Thạch Du Mục"
+    },
+    {
+      "source": "thach_sa",
+      "target": "nham_luu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Thạch Du Mục, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trung_hoang_nham",
+      "target": "trung_nganh_giap",
+      "type": "mentor",
+      "description": "Trùng Hoàng Nham dẫn dắt Trùng Ngạnh Giáp trong Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_nganh_giap",
+      "target": "trung_sa_yen",
+      "type": "mentor",
+      "description": "Trùng Ngạnh Giáp chỉ dẫn Trùng Sa Yến trong Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_nganh_giap",
+      "target": "trung_thiet_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Trùng Vi Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trung_nganh_giap",
+      "target": "trung_tieu_thach",
+      "type": "mentor",
+      "description": "Trùng Ngạnh Giáp chỉ dẫn Trùng Tiểu Thạch trong Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_sa_yen",
+      "target": "trung_nganh_giap",
+      "type": "subordinate",
+      "description": "Phục tùng Trùng Ngạnh Giáp, Trưởng Lão Phòng Thủ của Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_hoang_nham",
+      "target": "trung_sa_yen",
+      "type": "mentor",
+      "description": "Trùng Hoàng Nham dẫn dắt Trùng Sa Yến trong Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_thiet_sa",
+      "target": "trung_sa_yen",
+      "type": "mentor",
+      "description": "Trùng Thiết Sa chỉ dẫn Trùng Sa Yến trong Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_thiet_sa",
+      "target": "trung_nganh_giap",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Trùng Vi Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trung_hoang_nham",
+      "target": "trung_thiet_sa",
+      "type": "mentor",
+      "description": "Trùng Hoàng Nham dẫn dắt Trùng Thiết Sa trong Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_thiet_sa",
+      "target": "trung_tieu_thach",
+      "type": "mentor",
+      "description": "Trùng Thiết Sa chỉ dẫn Trùng Tiểu Thạch trong Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_tieu_thach",
+      "target": "trung_nganh_giap",
+      "type": "subordinate",
+      "description": "Phục tùng Trùng Ngạnh Giáp, Trưởng Lão Phòng Thủ của Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_hoang_nham",
+      "target": "trung_tieu_thach",
+      "type": "mentor",
+      "description": "Trùng Hoàng Nham dẫn dắt Trùng Tiểu Thạch trong Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_xuyen_dia",
+      "target": "trung_tieu_thach",
+      "type": "mentor",
+      "description": "Trùng Xuyên Địa chỉ dẫn Trùng Tiểu Thạch trong Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_nganh_giap",
+      "target": "trung_xuyen_dia",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_xuyen_dia",
+      "target": "trung_nganh_giap",
+      "type": "subordinate",
+      "description": "Phục tùng Trùng Ngạnh Giáp, Trưởng Lão Phòng Thủ của Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_hoang_nham",
+      "target": "trung_xuyen_dia",
+      "type": "mentor",
+      "description": "Trùng Hoàng Nham dẫn dắt Trùng Xuyên Địa trong Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "phong_tan_nhan",
+      "target": "hac_phong_dai_vuong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Tặc Liên Minh"
+    },
+    {
+      "source": "hac_phong_dai_vuong",
+      "target": "phong_tan_nhan",
+      "type": "subordinate",
+      "description": "Phục tùng Phong Tàn Nhẫn, Trưởng Lão của Sa Tặc Liên Minh"
+    },
+    {
+      "source": "hac_phong_dai_vuong",
+      "target": "lang_anh_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hac_phong_dai_vuong",
+      "target": "ly_huyet_lang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_tan_nhan",
+      "target": "lang_anh_sa",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Tặc Liên Minh"
+    },
+    {
+      "source": "lang_anh_sa",
+      "target": "phong_tan_nhan",
+      "type": "subordinate",
+      "description": "Phục tùng Phong Tàn Nhẫn, Trưởng Lão của Sa Tặc Liên Minh"
+    },
+    {
+      "source": "lang_anh_sa",
+      "target": "ly_huyet_lang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "lang_anh_sa",
+      "target": "luu_cat_dao",
+      "type": "mentor",
+      "description": "Lang Ảnh Sa chỉ dẫn Lưu Cát Đạo trong Sa Tặc Liên Minh"
+    },
+    {
+      "source": "phong_tan_nhan",
+      "target": "ly_huyet_lang",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Tặc Liên Minh"
+    },
+    {
+      "source": "ly_huyet_lang",
+      "target": "phong_tan_nhan",
+      "type": "subordinate",
+      "description": "Phục tùng Phong Tàn Nhẫn, Trưởng Lão của Sa Tặc Liên Minh"
+    },
+    {
+      "source": "ly_huyet_lang",
+      "target": "sa_do",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_huyet_lang",
+      "target": "tran_doc_nhan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_tan_nhan",
+      "target": "luu_cat_dao",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Tặc Liên Minh"
+    },
+    {
+      "source": "luu_cat_dao",
+      "target": "phong_tan_nhan",
+      "type": "subordinate",
+      "description": "Phục tùng Phong Tàn Nhẫn, Trưởng Lão của Sa Tặc Liên Minh"
+    },
+    {
+      "source": "luu_cat_dao",
+      "target": "ly_huyet_lang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "luu_cat_dao",
+      "target": "sa_do",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_tan_nhan",
+      "target": "sa_do",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_tan_nhan",
+      "target": "tran_doc_nhan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_do",
+      "target": "phong_tan_nhan",
+      "type": "subordinate",
+      "description": "Phục tùng Phong Tàn Nhẫn, Trưởng Lão của Sa Tặc Liên Minh"
+    },
+    {
+      "source": "sa_do",
+      "target": "tran_doc_nhan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tran_doc_nhan",
+      "target": "phong_tan_nhan",
+      "type": "subordinate",
+      "description": "Phục tùng Phong Tàn Nhẫn, Trưởng Lão của Sa Tặc Liên Minh"
+    },
+    {
+      "source": "dao_cuong_sa",
+      "target": "phong_tan_nhan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_tan_nhan",
+      "target": "dao_cuong_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "dao_cuong_sa",
+      "target": "hac_phong_dai_vuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "dao_cuong_sa",
+      "target": "lang_anh_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Tặc Liên Minh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bang_sa_thien",
+      "target": "yen_sa_phong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sa Ưng Đoàn"
+    },
+    {
+      "source": "yen_sa_phong",
+      "target": "bang_sa_thien",
+      "type": "subordinate",
+      "description": "Phục tùng Bằng Sa Thiên, Đoàn Trưởng của Sa Ưng Đoàn"
+    },
+    {
+      "source": "yen_sa_phong",
+      "target": "cu_da_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Ưng Đoàn"
+    },
+    {
+      "source": "nguyen_thuy_tien",
+      "target": "le_ngoc_trai",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Thợ Lặn Đội"
+    },
+    {
+      "source": "le_ngoc_trai",
+      "target": "nguyen_thuy_tien",
+      "type": "subordinate",
+      "description": "Phục tùng Nguyễn Thủy Tiên, Đội Trưởng của San Hô Thợ Lặn Đội"
+    },
+    {
+      "source": "le_ngoc_trai",
+      "target": "tran_hai_sam",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Thợ Lặn Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nguyen_thuy_tien",
+      "target": "tran_hai_sam",
+      "type": "mentor",
+      "description": "Nguyễn Thủy Tiên chỉ dẫn Trần Hải Sâm trong San Hô Thợ Lặn Đội"
+    },
+    {
+      "source": "tran_hai_sam",
+      "target": "nguyen_thuy_tien",
+      "type": "subordinate",
+      "description": "Phục tùng Nguyễn Thủy Tiên, Đội Trưởng của San Hô Thợ Lặn Đội"
+    },
+    {
+      "source": "giai_thiet_kim",
+      "target": "ma_tieu_hai",
+      "type": "mentor",
+      "description": "Giải Thiết Kìm dẫn dắt Mã Tiểu Hải trong San Hô Thủ Hộ Đoàn"
+    },
+    {
+      "source": "ngu_ngan_quang",
+      "target": "ma_tieu_hai",
+      "type": "mentor",
+      "description": "Ngư Ngân Quang chỉ dẫn Mã Tiểu Hải trong San Hô Thủ Hộ Đoàn"
+    },
+    {
+      "source": "san_luc_quang_minh",
+      "target": "ma_tieu_hai",
+      "type": "mentor",
+      "description": "San Lục Quang Minh chỉ dẫn Mã Tiểu Hải trong San Hô Thủ Hộ Đoàn"
+    },
+    {
+      "source": "san_tieu_hong",
+      "target": "ma_tieu_hai",
+      "type": "mentor",
+      "description": "San Tiểu Hồng chỉ dẫn Mã Tiểu Hải trong San Hô Thủ Hộ Đoàn"
+    },
+    {
+      "source": "ngu_ngan_quang",
+      "target": "giai_thiet_kim",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Thủ Hộ Đoàn"
+    },
+    {
+      "source": "ngu_ngan_quang",
+      "target": "san_luc_quang_minh",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Thủ Hộ Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ngu_ngan_quang",
+      "target": "san_tieu_hong",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Thủ Hộ Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_luc_quang_minh",
+      "target": "giai_thiet_kim",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Thủ Hộ Đoàn"
+    },
+    {
+      "source": "san_luc_quang_minh",
+      "target": "san_tieu_hong",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Thủ Hộ Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_tieu_hong",
+      "target": "giai_thiet_kim",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Thủ Hộ Đoàn"
+    },
+    {
+      "source": "san_hong_ngoc",
+      "target": "san_bach_ngoc",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_bach_ngoc",
+      "target": "san_hong_ngoc",
+      "type": "subordinate",
+      "description": "Phục tùng San Hồng Ngọc, Tộc Trưởng của San Hô Vi Trùng"
+    },
+    {
+      "source": "san_bach_ngoc",
+      "target": "san_huyen_thach",
+      "type": "mentor",
+      "description": "San Bạch Ngọc chỉ dẫn San Huyền Thạch trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_bach_ngoc",
+      "target": "san_hai_yen_sao",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_hong_ngoc",
+      "target": "san_huyen_thach",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_huyen_thach",
+      "target": "san_hong_ngoc",
+      "type": "subordinate",
+      "description": "Phục tùng San Hồng Ngọc, Tộc Trưởng của San Hô Vi Trùng"
+    },
+    {
+      "source": "san_huyen_thach",
+      "target": "san_kim_hoa",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_huyen_thach",
+      "target": "san_luc_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_hai_yen_sao",
+      "target": "san_hong_ngoc",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_hong_ngoc",
+      "target": "san_hai_yen_sao",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_hai_yen_sao",
+      "target": "san_huyen_thach",
+      "type": "mentor",
+      "description": "San Hải Yến Sào chỉ dẫn San Huyền Thạch trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_hai_yen_sao",
+      "target": "san_kim_hoa",
+      "type": "mentor",
+      "description": "San Hải Yến Sào chỉ dẫn San Kim Hoa trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_hong_ngoc",
+      "target": "san_kim_hoa",
+      "type": "mentor",
+      "description": "San Hồng Ngọc chỉ dẫn San Kim Hoa trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_hong_ngoc",
+      "target": "san_luc_dao",
+      "type": "mentor",
+      "description": "San Hồng Ngọc chỉ dẫn San Lục Đảo trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_hong_ngoc",
+      "target": "san_ngan_mach",
+      "type": "mentor",
+      "description": "San Hồng Ngọc chỉ dẫn San Ngân Mạch trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_kim_hoa",
+      "target": "san_hong_ngoc",
+      "type": "subordinate",
+      "description": "Phục tùng San Hồng Ngọc, Tộc Trưởng của San Hô Vi Trùng"
+    },
+    {
+      "source": "san_kim_hoa",
+      "target": "san_luc_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_ngan_mach",
+      "target": "san_kim_hoa",
+      "type": "mentor",
+      "description": "San Ngân Mạch chỉ dẫn San Kim Hoa trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_luc_dao",
+      "target": "san_hong_ngoc",
+      "type": "subordinate",
+      "description": "Phục tùng San Hồng Ngọc, Tộc Trưởng của San Hô Vi Trùng"
+    },
+    {
+      "source": "san_ngan_mach",
+      "target": "san_luc_dao",
+      "type": "mentor",
+      "description": "San Ngân Mạch chỉ dẫn San Lục Đảo trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_thuy_lien",
+      "target": "san_luc_dao",
+      "type": "mentor",
+      "description": "San Thúy Liên chỉ dẫn San Lục Đảo trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_ngan_mach",
+      "target": "san_hong_ngoc",
+      "type": "subordinate",
+      "description": "Phục tùng San Hồng Ngọc, Tộc Trưởng của San Hô Vi Trùng"
+    },
+    {
+      "source": "san_ngan_mach",
+      "target": "san_thuy_lien",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_ngan_mach",
+      "target": "san_tieu_chi",
+      "type": "mentor",
+      "description": "San Ngân Mạch chỉ dẫn San Tiểu Chi trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_hong_ngoc",
+      "target": "san_thuy_lien",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_thuy_lien",
+      "target": "san_hong_ngoc",
+      "type": "subordinate",
+      "description": "Phục tùng San Hồng Ngọc, Tộc Trưởng của San Hô Vi Trùng"
+    },
+    {
+      "source": "san_thuy_lien",
+      "target": "san_tieu_chi",
+      "type": "mentor",
+      "description": "San Thúy Liên chỉ dẫn San Tiểu Chi trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_thuy_lien",
+      "target": "san_tu_ha",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_hong_ngoc",
+      "target": "san_tieu_chi",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_tieu_chi",
+      "target": "san_hong_ngoc",
+      "type": "subordinate",
+      "description": "Phục tùng San Hồng Ngọc, Tộc Trưởng của San Hô Vi Trùng"
+    },
+    {
+      "source": "san_tu_ha",
+      "target": "san_tieu_chi",
+      "type": "mentor",
+      "description": "San Tử Hà chỉ dẫn San Tiểu Chi trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_hong_ngoc",
+      "target": "san_tu_ha",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Vi Trùng"
+    },
+    {
+      "source": "san_tu_ha",
+      "target": "san_hong_ngoc",
+      "type": "subordinate",
+      "description": "Phục tùng San Hồng Ngọc, Tộc Trưởng của San Hô Vi Trùng"
+    },
+    {
+      "source": "ngu_ngan_lan_ha",
+      "target": "san_ngoc_vuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_ngoc_vuong",
+      "target": "ngu_ngan_lan_ha",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hua_nhuoc_thuy",
+      "target": "ngu_ngan_lan_ha",
+      "type": "mentor",
+      "description": "Hứa Nhược Thủy dẫn dắt Ngư Ngân Lân Hà trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "ngu_thien_ca",
+      "target": "ngu_ngan_lan_ha",
+      "type": "mentor",
+      "description": "Ngư Thiên Ca chỉ dẫn Ngư Ngân Lân Hà trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_ngoc_vuong",
+      "target": "ngu_thien_ca",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "ngu_thien_ca",
+      "target": "san_ngoc_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng San Ngọc Vương, Đảo Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "hua_nhuoc_thuy",
+      "target": "ngu_thien_ca",
+      "type": "mentor",
+      "description": "Hứa Nhược Thủy dẫn dắt Ngư Thiên Ca trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "ngu_thien_ca",
+      "target": "ngu_thien_lang",
+      "type": "mentor",
+      "description": "Ngư Thiên Ca chỉ dẫn Ngư Thiên Lãng trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_ngoc_vuong",
+      "target": "ngu_thien_lang",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "ngu_thien_lang",
+      "target": "san_ngoc_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng San Ngọc Vương, Đảo Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "hua_nhuoc_thuy",
+      "target": "ngu_thien_lang",
+      "type": "mentor",
+      "description": "Hứa Nhược Thủy dẫn dắt Ngư Thiên Lãng trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "ngu_thien_lang",
+      "target": "ngu_tieu_bach",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_ngoc_vuong",
+      "target": "ngu_tieu_bach",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "ngu_tieu_bach",
+      "target": "san_ngoc_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng San Ngọc Vương, Đảo Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "hua_nhuoc_thuy",
+      "target": "ngu_tieu_bach",
+      "type": "mentor",
+      "description": "Hứa Nhược Thủy dẫn dắt Ngư Tiểu Bạch trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_bich_quang",
+      "target": "ngu_tieu_bach",
+      "type": "mentor",
+      "description": "San Bích Quang chỉ dẫn Ngư Tiểu Bạch trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_ngoc_vuong",
+      "target": "san_bich_quang",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_bich_quang",
+      "target": "san_ngoc_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng San Ngọc Vương, Đảo Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "hua_nhuoc_thuy",
+      "target": "san_bich_quang",
+      "type": "mentor",
+      "description": "Hứa Nhược Thủy dẫn dắt San Bích Quang trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_bich_quang",
+      "target": "san_huyen_quang_da",
+      "type": "mentor",
+      "description": "San Bích Quang chỉ dẫn San Huyền Quang Dạ trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_ngoc_vuong",
+      "target": "san_huyen_quang_da",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_huyen_quang_da",
+      "target": "san_ngoc_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng San Ngọc Vương, Đảo Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "hua_nhuoc_thuy",
+      "target": "san_huyen_quang_da",
+      "type": "mentor",
+      "description": "Hứa Nhược Thủy dẫn dắt San Huyền Quang Dạ trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_huyen_quang_da",
+      "target": "san_luc_quang",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_hong_ngoc_thien",
+      "target": "san_ngoc_vuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_ngoc_vuong",
+      "target": "san_hong_ngoc_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hua_nhuoc_thuy",
+      "target": "san_hong_ngoc_thien",
+      "type": "mentor",
+      "description": "Hứa Nhược Thủy dẫn dắt San Hồng Ngọc Thiên trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_hong_ngoc_thien",
+      "target": "san_huyen_quang_da",
+      "type": "mentor",
+      "description": "San Hồng Ngọc Thiên chỉ dẫn San Huyền Quang Dạ trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_ngoc_vuong",
+      "target": "san_luc_quang",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_luc_quang",
+      "target": "san_ngoc_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng San Ngọc Vương, Đảo Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "hua_nhuoc_thuy",
+      "target": "san_luc_quang",
+      "type": "mentor",
+      "description": "Hứa Nhược Thủy dẫn dắt San Lục Quang trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_luc_quang",
+      "target": "san_van_ha",
+      "type": "mentor",
+      "description": "San Lục Quang chỉ dẫn San Vân Hà trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "hua_nhuoc_thuy",
+      "target": "san_ngoc_vuong",
+      "type": "mentor",
+      "description": "Hứa Nhược Thủy dẫn dắt San Ngọc Vương trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_ngoc_vuong",
+      "target": "san_van_ha",
+      "type": "mentor",
+      "description": "San Ngọc Vương chỉ dẫn San Vân Hà trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_van_ha",
+      "target": "san_ngoc_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng San Ngọc Vương, Đảo Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "hua_nhuoc_thuy",
+      "target": "san_van_ha",
+      "type": "mentor",
+      "description": "Hứa Nhược Thủy dẫn dắt San Vân Hà trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "hai_nguyet_ca",
+      "target": "hai_tieu_loa",
+      "type": "mentor",
+      "description": "Hải Nguyệt Ca chỉ dẫn Hải Tiểu Loa trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "hai_nguyet_ca",
+      "target": "hai_van_dao",
+      "type": "mentor",
+      "description": "Hải Nguyệt Ca chỉ dẫn Hải Vân Dao trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "hai_nguyet_ca",
+      "target": "san_hong_diep",
+      "type": "mentor",
+      "description": "Hải Nguyệt Ca chỉ dẫn San Hồng Diệp trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "hai_nguyet_ca",
+      "target": "san_ngoc_lan",
+      "type": "mentor",
+      "description": "Hải Nguyệt Ca chỉ dẫn San Ngọc Lan trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "hai_tieu_loa",
+      "target": "hai_nguyet_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "hai_van_dao",
+      "target": "hai_tieu_loa",
+      "type": "mentor",
+      "description": "Hải Vân Dao chỉ dẫn Hải Tiểu Loa trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_hong_diep",
+      "target": "hai_tieu_loa",
+      "type": "mentor",
+      "description": "San Hồng Diệp chỉ dẫn Hải Tiểu Loa trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "hai_van_dao",
+      "target": "hai_nguyet_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "hai_van_dao",
+      "target": "san_hong_diep",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hai_van_dao",
+      "target": "san_ngoc_lan",
+      "type": "mentor",
+      "description": "Hải Vân Dao chỉ dẫn San Ngọc Lan trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_hong_diep",
+      "target": "hai_nguyet_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_hong_diep",
+      "target": "san_ngoc_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "san_hong_diep",
+      "target": "thuy_tinh",
+      "type": "mentor",
+      "description": "San Hồng Diệp chỉ dẫn Thủy Tinh trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_ngoc_lan",
+      "target": "hai_nguyet_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_ngoc_lan",
+      "target": "thuy_tinh",
+      "type": "mentor",
+      "description": "San Ngọc Lan chỉ dẫn Thủy Tinh trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "san_ngoc_lan",
+      "target": "trieu_bich_hai",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thuy_tinh",
+      "target": "hai_nguyet_ca",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hai_nguyet_ca",
+      "target": "thuy_tinh",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trieu_bich_hai",
+      "target": "thuy_tinh",
+      "type": "mentor",
+      "description": "Triều Bích Hải chỉ dẫn Thủy Tinh trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "trieu_thien_ve",
+      "target": "thuy_tinh",
+      "type": "mentor",
+      "description": "Triều Thiên Vệ chỉ dẫn Thủy Tinh trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "hai_nguyet_ca",
+      "target": "trieu_bich_hai",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "trieu_bich_hai",
+      "target": "hai_nguyet_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "trieu_thien_ve",
+      "target": "trieu_bich_hai",
+      "type": "mentor",
+      "description": "Triều Thiên Vệ chỉ dẫn Triều Bích Hải trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "hai_nguyet_ca",
+      "target": "trieu_thien_ve",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong San Hô Đảo Quốc"
+    },
+    {
+      "source": "trieu_thien_ve",
+      "target": "hai_nguyet_ca",
+      "type": "subordinate",
+      "description": "Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc"
+    },
+    {
+      "source": "ba_van_ly",
+      "target": "ba_hai_vong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_hai_vong",
+      "target": "ba_van_ly",
+      "type": "subordinate",
+      "description": "Phục tùng Ba Vạn Lý, Liên Lạc Trưởng của Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_cong_minh",
+      "target": "ba_hai_vong",
+      "type": "mentor",
+      "description": "Ba Cộng Minh dẫn dắt Ba Hải Vọng trong Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_linh_thoai",
+      "target": "ba_hai_vong",
+      "type": "mentor",
+      "description": "Ba Linh Thoại chỉ dẫn Ba Hải Vọng trong Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_van_ly",
+      "target": "ba_linh_thoai",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_linh_thoai",
+      "target": "ba_van_ly",
+      "type": "subordinate",
+      "description": "Phục tùng Ba Vạn Lý, Liên Lạc Trưởng của Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_linh_thoai",
+      "target": "ba_cong_minh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_linh_thoai",
+      "target": "ba_ngan_ha",
+      "type": "mentor",
+      "description": "Ba Linh Thoại chỉ dẫn Ba Ngân Hà trong Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_van_ly",
+      "target": "ba_ngan_ha",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_ngan_ha",
+      "target": "ba_van_ly",
+      "type": "subordinate",
+      "description": "Phục tùng Ba Vạn Lý, Liên Lạc Trưởng của Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_cong_minh",
+      "target": "ba_ngan_ha",
+      "type": "mentor",
+      "description": "Ba Cộng Minh dẫn dắt Ba Ngân Hà trong Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_van_ly",
+      "target": "ba_am_huong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_am_huong",
+      "target": "ba_van_ly",
+      "type": "subordinate",
+      "description": "Phục tùng Ba Vạn Lý, Liên Lạc Trưởng của Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_am_huong",
+      "target": "ba_cong_minh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "ba_am_huong",
+      "target": "ba_hai_vong",
+      "type": "mentor",
+      "description": "Ba Âm Hưởng chỉ dẫn Ba Hải Vọng trong Sóng Vi Ba Liên Lạc"
+    },
+    {
+      "source": "suong_vo_tinh",
+      "target": "hac_suong_quy",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sương Ma Uyển"
+    },
+    {
+      "source": "hac_suong_quy",
+      "target": "suong_vo_tinh",
+      "type": "subordinate",
+      "description": "Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển"
+    },
+    {
+      "source": "hac_suong_quy",
+      "target": "bach_thi_nuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sương Ma Uyển"
+    },
+    {
+      "source": "hac_suong_quy",
+      "target": "lanh_vo_hon",
+      "type": "mentor",
+      "description": "Hắc Sương Quỷ chỉ dẫn Lãnh Vô Hồn trong Sương Ma Uyển"
+    },
+    {
+      "source": "suong_vo_tinh",
+      "target": "lanh_vo_hon",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sương Ma Uyển"
+    },
+    {
+      "source": "lanh_vo_hon",
+      "target": "suong_vo_tinh",
+      "type": "subordinate",
+      "description": "Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển"
+    },
+    {
+      "source": "bach_thi_nuong",
+      "target": "lanh_vo_hon",
+      "type": "mentor",
+      "description": "Bạch Thi Nương dẫn dắt Lãnh Vô Hồn trong Sương Ma Uyển"
+    },
+    {
+      "source": "lanh_vo_hon",
+      "target": "suong_no_vuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sương Ma Uyển, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "suong_vo_tinh",
+      "target": "suong_no_vuong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sương Ma Uyển"
+    },
+    {
+      "source": "suong_no_vuong",
+      "target": "suong_vo_tinh",
+      "type": "subordinate",
+      "description": "Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển"
+    },
+    {
+      "source": "bach_thi_nuong",
+      "target": "suong_no_vuong",
+      "type": "mentor",
+      "description": "Bạch Thi Nương dẫn dắt Sương Nô Vương trong Sương Ma Uyển"
+    },
+    {
+      "source": "suong_no_vuong",
+      "target": "tuyet_tinh_han",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sương Ma Uyển, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "suong_vo_tinh",
+      "target": "bach_thi_nuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sương Ma Uyển"
+    },
+    {
+      "source": "suong_vo_tinh",
+      "target": "tuyet_tinh_han",
+      "type": "mentor",
+      "description": "Sương Vô Tình chỉ dẫn Tuyệt Tình Hàn trong Sương Ma Uyển"
+    },
+    {
+      "source": "tuyet_tinh_han",
+      "target": "suong_vo_tinh",
+      "type": "subordinate",
+      "description": "Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển"
+    },
+    {
+      "source": "bach_thi_nuong",
+      "target": "tuyet_tinh_han",
+      "type": "mentor",
+      "description": "Bạch Thi Nương dẫn dắt Tuyệt Tình Hàn trong Sương Ma Uyển"
+    },
+    {
+      "source": "suong_vo_tinh",
+      "target": "am_bang_nhi",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sương Ma Uyển"
+    },
+    {
+      "source": "am_bang_nhi",
+      "target": "suong_vo_tinh",
+      "type": "subordinate",
+      "description": "Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển"
+    },
+    {
+      "source": "bach_thi_nuong",
+      "target": "am_bang_nhi",
+      "type": "mentor",
+      "description": "Bạch Thi Nương dẫn dắt Ám Băng Nhi trong Sương Ma Uyển"
+    },
+    {
+      "source": "hac_suong_quy",
+      "target": "am_bang_nhi",
+      "type": "mentor",
+      "description": "Hắc Sương Quỷ chỉ dẫn Ám Băng Nhi trong Sương Ma Uyển"
+    },
+    {
+      "source": "suong_vo_tinh",
+      "target": "am_suong_anh",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Sương Ma Uyển"
+    },
+    {
+      "source": "am_suong_anh",
+      "target": "suong_vo_tinh",
+      "type": "subordinate",
+      "description": "Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển"
+    },
+    {
+      "source": "am_suong_anh",
+      "target": "bach_thi_nuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sương Ma Uyển"
+    },
+    {
+      "source": "am_suong_anh",
+      "target": "hac_suong_quy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sương Ma Uyển, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hao_nhien",
+      "target": "hoang_phu_lac_thien",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "hoang_phu_lac_thien",
+      "target": "hao_nhien",
+      "type": "subordinate",
+      "description": "Phục tùng Hạo Nhiên, Viện Trưởng của Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "khong_thu",
+      "target": "hoang_phu_lac_thien",
+      "type": "mentor",
+      "description": "Khổng Thư chỉ dẫn Hoàng Phủ Lạc Thiên trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "hoang_phu_lac_thien",
+      "target": "lam_tinh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hao_nhien",
+      "target": "khong_thu",
+      "type": "mentor",
+      "description": "Hạo Nhiên chỉ dẫn Khổng Thư trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "hao_nhien",
+      "target": "lam_tinh",
+      "type": "mentor",
+      "description": "Hạo Nhiên chỉ dẫn Lâm Tĩnh trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "hao_nhien",
+      "target": "ly_hoc_hai",
+      "type": "mentor",
+      "description": "Hạo Nhiên chỉ dẫn Lý Học Hải trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "khong_thu",
+      "target": "hao_nhien",
+      "type": "subordinate",
+      "description": "Phục tùng Hạo Nhiên, Viện Trưởng của Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "khong_thu",
+      "target": "lam_tinh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_hoc_hai",
+      "target": "khong_thu",
+      "type": "mentor",
+      "description": "Lý Học Hải chỉ dẫn Khổng Thư trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "lam_tinh",
+      "target": "hao_nhien",
+      "type": "subordinate",
+      "description": "Phục tùng Hạo Nhiên, Viện Trưởng của Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "ly_hoc_hai",
+      "target": "lam_tinh",
+      "type": "mentor",
+      "description": "Lý Học Hải chỉ dẫn Lâm Tĩnh trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "lam_tinh",
+      "target": "lo_bach_nghe",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_hoc_hai",
+      "target": "hao_nhien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_hoc_hai",
+      "target": "tieu_mong_dao",
+      "type": "mentor",
+      "description": "Lý Học Hải chỉ dẫn Tiêu Mộng Dao trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "ly_hoc_hai",
+      "target": "trieu_phong_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "lo_bach_nghe",
+      "target": "hao_nhien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hao_nhien",
+      "target": "lo_bach_nghe",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_hoc_hai",
+      "target": "lo_bach_nghe",
+      "type": "mentor",
+      "description": "Lý Học Hải chỉ dẫn Lỗ Bách Nghệ trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "lo_bach_nghe",
+      "target": "tieu_mong_dao",
+      "type": "mentor",
+      "description": "Lỗ Bách Nghệ chỉ dẫn Tiêu Mộng Dao trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "hao_nhien",
+      "target": "tieu_mong_dao",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "tieu_mong_dao",
+      "target": "hao_nhien",
+      "type": "subordinate",
+      "description": "Phục tùng Hạo Nhiên, Viện Trưởng của Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "trieu_phong_van",
+      "target": "tieu_mong_dao",
+      "type": "mentor",
+      "description": "Triệu Phong Vân chỉ dẫn Tiêu Mộng Dao trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "tieu_mong_dao",
+      "target": "truong_tinh_than",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trieu_phong_van",
+      "target": "hao_nhien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hao_nhien",
+      "target": "trieu_phong_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trieu_phong_van",
+      "target": "truong_tinh_than",
+      "type": "mentor",
+      "description": "Triệu Phong Vân chỉ dẫn Trương Tinh Thần trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "trieu_phong_van",
+      "target": "vuong_chien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hao_nhien",
+      "target": "truong_tinh_than",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "truong_tinh_than",
+      "target": "hao_nhien",
+      "type": "subordinate",
+      "description": "Phục tùng Hạo Nhiên, Viện Trưởng của Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "vuong_chien",
+      "target": "truong_tinh_than",
+      "type": "mentor",
+      "description": "Vương Chiến chỉ dẫn Trương Tinh Thần trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "ton_thien_co",
+      "target": "hao_nhien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hao_nhien",
+      "target": "ton_thien_co",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ton_thien_co",
+      "target": "trieu_phong_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ton_thien_co",
+      "target": "truong_tinh_than",
+      "type": "mentor",
+      "description": "Tôn Thiên Cơ chỉ dẫn Trương Tinh Thần trong Thiên Kiêu Học Viện"
+    },
+    {
+      "source": "vuong_chien",
+      "target": "hao_nhien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hao_nhien",
+      "target": "vuong_chien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "canh_thien_minh",
+      "target": "ly_thu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thiên Môn Kính Đài"
+    },
+    {
+      "source": "ly_thu",
+      "target": "canh_thien_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Cảnh Thiên Minh, Đài Chủ / Kính Lão của Thiên Môn Kính Đài"
+    },
+    {
+      "source": "canh_tieu_minh",
+      "target": "ly_thu",
+      "type": "mentor",
+      "description": "Cảnh Tiểu Minh dẫn dắt Lý Thư trong Thiên Môn Kính Đài"
+    },
+    {
+      "source": "moc_thien_hao",
+      "target": "ho_thuong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thiên Mộc Thành"
+    },
+    {
+      "source": "ho_thuong",
+      "target": "moc_thien_hao",
+      "type": "subordinate",
+      "description": "Phục tùng Mộc Thiên Hào, Thành Chủ của Thiên Mộc Thành"
+    },
+    {
+      "source": "lam_thuong",
+      "target": "ho_thuong",
+      "type": "mentor",
+      "description": "Lâm Thương chỉ dẫn Hồ Thương trong Thiên Mộc Thành"
+    },
+    {
+      "source": "lam_van_hoa",
+      "target": "ho_thuong",
+      "type": "mentor",
+      "description": "Lâm Vạn Hóa chỉ dẫn Hồ Thương trong Thiên Mộc Thành"
+    },
+    {
+      "source": "lam_thuong",
+      "target": "moc_thien_hao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "moc_thien_hao",
+      "target": "lam_thuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "lam_thuong",
+      "target": "lam_van_hoa",
+      "type": "mentor",
+      "description": "Lâm Thương chỉ dẫn Lâm Vạn Hóa trong Thiên Mộc Thành"
+    },
+    {
+      "source": "lam_thuong",
+      "target": "moc_thien_quan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "lam_van_hoa",
+      "target": "moc_thien_hao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "moc_thien_hao",
+      "target": "lam_van_hoa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "moc_thien_quan",
+      "target": "lam_van_hoa",
+      "type": "mentor",
+      "description": "Mộc Thiên Quân chỉ dẫn Lâm Vạn Hóa trong Thiên Mộc Thành"
+    },
+    {
+      "source": "moc_van",
+      "target": "lam_van_hoa",
+      "type": "mentor",
+      "description": "Mộc Vân chỉ dẫn Lâm Vạn Hóa trong Thiên Mộc Thành"
+    },
+    {
+      "source": "moc_thien_hao",
+      "target": "moc_thien_quan",
+      "type": "mentor",
+      "description": "Mộc Thiên Hào chỉ dẫn Mộc Thiên Quân trong Thiên Mộc Thành"
+    },
+    {
+      "source": "moc_thien_hao",
+      "target": "moc_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "moc_thien_hao",
+      "target": "tran_thiet",
+      "type": "mentor",
+      "description": "Mộc Thiên Hào chỉ dẫn Trần Thiết trong Thiên Mộc Thành"
+    },
+    {
+      "source": "moc_thien_hao",
+      "target": "vuong_luong",
+      "type": "mentor",
+      "description": "Mộc Thiên Hào chỉ dẫn Vương Lương trong Thiên Mộc Thành"
+    },
+    {
+      "source": "moc_thien_quan",
+      "target": "moc_thien_hao",
+      "type": "subordinate",
+      "description": "Phục tùng Mộc Thiên Hào, Thành Chủ của Thiên Mộc Thành"
+    },
+    {
+      "source": "moc_thien_quan",
+      "target": "moc_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "moc_thien_quan",
+      "target": "tran_thiet",
+      "type": "mentor",
+      "description": "Mộc Thiên Quân chỉ dẫn Trần Thiết trong Thiên Mộc Thành"
+    },
+    {
+      "source": "moc_van",
+      "target": "moc_thien_hao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "moc_van",
+      "target": "tran_thiet",
+      "type": "mentor",
+      "description": "Mộc Vân chỉ dẫn Trần Thiết trong Thiên Mộc Thành"
+    },
+    {
+      "source": "moc_van",
+      "target": "vuong_luong",
+      "type": "mentor",
+      "description": "Mộc Vân chỉ dẫn Vương Lương trong Thiên Mộc Thành"
+    },
+    {
+      "source": "tran_thiet",
+      "target": "moc_thien_hao",
+      "type": "subordinate",
+      "description": "Phục tùng Mộc Thiên Hào, Thành Chủ của Thiên Mộc Thành"
+    },
+    {
+      "source": "tran_thiet",
+      "target": "vuong_luong",
+      "type": "mentor",
+      "description": "Trần Thiết chỉ dẫn Vương Lương trong Thiên Mộc Thành"
+    },
+    {
+      "source": "vuong_luong",
+      "target": "moc_thien_hao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "co_thien_ly",
+      "target": "hoang_sa_nhan",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thiên Sa Thương Hội"
+    },
+    {
+      "source": "hoang_sa_nhan",
+      "target": "co_thien_ly",
+      "type": "subordinate",
+      "description": "Phục tùng Cổ Thiên Lý, Gia Chủ Sa Thương của Thiên Sa Thương Hội"
+    },
+    {
+      "source": "lam_thien_muc",
+      "target": "hoang_sa_nhan",
+      "type": "mentor",
+      "description": "Lâm Thiên Mục dẫn dắt Hoàng Sa Nhạn trong Thiên Sa Thương Hội"
+    },
+    {
+      "source": "pham_thuong_dao",
+      "target": "hoang_sa_nhan",
+      "type": "mentor",
+      "description": "Phạm Thương Đạo chỉ dẫn Hoàng Sa Nhạn trong Thiên Sa Thương Hội"
+    },
+    {
+      "source": "co_thien_ly",
+      "target": "pham_thuong_dao",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thiên Sa Thương Hội"
+    },
+    {
+      "source": "pham_thuong_dao",
+      "target": "co_thien_ly",
+      "type": "subordinate",
+      "description": "Phục tùng Cổ Thiên Lý, Gia Chủ Sa Thương của Thiên Sa Thương Hội"
+    },
+    {
+      "source": "lam_thien_muc",
+      "target": "pham_thuong_dao",
+      "type": "mentor",
+      "description": "Lâm Thiên Mục dẫn dắt Phạm Thương Đạo trong Thiên Sa Thương Hội"
+    },
+    {
+      "source": "tran_khoang_son",
+      "target": "pham_thuong_dao",
+      "type": "mentor",
+      "description": "Trần Khoáng Sơn chỉ dẫn Phạm Thương Đạo trong Thiên Sa Thương Hội"
+    },
+    {
+      "source": "tran_khoang_son",
+      "target": "co_thien_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Sa Thương Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "co_thien_ly",
+      "target": "tran_khoang_son",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Sa Thương Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tran_khoang_son",
+      "target": "lam_thien_muc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Sa Thương Hội"
+    },
+    {
+      "source": "tran_khoang_son",
+      "target": "vo_danh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Sa Thương Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "co_thien_ly",
+      "target": "vo_danh",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thiên Sa Thương Hội"
+    },
+    {
+      "source": "vo_danh",
+      "target": "co_thien_ly",
+      "type": "subordinate",
+      "description": "Phục tùng Cổ Thiên Lý, Gia Chủ Sa Thương của Thiên Sa Thương Hội"
+    },
+    {
+      "source": "vo_danh",
+      "target": "lam_thien_muc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Sa Thương Hội"
+    },
+    {
+      "source": "vo_danh",
+      "target": "vu_thuong_van",
+      "type": "mentor",
+      "description": "Vô Danh chỉ dẫn Vũ Thương Vân trong Thiên Sa Thương Hội"
+    },
+    {
+      "source": "co_thien_ly",
+      "target": "vu_thuong_van",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thiên Sa Thương Hội"
+    },
+    {
+      "source": "vu_thuong_van",
+      "target": "co_thien_ly",
+      "type": "subordinate",
+      "description": "Phục tùng Cổ Thiên Lý, Gia Chủ Sa Thương của Thiên Sa Thương Hội"
+    },
+    {
+      "source": "lam_thien_muc",
+      "target": "vu_thuong_van",
+      "type": "mentor",
+      "description": "Lâm Thiên Mục dẫn dắt Vũ Thương Vân trong Thiên Sa Thương Hội"
+    },
+    {
+      "source": "dang_thien_ha",
+      "target": "co_thien_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Sa Thương Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "co_thien_ly",
+      "target": "dang_thien_ha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Sa Thương Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "lam_thien_muc",
+      "target": "dang_thien_ha",
+      "type": "mentor",
+      "description": "Lâm Thiên Mục dẫn dắt Đặng Thiên Hà trong Thiên Sa Thương Hội"
+    },
+    {
+      "source": "dang_thien_ha",
+      "target": "hoang_sa_nhan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Sa Thương Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thiet_giap_vuong",
+      "target": "thiet_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiết Giáp Yêu Thú Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thiet_nha",
+      "target": "thiet_giap_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng Thiết Giáp Vương, Đàn Chủ của Thiết Giáp Yêu Thú Đàn"
+    },
+    {
+      "source": "thiet_giap_vuong",
+      "target": "thiet_au",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thiết Giáp Yêu Thú Đàn"
+    },
+    {
+      "source": "thiet_au",
+      "target": "thiet_giap_vuong",
+      "type": "subordinate",
+      "description": "Phục tùng Thiết Giáp Vương, Đàn Chủ của Thiết Giáp Yêu Thú Đàn"
+    },
+    {
+      "source": "thiet_nha",
+      "target": "thiet_au",
+      "type": "mentor",
+      "description": "Thiết Nha chỉ dẫn Thiết Ấu trong Thiết Giáp Yêu Thú Đàn"
+    },
+    {
+      "source": "truong_hai_bang",
+      "target": "hoang_lao_cau",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thuyền Nhân Hộ Vệ Đội"
+    },
+    {
+      "source": "hoang_lao_cau",
+      "target": "truong_hai_bang",
+      "type": "subordinate",
+      "description": "Phục tùng Trương Hải Bằng, Đội Trưởng của Thuyền Nhân Hộ Vệ Đội"
+    },
+    {
+      "source": "hoang_lao_cau",
+      "target": "le_hai_yen",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thuyền Nhân Hộ Vệ Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoang_lao_cau",
+      "target": "vu_thiet_son",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thuyền Nhân Hộ Vệ Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_hai_yen",
+      "target": "truong_hai_bang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thuyền Nhân Hộ Vệ Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "truong_hai_bang",
+      "target": "le_hai_yen",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thuyền Nhân Hộ Vệ Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_hai_yen",
+      "target": "vu_thiet_son",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thuyền Nhân Hộ Vệ Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "truong_hai_bang",
+      "target": "vu_thiet_son",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thuyền Nhân Hộ Vệ Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "vu_thiet_son",
+      "target": "truong_hai_bang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thuyền Nhân Hộ Vệ Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "truong_hai_bang",
+      "target": "dang_tieu_ngu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thuyền Nhân Hộ Vệ Đội"
+    },
+    {
+      "source": "dang_tieu_ngu",
+      "target": "truong_hai_bang",
+      "type": "subordinate",
+      "description": "Phục tùng Trương Hải Bằng, Đội Trưởng của Thuyền Nhân Hộ Vệ Đội"
+    },
+    {
+      "source": "dang_tieu_ngu",
+      "target": "hoang_lao_cau",
+      "type": "ally",
+      "description": "Chiến hữu cùng Thuyền Nhân Hộ Vệ Đội, chiến đấu song song"
+    },
+    {
+      "source": "le_hai_yen",
+      "target": "dang_tieu_ngu",
+      "type": "mentor",
+      "description": "Lê Hải Yến chỉ dẫn Đặng Tiểu Ngư trong Thuyền Nhân Hộ Vệ Đội"
+    },
+    {
+      "source": "hai_luc_tham",
+      "target": "ngu_phat_quang",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Thám Hiểm Đoàn"
+    },
+    {
+      "source": "ngu_phat_quang",
+      "target": "hai_luc_tham",
+      "type": "subordinate",
+      "description": "Phục tùng Hải Lục Thâm, Đoàn Trưởng của Thâm Hải Thám Hiểm Đoàn"
+    },
+    {
+      "source": "ngu_phat_quang",
+      "target": "chuong_tham_uyen",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thâm Hải Thám Hiểm Đoàn"
+    },
+    {
+      "source": "ngu_phat_quang",
+      "target": "sa_hac_tham_hai",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thâm Hải Thám Hiểm Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_hac_tham_hai",
+      "target": "hai_luc_tham",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thâm Hải Thám Hiểm Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hai_luc_tham",
+      "target": "sa_hac_tham_hai",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thâm Hải Thám Hiểm Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_hac_tham_hai",
+      "target": "chuong_tham_uyen",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thâm Hải Thám Hiểm Đoàn"
+    },
+    {
+      "source": "linh_huyen_minh",
+      "target": "linh_tham_nguyet",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_tham_nguyet",
+      "target": "linh_huyen_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_hac_trao",
+      "target": "linh_tham_nguyet",
+      "type": "mentor",
+      "description": "Linh Hắc Trào dẫn dắt Linh Thâm Nguyệt trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_tham_nguyet",
+      "target": "linh_tieu_uyen",
+      "type": "mentor",
+      "description": "Linh Thâm Nguyệt chỉ dẫn Linh Tiểu Uyên trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_huyen_minh",
+      "target": "linh_tieu_uyen",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_tieu_uyen",
+      "target": "linh_huyen_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_hac_trao",
+      "target": "linh_tieu_uyen",
+      "type": "mentor",
+      "description": "Linh Hắc Trào dẫn dắt Linh Tiểu Uyên trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_tram_uyen",
+      "target": "linh_tieu_uyen",
+      "type": "mentor",
+      "description": "Linh Trầm Uyên chỉ dẫn Linh Tiểu Uyên trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_huyen_minh",
+      "target": "linh_tram_uyen",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_tram_uyen",
+      "target": "linh_huyen_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_hac_trao",
+      "target": "linh_tram_uyen",
+      "type": "mentor",
+      "description": "Linh Hắc Trào dẫn dắt Linh Trầm Uyên trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_u_quang",
+      "target": "linh_tram_uyen",
+      "type": "mentor",
+      "description": "Linh U Quang chỉ dẫn Linh Trầm Uyên trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_huyen_minh",
+      "target": "linh_u_quang",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_u_quang",
+      "target": "linh_huyen_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_hac_trao",
+      "target": "linh_u_quang",
+      "type": "mentor",
+      "description": "Linh Hắc Trào dẫn dắt Linh U Quang trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_van_truong",
+      "target": "linh_u_quang",
+      "type": "mentor",
+      "description": "Linh Vạn Trượng chỉ dẫn Linh U Quang trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_huyen_minh",
+      "target": "linh_van_truong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_van_truong",
+      "target": "linh_huyen_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_van_truong",
+      "target": "linh_hac_trao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_vuc_uyen",
+      "target": "linh_van_truong",
+      "type": "mentor",
+      "description": "Linh Vực Uyên chỉ dẫn Linh Vạn Trượng trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_huyen_minh",
+      "target": "linh_vuc_uyen",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_vuc_uyen",
+      "target": "linh_huyen_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_vuc_uyen",
+      "target": "linh_hac_trao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_vuc_uyen",
+      "target": "thuy_co_ky_uc",
+      "type": "mentor",
+      "description": "Linh Vực Uyên chỉ dẫn Thủy Cổ Ký Ức trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_huyen_minh",
+      "target": "linh_ap_luc",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_ap_luc",
+      "target": "linh_huyen_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_hac_trao",
+      "target": "linh_ap_luc",
+      "type": "mentor",
+      "description": "Linh Hắc Trào dẫn dắt Linh Áp Lực trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_ap_luc",
+      "target": "linh_tham_nguyet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thâm Hải Vi Linh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "linh_huyen_minh",
+      "target": "thuy_co_ky_uc",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "thuy_co_ky_uc",
+      "target": "linh_huyen_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_hac_trao",
+      "target": "thuy_co_ky_uc",
+      "type": "mentor",
+      "description": "Linh Hắc Trào dẫn dắt Thủy Cổ Ký Ức trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "thuy_co_ky_uc",
+      "target": "thuy_nhiet_tuyen",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thâm Hải Vi Linh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "linh_huyen_minh",
+      "target": "thuy_nhiet_tuyen",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "thuy_nhiet_tuyen",
+      "target": "linh_huyen_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_hac_trao",
+      "target": "thuy_nhiet_tuyen",
+      "type": "mentor",
+      "description": "Linh Hắc Trào dẫn dắt Thủy Nhiệt Tuyền trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "thuy_nhiet_tuyen",
+      "target": "thuy_tham_uyen_mau",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thâm Hải Vi Linh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "linh_huyen_minh",
+      "target": "thuy_tham_uyen_mau",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "thuy_tham_uyen_mau",
+      "target": "linh_huyen_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_hac_trao",
+      "target": "thuy_tham_uyen_mau",
+      "type": "mentor",
+      "description": "Linh Hắc Trào dẫn dắt Thủy Thâm Uyên Mẫu trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "thuy_tham_uyen_mau",
+      "target": "thuy_tinh_hoa",
+      "type": "mentor",
+      "description": "Thủy Thâm Uyên Mẫu chỉ dẫn Thủy Tịnh Hóa trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_huyen_minh",
+      "target": "thuy_tinh_hoa",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "thuy_tinh_hoa",
+      "target": "linh_huyen_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_hac_trao",
+      "target": "thuy_tinh_hoa",
+      "type": "mentor",
+      "description": "Linh Hắc Trào dẫn dắt Thủy Tịnh Hóa trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "thuy_uyen_quang",
+      "target": "thuy_tinh_hoa",
+      "type": "mentor",
+      "description": "Thủy Uyên Quang chỉ dẫn Thủy Tịnh Hóa trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_huyen_minh",
+      "target": "thuy_uyen_quang",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "thuy_uyen_quang",
+      "target": "linh_huyen_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh"
+    },
+    {
+      "source": "linh_hac_trao",
+      "target": "thuy_uyen_quang",
+      "type": "mentor",
+      "description": "Linh Hắc Trào dẫn dắt Thủy Uyên Quang trong Thâm Hải Vi Linh"
+    },
+    {
+      "source": "cung_tuyet_tran",
+      "target": "tien_vo_song",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_vo_song",
+      "target": "cung_tuyet_tran",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "cung_tuyet_tran",
+      "target": "le_thien_muc",
+      "type": "mentor",
+      "description": "Cung Tuyệt Trần chỉ dẫn Lê Thiên Mục trong Thần Cung Bắn Sa"
+    },
+    {
+      "source": "cung_tuyet_tran",
+      "target": "ly_xuyen_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_vo_song",
+      "target": "le_thien_muc",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thần Cung Bắn Sa"
+    },
+    {
+      "source": "le_thien_muc",
+      "target": "tien_vo_song",
+      "type": "subordinate",
+      "description": "Phục tùng Tiễn Vô Song, Môn Chủ của Thần Cung Bắn Sa"
+    },
+    {
+      "source": "ly_xuyen_van",
+      "target": "le_thien_muc",
+      "type": "mentor",
+      "description": "Lý Xuyên Vân chỉ dẫn Lê Thiên Mục trong Thần Cung Bắn Sa"
+    },
+    {
+      "source": "pham_nhat_tien",
+      "target": "le_thien_muc",
+      "type": "mentor",
+      "description": "Phạm Nhất Tiễn chỉ dẫn Lê Thiên Mục trong Thần Cung Bắn Sa"
+    },
+    {
+      "source": "ly_xuyen_van",
+      "target": "tien_vo_song",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_vo_song",
+      "target": "ly_xuyen_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_xuyen_van",
+      "target": "pham_nhat_tien",
+      "type": "mentor",
+      "description": "Lý Xuyên Vân chỉ dẫn Phạm Nhất Tiễn trong Thần Cung Bắn Sa"
+    },
+    {
+      "source": "ly_xuyen_van",
+      "target": "tien_linh_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_vo_song",
+      "target": "pham_nhat_tien",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thần Cung Bắn Sa"
+    },
+    {
+      "source": "pham_nhat_tien",
+      "target": "tien_vo_song",
+      "type": "subordinate",
+      "description": "Phục tùng Tiễn Vô Song, Môn Chủ của Thần Cung Bắn Sa"
+    },
+    {
+      "source": "pham_nhat_tien",
+      "target": "tien_linh_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_pha_khong",
+      "target": "pham_nhat_tien",
+      "type": "mentor",
+      "description": "Tiễn Phá Không chỉ dẫn Phạm Nhất Tiễn trong Thần Cung Bắn Sa"
+    },
+    {
+      "source": "tien_linh_phong",
+      "target": "tien_vo_song",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_vo_song",
+      "target": "tien_linh_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_pha_khong",
+      "target": "tien_linh_phong",
+      "type": "mentor",
+      "description": "Tiễn Phá Không chỉ dẫn Tiễn Linh Phong trong Thần Cung Bắn Sa"
+    },
+    {
+      "source": "tien_pha_khong",
+      "target": "tien_vo_song",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_vo_song",
+      "target": "tien_pha_khong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "dang_truy_phong",
+      "target": "tien_vo_song",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tien_vo_song",
+      "target": "dang_truy_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "dang_truy_phong",
+      "target": "le_thien_muc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thần Cung Bắn Sa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_xuyen_van",
+      "target": "dang_truy_phong",
+      "type": "mentor",
+      "description": "Lý Xuyên Vân chỉ dẫn Đặng Truy Phong trong Thần Cung Bắn Sa"
+    },
+    {
+      "source": "nguyet_quang",
+      "target": "trung_bach_quang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thủy Mẫu Trùng Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nguyet_quang",
+      "target": "trung_hong_diem",
+      "type": "mentor",
+      "description": "Nguyệt Quang chỉ dẫn Trùng Hồng Diệm trong Thủy Mẫu Trùng Đàn"
+    },
+    {
+      "source": "trung_bach_quang",
+      "target": "trung_hong_diem",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thủy Mẫu Trùng Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "han_thuy",
+      "target": "son_thu_ho",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thủy Nguồn Bảo Vệ Đoàn"
+    },
+    {
+      "source": "son_thu_ho",
+      "target": "han_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Hàn Thủy, Đoàn Trưởng của Thủy Nguồn Bảo Vệ Đoàn"
+    },
+    {
+      "source": "ly_thuy_nguyen",
+      "target": "son_thu_ho",
+      "type": "mentor",
+      "description": "Lý Thủy Nguyên dẫn dắt Sơn Thủ Hộ trong Thủy Nguồn Bảo Vệ Đoàn"
+    },
+    {
+      "source": "tran_thanh_luong",
+      "target": "son_thu_ho",
+      "type": "mentor",
+      "description": "Trần Thanh Lương chỉ dẫn Sơn Thủ Hộ trong Thủy Nguồn Bảo Vệ Đoàn"
+    },
+    {
+      "source": "han_thuy",
+      "target": "tran_thanh_luong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Thủy Nguồn Bảo Vệ Đoàn"
+    },
+    {
+      "source": "tran_thanh_luong",
+      "target": "han_thuy",
+      "type": "subordinate",
+      "description": "Phục tùng Hàn Thủy, Đoàn Trưởng của Thủy Nguồn Bảo Vệ Đoàn"
+    },
+    {
+      "source": "tran_thanh_luong",
+      "target": "ly_thuy_nguyen",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thủy Nguồn Bảo Vệ Đoàn"
+    },
+    {
+      "source": "dang_tuan_sa",
+      "target": "han_thuy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thủy Nguồn Bảo Vệ Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "han_thuy",
+      "target": "dang_tuan_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thủy Nguồn Bảo Vệ Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_thuy_nguyen",
+      "target": "dang_tuan_sa",
+      "type": "mentor",
+      "description": "Lý Thủy Nguyên dẫn dắt Đặng Tuần Sa trong Thủy Nguồn Bảo Vệ Đoàn"
+    },
+    {
+      "source": "dang_tuan_sa",
+      "target": "son_thu_ho",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thủy Nguồn Bảo Vệ Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tinh_minh",
+      "target": "tinh_sac",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thủy Tinh Thạch Phường, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tinh_minh",
+      "target": "tinh_thau",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thủy Tinh Thạch Phường, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tinh_minh",
+      "target": "tinh_tieu_quang",
+      "type": "mentor",
+      "description": "Tinh Minh chỉ dẫn Tinh Tiểu Quang trong Thủy Tinh Thạch Phường"
+    },
+    {
+      "source": "tinh_sac",
+      "target": "tinh_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Tinh Minh, Phường Chủ của Thủy Tinh Thạch Phường"
+    },
+    {
+      "source": "tinh_sac",
+      "target": "tinh_thau",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thủy Tinh Thạch Phường, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tinh_sac",
+      "target": "tinh_tieu_quang",
+      "type": "mentor",
+      "description": "Tinh Sắc chỉ dẫn Tinh Tiểu Quang trong Thủy Tinh Thạch Phường"
+    },
+    {
+      "source": "tinh_thau",
+      "target": "tinh_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Tinh Minh, Phường Chủ của Thủy Tinh Thạch Phường"
+    },
+    {
+      "source": "tinh_thau",
+      "target": "tinh_tieu_quang",
+      "type": "mentor",
+      "description": "Tinh Thấu chỉ dẫn Tinh Tiểu Quang trong Thủy Tinh Thạch Phường"
+    },
+    {
+      "source": "tinh_tieu_quang",
+      "target": "tinh_minh",
+      "type": "subordinate",
+      "description": "Phục tùng Tinh Minh, Phường Chủ của Thủy Tinh Thạch Phường"
+    },
+    {
+      "source": "tinh_ha",
+      "target": "bach_quang_nien",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Trích Tinh Lâu"
+    },
+    {
+      "source": "bach_quang_nien",
+      "target": "tinh_ha",
+      "type": "subordinate",
+      "description": "Phục tùng Tinh Hà, Lâu Chủ của Trích Tinh Lâu"
+    },
+    {
+      "source": "khac_minh",
+      "target": "bach_quang_nien",
+      "type": "mentor",
+      "description": "Khắc Minh chỉ dẫn Bạch Quang Niên trong Trích Tinh Lâu"
+    },
+    {
+      "source": "bach_quang_nien",
+      "target": "tinh_than",
+      "type": "ally",
+      "description": "Đồng liêu cùng Trích Tinh Lâu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khac_minh",
+      "target": "tinh_ha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Trích Tinh Lâu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tinh_ha",
+      "target": "khac_minh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Trích Tinh Lâu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khac_minh",
+      "target": "tinh_than",
+      "type": "ally",
+      "description": "Đồng liêu cùng Trích Tinh Lâu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tinh_ha",
+      "target": "tinh_than",
+      "type": "mentor",
+      "description": "Tinh Hà chỉ dẫn Tinh Thần trong Trích Tinh Lâu"
+    },
+    {
+      "source": "tinh_than",
+      "target": "tinh_ha",
+      "type": "subordinate",
+      "description": "Phục tùng Tinh Hà, Lâu Chủ của Trích Tinh Lâu"
+    },
+    {
+      "source": "ly_mo_tuyet",
+      "target": "le_duoc_nuong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Tuyết Trung Cô Viện"
+    },
+    {
+      "source": "le_duoc_nuong",
+      "target": "ly_mo_tuyet",
+      "type": "subordinate",
+      "description": "Phục tùng Lý Mộ Tuyết, Viện Trưởng của Tuyết Trung Cô Viện"
+    },
+    {
+      "source": "le_duoc_nuong",
+      "target": "pham_thu_sinh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tuyết Trung Cô Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_duoc_nuong",
+      "target": "tran_nhu_tam",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tuyết Trung Cô Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_mo_tuyet",
+      "target": "pham_thu_sinh",
+      "type": "mentor",
+      "description": "Lý Mộ Tuyết chỉ dẫn Phạm Thư Sinh trong Tuyết Trung Cô Viện"
+    },
+    {
+      "source": "ly_mo_tuyet",
+      "target": "tran_nhu_tam",
+      "type": "mentor",
+      "description": "Lý Mộ Tuyết chỉ dẫn Trần Nhu Tâm trong Tuyết Trung Cô Viện"
+    },
+    {
+      "source": "pham_thu_sinh",
+      "target": "ly_mo_tuyet",
+      "type": "subordinate",
+      "description": "Phục tùng Lý Mộ Tuyết, Viện Trưởng của Tuyết Trung Cô Viện"
+    },
+    {
+      "source": "pham_thu_sinh",
+      "target": "tran_nhu_tam",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tuyết Trung Cô Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tran_nhu_tam",
+      "target": "ly_mo_tuyet",
+      "type": "subordinate",
+      "description": "Phục tùng Lý Mộ Tuyết, Viện Trưởng của Tuyết Trung Cô Viện"
+    },
+    {
+      "source": "bang_bac_minh",
+      "target": "hac_tuyet_nhi",
+      "type": "ally",
+      "description": "Đồng nghiệp hỗ trợ trong Tán Tu"
+    },
+    {
+      "source": "bang_bac_minh",
+      "target": "suong_le_nhi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bang_bac_minh",
+      "target": "so_lang_suong",
+      "type": "mentor",
+      "description": "Bằng Bắc Minh chỉ dẫn Sở Lăng Sương trong Tán Tu"
+    },
+    {
+      "source": "bang_bac_minh",
+      "target": "trieu_thanh_hang",
+      "type": "mentor",
+      "description": "Bằng Bắc Minh chỉ dẫn Triệu Thanh Hằng trong Tán Tu"
+    },
+    {
+      "source": "hac_tuyet_nhi",
+      "target": "suong_le_nhi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hac_tuyet_nhi",
+      "target": "so_lang_suong",
+      "type": "mentor",
+      "description": "Hạc Tuyết Nhi chỉ dẫn Sở Lăng Sương trong Tán Tu"
+    },
+    {
+      "source": "hac_tuyet_nhi",
+      "target": "trieu_thanh_hang",
+      "type": "mentor",
+      "description": "Hạc Tuyết Nhi chỉ dẫn Triệu Thanh Hằng trong Tán Tu"
+    },
+    {
+      "source": "hac_tuyet_nhi",
+      "target": "tuoc_han",
+      "type": "mentor",
+      "description": "Hạc Tuyết Nhi chỉ dẫn Tước Hàn trong Tán Tu"
+    },
+    {
+      "source": "suong_le_nhi",
+      "target": "trieu_thanh_hang",
+      "type": "mentor",
+      "description": "Sương Lệ Nhi chỉ dẫn Triệu Thanh Hằng trong Tán Tu"
+    },
+    {
+      "source": "suong_le_nhi",
+      "target": "tuoc_han",
+      "type": "mentor",
+      "description": "Sương Lệ Nhi chỉ dẫn Tước Hàn trong Tán Tu"
+    },
+    {
+      "source": "suong_le_nhi",
+      "target": "tuoc_tuyet_nhi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "suong_le_nhi",
+      "target": "so_lang_suong",
+      "type": "mentor",
+      "description": "Sương Lệ Nhi chỉ dẫn Sở Lăng Sương trong Tán Tu"
+    },
+    {
+      "source": "so_lang_suong",
+      "target": "trieu_thanh_hang",
+      "type": "ally",
+      "description": "Chiến hữu cùng Tán Tu, chiến đấu song song"
+    },
+    {
+      "source": "so_lang_suong",
+      "target": "tuoc_han",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tuoc_tuyet_nhi",
+      "target": "so_lang_suong",
+      "type": "mentor",
+      "description": "Tước Tuyết Nhi chỉ dẫn Sở Lăng Sương trong Tán Tu"
+    },
+    {
+      "source": "trieu_thanh_hang",
+      "target": "tuoc_han",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trieu_thanh_hang",
+      "target": "tuoc_tuyet_nhi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tuoc_tuyet_nhi",
+      "target": "tuoc_han",
+      "type": "mentor",
+      "description": "Tước Tuyết Nhi chỉ dẫn Tước Hàn trong Tán Tu"
+    },
+    {
+      "source": "thiet_trung",
+      "target": "hoa_kien_vuong",
+      "type": "mentor",
+      "description": "Thiết Trùng chỉ dẫn Hỏa Kiến Vương trong Tán Tu"
+    },
+    {
+      "source": "van_nga_tien_tu",
+      "target": "hoa_kien_vuong",
+      "type": "mentor",
+      "description": "Vân Nga Tiên Tử chỉ dẫn Hỏa Kiến Vương trong Tán Tu"
+    },
+    {
+      "source": "yen_lac_vu",
+      "target": "hoa_kien_vuong",
+      "type": "mentor",
+      "description": "Yến Lạc Vũ chỉ dẫn Hỏa Kiến Vương trong Tán Tu"
+    },
+    {
+      "source": "hoa_kien_vuong",
+      "target": "thiet_trung",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Tán Tu"
+    },
+    {
+      "source": "thiet_trung",
+      "target": "van_nga_tien_tu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thiet_trung",
+      "target": "yen_lac_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoa_kien_vuong",
+      "target": "van_nga_tien_tu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Tán Tu"
+    },
+    {
+      "source": "van_nga_tien_tu",
+      "target": "yen_lac_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoa_kien_vuong",
+      "target": "yen_lac_vu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Tán Tu"
+    },
+    {
+      "source": "phi_hoang",
+      "target": "kho_giap_lao",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Tán Tu"
+    },
+    {
+      "source": "kho_giap_lao",
+      "target": "phi_hoang",
+      "type": "subordinate",
+      "description": "Phục tùng Phi Hoàng, Châu Chấu Vương của Tán Tu"
+    },
+    {
+      "source": "kho_giap_lao",
+      "target": "oanh_minh_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "kho_giap_lao",
+      "target": "phong_sa_cuong_nhan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phi_hoang",
+      "target": "oanh_minh_sa",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Tán Tu"
+    },
+    {
+      "source": "oanh_minh_sa",
+      "target": "phi_hoang",
+      "type": "subordinate",
+      "description": "Phục tùng Phi Hoàng, Châu Chấu Vương của Tán Tu"
+    },
+    {
+      "source": "oanh_minh_sa",
+      "target": "phong_sa_cuong_nhan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "oanh_minh_sa",
+      "target": "phuong_thieu_duc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phi_hoang",
+      "target": "phong_sa_cuong_nhan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phi_hoang",
+      "target": "phuong_thieu_duc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phi_hoang",
+      "target": "tuoc_hoang_sa",
+      "type": "mentor",
+      "description": "Phi Hoàng chỉ dẫn Tước Hoàng Sa trong Tán Tu"
+    },
+    {
+      "source": "phi_hoang",
+      "target": "ung_hoang_da",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phong_sa_cuong_nhan",
+      "target": "phi_hoang",
+      "type": "subordinate",
+      "description": "Phục tùng Phi Hoàng, Châu Chấu Vương của Tán Tu"
+    },
+    {
+      "source": "phong_sa_cuong_nhan",
+      "target": "phuong_thieu_duc",
+      "type": "ally",
+      "description": "Chiến hữu cùng Tán Tu, chiến đấu song song"
+    },
+    {
+      "source": "phong_sa_cuong_nhan",
+      "target": "tuoc_hoang_sa",
+      "type": "mentor",
+      "description": "Phong Sa Cuồng Nhân chỉ dẫn Tước Hoàng Sa trong Tán Tu"
+    },
+    {
+      "source": "phuong_thieu_duc",
+      "target": "phi_hoang",
+      "type": "subordinate",
+      "description": "Phục tùng Phi Hoàng, Châu Chấu Vương của Tán Tu"
+    },
+    {
+      "source": "phuong_thieu_duc",
+      "target": "tuoc_hoang_sa",
+      "type": "mentor",
+      "description": "Phượng Thiêu Dực chỉ dẫn Tước Hoàng Sa trong Tán Tu"
+    },
+    {
+      "source": "phuong_thieu_duc",
+      "target": "ung_hoang_da",
+      "type": "ally",
+      "description": "Chiến hữu cùng Tán Tu, chiến đấu song song"
+    },
+    {
+      "source": "tuoc_hoang_sa",
+      "target": "phi_hoang",
+      "type": "subordinate",
+      "description": "Phục tùng Phi Hoàng, Châu Chấu Vương của Tán Tu"
+    },
+    {
+      "source": "ung_hoang_da",
+      "target": "tuoc_hoang_sa",
+      "type": "mentor",
+      "description": "Ưng Hoang Dã chỉ dẫn Tước Hoàng Sa trong Tán Tu"
+    },
+    {
+      "source": "ung_xich_trao",
+      "target": "tuoc_hoang_sa",
+      "type": "mentor",
+      "description": "Ưng Xích Trảo chỉ dẫn Tước Hoàng Sa trong Tán Tu"
+    },
+    {
+      "source": "ung_hoang_da",
+      "target": "phi_hoang",
+      "type": "subordinate",
+      "description": "Phục tùng Phi Hoàng, Châu Chấu Vương của Tán Tu"
+    },
+    {
+      "source": "ung_hoang_da",
+      "target": "ung_xich_trao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phi_hoang",
+      "target": "ung_xich_trao",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Tán Tu"
+    },
+    {
+      "source": "ung_xich_trao",
+      "target": "phi_hoang",
+      "type": "subordinate",
+      "description": "Phục tùng Phi Hoàng, Châu Chấu Vương của Tán Tu"
+    },
+    {
+      "source": "tram_nham_hai",
+      "target": "huynh_quang",
+      "type": "mentor",
+      "description": "Trầm Nham Hải chỉ dẫn Huỳnh Quang trong Tán Tu"
+    },
+    {
+      "source": "huynh_quang",
+      "target": "tuoc_hai",
+      "type": "mentor",
+      "description": "Huỳnh Quang chỉ dẫn Tước Hải trong Tán Tu"
+    },
+    {
+      "source": "huynh_quang",
+      "target": "tuoc_ngu_nhi",
+      "type": "mentor",
+      "description": "Huỳnh Quang chỉ dẫn Tước Ngư Nhi trong Tán Tu"
+    },
+    {
+      "source": "huynh_quang",
+      "target": "ung_lang_khach",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hai_nham",
+      "target": "huynh_quang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hai_nham",
+      "target": "hai_tru_van_nien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tram_nham_hai",
+      "target": "hai_nham",
+      "type": "mentor",
+      "description": "Trầm Nham Hải chỉ dẫn Hải Nham trong Tán Tu"
+    },
+    {
+      "source": "hai_nham",
+      "target": "tuoc_hai",
+      "type": "mentor",
+      "description": "Hải Nham chỉ dẫn Tước Hải trong Tán Tu"
+    },
+    {
+      "source": "hai_tru_van_nien",
+      "target": "huynh_quang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tram_nham_hai",
+      "target": "hai_tru_van_nien",
+      "type": "mentor",
+      "description": "Trầm Nham Hải chỉ dẫn Hải Trụ Vạn Niên trong Tán Tu"
+    },
+    {
+      "source": "hai_tru_van_nien",
+      "target": "tuoc_hai",
+      "type": "mentor",
+      "description": "Hải Trụ Vạn Niên chỉ dẫn Tước Hải trong Tán Tu"
+    },
+    {
+      "source": "hai_tru_van_nien",
+      "target": "tuoc_ngu_nhi",
+      "type": "mentor",
+      "description": "Hải Trụ Vạn Niên chỉ dẫn Tước Ngư Nhi trong Tán Tu"
+    },
+    {
+      "source": "tram_nham_hai",
+      "target": "tuoc_hai",
+      "type": "mentor",
+      "description": "Trầm Nham Hải chỉ dẫn Tước Hải trong Tán Tu"
+    },
+    {
+      "source": "tram_nham_hai",
+      "target": "tuoc_ngu_nhi",
+      "type": "mentor",
+      "description": "Trầm Nham Hải chỉ dẫn Tước Ngư Nhi trong Tán Tu"
+    },
+    {
+      "source": "tram_nham_hai",
+      "target": "ung_lang_khach",
+      "type": "mentor",
+      "description": "Trầm Nham Hải chỉ dẫn Ưng Lãng Khách trong Tán Tu"
+    },
+    {
+      "source": "tram_nham_hai",
+      "target": "ung_ngu_luong",
+      "type": "mentor",
+      "description": "Trầm Nham Hải chỉ dẫn Ưng Ngư Lương trong Tán Tu"
+    },
+    {
+      "source": "tuoc_hai",
+      "target": "tuoc_ngu_nhi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_lang_khach",
+      "target": "tuoc_hai",
+      "type": "mentor",
+      "description": "Ưng Lãng Khách chỉ dẫn Tước Hải trong Tán Tu"
+    },
+    {
+      "source": "ung_ngu_luong",
+      "target": "tuoc_hai",
+      "type": "mentor",
+      "description": "Ưng Ngư Lương chỉ dẫn Tước Hải trong Tán Tu"
+    },
+    {
+      "source": "ung_lang_khach",
+      "target": "tuoc_ngu_nhi",
+      "type": "mentor",
+      "description": "Ưng Lãng Khách chỉ dẫn Tước Ngư Nhi trong Tán Tu"
+    },
+    {
+      "source": "ung_ngu_luong",
+      "target": "tuoc_ngu_nhi",
+      "type": "mentor",
+      "description": "Ưng Ngư Lương chỉ dẫn Tước Ngư Nhi trong Tán Tu"
+    },
+    {
+      "source": "ung_lang_khach",
+      "target": "ung_ngu_luong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "xich_giac",
+      "target": "giao_han_bang",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Tạp Huyết Long Đàn"
+    },
+    {
+      "source": "giao_han_bang",
+      "target": "xich_giac",
+      "type": "subordinate",
+      "description": "Phục tùng Xích Giác, Đàn Chủ của Tạp Huyết Long Đàn"
+    },
+    {
+      "source": "giao_han_bang",
+      "target": "long_bach_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "giao_han_bang",
+      "target": "long_hoi_vi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "long_bach_lan",
+      "target": "xich_giac",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "xich_giac",
+      "target": "long_bach_lan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "long_bach_lan",
+      "target": "long_hoi_vi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "long_bach_lan",
+      "target": "long_thiet_trao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "long_hoi_vi",
+      "target": "xich_giac",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "xich_giac",
+      "target": "long_hoi_vi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "long_hoi_vi",
+      "target": "long_thiet_trao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "long_thiet_trao",
+      "target": "xich_giac",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "xich_giac",
+      "target": "long_thiet_trao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trung_thien_ly_nhan",
+      "target": "trung_thinh_phong",
+      "type": "mentor",
+      "description": "Trùng Thiên Lý Nhãn chỉ dẫn Trùng Thính Phong trong Vi Trùng Trinh Sát Đội"
+    },
+    {
+      "source": "trung_thien_ly_nhan",
+      "target": "trung_vo_thanh",
+      "type": "mentor",
+      "description": "Trùng Thiên Lý Nhãn chỉ dẫn Trùng Vô Thanh trong Vi Trùng Trinh Sát Đội"
+    },
+    {
+      "source": "trung_thinh_phong",
+      "target": "trung_thien_ly_nhan",
+      "type": "subordinate",
+      "description": "Phục tùng Trùng Thiên Lý Nhãn, Đội Trưởng của Vi Trùng Trinh Sát Đội"
+    },
+    {
+      "source": "trung_thinh_phong",
+      "target": "trung_vo_thanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Vi Trùng Trinh Sát Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trung_vo_thanh",
+      "target": "trung_thien_ly_nhan",
+      "type": "subordinate",
+      "description": "Phục tùng Trùng Thiên Lý Nhãn, Đội Trưởng của Vi Trùng Trinh Sát Đội"
+    },
+    {
+      "source": "trung_thien_ly_nhan",
+      "target": "trung_am_anh",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Vi Trùng Trinh Sát Đội"
+    },
+    {
+      "source": "trung_am_anh",
+      "target": "trung_thien_ly_nhan",
+      "type": "subordinate",
+      "description": "Phục tùng Trùng Thiên Lý Nhãn, Đội Trưởng của Vi Trùng Trinh Sát Đội"
+    },
+    {
+      "source": "trung_am_anh",
+      "target": "trung_thinh_phong",
+      "type": "mentor",
+      "description": "Trùng Ám Ảnh chỉ dẫn Trùng Thính Phong trong Vi Trùng Trinh Sát Đội"
+    },
+    {
+      "source": "trung_am_anh",
+      "target": "trung_vo_thanh",
+      "type": "mentor",
+      "description": "Trùng Ám Ảnh chỉ dẫn Trùng Vô Thanh trong Vi Trùng Trinh Sát Đội"
+    },
+    {
+      "source": "huyet_trung",
+      "target": "tham_hai_trung",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Vực Thẳm Ma Cung"
+    },
+    {
+      "source": "tham_hai_trung",
+      "target": "huyet_trung",
+      "type": "subordinate",
+      "description": "Phục tùng Huyết Trùng, Trưởng Lão của Vực Thẳm Ma Cung"
+    },
+    {
+      "source": "hac_trieu",
+      "target": "tham_hai_trung",
+      "type": "mentor",
+      "description": "Hắc Triều dẫn dắt Thâm Hải Trùng trong Vực Thẳm Ma Cung"
+    },
+    {
+      "source": "tham_uyen_nu",
+      "target": "tham_hai_trung",
+      "type": "mentor",
+      "description": "Thâm Uyên Nữ chỉ dẫn Thâm Hải Trùng trong Vực Thẳm Ma Cung"
+    },
+    {
+      "source": "huyet_trung",
+      "target": "tham_uyen_nu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Vực Thẳm Ma Cung"
+    },
+    {
+      "source": "tham_uyen_nu",
+      "target": "huyet_trung",
+      "type": "subordinate",
+      "description": "Phục tùng Huyết Trùng, Trưởng Lão của Vực Thẳm Ma Cung"
+    },
+    {
+      "source": "tham_uyen_nu",
+      "target": "hac_trieu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Vực Thẳm Ma Cung"
+    },
+    {
+      "source": "vu_tan_phong",
+      "target": "vu_chiet_duc",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Đoản Dực Lạc Đoàn"
+    },
+    {
+      "source": "vu_chiet_duc",
+      "target": "vu_tan_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Vũ Tàn Phong, Đoàn Trưởng của Đoản Dực Lạc Đoàn"
+    },
+    {
+      "source": "vu_chiet_duc",
+      "target": "vu_lac_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đoản Dực Lạc Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "vu_chiet_duc",
+      "target": "vu_vo_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đoản Dực Lạc Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "vu_lac_vu",
+      "target": "vu_tan_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đoản Dực Lạc Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "vu_tan_phong",
+      "target": "vu_lac_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đoản Dực Lạc Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "vu_lac_vu",
+      "target": "vu_vo_thien",
+      "type": "mentor",
+      "description": "Vũ Lạc Vũ chỉ dẫn Vũ Vô Thiên trong Đoản Dực Lạc Đoàn"
+    },
+    {
+      "source": "vu_tan_phong",
+      "target": "vu_vo_thien",
+      "type": "mentor",
+      "description": "Vũ Tàn Phong chỉ dẫn Vũ Vô Thiên trong Đoản Dực Lạc Đoàn"
+    },
+    {
+      "source": "vu_vo_thien",
+      "target": "vu_tan_phong",
+      "type": "subordinate",
+      "description": "Phục tùng Vũ Tàn Phong, Đoàn Trưởng của Đoản Dực Lạc Đoàn"
+    },
+    {
+      "source": "ung_liet",
+      "target": "ung_bach_vu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Đại Bàng Tuyết Đàn"
+    },
+    {
+      "source": "ung_bach_vu",
+      "target": "ung_liet",
+      "type": "subordinate",
+      "description": "Phục tùng Ưng Liệt, Đàn Trưởng của Đại Bàng Tuyết Đàn"
+    },
+    {
+      "source": "ung_bach_vu",
+      "target": "ung_han_anh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Bàng Tuyết Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_bach_vu",
+      "target": "ung_tieu_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Bàng Tuyết Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_han_anh",
+      "target": "ung_liet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Bàng Tuyết Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_liet",
+      "target": "ung_han_anh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Bàng Tuyết Đàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_han_anh",
+      "target": "ung_tieu_phong",
+      "type": "mentor",
+      "description": "Ưng Hàn Ảnh chỉ dẫn Ưng Tiểu Phong trong Đại Bàng Tuyết Đàn"
+    },
+    {
+      "source": "ung_liet",
+      "target": "ung_tieu_phong",
+      "type": "mentor",
+      "description": "Ưng Liệt chỉ dẫn Ưng Tiểu Phong trong Đại Bàng Tuyết Đàn"
+    },
+    {
+      "source": "ung_tieu_phong",
+      "target": "ung_liet",
+      "type": "subordinate",
+      "description": "Phục tùng Ưng Liệt, Đàn Trưởng của Đại Bàng Tuyết Đàn"
+    },
+    {
+      "source": "bao_chinh",
+      "target": "ha_thien_chieu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bao_chinh",
+      "target": "khong_minh_duc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bao_chinh",
+      "target": "ly_nguyet_nhi",
+      "type": "mentor",
+      "description": "Bao Chính chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "bao_chinh",
+      "target": "ly_thien_long",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ha_thien_chieu",
+      "target": "khong_minh_duc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ha_thien_chieu",
+      "target": "ly_nguyet_nhi",
+      "type": "mentor",
+      "description": "Hà Thiên Chiêu chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ha_thien_chieu",
+      "target": "ly_thien_long",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ha_thien_chieu",
+      "target": "ly_thien_phuong",
+      "type": "mentor",
+      "description": "Hà Thiên Chiêu chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "khong_minh_duc",
+      "target": "ly_nguyet_nhi",
+      "type": "mentor",
+      "description": "Khổng Minh Đức chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "khong_minh_duc",
+      "target": "ly_thien_long",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khong_minh_duc",
+      "target": "ly_thien_phuong",
+      "type": "mentor",
+      "description": "Khổng Minh Đức chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ly_thien_vu",
+      "target": "khong_minh_duc",
+      "type": "mentor",
+      "description": "Lý Thiên Vũ chỉ dẫn Khổng Minh Đức trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ly_thien_long",
+      "target": "ly_nguyet_nhi",
+      "type": "mentor",
+      "description": "Lý Thiên Long chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ly_thien_phuong",
+      "target": "ly_nguyet_nhi",
+      "type": "mentor",
+      "description": "Lý Thiên Phượng chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ly_thien_vu",
+      "target": "ly_nguyet_nhi",
+      "type": "mentor",
+      "description": "Lý Thiên Vũ chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "mo_dung_chien",
+      "target": "ly_nguyet_nhi",
+      "type": "mentor",
+      "description": "Mộ Dung Chiến chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ly_thien_long",
+      "target": "ly_thien_phuong",
+      "type": "mentor",
+      "description": "Lý Thiên Long chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ly_thien_vu",
+      "target": "ly_thien_long",
+      "type": "mentor",
+      "description": "Lý Thiên Vũ chỉ dẫn Lý Thiên Long trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "mo_dung_chien",
+      "target": "ly_thien_long",
+      "type": "mentor",
+      "description": "Mộ Dung Chiến chỉ dẫn Lý Thiên Long trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "trieu_van_quan",
+      "target": "ly_thien_long",
+      "type": "mentor",
+      "description": "Triệu Vạn Quân chỉ dẫn Lý Thiên Long trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ly_thien_vu",
+      "target": "ly_thien_phuong",
+      "type": "mentor",
+      "description": "Lý Thiên Vũ chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "mo_dung_chien",
+      "target": "ly_thien_phuong",
+      "type": "mentor",
+      "description": "Mộ Dung Chiến chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "trieu_van_quan",
+      "target": "ly_thien_phuong",
+      "type": "mentor",
+      "description": "Triệu Vạn Quân chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ly_thien_phuong",
+      "target": "truong_van_han",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_thien_vu",
+      "target": "mo_dung_chien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_thien_vu",
+      "target": "trieu_van_quan",
+      "type": "mentor",
+      "description": "Lý Thiên Vũ chỉ dẫn Triệu Vạn Quân trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ly_thien_vu",
+      "target": "truong_van_han",
+      "type": "mentor",
+      "description": "Lý Thiên Vũ chỉ dẫn Trương Văn Hàn trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ly_thien_vu",
+      "target": "tran_bach_tai",
+      "type": "mentor",
+      "description": "Lý Thiên Vũ chỉ dẫn Trần Bách Tài trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "luu_phong_thanh",
+      "target": "ly_nguyet_nhi",
+      "type": "mentor",
+      "description": "Lưu Phong Thành chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "luu_phong_thanh",
+      "target": "ly_thien_long",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "luu_phong_thanh",
+      "target": "ly_thien_phuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ly_thien_vu",
+      "target": "luu_phong_thanh",
+      "type": "mentor",
+      "description": "Lý Thiên Vũ chỉ dẫn Lưu Phong Thành trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "lo_thien_kieu",
+      "target": "ly_nguyet_nhi",
+      "type": "mentor",
+      "description": "Lỗ Thiên Kiều chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "lo_thien_kieu",
+      "target": "ly_thien_long",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "lo_thien_kieu",
+      "target": "ly_thien_phuong",
+      "type": "mentor",
+      "description": "Lỗ Thiên Kiều chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ly_thien_vu",
+      "target": "lo_thien_kieu",
+      "type": "mentor",
+      "description": "Lý Thiên Vũ chỉ dẫn Lỗ Thiên Kiều trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "mo_dung_chien",
+      "target": "trieu_van_quan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mo_dung_chien",
+      "target": "truong_van_han",
+      "type": "mentor",
+      "description": "Mộ Dung Chiến chỉ dẫn Trương Văn Hàn trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "mo_dung_chien",
+      "target": "tran_bach_tai",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mo_dung_chien",
+      "target": "ton_hien",
+      "type": "mentor",
+      "description": "Mộ Dung Chiến chỉ dẫn Tôn Hiền trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "trieu_van_quan",
+      "target": "truong_van_han",
+      "type": "mentor",
+      "description": "Triệu Vạn Quân chỉ dẫn Trương Văn Hàn trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "trieu_van_quan",
+      "target": "tu_ma_tinh_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trieu_van_quan",
+      "target": "vuong_thiet_ky",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tu_ma_tinh_van",
+      "target": "truong_van_han",
+      "type": "mentor",
+      "description": "Tư Mã Tinh Vân chỉ dẫn Trương Văn Hàn trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "vuong_thiet_ky",
+      "target": "truong_van_han",
+      "type": "mentor",
+      "description": "Vương Thiết Kỵ chỉ dẫn Trương Văn Hàn trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "tran_bach_tai",
+      "target": "trieu_van_quan",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tran_bach_tai",
+      "target": "truong_van_han",
+      "type": "mentor",
+      "description": "Trần Bách Tài chỉ dẫn Trương Văn Hàn trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "tran_bach_tai",
+      "target": "tu_ma_tinh_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tran_bach_tai",
+      "target": "vuong_thiet_ky",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trieu_van_quan",
+      "target": "ton_hien",
+      "type": "mentor",
+      "description": "Triệu Vạn Quân chỉ dẫn Tôn Hiền trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "ton_hien",
+      "target": "truong_van_han",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tran_bach_tai",
+      "target": "ton_hien",
+      "type": "mentor",
+      "description": "Trần Bách Tài chỉ dẫn Tôn Hiền trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "tu_ma_tinh_van",
+      "target": "ton_hien",
+      "type": "mentor",
+      "description": "Tư Mã Tinh Vân chỉ dẫn Tôn Hiền trong Đại Càn Hoàng Triều"
+    },
+    {
+      "source": "tu_ma_tinh_van",
+      "target": "vuong_thiet_ky",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_tinh_ngu",
+      "target": "pham_dan_chu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đảo Quốc Tự Trị Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "pham_dan_chu",
+      "target": "le_tinh_ngu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đảo Quốc Tự Trị Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "le_tinh_ngu",
+      "target": "nguyen_hai_nong",
+      "type": "mentor",
+      "description": "Lê Tĩnh Ngư chỉ dẫn Nguyễn Hải Nông trong Đảo Quốc Tự Trị Hội"
+    },
+    {
+      "source": "le_tinh_ngu",
+      "target": "pham_hai_thanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đảo Quốc Tự Trị Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "pham_dan_chu",
+      "target": "nguyen_hai_nong",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Đảo Quốc Tự Trị Hội"
+    },
+    {
+      "source": "nguyen_hai_nong",
+      "target": "pham_dan_chu",
+      "type": "subordinate",
+      "description": "Phục tùng Phạm Dân Chủ, Hội Trưởng của Đảo Quốc Tự Trị Hội"
+    },
+    {
+      "source": "pham_hai_thanh",
+      "target": "nguyen_hai_nong",
+      "type": "mentor",
+      "description": "Phạm Hải Thanh chỉ dẫn Nguyễn Hải Nông trong Đảo Quốc Tự Trị Hội"
+    },
+    {
+      "source": "pham_dan_chu",
+      "target": "pham_hai_thanh",
+      "type": "mentor",
+      "description": "Phạm Dân Chủ chỉ dẫn Phạm Hải Thanh trong Đảo Quốc Tự Trị Hội"
+    },
+    {
+      "source": "pham_hai_thanh",
+      "target": "pham_dan_chu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Đảo Quốc Tự Trị Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tham_nham",
+      "target": "nham_quang",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Địa Tâm Thám Hiểm Đội"
+    },
+    {
+      "source": "nham_quang",
+      "target": "tham_nham",
+      "type": "subordinate",
+      "description": "Phục tùng Thâm Nham, Đội Trưởng của Địa Tâm Thám Hiểm Đội"
+    },
+    {
+      "source": "nham_thinh",
+      "target": "nham_quang",
+      "type": "mentor",
+      "description": "Nham Thính chỉ dẫn Nham Quang trong Địa Tâm Thám Hiểm Đội"
+    },
+    {
+      "source": "tham_nham",
+      "target": "nham_thinh",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Địa Tâm Thám Hiểm Đội"
+    },
+    {
+      "source": "nham_thinh",
+      "target": "tham_nham",
+      "type": "subordinate",
+      "description": "Phục tùng Thâm Nham, Đội Trưởng của Địa Tâm Thám Hiểm Đội"
+    },
+    {
+      "source": "nham_dao",
+      "target": "tham_nham",
+      "type": "ally",
+      "description": "Đồng liêu cùng Địa Tâm Thám Hiểm Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "tham_nham",
+      "target": "nham_dao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Địa Tâm Thám Hiểm Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_dao",
+      "target": "nham_quang",
+      "type": "mentor",
+      "description": "Nham Đào chỉ dẫn Nham Quang trong Địa Tâm Thám Hiểm Đội"
+    },
+    {
+      "source": "nham_dao",
+      "target": "nham_thinh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Địa Tâm Thám Hiểm Đội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_thien_co",
+      "target": "giao_van_thien",
+      "type": "mentor",
+      "description": "Khuẩn Thiên Cơ chỉ dẫn Giao Vân Thiên trong Độc Lập"
+    },
+    {
+      "source": "giao_van_thien",
+      "target": "loa_thien_hai_am",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khuan_thien_co",
+      "target": "loa_thien_hai_am",
+      "type": "mentor",
+      "description": "Khuẩn Thiên Cơ chỉ dẫn Loa Thiên Hải Âm trong Độc Lập"
+    },
+    {
+      "source": "giao_thien_mac_nguyet",
+      "target": "ngu_sa_ha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "giao_thien_mac_nguyet",
+      "target": "sa_cat_vuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "giao_thien_mac_nguyet",
+      "target": "trung_doc_hanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_cat_vuong",
+      "target": "ngu_sa_ha",
+      "type": "mentor",
+      "description": "Sa Cát Vương chỉ dẫn Ngư Sa Hà trong Độc Lập"
+    },
+    {
+      "source": "ngu_sa_ha",
+      "target": "trung_doc_hanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_cat_vuong",
+      "target": "trung_doc_hanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "giao_thien_van_hai",
+      "target": "chuong_bach_bien",
+      "type": "mentor",
+      "description": "Giao Thiên Vạn Hải chỉ dẫn Chương Bách Biến trong Độc Lập"
+    },
+    {
+      "source": "chuong_bach_bien",
+      "target": "giai_co_giap_vuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "chuong_bach_bien",
+      "target": "ha_phong_van_hai",
+      "type": "mentor",
+      "description": "Chương Bách Biến chỉ dẫn Hà Phong Vân Hải trong Độc Lập"
+    },
+    {
+      "source": "chuong_bach_bien",
+      "target": "hai_thien_thuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "giao_thien_van_hai",
+      "target": "ha_phong_van_hai",
+      "type": "mentor",
+      "description": "Giao Thiên Vạn Hải chỉ dẫn Hà Phong Vân Hải trong Độc Lập"
+    },
+    {
+      "source": "giao_thien_van_hai",
+      "target": "hai_thien_thuong",
+      "type": "mentor",
+      "description": "Giao Thiên Vạn Hải chỉ dẫn Hải Thiên Thương trong Độc Lập"
+    },
+    {
+      "source": "giao_thien_van_hai",
+      "target": "ma_ngan_hai",
+      "type": "mentor",
+      "description": "Giao Thiên Vạn Hải chỉ dẫn Mã Ngân Hải trong Độc Lập"
+    },
+    {
+      "source": "giao_thien_van_hai",
+      "target": "mau_phieu_luu",
+      "type": "mentor",
+      "description": "Giao Thiên Vạn Hải chỉ dẫn Mẫu Phiêu Lưu trong Độc Lập"
+    },
+    {
+      "source": "giao_thien_van_hai",
+      "target": "giai_co_giap_vuong",
+      "type": "mentor",
+      "description": "Giao Thiên Vạn Hải chỉ dẫn Giải Cổ Giáp Vương trong Độc Lập"
+    },
+    {
+      "source": "giai_co_giap_vuong",
+      "target": "ha_phong_van_hai",
+      "type": "mentor",
+      "description": "Giải Cổ Giáp Vương chỉ dẫn Hà Phong Vân Hải trong Độc Lập"
+    },
+    {
+      "source": "giai_co_giap_vuong",
+      "target": "hai_thien_thuong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "giai_co_giap_vuong",
+      "target": "ma_ngan_hai",
+      "type": "mentor",
+      "description": "Giải Cổ Giáp Vương chỉ dẫn Mã Ngân Hải trong Độc Lập"
+    },
+    {
+      "source": "hai_thien_thuong",
+      "target": "ha_phong_van_hai",
+      "type": "mentor",
+      "description": "Hải Thiên Thương chỉ dẫn Hà Phong Vân Hải trong Độc Lập"
+    },
+    {
+      "source": "ha_phong_van_hai",
+      "target": "ma_ngan_hai",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ha_phong_van_hai",
+      "target": "mau_phieu_luu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ha_phong_van_hai",
+      "target": "ngu_phi_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hai_thien_thuong",
+      "target": "ma_ngan_hai",
+      "type": "mentor",
+      "description": "Hải Thiên Thương chỉ dẫn Mã Ngân Hải trong Độc Lập"
+    },
+    {
+      "source": "hai_thien_thuong",
+      "target": "mau_phieu_luu",
+      "type": "mentor",
+      "description": "Hải Thiên Thương chỉ dẫn Mẫu Phiêu Lưu trong Độc Lập"
+    },
+    {
+      "source": "hai_thien_thuong",
+      "target": "ngu_phi_thien",
+      "type": "mentor",
+      "description": "Hải Thiên Thương chỉ dẫn Ngư Phi Thiên trong Độc Lập"
+    },
+    {
+      "source": "hai_thien_thuong",
+      "target": "sa_thien_ly_hanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_ngan_hai",
+      "target": "mau_phieu_luu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ma_ngan_hai",
+      "target": "ngu_phi_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_thien_ly_hanh",
+      "target": "ma_ngan_hai",
+      "type": "mentor",
+      "description": "Sa Thiên Lý Hành chỉ dẫn Mã Ngân Hải trong Độc Lập"
+    },
+    {
+      "source": "ma_ngan_hai",
+      "target": "san_lac_hon",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "mau_phieu_luu",
+      "target": "ngu_phi_thien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_thien_ly_hanh",
+      "target": "mau_phieu_luu",
+      "type": "mentor",
+      "description": "Sa Thiên Lý Hành chỉ dẫn Mẫu Phiêu Lưu trong Độc Lập"
+    },
+    {
+      "source": "mau_phieu_luu",
+      "target": "san_lac_hon",
+      "type": "ally",
+      "description": "Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_thien_ly_hanh",
+      "target": "ngu_phi_thien",
+      "type": "mentor",
+      "description": "Sa Thiên Lý Hành chỉ dẫn Ngư Phi Thiên trong Độc Lập"
+    },
+    {
+      "source": "ngu_phi_thien",
+      "target": "san_lac_hon",
+      "type": "mentor",
+      "description": "Ngư Phi Thiên chỉ dẫn San Lạc Hồn trong Độc Lập"
+    },
+    {
+      "source": "sa_thien_ly_hanh",
+      "target": "san_lac_hon",
+      "type": "mentor",
+      "description": "Sa Thiên Lý Hành chỉ dẫn San Lạc Hồn trong Độc Lập"
+    },
+    {
+      "source": "lam_nguyet",
+      "target": "long_ngoc",
+      "type": "mentor",
+      "description": "Lam Nguyệt chỉ dẫn Long Ngọc trong Ấu Long Học Viện"
+    },
+    {
+      "source": "lam_nguyet",
+      "target": "long_van_nhi",
+      "type": "mentor",
+      "description": "Lam Nguyệt chỉ dẫn Long Vân Nhi trong Ấu Long Học Viện"
+    },
+    {
+      "source": "lam_nguyet",
+      "target": "ngao_tieu_loi",
+      "type": "mentor",
+      "description": "Lam Nguyệt chỉ dẫn Ngao Tiểu Lôi trong Ấu Long Học Viện"
+    },
+    {
+      "source": "long_ngoc",
+      "target": "lam_nguyet",
+      "type": "subordinate",
+      "description": "Phục tùng Lam Nguyệt, Bảo Mẫu Trưởng của Ấu Long Học Viện"
+    },
+    {
+      "source": "long_van_nhi",
+      "target": "long_ngoc",
+      "type": "mentor",
+      "description": "Long Vân Nhi chỉ dẫn Long Ngọc trong Ấu Long Học Viện"
+    },
+    {
+      "source": "ngao_tieu_loi",
+      "target": "long_ngoc",
+      "type": "mentor",
+      "description": "Ngao Tiểu Lôi chỉ dẫn Long Ngọc trong Ấu Long Học Viện"
+    },
+    {
+      "source": "long_van_nhi",
+      "target": "lam_nguyet",
+      "type": "subordinate",
+      "description": "Phục tùng Lam Nguyệt, Bảo Mẫu Trưởng của Ấu Long Học Viện"
+    },
+    {
+      "source": "long_van_nhi",
+      "target": "ngao_tieu_loi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ấu Long Học Viện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ngao_tieu_loi",
+      "target": "lam_nguyet",
+      "type": "subordinate",
+      "description": "Phục tùng Lam Nguyệt, Bảo Mẫu Trưởng của Ấu Long Học Viện"
+    },
+    {
+      "source": "linh_thanh_tuyen",
+      "target": "linh_dao_nhi",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_dao_nhi",
+      "target": "linh_thanh_tuyen",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Thanh Tuyền, Ốc Đảo Chủ của Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_dao_nhi",
+      "target": "linh_ha_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ốc Đảo Vi Linh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "linh_lo_ha",
+      "target": "linh_dao_nhi",
+      "type": "mentor",
+      "description": "Linh Lộ Hà chỉ dẫn Linh Dao Nhi trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_thanh_tuyen",
+      "target": "linh_ha_vu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_ha_vu",
+      "target": "linh_thanh_tuyen",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Thanh Tuyền, Ốc Đảo Chủ của Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_lo_ha",
+      "target": "linh_ha_vu",
+      "type": "mentor",
+      "description": "Linh Lộ Hà chỉ dẫn Linh Hạ Vũ trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_ngoc_tri",
+      "target": "linh_ha_vu",
+      "type": "mentor",
+      "description": "Linh Ngọc Trì chỉ dẫn Linh Hạ Vũ trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_thanh_tuyen",
+      "target": "linh_lo_ha",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_lo_ha",
+      "target": "linh_thanh_tuyen",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Thanh Tuyền, Ốc Đảo Chủ của Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_lo_ha",
+      "target": "linh_ngoc_tri",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ốc Đảo Vi Linh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "linh_lo_ha",
+      "target": "linh_phieu_luu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ốc Đảo Vi Linh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "linh_ngoc_tri",
+      "target": "linh_thanh_tuyen",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ốc Đảo Vi Linh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "linh_thanh_tuyen",
+      "target": "linh_ngoc_tri",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ốc Đảo Vi Linh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "linh_ngoc_tri",
+      "target": "linh_phieu_luu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ốc Đảo Vi Linh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "linh_ngoc_tri",
+      "target": "linh_suong_han",
+      "type": "mentor",
+      "description": "Linh Ngọc Trì chỉ dẫn Linh Sương Hàn trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_thanh_tuyen",
+      "target": "linh_phieu_luu",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_phieu_luu",
+      "target": "linh_thanh_tuyen",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Thanh Tuyền, Ốc Đảo Chủ của Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_phieu_luu",
+      "target": "linh_suong_han",
+      "type": "mentor",
+      "description": "Linh Phiêu Lưu chỉ dẫn Linh Sương Hàn trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_phieu_luu",
+      "target": "linh_thuy_nguyet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Ốc Đảo Vi Linh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "linh_thanh_tuyen",
+      "target": "linh_suong_han",
+      "type": "master",
+      "description": "Thủ hạ trung thành trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_suong_han",
+      "target": "linh_thanh_tuyen",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Thanh Tuyền, Ốc Đảo Chủ của Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_thuy_nguyet",
+      "target": "linh_suong_han",
+      "type": "mentor",
+      "description": "Linh Thủy Nguyệt chỉ dẫn Linh Sương Hàn trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_suong_han",
+      "target": "linh_tieu_ho",
+      "type": "mentor",
+      "description": "Linh Sương Hàn chỉ dẫn Linh Tiểu Hồ trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_thanh_tuyen",
+      "target": "linh_thuy_nguyet",
+      "type": "mentor",
+      "description": "Linh Thanh Tuyền chỉ dẫn Linh Thủy Nguyệt trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_thanh_tuyen",
+      "target": "linh_tieu_ho",
+      "type": "mentor",
+      "description": "Linh Thanh Tuyền chỉ dẫn Linh Tiểu Hồ trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_thanh_tuyen",
+      "target": "linh_vu_sa",
+      "type": "mentor",
+      "description": "Linh Thanh Tuyền chỉ dẫn Linh Vũ Sa trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_thuy_nguyet",
+      "target": "linh_thanh_tuyen",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Thanh Tuyền, Ốc Đảo Chủ của Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_thuy_nguyet",
+      "target": "linh_tieu_ho",
+      "type": "mentor",
+      "description": "Linh Thủy Nguyệt chỉ dẫn Linh Tiểu Hồ trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_thuy_nguyet",
+      "target": "linh_vu_sa",
+      "type": "mentor",
+      "description": "Linh Thủy Nguyệt chỉ dẫn Linh Vũ Sa trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_tieu_ho",
+      "target": "linh_thanh_tuyen",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Thanh Tuyền, Ốc Đảo Chủ của Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_vu_sa",
+      "target": "linh_tieu_ho",
+      "type": "mentor",
+      "description": "Linh Vũ Sa chỉ dẫn Linh Tiểu Hồ trong Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "linh_vu_sa",
+      "target": "linh_thanh_tuyen",
+      "type": "subordinate",
+      "description": "Phục tùng Linh Thanh Tuyền, Ốc Đảo Chủ của Ốc Đảo Vi Linh"
+    },
+    {
+      "source": "lang_co_han",
+      "target": "lang_bach_suong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Băng Lang Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hoang_mo_da",
+      "target": "ly_hac_tho",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bạch Cốt Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "pham_u_linh",
+      "target": "hoang_mo_da",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bạch Cốt Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "dang_tan_cot",
+      "target": "hoang_mo_da",
+      "type": "ally",
+      "description": "Đồng liêu cùng Bạch Cốt Hội, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_hoang_thien_phong",
+      "target": "sa_bao",
+      "type": "master",
+      "description": "Sa Hoàng Thiên Phong quản lý Sa Bạo trong Cổ Sa Yêu Tộc"
+    },
+    {
+      "source": "sa_bao",
+      "target": "sa_linh_nham",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Sa Yêu Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_hoang_thien_phong",
+      "target": "sa_linh_nham",
+      "type": "master",
+      "description": "Sa Hoàng Thiên Phong quản lý Sa Linh Nham trong Cổ Sa Yêu Tộc"
+    },
+    {
+      "source": "sa_mac_hon_da",
+      "target": "sa_bao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Sa Yêu Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_hoang_thien_phong",
+      "target": "sa_mac_hon_da",
+      "type": "master",
+      "description": "Sa Hoàng Thiên Phong quản lý Sa Mạc Hồn Dạ trong Cổ Sa Yêu Tộc"
+    },
+    {
+      "source": "sa_ngoc",
+      "target": "sa_bao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Sa Yêu Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_hoang_thien_phong",
+      "target": "sa_ngoc",
+      "type": "master",
+      "description": "Sa Hoàng Thiên Phong quản lý Sa Ngọc trong Cổ Sa Yêu Tộc"
+    },
+    {
+      "source": "sa_doc_hat_vuong",
+      "target": "sa_bao",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Sa Yêu Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_hoang_thien_phong",
+      "target": "sa_doc_hat_vuong",
+      "type": "master",
+      "description": "Sa Hoàng Thiên Phong quản lý Sa Độc Hạt Vương trong Cổ Sa Yêu Tộc"
+    },
+    {
+      "source": "thach_loi",
+      "target": "thach_thien_truy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Thạch Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thach_loi_chuy",
+      "target": "thach_thien_truy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cổ Thạch Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "cu_tinh_vu",
+      "target": "bang_van_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "phuong_kim_si",
+      "target": "bang_van_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "yen_phi",
+      "target": "bang_van_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "yen_phi",
+      "target": "cu_tinh_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_liet_phong",
+      "target": "bang_van_ly",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_liet_phong",
+      "target": "cu_tinh_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_thien_phong",
+      "target": "bang_van_ly",
+      "type": "master",
+      "description": "Ưng Thiên Phong quản lý Bằng Vạn Lý trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "ung_thien_phong",
+      "target": "cu_tinh_vu",
+      "type": "master",
+      "description": "Ưng Thiên Phong quản lý Cú Tĩnh Vũ trong Cực Quang Thần Điện"
+    },
+    {
+      "source": "han_tieu",
+      "target": "nguyen_pha_tuyet",
+      "type": "master",
+      "description": "Hàn Tiêu quản lý Nguyễn Phá Tuyết trong Hàn Kiếm Cốc"
+    },
+    {
+      "source": "nguyen_pha_tuyet",
+      "target": "hoang_doan_tuyet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hàn Kiếm Cốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trung_bach_lan",
+      "target": "bang_duc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hàn Độc Vi Trùng Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "cu_bach_da",
+      "target": "ung_bang_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hac_suong_vu",
+      "target": "ung_bang_phong",
+      "type": "master",
+      "description": "Hạc Sương Vũ quản lý Ưng Băng Phong trong Hàn Ưng Bộ Lạc"
+    },
+    {
+      "source": "ung_han_duc",
+      "target": "cu_bach_da",
+      "type": "master",
+      "description": "Ưng Hàn Dực quản lý Cú Bạch Dạ trong Hàn Ưng Bộ Lạc"
+    },
+    {
+      "source": "ung_han_duc",
+      "target": "hac_suong_vu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_lanh_phong",
+      "target": "cu_bach_da",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_lanh_phong",
+      "target": "ung_bang_phong",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_dong_suong",
+      "target": "cu_bach_da",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hac_suong_vu",
+      "target": "ung_dong_suong",
+      "type": "master",
+      "description": "Hạc Sương Vũ quản lý Ưng Đông Sương trong Hàn Ưng Bộ Lạc"
+    },
+    {
+      "source": "quy_huyen_thien",
+      "target": "giao_bach_ngoc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "quy_huyen_thien",
+      "target": "giao_nguyet_han",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "sa_cuong_dao",
+      "target": "giao_bach_ngoc",
+      "type": "ally",
+      "description": "Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hue_minh",
+      "target": "gioi_tran",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kim Sa Tự, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hue_minh",
+      "target": "khong_do",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kim Sa Tự, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "khong_do",
+      "target": "gioi_tran",
+      "type": "ally",
+      "description": "Đồng liêu cùng Kim Sa Tự, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thien_nhan",
+      "target": "gioi_tran",
+      "type": "master",
+      "description": "Thiện Nhẫn quản lý Giới Trần trong Kim Sa Tự"
+    },
+    {
+      "source": "thien_nhan",
+      "target": "hue_minh",
+      "type": "master",
+      "description": "Thiện Nhẫn quản lý Huệ Minh trong Kim Sa Tự"
+    },
+    {
+      "source": "hac_thien",
+      "target": "bang_nha",
+      "type": "master",
+      "description": "Hắc Thiên quản lý Băng Nha trong Long Cung"
+    },
+    {
+      "source": "minh_uyen",
+      "target": "bang_nha",
+      "type": "master",
+      "description": "Minh Uyên quản lý Băng Nha trong Long Cung"
+    },
+    {
+      "source": "minh_uyen",
+      "target": "cuong_loi",
+      "type": "master",
+      "description": "Minh Uyên quản lý Cuồng Lôi trong Long Cung"
+    },
+    {
+      "source": "thanh_han_nguyet",
+      "target": "bang_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thanh_han_nguyet",
+      "target": "cuong_loi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "te_van_trach",
+      "target": "bang_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "te_van_trach",
+      "target": "cuong_loi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "xich_viem",
+      "target": "bang_nha",
+      "type": "master",
+      "description": "Xích Viêm quản lý Băng Nha trong Long Cung"
+    },
+    {
+      "source": "loi_cuong",
+      "target": "loi_thien_no",
+      "type": "ally",
+      "description": "Đồng liêu cùng Lôi Trì Thánh Địa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "loi_phong",
+      "target": "loi_thien_no",
+      "type": "ally",
+      "description": "Đồng liêu cùng Lôi Trì Thánh Địa, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bang_san_ho",
+      "target": "han_thanh_am",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hai_cung",
+      "target": "han_thanh_am",
+      "type": "master",
+      "description": "Hải Cung quản lý Hàn Thanh Âm trong Phiêu Miễu Băng Hải"
+    },
+    {
+      "source": "nguyet_anh_ho",
+      "target": "bang_san_ho",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "suong_vu_nu",
+      "target": "bang_san_ho",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "suong_vu_nu",
+      "target": "han_thanh_am",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thuy_linh_nhi",
+      "target": "bang_san_ho",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thuy_linh_nhi",
+      "target": "han_thanh_am",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bao_hoang_sa",
+      "target": "bao_hac_tran",
+      "type": "master",
+      "description": "Bào Hoàng Sa quản lý Bào Hắc Trần trong Phong Sa Bào Tử"
+    },
+    {
+      "source": "bao_hoang_sa",
+      "target": "bao_liet_diem",
+      "type": "master",
+      "description": "Bào Hoàng Sa quản lý Bào Liệt Diễm trong Phong Sa Bào Tử"
+    },
+    {
+      "source": "bao_hac_tran",
+      "target": "bao_liet_diem",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sa Bào Tử, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bao_hoang_sa",
+      "target": "bao_me_suong",
+      "type": "master",
+      "description": "Bào Hoàng Sa quản lý Bào Mê Sương trong Phong Sa Bào Tử"
+    },
+    {
+      "source": "bao_me_suong",
+      "target": "bao_hac_tran",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sa Bào Tử, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bao_hoang_sa",
+      "target": "bao_thien_ly",
+      "type": "master",
+      "description": "Bào Hoàng Sa quản lý Bào Thiên Lý trong Phong Sa Bào Tử"
+    },
+    {
+      "source": "bao_thien_ly",
+      "target": "bao_hac_tran",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sa Bào Tử, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bao_hoang_sa",
+      "target": "bao_tieu_tran",
+      "type": "master",
+      "description": "Bào Hoàng Sa quản lý Bào Tiểu Trần trong Phong Sa Bào Tử"
+    },
+    {
+      "source": "bao_tieu_tran",
+      "target": "bao_hac_tran",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sa Bào Tử, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "bao_hoang_sa",
+      "target": "bao_toan_phong",
+      "type": "master",
+      "description": "Bào Hoàng Sa quản lý Bào Toàn Phong trong Phong Sa Bào Tử"
+    },
+    {
+      "source": "bao_toan_phong",
+      "target": "bao_hac_tran",
+      "type": "ally",
+      "description": "Đồng liêu cùng Phong Sa Bào Tử, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "xa_doc_nha",
+      "target": "xa_am_lan",
+      "type": "master",
+      "description": "Xà Độc Nha quản lý Xà Ám Lân trong Sa Mãng Tộc"
+    },
+    {
+      "source": "xa_doc_nha",
+      "target": "xa_linh_vi",
+      "type": "master",
+      "description": "Xà Độc Nha quản lý Xà Linh Vĩ trong Sa Mãng Tộc"
+    },
+    {
+      "source": "trung_nganh_giap",
+      "target": "trung_liet_nhat",
+      "type": "master",
+      "description": "Trùng Ngạnh Giáp quản lý Trùng Liệt Nhật trong Sa Trùng Vi Tộc"
+    },
+    {
+      "source": "trung_mang_luc",
+      "target": "trung_nganh_giap",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Trùng Vi Tộc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "yen_sa",
+      "target": "cu_da_sa",
+      "type": "master",
+      "description": "Yến Sa quản lý Cú Dạ Sa trong Sa Ưng Đoàn"
+    },
+    {
+      "source": "yen_sa",
+      "target": "yen_sa_phong",
+      "type": "master",
+      "description": "Yến Sa quản lý Yến Sa Phong trong Sa Ưng Đoàn"
+    },
+    {
+      "source": "ung_cuong_sa_bao",
+      "target": "cu_da_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Ưng Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "yen_sa",
+      "target": "ung_cuong_sa_bao",
+      "type": "master",
+      "description": "Yến Sa quản lý Ưng Cuồng Sa Bão trong Sa Ưng Đoàn"
+    },
+    {
+      "source": "ung_kim_trao",
+      "target": "cu_da_sa",
+      "type": "master",
+      "description": "Ưng Kim Trảo quản lý Cú Dạ Sa trong Sa Ưng Đoàn"
+    },
+    {
+      "source": "ung_kim_trao",
+      "target": "yen_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Ưng Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_liet_nhat",
+      "target": "cu_da_sa",
+      "type": "master",
+      "description": "Ưng Liệt Nhật quản lý Cú Dạ Sa trong Sa Ưng Đoàn"
+    },
+    {
+      "source": "ung_liet_nhat",
+      "target": "yen_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Ưng Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ung_tan_duong",
+      "target": "cu_da_sa",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sa Ưng Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "yen_sa",
+      "target": "ung_tan_duong",
+      "type": "master",
+      "description": "Yến Sa quản lý Ưng Tàn Dương trong Sa Ưng Đoàn"
+    },
+    {
+      "source": "ha_thien_nhay",
+      "target": "ma_tieu_hai",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Thủ Hộ Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "loa_hai_thanh_am",
+      "target": "ma_tieu_hai",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Thủ Hộ Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "trung_co_sinh",
+      "target": "trung_tan_nha",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hua_thanh_van",
+      "target": "ngu_lam_hai_thanh",
+      "type": "ally",
+      "description": "Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ba_tieu_song",
+      "target": "ba_cong_minh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sóng Vi Ba Liên Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ba_tram_lang",
+      "target": "ba_cong_minh",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sóng Vi Ba Liên Lạc, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "huyet_bang_tu",
+      "target": "hac_suong_quy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sương Ma Uyển, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "han_doc_cot",
+      "target": "hac_suong_quy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Sương Ma Uyển, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "canh_tieu_minh",
+      "target": "su_thien_thu",
+      "type": "master",
+      "description": "Cảnh Tiểu Minh quản lý Sử Thiên Thư trong Thiên Môn Kính Đài"
+    },
+    {
+      "source": "ha_quan_tinh",
+      "target": "trieu_kinh_ve",
+      "type": "master",
+      "description": "Hà Quan Tinh quản lý Triệu Kính Vệ trong Thiên Môn Kính Đài"
+    },
+    {
+      "source": "kinh_ap_suat_vuong",
+      "target": "ngu_phat_quang",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thâm Hải Thám Hiểm Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "linh_lan_quang",
+      "target": "linh_tham_nguyet",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thâm Hải Vi Linh, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thach_ban",
+      "target": "ho_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thạch Linh Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thach_hung",
+      "target": "ho_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thạch Linh Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thach_linh_quang",
+      "target": "ho_van",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thạch Linh Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "thach_van_nien",
+      "target": "ho_van",
+      "type": "master",
+      "description": "Thạch Vạn Niên quản lý Hồ Vân trong Thạch Linh Cung"
+    },
+    {
+      "source": "nguyen_huong_tuyen",
+      "target": "pham_tu_thuy",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thủy Nguồn Bảo Vệ Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "han_thuy",
+      "target": "pham_tu_thuy",
+      "type": "master",
+      "description": "Hàn Thủy quản lý Phạm Tụ Thủy trong Thủy Nguồn Bảo Vệ Đoàn"
+    },
+    {
+      "source": "nham_ban_than",
+      "target": "son_tieu_nhi",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tuyết Cự Nhân Lạc Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_ban_than",
+      "target": "thach_noi_da",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tuyết Cự Nhân Lạc Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "son_tieu_nhi",
+      "target": "thach_noi_da",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tuyết Cự Nhân Lạc Đoàn, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "nham_cuong_the",
+      "target": "son_thiet_quyen",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tuyết Cự Nhân Đảo, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "son_dai_dia",
+      "target": "nham_cuong_the",
+      "type": "ally",
+      "description": "Đồng liêu cùng Tuyết Cự Nhân Đảo, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "ngu_quy_dien",
+      "target": "huyet_ba",
+      "type": "ally",
+      "description": "Đồng liêu cùng Vực Thẳm Ma Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "am_anh_ngu",
+      "target": "hac_trieu",
+      "type": "ally",
+      "description": "Đồng liêu cùng Vực Thẳm Ma Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "am_anh_ngu",
+      "target": "ngu_quy_dien",
+      "type": "ally",
+      "description": "Đồng liêu cùng Vực Thẳm Ma Cung, hỗ trợ lẫn nhau"
+    },
+    {
+      "source": "hac_phong",
+      "target": "phong_liet",
+      "type": "master",
+      "description": "Hắc Phong, Cốc Chủ Phong Sát Cốc, quản lý Phong Liệt"
+    },
+    {
+      "source": "ly_thu",
+      "target": "trieu_kinh_ve",
+      "type": "ally",
+      "description": "Đồng liêu cùng Thiên Môn Kính Đài"
     }
   ],
   "factions": [
