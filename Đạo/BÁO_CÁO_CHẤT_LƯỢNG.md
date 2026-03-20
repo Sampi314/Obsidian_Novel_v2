@@ -53,11 +53,11 @@
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
 ### [Phiên Trước 2] - Hoàn thiện nhân vật Hải Thần Cung (Vô Tận Hải)
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Giao Vân Hà, Giải Huyền Giáp, Giải Thiết Giáp Vương thuộc khu vực Vô Tận Hải.
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Giao Vân Hà, Giải Huyền Giáp, Giải Thiết Giáp thuộc khu vực Vô Tận Hải.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
 ### [Phiên Trước] - Hoàn thiện nhân vật San Hô Đảo Quốc (Vô Tận Hải)
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Thủy Tinh, Triều Thiên Vệ, Triều Bích Hải thuộc khu vực Vô Tận Hải.
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Thủy Tinh, Triều Thiên Phong, Triều Bích Hải thuộc khu vực Vô Tận Hải.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
 

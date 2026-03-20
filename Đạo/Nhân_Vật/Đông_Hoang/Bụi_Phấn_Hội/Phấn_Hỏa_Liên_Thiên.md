@@ -34,8 +34,8 @@ Mang phấn hoa Hỏa Liên Hoa tuyệt chủng
 Thành viên của Bụi Phấn Hội, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 粉火蓮天·Bản Mệnh (粉火蓮天·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Phấn Hoàng Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bụi Phấn Hội
-- **Phấn Hoàng Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phấn Hoàng Vương
+- **Phấn Hoàng Linh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bụi Phấn Hội
+- **Phấn Hoàng Linh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phấn Hoàng Linh
 - **Bích Dực Nhi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bụi Phấn Hội
 - **Phấn Hồng Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bụi Phấn Hội
 - **Phấn Ngọc Lộ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bụi Phấn Hội

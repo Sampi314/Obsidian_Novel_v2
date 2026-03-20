@@ -19,7 +19,7 @@
 - [Bào Thâm Thổ (孢深土)](Bào_Tử_Mật_Lâm_Tộc/Bào_Thâm_Thổ.md)
 - [Bào Tịnh Hóa (孢淨化)](Bào_Tử_Mật_Lâm_Tộc/Bào_Tịnh_Hóa.md)
 - [Bào Vạn Căn (孢萬根)](Bào_Tử_Mật_Lâm_Tộc/Bào_Vạn_Căn.md)
-- [Bào Độc Vương (孢毒王)](Bào_Tử_Mật_Lâm_Tộc/Bào_Độc_Vương.md)
+- [Bào Độc Linh (孢毒王)](Bào_Tử_Mật_Lâm_Tộc/Bào_Độc_Linh.md)
 
 ## Bách Hoa Cốc (百花谷) — 6
 
@@ -72,7 +72,7 @@
 ## Bụi Phấn Hội (花粉会) — 6
 
 - [Bích Dực Nhi (碧翼兒)](Bụi_Phấn_Hội/Bích_Dực_Nhi.md)
-- [Phấn Hoàng Vương (粉皇王)](Bụi_Phấn_Hội/Phấn_Hoàng_Vương.md)
+- [Phấn Hoàng Linh (粉皇王)](Bụi_Phấn_Hội/Phấn_Hoàng_Linh.md)
 - [Phấn Hỏa Liên Thiên (粉火蓮天)](Bụi_Phấn_Hội/Phấn_Hỏa_Liên_Thiên.md)
 - [Phấn Hồng Hoa (粉紅花)](Bụi_Phấn_Hội/Phấn_Hồng_Hoa.md)
 - [Phấn Ngọc Lộ (粉玉露)](Bụi_Phấn_Hội/Phấn_Ngọc_Lộ.md)
@@ -478,7 +478,7 @@
 - [Nấm Thâm Căn (菌深根)](Nấm_Linh_Mạng_Lưới/Nấm_Thâm_Căn.md)
 - [Nấm Tổ Mẫu (菌祖母)](Nấm_Linh_Mạng_Lưới/Nấm_Tổ_Mẫu.md)
 - [Nấm Vạn Niên Hoa (菌萬年花)](Nấm_Linh_Mạng_Lưới/Nấm_Vạn_Niên_Hoa.md)
-- [Nấm Độc Vương (菌毒王)](Nấm_Linh_Mạng_Lưới/Nấm_Độc_Vương.md)
+- [Nấm Độc Tâm (菌毒王)](Nấm_Linh_Mạng_Lưới/Nấm_Độc_Tâm.md)
 
 ## Phiêu Bạt Khách Sạn Liên Minh (漂泊客栈联盟) — 3
 

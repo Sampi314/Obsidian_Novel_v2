@@ -36,8 +36,8 @@ arcs:
           tin: 80
           so: 15
           on: 40
-      - character: Giải Thiết Giáp Vương
-        description: Đối thủ tranh luận chiến lược muôn thuở, hắn coi Thiết Giáp Vương quá bảo thủ
+      - character: Giải Thiết Giáp
+        description: Đối thủ tranh luận chiến lược muôn thuở, hắn coi Thiết Giáp quá bảo thủ
         feelings:
           yeu: 15
           han: 25
@@ -93,7 +93,7 @@ arcs:
     - **Hiếu Chiến:** Sống để chiến đấu, chiến đấu để sống. Thời gian dài hòa bình khiến hắn bồn chồn như ngồi trên than nóng.
     - **Trực Tính:** Nói thẳng nghĩ thẳng, ghét mưu mẹo và chính trị cung đình. Thường xuyên xung đột với các quan văn trong triều Hải Thần Cung.
     - **Nghĩa Khí:** Đối xử tốt với thuộc cấp, sẵn sàng xông trận đầu tiên, không bao giờ để binh sĩ chết thay mình.
-- **Đạo Tâm:** **"Tấn Công Là Phòng Ngự Tốt Nhất"** — Trái ngược hoàn toàn với Giải Thiết Giáp Vương, hắn tin rằng chỉ có tiêu diệt kẻ thù trước khi chúng tấn công mới đảm bảo an toàn.
+- **Đạo Tâm:** **"Tấn Công Là Phòng Ngự Tốt Nhất"** — Trái ngược hoàn toàn với Giải Thiết Giáp, hắn tin rằng chỉ có tiêu diệt kẻ thù trước khi chúng tấn công mới đảm bảo an toàn.
 
 ## IV. LỊCH SỬ & XUẤT THÂN
 - **Xuất Thân:**
@@ -119,7 +119,7 @@ arcs:
 
 ## VI. QUAN HỆ
 - **Hải Thiên Đế:** Trung thành nhưng hay bất đồng về chiến lược. Hắn muốn tấn công tổng lực tiêu diệt Hải Yêu Mê Cung, nhưng Hải Đế chọn kiềm chế.
-- **Giải Thiết Giáp Vương:** Đối thủ tranh luận muôn thuở. Hai người thường cãi nhau nảy lửa trong triều nhưng trên chiến trường là cặp đôi hoàn hảo: một tấn công, một phòng ngự.
+- **Giải Thiết Giáp:** Đối thủ tranh luận muôn thuở. Hai người thường cãi nhau nảy lửa trong triều nhưng trên chiến trường là cặp đôi hoàn hảo: một tấn công, một phòng ngự.
 - **Kình Thiên Lôi Âm (Thuộc cấp):** Viên tướng trẻ đầy tiềm năng mà hắn đang đào tạo, nhìn thấy bóng dáng mình thuở trẻ.
 - **Mẫu Thiên Ca (Kẻ thù):** Hải Yêu Nữ Vương, kẻ thù nguy hiểm nhất. Hắn thề sẽ tự tay xé nát Tam Giác Chết.
 
@@ -127,4 +127,4 @@ arcs:
 > *"Khi Hắc Triều dâng lên, kẻ thù chỉ còn thấy bóng tối — và tám cánh tay tử thần."*
 > — Mô tả về Chương Hắc Triều trong quân sử Hải Thần Cung.
 
-- **Cuộc Cãi Nhau Ngàn Năm:** Chương Hắc Triều và Giải Thiết Giáp Vương đã cãi nhau về chiến lược suốt hơn ngàn năm, và chưa bao giờ ai thắng. Hải Thiên Đế từng nói: *"Để hai người đó cãi nhau là chiến lược tốt nhất — vì trong lúc cãi, chúng đã xem xét mọi phương án."*
+- **Cuộc Cãi Nhau Ngàn Năm:** Chương Hắc Triều và Giải Thiết Giáp đã cãi nhau về chiến lược suốt hơn ngàn năm, và chưa bao giờ ai thắng. Hải Thiên Đế từng nói: *"Để hai người đó cãi nhau là chiến lược tốt nhất — vì trong lúc cãi, chúng đã xem xét mọi phương án."*

@@ -53,7 +53,7 @@ arcs:
           tin: 85
           so: 0
           on: 0
-      - character: Thủy Linh Nhi
+      - character: Thủy Băng Nhi
         description: Nội môn đệ tử đồng tộc, tiềm năng nhưng chưa trưởng thành, cần được dẫn dắt
         feelings:
           yeu: 55
@@ -108,7 +108,7 @@ arcs:
     - **Nhẫn Nại Vô Biên (无限耐心):** Lam Tịnh Thủy đã sống hơn năm trăm năm, và trong suốt thời gian đó, nàng chưa bao giờ hành động vội vàng. Dược lý là nghệ thuật của sự chờ đợi — chờ dược liệu chin, chờ phản ứng hoàn tất, chờ bệnh nhân hồi phục — và nàng đã nội hóa sự chờ đợi thành bản chất. Nàng là người duy nhất trong Hội Đồng Ảo Vũ không bao giờ tranh luận — nàng ngồi nghe tất cả ý kiến, suy nghĩ kỹ, rồi phát biểu cuối cùng bằng vài câu chắc nịch. Và thường thì, ý kiến cuối cùng của nàng mới là ý kiến được chấp nhận.
     - **Bao Dung Nhưng Nguyên Tắc (宽容有原则):** Nàng tha thứ cho sai lầm, cho sự non nớt, cho sự thiếu hiểu biết — nhưng không bao giờ tha thứ cho sự cẩu thả. Một đệ tử quên liều lượng vì chưa thuộc bài, nàng kiên nhẫn dạy lại. Một đệ tử quên liều lượng vì lười kiểm tra, nàng trục xuất khỏi phòng bào chế một tháng. *"Dược sư cẩu thả không phải dược sư — là sát thủ,"* nàng thường nói.
     - **Mặc Cảm Chủng Tộc Âm Thầm (隐性自卑):** Dù đã sống trong Phiêu Miễu Băng Hải hơn năm trăm năm và được kính trọng, Lam Tịnh Thủy vẫn cảm thấy mình là "kẻ ngoài." Tông môn chủ yếu là Nhân Tộc (Nữ) và Hải Yêu lai — Hải Yêu thuần chủng như nàng là thiểu số. Nàng biết rằng một số Trưởng Lão cũ vẫn thì thầm sau lưng rằng "Yêu tộc không nên nắm quyền" — và dù Cung Chủ Hải Cung đã bảo vệ nàng, vết thương tinh thần vẫn còn. Nàng đối phó bằng cách làm việc gấp đôi mọi người — chứng minh giá trị bằng kết quả, không phải bằng lời nói.
-    - **Tình Mẫu Tử Bao La (母性):** Khác với mẫu tính kìm nén của Thủy Nguyệt Tiên, Lam Tịnh Thủy thể hiện sự chăm sóc một cách tự nhiên và công khai. Nàng nấu cháo cho đệ tử ốm, tự tay bào chế thuốc bổ cho những đứa tu vi chậm tiến, và luôn có sẵn trà nóng trong phòng cho bất kỳ ai ghé qua. Nàng đối xử với đệ tử Hải Yêu — Băng San Hô và Thủy Linh Nhi — với sự trìu mến đặc biệt, không phải thiên vị mà vì nàng hiểu họ cần một người đồng tộc để dựa vào trong một tông môn Nhân Tộc chiếm đa số.
+    - **Tình Mẫu Tử Bao La (母性):** Khác với mẫu tính kìm nén của Thủy Nguyệt Tiên, Lam Tịnh Thủy thể hiện sự chăm sóc một cách tự nhiên và công khai. Nàng nấu cháo cho đệ tử ốm, tự tay bào chế thuốc bổ cho những đứa tu vi chậm tiến, và luôn có sẵn trà nóng trong phòng cho bất kỳ ai ghé qua. Nàng đối xử với đệ tử Hải Yêu — Băng San Hô và Thủy Băng Nhi — với sự trìu mến đặc biệt, không phải thiên vị mà vì nàng hiểu họ cần một người đồng tộc để dựa vào trong một tông môn Nhân Tộc chiếm đa số.
 - **Đạo Tâm:** **"Nước không tranh giành, nhưng vạn vật đều cần nước để sống."**
     - Lam Tịnh Thủy không theo đuổi sức mạnh chiến đấu — nàng theo đuổi khả năng nuôi dưỡng. Nàng tin rằng vai trò của dược sư không phải giết kẻ thù mà là giữ cho đồng đội sống đủ lâu để chiến thắng. Nàng cũng mở rộng triết lý này ra ngoài chiến đấu: nuôi dưỡng linh thảo, nuôi dưỡng đệ tử, nuôi dưỡng hệ sinh thái biển sâu — tất cả đều là biểu hiện của Đạo Dưỡng (养道) mà nàng theo đuổi.
     - Đạo tâm của nàng có một vết rạn: sự mặc cảm chủng tộc khiến nàng luôn cảm thấy mình phải "chứng minh" — và ngày nào nàng còn cảm thấy cần chứng minh, ngày đó nàng chưa thực sự tự do. Nàng biết điều này, nhưng năm trăm năm chưa đủ để nàng vượt qua.
@@ -158,8 +158,8 @@ arcs:
     - Tịnh Thủy coi Hàn Yên như một bệnh nhân mà nàng chưa bao giờ chữa khỏi — vết thương tâm lý của Đường Chủ quá sâu, quá cũ, và Hàn Yên không cho phép ai chạm vào. Nàng chỉ có thể âm thầm pha trà thảo dược an thần, để sẵn trước phòng Hàn Yên mỗi đêm — không nói, không hỏi, chỉ để đó.
 - **Băng San Hô — Đệ Tử Đồng Tộc & Người Kế Thừa:**
     - Băng San Hô là Hải Yêu thuộc chi tộc san hô — dù khác chi tộc, cả hai đều là Hải Yêu và chia sẻ gốc rễ chung. Tịnh Thủy coi San Hô như con gái ruột, dạy nàng mọi bí quyết dược lý biển sâu, truyền thụ cả những kỹ thuật mà nàng chưa dạy cho bất kỳ đệ tử Nhân Tộc nào. San Hô là người kế thừa chính thức của Thủy Hoa Viện, và Tịnh Thủy dành phần lớn thời gian đào tạo nàng.
-- **Thủy Linh Nhi — Đệ Tử Nhỏ Tuổi Nhất:**
-    - Thủy Linh Nhi là Hải Yêu trẻ nhất trong tông môn, và Tịnh Thủy dành cho cô bé sự quan tâm đặc biệt. Nàng nhìn thấy ở Thủy Linh Nhi hình bóng của chính mình ngày xưa — một Hải Yêu nhỏ bé, lạc lõng giữa thế giới Nhân Tộc, cố gắng chứng minh giá trị bản thân. Nàng kiên nhẫn dẫn dắt, không thúc ép, cho cô bé thời gian trưởng thành theo nhịp riêng.
+- **Thủy Băng Nhi — Đệ Tử Nhỏ Tuổi Nhất:**
+    - Thủy Băng Nhi là Hải Yêu trẻ nhất trong tông môn, và Tịnh Thủy dành cho cô bé sự quan tâm đặc biệt. Nàng nhìn thấy ở Thủy Băng Nhi hình bóng của chính mình ngày xưa — một Hải Yêu nhỏ bé, lạc lõng giữa thế giới Nhân Tộc, cố gắng chứng minh giá trị bản thân. Nàng kiên nhẫn dẫn dắt, không thúc ép, cho cô bé thời gian trưởng thành theo nhịp riêng.
 - **Thủy Nguyệt Tiên — Đồng Liêu & Bệnh Nhân Cũ:**
     - Mối quan hệ giữa hai người bắt đầu từ lần Tịnh Thủy cứu Viện Chủ khỏi tổn thương thần thức. Trước đó, Thủy Nguyệt Tiên giữ thái độ trung lập nhưng xa cách với Hải Yêu — sau khi được cứu, nàng thay đổi hoàn toàn. Hai người tôn trọng nhau nhưng không thân thiết — Thủy Nguyệt Tiên quá bận với vũ đạo, Tịnh Thủy quá bận với dược liệu — nhưng khi cần, cả hai đều sẵn sàng giúp đỡ lẫn nhau.
 

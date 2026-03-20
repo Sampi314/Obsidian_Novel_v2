@@ -39,7 +39,7 @@ Một bậc tiền bối Giao Nhân với vẻ ngoài vô cùng uy nghiêm và g
 - **Hải Thiên Thương** (Sư đồ): Giao Thiên Vạn Hải chỉ dẫn Hải Thiên Thương trong Độc Lập
 - **Mã Ngân Hải** (Sư đồ): Giao Thiên Vạn Hải chỉ dẫn Mã Ngân Hải trong Độc Lập
 - **Mẫu Phiêu Lưu** (Sư đồ): Giao Thiên Vạn Hải chỉ dẫn Mẫu Phiêu Lưu trong Độc Lập
-- **Giải Cổ Giáp Vương** (Sư đồ): Giao Thiên Vạn Hải chỉ dẫn Giải Cổ Giáp Vương trong Độc Lập
+- **Giải Cổ Giáp** (Sư đồ): Giao Thiên Vạn Hải chỉ dẫn Giải Cổ Giáp trong Độc Lập
 - **Kình Lão Ngư:** Người học trò cũ mà ông từng truyền dạy các kiến thức về linh hồn biển cả và cách giao tiếp với cự kình.
 - **Long Cung Trưởng Lão:** Những người thường xuyên cử sứ giả đến hang động của ông để xin những lời khuyên thông thái trước các biến động lớn.
 - **Chương Bách Biến:** Kẻ buôn tin thường xuyên rình rập xung quanh chỗ ẩn cư của ông để mong nhặt nhạnh những bí mật cổ xưa.

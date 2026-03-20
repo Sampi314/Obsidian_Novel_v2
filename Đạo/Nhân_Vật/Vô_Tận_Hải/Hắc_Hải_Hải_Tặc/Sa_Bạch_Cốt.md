@@ -41,6 +41,6 @@ Chuyên tu về tà thuật hấp thụ tinh huyết và các đòn đánh bằn
 - **Sa Cô Nha** (Sư đồ): Sa Bạch Cốt chỉ dẫn Sa Cô Nha trong Hắc Hải Hải Tặc
 - **Sa Huyết Đao:** Chủ nhân mà hắn tuyệt đối phục tùng, thường xuyên nhận các nhiệm vụ thảm sát tàn khốc nhất.
 - **Sa Hàn Thiên Nha:** Cấp dưới đắc lực, người giúp hắn thực hiện các buổi hành quyết tù nhân.
-- **Giải Thiên Giáp Vương:** Đối tác thường xuyên trong việc phân chia các chiến lợi phẩm là khoáng thạch cứng.
+- **Giải Thiên Giáp:** Đối tác thường xuyên trong việc phân chia các chiến lợi phẩm là khoáng thạch cứng.
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sa Bạch Cốt vốn là một tu sĩ bị hãm hại và bị ném xuống Nghĩa Địa Tàu Đắm trong tình trạng hấp hối. Hắn đã sống sót bằng cách ăn xác thối và vô tình luyện thành một loại tà công từ những mảnh xương trắng cổ đại. Khi Sa Huyết Đao tìm thấy hắn, hắn đã trở thành một thực thể không ra người cũng chẳng ra quỷ. Với lòng căm thù thế gian, hắn gia nhập Liên Minh Hắc Hải và nhanh chóng leo lên vị trí Đệ Tứ Vương nhờ sự tàn bạo không giới hạn. Hiện tại, hắn đang thu thập xương cốt của các loài linh thú hiếm để xây dựng một tòa "Bạch Cốt Điện" cho riêng mình.

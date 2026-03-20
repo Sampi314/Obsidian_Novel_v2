@@ -309,7 +309,7 @@
 - [San Huyền Quang Dạ (珊玄光夜)](San_Hô_Đảo_Quốc/San_Huyền_Quang_Dạ.md)
 - [San Hồng Ngọc Thiên (珊紅玉天)](San_Hô_Đảo_Quốc/San_Hồng_Ngọc_Thiên.md)
 - [San Lục Quang (珊綠光)](San_Hô_Đảo_Quốc/San_Lục_Quang.md)
-- [San Ngọc Vương (珊玉王)](San_Hô_Đảo_Quốc/San_Ngọc_Vương.md)
+- [San Ngọc Hà (珊玉王)](San_Hô_Đảo_Quốc/San_Ngọc_Hà.md)
 - [San Vân Hà (珊雲霞)](San_Hô_Đảo_Quốc/San_Vân_Hà.md)
 
 ## Thiên Sa Thương Hội (天沙商會) — 11
@@ -408,7 +408,7 @@
 
 - [Giao Thiên Mạc Nguyệt (鲛天漠月)](Độc_Lập/Giao_Thiên_Mạc_Nguyệt.md)
 - [Ngư Sa Hà (魚沙河)](Độc_Lập/Ngư_Sa_Hà.md)
-- [Sa Cát Vương (鯊渴王)](Độc_Lập/Sa_Cát_Vương.md)
+- [Sa Cát Liệt (鯊渴王)](Độc_Lập/Sa_Cát_Liệt.md)
 - [Trùng Độc Hành (蟲獨行)](Độc_Lập/Trùng_Độc_Hành.md)
 
 ## Ốc Đảo Vi Linh (绿洲微灵) — 10

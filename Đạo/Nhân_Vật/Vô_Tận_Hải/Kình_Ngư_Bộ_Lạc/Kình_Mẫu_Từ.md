@@ -36,8 +36,8 @@ Dù không chuyên về giết chóc, Mẫu Từ nắm giữ **Sinh Linh Tế Th
 ## IV. CÁC MỐI QUAN HỆ
 - **Kình Hải Âm Thiên** (Sư đồ): Kình Hải Âm Thiên chỉ dẫn Kình Mẫu Từ trong Kình Ngư Bộ Lạc
 - **Kình Lôi Âm** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
-- **Kình Thiên Hải Vương** (Chủ tớ): Thủ hạ trung thành trong Kình Ngư Bộ Lạc
-- **Kình Thiên Hải Vương** (Cấp dưới): Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc
+- **Kình Thiên Hải** (Chủ tớ): Thủ hạ trung thành trong Kình Ngư Bộ Lạc
+- **Kình Thiên Hải** (Cấp dưới): Phục tùng Kình Thiên Hải, Tộc Trưởng của Kình Ngư Bộ Lạc
 - **Kình Ngân Hải Thiên** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
 - **Kình Thiết Đầu** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
 - **Kình Hải Âm Thiên (Ca Sĩ):** Được Mẫu Từ nuôi nấng từ nhỏ và coi như con đẻ, dạy cách hát ru cho biển cả.

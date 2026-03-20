@@ -41,7 +41,7 @@ arcs:
           tin: 80
           so: 0
           on: 0
-      - character: Giải Thiết Giáp Vương
+      - character: Giải Thiết Giáp
         description: Đồng liêu lâu năm, kẻ duy nhất chịu được một nhát đấm của lão
         feelings:
           yeu: 20
@@ -112,7 +112,7 @@ arcs:
     - Vạn Lý không dễ phục ai — nhưng Hải Đế là ngoại lệ. Vì ông là người duy nhất dám bơi một mình vào biển Tây hoang vu để tìm lão, và nói chuyện với lão bằng sự tôn trọng thay vì đe dọa.
 - **Kình Lôi Thanh (Cháu Họ — Niềm Tự Hào):**
     - Lôi Thanh giống lão thuở trẻ — mạnh mẽ, hào sảng, và yêu quý đồng loại. Lão tự hào nhưng không bao giờ nói ra, chỉ âm thầm gửi lời khuyên qua Kình Thiên Lôi Âm.
-- **Giải Thiết Giáp Vương (Đồng Liêu — Kẻ Chịu Được Đấm):**
+- **Giải Thiết Giáp (Đồng Liêu — Kẻ Chịu Được Đấm):**
     - Hai vị tướng quân lão thành thỉnh thoảng "giao lưu" bằng cách đấm nhau — Vạn Lý đấm, Thiết Giáp Hùng đỡ. Đây là cách hai lão giao tiếp — không cần lời nói, chỉ cần sức mạnh.
 
 ## VII. GIAI THOẠI

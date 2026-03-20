@@ -49,7 +49,7 @@ arcs:
           tin: 50
           so: 0
           on: 20
-      - character: Xà Hải Mãng Vương
+      - character: Xà Hải Mãng
         description: Kẻ thù tiềm tàng, tranh chấp lãnh thổ săn mồi
         feelings:
           yeu: -20
@@ -137,7 +137,7 @@ Thành tích đáng kể nhất: trong vụ Hắc Hải Hải Tặc xâm nhập 
 - **Chương Vạn Tuế (Nguyên Anh Trung Kỳ):** Chủ nhân, alpha không thể thách thức. Sa Cổ Hải Thú phục tùng hoàn toàn vì bản năng — kẻ mạnh hơn là chủ. Hắn không có tình cảm phức tạp với Vạn Tuế, chỉ có sự tuân phục thuần túy. Tuy nhiên, nếu Vạn Tuế suy yếu, bản năng có thể thúc đẩy hắn thách thức — đây là điều Thiên Tý luôn cảnh giác.
 - **Chương Thiên Tý (Kim Đan Viên Mãn):** "Quản lý" trực tiếp. Hắn hơi khó chịu với sự kiểm soát chặt chẽ của Thiên Tý — đặc biệt việc bị giới hạn lãnh thổ săn mồi — nhưng không dám phản kháng vì biết Thiên Tý có thể dùng ngàn xúc tu trói chặt hắn.
 - **Sa Hàn Cổ Thiên (Trúc Cơ Viên Mãn):** Đàn em cùng loài duy nhất trong hang. Sa Cổ Hải Thú có một mối liên kết bản năng với Cổ Thiên — cùng loài sa, cùng tuần tra. Hắn "dạy" Cổ Thiên bằng cách thực chiến — đuổi con cá mập trẻ vào vùng nguy hiểm rồi xem nó xoay xở. Kiểu dạy tàn nhẫn nhưng hiệu quả.
-- **Xà Hải Mãng Vương (Kim Đan Hậu Kỳ):** Kẻ thù tiềm tàng. Hai bên thường xuyên tranh chấp vùng biển săn mồi gần hang ổ. Hắn ghét Mãng Vương vì loài xà quá xảo quyệt — thay vì đối mặt trực tiếp, Mãng Vương hay dùng nọc độc từ xa, khiến hắn không thể phát huy sở trường cận chiến.
+- **Xà Hải Mãng (Kim Đan Hậu Kỳ):** Kẻ thù tiềm tàng. Hai bên thường xuyên tranh chấp vùng biển săn mồi gần hang ổ. Hắn ghét Mãng Vương vì loài xà quá xảo quyệt — thay vì đối mặt trực tiếp, Mãng Vương hay dùng nọc độc từ xa, khiến hắn không thể phát huy sở trường cận chiến.
 - **Quy Cổ Băng (Kim Đan Trung Kỳ):** Sinh vật duy nhất khiến hắn bình tĩnh không cần lý do. Mỗi khi Huyết Cuồng phát tác ngoài ý muốn, Thiên Tý sẽ dẫn hắn đến gần Cổ Băng — Trấn Tĩnh Trường của lão rùa là phương thuốc hiệu quả nhất.
 - **Chương Tiểu Vạn** (Đồng minh): Kraken non hay quấy rối, không dám đuổi
 

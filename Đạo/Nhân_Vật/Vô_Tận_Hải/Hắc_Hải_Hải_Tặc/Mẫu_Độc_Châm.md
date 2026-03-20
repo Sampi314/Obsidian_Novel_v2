@@ -40,7 +40,7 @@ Chuyên tu về các loại kịch độc thủy hệ có khả năng làm tê l
 - **Mẫu Huyễn Ảnh** (Sư đồ): Mẫu Huyễn Ảnh chỉ dẫn Mẫu Độc Châm trong Hắc Hải Hải Tặc
 - **Ngư Hắc Lân** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
 - **Mẫu Huyễn Ảnh:** Tỷ tỷ ruột và cũng là cấp trên trực tiếp, cả hai thường phối hợp để thực hiện các màn "ảo ảnh dẫn dụ, độc châm kết liễu".
-- **Chương Huyết Mực Vương:** Đồng nghiệp thường xuyên trao đổi về các loại độc dược mới để phục vụ cho việc tra tấn.
+- **Chương Huyết Mực:** Đồng nghiệp thường xuyên trao đổi về các loại độc dược mới để phục vụ cho việc tra tấn.
 - **Sa Huyết Đao:** Nàng tuyệt đối trung thành với Sa Huyết Đao và là người chịu trách nhiệm đầu độc các nguồn nước của kẻ thù trước trận chiến.
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mẫu Độc Châm vốn là một linh vật sống trong một đầm lầy độc ở phương Nam trước khi bị các thợ săn yêu thú truy đuổi. Được Mẫu Huyễn Ảnh cứu mạng và đưa về Hắc Hải, nàng đã biến lòng hận thù thành sức mạnh độc dược khủng khiếp. Nàng gia nhập Liên Minh Hắc Hải để tìm kiếm những nguyên liệu quý hiếm cho việc tinh luyện các loại kịch độc mới. Hiện tại, nàng là một trong những sát thủ thầm lặng đáng sợ nhất của liên minh, chuyên đảm nhận việc loại bỏ các mục tiêu quan trọng một cách không để lại dấu vết.
