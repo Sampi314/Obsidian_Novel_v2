@@ -9,10 +9,15 @@
 - Báo cáo cũ (nén): Hoàn thiện Cổ Thạch Bộ Lạc, San Hô Vi Trùng, Thiên Mộc Thành, Tuyết Liên Dược Phường, Thủy Tinh Thạch Phường, Băng Ngục Thành, Huyết Hổ Hạ Chúng, Băng Ngục Đào Vong Giả. Địa Tâm Thám Hiểm Đội.
 - [Đã nén] Hoàn thiện các nhân vật Vô Tận Hải (Hải Thần Cung, San Hô Đảo Quốc, Sóng Vi Ba Liên Lạc, Phiêu Miễu Băng Hải, Linh Hồ Tàn Tộc), Thiên Trụ (Cực Quang Thần Điện), Bắc Băng (Tuyết Cự Nhân Đảo), Tây Mạc (Phong Sát Cốc, Hoàng Sa Di Dân, San Hô Thủ Hộ Đoàn).
 - [Đã nén] Điền chi tiết Sóng Vi Ba Liên Lạc, Phiêu Miễu Băng Hải, Linh Hồ Tàn Tộc.
+- [Đã nén] Hoàn thiện các nhân vật thuộc Hải Thần Cung, San Hô Đảo Quốc (Vô Tận Hải) và Hàn Phong Truyền Tin Đội (Bắc Băng).
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Sương Ma Uyển (Bắc Băng)
+### [Hiện Tại] - Hoàn thiện nhân vật Phong Bạo Thương Đội (Vô Tận Hải)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Phong Thiết Nha, Vân Hải Đồ, Đặng Thương Hà thuộc khu vực Vô Tận Hải.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Sương Ma Uyển (Bắc Băng)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Sương Vô Tình, Tuyệt Tình Hàn, Ám Băng Nhi thuộc khu vực Bắc Băng.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -52,13 +57,3 @@
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Phong Nha, Phong Ảnh, Sa Quỷ thuộc khu vực Tây Mạc.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
-### [Phiên Trước 2] - Hoàn thiện nhân vật Hải Thần Cung (Vô Tận Hải)
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Giao Vân Hà, Giải Huyền Giáp, Giải Thiết Giáp Vương thuộc khu vực Vô Tận Hải.
-- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-
-### [Phiên Trước] - Hoàn thiện nhân vật San Hô Đảo Quốc (Vô Tận Hải)
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Thủy Tinh, Triều Thiên Vệ, Triều Bích Hải thuộc khu vực Vô Tận Hải.
-- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-
-
-- **Ngày 2024-05-30**: Đã điền chi tiết 4 phần (Ngoại Hình, Năng Lực, Quan Hệ, Tiểu Sử) cho 3 nhân vật: **Vũ Khinh Hồng**, **Vũ Phiêu Linh**, **Vũ Tật Phong** (Hàn Phong Truyền Tin Đội - Bắc Băng) theo Task 9. Cập nhật relationship_data.js.

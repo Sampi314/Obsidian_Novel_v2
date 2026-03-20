@@ -53352,13 +53352,13 @@ const relationshipData = {
       "source": "phong_thiet_nha",
       "target": "phong_cuong_ba",
       "type": "mentor",
-      "description": "Phong Thiết Nha chỉ dẫn Phong Cuồng Ba trong Phong Bạo Thương Đội"
+      "description": "Phong Thiết Nha vô cùng nghiêm khắc trong việc huấn luyện tân binh Phong Cuồng Ba cách chiến đấu sinh tồn trên biển khơi."
     },
     {
       "source": "van_hai_do",
       "target": "phong_cuong_ba",
       "type": "mentor",
-      "description": "Vân Hải Đồ chỉ dẫn Phong Cuồng Ba trong Phong Bạo Thương Đội"
+      "description": "Vân Hải Đồ truyền đạt tinh túy thuật nhìn sao đoán gió và kỹ năng sinh tồn trên biển cho đệ tử trẻ Phong Cuồng Ba."
     },
     {
       "source": "phong_thiet_nha",
@@ -53369,14 +53369,14 @@ const relationshipData = {
     {
       "source": "phong_thiet_nha",
       "target": "van_hai_do",
-      "type": "mentor",
-      "description": "Phong Thiết Nha chỉ dẫn Vân Hải Đồ trong Phong Bạo Thương Đội"
+      "type": "ally",
+      "description": "Phong Thiết Nha dùng sức mạnh cơ bắp bảo vệ Vân Hải Đồ trong các chuyến đi nguy hiểm, ngược lại dựa vào khả năng định vị của đối phương để điều phối trận hình phòng ngự."
     },
     {
       "source": "phong_thiet_nha",
       "target": "vu_hai_yen",
       "type": "mentor",
-      "description": "Phong Thiết Nha chỉ dẫn Vũ Hải Yến trong Phong Bạo Thương Đội"
+      "description": "Phong Thiết Nha vô cùng nghiêm khắc trong việc huấn luyện tân binh Vũ Hải Yến cách chiến đấu sinh tồn trên biển khơi."
     },
     {
       "source": "loi_thien_phong",
@@ -53394,7 +53394,7 @@ const relationshipData = {
       "source": "van_hai_do",
       "target": "vu_hai_yen",
       "type": "mentor",
-      "description": "Vân Hải Đồ chỉ dẫn Vũ Hải Yến trong Phong Bạo Thương Đội"
+      "description": "Vân Hải Đồ truyền đạt tinh túy thuật nhìn sao đoán gió và kỹ năng sinh tồn trên biển cho đệ tử trẻ Vũ Hải Yến."
     },
     {
       "source": "loi_thien_phong",
@@ -53424,7 +53424,19 @@ const relationshipData = {
       "source": "hai_phong",
       "target": "dang_thuong_ha",
       "type": "mentor",
-      "description": "Hải Phong chỉ dẫn Đặng Thương Hà trong Phong Bạo Thương Đội"
+      "description": "Tổng Quản Hải Phong chỉ dạy Đặng Thương Hà cách quản lý thương vụ và đàm phán, giao cho nàng thực hiện các giao dịch ngầm."
+    },
+    {
+      "source": "dang_thuong_ha",
+      "target": "phong_thiet_nha",
+      "type": "ally",
+      "description": "Đặng Thương Hà thường xuyên trả giá rất cao để thuê Phong Thiết Nha làm hộ pháp riêng bảo hộ các chuyến giao thương lớn."
+    },
+    {
+      "source": "dang_thuong_ha",
+      "target": "van_hai_do",
+      "type": "ally",
+      "description": "Đặng Thương Hà tận dụng thông tin mạch hải lưu bí mật do Vân Hải Đồ cung cấp để ép giá khách hàng với dịch vụ chuyển phát nhanh."
     },
     {
       "source": "dang_thuong_ha",
