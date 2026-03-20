@@ -32,9 +32,11 @@ Sa Mạc Hồn Dạ mang hình dạng nửa người nửa rắn cát — phần
 Sa Mạc Hồn Dạ chuyên về trinh sát, theo dõi và ám sát âm thầm trên sa mạc, khai thác tối đa lợi thế ngụy trang và di chuyển xuyên cát. Kỹ thuật cốt lõi là *Sa Ẩn Thuật* (沙隱術) — chìm hoàn toàn vào lớp cát bề mặt và di chuyển bên dưới như cá bơi trong nước, có thể theo dõi mục tiêu hàng trăm dặm mà không bị phát hiện, cảm nhận rung động trên mặt cát để xác định vị trí và số lượng đối tượng. Khi cần hạ thủ, hắn sử dụng *Dạ Hồn Sa Kích* (夜魂沙擊) — bất ngờ vọt lên từ dưới cát phóng đuôi rắn cuốn chặt mục tiêu đồng thời phun nọc độc cổ đại vào mắt và mũi gây tê liệt tức thì. Điểm yếu là hắn không giỏi chiến đấu trực diện và hoàn toàn mất lợi thế trên địa hình không có cát, đặc biệt trên đá hoặc trong nước.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Cổ Sa (Tộc Trưởng):** Nhận mệnh lệnh trực tiếp từ Tộc Trưởng, là tai mắt đáng tin cậy nhất của Cổ Sa trên bề mặt sa mạc, tuyệt đối trung thành.
-- **Sa Ngọc (沙玉):** Thường xuyên mang về các mẫu khoáng vật và thảo dược sa mạc hiếm lạ để Sa Ngọc bào chế, hai người phối hợp ăn ý giữa trinh sát và hậu cần.
+- **Sa Cổ Vương** (Đồng minh): Thám tử trưởng giỏi nhất, tai mắt của tộc trên bề mặt sa mạc
+- **Sa Bạo** (Đồng minh): Đồng liêu cùng Cổ Sa Yêu Tộc, hỗ trợ lẫn nhau
+- **Sa Hoàng Thiên Phong** (Chủ tớ): Sa Hoàng Thiên Phong quản lý Sa Mạc Hồn Dạ trong Cổ Sa Yêu Tộc
+- **Cổ Sa:** Nhận mệnh lệnh trực tiếp từ Tộc Trưởng, là tai mắt đáng tin cậy nhất của Cổ Sa trên bề mặt sa mạc, tuyệt đối trung thành.
+- **Sa Ngọc:** Thường xuyên mang về các mẫu khoáng vật và thảo dược sa mạc hiếm lạ để Sa Ngọc bào chế, hai người phối hợp ăn ý giữa trinh sát và hậu cần.
 - **Cổ Tích Thám Hiểm Đoàn:** Đối tượng theo dõi hàng đầu, Hồn Dạ đã bám sát đoàn thám hiểm nhiều lần để đảm bảo họ không tiến gần hang cổ.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sa Mạc Hồn Dạ sinh ra trong hang cổ, là con cháu của dòng Yêu Tộc rắn cát từng phục vụ trong đội trinh sát tiên phong của Hoàng Sa Cổ Quốc. Từ nhỏ hắn đã được huấn luyện kỹ thuật Sa Ẩn Thuật bởi chính Tộc Trưởng Cổ Sa, người nhìn thấy ở hắn tố chất thiên bẩm cho nghề trinh sát — khả năng kiên nhẫn nằm im dưới cát suốt nhiều ngày chờ đợi mà không mất tập trung. Sự kiện định hình tính cách hiện tại là lần hắn suýt bị một nhóm Cổ Tích Thám Hiểm Đoàn phát hiện khi lần đầu ra ngoài trinh sát — kinh nghiệm đó khắc sâu sự thận trọng tuyệt đối vào bản năng, khiến hắn không bao giờ chủ quan dù tình hình có vẻ an toàn. Hiện tại, Hồn Dạ đang âm thầm lo ngại vì những chuyển động gần đây của Cổ Tích Thám Hiểm Đoàn và sự thức tỉnh của Cự Nhân tại Lưu Sa Cổ Thành — hắn cảm thấy sa mạc đang thay đổi nhanh hơn khả năng che giấu của tộc mình.
