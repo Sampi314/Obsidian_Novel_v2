@@ -42,6 +42,24 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Lệ Tam
+        description: Đấu Giá Sư, người mà Hồ Vô Thanh cung cấp thông tin nguồn gốc vật phẩm để thẩm định
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
+      - character: Vương Cổ Thuyền
+        description: Đưa Đò Trưởng, lão già canh giữ lối vào mà Hồ Vô Thanh thường gửi danh sách khách được phép vào
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 35
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HỒ VÔ THANH (胡無聲)
@@ -64,6 +82,8 @@ Tu luyện Vô Thanh Thuật — triệt tiêu mọi âm thanh trong phạm vi n
 - **[[Mạc Vô Diện]]** — Quỷ Chủ, người duy nhất mà Hồ Vô Thanh báo cáo trực tiếp.
 - **[[Ám Nhị]]** — Tổng Quản phụ, đồng sự chia sẻ gánh nặng quản lý hàng ngày.
 - **[[Chu Thiết Diện]]** — Trưởng Lão Chấp Pháp, người mà Hồ Vô Thanh cung cấp thông tin vi phạm để xử lý.
+- **[[Lệ Tam]]** — Đấu Giá Sư, người mà Hồ Vô Thanh cung cấp thông tin nguồn gốc vật phẩm để thẩm định.
+- **[[Vương Cổ Thuyền]]** — Đưa Đò Trưởng, lão già canh giữ lối vào mà Hồ Vô Thanh thường gửi danh sách khách được phép vào.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hồ Vô Thanh từng là gián điệp của một thế lực lớn, bị phát hiện và truy sát, chạy trốn vào Quỷ Thị xin tị nạn. Mạc Vô Diện đồng ý che chở với điều kiện hắn phải phục vụ vĩnh viễn, dùng tài năng tình báo để quản lý Quỷ Thị. Hàng chục năm qua, Hồ Vô Thanh trở thành tai mắt của Quỷ Chủ, nắm rõ mọi bí mật giao dịch trong chợ đen.
