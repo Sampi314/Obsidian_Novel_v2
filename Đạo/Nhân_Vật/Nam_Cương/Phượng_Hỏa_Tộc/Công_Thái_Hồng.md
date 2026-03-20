@@ -51,6 +51,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Phượng Huyền Minh
+        description: Trưởng Lão, bậc tiền bối mà hắn kính trọng, người đánh giá cao hắn nhất trong thế hệ hiện tại
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 60
+          tin: 45
+          so: 0
+          on: 35
 ---
 
 # HỒ SƠ NHÂN VẬT: CÔNG THÁI HỒNG (孔彩虹)
@@ -74,6 +83,7 @@ Công Thái Hồng sở hữu Thất Sắc Vũ Quang Thuật (七色羽光術), 
 - **Phượng Xích Diệm:** Chiến Sĩ, thiếu gia mà hắn phải bảo vệ, đôi khi bực mình vì tính nóng nảy của cậu ta.
 - **Loan Thanh La:** Chiến Sĩ, đồng liêu chiến đấu thường xuyên phối hợp, hắn ngầm cạnh tranh ngôi vị chiến tướng đệ nhất.
 - **Phượng Viêm Phong:** Chiến Sĩ, hậu bối có tiềm năng mà hắn đang âm thầm dìu dắt.
+- **Phượng Huyền Minh:** Trưởng Lão, bậc tiền bối mà hắn kính trọng, người đánh giá cao hắn nhất trong thế hệ hiện tại.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Công Thái Hồng không phải huyết thống phượng hoàng mà thuộc chi công tước, gia nhập Phượng Hỏa Tộc theo lời thề trung thành của tổ tiên từ nhiều đời trước. Từ nhỏ hắn bị các phượng hoàng thuần huyết khinh thường vì xuất thân, phải chiến đấu gấp đôi người khác mới được công nhận. Bước ngoặt cuộc đời là khi hắn một mình chặn đứng cuộc đột kích của Hắc Báo Trại, cứu mạng Phượng Xích và được phong Chiến Tướng. Mục tiêu hiện tại là chứng minh chi công tước xứng đáng đứng ngang hàng với phượng hoàng thuần huyết.

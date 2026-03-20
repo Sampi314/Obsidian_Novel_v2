@@ -24,6 +24,69 @@ arcs:
           tin: -60
           so: 10
           on: -70
+      - character: Thâm Hải
+        description: Cung Chủ tối cao, tuyệt đối phục tùng và sùng bái như thần giáng thế
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 80
+          tin: 70
+          so: 40
+          on: 60
+      - character: Ngư Quỷ Diện
+        description: Đồng liêu, khinh bỉ lối đánh lén lút nhưng phải phối hợp khi có lệnh Cung Chủ
+        feelings:
+          yeu: -20
+          han: 30
+          kinh: -30
+          tin: -20
+          so: 0
+          on: -10
+      - character: Huyết Trùng
+        description: Trưởng Lão Ma Quân, đối thủ tranh quyền trong hội đồng trưởng lão
+        feelings:
+          yeu: -20
+          han: 40
+          kinh: 30
+          tin: -30
+          so: 10
+          on: -40
+      - character: Hắc Nha
+        description: Phó Thống Lĩnh trung thành, thuộc hạ đắc lực sẵn sàng xả thân bảo vệ
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: -10
+          tin: 60
+          so: 0
+          on: 30
+      - character: Thâm Hải Trùng
+        description: Hắc Triều dẫn dắt Thâm Hải Trùng trong Vực Thẳm Ma Cung
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: -10
+          tin: 30
+          so: 0
+          on: 10
+      - character: Thâm Uyên Nữ
+        description: Đồng liêu cùng Vực Thẳm Ma Cung
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 10
+          tin: 20
+          so: 0
+          on: 5
+      - character: Ám Ảnh Ngư
+        description: Đồng liêu cùng Vực Thẳm Ma Cung, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 0
+          tin: 20
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: HẮC TRIỀU (黑潮)

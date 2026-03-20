@@ -70,6 +70,15 @@ arcs:
           tin: 75
           so: 0
           on: 0
+      - character: Ưng Hàn Dực
+        description: Tuần Tra Đội Trưởng mẫn cán, phối hợp mật thiết về quân sự biên cương
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 40
+          tin: 80
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ƯNG TUYẾT PHONG (鷹雪鋒)

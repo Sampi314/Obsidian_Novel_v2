@@ -70,6 +70,24 @@ arcs:
           tin: 45
           so: 0
           on: 0
+      - character: Ưng Băng Phong
+        description: Chiến sĩ chăm chỉ, kẻ quản lý và phân bổ nguồn lực cho lão
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 25
+          tin: 60
+          so: 0
+          on: 0
+      - character: Ưng Đông Sương
+        description: Chiến sĩ to lớn, kẻ kính phục lão dù không hiểu hết lời dạy
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 10
+          tin: 50
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẠC SƯƠNG VŨ (鶴霜羽)
