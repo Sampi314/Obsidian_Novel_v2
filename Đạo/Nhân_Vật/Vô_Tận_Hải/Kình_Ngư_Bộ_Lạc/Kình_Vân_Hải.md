@@ -32,7 +32,9 @@ Cá voi già, nhớ đường di cư vạn năm
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Kình Thiên Hải Vương** (Sư đồ): Kình Thiên Hải Vương chỉ dẫn Kình Vân Hải trong Kình Ngư Bộ Lạc
+- **Kình Thiết Đầu** (Sư đồ): Kình Vân Hải chỉ dẫn Kình Thiết Đầu trong Kình Ngư Bộ Lạc
+- **Kình Tiểu Thanh** (Sư đồ): Kình Vân Hải chỉ dẫn Kình Tiểu Thanh trong Kình Ngư Bộ Lạc
+- **Kình Thiên Hải Vương** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
