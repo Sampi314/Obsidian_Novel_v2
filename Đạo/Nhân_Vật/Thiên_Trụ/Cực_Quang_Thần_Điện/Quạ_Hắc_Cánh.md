@@ -144,6 +144,11 @@ arcs:
     - **Phụ thuộc bóng tối:** Hầu hết kỹ năng của y đều phát huy tối đa trong đêm hoặc môi trường thiếu sáng. Ban ngày hoặc trong vùng ánh sáng mạnh, hiệu quả giảm ít nhất một nửa.
 
 ## VI. QUAN HỆ
+- **Quạ Huyết Dực Ma** (Cấp dưới): Thuộc hạ trung thành nhất, kẻ hắn tự tay huấn luyện từ đứa trẻ mồ côi
+- **Cú Tĩnh Vũ** (Đồng minh): Mưu sĩ cung cấp tình báo cho đội dạ tuần, y kính sợ trí tuệ đáng sợ của hắn
+- **Ưng Thiên Phong** (Đồng minh): Trinh sát đội trưởng, đối tác phối hợp ban ngày — y lo mảng đêm, Thiên Phong lo mảng ngày
+- **Yến Phi** (Sư đồ): Truyền tin viên thường xuyên chuyển mật thư cho đội dạ tuần, y đánh giá cao sự nhanh nhẹn và kín đáo của nàng
+- **Phượng Kim Sí** (Chủ tớ): Tả Hộ Pháp, thượng cấp tối cao trực tiếp ra lệnh cho các nhiệm vụ thanh trừng ban đêm
 - **Quạ Huyết Dực Ma — Ân Nhân & Cấp Trên:**
     - Mối quan hệ quan trọng nhất trong đời Hắc Cánh. Huyết Dực Ma không chỉ cứu mạng y mà còn cho y mục đích, kỹ năng, và chỗ đứng trong thế giới. Y coi Huyết Dực Ma là cha, là thầy, là lý do duy nhất y phục vụ Cực Quang Thần Điện. Sự trung thành của y với thần điện thực chất là sự trung thành với Huyết Dực Ma — nếu Huyết Dực Ma rời đi, y sẽ đi theo mà không cần suy nghĩ.
     - Giữa hai người có một kiểu giao tiếp đặc biệt: gần như không nói chuyện, chỉ gật đầu, ra hiệu bằng tay, và đôi khi — rất hiếm — cùng ngồi uống rượu trên mái Cực Quang Bảo Tháp lúc nửa đêm, nhìn cực quang múa lượn mà không nói một lời. Đó là lúc Hắc Cánh gần nhất với cảm giác "bình yên."
@@ -155,7 +160,6 @@ arcs:
     - Yến Phi là truyền tin viên thường xuyên chuyển mật thư cho đội dạ tuần. Nàng nhanh, kín đáo, và không bao giờ hỏi nội dung thư — đúng phẩm chất y đánh giá cao. Y lặng lẽ bảo vệ nàng trong một vài nhiệm vụ nguy hiểm mà nàng không biết, coi đó là nghĩa vụ — vì nàng cũng nhỏ bé, cũng dễ bị bỏ rơi giữa thế giới tàn khốc này, giống y ngày xưa.
 - **Phượng Kim Sí — Thượng Cấp Đáng Sợ:**
     - Tả Hộ Pháp là người trực tiếp ra lệnh cho các nhiệm vụ thanh trừng ban đêm. Y tuân lệnh tuyệt đối nhưng luôn giữ khoảng cách — đôi mắt tinh thể quang linh thạch của Kim Sí nhìn xuyên qua bóng tối, khiến y — kẻ sống nhờ bóng tối — cảm thấy trần trụi và bất an. Trong mắt y, Kim Sí là "ánh sáng đáng sợ nhất" — không phải vì chói lòa, mà vì nó soi rọi vào nơi y muốn giấu.
-
 ## VII. GIAI THOẠI
 > *"Ngươi có bao giờ nghe tiếng cánh quạ vỗ trong đêm không? Không, ngươi không nghe. Đó là vì Hắc Cánh đã bay qua — và ngươi vẫn còn sống."*
 > — Lời một chiến binh ánh sáng nói với tân binh trong buổi huấn luyện.

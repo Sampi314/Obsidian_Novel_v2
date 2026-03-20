@@ -34,9 +34,13 @@ Là Vũ Hoàng Luyện Hư Sơ Kỳ, Phượng Tiêu kết hợp sức mạnh qu
 - **Cực Quang Vô Tướng:** Hóa thân thành ánh sáng cực quang, y có thể né tránh mọi đòn tấn công vật lý và xuất hiện ở bất cứ đâu trong chớp mắt. Điểm yếu duy nhất là sự kiêu ngạo quá mức, hiếm khi dốc toàn lực ngay từ đầu.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hạc Tường Vân** (Sư đồ): Phượng Tiêu chỉ dẫn Hạc Tường Vân trong Cực Quang Thần Điện
+- **Phượng Thiên Dực** (Đồng minh): Đồng liêu cùng Cực Quang Thần Điện, hỗ trợ lẫn nhau
+- **Phượng Thiên Dực** (Cấp dưới): Phục tùng Phượng Thiên Dực, Đại Trưởng Lão của Cực Quang Thần Điện
+- **Bằng Vạn Lý** (Đồng minh): Đồng liêu cùng Cực Quang Thần Điện
+- **Yến Tiểu Tiểu** (Sư đồ): Phượng Tiêu chỉ dẫn Yến Tiểu Tiểu trong Cực Quang Thần Điện
 - **Phượng Thiên Dực:** (Con trai) Kỳ vọng rất cao nhưng cũng luôn răn đe bản tính hiếu chiến bốc đồng của hắn, xem hắn là thanh gươm sắc bén nhất của Thần Điện.
 - **Phượng Kim Sí:** (Em trai) Người duy nhất Phượng Tiêu hoàn toàn tin tưởng giao phó nhiệm vụ thanh trừng những kẻ dị giáo, dù đôi khi không hài lòng với phương thức tàn bạo của đệ đệ.
 - **Đại Tế Tư Ánh Sáng:** (Thượng cấp/Đối tác) Phục tùng Thánh Nữ và Đại Tế Tư trên danh nghĩa, nhưng luôn ngầm xây dựng thế lực riêng cho Vũ Tộc trong lòng Cực Quang Thần Điện.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra trong hoàng tộc Phượng Hoàng cao quý, Phượng Tiêu từ nhỏ đã bộc lộ thiên phú âm luật kinh người, dùng tiếng tiêu khuất phục muôn loài chim. Tuy nhiên, dã tâm của y không chỉ dừng lại ở bầu trời, y đã dẫn dắt một nhánh Vũ Tộc gia nhập Cực Quang Thần Điện, lợi dụng tín ngưỡng ánh sáng để củng cố quyền lực. Qua hàng trăm năm chinh phạt, y đã đưa dòng họ Phượng trở thành thế lực cốt cán, thao túng quân đội và nắm giữ quyền sinh sát tại Bắc Băng, nuôi mộng một ngày nào đó tiếng tiêu của y sẽ vang vọng khắp Cố Nguyên Lục Địa.
