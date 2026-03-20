@@ -32,9 +32,13 @@ Truyền tin giữa các điểm ẩn náu
 Thành viên của Giao Nhân Tộc Liên Minh, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 鲛天霜·Bản Mệnh (鲛天霜·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Giao Bích Hải:** Dệt Sư, đồng liêu quan trọng nhất trong Giao Nhân Tộc Liên Minh.
-- **Giao Băng Ngọc Tâm:** Trưởng Lão, đối tác thường xuyên phối hợp.
-- **Giao Bạch Lệ Hoa:** Mưu Sĩ, mối quan hệ tin cậy lẫn nhau.
-
+- **Giao Thiên Hải** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Tộc Liên Minh
+- **Giao Thiên Hải** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Thiên Hải
+- **Giao Nguyệt Lệ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Giao Nhân Tộc Liên Minh
+- **Giao Băng Ngọc Tâm** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Giao Nhân Tộc Liên Minh
+- **Giao Thanh Hà Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Tuyết Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Lam Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Tiểu Nguyệt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Giao Thiên Sương vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Giao Nhân Tộc Liên Minh. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Giao Nhân Tộc Liên Minh và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Liên Lạc Viên.

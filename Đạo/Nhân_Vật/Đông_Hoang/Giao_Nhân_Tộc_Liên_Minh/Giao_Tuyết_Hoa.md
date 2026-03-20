@@ -32,9 +32,13 @@ Bảo vệ trẻ sơ sinh Giao Nhân, tỷ lệ sinh cực thấp
 Thành viên của Giao Nhân Tộc Liên Minh, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 鲛雪花·Bản Mệnh (鲛雪花·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Giao Bích Hải:** Dệt Sư, đồng liêu quan trọng nhất trong Giao Nhân Tộc Liên Minh.
-- **Giao Băng Ngọc Tâm:** Trưởng Lão, đối tác thường xuyên phối hợp.
-- **Giao Bạch Lệ Hoa:** Mưu Sĩ, mối quan hệ tin cậy lẫn nhau.
-
+- **Giao Thiên Hải** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Tộc Liên Minh
+- **Giao Thiên Hải** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Thiên Hải
+- **Giao Vân Thiên Hà** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Lam Nguyệt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Thanh Hà Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Lam Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Thiên Sương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Tiểu Nguyệt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Giao Tuyết Hoa sinh ra trong một gia đình Hải Tộc bình thường, sớm thể hiện tư chất phù hợp với Giao Nhân Tộc Liên Minh. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Giao Nhân Tộc Liên Minh và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hộ Sản Sư.
