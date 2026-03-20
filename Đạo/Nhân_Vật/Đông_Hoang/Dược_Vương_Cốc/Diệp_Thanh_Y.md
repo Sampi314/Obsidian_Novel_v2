@@ -57,6 +57,15 @@ arcs:
           tin: 25
           so: 0
           on: 0
+      - character: Hứa Nhược Thủy
+        description: Gia Chủ Sa Dược Hứa Gia, nể phục nhưng không đồng tình cách kinh doanh vô cảm
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 25
+          tin: 20
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: DIỆP THANH Y
@@ -101,6 +110,7 @@ arcs:
 - **Thảo Tâm Linh** (Đồng minh): Y Sư Dược Vương Cốc và Viện Trưởng Dược Thảo, cùng dược
 - **Độc Cô Lão Quái** (Kẻ thù): Kẻ thù
 - **Lục Tiêu** (Đồng minh): Sứ giả Tinh Linh Tộc đến cầu viện chống Huyết Thần Độc
+- **Hứa Nhược Thủy** (Trung lập): Gia Chủ Sa Dược Hứa Gia, nể phục nhưng không đồng tình cách kinh doanh vô cảm
 
 ## V. CÔNG PHÁP & KỸ NĂNG
 1.  **Thanh Nang Trường Sinh Quyết (Thiên Cấp Trung Phẩm):**

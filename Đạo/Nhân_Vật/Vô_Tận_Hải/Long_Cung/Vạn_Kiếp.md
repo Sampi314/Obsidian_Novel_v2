@@ -69,6 +69,15 @@ arcs:
           tin: 25
           so: 0
           on: 0
+      - character: Ngao Đình
+        description: Thái tử thứ 9, hậu bối Long Tộc kiêu ngạo nhưng có tiềm năng
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 0
+          tin: 20
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: VẠN KIẾP (萬劫)

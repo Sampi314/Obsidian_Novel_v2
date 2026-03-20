@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Hứa Nhược Thủy
+        description: Đối thủ cạnh tranh trong Tứ Đại Thương Gia, liên tục giăng bẫy tước đoạt mảng dược liệu
+        feelings:
+          yeu: -20
+          han: 30
+          kinh: 25
+          tin: -40
+          so: 0
+          on: -30
 ---
 
 # HỒ SƠ NHÂN VẬT: CỔ THIÊN LÝ (古千里)

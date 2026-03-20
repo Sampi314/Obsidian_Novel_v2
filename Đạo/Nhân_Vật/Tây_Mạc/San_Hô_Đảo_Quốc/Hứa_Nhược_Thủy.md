@@ -57,6 +57,33 @@ arcs:
           tin: 25
           so: 0
           on: 0
+      - character: Cổ Thiên Lý
+        description: Đối thủ cạnh tranh trong Tứ Đại Thương Gia, luôn tìm cách tước đoạt mảng dược liệu
+        feelings:
+          yeu: -15
+          han: 25
+          kinh: 20
+          tin: -35
+          so: 5
+          on: -25
+      - character: Diệp Thanh Y
+        description: Cốc Chủ Dược Vương Cốc, nể phục y đức nhưng không đồng tình cách cứu người không màng lợi
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 45
+          tin: 35
+          so: 0
+          on: 5
+      - character: Độc Cô Lão Quái
+        description: Khách hàng nguy hiểm nhất, Môn Chủ Vạn Độc Môn, bán độc dược nhưng luôn giữ đường lui
+        feelings:
+          yeu: -10
+          han: 0
+          kinh: 10
+          tin: -30
+          so: 30
+          on: -10
 ---
 
 # HỒ SƠ NHÂN VẬT: HỨA NHƯỢC THỦY

@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Hắc Hạt Ma Trùng
+        description: Mối đe dọa tiềm tàng, Trùng Đế mà hắn từng chứng kiến sức mạnh ở cự ly gần
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: -40
+          so: 80
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TRÙNG ÁM ẢNH (蟲暗影)

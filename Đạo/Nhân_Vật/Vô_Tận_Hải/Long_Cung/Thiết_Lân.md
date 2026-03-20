@@ -64,6 +64,15 @@ arcs:
           tin: 30
           so: 10
           on: 0
+      - character: Ngao Đình
+        description: Thái tử thứ 9, hậu bối kiêu ngạo, đồng liêu cùng Long Cung
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 20
+          tin: 10
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: THIẾT LÂN (鐵鱗)

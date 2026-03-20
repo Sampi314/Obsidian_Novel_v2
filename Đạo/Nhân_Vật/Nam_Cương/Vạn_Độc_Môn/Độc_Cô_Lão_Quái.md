@@ -76,6 +76,15 @@ arcs:
           tin: -60
           so: 0
           on: -80
+      - character: Hứa Nhược Thủy
+        description: Gia Chủ Sa Dược Hứa Gia, nhà cung cấp nguyên liệu luyện độc, khách hàng nguy hiểm
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: -20
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐỘC CÔ LÃO QUÁI

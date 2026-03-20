@@ -56,6 +56,15 @@ arcs:
           tin: 20
           so: 0
           on: 0
+      - character: Hắc Hạt Ma Trùng
+        description: Kẻ thù thiên địch, Trùng Đế tàn phá rừng rậm, mối đe dọa diệt vong cho Tinh Linh Tộc
+        feelings:
+          yeu: -80
+          han: 90
+          kinh: -40
+          tin: -90
+          so: 20
+          on: -90
 ---
 
 # NGUYỆT DAO (月瑤)
@@ -115,6 +124,7 @@ arcs:
 - **Lục Tiêu** (Đồng minh): Queen/mother figure
 - **Diệp Thanh Y** (Đồng minh): Đồng minh bất đắc dĩ, sau thành tri kỷ
 - **Độc Cô Lão Quái** (Kẻ thù): Kẻ thù không đội trời chung
+- **Hắc Hạt Ma Trùng** (Kẻ thù): Trùng Đế tàn phá rừng rậm, mối đe dọa diệt vong cho Tinh Linh Tộc
 
 ## V. CÂU NÓI TIÊU BIỂU
 > *"Nếu ánh trăng đêm nay là lần cuối cùng ta nhìn thấy, nguyện nó sẽ soi đường cho tộc nhân ta thoát khỏi bóng tối vĩnh hằng."*

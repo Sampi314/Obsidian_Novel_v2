@@ -61,6 +61,15 @@ arcs:
           tin: 20
           so: 0
           on: 0
+      - character: Ngao Đình
+        description: Thái tử thứ 9 Long Vương, đồng liêu cùng Long Cung
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 25
+          tin: 15
+          so: 5
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: MINH TRẦM MẶC (冥沉默)

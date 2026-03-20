@@ -56,6 +56,15 @@ arcs:
           tin: 10
           so: 0
           on: 0
+      - character: Hắc Hạt Ma Trùng
+        description: Trùng Đế, kẻ thù thiên địch của Tinh Linh Tộc, mối đe dọa tàn phá rừng già
+        feelings:
+          yeu: -50
+          han: 60
+          kinh: -30
+          tin: -80
+          so: 50
+          on: -70
 ---
 
 # LỤC TIÊU (綠簫)
@@ -111,6 +120,7 @@ arcs:
 ## IV. CÁC MỐI QUAN HỆ
 - **Nguyệt Dao** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tinh Linh Tộc (Vĩnh Hằng Sâm Lâm)
 - **Nguyệt Dao** (Đồng minh): Queen/mother figure
+- **Hắc Hạt Ma Trùng** (Kẻ thù): Trùng Đế, mối đe dọa tàn phá rừng già của Tinh Linh Tộc
 
 ## V. CÂU NÓI TIÊU BIỂU
 > *"Cây có cội, nước có nguồn. Tiếng sáo của ta không phải để giết chóc, mà là tiếng khóc của rừng già vọng về."*

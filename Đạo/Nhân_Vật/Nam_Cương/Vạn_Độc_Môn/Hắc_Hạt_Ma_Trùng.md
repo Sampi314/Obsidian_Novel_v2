@@ -22,6 +22,51 @@ arcs:
           tin: -80
           so: 10
           on: -100
+      - character: Nguyệt Dao
+        description: Kẻ thù thiên địch, Nữ Hoàng Tinh Linh bảo vệ rừng già mà hắn muốn tàn phá
+        feelings:
+          yeu: -60
+          han: 50
+          kinh: -10
+          tin: -70
+          so: 15
+          on: -80
+      - character: Lục Tiêu
+        description: Sứ giả Tinh Linh, con mồi yếu ớt của Tinh Linh Tộc
+        feelings:
+          yeu: -30
+          han: 20
+          kinh: -40
+          tin: -50
+          so: 0
+          on: -40
+      - character: Âu Dương Vô Tích
+        description: Thái Thượng Trưởng Lão Vạn Độc Môn, lão nhân hiểu rõ sức mạnh của hắn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 10
+          tin: -30
+          so: 0
+          on: 0
+      - character: Trùng Ám Ảnh
+        description: Vi trùng từng chứng kiến hoạt động của bầy Ma Trùng, mối đe dọa tiềm tàng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: -50
+          tin: -20
+          so: 0
+          on: 0
+      - character: Trùng Xích Giác
+        description: Kẻ phản bội, cựu Trùng Binh đã thoát khỏi sự kiểm soát của hắn
+        feelings:
+          yeu: -40
+          han: 60
+          kinh: -30
+          tin: -80
+          so: 0
+          on: -60
 ---
 
 # HỒ SƠ NHÂN VẬT: HẮC HẠT MA TRÙNG (黑蝎魔蟲)
@@ -60,6 +105,9 @@ arcs:
 ## 6. QUAN HỆ NHÂN VẬT
 - **Với Lệ Vô Tâm (Vạn Độc Môn):** Quan hệ "cộng sinh" tạm thời nhưng đầy nguy hiểm. Lệ Vô Tâm nuôi dưỡng hắn bằng xác chết và máu, đổi lại mượn lực lượng Trùng Triều để tấn công Cửu Hoa Kiếm Tông. Hắc Hạt Ma Trùng luôn chực chờ cơ hội ăn tươi nuốt sống Lệ Vô Tâm nếu hắn sơ hở.
 - **Với Tinh Linh Tộc (Nguyệt Dao, Lục Tiêu):** Kẻ thù không đội trời chung, thiên địch của tự nhiên. Tinh Linh căm hận lũ trùng tàn phá rừng rậm.
+- **Với Âu Dương Vô Tích (Vạn Độc Môn):** Lão nhân Thái Thượng Trưởng Lão hiểu rõ sức mạnh thực sự của Trùng Đế, duy trì khoảng cách thận trọng.
+- **Với Trùng Ám Ảnh (Vi Trùng Trinh Sát Đội):** Vi trùng duy nhất từng chứng kiến hoạt động của bầy Ma Trùng ở cự ly gần, mối đe dọa tiềm tàng cho lãnh thổ Vi Tộc.
+- **Với Trùng Xích Giác (Phản Sào Trùng Quần):** Kẻ phản bội, cựu Trùng Binh đã thoát khỏi sự kiểm soát tâm trí của hắn và kéo theo nhiều cá thể khác nổi loạn.
 - **Với Vũ Tộc:** Khắc tinh sợ hãi, vì Vũ Tộc chuyên trị côn trùng từ trên không. Hắc Hạt luôn tránh né giao tranh trực diện với Vũ Tộc.
 
 ## 7. LỊCH SỬ & CỐT TRUYỆN (Tiểu Sử)

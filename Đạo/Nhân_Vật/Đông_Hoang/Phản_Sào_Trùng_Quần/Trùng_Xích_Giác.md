@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Hắc Hạt Ma Trùng
+        description: Cựu chủ nhân, Trùng Đế mà hắn đã thoát khỏi sự kiểm soát tâm trí, kẻ thù không đội trời chung
+        feelings:
+          yeu: -80
+          han: 90
+          kinh: 0
+          tin: -100
+          so: 60
+          on: -100
 ---
 
 # HỒ SƠ NHÂN VẬT: TRÙNG XÍCH GIÁC (蟲赤角)
