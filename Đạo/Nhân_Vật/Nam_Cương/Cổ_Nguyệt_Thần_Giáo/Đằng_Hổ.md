@@ -27,19 +27,19 @@ arcs:
       - character: Sơn Mãng
         description: Chiến Sĩ Đồ Đằng, đàn em mà ông rất quý mến và thường kéo đi uống rượu
         feelings:
-          yeu: 0
+          yeu: 35
           han: 0
           kinh: 0
-          tin: 0
+          tin: 55
           so: 0
           on: 0
       - character: Đằng Thanh
         description: Đệ Tử Đồ Đằng, sư điệt mà ông thường xuyên rèn luyện bằng phương pháp thô bạo nhưng hiệu quả
         feelings:
-          yeu: 0
+          yeu: 40
           han: 0
           kinh: 0
-          tin: 0
+          tin: 45
           so: 0
           on: 0
       - character: Tuyết Nguyệt
