@@ -39,7 +39,7 @@ arcs:
 ## IV. CÁC MỐI QUAN HỆ
 - **Thạch Tiểu Sơn (Đoàn Trưởng):** Chiến hữu lâu năm nhất trong Lạc Đoàn. Nham Bán Thân phò tá Thạch Tiểu Sơn từ khi Đoàn mới thành lập đời thứ ba, là cánh tay phải đáng tin cậy nhất dù ít khi bày tỏ ý kiến.
 - **Sơn Tiểu Nhi:** Cháu ruột của một đồng tộc đã mất. Nham Bán Thân âm thầm trông nom đứa trẻ như cha, dù không bao giờ nói ra miệng.
-- **Thạch Nói Đá:** Quan tâm đặc biệt đến năng lực kỳ lạ của cậu thiếu niên này, thường xuyên đưa hắn đi ra các mỏ đá để thử nghiệm khả năng giao tiếp với đá.
+- **Thạch Ngữ Linh:** Quan tâm đặc biệt đến năng lực kỳ lạ của cậu thiếu niên này, thường xuyên đưa hắn đi ra các mỏ đá để thử nghiệm khả năng giao tiếp với đá.
 - **Sương Thạch Nhi** (Đồng minh): Trưởng lão Tuyết Cự Nhân Lạc Đoàn, từng ghé xưởng trao đổi kinh nghiệm — Thạch Nhi ngưỡng mộ vì ông là Cự Tộc sống tự do
 
 ## V. TIỂU SỬ & HÀNH TRÌNH

@@ -696,7 +696,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Thủy Tinh Thạch Phường (Tây Mạc):** Hoàn thiện hồ sơ chi tiết cho Phường Chủ Tinh Minh, cùng 2 Thợ Cả là Tinh Sắc và Tinh Thấu. Phe phái Thạch Tộc này hiện đang chịu sự áp bức của Thiên Sa Thương Hội và đang tìm cách thoát khỏi sự kìm kẹp.
 
 ### Cổ Thạch Bộ Lạc (Thiên Trụ & Tây Mạc)
-- Thiên Trụ - Bổ sung chi tiết: **Thạch Cửu Sơn** (Tộc Trưởng khổng lồ, điềm tĩnh, Bất Diệt Thạch Thể), **Thạch Lôi Chùy** (Chiến tướng nghiêm nghị, sử dụng búa vạn cân), **Thạch Lôi** (Chiến sĩ trẻ tuổi, thân đầy lôi điện, nhiệt huyết sôi nổi).
+- Thiên Trụ - Bổ sung chi tiết: **Thạch Cửu Sơn** (Tộc Trưởng khổng lồ, điềm tĩnh, Bất Diệt Thạch Thể), **Thạch Lôi Chấn** (Chiến tướng nghiêm nghị, sử dụng búa vạn cân), **Thạch Lôi** (Chiến sĩ trẻ tuổi, thân đầy lôi điện, nhiệt huyết sôi nổi).
 - Tây Mạc - Bổ sung chi tiết: **Ngọc Thạch** (Trưởng Lão ngọc bích trang nghiêm, trí tuệ), **Nham Phong** (Trưởng Lão nham thạch đen hiếu chiến, sức mạnh pháo đài sống), **Nham Trầm** (Trưởng Lão sa thạch kết khối trầm mặc, bậc thầy thao túng địa hình).
 
 ### Lôi Trì Thánh Địa (Thiên Trụ)

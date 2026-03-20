@@ -36,7 +36,7 @@ arcs:
           tin: 90
           so: 0
           on: 20
-      - character: Thạch Nói Đá
+      - character: Thạch Ngữ Linh
         description: Cự Tộc trẻ sở hữu huyết mạch Thạch Linh, bằng chứng sống cho giả thuyết tiến hóa
         feelings:
           yeu: 55
@@ -98,10 +98,10 @@ arcs:
     - **Trí Tuệ Bù Thể Phách (智):** Hắn sinh ra nhỏ hơn đồng tộc — không thể thắng bằng sức mạnh thuần túy như Cự Tộc truyền thống. Hắn bù đắp bằng trí tuệ: học hỏi kỹ thuật thở của Nhân Tộc để cải thiện tu luyện, phát triển Thạch Quyền Tam Thức tận dụng tốc độ thay vì lực, thiết lập quan hệ ngoại giao với Băng Sơn Thợ Đá và Bán Cự Nhân Hội để bảo vệ đoàn. Trong thế giới Cự Tộc "to là mạnh," hắn chứng minh rằng "khôn cũng sống."
     - **Ám Ảnh Chứng Minh (證):** Mọi thứ hắn làm đều nhằm chứng minh một điều: Cự Tộc nhỏ không phải thoái hóa. Giả thuyết tiến hóa không chỉ là lý thuyết khoa học — nó là lẽ sống, là lý do tồn tại, là câu trả lời cho câu hỏi "vì sao chúng ta bị sinh ra nhỏ bé?" Nếu giả thuyết này đúng, hai mươi tám tộc nhân sẽ từ "tàn phế bị trục xuất" trở thành "tiên phong của hướng tiến hóa mới." Nếu sai, họ mãi mãi chỉ là đám dị tật.
     - **Gánh Nặng Và Cô Đơn (孤):** Hắn là Đoàn Trưởng — mọi quyết định đều phải đưa ra một mình. Nham Bán Thân là cánh tay phải đáng tin nhưng ít nói, không phải người bàn bạc. Trẻ nhỏ cần bảo vệ, chiến binh cần chỉ huy, dân thường cần an ủi — không ai hỏi hắn có mệt không, có sợ không, có muốn bỏ cuộc không. Hắn gánh tất cả một mình, bên ngoài trầm tĩnh, bên trong kiệt sức.
-    - **Bảo Vệ Trẻ Nhỏ Bằng Mọi Giá (育):** Trẻ nhỏ Cự Tộc trong đoàn — Sơn Tiểu Nhi, Thạch Nói Đá, và bốn đứa khác — là ưu tiên tuyệt đối. Hắn chấp nhận để chiến binh thiếu ăn nhưng không bao giờ để trẻ nhỏ thiếu. Hắn dành thời gian mỗi tối kể chuyện cho đám trẻ, dạy chúng đục đá, và quan trọng nhất — dạy chúng tự hào về thân hình nhỏ bé của mình. *"Các con không lùn — các con là Cự Nhân Thời Sơ Khai. Tổ tiên chúng ta cũng nhỏ thế này — và họ mạnh nhất thiên hạ."*
+    - **Bảo Vệ Trẻ Nhỏ Bằng Mọi Giá (育):** Trẻ nhỏ Cự Tộc trong đoàn — Sơn Tiểu Nhi, Thạch Ngữ Linh, và bốn đứa khác — là ưu tiên tuyệt đối. Hắn chấp nhận để chiến binh thiếu ăn nhưng không bao giờ để trẻ nhỏ thiếu. Hắn dành thời gian mỗi tối kể chuyện cho đám trẻ, dạy chúng đục đá, và quan trọng nhất — dạy chúng tự hào về thân hình nhỏ bé của mình. *"Các con không lùn — các con là Cự Nhân Thời Sơ Khai. Tổ tiên chúng ta cũng nhỏ thế này — và họ mạnh nhất thiên hạ."*
 - **Đạo Tâm:** **"Nhỏ không phải hèn. Nhỏ là về nguồn."**
     - Thạch Tiểu Sơn tin rằng Cự Tộc thể nhỏ không phải thoái hóa mà là tiến hóa quay về nguồn cội — thời Cự Nhân Thời Sơ Khai, Cự Tộc chỉ cao bằng Nhân Tộc nhưng sở hữu sức mạnh vô song và trí tuệ vượt trội. Đạo tâm này là nền tảng cho mọi thứ hắn xây dựng — nếu nó đúng, Lạc Đoàn là tương lai; nếu sai, Lạc Đoàn chỉ là quá khứ chết dần.
-    - Đạo tâm vững vàng nhưng đang bị thử thách: mảnh bích họa cổ chỉ là bằng chứng yếu, truyền thuyết có thể bịa, và Tuyết Cự Nhân Đảo vẫn mạnh mẽ — "to là mạnh" vẫn là sự thật trong thực tế, dù hắn ghét nó. Hắn cần thêm bằng chứng, cần thêm thời gian, và cần Thạch Nói Đá — đứa trẻ duy nhất có năng lực Thạch Linh thượng cổ, bằng chứng sống cho giả thuyết tiến hóa.
+    - Đạo tâm vững vàng nhưng đang bị thử thách: mảnh bích họa cổ chỉ là bằng chứng yếu, truyền thuyết có thể bịa, và Tuyết Cự Nhân Đảo vẫn mạnh mẽ — "to là mạnh" vẫn là sự thật trong thực tế, dù hắn ghét nó. Hắn cần thêm bằng chứng, cần thêm thời gian, và cần Thạch Ngữ Linh — đứa trẻ duy nhất có năng lực Thạch Linh thượng cổ, bằng chứng sống cho giả thuyết tiến hóa.
 
 ## IV. LỊCH SỬ & XUẤT THÂN
 - **Xuất Thân — Tuyết Cự Nhân Đảo:**
@@ -116,14 +116,14 @@ arcs:
         - *Một*, thiết lập quan hệ trao đổi với Băng Sơn Thợ Đá — đổi kỹ thuật đục đá và nhân lực lấy thực phẩm, da thú, và dụng cụ kim loại.
         - *Hai*, tìm được đồng minh nơi Bán Cự Nhân Hội — nhóm Cự Tộc lai máu bị cả hai bên thuần huyết khinh bỉ, cùng cảnh ngộ nên dễ kết giao.
         - *Ba*, phát triển phương pháp tu luyện lai — kết hợp hấp thu linh khí qua huyết mạch Cự Tộc với kỹ thuật thở của Nhân Tộc, cải thiện đáng kể sức chiến đấu cho Đội Chiến Binh.
-    - Dân số tăng từ mười lăm lên hai mươi tám khi đoàn tiếp nhận thêm những Cự Tộc nhỏ bị bộ lạc khác ruồng bỏ — bao gồm Nham Bán Thân, Thạch Nói Đá, và sau đó là Sơn Tiểu Nhi (sinh ra trong đoàn).
-    - Quan trọng nhất: hắn phát hiện giả thuyết tiến hóa. Khi đào mở rộng hang kho, đoàn tìm thấy lớp đá mịn màng ở sâu bên dưới — bằng chứng cho thấy hang này có thể từng được Cự Tộc thượng cổ sử dụng. Kết hợp với Bích Họa Cổ Phiến và truyền thuyết kể bên lửa trại, hắn dần dần xây dựng giả thuyết rằng Cự Tộc nhỏ đang "quay về nguồn cội." Sự xuất hiện của Thạch Nói Đá với năng lực Thạch Linh thượng cổ đã thất truyền — năng lực chỉ có ở "Cự Nhân Thời Sơ Khai" theo truyền thuyết — càng củng cố niềm tin này.
+    - Dân số tăng từ mười lăm lên hai mươi tám khi đoàn tiếp nhận thêm những Cự Tộc nhỏ bị bộ lạc khác ruồng bỏ — bao gồm Nham Bán Thân, Thạch Ngữ Linh, và sau đó là Sơn Tiểu Nhi (sinh ra trong đoàn).
+    - Quan trọng nhất: hắn phát hiện giả thuyết tiến hóa. Khi đào mở rộng hang kho, đoàn tìm thấy lớp đá mịn màng ở sâu bên dưới — bằng chứng cho thấy hang này có thể từng được Cự Tộc thượng cổ sử dụng. Kết hợp với Bích Họa Cổ Phiến và truyền thuyết kể bên lửa trại, hắn dần dần xây dựng giả thuyết rằng Cự Tộc nhỏ đang "quay về nguồn cội." Sự xuất hiện của Thạch Ngữ Linh với năng lực Thạch Linh thượng cổ đã thất truyền — năng lực chỉ có ở "Cự Nhân Thời Sơ Khai" theo truyền thuyết — càng củng cố niềm tin này.
 - **Gần Đây — "Phiến Đá Thư" (năm 79 tuổi):**
     - Một con chim tuyết mang theo phiến đá nhỏ có khắc ký hiệu Tuyết Cự Nhân Đảo bay đến khu định cư. Nội dung: *"Trưởng Lão Thạch Nham Cổ gửi lời xin lỗi Lạc Đoàn. Đảo đang gặp khó. Mong đàm phán."* — Tiểu Sơn đọc đi đọc lại mười lần, không biết đây là thiện chí thật hay bẫy dụ quay lại để diệt gọn. Hắn giấu phiến đá trong túi, chưa trả lời, chưa cho đoàn biết.
 - **Chiến Tích:**
     - **Năm 45 tuổi — "Đấm Vỡ Tuyết Lở":** Một trận tuyết lở khổng lồ đe dọa chôn vùi hang chính. Tiểu Sơn đứng trước cửa hang, dùng Thạch Quyền Tam Thức đấm liên tục vào khối tuyết lở — ba chiêu lặp đi lặp lại hàng trăm lần, đấm vỡ khối tuyết thành mảnh nhỏ trước khi nó đổ ập xuống. Tay hắn gãy mười bốn chỗ, nhưng hang không sập.
     - **Năm 55 tuổi — "Hiệp Ước Với Băng Sơn Thợ Đá":** Tiểu Sơn một mình đi bộ ba ngày đến lãnh thổ Băng Sơn Thợ Đá — một hành trình nguy hiểm qua vùng yêu thú — để đề nghị hợp tác. Ban đầu Thợ Đá từ chối vì không tin Cự Tộc nhỏ có kỹ thuật đục đá giỏi. Tiểu Sơn thách thức: cho hắn một phiến đá, hắn sẽ đục thành tượng trong một ngày. Hắn đục suốt đêm, hoàn thành bức tượng Cự Nhân chi tiết đến từng đường gân — Thợ Đá kinh ngạc, ký hiệp ước ngay hôm sau.
-    - **Năm 70 tuổi — "Bảo Vệ Thạch Nói Đá":** Khi tin đồn về đứa trẻ "nói chuyện với đá" lan đến tai một nhóm tán tu tìm kiếm huyết mạch quý hiếm, ba tu sĩ Trúc Cơ đến khu định cư đòi mang Thạch Nói Đá đi "nghiên cứu." Tiểu Sơn một mình chặn cửa hang, nói: *"Muốn lấy đứa trẻ, bước qua xác ta."* Ba tu sĩ đánh giá thấp Cự Tộc nhỏ — kết quả, hai bị đánh gục bởi Thạch Quyền Tam Thức, một bỏ chạy. Từ đó, hắn giữ bí mật về Thạch Nói Đá kỹ hơn bao giờ hết.
+    - **Năm 70 tuổi — "Bảo Vệ Thạch Ngữ Linh":** Khi tin đồn về đứa trẻ "nói chuyện với đá" lan đến tai một nhóm tán tu tìm kiếm huyết mạch quý hiếm, ba tu sĩ Trúc Cơ đến khu định cư đòi mang Thạch Ngữ Linh đi "nghiên cứu." Tiểu Sơn một mình chặn cửa hang, nói: *"Muốn lấy đứa trẻ, bước qua xác ta."* Ba tu sĩ đánh giá thấp Cự Tộc nhỏ — kết quả, hai bị đánh gục bởi Thạch Quyền Tam Thức, một bỏ chạy. Từ đó, hắn giữ bí mật về Thạch Ngữ Linh kỹ hơn bao giờ hết.
 
 ## V. KỸ NĂNG & TRANG BỊ
 - **Sở Trường:**
@@ -150,13 +150,13 @@ arcs:
 ## VI. QUAN HỆ
 - **Nham Bán Thân — Phó Đoàn & Chiến Hữu:**
     - Nham Bán Thân theo hắn từ khi Lạc Đoàn mới có mười lăm người. Hai kẻ ít nói nhất đoàn lại hiểu nhau nhất — Tiểu Sơn lên kế hoạch, Bán Thân thực hiện; Tiểu Sơn suy nghĩ, Bán Thân hành động. Họ không cần nói nhiều — một cái gật đầu là đủ. Hắn biết Bán Thân sẽ chết vì đoàn không do hắn ra lệnh mà vì Bán Thân tự chọn — và chính vì vậy hắn sợ mất Bán Thân hơn bất kỳ ai.
-- **Thạch Nói Đá — Hy Vọng Và Gánh Nặng:**
-    - Đứa trẻ sở hữu huyết mạch Thạch Linh thượng cổ — bằng chứng sống cho giả thuyết tiến hóa, và cũng là mục tiêu mà mọi thế lực thèm muốn nếu biết tin. Hắn bảo vệ Thạch Nói Đá bằng mạng sống, đồng thời dẫn dắt đứa trẻ phát triển năng lực — nhưng hắn cũng sợ rằng mình đang đặt gánh nặng quá lớn lên vai một đứa trẻ chưa đủ lớn để hiểu.
+- **Thạch Ngữ Linh — Hy Vọng Và Gánh Nặng:**
+    - Đứa trẻ sở hữu huyết mạch Thạch Linh thượng cổ — bằng chứng sống cho giả thuyết tiến hóa, và cũng là mục tiêu mà mọi thế lực thèm muốn nếu biết tin. Hắn bảo vệ Thạch Ngữ Linh bằng mạng sống, đồng thời dẫn dắt đứa trẻ phát triển năng lực — nhưng hắn cũng sợ rằng mình đang đặt gánh nặng quá lớn lên vai một đứa trẻ chưa đủ lớn để hiểu.
 - **Sơn Tiểu Nhi — Tương Lai Của Lạc Đoàn:**
     - Đứa trẻ đầu tiên sinh ra trong Lạc Đoàn — biểu tượng cho sự sống mới, cho tương lai. Hắn coi Tiểu Nhi như cháu ruột — dạy đứa trẻ đục đá, kể chuyện tổ tiên, và lặng lẽ vui mừng mỗi khi thấy nó dùng năng lực Nham Thạch Ôn Nhu làm mềm đá — một năng lực chưa từng thấy, thêm bằng chứng cho giả thuyết tiến hóa.
 - **Tuyết Cự Nhân Đảo — Quê Hương & Kẻ Thù:**
     - Phức tạp. Hắn oán hận Đảo vì trục xuất hắn và tất cả những kẻ "không đủ lớn." Nhưng hắn cũng nhớ — nhớ mùi đá trên Đảo, nhớ tiếng gió qua vách băng khổng lồ, nhớ bóng dáng cha mẹ đứng trên bến đá nhìn hắn bơi đi. Bức thư gần đây khiến mọi thứ thêm phức tạp — nếu Đảo thực sự cần giúp đỡ, hắn có nên giúp kẻ đã ruồng bỏ mình không? Và nếu giúp, cái giá là gì?
-- **Nham Cự Lực** (Sư phụ): Đoàn Trưởng Lạc Đoàn, trưởng bối đã dạy hắn cách sống giữa băng giá
+- **Nham Hùng Bách** (Sư phụ): Đoàn Trưởng Lạc Đoàn, trưởng bối đã dạy hắn cách sống giữa băng giá
 - **Thạch Khai Sơn** (Sư phụ): Đoàn Trưởng Tuyết Cự Nhân Lạc Đoàn, cha nuôi, người đã dạy hắn mọi thứ từ nhỏ
 - **Thạch Thiết Chùy** (Đồng minh): Đoàn Trưởng Lạc Đoàn, bác nuôi, người lặng lẽ trao cho hắn trách nhiệm kìm hãm Khai Sơn
 - **Sơn Lực** (Đồng minh): Bạn thân nhất, Thạch Tộc, đồng lứa, anh em bạn bè
@@ -170,4 +170,4 @@ arcs:
 
 - **Truyền Thuyết "Tượng Sụp, Tượng Dựng":** Mỗi mùa đông, Lạc Đoàn xếp đá thành tượng tổ tiên cao hai mươi trượng — rồi mặc cho bão tuyết xói mòn suốt mùa đông, để tượng sụp đổ khi mùa xuân đến. Khi tượng sụp, Tiểu Sơn đứng nhìn im lặng, rồi quay sang đám trẻ nói: *"Tượng sụp rồi. Mùa đông sau, ta dựng lại. Cứ sụp cứ dựng — đó là cách Cự Tộc sống."* Dân Băng Sơn Thợ Đá nghe câu chuyện này, kính phục đến mức từ đó luôn gọi hắn bằng kính xưng — dù hắn nhỏ hơn họ.
 
-- **Lời Đồn "Tiểu Sơn Vương Đọc Đá":** Tộc nhân trong đoàn nói rằng Tiểu Sơn có thể "đọc" lịch sử một phiến đá chỉ bằng cách sờ — biết nó bao nhiêu tuổi, đã chịu bao nhiêu trận bão, từng nằm ở đâu trước khi được mang về khu định cư. Sự thật là hắn không có năng lực siêu nhiên như Thạch Nói Đá — hắn chỉ có kinh nghiệm sáu mươi năm đục đá và quan sát thạch học. Nhưng với đám trẻ, sự khác biệt giữa "kinh nghiệm" và "phép thuật" không quan trọng — Đoàn Trưởng của chúng đọc được đá, và đó là điều tuyệt vời nhất thế giới.
+- **Lời Đồn "Tiểu Sơn Vương Đọc Đá":** Tộc nhân trong đoàn nói rằng Tiểu Sơn có thể "đọc" lịch sử một phiến đá chỉ bằng cách sờ — biết nó bao nhiêu tuổi, đã chịu bao nhiêu trận bão, từng nằm ở đâu trước khi được mang về khu định cư. Sự thật là hắn không có năng lực siêu nhiên như Thạch Ngữ Linh — hắn chỉ có kinh nghiệm sáu mươi năm đục đá và quan sát thạch học. Nhưng với đám trẻ, sự khác biệt giữa "kinh nghiệm" và "phép thuật" không quan trọng — Đoàn Trưởng của chúng đọc được đá, và đó là điều tuyệt vời nhất thế giới.

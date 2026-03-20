@@ -66,7 +66,7 @@
 
 ## Hoàng Sa Cổ Quốc (黄沙古国) — 1
 
-- [Hỏa Nham Đại Tướng (火岩大將)](Hoàng_Sa_Cổ_Quốc/Hỏa_Nham_Đại_Tướng.md)
+- [Hỏa Nham Uy (火岩威)](Hoàng_Sa_Cổ_Quốc/Hỏa_Nham_Uy.md)
 
 ## Hoàng Sa Di Dân (黄沙移民) — 4
 
@@ -350,7 +350,7 @@
 - [Lý Thủy Nguyên (李水源)](Thủy_Nguồn_Bảo_Vệ_Đoàn/Lý_Thủy_Nguyên.md)
 - [Nguyễn Hướng Tuyền (阮向泉)](Thủy_Nguồn_Bảo_Vệ_Đoàn/Nguyễn_Hướng_Tuyền.md)
 - [Phạm Tụ Thủy (范聚水)](Thủy_Nguồn_Bảo_Vệ_Đoàn/Phạm_Tụ_Thủy.md)
-- [Sơn Thủ Hộ (山守护)](Thủy_Nguồn_Bảo_Vệ_Đoàn/Sơn_Thủ_Hộ.md)
+- [Sơn Minh Hà (山明河)](Thủy_Nguồn_Bảo_Vệ_Đoàn/Sơn_Minh_Hà.md)
 - [Trần Thanh Lương (陈清凉)](Thủy_Nguồn_Bảo_Vệ_Đoàn/Trần_Thanh_Lương.md)
 - [Đặng Tuần Sa (邓巡沙)](Thủy_Nguồn_Bảo_Vệ_Đoàn/Đặng_Tuần_Sa.md)
 
@@ -376,7 +376,7 @@
 - [Khô Giáp Lão (枯甲老)](Tán_Tu/Khô_Giáp_Lão.md)
 - [Oanh Minh Sa (鶯鳴沙)](Tán_Tu/Oanh_Minh_Sa.md)
 - [Phi Hoàng (飛蝗)](Tán_Tu/Phi_Hoàng.md)
-- [Phong Sa Cuồng Nhân (風沙狂人)](Tán_Tu/Phong_Sa_Cuồng_Nhân.md)
+- [Phong Sa Liệt (风沙烈)](Tán_Tu/Phong_Sa_Liệt.md)
 - [Phượng Thiêu Dực (鳳燒翼)](Tán_Tu/Phượng_Thiêu_Dực.md)
 - [Tước Hoàng Sa (雀荒沙)](Tán_Tu/Tước_Hoàng_Sa.md)
 - [Ưng Hoang Dã (鷹荒野)](Tán_Tu/Ưng_Hoang_Dã.md)

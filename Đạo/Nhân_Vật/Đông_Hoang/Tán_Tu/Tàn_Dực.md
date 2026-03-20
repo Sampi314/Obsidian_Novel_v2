@@ -38,9 +38,9 @@ Tàn Dực sở hữu Tàn Dực Phệ Linh Thuật (殘翼噬靈術) — hấp 
 - **Lâm Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
 - **Ưng Dã Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
 - **Lâm Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
-- **Hắc Thiết Giáp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Hắc Thiết Nham** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Ưng Nham Trảo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
-- **Hoang Sơn Ẩn Sĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Hoang Sơn Mặc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Quạ Hắc Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Tàn Dực nguyên là chiến binh Trùng Tộc phục vụ Vạn Trùng Cốc, nhưng trong một đợt Trùng Triều, y bị Trùng Mẫu bỏ rơi làm vật hy sinh. Thoát chết với đôi cánh tàn phế, y thề không bao giờ phục tùng bất kỳ Trùng Mẫu nào nữa. Trở thành tán tu, y sống bằng cách săn yêu thú và bán giáp xác trùng. Mang trong mình nỗi hận với Vạn Trùng Cốc, y âm thầm tích lũy sức mạnh để trả thù.

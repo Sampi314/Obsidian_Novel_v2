@@ -33,19 +33,19 @@ Cuồng Nham là Cự Tộc cao hơn mười trượng, toàn thân phủ đá m
 Cuồng Nham sở hữu Nham Dung Bạo Liệt Quyền (岩熔暴烈拳) — mỗi cú đấm mang theo sức nóng dung nham, có thể nấu chảy giáp sắt và thiêu đốt linh lực hộ thể của đối thủ. Ngoài ra, y có thể kích hoạt Dung Nham Thân (熔岩身), biến toàn bộ cơ thể thành đá nóng chảy trong thời gian ngắn. Là tán tu mạnh nhất trong số Cự Tộc lang bạt tại Đông Hoang.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hắc Thiết Giáp** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
+- **Hắc Thiết Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
 - **Tàn Dực** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
 - **Ưng Nham Trảo** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
-- **Hoang Sơn Ẩn Sĩ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
+- **Hoang Sơn Mặc** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
 - **Quạ Hắc Dạ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
 - **Liệt Quyền** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
 - **Tước Lâm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
 - **Ưng Dã Phong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
 - **Lâm Phong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
-- **Hắc Thiết Giáp** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
+- **Hắc Thiết Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
 - **Tàn Dực** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
 - **Ưng Nham Trảo** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
-- **Hoang Sơn Ẩn Sĩ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
+- **Hoang Sơn Mặc** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
 - **Quạ Hắc Dạ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
 - **Liệt Quyền** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
 - **Tước Lâm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham

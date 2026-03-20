@@ -36,7 +36,7 @@ arcs:
           tin: 80
           so: 0
           on: 10
-      - character: Phụ Sơn Lão
+      - character: Sa Trọng Đức
         description: Đội trưởng Cự Tộc Phu Khuân Vác, đối tác vận chuyển-xây dựng lâu năm
         feelings:
           yeu: 10
@@ -89,9 +89,9 @@ arcs:
 
 ## II. NGOẠI HÌNH & KHÍ CHẤT
 - **Dung Mạo:**
-    - Cao 14m, thân hình rắn chắc như tháp đá — không phải kiểu cơ bắp cuồn cuộn của chiến binh mà là kiểu nặng nề, dày đặc, mỗi khối cơ đều đúng vị trí phục vụ cho việc nâng đá, xếp đá, đập đá. Vai rộng, lưng thẳng tắp (khác Phụ Sơn Lão), ngực dày, eo hẹp — tỷ lệ cơ thể gần hoàn hảo cho một Cự Tộc, như thể chính tạo hóa đã "thiết kế" y để xây dựng.
+    - Cao 14m, thân hình rắn chắc như tháp đá — không phải kiểu cơ bắp cuồn cuộn của chiến binh mà là kiểu nặng nề, dày đặc, mỗi khối cơ đều đúng vị trí phục vụ cho việc nâng đá, xếp đá, đập đá. Vai rộng, lưng thẳng tắp (khác Sa Trọng Đức), ngực dày, eo hẹp — tỷ lệ cơ thể gần hoàn hảo cho một Cự Tộc, như thể chính tạo hóa đã "thiết kế" y để xây dựng.
     - Khuôn mặt góc cạnh sắc nét như được đục đẽo từ đá granite — gò má cao, hàm vuông, trán rộng, mũi thẳng. Khác với vẻ thô kệch của phần lớn Cự Tộc, nét mặt Vạn Quân mang vẻ cứng cỏi nhưng có chiều sâu — những đường nét chỉn chu, cân đối, như chính y đã vô thức tự "xây dựng" khuôn mặt mình theo tỷ lệ hoàn hảo mà y theo đuổi trong công trình.
-    - Da sẫm màu như đá bazan, bề mặt thô ráp nhưng đều đặn — không nứt nẻ như Phụ Sơn Lão, mà mịn màng một cách kỳ lạ, như mặt đá đã được mài nhẵn. Trên hai cánh tay, từ cổ tay đến khuỷu, có những đường vân tự nhiên chạy theo hình xoắn ốc — đó là kết quả của hàng trăm năm linh lực Thổ hệ tuần hoàn qua tay khi xây dựng, đã in dấu lên da thịt thành hoa văn vĩnh viễn, trông giống vân gỗ hóa thạch.
+    - Da sẫm màu như đá bazan, bề mặt thô ráp nhưng đều đặn — không nứt nẻ như Sa Trọng Đức, mà mịn màng một cách kỳ lạ, như mặt đá đã được mài nhẵn. Trên hai cánh tay, từ cổ tay đến khuỷu, có những đường vân tự nhiên chạy theo hình xoắn ốc — đó là kết quả của hàng trăm năm linh lực Thổ hệ tuần hoàn qua tay khi xây dựng, đã in dấu lên da thịt thành hoa văn vĩnh viễn, trông giống vân gỗ hóa thạch.
     - Đôi tay là bộ phận ấn tượng nhất: to bằng thớt đá nhưng ngón tay dài, linh hoạt, mỗi đốt ngón tay đều rắn chắc nhưng có thể cử động với độ chính xác phi thường. Khi y nắm viên đá, ngón tay tự nhiên tìm đúng điểm trọng tâm — bản năng của kẻ đã xếp hàng triệu viên đá trong đời. Đầu ngón tay có lớp chai mỏng nhưng cứng như thép, được mài bóng bởi bề mặt đá.
 - **Trang Phục:**
     - Mặc áo choàng không tay bằng da Sơn Ngưu, nhuộm màu xám đá — y thích màu xám vì "đá là xám, ta xây bằng đá, mặc màu đá." Áo cắt gọn gàng, không thừa vải, không vướng víu — thực dụng tuyệt đối. Trên ngực áo khắc hoa văn hình viên đá xếp chồng — gia huy Cự Tộc Thợ Xây do y tự thiết kế.
@@ -100,7 +100,7 @@ arcs:
     - Tay trái đeo một bao da — bên trong là Kiến Trúc Sư Thủ Sáo, đôi găng tay đá mỏng bảo vệ ngón tay khi xây dựng, đồng thời khuếch đại khả năng Định Hình của linh căn.
 - **Khí Chất:**
     - Trầm ổn, nghiêm túc, có phần cầu toàn — ánh mắt lúc nào cũng quan sát kết cấu xung quanh: nhìn bức tường thì thấy đá xếp có đều không, nhìn nền đất thì thấy chịu tải được bao nhiêu, nhìn vách đá thì thấy nên đục chỗ nào. Y không thể ngừng phân tích — ngay cả khi nghỉ ngơi, bộ não vẫn tự động "xây" trong đầu.
-    - Nói ít, hành động nhiều — giống Phụ Sơn Lão nhưng lý do khác: lão ít nói vì bản tính trầm mặc, Vạn Quân ít nói vì đang bận nghĩ. Khi y trầm ngâm, ai cũng biết y đang thiết kế — mắt nhìn vào không trung, ngón tay vô thức vẽ trên mặt đá. Khi y mở miệng, câu nói luôn đi kèm bản vẽ trên đất — y vẽ giỏi hơn nói.
+    - Nói ít, hành động nhiều — giống Sa Trọng Đức nhưng lý do khác: lão ít nói vì bản tính trầm mặc, Vạn Quân ít nói vì đang bận nghĩ. Khi y trầm ngâm, ai cũng biết y đang thiết kế — mắt nhìn vào không trung, ngón tay vô thức vẽ trên mặt đá. Khi y mở miệng, câu nói luôn đi kèm bản vẽ trên đất — y vẽ giỏi hơn nói.
     - Toát ra mùi bụi đá mịn — mùi granite, mùi đá bazan, mùi đất sét nung — hỗn hợp mùi của nguyên vật liệu xây dựng đã thấm vào da thịt y. Tu sĩ đứng gần cảm nhận được linh áp Thổ hệ dày đặc nhưng ổn định — không đè nén mà bao bọc, như bức tường vô hình.
 
 ## III. TÍNH CÁCH & ĐẠO TÂM
@@ -158,14 +158,14 @@ arcs:
     - Thiên Cân là gã Cự Tộc trẻ y nhặt về khi gã đang lang thang một mình, gầy gò, cố tình xin gia nhập đội xây vì... hết đường kiếm ăn. Vạn Quân nhận ra ngay: gã có thiên phú xây dựng bẩm sinh — tay xếp đá nhanh, mắt đo góc chuẩn — nhưng gã không muốn xây. Gã muốn đánh.
     - Mối quan hệ giữa hai người giống hệt Vạn Quân và cha y thời trẻ — nhưng ngược lại: cha muốn y đánh mà y muốn xây, y muốn Thiên Cân xây mà Thiên Cân muốn đánh. Y nhìn Thiên Cân như nhìn gương chiếu ngược — và hiểu rằng ép buộc sẽ không có kết quả, vì chính y đã chứng minh điều đó. Nên y chờ — chờ Thiên Cân tự ngộ ra, như y đã tự ngộ ra khi xây bức tường cứu bộ tộc.
     - Tuy nhiên, y vẫn lén luyện cho Thiên Cân xây dựng bằng cách giao "nhiệm vụ chiến đấu" thực chất là nhiệm vụ xây dựng ngụy trang: "Đi dựng công sự phòng thủ!" (xây tường), "Đi gia cố trận địa!" (xếp đá), "Đi phá hủy cứ điểm địch!" (đục đá). Thiên Cân chưa nhận ra — hoặc đã nhận ra nhưng không nói.
-- **Phụ Sơn Lão — Đối Tác Tin Cậy:**
-    - Hai người là đôi bạn già kỳ lạ: một xây, một khuân, hoàn toàn bổ sung cho nhau. Vạn Quân kính trọng Phụ Sơn Lão vì sự nhẫn nại vô biên — y xây nhà kiên cố, lão cõng hàng kiên cường, cả hai đều tin vào sức lao động thuần túy. Khi cần vận chuyển đá xây dựng, y chỉ gọi Phụ Sơn Lão — vì chỉ lão mới cõng đá mà không làm nứt.
-    - Hai người hay ngồi uống rượu cùng nhau vào dịp hiếm hoi rảnh rỗi — Phụ Sơn Lão uống chậm, Vạn Quân uống nhanh, cả hai im lặng nhìn tuyết rơi. Đó là kiểu tình bạn của Cự Tộc lao động: không cần lời, chỉ cần hiểu.
+- **Sa Trọng Đức — Đối Tác Tin Cậy:**
+    - Hai người là đôi bạn già kỳ lạ: một xây, một khuân, hoàn toàn bổ sung cho nhau. Vạn Quân kính trọng Sa Trọng Đức vì sự nhẫn nại vô biên — y xây nhà kiên cố, lão cõng hàng kiên cường, cả hai đều tin vào sức lao động thuần túy. Khi cần vận chuyển đá xây dựng, y chỉ gọi Sa Trọng Đức — vì chỉ lão mới cõng đá mà không làm nứt.
+    - Hai người hay ngồi uống rượu cùng nhau vào dịp hiếm hoi rảnh rỗi — Sa Trọng Đức uống chậm, Vạn Quân uống nhanh, cả hai im lặng nhìn tuyết rơi. Đó là kiểu tình bạn của Cự Tộc lao động: không cần lời, chỉ cần hiểu.
 - **Nham Đại Chùy — Đồng Nghiệp & Nỗi Đau Thầm:**
-    - Đại Chùy là đồng nghiệp ngành xây dựng, nhưng y thương Đại Chùy nhiều hơn kính trọng. Y biết Băng Sơn Thợ Đá bị Cực Quang Thần Điện bóc lột — và y biết Đại Chùy chấp nhận vì không có lựa chọn. Y từng mời Đại Chùy sáp nhập vào Cự Tộc Thợ Xây, nhưng Đại Chùy từ chối: "Thợ đá và thợ xây khác nhau — tụi tao đục, tụi mày xếp." Y không ép, nhưng mỗi lần nhận tin Thần Điện quỵt lương Đại Chùy, y đều lén gửi lương thực qua Phụ Sơn Lão chuyển giúp.
+    - Đại Chùy là đồng nghiệp ngành xây dựng, nhưng y thương Đại Chùy nhiều hơn kính trọng. Y biết Băng Sơn Thợ Đá bị Cực Quang Thần Điện bóc lột — và y biết Đại Chùy chấp nhận vì không có lựa chọn. Y từng mời Đại Chùy sáp nhập vào Cự Tộc Thợ Xây, nhưng Đại Chùy từ chối: "Thợ đá và thợ xây khác nhau — tụi tao đục, tụi mày xếp." Y không ép, nhưng mỗi lần nhận tin Thần Điện quỵt lương Đại Chùy, y đều lén gửi lương thực qua Sa Trọng Đức chuyển giúp.
 - **Thạch Tĩnh Nham & Băng Cương — Đồng Tộc Đáng Kính:**
-    - Y kính trọng cả hai chiến binh Đông Miên Thủ Vệ — họ dùng sức mạnh bảo vệ, y dùng tay xây dựng, ba con đường khác nhau nhưng cùng phục vụ Cự Tộc. Với Băng Cương đặc biệt, y cảm thấy sự kính sợ nhẹ — tu vi Nguyên Anh Trung Kỳ, ba trăm năm không ngủ, sức chịu đựng ấy vượt xa cả Phụ Sơn Lão. Y thỉnh thoảng tự hỏi: nếu Cự Tộc có một thủ lĩnh thống nhất tất cả, liệu Băng Cương có phải người phù hợp nhất không?
-- **Đồng Cân Lực** (Đồng minh): Thợ Xây Trưởng, người hay đặt hàng vận chuyển, quan hệ nghề nghiệp tốt
+    - Y kính trọng cả hai chiến binh Đông Miên Thủ Vệ — họ dùng sức mạnh bảo vệ, y dùng tay xây dựng, ba con đường khác nhau nhưng cùng phục vụ Cự Tộc. Với Băng Cương đặc biệt, y cảm thấy sự kính sợ nhẹ — tu vi Nguyên Anh Trung Kỳ, ba trăm năm không ngủ, sức chịu đựng ấy vượt xa cả Sa Trọng Đức. Y thỉnh thoảng tự hỏi: nếu Cự Tộc có một thủ lĩnh thống nhất tất cả, liệu Băng Cương có phải người phù hợp nhất không?
+- **Sa Thiết Quân** (Đồng minh): Thợ Xây Trưởng, người hay đặt hàng vận chuyển, quan hệ nghề nghiệp tốt
 - **Băng Đông Thạch** (Đồng minh): Thợ Xây Trưởng, người đã gia cố hang đông miên, y đánh giá cao tay nghề của ông
 
 ## VII. GIAI THOẠI

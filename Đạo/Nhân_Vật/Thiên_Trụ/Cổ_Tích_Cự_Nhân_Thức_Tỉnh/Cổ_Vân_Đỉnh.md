@@ -1,7 +1,7 @@
 ---
 type: character
-name: Vân Đỉnh Trưởng Lão
-hantu: 雲頂長老
+name: Cổ Vân Đỉnh
+hantu: 古云顶
 archetype: Trưởng Lão
 race: Cự Tộc
 origin: Thiên Trụ
@@ -17,10 +17,10 @@ arcs:
     relationships: []
 ---
 
-# HỒ SƠ NHÂN VẬT: VÂN ĐỈNH TRƯỞNG LÃO (雲頂長老)
+# HỒ SƠ NHÂN VẬT: CỔ VÂN ĐỈNH (古云顶)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Họ Tên:** Vân Đỉnh Trưởng Lão (雲頂長老).
+- **Họ Tên:** Cổ Vân Đỉnh (古云顶).
 - **Chủng Tộc:** Cự Tộc.
 - **Tu Vi:** Nguyên Anh Hậu Kỳ.
 - **Khu Vực:** Thiên Trụ.

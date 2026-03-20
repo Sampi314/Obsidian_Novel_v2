@@ -39,7 +39,7 @@ arcs:
 ## IV. CÁC MỐI QUAN HỆ
 - **Nham Bán Thân:** Người "cha nuôi" không chính thức. Sơn Tiểu Nhi bám riết lấy Nham Bán Thân suốt ngày, ngủ cuộn tròn dưới cánh tay nham thạch của hắn vì thấy an toàn nhất ở đó.
 - **Thạch Tiểu Sơn (Đoàn Trưởng):** Xem Đoàn Trưởng như ông ngoại, thích nghe Thạch Tiểu Sơn kể chuyện về tổ tiên Cự Nhân thời xưa.
-- **Thạch Nói Đá:** Bạn đồng trang lứa duy nhất gần tuổi. Hai đứa thường chơi cùng nhau, một đứa nói chuyện với đá, một đứa làm mềm đá — phối hợp ăn ý đến mức người lớn kinh ngạc.
+- **Thạch Ngữ Linh:** Bạn đồng trang lứa duy nhất gần tuổi. Hai đứa thường chơi cùng nhau, một đứa nói chuyện với đá, một đứa làm mềm đá — phối hợp ăn ý đến mức người lớn kinh ngạc.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sơn Tiểu Nhi được sinh ra ngay trong Lạc Đoàn — là thế hệ đầu tiên chào đời nơi lưu đày thay vì trên Tuyết Cự Nhân Đảo. Cha hắn là một Cự Tộc cao ba trượng rưỡi, đã chết vì bệnh phổi đá khi Tiểu Nhi mới hai tuổi. Mẹ hắn qua đời mùa đông năm sau vì kiệt sức. Nham Bán Thân nhận trách nhiệm nuôi dưỡng đứa trẻ mồ côi. Dù sinh ra trong hoàn cảnh khốn khổ, Sơn Tiểu Nhi lại sở hữu năng lực làm mềm đá chưa từng thấy trong lịch sử Cự Tộc — Thạch Tiểu Sơn cho rằng đây có thể là biểu hiện của sự "tiến hóa theo hướng khác" mà ông ta từng nghi ngờ. Hiện tại, Tiểu Nhi sống yên bình trong Lạc Đoàn, chưa biết gì về thế giới bên ngoài, nhưng tiềm năng ẩn giấu trong hắn có thể thay đổi cách nhìn của cả Cự Tộc về những kẻ "nhỏ bé".

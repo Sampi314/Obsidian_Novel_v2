@@ -50,7 +50,7 @@ arcs:
           tin: 80
           so: 0
           on: 0
-      - character: Nham Cự Lực
+      - character: Nham Hùng Bách
         description: Đồng tộc Cự Nhân trong Băng Nguyên Khai Hoang Đội, thỉnh thoảng trao đổi kỹ thuật đục đá
         feelings:
           yeu: 0
@@ -166,8 +166,8 @@ arcs:
     - Hàn Chùy không có vợ con — sáu mươi năm nô lệ cộng thêm tám mươi năm lao động đã lấy đi cơ hội ấy. Nhưng khi Sương Thạch Nhi — cô bé Cự Tộc mồ côi — được Đại Chùy đưa về phường, y đã tự nguyện nhận trách nhiệm dạy nghề cho nó. Ban đầu chỉ là dạy cầm búa, dạy đục đá — nhưng dần dần, y coi Thạch Nhi như con gái mà y chưa bao giờ có.
     - Y khó tính với Thạch Nhi hơn bất kỳ ai — bắt đục lại mười bảy lần, mắng cho khóc, bắt vác đá nặng gấp đôi những thợ học việc khác — nhưng mỗi đêm sau khi Thạch Nhi đi ngủ, y lặng lẽ kiểm tra xem nó có đủ chăn không, lều có kín gió không. Khi Thạch Nhi bị sốt vì làm việc dưới mưa tuyết, y thức suốt đêm đun nước nóng và ép nó uống — mặt vẫn lạnh tanh, miệng vẫn mắng: *"Yếu thế thì về làm dân thường, đừng làm thợ đá."* Nhưng tay y lau mồ hôi trên trán nó thì rất nhẹ.
     - Nỗi sợ lớn nhất của y: Thạch Nhi sẽ phải sống kiếp bị bóc lột như y. Y dạy nó đục đá không chỉ để nó có nghề, mà để nó có giá trị — kẻ có giá trị khó bị giết hơn kẻ vô dụng.
-- **Nham Cự Lực — Đồng Tộc Kính Nể:**
-    - Nham Cự Lực thuộc Băng Nguyên Khai Hoang Đội, cũng là Cự Tộc máu loãng. Hai người thỉnh thoảng gặp nhau khi Khai Hoang Đội thuê Băng Sơn Thợ Đá xây trạm tiền phương. Hàn Chùy kính trọng Cự Lực vì gã là một trong số ít Cự Tộc dám đứng lên làm việc lớn — khai hoang vùng đất mới, không chịu cúi đầu. Cự Lực cũng kính trọng Hàn Chùy vì tay nghề đục đá bậc thầy và sự kiên trì phi thường.
+- **Nham Hùng Bách — Đồng Tộc Kính Nể:**
+    - Nham Hùng Bách thuộc Băng Nguyên Khai Hoang Đội, cũng là Cự Tộc máu loãng. Hai người thỉnh thoảng gặp nhau khi Khai Hoang Đội thuê Băng Sơn Thợ Đá xây trạm tiền phương. Hàn Chùy kính trọng Cự Lực vì gã là một trong số ít Cự Tộc dám đứng lên làm việc lớn — khai hoang vùng đất mới, không chịu cúi đầu. Cự Lực cũng kính trọng Hàn Chùy vì tay nghề đục đá bậc thầy và sự kiên trì phi thường.
     - Hai người hiếm khi nói chuyện dài — Cự Tộc vốn ít lời — nhưng mỗi lần gặp, họ ngồi uống rượu mạch bên bếp lửa, trao đổi vài câu về kỹ thuật đục đá và tình hình Cự Tộc ở Bắc Băng. Có một sự đồng cảm thầm lặng giữa hai kẻ cùng dòng máu, cùng bị coi thường, cùng cố gắng sống cho ra hồn giữa thế giới tu sĩ.
 - **Quản Sự Cực Quang Thần Điện — Kẻ Thù Không Đội Trời Chung:**
     - Quản sự là những tu sĩ cấp thấp được Cực Quang Thần Điện cử đến giám sát công trình và ép sản lượng. Họ coi Cự Tộc thợ đá như súc vật — nạt nộ, đánh đập, nợ lương, và bắt làm thêm giờ không trả công. Hàn Chùy căm hận từng gã quản sự đến tận xương — mỗi gã nhắc y nhớ đến bọn cai mỏ ngày xưa.

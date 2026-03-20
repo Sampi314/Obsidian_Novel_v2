@@ -30,12 +30,12 @@
 
 - [Thạch Cửu Sơn (石九山)](Cổ_Thạch_Bộ_Lạc/Thạch_Cửu_Sơn.md)
 - [Thạch Lôi (石雷)](Cổ_Thạch_Bộ_Lạc/Thạch_Lôi.md)
-- [Thạch Lôi Chùy (石雷錘)](Cổ_Thạch_Bộ_Lạc/Thạch_Lôi_Chùy.md)
+- [Thạch Lôi Chấn (石雷震)](Cổ_Thạch_Bộ_Lạc/Thạch_Lôi_Chấn.md)
 - [Thạch Thiên Trùy (石天錘)](Cổ_Thạch_Bộ_Lạc/Thạch_Thiên_Trùy.md)
 
 ## Cổ Tích Cự Nhân Thức Tỉnh (古迹巨人觉醒) — 1
 
-- [Vân Đỉnh Trưởng Lão (雲頂長老)](Cổ_Tích_Cự_Nhân_Thức_Tỉnh/Vân_Đỉnh_Trưởng_Lão.md)
+- [Cổ Vân Đỉnh (古云顶)](Cổ_Tích_Cự_Nhân_Thức_Tỉnh/Cổ_Vân_Đỉnh.md)
 
 ## Cửu Hoa Kiếm Tông (九花劍宗) — 1
 

@@ -39,7 +39,7 @@ Quạ Hắc Dạ tinh thông Ám Dạ Thiên Nhãn Thuật (暗夜天眼術) —
 - **Ưng Dã Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
 - **Tàn Dực** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Ưng Nham Trảo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
-- **Hoang Sơn Ẩn Sĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Hoang Sơn Mặc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Liệt Quyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Tước Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 ## V. TIỂU SỬ & HÀNH TRÌNH

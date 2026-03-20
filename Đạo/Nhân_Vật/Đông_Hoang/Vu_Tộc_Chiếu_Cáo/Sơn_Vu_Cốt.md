@@ -36,11 +36,11 @@ Là Trưởng Lão cảnh giới Nguyên Anh Trung Kỳ, Sơn Vu Cốt tu luyệ
 ## IV. CÁC MỐI QUAN HỆ
 - **Nham Vu Huyết** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vu Tộc Chiếu Cáo
 - **Thạch Vu Hỏa** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vu Tộc Chiếu Cáo
-- **Cương Chiến Sĩ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vu Tộc Chiếu Cáo
+- **Cương Hổ Phong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vu Tộc Chiếu Cáo
 - **Nham Tiểu Vu** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vu Tộc Chiếu Cáo
 - **Nham Vu Huyết** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Sơn Vu Cốt
 - **Thạch Vu Hỏa** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Sơn Vu Cốt
-- **Cương Chiến Sĩ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Sơn Vu Cốt
+- **Cương Hổ Phong** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Sơn Vu Cốt
 - **Nham Tiểu Vu** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Sơn Vu Cốt
 - **Nha Huyền Dạ Phong** (Đồng minh): Trưởng Lão Vu Tộc và Liên Trưởng Hoang Dã, liên minh tín ngưỡng
 ## V. TIỂU SỬ & HÀNH TRÌNH

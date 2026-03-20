@@ -37,9 +37,9 @@ arcs:
 - **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
 - **Lâm Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
 - **Lâm Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
-- **Hắc Thiết Giáp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Hắc Thiết Nham** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Tàn Dực** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
-- **Hoang Sơn Ẩn Sĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Hoang Sơn Mặc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Quạ Hắc Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Liệt Quyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 - **Ưng Dã Phong** (Đồng minh): Hai thợ săn Ưng, đồng nghiệp săn bắn

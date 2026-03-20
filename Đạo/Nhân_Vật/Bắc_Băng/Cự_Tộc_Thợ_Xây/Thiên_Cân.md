@@ -38,7 +38,7 @@ arcs:
           tin: 90
           so: 0
           on: 70
-      - character: Đồng Cân Lực
+      - character: Sa Thiết Quân
         description: Phó đội Cự Tộc Phu Khuân Vác, bạn đồng lứa thường xuyên phối hợp công việc
         feelings:
           yeu: 0
@@ -56,7 +56,7 @@ arcs:
           tin: 40
           so: 0
           on: 0
-      - character: Phụ Sơn Lão
+      - character: Sa Trọng Đức
         description: Đội trưởng Phu Khuân Vác, trưởng bối y kính trọng vì sức chịu đựng phi thường
         feelings:
           yeu: 0
@@ -101,13 +101,13 @@ arcs:
     - Đeo trên cánh tay trái Thạch Giáp Hộ Thủ — miếng giáp đá phiến mỏng, tự chế, dùng để đỡ đòn cận chiến. Y luyện tập đỡ đòn với miếng giáp này mỗi đêm — điều duy nhất y luyện mà Vạn Quân không phản đối, vì sư phụ hiểu rằng cần cho y một "lối thoát" cho khát khao chiến đấu.
 - **Khí Chất:**
     - Nóng nảy, nhiệt huyết, bồng bột — hoàn toàn trái ngược với sự trầm ổn của Vạn Quân. Y nói to, cười lớn, giận dữ dội, vui rầm rập — cảm xúc luôn ở bề mặt, không giấu được gì. Khi xây dựng, y vẫn tỏ ra hào hứng — nhưng khi nghe đâu đó có chiến trận, mắt y sáng rực, chân đã muốn chạy đi.
-    - Toát ra năng lượng trẻ trung, sục sôi — đứng gần y như đứng gần bếp lửa, vừa ấm vừa nóng. Không có sự uy nghiêm trầm mặc của Vạn Quân hay sức nặng áp đảo của Phụ Sơn Lão — thay vào đó là sức sống bùng cháy, kiểu năng lượng khiến người khác vừa thích vừa mệt.
+    - Toát ra năng lượng trẻ trung, sục sôi — đứng gần y như đứng gần bếp lửa, vừa ấm vừa nóng. Không có sự uy nghiêm trầm mặc của Vạn Quân hay sức nặng áp đảo của Sa Trọng Đức — thay vào đó là sức sống bùng cháy, kiểu năng lượng khiến người khác vừa thích vừa mệt.
     - Có thói quen vô thức đấm vào mọi bề mặt cứng — tường đá, vách đá, thậm chí đá dưới đất. Mỗi lần đấm, y quan sát vết nứt (nếu có) và tự đánh giá: "Lần này mạnh hơn hôm qua." Vạn Quân bảo: "Mày đấm nát bao nhiêu viên đá của tao rồi, tính tiền hết."
 
 ## III. TÍNH CÁCH & ĐẠO TÂM
 - **Tính Cách:**
     - **Mộng Chiến Sĩ (夢):** Thiên Cân mơ ước trở thành chiến binh Cự Tộc — loại chiến binh hùng mạnh trong truyền thuyết, đứng giữa chiến trường, tay cầm chùy khổng lồ, đánh lui cả bầy yêu thú. Y đọc (nghe kể) mọi câu chuyện về chiến binh Cự Tộc xưa, thuộc lòng tên từng chiến binh huyền thoại, và coi Băng Cương — chiến binh Nguyên Anh Trung Kỳ — là hình mẫu lý tưởng. Nhưng thực tế phũ phàng: y xây giỏi hơn đánh gấp nhiều lần, và mọi người đều thấy điều đó — trừ y.
-    - **Cứng Đầu Như Đá (頑):** Nói gì y cũng không nghe — Vạn Quân bảo tập trung xây, y tập trung xây... rồi lén luyện quyền sau giờ làm. Đồng đội bảo y xây giỏi, y cãi: "Giỏi xây thì có gì tự hào?" Phụ Sơn Lão bảo y nên bằng lòng, y đáp: "Lão bằng lòng cõng hàng, ta không bằng lòng xây nhà." Sự cứng đầu này vừa là nhược điểm (không chịu phát triển sở trường) vừa là ưu điểm (không bao giờ bỏ cuộc khi đã quyết).
+    - **Cứng Đầu Như Đá (頑):** Nói gì y cũng không nghe — Vạn Quân bảo tập trung xây, y tập trung xây... rồi lén luyện quyền sau giờ làm. Đồng đội bảo y xây giỏi, y cãi: "Giỏi xây thì có gì tự hào?" Sa Trọng Đức bảo y nên bằng lòng, y đáp: "Lão bằng lòng cõng hàng, ta không bằng lòng xây nhà." Sự cứng đầu này vừa là nhược điểm (không chịu phát triển sở trường) vừa là ưu điểm (không bao giờ bỏ cuộc khi đã quyết).
     - **Trung Thực Đến Ngây Thơ (真):** Y không biết nói dối — hỏi gì đáp nấy, nghĩ gì nói nấy, giận ai nói thẳng. Sự trung thực này đôi khi gây rắc rối: y từng nói thẳng với khách hàng rằng thiết kế của họ "xấu và yếu," khiến Vạn Quân phải xin lỗi thay. Nhưng cũng chính sự trung thực này khiến y đáng tin — ai cũng biết rằng lời Thiên Cân nói là thật, dù có khó nghe.
     - **Tâm Thiện Giấu Dưới Vẻ Hung Hăng (善):** Dưới bề ngoài ồn ào hung hăng, Thiên Cân có trái tim mềm bất ngờ. Y xây nhà cho dân thường không lấy tiền, y cõng đội viên bị thương không cần ai nhờ, y lén nhường phần ăn cho đội viên trẻ hơn. Khi được hỏi, y gạt đi: "Ta chỉ muốn tay rảnh để luyện quyền thôi." Không ai tin.
 - **Đạo Tâm:** **Giằng Xé — "Chiến Hay Trúc?" (戰或築)**
@@ -147,7 +147,7 @@ arcs:
     - **Công Thành Phá Bích Pháp (攻城破壁法 — Pháp Phá Tường Công Thành):**
         Kỹ thuật phá hủy công trình — nguyên bản là kỹ năng phá dỡ trong xây dựng (phá phần hỏng để xây lại), nhưng y nhận ra nó áp dụng hoàn hảo cho chiến đấu: tìm điểm yếu trong cấu trúc (dù là tường thành, trận pháp, hay thậm chí hộ thể linh lực) rồi tập trung toàn bộ lực Chấn Nham vào điểm đó. Một đòn duy nhất, đúng chỗ, phá vỡ toàn bộ. Vạn Quân biết kỹ thuật này và im lặng — vì chính y cũng hiểu: "Kẻ xây giỏi nhất cũng là kẻ phá giỏi nhất."
 - **Pháp Bảo/Trang Bị:**
-    - **Song Thạch Chùy (雙石錘 — Đôi Búa Đá):** Hai chiếc búa đá đen, mỗi chiếc nặng nghìn cân, chế từ Huyền Nham Thạch. Mặt búa phẳng dùng để nện (xây dựng), đầu búa nhọn dùng để đục (phá dỡ). Y dùng chúng cả khi xây lẫn khi luyện quyền — búa là bộ phận mở rộng của đôi tay y, cũng như bàn tính là phần mở rộng của Đồng Cân Lực. Búa chưa phải pháp bảo hoàn chỉnh — y đang dần rót linh lực nuôi dưỡng, chờ ngày chúng sinh linh trí.
+    - **Song Thạch Chùy (雙石錘 — Đôi Búa Đá):** Hai chiếc búa đá đen, mỗi chiếc nặng nghìn cân, chế từ Huyền Nham Thạch. Mặt búa phẳng dùng để nện (xây dựng), đầu búa nhọn dùng để đục (phá dỡ). Y dùng chúng cả khi xây lẫn khi luyện quyền — búa là bộ phận mở rộng của đôi tay y, cũng như bàn tính là phần mở rộng của Sa Thiết Quân. Búa chưa phải pháp bảo hoàn chỉnh — y đang dần rót linh lực nuôi dưỡng, chờ ngày chúng sinh linh trí.
     - **Thạch Giáp Hộ Thủ (石甲護手 — Giáp Đá Hộ Tay):** Miếng giáp đá phiến đeo trên cánh tay trái, tự chế, dùng để đỡ đòn. Không phải pháp khí — chỉ là đá thường, nhưng được y thay mới liên tục (vì bị đập nát thường xuyên). Mỗi miếng giáp mới y đều tự đục đẽo cẩn thận — hành động này vô tình rèn luyện kỹ năng xây dựng mà y không nhận ra.
     - **Bộ Dụng Cụ Thợ Xây:** Dây dọi, thước đá, đục sắt — công cụ tiêu chuẩn. Y "bị bắt buộc" mang theo nhưng dùng thành thạo — dù miệng cằn nhằn, tay vẫn xây hoàn hảo.
 - **Điểm Yếu:**
@@ -160,12 +160,12 @@ arcs:
     - Y kính trọng Vạn Quân — thực sự kính trọng, sâu sắc, dù miệng hay cãi. Y biết sư phụ là kiến trúc sư vĩ đại nhất Bắc Băng, biết mỗi bức tường sư phụ xây đều là kiệt tác, biết sư phụ yêu thương y theo cách riêng. Nhưng y sợ rằng nếu thừa nhận sư phụ hoàn toàn đúng, y sẽ phải bỏ giấc mơ chiến binh — và y chưa sẵn sàng.
     - Khoảnh khắc y suýt ngộ: khi nhìn sư phụ xây xong bức tường thành bảy thôn, đứng lùi lại ngắm nhìn, ánh mắt sáng rực — y nhận ra biểu cảm ấy giống hệt biểu cảm chiến binh huyền thoại trong truyền thuyết khi nhìn chiến trường mình chiến thắng. Lần đó y suýt hiểu — nhưng rồi lại tự nhủ: "Xây tường đâu phải chiến thắng."
     - Y hay lén quan sát sư phụ xây dựng — không phải để học (y nghĩ thế) mà vì y thích nhìn. Tay sư phụ xếp đá đẹp đến mức như múa — y chưa bao giờ nói ra, nhưng trong thâm tâm, y muốn xếp được đẹp như vậy. Đó là khao khát y giấu sâu nhất.
-- **Đồng Cân Lực — Bạn Đồng Lứa:**
-    - Hai người gần tuổi nhất trong nhóm (so với các trưởng bối ba bốn trăm tuổi), nên tự nhiên thân thiết. Đồng Cân Lực tính toán chính xác, Thiên Cân hành động bốc đồng — hai người bổ sung nhau. Khi phối hợp công việc, Đồng Cân Lực tính vị trí đặt đá, Thiên Cân đặt đá — không sai một viên. Ngoài giờ làm, hai người hay ngồi nói chuyện — Thiên Cân nói về chiến binh, Đồng Cân Lực nghe rồi phẩy tay: "Mày xây giỏi hơn đánh — chấp nhận đi." Thiên Cân: "Không." Cuộc tranh luận này lặp lại mỗi tuần.
+- **Sa Thiết Quân — Bạn Đồng Lứa:**
+    - Hai người gần tuổi nhất trong nhóm (so với các trưởng bối ba bốn trăm tuổi), nên tự nhiên thân thiết. Sa Thiết Quân tính toán chính xác, Thiên Cân hành động bốc đồng — hai người bổ sung nhau. Khi phối hợp công việc, Sa Thiết Quân tính vị trí đặt đá, Thiên Cân đặt đá — không sai một viên. Ngoài giờ làm, hai người hay ngồi nói chuyện — Thiên Cân nói về chiến binh, Sa Thiết Quân nghe rồi phẩy tay: "Mày xây giỏi hơn đánh — chấp nhận đi." Thiên Cân: "Không." Cuộc tranh luận này lặp lại mỗi tuần.
 - **Băng Cương — Hình Mẫu Lý Tưởng Xa Vời:**
     - Thiên Cân chưa bao giờ gặp Băng Cương trực tiếp — chỉ nghe danh: chiến binh Cự Tộc Nguyên Anh Trung Kỳ, ba trăm năm không ngủ, canh giữ hang đông miên. Trong mắt Thiên Cân, Băng Cương là hình mẫu chiến binh hoàn hảo — mạnh, kiên định, bất khuất. Y mơ một ngày được đứng cạnh Băng Cương chiến đấu. Y không biết rằng Băng Cương — nếu biết y — có lẽ sẽ nói: "Chiến đấu không cần kiếm. Cõng trách nhiệm đã là chiến đấu."
-- **Phụ Sơn Lão — Trưởng Bối Đáng Kính:**
-    - Y kính trọng Phụ Sơn Lão vì sức chịu đựng phi thường — nhưng y không hiểu tại sao lão bằng lòng "chỉ cõng hàng." Y từng hỏi: "Lão ơi, lão mạnh vậy sao không đi đánh yêu thú?" Lão đáp: "Ta cõng hàng nuôi người, người đi đánh yêu thú. Ai cũng có việc." Thiên Cân im lặng — câu trả lời đơn giản nhưng khiến y suy nghĩ lâu hơn y muốn thừa nhận.
+- **Sa Trọng Đức — Trưởng Bối Đáng Kính:**
+    - Y kính trọng Sa Trọng Đức vì sức chịu đựng phi thường — nhưng y không hiểu tại sao lão bằng lòng "chỉ cõng hàng." Y từng hỏi: "Lão ơi, lão mạnh vậy sao không đi đánh yêu thú?" Lão đáp: "Ta cõng hàng nuôi người, người đi đánh yêu thú. Ai cũng có việc." Thiên Cân im lặng — câu trả lời đơn giản nhưng khiến y suy nghĩ lâu hơn y muốn thừa nhận.
 - **Băng Đông Thạch** (Đồng minh): Thủ vệ Đông Miên Thủ Vệ, chiến binh mà y ngưỡng mộ dù chưa quen thân
 
 ## VII. GIAI THOẠI
@@ -177,4 +177,4 @@ arcs:
 
 - **Truyền Thuyết "Chiến Binh Xây Nhà":** Đội thợ kể rằng có lần Thiên Cân đang xây tường thì một con Băng Nha Hổ lạc đàn tấn công công trường. Y không chạy — y đứng dậy, cầm hai búa, hét lên: "Cuối cùng cũng có thằng cho ta đánh!" Rồi y lao vào — nhưng thay vì đánh, y vô thức dùng kỹ thuật xây dựng: đá ném ra theo quỹ đạo chính xác, Song Thạch Chùy đập xuống đúng điểm yếu — động tác giống xếp đá hơn đánh nhau. Con hổ bị hạ, y đứng thở hổn hển, rồi nhận ra: mình vừa "xây" nó vào mặt đất. Đội thợ cười ngất, y cáu suốt ba ngày. Nhưng đêm đó, y lén cười một mình.
 
-- **Lời Đồn "Thạch Đầu Xây Trong Mơ":** Đồng đội thề rằng Thiên Cân xây dựng cả trong giấc ngủ — tay y vô thức cử động xếp đá trên không khí, môi thì thầm đo kích thước: "Ba thước rưỡi... lệch nửa ly... xếp lại..." Khi tỉnh dậy, y phủ nhận kịch liệt: "Ta mơ đánh nhau chứ ai mơ xây nhà!" Nhưng Đồng Cân Lực đã lén ghi lại một lần — y đọc cho Thiên Cân nghe, Thiên Cân đỏ mặt không nói được câu nào.
+- **Lời Đồn "Thạch Đầu Xây Trong Mơ":** Đồng đội thề rằng Thiên Cân xây dựng cả trong giấc ngủ — tay y vô thức cử động xếp đá trên không khí, môi thì thầm đo kích thước: "Ba thước rưỡi... lệch nửa ly... xếp lại..." Khi tỉnh dậy, y phủ nhận kịch liệt: "Ta mơ đánh nhau chứ ai mơ xây nhà!" Nhưng Sa Thiết Quân đã lén ghi lại một lần — y đọc cho Thiên Cân nghe, Thiên Cân đỏ mặt không nói được câu nào.
