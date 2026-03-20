@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Luyện Khí Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [113, 105, 87, 91, 91, 91]
+    relationships:
+      - character: Lý Sơn Đao
+        description: Cha ruột kiêm sư phụ, người nghiêm khắc nhưng yêu thương
+        feelings:
+          yeu: 57
+          han: 0
+          kinh: 65
+          tin: 38
+          so: 0
+          on: 43
+      - character: Đỗ Tiểu Hổ
+        description: Bạn cùng trang lứa, hay cùng nhau phiêu lưu và gây rối
+        feelings:
+          yeu: 57
+          han: 0
+          kinh: 0
+          tin: 47
+          so: 0
+          on: 0
+      - character: Đỗ Hùng
+        description: Đại ca mà Sơn Nhi kính trọng, người dẫn dắt thế hệ trẻ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 66
+          tin: 55
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LÝ SƠN NHI (李山兒)

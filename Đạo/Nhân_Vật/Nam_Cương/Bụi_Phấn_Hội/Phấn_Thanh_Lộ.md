@@ -7,12 +7,30 @@ race: Vi Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Luyện Khí Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [23, 45, 45, 50, 41, 38]
+    relationships:
+      - character: Phấn Vũ
+        description: Chị nuôi trong Bụi Phấn Hội, người dẫn dắt và bảo vệ
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 0
+          tin: 47
+          so: 0
+          on: 29
+      - character: Tằm Dạ Quang
+        description: Khách hàng thân thiết, thường đặt mua sương lộ để dùng trong dệt tơ
+        feelings:
+          yeu: 80
+          han: 0
+          kinh: 0
+          tin: 68
+          so: 0
+          on: 30
 ---
 
 # HỒ SƠ NHÂN VẬT: PHẤN THANH LỘ (粉清露)

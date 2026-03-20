@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
-    methods: []
+    methods: [yệt chiêu Trầm Nguyệt Huyễn Ảnh]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1137, 1400, 1400, 1114, 1212, 985]
+    relationships:
+      - character: Bạch Vọng Nguyệt
+        description: Đệ Tam Phó Tư Tế, người mà Nguyệt Trầm đã bí mật liên minh, bị lôi kéo bởi lời hứa thăng tiến
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Mộng Yểm
+        description: Trưởng Lão Tế Tư, bạn uống rượu thân thiết, người duy nhất mà ông thoải mái bộc lộ suy nghĩ thật
+        feelings:
+          yeu: 63
+          han: 0
+          kinh: 0
+          tin: 51
+          so: 0
+          on: 28
+      - character: Cổ Lan
+        description: Trưởng Lão Tế Tư, đồng liêu mà ông kính nể nhưng không dám thân cận vì sợ bà nhìn thấu bản chất yếu đuối
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 0
+          tin: 24
+          so: 52
+          on: 0
+      - character: Tuyết Nguyệt
+        description: Đại Tư Tế, bề ngoài trung thành nhưng trong lòng bất mãn vì cảm thấy bị đánh giá thấp
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 71
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NGUYỆT TRẦM (月沈)

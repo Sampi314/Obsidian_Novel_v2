@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Hậu Kỳ
-    methods: []
+    methods: [Mãng Hoành Sơn]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1600, 1348, 1355, 1600, 1600, 1600]
+    relationships:
+      - character: Đằng Thiết Sơn
+        description: Thống Lĩnh Đồ Đằng, cấp trên mà hắn kính trọng như huynh trưởng, luôn sẵn sàng xông pha vì mệnh lệnh của ông
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 72
+          tin: 55
+          so: 0
+          on: 0
+      - character: Đằng Hổ
+        description: Phó Trưởng Lão Đồ Đằng, sư thúc hay kéo hắn đi uống rượu và kể chuyện chiến trường
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Vu Huyền Nương
+        description: Đệ Nhị Phó Tư Tế, thường hộ tống bà trong các nhiệm vụ, thầm ngưỡng mộ trí tuệ và sắc đẹp của bà
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 73
+          tin: 43
+          so: 0
+          on: 0
+      - character: Đằng Thanh
+        description: Đệ Tử Đồ Đằng, đàn em thân thiết cùng luyện tập hàng ngày
+        feelings:
+          yeu: 69
+          han: 0
+          kinh: 0
+          tin: 64
+          so: 0
+          on: 25
 ---
 
 # HỒ SƠ NHÂN VẬT: SƠN MÃNG (山莽)

@@ -7,12 +7,39 @@ race: Yêu Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
-    methods: []
+    methods: [Phong tu luyện Ám Ảnh Sát Thuật, êu thức sở trường Ám Phong Trảo]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [250, 344, 348, 343, 306, 400]
+    relationships:
+      - character: Báo Hắc Dạ
+        description: Báo Vương, chủ nhân mà hắn phục tùng tuyệt đối, người cứu hắn khỏi bẫy thợ săn năm xưa
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 30
+          tin: 0
+          so: 0
+          on: 0
+      - character: Báo Nguyệt Nha
+        description: Trinh Sát, đồng đội thường xuyên phối hợp, nàng trinh sát hắn ám sát, bộ đôi hoàn hảo
+        feelings:
+          yeu: 49
+          han: 0
+          kinh: 0
+          tin: 27
+          so: 0
+          on: 0
+      - character: Báo Tiểu Hắc
+        description: Báo Con, hắn thầm bảo vệ từ xa, không muốn con nhỏ biết mình là sát thủ
+        feelings:
+          yeu: 61
+          han: 0
+          kinh: 0
+          tin: 56
+          so: 0
+          on: 35
 ---
 
 # HỒ SƠ NHÂN VẬT: BÁO ÁM ẢNH PHONG (豹暗影風)

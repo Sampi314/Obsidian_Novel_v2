@@ -1,8 +1,13 @@
 # Mục Lục — Góc Nhìn Diệp Thanh Y
 
+## Arc Dược Tôn Trong Dịch — Y Đạo Và Tuyệt Vọng (Chương 3-5)
+
 - [Chương 3: Đứa Trẻ Trong Dịch Bệnh](Chương_00003_Đứa_Trẻ_Trong_Dịch_Bệnh.md)
 - [Chương 4: Dược Viên Khóc Thầm](Chương_00004_Dược_Viên_Khóc_Thầm.md)
 - [Chương 5: Thanh Nang Y Kinh Khai Sáng](Chương_00005_Thanh_Nang_Y_Kinh_Khai_Sáng.md)
+
+## Arc Liên Minh Y Đan — Thanh Tẩy Và Lời Thề (Chương 6-10)
+
 - [Chương 6: Sinh Mệnh Nguyên Hỏa](Chương_00006_Sinh_Mệnh_Nguyên_Hỏa.md)
 - [Chương 7: Đứa Trẻ Đầu Tiên](Chương_00007_Đứa_Trẻ_Đầu_Tiên.md)
 - [Chương 8: Cứu Lấy Mạch Đất](Chương_00008_Cứu_Lấy_Mạch_Đất.md)

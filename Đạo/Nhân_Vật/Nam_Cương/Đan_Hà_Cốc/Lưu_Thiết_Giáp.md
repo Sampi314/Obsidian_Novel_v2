@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [uyệt chiêu Thiết Giáp Hỏa Thành]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3000, 3000, 2761, 3000, 3000, 2592]
+    relationships:
+      - character: Lư Hỏa
+        description: Tả Hộ Pháp, cấp trên trực tiếp mà ông kính trọng và tuân lệnh tuyệt đối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 47
+          tin: 58
+          so: 0
+          on: 0
+      - character: Thạch Hổ
+        description: Hộ Pháp Đường Chủ, đồng liêu chiến đấu tin cậy, hai người là bức tường thành của cốc
+        feelings:
+          yeu: 33
+          han: 0
+          kinh: 0
+          tin: 29
+          so: 0
+          on: 0
+      - character: Ngô Lôi
+        description: Đệ Nhị Hộ Pháp, đồng liêu bổ sung phong cách chiến đấu linh hoạt
+        feelings:
+          yeu: 35
+          han: 0
+          kinh: 0
+          tin: 39
+          so: 0
+          on: 0
+      - character: Vương Cương
+        description: Đệ Tam Hộ Pháp, đàn em mà ông đang rèn luyện thêm
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LƯU THIẾT GIÁP (劉鐵甲)

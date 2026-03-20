@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [300, 210, 258, 247, 255, 279]
+    relationships:
+      - character: Đỗ Môn
+        description: Trại Chủ, ân nhân cứu mạng, người mà Vương Thiết Nha thề trung thành
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 52
+          so: 0
+          on: 0
+      - character: Lý Sơn Đao
+        description: Đồng liêu Hắc Đao Trưởng Lão, chiến hữu đánh trận bên nhau
+        feelings:
+          yeu: 48
+          han: 0
+          kinh: 0
+          tin: 34
+          so: 0
+          on: 0
+      - character: Đỗ Hải
+        description: Phó Trại Chủ, bạn nhậu thân thiết
+        feelings:
+          yeu: 45
+          han: 0
+          kinh: 0
+          tin: 25
+          so: 0
+          on: 25
 ---
 
 # HỒ SƠ NHÂN VẬT: VƯƠNG THIẾT NHA (王鐵牙)

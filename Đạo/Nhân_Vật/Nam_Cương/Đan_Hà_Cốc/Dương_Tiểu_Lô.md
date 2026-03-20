@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Sơ Kỳ
-    methods: []
+    methods: [Tiểu Lô Chân Hỏa]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [753, 1000, 1000, 782, 964, 1000]
+    relationships:
+      - character: Đan Dương Tử
+        description: Cốc Chủ, cha ruột và sư phụ, hắn vừa kính trọng vừa cảm thấy áp lực phải nối nghiệp
+        feelings:
+          yeu: 67
+          han: 0
+          kinh: 76
+          tin: 65
+          so: 0
+          on: 52
+      - character: Tiêu Hỏa Nhi
+        description: Đệ Cửu Tháp Chủ, bạn cạnh tranh đồng trang lứa, hai người thường xuyên so tài
+        feelings:
+          yeu: 41
+          han: 14
+          kinh: 0
+          tin: 50
+          so: 0
+          on: 0
+      - character: Phùng Lô Hỏa
+        description: Nội Môn Đệ Tử, sư đệ thân thiết nhất, bạn tâm giao
+        feelings:
+          yeu: 77
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 37
+      - character: Mã Hồng Lô
+        description: Đệ Ngũ Tháp Chủ, sư thúc mà hắn hay xin ý kiến về chuyện ngoại giao
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: DƯƠNG TIỂU LÔ (楊小爐)

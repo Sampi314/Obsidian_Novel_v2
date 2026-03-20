@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Luyện Khí Đỉnh Phong
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [114, 148, 138, 141, 107, 150]
+    relationships:
+      - character: Đỗ Hùng
+        description: Anh họ, người dẫn dắt và dạy dỗ Tiểu Hổ nhiều nhất
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 76
+          tin: 42
+          so: 0
+          on: 55
+      - character: Đỗ Môn
+        description: Bác ruột kiêm Trại Chủ, người mà Tiểu Hổ ngưỡng mộ nhất
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 67
+          tin: 50
+          so: 0
+          on: 0
+      - character: Lý Sơn Nhi
+        description: Bạn cùng trang lứa, hay cùng nhau phiêu lưu trong rừng
+        feelings:
+          yeu: 43
+          han: 0
+          kinh: 0
+          tin: 25
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐỖ TIỂU HỔ (杜小虎)

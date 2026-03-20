@@ -7,12 +7,39 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1202, 1342, 1000, 1223, 1048, 1208]
+    relationships:
+      - character: Oanh Nam Ca
+        description: Em trai ruột, hai anh em thường song ca để tăng uy lực chiêu thức. Lâm Ca luôn bảo vệ em dù Nam Ca đã trưởng thành
+        feelings:
+          yeu: 74
+          han: 0
+          kinh: 0
+          tin: 53
+          so: 0
+          on: 35
+      - character: Oanh Thúy Thanh
+        description: Bà con trong tộc Oanh, Thúy Thanh thường nhờ Lâm Ca hát để dẫn dụ yêu thú ra khỏi hang cho nàng truyền tin an toàn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hạc Hồng Nhi
+        description: Đồng minh săn bắt, Hồng Nhi tấn công từ trên cao trong khi Lâm Ca dùng âm thanh khống chế con mồi bên dưới
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: OANH LÂM CA (鶯林歌)

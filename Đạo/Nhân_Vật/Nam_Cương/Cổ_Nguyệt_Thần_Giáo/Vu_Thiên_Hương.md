@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Đỉnh Phong
-    methods: []
+    methods: [uyệt chiêu Thiên Hương Tịnh Thế]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1495, 1800, 1775, 1556, 1556, 1684]
+    relationships:
+      - character: Tuyết Nguyệt
+        description: Đại Tư Tế, đệ tử xuất sắc nhất mà bà tự hào nhất, coi như con gái ruột
+        feelings:
+          yeu: 77
+          han: 0
+          kinh: 0
+          tin: 46
+          so: 0
+          on: 49
+      - character: Vu Huyền Nương
+        description: Đệ tử yêu quý, người kế thừa truyền thừa vu thuật của bà
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Vu Tiểu Linh
+        description: Đệ tử nhỏ tuổi nhất, được bà chăm sóc đặc biệt vì nhìn thấy tiềm năng lớn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Cổ Lan
+        description: Trưởng Lão Tế Tư, bạn tri kỷ nhiều năm, thường xuyên cùng bà luận đạo dưới ánh trăng
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 0
+          tin: 39
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: VU THIÊN HƯƠNG (巫天香)

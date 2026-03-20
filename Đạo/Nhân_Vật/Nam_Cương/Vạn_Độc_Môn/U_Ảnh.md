@@ -7,12 +7,39 @@ race: Trùng Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Viên Mãn
-    methods: []
+    methods: [U Ảnh tu luyện U Ảnh Tơ Sát, êu thức sở trường U Võng Tử Địa]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [428, 500, 398, 447, 404, 500]
+    relationships:
+      - character: Cô Nguyệt Nương
+        description: Cổ Độc Sư, ân nhân và người bảo hộ, nàng coi bà như mẹ nuôi
+        feelings:
+          yeu: 77
+          han: 0
+          kinh: 0
+          tin: 46
+          so: 0
+          on: 47
+      - character: Phong Thiên Châm
+        description: Thích Khách, đồng liêu Trùng Tộc, đôi khi phối hợp nhiệm vụ nhưng nàng không thích tính ồn ào của hắn
+        feelings:
+          yeu: 44
+          han: 0
+          kinh: 0
+          tin: 24
+          so: 0
+          on: 0
+      - character: Mặc Kén Tử
+        description: Kén Sư Cổ Kén Tu Luyện Xã, đồng tộc hay tranh luận, nàng thấy hắn quá ngây thơ về thế giới
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: U ẢNH (幽影)

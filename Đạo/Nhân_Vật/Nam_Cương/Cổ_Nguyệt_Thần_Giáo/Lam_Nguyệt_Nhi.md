@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Viên Mãn
-    methods: []
+    methods: [Lam Nguyệt Tẩy Trần]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2000, 2000, 2000, 1698, 2000, 1891]
+    relationships:
+      - character: Tuyết Nguyệt
+        description: Đại Tư Tế, sư phụ kiêm người mẹ tinh thần, Lam Nguyệt Nhi kính yêu và muốn nối tiếp di chí của bà
+        feelings:
+          yeu: 79
+          han: 0
+          kinh: 64
+          tin: 59
+          so: 0
+          on: 59
+      - character: Nguyệt Nhi
+        description: Đệ Tử Tế Tư, bạn thân nhất cùng trang lứa, thường xuyên cùng nhau luyện tập và tâm sự
+        feelings:
+          yeu: 31
+          han: 0
+          kinh: 0
+          tin: 31
+          so: 0
+          on: 0
+      - character: Vu Tiểu Linh
+        description: Đệ Tử Tế Tư, sư muội nhỏ hơn mà nàng luôn chăm sóc và bảo vệ
+        feelings:
+          yeu: 70
+          han: 0
+          kinh: 0
+          tin: 42
+          so: 0
+          on: 44
+      - character: Bạch Vọng Nguyệt
+        description: Đệ Tam Phó Tư Tế, cảm thấy bất an mỗi khi ở gần hắn nhưng không hiểu vì sao
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LAM NGUYỆT NHI (藍月兒)

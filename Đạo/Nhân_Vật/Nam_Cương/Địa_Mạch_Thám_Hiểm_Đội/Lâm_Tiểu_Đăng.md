@@ -7,12 +7,30 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Luyện Khí Đỉnh Phong
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [103, 100, 116, 133, 126, 110]
+    relationships:
+      - character: Thạch Vạn Lý
+        description: Đội Trưởng kiêm sư phụ, người mà Tiểu Đăng ngưỡng mộ nhất
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 76
+          tin: 45
+          so: 0
+          on: 41
+      - character: Lý Ám Dạ
+        description: Phó Đội, "chị cả" luôn chăm sóc và bảo vệ Tiểu Đăng
+        feelings:
+          yeu: 79
+          han: 0
+          kinh: 0
+          tin: 57
+          so: 0
+          on: 23
 ---
 
 # HỒ SƠ NHÂN VẬT: LÂM TIỂU ĐĂNG (林小燈)

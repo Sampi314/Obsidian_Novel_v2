@@ -7,12 +7,48 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2591, 2328, 2643, 3000, 2618, 2459]
+    relationships:
+      - character: Yến Thanh Tốc
+        description: Đàn em cùng chi tộc Yến, Yến Tử âm thầm dõi theo sự trưởng thành của Thanh Tốc và bảo vệ hắn từ xa
+        feelings:
+          yeu: 66
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 21
+      - character: Dạ Nga Tiên
+        description: Đối tác trinh sát, Yến Tử bay trên cao còn Dạ Nga Tiên xâm nhập từ mặt đất — hai người bổ sung cho nhau hoàn hảo
+        feelings:
+          yeu: 16
+          han: 0
+          kinh: 0
+          tin: 47
+          so: 0
+          on: 0
+      - character: Oanh Thúy Thanh
+        description: Đàn em mà Yến Tử đã truyền dạy kỹ năng ẩn tung, coi Thúy Thanh như học trò
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 53
+          tin: 44
+          so: 0
+          on: 32
+      - character: Oanh Lâm Ca
+        description: Tôn trọng lẫn nhau, đôi khi trao đổi thông tin tình báo về các thế lực tà đạo trong vùng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: YẾN TỬ (燕紫)

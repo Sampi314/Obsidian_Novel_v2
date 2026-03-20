@@ -7,12 +7,48 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Hóa Thần Sơ Kỳ
-    methods: []
+    methods: [g pháp với Phượng Viêm Chân Hỏa, hiêu Phượng Hoàng Niết Bàn Kích]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [6902, 7554, 7237, 5793, 6200, 8000]
+    relationships:
+      - character: Phượng Huyền Điểu Lão
+        description: Trưởng Lão, bậc tiền bối mà hắn kính trọng nhất, người dạy hắn cách cai trị gia tộc
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 44
+          tin: 33
+          so: 0
+          on: 0
+      - character: Phượng Xích Diệm
+        description: Chiến Sĩ, con trai trưởng, hắn đặt nhiều kỳ vọng nhưng cũng lo lắng vì tính nóng nảy của con
+        feelings:
+          yeu: 79
+          han: 0
+          kinh: 0
+          tin: 66
+          so: 0
+          on: 34
+      - character: Công Thái Hồng
+        description: Chiến Tướng, vị tướng trung thành nhất, cánh tay phải trên chiến trường
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 77
+          so: 0
+          on: 0
+      - character: Loan Thanh La
+        description: Chiến Sĩ, thuộc hạ đáng tin cậy, người giữ liên lạc giữa các chi phái trong tộc
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 80
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: PHƯỢNG XÍCH (鳳赤)

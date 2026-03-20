@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Trung Kỳ
-    methods: []
+    methods: [ệt chiêu Thạch Hổ Liệt Diệm Phủ]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3688, 3572, 3800, 2895, 3800, 3440]
+    relationships:
+      - character: Lư Hỏa
+        description: Tả Hộ Pháp, cấp phó và chiến hữu thân thiết nhất trên chiến trường
+        feelings:
+          yeu: 58
+          han: 0
+          kinh: 0
+          tin: 68
+          so: 0
+          on: 33
+      - character: Lưu Thiết Giáp
+        description: Đệ Nhất Hộ Pháp, thuộc hạ tin cậy, bức tường thành vững chắc
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Phùng Đan Thanh
+        description: Hữu Hộ Pháp, quân sư mà ông tin tưởng hoàn toàn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 77
+          so: 0
+          on: 0
+      - character: Đan Dương Tử
+        description: Cốc Chủ, người duy nhất có thể ra lệnh cho ông
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: THẠCH HỔ (石虎)

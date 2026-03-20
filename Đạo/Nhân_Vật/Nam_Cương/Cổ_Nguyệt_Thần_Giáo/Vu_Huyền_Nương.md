@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [hồ thông qua Vạn Đồ Đằng Thuật, Tuyệt kỹ Huyền Xà Phệ Hồn]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2000, 3000, 2484, 3000, 3000, 3000]
+    relationships:
+      - character: Tuyết Nguyệt
+        description: Đại Tư Tế, người chị mà bà kính trọng và trung thành tuyệt đối, sẵn sàng hy sinh vì giáo phái
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 69
+          tin: 76
+          so: 0
+          on: 0
+      - character: Bạch Vọng Nguyệt
+        description: Đệ Tam Phó Tư Tế, đồng liêu nhưng có sự cạnh tranh ngầm về ảnh hưởng
+        feelings:
+          yeu: 49
+          han: 11
+          kinh: 0
+          tin: 28
+          so: 0
+          on: 0
+      - character: Vu Thiên Hương
+        description: Đại Trưởng Lão Tế Tư, sư phụ truyền dạy vu thuật, mối quan hệ sư đồ sâu sắc
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 68
+          tin: 35
+          so: 0
+          on: 57
+      - character: Sơn Mãng
+        description: Chiến Sĩ Đồ Đằng, thuộc hạ trung thành thường xuyên hộ tống bà trong các nhiệm vụ ngoại giao
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 70
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: VU HUYỀN NƯƠNG (巫玄娘)

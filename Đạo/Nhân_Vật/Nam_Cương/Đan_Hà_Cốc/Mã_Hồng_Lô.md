@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Viên Mãn
-    methods: []
+    methods: [Hồng Lô Bách Biến]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1795, 2000, 2000, 1659, 1829, 2000]
+    relationships:
+      - character: Trần Hỏa Nham
+        description: Đệ Nhị Tháp Chủ, đồng liêu hay tranh luận nhưng rất tôn trọng nhau
+        feelings:
+          yeu: 49
+          han: 0
+          kinh: 0
+          tin: 43
+          so: 0
+          on: 0
+      - character: Hoàng Thiên Hỏa
+        description: Đệ Lục Tháp Chủ, bạn uống rượu thân thiết nhất trong cốc
+        feelings:
+          yeu: 67
+          han: 0
+          kinh: 0
+          tin: 49
+          so: 0
+          on: 44
+      - character: Đan Dương Tử
+        description: Cốc Chủ, người mà ông nể phục và trung thành
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 59
+          so: 0
+          on: 0
+      - character: Dương Tiểu Lô
+        description: Đại Đệ Tử, thanh niên tài năng mà ông đánh giá cao tiềm năng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 31
+          tin: 24
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: MÃ HỒNG LÔ (馬紅爐)

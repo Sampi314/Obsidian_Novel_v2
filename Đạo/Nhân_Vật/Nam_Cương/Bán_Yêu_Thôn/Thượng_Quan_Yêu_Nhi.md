@@ -7,12 +7,30 @@ race: Bán Yêu
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [226, 265, 300, 213, 220, 198]
+    relationships:
+      - character: Lý Bán Huyền
+        description: Trưởng Lão, người mà Yêu Nhi kính trọng như ông nội
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 42
+          tin: 30
+          so: 0
+          on: 0
+      - character: Lý Bán Sơn
+        description: Trưởng Lão phó, người mà Yêu Nhi coi như chú ruột
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: THƯỢNG QUAN YÊU NHI (上官妖兒)

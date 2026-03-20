@@ -7,12 +7,30 @@ race: Bán Yêu
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [400, 328, 293, 400, 388, 333]
+    relationships:
+      - character: Lý Bán Huyền
+        description: Anh trai ruột, người mà Bán Sơn kính trọng và vâng lời nhất
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 43
+          tin: 47
+          so: 0
+          on: 0
+      - character: Thượng Quan Yêu Nhi
+        description: Hậu bối, người mà Bán Sơn coi như cháu gái
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LÝ BÁN SƠN (李半山)

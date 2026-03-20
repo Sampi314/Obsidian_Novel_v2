@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Hậu Kỳ
-    methods: []
+    methods: [Vô Ảnh Tẩm Độc]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1306, 1600, 1600, 1509, 1554, 1327]
+    relationships:
+      - character: Hàn Phong
+        description: Nhất Sát, đồng đội mà hắn bổ sung kỹ năng trinh sát
+        feelings:
+          yeu: 33
+          han: 0
+          kinh: 0
+          tin: 46
+          so: 0
+          on: 0
+      - character: Đinh Huyết Mi
+        description: Nhị Sát, đồng đội thân thiết nhất, hay ganh đua vui vẻ
+        feelings:
+          yeu: 50
+          han: 21
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 44
+      - character: Hắc Dạ
+        description: Tứ Sát, đồng đội trầm lặng mà hắn tôn trọng
+        feelings:
+          yeu: 24
+          han: 0
+          kinh: 0
+          tin: 46
+          so: 0
+          on: 0
+      - character: La Vân Ti
+        description: Nhện Chi Hộ Pháp, người truyền dạy kỹ thuật ẩn thân cho hắn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 67
+          tin: 42
+          so: 0
+          on: 55
 ---
 
 # HỒ SƠ NHÂN VẬT: BẠCH VÔ ẢNH (白無影)

@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
-    methods: []
+    methods: [Tiêu Hỏa Liên Hoàn]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1221, 1400, 1400, 1400, 1400, 1400]
+    relationships:
+      - character: Diệp Thanh Trúc
+        description: Ngũ Sát, bạn đồng trang lứa thân thiết nhất
+        feelings:
+          yeu: 61
+          han: 0
+          kinh: 0
+          tin: 47
+          so: 0
+          on: 36
+      - character: Tiêu Vô Hận
+        description: Thất Sát, đàn em mà hắn hay trêu đùa
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hàn Phong
+        description: Nhất Sát, cấp trên mà hắn nể phục
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 24
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hạ Thiên Châm
+        description: Yết Chi Hộ Pháp, người cung cấp nguyên liệu độc dược cho bẫy
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: PHÙNG TIÊU (馮蕭)

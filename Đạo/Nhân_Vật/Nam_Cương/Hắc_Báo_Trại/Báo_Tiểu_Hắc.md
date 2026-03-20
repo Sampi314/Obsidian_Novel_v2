@@ -7,12 +7,39 @@ race: Yêu Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Luyện Khí Viên Mãn
-    methods: []
+    methods: [chỉ biết Tiểu Báo Tốn Thân]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [119, 150, 122, 150, 128, 123]
+    relationships:
+      - character: Báo Hắc Dạ
+        description: Báo Vương, cha ruột mà hắn yêu quý nhất đời, luôn bám theo cha dù bị mắng
+        feelings:
+          yeu: 65
+          han: 0
+          kinh: 0
+          tin: 53
+          so: 0
+          on: 31
+      - character: Báo Nguyệt Nha
+        description: Trinh Sát, chị gái hay dắt hắn đi chơi, người hắn thích nhất sau cha
+        feelings:
+          yeu: 52
+          han: 0
+          kinh: 0
+          tin: 53
+          so: 0
+          on: 48
+      - character: Báo Ám Ảnh Phong
+        description: Sát Thủ, chú ấy rất đáng sợ nhưng luôn âm thầm để đồ ăn ngon cho hắn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 79
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: BÁO TIỂU HẮC (豹小黑)

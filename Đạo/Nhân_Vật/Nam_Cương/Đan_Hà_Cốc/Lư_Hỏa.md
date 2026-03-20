@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Viên Mãn
-    methods: []
+    methods: [Lư Hỏa Thiêu Thiên]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3000, 3000, 3000, 2476, 3000, 3000]
+    relationships:
+      - character: Đan Dương Tử
+        description: Cốc Chủ, người mà ông thề bảo vệ bằng mạng sống, tình đồng môn sâu nặng
+        feelings:
+          yeu: 74
+          han: 0
+          kinh: 0
+          tin: 51
+          so: 0
+          on: 22
+      - character: Thạch Hổ
+        description: Hộ Pháp Đường Chủ, thuộc hạ tin cậy nhất, cùng chỉ huy lực lượng hộ pháp
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Phùng Đan Thanh
+        description: Hữu Hộ Pháp, đồng liêu chiến đấu lâu năm, phối hợp ăn ý trên chiến trường
+        feelings:
+          yeu: 34
+          han: 0
+          kinh: 0
+          tin: 34
+          so: 0
+          on: 0
+      - character: Hạ Viêm
+        description: Thái Thượng Trưởng Lão, ân sư mà ông kính trọng tuyệt đối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 51
+          tin: 34
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LƯ HỎA (盧火)

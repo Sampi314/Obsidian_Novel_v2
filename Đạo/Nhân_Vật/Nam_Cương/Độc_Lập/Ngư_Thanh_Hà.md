@@ -7,12 +7,48 @@ race: Hải Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Viên Mãn
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [408, 500, 500, 500, 428, 413]
+    relationships:
+      - character: Giải Đại Kìm
+        description: Láng giềng thân thiết nhất, hai người cùng bảo vệ khúc sông họ sinh sống. Đại Kìm xây đập, Thanh Hà canh giữ nguồn cá
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 0
+          tin: 41
+          so: 0
+          on: 39
+      - character: Hà Thiên Nhảy Sông
+        description: Đối tác buôn bán, Thanh Hà đánh cá và cung cấp hải sản cho Hà Thiên vận chuyển bán
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Giao Phong Lãng Hải
+        description: Biết bí mật về quá khứ lưu vong của Lãng Hải, giữ kín vì coi hắn là đồng tộc Hải Tộc cần bảo vệ
+        feelings:
+          yeu: 56
+          han: 0
+          kinh: 0
+          tin: 47
+          so: 0
+          on: 22
+      - character: Linh Vi Trần
+        description: Thỉnh thoảng trao đổi tin tức, Thanh Hà cung cấp thông tin về tình hình ven sông để đổi lấy những bí mật thú vị từ Vi Tộc
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NGƯ THANH HÀ (魚清河)

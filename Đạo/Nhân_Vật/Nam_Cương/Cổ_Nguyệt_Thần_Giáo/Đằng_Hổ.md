@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Đỉnh Phong
-    methods: []
+    methods: [Song Hổ Phá Sơn]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1800, 1800, 1564, 1353, 1800, 1620]
+    relationships:
+      - character: Đằng Thiết Sơn
+        description: Thống Lĩnh Đồ Đằng, sư đệ thân như ruột thịt, hai người bổ sung nhau hoàn hảo trên chiến trường
+        feelings:
+          yeu: 23
+          han: 0
+          kinh: 0
+          tin: 34
+          so: 0
+          on: 0
+      - character: Sơn Mãng
+        description: Chiến Sĩ Đồ Đằng, đàn em mà ông rất quý mến và thường kéo đi uống rượu
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Đằng Thanh
+        description: Đệ Tử Đồ Đằng, sư điệt mà ông thường xuyên rèn luyện bằng phương pháp thô bạo nhưng hiệu quả
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Tuyết Nguyệt
+        description: Đại Tư Tế, ông kính trọng và tuân lệnh tuyệt đối dù đôi khi không hiểu các quyết sách phức tạp của bà
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 41
+          tin: 49
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐẰNG HỔ (藤虎)

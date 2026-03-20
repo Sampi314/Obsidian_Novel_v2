@@ -7,12 +7,30 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [374, 321, 322, 289, 354, 345]
+    relationships:
+      - character: Thạch Vạn Lý
+        description: Đội Trưởng, người mà Ám Dạ kính trọng và phò tá hết mình
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 78
+          tin: 41
+          so: 0
+          on: 0
+      - character: Lâm Tiểu Đăng
+        description: Thám Hiểm Viên trẻ nhất đội, người mà Ám Dạ chăm sóc và bảo vệ
+        feelings:
+          yeu: 80
+          han: 0
+          kinh: 0
+          tin: 40
+          so: 0
+          on: 36
 ---
 
 # HỒ SƠ NHÂN VẬT: LÝ ÁM DẠ (李暗夜)

@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2960, 3000, 2487, 2663, 2912, 2815]
+    relationships:
+      - character: Huyết Tôn
+        description: Tông Chủ, người mà Cừu Thiên tuyệt đối trung thành dù thường xuyên làm trái ý
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 72
+          so: 0
+          on: 0
+      - character: Cừu Tiểu Đao
+        description: Con trai ruột, đang được Cừu Thiên huấn luyện trở thành chiến sĩ mạnh nhất thế hệ mới
+        feelings:
+          yeu: 59
+          han: 0
+          kinh: 0
+          tin: 49
+          so: 0
+          on: 38
+      - character: Hà Minh Phong
+        description: Đệ Nhị Huyết Tướng, người mà Cừu Thiên khinh thường vì chỉ biết dùng mưu kế
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: -21
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CỪU THIÊN (仇天)

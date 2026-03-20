@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
-    methods: []
+    methods: [ức sở trường Ngọc Yên Phân Dược]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [341, 400, 400, 353, 318, 388]
+    relationships:
+      - character: Lâm Thanh Hà
+        description: Đệ Tứ Tháp Chủ, chị gái ruột mà nàng yêu thương và ngưỡng mộ vô cùng
+        feelings:
+          yeu: 61
+          han: 0
+          kinh: 58
+          tin: 55
+          so: 0
+          on: 42
+      - character: Hứa Luyện
+        description: Đệ Bát Tháp Chủ, sư phụ hướng dẫn kỹ thuật, nàng kính trọng sự uyên bác
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 65
+          tin: 55
+          so: 0
+          on: 55
+      - character: Phùng Lô Hỏa
+        description: Nội Môn Đệ Tử, bạn đồng môn thân thiết, hai người hay giúp đỡ nhau
+        feelings:
+          yeu: 57
+          han: 0
+          kinh: 0
+          tin: 56
+          so: 0
+          on: 48
+      - character: Dương Tiểu Lô
+        description: Đại Đệ Tử, sư huynh mà nàng ngưỡng mộ nhưng hay xấu hổ khi nói chuyện
+        feelings:
+          yeu: 43
+          han: 0
+          kinh: 79
+          tin: 44
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LÂM NGỌC YÊN (林玉煙)

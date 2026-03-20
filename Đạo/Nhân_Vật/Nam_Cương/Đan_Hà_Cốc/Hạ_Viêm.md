@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Hóa Thần Trung Kỳ
-    methods: []
+    methods: [Viêm Đế Phần Thiên]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [7000, 11000, 11000, 8882, 10574, 11000]
+    relationships:
+      - character: Đan Dương Tử
+        description: Cốc Chủ, đệ tử đắc ý nhất, người kế thừa toàn bộ di sản đan đạo của ông
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Dương Linh Hỏa
+        description: Đệ Nhất Tháp Chủ, đệ tử lớn tuổi nhất còn sống, ông tin tưởng giao phó nhiều trọng trách
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 68
+          so: 0
+          on: 0
+      - character: Lư Hỏa
+        description: Tả Hộ Pháp, chiến tướng bảo vệ cốc, ông coi như con cháu trong nhà
+        feelings:
+          yeu: 68
+          han: 0
+          kinh: 0
+          tin: 55
+          so: 0
+          on: 30
 ---
 
 # HỒ SƠ NHÂN VẬT: HẠ VIÊM (夏炎)

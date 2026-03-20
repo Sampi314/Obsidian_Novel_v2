@@ -7,12 +7,48 @@ race: Trùng Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [c thầy Thượng Cổ Trùng Cô Thuật, Nguyệt Hạ Vạn Trùng]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2000, 2899, 2526, 2739, 2311, 2767]
+    relationships:
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ Vạn Độc Môn, đồng liêu cấp cao mà bà vừa kính trọng vừa cảnh giác
+        feelings:
+          yeu: 47
+          han: 0
+          kinh: 65
+          tin: -42
+          so: 0
+          on: 0
+      - character: U Ảnh
+        description: Nhện Sát Thủ, thuộc hạ Trùng Tộc đáng tin cậy, bà coi như cháu nuôi
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 80
+          so: 0
+          on: 0
+      - character: Phong Thiên Châm
+        description: Thích Khách, đồng liêu Trùng Tộc trong môn, hai người phối hợp trùng độc ám sát rất hiệu quả
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 0
+          tin: 49
+          so: 0
+          on: 0
+      - character: Ân Tiểu Độc
+        description: Đệ tử Vạn Độc Môn, hắn từng xin bà dạy cổ trùng thuật nhưng bà từ chối vì hắn thiếu kiên nhẫn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CÔ NGUYỆT NƯƠNG (蛊月娘)

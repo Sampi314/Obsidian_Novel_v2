@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [350, 303, 279, 240, 350, 350]
+    relationships:
+      - character: Đỗ Môn
+        description: Anh trai ruột kiêm Trại Chủ, người mà Đỗ Hải sẵn sàng chết thay
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Đỗ Hùng
+        description: Cháu trai, con của anh, Đỗ Hải rất cưng chiều
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Vương Thiết Nha
+        description: Hắc Đao Trưởng Lão, chiến hữu thường xuyên uống rượu cùng
+        feelings:
+          yeu: 26
+          han: 0
+          kinh: 0
+          tin: 26
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐỖ HẢI (杜海)

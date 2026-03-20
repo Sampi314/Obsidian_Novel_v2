@@ -1,72 +1,174 @@
 ---
 type: faction
-name: HẢI LONG MÃ ĐOÀN
+name: Hải Long Mã Đoàn
 hantu: 海龙马团
-faction_type: ''
-alignment: 0
-race: ''
+faction_type: Quân Đoàn
+alignment: 1
+race: Hải Tộc (Á Long, Long Tộc huyết mạch thấp)
 region: Vô Tận Hải
-founded: ''
-founder: ''
-emblem: ''
-specialty: ''
-economy: []
+founded: Từ khi Long Cung thành lập
+founder: Không rõ (do Long Cung chỉ định)
+emblem: Hai_Long_Ma_Doan.png
+specialty: Thuần hóa Hải Long Mã, Vận chuyển biển sâu, Chăm sóc linh thú
+economy:
+- Cung cấp dịch vụ vận chuyển cho Long Cung
+- Nhân giống và thuần hóa Hải Long Mã
 arcs:
-- arc: 1
-  status: Chưa Xác Định
-  rank: ''
-  leader: ''
-  population: 0
-  territory: []
-  assets: []
-  stats:
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  - 0
-  divisions: []
-  relationships: []
+  - arc: 1
+    status: Phục dịch Long Cung
+    rank: Không Xếp Hạng
+    leader: Mã Phu Trưởng Lão Hoàng Lân
+    population: 60
+    territory:
+      - Chuồng Ngựa Biển (rìa lãnh thổ Long Cung)
+    assets:
+      - name: Đồng Cỏ Biển (Tảo biển lớn)
+        type: Tài Nguyên
+      - name: Hải Long Mã Bạc Mao
+        type: Pháp Bảo
+    stats: [10, 10, 5, 60, 10, 5]
+    divisions:
+      - name: Mã Phu Đội
+        role: Chăm sóc, thuần hóa và điều khiển đàn Hải Long Mã phục vụ Long Cung
+        headcount:
+          tuong: 1
+          uy: 0
+          binh: 10
+        members:
+          - character: Hoàng Lân
+            position: Mã Phu Trưởng
+            cultivation: Trúc Cơ Trung Kỳ
+          - character: "[Mã Phu Phó]"
+            position: Phó Đội Trưởng
+            cultivation: Luyện Khí Viên Mãn
+            placeholder: true
+    relationships:
+      - faction: Long Cung
+        description: Hoàn toàn lệ thuộc. Hải Long Mã Đoàn tồn tại chỉ để phục vụ Long Cung, không có quyền tự quyết hay tài nguyên riêng. Bị coi là tầng đáy xã hội Long Tộc.
+        diplomacy:
+          lien_minh: 10
+          tin: 20
+          uy_hiep: 80
+          thuong_mai: 0
+          on_oan: -30
+          le_thuoc: 100
+      - faction: Tạp Huyết Long Đàn
+        description: Cùng cảnh ngộ bị Long Cung coi thường vì huyết mạch thấp. Có sự đồng cảm ngầm nhưng mã phu không dám công khai liên lạc vì sợ bị trừng phạt.
+        diplomacy:
+          lien_minh: 10
+          tin: 20
+          uy_hiep: 0
+          thuong_mai: 5
+          on_oan: 15
+          le_thuoc: 0
+      - faction: Ấu Long Học Viện
+        description: Thỉnh thoảng Hải Long Mã Đoàn cung cấp ngựa biển cho học viện dùng trong huấn luyện, là dịp hiếm hoi được đối xử tương đối tử tế.
+        diplomacy:
+          lien_minh: 15
+          tin: 25
+          uy_hiep: 10
+          thuong_mai: 20
+          on_oan: 0
+          le_thuoc: 30
 ---
 
 # HẢI LONG MÃ ĐOÀN (海龙马团)
 
-## I. TỔNG QUAN
-- **Tên:** Hải Long Mã Đoàn
-- **Loại Hình:** Đoàn
-- **Cấp Bậc:** Không xếp hạng
-- **Trụ Sở:** Chuồng Ngựa Biển, vùng biển gần Long Cung
-- **Người Đứng Đầu:** Mã Phu Trưởng Lão Hoàng Lân (tương đương Trúc Cơ)
+> *"Ba trăm năm ta chăm ngựa cho Long Cung, chưa một Chân Long nào nói 'cảm ơn.' Nhưng Ngân Phong hiểu — mỗi sáng nó dụi đầu vào tay ta, thế là đủ."*
+> — Hoàng Lân, Mã Phu Trưởng, thì thầm với đàn ngựa trong đêm khuya
 
-## II. ĐỊA LÝ & TÀI NGUYÊN
-- Khu vực nuôi nhốt nằm ở rìa lãnh thổ Long Cung — nơi linh khí dư thừa nhưng không ai thèm ở.
-- Đồng cỏ biển (tảo biển lớn) dùng làm thức ăn cho Hải Long Mã.
-- Không có tài nguyên riêng — hoàn toàn phụ thuộc vào Long Cung phân phát.
-- Chuồng nuôi bốc mùi nhưng Chân Long không bao giờ đến gần — chỉ gọi mã phu mang ngựa đến.
+> *"Kẻ chăm ngựa biết nhiều hơn kẻ cưỡi ngựa — vì ngựa nói thật với kẻ cho nó ăn, không phải kẻ đánh roi nó."*
+> — Tục ngữ cổ của Á Long, truyền khẩu tại Tảo Dã
 
-## III. VĂN HÓA & TÍN NGƯỠNG
-- Hải Long Mã là giống lai giữa Long Tộc cấp thấp và ngựa biển linh — hình dáng ngựa nhưng có vảy rồng mờ nhạt.
-- Bị Long Cung coi như gia súc, dùng để kéo xe cho Chân Long đi lại.
-- Mã Phu đều là Á Long hoặc Long Tộc huyết mạch cực thấp — bị phân công làm việc "hạ đẳng."
+## I. Tổng Quan (总览)
+Hải Long Mã Đoàn là đơn vị chăm sóc và thuần hóa Hải Long Mã — giống lai giữa Long Tộc cấp thấp và ngựa biển linh — phục vụ nhu cầu di chuyển và vận chuyển của Long Cung. Dẫn đầu bởi Mã Phu Trưởng Lão Hoàng Lân, một Á Long già đã trung thành phục vụ Long Cung suốt hơn ba trăm năm mà chưa một lần được Chân Long nói lời cảm ơn.
 
-## IV. CƠ CẤU TỔ CHỨC
-- **Mã Phu Trưởng:** Hoàng Lân, Á Long già trung thành với Long Cung suốt đời.
-- **Mã Phu:** Mười người, Luyện Khí.
-- **Hải Long Mã:** Năm mươi con, linh thú cấp thấp.
-- Công việc đơn điệu, lặp đi lặp lại — mã phu không có cơ hội thăng tiến hay tu luyện.
+Với chỉ mười mã phu và năm mươi con Hải Long Mã, đây là thế lực nhỏ nhất và bị coi thường nhất trong hệ thống Long Cung, nhưng lại đóng vai trò không thể thiếu — nếu mã phu đình công, các Chân Long quý tộc sẽ phải tự mình di chuyển. Sự tồn tại của Hải Long Mã Đoàn là bức tranh thu nhỏ về phân tầng xã hội trong Long Cung: huyết mạch quyết định số phận, và những ai sinh ra ở đáy thì mãi mãi ở đáy.
 
-## V. CÔNG PHÁP & TRẬN PHÁP
-- Không có công pháp chiến đấu — chỉ biết thuần hóa và chăm sóc Hải Long Mã.
-- Hoàng Lân nắm Thuần Thú Thuật cấp thấp, giúp kiểm soát đàn ngựa biển.
+> *"Long Cung có nghìn điện vạn phòng, nhưng chỉ có một nơi thật sự không nói dối — đó là chuồng ngựa. Bởi vì ngựa không biết dối, và mã phu không ai thèm nghe."*
+> — Hoàng Lân, trong cuốn nhật ký da cá mập, trang thứ ba trăm mười bảy
 
-## VI. LỊCH SỬ TÓM TẮT
-- Đoàn tồn tại từ khi Long Cung thành lập, luôn ở tầng đáy xã hội Long Tộc.
-- Hoàng Lân phục vụ đã hơn ba trăm năm, chưa bao giờ được Chân Long nói lời cảm ơn.
-- Từng có một Mã Phu cố gắng tu luyện vượt bậc, bị Chân Long đánh vì "không biết phận."
-- Hải Long Mã tuy bị coi thường nhưng là phương tiện di chuyển không thể thiếu — nếu mã phu đình công, Long Cung sẽ bất tiện lớn.
+## II. Địa Lý & Tài Nguyên (地理 与 资源)
+Chuồng Ngựa Biển nằm ở rìa ngoài cùng lãnh thổ Long Cung — vùng biển mà linh khí dư thừa nhưng không Chân Long nào thèm ở vì vị trí hẻo lánh và "mùi ngựa," người trong Long Cung gọi nơi này là Tanh Vực. Mùi tanh nồng đặc trưng của Hải Long Mã hòa lẫn với rong biển tạo thành thứ mùi mà Hoàng Lân gọi là "hương Tảo Dã" — ông đã quen đến mức không còn ngửi thấy, nhưng bất kỳ Chân Long nào đến gần hai mươi trượng đều nhăn mặt bỏ đi.
 
-## VII. GIAI THOẠI & BÍ MẬT
-- Trong đàn Hải Long Mã có một con thể hiện trí tuệ bất thường — có thể đã kế thừa ký ức từ tổ tiên Long Tộc thuần chủng.
-- Hoàng Lân âm thầm ghi chép mọi chuyện diễn ra trong Long Cung suốt ba trăm năm — cuốn nhật ký đó có giá trị tình báo khổng lồ.
-- Có một con Hải Long Mã đặc biệt lông bạc, chạy nhanh gấp ba lần bình thường — Chân Long tranh nhau sử dụng nó.
+Phía đông là Tảo Dã — đồng cỏ biển rộng lớn gồm các loại tảo biển lớn dùng làm thức ăn cho Hải Long Mã, trong đó có giống Thanh Mao Tảo mọc cao đến ba trượng, uốn lượn theo hải lưu như đồng lúa trên cạn. Mỗi mùa sinh trưởng, Tảo Dã đổi màu từ xanh lục sang vàng kim rồi lại về xanh, tạo nên cảnh sắc đẹp nhất vùng rìa Long Cung mà chẳng ai đến ngắm. Phía tây là Hàn Nham Tường — bức tường đá tự nhiên ngăn cách chuồng ngựa với khu vực sinh sống của Chân Long, vừa là ranh giới địa lý vừa là ranh giới giai cấp.
+
+Ngoài đồng cỏ biển, khu vực không có bất kỳ tài nguyên đáng kể nào — mọi vật tư từ linh thạch đến thức ăn cho mã phu đều phụ thuộc hoàn toàn vào Long Cung phân phát, luôn ở mức tối thiểu. Ở góc đông bắc Tảo Dã có một hốc đá tự nhiên mà Hoàng Lân gọi là Tĩnh Mã Am — nơi ông lui tới mỗi khi muốn một mình, ngồi giữa rong biển xanh nghe tiếng ngựa hí vọng lại từ xa. Trên vách đá Tĩnh Mã Am, Hoàng Lân khắc một câu duy nhất: "Ngựa không oán người cưỡi, ta không oán trời sinh" — dòng chữ đã mờ đi vì nước biển bào mòn suốt hai trăm năm nhưng vẫn đọc được nếu sờ tay lên.
+
+## III. Văn Hóa & Tín Ngưỡng (文化 与 信仰)
+Hải Long Mã là giống lai đặc biệt — hình dáng ngựa nhưng có vảy rồng mờ nhạt trên thân, bờm là các sợi tảo linh phát sáng nhạt, bốn chân có màng bơi và đuôi mang hình đuôi cá. Chúng bị Long Cung coi như gia súc, dùng để kéo xe cho Chân Long đi lại giữa các cung điện dưới đáy biển. Mã phu đều là Á Long hoặc Long Tộc huyết mạch cực thấp — bị phân công làm công việc "hạ đẳng" mà không ai trong Long Cung muốn đảm nhận.
+
+Văn hóa trong đoàn mang đậm sự cam chịu và nhẫn nhục, nhưng cũng ẩn chứa lòng tự trọng bị đè nén. Hoàng Lân dạy các mã phu rằng "chăm sóc sinh linh là việc cao quý, dù thế gian không công nhận" — triết lý giúp họ duy trì phẩm giá trong hoàn cảnh bị khinh miệt. Mỗi khi có ngựa biển chết, mã phu tổ chức "Tống Mã Lễ" giản dị — thả xác ngựa vào dòng hải lưu ấm hướng nam, hát bài "Tảo Dã Ca" mà Hoàng Lân sáng tác, giai điệu buồn vang vọng trong đêm biển. Bài ca chỉ có bốn câu: "Tảo xanh nuôi ngựa, ngựa chở người, người quên kẻ nuôi, kẻ nuôi không quên."
+
+Chân Long không bao giờ biết đến nghi lễ này, và nếu biết có lẽ sẽ cười nhạo. Nhưng đối với mã phu, Tống Mã Lễ là khoảnh khắc thiêng liêng nhất — lần duy nhất họ được đứng thẳng lưng, ngẩng đầu, và cảm thấy mình là người chứ không phải nô bộc. Hoàng Vân kể rằng lần đầu chứng kiến Tống Mã Lễ khi mới vào đoàn, cậu đã khóc không phải vì thương ngựa mà vì thấy ông nội Hoàng Lân hát với vẻ trang nghiêm mà Long Vương cũng không sánh được.
+
+> *"Tảo xanh nuôi ngựa, ngựa chở người, người quên kẻ nuôi, kẻ nuôi không quên."*
+> — "Tảo Dã Ca," khúc ca duy nhất của Hải Long Mã Đoàn
+
+## IV. Cơ Cấu Tổ Chức (组织结构)
+Cấu trúc cực kỳ đơn giản, phản ánh quy mô nhỏ bé của đoàn. Hoàng Lân là Mã Phu Trưởng, chịu trách nhiệm toàn bộ công việc thuần hóa, chăm sóc và điều phối Hải Long Mã cho Long Cung, đồng thời là người duy nhất trong đoàn có tu vi đạt Trúc Cơ. Mã Phu Phó — một Á Long trẻ tên Hoàng Vân, cháu gọi Hoàng Lân bằng ông — phụ trách quản lý kho tảo và phân công ca trực.
+
+Bên dưới là tám mã phu, toàn bộ ở cảnh giới Luyện Khí hoặc thấp hơn, chia nhau chăm sóc năm mươi con Hải Long Mã, mỗi người phụ trách năm đến sáu con. Công việc đơn điệu, lặp đi lặp lại mỗi ngày: cho ăn, tắm rửa, thuần hóa ngựa mới, và mang ngựa đến khi Chân Long có nhu cầu — bất kể giờ giấc. Tám mã phu mang tên giản dị theo thứ tự vào đoàn: Nhất Vĩnh, Nhị Đồng, Tam Hà, Tứ Minh, Ngũ Phong, Lục An, Thất Dương, và Bát Hải — tên do Hoàng Lân đặt, mỗi tên mang một chữ lấy từ câu "Vĩnh Đồng Hà Minh Phong An Dương Hải" nghĩa là "mãi mãi cùng nhau, dưới ánh sáng gió yên biển lặng."
+
+Mỗi mã phu đặt tên riêng cho từng con ngựa mình chăm sóc — Thanh Vân, Bạch Sương, Hắc Lãng, Tiểu Thủy — dù Long Cung chỉ gọi chúng bằng số hiệu. Mã phu không có cơ hội thăng tiến hay tu luyện chính thức — mọi tài nguyên tu luyện của Long Cung đều dành cho Chân Long và Giao Long, không bao giờ phân bổ đến tầng đáy.
+
+## V. Công Pháp & Trận Pháp (功法 与 阵法)
+Hải Long Mã Đoàn không sở hữu bất kỳ công pháp chiến đấu nào — Long Cung không cho phép và cũng không cần mã phu biết đánh. Kỹ năng duy nhất đáng kể là "Nhu Long Thuần Thú Thuật" mà Hoàng Lân tự mày mò phát triển qua ba trăm năm kinh nghiệm, cho phép giao tiếp và kiểm soát đàn Hải Long Mã thông qua sóng thần thức nhẹ hòa quyện với âm thanh trầm — một dạng kết hợp giữa thần thức và ca thuật mà không tông phái nào dạy.
+
+Đây không phải pháp thuật cao cấp, mà là kỹ thuật tích lũy qua kinh nghiệm thực tế, hiệu quả bất ngờ đến mức ngay cả Thuần Thú Sư chuyên nghiệp cũng khó bắt chước. Hoàng Lân sử dụng mười hai giai điệu khác nhau — mỗi giai điệu mang một mệnh lệnh: "về chuồng," "bơi nhanh," "dừng lại," "bình tĩnh" — đàn ngựa thuần thục đến mức phản ứng trong nháy mắt. Giai điệu thứ mười hai — "Quy Hương" — chỉ dùng một lần duy nhất khi ngựa sắp chết, giai điệu dịu dàng nhất, khiến ngựa nằm xuống yên bình như đang ngủ thay vì giãy giụa đau đớn.
+
+Ngoài ra, Hoàng Lân phát triển được khả năng cảm nhận tâm trạng và sức khỏe của Hải Long Mã qua biểu hiện nhỏ nhất — ánh mắt, cách vỗ đuôi, nhịp thở — một năng lực mà không ai khác trong Long Cung có được, nhưng cũng không ai coi trọng. Mã phu trẻ Hoàng Vân gần đây bắt đầu lén tập "Cơ Bản Long Tộc Thể Luyện Công" — bộ công pháp cấp thấp nhặt được từ một cuốn sách vứt đi trong bãi rác Long Cung. Hoàng Lân biết nhưng giả vờ không thấy — lão không muốn cháu mình lặp lại bi kịch của Thanh Lân, nhưng cũng không nỡ dập tắt tia hy vọng cuối cùng của tuổi trẻ.
+
+## VI. Đặc Sản Môn Phái (门派特产)
+Sản phẩm chính của Hải Long Mã Đoàn là chính bản thân Hải Long Mã — những con ngựa biển đã được thuần hóa, có thể kéo xe và chở người di chuyển dưới đáy biển với tốc độ nhanh hơn bơi thông thường gấp năm lần.
+
+**Ngân Phong** — con Hải Long Mã lông bạc nhanh nhất đàn — được coi là "bảo mã" của Long Cung, các Chân Long tranh nhau sử dụng mỗi khi cần di chuyển gấp. Ngân Phong có thể chạy từ Chuồng Ngựa đến Trung Tâm Long Cung chỉ trong nửa canh giờ, tốc độ mà không con ngựa biển nào khác sánh được. Vảy trên thân Ngân Phong sáng hơn bất kỳ con nào trong đàn, bờm tảo linh phát quang bạc rực rỡ — Hoàng Lân tin rằng Ngân Phong mang huyết mạch Long Tộc thuần hơn hẳn đồng loại, nhưng không dám nói ra.
+
+**Long Mã Phân** tuy bốc mùi nhưng là phân bón tuyệt vời cho tảo biển và san hô, chứa vi lượng long khí giúp thực vật biển phát triển mạnh mẽ; thỉnh thoảng được một số Hải Tộc nông nghiệp như Hải Tảo Nông Dân Hội tìm mua.
+
+**Nguyệt Quang Ti** — lông bờm Hải Long Mã, những sợi tảo linh phát sáng — có thể dùng làm nguyên liệu dệt vải dạ quang cấp thấp hoặc bện thành dây buộc pháp khí có tính kháng nước, nhưng sản lượng quá ít để trở thành thương phẩm đáng kể. Hoàng Lân giữ lại mỗi sợi Nguyệt Quang Ti rơi từ bờm Ngân Phong, bện thành một chiếc vòng tay nhỏ tặng Hoàng Vân — vật duy nhất phát sáng trong căn phòng tối của cháu lão.
+
+## VII. Cơ Sở Hạ Tầng (基础设施)
+Chuồng Ngựa Biển là toàn bộ cơ sở hạ tầng của đoàn — một khu vực rộng được rào bằng san hô cứng và trận pháp đơn giản, chia thành năm chuồng lớn mang tên Giáp, Ất, Bính, Đinh, Mậu, mỗi chuồng chứa mười con Hải Long Mã.
+
+**Mã Phu Xá** — khu ở của mã phu nằm liền kề, gồm mười phòng nhỏ xây bằng đá biển, chật chội và ẩm ướt nhưng được Hoàng Lân trang trí bằng vỏ sò và san hô nhỏ, tạo chút ấm cúng trong hoàn cảnh tồi tàn. Trên tường phòng Hoàng Lân có khắc tên từng con Hải Long Mã ông từng chăm sóc suốt ba trăm năm — hơn hai trăm cái tên, bao gồm cả những con đã chết từ lâu. Mỗi cái tên khắc bằng móng tay Á Long, sâu vừa đủ để nước biển không xóa nổi. Góc phòng có một kệ nhỏ bày ba vật: sợi Nguyệt Quang Ti đầu tiên ông thu được, chiếc vảy bạc Ngân Phong rụng khi còn nhỏ, và viên sỏi biển nhẵn bóng — kỷ vật duy nhất từ Thanh Lân.
+
+**Thuần Mã Trường** — bãi huấn luyện ngoài trời dùng để thuần hóa Hải Long Mã mới sinh, đáy lót cát mịn để ngựa con không bị thương khi ngã. **Tảo Khố** — kho tảo biển dự trữ đủ thức ăn cho đàn ngựa trong một tháng, quản lý bởi Hoàng Vân. Tất cả đều thô sơ, tối giản, và được duy trì bằng sức lao động của mã phu thay vì pháp thuật — Long Cung không lãng phí linh thạch cho "chuồng ngựa."
+
+## VIII. Kinh Tế (经济)
+Hải Long Mã Đoàn không có kinh tế độc lập. Toàn bộ chi phí hoạt động — từ thức ăn cho ngựa đến lương thực cho mã phu — đều do Long Cung cung cấp, ở mức tối thiểu vừa đủ để duy trì sự sống và hoạt động, không hơn không kém. Mã phu không nhận bổng lộc hay linh thạch, chỉ được cấp phát thực phẩm và nơi ở — điều kiện sống thua cả tù nhân trong ngục Long Cung.
+
+Đổi lại, đoàn phải đảm bảo Hải Long Mã luôn sẵn sàng phục vụ mọi nhu cầu di chuyển của Chân Long, bất kể ngày đêm, bất kể thời tiết. Thỉnh thoảng Hoàng Lân bán lén một ít Long Mã Phân cho nông dân biển qua trung gian tại Tảo Dã, thu được chút linh thạch lẻ để mua thuốc chữa thương cho mã phu bị thương — bốn mươi ba linh thạch hạ phẩm tích lũy suốt năm năm, đó là toàn bộ "quỹ đen" của đoàn, giấu trong hộp vỏ sò dưới sàn chuồng Mậu.
+
+Long Cung không biết hoặc không thèm quan tâm đến hoạt động này. Mã phu Tam Hà từng hỏi Hoàng Lân: "Bốn mươi ba viên linh thạch, Long Cung chi cho bữa tiệc một đêm còn nhiều hơn. Sao ta phải lén như ăn trộm?" Hoàng Lân đáp: "Vì đối với Long Cung, mã phu lấy một xu cũng là trộm, Chân Long lấy vạn xu cũng là quyền."
+
+## IX. Lịch Sử Tóm Tắt (简史)
+Hải Long Mã Đoàn tồn tại từ thuở khai thiên lập cung của Long Cung, luôn ở tầng đáy xã hội Long Tộc suốt hàng vạn năm. Không ai nhớ đội trưởng đầu tiên là ai, cũng không có sử sách ghi lại lịch sử của đoàn — bởi trong mắt Long Cung, mã phu không xứng đáng được ghi vào sử.
+
+Hoàng Lân đã phục vụ hơn ba trăm năm, chứng kiến ba đời Long Vương, vô số cuộc tranh giành quyền lực, và biết bao biến cố lớn nhỏ — từ "Loạn Giao Long" hai trăm năm trước đến cuộc thanh trừng Tạp Huyết Long Đàn gần đây. Từng có một mã phu trẻ tên Thanh Lân — em trai của Hoàng Lân — cố gắng tu luyện vượt bậc, đạt được Trúc Cơ Sơ Kỳ, nhưng bị một Chân Long tên Xích Viêm đánh trọng thương vì "mã phu hạ đẳng không biết phận mình."
+
+Thanh Lân từ đó tàn phế, sống nốt quãng đời trong chuồng ngựa, mỗi ngày nằm nghe tiếng ngựa hí mà không còn sức bước ra ngoài. Ngày Thanh Lân chết, Hoàng Lân không khóc — lão chỉ ngồi bên xác em suốt đêm, rồi sáng hôm sau quay lại cho ngựa ăn như không có gì xảy ra. Nhưng kể từ đêm đó, trên tường chuồng Mậu xuất hiện thêm dòng chữ khắc sâu nhất trong hơn hai trăm cái tên: "Thanh Lân — em trai ta, kẻ dám mơ."
+
+Kể từ đó không mã phu nào dám tu luyện công khai nữa — cho đến khi Hoàng Vân xuất hiện, lén lút tập từng động tác một vào đêm khuya khi cả chuồng ngựa chìm trong giấc ngủ.
+
+## X. Giai Thoại & Bí Mật (轶事 与 秘密)
+Trong đàn năm mươi Hải Long Mã, Ngân Phong — con lông bạc tốc độ nhanh gấp ba lần bình thường — được các Chân Long tranh nhau sử dụng, nhưng chỉ nghe lời Hoàng Lân. Bí mật hơn, trong đàn còn có một con tên "Mặc Ảnh" thể hiện trí tuệ bất thường — có thể hiểu tiếng nói và biểu cảm của người, đôi khi tự tìm đường về chuồng mà không cần mã phu dẫn.
+
+Hoàng Lân nghi ngờ Mặc Ảnh đã kế thừa ký ức từ tổ tiên Long Tộc thuần chủng qua hiện tượng "Huyết Mạch Hồi Tố," và nếu đúng vậy, nó có tiềm năng hóa long — điều chưa từng xảy ra với Hải Long Mã trong lịch sử. Ông giấu kín phát hiện này vì biết rõ Long Cung sẽ giết Mặc Ảnh ngay nếu biết — một con "gia súc" hóa long là sỉ nhục đối với Chân Long. Hoàng Lân thường xuyên để Mặc Ảnh ở chuồng Mậu — chuồng xa nhất, ít ai qua lại — và dặn Hoàng Vân: "Không bao giờ được mang Mặc Ảnh ra khi có Chân Long. Không bao giờ."
+
+Bí mật lớn nhất của Hoàng Lân là cuốn nhật ký bọc da cá mập mà ông âm thầm ghi chép suốt ba trăm năm — ghi lại mọi chuyện diễn ra trong Long Cung mà ông tai nghe mắt thấy khi mang ngựa đến các cung điện: cuộc mật đàm giữa trưởng lão, âm mưu tranh đoạt ngôi vị, giao dịch bí mật với thế lực bên ngoài. Cuốn nhật ký đó chứa đựng bí mật triều chính, âm mưu, và tình báo về lực lượng Long Cung — giá trị tình báo khổng lồ nếu rơi vào tay bất kỳ thế lực nào, và Hoàng Lân biết điều đó. Ông giấu nó dưới tảng đá ở góc chuồng Mậu, nơi không ai thèm nhìn đến.
+
+> *"Chân Long coi ta vô hình — đó là sai lầm lớn nhất của chúng. Kẻ vô hình thấy tất cả."*
+> — Hoàng Lân, ghi trên trang cuối cuốn nhật ký
+
+## XI. Quan Hệ Thế Lực (势力关系)
+Hải Long Mã Đoàn tồn tại hoàn toàn trong bóng tối quyền lực của Long Cung, không có tiếng nói và không có lựa chọn. Mối quan hệ với Long Cung là lệ thuộc tuyệt đối — mã phu phục vụ không công, không được quyền từ chối bất kỳ yêu cầu nào, và bất kỳ sự bất tuân nào dù nhỏ nhất đều có thể bị trừng phạt bằng bạo lực.
+
+Với **Tạp Huyết Long Đàn**, hai bên chia sẻ nỗi khổ chung của những Long Tộc huyết mạch thấp bị khinh miệt — Hoàng Lân từng lén gặp một trưởng lão Tạp Huyết Long tên Hắc Giác tại Tảo Dã vào đêm trăng mới, trao đổi tin tức và an ủi nhau, nhưng cả hai đều không dám liên lạc công khai vì sợ bị trừng phạt. Hắc Giác từng nói: "Lân huynh, chúng ta là Long nhưng không phải Long. Ngựa của huynh cũng vậy — là Long nhưng không phải Long. Đáy cùng của Long Cung, chúng ta ngồi cạnh nhau."
+
+**Ấu Long Học Viện** là nơi duy nhất đối xử tương đối tử tế khi cần Hải Long Mã cho huấn luyện — Lam Nguyệt luôn gửi linh cá dư thừa cho mã phu, và Hoàng Lân coi bà là người bạn duy nhất trong hệ thống Long Cung. Mỗi lần mang ngựa đến Học Viện, Hoàng Lân được ngồi uống trà với Lam Nguyệt — mười lăm phút trà nước ấm áp ấy là giây phút hạnh phúc nhất trong chuỗi ngày dài bất tận của lão mã phu.
+
+Nếu có một ngày Long Cung biến động, cuốn nhật ký ba trăm năm của Hoàng Lân sẽ là quân cờ thay đổi cục diện — nhưng lão mã phu chưa quyết định sẽ trao nó cho ai, và mỗi đêm ông lại lật vài trang cũ, đắn đo giữa lòng trung thành và khát vọng tự do.
+
+> *"Ba trăm năm chăm ngựa, ba trăm năm ghi chép. Long Cung nghĩ ta chỉ biết cho ngựa ăn — nhưng ngày cuốn nhật ký này mở ra, cả đại dương sẽ rung chuyển."*
+> — Hoàng Lân, độc thoại trong đêm trăng mới tại Tĩnh Mã Am

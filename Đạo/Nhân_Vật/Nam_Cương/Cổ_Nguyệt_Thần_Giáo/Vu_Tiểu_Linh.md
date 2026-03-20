@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Viên Mãn
-    methods: []
+    methods: [ức sở trường Tiểu Linh Phù Trận]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [350, 500, 398, 500, 457, 423]
+    relationships:
+      - character: Vu Thiên Hương
+        description: Đại Trưởng Lão Tế Tư, sư tổ trực tiếp truyền dạy, người mà nàng kính yêu nhất
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 57
+          tin: 46
+          so: 0
+          on: 39
+      - character: Vu Huyền Nương
+        description: Đệ Nhị Phó Tư Tế, sư bá mà nàng ngưỡng mộ và muốn trở thành giống như vậy
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 77
+          tin: 51
+          so: 0
+          on: 0
+      - character: Lam Nguyệt Nhi
+        description: Thánh Nữ, sư tỷ hiền lành luôn chăm sóc nàng, nàng coi như chị ruột
+        feelings:
+          yeu: 39
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
+      - character: Nguyệt Nhi
+        description: Đệ Tử Tế Tư, sư tỷ hay trêu đùa nàng nhưng nàng biết đó là yêu thương
+        feelings:
+          yeu: 72
+          han: 0
+          kinh: 0
+          tin: 68
+          so: 0
+          on: 47
 ---
 
 # HỒ SƠ NHÂN VẬT: VU TIỂU LINH (巫小靈)

@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Đỉnh Phong
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1382, 1800, 1575, 1800, 1558, 1800]
+    relationships:
+      - character: Huyết Tôn
+        description: Tông Chủ, người duy nhất mà Lý Ám tuyệt đối phục tùng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 34
+          tin: 0
+          so: 24
+          on: 0
+      - character: Tôn Hàn Thiết
+        description: Đệ Tứ Huyết Tướng, đồng liêu mà Lý Ám thỉnh thoảng phối hợp trong nhiệm vụ
+        feelings:
+          yeu: 37
+          han: 0
+          kinh: 0
+          tin: 44
+          so: 0
+          on: 0
+      - character: Hà Minh Phong
+        description: Đệ Nhị Huyết Tướng, người thường xuyên giao nhiệm vụ tình báo cho Lý Ám
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LÝ ÁM (李暗)

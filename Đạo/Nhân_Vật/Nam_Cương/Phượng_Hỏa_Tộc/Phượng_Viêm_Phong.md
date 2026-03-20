@@ -7,12 +7,48 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Hậu Kỳ
-    methods: []
+    methods: [luyện Viêm Phong Tốc Kích Thuật, Hỏa Tiễn Xuyên Lâm]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1199, 1486, 1600, 1600, 1292, 1248]
+    relationships:
+      - character: Phượng Xích Diệm
+        description: Chiến Sĩ, anh họ và đối thủ cạnh tranh, hai người bổ sung cho nhau trên chiến trường
+        feelings:
+          yeu: 26
+          han: 35
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
+      - character: Công Thái Hồng
+        description: Chiến Tướng, người mà hắn âm thầm học hỏi chiến thuật và nghệ thuật chỉ huy
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Phượng Viêm Cánh
+        description: Chiến Sĩ Trẻ, em họ nhỏ tuổi mà hắn kiên nhẫn dạy dỗ bay lượn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 68
+          tin: 21
+          so: 0
+          on: 37
+      - character: Phượng Xích
+        description: Tộc Trưởng, bác ruột mà hắn kính trọng, người quyết định tương lai của hắn trong gia tộc
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 51
+          tin: 53
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: PHƯỢNG VIÊM PHONG (鳳炎鋒)

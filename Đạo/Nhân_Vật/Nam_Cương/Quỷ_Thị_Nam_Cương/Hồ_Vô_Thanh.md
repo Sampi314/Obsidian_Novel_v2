@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1206, 1600, 1159, 1375, 1304, 1168]
+    relationships:
+      - character: Mạc Vô Diện
+        description: Quỷ Chủ, người duy nhất mà Hồ Vô Thanh báo cáo trực tiếp
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Ám Nhị
+        description: Tổng Quản phụ, đồng sự chia sẻ gánh nặng quản lý hàng ngày
+        feelings:
+          yeu: 47
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 0
+      - character: Chu Thiết Diện
+        description: Trưởng Lão Chấp Pháp, người mà Hồ Vô Thanh cung cấp thông tin vi phạm để xử lý
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HỒ VÔ THANH (胡無聲)

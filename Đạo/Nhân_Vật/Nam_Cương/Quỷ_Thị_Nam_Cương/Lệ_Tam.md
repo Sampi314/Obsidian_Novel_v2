@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [833, 1000, 906, 816, 742, 795]
+    relationships:
+      - character: Mạc Vô Diện
+        description: Quỷ Chủ, người giao quyền tổ chức mọi phiên đấu giá lớn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Chu Thiết Diện
+        description: Trưởng Lão Chấp Pháp, người bảo vệ an toàn cho Lệ Tam trong các phiên đấu giá
+        feelings:
+          yeu: 69
+          han: 0
+          kinh: 0
+          tin: 49
+          so: 0
+          on: 34
+      - character: Hồ Vô Thanh
+        description: Tổng Quản, người cung cấp thông tin về nguồn gốc vật phẩm cho Lệ Tam thẩm định
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LỆ TAM (厲三)

@@ -7,12 +7,30 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [161, 272, 222, 247, 250, 195]
+    relationships:
+      - character: Thạch Vạn Lý
+        description: Đội Trưởng, ân nhân thu nạp và cho cơ hội phát huy tài năng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Trần Thạch Nham
+        description: Đồng đội, thường phối hợp — một người tìm đường, một người đào khoáng
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 0
+          tin: 24
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CHÂU HÀN DẠ (周寒夜)

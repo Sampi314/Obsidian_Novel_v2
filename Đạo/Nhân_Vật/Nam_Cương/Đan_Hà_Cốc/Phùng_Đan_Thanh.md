@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Hậu Kỳ
-    methods: []
+    methods: [Đan Thanh Bách Phát]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3150, 4500, 4500, 3861, 4500, 4500]
+    relationships:
+      - character: Lư Hỏa
+        description: Tả Hộ Pháp, đồng liêu chiến đấu lâu năm, hai người bổ sung mưu và dũng cho nhau
+        feelings:
+          yeu: 27
+          han: 0
+          kinh: 0
+          tin: 35
+          so: 0
+          on: 0
+      - character: Đan Dương Tử
+        description: Cốc Chủ, sư huynh mà ông kính phục vì tài lãnh đạo
+        feelings:
+          yeu: 34
+          han: 0
+          kinh: 67
+          tin: 56
+          so: 0
+          on: 0
+      - character: Thạch Hổ
+        description: Hộ Pháp Đường Chủ, cấp trên trực tiếp mà ông phục vụ trung thành
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 29
+          tin: 59
+          so: 0
+          on: 0
+      - character: Dương Tiểu Lô
+        description: Đại Đệ Tử, thanh niên mà ông đánh giá có tiềm năng lãnh đạo tương lai
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: PHÙNG ĐAN THANH (馮丹青)

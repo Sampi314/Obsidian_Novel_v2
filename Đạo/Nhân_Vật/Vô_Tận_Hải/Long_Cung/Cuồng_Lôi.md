@@ -26,13 +26,17 @@ arcs:
 - **Chức Vụ:** Đông Phương Thủy Tướng.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Giao Long dữ tợn nhất, tiếng gầm vang như sấm rền ngàn dặm
+Một đầu Giao Long khổng lồ với vảy đen cứng như thép, thi thoảng lóe lên những tia sét tím mờ ảo. Đôi mắt hắn đỏ ngầu như máu, tiếng gầm vang như sấm rền ngàn dặm làm rung chuyển cả mặt biển. Cuồng Lôi cực kỳ kiêu ngạo, dễ nổi cơn thịnh nộ, xem mạng sống của các sinh vật khác như cỏ rác, luôn khao khát thể hiện sức mạnh tuyệt đối.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Tu luyện Lôi Điện thuộc tính vô cùng cuồng bạo, có thể hô phong hoán vũ, khống chế lôi kiếp một vùng nhỏ.
+- **Cuồng Lôi Thiên Phạt (狂雷天罚):** Triệu hồi hàng vạn đạo thiểm điện từ cửu thiên giáng xuống trận địa, thiêu rụi kẻ địch thành tro bụi.
+- **Lôi Cức Giao Thân (雷极蛟身):** Biến toàn thân thành một ngọn giáo lôi điện khổng lồ, phóng đi với tốc độ xé gió để xuyên thủng mọi hàng phòng ngự.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Đông Hải Long Vương:** Chủ nhân trực tiếp, người duy nhất có thể kiềm chế được bản tính hoang dại của hắn.
+- **Băng Nha:** Đối thủ khiến Cuồng Lôi vừa tôn trọng vừa kiêng dè, dù ghét sự câm lặng của tên kia nhưng không thể phủ nhận thực lực của hắn.
+- **Huyết Triều:** Khá hợp rơ trong việc tàn sát, nhưng Cuồng Lôi khinh thường thói quen hành hạ con mồi từ từ của ả, hắn thích nghiền nát kẻ thù ngay lập tức.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Xuất thân từ một nhánh Giao Long yếu ớt bị Long Cung hắt hủi, Cuồng Lôi trong một lần nổi điên đã lao lên mặt biển giữa cơn giông bão và tình cờ nuốt được một viên Cửu Thiên Lôi Châu từ một trận thiên kiếp xa xưa. Cơ thể biến dị, hắn mang uy áp của lôi kiếp, quay về đè bẹp những kẻ từng nhạo báng mình. Nhờ chiến công dẹp loạn các Hải Yêu phản nghịch, Đông Hải Long Vương phong hắn làm Đông Phương Thủy Tướng, giao nhiệm vụ mở rộng ranh giới Long Cung bằng bạo lực.

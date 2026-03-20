@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Viên Mãn
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [500, 426, 390, 432, 500, 424]
+    relationships:
+      - character: Lý Ám Dạ
+        description: Phó Đội, cánh tay phải đáng tin cậy nhất, phụ trách an toàn đội
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 79
+          so: 0
+          on: 0
+      - character: Châu Hàn Dạ
+        description: Bản Đồ Sư, người vẽ bản đồ dẫn đường dưới lòng đất
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Trần Thạch Nham
+        description: Khai Khoáng Sư, chuyên gia khai thác tài nguyên
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: THẠCH VẠN LÝ (石萬里)

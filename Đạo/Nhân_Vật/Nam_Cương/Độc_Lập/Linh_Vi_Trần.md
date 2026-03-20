@@ -7,12 +7,39 @@ race: Vi Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [851, 1000, 839, 854, 745, 870]
+    relationships:
+      - character: Bào Lưu Lạc
+        description: Đồng tộc Vi Tộc, đôi khi tình cờ gặp nhau trong hành trình lang thang. Hai người chia sẻ tin tức về Vi Tộc nhưng không thân thiết
+        feelings:
+          yeu: 69
+          han: 0
+          kinh: 0
+          tin: 50
+          so: 0
+          on: 42
+      - character: Dạ Nga Tiên
+        description: Cùng giới gián điệp, hai bên biết nhau nhưng cảnh giác cao độ — không ai muốn lộ bí mật cho kẻ khác
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: -34
+          so: 0
+          on: 0
+      - character: Ngư Thanh Hà
+        description: Nguồn thông tin tin cậy về tình hình ven sông, Linh Vi Trần thỉnh thoảng đổi bí mật lấy tin tức từ Thanh Hà
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LINH VI TRẦN (靈微塵)

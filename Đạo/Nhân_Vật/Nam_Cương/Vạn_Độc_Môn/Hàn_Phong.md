@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Viên Mãn
-    methods: []
+    methods: [Hàn Phong Nhất Kích]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1400, 1993, 1717, 2000, 2000, 1680]
+    relationships:
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ, người duy nhất có thể ra lệnh cho hắn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Đinh Huyết Mi
+        description: Nhị Sát, đồng đội mà hắn tin cậy nhất trong nhiệm vụ
+        feelings:
+          yeu: 37
+          han: 0
+          kinh: 0
+          tin: 25
+          so: 0
+          on: 0
+      - character: Bạch Vô Ảnh
+        description: Tam Sát, đồng đội có kỹ năng ẩn thân bổ sung cho hắn
+        feelings:
+          yeu: 29
+          han: 0
+          kinh: 0
+          tin: 34
+          so: 0
+          on: 0
+      - character: Hạ Thiên Châm
+        description: Yết Chi Hộ Pháp, người mà hắn nhận lệnh trực tiếp trong chiến đấu
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HÀN PHONG (韓鋒)

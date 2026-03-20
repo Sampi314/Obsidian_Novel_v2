@@ -7,12 +7,30 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Viên Mãn
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2000, 2821, 2615, 2652, 2748, 3000]
+    relationships:
+      - character: Huyết Tôn
+        description: Đệ tử ruột, người kế thừa Huyết Ma Tông mà lão đã đích thân truyền thụ công pháp
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 64
+          tin: 24
+          so: 0
+          on: 49
+      - character: Hà Minh Phong
+        description: Đệ Nhị Huyết Tướng, đệ tử thế hệ thứ hai mà lão đánh giá cao nhất về mưu lược
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: MỘ DUNG HUYẾT THIÊN (慕容血天)

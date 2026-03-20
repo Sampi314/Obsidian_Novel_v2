@@ -1,3 +1,9 @@
+<!-- NAVIGATION_START -->
+<div id="chapter-navigation" style="text-align: center; margin-bottom: 20px;"></div>
+<script src="../../../../scripts/chapter_data.js"></script>
+<script src="../../../../scripts/navigation.js"></script>
+<script src="../../../../scripts/tts_player.js"></script>
+<!-- NAVIGATION_END -->
 ---
 Tiêu Đề: "Chương 33: Đại Nạn Long Mạch"
 Mô Tả: "Phong ấn Long Cốt vỡ nát, Địa Sát thoát ra. Lục Ly hy sinh thân mình để mở đường máu cho nhóm người chạy thoát."

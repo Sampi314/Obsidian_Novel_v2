@@ -7,12 +7,30 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [227, 246, 231, 300, 251, 230]
+    relationships:
+      - character: Lưu Ám Ảnh
+        description: Cha ruột kiêm sư phụ, người mà Tiểu Long muốn noi theo
+        feelings:
+          yeu: 67
+          han: 0
+          kinh: 53
+          tin: 38
+          so: 0
+          on: 30
+      - character: Hoàng Nhi
+        description: Bạn đồng trang lứa, thường cùng nhau luyện tập và tuần tra
+        feelings:
+          yeu: 57
+          han: 0
+          kinh: 0
+          tin: 36
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LƯU TIỂU LONG (劉小龍)

@@ -15,3 +15,12 @@
 - [Chương 8: Sứ Mệnh Rời Rừng — *Lục Tiêu*](Chương_00008_Sứ_Mệnh_Rời_Rừng.md)
 - [Chương 9: Đại Địa Và Linh Hồn — *Nham Thần*](Chương_00009_Đại_Địa_Và_Linh_Hồn.md)
 - [Chương 10: Lời Tiên Tri Từ Rừng Sâu — *Nguyệt Dao / Lục Tiêu / Nham Thần / Lục Ly*](Chương_00010_Lời_Tiên_Tri_Từ_Rừng_Sâu.md)
+
+## Arc 2: Bước Chân Ra Ngoài — Mạch Đất Rung Chuyển (Chương 11-16)
+
+- [Chương 11: Ký Ức Và Sứ Mệnh — *Lục Ly*](Chương_00011_Ký_Ức_Và_Sứ_Mệnh.md)
+- [Chương 12: Nguyệt Quang Suy Tàn — *Nguyệt Dao*](Chương_00012_Nguyệt_Quang_Suy_Tàn.md)
+- [Chương 13: Phá Trụ — *Nham Thần*](Chương_00013_Phá_Trụ.md)
+- [Chương 14: Tiếng Sáo Giữa Hoang Dã — *Lục Tiêu*](Chương_00014_Tiếng_Sáo_Giữa_Hoang_Dã.md)
+- [Chương 15: Nước Không Lùi Bước — *Lục Ly*](Chương_00015_Nước_Không_Lùi_Bước.md)
+- [Chương 16: Giá Của Ánh Trăng — *Nguyệt Dao*](Chương_00016_Giá_Của_Ánh_Trăng.md)

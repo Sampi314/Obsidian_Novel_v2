@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [954, 1105, 1035, 1024, 1128, 1072]
+    relationships:
+      - character: Mạc Vô Diện
+        description: Quỷ Chủ, thượng cấp tối cao
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hồ Vô Thanh
+        description: Tổng Quản chính, đồng sự phối hợp ăn ý trong quản lý Quỷ Thị
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Chu Thiết Diện
+        description: Trưởng Lão Chấp Pháp, người mà Ám Nhị hỗ trợ trong các vụ điều tra
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ÁM NHỊ (暗二)

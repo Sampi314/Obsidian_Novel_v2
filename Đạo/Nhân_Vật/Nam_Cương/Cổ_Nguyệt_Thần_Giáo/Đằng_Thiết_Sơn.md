@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [Thiết Sơn Hổ Khiếu]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3000, 2770, 2912, 3000, 3000, 3000]
+    relationships:
+      - character: Tuyết Nguyệt
+        description: Đại Tư Tế, người mà Đằng Thiết Sơn thề bảo vệ đến hơi thở cuối cùng
+        feelings:
+          yeu: 77
+          han: 0
+          kinh: 0
+          tin: 48
+          so: 0
+          on: 34
+      - character: Đằng Hổ
+        description: Phó Trưởng Lão Đồ Đằng, sư huynh thân thiết cùng trưởng thành trong quân ngũ
+        feelings:
+          yeu: 59
+          han: 0
+          kinh: 0
+          tin: 69
+          so: 0
+          on: 20
+      - character: Sơn Mãng
+        description: Chiến Sĩ Đồ Đằng, thuộc hạ tin cậy nhất trên chiến trường
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Đằng Thanh
+        description: Đệ Tử Đồ Đằng, đệ tử ruột mà hắn đang đào tạo thành thế hệ kế cận
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 71
+          tin: 49
+          so: 0
+          on: 50
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐẰNG THIẾT SƠN (藤鐵山)

@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Trung Kỳ
-    methods: []
+    methods: [Thiên Châm Vạn Độc]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2660, 3800, 3707, 3770, 3800, 3192]
+    relationships:
+      - character: Độc Cô Lão Quái
+        description: Môn Chủ, cấp trên mà ông sợ hãi và phục tùng tuyệt đối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 46
+          tin: 0
+          so: 73
+          on: 0
+      - character: Liễu Lãnh Huyết
+        description: Xà Chi Hộ Pháp, đồng liêu mạnh nhất, cạnh tranh vị trí nhưng ngầm tôn trọng
+        feelings:
+          yeu: 30
+          han: 13
+          kinh: 0
+          tin: 23
+          so: 0
+          on: 0
+      - character: La Vân Ti
+        description: Nhện Chi Hộ Pháp, đồng liêu hay hợp tác trong các nhiệm vụ phức tạp
+        feelings:
+          yeu: 23
+          han: 0
+          kinh: 0
+          tin: 46
+          so: 0
+          on: 0
+      - character: Hàn Phong
+        description: Nhất Sát, thống lĩnh Thất Sát mà ông đánh giá cao sức mạnh
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 41
+          tin: 20
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẠ THIÊN CHÂM (夏天針)

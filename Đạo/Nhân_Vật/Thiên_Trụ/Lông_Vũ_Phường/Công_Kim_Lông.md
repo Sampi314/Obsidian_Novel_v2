@@ -26,13 +26,15 @@ arcs:
 - **Chức Vụ:** Phường Chủ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Lông vàng dệt nên áo giáp nhẹ hơn gió mà cứng hơn thép
+Vóc dáng cao gầy, bước đi nhẹ bẫng tựa không trọng lượng. Công Kim Lông thường khoác trên mình bộ "Kim Vũ Lăng Giáp" lấp lánh ánh kim do chính tay ông dệt nên, tỏa ra vầng sáng uy nghiêm nhưng thanh thoát. Khuôn mặt vuông vức điểm xuyết vài sợi lông vũ vàng rực trên mái tóc, đôi mắt tinh anh luôn ánh lên sự tự hào về tài nghệ của bản thân. Tính cách trầm ổn, nghiêm khắc và cực kỳ trân trọng các tác phẩm nghệ thuật, coi mỗi chiếc linh vũ như một sinh mệnh.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-*(Chưa xác định)*
+Là một bậc thầy về chế tác áo giáp lông vũ phòng thủ, năng lực của ông thiên về khả năng bảo mệnh và phản đòn. Tuyệt kỹ **"Kim Vũ Xuyên Vân Tiễn" (金羽穿云箭)** có thể hội tụ Phong linh lực bắn ra những mũi tên lông vũ sắc bén, kết hợp với **"Hộ Thể Kim Linh Thuật" (护体金灵术)** tạo thành tấm khiên chắn từ linh vũ bao bọc toàn thân. Điểm mạnh là khả năng chống chịu bạo kích tuyệt luân, nhưng do thiếu các đòn thế cận chiến nên ông thường chọn cách tấn công từ xa.
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
+- **Vũ Mao Nhi:** Vô cùng kính trọng Phường Chủ, coi bà là người khai sinh ra con đường tái sinh cho những chiếc lông vũ rụng.
+- **Công Diệu Thủ:** Đồng liêu thân thiết, thường xuyên bàn luận và phối hợp để dệt nên những món pháp khí từ lông vũ.
+- **Công Thái Vũ:** Đánh giá rất cao tài năng nhuộm màu lông vũ của Thái Vũ, coi đó là nghệ thuật nâng tầm giá trị sản phẩm, dù đôi khi không hài lòng với sự tinh ranh của nàng.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-*(Chưa xác định)*
+Vốn là một thợ rèn danh tiếng của Vũ Tộc, Công Kim Lông từng bị ám ảnh bởi việc tìm ra loại vật liệu vừa nhẹ vừa cứng cáp. Khi tình cờ được tiếp xúc với "Phong Vũ Tỏa Linh Thuật" của Vũ Mao Nhi, ông đã nhận ra tiềm năng vô hạn của lông vũ linh. Từ bỏ chiếc búa rèn nặng nề, ông gia nhập Lông Vũ Phường và dùng mười năm để sáng tạo ra bộ áo giáp lông vũ vàng đầu tiên, cứu sống một vị trưởng lão trong tộc. Mục tiêu lớn nhất của đời ông là chế tạo ra một bộ "Thiên Vũ Thần Giáp" có khả năng chống lại sự cuồng bạo của thiên kiếp.

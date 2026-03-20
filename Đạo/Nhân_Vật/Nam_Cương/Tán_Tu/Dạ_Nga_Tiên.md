@@ -7,12 +7,39 @@ race: Trùng Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1000, 1000, 853, 792, 973, 740]
+    relationships:
+      - character: Song Đao Liệt
+        description: Đồng hương Trùng Tộc tại Nam Cương, thỉnh thoảng trao đổi tin tức, nhưng Song Đao Liệt khinh thường lối chiến đấu ẩn nấp của nàng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: -29
+          tin: 0
+          so: 0
+          on: 0
+      - character: Yến Tử
+        description: Đôi khi hợp tác trinh sát, Yến Tử bay cao quan sát còn Dạ Nga Tiên xâm nhập từ mặt đất
+        feelings:
+          yeu: 14
+          han: 0
+          kinh: 0
+          tin: 32
+          so: 0
+          on: 0
+      - character: Ký Sinh Liên Minh
+        description: Từng là mắt xích tình báo cho liên minh này, hiện đã cắt đứt liên lạc sau khi phát hiện âm mưu đen tối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: DẠ NGA TIÊN (夜蛾仙)

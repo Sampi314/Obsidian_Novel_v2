@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [294, 321, 350, 277, 296, 306]
+    relationships:
+      - character: Độc Nhãn
+        description: Bảo Chủ, người trọng dụng Mạc Vân làm cố vấn chiến thuật
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Triệu Long Hổ
+        description: Đồng liêu Trưởng Lão, hay bất đồng vì Triệu Long Hổ thiên về tấn công còn Mạc Vân thiên về phòng thủ
+        feelings:
+          yeu: 21
+          han: 0
+          kinh: 0
+          tin: 43
+          so: 0
+          on: 0
+      - character: Hoàng Thạch
+        description: Đồng liêu Trưởng Lão, người luôn ủng hộ ý kiến của Mạc Vân
+        feelings:
+          yeu: 42
+          han: 0
+          kinh: 0
+          tin: 24
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: MẠC VÂN (莫雲)

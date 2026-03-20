@@ -7,12 +7,30 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [805, 1000, 723, 711, 780, 751]
+    relationships:
+      - character: Cừu Thiên
+        description: Cha ruột kiêm sư phụ, người mà Tiểu Đao vừa kính trọng vừa muốn vượt qua
+        feelings:
+          yeu: 53
+          han: 0
+          kinh: 57
+          tin: 22
+          so: 0
+          on: 42
+      - character: Hà Linh
+        description: Đồng môn cùng lứa, thường xuyên tranh cãi nhưng ngầm coi nhau là bạn
+        feelings:
+          yeu: 47
+          han: 0
+          kinh: 0
+          tin: 34
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CỪU TIỂU ĐAO (仇小刀)

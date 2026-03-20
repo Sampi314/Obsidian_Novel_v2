@@ -7,12 +7,48 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: []
+    methods: [uyệt chiêu Bạch Nguyệt Phong Ấn]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2000, 3000, 3000, 3000, 2718, 3000]
+    relationships:
+      - character: Tuyết Nguyệt
+        description: Đại Tư Tế, bề ngoài tôn kính nhưng trong lòng muốn soán đoạt quyền lực
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 47
+          tin: 34
+          so: 0
+          on: 0
+      - character: Vu Huyền Nương
+        description: Đệ Nhị Phó Tư Tế, đối thủ cạnh tranh chính trên con đường kế vị
+        feelings:
+          yeu: -51
+          han: 32
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Nguyệt Trầm
+        description: Trưởng Lão Tế Tư, đồng minh bí mật đã bị Bạch Vọng Nguyệt lôi kéo bằng lời hứa quyền lực
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Lam Nguyệt Nhi
+        description: Thánh Nữ, coi nàng là chướng ngại lớn nhất cho tham vọng của mình
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: -30
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: BẠCH VỌNG NGUYỆT (白望月)

@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Viên Mãn
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1724, 2000, 2000, 2000, 1582, 1886]
+    relationships:
+      - character: Huyết Tôn
+        description: Tông Chủ, người trọng dụng Hà Minh Phong làm quân sư chiến lược
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hà Linh
+        description: Con gái ruột, đang được cha bí mật dạy Huyết Ty Thuật ngoài giờ tu luyện chính thức
+        feelings:
+          yeu: 53
+          han: 0
+          kinh: 0
+          tin: 44
+          so: 0
+          on: 22
+      - character: Cừu Thiên
+        description: Đệ Nhất Huyết Tướng, kẻ mà Hà Minh Phong phải thường xuyên dọn dẹp hậu quả sau mỗi lần gây rối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HÀ MINH PHONG (何明風)

@@ -7,12 +7,48 @@ race: Vũ Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
-    methods: []
+    methods: [t đầu tu luyện Sơ Viêm Vũ Thuật, duy nhất Hỏa Vũ Tán]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [361, 400, 324, 329, 348, 250]
+    relationships:
+      - character: Phượng Xích Diệm
+        description: Chiến Sĩ, anh trai mà hắn ngưỡng mộ cuồng nhiệt, luôn bám đuôi theo sau
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 62
+          tin: 35
+          so: 0
+          on: 0
+      - character: Phượng Viêm Phong
+        description: Chiến Sĩ, anh họ kiên nhẫn dạy hắn bay, người hắn thân thiết nhất sau anh trai
+        feelings:
+          yeu: 76
+          han: 0
+          kinh: 0
+          tin: 53
+          so: 0
+          on: 46
+      - character: Phượng Xích
+        description: Tộc Trưởng, cha ruột mà hắn vừa yêu vừa sợ, luôn cố gắng làm cha vui lòng
+        feelings:
+          yeu: 80
+          han: 0
+          kinh: 0
+          tin: 48
+          so: 40
+          on: 30
+      - character: Phượng Huyền Điểu Lão
+        description: Trưởng Lão, cụ tổ hay kể chuyện cổ tích khiến hắn mê mẩn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: PHƯỢNG VIÊM CÁNH (鳳炎翅)

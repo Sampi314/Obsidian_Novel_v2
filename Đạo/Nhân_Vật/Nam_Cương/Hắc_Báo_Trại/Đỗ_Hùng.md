@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [248, 239, 272, 252, 242, 274]
+    relationships:
+      - character: Đỗ Môn
+        description: Cha ruột kiêm Trại Chủ, người mà Đỗ Hùng muốn chứng minh bản thân xứng đáng kế thừa
+        feelings:
+          yeu: 52
+          han: 0
+          kinh: 0
+          tin: 57
+          so: 0
+          on: 42
+      - character: Đỗ Hải
+        description: Chú ruột, người cưng chiều và bảo vệ Đỗ Hùng từ nhỏ
+        feelings:
+          yeu: 72
+          han: 0
+          kinh: 0
+          tin: 44
+          so: 0
+          on: 28
+      - character: Đỗ Tiểu Hổ
+        description: Em họ, đệ tử nhỏ tuổi nhất mà Đỗ Hùng luôn dẫn theo dạy dỗ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 77
+          tin: 25
+          so: 0
+          on: 30
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐỖ HÙNG (杜雄)

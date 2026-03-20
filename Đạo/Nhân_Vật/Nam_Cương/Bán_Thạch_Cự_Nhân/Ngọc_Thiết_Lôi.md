@@ -7,12 +7,39 @@ race: Cự Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
-    methods: []
+    methods: [uyện Thạch Hỏa Đoán Luyện Thuật, c sở trường Thiết Lôi Chấn Chùy]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [952, 1158, 958, 1179, 1090, 1210]
+    relationships:
+      - character: Ngọc Sơn
+        description: Hội Trưởng Bán Cự Nhân Hội, họ hàng xa mà hắn kính trọng, thường rèn vũ khí theo đặt hàng của nàng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 50
+          tin: 43
+          so: 0
+          on: 0
+      - character: Ngọc Thạch Lâm
+        description: Chiến Sĩ Bán Cự Nhân Hội, em họ hay đến thách đấu tay đôi để thử sức, mối quan hệ anh em
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Huyết Giáp
+        description: Giáp Chiến Sĩ Ký Sinh Liên Minh, khách hàng trung thành, hắn rèn mai giáp phụ cho bọ hung
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 64
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NGỌC THIẾT LÔI (玉鐵雷)

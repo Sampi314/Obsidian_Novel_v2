@@ -7,12 +7,30 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Viên Mãn
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1400, 1850, 1659, 1710, 1760, 1837]
+    relationships:
+      - character: Mạc Vô Diện
+        description: Quỷ Chủ, người giao cho lão nhiệm vụ canh giữ lối vào duy nhất
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Hồ Vô Thanh
+        description: Tổng Quản, người thường xuyên gửi danh sách khách được phép vào Quỷ Thị
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: VƯƠNG CỔ THUYỀN (王古船)

@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [872, 874, 961, 707, 841, 1000]
+    relationships:
+      - character: Độc Nhãn
+        description: Bảo Chủ, người cung cấp tài nguyên nuôi thú và giao nhiệm vụ
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Lưu Ám Ảnh
+        description: Long Ảnh Đội Trưởng, đồng liêu phối hợp trinh sát và tấn công
+        feelings:
+          yeu: 45
+          han: 0
+          kinh: 0
+          tin: 28
+          so: 0
+          on: 0
+      - character: Hoàng Nhi
+        description: Nội Môn đệ tử, học trò có thiên phú thuần thú khiến Trần Phục Long chú ý
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TRẦN PHỤC LONG (陳伏龍)

@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Kim Đan Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1000, 936, 853, 971, 945, 1000]
+    relationships:
+      - character: Độc Nhãn
+        description: Bảo Chủ, người mà Lưu Ám Ảnh tuyệt đối trung thành
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 79
+          so: 0
+          on: 0
+      - character: Lưu Tiểu Long
+        description: Con trai, đang được huấn luyện để kế thừa Long Ảnh Đội
+        feelings:
+          yeu: 51
+          han: 0
+          kinh: 0
+          tin: 64
+          so: 0
+          on: 23
+      - character: Trần Phục Long
+        description: Phục Thú Viện Chủ, đồng liêu thường phối hợp — Lưu Ám Ảnh trinh sát, Trần Phục Long dùng thú tấn công
+        feelings:
+          yeu: 26
+          han: 0
+          kinh: 0
+          tin: 45
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LƯU ÁM ẢNH (劉暗影)

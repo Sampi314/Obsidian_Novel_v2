@@ -7,12 +7,39 @@ race: Nhân Tộc
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [400, 400, 400, 391, 386, 400]
+    relationships:
+      - character: Đỗ Hải
+        description: Em trai ruột, Phó Trại Chủ, người chia sẻ gánh nặng cai quản Hắc Báo Trại
+        feelings:
+          yeu: 78
+          han: 0
+          kinh: 0
+          tin: 51
+          so: 0
+          on: 29
+      - character: Đỗ Hùng
+        description: Con trai trưởng, Báo Ảnh Đội Trưởng, niềm tự hào và hy vọng của gia tộc Đỗ
+        feelings:
+          yeu: 55
+          han: 0
+          kinh: 19
+          tin: 57
+          so: 0
+          on: 46
+      - character: Lý Sơn Đao
+        description: Hắc Đao Trưởng Lão, chiến hữu lâu năm, người mà Đỗ Môn tin tưởng nhất ngoài huyết thống
+        feelings:
+          yeu: 22
+          han: 0
+          kinh: 0
+          tin: 80
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐỖ MÔN (杜門)
