@@ -34,9 +34,12 @@ arcs:
 - **Chiến Đấu:** Không trực tiếp giao đấu, nhưng khi rạn san hô bị tấn công, San Bạch Ngọc có thể kích hoạt mạng lưới "San Hô Phong Tỏa" (珊瑚封锁) — hàng vạn mảnh san hô sắc nhọn bắn ra từ tường thành, đồng thời dùng linh lực làm cứng nước biển xung quanh thành lớp keo dính, giam kẻ thù trong ngục san hô. Điểm yếu là tốc độ di chuyển chậm chạp và không thể chiến đấu ngoài phạm vi rạn san hô.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **San Hồng Ngọc** (Chủ tớ): Thủ hạ trung thành trong San Hô Vi Trùng
+- **San Hồng Ngọc** (Cấp dưới): Phục tùng San Hồng Ngọc, Tộc Trưởng của San Hô Vi Trùng
+- **San Huyền Thạch** (Sư đồ): San Bạch Ngọc chỉ dẫn San Huyền Thạch trong San Hô Vi Trùng
+- **San Hải Yến Sào** (Đồng minh): Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau
 - **San Hải Yến Sào:** Đồng liêu đáng kính. San Bạch Ngọc chịu trách nhiệm xây mới, San Hải Yến Sào phụ trách sửa chữa — hai bên phối hợp ăn ý, cùng bảo toàn sự vẹn nguyên của rạn san hô.
 - **San Huyền Thạch:** Khai khoáng viên cung cấp vật liệu cổ từ lõi san hô hóa thạch. San Bạch Ngọc coi trọng tay nghề và sự liều lĩnh của hắn, nhưng thường lo lắng rằng việc khai thác lõi san hô có thể làm suy yếu nền móng.
 - **San Hô Mẫu Trùng:** Tuân phục tuyệt đối mệnh lệnh của Mẫu Trùng, xem đó là ý chí tối cao chi phối mọi hoạt động kiến tạo.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 San Bạch Ngọc sinh ra từ một quần thể san hô cổ đại nằm sâu dưới đáy Vô Tận Hải, nơi ánh sáng mặt trời không bao giờ chạm tới. Ngay từ khi nở ra, nàng đã thể hiện năng lực kết tinh khoáng linh vượt trội so với đồng loại, thu hút sự chú ý của San Hô Mẫu Trùng và được giao trọng trách thiết kế kiến trúc cho rạn san hô trung tâm — nơi trú ẩn của toàn bộ quần thể. Qua hàng trăm năm miệt mài, San Bạch Ngọc đã đạt đến cảnh giới Kim Đan, trở thành một trong số ít Vi Trùng có linh trí cao và khả năng tự chủ. Hiện tại, mối đe dọa lớn nhất của nàng là dòng Huyết Độc đang lan tràn từ phương Nam, ăn mòn các rạn san hô ngoại vi và khiến vô số đồng tộc tử vong. San Bạch Ngọc đang nghiên cứu cách tạo ra một loại san hô linh kháng độc để bảo vệ quần thể, nhưng chưa tìm được đáp án.
