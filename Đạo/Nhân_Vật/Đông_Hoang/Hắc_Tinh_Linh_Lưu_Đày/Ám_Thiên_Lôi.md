@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Lục Ly
+        description: Hộ Pháp Tinh Linh Vương Đình, kẻ thù thù hận sâu sắc
+        feelings:
+          yeu: -40
+          han: 65
+          kinh: -20
+          tin: -75
+          so: 10
+          on: -55
 ---
 
 # HỒ SƠ NHÂN VẬT: ÁM THIÊN LÔI (暗天雷)

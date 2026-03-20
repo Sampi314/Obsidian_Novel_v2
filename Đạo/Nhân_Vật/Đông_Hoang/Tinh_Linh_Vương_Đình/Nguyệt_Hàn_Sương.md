@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Lục Ly
+        description: Hậu bối Hộ Pháp Tinh Linh, tiền bối dẫn dắt trong Vương Đình
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 10
+          tin: 40
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NGUYỆT HÀN SƯƠNG (月寒霜)

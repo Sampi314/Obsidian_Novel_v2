@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Lục Ly
+        description: Hộ Pháp Tinh Linh thuộc quyền, thuộc hạ trung thành trong Vương Đình
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 15
+          tin: 50
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NGUYỆT THIÊN HÀ (月天河)

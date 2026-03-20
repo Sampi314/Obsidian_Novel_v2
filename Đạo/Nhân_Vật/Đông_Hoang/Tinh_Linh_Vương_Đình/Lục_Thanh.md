@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Lục Ly
+        description: Đồng liêu cùng Tinh Linh Vương Đình, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 30
+          tin: 50
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: LỤC THANH (綠青)

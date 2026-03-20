@@ -27,6 +27,78 @@ arcs:
           tin: 5
           so: 0
           on: 0
+      - character: Nguyệt Thiên Hà
+        description: Hộ Quốc Trưởng Lão, cấp trên trong Tinh Linh Vương Đình
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 75
+          tin: 70
+          so: 10
+          on: 40
+      - character: Nguyệt Hàn Sương
+        description: Tiền bối dẫn dắt trong Tinh Linh Vương Đình
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 70
+          tin: 65
+          so: 5
+          on: 45
+      - character: Vân Hà
+        description: Đồng liêu cùng Tinh Linh Vương Đình, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 25
+          tin: 45
+          so: 0
+          on: 10
+      - character: Hoa Ngọc Lan
+        description: Đồng liêu cùng Tinh Linh Vương Đình, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 25
+          tin: 45
+          so: 0
+          on: 10
+      - character: Hoa Tuyết
+        description: Đồng liêu cùng Tinh Linh Vương Đình, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 25
+          tin: 45
+          so: 0
+          on: 10
+      - character: Lục Thanh
+        description: Đồng liêu cùng Tinh Linh Vương Đình, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 30
+          tin: 50
+          so: 0
+          on: 10
+      - character: Vân Thiên Lý
+        description: Đồng liêu cùng Tinh Linh Vương Đình, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 25
+          tin: 45
+          so: 0
+          on: 10
+      - character: Ám Thiên Lôi
+        description: Chiến Sĩ Hắc Tinh Linh, kẻ thù thù hận sâu sắc
+        feelings:
+          yeu: -40
+          han: 70
+          kinh: -15
+          tin: -80
+          so: 15
+          on: -60
 ---
 
 # HỒ SƠ NHÂN VẬT: LỤC LY
