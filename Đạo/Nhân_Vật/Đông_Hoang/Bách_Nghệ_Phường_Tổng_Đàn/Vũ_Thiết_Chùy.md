@@ -32,8 +32,8 @@ arcs:
 Thợ rèn tài năng, tinh thông Thiết Chùy Đoạn Kim Thuật (鐵錘斷金術) rèn các loại pháp khí cấp thấp với chất lượng ổn định. Kỹ thuật Vạn Chùy Bách Luyện (萬錘百煉) cho phép nâng cao chất lượng kim loại vượt xa nguyên liệu gốc. Chiến đấu tay đôi khá mạnh nhờ thể chất tốt và cây chùy sắt bản mệnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Đặng Công Mẫu:** Phường Chủ, ân nhân và lãnh đạo mà hắn tuyệt đối trung thành.
-- **Lý Tiểu Lô:** Đồng liêu, bạn thân dù thường xuyên cãi nhau về phương pháp luyện chế.
-
+- **Đặng Công Mẫu** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bách Nghệ Phường Tổng Đàn
+- **Đặng Công Mẫu** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Đặng Công Mẫu
+- **Lý Tiểu Lô** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bách Nghệ Phường Tổng Đàn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vũ Thiết Chùy vốn là thợ rèn phàm nhân trong một thị trấn nhỏ, tình cờ phát hiện linh căn khi đập vỡ một viên quặng chứa linh khí. Hắn gia nhập Bách Nghệ Phường theo lời giới thiệu của một khách hàng tán tu. Với tay nghề rèn vượt trội, hắn nhanh chóng được phong Phó Phường Chủ Đan Đường phụ trách mảng khí luyện. Bí mật của hắn là đang cố tái tạo một thanh kiếm thần thoại mà hắn từng nhìn thấy trong giấc mơ.
