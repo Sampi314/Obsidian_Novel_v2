@@ -32,9 +32,13 @@ Sức mạnh hổ + nọc độc rắn, chiến binh đáng sợ
 Tu luyện công pháp cốt lõi của Hỗn Huyết Yêu Đoàn đạt trình độ cao thâm. Chiêu thức 虎蛇雷火·Hộ Pháp Ấn (虎蛇雷火·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Báo Hồ Nguyệt Ảnh:** Trinh Sát, đồng liêu quan trọng nhất trong Hỗn Huyết Yêu Đoàn.
-- **Hùng Lang Thiết Tâm:** Chiến Sĩ, đối tác thường xuyên phối hợp.
-- **Hồ Lang Tạp Huyết:** Đoàn Trưởng, mối quan hệ tin cậy lẫn nhau.
-
+- **Hồ Lang Tạp Huyết** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Hỗn Huyết Yêu Đoàn
+- **Hồ Lang Tạp Huyết** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hồ Lang Tạp Huyết
+- **Tam Huyết Nhi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Hỗn Huyết Yêu Đoàn
+- **Báo Hồ Nguyệt Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
+- **Hổ Hùng Cự Lực** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
+- **Hùng Lang Thiết Tâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
+- **Lang Điêu Phong Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
+- **Xà Hồ Thanh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hổ Xà Lôi Hỏa được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Hỗn Huyết Yêu Đoàn. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Hỗn Huyết Yêu Đoàn và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Phó Đoàn Trưởng.
