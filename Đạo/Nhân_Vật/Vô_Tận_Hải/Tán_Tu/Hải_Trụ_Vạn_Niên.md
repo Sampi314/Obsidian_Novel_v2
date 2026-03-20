@@ -32,9 +32,13 @@ Hải Trụ Vạn Niên là một Cự Tộc khổng lồ cao gần hai mươi t
 Hải Trụ Vạn Niên gần như không bao giờ chiến đấu — nhưng điều đó không có nghĩa hắn yếu, mà là không ai đủ điên để tấn công thứ trông giống cột đá và có sức chống chịu của cả một ngọn núi. Kỹ thuật phòng thủ cốt lõi là *Vạn Niên Bất Động Thể* (萬年不動體) — qua hàng nghìn năm đứng yên hấp thu linh khí và khoáng chất biển sâu, da đá của hắn cứng đến mức đủ chịu được áp suất tương đương vực thẳm mà không hề nứt. Trong trường hợp cực hiếm phải phản kích, hắn sử dụng *Trụ Chấn Hải Đáy* (柱震海底) — giậm mạnh chân xuống đáy biển tạo ra sóng chấn động lan truyền qua nước và đáy đá trong phạm vi vài dặm, đủ sức gây sập hang động ngầm và làm choáng váng mọi sinh vật trong vùng ảnh hưởng. Điểm yếu rõ ràng nhất là tốc độ phản ứng cực chậm sau hàng ngàn năm bất động, cần nhiều thời gian để "thức dậy" hoàn toàn.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hải Nham** (Đồng minh): Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+- **Huỳnh Quang** (Đồng minh): Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+- **Trầm Nham Hải** (Sư đồ): Trầm Nham Hải chỉ dẫn Hải Trụ Vạn Niên trong Tán Tu
+- **Tước Hải** (Sư đồ): Hải Trụ Vạn Niên chỉ dẫn Tước Hải trong Tán Tu
+- **Tước Ngư Nhi** (Sư đồ): Hải Trụ Vạn Niên chỉ dẫn Tước Ngư Nhi trong Tán Tu
 - **Hải Nham (海岩):** Cự Tộc đồng tộc duy nhất trong Vô Tận Hải mà hắn biết, đôi khi Hải Nham đến ngồi cạnh hắn hàng tháng trời trong im lặng — tình bạn của hai kẻ khổng lồ được đo bằng sự hiện diện chứ không phải lời nói.
 - **Huỳnh Quang (螢光):** Chú đom đóm nhỏ thường xuyên bay quanh hắn soi sáng, là sinh vật duy nhất nhận ra hắn còn sống chứ không phải cột đá — Hải Trụ Vạn Niên thầm biết ơn ánh sáng ấy.
 - **Hải Thần Cung:** Hải Thần Cung biết đến sự tồn tại của hắn nhưng không can thiệp vì hắn vô hại — đối với họ, hắn chỉ là một Cự Tộc lập dị đứng yên dưới đáy biển.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hải Trụ Vạn Niên vốn là chiến binh trẻ tuổi của một bộ lạc Cự Tộc sống trên quần đảo rìa Vô Tận Hải, từng hừng hực khí thế và hiếu chiến không kém bất kỳ Cự Tộc nào. Biến cố lớn nhất đời hắn xảy ra khi bộ lạc bị hải tặc tập kích, hắn chiến đấu dữ dội nhưng chứng kiến gia đình và đồng tộc lần lượt ngã xuống — trong khoảnh khắc tuyệt vọng đó, hắn nhảy xuống biển trốn chạy và chìm thẳng xuống đáy. Ở dưới đáy biển tối tăm lạnh lẽo, hắn đứng yên trong nỗi đau và dần nhận ra sự bình yên kỳ lạ của việc bất động — không ai tìm được hắn, không ai tấn công hắn, và thời gian trôi qua như không tồn tại. Từ đó hắn không bao giờ trở lên mặt nước nữa, đứng yên suốt hàng nghìn năm cho đến khi rong rêu phủ kín biến hắn thành một phần của đáy biển. Tu vi tăng tiến một cách kỳ lạ qua việc thiền định bất động liên tục, đạt Kim Đan Trung Kỳ mà không hề chủ ý tu luyện. Bí mật sâu thẳm nhất mà hắn giữ kín là hắn vẫn nhớ từng khuôn mặt đồng tộc đã chết, và đôi khi giữa giấc ngủ ngàn năm, hắn rơi nước mắt — giọt nước mắt đá hòa vào biển cả mà không ai hay biết.
