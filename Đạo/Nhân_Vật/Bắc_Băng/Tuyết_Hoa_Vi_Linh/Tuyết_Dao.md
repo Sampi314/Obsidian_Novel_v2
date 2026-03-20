@@ -58,6 +58,42 @@ arcs:
           tin: 80
           so: 0
           on: 20
+      - character: Tuyết Bạch Vân
+        description: Thợ Dệt Tuyết, nghệ nhân dệt vải từ tuyết ti — nhận tinh thể cực quang quý từ Tuyết Dao
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 20
+          tin: 60
+          so: 0
+          on: 0
+      - character: Tuyết Lăng Phong
+        description: Vũ Điệu Sư, nghệ sĩ biểu diễn Lục Biện Khai Hoa Vũ lấy cảm hứng từ Tuyết Dao
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 10
+          tin: 50
+          so: 0
+          on: 0
+      - character: Tuyết Mộng Hàn
+        description: Mộng Sư trẻ tuổi, kẻ duy nhất không thể đọc giấc mơ của Tuyết Dao
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 0
+          tin: 50
+          so: 0
+          on: 0
+      - character: Tuyết Ngưng Hương
+        description: Hương Liệu Sư, đôi khi nhận tinh thể cực quang để chế hương liệu thượng hạng
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 10
+          tin: 50
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TUYẾT DAO (雪瑤)
