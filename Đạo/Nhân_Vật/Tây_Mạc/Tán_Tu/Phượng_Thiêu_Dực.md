@@ -11,8 +11,17 @@ arcs:
     cultivation: Kim Đan Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1100, 1700, 1200, 1900, 900, 1400]
+    relationships:
+      - character: Phi Hoàng
+        description: Tán tu Trùng Tộc cùng vùng, kẻ mà nàng muốn tiêu diệt vì bầy châu chấu là mối đe dọa với Vũ Tộc
+        feelings:
+          yeu: -30
+          han: 20
+          kinh: 0
+          tin: -20
+          so: 10
+          on: -10
 ---
 
 # HỒ SƠ NHÂN VẬT: PHƯỢNG THIÊU DỰC (鳳燒翼)
@@ -26,15 +35,15 @@ arcs:
 - **Chức Vụ:** Chiến Sĩ.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Phượng Thiêu Dực là một Vũ Tộc dòng Phượng với sải cánh rộng hơn tám trượng, bộ lông vốn mang sắc đỏ cam rực rỡ đặc trưng Phượng Hoàng nay cháy âm ỉ liên tục — không phải lửa bình thường mà là hỏa viêm tự sinh không bao giờ tắt, biến mỗi chiếc lông thành một ngọn nến sống tỏa nhiệt nóng bỏng đủ nung chảy cát thành thủy tinh ở bất cứ nơi nào nàng hạ cánh. Đôi mắt vàng kim xuyên qua ngọn lửa bao quanh đầu mang vẻ kiêu hãnh và cô độc đặc trưng của dòng Phượng, mỏ sắc nhọn như kiếm luôn ngậm chặt như thể đang ghìm lại cơn giận nào đó. Tính cách Phượng Thiêu Dực nóng nảy và kiêu ngạo nhưng không vô cớ gây hấn — nàng coi thường kẻ yếu nhưng tôn trọng đối thủ xứng tầm, và tuyệt đối không chịu khuất phục bất kỳ ai hay bất kỳ thế lực nào. Đạo Tâm của nàng rực cháy như chính ngọn lửa trên cánh: "Thiêu Đốt Mọi Xiềng Xích" — không gì trói buộc được Phượng Hoàng, kể cả cái chết.
+Phượng Thiêu Dực sở hữu đôi cánh Ngũ Sắc Dực cực kỳ hiếm — nhưng hai đầu cánh luôn bốc cháy âm ỉ, lửa cam đỏ liếm dọc lông vũ tạo thành hai vệt lửa kéo dài mỗi khi nàng bay, như sao băng quét ngang sa mạc. Khi mang hình người, nàng là một thiếu nữ vóc dáng mảnh mai, da ngăm đồng vì nắng gió, mái tóc đỏ rực như than hồng xõa ngang lưng, thỉnh thoảng phát ra tia sáng ở đuôi tóc. Đôi mắt hổ phách rực rỡ, ánh nhìn kiêu ngạo và bất cần, khuôn mặt xinh đẹp nhưng luôn mang vẻ giận dữ ẩn giấu. Nàng khoác một bộ chiến y đỏ sẫm hở vai để cánh xòe ra thoải mái, trên cổ đeo một chiếc vòng lông vũ cháy xém — di vật của mẹ. Tính cách kiêu ngạo, nóng nảy, và mang nỗi phẫn hận sâu sắc với Vũ Tộc chính thống vì đã trục xuất dòng huyết Phượng của nàng. Đạo Tâm gắn liền với chữ "Phần" (焚) — thiêu đốt tất cả, kể cả bản thân, để tái sinh mạnh mẽ hơn.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-Phượng Thiêu Dực chiến đấu bằng hỏa viêm tự sinh bao phủ toàn thân, biến bản thân thành một quả cầu lửa sống bay với tốc độ cực nhanh trên bầu trời sa mạc. Kỹ thuật sở trường là *Thiêu Dực Hỏa Vũ* (燒翼火雨) — vỗ cánh tung hàng nghìn chiếc lông lửa xuống mặt đất như mưa sao băng, mỗi chiếc lông phát nổ khi chạm đất tạo thành vùng cháy rộng lớn không thể dập tắt bằng thủy thuật thông thường vì đây là hỏa viêm bản mệnh. Đòn tuyệt mạng là *Niết Bàn Hỏa Bạo* (涅槃火爆) — đốt cháy toàn bộ lông trên thân tạo ra vụ nổ hỏa viêm khủng khiếp trong phạm vi vài dặm, nhưng sau đó nàng rơi vào trạng thái kiệt sức hoàn toàn và mất hết lông, phải mất vài tháng mọc lại. Điểm yếu lớn nhất là hỏa viêm tự sinh liên tục tiêu hao linh lực, khiến nàng không thể duy trì chiến đấu kéo dài và luôn cần nghỉ ngơi sau trận chiến lớn.
+Phượng Thiêu Dực là chiến binh hỏa hệ trên không cực kỳ nguy hiểm, kết hợp tốc độ Vũ Tộc với hỏa lực huyết mạch Phượng Hoàng. Kỹ thuật sở trường là *Phượng Viêm Thiên Giáng* (鳳焰天降) — nàng bay lên cao nhất có thể rồi bổ nhào xuống mục tiêu, toàn thân bùng cháy hóa thành một quả cầu lửa khổng lồ hình phượng hoàng, nhiệt độ đủ nung chảy cát thành thủy tinh trong bán kính mười trượng. Thuật thứ hai là *Thiêu Dực Vũ* (燒翼舞) — nàng xoay tròn giữa không trung, rũ lông vũ cháy xuống như mưa lửa, mỗi sợi lông là một mũi tên hỏa linh đuổi theo mục tiêu cho đến khi cháy hết. Điểm yếu nghiêm trọng: hỏa lực huyết mạch Phượng đốt cháy chính cơ thể nàng — sau mỗi trận chiến toàn lực, nàng phải nghỉ ngơi nhiều ngày để lông vũ mọc lại, và nếu lạm dụng, đôi cánh có thể cháy rụi vĩnh viễn.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Phong Sa Cuồng Nhân (風沙狂人):** Đối thủ không đội trời chung và cũng là kẻ duy nhất trên sa mạc mà nàng coi là ngang hàng, ba lần giao đấu đều bất phân thắng bại — nàng ghét hắn nhưng thừa nhận sự tự do của hắn khiến nàng ghen tị.
-- **Sa Ưng Đoàn:** Đoàn Ưng sa mạc từng cố chiêu mộ nàng vào hàng ngũ nhưng bị từ chối thẳng thừng, nàng coi việc phục vụ bất kỳ ai là sỉ nhục dòng máu Phượng.
-- **Phi Hoàng (飛蝗):** Hỏa viêm của nàng là khắc tinh tự nhiên của đàn châu chấu, mỗi lần bay ngang qua lãnh thổ đàn đều thiêu cháy vô số — Phi Hoàng coi nàng là kẻ thù bản năng.
+- **Phi Hoàng:** Tán tu Trùng Tộc điều khiển bầy châu chấu. Nàng coi hắn là mối đe dọa tiềm tàng — bầy châu chấu triệu con có thể ăn sạch mọi ốc đảo, và Vũ Tộc dòng Phượng không có đủ hỏa lực để thiêu toàn bộ bầy. Hai bên giữ khoảng cách cảnh giác.
+- **Sa Ưng Đoàn:** Nàng từng được Sa Ưng Đoàn mời gia nhập nhưng từ chối, vì không chấp nhận phục tùng bất kỳ ai. Tuy vậy, nàng ngầm tôn trọng họ vì là đồng tộc Vũ Tộc hiếm hoi chịu sống giữa sa mạc.
+- **Vân Thành (Vũ Tộc chính thống):** Kẻ thù trong lòng. Hội đồng Vân Thành đã trục xuất gia đình nàng vì dòng huyết Phượng bị coi là "bất thường và nguy hiểm." Nàng thề sẽ quay lại chứng minh rằng lửa Phượng mạnh hơn gió của bất kỳ Bạch Dực hay Hắc Dực nào.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-Phượng Thiêu Dực sinh ra tại vùng núi lửa rìa nam Tây Mạc, nơi một tiểu tộc Vũ Tộc dòng Phượng ẩn cư bên miệng núi lửa hàng ngàn năm. Nàng là hậu duệ cuối cùng của dòng máu Phượng thuần, sinh ra với hỏa viêm tự sinh — ngọn lửa bùng lên ngay từ khoảnh khắc ra đời thiêu cháy tổ ấm và suýt giết chết mẹ nàng, biến cố đó trở thành vết thương tâm lý sâu thẳm mà nàng không bao giờ nhắc đến. Khi trưởng thành, nàng rời khỏi tiểu tộc vì hỏa viêm ngày càng mạnh đe dọa an toàn đồng tộc, tự nguyện lưu đày bản thân trên sa mạc Tây Mạc — nơi duy nhất đủ rộng và trống trải để ngọn lửa của nàng không làm hại ai. Tu vi tăng tiến nhanh chóng nhờ linh khí hỏa hệ dồi dào trong sa mạc nóng bỏng, đạt Kim Đan Hậu Kỳ trong vài trăm năm. Bí mật sâu thẳm nhất là nàng khao khát kiểm soát được hỏa viêm tự sinh để một ngày trở về tiểu tộc mà không sợ giết chết người thân.
+Phượng Thiêu Dực sinh ra tại Vân Thành với đôi cánh Ngũ Sắc Dực — dấu hiệu của huyết mạch hoàng tộc cổ xưa, lẽ ra là điềm lành cho toàn tộc. Nhưng trong Lễ Khai Dực, cánh nàng bùng cháy thiêu rụi một phần Thiên Táng Đài, khiến các trưởng lão kinh hãi coi nàng là "Phượng Hoàng tái sinh mang điềm hủy diệt." Gia đình nàng bị trục xuất khỏi Vân Thành khi nàng mới bảy tuổi. Mẹ nàng — một Bạch Dực hiền lành — chết vì kiệt sức trên đường lưu lạc qua Tây Mạc, để lại chiếc vòng lông vũ cháy xém mà nàng đeo suốt đời. Cha nàng mất tích sau đó không lâu. Một mình giữa sa mạc, nàng sống sót nhờ bản năng chiến đấu và hỏa lực huyết mạch, tự rèn luyện bằng cách thiêu đốt bão cát và yêu thú sa mạc. Mục tiêu duy nhất: trở nên mạnh đến mức toàn bộ Vũ Tộc phải quỳ xuống thừa nhận rằng dòng huyết Phượng không phải lời nguyền, mà là sức mạnh tối thượng.
