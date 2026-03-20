@@ -82,6 +82,8 @@ Tuy tu vi không cao nhưng kinh nghiệm chiến đấu trong rừng cực kỳ
 - **[[Đỗ Hải]]** — Em trai ruột, Phó Trại Chủ, người chia sẻ gánh nặng cai quản Hắc Báo Trại.
 - **[[Đỗ Hùng]]** — Con trai trưởng, Báo Ảnh Đội Trưởng, niềm tự hào và hy vọng của gia tộc Đỗ.
 - **[[Lý Sơn Đao]]** — Hắc Đao Trưởng Lão, chiến hữu lâu năm, người mà Đỗ Môn tin tưởng nhất ngoài huyết thống.
+- **[[Đỗ Tiểu Hổ]]** — Cháu họ, đệ tử trẻ ngưỡng mộ hắn nhất trong trại.
+- **[[Vương Thiết Nha]]** — Hắc Đao Trưởng Lão, người thề trung thành với hắn, chiến hữu đáng tin cậy.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Đỗ Môn là con trưởng gia tộc Đỗ, một gia tộc thợ săn sống trong rừng sâu Nam Cương từ nhiều đời. Khi gia tộc bị một thế lực tu tiên cướp đất, Đỗ Môn dẫn người nhà vào rừng rậm lập Hắc Báo Trại, trở thành thổ phỉ. Dưới sự lãnh đạo của hắn, Hắc Báo Trại từ nhóm người vô gia cư trở thành thế lực khiến các thương đoàn qua đường phải cống nạp. Tuy là thổ phỉ nhưng có quy tắc riêng: không giết phụ nữ và trẻ em.
