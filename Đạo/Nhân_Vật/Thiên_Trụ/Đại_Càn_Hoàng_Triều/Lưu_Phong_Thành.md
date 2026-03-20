@@ -32,9 +32,9 @@ Thanh niên vạm vỡ, khuôn mặt vuông vức cương nghị, đôi mắt lu
 Tu luyện Cấm Vệ Thần Công — công pháp chuyên cho thị vệ hoàng cung, tăng cường cảm quan và phản ứng. Kích pháp mạnh mẽ, mỗi nhát chém tạo ra phong nhận sắc bén, có thể cắt đứt cả kết giới. Chuyên phối hợp trận pháp cấm vệ, mười sáu thị vệ dưới quyền hợp lực có thể chặn đứng cường giả Nguyên Anh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Lý Thiên Vũ]] — Càn Đế, chủ nhân mà hắn thề bảo vệ bằng mạng sống.
-- [[Triệu Vạn Quân]] — Phó Tướng Thần Sách, bằng hữu cùng lứa, thường thi đấu luyện tập.
-- [[Lý Nguyệt Nhi]] — Công Chúa, đối tượng bảo vệ đặc biệt, trong lòng có chút tình cảm ẩn giấu.
-
+- **Lý Nguyệt Nhi** (Sư đồ): Lưu Phong Thành chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Lý Thiên Long** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Lý Thiên Phượng** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Lý Thiên Vũ** (Sư đồ): Lý Thiên Vũ chỉ dẫn Lưu Phong Thành trong Đại Càn Hoàng Triều
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ gia tộc thị vệ truyền đời, cha là cấm vệ quân trưởng tiền nhiệm đã hy sinh khi bảo vệ Càn Đế trong loạn Thất Vương. Kế thừa di chí của cha, Lưu Phong Thành gia nhập cấm vệ quân từ thiếu niên, nhanh chóng vượt qua mọi thử thách. Được Càn Đế bổ nhiệm Tướng Quân Thị Vệ nhờ lòng trung thành tuyệt đối và tài năng chiến đấu. Bí mật mang trong lòng tình cảm với Công Chúa Nguyệt Nhi, nhưng không dám thổ lộ vì thân phận cách biệt.
