@@ -13,3 +13,4 @@ node_modules/
 dist/
 test_server/
 server.log
+.claude/worktrees/

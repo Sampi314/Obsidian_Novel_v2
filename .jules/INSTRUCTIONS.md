@@ -209,6 +209,21 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã hoàn thành Task 9 cho 3 nhân vật Vực Thẳm Ma Cung (Vô Tận Hải): Hắc Triều, Ngư Quỷ Diện, Thâm Hải.
+> Đã hoàn thành Task 9 cho 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Ngư Tiểu Bạch, San Bích Quang, San Huyền Quang Dạ.
+> Đã hoàn thành Task 9 cho 3 nhân vật Phiêu Miễu Băng Hải (Bắc Băng): Băng San Hô, Hàn Thanh Âm, Hải Cung.
+> Đã hoàn thành Task 9 cho 3 nhân vật Cự Linh Tông (Bắc Băng): Nham Chấn Nhạc, Nham Hồng Hoang, Nham Kình Thiên.
+> Đã hoàn thành Task 9 cho 2 nhân vật Cổ Nham Bộ Lạc (Tây Mạc): Nham Tĩnh, Xích Nham.
+> Đã hoàn thành Task 9 cho 3 nhân vật Phong Sát Cốc (Tây Mạc): Hắc Phong, Huyết Phong, Hắc Sa.
+> Đã hoàn thành Task 9 cho 3 nhân vật Ốc Đảo Vi Linh (Tây Mạc): Linh Dao Nhi, Linh Hạ Vũ, Linh Lộ Hà.
+> Đã hoàn thành Task 9 cho 3 nhân vật Bách Bảo Các (Thiên Trụ): Lý Minh Châu, Châu Thương, Hứa Ngọc.
+> Đã hoàn thành Task 9 cho 3 nhân vật Giao Nhân Tộc Liên Minh (Vô Tận Hải): Ba Nguyệt Hà, Ba Ngọc Hàn, Ba Thiên Lệ.
+> Đã hoàn thành Task 9 cho 3 nhân vật Bán Thạch Cự Nhân (Tây Mạc): Nham Liệt, Thạch Chùy, Thạch Cương.
+> Đã hoàn thành Task 9 cho 3 nhân vật Sa Tặc Liên Minh (Tây Mạc): Hắc Phong Đại Vương, Lang Ảnh Sa, Lý Huyết Lang.
+> Đã hoàn thành Task 9 cho 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Ngư Ngân Lân Hà, Ngư Thiên Ca, Ngư Thiên Lãng.
+> Đã hoàn thành Task 9 cho 3 nhân vật Thiên Sa Thương Hội (Tây Mạc): Cổ Thiên Lý, Hoàng Sa Nhạn, Hứa Nhược Thủy.
+> Đã hoàn thành Task 9 cho 3 nhân vật Cực Quang Thần Điện (Thiên Trụ): Bằng Vạn Lý, Cú Tĩnh Vũ, Hạc Minh Nguyệt.
+> Đã hoàn thành Task 9 cho 3 nhân vật Sương Ma Uyển (Bắc Băng): Hắc Sương Quỷ, Lãnh Vô Hồn, Sương Nô Vương.
 
 ---
 

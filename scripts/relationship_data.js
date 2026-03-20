@@ -782,6 +782,39 @@ const relationshipData = {
       "avatar_color": "#8b0000"
     },
     {
+      "id": "hac_trieu",
+      "name": "Hắc Triều",
+      "title": "Thống Lĩnh",
+      "realm": "Nguyên Anh",
+      "faction": "Vực Thẳm Ma Cung",
+      "region": "Vô Tận Hải",
+      "role": "villain",
+      "pov": false,
+      "avatar_color": "#1e2124"
+    },
+    {
+      "id": "ngu_quy_dien",
+      "name": "Ngư Quỷ Diện",
+      "title": "Đội Trưởng",
+      "realm": "Kim Đan",
+      "faction": "Vực Thẳm Ma Cung",
+      "region": "Vô Tận Hải",
+      "role": "villain",
+      "pov": false,
+      "avatar_color": "#2f3136"
+    },
+    {
+      "id": "tham_hai",
+      "name": "Thâm Hải",
+      "title": "Ma Cung Chủ",
+      "realm": "Hóa Thần",
+      "faction": "Vực Thẳm Ma Cung",
+      "region": "Vô Tận Hải",
+      "role": "villain",
+      "pov": false,
+      "avatar_color": "#36393f"
+    },
+    {
       "id": "gioi_tran",
       "name": "Giới Trần",
       "title": "Trưởng Lão",
@@ -1628,6 +1661,42 @@ const relationshipData = {
       "since_chapter": 1,
       "bidirectional": true,
       "notes": "Hắc Phong Đại Vương và Hắc Phong (Phong Sát Cốc) tranh giành địa bàn Tây Mạc."
+    },
+    {
+      "source": "hac_trieu",
+      "target": "tham_hai",
+      "type": "subordinate",
+      "label": "Phục tùng/Sùng bái"
+    },
+    {
+      "source": "hac_trieu",
+      "target": "ngu_quy_dien",
+      "type": "enemy",
+      "label": "Đồng liêu/Khinh bỉ"
+    },
+    {
+      "source": "hac_trieu",
+      "target": "ngao_dinh",
+      "type": "enemy",
+      "label": "Kẻ thù"
+    },
+    {
+      "source": "ngu_quy_dien",
+      "target": "tham_hai",
+      "type": "subordinate",
+      "label": "Trung thành"
+    },
+    {
+      "source": "ngu_quy_dien",
+      "target": "le_nhuoc_thuy",
+      "type": "enemy",
+      "label": "Đối thủ/Con mồi"
+    },
+    {
+      "source": "tham_hai",
+      "target": "ngao_dinh",
+      "type": "enemy",
+      "label": "Tử địch"
     },
     {
       "from": "khong_do",
