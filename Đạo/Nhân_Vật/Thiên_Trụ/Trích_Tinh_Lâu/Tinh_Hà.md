@@ -64,6 +64,15 @@ arcs:
           tin: 55
           so: 0
           on: 0
+      - character: Trần Vô Danh
+        description: Ẩn sĩ Vi Tộc, kẻ đổi tri thức lấy quyền vào thư viện Trích Tinh Lâu
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 35
+          tin: 40
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: TINH HÀ (星河)

@@ -44,6 +44,15 @@ arcs:
           tin: 25
           so: 0
           on: 0
+      - character: Trần Vô Danh
+        description: Ẩn sĩ Vi Tộc muốn phỏng vấn hắn nhưng bị từ chối, kẻ tò mò dai dẳng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 15
+          tin: 10
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CỔ TẰM VẠN NIÊN (古蠶萬年)

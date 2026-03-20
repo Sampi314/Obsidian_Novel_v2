@@ -14,7 +14,34 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Băng Nha
+        description: Bắc Phương Thủy Tướng, đồng liêu cùng Long Cung, ghét sự lạnh nhạt giả thanh cao
+        feelings:
+          yeu: -10
+          han: 25
+          kinh: 30
+          tin: 5
+          so: 5
+          on: 0
+      - character: Cuồng Lôi
+        description: Đông Phương Thủy Tướng, đồng liêu hợp rơ tàn sát nhưng chán vì giết quá nhanh
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 15
+          tin: 15
+          so: 0
+          on: 0
+      - character: Thanh Hàn Nguyệt
+        description: Tuần Sát Sứ Bắc Hải, mối đe dọa cần canh chừng vì sự tàn độc khó dự đoán
+        feelings:
+          yeu: 0
+          han: 10
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HUYẾT TRIỀU (血潮)

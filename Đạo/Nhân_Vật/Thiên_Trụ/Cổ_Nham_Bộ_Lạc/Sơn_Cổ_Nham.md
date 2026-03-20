@@ -61,6 +61,24 @@ arcs:
           tin: 50
           so: 0
           on: 10
+      - character: Cổ Tằm Vạn Niên
+        description: Sinh vật Thái Cổ đồng thời đại, một trong số ít tồn tại cổ xưa mà hắn còn nhớ
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 25
+          tin: 30
+          so: 0
+          on: 0
+      - character: Trần Vô Danh
+        description: Ẩn sĩ Vi Tộc từng phỏng vấn hắn, cuộc trò chuyện kéo dài trăm năm
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 30
+          tin: 25
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: SƠN CỔ NHAM (山古岩)

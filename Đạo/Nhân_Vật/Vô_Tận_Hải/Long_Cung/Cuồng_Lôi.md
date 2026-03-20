@@ -14,7 +14,43 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Băng Nha
+        description: Bắc Phương Thủy Tướng, đối thủ vừa tôn trọng vừa kiêng dè sự câm lặng
+        feelings:
+          yeu: 0
+          han: 10
+          kinh: 40
+          tin: 20
+          so: 10
+          on: 0
+      - character: Huyết Triều
+        description: Nam Phương Thủy Tướng, khá hợp rơ tàn sát nhưng khinh thường thói hành hạ con mồi
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 10
+          tin: 15
+          so: 0
+          on: 0
+      - character: Thanh Hàn Nguyệt
+        description: Tuần Sát Sứ Bắc Hải, đối thủ ngang sức hay so tài
+        feelings:
+          yeu: 0
+          han: 10
+          kinh: 20
+          tin: 10
+          so: 0
+          on: 0
+      - character: Thiết Lân
+        description: Tây Phương Thủy Tướng, đồng cấp bị coi thường vì quá ngu ngốc
+        feelings:
+          yeu: 0
+          han: 5
+          kinh: -10
+          tin: 5
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CUỒNG LÔI (狂雷)

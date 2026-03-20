@@ -42,6 +42,24 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Ám Nhị
+        description: Tổng Quản phụ, đứa trẻ được nhặt về nuôi dưỡng, nay là thuộc hạ trung thành xử lý công việc ngầm
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 50
+          so: 0
+          on: 0
+      - character: Lệ Tam
+        description: Đấu Giá Sư, kẻ mồm mép lanh lợi được giao quyền tổ chức mọi phiên đấu giá lớn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 40
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: MẠC VÔ DIỆN (莫無面)
@@ -64,6 +82,8 @@ Sở hữu Vô Diện Thuật — có thể thay đổi hoàn toàn ngoại hìn
 - **[[Chu Thiết Diện]]** — Trưởng Lão Chấp Pháp, cánh tay phải thực thi luật lệ Quỷ Thị.
 - **[[Hồ Vô Thanh]]** — Tổng Quản, người điều hành mọi hoạt động hàng ngày theo chỉ thị của Quỷ Chủ.
 - **[[Vương Cổ Thuyền]]** — Đưa Đò Trưởng, người kiểm soát con đường duy nhất dẫn vào Quỷ Thị.
+- **[[Ám Nhị]]** — Tổng Quản phụ, đứa trẻ được nhặt về nuôi dưỡng, nay là thuộc hạ trung thành xử lý công việc ngầm.
+- **[[Lệ Tam]]** — Đấu Giá Sư, kẻ mồm mép lanh lợi được giao quyền tổ chức mọi phiên đấu giá lớn.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lai lịch của Mạc Vô Diện là bí ẩn lớn nhất Nam Cương — có người đồn đó là một nữ tu sĩ cổ đại, có kẻ cho rằng đó là yêu thú hóa hình. Quỷ Thị Nam Cương được lập ra từ hơn năm trăm năm trước, trở thành chợ đen lớn nhất vùng, nơi mà cả chính đạo lẫn tà đạo đều phải tuân thủ quy tắc. Dưới sự cai quản của Mạc Vô Diện, Quỷ Thị giữ lập trường trung lập tuyệt đối, không thiên vị bất kỳ thế lực nào.

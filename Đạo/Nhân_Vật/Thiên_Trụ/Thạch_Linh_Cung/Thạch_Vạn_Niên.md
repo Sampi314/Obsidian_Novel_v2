@@ -54,6 +54,33 @@ arcs:
           tin: 70
           so: 0
           on: 0
+      - character: Sơn Cổ Nham
+        description: Tộc Trưởng Cổ Nham Bộ Lạc, Cự Tộc láng giềng mà lão vừa tôn trọng vừa cảnh giác
+        feelings:
+          yeu: 10
+          han: 10
+          kinh: 30
+          tin: 25
+          so: 0
+          on: 0
+      - character: Sơn Trấn
+        description: Thủ Vệ Cổ Nham Bộ Lạc, đối tượng cảnh giác thường trực ở biên giới
+        feelings:
+          yeu: 0
+          han: 15
+          kinh: 20
+          tin: 15
+          so: 0
+          on: 0
+      - character: Vân Đỉnh Trưởng Lão
+        description: Trưởng Lão Cổ Tích Cự Nhân, Cự Tộc có quan hệ ngoại giao
+        feelings:
+          yeu: 5
+          han: 5
+          kinh: 20
+          tin: 20
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: THẠCH VẠN NIÊN (石萬年)

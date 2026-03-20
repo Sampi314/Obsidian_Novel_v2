@@ -42,6 +42,15 @@ arcs:
           tin: 44
           so: 0
           on: 28
+      - character: Hồ Vô Thanh
+        description: Tổng Quản, người cung cấp thông tin vi phạm để Chu Thiết Diện xử lý
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 40
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: CHU THIẾT DIỆN (朱鐵面)
@@ -64,6 +73,7 @@ Tu luyện Thiết Diện Công — mặt nạ sắt hợp nhất với thân th
 - **[[Mạc Vô Diện]]** — Quỷ Chủ, thượng cấp tối cao mà Chu Thiết Diện tuyệt đối trung thành.
 - **[[Ám Nhị]]** — Tổng Quản phụ, người hỗ trợ điều tra các vụ vi phạm luật lệ trong Quỷ Thị.
 - **[[Lệ Tam]]** — Đấu Giá Sư, kẻ hay gây phiền phức bằng miệng lưỡi nhưng Chu Thiết Diện phải bảo vệ an toàn.
+- **[[Hồ Vô Thanh]]** — Tổng Quản, người cung cấp thông tin vi phạm để Chu Thiết Diện xử lý.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Chu Thiết Diện vốn là một võ phu lang thang, bị trọng thương và được Mạc Vô Diện cứu sống với điều kiện phải phục vụ Quỷ Thị suốt đời. Từ đó đeo mặt nạ sắt như biểu tượng của sự ràng buộc, trở thành Trưởng Lão Chấp Pháp đáng sợ nhất. Hơn hai trăm năm qua, không một kẻ vi phạm nào thoát khỏi tay hắn. Ngoài Quỷ Thị, hắn không có bất kỳ mối quan hệ hay mục đích sống nào khác.
