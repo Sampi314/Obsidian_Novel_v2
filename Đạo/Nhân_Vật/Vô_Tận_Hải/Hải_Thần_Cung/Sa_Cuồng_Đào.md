@@ -50,6 +50,15 @@ arcs:
           tin: 85
           so: 0
           on: 10
+      - character: Giao Thanh Lan
+        description: Đồng liêu Đông Bắc Tướng Quân, nể trọng tay kiếm nhưng hay tranh luận chiến thuật
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 70
+          tin: 70
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: SA CUỒNG ĐÀO (鯊狂濤)

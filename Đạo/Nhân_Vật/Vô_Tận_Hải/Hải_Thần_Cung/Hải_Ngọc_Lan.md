@@ -59,6 +59,15 @@ arcs:
           tin: 90
           so: 0
           on: 50
+      - character: Giao Thanh Lan
+        description: Nữ tướng bí mật bảo vệ nàng mỗi chuyến phiêu lưu, người nàng không biết đang theo dõi
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 40
+          tin: 50
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẢI NGỌC LAN (海玉蘭)

@@ -61,6 +61,15 @@ arcs:
           tin: 75
           so: 0
           on: 20
+      - character: Giao Thanh Lan
+        description: Nữ tướng Đông Bắc mà nàng tin tưởng giao nhiệm vụ bí mật hộ tống Ngọc Lan
+        feelings:
+          yeu: 35
+          han: 0
+          kinh: 70
+          tin: 85
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LỆ NGỌC HÀ (麗玉霞)

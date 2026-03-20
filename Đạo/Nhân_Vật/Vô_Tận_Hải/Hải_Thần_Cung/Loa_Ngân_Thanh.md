@@ -36,6 +36,15 @@ arcs:
           tin: 65
           so: 0
           on: 10
+      - character: Hải Ngọc Lan
+        description: Công Chúa và học trò nhạc thuật, người mà cô trao tặng Ngọc Lan Tiêu
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 30
+          tin: 70
+          so: 0
+          on: 15
 ---
 
 # HỒ SƠ NHÂN VẬT: LOA NGÂN THANH (螺銀聲)

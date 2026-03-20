@@ -70,6 +70,42 @@ arcs:
           tin: 90
           so: 0
           on: 30
+      - character: Chương Hắc Triều
+        description: Tây Bắc Tướng Quân trung thành nhưng hay bất đồng chiến lược, cần kiềm chế sự bạo lực
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 45
+          tin: 65
+          so: 0
+          on: 0
+      - character: Giao Thanh Lan
+        description: Đông Bắc Tướng Quân, nữ tướng đáng tin cậy nhất trấn giữ tuyến biên giới Long Cung
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 70
+          tin: 85
+          so: 0
+          on: 0
+      - character: Kình Vạn Lý
+        description: Tây Hải Tướng Quân kỳ cựu, kẻ duy nhất ông phải đích thân đến chiêu mộ
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 75
+          tin: 85
+          so: 0
+          on: 10
+      - character: Giao Nguyệt Hàn
+        description: Đệ Nhị Tế Tư, cánh tay bóng tối thực thi mệnh lệnh trong bóng tối
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 70
+          tin: 85
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẢI THIÊN ĐẾ (海天帝)

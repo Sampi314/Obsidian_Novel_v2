@@ -85,6 +85,123 @@ arcs:
           tin: -20
           so: 0
           on: 10
+      - character: Ân Mộc Thanh
+        description: Mộc Độc Sư Đường Chủ, thuộc hạ phục tùng vì được tự do nghiên cứu
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 20
+          tin: 30
+          so: 0
+          on: 0
+      - character: Ân Tiểu Độc
+        description: Nội Môn Đệ Tử, kẻ dưới nhút nhát có thiên phú nhận biết độc tố hữu dụng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Âu Dương Vô Tích
+        description: Thái Thượng Trưởng Lão, tiền bối lâu đời nhất phục tùng vì lười tranh giành, hắn biết lão nhân giấu nhiều bí mật
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 30
+          tin: -20
+          so: 0
+          on: 0
+      - character: Cổ Hàn Sương
+        description: Luyện Tà Đường Chủ, thuộc hạ mà hắn biết bà coi mình là vũ khí chứ không phải lãnh đạo
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 25
+          tin: -30
+          so: 0
+          on: 0
+      - character: Cô Nguyệt Nương
+        description: Cổ Độc Sư, đồng liêu Trùng Tộc cấp cao mà hắn vừa dùng vừa cảnh giác
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 20
+          tin: -25
+          so: 0
+          on: 0
+      - character: Đàm Trầm Thủy
+        description: Thiềm Chi Hộ Pháp, thuộc hạ mà hắn biết đang bí mật tích trữ quyền lực
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: -40
+          so: 0
+          on: 0
+      - character: Hạ Thiên Châm
+        description: Yết Chi Hộ Pháp, chiến binh cá nhân mạnh nhất môn phái, phục tùng tuyệt đối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 30
+          tin: 40
+          so: 0
+          on: 0
+      - character: Hàn Phong
+        description: Nhất Sát, sản phẩm hoàn hảo của chương trình đào tạo sát thủ, vũ khí trung thành
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 20
+          tin: 60
+          so: 0
+          on: 0
+      - character: La Vân Ti
+        description: Nhện Chi Hộ Pháp, thuộc hạ phục tùng tuyệt đối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 30
+          so: 0
+          on: 0
+      - character: Liễu Lãnh Huyết
+        description: Xà Chi Hộ Pháp, thuộc hạ trung thành nhất, thề trung thành đến chết
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 25
+          tin: 60
+          so: 0
+          on: 0
+      - character: Mạc Thiên Túc
+        description: Rết Chi Hộ Pháp, thuộc hạ nóng nảy nhưng sức mạnh thuần túy đáng dùng
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 20
+          so: 0
+          on: 0
+      - character: Phong Thiên Châm
+        description: Thích Khách Trùng Tộc, thuộc hạ chuyên ám sát cao cấp
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 25
+          so: 0
+          on: 0
+      - character: Tiêu Vô Hận
+        description: Thất Sát, kẻ dưới phục tùng vì được hứa cơ hội báo thù
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: -10
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐỘC CÔ LÃO QUÁI
