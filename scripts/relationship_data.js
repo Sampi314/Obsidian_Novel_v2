@@ -2850,7 +2850,10 @@ if (typeof characters !== 'undefined') {
         { id: "ho_nguyet_nhi", name: "Hồ Nguyệt Nhi", title: "Tộc Trưởng", realm: "Kim Đan Sơ Kỳ", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "leader", pov: false, avatar_color: "#ff69b4" },
         { id: "ho_dieu_ngon", name: "Hồ Diệu Ngôn", title: "Ngoại Giao", realm: "Trúc Cơ Hậu Kỳ", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ffb6c1" },
         { id: "ho_huyen_da_thien", name: "Hồ Huyễn Dạ Thiên", title: "Ảo Thuật Sư", realm: "Trúc Cơ Viên Mãn", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#dda0dd" },
-        { id: "ho_hoa_vi", name: "Hồ Hỏa Vĩ", title: "Chiến Sĩ", realm: "Trúc Cơ Trung Kỳ", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ff4500" }
+        { id: "ho_hoa_vi", name: "Hồ Hỏa Vĩ", title: "Chiến Sĩ", realm: "Trúc Cơ Trung Kỳ", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ff4500" },
+        { id: "ho_kim_sa", name: "Hồ Kim Sa", title: "Thương Nhân Giả", realm: "Trúc Cơ Hậu Kỳ", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ffd700" },
+        { id: "ho_minh_nguyet", name: "Hồ Minh Nguyệt", title: "Dược Sư", realm: "Trúc Cơ Hậu Kỳ", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#e6e6fa" },
+        { id: "ho_phong_van", name: "Hồ Phong Vân", title: "Đệ Tử", realm: "Luyện Khí Viên Mãn", faction: "Sa Mạc Yêu Hồ", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#87ceeb" }
     );
     relationships.push(
         { source: "ho_dieu_ngon", target: "ho_nguyet_nhi", type: "Phục Tùng", description: "Tuyệt đối phục tùng mệnh lệnh và làm theo mọi kế sách ngoại giao của Tộc Trưởng." },
@@ -2859,7 +2862,13 @@ if (typeof characters !== 'undefined') {
         { source: "ho_dieu_ngon", target: "ho_huyen_da_thien", type: "Đồng Đội", description: "Đối tác hoàn hảo, biến những lời đồn thổi của Diệu Ngôn thành hình ảnh thực tế." },
         { source: "ho_hoa_vi", target: "ho_dieu_ngon", type: "Bảo Vệ", description: "Thường đóng vai trò hộ vệ ngầm cho Diệu Ngôn trong những lần đàm phán." },
         { source: "ho_huyen_da_thien", target: "pham_huong_tay", type: "Trêu Chọc", description: "Từng dùng ảo ảnh trêu chọc và khiến tên hướng đạo sinh này lạc đường suốt ba ngày." },
-        { source: "ho_hoa_vi", target: "ly_huyet_lang", type: "Kẻ Thù", description: "Từng để lại một vết bỏng lớn cho tên đội trưởng sa tặc này trong một lần đụng độ." }
+        { source: "ho_hoa_vi", target: "ly_huyet_lang", type: "Kẻ Thù", description: "Từng để lại một vết bỏng lớn cho tên đội trưởng sa tặc này trong một lần đụng độ." },
+        { source: "ho_kim_sa", target: "ho_nguyet_nhi", type: "Trung Thành", description: "Kính sợ và tuyệt đối trung thành với Tộc Trưởng." },
+        { source: "ho_kim_sa", target: "ho_minh_nguyet", type: "Đối Tác", description: "Thường xuyên nhập 'hàng đặc biệt' như Mê Hồn Hương từ nàng để hỗ trợ tình báo." },
+        { source: "ho_kim_sa", target: "ho_phong_van", type: "Sư Phụ", description: "Cố gắng rèn giũa bản tính bốc đồng của đệ tử." },
+        { source: "ho_minh_nguyet", target: "ho_nguyet_nhi", type: "Trung Thành", description: "Trung thành với lý tưởng sinh tồn của Tộc Trưởng, người điều chế độc dược bí mật." },
+        { source: "ho_minh_nguyet", target: "ho_phong_van", type: "Đại Tỷ", description: "Thường xuyên phải mắng mỏ và chữa trị cho tiểu hồ ly bốc đồng này." },
+        { source: "ho_phong_van", target: "ho_nguyet_nhi", type: "Sợ Hãi", description: "Sợ đến mức run rẩy nhưng luôn cố gắng thể hiện tốt trước mặt Tộc Trưởng." }
     );
 
     characters.push(
