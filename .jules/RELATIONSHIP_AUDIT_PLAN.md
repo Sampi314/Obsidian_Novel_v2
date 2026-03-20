@@ -92,7 +92,7 @@ arcs:
 - [x] Ngô Công Trưởng Lão
 - [x] Phương Vô Kỵ
 - [x] Sở Lăng Sương
-- [ ] Triệu Thanh Hằng
+- [x] Triệu Thanh Hằng
 - [ ] Lục Ly
 - [ ] Nguyệt Dao
 - [x] Nham Thần
@@ -203,3 +203,4 @@ Tên file = tên nhân vật với `_` thay khoảng trắng (có dấu Tiếng 
 | 2026-03-20 | Claude Code | Diệp Thanh Y (DONE) | Checked 5 YAML + 7 markdown refs, fixed 3: added Nguyệt Dao + Thảo Tâm Linh to Diệp Thanh Y's YAML, added Diệp Thanh Y to Thảo Tâm Linh's YAML |
 | 2026-03-20 | Claude Code | Sở Lăng Sương (DONE) | Checked 9 refs, added 7 YAML entries to Sở Lăng Sương + 7 reciprocal YAML entries to Lê Kiếm Tâm, Bằng Bắc Minh, Hạc Tuyết Nhi, Sương Lệ Nhi, Triệu Thanh Hằng, Tước Hàn, Tước Tuyết Nhi |
 | 2026-03-20 | Claude Code | Ngao Đình (DONE) | Checked 8 refs (Phương Vô Kỵ, Lệ Nhược Thủy, Hắc Triều, Thâm Hải, Minh Trầm Mặc, Vạn Kiếp, Băng Nha, Thiết Lân), fixed 3 missing YAML: Hắc Triều, Thâm Hải, Băng Nha |
+| 2026-03-20 | Claude Code | Triệu Thanh Hằng (DONE) | Checked 7 refs, added 5 YAML entries to Triệu Thanh Hằng + 5 reciprocal YAML entries to Bằng Bắc Minh, Hạc Tuyết Nhi, Sương Lệ Nhi, Tước Hàn, Tước Tuyết Nhi |
