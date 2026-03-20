@@ -53,6 +53,24 @@ arcs:
           tin: 40
           so: 0
           on: 0
+      - character: Trần Thiên Hổ
+        description: Ông hổ dữ nhưng hay cho mình kẹo, thề chết bảo vệ mình
+        feelings:
+          yeu: 45
+          han: 0
+          kinh: 0
+          tin: 55
+          so: 10
+          on: 0
+      - character: Nguyễn Lang Phong
+        description: Anh sói hay chạy nhanh, thầm lo lắng cho mình nhưng giấu kỹ
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 0
+          tin: 35
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: LONG HUYẾT NHI (龍血兒)

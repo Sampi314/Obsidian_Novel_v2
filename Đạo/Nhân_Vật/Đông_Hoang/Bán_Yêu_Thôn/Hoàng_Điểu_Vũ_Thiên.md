@@ -58,6 +58,15 @@ arcs:
           tin: 50
           so: 15
           on: 20
+      - character: Phạm Hùng Sơn
+        description: Đồng đội trinh sát, thợ rèn hay đặt vũ khí kỳ quặc nhưng đáng tin
+        feelings:
+          yeu: 25
+          han: 5
+          kinh: 5
+          tin: 50
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: HOÀNG ĐIỂU VŨ THIÊN (黃鳥羽天)
