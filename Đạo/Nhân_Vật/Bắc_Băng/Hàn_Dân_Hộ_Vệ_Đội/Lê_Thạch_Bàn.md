@@ -154,6 +154,7 @@ arcs:
     - Y giữ bí mật tuyệt đối chuyện này. Hàn Dân Hộ Vệ Đội được thành lập trên nền tảng bất mãn với tu sĩ — Huyền Băng Cung bỏ mặc dân thường chết, tông môn chỉ lo tu luyện không lo dân. Nếu đồng đội biết y "dính líu" đến tu sĩ, dù chỉ là mua bùa rẻ tiền, sẽ gây ra sóng gió. Y chấp nhận rủi ro này vì tin rằng: bùa hay bẫy, miễn cứu được người là dùng.
 - **Cha — Lê Thạch Nhai (Đã Mất Tích):**
     - Dù đã mười một năm, Thạch Bàn chưa bao giờ chấp nhận rằng cha đã chết. Y không lập mộ cho cha, không cúng giỗ — vì trong lòng y, "mất tích" không phải "đã chết". Chiếc áo khoác dính máu trong đáy ba lô là sợi dây duy nhất nối y với cha. Thỉnh thoảng vào những đêm bão tuyết, khi gió gào rú giống tiếng gầm của Tuyết Giáp Lang, y sẽ thức giấc, tay vô thức sờ xuống đáy ba lô — xác nhận chiếc áo vẫn còn đó — rồi mới ngủ lại được.
+- **Đỗ Sơn Hổ** (Đồng minh): Đồng đội ít nói, y không hiểu cách nghĩ của hắn nhưng phục tài đặt bẫy
 
 ## VII. GIAI THOẠI
 > *"Bẫy của Lê Câm giống như miệng Tuyết Sơn — nằm im dưới tuyết, không tiếng không hơi, nhưng nuốt chửng bất kỳ thứ gì bước qua."*

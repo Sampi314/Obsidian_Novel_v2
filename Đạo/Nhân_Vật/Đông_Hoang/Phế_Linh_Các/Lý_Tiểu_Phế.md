@@ -32,8 +32,9 @@ Lý Tiểu Phế là thiếu niên nhỏ nhắn, mặt trắng trẻo, tóc rố
 Lý Tiểu Phế có thiên phú Linh Cơ Xảo Thủ (靈機巧手) — đôi tay phát ra linh lực mỏng có thể cảm nhận cấu trúc bên trong pháp khí mà không cần phá hủy. Đang học kỹ thuật tái tạo pháp khí từ Lạc Vô Danh, tiến bộ nhanh đáng kinh ngạc. Không giỏi chiến đấu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lạc Vô Danh:** Sư phụ mà Tiểu Phế kính trọng, người dạy y cách tôn trọng mọi vật phẩm dù đã hỏng.
-- **Phạm Phế Căn:** 'Chú Căn' hay dẫn y đi thu mua, Tiểu Phế thích nhất những chuyến đi này vì được thấy nhiều thứ lạ.
-
+- **Lạc Vô Danh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Phế Linh Các
+- **Lạc Vô Danh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lạc Vô Danh
+- **Trần Tàn Linh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Phế Linh Các
+- **Phạm Phế Căn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Phế Linh Các
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Tiểu Phế là cô nhi lớn lên trong Phế Linh Các, được nuôi dạy giữa đống pháp khí hỏng nên phát triển mối liên hệ đặc biệt với chúng. Thiên phú Linh Cơ Xảo Thủ hiếm gặp khiến Lạc Vô Danh coi y là truyền nhân lý tưởng. Gần đây, y phục hồi thành công một pháp khí mà mọi người tưởng đã hoàn toàn chết — bằng cách nói chuyện với nó, điều mà không ai hiểu được. Có lẽ y có khả năng giao tiếp với linh hồn pháp khí.

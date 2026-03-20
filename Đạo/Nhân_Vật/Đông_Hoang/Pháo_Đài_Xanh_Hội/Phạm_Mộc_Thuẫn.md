@@ -32,8 +32,10 @@ Phạm Mộc Thuẫn có thân hình đậm chắc, vai rộng, tay cầm khiên
 Phạm Mộc Thuẫn là bậc thầy Thanh Mộc Kiên Thuẫn Quyết (青木堅盾訣), khiên linh mộc của y có thể tự phục hồi khi được cung cấp linh lực. Tuyệt kỹ Vạn Mộc Liên Thuẫn (萬木連盾) — kết nối khiên của toàn đội tạo thành tường phòng ngự bất khả xâm phạm. Điểm yếu là tốc độ chậm và hoàn toàn phòng thủ, không có đòn tấn công mạnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Đại Thạch:** Đoàn Trưởng mà Mộc Thuẫn phục tùng tuyệt đối, hai người chiến đấu bên nhau từ thời tân binh.
-- **Hoàng Lâm Vệ:** Kỵ sĩ dưới quyền mà Mộc Thuẫn đánh giá cao tinh thần chiến đấu.
-
+- **Trần Đại Thạch** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Pháo Đài Xanh Hội
+- **Trần Đại Thạch** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Đại Thạch
+- **Nguyễn Tiểu Thảo** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Pháo Đài Xanh Hội
+- **Lý Thanh Diệp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Pháo Đài Xanh Hội
+- **Hoàng Lâm Vệ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Pháo Đài Xanh Hội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Mộc Thuẫn gia nhập đoàn kỵ sĩ khi mười tám tuổi, từ đó chưa từng rời Pháo Đài Xanh một ngày. Y coi pháo đài là nhà, coi rừng cây là gia đình. Trong trận đại chiến với Phong Sát Cốc, y đứng ở tiền tuyến suốt ba ngày đêm không ngã, khiên nát rồi lại mọc, trở thành huyền thoại sống của đoàn. Hiện tại đang huấn luyện thế hệ kỵ sĩ mới sử dụng khiên linh mộc.

@@ -32,9 +32,13 @@ Lục Minh Nguyệt Hoa là một Tinh Linh nhẹ nhàng, mái tóc xanh nhạt 
 Là Y Sư cảnh giới Kim Đan Sơ Kỳ, Lục Minh Nguyệt Hoa tu luyện "Nguyệt Hoa Liệu Thương Khúc" (月花疗伤曲) — dùng giai điệu và linh khí mộc hệ chữa lành mọi vết thương vật lý và tinh thần. Tuyệt kỹ "Minh Nguyệt Hồi Xuân" (明月回春) tạo vùng chữa trị diện rộng, hồi phục nhiều người cùng lúc. Điểm mạnh là y thuật và hỗ trợ vô song, nhược điểm là hoàn toàn không có năng lực chiến đấu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Linh Dao Hoa:** Đan Dược Sư, nàng kê đơn và Dao Hoa bào chế — cặp đôi y dược.
-- **Hoa Tuyết:** Thị vệ mà nàng từng cứu mạng sau vụ trúng tên độc.
-- **Hoa Tử Yên:** Vườn Thần Quản Lý, cung cấp dược liệu chữa bệnh.
-
+- **Nguyệt Thiên Hà** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tinh Linh Vương Đình
+- **Nguyệt Thiên Hà** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nguyệt Thiên Hà
+- **Nguyệt Thanh Hà** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Hoa Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Linh Dao Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Vân Hà** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Hoa Ngọc Lan** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Hoa Tuyết** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lục Minh Nguyệt Hoa sinh ra với khả năng chữa lành bẩm sinh — chạm tay vào đâu cây cỏ nở hoa. Nàng được đào tạo y thuật từ nhỏ và trở thành y sư cung đình trẻ nhất Vương Đình. Sự kiện nổi tiếng nhất là khi nàng cứu sống Hoa Tuyết bằng cách chữa trị liên tục ba ngày đêm không ngủ. Nỗi lo hiện tại là ngày càng nhiều Tinh Linh mắc một chứng bệnh lạ mà nàng không giải thích được — linh lực suy yếu dần dù không có vết thương.

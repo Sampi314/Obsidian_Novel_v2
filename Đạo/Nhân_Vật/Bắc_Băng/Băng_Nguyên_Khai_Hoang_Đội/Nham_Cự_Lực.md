@@ -170,6 +170,8 @@ arcs:
     - Cự Lực không hiểu ma tu là gì, không biết Sương Ma Uyển hoạt động ra sao — nhưng lần đầu tiên ngửi thấy mùi hàn khí tà đạo của Sương Ma tu sĩ trên đường thám hiểm, toàn thân hắn nổi da gà, lông trên cánh tay dựng đứng. Đó là phản ứng Huyết Mạch Cự Linh — dòng máu Cự Tộc từ thượng cổ đã khắc sâu bản năng ghê tởm tà ma. Hắn không hận Sương Ma Uyển theo kiểu lý trí như Khai Sơn hay Thiết Chùy — hắn ghê tởm chúng bằng bản năng, như thú ghê tởm mùi thối.
 - **Đồng Đội Trong Khai Hoang Đội — Gia Đình Mới:**
     - Cự Lực coi mười một đồng đội như gia đình — đơn giản, không phân biệt. Hắn nhớ tên từng người, nhớ ai thích ăn gì, ai hay bị lạnh, ai ngáy to khi ngủ. Hắn lặng lẽ chăm sóc mọi người theo cách của mình — vác hành lý cho người yếu, chia thịt phần lớn cho người đói, ôm sưởi ấm cho người bệnh. Không ai bảo, hắn tự làm. Đồng đội gọi hắn là "Cự Ngốc" theo thói quen — nhưng giọng gọi đã thay đổi, từ chê bai thành trìu mến. Vì ai cũng biết: "gã ngốc" này sẽ chết vì bọn họ mà không hề nghĩ ngợi.
+- **Hàn Chùy** (Đồng minh): Đồng tộc Cự Nhân trong Băng Nguyên Khai Hoang Đội, thỉnh thoảng trao đổi kỹ thuật đục đá
+- **Sương Thạch Nhi** (Đồng minh): Đại ca đồng tộc ở Khai Hoang Đội, hay cho quà mỗi lần ghé thăm
 
 ## VII. GIAI THOẠI
 > *"Đấm đá sao thì đấm kẻ thù vậy. Tìm thớ yếu, đấm đúng chỗ, một nhát xong."*

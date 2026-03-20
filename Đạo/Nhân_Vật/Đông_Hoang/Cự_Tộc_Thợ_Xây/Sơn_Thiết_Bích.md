@@ -101,6 +101,11 @@ Sau khi chôn mẹ, Sơn Thiết Bích rời thôn, lang thang về phía thành
 
 Ba năm trong phường, Sơn Thiết Bích học được nhiều thứ: cách xẻ đá, cách trộn vữa, cách dựng tường cho thẳng, cách cúi đầu trước nhân tộc mà không gãy cổ. Thứ cuối cùng gã vẫn chưa học được — và có lẽ không bao giờ học được. Mỗi lần đốc công nhân tộc quát "nhanh lên, đồ chậm chạp," gã cắn môi đến chảy máu. Mỗi lần nghe nhân tộc gọi Cự Tộc là "trâu đá," gã phải bước ra ngoài hít thở mười lần trước khi quay lại. Thạch Lực biết — lão luôn biết — nhưng lão chỉ vỗ vai gã, không nói gì. Đôi khi im lặng của lão nặng hơn bất kỳ lời khuyên nào.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Thạch Lực** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Cự Tộc Thợ Xây
+- **Nham Đại Chùy** (Đệ tử): Đệ tử nghề nghiệp, thợ trẻ có thiên phú khiến lão vừa vui vừa lo
+- **Thạch Lực** (Đồng minh): Phường Trưởng, ân nhân cưu mang nhưng gã không hiểu nổi sự nhẫn nhịn của lão
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 - **Sở Trường:**

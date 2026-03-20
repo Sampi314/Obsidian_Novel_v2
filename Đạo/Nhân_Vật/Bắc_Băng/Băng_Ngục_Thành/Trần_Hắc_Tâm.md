@@ -168,6 +168,7 @@ arcs:
 
 - **Vương Đấu Trường — Đối Tác Nhỏ:**
     - Mối quan hệ thương mại cấp thấp: Hắc Tâm giúp Vương Đấu Trường "tuyển" tù nhân Tầng Một tham gia Đấu Trường Máu (cưỡng bức hoặc dụ dỗ), đổi lại Vương Đấu Trường chia phần tiền cá cược. Không có tình cảm, chỉ có lợi ích — nhưng cả hai cùng nằm trong mạng lưới Lý Tham Quan nên duy trì quan hệ hòa hảo.
+- **Tuyết Cô Hàn** (Đồng minh): Quản ngục Băng Ngục Thành, kẻ đã từng truy sát nàng khi nàng giải cứu tù nhân vô tội
 
 ## VII. GIAI THOẠI
 > *"Trong Băng Ngục Thành, cai ngục và tù nhân chỉ khác nhau ở chiếc lệnh bài. Tháo lệnh bài ra, tất cả chúng ta đều là tù nhân."*

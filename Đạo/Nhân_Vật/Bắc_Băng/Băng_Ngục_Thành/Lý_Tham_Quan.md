@@ -165,6 +165,9 @@ arcs:
 
 - **Thiên Sa Thương Hội — Đối Tác Bên Ngoài:**
     - Hắn là đầu mối duy nhất kết nối Băng Ngục Thành với Thiên Sa Thương Hội — vị trí này cho hắn quyền lực đặc biệt vì không ai khác có mạng lưới liên lạc cần thiết. Hắn duy trì sự độc quyền này bằng cách không bao giờ tiết lộ danh tính thương nhân Thiên Sa cho bất kỳ ai, kể cả Ngục Trưởng.
+- **Ngục Vô Tình** (Đồng minh): Chủ nhân mà y vừa sợ vừa lệ thuộc, biết rõ Ngục Trưởng nắm mạng mình trong tay nhưng không có lựa chọn khác
+- **Mạc Lão Bà** (Đồng minh): Kẻ buôn bán nhỏ nhặt, bà đôi khi nhờ hắn mang vào vài vị thuốc hiếm đổi bằng bí mật nhỏ
+- **Độc Vương Lão Ngũ** (Đồng minh): Phó Ngục Trưởng tham nhũng, đầu mối duy nhất để hắn mua nguyên liệu luyện độc từ bên ngoài
 
 ## VII. GIAI THOẠI
 > *"Giết ta? Được thôi. Nhưng trước khi giết, hãy nghĩ xem ai sẽ lo chuyện linh thạch, đan dược, lương thực và rượu cho ngươi. Giết ta xong, ngươi sẽ giàu hơn hay nghèo hơn?"*

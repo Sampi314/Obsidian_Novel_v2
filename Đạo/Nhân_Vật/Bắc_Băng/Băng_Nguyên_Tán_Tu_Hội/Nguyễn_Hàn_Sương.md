@@ -36,6 +36,8 @@ Với tu vi Luyện Khí Đỉnh Phong, sức chiến đấu trực diện của
 - **Hoàng Đại Sơn:** Đồng đội, Trưởng Trại Tuyết Thưa. Cô thấy tính nóng nảy của gã quá thô lỗ, dù luôn cung cấp cho gã những món đồ tốt nhất khi giao dịch nhưng hai người hiếm khi có chung quan điểm.
 - **Trần Hàn Phong:** Hội Trưởng. Cô kính sợ khí tràng của ông và luôn chấp hành mệnh lệnh nghiêm ngặt mỗi khi nhận chỉ thị từ ông.
 - **Bắc Phong Thông Tín Trạm:** Đối tác. Hàn Sương thường xuyên trao đổi thông tin ẩn với các liên lạc viên nơi đây, có khi dùng tin tức đổi lấy chút linh thạch.
+- **Phạm Lệ Nương** (Đồng minh): Quản sự giao dịch, bà cảnh giác nhưng cần cô mua dược liệu hiếm từ bên ngoài
+- **Đặng Thiết Ngưu** (Đồng minh): Quản sự giao dịch, người cung cấp nguyên liệu rèn quý hiếm cho gã
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra trong một gia đình phàm nhân làm nghề săn bắn ở vùng rìa Bắc Băng, Nguyễn Hàn Sương sớm trải qua những bi kịch mất đi người thân vì cái nghèo và cái lạnh. Lăn lộn từ sớm tại các thương hội nhỏ nhoi nhưng rồi bị lừa gạt, cô học được bài học cay đắng: niềm tin là thứ quá xa xỉ. Nhờ nhặt được một vài pháp bảo bỏ đi và luyện được Luyện Khí Kỳ, cô tự lực leo lên vị trí trung gian buôn bán. Nhận thấy sự tự do trong môi trường Băng Nguyên Tán Tu Hội, cô quyết định nương nhờ. Giờ đây, thân là Quản Sự Sàn Giao Dịch, cô mơ ước tích đủ linh thạch để một ngày bước vào tu vi Trúc Cơ và không còn phải khép nép trước cường giả nữa.

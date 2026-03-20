@@ -32,7 +32,8 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Long Hắc Dạ** (Sư đồ): Long Hắc Dạ chỉ dẫn Long Tử Vân trong Phản Loạn Long Tử
+- **Long Ngọc Hàn** (Đồng minh): Đồng liêu cùng Phản Loạn Long Tử, hỗ trợ lẫn nhau
+- **Long Thanh Phong** (Đồng minh): Đồng liêu cùng Phản Loạn Long Tử, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

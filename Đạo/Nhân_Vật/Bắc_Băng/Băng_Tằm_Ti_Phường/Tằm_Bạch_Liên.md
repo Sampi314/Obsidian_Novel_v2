@@ -139,6 +139,7 @@ arcs:
     - Bạch Liên ngưỡng mộ sự dũng cảm của Tuyết Ti — thứ mà nàng không có. Tuyết Ti dám ra ngoài, dám chiến đấu, dám biến tơ thành vũ khí — trong khi Bạch Liên chỉ dám ngồi trong hang dệt vải. Nàng không ghen tị, mà tự hỏi: *"Nếu ta cũng dũng cảm như nàng ấy, tơ ta sẽ dệt được gì?"*
 - **Tằm Tuyết Lụa — Nhuộm Sư & Đối Tác Sáng Tạo:**
     - Tuyết Lụa nhuộm màu cho vải nàng dệt — biến tơ trắng thuần thành những tấm vải rực rỡ. Hai người thường thảo luận về phối màu, họa tiết, và hiệu ứng thị giác. Bạch Liên tin tưởng Tuyết Lụa vì *"nàng ấy hiểu rằng nhuộm không phải che đi sắc trắng, mà là thêm câu chuyện vào."*
+- **Tằm Minh Nguyệt** (Đồng minh): Dệt sư trưởng, nguồn sản phẩm chất lượng cao nhất để bán
 
 ## VII. GIAI THOẠI
 > *"Bạch Tằm Nương Tử dệt vải có hồn — khoác áo lụa của nàng, ta cảm thấy như đang được ai đó ôm giữa mùa đông. Ấm. An toàn. Không biết giải thích sao."*

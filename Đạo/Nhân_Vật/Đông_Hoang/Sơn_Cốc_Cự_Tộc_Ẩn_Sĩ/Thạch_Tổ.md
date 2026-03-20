@@ -32,9 +32,12 @@ Thạch Tổ là cá thể Cự Tộc cổ đại, cao hơn mười mét, thân 
 Thạch Tổ sở hữu Sơn Cốc Đại Địa Quyết (山谷大地訣) — điều khiển toàn bộ địa hình sơn cốc theo ý muốn, dịch chuyển núi đá, mở đường hoặc phong tỏa lối vào. Tuyệt kỹ Vạn Niên Thạch Ấn (萬年石印) — triệu hồi một tảng đá cổ đại từ lòng đất đè nát mục tiêu. Sức mạnh kinh hoàng nhưng tốc độ cực chậm và không thích chiến đấu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nham Trường Lão:** Trưởng Lão trung thành nhất, đại diện Thạch Tổ giao tiếp với thế giới bên ngoài.
-- **Sơn Thiết Nhai:** Hộ Vệ mạnh nhất, bảo vệ lối vào sơn cốc.
-- **Cương Tiểu Sơn:** Thế hệ trẻ mà Thạch Tổ kỳ vọng sẽ dẫn dắt Cự Tộc trong tương lai.
-
+- **Nham Trường Lão** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Sơn Cốc Cự Tộc Ẩn Sĩ
+- **Sơn Thiết Nhai** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Sơn Cốc Cự Tộc Ẩn Sĩ
+- **Cương Tiểu Sơn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Sơn Cốc Cự Tộc Ẩn Sĩ
+- **Nham Trường Lão** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Thạch Tổ
+- **Sơn Thiết Nhai** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Thạch Tổ
+- **Cương Tiểu Sơn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Thạch Tổ
+- **Thạch Viên Viên** (Sư phụ): Đại Trưởng Lão Sơn Cốc dạy dỗ thế hệ trẻ Thạch Tộc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thạch Tổ tồn tại từ thượng cổ, là một trong những Cự Tộc đầu tiên đạt linh trí. Y chọn ẩn cư trong sơn cốc sâu, không tham gia tranh chấp thế tục, chỉ bảo vệ đồng tộc muốn sống yên bình. Qua hàng vạn năm, y chứng kiến nhiều đại kiếp nhưng luôn giữ sơn cốc an toàn. Gần đây, y cảm nhận sự thay đổi trong địa mạch — thứ gì đó sâu dưới lòng đất đang thức tỉnh, và y lo lắng lần đầu tiên sau ngàn năm.

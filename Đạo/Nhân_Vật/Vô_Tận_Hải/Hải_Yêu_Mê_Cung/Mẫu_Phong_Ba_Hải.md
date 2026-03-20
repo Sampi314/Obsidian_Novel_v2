@@ -32,7 +32,11 @@ Canh giữ lối vào Tam Giác Chết
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Mẫu Huyền Vũ** (Đồng minh): Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau
+- **Mẫu Nguyệt Huyền Ca** (Sư đồ): Mẫu Nguyệt Huyền Ca chỉ dẫn Mẫu Phong Ba Hải trong Hải Yêu Mê Cung
+- **Mẫu Ngân Thanh** (Sư đồ): Mẫu Ngân Thanh chỉ dẫn Mẫu Phong Ba Hải trong Hải Yêu Mê Cung
+- **Mẫu Nguyệt Huyền Ca** (Cấp dưới): Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung
+- **Mẫu Thiên Ca** (Sư đồ): Mẫu Thiên Ca chỉ dẫn Mẫu Phong Ba Hải trong Hải Yêu Mê Cung
+- **Mẫu Thiên Lệ Nguyệt** (Đồng minh): Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

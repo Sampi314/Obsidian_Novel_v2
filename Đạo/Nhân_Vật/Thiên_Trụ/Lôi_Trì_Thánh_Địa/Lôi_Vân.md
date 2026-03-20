@@ -32,10 +32,14 @@ Lôi Vân là một trung niên ngoại hình thanh nhã, khuôn mặt điềm t
 Khác biệt với các đồng môn thiên về chiến đấu trực tiếp, Lôi Vân chuyên tinh về trận pháp lôi hệ — hắn có thể bày bố *Thiên Cương Lôi Giới* thu nhỏ chỉ trong vài giây thở, nhốt đối thủ trong một không gian đầy sấm sét mà không cần giao đấu trực diện. Hắn tu luyện biến thể *Vân Lôi Ẩn Quyết (云雷隐诀)*, lấy mây giông làm phương tiện, ẩn mình trong tầng mây rồi giáng sét xuống kẻ thù bên dưới mà không hề lộ vị trí. Tuyệt kỹ của hắn là *Thiên La Lôi Võng (天罗雷网)* — trải một mạng lưới sấm sét vô hình trên diện rộng, bất cứ ai bước vào đều bị sét đánh liên hoàn cho đến khi gục ngã. Nhược điểm là hắn cần thời gian chuẩn bị trận pháp, nếu bị cận chiến bất ngờ thì phản ứng chậm hơn các sư huynh.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Lôi Thiên Nộ** (Sư đồ): Lôi Thiên Nộ chỉ dẫn Lôi Vân trong Lôi Trì Thánh Địa
+- **Lôi Tiểu Chấn** (Sư đồ): Lôi Vân chỉ dẫn Lôi Tiểu Chấn trong Lôi Trì Thánh Địa
+- **Lôi Chấn** (Sư đồ): Lôi Chấn dẫn dắt Lôi Vân trong Lôi Trì Thánh Địa
+- **Trần Lôi Hỏa** (Sư đồ): Lôi Vân chỉ dẫn Trần Lôi Hỏa trong Lôi Trì Thánh Địa
+- **Tôn Lôi Ưng** (Sư đồ): Lôi Vân chỉ dẫn Tôn Lôi Ưng trong Lôi Trì Thánh Địa
 - **Lôi Thiên Nộ:** Sư tôn mà hắn kính ngưỡng tuyệt đối. Hắn là người duy nhất được phép vào thư viện cá nhân của Lôi Tôn để nghiên cứu trận pháp cổ đại, điều khiến các đồng môn khác không ít ghen tị.
 - **Lôi Chấn:** Sư huynh mà hắn tôn trọng nhưng cũng ngầm lo lắng — hắn thấy Lôi Chấn quá cứng nhắc, sợ rằng sự tàn nhẫn vô tình ấy một ngày sẽ phản phệ chính Thánh Địa.
 - **Lôi Phong:** Sư đệ mà hắn thường xuyên phải "dọn dẹp hậu quả" — mỗi lần Lôi Phong gây rắc rối ngoài Thánh Địa, Lôi Vân phải dùng mối quan hệ ngoại giao để xoa dịu tình hình.
 - **Thiên Môn Kính Đài:** Hắn duy trì liên lạc thường xuyên với các quan sát viên của Thiên Môn Kính Đài, trao đổi kiến thức trận pháp và thông tin tình báo về tà đạo.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lôi Vân xuất thân từ một gia tộc thư hương nhỏ ở vùng trung tâm Thiên Trụ, cha ông là một trận pháp sư tầm trung phục vụ Đại Càn Hoàng Triều. Từ nhỏ hắn đã mê mẩn sách vở và trận pháp hơn là chiến đấu, khiến cha hắn từng lo rằng con trai mình không đủ cứng rắn cho con đường tu tiên. Tuy nhiên, khi Lôi Trì Thánh Địa mở kỳ chiêu sinh, Lôi Vân là người duy nhất trong năm trăm thí sinh giải được bài thử thách trận pháp cổ đại ẩn trong Cửu Cực Lôi Đài — không phải bằng sức mạnh mà bằng trí tuệ phân tích quy luật vận hành của sấm sét. Lôi Thiên Nộ đích thân thu nhận hắn làm chân truyền đệ tử, giao cho trọng trách nghiên cứu và phục nguyên các trận pháp lôi hệ thượng cổ đã thất truyền. Hiện tại, Lôi Vân đang dẫn đầu dự án bí mật tái thiết *Thiên Cương Lôi Giới* phiên bản hoàn chỉnh, đồng thời lo ngại rằng sự mở rộng ảnh hưởng của Cửu U Ma Tông đang đe dọa an ninh vùng rìa Thánh Địa.

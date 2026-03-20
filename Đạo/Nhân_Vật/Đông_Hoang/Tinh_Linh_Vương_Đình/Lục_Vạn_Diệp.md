@@ -32,9 +32,15 @@ Lục Vạn Diệp là một Tinh Linh chiến binh dày dạn, thân hình rắ
 Là Tiền Phong Tướng cảnh giới Kim Đan Trung Kỳ, Lục Vạn Diệp tu luyện "Vạn Diệp Tiễn Trận" (万叶箭阵) — chỉ huy đội cung thủ bắn ra mưa tên phủ linh lực mộc hệ, biến cả chiến trường thành rừng rậm. Tuyệt kỹ "Diệp Trận Phong Bế" (叶阵封闭) tạo trận pháp lá cây bao vây và cô lập kẻ thù. Điểm mạnh là chỉ huy quân sự và trận chiến tập thể, nhược điểm là sức mạnh đơn thể không nổi bật.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nguyệt Vũ:** Công Chúa muốn gia nhập đội hắn, hắn nghiêm khắc huấn luyện không nể mặt.
-- **Hoa Vũ:** Cung Thủ xuất sắc nhất dưới quyền, hắn kỳ vọng rất cao.
-- **Hoa Tuyết:** Thị vệ mà hắn đã huấn luyện kỹ năng chiến đấu cơ bản.
-
+- **Nguyệt Thiên Hà** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tinh Linh Vương Đình
+- **Nguyệt Thiên Hà** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nguyệt Thiên Hà
+- **Nguyệt Hàn Sương** (Thuộc hạ): Thái Tử chỉ huy Tiền Phong Tướng
+- **Vân Mộng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Hoa Liên Hương Tử** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Linh Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Nguyệt Thanh Hà** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Hoa Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Linh Dao Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Phong Vân Lãng** (Đối thủ): Phó Thủ Lĩnh Du Mục và Tiền Phong Tướng, đã giao chiến
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lục Vạn Diệp sinh ra trong gia đình Tinh Linh chiến binh nổi tiếng, từ nhỏ đã được rèn luyện nghệ thuật cung chiến. Hắn vươn lên vị trí Tiền Phong Tướng bằng chiến công thực sự — chỉ huy đội cung thủ đánh lui ba đợt tấn công của yêu thú vào biên giới rừng. Sự kiện đáng nhớ nhất là trận phòng thủ mà đội hắn bắn ra đúng một trăm ngàn mũi tên trong một ngày, tạo thành bức tường thực vật chặn đứng kẻ thù. Mục tiêu hiện tại là nâng cấp hệ thống phòng thủ cung thủ cho kỷ nguyên mới.

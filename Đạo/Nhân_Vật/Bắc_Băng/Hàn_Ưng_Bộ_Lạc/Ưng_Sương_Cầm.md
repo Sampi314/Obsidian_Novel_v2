@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Hạc Sương Vũ** (Đồng minh): Ưng non liều lĩnh mà lão vừa chê vừa thương
+- **Ưng Bạch Đế** (Đồng minh): Chiến Sĩ Trẻ đầy tiềm năng, Bạch Đế thầm thấy bóng dáng mình thời trẻ trong hắn
+- **Ưng Tuyết Phong** (Đồng minh): Chiến Sĩ Trẻ được giao huấn luyện, khiến hắn vừa đau đầu vừa thấy hy vọng
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

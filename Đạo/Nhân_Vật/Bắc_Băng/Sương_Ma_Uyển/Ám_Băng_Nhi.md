@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Sương Vô Tình** (Thuộc hạ): Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển
+- **Bạch Thi Nương** (Sư phụ): Bạch Thi Nương dẫn dắt Ám Băng Nhi trong Sương Ma Uyển
+- **Hắc Sương Quỷ** (Sư phụ): Hắc Sương Quỷ chỉ dẫn Ám Băng Nhi trong Sương Ma Uyển
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

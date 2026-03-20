@@ -32,8 +32,8 @@ Thạch Khoáng Sơn có thân hình cao lớn vạm vỡ, da nâu sẫm với n
 Thạch Khoáng Sơn sở hữu Cương Thạch Quyền (鋼石拳) — biến đôi tay thành đá cứng hơn kim loại, mỗi quyền đánh ra mang sức nặng của cả tảng đá lớn. Ngoài ra, y có khả năng Địa Chấn Cảm Ứng (地震感應), cảm nhận được rung động trong lòng đất để dự đoán sập hầm. Điểm yếu là y quá chú trọng sức mạnh thô, thiếu linh hoạt trong đối đầu với đối thủ nhanh nhẹn.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nham Ngọc Đục:** Phường Trưởng mà Khoáng Sơn tuyệt đối trung thành, hai người là bạn đồng hành từ thuở nhỏ, Khoáng Sơn luôn đứng sau bảo vệ Đục.
-- **Sơn Tiểu Ngọc:** Thợ mỏ trẻ mà Khoáng Sơn nghiêm khắc rèn dũa, hay la mắng nhưng thực tâm lo lắng cho sự an toàn của y.
-
+- **Nham Ngọc Đục** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ngọc Thạch Thợ Mỏ
+- **Nham Ngọc Đục** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nham Ngọc Đục
+- **Sơn Tiểu Ngọc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ngọc Thạch Thợ Mỏ
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thạch Khoáng Sơn lớn lên cùng Nham Ngọc Đục trong mỏ, từ nhỏ đã là đứa trẻ Cự Tộc mạnh nhất lứa. Khi thương nhân nhân tộc đến ép giá, Khoáng Sơn từng muốn dùng vũ lực chống lại nhưng bị Đục ngăn cản vì biết hậu quả sẽ nghiêm trọng hơn. Từ đó, y dồn sức vào việc bảo vệ an toàn hầm mỏ và rèn luyện các thợ mỏ trẻ. Bí mật của y: y từng bí mật đánh bại một tên thương nhân bắt nạt thợ mỏ rồi giấu xác sâu trong hầm cũ, không ai biết ngoài y.

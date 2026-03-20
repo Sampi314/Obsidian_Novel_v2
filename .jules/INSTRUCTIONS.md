@@ -66,14 +66,14 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: 464 nhân vật còn placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Hải Thần Cung - Vô Tận Hải ở phiên trước: Giao Vân Hà, Giải Huyền Giáp, Giải Thiết Giáp Vương). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
+1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: Còn khoảng 123 nhân vật có placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Hàn Phong Truyền Tin Đội - Bắc Băng ở phiên trước: Vũ Khinh Hồng, Vũ Phiêu Linh, Vũ Tật Phong). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
 2. **Sau khi Task 9 hoàn thành** → Tiếp tục Catch-up Lâm Phong (Task 2): Viết chương 133+ cho Góc Nhìn Lâm Phong.
 3. **Sau khi Task 9 hoàn thành** → Tiếp tục Task 5 (Tuyến Khu Vực): Viết Arc 2 cho các khu vực.
 
 ### 📋 NHIỆM VỤ CHO JULES
 
 #### 🔴 Task 9: Điền Chi Tiết Nhân Vật (ƯU TIÊN CAO NHẤT)
-> **Bối cảnh:** ~978 nhân vật trong `Đạo/Nhân_Vật/` đã có khung YAML và Section I nhưng các section II-V còn placeholder `*(Chưa xác định)*`. Cần điền chi tiết cho TẤT CẢ nhân vật.
+> **Bối cảnh:** Các nhân vật trong `Đạo/Nhân_Vật/` đã có khung YAML và Section I nhưng các section II-V còn placeholder `*(Chưa xác định)*`. Cần điền chi tiết cho TẤT CẢ nhân vật.
 > **Nhịp độ:** Mỗi phiên điền **2-3 nhân vật** cùng một phe phái để đảm bảo chất lượng.
 > **KHÔNG viết chương mới** cho đến khi tất cả nhân vật đã được điền đầy đủ.
 
@@ -209,6 +209,21 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã hoàn thành Task 9 cho 3 nhân vật Vực Thẳm Ma Cung (Vô Tận Hải): Hắc Triều, Ngư Quỷ Diện, Thâm Hải.
+> Đã hoàn thành Task 9 cho 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Ngư Tiểu Bạch, San Bích Quang, San Huyền Quang Dạ.
+> Đã hoàn thành Task 9 cho 3 nhân vật Phiêu Miễu Băng Hải (Bắc Băng): Băng San Hô, Hàn Thanh Âm, Hải Cung.
+> Đã hoàn thành Task 9 cho 3 nhân vật Cự Linh Tông (Bắc Băng): Nham Chấn Nhạc, Nham Hồng Hoang, Nham Kình Thiên.
+> Đã hoàn thành Task 9 cho 2 nhân vật Cổ Nham Bộ Lạc (Tây Mạc): Nham Tĩnh, Xích Nham.
+> Đã hoàn thành Task 9 cho 3 nhân vật Phong Sát Cốc (Tây Mạc): Hắc Phong, Huyết Phong, Hắc Sa.
+> Đã hoàn thành Task 9 cho 3 nhân vật Ốc Đảo Vi Linh (Tây Mạc): Linh Dao Nhi, Linh Hạ Vũ, Linh Lộ Hà.
+> Đã hoàn thành Task 9 cho 3 nhân vật Bách Bảo Các (Thiên Trụ): Lý Minh Châu, Châu Thương, Hứa Ngọc.
+> Đã hoàn thành Task 9 cho 3 nhân vật Giao Nhân Tộc Liên Minh (Vô Tận Hải): Ba Nguyệt Hà, Ba Ngọc Hàn, Ba Thiên Lệ.
+> Đã hoàn thành Task 9 cho 3 nhân vật Bán Thạch Cự Nhân (Tây Mạc): Nham Liệt, Thạch Chùy, Thạch Cương.
+> Đã hoàn thành Task 9 cho 3 nhân vật Sa Tặc Liên Minh (Tây Mạc): Hắc Phong Đại Vương, Lang Ảnh Sa, Lý Huyết Lang.
+> Đã hoàn thành Task 9 cho 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Ngư Ngân Lân Hà, Ngư Thiên Ca, Ngư Thiên Lãng.
+> Đã hoàn thành Task 9 cho 3 nhân vật Thiên Sa Thương Hội (Tây Mạc): Cổ Thiên Lý, Hoàng Sa Nhạn, Hứa Nhược Thủy.
+> Đã hoàn thành Task 9 cho 3 nhân vật Cực Quang Thần Điện (Thiên Trụ): Bằng Vạn Lý, Cú Tĩnh Vũ, Hạc Minh Nguyệt.
+> Đã hoàn thành Task 9 cho 3 nhân vật Sương Ma Uyển (Bắc Băng): Hắc Sương Quỷ, Lãnh Vô Hồn, Sương Nô Vương.
 
 ---
 
@@ -435,6 +450,8 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
   1. **Bản Tiếng Trung:** (Văn bản tiếng Trung)
   2. **Dịch Hán Việt:** (Phiên âm Hán Việt)
   3. **Dịch Sát Nghĩa:** (Bản dịch nghĩa Tiếng Việt)
+> Đã hoàn thành Task 9 cho 2 nhân vật Phiêu Lưu Đảo Liên Minh (Vô Tận Hải): Trần Hải Phong, Trần Tiểu Đăng.
+
 > Đã hoàn thành Task 9 cho 3 nhân vật Thiên Mộc Thành (Thiên Trụ): Mộc Thiên Hào, Mộc Thiên Quân, Mộc Vân.
 > Đã hoàn thành Task 9 cho 3 nhân vật San Hô Vi Trùng (Tây Mạc): Trùng Cổ Sinh, Trùng Mẫu, Trùng Tân Nha.
 > Đã hoàn thành Task 9 cho 3 nhân vật Thiên Mộc Thành (Thiên Trụ): Lâm Vạn Hóa, Lâm Thương, Hồ Thương.
@@ -458,3 +475,10 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
 > Đã hoàn thành Task 9 cho 3 nhân vật Cực Quang Thần Điện (Thiên Trụ): Phượng Tiêu, Phượng Thiên Dực, Phượng Kim Sí.
 > Đã hoàn thành Task 9 cho 3 nhân vật San Hô Đảo Quốc (Vô Tận Hải): Thủy Tinh, Triều Bích Hải, Triều Thiên Vệ.
 > Đã hoàn thành Task 9 cho 3 nhân vật Hải Thần Cung (Vô Tận Hải): Giao Vân Hà, Giải Huyền Giáp, Giải Thiết Giáp Vương.
+> Đã hoàn thành Task 9 cho 3 nhân vật Thâm Hải Vi Linh (Vô Tận Hải): Linh Áp Lực, Thủy Cổ Ký Ức, Thủy Nhiệt Tuyền.
+> Đã hoàn thành Task 9 cho 3 nhân vật Long Cung (Vô Tận Hải): Minh Trầm Mặc, Minh Uyên, Thanh Hàn Nguyệt.
+> Đã hoàn thành Task 9 cho 3 nhân vật San Hô Thợ Lặn Đội (Tây Mạc): Nguyễn Thủy Tiên, Lê Ngọc Trai, Trần Hải Sâm.
+> Đã hoàn thành Task 9 cho 3 nhân vật Cực Quang Thần Điện (Thiên Trụ): Yến Phi, Yến Tiểu Tiểu, Ưng Liệt Phong.
+> Đã hoàn thành Task 9 cho 3 nhân vật Tuyết Trung Cô Viện (Bắc Băng): Lý Mộ Tuyết, Lê Dược Nương, Phạm Thư Sinh.
+> Đã hoàn thành Task 9 cho 3 nhân vật Hàn Phong Truyền Tin Đội (Bắc Băng): Vũ Khinh Hồng, Vũ Phiêu Linh, Vũ Tật Phong.
+> Đã hoàn thành Task 9 cho 2 nhân vật Thiên Sa Thương Hội (Tây Mạc): Vũ Thương Vân, Đặng Thiên Hà.

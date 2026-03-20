@@ -32,8 +32,8 @@ Phạm Tiểu Sóng là thiếu niên mười ba tuổi, nhỏ nhắn, mắt to 
 Phạm Tiểu Sóng là phàm nhân, không có tu vi. Kỹ năng duy nhất là Tinh Vi Ghi Chép (精微記錄) — khả năng ghi chép số liệu cực kỳ chính xác và nhanh, hỗ trợ đắc lực cho công việc quan trắc. Đang bắt đầu học cảm nhận linh khí trong nước từ Đài Trưởng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Vọng Nguyệt:** Đài Trưởng coi y như con nuôi, đang truyền thụ kiến thức.
-- **Trần Hải Triều:** Đồng nghiệp coi y như em trai, hay dạy bơi.
-
+- **Lý Vọng Nguyệt** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Triều Tịch Quan Trắc Đài
+- **Lý Vọng Nguyệt** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Vọng Nguyệt
+- **Trần Hải Triều** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Triều Tịch Quan Trắc Đài
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Tiểu Sóng là trẻ mồ côi từ thuyền đánh cá bị chìm. Được Lý Vọng Nguyệt cứu và giữ lại tháp. Dù là phàm nhân, y có khả năng ghi chép và tính toán phi thường. Sáu ngàn cuốn sổ quan trắc của Đài — phần lớn do y sao chép gọn gàng. Mơ ước: một ngày nào đó lặn xuống vùng biển sâu nhất mà chưa ai trở về.

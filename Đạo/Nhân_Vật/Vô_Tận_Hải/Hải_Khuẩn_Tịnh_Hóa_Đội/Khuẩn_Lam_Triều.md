@@ -32,9 +32,14 @@ Một tập hợp khuẩn biển có màu xanh dương đậm, thường xuyên 
 Chuyên tu về các thuật pháp âm thanh và kỹ thuật truyền tin qua sóng hóa học trong môi trường nước. Tuyệt kỹ "Lam Triều Truyền Ý" (蓝潮传意) cho phép hắn mã hóa thông tin vào các phân tử nước và gửi đi với tốc độ cực nhanh đến các nhóm tịnh hóa ở xa hàng trăm dặm mà không bị sự nhiễu loạn của bão tố làm ảnh hưởng. Điểm mạnh là khả năng kết nối thông tin tuyệt vời và độ tin cậy cao, nhưng điểm yếu là hoàn toàn không có khả năng chống chọi trong các cuộc huyết chiến trực diện.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Khuẩn Bích Ba** (Đồng minh): Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau
+- **Khuẩn Hải Nguyệt** (Đồng minh): Đồng liêu cùng Hải Khuẩn Tịnh Hóa Đội, hỗ trợ lẫn nhau
+- **Khuẩn Tịnh Hải** (Chủ tớ): Thủ hạ trung thành trong Hải Khuẩn Tịnh Hóa Đội
+- **Khuẩn Tịnh Hải** (Cấp dưới): Phục tùng Khuẩn Tịnh Hải, Đội Trưởng Tịnh Hóa của Hải Khuẩn Tịnh Hóa Đội
+- **Khuẩn Minh Châu** (Sư đồ): Khuẩn Minh Châu chỉ dẫn Khuẩn Lam Triều trong Hải Khuẩn Tịnh Hóa Đội
+- **Khuẩn Ngọc Tảo** (Sư đồ): Khuẩn Ngọc Tảo chỉ dẫn Khuẩn Lam Triều trong Hải Khuẩn Tịnh Hóa Đội
 - **Khuẩn Triều Lưu:** Người anh họ thường giúp hắn tận dụng các luồng hải lưu ngầm để tăng tốc độ truyền tin.
 - **Khuẩn Bích Ba:** Người bạn thường xuyên gửi các tín hiệu báo động về cho hắn để hắn kịp thời thông báo cho toàn đội.
 - **Khuẩn Lam Triều (Bản thân):** Luôn nỗ lực để trở thành cầu nối thông tin không bao giờ đứt đoạn của Vi Tộc.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Khuẩn Lam Triều sinh ra trong một vùng biển đầy rẫy những xoáy nước và hang động phức tạp, nơi việc liên lạc luôn gặp nhiều khó khăn. Hắn đã sớm rèn luyện được khả năng sử dụng linh lực để tạo ra các nhịp điệu sóng âm có thể xuyên thấu qua các rào cản địa hình. Gia nhập Hải Khuẩn Tịnh Hóa Đội, hắn đóng vai trò là "hệ thần kinh" của cả đội, giúp các mệnh lệnh của Khuẩn Tịnh Hải được thực thi một cách đồng bộ nhất. Hiện tại, hắn đang nỗ lực thiết lập một mạng lưới trạm trung chuyển thông tin bằng khuẩn biển phủ khắp các vùng biển phía Nam để tăng cường khả năng ứng phó với ô nhiễm.

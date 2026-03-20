@@ -124,6 +124,10 @@ arcs:
     - **Thủy Tinh Bạc Giáp (水晶銀甲):** Chiến giáp đặc chế pha lê biển sâu phủ bạc, tự phục hồi khi ngâm nước biển. Nhẹ nhàng nhưng chịu được đòn đánh của Nguyên Anh Trung Kỳ mà không nứt.
 
 ## VI. QUAN HỆ
+- **Hải Thiên Đế** (Đồng minh): Phụ hoàng nghiêm khắc, người mà cậu vừa kính sợ vừa khao khát vượt qua
+- **Lệ Ngọc Hà** (Đồng minh): Mẫu hậu hiền từ, người duy nhất xoa dịu được cơn nóng nảy của cậu
+- **Hải Ngọc Lan** (Chủ tớ): Muội muội đáng yêu nhưng bướng bỉnh, cậu muốn bảo vệ nhưng không kiểm soát được
+- **Sa Cuồng Đào** (Sư đồ): Vị tướng mà cậu ngưỡng mộ nhất, sư phụ thực chiến trên chiến trường
 - **Hải Thiên Đế (Phụ Hoàng — Núi Không Thể Vượt Qua):**
     - Mối quan hệ phức tạp nhất trong đời Thiên Hà. Cậu kính sợ phụ hoàng — không phải sợ bị phạt, mà sợ ánh mắt thất vọng im lặng. Mỗi lần Hải Đế nhìn cậu bằng đôi mắt vàng kim thâm trầm ấy, cậu cảm giác mọi chiến công đều vô nghĩa. Cậu muốn được phụ hoàng thừa nhận, muốn nghe ông nói "con làm tốt lắm" — nhưng Hải Đế không bao giờ nói, vì ông sợ rằng lời khen sẽ khiến Thiên Hà tự mãn.
     - Thiên Hà không biết về phong ấn, không biết phụ hoàng đang hy sinh thần hồn. Cậu chỉ thấy một vị Hải Đế quá thận trọng, quá bảo thủ, không dám thống nhất đại dương — và điều đó khiến cậu bực bội. Ngày nào cậu phát hiện ra sự thật, đạo tâm của cậu sẽ bị lung lay dữ dội.
@@ -133,7 +137,6 @@ arcs:
     - Thiên Hà yêu Ngọc Lan bằng cách của một người anh trai bảo hộ quá mức — muốn muội muội mạnh mẽ, muốn muội muội an toàn, muốn muội muội đừng rời khỏi cung. Cậu không hiểu rằng mình đang lặp lại đúng sai lầm của phụ hoàng — giam giữ người thân yêu trong lồng bằng vàng. Mỗi lần Ngọc Lan trốn đi, cậu nổi giận, quát mắng — rồi lại lặng lẽ lo lắng suốt đêm cho đến khi biết nàng an toàn.
 - **Sa Cuồng Đào (Đông Hải Tướng Quân — Sư Phụ Chiến Trường):**
     - Cuồng Đào là người dạy Thiên Hà mọi thứ về thực chiến — không phải bài bản công pháp, mà là bản năng sinh tồn trên chiến trường. Hai người thường cùng nhau đi vây quét hải tặc, phối hợp ăn ý — Cuồng Đào đánh trước phá trận, Thiên Hà theo sau quét sạch tàn quân bằng Thiên Hà Triều Tịch. Cuồng Đào là một trong số ít người dám mắng Thái Tử khi cậu liều lĩnh — "Chết trên chiến trường là vinh quang của chiến binh, nhưng chết ngu ngốc thì chỉ là phí phạm."
-
 ## VII. GIAI THOẠI
 > *"Kẻ mạnh không cần núp trong bóng tối. Nếu ta không đủ sức chính diện đối đầu, thì ta không xứng đáng chiến thắng."*
 > — Hải Thiên Hà, nói với Sa Cuồng Đào khi từ chối phục kích.

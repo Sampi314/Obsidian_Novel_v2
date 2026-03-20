@@ -163,6 +163,10 @@ arcs:
 
 - **Đại Càn Hoàng Triều — Chủ Nhân Trên Danh Nghĩa:**
     - Về lý thuyết, Ngục Vô Tình vẫn là tội nhân lưu đày của triều đình, phải báo cáo tình hình Băng Ngục Thành định kỳ. Trên thực tế, triều đình đã mất kiểm soát đối với Băng Ngục Thành từ hàng trăm năm trước — họ gửi tù nhân đến, hắn nhận; họ gửi ngân sách, hắn ăn bớt qua tay Lý Tham Quan. Cả hai bên duy trì lớp vỏ quan hệ hình thức vì thuận tiện: triều đình cần nơi đày tội nhân, hắn cần nguồn cung cấp tù nhân mới để duy trì "sinh thái" nhà ngục.
+- **Thiết Quyền Lão Ma** (Đồng minh): Ngục Trưởng mà hắn kính sợ tuyệt đối, kẻ duy nhất đánh bại hắn bằng một đòn duy nhất
+- **Trần Hắc Tâm** (Đồng minh): Ngục Trưởng tối cao, hắn chỉ gặp vài lần nhưng mỗi lần đều cảm thấy linh hồn bị nhìn xuyên thấu
+- **Vương Đấu Trường** (Đồng minh): Ngục Trưởng cho phép Đấu Trường tồn tại vì nó phục vụ mục đích kiểm soát, hắn biết ơn nhưng cũng biết mình chỉ là công cụ
+- **Độc Vương Lão Ngũ** (Đồng minh): Ngục Trưởng mà hắn vừa khiếp sợ vừa bất mãn, biết rõ mình chỉ là quân cờ duy trì trật tự Tầng Một
 
 ## VII. GIAI THOẠI
 > *"Trong Băng Ngục Thành, chỉ có hai loại người: kẻ tuân lệnh và kẻ đã chết. Ta không phân biệt — vì chúng đều yên tĩnh như nhau."*

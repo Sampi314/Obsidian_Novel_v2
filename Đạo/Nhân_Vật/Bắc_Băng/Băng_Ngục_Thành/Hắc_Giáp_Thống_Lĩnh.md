@@ -184,6 +184,8 @@ arcs:
 
 - **Mạc Lão Bà — Ấm Áp Không Lời:**
     - Mối quan hệ kỳ lạ nhất trong đời hắn. Mỗi lần tuần tra Tầng Bốn, hắn đi ngang qua góc của Mạc Lão Bà — và luôn thấy một bát cháo nóng đặt sẵn trước cửa. Hắn không bao giờ nói cảm ơn, không bao giờ nhìn bà, không bao giờ dừng lại — chỉ nhặt bát cháo lên, đưa vào khe mặt nạ giáp, uống hết, đặt bát không xuống, rồi bước đi. Bát cháo luôn trả về sạch trơn. Mạc Lão Bà mỉm cười mỗi lần thấy bát không — và Thống Lĩnh, dưới lớp mặt nạ, đôi khi cũng nhếch miệng nhẹ. Đó là khoảnh khắc "người" nhất mà hắn còn sót lại — và hắn không hiểu tại sao bà lão ấy lại cho hắn cháo, cũng như không hiểu tại sao hắn lại uống.
+- **Trần Hắc Tâm** (Kẻ thù): Cấp trên trực tiếp về mặt quân sự, kẻ mà hắn phải cúi đầu nhưng trong lòng căm ghét vì Thống Lĩnh cản đường tham nhũng
+- **Lãnh Vô Tâm** (Kẻ thù): Kẻ cai quản nhà tù, y không hận nhưng cũng không tha — sẽ giết nếu có cơ hội
 
 ## VII. GIAI THOẠI
 > *"Ta không hỏi ngươi có tội hay không. Ngục Trưởng nói ngươi có tội, thì ngươi có tội. Đó là trật tự."*

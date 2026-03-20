@@ -148,6 +148,7 @@ arcs:
     - Nàng thấy vui khi Kiếm lúng túng trước mặt mình — sự ngượng ngùng vụng về ấy là điều chân thành hiếm hoi trong Thần Điện. Nàng chưa rõ đó là tình cảm hay chỉ là thiện cảm, nhưng mỗi khi chữa thương cho y, nàng đặc biệt cẩn thận hơn bình thường — và tự hỏi tại sao.
 - **Cực Quang Thánh Nữ (Chủ Nhân — Kính Sợ Và Thương Xót):**
     - Nàng kính sợ Thánh Nữ như mọi người, nhưng có một cảm xúc mà ít ai dám thừa nhận — thương xót. Nàng nhìn thấy sự cô đơn tuyệt đối trong đôi mắt Thánh Nữ, nhìn thấy một phụ nữ bị biến thành biểu tượng, bị tước bỏ nhân tính. Nàng tự hỏi: "Nếu Thánh Nữ bị thương, liệu nàng ta có để mình được chữa lành không?"
+- **Cực Quang Đồng Tử** (Đồng minh): Chị gái hiền lành hay cho cậu bé ăn kẹo và kể chuyện
 
 ## VII. GIAI THOẠI
 > *"Ánh sáng cứu người hay giết người? — Câu hỏi ấy quan trọng hơn bất kỳ câu trả lời nào."*

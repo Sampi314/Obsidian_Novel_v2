@@ -111,13 +111,16 @@ arcs:
     - **Bạch Ngọc Dược Bàn (白玉藥盤) (Huyền Cấp Trung Phẩm):** Một chiếc đĩa ngọc trắng dùng để phân loại và bảo quản dược liệu, bề mặt khắc 64 ô trận pháp, mỗi ô duy trì một vi môi trường riêng biệt phù hợp với từng loại tảo khác nhau.
 
 ## VI. QUAN HỆ
+- **Hải Huyền Thảo** (Đồng minh): Sư muội, người luôn lặng lẽ chăm sóc mình
+- **Hải Lam Thảo** (Đồng minh): Sư tỷ nghiêm khắc, thường xuyên cãi nhau nhưng thực ra rất quý
+- **Hải Thanh Liên** (Sư đồ): Sư phụ, người cứu mạng và dẫn đường, tôn kính tuyệt đối
+- **Hải Tiểu Tảo** (Đồng minh): Tiểu sư muội, xem như em gái ruột
 - **Sư Phụ:**
     - **Hải Thanh Liên:** Ân nhân cứu mạng, sư phụ, người mẹ thứ hai. Tảo Thiên yêu kính Thanh Liên đến mức sùng bái, nhưng đồng thời cũng đau khổ vì sư phụ luôn giấu bí mật. Nàng biết Thanh Liên đang gánh vác điều gì đó khổng lồ dưới đáy rừng tảo, và sự bất lực vì không được tin tưởng chia sẻ đôi khi khiến nàng mất ngủ hàng đêm.
 - **Đồng Môn:**
     - **Hải Huyền Thảo:** Sư huynh cứu nàng khỏi đáy biển lần nàng suýt chết. Tảo Thiên ngưỡng mộ sự can đảm thầm lặng của Huyền Thảo, nhưng luôn lo lắng vì hắn quá liều lĩnh. Nàng thường lén bỏ thuốc bổ vào phần cơm của hắn mà không nói.
     - **Hải Lam Thảo:** Sư đệ khiến nàng nhức đầu nhất. Tảo Thiên và Lam Thảo thường xuyên cãi nhau — nàng chê hắn cẩu thả, hắn chê nàng cứng nhắc. Nhưng mỗi khi Lam Thảo gặp nguy, Tảo Thiên là người đầu tiên lao đến. Mối quan hệ kiểu "miệng ghét tay thương".
     - **Hải Tiểu Tảo:** Tiểu sư muội mà nàng cưng chiều nhất. Tảo Thiên dạy Tiểu Tảo viết chữ, nhận biết dược liệu, và kể cho bé nghe chuyện cổ tích Thủy Mẫu tộc mỗi tối. Trong mắt Tiểu Tảo, Tảo Thiên sư tỷ đẹp như tiên nữ.
-
 ## VII. GIAI THOẠI
 > *"Tảo Thiên bào chế đan dược, ngay cả hạt bụi cũng không dám rơi vào lò."*
 > — Lời khen của các dược sư khách ghé thăm Động Tảo Xanh.

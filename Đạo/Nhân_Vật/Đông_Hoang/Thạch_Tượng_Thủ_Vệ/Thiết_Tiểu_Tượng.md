@@ -32,8 +32,9 @@ Thiết Tiểu Tượng cao hai mét, thân nhỏ gọn so với đồng tộc, 
 Thiết Tiểu Tượng đang luyện Tượng Hình Bất Động (像形不動) — nghệ thuật biến thành tượng đá hoàn hảo khiến không ai phân biệt được. Ngoài ra, y có khả năng Tiểu Thạch Đạn (小石彈) bắn đá nhỏ cảnh cáo. Sức chiến đấu thấp nhưng kỹ thuật ngụy trang ấn tượng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Thạch Miên:** Thủ Vệ Trưởng mà Tiểu Tượng ngưỡng mộ và muốn được như vậy.
-- **Nham Tĩnh Lập:** Sư phụ dạy nghệ thuật đứng yên, Tiểu Tượng học tập kiên nhẫn.
-
+- **Thạch Miên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thạch Tượng Thủ Vệ
+- **Thạch Miên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Thạch Miên
+- **Nham Tĩnh Lập** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thạch Tượng Thủ Vệ
+- **Sơn Cổ Thạch** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thạch Tượng Thủ Vệ
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thiết Tiểu Tượng là Cự Tộc trẻ tình nguyện gia nhập Thủ Vệ vì ngưỡng mộ sự kiên định của Thạch Miên. Dù nhỏ tuổi, kỹ thuật ngụy trang thành tượng đá của y đã đánh lừa nhiều tu sĩ qua đường. Lần đầu tiên y phát hiện kẻ xâm nhập, y hoảng hốt đến mức thành tượng thật ba ngày liền trước khi dám báo cáo.

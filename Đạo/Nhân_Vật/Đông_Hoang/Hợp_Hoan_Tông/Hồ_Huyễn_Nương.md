@@ -32,9 +32,11 @@ Thân hình cao ráo mạnh mẽ, ánh mắt sắc bén đầy quyết tâm. Tí
 Tu luyện công pháp cốt lõi của Hợp Hoan Tông đạt trình độ cao thâm. Chiêu thức 狐幻娘·Hộ Pháp Ấn (狐幻娘·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hồ Mị Cơ:** Tông Chủ, đồng liêu quan trọng nhất trong Hợp Hoan Tông.
-- **Hồ Nguyệt Nhi:** Trưởng Lão Hồng Phấn Các, đối tác thường xuyên phối hợp.
-- **Hồ Tiểu Mị:** Nội Môn Đệ Tử, mối quan hệ tin cậy lẫn nhau.
-
+- **Hồ Mị Cơ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Hợp Hoan Tông
+- **Hồ Mị Cơ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hồ Mị Cơ
+- **Phạm Diễm Tình** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Hợp Hoan Tông
+- **Hồ Tiểu Mị** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Hợp Hoan Tông
+- **Lý Xuân Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hợp Hoan Tông
+- **Hồ Nguyệt Nhi** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hợp Hoan Tông
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hồ Huyễn Nương được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Hợp Hoan Tông. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Hợp Hoan Tông và dần khẳng định vị trí của mình. Với tu vi Nguyên Anh Đỉnh Phong, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thái Thượng Trưởng Lão.

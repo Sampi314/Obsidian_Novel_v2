@@ -4,6 +4,7 @@
 - **Tên gọi:** Cổng Tử Vong (死亡之門).
 - **Vị trí:** Nằm ở điểm cuối của Mạch Ngầm (Sông ngầm dưới Hang Động Nhện Quỷ), giáp ranh giới Rừng Huyết Độc.
 - **Phân loại:** Cánh cổng phong ấn bằng đá đen, di tích từ thời Thượng Cổ.
+- **Kích thước:** Cao hơn 15 trượng, rộng 8 trượng — đủ lớn để một sinh vật khổng lồ đi qua. Cánh cổng dày hơn 2 trượng, tạc từ một khối đá huyền vũ nguyên khối không có mối nối.
 
 ## II. ĐẶC ĐIỂM
 - **Hình dáng:** Một vòm đá sừng sững, đẽo gọt từ đá đen nguyên khối, tản ra hàn khí âm lãnh và mùi sát phạt.
@@ -16,21 +17,25 @@
 - Từ dòng sông ngầm, một đường hầm tự nhiên uốn lượn dài khoảng 200 trượng dẫn đến Cổng Tử Vong. Vách đá hai bên hành lang dần chuyển từ đá vôi xám sang đá huyền vũ đen bóng, nhẵn nhụi đến mức kỳ lạ như thể được đánh bóng bằng bàn tay vô hình.
 - Nhiệt độ giảm đột ngột khi tiến gần cổng, hơi thở ngưng tụ thành sương trắng. Những giọt nước đọng trên vách đá đóng băng thành các tinh thể trong suốt, khúc xạ ánh lân quang yếu ớt tạo ra những chấm sáng lung linh trên nền tối.
 - Nền đất ở đây cứng như kim loại, khắc dấu vết của vô số bước chân và vết kéo lê qua hàng trăm năm vận chuyển Huyết Tinh thô.
+- Dọc hành lang, cách nhau mỗi 20 trượng, có những hốc đá nhỏ khắc vào vách — nơi đặt đèn dầu của đệ tử Vạn Độc Môn. Bồ hóng bám đen kịt trần hang phía trên mỗi hốc, tạo thành những vệt đen đều đặn như dấu tích của hàng trăm năm qua lại.
 
 ### 2. Sân Bãi Trước Cổng
 - Một khoảng trống hình bán nguyệt rộng khoảng 30 trượng, trần hang cao vút tạo cảm giác đang đứng dưới lòng một thánh đường hoang phế.
 - Hai bên sân bãi có những bệ đá thấp, trên đặt các ống đựng Huyết Tinh thô đã rỗng, cạnh những bộ xích sắt rỉ sét dùng để trói tù binh và Dược Nhân trước khi chuyển vào sâu bên trong.
 - Bức tường phía sau cổng khắc một bích họa mờ nhạt, mô tả cảnh tượng hàng ngàn sinh linh cúi đầu trước một bóng hình khổng lồ — có thể là dấu tích từ thời Thượng Cổ, trước khi Vạn Độc Môn chiếm lĩnh nơi này.
+- Góc trái sân bãi có một vũng nước tĩnh lặng — nước ngưng tụ từ trần hang nhỏ giọt qua hàng ngàn năm. Nước trong vắt nhưng uống vào sẽ cảm thấy vị kim loại nặng trên lưỡi, và sau đó là cảm giác tê rần lan từ cổ họng xuống ngực. Đệ tử Vạn Độc Môn gọi nó là **Tử Tuyền** — ai khát nước mà uống phải, trong vòng ba ngày sẽ bắt đầu ho ra máu đen.
 
 ### 3. Phù Văn Cấm Chế
 - Các đường vân trên cổng không đơn thuần là chữ khắc — chúng là một hệ thống trận pháp phức tạp, mỗi nét vẽ đều chứa đựng sức mạnh phong ấn thuộc về một nền văn minh cổ đại chưa được biết đến.
 - Khi ánh trăng chiếu xuống qua khe nứt trần hang (cực kỳ hiếm hoi), các phù văn sẽ phát ra ánh sáng xanh lam nhạt, tiết lộ thêm những lớp hoa văn ẩn mà mắt thường không thể nhìn thấy.
 - Vạn Độc Môn chỉ giải mã được khoảng ba phần mười phù văn, đủ để thiết lập cơ chế mở cổng bằng tín vật. Phần còn lại vẫn là bí ẩn, khiến ngay cả trưởng lão Vạn Độc Môn cũng kiêng dè.
+- Trên khung cổng phía trên, có bảy ký hiệu lớn hơn các phù văn khác, xếp thành hàng ngang. Sáu trong bảy ký hiệu vẫn phát ra linh áp mờ nhạt. Ký hiệu thứ bảy — ở vị trí ngoài cùng bên phải — đã tối hoàn toàn, bề mặt nứt nẻ. Nếu bảy ký hiệu tượng trưng cho bảy cánh cổng phong ấn truyền thuyết, thì ký hiệu đã tối chính là dấu hiệu cho thấy một trong bảy cổng đã thất thủ.
 
 ## IV. LỊCH SỬ & TRUYỀN THUYẾT
 - **Thời Thượng Cổ:** Cổng Tử Vong được cho là một trong bảy cánh cổng phong ấn được xây dựng bởi một tộc người cổ đại (có thể là tiền thân của Tinh Linh Tộc hoặc một chủng tộc đã diệt vong) nhằm giam giữ một thứ gì đó trong lòng đất. Mục đích chính xác đã bị thời gian xóa nhòa.
 - **Hai ngàn năm trước:** Một nhóm tu sĩ mạo hiểm đã phát hiện cổng nhưng không ai sống sót trở về để kể lại câu chuyện, chỉ để lại một cuốn nhật ký nửa cháy với dòng chữ cuối cùng: *"Đừng mở cổng. Cái ở bên kia không phải là bóng tối — nó đang nhìn chúng ta."*
 - **Ba trăm năm trước:** Vạn Độc Môn phát hiện và bắt đầu khai thác, biến cổng thành một phần trong hệ thống hậu cần bí mật của tông môn.
+- **Một trăm năm trước:** Một trưởng lão Vạn Độc Môn cố gắng giải mã toàn bộ phù văn trên cổng. Ông ta thành công đọc được thêm một phần ba trước khi bất ngờ phát điên, tự cắt hai mắt và nhảy vào bóng tối phía sau cổng. Không ai tìm thấy xác ông ta.
 
 ## V. NGUY HIỂM & MỐI ĐE DỌA
 
@@ -46,8 +51,21 @@
 - Dọc sân bãi có các hố sụt ngụy trang chứa đầy chông tẩm độc Huyết Thần.
 - Hai bức tường hai bên cổng có lỗ bắn ám khí tự động kích hoạt khi phát hiện chuyển động bất thường.
 
-## VI. VAI TRÒ & SỰ KIỆN
-- **Chức năng:** Là cửa ngõ chuyển tiếp từ khu vực Mạch Ngầm (nơi vận chuyển Huyết Tinh thô) lên một cơ sở ngầm rộng lớn hơn (Sào Huyệt Lão Chu).
+### 4. Hiệu Ứng Tâm Lý
+- Nhiều tu sĩ từng tiến gần cổng báo cáo cảm giác "bị quan sát" — một ánh mắt nặng nề, lạnh lẽo từ phía bên kia cánh cổng. Đa số cho rằng đó là ảo giác do tử khí, nhưng một số ít tin rằng phía sau cổng thực sự có thứ gì đó đang chờ đợi.
+- Đệ tử canh gác cổng quá lâu (hơn một tháng liên tục) thường phát triển triệu chứng "Tử Môn Bệnh" — mất ngủ, nói mê bằng ngôn ngữ lạ, và ám ảnh với mong muốn mở cổng ra xem phía sau có gì.
+
+## VI. CÁC CỔNG PHONG ẤN KHÁC (TRUYỀN THUYẾT)
+- Truyền thuyết về bảy cánh cổng phong ấn được ghi chép rải rác trong nhiều nguồn tài liệu cổ đại không liên quan đến nhau, tăng thêm độ tin cậy cho giả thuyết.
+- **Cổng thứ nhất:** Được cho là nằm sâu dưới đáy Vô Tận Hải, ở phía Đông Đông Hoang.
+- **Cổng thứ hai:** Có thể nằm trong Thanh Đế Cung, bí cảnh ẩn giấu tại Đông Hoang.
+- **Cổng thứ ba:** Tương truyền ở trung tâm Tây Mạc, bị vùi sâu dưới cát — có thể liên quan đến Hắc Sa và trận Thần Ma Đại Chiến.
+- **Cổng thứ tư đến thứ sáu:** Vị trí chưa xác định, có thể ở Bắc Cực Băng Nguyên, Trung Thổ và một lục địa chưa được khám phá.
+- **Cổng thứ bảy (Cổng Tử Vong):** Cánh cổng duy nhất đã được tìm thấy và khai thác — cũng là cánh cổng có ký hiệu đã tối trên khung cổng.
+
+## VII. VAI TRÒ & SỰ KIỆN
+- **Chức năng chính:** Là cửa ngõ chuyển tiếp từ khu vực Mạch Ngầm (nơi vận chuyển Huyết Tinh thô) lên một cơ sở ngầm rộng lớn hơn (Sào Huyệt Lão Chu).
+- **Chức năng phụ:** Nơi xử lý tù binh và Dược Nhân trước khi đưa vào sâu bên trong hệ thống. Xích sắt trên bệ đá là bằng chứng cho mục đích tàn bạo này.
 - **Sự kiện chính (Chương 27-28 Lâm Phong):** Mặc Dơi sử dụng Cổng Tử Vong để tẩu thoát. Hắn cố tình mở hờ cổng để thả con Độc Long Tích ra nhằm tiêu diệt Lâm Phong và Diệp Tĩnh Sương. Cuối cùng, Tĩnh Sương đã dùng hết sức lực để kết liễu con quái vật bằng Hàn Mai Kiếm. Cánh cửa này hiện đang mở hé, dẫn nhóm Lâm Phong tiến vào sào huyệt sâu hơn của Vạn Độc Môn.
 
 ## VII. GIAI THOẠI
@@ -57,3 +75,6 @@
 
 > *"Lão nhìn thấy hoa văn trên cổng chuyển động. Không phải do ánh lửa lung lay — chúng thực sự đang thở."*
 > — Một đệ tử Vạn Độc Môn, trước khi phát điên và tự cắn lưỡi tử vong
+
+> *"Ta đã đứng trước sáu cánh cổng khác nhau trên khắp Cố Nguyên Lục Địa. Mỗi cánh cổng đều phong ấn cùng một thứ. Không phải sáu thứ khác nhau — mà là một thứ duy nhất, lớn đến mức phải chia làm bảy phần để nhốt."*
+> — Trích di thư của vị trưởng lão Vạn Độc Môn tự móc mắt, tìm thấy trong tư thất sau khi ông ta mất tích

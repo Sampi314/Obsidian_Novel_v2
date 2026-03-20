@@ -166,6 +166,7 @@ arcs:
     - Kể từ khi chứng kiến hai đứa trẻ Cự Tộc bị rút tủy hàn chết trước mắt, Khai Sơn coi Sương Ma Uyển là kẻ thù phải tiêu diệt. Hắn biết đội mình quá yếu để đối đầu trực diện — Sương Ma Uyển là thế lực Hạng Nhì với hàng nghìn ma tu — nhưng lòng hận thù ấy không vì thế mà nguội lạnh. Hắn lặng lẽ ghi nhớ mọi dấu vết hoạt động của Sương Ma tu sĩ mà đội bắt gặp trên đường thám hiểm, đánh dấu lên bản đồ, chờ ngày đủ mạnh để thanh toán.
 - **Đại Bàng Tuyết Đàn — Đồng Minh Bất Đắc Dĩ:**
     - Đội thỉnh thoảng trao đổi thông tin địa hình với Đại Bàng Tuyết Đàn — bầy đại bàng tuyết khổng lồ bay trên cao, nắm rõ địa hình vùng cực hơn bất kỳ ai. Khai Sơn không thực sự tin tưởng phi nhân tộc, nhưng thực tế buộc hắn phải hợp tác: không có thông tin từ trên không, đội sẽ đi mù giữa bão tuyết. Hắn thường dùng thịt Tuyết Giáp Lang để đổi lấy tin tức từ các trinh sát viên đại bàng — mối quan hệ thuần túy lợi ích.
+- **Hàn Chùy** (Đồng minh): Đội trưởng Băng Nguyên Khai Hoang Đội, từng thuê Băng Sơn Thợ Đá xây dựng trạm khai hoang
 
 ## VII. GIAI THOẠI
 > *"Thằng nhóc ấy sinh ra giữa cánh đồng tuyết, không cha không mẹ, không ai đặt tên. Nhưng khi nó đứng lên, đất rung dưới chân nó. Ta đặt tên nó là Khai Sơn — vì có lẽ, nó sinh ra để mở núi."*

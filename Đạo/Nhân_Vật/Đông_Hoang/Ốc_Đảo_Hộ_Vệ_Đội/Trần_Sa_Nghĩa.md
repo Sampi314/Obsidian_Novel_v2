@@ -32,9 +32,9 @@ Trần Sa Nghĩa là trung niên cao lớn, da nâu sạm vì nắng sa mạc, m
 Trần Sa Nghĩa sử dụng Sa Trận Thủy Liệm Thuật (沙陣水斂術) — điều khiển nước ngầm trong cát tạo thành bẫy và rào cản. Tuyệt kỹ Hoang Mạc Cuồng Triều (荒漠狂潮) triệu hồi lượng nước ngầm khổng lồ dưới ốc đảo phun lên như sóng thần, quét sạch kẻ xâm nhập. Điểm mạnh là chiến đấu trên lãnh thổ quen thuộc gần như bất bại; điểm yếu là xa nguồn nước thì sức chiến đấu giảm mạnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Hoang Lực:** Phó Đội Trưởng đáng tin cậy, cánh tay phải trong mọi quyết sách quân sự.
-- **Phạm Tiểu Vệ:** Hộ vệ trẻ đầy nhiệt huyết mà Sa Nghĩa đang rèn luyện làm thế hệ kế thừa.
-- **Ốc Đảo Vi Linh:** Biết sự tồn tại của Vi Linh và lo lắng chúng đang suy yếu, bí mật tìm cách bảo vệ.
-
+- **Lý Hoang Lực** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ốc Đảo Hộ Vệ Đội
+- **Phạm Tiểu Vệ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ốc Đảo Hộ Vệ Đội
+- **Lý Hoang Lực** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Sa Nghĩa
+- **Phạm Tiểu Vệ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Sa Nghĩa
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trần Sa Nghĩa vốn là Sa Tộc, từ bỏ bộ lạc vì không chấp nhận lối sống cướp bóc. Trôi dạt đến ốc đảo, y được dân chúng cưu mang và quyết tâm bảo vệ nơi này. Bốn mươi năm trước, khi một tông môn lớn cố chiếm nguồn nước, Sa Nghĩa đứng ra lãnh đạo dân quân chống trả thành công, thành lập Hộ Vệ Đội. Y từng từ chối lời mời gia nhập Thiên Sa Thương Hội vì biết họ dính líu đến âm mưu chiếm nước năm xưa. Hiện tại, y lo ngại nguồn nước đang dần cạn kiệt và tìm mọi cách tìm hiểu nguyên nhân.

@@ -150,6 +150,13 @@ arcs:
     - Vạn Tuyết coi Bạch Cốt Hội là loại ký sinh trùng — chúng lợi dụng bào tử tuyết để định vị xác cường giả, rồi khai quật trộm mà không trả lại gì cho hệ sinh thái. Hắn đã nhiều lần dùng bão tuyết để xua đuổi nhưng Bạch Cốt Hội vẫn quay lại. Vạn Tuyết không ghét họ vì "xấu xa" — hắn không có khái niệm đạo đức nhân tộc — mà ghét họ vì "phá vỡ cân bằng".
 - **Hàn Độc Vi Trùng Đoàn — Đồng Loại Cạnh Tranh:**
     - Cùng là Vi Tộc nhưng Hàn Độc Vi Trùng Đoàn và Bào Tử Tuyết Liên Minh hoạt động theo hai cách hoàn toàn khác nhau: Vạn Tuyết tịnh hóa, Vi Trùng Đoàn ký sinh. Vạn Tuyết không coi họ là kẻ thù nhưng cũng không coi là đồng minh — hắn đơn giản coi họ là một loài khác cùng chia sẻ tài nguyên (xác chết), và cạnh tranh là điều tự nhiên. Tuy nhiên, nếu Vi Trùng Đoàn ô nhiễm vùng đất đã được tịnh hóa, Vạn Tuyết sẽ không ngần ngại đẩy lùi.
+- **Bào Bạch Vũ** (Đồng minh): Liên Minh Chủ, bậc tối thượng mà hắn thề bảo vệ bằng mạng
+- **Bào Lăng Tiêu** (Đồng minh): Liên Minh Chủ, đấng tối cao mà y thề sẽ bảo vệ lãnh thổ bằng mọi giá
+- **Bào Ngân Lộ** (Đồng minh): Liên Minh Chủ, giao cho nàng sứ mệnh chăm sóc sức khỏe toàn quần thể
+- **Bào Ngưng Sương** (Đồng minh): Liên Minh Chủ, nguồn cảm hứng kiến trúc — thân thể Vạn Tuyết là công trình vĩ đại nhất
+- **Bào Phiêu Linh** (Đồng minh): Liên Minh Chủ giao sứ mệnh khám phá, người duy nhất hắn luôn quay về
+- **Bào Tiểu Đông** (Đồng minh): Liên Minh Chủ vĩ đại mà cậu kính sợ, muốn một ngày được nói chuyện trực tiếp
+- **Bào Đông Phong** (Sư phụ): Hàn Phong Sứ truyền đạt mệnh lệnh khắp Bắc Băng, giọng nói của Vạn Tuyết giữa trời tuyết
 
 ## VII. GIAI THOẠI
 > *"Mỗi bông tuyết trên Bắc Băng đều là mắt của Tuyết Đế. Ngươi tưởng mình đang đi trên tuyết? Không — ngươi đang đi trên thân thể của hắn."*

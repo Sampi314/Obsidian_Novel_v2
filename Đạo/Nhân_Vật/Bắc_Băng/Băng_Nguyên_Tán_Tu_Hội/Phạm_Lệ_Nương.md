@@ -171,6 +171,8 @@ arcs:
     - Thiết Ngưu là người hay mang dược liệu thô về cho bà nhất — gã làm Trưởng Trại Suối Lạnh, vùng đất gần mạch suối ấm nơi nhiều dược thảo mọc. Hai người quen nhau từ sớm, khi Thiết Ngưu mới gia nhập hội và bà chữa cho gã vết bỏng từ lò rèn. Mối quan hệ giản dị, thực tế: gã mang dược liệu, bà chữa bệnh cho người trại gã — không hoa mỹ, không cần lời cảm ơn.
 - **Cha — Phạm Dược Công (Đã Mất):**
     - Dù đã hơn bốn mươi năm, bà vẫn mang theo chiếc trâm gỗ của mẹ và giữ trong lòng mọi lời dạy của cha. Mỗi khi bào chế đan dược, bà đều thầm nhắc: *"Con thuốc không chọn bệnh nhân"* — như thể cha vẫn đứng sau lưng, nhìn bà sắc thuốc. Bà đặt tên Trại Gió Hú theo tên cơn gió thường xuyên thổi qua thung lũng — nhưng Lý Tuyết Phong nghi ngờ rằng tên thật bà muốn đặt là "Trại Hạ Phong" — tên ngôi làng quê nhà.
+- **Nguyễn Hàn Sương** (Đồng minh): Quản sự giao dịch, bà cảnh giác nhưng cần cô mua dược liệu hiếm từ bên ngoài
+- **Giao Băng Nguyệt** (Đồng minh): Tán tu duy nhất biết vị trí hồ băng của nàng, đổi dược liệu lấy Giao Ti
 
 ## VII. GIAI THOẠI
 > *"Bà Lệ mắng thì kệ bà Lệ mắng, nhưng khi bà Lệ im lặng mà nhìn mày — thì mày nên viết di chúc."*

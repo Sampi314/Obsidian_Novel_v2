@@ -32,7 +32,10 @@ Cá mập trắng tuần tra vùng giáp hải tặc
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Ngư Tiểu Ngân Lân** (Sư đồ): Sa Bạch Phong chỉ dẫn Ngư Tiểu Ngân Lân trong Hải Thần Cung
+- **Lệ Nhược Thủy** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Lệ Nhược Thủy** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Hải Ngọc Lan** (Sư đồ): Hải Ngọc Lan dẫn dắt Sa Bạch Phong trong Hải Thần Cung
+- **Sa Huyết Nha** (Sư đồ): Sa Huyết Nha chỉ dẫn Sa Bạch Phong trong Hải Thần Cung
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

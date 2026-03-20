@@ -41,6 +41,11 @@ Là Luyện Hư Sơ Kỳ, Nham Hồng Hoang không chỉ sở hữu sức mạnh
 - **Nham Chấn Nhạc:** Vị Trưởng Lão bảo thủ thường xuyên đến gặp ông để thỉnh giáo. Dù Nham Hồng Hoang ít khi trực tiếp can thiệp, ông vẫn âm thầm hướng dẫn Nham Chấn Nhạc để hắn không đi sai đường.
 - **Tông Chủ Cự Linh Tông:** Người duy nhất có thể đánh thức Nham Hồng Hoang khỏi giấc ngủ sâu thông qua một nghi thức hiến tế máu.
 - **Đại Cự Nhân (Trưởng Lão Hội):** Những lão tổ khác của Cự Linh Tông đều tôn kính ông như một trụ cột tinh thần không thể thiếu.
+- **Nham Kình Thiên** (Thuộc hạ): Phục tùng Nham Hồng Hoang, Thái Thượng Trưởng Lão của Cự Linh Tông
+- **Nham Liệt Địa** (Thuộc hạ): Phục tùng Nham Hồng Hoang, Thái Thượng Trưởng Lão của Cự Linh Tông
+- **Nham Phá Sơn** (Thuộc hạ): Phục tùng Nham Hồng Hoang, Thái Thượng Trưởng Lão của Cự Linh Tông
+- **Nham Thiết Cốt** (Sư phụ): Nham Hồng Hoang chỉ dẫn Nham Thiết Cốt trong Cự Linh Tông
+- **Nham Tâm** (Đồng minh): Đồng liêu cùng Cự Linh Tông, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nham Hồng Hoang là một trong những Cự Tộc cổ đại cuối cùng còn sót lại từ thời Thượng Cổ. Ông từng chứng kiến những trận chiến kinh thiên động địa giữa Cự Tộc và Long Tộc, và cũng là người đã dẫn dắt tàn dư của tộc mình rút lui về Bắc Băng lạnh giá để bảo tồn nòi giống.

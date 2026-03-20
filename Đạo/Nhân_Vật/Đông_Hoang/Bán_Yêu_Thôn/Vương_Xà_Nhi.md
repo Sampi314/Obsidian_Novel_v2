@@ -115,6 +115,16 @@ Mười hai năm mẹ con sống trong rừng, Ngọc Linh dạy Xà Nhi phân b
 
 Xà Nhi lang thang đến Bán Yêu Thôn khi mười bốn tuổi — gầy đét, lạnh lùng, mang theo túi dược liệu và đôi mắt không chớp khiến ai cũng sợ. Lý Bán Nguyệt nhận nàng vào thôn khi phát hiện nàng lặng lẽ chữa vết thương cho một đứa trẻ bán yêu bị ngã — không ai nhờ, nàng tự đến, chữa xong rồi đi. Từ đó nàng ở lại, trở thành y sư duy nhất của thôn. Mười mấy năm qua, nàng chữa trị cho mọi người nhưng không thân với ai — cô độc là lớp vảy nàng tự phủ lên mình, vì mẹ nàng đã dạy: gần ai cũng sẽ mất.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Lý Bán Nguyệt** (Thủ lĩnh): Y sư của thôn, kính trọng y thuật, lo lắng vì tính tình cô độc
+- **Lý Bán Nguyệt** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Bán Nguyệt
+- **Long Huyết Nhi** (Đồng minh): Cô y sư hay đâm kim đau nhưng mỗi lần xong lại hết khó chịu
+- **Lê Hồ Nguyệt Hoa** (Đồng minh): Bạn thân duy nhất, quan hệ phức tạp giữa ấm áp và lạnh lẽo
+- **Phạm Hùng Sơn** (Đồng minh): Y sư của thôn, người chữa bỏng luyện khí, thầm mến nhưng không dám nói
+- **Trần Thiên Hổ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bán Yêu Thôn
+- **Hoàng Điểu Vũ Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bán Yêu Thôn
+- **Nguyễn Lang Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bán Yêu Thôn
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 - **Xà Độc Hồi Xuân Thuật (蛇毒回春術) — Thuật Hồi Xuân Bằng Nọc Rắn:**

@@ -135,6 +135,8 @@ Gần đây, Phiêu Linh phát hiện vùng đồng hoang nơi ma khí rò rỉ 
 
 - **Tuyết Mộng Hàn (Mộng Sư):**
     - Vi Linh trẻ hay nhờ Phiêu Linh hát ru. Mộng Hàn tạo giấc mơ, Phiêu Linh cung cấp "nhạc nền" — bào tử trong giọng hát giúp giấc mơ ổn định hơn, ít ác mộng hơn. Phiêu Linh thấy ở Mộng Hàn hình bóng của chính mình thuở còn trẻ — đa cảm, dễ bị tổn thương, nhưng mang trong mình khả năng chữa lành.
+- **Tuyết Bạch Vân** (Đồng minh): Du Ca Sĩ, người đặt hàng Tuyết Huyền Cầm — tác phẩm tự hào nhất
+- **Tuyết Ngọc Điệp** (Đồng minh): Du Ca Sĩ lang thang, đồng nghiệp thu thập thông tin nhưng theo cách khác
 
 ## VII. GIAI THOẠI
 

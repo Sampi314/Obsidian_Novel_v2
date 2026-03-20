@@ -94,6 +94,11 @@ Mười năm sau khi sư phụ mất, Nham Đại Chùy lang thang khắp Đông
 
 Hai mươi năm qua, Nham Đại Chùy đã đào tạo hàng chục thợ trẻ. Đa số rời phường khi đủ lông đủ cánh — đi tìm việc tốt hơn, hoặc quay về núi. Lão không trách — lão hiểu. Nhưng mỗi lần một thợ trẻ bỏ đi, lão lại lặng lẽ uống rượu một mình đêm đó, nhìn lên trời, tự hỏi: mình đã dạy đủ chưa? Gã đó ra ngoài có xây được tường thẳng không? Có nhớ phải khắc dấu ấn không?
 
+## IV. CÁC MỐI QUAN HỆ
+- **Thạch Lực** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Cự Tộc Thợ Xây
+- **Sơn Thiết Bích** (Đệ tử): Đệ tử nghề nghiệp, thợ trẻ có thiên phú khiến lão vừa vui vừa lo
+- **Thạch Lực** (Đồng minh): Phường Trưởng, tri kỷ hai mươi năm, người lão theo đến cùng
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 - **Sở Trường:**

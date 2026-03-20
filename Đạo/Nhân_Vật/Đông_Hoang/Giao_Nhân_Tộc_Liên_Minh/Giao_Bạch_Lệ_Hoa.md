@@ -35,9 +35,13 @@ Lệ Hoa hiếm khi đích thân động thủ, sức mạnh thực sự của n
 Điểm yếu của nàng là khả năng phòng thủ vật lý kém, nếu bị áp sát bởi các tu sĩ thể tu sẽ dễ dàng rơi vào thế nguy hiểm.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lệ Cơ:** Lệ Hoa là cánh tay phải đắc lực nhưng cũng là một cái gai trong mắt Minh Chủ, bởi những mưu kế tàn độc của nàng thường đi ngược lại đạo lý của Lệ Cơ.
-- **Giao Băng Ngọc Tâm:** Nàng thường xuyên tranh cãi gay gắt với Ngọc Tâm, cho rằng sự nhượng bộ và phòng thủ thụ động của thế hệ trước là nguyên nhân dẫn đến sự diệt vong.
-- **Hắc Hải Hải Tặc:** Lệ Hoa ngấm ngầm thiết lập một thỏa thuận đình chiến bí mật với một vài toán hải tặc để mượn tay chúng đối phó với đội săn trộm của thương hội mặt đất.
-
+- **Giao Thiên Hải** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Tộc Liên Minh
+- **Giao Thiên Hải** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Thiên Hải
+- **Giao Tiểu Nguyệt** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Giao Nhân Tộc Liên Minh
+- **Giao Nguyệt Lệ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Băng Ngọc Tâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Hàn Ngọc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Huyết Lệ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Hàn Phong Nguyệt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Giao Bạch Lệ Hoa từng trải qua một bi kịch thảm khốc khi cả gia đình nàng bị một nhánh của thương hội mặt đất lừa gạt, bắt giữ và tra tấn để ép lấy Ngọc Trai Giao Nhân. Căm hận tận xương tủy trước sự ngây thơ của đồng tộc, Lệ Hoa tự mình vươn lên bằng trí tuệ sắc bén, lập mưu diệt gọn toán săn trộm đó và mang thủ cấp của chúng về diện kiến Minh Chủ. Sự kiện này đưa nàng trở thành Mưu Sĩ tối cao của Hải Ba Vệ. Mục tiêu hiện tại của nàng không chỉ là phòng thủ, mà là âm thầm thao túng, kích động chiến tranh giữa Long Cung và các thế lực nhân tộc trên mặt đất, mượn đao giết người để mang lại sự tự do vĩnh viễn cho Giao Nhân Tộc Liên Minh.

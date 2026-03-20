@@ -56,6 +56,7 @@ Hiện tại, tu vi của Lý Tiểu Liên còn rất thấp, cô bé chỉ mớ
 ## IV. CÁC MỐI QUAN HỆ
 - **Liên Tuyết Nhi:** Người mà cô bé ngưỡng mộ nhất, coi như hình mẫu lý tưởng để phấn đấu.
 - **Hoàng Dược Sư:** Sư phụ trực tiếp. Dù ông rất hay trách mắng khi cô bé làm hỏng dược liệu, Tiểu Liên vẫn biết ông rất thương mình.
+- **Trần Sơn Nhi** (Gia tộc): Dược sư học việc, muội muội nhỏ hay chạy theo, người khiến y mỉm cười
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Tiểu Liên từng là một đứa trẻ mồ côi tại Tuyết Trung Cô Viện, được Liên Tuyết Nhi phát hiện ra thiên phú nhạy bén với mùi hương dược thảo trong một lần đi từ thiện. Cô bé được nhận vào Tuyết Liên Dược Phường làm dược sư học việc, bắt đầu cuộc sống leo trèo trên vách tuyết và làm quen với muôn vàn loại dược liệu hàn tính. Dù đôi khi làm vỡ vài cái chén thuốc, Tiểu Liên đang nỗ lực học hỏi để sớm có thể bào chế ra những viên đan dược đầu tiên của riêng mình, giấc mơ lớn nhất của cô bé là chế tạo được kẹo hồ lô thảo dược có thể trị bách bệnh.

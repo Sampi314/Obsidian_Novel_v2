@@ -32,9 +32,13 @@ Xà Độc Vương trong hình dạng yêu thú là một con rắn hổ mang kh
 Thánh Tướng Thứ Bảy với tu vi Nguyên Anh Sơ Kỳ, Xà Độc Vương tu luyện "Vạn Độc Quy Nguyên Quyết" (万毒归元诀) — tích lũy hàng vạn loại nọc độc trong cơ thể rồi tinh luyện thành một giọt kịch độc tối thượng. Tuyệt kỹ "Nhất Trích Diệt Thế" (一滴灭世) chỉ cần một giọt nọc chạm vào đối phương là đủ hủy diệt toàn bộ sinh cơ. Điểm mạnh là nọc độc không giải được và khả năng sống sót phi thường, nhược điểm là tốc độ di chuyển chậm và sợ hỏa hệ thuần dương.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Vạn Kiếp:** Yêu Đế, hắn quy phục nhưng trong lòng luôn tính toán cách tự bảo toàn.
-- **Xà Thủy Huyền:** Thủy Yêu Vương, đồng tộc xà nhưng hai người luôn cạnh tranh ngầm về ảnh hưởng trong Xà Tộc.
-- **Xà Lục Lân:** Chiến sĩ xà tộc trung thành nhất, hắn coi như cánh tay phải.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Lang Thiên Dạ Hành** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Mãng Ngàn Thu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Viên Bá Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hùng Thiên Sơn Hống** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Liệt Diễm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Lang Thiên Nộ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xà Độc Vương sinh ra trong một hang động đầy rắn độc, nơi hắn phải nuốt chửng hàng ngàn con rắn khác để sinh tồn từ khi mới nở. Quá trình đó khiến hắn tích lũy nọc độc của vạn loài xà, trở thành sinh vật có nọc độc mạnh nhất Đông Hoang. Hắn được phong Thánh Tướng sau khi đầu độc thành công một đội quân xâm lược nghìn người mà không cần xuất đầu lộ diện. Bí mật lớn nhất là hắn đang bí mật nghiên cứu một loại nọc có thể khống chế tâm trí, nhằm phòng thân nếu Yêu Đế quay lưng.

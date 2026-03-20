@@ -161,6 +161,7 @@ arcs:
 - **Vũ Thiết Sơn — Cha:**
     - Mối quan hệ sâu sắc nhất trong đời hắn. Cha hắn — người thợ rèn tay phải bị phế — vẫn sống trong lò rèn cũ, làm những việc vặt bằng tay trái, dõi theo con trai từ xa. Hắn về thăm cha mỗi khi rảnh, ngồi bên lò rèn nguội lạnh, kể về những trận tỉ thí, những lần bị sư phụ mắng, những vết sẹo mới. Cha nghe, gật đầu, đôi khi nói vài câu ngắn gọn — nhưng mỗi câu đều đáng giá ngàn lời.
     - Hắn mang kiếm phôi cuối cùng của cha theo mọi nơi — không phải vũ khí, mà là lời hứa chưa hoàn thành: hoàn thiện thanh kiếm ấy bằng kiếm khí Nguyên Anh. Đó là động lực lớn nhất để hắn đột phá — không phải vì vinh quang, mà vì hắn muốn hoàn thành tác phẩm cuối cùng của cha.
+- **Hàn Tiêu** (Đồng minh): Cốc Chủ, đỉnh cao mà hắn khao khát vươn tới
 
 ## VII. GIAI THOẠI
 > *"Thằng Thiết Đầu ấy, kiếm không giỏi nhất, nhưng cứng đầu nhất. Mà ở Bắc Băng, đôi khi cứng đầu quan trọng hơn giỏi kiếm."*

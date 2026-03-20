@@ -32,8 +32,9 @@ Hoàng Tiểu Độc là thiếu niên mặt non nớt, da xanh xao, nhưng đô
 Hoàng Tiểu Độc đang học Sơ Cấp Giải Độc Thuật (初級解毒術) — kỹ thuật giải độc cơ bản, hiện chỉ xử lý được các loại độc tầm thường. Có thiên phú nhận diện độc tố bằng mùi, khả năng hiếm gặp. Không có năng lực chiến đấu đáng kể do tu vi thấp.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Độc Ảnh:** Phó Đường Chủ mà Tiểu Độc cảm nhận được sự bảo vệ ngầm, dù Độc Ảnh ít nói.
-- **Lê Vô Hận:** Đường Chủ mà Tiểu Độc kính trọng như thầy, luôn cố gắng học hỏi từ ông.
-
+- **Lê Vô Hận** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Phế Độc Đường
+- **Lê Vô Hận** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lê Vô Hận
+- **Trần Độc Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Phế Độc Đường
+- **Phạm Huyền Châm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Phế Độc Đường
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoàng Tiểu Độc là cô nhi bị bỏ rơi gần Trạm Biên, được Phế Độc Đường thu nhận khi còn nhỏ. Không biết gì về quá khứ tội lỗi của các tiền bối, y tin rằng Phế Độc Đường luôn là tổ chức cứu người tốt đẹp. Thiên phú nhận diện độc tố của y khiến các Trưởng Lão chú ý, có thể trở thành Dược Sư giỏi nhất trong tương lai. Bí mật mà y không biết: y có thể là con của một nạn nhân Vạn Độc Môn.

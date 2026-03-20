@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Lê Dược Nương** (Đồng minh): Đồng liêu cùng Tuyết Trung Cô Viện, hỗ trợ lẫn nhau
+- **Lý Mộ Tuyết** (Sư phụ): Lý Mộ Tuyết chỉ dẫn Trần Nhu Tâm trong Tuyết Trung Cô Viện
+- **Phạm Thư Sinh** (Đồng minh): Đồng liêu cùng Tuyết Trung Cô Viện, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

@@ -32,9 +32,13 @@ Từng là quý tộc, bị giáng xuống giai cấp thấp
 Thành viên của Mộc Tinh Linh Công Nhân, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 木殘葉·Bản Mệnh (木殘葉·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Mộc Dạ Hỏa:** Gián Điệp, đồng liêu quan trọng nhất trong Mộc Tinh Linh Công Nhân.
-- **Mộc Hàn Thiên Lệ:** Thợ Đốn, đối tác thường xuyên phối hợp.
-- **Mộc Linh Hỏa:** Thợ Rèn, mối quan hệ tin cậy lẫn nhau.
-
+- **Mộc Thiên Nộ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Mộc Tinh Linh Công Nhân
+- **Mộc Thiên Nộ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Mộc Thiên Nộ
+- **Mộc Thanh Hàn Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Mộc Tinh Linh Công Nhân
+- **Mộc Dạ Hỏa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Mộc Tinh Linh Công Nhân
+- **Mộc Linh Hỏa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Mộc Tinh Linh Công Nhân
+- **Mộc Vô Danh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Mộc Tinh Linh Công Nhân
+- **Mộc Sương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Mộc Tinh Linh Công Nhân
+- **Mộc Nham** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Mộc Tinh Linh Công Nhân
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mộc Tàn Diệp vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Mộc Tinh Linh Công Nhân. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Mộc Tinh Linh Công Nhân và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Công Nhân.

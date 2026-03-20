@@ -34,9 +34,13 @@ arcs:
 - Hầu như không bao giờ chủ động tấn công, ông là trụ cột phòng thủ và trị liệu quan trọng bậc nhất trong các cuộc giao tranh lớn.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Ba Nguyệt Hà** (Đồng minh): Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau
+- **Ba Ngọc Hàn** (Sư đồ): Ba Thiên Lệ chỉ dẫn Ba Ngọc Hàn trong Giao Nhân Tộc Liên Minh
+- **Lệ Cơ** (Đồng minh): Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau
+- **Hải Minh Châu** (Đồng minh): Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau
+- **Lệ Vân Trường** (Đồng minh): Đồng liêu cùng Giao Nhân Tộc Liên Minh, hỗ trợ lẫn nhau
 - **Lệ Cơ (Minh Chủ):** Luôn khuyên can nàng không nên kích động chiến tranh với Long Cung, thường xuyên đóng vai trò là "kẻ nói thật mất lòng" nhưng vì đại cục.
 - **Ba Nguyệt Hà:** Ông đánh giá cao tài năng của nàng và luôn cố gắng chỉ dạy nàng về tầm quan trọng của việc duy trì sự nhẫn nhịn và khôn khéo trong kinh tế.
 - **Sứ giả Bách Bảo Các:** Những đối tác thương mại, ông cố gắng duy trì mối quan hệ bằng hữu nhưng vẫn không thôi cảnh giác trước bản tính tham lam của con người.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ba Thiên Lệ từng chứng kiến cuộc đại di cư tàn khốc của Giao Nhân khỏi các vùng biển nông trước sự tàn phá của các thế lực khác. Ông đã tự tay dệt nên những viên Ngọc Trai Giao Nhân đầu tiên từ chính nỗi đau mất đi gia đình mình, và đó cũng là nguồn sức mạnh để ông sống sót, trở thành một trong những trưởng lão quyền lực nhất của Liên Minh. Hiện tại, ông gánh vác trách nhiệm thương thuyết, tìm kiếm sự bảo trợ từ những thế lực không thù địch, đồng thời duy trì sự ổn định mong manh giữa Giao Nhân Tộc với Long Cung.

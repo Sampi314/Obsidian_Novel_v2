@@ -31,9 +31,14 @@ Tước Lâm là Vũ Tộc mảnh khảnh, cánh nhỏ màu nâu lốm đốm, k
 Tước Lâm tu luyện Mộc Linh Sinh Trưởng Thuật (木靈生長術) — dùng linh lực kích thích cây cối sinh trưởng nhanh gấp mười lần bình thường, tạo ra lương thực và dược thảo cho nhóm tán tu. Không có kỹ năng chiến đấu mạnh, nhưng có thể dùng rễ cây trói buộc đối thủ tạm thời. Giá trị của y nằm ở khả năng nuôi sống mọi người.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Liệt Quyền:** Cự Tộc trẻ hay đến xin lương thực, Tước Lâm luôn vui vẻ chia sẻ.
-- **Ưng Dã Phong:** Thợ săn Vũ Tộc đồng tộc, hai người coi nhau như huynh đệ.
-- **Hoang Sơn Ẩn Sĩ:** Ẩn sĩ Cự Tộc mà Tước Lâm thường mang rau củ đến thăm.
-
+- **Cuồng Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
+- **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
+- **Lâm Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Hắc Thiết Giáp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Hoang Sơn Ẩn Sĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Quạ Hắc Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Liệt Quyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Ưng Dã Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Lâm Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Tước Lâm sinh ra trong gia đình Vũ Tộc nông dân bình thường, cánh quá nhỏ để bay cao nên không được Vũ Hoàng Các chấp nhận. Thay vì buồn bã, y khám phá ra thiên phú đặc biệt với mộc hệ linh lực, có thể khiến cây cối nở hoa kết trái chỉ trong vài ngày. Trở thành nông dân tán tu, y cung cấp lương thực cho nhiều nhóm tán tu khác nhau, được mọi người yêu quý vì sự chân thành và hữu ích.

@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Thủy Nguyệt Tiên** (Sư phụ): Đệ tử chân truyền đắc ý nhất, người kế thừa vũ đạo Ảo Vũ Viện
+- **Băng San Hô** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
+- **Hàn Thanh Âm** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

@@ -126,6 +126,9 @@ arcs:
     - Huyết Trảo nể Cô Hàn — hắn thừa nhận rằng kỹ năng ẩn thân của Cô Hàn vượt xa hắn. Hai người không giao tiếp nhiều — cả hai đều im lặng kiểu khác nhau — nhưng khi phối hợp trinh sát, họ giao tiếp bằng dấu hiệu tay mà không cần nói một lời.
 - **Rừng Tuyết — "Con Mồi Lớn Nhất":**
     - Huyết Trảo coi Rừng Tuyết như một sinh vật sống — hắn hiểu rừng, tôn trọng rừng, sợ rừng. Hắn nói: *"Rừng Tuyết cho ta thức ăn mỗi ngày. Nhưng rừng cũng có thể nuốt chửng cả bộ lạc trong một đêm bão. Đừng bao giờ nghĩ ngươi đang kiểm soát rừng — ngươi chỉ đang được rừng cho phép sống."*
+- **Lang Bạo Phong** (Gia tộc): Tiền Phong Tướng, đồng đội xông pha, cả hai cùng thích giải quyết bằng nanh vuốt
+- **Lang Tuyết Vương** (Thuộc hạ): Đại Tù Trưởng, lãnh tụ tối cao mà hắn phục vụ trung thành
+- **Lang Phong Tuyết Hào** (Đồng minh): Thợ Săn Trưởng, đồng nghiệp phối hợp trinh sát thường xuyên
 
 ## VII. GIAI THOẠI
 > *"Huyết Trảo nằm trong tuyết ba ngày không cử động, chờ con Ngân Giáp Hổ đi ngang. Khi nó đi ngang — ba nhát vuốt, hổ chết. Ba ngày chờ, ba nhát giết. Đó là thợ săn."*

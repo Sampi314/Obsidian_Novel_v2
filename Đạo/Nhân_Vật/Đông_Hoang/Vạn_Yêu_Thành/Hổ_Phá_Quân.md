@@ -32,9 +32,13 @@ Hổ Phá Quân mang nhân hình một trung niên hổ, một bên mặt bị s
 Đạt cảnh giới Kim Đan Hậu Kỳ, Hổ Phá Quân tu luyện "Phá Quân Sát Phạt Quyền" (破軍杀伐拳) — quyền pháp hung hãn tàn bạo, mỗi đòn đều nhắm vào tử huyệt đối phương. Tuyệt kỹ "Độc Nhãn Sát Cơ" (独眼杀机) tập trung toàn bộ sát ý vào mắt phải duy nhất, tạo ra áp lực tinh thần khiến đối thủ co rúm trước khi bị đánh. Điểm mạnh là kinh nghiệm chiến đấu dày dặn và ý chí bất khuất, nhược điểm là mất một mắt khiến điểm mù lớn và thể lực không còn như trước.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Huyết Vương:** Đấu Trường Chủ, kẻ mà hắn vừa hận vừa muốn chứng minh mình xứng đáng quay lại.
-- **Hổ Thiết Quyền:** Kẻ kế thừa danh hiệu của hắn, hắn vừa ganh tị vừa ngầm kính trọng sức mạnh thuần túy.
-- **Hùng Cự Lực:** Bạn cũ thời đấu trường, người duy nhất vẫn đối xử với hắn không thay đổi sau khi hắn thất bại.
-
+- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Mãng Lục Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hùng Ngân Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hồ Thất Cửu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Mãng Huyền Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Báo Thiên Dạ Hành** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hồ Diễm Nương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hổ Phá Quân từng là đấu sĩ huyền thoại của Đấu Trường Vạn Yêu Thành, giữ kỷ lục thắng liên tiếp mười năm. Thảm họa xảy đến trong trận đấu với một yêu tu bí ẩn sử dụng tà thuật — hắn bị trúng hỏa thuật cháy nửa mặt và mất mắt trái, thua trận đau đớn nhất đời. Từ đỉnh vinh quang rơi xuống vực thẳm, hắn bị lãng quên bởi đám đông từng tung hô mình, chỉ còn nỗi hận và lời thề sẽ trở lại. Hiện tại, hắn đang bí mật tu luyện một chiêu thức mới bù đắp khuyết điểm mất mắt, biến điểm mù thành bẫy dụ đối thủ, chờ ngày bước lên đấu trường lần cuối.

@@ -34,9 +34,9 @@ Phong cách chiến đấu của Nham Liệt giống như một tảng đá lăn
 - **Liệt Thổ Chấn (裂土震):** Dậm mạnh chân xuống đất, tạo ra những cơn sóng xung kích cục bộ khiến kẻ thù mất thăng bằng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Thạch Chùy:** Đội trưởng Vệ Binh. Nham Liệt kính trọng Thạch Chùy nhưng thường xuyên cãi lời vì cho rằng đội trưởng quá thận trọng.
-- **Thạch Cương:** Trưởng Lão bộ lạc. Người mà Nham Liệt coi là hình mẫu lý tưởng, luôn mong mỏi một ngày được sự công nhận tuyệt đối từ ông.
+- **Thạch Cương** (Chủ tớ): Trưởng Lão bộ lạc. Người mà Nham Liệt coi là hình mẫu lý tưởng, luôn mong mỏi một ngày được sự công nhận tuyệt đối từ ông.
+- **Thạch Chùy** (Sư phụ): Đội trưởng Vệ Binh. Nham Liệt kính trọng Thạch Chùy nhưng thường xuyên cãi lời vì cho rằng đội trưởng quá thận trọng.
+- **Thạch Huyết Nham** (Sư phụ): Thạch Huyết Nham chỉ dẫn Nham Liệt trong Bán Thạch Cự Nhân
 - **Những kẻ khinh miệt Cự Tộc:** Nham Liệt ôm mối hận thù không nhỏ với những kẻ chế giễu dòng máu lai của mình, sẵn sàng ra tay nặng nề với chúng.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Bị bỏ rơi từ khi mới lọt lòng tại rìa sa mạc Hoàng Kim, Nham Liệt được một nhóm tuần tra của Bán Thạch Cự Nhân nhặt về nuôi dưỡng. Lớn lên trong môi trường khắc nghiệt, hắn phải học cách sinh tồn bằng nắm đấm thay vì lời nói. Việc gia nhập Đội Vệ Binh không chỉ là nghĩa vụ mà còn là cách hắn khẳng định giá trị bản thân. Mục tiêu lớn nhất hiện tại của Nham Liệt là rèn luyện để bước chân vào Hội Đồng Bán Thạch, trở thành một chiến binh huyền thoại bảo vệ cộng đồng.

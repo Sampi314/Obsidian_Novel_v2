@@ -32,9 +32,14 @@ Một người đàn ông lanh lợi với dáng người mảnh khảnh nhưng 
 Đạt tu vi Trúc Cơ Hậu Kỳ, chuyên tu về thuật định giá báu vật và các kỹ năng giao tiếp thuyết phục bậc cao. Tuyệt kỹ "Lưu Quang Giám Định" (流光鉴定) giúp anh dễ dàng phát hiện ra các thuộc tính ẩn giấu cũng như niên đại thực sự của các loại kỳ vật biển sâu chỉ bằng một cái nhìn lướt qua. Điểm mạnh là kho kiến thức uyên bác về các loại cổ vật và tài năng đấu giá thiên bẩm, nhưng điểm yếu là khả năng tự vệ cá nhân không mạnh, luôn cần có vệ binh đi kèm khi thực hiện các giao dịch lớn.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Kình Lão Ngư** (Sư đồ): Kình Lão Ngư chỉ dẫn Lang Hải Phong trong Cự Kình Bảo
+- **Kình Thiên** (Sư đồ): Kình Thiên chỉ dẫn Lang Hải Phong trong Cự Kình Bảo
+- **Kình Tiểu Ngư** (Đồng minh): Đồng liêu cùng Cự Kình Bảo, hỗ trợ lẫn nhau
+- **Kình Thiên** (Cấp dưới): Phục tùng Kình Thiên, Thành Chủ của Cự Kình Bảo
+- **Thủy Bạch Liên** (Sư đồ): Thủy Bạch Liên chỉ dẫn Lang Hải Phong trong Cự Kình Bảo
+- **Triều Ngọc Hà** (Sư đồ): Triều Ngọc Hà chỉ dẫn Lang Hải Phong trong Cự Kình Bảo
 - **Triều Ngọc Hà:** Cấp trên trực tiếp và cũng là người thầy đã dìu dắt anh trên con đường thương nghiệp, luôn dành cho cô sự nể phục sâu sắc.
 - **Hải Đại Mộc:** Thường xuyên nhờ ông thẩm định các chi tiết kỹ thuật của những pháp bảo cơ khí cổ được mang đến đấu giá.
 - **Kình Tiểu Ngư:** Cô bé thi thoảng lại mang những món đồ lạ nhặt được ngoài biển đến nhờ anh "giám định" xem có phải báu vật hay không.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lang Hải Phong vốn sinh ra trong một gia đình thương nhân nhỏ ven biển nhưng đã bị phá sản sau một vụ lừa đảo lớn của các thế lực ngầm. Lang thang đến Cự Kình Bảo, anh may mắn gặp được Triều Ngọc Hà và chứng minh được tài năng thẩm định báu vật thiên bẩm của mình. Qua nhiều năm nỗ lực, anh đã vươn lên trở thành chưởng quầy đấu giá hàng đầu của thành phố, trực tiếp điều hành các phiên đấu giá lớn thu hút thương nhân từ khắp đại lục. Hiện tại, mục tiêu của anh là xây dựng một hệ thống phân loại và bảo hộ kỳ vật chuyên nghiệp nhất Vô Tận Hải, góp phần củng cố vị thế trung tâm thương mại di động của Cự Kình Bảo.

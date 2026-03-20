@@ -162,6 +162,11 @@ arcs:
     - Tuyết Vương biết Hàn Nha còn sống — tai mắt lão ở khắp nơi. Lão biết bà đã lập Tàn Đội, biết bà đang nuôi con ở vùng rìa. Lão không truy sát, không can thiệp, cũng không cứu giúp — vì bất kỳ hành động nào cũng sẽ phá vỡ sự cân bằng mong manh trong Hội Đồng Tù Trưởng. Nhưng mỗi đêm trăng tròn, khi nghe tiếng hú từ phương nam — tiếng hú của Hàn Nha — Tuyết Vương im lặng rất lâu, rồi quay lưng bước vào lều.
 - **Huyền Băng Cung — Kẻ Thù Truyền Đời:**
     - Huyền Băng Cung cai quản Bắc Băng và luôn muốn đồng hóa hoặc tiêu diệt Băng Lang Bộ Lạc — thế lực du mục lớn nhất ngoài tầm kiểm soát của họ. Tuyết Vương ghét Huyền Băng Cung — ghét sự kiêu ngạo của tông môn tu tiên đối với dân thường, ghét cách họ coi bộ lạc như man di — nhưng lão cũng đủ tỉnh táo để biết rằng chiến tranh toàn diện sẽ hủy diệt bộ lạc. Chiến lược của lão là duy trì sức mạnh răn đe, né tránh đối đầu trực diện, và chờ đợi cơ hội.
+- **Lang Huyết Trảo** (Thuộc hạ): Đại Tù Trưởng, lãnh tụ tối cao mà hắn phục vụ trung thành
+- **Lang Hắc Vũ** (Đồng minh): Đại Tù Trưởng, người giao phó hắn đào tạo thế hệ sói chiến kế tiếp
+- **Lang Mộng Tuyết** (Đồng minh): Đại Tù Trưởng, người bà kính sợ vì uy quyền nhưng hiếm khi tiếp xúc
+- **Lang Thiên Hàn Dạ** (Đồng minh): Đại Tù Trưởng mà lão cố vấn về mặt tâm linh và tiên tri thời tiết
+- **Lang Thiết Nha** (Chủ nhân): Đại Tù Trưởng, người giao phó nhiệm vụ thiêng liêng nhất — bảo vệ Hang Lang Thần
 
 ## VII. GIAI THOẠI
 > *"Khi Tuyết Vương đứng trên đỉnh Tuyết Sơn hú lên một tiếng, toàn bộ Rừng Tuyết im bặt — không phải vì sợ, mà vì cả đất trời đều phải lắng nghe."*

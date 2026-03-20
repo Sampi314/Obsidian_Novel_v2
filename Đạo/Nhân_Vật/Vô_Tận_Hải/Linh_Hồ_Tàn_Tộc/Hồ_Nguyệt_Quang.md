@@ -35,9 +35,12 @@ Dù chỉ ở mức Trúc Cơ Sơ Kỳ, nhưng nhờ tương tác lâu năm vớ
 Điểm yếu là sức mạnh phụ thuộc nhiều vào ánh trăng và Nguyệt Quang Thạch, năng lực thực chiến trong không gian kín hoặc ban ngày giảm sút trầm trọng.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hồ Cửu Thiên** (Sư đồ): Hồ Nguyệt Quang chỉ dẫn Hồ Cửu Thiên trong Linh Hồ Tàn Tộc
+- **Hồ Linh Hỏa** (Đồng minh): Đồng liêu cùng Linh Hồ Tàn Tộc, hỗ trợ lẫn nhau
+- **Hồ Tuyết Lan** (Đồng minh): Đồng liêu cùng Linh Hồ Tàn Tộc, hỗ trợ lẫn nhau
+- **Hồ Ảo Mộng Thiên** (Đồng minh): Đồng liêu cùng Linh Hồ Tàn Tộc, hỗ trợ lẫn nhau
 - **Hồ Tuyết Nhi:** Tộc Trưởng. Nguyệt Quang là người tin tưởng Tuyết Nhi nhất, hỗ trợ nàng trong việc quản lý nội vụ của tộc.
 - **Hồ Cửu Thiên:** Hồ con mang huyết mạch Cửu Vĩ Thiên Hồ. Nguyệt Quang xem Cửu Thiên như chìa khóa mở ra tương lai của tộc, sẵn sàng cho mượn Nguyệt Quang Thạch để tu luyện.
 - **Hồ Linh Hỏa:** Người bạn đồng hành canh gác. Nguyệt Quang thường dùng huyễn thuật xoa dịu những cơn đau rát kinh mạch do Hỏa Độn Thuật gây ra cho Linh Hỏa.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hồ Nguyệt Quang là truyền nhân cuối cùng của dòng dõi Trưởng Lão giữ đền của Hồ Tộc phương Bắc. Từ khi còn nhỏ, y đã được dạy cách bảo quản và giao tiếp với Nguyệt Quang Thạch. Trong cuộc đại chiến năm xưa, cha mẹ y đã dùng thân mình che chắn để y ôm bảo vật trốn thoát cùng Tộc Trưởng. Sự kiện đó khiến Nguyệt Quang bị ám ảnh bởi việc phải bảo vệ viên đá này bằng mọi giá, coi đó là sứ mệnh thiêng liêng duy nhất của cuộc đời mình. Hiện tại, y đang tận lực bồi dưỡng Hồ Cửu Thiên, hy vọng một ngày nào đó viên đá sẽ thức tỉnh sức mạnh thực sự của Cửu Vĩ Thiên Hồ.

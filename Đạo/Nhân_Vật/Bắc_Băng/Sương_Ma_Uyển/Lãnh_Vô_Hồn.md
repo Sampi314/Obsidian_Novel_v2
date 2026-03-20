@@ -37,6 +37,9 @@ arcs:
 - **Sương Ma Cốc Chủ:** Kẻ bảo trợ tối cao, người đã cấp cho hắn đủ "tài nguyên" và không gian để theo đuổi những thí nghiệm điên rồ mà không bị giới hạn bởi bất kỳ lề thói nào.
 - **Hắc Sương Quỷ:** Đối tác thân thiết, người luôn cung cấp cho hắn nguồn thi thể tươi mới và tu sĩ cường đại để hắn tiếp tục cải tiến quy trình luyện thi.
 - **Sương Nô Vương:** "Tác phẩm" tâm đắc nhất của hắn, một thành tựu đỉnh cao minh chứng cho sự kết hợp hoàn hảo giữa tà thuật sương giá và việc xóa sạch ý chí của một tu sĩ cường giả.
+- **Hàn Tiêu** (Thù địch): Tử địch
+- **Sương Vô Tình** (Thuộc hạ): Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển
+- **Bạch Thi Nương** (Sư phụ): Bạch Thi Nương dẫn dắt Lãnh Vô Hồn trong Sương Ma Uyển
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 - Từng là một dược sư danh tiếng của một gia tộc nhỏ tại Bắc Băng, Lãnh Vô Hồn bị trục xuất và truy sát vì dám dùng người sống làm vật thí nghiệm cho những phương thuốc cải tử hoàn sinh. Trên đường cùng tận, hắn tình cờ tìm thấy một mảnh ngọc giản tàn khuyết ghi lại cấm thuật luyện thi của Ma Tộc. Hắn dâng hiến linh hồn mình cho ma đạo, tự mình cải tạo cơ thể và gia nhập Sương Ma Uyển. Tại đây, hắn được thăng lên làm Luyện Tà Đường Chủ, phụ trách toàn bộ việc cung cấp Băng Thi cho quân đội và Băng Nô cho kinh tế của Uyển. Hiện tại, hắn đang ấp ủ một dự án điên rồ: dung hợp tà khí của Huyết Băng Trì vào cơ thể một cường giả Nguyên Anh để tạo ra "Thi Vương" bất tử.

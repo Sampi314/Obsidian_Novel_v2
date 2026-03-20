@@ -32,8 +32,11 @@ Hổ Thú Ngữ khoác hình nhân lão niên, thân hình cao gầy, râu bạc
 Hổ Thú Ngữ sở hữu Thú Linh Tâm Ấn (獸靈心印) — công pháp dùng tâm thức liên kết với linh thú, có thể giao tiếp với hầu hết linh thú cấp thấp và trung bình. Không giỏi chiến đấu cá nhân, nhưng có thể chỉ huy đàn linh thú đồng hành tạo thành đội quân nhỏ. Kỹ năng thuần hóa: dùng lòng chân thành thay vì cưỡng ép.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lang Linh Thông:** Phó Hội Trưởng trung thành, tay phải đáng tin cậy.
-- **Miêu Tiểu Linh:** Thành viên trẻ mà y đang dẫn dắt, thấy có thiên phú đặc biệt.
-
+- **Lang Linh Thông** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thú Linh Sư Hội
+- **Miêu Tiểu Linh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thú Linh Sư Hội
+- **Lang Linh Thông** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Thú Ngữ
+- **Miêu Tiểu Linh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Thú Ngữ
+- **Trần Vạn Thú** (Đồng minh): Hội Trưởng Thú Linh Sư và Trang Chủ Bách Thú, nghiên cứu thú linh
+- **Ưng Đa Ngữ** (Đồng minh): Hội Trưởng Thú Ngữ và Thú Linh Sư, hợp tác dịch thuật linh thú
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hổ Thú Ngữ là Yêu Tộc nhánh Hổ, nhưng linh căn yếu, tu đến Trúc Cơ đã là giới hạn. Bù lại y có thiên phú kỳ lạ — có thể hiểu được tiếng nói của hầu hết linh thú. Sáu mươi năm trước, y lập Thú Linh Sư Hội để dạy những tu sĩ yếu cách sinh tồn nhờ linh thú đồng hành. Dù Hội nhỏ bé, y vẫn kiên trì truyền bá triết lý kết giao thay vì khuất phục.

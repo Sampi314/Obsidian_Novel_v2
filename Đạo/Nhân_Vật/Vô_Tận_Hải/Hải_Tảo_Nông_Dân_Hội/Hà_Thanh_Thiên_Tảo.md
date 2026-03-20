@@ -32,9 +32,14 @@ Một nam nhân thuộc chi Tôm với dáng vẻ thư sinh, đôi mắt to trò
 Chuyên tu về mộc hệ và thuật pháp lai tạo linh thú/thực vật ở cấp độ cơ bản. Tuyệt kỹ "Thiên Tảo Khai Linh" (千藻开灵) cho phép hắn sử dụng linh lực để kích thích sự phát triển vượt bậc của các phôi tảo linh, tạo ra những giống tảo lai mới có khả năng chịu mặn tốt và hàm lượng linh khí cao gấp đôi bình thường. Điểm mạnh là tư duy sáng tạo và kiến thức sâu rộng về sinh học đại dương, nhưng điểm yếu là tu vi chưa đủ mạnh để đối phó với những biến động linh lực cực lớn trong lúc làm thí nghiệm.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hà Cần Lao** (Đồng minh): Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau
+- **Hà Kim Thiên Lân** (Đồng minh): Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau
+- **Ngư Phì Ông** (Chủ tớ): Thủ hạ trung thành trong Hải Tảo Nông Dân Hội
+- **Ngư Phì Ông** (Cấp dưới): Phục tùng Ngư Phì Ông, Hội Trưởng của Hải Tảo Nông Dân Hội
+- **Loa Ốc Chậm** (Sư đồ): Hà Thanh Thiên Tảo chỉ dẫn Loa Ốc Chậm trong Hải Tảo Nông Dân Hội
+- **Ngư Thiên Tảo** (Đồng minh): Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau
 - **Ngư Phì Ông:** Người luôn ủng hộ các ý tưởng "điên rồ" của hắn và cung cấp ngân sách cho các dự án lai tạo hạt giống.
 - **Hà Cần Lao:** Người huynh trưởng thường xuyên giúp hắn thu thập các mẫu tảo dại quý hiếm từ những vùng biển xa xôi.
 - **Khuẩn Ngọc Tảo:** Đối tác trao đổi tri thức thường xuyên, cả hai cùng nhau nghiên cứu về sự tương tác giữa khuẩn biển và tảo linh.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hà Thanh Thiên Tảo vốn sinh trưởng trong một hang động giàu linh khí nơi có nhiều loài tảo cổ đại sinh sống. Từ nhỏ hắn đã say mê việc quan sát sự phát triển của cây cỏ dưới nước hơn là việc tập luyện võ nghệ. Sau khi gia nhập Hải Tảo Nông Dân Hội, hắn đã biến một góc nhỏ của cánh đồng thành phòng thí nghiệm thực địa, nơi hàng trăm giống tảo mới đã được ra đời. Hắn chính là người đã giúp hội duy trì được sản lượng ổn định ngay cả trong những năm hải lưu biến đổi thất thường. Hiện tại, hắn đang âm thầm nghiên cứu loại "Tảo Tịnh Hóa" có khả năng hấp thụ trực tiếp các chất ô nhiễm linh lực, coi đó là chìa khóa để cứu lấy tương lai của toàn đại dương.

@@ -32,9 +32,11 @@ Thiếu nữ xinh đẹp với đôi mắt sáng lanh lợi, mái tóc đen dài
 Tinh thông cả kiếm thuật hoa lẫn trị liệu, là đệ tử toàn diện nhất thế hệ trẻ. Tuyệt chiêu Thanh Mai Kiếm Vũ (青梅劍舞) kết hợp kiếm quang với hoa mai tạo thành vũ điệu chiến đấu ưu mỹ và chết chóc. Ưu điểm là sự đa năng, nhưng chưa đạt đến đỉnh cao ở bất kỳ lĩnh vực nào.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Hoa Nguyệt:** Cốc Chủ, sư phụ trực tiếp dạy kiếm pháp.
-- **Phạm Tú Lan:** Trưởng Lão Hoa Linh Đường, người dạy trị liệu.
-- **Hoàng Tiểu Đào:** Sư muội thân thiết, bạn đồng hành hàng ngày.
-
+- **Lý Hoa Nguyệt** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bách Hoa Cốc
+- **Lý Hoa Nguyệt** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Hoa Nguyệt
+- **Trần Bách Liên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bách Hoa Cốc
+- **Phạm Tú Lan** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bách Hoa Cốc
+- **Hoàng Tiểu Đào** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bách Hoa Cốc
+- **Nguyễn Vũ Cúc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bách Hoa Cốc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lê Thanh Mai xuất thân từ gia tộc tu sĩ nhỏ có quan hệ lâu đời với Bách Hoa Cốc. Nàng được gửi vào cốc từ năm tám tuổi và nhanh chóng trở thành đệ tử xuất sắc nhất thế hệ. Được Lý Hoa Nguyệt đích thân thu nhận làm chân truyền đệ tử, nàng gánh trên vai kỳ vọng trở thành Cốc Chủ tương lai. Áp lực này đôi khi khiến nàng mất ngủ, nhưng nàng không bao giờ cho ai thấy sự yếu đuối.

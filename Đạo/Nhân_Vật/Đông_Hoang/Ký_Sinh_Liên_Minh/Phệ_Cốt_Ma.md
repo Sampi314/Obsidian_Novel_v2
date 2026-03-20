@@ -32,7 +32,6 @@ Ký sinh trùng ăn xương, bị hắn nhắm là chết dần chết mòn
 Thành viên của Ký Sinh Liên Minh, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 噬骨魔·Bản Mệnh (噬骨魔·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Ký Sinh Liên Minh:** Mối liên kết chặt chẽ với thế lực.
-
+- **Trùng Nhện Chúa** (Kẻ thù): Ký Sinh Trùng Chúa tranh đoạt kiểm soát trùng tộc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phệ Cốt Ma lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Ký Sinh Liên Minh. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Ký Sinh Liên Minh và dần khẳng định vị trí của mình. Với tu vi Kim Đan Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Ký Sinh Trùng Chúa.

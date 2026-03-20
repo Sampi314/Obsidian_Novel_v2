@@ -159,6 +159,7 @@ arcs:
     - Vạn Quân đã gia cố hang đông miên — công trình mà Băng Cương đánh giá là "hoàn hảo." Y không nói nhiều với Vạn Quân, nhưng việc cho phép một kẻ ngoài vào trong hang làm việc suốt sáu tháng mà không can thiệp — đó là sự tin tưởng cao nhất Băng Cương dành cho ai không thuộc đội.
 - **Vị Đại Năng Ngủ 500 Năm — Bí Mật Và Sứ Mệnh:**
     - Y canh giữ vị đại năng này lâu nhất — lâu hơn cả tuổi y khi y bắt đầu canh. Y không biết tên, không biết gốc gác, chỉ biết rằng vị đại năng ấy đã ngủ trước khi y đến, và có thể sẽ ngủ sau khi y chết. Y cảm nhận được quá trình vị đại năng hòa nhập vào địa mạch — chậm rãi, từ từ, như tuyết tan vào đất. Y không biết đó là tu luyện hay là cái chết kéo dài — và y sợ câu trả lời. Nhưng y vẫn canh — vì nếu đó là tu luyện, y phải bảo vệ; nếu đó là cái chết, y phải chứng kiến. Cả hai đều cần y thức.
+- **Thiên Cân** (Gia tộc): Chiến binh Nguyên Anh huyền thoại, hình mẫu lý tưởng mà y khao khát trở thành
 
 ## VII. GIAI THOẠI
 > *"Giấc ngủ là quyền lợi thiêng liêng nhất của sinh vật. Khi ngươi ngủ, ngươi tin tưởng rằng thế giới sẽ an toàn khi ngươi tỉnh dậy. Ta thức — để xứng đáng với lòng tin ấy."*

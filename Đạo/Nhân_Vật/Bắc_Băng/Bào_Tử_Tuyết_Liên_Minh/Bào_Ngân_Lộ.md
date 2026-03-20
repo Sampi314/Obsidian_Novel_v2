@@ -148,6 +148,7 @@ arcs:
     - Tuyết Nhi cung cấp linh lực tịnh hóa nguyên chất cho quá trình bào chế hàn dược cao cấp — loại linh lực mà chỉ nghi lễ của Tuyết Nhi mới tạo ra được. Ngân Lộ trân quý mỗi giọt linh lực ấy và sử dụng cực kỳ tiết kiệm.
 - **Bào Tiểu Đông — Bệnh Nhân Nhỏ Nhất:**
     - Tiểu Đông là bào tử non yếu nhất trong liên minh — thường xuyên bị bệnh do hệ thống bào tử chưa hoàn thiện. Ngân Lộ chăm sóc Tiểu Đông nhiều nhất, và đôi khi nàng cảm thấy lo lắng đặc biệt cho cậu — như thể nàng có bản năng "mẹ" mà Vi Tộc không nên có.
+- **Bào Hàn Ngọc** (Đồng minh): Dược Sư Tuyết tài năng, cung cấp hàn dược duy trì sức khỏe quần thể
 
 ## VII. GIAI THOẠI
 > *"Khi Giọt Sương Bạc chạm vào ngươi, mọi đau đớn đều tan biến — không phải vì ngươi hết đau, mà vì nàng mang đau đớn ấy vào mình."*

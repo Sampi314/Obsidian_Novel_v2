@@ -72,6 +72,13 @@ arcs:
 - **Sở Thích:** Chăm sóc vườn thuốc, pha trà thảo mộc, đọc sách cổ.
 - **Nỗi Sợ:** Sợ nhìn thấy bệnh nhân chết trên tay mình mà mình bất lực.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Đan Dương Tử** (Đồng minh): Đồng minh
+- **Nguyệt Dao** (Đồng minh): Đồng minh bất đắc dĩ, sau thành tri kỷ
+- **Lục Trần** (Đồng minh): Bạn vong niên, đồng minh lâu năm
+- **Thảo Tâm Linh** (Đồng minh): Y Sư Dược Vương Cốc và Viện Trưởng Dược Thảo, cùng dược
+- **Độc Cô Lão Quái** (Kẻ thù): Kẻ thù
+
 ## V. CÔNG PHÁP & KỸ NĂNG
 1.  **Thanh Nang Trường Sinh Quyết (Thiên Cấp Trung Phẩm):**
     - Công pháp bản mệnh, tu luyện sinh mệnh lực. Giúp bà có khả năng hồi phục kinh người và chia sẻ sinh mệnh cho người khác.

@@ -32,9 +32,14 @@ Kình Mẫu Từ có vóc dáng đầy đặn, mập mạp, tỏa ra vẻ hiền
 Dù không chuyên về giết chóc, Mẫu Từ nắm giữ **Sinh Linh Tế Thủy (生靈濟水)**, thuật pháp tạo ra một vùng nước bao bọc lấy mục tiêu để chữa lành và bảo vệ, rất hiệu quả trong việc hỗ trợ sinh nở. Khi bị đẩy vào đường cùng, bà sử dụng **Từ Hàng Bạo Lưu (慈航暴流)**, chuyển hóa năng lượng yêu thương thành dòng xoáy áp suất cực cao để đẩy lùi kẻ thù. Nhược điểm của bà là thiếu các đòn công kích vật lý tầm xa và khả năng di chuyển chậm chạp.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Kình Hải Âm Thiên** (Sư đồ): Kình Hải Âm Thiên chỉ dẫn Kình Mẫu Từ trong Kình Ngư Bộ Lạc
+- **Kình Lôi Âm** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
+- **Kình Thiên Hải Vương** (Chủ tớ): Thủ hạ trung thành trong Kình Ngư Bộ Lạc
+- **Kình Thiên Hải Vương** (Cấp dưới): Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc
+- **Kình Ngân Hải Thiên** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
+- **Kình Thiết Đầu** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
 - **Kình Hải Âm Thiên (Ca Sĩ):** Được Mẫu Từ nuôi nấng từ nhỏ và coi như con đẻ, dạy cách hát ru cho biển cả.
 - **Kình Lôi Âm (Hộ Vệ Trưởng):** Bà là người duy nhất Lôi Âm nể phục ngoài Tộc Trưởng, và từng băng bó vết thương cho hắn vô số lần.
 - **Hắc Hải Hải Tặc:** Một trong số ít những kẻ có thể khiến người hiền lành như Mẫu Từ rơi nước mắt, luôn cầu mong tránh xa họ.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trong quá khứ, Mẫu Từ từng là một thiếu nữ khao khát phiêu lưu, đã rời khỏi bộ lạc và lang bạt trên vùng rạn san hô nông. Tại đó, bà chứng kiến sự tàn nhẫn của ngư dân săn bắt thủy quái con để làm nguyên liệu tu luyện. Quá đau lòng, bà trở về và cống hiến cả đời cho việc nuôi nấng và chăm sóc những con cá voi con trong bộ lạc. Mục đích hiện tại của bà là tìm ra "Thủy Tinh Khởi Nguyên" - một loại kỳ vật có thể gia cố vỏ bọc cho trứng và bào thai, giúp thế hệ sau sinh ra an toàn trước biến động linh khí.

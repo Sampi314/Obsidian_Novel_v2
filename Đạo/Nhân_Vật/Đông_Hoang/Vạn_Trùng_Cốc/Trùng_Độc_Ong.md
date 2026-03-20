@@ -32,9 +32,11 @@ Trùng Độc Ong có thân hình thon gọn với sọc vàng đen đặc trưn
 Đạt cảnh giới Nguyên Anh Sơ Kỳ, Trùng Độc Ong tu luyện "Vạn Độc Chế Phương Quyết" (万毒制方诀) — cho phép tổng hợp và chế tạo mọi loại nọc độc từ nguyên liệu tự nhiên. Tuyệt kỹ "Thiên Phong Vạn Độc Vũ" (千蜂万毒雨) triệu hồi đàn ong độc phun mưa nọc xuống chiến trường, mỗi giọt chứa một loại độc tố khác nhau. Điểm mạnh là kho tàng độc dược phong phú và khả năng chiến tranh sinh hóa, nhược điểm là cận chiến yếu và bản thân dù kháng độc tốt nhưng không miễn nhiễm hoàn toàn.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trùng Mẫu:** Mẫu Hoàng, bà là người duy nhất có quyền yêu cầu hắn chế tạo bất kỳ loại độc nào.
-- **Trùng Bọ Ngựa:** Khách hàng thường xuyên, liềm của Bọ Ngựa luôn được tẩm nọc do hắn bào chế.
-- **Trùng Nhện Chúa:** Đối tác hợp tác, hắn cung cấp nọc độc cho tơ nhện của Nhện Chúa, tạo nên tổ hợp sát thương khủng khiếp.
-
+- **Trùng Nhện Chúa** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Trùng Cốc
+- **Trùng Nhện Chúa** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Nhện Chúa
+- **Trùng Kiến Vương** (Thuộc hạ): Cùng Vạn Trùng Cốc, quan hệ tổ chức
+- **Trùng Bọ Ngựa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Trùng Cốc
+- **Trùng Cánh Cứng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Trùng Cốc
+- **Trùng Kiến Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Trùng Cốc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trùng Độc Ong là biến thể hiếm gặp trong dòng trùng ong, sinh ra với túi nọc lớn gấp năm lần bình thường và khả năng miễn dịch bẩm sinh với hầu hết chất độc. Thay vì chiến đấu trực tiếp, hắn phát hiện niềm đam mê với việc nghiên cứu và tổng hợp nọc độc mới, biến phòng thí nghiệm ngầm dưới Cốc thành kho vũ khí sinh học lớn nhất Đông Hoang. Bước ngoặt đời hắn là khi một trận dịch bệnh lạ tấn công trùng ấu trùng, hắn đã dùng kiến thức độc lý để bào chế giải dược, cứu sống hàng vạn ấu trùng và được Trùng Mẫu ban tặng danh hiệu Trùng Tướng. Hiện tại, hắn đang bí mật nghiên cứu một loại nọc độc có thể ảnh hưởng đến thần thức, hướng tới mục tiêu kiểm soát tâm trí kẻ thù thay vì đơn thuần giết chết.

@@ -32,9 +32,13 @@ Vi khuẩn tiết dịch giải độc, dược liệu quý
 Chuyên gia trị liệu của Linh Khuẩn Dược Viên, tinh thông y thuật và dược lý. Chiêu thức 菌白光·Hồi Xuân Thuật (菌白光·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Khuẩn Cổ Ký Ức:** Ký Ức Thể, đồng liêu quan trọng nhất trong Linh Khuẩn Dược Viên.
-- **Khuẩn Huyền Thiên Hóa:** Phân Giải Sư, đối tác thường xuyên phối hợp.
-- **Khuẩn Hồng Sinh Dạ:** Cộng Sinh Sư, mối quan hệ tin cậy lẫn nhau.
-
+- **Khuẩn Kim Quang** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Linh Khuẩn Dược Viên
+- **Khuẩn Kim Quang** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Khuẩn Kim Quang
+- **Khuẩn Cổ Ký Ức** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Linh Khuẩn Dược Viên
+- **Khuẩn Hồng Sinh Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Linh Khuẩn Dược Viên
+- **Khuẩn Tịnh Thổ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Linh Khuẩn Dược Viên
+- **Khuẩn Lục Sinh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Linh Khuẩn Dược Viên
+- **Khuẩn Ngọc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Linh Khuẩn Dược Viên
+- **Khuẩn Vạn Sinh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Linh Khuẩn Dược Viên
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Khuẩn Bạch Quang lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Linh Khuẩn Dược Viên. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Linh Khuẩn Dược Viên và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dược Sư.

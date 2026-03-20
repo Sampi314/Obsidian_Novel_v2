@@ -134,6 +134,8 @@ Hiện tại, Thiên Tý dành phần lớn thời gian nằm ở trung tâm han
 - **Quy Cổ Băng (Kim Đan Trung Kỳ):** Đối tượng trao đổi thường xuyên nhất. Thiên Tý trân trọng kinh nghiệm vạn năm của lão rùa và thường "ngồi" gần lão để lắng nghe những ký ức cổ xưa phát qua sóng âm. Đổi lại, nàng bảo vệ vị trí nghỉ ngơi yên tĩnh nhất trong hang cho Cổ Băng.
 - **Xà Hải Mãng Vương (Kim Đan Hậu Kỳ):** Cảnh giác. Thiên Tý không tin tưởng loài xà vì chúng quá xảo quyệt và khó đoán. Nàng luôn bố trí ít nhất vài xúc tu giám sát khu vực Mãng Vương cư trú, dù chưa bao giờ phát hiện hành vi đáng ngờ. Sự cảnh giác này khiến Mãng Vương hơi khó chịu nhưng cũng tôn trọng.
 - **Sa Cổ Hải Thú (Kim Đan Viên Mãn):** Thiên Tý trực tiếp phân công lịch tuần tra cho Cổ Hải Thú. Nàng đánh giá cao sức mạnh chiến đấu của loài sa nhưng thường phải kiểm tra lại vì chúng hay bỏ vị trí để đuổi theo mồi.
+- **Chương Băng Hải** (Đồng minh): Phó chủ, thường xuyên báo cáo tình hình
+- **Sa Hàn Cổ Thiên** (Kẻ thù): Phó chủ, nhận lệnh tuần tra
 
 ## VII. GIAI THOẠI
 Các sinh vật biển nhỏ bé gần hang ổ kể lại rằng vào mùa băng tan, khi dòng hải lưu ấm từ phương Nam chạm đến vùng biển Bắc Băng, Chương Thiên Tý sẽ duỗi toàn bộ ngàn xúc tu ra khỏi miệng hang, tạo thành một "khu rừng dưới nước" khổng lồ. Cá nhỏ, tôm biển, sứa — tất cả đều tìm đến trú ẩn trong "rừng xúc tu" của nàng, vì kẻ thù nào cũng sợ đi vào vùng đó. Thiên Tý không đuổi chúng đi, cũng không ăn thịt — nàng chỉ lặng lẽ để chúng ở đó, như thể đang chăm sóc một khu vườn sinh vật sống.

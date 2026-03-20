@@ -32,9 +32,16 @@ Nguyệt Linh Quang là một Tinh Linh già, thân phủ ánh sáng dịu nhẹ
 Là Đại Tế Tư cảnh giới Nguyên Anh Sơ Kỳ, Nguyệt Linh Quang tu luyện "Thánh Quang Kỳ Đảo Thuật" (圣光祈祷术) — kết nối trực tiếp với Cây Thế Giới để ban phước lành và chữa trị. Tuyệt kỹ "Thần Mộc Tẩy Lễ" (神木洗礼) thanh lọc mọi tà khí và độc tố trong phạm vi rộng. Điểm mạnh là hỗ trợ và chữa trị tập thể mạnh nhất Vương Đình, nhược điểm là không có khả năng tấn công đáng kể.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nguyệt Vũ:** Công Chúa mà ông dạy nghi lễ, dù cô thấy nhàm chán nhưng ông kiên nhẫn.
-- **Linh Ngọc Thụ Tâm:** Thần Mộc Thông Dịch, đồng nghiệp giao tiếp với Cây Thế Giới.
-- **Nguyệt Thiên Hà:** Hộ Quốc Trưởng Lão, đồng liêu cùng thế hệ, chia sẻ nỗi lo về tương lai.
-
+- **Nguyệt Thiên Hà** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tinh Linh Vương Đình
+- **Nguyệt Thiên Hà** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nguyệt Thiên Hà
+- **Nguyệt Hàn Sương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Linh Ngọc Thụ Tâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Nguyệt Huyền Thiên Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Vân Tiêu Dao Khách** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Hoa Tử Yên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Nguyệt Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Linh Dao Hoa** (Đồng minh): Đại Tế Tư và Đan Dược Sư, phối hợp lễ tế và y dược
+- **Hoa Liên Hương Tử** (Đồng minh): Đại Tế Tư và Trận Pháp Sư, phối hợp pháp trận
+- **Thảo Tâm Linh** (Đồng minh): Viện Trưởng Dược Thảo và Đại Tế Tư, hợp tác dược liệu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyệt Linh Quang phụng sự Thánh Thụ Điện từ thuở thiếu niên, dành cả đời học hỏi bí thuật tế lễ cổ đại. Ông là người duy nhất ngoài Nữ Hoàng có thể thực hiện nghi lễ kết nối với Cây Thế Giới, dù ở mức độ hạn chế hơn. Sự kiện quan trọng nhất là khi ông chủ trì lễ tẩy lễ cứu sống Thái Tử Nguyệt Hàn Sương sau khi bị trúng độc ngoài rừng. Nỗi lo hiện tại là Cây Thế Giới phản hồi ngày càng yếu — dấu hiệu mà ông không dám nói ra.

@@ -368,6 +368,8 @@ Tuyệt đối tuân thủ cấu trúc sau đây cho TẤT CẢ các chương tr
 
 ---
 
+**Tham khảo:** Bất kỳ chương truyện đã hoàn chỉnh trong `Đạo/Chương_Truyện/` (ví dụ: `Đạo/Chương_Truyện/Nam_Cương/Góc_Nhìn_Nam_Cương/Chương_001.md`)
+
 
 ## QUY TẮC NGÔN NGỮ (BẮT BUỘC)
 - **TUYỆT ĐỐI KHÔNG SỬ DỤNG TIẾNG ANH** trong nội dung được tạo ra (trừ tên Tệp Tin/đường dẫn kỹ thuật).

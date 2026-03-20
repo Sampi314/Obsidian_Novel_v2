@@ -32,9 +32,13 @@ Tàng hình + ảo thuật, sát thủ hoàn hảo
 Thành viên của Hỗn Huyết Yêu Đoàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 豹狐月影·Bản Mệnh (豹狐月影·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hùng Lang Thiết Tâm:** Chiến Sĩ, đồng liêu quan trọng nhất trong Hỗn Huyết Yêu Đoàn.
-- **Hồ Lang Tạp Huyết:** Đoàn Trưởng, đối tác thường xuyên phối hợp.
-- **Hổ Hùng Cự Lực:** Vệ Sĩ, mối quan hệ tin cậy lẫn nhau.
-
+- **Hồ Lang Tạp Huyết** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Hỗn Huyết Yêu Đoàn
+- **Hồ Lang Tạp Huyết** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hồ Lang Tạp Huyết
+- **Tam Huyết Nhi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Hỗn Huyết Yêu Đoàn
+- **Hổ Hùng Cự Lực** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
+- **Hổ Xà Lôi Hỏa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
+- **Hùng Lang Thiết Tâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
+- **Lang Điêu Phong Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
+- **Xà Hồ Thanh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Báo Hồ Nguyệt Ảnh lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Hỗn Huyết Yêu Đoàn. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Hỗn Huyết Yêu Đoàn và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trinh Sát.

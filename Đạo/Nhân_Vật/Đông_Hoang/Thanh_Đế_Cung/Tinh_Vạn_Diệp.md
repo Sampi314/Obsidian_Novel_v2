@@ -32,9 +32,14 @@ Tinh Vạn Diệp là Tinh Linh Tộc cổ đại, dáng người mảnh khảnh
 Tinh Vạn Diệp sở hữu Vĩnh Hằng Cổ Thụ Quyết (永恆古樹訣) — công pháp cổ xưa nhất của Tinh Linh Tộc, kết nối trực tiếp với mạch sống của rừng rậm. Trong chiến đấu, y dùng Vạn Mộc Quy Tông (萬木歸宗) — triệu hồi linh hồn của hàng vạn cây cối tạo thành đội quân mộc linh. Uy lực kinh hoàng nhưng phải trả giá bằng tuổi thọ.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Mộc Thanh:** Cung Chủ mà y coi như hậu bối cần dẫn dắt.
-- **Nguyệt Thường Xuân:** Đồng tộc Tinh Linh, phụ tá đắc lực trong việc liên lạc với Vương Đình.
-- **Trần Thanh Tiên:** Thái Thượng đồng liêu Nhân Tộc, hai người hợp tác bảo vệ Cung.
-
+- **Lý Mộc Thanh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Lý Mộc Thanh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Phạm Thanh Hoa** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Hoàng Mộc Linh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Lê Dược Tiên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Đặng Thanh Liên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Vũ Tiểu Thanh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Trần Thanh Tiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
+- **Hoàng Mộc Linh** (Đồng minh): Cùng Thanh Đế Cung, quan hệ tổ chức
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Tinh Vạn Diệp đã sống hơn ba ngàn năm, chứng kiến sự thịnh suy của nhiều thế hệ Thanh Đế Cung. Y gia nhập Cung theo lời mời của Cung Chủ đời thứ ba, đại diện cho liên minh giữa Tinh Linh Vương Đình và Thanh Đế Cung. Tuy tu vi đã suy giảm theo tuổi tác, kinh nghiệm và trí tuệ của y vẫn là báu vật vô giá. Gần đây y cảm nhận được sự héo úa bất thường của Thần Mộc — điều khiến y lo lắng sâu sắc.

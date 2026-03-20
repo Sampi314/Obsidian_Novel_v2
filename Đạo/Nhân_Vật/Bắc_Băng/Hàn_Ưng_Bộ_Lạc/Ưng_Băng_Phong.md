@@ -33,6 +33,10 @@ Lông sắc như kiếm băng, phóng ra giết người nhanh hơn pháp thuậ
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Ưng Tuyết Phong** (Đồng minh): Chiến sĩ dưới quyền, kẻ mà hắn vừa nghiêm khắc huấn luyện vừa thầm khen ngợi
+- **Cú Bạch Dạ** (Đồng minh): Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau
+- **Hạc Sương Vũ** (Chủ nhân): Hạc Sương Vũ quản lý Ưng Băng Phong trong Hàn Ưng Bộ Lạc
+- **Ưng Lãnh Phong** (Đồng minh): Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

@@ -32,9 +32,13 @@ Nguyệt Thường Xuân là Tinh Linh Tộc nữ, dung mạo tuyệt trần, ta
 Nguyệt Thường Xuân sở hữu Nguyệt Quang Mộc Linh Thuật (月光木靈術) — kết hợp quang năng trăng với mộc linh khí, tạo ra hiệu ứng chữa lành diện rộng vào ban đêm. Chiến đấu bằng Tinh Linh Tiễn Pháp (精靈箭法) — cung thuật Tinh Linh bách phát bách trúng, mỗi mũi tên mang theo mộc linh lực có thể xuyên qua trận pháp cấp thấp.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Tinh Vạn Diệp:** Đồng tộc Tinh Linh, phụ tá trong việc liên lạc với Vương Đình.
-- **Lý Mộc Thanh:** Cung Chủ mà y hỗ trợ với tư cách đại diện Tinh Linh Tộc.
-- **Lê Dược Tiên:** Trưởng Lão Nhân Tộc mà y coi như bạn thân, hay cùng đi tìm linh thảo.
-
+- **Lý Mộc Thanh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thanh Đế Cung
+- **Lý Mộc Thanh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mộc Thanh
+- **Trần Thanh Tiên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Đặng Thanh Liên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thanh Đế Cung
+- **Phạm Thanh Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
+- **Hoàng Mộc Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
+- **Nguyễn Thanh Trúc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
+- **Lê Dược Tiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thanh Đế Cung
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyệt Thường Xuân là Tinh Linh Tộc được Vương Đình cử đến Thanh Đế Cung làm sứ giả liên minh. Sống tại Cung hơn năm trăm năm, y đã hòa nhập hoàn toàn với văn hóa nơi đây. Là cầu nối quan trọng giữa Nhân Tộc và Tinh Linh Tộc, y giúp hai bên hiểu nhau hơn. Gần đây nhận được thông điệp từ Vương Đình rằng Vĩnh Hằng Sâm Lâm đang bệnh — y lo lắng vì điều này liên quan trực tiếp đến Mộc Linh Trận Địa.

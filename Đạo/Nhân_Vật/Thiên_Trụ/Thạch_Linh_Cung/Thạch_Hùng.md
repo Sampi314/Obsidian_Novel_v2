@@ -122,19 +122,19 @@ Gã phối hợp với Sơn Thiết — Hộ Pháp thứ hai, Lai Cự Tộc —
 - **Thạch Linh Tâm Chú (石靈心咒):** Phiên bản "Thạch Tâm Bất Động" — tập trung ý chí, loại bỏ sợ hãi, duy trì trạng thái phòng thủ tuyệt đối.
 
 ## VI. QUAN HỆ
-
+- **Sơn Thiết** (Đồng minh): Hộ Pháp đồng liêu, Thạch Tộc, đối tác phòng thủ hoàn hảo
+- **Thạch Chùy** (Chủ tớ): Cung Chủ, người gã thề bảo vệ bằng mạng sống
+- **Thạch Tiểu Sơn** (Sư đồ): Đệ tử nhỏ mà gã dạy võ thuật cơ bản
+- **Sơn Vạn** (Đồng minh): Quân Trưởng Thạch Mạch, đồng nghiệp phòng thủ
+- **Hồ Vân** (Đồng minh): Đồng liêu cùng Thạch Linh Cung, hỗ trợ lẫn nhau
 - **Thạch Chùy (Cung Chủ):**
     - Gã thề bảo vệ Cung Chủ bằng mạng sống. Không phải vì mệnh lệnh — mà vì lòng biết ơn. Thạch Chùy là người duy nhất nhìn thấy giá trị của gã khi cả cung coi gã là đá vô dụng. "Ngươi không cần rèn kiếm. Ngươi chính là kiếm," Cung Chủ nói. Câu đó gã khắc lên tim đá.
-
 - **Sơn Thiết (Hộ Pháp Đồng Liêu):**
     - Hai Hộ Pháp, một Thạch Tộc một Lai Cự Tộc, phối hợp bảo vệ Thạch Linh Cung. Thạch Hùng tĩnh, Sơn Thiết động — cặp đôi hoàn hảo. Gã tôn trọng Sơn Thiết vì gã Lai Cự Tộc đó cũng coi bảo vệ là sứ mệnh.
-
 - **Thạch Tiểu Sơn (Đệ Tử Nhỏ):**
     - Gã lặng lẽ dạy Tiểu Sơn kỹ thuật phòng thủ cơ bản — cách đứng vững, cách chịu đòn, cách không sợ hãi. Phương pháp dạy rất đơn giản: gã ra đòn, Tiểu Sơn chặn; thất bại, làm lại; thành công, gật đầu.
-
 - **Sơn Vạn (Quân Trưởng Thạch Mạch):**
     - Phối hợp trong phòng thủ tổng thể — Sơn Vạn bảo vệ mỏ, Thạch Hùng bảo vệ lò rèn trung tâm. Hai gã gặp nhau mỗi tháng một lần để phối hợp kế hoạch, cuộc họp ngắn nhất Thạch Linh Cung: mười phút, không có lời thừa.
-
 ## VII. GIAI THOẠI
 
 > *"Ta không biết rèn kiếm. Nhưng ta biết đứng giữa kiếm và người ta bảo vệ. Đó là đủ."*

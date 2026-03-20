@@ -34,9 +34,14 @@ arcs:
 - **Chiến Đấu:** Khi bị ép vào đường cùng, San Huyền Thạch phóng ra đòn *Huyền Thạch Bạo Liệt* (玄石暴裂) — tích tụ toàn bộ linh lực vào lớp vỏ rồi tự nổ tung mảnh vỏ cứng như đạn ghém, xuyên thủng mục tiêu ở cự ly gần. Đòn tuyệt mệnh này gây thương tích nặng cho bản thân và cần thời gian dài tái tạo vỏ, nên hắn chỉ dùng khi vô phương khác.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **San Bạch Ngọc** (Sư đồ): San Bạch Ngọc chỉ dẫn San Huyền Thạch trong San Hô Vi Trùng
+- **San Hồng Ngọc** (Chủ tớ): Thủ hạ trung thành trong San Hô Vi Trùng
+- **San Hồng Ngọc** (Cấp dưới): Phục tùng San Hồng Ngọc, Tộc Trưởng của San Hô Vi Trùng
+- **San Kim Hoa** (Đồng minh): Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau
+- **San Lục Đảo** (Đồng minh): Đồng liêu cùng San Hô Vi Trùng, hỗ trợ lẫn nhau
+- **San Hải Yến Sào** (Sư đồ): San Hải Yến Sào chỉ dẫn San Huyền Thạch trong San Hô Vi Trùng
 - **San Bạch Ngọc:** Kiến trúc sư đáng kính nhất trong rạn san hô. San Huyền Thạch cung cấp vật liệu cổ cho nàng, nhưng đôi khi hai bên mâu thuẫn khi hắn khai thác quá sâu vào nền móng mà nàng dày công xây dựng.
 - **San Hải Yến Sào:** Trưởng lão mà hắn nể phục. San Hải Yến Sào thường phải đến sửa chữa những khu vực bị San Huyền Thạch vô tình phá hỏng trong lúc khai khoáng, nhưng không bao giờ trách mắng mà chỉ âm thầm phục hồi.
 - **San Hô Mẫu Trùng:** Tuân theo mệnh lệnh tổng thể, nhưng trong thâm tâm hắn thường tự ý hành động, đào sâu hơn phạm vi cho phép để thỏa mãn sự hiếu kỳ.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 San Huyền Thạch xuất thân từ một nhánh Vi Trùng chuyên sống trong các tầng san hô hóa thạch sâu nhất, nơi áp suất nước nghiền nát mọi sinh vật thông thường. Môi trường khắc nghiệt ấy rèn cho hắn lớp vỏ cứng cáp phi thường và tính cách gan lì vượt trội. Trong một lần khai khoáng, hắn tình cờ đào được một mảnh tinh thể thượng cổ phát ra linh khí khác thường, kích thích linh trí mở mang, cho phép hắn nhận thức được thế giới xung quanh rõ ràng hơn hẳn đồng loại. Từ đó, San Huyền Thạch không ngừng truy tìm thêm những tàn tích ẩn giấu trong rạn san hô, hy vọng giải mã ký ức tập thể từ thời thượng cổ. Mối lo lớn nhất hiện tại của hắn là Huyết Độc lan đến đang phá hủy các tầng san hô ngoại vi — nếu dòng độc xâm nhập tầng sâu, những hóa thạch linh quý giá sẽ bị ăn mòn vĩnh viễn.

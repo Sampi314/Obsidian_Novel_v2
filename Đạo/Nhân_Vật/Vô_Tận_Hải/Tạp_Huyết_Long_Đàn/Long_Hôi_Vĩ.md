@@ -32,7 +32,9 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Giao Hàn Băng** (Đồng minh): Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau
+- **Long Bạch Lân** (Đồng minh): Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau
+- **Xích Giác** (Đồng minh): Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau
+- **Long Thiết Trảo** (Đồng minh): Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

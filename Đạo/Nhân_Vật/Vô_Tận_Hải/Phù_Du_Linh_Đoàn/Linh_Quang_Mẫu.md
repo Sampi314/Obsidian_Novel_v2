@@ -34,9 +34,10 @@ arcs:
 - **Tuyệt kỹ:** **Thánh Quang Tụ Linh** (Tụ tập linh khí khắp vùng biển để tạo thành một lớp màn ánh sáng bảo vệ Quần Thể Ý Thức); **Phù Du Vẫn Lạc** (Giải phóng toàn bộ ánh sáng trong một khoảnh khắc rực rỡ nhất để xua đuổi kẻ thù trước khi tan biến và tái sinh từ một cá thể khác).
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Linh Bích Hải** (Hợp tác): Linh Bích Hải cung cấp ký ức định hướng.
+- **Linh Tiểu Quang** (Chủ tớ): Linh Quang Mẫu dẫn dắt Linh Tiểu Quang.
 - **Linh Bích Hải:** Là trung tâm lưu trữ ký ức cổ đại, Linh Bích Hải đóng vai trò như một kho tàng tri thức giúp Linh Quang Mẫu định hướng di chuyển.
 - **Linh Tiểu Quang:** Là những cá thể tiên phong bao bọc vòng ngoài, chịu sự dẫn dắt trực tiếp từ ánh sáng của Linh Quang Mẫu.
 - **Quần Thể Ý Thức:** Mối quan hệ máu thịt, Linh Quang Mẫu tồn tại nhờ sự quy tụ của quần thể và ngược lại, quần thể cần Linh Quang Mẫu để duy trì sự thống nhất.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Linh Quang Mẫu hiện tại không phải là cá thể đầu tiên, mà là sự kế thừa liên tục qua hàng vạn năm của Phù Du Linh Đoàn. Nó từng chứng kiến sự trỗi dậy và suy tàn của vô số hải thú khổng lồ trong vùng biển sâu. Trong thời gian gần đây, khi những biến động từ các tàn tích viễn cổ dưới đáy Vô Tận Hải làm nhiễu loạn các dòng hải lưu, Linh Quang Mẫu đang cố gắng tập hợp Quần Thể Ý Thức để dẫn dắt cả đoàn vượt qua vùng nước đang dần trở nên nguy hiểm, tìm kiếm một chốn bình yên mới.

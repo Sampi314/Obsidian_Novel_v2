@@ -156,6 +156,11 @@ arcs:
     - **Chấn thương tâm lý:** Vết sẹo tâm lý từ "Đêm Máu Đỏ" chưa bao giờ lành. Trong những đêm bão tuyết lớn, hắn đôi khi rơi vào trạng thái hoảng loạn ngắn — nghe thấy tiếng mẹ hát, ngửi thấy mùi máu, và mất kiểm soát trong vài hơi thở. Đây là bí mật hắn giấu kín nhất.
 
 ## VI. QUAN HỆ
+- **Phượng Kim Sí** (Chủ tớ): Tả Hộ Pháp, thượng cấp trực tiếp ra lệnh thanh trừng — hắn tuân lệnh nhưng không sợ
+- **Quạ Hắc Cánh** (Cấp dưới): Thuộc hạ trung thành nhất, kẻ hắn tự tay huấn luyện từ đứa trẻ mồ côi
+- **Cú Tĩnh Vũ** (Gia tộc): Mưu sĩ cung cấp danh sách mục tiêu — hắn coi Tĩnh Vũ là con rắn nguy hiểm nhưng cần thiết
+- **Bằng Vạn Lý** (Đồng minh): Tiên Phong Tướng, kẻ chiến đấu ngoài sáng — hắn coi thường lối đánh vũ phu của Vạn Lý
+- **Ưng Liệt Phong** (Đồng minh): Chiến tướng đồng cấp, từng phối hợp trong nhiều chiến dịch — quan hệ tôn trọng nhưng lạnh nhạt
 - **Quạ Hắc Cánh — Thuộc Hạ & "Đứa Nhóc":**
     - Mối quan hệ gần gũi nhất của hắn. Hắn không bao giờ nói ra, nhưng Hắc Cánh là thứ gần nhất với "gia đình" mà hắn có sau khi tộc bị diệt. Hắn huấn luyện Hắc Cánh tàn nhẫn không phải vì thù ghét mà vì biết rằng thế giới này tàn nhẫn hơn — nếu hắn không rèn đứa nhóc đủ cứng, nó sẽ chết. Khi Hắc Cánh bị thương, hắn là người duy nhất đích thân kiểm tra — dù mặt vẫn lạnh tanh.
     - Bí mật: hắn đã viết sẵn một bức thư cất trong hộp xương dưới chỗ ngủ, nội dung là dặn dò Hắc Cánh cách sống sót nếu hắn chết. Hắn cập nhật bức thư mỗi năm — thay đổi theo tình hình chính trị của thần điện.
@@ -167,7 +172,6 @@ arcs:
     - Hắn coi thường Vạn Lý — kẻ chiến đấu bằng sức mạnh vũ phu, ồn ào, phô trương, đối lập hoàn toàn với nghệ thuật ám sát. Tuy nhiên, hắn thừa nhận rằng khi cần người hút sự chú ý để hắn ra tay trong bóng tối, Vạn Lý là lựa chọn hoàn hảo. Hai người đã phối hợp trong nhiều chiến dịch, nhưng chưa bao giờ trao đổi quá mười câu ngoài nhiệm vụ.
 - **Gia Tộc Huyết Nha Quạ — Người Đã Mất:**
     - Hắn không lập bàn thờ, không cúng giỗ, không mang tang — nhưng mỗi năm vào đêm kỷ niệm "Đêm Máu Đỏ," hắn sẽ bay một mình đến phế tích của tộc, ngồi giữa đống đổ nát phủ tuyết, và rạch một vết trên cánh tay — để máu nhỏ xuống nền đất nơi hầm giấu đã cứu mạng hắn. Hắn không nói gì. Không khóc. Chỉ ngồi đó đến khi máu đông, rồi bay về.
-
 ## VII. GIAI THOẠI
 > *"Nếu ngươi nhìn thấy trăng đỏ trên bầu trời Bắc Băng, hãy cầu nguyện rằng Hồng Nguyệt không đến vì ngươi. Bởi nếu hắn đến, ngươi sẽ không kịp cầu nguyện lần thứ hai."*
 > — Lời cảnh báo truyền miệng trong giới tán tu Bắc Băng.

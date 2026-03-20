@@ -124,6 +124,7 @@ arcs:
     - Bạo Phong là mọi thứ hắn muốn trở thành — mạnh mẽ, dũng cảm, được tôn trọng, từ kẻ bị bỏ rơi leo lên Tiền Phong Tướng. Hắn luyện tập điên cuồng mỗi ngày để vượt qua Bạo Phong — dù biết khoảng cách còn rất xa. Mỗi khi thấy Bạo Phong xung trận, mắt hắn sáng rực — không phải ghen tị mà là cháy bỏng khao khát.
 - **Lang Cương — Đối Thủ & Đồng Minh:**
     - Hai sói trẻ cùng trang lứa, cùng nóng nảy, cùng muốn chứng minh bản thân — nhưng Cương có xuất thân Vương, hắn thì không. Họ hay cãi nhau, hay đánh nhau trên thao trường — nhưng trên chiến trường, hai kẻ cuồng chiến lại phối hợp ăn ý một cách kỳ lạ, vì cả hai đều lao lên phía trước mà không cần bàn.
+- **Lang Hàn Thiên Nộ** (Đồng minh): Đại Tướng Quân, người đã phái hắn đến Thiết Nha để học kỷ luật
 
 ## VII. GIAI THOẠI
 > *"Sói Điên cắn chết con Tuyết Giáp Lang bằng nanh khi mới mười lăm tuổi. Mười lăm tuổi! Lúc đó ta còn đang tập hú!"*

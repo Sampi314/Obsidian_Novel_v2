@@ -32,9 +32,13 @@ Lê Vân Sơn là một trung niên nghiêm nghị, mắt sắc, tóc đen bạc
 Là Trưởng Lão cảnh giới Nguyên Anh Hậu Kỳ, Lê Vân Sơn tu luyện "Vân Sơn Bất Động Kiếm" (云山不动剑) — kiếm pháp phòng ngự vững chắc như núi, khiến đối phương không thể phá. Tuyệt kỹ "Sơn Vân Hộ Thể" (山云护体) tạo lớp kiếm khí bảo vệ toàn diện. Điểm mạnh là phòng ngự kiếm đạo vô song, nhược điểm là tấn công thiếu sát thương.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Đặng Vân Hải:** Hộ Pháp đồng quan điểm thực chiến, bạn chiến đấu.
-- **Trần Thiên Vân:** Đồng liêu Trưởng Lão, hay tranh luận về chiến lược.
-- **Lý Vân Thiên:** Tông Chủ, hắn tôn trọng nhưng thẳng thắn can gián.
-
+- **Lý Vân Thiên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vân Tông
+- **Lý Vân Thiên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Vân Thiên
+- **Phạm Hạo Nhiên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vân Tông
+- **Phạm Vân Kiếm** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vân Tông
+- **Hoàng Tiểu Vân** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vân Tông
+- **Nguyễn Thiên Kiếm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vân Tông
+- **Đặng Vân Hải** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vân Tông
+- **Trần Thiên Vân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vân Tông
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lê Vân Sơn gia nhập Vân Tông từ thuở niên thiếu, trải qua nhiều trận chiến bảo vệ biên giới tông môn. Hắn phát triển kiếm pháp phòng ngự sau khi chứng kiến đồng môn hy sinh vì thiếu phương thức tự bảo vệ. Sự kiện nổi tiếng nhất là đứng vững suốt bảy ngày chặn cổng tông môn khi ma tu tấn công. Hiện tại, hắn đang huấn luyện lực lượng phòng thủ cho Vân Tông.

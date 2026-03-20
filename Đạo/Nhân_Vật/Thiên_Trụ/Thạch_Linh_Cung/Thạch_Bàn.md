@@ -111,16 +111,16 @@ Từ đó, Thạch Bàn chuyên tâm vào phục hồi cổ vật — lĩnh vự
 - **Thiên Hỏa Luyện Kim (天火煉金):** Mức trung bình — gã dùng lửa nhỏ, kiểm soát chính xác, để hàn nối các mảnh vỡ mà không làm hư phần nguyên vẹn.
 
 ## VI. QUAN HỆ
-
+- **Mã Thiết Sơn** (Đồng minh): Đệ Lục Hỏa Sư, bạn đồng nghiệp hay nhờ gã khiêng cổ vật
+- **Thạch Nham** (Gia tộc): Đệ Tứ Hỏa Sư, sư huynh dìu dắt, người cung cấp quặng phục hồi
+- **Thạch Chùy** (Sư đồ): Cung Chủ, người truyền cảm hứng phục hồi cổ vật
+- **Hồ Vân** (Đồng minh): Đồng liêu cùng Thạch Linh Cung, hỗ trợ lẫn nhau
 - **Thạch Nham (Sư Huynh):**
     - Nham cung cấp quặng phù hợp cho mỗi dự án phục hồi — và không ai chọn quặng tốt hơn Nham. Hai gã có mối quan hệ "im lặng nhưng hiệu quả" — Bàn nói nhiều, Nham im lặng, nhưng cả hai đều hiểu nhau qua công việc.
-
 - **Thạch Chùy (Cung Chủ):**
     - Thạch Chùy coi trọng công việc phục hồi vì nó phù hợp với triết lý "tôn trọng linh hồn vũ khí." Lão từng giao cho Bàn phục hồi một thanh kiếm cổ từ thời khai cung — và khi Bàn hoàn thành, thanh kiếm phát ra âm vang nhẹ, như thể đang cảm ơn.
-
 - **Mã Thiết Sơn (Đệ Bát Hỏa Sư):**
     - Gã Lai Cự Tộc to lớn này thường xuyên giúp Bàn khiêng các cổ vật nặng — một số chiến giáp cổ đại nặng đến mức chỉ Lai Cự Tộc mới nhấc nổi. Hai gã hợp tác thường xuyên và có mối quan hệ bạn bè thoải mái.
-
 ## VII. GIAI THOẠI
 
 > *"Ngươi bảo nó vỡ rồi à? Ta thấy nó chỉ đang nghỉ ngơi giữa hai cuộc đời thôi."*

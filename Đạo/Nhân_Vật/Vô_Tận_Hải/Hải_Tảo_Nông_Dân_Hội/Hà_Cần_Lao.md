@@ -32,9 +32,12 @@ Một tộc nhân thuộc chi Tôm với thân hình săn chắc, đôi càng li
 Chuyên tu về phong hệ hỗ trợ tốc độ lao động và kỹ thuật thu hoạch linh lực. Tuyệt kỹ "Cần Lao Thu Hoạch" (勤劳收获) cho phép hắn điều khiển đôi càng với tốc độ kinh hồn, cắt tỉa và thu gom tảo linh với năng suất gấp ba lần một nông dân thông thường mà vẫn đảm bảo được chất lượng tốt nhất. Điểm mạnh là khả năng làm việc bền bỉ và kỹ năng thu hoạch điêu luyện, nhưng điểm yếu là phong cách chiến đấu quá đơn điệu, hầu như chỉ biết dùng kỹ năng lao động để phản kháng.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Giải Nông Phu** (Đồng minh): Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau
+- **Ngư Phì Ông** (Đồng minh): Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau
+- **Hà Kim Thiên Lân** (Đồng minh): Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau
+- **Hà Thanh Thiên Tảo** (Đồng minh): Đồng liêu cùng Hải Tảo Nông Dân Hội, hỗ trợ lẫn nhau
 - **Ngư Phì Ông:** Vị hội trưởng mà hắn hết sức kính trọng và là người duy nhất hắn hoàn toàn tuân lệnh.
 - **Hà Thanh Thiên Tảo:** Người cộng sự thân thiết, hắn thường trực tiếp thực hiện các thử nghiệm thực địa cho những giống tảo mới do Thanh Thiên Tảo phát triển.
 - **Giải Nông Phu:** Người huynh đệ thân thiết, cả hai thường phối hợp để hoàn thành các đợt thu hoạch khẩn cấp trước khi mùa bão đến.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hà Cần Lao sinh ra trong một gia đình tá điền nghèo khó, từ nhỏ đã phải lao động quần quật trên các cánh đồng tảo để trả nợ cho địa chủ. Sự gian khổ đã rèn luyện cho hắn một ý chí sắt đá và một đôi tay khéo léo vô song. Sau khi Ngư Phì Ông thành lập hội, hắn là một trong những thành viên đầu tiên gia nhập và nhanh chóng trở thành tấm gương sáng về tinh thần lao động. Hắn đã dành toàn bộ thanh xuân để cải thiện quy trình thu hoạch, giúp giảm thiểu sức lao động cho các thành viên già yếu trong hội. Hiện tại, ước mơ lớn nhất của Hà Cần Lao là một ngày nào đó Hải Tảo Nông Dân Hội sẽ có được mảnh đất canh tác riêng mà không còn phải chịu sự áp bức thuế khóa từ Hải Thần Cung.

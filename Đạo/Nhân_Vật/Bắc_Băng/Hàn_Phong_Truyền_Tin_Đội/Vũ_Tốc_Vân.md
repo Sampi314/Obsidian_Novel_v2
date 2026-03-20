@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Vũ Khinh Hồng** (Thuộc hạ): Phục tùng Vũ Tốc Vân, Đội Trưởng của Hàn Phong Truyền Tin Đội
+- **Vũ Phiêu Linh** (Thuộc hạ): Phục tùng Vũ Tốc Vân, Đội Trưởng của Hàn Phong Truyền Tin Đội
+- **Vũ Tật Phong** (Thuộc hạ): Phục tùng Vũ Tốc Vân, Đội Trưởng của Hàn Phong Truyền Tin Đội
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

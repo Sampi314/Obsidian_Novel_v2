@@ -32,8 +32,10 @@ Trần Ưng Phi là trung niên thân hình nhỏ nhưng nhanh nhẹn, mắt sá
 Trần Ưng Phi tinh thông Linh Ca Khúc Pháp (靈歌曲法) — dùng âm nhạc chữa lành cho linh cầm bị thương và điều khiển cảm xúc của loài chim. Sáo pháp của y có thể ru ngủ linh thú hung dữ hoặc kích thích linh điểu tấn công. Kỹ thuật đặc biệt: Thiên Thanh Cộng Hưởng (天聲共鳴) — kết nối tâm thức với mọi linh điểu trong phạm vi.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Cầm Tiên:** Viện Trưởng, người dẫn dắt y trong nghiên cứu âm nhạc.
-- **Phạm Phượng Ca:** Đồng liêu Trưởng Lão, hay tranh luận về phương pháp huấn luyện.
-
+- **Lý Cầm Tiên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tiên Cầm Viện
+- **Lý Cầm Tiên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Cầm Tiên
+- **Ưng Tiểu Phi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tiên Cầm Viện
+- **Vũ Hạc Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tiên Cầm Viện
+- **Phạm Phượng Ca** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tiên Cầm Viện
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trần Ưng Phi gia nhập Tiên Cầm Viện vì đam mê âm nhạc và loài chim. Trải qua hàng trăm năm nghiên cứu, y phát triển hệ thống âm nhạc trị liệu cho linh cầm, cứu được hàng ngàn con chim bị thương. Đang nghiên cứu bài hát cổ xưa có thể triệu hồi Phượng Hoàng Tàn Hồn — nếu thành công sẽ là bước ngoặt lớn cho Viện.

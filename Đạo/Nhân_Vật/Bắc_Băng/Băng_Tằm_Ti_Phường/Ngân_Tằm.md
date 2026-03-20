@@ -142,6 +142,8 @@ arcs:
     - Tuyết Ti thừa hưởng tài dệt nhưng không thừa hưởng tính kiên nhẫn. Nàng nóng nảy, bốc đồng, hay tự ý ra ngoài hang — những thứ khiến lão mất ngủ. Lão thương cháu gái nhưng không biết cách thể hiện ngoài sự nghiêm khắc, khiến quan hệ hai người đôi khi căng thẳng. Tuyết Ti hay nói: *"Ông nội chỉ biết quát."* Lão nghe, im lặng, rồi đi tuần tra — nhưng tuyến tuần tra luôn đi ngang qua nơi cháu gái hay chơi.
 - **Huyền Băng Cung — Kẻ Thù Phải Giết:**
     - Khác với Ngọc Ti coi Huyền Băng Cung là đối thủ thương mại, Ngân Tằm coi chúng là kẻ thù tuyệt đối. Lão biết chúng đang theo dõi phường, biết chúng muốn chiếm hang tằm, và lão chỉ chờ cơ hội để ra tay trước. Ngọc Ti luôn phải kìm lão: *"Lão Ngân, đánh Huyền Băng Cung thì phường ta cũng tan."* Lão đáp: *"Thà tan mà sống tự do, còn hơn nguyên mà làm nô lệ."*
+- **Tằm Ngân Ti** (Đồng minh): Trưởng Lão quân sự, cấp trên trực tiếp về mặt phòng thủ
+- **Tằm Thiên Trùng** (Đồng minh): Trưởng Lão quân sự, đối tác phòng thủ ba tầng
 
 ## VII. GIAI THOẠI
 > *"Ngân Tằm lão trùng, nanh bạc nghiến sắt, tơ bạc bẻ kiếm. Ai bảo tằm hiền, hãy đến hỏi đàn Băng Giáp Cuồng Phong — à, chúng chết hết rồi, không hỏi được."*

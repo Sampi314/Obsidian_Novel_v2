@@ -147,6 +147,7 @@ arcs:
     - Hai người hay phối hợp tuần tra vùng biển — Ngọc Châu lặn sâu khai thác ngọc trai, Thanh Nguyệt tuần tra mặt nước bảo vệ. Họ làm việc ăn ý trong im lặng, giao tiếp bằng tín hiệu dưới nước mà hai người tự phát triển. Thanh Nguyệt tôn trọng sự dũng cảm của Ngọc Châu — lặn xuống vùng nước tối đen lạnh buốt mỗi ngày đòi hỏi một loại can đảm khác với chiến đấu. Hắn lặng lẽ bảo vệ Ngọc Châu mỗi lần cô ta lặn, dù cô ta không yêu cầu.
 - **Hồ Ẩn Phong (Đồng Liêu — Đối Tác An Ninh):**
     - Cặp đôi phối hợp ăn ý nhất trong hệ thống an ninh của tộc — Ẩn Phong là "tai," Thanh Nguyệt là "nanh vuốt." Ẩn Phong phát hiện, Thanh Nguyệt xử lý. Hai người ít nói chuyện cá nhân, nhưng có sự tin tưởng nghề nghiệp tuyệt đối. Thanh Nguyệt đánh giá Ẩn Phong là tộc nhân quan trọng nhất trong hệ thống phòng thủ — vì nếu không có đôi tai của Ẩn Phong, nhiều mối đe dọa đã không được phát hiện kịp thời.
+- **Giao Băng Nguyệt** (Đồng minh): Bạch hồ tinh từng đến hồ băng ngắm trăng, hai bên trao đổi vài lời rồi im lặng ngắm trăng suốt đêm
 
 ## VII. GIAI THOẠI
 > *"Đao này, mạng này, thuộc về tộc."*

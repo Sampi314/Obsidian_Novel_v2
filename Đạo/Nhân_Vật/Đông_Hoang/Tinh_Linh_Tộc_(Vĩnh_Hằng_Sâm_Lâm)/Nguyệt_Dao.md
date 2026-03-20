@@ -96,6 +96,12 @@ arcs:
   - **[Diệp Thanh Y](../Nhân_Vật/Diệp_Thanh_Y.md) (Dược Vương Cốc):** Đối tác bất đắc dĩ, sau này trở thành tri kỷ vì cùng chung tấm lòng y đức cứu thế.
   - **[Độc Cô Lão Quái](../Nhân_Vật/Độc_Cô_Lão_Quái.md) (Vạn Độc Môn):** Kẻ thù không đội trời chung.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Lục Tiêu** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tinh Linh Tộc (Vĩnh Hằng Sâm Lâm)
+- **Lục Tiêu** (Đồng minh): Queen/mother figure
+- **Diệp Thanh Y** (Đồng minh): Đồng minh bất đắc dĩ, sau thành tri kỷ
+- **Độc Cô Lão Quái** (Kẻ thù): Kẻ thù không đội trời chung
+
 ## V. CÂU NÓI TIÊU BIỂU
 > *"Nếu ánh trăng đêm nay là lần cuối cùng ta nhìn thấy, nguyện nó sẽ soi đường cho tộc nhân ta thoát khỏi bóng tối vĩnh hằng."*
 

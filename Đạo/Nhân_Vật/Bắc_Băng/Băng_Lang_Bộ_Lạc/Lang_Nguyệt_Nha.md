@@ -145,6 +145,8 @@ arcs:
     - Nguyệt Nha dạy con gái mọi thứ bà biết — chính trị, ngoại giao, quản lý, đọc người. Bà không nói thẳng rằng đang đào tạo Tĩnh Nguyệt làm lãnh đạo — bà chỉ "tình cờ" cho con gái tham gia Tuyết Hội, "tình cờ" cho con gái đọc báo cáo nội chính, "tình cờ" cho con gái xử lý một vài tranh chấp nhỏ. Kết quả: Tĩnh Nguyệt ở tuổi chưa đến trăm đã có tầm nhìn chính trị hơn nhiều trưởng lão già.
 - **Lang Thiên Hàn Dạ — Đồng Minh Chính Trị:**
     - Pháp sư bộ lạc là đồng minh quan trọng nhất của Nguyệt Nha trong Hội Đồng — cả hai chia sẻ tầm nhìn rằng bộ lạc cần cải cách luật cổ để tồn tại trong thế giới đang thay đổi. Nguyệt Nha cung cấp chiến lược chính trị, Thiên Hàn Dạ cung cấp uy tín tâm linh — sự kết hợp khiến phe bảo thủ ngày càng mất ảnh hưởng.
+- **Lang Hàn Nha** (Đồng minh): Nữ chiến binh bị trục xuất mà bà không cứu được, nỗi day dứt thầm lặng
+- **Lang Thiết Nha** (Chủ nhân): Vương Phi, người hắn lặng lẽ bảo vệ như bảo vệ Hang Lang Thần
 
 ## VII. GIAI THOẠI
 > *"Tuyết Vương chém kẻ thù bằng nanh. Nguyệt Nha chém kẻ thù bằng một nụ cười và ba câu nói. Cả hai đều chết, nhưng kẻ bị Nguyệt Nha chém thường không biết mình đã chết cho đến ngày hôm sau."*

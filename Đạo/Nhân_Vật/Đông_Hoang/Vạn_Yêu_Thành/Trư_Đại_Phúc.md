@@ -32,9 +32,13 @@ Trư Đại Phúc mang nhân hình một ông già bụng phệ tròn trĩnh, kh
 Đạt cảnh giới Trúc Cơ Viên Mãn, Trư Đại Phúc tu luyện "Linh Trù Bách Vị Quyết" (靈厨百味诀) — chế biến thức ăn có chứa linh lực, từ hồi phục thương tích, tăng cường sức mạnh tạm thời đến giải độc. Tuyệt kỹ "Thiên Hương Mê Hồn Phạn" (天香迷魂饭) nấu ra món ăn thơm đến mức mọi sinh vật trong phạm vi trăm trượng đều bị thu hút, mất cảnh giác. Điểm mạnh là nấu ăn chữa thương và hỗ trợ đội nhóm, nhược điểm là hoàn toàn không có khả năng chiến đấu trực tiếp.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hồ Diễm Nương:** Tửu Lâu Chủ, bà chủ mà lão phục vụ, hai người là đối tác hoàn hảo — nàng bán rượu, lão nấu ăn.
-- **Xà Bạch Lân:** Thỉnh thoảng trao đổi nguyên liệu, ranh giới giữa ẩm thực và độc học rất mỏng trong tay hai người.
-- **Hồ Thất Cửu:** Thành Chủ, khách quen ưa thích nhất, lão biết rõ khẩu vị và cả bí mật của Thất Cửu qua những bữa ăn riêng.
-
+- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Xà Bạch Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Nha Thiên Mục** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Thử Thiên Đạo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Viên Thiên Lý Nhãn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Điêu Hương Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hồ Tiểu Vũ Nguyệt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trư Đại Phúc vốn là đầu bếp hoàng cung của một vương quốc yêu tộc nhỏ, nổi tiếng với tài nấu ăn thần sầu — bất kỳ nguyên liệu tầm thường nào qua tay lão cũng biến thành mỹ vị. Khi vương quốc sụp đổ, lão lang thang nấu ăn đổi lấy chỗ ngủ, đến Vạn Yêu Thành theo lời mời của Hồ Diễm Nương mở bếp cho Túy Yêu Lâu. Bếp ăn của lão trở thành nơi mọi người lui tới — từ Thành Chủ đến lính gác đều ghé ăn, và lão lắng nghe tất cả. Hiện tại, lão đang nắm giữ nhiều bí mật nguy hiểm từ những cuộc trò chuyện trong bếp, nhưng không bán cho ai mà giữ như bảo hiểm nhân thọ — nếu ai dám hại lão, bí mật sẽ bị phát tán.

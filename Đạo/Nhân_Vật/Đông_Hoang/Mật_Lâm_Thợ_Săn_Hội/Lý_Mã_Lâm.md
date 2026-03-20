@@ -32,8 +32,9 @@ Vẻ ngoài khắc khổ với dáng người gầy gò nhưng tinh thần mạn
 Tinh thông công pháp trấn phái của Mật Lâm Thợ Săn Hội, đạt cảnh giới đại thành. Tuyệt chiêu 李馬林·Chấn Phái Quyết (李馬林·鎮派訣) phát huy toàn bộ sức mạnh đặc trưng của thế lực. Là cường giả toàn diện nhưng gánh nặng lãnh đạo khiến thời gian tu luyện bị hạn chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Phạm Tiểu Liệp:** Thợ Săn, đồng liêu quan trọng nhất trong Mật Lâm Thợ Săn Hội.
-- **Trần Sơn Cung:** Phó Hội Trưởng, đối tác thường xuyên phối hợp.
-
+- **Trần Sơn Cung** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Mật Lâm Thợ Săn Hội
+- **Phạm Tiểu Liệp** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Mật Lâm Thợ Săn Hội
+- **Trần Sơn Cung** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mã Lâm
+- **Phạm Tiểu Liệp** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Mã Lâm
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Mã Lâm sinh ra trong một gia đình Nhân Tộc bình thường, sớm thể hiện tư chất phù hợp với Mật Lâm Thợ Săn Hội. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Mật Lâm Thợ Săn Hội và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Hội Trưởng.

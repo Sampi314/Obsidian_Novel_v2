@@ -35,9 +35,15 @@ Dù tuổi cao, sức mạnh của Giao Băng Ngọc Tâm nằm ở bề dày ki
 Điểm yếu của bà là thể lực suy giảm, không phù hợp cho các trận chiến kéo dài hay tiêu hao sinh lực.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lệ Cơ:** Là người dìu dắt và cố vấn cho vị Minh Chủ trẻ tuổi, bà luôn nhắc nhở Lệ Cơ không được đánh mất bản ngã của Giao Nhân vì quyền lực.
-- **Giao Bích Hải:** Rất yêu mến sự kiên cường của Bích Hải, bà thường kể cho nàng nghe về những bí mật kiến trúc của Thành phố Thủy Tinh.
-- **Giao Bạch Lệ Hoa:** Thường xảy ra bất đồng về mặt tư tưởng. Ngọc Tâm thiên về bảo tồn truyền thống, trong khi Lệ Hoa có thiên hướng thực dụng và sử dụng thủ đoạn.
-
+- **Giao Thiên Hải** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Tộc Liên Minh
+- **Giao Thiên Hải** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Thiên Hải
+- **Giao Lam Thiên** (Thuộc hạ): Trưởng Lão chỉ huy Canh Gác
+- **Giao Thiên Sương** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Giao Nhân Tộc Liên Minh
+- **Giao Tiểu Nguyệt** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Giao Nhân Tộc Liên Minh
+- **Giao Nguyệt Lệ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Bạch Lệ Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Hàn Ngọc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Huyết Lệ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Hàn Phong Nguyệt** (Đồng minh): Trưởng Lão và Huấn Luyện Sư, đào tạo thế hệ mới
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Giao Băng Ngọc Tâm sinh ra vào cuối kỷ nguyên tự do của Giao Nhân, trước khi Long Cung trỗi dậy thống trị và áp đặt sưu cao thuế nặng. Bà từng là một thiếu nữ mang mộng du ngoạn thế gian, nhưng sau khi chứng kiến những cuộc tàn sát đẫm máu từ các phe phái săn trộm, bà đã lui về ở ẩn và cống hiến đời mình cho Vân Khâu Viện. Hơn tám trăm năm trôi qua, bà đã tự tay chôn cất biết bao thế hệ đi trước. Giờ đây, thân mang trọng trách Trưởng Lão, bà được coi là bộ từ điển sống của liên minh. Khát vọng cuối cùng trước khi nhắm mắt của bà là được một lần nữa nhìn thấy thế hệ trẻ Giao Nhân tự do vẫy vùng dưới bầu trời trong xanh, không bị ràng buộc bởi bất cứ gông cùm nào.

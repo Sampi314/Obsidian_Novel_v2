@@ -115,6 +115,9 @@ Ba tháng trước, khi Hùng Từ Bi mang con Hỏa Lân về và gọi riêng 
     - Bẩm sinh. Đôi mắt lẻ đôi của Hoa Miêu có khả năng nhìn rõ trong bóng tối gần như tuyệt đối. Ứng dụng: thu hái dược liệu ban đêm (nhiều loại thảo dược chỉ phát ra mùi đặc trưng vào ban đêm), kiểm tra bệnh nhân ban đêm không cần đèn, và phát hiện thay đổi nhỏ trong màu sắc vết thương mà mắt thường bỏ sót.
 
 ## VI. QUAN HỆ
+- **Hùng Từ Bi** (Đồng minh): Dược sư tài năng nhưng lười biếng, đứa nhỏ cần ai đó thúc đẩy
+- **Hổ Thiết Chưởng** (Đồng minh): Dược sư, người luôn chữa vết thương cho mình dù miệng cằn nhằn
+- **Yến Thanh** (Đồng minh): Phó Đoàn, bạn thân, con yến hay la mắng nhưng lén để thuốc bồi bổ cho mình
 - **Hùng Từ Bi (熊慈悲):**
     - Đoàn Trưởng, người cưu mang, lão gấu duy nhất chịu được tính lười của nàng. Miêu Nhược Nhược biết ơn Hùng Từ Bi sâu sắc — nhưng theo kiểu mèo: không bao giờ nói ra, không bao giờ thể hiện trực tiếp. Nàng trả ơn bằng cách bào chế thuốc tốt nhất có thể, bằng cách lén trộn dược liệu bồi bổ vào thức ăn của gã, bằng cách thức trắng đêm chữa trị linh thú nguy kịch mà sáng hôm sau vẫn giả bộ ngáp dài "mệt quá, ngủ tiếp." Nàng cũng là người duy nhất nhận ra Hùng Từ Bi đang già — không phải già tuổi, mà già vì mang nặng quá nhiều. Nàng lén pha thuốc dưỡng thần vào trà tối của gã mà không nói, vì nàng biết gã sẽ từ chối: "Để dành cho bệnh nhân."
 - **Yến Thanh (燕清):**
@@ -123,7 +126,6 @@ Ba tháng trước, khi Hùng Từ Bi mang con Hỏa Lân về và gọi riêng 
     - Đồng đội cứu hộ, khách hàng thường xuyên. Hổ Thiết Chưởng hay bị thương khi cứu hộ — gã dùng sức quá mạnh, hoặc để linh thú hoang cào cắn mà không chống trả — nên thường xuyên mang vết thương về cho nàng chữa. Nàng vừa chữa vừa cằn nhằn: "Lần sau nhẹ tay. Mày tưởng ta thích băng bó cho mày à." Nhưng nàng luôn giữ sẵn một lọ thuốc xoa riêng cho gã — loại mạnh hơn bình thường, vì da hổ dày hơn da thú khác. Nàng hơi ngại gã: bản năng mèo sợ hổ, dù lý trí biết gã hổ này hiền hơn con thỏ.
 - **Hỏa Lân (bệnh nhân bí mật):**
     - Ca bệnh thú vị nhất đời. Nàng dành ba tháng qua nghiên cứu sinh lý Hỏa Lân, thử nghiệm đủ phương pháp chữa trị — phần lớn thất bại vì nhiệt lượng cơ thể Hỏa Lân đốt cháy mọi dược liệu thông thường. Nhưng mỗi lần thất bại, nàng lại học thêm một điều mới. Nàng bắt đầu hiểu: Hỏa Lân không cần thuốc thông thường, nó cần thứ gì đó chịu được nhiệt và có thể điều hòa lửa từ bên trong. Nàng đang thử nghiệm kết hợp nước suối linh mạch với khoáng chất nham thạch — và có dấu hiệu tiến triển. Sự tò mò với ca bệnh này đôi khi lấn át cả nỗi sợ bị phát hiện.
-
 ## VII. GIAI THOẠI
 
 > *"Thuốc chữa bách bệnh ở khắp nơi. Dưới gốc cây có thuốc, trong nọc rắn có thuốc, ngay cả trong đống phân chuột cũng có thuốc. Vấn đề là mi có chịu cúi xuống ngửi không."*

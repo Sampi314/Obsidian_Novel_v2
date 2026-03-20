@@ -32,8 +32,8 @@ Sơn Tiểu Nham là Cự Tộc nhỏ nhất Đoàn, chỉ cao tám mét, thân 
 Sơn Tiểu Nham tu vi thấp nhưng bắt đầu thể hiện khả năng bất thường — Thạch Cảm Thuật (石感術) — có thể cảm nhận khoáng vật và linh thạch trong đất đá ở khoảng cách xa. Đây là năng lực mà tổ tiên Cự Tộc không có, có thể là dấu hiệu đột biến tiến hóa. Không có kỹ năng chiến đấu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nham Tiểu Sơn:** Đoàn Trưởng mà y coi như anh cả.
-- **Thạch Tiểu Lực:** Phó Đoàn hay cõng y đi chơi, coi như chị gái.
-
+- **Nham Tiểu Sơn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tiểu Cự Nhân Đoàn
+- **Nham Tiểu Sơn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nham Tiểu Sơn
+- **Thạch Tiểu Lực** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tiểu Cự Nhân Đoàn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sơn Tiểu Nham là Cự Tộc thế hệ mới nhất, sinh ra đã nhỏ nhất từ trước đến nay. Thay vì bi quan, y tò mò với kích thước nhỏ của mình — có thể vào được những nơi Cự Tộc bình thường không thể. Gần đây phát hiện khả năng cảm nhận khoáng vật — thiên phú chưa từng có trong lịch sử Cự Tộc. Nham Tiểu Sơn tin rằng y là bằng chứng sống cho giả thuyết tiến hóa.

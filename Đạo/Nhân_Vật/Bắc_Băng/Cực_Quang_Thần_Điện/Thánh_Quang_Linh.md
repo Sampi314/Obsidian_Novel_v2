@@ -145,6 +145,7 @@ arcs:
     - Y coi Quang Ảnh Tử là "bóng tối cần thiết" — thừa nhận Thần Điện cần mật thám nhưng khinh thường con người sống trong bóng tối. Y thường xuyên ám chỉ trong bài giảng rằng "những kẻ quen thuộc với bóng tối cuối cùng sẽ bị bóng tối nuốt chửng," khiến Quang Ảnh Tử bất mãn.
 - **Cực Quang Đồng Tử (Thị Vệ Thánh Nữ — Ghen Tị):**
     - Y ghen tị với đứa trẻ được Thánh Nữ yêu thương — vì y phụng sự nàng cả đời mà chưa bao giờ nhận được ánh mắt dịu dàng, trong khi Đồng Tử chỉ cần đứng bên cạnh là đủ. Y cố giấu sự ghen tị này nhưng nó lộ ra qua thái độ lạnh nhạt với Đồng Tử, đôi khi dùng lời lẽ chua chát khi nhắc đến cậu bé trong các cuộc họp.
+- **Quang Hàn Chấp Sự** (Đồng minh): Đại Linh Mục, y ngầm phản đối phương pháp cực đoan nhưng không dám nói thẳng
 
 ## VII. GIAI THOẠI
 > *"Ánh sáng không cần lý do. Bóng tối mới cần lý do tồn tại — và ta sẽ lấy đi mọi lý do ấy."*

@@ -175,6 +175,8 @@ arcs:
 
 - **Gia Tộc Mất Tích — Hàn Nguyệt Đường (Bí Mật):**
     - Bí mật lớn nhất — mà chính y cũng không biết: hình xăm vầng trăng khuyết trên cánh tay y khớp với ký hiệu của Hàn Nguyệt Đường — gia tộc sát thủ đã bị diệt. Nếu một ngày y nhận ra điều này, hoặc gặp được người liên quan đến gia tộc cũ, ký ức bị phong ấn có thể vỡ tung — và y sẽ phải đối mặt với câu hỏi: y từng là ai, y đã mất gì, và liệu y có muốn nhớ lại tất cả khi "nhớ" đồng nghĩa với "đau."
+- **Hắc Giáp Thống Lĩnh** (Kẻ thù): Kẻ cai quản nhà tù, y không hận nhưng cũng không tha — sẽ giết nếu có cơ hội
+- **Giao Băng Nguyệt** (Đồng minh): Kẻ đào vong từ Băng Ngục Thành từng lạc đến hồ băng của nàng, được nàng che giấu ba đêm
 
 ## VII. GIAI THOẠI
 > *"Nó ở đây. Nó ở đâu cũng không ai biết. Nhưng khi có người chết mà không ai thấy — đó là nó."*

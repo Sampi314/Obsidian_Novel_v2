@@ -32,9 +32,9 @@ Trung niên nam tử dáng người thấp đậm, tay chai sạn, luôn mang th
 Tu luyện Bách Công Diệu Thuật, chuyên về xây dựng và gia cố công trình bằng linh lực. Có thể dùng Địa Mạch Thuật đo đạc và điều chỉnh dòng chảy Long Mạch để tối ưu phong thủy kiến trúc. Tuy chiến lực trực diện không mạnh, nhưng trận pháp phòng ngự do hắn thiết kế có thể chặn đứng cường giả Nguyên Anh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Trần Bách Tài]] — Hộ Bộ Thượng Thư, thường xuyên phối hợp ngân sách cho công trình.
-- [[Lý Thiên Vũ]] — Càn Đế, người giao phó trọng trách xây dựng phòng tuyến biên cương.
-- [[Tôn Hiền]] — Lại Bộ Thượng Thư, bạn cờ buổi tối, mối quan hệ thoải mái nhất triều đình.
-
+- **Lý Nguyệt Nhi** (Sư đồ): Lỗ Thiên Kiều chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Lý Thiên Long** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Lý Thiên Phượng** (Sư đồ): Lỗ Thiên Kiều chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều
+- **Lý Thiên Vũ** (Sư đồ): Lý Thiên Vũ chỉ dẫn Lỗ Thiên Kiều trong Đại Càn Hoàng Triều
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ Lỗ gia — gia tộc công tượng nổi tiếng nhiều đời, chuyên xây dựng cung điện và thành trì. Lỗ Thiên Kiều kế thừa tuyệt học gia truyền, nâng cấp thành Bách Công Diệu Thuật kết hợp kiến trúc với tu chân. Công trình nổi bật nhất là gia cố Vạn Lý Linh Tường — phòng tuyến chống ma tộc ở biên cương bắc. Được bổ nhiệm Công Bộ Thượng Thư nhờ công lao tái thiết kinh đô sau loạn Thất Vương.

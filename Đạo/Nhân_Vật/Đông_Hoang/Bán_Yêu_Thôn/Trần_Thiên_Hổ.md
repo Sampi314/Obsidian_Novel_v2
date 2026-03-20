@@ -112,6 +112,16 @@ Thiên Hổ gặp Lý Bán Nguyệt khi hắn 120 tuổi, Trúc Cơ Trung Kỳ. 
 
 Gần hai trăm năm qua, Thiên Hổ là bức tường thành sống của Bán Yêu Thôn. Hắn tổ chức hệ thống tuần tra, huấn luyện chiến binh, và đích thân đứng mũi chịu sào trong mỗi lần thôn bị đe dọa. Hai lần thất bại đột phá Kim Đan là nỗi đau lớn nhất — hắn biết rằng ở Trúc Cơ Viên Mãn, tuổi thọ của hắn có giới hạn, và hắn đang chạy đua với thời gian.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Long Huyết Nhi** (Thủ lĩnh): Đứa trẻ long huyết, thương yêu như cháu ruột, thề chết bảo vệ
+- **Lý Bán Nguyệt** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Bán Nguyệt
+- **Hoàng Điểu Vũ Thiên** (Sư phụ): Phó thôn trưởng, sư phụ chiến đấu, kính sợ nhưng biết ơn
+- **Nguyễn Lang Phong** (Sư phụ): Sư phụ chiến đấu, kính sợ nhưng biết ơn sâu sắc, coi như cha nuôi
+- **Phạm Hùng Sơn** (Gia đình): Đồng đội chiến đấu, huynh đệ kết nghĩa, quý mến chân thành
+- **Lý Bán Nguyệt** (Đồng minh): Phó thôn trưởng, chiến hữu sống chết gần ba trăm năm, tin cậy tuyệt đối
+- **Lê Hồ Nguyệt Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bán Yêu Thôn
+- **Vương Xà Nhi** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bán Yêu Thôn
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 ### Công Pháp

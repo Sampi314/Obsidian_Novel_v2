@@ -32,9 +32,13 @@ Nói chuyện với cây cỏ, hiểu được chúng cần gì
 Chuyên gia trị liệu của Dược Thảo Tinh Linh Viện, tinh thông y thuật và dược lý. Chiêu thức 草靈·Hồi Xuân Thuật (草靈·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Thảo Hàn Lộ:** Đệ Tử, đồng liêu quan trọng nhất trong Dược Thảo Tinh Linh Viện.
-- **Thảo Mộng Điệp:** Đệ Tử, đối tác thường xuyên phối hợp.
-- **Thảo Ngọc:** Đệ Tử, mối quan hệ tin cậy lẫn nhau.
-
+- **Thảo Tâm Linh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Dược Thảo Tinh Linh Viện
+- **Thảo Tâm Linh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Thảo Tâm Linh
+- **Thảo Thiên Hương Ngọc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Dược Thảo Tinh Linh Viện
+- **Thảo Vân Hương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Dược Thảo Tinh Linh Viện
+- **Thảo Hàn Lộ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Dược Thảo Tinh Linh Viện
+- **Thảo Ngọc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Dược Thảo Tinh Linh Viện
+- **Thảo Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Dược Thảo Tinh Linh Viện
+- **Thảo Mộng Điệp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Dược Thảo Tinh Linh Viện
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thảo Linh sinh ra trong một gia đình Tinh Linh Tộc bình thường, sớm thể hiện tư chất phù hợp với Dược Thảo Tinh Linh Viện. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Dược Thảo Tinh Linh Viện và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dược Sư.

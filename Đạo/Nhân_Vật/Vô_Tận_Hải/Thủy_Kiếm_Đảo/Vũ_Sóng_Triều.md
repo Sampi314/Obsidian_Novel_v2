@@ -159,19 +159,18 @@ Mục tiêu hiện tại: đột phá Kim Đan. Sóng Triều đã thất bại 
 - **Lang Nha Linh Giáp (浪牙灵甲) (Hoàng Cấp Hạ Phẩm):** Nội giáp nhẹ bằng vảy cá, chống được một đòn kiếm Trúc Cơ Hậu Kỳ. Cha mẹ gom tiền mua tặng khi hắn thi vào nội môn — "để cha mẹ yên tâm."
 
 ## VI. QUAN HỆ
-
-### Gia Đình
+- **Hải Triều Kiếm** (Đệ tử): Đệ tử nội môn đầy triển vọng, nhắc nhở về sư đệ Vô Trần thuở trẻ
+- **Lý Hải Đào** (Đệ tử): Đệ tử nội môn, trợ thủ thu hái dược liệu, chịu khó
+- **Lý Thanh Lãng** (Đệ tử): Đệ tử cưng, nhìn thấy mình thuở nhỏ, muốn dẫn dắt đúng đường
+- **Thủy Nguyệt Hàn** (Đệ tử): Sư đệ nội môn, đệ tử nhiệt huyết, hay giúp đỡ
+- **Thủy Vô Trần** (Đồng minh): Đội trưởng nội môn đầy tiềm năng, nhắc nhở bản thân thuở trẻ
+- **Trần Tiểu Kiếm** (Đồng minh): Bạn thân nhất, sư muội ngoại môn, cùng nhau lớn lên, bảo vệ bằng mọi giá
+- **Trần Kiếm Ngư** (Sư đồ): Trưởng lão, ông ngoại Tiểu Kiếm, kính trọng, hay được dạy đọc biển
 - **Cha Mẹ (còn sống):** Sóng Triều về thăm cha mẹ mỗi tuần — cha ở bến thuyền, mẹ ở kho dược liệu, ba người ăn cơm tối cùng nhau dưới mái hiên. Giản đơn, ấm áp, bình thường — chính sự bình thường ấy là nguồn sức mạnh lớn nhất: hắn chiến đấu để bảo vệ sự bình thường này, để cha mẹ luôn an toàn trên hòn đảo này.
-
-### Tông Môn
 - **Lý Thanh Lãng:** Sư huynh, thần tượng chiến đấu. Sóng Triều ngưỡng mộ Thanh Lãng vô điều kiện — sức mạnh, sự dũng cảm, tinh thần không bao giờ lùi bước. Hắn muốn trở thành người như Thanh Lãng — nhưng biết rằng mình không có thiên phú ấy, nên phải bù bằng nỗ lực. Thanh Lãng dạy hắn nhiều thứ không có trong sách — cách đọc ý định hải tặc qua cách chúng chèo thuyền, cách tận dụng sóng để lật thuyền địch, cách giữ bình tĩnh khi máu chảy.
-
 - **Trần Tiểu Kiếm:** Bạn thân nhất, người hắn muốn bảo vệ nhất. Hai người lớn lên cùng nhau — bơi cùng, câu cá cùng, luyện kiếm cùng, ăn cùng, khóc cùng khi bị phạt. Sóng Triều thương Tiểu Kiếm bằng tình cảm thuần khiết của kẻ coi bạn như gia đình — không phải tình yêu nam nữ, mà là sự gắn bó của hai đứa trẻ cùng nhìn biển từ nhỏ. Hắn biết Tiểu Kiếm mồ côi, biết nàng cô đơn, nên tự nhận nhiệm vụ: "Nếu biển lấy cha mẹ nàng, thì ta sẽ là biển trả lại — ít nhất một người luôn ở bên."
-
 - **Hải Triều Kiếm:** Đại sư bá huyền thoại — mỗi lần gặp, Sóng Triều run chân. Nhưng lão đối xử thoải mái với hắn — hay kéo hắn uống rượu (hắn chưa uống được, say sau một chén), kể chuyện trận đánh xưa, dạy vài chiêu ngoài sách. Sóng Triều coi đó là ân sủng — được huyền thoại sống dạy kiếm, dù chỉ vài chiêu.
-
 - **Thủy Nguyệt Hàn:** Sư tỷ lạnh lùng mà hắn ngưỡng mộ từ xa — kiếm thuật tinh tế, tư thế thanh nhã, mạnh mẽ mà không cần ồn ào. Sóng Triều biết mình và Nguyệt Hàn ở hai thế giới khác nhau — hắn ồn ào, nàng yên lặng; hắn thô ráp, nàng tinh tế. Nhưng hắn tôn trọng nàng và lặng lẽ quan sát kiếm pháp nàng để học hỏi.
-
 ## VII. GIAI THOẠI
 
 > *"Sóng nhỏ cũng là sóng — đừng khinh vì nhỏ, vì sóng nhỏ mà kiên trì thì đá cũng mòn."*

@@ -32,8 +32,8 @@ Lý Túy Tiên là trung niên dáng thư sinh, mặt trắng trẻo, luôn cầ
 Lý Túy Tiên sử dụng Túy Tiên Mê Ảo Thuật (醉仙迷幻術) — phả hơi rượu chứa linh lực khiến đối phương mê man nói thật. Ngoài ra, y tinh thông kiếm pháp say — Túy Kiếm Phiêu Bạt (醉劍飄泊), đánh kiếm loạng choạng nhưng đòn nào cũng trúng. Điểm yếu là nghiện rượu thật sự, đôi khi say quá mức mất kiểm soát.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Chưởng Quầy:** Tổng Quản mà Túy Tiên trung thành phục vụ, hai người tin tưởng nhau trong mọi vụ giao dịch.
-- **Phạm Tiểu Nhị:** Tiểu nhị chăm chỉ mà Túy Tiên hay cho nếm rượu ngon.
-
+- **Trần Chưởng Quầy** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Phiêu Bạt Khách Sạn Liên Minh
+- **Trần Chưởng Quầy** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Chưởng Quầy
+- **Phạm Tiểu Nhị** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Phiêu Bạt Khách Sạn Liên Minh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Túy Tiên từng là kiếm tu lang thang, bỏ cuộc tu luyện vì chán ghét sự tranh giành quyền lực trong tông phái. Trôi dạt đến khách sạn của Trần Chưởng Quầy, được thu nhận và giao quản lý chi nhánh lớn nhất. Tài năng thu thập thông tin qua rượu khiến y trở nên không thể thay thế. Bí mật: y đang tìm kiếm một người, ai đó từ quá khứ mà y uống rượu cũng không quên được.

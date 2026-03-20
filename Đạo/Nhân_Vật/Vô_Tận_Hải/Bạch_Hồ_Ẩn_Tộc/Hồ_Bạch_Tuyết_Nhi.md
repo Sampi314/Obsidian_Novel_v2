@@ -32,9 +32,20 @@ Một bà lão với gương mặt phúc hậu, mái tóc trắng như tơ trờ
 Bậc thầy về huyễn thuật cổ xưa, chuyên tu các thuật biến hình và ngụy trang cấp cao nhất của hồ tộc. Tuyệt kỹ "Tuyết Hồ Huyễn Thế" (雪狐幻世) cho phép bà duy trì một lớp màn che phủ hoàn hảo cho toàn bộ làng chài, khiến người ngoài nhìn vào chỉ thấy một hòn đảo hoang vắng hoặc sương mù dày đặc. Điểm mạnh là kinh nghiệm chiến đấu phong phú và khả năng khống chế tâm linh tuyệt vời, nhưng nhược điểm là thể trạng đã suy yếu do tuổi tác đã quá cao.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hồ Bạch Lâm** (Chủ tớ): Thủ hạ trung thành trong Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Lâm** (Cấp dưới): Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Nguyệt Hoa** (Chủ tớ): Thủ hạ trung thành trong Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Nguyệt Hoa** (Cấp dưới): Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Nhi** (Chủ tớ): Thủ hạ trung thành trong Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Nhi** (Cấp dưới): Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Sương Hàn** (Chủ tớ): Thủ hạ trung thành trong Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Sương Hàn** (Cấp dưới): Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Thiên Lý** (Chủ tớ): Thủ hạ trung thành trong Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Thiên Lý** (Cấp dưới): Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc
+- **Hồ Bạch Vân** (Đồng minh): Đồng liêu cùng Bạch Hồ Ẩn Tộc, hỗ trợ lẫn nhau
+- **Hồ Bạch Vân** (Cấp dưới): Phục tùng Hồ Bạch Tuyết Nhi, Trưởng Lão của Bạch Hồ Ẩn Tộc
 - **Hồ Bạch Liên:** Tộc trưởng mà bà hết mực tin tưởng và luôn dành cho những chỉ dẫn tâm linh quý báu.
 - **Hồ Bạch Nhi:** Cô bé mà bà thường kể cho nghe những giai thoại về thời hoàng kim của hồ tộc tại phương Bắc.
 - **Hồ Bạch Lâm:** Người chiến sĩ mà bà luôn đánh giá cao về lòng trung thành và sức mạnh bảo vệ bộ lạc.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Đã sống qua hàng trăm năm đầy biến động, Hồ Bạch Tuyết Nhi từng là một huyễn thuật sư nổi danh khắp vùng Băng Nguyên trước khi gia tộc bị tan rã. Sau khi theo chân Hồ Bạch Liên đến ẩn cư tại ven biển Bắc Hải, bà đã dành toàn bộ tâm huyết của mình để lưu giữ và truyền thụ những bí thuật biến hình cổ xưa cho các thế hệ sau. Với bà, việc duy trì hình hài thật sự của hồ tộc trong tâm trí mỗi tộc nhân cũng quan trọng như việc giữ gìn sự an toàn cho làng chài ẩn cư này.

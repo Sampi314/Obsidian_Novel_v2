@@ -152,21 +152,18 @@ Vết sẹo trên mặt đến từ trận đánh ba năm trước — khi một
 - **Hải Phong Linh Giáp (海风灵甲) (Hoàng Cấp Thượng Phẩm):** Nội giáp phong hệ, tăng tốc di chuyển trên mặt nước, giảm sức cản gió. Hải Triều Kiếm tặng hắn khi nhậm chức — nói: "Ngươi hay xông trước, vậy ít nhất phải chạy được nhanh."
 
 ## VI. QUAN HỆ
-
-### Gia Đình
+- **Hải Triều Kiếm** (Đồng minh): Hậu bối mạnh mẽ, cánh tay trái tin cậy, đôi khi quá nóng nảy
+- **Lý Hải Đào** (Đồng minh): Em họ xa, bệnh nhân quen thuộc, kẻ phá hoại thân thể chuyên nghiệp
+- **Thủy Vô Trần** (Chủ tớ): Đảo Chủ, ân sư gián tiếp, kính trọng tuyệt đối dù đôi khi bất đồng
+- **Trần Kiếm Ngư** (Đồng minh): Trưởng lão cố vấn, hay bị lão mắng vì nóng nảy
+- **Thủy Nguyệt Hàn** (Kình địch): Sư muội đồng thế hệ, đối thủ kiếm thuật, mối quan hệ phức tạp
+- **Vũ Sóng Triều** (Đệ tử): Đệ tử cưng, nhìn thấy mình thuở nhỏ, muốn dẫn dắt đúng đường
 - **Lý Hải Thanh (Cha):** Thợ đóng thuyền, vẫn còn sống, tu vi Kim Đan Trung Kỳ. Cha con quan hệ tốt nhưng ít gặp — Thanh Lãng tuần tra liên tục, cha đóng thuyền liên tục. Mỗi lần gặp, hai người uống rượu, cha kể chuyện thuyền, con kể chuyện hải tặc, rồi chia tay. Giản đơn nhưng đủ đầy.
-
 - **Lý Hải Đào (Anh họ xa):** Dược sư trưởng của đảo, cùng dòng tộc Lý nhưng khác nhánh. Hai người không thân nhưng tôn trọng nhau — mỗi lần Thanh Lãng bị thương (thường xuyên), Hải Đào chữa trị mà không quên lẩm bẩm: "Lại mày à? Sao không để hải tặc chặt luôn đi cho đỡ phiền?"
-
-### Tông Môn
 - **Hải Triều Kiếm:** Sư phụ kiếm thuật, hình mẫu chiến binh. Thanh Lãng kính trọng Hải Triều Kiếm hơn bất kỳ ai — không phải vì mạnh, mà vì sự kiên định suốt ba trăm năm không dao động. Hắn muốn trở thành người như vậy nhưng biết tính mình quá nóng, nên cố gắng mỗi ngày.
-
 - **Thủy Vô Trần:** Đảo Chủ mà hắn kính trọng nhưng đôi khi bất đồng. Thanh Lãng muốn truy sát hải tặc đến tận sào huyệt, Vô Trần muốn phòng thủ ổn định — hai quan điểm va chạm liên tục. Nhưng hắn luôn phục tùng mệnh lệnh cuối cùng, vì biết rằng Đảo Chủ nhìn xa hơn mình.
-
 - **Thủy Nguyệt Hàn:** Mối quan hệ phức tạp nhất. Hai người cùng thế hệ, cùng luyện kiếm từ nhỏ, cùng tranh giành vị trí nhất nhì. Thanh Lãng ngưỡng mộ tài năng kiếm thuật của Nguyệt Hàn — kiếm nàng tinh tế, trái ngược hoàn toàn với kiếm hắn thô bạo. Hắn thầm cảm mến nàng nhưng không bao giờ thể hiện, vì biết rằng Nguyệt Hàn là con Đảo Chủ và hắn không xứng — ít nhất là chưa. Thay vào đó, hắn biến tình cảm thành động lực tu luyện: "Khi nào ta mạnh bằng Đảo Chủ, ta sẽ nói."
-
 - **Vũ Sóng Triều:** Đệ tử nội môn mà Thanh Lãng đặc biệt quan tâm — thấy bóng dáng mình thời nhỏ trong sự bướng bỉnh và dũng cảm của Sóng Triều. Hắn dạy Sóng Triều kiếm ngoài giờ chính, thường mang theo trong các chuyến tuần tra để rèn kinh nghiệm thực chiến.
-
 ## VII. GIAI THOẠI
 
 > *"Sóng không bao giờ hỏi bờ đá có cứng không trước khi đánh vào — nó cứ đánh, và đá phải tự biết sợ."*

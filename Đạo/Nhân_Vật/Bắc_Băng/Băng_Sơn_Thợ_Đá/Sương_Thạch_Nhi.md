@@ -166,6 +166,7 @@ arcs:
 - **Nham Bán Thân — Hình Mẫu Cự Tộc Tự Do:**
     - Nham Bán Thân — trưởng lão Tuyết Cự Nhân Lạc Đoàn — từng ghé Xưởng Đục Đá vài lần để trao đổi kinh nghiệm và mua phôi đá. Thạch Nhi ngưỡng mộ ông vì ông là Cự Tộc nhưng sống tự do, không bị ai bóc lột, không phải cúi đầu trước tu sĩ. Nàng lén quan sát ông mỗi lần ông đến — cách ông đi, cách ông nói, cách ông nhìn thẳng vào mắt người khác mà không sợ.
     - Nàng tự hỏi: *"Tại sao ông ấy tự do mà mình thì không?"* — câu hỏi ấy bắt đầu gieo mầm trong đầu nàng, và sẽ lớn lên theo thời gian.
+- **Nham Cự Lực** (Đồng minh): Đại ca đồng tộc ở Khai Hoang Đội, hay cho quà mỗi lần ghé thăm
 
 ## VII. GIAI THOẠI
 > *"Đá Nhỏ đục đá giống sư phụ nó lắm — cùng nghiêng đầu, cùng nheo mắt, cùng mím môi. Chỉ khác một chỗ: nó nói chuyện với đá, còn lão Thạch Ông thì nói chuyện với búa."*

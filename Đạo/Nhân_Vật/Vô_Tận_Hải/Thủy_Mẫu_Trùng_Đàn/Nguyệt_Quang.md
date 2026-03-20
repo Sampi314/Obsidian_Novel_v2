@@ -35,9 +35,12 @@ arcs:
 - **Linh Độc Xúc Tu (灵毒触须):** Hàng trăm xúc tu dài rủ xuống chứa linh độc đặc biệt, tuy vô hại với tu sĩ từ Trúc Cơ trở lên nhưng có thể lập tức làm tê liệt hải thú khổng lồ hoặc tu sĩ Luyện Khí xui xẻo chạm vào.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Trùng Bạch Quang** (Đồng minh): Tín nhiệm
+- **Trùng Hồng Diệm** (Đồng minh): Bảo bọc
+- **Trùng Bạch Quang** (Đồng minh): Đồng liêu cùng Thủy Mẫu Trùng Đàn, hỗ trợ lẫn nhau
+- **Trùng Hồng Diệm** (Sư đồ): Nguyệt Quang chỉ dẫn Trùng Hồng Diệm trong Thủy Mẫu Trùng Đàn
 - **Trùng Bạch Quang:** Sứa linh lớn nhất sau Nguyệt Quang, đóng vai trò như phó thủ lĩnh và khiên chắn bảo vệ đàn.
 - **Trùng Hồng Diệm:** Sứa linh đỏ thẫm tinh nghịch, thường đóng vai trò tiên phong đi đầu và luôn khiến Nguyệt Quang phải bận tâm giám sát.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 - Là sứa linh duy nhất còn sống sót sau đợt thảm sát thu thập dịch quang của Hải Thần Cung từ hàng ngàn năm trước, dần tiến hóa và đạt đến cảnh giới Trúc Cơ.
 - Sau thảm kịch, Nguyệt Quang tập hợp những ấu trùng còn sót lại, dẫn dắt chúng rời xa lãnh địa của Hải Thần Cung và bắt đầu cuộc hành trình lang thang bất định.

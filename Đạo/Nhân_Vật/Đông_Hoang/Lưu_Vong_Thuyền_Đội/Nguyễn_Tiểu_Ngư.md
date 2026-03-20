@@ -32,9 +32,9 @@ Vẻ ngoài hiền hậu chất phác với nụ cười ấm áp. Đôi tay cha
 Thành viên của Lưu Vong Thuyền Đội, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 阮小魚·Bản Mệnh (阮小魚·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Hải Phong:** Phó Thuyền Chủ, đồng liêu quan trọng nhất trong Lưu Vong Thuyền Đội.
-- **Phạm Ba Đào:** Hoa Tiêu Trưởng, đối tác thường xuyên phối hợp.
-- **Trần Vạn Lý:** Thuyền Chủ, mối quan hệ tin cậy lẫn nhau.
-
+- **Trần Vạn Lý** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Lưu Vong Thuyền Đội
+- **Trần Vạn Lý** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Vạn Lý
+- **Lý Hải Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Lưu Vong Thuyền Đội
+- **Phạm Ba Đào** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lưu Vong Thuyền Đội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyễn Tiểu Ngư vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Lưu Vong Thuyền Đội. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Lưu Vong Thuyền Đội và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thủy Thủ.

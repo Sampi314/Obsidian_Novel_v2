@@ -32,8 +32,9 @@ Nhan sắc thanh tú với nét mặt dịu dàng, cử chỉ nhẹ nhàng tinh 
 Chiến binh tiền tuyến của Mật Phong Linh Đàn, sở trường cận chiến và đột kích. Tuyệt chiêu 蟲黃針·Chiến Kích (蟲黃針·戰擊) tập trung sức mạnh vào một đòn quyết định. Mạnh về tấn công trực diện nhưng phòng thủ còn nhiều sơ hở.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trùng Kim Hoa:** Ong Chúa, đồng liêu quan trọng nhất trong Mật Phong Linh Đàn.
-- **Trùng Ngọt Sương:** Ong Dưỡng Nhi, đối tác thường xuyên phối hợp.
-
+- **Trùng Kim Hoa** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Mật Phong Linh Đàn
+- **Trùng Kim Hoa** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Kim Hoa
+- **Trùng Ngọt Sương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Mật Phong Linh Đàn
+- **Trùng Kim Phấn** (Đồng minh): Ong Thợ Trưởng và Ong Chiến Binh, phối hợp thu hoạch bảo vệ
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trùng Hoàng Châm lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Mật Phong Linh Đàn. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Mật Phong Linh Đàn và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Ong Chiến Binh.

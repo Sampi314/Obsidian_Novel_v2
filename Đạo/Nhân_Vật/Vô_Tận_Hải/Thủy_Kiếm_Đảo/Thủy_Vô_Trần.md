@@ -163,21 +163,19 @@ Kể từ đó, Vô Trần nhậm chức Đảo Chủ đời thứ mười một
 - **Hải Triều Ngọc Bội (海潮玉佩) (Huyền Cấp Thượng Phẩm):** Ngọc bội hình giọt nước, tàng trữ thủy linh khí dồi dào, có thể phóng ra sóng xung kích khi cần. Vật truyền thừa của các đời Đảo Chủ, bên trong khắc ghi tâm đắc kiếm đạo của chín đời tiền nhân.
 
 ## VI. QUAN HỆ
-
-### Gia Đình
+- **Hải Triều Kiếm** (Gia tộc): Sư đệ đồng môn, Đảo Chủ mà mình tận tâm phò tá, tình nghĩa thâm sâu
+- **Lý Hải Đào** (Chủ tớ): Đảo Chủ, bệnh nhân ngoan cố nhất, kính trọng nhưng hay cằn nhằn
+- **Lý Thanh Lãng** (Chủ tớ): Đảo Chủ, ân sư gián tiếp, kính trọng tuyệt đối dù đôi khi bất đồng
+- **Thủy Nguyệt Hàn** (Kẻ thù): Cha ruột, Đảo Chủ, kính trọng nhưng xa cách, khao khát được cha nhìn nhận
+- **Trần Kiếm Ngư** (Đồng minh): Trưởng lão cố vấn, lão ngư nhân am hiểu biển cả hơn bất kỳ ai
+- **Vũ Sóng Triều** (Đồng minh): Đội trưởng nội môn đầy tiềm năng, nhắc nhở bản thân thuở trẻ
+- **Trần Tiểu Kiếm** (Đệ tử): Ngoại môn đệ tử ưu tú, cháu ngoại Trần Kiếm Ngư, đáng được dìu dắt
 - **Thủy Hải Phong (Cha — đã mất):** Ngư dân bình thường, người dạy Vô Trần cách đọc sóng, đọc gió, đọc biển. Mỗi khi đưa ra quyết định quan trọng, Vô Trần đều ra bờ biển phía tây — nơi cha hắn từng neo thuyền — ngồi nhìn sóng và tự hỏi: "Cha sẽ làm gì?" Câu trả lời luôn giống nhau: "Chèo tiếp, đừng dừng."
-
 - **Thủy Nguyệt Hàn (Con gái):** Vô Trần yêu thương Nguyệt Hàn bằng cách riêng của người cha kiếm tu — nghiêm khắc, ít lời, nhưng mọi quyết định đều vì tương lai nàng. Hắn biết Nguyệt Hàn hận mình vì quá lạnh lùng, nhưng không thể thay đổi — vì nếu mềm lòng, nàng sẽ không đủ mạnh để sống sót trong thế giới tu tiên khắc nghiệt. Mỗi đêm sau khi Nguyệt Hàn ngủ, hắn lặng lẽ đến phòng nàng, kiểm tra kết giới bảo vệ, rồi đi — không ai biết ngoài Hải Triều Kiếm.
-
-### Tông Môn
 - **Hải Triều Kiếm:** Sư huynh đồng môn, cánh tay phải. Hai người tu luyện cùng nhau từ nhỏ, Hải Triều Kiếm lớn hơn năm tuổi, luôn nhường Vô Trần vị trí Đảo Chủ dù bản thân cũng đủ tư cách. Vô Trần biết ơn nhưng cũng áy náy — hắn hiểu rằng Hải Triều Kiếm hy sinh tham vọng cá nhân để phò tá mình, và không có cách nào trả ơn ấy ngoài việc làm một Đảo Chủ xứng đáng.
-
 - **Trần Kiếm Ngư:** Trưởng lão lão thành, cố vấn chiến lược. Kiếm Ngư am hiểu Vô Tận Hải hơn bất kỳ ai — hắn là "bản đồ sống" của tông môn. Vô Trần tôn trọng kinh nghiệm của lão nhưng đôi khi bất đồng quan điểm — Kiếm Ngư bảo thủ, muốn thu mình phòng thủ; Vô Trần muốn mở rộng ảnh hưởng.
-
 - **Lý Thanh Lãng:** Đệ tử tâm đắc mà Vô Trần giao trọng trách tuần tra lãnh hải. Thanh Lãng mạnh mẽ, trung thành, nhưng hơi nóng nảy — Vô Trần thường phải kiềm chế hắn khi đối mặt với hải tặc, vì "giết hết không bằng trấn áp."
-
 - **Thủy Hàn Thanh (Sư phụ — đã mất):** Đảo Chủ đời thứ mười, ân sư. Mất trong trận chiến với Hắc Hải Hải Tặc. Vô Trần giữ thanh kiếm gãy của sư phụ trên bàn thờ Thính Triều Đài — mỗi sáng thắp một nén hương, nói: "Con không để đảo mất thêm ai."
-
 ## VII. GIAI THOẠI
 
 > *"Biển không cần chứng minh mình mạnh — nó chỉ cần ở đó, và mọi thứ tự biết kính sợ."*

@@ -67,6 +67,8 @@ Lý Tàn Kiếm là người luyện Tàn Kiếm Thất Thức thuần thục nh
 - **Hoàng Vô Niệm:** Sư đệ trầm mặc mà hắn rất coi trọng, thường giao phó việc canh gác hậu phương vì tin tưởng sự bình tĩnh của đối phương.
 - **Nguyễn Tiểu Phong:** Tân nhân nhỏ tuổi nhất, hắn nghiêm khắc huấn luyện nhưng âm thầm dành cho nhiều sự quan tâm như một người huynh trưởng.
 - **Hàn Kiếm Cốc:** Nơi hắn từng luyện kiếm suốt tuổi thanh xuân, giờ chỉ còn là bóng hình không thể chạm tới.
+- **Trần Đoạn Phong** (Gia tộc): Phó đoàn trưởng, huynh đệ đáng tin, hai người bổ khuyết cho nhau — một cương một nhu
+- **Vũ Hàn Kiếm** (Kẻ thù): Phó đoàn trưởng cương liệt, người giám sát hắn công khai nhất, mối đe dọa lớn nhất nếu thân phận bại lộ
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Tàn Kiếm vốn tên thật là Lý Thiên Hành, xuất thân từ một gia tộc nhỏ ở ngoại vi Bắc Băng, được tuyển vào Hàn Kiếm Cốc năm mười hai tuổi nhờ tư chất kiếm đạo khá tốt. Trong mười năm tu luyện, hắn đạt đến vị trí nội môn đệ tử hạng trung, nhưng vì bất mãn với việc một trưởng lão dùng quyền lực ép buộc ngoại môn đệ tử làm nô dịch, hắn đã đứng lên phản kháng và bị buộc tội "phạm thượng cốc quy" rồi trục xuất. Ra ngoài, hắn gặp Phương Hàn đang tập hợp những cựu đệ tử bị đuổi, liền gia nhập và trở thành phó đoàn trưởng nhờ tu vi cao và tính cách đáng tin cậy. Hắn đã cùng đoàn hoàn thành ba hợp đồng hộ vệ Phá Băng Thương Đội, mỗi lần đều xung phong đi đầu chống yêu thú. Mục tiêu lớn nhất của Lý Tàn Kiếm là đột phá Kim Đan, chứng minh rằng một kẻ bị trục xuất vẫn có thể đạt đến cảnh giới mà nhiều nội môn đệ tử Hàn Kiếm Cốc mơ ước cả đời không được.

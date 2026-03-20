@@ -85,13 +85,12 @@ arcs:
    - Kỹ năng di chuyển mượn sức của cây cỏ, thoắt ẩn thoắt hiện trong rừng rậm.
 
 ## V. QUAN HỆ NHÂN MẠCH
+- **Diệp Tĩnh Sương** (Đệ tử): Đệ tử ưu tú, kỳ vọng kế thừa
+- **Diệp Thanh Y** (Đồng minh): Bạn vong niên, đồng minh lâu năm
+- **Độc Cô Lão Quái** (Kẻ thù): Kẻ thù quấy nhiễu tông môn
 - **[Diệp Thanh Y](../Nhân_Vật/Diệp_Thanh_Y.md) (Dược Vương Cốc):**
-  - Bạn vong niên. Trong thời gian tái thiết tông môn, Lục Trần thường xuyên nhờ sự trợ giúp của Dược Vương Cốc về đan dược và chữa trị cho đệ tử.
 - **[Diệp Tĩnh Sương](../Nhân_Vật/Diệp_Tĩnh_Sương.md) (Đệ Tử):**
-  - Đệ tử nổi bật của tông môn, được ông kỳ vọng sẽ kế thừa ý chí của Cửu Hoa.
 - **[Độc Cô Lão Quái](../Nhân_Vật/Độc_Cô_Lão_Quái.md) (Kẻ Thù):**
-  - Vạn Độc Môn từng nhiều lần quấy nhiễu Đông Hoang, gây thù chuốc oán với Cửu Hoa Kiếm Tông.
-
 ## VI. TRANG BỊ & VẬT PHẨM
 - **[Thanh Liên Kiếm](../Luyện_Khí/Thanh_Liên_Kiếm.md) (Thiên Cấp Hạ Phẩm):**
   - Bản mệnh pháp bảo, được luyện từ thân cây sen ngàn năm trong Táng Kiếm Trì.

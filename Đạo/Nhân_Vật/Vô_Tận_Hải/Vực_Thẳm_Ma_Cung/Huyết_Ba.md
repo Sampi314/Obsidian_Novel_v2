@@ -63,9 +63,12 @@ Huyết Ba mang hình hài nửa người nửa ma, thân thể bán trong suố
 Huyết Ba chuyên về phục kích và ám sát trong môi trường nước, sử dụng Hắc Ám Thủy Ma Pháp (黑暗水魔法) để hòa tan cơ thể vào dòng nước, biến mình thành một phần của đại dương rồi bất ngờ tấn công. Chiêu thức sở trường là Huyết Ba Xâm Thực (血波侵蚀) — phóng ra sóng huyết vô hình ăn mòn hộ thể linh quang của đối phương từ từ mà không hay biết, và Ám Lưu Trảm (暗流斩) — ngưng tụ dòng nước tối thành lưỡi dao vô hình chém ngang. Điểm yếu lớn nhất là khi rời xa nguồn nước, sức chiến đấu giảm mạnh và thân thể bán trong suốt dễ bị hỏa hệ pháp thuật khắc chế.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hắc Nha** (Đồng minh): Cấp trên trực tiếp trong Thâm Hải Ma Quân, vừa sợ vừa ngưỡng mộ sức mạnh
+- **Ám Ảnh Ngư** (Đồng minh): Đồng liêu cùng xuất thân Thủy Ma, hay cạnh tranh nhưng có chút tình đồng tộc
+- **Thâm Hải** (Đồng minh): Cung Chủ tối cao, kính sợ tuyệt đối và tôn sùng như thần linh
+- **Ngư Quỷ Diện** (Đồng minh): Đồng liêu cùng Vực Thẳm Ma Cung, hỗ trợ lẫn nhau
 - **Hắc Nha:** Phó Thống Lĩnh chỉ huy trực tiếp, Huyết Ba luôn tuân lệnh răm rắp và ngầm ngưỡng mộ sức mạnh thuần túy của vị chiến tướng này.
 - **Ám Ảnh Ngư:** Đồng liêu Thủy Ma trong Ma Cung, hai kẻ hay cạnh tranh công trạng khi đi cướp tàu thuyền nhưng ngầm chia sẻ tình cảm đồng tộc giữa chốn ma đạo tàn khốc.
 - **Thâm Hải:** Cung Chủ tối cao mà Huyết Ba tôn sùng như thần, hắn tin rằng chỉ cần phụng sự trung thành sẽ có ngày được ban cho cơ hội đột phá Kim Đan.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Huyết Ba vốn là một con Thủy Ma cấp thấp sinh ra từ oán khí và huyết mạch tích tụ tại vùng Biển Chết, nơi vô số tu sĩ bỏ mạng trong các trận hải chiến qua hàng ngàn năm. Hắn lang thang dưới đáy biển sâu, sống bằng bản năng săn mồi cho đến khi bị Thâm Hải Ma Quân phát hiện và thu phục, đưa về Vực Thẳm Ma Cung huấn luyện thành đệ tử ngoại môn. Nhờ thiên phú hòa tan trong nước và bản tính nhẫn nại, Huyết Ba nhanh chóng trở thành một trong những kẻ phục kích hiệu quả nhất của Ma Cung, nhiều lần lập công trong các vụ cướp bóc đoàn thuyền thương nhân. Hiện tại hắn đang cố gắng tích lũy đủ ma tinh thạch để đổi lấy một viên Hắc Thủy Đan, hy vọng đột phá Kim Đan và chính thức trở thành nội môn đệ tử, thoát khỏi thân phận thấp hèn của kẻ ngoại môn bị sai vặt.

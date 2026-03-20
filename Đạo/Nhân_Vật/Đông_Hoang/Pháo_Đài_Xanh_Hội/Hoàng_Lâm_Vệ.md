@@ -32,8 +32,10 @@ Hoàng Lâm Vệ có thân hình cao gầy, da nâu nhạt, mắt sáng đầy n
 Hoàng Lâm Vệ đang luyện Lâm Vệ Kiếm Pháp (林衛劍法) — kiếm pháp kết hợp với rừng cây, mỗi đòn kiếm mang theo lá rụng sắc bén. Ngoài ra, y có khả năng giao tiếp với cây cối để phát hiện kẻ xâm nhập. Điểm yếu là tu vi còn thấp, thiếu kinh nghiệm đối đầu tu sĩ mạnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Phạm Mộc Thuẫn:** Kỵ Sĩ Trưởng mà Lâm Vệ kính trọng, coi như người thầy trong chiến đấu.
-- **Nguyễn Tiểu Thảo:** Đồng đội tân binh, hai người hay tuần tra chung và trở nên thân thiết.
-
+- **Trần Đại Thạch** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Pháo Đài Xanh Hội
+- **Trần Đại Thạch** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Đại Thạch
+- **Lý Thanh Diệp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Pháo Đài Xanh Hội
+- **Phạm Mộc Thuẫn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Pháo Đài Xanh Hội
+- **Nguyễn Tiểu Thảo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Pháo Đài Xanh Hội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoàng Lâm Vệ xuất thân từ làng ven rừng, gia nhập đoàn kỵ sĩ vì ngưỡng mộ tinh thần bảo vệ thiên nhiên. Trong lần tuần tra đầu tiên, y bị sa tặc phục kích suýt mất mạng nhưng được Phạm Mộc Thuẫn cứu, từ đó quyết tâm trở nên mạnh hơn. Mơ ước một ngày trở thành Kỵ Sĩ Trưởng và bảo vệ vành đai rừng như tiền bối.

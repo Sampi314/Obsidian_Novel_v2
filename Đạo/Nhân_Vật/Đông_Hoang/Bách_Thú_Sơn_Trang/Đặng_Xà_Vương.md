@@ -32,9 +32,13 @@ Trung niên gầy guộc với đôi mắt hẹp sắc lạnh như mắt rắn, 
 Chuyên gia ngự xà thuật, tinh thông Vạn Xà Khống Chế Thuật (萬蛇控制術) điều khiển hàng ngàn linh xà. Tuyệt chiêu Xà Vương Thiên Trận (蛇王千陣) bày trận rắn bao vây và tấn công đối thủ từ mọi hướng. Linh xà bản mệnh là Huyền Thiết Mãng cấp Nguyên Anh. Mạnh trong bày trận nhưng dễ bị hỏa công khắc chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Vạn Thú:** Trang Chủ, người mà hắn tôn trọng dù đôi khi bất đồng ý kiến.
-- **Hoàng Mãnh Hổ:** Hộ Pháp, đồng liêu hay tranh luận về phương pháp huấn luyện thú.
-- **Nguyễn Kỳ Lân:** Trưởng Lão, đối tác nghiên cứu về tập tính linh xà.
-
+- **Trần Vạn Thú** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bách Thú Sơn Trang
+- **Trần Vạn Thú** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Vạn Thú
+- **Vũ Tiểu Long** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bách Thú Sơn Trang
+- **Lê Phượng Nhi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bách Thú Sơn Trang
+- **Lý Thiên Mã** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Bách Thú Sơn Trang
+- **Hoàng Mãnh Hổ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bách Thú Sơn Trang
+- **Phạm Linh Ưng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bách Thú Sơn Trang
+- **Nguyễn Kỳ Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bách Thú Sơn Trang
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Đặng Xà Vương sinh ra với thể chất đặc biệt tương thích với rắn, từ nhỏ đã có thể chạm vào độc xà mà không bị thương. Gia nhập Bách Thú Sơn Trang sau khi lang thang nhiều năm với đàn linh xà hoang. Hắn phát triển chuyên ngành ngự xà thành một nhánh quan trọng của sơn trang, cung cấp linh xà hộ vệ cho nhiều tông môn. Bí mật là hắn đang nuôi một con Thượng Cổ Minh Xà trong mật thất, hy vọng giúp nó giác ngộ.

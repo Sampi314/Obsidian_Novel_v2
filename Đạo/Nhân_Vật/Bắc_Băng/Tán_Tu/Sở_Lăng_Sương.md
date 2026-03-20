@@ -59,3 +59,10 @@ arcs:
   - **Lão Hạc Tử (Đã mất):** Người thầy đầu tiên, ân nhân cứu mạng.
   - **Diệp Tĩnh Sương:** Chưa từng gặp mặt nhưng nghe danh tiếng, thầm ngưỡng mộ và coi là mục tiêu để phấn đấu.
   - **Hắc Phong Trại:** Kẻ thù diệt tộc (đã bị nàng đơn thương độc mã tiêu diệt năm 18 tuổi).
+- **Lê Kiếm Tâm** (Đối thủ): Kình địch
+- **Bằng Bắc Minh** (Sư phụ): Bằng Bắc Minh chỉ dẫn Sở Lăng Sương trong Tán Tu
+- **Hạc Tuyết Nhi** (Sư phụ): Hạc Tuyết Nhi chỉ dẫn Sở Lăng Sương trong Tán Tu
+- **Sương Lệ Nhi** (Sư phụ): Sương Lệ Nhi chỉ dẫn Sở Lăng Sương trong Tán Tu
+- **Triệu Thanh Hằng** (Đồng minh): Chiến hữu cùng Tán Tu, chiến đấu song song
+- **Tước Hàn** (Đồng minh): Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+- **Tước Tuyết Nhi** (Sư phụ): Tước Tuyết Nhi chỉ dẫn Sở Lăng Sương trong Tán Tu

@@ -32,9 +32,14 @@ Kết hợp bóng tối và băng giá, độc nhất vô nhị
 Thành viên của Hắc Tinh Linh Lưu Đày, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 暗雪魂夜·Bản Mệnh (暗雪魂夜·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Ám Diệp:** Thủ Lĩnh, đồng liêu quan trọng nhất trong Hắc Tinh Linh Lưu Đày.
-- **Ám Dạ Hành:** Ám Sát Đội Trưởng, đối tác thường xuyên phối hợp.
-- **Ám Huyết:** Huyết Mạch Sư, mối quan hệ tin cậy lẫn nhau.
-
+- **Ám Diệp** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Hắc Tinh Linh Lưu Đày
+- **Ám Diệp** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Ám Diệp
+- **Ám Lâm Dạ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Hắc Tinh Linh Lưu Đày
+- **Ám Dạ Hành** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hắc Tinh Linh Lưu Đày
+- **Ám Thiên Lôi** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hắc Tinh Linh Lưu Đày
+- **Ám Vô Thanh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hắc Tinh Linh Lưu Đày
+- **Ám Linh Quang Diệu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hắc Tinh Linh Lưu Đày
+- **Ám Nguyệt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hắc Tinh Linh Lưu Đày
+- **Ám Huyết** (Đồng minh): Băng Pháp Sư và Huyết Mạch Sư, phối hợp
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ám Tuyết Hồn Dạ được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Hắc Tinh Linh Lưu Đày. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Hắc Tinh Linh Lưu Đày và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Băng Pháp Sư.

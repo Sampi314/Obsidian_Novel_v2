@@ -144,6 +144,7 @@ arcs:
     - Đồng Tử là người bạn duy nhất cùng trang lứa của y trong Thần Điện — hai đứa trẻ lớn lên cùng nhau, tập kiếm cùng nhau, trốn lười cùng nhau. Y bảo vệ Đồng Tử như bảo vệ em trai, và là người duy nhất Đồng Tử cho phép trêu chọc mà không giận.
 - **Băng Tịnh Liên (Nữ Tế Tư — Thiện Cảm Ngượng Ngùng):**
     - Y có thiện cảm với Băng Tịnh Liên nhưng không biết cách thể hiện — mỗi khi gặp nàng y trở nên lúng túng, nói năng vụng về, mặt đỏ như lửa (điều hiếm thấy ở Băng Tộc). Đội trinh sát trêu y không thương tiếc, khiến y càng ngượng hơn.
+- **Cực Quang Thánh Nữ** (Đồng minh): Chủ nhân tối cao, y sùng kính nhưng chưa bao giờ tiếp xúc trực tiếp
 
 ## VII. GIAI THOẠI
 > *"Mẹ ngươi là chiến binh giỏi nhất ta từng gặp. Ngươi — hãy chứng minh máu bà không chảy uổng."*

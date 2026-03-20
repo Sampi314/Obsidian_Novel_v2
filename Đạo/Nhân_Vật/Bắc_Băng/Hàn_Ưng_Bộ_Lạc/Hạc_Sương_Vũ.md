@@ -151,6 +151,9 @@ arcs:
     - Sương Vũ dạy Lãnh Phong thuật quan sát và ghi nhớ — biến gã trinh sát trẻ từ kẻ chỉ biết bay nhanh thành kẻ biết bay đúng chỗ và nhìn đúng thứ. Lão nhẹ nhàng nhưng đòi hỏi cao: "Bay nhanh thì ai cũng được, nhưng nhìn thấy thứ người khác không thấy — đó mới là trinh sát."
 - **Ưng Sương Cầm (Chiến Sĩ Trẻ — Gã Ưng Non):**
     - Sương Vũ hay trêu chọc Sương Cầm nhất — vì gã Ưng non liều lĩnh và kiêu ngạo nhắc lão nhớ đến Bạch Đế thời trẻ. Lão chê Sương Cầm "vỗ cánh thì mạnh mà não thì nhẹ", nhưng thầm lo mỗi khi gã ra trận. Mỗi khi Sương Cầm bị Tuyết Phong phạt quá nặng, Sương Vũ lặng lẽ để sẵn thuốc chữa thương trước cửa chỗ ở gã — rồi giả vờ không biết.
+- **Ưng Băng Phong** (Chủ nhân): Hạc Sương Vũ quản lý Ưng Băng Phong trong Hàn Ưng Bộ Lạc
+- **Ưng Hàn Dực** (Đồng minh): Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau
+- **Ưng Đông Sương** (Chủ nhân): Hạc Sương Vũ quản lý Ưng Đông Sương trong Hàn Ưng Bộ Lạc
 
 ## VII. GIAI THOẠI
 > *"Bạch Đế xé bão bảo vệ tổ ấm, nhưng Sương Vũ chữa lành mọi thứ bão đã xé. Bộ lạc cần cả hai — cánh đại bàng và sương buổi sớm."*

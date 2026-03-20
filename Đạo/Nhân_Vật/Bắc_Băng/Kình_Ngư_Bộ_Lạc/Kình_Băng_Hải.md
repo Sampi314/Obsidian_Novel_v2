@@ -138,6 +138,7 @@ arcs:
     - Y gặp Liên Tuyết Nhi thông qua nhóm hái dược của Tuyết Liên Dược Phường. Nàng là người đất liền đầu tiên không hoảng sợ khi thấy y — thay vào đó, nàng nhìn y bằng ánh mắt tò mò rồi hỏi: *"Sinh vật biển sâu cũng bị bệnh sao?"* Y đáp: *"Cũng bệnh, cũng đau, cũng cần thuốc."* Từ đó, hai bên thiết lập quan hệ trao đổi — y cung cấp tủy xương cá voi và trân châu, nàng cung cấp dược liệu đất liền. Giao dịch nhỏ bé nhưng đã cứu nhiều tộc nhân.
 - **Đàn Cá Voi Băng — Gia Đình Thứ Hai:**
     - Y coi đàn cá voi không phải thú nuôi mà là đồng tộc — mỗi con có tên, có tính cách, có "giọng nói" riêng mà y phân biệt được. Con cá voi đầu đàn — "Lão Sóng" (y đặt tên) — là con cá voi bản địa đầu tiên gia nhập đoàn, tuổi ước tính hơn ba trăm năm, thân dài hơn mười trượng. Lão Sóng và y giao tiếp bằng một bộ sóng âm đặc biệt mà không tộc nhân nào khác nghe hiểu — như một ngôn ngữ riêng giữa hai kẻ cô đơn.
+- **Trần Sơn Nhi** (Đồng minh): Hải Tộc bí ẩn dưới băng, đối tác trao đổi kỳ lạ nhất đời
 
 ## VII. GIAI THOẠI
 > *"Dưới lớp băng Bắc Băng, có một tiếng hát vang vọng mỗi đêm trăng tròn — trầm buồn, sâu thẳm, như thể cả đại dương đang khóc. Dân chài ven bờ nói đó là tiếng hát của Kình Vương Bắc Hải, gọi quê hương cách vạn dặm."*

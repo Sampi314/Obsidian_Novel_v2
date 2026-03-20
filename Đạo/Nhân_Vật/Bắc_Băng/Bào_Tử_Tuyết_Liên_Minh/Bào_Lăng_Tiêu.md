@@ -150,6 +150,7 @@ arcs:
     - Ngưng Sương là bào tử duy nhất mà Lăng Tiêu trực tiếp hướng dẫn và đào tạo. Y coi Ngưng Sương như người kế thừa — dạy nàng cách cảm nhận địa hình, cách nén bào tử, cách xây công trình phòng thủ vừa kiên cố vừa hiệu quả. Ngưng Sương đã vượt qua Lăng Tiêu về khía cạnh "thiết kế đẹp" — công trình của nàng vừa cứng vừa tinh xảo — điều mà Lăng Tiêu vừa tự hào vừa hơi ghen tị.
 - **Bào Ngân Lộ — Dược Sư Tuyết & Hậu Cần Y Tế:**
     - Lăng Tiêu kính trọng Ngân Lộ vì nàng chăm sóc sức khỏe cho bào tử phòng thủ — những bào tử bị tổn thương trong quá trình nén cấu trúc hoặc chịu đòn tấn công. Không có hàn dược của Ngân Lộ, hệ thống phòng thủ sẽ suy yếu do bào tử không phục hồi kịp.
+- **Bào Bạch Vũ** (Chủ nhân): Trưởng Lão Phòng Thủ giữ hậu phương, người hắn kính trọng vì sự vững vàng
 
 ## VII. GIAI THOẠI
 > *"Tường Lão xây tường giống như đại địa mọc núi — chậm, lặng lẽ, nhưng khi xong rồi thì ngàn năm không đổ."*

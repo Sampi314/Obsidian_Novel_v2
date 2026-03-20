@@ -34,9 +34,23 @@ Tu luyện Băng Thủy thuộc tính tới mức cực hạn, sử dụng hàn 
 - **Tuyệt Vực Băng Ngâm (绝域冰吟):** Tiếng rồng gầm tạo ra một kết giới hàn băng diện rộng, hạ nhiệt độ xuống mức đóng băng linh khí, giam cầm đối thủ.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Thanh Huyền** (Cấp dưới): Bắc Phương Thủy Tướng, thủ hạ trung thành nhất và thanh gươm của Bắc Hải
+- **Cuồng Lôi** (Đồng minh): Đồng liêu cùng Long Cung
+- **Huyết Triều** (Đồng minh): Đồng liêu cùng Long Cung
+- **Hắc Lạc Nhạn** (Sư đồ): Băng Nha dẫn dắt Hắc Lạc Nhạn trong Long Cung
+- **Hắc Ngạo Thiên** (Đồng minh): Đồng liêu cùng Long Cung
+- **Minh Trầm Mặc** (Đồng minh): Đồng liêu cùng Long Cung
+- **Ngao Đình** (Đồng minh): Đồng liêu cùng Long Cung
+- **Thiết Lân** (Sư đồ): Băng Nha dẫn dắt Thiết Lân trong Long Cung
+- **Xích Liệt Hỏa** (Đồng minh): Đồng liêu cùng Long Cung
+- **Xích Ngọc Yên** (Sư đồ): Băng Nha dẫn dắt Xích Ngọc Yên trong Long Cung
+- **Hắc Thiên** (Chủ tớ): Hắc Thiên quản lý Băng Nha trong Long Cung
+- **Minh Uyên** (Chủ tớ): Minh Uyên quản lý Băng Nha trong Long Cung
+- **Thanh Hàn Nguyệt** (Đồng minh): Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau
+- **Tế Vân Trạch** (Đồng minh): Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau
+- **Xích Viêm** (Chủ tớ): Xích Viêm quản lý Băng Nha trong Long Cung
 - **Bắc Hải Long Vương:** Chủ nhân trực tiếp. Băng Nha tuân lệnh tuyệt đối và là thanh gươm hành quyết của Bắc Hải.
 - **Huyết Triều:** Đồng liêu nhưng cũng là đối thủ ganh đua. Băng Nha vô cùng khinh thường sự bốc đồng, cuồng loạn và cách thức chiến đấu tàn bạo ồn ào của nàng ta.
 - **Cuồng Lôi:** Tôn trọng lẫn nhau về sức mạnh, dù Cuồng Lôi cũng ngần ngại trước sự tĩnh lặng chết chóc của Băng Nha.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Băng Nha là một Giao Long sinh ra và lớn lên ở Vực Băng Uyên, nơi lạnh giá và tối tăm nhất của Vô Tận Hải. Trải qua ngàn năm cô độc hấp thụ hàn khí chí âm, hắn lột xác và được Bắc Hải Long Vương thu nhận, phong làm Bắc Phương Thủy Tướng thủ hộ vùng biển phía Bắc. Băng Nha luôn khao khát có thể lột xác hoàn toàn thành Băng Sương Chân Long, tiến vào Hóa Long Trì để đạt tới cảnh giới tối thượng của Long Tộc.

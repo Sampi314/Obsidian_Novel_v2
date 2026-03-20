@@ -32,9 +32,14 @@ Hùng Thiên Sơn Hống trong hình dạng yêu thú là một con gấu nâu v
 Là Hùng Bộ Lạc Trưởng cảnh giới Kim Đan Viên Mãn, Hùng Thiên Sơn Hống tu luyện "Sơn Hống Chấn Thiên Công" (山吼震天功) — tiếng gầm mang theo yêu lực tạo sóng chấn phá hủy mọi thứ trong phạm vi. Tuyệt kỹ "Bách Nhạc Sơn Hống" (百岳山吼) khiến trăm ngọn núi cùng cộng hưởng tiếng gầm, sức phá hoại kinh hoàng. Điểm mạnh là sóng âm diện rộng và sức mạnh vật lý khủng khiếp, nhược điểm là thiếu tinh tế và dễ bị lợi dụng vì nóng tính.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hùng Thiết Sơn:** Thánh Tướng và cũng là bạn thân từ nhỏ, hai gấu thường tỉ thí để rèn luyện.
-- **Hổ Liệt Diễm:** Hỏa Hổ Bộ Lạc Trưởng, đồng minh trung thành cùng bảo vệ biên giới phía nam.
-- **Hùng Cổ Mộc:** Đại Trưởng Lão, hắn kính trọng nhưng ghét nghe giảng đạo dài dòng.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Hổ Vạn Kiếp** (Thuộc hạ): Yêu Đế thống lĩnh Hùng Bộ Lạc Trưởng
+- **Mãng Ngàn Thu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Viên Bá Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Xà Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Liệt Diễm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Lang Thiên Nộ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Mãng Hắc Vân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hùng Thiên Sơn Hống sinh ra trong hang gấu lớn nhất dãy núi phía nam Đông Hoang, tiếng khóc chào đời làm đá lở. Hắn lớn lên bằng cách đấm vỡ đá tảng và gầm cho đến khi chim chóc bay tán loạn. Trở thành Bộ Lạc Trưởng sau khi gầm một tiếng dọa chạy kẻ tiền nhiệm — không cần đánh. Hắn đã dẫn bộ lạc Hùng đánh lui ba lần xâm lược từ biên giới, bảo vệ lãnh thổ phía nam vững như bàn thạch. Mục tiêu hiện tại là tìm cách đột phá Nguyên Anh, nhưng chưa biết phải ngồi yên tu luyện thế nào.

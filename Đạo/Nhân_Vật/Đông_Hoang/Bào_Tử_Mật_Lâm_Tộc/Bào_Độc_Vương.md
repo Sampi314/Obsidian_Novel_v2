@@ -65,10 +65,15 @@ Tính cách nóng nảy, hung hãn, trái ngược hoàn toàn với phần lớ
 Tu luyện *Vạn Độc Bào Thể Quyết* (萬毒孢體訣) — công pháp biến chính thân thể hắn thành một kho chứa độc sống, hấp thụ mọi loại độc tố từ môi trường và tinh luyện thành vũ khí chiến đấu. Chiêu thức chủ lực *Độc Bào Tán Xạ* (毒孢散射) phóng ra hàng vạn bào tử kịch độc bao phủ diện rộng, bất kỳ sinh vật nào hít phải đều bị liệt thần kinh trong vòng mười hơi thở. Tuyệt chiêu *Tử Vụ Hộ Lâm* (紫霧護林) tạo ra một bức tường sương tím dày đặc bao quanh thảm nấm, kéo dài hàng canh giờ, đủ sức ngăn chặn cổ trùng Trúc Cơ xâm nhập. Sở trường của Độc Vương là phòng thủ khu vực — hắn không nhanh, không linh hoạt, nhưng bất kỳ ai bước vào vùng kiểm soát của hắn đều phải trả giá đắt. Nhược điểm là tốc độ di chuyển cực chậm, và nếu rời khỏi thảm nấm, sức mạnh giảm sút nghiêm trọng vì mất nguồn bổ sung độc tố.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bào Hồng Tán:** Tộc Trưởng mà Độc Vương tuyệt đối trung thành. Hắn từng nói: "Tộc Trưởng bảo ta chết thì ta chết, nhưng trước khi chết ta sẽ kéo theo mọi kẻ thù."
-- **Bào Thiên Biến Hoa:** Phó tộc trưởng, người cùng theo đuổi sức mạnh qua độc nhưng bằng con đường tiến hóa thay vì bạo lực. Hai người thường tranh cãi về phương pháp tối ưu, nhưng trong chiến đấu luôn hỗ trợ nhau.
-- **Bào Thâm Thổ:** Thổ Dưỡng Sư hiền lành, người dọn dẹp vùng đất sau mỗi lần Độc Vương "chiến đấu" — vì lãnh thổ hắn bảo vệ thường bị ô nhiễm nặng bởi chính độc tố của hắn.
-
+- **Bào Hồng Tán** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Thâm Thổ** (Đồng minh): Thổ Dưỡng Sư, đồng đội chiến trường — Thâm Thổ dọn bãi chiến trường, Độc Vương canh giữ phía trước
+- **Bào Huyết Tịnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Thiên Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Tịnh Hóa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Hắc Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Lục Quang Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Ngọc Quang** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Thiên Biến Hoa** (Đối thủ): Hộ Pháp, kẻ mà nàng vừa coi là đối thủ trí tuệ vừa nể phục vì sự dũng cảm thô bạo
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Bào Độc Vương nảy mầm tại Đầm Hủy Diệt — vùng đất chết nơi Vạn Độc Môn đổ chất thải luyện độc, nơi mà mọi sinh vật khác đều bị hủy diệt. Hắn là đột biến hiếm gặp, thay vì bị độc tố giết chết, hắn hấp thụ toàn bộ và phát triển vượt bậc, trở thành cá thể nấm lớn nhất và độc nhất trong lịch sử tộc. Hồng Tán nhận ra tiềm năng của hắn, đích thân dẫn dắt hắn về trung tâm thảm nấm dù phải chịu đựng nồng độ độc tố kinh hoàng mà hắn tỏa ra suốt chặng đường.
 

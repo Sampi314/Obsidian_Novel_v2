@@ -69,3 +69,10 @@ arcs:
 - **Sư Phụ:** Vô danh tu sĩ (đã mất, chỉ nhận di vật).
 - **Kẻ Thù:** Các toán cướp tu tiên vùng biên giới (thường xuyên đụng độ).
 - **Bạn Hữu:** Có vài mối quan hệ xã giao với các chủ thương hội (người thuê nàng), nhưng không ai thực sự thân thiết.
+- **Diệp Tĩnh Sương** (Đồng minh): Kiếm tu đồng đạo, chưa gặp mặt
+- **Bằng Bắc Minh** (Sư phụ): Bằng Bắc Minh chỉ dẫn Triệu Thanh Hằng trong Tán Tu
+- **Hạc Tuyết Nhi** (Sư phụ): Hạc Tuyết Nhi chỉ dẫn Triệu Thanh Hằng trong Tán Tu
+- **Sương Lệ Nhi** (Sư phụ): Sương Lệ Nhi chỉ dẫn Triệu Thanh Hằng trong Tán Tu
+- **Sở Lăng Sương** (Đồng minh): Chiến hữu cùng Tán Tu, chiến đấu song song
+- **Tước Hàn** (Đồng minh): Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+- **Tước Tuyết Nhi** (Đồng minh): Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau

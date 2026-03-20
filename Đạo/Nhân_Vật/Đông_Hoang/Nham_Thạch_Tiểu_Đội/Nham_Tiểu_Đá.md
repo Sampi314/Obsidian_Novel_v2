@@ -32,8 +32,8 @@ Nham Tiểu Đá nhỏ con so với Thạch Tộc, chỉ cao khoảng hai mét, 
 Nham Tiểu Đá đang học Thạch Đạn Xạ Kích (石彈射擊) — bắn ra viên đá nhỏ cứng từ tay với tốc độ cao, dùng để cảnh cáo và trinh sát. Ngoài ra, y có khả năng Thạch Ẩn Thuật (石隱術), hòa mình vào vách đá trở nên gần như vô hình. Điểm mạnh là tốc độ nhanh bất thường đối với Thạch Tộc; điểm yếu là phòng thủ nhục thân còn yếu do tuổi trẻ.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nham Cương:** Đội Trưởng mà Tiểu Đá kính trọng như cha, luôn cố gắng chứng minh bản thân xứng đáng trước mắt Cương.
-- **Thạch Trấn Sơn:** Phó Đội Trưởng trực tiếp huấn luyện, nghiêm khắc nhưng Tiểu Đá biết là vì tốt cho mình.
-
+- **Nham Cương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Nham Thạch Tiểu Đội
+- **Nham Cương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nham Cương
+- **Thạch Trấn Sơn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nham Thạch Tiểu Đội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nham Tiểu Đá là cá thể Thạch Tộc trẻ nhất tiểu đội, được Nham Cương cứu về khi còn là một viên đá nhỏ đang hình thành ý thức bên bờ vực núi. Lớn lên dưới sự che chở của cả đội, y coi tiểu đội như gia đình. Gần đây, trong một lần tuần tra, y phát hiện dấu chân lạ gần lối vào hang bị phong tỏa — nơi giấu bí mật Long Mạch Chi Tâm — nhưng chưa báo cáo vì cho rằng chỉ là thú hoang. Đây có thể là mối nguy tiềm tàng mà tiểu đội chưa nhận ra.

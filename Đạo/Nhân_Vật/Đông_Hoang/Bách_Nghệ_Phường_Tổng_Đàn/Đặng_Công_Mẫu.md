@@ -32,8 +32,10 @@ Phụ nữ trung niên đẫy đà với đôi tay chai sạn vì năm tháng lu
 Đan sư Kim Đan cấp, tinh thông Linh Hỏa Khống Chế Thuật (靈火控制術) điều khiển lửa luyện đan với độ chính xác cao. Tuyệt chiêu Công Mẫu Vạn Đan Lô (工母萬丹爐) cho phép đồng thời luyện nhiều lò đan cùng lúc. Không có năng lực chiến đấu đáng kể, phòng thân chủ yếu bằng các loại đan dược phòng vệ tự chế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Tiểu Lô:** Tổng Quản, phụ tá đắc lực quản lý công việc hàng ngày.
-- **Vũ Thiết Chùy:** Phó Phường Chủ Đan Đường, đồng liêu tin cậy phụ trách rèn khí.
-
+- **Vũ Thiết Chùy** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bách Nghệ Phường Tổng Đàn
+- **Lý Tiểu Lô** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bách Nghệ Phường Tổng Đàn
+- **Vũ Thiết Chùy** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Đặng Công Mẫu
+- **Lý Tiểu Lô** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Đặng Công Mẫu
+- **Lý Cơ Giới** (Đồng minh): Phường Chủ Bách Nghệ và Phường Chủ Luyện Khí, cùng chế tác
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Đặng Công Mẫu từng là đệ tử ngoại môn của Đan Hà Cốc, bị trục xuất vì dám cải tiến công thức đan dược truyền thống. Không cam chịu thất bại, bà tự mình thành lập Bách Nghệ Phường Tổng Đàn, tạo nơi nương thân cho các tán tu thợ nghề bị coi thường. Dưới sự lãnh đạo của bà, phường phát triển thành đối tác thương mại quan trọng của nhiều thế lực. Mục tiêu bí mật là luyện thành công Cải Mệnh Đan từ chiếc lò cổ bị phong ấn trong mật thất.

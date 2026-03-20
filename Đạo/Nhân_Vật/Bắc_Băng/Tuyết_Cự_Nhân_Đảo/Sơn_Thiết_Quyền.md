@@ -35,6 +35,7 @@ Là Chiến Binh Tuần Tra của Tuyết Cự Nhân Đảo, phong cách chiến
 - **Nham Cương Thể (Dũng Sĩ Phòng Thủ):** Chiến hữu kề vai sát cánh, thường xuyên nhắc nhở và kìm hãm sự nóng nảy của Sơn Thiết Quyền, phối hợp tạo thành lá chắn và mũi giáo hoàn hảo.
 - **Sơn Đại Địa (Dũng Sĩ Ném Băng):** Đồng đội tác chiến, một người càn quét cận chiến, một kẻ bắn yểm trợ từ xa, rất nể trọng khả năng ném băng của Sơn Đại Địa.
 - **Lão Cự Nhân Tuyết Sơn (Trưởng Lão):** Dù tính tình nóng nảy, Sơn Thiết Quyền vô cùng tôn kính Lão Cự Nhân, luôn nghe lời răn dạy về việc không được tùy tiện rời đảo.
+- **Tuyết Nham Cốt** (Đồng minh): Chiến Binh Tuần Tra nóng tính, y vừa quý vừa đau đầu
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra với đôi tay dị thường, Sơn Thiết Quyền sớm thể hiện bản lĩnh trong việc nghiền nát những khối băng cứng nhất để mở đường cho bộ lạc đi săn cá voi. Trong quá khứ, hắn từng vô kỷ luật lao ra vùng nước sâu đuổi theo Hắc Hải Hải Tặc và suýt bỏ mạng nếu không được các Tuyết Vu cứu sống. Bài học đó đã khiến hắn gắn bó với nhiệm vụ tuần tra ven biển hơn, quyết thề dùng đôi thiết quyền bảo vệ từng tấc tuyết của hòn đảo, và trở thành nỗi ám ảnh cho những con tàu dám bén mảng đến lãnh địa Bắc Băng.

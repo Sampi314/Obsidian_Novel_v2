@@ -109,6 +109,17 @@ Mười lăm năm nuôi Phẫn Hải là mười lăm năm Giao Khổ Hải tự
 
 Giao Lệ Vân liên lạc với anh ba năm trước, nhờ anh kìm giữ Phẫn Hải trong khi nàng chuẩn bị kế hoạch lớn. Anh đồng ý không phải vì hiểu kế hoạch, mà vì nàng hứa: "Phẫn Hải sẽ có tương lai." Anh không hỏi chi tiết, không hỏi phương pháp, chỉ hỏi: "Khi nào?" Nàng đáp: "Chưa biết." Anh gật đầu và tiếp tục dệt. Anh có thể chờ. Anh đã chờ cả đời.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Giao Tiểu Lệ** (Thủ lĩnh): Đứa nhỏ mà Phẫn Hải muốn bảo vệ, mình cũng thương nó như cháu gái
+- **Giao Bạch Phát** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Bần Dân
+- **Giao Lệ Vân** (Đồng minh): Thủ lĩnh ngầm, người mà mình tin tưởng để giao phó tương lai của em trai
+- **Giao Bạch Phát** (Đồng minh): Trưởng lão, người cùng thế hệ nhưng già hơn rất nhiều, kẻ duy nhất hiểu nỗi mệt mỏi của mình
+- **Giao Tàn Ty** (Đồng minh): Đồng nghiệp dệt lâu năm, hai người ngồi cạnh nhau trên khung dệt suốt ba mươi năm
+- **Giao Thiên Lệ** (Đồng minh): Thợ dệt cần mẫn nhất, người hiểu nỗi đau của khung dệt hơn ai hết
+- **Giao Vô Danh** (Đồng minh): Thợ dệt già, người im lặng giống mình, hiểu nhau qua ánh mắt
+- **Giao Mộng Hải** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Bần Dân
+- **Giao Phẫn Hải** (Kẻ thù): Đứa em nuôi mà mình coi như ruột thịt, đứa trẻ mồ côi mình nhận về ngày mẹ nó chết
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 - **Phưởng Ti Thuật (纺丝术):**

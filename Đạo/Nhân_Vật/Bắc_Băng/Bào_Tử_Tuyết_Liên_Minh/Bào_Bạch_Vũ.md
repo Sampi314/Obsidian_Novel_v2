@@ -147,6 +147,8 @@ arcs:
     - Bạch Vũ coi đội kỵ binh như gia đình — hắn biết tên từng bào tử, nhớ sở trường sở đoản của mỗi cá thể, và không bao giờ hy sinh kỵ binh một cách không cần thiết. Sau mỗi trận đánh, hắn tự mình kiểm tra từng bào tử bị thương, đảm bảo tất cả đều được phục hồi đầy đủ trước trận tiếp theo.
 - **Bào Hàn Ngọc — Phó Minh Chủ & Kẻ Xa Lạ:**
     - Bạch Vũ không có mâu thuẫn với Hàn Ngọc nhưng cũng không thân thiết. Hắn không hiểu phong cách ngoại giao lạnh lùng của Phó Minh Chủ, và cảm thấy bất an khi ở gần một sinh vật không bao giờ thể hiện cảm xúc. Hắn tôn trọng chức vụ của Hàn Ngọc nhưng giữ khoảng cách.
+- **Bào Đông Phong** (Sư phụ): Hàn Phong Sứ truyền lệnh trên chiến trường, phối hợp thường xuyên
+- **Bào Lăng Tiêu** (Chủ nhân): Trưởng Lão Phòng Thủ giữ hậu phương, người hắn kính trọng vì sự vững vàng
 
 ## VII. GIAI THOẠI
 > *"Vũ Tướng bay qua, tuyết dưới đất cũng phải ngước lên."*

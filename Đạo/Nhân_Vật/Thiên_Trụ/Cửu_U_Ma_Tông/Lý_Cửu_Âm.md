@@ -32,9 +32,10 @@ Lão nhân gầy gò, da nhăn nheo xám xịt, móng tay dài đen sì luôn nh
 Tu luyện Cửu Âm Độc Kinh — tuyệt học dùng âm độc (độc tố từ nguồn âm khí) xâm nhập kinh mạch đối phương. Có thể bào chế vạn loại kịch độc, từ độc sát thể xác đến độc hại linh hồn. Bản thân đã miễn dịch với mọi loại độc tố, thậm chí máu và hơi thở cũng mang kịch độc.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Ma Chủ Vô Tên]] — Ma Chủ, người cung cấp tài nguyên cho nghiên cứu độc thuật.
-- [[Mạc U Hồn]] — Đệ Lục Ma Vương, đối tác nghiên cứu, thường trao đổi tà thuật.
-- [[Bạch Cốt]] — Đệ Thất Ma Vương, cung cấp xương cốt làm nguyên liệu bào chế độc.
-
+- **Diệp Huyền Minh** (Đồng minh): Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau
+- **Hồn Diệt** (Đồng minh): Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau
+- **Ma Chủ Vô Tên** (Đồng minh): Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau
+- **Lý Vô Ảnh** (Đồng minh): Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau
+- **Mạc U Hồn** (Đồng minh): Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân là một dược sư tu chân, từng phục vụ một tông phái chính đạo. Vì nghiên cứu độc dược bị cấm, bị trục xuất và truy sát, buộc phải chạy vào ma đạo. Trong Cửu U Ma Tông, hắn tìm được tự do nghiên cứu không giới hạn, phát triển Cửu Âm Độc Kinh đến cảnh giới biến hóa khôn lường. Phụ trách bào chế ma dược và độc vật cho toàn Ma Tông, là trụ cột hậu cần không thể thiếu.

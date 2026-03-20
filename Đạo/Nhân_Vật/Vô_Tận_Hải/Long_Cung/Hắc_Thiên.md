@@ -35,9 +35,11 @@ Với tu vi Luyện Hư Sơ Kỳ, Hắc Thiên nắm giữ những bí thuật t
 - **Cửu Long Hộ Thể Trận (九龙护体阵):** Triệu hồi chín bóng mờ của tổ long bảo vệ xung quanh, tạo thành một lớp phòng ngự tuyệt đối không thể xuyên thủng bằng các đòn tấn công thông thường.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Thanh Huyền** (Đồng minh): Đông Hải Long Vương, đồng liêu lão luyện mà Thanh Huyền kính trọng nhưng không thân cận
+- **Vạn Kiếp** (Đồng minh): Đông Hải Long Vương, đồng liêu cổ xưa nhất còn sống, chia sẻ gánh nặng bí mật về Long Đế
+- **Băng Nha** (Chủ tớ): Hắc Thiên quản lý Băng Nha trong Long Cung
 - **Hắc Ngạo Thiên:** Thái Tử Đông Hải, đứa con trai ruột thịt nhưng lại khiến hắn vô cùng tức giận vì bản tính nổi loạn và từ bỏ trách nhiệm với vương quốc.
 - **Hắc Lạc Nhạn:** Nhạc Sư Cung Đình, một trong số ít những thuộc hạ mà hắn cho phép đến gần để xoa dịu tâm trí bằng âm nhạc trong những lúc mệt mỏi vì cai trị.
 - **Chương Thiên Cơ Huyền:** Thái Thượng Trưởng Lão của Hải Thần Cung, một đối thủ già cỗi mà hắn luôn đề phòng và tìm cơ hội tiêu diệt để củng cố quyền lực tuyệt đối tại Vô Tận Hải.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hắc Thiên là một trong những tồn tại cổ xưa nhất của Vô Tận Hải, từng chứng kiến sự suy tàn của Long Tộc sau cuộc Đại Chiến Thượng Cổ. Cả cuộc đời hắn cống hiến cho việc bảo vệ Thủy Tinh Cung và gìn giữ chút vinh quang cuối cùng của giống loài. Trong nhiều ngàn năm, hắn dùng sự tàn nhẫn và uy quyền tuyệt đối để thống trị các bộ tộc hải yêu, thu thập vô số báu vật và linh mạch về cho Long Cung. Dù tuổi tác đã cao và sức mạnh không còn ở thời kỳ đỉnh cao, Hắc Thiên vẫn luôn cố gắng kéo dài thọ nguyên bằng các bí thuật thượng cổ, chờ đợi một ngày Long Tộc có thể trỗi dậy cai trị cả bầu trời và đại dương như trong quá khứ.

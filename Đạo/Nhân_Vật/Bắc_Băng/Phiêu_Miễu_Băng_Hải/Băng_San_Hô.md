@@ -35,6 +35,11 @@ Chuyên môn chiến đấu của nàng không nằm ở khả năng sát thươ
 - **Hải Cung:** Kính trọng tuyệt đối. Băng San Hô thường xuyên điều chế các loại hương liệu đặc biệt để giúp Cung Chủ duy trì trạng thái minh mẫn tuyệt đối khi thi triển huyễn thuật cao cấp.
 - **Hàn Thanh Âm:** Đối tác ăn ý trong các nhiệm vụ. Các loại mộng dược của nàng thường được hòa quyện vào tiếng đàn của Thanh Âm để gia tăng tối đa uy lực của huyễn cảnh.
 - **Dược Vương Cốc:** Có mối liên hệ giao thương ngầm, trao đổi những kiến thức dược lý chuyên sâu về cách ức chế tâm ma và ổn định thần thức.
+- **Lam Tịnh Thủy** (Đệ tử): Dược Sư đồng tộc, đệ tử ruột và người kế thừa kiến thức dược lý biển sâu
+- **Mộng Hàn Yên** (Đồng minh): Dược Sư cung cấp dược liệu chuyên dụng cho các ca tịnh hóa thần thức phức tạp
+- **Nguyệt Ảnh Hồ** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
+- **Sương Vũ Nữ** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
+- **Thủy Linh Nhi** (Đồng minh): Đồng liêu cùng Phiêu Miễu Băng Hải, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vốn là một Hải Yêu sinh ra từ rạn san hô ngàn năm tuổi dưới đáy Bắc Băng, Băng San Hô sớm bộc lộ thiên phú về việc kết tinh linh khí thủy hệ thành các loại dược liệu quý hiếm. Nàng được Phiêu Miễu Băng Hải phát hiện, thu nhận và đào tạo để trở thành Dược Sư Biển Băng chủ lực của Thủy Hoa Viện. Hiện tại, hành trình của nàng xoay quanh việc tìm kiếm những linh hồn biển sâu thuần khiết nhất để hoàn thiện "Tĩnh Tâm Tiên Lộ" - một loại thánh dược có khả năng xóa bỏ những tâm ma dai dẳng nhất. Thông qua việc điều trị tâm ma cho các cường giả khắp nơi, nàng đóng vai trò then chốt trong việc duy trì mạng lưới tình báo và tài chính của tông môn.

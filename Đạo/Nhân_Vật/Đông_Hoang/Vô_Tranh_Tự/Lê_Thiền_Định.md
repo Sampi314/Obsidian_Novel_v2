@@ -32,9 +32,16 @@ Lê Thiền Định dáng người nhỏ gọn, mặt phẳng lặng như mặt 
 Là Trưởng Lão cảnh giới Nguyên Anh Trung Kỳ, Lê Thiền Định tu luyện "Thiền Định Bất Động Công" (禅定不动功) — nhập thiền sâu đến mức ngoại vật không thể lay chuyển. Tuyệt kỹ "Định Hải Thần Tâm" (定海神心) phóng ra trường lực tinh thần khiến mọi thứ xung quanh ngừng lại. Điểm mạnh là thiền định và tinh thần lực cực mạnh, nhược điểm là cần thời gian nhập định và không giỏi cận chiến.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Vô Tướng:** Thái Thượng Trưởng Lão mà hắn ngưỡng mộ cảnh giới vô tướng.
-- **Nguyễn Bát Nhã:** Hộ Pháp, hai người hay thiền định cùng nhau.
-- **Lý Vô Nhai:** Phương Trượng, hắn phò tá bằng thiền lực.
-
+- **Phạm Vô Niệm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vô Tranh Tự
+- **Phạm Vô Niệm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phạm Vô Niệm
+- **Hoàng Kim Cương** (Thuộc hạ): Cùng Vô Tranh Tự, quan hệ tổ chức
+- **Nguyễn Bát Nhã** (Thuộc hạ): Cùng Vô Tranh Tự, quan hệ tổ chức
+- **Trần Tiểu Tăng** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vô Tranh Tự
+- **Lý Ngộ Không** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vô Tranh Tự
+- **Trần Vô Tướng** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vô Tranh Tự
+- **Nguyễn Bát Nhã** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vô Tranh Tự
+- **Vũ Giới Luật** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vô Tranh Tự
+- **Đặng Huệ Tâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vô Tranh Tự
+- **Trần Vô Tướng** (Đồng minh): Cùng Vô Tranh Tự, quan hệ tổ chức
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lê Thiền Định từ nhỏ đã có tật không thể tập trung — tâm trí luôn dao động. Hắn gia nhập Vô Tranh Tự để tìm cách chữa trị và phát hiện rằng thiền định phật pháp có thể kiểm soát tâm trí. Hắn luyện thiền đến mức cực đoan, ngồi yên một chỗ suốt mười năm liền không đứng dậy. Sự kiện nổi tiếng là khi hắn ngồi thiền giữa trận động đất mà không hề lay chuyển, phật lực tỏa ra ổn định cả khu vực. Hiện tại, hắn là trụ cột thiền lực của tự viện.

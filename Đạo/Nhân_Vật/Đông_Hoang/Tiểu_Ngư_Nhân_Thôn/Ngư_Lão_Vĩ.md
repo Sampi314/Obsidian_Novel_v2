@@ -32,8 +32,12 @@ Ngư Lão Vĩ mang hình dáng nửa người nửa cá, thân trên gần giố
 Ngư Lão Vĩ không có kỹ năng chiến đấu. Sở hữu Hải Âm Liên Lạc Thuật (海音聯絡術) — phát ra sóng âm cấp thấp dưới nước để liên lạc và xua đuổi cá ăn thịt nhỏ. Vảy cứng hơn Ngư Nhân thường — có thể là dấu hiệu tiến hóa chậm. Biết nói vài câu tiếng người đơn giản.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Ngư Bạch San:** Ngư dân đáng tin, phụ trách đội thợ săn cá.
-- **Ngư Tiểu Lân:** Ngư Nhân trẻ đặc biệt biết vẽ, y theo dõi sát.
-
+- **Ngư Tiểu Lân** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tiểu Ngư Nhân Thôn
+- **Ngư Bạch San** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tiểu Ngư Nhân Thôn
+- **Ngư Tiểu Lân** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Ngư Lão Vĩ
+- **Ngư Bạch San** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Ngư Lão Vĩ
+- **Giao Thiên Hải** (Thuộc hạ): Thôn Trưởng Tiểu Ngư chịu bảo hộ của Giao Nhân Liên Minh
+- **Mạc Lão Đầu** (Đồng minh): Trưởng Thôn Độc Đảo và Thôn Trưởng Tiểu Ngư, láng giềng
+- **Ngư Hồ Tiên** (Đồng minh): Hồ Cư Dân và Thôn Trưởng Tiểu Ngư, láng giềng
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ngư Lão Vĩ là Ngư Nhân già nhất còn sống, là thôn trưởng duy nhất từng nhìn thấy bóng dáng mờ ảo của Hải Thần Cung khi còn trẻ. Ngôn ngữ hạn chế nên không diễn tả được trải nghiệm. Suốt đời y chỉ lo bảo vệ thôn khỏi Giao Nhân Tộc và ngư dân Nhân Tộc. Gần đây lo lắng vì vùng nước ấm xung quanh rạn san hô đang lạnh dần — dấu hiệu thay đổi hải lưu.

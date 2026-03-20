@@ -150,6 +150,7 @@ arcs:
     - Thiên Lý Tuyết tôn trọng Lăng Tiêu vì y đảm bảo rằng mỗi khi Viễn Chinh Tướng dẫn quân ra ngoài, hậu phương luôn an toàn. Tuy nhiên, hắn cho rằng Lăng Tiêu quá thận trọng — "phòng thủ là chờ chết" là câu hắn hay nói. Lăng Tiêu không bao giờ tranh luận, chỉ lặng lẽ xây thêm một tầng kết giới phòng thủ nữa.
 - **Bào Sương Hàn — Trinh Sát Tuyết & Tai Mắt Tiên Phong:**
     - Thiên Lý Tuyết coi Sương Hàn là tài sản quý giá nhất trên chiến trường — không có tình báo, không có chiến thắng. Hắn luôn yêu cầu Sương Hàn trinh sát kỹ lưỡng trước mọi chiến dịch, và chấp nhận trì hoãn tấn công nếu Sương Hàn nói "chưa đủ thông tin" — đây là lần duy nhất Thiên Lý Tuyết chịu kiên nhẫn chờ đợi.
+- **Bào Đông Phong** (Sư phụ): Viễn Chinh Tướng cần truyền lệnh chiến trường, đối tác quân sự quan trọng
 
 ## VII. GIAI THOẠI
 > *"Khi Bão Tuyết Có Mắt xuất hiện, đừng chạy — ngươi không chạy nhanh hơn gió. Hãy quỳ xuống và cầu nguyện rằng hắn không phải đến tìm ngươi."*

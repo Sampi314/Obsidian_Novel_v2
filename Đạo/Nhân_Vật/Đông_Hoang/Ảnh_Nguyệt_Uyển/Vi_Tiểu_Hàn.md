@@ -32,9 +32,13 @@ Dáng người gầy gò với nước da nhợt nhạt, mái tóc đen ngắn v
 Chuyên về truyền tin và mã hóa thông điệp, tinh thông Hàn Ảnh Mật Ngữ Thuật (寒影密語術) tạo ra các thông điệp chỉ có thể đọc được bởi người được chỉ định. Tuyệt chiêu Tiểu Hàn Phong Ấn (小寒封印) đóng băng một vùng không gian nhỏ, ngăn chặn rò rỉ thông tin. Tu vi còn thấp nên không có khả năng chiến đấu đáng kể.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Vi Minh Nguyệt:** Trưởng Lão, sư phụ trực tiếp đào tạo, coi như ông nội.
-- **Tiểu Phong Linh:** Bạn thân cùng trang lứa, luôn sát cánh bên nhau.
-- **Vi Sương Vân:** Thất Dạ Sứ, người mà Tiểu Hàn kính phục và mong được theo học.
-
+- **Vi Ám Hà** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ảnh Nguyệt Uyển
+- **Vi Ám Hà** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Vi Ám Hà
+- **Hoa Tiểu Yến** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ảnh Nguyệt Uyển
+- **Vi Minh Nguyệt** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ảnh Nguyệt Uyển
+- **Vi Nguyệt Ảnh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ảnh Nguyệt Uyển
+- **Tiểu Dạ Lan** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ảnh Nguyệt Uyển
+- **Vi Sương Vân** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ảnh Nguyệt Uyển
+- **Tiểu Phong Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ảnh Nguyệt Uyển
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vi Tiểu Hàn là mồ côi Vi Tộc được Vi Minh Nguyệt nhận nuôi từ nhỏ. Cậu sở hữu trí nhớ phi thường hiếm có, có thể ghi nhớ mọi thông tin chỉ sau một lần tiếp xúc. Nhờ thiên phú này, cậu được đào tạo thành Liên Lạc Viên chuyên trách truyền tin mật giữa các Ảnh Điểm mà không cần sử dụng văn bản hay pháp bảo lưu trữ. Mục tiêu hiện tại là nâng cao tu vi để đủ tư cách trở thành Thất Dạ Sứ trong tương lai.

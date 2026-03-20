@@ -5,11 +5,13 @@
 - **Vị trí:** Nằm sâu trong trung tâm [Rừng Huyết Độc](Rừng_Huyết_Độc.md), bao quanh khu vực cửa vào [Hang Động Nhện Quỷ](Hang_Động_Nhện_Quỷ.md).
 - **Phân loại:** Cấm Địa / Tử Địa.
 - **Độ nguy hiểm:** Cực Cao (Tu sĩ Trúc Cơ sơ kỳ khó lòng sinh tồn lâu dài nếu không có pháp bảo hộ thân).
+- **Diện tích:** Ước tính hơn 800 mẫu và đang mở rộng liên tục sau sự kiện Đại Nạn Long Mạch.
 
 ## II. ĐẶC ĐIỂM MÔI TRƯỜNG
 - **Không khí:** Luôn bao phủ bởi một lớp sương mù màu xám tro, nặng nề và lạnh lẽo. Đây là hỗn hợp của độc khí từ rừng già và "Địa Sát Tử Khí" rò rỉ từ lòng đất sau khi phong ấn Long Cốt bị vỡ.
 - **Thực vật:** Cây cối tại đây đều đã chết khô hoặc hóa thạch đen sì, vặn vẹo với những hình thù quái dị như bàn tay người đang cầu cứu. Không có bất kỳ loài hoa cỏ nào sống sót, ngoại trừ một số loài nấm ký sinh ăn xác chết.
 - **Âm thanh:** Tĩnh lặng tuyệt đối. Không có tiếng côn trùng, tiếng chim hay tiếng gió lùa qua tán lá. Chỉ thỉnh thoảng có tiếng nứt vỡ của đá hoặc tiếng rên rỉ vô hình từ lòng đất.
+- **Nhiệt độ:** Lạnh bất thường so với xung quanh, ngay cả giữa mùa hè nóng nực của Nam Cương. Hơi thở ngưng tụ thành sương trắng, và sương trắng ấy không tan — nó lơ lửng trong không khí như những hồn ma nhỏ bé.
 
 ## III. CẢNH QUAN CHI TIẾT
 
@@ -17,16 +19,19 @@
 - Ranh giới giữa Rừng Huyết Độc và Vùng Đất Chết không rõ ràng — nó diễn ra từ từ như một cái chết chậm rãi. Cây cối dần thưa thớt, từ xanh thẫm chuyển sang nâu, rồi đen, rồi chỉ còn lại những bộ xương cây trơ trọi in bóng trên nền trời xám xịt.
 - Mặt đất từ ẩm ướt chuyển sang khô nẻ, nứt toác thành từng mảng hình đa giác. Trong các khe nứt, thỉnh thoảng bốc lên những sợi khói đen mỏng manh — Địa Sát Tử Khí đang rò rỉ từ bên dưới.
 - Ở vành đai này, vẫn còn sót lại một số xác Huyết Độc Lang và thú rừng, nhưng chúng không phân hủy theo cách bình thường. Thay vào đó, chúng khô héo và co quắp lại, da bọc xương, mắt mở trừng trừng như vẫn đang nhìn thấy điều gì đó kinh hoàng trong khoảnh khắc cuối cùng.
+- Một hiện tượng kỳ lạ ở vành đai: những cây chết đứng ở đây đôi khi "rỉ nhựa" — không phải nhựa cây, mà là một chất lỏng đen đặc quánh mang theo tử khí cô đọng. Chất lỏng này tích tụ thành từng vũng nhỏ dưới gốc cây, bốc hơi chậm rãi và tạo ra những cột khói đen mỏng manh.
 
 ### 2. Vùng Lõi
 - Trung tâm Vùng Đất Chết là một bình nguyên trống trải rộng khoảng 500 trượng, nền đất đen sì như bị thiêu đốt. Không một ngọn cỏ, không một hạt bụi — chỉ có mặt đất đen và bầu trời xám.
 - Trọng lực ở đây có cảm giác nặng nề hơn bình thường, mỗi bước chân đều tốn sức gấp đôi. Không phải do trọng lực thực sự thay đổi, mà do tử khí đè nặng lên cơ thể và linh lực, tạo ra cảm giác như đang lội qua nước.
 - Giữa bình nguyên, những cột đá đen mọc lên từ mặt đất như răng nanh của đại địa, cao thấp không đều, tạo thành một quang cảnh hoang tàn và đáng sợ.
+- Cột đá lớn nhất — **Tử Nha Thạch** — cao hơn 30 trượng, đỉnh nhọn hoắt cắm vào bầu trời xám. Trên thân cột, vết khắc mờ nhạt hiện ra khi tử khí dày đặc: những ký hiệu không thuộc bất kỳ ngôn ngữ nào được biết đến, có thể là dấu tích của nền văn minh đã tồn tại trước cả Thượng Cổ.
 
 ### 3. Cổng Vòm Huyết Mộc
 - Lối vào chính của Vùng Đất Chết, nơi hai cây Huyết Mộc cổ thụ mọc cong lại tạo thành hình vòm cửa. Đây là ranh giới giữa sự sống thoi thóp của Rừng Huyết Độc và cái chết vĩnh hằng.
 - Hai cây Huyết Mộc này là những cá thể duy nhất còn "sống" trong Vùng Đất Chết, dù sự sống ấy rất kỳ lạ — nhựa cây vẫn chảy nhưng có màu đen thay vì đỏ, và thân cây phát ra tiếng rên rỉ khe khẽ khi gió thổi qua, như thể chúng đang đau đớn.
 - Vỏ cây khắc đầy dấu vết móng vuốt và vết chém — dấu tích của những tu sĩ và yêu thú đã cố gắng phá hủy chúng nhưng thất bại. Gỗ Huyết Mộc cổ thụ ở đây cứng đến mức pháp bảo hạ phẩm không thể để lại vết.
+- Giữa hai cây, nơi vòm cửa cao nhất, luôn có một giọt nhựa đen đọng lại — rơi xuống rồi lại đọng lại, rơi xuống rồi lại đọng lại, lặp đi lặp lại theo một nhịp chậm rãi như nhịp thở. Thợ săn gọi giọt nhựa ấy là **Lệ Tử Môn** (Nước mắt Cổng Chết).
 
 ## IV. ẢNH HƯỞNG CỦA ĐỊA SÁT
 Sau sự kiện "Đại Nạn Long Mạch" (Chương 30), phong ấn dưới lòng đất bị vỡ, khiến một lượng lớn Địa Sát thoát ra ngoài theo các mạch ngầm. Khu vực này nằm ngay trên trục chính của một mạch Địa Sát cổ xưa, do đó chịu ảnh hưởng nặng nề nhất:
@@ -38,15 +43,30 @@ Sau sự kiện "Đại Nạn Long Mạch" (Chương 30), phong ấn dưới lò
 - Vùng Đất Chết đang mở rộng. Mỗi tháng, ranh giới tử địa lấn thêm vài trượng vào Rừng Huyết Độc, biến thêm nhiều cây cối thành xác khô và đẩy lùi các loài thú rừng. Tốc độ mở rộng đang tăng dần.
 - Vào những đêm không trăng, mặt đất đen ở vùng lõi phát ra ánh sáng tím nhạt theo nhịp chậm rãi, như nhịp tim của một sinh vật khổng lồ đang ngủ sâu dưới lòng đất.
 - Một số cương thi bán dẫn bắt đầu di chuyển có tổ chức thay vì lang thang vô định, như thể có một ý chí nào đó đang điều khiển chúng.
+- Gần đây, vào lúc canh ba, đôi khi có thể nghe thấy âm thanh trầm đục phát ra từ sâu dưới lòng đất — không phải tiếng rên rỉ mà giống như tiếng đập, đều đặn và kiên nhẫn.
 
 ## V. CÁC KHU VỰC LIÊN QUAN
 1.  **Cổng Vòm Huyết Mộc:** Lối vào chính, nơi hai cây Huyết Mộc cổ thụ mọc cong lại tạo thành hình vòm cửa. Đây là ranh giới giữa sự sống thoi thóp của Rừng Huyết Độc và cái chết vĩnh hằng của Vùng Đất Chết.
 2.  **Hang Động Nhện Quỷ:** Nằm ở trung tâm Vùng Đất Chết. Trước đây là sào huyệt của Nhện Mặt Quỷ, nay đã trở thành một huyệt mộ khổng lồ chứa đầy tử khí và những sinh vật bóng tối chưa được biết đến.
 3.  **Bãi Tha Ma Cổ Đại:** Một khu vực rải rác xương cốt của các loài cự thú thời thượng cổ, lộ ra do sự xói mòn của tử khí. Xương cốt ở đây vẫn còn chứa tàn dư linh lực, phát ra ánh sáng trắng yếu ớt vào ban đêm, tạo thành quang cảnh vừa kỳ ảo vừa ghê rợn.
 
-## VI. VAI TRÒ TRONG CỐT TRUYỆN
+## VI. SINH VẬT & HIỆN TƯỢNG
+- **Cương Thi Bán Dẫn:** Xác chết bị tử khí biến đổi, nửa sống nửa chết. Chúng di chuyển chậm chạp, mắt đen kịt không có tròng, da xám xịt rắn như đá. Không có ý thức nhưng bản năng tấn công bất kỳ sinh vật sống nào trong phạm vi cảm nhận.
+- **Tử Nha Cốt Điểu:** Loài chim xương — bộ xương chim không có thịt, bay lượn quanh các cột đá đen. Chúng không phải sinh vật sống mà là sản phẩm của tử khí kết tinh xung quanh xương cốt chim cổ đại. Tiếng kêu của chúng — nếu có thể gọi là kêu — là tiếng lạch cạch của xương va vào nhau, vang vọng trong sự tĩnh lặng ghê rợn.
+- **Tử Hoa:** Hiện tượng kỳ lạ xuất hiện sau Đại Nạn — những tinh thể tím mọc lên từ mặt đất đen như hoa nở, thực chất là tử khí kết tinh. Đẹp mắt nhưng chạm vào sẽ bị hút tuổi thọ ngay lập tức. Một số tu sĩ liều lĩnh thu thập Tử Hoa để nghiên cứu, nhưng phải dùng kẹp pháp bảo và bình chứa đặc biệt.
+- **Hiệu Ứng Gương:** Ở vùng lõi, đôi khi tu sĩ nhìn thấy hình bóng của chính mình đang đi ngược hướng — không phải ảo giác, mà là tử khí phản chiếu hình ảnh theo cách chưa ai giải thích được.
+
+## VII. PHƯƠNG PHÁP SINH TỒN
+- **Pháp Bảo Hộ Thân:** Tu sĩ Trúc Cơ trung kỳ trở lên có thể dùng hộ thể chân nguyên để cầm cự 2-4 canh giờ trong vành đai chuyển tiếp. Trong vùng lõi, thời gian giảm xuống còn nửa canh giờ.
+- **Dương Khí Phù:** Loại phù lục chứa dương khí, đốt lên tạo thành lá chắn tạm thời chống tử khí. Mỗi phù có tác dụng khoảng một canh giờ. Đan Hà Cốc sản xuất loại phù này với giá không rẻ.
+- **Giữ Tâm Tĩnh:** Ảo giác do tử khí gây ra bám vào cảm xúc. Tu sĩ có tâm tính vững vàng chịu đựng tốt hơn nhiều so với người tâm trạng bất ổn. Diệp Tĩnh Sương sống sót phần lớn nhờ Thanh Tâm Quyết đã tu luyện từ nhỏ.
+- **Không Chạm Vào Tử Hoa:** Bất kỳ tiếp xúc trực tiếp nào với Tử Hoa đều gây mất tuổi thọ không thể phục hồi.
+- **Di Chuyển Nhanh:** Đứng yên càng lâu, tử khí tích tụ quanh cơ thể càng nhiều. Phải luôn di chuyển để giảm thiểu tiếp xúc.
+
+## VIII. VAI TRÒ TRONG CỐT TRUYỆN
 - Là chướng ngại vật cuối cùng mà nhóm nhân vật chính phải vượt qua để tìm đường sống trong cửa tử (Chương 38-39).
 - Nơi ẩn chứa bí mật về mối liên hệ giữa Rừng Huyết Độc và Hoàng Sa Địa Cung thông qua mạch Địa Sát.
+- Bãi Tha Ma Cổ Đại chứa manh mối về lịch sử Thượng Cổ của vùng đất, hé lộ rằng Nam Cương từng là nơi cư ngụ của những sinh vật khổng lồ trước thời Nhân Tộc.
 
 ## VII. GIAI THOẠI
 
@@ -55,3 +75,6 @@ Sau sự kiện "Đại Nạn Long Mạch" (Chương 30), phong ấn dưới lò
 
 > *"Mặt đất ở đây thở. Ta đặt tay xuống và cảm nhận được nhịp đập. Chậm rãi, đều đặn, kiên nhẫn — như thể thứ ở bên dưới đang đợi. Nó không vội. Nó đã đợi hàng vạn năm rồi."*
 > — Nhật ký hành trình của Diệp Tĩnh Sương, ghi tại rìa Vùng Đất Chết
+
+> *"Lần cuối cùng ta đi qua Cổng Vòm Huyết Mộc, giọt nhựa đen rơi trúng vai ta. Vết cháy đến giờ vẫn chưa lành. Đan Sư nói không phải vết thương — mà là dấu ấn. Vùng Đất Chết đã đánh dấu ta, và một ngày nào đó, nó sẽ đòi lại."*
+> — Một thợ săn lão luyện, kể tại Trạm Biên

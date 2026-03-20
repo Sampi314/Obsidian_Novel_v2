@@ -111,6 +111,17 @@ Giao Mộng Hải bắt đầu dạy nó dệt hoa văn — phát hiện đôi t
 
 Hiện tại, Tiểu Lệ là đứa trẻ bình thường nhất và nguy hiểm nhất khu ổ chuột. Nó ngồi dệt mỗi ngày, nhận cơm từ Phẫn Hải, nghe chuyện từ Bạch Phát, học hoa văn từ Mộng Hải, và mỗi đêm Lệ Vân đến kiểm tra xem nó có khóc trong mơ không. Nó không hiểu vì sao mình phải sống khác biệt. Nó chỉ biết mình không được khóc, và đôi khi trong giấc ngủ, nước mắt vẫn rò rỉ — những giọt nước đen như mực, thấm vào mặt chiếu rong biển, để lại vết loang tối mà Giao Lệ Vân lặng lẽ lật chiếu giấu đi trước khi trời sáng.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Giao Khổ Hải** (Thủ lĩnh): Đứa nhỏ mà Phẫn Hải muốn bảo vệ, mình cũng thương nó như cháu gái
+- **Giao Lệ Vân** (Thủ lĩnh): Đứa trẻ mà mình phải bảo vệ bằng mọi giá, bí mật lớn nhất của khu ổ chuột
+- **Giao Phẫn Hải** (Thủ lĩnh): Đứa nhỏ mà mình muốn bảo vệ, bằng chứng sống cho tội ác của hoàng tộc
+- **Giao Bạch Phát** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Bạch Phát
+- **Giao Mộng Hải** (Sư phụ): Đứa nhỏ mà mình đang dạy dệt, đôi tay bé xíu nhưng có thiên phú
+- **Giao Hàn Sương Lệ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Giao Nhân Bần Dân
+- **Giao Bạch Phát** (Đồng minh): Đứa trẻ nước mắt đen, điềm báo mà mình không hiểu nổi
+- **Giao Vô Danh** (Đồng minh): Người lớn ngồi cạnh mình ở khung dệt, không nói gì nhưng đôi khi giúp mình kéo tơ
+- **Giao Thiên Lệ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Bần Dân
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 - **Phưởng Ti Thuật (纺丝术):**

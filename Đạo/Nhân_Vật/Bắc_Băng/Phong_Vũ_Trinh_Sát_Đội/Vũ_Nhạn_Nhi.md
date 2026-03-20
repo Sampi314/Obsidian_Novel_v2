@@ -64,6 +64,7 @@ Vũ Nhạn Nhi tu luyện Nhạn Hành Khinh Công (雁行輕功), một bộ th
 - **Vũ Tiểu Vũ:** Đội trưởng, người anh mà nàng theo từ ngày lập Đội, ngưỡng mộ sự dũng cảm của hắn và luôn muốn được hắn khen ngợi.
 - **Vũ Lão Cốt:** Cố vấn già, người dạy nàng cách đọc gió và bay đội hình, hay mắng nàng liều lĩnh nhưng nàng biết lão lo cho mình.
 - **Vũ Thanh Phong:** Phó đội trưởng, bạn cùng trang lứa, hai người ngầm ganh đua xem ai là trinh sát giỏi nhất Đội nhưng trong lòng vẫn coi nhau là đồng đội đáng tin.
+- **Hạc Băng Lông** (Đồng minh): Thiếu nữ Phong Vũ Trinh Sát Đội, thỉnh thoảng mang lông vũ đến đổi, nhắc nhở nàng về tuổi trẻ
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vũ Nhạn Nhi sinh ra ở Vũ Tộc Lưu Dân Trại, cha mẹ đều là Vũ Tộc lao động cấp thấp, kiếm sống bằng nghề đưa thư cho các làng Nhân Tộc trong vùng Bắc Băng. Năm nàng mười một tuổi, cha nàng mất tích trong một trận bão tuyết khi đang giao thư — không ai tìm được thi thể, cũng không có Thiên Táng. Mẹ nàng ngã bệnh sau đó, được làng chăm sóc nhưng không còn sức nuôi con. Nàng gia nhập Phong Vũ Trinh Sát Đội từ ngày đầu thành lập, một phần vì cần thức ăn, một phần vì tin rằng nếu bay đủ xa, đủ cao, có thể sẽ tìm được cha. Dù tu vi còn thấp nhất Đội, tốc độ và sự linh hoạt của nàng khiến cả Vũ Lão Cốt cũng phải thừa nhận — đứa nhỏ này có thiên phú hiếm thấy, chỉ thiếu thời gian và cơ duyên.

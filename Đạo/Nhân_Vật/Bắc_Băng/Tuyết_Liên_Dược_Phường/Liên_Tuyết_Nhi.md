@@ -57,6 +57,9 @@ Dù chuyên tu y đạo, Liên Tuyết Nhi vẫn sở hữu khả năng chiến 
 - **Hoàng Dược Sư:** Cánh tay đắc lực, người trưởng bối nàng vô cùng tôn trọng và tin tưởng.
 - **Lý Tiểu Liên:** Đứa trẻ hoạt bát được nàng nuôi nấng và bảo vệ như em gái nhỏ.
 - **Băng Tằm Ti Phường (Thế lực):** Đối tác lâu năm, nàng thường giao dịch dược thảo lấy tơ Băng Tằm để nghiên cứu đan dược.
+- **Kình Băng Hải** (Đồng minh): Phường Chủ Tuyết Liên Dược Phường, đối tác trao đổi dược liệu biển-đất
+- **Hạc Băng Lông** (Đồng minh): Đối tác cung cấp tơ Băng Tằm, quan hệ thương mại nhưng nể phục nhau
+- **Trần Sơn Nhi** (Chủ nhân): Phường Chủ, người cứu mạng và cho mục đích sống, kính trọng tuyệt đối
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Liên Tuyết Nhi là cháu gái của người sáng lập Tuyết Liên Dược Phường, lớn lên giữa gió tuyết và các loại linh thảo của vùng sườn núi hiểm trở. Ngay từ nhỏ, nàng đã bộc lộ thiên phú y đạo phi thường, thấu hiểu đặc tính của hàng trăm loại hàn thảo. Khi Phường Chủ đời trước qua đời, nàng được kế thừa y bát và tiếp quản dược phường. Quyết định mở rộng thanh lọc đất nhiễm độc cùng Hàn Độc Vi Trùng Đoàn của nàng đã vấp phải nhiều ý kiến trái chiều nhưng lại đem đến hy vọng mới cho khu vực. Mục tiêu lớn nhất của nàng hiện tại là nghiên cứu thành công đan dược từ Băng Tằm Ti, đồng thời bảo vệ gốc Tuyết Liên ngàn năm khỏi những kẻ tham lam.

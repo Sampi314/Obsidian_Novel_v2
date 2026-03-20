@@ -32,8 +32,9 @@ Dáng người cân đối với phong thái điềm tĩnh, gương mặt toát 
 Thành viên của Độc Trùng Trị Liệu Đường, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 蟲青針·Bản Mệnh (蟲青針·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bào Hoàng Ty:** Học Đồ, đồng liêu quan trọng nhất trong Độc Trùng Trị Liệu Đường.
-- **Khuẩn Tiểu Linh:** Dược Sư, đối tác thường xuyên phối hợp.
-
+- **Khuẩn Tiểu Linh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Độc Trùng Trị Liệu Đường
+- **Bào Hoàng Ty** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Độc Trùng Trị Liệu Đường
+- **Khuẩn Tiểu Linh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Thanh Châm
+- **Bào Hoàng Ty** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Thanh Châm
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trùng Thanh Châm sinh ra trong một gia đình Trùng Tộc bình thường, sớm thể hiện tư chất phù hợp với Độc Trùng Trị Liệu Đường. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Độc Trùng Trị Liệu Đường và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Đường Chủ.

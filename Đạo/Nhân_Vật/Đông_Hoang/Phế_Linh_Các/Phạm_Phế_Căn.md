@@ -32,8 +32,9 @@ Phạm Phế Căn có thân hình tầm thước, mặt phúc hậu, luôn mỉm
 Phạm Phế Căn không giỏi chiến đấu nhưng sở hữu Phế Phẩm Thẩm Định Nhãn (廢品審定眼) — nhìn ra giá trị ẩn giấu trong pháp khí hỏng mà người khác coi là rác. Khả năng thương mại và đàm phán là vũ khí chính của y, giúp Các có nguồn nguyên liệu dồi dào.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lạc Vô Danh:** Các Chủ mà Phế Căn kính trọng, luôn tìm kiếm pháp khí đặc biệt theo yêu cầu của Vô Danh.
-- **Lý Tiểu Phế:** Đệ tử trẻ mà Phế Căn hay dẫn theo trong các chuyến thu mua, dạy y cách nhận biết giá trị vật phẩm.
-
+- **Lạc Vô Danh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Phế Linh Các
+- **Lạc Vô Danh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lạc Vô Danh
+- **Trần Tàn Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Phế Linh Các
+- **Lý Tiểu Phế** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Phế Linh Các
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Phế Căn từng là thương nhân nhỏ chuyên buôn bán phế phẩm tu luyện. Khi gặp Lạc Vô Danh và thấy khả năng tái tạo pháp khí, y nhận ra đây là cơ hội kinh doanh lớn, đồng thời cũng cảm phục triết lý của Vô Danh. Gia nhập Phế Linh Các, y xây dựng mạng lưới thu mua phế phẩm rộng khắp Đông Hoang. Bí mật: y từng vô tình mua được một mảnh pháp bảo cổ đại trong đống phế phẩm nhưng chưa dám nói với ai.

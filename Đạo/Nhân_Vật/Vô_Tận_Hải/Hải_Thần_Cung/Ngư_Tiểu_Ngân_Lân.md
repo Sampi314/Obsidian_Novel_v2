@@ -32,7 +32,10 @@ Cá nhỏ hầu hạ cung đình, hay nghe lỏm bí mật
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Ngư Thiên Vạn Lý** (Sư đồ): Ngư Thiên Vạn Lý chỉ dẫn Ngư Tiểu Ngân Lân trong Hải Thần Cung
+- **Lệ Nhược Thủy** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Lệ Nhược Thủy** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Hải Ngọc Lan** (Sư đồ): Hải Ngọc Lan dẫn dắt Ngư Tiểu Ngân Lân trong Hải Thần Cung
+- **Sa Bạch Phong** (Sư đồ): Sa Bạch Phong chỉ dẫn Ngư Tiểu Ngân Lân trong Hải Thần Cung
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

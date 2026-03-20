@@ -138,6 +138,7 @@ arcs:
     - Tiểu Hàn là cá thể mà Ngưng Huyết tương tác nhiều nhất — chủ yếu vì phải liên tục cứu chữa khi nó tự đầu độc nhầm trong lúc luyện tập. Hắn không bao giờ mắng Tiểu Hàn (khác với Hàn Cốt hay nói dài dòng), chỉ lặng lẽ xâm nhập hệ mạch, dọn dẹp, rồi rút ra. Nhưng nếu ai đe dọa Tiểu Hàn, hắn là cá thể đầu tiên xuất hiện — phản ứng nhanh đến mức chính hắn cũng không hiểu vì sao. Lãnh Diễm từng đùa rằng Ngưng Huyết coi Tiểu Hàn như con — hắn không phản bác, chỉ nhấp nháy sắc đỏ sẫm rồi quay đi.
 - **Tuyết Liên Dược Phường — Đối Tác Giao Dịch Phụ:**
     - Dược Phường rất muốn có mẫu huyết độc từ Hàn Huyết Tinh Nang để nghiên cứu chế thuốc giải huyết độc — một thị trường béo bở vì nhiều tu sĩ và yêu thú ở Bắc Băng mắc bệnh huyết hàn. Ngưng Huyết thỉnh thoảng cung cấp mẫu nhỏ qua kênh giao dịch của Hàn Cốt, nhưng luôn giữ lại ba mươi bảy mẫu gốc — không bao giờ bán cái gì không thể thay thế.
+- **Trùng Sương Ẩn** (Đồng minh): Đồng liêu mà hắn vừa kính nể kỹ năng vừa cảm thấy ghê rợn vì sống bên trong cơ thể sinh vật khác
 
 ## VII. GIAI THOẠI
 > *"Gã tu sĩ ấy mạnh lắm — da đồng xương sắt, đao kiếm không vào, lửa cháy không xuyên. Thế mà sáng ra nằm chết cứng giữa tuyết, mặt trắng bệch, máu đông thành băng trong mạch. Không vết thương, không dấu đánh — chết từ bên trong."*

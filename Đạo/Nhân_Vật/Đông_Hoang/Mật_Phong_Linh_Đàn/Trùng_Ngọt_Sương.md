@@ -32,8 +32,8 @@ Dáng người nhỏ nhắn nhanh nhẹn, đôi mắt to tròn lanh lợi. Nụ 
 Thành viên của Mật Phong Linh Đàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 蟲甜霜·Bản Mệnh (蟲甜霜·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trùng Hoàng Châm:** Ong Chiến Binh, đồng liêu quan trọng nhất trong Mật Phong Linh Đàn.
-- **Trùng Kim Hoa:** Ong Chúa, đối tác thường xuyên phối hợp.
-
+- **Trùng Kim Hoa** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Mật Phong Linh Đàn
+- **Trùng Kim Hoa** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Kim Hoa
+- **Trùng Hoàng Châm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Mật Phong Linh Đàn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trùng Ngọt Sương được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Mật Phong Linh Đàn. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Mật Phong Linh Đàn và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Ong Dưỡng Nhi.

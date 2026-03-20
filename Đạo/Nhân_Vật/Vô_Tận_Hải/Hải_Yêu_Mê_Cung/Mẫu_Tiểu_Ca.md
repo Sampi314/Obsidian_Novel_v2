@@ -32,7 +32,9 @@ Siren con đang học hát, hay thương hại nạn nhân
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Mẫu Nguyệt Huyền Ca** (Sư đồ): Mẫu Nguyệt Huyền Ca chỉ dẫn Mẫu Tiểu Ca trong Hải Yêu Mê Cung
+- **Mẫu Thiên Ca** (Sư đồ): Mẫu Thiên Ca chỉ dẫn Mẫu Tiểu Ca trong Hải Yêu Mê Cung
+- **Mẫu Thiên Lệ Nguyệt** (Sư đồ): Mẫu Thiên Lệ Nguyệt chỉ dẫn Mẫu Tiểu Ca trong Hải Yêu Mê Cung
+- **Mẫu Nguyệt Huyền Ca** (Cấp dưới): Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

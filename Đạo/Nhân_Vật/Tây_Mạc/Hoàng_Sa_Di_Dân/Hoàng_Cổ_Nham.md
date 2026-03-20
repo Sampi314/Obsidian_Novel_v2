@@ -32,8 +32,8 @@ Hoàng Cổ Nham là một lão giả gầy gò, da nhăn nheo như vỏ cây kh
 Lão hoàn toàn là phàm nhân, không có tu vi hay linh lực để chiến đấu. Tuy nhiên, Hoàng Cổ Nham sở hữu trí nhớ siêu phàm, thuộc lòng mọi truyền thuyết, lịch sử và cách nhận biết các di vật của Hoàng Sa Cổ Quốc. Khả năng sinh tồn trong sa mạc khắc nghiệt và sự thấu hiểu các tín hiệu của thiên nhiên là vũ khí duy nhất giúp lão dẫn dắt cộng đồng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hoàng Minh Nguyệt:** Bô lão đồng cấp, người bạn tri kỷ thường cùng lão bàn luận về tương lai của cộng đồng và các di vật tổ tiên.
-- **Hoàng Ngọc Dương:** Thiếu niên trong tộc vừa thức tỉnh huyết mạch, được lão đặt nhiều kỳ vọng nhưng cũng lo sợ sức mạnh đó sẽ mang đến tai họa.
-
+- **Hoàng Minh Nguyệt** (Đồng minh): Bô lão đồng cấp, người bạn tri kỷ thường cùng lão bàn luận về tương lai của cộng đồng và các di vật tổ tiên.
+- **Hoàng Ngọc Dương** (Đồng minh): Thiếu niên trong tộc vừa thức tỉnh huyết mạch, được lão đặt nhiều kỳ vọng nhưng cũng lo sợ sức mạnh đó sẽ mang đến tai họa.
+- **Hoàng Thiếu Quang** (Đồng minh): Đồng liêu cùng Hoàng Sa Di Dân, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra và lớn lên tại rìa Minh Nguyệt Châu, Hoàng Cổ Nham đã chứng kiến biết bao thế hệ trẻ rời bỏ cộng đồng vì cái nghèo và sự khinh miệt của ngoại nhân. Lão kế thừa vị trí Trưởng Lão từ cha mình, thề sẽ giữ gìn những di vật cuối cùng của Hoàng Sa Cổ Quốc, đặc biệt là tấm bản đồ nát chỉ đường đến Hoàng Sa Vương Lăng. Hiện tại, lão đang phải đối mặt với sự nhòm ngó của Cổ Tích Thám Hiểm Đoàn và sự thức tỉnh huyết mạch đột ngột của Hoàng Ngọc Dương.

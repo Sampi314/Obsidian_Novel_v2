@@ -184,6 +184,7 @@ arcs:
 
 - **Độc Vương Lão Ngũ — Kẻ Đáng Khinh:**
     - Ả coi Lão Ngũ là "lão già hôi hám nuôi trùng bẩn thỉu." Hai kẻ hiếm khi giao thiệp trực tiếp nhưng đôi khi trao đổi nguyên liệu qua Lý Tham Quan — ả cần dược liệu đặc biệt cho Phá Phong Đan, Lão Ngũ cần mẫu hàn cốt để nghiên cứu hàn độc. Cả hai đều khinh nhau nhưng chấp nhận giao dịch vì lợi ích.
+- **Thiết Quyền Lão Ma** (Đồng minh): Tù trưởng Tầng Bốn, kẻ mà hắn cực kỳ kiêng dè vì ảo thuật khắc chế hoàn toàn lối đánh cận chiến
 
 ## VII. GIAI THOẠI
 > *"Đẹp à? Tất nhiên ta đẹp. Nhưng ngươi lầm nếu nghĩ vẻ đẹp này dành cho ngươi chiêm ngưỡng. Vẻ đẹp này là chiếc bẫy — và ngươi đã bước vào rồi."*

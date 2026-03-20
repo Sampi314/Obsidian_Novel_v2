@@ -113,13 +113,16 @@ arcs:
     - **Linh Tảo Chủng Nang (靈藻種囊) (Hoàng Cấp Trung Phẩm):** Một chiếc túi nhỏ đặc biệt chứa hạt giống tảo linh quý, bên trong duy trì môi trường nảy mầm lý tưởng. Lam Thảo dùng nó để thử nghiệm lai tạo giống tảo mới trong quá trình di chuyển.
 
 ## VI. QUAN HỆ
+- **Hải Huyền Thảo** (Đồng minh): Cộng sự thân thiết nhất, người duy nhất có thể khiến mình cười
+- **Hải Thanh Liên** (Sư đồ): Sư phụ, vừa kính trọng vừa muốn làm nàng vui lòng
+- **Hải Ngọc Tảo Thiên** (Đồng minh): Sư tỷ nghiêm khắc, thường xuyên cãi nhau nhưng thực ra rất quý
+- **Hải Tiểu Tảo** (Đồng minh): Tiểu sư muội, thường dắt đi dạo rừng tảo
 - **Sư Phụ:**
     - **Hải Thanh Liên:** Người cứu vớt hắn khỏi tuyệt vọng, cho hắn mục đích sống mới. Lam Thảo luôn cố gắng mang về những loại tảo đẹp nhất, lạ nhất để sư phụ vui lòng. Hắn biết sư phụ gánh nặng nhiều, nên cố tỏ ra vui vẻ hơn để bầu không khí bớt nặng nề.
 - **Đồng Môn:**
     - **Hải Ngọc Tảo Thiên:** Sư tỷ mà hắn vừa phục vừa ghét bị quản. Hai người thường xuyên cãi nhau — Tảo Thiên chê hắn cẩu thả, hắn chê Tảo Thiên khô khan. Nhưng thực ra Lam Thảo vô cùng ngưỡng mộ sự tận tụy của sư tỷ, và mỗi lần bị mắng, hắn đều âm thầm sửa lỗi dù miệng vẫn cãi.
     - **Hải Huyền Thảo:** Sư huynh thân thiết nhất, đối tác thu hoạch hoàn hảo. Lam Thảo là người duy nhất có thể khiến Huyền Thảo cười bằng những câu chuyện vô nghĩa. Mỗi khi Huyền Thảo lặn sâu, Lam Thảo luôn chờ ở bên trên, sẵn sàng lao xuống cứu nếu có chuyện.
     - **Hải Tiểu Tảo:** Tiểu sư muội được hắn cưng nhất. Lam Thảo thường dắt Tiểu Tảo đi dạo ngoài bìa rừng tảo, chỉ cho bé nhận biết các loài sinh vật biển, kể chuyện về rạn san hô đầy màu sắc ngày xưa. Hắn muốn Tiểu Tảo lớn lên trong niềm vui, không phải trong bóng tối.
-
 ## VII. GIAI THOẠI
 > *"Nếu một ngày Vô Tận Hải hết sạch tảo, Lam Thảo sẽ là người trồng lại cọng đầu tiên — và hắn sẽ vừa trồng vừa hát."*
 > — Hải Thanh Liên khi được hỏi về đệ tử mà nàng tự hào nhất.

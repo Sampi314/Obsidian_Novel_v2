@@ -32,9 +32,11 @@ Phạm Phi Kiếm dáng người thanh tú, mặc áo bào xanh lam của Kiếm
 Phạm Phi Kiếm là bậc thầy Tinh Luyện Kiếm Thuật (精煉劍術), có thể đánh giá và nâng cấp phẩm chất linh binh chỉ bằng cách chạm vào. Tuyệt kỹ Phi Kiếm Vô Ảnh (飛劍無影) — phóng ra phi kiếm biến mất hoàn toàn, chỉ xuất hiện khi đã đâm trúng mục tiêu. Điểm mạnh là khả năng ám sát tầm xa bất ngờ; điểm yếu là cần thời gian chuẩn bị dài và tiêu hao nhiều linh lực cho mỗi đòn.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Kiếm Nam:** Trang Chủ, người mà Phi Kiếm tuyệt đối tin tưởng và hỗ trợ trong mọi quyết sách.
-- **Hoàng Thiên Hỏa:** Đồng liêu hay tranh luận, Phi Kiếm coi trọng quy trình truyền thống trong khi Thiên Hỏa muốn cách tân.
-- **Đặng Tiểu Kiếm:** Nội môn đệ tử mà Phi Kiếm trực tiếp hướng dẫn kỹ thuật đúc kiếm, nhận thấy tài năng tiềm ẩn của y.
-
+- **Trần Kiếm Nam** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ngự Kiếm Sơn Trang
+- **Trần Kiếm Nam** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Kiếm Nam
+- **Nguyễn Thanh Luyện** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ngự Kiếm Sơn Trang
+- **Đặng Tiểu Kiếm** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Ngự Kiếm Sơn Trang
+- **Lý Kiếm Hồn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ngự Kiếm Sơn Trang
+- **Vũ Phi Kiếm** (Đồng minh): Trưởng Lão Kiếm Đúc và Trưởng Lão Cửu Hoa, kiếm đạo tri kỷ
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Phi Kiếm xuất thân từ dòng tộc luyện khí, gia nhập Ngự Kiếm Sơn Trang từ nhỏ và nhanh chóng thể hiện tài năng đúc kiếm vượt trội. Y trở thành Trưởng Lão Kiếm Đúc Viện nhờ tạo ra nhiều thanh phi kiếm thượng phẩm mà không ai trong sơn trang sánh kịp. Cả đời cống hiến cho việc hoàn thiện kỹ thuật đúc, từ chối nhiều lời mời từ các thế lực bên ngoài. Mục tiêu hiện tại là đúc một thanh Linh Kiếm bậc sáu — thứ mà chưa ai trong sơn trang từng làm được kể từ thời tổ sư.

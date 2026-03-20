@@ -32,9 +32,13 @@ Nhan sắc thanh tú với nét mặt dịu dàng, cử chỉ nhẹ nhàng tinh 
 Tu luyện công pháp cốt lõi của Cửu Hoa Kiếm Tông đạt trình độ cao thâm. Chiêu thức 陳九花·Hộ Pháp Ấn (陳九花·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hoàng Thiên Phong:** Hộ Pháp, đồng liêu quan trọng nhất trong Cửu Hoa Kiếm Tông.
-- **Lê Hàn Sương:** Trưởng Lão, đối tác thường xuyên phối hợp.
-- **Lý Lục Trần:** Tông Chủ, mối quan hệ tin cậy lẫn nhau.
-
+- **Lý Lục Trần** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Cửu Hoa Kiếm Tông
+- **Lý Lục Trần** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Lục Trần
+- **Hoàng Thiên Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Cửu Hoa Kiếm Tông
+- **Phạm Kiếm Tâm** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Cửu Hoa Kiếm Tông
+- **Nguyễn Tĩnh Kiếm** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Cửu Hoa Kiếm Tông
+- **Đặng Minh Nguyệt** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Cửu Hoa Kiếm Tông
+- **Lý Thanh Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Cửu Hoa Kiếm Tông
+- **Diệp Tĩnh Sương** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Cửu Hoa Kiếm Tông
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trần Cửu Hoa xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Cửu Hoa Kiếm Tông. Trải qua thử thách sinh tử, nàng gia nhập Cửu Hoa Kiếm Tông và dần khẳng định vị trí của mình. Với tu vi Luyện Hư Sơ Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thái Thượng Trưởng Lão.

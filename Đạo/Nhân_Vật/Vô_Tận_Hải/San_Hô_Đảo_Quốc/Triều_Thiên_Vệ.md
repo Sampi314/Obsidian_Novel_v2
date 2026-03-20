@@ -32,9 +32,12 @@ Triều Thiên Vệ mang vóc dáng to lớn, cơ bắp cuồn cuộn phản chi
 Với tu vi Nguyên Anh Sơ Kỳ, Triều Thiên Vệ nắm vững nghệ thuật điều khiển thủy triều hùng mạnh. Hắn chiến đấu theo phong cách càn quét với cây đinh ba khổng lồ làm từ tinh hoa dưới đáy vực, sử dụng tuyệt kỹ *Hải Triều Cuồng Nộ* (海潮狂怒) để triệu hồi những vòng xoáy nước khổng lồ nghiền nát địch thủ. Sự kết hợp giữa sức mạnh cơ bắp và linh lực thủy nguyên khiến hắn dường như không thể bị xuyên thủng, dù tốc độ đôi khi hơi kém linh hoạt trước các đối thủ nhỏ bé.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Thủy Tinh** (Sư đồ): Triều Thiên Vệ chỉ dẫn Thủy Tinh trong San Hô Đảo Quốc
+- **Triều Bích Hải** (Sư đồ): Triều Thiên Vệ chỉ dẫn Triều Bích Hải trong San Hô Đảo Quốc
+- **Hải Nguyệt Ca** (Chủ tớ): Thủ hạ trung thành trong San Hô Đảo Quốc
+- **Hải Nguyệt Ca** (Cấp dưới): Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc
 - **Thủy Tinh (水晶):** Nữ Vương đáng kính mà hắn nguyện dùng cả mạng sống để bảo vệ, dù đôi lúc hắn cho rằng nàng quá mềm mỏng với kẻ thù.
 - **Triều Bích Hải (潮碧海):** Cấp dưới đầy nhiệt huyết được hắn cất nhắc. Hắn luôn âm thầm uốn nắn và bảo vệ tên nhóc này khỏi những quyết định xốc nổi.
 - **Ngư Quỷ Diện (鱼鬼面 - Vực Thẳm Ma Cung):** Từng chạm trán trong một lần tuần tra và kết oán từ đó, luôn xem gã như cái gai trong mắt phải nhổ.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Triều Thiên Vệ từng là một đứa trẻ trôi dạt trên biển từ một bộ lạc hải tộc đã bị hủy diệt bởi tà vật. Hắn được quân đội San Hô Đảo Quốc cứu sống và lớn lên trong môi trường quân lữ kỷ luật. Sự kiên trì và lòng dũng cảm trong những trận chiến đẫm máu chống lại yêu thú biển sâu đã giúp hắn thăng tiến từ một tên lính vô danh lên vị trí Thống Lĩnh Hải Vệ Quân tối cao. Mục tiêu lớn nhất của hắn là bảo vệ sự yên bình của vương quốc và biến Hải Vệ Quân thành một lực lượng bất khả chiến bại.

@@ -32,7 +32,9 @@ Thân hóa đá từ lâu, chỉ mở mắt khi Thiên Trụ rung chuyển
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Sơn Ngọa** (Sư đồ): Sơn Cổ Nham chỉ dẫn Sơn Ngọa trong Cổ Nham Bộ Lạc
+- **Sơn Trấn** (Sư đồ): Sơn Cổ Nham chỉ dẫn Sơn Trấn trong Cổ Nham Bộ Lạc
+- **Sơn Ngọa** (Cấp dưới): Phục tùng Sơn Cổ Nham, Tộc Trưởng của Cổ Nham Bộ Lạc
+- **Sơn Trấn** (Cấp dưới): Phục tùng Sơn Cổ Nham, Tộc Trưởng của Cổ Nham Bộ Lạc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

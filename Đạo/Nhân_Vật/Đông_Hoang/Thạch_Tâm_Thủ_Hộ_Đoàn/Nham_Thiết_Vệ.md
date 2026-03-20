@@ -32,8 +32,8 @@ Nham Thiết Vệ cao hai mét rưỡi, thân hình rắn chắc, da nâu sẫm 
 Nham Thiết Vệ sử dụng Thiết Vệ Trường Thương (鐵衛長槍) — cây thương đá nặng nề nhưng đâm ra với tốc độ kinh hoàng. Tuyệt kỹ Nham Thiết Liên Kích (岩鐵連擊) đâm liên tiếp mười thương trong một nhịp thở. Điểm mạnh là tấn công lẫn phòng thủ đều vững; điểm yếu là pháp thuật yếu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Thạch Kiên:** Đoàn Trưởng mà Thiết Vệ trung thành tuyệt đối, hai người chiến đấu cùng nhau nhiều năm.
-- **Sơn Tiểu Hộ:** Thủ hộ trẻ mà Thiết Vệ nghiêm khắc huấn luyện hàng ngày.
-
+- **Thạch Kiên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thạch Tâm Thủ Hộ Đoàn
+- **Thạch Kiên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Thạch Kiên
+- **Sơn Tiểu Hộ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thạch Tâm Thủ Hộ Đoàn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nham Thiết Vệ là chiến binh Cự Tộc giàu kinh nghiệm, gia nhập Thủ Hộ Đoàn từ ngày đầu. Từng đơn thân chống lại năm tu sĩ xâm nhập lãnh thổ Cự Tộc, bảo vệ thành công một thôn nhỏ. Danh tiếng 'Thiết Vệ' lan xa, khiến kẻ xâm nhập phải dè chừng. Mục tiêu: rèn luyện đoàn trở thành lực lượng phòng thủ mạnh nhất khu vực.

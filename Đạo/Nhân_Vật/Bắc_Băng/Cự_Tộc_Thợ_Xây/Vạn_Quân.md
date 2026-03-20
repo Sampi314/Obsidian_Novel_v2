@@ -157,6 +157,8 @@ arcs:
     - Đại Chùy là đồng nghiệp ngành xây dựng, nhưng y thương Đại Chùy nhiều hơn kính trọng. Y biết Băng Sơn Thợ Đá bị Cực Quang Thần Điện bóc lột — và y biết Đại Chùy chấp nhận vì không có lựa chọn. Y từng mời Đại Chùy sáp nhập vào Cự Tộc Thợ Xây, nhưng Đại Chùy từ chối: "Thợ đá và thợ xây khác nhau — tụi tao đục, tụi mày xếp." Y không ép, nhưng mỗi lần nhận tin Thần Điện quỵt lương Đại Chùy, y đều lén gửi lương thực qua Phụ Sơn Lão chuyển giúp.
 - **Thạch Tĩnh Nham & Băng Cương — Đồng Tộc Đáng Kính:**
     - Y kính trọng cả hai chiến binh Đông Miên Thủ Vệ — họ dùng sức mạnh bảo vệ, y dùng tay xây dựng, ba con đường khác nhau nhưng cùng phục vụ Cự Tộc. Với Băng Cương đặc biệt, y cảm thấy sự kính sợ nhẹ — tu vi Nguyên Anh Trung Kỳ, ba trăm năm không ngủ, sức chịu đựng ấy vượt xa cả Phụ Sơn Lão. Y thỉnh thoảng tự hỏi: nếu Cự Tộc có một thủ lĩnh thống nhất tất cả, liệu Băng Cương có phải người phù hợp nhất không?
+- **Đồng Cân Lực** (Đồng minh): Thợ Xây Trưởng, người hay đặt hàng vận chuyển, quan hệ nghề nghiệp tốt
+- **Băng Đông Thạch** (Đồng minh): Thợ Xây Trưởng, người đã gia cố hang đông miên, y đánh giá cao tay nghề của ông
 
 ## VII. GIAI THOẠI
 > *"Kiếm gãy thì người chết, nhà sập thì dân mất. Xây một bức tường cho vững, là cứu trăm mạng người phía sau."*

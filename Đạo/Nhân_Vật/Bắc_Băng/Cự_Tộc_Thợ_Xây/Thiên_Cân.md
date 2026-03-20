@@ -156,6 +156,7 @@ arcs:
     - Thiên Cân chưa bao giờ gặp Băng Cương trực tiếp — chỉ nghe danh: chiến binh Cự Tộc Nguyên Anh Trung Kỳ, ba trăm năm không ngủ, canh giữ hang đông miên. Trong mắt Thiên Cân, Băng Cương là hình mẫu chiến binh hoàn hảo — mạnh, kiên định, bất khuất. Y mơ một ngày được đứng cạnh Băng Cương chiến đấu. Y không biết rằng Băng Cương — nếu biết y — có lẽ sẽ nói: "Chiến đấu không cần kiếm. Cõng trách nhiệm đã là chiến đấu."
 - **Phụ Sơn Lão — Trưởng Bối Đáng Kính:**
     - Y kính trọng Phụ Sơn Lão vì sức chịu đựng phi thường — nhưng y không hiểu tại sao lão bằng lòng "chỉ cõng hàng." Y từng hỏi: "Lão ơi, lão mạnh vậy sao không đi đánh yêu thú?" Lão đáp: "Ta cõng hàng nuôi người, người đi đánh yêu thú. Ai cũng có việc." Thiên Cân im lặng — câu trả lời đơn giản nhưng khiến y suy nghĩ lâu hơn y muốn thừa nhận.
+- **Băng Đông Thạch** (Đồng minh): Thủ vệ Đông Miên Thủ Vệ, chiến binh mà y ngưỡng mộ dù chưa quen thân
 
 ## VII. GIAI THOẠI
 > *"Ta muốn cầm chùy đứng giữa chiến trường — nhưng mỗi lần ta xếp một viên đá vào đúng chỗ, có thứ gì đó trong lòng ta... lặng lại."*

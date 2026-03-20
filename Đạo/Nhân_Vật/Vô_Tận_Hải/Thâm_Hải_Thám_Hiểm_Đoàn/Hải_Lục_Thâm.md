@@ -67,11 +67,15 @@ Lục Thâm Hải tu luyện *Thâm Hải Hộ Thể Quyết* (深海護體訣),
 Điểm yếu lớn nhất là hắn phụ thuộc hoàn toàn vào môi trường nước — trên cạn, tu vi giảm hơn một nửa, đuôi cá không biến hoàn toàn khiến di chuyển chậm chạp. Hỏa pháp là khắc tinh, hắn từng suýt chết dưới tay một tu sĩ Liệt Dương Tông chỉ vì một chiêu *Hỏa Xà* tầm thường.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Chương Thâm Uyên** (Đồng minh): Đoàn trưởng, người cứu mạng và cho gã cơ hội sống
+- **Kình Áp Suất Vương** (Đồng minh): Hải thú vận tải của đoàn, đối xử như bằng hữu
+- **Ngư Phát Quang** (Chủ tớ): Thủ hạ trung thành trong Thâm Hải Thám Hiểm Đoàn
+- **Ngư Phát Quang** (Cấp dưới): Phục tùng Hải Lục Thâm, Đoàn Trưởng của Thâm Hải Thám Hiểm Đoàn
+- **Sa Hắc Thâm Hải** (Đồng minh): Đồng liêu cùng Thâm Hải Thám Hiểm Đoàn, hỗ trợ lẫn nhau
 - **Chương Thâm Uyên:** Đội trưởng đội lặn chủ lực, là Hải Tộc bạch tuộc có khả năng thăm dò đường hầm di tích. Lục Thâm tin tưởng tuyệt đối và coi như tay chân phải.
 - **Kình Áp Suất Vương:** Hải thú kình ngư đồng hành cùng đoàn, chở cả đội vượt qua vùng áp suất chết người. Lục Thâm coi hắn là bằng hữu chứ không phải công cụ, từ chối bán dù được trả giá cao.
 - **Hải Thần Cung:** Mối hận sâu nhất — từng phát hiện di tích lớn nhưng bị Hải Thần Cung tịch thu toàn bộ chiến lợi phẩm mà không bồi thường. Lục Thâm thề sẽ tìm được thứ gì đó mà ngay cả Hải Thần Cung cũng không dám đụng tới.
 - **Hắc Hải Hải Tặc:** Thỉnh thoảng mua bán tin tức về vị trí di tích với hải tặc — mối quan hệ xám ngoài vòng pháp luật.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lục Thâm Hải là một kẻ mồ côi Hải Tộc lớn lên trên bến cảng nổi giữa Vô Tận Hải, sống bằng cách lặn nhặt phế liệu pháp khí dưới đáy biển bán cho thương nhân. Từ nhỏ hắn đã bị ám ảnh bởi truyền thuyết về "Hải Để Thần Điện" — cung điện của vị Thần Nước đầu tiên, nơi được cho là chứa đựng bí mật về nguồn gốc của Hải Tộc và sức mạnh vô hạn.
 

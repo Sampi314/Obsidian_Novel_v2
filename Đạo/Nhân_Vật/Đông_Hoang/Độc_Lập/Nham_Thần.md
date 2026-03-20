@@ -63,11 +63,13 @@ arcs:
     - **Đại Địa Chi Thuẫn (Lớp Giáp Tự Nhiên):** Lớp đá bùn và nham thạch trên cơ thể tự động dày lên khi chiến đấu, là một tầng phòng thủ tuyệt đối.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Diệp Tĩnh Sương & Lâm Phong:** Cả hai từng lạc vào một thung lũng cổ xưa ở Đông Hoang và vô tình đánh thức Nham Thần. Thấy khí tức kiên định của Tĩnh Sương và sự tôn trọng của Lâm Phong, ông đã không nổi giận mà còn chỉ điểm cho họ một mảnh vỡ của trận pháp thượng cổ.
-- **Phương Vô Kỵ:** Tên thư sinh này từng lén lút tiếp cận Nham Thần lúc ông đang ngủ để... lấy rêu trên người ông luyện đan. Khi Nham Thần hắt hơi một cái, Phương Vô Kỵ bị thổi bay mất ba ngọn núi, từ đó hắn luôn đi vòng qua lãnh địa của Cự Tộc.
-- **Cửu Hoa Kiếm Tông:** Tổ sư của Cửu Hoa Kiếm Tông từng giao ước với Nham Thần, để mượn một nhánh linh mạch của ông nhằm kiến tạo kiếm tông. Mối quan hệ hiện tại là tôn kính và giữ khoảng cách.
-- **Huyết Sát Minh:** Kẻ thù không đội trời chung. Huyết Sát Minh thường xuyên hút sinh khí của lòng đất để luyện thi, điều này khiến Nham Thần cực kỳ phẫn nộ. Bất cứ tà tu nào mang khí tức của Huyết Sát Minh bước vào lãnh thổ của ông đều bị nghiền nát thành cặn bã.
-
+- **Loa Thiên Âm Hải** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Độc Lập
+- **Loa Thiên Âm Hải** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Loa Thiên Âm Hải
+- **Ngư Vạn Hải** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Độc Lập
+- **Giao Lệ Hoa Nguyệt** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Độc Lập
+- **Ngư Hồ Tiên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Độc Lập
+- **Diệp Tĩnh Sương** (Đồng minh): Met and guided her on her path
+- **Nấm Cổ Thụ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Độc Lập
 ## V. TIỂU SỬ & HÀNH TRÌNH
 - Nham Thần sinh ra từ kỷ nguyên trước, khi thế giới tu chân còn sơ khai và Cự Tộc là những kẻ thống trị mặt đất. Trải qua những cuộc chiến tranh thiên giới cổ đại, Cự Tộc suy tàn và rút lui vào lòng đất sâu thẳm.
 - Hàng ngàn năm qua, Nham Thần lang thang trên Cố Nguyên Giới dưới hình hài một ngọn núi biết đi, tìm kiếm những vùng đất bị tổn thương để chữa lành long mạch. Mỗi khi kiệt sức, ông lại chìm vào giấc ngủ dài hàng thế kỷ, chờ đợi đến khi trái đất gọi tên ông lần nữa.

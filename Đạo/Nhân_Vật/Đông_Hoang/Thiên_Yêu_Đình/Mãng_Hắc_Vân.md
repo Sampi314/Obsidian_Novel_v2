@@ -32,9 +32,14 @@ Mãng Hắc Vân trong hình dạng yêu thú là một con trăn đen khổng l
 Là Mãng Bộ Lạc Trưởng cảnh giới Kim Đan Viên Mãn, Mãng Hắc Vân tu luyện "Hắc Vân Thôn Sơn Thuật" (黑云吞山术) — mở rộng cơ thể đến kích thước khổng lồ, nuốt chửng mọi thứ trong phạm vi. Tuyệt kỹ "Vạn Trượng Mãng Thân" (万丈蟒身) biến thân thành trăn dài vạn trượng, quấn chặt và nghiền nát mục tiêu. Điểm mạnh là sức mạnh tuyệt đối khi quấn siết và nuốt chửng, nhược điểm là cồng kềnh và chậm chạp.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Mãng Địa Hoàng:** Địa Yêu Vương, chủ nhân mà hắn trung thành tuyệt đối.
-- **Xà Lục Lân:** Đồng tộc bò sát, thỉnh thoảng phối hợp tuần tra lãnh thổ mặt đất.
-- **Trư Thiết Nha Vương:** Bạn chiến đấu, hắn quấn siết còn Trư húc — phối hợp bất ngờ hiệu quả.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Hổ Vạn Kiếp** (Thuộc hạ): Yêu Đế thống lĩnh Mãng Bộ Lạc Trưởng
+- **Hùng Thiên Sơn Hống** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Liệt Diễm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Lang Thiên Nộ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Nha Huyền Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Điêu Thiên Hương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Thiên Nộ Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mãng Hắc Vân sinh ra trong hang đá sâu nhất lãnh thổ mãng xà, từ nhỏ đã nổi tiếng vì kích thước khổng lồ vượt xa đồng tộc. Hắn trung thành với Mãng Địa Hoàng từ khi còn là trăn con, được Địa Hoàng huấn luyện và bảo vệ. Sự kiện đáng nhớ nhất là khi hắn nuốt chửng một đoàn xe tải linh thạch của kẻ thù cùng lúc, giúp bộ lạc giàu lên đáng kể. Hắn không có tham vọng lớn, chỉ muốn nằm im một chỗ canh giữ lãnh thổ cho Địa Hoàng.

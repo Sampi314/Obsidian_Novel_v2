@@ -1,11 +1,10 @@
 ## TỔNG HỢP LỊCH SỬ (tự động nén)
-- Hoàn thành Task 9 cho nhiều phe phái ở các khu vực khác nhau.
-- Tiếp tục viết chương catch-up cho Lâm Phong và các POV khác (A Ngốc, v.v.).
+- Hoàn thành Task 9 cho 3 nhân vật Tuyết Trung Cô Viện - Bắc Băng.
+- Hoàn thành Task 9 cho 3 nhân vật Hàn Phong Truyền Tin Đội - Bắc Băng.
 
 ## PHIÊN GẦN NHẤT
-- Đã hoàn thành Task 9 (Điền thông tin nhân vật) cho 3 nhân vật thuộc Hải Thần Cung (Vô Tận Hải): Giao Vân Hà, Giải Huyền Giáp, Giải Thiết Giáp Vương.
-- Bổ sung các section II-V (Ngoại hình, Tính cách, Năng lực, Quan hệ, Tiểu sử) hoàn toàn bằng tiếng Việt.
-- Đã cập nhật `scripts/relationship_data.js` thêm nodes và links của 3 nhân vật trên.
-- Đã cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md` bổ sung tóm tắt thông tin của 3 nhân vật.
-- Đã ghi log vào `Đạo/BÁO_CÁO_CHẤT_LƯỢNG.md`.
-- Cập nhật số liệu Task 9 trong `INSTRUCTIONS.md`.
+- Hoàn thành chi tiết nhân vật cho **Vũ Thương Vân** và **Đặng Thiên Hà** (Thiên Sa Thương Hội - Tây Mạc).
+- Đã điền các phần Ngoại Hình & Tính Cách, Năng Lực & Chiến Đấu, Các Mối Quan Hệ, và Tiểu Sử & Hành Trình.
+- Đã cập nhật `scripts/relationship_data.js` để bao gồm 2 nhân vật này và các mối quan hệ của họ.
+- Đã cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md` thêm 2 nhân vật mới.
+- Đã cập nhật `INSTRUCTIONS.md` để đánh dấu tiến độ Task 9.

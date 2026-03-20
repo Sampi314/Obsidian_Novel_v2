@@ -144,6 +144,10 @@ arcs:
     - Thiên Nộ lo ngại Cương thái tử — hắn thấy ở Cương sự nóng nảy thiếu kiểm soát mà một tướng quân không được phép có. Hắn đã thử dạy Cương bằng cách giao nhiệm vụ khó rồi quan sát — kết quả: Cương hoàn thành nhiệm vụ nhưng luôn gây thương vong không cần thiết. Thiên Nộ đã nói thẳng với Tuyết Vương: *"Con trai lão mạnh, nhưng nếu không kiềm được tính nóng, hắn sẽ giết nhiều người mình hơn người địch."*
 - **Lang Huyết Trảo — Chiến Hữu Lâu Năm:**
     - Huyết Trảo là Thợ Săn Trưởng, và Thiên Nộ thường xuyên phối hợp với hắn trong các cuộc hành quân — Huyết Trảo trinh sát và dẫn đường, Thiên Nộ đưa quân đánh. Hai sói đực không phải bạn thân — nhưng trên chiến trường, họ tin tưởng nhau tuyệt đối, không cần lời nói.
+- **Lang Hắc Vũ** (Kẻ thù): Đại Tướng Quân, người nhận binh sĩ đã qua tay hắn huấn luyện
+- **Lang Phong Tuyết Hào** (Kẻ thù): Đại Tướng Quân, người nhận báo cáo trinh sát trực tiếp từ hắn
+- **Lang Thiên Nha Huyết** (Đồng minh): Đại Tướng Quân, người đã phái hắn đến Thiết Nha để học kỷ luật
+- **Lang Thiết Nha** (Đồng minh): Đại Tướng Quân, chiến hữu cũ từ thời trẻ, đường ai nấy đi nhưng vẫn tin nhau
 
 ## VII. GIAI THOẠI
 > *"Lão Nộ gầm một tiếng, Huyền Băng Cung đóng cổng ba ngày. Lão Nộ gầm hai tiếng, chúng đóng cổng một tháng. Nếu lão gầm ba tiếng — chắc chúng dời sơn."*

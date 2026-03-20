@@ -150,19 +150,18 @@ Từ đó, hắn tự nguyện làm Đội Trưởng Triều Tịch Đội, cán
 - **Giáp Vảy Hải Long (海龙鳞甲) (Huyền Cấp Hạ Phẩm):** Nội giáp mặc bên trong, chế tác từ vảy hải long — nhẹ, bền, chống cả kiếm khí lẫn thủy áp. Vô Trần tặng hắn sau trận Hắc Hải để bảo vệ thân thể — Hải Triều Kiếm xấu hổ nhận vì "Đảo Chủ lo cho ta hơn ta lo cho Đảo Chủ."
 
 ## VI. QUAN HỆ
-
-### Gia Đình
+- **Thủy Vô Trần** (Gia tộc): Sư đệ đồng môn, Đảo Chủ mà mình tận tâm phò tá, tình nghĩa thâm sâu
+- **Lý Thanh Lãng** (Đồng minh): Hậu bối mạnh mẽ, cánh tay trái tin cậy, đôi khi quá nóng nảy
+- **Trần Kiếm Ngư** (Đồng minh): Đồng liêu cùng tuổi, bạn cờ, bạn uống rượu, người hay cãi nhau nhất
+- **Thủy Nguyệt Hàn** (Chủ tớ): Con gái Đảo Chủ, xem như cháu gái, lặng lẽ bảo vệ
+- **Vũ Sóng Triều** (Đệ tử): Đệ tử nội môn đầy triển vọng, nhắc nhở về sư đệ Vô Trần thuở trẻ
+- **Trần Tiểu Kiếm** (Đệ tử): Cháu ngoại Kiếm Ngư, ngoại môn đệ tử có khí chất kiếm tu hiếm thấy
+- **Lý Hải Đào** (Đồng minh): Bệnh nhân thường xuyên nhất, lão chiến binh cứng đầu
 - **Cha Mẹ (đã mất):** Cha mất trong trận Hắc Hải — nằm trong số kiếm tu hy sinh ở tuyến phòng thủ phía bắc. Mẹ mất trước đó vì bệnh. Hải Triều Kiếm không có gia đình riêng, không vợ con, không người thân — hắn coi tông môn là gia đình duy nhất. Khi ai hỏi tại sao không lập gia đình, hắn cười: "Có hai thanh kiếm rồi, thêm vợ thì tay nào cầm?"
-
-### Tông Môn
 - **Thủy Vô Trần:** Sư đệ, Đảo Chủ, người hắn nguyện bảo vệ cả đời. Hai người giao tiếp bằng ánh mắt nhiều hơn lời nói — hàng trăm năm bên nhau khiến họ hiểu nhau không cần mở miệng. Khi Vô Trần lặng lẽ đi thăm phòng Nguyệt Hàn mỗi đêm, Hải Triều Kiếm đứng canh ở hành lang, giả vờ tuần tra, không nói gì. Hắn là người duy nhất biết Vô Trần khóc khi tìm thấy neo thuyền của cha — và sẽ mang bí mật ấy xuống mồ.
-
 - **Trần Kiếm Ngư:** Bạn già cùng tuổi, hay cãi nhau chuyện chiến thuật nhưng luôn đồng lòng khi có giặc. Hai người đánh cờ mỗi chiều trên bờ đá phía tây — Kiếm Ngư thắng bảy mươi phần trăm vì "tay ta cầm kiếm giỏi hơn cầm quân cờ." Mỗi lần thua, hắn lật bàn cờ, Kiếm Ngư lặng lẽ nhặt lại — nghi thức quen thuộc suốt hai trăm năm.
-
 - **Lý Thanh Lãng:** Hậu bối mạnh mẽ mà hắn xem như sư đệ nhỏ. Hải Triều Kiếm dạy Thanh Lãng kiếm pháp khi Thanh Lãng còn nhỏ — thấy bóng dáng chính mình thời trẻ trong sự nóng nảy và thẳng thắn của Thanh Lãng. Hắn thường nói: "Sóng dữ thì mạnh nhưng nhanh tan, sóng đều mới đi xa."
-
 - **Thủy Nguyệt Hàn:** Xem như cháu gái, lặng lẽ bảo vệ từ xa. Hắn hiểu nỗi cô đơn của Nguyệt Hàn — có cha nhưng cha giống biển sâu, nhìn thấy mà không chạm được. Đôi khi hắn "vô tình" gặp Nguyệt Hàn ở bếp ăn, mời uống rượu, kể chuyện cha nàng thuở nhỏ — những câu chuyện mà Vô Trần không bao giờ tự kể.
-
 ## VII. GIAI THOẠI
 
 > *"Ta không cần mạnh nhất — chỉ cần đứng đúng chỗ, đúng lúc, chắn đúng kiếm."*

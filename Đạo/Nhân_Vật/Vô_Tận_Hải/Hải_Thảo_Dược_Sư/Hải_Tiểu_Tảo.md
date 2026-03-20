@@ -110,13 +110,16 @@ arcs:
     - **Tảo Linh Tiểu Lam (藻靈小籃) (Hoàng Cấp Hạ Phẩm):** Chiếc giỏ mây tí hon dệt từ sợi tảo linh non, có khả năng bảo quản dược liệu nhỏ và giữ cho sinh vật biển bé xíu sống khỏe mạnh. Tiểu Tảo dùng nó để mang theo mẫu tảo và đàn cua cưng.
 
 ## VI. QUAN HỆ
+- **Hải Huyền Thảo** (Gia tộc): Tiểu sư muội, xem như con gái
+- **Hải Lam Thảo** (Đồng minh): Tiểu sư muội, thường dắt đi dạo rừng tảo
+- **Hải Ngọc Tảo Thiên** (Đồng minh): Tiểu sư muội, xem như em gái ruột
+- **Hải Thanh Liên** (Đệ tử): Đệ tử nhỏ nhất, xem như con gái nuôi
 - **Sư Phụ:**
     - **Hải Thanh Liên:** Người mẹ trong lòng Tiểu Tảo. Bé không nhớ cha mẹ ruột, nên Thanh Liên là tất cả. Mỗi khi sư phụ vuốt đầu, bé cảm thấy an toàn hơn cả ẩn mình trong khe đá. Bé biết sư phụ đang giấu điều gì đó nặng nề, nhưng không biết cách hỏi, chỉ biết cố gắng tu luyện thật giỏi để một ngày có thể chia sẻ gánh nặng.
 - **Đồng Môn:**
     - **Hải Ngọc Tảo Thiên:** Sư tỷ đẹp nhất thế giới (theo lời Tiểu Tảo). Bé mê mẩn nghe Tảo Thiên kể chuyện cổ tích Thủy Mẫu tộc mỗi đêm, và luôn cố gắng sắp xếp dược liệu thật gọn gàng để sư tỷ khen. Khi thấy viên ngọc trai trên cổ Tảo Thiên phát sáng ban đêm, bé tin rằng mẹ của sư tỷ đang ở bên cạnh.
     - **Hải Huyền Thảo:** Sư huynh "to nhất, ít nói nhất, nhưng ấm nhất". Tiểu Tảo ôm ngủ mỗi đêm với đồ chơi gỗ do Huyền Thảo khắc — dù chẳng giống con gì, bé tuyên bố đó là "quái thú biển sâu chỉ sư huynh mới biết". Bé hay leo lên mai rùa của Huyền Thảo ngồi, gọi đó là "chiếc thuyền của Tiểu Tảo".
     - **Hải Lam Thảo:** Sư huynh vui nhất, người thường dắt bé đi dạo bìa rừng tảo, chỉ cho bé nhận biết sinh vật biển, và kể chuyện về rạn san hô bảy màu ngày xưa. Tiểu Tảo thích nhất là xem cánh đồng tảo bảy màu mà Lam Thảo trồng — bé hay ngồi hàng giờ ngắm tảo đổi màu theo thủy triều và nói "Đẹp quá, sư huynh!"
-
 ## VII. GIAI THOẠI
 > *"Sư phụ ơi, tảo linh hôm nay hát bài gì mà buồn quá vậy?"*
 > — Hải Tiểu Tảo hỏi Thanh Liên, lần đầu tiên bộc lộ thiên phú cảm ứng thực vật.

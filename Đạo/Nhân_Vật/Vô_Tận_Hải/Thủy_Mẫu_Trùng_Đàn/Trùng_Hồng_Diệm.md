@@ -35,9 +35,12 @@ arcs:
 - **Xích Quang Kích (赤光击):** Có khả năng dồn nén ánh sáng đỏ rồi phóng thích một luồng nhiệt lượng tập trung, làm nước biển sôi sục tức thì để cảnh báo hoặc đẩy lùi kẻ đi săn nhỏ.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Nguyệt Quang** (Đồng minh): Bảo bọc
+- **Trùng Bạch Quang** (Đồng minh): Quản giáo
+- **Nguyệt Quang** (Sư đồ): Nguyệt Quang chỉ dẫn Trùng Hồng Diệm trong Thủy Mẫu Trùng Đàn
+- **Trùng Bạch Quang** (Đồng minh): Đồng liêu cùng Thủy Mẫu Trùng Đàn, hỗ trợ lẫn nhau
 - **Nguyệt Quang:** Đàn Mẫu mà Hồng Diệm vừa kính sợ vừa bấu víu; tuy thường xuyên vi phạm kỷ luật của đàn nhưng luôn nhận được sự bảo bọc đặc biệt.
 - **Trùng Bạch Quang:** Người đóng vai trò quản giáo thực thụ; luôn cằn nhằn (bằng giao tiếp ánh sáng) vì phải dọn dẹp hậu quả do tính tò mò của Hồng Diệm gây ra.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 - Là một dị biến hiếm gặp trong lứa sứa linh mới nở, ngay từ nhỏ đã mang màu đỏ máu khác lạ thay vì trong suốt hay ánh bạc như đồng loại.
 - Sự hiếu kỳ bẩm sinh khiến Hồng Diệm tự gánh vác vai trò trinh sát, nhiều lần mạo hiểm tiến gần đến những vùng nước có Hải Tộc sinh sống và đôi khi lôi kéo rắc rối về cho bầy.

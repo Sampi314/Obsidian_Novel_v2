@@ -32,9 +32,14 @@ arcs:
 Là Chiến Tướng duy nhất thuộc Vũ Tộc phục vụ Thiên Yêu Đình với tu vi Hóa Thần Sơ Kỳ, Ưng Thương Thiên tu luyện "Thương Thiên Tuyệt Sát Trảo" (苍天绝杀爪) — kết hợp phong lực của Vũ Tộc với sát khí bạo liệt, mỗi vuốt xé toạc cả không gian. Tuyệt kỹ "Thiên Đao Vạn Vũ" (千刀万羽) phóng ra vạn lông vũ sắc như dao cắt, bao phủ diện rộng. Điểm mạnh là không chiến tuyệt đối và sát thương diện rộng, nhược điểm là hung hãn đến mức khó kiểm soát, đồng minh cũng sợ.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Vạn Kiếp:** Yêu Đế, kẻ duy nhất hắn sợ và phục tùng — vì Đế từng đánh hắn gần chết.
-- **Ưng Hồng Sí:** Chiến sĩ đồng tộc Vũ Tộc, người duy nhất bay cùng hắn trên chiến trường.
-- **Hổ Cuồng Phong:** Thánh Tướng mà hắn coi là đối thủ tỉ thí lý tưởng — hai kẻ cuồng chiến.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Hùng Thiết Chưởng** (Thuộc hạ): Vệ Binh Trưởng chỉ huy Chiến Tướng Ưng
+- **Thử Linh Nhĩ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Yêu Đình
+- **Hổ Vạn Kiếp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Vạn Ti La Nương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Mãng Địa Hoàng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Xà Thủy Huyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Cuồng Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ưng Thương Thiên vốn là Vũ Tộc bị trục xuất khỏi Vũ Hoàng Các vì quá hung bạo — hắn đã giết chết ba đồng tộc trong một cuộc tỉ thí mất kiểm soát. Lang thang nhiều năm, hắn được Yêu Đế thu phục sau một trận chiến kinh hoàng kéo dài bảy ngày đêm. Từ đó, hắn trở thành vũ khí chiến tranh đáng sợ nhất của Thiên Yêu Đình, chuyên dẫn đầu những trận đánh tàn khốc nhất. Bí mật của hắn là thầm nhớ bầu trời Vũ Hoàng Các và không bao giờ giết Vũ Tộc khác trên chiến trường.

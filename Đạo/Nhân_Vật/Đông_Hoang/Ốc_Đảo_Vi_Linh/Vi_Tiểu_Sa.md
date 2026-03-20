@@ -32,8 +32,8 @@ Vi Tiểu Sa nhỏ như hạt cát thường, nhưng phát sáng vàng kim thay 
 Vi Tiểu Sa có khả năng bẩm sinh Sa Thổ Tịnh Hóa (沙土淨化) — lọc sạch và bổ sung linh lực cho cát và đất, điều mà Vi Linh thông thường chỉ làm được với nước. Đây là năng lực tiến hóa đáng kinh ngạc, cho thấy tiềm năng mở rộng hệ sinh thái ốc đảo. Không có khả năng chiến đấu, nhưng ánh sáng vàng kim có thể xua đuổi côn trùng nhỏ.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Vi Linh Mẫu:** Linh Mẫu theo dõi sát sự phát triển của Tiểu Sa, coi y là hy vọng hoặc mối nguy — chưa xác định.
-- **Vi Ngọc Tuyền:** Thủ hộ tò mò nhưng cảnh giác với Tiểu Sa, không hiểu được bản chất đặc biệt của y.
-
+- **Vi Linh Mẫu** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ốc Đảo Vi Linh
+- **Vi Linh Mẫu** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Vi Linh Mẫu
+- **Vi Ngọc Tuyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ốc Đảo Vi Linh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vi Tiểu Sa sinh ra từ vùng nước nông nơi nước tiếp xúc với cát, mang trong mình đặc tính lai giữa thủy và thổ. Ngay từ khi hình thành, y đã khác biệt — có thể tồn tại ngoài nước, phát sáng vàng thay vì xanh. Lần đầu tiên trong lịch sử Vi Tộc, một cá thể có khả năng tịnh hóa đất thay vì chỉ nước. Nếu Vi Tiểu Sa phát triển đầy đủ, y có thể là chìa khóa để mở rộng ốc đảo, biến sa mạc thành đất màu mỡ. Tuy nhiên, năng lượng bất thường từ sâu dưới lòng đất dường như đang thu hút y, và Tiểu Sa ngày càng bị kéo về phía mạch nước ngầm cổ đại.

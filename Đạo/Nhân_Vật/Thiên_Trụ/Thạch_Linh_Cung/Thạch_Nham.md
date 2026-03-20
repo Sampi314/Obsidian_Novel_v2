@@ -122,19 +122,18 @@ Mối tình bạn với Thạch Thiên là mối quan hệ đặc biệt nhất 
 - **Thiên Hỏa Luyện Kim (天火煉金):** Mức cơ bản, chỉ dùng khi cần nung nhẹ mẫu quặng để kiểm tra phản ứng nhiệt.
 
 ## VI. QUAN HỆ
-
+- **Sơn Vạn** (Gia tộc): Đệ Tứ Hỏa Sư, cố vấn kiểm định quặng, la bàn thầm lặng
+- **Thạch Bàn** (Gia tộc): Đệ Tứ Hỏa Sư, sư huynh dìu dắt, người cung cấp quặng phục hồi
+- **Thạch Thiên** (Đồng minh): Đệ Tam Hỏa Sư, bạn tri kỷ cùng thời, người hiểu gã nhất
+- **Thạch Hỏa Long** (Đồng minh): Đệ Nhất Hỏa Sư, bạn cũ sôi nổi, tính cách trái ngược hoàn toàn
 - **Thạch Thiên (Tri Kỷ):**
     - Bạn thân nhất, người hiểu gã nhất. Hai gã có thể ngồi cạnh nhau cả ngày không nói lời nào mà vẫn thoải mái. Thiên là người duy nhất hiểu ngôn ngữ gõ đá cổ xưa của gã mà không cần học — như thể hai gã đã quen nhau từ kiếp trước.
-
 - **Thạch Hỏa Long (Bạn Cũ):**
     - Hỏa Long ồn, Nham im. Hỏa Long nóng, Nham nguội. Hai gã là đối cực — nhưng lại quý nhau theo cách kỳ lạ. Hỏa Long luôn phàn nàn Nham chậm, nhưng mỗi khi cần quặng tốt nhất cho dự án quan trọng, gã chỉ tin Nham.
-
 - **Sơn Vạn (Quân Trưởng Thạch Mạch):**
     - Sơn Vạn phụ trách bảo vệ mỏ quặng, nhưng luôn hỏi ý Nham trước khi quyết định khai thác mạch nào. Nham là la bàn thầm lặng của toàn bộ hoạt động khai khoáng.
-
 - **Thạch Bàn (Đệ Lục Hỏa Sư):**
     - Hậu bối mà gã dìu dắt. Thạch Bàn giỏi phục hồi cổ vật, và Nham giúp gã bằng cách cung cấp quặng phù hợp nhất cho từng món cổ vật — dựa trên khả năng phân tích thành phần nguyên bản.
-
 ## VII. GIAI THOẠI
 
 > *"..."*

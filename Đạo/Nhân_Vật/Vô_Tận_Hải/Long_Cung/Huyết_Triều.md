@@ -34,9 +34,15 @@ Chuyên tu Huyết Thủy thuộc tính, thao túng các luồng máu trong cơ 
 - **Huyết Độc Giao Thứ (血毒蛟刺):** Vẩy bắn ra hàng loạt gai nhọn tẩm kịch độc huyết tinh, có khả năng xâm nhập qua lớp da thịt làm thối rữa kinh mạch đối phương.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Cuồng Lôi** (Đồng minh): Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau
+- **Vạn Kiếp** (Chủ tớ): Thủ hạ trung thành trong Long Cung
+- **Vạn Kiếp** (Cấp dưới): Phục tùng Vạn Kiếp, Thái Thượng Trưởng Lão của Long Cung
+- **Băng Nha** (Đồng minh): Đồng liêu cùng Long Cung
+- **Minh Trầm Mặc** (Đồng minh): Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau
+- **Hắc Lạc Nhạn** (Sư đồ): Huyết Triều chỉ dẫn Hắc Lạc Nhạn trong Long Cung
+- **Hắc Ngạo Thiên** (Đồng minh): Đồng liêu cùng Long Cung, hỗ trợ lẫn nhau
 - **Nam Hải Long Vương:** Tôn kính nhưng luôn lợi dụng sự thiên vị của chủ nhân để tha hồ chém giết dưới danh nghĩa bảo vệ lãnh hải.
 - **Băng Nha:** Cực kỳ ghét bỏ sự lạnh nhạt, "giả thanh cao" của Băng Nha, thường xuyên mỉa mai và cố tình khiêu khích hắn bằng những trò tàn ác.
 - **Cuồng Lôi:** Thấy hắn thú vị bởi độ cuồng loạn, nhưng lại chán ngắt việc hắn giết kẻ địch quá nhanh. Vẫn hay lôi kéo hắn đi tàn sát các bộ tộc hải yêu lân cận.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trong quá khứ, Huyết Triều từng là một nữ Giao Long ôn hòa nhưng bị một liên minh các bộ tộc Hải Tộc phản loạn bắt giữ và tra tấn hòng lấy Giao Đan. Cùng đường, nàng đã phải cắn xé, uống cạn máu của toàn bộ kẻ giam giữ nàng để sống sót, từ đó nhiễm Huyết Đạo tà ác. Sự trở lại đẫm máu của nàng đã giúp trấn áp toàn bộ phản loạn ở phương Nam. Bằng những thủ đoạn độc ác, nàng được Nam Hải Long Vương cất nhắc trở thành Thủy Tướng phương Nam. Khao khát lớn nhất của Huyết Triều là dìm toàn bộ Vô Tận Hải trong một màu đỏ vĩnh cửu.

@@ -34,9 +34,14 @@ Không thiên về huyễn thuật như San Bạch Ngọc, Hồng Diệp chiến
 - **Hải Lưu Chú (海流咒):** Khả năng điều khiển áp suất và hướng đi của dòng nước biển một cách tinh vi. Nàng sử dụng một chiếc *Sáo San Hô* đặc biệt không phải để thổi nhạc, mà để làm vật dẫn truyền, phát ra những sóng âm ngắn, sắc bén làm đứt đoạn thần thức kẻ thù.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hải Nguyệt Ca** (Sư đồ): Hải Nguyệt Ca chỉ dẫn San Hồng Diệp trong San Hô Đảo Quốc
+- **Hải Tiểu Loa** (Sư đồ): San Hồng Diệp chỉ dẫn Hải Tiểu Loa trong San Hô Đảo Quốc
+- **Hải Vân Dao** (Đồng minh): Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau
+- **Hải Nguyệt Ca** (Cấp dưới): Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc
+- **San Ngọc Lan** (Đồng minh): Đồng liêu cùng San Hô Đảo Quốc, hỗ trợ lẫn nhau
+- **Thủy Tinh** (Sư đồ): San Hồng Diệp chỉ dẫn Thủy Tinh trong San Hô Đảo Quốc
 - **San Bạch Ngọc:** Bạn đồng liêu trong Hội Đồng Linh San. Hồng Diệp đôi khi cảm thấy sự cẩn trọng của Bạch Ngọc là một trở ngại, nhưng nàng hoàn toàn tin tưởng vào khả năng bao quát và ngoại giao của vị trưởng lão này.
 - **San Ngọc Lan:** Đối tác cung cấp dược liệu quan trọng nhất. Hồng Diệp là người đứng ra phân phối và tiêu thụ các sản phẩm của Ngọc Lan, mang lại nguồn lợi tức khổng lồ.
 - **Thiên Sa Thương Hội:** Thiết lập được nhiều đường dây buôn bán bí mật với các thương nhân từ Tây Mạc, trao đổi ngọc trai và linh tảo lấy các khoáng thạch quý hiếm mà Vô Tận Hải không có.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra trong một gia đình bình dân, San Hồng Diệp bắt đầu sự nghiệp của mình từ việc lặn tìm và thu thập những viên Ngọc Trai Lam Ngọc thô sơ ở rìa Rạn San Hô Khổng Lồ. Bằng sự nhanh nhạy, liều lĩnh và khả năng đánh giá giá trị tuyệt vời, nàng dần xây dựng nên mạng lưới giao thương riêng, vượt qua những rào cản cấm vận của Long Cung và sự uy hiếp từ Hải Yêu Mê Cung. Nàng được Nữ Vương Thủy Tinh bổ nhiệm làm Đoàn Trưởng Thương Hồ Đoàn sau khi đàm phán thành công một hiệp ước trao đổi thương mại lớn với các thế lực ven bờ. Hiện nay, mục tiêu lớn nhất của Hồng Diệp là mở rộng các tuyến đường thương mại an toàn ra khỏi Vô Tận Hải, thiết lập liên minh với các thương hội trên các đại lục khác để đảm bảo sự thịnh vượng lâu dài cho vương quốc.

@@ -31,9 +31,15 @@ arcs:
 Ưng Dã Phong sử dụng Phong Vũ Liệp Sát Thuật (風羽獵殺術) — kết hợp tốc độ bay với cung tên phong hệ, bắn ra mũi tên mang theo lốc xoáy nhỏ xuyên thủng giáp thú. Ngoài ra y tinh thông kỹ thuật đặt bẫy trên không, tạo ra lưới gió vô hình bắt chim thú bay. Tu vi còn thấp nhưng kỹ năng săn bắn thực tế rất cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Tước Lâm:** Huynh đệ đồng tộc, Ưng Dã Phong săn thú mang về cho Tước Lâm chế biến.
-- **Quạ Hắc Dạ:** Vũ Tộc bí ẩn thỉnh thoảng thuê Ưng Dã Phong trinh sát khu vực.
-- **Ưng Nham Trảo:** Thợ săn đàn anh mà Ưng Dã Phong mong được theo học.
-
+- **Cuồng Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
+- **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
+- **Lâm Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Quạ Hắc Dạ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Hắc Thiết Giáp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Tàn Dực** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Liệt Quyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Tước Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Lâm Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Ưng Nham Trảo** (Đồng minh): Hai thợ săn Ưng, đồng nghiệp săn bắn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ưng Dã Phong là Vũ Tộc nhánh Ưng, sinh ra với đôi cánh đẹp nhưng thiếu huyết mạch thuần túy nên bị Vũ Hoàng Các từ chối. Y không oán hận mà tự mình rèn luyện kỹ năng săn bắn, trở thành thợ săn giỏi nhất trong nhóm tán tu Vũ Tộc. Ước mơ của y là kiếm đủ tài nguyên để đến Tiên Cầm Viện học nghệ thuật thuần hóa linh điểu.

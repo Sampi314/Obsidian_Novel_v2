@@ -32,9 +32,12 @@ Lệ Vân Hải là một nữ tu Giao Nhân tuyệt sắc, có thể tùy ý ch
 Lệ Vân Hải không phải chiến tướng, mà là mưu sĩ và gián điệp bậc thầy. Nàng tinh thông *Mê Âm Hải Ca* (迷音海歌) — kỹ thuật dùng giọng hát Giao Nhân mê hoặc tâm trí đối phương, khiến kẻ thù tự nguyện tiết lộ bí mật mà không hề hay biết. Tuyệt kỹ *Vân Hải Ảo Ảnh* (云海幻影) cho phép nàng tạo ra ảo ảnh chân thực tuyệt đối, phân thân thành hàng chục bản sao để phân tán sự chú ý hoặc trốn thoát. Điểm mạnh nằm ở trí tuệ và khả năng thao túng, nhưng sức chiến đấu trực diện khá yếu — nếu bị ép vào thế đối đầu chính diện, nàng gần như không có cơ hội trước bất kỳ đối thủ nào cùng cấp.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Lệ Nhược Thủy** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Lệ Nhược Thủy** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Hải Ngọc Lan** (Sư đồ): Hải Ngọc Lan dẫn dắt Lệ Vân Hải trong Hải Thần Cung
+- **Loa Ngân Thanh** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
 - **Lệ Nhược Thủy:** Hải Vương đương nhiệm, chủ nhân mà Lệ Vân Hải phụng sự tuyệt đối. Nàng là tai mắt của Hải Vương trên đất liền, báo cáo mọi động thái của các thế lực lục địa.
 - **Sa Huyết Nha:** Bắc Hải Tướng Quân, đồng liêu thường xuyên bất đồng quan điểm. Hắn coi nàng là kẻ xảo quyệt không đáng tin, nàng coi hắn là con thú chỉ biết dùng nanh vuốt.
 - **Kình Lôi Thanh:** Đông Nam Tướng Quân, một trong số ít người thực sự tin tưởng và phối hợp tốt với nàng trong các chiến dịch kết hợp ngoại giao và quân sự.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra trong một gia tộc Giao Nhân nhỏ bé ở rìa lãnh thổ Hải Thần Cung, Lệ Vân Hải sớm nhận ra bộ tộc mình quá yếu để tự bảo vệ trước những thế lực lớn hơn. Năm sáu mươi tuổi, nàng tình nguyện gia nhập Hải Thần Cung, dùng sắc đẹp và trí thông minh thiên bẩm để nhanh chóng leo lên vị trí Ngoại Giao Sứ — người duy nhất được Hải Đế ủy quyền giao thiệp với các thế lực đất liền. Nàng đã nhiều lần đặt chân lên lục địa, đàm phán thành công các hiệp ước thương mại với Bách Bảo Các và Thiên Sa Thương Hội, đồng thời bí mật thu thập tình báo về sức mạnh quân sự của Nhân Tộc. Mục tiêu thầm kín lớn nhất của nàng không chỉ là phục vụ Hải Thần Cung, mà còn là đảm bảo tộc Giao Nhân nhỏ bé quê hương nàng sẽ mãi được che chở dưới cái bóng của đế chế biển.

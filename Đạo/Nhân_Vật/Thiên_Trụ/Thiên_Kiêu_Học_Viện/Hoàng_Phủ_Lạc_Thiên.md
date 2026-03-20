@@ -32,9 +32,9 @@ Thanh niên nho nhã, dung mạo tuấn tú, luôn mang theo thoang thoảng mù
 Tu luyện Lạc Thiên Đan Thuật — công pháp luyện đan kết hợp dược lý với linh lực tinh tế, đan dược luyện ra có hiệu quả vượt trội cùng cấp. Sở trường bào chế đan dược chữa thương, tăng tu vi, và giải độc, có thể tùy biến công thức theo tình trạng từng người. Đan lô tùy thân có thể luyện đan mọi lúc mọi nơi, là "dược khố di động" của học viện.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Hạo Nhiên]] — Viện Trưởng, ân sư cho phép hắn tự do nghiên cứu đan đạo.
-- [[Lỗ Bách Nghệ]] — Bách Nghệ Viện Chủ, bằng hữu thân thiết, thường trao đổi kỹ thuật.
-- [[Lâm Tĩnh]] — Giáo sư tâm pháp, đồng nghiệp, cung cấp tâm pháp hỗ trợ luyện đan.
-
+- **Hạo Nhiên** (Chủ tớ): Thủ hạ trung thành trong Thiên Kiêu Học Viện
+- **Hạo Nhiên** (Cấp dưới): Phục tùng Hạo Nhiên, Viện Trưởng của Thiên Kiêu Học Viện
+- **Khổng Thư** (Sư đồ): Khổng Thư chỉ dẫn Hoàng Phủ Lạc Thiên trong Thiên Kiêu Học Viện
+- **Lâm Tĩnh** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ Hoàng Phủ gia — gia tộc dược sư nổi tiếng nhiều đời. Thừa hưởng thiên phú đan đạo gia truyền, từ nhỏ đã có thể phân biệt hàng trăm loại linh dược bằng mùi hương. Bái nhập Thiên Kiêu ở tuổi mười lăm, nhanh chóng vượt qua mọi giáo sư đan dược tiền nhiệm. Tuy tuổi đời trẻ nhất trong hàng giáo sư nhưng trình độ đan thuật không ai dám coi thường, đan dược của hắn được cả hoàng triều trọng dụng.

@@ -32,8 +32,8 @@ Miêu Tiểu Linh khoác hình nhân thiếu nữ nhỏ nhắn, tai mèo nhọn,
 Miêu Tiểu Linh có thiên phú Linh Thú Đồng Cảm (靈獸同感) — có thể cảm nhận cảm xúc và ý nghĩ đơn giản của linh thú chỉ bằng tiếp xúc. Đang học Thú Linh Tâm Ấn từ Hội Trưởng. Bạch Tuyết có khả năng phát hiện nguy hiểm bằng xúc giác, là hệ thống cảnh báo sớm. Chiến đấu cá nhân yếu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Thú Ngữ:** Hội Trưởng mà y kính yêu như ông nội.
-- **Lang Linh Thông:** Đàn anh hay lo lắng cho y, cảnh báo không nên quá tin người.
-
+- **Hổ Thú Ngữ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thú Linh Sư Hội
+- **Hổ Thú Ngữ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Thú Ngữ
+- **Lang Linh Thông** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thú Linh Sư Hội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Miêu Tiểu Linh là Yêu Tộc nhánh Miêu, bị bán cho thương nhân làm thú cưng khi còn bé. Được Hổ Thú Ngữ cứu và đưa về Hội, y tìm được gia đình mới. Thiên phú đồng cảm linh thú của y mạnh hơn cả Hội Trưởng, có tiềm năng trở thành Thú Linh Sư vĩ đại. Bạch Tuyết là linh thú đầu tiên y thuần hóa, hai người có mối liên kết tâm linh không thể tách rời.

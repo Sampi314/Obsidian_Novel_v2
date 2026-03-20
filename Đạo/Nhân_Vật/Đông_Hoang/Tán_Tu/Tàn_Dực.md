@@ -31,9 +31,14 @@ Tàn Dực mang hình dáng nửa người nửa trùng — thân trên gần gi
 Tàn Dực sở hữu Tàn Dực Phệ Linh Thuật (殘翼噬靈術) — hấp thu linh khí từ môi trường xung quanh qua bộ xương cánh tàn phế để cường hóa bản thân. Khi chiến đấu, y phóng ra Thực Khí Trùng Ty (蝕氣蟲絲) — sợi tơ mang tính ăn mòn có thể phân giải linh lực hộ thể của đối thủ. Khả năng sinh tồn cực kỳ mạnh trong môi trường khắc nghiệt.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Quạ Hắc Dạ:** Tán tu tình báo luôn theo dõi Tàn Dực, khiến y cảnh giác.
-- **Ưng Nham Trảo:** Thợ săn Vũ Tộc từng đụng độ với Tàn Dực nhưng hai bên bất phân thắng bại, từ đó ngầm tôn trọng nhau.
-- **Cuồng Nham:** Cự Tộc duy nhất không sợ tiếp cận Tàn Dực, đôi khi mời y đấu luyện.
-
+- **Cuồng Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
+- **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
+- **Lâm Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Ưng Dã Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Lâm Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Hắc Thiết Giáp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Ưng Nham Trảo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Hoang Sơn Ẩn Sĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Quạ Hắc Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Tàn Dực nguyên là chiến binh Trùng Tộc phục vụ Vạn Trùng Cốc, nhưng trong một đợt Trùng Triều, y bị Trùng Mẫu bỏ rơi làm vật hy sinh. Thoát chết với đôi cánh tàn phế, y thề không bao giờ phục tùng bất kỳ Trùng Mẫu nào nữa. Trở thành tán tu, y sống bằng cách săn yêu thú và bán giáp xác trùng. Mang trong mình nỗi hận với Vạn Trùng Cốc, y âm thầm tích lũy sức mạnh để trả thù.

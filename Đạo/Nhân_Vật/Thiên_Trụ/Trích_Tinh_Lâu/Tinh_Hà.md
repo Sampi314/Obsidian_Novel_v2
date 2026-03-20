@@ -32,7 +32,10 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Bạch Quang Niên** (Chủ tớ): Thủ hạ trung thành trong Trích Tinh Lâu
+- **Bạch Quang Niên** (Cấp dưới): Phục tùng Tinh Hà, Lâu Chủ của Trích Tinh Lâu
+- **Khắc Minh** (Đồng minh): Đồng liêu cùng Trích Tinh Lâu, hỗ trợ lẫn nhau
+- **Tinh Thần** (Sư đồ): Tinh Hà chỉ dẫn Tinh Thần trong Trích Tinh Lâu
+- **Tinh Thần** (Cấp dưới): Phục tùng Tinh Hà, Lâu Chủ của Trích Tinh Lâu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

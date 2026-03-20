@@ -32,7 +32,10 @@ Sống trong mạch vàng ngầm, thân thể lấp lánh ánh kim, giàu nhất
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Mạch Ngân Quang** (Sư phụ): Mạch Hoàng Kim chỉ dẫn Mạch Ngân Quang trong Kim Sa Vi Mạch
+- **Mạch Ngọc Thạch** (Sư phụ): Mạch Hoàng Kim chỉ dẫn Mạch Ngọc Thạch trong Kim Sa Vi Mạch
+- **Mạch Thiết Cốt** (Sư phụ): Mạch Hoàng Kim chỉ dẫn Mạch Thiết Cốt trong Kim Sa Vi Mạch
+- **Mạch Tiểu Quặng** (Sư phụ): Mạch Hoàng Kim chỉ dẫn Mạch Tiểu Quặng trong Kim Sa Vi Mạch
+- **Mạch Đồng Tâm** (Chủ tớ): Thủ hạ trung thành trong Kim Sa Vi Mạch
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

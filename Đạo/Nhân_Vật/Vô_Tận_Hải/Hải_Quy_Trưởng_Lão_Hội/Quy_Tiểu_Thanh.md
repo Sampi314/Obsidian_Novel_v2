@@ -32,9 +32,14 @@ Một chú rùa biển nhỏ nhắn (so với các trưởng lão) với lớp v
 Chuyên tu về các thuật pháp mộc hệ cơ bản và kỹ thuật cảm nhận linh khí môi trường. Tuyệt kỹ "Tiểu Thanh Hiếu Kỳ" (小青好奇) cho phép cậu sử dụng các sợi râu linh lực để thăm dò và thu thập thông tin về chất lượng nước cũng như sự hiện diện của các sinh vật lạ trong phạm vi gần. Điểm mạnh là sự linh hoạt và khả năng học hỏi nhanh chóng, nhưng điểm yếu là tu vi còn quá thấp và tâm tính chưa đủ ổn định để thực hiện các cuộc thiền định kéo dài.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Quy Huyền Thiên Vạn** (Sư đồ): Quy Huyền Thiên Vạn chỉ dẫn Quy Tiểu Thanh trong Hải Quy Trưởng Lão Hội
+- **Quy Ngọc Mai** (Sư đồ): Quy Ngọc Mai chỉ dẫn Quy Tiểu Thanh trong Hải Quy Trưởng Lão Hội
+- **Quy Thiên Lý** (Sư đồ): Quy Thiên Lý chỉ dẫn Quy Tiểu Thanh trong Hải Quy Trưởng Lão Hội
+- **Quy Huyền Thiên Vạn** (Cấp dưới): Phục tùng Quy Huyền Thiên Vạn, Đại Trưởng Lão của Hải Quy Trưởng Lão Hội
+- **Quy Tĩnh Hải** (Sư đồ): Quy Tĩnh Hải chỉ dẫn Quy Tiểu Thanh trong Hải Quy Trưởng Lão Hội
+- **Quy Vạn Niên Hàn** (Sư đồ): Quy Vạn Niên Hàn chỉ dẫn Quy Tiểu Thanh trong Hải Quy Trưởng Lão Hội
 - **Quy Huyền Thiên Vạn:** Vị đại trưởng lão mà cậu hết sức kính sợ và luôn cố gắng không làm phiền khi cụ đang thiền định.
 - **Quy Hắc Giáp:** Người thầy huấn luyện võ nghệ, cậu thường xuyên bị Hắc Giáp nhắc nhở về việc phải rèn luyện tính kiên nhẫn.
 - **Quy Vạn Niên Hàn:** Người huynh trưởng mà cậu thường đến xin nghe kể những câu chuyện lịch sử hào hùng để giải trí.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Quy Tiểu Thanh sinh ra ngay tại rạn san hô bao quanh Quy Giáp Đường, là hậu duệ hiếm hoi của một dòng dõi rùa biển linh thú trong hàng trăm năm qua. Cậu được cả hội coi như bảo vật và là niềm hy vọng của thế hệ kế cận. Dù đã 500 tuổi, nhưng trong mắt các trưởng lão nghìn năm, cậu vẫn chỉ là một đứa trẻ cần được bao bọc. Hiện tại, Quy Tiểu Thanh đang nỗ lực rèn luyện để vượt qua kỳ sát hạch đột phá lên Trúc Cơ, với ước mơ một ngày nào đó được cùng Quy Thiên Lý chu du khắp Vô Tận Hải để tận mắt chứng kiến những điều kỳ thú trong các trang sử thư.

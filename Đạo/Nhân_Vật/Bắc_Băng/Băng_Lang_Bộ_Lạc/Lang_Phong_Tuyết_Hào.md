@@ -123,6 +123,8 @@ arcs:
     - Phong Tuyết Hào ngưỡng mộ Cô Hàn — trinh sát của tàn đội vượt xa hắn về kỹ năng ẩn thân và ám sát. Hắn muốn học từ Cô Hàn nhưng gã trinh sát cô độc hiếm khi nói chuyện. Mỗi khi tình cờ gặp nhau trên tuyến trinh sát, Phong Tuyết Hào cố bắt chuyện — Cô Hàn chỉ gật đầu rồi biến mất.
 - **Tốc Phong (Băng Lang Đồng Hành):**
     - Sói xám nhỏ con, nhanh nhất đàn — đồng hành của hắn từ Lễ Khế Ước. Hai kẻ nhanh nhất bộ lạc, chạy song song trên tuyết như hai luồng gió. Tốc Phong hiểu chủ không cần lệnh — khi hắn chạy, sói chạy; khi hắn dừng, sói canh gác.
+- **Lang Huyết Trảo** (Đồng minh): Thợ Săn Trưởng, đồng nghiệp phối hợp trinh sát thường xuyên
+- **Lang Hàn Thiên Nộ** (Kẻ thù): Đại Tướng Quân, người nhận báo cáo trinh sát trực tiếp từ hắn
 
 ## VII. GIAI THOẠI
 > *"Phong Tuyết Hào chạy nhanh đến mức gió phải hỏi đường."*

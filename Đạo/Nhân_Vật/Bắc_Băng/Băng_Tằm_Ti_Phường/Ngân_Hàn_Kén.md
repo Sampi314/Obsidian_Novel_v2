@@ -138,6 +138,7 @@ arcs:
     - Ngọc Ti kiên nhẫn với hắn hơn ông nội — lão dạy hắn rằng kén không chỉ để bảo vệ mà còn để bảo quản, vận chuyển, và thậm chí trưng bày. Lão mở rộng tầm nhìn của hắn từ "kén là phòng thủ" sang "kén là công cụ đa năng." Hàn Kén kính trọng Ngọc Ti vì sự điềm đạm và tầm nhìn xa — những thứ ông nội không có.
 - **Tằm Tiểu Kiên — Đệ Tử Nhỏ & Trách Nhiệm:**
     - Tiểu Kiên là tằm non mới học nhả tơ, được giao cho Hàn Kén kèm cặp. Hắn dạy Tiểu Kiên cách kết kén nhỏ — kiên nhẫn đến mức ngạc nhiên, hoàn toàn trái ngược với cách ông nội dạy hắn. *"Ta sẽ không dạy nó bằng cách ông dạy ta,"* hắn tự nhủ. *"Ta sẽ dạy nó rằng kén là để bảo vệ, không phải để chịu đau."*
+- **Tằm Thiên Trùng** (Sư phụ): Thế hệ sau, kén sư trẻ có tài, hắn muốn truyền thừa kinh nghiệm
 
 ## VII. GIAI THOẠI
 > *"Ngân Hàn Kén kết kén bọc trời — nói quá không? Không hề. Lão ấy từng bọc cả Ngân Động trong một đêm bão. Trời không bọc được, nhưng người trong trời thì bọc đủ."*

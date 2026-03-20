@@ -125,16 +125,15 @@ Thanh Lân biết: không thể giấu nó mãi. Long huyết sẽ ngày càng m
     - Chưa hóa nhân hình — không thể giao tiếp, không thể hòa nhập, không thể tự bảo vệ trong xã hội tu tiên.
 
 ## VI. QUAN HỆ
-
+- **Hắc Vĩ** (Chủ tớ): Con bạch xà bí mật, đứa nhỏ kỳ lạ mà hắn vừa bảo vệ vừa dè chừng
+- **Thanh Lân** (Gia tộc): Con bạch xà huyết mạch thuần khiết mà hắn giấu kín, hy vọng cuối cùng của tộc
+- **Thanh Vĩ Nhi** (Gia tộc): Con bạch xà bí ẩn trong hang sâu, nó lén đến thăm dù bị cấm
 - **Thanh Lân (Tộc Trưởng):**
     - Kẻ giấu mình — vừa là ân nhân bảo vệ nó khỏi Lục Mãng Vương, vừa là cai ngục nhốt nó trong bóng tối. Nó cảm nhận sự quan tâm của lão — mỗi lần lão xuống hang, tay lão luôn mang hơi ấm, giọng nói luôn dịu dàng. Nhưng nó cũng cảm nhận sự lo lắng, sự sợ hãi — và bản năng nói với nó rằng lão đang giấu nó khỏi thứ gì đó rất lớn. Nó không hiểu — nhưng nó tin lão.
-
 - **Hắc Vĩ (Phó Tộc Trưởng):**
     - Kẻ canh hang nghiêm khắc. Hắc Vĩ ít nói chuyện với nó — đến, đặt thức ăn, đi. Nhưng thỉnh thoảng Hắc Vĩ mang thức ăn ngon hơn bình thường — con chuột béo thay vì thằn lằn gầy — và nó biết đó là cách kẻ lạnh lùng này thể hiện quan tâm. Nó sợ Hắc Vĩ — vì hắn mang sát khí mà Thanh Lân không có.
-
 - **Thanh Vĩ Nhi (Bạn):**
     - Ánh sáng. Trong thế giới tối tăm mười trượng vuông, Thanh Vĩ Nhi là thứ duy nhất mang năng lượng khác — ồn ào, bốc đồng, hay mang quà kỳ lạ, và không bao giờ nhìn nó với ánh mắt sợ hãi hay tính toán. Thanh Vĩ Nhi nhìn nó như nhìn một con rắn — không phải "huyết mạch quý hiếm," không phải "bí mật cần giấu," chỉ là một con rắn trắng đẹp mà nó muốn chơi cùng. Sự đơn giản đó, với Bạch Linh, quý hơn bất kỳ thứ gì.
-
 ## VII. GIAI THOẠI
 
 > *"Trong hang sâu nhất, nơi ánh sáng không bao giờ đến, có một đốm trắng phát sáng. Đó không phải đèn. Đó không phải đá dạ quang. Đó là hy vọng cuối cùng của Hạ Tộc — và là bí mật mà ta sẵn sàng chết để giữ."*

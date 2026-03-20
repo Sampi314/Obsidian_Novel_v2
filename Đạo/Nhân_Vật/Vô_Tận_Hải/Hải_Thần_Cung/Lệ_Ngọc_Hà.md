@@ -125,6 +125,10 @@ arcs:
     - **Trân Châu Tịnh Hóa Chuỗi (珍珠净化串):** Một trăm linh tám viên trân châu do Giao Thiên Lệ Nguyệt khóc ra, mỗi viên chứa cảm xúc hạnh phúc thuần khiết. Khi kích hoạt, chuỗi trân châu tỏa ra ánh sáng ấm áp thanh tẩy tà khí trong bán kính trăm trượng — là tuyến phòng ngự cuối cùng bảo vệ Ngọc Hà Các.
 
 ## VI. QUAN HỆ
+- **Hải Thiên Hà** (Đồng minh): Mẫu hậu hiền từ, người duy nhất xoa dịu được cơn nóng nảy của cậu
+- **Hải Thiên Đế** (Đồng minh): Hải Hậu, tri kỷ tâm giao và điểm tựa tinh thần suốt ngàn năm trị vì
+- **Hải Ngọc Lan** (Gia tộc): Con gái yêu quý nhất, nguồn vui lớn nhất và cũng là nỗi lo khôn nguôi
+- **Lệ Nhược Thủy** (Đồng minh): Muội muội họ, người chia sẻ mối lo về tà khí ăn mòn đại dương
 - **Hải Thiên Đế (Phu Quân — Tri Kỷ Ngàn Năm):**
     - Mối quan hệ giữa hai người không ồn ào, không lãng mạn theo cách thông thường — mà là sự thấu hiểu sâu sắc chỉ có thể hình thành qua ba nghìn năm cùng nhau đi qua. Nàng biết ông đang giấu bí mật, nàng biết ông đang chịu đau — nhưng nàng không ép hỏi, chỉ lặng lẽ ở bên cạnh, chuẩn bị sẵn y thuật cho ngày ông cần. Ông biết nàng biết — nhưng cả hai chọn cách im lặng bảo vệ nhau. Đêm sau mỗi lần gia cố phong ấn, Ngọc Hà luôn để sẵn một bát canh linh tảo nóng trước thư phòng — bát canh luôn cạn sạch, nhưng không ai nhắc đến.
 - **Hải Thiên Hà (Con Trai Trưởng — Nỗi Lo Lớn Nhất):**
@@ -135,7 +139,6 @@ arcs:
     - Nhược Thủy xuất thân cùng Lệ Thị Giao Tộc, là em họ xa của Ngọc Hà. Hai người chia sẻ mối lo chung: tà khí Huyết Độc đang lan từ đất liền xuống biển, đe dọa mọi sinh linh. Ngọc Hà cung cấp nghiên cứu y thuật và Hải Thần Trân Châu cho Nhược Thủy, đổi lại Nhược Thủy chia sẻ tình báo về nguồn gốc Huyết Độc từ vùng biển giáp ranh Nam Cương.
 - **Giao Vân Hà (Y Sư — Đệ Tử Tâm Đắc):**
     - Vân Hà là y sư giỏi nhất thế hệ trẻ trong Hải Thần Cung, được Ngọc Hà đích thân dạy dỗ và coi như con gái nuôi. Hai người thường cùng nhau nghiên cứu dược liệu biển sâu trong phòng thí nghiệm của Ngọc Hà Các, thỉnh thoảng quên cả thời gian.
-
 ## VII. GIAI THOẠI
 > *"Hải Đế là bão tố, Hải Hậu là biển lặng sau bão — nhưng biển lặng mới là thứ nuôi sống vạn vật."*
 > — Câu nói phổ biến trong quần thần Hải Thần Cung.

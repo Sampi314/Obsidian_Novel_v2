@@ -137,6 +137,11 @@ arcs:
     - **Cô lập xã hội:** Y giao tiếp tối thiểu với các cá thể khác, dẫn đến thiếu thông tin tình huống trong những lúc cần phối hợp nhanh. Khi Ba Thiên Lý cần y chuyển tần số khẩn cấp, đôi khi phải mất nhiều nhịp chỉ để "giải mã" lớp bảo mật y đặt quanh mình.
 
 ## VI. QUAN HỆ
+- **Ba Vạn Lý** (Đồng minh): Liên Lạc Trưởng, cấp trên mà Ba Thanh Tần phải xin phép trước khi triển khai bất kỳ giao thức mã hóa mới nào
+- **Ba Thiên Lý** (Đồng minh): Phó Trưởng Trạm, đồng sự quản lý hạ tầng mà Ba Thanh Tần thường xuyên xung đột về ưu tiên tốc độ và bảo mật
+- **Ba Cộng Minh** (Đồng minh): Giải mã sư, đối thủ và đồng minh — Cộng Minh phá mã, Thanh Tần tạo mã, hai bên thường xuyên thử sức
+- **Ba Trầm Lặng** (Đồng minh): Gây nhiễu viên, đồng minh chiến thuật trong các chiến dịch phòng thủ mạng lưới
+- **Hắc Ngạo Thiên** (Kẻ thù): Thủ lĩnh Hắc Hải Hải Tặc, kẻ thù vô hình mà Ba Thanh Tần coi là mục tiêu phải triệt tiêu khỏi mạng lưới
 - **Ba Vạn Lý — Liên Lạc Trưởng & Nguồn Xung Đột Lặng:**
     - Ba Thanh Tần tôn trọng Ba Vạn Lý vì vị thế và năng lực, nhưng bất đồng sâu sắc về nguyên tắc. Y tin rằng Ba Vạn Lý quá "thoáng" khi cho phép các thế lực bên ngoài tự do sử dụng mạng lưới — trong khi mạng lưới đang bị khai thác đến mức nguy hiểm. Y tuân lệnh vì y hiểu rằng mình chưa đủ tầm nhìn toàn cục — nhưng y giữ lại Tần Phổ Cấm Chỉ như "phương án B" cho ngày y tin rằng Ba Vạn Lý sai.
     - Mâu thuẫn giữa hai cá thể chưa bao giờ bùng nổ vì cả hai đều đủ lý trí để kiềm chế — nhưng nếu một ngày Ba Vạn Lý không còn, và Ba Thanh Tần nắm quyền bảo mật mà không ai kiểm soát, mạng lưới có thể đi theo hướng hoàn toàn khác.
@@ -148,7 +153,6 @@ arcs:
     - Ba Trầm Lặng là "vũ khí" mà Ba Thanh Tần sử dụng trong các chiến dịch phòng thủ — Trầm Lặng gây nhiễu, Thanh Tần định hướng nhiễu vào đúng mục tiêu. Hai cá thể phối hợp ăn ý: Thanh Tần xác định vị trí và tần số kẻ nghe trộm, Trầm Lặng gây nhiễu chính xác vào đó. Thanh Tần coi Trầm Lặng là công cụ hiệu quả nhất y có.
 - **Hắc Ngạo Thiên (Hắc Hải Hải Tặc) — Kẻ Thù Vô Hình:**
     - Ba Thanh Tần chưa bao giờ gặp Hắc Ngạo Thiên, nhưng y căm ghét thủ lĩnh hải tặc vì chính dưới sự chỉ đạo của hắn mà hải tặc đã phát triển kỹ thuật phát tín hiệu giả, "ô nhiễm" mạng lưới Vi Ba. Y coi Hắc Ngạo Thiên là mối đe dọa lớn nhất từ bên ngoài — và lặng lẽ theo dõi mọi tín hiệu liên quan đến hắn, xây dựng hồ sơ tình báo riêng.
-
 ## VII. GIAI THOẠI
 > *"Mạng lưới Vi Ba có một kẻ gác cổng — ngươi không thấy hắn, nhưng hắn thấy ngươi. Hắn biết ngươi đang nghe gì, từ đâu, bao lâu. Và nếu hắn muốn, ngươi sẽ chỉ nghe thấy im lặng."*
 > — Lời cảnh cáo truyền miệng trong giới gián điệp hải tặc Hắc Hải.

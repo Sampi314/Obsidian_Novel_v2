@@ -32,9 +32,18 @@ Trùng Nhện Chúa có hình dáng nhện khổng lồ tám chân, mỗi chân 
 Đạt cảnh giới Nguyên Anh Đỉnh Phong, Trùng Nhện Chúa tu luyện "Thiên La Địa Võng Quyết" (天罗地网诀) — biến tơ nhện thành lưới trận có thể phong tỏa không gian và cắt đứt linh lực. Tuyệt kỹ "Vạn Ti Tuyệt Sát Trận" (万丝绝杀阵) giăng tơ vô hình trong phạm vi ngàn trượng, mỗi sợi tơ đều chứa kịch độc và có thể co rút cắt đứt mọi thứ. Điểm mạnh là khả năng bày trận và kiểm soát chiến trường, nhược điểm là cần thời gian chuẩn bị và yếu trước hỏa hệ công kích.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trùng Mẫu:** Mẫu Hoàng, đấng sinh thành toàn tộc, hắn trung thành tuyệt đối và sẵn sàng hy sinh bản thân để bảo vệ.
-- **Trùng Bọ Ngựa:** Đồng liêu Trùng Tướng, quan hệ cạnh tranh lành mạnh nhưng phối hợp ăn ý trên chiến trường.
-- **Trùng Kiến Vương:** Thuộc hạ chỉ huy binh đoàn kiến, cung cấp lực lượng trinh sát tiền tuyến cho hắn.
-
+- **Trùng Bọ Ngựa** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Trùng Cốc
+- **Trùng Cánh Cứng** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Trùng Cốc
+- **Trùng Độc Ong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Trùng Cốc
+- **Trùng Kiến Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Trùng Cốc
+- **Trùng Bọ Ngựa** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Nhện Chúa
+- **Trùng Cánh Cứng** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Nhện Chúa
+- **Trùng Độc Ong** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Nhện Chúa
+- **Trùng Kiến Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trùng Nhện Chúa
+- **Vạn Ti La Nương** (Đồng minh): Trùng Vương và Nhện Hậu Thiên Yêu Đình, cùng loài nhện
+- **Nấm Thiên Căn** (Kẻ thù): Trùng Vương và Mạng Lưới Chủ Nấm, tranh giành lãnh thổ rừng sâu
+- **Trùng Xích Giác** (Kẻ thù): Trùng Trưởng Phản Sào nổi dậy chống Trùng Vương
+- **Lê Thiết Giáp** (Kẻ thù): Tàn Binh Liên Minh Chủ chống Trùng Vương, thù hận
+- **Phệ Cốt Ma** (Kẻ thù): Ký Sinh Trùng Chúa tranh đoạt kiểm soát trùng tộc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trùng Nhện Chúa là một trong những cá thể trùng đầu tiên được Trùng Mẫu sinh ra, mang thiên phú dệt tơ vượt trội từ khi mới nở. Hắn đã chứng minh năng lực bằng cách một mình giăng lưới bao vây và tiêu diệt một đàn yêu thú cấp Nguyên Anh xâm nhập lãnh thổ Cốc, từ đó được phong làm Trùng Vương thống lĩnh quân đội. Biến cố quan trọng nhất trong đời hắn là cuộc đối đầu với sát thủ Vạn Tượng Sâm La đến ám sát Trùng Mẫu — hắn dùng tơ nhện phong tỏa toàn bộ khu vực, biến cuộc ám sát thành cái bẫy ngược. Hiện tại, hắn đang nghiên cứu cách dệt một tấm lưới phủ toàn bộ lãnh thổ Cốc để tạo hệ thống phòng thủ tuyệt đối.

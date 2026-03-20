@@ -164,6 +164,9 @@ arcs:
     - Hàn Đan thu nhận Tuyết Ngọc — một Cáo Tuyết hóa hình — khi nàng bị thương nặng gần chết trước cổng Đông Cốc. Quyết định này gây ra phản đối lớn vì Đông Cốc truyền thống chỉ nhận đệ tử Nhân Tộc. Hàn Đan nói: *"Hàn Diễm Chân Nhân dạy ta cứu người — Chân Nhân không nói 'người' là phải Nhân Tộc."* Ông kiên quyết giữ Tuyết Ngọc và chứng minh quyết định đúng đắn khi nàng trở thành dược sư giỏi nhất thế hệ.
 - **Hàn Diễm Chân Nhân — Tổ Sư (Đã Tọa Hóa):**
     - Dù chưa bao giờ gặp mặt tổ sư, Hàn Đan coi Di Thư của Chân Nhân như kim chỉ nam cho mọi quyết định. Ông đọc đi đọc lại cuốn sách ấy hàng trăm lần, mỗi lần đều tìm thấy ý nghĩa mới. Trong phòng làm việc của ông, bức chân dung Chân Nhân được treo ở vị trí trang trọng nhất.
+- **Lê Hàn Sương** (Sư phụ): Chân Truyền Đệ Tử, cháu họ xa, đệ tử có thiên phú cao nhất thế hệ trẻ
+- **Nguyễn Băng Tâm** (Sư phụ): Sư phụ trực tiếp, Cốc Chủ, bậc mà hắn ngưỡng mộ nhất
+- **Thỏ Linh Nhi** (Đồng minh): Cốc Chủ, bậc trưởng bối uy nghiêm nhưng nhân từ
 
 ## VII. GIAI THOẠI
 > *"Băng Diễm Lão Nhân luyện đan, lửa lạnh hơn băng, đan nóng hơn huyết. Ai được ông cứu, không chỉ sống lại mà còn sống tốt hơn trước."*

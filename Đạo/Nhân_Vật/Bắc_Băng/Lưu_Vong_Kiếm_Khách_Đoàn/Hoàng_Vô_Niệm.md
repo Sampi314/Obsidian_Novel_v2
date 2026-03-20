@@ -67,6 +67,8 @@ Hoàng Vô Niệm chuyên luyện Tàn Kiếm Thất Thức do Đoàn Trưởng 
 - **Lý Tàn Kiếm:** Phó đoàn trưởng, sư huynh đáng tin, người thường xuyên cùng hắn tuần tra quanh doanh trại và dạy hắn cách tồn tại nơi hoang dã Bắc Băng.
 - **Nguyễn Tiểu Phong:** Sư đệ nhỏ tuổi mới gia nhập, hắn âm thầm để ý bảo vệ nhưng không bao giờ nói ra miệng.
 - **Hàn Kiếm Cốc:** Cựu sư môn mà hắn bị trục xuất, nỗi đau bị phản bội khiến hắn chọn cách quên đi tất cả — cũng là nguồn gốc của danh hiệu "Vô Niệm".
+- **Trần Đoạn Phong** (Gia tộc): Sư đệ trầm mặc, hắn đánh giá cao sự thuần khiết trong kiếm đạo của Vô Niệm, thỉnh thoảng uống trà cùng
+- **Vũ Hàn Kiếm** (Gia tộc): Sư đệ trầm mặc, kiếm ý thuần khiết khiến hắn ngưỡng mộ thật lòng dù cố giữ khoảng cách
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoàng Vô Niệm vốn là ngoại môn đệ tử của Hàn Kiếm Cốc, bẩm sinh tư chất tầm thường nhưng cần cù khổ luyện. Năm mười tám tuổi, hắn bị một nội môn sư huynh vu oan trộm cắp linh thạch để che giấu hành vi tham ô của chính mình, khiến hắn bị trục xuất không cho cơ hội biện bạch. Sau khi rời cốc, hắn lang thang ngoài hoang nguyên Bắc Băng suốt hai năm, nhiều lần suýt chết vì bão tuyết và yêu thú, cho đến khi Phương Hàn tìm thấy hắn đang hấp hối trong một hang băng. Được cứu sống và nhận vào đoàn, hắn quyết định xóa bỏ mọi niệm tưởng về quá khứ, lấy hiệu "Vô Niệm" và dồn hết tâm trí vào kiếm đạo. Mục tiêu hiện tại của hắn là đột phá Trúc Cơ Hậu Kỳ, đồng thời hoàn thiện chiêu kiếm riêng để chứng minh rằng kiếm đạo không cần sư môn danh giá mới có thể thành tựu.

@@ -32,9 +32,12 @@ Một nam tử Hải Quy có vóc dáng thư sinh, lớp vỏ mai bằng phẳng
 Chuyên tu về các thuật pháp ghi chép ký ức và kỹ thuật bảo tồn linh lực trong văn tự đá. Tuyệt kỹ "Vạn Niên Khắc Ký" (万年刻记) cho phép hắn ngưng tụ linh lực vào đầu ngón tay để khắc trực tiếp các hình ảnh và âm thanh của sự kiện lên vật chất cứng, tạo ra những "thanh ngọc giản đá" có thể tồn tại hàng vạn năm mà không bị phong hóa. Điểm mạnh là khả năng lưu trữ thông tin khổng lồ và kỹ năng phục chế các cổ vật văn hóa, nhưng điểm yếu là hầu như không có năng lực tự vệ khi đang tập trung làm việc.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Quy Tiểu Thanh** (Sư đồ): Quy Vạn Niên Hàn chỉ dẫn Quy Tiểu Thanh trong Hải Quy Trưởng Lão Hội
+- **Quy Tĩnh Hải** (Đồng minh): Đồng liêu cùng Hải Quy Trưởng Lão Hội, hỗ trợ lẫn nhau
+- **Quy Huyền Thiên Vạn** (Chủ tớ): Thủ hạ trung thành trong Hải Quy Trưởng Lão Hội
+- **Quy Huyền Thiên Vạn** (Cấp dưới): Phục tùng Quy Huyền Thiên Vạn, Đại Trưởng Lão của Hải Quy Trưởng Lão Hội
 - **Quy Huyền Thiên Vạn:** Người thầy vĩ đại mà hắn hết lòng phụng sự, hắn dành phần lớn thời gian để ghi chép lại những lời kể của cụ.
 - **Quy Cổ Hải:** Hắn thường xuyên tra cứu các ký ức về địa lý từ Quy Cổ Hải để bổ sung vào các bộ sử thư đại dương.
 - **Quy Tiểu Thanh:** Hắn thường bắt Quy Tiểu Thanh phải ngồi học các bài học lịch sử, mong muốn đào tạo đứa trẻ này trở thành người kế nghiệp.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Quy Vạn Niên Hàn vốn sinh ra trong một gia đình rùa biển có truyền thống làm nghề khắc bia mộ cho các bậc đại năng hải tộc. Sớm bộc lộ thiên tư về việc cảm nhận dòng chảy của ký ức, hắn đã được Hải Quy Trưởng Lão Hội nhận nuôi và đào tạo thành một sử gia chuyên nghiệp. Hắn đã dành toàn bộ thanh xuân để đi khắp các phế tích biển sâu, tìm kiếm những mảnh vỡ lịch sử bị vùi lấp để chắp vá lại bức tranh toàn cảnh về quá khứ của Hải Tộc. Hiện tại, hắn đang thực hiện bộ "Vạn Niên Hải Sử", một công trình ghi chép đồ sộ nhất từ trước đến nay, với mong muốn để lại một thư viện tri thức bất tử cho các thế hệ sau.

@@ -61,10 +61,10 @@ Nham Linh là một Thạch Tộc có hình dáng thanh mảnh bất thường s
 Khác với các Tế Tư thiên về cứng hóa và cận chiến, Nham Linh phát triển "Nham Thần Chú" (岩神咒) theo hướng cảm ứng và điều khiển — nàng có thể cảm nhận mạch nham thạch trong phạm vi trăm trượng và điều hướng chúng theo ý muốn. Tuyệt kỹ "Linh Thạch Cộng Minh" (灵石共鸣) cho phép nàng gõ "Linh Thạch Khánh" tạo ra sóng âm cộng hưởng với nham thạch xung quanh, khiến mặt đất rung chuyển có chọn lọc hoặc khiến đá vỡ vụn thành cát dưới chân kẻ địch. Tuy nhiên, bản thân nàng mỏng manh hơn Thạch Tộc thông thường, lớp nguyệt quang thạch không đủ cứng để chịu đựng đòn tấn công trực tiếp mạnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bàn Thạch:** Đại Tế Tư mà nàng kính trọng sâu sắc, nhưng Nham Linh âm thầm lo lắng rằng ông đang mang gánh nặng quá lớn một mình và không dám chia sẻ nỗi sợ bộ lạc diệt vong.
-- **Nham Cốt:** Đồng liêu bảo thủ cứng nhắc, hai bên thường tranh cãi về cách diễn giải kinh văn Nham Thần, Nham Cốt coi nàng là kẻ bất kính còn nàng coi hắn là kẻ mù quáng.
-- **Nham Tĩnh:** Đồng liêu Tế Tư trầm lặng, người duy nhất chịu lắng nghe những suy nghĩ "lạc đạo" của nàng mà không phán xét, hai bên có mối gắn kết thầm lặng.
+- **Bàn Thạch** (Đồng minh): Đại Tế Tư mà nàng kính trọng sâu sắc, nhưng Nham Linh âm thầm lo lắng rằng ông đang mang gánh nặng quá lớn một mình và không dám chia sẻ nỗi sợ bộ lạc diệt vong.
+- **Nham Cốt** (Sư phụ): Đồng liêu bảo thủ cứng nhắc, hai bên thường tranh cãi về cách diễn giải kinh văn Nham Thần, Nham Cốt coi nàng là kẻ bất kính còn nàng coi hắn là kẻ mù quáng.
+- **Nham Tĩnh** (Đồng minh): Đồng liêu Tế Tư trầm lặng, người duy nhất chịu lắng nghe những suy nghĩ "lạc đạo" của nàng mà không phán xét, hai bên có mối gắn kết thầm lặng.
+- **Xích Nham** (Chủ tớ): Tế Tư trẻ tuổi, Xích Nham cho rằng nàng quá mỏng manh và cần được bảo vệ hơn là đứng ra làm lễ
 - **Sa Thạch Du Mục:** Nham Linh lén lút giao du với vài thành viên Du Mục khi họ đi ngang qua chân núi, tò mò về cách sống tự do không bị ràng buộc bởi tín ngưỡng.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nham Linh đản sinh từ một khối nguyệt quang thạch quý hiếm trong suối khoáng nóng bên trong Xích Nham Sơn Mạch khoảng năm trăm năm trước, là Thạch Tộc trẻ nhất trong bộ lạc. Ngay từ khi "thức giấc", nàng đã khác biệt — thay vì trầm mặc như đồng tộc, nàng tò mò quan sát mọi thứ, từ cách mây trôi qua đỉnh núi đến cách côn trùng bò trên đá. Bàn Thạch nhận ra tiềm năng cảm ứng nham mạch đặc biệt của nàng, phong nàng làm Tế Tư dù tuổi đời còn non, giao cho nàng nhiệm vụ "lắng nghe tiếng Nham Thần Thở" từ miệng núi lửa — một công việc mà không Tế Tư nào khác làm được. Chính vì thường xuyên lắng nghe những rung động từ sâu trong lòng đất, Nham Linh bắt đầu nghi ngờ rằng thứ nằm dưới đỉnh thiêng không phải thần linh mà là một thực thể cổ xưa nào đó đang trầm miên, và nỗi tò mò ấy có thể đưa nàng đến xung đột trực tiếp với tín ngưỡng ngàn năm của bộ lạc.

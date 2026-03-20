@@ -32,9 +32,13 @@ Thu hái dược liệu từ rừng lá vàng vĩnh cửu
 Chuyên gia trị liệu của Lạc Diệp Tinh Linh, tinh thông y thuật và dược lý. Chiêu thức 叶雲霞·Hồi Xuân Thuật (叶雲霞·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Diệp Hồng Vũ:** Cung Thủ, đồng liêu quan trọng nhất trong Lạc Diệp Tinh Linh.
-- **Diệp Kim Phong:** Vệ Sĩ Trưởng, đối tác thường xuyên phối hợp.
-- **Diệp Linh Ngọc:** Đệ Tử, mối quan hệ tin cậy lẫn nhau.
-
+- **Diệp Thiên Thu Hàn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Lạc Diệp Tinh Linh
+- **Diệp Thiên Thu Hàn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Diệp Thiên Thu Hàn
+- **Diệp Kim Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lạc Diệp Tinh Linh
+- **Diệp Lạc Hà Thanh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lạc Diệp Tinh Linh
+- **Diệp Mộng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lạc Diệp Tinh Linh
+- **Diệp Linh Ngọc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lạc Diệp Tinh Linh
+- **Diệp Thu Thanh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lạc Diệp Tinh Linh
+- **Diệp Hồng Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lạc Diệp Tinh Linh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Diệp Vân Hà vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Lạc Diệp Tinh Linh. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Lạc Diệp Tinh Linh và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dược Sư.

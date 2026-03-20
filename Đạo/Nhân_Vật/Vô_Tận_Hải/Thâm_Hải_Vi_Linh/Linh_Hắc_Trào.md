@@ -63,9 +63,22 @@ Linh Hắc Trào nhỏ bằng hạt gạo, thân mình phủ lớp lân phiến 
 Linh Hắc Trào chuyên về ẩn thân và trinh sát hơn chiến đấu trực diện — chiêu thức cốt lõi là "Hắc Triều Ẩn Tức" (黑潮隱息) cho phép hắn hòa tan hoàn toàn vào dòng hải lưu đen, xóa sạch khí tức và không để lại dấu vết nào cho dù đối thủ có thần thức Kim Đan Hậu Kỳ. Khi bị dồn vào thế bí, hắn thi triển "Thâm Hải Mặc Thực" (深海默蝕) — phóng ra sóng ăn mòn vô thanh từ lân phiến đen, âm thầm phân hủy linh lực hộ thể của kẻ địch mà không gây ra bất kỳ dao động nào. Điểm mạnh của hắn là tốc độ và khả năng lẩn trốn gần như tuyệt đối trong môi trường biển sâu, nhưng sức tấn công trực diện yếu và nếu bị phát hiện trong không gian hẹp thì rất khó thoát thân.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Linh Huyền Minh** (Cấp dưới): Thuộc hạ đáng tin cậy nhất, giao phó mọi nhiệm vụ trinh sát nguy hiểm
+- **Linh Lân Quang** (Gia tộc): Đồng đội thường xuyên phối hợp, coi như đệ đệ
+- **Linh Thâm Nguyệt** (Sư đồ): Linh Hắc Trào dẫn dắt Linh Thâm Nguyệt trong Thâm Hải Vi Linh
+- **Linh Tiểu Uyên** (Sư đồ): Linh Hắc Trào dẫn dắt Linh Tiểu Uyên trong Thâm Hải Vi Linh
+- **Linh Trầm Uyên** (Sư đồ): Linh Hắc Trào dẫn dắt Linh Trầm Uyên trong Thâm Hải Vi Linh
+- **Linh U Quang** (Sư đồ): Linh Hắc Trào dẫn dắt Linh U Quang trong Thâm Hải Vi Linh
+- **Linh Vạn Trượng** (Đồng minh): Đồng liêu cùng Thâm Hải Vi Linh
+- **Linh Vực Uyên** (Đồng minh): Đồng liêu cùng Thâm Hải Vi Linh
+- **Linh Áp Lực** (Sư đồ): Linh Hắc Trào dẫn dắt Linh Áp Lực trong Thâm Hải Vi Linh
+- **Thủy Cổ Ký Ức** (Sư đồ): Linh Hắc Trào dẫn dắt Thủy Cổ Ký Ức trong Thâm Hải Vi Linh
+- **Thủy Nhiệt Tuyền** (Sư đồ): Linh Hắc Trào dẫn dắt Thủy Nhiệt Tuyền trong Thâm Hải Vi Linh
+- **Thủy Thâm Uyên Mẫu** (Sư đồ): Linh Hắc Trào dẫn dắt Thủy Thâm Uyên Mẫu trong Thâm Hải Vi Linh
+- **Thủy Tịnh Hóa** (Sư đồ): Linh Hắc Trào dẫn dắt Thủy Tịnh Hóa trong Thâm Hải Vi Linh
+- **Thủy Uyên Quang** (Sư đồ): Linh Hắc Trào dẫn dắt Thủy Uyên Quang trong Thâm Hải Vi Linh
 - **Linh Huyền Minh:** Phó Chủ Thâm Uyên — người giao cho hắn mọi nhiệm vụ trinh sát nguy hiểm nhất. Hắc Trào trung thành tuyệt đối nhưng thầm mong một ngày được Huyền Minh công nhận hắn không chỉ là công cụ mà là đồng đẳng.
 - **Linh Lân Quang:** Đồng đội trẻ tuổi thường phối hợp cùng hắn — Hắc Trào dẫn dụ sinh vật vào vùng tối, Lân Quang dùng ánh sáng dụ chúng ra. Hắn coi Lân Quang như đệ đệ, hay la mắng nhưng luôn lặng lẽ bảo vệ.
 - **Thâm Uyên Mẫu Linh:** Nguồn cội thiêng liêng mà hắn tôn kính tuyệt đối. Hắc Trào thuộc thế hệ sinh sau nên hiếm khi được Mẫu Linh trực tiếp truyền ký ức — điều này vừa khiến hắn kính sợ vừa khao khát được gần gũi hơn.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Linh Hắc Trào được sinh ra khoảng ba vạn năm trước tại rìa ngoài vực thẳm — vùng giao nhau giữa bóng tối tuyệt đối và những tia sáng yếu ớt cuối cùng từ phía trên, nơi mà phần lớn Vi Linh không dám đến gần vì dòng hải lưu hỗn loạn. Ngay từ nhỏ, hắn đã thể hiện bản năng thám hiểm khác thường — tự ý rời đàn để lần theo những dòng nước lạ, nhiều lần suýt bị cuốn vào xoáy nước chết người trước khi được cứu về. Linh Huyền Minh nhận ra tài năng trinh sát thiên bẩm của hắn, phong làm Trinh Sát Hải Cấu và giao nhiệm vụ lập bản đồ các rãnh biển chưa được khám phá xung quanh vực thẳm. Trong một lần thám hiểm sâu hơn bình thường, Hắc Trào phát hiện một hệ thống đường hầm cổ đại dưới đáy vực — nơi có dấu vết của trận pháp đã hư hỏng gần hết, và hắn tin rằng đây chính là phần mở rộng của phong ấn mà Huyền Minh đang canh giữ. Mục tiêu hiện tại của hắn là hoàn thành bản đồ toàn bộ hệ thống đường hầm đó, dù Huyền Minh đã nhiều lần cảnh cáo rằng đến quá gần phong ấn là chuốc lấy cái chết.

@@ -32,9 +32,14 @@ Dạy Giao Nhân trẻ chiến đấu tự vệ
 Thành viên của Giao Nhân Tộc Liên Minh, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 鲛寒風月·Bản Mệnh (鲛寒風月·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Giao Bích Hải:** Dệt Sư, đồng liêu quan trọng nhất trong Giao Nhân Tộc Liên Minh.
-- **Giao Băng Ngọc Tâm:** Trưởng Lão, đối tác thường xuyên phối hợp.
-- **Giao Bạch Lệ Hoa:** Mưu Sĩ, mối quan hệ tin cậy lẫn nhau.
-
+- **Giao Thiên Hải** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Tộc Liên Minh
+- **Giao Thiên Hải** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Thiên Hải
+- **Giao Bạch Lệ Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Hàn Ngọc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Huyết Lệ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Phong Vân Hải** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Thanh Ba** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Thiên Lệ Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Tộc Liên Minh
+- **Giao Băng Ngọc Tâm** (Đồng minh): Trưởng Lão và Huấn Luyện Sư, đào tạo thế hệ mới
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Giao Hàn Phong Nguyệt lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Giao Nhân Tộc Liên Minh. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Giao Nhân Tộc Liên Minh và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Viên Mãn, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Huấn Luyện Sư.

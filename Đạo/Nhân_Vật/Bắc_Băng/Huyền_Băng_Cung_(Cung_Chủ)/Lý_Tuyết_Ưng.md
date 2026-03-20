@@ -73,3 +73,5 @@ arcs:
 
 > *"Nếu tâm không tĩnh, kiếm sẽ loạn. Nếu lòng không lạnh, tình sẽ vương."*
 > — Lý Tuyết Ưng
+- **Ưng Bạch Đế** (Kẻ thù): Cung Chủ Huyền Băng Cung, kẻ cai trị Bắc Băng mà Bạch Đế phải thận trọng đề phòng
+- **Đan Dương Tử** (Đồng minh): Bạn bè dù tính cách trái ngược

@@ -32,7 +32,9 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Xích Giác** (Chủ tớ): Thủ hạ trung thành trong Tạp Huyết Long Đàn
+- **Xích Giác** (Cấp dưới): Phục tùng Xích Giác, Đàn Chủ của Tạp Huyết Long Đàn
+- **Long Bạch Lân** (Đồng minh): Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau
+- **Long Hôi Vĩ** (Đồng minh): Đồng liêu cùng Tạp Huyết Long Đàn, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

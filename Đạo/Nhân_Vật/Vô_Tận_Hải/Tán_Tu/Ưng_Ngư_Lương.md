@@ -32,7 +32,9 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Trầm Nham Hải** (Sư đồ): Trầm Nham Hải chỉ dẫn Ưng Ngư Lương trong Tán Tu
+- **Tước Hải** (Sư đồ): Ưng Ngư Lương chỉ dẫn Tước Hải trong Tán Tu
+- **Tước Ngư Nhi** (Sư đồ): Ưng Ngư Lương chỉ dẫn Tước Ngư Nhi trong Tán Tu
+- **Ưng Lãng Khách** (Đồng minh): Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

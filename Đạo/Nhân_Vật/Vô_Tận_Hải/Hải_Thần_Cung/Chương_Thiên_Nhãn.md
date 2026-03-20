@@ -35,9 +35,11 @@ Y không có sức mạnh vật lý nổi trội, nhưng bù lại bằng khả 
 - Điểm yếu: Yếu ớt trong chiến đấu trực diện, dễ bị tổn thương bởi các đòn tấn công sóng âm mạnh.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Lệ Nhược Thủy** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
+- **Hải Ngọc Lan** (Sư đồ): Hải Ngọc Lan dẫn dắt Chương Thiên Nhãn trong Hải Thần Cung
+- **Giao Bạch Ngọc** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
 - **[Hải Đế]:** Lãnh đạo. Chương Thiên Nhãn là "tai mắt" trung thành của Hải Đế, chuyên báo cáo mọi động tĩnh trong Vô Tận Hải.
 - **[Chương Hắc Triều]:** Đồng Liêu. Thiên Nhãn thường xuyên cung cấp tọa độ mục tiêu cho Hắc Triều nhưng cũng âm thầm thu thập điểm yếu của y để đề phòng.
 - **[Hắc Hải Hải Tặc]:** Kẻ thù. Thiên Nhãn thường cài cắm gián điệp vào các băng nhóm hải tặc để phá hoại chúng từ bên trong.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra với dị tật hàng ngàn con mắt, Chương Thiên Nhãn từng bị coi là quái thai và bị ruồng bỏ bởi đồng loại. Y sống sót bằng cách học cách ẩn nấp và quan sát mọi động thái của các sinh vật biển sâu. Khả năng tình báo thiên bẩm của y đã lọt vào mắt xanh của Hải Đế, người đã cất nhắc y lên vị trí Tình Báo Trưởng. Hiện tại, Chương Thiên Nhãn đang chỉ huy mạng lưới điệp viên rải rác khắp Vô Tận Hải và thâm nhập vào các tổ chức trên đất liền, đặc biệt là theo dõi động thái của Huyết Sát Minh.

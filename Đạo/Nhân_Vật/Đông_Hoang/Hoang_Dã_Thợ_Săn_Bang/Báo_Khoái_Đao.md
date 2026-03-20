@@ -32,9 +32,9 @@ Nhan sắc thanh tú với nét mặt dịu dàng, cử chỉ nhẹ nhàng tinh 
 Chiến binh tiền tuyến của Hoang Dã Thợ Săn Bang, sở trường cận chiến và đột kích. Tuyệt chiêu 豹快刀·Chiến Kích (豹快刀·戰擊) tập trung sức mạnh vào một đòn quyết định. Mạnh về tấn công trực diện nhưng phòng thủ còn nhiều sơ hở.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Thiết Trảo:** Phó Bang Chủ, đồng liêu quan trọng nhất trong Hoang Dã Thợ Săn Bang.
-- **Lang Liệp Phong:** Bang Chủ, đối tác thường xuyên phối hợp.
-- **Ưng Lợi Nhãn:** Trinh Sát Trưởng, mối quan hệ tin cậy lẫn nhau.
-
+- **Lang Liệp Phong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Hoang Dã Thợ Săn Bang
+- **Lang Liệp Phong** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lang Liệp Phong
+- **Hổ Thiết Trảo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hoang Dã Thợ Săn Bang
+- **Ưng Lợi Nhãn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hoang Dã Thợ Săn Bang
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Báo Khoái Đao vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Hoang Dã Thợ Săn Bang. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Hoang Dã Thợ Săn Bang và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Sát Thủ.

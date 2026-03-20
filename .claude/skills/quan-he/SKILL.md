@@ -156,6 +156,8 @@ Chia thành các biểu đồ nhỏ, dễ đọc:
 - **Trang HTML:** `relationship.html`
 - **Bộ Nhớ Làm Việc:** Claude Code auto memory (tự động lưu qua các phiên)
 
+**Tham khảo:** `scripts/relationship_data.js` (dữ liệu JSON mẫu), `Đạo/Nhân_Vật/Quan_Hệ/` (biểu đồ Mermaid mẫu)
+
 ## ĐỊNH DẠNG MERMAID
 
 ### Biểu Đồ Tổng Quan (ví dụ)

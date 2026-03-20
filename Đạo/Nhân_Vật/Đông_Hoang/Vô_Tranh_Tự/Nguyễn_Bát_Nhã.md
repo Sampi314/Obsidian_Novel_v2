@@ -32,9 +32,14 @@ Nguyễn Bát Nhã dáng người trung bình, mặt thanh tú, mắt sáng bìn
 Là Hộ Pháp cảnh giới Nguyên Anh Đỉnh Phong, Nguyễn Bát Nhã tu luyện "Bát Nhã Tâm Kinh" (般若心经) — phật pháp tịnh hóa tâm hồn, biến linh lực thành phật lực thuần túy. Tuyệt kỹ "Bát Nhã Phong Ấn" (般若封印) phong ấn tà ma bằng phật lực, trói buộc linh hồn trong kinh văn. Điểm mạnh là phong ấn và tịnh hóa vô song, nhược điểm là sức tấn công vật lý kém.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hoàng Kim Cương:** Đồng liêu Hộ Pháp, hai người phối hợp một công một thủ.
-- **Phạm Vô Niệm:** Sư phụ truyền thụ tâm pháp, hắn kính trọng tuyệt đối.
-- **Đặng Huệ Tâm:** Trưởng Lão, đồng môn thảo luận phật pháp.
-
+- **Phạm Vô Niệm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vô Tranh Tự
+- **Phạm Vô Niệm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Phạm Vô Niệm
+- **Lê Thiền Định** (Thuộc hạ): Cùng Vô Tranh Tự, quan hệ tổ chức
+- **Trần Vô Tướng** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vô Tranh Tự
+- **Lý Ngộ Không** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vô Tranh Tự
+- **Hoàng Kim Cương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vô Tranh Tự
+- **Vũ Giới Luật** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vô Tranh Tự
+- **Đặng Huệ Tâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vô Tranh Tự
+- **Lê Thiền Định** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vô Tranh Tự
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyễn Bát Nhã xuất gia từ nhỏ, được Phạm Vô Niệm đích thân truyền dạy Bát Nhã Tâm Kinh. Hắn đạt cảnh giới Nguyên Anh sớm nhất thế hệ nhờ tâm tĩnh lặng phi thường. Sự kiện nổi tiếng nhất là khi hắn phong ấn một con yêu quái cấp Hóa Thần suốt ba ngày đêm cho đến khi viện binh đến. Hiện tại, hắn là người thay phiên tụng kinh trấn áp Ma Quân trong Đạt Ma Viện.

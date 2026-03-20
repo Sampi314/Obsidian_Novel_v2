@@ -34,9 +34,10 @@ arcs:
 - **Tuyệt kỹ:** **Tiểu Quang Tán Ảnh** (Phân tán ra vô số hạt sáng nhỏ li ti theo mọi hướng, che khuất tầm nhìn của kẻ thù để đánh lạc hướng); **Cực Tốc Phù Ảnh** (Tăng tốc độ di chuyển cực hạn thông qua hấp thu nhiệt năng dưới biển sâu).
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Linh Quang Mẫu** (Chủ tớ): Linh Quang Mẫu dẫn dắt Linh Tiểu Quang.
+- **Linh Bích Hải** (Hợp tác): Thu thập thông tin.
 - **Linh Quang Mẫu:** Linh Tiểu Quang như những xúc tu thăm dò của mẹ, báo cáo và nhận chỉ thị bản năng để dẫn đường.
 - **Linh Bích Hải:** Là những con mắt ghi nhận mọi biến đổi để truyền về cho hạch tâm, cung cấp chất liệu cho dòng ký ức cổ đại.
 - **Hải Thú Săn Mồi:** Cực kỳ e sợ và là con mồi thường xuyên, nhưng chúng dựa vào số lượng để luôn duy trì được sự cân bằng.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Linh Tiểu Quang đại diện cho tầng lớp trẻ nhất, dễ tan biến nhất, nhưng cũng là đông đảo nhất trong Phù Du Linh Đoàn. Vòng đời của một cá thể chỉ vài ngày, nhưng vị trí của chúng thì tồn tại vĩnh cửu. Chúng liên tục bị thủy triều xé toạc, để rồi lại hội tụ quanh ánh sáng của Quang Mẫu. Hiện nay, khi những dấu vết của các tàn tích bắt đầu phát ra từ trường lạ, Linh Tiểu Quang là những cá thể bị ảnh hưởng đầu tiên, nhiều trong số chúng đang biến đổi theo một hướng kỳ quặc, sáng chói bất thường và dần mất đi kết nối với Quần Thể Ý Thức.

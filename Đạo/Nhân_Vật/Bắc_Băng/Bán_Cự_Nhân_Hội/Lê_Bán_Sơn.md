@@ -170,6 +170,7 @@ arcs:
 
 - **Vợ Cũ & Con Trai — Vết Thương Không Bao Giờ Lành:**
     - Bán Sơn không bao giờ nhắc đến vợ con trước mặt ai — nhưng trong Sổ Ký Sự, ở trang cuối cùng, có một dòng viết nhỏ bằng mực khác màu: *"Lê Bán Minh, con trai. Năm sinh: Khởi Nguyên 99.898. Hiện tại: không rõ."* Mỗi năm, vào ngày sinh nhật con trai, ông thêm một nét gạch nhỏ bên cạnh — đếm những năm tháng xa cách. Đến nay đã có 40 nét gạch.
+- **Vương Thiết Nha** (Đồng minh): Đội trưởng Hàn Dân Hộ Vệ Đội, đối tác đàm phán thường xuyên
 
 ## VII. GIAI THOẠI
 > *"Thạch Bán Nhân xây nên Bán Cự Nhân Hội bằng nắm đấm. Nhưng Lê Bán Sơn giữ cho nó không sụp đổ bằng ngòi bút."*

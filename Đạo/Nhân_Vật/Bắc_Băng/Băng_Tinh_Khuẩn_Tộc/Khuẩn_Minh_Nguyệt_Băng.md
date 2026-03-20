@@ -147,6 +147,7 @@ arcs:
     - Thủy Tinh là cá thể khiến Minh Nguyệt Băng bối rối nhất. Lão Tinh luôn hỏi: *"Cụ thể là khi nào? Bao nhiêu mùa đông? Mức độ ra sao?"* — những câu hỏi mà Minh Nguyệt Băng không biết trả lời, vì tinh tượng cho thấy xu hướng, không cho thấy con số chính xác. Mỗi lần bị Thủy Tinh ép, hắn cảm thấy bực bội lẫn xấu hổ — bực vì bị hiểu nhầm là vô dụng, xấu hổ vì biết rằng Thủy Tinh không sai.
 - **Khuẩn Tiểu Tinh — Đệ Tử Tò Mò:**
     - Tiểu Tinh hay leo lên trần hang theo Minh Nguyệt Băng, tò mò về thế giới bên ngoài. Hắn là cá thể trẻ nhất từng thể hiện hứng thú với thiên văn — và Minh Nguyệt Băng vui mừng đến mức phát sóng quang mạnh bất thường khi Tiểu Tinh hỏi câu hỏi đầu tiên: *"Trăng là gì?"* Hắn dạy Tiểu Tinh kiên nhẫn, tỉ mỉ, với hy vọng rằng thế hệ sau sẽ có kẻ thay hắn quan sát bầu trời.
+- **Khuẩn Tuyết Liên** (Đồng minh): Dược sư dùng dự báo thời tiết của hắn để lên lịch thu hoạch dược liệu
 
 ## VII. GIAI THOẠI
 > *"Nguyệt Sư nhìn trời suốt sáu ngàn năm, và đôi khi, trời nhìn lại."*

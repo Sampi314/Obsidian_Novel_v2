@@ -147,6 +147,8 @@ arcs:
     - Tuyết Liên là dược sư của tộc, thường xuyên đến khu tinh luyện để xin Hàn Quang Linh Phấn cho mục đích y dược. Cả hai có mối quan hệ hợp tác chuyên nghiệp — Tuyết Liên cung cấp thông tin về tình trạng sức khỏe quần thể, Thủy Tinh điều chỉnh quy trình tinh luyện cho phù hợp. Tuy tôn trọng nhau, đôi khi mâu thuẫn khi Tuyết Liên muốn Linh Phấn "mềm hơn" cho mục đích y dược trong khi Thủy Tinh khăng khăng giữ tiêu chuẩn cứng.
 - **Khuẩn Băng Nham — Thủ Vệ Khu Tinh Luyện:**
     - Băng Nham canh giữ lối vào khu tinh luyện với sự tận tụy mà Thủy Tinh đánh giá cao. Hắn không cần ra lệnh chi tiết — Băng Nham tự biết việc phải làm, giống một cỗ máy đáng tin cậy. Thủy Tinh coi Băng Nham là mẫu hình lý tưởng: ít nói, làm đúng việc, không hỏi lại.
+- **Khuẩn Hàn Ngưng** (Đồng minh): Trưởng Lão nghiêm khắc, Hàn Ngưng nể phục nhưng khó gần
+- **Khuẩn Minh Nguyệt Băng** (Đồng minh): Trưởng Lão thực dụng, thường xuyên yêu cầu hắn đưa ra dự báo cụ thể thay vì trừu tượng
 
 ## VII. GIAI THOẠI
 > *"Lão Tinh không nói nhiều, nhưng mỗi khi hắn nói, cả tộc lắng nghe — vì hắn chỉ nói khi thực sự cần, và mỗi lời đều sắc như tinh thể."*

@@ -1,15 +1,19 @@
 # Hồ Sơ Thế Giới: Cố Nguyên Giới
 
 ### Tình trạng cập nhật gần nhất
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Tuyết Trung Cô Viện** (Bắc Băng): **Lý Mộ Tuyết**, **Lê Dược Nương**, và **Phạm Thư Sinh**.
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Thâm Hải Vi Linh** (Vô Tận Hải): **Linh Áp Lực**, **Thủy Cổ Ký Ức**, và **Thủy Nhiệt Tuyền**.
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Phong Sát Cốc** (Tây Mạc): **Phong Nha**, **Phong Ảnh**, và **Sa Quỷ**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Hải Thần Cung** (Vô Tận Hải): **Giao Vân Hà**, **Giải Huyền Giáp**, và **Giải Thiết Giáp Vương**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **San Hô Đảo Quốc** (Vô Tận Hải): **Thủy Tinh**, **Triều Bích Hải**, và **Triều Thiên Vệ**.
-- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Sóng Vi Ba Liên Lạc** (Vô Tận Hải): **Ba Cộng Minh**, **Ba Hải Vọng**, và **Ba Linh Thoại**.
+- Đã cập nhật hồ sơ chi tiết cho 6 nhân vật phe **Sóng Vi Ba Liên Lạc** (Vô Tận Hải): **Ba Cộng Minh**, **Ba Hải Vọng**, **Ba Linh Thoại**, **Ba Ngân Hà**, **Ba Tiểu Sóng**, và **Ba Trầm Lặng**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Phiêu Miễu Băng Hải** (Bắc Băng): **Lam Tịnh Thủy**, **Mộng Hàn Yên**, và **Nguyệt Ảnh Hồ**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Linh Sa Khuẩn Đoàn** (Tây Mạc): **Khuẩn Bạch Cốt**, **Khuẩn Dạ Thực**, và **Khuẩn Hắc Nhưỡng**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Thiên Mộc Thành** (Thiên Trụ): **Mộc Thiên Hào**, **Mộc Thiên Quân**, và **Mộc Vân**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Huyết Hổ Hạ Chúng** (Vô Tận Hải): **Hổ Bạch Văn**, **Hổ Hàn Lệ**, và **Hổ Nha Tam**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Băng Ngục Đào Vong Giả** (Bắc Băng): **Cương Thạch Nữ**, **Hắc Diện Nhân**, và **Lãnh Vô Tâm**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Băng Ngục Thành** (Bắc Băng): **Băng Cốt Yêu Nữ**, **Huyết Đồ Tàn Phong**, và **Hắc Giáp Thống Lĩnh**.
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Hàn Phong Truyền Tin Đội** (Bắc Băng): **Vũ Khinh Hồng**, **Vũ Phiêu Linh**, và **Vũ Tật Phong**.
 
 ## I. Tổng Quan
 - **Tên:** Cố Nguyên Giới (固元界).
@@ -666,6 +670,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Phượng Tiêu (Vũ Hoàng - Luyện Hư Sơ Kỳ):** Lãnh đạo cao ngạo, tinh thông âm luật, dùng ngọc tiêu *Cửu Tiêu Phượng Khúc* phát ra sóng ánh sáng cực hàn đủ sức trấn áp vạn vật, kể cả Chân Long, coi chiến trường chỉ là bản giao hưởng riêng.
 - **Phượng Thiên Dực (Đại Trưởng Lão - Hóa Thần Đỉnh Phong):** Con trai Phượng Tiêu, kiêu ngạo và vô cùng hiếu chiến, sở hữu đôi cánh khổng lồ che khuất bầu trời, tung ra *Quang Vũ Tuyệt Sát* gieo rắc kinh hoàng bằng sức nóng ánh sáng tinh luyện.
 - **Phượng Kim Sí (Tả Hộ Pháp - Hóa Thần Hậu Kỳ):** Em trai Phượng Tiêu, sát thủ tàn nhẫn với đôi mắt có khả năng phát ra *Kim Quang Xuyên Đồng* gây mù lòa đối thủ, tự xem mình là "bàn tay nhuốm máu" thanh tẩy kẻ dị giáo cho anh trai.
+- **Yến Phi (Truyền Tin - Kim Đan Sơ Kỳ), Yến Tiểu Tiểu (Truyền Tin Viên - Trúc Cơ Hậu Kỳ), Ưng Liệt Phong (Chiến Tướng - Nguyên Anh Hậu Kỳ):** Đại diện cho hệ thống truyền tin và bảo hộ trên không của thần điện. Yến Phi điềm tĩnh, nguyên tắc, sử dụng *Lưu Tinh Tật Phong Quyết* biến bầu trời thành sân nhà. Yến Tiểu Tiểu lí lắc, nhỏ bé nhưng có khả năng *Ảo Ảnh Phi Yên* và mã hóa sóng âm. Ưng Liệt Phong kiêu ngạo, tàn nhẫn, áp đảo trên không trung bằng *Cuồng Phong Liệt Trảm*, sẵn sàng giải quyết bất đồng bằng bạo lực.
 
 ### San Hô Đảo Quốc (Vô Tận Hải)
 - **Thủy Tinh (Nữ Vương), Triều Thiên Vệ (Thống Lĩnh Hải Vệ Quân), Triều Bích Hải (Đội Trưởng Hải Vệ):** Hải Tộc. Nữ vương Thủy Tinh (Nguyên Anh Đỉnh Phong) hiền từ, tinh thông âm nhạc chữa lành và huyễn thuật, dùng Thủy Tinh Linh Ca bảo vệ quốc gia. Triều Thiên Vệ trầm ổn, kỷ luật thép, dùng Hải Triều Cuồng Nộ nghiền nát địch. Triều Bích Hải nhiệt huyết bộc trực, tiên phong dùng sóng âm và thương san hô xuyên phá phòng tuyến địch.
@@ -684,6 +689,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hỏa Tiểu Viêm (Học Việc)**: Linh hoạt, năng nổ nhưng bộp chộp. Thích thử nghiệm công thức nổ mới, mang trong mình giấc mơ rèn pháp bảo trả thù cho bộ lạc.
 
 ## Cập Nhật Mới
+- **Nhân Vật Mới Điền Chi Tiết:** Phong Nha, Phong Ảnh, Sa Quỷ (Phong Sát Cốc - Tây Mạc).
 - **Nhân Vật Mới Điền Chi Tiết:** Lý Cuồng Phong, Phong Cuồng, Phong Liệt (Phong Sát Cốc - Tây Mạc).
 - **Nhân Vật Mới Điền Chi Tiết:** Trùng Thiên Lý Nhãn, Trùng Thính Phong, Trùng Tiểu Mật (Vi Trùng Trinh Sát Đội - Tây Mạc).
 ### Các Nhân Vật Gần Đây Được Cập Nhật
@@ -730,6 +736,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hắc Thiên:** Đông Hải Long Vương Luyện Hư Sơ Kỳ, tồn tại cổ xưa nhất Vô Tận Hải, sở hữu *Thiên Địa Long Ngâm* và tham vọng khôi phục vinh quang Long Tộc.
   - **Hắc Ngạo Thiên:** Thái Tử Đông Hải Nguyên Anh Trung Kỳ, từ bỏ ngai vàng để lang thang nhân gian, thông thạo *Hắc Long Trấn Hải Quyết*.
   - **Hắc Lạc Nhạn:** Nhạc Sư Cung Đình Kim Đan Hậu Kỳ, dùng tiếng đàn *Hải Ba Cầm Âm* chi phối sóng biển và kết nối những linh hồn cô độc.
+  - **Minh Trầm Mặc:** Mưu Sĩ Tây Hải, Nguyên Anh Trung Kỳ. Chân Long kiệm lời, thao túng dòng chảy ngầm và bóng tối, trung thành tuyệt đối với Minh Uyên. Từng dập tắt một cuộc nổi loạn Giao Long trong im lặng.
+  - **Minh Uyên:** Tây Hải Long Vương, Hóa Thần Đỉnh Phong. Nữ chúa tuyệt sắc nhưng tàn nhẫn, dùng áp lực không gian đại dương để nghiền nát kẻ thù. Dã tâm thâu tóm Kho Báu Vạn Năm.
+  - **Thanh Hàn Nguyệt:** Tuần Sát Sứ Bắc Hải, Nguyên Anh Hậu Kỳ. Chân Long băng giá, là thanh gươm hành quyết tàn nhẫn, sở trường *Băng Hồn Tỏa Hải*, quyết tâm nghiền nát mọi mầm mống nổi loạn.
 
 - **Phiêu Lưu Đảo Liên Minh (Vô Tận Hải):**
   - **Hoàng Hải Triều:** Đội Trưởng Hải Tuần Đội Trúc Cơ Hậu Kỳ, rắn rỏi và trầm ổn. Bảo vệ quần đảo bằng *Nộ Hải Lãng Quyết*.
@@ -749,6 +758,12 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Linh U Quang (Dẫn Đường Sư)**: Ánh sáng xanh lam huyền ảo tạo thành từ tỷ cá thể Vi Tộc, tò mò, soi sáng hải cấu tối tăm và làm hoa tiêu dưới Vực Thẳm Vạn Trượng.
   - **Linh Vạn Trượng (Thủ Vệ Hải Cấu)**: Bức tường sinh vật đỏ sẫm trải dài vạn trượng, lạnh lùng dùng áp suất cực hạn chặn đứng và nghiền nát tà vật muốn thoát khỏi phong ấn.
   - **Linh Vực Uyên (Thâm Hải Chủ)**: Ý thức tập thể khổng lồ bao trùm màu xanh đen, trầm lặng và uy nghiêm thao túng hải lưu, một mình gồng gánh sứ mệnh canh giữ tà vật Thượng Cổ.
+
+### Hàn Phong Truyền Tin Đội (Bắc Băng)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Hàn Phong Truyền Tin Đội** (Bắc Băng):
+  - **Vũ Khinh Hồng (Luyện Khí Đỉnh Phong):** Phó Đội Trưởng. Khí chất lạnh lùng, trân trọng sinh mạng. Dùng Hàn Lưu Xuyên Kích tấn công từ xa nhưng yếu cận chiến.
+  - **Vũ Phiêu Linh (Luyện Khí Hậu Kỳ):** Truyền Tin Viên. Phóng túng, liều lĩnh, thích mượn sức gió cận chiến bằng Cuồng Phong Trảm.
+  - **Vũ Tật Phong (Luyện Khí Trung Kỳ):** Chuyên Viên Khí Tượng. Rụt rè nhưng có thính phong thuật siêu việt, nghe gió đoán bão.
 
 ### Tuyết Cự Nhân Đảo (Bắc Băng)
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Tuyết Cự Nhân Đảo** (Bắc Băng):
@@ -782,6 +797,8 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Phạm Thương Đạo (Tổng Quản Vận Tải - Kim Đan Viên Mãn):** Lão phu khoác cẩm bào thêu vàng, sòng phẳng trọng chữ tín. Tinh thông *Lưu Sa Xa Trận*, chịu trách nhiệm vận chuyển và bảo vệ an toàn cho các đoàn hàng.
   - **Trần Khoáng Sơn (Gia Chủ Khai Khoáng - Nguyên Anh Sơ Kỳ):** Gã khổng lồ thô lỗ, nhiều sẹo, xăm pháp trận rực đỏ. Dùng tuyệt kỹ *Toái Tinh Nham Chùy* độc quyền khai thác sa kim thạch và tìm kiếm khoáng thạch viễn cổ.
   - **Vô Danh (Thủ Lĩnh Sa Ảnh - Nguyên Anh Hậu Kỳ):** Sát thủ vô diện khoác sa y đen, tuyệt tình và vô hồn. Tu luyện *Sa Ảnh Quyết* ám sát kẻ thù ngáng đường và bảo vệ bí mật thương mại.
+  - **Vũ Thương Vân (Thương Nhân - Trúc Cơ Hậu Kỳ):** Nam nhân điềm đạm, toan tính, am hiểu *Kim Sa Khốn Trận*. Y luôn nỗ lực thăng tiến trong nội bộ và là cộng sự đắc lực của Đặng Thiên Hà.
+  - **Đặng Thiên Hà (Đội Trưởng Hộ Thương - Kim Đan Trung Kỳ):** Chiến binh vạm vỡ, trầm ổn, vung *Trọng Sa Cuồng Đao* bảo vệ hàng hóa. Bí mật tìm kiếm nguyên nhân gây ra bão cát thảm khốc trong quá khứ.
 
 ### Hoàng Sa Di Dân (Tây Mạc)
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Hoàng Sa Di Dân** (Tây Mạc):
@@ -806,3 +823,20 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hồ Diệu Ngôn (Ngoại Giao - Trúc Cơ Hậu Kỳ):** Yêu Hồ ngoại giao xảo quyệt ngụy trang thành nữ quản sự duyên dáng, thao túng tâm lý và đọc "Khuy Tâm Thuật".
   - **Hồ Huyễn Dạ Thiên (Ảo Thuật Sư - Trúc Cơ Viên Mãn):** Ảo thuật sư trầm tĩnh trong lốt lão già mù, tinh thông "Sa Ảo Mê Cung" dụ lữ khách bỏ mạng.
   - **Hồ Hỏa Vĩ (Chiến Sĩ - Trúc Cơ Trung Kỳ):** Chiến binh tiên phong hình xăm ngọn lửa, bốc đồng dũng mãnh bảo vệ bằng đuôi lửa.
+  - **Hồ Kim Sa (Thương Nhân Giả - Trúc Cơ Hậu Kỳ):** Gián điệp khôn khéo trong vỏ bọc lão bản thương điếm, chuyên thu thập tình báo và sinh tồn.
+  - **Hồ Minh Nguyệt (Dược Sư - Trúc Cơ Hậu Kỳ):** Dược sư lạnh lùng và tài năng, chuyên điều chế Mê Hồn Hương và độc dược dưới vỏ bọc yểu điệu.
+  - **Hồ Phong Vân (Đệ Tử - Luyện Khí Viên Mãn):** Thiếu niên hồ ly ngây thơ, bốc đồng, luôn gặp rắc rối nhưng có khát khao mãnh liệt trở thành gián điệp giỏi.
+
+### San Hô Thợ Lặn Đội (Tây Mạc)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **San Hô Thợ Lặn Đội** (Tây Mạc):
+  - **Nguyễn Thủy Tiên:** Đội Trưởng Trúc Cơ Viên Mãn, trụ cột kiên nghị, tự luyện Ngưng Tức Thuật, tìm cách thoát khỏi sự ép giá của Thiên Sa Thương Hội.
+  - **Lê Ngọc Trai:** Thợ Lặn Kỳ Cựu Luyện Khí Trung Kỳ, cô nhi hoạt bát, sở hữu thân pháp Ngọc Cốt Lưu Thủy mượt mà dưới nước.
+  - **Trần Hải Sâm:** Thợ Lặn Kỳ Cựu Luyện Khí Trung Kỳ, chiến hữu cũ của cha Thủy Tiên, vạm vỡ, trầm ổn, dùng mạng sống bảo vệ đội.
+
+### Sa Mãng Tộc (Tây Mạc)
+- **Huyền Sa:** Tộc Trưởng Sa Mãng Tộc (Trúc Cơ Hậu Kỳ). Xà yêu khổng lồ, điềm tĩnh và cẩn trọng, sở hữu Hắc Sa Kịch Độc. Đang tìm hiểu bí mật bộ xương Mãng cổ đại để tìm công pháp cho xà tộc.
+- **Xà Ám Lân:** Trưởng Lão (Trúc Cơ Sơ Kỳ). Xà yêu xám tro nóng nảy, hiếu chiến, sức mạnh cận chiến đáng nể nhưng dễ bị kích động. Tuyệt đối trung thành với Huyền Sa và căm thù Thiết Giáp Yêu Thú Đàn.
+- **Xà Linh Vĩ:** Trinh Sát (Luyện Khí Hậu Kỳ). Xà yêu nhỏ màu vàng nhạt, rụt rè và đa nghi. Kỹ năng Ẩn Sa Độn cực tốt, đóng vai trò tai mắt quan trọng cho toàn tộc nhưng luôn muốn tự do.
+
+- **Trần Hải Phong (Phiêu Lưu Đảo Liên Minh):** Tổng Đảo Chủ với tu vi Kim Đan Sơ Kỳ nhưng phong cách chiến đấu thô sơ. Một người cha kiên cường che chở cho liên minh mười bảy đảo, mang trong mình bí mật nhục nhã từ quá khứ và sự thật về Đảo Thứ Mười Ba.
+- **Trần Tiểu Đăng (Phiêu Lưu Đảo Liên Minh):** Một thiếu niên mồ côi lạc quan, tò mò và yêu biển. Cậu là học trò cưng của Trần Hải Phong, có khả năng lặn sâu và đang ấp ủ ý định khám phá Đảo Thứ Mười Ba bị cấm.

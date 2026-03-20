@@ -32,8 +32,9 @@ Lý Hoài Cựu là lão nhân tóc bạc, lưng hơi còng, mặc áo bào cũ 
 Lý Hoài Cựu tinh thông Phế Khí Tái Sinh Thuật (廢氣再生術) — biến phế khí từ các lò đan thất bại thành nguyên liệu luyện đan cấp thấp. Tuyệt kỹ Cựu Đan Tân Dụng (舊丹新用) tái chế đan dược hỏng thành thuốc chữa bệnh hiệu quả bất ngờ. Không giỏi chiến đấu, chuyên môn hoàn toàn ở lĩnh vực đan dược.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Phế Lô:** Đan Sư chủ lực, người mà Hoài Cựu tin tưởng giao phó kỹ thuật luyện đan cốt lõi.
-- **Phạm Tiểu Đan:** Học đồ tài năng, Hoài Cựu coi như cháu ruột và dành nhiều thời gian dạy dỗ.
-
+- **Trần Phế Lô** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Phế Khí Luyện Đan Phường
+- **Phạm Tiểu Đan** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Phế Khí Luyện Đan Phường
+- **Trần Phế Lô** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Hoài Cựu
+- **Phạm Tiểu Đan** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Hoài Cựu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Hoài Cựu từng là đan sư tầm thường trong một tông phái nhỏ, bị đuổi vì thất bại quá nhiều lần. Thay vì bỏ cuộc, y phát hiện rằng phế phẩm luyện đan vẫn chứa giá trị sử dụng, từ đó thành lập Phế Khí Luyện Đan Phường — tái chế phế phẩm từ các lò đan khắp nơi. Triết lý 'không gì là vô dụng' của y thu hút nhiều đan sư thất bại và những người không có tài nguyên luyện đan chính quy.

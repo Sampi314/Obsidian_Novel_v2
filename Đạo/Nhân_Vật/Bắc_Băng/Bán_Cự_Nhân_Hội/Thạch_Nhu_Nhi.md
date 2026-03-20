@@ -172,6 +172,7 @@ arcs:
 
 - **Mẹ — Đàm Nham Nương (Đã Mất):**
     - Y không có ký ức nào về mẹ — chỉ có câu chuyện mà cha và mọi người kể. Y biết mẹ mất vì sinh y — và y đã từng, rất lâu về trước khi còn nhỏ, tự hỏi liệu mình có phải là nguyên nhân. Bán Sơn là người giải tỏa nỗi lo ấy: *"Mẹ con chết vì thiếu y sư, không phải vì con. Nếu con tự trách, con đang phụ lòng mẹ — vì bà đã đánh đổi tất cả để con được sống."* Y ghi nhớ câu ấy suốt đời.
+- **Vương Thiết Nha** (Đồng minh): Đội trưởng Hàn Dân Hộ Vệ Đội, đối tác trao đổi gia súc
 
 ## VII. GIAI THOẠI
 > *"Thạch Điện có Hội Trưởng giữ mái, có Đại Nham giữ tường, có Bán Sơn giữ sách. Nhưng Nhu Nhi giữ lửa — mà lửa tắt thì nhà dù vững cũng lạnh."*

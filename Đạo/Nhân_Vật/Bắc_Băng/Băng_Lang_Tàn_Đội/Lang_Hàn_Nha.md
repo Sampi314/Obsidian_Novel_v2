@@ -164,6 +164,8 @@ arcs:
     - Dù vậy, bà vẫn đối xử công bằng với Nhẫn Hàn — phần thức ăn ngang nhau, quyền phát biểu ngang nhau. Bà biết rằng ép buộc lòng trung thành sẽ chỉ tạo ra phản bội nhanh hơn.
 - **Lang Bạch Thiên — Cựu Bạn Đời (Đã Cắt Đứt):**
     - Hàn Nha không bao giờ nhắc đến Bạch Thiên. Tên hắn là vùng cấm tuyệt đối — bất kỳ ai trong tàn đội hỏi đến đều nhận được ánh mắt lạnh như băng và sự im lặng dài đến nghẹt thở. Bà không hận hắn vì đã chọn bộ lạc thay vì bà — bà hận vì hắn không dám nhìn vào mắt bà khi làm điều đó. *"Nếu hắn nhìn ta rồi vẫn chọn quay lưng, ta sẽ tôn trọng. Nhưng hắn cúi đầu. Sói mà cúi đầu trước kẻ mạnh để phản bội kẻ yếu — không xứng gọi là sói."*
+- **Lang Nguyệt Nha** (Đồng minh): Nữ chiến binh bị trục xuất mà bà không cứu được, nỗi day dứt thầm lặng
+- **Lang Tuyết Vương** (Đồng minh): Cựu chiến binh bị trục xuất theo luật cổ, nỗi áy náy chôn giấu trong lòng lão
 
 ## VII. GIAI THOẠI
 > *"Sói mẹ ba chân dẫn đàn tàn phế sống giữa vùng tử địa mà cả bộ lạc nghìn con không dám ở — nếu đó không phải sói thần, thì sói thần cũng phải gọi bà ấy bằng chị."*

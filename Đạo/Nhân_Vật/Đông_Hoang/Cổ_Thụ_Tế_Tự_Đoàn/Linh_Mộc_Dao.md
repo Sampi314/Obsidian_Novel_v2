@@ -32,9 +32,9 @@ Trẻ nhất, tin rằng Thần Mộc sắp thức tỉnh
 Thành viên của Cổ Thụ Tế Tự Đoàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 靈木瑤·Bản Mệnh (靈木瑤·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Linh Hương:** Tế Tư, đồng liêu quan trọng nhất trong Cổ Thụ Tế Tự Đoàn.
-- **Linh Thanh Vũ:** Tế Tư, đối tác thường xuyên phối hợp.
-- **Linh Thiên Mộc Hoa:** Đại Tế Tư, mối quan hệ tin cậy lẫn nhau.
-
+- **Linh Thiên Mộc Hoa** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Cổ Thụ Tế Tự Đoàn
+- **Linh Thiên Mộc Hoa** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Linh Thiên Mộc Hoa
+- **Linh Hương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Cổ Thụ Tế Tự Đoàn
+- **Linh Thanh Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Cổ Thụ Tế Tự Đoàn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Linh Mộc Dao xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Cổ Thụ Tế Tự Đoàn. Trải qua thử thách sinh tử, nàng gia nhập Cổ Thụ Tế Tự Đoàn và dần khẳng định vị trí của mình. Với tu vi Kim Đan Sơ Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Tế Tư.

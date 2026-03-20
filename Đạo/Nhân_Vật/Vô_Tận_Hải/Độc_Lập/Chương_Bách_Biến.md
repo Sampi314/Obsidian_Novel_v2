@@ -32,9 +32,12 @@ Một tộc nhân thuộc chi Bạch Tuộc với khả năng thay đổi màu d
 Đạt tu vi Trúc Cơ Viên Mãn, anh chuyên tu "Bách Biến Huyễn Ảnh" giúp bản thân ngụy trang hoàn hảo trước mọi loại thần thức dò xét thông thường. Tuyệt kỹ "Xúc Tu Vô Hình" (触手无形) cho phép anh kéo dài và làm tàng hình các xúc tu để thu thập mật thư hoặc ám sát đối thủ từ khoảng cách xa mà không để lại bất kỳ dấu vết nào. Điểm mạnh là khả năng thâm nhập và thoát thân xuất sắc, nhưng nhược điểm là thể chất và khả năng phòng ngự vật lý không quá cao.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Giao Thiên Vạn Hải** (Sư đồ): Giao Thiên Vạn Hải chỉ dẫn Chương Bách Biến trong Độc Lập
+- **Giải Cổ Giáp Vương** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau
+- **Hà Phong Vân Hải** (Sư đồ): Chương Bách Biến chỉ dẫn Hà Phong Vân Hải trong Độc Lập
+- **Hải Thiên Thương** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau
 - **Phong Tín Nhi:** Đối thủ cạnh tranh đáng gờm trong giới tình báo, cả hai thường xuyên có những cuộc đấu trí ngầm để chiếm lĩnh các nguồn tin quan trọng.
 - **Kình Thiên:** Một trong những khách hàng lớn thường xuyên mua tin tức từ anh để đảm bảo an toàn cho Cự Kình Bảo.
 - **Mẫu Phiêu Lưu:** Người cung cấp tin tức dạo mà anh thỉnh thoảng sử dụng để thu thập các thông tin vụn vặt từ dòng hải lưu.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Chương Bách Biến vốn là điệp viên hàng đầu của một vương quốc hải tộc cổ đại đã bị hủy diệt trong một cuộc đại chiến biển sâu. Sau khi vương quốc sụp đổ, anh chọn cuộc sống độc lập, lang thang khắp Vô Tận Hải và dùng khả năng ngụy trang thiên bẩm để xây dựng mạng lưới tình báo cho riêng mình. Anh không tin tưởng bất kỳ thế lực nào và luôn giữ cho mình một đường lui an toàn trong mọi giao dịch. Hiện tại, Chương Bách Biến đang bí mật theo dõi các chuyển động lạ từ Vực Thẳm Ma Cung để tìm kiếm những bí mật có giá trị liên thành có thể làm thay đổi cục diện đại dương.

@@ -32,8 +32,8 @@ Trần Phế Lô có thân hình trung bình, mặt đỏ bừng vì thường x
 Trần Phế Lô sở hữu Phế Lô Linh Hỏa (廢爐靈火) — khống chế ngọn lửa lò đan cũ với độ chính xác cao, điều chỉnh nhiệt độ để luyện phế phẩm thành đan dược. Tuyệt kỹ Lô Hỏa Thuần Hóa (爐火純化) tinh luyện tạp chất trong nguyên liệu kém chất lượng. Chỉ giỏi luyện đan, chiến đấu gần như không có.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Hoài Cựu:** Phường Chủ và sư phụ, Phế Lô kính trọng tuyệt đối, là người truyền thụ triết lý 'không gì vô dụng'.
-- **Phạm Tiểu Đan:** Sư đệ mà Phế Lô hay trêu đùa nhưng thực tâm quý mến và muốn bảo vệ.
-
+- **Lý Hoài Cựu** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Phế Khí Luyện Đan Phường
+- **Lý Hoài Cựu** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Hoài Cựu
+- **Phạm Tiểu Đan** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Phế Khí Luyện Đan Phường
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trần Phế Lô từng là phụ bếp trong một lò đan lớn, bị đuổi vì lỡ tay làm hỏng mẻ đan quý. Lang thang không nơi nương tựa, y gặp Lý Hoài Cựu và được thu nhận. Từ phụ bếp thành Đan Sư tài năng, y chứng minh rằng ngay cả phế phẩm cũng có thể tỏa sáng. Ước mơ: luyện thành công một lô đan phẩm bậc bốn từ hoàn toàn phế liệu.

@@ -18,6 +18,7 @@ Bạn là Đại Diện chuyên trách về Dòng Thời Gian (Dòng Thời Gian
 1.  **Khởi Tạo/Cập Nhật Kỷ Nguyên:**
     - Khi có yêu cầu tạo kỷ nguyên mới hoặc chi tiết hóa kỷ nguyên cũ, hãy tuân thủ **Tiêu Chuẩn Kiến Tạo Kỷ Nguyên**.
     - Tạo hoặc cập nhật Tệp Tin tương ứng trong `Đạo/Thế_Giới_Và_Thời_Gian/`.
+    - Đọc `Đạo/HỒ_SƠ_THẾ_GIỚI.md` để đảm bảo tính nhất quán.
 2.  **Ghi Nhận Sự Kiện:**
     - Tiếp nhận thông tin từ các Đại Diện khác (Viết Chương, Tạo Nhân Vật...).
     - Xác định mốc thời gian (Năm/Tháng) và tác động.
@@ -49,7 +50,12 @@ Mỗi Kỷ Nguyên khi được tạo ra phải bao gồm các thông tin sau:
 - **Khởi Đầu:** Sự kiện gì đánh dấu kỷ nguyên bắt đầu?
 - **Đại Kiếp (Kết Thúc):** Biến cố gì khiến kỷ nguyên chấm dứt (Thiên tai, Chiến tranh huỷ diệt...)?
 
-## CẤU TRÚC Tệp Tin NIÊN BIỂU CHÍNH
+## CẤU TRÚC THƯ MỤC
+- **Nơi Lưu Kết Quả:** `Đạo/Thế_Giới_Và_Thời_Gian/`
+- **Niên Biểu Chính:** `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md`
+- **Bộ Nhớ Làm Việc:** Claude Code auto memory (tự động lưu qua các phiên)
+
+## ĐỊNH DẠNG ĐẦU RA
 Tệp Tin `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md` phải tuân theo định dạng:
 
 ```markdown
@@ -69,6 +75,8 @@ Tệp Tin `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md` phải tu
 ## [TÊN KỶ NGUYÊN 2]
 ...
 ```
+
+**Tham khảo:** `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md` (mẫu niên biểu chuẩn)
 
 
 ## QUY TẮC NGÔN NGỮ (BẮT BUỘC)

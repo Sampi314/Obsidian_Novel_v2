@@ -110,16 +110,10 @@ arcs:
     - Không biết dùng pháp thuật, không có linh căn đáng kể. Toàn bộ sức mạnh dựa vào thể phách và ý chí. Nếu đối đầu tu sĩ biết dùng phi kiếm hay pháp thuật tầm xa, lão gần như không có cách phản kích.
 
 ## VI. QUAN HỆ
-
-- **Sa Trọng (Tổ Trưởng):**
-    - Cánh tay phải của lão, phụ trách trạm khuân phía Bắc. Sa Trọng vui tính, hay kể chuyện tiếu lâm trong bữa cơm tối, là người giữ tinh thần cho cả đội. Sa Lực tin tưởng Sa Trọng tuyệt đối trong việc quản lý hàng ngày.
-- **Sa Kiên (Tổ Trưởng):**
-    - Trụ cột phía Nam, cứng đầu và trung thành. Sa Kiên từng suýt đánh nhau với quản gia thương đoàn vì bị gọi là "con vật khuân hàng." Sa Lực phải can thiệp, nhưng trong lòng lão rất hài lòng về cái tính không chịu nhục đó.
-- **Sa Mặc (Phu Khuân Vác):**
-    - Gã câm bí ẩn gia nhập đội bốn năm trước. Không ai biết gã từ đâu đến. Sa Lực nhận gã vì sức khỏe phi thường — gấp ba phu khuân bình thường. Nhưng lão luôn thắc mắc: đôi mắt Sa Mặc không phải đôi mắt của kẻ chỉ biết khuân hàng. Lão âm thầm bảo vệ Sa Mặc, không hỏi quá khứ, vì quy tắc của đội: "Ai đến đây, quá khứ để lại ngoài cát."
-- **Kim Sa Thợ Mỏ Hội:**
-    - Đang trong giai đoạn thăm dò liên minh. Kim Sa muốn Cự Tộc Phu Khuân Vác vận chuyển quặng độc quyền, Sa Lực chưa đồng ý nhưng cũng không từ chối — lão đang chờ xem Kim Sa có đáng tin không.
-
+- **Sa Kiên** (Chủ tớ): Trụ cột phía Nam, cứng đầu và trung thành. Sa Kiên từng suýt đánh nhau với quản gia thương đoàn vì bị gọi là "con vật khuân hàng." Sa Lực phải can thiệp, nhưng trong lòng lão rất hài lòng về cái tính không chịu nhục đó.
+- **Sa Trọng** (Đồng minh): Cánh tay phải của lão, phụ trách trạm khuân phía Bắc. Sa Trọng vui tính, hay kể chuyện tiếu lâm trong bữa cơm tối, là người giữ tinh thần cho cả đội. Sa Lực tin tưởng Sa Trọng tuyệt đối trong việc quản lý hàng ngày.
+- **Sa Mặc** (Đồng minh): Gã câm bí ẩn gia nhập đội bốn năm trước. Không ai biết gã từ đâu đến. Sa Lực nhận gã vì sức khỏe phi thường — gấp ba phu khuân bình thường. Nhưng lão luôn thắc mắc: đôi mắt Sa Mặc không phải đôi mắt của kẻ chỉ biết khuân hàng. Lão âm thầm bảo vệ Sa Mặc, không hỏi quá khứ, vì quy tắc của đội: "Ai đến đây, quá khứ để lại ngoài cát."
+- **Kim Sa Thợ Mỏ Hội:** Đang trong giai đoạn thăm dò liên minh. Kim Sa muốn Cự Tộc Phu Khuân Vác vận chuyển quặng độc quyền, Sa Lực chưa đồng ý nhưng cũng không từ chối — lão đang chờ xem Kim Sa có đáng tin không.
 ## VII. GIAI THOẠI
 
 > *"Muốn hàng qua sa mạc, phải qua tay Sa Lực. Muốn qua tay Sa Lực, phải thẳng lưng mà nói chuyện."*

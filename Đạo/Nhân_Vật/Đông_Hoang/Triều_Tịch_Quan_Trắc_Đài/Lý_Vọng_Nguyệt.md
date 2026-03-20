@@ -32,8 +32,10 @@ Lý Vọng Nguyệt là trung niên gầy gò, da tái nhợt do ít tiếp xúc
 Lý Vọng Nguyệt sở hữu Thủy Cảm Thuật (水感術) — cảm nhận mọi biến động trong nước ở phạm vi rộng, từ hải lưu đến di chuyển của hải thú lớn. Ngoài ra y vận hành Phong Ba Dự Báo Trận (風波預報陣) — trận pháp dự đoán bão trước ba ngày. Không có kỹ năng chiến đấu đáng kể.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Hải Triều:** Quan trắc viên giỏi nhất, tay phải đáng tin.
-- **Phạm Tiểu Sóng:** Học đồ trẻ mà y đang đào tạo, coi như con nuôi.
-
+- **Trần Hải Triều** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Triều Tịch Quan Trắc Đài
+- **Phạm Tiểu Sóng** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Triều Tịch Quan Trắc Đài
+- **Trần Hải Triều** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Vọng Nguyệt
+- **Phạm Tiểu Sóng** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Vọng Nguyệt
+- **Trần Vạn Lý** (Đồng minh): Đài Trưởng Quan Trắc cung cấp thông tin cho Thuyền Đội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lý Vọng Nguyệt (tên thật Tô Vọng Nguyệt) là cựu đệ tử Thiên Môn Kính Đài, bị cho là lãng phí tài năng vào nghiên cứu vô dụng. Rời tông môn, ông một mình xây tháp quan trắc trên cột đá giữa biển. Bản đồ hải lưu của ông được nhiều thương thuyền mua lại — nguồn thu nhập chính. Bí mật: ông phát hiện chu kỳ di chuyển của Hải Thần Cung trùng khớp với một quy luật cổ đại.

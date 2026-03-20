@@ -32,9 +32,13 @@ Hổ-gấu, sức mạnh khiếp đảm nhưng hiền lành
 Thành viên của Hỗn Huyết Yêu Đoàn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 虎熊巨力·Bản Mệnh (虎熊巨力·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Báo Hồ Nguyệt Ảnh:** Trinh Sát, đồng liêu quan trọng nhất trong Hỗn Huyết Yêu Đoàn.
-- **Hùng Lang Thiết Tâm:** Chiến Sĩ, đối tác thường xuyên phối hợp.
-- **Hồ Lang Tạp Huyết:** Đoàn Trưởng, mối quan hệ tin cậy lẫn nhau.
-
+- **Hồ Lang Tạp Huyết** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Hỗn Huyết Yêu Đoàn
+- **Hồ Lang Tạp Huyết** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hồ Lang Tạp Huyết
+- **Tam Huyết Nhi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Hỗn Huyết Yêu Đoàn
+- **Báo Hồ Nguyệt Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
+- **Hổ Xà Lôi Hỏa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
+- **Hùng Lang Thiết Tâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
+- **Lang Điêu Phong Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
+- **Xà Hồ Thanh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hỗn Huyết Yêu Đoàn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hổ Hùng Cự Lực vốn là dân thường trước khi bước vào con đường tu luyện, sớm thể hiện tư chất phù hợp với Hỗn Huyết Yêu Đoàn. Sau khi chứng kiến sự kiện chấn động, nàng gia nhập Hỗn Huyết Yêu Đoàn và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Vệ Sĩ.

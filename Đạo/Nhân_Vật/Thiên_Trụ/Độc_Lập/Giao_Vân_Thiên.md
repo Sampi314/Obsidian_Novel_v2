@@ -34,8 +34,9 @@ arcs:
 - **Chiến Đấu:** Phong cách chiến đấu mềm mại, lấy nhu thắng cương — dẫn dụ đối phương vào vùng sương mù dày đặc rồi dùng dòng nước ảo siết chặt. Tuy nhiên, do tu luyện trên núi quá lâu, hắn bị thiếu hụt Thủy Linh Khí trầm trọng, chiêu thức chỉ phát huy được sáu bảy phần uy lực so với khi ở biển.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Khuẩn Thiên Cơ** (Sư đồ): Khuẩn Thiên Cơ chỉ dẫn Giao Vân Thiên trong Độc Lập
+- **Loa Thiên Hải Âm** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau
 - **Loa Thiên Hải Âm:** Đồng cảnh ngộ Hải Tộc sống trên Thiên Trụ. Loa Thiên Hải Âm thường mang tin tức từ biển lên cho Giao Vân Thiên, là sợi dây liên kết duy nhất của hắn với đại dương. Hai bên xem nhau như tri kỷ giữa chốn lưu vong.
 - **Giao Nhân Tộc Liên Minh:** Hắn vẫn nhớ về cố hương nhưng không dám quay lại, vì mang trong mình tội trạng bị đày ra khỏi bộ tộc.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Giao Vân Thiên xuất thân từ một gia tộc Giao Nhân thấp kém trong Giao Nhân Tộc Liên Minh tại Vô Tận Hải. Thuở thiếu thời, hắn vì bảo vệ một Nhân Tộc lạc vào lãnh hải mà chống lại lệnh truy sát của Trưởng Lão, vô tình phạm vào đại kỵ "cấu kết với ngoại tộc". Bị tước hết địa vị và trục xuất khỏi biển, Giao Vân Thiên lang thang trên đất liền, cuối cùng tìm đến Thiên Trụ Sơn — nơi có độ cao nhất lục địa, mây mù bao phủ quanh năm, gần nhất với bầu trời mà cũng xa nhất với đại dương. Hắn ẩn cư trong một hang đá gần đỉnh núi phụ, dùng sương mù và mây để duy trì thể chất Giao Nhân, âm thầm tu luyện hàng chục năm. Dù không bao giờ nói ra, trong thâm tâm Giao Vân Thiên vẫn mong một ngày tẩy sạch oan khuất và trở về biển cả.

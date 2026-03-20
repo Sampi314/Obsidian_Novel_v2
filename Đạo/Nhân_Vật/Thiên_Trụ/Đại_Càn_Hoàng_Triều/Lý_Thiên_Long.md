@@ -32,9 +32,15 @@ Thanh niên tuấn tú, dung mạo giống Càn Đế thời trẻ, nhưng ánh 
 Tu luyện Hoàng Đạo Chân Kinh phiên bản Thái Tử, mới nắm được ba tầng, có thể triệu hồi Long Khí nhỏ hộ thể. Kiếm pháp do Mộ Dung Chiến đích thân chỉ dạy, tuy chưa tinh thông nhưng cơ bản vững chắc. Đang tập trung tu luyện, cố gắng đột phá Nguyên Anh Trung Kỳ trước khi kế vị.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Lý Thiên Vũ]] — Phụ hoàng, người mà hắn kính trọng nhưng cũng chịu áp lực nặng nề.
-- [[Lý Thiên Phượng]] — Nhị đệ, mối quan hệ phức tạp, vừa thương vừa cảnh giác.
-- [[Lý Nguyệt Nhi]] — Muội muội yêu quý, người duy nhất hắn có thể thổ lộ tâm sự.
-
+- **Bao Chính** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Hà Thiên Chiêu** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Khổng Minh Đức** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Lý Nguyệt Nhi** (Sư đồ): Lý Thiên Long chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Lý Thiên Phượng** (Sư đồ): Lý Thiên Long chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều
+- **Lý Thiên Vũ** (Sư đồ): Lý Thiên Vũ chỉ dẫn Lý Thiên Long trong Đại Càn Hoàng Triều
+- **Mộ Dung Chiến** (Sư đồ): Mộ Dung Chiến chỉ dẫn Lý Thiên Long trong Đại Càn Hoàng Triều
+- **Triệu Vạn Quân** (Sư đồ): Triệu Vạn Quân chỉ dẫn Lý Thiên Long trong Đại Càn Hoàng Triều
+- **Lưu Phong Thành** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Lỗ Thiên Kiều** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Là trưởng tử của Càn Đế, được lập Thái Tử từ khi còn nhỏ. Lớn lên dưới sự giáo dục nghiêm khắc của Khổng Minh Đức về lễ nghĩa và Mộ Dung Chiến về võ công. Tính cách nhân hậu khiến hắn được lòng dân nhưng bị một số quan thần cho là thiếu quyết đoán. Đang đối mặt với áp lực từ Nhị Hoàng Tử Lý Thiên Phượng, người được cho là tài năng hơn nhưng dã tâm khó lường.

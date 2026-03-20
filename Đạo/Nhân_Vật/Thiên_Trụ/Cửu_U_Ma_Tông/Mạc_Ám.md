@@ -32,9 +32,10 @@ Thiếu niên gầy gò, dung mạo tầm thường dễ bị lãng quên, mắt
 Tu luyện tạp nhạp nhiều ma công cấp thấp, không chuyên tinh nhưng linh hoạt biến hóa. Sở trường ẩn giấu thực lực, khiến đối phương luôn đánh giá thấp. Tuy mới Trúc Cơ Viên Mãn nhưng chiến đấu thực tế ranh mãnh hơn nhiều kẻ cùng cảnh giới.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Nạp Lan Tiểu U]] — Sư muội chân truyền, kẻ mà hắn ngấm ngầm ghen tị vì thiên phú.
-- [[Cừu Huyết Nhi]] — Sư muội nội môn, mối quan hệ bình thường bề ngoài.
-- [[Lý Vô Ảnh]] — Ảnh Ma Viện Chủ, hắn bí mật muốn gia nhập Ảnh Ma Viện để tiến thân.
-
+- **Lý Vô Ảnh** (Sư đồ): Lý Vô Ảnh chỉ dẫn Mạc Ám trong Cửu U Ma Tông
+- **Ma Chủ Vô Tên** (Sư đồ): Ma Chủ Vô Tên chỉ dẫn Mạc Ám trong Cửu U Ma Tông
+- **Ma Chủ Vô Tên** (Cấp dưới): Phục tùng Ma Chủ Vô Tên, Ma Chủ của Cửu U Ma Tông
+- **Mạc U Hồn** (Sư đồ): Mạc U Hồn chỉ dẫn Mạc Ám trong Cửu U Ma Tông
+- **Nạp Lan Tiểu U** (Sư đồ): Nạp Lan Tiểu U chỉ dẫn Mạc Ám trong Cửu U Ma Tông
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân bất minh, được Ma Tông thu nhận từ đám trẻ mồ côi ngoài biên cương. Không có thiên phú nổi bật, nhưng tồn tại trong Ma Tông bằng sự khôn ngoan và nhẫn nại phi thường. Âm thầm quan sát và học hỏi từ mọi người xung quanh, tích lũy kiến thức và kinh nghiệm. Mục tiêu bí mật là leo lên vị trí Ma Vương, chứng minh rằng kẻ không có thiên phú cũng có thể đứng trên đỉnh ma đạo.

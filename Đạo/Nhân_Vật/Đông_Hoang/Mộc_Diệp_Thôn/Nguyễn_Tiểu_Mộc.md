@@ -32,9 +32,8 @@ Thân hình cao ráo mạnh mẽ, ánh mắt sắc bén đầy quyết tâm. Tí
 Thành viên của Mộc Diệp Thôn, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 阮小木·Bản Mệnh (阮小木·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Thanh Phong:** Trưởng Lão, đồng liêu quan trọng nhất trong Mộc Diệp Thôn.
-- **Phạm Lâm Nhi:** Dược Sư, đối tác thường xuyên phối hợp.
-- **Trần Mộc Diệp:** Phó Trưởng Lão, mối quan hệ tin cậy lẫn nhau.
-
+- **Trần Mộc Diệp** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Mộc Diệp Thôn
+- **Trần Mộc Diệp** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Mộc Diệp
+- **Phạm Lâm Nhi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Mộc Diệp Thôn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyễn Tiểu Mộc sinh ra trong một gia đình Nhân Tộc bình thường, sớm thể hiện tư chất phù hợp với Mộc Diệp Thôn. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Mộc Diệp Thôn và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thôn Dân.

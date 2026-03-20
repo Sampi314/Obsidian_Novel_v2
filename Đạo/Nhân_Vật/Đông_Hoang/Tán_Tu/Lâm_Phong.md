@@ -56,3 +56,25 @@ arcs:
 - **Xuất thân:** Cùng lớn lên với Diệp Tĩnh Sương.
 - **Arc 3 (Huyết Độc Rừng Thiêng):** Đóng vai trò then chốt trong việc phá vỡ Vạn Độc Huyết Tế Đại Trận của Lệ Vô Tâm. Hắn là người bắn nát các khối Huyết Tinh thạch tại Mắt Trận phụ (Vùng Đất Chết) và Mắt Trận chính (Đầm Lầy Tử Thần), dập tắt âm mưu của Vạn Độc Môn.
 - **Arc 4 (Huyết Sát Tại Trung Tâm):** Cùng Diệp Tĩnh Sương đến Cửu Hoa Kiếm Tông. Đụng độ Lục Trần và tham gia bảo vệ ngoại môn trước sự tấn công của Huyết Sát Minh và Lệ Vô Tâm. Nhận ra sự nhỏ bé trước cường giả Hóa Thần và cùng Tĩnh Sương bế quan tu luyện.
+
+## IV. CÁC MỐI QUAN HỆ
+- **Cuồng Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
+- **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
+- **Hoang Sơn Ẩn Sĩ** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Hắc Thiết Giáp** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Liệt Quyền** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Quạ Hắc Dạ** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Tàn Dực** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Tước Lâm** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Ưng Dã Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Ưng Nham Trảo** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Liệt Quyền** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Hắc Thiết Giáp** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Tàn Dực** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Ưng Nham Trảo** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tán Tu
+- **Ngô Công Trưởng Lão** (Đồng minh): Enemy — murderous hatred
+- **Phương Vô Kỵ** (Đồng minh): Good friends, genuine camaraderie
+- **Tước Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Ưng Dã Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Nha Huyền Dạ Phong** (Đồng minh): Tán tu và Liên Trưởng Hoang Dã, hỗ trợ lẫn nhau
+- **Hồ Thất Cửu** (Kẻ thù): Tán tu xâm nhập Vạn Yêu Thành, bị Thành Chủ truy lùng

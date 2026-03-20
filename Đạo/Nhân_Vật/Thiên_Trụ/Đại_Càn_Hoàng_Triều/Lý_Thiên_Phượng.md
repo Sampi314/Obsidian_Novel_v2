@@ -32,9 +32,15 @@ Thanh niên dung mạo tuấn mỹ phi phàm, hơn cả Thái Tử về phong th
 Tu luyện Phượng Vũ Quyết — biến thể của Hoàng Đạo Chân Kinh do tự nghiên cứu, thiên về tốc độ và biến hóa. Quạt gấp kim sa là pháp khí ẩn giấu sức mạnh, có thể phóng ra phượng hỏa đốt cháy mọi thứ. Tuy tu vi mới Kết Đan Viên Mãn nhưng chiến lực thực tế vượt xa cảnh giới nhờ trí tuệ và mưu lược.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Lý Thiên Long]] — Thái Tử huynh, đối thủ ngôi vị, ngoài mặt kính trọng nhưng trong lòng không phục.
-- [[Lý Thiên Vũ]] — Phụ hoàng, người mà hắn vừa kính sợ vừa muốn vượt qua.
-- [[Trần Bách Tài]] — Hộ Bộ Thượng Thư, ngấm ngầm kết giao để nắm tài chính.
-
+- **Hà Thiên Chiêu** (Sư đồ): Hà Thiên Chiêu chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều
+- **Khổng Minh Đức** (Sư đồ): Khổng Minh Đức chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều
+- **Lý Nguyệt Nhi** (Sư đồ): Lý Thiên Phượng chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Lý Thiên Long** (Sư đồ): Lý Thiên Long chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều
+- **Lý Thiên Vũ** (Sư đồ): Lý Thiên Vũ chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều
+- **Mộ Dung Chiến** (Sư đồ): Mộ Dung Chiến chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều
+- **Triệu Vạn Quân** (Sư đồ): Triệu Vạn Quân chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều
+- **Trương Văn Hàn** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Lưu Phong Thành** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Lỗ Thiên Kiều** (Sư đồ): Lỗ Thiên Kiều chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Là thứ tử của Càn Đế, từ nhỏ đã thể hiện thiên phú vượt trội hơn Thái Tử. Nhưng vì không phải trưởng tử, bị bỏ qua ngôi vị kế thừa, nuôi mối bất mãn sâu trong lòng. Tự nghiên cứu biến thể Hoàng Đạo Chân Kinh, chứng minh tài năng tu luyện phi phàm. Đang bí mật xây dựng thế lực riêng trong triều đình, chờ thời cơ tranh đoạt ngai vàng.

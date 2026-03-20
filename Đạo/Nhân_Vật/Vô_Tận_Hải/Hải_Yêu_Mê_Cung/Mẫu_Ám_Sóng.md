@@ -32,7 +32,9 @@ Tạo sương mù + sóng ngầm, thuyền không thoát
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Mẫu Nguyệt Huyền Ca** (Chủ tớ): Thủ hạ trung thành trong Hải Yêu Mê Cung
+- **Mẫu Nguyệt Huyền Ca** (Cấp dưới): Phục tùng Mẫu Nguyệt Huyền Ca, Phó Minh Chủ của Hải Yêu Mê Cung
+- **Mẫu Huyền Vũ** (Đồng minh): Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau
+- **Mẫu Hải Thiên Âm** (Đồng minh): Đồng liêu cùng Hải Yêu Mê Cung, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

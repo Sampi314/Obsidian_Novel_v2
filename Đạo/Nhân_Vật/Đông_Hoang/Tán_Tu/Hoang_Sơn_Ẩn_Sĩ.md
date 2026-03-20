@@ -31,9 +31,14 @@ Hoang Sơn Ẩn Sĩ là Cự Tộc già nua, cao chừng tám trượng, thân h
 Hoang Sơn Ẩn Sĩ tinh thông Sơn Nhạc Tĩnh Tâm Thuật (山岳靜心術) — dùng linh lực đại địa để chữa lành vết thương cho bản thân và người khác, đồng thời có thể tạo ra kết giới đá bảo vệ phạm vi rộng. Không chủ động chiến đấu, nhưng khi bị ép vào đường cùng, y có thể khiến cả ngọn núi sụp đổ lên kẻ thù.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Cuồng Nham:** Tán tu trẻ hay đến xin chữa thương, Ẩn Sĩ coi y như đứa con ngang bướng.
-- **Hắc Thiết Giáp:** Đấu sĩ trầm tĩnh đôi khi đến uống trà với Ẩn Sĩ, bàn chuyện thế sự.
-- **Ưng Nham Trảo:** Thợ săn Vũ Tộc đôi khi mang thịt thú rừng đến đổi lấy thuốc chữa thương.
-
+- **Cuồng Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
+- **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
+- **Lâm Phong** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức
+- **Hắc Thiết Giáp** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Tàn Dực** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Ưng Nham Trảo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Quạ Hắc Dạ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Liệt Quyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
+- **Tước Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tán Tu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoang Sơn Ẩn Sĩ từng là chiến binh lừng danh của một bộ lạc Cự Tộc lớn, nhưng sau khi chứng kiến bộ lạc bị diệt trong chiến tranh tông môn, y mất đi ý chí chiến đấu. Lui về vùng núi hoang ẩn tu suốt ba trăm năm, y tìm được sự bình an trong sự tĩnh lặng. Dù sống ẩn dật, y vẫn âm thầm giúp đỡ tán tu gặp nạn, trở thành chỗ dựa tinh thần không chính thức cho những kẻ lang bạt.

@@ -32,9 +32,11 @@ Nữ giáo sư trung niên, dung mạo thanh nhã tĩnh lặng, như hồ nướ
 Tu luyện Tĩnh Tâm Minh Giác Thuật — công pháp chuyên về tâm pháp, thiền định và kiểm soát tinh thần. Có thể dùng thần thức trấn áp tâm ma, chữa trị tổn thương tinh thần cho tu sĩ bị tẩu hỏa nhập ma. Sở trường dạy sinh viên ổn định tâm tính, vượt qua tâm chướng — nền tảng quan trọng nhất của tu luyện.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Hạo Nhiên]] — Viện Trưởng, ân sư truyền dạy Tĩnh Tâm Thuật.
-- [[Hoàng Phủ Lạc Thiên]] — Giáo sư đan dược, đồng nghiệp, tâm pháp của cô hỗ trợ luyện đan.
-- [[Tiêu Mộng Dao]] — Nữ sinh viên xuất sắc, có thiên phú tâm pháp, đệ tử mà cô đặc biệt chú ý.
-
+- **Hoàng Phủ Lạc Thiên** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
+- **Hạo Nhiên** (Sư đồ): Hạo Nhiên chỉ dẫn Lâm Tĩnh trong Thiên Kiêu Học Viện
+- **Khổng Thư** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
+- **Hạo Nhiên** (Cấp dưới): Phục tùng Hạo Nhiên, Viện Trưởng của Thiên Kiêu Học Viện
+- **Lý Học Hải** (Sư đồ): Lý Học Hải chỉ dẫn Lâm Tĩnh trong Thiên Kiêu Học Viện
+- **Lỗ Bách Nghệ** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ một ngôi chùa nhỏ ở vùng núi hẻo lánh, từ nhỏ tu thiền cùng sư phụ. Sau khi sư phụ viên tịch, cô rời núi gia nhập Thiên Kiêu theo di nguyện. Thiên phú tâm pháp khiến cô nhanh chóng được chú ý, trở thành giáo sư chuyên trách thiền định và tâm tính tu luyện. Nhiều tu sĩ bị tẩu hỏa nhập ma trên khắp Thiên Trụ đều tìm đến cô chữa trị, danh tiếng "Tĩnh Tâm Tiên Cô" vang xa.

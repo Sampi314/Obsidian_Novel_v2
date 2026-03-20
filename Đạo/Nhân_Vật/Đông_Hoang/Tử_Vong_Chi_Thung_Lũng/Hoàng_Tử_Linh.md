@@ -32,9 +32,13 @@ Hoàng Tử Linh là một Thi Tộc cấp cao, thân hình hoàn hảo không k
 Là Hộ Pháp cảnh giới Nguyên Anh Hậu Kỳ, Hoàng Tử Linh tu luyện "Tử Linh Hiến Thân Pháp" (死灵献身法) — hấp thu linh hồn kẻ chết để tăng cường sức mạnh và trí tuệ. Tuyệt kỹ "Vạn Linh Ai Minh" (万灵哀鸣) triệu hồi hàng vạn linh hồn than khóc, tấn công thần thức đối phương gây điên loạn. Điểm mạnh là tấn công tinh thần và hấp thu linh hồn, nhược điểm là Phật pháp và chính khí khắc chế trực tiếp.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Thi Ma:** Cốc Chủ, quan hệ phức tạp — Tử Linh cần hắn nhưng không tin hắn.
-- **Trần Thi Vương:** Thái Thượng Trưởng Lão, hắn coi là tiền bối Thi Tộc duy nhất đáng kính trọng.
-- **Đặng Huyết Nhục:** Trưởng Lão, kẻ hắn khinh thường vì phương pháp thô kệch.
-
+- **Lý Thi Ma** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tử Vong Chi Thung Lũng
+- **Lý Thi Ma** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Thi Ma
+- **Vũ Thi Khôi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tử Vong Chi Thung Lũng
+- **Lê Tiểu Thi** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Tử Vong Chi Thung Lũng
+- **Trần Thi Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tử Vong Chi Thung Lũng
+- **Phạm Hắc Cốt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tử Vong Chi Thung Lũng
+- **Nguyễn Vạn Thi** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tử Vong Chi Thung Lũng
+- **Đặng Huyết Nhục** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tử Vong Chi Thung Lũng
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoàng Tử Linh là xác sống tự nhiên — hắn chết vì bệnh khi còn là hoàng tử một tiểu quốc, nhưng huyết mạch quý tộc và ý chí mãnh liệt khiến hắn tự hồi sinh mà không cần ai can thiệp. Khác với xác sống thông thường, hắn giữ được trí tuệ và ký ức hoàn chỉnh, tự coi mình là Thi Tộc thượng đẳng. Hắn gia nhập Tử Vong Chi Thung Lũng để nghiên cứu cách tiến hóa Thi Tộc thành chủng tộc mới, không còn phụ thuộc vào tử khí. Bí mật là hắn đang lên kế hoạch lật đổ Cốc Chủ và đưa Thi Tộc đi theo hướng "cao quý" hơn.

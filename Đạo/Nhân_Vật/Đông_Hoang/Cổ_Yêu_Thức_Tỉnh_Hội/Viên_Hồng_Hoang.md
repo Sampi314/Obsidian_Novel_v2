@@ -32,9 +32,10 @@ Vượn thượng cổ, khóc vì rừng xưa không còn
 Thành viên của Cổ Yêu Thức Tỉnh Hội, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 猿洪荒·Bản Mệnh (猿洪荒·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Viêm Cốt:** Thành Viên, đồng liêu quan trọng nhất trong Cổ Yêu Thức Tỉnh Hội.
-- **Mãng Thái Cổ Huyền:** Thành Viên, đối tác thường xuyên phối hợp.
-- **Quy Vạn Niên:** Phó Hội Trưởng, mối quan hệ tin cậy lẫn nhau.
-
+- **Sa Cổ Giác** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Cổ Yêu Thức Tỉnh Hội
+- **Sa Cổ Giác** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Sa Cổ Giác
+- **Quy Vạn Niên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Cổ Yêu Thức Tỉnh Hội
+- **Hổ Viêm Cốt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Cổ Yêu Thức Tỉnh Hội
+- **Mãng Thái Cổ Huyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Cổ Yêu Thức Tỉnh Hội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Viên Hồng Hoang xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Cổ Yêu Thức Tỉnh Hội. Trải qua thử thách sinh tử, nàng gia nhập Cổ Yêu Thức Tỉnh Hội và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thành Viên.

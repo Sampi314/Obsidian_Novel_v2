@@ -34,9 +34,10 @@ arcs:
 - **Chiến Đấu:** Dù không phải chiến binh, Loa Thiên Hải Âm có thể sử dụng *Chấn Hải Hống* (震海吼) — tập trung toàn bộ linh lực vào một tiếng gầm sóng âm gây chấn động nội tạng và mê man thần trí đối phương trong phạm vi hẹp. Đòn này đặc biệt hiệu quả trong không gian kín nhưng gần như vô dụng ngoài trời thoáng, và sử dụng quá nhiều sẽ làm nứt vỏ ốc bảo hộ của nàng.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Giao Vân Thiên** (Đồng minh): Đồng liêu cùng Độc Lập, hỗ trợ lẫn nhau
+- **Khuẩn Thiên Cơ** (Sư đồ): Khuẩn Thiên Cơ chỉ dẫn Loa Thiên Hải Âm trong Độc Lập
 - **Giao Vân Thiên:** Tri kỷ và đồng cảnh ngộ — cả hai đều là Hải Tộc sống lưu vong trên Thiên Trụ. Loa Thiên Hải Âm thường mang tin tức từ biển cả lên núi cho hắn, vì hiểu nỗi nhớ biển day dứt trong lòng Giao Nhân cô độc ấy.
 - **Khuẩn Thiên Cơ:** Thỉnh thoảng đến gần lão tiên tri Vi Tộc để kể chuyện biển, dù lão hiếm khi đáp lời. Nàng vừa kính sợ vừa tò mò về khả năng nhìn thấu vận mệnh của lão.
 - **Giao Nhân Tộc Liên Minh / Hải Tộc nói chung:** Nàng duy trì liên lạc với một số Hải Tộc ven bờ, đóng vai trò như cầu nối tin tức giữa biển và đất liền, nhờ đó được cả hai phía tôn trọng.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Loa Thiên Hải Âm sinh ra tại một rạn san hô ven bờ phía Đông Vô Tận Hải, nơi giáp ranh với chân Thiên Trụ Sơn. Từ nhỏ, nàng đã bộc lộ khả năng sóng âm vượt trội, có thể nói chuyện với Hải Tộc ở cách xa hàng trăm dặm. Khi trưởng thành, nàng tự nguyện rời biển lên núi để thiết lập tuyến liên lạc giữa Hải Tộc và các thế lực trên đất liền — một sứ mệnh mà không ai khác dám nhận vì phải sống xa nước. Nhờ vỏ ốc đặc biệt có thể hấp thụ và giữ ẩm, Loa Thiên Hải Âm chịu đựng được môi trường khô trên núi tốt hơn hầu hết Hải Tộc, dù vẫn cần định kỳ xuống suối ngâm mình để hồi phục. Nàng đã sống trên Thiên Trụ hơn năm mươi năm, trở thành mắt xích truyền tin không thể thiếu giữa núi và biển. Gần đây, những tin tức về Huyết Độc lan truyền qua đại dương khiến nàng vô cùng lo lắng — nàng đang cân nhắc quay về biển để xác minh tình hình thực tế.

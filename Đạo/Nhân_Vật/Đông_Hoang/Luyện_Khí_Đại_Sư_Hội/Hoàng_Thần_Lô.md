@@ -32,9 +32,13 @@ Dáng người cân đối với phong thái điềm tĩnh, gương mặt toát 
 Tu luyện công pháp cốt lõi của Thần Khí Phường đạt trình độ cao thâm. Chiêu thức 黃神爐·Hộ Pháp Ấn (黃神爐·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lê Luyện Kim:** Nội Môn Đệ Tử, đồng liêu quan trọng nhất trong Thần Khí Phường.
-- **Lý Cơ Giới:** Phường Chủ, đối tác thường xuyên phối hợp.
-- **Nguyễn Đúc Kim:** Trưởng Lão, mối quan hệ tin cậy lẫn nhau.
-
+- **Lý Cơ Giới** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Luyện Khí Đại Sư Hội
+- **Lý Cơ Giới** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Cơ Giới
+- **Vũ Tiểu Đúc** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Luyện Khí Đại Sư Hội
+- **Lê Luyện Kim** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Luyện Khí Đại Sư Hội
+- **Trần Thiên Cơ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Luyện Khí Đại Sư Hội
+- **Phạm Thiết Đúc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Luyện Khí Đại Sư Hội
+- **Nguyễn Đúc Kim** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Luyện Khí Đại Sư Hội
+- **Đặng Linh Cơ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Luyện Khí Đại Sư Hội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hoàng Thần Lô sinh ra trong một gia đình Nhân Tộc bình thường, sớm thể hiện tư chất phù hợp với Thần Khí Phường. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Thần Khí Phường và dần khẳng định vị trí của mình. Với tu vi Nguyên Anh Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trưởng Lão.

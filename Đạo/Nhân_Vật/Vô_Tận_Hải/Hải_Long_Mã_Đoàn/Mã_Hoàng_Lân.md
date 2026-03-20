@@ -32,9 +32,11 @@ Một ông lão Hải Mã với vóc dáng gầy gò, lưng hơi còng do hàng 
 Chuyên tu về các thuật pháp thuần thú và khả năng giao tiếp tâm linh với linh thú thủy hệ. Tuyệt kỹ "Lân Quang Trấn Mã" (鳞光镇马) cho phép ông phát ra một luồng linh lực êm dịu làm dịu đi sự hung hăng của bất kỳ con Hải Long Mã nào, đồng thời giúp ông kiểm soát cả một đàn ngựa lớn cùng lúc. Điểm mạnh là kinh nghiệm thuần dưỡng vô song và kỹ năng chăm sóc linh thú, nhưng điểm yếu là thực lực chiến đấu trực diện rất thấp, hầu như không có khả năng tự vệ trước các tu sĩ mạnh.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Tốc Vũ** (Đồng minh): Đồng liêu cùng Hải Long Mã Đoàn, hỗ trợ lẫn nhau
+- **Mã Thanh Phong** (Đồng minh): Đồng liêu cùng Hải Long Mã Đoàn, hỗ trợ lẫn nhau
+- **Mã Thiên Lý Hành** (Đồng minh): Đồng liêu cùng Hải Long Mã Đoàn, hỗ trợ lẫn nhau
 - **Tốc Vũ:** Đội trưởng trẻ tuổi mà ông thường xuyên phải nhắc nhở về tính kỷ luật và lòng dũng cảm.
 - **Mã Thanh Phong:** Người đệ tử tâm đắc nhất, người mà ông đang truyền dạy những bí thuật cuối cùng của nghề mã phu.
 - **Mã Tiểu Ngân:** Đứa cháu nhỏ thường xuyên mang linh tảo đến phụ giúp ông, người ông yêu quý nhất trong đoàn.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mã Hoàng Lân đã phục vụ tại Chuồng Ngựa Biển của Long Cung hơn ba trăm năm, trải qua nhiều đời Long Vương mà vẫn giữ vững vị trí của mình. Ông đã chứng kiến biết bao sự kiện thăng trầm và những âm mưu tranh đoạt quyền lực bên trong cung điện, nhưng luôn chọn cách im lặng để bảo toàn mạng sống cho bản thân và tộc nhân. Với ông, đàn Hải Long Mã không chỉ là gia súc kéo xe mà là những người bạn tri kỷ duy nhất trong cuộc đời lưu lạc. Hiện tại, ông đang âm thầm ghi chép lại những gì mình chứng kiến vào một cuốn nhật ký bí mật, coi đó là di sản quý giá nhất để lại cho thế hệ sau.

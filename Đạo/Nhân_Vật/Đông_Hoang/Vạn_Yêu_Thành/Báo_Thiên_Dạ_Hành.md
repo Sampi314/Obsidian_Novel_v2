@@ -32,9 +32,15 @@ Báo Thiên Dạ Hành mang nhân hình một thanh niên mảnh khảnh thanh t
 Đạt cảnh giới Kim Đan Trung Kỳ, Báo Thiên Dạ Hành tu luyện "Dạ Hành Bách Bộ Sát" (夜行百步杀) — tăng tốc độ trong bóng tối lên gấp mười lần, kết hợp vuốt báo đen phủ ám khí xuyên thấu hộ thể. Tuyệt kỹ "Nhất Tức Thiên Ảnh" (一息千影) di chuyển nhanh đến mức tạo ra hàng ngàn tàn ảnh, đối thủ không phân biệt được thật giả trước khi bị giết. Điểm mạnh là tốc độ và ám sát nhất kích trong đêm, nhược điểm là ban ngày sức chiến đấu giảm sút rõ rệt và yếu trước tấn công diện rộng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hồ Thất Cửu:** Thành Chủ, người duy nhất có quyền ra lệnh trực tiếp cho hắn, hắn trung thành vì Thất Cửu tôn trọng nguyên tắc của hắn.
-- **Mãng Huyền Thiên:** Đối thủ cạnh tranh trong lĩnh vực ám sát, hắn coi Huyền Thiên là kẻ thô lỗ thiếu nghệ thuật.
-- **Hồ Tiểu Vũ Nguyệt:** Vũ nương mà hắn bí mật bảo vệ trong nhiều năm, không ai biết lý do.
-
+- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Xà Hồng Tín Tử** (Thuộc hạ): Sát Thủ Đoàn Trưởng chỉ huy Gián Điệp
+- **Hồ Thất Cửu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hổ Phá Quân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Mãng Huyền Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hồ Diễm Nương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Lang Cô Nha Hàn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hùng Cự Lực** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Phạm Kim Đao** (Đối thủ): Kim Đao Đội Trưởng và Sát Thủ Đoàn, cạnh tranh hợp đồng
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Báo Thiên Dạ Hành sinh ra trong bộ lạc báo đen chuyên đi săn đêm, từ nhỏ đã có thị lực trong bóng tối vượt xa đồng tộc. Khi bộ lạc bị một thế lực lớn tàn sát để lấy bộ lông quý, hắn là người sống sót duy nhất và thề sẽ dùng bóng đêm trả thù. Hắn trở thành sát thủ lưu lạc, hoàn thành hàng trăm hợp đồng không sai sót, được Hồ Thất Cửu mời về thành lập đoàn sát thủ chính thức. Hiện tại, hắn đã trả thù xong kẻ diệt tộc nhưng phát hiện mình không biết sống vì điều gì khác ngoài giết chóc, đang trải qua khủng hoảng nội tâm mà không ai hay biết.

@@ -33,6 +33,13 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Hắc Sương Quỷ** (Thuộc hạ): Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển
+- **Lãnh Vô Hồn** (Thuộc hạ): Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển
+- **Sương Nô Vương** (Thuộc hạ): Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển
+- **Bạch Thi Nương** (Đồng minh): Đồng liêu cùng Sương Ma Uyển
+- **Tuyệt Tình Hàn** (Sư phụ): Sương Vô Tình chỉ dẫn Tuyệt Tình Hàn trong Sương Ma Uyển
+- **Ám Băng Nhi** (Thuộc hạ): Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển
+- **Ám Sương Ảnh** (Thuộc hạ): Phục tùng Sương Vô Tình, Cốc Chủ của Sương Ma Uyển
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

@@ -32,7 +32,9 @@ Rèn vũ khí bằng lông vũ nung chảy, kỹ thuật thất truyền
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Công Kim Lông** (Sư đồ): Công Kim Lông chỉ dẫn Tước Thanh trong Lông Vũ Phường
+- **Công Thái Vũ** (Sư đồ): Công Thái Vũ chỉ dẫn Tước Thanh trong Lông Vũ Phường
+- **Hạc Tuyết Lông** (Đồng minh): Đồng liêu cùng Lông Vũ Phường, hỗ trợ lẫn nhau
+- **Công Kim Lông** (Cấp dưới): Phục tùng Công Kim Lông, Phường Chủ của Lông Vũ Phường
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

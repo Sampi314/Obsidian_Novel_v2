@@ -32,8 +32,8 @@ Phạm Tiểu Vệ là thanh niên trẻ, da rám nắng, thân hình săn chắ
 Phạm Tiểu Vệ đang luyện Sa Mạc Phong Thương Pháp (沙漠風槍法) — sử dụng giáo kết hợp gió sa mạc tạo ra lốc xoáy nhỏ. Dù tu vi thấp, tốc độ đâm thương của y nhanh đến mức bất ngờ. Điểm mạnh là sự dũng cảm và phản xạ tốt; điểm yếu là thiếu kinh nghiệm thực chiến và hay đánh giá thấp kẻ địch.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Trần Sa Nghĩa:** Tổng Đội Trưởng mà Tiểu Vệ ngưỡng mộ như thần tượng, mơ ước một ngày trở thành người bảo vệ ốc đảo vĩ đại như ông.
-- **Lý Hoang Lực:** Phó Đội Trưởng nghiêm khắc, hay giao nhiệm vụ khó nhưng Tiểu Vệ biết là để rèn luyện mình.
-
+- **Trần Sa Nghĩa** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Ốc Đảo Hộ Vệ Đội
+- **Trần Sa Nghĩa** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Sa Nghĩa
+- **Lý Hoang Lực** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Ốc Đảo Hộ Vệ Đội
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Tiểu Vệ sinh ra và lớn lên tại ốc đảo, là con trai của một dân quân đã hy sinh trong trận chiến với sa tặc. Gia nhập Hộ Vệ Đội khi mười sáu tuổi, nhanh chóng thể hiện tài năng chiến đấu bẩm sinh. Được Trần Sa Nghĩa đích thân rèn luyện kỹ thuật thủy hệ cơ bản, phát hiện y có linh căn thủy tương đối tốt. Mơ ước lớn nhất là đủ mạnh để không ai dám nhòm ngó nguồn nước ốc đảo nữa.

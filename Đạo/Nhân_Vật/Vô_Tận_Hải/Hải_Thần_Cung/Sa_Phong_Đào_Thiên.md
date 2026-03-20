@@ -32,7 +32,10 @@ Cá mập bão, tạo xoáy nước hút mọi thứ
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Sa Huyết Nha** (Sư đồ): Sa Huyết Nha chỉ dẫn Sa Phong Đào Thiên trong Hải Thần Cung
+- **Lệ Nhược Thủy** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Lệ Nhược Thủy** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Hải Ngọc Lan** (Đồng minh): Đồng liêu cùng Hải Thần Cung
+- **Sa Thiết Nha** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

@@ -120,19 +120,22 @@ Nàng lên Đệ Thập Hỏa Sư nhờ đóng góp thực tế — không phả
 - **Thiên Hỏa Luyện Kim (天火煉金):** Mức trung bình — nàng hiểu lý thuyết lửa hơn hầu hết mọi người, nhưng kiểm soát thực tế kém Thạch Tộc vì hạn chế thể chất.
 
 ## VI. QUAN HỆ
-
+- **Thạch Thiên** (Sư đồ): Đệ Tam Hỏa Sư, sư phụ nghiên cứu, người trân trọng tư duy sáng tạo của nàng
+- **Lý Ngọc Nham** (Đồng minh): Đệ Cửu Hỏa Sư, bạn đồng hương Nhân Tộc, chị em thân thiết
+- **Trần Phong** (Gia tộc): Đệ Thập Nhất Hỏa Sư, đồng môn Nhân Tộc, em trai tinh thần
+- **Sơn Tiểu Thạch** (Gia tộc): Đệ Thập Nhị Hỏa Sư, hậu bối mà nàng ngầm dẫn dắt
+- **Thạch Bàn** (Đồng minh): Đồng liêu cùng Thạch Linh Cung, hỗ trợ lẫn nhau
+- **Thạch Hùng** (Đồng minh): Đồng liêu cùng Thạch Linh Cung, hỗ trợ lẫn nhau
+- **Thạch Linh Quang** (Đồng minh): Đồng liêu cùng Thạch Linh Cung, hỗ trợ lẫn nhau
+- **Thạch Vạn Niên** (Chủ tớ): Thạch Vạn Niên quản lý Hồ Vân trong Thạch Linh Cung
 - **Thạch Thiên (Sư Phụ):**
     - Thiên là người cho nàng cơ hội. Gã trân trọng tư duy sáng tạo của nàng — những câu hỏi mà Thạch Tộc không bao giờ nghĩ ra. "Nhân Tộc sống ngắn nên phải nghĩ nhanh," Thiên nhận xét, "và đôi khi nghĩ nhanh lại tốt hơn nghĩ lâu."
-
 - **Lý Ngọc Nham (Bạn Thân):**
     - Chị em đồng hương. Nham nhẹ nhàng, Vân cứng cỏi — bổ sung nhau. Bữa cơm nhân tộc hàng tháng là truyền thống của hai nàng, nơi họ nhớ nhà, cười, và nhắc nhau: "Mình ở đây vì mình xứng đáng."
-
 - **Trần Phong (Đồng Môn):**
     - Em trai tinh thần. Vân bảo vệ Phong khi gã bị coi thường, dạy gã tự tin, khuyến khích gã: "Không cần bằng Thạch Tộc. Chỉ cần bằng phiên bản tốt nhất của chính mình."
-
 - **Sơn Tiểu Thạch (Hậu Bối):**
     - Nàng nhìn Tiểu Thạch và thấy cô gái trẻ chịu áp lực quá lớn — giống nàng ngày xưa. Nàng lặng lẽ quan tâm: để quà, hỏi thăm, mời ăn cơm nhân tộc. Tiểu Thạch không nói, nhưng biết.
-
 ## VII. GIAI THOẠI
 
 > *"Ngươi hỏi tại sao nhân tộc yếu ớt dám vào Thạch Linh Cung? Vì ta không đến đây để mạnh hơn các ngươi. Ta đến đây để làm các ngươi mạnh hơn."*

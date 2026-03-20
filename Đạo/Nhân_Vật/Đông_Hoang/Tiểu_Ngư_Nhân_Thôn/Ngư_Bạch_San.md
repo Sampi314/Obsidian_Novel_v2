@@ -32,8 +32,8 @@ Ngư Bạch San mang hình dáng Ngư Nhân nhỏ, da phủ vảy trắng bạc,
 Ngư Bạch San sở hữu Bạch San Tốc Bơi (白珊速游) — kỹ năng bơi cực nhanh xuyên qua rạn san hô mà không bị cản trở. Có thể phát ra sóng âm mạnh hơn bình thường để xua đuổi cá ăn thịt cỡ trung. Không phải tu sĩ nhưng phản xạ dưới nước rất tốt.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Ngư Lão Vĩ:** Thôn Trưởng mà y vâng lời, dù đôi khi muốn bơi ra xa hơn.
-- **Ngư Tiểu Lân:** Ngư Nhân trẻ mà y bảo vệ, thấy y đặc biệt.
-
+- **Ngư Lão Vĩ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tiểu Ngư Nhân Thôn
+- **Ngư Lão Vĩ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Ngư Lão Vĩ
+- **Ngư Tiểu Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tiểu Ngư Nhân Thôn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ngư Bạch San sinh ra với vảy trắng bạc — hiếm gặp trong thôn. Nhanh nhẹn và dũng cảm nhất đội thợ săn, y đã mở rộng vùng bắt cá cho thôn. Từng cứu ba Ngư Nhân bị sứa linh kéo đi, bị thương nhưng cứu được đồng đội. Y ngưỡng mộ vẻ đẹp của biển sâu, mơ ước một ngày bơi đến Hải Thần Cung.

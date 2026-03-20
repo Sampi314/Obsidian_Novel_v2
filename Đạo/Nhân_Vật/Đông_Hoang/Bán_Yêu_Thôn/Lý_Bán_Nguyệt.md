@@ -121,6 +121,21 @@ Bước ngoặt đến khi nàng gặp một nhóm Bán Yêu khác — những k
 
 Gần hai trăm năm qua, nàng vừa tu luyện vừa xây dựng thôn trang từ con số không. Đột phá Kim Đan ở tuổi 280, trở thành Bán Yêu duy nhất đạt cảnh giới này mà nàng từng biết — một kỳ tích gần như bất khả, bởi huyết mạch hỗn hợp luôn tạo ra xung đột trong cơ thể. Bí quyết của nàng chính là đạo tâm "Bán Nguyệt Vô Khuyết" — thay vì ép hai luồng huyết mạch hòa làm một, nàng để chúng tồn tại song song, bổ sung cho nhau như hai nửa mặt trăng.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Hoàng Điểu Vũ Thiên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bán Yêu Thôn
+- **Lê Hồ Nguyệt Hoa** (Thủ lĩnh): Thôn trưởng, đồng tộc Hồ huyết, coi như chị cả, tôn kính yêu thương
+- **Vương Xà Nhi** (Thủ lĩnh): Y sư của thôn, kính trọng y thuật, lo lắng vì tính tình cô độc
+- **Phạm Hùng Sơn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bán Yêu Thôn
+- **Long Huyết Nhi** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bán Yêu Thôn
+- **Trần Thiên Hổ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Bán Nguyệt
+- **Vương Xà Nhi** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Bán Nguyệt
+- **Nguyễn Lang Phong** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Bán Nguyệt
+- **Long Huyết Nhi** (Đồng minh): Ông ngoại nuôi, người ôm nó ngủ mỗi đêm, hơi ấm duy nhất
+- **Trần Thiên Hổ** (Đồng minh): Phó thôn trưởng, chiến hữu sống chết gần ba trăm năm, tin cậy tuyệt đối
+- **Nguyễn Lang Phong** (Đồng minh): Thợ săn trưởng, đánh giá cao năng lực nhưng lo ngại bản tính hoang dã
+- **Trần Vạn Thú** (Đồng minh): Trang Chủ Bách Thú và Thôn Trưởng Bán Yêu, bảo vệ quyền lợi bán yêu
+- **Hồ Lang Tạp Huyết** (Đồng minh): Hỗn Huyết Yêu và Bán Yêu Thôn, cùng bảo vệ kẻ lai tạp
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 ### Công Pháp

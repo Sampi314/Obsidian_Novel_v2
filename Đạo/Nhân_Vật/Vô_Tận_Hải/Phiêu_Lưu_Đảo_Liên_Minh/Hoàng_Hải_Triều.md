@@ -32,9 +32,11 @@ Hoàng Hải Triều mang vẻ đẹp rắn rỏi của người miền biển, 
 Phong cách chiến đấu của Hoàng Hải Triều gắn liền với sức mạnh của biển cả, dựa vào sự bền bỉ và khả năng chống chịu bão táp. Hắn tu luyện "Nộ Hải Lãng Quyết" (怒海浪诀), có khả năng điều khiển dòng nước tạo thành các tấm khiên phòng ngự vững chắc. Tuy không giỏi về tốc độ, nhưng khả năng phòng thủ của hắn ở vùng biển là vô cùng đáng gờm.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Trần Hải Phong** (Đồng minh): Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau
+- **Lê Bạch Ngư** (Đồng minh): Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau
+- **Phạm Sóng** (Đồng minh): Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau
 - **Trần Hải Phong:** Đảo Chủ Liên Tịch, người mà Hoàng Hải Triều vô cùng kính trọng và luôn trung thành thực thi các nhiệm vụ tuần tra quanh mười bảy đảo.
 - **Lê Bạch Ngư:** Đảo Chủ Đảo Số Ba, hai người thường xuyên phối hợp để bảo vệ an ninh cho hòn đảo lớn nhất nhì liên minh.
 - **Phạm Sóng:** Thuyền Trưởng Thương Thuyền, bạn nhậu thân thiết mỗi khi Phạm Sóng trở về từ đất liền, luôn cập nhật tin tức cho nhau.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra trên một hòn đảo nhỏ thường xuyên bị Hắc Hải Hải Tặc nhòm ngó, từ nhỏ Hoàng Hải Triều đã tận mắt chứng kiến cảnh dân đảo bị bóc lột. Hắn quyết tâm rèn luyện thân thể và tham gia Hải Tuần Đội để bảo vệ quê hương. Trải qua vô số trận chiến sinh tử với bão táp và hải tặc, hắn từng bước leo lên vị trí Đội Trưởng, trở thành lá chắn vững chắc bảo vệ cuộc sống bình yên của Phiêu Lưu Đảo Liên Minh.

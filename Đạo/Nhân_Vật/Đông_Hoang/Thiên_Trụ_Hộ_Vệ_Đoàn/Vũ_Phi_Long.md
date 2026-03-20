@@ -32,9 +32,13 @@ Vũ Phi Long là thanh niên nhanh nhẹn, thân hình gọn gàng, mắt sáng 
 Vũ Phi Long sở hữu Phi Long Song Đao (飛龍雙刀) — đao pháp nhanh như rồng bay, mỗi đòn chém đều mang theo phong áp cắt da. Ngoài ra y tinh thông khinh công, có thể di chuyển trên vách đá dựng đứng như đi trên đất bằng. Là Hiệu Úy nhanh nhất quân đoàn.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Phạm Thiết Thành:** Tướng Quân mà y nhận mệnh lệnh, ngưỡng mộ tài chỉ huy.
-- **Lê Trấn Sơn:** Đồng liêu Hiệu Úy, cùng dẫn đội tuần tra.
-- **Trần Tiểu Binh:** Binh sĩ trẻ mà y coi như đàn em, hay kéo đi uống rượu.
-
+- **Trần Thiên Giáp** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Trụ Hộ Vệ Đoàn
+- **Trần Thiên Giáp** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Thiên Giáp
+- **Phạm Thiết Thành** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Trụ Hộ Vệ Đoàn
+- **Trần Tiểu Binh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Trụ Hộ Vệ Đoàn
+- **Lý Vô Nhai** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Trụ Hộ Vệ Đoàn
+- **Nguyễn Trấn Quan** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Trụ Hộ Vệ Đoàn
+- **Đặng Thiết Vệ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Trụ Hộ Vệ Đoàn
+- **Lê Trấn Sơn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Trụ Hộ Vệ Đoàn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vũ Phi Long sinh ra trong gia đình võ sư, gia nhập quân đoàn vì mơ ước bảo vệ trục thế giới. Tài năng chiến đấu cá nhân xuất sắc nhưng đôi khi quá liều lĩnh. Từng xông vào đội quân yêu thú một mình để cứu binh sĩ bị bao vây, bị thương nặng nhưng cứu được mười hai người. Đang nhắm đến vị trí Tướng Quân.

@@ -32,7 +32,8 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Hoàng Cổ Nham** (Đồng minh): Đồng liêu cùng Hoàng Sa Di Dân, hỗ trợ lẫn nhau
+- **Hoàng Minh Nguyệt** (Đồng minh): Đồng liêu cùng Hoàng Sa Di Dân, hỗ trợ lẫn nhau
+- **Hoàng Ngọc Dương** (Đồng minh): Đồng liêu cùng Hoàng Sa Di Dân, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

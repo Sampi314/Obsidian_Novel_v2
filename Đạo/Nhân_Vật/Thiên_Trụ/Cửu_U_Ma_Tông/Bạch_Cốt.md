@@ -32,9 +32,9 @@ Thân hình cao lớn dị thường, toàn thân bọc trong bạch cốt giáp
 Tu luyện Bạch Cốt Ma Công — dùng xương cốt làm vũ khí và phương tiện tu luyện, có thể thao túng cốt cách của đối phương. Có thể rút xương đối thủ ra khỏi thân thể, hoặc tạo ra quái vật xương cốt khổng lồ chiến đấu. Bạch Cốt Giáp trên người hấp thụ sát thương và tự phục hồi, gần như bất hoại.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Ma Chủ Vô Tên]] — Ma Chủ, chủ nhân mà hắn phục tùng không điều kiện.
-- [[Lý Cửu Âm]] — Đệ Ngũ Ma Vương, cung cấp xương cốt cho nghiên cứu độc dược, đổi lấy ma dược.
-- [[Quỷ Diện]] — Đệ Cửu Ma Vương, tiểu đệ mà hắn vô cùng ghét bỏ vì tính cách xảo trá.
-
+- **Ma Chủ Vô Tên** (Đồng minh): Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau
+- **Cừu Huyết Nhi** (Sư đồ): Bạch Cốt chỉ dẫn Cừu Huyết Nhi trong Cửu U Ma Tông
+- **Cừu Huyết Thiên** (Sư đồ): Cừu Huyết Thiên chỉ dẫn Bạch Cốt trong Cửu U Ma Tông
+- **Âm Phong** (Sư đồ): Âm Phong chỉ dẫn Bạch Cốt trong Cửu U Ma Tông
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân là con trai một nghệ nhân điêu khắc xương nổi tiếng, từ nhỏ đã quen thuộc với việc xử lý xương cốt. Sau khi cha bị giết vì từ chối tạo pháp khí xương cho một tà tu, hắn dùng chính kỹ thuật của cha để trả thù. Quá trình trả thù vô tình lĩnh ngộ Bạch Cốt Ma Công, từ đó bước vào con đường ma đạo không thể quay đầu. Gia nhập Ma Tông, trở thành Đệ Thất Ma Vương, bộ sưu tập xương cốt của hắn là nỗi kinh hoàng của tu chân giới.

@@ -144,6 +144,7 @@ arcs:
     - Hắn coi Nhạn Nhi như em gái ruột — bảo vệ, che chở, và cũng hay mắng. Nàng liều hơn cả hắn — điều khiến hắn vừa tự hào vừa lo sợ. Hắn biết nàng gia nhập đội một phần vì hy vọng tìm cha — và hắn không bao giờ nói cho nàng biết rằng hy vọng ấy gần như vô vọng, vì hắn không nỡ dập tắt ngọn lửa trong mắt nàng.
 - **Hàn Kiếm Cốc — Ước Mơ & Nỗi Đau:**
     - Hắn ngưỡng mộ Hàn Kiếm Cốc đến mức ám ảnh — nhìn các kiếm tu bay giữa bão tuyết, kiếm quang chói lòa, là khoảnh khắc hắn cảm thấy mình nhỏ bé nhất. Hắn muốn được công nhận, muốn đội được thu nhận — nhưng hắn cũng oán giận thầm lặng: tại sao họ mạnh như vậy mà không bảo vệ dân thường? Tại sao họ có thể ngồi trên đỉnh Tuyết Sơn mà nhìn đám trẻ mồ côi chết đói bên dưới? Sự ngưỡng mộ và oán giận đan xen tạo nên mối quan hệ phức tạp nhất trong lòng hắn.
+- **Ưng Hàn Minh** (Đồng minh): Đội trưởng Phong Vũ Trinh Sát Đội, thỉnh thoảng trao đổi tin tức trinh sát
 
 ## VII. GIAI THOẠI
 > *"Đám nhóc Vũ Tộc ấy à? Bay lượn trên trời suốt ngày, chẳng biết sợ gì. Thằng đầu đàn ấy, nhỏ xíu mà mắt sáng như sao — bay vào bão tuyết mà cười như đi chơi. Điên thật, nhưng không có nó, thôn ta mùa đông năm ngoái chắc mất thêm mấy mạng."*

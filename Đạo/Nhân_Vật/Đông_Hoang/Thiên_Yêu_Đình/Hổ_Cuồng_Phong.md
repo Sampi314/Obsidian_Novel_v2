@@ -32,9 +32,15 @@ Hổ Cuồng Phong trong hình dạng yêu thú là một con mãnh hổ gió, l
 Là Thánh Tướng Thứ Nhất với tu vi Nguyên Anh Hậu Kỳ, Hổ Cuồng Phong tu luyện "Cuồng Phong Hổ Quyền" (狂风虎拳) — mỗi quyền mang theo sức gió cấp mười hai, có thể san bằng núi đá. Tuyệt kỹ "Phá Sơn Liệt Địa Kích" (破山裂地击) tập trung toàn bộ phong lực vào một điểm, xuyên thủng bất kỳ phòng ngự nào. Điểm mạnh là sức công phá đơn thể mạnh nhất Thiên Yêu Đình, nhược điểm là phòng ngự kém và dễ bị khiêu khích mất bình tĩnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Vạn Kiếp:** Yêu Đế mà hắn tuyệt đối phục tùng, người duy nhất đánh bại hắn bằng sức mạnh thuần túy.
-- **Hùng Thiết Sơn:** Đối thủ luyện tập thường xuyên, hai người thường xuyên tỉ thí để rèn luyện.
-- **Lang Thiên Dạ Hành:** Thánh Tướng mà hắn coi thường vì chiến thuật ám sát "hèn nhát", nhưng thầm nể phục.
-
+- **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Hổ Vạn Kiếp** (Thuộc hạ): Yêu Đế chỉ huy Thánh Tướng Thứ Nhất
+- **Ưng Thương Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Mãng Địa Hoàng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Xà Thủy Huyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Báo Lôi Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hùng Cổ Mộc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hùng Thiết Sơn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Hổ Huyết Vương** (Đối thủ): Thánh Tướng Thứ Nhất và Đấu Trường Chủ, cùng Hổ Tộc nhưng khác phe
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hổ Cuồng Phong sinh ra trong bão lốc giữa thảo nguyên Đông Hoang, ngay khi chào đời đã gầm một tiếng làm tán cây gãy đổ. Hắn lớn lên bằng cách thách đấu mọi kẻ mạnh gặp trên đường, từ yêu thú đến tu sĩ nhân tộc, không phân biệt chính tà. Sự kiện định mệnh nhất là khi hắn thách thức Yêu Đế và bị đánh bại chỉ trong ba chiêu, từ đó quy phục và trở thành Thánh Tướng Thứ Nhất. Mục tiêu hiện tại là đột phá Hóa Thần, nhưng tính cách nóng nảy khiến hắn mãi không thể tĩnh tâm tu luyện.

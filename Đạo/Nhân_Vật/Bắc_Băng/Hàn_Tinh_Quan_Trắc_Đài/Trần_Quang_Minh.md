@@ -33,6 +33,9 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Hoàng Tinh Nguyệt** (Đồng minh): Đồng liêu cùng Hàn Tinh Quan Trắc Đài, hỗ trợ lẫn nhau
+- **Lý Tinh Vân** (Sư phụ): Lý Tinh Vân chỉ dẫn Trần Quang Minh trong Hàn Tinh Quan Trắc Đài
+- **Tinh Hàn Tử** (Sư phụ): Tinh Hàn Tử chỉ dẫn Trần Quang Minh trong Hàn Tinh Quan Trắc Đài
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

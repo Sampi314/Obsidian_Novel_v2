@@ -32,8 +32,8 @@ Trần Phi Tín là thanh niên nhanh nhẹn, thân hình gầy gò nhưng cơ b
 Trần Phi Tín sở hữu Phong Hành Cước (風行腳) — thân pháp cực nhanh dùng phong linh khí đẩy tốc độ chạy lên gấp ba bình thường. Khi gặp nguy, y dùng Tín Sứ Thoát Thân Thuật (信使脫身術) — kỹ thuật rải bẫy khói và ám khí để tạo cơ hội thoát thân mang theo thư. Triết lý: thư phải đến nơi, dù phải bỏ mạng.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Phong Thư:** Các Chủ mà y tôn kính, nhận mệnh lệnh trực tiếp.
-- **Phạm Tiểu Nhạn:** Đồng nghiệp trẻ mà y hay dẫn đi giao thư, dạy kỹ năng sinh tồn.
-
+- **Lý Phong Thư** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Lý Truyền Thư Các
+- **Lý Phong Thư** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Phong Thư
+- **Phạm Tiểu Nhạn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Lý Truyền Thư Các
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Trần Phi Tín là trẻ mồ côi sa mạc, được Lý Phong Thư cứu và nuôi dưỡng. Từ nhỏ y đã thể hiện tốc độ phi thường khi chạy trên cát, được huấn luyện thành Truyền Thư Sứ giỏi nhất. Từng giao thư xuyên qua vùng bão cát cấp bảy và sống sót, y trở thành huyền thoại trong giới tín sứ. Bí mật: y từng vô tình chuyển một lá thư dẫn đến thương đoàn bị phục kích — mang theo tội lỗi đó đến giờ.

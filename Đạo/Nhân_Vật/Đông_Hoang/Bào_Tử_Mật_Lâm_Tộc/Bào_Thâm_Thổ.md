@@ -32,9 +32,15 @@ Tạo đất màu mỡ từ đất độc, phục hồi hệ sinh thái
 Thành viên của Bào Tử Mật Lâm Tộc, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 孢深土·Bản Mệnh (孢深土·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bào Huyết Tịnh:** Chuyên Gia Huyết Độc, đồng liêu quan trọng nhất trong Bào Tử Mật Lâm Tộc.
-- **Bào Hắc Lâm:** Trinh Sát, đối tác thường xuyên phối hợp.
-- **Bào Hồng Tán:** Tộc Trưởng, mối quan hệ tin cậy lẫn nhau.
-
+- **Bào Hồng Tán** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Hồng Tán** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Bào Hồng Tán
+- **Bào Tịnh Hóa** (Đồng minh): Thổ Dưỡng Sư, đối tác hoàn hảo — nàng thanh lọc, Thâm Thổ phục hồi đất đai sau đó
+- **Bào Độc Vương** (Đồng minh): Thổ Dưỡng Sư, đồng đội chiến trường — Thâm Thổ dọn bãi chiến trường, Độc Vương canh giữ phía trước
+- **Bào Hắc Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Lục Quang Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Ngọc Quang** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Thiên Tán Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Vạn Căn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Thiên Biến Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Bào Thâm Thổ lớn lên trong hoàn cảnh khó khăn, sớm thể hiện tư chất phù hợp với Bào Tử Mật Lâm Tộc. Nhờ sự giúp đỡ của quý nhân, hắn gia nhập Bào Tử Mật Lâm Tộc và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Sơ Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Thổ Dưỡng Sư.

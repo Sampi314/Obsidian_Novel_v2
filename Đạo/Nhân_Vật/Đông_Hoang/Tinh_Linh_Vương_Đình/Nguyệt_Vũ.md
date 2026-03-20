@@ -32,9 +32,15 @@ Nguyệt Vũ sở hữu vẻ đẹp kiêu sa nhất hoàng tộc, mái tóc bạ
 Là Công Chúa cảnh giới Kim Đan Viên Mãn, Nguyệt Vũ tu luyện "Tinh Quang Tiễn Pháp" (星光箭法) — bắn mũi tên ánh sáng với độ chính xác tuyệt đối, xuyên thủng mọi phòng ngự. Tuyệt kỹ "Nguyệt Vũ Phi Tiễn" (月羽飞箭) — bắn ra mũi tên hóa thành vạn lông vũ ánh sáng tỏa ra mọi hướng. Điểm mạnh là cung thuật đỉnh cao và tốc độ bắn, nhược điểm là cận chiến yếu và tính kiêu ngạo dễ bị khiêu khích.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Nguyệt Hàn Sương:** Anh trai mà cô yêu thương và bảo vệ, dù không đồng ý với chính sách cải cách.
-- **Hoa Tuyết:** Thị vệ trung thành nhất, bạn thân từ nhỏ, người duy nhất cô tin tưởng hoàn toàn.
-- **Nguyệt Linh Quang:** Đại Tế Tư dạy cô các nghi lễ hoàng gia, cô kính trọng nhưng thấy nhàm chán.
-
+- **Nguyệt Thiên Hà** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tinh Linh Vương Đình
+- **Nguyệt Thiên Hà** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nguyệt Thiên Hà
+- **Hoa Tuyết** (Thuộc hạ): Công Chúa và Thị Vệ, chủ tớ thân thiết
+- **Nguyệt Hàn Sương** (Gia đình): Thái Tử và Công Chúa, anh em hoàng gia
+- **Nguyệt Linh Quang** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Vân Tiêu Dao Khách** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Hoa Tử Yên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Nguyệt Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Vân Mộng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
+- **Hoa Liên Hương Tử** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Tinh Linh Vương Đình
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyệt Vũ sinh ra giữa đêm trăng tròn sáng nhất năm, được Cây Thế Giới ban phước năng lực cung thuật thiên tài. Từ nhỏ, cô đã có thể bắn trúng lá rơi từ khoảng cách ngàn trượng. Dù là công chúa, cô từ chối cuộc sống nhàn nhã và tự rèn luyện cung thuật mỗi ngày. Sự kiện đáng nhớ nhất là khi cô một mình bắn hạ ba yêu thú cấp Kim Đan xâm nhập rừng thiêng. Mục tiêu hiện tại là chứng minh mình xứng đáng dẫn dắt Quang Minh Kỵ Sĩ Đoàn.

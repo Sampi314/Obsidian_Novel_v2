@@ -112,16 +112,10 @@ arcs:
     - Không giao tiếp được bằng lời, gây khó khăn trong phối hợp chiến đấu (nếu có).
 
 ## VI. QUAN HỆ
-
-- **Sa Lực (Công Đầu):**
-    - Ân nhân — người duy nhất cho gã chỗ ở mà không hỏi quá khứ. Sa Mặc thể hiện lòng biết ơn không bằng lời mà bằng hành động: luôn là người đầu tiên đứng lên khi có việc nặng, luôn đứng gần Sa Lực nhất khi có tình huống nguy hiểm. Có lần một thương nhân say rượu vung kiếm về phía Sa Lực, Sa Mặc đứng chắn phía trước — nhanh hơn cả bốn tổ trưởng.
-- **Sa Trọng (Tổ Trưởng):**
-    - Người duy nhất Sa Mặc không né tránh. Sa Trọng kể chuyện cười trước mặt gã mỗi tối, không cần gã cười, chỉ cần gã ngồi đó nghe. Có khi Sa Trọng kể hết câu chuyện, Sa Mặc khẽ gật đầu — Sa Trọng coi đó là phần thưởng lớn nhất. Bát canh nóng Sa Trọng mang đến mỗi tối, gã luôn uống hết — đó là cách gã nói "cảm ơn."
-- **Sa Kiên (Tổ Trưởng):**
-    - Sa Kiên nghi ngờ gã nhưng không thù ghét. Lão để ý từng cử động của Sa Mặc, ghi chép cẩn thận: sức mạnh bất thường, vết sẹo lạ, phục hồi nhanh, bước chân nhẹ. Lão báo cáo tất cả cho Sa Lực, nhưng Sa Lực bảo: "Gã muốn giấu thì để gã giấu. Khi nào gã sẵn sàng, gã sẽ nói." Sa Kiên chấp nhận, nhưng vẫn giữ thói quen quan sát.
-- **Mảnh Ngọc Vỡ:**
-    - Thứ duy nhất gã mang theo — một mảnh ngọc bích vỡ đôi, nửa còn lại không biết ở đâu. Mỗi đêm rằm, gã cầm mảnh ngọc lên, giơ về phía trăng, như thể đang tìm nửa còn lại ở một nơi rất xa. Không ai biết mảnh ngọc thuộc về ai — một người yêu, một đứa con, một lời thề, hay một ký ức đã chết.
-
+- **Sa Kiên** (Trung lập): Sa Kiên nghi ngờ gã nhưng không thù ghét. Lão để ý từng cử động của Sa Mặc, ghi chép cẩn thận: sức mạnh bất thường, vết sẹo lạ, phục hồi nhanh, bước chân nhẹ. Lão báo cáo tất cả cho Sa Lực, nhưng Sa Lực bảo: "Gã muốn giấu thì để gã giấu. Khi nào gã sẵn sàng, gã sẽ nói." Sa Kiên chấp nhận, nhưng vẫn giữ thói quen quan sát.
+- **Sa Lực** (Đồng minh): Ân nhân — người duy nhất cho gã chỗ ở mà không hỏi quá khứ. Sa Mặc thể hiện lòng biết ơn không bằng lời mà bằng hành động: luôn là người đầu tiên đứng lên khi có việc nặng, luôn đứng gần Sa Lực nhất khi có tình huống nguy hiểm. Có lần một thương nhân say rượu vung kiếm về phía Sa Lực, Sa Mặc đứng chắn phía trước — nhanh hơn cả bốn tổ trưởng.
+- **Sa Trọng** (Đồng minh): Người duy nhất Sa Mặc không né tránh. Sa Trọng kể chuyện cười trước mặt gã mỗi tối, không cần gã cười, chỉ cần gã ngồi đó nghe. Có khi Sa Trọng kể hết câu chuyện, Sa Mặc khẽ gật đầu — Sa Trọng coi đó là phần thưởng lớn nhất. Bát canh nóng Sa Trọng mang đến mỗi tối, gã luôn uống hết — đó là cách gã nói "cảm ơn."
+- **Mảnh Ngọc Vỡ:** Thứ duy nhất gã mang theo — một mảnh ngọc bích vỡ đôi, nửa còn lại không biết ở đâu. Mỗi đêm rằm, gã cầm mảnh ngọc lên, giơ về phía trăng, như thể đang tìm nửa còn lại ở một nơi rất xa. Không ai biết mảnh ngọc thuộc về ai — một người yêu, một đứa con, một lời thề, hay một ký ức đã chết.
 ## VII. GIAI THOẠI
 
 > *"Đội có sáu mươi người, nhưng chỉ có năm mươi chín cái miệng. Cái miệng thứ sáu mươi nằm trong đôi tay gã câm — và nó nói to hơn bất kỳ ai."*

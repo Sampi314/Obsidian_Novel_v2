@@ -111,16 +111,16 @@ Chuyên môn của gã là rèn đồ lớn — chiến giáp hạng nặng cho 
 - **Thạch Linh Tâm Chú (石靈心咒):** Phiên bản lực sĩ — tập trung linh khí vào cơ bắp, tăng sức mạnh vật lý cho rèn đúc.
 
 ## VI. QUAN HỆ
-
+- **Mã Thiết Sơn** (Đồng minh): Đệ Thất Hỏa Sư, bạn rèn, đối thủ uống rượu, anh em đồng tộc
+- **Sơn Vạn** (Chủ tớ): Anh trai ruột, Quân Trưởng, người gã kính trọng nhưng hay cãi
+- **Thạch Hỏa Long** (Sư đồ): Đệ Nhất Hỏa Sư, sư phụ rèn đúc, người gã khâm phục nhất
+- **Sơn Lực** (Sư đồ): Đệ Thất Hỏa Sư, sư phụ luyện thể lực
 - **Sơn Vạn (Anh Trai):**
     - Gã kính trọng anh — nhưng hay cãi. Mỗi tháng ăn tối cùng nhau, nửa bữa kể chuyện, nửa bữa cãi nhau. Vạn muốn Cương cẩn thận hơn, Cương muốn Vạn bớt lo. Nhưng khi cần, hai anh em đứng cạnh nhau như bức tường — không ai xen vào giữa.
-
 - **Thạch Hỏa Long (Sư Phụ):**
     - Gã khâm phục Hỏa Long vì tay nghề và sự đam mê lửa. Hai gã phối hợp rèn ăn ý — Hỏa Long nung, Cương đánh búa — tiếng búa hai gã vang đều như nhịp trống chiến, mọi người nghe thấy đều biết: hai gã đang rèn hàng lớn.
-
 - **Mã Thiết Sơn (Bạn Rèn):**
     - Đồng tộc Lai Cự Tộc, Đệ Bát Hỏa Sư. Hai gã là bạn rèn, đối thủ uống rượu, và đồng đội trên mọi mặt trận. Cương rèn giáp, Thiết Sơn rèn vũ khí — hợp lại, hai gã trang bị cho cả đội quân.
-
 ## VII. GIAI THOẠI
 
 > *"Đủ tốt à? Không có 'đủ tốt' trong xưởng ta. Chỉ có 'tốt nhất' hoặc 'nấu lại.' Chọn đi."*

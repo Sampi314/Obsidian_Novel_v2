@@ -116,6 +116,19 @@ Từ đêm đó, Giao Lệ Vân thay đổi. Nàng không khóc, không nổi gi
 
 Năm năm trước, Giao Hàn Sương Lệ — kẻ duy nhất trong khu ổ chuột có khả năng lẻn ra ngoài — mang về tin tức: bên ngoài có một tổ chức tên Giao Nhân Tộc Liên Minh, chuyên hoạt động giải phóng các cộng đồng Giao Nhân bị áp bức. Giao Lệ Vân mất một năm cân nhắc trước khi đồng ý thiết lập liên lạc — một năm nàng không ngủ yên, cân đo giữa hy vọng và rủi ro, giữa hai trăm mạng sống và một cơ hội mong manh. Đến nay, liên lạc vẫn bí mật, tin nhắn được dệt thành hoa văn mật mã trên những tấm ti biển giao cho thương nhân qua tay Hàn Sương Lệ. Nhưng Lệ Vân biết thời gian không còn nhiều — Giao Tiểu Lệ, đứa trẻ có nước mắt đen, đang lớn dần, và nếu hoàng tộc phát hiện ra, không chỉ đứa trẻ mà cả hai trăm người sẽ bị xóa sổ.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Giao Tiểu Lệ** (Thủ lĩnh): Đứa trẻ mà mình phải bảo vệ bằng mọi giá, bí mật lớn nhất của khu ổ chuột
+- **Giao Bạch Phát** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Bạch Phát
+- **Giao Bạch Phát** (Đồng minh): Hậu duệ của Lệ Huyết, đứa trẻ mà mình đặt cả hy vọng cuối đời vào
+- **Giao Hàn Sương Lệ** (Đồng minh): Thủ lĩnh, người duy nhất biết mọi chuyến đi của mình, gánh nặng chung
+- **Giao Khổ Hải** (Đồng minh): Thủ lĩnh ngầm, người mà mình tin tưởng để giao phó tương lai của em trai
+- **Giao Phẫn Hải** (Đồng minh): Chiến sĩ trẻ nóng nảy, vừa là hy vọng vừa là mối lo
+- **Giao Mộng Hải** (Đồng minh): Thợ dệt tài hoa, người giữ lại vẻ đẹp cuối cùng của dân tộc
+- **Giao Thiên Lệ** (Đồng minh): Thủ lĩnh trẻ mà mình tin tưởng, người sẽ mang lại ngày mình không phải khóc nữa
+- **Giao Tàn Ty** (Đồng minh): Thủ lĩnh ngầm, người duy nhất nhìn ra giá trị trong tay nghề dệt của mình
+- **Giao Vô Danh** (Đồng minh): Thủ lĩnh ngầm, người đầu tiên gọi mình bằng tên thay vì số hiệu
+- **Giao Thiên Hải** (Kẻ thù): Minh Chủ Liên Minh áp bức bần dân, Lệ Vân là thủ lĩnh phản kháng ngầm
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 - **Phưởng Ti Thuật (纺丝术):**

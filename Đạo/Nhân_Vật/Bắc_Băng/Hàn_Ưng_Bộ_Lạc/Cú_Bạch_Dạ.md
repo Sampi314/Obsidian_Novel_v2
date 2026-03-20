@@ -33,6 +33,12 @@ Cú tuyết bay không tiếng trong đêm cực quang, mắt vàng thấu thị
 
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
+- **Hạc Sương Vũ** (Đệ tử): Đệ tử không chính thức, Dạ Trinh Sát tài năng mà lão đã phát hiện và tiến cử
+- **Ưng Bạch Đế** (Đồng minh): Dạ Trinh Sát tài năng, đôi mắt trong bóng tối của bộ lạc
+- **Ưng Băng Phong** (Đồng minh): Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau
+- **Ưng Hàn Dực** (Chủ nhân): Ưng Hàn Dực quản lý Cú Bạch Dạ trong Hàn Ưng Bộ Lạc
+- **Ưng Lãnh Phong** (Đồng minh): Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau
+- **Ưng Đông Sương** (Đồng minh): Đồng liêu cùng Hàn Ưng Bộ Lạc, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
