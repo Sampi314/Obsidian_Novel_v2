@@ -32,7 +32,9 @@ Biến sóng vi ba thành vũ khí, phá hủy thần thức kẻ địch
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Ba Vạn Lý** (Chủ tớ): Thủ hạ trung thành trong Sóng Vi Ba Liên Lạc
+- **Ba Vạn Lý** (Cấp dưới): Phục tùng Ba Vạn Lý, Liên Lạc Trưởng của Sóng Vi Ba Liên Lạc
+- **Ba Cộng Minh** (Đồng minh): Đồng liêu cùng Sóng Vi Ba Liên Lạc
+- **Ba Hải Vọng** (Sư đồ): Ba Âm Hưởng chỉ dẫn Ba Hải Vọng trong Sóng Vi Ba Liên Lạc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

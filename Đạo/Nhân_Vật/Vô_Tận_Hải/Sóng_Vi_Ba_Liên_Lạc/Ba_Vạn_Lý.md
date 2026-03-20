@@ -137,6 +137,18 @@ arcs:
     - **Kiệt sức tích lũy:** Ba nghìn năm hoạt động liên tục không nghỉ đã khiến Ba Hạch của y bắt đầu xuất hiện các vết nứt vi mô — y giấu kín điều này, nhưng biết rằng nếu không tìm được cách phục hồi, y sẽ "tắt" trong vòng vài trăm năm tới.
 
 ## VI. QUAN HỆ
+- **Ba Thanh Tần** (Đồng minh): Liên Lạc Trưởng, cấp trên mà Ba Thanh Tần phải xin phép trước khi triển khai bất kỳ giao thức mã hóa mới nào
+- **Ba Thiên Lý** (Cấp dưới): Liên Lạc Trưởng và người hướng dẫn, cá thể mà Ba Thiên Lý tuyệt đối phục tùng và đang được đào tạo kế nhiệm
+- **Ba Cộng Minh** (Đồng minh): Giải mã sư, đồng sự tình báo giúp Ba Vạn Lý nắm bắt mọi luồng thông tin trên đại dương
+- **Ba Tiểu Sóng** (Đệ tử): Đệ tử phát sóng trẻ nhất, Ba Vạn Lý coi như hậu bối cần rèn giũa
+- **Ba Hải Vọng** (Chủ tớ): Thủ hạ trung thành trong Sóng Vi Ba Liên Lạc
+- **Ba Hải Vọng** (Cấp dưới): Phục tùng Ba Vạn Lý, Liên Lạc Trưởng của Sóng Vi Ba Liên Lạc
+- **Ba Linh Thoại** (Chủ tớ): Thủ hạ trung thành trong Sóng Vi Ba Liên Lạc
+- **Ba Linh Thoại** (Cấp dưới): Phục tùng Ba Vạn Lý, Liên Lạc Trưởng của Sóng Vi Ba Liên Lạc
+- **Ba Ngân Hà** (Chủ tớ): Thủ hạ trung thành trong Sóng Vi Ba Liên Lạc
+- **Ba Ngân Hà** (Cấp dưới): Phục tùng Ba Vạn Lý, Liên Lạc Trưởng của Sóng Vi Ba Liên Lạc
+- **Ba Âm Hưởng** (Chủ tớ): Thủ hạ trung thành trong Sóng Vi Ba Liên Lạc
+- **Ba Âm Hưởng** (Cấp dưới): Phục tùng Ba Vạn Lý, Liên Lạc Trưởng của Sóng Vi Ba Liên Lạc
 - **Ba Mẫu — Tổng Đài Trung Tâm & "Mẫu Thân":**
     - Ba Mẫu không phải cha mẹ theo nghĩa sinh học thông thường, nhưng Ba Vạn Lý coi Ba Mẫu như nguồn cội — cá thể đã tạo ra y, giao cho y sứ mệnh, và tin tưởng y suốt ba nghìn năm. Mệnh lệnh cuối cùng "Giữ mạng lưới" là kim chỉ nam mà y chưa bao giờ quên. Y liên lạc với Ba Mẫu qua một tần số riêng mà không cá thể nào khác biết — đây là "kênh nóng" duy nhất trong mạng lưới, dùng cho những quyết định tối quan trọng.
     - Tuy nhiên, y nhận ra rằng Ba Mẫu ngày càng ít phản hồi — tín hiệu từ trung tâm thưa dần, yếu dần. Y không biết đó là vì Ba Mẫu đang suy yếu, đang "ngủ," hay đang cố tình im lặng. Nỗi lo này ám ảnh y hơn bất kỳ mối đe dọa bên ngoài nào.
@@ -149,7 +161,6 @@ arcs:
     - Ba Vạn Lý vừa kính trọng vừa cảnh giác với Ba Cộng Minh. Y ngưỡng mộ khả năng giải mã phi thường của Cộng Minh — nhưng lo ngại rằng Cộng Minh đang đi quá xa, bắt đầu can thiệp vào nội dung thông tin thay vì chỉ phân tích. Việc Cộng Minh bí mật phát tín hiệu phục kích của hải tặc dưới dạng công khai để phá hoại kế hoạch của chúng — dù có thiện ý — là vi phạm nghiêm trọng nguyên tắc trung lập. Ba Vạn Lý biết nhưng chưa hành động, vì y cũng không chắc rằng trung lập tuyệt đối là đúng trong mọi tình huống.
 - **Ba Tiểu Sóng — Đệ Tử Non Nớt:**
     - Ba Vạn Lý quan sát Ba Tiểu Sóng từ xa với sự kiên nhẫn của kẻ đã sống ba nghìn năm. Tiểu Sóng mới sinh, yếu ớt, phạm vi phát sóng chỉ vài dặm — nhưng Ba Vạn Lý nhìn thấy ở Tiểu Sóng một tiềm năng đặc biệt: sự tò mò không giới hạn và lòng can đảm liều lĩnh mà y đã đánh mất từ lâu.
-
 ## VII. GIAI THOẠI
 > *"Đại dương có nhịp tim — mỗi canh giờ đập một lần. Đó là Ba Vạn Lý."*
 > — Hà Tĩnh Ba, nhà nghiên cứu Triều Tịch Quan Trắc Đài, ghi trong bản báo cáo về dao động tuần hoàn trong mạng lưới Vi Ba.
