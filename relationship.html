@@ -510,6 +510,33 @@
             50% { transform: translateY(var(--dy, -20px)); opacity: calc(var(--o, 0.2) * 1.5); }
         }
 
+        /* ── Mode toggle ── */
+        .mode-toggle {
+            display: flex;
+            gap: 0;
+            border-radius: 4px;
+            overflow: hidden;
+            border: 1px solid var(--card-border);
+        }
+        .mode-btn {
+            flex: 1;
+            padding: 6px 12px;
+            background: transparent;
+            border: none;
+            color: var(--muted);
+            font-family: 'Source Serif 4', serif;
+            font-size: 0.78rem;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .mode-btn.active {
+            background: var(--sage);
+            color: var(--void);
+        }
+        .mode-btn:hover:not(.active) {
+            background: rgba(107,143,113,0.15);
+        }
+
         /* ── Mobile ── */
         @media (max-width: 768px) {
             .sidebar {
@@ -550,6 +577,13 @@
 
 <!-- Sidebar -->
 <div class="sidebar" id="sidebar">
+    <div class="sidebar-section">
+        <div class="sidebar-label">Chế Độ Xem</div>
+        <div class="mode-toggle" id="mode-toggle">
+            <button class="mode-btn active" data-mode="character">Nhân Vật</button>
+            <button class="mode-btn" data-mode="faction">Thế Lực</button>
+        </div>
+    </div>
     <div class="sidebar-section">
         <div class="sidebar-label">Tìm Kiếm</div>
         <input type="text" class="search-box" id="search-box" placeholder="Tên nhân vật...">
@@ -786,6 +820,138 @@
         }
     }
 
+    // ─── View mode state ───
+    var viewMode = 'character'; // 'character' or 'faction'
+
+    // ─── Build faction nodes and edges ───
+    var factionNodes = [];
+    var factionNodeMap = {};
+    var factionEdges = [];
+
+    function buildFactionGraph() {
+        factionNodes = [];
+        factionNodeMap = {};
+        factionEdges = [];
+
+        // Collect unique factions from characters
+        var factionMembers = {};  // factionKey -> [node, node, ...]
+        var factionNames = {};    // factionKey -> display name
+        var factionRegions = {};  // factionKey -> region
+        var fi;
+
+        for (fi = 0; fi < nodes.length; fi++) {
+            var nd = nodes[fi];
+            var fName = nd.character.faction || 'Không Rõ';
+            var fKey = normalizeStr(fName);
+            if (!factionMembers[fKey]) {
+                factionMembers[fKey] = [];
+                factionNames[fKey] = fName;
+                factionRegions[fKey] = nd.character.region || '';
+            }
+            factionMembers[fKey].push(nd);
+        }
+
+        // Create faction nodes
+        var fKeys = [];
+        for (var fk in factionMembers) {
+            if (factionMembers.hasOwnProperty(fk)) {
+                fKeys.push(fk);
+            }
+        }
+
+        for (fi = 0; fi < fKeys.length; fi++) {
+            var key = fKeys[fi];
+            var members = factionMembers[key];
+            var memberCount = members.length;
+            var fRadius = Math.max(30, Math.min(60, 25 + memberCount * 5));
+            var fRegion = factionRegions[key];
+            var fColor = getRegionColor(fRegion);
+
+            var fNode = {
+                id: key,
+                x: 0,
+                y: 0,
+                vx: 0,
+                vy: 0,
+                radius: fRadius,
+                name: factionNames[key],
+                region: fRegion,
+                memberCount: memberCount,
+                members: members,
+                color: fColor,
+                visible: true,
+                highlighted: false,
+                selected: false,
+                dimmed: false
+            };
+            factionNodes.push(fNode);
+            factionNodeMap[key] = fNode;
+        }
+
+        // Aggregate edges between factions
+        var fEdgeMap = {}; // "fKeyA||fKeyB" -> { count, types[] }
+        for (fi = 0; fi < edges.length; fi++) {
+            var e = edges[fi];
+            var srcFaction = normalizeStr(e.source.character.faction || 'Không Rõ');
+            var tgtFaction = normalizeStr(e.target.character.faction || 'Không Rõ');
+            if (srcFaction === tgtFaction) continue; // skip intra-faction
+
+            // Canonical key (alphabetical order)
+            var eKey = srcFaction < tgtFaction ? srcFaction + '||' + tgtFaction : tgtFaction + '||' + srcFaction;
+            if (!fEdgeMap[eKey]) {
+                fEdgeMap[eKey] = { source: srcFaction, target: tgtFaction, count: 0, types: [] };
+            }
+            fEdgeMap[eKey].count++;
+            fEdgeMap[eKey].types.push(e.rel.type);
+        }
+
+        // Build faction edges
+        for (var ek in fEdgeMap) {
+            if (!fEdgeMap.hasOwnProperty(ek)) continue;
+            var fe = fEdgeMap[ek];
+            if (!factionNodeMap[fe.source] || !factionNodeMap[fe.target]) continue;
+
+            // Determine dominant relationship color
+            var typeCounts = {};
+            for (var ti = 0; ti < fe.types.length; ti++) {
+                var tc = getTypeColor(fe.types[ti]);
+                typeCounts[tc] = (typeCounts[tc] || 0) + 1;
+            }
+            var dominantColor = '#78909c';
+            var maxCount = 0;
+            var totalTypes = fe.types.length;
+            for (var tcc in typeCounts) {
+                if (typeCounts[tcc] > maxCount) {
+                    maxCount = typeCounts[tcc];
+                    dominantColor = tcc;
+                }
+            }
+            // If no clear majority (less than 50%), use gray
+            if (maxCount < totalTypes * 0.5) {
+                dominantColor = '#78909c';
+            }
+
+            var edgeWidth = Math.max(1, Math.min(6, fe.count * 0.8));
+
+            factionEdges.push({
+                source: factionNodeMap[fe.source],
+                target: factionNodeMap[fe.target],
+                count: fe.count,
+                color: dominantColor,
+                width: edgeWidth,
+                types: fe.types
+            });
+        }
+
+        // Initialize faction node positions in circle
+        var fClusterRadius = Math.min(W || 800, H || 600) * 0.3;
+        for (fi = 0; fi < factionNodes.length; fi++) {
+            var fAngle = (fi / factionNodes.length) * Math.PI * 2 - Math.PI / 2;
+            factionNodes[fi].x = Math.cos(fAngle) * fClusterRadius;
+            factionNodes[fi].y = Math.sin(fAngle) * fClusterRadius;
+        }
+    }
+
     // ─── Layout initialization ───
     var canvas = document.getElementById('graph-canvas');
     var ctx = canvas.getContext('2d');
@@ -870,83 +1036,153 @@
 
         var ni, nj, dx, dy, dist, force, fx, fy;
 
-        // Repulsion between all visible nodes
-        for (i = 0; i < nodes.length; i++) {
-            ni = nodes[i];
-            if (!ni.visible) continue;
-            for (var j = i + 1; j < nodes.length; j++) {
-                nj = nodes[j];
-                if (!nj.visible) continue;
-                dx = ni.x - nj.x;
-                dy = ni.y - nj.y;
+        if (viewMode === 'faction') {
+            // ─── Faction mode physics ───
+            // Repulsion between faction nodes
+            for (i = 0; i < factionNodes.length; i++) {
+                ni = factionNodes[i];
+                if (!ni.visible) continue;
+                for (var j = i + 1; j < factionNodes.length; j++) {
+                    nj = factionNodes[j];
+                    if (!nj.visible) continue;
+                    dx = ni.x - nj.x;
+                    dy = ni.y - nj.y;
+                    dist = Math.sqrt(dx * dx + dy * dy);
+                    if (dist < 1) { dist = 1; dx = Math.random() - 0.5; dy = Math.random() - 0.5; }
+                    var fMinDist = (ni.radius + nj.radius) * 2.5;
+                    force = 3000 / (dist * dist);
+                    if (dist < fMinDist) force += (fMinDist - dist) * 0.8;
+                    fx = (dx / dist) * force * alpha;
+                    fy = (dy / dist) * force * alpha;
+                    ni.vx += fx;
+                    ni.vy += fy;
+                    nj.vx -= fx;
+                    nj.vy -= fy;
+                }
+            }
+
+            // Spring force along faction edges
+            for (i = 0; i < factionEdges.length; i++) {
+                var fe = factionEdges[i];
+                if (!fe.source.visible || !fe.target.visible) continue;
+                dx = fe.target.x - fe.source.x;
+                dy = fe.target.y - fe.source.y;
                 dist = Math.sqrt(dx * dx + dy * dy);
-                if (dist < 1) { dist = 1; dx = Math.random() - 0.5; dy = Math.random() - 0.5; }
-                var minDist = (ni.radius + nj.radius) * 3;
-                force = 800 / (dist * dist);
-                if (dist < minDist) force += (minDist - dist) * 0.5;
-                fx = (dx / dist) * force * alpha;
-                fy = (dy / dist) * force * alpha;
-                ni.vx += fx;
-                ni.vy += fy;
-                nj.vx -= fx;
-                nj.vy -= fy;
+                if (dist < 1) dist = 1;
+                var fIdealLen = 150 + (fe.source.radius + fe.target.radius);
+                force = (dist - fIdealLen) * 0.01 * alpha;
+                fx = (dx / dist) * force;
+                fy = (dy / dist) * force;
+                fe.source.vx += fx;
+                fe.source.vy += fy;
+                fe.target.vx -= fx;
+                fe.target.vy -= fy;
             }
-        }
 
-        // Spring force along edges
-        for (i = 0; i < edges.length; i++) {
-            var e = edges[i];
-            if (!e.source.visible || !e.target.visible) continue;
-            dx = e.target.x - e.source.x;
-            dy = e.target.y - e.source.y;
-            dist = Math.sqrt(dx * dx + dy * dy);
-            if (dist < 1) dist = 1;
-            var idealLen = 80 + (e.source.radius + e.target.radius);
-            force = (dist - idealLen) * 0.015 * alpha;
-            fx = (dx / dist) * force;
-            fy = (dy / dist) * force;
-            e.source.vx += fx;
-            e.source.vy += fy;
-            e.target.vx -= fx;
-            e.target.vy -= fy;
-        }
-
-        // Faction clustering force
-        for (i = 0; i < nodes.length; i++) {
-            ni = nodes[i];
-            if (!ni.visible) continue;
-            var cluster = factionClusters[ni.factionCluster];
-            if (cluster) {
-                dx = cluster.x - ni.x;
-                dy = cluster.y - ni.y;
-                ni.vx += dx * 0.003 * alpha;
-                ni.vy += dy * 0.003 * alpha;
+            // Centering force for faction nodes
+            for (i = 0; i < factionNodes.length; i++) {
+                ni = factionNodes[i];
+                if (!ni.visible) continue;
+                ni.vx -= ni.x * 0.0005 * alpha;
+                ni.vy -= ni.y * 0.0005 * alpha;
             }
-        }
 
-        // Centering force
-        for (i = 0; i < nodes.length; i++) {
-            ni = nodes[i];
-            if (!ni.visible) continue;
-            ni.vx -= ni.x * 0.0003 * alpha;
-            ni.vy -= ni.y * 0.0003 * alpha;
-        }
-
-        // Apply velocity with damping
-        var damping = 0.85;
-        var maxV = 8;
-        for (i = 0; i < nodes.length; i++) {
-            ni = nodes[i];
-            if (ni === dragNode) continue;
-            ni.vx *= damping;
-            ni.vy *= damping;
-            var speed = Math.sqrt(ni.vx * ni.vx + ni.vy * ni.vy);
-            if (speed > maxV) {
-                ni.vx = (ni.vx / speed) * maxV;
-                ni.vy = (ni.vy / speed) * maxV;
+            // Apply velocity with damping for faction nodes
+            var fDamping = 0.82;
+            var fMaxV = 6;
+            for (i = 0; i < factionNodes.length; i++) {
+                ni = factionNodes[i];
+                if (ni === dragNode) continue;
+                ni.vx *= fDamping;
+                ni.vy *= fDamping;
+                var fSpeed = Math.sqrt(ni.vx * ni.vx + ni.vy * ni.vy);
+                if (fSpeed > fMaxV) {
+                    ni.vx = (ni.vx / fSpeed) * fMaxV;
+                    ni.vy = (ni.vy / fSpeed) * fMaxV;
+                }
+                ni.x += ni.vx;
+                ni.y += ni.vy;
             }
-            ni.x += ni.vx;
-            ni.y += ni.vy;
+        } else {
+            // ─── Character mode physics (original) ───
+            // Repulsion between all visible nodes
+            for (i = 0; i < nodes.length; i++) {
+                ni = nodes[i];
+                if (!ni.visible) continue;
+                for (var j = i + 1; j < nodes.length; j++) {
+                    nj = nodes[j];
+                    if (!nj.visible) continue;
+                    dx = ni.x - nj.x;
+                    dy = ni.y - nj.y;
+                    dist = Math.sqrt(dx * dx + dy * dy);
+                    if (dist < 1) { dist = 1; dx = Math.random() - 0.5; dy = Math.random() - 0.5; }
+                    var minDist = (ni.radius + nj.radius) * 3;
+                    force = 800 / (dist * dist);
+                    if (dist < minDist) force += (minDist - dist) * 0.5;
+                    fx = (dx / dist) * force * alpha;
+                    fy = (dy / dist) * force * alpha;
+                    ni.vx += fx;
+                    ni.vy += fy;
+                    nj.vx -= fx;
+                    nj.vy -= fy;
+                }
+            }
+
+            // Spring force along edges
+            for (i = 0; i < edges.length; i++) {
+                var e = edges[i];
+                if (!e.source.visible || !e.target.visible) continue;
+                dx = e.target.x - e.source.x;
+                dy = e.target.y - e.source.y;
+                dist = Math.sqrt(dx * dx + dy * dy);
+                if (dist < 1) dist = 1;
+                var idealLen = 80 + (e.source.radius + e.target.radius);
+                force = (dist - idealLen) * 0.015 * alpha;
+                fx = (dx / dist) * force;
+                fy = (dy / dist) * force;
+                e.source.vx += fx;
+                e.source.vy += fy;
+                e.target.vx -= fx;
+                e.target.vy -= fy;
+            }
+
+            // Faction clustering force
+            for (i = 0; i < nodes.length; i++) {
+                ni = nodes[i];
+                if (!ni.visible) continue;
+                var cluster = factionClusters[ni.factionCluster];
+                if (cluster) {
+                    dx = cluster.x - ni.x;
+                    dy = cluster.y - ni.y;
+                    ni.vx += dx * 0.003 * alpha;
+                    ni.vy += dy * 0.003 * alpha;
+                }
+            }
+
+            // Centering force
+            for (i = 0; i < nodes.length; i++) {
+                ni = nodes[i];
+                if (!ni.visible) continue;
+                ni.vx -= ni.x * 0.0003 * alpha;
+                ni.vy -= ni.y * 0.0003 * alpha;
+            }
+
+            // Apply velocity with damping
+            var damping = 0.85;
+            var maxV = 8;
+            for (i = 0; i < nodes.length; i++) {
+                ni = nodes[i];
+                if (ni === dragNode) continue;
+                ni.vx *= damping;
+                ni.vy *= damping;
+                var speed = Math.sqrt(ni.vx * ni.vx + ni.vy * ni.vy);
+                if (speed > maxV) {
+                    ni.vx = (ni.vx / speed) * maxV;
+                    ni.vy = (ni.vy / speed) * maxV;
+                }
+                ni.x += ni.vx;
+                ni.y += ni.vy;
+            }
         }
 
         // Gradually cool simulation
@@ -970,6 +1206,16 @@
         ctx.scale(cam.zoom, cam.zoom);
         ctx.translate(-cam.x, -cam.y);
 
+        if (viewMode === 'faction') {
+            drawFactionView();
+        } else {
+            drawCharacterView();
+        }
+
+        ctx.restore();
+    }
+
+    function drawCharacterView() {
         // Draw edges
         for (i = 0; i < edges.length; i++) {
             var e = edges[i];
@@ -1078,8 +1324,140 @@
                 }
             }
         }
+    }
 
-        ctx.restore();
+    function drawFactionView() {
+        var selectedFNode = selectedFactionNode;
+
+        // Draw faction edges
+        for (i = 0; i < factionEdges.length; i++) {
+            var fe = factionEdges[i];
+            if (!fe.source.visible || !fe.target.visible) continue;
+
+            var fEdgeDimmed = false;
+            if (selectedFNode) {
+                if (fe.source !== selectedFNode && fe.target !== selectedFNode) {
+                    fEdgeDimmed = true;
+                }
+            }
+            if (searchActive) {
+                if (fe.source.dimmed && fe.target.dimmed) fEdgeDimmed = true;
+            }
+
+            ctx.beginPath();
+            ctx.moveTo(fe.source.x, fe.source.y);
+            ctx.lineTo(fe.target.x, fe.target.y);
+
+            if (fEdgeDimmed) {
+                ctx.strokeStyle = hexToRgba(fe.color, 0.06);
+                ctx.lineWidth = 0.5;
+            } else {
+                var feAlpha = selectedFNode ? 0.6 : 0.3;
+                ctx.strokeStyle = hexToRgba(fe.color, feAlpha);
+                ctx.lineWidth = selectedFNode ? fe.width * 1.5 : fe.width;
+            }
+            ctx.stroke();
+
+            // Glow for selected faction edges
+            if (selectedFNode && !fEdgeDimmed) {
+                ctx.beginPath();
+                ctx.moveTo(fe.source.x, fe.source.y);
+                ctx.lineTo(fe.target.x, fe.target.y);
+                ctx.strokeStyle = hexToRgba(fe.color, 0.12);
+                ctx.lineWidth = fe.width + 4;
+                ctx.stroke();
+            }
+
+            // Edge count label at midpoint
+            if (!fEdgeDimmed && cam.zoom > 0.4) {
+                var midX = (fe.source.x + fe.target.x) / 2;
+                var midY = (fe.source.y + fe.target.y) / 2;
+                var eFontSize = Math.max(7, Math.min(10, 9 / cam.zoom));
+                ctx.font = '400 ' + eFontSize + 'px "Source Serif 4", serif';
+                ctx.textAlign = 'center';
+                ctx.textBaseline = 'middle';
+                ctx.fillStyle = hexToRgba(fe.color, 0.7);
+                ctx.fillText(fe.count + '', midX, midY);
+            }
+        }
+
+        // Draw faction nodes
+        for (i = 0; i < factionNodes.length; i++) {
+            var fn = factionNodes[i];
+            if (!fn.visible) continue;
+
+            var fIsDimmed = fn.dimmed || (selectedFNode && !fn.selected && !fn.highlighted);
+            var fIsSelected = fn === selectedFNode;
+            var fIsHighlighted = fn.highlighted;
+
+            // Node glow
+            if (fIsSelected) {
+                var fPulseR = fn.radius + 10 + Math.sin(animTime * 2.5) * 4;
+                ctx.beginPath();
+                ctx.arc(fn.x, fn.y, fPulseR, 0, Math.PI * 2);
+                ctx.fillStyle = hexToRgba(fn.color, 0.15);
+                ctx.fill();
+
+                ctx.beginPath();
+                ctx.arc(fn.x, fn.y, fPulseR + 6, 0, Math.PI * 2);
+                ctx.fillStyle = hexToRgba(fn.color, 0.06);
+                ctx.fill();
+            } else if (fIsHighlighted) {
+                ctx.beginPath();
+                ctx.arc(fn.x, fn.y, fn.radius + 8, 0, Math.PI * 2);
+                ctx.fillStyle = hexToRgba(fn.color, 0.12);
+                ctx.fill();
+            }
+
+            // Main circle
+            ctx.beginPath();
+            ctx.arc(fn.x, fn.y, fn.radius, 0, Math.PI * 2);
+            var fNodeAlpha = fIsDimmed ? 0.1 : (fIsSelected ? 0.7 : (fIsHighlighted ? 0.55 : 0.4));
+            ctx.fillStyle = hexToRgba(fn.color, fNodeAlpha);
+            ctx.fill();
+
+            // Border
+            if (!fIsDimmed) {
+                ctx.beginPath();
+                ctx.arc(fn.x, fn.y, fn.radius, 0, Math.PI * 2);
+                ctx.strokeStyle = hexToRgba(fn.color, fIsSelected ? 0.9 : 0.5);
+                ctx.lineWidth = fIsSelected ? 2.5 : 1.5;
+                ctx.stroke();
+            }
+
+            // Faction name inside node
+            if (!fIsDimmed) {
+                var fNameSize = Math.max(7, Math.min(13, fn.radius * 0.35));
+                ctx.font = '600 ' + fNameSize + 'px "Noto Serif TC", serif';
+                ctx.textAlign = 'center';
+                ctx.textBaseline = 'middle';
+                var fNameAlpha = fIsDimmed ? 0.15 : (fIsSelected ? 1.0 : 0.9);
+                ctx.fillStyle = hexToRgba(getComputedCSSVar('--text', '#e8e0d4'), fNameAlpha);
+
+                // Word wrap for long names
+                var fNameText = fn.name;
+                var fMaxWidth = fn.radius * 1.6;
+                var fNameMetrics = ctx.measureText(fNameText);
+                if (fNameMetrics.width > fMaxWidth && fNameText.length > 4) {
+                    // Split into two lines at middle
+                    var fMid = Math.floor(fNameText.length / 2);
+                    var fSplitPos = fNameText.indexOf(' ', fMid - 3);
+                    if (fSplitPos < 0 || fSplitPos > fMid + 3) fSplitPos = fMid;
+                    var fLine1 = fNameText.substring(0, fSplitPos).trim();
+                    var fLine2 = fNameText.substring(fSplitPos).trim();
+                    ctx.fillText(fLine1, fn.x, fn.y - fNameSize * 0.55);
+                    ctx.fillText(fLine2, fn.x, fn.y + fNameSize * 0.55);
+                } else {
+                    ctx.fillText(fNameText, fn.x, fn.y);
+                }
+
+                // Member count below name
+                var fCountSize = Math.max(6, Math.min(10, fn.radius * 0.25));
+                ctx.font = '400 ' + fCountSize + 'px "Source Serif 4", serif';
+                ctx.fillStyle = hexToRgba(getComputedCSSVar('--muted', '#6a7080'), fIsSelected ? 0.9 : 0.7);
+                ctx.fillText(fn.memberCount + ' th\u00E0nh vi\u00EAn', fn.x, fn.y + fn.radius + fCountSize + 4);
+            }
+        }
     }
 
     function hexToRgba(hex, alpha) {
@@ -1108,15 +1486,30 @@
         var hitRadius = 8 / cam.zoom;
         var closest = null;
         var closestDist = Infinity;
-        for (var i = 0; i < nodes.length; i++) {
-            var nd = nodes[i];
-            if (!nd.visible) continue;
-            var dx = nd.x - wx;
-            var dy = nd.y - wy;
-            var dist = Math.sqrt(dx * dx + dy * dy);
-            if (dist < nd.radius + hitRadius && dist < closestDist) {
-                closest = nd;
-                closestDist = dist;
+
+        if (viewMode === 'faction') {
+            for (var i = 0; i < factionNodes.length; i++) {
+                var fn = factionNodes[i];
+                if (!fn.visible) continue;
+                var dx = fn.x - wx;
+                var dy = fn.y - wy;
+                var dist = Math.sqrt(dx * dx + dy * dy);
+                if (dist < fn.radius + hitRadius && dist < closestDist) {
+                    closest = fn;
+                    closestDist = dist;
+                }
+            }
+        } else {
+            for (var i = 0; i < nodes.length; i++) {
+                var nd = nodes[i];
+                if (!nd.visible) continue;
+                var dx = nd.x - wx;
+                var dy = nd.y - wy;
+                var dist = Math.sqrt(dx * dx + dy * dy);
+                if (dist < nd.radius + hitRadius && dist < closestDist) {
+                    closest = nd;
+                    closestDist = dist;
+                }
             }
         }
         return closest;
@@ -1124,6 +1517,7 @@
 
     // ─── Interaction state ───
     var selectedNode = null;
+    var selectedFactionNode = null;
     var hoveredNode = null;
     var dragNode = null;
     var isPanning = false;
@@ -1354,7 +1748,12 @@
 
     // ─── Node selection ───
     function selectNode(node) {
+        if (viewMode === 'faction') {
+            selectFactionNode(node);
+            return;
+        }
         selectedNode = node;
+        selectedFactionNode = null;
         // Mark connected nodes
         for (var i = 0; i < nodes.length; i++) {
             nodes[i].selected = false;
@@ -1371,11 +1770,35 @@
         showInfoPanel(node);
     }
 
+    function selectFactionNode(fNode) {
+        selectedFactionNode = fNode;
+        selectedNode = null;
+        // Mark connected faction nodes
+        for (var i = 0; i < factionNodes.length; i++) {
+            factionNodes[i].selected = false;
+            factionNodes[i].highlighted = false;
+        }
+        fNode.selected = true;
+
+        for (var j = 0; j < factionEdges.length; j++) {
+            var fe = factionEdges[j];
+            if (fe.source === fNode) fe.target.highlighted = true;
+            if (fe.target === fNode) fe.source.highlighted = true;
+        }
+
+        showFactionInfoPanel(fNode);
+    }
+
     function deselectNode() {
         selectedNode = null;
+        selectedFactionNode = null;
         for (var i = 0; i < nodes.length; i++) {
             nodes[i].selected = false;
             nodes[i].highlighted = false;
+        }
+        for (var j = 0; j < factionNodes.length; j++) {
+            factionNodes[j].selected = false;
+            factionNodes[j].highlighted = false;
         }
         hideInfoPanel();
     }
@@ -1387,8 +1810,14 @@
 
     function updateTooltip(mx, my) {
         if (hoveredNode && !dragNode) {
-            tooltipName.textContent = hoveredNode.character.name;
-            tooltipSub.textContent = (hoveredNode.character.title || '') + ' | ' + (hoveredNode.character.faction || '');
+            if (viewMode === 'faction' && hoveredNode.name) {
+                // Faction node tooltip
+                tooltipName.textContent = hoveredNode.name;
+                tooltipSub.textContent = (hoveredNode.region || '') + ' | ' + hoveredNode.memberCount + ' th\u00E0nh vi\u00EAn';
+            } else if (hoveredNode.character) {
+                tooltipName.textContent = hoveredNode.character.name;
+                tooltipSub.textContent = (hoveredNode.character.title || '') + ' | ' + (hoveredNode.character.faction || '');
+            }
             tooltipEl.style.left = (mx + 14) + 'px';
             tooltipEl.style.top = (my - 10) + 'px';
             tooltipEl.classList.add('visible');
@@ -1481,6 +1910,109 @@
         infoPanel.classList.remove('open');
     }
 
+    // ─── Faction Info Panel ───
+    function showFactionInfoPanel(fNode) {
+        var html = '';
+
+        // Faction avatar (first character of name)
+        html += '<div class="info-avatar" style="background:' + fNode.color + ';border-color:' + fNode.color + ';width:72px;height:72px;font-size:1.6rem;">';
+        html += fNode.name.charAt(0);
+        html += '</div>';
+
+        // Name
+        html += '<div class="info-name">' + escHtml(fNode.name) + '</div>';
+        html += '<div class="info-title-text">Th\u1EBF L\u1EF1c</div>';
+
+        // Details
+        html += '<div class="info-details">';
+        html += '<div class="info-row"><span class="info-row-label">Khu v\u1EF1c</span><span class="info-row-value">' + escHtml(fNode.region) + '</span></div>';
+        html += '<div class="info-row"><span class="info-row-label">Th\u00E0nh vi\u00EAn</span><span class="info-row-value">' + fNode.memberCount + ' nh\u00E2n v\u1EADt</span></div>';
+
+        // Count inter-faction connections
+        var interFactionCount = 0;
+        for (var ei = 0; ei < factionEdges.length; ei++) {
+            if (factionEdges[ei].source === fNode || factionEdges[ei].target === fNode) {
+                interFactionCount += factionEdges[ei].count;
+            }
+        }
+        html += '<div class="info-row"><span class="info-row-label">Li\u00EAn k\u1EBFt</span><span class="info-row-value">' + interFactionCount + ' m\u1ED1i quan h\u1EC7</span></div>';
+        html += '</div>';
+
+        // Members list
+        html += '<div class="info-rels-title">Th\u00E0nh Vi\u00EAn (' + fNode.memberCount + ')</div>';
+        for (var mi = 0; mi < fNode.members.length; mi++) {
+            var memberNode = fNode.members[mi];
+            var ch = memberNode.character;
+            html += '<div class="info-rel">';
+            html += '<div class="info-rel-header">';
+            html += '<div class="info-rel-dot" style="background:' + (ch.avatar_color || '#888') + '"></div>';
+            html += '<span class="info-rel-name faction-member-link" data-char-id="' + ch.id + '">' + escHtml(ch.name) + '</span>';
+            if (ch.realm) {
+                html += '<span class="info-rel-type">' + escHtml(ch.realm) + '</span>';
+            }
+            html += '</div>';
+            if (ch.title) {
+                html += '<div class="info-rel-desc">' + escHtml(ch.title) + '</div>';
+            }
+            html += '</div>';
+        }
+
+        // Inter-faction relationships summary
+        var connectedFactions = [];
+        for (var fi = 0; fi < factionEdges.length; fi++) {
+            var fe = factionEdges[fi];
+            if (fe.source === fNode) {
+                connectedFactions.push({ node: fe.target, count: fe.count, color: fe.color, types: fe.types });
+            } else if (fe.target === fNode) {
+                connectedFactions.push({ node: fe.source, count: fe.count, color: fe.color, types: fe.types });
+            }
+        }
+
+        if (connectedFactions.length > 0) {
+            html += '<div class="info-rels-title" style="margin-top:16px;">Quan H\u1EC7 Th\u1EBF L\u1EF1c (' + connectedFactions.length + ')</div>';
+            for (var ci = 0; ci < connectedFactions.length; ci++) {
+                var cf = connectedFactions[ci];
+                html += '<div class="info-rel">';
+                html += '<div class="info-rel-header">';
+                html += '<div class="info-rel-dot" style="background:' + cf.color + '"></div>';
+                html += '<span class="info-rel-name faction-link" data-faction-id="' + cf.node.id + '">' + escHtml(cf.node.name) + '</span>';
+                html += '<span class="info-rel-type">' + cf.count + ' m\u1ED1i</span>';
+                html += '</div>';
+                html += '</div>';
+            }
+        }
+
+        infoContent.innerHTML = html;
+        infoPanel.classList.add('open');
+
+        // Click handlers: member links switch to character view
+        var memberLinks = infoContent.querySelectorAll('.faction-member-link');
+        for (var ml = 0; ml < memberLinks.length; ml++) {
+            memberLinks[ml].addEventListener('click', function() {
+                var charId = this.getAttribute('data-char-id');
+                if (nodeMap[charId]) {
+                    switchToCharacterView();
+                    selectNode(nodeMap[charId]);
+                    cam.x = nodeMap[charId].x;
+                    cam.y = nodeMap[charId].y;
+                }
+            });
+        }
+
+        // Click handlers: faction links navigate to that faction
+        var factionLinks = infoContent.querySelectorAll('.faction-link');
+        for (var fl = 0; fl < factionLinks.length; fl++) {
+            factionLinks[fl].addEventListener('click', function() {
+                var factionId = this.getAttribute('data-faction-id');
+                if (factionNodeMap[factionId]) {
+                    selectFactionNode(factionNodeMap[factionId]);
+                    cam.x = factionNodeMap[factionId].x;
+                    cam.y = factionNodeMap[factionId].y;
+                }
+            });
+        }
+    }
+
     document.getElementById('info-close').addEventListener('click', function() {
         deselectNode();
     });
@@ -1498,14 +2030,27 @@
         var q = normalizeStr(this.value.trim().toLowerCase());
         searchActive = q.length > 0;
 
-        for (var i = 0; i < nodes.length; i++) {
-            if (searchActive) {
-                var name = normalizeStr(nodes[i].character.name.toLowerCase());
-                var faction = normalizeStr((nodes[i].character.faction || '').toLowerCase());
-                var title = normalizeStr((nodes[i].character.title || '').toLowerCase());
-                nodes[i].dimmed = !(name.indexOf(q) >= 0 || faction.indexOf(q) >= 0 || title.indexOf(q) >= 0);
-            } else {
-                nodes[i].dimmed = false;
+        if (viewMode === 'faction') {
+            // Search faction names in faction mode
+            for (var i = 0; i < factionNodes.length; i++) {
+                if (searchActive) {
+                    var fName = normalizeStr(factionNodes[i].name.toLowerCase());
+                    var fRegion = normalizeStr((factionNodes[i].region || '').toLowerCase());
+                    factionNodes[i].dimmed = !(fName.indexOf(q) >= 0 || fRegion.indexOf(q) >= 0);
+                } else {
+                    factionNodes[i].dimmed = false;
+                }
+            }
+        } else {
+            for (var i = 0; i < nodes.length; i++) {
+                if (searchActive) {
+                    var name = normalizeStr(nodes[i].character.name.toLowerCase());
+                    var faction = normalizeStr((nodes[i].character.faction || '').toLowerCase());
+                    var title = normalizeStr((nodes[i].character.title || '').toLowerCase());
+                    nodes[i].dimmed = !(name.indexOf(q) >= 0 || faction.indexOf(q) >= 0 || title.indexOf(q) >= 0);
+                } else {
+                    nodes[i].dimmed = false;
+                }
             }
         }
     });
@@ -1574,6 +2119,14 @@
             var normRegion = normalizeStr(nd.character.region);
             nd.visible = activeRegions[normRegion] !== false;
         }
+        // Also update faction node visibility based on region
+        for (var j = 0; j < factionNodes.length; j++) {
+            var fn = factionNodes[j];
+            var fnRegion = normalizeStr(fn.region);
+            fn.visible = activeRegions[fnRegion] !== false;
+            // If region is empty or unknown, keep visible
+            if (!fnRegion) fn.visible = true;
+        }
     }
 
     // ─── Legend ───
@@ -1595,6 +2148,95 @@
         document.documentElement.setAttribute('data-theme', t);
         localStorage.setItem('co-nguyen-theme', t);
     });
+
+    // ─── Mode toggle ───
+    var modeToggle = document.getElementById('mode-toggle');
+    modeToggle.addEventListener('click', function(e) {
+        if (e.target.classList.contains('mode-btn') && !e.target.classList.contains('active')) {
+            var newMode = e.target.getAttribute('data-mode');
+            var btns = modeToggle.querySelectorAll('.mode-btn');
+            for (var bi = 0; bi < btns.length; bi++) {
+                btns[bi].classList.remove('active');
+            }
+            e.target.classList.add('active');
+
+            if (newMode === 'faction') {
+                switchToFactionView();
+            } else {
+                switchToCharacterView();
+            }
+        }
+    });
+
+    function switchToFactionView() {
+        if (viewMode === 'faction') return;
+        viewMode = 'faction';
+        deselectNode();
+
+        // Build/rebuild faction graph
+        buildFactionGraph();
+
+        // Update search placeholder
+        searchBox.placeholder = 'T\u00ean th\u1EBF l\u1EF1c...';
+        searchBox.value = '';
+        searchActive = false;
+        for (var i = 0; i < factionNodes.length; i++) {
+            factionNodes[i].dimmed = false;
+        }
+
+        // Update faction visibility based on region filters
+        updateNodeVisibility();
+
+        // Reheat simulation
+        simCooling = 1.0;
+        simIterations = 0;
+
+        // Fit view after settling
+        setTimeout(function() { fitView(); }, 200);
+        setTimeout(function() { fitView(); }, 1500);
+
+        // Update mode toggle buttons
+        var btns = modeToggle.querySelectorAll('.mode-btn');
+        for (var bi = 0; bi < btns.length; bi++) {
+            btns[bi].classList.remove('active');
+            if (btns[bi].getAttribute('data-mode') === 'faction') {
+                btns[bi].classList.add('active');
+            }
+        }
+    }
+
+    function switchToCharacterView() {
+        if (viewMode === 'character') return;
+        viewMode = 'character';
+        deselectNode();
+
+        // Update search placeholder
+        searchBox.placeholder = 'T\u00ean nh\u00E2n v\u1EADt...';
+        searchBox.value = '';
+        searchActive = false;
+        for (var i = 0; i < nodes.length; i++) {
+            nodes[i].dimmed = false;
+        }
+
+        // Update visibility
+        updateNodeVisibility();
+
+        // Reheat simulation briefly to re-settle
+        simCooling = Math.max(simCooling, 0.5);
+        simIterations = Math.min(simIterations, maxIterations - 200);
+
+        // Fit view
+        setTimeout(function() { fitView(); }, 200);
+
+        // Update mode toggle buttons
+        var btns = modeToggle.querySelectorAll('.mode-btn');
+        for (var bi = 0; bi < btns.length; bi++) {
+            btns[bi].classList.remove('active');
+            if (btns[bi].getAttribute('data-mode') === 'character') {
+                btns[bi].classList.add('active');
+            }
+        }
+    }
 
     // ─── Sidebar toggle ───
     var sidebar = document.getElementById('sidebar');
@@ -1620,14 +2262,25 @@
     // ─── Stats bar ───
     var statsBar = document.getElementById('stats-bar');
     function updateStats() {
-        var visibleNodes = 0;
-        for (var i = 0; i < nodes.length; i++) {
-            if (nodes[i].visible) visibleNodes++;
+        if (viewMode === 'faction') {
+            var visibleFactions = 0;
+            for (var j = 0; j < factionNodes.length; j++) {
+                if (factionNodes[j].visible) visibleFactions++;
+            }
+            statsBar.innerHTML =
+                '<span>Th\u1EBF l\u1EF1c: ' + visibleFactions + '/' + factionNodes.length + '</span>' +
+                '<span>Li\u00EAn k\u1EBFt: ' + factionEdges.length + '</span>' +
+                '<span>Zoom: ' + (cam.zoom * 100).toFixed(0) + '%</span>';
+        } else {
+            var visibleNodes = 0;
+            for (var i = 0; i < nodes.length; i++) {
+                if (nodes[i].visible) visibleNodes++;
+            }
+            statsBar.innerHTML =
+                '<span>Nh\u00E2n v\u1EADt: ' + visibleNodes + '/' + nodes.length + '</span>' +
+                '<span>Li\u00EAn h\u1EC7: ' + edges.length + '</span>' +
+                '<span>Zoom: ' + (cam.zoom * 100).toFixed(0) + '%</span>';
         }
-        statsBar.innerHTML =
-            '<span>Nhân vật: ' + visibleNodes + '/' + nodes.length + '</span>' +
-            '<span>Liên hệ: ' + edges.length + '</span>' +
-            '<span>Zoom: ' + (cam.zoom * 100).toFixed(0) + '%</span>';
     }
 
     // ─── Ambient particles ───
@@ -1673,16 +2326,19 @@
 
     // Auto-fit initial view
     function fitView() {
-        if (nodes.length === 0) return;
+        var targetNodes = viewMode === 'faction' ? factionNodes : nodes;
+        if (targetNodes.length === 0) return;
         var minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
-        for (var i = 0; i < nodes.length; i++) {
-            if (nodes[i].x < minX) minX = nodes[i].x;
-            if (nodes[i].x > maxX) maxX = nodes[i].x;
-            if (nodes[i].y < minY) minY = nodes[i].y;
-            if (nodes[i].y > maxY) maxY = nodes[i].y;
+        for (var i = 0; i < targetNodes.length; i++) {
+            if (!targetNodes[i].visible) continue;
+            if (targetNodes[i].x < minX) minX = targetNodes[i].x;
+            if (targetNodes[i].x > maxX) maxX = targetNodes[i].x;
+            if (targetNodes[i].y < minY) minY = targetNodes[i].y;
+            if (targetNodes[i].y > maxY) maxY = targetNodes[i].y;
         }
-        var rangeX = maxX - minX + 100;
-        var rangeY = maxY - minY + 100;
+        if (minX === Infinity) return; // no visible nodes
+        var rangeX = maxX - minX + 200;
+        var rangeY = maxY - minY + 200;
         cam.x = (minX + maxX) / 2;
         cam.y = (minY + maxY) / 2;
         targetZoom = Math.min(W / rangeX, H / rangeY, 1.5);
