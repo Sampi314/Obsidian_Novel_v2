@@ -63,6 +63,42 @@ arcs:
           tin: 100
           so: 0
           on: 80
+      - character: Giao Hàn Sương Lệ
+        description: Liên lạc viên, đứa trẻ mà mình dạy bơi lén, giờ đã trở thành đôi mắt duy nhất nhìn ra ngoài
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 15
+          tin: 55
+          so: 0
+          on: 0
+      - character: Giao Khổ Hải
+        description: Thợ dệt già, người cùng thế hệ dù trẻ hơn, kẻ duy nhất hiểu nỗi mệt mỏi của mình
+        feelings:
+          yeu: 35
+          han: 0
+          kinh: 0
+          tin: 50
+          so: 0
+          on: 0
+      - character: Giao Tàn Ty
+        description: Thợ dệt thâm niên, người giữ nghề truyền thống bên cạnh mình trên khung dệt
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 10
+          tin: 50
+          so: 0
+          on: 0
+      - character: Giao Vô Danh
+        description: Thằng nhỏ bị tước tên, tai mắt thầm lặng mà mình kể chuyện quá khứ cho nghe
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 5
+          tin: 40
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: GIAO BẠCH PHÁT (鲛白髮)
