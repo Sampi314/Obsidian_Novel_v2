@@ -63,10 +63,15 @@ Tính cách trầm mặc, ít giao tiếp với tộc nhân, dành phần lớn 
 Tu luyện *Huyết Tịnh Phân Giải Pháp* (血淨分解法) — pháp môn cho phép Huyết Tịnh phân tích bất kỳ loại độc tố nào ở cấp vi mô, tách chúng thành các thành phần cơ bản rồi chuyển hóa thành dưỡng chất nuôi thảm nấm. Chiêu thức *Huyết Phân Vạn Tích* (血分萬析) tạo ra một trường phân giải bán kính ba trượng, bất kỳ chất độc nào trong phạm vi đều bị hút về phía hắn và xử lý. Trong tình huống chiến đấu, hắn có thể đảo ngược quá trình — phun ngược độc tố đã tích lũy dưới dạng sương mù độc cực đặc bằng *Huyết Phản Độc Vụ* (血反毒霧), nhưng điều này tổn hại nghiêm trọng đến thân thể vì phải tống hết tạp chất đã tích tụ ra ngoài cùng lúc.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bào Hồng Tán:** Tộc Trưởng, người giao cho hắn nhiệm vụ nguy hiểm nhất — nghiên cứu Huyết Thần Độc của Vạn Độc Môn. Huyết Tịnh cảm kích sự tin tưởng nhưng cũng biết mình đang đi trên lưỡi dao.
-- **Bào Ngọc Quang:** Dược Sư trẻ tuổi, thường xuyên mang mẫu nấm dược liệu đến để cùng Huyết Tịnh thử nghiệm phương pháp giải độc mới. Hai người tranh cãi không ngừng nhưng tôn trọng nhau sâu sắc.
-- **Bào Tịnh Hóa:** Tịnh Hóa Sư cùng chuyên ngành thanh lọc nhưng khác phương pháp. Huyết Tịnh phân tích bằng trí tuệ, Tịnh Hóa dùng cơ thể hấp thụ trực tiếp. Hắn ngầm lo lắng rằng cách làm của Tịnh Hóa quá mạo hiểm.
-
+- **Bào Hồng Tán** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Hồng Tán** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Bào Hồng Tán
+- **Bào Thiên Biến Hoa** (Đồng minh): Chuyên gia huyết độc, đồng minh nghiên cứu quan trọng trong việc tìm hiểu cách thích nghi với Huyết Thần Độc
+- **Bào Tịnh Hóa** (Đồng minh): Chuyên gia huyết độc, đồng nghiệp cùng lĩnh vực nhưng phương pháp đối lập — nàng dùng thân hấp thụ, hắn dùng trí phân tích
+- **Bào Thiên Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Thiên Tán Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Vạn Căn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Ngọc Quang** (Đồng minh): Chuyên Gia Huyết Độc và Dược Sư, hợp tác nghiên cứu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Bào Huyết Tịnh nảy mầm ngay tại rìa vùng ô nhiễm nặng nhất của Rừng Huyết Độc, nơi đất đã biến thành bùn đen và linh lực hoàn toàn bị độc tố thay thế. Điều kỳ lạ là thay vì chết đi như hàng vạn bào tử khác, Huyết Tịnh lại hấp thụ được huyết độc và chuyển hóa nó thành năng lượng tu luyện. Hồng Tán phát hiện hắn khi mạng sợi nấm ngầm truyền về tín hiệu bất thường — một cá thể nấm đơn độc đang sống khỏe mạnh ở nơi mà không ai có thể tồn tại.
 

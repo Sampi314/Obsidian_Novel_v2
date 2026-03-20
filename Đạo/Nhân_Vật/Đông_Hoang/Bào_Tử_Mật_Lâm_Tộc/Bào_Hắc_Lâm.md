@@ -63,10 +63,14 @@ Tính cách cẩn thận đến mức gần như hoang tưởng — Hắc Lâm l
 Tu luyện *Ám Bào Tiềm Hành Thuật* (暗孢潛行術) — thuật ẩn thân cho phép Hắc Lâm biến mình thành một phần của bóng tối, hấp thụ và phản xạ ánh sáng xung quanh đến mức ngay cả thần thức Trúc Cơ cũng khó phát hiện. Khi cần, nàng phóng ra *Hắc Ti Thám Tức* (黑絲探息) — hàng trăm sợi tơ đen vô hình phủ kín một khu vực, mỗi sợi hoạt động như một giác quan nhạy bén, truyền về thông tin chi tiết về số lượng, tu vi và vị trí của kẻ thù. Trong chiến đấu trực diện, Hắc Lâm gần như vô dụng — thân thể quá nhỏ bé và mong manh. Thế mạnh duy nhất là khả năng bỏ trốn gần như tuyệt đối, chưa từng bị bắt trong suốt hàng trăm năm trinh sát.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bào Hồng Tán:** Tộc Trưởng, người duy nhất biết toàn bộ lộ trình tuần tra bí mật của Hắc Lâm. Nàng sẵn sàng chết vì Hồng Tán mà không cần lý do.
-- **Bào Lục Quang Thiên:** Đối tác trinh sát lý tưởng — Quang Thiên soi sáng, Hắc Lâm ẩn trong bóng tối phía sau. Hai người phối hợp ăn ý đến mức tộc nhân gọi họ là "Nhật Nguyệt Song Thám".
-- **Bào Thiên Phong:** Phát Tán Sư thường dùng gió đưa bào tử trinh sát của Hắc Lâm đi xa hơn tầm sợi tơ, mở rộng phạm vi giám sát.
-
+- **Bào Hồng Tán** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Hồng Tán** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Bào Hồng Tán
+- **Bào Lục Quang Thiên** (Đồng minh): Đối tác trinh sát, một sáng một tối, nhau như hai mặt của đồng tiền
+- **Bào Thiên Phong** (Đồng minh): Trinh sát, đồng đội thường xuyên phối hợp — Hắc Lâm dò đường, Thiên Phong phát tán bào tử theo hướng an toàn
+- **Bào Tịnh Hóa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Ngọc Quang** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Thâm Thổ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hắc Lâm nảy mầm tại rìa ngoài cùng của thảm nấm, nơi tiếp giáp với vùng đất bị Vạn Độc Môn tàn phá nặng nề nhất. Từ khoảnh khắc mọc lên, nàng đã sống trong bóng tối và nguy hiểm — xung quanh đầy rẫy cổ trùng, rết độc và tàn dư linh lực ô nhiễm. Môi trường khắc nghiệt ấy rèn giũa bản năng sinh tồn phi thường, biến nàng thành trinh sát giỏi nhất tộc ngay từ khi chưa khai mở linh trí đầy đủ.
 

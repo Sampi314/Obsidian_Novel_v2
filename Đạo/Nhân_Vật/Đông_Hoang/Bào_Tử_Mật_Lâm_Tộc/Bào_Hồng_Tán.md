@@ -74,11 +74,28 @@ Tính cách trầm ổn, nhẫn nại vô biên như chính mạng sợi nấm n
 Tu luyện *Hồng Tán Địa Mạch Quyết* (紅傘地脈訣) — công pháp cho phép Hồng Tán kết nối trực tiếp với địa mạch thông qua mạng sợi nấm ngầm, cảm nhận mọi rung động trong phạm vi mười dặm, từ bước chân của côn trùng đến dòng chảy của linh lực ô nhiễm. Tuyệt chiêu *Hồng Vụ Hộ Lâm* (紅霧護林) phát tán một vùng sương đỏ rộng lớn, khiến kẻ xâm nhập rơi vào trạng thái mê loạn, ảo giác liên hoàn; nặng thì mất phương hướng suốt ba ngày, nhẹ thì buồn nôn không ngừng. Sở trường của Hồng Tán nằm ở khả năng kiểm soát chiến trường quy mô lớn — toàn bộ thảm nấm trong lãnh thổ đều là vũ khí của nàng. Nhược điểm lớn nhất là thể chất cực kỳ mong manh, một đòn đánh trực diện từ tu sĩ Luyện Khí cũng đủ khiến nàng trọng thương.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Bào Thiên Biến Hoa:** Phó tộc trưởng, cánh tay phải đáng tin cậy nhất. Hai người bổ sung cho nhau hoàn hảo — Hồng Tán lo chiến lược tổng thể, Biến Hoa lo tiến hóa và thích nghi.
-- **Bào Độc Vương:** Hộ Pháp trung thành, lá chắn duy nhất của tộc. Hồng Tán coi Độc Vương như thanh kiếm trong tay — sắc bén nhưng cần kiềm chế kẻo tự thương.
-- **Bào Huyết Tịnh:** Chuyên gia huyết độc. Hồng Tán kính trọng tri thức của Huyết Tịnh nhưng luôn lo lắng rằng việc tiếp xúc quá nhiều huyết độc sẽ ảnh hưởng đến thần trí.
-- **Bào Vạn Căn:** Hậu bối có tiềm năng kế thừa mạng sợi nấm, Hồng Tán âm thầm bồi dưỡng mà chưa nói rõ ý định.
-
+- **Bào Thiên Biến Hoa** (Thủ lĩnh): Tộc Trưởng, cấp trên trực tiếp và người nàng kính trọng nhất, đồng thời là người giao cho nàng trọng trách nghiên cứu tiến hóa
+- **Bào Độc Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Huyết Tịnh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Thiên Phong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Tịnh Hóa** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Hắc Lâm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Lục Quang Thiên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Ngọc Quang** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Thâm Thổ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Thiên Tán Hoa** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Vạn Căn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Huyết Tịnh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Bào Hồng Tán
+- **Bào Hắc Lâm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Bào Hồng Tán
+- **Bào Ngọc Quang** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Bào Hồng Tán
+- **Bào Thâm Thổ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Bào Hồng Tán
+- **Bào Thiên Tán Hoa** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Bào Hồng Tán
+- **Bào Vạn Căn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Bào Hồng Tán
+- **Bào Lục Quang Thiên** (Gia đình): Tộc Trưởng, người đã giao cho nàng nhiệm vụ soi sáng con đường cho cả tộc
+- **Bào Thiên Phong** (Đồng minh): Tộc Trưởng, người giao nhiệm vụ mở rộng lãnh thổ bào tử ra vùng đất mới
+- **Bào Tịnh Hóa** (Đồng minh): Tộc Trưởng, người giao cho nàng nhiệm vụ thanh lọc vùng đất ô nhiễm nặng nhất
+- **Nấm Thiên Căn** (Đồng minh): Mạng Lưới Chủ Nấm và Tộc Trưởng Bào Tử, cộng sinh phát triển
+- **Khuẩn Kim Quang** (Đồng minh): Tộc Trưởng Bào Tử và Viện Trưởng Khuẩn, hợp tác nghiên cứu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Bào Hồng Tán nảy mầm từ Tổ Nấm Nguyên Thủy — nơi giao thoa địa mạch sâu nhất dưới Rừng Huyết Độc — trong thời kỳ Đại Dịch Huyết Độc đầu tiên tàn phá rừng già, khi phần lớn quần thể nấm bị diệt vong. Nàng là một trong số ít bào tử sống sót nhờ hấp thụ được tàn dư linh lực của Nấm Nguyên Thủy, từ đó khai mở linh trí. Sau hàng trăm năm âm thầm mở rộng mạng sợi, Hồng Tán dần kết nối được với mọi tộc nhân còn sót lại, trở thành trung tâm thần kinh của toàn tộc và được tôn làm Tộc Trưởng không qua bầu chọn mà qua sự thừa nhận tự nhiên.
 
