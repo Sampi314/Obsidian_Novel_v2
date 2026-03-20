@@ -63,9 +63,13 @@ Cảnh Tiểu Minh là một thanh niên tuấn tú với mái tóc đen nhánh 
 Cảnh Tiểu Minh tu luyện Thiên Nhãn Thông (天眼通), nhưng đã tự biến đổi nó từ thuật thấu thị thụ động thành một phong cách chiến đấu chủ động — dùng năng lực nhìn thấu điểm yếu của đối phương để tung ra những đòn tấn công chính xác chí mạng. Chiêu thức sở trường của hắn là "Liệt Quang Trảm" (烈光斬) — tập trung toàn bộ linh lực vào Kính Phiến rồi chém ra một vệt sáng chiết xạ có thể cắt đứt cả trận pháp phòng ngự, cùng với "Bách Kính Phong Tỏa" (百鏡封鎖) — triệu hồi hàng trăm mảnh gương nhỏ bao vây đối thủ, mỗi mảnh đều phản chiếu và khuếch đại đòn tấn công. Điểm yếu lớn nhất của hắn là thiếu kiên nhẫn trong trường kỳ chiến và dễ bị khiêu khích, dẫn đến lộ sơ hở.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Cảnh Thiên Minh** (Đồng minh): Cháu trai duy nhất, kỳ vọng sẽ kế thừa Kính Đài nhưng lo lắng tính khí nóng nảy của hắn
+- **Hà Quan Tinh** (Kình địch): Đồng liêu cùng chức vụ, đối thủ cạnh tranh lành mạnh nhưng tính cách trái ngược
+- **Triệu Kính Vệ** (Đồng minh): Thống Lĩnh Kính Vệ nghiêm khắc, người thường xuyên mắng hắn vì hành xử bốc đồng
+- **Lý Thư** (Sư đồ): Cảnh Tiểu Minh dẫn dắt Lý Thư trong Thiên Môn Kính Đài
+- **Sử Thiên Thư** (Chủ tớ): Cảnh Tiểu Minh quản lý Sử Thiên Thư trong Thiên Môn Kính Đài
 - **Cảnh Thiên Minh:** Ông nội ruột kiêm sư phụ. Hắn vô cùng kính trọng ông nhưng ngày càng bất đồng quan điểm về lập trường "chỉ quan sát, không can thiệp" của Kính Đài, cảm thấy ngột ngạt dưới cái bóng quá lớn của dòng họ Cảnh.
 - **Hà Quan Tinh:** Đồng liêu cùng giữ chức Chấp Pháp Trưởng Sứ. Hai người thường xuyên tranh luận — Tiểu Minh hành động, Quan Tinh suy tư — nhưng trong nhiệm vụ lại phối hợp ăn ý đến bất ngờ.
 - **Triệu Kính Vệ:** Thống Lĩnh Kính Vệ, người hay mắng hắn "làm mất mặt dòng họ Cảnh" mỗi khi hắn hành xử bốc đồng. Hắn vừa bực bội vừa ngầm thừa nhận lão nói đúng.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Cảnh Tiểu Minh sinh ra trong chính Kính Đài, là cháu nội duy nhất của Đài Chủ Cảnh Thiên Minh — cha hắn, Cảnh Thiên Quang, đã tử nạn khi ghi chép một trận chiến tông môn cấm địa vì cố giữ lập trường trung lập giữa hai bên giao chiến. Cái chết của cha đã gieo vào lòng Tiểu Minh một mâu thuẫn sâu sắc: hắn tôn trọng nguyên tắc trung lập của Kính Đài, nhưng căm ghét sự bất lực của nó — nếu cha hắn được phép tự vệ thay vì chỉ quan sát, có lẽ ông đã không chết. Từ nhỏ hắn đã tu luyện mãnh liệt, đột phá Kim Đan năm hai mươi lăm tuổi, nhanh nhất trong lịch sử gần đây của Kính Đài, và tự nguyện nhận chức Chấp Pháp Trưởng Sứ — vị trí thực thi kỷ luật duy nhất cho phép "hành động" thay vì chỉ quan sát. Mục tiêu của hắn không chỉ là bảo vệ Kính Đài, mà là chứng minh rằng sự thật cần có sức mạnh để bảo vệ chính nó.

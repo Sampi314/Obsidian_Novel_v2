@@ -32,9 +32,8 @@ Trung niên vạm vỡ, khuôn mặt vuông vức đầy nghị lực, cơ bắp
 Tu luyện Mãnh Hổ Chiến Quyết — công pháp dương cương chí cường, mỗi đòn đánh mang sức mạnh bạo liệt như mãnh hổ. Kiếm pháp Hổ Khiếu phối hợp thể thuật, chuyên cận chiến áp chế đối thủ bằng sức mạnh thuần túy. Ngoài ra còn tinh thông huấn luyện chiến đấu, đào tạo ra nhiều thế hệ chiến đấu gia cho tu chân giới.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Hạo Nhiên]] — Viện Trưởng, sư phụ kiêm thượng cấp, người mà hắn tuyệt đối tin tưởng.
-- [[Lý Học Hải]] — Phó Viện Trưởng Học Thuật, đồng liêu, hay cãi nhau nhưng tôn trọng lẫn nhau.
-- [[Triệu Phong Vân]] — Chiến Đấu Viện Chủ, đệ tử đắc ý nhất, kế thừa tinh hoa chiến đấu.
-
+- **Triệu Phong Vân** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
+- **Trương Tinh Thần** (Sư đồ): Vương Chiến chỉ dẫn Trương Tinh Thần trong Thiên Kiêu Học Viện
+- **Hạo Nhiên** (Đồng minh): Đồng liêu cùng Thiên Kiêu Học Viện, hỗ trợ lẫn nhau
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ một gia tộc võ tướng, từ nhỏ đã rèn luyện thể xác và chiến đấu. Bái nhập Thiên Kiêu và nhanh chóng thống trị chiến đấu bộ phận, trở thành "Chiến Vương" huyền thoại trong sinh viên. Sau khi tốt nghiệp, được Hạo Nhiên mời ở lại làm giáo sư, rồi thăng chức Phó Viện Trưởng Chiến Đấu. Cùng Lý Học Hải tạo thành bộ đôi "Văn Võ Song Tuyệt" nổi tiếng Thiên Trụ, duy trì sự cân bằng của học viện.
