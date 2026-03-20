@@ -51,6 +51,15 @@ arcs:
           tin: 71
           so: 0
           on: 0
+      - character: Linh Nguyệt Hà
+        description: Trưởng Lão Tế Tư, đồng liêu ít giao tiếp nhưng ông duy trì sự tôn trọng lẫn nhau từ xa
+        feelings:
+          yeu: 22
+          han: 0
+          kinh: 0
+          tin: 25
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NGUYỆT TRẦM (月沈)
@@ -74,6 +83,7 @@ Nguyệt Trầm chuyên về nguyệt quang huyễn thuật và các nghi lễ t
 - **Mộng Yểm:** Trưởng Lão Tế Tư, bạn uống rượu thân thiết, người duy nhất mà ông thoải mái bộc lộ suy nghĩ thật.
 - **Cổ Lan:** Trưởng Lão Tế Tư, đồng liêu mà ông kính nể nhưng không dám thân cận vì sợ bà nhìn thấu bản chất yếu đuối.
 - **Tuyết Nguyệt:** Đại Tư Tế, bề ngoài trung thành nhưng trong lòng bất mãn vì cảm thấy bị đánh giá thấp.
+- **Linh Nguyệt Hà:** Trưởng Lão Tế Tư, đồng liêu ít giao tiếp nhưng ông duy trì sự tôn trọng lẫn nhau từ xa.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyệt Trầm sinh ra trong một gia đình tín đồ bình thường, nhờ tài năng huyễn thuật bẩm sinh mà được chọn vào Tế Tư Viện tu luyện. Suốt nhiều năm ông luôn sống trong bóng của các đồng liêu tài năng hơn, phát triển tâm lý tự ti và thèm khát được công nhận. Sự kiện đánh dấu bước ngoặt là khi Bạch Vọng Nguyệt tiếp cận ông, lần đầu tiên có người coi trọng tài năng của ông. Từ đó Nguyệt Trầm bí mật cung cấp thông tin nội bộ cho Bạch Vọng Nguyệt, không biết rằng mình đang dần trở thành con cờ trong một âm mưu lớn hơn nhiều.
