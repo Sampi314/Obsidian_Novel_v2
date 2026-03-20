@@ -26,7 +26,7 @@ arcs:
     stats: [65, 130, 140, 90, 65, 110]
     relationships:
       - character: Độc Cô Lão Quái
-        description: Sư phụ, vừa kính sợ vừa muốn vượt qua
+        description: Sư phụ kiêm Môn Chủ Vạn Độc Môn, người ban cho tên Vô Tâm và truyền thụ Vạn Độc Phệ Hồn Quyết. Vừa kính sợ sức mạnh Hóa Thần vừa âm thầm tích lũy lực lượng để soán ngôi.
         feelings:
           yeu: -20
           han: 30
@@ -35,7 +35,7 @@ arcs:
           so: 60
           on: -20
       - character: Diệp Tĩnh Sương
-        description: Kẻ thù ám ảnh, muốn bắt làm Độc Nô
+        description: Kiếm tu Băng Linh Căn, kẻ thù ám ảnh. Ghét cay ghét đắng vẻ lạnh lùng cao ngạo của nàng, luôn muốn bắt về làm Độc Nô để khuất phục ý chí kiêu ngạo đó.
         feelings:
           yeu: -30
           han: 80
@@ -44,7 +44,7 @@ arcs:
           so: 0
           on: -100
       - character: Lâm Phong
-        description: Cái gai trong mắt, nhiều lần phá hoại kế hoạch
+        description: Tán tu Mộc hệ, cái gai trong mắt. Nhiều lần phá hoại kế hoạch tại Huyết Độc Rừng Thiêng và Cửu Hoa Kiếm Tông. Kẻ bảo vệ Diệp Tĩnh Sương, cần nhổ bỏ trước khi bắt nàng.
         feelings:
           yeu: -50
           han: 85

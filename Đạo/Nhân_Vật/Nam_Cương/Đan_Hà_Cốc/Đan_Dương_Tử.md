@@ -39,6 +39,15 @@ arcs:
           tin: 60
           so: 0
           on: 30
+      - character: Diệp Thanh Y
+        description: Đồng minh, Cốc Chủ Dược Vương Cốc, thường hợp tác luyện đan dược
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 55
+          tin: 60
+          so: 0
+          on: 25
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐAN DƯƠNG TỬ
@@ -99,5 +108,6 @@ arcs:
 
 ## VIII. QUAN HỆ
 - **Kẻ Thù Truyền Kiếp:** Độc Cô Lão Quái (Vạn Độc Môn).
+- **Đồng Minh:** Diệp Thanh Y (Dược Vương Cốc - Cốc Chủ Dược Vương Cốc, thường nhờ ông luyện các loại đan dược cần hỏa hầu cao, hợp tác chống lại Vạn Độc Môn).
 - **Bằng Hữu:** Lý Tuyết Ưng (Huyền Băng Cung - Dù tính cách trái ngược, một nóng một lạnh, nhưng thường trao đổi đan dược lấy băng ngọc).
 - **Đệ Tử Chân Truyền:** Liễu Như Yên (Đang là Thánh Nữ Đan Hà Cốc).

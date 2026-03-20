@@ -25,6 +25,15 @@ arcs:
           tin: 75
           so: 0
           on: 30
+      - character: Lệ Vô Tâm
+        description: Tà tu Vạn Độc Môn (Thánh Tử), kẻ thù nguy hiểm. Nhiều lần đối đầu khi phá hoại Vạn Độc Huyết Tế Đại Trận tại Rừng Thiêng và bảo vệ Cửu Hoa Kiếm Tông. Hắn luôn đe dọa Tĩnh Sương, là cái ác cần tiêu diệt.
+        feelings:
+          yeu: -40
+          han: 80
+          kinh: -20
+          tin: -85
+          so: 15
+          on: -100
 ---
 
 # HỒ SƠ NHÂN VẬT: Lâm Phong
@@ -59,6 +68,8 @@ arcs:
 - **Arc 4 (Huyết Sát Tại Trung Tâm):** Cùng Diệp Tĩnh Sương đến Cửu Hoa Kiếm Tông. Đụng độ Lục Trần và tham gia bảo vệ ngoại môn trước sự tấn công của Huyết Sát Minh và Lệ Vô Tâm. Nhận ra sự nhỏ bé trước cường giả Hóa Thần và cùng Tĩnh Sương bế quan tu luyện.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Diệp Tĩnh Sương** (Đồng hành): Đồng hành đáng tin cậy, người được bảo vệ vô điều kiện
+- **Lệ Vô Tâm** (Kẻ thù): Tà tu Vạn Độc Môn, nhiều lần đe dọa Tĩnh Sương và phá hoại chính đạo
 - **Cuồng Nham** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Tán Tu
 - **Cuồng Nham** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Cuồng Nham
 - **Hoang Sơn Mặc** (Thuộc hạ): Cùng Tán Tu, quan hệ tổ chức

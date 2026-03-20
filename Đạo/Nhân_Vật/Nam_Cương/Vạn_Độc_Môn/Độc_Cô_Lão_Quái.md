@@ -32,14 +32,23 @@ arcs:
           so: 5
           on: -100
       - character: Lệ Vô Tâm
-        description: Đệ tử
+        description: Đại đệ tử chân truyền (Thánh Tử), kẻ kế thừa y bát. Vừa đánh giá cao tài năng dụng độc vừa đề phòng dã tâm soán ngôi. Coi hắn như con cờ lợi dụng hơn là đệ tử thực sự.
         feelings:
           yeu: -10
-          han: 0
+          han: 10
           kinh: 30
           tin: -40
           so: 0
           on: 0
+      - character: Diệp Thanh Y
+        description: Kẻ thù, Cốc Chủ Dược Vương Cốc, khắc tinh của độc dược
+        feelings:
+          yeu: -70
+          han: 75
+          kinh: -25
+          tin: -85
+          so: 5
+          on: -100
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐỘC CÔ LÃO QUÁI
@@ -99,5 +108,7 @@ arcs:
 
 ## VIII. QUAN HỆ
 - **Kẻ Thù Không Đội Trời Chung:** Đan Dương Tử (Đan Hà Cốc - Miếng mồi ngon nhất trong mắt hắn).
+- **Kẻ Thù:** Diệp Thanh Y (Dược Vương Cốc - Cốc Chủ Dược Vương Cốc, khắc tinh của độc dược, luôn tìm cách hóa giải các âm mưu phát tán độc của Vạn Độc Môn).
 - **Đồng Minh Lợi Ích:** Huyết Ma Tông Chủ (Hợp tác trao đổi tài nguyên ma đạo).
+- **Đại Đệ Tử:** Lệ Vô Tâm (Thánh Tử - Kẻ kế thừa y bát, vừa đánh giá cao tài năng vừa đề phòng dã tâm soán ngôi. Coi hắn như con cờ lợi dụng).
 - **Con Rối:** Đa số đệ tử dưới quyền đều bị hắn hạ "Trung Tâm Cổ" để kiểm soát sự trung thành.

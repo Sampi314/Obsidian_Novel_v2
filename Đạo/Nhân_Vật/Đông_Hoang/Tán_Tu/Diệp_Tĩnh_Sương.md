@@ -26,6 +26,15 @@ arcs:
           tin: 85
           so: 5
           on: 95
+      - character: Lệ Vô Tâm
+        description: Tà tu Vạn Độc Môn, kẻ muốn bắt nàng làm Độc Nô. Đại diện cho sự tàn ác của ma đạo mà nàng căm ghét.
+        feelings:
+          yeu: -60
+          han: 70
+          kinh: -20
+          tin: -85
+          so: 40
+          on: -90
   - arc: 5
     status: Còn Sống
     cultivation: Trúc Cơ Sơ Kỳ
@@ -96,5 +105,6 @@ arcs:
 ## QUAN HỆ
 - **Gia Đình:** Cha mẹ (đã mất).
 - **Sư Phụ:** Cổ Kiếm Mạc (Tán tu - đã mất).
+- **Đồng Hành:** Lâm Phong (Tán tu - Bạn đồng hành đáng tin cậy, luôn bảo vệ nàng vô điều kiện).
 - **Kẻ Thù:** Huyết Sát Minh (Tổ chức tà đạo).
-- **Bạn Hữu:** Chưa có (do tính cách khép kín).
+- **Kẻ Thù:** Lệ Vô Tâm (Vạn Độc Môn Thánh Tử - Tà tu tàn độc muốn bắt nàng làm Độc Nô, đại diện cho loại ác nhân mà nàng quyết tâm diệt trừ).
