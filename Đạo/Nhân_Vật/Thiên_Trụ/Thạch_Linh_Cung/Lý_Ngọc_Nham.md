@@ -120,19 +120,18 @@ Tình bạn với Hồ Vân — đồng hương Nhân Tộc — là chỗ dựa 
 - **Thiên Hỏa Luyện Kim (天火煉金):** Mức cơ bản — nàng dùng lửa nhỏ để sấy khô mực linh sau khi vẽ, cố định linh văn lên bề mặt.
 
 ## VI. QUAN HỆ
-
+- **Hồ Vân** (Đồng minh): Đệ Cửu Hỏa Sư, bạn đồng hương Nhân Tộc, chị em thân thiết
+- **Thạch Kim Quang** (Sư đồ): Đệ Nhị Hỏa Sư, sư phụ khảm nạm, người tin tưởng và quý nhất
+- **Thạch Linh Quang** (Đồng minh): Đệ Ngũ Hỏa Sư, bạn vong niên, người cùng tạo bộ tranh Bách Cảnh
+- **Trần Phong** (Gia tộc): Đệ Thập Nhất Hỏa Sư, đồng môn Nhân Tộc, em trai tinh thần
 - **Thạch Kim Quang (Sư Phụ):**
     - Kim Quang là người thay đổi cuộc đời nàng — từ họa sĩ bình thường thành Hỏa Sư. Nàng kính trọng sâu sắc và cố gắng không phụ lòng sư phụ. Kim Quang đối xử với nàng kiên nhẫn hơn bất kỳ ai — vì gã nhìn thấy ở nàng thiên phú mà gã muốn nhưng không có: khả năng biến linh văn thành nghệ thuật.
-
 - **Thạch Linh Quang (Bạn Vong Niên):**
     - Hai người hợp tác tạo bộ tranh "Thạch Linh Bách Cảnh" — Linh Quang mô tả bằng lời thế giới mà nàng cảm nhận, Ngọc Nham vẽ thành tranh. Đây là mối quan hệ nghệ thuật sâu sắc — hai kẻ yêu cái đẹp tìm thấy nhau dù khác chủng tộc.
-
 - **Hồ Vân (Đồng Hương):**
     - Bạn thân, chị em tinh thần. Hai nàng chia sẻ mọi thứ — từ nỗi nhớ nhà đến công thức nấu ăn nhân tộc trong hang đá. Vân mạnh mẽ, Nham nhẹ nhàng — bổ sung nhau hoàn hảo.
-
 - **Trần Phong (Đồng Môn):**
     - Em trai tinh thần. Ba người nhân tộc (Nham, Vân, Phong) tạo thành "Nhân Tộc Tam Nhân" — nhóm nhỏ hỗ trợ nhau trong tông môn đá và sắt.
-
 ## VII. GIAI THOẠI
 
 > *"Ngươi bảo linh văn chỉ cần hiệu quả? Vậy sao ngươi thêu hoa trên áo? Vì đẹp. Linh văn cũng cần đẹp — vì khi đẹp, linh khí cũng vui vẻ hơn."*

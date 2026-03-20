@@ -120,19 +120,18 @@ Gã cưới một nữ Lai Cự Tộc trong cung, sinh Sơn Tiểu Thạch — n
 - **Thạch Linh Tâm Chú (石靈心咒):** Phiên bản Lai Cự Tộc — tập trung linh khí phân đều vào hai cánh tay, duy trì sức mạnh cân bằng cho song chùy.
 
 ## VI. QUAN HỆ
-
+- **Sơn Cương** (Đồng minh): Đệ Thất Hỏa Sư, bạn rèn, đối thủ uống rượu, anh em đồng tộc
+- **Thạch Bàn** (Đồng minh): Đệ Lục Hỏa Sư, bạn đồng nghiệp hay nhờ gã khiêng cổ vật
+- **Trần Phong** (Sư đồ): Đệ Thập Nhất Hỏa Sư, đệ tử Nhân Tộc gã dạy kỹ thuật cường lực
+- **Sơn Tiểu Thạch** (Gia tộc): Đệ Thập Nhị Hỏa Sư, con gái, niềm tự hào lớn nhất
 - **Sơn Tiểu Thạch (Con Gái):**
     - Niềm tự hào và lo lắng lớn nhất. Gã vui vì con gái tài năng, lo vì con gái phải chịu áp lực trẻ tuổi đã làm Hỏa Sư. Gã cố không thiên vị trong công việc, nhưng ai cũng biết: nếu ai bắt nạt Tiểu Thạch, gã sẽ đến "nói chuyện" — và khi Mã Thiết Sơn đến "nói chuyện," hai cây búa đi theo.
-
 - **Sơn Cương (Bạn Rèn):**
     - Bạn thân, đối thủ uống rượu, anh em đồng tộc. Hai gã bổ sung nhau: Cương rèn giáp, Thiết Sơn rèn vũ khí — khách hàng đặt cả bộ luôn nhận được sản phẩm hoàn hảo.
-
 - **Trần Phong (Đệ Tử Nhân Tộc):**
     - Gã dạy Trần Phong kỹ thuật cường lực phù hợp cho nhân tộc — không thể dùng sức ngang Lai Cự Tộc, nhưng có thể dùng kỹ thuật đòn bẩy đạt hiệu quả tương đương.
-
 - **Thạch Bàn (Bạn Đồng Nghiệp):**
     - Gã hay giúp Bàn khiêng cổ vật nặng, đổi lại Bàn kể cho gã nghe lịch sử cổ vật — gã thích nghe chuyện dù giả vờ không quan tâm.
-
 ## VII. GIAI THOẠI
 
 > *"Hai tay, hai búa, một nhịp. Đời ta đơn giản thế thôi. Nhưng đơn giản không có nghĩa là dễ."*
