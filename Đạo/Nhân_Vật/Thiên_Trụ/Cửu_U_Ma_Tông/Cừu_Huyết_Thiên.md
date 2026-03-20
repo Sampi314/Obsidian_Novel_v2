@@ -32,9 +32,10 @@ Trung niên dung mạo tuấn mỹ nhưng đáng sợ, da trắng bệch như kh
 Tu luyện Huyết Ma Đại Pháp — hút huyết dịch của tu sĩ khác để tăng cường tu vi và hồi phục thương tích. Có thể biến huyết dịch thành vũ khí, tạo ra huyết kiếm, huyết trận, huyết phong bao phủ chiến trường. Là Huyết Ma Đường Chủ, nắm trong tay hàng nghìn huyết nô — tu sĩ bị cưỡng chế hút huyết biến thành bù nhìn.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Ma Chủ Vô Tên]] — Ma Chủ, đấng tối cao mà hắn tuyệt đối trung thành phục tùng.
-- [[Âm Phong]] — Đệ Nhị Ma Vương, kẻ mà hắn vừa coi thường vừa cảnh giác.
-- [[Cừu Huyết Nhi]] — Con gái, đệ tử chân truyền, hy vọng duy nhất kế thừa Huyết Ma Đường.
-
+- **Bạch Cốt** (Sư đồ): Cừu Huyết Thiên chỉ dẫn Bạch Cốt trong Cửu U Ma Tông
+- **Cừu Huyết Nhi** (Sư đồ): Cừu Huyết Thiên chỉ dẫn Cừu Huyết Nhi trong Cửu U Ma Tông
+- **Ma Chủ Vô Tên** (Đồng minh): Đồng liêu cùng Cửu U Ma Tông, hỗ trợ lẫn nhau
+- **Diệp Huyền Minh** (Sư đồ): Cừu Huyết Thiên chỉ dẫn Diệp Huyền Minh trong Cửu U Ma Tông
+- **Hồn Diệt** (Sư đồ): Cừu Huyết Thiên chỉ dẫn Hồn Diệt trong Cửu U Ma Tông
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ một gia tộc tu chân nhỏ bị diệt môn, Cừu Huyết Thiên là người sống sót duy nhất. Mang thù hận tận xương, hắn tình nguyện tu luyện Huyết Ma Đại Pháp — công pháp bị cấm kỵ nhất tu chân giới. Hắn dùng chính huyết của kẻ diệt gia tộc mình để đột phá, rồi gia nhập Cửu U Ma Tông, nhanh chóng leo lên vị trí Đệ Nhất Ma Vương. Lập Huyết Ma Đường, biến nó thành cỗ máy thu hoạch huyết dịch kinh hoàng nhất ma đạo.
