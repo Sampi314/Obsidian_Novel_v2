@@ -136,6 +136,10 @@ arcs:
     - **Quá tải thông tin:** Ở vùng biển có mật độ tín hiệu cực cao, Ba Hạch Song Tần đôi khi bị "kẹt" — hai tinh thể rung lệch pha nhau, gây ra hiện tượng "sóng đối xung" khiến y tạm thời mất khả năng phát tín hiệu. Hiện tượng này hiếm gặp nhưng nguy hiểm — nếu xảy ra vào lúc khẩn cấp, hậu quả khó lường.
 
 ## VI. QUAN HỆ
+- **Ba Thanh Tần** (Đồng minh): Phó Trưởng Trạm, đồng sự quản lý hạ tầng mà Ba Thanh Tần thường xuyên xung đột về ưu tiên tốc độ và bảo mật
+- **Ba Vạn Lý** (Cấp dưới): Liên Lạc Trưởng và người hướng dẫn, cá thể mà Ba Thiên Lý tuyệt đối phục tùng và đang được đào tạo kế nhiệm
+- **Ba Trầm Lặng** (Đồng minh): Gây nhiễu viên, nhân viên dưới quyền mà Ba Thiên Lý điều phối trong các chiến dịch phòng thủ
+- **Ba Tiểu Sóng** (Đệ tử): Đệ tử phát sóng non nớt, Ba Thiên Lý trực tiếp hướng dẫn và nghiêm khắc rèn giũa
 - **Ba Vạn Lý — Liên Lạc Trưởng & Sư Phụ:**
     - Ba Thiên Lý tôn kính Ba Vạn Lý như kẻ dưới tôn kính bậc trên — không phải vì sợ hãi mà vì ngưỡng mộ chân thành. Y đã chứng kiến Ba Vạn Lý một mình gánh vác mạng lưới qua những thời kỳ khủng hoảng, và y biết rằng mình chưa bao giờ đạt đến tầm nhìn ấy. Khi Ba Vạn Lý bắt đầu giao cho y các nhiệm vụ vượt cấp, y vừa tự hào vừa bất an — y nhận ra đây là quá trình đào tạo kế nhiệm, nhưng không hiểu tại sao lại bắt đầu bây giờ. Y muốn hỏi nhưng không dám — vì Ba Vạn Lý đã nói: *"Đến lúc ngươi sẽ biết."*
     - Nỗi sợ lớn nhất của Ba Thiên Lý là ngày y phải gánh vác mạng lưới mà không có Ba Vạn Lý. Y biết ngày đó sẽ đến — vì không gì tồn tại mãi — nhưng y chưa sẵn sàng, và y biết y chưa sẵn sàng.
@@ -147,7 +151,6 @@ arcs:
     - Ba Thiên Lý điều phối Ba Trầm Lặng trong các chiến dịch phòng thủ — khi mạng lưới cần gây nhiễu để bảo vệ một vùng biển, Trầm Lặng là công cụ thực thi. Tuy nhiên, Thiên Lý luôn bất an vì bản chất công việc của Trầm Lặng — gây nhiễu — đi ngược lại mọi thứ y tin. Y coi nhiễu loạn là kẻ thù, còn Trầm Lặng lại biến nó thành vũ khí.
 - **Ba Tiểu Sóng — Đệ Tử & Nỗi Bực Mình:**
     - Ba Thiên Lý trực tiếp huấn luyện Ba Tiểu Sóng — và đây là nhiệm vụ khiến y bực mình nhất. Tiểu Sóng hay phát sóng lung tung, không theo quy trình, phạm vi phát yếu ớt, và có thói quen "nghịch" tín hiệu thay vì chuyển tiếp nghiêm túc. Thiên Lý muốn uốn nắn Tiểu Sóng thành một nốt mạng kỷ luật, nhưng Tiểu Sóng cứ trượt ra ngoài khuôn phép. Tuy vậy, trong thâm tâm, Thiên Lý thừa nhận rằng sự linh hoạt của Tiểu Sóng đôi khi giải quyết được những vấn đề mà quy trình chuẩn bất lực.
-
 ## VII. GIAI THOẠI
 > *"Eo biển Xích Long không bao giờ mất liên lạc — vì Ba Thiên Lý ở đó. Nếu một ngày eo biển câm lặng, hãy biết rằng Thiên Lý đã không còn."*
 > — Lương Hải Vân, nhà nghiên cứu Hải Thần Cung, ghi chú bên lề bản báo cáo về mạng lưới Vi Ba.
