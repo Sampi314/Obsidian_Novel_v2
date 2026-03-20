@@ -476,3 +476,4 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
 > Đã hoàn thành Task 9 cho 3 nhân vật Thâm Hải Vi Linh (Vô Tận Hải): Linh Áp Lực, Thủy Cổ Ký Ức, Thủy Nhiệt Tuyền.
 > Đã hoàn thành Task 9 cho 3 nhân vật Long Cung (Vô Tận Hải): Minh Trầm Mặc, Minh Uyên, Thanh Hàn Nguyệt.
 > Đã hoàn thành Task 9 cho 3 nhân vật San Hô Thợ Lặn Đội (Tây Mạc): Nguyễn Thủy Tiên, Lê Ngọc Trai, Trần Hải Sâm.
+> Đã hoàn thành Task 9 cho 3 nhân vật Cực Quang Thần Điện (Thiên Trụ): Yến Phi, Yến Tiểu Tiểu, Ưng Liệt Phong.

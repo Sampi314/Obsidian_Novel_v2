@@ -2984,7 +2984,10 @@ if (typeof characters !== 'undefined') {
     characters.push(
         { id: "phuong_tieu", name: "Phượng Tiêu", title: "Vũ Hoàng", realm: "Luyện Hư", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#ffd700" },
         { id: "phuong_thien_duc", name: "Phượng Thiên Dực", title: "Đại Trưởng Lão", realm: "Hóa Thần", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#ff8c00" },
-        { id: "phuong_kim_si", name: "Phượng Kim Sí", title: "Tả Hộ Pháp", realm: "Hóa Thần", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#daa520" }
+        { id: "phuong_kim_si", name: "Phượng Kim Sí", title: "Tả Hộ Pháp", realm: "Hóa Thần", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#daa520" },
+        { id: "yen_phi", name: "Yến Phi", title: "Truyền Tin", realm: "Kim Đan Sơ Kỳ", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#add8e6" },
+        { id: "yen_tieu_tieu", name: "Yến Tiểu Tiểu", title: "Truyền Tin Viên", realm: "Trúc Cơ Hậu Kỳ", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#87cefa" },
+        { id: "ung_liet_phong", name: "Ưng Liệt Phong", title: "Chiến Tướng", realm: "Nguyên Anh Hậu Kỳ", faction: "Cực Quang Thần Điện", region: "Thiên Trụ", role: "supporting", pov: false, avatar_color: "#a9a9a9" }
     );
     relationships.push(
         { source: "phuong_tieu", target: "phuong_thien_duc", type: "Cha / Con", description: "Kỳ vọng cao nhưng luôn phải răn đe bản tính hiếu chiến." },
@@ -2992,7 +2995,13 @@ if (typeof characters !== 'undefined') {
         { source: "phuong_thien_duc", target: "phuong_tieu", type: "Con / Cha", description: "Vừa sùng bái vừa e ngại uy áp thâm trầm của cha." },
         { source: "phuong_thien_duc", target: "phuong_kim_si", type: "Cháu / Thúc", description: "Thường phối hợp càn quét, xem cách thúc thúc giết chóc là nghệ thuật." },
         { source: "phuong_kim_si", target: "phuong_tieu", type: "Đệ / Huynh", description: "Tôn kính tuyệt đối, nguyện làm bàn tay dọn dẹp cản trở cho đại ca." },
-        { source: "phuong_kim_si", target: "phuong_thien_duc", type: "Thúc / Cháu", description: "Hài lòng với sức mạnh nhưng đôi lúc phải dọn hậu quả cho hắn." }
+        { source: "phuong_kim_si", target: "phuong_thien_duc", type: "Thúc / Cháu", description: "Hài lòng với sức mạnh nhưng đôi lúc phải dọn hậu quả cho hắn." },
+        { source: "yen_phi", target: "yen_tieu_tieu", type: "Tỷ / Muội (Nuôi)", description: "Nghiêm khắc nhưng luôn lo lắng, tự tay huấn luyện truyền tin." },
+        { source: "yen_phi", target: "ung_liet_phong", type: "Cấp Dưới / Cấp Trên", description: "Tôn trọng sức mạnh bảo vệ nhưng không ưa tính ồn ào kiêu ngạo." },
+        { source: "yen_tieu_tieu", target: "yen_phi", type: "Muội / Tỷ (Nuôi)", description: "Ngưỡng mộ, muốn học hỏi sự điềm tĩnh của tỷ tỷ nhưng bản tính loi choi." },
+        { source: "yen_tieu_tieu", target: "ung_liet_phong", type: "Cấp Dưới / Cấp Trên", description: "Sợ sệt, e dè trước uy nghiêm của vị chiến tướng này." },
+        { source: "ung_liet_phong", target: "yen_phi", type: "Bảo Hộ", description: "Bảo vệ truyền tin viên trên các tuyến đường nguy hiểm." },
+        { source: "ung_liet_phong", target: "yen_tieu_tieu", type: "Bảo Hộ", description: "Coi thường sự yếu đuối nhưng vẫn hoàn thành nhiệm vụ hộ tống." }
     );
 }
 
