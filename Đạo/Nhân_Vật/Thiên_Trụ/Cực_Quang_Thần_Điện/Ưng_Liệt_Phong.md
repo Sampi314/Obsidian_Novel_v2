@@ -72,7 +72,7 @@ arcs:
           tin: 70
           so: 0
           on: 0
-      - character: Quạ Huyết Dực Ma
+      - character: Quạ Huyết Linh
         description: Sát thủ đội trưởng, đồng cấp — quan hệ lạnh nhạt nhưng tôn trọng năng lực ám sát
         feelings:
           yeu: 0
@@ -110,7 +110,7 @@ arcs:
 - **Khí Chất:**
     - Nóng nảy, thẳng thắn đến mức thô lỗ, nói gì nghĩ nấy không qua bộ lọc. Hắn là kiểu chiến tướng mà binh sĩ vừa sợ vừa yêu — sợ vì hắn đánh thuộc hạ lười biếng không nương tay, yêu vì hắn luôn xung phong đi đầu và không bao giờ để thuộc hạ chết mà mình còn sống.
     - Tiếng cười hắn vang như sấm, hay vỗ vai đồng đội mạnh đến mức suýt gãy xương. Khi hắn xuất hiện, ai cũng biết — không phải vì thấy mà vì nghe. Giọng hắn lớn, dõng dạc, mệnh lệnh chiến trường vang khắp mấy dặm.
-    - Cực kỳ ghét sự lén lút và âm mưu. Hắn coi ám sát là "hành vi của loài chuột" và thường xuyên mâu thuẫn với Quạ Huyết Dực Ma vì điều này. Trong mắt hắn, kẻ mạnh phải đánh trực diện, đối mặt kẻ thù — không phải đâm sau lưng.
+    - Cực kỳ ghét sự lén lút và âm mưu. Hắn coi ám sát là "hành vi của loài chuột" và thường xuyên mâu thuẫn với Quạ Huyết Linh vì điều này. Trong mắt hắn, kẻ mạnh phải đánh trực diện, đối mặt kẻ thù — không phải đâm sau lưng.
 
 ## III. TÍNH CÁCH & ĐẠO TÂM
 - **Tính Cách:**
@@ -165,7 +165,7 @@ arcs:
     - Hai chiến tướng cùng cấp, cùng hiếu chiến, và cùng muốn xung phong đi đầu — dẫn đến tranh cãi bất tận về ai được quyền tấn công đầu tiên. Họ đã cãi nhau to đến mức phải ra tay "so kiếm" trước mặt binh sĩ hai lần — cả hai lần đều bất phân thắng bại. Tuy nhiên, trên chiến trường thật sự, hai người phối hợp xuất sắc — Vạn Lý tấn công trên không tốc độ cao, Liệt Phong phá giáp trực diện — tạo thành cặp đôi tấn công đáng sợ nhất Hiệp Sĩ Băng Lăng.
 - **Phượng Thiên Dực — Thượng Cấp Gây Bức Xúc:**
     - Liệt Phong kính phục sức mạnh Hóa Thần Đỉnh Phong của Thiên Dực nhưng ghét thái độ kiêu ngạo coi thường mọi người. Đặc biệt, câu nói *"Đừng chết ngu như cha"* mà Thiên Dực nói khi trao chức đã trở thành cái gai trong lòng hắn suốt gần năm mươi năm — hắn không thể phản bác vì Thiên Dực nói đúng (cha hắn chết vì xung phong thiếu chuẩn bị), nhưng cũng không thể tha thứ cho sự thiếu tôn trọng.
-- **Quạ Huyết Dực Ma — Kẻ Hắn Không Ưa Nhưng Nể:**
+- **Quạ Huyết Linh — Kẻ Hắn Không Ưa Nhưng Nể:**
     - Liệt Phong coi phong cách ám sát là hèn nhát — kẻ mạnh phải đánh trực diện. Nhưng hắn cũng thừa nhận rằng những nhiệm vụ Huyết Dực Ma hoàn thành — ám sát, thanh trừng — là những việc hắn không thể và không muốn làm. Hai người hiếm khi nói chuyện, nhưng khi phối hợp trong chiến dịch (Liệt Phong hút chú ý, Huyết Dực Ma đánh lén), kết quả luôn hiệu quả.
 - **Ưng Phá Thiên & Ưng Phong Nhận — Thuộc Hạ Yêu Quý:**
     - Hai chiến sĩ trẻ dưới quyền hắn — Phá Thiên xung kích, Phong Nhận ám khí. Hắn huấn luyện cả hai nghiêm khắc nhưng công bằng, coi chúng như đàn em trong gia tộc. Hắn đặc biệt thích Phá Thiên vì thằng nhóc có cùng lối đánh liều lĩnh như hắn thời trẻ — nhưng cũng lo lắng vì biết sự liều lĩnh ấy dễ dẫn đến cái chết sớm.

@@ -1,7 +1,7 @@
 ---
 type: character
-name: Hạc Băng Lông
-hantu: 鶴冰翎
+name: Hạc Băng Ngọc
+hantu: 鹤冰玉
 archetype: Dệt Sư
 race: Vũ Tộc
 dao_tam: Sợi tơ kết nối, y phục che chở
@@ -55,10 +55,10 @@ arcs:
           on: 0
 ---
 
-# HỒ SƠ NHÂN VẬT: HẠC BĂNG LÔNG (鶴冰翎)
+# HỒ SƠ NHÂN VẬT: HẠC BĂNG NGỌC (鹤冰玉)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Tên:** Hạc Băng Lông (鶴冰翎).
+- **Tên:** Hạc Băng Ngọc (鹤冰玉).
 - **Biệt Danh:** "Tuyết Khâu" (雪裘) — dân Vũ Tộc Lưu Dân Trại gọi nàng như vậy vì mỗi chiếc áo nàng dệt đều ấm như khoác tấm lông hồ tuyết, dù chỉ bằng lông vũ rụng rẻ mạt.
 - **Tuổi:** 45 tuổi (trung niên theo tuổi thọ tu sĩ Trúc Cơ).
 - **Chủng Tộc:** Vũ Tộc (Hạc) — thuộc phân chi Băng Hạc, giống hạc trắng lông dày sống ở vùng Bắc Băng, nổi tiếng với bộ lông mịn và ấm bậc nhất trong các loài Vũ Tộc.
@@ -90,28 +90,28 @@ arcs:
     - **Tội Lỗi Giấu Kín (悔):** Vết bỏng trên tay không khiến nàng hối hận — nhưng ký ức về những gia nô mà nàng không cứu được thì có. Khi nàng bị trục xuất khỏi Vũ Hoàng Các, những gia nô nhận áo của nàng cũng bị liên lụy — bị thu hồi áo ấm, bị phạt lao động nặng, có người chết rét mùa đông năm đó. Nàng mang theo tội lỗi ấy — dù nàng biết lỗi không ở nàng mà ở hệ thống bất công, nhưng hậu quả là có thật, và nàng không quên.
     - **Nhẫn Nại Vô Hạn (忍):** Dệt vải là nghề đòi hỏi kiên nhẫn đến giới hạn con người — một chiếc áo lông vũ mất từ một đến ba tháng ròng rã, ngày nào cũng lặp đi lặp lại cùng một thao tác hàng nghìn lần. Nàng có thể ngồi bất động mười hai canh giờ liên tục, tay không ngừng đưa thoi, mắt không rời sợi chỉ — sự nhẫn nại ấy nàng áp dụng vào cả cuộc sống: không nóng vội, không tham lam, không đòi hỏi — chỉ cần được dệt là đủ.
 - **Đạo Tâm:** **"Sợi tơ kết nối, y phục che chở."**
-    - Hạc Băng Lông tin rằng y phục không chỉ là vải che thân — nó là lớp bảo vệ giữa con người và thế giới khắc nghiệt, là sợi dây kết nối giữa người dệt và người mặc. Mỗi chiếc áo nàng dệt mang theo một lời nguyện thầm: "Người mặc áo này sẽ không chết rét." Đạo tâm của nàng giản dị nhưng bất khả lay chuyển — dù lông vũ rẻ mạt, dù người mặc là gia nô hay trẻ mồ côi, nàng đều dệt bằng tất cả tâm huyết.
+    - Hạc Băng Ngọc tin rằng y phục không chỉ là vải che thân — nó là lớp bảo vệ giữa con người và thế giới khắc nghiệt, là sợi dây kết nối giữa người dệt và người mặc. Mỗi chiếc áo nàng dệt mang theo một lời nguyện thầm: "Người mặc áo này sẽ không chết rét." Đạo tâm của nàng giản dị nhưng bất khả lay chuyển — dù lông vũ rẻ mạt, dù người mặc là gia nô hay trẻ mồ côi, nàng đều dệt bằng tất cả tâm huyết.
     - Triết lý này đối lập hoàn toàn với Vũ Hoàng Các — nơi y phục là biểu tượng quyền lực, lông vũ quý chỉ dành cho quý tộc. Nàng bị trục xuất vì đạo tâm này, nhưng đạo tâm không thay đổi — chỉ chuyển từ dệt áo quý tộc sang dệt áo cho kẻ không có ai dệt cho.
 
 ## IV. LỊCH SỬ & XUẤT THÂN
 - **Xuất Thân — Dệt Sư Vũ Hoàng Các:**
-    - Hạc Băng Lông sinh ra trong Vũ Hoàng Các — tông phái Vũ Tộc hùng mạnh nhất, nơi mà lông vũ được coi là biểu tượng huyết thống và địa vị. Nàng xuất thân từ chi nhánh phụ, gia đình không có quyền lực, nhưng mẹ nàng — Hạc Bạch Linh — là dệt sư nổi tiếng nhất Các, chuyên dệt y phục cho các trưởng lão và quý tộc cấp cao. Mẹ dạy nàng dệt từ năm lên năm, bắt đầu bằng việc nhặt lông rụng và phân loại theo màu sắc, rồi dần dần tiến đến kỹ thuật xe sợi, đan thoi, và kết cấu vải.
-    - Mẹ nàng thường nói: *"Lông vũ mang theo hồn của chủ nhân. Dệt sư giỏi phải tôn trọng hồn ấy, dù nó đến từ trưởng lão hay gia nô."* Câu nói này trở thành gốc rễ đạo tâm của Hạc Băng Lông — và cũng là nguyên nhân gián tiếp dẫn đến bi kịch.
+    - Hạc Băng Ngọc sinh ra trong Vũ Hoàng Các — tông phái Vũ Tộc hùng mạnh nhất, nơi mà lông vũ được coi là biểu tượng huyết thống và địa vị. Nàng xuất thân từ chi nhánh phụ, gia đình không có quyền lực, nhưng mẹ nàng — Hạc Bạch Linh — là dệt sư nổi tiếng nhất Các, chuyên dệt y phục cho các trưởng lão và quý tộc cấp cao. Mẹ dạy nàng dệt từ năm lên năm, bắt đầu bằng việc nhặt lông rụng và phân loại theo màu sắc, rồi dần dần tiến đến kỹ thuật xe sợi, đan thoi, và kết cấu vải.
+    - Mẹ nàng thường nói: *"Lông vũ mang theo hồn của chủ nhân. Dệt sư giỏi phải tôn trọng hồn ấy, dù nó đến từ trưởng lão hay gia nô."* Câu nói này trở thành gốc rễ đạo tâm của Hạc Băng Ngọc — và cũng là nguyên nhân gián tiếp dẫn đến bi kịch.
     - Năm hai mươi tuổi, nàng trở thành dệt sư chính thức của Vũ Hoàng Các, tu vi đạt Trúc Cơ Sơ Kỳ, được giao dệt y phục cho quý tộc cấp trung. Tay nghề của nàng nhanh chóng vượt xa đồng nghiệp — y phục nàng dệt mềm hơn, ấm hơn, bền hơn, và đẹp hơn bất kỳ dệt sư nào trong Các.
 - **Biến Cố — "Áo Gia Nô" (năm 30 tuổi):**
     - Mùa đông năm nàng ba mươi tuổi, một trận rét kỷ lục giết chết hàng chục gia nô Vũ Tộc cấp thấp trong Vũ Hoàng Các — những kẻ không đủ tư cách mặc y phục dệt bằng lông vũ quý, chỉ được cấp áo vải thô không đủ ấm. Nàng tận mắt chứng kiến một gia nô già — kẻ quét dọn chuồng linh cầm suốt ba mươi năm — chết cóng ngay trước cửa phòng dệt của nàng, thân thể cuộn tròn trong chiếc áo rách mỏng manh.
     - Đêm đó, nàng lặng lẽ lấy một cuộn lông vũ "phế phẩm" — lông rụng từ quý tộc cấp thấp, đáng lẽ phải tiêu hủy vì "không đủ phẩm cấp" — và dệt mười chiếc áo nhỏ, giấu trong kho phế liệu, rồi bí mật phát cho các gia nô già yếu nhất. Nàng biết đây là tội lớn trong Vũ Hoàng Các — lông vũ quý tộc không được phép cho gia nô, dù là lông rụng. Nhưng nàng dệt, vì nàng không thể nhìn thêm ai chết rét trước cửa phòng mình.
-    - Bí mật bại lộ sau hai tháng. Một gia nô bị trưởng lão phát hiện mặc áo lông vũ quý tộc, tra hỏi, khai ra nguồn gốc. Hạc Băng Lông bị đưa ra hội đồng kỷ luật, cáo buộc "phí phạm linh vũ" và "vi phạm phẩm cấp huyết thống." Mẹ nàng cầu xin tha nhưng bị phớt lờ — chi nhánh phụ không có quyền phát ngôn trước trưởng lão. Nàng bị đóng dấu "Phí Phạm" bằng linh hỏa lên mu tay trái, tước bỏ danh hiệu dệt sư, và trục xuất vĩnh viễn khỏi Vũ Hoàng Các.
+    - Bí mật bại lộ sau hai tháng. Một gia nô bị trưởng lão phát hiện mặc áo lông vũ quý tộc, tra hỏi, khai ra nguồn gốc. Hạc Băng Ngọc bị đưa ra hội đồng kỷ luật, cáo buộc "phí phạm linh vũ" và "vi phạm phẩm cấp huyết thống." Mẹ nàng cầu xin tha nhưng bị phớt lờ — chi nhánh phụ không có quyền phát ngôn trước trưởng lão. Nàng bị đóng dấu "Phí Phạm" bằng linh hỏa lên mu tay trái, tước bỏ danh hiệu dệt sư, và trục xuất vĩnh viễn khỏi Vũ Hoàng Các.
     - Mẹ nàng — Hạc Bạch Linh — ngã bệnh sau đó vì quá đau buồn, mất trong mùa đông năm sau. Nàng không được phép về chịu tang.
 - **Giai Đoạn Lang Thang — "Mười Năm Tìm Sợi" (30-40 tuổi):**
-    - Bị trục xuất, mất mẹ, mất nghề, Hạc Băng Lông lang thang khắp vùng Bắc Băng và rìa Đông Hoang. Nàng sống bằng cách nhặt lông vũ rụng trên mặt đất, dệt từ chúng những tấm khăn và áo thô sơ, đổi lấy thức ăn ở các làng phàm nhân. Mười năm ấy, nàng không ngừng nghiên cứu — thử dệt bằng mọi loại lông vũ khác nhau, từ lông ưng đến lông sẻ tuyết, từ lông cú đến lông ngỗng băng — tìm kiếm kỹ thuật biến lông vũ thường phẩm thành y phục chất lượng cao.
+    - Bị trục xuất, mất mẹ, mất nghề, Hạc Băng Ngọc lang thang khắp vùng Bắc Băng và rìa Đông Hoang. Nàng sống bằng cách nhặt lông vũ rụng trên mặt đất, dệt từ chúng những tấm khăn và áo thô sơ, đổi lấy thức ăn ở các làng phàm nhân. Mười năm ấy, nàng không ngừng nghiên cứu — thử dệt bằng mọi loại lông vũ khác nhau, từ lông ưng đến lông sẻ tuyết, từ lông cú đến lông ngỗng băng — tìm kiếm kỹ thuật biến lông vũ thường phẩm thành y phục chất lượng cao.
     - Chính trong giai đoạn này, nàng phát triển kỹ thuật Băng Vũ Dệt Thuật — cách dùng linh lực băng hệ nhẹ nhàng "đóng băng" cấu trúc sợi lông vũ trong quá trình dệt, khiến sợi vải thành phẩm có khả năng giữ nhiệt vượt trội so với vải dệt thường. Đây là bước đột phá mà Vũ Hoàng Các không bao giờ nghĩ đến — vì họ chỉ dệt bằng lông vũ quý đã tốt sẵn, không cần kỹ thuật bù đắp.
 - **Gia Nhập Lông Vũ Phường (năm 40 tuổi):**
     - Nàng tìm đến Lông Vũ Phường khi nghe tin có một bà già Vũ Tộc đang tìm cách "nâng giá trị lông vũ rụng." Vũ Mao Nhi nhìn nàng — gầy guộc, rách rưới, tay chai sần, mắt trũng sâu vì thiếu ngủ — rồi hỏi: *"Ngươi biết dệt?"* Nàng không đáp, chỉ lấy ra một chiếc khăn nhỏ dệt từ lông sẻ tuyết — loại lông rẻ mạt nhất — mà mềm mịn ấm áp hơn bất kỳ chiếc khăn lụa Trung Thổ nào. Vũ Mao Nhi sờ chiếc khăn, im lặng rất lâu, rồi nói: *"Ở lại. Ta chờ ngươi lâu lắm rồi."*
-    - Từ đó, Hạc Băng Lông trở thành dệt sư của Lông Vũ Phường — nhiệm vụ chính là nghiên cứu và hoàn thiện kỹ thuật dệt lông vũ thành y phục chống lạnh, biến phường từ nhà cung cấp nguyên liệu thô thành nhà sản xuất thành phẩm. Nàng là tài sản quý giá nhất mà Vũ Mao Nhi có — và cũng là hy vọng duy nhất để phường thoát khỏi vị thế "bán lông rẻ mạt."
+    - Từ đó, Hạc Băng Ngọc trở thành dệt sư của Lông Vũ Phường — nhiệm vụ chính là nghiên cứu và hoàn thiện kỹ thuật dệt lông vũ thành y phục chống lạnh, biến phường từ nhà cung cấp nguyên liệu thô thành nhà sản xuất thành phẩm. Nàng là tài sản quý giá nhất mà Vũ Mao Nhi có — và cũng là hy vọng duy nhất để phường thoát khỏi vị thế "bán lông rẻ mạt."
 - **Chiến Tích:**
     - **Năm 41 tuổi — "Chiếc Áo Đầu Tiên":** Hoàn thành chiếc áo lông vũ chống lạnh hoàn chỉnh đầu tiên tại phường — dệt từ lông xám phổ thông, nhưng ấm đủ để phàm nhân chịu được đêm bão tuyết cấp ba. Vũ Mao Nhi đem áo đến Phá Băng Thương Đội thử nghiệm — thương nhân kinh ngạc, đặt mua ngay năm chiếc. Đây là khoảnh khắc Lông Vũ Phường bước từ "bán nguyên liệu" sang "bán thành phẩm."
-    - **Năm 43 tuổi — "Áo Cứu Mạng":** Trong một trận bão tuyết bất ngờ, Vũ Nhạn Nhi của Phong Vũ Trinh Sát Đội bị rơi gần phường, cánh đóng băng. Hạc Băng Lông tìm thấy nàng trong tuyết, lấy áo lông vũ tự dệt quấn quanh cơ thể thiếu nữ — áo giữ nhiệt đủ để Nhạn Nhi sống sót cho đến khi đồng đội đến cứu. Từ đó, Phong Vũ Trinh Sát Đội trở thành khách hàng trung thành, đổi lông vũ linh cầm nhặt được lấy áo ấm.
+    - **Năm 43 tuổi — "Áo Cứu Mạng":** Trong một trận bão tuyết bất ngờ, Vũ Nhạn Nhi của Phong Vũ Trinh Sát Đội bị rơi gần phường, cánh đóng băng. Hạc Băng Ngọc tìm thấy nàng trong tuyết, lấy áo lông vũ tự dệt quấn quanh cơ thể thiếu nữ — áo giữ nhiệt đủ để Nhạn Nhi sống sót cho đến khi đồng đội đến cứu. Từ đó, Phong Vũ Trinh Sát Đội trở thành khách hàng trung thành, đổi lông vũ linh cầm nhặt được lấy áo ấm.
     - **Năm 44 tuổi — Phát Hiện Lông Phượng Hoàng Băng:** Vũ Mao Nhi giao cho nàng chiếc lông phượng hoàng băng bí mật — lông vũ phát ra hàn khí cực mạnh mà bà không dám bán. Nàng dành sáu tháng nghiên cứu cấu trúc vi mô của chiếc lông, phát hiện rằng sợi lông phượng hoàng băng có cấu trúc xoắn kép tự nhiên chống mất nhiệt — nếu bắt chước được cấu trúc này bằng kỹ thuật dệt, y phục thành phẩm sẽ ấm gấp mười lần. Nàng đang lặng lẽ nghiên cứu, chưa thành công nhưng đã tiến gần.
 
 ## V. KỸ NĂNG & TRANG BỊ
@@ -150,7 +150,7 @@ arcs:
 > *"Lông sẻ tuyết rẻ hơn cỏ khô. Nhưng qua tay Tuyết Khâu, nó biến thành thứ khiến lụa Trung Thổ phải xấu hổ."*
 > — Lời một thương nhân Phá Băng Thương Đội sau khi sờ chiếc áo lông vũ đầu tiên.
 
-- **Truyền Thuyết "Áo Không Lạnh":** Dân Vũ Tộc Lưu Dân Trại kể rằng Hạc Băng Lông có thể dệt áo mà người mặc không bao giờ cảm thấy lạnh — dù đứng giữa bão tuyết cấp năm, dù ngâm mình trong tuyết tan, dù ngủ trên mặt băng trần. Câu chuyện này là phóng đại — áo của nàng rất ấm nhưng không phải vạn năng — tuy nhiên, nó phản ánh niềm tin sâu sắc của dân nghèo vào tay nghề của nàng. Đối với những kẻ suýt chết rét hàng năm, một chiếc áo ấm đúng nghĩa gần như là phép thuật.
+- **Truyền Thuyết "Áo Không Lạnh":** Dân Vũ Tộc Lưu Dân Trại kể rằng Hạc Băng Ngọc có thể dệt áo mà người mặc không bao giờ cảm thấy lạnh — dù đứng giữa bão tuyết cấp năm, dù ngâm mình trong tuyết tan, dù ngủ trên mặt băng trần. Câu chuyện này là phóng đại — áo của nàng rất ấm nhưng không phải vạn năng — tuy nhiên, nó phản ánh niềm tin sâu sắc của dân nghèo vào tay nghề của nàng. Đối với những kẻ suýt chết rét hàng năm, một chiếc áo ấm đúng nghĩa gần như là phép thuật.
 
 - **Lời Đồn "Dệt Sư Khóc":** Có nhân công trong phường thề rằng họ đã nghe nàng khóc — không phải khóc vì buồn, mà khóc khi dệt xong một chiếc áo đặc biệt đẹp. Nàng ngồi nhìn thành phẩm, ngón tay run run vuốt trên bề mặt vải, rồi nước mắt lặng lẽ rơi. Khi được hỏi, nàng chỉ lắc đầu, gấp áo lại, giao cho Vũ Mao Nhi rồi quay lại bàn dệt. Dân phường đồn rằng nàng khóc vì nhớ mẹ — mỗi chiếc áo hoàn thành là một lời nói mà nàng không thể gửi đến người đã mất. Hoặc có lẽ nàng khóc vì chiếc áo quá đẹp — và nàng biết rằng mẹ nàng, nếu còn sống, sẽ tự hào.
 

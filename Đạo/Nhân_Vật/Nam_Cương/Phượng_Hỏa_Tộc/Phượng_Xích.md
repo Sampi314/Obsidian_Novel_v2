@@ -15,7 +15,7 @@ arcs:
     inventory: []
     stats: [6902, 7554, 7237, 5793, 6200, 8000]
     relationships:
-      - character: Phượng Huyền Điểu Lão
+      - character: Phượng Huyền Minh
         description: Trưởng Lão, bậc tiền bối mà hắn kính trọng nhất, người dạy hắn cách cai trị gia tộc
         feelings:
           yeu: 0
@@ -70,7 +70,7 @@ Phượng Xích mang hình dáng một phượng hoàng đỏ rực khổng lồ
 Phượng Xích là bậc thầy về hỏa hệ công pháp với Phượng Viêm Chân Hỏa (鳳炎真火), ngọn lửa thiêng có thể tẩy sạch mọi chướng khí và ma khí trong bán kính hàng dặm. Tuyệt chiêu Phượng Hoàng Niết Bàn Kích (鳳凰涅槃擊) cho phép hắn tự thiêu rồi tái sinh trong biển lửa, mỗi lần tái sinh sức mạnh tăng lên một bậc. Yếu điểm là tiêu hao linh lực cực lớn và cần thời gian hồi phục sau mỗi lần niết bàn.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Phượng Huyền Điểu Lão:** Trưởng Lão, bậc tiền bối mà hắn kính trọng nhất, người dạy hắn cách cai trị gia tộc.
+- **Phượng Huyền Minh:** Trưởng Lão, bậc tiền bối mà hắn kính trọng nhất, người dạy hắn cách cai trị gia tộc.
 - **Phượng Xích Diệm:** Chiến Sĩ, con trai trưởng, hắn đặt nhiều kỳ vọng nhưng cũng lo lắng vì tính nóng nảy của con.
 - **Công Thái Hồng:** Chiến Tướng, vị tướng trung thành nhất, cánh tay phải trên chiến trường.
 - **Loan Thanh La:** Chiến Sĩ, thuộc hạ đáng tin cậy, người giữ liên lạc giữa các chi phái trong tộc.

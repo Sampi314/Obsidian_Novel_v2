@@ -1,7 +1,7 @@
 ---
 type: character
-name: Vũ Lạc Vũ
-hantu: 羽落羽
+name: Vũ Lạc Phong
+hantu: 羽落风
 archetype: Phó Đoàn Trưởng
 race: Vũ Tộc
 origin: Bắc Băng
@@ -17,10 +17,10 @@ arcs:
     relationships: []
 ---
 
-# HỒ SƠ NHÂN VẬT: VŨ LẠC VŨ (羽落羽)
+# HỒ SƠ NHÂN VẬT: VŨ LẠC PHONG (羽落风)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Họ Tên:** Vũ Lạc Vũ (羽落羽).
+- **Họ Tên:** Vũ Lạc Phong (羽落风).
 - **Chủng Tộc:** Vũ Tộc.
 - **Tu Vi:** Luyện Khí Đỉnh Phong.
 - **Khu Vực:** Bắc Băng.
@@ -37,7 +37,7 @@ arcs:
 *(Chưa xác định)*
 - **Vũ Chiết Dực** (Đồng minh): Đồng liêu cùng Đoản Dực Lạc Đoàn, hỗ trợ lẫn nhau
 - **Vũ Tàn Phong** (Đồng minh): Đồng liêu cùng Đoản Dực Lạc Đoàn, hỗ trợ lẫn nhau
-- **Vũ Vô Thiên** (Sư phụ): Vũ Lạc Vũ chỉ dẫn Vũ Vô Thiên trong Đoản Dực Lạc Đoàn
+- **Vũ Vô Thiên** (Sư phụ): Vũ Lạc Phong chỉ dẫn Vũ Vô Thiên trong Đoản Dực Lạc Đoàn
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

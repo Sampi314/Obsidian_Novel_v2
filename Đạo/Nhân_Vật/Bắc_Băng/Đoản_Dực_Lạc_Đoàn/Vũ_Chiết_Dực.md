@@ -36,7 +36,7 @@ arcs:
 ## IV. CÁC MỐI QUAN HỆ
 *(Chưa xác định)*
 - **Vũ Tàn Phong** (Thuộc hạ): Phục tùng Vũ Tàn Phong, Đoàn Trưởng của Đoản Dực Lạc Đoàn
-- **Vũ Lạc Vũ** (Đồng minh): Đồng liêu cùng Đoản Dực Lạc Đoàn, hỗ trợ lẫn nhau
+- **Vũ Lạc Phong** (Đồng minh): Đồng liêu cùng Đoản Dực Lạc Đoàn, hỗ trợ lẫn nhau
 - **Vũ Vô Thiên** (Đồng minh): Đồng liêu cùng Đoản Dực Lạc Đoàn, hỗ trợ lẫn nhau
 
 ## V. TIỂU SỬ & HÀNH TRÌNH

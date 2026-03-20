@@ -34,11 +34,11 @@ Vóc dáng nhỏ nhắn và linh hoạt, mười ngón tay thon dài của Công
 Chiến đấu hoàn toàn bằng các pháp bảo do chính mình chế tác từ lông vũ. Tuyệt kỹ **"Vũ La Thiên Võng" (羽罗天网)** có thể phóng ra một tấm lưới khổng lồ đan từ linh vũ để giam cầm kẻ địch, cùng **"Phong Vũ Ám Khí" (风羽暗器)** dùng lông xám phát nổ linh lực bất ngờ. Năng lực phòng thủ cá nhân khá yếu, phụ thuộc hoàn toàn vào pháp khí chế tác sẵn và khả năng giữ khoảng cách trong thực chiến.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Công Kim Lông** (Chủ tớ): Thủ hạ trung thành trong Lông Vũ Phường
-- **Công Kim Lông** (Cấp dưới): Phục tùng Công Kim Lông, Phường Chủ của Lông Vũ Phường
+- **Công Kim Hoa** (Chủ tớ): Thủ hạ trung thành trong Lông Vũ Phường
+- **Công Kim Hoa** (Cấp dưới): Phục tùng Công Kim Hoa, Phường Chủ của Lông Vũ Phường
 - **Công Thái Vũ** (Đồng minh): Đồng liêu cùng Lông Vũ Phường, hỗ trợ lẫn nhau
-- **Hạc Tuyết Lông** (Sư đồ): Công Diệu Thủ chỉ dẫn Hạc Tuyết Lông trong Lông Vũ Phường
-- **Công Kim Lông:** Vô cùng kính trọng tài năng của Kim Lông, coi ông là người dẫn dắt nghệ thuật chế tác bảo khí phòng thủ.
+- **Hạc Tuyết Nhi** (Sư đồ): Công Diệu Thủ chỉ dẫn Hạc Tuyết Nhi trong Lông Vũ Phường
+- **Công Kim Hoa:** Vô cùng kính trọng tài năng của Kim Lông, coi ông là người dẫn dắt nghệ thuật chế tác bảo khí phòng thủ.
 - **Công Thái Vũ:** Bạn đồng tu thân thiết, thường xuyên phối hợp để tạo ra những sản phẩm có màu sắc và linh lực hoàn hảo.
 - **Vũ Tiểu Dực:** Hay hướng dẫn Tiểu Dực cách nhận biết các loại linh vũ hiếm, coi đây là một người học việc có tiềm năng.
 ## V. TIỂU SỬ & HÀNH TRÌNH

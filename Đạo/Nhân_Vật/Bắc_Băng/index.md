@@ -268,7 +268,7 @@
 
 ## Lông Vũ Phường (羽毛坊) — 1
 
-- [Hạc Băng Lông (鶴冰翎)](Lông_Vũ_Phường/Hạc_Băng_Lông.md)
+- [Hạc Băng Ngọc (鹤冰玉)](Lông_Vũ_Phường/Hạc_Băng_Ngọc.md)
 
 ## Lưu Vong Kiếm Khách Đoàn (流亡剑客团) — 6
 
@@ -293,10 +293,10 @@
 
 ## Phong Vũ Trinh Sát Đội (风雨侦察队) — 4
 
-- [Vũ Lão Cốt (羽老骨)](Phong_Vũ_Trinh_Sát_Đội/Vũ_Lão_Cốt.md)
+- [Vũ Phong Cốt (羽风骨)](Phong_Vũ_Trinh_Sát_Đội/Vũ_Phong_Cốt.md)
 - [Vũ Nhạn Nhi (羽雁儿)](Phong_Vũ_Trinh_Sát_Đội/Vũ_Nhạn_Nhi.md)
 - [Vũ Thanh Phong (羽清风)](Phong_Vũ_Trinh_Sát_Đội/Vũ_Thanh_Phong.md)
-- [Vũ Tiểu Vũ (羽小雨)](Phong_Vũ_Trinh_Sát_Đội/Vũ_Tiểu_Vũ.md)
+- [Vũ Tiểu Phiêu (羽小飘)](Phong_Vũ_Trinh_Sát_Đội/Vũ_Tiểu_Phiêu.md)
 
 ## Phá Băng Thương Đội (破冰商队) — 5
 
@@ -398,7 +398,7 @@
 ## Đoản Dực Lạc Đoàn (断翼落团) — 4
 
 - [Vũ Chiết Dực (羽折翼)](Đoản_Dực_Lạc_Đoàn/Vũ_Chiết_Dực.md)
-- [Vũ Lạc Vũ (羽落羽)](Đoản_Dực_Lạc_Đoàn/Vũ_Lạc_Vũ.md)
+- [Vũ Lạc Phong (羽落风)](Đoản_Dực_Lạc_Đoàn/Vũ_Lạc_Phong.md)
 - [Vũ Tàn Phong (羽残风)](Đoản_Dực_Lạc_Đoàn/Vũ_Tàn_Phong.md)
 - [Vũ Vô Thiên (羽无天)](Đoản_Dực_Lạc_Đoàn/Vũ_Vô_Thiên.md)
 

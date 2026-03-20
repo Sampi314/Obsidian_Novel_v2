@@ -25,7 +25,7 @@ arcs:
         type: Pháp Bảo
     stats: [900, 1100, 950, 1200, 800, 1300]
     relationships:
-      - character: Công Kim Lông
+      - character: Công Kim Hoa
         description: Phường Chủ, bậc tiền bối dạy hắn biến lông vũ thành vũ khí
         feelings:
           yeu: 25
@@ -43,7 +43,7 @@ arcs:
           tin: 45
           so: 0
           on: 15
-      - character: Hạc Tuyết Lông
+      - character: Hạc Tuyết Nhi
         description: Bạn tri kỷ, Dệt Sư mà hắn phối hợp ăn ý nhất
         feelings:
           yeu: 55
@@ -78,7 +78,7 @@ arcs:
 
 ## III. TÍNH CÁCH & ĐẠO TÂM
 - **Tính Cách:**
-    - **Cứng Đầu:** Một khi quyết định rèn theo cách nào, không ai thuyết phục được hắn thay đổi — kể cả Phường Chủ. Đã từng tranh cãi kịch liệt với Công Kim Lông về nhiệt độ nung lông vũ suốt ba ngày.
+    - **Cứng Đầu:** Một khi quyết định rèn theo cách nào, không ai thuyết phục được hắn thay đổi — kể cả Phường Chủ. Đã từng tranh cãi kịch liệt với Công Kim Hoa về nhiệt độ nung lông vũ suốt ba ngày.
     - **Trung Thực:** Hắn không biết nịnh, không giỏi buôn bán, từng nói thẳng vào mặt khách hàng rằng "Vũ khí này quá tốt cho trình độ của ngươi" khiến Công Thái Vũ phải xin lỗi thay.
     - **Tận Tâm:** Đối với nghề rèn, hắn tận tâm đến mức ám ảnh. Nếu một thanh kiếm lông vũ không đạt chuẩn, hắn sẵn sàng nung chảy và rèn lại từ đầu bao nhiêu lần cũng được.
 - **Đạo Tâm:** **"Lửa không phá hủy lông vũ — lửa giải phóng sức mạnh ẩn giấu bên trong"**.
@@ -90,12 +90,12 @@ arcs:
     - Cha hắn là thợ rèn bình thường rèn nông cụ cho phàm nhân. Từ nhỏ hắn đã theo cha học nghề, và phát hiện ra mình có khả năng kỳ lạ: khi hắn cầm lông vũ rụng đưa vào lửa, thay vì cháy thành tro, lông vũ nung chảy thành một giọt kim loại lỏng lấp lánh — thứ mà cha hắn chưa từng thấy.
 - **Khám Phá Kỹ Thuật Thất Truyền:**
     - Hắn dành năm mươi năm thử nghiệm, tự mò mẫm cách kiểm soát Hỏa linh lực để nung chảy lông vũ ở nhiệt độ chính xác — quá nóng thì lông cháy rụi, quá nguội thì không chảy. Cuối cùng hắn tìm ra "Thanh Diệm Điểm" — nhiệt độ hoàn hảo nơi lông vũ chuyển hóa thành "Vũ Kim" mà không mất đi đặc tính linh lực gốc.
-    - Tin đồn về "thằng sẻ biết rèn lông vũ thành kim loại" lan đến Lông Vũ Phường, và Công Kim Lông — vốn là thợ rèn chuyển nghề — lập tức đến tìm. Phường Chủ nhận ra kỹ thuật của hắn chính là phiên bản thô sơ của "Vũ Diệm Luyện Kim Thuật" — kỹ thuật thất truyền từ thời cổ đại.
+    - Tin đồn về "thằng sẻ biết rèn lông vũ thành kim loại" lan đến Lông Vũ Phường, và Công Kim Hoa — vốn là thợ rèn chuyển nghề — lập tức đến tìm. Phường Chủ nhận ra kỹ thuật của hắn chính là phiên bản thô sơ của "Vũ Diệm Luyện Kim Thuật" — kỹ thuật thất truyền từ thời cổ đại.
 - **Gia Nhập Lông Vũ Phường:**
-    - Công Kim Lông thu nhận hắn vào phường và truyền dạy phần lý thuyết còn thiếu. Hắn trở thành Thợ Rèn duy nhất — vị trí mà trước đó không tồn tại trong phường vì không ai biết nung chảy lông vũ.
+    - Công Kim Hoa thu nhận hắn vào phường và truyền dạy phần lý thuyết còn thiếu. Hắn trở thành Thợ Rèn duy nhất — vị trí mà trước đó không tồn tại trong phường vì không ai biết nung chảy lông vũ.
 - **Thành Tựu Nổi Bật:**
     - Rèn ra "Vũ Kim Đoản Kiếm" — thanh kiếm ngắn đầu tiên làm hoàn toàn từ lông vũ nung chảy, nhẹ bằng một phần mười kiếm thép thường nhưng sắc bén gấp ba lần và có khả năng tự phục hồi vết nứt nhỏ nhờ linh lực vũ còn tồn tại trong kim loại.
-    - Đang hợp tác với Hạc Tuyết Lông thử nghiệm "Vũ Kim Sa" — bột kim loại từ lông vũ nung, rắc lên vải dệt linh vũ để tạo ra loại giáp mềm vừa nhẹ vừa cứng, kết hợp ưu điểm của cả dệt và rèn.
+    - Đang hợp tác với Hạc Tuyết Nhi thử nghiệm "Vũ Kim Sa" — bột kim loại từ lông vũ nung, rắc lên vải dệt linh vũ để tạo ra loại giáp mềm vừa nhẹ vừa cứng, kết hợp ưu điểm của cả dệt và rèn.
 
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 - **Sở Trường:**
@@ -110,10 +110,10 @@ arcs:
 
 ## VI. QUAN HỆ
 - **Sư Phụ & Tiền Bối:**
-    - **Công Kim Lông:** Hắn tôn kính Phường Chủ như cha, vì chính ông đã cho hắn biết kỹ thuật của mình không phải ngẫu nhiên mà là thiên phú thất truyền. Nhưng hai người thường xuyên tranh cãi về phương pháp — Kim Lông thiên về phòng thủ, Tước Thanh thiên về vũ khí tấn công.
+    - **Công Kim Hoa:** Hắn tôn kính Phường Chủ như cha, vì chính ông đã cho hắn biết kỹ thuật của mình không phải ngẫu nhiên mà là thiên phú thất truyền. Nhưng hai người thường xuyên tranh cãi về phương pháp — Kim Lông thiên về phòng thủ, Tước Thanh thiên về vũ khí tấn công.
     - **Công Thái Vũ:** Hắn học cách phối hợp nguyên liệu từ nàng, nhưng hay bị nàng trêu chọc vì "miệng cứng như sắt rèn." Hai người có mối quan hệ tiền bối-hậu bối vui vẻ dù hắn không giỏi đùa lại.
 - **Bạn Tri Kỷ:**
-    - **Hạc Tuyết Lông:** Người bạn thân nhất, người duy nhất hắn nói chuyện nhiều hơn mười câu một ngày. Nàng dệt, hắn rèn — hai người ngồi làm việc cạnh nhau hàng giờ trong im lặng, thỉnh thoảng trao đổi vài câu ngắn gọn về kỹ thuật, nhưng đó chính là cách giao tiếp thoải mái nhất của cả hai.
+    - **Hạc Tuyết Nhi:** Người bạn thân nhất, người duy nhất hắn nói chuyện nhiều hơn mười câu một ngày. Nàng dệt, hắn rèn — hai người ngồi làm việc cạnh nhau hàng giờ trong im lặng, thỉnh thoảng trao đổi vài câu ngắn gọn về kỹ thuật, nhưng đó chính là cách giao tiếp thoải mái nhất của cả hai.
 - **Đối Thủ Ngầm:**
     - **Thạch Linh Cung Luyện Khí Sư:** Giới luyện khí truyền thống coi kỹ thuật rèn lông vũ là "tà đạo", cho rằng kim loại mới là vật liệu rèn chính thống. Tước Thanh không nói gì nhưng âm thầm muốn chứng minh Vũ Kim vượt trội hơn mọi hợp kim truyền thống.
 
@@ -121,4 +121,4 @@ arcs:
 > *"Lông vũ không đáng giá gì cả, cho đến khi thằng sẻ nhỏ ném chúng vào lò lửa. Từ đó, mỗi chiếc lông đáng giá bằng một thanh kiếm."*
 > — Nhận xét của một thương nhân Bách Bảo Các sau buổi đấu giá Vũ Kim Đoản Kiếm.
 
-- **Sự Kiện Thanh Kiếm Gãy:** Lần đầu tiên rèn thành công thanh Vũ Kim Đoản Kiếm, hắn phấn khích đến mức thử chém vào tảng đá linh thạch để kiểm tra độ sắc — kiếm xuyên qua đá như cắt bơ, nhưng hắn quên kiểm soát lực nên kiếm bay luôn qua bức tường xưởng rèn, cắm vào cây cổ thụ bên ngoài. Công Kim Lông nhìn cái lỗ trên tường, nhìn cái cây, rồi nhìn hắn, chỉ nói: "Lần sau, rèn luôn cái tường mới." Từ đó hắn luôn thử kiếm trong phòng riêng, khóa cửa kín.
+- **Sự Kiện Thanh Kiếm Gãy:** Lần đầu tiên rèn thành công thanh Vũ Kim Đoản Kiếm, hắn phấn khích đến mức thử chém vào tảng đá linh thạch để kiểm tra độ sắc — kiếm xuyên qua đá như cắt bơ, nhưng hắn quên kiểm soát lực nên kiếm bay luôn qua bức tường xưởng rèn, cắm vào cây cổ thụ bên ngoài. Công Kim Hoa nhìn cái lỗ trên tường, nhìn cái cây, rồi nhìn hắn, chỉ nói: "Lần sau, rèn luôn cái tường mới." Từ đó hắn luôn thử kiếm trong phòng riêng, khóa cửa kín.

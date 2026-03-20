@@ -36,7 +36,7 @@ arcs:
           tin: 95
           so: 5
           on: 90
-      - character: Vũ Tiểu Vũ
+      - character: Vũ Tiểu Phiêu
         description: Đội trưởng Phong Vũ Trinh Sát Đội, thỉnh thoảng trao đổi tin tức trinh sát
         feelings:
           yeu: 0
@@ -148,8 +148,8 @@ arcs:
     - Y đã nhiều lần bay ngang qua lãnh thổ cũ của Ưng Hàn Tộc khi đi truyền tin — mỗi lần đều lượn một vòng từ xa, nhìn xuống, rồi bay đi. Không bao giờ hạ cánh.
 - **Liên Lạc Viên Trẻ Trong Trạm:**
     - Y không chủ động dạy dỗ ai, nhưng các liên lạc viên trẻ trong trạm lặng lẽ học hỏi y bằng cách quan sát — cách y kiểm tra phong ấn, cách y đọc hướng gió trước khi cất cánh, cách y gấp cánh khi hạ cánh trong gió ngược. Có một liên lạc viên trẻ người Nhân Tộc (dùng chim tuyết thay vì tự bay) từng hỏi y: *"Tiền bối, làm sao để không sợ bão?"* Y đáp: *"Sợ. Nhưng thư vẫn phải đến."* — câu trả lời ngắn nhất nhưng được truyền miệng trong trạm như châm ngôn.
-- **Vũ Tiểu Vũ — Phong Vũ Trinh Sát Đội:**
-    - Hàn Minh thỉnh thoảng gặp Vũ Tiểu Vũ khi bay ngang vùng hoạt động của Phong Vũ Trinh Sát Đội. Y coi đám nhóc này như những con chim non lông tơ — yếu ớt, liều lĩnh, nhưng có lửa trong mắt. Y đã vài lần lặng lẽ ném xuống cho đội vài mẩu thịt khô khi bay qua Tổ Chim Đá mà không hạ cánh — Tiểu Vũ chưa bao giờ biết ai ném, chỉ gọi đó là "quà của gió."
+- **Vũ Tiểu Phiêu — Phong Vũ Trinh Sát Đội:**
+    - Hàn Minh thỉnh thoảng gặp Vũ Tiểu Phiêu khi bay ngang vùng hoạt động của Phong Vũ Trinh Sát Đội. Y coi đám nhóc này như những con chim non lông tơ — yếu ớt, liều lĩnh, nhưng có lửa trong mắt. Y đã vài lần lặng lẽ ném xuống cho đội vài mẩu thịt khô khi bay qua Tổ Chim Đá mà không hạ cánh — Tiểu Vũ chưa bao giờ biết ai ném, chỉ gọi đó là "quà của gió."
 - **Cực Quang Thần Điện — Mối Đe Dọa Tiềm Tàng:**
     - Y biết Cực Quang Thần Điện đang tìm cách kiểm soát mạng lưới thông tin Bắc Băng, và Bắc Phong Thông Tín Trạm là mục tiêu tiếp theo. Vụ phù lục theo dõi y phát hiện chỉ là bề nổi — y nghi ngờ Cực Quang đã cài gián điệp trong các trạm phụ, nhưng chưa có bằng chứng. Y lặng lẽ ghi nhận mọi bất thường trong các bức thư đi qua trạm và báo cho Phong Tín Nhi, trở thành tai mắt ngầm của bà trong cuộc chiến tình báo thầm lặng này.
 

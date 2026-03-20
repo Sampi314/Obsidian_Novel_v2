@@ -1,7 +1,7 @@
 ---
 type: character
-name: Quạ Hắc Cánh
-hantu: 鴉黑翅
+name: Quạ Hắc Dạ
+hantu: 鸦黑夜
 archetype: Dạ Tuần
 race: Vũ Tộc
 lingan: Ám hệ đơn linh căn
@@ -26,7 +26,7 @@ arcs:
         type: Trang Bị
     stats: [30, 55, 70, 40, 65, 50]
     relationships:
-      - character: Quạ Huyết Dực Ma
+      - character: Quạ Huyết Linh
         description: Cấp trên trực tiếp, người đã tuyển mộ và huấn luyện y từ khi còn là tên ăn trộm lang thang
         feelings:
           yeu: 0
@@ -73,10 +73,10 @@ arcs:
           on: 30
 ---
 
-# HỒ SƠ NHÂN VẬT: QUẠ HẮC CÁNH (鴉黑翅)
+# HỒ SƠ NHÂN VẬT: QUẠ HẮC DẠ (鸦黑夜)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Tên:** Quạ Hắc Cánh (鴉黑翅).
+- **Tên:** Quạ Hắc Dạ (鸦黑夜).
 - **Biệt Danh:** "Bóng Đêm Không Tiếng" (無聲夜影) — đồng đội gọi vì y có thể bay sát đầu người mà không gây ra dù chỉ một tiếng gió.
 - **Tuổi:** 67 tuổi (Vũ Tộc, tương đương 27 tuổi phàm nhân).
 - **Chủng Tộc:** Vũ Tộc (Quạ).
@@ -91,7 +91,7 @@ arcs:
 - **Dung Mạo:**
     - Thân hình nhỏ nhắn, gầy guộc, thấp hơn hầu hết Vũ Tộc khác — ưu thế cho việc lẩn trốn trong bóng tối và các kẽ hẹp. Toàn thân phủ lớp lông vũ đen tuyền, hấp thụ ánh sáng thay vì phản chiếu, khiến y gần như hòa tan vào đêm đen khi thu cánh.
     - Khuôn mặt nhỏ, góc cạnh, mũi khoằm đặc trưng loài quạ, gò má cao lộ rõ đường xương. Đôi mắt đen láy, đồng tử có thể giãn rộng gấp đôi bình thường trong bóng tối — thiên phú dòng máu Quạ giúp y nhìn rõ trong đêm như ban ngày. Ánh mắt y luôn di chuyển không ngừng, liếc nhanh qua mọi góc khuất như thói quen nghề nghiệp ăn sâu vào bản năng.
-    - Trên cổ bên trái có một vết sẹo dài do bị dây bẫy thắt khi y còn là tên trộm nhỏ — dấu tích của lần suýt bị treo cổ bởi người Băng Tộc bắt được. Quạ Huyết Dực Ma đã cắt dây cứu y đúng lúc, và vết sẹo ấy trở thành lời nhắc nhở: *mạng này là của Huyết Dực Ma cho.*
+    - Trên cổ bên trái có một vết sẹo dài do bị dây bẫy thắt khi y còn là tên trộm nhỏ — dấu tích của lần suýt bị treo cổ bởi người Băng Tộc bắt được. Quạ Huyết Linh đã cắt dây cứu y đúng lúc, và vết sẹo ấy trở thành lời nhắc nhở: *mạng này là của Huyết Dực Ma cho.*
     - Hai bàn chân — vuốt quạ — dài, sắc, đen bóng, có thể bám chặt vào mọi bề mặt, kể cả mặt băng trơn trượt. Y thường treo ngược mình trên cành cây hoặc mái nhà khi quan sát mục tiêu, tư thế đặc trưng không ai trong thần điện bắt chước được.
 - **Trang Phục:**
     - Dạ Hành Y (夜行衣) — bộ giáp vải đen dệt từ tơ nhện băng pha lông quạ, nhẹ đến mức gần như không trọng lượng, có khả năng hấp thụ tiếng động và giảm thiểu ma sát với không khí khi bay. Đây là trang bị tiêu chuẩn của đội dạ tuần, nhưng bộ của y đã được sửa đổi thêm nhiều túi ẩn chứa ám khí.
@@ -105,7 +105,7 @@ arcs:
 ## III. TÍNH CÁCH & ĐẠO TÂM
 - **Tính Cách:**
     - **Cảnh Giác (警覺):** Mười năm sống bằng nghề trộm cắp đã khiến y phát triển bản năng cảnh giác đến mức bệnh hoạn. Y không bao giờ ngồi quay lưng về phía cửa, không bao giờ ngủ ở cùng một chỗ hai đêm liên tiếp, và luôn ngủ với một tay nắm chặt chuôi phi đao. Ngay cả trong thần điện — nơi lý thuyết là an toàn — y vẫn đặt ba "bẫy cảnh báo" bằng dây tóc quanh chỗ nghỉ mỗi đêm.
-    - **Trung Thành Vì Ơn Nghĩa (恩義):** Y không trung thành với Cực Quang Thần Điện vì tín ngưỡng, không phải vì tin vào ánh sáng thần thánh hay sức mạnh của Thánh Nữ. Y trung thành vì Quạ Huyết Dực Ma đã cứu mạng y, cho y chỗ đứng và mục đích sống. Nếu một ngày Huyết Dực Ma rời thần điện, Hắc Cánh sẽ đi theo mà không do dự — điều này y chưa bao giờ nói ra, nhưng Huyết Dực Ma biết rõ.
+    - **Trung Thành Vì Ơn Nghĩa (恩義):** Y không trung thành với Cực Quang Thần Điện vì tín ngưỡng, không phải vì tin vào ánh sáng thần thánh hay sức mạnh của Thánh Nữ. Y trung thành vì Quạ Huyết Linh đã cứu mạng y, cho y chỗ đứng và mục đích sống. Nếu một ngày Huyết Dực Ma rời thần điện, Hắc Cánh sẽ đi theo mà không do dự — điều này y chưa bao giờ nói ra, nhưng Huyết Dực Ma biết rõ.
     - **Thực Dụng Đến Tàn Nhẫn (實):** Y không quan tâm đến đạo đức, công bằng hay lẽ phải. Trong mắt y, thế giới chia làm hai loại: *kẻ sống và kẻ chết.* Mục tiêu của y là ở phe kẻ sống. Y sẵn sàng làm bất kỳ điều gì — ám sát, đầu độc, phục kích từ phía sau — miễn là hoàn thành nhiệm vụ và sống sót. Chữ "danh dự" không tồn tại trong từ điển của kẻ từng ăn cắp để sống.
     - **Cô Đơn Giấu Kín (孤):** Dưới vẻ ngoài lạnh lùng thực dụng, y thực ra rất sợ bị bỏ rơi — nỗi sợ bắt nguồn từ tuổi thơ mồ côi lang thang giữa băng tuyết. Y không biết cách kết bạn, không biết cách thể hiện tình cảm, chỉ biết thể hiện sự gắn bó bằng hành động: lặng lẽ canh gác khi đồng đội ngủ, lặng lẽ giết kẻ thù khi đồng đội không biết.
 - **Đạo Tâm:** **"Đêm không cần anh hùng, đêm cần kẻ còn thức."**
@@ -114,10 +114,10 @@ arcs:
 
 ## IV. LỊCH SỬ & XUẤT THÂN
 - **Xuất Thân — Đứa Trẻ Mồ Côi Vùng Rìa Băng Nguyên:**
-    - Quạ Hắc Cánh sinh ra trong một gia đình Quạ Tộc nghèo khó sống ven rìa lãnh thổ Cực Quang Thần Điện — vùng đất không thuộc sự bảo hộ của bất kỳ thế lực nào, nơi các bộ lạc nhỏ Băng Tộc, tán tu lưu lạc, và yêu thú cấp thấp tranh giành từng mẩu thức ăn. Cha y — một thợ đánh cá trên hồ băng — bị sói tuyết xé xác khi y mới bốn tuổi. Mẹ y — người phụ nữ Quạ Tộc gầy yếu — cố mang con chạy trốn đến một bộ lạc Băng Tộc lớn hơn, nhưng bị từ chối vì "Quạ Tộc mang xui." Bà chết vì kiệt sức và phong hàn giữa đường, để lại Hắc Cánh một mình giữa đồng tuyết mênh mông.
+    - Quạ Hắc Dạ sinh ra trong một gia đình Quạ Tộc nghèo khó sống ven rìa lãnh thổ Cực Quang Thần Điện — vùng đất không thuộc sự bảo hộ của bất kỳ thế lực nào, nơi các bộ lạc nhỏ Băng Tộc, tán tu lưu lạc, và yêu thú cấp thấp tranh giành từng mẩu thức ăn. Cha y — một thợ đánh cá trên hồ băng — bị sói tuyết xé xác khi y mới bốn tuổi. Mẹ y — người phụ nữ Quạ Tộc gầy yếu — cố mang con chạy trốn đến một bộ lạc Băng Tộc lớn hơn, nhưng bị từ chối vì "Quạ Tộc mang xui." Bà chết vì kiệt sức và phong hàn giữa đường, để lại Hắc Cánh một mình giữa đồng tuyết mênh mông.
     - Từ năm năm tuổi, y sống sót bằng bản năng — ăn xác thú chết đóng băng, uống nước tan từ băng, ngủ trong hốc đá. Khi đủ lớn để bay (khoảng mười tuổi), y bắt đầu lẻn vào các bộ lạc Băng Tộc ăn trộm thức ăn, vải vóc, và bất kỳ thứ gì giữ được ấm. Y nhanh chóng trở thành "con quạ đen" khét tiếng mà các bộ lạc vùng rìa đều nguyền rủa — nhưng không ai bắt được.
 - **Biến Cố — "Sợi Dây Thắt Cổ" (năm 22 tuổi, tương đương 9 tuổi phàm nhân):**
-    - Trong một lần đột nhập kho lương của bộ lạc Bạch Sương, y bị phát hiện và rơi vào bẫy dây thắt. Dây thắt xiết chặt cổ, treo y lơ lửng giữa kho lương. Người Bạch Sương không giết ngay — họ muốn để y treo đó đến sáng rồi hành hình công khai làm gương. Giữa đêm, Quạ Huyết Dực Ma — khi ấy đang thực hiện nhiệm vụ ám sát một trưởng bộ lạc phản bội Cực Quang Thần Điện tại chính bộ lạc này — tình cờ đi qua kho lương. Hắn thấy đứa nhóc quạ treo cổ tím tái nhưng vẫn còn sống, đôi mắt đen láy nhìn hắn không van xin, không sợ hãi — chỉ nhìn chằm chằm như đang ghi nhớ.
+    - Trong một lần đột nhập kho lương của bộ lạc Bạch Sương, y bị phát hiện và rơi vào bẫy dây thắt. Dây thắt xiết chặt cổ, treo y lơ lửng giữa kho lương. Người Bạch Sương không giết ngay — họ muốn để y treo đó đến sáng rồi hành hình công khai làm gương. Giữa đêm, Quạ Huyết Linh — khi ấy đang thực hiện nhiệm vụ ám sát một trưởng bộ lạc phản bội Cực Quang Thần Điện tại chính bộ lạc này — tình cờ đi qua kho lương. Hắn thấy đứa nhóc quạ treo cổ tím tái nhưng vẫn còn sống, đôi mắt đen láy nhìn hắn không van xin, không sợ hãi — chỉ nhìn chằm chằm như đang ghi nhớ.
     - Huyết Dực Ma cắt dây, ném cho nó miếng thịt khô, rồi bỏ đi giết người. Khi quay lại, đứa nhóc vẫn ngồi đó, nhai thịt khô, nhìn hắn bằng cặp mắt giống hệt khi bị treo cổ. Huyết Dực Ma hỏi: *"Mày muốn chết ở đây hay đi theo ta?"* Đứa nhóc đứng dậy, đi theo, không nói một lời.
 - **Giai Đoạn Huấn Luyện — "Năm Năm Trong Bóng Tối" (22-35 tuổi):**
     - Huyết Dực Ma không đưa y về thần điện ngay. Hắn giữ y bên mình trong các nhiệm vụ ám sát, dạy y từng kỹ năng một: cách bay không tiếng, cách ẩn thân trong bóng tối, cách phóng ám khí trong khi đang bay, cách giết người nhanh nhất với ít tiếng động nhất. Phương pháp huấn luyện tàn khốc — sai một bước là bị đánh, chậm một nhịp là bị bỏ đói, lộ vị trí là bị phạt đứng giữa bão tuyết một đêm.
@@ -151,12 +151,12 @@ arcs:
     - **Phụ thuộc bóng tối:** Hầu hết kỹ năng của y đều phát huy tối đa trong đêm hoặc môi trường thiếu sáng. Ban ngày hoặc trong vùng ánh sáng mạnh, hiệu quả giảm ít nhất một nửa.
 
 ## VI. QUAN HỆ
-- **Quạ Huyết Dực Ma** (Cấp dưới): Thuộc hạ trung thành nhất, kẻ hắn tự tay huấn luyện từ đứa trẻ mồ côi
+- **Quạ Huyết Linh** (Cấp dưới): Thuộc hạ trung thành nhất, kẻ hắn tự tay huấn luyện từ đứa trẻ mồ côi
 - **Cú Tĩnh Vũ** (Đồng minh): Mưu sĩ cung cấp tình báo cho đội dạ tuần, y kính sợ trí tuệ đáng sợ của hắn
 - **Ưng Thiên Phong** (Đồng minh): Trinh sát đội trưởng, đối tác phối hợp ban ngày — y lo mảng đêm, Thiên Phong lo mảng ngày
 - **Yến Phi** (Sư đồ): Truyền tin viên thường xuyên chuyển mật thư cho đội dạ tuần, y đánh giá cao sự nhanh nhẹn và kín đáo của nàng
 - **Phượng Kim Sí** (Chủ tớ): Tả Hộ Pháp, thượng cấp tối cao trực tiếp ra lệnh cho các nhiệm vụ thanh trừng ban đêm
-- **Quạ Huyết Dực Ma — Ân Nhân & Cấp Trên:**
+- **Quạ Huyết Linh — Ân Nhân & Cấp Trên:**
     - Mối quan hệ quan trọng nhất trong đời Hắc Cánh. Huyết Dực Ma không chỉ cứu mạng y mà còn cho y mục đích, kỹ năng, và chỗ đứng trong thế giới. Y coi Huyết Dực Ma là cha, là thầy, là lý do duy nhất y phục vụ Cực Quang Thần Điện. Sự trung thành của y với thần điện thực chất là sự trung thành với Huyết Dực Ma — nếu Huyết Dực Ma rời đi, y sẽ đi theo mà không cần suy nghĩ.
     - Giữa hai người có một kiểu giao tiếp đặc biệt: gần như không nói chuyện, chỉ gật đầu, ra hiệu bằng tay, và đôi khi — rất hiếm — cùng ngồi uống rượu trên mái Cực Quang Bảo Tháp lúc nửa đêm, nhìn cực quang múa lượn mà không nói một lời. Đó là lúc Hắc Cánh gần nhất với cảm giác "bình yên."
 - **Cú Tĩnh Vũ — Mưu Sĩ & Kẻ Y Sợ Nhất:**

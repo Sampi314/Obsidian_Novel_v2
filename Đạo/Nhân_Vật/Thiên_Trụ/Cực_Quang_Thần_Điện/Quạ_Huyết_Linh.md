@@ -1,7 +1,7 @@
 ---
 type: character
-name: Quạ Huyết Dực Ma
-hantu: 鴉血翼魔
+name: Quạ Huyết Linh
+hantu: 鸦血灵
 archetype: Sát Thủ Đội Trưởng
 race: Vũ Tộc
 lingan: Song linh căn
@@ -36,7 +36,7 @@ arcs:
           tin: 55
           so: 10
           on: 20
-      - character: Quạ Hắc Cánh
+      - character: Quạ Hắc Dạ
         description: Thuộc hạ trung thành nhất, kẻ hắn tự tay huấn luyện từ đứa trẻ mồ côi
         feelings:
           yeu: 0
@@ -83,10 +83,10 @@ arcs:
           on: 0
 ---
 
-# HỒ SƠ NHÂN VẬT: QUẠ HUYẾT DỰC MA (鴉血翼魔)
+# HỒ SƠ NHÂN VẬT: QUẠ HUYẾT LINH (鸦血灵)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Tên:** Quạ Huyết Dực Ma (鴉血翼魔).
+- **Tên:** Quạ Huyết Linh (鸦血灵).
 - **Biệt Danh:** "Hồng Nguyệt" (紅月) — các mục tiêu ám sát của hắn thường chết vào đêm trăng máu, khiến tu giới Bắc Băng gọi hắn là hiện thân của trăng đỏ chết chóc.
 - **Tuổi:** 187 tuổi (Vũ Tộc, tương đương 45 tuổi phàm nhân).
 - **Chủng Tộc:** Vũ Tộc (Quạ).
@@ -115,7 +115,7 @@ arcs:
 ## III. TÍNH CÁCH & ĐẠO TÂM
 - **Tính Cách:**
     - **Lãnh Huyết (冷血):** Huyết Dực Ma giết người không vì thù hận, không vì khoái cảm, không vì sợ hãi — hắn giết vì đó là công việc, và hắn làm tốt công việc của mình. Sự lạnh lùng này không phải giả tạo mà là kết quả của chấn thương tâm lý sâu sắc: sau khi chứng kiến toàn bộ gia tộc bị tàn sát, cảm xúc của hắn như bị đóng băng vĩnh viễn. Hắn không ghét kẻ thù, không thương đồng minh — chỉ hoàn thành nhiệm vụ với sự chính xác lạnh lẽo.
-    - **Bảo Hộ Thầm Lặng (護):** Nghịch lý trong tính cách hắn: dù lãnh huyết với cả thế giới, hắn lại mang một sự bảo hộ kỳ lạ đối với Quạ Hắc Cánh — đứa trẻ mồ côi hắn nhặt được. Hắn không biết tại sao mình cứu nó — có lẽ vì nhìn thấy chính mình trong đôi mắt không sợ hãi ấy, có lẽ vì hắn muốn chứng minh rằng một đứa trẻ bị bỏ rơi có thể sống sót mà không cần trả giá bằng linh hồn như hắn đã trả.
+    - **Bảo Hộ Thầm Lặng (護):** Nghịch lý trong tính cách hắn: dù lãnh huyết với cả thế giới, hắn lại mang một sự bảo hộ kỳ lạ đối với Quạ Hắc Dạ — đứa trẻ mồ côi hắn nhặt được. Hắn không biết tại sao mình cứu nó — có lẽ vì nhìn thấy chính mình trong đôi mắt không sợ hãi ấy, có lẽ vì hắn muốn chứng minh rằng một đứa trẻ bị bỏ rơi có thể sống sót mà không cần trả giá bằng linh hồn như hắn đã trả.
     - **Tự Hủy Hoại (自毀):** Nghi thức Huyết Tế trước mỗi nhiệm vụ — rạch da, để máu chảy — không chỉ là kỹ thuật tu luyện mà còn là hình thức tự trừng phạt. Hắn trừng phạt mình vì đã sống sót trong khi cả tộc chết. Trừng phạt mình vì đã trở thành công cụ giết người. Trừng phạt mình vì không cảm thấy gì khi giết người.
     - **Kiêu Ngạo Nghề Nghiệp (傲):** Hắn tự hào về kỹ năng ám sát của mình — không phải kiêu ngạo vì giết nhiều, mà kiêu ngạo vì giết sạch. Hắn chưa bao giờ để lại nhân chứng, chưa bao giờ để nhiệm vụ thất bại, chưa bao giờ phải ra tay lần thứ hai trên cùng một mục tiêu. Đó là tiêu chuẩn của hắn, và hắn áp dụng tiêu chuẩn ấy lên toàn bộ đội sát thủ.
 - **Đạo Tâm:** **"Máu rửa sạch máu. Không có gì khác."**
@@ -124,7 +124,7 @@ arcs:
 
 ## IV. LỊCH SỬ & XUẤT THÂN
 - **Xuất Thân — Gia Tộc Huyết Nha Quạ:**
-    - Quạ Huyết Dực Ma — tên thật là Quạ Dực — sinh ra trong gia tộc Huyết Nha Quạ (血牙鴉族), một chi tộc Quạ Tộc nhỏ sống ở rìa phía đông Bắc Băng, gần biên giới lãnh thổ Huyền Băng Cung. Gia tộc này nổi tiếng vì kỹ thuật huyết hệ chiến đấu — dùng máu mình nuôi dưỡng lông vũ thành ám khí — và vì thái độ bất khuất: họ từ chối thần phục cả Cực Quang Thần Điện lẫn Huyền Băng Cung, sống độc lập giữa hai thế lực.
+    - Quạ Huyết Linh — tên thật là Quạ Dực — sinh ra trong gia tộc Huyết Nha Quạ (血牙鴉族), một chi tộc Quạ Tộc nhỏ sống ở rìa phía đông Bắc Băng, gần biên giới lãnh thổ Huyền Băng Cung. Gia tộc này nổi tiếng vì kỹ thuật huyết hệ chiến đấu — dùng máu mình nuôi dưỡng lông vũ thành ám khí — và vì thái độ bất khuất: họ từ chối thần phục cả Cực Quang Thần Điện lẫn Huyền Băng Cung, sống độc lập giữa hai thế lực.
     - Cha hắn — Quạ Huyết Nha — là tộc trưởng, tu vi Nguyên Anh Sơ Kỳ, người đã phát triển Huyết Vũ Thiên Sát lên đỉnh cao. Mẹ hắn là người Quạ Tộc thuần huyết, nổi tiếng vì giọng hát có thể an ủi thương binh. Hắn lớn lên trong tình yêu thương, trong tiếng cười và tiếng hát — những thứ sau này bị xóa sạch khỏi ký ức hắn như thể chưa từng tồn tại.
 - **Biến Cố — "Đêm Máu Đỏ" (năm 23 tuổi, tương đương 6 tuổi phàm nhân):**
     - Huyền Băng Cung quyết định xóa sổ gia tộc Huyết Nha Quạ vì tội "kháng lệnh" — từ chối nộp thuế tín ngưỡng và cung cấp chiến binh cho Huyền Băng. Họ phái một đội trưởng Nguyên Anh Hậu Kỳ dẫn theo hai mươi lăm tu sĩ Kim Đan tấn công vào đêm đông. Trận chiến kéo dài chưa đến hai canh giờ — cha hắn chống cự anh dũng nhưng bị áp đảo về số lượng, tử trận cùng với gần như toàn bộ chiến binh trong tộc.
@@ -165,11 +165,11 @@ arcs:
 
 ## VI. QUAN HỆ
 - **Phượng Kim Sí** (Chủ tớ): Tả Hộ Pháp, thượng cấp trực tiếp ra lệnh thanh trừng — hắn tuân lệnh nhưng không sợ
-- **Quạ Hắc Cánh** (Cấp dưới): Thuộc hạ trung thành nhất, kẻ hắn tự tay huấn luyện từ đứa trẻ mồ côi
+- **Quạ Hắc Dạ** (Cấp dưới): Thuộc hạ trung thành nhất, kẻ hắn tự tay huấn luyện từ đứa trẻ mồ côi
 - **Cú Tĩnh Vũ** (Gia tộc): Mưu sĩ cung cấp danh sách mục tiêu — hắn coi Tĩnh Vũ là con rắn nguy hiểm nhưng cần thiết
 - **Bằng Vạn Lý** (Đồng minh): Tiên Phong Tướng, kẻ chiến đấu ngoài sáng — hắn coi thường lối đánh vũ phu của Vạn Lý
 - **Ưng Liệt Phong** (Đồng minh): Chiến tướng đồng cấp, từng phối hợp trong nhiều chiến dịch — quan hệ tôn trọng nhưng lạnh nhạt
-- **Quạ Hắc Cánh — Thuộc Hạ & "Đứa Nhóc":**
+- **Quạ Hắc Dạ — Thuộc Hạ & "Đứa Nhóc":**
     - Mối quan hệ gần gũi nhất của hắn. Hắn không bao giờ nói ra, nhưng Hắc Cánh là thứ gần nhất với "gia đình" mà hắn có sau khi tộc bị diệt. Hắn huấn luyện Hắc Cánh tàn nhẫn không phải vì thù ghét mà vì biết rằng thế giới này tàn nhẫn hơn — nếu hắn không rèn đứa nhóc đủ cứng, nó sẽ chết. Khi Hắc Cánh bị thương, hắn là người duy nhất đích thân kiểm tra — dù mặt vẫn lạnh tanh.
     - Bí mật: hắn đã viết sẵn một bức thư cất trong hộp xương dưới chỗ ngủ, nội dung là dặn dò Hắc Cánh cách sống sót nếu hắn chết. Hắn cập nhật bức thư mỗi năm — thay đổi theo tình hình chính trị của thần điện.
 - **Phượng Kim Sí — Thượng Cấp:**
@@ -186,4 +186,4 @@ arcs:
 
 - **Truyền Thuyết "Ba Mươi Đêm Trăng Máu":** Tu giới Bắc Băng đồn rằng mỗi đêm trăng máu xuất hiện trên bầu trời, đâu đó sẽ có một tu sĩ Huyền Băng Cung chết không toàn thây. Người ta đếm được trong năm mươi năm qua, đã có hơn ba mươi đêm trăng máu trùng khớp với cái chết bí ẩn của tu sĩ Huyền Băng — tất cả đều chết cùng cách: bị hàng trăm lông vũ đỏ máu đâm xuyên toàn thân, mặt mang biểu cảm kinh hoàng như đang nhìn thấy ác quỷ. Không ai xác nhận đây là một người hay một tổ chức — nhưng cái tên "Hồng Nguyệt" đã trở thành nỗi ám ảnh.
 
-- **Lời Đồn "Sát Thủ Hát Ru":** Quạ Hắc Cánh — người duy nhất ở bên Huyết Dực Ma đủ lâu — từng vô tình nghe thấy hắn hát trong giấc ngủ. Giọng hắn khàn, vỡ, nhưng giai điệu rõ ràng là một bài hát ru cổ của Quạ Tộc — bài hát mà mẹ hắn từng hát. Hắc Cánh không bao giờ nhắc lại chuyện này với bất kỳ ai, vì y biết rằng nếu Huyết Dực Ma biết có người nghe thấy, y sẽ mất đi thứ duy nhất khiến y tin rằng thầy mình vẫn còn là người.
+- **Lời Đồn "Sát Thủ Hát Ru":** Quạ Hắc Dạ — người duy nhất ở bên Huyết Dực Ma đủ lâu — từng vô tình nghe thấy hắn hát trong giấc ngủ. Giọng hắn khàn, vỡ, nhưng giai điệu rõ ràng là một bài hát ru cổ của Quạ Tộc — bài hát mà mẹ hắn từng hát. Hắc Cánh không bao giờ nhắc lại chuyện này với bất kỳ ai, vì y biết rằng nếu Huyết Dực Ma biết có người nghe thấy, y sẽ mất đi thứ duy nhất khiến y tin rằng thầy mình vẫn còn là người.
