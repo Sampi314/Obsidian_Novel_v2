@@ -695,6 +695,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Nhân Vật Mới Điền Chi Tiết:** Trùng Thiên Lý Nhãn, Trùng Thính Phong, Trùng Tiểu Mật (Vi Trùng Trinh Sát Đội - Tây Mạc).
 - **Nhân Vật Mới Điền Chi Tiết:** Sương Vô Tình, Tuyệt Tình Hàn, Ám Băng Nhi (Sương Ma Uyển - Bắc Băng).
 - **Nhân Vật Mới Điền Chi Tiết:** Chu Minh Nguyệt, Chu Phong Kiếm, Hoàng Thanh Trúc, Chu Thanh Trúc, Chu Tiểu Thanh, Hoàng Hồng Vũ (Cửu Hoa Kiếm Tông - Đông Hoang).
+- **Nhân Vật Mới Điền Chi Tiết:** Phạm Linh Kế, Đặng Hỏa Nhi (Phá Băng Thương Đội - Bắc Băng).
 ### Các Nhân Vật Gần Đây Được Cập Nhật
 - **Thủy Tinh Thạch Phường (Tây Mạc):** Hoàn thiện hồ sơ chi tiết cho Phường Chủ Tinh Minh, cùng 2 Thợ Cả là Tinh Sắc và Tinh Thấu. Phe phái Thạch Tộc này hiện đang chịu sự áp bức của Thiên Sa Thương Hội và đang tìm cách thoát khỏi sự kìm kẹp.
 
@@ -782,6 +783,11 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hoàng Dược Sư (Luyện Khí Đỉnh Phong):** Dược Sư Trưởng gầy gò, trầm tĩnh, nắm giữ bí kíp bào chế đan dược cốt lõi của phường với phương châm "Y đạo cứu thế". Dùng Băng Tỏa Y Thuật (冰锁医术) để phong bế độc tố và thương thế.
   - **Liên Tuyết Nhi (Trúc Cơ Hậu Kỳ):** Phường Chủ thanh tú, lạnh lẽo tựa đóa tuyết liên. Tu luyện Băng Sương Hóa Khí (冰霜化气) và Hàn Mai Tảo Tuyết Kiếm (寒梅扫雪剑). Kiên định bảo vệ dược phường và cứu chữa quần sinh, mang hoài bão nghiên cứu thành công đan dược từ Băng Tằm Ti.
   - **Lý Tiểu Liên (Luyện Khí Sơ Kỳ):** Cô bé Dược Sư Học Việc nhí nhảnh, hoạt bát. Dù tu vi thấp chỉ dùng Tiểu Linh Khí Thuật (小灵气术), cô bé có khứu giác cực nhạy với dược thảo và ước mơ chế tạo kẹo hồ lô thảo dược trị bách bệnh.
+
+### Phá Băng Thương Đội (Bắc Băng)
+- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Phá Băng Thương Đội** (Bắc Băng):
+  - **Phạm Linh Kế (Quản Lý Tài Vụ):** Thanh niên gầy gò, đôi mắt nheo sau kính băng. Cẩn thận, chi li, am hiểu thị trường, dùng *Tiểu Tỏa Khí Quyết* để bảo quản dược liệu. Mang hoài bão trở thành Đại Chưởng Quỹ tương lai.
+  - **Đặng Hỏa Nhi (Hộ Vệ Trưởng):** Nữ tử nhỏ nhắn nhưng rắn rỏi, tóc đỏ, sử dụng *Liệt Hỏa Bạt Đao Trảm* hệ hỏa hiếm hoi để bảo vệ Thương Đội. Bộc trực, nóng nảy và tuyệt đối trung thành với Đội Trưởng.
 
 ### Phiêu Miễu Băng Hải (Bắc Băng)
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Phiêu Miễu Băng Hải** (Bắc Băng):

@@ -53861,13 +53861,13 @@ const relationshipData = {
       "source": "chau_pha_thien",
       "target": "pham_linh_ke",
       "type": "mentor",
-      "description": "Châu Phá Thiên chỉ dẫn Phạm Linh Kế trong Phá Băng Thương Đội"
+      "description": "Là ân nhân thu nhận Phạm Linh Kế lúc đói rách, giao hắn cho Lý Thiết Kế đào tạo."
     },
     {
       "source": "chau_pha_thien",
       "target": "dang_hoa_nhi",
       "type": "mentor",
-      "description": "Châu Phá Thiên chỉ dẫn Đặng Hỏa Nhi trong Phá Băng Thương Đội"
+      "description": "Là ân nhân cứu mạng Đặng Hỏa Nhi khỏi chết cóng, được nàng tuyệt đối trung thành bảo vệ."
     },
     {
       "source": "ly_thiet_ke",
@@ -53885,7 +53885,7 @@ const relationshipData = {
       "source": "ly_thiet_ke",
       "target": "pham_linh_ke",
       "type": "mentor",
-      "description": "Lý Thiết Kế chỉ dẫn Phạm Linh Kế trong Phá Băng Thương Đội"
+      "description": "Là sư phụ trực tiếp truyền dạy kỹ năng hậu cần và tính toán chi phí vận tải cho Linh Kế."
     },
     {
       "source": "nguyen_dai_xa",
@@ -53897,19 +53897,31 @@ const relationshipData = {
       "source": "nguyen_dai_xa",
       "target": "pham_linh_ke",
       "type": "ally",
-      "description": "Đồng liêu cùng Phá Băng Thương Đội, hỗ trợ lẫn nhau"
+      "description": "Hai người tạo thành cặp bài trùng: Phạm Linh Kế lo sổ sách, Nguyễn Đại Xa lo cơ bắp kiểm tra tải trọng."
     },
     {
       "source": "pham_linh_ke",
       "target": "chau_pha_thien",
       "type": "subordinate",
-      "description": "Phục tùng Châu Phá Thiên, Đội Trưởng của Phá Băng Thương Đội"
+      "description": "Ngưỡng mộ Đội Trưởng nhưng hay cằn nhằn về sự 'hào phóng' trong chi tiêu của ông."
     },
     {
       "source": "dang_hoa_nhi",
       "target": "chau_pha_thien",
       "type": "subordinate",
-      "description": "Phục tùng Châu Phá Thiên, Đội Trưởng của Phá Băng Thương Đội"
+      "description": "Nguyện làm lá chắn tiền phong bảo vệ Đội Trưởng, dù hay cãi lại những quyết định quá cẩn thận của ông."
+    },
+    {
+      "source": "dang_hoa_nhi",
+      "target": "ly_thiet_ke",
+      "type": "ally",
+      "description": "Hay làm phiền Lý Thiết Kế để xin thêm đan dược và khẩu phần ăn cho đội hộ vệ."
+    },
+    {
+      "source": "dang_hoa_nhi",
+      "target": "nguyen_dai_xa",
+      "type": "ally",
+      "description": "Tôn trọng sức mạnh của Đại Xa, thường dùng hắn làm điểm tựa để tạo bức tường phòng ngự khi chiến đấu."
     },
     {
       "source": "ly_thiet_ke",
