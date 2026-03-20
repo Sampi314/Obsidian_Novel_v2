@@ -32,9 +32,12 @@ Một tộc nhân Bạch Tuộc có dáng vẻ thư sinh kỳ lạ với bộ y 
 Chuyên tu về thuật điều khiển hải lưu và huyễn thuật dẫn dụ. Tuyệt kỹ "Ám Lưu Phục Kích" (暗流伏击) cho phép hắn tạo ra những dòng chảy ngầm bất thường để đưa chiến thuyền đối phương vào vị trí bất lợi nhất mà chúng không hề hay biết. Điểm mạnh là tư duy chiến thuật đỉnh cao và khả năng thao túng môi trường tác chiến, nhưng điểm yếu là thực lực chiến đấu trực diện khá thấp, hầu như không bao giờ lộ diện trước kẻ thù.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Sa Huyết Đao** (Chủ tớ): Thủ hạ trung thành trong Hắc Hải Hải Tặc
+- **Sa Huyết Đao** (Cấp dưới): Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc
+- **Chương Huyết Mực Vương** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
+- **Chương Lục Mực** (Sư đồ): Chương Ám Lưu chỉ dẫn Chương Lục Mực trong Hắc Hải Hải Tặc
 - **Sa Huyết Đao:** Vị vương mà hắn đang phục vụ, hắn là người duy nhất dám đưa ra những lời khuyên can ngăn sự điên cuồng của Sa Huyết Đao.
 - **Chương Lục Mực:** Cộng sự phối hợp trong việc tạo ra sương mù và hải lưu ngầm để bao vây mục tiêu.
 - **Ngư Hắc Lân:** Nguồn cung cấp tin tức tình báo chính xác để hắn lập ra các kế hoạch tác chiến.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Chương Ám Lưu từng là một quân sư tài ba bị thất sủng của một thế lực chính đạo ven biển sau khi những mưu kế quá mức tàn nhẫn của hắn bị phanh phui. Bị xua đuổi, hắn mang theo lòng hận thù gia nhập Liên Minh Hắc Hải và nhanh chóng chứng minh được giá trị của trí tuệ mình qua những chiến thắng vang dội. Hiện tại, hắn đang âm thầm xây dựng một mạng lưới bẫy hải lưu phủ khắp Vô Tận Hải để biến cả đại dương thành sân chơi của riêng mình.
