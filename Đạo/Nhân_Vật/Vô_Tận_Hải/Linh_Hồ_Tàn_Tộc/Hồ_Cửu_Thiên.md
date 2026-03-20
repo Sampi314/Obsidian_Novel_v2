@@ -35,9 +35,12 @@ Là hồ non Luyện Khí Viên Mãn, Hồ Cửu Thiên chưa thể hiện sức
 Điểm yếu chí mạng là thiếu kỹ năng tự vệ, cơ thể yếu ớt và dễ bị tiếng động mạnh làm hoảng sợ.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hồ Linh Hỏa** (Sư đồ): Hồ Linh Hỏa chỉ dẫn Hồ Cửu Thiên trong Linh Hồ Tàn Tộc
+- **Hồ Nguyệt Quang** (Sư đồ): Hồ Nguyệt Quang chỉ dẫn Hồ Cửu Thiên trong Linh Hồ Tàn Tộc
+- **Hồ Tuyết Lan** (Sư đồ): Hồ Tuyết Lan chỉ dẫn Hồ Cửu Thiên trong Linh Hồ Tàn Tộc
+- **Hồ Ảo Mộng Thiên** (Sư đồ): Hồ Ảo Mộng Thiên chỉ dẫn Hồ Cửu Thiên trong Linh Hồ Tàn Tộc
 - **Hồ Tuyết Nhi:** Tộc Trưởng và cũng là người chăm sóc trực tiếp, luôn giữ chặt Cửu Thiên bên mình và nghiêm cấm việc chạy ra ngoài.
 - **Hồ Nguyệt Quang:** Người thường xuyên cho Cửu Thiên mượn Nguyệt Quang Thạch để hấp thụ linh khí mỗi độ trăng rằm, coi nó như niềm hy vọng cuối cùng của tộc.
 - **Hồ Linh Hỏa:** Hộ pháp khắc khổ nhưng luôn lén mang những trái cây ngọt hái được từ sườn núi cho Cửu Thiên.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hồ Cửu Thiên không rõ cha mẹ là ai, chỉ biết được Hồ Tuyết Nhi nhặt về từ một trận tuyết lở ở rìa Bắc Băng trước khi toàn tộc chạy trốn đến Nam Cương rồi trôi dạt ra Vô Tận Hải. Trải qua những ngày tháng trốn chui trốn nhủi tại dãy Núi Độc Long, Cửu Thiên lớn lên trong sự bao bọc quá mức của các trưởng bối. Biến cố huyết mạch Cửu Vĩ Thiên Hồ chỉ bắt đầu bộc lộ vào sinh nhật thứ năm mươi, khiến Hồ Tuyết Nhi và cả tộc rơi vào trạng thái nửa mừng nửa lo. Cửu Thiên hiện tại vẫn đang cố gắng rèn luyện "Nguyệt Ảnh Huyễn Hồ Quyết", mơ ước một ngày có thể quang minh chính đại đi dạo dưới ánh mặt trời mà không sợ bị săn bắt.

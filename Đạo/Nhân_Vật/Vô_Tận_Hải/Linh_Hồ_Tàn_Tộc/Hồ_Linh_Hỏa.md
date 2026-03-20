@@ -35,9 +35,12 @@ Với tu vi Trúc Cơ Hậu Kỳ, Hồ Linh Hỏa là người có lực chiến
 Điểm yếu là công pháp này tự tổn hại kinh mạch, nếu chiến đấu kéo dài, sinh lực sẽ cạn kiệt dẫn đến tu vi giảm sút nghiêm trọng.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hồ Cửu Thiên** (Sư đồ): Hồ Linh Hỏa chỉ dẫn Hồ Cửu Thiên trong Linh Hồ Tàn Tộc
+- **Hồ Nguyệt Quang** (Đồng minh): Đồng liêu cùng Linh Hồ Tàn Tộc, hỗ trợ lẫn nhau
+- **Hồ Tuyết Lan** (Đồng minh): Đồng liêu cùng Linh Hồ Tàn Tộc, hỗ trợ lẫn nhau
+- **Hồ Ảo Mộng Thiên** (Đồng minh): Đồng liêu cùng Linh Hồ Tàn Tộc, hỗ trợ lẫn nhau
 - **Hồ Tuyết Nhi:** Tộc Trưởng, người hắn thề sẽ bảo vệ bằng mọi giá. Linh Hỏa luôn chấp hành mệnh lệnh của nàng vô điều kiện, dù đôi khi cho rằng tộc cần phải cứng rắn hơn.
 - **Hồ Cửu Thiên:** Hồ con ngây thơ mà hắn thường lén lút tuồn cho những trái cây ngọt, thấy bóng dáng tương lai của tộc mình trong đó.
 - **Hồ Nguyệt Quang:** Đồng liêu chịu trách nhiệm bảo vệ Nguyệt Quang Thạch. Linh Hỏa thường phối hợp cùng y trong những phiên gác đêm.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hồ Linh Hỏa từng là một chiến binh dũng mãnh của Hồ Tộc phương Bắc. Trong trận chiến yêu-nhân năm trăm năm trước, hắn đã mở đường máu để Tộc Trưởng đương thời dẫn một số ít người chạy trốn, nhưng bản thân bị thương nặng và rơi xuống Vực Sâu. Nhờ ý chí sinh tồn mãnh liệt, hắn hấp thụ hỏa linh khí dưới lòng vực, dù bị thiêu đốt dung mạo nhưng giữ được mạng. Trải qua bao gian truân tìm đường đến Nam Cương rồi Vô Tận Hải, hắn đã tìm lại được phần tàn tộc do Hồ Tuyết Nhi dẫn dắt. Hiện tại, Linh Hỏa tình nguyện làm người gác cổng mù mịt sương khói ở Núi Độc Long, sẵn sàng hy sinh để không kẻ nào bước qua được xác mình vào hang ổ của tộc.
