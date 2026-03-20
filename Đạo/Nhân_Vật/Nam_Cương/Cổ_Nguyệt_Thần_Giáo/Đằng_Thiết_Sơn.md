@@ -36,21 +36,21 @@ arcs:
       - character: Sơn Mãng
         description: Chiến Sĩ Đồ Đằng, thuộc hạ tin cậy nhất trên chiến trường
         feelings:
-          yeu: 0
+          yeu: 30
           han: 0
           kinh: 0
-          tin: 0
+          tin: 70
           so: 0
-          on: 0
+          on: 35
       - character: Đằng Thanh
         description: Đệ Tử Đồ Đằng, đệ tử ruột mà hắn đang đào tạo thành thế hệ kế cận
         feelings:
-          yeu: 0
+          yeu: 55
           han: 0
-          kinh: 71
-          tin: 49
+          kinh: 0
+          tin: 60
           so: 0
-          on: 50
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐẰNG THIẾT SƠN (藤鐵山)

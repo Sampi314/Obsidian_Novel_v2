@@ -83,6 +83,7 @@ arcs:
 - **Lệ Vô Tâm:** Thánh Tử, đồng môn duy nhất mà hắn dám nói chuyện.
 - **A Mộc:** Chân Truyền Đệ Tử, sư huynh thân thiết nhất, hay giúp hắn tránh bị bắt nạt.
 - **Độc Cô Lão Quái:** Môn Chủ, người mà hắn sợ hãi tuyệt đối.
+- **Cô Nguyệt Nương:** Cổ Độc Sư, người mà hắn từng xin học cổ trùng thuật nhưng bị từ chối.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ân Tiểu Độc là cháu họ của Ân Mộc Thanh, bị đưa vào Vạn Độc Môn vì gia đình nợ nần. Hắn không phù hợp với văn hóa tàn bạo của môn phái nhưng sống sót nhờ thiên phú nhận biết độc tố được coi là hữu dụng. Sự kiện then chốt là khi hắn phát hiện một âm mưu đầu độc từ bên ngoài nhắm vào Huyết Trì, cứu mạng nhiều đồng môn và được Độc Cô Lão Quái chú ý. Bí mật là hắn và Lệ Vô Tâm đang dần hình thành tình bạn kỳ lạ - hai kẻ lạc loài giữa một tổ chức tàn bạo.
