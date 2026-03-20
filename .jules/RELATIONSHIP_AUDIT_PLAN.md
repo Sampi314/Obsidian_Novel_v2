@@ -199,3 +199,4 @@ Tên file = tên nhân vật với `_` thay khoảng trắng (có dấu Tiếng 
 | 2026-03-20 | Claude Code | Nham Thần (DONE) | Checked 8 refs, fixed 7: added YAML for Loa Thiên Âm Hải, Ngư Vạn Hải, Giao Lệ Hoa Nguyệt, Ngư Hồ Tiên, Nấm Cổ Thụ, A Ngốc; added Độc Lập group to Nham Thần YAML; added Nham Thần to Diệp Tĩnh Sương Section VI |
 | 2026-03-20 | Claude Code | Lục Tiêu (DONE) | Checked 5 refs (Nguyệt Dao, A Ngốc, Diệp Thanh Y, Lâm Phong, Hắc Hạt Ma Trùng), all already bidirectional, no fixes needed |
 | 2026-03-20 | Claude Code | A Ngốc (DONE) | Checked 5 YAML + 9 markdown refs, fixed 3 missing reciprocals in A Ngốc's YAML (Nguyệt Dao, Sở Lăng Sương, Lâm Phong) |
+| 2026-03-20 | Claude Code | Lệ Nhược Thủy (DONE) | Checked 4 refs (Độc Cô Lão Quái, Ngao Đình, Ngư Quỷ Diện, Lệ Ngọc Hà), fixed 2 missing: Ngao Đình + Ngư Quỷ Diện YAML |
