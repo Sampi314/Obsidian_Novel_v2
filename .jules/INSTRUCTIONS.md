@@ -66,7 +66,7 @@
 > Vòng xoay hiện tại: Tạm dừng vòng xoay chính. Ưu tiên catch-up Lâm Phong + viết thêm chương cho tuyến khu vực mới.
 
 ### Ưu Tiên Phiên Tiếp Theo
-1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: Còn khoảng 281 nhân vật có placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật Sa Mạc Sinh Tồn Đoàn - Tây Mạc ở phiên trước: Hạ Thiên Lý, Lê Hoang Sa, Nguyễn Sinh Tồn). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
+1. **🔴 ƯU TIÊN TUYỆT ĐỐI — Task 9: Điền Chi Tiết Nhân Vật (2-3 nhân vật/phiên)**: Còn khoảng 284 nhân vật có placeholder `*(Chưa xác định)*` (Đã hoàn thành thêm 3 nhân vật San Hô Thợ Lặn Đội - Tây Mạc ở phiên trước: Nguyễn Thủy Tiên, Lê Ngọc Trai, Trần Hải Sâm). Mỗi phiên điền đầy đủ 2-3 nhân vật cùng phe phái. Xem hướng dẫn chi tiết tại Task 9 bên dưới. **KHÔNG viết chương mới cho đến khi hoàn thành Task 9.**
 2. **Sau khi Task 9 hoàn thành** → Tiếp tục Catch-up Lâm Phong (Task 2): Viết chương 133+ cho Góc Nhìn Lâm Phong.
 3. **Sau khi Task 9 hoàn thành** → Tiếp tục Task 5 (Tuyến Khu Vực): Viết Arc 2 cho các khu vực.
 
@@ -477,4 +477,3 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
 > Đã hoàn thành Task 9 cho 3 nhân vật Long Cung (Vô Tận Hải): Minh Trầm Mặc, Minh Uyên, Thanh Hàn Nguyệt.
 > Đã hoàn thành Task 9 cho 3 nhân vật San Hô Thợ Lặn Đội (Tây Mạc): Nguyễn Thủy Tiên, Lê Ngọc Trai, Trần Hải Sâm.
 > Đã hoàn thành Task 9 cho 3 nhân vật Cực Quang Thần Điện (Thiên Trụ): Yến Phi, Yến Tiểu Tiểu, Ưng Liệt Phong.
-> Đã hoàn thành Task 9 cho 3 nhân vật Sa Mạc Sinh Tồn Đoàn (Tây Mạc): Hạ Thiên Lý, Lê Hoang Sa, Nguyễn Sinh Tồn.

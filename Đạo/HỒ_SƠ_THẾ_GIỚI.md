@@ -823,12 +823,6 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Lê Ngọc Trai:** Thợ Lặn Kỳ Cựu Luyện Khí Trung Kỳ, cô nhi hoạt bát, sở hữu thân pháp Ngọc Cốt Lưu Thủy mượt mà dưới nước.
   - **Trần Hải Sâm:** Thợ Lặn Kỳ Cựu Luyện Khí Trung Kỳ, chiến hữu cũ của cha Thủy Tiên, vạm vỡ, trầm ổn, dùng mạng sống bảo vệ đội.
 
-### Sa Mạc Sinh Tồn Đoàn (Tây Mạc)
-- Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Sa Mạc Sinh Tồn Đoàn** (Tây Mạc):
-  - **Hạ Thiên Lý:** Đoàn Trưởng Trúc Cơ Sơ Kỳ. Tán tu kiên cường từng 10 lần suýt chết, sáng lập đoàn dẫn đường sinh tử, sử dụng Phong Sa Thuật và La Bàn Xương Cổ.
-  - **Lê Hoang Sa:** Phó Đoàn Trưởng Luyện Khí Đỉnh Phong. Dáng người nhỏ thó, cẩn trọng quá mức, trung thành tuyệt đối và quản lý tuyến đường Bắc nguy hiểm.
-  - **Nguyễn Sinh Tồn:** Thành Viên Luyện Khí Hậu Kỳ. Chàng trai mồ côi thấp đậm, trầm tính, xuất sắc trong bào chế thuốc giải và kỹ năng sinh tồn sa mạc.
-
 ### Sa Mãng Tộc (Tây Mạc)
 - **Huyền Sa:** Tộc Trưởng Sa Mãng Tộc (Trúc Cơ Hậu Kỳ). Xà yêu khổng lồ, điềm tĩnh và cẩn trọng, sở hữu Hắc Sa Kịch Độc. Đang tìm hiểu bí mật bộ xương Mãng cổ đại để tìm công pháp cho xà tộc.
 - **Xà Ám Lân:** Trưởng Lão (Trúc Cơ Sơ Kỳ). Xà yêu xám tro nóng nảy, hiếu chiến, sức mạnh cận chiến đáng nể nhưng dễ bị kích động. Tuyệt đối trung thành với Huyền Sa và căm thù Thiết Giáp Yêu Thú Đàn.

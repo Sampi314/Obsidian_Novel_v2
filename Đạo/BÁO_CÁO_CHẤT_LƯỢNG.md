@@ -15,11 +15,7 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Sa Mạc Sinh Tồn Đoàn (Tây Mạc)
-- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hạ Thiên Lý, Lê Hoang Sa, Nguyễn Sinh Tồn thuộc khu vực Tây Mạc.
-- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
-
-### [Phiên Trước] - Hoàn thiện nhân vật Cực Quang Thần Điện (Thiên Trụ)
+### [Hiện Tại] - Hoàn thiện nhân vật Cực Quang Thần Điện (Thiên Trụ)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Yến Phi, Yến Tiểu Tiểu, Ưng Liệt Phong thuộc khu vực Thiên Trụ.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
@@ -67,4 +63,7 @@
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lam Tịnh Thủy, Mộng Hàn Yên, Nguyệt Ảnh Hồ thuộc khu vực Bắc Băng.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
+### [Phiên Trước] - Hoàn thiện nhân vật Linh Hồ Tàn Tộc (Vô Tận Hải)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Hồ Tuyết Lan, Hồ Tuyết Nhi, Hồ Ảo Mộng Thiên thuộc khu vực Vô Tận Hải.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
