@@ -5584,6 +5584,36 @@ const relationshipData = {
       "description": "Oanh Phương Dược khi hóa nhân là một thiếu nữ xinh xắn, dáng người nhỏ nhắn linh hoạt, mái tóc nâu vàng ngắn xoăn nhẹ, đôi mắt nâu ấm áp sáng long lanh. Mũi nhỏ nhọn hay hít hít không khí tìm mùi thảo dược, tay luôn dính bột đan dược đủ màu."
     },
     {
+      "id": "Lâm Nguyệt Hoa",
+      "name": "Lâm Nguyệt Hoa",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "status": "Còn Sống",
+      "cultivation_level": "Trúc Cơ Hậu Kỳ",
+      "cultivation_technique": "Nguyệt Hoa Huyễn Ảnh Kiếm",
+      "traits": "Thanh Tĩnh Thủ Tâm, Lạnh lùng, Kín đáo",
+      "description": "Nội Môn Đệ Tử Nguyệt Hoa Phong, mang vỏ bọc băng giá sau khi mất gia đình, chuyên tâm vào thiền định và kiếm ý để được tự tay bảo vệ Nguyệt Hoa Phong."
+    },
+    {
+      "id": "Lâm Tĩnh Tâm",
+      "name": "Lâm Tĩnh Tâm",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "status": "Còn Sống",
+      "cultivation_level": "Kim Đan Trung Kỳ",
+      "cultivation_technique": "Nguyệt Ảnh Trảm Thiên Kiếm",
+      "traits": "Trảm Ngã Kiến Chân, Anh tuấn, Ung dung",
+      "description": "Chân Truyền Đệ Tử Nguyệt Hoa Phong, kỳ tài ngộ đạo thiên về tĩnh tâm, luôn kiềm chế sự sụp đổ trong Kim Đan do một sai lầm trong quá khứ."
+    },
+    {
+      "id": "Lão Lý Quét Sân",
+      "name": "Lão Lý Quét Sân",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "status": "Còn Sống",
+      "cultivation_level": "Phàm Nhân",
+      "cultivation_technique": "Không có",
+      "traits": "Quét Tận Hồng Trần, Mộc mạc, Hiền hậu",
+      "description": "Lão bộc quét sân đã 60 năm tại Cửu Hoa Kiếm Tông, không có linh căn nhưng lại sở hữu 'Khứ Nhãn' nhạy bén quan sát vạn vật."
+    },
+    {
       "id": "cuu_thien",
       "name": "Cừu Thiên",
       "title": "Đệ Nhất Huyết Tướng",
@@ -59825,6 +59855,54 @@ const relationshipData = {
       "strength": 65,
       "bidirectional": true,
       "description": "Hoàng Thiên Dực là biểu ca họ xa và Thánh Tử, luôn kỳ vọng Hồng Vũ thành trụ cột tông môn."
+    },
+    {
+      "source": "Lâm Nguyệt Hoa",
+      "target": "Vũ Phi Kiếm",
+      "type": "Sư Đồ",
+      "strength": 80,
+      "bidirectional": true,
+      "description": "Sư tôn đáng kính, người truyền dạy kiếm đạo tĩnh tâm trên Nguyệt Hoa Phong."
+    },
+    {
+      "source": "Lâm Tĩnh Tâm",
+      "target": "Vũ Phi Kiếm",
+      "type": "Sư Đồ",
+      "strength": 85,
+      "bidirectional": true,
+      "description": "Sư tôn đáng kính, người truyền thừa đạo thống cho hắn."
+    },
+    {
+      "source": "Lâm Tĩnh Tâm",
+      "target": "Lâm Nguyệt Hoa",
+      "type": "Đồng Môn",
+      "strength": 60,
+      "bidirectional": true,
+      "description": "Đại sư huynh và sư muội đồng môn, âm thầm động viên nhau nhưng không dễ gần."
+    },
+    {
+      "source": "Lão Lý Quét Sân",
+      "target": "Vũ Phi Kiếm",
+      "type": "Khác",
+      "strength": 40,
+      "bidirectional": true,
+      "description": "Phong Chủ Nguyệt Hoa Phong thường lặng lẽ quan sát lão quét sân mà không mở lời."
+    },
+    {
+      "source": "Lão Lý Quét Sân",
+      "target": "Lâm Nguyệt Hoa",
+      "type": "Khác",
+      "strength": 50,
+      "bidirectional": true,
+      "description": "Lâm Nguyệt Hoa hay lén tặng đan dược cho Lão Lý dưỡng sinh."
+    },
+    {
+      "source": "Lão Lý Quét Sân",
+      "target": "Lâm Tĩnh Tâm",
+      "type": "Khác",
+      "strength": 55,
+      "bidirectional": true,
+      "description": "Lâm Tĩnh Tâm thích hỏi han và đàm đạo nhân sinh với Lão Lý."
     }
   ],
   "meta": {

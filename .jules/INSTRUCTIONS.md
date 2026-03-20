@@ -209,6 +209,7 @@
 - Cũng cập nhật `index.html` nếu cần thiết để hiển thị đúng navigation
 
 ### Ghi Chú
+> Đã hoàn thành Task 9 cho 3 nhân vật Cửu Hoa Kiếm Tông (Đông Hoang): Lâm Nguyệt Hoa, Lâm Tĩnh Tâm, Lão Lý Quét Sân.
 > Đã hoàn thành Task 9 cho 3 nhân vật Cửu Hoa Kiếm Tông (Đông Hoang): Hoàng Tuyết Liên, Hà Trận Linh, Hà Tử Phong.
 > Đã hoàn thành Task 9 cho 2 nhân vật Phá Băng Thương Đội (Bắc Băng): Phạm Linh Kế, Đặng Hỏa Nhi.
 > Đã hoàn thành Task 9 cho 3 nhân vật Cửu Hoa Kiếm Tông (Đông Hoang): Chu Thanh Trúc, Chu Tiểu Thanh, Hoàng Hồng Vũ.
