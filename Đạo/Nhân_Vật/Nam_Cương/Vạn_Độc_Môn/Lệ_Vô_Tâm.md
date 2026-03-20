@@ -172,6 +172,10 @@ arcs:
 - **Cộng Sinh:** Hắc Hạt Ma Trùng (Trùng Đế - Nuôi dưỡng bằng xác chết và máu, mượn Trùng Triều tấn công Cửu Hoa Kiếm Tông. Coi hắn như công cụ nhưng luôn phải đề phòng bị phản phệ).
 - **Đồng Minh:**
     - **Huyết Ma Tông Thiếu Chủ:** Thỉnh thoảng hợp tác để đối phó phe chính đạo, nhưng luôn đề phòng lẫn nhau.
+- **Đồng Môn:**
+    - **A Mộc:** Chân Truyền Đệ Tử cố gắng kết bạn nhưng hắn không quan tâm.
+    - **Ân Tiểu Độc:** Nội Môn Đệ Tử nhút nhát duy nhất dám nói chuyện với hắn.
+- **Thuộc Hạ:** Mặc Dơi (Đệ tử nội môn phụ trách vận chuyển Huyết Tinh, trung thành vì sợ hãi).
 
 ## VII. GIAI THOẠI
 > *"Gặp Diêm Vương còn có đường sống, gặp Vô Tâm chỉ còn đường chết."*

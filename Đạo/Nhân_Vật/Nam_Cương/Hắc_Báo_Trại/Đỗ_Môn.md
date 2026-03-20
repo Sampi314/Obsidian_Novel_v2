@@ -42,6 +42,24 @@ arcs:
           tin: 80
           so: 0
           on: 0
+      - character: Đỗ Tiểu Hổ
+        description: Cháu họ, đệ tử trẻ ngưỡng mộ hắn nhất trong trại
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
+      - character: Vương Thiết Nha
+        description: Hắc Đao Trưởng Lão, người thề trung thành với hắn, chiến hữu đáng tin cậy
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐỖ MÔN (杜門)

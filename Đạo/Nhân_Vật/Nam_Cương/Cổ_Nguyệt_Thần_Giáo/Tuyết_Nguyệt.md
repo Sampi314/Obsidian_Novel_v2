@@ -51,6 +51,51 @@ arcs:
           tin: 29
           so: 0
           on: 40
+      - character: Cổ Lan
+        description: Trưởng Lão Tế Tư, bậc tiền bối trung thành giữ gìn truyền thống, bà coi trọng sự ổn định mà Cổ Lan mang lại
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 0
+          tin: 72
+          so: 0
+          on: 35
+      - character: Đằng Hổ
+        description: Phó Trưởng Lão Đồ Đằng, chiến tướng trung thành và dũng mãnh, bà tin tưởng giao phó tiền tuyến
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 65
+          so: 0
+          on: 38
+      - character: Linh Nguyệt Hà
+        description: Trưởng Lão Tế Tư, người nắm giữ bí thuật tử linh quý giá, bà tôn trọng tài năng đặc thù của Linh Nguyệt Hà
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 68
+          so: 0
+          on: 30
+      - character: Mộng Yểm
+        description: Trưởng Lão Tế Tư, hay phản biện nhưng bà đánh giá cao sự thẳng thắn và trí tuệ sắc bén của ông
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 65
+          so: 0
+          on: 32
+      - character: Nguyệt Trầm
+        description: Trưởng Lão Tế Tư, tài năng huyễn thuật đáng quý nhưng bà nhận thấy ông thiếu bản lĩnh quyết đoán
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 55
+          so: 0
+          on: 30
 ---
 
 # HỒ SƠ NHÂN VẬT: TUYẾT NGUYỆT (雪月)
@@ -74,6 +119,11 @@ Tuyết Nguyệt tinh thông Cổ Nguyệt Tâm Kinh (古月心經) đến cản
 - **Bạch Vọng Nguyệt:** Đệ Tam Phó Tư Tế, môn đồ tài năng nhưng tham vọng, Tuyết Nguyệt vừa trọng dụng vừa đề phòng.
 - **Đằng Thiết Sơn:** Thống Lĩnh Đồ Đằng, chiến tướng trung thành bảo vệ giáo phái, được bà tuyệt đối tín nhiệm.
 - **Lam Nguyệt Nhi:** Thánh Nữ kế nhiệm, người bà dồn hết tâm huyết đào tạo.
+- **Cổ Lan:** Trưởng Lão Tế Tư, bậc tiền bối trung thành giữ gìn truyền thống, bà coi trọng sự ổn định mà Cổ Lan mang lại.
+- **Đằng Hổ:** Phó Trưởng Lão Đồ Đằng, chiến tướng trung thành và dũng mãnh, bà tin tưởng giao phó tiền tuyến.
+- **Linh Nguyệt Hà:** Trưởng Lão Tế Tư, người nắm giữ bí thuật tử linh quý giá, bà tôn trọng tài năng đặc thù của Linh Nguyệt Hà.
+- **Mộng Yểm:** Trưởng Lão Tế Tư, hay phản biện nhưng bà đánh giá cao sự thẳng thắn và trí tuệ sắc bén của ông.
+- **Nguyệt Trầm:** Trưởng Lão Tế Tư, tài năng huyễn thuật đáng quý nhưng bà nhận thấy ông thiếu bản lĩnh quyết đoán.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Tuyết Nguyệt sinh ra trong dòng dõi vu nữ lâu đời nhất của Cổ Nguyệt Thần Giáo, từ nhỏ đã được chọn làm Thánh Nữ nhờ thể chất đặc thù hấp thụ nguyệt quang. Sau khi vị Đại Tư Tế tiền nhiệm qua đời trong một cuộc xung đột với Vạn Độc Môn, bà kế vị ở tuổi hai mươi lăm và nhanh chóng ổn định lòng dân bằng tài lãnh đạo thiên bẩm. Dưới thời bà, giáo phái chuyển sang chiến lược biệt lập, tránh xa các cuộc tranh chấp bên ngoài để tập trung tu luyện và bảo tồn bí thuật cổ đại. Bí mật lớn nhất của Tuyết Nguyệt là bà đang dần mất đi khả năng giao tiếp với Cổ Nguyệt Thần, điều mà bà giấu kín để không gây hoang mang trong giáo phái.
