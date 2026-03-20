@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Nham Thần
+        description: Đồng liêu Cự Tộc trong nhóm Độc Lập, hỗ trợ lẫn nhau bảo vệ rừng
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 50
+          tin: 60
+          so: 5
+          on: 20
 ---
 
 # HỒ SƠ NHÂN VẬT: NẤM CỔ THỤ (菌古樹)

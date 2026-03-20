@@ -44,6 +44,15 @@ arcs:
           tin: 60
           so: 0
           on: 0
+      - character: Nham Thần
+        description: Tiền bối Cự Tộc kết nối sâu sắc, hiểu được sự đặc biệt của Hỗn Độn Linh Căn
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 30
+          tin: 40
+          so: 10
+          on: 15
 ---
 
 # HỒ SƠ NHÂN VẬT: A NGỐC (阿傻)

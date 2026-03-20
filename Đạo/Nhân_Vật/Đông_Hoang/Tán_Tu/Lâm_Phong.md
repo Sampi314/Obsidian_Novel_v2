@@ -70,6 +70,15 @@ arcs:
           tin: 20
           so: 0
           on: 10
+      - character: Phương Vô Kỵ
+        description: Bạn tốt, đồng cảm vì cùng là Tán Tu yêu tự do
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 30
+          tin: 50
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: Lâm Phong

@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Nham Thần
+        description: Tiền bối Cự Tộc trong nhóm Độc Lập, đồng liêu đáng kính
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 60
+          tin: 50
+          so: 10
+          on: 20
 ---
 
 # HỒ SƠ NHÂN VẬT: LOA THIÊN ÂM HẢI (螺千音海)

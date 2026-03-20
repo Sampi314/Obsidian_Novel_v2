@@ -80,6 +80,8 @@ arcs:
 - **Ngư Hồ Tiên** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Độc Lập
 - **Diệp Tĩnh Sương** (Đồng minh): Met and guided her on her path
 - **Nấm Cổ Thụ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Độc Lập
+- **Phương Vô Kỵ** (Phiền phức): Tán tu từng trộm đồ của ông, khiến ông bực mình
+- **A Ngốc** (Hậu bối): Tán tu hồn nhiên sở hữu Hỗn Độn Linh Căn, kết nối sâu sắc qua sự thấu hiểu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 - Nham Thần sinh ra từ kỷ nguyên trước, khi thế giới tu chân còn sơ khai và Cự Tộc là những kẻ thống trị mặt đất. Trải qua những cuộc chiến tranh thiên giới cổ đại, Cự Tộc suy tàn và rút lui vào lòng đất sâu thẳm.
 - Hàng ngàn năm qua, Nham Thần lang thang trên Cố Nguyên Giới dưới hình hài một ngọn núi biết đi, tìm kiếm những vùng đất bị tổn thương để chữa lành long mạch. Mỗi khi kiệt sức, ông lại chìm vào giấc ngủ dài hàng thế kỷ, chờ đợi đến khi trái đất gọi tên ông lần nữa.

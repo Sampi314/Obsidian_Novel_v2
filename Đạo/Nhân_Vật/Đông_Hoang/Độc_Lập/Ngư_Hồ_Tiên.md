@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Nham Thần
+        description: Tiền bối Cự Tộc dẫn dắt trong nhóm Độc Lập, bậc trưởng bối đáng kính
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 70
+          tin: 60
+          so: 15
+          on: 40
 ---
 
 # HỒ SƠ NHÂN VẬT: NGƯ HỒ TIÊN (魚湖仙)
