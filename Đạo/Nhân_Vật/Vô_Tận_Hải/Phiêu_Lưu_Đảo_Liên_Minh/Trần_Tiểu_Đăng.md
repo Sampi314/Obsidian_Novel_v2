@@ -32,7 +32,9 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Lê Bạch Ngư** (Sư đồ): Lê Bạch Ngư chỉ dẫn Trần Tiểu Đăng trong Phiêu Lưu Đảo Liên Minh
+- **Phạm Sóng** (Sư đồ): Phạm Sóng chỉ dẫn Trần Tiểu Đăng trong Phiêu Lưu Đảo Liên Minh
+- **Trần Hải Phong** (Sư đồ): Trần Hải Phong chỉ dẫn Trần Tiểu Đăng trong Phiêu Lưu Đảo Liên Minh
+- **Trần Hải Phong** (Cấp dưới): Phục tùng Trần Hải Phong, Tổng Đảo Chủ của Phiêu Lưu Đảo Liên Minh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

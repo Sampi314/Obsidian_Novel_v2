@@ -32,7 +32,10 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Hoàng Hải Triều** (Đồng minh): Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau
+- **Lê Bạch Ngư** (Đồng minh): Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau
+- **Phạm Sóng** (Đồng minh): Đồng liêu cùng Phiêu Lưu Đảo Liên Minh, hỗ trợ lẫn nhau
+- **Trần Tiểu Đăng** (Sư đồ): Trần Hải Phong chỉ dẫn Trần Tiểu Đăng trong Phiêu Lưu Đảo Liên Minh
+- **Trần Tiểu Đăng** (Cấp dưới): Phục tùng Trần Hải Phong, Tổng Đảo Chủ của Phiêu Lưu Đảo Liên Minh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
