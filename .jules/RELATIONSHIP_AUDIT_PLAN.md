@@ -96,7 +96,7 @@ arcs:
 - [ ] Lục Ly
 - [ ] Nguyệt Dao
 - [x] Nham Thần
-- [ ] Lục Tiêu
+- [x] Lục Tiêu
 - [ ] Lệ Nhược Thủy
 - [ ] Ngao Đình
 - [ ] Hứa Nhược Thủy
@@ -197,3 +197,4 @@ Tên file = tên nhân vật với `_` thay khoảng trắng (có dấu Tiếng 
 | 2026-03-20 | Claude Code | Phương Vô Kỵ (DONE) | Checked 5 refs, fixed 2: added YAML entry for Lâm Phong, added markdown entries for Nham Thần. Diệp Tĩnh Sương, Ngao Đình, A Ngốc already bidirectional |
 | 2026-03-20 | Claude Code | Lý Tuyết Ưng (DONE) | Checked 3 refs (Đan Dương Tử, Ưng Bạch Đế, A Ngốc), fixed 1 missing reciprocal in A Ngốc's YAML |
 | 2026-03-20 | Claude Code | Nham Thần (DONE) | Checked 8 refs, fixed 7: added YAML for Loa Thiên Âm Hải, Ngư Vạn Hải, Giao Lệ Hoa Nguyệt, Ngư Hồ Tiên, Nấm Cổ Thụ, A Ngốc; added Độc Lập group to Nham Thần YAML; added Nham Thần to Diệp Tĩnh Sương Section VI |
+| 2026-03-20 | Claude Code | Lục Tiêu (DONE) | Checked 5 refs (Nguyệt Dao, A Ngốc, Diệp Thanh Y, Lâm Phong, Hắc Hạt Ma Trùng), all already bidirectional, no fixes needed |
