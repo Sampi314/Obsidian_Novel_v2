@@ -32,9 +32,9 @@ Phong thái lạnh lùng bí ẩn, ít ai biết được suy nghĩ thực sự.
 Thành viên của Hoang Dã Thợ Săn Bang, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 鷹利眼·Bản Mệnh (鷹利眼·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Báo Khoái Đao:** Sát Thủ, đồng liêu quan trọng nhất trong Hoang Dã Thợ Săn Bang.
-- **Hổ Thiết Trảo:** Phó Bang Chủ, đối tác thường xuyên phối hợp.
-- **Lang Liệp Phong:** Bang Chủ, mối quan hệ tin cậy lẫn nhau.
-
+- **Lang Liệp Phong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Hoang Dã Thợ Săn Bang
+- **Lang Liệp Phong** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lang Liệp Phong
+- **Hổ Thiết Trảo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hoang Dã Thợ Săn Bang
+- **Báo Khoái Đao** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Hoang Dã Thợ Săn Bang
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Ưng Lợi Nhãn xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Hoang Dã Thợ Săn Bang. Trải qua thử thách sinh tử, nàng gia nhập Hoang Dã Thợ Săn Bang và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trinh Sát Trưởng.
