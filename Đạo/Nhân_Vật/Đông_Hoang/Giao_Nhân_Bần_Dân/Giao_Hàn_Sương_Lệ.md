@@ -109,6 +109,16 @@ Năm hai mươi mốt tuổi, trong một lần ra ngoài, nàng tình cờ gặ
 
 Năm năm qua, nàng đã thực hiện hơn bốn mươi chuyến liên lạc — mỗi chuyến là một đêm không ngủ, bơi xuyên bóng tối, mang theo tấm ti biển dệt mật mã, đổi về tin tức và đôi khi là vật phẩm nhỏ. Nàng không bao giờ gặp cùng một liên lạc viên hai lần — Liên Minh thay người liên tục để giảm rủi ro. Nàng không biết kế hoạch tổng thể của Liên Minh, chỉ biết phần mình phải làm. Và nàng biết: mỗi chuyến đi có thể là chuyến cuối.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Giao Bạch Phát** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Bần Dân
+- **Giao Bạch Phát** (Sư phụ): Trưởng lão, người dạy mình bơi lén khi còn nhỏ
+- **Giao Thiên Lệ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Giao Nhân Bần Dân
+- **Giao Tiểu Lệ** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Giao Nhân Bần Dân
+- **Giao Lệ Vân** (Đồng minh): Thủ lĩnh, người duy nhất biết mọi chuyến đi của mình, gánh nặng chung
+- **Giao Mộng Hải** (Đồng minh): Thợ dệt dệt mật mã mà mình mang đi, người hiền lành nhất mình biết
+- **Giao Phẫn Hải** (Đồng minh): Kẻ nóng nảy mà mình phải tránh xa vì không thể để hắn biết quá nhiều
+- **Giao Tàn Ty** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Bần Dân
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 - **Phưởng Ti Thuật (纺丝术):**

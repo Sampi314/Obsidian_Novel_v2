@@ -107,6 +107,17 @@ Năm mười sáu tuổi, Phẫn Hải đánh quản công lần đầu. Một q
 
 Hiện tại, Phẫn Hải ngầm tu luyện bằng cách chuyển hóa phẫn nộ thành linh lực — một phương pháp hỗn loạn, không hệ thống, nhưng đạt Luyện Khí Viên Mãn chỉ bằng bản năng. Hắn mài xương cá mỗi đêm, tập đấm mỗi ngày, và chờ đợi — không phải chờ thời cơ như Giao Lệ Vân, mà chờ giọt nước tràn ly.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Giao Tiểu Lệ** (Thủ lĩnh): Đứa nhỏ mà mình muốn bảo vệ, bằng chứng sống cho tội ác của hoàng tộc
+- **Giao Bạch Phát** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Bạch Phát
+- **Giao Bạch Phát** (Đồng minh): Thằng nhỏ nóng nảy, giống hệt Lệ Huyết thời trẻ — đó là điều đáng sợ nhất
+- **Giao Hàn Sương Lệ** (Đồng minh): Kẻ nóng nảy mà mình phải tránh xa vì không thể để hắn biết quá nhiều
+- **Giao Lệ Vân** (Đồng minh): Chiến sĩ trẻ nóng nảy, vừa là hy vọng vừa là mối lo
+- **Giao Vô Danh** (Đồng minh): Kẻ phản kháng mà mình ngưỡng mộ từ xa nhưng sợ bị liên lụy
+- **Giao Tàn Ty** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Bần Dân
+- **Giao Khổ Hải** (Kẻ thù): Đứa em nuôi mà mình coi như ruột thịt, đứa trẻ mồ côi mình nhận về ngày mẹ nó chết
+- **Giao Nguyệt Lệ** (Kẻ thù): Phó Minh Chủ đàn áp, Phẫn Hải là phản kháng
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 - **Phưởng Ti Thuật (纺丝术):**

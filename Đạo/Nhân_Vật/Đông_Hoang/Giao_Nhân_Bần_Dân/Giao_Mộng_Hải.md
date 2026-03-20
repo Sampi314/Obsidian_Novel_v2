@@ -107,6 +107,17 @@ Bí mật lớn nhất của Giao Mộng Hải: mỗi đêm, sau khi hoàn thàn
 
 Gần đây, Giao Lệ Vân giao cho hắn một nhiệm vụ đặc biệt: dệt mật mã vào ti biển giao cho thương nhân, phương thức liên lạc với Giao Nhân Tộc Liên Minh. Hắn làm không phải vì hiểu chính trị, mà vì Lệ Vân nói: "Nếu thành công, một ngày nào đó ngươi sẽ được giữ tấm vải mình dệt." Câu nói ấy khiến hắn khóc — và viên ngọc trai ấy, lần đầu tiên, hắn giấu được.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Giao Bạch Phát** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Giao Nhân Bần Dân
+- **Giao Bạch Phát** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Giao Bạch Phát
+- **Giao Thiên Lệ** (Sư phụ): Sư phụ dệt, người dạy mình mọi hoa văn trước khi bà mù hẳn
+- **Giao Tiểu Lệ** (Sư phụ): Đứa nhỏ mà mình đang dạy dệt, đôi tay bé xíu nhưng có thiên phú
+- **Giao Hàn Sương Lệ** (Đồng minh): Thợ dệt dệt mật mã mà mình mang đi, người hiền lành nhất mình biết
+- **Giao Lệ Vân** (Đồng minh): Thợ dệt tài hoa, người giữ lại vẻ đẹp cuối cùng của dân tộc
+- **Giao Tàn Ty** (Đồng minh): Bạn thân, kẻ cung cấp tơ tốt nhất cho mình trước khi tuyến tơ hỏng
+- **Giao Vô Danh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Bần Dân
+- **Giao Khổ Hải** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Giao Nhân Bần Dân
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 - **Phưởng Ti Thuật (纺丝术):**
