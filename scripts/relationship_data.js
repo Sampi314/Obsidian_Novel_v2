@@ -3049,3 +3049,21 @@ if (typeof characters !== 'undefined') {
         { source: "thanh_han_nguyet", target: "minh_tram_mac", type: "Hợp Tác Miễn Cưỡng", description: "Tôn trọng trí tuệ của hắn nhưng không thích sự tĩnh lặng đáng sợ đó, thường miễn cưỡng hợp tác khi có lệnh." }
     );
 }
+
+// San Hô Thợ Lặn Đội (Tây Mạc)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "nguyen_thuy_tien", name: "Nguyễn Thủy Tiên", title: "Đội Trưởng", realm: "Trúc Cơ Viên Mãn", faction: "San Hô Thợ Lặn Đội", region: "Tây Mạc", role: "leader", pov: false, avatar_color: "#1e90ff" },
+        { id: "le_ngoc_trai", name: "Lê Ngọc Trai", title: "Thợ Lặn Kỳ Cựu", realm: "Luyện Khí Trung Kỳ", faction: "San Hô Thợ Lặn Đội", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#ff69b4" },
+        { id: "tran_hai_sam", name: "Trần Hải Sâm", title: "Thợ Lặn Kỳ Cựu", realm: "Luyện Khí Trung Kỳ", faction: "San Hô Thợ Lặn Đội", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#8b4513" }
+    );
+    relationships.push(
+        { source: "nguyen_thuy_tien", target: "tran_hai_sam", type: "Kính Trọng", description: "Kính trọng như một người chú, luôn lắng nghe kinh nghiệm của ông." },
+        { source: "nguyen_thuy_tien", target: "le_ngoc_trai", type: "Che Chở", description: "Coi như em gái ruột, luôn bảo vệ và bao dung sự hoạt bát của cô." },
+        { source: "le_ngoc_trai", target: "nguyen_thuy_tien", type: "Tôn Kính", description: "Tôn kính như chị cả, dù thỉnh thoảng lén phá luật." },
+        { source: "le_ngoc_trai", target: "tran_hai_sam", type: "Biết Ơn", description: "Bị lão thường xuyên rầy la nhưng biết lão luôn ngầm bảo vệ dưới nước." },
+        { source: "tran_hai_sam", target: "nguyen_thuy_tien", type: "Hỗ Trợ", description: "Coi như con cháu, dùng mạng sống để bảo vệ và hỗ trợ quản lý đội." },
+        { source: "tran_hai_sam", target: "le_ngoc_trai", type: "Bảo Vệ Ngầm", description: "Hay càu nhàu về tính liều lĩnh nhưng luôn lẳng lặng bơi theo bảo vệ nàng." },
+        { source: "nguyen_thuy_tien", target: "thuy_linh_nhi", type: "Hữu Hảo", description: "Trao đổi tin tức về tình trạng rạn san hô và cảnh báo nguy hiểm." }
+    );
+}
