@@ -5,7 +5,7 @@ hantu: 雷池圣地
 faction_type: Tông Môn
 alignment: 5
 race: Nhân Tộc (Lôi tu), Lôi Yêu
-region: Trung Tâm
+region: Thiên Trụ
 founded: Thái Cổ Kỷ Nguyên
 founder: Lôi Tôn Cổ Đại
 emblem: Tia_Set_Xuyen_Tam_Cuc.png

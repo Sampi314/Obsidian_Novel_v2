@@ -23,7 +23,7 @@
 ## II. Thế Giới & Địa Lý
 - **Cấu Trúc:** Cố Nguyên Lục Địa bao quanh bởi Vô Tận Hải.
 - **Địa Danh Chính:**
-    - Trung Tâm: Thiên Trụ Sơn.
+    - Trung Tâm Chính: Thiên Trụ (天柱) — trục giữa trời đất, nơi Thiên Trụ Sơn tọa lạc, trung tâm chính trị và tu luyện của Cố Nguyên Giới.
     - Tứ Phương: Đông Hoang, Tây Mạc, Nam Cương, Bắc Băng.
     - **Bắc Băng (Northern Ice Region):** Vùng đất băng giá vĩnh cửu, nơi ngự trị của Huyền Băng Cung và Băng Tộc. Nổi tiếng với Cực Quang và Băng Linh Khí.
     - **Nam Cương (Southern Border):** Vùng đất rừng rậm chướng khí, nơi ngự trị của Vạn Độc Môn và Đan Hà Cốc. Xem tại `Đạo/Thế_Giới_Và_Thời_Gian/Nam_Cương.md`.
@@ -454,7 +454,7 @@
     - [Phong Sát Cốc](Thế_Lực/Phong_Sát_Cốc.md) (Đã bổ sung chi tiết: Cốc Chủ Hắc Phong, Hộ Pháp Huyết Phong, Nội Môn Hắc Sa)
     - [Pháo Đài Xanh Hội](Thế_Lực/Pháo_Đài_Xanh_Hội.md)
     - [Bán Thạch Cự Nhân](Thế_Lực/Tây_Mạc/Bán_Thạch_Cự_Nhân.md) (Đã bổ sung chi tiết: Trưởng Lão Thạch Cương, Đội Trưởng Thạch Chùy, Chiến Binh Nham Liệt)
-- **Trung Tâm (Central):**
+- **Thiên Trụ (Trung Tâm Chính):**
     - [Cửu Hoa Kiếm Tông](Thế_Lực/Cửu_Hoa_Kiếm_Tông.md)
     - [Huyết Sát Minh](Thế_Lực/Huyết_Sát_Minh.md)
     - [Dược Vương Cốc](Thế_Lực/Dược_Vương_Cốc.md)

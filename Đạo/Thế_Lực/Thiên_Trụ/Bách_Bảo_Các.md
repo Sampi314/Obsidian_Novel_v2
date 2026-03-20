@@ -5,7 +5,7 @@ hantu: 百宝阁
 faction_type: Thương Hội
 alignment: 0
 race: Đa chủng tộc (Nhân, Yêu, Linh)
-region: Trung Tâm
+region: Thiên Trụ
 founded: Thái Cổ Kỷ Nguyên
 founder: Bách Bảo Tiền Bối
 emblem: Ruong_Bau_Anh_Sang.png

@@ -5,7 +5,7 @@ hantu: 摘星楼
 faction_type: Tông Môn
 alignment: 0
 race: Tinh Linh Tộc (Dạ Tinh Linh), Nhân Tộc
-region: Trung Tâm
+region: Thiên Trụ
 founded: Thái Cổ Kỷ Nguyên
 founder: Lâu Chủ Vô Danh (Đại Tông Sư Trận Pháp)
 emblem: Toa_Thap_Va_Bau_Troi_Sao.png

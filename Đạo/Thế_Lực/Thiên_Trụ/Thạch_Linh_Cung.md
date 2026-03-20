@@ -5,7 +5,7 @@ hantu: 石灵宫
 faction_type: Tông Môn
 alignment: 4
 race: Lai Cự Tộc (Người lùn rèn đúc), Thạch Tộc
-region: Trung Tâm
+region: Thiên Trụ
 founded: Thái Cổ Kỷ Nguyên
 founder: Búa Thần Cổ Đại
 emblem: Bua_Da_Va_Quang_Thach.png

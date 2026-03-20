@@ -32,7 +32,7 @@
 - **Xuất Thân:** Sinh ra trong một gia đình thợ săn nghèo tại bìa rừng **Hắc Mộc Lâm** ở **Nam Cương**.
 - **Biến Cố:** Năm 12 tuổi, trong một lần đi săn, hắn vô tình lạc vào một hang động cổ xưa và tìm thấy di cốt của một vị tiền bối tán tu cùng cuốn bí kíp *Thanh Mộc Trường Sinh Quyết*.
 - **Trưởng Thành:** Tự mày mò tu luyện, Lâm Phong dần bước chân vào con đường tu tiên. Hắn kiếm sống bằng nghề săn yêu thú cấp thấp và tìm kiếm dược liệu bán cho các thương hội.
-- **Hiện Tại:** Đang ở cảnh giới Luyện Khí Viên Mãn, hắn rời quê hương đi về phía **Trung Châu** để tìm cơ duyên Trúc Cơ, đồng thời muốn mở rộng tầm mắt nhìn ngắm thế giới rộng lớn.
+- **Hiện Tại:** Đang ở cảnh giới Luyện Khí Viên Mãn, hắn rời quê hương đi về phía **Thiên Trụ** để tìm cơ duyên Trúc Cơ, đồng thời muốn mở rộng tầm mắt nhìn ngắm thế giới rộng lớn.
 
 ## QUAN HỆ
 - **Gia Đình:** Cha mẹ (người phàm, vẫn còn sống ở quê).

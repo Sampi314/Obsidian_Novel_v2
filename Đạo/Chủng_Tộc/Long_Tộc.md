@@ -17,7 +17,7 @@
 
 ### Sự Thay Đổi Trong Cấu Trúc Lãnh Thổ
 Ở Kỷ Nguyên Khởi Nguyên, Long Tộc từng ngự trị trên Cửu Thiên, xây dựng Thiên Cung bằng mây ngũ sắc và tinh thạch. Tuy nhiên, sau đại chiến Thần Ma và sự sụp đổ của Thiên Trụ, không khí trên cao trở nên loãng và đầy rẫy Cương Phong hủy diệt.
-Ngày nay, phần lớn Long Tộc đã di cư xuống Vô Tận Hải, xây dựng Thủy Tinh Cung dưới đáy biển sâu. Chỉ còn một số ít Ứng Long (Rồng có cánh) vẫn cố bám trụ tại các đỉnh núi cao nhất của Trung Châu, coi việc sống dưới nước là một sự sỉ nhục.
+Ngày nay, phần lớn Long Tộc đã di cư xuống Vô Tận Hải, xây dựng Thủy Tinh Cung dưới đáy biển sâu. Chỉ còn một số ít Ứng Long (Rồng có cánh) vẫn cố bám trụ tại các đỉnh núi cao nhất của Thiên Trụ, coi việc sống dưới nước là một sự sỉ nhục.
 
 > *"Xưa kia vỗ cánh che trời, nay lại cuộn mình dưới đáy nước sâu. Phải chăng biển cả bao dung hơn bầu trời, hay vì lòng kiêu hãnh đã bị thời gian bào mòn?"*
 > — *Trích "Long Tộc Sử Ký" - Chương Di Cư*

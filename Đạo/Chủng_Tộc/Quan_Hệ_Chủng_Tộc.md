@@ -14,12 +14,12 @@ Kỷ Nguyên Khởi Nguyên là thời đại mà trật tự Thiên Đạo chư
 ## II. MA TRẬN QUAN HỆ CHI TIẾT
 
 ### 1. NHÂN TỘC (Con Người)
-*Vị thế: Bá chủ Trung Châu, giàu có nhưng nội bộ chia rẽ.*
+*Vị thế: Bá chủ Thiên Trụ, giàu có nhưng nội bộ chia rẽ.*
 - **🟢 Với Tinh Linh Tộc:** Quan hệ hữu hảo lâu đời. Nhân tộc cần linh dược, Tinh Linh cần bảo vệ rừng khỏi Yêu tộc.
 - **🟢 Với Thạch Tộc:** Thạch tộc thường làm hộ pháp hoặc xây dựng thành trì cho Nhân tộc đổi lấy Linh thạch.
 - **🟡 Với Long Tộc:** Kính sợ và thờ phụng (Totem), cống nạp để cầu mưa thuận gió hòa.
 - **🟡 Với Hải Tộc:** Giao thương tại các thành phố cảng ven Vô Tận Hải.
-- **🔴 Với Yêu Tộc:** "Nhân Yêu Bất Lưỡng Lập". Chiến tranh giành lãnh thổ khốc liệt nhất lịch sử (Đông Hoang vs Trung Châu).
+- **🔴 Với Yêu Tộc:** "Nhân Yêu Bất Lưỡng Lập". Chiến tranh giành lãnh thổ khốc liệt nhất lịch sử (Đông Hoang vs Thiên Trụ).
 - **🔴 Với Trùng Tộc:** Kẻ thù chung của vạn vật, Nhân tộc luôn tìm cách tiêu diệt ổ trứng Trùng.
 
 ### 2. YÊU TỘC (Dã Thú/Yêu Quái)
@@ -76,7 +76,7 @@ Kỷ Nguyên Khởi Nguyên là thời đại mà trật tự Thiên Đạo chư
 
 ## III. CÁC ĐIỂM NÓNG XUNG ĐỘT (FLASHPOINTS)
 
-1.  **Biên Giới Đông Hoang - Trung Châu:**
+1.  **Biên Giới Đông Hoang - Thiên Trụ:**
     - *Phe tham chiến:* Nhân Tộc (Phòng thủ) vs Yêu Tộc (Tấn công).
     - *Nguyên nhân:* Yêu tộc muốn chiếm lại vùng đồng bằng màu mỡ; Nhân tộc săn giết Yêu thú lấy đan.
 

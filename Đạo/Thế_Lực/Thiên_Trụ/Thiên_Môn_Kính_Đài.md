@@ -5,7 +5,7 @@ hantu: 天门境台
 faction_type: Trạm Gác
 alignment: 10
 race: Nhân Tộc, Vũ Tộc lai
-region: Trung Tâm
+region: Thiên Trụ
 founded: Thượng Cổ Kỷ Nguyên
 founder: Kính Lão (Mirror Sage)
 emblem: Guong_Bac_Va_Mat_Nhiep_Chinh.png

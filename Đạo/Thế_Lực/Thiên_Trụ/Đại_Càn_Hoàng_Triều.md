@@ -5,7 +5,7 @@ hantu: 大乾皇朝
 faction_type: Vương Quốc
 alignment: 8
 race: Nhân Tộc (Chủ đạo)
-region: Trung Tâm
+region: Thiên Trụ
 founded: Trung Cổ Kỷ Nguyên
 founder: Đại Càn Thái Tổ
 emblem: Rong_Vang_Dong_Lua.png

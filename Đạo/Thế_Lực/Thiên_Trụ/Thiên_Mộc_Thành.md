@@ -5,7 +5,7 @@ hantu: 天木城
 faction_type: Thành Trì
 alignment: 2
 race: Đa chủng tộc (Nhân tộc chủ đạo)
-region: Trung Tâm
+region: Thiên Trụ
 founded: Trung Cổ Kỷ Nguyên
 founder: Thất Đại Gia Tộc
 emblem: Cay_Co_Thu_Bao_Ve_Thanh.png

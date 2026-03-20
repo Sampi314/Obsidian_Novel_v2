@@ -10,7 +10,7 @@
 1. **Liên Minh Trung Tầm (Thiên Đạo Tông, Thái Ất Môn):**
    - *Tình thế:* Đang họp bàn về việc phân chia quyền lợi và đối phó với sự trỗi dậy của Vạn Độc Môn.
    - *Mục tiêu:* Duy trì trật tự và không can thiệp sâu vào "chuyện nhỏ" ở Nam Cương cho đến khi nó trở thành thảm họa toàn cầu.
-2. **Triều Đình Trung Châu:**
+2. **Triều Đình Thiên Trụ:**
    - *Vai trò:* Cố gắng duy trì sự kiểm soát thế gian nhưng bị các tông môn chèn ép.
 3. **Thương Hội Cửu Châu (Chi Nhánh Trung Tâm):**
    - *Vai trò:* Buôn bán tình báo về Huyết Thần Độc. Thậm chí một số phe phái ngầm tại Thiên Trụ có giao dịch với Vạn Độc Môn (Lệ Vô Tâm) để đổi lấy sức mạnh.

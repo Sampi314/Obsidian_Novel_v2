@@ -5,7 +5,7 @@ hantu: 九幽魔宗
 faction_type: Tông Môn
 alignment: -10
 race: Nhân Tộc, Ma Tộc (Ẩn)
-region: Trung Tâm
+region: Thiên Trụ
 founded: Thái Cổ Kỷ Nguyên
 founder: Cửu U Ma Đế
 emblem: Cuu_U_Ma_An.png

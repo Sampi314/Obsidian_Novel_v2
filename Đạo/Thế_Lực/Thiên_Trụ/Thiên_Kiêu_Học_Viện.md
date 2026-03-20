@@ -5,7 +5,7 @@ hantu: 天骄学院
 faction_type: Học Viện
 alignment: 2
 race: Đa chủng tộc (Nhân, Yêu, Linh, Cự)
-region: Trung Tâm
+region: Thiên Trụ
 founded: Trung Cổ Kỷ Nguyên
 founder: Thất Đại Tông Chủ (Liên minh)
 emblem: Duoc_Va_Sach.png
