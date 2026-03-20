@@ -24,6 +24,42 @@ arcs:
           tin: -40
           so: 10
           on: -30
+      - character: Hắc Triều
+        description: Đồng liêu, khinh bỉ lối đánh cơ bắp ngu ngốc nhưng phải phối hợp
+        feelings:
+          yeu: -15
+          han: 20
+          kinh: -20
+          tin: -15
+          so: 5
+          on: -10
+      - character: Thâm Hải
+        description: Cung Chủ, trung thành tuyệt đối, con dao trong bóng tối sẵn sàng làm mọi việc
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 70
+          tin: 60
+          so: 50
+          on: 40
+      - character: Huyết Ba
+        description: Đồng liêu cùng Vực Thẳm Ma Cung, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 0
+          tin: 15
+          so: 0
+          on: 5
+      - character: Ám Ảnh Ngư
+        description: Đồng liêu cùng Vực Thẳm Ma Cung, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 0
+          tin: 15
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: NGƯ QUỶ DIỆN (鱼鬼面)
