@@ -77,6 +77,42 @@ arcs:
           tin: 30
           so: 35
           on: 0
+      - character: Giao Khổ Hải
+        description: Thợ dệt già cần mẫn, người tin tưởng mình để giao phó tương lai em trai
+        feelings:
+          yeu: 30
+          han: 0
+          kinh: 10
+          tin: 65
+          so: 0
+          on: 10
+      - character: Giao Tàn Ty
+        description: Thợ dệt lâu năm, người giữ nghề truyền thống, mình nhìn ra giá trị trong tay nghề bà
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 15
+          tin: 60
+          so: 0
+          on: 10
+      - character: Giao Thiên Lệ
+        description: Người phụ nữ khóc đến mù, nỗi hổ thẹn vì không bảo vệ được bà sớm hơn
+        feelings:
+          yeu: 40
+          han: 0
+          kinh: 10
+          tin: 55
+          so: 0
+          on: 0
+      - character: Giao Vô Danh
+        description: Tai mắt thầm lặng, kẻ bị tước tên mà mình đặt lại cho hắn danh tính
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 15
+          tin: 75
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: GIAO LỆ VÂN (鲛淚雲)
