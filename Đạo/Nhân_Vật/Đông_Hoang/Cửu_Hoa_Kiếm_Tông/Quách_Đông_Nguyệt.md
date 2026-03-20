@@ -1,0 +1,38 @@
+---
+type: character
+name: Quách Đông Nguyệt
+hantu: ''
+archetype: Phàm Nhân
+race: Nhân Tộc
+dao_tam: ''
+age: 37
+avatar: ''
+arcs:
+  - arc: 1
+    status: Còn Sống
+    cultivation: Phàm Nhân
+    methods: []
+    inventory: []
+    stats: [0, 0, 0, 0, 0, 0]
+    relationships: []
+---
+
+# Quách Đông Nguyệt
+
+## I. THÔNG TIN CƠ BẢN
+- **Tên:** Quách Đông Nguyệt
+- **Chức Vụ:** Nuôi Gà — Hậu Cần Đường
+- **Tu Vi:** Phàm Nhân
+- **Phe Phái:** Cửu Hoa Kiếm Tông
+
+## II. NGOẠI HÌNH & TÍNH CÁCH
+*(Chưa xác định)*
+
+## III. KỸ NĂNG & ĐỜI SỐNG
+*(Chưa xác định)*
+
+## IV. CÁC MỐI QUAN HỆ
+*(Chưa xác định)*
+
+## V. TIỂU SỬ & HÀNH TRÌNH
+*(Chưa xác định)*
