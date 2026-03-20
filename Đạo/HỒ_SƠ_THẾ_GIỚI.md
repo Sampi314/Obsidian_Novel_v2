@@ -733,6 +733,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hắc Thiên:** Đông Hải Long Vương Luyện Hư Sơ Kỳ, tồn tại cổ xưa nhất Vô Tận Hải, sở hữu *Thiên Địa Long Ngâm* và tham vọng khôi phục vinh quang Long Tộc.
   - **Hắc Ngạo Thiên:** Thái Tử Đông Hải Nguyên Anh Trung Kỳ, từ bỏ ngai vàng để lang thang nhân gian, thông thạo *Hắc Long Trấn Hải Quyết*.
   - **Hắc Lạc Nhạn:** Nhạc Sư Cung Đình Kim Đan Hậu Kỳ, dùng tiếng đàn *Hải Ba Cầm Âm* chi phối sóng biển và kết nối những linh hồn cô độc.
+  - **Minh Trầm Mặc:** Mưu Sĩ Tây Hải, Nguyên Anh Trung Kỳ. Chân Long kiệm lời, thao túng dòng chảy ngầm và bóng tối, trung thành tuyệt đối với Minh Uyên. Từng dập tắt một cuộc nổi loạn Giao Long trong im lặng.
+  - **Minh Uyên:** Tây Hải Long Vương, Hóa Thần Đỉnh Phong. Nữ chúa tuyệt sắc nhưng tàn nhẫn, dùng áp lực không gian đại dương để nghiền nát kẻ thù. Dã tâm thâu tóm Kho Báu Vạn Năm.
+  - **Thanh Hàn Nguyệt:** Tuần Sát Sứ Bắc Hải, Nguyên Anh Hậu Kỳ. Chân Long băng giá, là thanh gươm hành quyết tàn nhẫn, sở trường *Băng Hồn Tỏa Hải*, quyết tâm nghiền nát mọi mầm mống nổi loạn.
 
 - **Phiêu Lưu Đảo Liên Minh (Vô Tận Hải):**
   - **Hoàng Hải Triều:** Đội Trưởng Hải Tuần Đội Trúc Cơ Hậu Kỳ, rắn rỏi và trầm ổn. Bảo vệ quần đảo bằng *Nộ Hải Lãng Quyết*.
