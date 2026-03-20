@@ -32,7 +32,8 @@ Cá mập vệ binh, trung thành tuyệt đối
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Sa Phong Đào Thiên** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
+- **Lệ Nhược Thủy** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
+- **Hải Ngọc Lan** (Sư đồ): Hải Ngọc Lan dẫn dắt Sa Thiết Nha trong Hải Thần Cung
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
