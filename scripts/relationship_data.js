@@ -1988,6 +1988,26 @@ if (typeof relationships !== 'undefined') {
     );
 }
 
+// Sa Mạc Sinh Tồn Đoàn (Tây Mạc)
+if (typeof characters !== 'undefined') {
+    characters.push(
+        { id: "ha_thien_ly", name: "Hạ Thiên Lý", title: "Đoàn Trưởng", realm: "Trúc Cơ Sơ Kỳ", faction: "Sa Mạc Sinh Tồn Đoàn", region: "Tây Mạc", role: "leader", pov: false, avatar_color: "#b8860b" },
+        { id: "le_hoang_sa", name: "Lê Hoang Sa", title: "Phó Đoàn Trưởng", realm: "Luyện Khí Đỉnh Phong", faction: "Sa Mạc Sinh Tồn Đoàn", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#d2b48c" },
+        { id: "nguyen_sinh_ton", name: "Nguyễn Sinh Tồn", title: "Thành Viên", realm: "Luyện Khí Hậu Kỳ", faction: "Sa Mạc Sinh Tồn Đoàn", region: "Tây Mạc", role: "supporting", pov: false, avatar_color: "#8b4513" }
+    );
+    relationships.push(
+        { source: "ha_thien_ly", target: "le_hoang_sa", type: "Tin Tưởng", description: "Cánh tay phải đắc lực, giao phó các tuyến đường nguy hiểm nhất." },
+        { source: "ha_thien_ly", target: "nguyen_sinh_ton", type: "Dìu Dắt", description: "Nhặt về và huấn luyện từ những ngày đầu." },
+        { source: "le_hoang_sa", target: "ha_thien_ly", type: "Tuyệt Đối Trung Thành", description: "Coi là ân nhân cứu mạng, nguyện chết để bảo vệ." },
+        { source: "le_hoang_sa", target: "nguyen_sinh_ton", type: "Huấn Luyện", description: "Truyền đạt kinh nghiệm dò đường và ẩn nấp trên cát." },
+        { source: "nguyen_sinh_ton", target: "ha_thien_ly", type: "Kính Trọng Như Cha", description: "Coi ông như cha đẻ, biết ơn vì đã thay đổi cuộc đời." },
+        { source: "nguyen_sinh_ton", target: "le_hoang_sa", type: "Tôn Trọng", description: "Hình mẫu lý tưởng để học hỏi kỹ năng sinh tồn." },
+        { source: "ha_thien_ly", target: "hac_phong_dai_vuong", type: "Tử Thù", description: "Thủ lĩnh Sa Tặc từng đẩy ông vào chỗ chết." },
+        { source: "le_hoang_sa", target: "hac_phong_dai_vuong", type: "Kẻ Thù", description: "Thủ lĩnh băng Sa Tặc chuyên phục kích tuyến đường anh quản lý." },
+        { source: "nguyen_sinh_ton", target: "hac_phong_dai_vuong", type: "Căm Hận", description: "Kẻ đã cướp bóc làng mạc cũ của anh." }
+    );
+}
+
 if (typeof characterData !== 'undefined') {
     characterData["Chương Hắc Triều"] = {
         name: "Chương Hắc Triều",
