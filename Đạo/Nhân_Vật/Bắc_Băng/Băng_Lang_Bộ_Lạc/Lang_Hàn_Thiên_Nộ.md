@@ -28,7 +28,7 @@ arcs:
         type: Di Vật
     stats: [550, 350, 300, 150, 650, 400]
     relationships:
-      - character: Lang Tuyết Vương
+      - character: Lang Tuyết Nha
         description: Đại Tù Trưởng, huynh đệ kết nghĩa, người duy nhất hắn nguyện hy sinh mà không do dự
         feelings:
           yeu: 0
@@ -145,7 +145,7 @@ arcs:
     - **Sừng Gấu Huyết Băng (血冰熊角):** Sừng bẻ từ Gấu Huyết Băng — dài bằng cẳng tay, cong, đỏ sẫm, phát ra huyết khí nhẹ. Không có công năng chiến đấu — thuần túy là kỷ vật và biểu tượng tình huynh đệ với Tuyết Vương.
 
 ## VI. QUAN HỆ
-- **Lang Tuyết Vương — Đại Tù Trưởng & Huynh Đệ:**
+- **Lang Tuyết Nha — Đại Tù Trưởng & Huynh Đệ:**
     - Hai con sói lớn lên cùng nhau, đánh nhau trên thao trường không biết bao nhiêu lần, cùng giết yêu thú, cùng bị thương, cùng uống rượu bên lửa trại. Khi Tuyết Vương thách đấu cha để giành ngôi Đại Tù Trưởng, Thiên Nộ đứng ngoài vòng đấu — không can thiệp, không ủng hộ ai — vì hắn tin rằng kẻ mạnh hơn sẽ thắng, và kẻ mạnh hơn xứng đáng lãnh đạo. Khi Tuyết Vương thắng, Thiên Nộ là người đầu tiên quỳ gối tuyên thệ — không phải vì phục tùng, mà vì cuối cùng hắn có một tù trưởng mà hắn thực sự tin tưởng.
 - **Lang Bạo Phong — Đồ Đệ & Niềm Tự Hào:**
     - Thiên Nộ là người dạy Bạo Phong chiến đấu — hắn nhìn thấy ở đứa trẻ lai bị bỏ rơi bản năng chiến đấu man rợ mà hắn yêu thích. Hắn đào tạo Bạo Phong bằng phương pháp hà khắc — đánh cho gãy xương rồi bắt đứng dậy chiến đấu tiếp, ném vào bầy yêu thú rồi đứng ngoài xem — nhưng mỗi khi Bạo Phong sắp chết, hắn luôn ở đó cứu. Khi Bạo Phong được phong Tiền Phong Tướng, Thiên Nộ gầm lên vui sướng — tiếng gầm vang cả trại quân.

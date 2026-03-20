@@ -37,7 +37,7 @@ Là Thương Lang Bộ Lạc Trưởng cảnh giới Kim Đan Viên Mãn, Lang T
 - **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
 - **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
 - **Hổ Vạn Kiếp** (Thuộc hạ): Yêu Đế thống lĩnh Thương Lang Bộ Lạc Trưởng
-- **Xà Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Xà Độc Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hùng Thiên Sơn Hống** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hổ Liệt Diễm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Mãng Hắc Vân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình

@@ -12,9 +12,9 @@
 
 ---
 
-Vạn Yêu Thành đã chìm trong một biển lửa và máu. Khu Chợ Đen vốn dĩ ồn ào nay chỉ còn là những tiếng la hét thảm thiết, khi phe cánh của Lục Mãng Vương và Huyết Hổ Vương xông vào nhau cắn xé như những con dã thú mất trí. Ánh sáng từ những ngọn đuốc cháy dở và các pháp thuật bạo phát nhấp nháy, soi rọi những cái bóng quái dị đang giãy giụa trên những mảng tường đá rêu phong.
+Vạn Yêu Thành đã chìm trong một biển lửa và máu. Khu Chợ Đen vốn dĩ ồn ào nay chỉ còn là những tiếng la hét thảm thiết, khi phe cánh của Lục Mãng Trường và Huyết Hổ Nha xông vào nhau cắn xé như những con dã thú mất trí. Ánh sáng từ những ngọn đuốc cháy dở và các pháp thuật bạo phát nhấp nháy, soi rọi những cái bóng quái dị đang giãy giụa trên những mảng tường đá rêu phong.
 
-Diệp Tĩnh Sương và Lâm Phong di chuyển như hai bóng ma, xuyên qua sự hỗn loạn kinh hoàng đó. Họ không rảnh bận tâm đến cuộc chém giết của các thế lực ngầm ở Đông Hoang. Mục tiêu duy nhất của họ lúc này là Khu Đấu Trường – nơi đầu não của Huyết Hổ Vương và cũng là điểm tập kết được cho là khởi nguồn của Huyết Thần Độc.
+Diệp Tĩnh Sương và Lâm Phong di chuyển như hai bóng ma, xuyên qua sự hỗn loạn kinh hoàng đó. Họ không rảnh bận tâm đến cuộc chém giết của các thế lực ngầm ở Đông Hoang. Mục tiêu duy nhất của họ lúc này là Khu Đấu Trường – nơi đầu não của Huyết Hổ Nha và cũng là điểm tập kết được cho là khởi nguồn của Huyết Thần Độc.
 
 "Nhanh lên, sát khí và oán khí ở đây quá dày đặc, giống hệt như một cái bẫy khổng lồ được bày sẵn để hút lấy sinh lực," Lâm Phong nói, tay trái nắm chặt Truy Phong Cung, mắt không ngừng quan sát xung quanh. "Và nó đang tụ lại tại một điểm."
 

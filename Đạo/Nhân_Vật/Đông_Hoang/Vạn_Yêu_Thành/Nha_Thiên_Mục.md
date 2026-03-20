@@ -34,8 +34,8 @@ Nha Thiên Mục mang nhân hình một thiếu niên gầy nhom, da ngăm đen,
 Đạt cảnh giới Trúc Cơ Viên Mãn, Nha Thiên Mục tu luyện "Thiên Mục Nha Quần Thuật" (千目鴉群术) — điều khiển hàng ngàn con quạ phân thân, mỗi con là một đôi mắt theo dõi ở khắp nơi trong thành. Tuyệt kỹ "Vạn Nha Tề Minh" (万鸦齐鸣) ra lệnh toàn bộ quạ kêu đồng thời, tạo ra sóng âm phá vỡ tập trung tinh thần đối phương. Điểm mạnh là mạng lưới trinh sát bao phủ toàn thành và thu thập tin tức, nhược điểm là sức chiến đấu cá nhân rất yếu, nếu bị tấn công trực tiếp gần như không có khả năng tự vệ.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
-- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hổ Huyết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Nha
 - **Hồ Ngọc Nhan** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Hổ Thiết Quyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Xà Bạch Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành

@@ -43,6 +43,6 @@ Là Địa Yêu Vương cảnh giới Nguyên Anh Viên Mãn, Mãng Địa Hoàn
 - **Hổ Cuồng Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Báo Lôi Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Quy Vạn Niên** (Đồng minh): Phó Hội Trưởng Cổ Yêu và Địa Yêu Vương, huyết mạch thượng cổ
-- **Mãng Lục Vương** (Đối thủ): Địa Yêu Vương và Hắc Thị Chủ, cùng Mãng Tộc nhưng đối lập lý tưởng
+- **Mãng Lục Trường** (Đối thủ): Địa Yêu Vương và Hắc Thị Chủ, cùng Mãng Tộc nhưng đối lập lý tưởng
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mãng Địa Hoàng sinh ra từ lòng đất sâu nhất Đông Hoang, nơi địa mạch tụ hội tạo nên một quả trứng trăn ngàn năm. Hắn đã sống hàng vạn năm dưới lòng đất, âm thầm tu luyện và mở rộng lãnh thổ bằng cách nuốt chửng các hang động linh mạch. Khi Hổ Vạn Kiếp thống nhất Thiên Yêu Đình, Địa Hoàng là một trong những Yêu Vương đầu tiên quy phục — không phải vì thua, mà vì nhận ra liên minh có lợi hơn chiến tranh. Hiện tại, hắn lo ngại về sự xâm nhập của Tử Vong Chi Thung Lũng vào vùng đất chôn cất cổ đại gần lãnh thổ của mình.

@@ -1,7 +1,7 @@
 ---
 type: character
-name: Sa Cổ Vương
-hantu: 沙古王
+name: Sa Cổ Liệt
+hantu: 沙古烈
 archetype: Tộc Trưởng
 race: Yêu Tộc
 dao_tam: Canh giữ là sống, quên lãng là chết. Ta không bảo vệ tộc — ta bảo vệ thứ tộc đang giữ
@@ -91,10 +91,10 @@ arcs:
           on: 0
 ---
 
-# HỒ SƠ NHÂN VẬT: SA CỔ VƯƠNG (沙古王)
+# HỒ SƠ NHÂN VẬT: SA CỔ VƯƠNG (沙古烈)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Tên:** Sa Cổ Vương (沙古王).
+- **Tên:** Sa Cổ Liệt (沙古烈).
 - **Biệt Danh:** "Vương Cát Câm" (王沙喑) — tộc nhân gọi sau lưng, vì y đã không nói một lời nào với thế giới bên ngoài suốt hơn ba ngàn năm; "Cổ Sa" (古沙) — tên gọi chính thức trong nội bộ tộc.
 - **Tuổi:** Hơn 4.000 tuổi (chính xác không ai biết, kể cả y cũng quên ngày sinh).
 - **Chủng Tộc:** Yêu Tộc (Sa Yêu cổ đại — dòng máu thuần khiết từ thời Hoàng Sa Cổ Quốc).
@@ -120,26 +120,26 @@ arcs:
 
 ## III. TÍNH CÁCH & ĐẠO TÂM
 - **Tính Cách:**
-    - **Trầm Mặc Cổ Xưa (沉古):** Sa Cổ Vương đã sống quá lâu đến mức ngôn ngữ trở nên thừa thãi. Y có thể ngồi im hàng tháng trời trong Đại Sảnh Bích Họa, nhìn những bức tranh trên vách mà không nói một lời — vì với y, bích họa không phải tranh vẽ, mà là ký ức sống. Y nhìn từng nét vẽ và nhớ lại người đã cầm bút, tiếng cười của kẻ đã thành cát bụi, mùi rượu trong cung điện đã thành phế tích. Khi tộc nhân hỏi y về quá khứ, y thường im lặng rất lâu rồi chỉ đáp bằng một câu ngắn, mơ hồ, như thể dịch một ngôn ngữ đã chết sang ngôn ngữ hiện tại mà không đủ từ.
+    - **Trầm Mặc Cổ Xưa (沉古):** Sa Cổ Liệt đã sống quá lâu đến mức ngôn ngữ trở nên thừa thãi. Y có thể ngồi im hàng tháng trời trong Đại Sảnh Bích Họa, nhìn những bức tranh trên vách mà không nói một lời — vì với y, bích họa không phải tranh vẽ, mà là ký ức sống. Y nhìn từng nét vẽ và nhớ lại người đã cầm bút, tiếng cười của kẻ đã thành cát bụi, mùi rượu trong cung điện đã thành phế tích. Khi tộc nhân hỏi y về quá khứ, y thường im lặng rất lâu rồi chỉ đáp bằng một câu ngắn, mơ hồ, như thể dịch một ngôn ngữ đã chết sang ngôn ngữ hiện tại mà không đủ từ.
     - **Cảnh Giác Tuyệt Đối (絕戒):** Bài học lớn nhất y rút ra từ sự sụp đổ của Cổ Quốc: *tin tưởng là bước đầu tiên dẫn đến diệt vong*. Y cấm tuyệt đối mọi tiếp xúc với Nhân Tộc, cấm tộc nhân rời hang quá xa, cấm bất kỳ ai mang vật phẩm bên ngoài vào. Đối với y, thế giới bên ngoài hang cổ là mối đe dọa — không phải vì y hèn nhát, mà vì y đã tận mắt chứng kiến điều gì xảy ra khi Yêu Tộc mở cửa cho kẻ ngoài. Ngay cả các trưởng lão cũng phải xin phép y trước khi cho thám tử rời hang.
-    - **Bảo Thủ Đến Cố Chấp (守旧):** Y tin rằng phương pháp cũ là phương pháp tốt nhất — Cổ Sa Yêu Thuật là đỉnh cao, không cần cải tiến; trận pháp cổ tuy suy yếu nhưng vẫn đủ dùng, không cần tìm cách sửa. Quan điểm này tạo ra xung đột ngầm với các tộc nhân trẻ hơn — đặc biệt Sa Bạo, người cho rằng tộc đang chết dần vì Cổ Vương từ chối thay đổi. Nhưng Sa Cổ Vương không phải không nhìn thấy sự suy yếu — y chỉ sợ rằng bất kỳ sự thay đổi nào cũng có thể phá vỡ thế cân bằng mong manh đang giữ cho tộc tồn tại.
+    - **Bảo Thủ Đến Cố Chấp (守旧):** Y tin rằng phương pháp cũ là phương pháp tốt nhất — Cổ Sa Yêu Thuật là đỉnh cao, không cần cải tiến; trận pháp cổ tuy suy yếu nhưng vẫn đủ dùng, không cần tìm cách sửa. Quan điểm này tạo ra xung đột ngầm với các tộc nhân trẻ hơn — đặc biệt Sa Bạo, người cho rằng tộc đang chết dần vì Cổ Vương từ chối thay đổi. Nhưng Sa Cổ Liệt không phải không nhìn thấy sự suy yếu — y chỉ sợ rằng bất kỳ sự thay đổi nào cũng có thể phá vỡ thế cân bằng mong manh đang giữ cho tộc tồn tại.
     - **Gánh Nặng Bí Mật (秘重):** Y mang trong mình kiến thức về nguyên nhân sụp đổ của Hoàng Sa Cổ Quốc — một bí mật y coi là nguy hiểm hơn bất kỳ kẻ thù nào. Y đã thề sẽ mang bí mật này xuống mồ, và coi việc canh giữ phòng phong ấn là sứ mệnh thiêng liêng cuối cùng. Gánh nặng này khiến y luôn mệt mỏi, luôn cảnh giác, và ngày càng cô độc — ngay cả các trưởng lão cũng không hiểu hết lý do đằng sau mỗi quyết định cực đoan của y.
 - **Đạo Tâm:** **"Canh giữ là sống, quên lãng là chết. Ta không bảo vệ tộc — ta bảo vệ thứ tộc đang giữ."**
-    - Sa Cổ Vương không coi mình là vua hay lãnh đạo — y coi mình là gác cổng. Mục đích tồn tại duy nhất của y là đảm bảo thứ bị phong ấn trong căn phòng sâu nhất không bao giờ được thả ra, và đảm bảo không ai — Nhân Tộc hay Yêu Tộc — biết nó tồn tại. Tộc nhân chỉ là phương tiện để duy trì sứ mệnh này — y yêu thương họ, nhưng sẽ hy sinh bất kỳ ai nếu cần thiết để giữ phong ấn. Triết lý này khiến y trở nên lạnh lùng trong mắt tộc nhân trẻ, nhưng với các trưởng lão già — những kẻ đã thấy một phần sự thật — họ hiểu rằng sự lạnh lùng ấy là tình yêu đau đớn nhất.
+    - Sa Cổ Liệt không coi mình là vua hay lãnh đạo — y coi mình là gác cổng. Mục đích tồn tại duy nhất của y là đảm bảo thứ bị phong ấn trong căn phòng sâu nhất không bao giờ được thả ra, và đảm bảo không ai — Nhân Tộc hay Yêu Tộc — biết nó tồn tại. Tộc nhân chỉ là phương tiện để duy trì sứ mệnh này — y yêu thương họ, nhưng sẽ hy sinh bất kỳ ai nếu cần thiết để giữ phong ấn. Triết lý này khiến y trở nên lạnh lùng trong mắt tộc nhân trẻ, nhưng với các trưởng lão già — những kẻ đã thấy một phần sự thật — họ hiểu rằng sự lạnh lùng ấy là tình yêu đau đớn nhất.
 
 ## IV. LỊCH SỬ & XUẤT THÂN
 - **Xuất Thân — Thị Vệ Cấp Thấp Thời Hoàng Sa:**
-    - Sa Cổ Vương sinh ra dưới tên Sa Tiểu Nham — một Sa Yêu cấp thấp trong đội thị vệ bảo vệ vòng ngoài cung điện Hoàng Sa Cổ Quốc. Y không phải hoàng tộc, không phải tướng lĩnh, chỉ là một con yêu nhỏ bé đứng gác cổng, nhìn bóng những Sa Yêu vĩ đại đi qua mà ngưỡng mộ. Thời đó, Hoàng Sa Cổ Quốc là vương quốc hùng mạnh nhất Tây Mạc — cung điện bằng sa thạch vàng dát ngọc, quân đội Yêu Tộc đông đến vạn, trận pháp bao phủ cả vùng sa mạc.
+    - Sa Cổ Liệt sinh ra dưới tên Sa Tiểu Nham — một Sa Yêu cấp thấp trong đội thị vệ bảo vệ vòng ngoài cung điện Hoàng Sa Cổ Quốc. Y không phải hoàng tộc, không phải tướng lĩnh, chỉ là một con yêu nhỏ bé đứng gác cổng, nhìn bóng những Sa Yêu vĩ đại đi qua mà ngưỡng mộ. Thời đó, Hoàng Sa Cổ Quốc là vương quốc hùng mạnh nhất Tây Mạc — cung điện bằng sa thạch vàng dát ngọc, quân đội Yêu Tộc đông đến vạn, trận pháp bao phủ cả vùng sa mạc.
     - Y nhớ mùi nhang trầm trong cung điện, tiếng nhạc lễ vang vọng khi vương triều thiết triều, ánh vàng kim phản chiếu từ những bức tường sa thạch khi mặt trời chiếu vào. *"Ta chỉ là con yêu nhỏ đứng ở cửa sau,"* y từng nói với Thiên Phong, *"nhưng ta nhớ từng nốt nhạc hôm đó. Bốn ngàn năm rồi, ta vẫn nhớ."*
 - **Biến Cố — "Đêm Sa Mạc Nuốt Vương Quốc":**
-    - Thảm họa xảy ra trong một đêm duy nhất. Sa Cổ Vương không tiết lộ chi tiết, nhưng y đã chứng kiến toàn bộ: cung điện sụp đổ, quân đội tan rã, vương triều biến mất, và thứ gì đó khủng khiếp trỗi dậy từ lòng đất. Y — con thị vệ cấp thấp — sống sót vì đang đứng gác ở cửa sau, xa tâm chấn. Khi bình minh lên, Hoàng Sa Cổ Quốc chỉ còn là cát và phế tích.
+    - Thảm họa xảy ra trong một đêm duy nhất. Sa Cổ Liệt không tiết lộ chi tiết, nhưng y đã chứng kiến toàn bộ: cung điện sụp đổ, quân đội tan rã, vương triều biến mất, và thứ gì đó khủng khiếp trỗi dậy từ lòng đất. Y — con thị vệ cấp thấp — sống sót vì đang đứng gác ở cửa sau, xa tâm chấn. Khi bình minh lên, Hoàng Sa Cổ Quốc chỉ còn là cát và phế tích.
     - Trong hỗn loạn, y dẫn được khoảng hai trăm Yêu Tộc sống sót chạy vào hệ thống hang ngầm dưới cung điện — những đường hầm mà y biết nhờ nhiều năm đi tuần. Y tự tay kích hoạt trận pháp cổ phong tỏa cửa hang, dùng máu mình làm chìa khóa, cắt đứt mọi liên lạc với bề mặt. Đó là ngày y tự phong mình là Tộc Trưởng — không phải vì y mạnh nhất, mà vì y là người duy nhất bình tĩnh đủ để ra mệnh lệnh.
     - Sừng yêu bên trái của y gãy trong đêm ấy — bị một mảnh vỡ từ cung điện cắt đứt khi y che chắn cho nhóm tộc nhân đang chạy qua cửa hang. Y nhặt mảnh sừng lên, nhìn nó một lúc, rồi ném xuống cát. Từ đó, y không bao giờ để ai chữa vết gãy.
 - **Bốn Ngàn Năm Ẩn Cư:**
-    - Từ hai trăm Yêu Tộc ban đầu, dân số tộc giảm dần qua hàng ngàn năm — bệnh tật, tuổi thọ tự nhiên, suy thoái huyết mạch, và tuyệt vọng khiến nhiều tộc nhân tự kết liễu. Sa Cổ Vương chứng kiến từng cái chết, nhớ từng cái tên, và vẽ từng khuôn mặt lên vách hang. Bích họa trong Đại Sảnh không chỉ ghi lại lịch sử Cổ Quốc — phần lớn là chân dung những tộc nhân đã mất, do chính tay y vẽ.
+    - Từ hai trăm Yêu Tộc ban đầu, dân số tộc giảm dần qua hàng ngàn năm — bệnh tật, tuổi thọ tự nhiên, suy thoái huyết mạch, và tuyệt vọng khiến nhiều tộc nhân tự kết liễu. Sa Cổ Liệt chứng kiến từng cái chết, nhớ từng cái tên, và vẽ từng khuôn mặt lên vách hang. Bích họa trong Đại Sảnh không chỉ ghi lại lịch sử Cổ Quốc — phần lớn là chân dung những tộc nhân đã mất, do chính tay y vẽ.
     - Kiến thức về Cổ Sa Yêu Thuật thất truyền dần — y cố gắng dạy lại cho các thế hệ sau, nhưng không có tư liệu hoàn chỉnh (phần lớn thư tịch cổ bị phá hủy cùng cung điện), y chỉ dạy được những gì mình nhớ. Mà ký ức của y — dù dài đến bốn ngàn năm — cũng bắt đầu rạn nứt. Có những ngày y ngồi trước bích họa và không nhớ nổi khuôn mặt mình đã vẽ là ai.
 - **Sự Kiện Gần Đây — Cự Nhân Thức Tỉnh:**
-    - Khi tin tức về nhóm Cổ Tích Cự Nhân thức tỉnh tại Lưu Sa Cổ Thành đến tai y (qua báo cáo của Hồn Dạ), Sa Cổ Vương lần đầu tiên trong hàng trăm năm tỏ ra hoảng loạn. Y triệu tập toàn bộ trưởng lão, nói một câu duy nhất: *"Nếu chúng nhớ đường — chúng sẽ đến đây."* Rồi y ra lệnh tăng cường tuần tra gấp đôi, kiểm tra phong ấn phòng bí mật mỗi ngày, và chuẩn bị kế hoạch di tản tộc nhân nếu cần. Đây là lần đầu tiên tộc nhân thấy Tộc Trưởng — đá tảng bất biến suốt ngàn năm — run tay.
+    - Khi tin tức về nhóm Cổ Tích Cự Nhân thức tỉnh tại Lưu Sa Cổ Thành đến tai y (qua báo cáo của Hồn Dạ), Sa Cổ Liệt lần đầu tiên trong hàng trăm năm tỏ ra hoảng loạn. Y triệu tập toàn bộ trưởng lão, nói một câu duy nhất: *"Nếu chúng nhớ đường — chúng sẽ đến đây."* Rồi y ra lệnh tăng cường tuần tra gấp đôi, kiểm tra phong ấn phòng bí mật mỗi ngày, và chuẩn bị kế hoạch di tản tộc nhân nếu cần. Đây là lần đầu tiên tộc nhân thấy Tộc Trưởng — đá tảng bất biến suốt ngàn năm — run tay.
 
 ## V. KỸ NĂNG & TRANG BỊ
 - **Sở Trường:**
@@ -150,7 +150,7 @@ arcs:
     - **Hoàng Sa Phong Ấn Pháp (黃沙封印法) — "Phong Ấn Cát Vàng":**
         Kỹ thuật phong ấn truyền thừa từ triều đình Cổ Quốc, y học được khi chứng kiến các tư tế cấp cao thực hiện trong đêm thảm họa. Nguyên lý: dùng yêu lực nén cát thành lớp vỏ cứng như kim cương bao bọc mục tiêu, đồng thời khắc phù văn cổ lên bề mặt để duy trì phong ấn vĩnh viễn mà không cần bổ sung năng lượng. Y dùng kỹ thuật này để duy trì phong ấn phòng bí mật — nhưng lớp phong ấn đang suy yếu dần vì yêu lực của y không còn đủ để bổ sung.
     - **Sa Yêu Quyết (沙妖訣) — "Yêu Quyết Biến Cát":**
-        Biến cát thành vũ khí sắc bén — lưỡi cát, mũi cát, thậm chí giáp cát phủ toàn thân. Ở thời hoàng kim, Sa Yêu Quyết có thể biến một hạt cát thành mũi tên xuyên giáp Kim Đan — nhưng Sa Cổ Vương chỉ còn nhớ cách sử dụng ở mức cơ bản: lưỡi cát cắt được giáp Trúc Cơ, giáp cát chịu được ba đòn Kim Đan Sơ Kỳ.
+        Biến cát thành vũ khí sắc bén — lưỡi cát, mũi cát, thậm chí giáp cát phủ toàn thân. Ở thời hoàng kim, Sa Yêu Quyết có thể biến một hạt cát thành mũi tên xuyên giáp Kim Đan — nhưng Sa Cổ Liệt chỉ còn nhớ cách sử dụng ở mức cơ bản: lưỡi cát cắt được giáp Trúc Cơ, giáp cát chịu được ba đòn Kim Đan Sơ Kỳ.
     - **Vạn Sa Quy Tông (萬沙歸宗) — "Vạn Hạt Cát Về Nguồn":**
         Tuyệt kỹ phòng thủ cuối cùng — kích hoạt toàn bộ cát trong phạm vi mười dặm, ép chúng dồn về một điểm tạo thành khối cầu cát khổng lồ phong tỏa hoàn toàn khu vực hang cổ. Kỹ thuật này tiêu hao toàn bộ yêu lực và rất có thể giết chết y — nhưng sẽ chôn vùi hang cổ dưới triệu tấn cát, đảm bảo không ai có thể đào lên trong hàng trăm năm. Y coi đây là phương án cuối cùng: *"Nếu ta phải dùng Vạn Sa, nghĩa là mọi thứ đã hết."*
 - **Pháp Bảo/Trang Bị:**
@@ -172,8 +172,8 @@ arcs:
 - **Hồ Nguyệt Nhi** (Đồng minh): Cổ Vương biết Hồ Nguyệt Nhi biết về sự tồn tại của Cổ Sa Yêu Tộc, và y cũng biết bà ta sợ. Sự sợ hãi này có lợi cho y — miễn là Hồ Nguyệt Nhi sợ đủ để giữ bí mật, y không cần động tay. Nhưng y cũng sẵn sàng: nếu Hồ Nguyệt Nhi bán thông tin về hang cổ cho Nhân Tộc, Cổ Vương sẽ đích thân xóa sổ toàn bộ Sa Mạc Yêu Hồ — đó không phải lời đe dọa, mà là kế hoạch đã chuẩn bị sẵn.
 ## VII. GIAI THOẠI
 > *"Đừng đào sâu quá, đừng đi xa quá về phía tây."*
-> — Lời cảnh báo duy nhất Sa Cổ Vương dành cho bất kỳ ai hỏi về sự sụp đổ của Hoàng Sa Cổ Quốc.
+> — Lời cảnh báo duy nhất Sa Cổ Liệt dành cho bất kỳ ai hỏi về sự sụp đổ của Hoàng Sa Cổ Quốc.
 
-- **Truyền Thuyết "Vương Không Ngai":** Trong nội bộ Cổ Sa Yêu Tộc, có câu chuyện kể rằng Sa Cổ Vương đã từ chối ngồi lên chiếc ngai cát mà tộc nhân tạc cho y sau khi vào hang. Y phá hủy chiếc ngai bằng một cú đập đuôi, nói: *"Ta là thị vệ, không phải vương. Ngai của ta là cánh cửa hang — ta gác đến khi nào chết."* Từ đó, y không bao giờ ngồi khi họp tộc — y đứng, hoặc nằm trên đá, nhưng không bao giờ ngồi trên thứ gì giống ngai. Tộc nhân gọi y là "Vương" nhưng y tự coi mình là "gác cổng già" — khoảng cách giữa hai cách gọi ấy là bốn ngàn năm cô độc.
+- **Truyền Thuyết "Vương Không Ngai":** Trong nội bộ Cổ Sa Yêu Tộc, có câu chuyện kể rằng Sa Cổ Liệt đã từ chối ngồi lên chiếc ngai cát mà tộc nhân tạc cho y sau khi vào hang. Y phá hủy chiếc ngai bằng một cú đập đuôi, nói: *"Ta là thị vệ, không phải vương. Ngai của ta là cánh cửa hang — ta gác đến khi nào chết."* Từ đó, y không bao giờ ngồi khi họp tộc — y đứng, hoặc nằm trên đá, nhưng không bao giờ ngồi trên thứ gì giống ngai. Tộc nhân gọi y là "Vương" nhưng y tự coi mình là "gác cổng già" — khoảng cách giữa hai cách gọi ấy là bốn ngàn năm cô độc.
 
 - **Lời Đồn "Bích Họa Khóc":** Có tộc nhân thề rằng vào những đêm sâu nhất, khi cả hang im ắng tuyệt đối, họ nghe thấy tiếng thì thầm vọng từ Đại Sảnh Bích Họa — không phải tiếng Cổ Vương nói chuyện với chính mình, mà là y đọc tên từng khuôn mặt trên bích họa, từng tộc nhân đã chết trong bốn ngàn năm, như thể điểm danh những linh hồn đã mất. *"Sa Thiên Lệ, thị nữ cung đông, mất năm thứ nhất... Sa Cương Nham, chiến sĩ đội ba, mất năm thứ mười bảy..."* Danh sách ấy dài hơn bất kỳ cuốn sử nào, và y nhớ từng cái tên — cho đến khi y không nhớ nữa, và đó là lúc y lại cầm bút vẽ thêm một bức bích họa mới để không quên.

@@ -34,9 +34,9 @@ arcs:
 Đạt cảnh giới Trúc Cơ Viên Mãn, Điêu Hương Phong tu luyện "Hương Phong Mê Tình Thuật" (香風迷情术) — phát tán hương thơm chứa yêu lực qua lông và da, khiến người giao tiếp mất cảnh giác và dễ dàng đồng ý mọi giao dịch. Tuyệt kỹ "Thiên Kim Nhất Tiếu" (千金一笑) phóng ra sóng yêu lực qua nụ cười, làm mê hoặc tâm trí trong khoảnh khắc, đủ để ký xong một hợp đồng bất lợi. Điểm mạnh là thương lượng và thao túng giao dịch, nhược điểm là hoàn toàn không có khả năng chiến đấu.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
-- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
-- **Mãng Lục Vương** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Nha
+- **Mãng Lục Trường** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Yêu Thành
 - **Thử Thiên Đạo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Trư Đại Phúc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Viên Thiên Lý Nhãn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành

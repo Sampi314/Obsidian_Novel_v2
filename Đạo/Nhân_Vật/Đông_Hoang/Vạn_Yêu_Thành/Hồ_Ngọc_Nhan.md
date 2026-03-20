@@ -34,8 +34,8 @@ Hồ Ngọc Nhan mang nhân hình một thiếu nữ tuyệt sắc, khuôn mặt
 Đạt cảnh giới Kim Đan Sơ Kỳ, Hồ Ngọc Nhan tu luyện "Ngọc Nhan Hoặc Thế Thuật" (玉颜惑世术) — biến hóa ngoại hình theo ý muốn và tạo ảo giác thị giác khiến mục tiêu nhìn thấy thứ mình mong muốn nhất. Tuyệt kỹ "Ngọc Tỏa Tâm Phòng" (玉锁心房) phong ấn cảm xúc và ký ức của mục tiêu, khiến họ trở nên ngoan ngoãn và dễ bảo. Điểm mạnh là thao túng tâm lý và thu thập tình báo thông qua mạng lưới kỹ viện, nhược điểm là sức chiến đấu yếu và phụ thuộc vào sự bảo vệ của người khác.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
-- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hổ Huyết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Nha
 - **Hồ Thất Cửu** (Thuộc hạ): Thành Chủ quản lý Kỹ Viện Chủ
 - **Hồ Tiểu Vũ Nguyệt** (Thuộc hạ): Kỹ Viện Chủ quản lý Vũ Nương
 - **Hồ Diễm Nương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành

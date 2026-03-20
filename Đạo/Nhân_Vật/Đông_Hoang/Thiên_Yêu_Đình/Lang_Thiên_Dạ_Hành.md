@@ -41,7 +41,7 @@ Thánh Tướng Thứ Tư với tu vi Nguyên Anh Sơ Kỳ, Lang Thiên Dạ Hà
 - **Hổ Bạch Nhãn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Mãng Ngàn Thu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Viên Bá Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
-- **Xà Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Xà Độc Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Báo Lôi Ảnh** (Đồng minh): Thánh Tướng Thứ Ba và Thứ Tư, phối hợp tác chiến
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Lang Thiên Dạ Hành sinh ra trong đàn sói hoang giữa đêm đông tuyết trắng, là con sói yếu nhất nhưng thông minh nhất bầy. Khi đàn sói bị yêu thú mạnh hơn tấn công, hắn đã dùng mưu kế dẫn kẻ thù vào bẫy, cứu sống cả đàn dù mới chỉ là sói con. Hắn được Yêu Đế phong Thánh Tướng sau khi chỉ huy trận phục kích tiêu diệt một đoàn viễn chinh của Nhân Tộc chỉ bằng chiến thuật, không cần dùng sức mạnh cá nhân. Hiện tại, hắn đang âm thầm xây dựng mạng lưới tình báo riêng cho Thiên Yêu Đình.

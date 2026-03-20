@@ -40,7 +40,7 @@ Là Vệ Binh Trưởng cảnh giới Kim Đan Sơ Kỳ, Hùng Thiết Chưởng
 - **Ưng Hồng Sí** (Thuộc hạ): Vệ Binh Trưởng chỉ huy Chiến Sĩ Ưng
 - **Ưng Thương Thiên** (Thuộc hạ): Vệ Binh Trưởng chỉ huy Chiến Tướng Ưng
 - **Hổ Hàn Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
-- **Trư Thiết Nha Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Trư Thiết Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Xà Lục Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hồ Thanh Lăng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Lang Bạch Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình

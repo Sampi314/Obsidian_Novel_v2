@@ -28,7 +28,7 @@
 ## Cổ Sa Yêu Tộc (古沙妖族) — 7
 
 - [Sa Bạo (沙暴)](Cổ_Sa_Yêu_Tộc/Sa_Bạo.md)
-- [Sa Cổ Vương (沙古王)](Cổ_Sa_Yêu_Tộc/Sa_Cổ_Vương.md)
+- [Sa Cổ Liệt (沙古烈)](Cổ_Sa_Yêu_Tộc/Sa_Cổ_Liệt.md)
 - [Sa Hoàng Thiên Phong (沙皇天風)](Cổ_Sa_Yêu_Tộc/Sa_Hoàng_Thiên_Phong.md)
 - [Sa Linh Nham (沙靈岩)](Cổ_Sa_Yêu_Tộc/Sa_Linh_Nham.md)
 - [Sa Mạc Hồn Dạ (沙漠魂夜)](Cổ_Sa_Yêu_Tộc/Sa_Mạc_Hồn_Dạ.md)
@@ -328,7 +328,7 @@
 
 ## Thiết Giáp Yêu Thú Đàn (铁甲妖兽团) — 4
 
-- [Thiết Giáp Vương (铁甲王)](Thiết_Giáp_Yêu_Thú_Đàn/Thiết_Giáp_Vương.md)
+- [Thiết Giáp Hùng (铁甲雄)](Thiết_Giáp_Yêu_Thú_Đàn/Thiết_Giáp_Hùng.md)
 - [Thiết Lân (铁鳞)](Thiết_Giáp_Yêu_Thú_Đàn/Thiết_Lân.md)
 - [Thiết Nha (铁牙)](Thiết_Giáp_Yêu_Thú_Đàn/Thiết_Nha.md)
 - [Thiết Ấu (铁幼)](Thiết_Giáp_Yêu_Thú_Đàn/Thiết_Ấu.md)

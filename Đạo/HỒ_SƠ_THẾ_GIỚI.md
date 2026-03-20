@@ -637,7 +637,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Khô Giáp Lão (Giáp Trùng Sa Mạc)**: Yêu thú Trùng Tộc Kim Đan Hậu Kỳ dưới hình hài bọ hung khổng lồ, giả chết chờ con mồi với kỹ năng "Thôn Phệ Sa Bạo".
   - **Oanh Minh Sa (Truyền Tin)**: Yêu thú Vũ Tộc mang hình dáng chim oanh hiền hòa, dùng "Huyễn Âm Mê Sa" và tiếng hót để dẫn đường cho lữ khách.
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Thiết Giáp Yêu Thú Đàn** (Tây Mạc):
-  - **Thiết Giáp Vương (Đàn Chủ)**: Bọ giáp khổng lồ, thông minh và kiên cường, luôn đặt chữ tín với các thương đoàn lên hàng đầu.
+  - **Thiết Giáp Hùng (Đàn Chủ)**: Bọ giáp khổng lồ, thông minh và kiên cường, luôn đặt chữ tín với các thương đoàn lên hàng đầu.
   - **Thiết Lân (Cận Vệ)**: Cận Vệ cẩn trọng, kỷ luật, đóng vai trò như đôi mắt và tai quan sát nhạy bén của cả đàn.
   - **Thiết Nha (Cận Vệ)**: Cận Vệ hung hăng, hiếu chiến, là mũi nhọn tấn công chuyên phá vây và truy sát.
 
@@ -751,7 +751,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Kình Mẫu Từ:** Hộ Sản Trúc Cơ Viên Mãn, hiền từ và bao dung. Sử dụng *Sinh Linh Tế Thủy* để chữa trị và che chở những sinh mệnh non nớt.
 
 - **Huyết Hổ Hạ Chúng (Vô Tận Hải):**
-  - **Hổ Bạch Văn:** Hổ Con Đặc Biệt mang vằn trắng đột biến của huyết mạch cổ xưa, luôn khát khao sức mạnh lật đổ bạo chúa Huyết Hổ Vương.
+  - **Hổ Bạch Văn:** Hổ Con Đặc Biệt mang vằn trắng đột biến của huyết mạch cổ xưa, luôn khát khao sức mạnh lật đổ bạo chúa Huyết Hổ Nha.
   - **Hổ Hàn Lệ:** Nữ Hổ Trúc Cơ Sơ Kỳ, người mẹ kiên cường nhẫn nhục, sử dụng bản năng sinh tồn để che chở và bảo vệ bí mật của Hổ Bạch Văn.
   - **Hổ Nha Tam:** Quản Sự Trúc Cơ Viên Mãn, lão hổ già mưu mô xảo quyệt, bề ngoài phục tùng nhưng bên trong âm thầm tích trữ tài nguyên và lên kế hoạch nổi dậy.
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Thâm Hải Vi Linh** (Vô Tận Hải):

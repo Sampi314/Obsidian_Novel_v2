@@ -53,7 +53,7 @@ arcs:
           tin: 65
           so: 0
           on: 15
-      - character: Lang Tuyết Vương
+      - character: Lang Tuyết Nha
         description: Đại Tù Trưởng, người bà kính sợ vì uy quyền nhưng hiếm khi tiếp xúc
         feelings:
           yeu: 0
@@ -131,7 +131,7 @@ arcs:
     - Tĩnh Nguyệt là bạn thân — hai cô gái trẻ cùng tuổi, cùng thông minh theo cách riêng, cùng mang gánh nặng mà tuổi tác không xứng. Mộng Tuyết kể cho Tĩnh Nguyệt nghe giấc mơ, Tĩnh Nguyệt kể cho bà nghe chính trị — hai thế giới kỳ lạ chạm nhau trong hang đá mỗi đêm. Mộng Tuyết tin Tĩnh Nguyệt hơn bất kỳ ai ngoài sư phụ — và bà đã từng nói: *"Nếu ta mơ thấy nguy hiểm đến với chị, ta sẽ chạy đến cảnh báo trước khi tỉnh hẳn."*
 - **Lang Bạch Sương — Đàn Chị Y Sư:**
     - Bạch Sương dạy bà thảo dược — kiến thức bổ trợ cho Saman (vì Saman cũng chữa bệnh tâm linh). Mộng Tuyết ngưỡng mộ Bạch Sương vì nàng dịu dàng, bình tĩnh, và mạnh mẽ — phẩm chất mà bà muốn có nhưng chưa đạt.
-- **Lang Tuyết Vương** (Đồng minh): Đại Tù Trưởng, người bà kính sợ vì uy quyền nhưng hiếm khi tiếp xúc
+- **Lang Tuyết Nha** (Đồng minh): Đại Tù Trưởng, người bà kính sợ vì uy quyền nhưng hiếm khi tiếp xúc
 
 ## VII. GIAI THOẠI
 > *"Tiểu Vu ngủ gật giữa buổi lễ — nhưng sáng hôm sau bà nói chính xác con mồi sẽ xuất hiện ở đâu. Chúng tôi không còn cười nữa."*

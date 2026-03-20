@@ -24,7 +24,7 @@ arcs:
         type: Nội Đan
     stats: [400, 50, 30, 10, 500, 30]
     relationships:
-      - character: Sa Cổ Vương
+      - character: Sa Cổ Liệt
         description: Đồng minh cổ đại, thỏa thuận canh giữ qua ngàn năm
         feelings:
           yeu: 0
@@ -66,12 +66,12 @@ arcs:
 
 ## I. THÔNG TIN CƠ BẢN
 - **Tên:** Sa Độc Hạt Vương (沙毒蝎王).
-- **Biệt Danh:** "Hạt Vương" (蝎王) — cách gọi của Sa Cổ Vương; "Cái Chết Dưới Cát" (沙下之死) — cách tộc nhân dùng để dọa trẻ con không đi vào khu hang sâu.
+- **Biệt Danh:** "Hạt Vương" (蝎王) — cách gọi của Sa Cổ Liệt; "Cái Chết Dưới Cát" (沙下之死) — cách tộc nhân dùng để dọa trẻ con không đi vào khu hang sâu.
 - **Tuổi:** Không xác định — tối thiểu 5.000 tuổi, có thể lâu hơn. Hạt Vương không có khái niệm thời gian — hắn chỉ biết "trước khi cung điện có" và "sau khi cung điện mất".
 - **Chủng Tộc:** Trùng Tộc (Sa Hạt — bọ cạp sa mạc cổ đại, dòng nguyên thủy tồn tại trước cả Hoàng Sa Cổ Quốc).
 - **Tu Vi:** Nguyên Anh Sơ Kỳ (Nội đan đạt cấp Nguyên Anh — sinh vật mạnh nhất trong toàn bộ hệ thống hang cổ, vượt xa mọi thành viên Cổ Sa Yêu Tộc).
 - **Khu Vực:** Tây Mạc — Hoàng Kim Sa Hải, tầng sâu nhất của hệ thống hang cổ, khu vực riêng biệt mà Sa Yêu không bước vào.
-- **Thế Lực:** Cổ Sa Yêu Tộc (đồng minh lỏng lẻo — hắn không thuộc tộc, chỉ có thỏa thuận lãnh thổ với Sa Cổ Vương).
+- **Thế Lực:** Cổ Sa Yêu Tộc (đồng minh lỏng lẻo — hắn không thuộc tộc, chỉ có thỏa thuận lãnh thổ với Sa Cổ Liệt).
 - **Chức Vụ:** Không có — hắn là sinh vật tự do, canh giữ vòng ngoài hang cổ theo thỏa thuận đổi lại quyền sinh sống trong hang sâu.
 - **Xuất Thân:** Bọ cạp sa mạc nguyên thủy, tồn tại từ trước khi Hoàng Sa Cổ Quốc ra đời, tu luyện thành yêu qua hàng ngàn năm hấp thụ linh khí sa mạc ngầm.
 
@@ -83,18 +83,18 @@ arcs:
     - Trên lưng, giáp nứt ra hai khe dài — dấu tích của trận chiến với thứ gì đó trong quá khứ xa xôi mà hắn không bao giờ nhắc đến. Khe nứt đã khoáng hóa thành sẹo ngọc, nhưng phía dưới, thi thoảng vẫn rỉ ra chất lỏng vàng sẫm — máu cổ đại của hắn.
     - Mắt — tám con mắt nhỏ xếp thành hai hàng trên đầu — đỏ rực như than hồng, mỗi mắt có thể xoay độc lập quan sát mọi hướng cùng lúc. Trong bóng tối hang sâu, tám chấm đỏ lơ lửng là thứ duy nhất nhìn thấy trước khi Hạt Vương tấn công.
 - **Dung Mạo (Nhân Hình — Hóa Hình Không Hoàn Chỉnh):**
-    - Hạt Vương có thể hóa nhân hình nhưng không hoàn chỉnh — hình dạng nhân hình là một lão già thấp bé, lưng còng, da đen tím như giáp kitin, mắt vẫn tám con nhưng sáu con nhắm lại chỉ mở hai con. Hai tay có năm ngón nhưng ngón dài quá mức, móng đen sắc. Từ sau lưng vẫn nhô ra đoạn đuôi cụt — phần đuôi không thu được khi hóa hình. Hắn hiếm khi dùng nhân hình — chỉ khi giao tiếp với Sa Cổ Vương, và mỗi lần cũng chỉ duy trì được khoảng nửa canh giờ.
+    - Hạt Vương có thể hóa nhân hình nhưng không hoàn chỉnh — hình dạng nhân hình là một lão già thấp bé, lưng còng, da đen tím như giáp kitin, mắt vẫn tám con nhưng sáu con nhắm lại chỉ mở hai con. Hai tay có năm ngón nhưng ngón dài quá mức, móng đen sắc. Từ sau lưng vẫn nhô ra đoạn đuôi cụt — phần đuôi không thu được khi hóa hình. Hắn hiếm khi dùng nhân hình — chỉ khi giao tiếp với Sa Cổ Liệt, và mỗi lần cũng chỉ duy trì được khoảng nửa canh giờ.
 - **Trang Phục:**
-    - Không có — hắn là trùng thú, không mặc quần áo. Khi hóa nhân hình, Sa Cổ Vương để sẵn một tấm áo choàng cũ ở điểm gặp mặt — Hạt Vương khoác qua loa cho phải phép, nhưng rõ ràng không hiểu khái niệm trang phục.
+    - Không có — hắn là trùng thú, không mặc quần áo. Khi hóa nhân hình, Sa Cổ Liệt để sẵn một tấm áo choàng cũ ở điểm gặp mặt — Hạt Vương khoác qua loa cho phải phép, nhưng rõ ràng không hiểu khái niệm trang phục.
 - **Khí Chất:**
-    - Lạnh lùng, thờ ơ, và cổ xưa đến mức phi nhân — Hạt Vương không có cảm xúc theo nghĩa mà Sa Yêu hay Nhân Tộc hiểu. Hắn không yêu, không ghét, không buồn, không vui — hắn chỉ tồn tại, như một tảng đá biết di chuyển. Thỏa thuận với Sa Cổ Vương không dựa trên tình cảm mà dựa trên lợi ích: hắn cần không gian yên tĩnh, Sa Yêu cần hắn canh giữ — logic thuần túy.
+    - Lạnh lùng, thờ ơ, và cổ xưa đến mức phi nhân — Hạt Vương không có cảm xúc theo nghĩa mà Sa Yêu hay Nhân Tộc hiểu. Hắn không yêu, không ghét, không buồn, không vui — hắn chỉ tồn tại, như một tảng đá biết di chuyển. Thỏa thuận với Sa Cổ Liệt không dựa trên tình cảm mà dựa trên lợi ích: hắn cần không gian yên tĩnh, Sa Yêu cần hắn canh giữ — logic thuần túy.
     - Di chuyển chậm rãi, mỗi bước chân (tám chân) đặt xuống cẩn thận như thể hắn có cả vĩnh hằng để đi. Nhưng khi tấn công — tốc độ bùng nổ kinh hoàng, ngòi đuôi đâm xuống nhanh hơn mắt nhìn, kìm kẹp trong phần mười giây.
 
 ## III. TÍNH CÁCH & ĐẠO TÂM
 - **Tính Cách:**
     - **Thờ Ơ Tuyệt Đối (漠然):** Hạt Vương không quan tâm đến bất kỳ ai hay bất kỳ điều gì ngoài lãnh thổ của mình. Tộc nhân Sa Yêu? Không quan tâm. Nhân Tộc bên ngoài? Không biết và không muốn biết. Cự Nhân thức tỉnh? Chỉ hơi nhíu mắt (cả tám con) rồi quay đi ngủ tiếp. Sự thờ ơ này không phải khinh thường — hắn đơn giản là tồn tại trên một thang bậc khác, nơi mà chuyện của sinh vật ngắn đời không đáng để quan tâm.
     - **Lãnh Thổ Là Tất Cả (領地):** Thứ duy nhất Hạt Vương thực sự quan tâm: lãnh thổ. Khu hang sâu mà hắn chiếm giữ là không gian bất khả xâm phạm — bất kỳ sinh vật nào bước vào không có sự cho phép sẽ bị giết ngay lập tức, không cảnh báo, không thương lượng. Hắn đánh dấu lãnh thổ bằng nọc — vết nọc ăn mòn trên đá hang là ranh giới ai cũng biết không nên vượt qua.
-    - **Cổ Xưa Phi Nhân (非人之古):** Hạt Vương tồn tại trước ngôn ngữ, trước văn minh, trước cả Hoàng Sa Cổ Quốc. Hắn không hiểu khái niệm danh dự, trung thành, tình yêu, hay hận thù — hắn hiểu lãnh thổ, con mồi, và sinh tồn. Khi giao tiếp với Sa Cổ Vương (bằng nhân hình và ngôn ngữ thô sơ), hắn phải dịch suy nghĩ từ bản năng trùng thú sang ngôn ngữ, quá trình này chậm chạp và thường sai lệch — dẫn đến những câu nói kỳ quặc mà Cổ Vương phải đoán nghĩa.
+    - **Cổ Xưa Phi Nhân (非人之古):** Hạt Vương tồn tại trước ngôn ngữ, trước văn minh, trước cả Hoàng Sa Cổ Quốc. Hắn không hiểu khái niệm danh dự, trung thành, tình yêu, hay hận thù — hắn hiểu lãnh thổ, con mồi, và sinh tồn. Khi giao tiếp với Sa Cổ Liệt (bằng nhân hình và ngôn ngữ thô sơ), hắn phải dịch suy nghĩ từ bản năng trùng thú sang ngôn ngữ, quá trình này chậm chạp và thường sai lệch — dẫn đến những câu nói kỳ quặc mà Cổ Vương phải đoán nghĩa.
     - **Bản Năng Sinh Tồn Thuần Khiết (純粹):** Mọi hành động của Hạt Vương đều xuất phát từ bản năng sinh tồn đã được mài giũa qua hàng ngàn năm: ăn khi đói, ngủ khi mệt, giết khi bị đe dọa, giữ lãnh thổ khi có kẻ xâm nhập. Không phức tạp, không mâu thuẫn, không đau khổ nội tâm — hắn là sinh vật thuần khiết nhất trong toàn bộ hệ thống hang cổ, và chính sự thuần khiết ấy khiến hắn đáng sợ.
 - **Đạo Tâm:** **Không có — Hạt Vương không có đạo tâm theo nghĩa triết lý. Bản năng của hắn là đạo: tồn tại, bảo vệ lãnh thổ, và giết bất kỳ thứ gì đe dọa hai điều trên.**
     - Nếu buộc phải diễn đạt bằng ngôn ngữ, triết lý sống của Hạt Vương sẽ là: *"Ta ở đây trước. Ta sẽ ở đây sau. Thứ gì bước vào mà không được phép sẽ không bước ra."* Đơn giản. Tuyệt đối. Và không thể thương lượng.
@@ -107,12 +107,12 @@ arcs:
     - Trong thời kỳ Cổ Quốc hưng thịnh, triều đình biết về sự tồn tại của Hạt Vương — họ gọi hắn là "Thổ Long Sa Giới" (土龍沙界), vì sự hiện diện của hắn dưới lòng đất mạnh đến mức cả vùng cát phía trên rung chuyển khi hắn di chuyển. Cổ Quốc không đánh hắn vì không cần thiết — hắn ở sâu, không gây hại, và tu vi của hắn đã đạt mức mà triều đình phải cân nhắc kỹ trước khi gây chiến. Thay vào đó, họ lập biên giới ngầm: Cổ Quốc không đào sâu quá mạch linh khí, Hạt Vương không lên bề mặt. Thỏa thuận đầu tiên trong chuỗi thỏa thuận kéo dài đến tận ngày nay.
 - **Biến Cố — Đêm Cổ Quốc Sụp Đổ:**
     - Trong đêm thảm họa, Hạt Vương cảm nhận được rung chấn dữ dội từ bề mặt — mặt đất rung, mạch linh khí dao động, và thứ gì đó hắn chưa bao giờ cảm nhận lan tỏa qua lòng đất như sóng xung kích. Hắn rút sâu hơn nữa vào hang, cuộn mình thành quả cầu giáp, và nằm im cho đến khi tất cả qua đi.
-    - Sau thảm họa, khi Sa Cổ Vương dẫn tàn dư Sa Yêu vào hệ thống hang ngầm, hắn và Cổ Vương gặp nhau lần đầu — một con bọ cạp khổng lồ Nguyên Anh Sơ Kỳ đối mặt với một Sa Yêu Kim Đan Hậu Kỳ kiệt sức dẫn theo đám tộc nhân hoảng loạn. Cuộc đối đầu kéo dài ba ngày — không phải chiến đấu, mà là đàm phán bằng áp lực yêu khí. Cuối cùng, cả hai đạt thỏa thuận: Cổ Vương không xâm phạm hang sâu, Hạt Vương canh giữ vòng ngoài, tiêu diệt bất kỳ kẻ xâm nhập nào từ bề mặt. Thỏa thuận này duy trì suốt bốn ngàn năm — không phải vì tin tưởng, mà vì cả hai đều không có lý do phá vỡ.
+    - Sau thảm họa, khi Sa Cổ Liệt dẫn tàn dư Sa Yêu vào hệ thống hang ngầm, hắn và Cổ Vương gặp nhau lần đầu — một con bọ cạp khổng lồ Nguyên Anh Sơ Kỳ đối mặt với một Sa Yêu Kim Đan Hậu Kỳ kiệt sức dẫn theo đám tộc nhân hoảng loạn. Cuộc đối đầu kéo dài ba ngày — không phải chiến đấu, mà là đàm phán bằng áp lực yêu khí. Cuối cùng, cả hai đạt thỏa thuận: Cổ Vương không xâm phạm hang sâu, Hạt Vương canh giữ vòng ngoài, tiêu diệt bất kỳ kẻ xâm nhập nào từ bề mặt. Thỏa thuận này duy trì suốt bốn ngàn năm — không phải vì tin tưởng, mà vì cả hai đều không có lý do phá vỡ.
 - **Bốn Ngàn Năm Dưới Đất:**
     - Hạt Vương dành phần lớn thời gian ngủ — ngủ hàng trăm năm liền, tỉnh dậy khi đói, săn mồi (Sa Trùng lớn trong hang sâu), rồi ngủ tiếp. Hắn không tu luyện chủ động — nội đan tự hấp thụ linh khí mạch ngầm, tu vi tăng cực kỳ chậm nhưng ổn định. Hắn đã ở mức Nguyên Anh Sơ Kỳ từ hàng ngàn năm trước, và có thể sẽ ở mức này thêm hàng ngàn năm nữa — hắn không vội.
     - Thỉnh thoảng, hắn tỉnh dậy và cảm nhận có kẻ xâm nhập từ bề mặt — thường là sinh vật sa mạc đi lạc hoặc tán tu lưu lạc. Hắn xử lý nhanh gọn: ngòi đuôi đâm xuyên, nọc hòa tan, không để lại dấu vết. Trong bốn ngàn năm, không một sinh vật nào vượt qua vùng kiểm soát của hắn mà còn sống.
 - **Sự Kiện Gần Đây — Rung Chấn Quen Thuộc:**
-    - Khi Cổ Tích Cự Nhân thức tỉnh tại Lưu Sa Cổ Thành, Hạt Vương cảm nhận được rung chấn qua mạch linh khí — và hắn nhận ra: rung chấn này giống với rung chấn đêm Cổ Quốc sụp đổ. Không hoàn toàn giống — yếu hơn nhiều — nhưng cùng bản chất. Hắn tỉnh giấc sau giấc ngủ dài, bò đến điểm gặp mặt với Sa Cổ Vương, hóa nhân hình, và nói bằng giọng khàn đặc chưa dùng cả trăm năm: *"Dưới đất... rung. Giống... lần trước."* Ba từ ấy khiến Sa Cổ Vương mất ngủ nhiều đêm.
+    - Khi Cổ Tích Cự Nhân thức tỉnh tại Lưu Sa Cổ Thành, Hạt Vương cảm nhận được rung chấn qua mạch linh khí — và hắn nhận ra: rung chấn này giống với rung chấn đêm Cổ Quốc sụp đổ. Không hoàn toàn giống — yếu hơn nhiều — nhưng cùng bản chất. Hắn tỉnh giấc sau giấc ngủ dài, bò đến điểm gặp mặt với Sa Cổ Liệt, hóa nhân hình, và nói bằng giọng khàn đặc chưa dùng cả trăm năm: *"Dưới đất... rung. Giống... lần trước."* Ba từ ấy khiến Sa Cổ Liệt mất ngủ nhiều đêm.
 
 ## V. KỸ NĂNG & TRANG BỊ
 - **Sở Trường:**
@@ -138,17 +138,17 @@ arcs:
     - **Hai khe nứt trên lưng:** Điểm yếu vật lý duy nhất — giáp mỏng hơn, nội tạng tiếp cận được. Hắn bảo vệ bằng cách luôn áp lưng vào tường hoặc quay mặt về phía nguy hiểm.
 
 ## VI. QUAN HỆ
-- **Sa Cổ Vương — Đối Tác Thỏa Thuận Ngàn Năm:**
-    - Hạt Vương "tôn trọng" Sa Cổ Vương — nhưng "tôn trọng" theo nghĩa trùng thú: y nhận ra Cổ Vương không phải mối đe dọa và có thể cùng tồn tại. Hắn không hiểu khái niệm tình bạn, nhưng trong bốn ngàn năm thỏa thuận, Cổ Vương là sinh vật duy nhất hắn cho phép đến gần mà không tấn công — đó là mức "thân thiện" cao nhất mà trùng thú có thể đạt được.
-    - Khi hắn báo tin "dưới đất rung, giống lần trước" cho Cổ Vương, đó không phải vì quan tâm hay lo lắng — mà vì thỏa thuận bao gồm điều khoản chia sẻ thông tin nguy hiểm. Hắn thực hiện thỏa thuận, không hơn. Nhưng Sa Cổ Vương — sau bốn ngàn năm — cũng không kỳ vọng hơn.
+- **Sa Cổ Liệt — Đối Tác Thỏa Thuận Ngàn Năm:**
+    - Hạt Vương "tôn trọng" Sa Cổ Liệt — nhưng "tôn trọng" theo nghĩa trùng thú: y nhận ra Cổ Vương không phải mối đe dọa và có thể cùng tồn tại. Hắn không hiểu khái niệm tình bạn, nhưng trong bốn ngàn năm thỏa thuận, Cổ Vương là sinh vật duy nhất hắn cho phép đến gần mà không tấn công — đó là mức "thân thiện" cao nhất mà trùng thú có thể đạt được.
+    - Khi hắn báo tin "dưới đất rung, giống lần trước" cho Cổ Vương, đó không phải vì quan tâm hay lo lắng — mà vì thỏa thuận bao gồm điều khoản chia sẻ thông tin nguy hiểm. Hắn thực hiện thỏa thuận, không hơn. Nhưng Sa Cổ Liệt — sau bốn ngàn năm — cũng không kỳ vọng hơn.
 - **Sa Ngọc — Con Dược Sư Nhỏ Bé Hay Lấy Nọc:**
-    - Sa Ngọc là tộc nhân duy nhất được phép đến gần Hạt Vương ngoài Sa Cổ Vương — theo thỏa thuận bổ sung: cô được thu thập nọc nhỏ giọt từ ngòi đuôi (nọc rơi tự nhiên, không phải lấy trực tiếp) để chế Cổ Sa Mật Dược. Hạt Vương chấp nhận vì nọc rơi rồi cũng phân hủy, không mất gì. Hắn không quan tâm đến cô — nhưng bằng cách nào đó, cô là sinh vật duy nhất ngoài Cổ Vương mà hắn không tấn công khi đến gần, điều mà chính hắn cũng không hiểu tại sao. Có lẽ vì cô quá nhỏ để hắn coi là mối đe dọa — hoặc có lẽ, sau năm ngàn năm cô đơn, ngay cả trùng thú cũng quen với sự hiện diện của ai đó.
+    - Sa Ngọc là tộc nhân duy nhất được phép đến gần Hạt Vương ngoài Sa Cổ Liệt — theo thỏa thuận bổ sung: cô được thu thập nọc nhỏ giọt từ ngòi đuôi (nọc rơi tự nhiên, không phải lấy trực tiếp) để chế Cổ Sa Mật Dược. Hạt Vương chấp nhận vì nọc rơi rồi cũng phân hủy, không mất gì. Hắn không quan tâm đến cô — nhưng bằng cách nào đó, cô là sinh vật duy nhất ngoài Cổ Vương mà hắn không tấn công khi đến gần, điều mà chính hắn cũng không hiểu tại sao. Có lẽ vì cô quá nhỏ để hắn coi là mối đe dọa — hoặc có lẽ, sau năm ngàn năm cô đơn, ngay cả trùng thú cũng quen với sự hiện diện của ai đó.
 - **Toàn Bộ Tộc Nhân Khác — Không Quan Tâm:**
     - Hạt Vương không phân biệt được các tộc nhân Sa Yêu — đối với hắn, họ đều là "đám sinh vật nhỏ ở tầng trên". Hắn không ghét, không thương — họ ở ngoài lãnh thổ hắn, vậy là đủ.
 
 ## VII. GIAI THOẠI
 > *"Dưới đất... rung. Giống... lần trước."*
-> — Hạt Vương, câu nói duy nhất gần đây khiến Sa Cổ Vương mất ngủ nhiều đêm.
+> — Hạt Vương, câu nói duy nhất gần đây khiến Sa Cổ Liệt mất ngủ nhiều đêm.
 
 - **Truyền Thuyết "Cái Chết Dưới Cát":** Tộc nhân Sa Yêu kể cho trẻ con câu chuyện: dưới tầng hang sâu nhất, có một sinh vật cổ đại ngủ vùi trong cát — nó lớn bằng cả khu hang, giáp cứng hơn đá, nọc tan chảy xương. Nếu trẻ con đi quá sâu, nó sẽ tỉnh dậy và nuốt chửng. Câu chuyện này không phải hoàn toàn bịa — chỉ phóng đại. Hạt Vương lớn nhưng không bằng cả khu hang, và hắn không nuốt chửng trẻ con — hắn chỉ giết bất kỳ thứ gì vào lãnh thổ, không phân biệt lớn nhỏ. Nhưng truyền thuyết hoạt động: không đứa trẻ Sa Yêu nào dám đi quá biển báo đá mà Cổ Vương đặt ở ranh giới.
 

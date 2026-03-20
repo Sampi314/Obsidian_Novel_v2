@@ -7,7 +7,7 @@ race: Yêu Tộc (Xà Tộc)
 aliases:
   - "Không có"
 origin: Vô Tận Hải — hang sâu nhất trong lãnh thổ Lục Mãng Hạ Tộc
-faction_rank: Bí mật tối cao của Lục Mãng Hạ Tộc. Bạch xà huyết thống thuần khiết — loại đột biến cực hiếm, có thể tiến hóa thành Giao Long nếu đủ cơ duyên. Nếu Lục Mãng Vương biết, hoặc nuốt huyết mạch để tự cường, hoặc ép nó giao phối để truyền huyết thống. Cả hai đều là bản án tử đối với tự do của nó
+faction_rank: Bí mật tối cao của Lục Mãng Hạ Tộc. Bạch xà huyết thống thuần khiết — loại đột biến cực hiếm, có thể tiến hóa thành Giao Long nếu đủ cơ duyên. Nếu Lục Mãng Trường biết, hoặc nuốt huyết mạch để tự cường, hoặc ép nó giao phối để truyền huyết thống. Cả hai đều là bản án tử đối với tự do của nó
 avatar: ''
 arcs:
   - arc: 1
@@ -46,7 +46,7 @@ arcs:
           tin: 60
           so: 0
           on: 0
-      - character: Lục Mãng Vương
+      - character: Lục Mãng Trường
         description: Kẻ mà cả tộc sợ, kẻ sẽ nuốt huyết mạch của mình nếu biết
         feelings:
           yeu: 0
@@ -64,7 +64,7 @@ arcs:
 - **Danh Hiệu:** Không có — sự tồn tại của nó là bí mật. Thanh Lân gọi nó là "Tiểu Bạch" khi không có ai.
 - **Chủng Tộc:** Yêu Tộc (Xà Tộc — Bạch Xà đột biến huyết thống thuần khiết).
 - **Tu Vi:** Luyện Khí Đỉnh Phong (練氣巔峰) — tu vi tự nhiên, không qua rèn luyện bài bản. Huyết mạch thuần khiết cho nó linh lực tiềm ẩn vượt xa đồng tộc cùng tuổi.
-- **Thân Phận:** Bí mật tối cao của Lục Mãng Hạ Tộc. Bạch xà huyết thống thuần khiết — loại đột biến cực hiếm, có thể tiến hóa thành Giao Long (蛟龍) nếu đủ cơ duyên. Nếu Lục Mãng Vương biết, hoặc nuốt huyết mạch để tự cường, hoặc ép nó giao phối để truyền huyết thống. Cả hai đều là bản án tử đối với tự do của nó.
+- **Thân Phận:** Bí mật tối cao của Lục Mãng Hạ Tộc. Bạch xà huyết thống thuần khiết — loại đột biến cực hiếm, có thể tiến hóa thành Giao Long (蛟龍) nếu đủ cơ duyên. Nếu Lục Mãng Trường biết, hoặc nuốt huyết mạch để tự cường, hoặc ép nó giao phối để truyền huyết thống. Cả hai đều là bản án tử đối với tự do của nó.
 - **Khu Vực:** Vô Tận Hải — hang sâu nhất trong lãnh thổ Lục Mãng Hạ Tộc.
 - **Thế Lực:** Lục Mãng Hạ Tộc (绿蟒下族).
 
@@ -104,13 +104,13 @@ Xà Bạch Linh sinh ra từ một quả trứng bất thường trong ổ trứ
 
 Thanh Lân kiểm tra và nhận ra: đây là trứng bạch xà — đột biến huyết thống cực hiếm, xảy ra một lần trong vài trăm năm, khi dòng máu xà tộc thuần khiết đến ngưỡng tự tiến hóa. Con rắn nở ra từ quả trứng này sẽ mang huyết mạch Giao Long — tiền thân của rồng. Nếu tu luyện đủ, nó có thể hóa Giao, rồi hóa Long — bước nhảy vọt mà xà tộc thường mất hàng ngàn năm mới có cơ hội.
 
-Thanh Lân biết ngay: nếu Lục Mãng Vương biết, hoặc nuốt trứng lấy tinh huyết, hoặc giữ lại ép phối giống. Cả hai đều là diệt vong đối với sinh linh bên trong. Lão quyết định trong một đêm — giấu trứng vào hang sâu nhất, nơi ngay cả Lục Mãng Vương cũng ít khi đến. Chỉ lão và Hắc Vĩ biết.
+Thanh Lân biết ngay: nếu Lục Mãng Trường biết, hoặc nuốt trứng lấy tinh huyết, hoặc giữ lại ép phối giống. Cả hai đều là diệt vong đối với sinh linh bên trong. Lão quyết định trong một đêm — giấu trứng vào hang sâu nhất, nơi ngay cả Lục Mãng Trường cũng ít khi đến. Chỉ lão và Hắc Vĩ biết.
 
 Trứng nở sau ba tháng. Con bạch xà chui ra, cuộn trên tay Thanh Lân, nhìn lão bằng đôi mắt bạc. Thanh Lân đặt tên: Bạch Linh. Từ đó, nó sống trong hang sâu — không thấy trời, không thấy đất, không biết mình khác biệt. Thanh Lân và Hắc Vĩ thay phiên mang thức ăn, kiểm tra sức khỏe. Nó lớn chậm hơn xà thường — vì huyết mạch đang tích lũy, nén chất lượng thay vì số lượng. Mỗi phiến vảy trên người nó cứng hơn vảy Trúc Cơ tu sĩ, dù tu vi mới Luyện Khí.
 
 Bạch Linh không biết tại sao mình bị giấu. Nó không hỏi — vì chưa biết cách hỏi. Nhưng mỗi đêm trăng, khi ánh nguyệt lọt qua khe đá mỏng chiếu vào hang, vảy nó phát sáng rực rỡ — và tiếng rít nhỏ cất lên, vọng qua đường hầm, như tiếng gọi gửi đến bầu trời mà nó chưa bao giờ thấy.
 
-Thanh Lân biết: không thể giấu nó mãi. Long huyết sẽ ngày càng mạnh, linh áp sẽ ngày càng rõ. Sớm muộn Lục Mãng Vương sẽ cảm nhận được. Lão cần tìm cách — hoặc giúp nó mạnh đủ để tự bảo vệ, hoặc đưa nó đi trước khi quá muộn. Nhưng đưa đi đâu? Thế giới ngoài kia không tử tế hơn Lục Mãng Vương.
+Thanh Lân biết: không thể giấu nó mãi. Long huyết sẽ ngày càng mạnh, linh áp sẽ ngày càng rõ. Sớm muộn Lục Mãng Trường sẽ cảm nhận được. Lão cần tìm cách — hoặc giúp nó mạnh đủ để tự bảo vệ, hoặc đưa nó đi trước khi quá muộn. Nhưng đưa đi đâu? Thế giới ngoài kia không tử tế hơn Lục Mãng Trường.
 
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
@@ -133,7 +133,7 @@ Thanh Lân biết: không thể giấu nó mãi. Long huyết sẽ ngày càng m
 - **Thanh Lân** (Gia tộc): Con bạch xà huyết mạch thuần khiết mà hắn giấu kín, hy vọng cuối cùng của tộc
 - **Thanh Vĩ Nhi** (Gia tộc): Con bạch xà bí ẩn trong hang sâu, nó lén đến thăm dù bị cấm
 - **Thanh Lân (Tộc Trưởng):**
-    - Kẻ giấu mình — vừa là ân nhân bảo vệ nó khỏi Lục Mãng Vương, vừa là cai ngục nhốt nó trong bóng tối. Nó cảm nhận sự quan tâm của lão — mỗi lần lão xuống hang, tay lão luôn mang hơi ấm, giọng nói luôn dịu dàng. Nhưng nó cũng cảm nhận sự lo lắng, sự sợ hãi — và bản năng nói với nó rằng lão đang giấu nó khỏi thứ gì đó rất lớn. Nó không hiểu — nhưng nó tin lão.
+    - Kẻ giấu mình — vừa là ân nhân bảo vệ nó khỏi Lục Mãng Trường, vừa là cai ngục nhốt nó trong bóng tối. Nó cảm nhận sự quan tâm của lão — mỗi lần lão xuống hang, tay lão luôn mang hơi ấm, giọng nói luôn dịu dàng. Nhưng nó cũng cảm nhận sự lo lắng, sự sợ hãi — và bản năng nói với nó rằng lão đang giấu nó khỏi thứ gì đó rất lớn. Nó không hiểu — nhưng nó tin lão.
 - **Hắc Vĩ (Phó Tộc Trưởng):**
     - Kẻ canh hang nghiêm khắc. Hắc Vĩ ít nói chuyện với nó — đến, đặt thức ăn, đi. Nhưng thỉnh thoảng Hắc Vĩ mang thức ăn ngon hơn bình thường — con chuột béo thay vì thằn lằn gầy — và nó biết đó là cách kẻ lạnh lùng này thể hiện quan tâm. Nó sợ Hắc Vĩ — vì hắn mang sát khí mà Thanh Lân không có.
 - **Thanh Vĩ Nhi (Bạn):**

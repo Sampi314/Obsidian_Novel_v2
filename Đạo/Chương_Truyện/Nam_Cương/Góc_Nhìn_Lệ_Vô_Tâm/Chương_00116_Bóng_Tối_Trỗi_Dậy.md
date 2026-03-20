@@ -30,7 +30,7 @@ Lệ Vô Tâm quan sát tấm bản đồ. Hắn không ngốc đến mức quay
 
 "Huyết Tinh Oán Linh..." Hắn khẽ nhắc lại món bảo vật từng được Huyết Sát Minh giao cho hắn để phá Cửu Hoa Kiếm Tông. "Đông Hoang này, ngoại trừ Vạn Yêu Lão Tổ mất tích, thì ai có thể cung cấp oán linh mạnh nhất?"
 
-Đầu óc hắn lóe lên một ý tưởng điên rồ. *Huyết Hổ Vương? Lục Mãng Vương? Không, chúng chưa đủ.* Lệ Vô Tâm nở nụ cười ma quái. Ở bên dưới lòng đất Vạn Yêu Thành, nơi sâu thẳm nhất, tương truyền có một Di Tích Cổ, nơi phong ấn một luồng sức mạnh Thượng Cổ đã tàn lụi, thứ mà ngay cả Lão Tổ cũng e ngại.
+Đầu óc hắn lóe lên một ý tưởng điên rồ. *Huyết Hổ Nha? Lục Mãng Trường? Không, chúng chưa đủ.* Lệ Vô Tâm nở nụ cười ma quái. Ở bên dưới lòng đất Vạn Yêu Thành, nơi sâu thẳm nhất, tương truyền có một Di Tích Cổ, nơi phong ấn một luồng sức mạnh Thượng Cổ đã tàn lụi, thứ mà ngay cả Lão Tổ cũng e ngại.
 
 "Huyết Uyên... Không, nơi này gọi là **Phế Tích Huyết Dạ**." Hắn nhớ lại một tấm mật đồ tìm thấy trong tay một tên thương gia chợ đen bị hắn hút máu. Nơi đó chứa đựng thi hài của một Huyết Yêu Thượng Cổ. Nếu có thể hấp thụ được tinh huyết đó...
 

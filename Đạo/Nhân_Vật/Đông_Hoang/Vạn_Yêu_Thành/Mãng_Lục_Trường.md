@@ -1,0 +1,49 @@
+---
+type: character
+name: Mãng Lục Trường
+hantu: 蟒绿长
+archetype: Hắc Thị Chủ
+race: Yêu Tộc
+origin: Đông Hoang
+faction_rank: Hắc Thị Chủ
+avatar: ''
+arcs:
+  - arc: 1
+    status: Chưa Xác Định
+    cultivation: Nguyên Anh Sơ Kỳ
+    methods: []
+    inventory: []
+    stats: [0, 0, 0, 0, 0, 0]
+    relationships: []
+---
+
+# HỒ SƠ NHÂN VẬT: MÃNG LỤC VƯƠNG (蟒绿长)
+
+## I. THÔNG TIN CƠ BẢN
+- **Họ Tên:** Mãng Lục Trường (蟒绿长).
+- **Chủng Tộc:** Yêu Tộc (Mãng).
+- **Tu Vi:** Nguyên Anh Sơ Kỳ.
+- **Khu Vực:** Đông Hoang.
+- **Thế Lực:** Vạn Yêu Thành.
+- **Chức Vụ:** Hắc Thị Chủ.
+
+## II. NGOẠI HÌNH & TÍNH CÁCH
+Mãng Lục Trường mang nhân hình một trung niên gầy cao, làn da xanh nhạt phủ vảy mãng mỏng lấp lánh, đôi mắt xẻ dọc màu lục sẫm lạnh lùng như rắn. Mái tóc đen dài trơn mượt xõa xuống vai, lưỡi chẻ đôi thỉnh thoảng thè ra nếm không khí theo bản năng. Mặc áo bào lụa đen viền xanh lục, di chuyển không tiếng động, thường xuất hiện bất ngờ khiến người khác giật mình. Tính cách âm hiểm thâm trầm, không bao giờ nổi giận bề mặt nhưng trả thù không bỏ sót ai, kiểm soát chợ đen bằng nỗi sợ hãi thay vì lòng trung thành.
+
+## III. NĂNG LỰC & CHIẾN ĐẤU
+Đạt cảnh giới Nguyên Anh Sơ Kỳ, Mãng Lục Trường tu luyện "Lục Mãng Thôn Thiên Quyết" (綠蟒吞天诀) — mở rộng miệng có thể nuốt chửng bất kỳ thứ gì nhỏ hơn bản thể, bao gồm cả pháp thuật và linh lực của đối phương. Tuyệt kỹ "Vạn Xà Trầm Uyên" (万蛇沉渊) triệu hồi hàng ngàn bóng rắn từ bóng tối, siết chặt và kéo mục tiêu vào hư không. Điểm mạnh là khả năng nuốt và hóa giải pháp thuật đối phương cùng chiến đấu trong bóng tối, nhược điểm là kỵ quang minh chính đại và yếu đuối dưới ánh sáng mạnh.
+
+## IV. CÁC MỐI QUAN HỆ
+- **Hổ Huyết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Nha
+- **Hồ Thất Cửu** (Thuộc hạ): Thành Chủ chỉ huy Hắc Thị Chủ
+- **Mãng Huyền Thiên** (Thuộc hạ): Hắc Thị Chủ chỉ huy tay chân Mãng
+- **Điêu Hương Phong** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Yêu Thành
+- **Hồ Tiểu Vũ Nguyệt** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Yêu Thành
+- **Xà Hồng Tín Tử** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Vạn Yêu Thành
+- **Hùng Ngân Lôi** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hồ Thất Cửu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Hổ Phá Quân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
+- **Mãng Địa Hoàng** (Đối thủ): Địa Yêu Vương và Hắc Thị Chủ, cùng Mãng Tộc nhưng đối lập lý tưởng
+## V. TIỂU SỬ & HÀNH TRÌNH
+Mãng Lục Trường là mãng xà đã tu luyện thành yêu trong một đầm lầy độc khí ở rìa Đông Hoang, từ nhỏ đã sống bằng cách nuốt chửng mọi thứ trên đường — từ linh thảo đến yêu thú đều biến thành dưỡng chất. Khi đến Vạn Yêu Thành, hắn nhận ra rằng buôn bán những thứ cấm có lợi nhuận gấp trăm lần cướp bóc, nên đề xuất với Hồ Thất Cửu thành lập chợ đen và tự mình đứng ra quản lý. Chợ đen dưới tay hắn trở thành nơi giao dịch mọi thứ — từ linh dược quý hiếm, pháp khí bị đánh cắp đến thông tin mật, miễn trả đủ giá. Hiện tại, hắn đang bí mật tích trữ một loại nguyên liệu luyện đan cấm chế mà nguồn gốc đến từ Tử Vong Chi Thung Lũng, hắn biết nếu bị phát giác sẽ gây ra chiến tranh nhưng lợi nhuận quá hấp dẫn.

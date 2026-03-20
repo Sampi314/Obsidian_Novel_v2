@@ -34,8 +34,8 @@ Xà Bạch Lân mang nhân hình một nữ nhân thanh mảnh lạnh lùng, là
 Đạt cảnh giới Kim Đan Sơ Kỳ, Xà Bạch Lân tu luyện "Bạch Lân Chế Độc Quyết" (白鱗制毒诀) — tổng hợp và phân tích mọi loại độc tố, cơ thể miễn dịch với hầu hết chất độc đã biết. Tuyệt kỹ "Bách Độc Khai Hoa" (百毒开花) phun ra sương mù chứa hỗn hợp trăm loại độc tố, mỗi giọt có tác dụng khác nhau — từ tê liệt, ảo giác đến hoại tử. Điểm mạnh là kho tàng độc dược và khả năng chế tạo giải độc vạn năng, nhược điểm là thể lực yếu và hoàn toàn phụ thuộc vào chuẩn bị trước.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
-- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hổ Huyết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Nha
 - **Hùng Cự Lực** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Hồ Ngọc Nhan** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Hổ Thiết Quyền** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành

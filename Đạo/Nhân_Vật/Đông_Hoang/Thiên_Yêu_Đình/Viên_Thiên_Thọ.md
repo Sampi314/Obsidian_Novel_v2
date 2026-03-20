@@ -48,7 +48,7 @@ Là Thiên Yêu Vương cảnh giới Hóa Thần Sơ Kỳ, Viên Thiên Thọ t
 - **Lang Thiên Dạ Hành** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
 - **Mãng Ngàn Thu** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
 - **Viên Bá Thiên** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
-- **Xà Độc Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Xà Độc Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
 - **Hùng Thiên Sơn Hống** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
 - **Hổ Liệt Diễm** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
 - **Lang Thiên Nộ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
@@ -59,7 +59,7 @@ Là Thiên Yêu Vương cảnh giới Hóa Thần Sơ Kỳ, Viên Thiên Thọ t
 - **Ưng Hồng Sí** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
 - **Báo Vân Ảnh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
 - **Hổ Hàn Phong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
-- **Trư Thiết Nha Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
+- **Trư Thiết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
 - **Xà Lục Lân** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
 - **Hùng Thiết Chưởng** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
 - **Hồ Thanh Lăng** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
@@ -80,7 +80,7 @@ Là Thiên Yêu Vương cảnh giới Hóa Thần Sơ Kỳ, Viên Thiên Thọ t
 - **Lang Thiên Dạ Hành** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
 - **Mãng Ngàn Thu** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
 - **Viên Bá Thiên** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
-- **Xà Độc Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Xà Độc Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
 - **Hùng Thiên Sơn Hống** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
 - **Hổ Liệt Diễm** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
 - **Lang Thiên Nộ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
@@ -91,7 +91,7 @@ Là Thiên Yêu Vương cảnh giới Hóa Thần Sơ Kỳ, Viên Thiên Thọ t
 - **Ưng Hồng Sí** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
 - **Báo Vân Ảnh** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
 - **Hổ Hàn Phong** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
-- **Trư Thiết Nha Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
+- **Trư Thiết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
 - **Xà Lục Lân** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
 - **Hùng Thiết Chưởng** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
 - **Hồ Thanh Lăng** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ

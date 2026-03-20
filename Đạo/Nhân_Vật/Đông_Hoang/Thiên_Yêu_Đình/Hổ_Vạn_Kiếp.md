@@ -45,7 +45,7 @@ Là Yêu Đế cảnh giới Hóa Thần Trung Kỳ, Hổ Vạn Kiếp tu luyệ
 - **Lang Thiên Nộ** (Thuộc hạ): Yêu Đế thống lĩnh Thương Lang Bộ Lạc Trưởng
 - **Mãng Hắc Vân** (Thuộc hạ): Yêu Đế thống lĩnh Mãng Bộ Lạc Trưởng
 - **Hùng Thiên Sơn Hống** (Thuộc hạ): Yêu Đế thống lĩnh Hùng Bộ Lạc Trưởng
-- **Trư Thiết Nha Vương** (Thuộc hạ): Yêu Đế thống lĩnh Dã Trư Bộ Lạc Trưởng
+- **Trư Thiết Nha** (Thuộc hạ): Yêu Đế thống lĩnh Dã Trư Bộ Lạc Trưởng
 - **Nha Huyền Dạ Phong** (Thuộc hạ): Liên Trưởng Hoang Dã danh nghĩa phục tùng Yêu Đế
 - **Xà Cương Giáp** (Thuộc hạ): Minh Chủ Giáp Xác quy phục Yêu Đế
 - **Lang Bạch Nha** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Thiên Yêu Đình

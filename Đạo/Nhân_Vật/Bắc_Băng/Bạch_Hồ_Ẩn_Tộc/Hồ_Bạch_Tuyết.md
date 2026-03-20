@@ -1,13 +1,13 @@
 ---
 type: character
-name: Hồ Bạch Liên
-hantu: 狐白莲
+name: Hồ Bạch Tuyết
+hantu: 狐白雪
 archetype: Tộc Trưởng
 race: Yêu Tộc
 dao_tam: Ẩn Thế Hộ Tộc
 aliases:
   - "Sương Mù Phu Nhân (霧夫人)"
-  - "Bạch Liên Lão Nương (白莲老娘)"
+  - "Bạch Tuyết Lão Nương (白雪老娘)"
   - "tưởng bà chỉ là một bà lão bán cá hiền hậu"
 origin: Bắc Băng
 age: 347
@@ -17,7 +17,7 @@ arcs:
   - arc: 1
     status: Còn Sống
     cultivation: Kim Đan Sơ Kỳ
-    methods: [Tuyết Hồ Huyễn Hóa Thuật, Bạch Liên Nguyệt Ảnh Công, Linh Thủy Ngưng Châu]
+    methods: [Tuyết Hồ Huyễn Hóa Thuật, Bạch Tuyết Nguyệt Ảnh Công, Linh Thủy Ngưng Châu]
     inventory:
       - name: Bạch Nguyệt Phù Trần
         type: Pháp Bảo
@@ -83,11 +83,11 @@ arcs:
           on: 30
 ---
 
-# HỒ SƠ NHÂN VẬT: HỒ BẠCH LIÊN (狐白莲)
+# HỒ SƠ NHÂN VẬT: HỒ BẠCH LIÊN (狐白雪)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Tên:** Hồ Bạch Liên (狐白莲).
-- **Biệt Danh:** Sương Mù Phu Nhân (霧夫人), Bạch Liên Lão Nương (白莲老娘) — tên gọi mà dân chài quen miệng dùng, tưởng bà chỉ là một bà lão bán cá hiền hậu.
+- **Tên:** Hồ Bạch Tuyết (狐白雪).
+- **Biệt Danh:** Sương Mù Phu Nhân (霧夫人), Bạch Tuyết Lão Nương (白雪老娘) — tên gọi mà dân chài quen miệng dùng, tưởng bà chỉ là một bà lão bán cá hiền hậu.
 - **Tuổi:** 347 tuổi (ngoại hình như phụ nữ trung niên khoảng bốn mươi lăm, nhưng khi thu hết huyễn thuật trở về nguyên hình thì trẻ hơn nhiều — diện mạo yêu tộc không già theo tuổi nhân loại).
 - **Chủng Tộc:** Yêu Tộc — Bạch Hồ Tuyết (白狐雪), phân nhánh quý hiếm của hồ yêu chuyên sinh sống tại vùng cực bắc băng giá, lông trắng tinh khiết như tuyết trinh, có khả năng thiên bẩm về huyễn thuật và thủy hệ linh lực.
 - **Cảnh Giới:** Kim Đan Sơ Kỳ — cảnh giới cao nhất trong tộc, đạt được sau hơn ba trăm năm tu luyện gian khổ trong cảnh lưu vong. Lõi Kim Đan của bà mang sắc trắng xanh, chứa đựng cả huyễn lực và băng lực, nhưng vì phải liên tục duy trì huyễn thuật ngụy trang cho cả tộc nên tu vi tiến triển cực kỳ chậm.
@@ -127,7 +127,7 @@ arcs:
 - **Biến Cố (Đêm Liên Hồ Cốc Nhuốm Máu — "Diệt Hồ chi Dạ"):**
     - Năm Bạch Liên một trăm năm mươi hai tuổi, một liên minh thợ săn yêu thú do một tông môn tu tiên bí ẩn hậu thuẫn đã phát động cuộc tấn công bất ngờ vào Liên Hồ Cốc. Chúng đã phá giải được đại trận phòng thủ của tộc nhờ nội gián — một hồ yêu phản bội đã cung cấp bản đồ trận pháp để đổi lấy tự do.
     - Cuộc thảm sát diễn ra suốt ba ngày đêm. Cha bà — Hồ Bạch Phong — chiến đấu đến hơi thở cuối cùng, một mình chặn đường rút lui cho tộc nhân, hạ mười bảy thợ săn trước khi bị Nguyên Anh tu sĩ của đối phương giết chết. Mẹ bà ôm đứa cháu nhỏ nhất lao vào lửa tự thiêu để không bị bắt sống làm nhục. Hơn hai trăm tộc nhân bị giết, lông và đuôi bị lột bán cho thương nhân.
-    - Bạch Liên và chị gái Tuyết Nhi cùng mười bảy tộc nhân sống sót nhờ Bạch Liên kích hoạt Bạch Liên Nguyệt Ảnh Công — bí thuật gia truyền ẩn giấu hoàn toàn khí tức và hình dạng — dẫn mọi người chạy thoát qua đường hầm ngầm dưới lòng đất mà mẹ bà đã đào sẵn cho tình huống xấu nhất. Trong lúc chạy trốn, bà bị thợ săn chém đứt hai đuôi hồ — đau đớn đến mức suýt ngất nhưng cắn răng chịu đựng, vì biết rằng nếu bà ngã thì cả nhóm sẽ chết.
+    - Bạch Liên và chị gái Tuyết Nhi cùng mười bảy tộc nhân sống sót nhờ Bạch Liên kích hoạt Bạch Tuyết Nguyệt Ảnh Công — bí thuật gia truyền ẩn giấu hoàn toàn khí tức và hình dạng — dẫn mọi người chạy thoát qua đường hầm ngầm dưới lòng đất mà mẹ bà đã đào sẵn cho tình huống xấu nhất. Trong lúc chạy trốn, bà bị thợ săn chém đứt hai đuôi hồ — đau đớn đến mức suýt ngất nhưng cắn răng chịu đựng, vì biết rằng nếu bà ngã thì cả nhóm sẽ chết.
 - **Lưu Vong & Xây Dựng Ẩn Tộc:**
     - Sau thảm sát, mười chín hồ yêu sống sót lang thang suốt năm mươi năm, liên tục bị truy sát, liên tục mất thêm người. Có những đêm bà phải ôm xác tộc nhân chôn vội dưới tuyết rồi tiếp tục chạy, không kịp khóc. Đến khi tìm được vùng biển Bắc Hải hẻo lánh này, chỉ còn lại mười ba người.
     - Chính tại đây, Bạch Liên đưa ra quyết định táo bạo nhất đời mình: thay vì tiếp tục sống như yêu tộc trong rừng sâu núi thẳm, bà quyết định hòa nhập hoàn toàn vào xã hội nhân tộc. Bà dạy từng tộc nhân cách ngụy trang — từ cách biến đổi diện mạo, kìm nén yêu khí, cho đến cách đi đứng nói năng, ăn uống, lao động như con người. Bà đặt ra quy tắc sắt: "Sống là ẩn, lộ là chết."
@@ -135,7 +135,7 @@ arcs:
     - Năm Bạch Liên ba trăm tuổi, bà đột phá Kim Đan Sơ Kỳ trong một đêm Đông Chí — giọt Kim Đan ngưng tụ từ ba trăm năm đau thương, kiên nhẫn và hy sinh. Sức mạnh tăng vọt, nhưng bà không dùng nó để báo thù — mà dùng để duy trì Ảo Ảnh Sương Mù Trận mạnh hơn, che chắn cho tộc nhân chu toàn hơn.
 - **Chiến Tích:**
     - **Đàm Phán Phá Băng (năm 290 tuổi):** Khi Châu Phá Thiên vô tình phát hiện yêu khí tại làng chài, Bạch Liên không giết người diệt khẩu mà bình tĩnh gặp mặt đàm phán. Bà để lộ một phần thân phận, cho Châu Phá Thiên thấy ngọc trai biển lạnh mà chỉ yêu tộc mới có thể khai thác — biến mối đe dọa thành quan hệ hợp tác thương mại độc quyền cực kỳ có lợi cho cả hai bên. Đây là nước cờ ngoại giao xuất sắc nhất của bà.
-    - **Trận Đuổi Hải Xà (năm 310 tuổi):** Một con Hàn Hải Xà Vương cấp Trúc Cơ Viên Mãn xâm nhập vùng biển gần làng chài, đe dọa cả ngư dân nhân tộc lẫn tuyến thu hoạch ngọc trai. Bạch Liên lần đầu tiên thi triển Kim Đan uy năng, sử dụng Bạch Liên Nguyệt Ảnh Công tạo huyễn ảnh mười bốn con bạch hồ khổng lồ vây quanh con xà, phối hợp với Thanh Nguyệt dùng Hàn Băng Trảo đánh thực, đuổi con xà ra khỏi vùng biển mà không để lộ dấu vết chiến đấu trước mắt nhân tộc.
+    - **Trận Đuổi Hải Xà (năm 310 tuổi):** Một con Hàn Hải Xà Vương cấp Trúc Cơ Viên Mãn xâm nhập vùng biển gần làng chài, đe dọa cả ngư dân nhân tộc lẫn tuyến thu hoạch ngọc trai. Bạch Liên lần đầu tiên thi triển Kim Đan uy năng, sử dụng Bạch Tuyết Nguyệt Ảnh Công tạo huyễn ảnh mười bốn con bạch hồ khổng lồ vây quanh con xà, phối hợp với Thanh Nguyệt dùng Hàn Băng Trảo đánh thực, đuổi con xà ra khỏi vùng biển mà không để lộ dấu vết chiến đấu trước mắt nhân tộc.
     - **Che Giấu Sương Mù Lớn (năm 330 tuổi):** Một đoàn thợ săn yêu thú đi ngang qua vùng biển Bắc Hải, mang theo linh phù thám trắc yêu khí. Bạch Liên phát hiện trước nhờ Hồ Ẩn Phong cảnh báo, lập tức kích hoạt toàn bộ Ảo Ảnh Sương Mù Trận ở mức tối đa, đồng thời ra lệnh toàn tộc thu hết yêu khí, ngồi im trong nhà đóng cửa ba ngày ba đêm. Bà một mình duy trì trận pháp suốt thời gian đó, Kim Đan gần kiệt, khi đoàn thợ săn rời đi thì bà ngất xỉu suốt bảy ngày — nhưng không một tộc nhân nào bị phát hiện.
 
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
@@ -145,7 +145,7 @@ arcs:
     - **Cảm Ứng Linh Lực:** Nhạy cảm phi thường với sự biến đổi linh lực trong phạm vi rộng, có thể cảm nhận được tu sĩ cấp Trúc Cơ trở lên trong bán kính năm dặm — khả năng này giúp bà phát hiện sớm mọi mối đe dọa đến gần tộc.
 - **Công Pháp:**
     - **Tuyết Hồ Huyễn Hóa Thuật (雪狐幻化术):** Bí thuật truyền thừa của Cửu Vĩ Hồ Tộc, cho phép biến đổi hoàn toàn diện mạo và khí tức, ngụy trang dưới bất kỳ hình dạng nào. Ở trình độ của Bạch Liên, bà có thể duy trì ngụy trang cho chính mình gần như vĩnh viễn mà không tốn nhiều linh lực, đồng thời triển khai huyễn thuật phụ trợ cho tối đa mười người cùng lúc. Đây là nền tảng sống còn của cả tộc.
-    - **Bạch Liên Nguyệt Ảnh Công (白莲月影功):** Bí thuật gia truyền chỉ truyền cho tộc trưởng, kết hợp nguyệt quang và huyễn lực tạo ra những ảo ảnh gần như thực thể — có thể phát ra âm thanh, có hình dạng rõ nét, thậm chí tạo cảm giác xúc giác nhất thời. Ở cấp Kim Đan, bà có thể tạo đồng thời tối đa mười bốn ảo ảnh bạch hồ khổng lồ, mỗi ảo ảnh có thể duy trì trong một canh giờ. Chiêu tối thượng — Thiên Hồ Nguyệt Ảnh (千狐月影) — tạo ra hàng trăm bóng hồ phủ kín cả vùng trời, đánh lạc hướng thần thức đối phương, nhưng cực kỳ tốn linh lực.
+    - **Bạch Tuyết Nguyệt Ảnh Công (白雪月影功):** Bí thuật gia truyền chỉ truyền cho tộc trưởng, kết hợp nguyệt quang và huyễn lực tạo ra những ảo ảnh gần như thực thể — có thể phát ra âm thanh, có hình dạng rõ nét, thậm chí tạo cảm giác xúc giác nhất thời. Ở cấp Kim Đan, bà có thể tạo đồng thời tối đa mười bốn ảo ảnh bạch hồ khổng lồ, mỗi ảo ảnh có thể duy trì trong một canh giờ. Chiêu tối thượng — Thiên Hồ Nguyệt Ảnh (千狐月影) — tạo ra hàng trăm bóng hồ phủ kín cả vùng trời, đánh lạc hướng thần thức đối phương, nhưng cực kỳ tốn linh lực.
     - **Linh Thủy Ngưng Châu (灵水凝珠):** Kỹ thuật độc đáo kết hợp linh lực thủy hệ và huyễn lực để nuôi cấy ngọc trai biển lạnh chứa linh khí. Quá trình mất từ ba đến năm năm cho mỗi viên ngọc chất lượng cao — bà kiên nhẫn thực hiện không ngừng, vì đây là nguồn thu nhập chính nuôi sống cả tộc.
 - **Trang Bị:**
     - **Bạch Nguyệt Phù Trần (白月拂尘):** Pháp bảo ngụy trang dưới hình dạng chiếc vòng bạc cổ trên cổ tay trái, thực chất là một phất trần thu nhỏ do mẹ bà để lại. Khi kích hoạt, phất trần hiện nguyên hình — tua bạc dài phát ra ánh nguyệt quang nhạt, mỗi sợi tua chứa một lớp huyễn trận. Có thể triển khai Ảo Ảnh Sương Mù Trận ở phạm vi rộng nhất trong nháy mắt, hoặc dùng như vũ khí cận chiến quấn siết đối phương rồi phóng huyễn thuật trực tiếp vào thần thức.
@@ -158,7 +158,7 @@ arcs:
 - **Hồ Thanh Nguyệt (Hộ Vệ Trưởng — Đệ Tử Đầu Tiên, Cánh Tay Phải):**
     - Đệ tử đầu tiên Bạch Liên đào tạo trong thời kỳ lưu vong — Thanh Nguyệt lúc đó chỉ là hồ con mới biến hình, mồ côi cha mẹ trong cuộc thảm sát. Bạch Liên dạy hắn từ cách biến hình đầu tiên cho đến từng chiêu thức chiến đấu. Thanh Nguyệt trưởng thành trở thành hộ vệ trưởng trung thành nhất — sẵn sàng chết thay tộc trưởng không do dự. Bạch Liên tin tưởng Thanh Nguyệt tuyệt đối trong mọi vấn đề liên quan đến an ninh, nhưng thầm lo lắng vì hắn quá khắt khe với bản thân và sống chỉ vì nghĩa vụ.
 - **Hồ Tiểu Bạch (Đệ Tử Huyễn Thuật — Cháu Gái, Hy Vọng Tương Lai):**
-    - Cháu gái ruột — con của đệ tử yêu quý đã qua đời. Bạch Liên nuôi dưỡng Tiểu Bạch từ nhỏ, dồn hết tình thương của một người bà lẫn người mẹ vào cô bé. Tiểu Bạch thừa hưởng tài năng huyễn thuật thiên bẩm giống Bạch Liên, được bà hy vọng sẽ trở thành truyền nhân kế thừa Bạch Liên Nguyệt Ảnh Công. Nhưng Tiểu Bạch tính tình nghịch ngợm, hay tò mò về thế giới bên ngoài — điều khiến Bạch Liên vừa lo lắng vừa đau lòng, vì bà hiểu khao khát tự do ấy nhưng không thể cho phép nó tồn tại trong hoàn cảnh hiện tại.
+    - Cháu gái ruột — con của đệ tử yêu quý đã qua đời. Bạch Liên nuôi dưỡng Tiểu Bạch từ nhỏ, dồn hết tình thương của một người bà lẫn người mẹ vào cô bé. Tiểu Bạch thừa hưởng tài năng huyễn thuật thiên bẩm giống Bạch Liên, được bà hy vọng sẽ trở thành truyền nhân kế thừa Bạch Tuyết Nguyệt Ảnh Công. Nhưng Tiểu Bạch tính tình nghịch ngợm, hay tò mò về thế giới bên ngoài — điều khiến Bạch Liên vừa lo lắng vừa đau lòng, vì bà hiểu khao khát tự do ấy nhưng không thể cho phép nó tồn tại trong hoàn cảnh hiện tại.
 - **Hồ Ngọc Châu (Thợ Lặn — Trụ Cột Kinh Tế):**
     - Thợ lặn giỏi nhất tộc, người bà giao phó toàn bộ việc khai thác ngọc trai biển lạnh. Bạch Liên đánh giá cao năng lực và sự tận tụy của Ngọc Châu — cô ta là một trong số ít tộc nhân có thể lặn xuống vùng nước đóng băng sâu nhất để tìm ngọc trai chất lượng tối thượng. Bà xem Ngọc Châu là trụ cột kinh tế không thể thay thế, nhưng cũng lo lắng vì công việc lặn biển cực kỳ nguy hiểm.
 - **Hồ Ẩn Phong (Giám Sát Yêu Khí — Đôi Tai Của Tộc):**
@@ -168,10 +168,10 @@ arcs:
 
 ## VII. GIAI THOẠI
 > *"Sống là ẩn, lộ là chết. Ghi nhớ lấy — đây không phải lời dọa, mà là bài học viết bằng máu của hai trăm tộc nhân đã khuất."*
-> — Hồ Bạch Liên, lời răn dạy mỗi đứa trẻ hồ con khi đến tuổi học biến hình.
+> — Hồ Bạch Tuyết, lời răn dạy mỗi đứa trẻ hồ con khi đến tuổi học biến hình.
 
 > *"Ta đã khóc đủ rồi. Mỗi giọt nước mắt của ta đều hóa thành ngọc trai đỏ — nếu ta còn khóc thêm, sợ rằng cả biển này cũng không đựng nổi."*
-> — Hồ Bạch Liên, nói với Hồ Tuyết Nhi trong đêm giỗ tộc nhân.
+> — Hồ Bạch Tuyết, nói với Hồ Tuyết Nhi trong đêm giỗ tộc nhân.
 
 - **Truyền Thuyết Bà Lão Sương Mù:** Dân chài trong làng kể rằng mỗi khi sương mù dày đặc bao phủ vùng biển, đó là "bà Liên đang cầu trời phù hộ cho ngư dân." Họ không biết rằng sương mù ấy chính là Ảo Ảnh Sương Mù Trận mà Bạch Liên kích hoạt để che giấu hoạt động của tộc nhân dưới nước. Có ông lão ngư dân thề rằng một lần đi biển lạc trong sương, thấy bóng một con cáo trắng khổng lồ chín đuôi đứng trên sóng nhìn mình — nhưng khi chớp mắt thì chỉ thấy bà Liên đang chèo thuyền bán cá, mỉm cười hỏi "Ông lão có mua cá không?" Từ đó ông lão không bao giờ dám nhắc lại.
 

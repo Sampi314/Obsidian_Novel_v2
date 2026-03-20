@@ -39,7 +39,7 @@ Là Hùng Bộ Lạc Trưởng cảnh giới Kim Đan Viên Mãn, Hùng Thiên S
 - **Hổ Vạn Kiếp** (Thuộc hạ): Yêu Đế thống lĩnh Hùng Bộ Lạc Trưởng
 - **Mãng Ngàn Thu** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Viên Bá Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
-- **Xà Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Xà Độc Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hổ Liệt Diễm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Lang Thiên Nộ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Mãng Hắc Vân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình

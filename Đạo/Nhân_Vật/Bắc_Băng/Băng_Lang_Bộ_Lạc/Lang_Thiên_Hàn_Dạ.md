@@ -28,7 +28,7 @@ arcs:
         type: Linh Vật
     stats: [200, 450, 400, 350, 350, 500]
     relationships:
-      - character: Lang Tuyết Vương
+      - character: Lang Tuyết Nha
         description: Đại Tù Trưởng mà lão cố vấn về mặt tâm linh và tiên tri thời tiết
         feelings:
           yeu: 0
@@ -131,7 +131,7 @@ arcs:
     - **Trượng Xương Lang Tổ (狼祖骨杖):** Cây trượng làm từ xương sống lang yêu tổ đời thứ ba — pháp bảo truyền thừa Đại Lang Vu. Trượng khuếch đại tinh thần lực, giúp lão giao tiếp với Tuyết Linh dễ dàng hơn, đồng thời có thể phát ra sóng xung kích tinh thần — không gây sát thương vật lý nhưng khiến đối phương hôn mê tạm thời.
 
 ## VI. QUAN HỆ
-- **Lang Tuyết Vương — Đại Tù Trưởng & Người Tin Tưởng:**
+- **Lang Tuyết Nha — Đại Tù Trưởng & Người Tin Tưởng:**
     - Tuyết Vương là một trong số ít người thực sự lắng nghe Thiên Hàn Dạ — không phải vì hiểu mà vì tin. Lão đã đúng quá nhiều lần để bị bỏ qua. Mỗi khi có quyết định lớn, Tuyết Vương đều hỏi ý kiến Thiên Hàn Dạ — và lão trả lời bằng câu đố mà Tuyết Vương mất ba ngày mới giải được, nhưng luôn giải đúng.
 - **Lang Mộng Tuyết — Đệ Tử & Người Kế Thừa:**
     - Mộng Tuyết là đệ tử mà lão chờ đợi cả đời — cô bé có thiên phú cảm ứng linh thể giống lão thời trẻ, thậm chí mạnh hơn. Lão dạy bà mọi thứ — bói toán, nghi lễ, lịch sử, triệu hoán — với sự gấp gáp của kẻ biết mình không còn nhiều thời gian. Lão lo rằng bà quá trẻ, quá nhạy cảm — thế giới Saman đầy bóng tối, và không phải ai cũng chịu nổi.

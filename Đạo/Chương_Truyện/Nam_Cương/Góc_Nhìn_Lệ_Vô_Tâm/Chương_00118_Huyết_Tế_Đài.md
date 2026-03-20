@@ -36,7 +36,7 @@ Nhưng quá trình kết Đan không hề suôn sẻ. Oán khí của các sinh 
 
 Hắn nhắm mắt lại, thông qua mối liên kết với Huyết Tinh Phù, ra lệnh cho hàng ngàn tàn hồn và những sinh vật bị Huyết Hóa tấn công kẻ xâm nhập. Hắn không cần chúng phải giết được đám Tĩnh Sương, chỉ cần câu giờ đủ lâu để hắn hoàn thành Huyết Đan.
 
-Nhưng hắn đánh giá thấp quyết tâm của chúng. Hắn cảm nhận được sát khí của Lục Mãng Vương và Huyết Hổ Vương đang tiến nhanh về phía Huyết Tế Đài. Hàn khí của Băng Kiếm và sức sống của Mộc Tiễn liên tục phá hủy các bẫy rập của hắn.
+Nhưng hắn đánh giá thấp quyết tâm của chúng. Hắn cảm nhận được sát khí của Lục Mãng Trường và Huyết Hổ Nha đang tiến nhanh về phía Huyết Tế Đài. Hàn khí của Băng Kiếm và sức sống của Mộc Tiễn liên tục phá hủy các bẫy rập của hắn.
 
 "Diệp Tĩnh Sương... cô thật sự rất phiền phức," Lệ Vô Tâm thì thầm, một giọt mồ hôi lạnh chảy ròng ròng trên trán.
 

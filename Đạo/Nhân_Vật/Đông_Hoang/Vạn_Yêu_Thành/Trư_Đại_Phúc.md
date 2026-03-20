@@ -34,8 +34,8 @@ Trư Đại Phúc mang nhân hình một ông già bụng phệ tròn trĩnh, kh
 Đạt cảnh giới Trúc Cơ Viên Mãn, Trư Đại Phúc tu luyện "Linh Trù Bách Vị Quyết" (靈厨百味诀) — chế biến thức ăn có chứa linh lực, từ hồi phục thương tích, tăng cường sức mạnh tạm thời đến giải độc. Tuyệt kỹ "Thiên Hương Mê Hồn Phạn" (天香迷魂饭) nấu ra món ăn thơm đến mức mọi sinh vật trong phạm vi trăm trượng đều bị thu hút, mất cảnh giác. Điểm mạnh là nấu ăn chữa thương và hỗ trợ đội nhóm, nhược điểm là hoàn toàn không có khả năng chiến đấu trực tiếp.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
-- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hổ Huyết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Nha
 - **Xà Bạch Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Nha Thiên Mục** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Thử Thiên Đạo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành

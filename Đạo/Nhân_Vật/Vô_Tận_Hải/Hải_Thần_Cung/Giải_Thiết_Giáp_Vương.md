@@ -4,126 +4,42 @@ name: Giải Thiết Giáp Vương
 hantu: 蟹鐵甲王
 archetype: Nam Hải Tướng Quân
 race: Hải Tộc
-lingan: Kim Thổ Linh Căn (Song hệ Kim-Thổ)
-dao_tam: Phòng Ngự Bất Phá, Giáp Trụ Vạn Quân
-aliases:
-  - "Thiết Giáp Chiến Thần (鐵甲戰神)"
-  - "Bất Phá Thành Trì (不破城池)"
-age: 2800
 origin: Vô Tận Hải
-faction_rank: Nam Hải Tướng Quân — Một trong Tứ Hải Tướng Quân, trấn giữ Nam Hải
+faction_rank: Nam Hải Tướng Quân
 avatar: ''
 arcs:
   - arc: 1
-    status: Còn Sống
+    status: Chưa Xác Định
     cultivation: Nguyên Anh Sơ Kỳ
-    methods: [Thiết Giáp Vạn Trùng Quyết, Kim Cương Bất Hoại Thân]
-    inventory:
-      - name: Thiết Giáp Vạn Trùng Thuẫn
-        type: Pháp Bảo
-      - name: Cự Kìm Thiết Phủ
-        type: Vũ Khí
-      - name: Nam Hải Tướng Ấn
-        type: Pháp Bảo
-    stats: [8000, 5000, 4000, 3000, 2000, 7000]
-    relationships:
-      - character: Hải Thiên Đế
-        description: Hải Đế, vị quân chủ mà hắn tuyệt đối trung thành suốt ngàn năm
-        feelings:
-          yeu: 30
-          han: 0
-          kinh: 80
-          tin: 95
-          so: 10
-          on: 60
-      - character: Chương Hắc Triều
-        description: Đồng liêu Tây Bắc Tướng Quân, đối thủ truyền kiếp trong tranh luận chiến lược
-        feelings:
-          yeu: 15
-          han: 20
-          kinh: 40
-          tin: 50
-          so: 0
-          on: 5
-      - character: Sa Cuồng Đào
-        description: Thuộc cấp mà hắn đánh giá cao sức chiến đấu nhưng chê quá liều lĩnh
-        feelings:
-          yeu: 20
-          han: 0
-          kinh: 25
-          tin: 55
-          so: 0
-          on: 5
-      - character: Xích Giác
-        description: Tạp Huyết Long Đàn, mối đe dọa an ninh Nam Hải mà hắn phải đối phó
-        feelings:
-          yeu: 0
-          han: 40
-          kinh: 20
-          tin: -50
-          so: 0
-          on: 0
+    methods: []
+    inventory: []
+    stats: [0, 0, 0, 0, 0, 0]
+    relationships: []
 ---
 
 # HỒ SƠ NHÂN VẬT: GIẢI THIẾT GIÁP VƯƠNG (蟹鐵甲王)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Tên:** Giải Thiết Giáp Vương (蟹鐵甲王).
-- **Danh Hiệu:** Thiết Giáp Chiến Thần (鐵甲戰神), Bất Phá Thành Trì (不破城池).
-- **Tuổi/Thọ Nguyên:** 2800/5000 tuổi.
-- **Chủng Tộc:** Hải Tộc (Giải/Cua).
-- **Cảnh Giới:** Nguyên Anh Sơ Kỳ.
-- **Thân Phận:** Nam Hải Tướng Quân, một trong Tứ Hải Tướng Quân của Hải Thần Cung, trấn giữ vùng biển phía nam.
-- **Linh Căn:** Kim Thổ Linh Căn (Song hệ Kim-Thổ) — giáp cứng phi thường, phòng ngự vượt trội.
+- **Họ Tên:** Giải Thiết Giáp Vương (蟹鐵甲王).
+- **Chủng Tộc:** Hải Tộc (Giải).
+- **Tu Vi:** Nguyên Anh Sơ Kỳ.
+- **Khu Vực:** Vô Tận Hải.
+- **Thế Lực:** Hải Thần Cung.
+- **Chức Vụ:** Nam Hải Tướng Quân.
 
-## II. NGOẠI HÌNH & KHÍ CHẤT
-- **Dung Mạo:**
-    - Trong nhân hình: một đại hán vạm vỡ phi thường, cao gần ba trượng, toàn thân bọc lớp vảy giáp đen xỉn cứng như huyền thiết. Gương mặt vuông vức, hàm rộng, đôi mắt nhỏ xíu nhưng sáng quắc ẩn dưới hai chỏm lông mày rậm.
-    - Hai cánh tay khổng lồ kết thúc bằng đôi kìm Giải Tộc to như thùng rượu, có thể bẻ gãy thân cây cổ thụ. Trên lưng phủ mai giáp dày ba tấc, đen bóng như gương.
-    - Khi tức giận, bọt biển sủi quanh người, giáp phát ra âm thanh kẽo kẹt như thép nghiến thép.
-- **Trang Phục:**
-    - Không cần giáp phòng hộ vì bản thân đã là giáp. Chỉ khoác tấm chiến bào đen thêu hình cua khổng lồ — phù hiệu Nam Hải Tướng Quân.
-    - Tay trái cầm Thiết Giáp Vạn Trùng Thuẫn — tấm khiên khổng lồ rèn từ mai Giải Tộc thượng cổ.
-- **Khí Chất:**
-    - Uy nghiêm, trầm ổn, nói ít làm nhiều. Sự hiện diện của hắn như một tảng đá khổng lồ giữa biển — bất di bất dịch, đáng tin cậy tuyệt đối.
+## II. NGOẠI HÌNH & TÍNH CÁCH
+Giải Thiết Giáp Vương hiện diện như một pháo đài di động dưới đáy biển. Thân hình lão đồ sộ như một ngọn đồi nhỏ, được bao bọc bởi lớp vỏ giáp xù xì màu đỏ sẫm nhuốm màu rêu phong và dấu tích của hàng vạn trận chiến. Cặp càng khổng lồ của lão sắc bén đến mức phát ra tia lửa khi ma sát dưới nước. Tính cách lão uy nghiêm, tàn nhẫn với kẻ thù nhưng cực kỳ bao bọc binh lính dưới quyền. Thiết Giáp Hùng là biểu tượng của sức mạnh bạo liệt và sự vững chãi không thể lay chuyển của quân đội Hải Thần Cung.
 
-## III. TÍNH CÁCH & ĐẠO TÂM
-- **Tính Cách:**
-    - **Bảo Thủ Kiên Cố:** Tin vào phòng ngự hơn tấn công, tin vào truyền thống hơn cách tân. Luôn tranh luận gay gắt với Chương Hắc Triều về chiến lược.
-    - **Trung Thành, Đáng Tin:** Không bao giờ phản bội, không bao giờ rời vị trí. 2000 năm trấn giữ Nam Hải không một lần thất thủ.
-    - **Cứng Nhắc:** Điểm yếu lớn nhất — hắn không biết linh hoạt, chỉ biết cắm rễ và chống cự. Khi chiến trường thay đổi quá nhanh, hắn phản ứng chậm.
-- **Đạo Tâm:** **"Phòng Ngự Bất Phá"** — Hắn tin rằng tấn công giỏi nhất là phòng ngự hoàn hảo. Khi kẻ thù không thể xuyên thủng thành trì, chúng sẽ tự sụp đổ.
+## III. NĂNG LỰC & CHIẾN ĐẤU
+Với tu vi Nguyên Anh Sơ Kỳ, Giải Thiết Giáp Vương sở hữu sức mạnh thể chất áp đảo, có thể dễ dàng dời non lấp biển. Lão sáng tạo và tu luyện *Huyết Luyện Kim Cương Giải Công*, hấp thụ linh khí kim thuộc tính từ các mỏ quặng ngầm để cường hóa lớp vỏ vượt qua giới hạn của sinh vật. Tuyệt kỹ thành danh của lão là *Liệt Hải Đoạn Lãng Kiềm*, một cú vung kìm vận tụ sức mạnh toàn thân và linh lực, tạo ra một làn sóng xung kích hình lưỡi kéo cắt đôi cả dòng hải lưu và chia cắt đội hình địch. Ngoài ra, lão có thể gọi ra *Thiết Giải Đại Trận*, triệu tập hàng vạn cua nhỏ kết thành bức tường gai thép càn quét chiến trường.
 
-## IV. LỊCH SỬ & XUẤT THÂN
-- **Xuất Thân:**
-    - Sinh ra trong gia tộc Giải Tộc Hoàng Tộc phục vụ Hải Thần Cung từ thời thượng cổ. Gia tộc chuyên sản sinh ra các chiến binh phòng ngự hàng đầu.
-    - Từ nhỏ đã được đào tạo nghiêm khắc trong "Thiết Giáp Huấn Luyện Trường" — nơi mà đệ tử phải chịu đựng áp suất vùng biển sâu nhất để rèn luyện giáp thể.
-- **Biến Cố Đại Chiến Hải Tặc:**
-    - Năm 800 tuổi, dẫn quân chặn đứng cuộc xâm lược quy mô lớn của liên minh Hải Tặc tại eo biển Nam Hải. Một mình đứng ở tuyến đầu suốt ba ngày, chịu hàng ngàn đợt tấn công mà giáp không xước.
-    - Chiến tích này mang lại cho hắn danh hiệu "Bất Phá Thành Trì" và chức Nam Hải Tướng Quân.
-- **Chiến Tích:**
-    - Năm 1500 tuổi, thiết kế hệ thống phòng thủ "Thiết Giáp Liên Hoàn Trận" bảo vệ toàn bộ vùng biển Nam Hải, hệ thống này vẫn hoạt động đến nay.
-    - Năm 2500 tuổi, đánh bại một Ma Tu Nguyên Anh Trung Kỳ bằng cách thuần túy phòng ngự — chờ kẻ thù kiệt sức rồi mới phản công, kết thúc trận đấu bằng một kìm bẻ gãy cánh tay đối phương.
-
-## V. CÔNG PHÁP & SỞ TRƯỜNG
-- **Sở Trường:**
-    - **Phòng Ngự Tuyệt Đối:** Giáp thể kết hợp pháp bảo tạo ra hệ thống phòng ngự nhiều lớp gần như bất khả xâm phạm.
-    - **Trận Chiến Tiêu Hao:** Chuyên gia về chiến thuật chờ kẻ thù kiệt sức rồi phản công.
-- **Công Pháp:**
-    - **Thiết Giáp Vạn Trùng Quyết (Địa Cấp Hạ Phẩm - Tầng 5):** Công pháp phòng ngự tối thượng của Giải Tộc, tạo ra nhiều lớp giáp linh lực chồng chéo. Chiêu thức: "Vạn Trùng Thiết Bích" (tạo 10.000 lớp giáp khí chồng nhau), "Phản Chấn Thiết Giáp" (mọi lực tấn công đều bị phản lại kẻ tấn công).
-    - **Kim Cương Bất Hoại Thân (Huyền Cấp Thượng Phẩm - Tầng 7):** Thuật pháp cường hóa thân thể, biến giáp thể thành bất hoại trong thời gian ngắn.
-- **Pháp Bảo:**
-    - **Thiết Giáp Vạn Trùng Thuẫn (Địa Cấp Hạ Phẩm):** Tấm khiên rèn từ mai Giải Tộc thượng cổ, có khả năng hấp thụ lực tấn công và chuyển hóa thành năng lượng phòng ngự.
-    - **Cự Kìm Thiết Phủ (Huyền Cấp Thượng Phẩm):** Cặp phủ chiến đấu hình kìm cua, khi kẹp vào mục tiêu sẽ phát ra lực nén kinh hoàng.
-
-## VI. QUAN HỆ
-- **Hải Thiên Đế:** Vị quân chủ mà hắn tuyệt đối trung thành suốt gần 2000 năm phục vụ. Hắn coi việc bảo vệ Hải Thần Cung là sứ mệnh cả đời.
-- **Chương Hắc Triều (Tây Bắc Tướng Quân):** Đối thủ tranh luận chiến lược — Hắc Triều chủ trương tấn công, Thiết Giáp Vương chủ trương phòng ngự. Hai người thường xuyên cãi nhau trong triều nhưng trên chiến trường phối hợp hoàn hảo.
-- **Sa Cuồng Đào (Thuộc cấp):** Đánh giá cao sức chiến đấu nhưng luôn nhắc nhở phải biết phòng thủ trước khi tấn công.
-- **Xích Giác (Tạp Huyết Long Đàn):** Mối đe dọa an ninh vùng Nam Hải mà hắn phải thường xuyên đối phó. Hắn khinh thường tạp huyết nhưng thầm nể sức chiến đấu của Xích Giác.
-
-## VII. GIAI THOẠI
-> *"Muốn qua Nam Hải, trước hết hãy phá được giáp của Thiết Giáp Vương. Chưa ai làm được."*
-> — Câu nói truyền miệng trong giới tu sĩ biển.
-
-- **2000 Năm Bất Bại:** Trong suốt lịch sử trấn giữ Nam Hải, chưa một kẻ xâm lược nào vượt qua tuyến phòng ngự của Giải Thiết Giáp Vương. Kỷ lục này đã trở thành niềm tự hào của toàn bộ Hải Thần Cung.
+## IV. CÁC MỐI QUAN HỆ
+- **Lệ Nhược Thủy** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Lệ Nhược Thủy** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Hải Ngọc Lan** (Đồng minh): Đồng liêu cùng Hải Thần Cung
+- **Giao Bạch Ngọc** (Sư đồ): Giải Thiết Giáp Vương chỉ dẫn Giao Bạch Ngọc trong Hải Thần Cung
+- **Giải Huyền Giáp:** Thuộc hạ trung thành và đệ tử chân truyền. Lão vô cùng tự hào về sự kiên cường của Huyền Giáp và đang huấn luyện hắn trở thành người kế nhiệm.
+- **Chương Hắc Triều:** Tướng quân Tây Bắc, đồng cấp trong Bát Đại Tướng Quân Phủ. Hai người thường xuyên cạnh tranh ngầm xem ai có sức mạnh tàn phá chiến trường lớn hơn, nhưng lại cực kỳ ăn ý khi kẹp gọng kìm tiêu diệt Hắc Hải Hải Tặc.
+- **Hải Đế:** Vị quân vương mà lão thề nguyện trung thành bằng cả mạng sống, người duy nhất có thể khiến vị tướng quân hung bạo này cúi đầu quy phục hoàn toàn.
+## V. TIỂU SỬ & HÀNH TRÌNH
+Giải Thiết Giáp Vương là một trong những vị tướng kỳ cựu nhất của Hải Thần Cung, từng sát cánh cùng Hải Đế trong cuộc chiến bình định Bát Phương Hải Vực hàng trăm năm trước. Tên tuổi của lão vang dội nhất trong Trận Huyết Hải Nhai, nơi lão một mình cản bước ba vị yêu vương Nguyên Anh của phe Hải Tặc trong suốt bảy ngày bảy đêm để câu giờ cho đại quân Hải Thần Cung rút lui an toàn. Trận chiến đó khiến lão mất đi một bên mắt, nhưng đổi lại là sự kính sợ từ toàn bộ Vô Tận Hải. Hiện tại, trên cương vị Nam Hải Tướng Quân, lão chịu trách nhiệm trấn giữ tuyến phòng thủ quan trọng nhất giáp ranh với lãnh hải của Long Cung, luôn trong trạng thái cảnh giác cao độ trước bất kỳ động thái bành trướng nào từ bầy rồng kiêu ngạo.

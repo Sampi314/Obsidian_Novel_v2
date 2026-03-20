@@ -36,7 +36,7 @@ Là Tình Báo Trưởng cảnh giới Kim Đan Sơ Kỳ, Hồ Thanh Lăng tu lu
 ## IV. CÁC MỐI QUAN HỆ
 - **Viên Thiên Thọ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Thiên Yêu Đình
 - **Viên Thiên Thọ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Viên Thiên Thọ
-- **Trư Thiết Nha Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
+- **Trư Thiết Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Xà Lục Lân** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hùng Thiết Chưởng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Lang Bạch Nha** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình

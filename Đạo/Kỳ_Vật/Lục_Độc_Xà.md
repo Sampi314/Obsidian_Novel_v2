@@ -11,7 +11,7 @@
 - **Hệ/Thuộc tính:** Mộc / Độc
 - **Cấp Độ:**
   - *Lục Độc Xà Thường:* Tương đương Luyện Khí Sơ - Trung Kỳ.
-  - *Lục Độc Xà Vương (trên 50 năm tuổi):* Tương đương Luyện Khí Hậu Kỳ - Trúc Cơ Sơ Kỳ, sở hữu nọc độc mạnh hơn gấp bội và vảy cứng gần như bất khả xuyên phá.
+  - *Lục Độc Xà Nha (trên 50 năm tuổi):* Tương đương Luyện Khí Hậu Kỳ - Trúc Cơ Sơ Kỳ, sở hữu nọc độc mạnh hơn gấp bội và vảy cứng gần như bất khả xuyên phá.
 - **Nơi phân bố:** Vùng biên giới Nam Cương, những khu rừng ẩm thấp, có nhiều chướng khí. Đặc biệt tập trung ở vùng rìa Huyết Vụ Lâm và các cánh rừng rậm gần Trạm Biên, nơi chướng khí và hơi ẩm tạo thành môi trường lý tưởng cho chúng sinh sôi. Vào mùa mưa, số lượng Lục Độc Xà tăng vọt khiến ngay cả những thợ săn dày dạn kinh nghiệm cũng không dám liều mạng vào rừng sâu.
 
 ## II. ĐẶC ĐIỂM NHẬN DẠNG
@@ -37,7 +37,7 @@
 - Cứng như đá mài, có thể chống đỡ một phần sát thương vật lý từ đao kiếm thông thường. Điểm yếu duy nhất nằm ở phần da mềm dưới yết hầu. Lớp vảy dày nhất ở phần đầu và lưng, nơi mà đao kiếm thường chỉ để lại vết xước trắng mà không thể xuyên thủng. Tuy nhiên, phần bụng và yết hầu chỉ có lớp da mỏng màu trắng ngà, dễ bị đâm xuyên — đây chính là mục tiêu mà thợ săn nhắm vào khi chiến đấu.
 
 ### 4. Đuôi Quất (Xà Vương)
-- Những con Lục Độc Xà Vương lâu năm phát triển thêm khả năng dùng đuôi như roi sắt, quất một phát có thể bẻ gãy cây cổ thụ và nghiền nát xương sống con mồi. Tiếng quất đuôi vang rền như sấm, đủ để gây kinh hãi cho toàn bộ sinh vật trong phạm vi vài trượng.
+- Những con Lục Độc Xà Nha lâu năm phát triển thêm khả năng dùng đuôi như roi sắt, quất một phát có thể bẻ gãy cây cổ thụ và nghiền nát xương sống con mồi. Tiếng quất đuôi vang rền như sấm, đủ để gây kinh hãi cho toàn bộ sinh vật trong phạm vi vài trượng.
 
 ## IV. ĐIỂM YẾU & CÁCH KHẮC CHẾ
 - **Hỏa Công:** Lục Độc Xà rất sợ lửa. Da vảy của chúng tuy cứng nhưng lại dễ bắt cháy khi tiếp xúc với hỏa diễm tu sĩ. Thợ săn kinh nghiệm thường mang theo đuốc tẩm dầu Long Não hoặc bùa lửa để xua đuổi chúng.
@@ -48,7 +48,7 @@
 - **Túi Nọc Độc:** Là bộ phận có giá trị nhất, có thể dùng để chế tạo độc dược hoặc các loại đan dược giải độc bậc thấp. Các tán tu hoặc thợ săn thường thu thập để trao đổi lấy linh thạch hoặc vật tư. Mỗi con Lục Độc Xà trưởng thành có hai túi nọc nằm ở hai bên hàm, mỗi túi chứa đủ nọc để hạ gục năm người trưởng thành. Nọc tươi bán tại Trạm Biên được giá mười linh thạch hạ phẩm một lọ.
 - **Da/Vảy:** Dù cứng nhưng khó chế tác, ít được sử dụng để làm khải giáp cao cấp. Tuy nhiên, da Lục Độc Xà rất thích hợp để làm bao kiếm, túi đựng hoặc bọc tay nắm vũ khí — lớp vảy tạo ma sát tốt và có độ bền đáng kể. Thợ thuộc da tại Trạm Biên có thể xử lý một tấm da Lục Độc Xà trong vòng ba ngày, tạo ra loại da thuộc màu xanh thẫm bóng bẩy được giới tán tu ưa chuộng.
 - **Thịt:** Cực kỳ độc, không thể ăn. Ngay cả Yêu thú khác cũng tránh xa xác Lục Độc Xà vì mùi tanh nồng và độc tố ngấm vào từng thớ thịt.
-- **Mắt Rắn (Xà Vương):** Mắt của Lục Độc Xà Vương sau khi được xử lý bằng dược liệu đặc biệt có thể biến thành "Xà Mục Châu" — một loại bảo thạch phát sáng xanh vàng trong bóng tối, được giới tu sĩ dùng để luyện pháp bảo thăm dò.
+- **Mắt Rắn (Xà Vương):** Mắt của Lục Độc Xà Nha sau khi được xử lý bằng dược liệu đặc biệt có thể biến thành "Xà Mục Châu" — một loại bảo thạch phát sáng xanh vàng trong bóng tối, được giới tu sĩ dùng để luyện pháp bảo thăm dò.
 
 ## VI. LỊCH SỬ / GIAI THOẠI
 - Ở Trạm Biên và các khu rừng tiếp giáp Nam Cương, Lục Độc Xà được xem là bài kiểm tra sinh tồn đầu tiên cho những kẻ mới chập chững bước vào vùng đất tử thần. Rất nhiều tán tu non tay đã bỏ mạng vì đánh giá thấp lớp vảy và nọc độc của chúng. Thợ săn lão luyện thường nói: "Nếu ngươi không giết được một con Lục Độc Xà, thì đừng mơ mộng bước thêm một bước vào Nam Cương — vì sâu trong đó, thứ yếu nhất cũng đáng sợ hơn Xà Vương gấp trăm lần."

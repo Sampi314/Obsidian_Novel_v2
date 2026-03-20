@@ -54,7 +54,7 @@ arcs:
           tin: 60
           so: 0
           on: 0
-      - character: Lang Tuyết Vương
+      - character: Lang Tuyết Nha
         description: Đại Tù Trưởng, lãnh tụ tối cao mà hắn phục vụ trung thành
         feelings:
           yeu: 0
@@ -135,7 +135,7 @@ arcs:
 - **Rừng Tuyết — "Con Mồi Lớn Nhất":**
     - Huyết Trảo coi Rừng Tuyết như một sinh vật sống — hắn hiểu rừng, tôn trọng rừng, sợ rừng. Hắn nói: *"Rừng Tuyết cho ta thức ăn mỗi ngày. Nhưng rừng cũng có thể nuốt chửng cả bộ lạc trong một đêm bão. Đừng bao giờ nghĩ ngươi đang kiểm soát rừng — ngươi chỉ đang được rừng cho phép sống."*
 - **Lang Bạo Phong** (Gia tộc): Tiền Phong Tướng, đồng đội xông pha, cả hai cùng thích giải quyết bằng nanh vuốt
-- **Lang Tuyết Vương** (Thuộc hạ): Đại Tù Trưởng, lãnh tụ tối cao mà hắn phục vụ trung thành
+- **Lang Tuyết Nha** (Thuộc hạ): Đại Tù Trưởng, lãnh tụ tối cao mà hắn phục vụ trung thành
 - **Lang Phong Tuyết Hào** (Đồng minh): Thợ Săn Trưởng, đồng nghiệp phối hợp trinh sát thường xuyên
 
 ## VII. GIAI THOẠI

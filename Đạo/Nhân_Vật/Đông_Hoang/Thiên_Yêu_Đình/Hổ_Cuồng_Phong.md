@@ -43,6 +43,6 @@ Là Thánh Tướng Thứ Nhất với tu vi Nguyên Anh Hậu Kỳ, Hổ Cuồn
 - **Báo Lôi Ảnh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hùng Cổ Mộc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
 - **Hùng Thiết Sơn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Thiên Yêu Đình
-- **Hổ Huyết Vương** (Đối thủ): Thánh Tướng Thứ Nhất và Đấu Trường Chủ, cùng Hổ Tộc nhưng khác phe
+- **Hổ Huyết Nha** (Đối thủ): Thánh Tướng Thứ Nhất và Đấu Trường Chủ, cùng Hổ Tộc nhưng khác phe
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hổ Cuồng Phong sinh ra trong bão lốc giữa thảo nguyên Đông Hoang, ngay khi chào đời đã gầm một tiếng làm tán cây gãy đổ. Hắn lớn lên bằng cách thách đấu mọi kẻ mạnh gặp trên đường, từ yêu thú đến tu sĩ nhân tộc, không phân biệt chính tà. Sự kiện định mệnh nhất là khi hắn thách thức Yêu Đế và bị đánh bại chỉ trong ba chiêu, từ đó quy phục và trở thành Thánh Tướng Thứ Nhất. Mục tiêu hiện tại là đột phá Hóa Thần, nhưng tính cách nóng nảy khiến hắn mãi không thể tĩnh tâm tu luyện.

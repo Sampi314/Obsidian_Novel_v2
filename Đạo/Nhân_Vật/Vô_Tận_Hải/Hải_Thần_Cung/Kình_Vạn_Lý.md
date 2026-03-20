@@ -113,7 +113,7 @@ arcs:
 - **Kình Lôi Thanh (Cháu Họ — Niềm Tự Hào):**
     - Lôi Thanh giống lão thuở trẻ — mạnh mẽ, hào sảng, và yêu quý đồng loại. Lão tự hào nhưng không bao giờ nói ra, chỉ âm thầm gửi lời khuyên qua Kình Thiên Lôi Âm.
 - **Giải Thiết Giáp Vương (Đồng Liêu — Kẻ Chịu Được Đấm):**
-    - Hai vị tướng quân lão thành thỉnh thoảng "giao lưu" bằng cách đấm nhau — Vạn Lý đấm, Thiết Giáp Vương đỡ. Đây là cách hai lão giao tiếp — không cần lời nói, chỉ cần sức mạnh.
+    - Hai vị tướng quân lão thành thỉnh thoảng "giao lưu" bằng cách đấm nhau — Vạn Lý đấm, Thiết Giáp Hùng đỡ. Đây là cách hai lão giao tiếp — không cần lời nói, chỉ cần sức mạnh.
 
 ## VII. GIAI THOẠI
 > *"Đại dương kiên nhẫn — ta cũng kiên nhẫn. Nhưng khi ta hết kiên nhẫn, đại dương cũng phải nhường đường."*

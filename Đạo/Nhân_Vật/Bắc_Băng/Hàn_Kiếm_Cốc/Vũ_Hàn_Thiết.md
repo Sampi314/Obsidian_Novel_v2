@@ -133,7 +133,7 @@ arcs:
     - Khi nhận danh hiệu chân truyền, Hàn Thiết không ăn mừng — hắn đi thẳng đến lò rèn, ngồi bên cha, đặt thanh kiếm phôi cũ lên bàn, nói: *"Con đã thành kiếm rồi, cha."* Vũ Thiết Sơn nhìn con bằng đôi mắt già nua, tay run rẩy sờ lên mặt kiếm phôi, gật đầu, không nói gì — nhưng nước mắt rơi xuống mặt sắt lạnh.
 - **Chiến Tích:**
     - **Tỉ Thí Bất Bại Trong Ngoại Môn:** Suốt thời gian ở ngoại môn, Hàn Thiết thách tỉ thí với mọi đệ tử cùng cảnh giới và không thua một trận — không phải vì hắn giỏi nhất, mà vì hắn không bao giờ bỏ cuộc, chiến đấu đến khi đối thủ mệt trước.
-    - **Chém Băng Tuyết Lang Vương:** Trong một trận tập kích, hắn đối đầu với Băng Tuyết Lang Vương — con sói tuyết đột biến cấp Kết Đan — và dùng Song Kiếm Hàn Thiết chém đứt chân trước của nó, tạo cơ hội cho đội tuần tra tiêu diệt. Hắn bị sói cào rách lưng, để lại ba vết sẹo dài — nhưng hắn coi đó là huân chương.
+    - **Chém Băng Tuyết Lang Nha:** Trong một trận tập kích, hắn đối đầu với Băng Tuyết Lang Nha — con sói tuyết đột biến cấp Kết Đan — và dùng Song Kiếm Hàn Thiết chém đứt chân trước của nó, tạo cơ hội cho đội tuần tra tiêu diệt. Hắn bị sói cào rách lưng, để lại ba vết sẹo dài — nhưng hắn coi đó là huân chương.
     - **Rèn Lại Kiếm Phôi Cho Tông Môn:** Sau khi cha không còn khả năng rèn kiếm, hắn dùng thời gian rảnh tự rèn kiếm phôi, tiếp nối nghề cha. Dù tay nghề không bằng Vũ Thiết Sơn, nhưng hắn đã cung cấp hàng chục thanh kiếm phôi chất lượng tốt cho đệ tử đồng môn — hành động này khiến hắn được đồng môn tôn trọng theo cách khác, không chỉ vì kiếm thuật mà còn vì sự cống hiến.
 
 ## V. KỸ NĂNG & TRANG BỊ

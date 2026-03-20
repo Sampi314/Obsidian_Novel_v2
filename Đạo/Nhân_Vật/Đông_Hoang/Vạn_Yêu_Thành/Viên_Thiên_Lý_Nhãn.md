@@ -34,8 +34,8 @@ Viên Thiên Lý Nhãn mang nhân hình một thanh niên thon gọn nhanh nhẹ
 Đạt cảnh giới Trúc Cơ Viên Mãn, Viên Thiên Lý Nhãn tu luyện "Thiên Lý Nhãn Minh Thuật" (千里眼明术) — khai mở tiềm năng thị giác đến cực hạn, nhìn xuyên sương mù, bóng tối và ngụy trang trong phạm vi ngàn dặm. Tuyệt kỹ "Viễn Kiến Bách Lý" (遠見百里) tập trung toàn bộ yêu lực vào đôi mắt, trong khoảnh khắc có thể nhìn thấy chi tiết mặt người ở khoảng cách trăm dặm. Điểm mạnh là trinh sát và cảnh báo sớm, nhược điểm là hoàn toàn không có khả năng chiến đấu và mắt dễ bị tổn thương bởi quang thuật.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hổ Huyết Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
-- **Hổ Huyết Vương** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Vương
+- **Hổ Huyết Nha** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Vạn Yêu Thành
+- **Hổ Huyết Nha** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Hổ Huyết Nha
 - **Hồ Thất Cửu** (Thuộc hạ): Thành Chủ chỉ huy Canh Gác Trưởng
 - **Nha Thiên Mục** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành
 - **Thử Thiên Đạo** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Vạn Yêu Thành

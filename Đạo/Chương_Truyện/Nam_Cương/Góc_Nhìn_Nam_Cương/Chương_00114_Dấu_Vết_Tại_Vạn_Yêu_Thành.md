@@ -32,7 +32,7 @@ Tĩnh Sương hít một hơi thật sâu, áp chế sự phẫn nộ trong lòn
 
 Tĩnh Sương lật tay, lấy ra ba tấm áo choàng màu đen che khuất linh khí và khuôn mặt. Đây là vật phẩm nàng đã chuẩn bị sẵn cho những tình huống cần ẩn nấp.
 
-“Ngụy trang thành tán tu hoặc ma tu tiến vào thành,” Nàng khoác áo choàng lên người, thanh Hàn Mai Kiếm cũng được bọc lại kỹ càng. “Lệ Vô Tâm muốn gieo rắc Huyết Thần Độc trên diện rộng, hắn cần một mạng lưới hoặc một khu vực tập trung đông đúc để phát tán. Chúng ta sẽ bắt đầu điều tra từ Khu Chợ Đen của Lục Mãng Vương – nơi mọi giao dịch ngầm diễn ra.”
+“Ngụy trang thành tán tu hoặc ma tu tiến vào thành,” Nàng khoác áo choàng lên người, thanh Hàn Mai Kiếm cũng được bọc lại kỹ càng. “Lệ Vô Tâm muốn gieo rắc Huyết Thần Độc trên diện rộng, hắn cần một mạng lưới hoặc một khu vực tập trung đông đúc để phát tán. Chúng ta sẽ bắt đầu điều tra từ Khu Chợ Đen của Lục Mãng Trường – nơi mọi giao dịch ngầm diễn ra.”
 
 Lâm Phong và Lục Tiêu gật đầu đồng tình, nhanh chóng mặc áo choàng vào.
 
