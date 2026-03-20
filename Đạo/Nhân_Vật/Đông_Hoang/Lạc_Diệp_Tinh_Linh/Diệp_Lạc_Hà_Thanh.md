@@ -32,9 +32,13 @@ Nhảy múa khiến lá vàng bay thành trận pháp
 Thành viên của Lạc Diệp Tinh Linh, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 叶落霞晴·Bản Mệnh (叶落霞晴·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Diệp Hồng Vũ:** Cung Thủ, đồng liêu quan trọng nhất trong Lạc Diệp Tinh Linh.
-- **Diệp Kim Phong:** Vệ Sĩ Trưởng, đối tác thường xuyên phối hợp.
-- **Diệp Linh Ngọc:** Đệ Tử, mối quan hệ tin cậy lẫn nhau.
-
+- **Diệp Thiên Thu Hàn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Lạc Diệp Tinh Linh
+- **Diệp Thiên Thu Hàn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Diệp Thiên Thu Hàn
+- **Diệp Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lạc Diệp Tinh Linh
+- **Diệp Thanh Sương Nguyệt** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lạc Diệp Tinh Linh
+- **Diệp Kim Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lạc Diệp Tinh Linh
+- **Diệp Mộng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lạc Diệp Tinh Linh
+- **Diệp Vân Hà** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lạc Diệp Tinh Linh
+- **Diệp Linh Ngọc** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lạc Diệp Tinh Linh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Diệp Lạc Hà Thanh sinh ra trong một gia đình Tinh Linh Tộc bình thường, sớm thể hiện tư chất phù hợp với Lạc Diệp Tinh Linh. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Lạc Diệp Tinh Linh và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Vũ Giả.
