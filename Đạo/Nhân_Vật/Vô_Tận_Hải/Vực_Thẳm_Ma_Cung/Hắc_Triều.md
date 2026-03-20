@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Ngao Đình
+        description: Long Tộc Thái Tử, kẻ thù không đội trời chung
+        feelings:
+          yeu: -50
+          han: 70
+          kinh: -20
+          tin: -60
+          so: 10
+          on: -70
 ---
 
 # HỒ SƠ NHÂN VẬT: HẮC TRIỀU (黑潮)

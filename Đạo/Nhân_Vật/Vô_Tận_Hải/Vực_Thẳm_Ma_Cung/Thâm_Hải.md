@@ -15,7 +15,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Ngao Đình
+        description: Long Tộc Thái Tử, tử địch của Vực Thẳm Ma Cung
+        feelings:
+          yeu: -40
+          han: 60
+          kinh: -10
+          tin: -70
+          so: 5
+          on: -60
 ---
 
 # HỒ SƠ NHÂN VẬT: THÂM HẢI (深海)

@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Ngao Đình
+        description: Đồng liêu Long Cung, Thái Tử Lôi Minh
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 40
+          tin: 50
+          so: 5
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: BĂNG NHA (冰牙)
