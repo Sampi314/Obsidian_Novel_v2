@@ -33,9 +33,8 @@ Hỏa Thiết Tâm là người thẳng thắn, trọng tình trọng nghĩa, lu
 Ông nắm giữ Hỏa Diễm Chú Linh Thuật ở mức độ thuần thục, có thể dùng búa rèn linh lực kết hợp với ngọn lửa địa nhiệt để tấn công kẻ thù với sức nặng ngàn cân. Kỹ thuật "Thiên Vẫn Viêm Phách Cương" cho phép ông khắc phù văn phòng ngự hoặc cường hóa trực tiếp lên vũ khí trong chớp mắt. Trong những tình huống sinh tử, ông sử dụng một thanh kiếm đỏ rực kỳ bí, mang theo sức mạnh hỏa hệ hủy diệt.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hỏa Giáp Trụ:** Đại đệ tử, người được ông tin tưởng giao phó những công đoạn nạm phù văn phức tạp nhất.
-- **Hỏa Tiểu Viêm:** Tiểu đệ tử, ông thường nghiêm khắc nhưng luôn dung túng cho những thử nghiệm điên rồ của y vì thấy được sự sáng tạo tiềm ẩn.
-- **Cổ Thiên Lý (Thiên Sa Thương Hội):** Đối tác kinh doanh nhưng cũng là đối thủ luôn tìm cách thâu tóm Hỏa Diễm Công Phường.
-
+- **Hỏa Giáp Trụ** (Chủ tớ): Đại đệ tử, người được ông tin tưởng giao phó những công đoạn nạm phù văn phức tạp nhất.
+- **Hỏa Tiểu Viêm** (Sư phụ): Tiểu đệ tử, ông thường nghiêm khắc nhưng luôn dung túng cho những thử nghiệm điên rồ của y vì thấy được sự sáng tạo tiềm ẩn.
+- **Cổ Thiên Lý:** Đối tác kinh doanh nhưng cũng là đối thủ luôn tìm cách thâu tóm Hỏa Diễm Công Phường.
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hỏa Thiết Tâm từng là một thợ rèn danh tiếng trong một bảo phái lớn nhưng bị khai trừ vì linh căn không đủ tiêu chuẩn để lĩnh ngộ công pháp thượng thặng. Quyết không chịu khuất phục, ông đã mang theo búa rèn đi vào Tây Mạc, thành lập Hỏa Diễm Công Phường. Qua nhiều thập kỷ, ông đã chứng minh rằng tài năng và sự kiên trì có thể rèn ra những pháp khí bền bỉ nhất, không phụ thuộc vào xuất thân hay linh căn bẩm sinh.
