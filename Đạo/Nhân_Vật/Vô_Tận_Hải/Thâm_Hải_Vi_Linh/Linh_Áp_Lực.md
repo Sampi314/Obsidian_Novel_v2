@@ -35,9 +35,12 @@ Phong cách chiến đấu của Linh Áp Lực dựa trên việc kiểm soát 
 - **Điểm Yếu:** Năng lực bị suy giảm đáng kể nếu bị đưa lên những vùng nước nông có áp suất thấp, và rất nhạy cảm với những đòn tấn công có tính chất phân tán diện rộng.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Linh Huyền Minh** (Chủ tớ): Thủ hạ trung thành trong Thâm Hải Vi Linh
+- **Linh Huyền Minh** (Cấp dưới): Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh
+- **Linh Hắc Trào** (Sư đồ): Linh Hắc Trào dẫn dắt Linh Áp Lực trong Thâm Hải Vi Linh
+- **Linh Thâm Nguyệt** (Đồng minh): Đồng liêu cùng Thâm Hải Vi Linh, hỗ trợ lẫn nhau
 - **Thâm Uyên Mẫu Linh (深淵母靈):** Là trung tâm ý thức mà Linh Áp Lực bảo vệ, mệnh lệnh của Mẫu Linh là mục tiêu sống còn duy nhất của nó.
 - **Thủy Cổ Ký Ức (水古記憶):** Thường xuyên nhận tín hiệu quang học từ Thủy Cổ Ký Ức để phân biệt kẻ thù và những sinh vật vô hại vô tình lọt xuống vực thẳm.
 - **Thủy Nhiệt Tuyền (水熱泉):** Đối tác cộng sinh, lấy năng lượng nhiệt từ Thủy Nhiệt Tuyền để duy trì sức mạnh và gia tăng tính sát thương của những đòn ép áp suất.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Linh Áp Lực vốn chỉ là một cụm Vi Linh bình thường sống dưới đáy vực sâu thẳm, nhưng do liên tục hấp thu linh khí nguyên sinh và chịu tác động từ những chấn động tàn bạo của thứ bị phong ấn, chúng đã tiến hóa thành một thực thể chiến đấu. Trải qua hàng triệu năm, cụm Vi Linh này học được cách thao túng chính áp suất khủng khiếp của Vực Thẳm Vạn Trượng để trở thành một thứ vũ khí hoàn hảo. Sứ mệnh duy nhất của Linh Áp Lực là tiêu diệt mọi kẻ xâm nhập và bảo vệ Thâm Uyên Mẫu Linh. Mỗi khi có những sinh vật to lớn từ tầng biển trên tò mò lặn xuống quá sâu, Linh Áp Lực đều là kẻ kết thúc hành trình của chúng trong sự im lặng của cái chết.

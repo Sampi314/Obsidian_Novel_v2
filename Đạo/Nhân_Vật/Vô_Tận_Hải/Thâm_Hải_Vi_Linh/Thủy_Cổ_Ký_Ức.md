@@ -35,9 +35,13 @@ Không mạnh về mặt thể chất, sức mạnh của Thủy Cổ Ký Ức n
 - **Điểm Yếu:** Rất dễ bị phân tâm nếu tiếp xúc với một luồng thần thức mạnh mẽ và lạ lùng khác thường, hoặc khi ánh sáng bị chặn đứng hoàn toàn bởi vật liệu chặn quang phổ.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Linh Vực Uyên** (Sư đồ): Linh Vực Uyên chỉ dẫn Thủy Cổ Ký Ức trong Thâm Hải Vi Linh
+- **Linh Huyền Minh** (Chủ tớ): Thủ hạ trung thành trong Thâm Hải Vi Linh
+- **Linh Huyền Minh** (Cấp dưới): Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh
+- **Linh Hắc Trào** (Sư đồ): Linh Hắc Trào dẫn dắt Thủy Cổ Ký Ức trong Thâm Hải Vi Linh
+- **Thủy Nhiệt Tuyền** (Đồng minh): Đồng liêu cùng Thâm Hải Vi Linh, hỗ trợ lẫn nhau
 - **Thâm Uyên Mẫu Linh (深淵母靈):** Là kho lưu trữ trung thành của Mẫu Linh, truyền tải thông tin không ngừng nghỉ để giúp Mẫu Linh đưa ra quyết định hoặc phản ứng lại sự thay đổi ở phong ấn.
 - **Linh Áp Lực (靈壓力):** Đóng vai trò con mắt của Linh Áp Lực, chỉ định kẻ xâm nhập từ hình ảnh quá khứ.
 - **Thủy Nhiệt Tuyền (水熱泉):** Thường xuyên chia sẻ lượng thông tin khổng lồ và nhận lấy nhiệt lượng ấm áp từ Thủy Nhiệt Tuyền để giữ ổn định tốc độ truyền dẫn.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thủy Cổ Ký Ức được sinh ra vào khoảnh khắc vực thẳm hình thành sau khi một trận đại kiếp thay đổi kiến trúc Vô Tận Hải hàng triệu năm trước. Nó từng chứng kiến sự trỗi dậy của Hải Thần Cung, những thế hệ Hải Quy bơi qua mặt biển xa xôi, và những lần rung động khủng khiếp của thứ phong ấn dưới đáy vực sâu thẳm. Mỗi một mảnh ánh sáng của nó đều là một mảnh vụn của lịch sử bị dòng chảy đại dương nhấn chìm. Cho đến nay, sự lưu giữ không ngừng của cụm Vi Linh này vẫn tiếp tục, không suy giảm, không mai một, một ghi chép vĩnh viễn và khách quan nhất.

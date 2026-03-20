@@ -34,8 +34,12 @@ Hoạt động như con mắt của toàn bộ Vực Thẳm Vạn Trượng.
 - **Huyễn Quang Mê Tung (幻光迷踪):** Khi gặp nguy hiểm, luồng sáng sẽ phân tán nhanh chóng, làm nhiễu loạn thần thức kẻ thù bằng ảo giác thị giác và áp suất.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Linh Trầm Uyên** (Sư đồ): Linh U Quang chỉ dẫn Linh Trầm Uyên trong Thâm Hải Vi Linh
+- **Linh Huyền Minh** (Chủ tớ): Thủ hạ trung thành trong Thâm Hải Vi Linh
+- **Linh Huyền Minh** (Cấp dưới): Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh
+- **Linh Hắc Trào** (Sư đồ): Linh Hắc Trào dẫn dắt Linh U Quang trong Thâm Hải Vi Linh
+- **Linh Vạn Trượng** (Sư đồ): Linh Vạn Trượng chỉ dẫn Linh U Quang trong Thâm Hải Vi Linh
 - **Linh Vực Uyên (深海主):** Tuyệt đối trung thành và là "đôi mắt" của Thâm Hải Chủ, truyền tải mọi hình ảnh thu thập được về cho ý thức khổng lồ.
 - **Linh Vạn Trượng (守卫海沟):** Thường xuyên lượn lờ xung quanh và phối hợp nhịp nhàng, cung cấp tầm nhìn để bức tường vi sinh vật này ngăn chặn các tà vật có ý đồ đào tẩu.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Linh U Quang là một trong những nhóm Vi Tộc tiến hóa khả năng phát sáng sớm nhất trong bóng tối vĩnh cửu của Vô Tận Hải. Trải qua hàng vạn năm trôi dạt vô định, quần thể này dần dần phát triển một ý thức tập thể mang tên "Sự tò mò của ánh sáng". Chúng lang thang khắp các hải cấu tối tăm, vô tình trở thành những hoa tiêu dẫn đường cho sinh vật thâm hải và cũng là người báo tin nhạy bén nhất cho Linh Vực Uyên. Gần đây, những dải sáng của chúng bắt đầu phát hiện những rung động bất thường từ trận pháp phong ấn Thượng Cổ đang có dấu hiệu rạn nứt.
