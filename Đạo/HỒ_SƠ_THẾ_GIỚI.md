@@ -809,6 +809,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hồ Diệu Ngôn (Ngoại Giao - Trúc Cơ Hậu Kỳ):** Yêu Hồ ngoại giao xảo quyệt ngụy trang thành nữ quản sự duyên dáng, thao túng tâm lý và đọc "Khuy Tâm Thuật".
   - **Hồ Huyễn Dạ Thiên (Ảo Thuật Sư - Trúc Cơ Viên Mãn):** Ảo thuật sư trầm tĩnh trong lốt lão già mù, tinh thông "Sa Ảo Mê Cung" dụ lữ khách bỏ mạng.
   - **Hồ Hỏa Vĩ (Chiến Sĩ - Trúc Cơ Trung Kỳ):** Chiến binh tiên phong hình xăm ngọn lửa, bốc đồng dũng mãnh bảo vệ bằng đuôi lửa.
+  - **Hồ Kim Sa (Thương Nhân Giả - Trúc Cơ Hậu Kỳ):** Gián điệp khôn khéo trong vỏ bọc lão bản thương điếm, chuyên thu thập tình báo và sinh tồn.
+  - **Hồ Minh Nguyệt (Dược Sư - Trúc Cơ Hậu Kỳ):** Dược sư lạnh lùng và tài năng, chuyên điều chế Mê Hồn Hương và độc dược dưới vỏ bọc yểu điệu.
+  - **Hồ Phong Vân (Đệ Tử - Luyện Khí Viên Mãn):** Thiếu niên hồ ly ngây thơ, bốc đồng, luôn gặp rắc rối nhưng có khát khao mãnh liệt trở thành gián điệp giỏi.
 
 ### Sa Mãng Tộc (Tây Mạc)
 - **Huyền Sa:** Tộc Trưởng Sa Mãng Tộc (Trúc Cơ Hậu Kỳ). Xà yêu khổng lồ, điềm tĩnh và cẩn trọng, sở hữu Hắc Sa Kịch Độc. Đang tìm hiểu bí mật bộ xương Mãng cổ đại để tìm công pháp cho xà tộc.
