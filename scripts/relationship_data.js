@@ -25308,6 +25308,34 @@ var relationshipData = {
       "cultivation_technique": "Khoáng Mạch Cảm Ứng Thuật",
       "personality": "Điềm đạm, Ít nói, Điềm tĩnh",
       "description": "Mạch Phiêu Bạc cao bằng ngón tay út, thuộc hàng \"cao to\" trong Vi Tộc, thân hình gầy gò nhưng gân guốc, da màu nâu đồng như khoáng thạch phong hóa. Đôi cánh mỏng trên lưng có gân cánh ánh kim loại — hệ quả của việc sống trong mỏ khoáng quá lâu khiến linh khoáng thấm vào cơ thể."
+    },
+    {
+      "id": "vu_thuong_van",
+      "name": "Vũ Thương Vân",
+      "title": "Thương Nhân",
+      "realm": "Trúc Cơ",
+      "faction": "Thiên Sa Thương Hội",
+      "region": "Tây Mạc",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ffc107",
+      "race": "Nhân Tộc",
+      "personality": "Hòa ái, Toan tính",
+      "description": "Vóc dáng cao gầy, khoác trường bào lụa vàng cát (sa kim) thêu chìm họa tiết đồng tiền."
+    },
+    {
+      "id": "dang_thien_ha",
+      "name": "Đặng Thiên Hà",
+      "title": "Đội Trưởng",
+      "realm": "Kim Đan",
+      "faction": "Thiên Sa Thương Hội",
+      "region": "Tây Mạc",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Trầm ổn, Trọng tình",
+      "description": "Thân hình vạm vỡ như thiết tháp, mang một thanh trọng đao khổng lồ sau lưng."
     }
   ],
   "relationships": [
