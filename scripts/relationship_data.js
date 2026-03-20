@@ -1,4 +1,4 @@
-const relationshipData = {
+var relationshipData = {
   "characters": [
     {
       "id": "huyen_sa",
