@@ -36842,6 +36842,1686 @@ const relationshipData = {
       "target": "ly_tieu_ba",
       "type": "ally",
       "description": "Ngư Dân tán tu và Ngư Đội Trưởng, đôi khi hợp tác đánh cá"
+    },
+    {
+      "source": "ly_luc_tran",
+      "target": "hoang_thien_phong",
+      "type": "master",
+      "description": "Tông Chủ tin tưởng Hộ Pháp, giao phó trọng trách bảo vệ tông môn"
+    },
+    {
+      "source": "ly_luc_tran",
+      "target": "pham_kiem_tam",
+      "type": "master",
+      "description": "Hộ Pháp trung thành, sát cánh bảo vệ tông môn"
+    },
+    {
+      "source": "ly_luc_tran",
+      "target": "dang_minh_nguyet",
+      "type": "mentor",
+      "description": "Tông Chủ chỉ dạy Chân Truyền Đệ Tử, kỳ vọng kế thừa"
+    },
+    {
+      "source": "hoang_thien_phong",
+      "target": "pham_kiem_tam",
+      "type": "rival",
+      "description": "Hai Hộ Pháp cạnh tranh danh hiệu đệ nhất kiếm thủ"
+    },
+    {
+      "source": "nguyen_tinh_kiem",
+      "target": "dang_minh_nguyet",
+      "type": "mentor",
+      "description": "Trưởng Lão chỉ điểm kiếm pháp cho Chân Truyền Đệ Tử"
+    },
+    {
+      "source": "vu_phi_kiem",
+      "target": "ly_thanh_phong",
+      "type": "mentor",
+      "description": "Trưởng Lão dẫn dắt Ngoại Môn Đệ Tử trên kiếm đạo"
+    },
+    {
+      "source": "ly_thanh_phong",
+      "target": "dang_minh_nguyet",
+      "type": "rival",
+      "description": "Ngoại môn và Chân Truyền cạnh tranh, thúc đẩy lẫn nhau"
+    },
+    {
+      "source": "tran_cuu_hoa",
+      "target": "ly_thanh_phong",
+      "type": "mentor",
+      "description": "Thái Thượng Trưởng Lão thỉnh thoảng chỉ điểm ngoại môn"
+    },
+    {
+      "source": "tran_van_thu",
+      "target": "hoang_manh_ho",
+      "type": "master",
+      "description": "Trang Chủ giao Hộ Pháp nhiệm vụ bảo vệ sơn trang"
+    },
+    {
+      "source": "tran_van_thu",
+      "target": "pham_linh_ung",
+      "type": "master",
+      "description": "Hộ Pháp chỉ huy phi cầm trinh sát cho Trang Chủ"
+    },
+    {
+      "source": "hoang_manh_ho",
+      "target": "pham_linh_ung",
+      "type": "rival",
+      "description": "Hai Hộ Pháp tranh luận chiến thuật: mãnh hổ vs phi ưng"
+    },
+    {
+      "source": "nguyen_ky_lan",
+      "target": "vu_tieu_long",
+      "type": "mentor",
+      "description": "Trưởng Lão dạy kỹ năng ngự thú cho đệ tử trẻ"
+    },
+    {
+      "source": "dang_xa_vuong",
+      "target": "le_phuong_nhi",
+      "type": "mentor",
+      "description": "Trưởng Lão hướng dẫn Ngoại Môn Đệ Tử"
+    },
+    {
+      "source": "ly_hoa_nguyet",
+      "target": "le_thanh_mai",
+      "type": "mentor",
+      "description": "Cốc Chủ đích thân truyền dạy Chưởng Quản Đệ Tử"
+    },
+    {
+      "source": "nguyen_vu_cuc",
+      "target": "le_thanh_mai",
+      "type": "mentor",
+      "description": "Trưởng Lão chỉ dạy kinh nghiệm tu luyện"
+    },
+    {
+      "source": "pham_tu_lan",
+      "target": "hoang_tieu_dao",
+      "type": "mentor",
+      "description": "Trưởng Lão hướng dẫn đệ tử về hoa linh"
+    },
+    {
+      "source": "ly_moc_thanh",
+      "target": "tinh_van_diep",
+      "type": "master",
+      "description": "Cung Chủ điều phối Trưởng Lão trận pháp"
+    },
+    {
+      "source": "le_duong_thiet",
+      "target": "hoang_dung_nham",
+      "type": "master",
+      "description": "Tông Chủ giao phó trọng trách cho Hộ Pháp"
+    },
+    {
+      "source": "le_duong_thiet",
+      "target": "pham_hoa_lien",
+      "type": "master",
+      "description": "Hộ Pháp bảo vệ tông chủ"
+    },
+    {
+      "source": "le_duong_thiet",
+      "target": "vu_tieu_viem",
+      "type": "mentor",
+      "description": "Tông Chủ rèn giũa Chân Truyền Đệ Tử"
+    },
+    {
+      "source": "hoang_dung_nham",
+      "target": "pham_hoa_lien",
+      "type": "rival",
+      "description": "Hai Hộ Pháp cạnh tranh kỹ năng hỏa hệ"
+    },
+    {
+      "source": "nguyen_liet_diem",
+      "target": "vu_tieu_viem",
+      "type": "mentor",
+      "description": "Trưởng Lão chỉ dạy hỏa thuật cho đệ tử"
+    },
+    {
+      "source": "tran_kiem_nam",
+      "target": "nguyen_thanh_luyen",
+      "type": "mentor",
+      "description": "Trang Chủ rèn giũa Chân Truyền Đệ Tử"
+    },
+    {
+      "source": "ly_kiem_hon",
+      "target": "dang_tieu_kiem",
+      "type": "mentor",
+      "description": "Thái Thượng Trưởng Lão chỉ điểm kiếm đạo"
+    },
+    {
+      "source": "pham_phi_kiem",
+      "target": "nguyen_thanh_luyen",
+      "type": "mentor",
+      "description": "Trưởng Lão dạy thuật luyện kiếm"
+    },
+    {
+      "source": "ho_mi_co",
+      "target": "ly_xuan_phong",
+      "type": "master",
+      "description": "Tông Chủ giao trọng trách cho Hộ Pháp"
+    },
+    {
+      "source": "ho_mi_co",
+      "target": "ho_tieu_mi",
+      "type": "mentor",
+      "description": "Tông Chủ truyền dạy cho Nội Môn Đệ Tử"
+    },
+    {
+      "source": "ho_nguyet_nhi",
+      "target": "ho_tieu_mi",
+      "type": "mentor",
+      "description": "Trưởng Lão chỉ dạy mị thuật cho đệ tử"
+    },
+    {
+      "source": "ly_huyet_than",
+      "target": "hoang_huyet_yen",
+      "type": "master",
+      "description": "Minh Chủ giao phó tình báo cho Đường Chủ"
+    },
+    {
+      "source": "ly_huyet_than",
+      "target": "le_huyet_la",
+      "type": "master",
+      "description": "Minh Chủ điều khiển Sát Thủ Đường"
+    },
+    {
+      "source": "ly_huyet_than",
+      "target": "vu_huyet_cuong",
+      "type": "master",
+      "description": "Minh Chủ chỉ huy Chiến Đấu Đường"
+    },
+    {
+      "source": "ly_huyet_than",
+      "target": "dang_huyet_linh",
+      "type": "master",
+      "description": "Hộ Pháp bảo vệ Minh Chủ"
+    },
+    {
+      "source": "hoang_huyet_yen",
+      "target": "le_huyet_la",
+      "type": "rival",
+      "description": "Hai Đường Chủ cạnh tranh ảnh hưởng trong tổ chức"
+    },
+    {
+      "source": "le_huyet_la",
+      "target": "ly_huyet_vu",
+      "type": "master",
+      "description": "Đường Chủ Sát Thủ điều phối sát thủ tinh nhuệ"
+    },
+    {
+      "source": "tran_huyet_anh",
+      "target": "pham_huyet_dao",
+      "type": "rival",
+      "description": "Tả Sứ và Hữu Sứ thường bất đồng chiến lược"
+    },
+    {
+      "source": "nguyen_huyet_sat",
+      "target": "tran_tieu_huyet",
+      "type": "mentor",
+      "description": "Trưởng Lão chỉ dạy đệ tử trẻ"
+    },
+    {
+      "source": "nguyen_duc_kim",
+      "target": "le_luyen_kim",
+      "type": "mentor",
+      "description": "Trưởng Lão truyền dạy luyện kim cho đệ tử"
+    },
+    {
+      "source": "pham_thiet_duc",
+      "target": "vu_tieu_duc",
+      "type": "mentor",
+      "description": "Trưởng Lão rèn giũa Chân Truyền Đệ Tử"
+    },
+    {
+      "source": "giao_thien_hai",
+      "target": "giao_han_ngoc",
+      "type": "master",
+      "description": "Minh Chủ chỉ huy Chiến Đội Trưởng"
+    },
+    {
+      "source": "giao_thien_hai",
+      "target": "giao_thanh_ba",
+      "type": "master",
+      "description": "Minh Chủ giao phó trinh sát cho đội trưởng"
+    },
+    {
+      "source": "giao_han_ngoc",
+      "target": "giao_phong_lang",
+      "type": "master",
+      "description": "Chiến Đội Trưởng chỉ huy chiến sĩ"
+    },
+    {
+      "source": "giao_thanh_ba",
+      "target": "giao_phong_van_hai",
+      "type": "master",
+      "description": "Trinh Sát Trưởng điều phối gián điệp"
+    },
+    {
+      "source": "giao_thanh_ba",
+      "target": "giao_thien_suong",
+      "type": "master",
+      "description": "Trinh Sát Trưởng chỉ đạo liên lạc viên"
+    },
+    {
+      "source": "giao_han_phong_nguyet",
+      "target": "giao_tieu_nguyet",
+      "type": "mentor",
+      "description": "Huấn Luyện Sư dạy dỗ đệ tử trẻ"
+    },
+    {
+      "source": "giao_le_van",
+      "target": "giao_han_suong_le",
+      "type": "master",
+      "description": "Thủ Lĩnh Ngầm dùng liên lạc viên truyền tin bí mật"
+    },
+    {
+      "source": "giao_thien_le",
+      "target": "giao_tieu_le",
+      "type": "family",
+      "description": "Người già chăm sóc đứa trẻ như cháu ruột"
+    },
+    {
+      "source": "nha_huyen_da_phong",
+      "target": "lang_hoang_nha",
+      "type": "master",
+      "description": "Liên Trưởng chỉ huy Lang Đội Trưởng"
+    },
+    {
+      "source": "nha_huyen_da_phong",
+      "target": "hau_linh_thu",
+      "type": "master",
+      "description": "Liên Trưởng điều phối Hầu Đội"
+    },
+    {
+      "source": "nha_huyen_da_phong",
+      "target": "thu_thien_nhi",
+      "type": "master",
+      "description": "Liên Trưởng giao nhiệm vụ cho Thử Đội"
+    },
+    {
+      "source": "nha_huyen_da_phong",
+      "target": "tru_thiet_bi",
+      "type": "master",
+      "description": "Liên Trưởng chỉ huy Trư Đội"
+    },
+    {
+      "source": "nha_huyen_da_phong",
+      "target": "xa_thanh_lan_da",
+      "type": "master",
+      "description": "Liên Trưởng điều phối Xà Đội"
+    },
+    {
+      "source": "nha_huyen_da_phong",
+      "target": "tho_bach_phong",
+      "type": "master",
+      "description": "Liên Trưởng giao trinh sát cho Thỏ Đội"
+    },
+    {
+      "source": "nha_huyen_da_phong",
+      "target": "nha_thien_duc",
+      "type": "master",
+      "description": "Liên Trưởng giao trinh sát trên không"
+    },
+    {
+      "source": "lang_hoang_nha",
+      "target": "lang_hoang_thien_ly",
+      "type": "master",
+      "description": "Lang Đội Trưởng huấn luyện chiến binh trẻ"
+    },
+    {
+      "source": "thu_thien_nhi",
+      "target": "thu_am_hanh",
+      "type": "master",
+      "description": "Thử Đội Trưởng chỉ đạo gián điệp"
+    },
+    {
+      "source": "hung_thien_son_hong",
+      "target": "ho_thanh_lang",
+      "type": "master",
+      "description": "Đình Chủ chỉ huy Hồ Tộc Đội Trưởng"
+    },
+    {
+      "source": "hung_thien_son_hong",
+      "target": "lang_thien_no",
+      "type": "master",
+      "description": "Đình Chủ giao nhiệm vụ cho Lang Đội Trưởng"
+    },
+    {
+      "source": "hung_thien_son_hong",
+      "target": "hung_thiet_chuong",
+      "type": "master",
+      "description": "Đình Chủ tin tưởng Hộ Pháp trung thành"
+    },
+    {
+      "source": "tru_thiet_nha_vuong",
+      "target": "hung_thiet_chuong",
+      "type": "rival",
+      "description": "Trư Tộc và Hùng Tộc tranh giành vị trí"
+    },
+    {
+      "source": "hung_ngan_vuong",
+      "target": "hung_cu_luc",
+      "type": "master",
+      "description": "Hùng Vương chỉ huy Hùng chiến sĩ"
+    },
+    {
+      "source": "mang_luc_vuong",
+      "target": "ho_that_cuu",
+      "type": "rival",
+      "description": "Mãng Vương và Hồ Tộc tranh giành quyền lực"
+    },
+    {
+      "source": "ly_van_thien",
+      "target": "pham_hao_nhien",
+      "type": "master",
+      "description": "Tông Chủ giao nhiệm vụ cho Hộ Pháp"
+    },
+    {
+      "source": "phuong_lam",
+      "target": "yen_linh_toc",
+      "type": "master",
+      "description": "Tộc Trưởng giao phó trinh sát cho đội trưởng"
+    },
+    {
+      "source": "yen_linh_toc",
+      "target": "yen_lam_van",
+      "type": "master",
+      "description": "Trinh Sát Đội Trưởng chỉ huy truyền tin"
+    },
+    {
+      "source": "yen_linh_toc",
+      "target": "yen_phi_van",
+      "type": "master",
+      "description": "Đội Trưởng giao nhiệm vụ cho truyền tin viên"
+    },
+    {
+      "source": "yen_linh_toc",
+      "target": "yen_phong",
+      "type": "master",
+      "description": "Đội Trưởng điều phối truyền tin"
+    },
+    {
+      "source": "loan_thanh_ha",
+      "target": "ung_moc_diep",
+      "type": "rival",
+      "description": "Hai chiến sĩ mạnh tranh giành vị trí đệ nhất"
+    },
+    {
+      "source": "am_diep",
+      "target": "am_thien_loi",
+      "type": "master",
+      "description": "Trưởng Lão chỉ huy chiến sĩ mạnh nhất"
+    },
+    {
+      "source": "am_diep",
+      "target": "am_phong_da",
+      "type": "master",
+      "description": "Trưởng Lão giao trinh sát cho chiến sĩ"
+    },
+    {
+      "source": "am_da_hanh",
+      "target": "am_vo_thanh",
+      "type": "master",
+      "description": "Ám Sát Đội Trưởng chỉ huy Vô Thanh Sát Thủ"
+    },
+    {
+      "source": "am_thien_da_hanh",
+      "target": "am_van_ly",
+      "type": "master",
+      "description": "Mưu Sĩ sử dụng thám tử thu thập thông tin"
+    },
+    {
+      "source": "am_vo_thanh",
+      "target": "am_tuyet_hon_da",
+      "type": "rival",
+      "description": "Hai chiến sĩ mạnh tranh giành vị trí"
+    },
+    {
+      "source": "bao_hong_tan",
+      "target": "bao_doc_vuong",
+      "type": "master",
+      "description": "Tộc Trưởng giao nhiệm vụ cho Hộ Pháp"
+    },
+    {
+      "source": "bao_hong_tan",
+      "target": "bao_thien_phong",
+      "type": "master",
+      "description": "Tộc Trưởng chỉ đạo Phát Tán Sư mở rộng lãnh thổ"
+    },
+    {
+      "source": "bao_thien_bien_hoa",
+      "target": "bao_thien_tan_hoa",
+      "type": "mentor",
+      "description": "Tiến Hóa Sư hướng dẫn Tân Sinh"
+    },
+    {
+      "source": "phong_diep",
+      "target": "phong_hoa_diep",
+      "type": "master",
+      "description": "Thủ Lĩnh giao nhiệm vụ chiến đấu"
+    },
+    {
+      "source": "phong_diep",
+      "target": "phong_da",
+      "type": "master",
+      "description": "Thủ Lĩnh giao nhiệm vụ trinh sát"
+    },
+    {
+      "source": "phong_nguyet_han_thanh",
+      "target": "phong_tieu_lam",
+      "type": "mentor",
+      "description": "Dược Sư chăm sóc đệ tử nhỏ"
+    },
+    {
+      "source": "thao_tam_linh",
+      "target": "thao_linh",
+      "type": "master",
+      "description": "Viện Trưởng chỉ đạo Dược Sư"
+    },
+    {
+      "source": "thao_tam_linh",
+      "target": "thao_thien_huong_ngoc",
+      "type": "master",
+      "description": "Viện Trưởng giao phó Dược Sư"
+    },
+    {
+      "source": "thao_van_huong",
+      "target": "thao_han_lo",
+      "type": "mentor",
+      "description": "Dược Sư Trưởng dạy dỗ đệ tử"
+    },
+    {
+      "source": "thao_linh",
+      "target": "thao_ngoc",
+      "type": "mentor",
+      "description": "Dược Sư hướng dẫn đệ tử trẻ"
+    },
+    {
+      "source": "thao_thien_huong_ngoc",
+      "target": "thao_mong_diep",
+      "type": "mentor",
+      "description": "Dược Sư dạy đệ tử mới"
+    },
+    {
+      "source": "lam_co_thu",
+      "target": "lam_can",
+      "type": "master",
+      "description": "Đoàn Trưởng chỉ huy Hộ Thụ Sĩ"
+    },
+    {
+      "source": "lam_co_thu",
+      "target": "lam_thanh_phong_nguyet",
+      "type": "master",
+      "description": "Đoàn Trưởng giao phó Hộ Thụ Sĩ"
+    },
+    {
+      "source": "lam_co_thu",
+      "target": "lam_van_nien",
+      "type": "master",
+      "description": "Đoàn Trưởng chỉ đạo Hộ Thụ Sĩ"
+    },
+    {
+      "source": "linh_thien_moc_hoa",
+      "target": "linh_huong",
+      "type": "master",
+      "description": "Đại Tế Tư chỉ đạo Tế Tư"
+    },
+    {
+      "source": "linh_thien_moc_hoa",
+      "target": "linh_thanh_vu",
+      "type": "master",
+      "description": "Đại Tế Tư phân công Tế Tư"
+    },
+    {
+      "source": "linh_thien_moc_hoa",
+      "target": "linh_moc_dao",
+      "type": "master",
+      "description": "Đại Tế Tư dẫn dắt Tế Tư"
+    },
+    {
+      "source": "sa_co_giac",
+      "target": "ho_viem_cot",
+      "type": "master",
+      "description": "Hội Trưởng chỉ đạo thành viên"
+    },
+    {
+      "source": "sa_co_giac",
+      "target": "mang_thai_co_huyen",
+      "type": "master",
+      "description": "Hội Trưởng dẫn dắt thành viên"
+    },
+    {
+      "source": "sa_co_giac",
+      "target": "vien_hong_hoang",
+      "type": "master",
+      "description": "Hội Trưởng giao nhiệm vụ thành viên"
+    },
+    {
+      "source": "nguyen_lang_phong",
+      "target": "hoang_dieu_vu_thien",
+      "type": "master",
+      "description": "Thợ Săn Trưởng chỉ đạo Trinh Sát"
+    },
+    {
+      "source": "ban_lam",
+      "target": "hoa_nhan_han_ngoc",
+      "type": "master",
+      "description": "Hội Trưởng chỉ huy chiến sĩ"
+    },
+    {
+      "source": "tran_diep_thanh",
+      "target": "lam_hoa_vu",
+      "type": "master",
+      "description": "Phó Hội Trưởng giao nhiệm vụ thợ săn"
+    },
+    {
+      "source": "truong_linh_ha",
+      "target": "vuong_luc_diep",
+      "type": "mentor",
+      "description": "Trận Pháp Sư dạy dỗ đệ tử mới"
+    },
+    {
+      "source": "lang_liep_phong",
+      "target": "ung_loi_nhan",
+      "type": "master",
+      "description": "Bang Chủ giao trinh sát cho đội trưởng"
+    },
+    {
+      "source": "lang_liep_phong",
+      "target": "bao_khoai_dao",
+      "type": "master",
+      "description": "Bang Chủ sử dụng sát thủ cho nhiệm vụ đặc biệt"
+    },
+    {
+      "source": "nam_thien_can",
+      "target": "nam_doc_vuong",
+      "type": "master",
+      "description": "Mạng Lưới Chủ chỉ huy Hộ Pháp"
+    },
+    {
+      "source": "nam_thien_can",
+      "target": "nam_huyen_thong_thien",
+      "type": "master",
+      "description": "Mạng Lưới Chủ giao truyền tin"
+    },
+    {
+      "source": "nam_thien_can",
+      "target": "nam_thien_nhi",
+      "type": "master",
+      "description": "Mạng Lưới Chủ giao trinh sát"
+    },
+    {
+      "source": "nam_tham_can",
+      "target": "nam_bach_ty",
+      "type": "mentor",
+      "description": "Thâm Thổ Sư hướng dẫn sợi nấm mới"
+    },
+    {
+      "source": "hon_nguyet",
+      "target": "nham_luc_thanh",
+      "type": "master",
+      "description": "Hội Trưởng chỉ huy chiến sĩ"
+    },
+    {
+      "source": "am_hoa_linh",
+      "target": "van_hac_diep",
+      "type": "mentor",
+      "description": "Mưu Sĩ hướng dẫn đệ tử mới"
+    },
+    {
+      "source": "ho_lang_tap_huyet",
+      "target": "bao_ho_nguyet_anh",
+      "type": "master",
+      "description": "Đoàn Trưởng giao phó trinh sát"
+    },
+    {
+      "source": "ho_lang_tap_huyet",
+      "target": "ho_hung_cu_luc",
+      "type": "master",
+      "description": "Đoàn Trưởng dùng vệ sĩ bảo vệ"
+    },
+    {
+      "source": "dang_cong_mau",
+      "target": "ly_tieu_lo",
+      "type": "master",
+      "description": "Phường Chủ giao Tổng Quản quản lý"
+    },
+    {
+      "source": "xa_cuong_giap",
+      "target": "giai_kien_xac",
+      "type": "master",
+      "description": "Minh Chủ chỉ huy chiến binh"
+    },
+    {
+      "source": "cu_da_minh",
+      "target": "cu_tinh_da",
+      "type": "master",
+      "description": "Tộc Trưởng giao phó trinh sát cho đệ tử"
+    },
+    {
+      "source": "thach_luc",
+      "target": "nham_dai_chuy",
+      "type": "master",
+      "description": "Phường Trưởng chỉ đạo Thợ Cả"
+    },
+    {
+      "source": "thach_luc",
+      "target": "son_thiet_bich",
+      "type": "master",
+      "description": "Phường Trưởng giao việc cho Thợ Xây"
+    },
+    {
+      "source": "phan_hoang_vuong",
+      "target": "bich_duc_nhi",
+      "type": "master",
+      "description": "Hội Trưởng giao phó trinh sát"
+    },
+    {
+      "source": "phan_hoang_vuong",
+      "target": "phan_thien_ly_huong",
+      "type": "master",
+      "description": "Hội Trưởng giao truyền tin"
+    },
+    {
+      "source": "phan_hoang_vuong",
+      "target": "phan_hong_hoa",
+      "type": "master",
+      "description": "Hội Trưởng chỉ đạo Thụ Phấn Sư"
+    },
+    {
+      "source": "ly_bach_cuu",
+      "target": "pham_nhan_tu",
+      "type": "master",
+      "description": "Đội Trưởng chỉ đạo cứu hộ viên"
+    },
+    {
+      "source": "ly_thao_tam",
+      "target": "ly_huyet_duoc",
+      "type": "master",
+      "description": "Đường Chủ chỉ đạo Dược Sư"
+    },
+    {
+      "source": "ly_thao_tam",
+      "target": "tran_thao_nhi",
+      "type": "mentor",
+      "description": "Đường Chủ dạy dỗ học đồ"
+    },
+    {
+      "source": "nguu_dai_luc",
+      "target": "ma_phi_van",
+      "type": "master",
+      "description": "Mục Trường Chủ chỉ đạo Thuần Thú Sư"
+    },
+    {
+      "source": "nguu_dai_luc",
+      "target": "duong_tieu_muc",
+      "type": "mentor",
+      "description": "Mục Trường Chủ dạy dỗ Mục Đồng"
+    },
+    {
+      "source": "ly_ma_lam",
+      "target": "pham_tieu_liep",
+      "type": "mentor",
+      "description": "Hội Trưởng dạy kỹ năng cho thợ săn trẻ"
+    },
+    {
+      "source": "tran_van_ly",
+      "target": "pham_ba_dao",
+      "type": "master",
+      "description": "Thuyền Chủ giao phó hoa tiêu"
+    },
+    {
+      "source": "tran_van_ly",
+      "target": "nguyen_tieu_ngu",
+      "type": "mentor",
+      "description": "Thuyền Chủ dạy dỗ thủy thủ"
+    },
+    {
+      "source": "ly_vu_han",
+      "target": "pham_tieu_suong",
+      "type": "mentor",
+      "description": "Đoàn Trưởng dạy dỗ thành viên mới"
+    },
+    {
+      "source": "ly_thiet_tru",
+      "target": "pham_tieu_dung",
+      "type": "mentor",
+      "description": "Đoàn Trưởng rèn giũa nghĩa quân trẻ"
+    },
+    {
+      "source": "trung_mat_linh",
+      "target": "trung_kim_phan",
+      "type": "master",
+      "description": "Ong Hậu chỉ đạo Ong Thợ Trưởng"
+    },
+    {
+      "source": "trung_mat_linh",
+      "target": "trung_tieu_mat",
+      "type": "master",
+      "description": "Ong Hậu chỉ huy Ong Lính"
+    },
+    {
+      "source": "trung_kim_hoa",
+      "target": "trung_hoang_cham",
+      "type": "master",
+      "description": "Ong Chúa chỉ huy Ong Chiến Binh"
+    },
+    {
+      "source": "trung_kim_hoa",
+      "target": "trung_ngot_suong",
+      "type": "master",
+      "description": "Ong Chúa giao nhiệm vụ Ong Dưỡng Nhi"
+    },
+    {
+      "source": "diep_thu_thanh",
+      "target": "diep_kim_phong",
+      "type": "master",
+      "description": "Thủ Lĩnh giao bảo vệ cho Vệ Sĩ Trưởng"
+    },
+    {
+      "source": "diep_phong",
+      "target": "diep_thanh_suong_nguyet",
+      "type": "master",
+      "description": "Phó Thủ Lĩnh chỉ đạo trinh sát"
+    },
+    {
+      "source": "diep_thien_thu_han",
+      "target": "diep_mong",
+      "type": "mentor",
+      "description": "Trưởng Lão dạy Mộng Sư"
+    },
+    {
+      "source": "tran_dai_thach",
+      "target": "pham_moc_thuan",
+      "type": "master",
+      "description": "Đoàn Trưởng chỉ huy Kỵ Sĩ Trưởng"
+    },
+    {
+      "source": "pham_moc_thuan",
+      "target": "nguyen_tieu_thao",
+      "type": "mentor",
+      "description": "Kỵ Sĩ Trưởng dạy tân binh"
+    },
+    {
+      "source": "ly_quy_nhi",
+      "target": "hoang_quy_thu",
+      "type": "master",
+      "description": "Quỷ Chủ chỉ huy Sát Thủ Trưởng"
+    },
+    {
+      "source": "ly_quy_nhi",
+      "target": "pham_hac_anh",
+      "type": "master",
+      "description": "Quỷ Chủ giao tình báo cho Đường Chủ"
+    },
+    {
+      "source": "tran_quy_dien",
+      "target": "nguyen_tieu_quy",
+      "type": "mentor",
+      "description": "Phó Quỷ Chủ huấn luyện thành viên"
+    },
+    {
+      "source": "thach_to",
+      "target": "son_thiet_nhai",
+      "type": "master",
+      "description": "Đại Trưởng Lão chỉ đạo Hộ Vệ"
+    },
+    {
+      "source": "nham_truong_lao",
+      "target": "cuong_tieu_son",
+      "type": "mentor",
+      "description": "Trưởng Lão rèn giũa Thủ Vệ trẻ"
+    },
+    {
+      "source": "ly_thi_ma",
+      "target": "dang_huyet_nhuc",
+      "type": "master",
+      "description": "Chỉ huy chiến sĩ đặc biệt"
+    },
+    {
+      "source": "lac_vo_danh",
+      "target": "ly_tieu_phe",
+      "type": "mentor",
+      "description": "Các Chủ dạy dỗ Nội Môn Đệ Tử"
+    },
+    {
+      "source": "le_vo_han",
+      "target": "pham_huyen_cham",
+      "type": "master",
+      "description": "Đường Chủ chỉ huy sát thủ"
+    },
+    {
+      "source": "le_vo_han",
+      "target": "hoang_tieu_doc",
+      "type": "mentor",
+      "description": "Đường Chủ dạy dỗ đệ tử"
+    },
+    {
+      "source": "khuan_kim_quang",
+      "target": "khuan_thien_muc",
+      "type": "master",
+      "description": "Viên Trưởng giao trinh sát"
+    },
+    {
+      "source": "phan_dao",
+      "target": "phan_lang_yen",
+      "type": "master",
+      "description": "Đội Trưởng chỉ đạo thám tử trên không"
+    },
+    {
+      "source": "phan_dao",
+      "target": "phan_khinh_vu",
+      "type": "master",
+      "description": "Đội Trưởng giao liên lạc"
+    },
+    {
+      "source": "phan_ngan_phong",
+      "target": "phan_tieu_lo",
+      "type": "mentor",
+      "description": "Phó Đội Trưởng huấn luyện tân binh"
+    },
+    {
+      "source": "tran_moc_diep",
+      "target": "nguyen_tieu_moc",
+      "type": "mentor",
+      "description": "Phó Trưởng Lão chỉ dạy thôn dân"
+    },
+    {
+      "source": "ly_anh_thu",
+      "target": "pham_tieu_ngao",
+      "type": "master",
+      "description": "Minh Chủ chỉ huy thành viên"
+    },
+    {
+      "source": "trung_xich_giac",
+      "target": "trung_tieu_phan",
+      "type": "master",
+      "description": "Trùng Trưởng chỉ đạo trinh sát"
+    },
+    {
+      "source": "le_thiet_tam",
+      "target": "pham_giai_doc",
+      "type": "master",
+      "description": "Minh Chủ giao dược sư nhiệm vụ"
+    },
+    {
+      "source": "ly_hoai_cuu",
+      "target": "pham_tieu_dan",
+      "type": "mentor",
+      "description": "Phường Chủ dạy dỗ học đồ"
+    },
+    {
+      "source": "moc_thien_no",
+      "target": "moc_thanh_han_da",
+      "type": "master",
+      "description": "Thủ Lĩnh Ngầm giao liên lạc bí mật"
+    },
+    {
+      "source": "moc_thien_no",
+      "target": "moc_da_hoa",
+      "type": "master",
+      "description": "Thủ Lĩnh Ngầm chỉ đạo gián điệp"
+    },
+    {
+      "source": "ly_huyet_than",
+      "target": "ly_luc_tran",
+      "type": "enemy",
+      "description": "Huyết Sát Minh và Cửu Hoa Kiếm Tông là tử địch"
+    },
+    {
+      "source": "ly_huyet_than",
+      "target": "ly_hoa_nguyet",
+      "type": "enemy",
+      "description": "Huyết Sát Minh đe dọa mọi chính đạo"
+    },
+    {
+      "source": "ly_huyet_than",
+      "target": "le_duong_thiet",
+      "type": "enemy",
+      "description": "Huyết Sát Minh kẻ thù chung Liệt Dương Tông"
+    },
+    {
+      "source": "ly_huyet_than",
+      "target": "tran_van_thu",
+      "type": "enemy",
+      "description": "Huyết Sát Minh săn lùng linh thú Sơn Trang"
+    },
+    {
+      "source": "ly_huyet_than",
+      "target": "tran_kiem_nam",
+      "type": "enemy",
+      "description": "Huyết Sát Minh đối đầu Ngự Kiếm Sơn Trang"
+    },
+    {
+      "source": "ly_moc_thanh",
+      "target": "ly_luc_tran",
+      "type": "neutral",
+      "description": "Thanh Đế Cung và Kiếm Tông giữ quan hệ hòa bình"
+    },
+    {
+      "source": "ho_mi_co",
+      "target": "ly_huyet_than",
+      "type": "neutral",
+      "description": "Hợp Hoan Tông giữ khoảng cách với Huyết Sát Minh"
+    },
+    {
+      "source": "ho_mi_co",
+      "target": "ly_luc_tran",
+      "type": "neutral",
+      "description": "Hợp Hoan Tông và Kiếm Tông không giao hảo"
+    },
+    {
+      "source": "ly_co_gioi",
+      "target": "ly_luc_tran",
+      "type": "neutral",
+      "description": "Luyện Khí Hội trung lập, chỉ giao thương"
+    },
+    {
+      "source": "lam_co_thu",
+      "target": "am_diep",
+      "type": "neutral",
+      "description": "Thủ Hộ Đoàn e ngại Hắc Tinh Linh nhưng không thù địch"
+    },
+    {
+      "source": "linh_thien_moc_hoa",
+      "target": "am_diep",
+      "type": "neutral",
+      "description": "Tế Tự Đoàn giữ khoảng cách với Hắc Tinh Linh"
+    },
+    {
+      "source": "hung_thien_son_hong",
+      "target": "ho_that_cuu",
+      "type": "rival",
+      "description": "Thiên Yêu Đình và Vạn Yêu Thành tranh bá quyền"
+    },
+    {
+      "source": "nha_huyen_da_phong",
+      "target": "lang_liep_phong",
+      "type": "enemy",
+      "description": "Hoang Dã Yêu Liên và Thợ Săn Bang đối đầu"
+    },
+    {
+      "source": "sa_co_giac",
+      "target": "hung_thien_son_hong",
+      "type": "neutral",
+      "description": "Cổ Yêu Hội giữ khoảng cách với Thiên Yêu Đình"
+    },
+    {
+      "source": "sa_co_giac",
+      "target": "ho_that_cuu",
+      "type": "neutral",
+      "description": "Cổ Yêu Hội trung lập với Vạn Yêu Thành"
+    },
+    {
+      "source": "ly_quy_nhi",
+      "target": "ly_luc_tran",
+      "type": "enemy",
+      "description": "Quỷ Nhai Hội hắc đạo đối đầu Kiếm Tông"
+    },
+    {
+      "source": "ly_quy_nhi",
+      "target": "ly_huyet_than",
+      "type": "neutral",
+      "description": "Quỷ Nhai Hội và Huyết Sát Minh tạm không can thiệp"
+    },
+    {
+      "source": "ly_thi_ma",
+      "target": "ly_luc_tran",
+      "type": "enemy",
+      "description": "Tử Vong Thung Lũng bị chính đạo truy sát"
+    },
+    {
+      "source": "moc_thien_no",
+      "target": "lam_co_thu",
+      "type": "neutral",
+      "description": "Công Nhân Tinh Linh muốn Thủ Hộ Đoàn bảo vệ"
+    },
+    {
+      "source": "ly_luc_tran",
+      "target": "ly_hoa_nguyet",
+      "type": "ally",
+      "description": "Tông Chủ Kiếm Tông và Cốc Chủ Bách Hoa Cốc hợp tác chính phái"
+    },
+    {
+      "source": "ly_luc_tran",
+      "target": "tran_van_thu",
+      "type": "ally",
+      "description": "Kiếm Tông và Sơn Trang liên thủ trấn giữ Đông Hoang"
+    },
+    {
+      "source": "ly_luc_tran",
+      "target": "le_duong_thiet",
+      "type": "ally",
+      "description": "Kiếm Tông và Liệt Dương Tông đồng minh chính đạo"
+    },
+    {
+      "source": "ly_luc_tran",
+      "target": "tran_kiem_nam",
+      "type": "ally",
+      "description": "Hai tông phái kiếm đạo tương giao"
+    },
+    {
+      "source": "ly_hoa_nguyet",
+      "target": "tran_van_thu",
+      "type": "ally",
+      "description": "Bách Hoa Cốc cung cấp dược liệu cho Sơn Trang"
+    },
+    {
+      "source": "ly_hoa_nguyet",
+      "target": "le_duong_thiet",
+      "type": "ally",
+      "description": "Bách Hoa Cốc và Liệt Dương Tông hợp tác"
+    },
+    {
+      "source": "tran_van_thu",
+      "target": "le_duong_thiet",
+      "type": "ally",
+      "description": "Sơn Trang và Liệt Dương Tông đồng minh"
+    },
+    {
+      "source": "tran_kiem_nam",
+      "target": "tran_van_thu",
+      "type": "ally",
+      "description": "Ngự Kiếm và Bách Thú Sơn Trang láng giềng hữu hảo"
+    },
+    {
+      "source": "ly_moc_thanh",
+      "target": "ly_hoa_nguyet",
+      "type": "ally",
+      "description": "Thanh Đế Cung và Bách Hoa Cốc hợp tác dược liệu"
+    },
+    {
+      "source": "ly_moc_thanh",
+      "target": "diep_thanh_y",
+      "type": "ally",
+      "description": "Thanh Đế Cung và Dược Vương Cốc giao lưu y thuật"
+    },
+    {
+      "source": "ly_co_gioi",
+      "target": "dang_cong_mau",
+      "type": "ally",
+      "description": "Luyện Khí Hội và Bách Nghệ Phường hợp tác kỹ thuật"
+    },
+    {
+      "source": "lam_co_thu",
+      "target": "linh_thien_moc_hoa",
+      "type": "ally",
+      "description": "Thủ Hộ Đoàn và Tế Tự Đoàn cùng bảo vệ cổ thụ"
+    },
+    {
+      "source": "lam_co_thu",
+      "target": "phong_diep",
+      "type": "ally",
+      "description": "Cổ Thụ Thủ Hộ chào đón Du Mục Tinh Linh"
+    },
+    {
+      "source": "linh_thien_moc_hoa",
+      "target": "thao_tam_linh",
+      "type": "ally",
+      "description": "Tế Tự Đoàn và Dược Thảo Viện nghiên cứu cổ thụ"
+    },
+    {
+      "source": "phong_diep",
+      "target": "thao_tam_linh",
+      "type": "ally",
+      "description": "Du Mục Tinh Linh thu thập cho Dược Thảo Viện"
+    },
+    {
+      "source": "lam_co_thu",
+      "target": "thao_tam_linh",
+      "type": "ally",
+      "description": "Thủ Hộ Đoàn và Dược Thảo Viện cùng tộc Tinh Linh"
+    },
+    {
+      "source": "giao_thien_hai",
+      "target": "giao_le_van",
+      "type": "ally",
+      "description": "Minh Chủ Liên Minh đồng cảm với bần dân"
+    },
+    {
+      "source": "giao_nguyet_le",
+      "target": "giao_bach_phat",
+      "type": "ally",
+      "description": "Phó Minh Chủ giúp đỡ Trưởng Lão bần dân"
+    },
+    {
+      "source": "ly_ban_nguyet",
+      "target": "hon_nguyet",
+      "type": "ally",
+      "description": "Bán Yêu Thôn và Hỗn Huyết Tinh Linh đồng cảm"
+    },
+    {
+      "source": "ly_ban_nguyet",
+      "target": "ho_lang_tap_huyet",
+      "type": "ally",
+      "description": "Bán Yêu Thôn chào đón Hỗn Huyết Yêu Đoàn"
+    },
+    {
+      "source": "ly_ban_nguyet",
+      "target": "ban_lam",
+      "type": "ally",
+      "description": "Bán Yêu Thôn và Bán Tinh Linh Hội đồng bệnh tương lân"
+    },
+    {
+      "source": "ly_thi_ma",
+      "target": "ly_huyet_than",
+      "type": "ally",
+      "description": "Tử Vong Thung Lũng có giao dịch ngầm với Huyết Sát Minh"
+    },
+    {
+      "source": "diep_thanh_y",
+      "target": "ly_hoa_nguyet",
+      "type": "ally",
+      "description": "Dược Vương Cốc và Bách Hoa Cốc trao đổi dược liệu"
+    },
+    {
+      "source": "diep_thanh_y",
+      "target": "thao_tam_linh",
+      "type": "ally",
+      "description": "Dược Vương Cốc và Dược Thảo Viện hợp tác nghiên cứu"
+    },
+    {
+      "source": "moc_thien_no",
+      "target": "am_diep",
+      "type": "ally",
+      "description": "Thủ Lĩnh Ngầm Mộc Tinh Linh cầu viện Hắc Tinh Linh"
+    },
+    {
+      "source": "phuong_lam",
+      "target": "cu_da_minh",
+      "type": "ally",
+      "description": "Hai Vũ Tộc lãnh đạo hợp tác bảo vệ rừng"
+    },
+    {
+      "source": "tran_van_thu",
+      "target": "nguu_dai_luc",
+      "type": "ally",
+      "description": "Bách Thú Sơn Trang hợp tác với Linh Thú Mục Trường"
+    },
+    {
+      "source": "lam_phong",
+      "target": "ly_ban_nguyet",
+      "type": "ally",
+      "description": "Lâm Phong được Bán Yêu Thôn tiếp đón khi vào Đông Hoang"
+    },
+    {
+      "source": "tran_bach_lang",
+      "target": "dang_cong_mau",
+      "type": "ally",
+      "description": "Thương Hội buôn bán với Bách Nghệ Phường"
+    },
+    {
+      "source": "tran_bach_lang",
+      "target": "ly_co_gioi",
+      "type": "ally",
+      "description": "Thương Hội giao thương với Luyện Khí Hội"
+    },
+    {
+      "source": "ly_luc_tran",
+      "target": "nguyen_tinh_kiem",
+      "type": "ally",
+      "description": "Trưởng Lão trấn thủ Thiên Hoa Phong, phối hợp điều hành tông vụ"
+    },
+    {
+      "source": "ly_luc_tran",
+      "target": "tran_cuu_hoa",
+      "type": "ally",
+      "description": "Thái Thượng Trưởng Lão khai sáng, được tông chủ kính trọng"
+    },
+    {
+      "source": "ly_luc_tran",
+      "target": "vu_phi_kiem",
+      "type": "ally",
+      "description": "Trưởng Lão kiếm thuật cao siêu, trụ cột tông môn"
+    },
+    {
+      "source": "ly_luc_tran",
+      "target": "diep_tinh_suong",
+      "type": "ally",
+      "description": "Cựu đệ tử kiếm tông, dù rời tông vẫn được quan tâm"
+    },
+    {
+      "source": "tran_cuu_hoa",
+      "target": "nguyen_tinh_kiem",
+      "type": "ally",
+      "description": "Hai Trưởng Lão cùng trấn giữ tông môn"
+    },
+    {
+      "source": "tran_cuu_hoa",
+      "target": "hoang_thien_phong",
+      "type": "ally",
+      "description": "Thái Thượng Trưởng Lão đánh giá cao sức mạnh Hộ Pháp"
+    },
+    {
+      "source": "diep_tinh_suong",
+      "target": "dang_minh_nguyet",
+      "type": "ally",
+      "description": "Đồng môn kiếm tu, tâm đầu ý hợp trên kiếm đạo"
+    },
+    {
+      "source": "tran_van_thu",
+      "target": "ly_thien_ma",
+      "type": "ally",
+      "description": "Trang Chủ kính trọng sư phụ Thái Thượng Trưởng Lão"
+    },
+    {
+      "source": "tran_van_thu",
+      "target": "nguyen_ky_lan",
+      "type": "ally",
+      "description": "Phối hợp với Trưởng Lão Ngự Thú Viện trong nghiên cứu"
+    },
+    {
+      "source": "tran_van_thu",
+      "target": "dang_xa_vuong",
+      "type": "ally",
+      "description": "Trưởng Lão xà đạo, cố vấn đáng tin cậy"
+    },
+    {
+      "source": "ly_thien_ma",
+      "target": "hoang_manh_ho",
+      "type": "ally",
+      "description": "Thái Thượng Trưởng Lão và Hộ Pháp cùng bảo vệ"
+    },
+    {
+      "source": "vu_tieu_long",
+      "target": "le_phuong_nhi",
+      "type": "ally",
+      "description": "Đồng môn đệ tử, thường xuyên huấn luyện cùng nhau"
+    },
+    {
+      "source": "ly_hoa_nguyet",
+      "target": "tran_bach_lien",
+      "type": "ally",
+      "description": "Cốc Chủ kính trọng Thái Thượng Trưởng Lão"
+    },
+    {
+      "source": "ly_hoa_nguyet",
+      "target": "nguyen_vu_cuc",
+      "type": "ally",
+      "description": "Cốc Chủ và Trưởng Lão phối hợp quản lý cốc"
+    },
+    {
+      "source": "ly_hoa_nguyet",
+      "target": "pham_tu_lan",
+      "type": "ally",
+      "description": "Cốc Chủ tin cậy Trưởng Lão Hoa Linh Đường"
+    },
+    {
+      "source": "tran_bach_lien",
+      "target": "pham_tu_lan",
+      "type": "ally",
+      "description": "Hai Trưởng Lão cùng nghiên cứu hoa dược"
+    },
+    {
+      "source": "le_thanh_mai",
+      "target": "hoang_tieu_dao",
+      "type": "ally",
+      "description": "Chưởng Quản và Nội Môn đệ tử thân thiết"
+    },
+    {
+      "source": "ly_moc_thanh",
+      "target": "nguyen_thanh_truc",
+      "type": "ally",
+      "description": "Cung Chủ và Trưởng Lão phối hợp điều hành"
+    },
+    {
+      "source": "ly_moc_thanh",
+      "target": "hoang_moc_linh",
+      "type": "ally",
+      "description": "Cung Chủ tin cậy Trưởng Lão Dược Tiên Viện"
+    },
+    {
+      "source": "ly_moc_thanh",
+      "target": "nguyet_thuong_xuan",
+      "type": "ally",
+      "description": "Cung Chủ kính trọng Trưởng Lão lão thành"
+    },
+    {
+      "source": "ly_moc_thanh",
+      "target": "le_duoc_tien",
+      "type": "ally",
+      "description": "Cung Chủ phối hợp với Trưởng Lão dược đạo"
+    },
+    {
+      "source": "nguyen_thanh_truc",
+      "target": "hoang_moc_linh",
+      "type": "ally",
+      "description": "Hai Trưởng Lão hợp tác nghiên cứu mộc hệ"
+    },
+    {
+      "source": "hoang_moc_linh",
+      "target": "le_duoc_tien",
+      "type": "ally",
+      "description": "Dược Tiên Viện và Trưởng Lão dược đạo chia sẻ kiến thức"
+    },
+    {
+      "source": "le_duong_thiet",
+      "target": "tran_viem_de",
+      "type": "ally",
+      "description": "Tông Chủ kính trọng Thái Thượng Trưởng Lão"
+    },
+    {
+      "source": "le_duong_thiet",
+      "target": "nguyen_liet_diem",
+      "type": "ally",
+      "description": "Tông Chủ và Trưởng Lão Viêm Long Quân phối hợp"
+    },
+    {
+      "source": "tran_viem_de",
+      "target": "dang_xich_hoa",
+      "type": "ally",
+      "description": "Thái Thượng Trưởng Lão và Trưởng Lão cùng trấn giữ"
+    },
+    {
+      "source": "tran_kiem_nam",
+      "target": "ly_kiem_hon",
+      "type": "ally",
+      "description": "Trang Chủ kính trọng Thái Thượng Trưởng Lão kiếm đạo"
+    },
+    {
+      "source": "tran_kiem_nam",
+      "target": "pham_phi_kiem",
+      "type": "ally",
+      "description": "Trang Chủ và Trưởng Lão Kiếm Đúc Viện phối hợp"
+    },
+    {
+      "source": "nguyen_thanh_luyen",
+      "target": "dang_tieu_kiem",
+      "type": "ally",
+      "description": "Đồng môn kiếm đạo, thường xuyên luận kiếm"
+    },
+    {
+      "source": "ho_mi_co",
+      "target": "ho_huyen_nuong",
+      "type": "ally",
+      "description": "Tông Chủ kính trọng Thái Thượng Trưởng Lão"
+    },
+    {
+      "source": "ho_mi_co",
+      "target": "ho_nguyet_nhi",
+      "type": "ally",
+      "description": "Tông Chủ và Trưởng Lão phối hợp quản lý"
+    },
+    {
+      "source": "ho_mi_co",
+      "target": "pham_diem_tinh",
+      "type": "ally",
+      "description": "Tông Chủ tin cậy Trưởng Lão"
+    },
+    {
+      "source": "ly_huyet_than",
+      "target": "pham_huyet_dao",
+      "type": "ally",
+      "description": "Minh Chủ tin cậy Hữu Sứ"
+    },
+    {
+      "source": "ly_huyet_than",
+      "target": "tran_huyet_anh",
+      "type": "ally",
+      "description": "Minh Chủ dựa vào Tả Sứ"
+    },
+    {
+      "source": "ly_huyet_than",
+      "target": "nguyen_huyet_sat",
+      "type": "ally",
+      "description": "Minh Chủ kính trọng Trưởng Lão"
+    },
+    {
+      "source": "vu_huyet_cuong",
+      "target": "dang_huyet_linh",
+      "type": "ally",
+      "description": "Chiến Đấu Đường và Hộ Pháp phối hợp chiến trường"
+    },
+    {
+      "source": "ly_co_gioi",
+      "target": "tran_thien_co",
+      "type": "ally",
+      "description": "Phường Chủ kính trọng Thái Thượng Trưởng Lão"
+    },
+    {
+      "source": "ly_co_gioi",
+      "target": "nguyen_duc_kim",
+      "type": "ally",
+      "description": "Phường Chủ phối hợp với Trưởng Lão"
+    },
+    {
+      "source": "ly_co_gioi",
+      "target": "pham_thiet_duc",
+      "type": "ally",
+      "description": "Phường Chủ và Trưởng Lão Cơ Giới Viện hợp tác"
+    },
+    {
+      "source": "ly_co_gioi",
+      "target": "hoang_than_lo",
+      "type": "ally",
+      "description": "Phường Chủ tin cậy Trưởng Lão"
+    },
+    {
+      "source": "tran_thien_co",
+      "target": "dang_linh_co",
+      "type": "ally",
+      "description": "Hai Trưởng Lão cùng nghiên cứu cơ giới"
+    },
+    {
+      "source": "le_luyen_kim",
+      "target": "vu_tieu_duc",
+      "type": "ally",
+      "description": "Đồng môn đệ tử cùng nghiên cứu"
+    },
+    {
+      "source": "giao_thien_hai",
+      "target": "giao_nguyet_le",
+      "type": "ally",
+      "description": "Minh Chủ và Phó Minh Chủ phối hợp lãnh đạo liên minh"
+    },
+    {
+      "source": "giao_thien_hai",
+      "target": "giao_bang_ngoc_tam",
+      "type": "ally",
+      "description": "Minh Chủ tin cậy Trưởng Lão trong quyết sách"
+    },
+    {
+      "source": "giao_thien_hai",
+      "target": "giao_bach_le_hoa",
+      "type": "ally",
+      "description": "Minh Chủ dựa vào Mưu Sĩ cho chiến lược"
+    },
+    {
+      "source": "giao_nguyet_le",
+      "target": "giao_bach_le_hoa",
+      "type": "ally",
+      "description": "Phó Minh Chủ và Mưu Sĩ cùng hoạch định"
+    },
+    {
+      "source": "giao_nguyet_le",
+      "target": "giao_han_ngoc",
+      "type": "ally",
+      "description": "Phó Minh Chủ điều phối chiến đội"
+    },
+    {
+      "source": "giao_han_ngoc",
+      "target": "giao_huyet_le",
+      "type": "ally",
+      "description": "Chiến Đội Trưởng phối hợp với sát thủ"
+    },
+    {
+      "source": "giao_bang_ngoc_tam",
+      "target": "giao_han_phong_nguyet",
+      "type": "ally",
+      "description": "Trưởng Lão và Huấn Luyện Sư phối hợp đào tạo"
+    },
+    {
+      "source": "giao_lam_nguyet",
+      "target": "giao_tuyet_hoa",
+      "type": "ally",
+      "description": "Y Sư và Hộ Sản Sư hợp tác chăm sóc tộc nhân"
+    },
+    {
+      "source": "giao_ngoc",
+      "target": "giao_bich_hai",
+      "type": "ally",
+      "description": "Kho Báu Thủ và Dệt Sư cùng quản lý tài sản"
+    },
+    {
+      "source": "giao_thien_le_vu",
+      "target": "giao_bich_hai",
+      "type": "ally",
+      "description": "Ngọc Trai Sư và Dệt Sư phối hợp sản xuất"
+    },
+    {
+      "source": "giao_van_thien_ha",
+      "target": "giao_thien_suong",
+      "type": "ally",
+      "description": "Ngoại Giao và Liên Lạc phối hợp đối ngoại"
+    },
+    {
+      "source": "giao_thanh_ha_vu",
+      "target": "giao_phong_lang",
+      "type": "ally",
+      "description": "Thợ Rèn cung cấp vũ khí cho chiến sĩ"
+    },
+    {
+      "source": "giao_lam_thien",
+      "target": "giao_phong_lang",
+      "type": "ally",
+      "description": "Canh Gác và Chiến Sĩ bảo vệ lãnh thổ"
+    },
+    {
+      "source": "giao_le_van",
+      "target": "giao_bach_phat",
+      "type": "ally",
+      "description": "Thủ Lĩnh Ngầm dựa vào uy tín của Trưởng Lão"
+    },
+    {
+      "source": "giao_phan_hai",
+      "target": "giao_vo_danh",
+      "type": "ally",
+      "description": "Hai phản kháng ngầm đồng tâm"
+    },
+    {
+      "source": "giao_phan_hai",
+      "target": "giao_tan_ty",
+      "type": "ally",
+      "description": "Phản Kháng và thợ dệt cùng chia sẻ nỗi khổ"
+    },
+    {
+      "source": "giao_kho_hai",
+      "target": "giao_mong_hai",
+      "type": "ally",
+      "description": "Hai thợ dệt bần dân nương tựa lẫn nhau"
+    },
+    {
+      "source": "nha_huyen_da_phong",
+      "target": "hung_nha_bach_tuc",
+      "type": "ally",
+      "description": "Liên Trưởng kính trọng Ngô Công Tướng mạnh nhất"
+    },
+    {
+      "source": "hung_nha_bach_tuc",
+      "target": "manh_nham",
+      "type": "ally",
+      "description": "Hai chiến sĩ mạnh nhất liên, phối hợp tiên phong"
+    },
+    {
+      "source": "am_ky_giap",
+      "target": "ung_manh",
+      "type": "ally",
+      "description": "Kỵ sĩ và chiến sĩ phối hợp đột kích"
+    },
+    {
+      "source": "nha_huyen_da_phong",
+      "target": "am_ky_giap",
+      "type": "ally",
+      "description": "Liên Trưởng dựa vào kỵ sĩ giáp trùng"
+    },
+    {
+      "source": "nha_huyen_da_phong",
+      "target": "ung_manh",
+      "type": "ally",
+      "description": "Liên Trưởng tin tưởng chiến sĩ dũng mãnh"
+    },
+    {
+      "source": "hung_thien_son_hong",
+      "target": "hung_co_moc",
+      "type": "ally",
+      "description": "Đình Chủ và Phó Đình Chủ phối hợp cai quản"
+    },
+    {
+      "source": "hung_thien_son_hong",
+      "target": "bao_van_anh",
+      "type": "ally",
+      "description": "Đình Chủ tin tưởng Trưởng Lão Báo"
+    },
+    {
+      "source": "hung_thien_son_hong",
+      "target": "mang_hac_van",
+      "type": "ally",
+      "description": "Đình Chủ kính trọng Mãng Trưởng Lão"
+    },
+    {
+      "source": "hung_co_moc",
+      "target": "xa_thuy_huyen",
+      "type": "ally",
+      "description": "Phó Đình Chủ phối hợp với Xà Tộc"
+    },
+    {
+      "source": "ho_thanh_lang",
+      "target": "ho_bach_nhan",
+      "type": "ally",
+      "description": "Hai Hồ Tộc chiến sĩ phối hợp"
+    },
+    {
+      "source": "ho_thanh_lang",
+      "target": "ho_han_phong",
+      "type": "ally",
+      "description": "Hồ Tộc chiến sĩ đồng hành"
+    },
+    {
+      "source": "ho_thanh_lang",
+      "target": "ho_liet_diem",
+      "type": "ally",
+      "description": "Hồ Tộc đội ngũ chiến đấu"
+    },
+    {
+      "source": "lang_thien_no",
+      "target": "nha_huyen_da",
+      "type": "ally",
+      "description": "Lang và Nha Tộc phối hợp tuần tra"
+    },
+    {
+      "source": "mang_hac_van",
+      "target": "mang_ngan_thu",
+      "type": "ally",
+      "description": "Hai Mãng Trưởng Lão cùng cai quản"
+    },
+    {
+      "source": "mang_hac_van",
+      "target": "mang_dia_hoang",
+      "type": "ally",
+      "description": "Mãng Trưởng Lão và chiến sĩ phối hợp"
+    },
+    {
+      "source": "bao_van_anh",
+      "target": "dieu_thien_huong",
+      "type": "ally",
+      "description": "Trưởng Lão Báo và Điêu Tộc phối hợp trinh sát"
+    },
+    {
+      "source": "vien_thien_tho",
+      "target": "thu_linh_nhi",
+      "type": "ally",
+      "description": "Viên Tộc và Thử Tộc phối hợp"
+    },
+    {
+      "source": "xa_thuy_huyen",
+      "target": "mang_dia_hoang",
+      "type": "ally",
+      "description": "Xà và Mãng đồng tộc hợp tác"
+    },
+    {
+      "source": "ho_that_cuu",
+      "target": "ho_diem_nuong",
+      "type": "ally",
+      "description": "Hai Hồ Tộc lãnh đạo phối hợp cai quản"
     }
   ],
   "factions": [
