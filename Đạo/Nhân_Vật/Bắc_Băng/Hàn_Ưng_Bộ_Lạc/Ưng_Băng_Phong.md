@@ -69,6 +69,24 @@ arcs:
           tin: 80
           so: 0
           on: 15
+      - character: Cú Bạch Dạ
+        description: Dạ Trinh Sát đồng liêu, kẻ tin tưởng để lưng khi phối hợp đêm
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 30
+          tin: 70
+          so: 0
+          on: 0
+      - character: Ưng Lãnh Phong
+        description: Trinh sát đồng lứa, hay trao đổi thông tin chiến trường
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 20
+          tin: 65
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ƯNG BĂNG PHONG (鷹冰鋒)
