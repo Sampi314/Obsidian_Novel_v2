@@ -79,7 +79,7 @@ arcs:
 - [ ] Lâm Phong (Tán Tu) — nhân vật chính
 - [ ] Lệ Vô Tâm (Vạn Độc Môn) — phản diện chính ← **ĐANG LÀM**
 - [ ] Diệp Tĩnh Sương (Cửu Hoa Kiếm Tông)
-- [ ] A Ngốc (Tán Tu) — nhân vật đặc biệt
+- [x] A Ngốc (Tán Tu) — nhân vật đặc biệt
 - [ ] Nam Cương (nhân vật chính khu vực)
 - [ ] Độc Cô Lão Quái (Vạn Độc Môn)
 
@@ -198,3 +198,4 @@ Tên file = tên nhân vật với `_` thay khoảng trắng (có dấu Tiếng 
 | 2026-03-20 | Claude Code | Lý Tuyết Ưng (DONE) | Checked 3 refs (Đan Dương Tử, Ưng Bạch Đế, A Ngốc), fixed 1 missing reciprocal in A Ngốc's YAML |
 | 2026-03-20 | Claude Code | Nham Thần (DONE) | Checked 8 refs, fixed 7: added YAML for Loa Thiên Âm Hải, Ngư Vạn Hải, Giao Lệ Hoa Nguyệt, Ngư Hồ Tiên, Nấm Cổ Thụ, A Ngốc; added Độc Lập group to Nham Thần YAML; added Nham Thần to Diệp Tĩnh Sương Section VI |
 | 2026-03-20 | Claude Code | Lục Tiêu (DONE) | Checked 5 refs (Nguyệt Dao, A Ngốc, Diệp Thanh Y, Lâm Phong, Hắc Hạt Ma Trùng), all already bidirectional, no fixes needed |
+| 2026-03-20 | Claude Code | A Ngốc (DONE) | Checked 5 YAML + 9 markdown refs, fixed 3 missing reciprocals in A Ngốc's YAML (Nguyệt Dao, Sở Lăng Sương, Lâm Phong) |
