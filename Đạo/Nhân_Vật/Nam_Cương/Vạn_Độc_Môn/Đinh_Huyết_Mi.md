@@ -92,6 +92,8 @@ arcs:
 - **Bạch Vô Ảnh:** Tam Sát, đồng đội thân thiết, hay ganh đua về số mục tiêu hạ được.
 - **Hắc Dạ:** Tứ Sát, đồng đội trầm lặng mà cô tôn trọng về kỹ năng.
 - **Liễu Lãnh Huyết:** Xà Chi Hộ Pháp, cấp trên mà cô ngưỡng mộ và muốn vượt qua.
+- **Diệp Thanh Trúc:** Ngũ Sát, sư muội ngưỡng mộ cô nhưng không muốn bắt chước.
+- **Tiêu Vô Hận:** Thất Sát, đàn em trẻ nhất mà cô biết hắn ngầm sợ hãi mình.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Đinh Huyết Mi sinh ra trong một gia đình quý tộc sa sút, từ nhỏ được dạy về sắc đẹp và mưu mô. Khi gia đình bị tiêu diệt bởi đối thủ chính trị, cô trốn chạy đến Nam Cương và gia nhập Vạn Độc Môn để có sức mạnh trả thù. Sự kiện then chốt là khi cô hoàn thành nhiệm vụ ám sát đầu tiên - giết chết kẻ thù của gia đình bằng nụ hôn tẩm kịch độc. Mục tiêu hiện tại là leo lên vị trí Nhất Sát và trở thành sát thủ đáng sợ nhất Nam Cương.

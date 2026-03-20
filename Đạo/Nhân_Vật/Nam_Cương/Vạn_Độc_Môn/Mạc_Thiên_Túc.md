@@ -83,6 +83,7 @@ Mạc Thiên Túc chuyên về Ngô Công Độc Thuật, cơ thể đã bán du
 - **Liễu Lãnh Huyết:** Xà Chi Hộ Pháp, đồng liêu mà ông bị coi thường, luôn muốn chứng minh mình mạnh hơn.
 - **Đàm Trầm Thủy:** Thiềm Chi Hộ Pháp, đồng liêu mà ông ngại vì tính cách âm hiểm.
 - **Ngô Công Trưởng Lão:** sư phụ truyền thụ Ngô Công Độc Thuật, ông kính trọng tuyệt đối.
+- **A Mộc:** Chân Truyền Đệ Tử, kẻ dưới mà ông hay bắt nạt vì xem thường tính hiền lành.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mạc Thiên Túc sinh ra trong một bộ lạc thợ săn rết ở vùng rừng rậm sâu, từ nhỏ đã sống cùng bầy rết khổng lồ. Bộ lạc bị Vạn Độc Môn thôn tính, ông buộc phải gia nhập hoặc chết. Sự kiện then chốt là khi ông nuốt sống một con rết vương trong nghi lễ nhập môn, đau đớn suýt chết nhưng sống sót và có được sức mạnh phi thường. Mục tiêu hiện tại đơn giản là trở nên mạnh hơn để không ai dám coi thường ông nữa.
