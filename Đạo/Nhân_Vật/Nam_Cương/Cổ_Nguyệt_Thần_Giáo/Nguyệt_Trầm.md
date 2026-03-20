@@ -20,10 +20,10 @@ arcs:
         feelings:
           yeu: 0
           han: 0
-          kinh: 0
-          tin: 0
+          kinh: 40
+          tin: 45
           so: 0
-          on: 0
+          on: 35
       - character: Mộng Yểm
         description: Trưởng Lão Tế Tư, bạn uống rượu thân thiết, người duy nhất mà ông thoải mái bộc lộ suy nghĩ thật
         feelings:
