@@ -25907,6 +25907,51 @@ const relationshipData = {
       "description": "Hoàng Hồng Vũ là một nam tử vạm vỡ, để râu quai nón, luôn khoác trên mình bộ hồng y đặc trưng của Hồng Hoa Phong cùng một thanh cự kiếm màu đỏ rực đeo sau lưng. Tính cách y bộc trực, nóng nảy và vô cùng hiếu chiến, hệt như ngọn lửa cháy rực. Tuy nhiên, đằng sau vẻ ngoài thô lỗ đó lại là một người trọng tình trọng nghĩa, luôn sẵn sàng xả thân để bảo vệ sư huynh đệ đồng môn."
     },
     {
+      "id": "ly_ngoc_duoc",
+      "name": "Lý Ngọc Dược",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#4caf50",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Ngọc Hoa Linh Y Quyết",
+      "personality": "Điềm đạm, Cẩn thận, Nhân từ",
+      "description": "Lý Ngọc Dược khoác đạo bào xanh nhạt thêu thảo dược, toát lên khí tức ôn hòa như mùa xuân. Bàn tay y luôn thoang thoảng hương đan dược."
+    },
+    {
+      "id": "ly_ngoc_phong",
+      "name": "Lý Ngọc Phong",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Bách Thảo Kiếm Pháp",
+      "personality": "Hoạt bát, Nhiệt tình, Chăm chỉ",
+      "description": "Lý Ngọc Phong dáng người nhỏ nhắn, linh hoạt. Bên hông luôn đeo giỏ tre hái thuốc và môi luôn nở nụ cười tươi tắn."
+    },
+    {
+      "id": "ly_thanh_ha",
+      "name": "Lý Thanh Hà",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#00bcd4",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Thanh Phong Tật Ảnh Kiếm",
+      "personality": "Sắc sảo, Thông tuệ, Lanh lợi",
+      "description": "Lý Thanh Hà mang vẻ đẹp sắc sảo, mắt sáng như sao. Trang phục thanh y gọn gàng giúp nàng hòa mình vào bóng đêm để làm nhiệm vụ trinh sát."
+    },
+    {
       "id": "hoang_tuyet_lien",
       "name": "Hoàng Tuyết Liên",
       "title": "Chân Truyền",
@@ -59978,6 +60023,54 @@ const relationshipData = {
       "target": "le_thien_vu",
       "type": "family",
       "description": "Lê Tiểu Liên coi biểu ca Lê Thiên Vũ là 'lá chắn' để trốn tội với tỷ tỷ."
+    },
+    {
+      "source": "ly_ngoc_duoc",
+      "target": "nguyen_tinh_kiem",
+      "type": "Sư Đồ",
+      "strength": 85,
+      "bidirectional": true,
+      "description": "Sư tôn kính yêu, người truyền toàn bộ y thuật."
+    },
+    {
+      "source": "ly_ngoc_duoc",
+      "target": "ly_ngoc_phong",
+      "type": "Đồng Môn",
+      "strength": 75,
+      "bidirectional": true,
+      "description": "Thần tượng sư huynh mà Lý Ngọc Phong luôn đi theo học hỏi luyện đan."
+    },
+    {
+      "source": "ly_ngoc_duoc",
+      "target": "doan_ngoc_tam",
+      "type": "Đồng Môn",
+      "strength": 80,
+      "bidirectional": true,
+      "description": "Đồng môn thân thiết cùng nghiên cứu phương thuốc."
+    },
+    {
+      "source": "ly_thanh_ha",
+      "target": "ly_thanh_phong",
+      "type": "Sư Đồ",
+      "strength": 80,
+      "bidirectional": true,
+      "description": "Sư tôn dạy dỗ kỹ năng tình báo tinh vi."
+    },
+    {
+      "source": "ly_thanh_ha",
+      "target": "chu_minh_nguyet",
+      "type": "Đồng Môn",
+      "strength": 70,
+      "bidirectional": true,
+      "description": "Kề vai sát cánh hỗ trợ các nhiệm vụ ngoại giao."
+    },
+    {
+      "source": "ly_thanh_ha",
+      "target": "ly_ngoc_phong",
+      "type": "Bằng Hữu",
+      "strength": 65,
+      "bidirectional": true,
+      "description": "Trao đổi tin tức giang hồ lấy đan dược."
     }
   ],
   "meta": {
