@@ -36,6 +36,24 @@ arcs:
           tin: 20
           so: 15
           on: 0
+      - character: Ngư Quỷ Diện
+        description: Sát thủ Vực Thẳm Ma Cung, kẻ thù từng chạm trán trên mặt biển
+        feelings:
+          yeu: -20
+          han: 30
+          kinh: -10
+          tin: -40
+          so: 5
+          on: -20
+      - character: Thâm Hải
+        description: Ma Cung Chủ Vực Thẳm Ma Cung, kẻ thù tiềm ẩn đang âm thầm rình rập
+        feelings:
+          yeu: -30
+          han: 40
+          kinh: 30
+          tin: -60
+          so: 15
+          on: -40
 ---
 
 # HỒ SƠ NHÂN VẬT: LỆ NHƯỢC THỦY (麗若水)
