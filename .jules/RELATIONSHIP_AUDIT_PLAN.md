@@ -84,7 +84,7 @@ arcs:
 - [ ] Độc Cô Lão Quái (Vạn Độc Môn)
 
 ### Tier 2 — Nhân Vật Phụ Quan Trọng (19 POV characters)
-- [ ] Đan Dương Tử (Đan Hà Cốc)
+- [x] Đan Dương Tử (Đan Hà Cốc)
 - [ ] Diệp Thanh Y
 - [ ] Hắc Hạt Ma Trùng
 - [ ] Hàn Thanh Nguyệt
@@ -188,3 +188,4 @@ Tên file = tên nhân vật với `_` thay khoảng trắng (có dấu Tiếng 
 |------|-------|-------------------|---------|
 | 2026-03-20 | Claude Code | Lệ Vô Tâm (đang làm) | Đang kiểm tra Độc Cô Lão Quái, Diệp Tĩnh Sương, Lâm Phong |
 | 2026-03-20 | Claude Code | Nam Cương main cast (đang làm) | Lâm Phong, Diệp Tĩnh Sương, Đan Dương Tử, Diệp Thanh Y, Độc Cô Lão Quái |
+| 2026-03-20 | Claude Code | Đan Dương Tử (DONE) | Checked 15 refs, fixed 13 missing bidirectional links (Đan Hà Cốc subordinates + Hứa Nhược Thủy + Liễu Như Yên) |
