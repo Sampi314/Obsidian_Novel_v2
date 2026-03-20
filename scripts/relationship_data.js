@@ -2715,6 +2715,38 @@ const relationshipData = {
       "weapon": "đều tiêu hao tuổi thọ"
     },
     {
+      "id": "ly_van_trieu",
+      "name": "Lý Vạn Triều",
+      "title": "Phó Hội Trưởng",
+      "realm": "Luyện Khí Sơ Kỳ",
+      "faction": "Ngư Dân Tu Luyện Hội",
+      "region": "Vô Tận Hải",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#a1c4fd",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Triều Tức Dẫn Khí Pháp",
+      "personality": "Bảo thủ, Cố chấp, Bảo vệ",
+      "description": "Lý Vạn Triều là một lão ngư dân ngoài sáu mươi tuổi, thân hình gầy guộc nhưng gân guốc, da sạm đen và nhăn nheo như rễ cây đước sau hàng chục năm phơi mình dưới nắng gió Vô Tận Hải. Ông thường mặc bộ áo quần vải thô vá víu, đầu đội chiếc nón lá rách tươm, toát lên vẻ khắc khổ và từng trải.",
+      "weapon": "Thiết Xoa (Đinh ba sắt)"
+    },
+    {
+      "id": "tran_hai_yen",
+      "name": "Trần Hải Yến",
+      "title": "Đệ Tử Trẻ",
+      "realm": "Luyện Khí Tam Tầng",
+      "faction": "Ngư Dân Tu Luyện Hội",
+      "region": "Vô Tận Hải",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#a1c4fd",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Triều Tức Dẫn Khí Pháp",
+      "personality": "Hoạt bát, Nhiệt tình, Tò mò",
+      "description": "Trần Hải Yến là một thiếu nữ mười sáu tuổi mang vẻ đẹp khỏe khoắn, rạng rỡ của người con gái vùng biển. Làn da ngăm đồng vì nắng gió, mái tóc đen dày thường được tết gọn gàng hoặc búi cao bằng một dải tảo biển khô. Đôi mắt nàng sáng trong, lanh lợi.",
+      "weapon": "Dao nhỏ bằng xương cá"
+    },
+    {
       "id": "quy_co_bang",
       "name": "Quy Cổ Băng",
       "title": "Cố Vấn",
@@ -28015,6 +28047,42 @@ const relationshipData = {
       "target": "chau_pha_thien",
       "type": "enemy",
       "description": "Đội trưởng Phá Băng Thương Đội, đối tác thương mại duy nhất biết thân phận thật của tộc"
+    },
+    {
+      "source": "ly_van_trieu",
+      "target": "ly_tieu_ba",
+      "type": "family",
+      "description": "Lý Vạn Triều là chú ruột, luôn lo lắng sự đột phá của Tiểu Ba sẽ mang lại tai họa."
+    },
+    {
+      "source": "ly_van_trieu",
+      "target": "tran_hai_yen",
+      "type": "mentor",
+      "description": "Lý Vạn Triều là sư phụ truyền đạt kinh nghiệm đánh bắt cho Hải Yến."
+    },
+    {
+      "source": "ly_van_trieu",
+      "target": "ly_dai_hai",
+      "type": "subordinate",
+      "description": "Lý Vạn Triều âm thầm nể phục và tuân theo Lão Ngư Ông Lý Đại Hải."
+    },
+    {
+      "source": "tran_hai_yen",
+      "target": "ly_tieu_ba",
+      "type": "ally",
+      "description": "Trần Hải Yến ngưỡng mộ và thường bám theo Lý Tiểu Ba."
+    },
+    {
+      "source": "tran_hai_yen",
+      "target": "ly_van_trieu",
+      "type": "disciple",
+      "description": "Trần Hải Yến là đệ tử học nghề đánh bắt từ Lý Vạn Triều."
+    },
+    {
+      "source": "tran_hai_yen",
+      "target": "ly_dai_hai",
+      "type": "subordinate",
+      "description": "Trần Hải Yến vô cùng sùng bái Lão Ngư Ông Lý Đại Hải."
     },
     {
       "source": "ho_ngoc_chau",

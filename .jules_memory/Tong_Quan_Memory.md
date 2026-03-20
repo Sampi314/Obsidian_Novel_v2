@@ -3,8 +3,8 @@
 - Hoàn thành Task 9 cho 3 nhân vật Kim Sa Vi Mạch - Tây Mạc.
 
 ## PHIÊN GẦN NHẤT
-- Hoàn thành chi tiết nhân vật cho **Sương Vô Tình**, **Tuyệt Tình Hàn**, và **Ám Băng Nhi** (Sương Ma Uyển - Bắc Băng).
+- Hoàn thành chi tiết nhân vật cho **Lý Vạn Triều** và **Trần Hải Yến** (Ngư Dân Tu Luyện Hội - Vô Tận Hải).
 - Đã điền các phần Ngoại Hình & Tính Cách, Năng Lực & Chiến Đấu, Các Mối Quan Hệ, và Tiểu Sử & Hành Trình.
-- Đã cập nhật `scripts/relationship_data.js` để bao gồm 3 nhân vật này và các mối quan hệ của họ.
-- Đã cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md` thêm 3 nhân vật mới.
+- Đã cập nhật `scripts/relationship_data.js` để bao gồm 2 nhân vật này và các mối quan hệ của họ.
+- Đã cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md` thêm 2 nhân vật mới.
 - Đã cập nhật `INSTRUCTIONS.md` để đánh dấu tiến độ Task 9.
