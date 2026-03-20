@@ -12,7 +12,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Sương Ma Uyển (Bắc Băng)
+### [Hiện Tại] - Hoàn thiện nhân vật Lông Vũ Phường, Địa Tâm Thám Hiểm Đội, San Hô Thủ Hộ Đoàn (Tây Mạc)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Oanh Sa Ngân (Lông Vũ Phường), Thâm Nham (Địa Tâm Thám Hiểm Đội), Thủy Linh Nhi (San Hô Thủ Hộ Đoàn) thuộc khu vực Tây Mạc.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật bộ nhớ và Trạng Thái Hiện Tại.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Sương Ma Uyển (Bắc Băng)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Sương Vô Tình, Tuyệt Tình Hàn, Ám Băng Nhi thuộc khu vực Bắc Băng.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
