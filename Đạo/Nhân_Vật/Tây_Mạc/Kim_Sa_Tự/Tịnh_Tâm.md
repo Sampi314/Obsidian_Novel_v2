@@ -32,7 +32,9 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Phổ Tế** (Sư phụ): Phổ Tế chỉ dẫn Tịnh Tâm trong Kim Sa Tự
+- **Pháp Không** (Chủ tớ): Thủ hạ trung thành trong Kim Sa Tự
+- **Giới Trần** (Sư phụ): Giới Trần dẫn dắt Tịnh Tâm trong Kim Sa Tự
+- **Viên Thông** (Sư phụ): Tịnh Tâm chỉ dẫn Viên Thông trong Kim Sa Tự
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

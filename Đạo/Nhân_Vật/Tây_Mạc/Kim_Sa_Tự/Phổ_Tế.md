@@ -50,9 +50,12 @@ Phổ Tế mang dáng vẻ của một vị lão tăng nhân hậu — thân hì
 Phổ Tế thiên về Phật pháp tinh thần và trị liệu hơn là chiến đấu trực diện. Kỹ thuật sở trường là *Phổ Độ Kim Quang* (普度金光) — hắn phóng ra luồng kim quang Phật lực bao phủ phạm vi rộng, chữa lành vết thương, xua tan tà khí và giải trừ độc tố cho tất cả đồng minh trong phạm vi trăm trượng. Thuật thứ hai là *Tâm Ấn Phật Thủ* (心印佛手) — hắn ấn tay lên trán đối phương, dùng Phật lực xâm nhập thần thức, có thể trấn áp tâm ma, phong tỏa ký ức tà niệm, hoặc khiến kẻ thù rơi vào trạng thái mê muội nhất thời mất hết ý chí chiến đấu. Đây là thuật dùng để "cảm hóa" hơn là "tiêu diệt" — hoàn toàn phù hợp với triết lý Phổ Độ. Điểm yếu: sức tấn công trực tiếp yếu, nếu đối thủ có tâm tính cực kỳ vững vàng hoặc tu vi vượt trội, Tâm Ấn Phật Thủ sẽ thất bại.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Minh Ngộ** (Sư phụ): Phổ Tế chỉ dẫn Minh Ngộ trong Kim Sa Tự
+- **Pháp Không** (Đồng minh): Đồng liêu cùng Kim Sa Tự, hỗ trợ lẫn nhau
+- **Giới Trần** (Sư phụ): Giới Trần dẫn dắt Phổ Tế trong Kim Sa Tự
+- **Tịnh Tâm** (Sư phụ): Phổ Tế chỉ dẫn Tịnh Tâm trong Kim Sa Tự
 - **Không Độ:** Trụ Trì, sư huynh trưởng. Hai vị cùng nhau quản lý Kim Sa Tự — Không Độ lo việc tu luyện và trấn áp bên ngoài, Phổ Tế lo nội chính và ngoại giao. Hắn tôn trọng tuyệt đối mọi quyết định của Trụ Trì.
 - **Kim Cương:** Sư đệ Hộ Pháp. Phổ Tế thường phải dùng sự khéo léo để dọn dẹp hậu quả mỗi khi Kim Cương "quá tay" với kẻ xâm phạm — đập người xong thì Phổ Tế phải ra xin lỗi và thương lượng bồi thường.
 - **Thiên Sa Thương Hội:** Đối tác thương mại chính. Phổ Tế đàm phán mọi hợp đồng giao thương kim sa tinh và cung ứng hộ vệ cho đoàn buôn, đảm bảo nguồn thu kinh tế cho chùa.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phổ Tế xuất thân từ một gia đình thương nhân nhỏ ở vùng ốc đảo Tây Mạc. Thuở nhỏ, hắn nổi tiếng thông minh và giỏi nói chuyện — mười tuổi đã giúp cha đàm phán mua bán với đoàn buôn lớn. Khi mười hai tuổi, một trận dịch bệnh lạ quét qua ốc đảo, hắn chứng kiến hàng trăm người chết mà không ai cứu được, kể cả thầy thuốc giỏi nhất. Chính lúc tuyệt vọng nhất, một vị tăng lữ Kim Sa Tự đi ngang qua dùng Phổ Độ Kim Quang chữa lành cho những người còn sống sót. Hắn quỳ xin xuất gia ngay tại chỗ. Trong chùa, hắn nhanh chóng nổi bật vì trí tuệ uyên bác và khả năng giao tiếp vượt trội, được Trụ Trì giao phụ trách mọi công việc đối ngoại. Nguyện vọng lớn nhất của hắn là thành lập một mạng lưới y liệu Phật pháp phủ khắp các ốc đảo Tây Mạc, để không ai phải chết vì thiếu người cứu chữa như năm xưa.

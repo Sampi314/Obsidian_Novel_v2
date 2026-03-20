@@ -32,7 +32,8 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Tịnh Tâm** (Sư phụ): Tịnh Tâm chỉ dẫn Viên Thông trong Kim Sa Tự
+- **Pháp Không** (Đồng minh): Đồng liêu cùng Kim Sa Tự, hỗ trợ lẫn nhau
+- **Giới Trần** (Sư phụ): Giới Trần dẫn dắt Viên Thông trong Kim Sa Tự
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

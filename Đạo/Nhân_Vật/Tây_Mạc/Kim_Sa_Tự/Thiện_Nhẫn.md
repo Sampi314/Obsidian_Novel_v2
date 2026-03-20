@@ -32,7 +32,8 @@ arcs:
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Pháp Không** (Sư phụ): Đệ tử đích truyền, người thừa kế y bát của lão tại Đạt Ma Viện
+- **Giới Trần** (Chủ tớ): Thiện Nhẫn quản lý Giới Trần trong Kim Sa Tự
+- **Huệ Minh** (Chủ tớ): Thiện Nhẫn quản lý Huệ Minh trong Kim Sa Tự
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
