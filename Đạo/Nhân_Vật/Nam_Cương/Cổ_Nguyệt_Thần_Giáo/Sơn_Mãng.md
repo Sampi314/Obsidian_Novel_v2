@@ -27,12 +27,12 @@ arcs:
       - character: Đằng Hổ
         description: Phó Trưởng Lão Đồ Đằng, sư thúc hay kéo hắn đi uống rượu và kể chuyện chiến trường
         feelings:
-          yeu: 0
+          yeu: 30
           han: 0
-          kinh: 0
-          tin: 0
+          kinh: 55
+          tin: 50
           so: 0
-          on: 0
+          on: 40
       - character: Vu Huyền Nương
         description: Đệ Nhị Phó Tư Tế, thường hộ tống bà trong các nhiệm vụ, thầm ngưỡng mộ trí tuệ và sắc đẹp của bà
         feelings:
