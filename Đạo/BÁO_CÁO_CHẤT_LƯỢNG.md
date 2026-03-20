@@ -12,7 +12,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang)
+### [Hiện Tại] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang) - Phần 2
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Chu Thanh Trúc, Chu Tiểu Thanh, Hoàng Hồng Vũ thuộc khu vực Đông Hoang.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Chu Minh Nguyệt, Chu Phong Kiếm, Hoàng Thanh Trúc thuộc khu vực Đông Hoang.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
