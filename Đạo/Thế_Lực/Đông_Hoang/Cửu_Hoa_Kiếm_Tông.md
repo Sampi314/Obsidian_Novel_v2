@@ -34,15 +34,13 @@ arcs:
     stats: [12000, 8000, 14000, 5000, 13000, 11000]
     divisions:
       - name: Thiên Hoa Phong
-        role: Tổng đàn điều hành, chính trị và tài chính
+        role: Tổng đàn điều hành, chính trị, tài chính. Nơi Tông Chủ, Thái Thượng, Hộ Pháp trú ngụ.
         headcount:
           thai_thuong: 5
           ho_phap: 6
           truong_lao: 1
           chan_truyen: 2
           noi_mon: 15
-          ngoai_mon: 30
-          tap_dich: 2000
         members:
           - character: Lục Trần
             position: Tông Chủ
@@ -68,13 +66,9 @@ arcs:
       - name: Bạch Hoa Phong
         role: Huấn luyện kiếm pháp và chiến đấu thực tế
         headcount:
-          thai_thuong: 0
-          ho_phap: 0
           truong_lao: 1
           chan_truyen: 2
           noi_mon: 12
-          ngoai_mon: 25
-          tap_dich: 800
         members:
           - character: Lê Hàn Sương
             position: Phong Chủ
@@ -88,13 +82,9 @@ arcs:
       - name: Hồng Hoa Phong
         role: Công kích kiếm pháp và trận chiến thực địa
         headcount:
-          thai_thuong: 0
-          ho_phap: 0
           truong_lao: 1
           chan_truyen: 2
           noi_mon: 12
-          ngoai_mon: 25
-          tap_dich: 800
         members:
           - character: Trần Hồng Kiếm
             position: Phong Chủ
@@ -108,13 +98,9 @@ arcs:
       - name: Kim Hoa Phong
         role: Luyện khí, rèn kiếm và chế tạo pháp khí
         headcount:
-          thai_thuong: 0
-          ho_phap: 0
           truong_lao: 1
           chan_truyen: 2
           noi_mon: 10
-          ngoai_mon: 20
-          tap_dich: 1200
         members:
           - character: Vương Kim Tỏa
             position: Phong Chủ
@@ -128,13 +114,9 @@ arcs:
       - name: Ngọc Hoa Phong
         role: Đan dược, y liệu và dưỡng sinh
         headcount:
-          thai_thuong: 0
-          ho_phap: 0
           truong_lao: 1
           chan_truyen: 2
           noi_mon: 10
-          ngoai_mon: 20
-          tap_dich: 800
         members:
           - character: Nguyễn Tĩnh Kiếm
             position: Phong Chủ
@@ -148,13 +130,9 @@ arcs:
       - name: Tử Hoa Phong
         role: Trận pháp, cấm chế và phòng thủ
         headcount:
-          thai_thuong: 0
-          ho_phap: 0
           truong_lao: 1
           chan_truyen: 2
           noi_mon: 8
-          ngoai_mon: 18
-          tap_dich: 600
         members:
           - character: Mã Tử Vân
             position: Phong Chủ
@@ -168,13 +146,9 @@ arcs:
       - name: Thanh Hoa Phong
         role: Tình báo, ngoại giao và quản lý thông tin
         headcount:
-          thai_thuong: 0
-          ho_phap: 0
           truong_lao: 1
           chan_truyen: 2
           noi_mon: 8
-          ngoai_mon: 18
-          tap_dich: 500
         members:
           - character: Lý Thanh Phong
             position: Phong Chủ
@@ -188,13 +162,9 @@ arcs:
       - name: Huyền Hoa Phong
         role: Ám sát, trinh sát và nhiệm vụ bí mật
         headcount:
-          thai_thuong: 0
-          ho_phap: 0
           truong_lao: 1
           chan_truyen: 2
           noi_mon: 8
-          ngoai_mon: 18
-          tap_dich: 400
         members:
           - character: Đặng Huyền Dạ
             position: Phong Chủ
@@ -208,13 +178,9 @@ arcs:
       - name: Nguyệt Hoa Phong
         role: Tu luyện tĩnh tâm, thiền định và nghiên cứu kiếm ý
         headcount:
-          thai_thuong: 0
-          ho_phap: 0
           truong_lao: 1
           chan_truyen: 2
           noi_mon: 10
-          ngoai_mon: 25
-          tap_dich: 900
         members:
           - character: Vũ Phi Kiếm
             position: Phong Chủ
@@ -225,6 +191,43 @@ arcs:
           - character: Lâm Tĩnh Tâm
             position: Chân Truyền Đệ Tử
             cultivation: Kim Đan Trung Kỳ
+      - name: Ngoại Môn Viện
+        role: Quản lý, tuyển sinh và huấn luyện đệ tử ngoại môn chung. Ngoại môn đệ tử chưa được phân vào phong cụ thể.
+        headcount:
+          truong_lao: 7
+          ngoai_mon: 800
+        members:
+          - character: "[Ngoại Môn Đại Trưởng Lão]"
+            position: Ngoại Môn Viện Trưởng
+            cultivation: Nguyên Anh Sơ Kỳ
+            placeholder: true
+          - character: "[Ngoại Môn Nhị Trưởng Lão]"
+            position: Ngoại Môn Phó Viện Trưởng
+            cultivation: Kim Đan Đỉnh Phong
+            placeholder: true
+          - character: Diệp Tĩnh Sương
+            position: Ngoại Môn Đệ Tử
+            cultivation: Trúc Cơ Sơ Kỳ
+          - character: Lâm Phong
+            position: Ngoại Môn Đệ Tử
+            cultivation: Trúc Cơ Sơ Kỳ
+      - name: Hậu Cần Đường
+        role: Tạp dịch, phàm nhân, hậu cần. Phục vụ toàn bộ Cửu Hoa Sơn — bếp, giặt, xây dựng, mã phòng, vận chuyển.
+        headcount:
+          tap_dich: 8000
+        members:
+          - character: Lão Trương
+            position: Tổng Bếp Trưởng
+            cultivation: Phàm Nhân
+          - character: Nguyễn Đại Chùy
+            position: Tổng Quản Rèn Đúc
+            cultivation: Phàm Nhân
+          - character: Phạm Thị Lan
+            position: Quản Sự Giặt Giũ
+            cultivation: Phàm Nhân
+          - character: Trần Tiểu Mộc
+            position: Mã Phòng Quản Sự
+            cultivation: Phàm Nhân
     relationships:
       - faction: Vân Tông
         description: Đồng minh lâu đời, cùng bảo vệ trật tự Chính Đạo Đông Hoang.
