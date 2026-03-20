@@ -101,7 +101,7 @@ arcs:
 - [ ] Ngao Đình
 - [ ] Hứa Nhược Thủy
 - [x] Hứa Thanh Vân
-- [ ] Lý Tuyết Ưng
+- [x] Lý Tuyết Ưng
 - [ ] Bắc Băng (nhân vật chính khu vực)
 
 ### Tier 3 — Nhân Vật Nền (Theo phe phái)
@@ -195,3 +195,4 @@ Tên file = tên nhân vật với `_` thay khoảng trắng (có dấu Tiếng 
 | 2026-03-20 | Claude Code | Ngô Công Trưởng Lão (DONE) | Checked 5 refs, fixed 3 missing bidirectional links (Âu Dương Vô Tích, Ân Mộc Thanh, Mạc Thiên Túc) |
 | 2026-03-20 | Claude Code | Hứa Thanh Vân (DONE) | Checked 1 ref (Hứa Nhược Thủy), already bidirectional, no fixes needed |
 | 2026-03-20 | Claude Code | Phương Vô Kỵ (DONE) | Checked 5 refs, fixed 2: added YAML entry for Lâm Phong, added markdown entries for Nham Thần. Diệp Tĩnh Sương, Ngao Đình, A Ngốc already bidirectional |
+| 2026-03-20 | Claude Code | Lý Tuyết Ưng (DONE) | Checked 3 refs (Đan Dương Tử, Ưng Bạch Đế, A Ngốc), fixed 1 missing reciprocal in A Ngốc's YAML |
