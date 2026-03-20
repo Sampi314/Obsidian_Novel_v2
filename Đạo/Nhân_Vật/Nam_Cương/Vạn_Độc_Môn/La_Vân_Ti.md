@@ -51,6 +51,15 @@ arcs:
           tin: 30
           so: 0
           on: 51
+      - character: Bạch Vô Ảnh
+        description: Tam Sát, kẻ dưới mà bà từng truyền dạy kỹ thuật ẩn thân
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 20
+          tin: 35
+          so: 0
+          on: 15
 ---
 
 # HỒ SƠ NHÂN VẬT: LA VÂN TI (羅雲絲)
