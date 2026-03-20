@@ -52,9 +52,12 @@ arcs:
 Đặng Tiểu Ngư sở hữu linh căn thủy hệ hiếm gặp — phát hiện tình cờ khi cậu vô tình điều khiển nước biển xoáy quanh tay trong lúc bơi, khiến cả đội kinh ngạc. Cậu tự mò mẫm ra *Thủy Tức Thuật* (水息术) — hít thở dưới nước bằng cách hấp thu linh khí thủy hệ hòa tan trong biển, cho phép lặn sâu hơn hai trăm trượng mà không cần nổi lên thở. Chiến đấu cậu gần như bằng không — Luyện Khí Đỉnh Phong nhưng không biết chiêu thức tấn công nào ra hồn, chỉ biết ném đá và bơi chạy. Trương Hải Bằng đang tìm công pháp thủy hệ chính thống cho cậu, vì nếu được đào tạo bài bản, tiềm năng của cậu có thể vượt xa mọi thành viên trong đội.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Trương Hải Bằng** (Chủ tớ): Thủ hạ trung thành trong Thuyền Nhân Hộ Vệ Đội
+- **Trương Hải Bằng** (Cấp dưới): Phục tùng Trương Hải Bằng, Đội Trưởng của Thuyền Nhân Hộ Vệ Đội
+- **Hoàng Lão Cẩu** (Đồng minh): Chiến hữu cùng Thuyền Nhân Hộ Vệ Đội, chiến đấu song song
+- **Lê Hải Yến** (Sư đồ): Lê Hải Yến chỉ dẫn Đặng Tiểu Ngư trong Thuyền Nhân Hộ Vệ Đội
 - **Trương Hải Bằng:** Đội Trưởng, người phát hiện linh căn thủy hệ của cậu và đang bí mật tìm kiếm công pháp phù hợp. Cậu gọi gã là "Lão Bằng" như mọi người, nhưng trong lòng coi gã như cha nuôi.
 - **Vũ Thiết Sơn:** Phó Đội Trưởng phụ trách thuyền cậu đi. Thiết Sơn hay kéo cậu ra tập đánh quyền mỗi sáng dù cậu lười biếng, nhưng chính nhờ vậy mà cậu sống sót qua hai lần bị hải tặc tập kích.
 - **Hoàng Lão Cẩu:** Lão hay kể chuyện ma biển dọa cậu lúc đêm khuya, nhưng cũng là người nhường phần cơm cho cậu khi hết lương thực trên biển.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Đặng Tiểu Ngư sinh ra trên một chiếc thuyền cá giữa biển khơi, mẹ là ngư dân nghèo, cha không rõ danh tính. Mẹ mất khi cậu lên mười vì bệnh, để lại cho cậu chiếc vòng san hô hồng và một chiếc thuyền nan thủng đáy. Cậu sống bằng cách bán cá tươi ở bến cảng Đông Phong, ngày nào cũng lặn xuống biển bắt cá bằng tay không — bơi giỏi đến mức ngư dân cảng đặt cho biệt danh "Tiểu Ngư" vì cậu ở dưới nước nhiều hơn trên bờ. Mười lăm tuổi, cậu xin vào Thuyền Nhân Hộ Vệ Đội làm cậu bé lau thuyền, vì đó là nơi duy nhất cho cậu cơm ăn ba bữa. Một năm trước, trong chuyến hộ tống bình thường, cậu vô tình điều khiển nước biển xoáy quanh tay khi đang bơi kiểm tra thân thuyền — Trương Hải Bằng chứng kiến và nhận ra cậu có linh căn thủy hệ. Từ đó, Trương Hải Bằng coi cậu như hi vọng tương lai của đội, dồn tâm sức tìm công pháp cho cậu tu luyện bài bản — nhưng công pháp thủy hệ trên thị trường quá đắt, và đội không đủ tiền mua.

@@ -61,9 +61,11 @@ Vũ Thiết Sơn cao lớn vạm vỡ như tháp canh trên thuyền, vai rộng
 Vũ Thiết Sơn tu luyện *Thiết Bích Thuật* (铁臂术) — cường hóa hai cánh tay thành cứng như sắt rèn, phối hợp với rìu chiến để tung ra những nhát chém nặng như búa tạ, chuyên phá hủy cửa thuyền và khiên đỡ của hải tặc. Chiêu tủ là *Bổ Chẩm Quyền* (劈枕拳) — nắm đấm giáng xuống như bổ củi, đủ sức nứt toẹt ván thuyền dày ba tấc, tên gọi dân dã vì gã tự nghĩ ra lúc bổ củi cho nhà bếp trên thuyền. Gã mạnh ở sức phá hủy cận chiến nhưng hoàn toàn bất lực trước pháp thuật tầm xa, và tốc độ chậm khiến gã phải dựa vào Lê Hải Yến yểm trợ khi đối đầu kẻ địch nhanh nhẹn.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hoàng Lão Cẩu** (Đồng minh): Đồng liêu cùng Thuyền Nhân Hộ Vệ Đội, hỗ trợ lẫn nhau
+- **Lê Hải Yến** (Đồng minh): Đồng liêu cùng Thuyền Nhân Hộ Vệ Đội, hỗ trợ lẫn nhau
+- **Trương Hải Bằng** (Đồng minh): Đồng liêu cùng Thuyền Nhân Hộ Vệ Đội, hỗ trợ lẫn nhau
 - **Trương Hải Bằng:** Đội Trưởng, cựu đồng nghiệp thời Thiên Sa. Hai người là bạn uống rượu từ trước khi lập đội, và Thiết Sơn là người thứ hai xin gia nhập sau Hoàng Lão Cẩu.
 - **Lê Hải Yến:** Phó Đội Trưởng đồng cấp, chỉ huy thuyền bên cạnh. Hai người phối hợp tốt trong chiến đấu — Thiết Sơn tấn công trực diện, Hải Yến yểm trợ bằng phi tiêu tầm trung.
 - **Đặng Tiểu Ngư:** Hộ vệ viên trẻ trên thuyền gã phụ trách. Thiết Sơn thầm dạy cậu ta cách sinh tồn trên biển và bảo vệ cậu khỏi những chuyến hộ tống nguy hiểm.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vũ Thiết Sơn xuất thân là thợ rèn ở cảng nhỏ phía nam Vô Tận Hải, cha là thợ rèn, ông nội cũng là thợ rèn — ba đời đóng đinh đóng neo cho thuyền cá. Năm hai mươi tuổi gã bỏ nghề rèn gia nhập Thiên Sa Thương Hội làm lính bảo vệ kho hàng, quen Trương Hải Bằng trong ca trực đêm, hai người trở thành bạn nhậu vì cùng cảnh xuất thân thấp kém trong hệ thống đẳng cấp của Thiên Sa. Khi Trương Hải Bằng bị sa thải và lập đội, Thiết Sơn chủ động xin nghỉ việc theo bạn — mất công việc ổn định nhưng được tự do. Trong trận đụng độ hải tặc định mệnh, Thiết Sơn mất ba ngón tay bàn tay trái khi chặn kiếm bảo vệ thuyền khách — từ đó gã chuyển sang dùng rìu một tay vì nắm kiếm hai tay không còn vững. Mục tiêu thầm lặng của gã: tích đủ tiền mua cho mẹ già ở quê một căn nhà gạch thay cái chòi lá ven cảng — việc nhỏ nhưng là toàn bộ lý do gã chịu khó sống sót mỗi chuyến đi.
