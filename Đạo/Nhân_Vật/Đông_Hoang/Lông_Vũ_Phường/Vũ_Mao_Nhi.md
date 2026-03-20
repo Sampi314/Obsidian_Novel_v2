@@ -32,8 +32,10 @@ Phong thái lạnh lùng bí ẩn, ít ai biết được suy nghĩ thực sự.
 Thành viên của Lông Vũ Phường, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 羽毛兒·Bản Mệnh (羽毛兒·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Vũ Thái Vũ:** Thợ Dệt, đồng liêu quan trọng nhất trong Lông Vũ Phường.
-- **Vũ Tiểu Phong:** Học Đồ, đối tác thường xuyên phối hợp.
-
+- **Vũ Thái Vũ** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Lông Vũ Phường
+- **Vũ Tiểu Phong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Lông Vũ Phường
+- **Vũ Thái Vũ** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Vũ Mao Nhi
+- **Vũ Tiểu Phong** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Vũ Mao Nhi
+- **Trùng Kim Ti** (Đồng minh): Thợ Dệt Trưởng Tằm Ti và Phường Chủ Lông Vũ, trao đổi nguyên liệu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vũ Mao Nhi sinh ra trong một gia đình Vũ Tộc bình thường, sớm thể hiện tư chất phù hợp với Lông Vũ Phường. Sau nhiều năm rèn luyện gian khổ, hắn gia nhập Lông Vũ Phường và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Đỉnh Phong, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Phường Chủ.

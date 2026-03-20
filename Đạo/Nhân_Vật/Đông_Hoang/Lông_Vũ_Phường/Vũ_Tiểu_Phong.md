@@ -32,8 +32,8 @@ Dáng người cân đối với phong thái điềm tĩnh, gương mặt toát 
 Thành viên của Lông Vũ Phường, tu luyện công pháp đặc trưng của thế lực. Chiêu thức 羽小風·Bản Mệnh (羽小風·本命) phát huy sức mạnh phù hợp với chức vụ. Có những ưu và nhược điểm riêng trong chiến đấu tùy thuộc vào hoàn cảnh.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Vũ Mao Nhi:** Phường Chủ, đồng liêu quan trọng nhất trong Lông Vũ Phường.
-- **Vũ Thái Vũ:** Thợ Dệt, đối tác thường xuyên phối hợp.
-
+- **Vũ Mao Nhi** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Lông Vũ Phường
+- **Vũ Mao Nhi** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Vũ Mao Nhi
+- **Vũ Thái Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Lông Vũ Phường
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vũ Tiểu Phong được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Lông Vũ Phường. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Lông Vũ Phường và dần khẳng định vị trí của mình. Với tu vi Luyện Khí Trung Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Học Đồ.
