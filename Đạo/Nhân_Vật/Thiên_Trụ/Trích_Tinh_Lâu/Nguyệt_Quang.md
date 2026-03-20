@@ -38,6 +38,24 @@ arcs:
           tin: 60
           so: 0
           on: 0
+      - character: Tinh Hà
+        description: Lâu Chủ đời thứ chín, cấp trên mà ông phò tá và kính trọng sâu sắc
+        feelings:
+          yeu: 35
+          han: 0
+          kinh: 55
+          tin: 85
+          so: 0
+          on: 25
+      - character: Tinh Thần
+        description: Đệ tử ruột của Lâu Chủ, hậu bối tài năng mà ông nghiêm khắc dạy dỗ
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 10
+          tin: 50
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: NGUYỆT QUANG (月光)

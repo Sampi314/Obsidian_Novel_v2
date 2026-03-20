@@ -51,6 +51,15 @@ arcs:
           tin: 70
           so: 0
           on: 0
+      - character: Vu Tiểu Linh
+        description: Đệ Tử Tế Tư, sư muội nhỏ mà bà là tấm gương mà nàng ngưỡng mộ
+        feelings:
+          yeu: 45
+          han: 0
+          kinh: 0
+          tin: 40
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: VU HUYỀN NƯƠNG (巫玄娘)
@@ -74,6 +83,7 @@ Vu Huyền Nương chuyên về vu thuật nguyền rủa và triệu hồi linh
 - **Bạch Vọng Nguyệt:** Đệ Tam Phó Tư Tế, đồng liêu nhưng có sự cạnh tranh ngầm về ảnh hưởng.
 - **Vu Thiên Hương:** Đại Trưởng Lão Tế Tư, sư phụ truyền dạy vu thuật, mối quan hệ sư đồ sâu sắc.
 - **Sơn Mãng:** Chiến Sĩ Đồ Đằng, thuộc hạ trung thành thường xuyên hộ tống bà trong các nhiệm vụ ngoại giao.
+- **Vu Tiểu Linh:** Đệ Tử Tế Tư, sư muội nhỏ mà bà là tấm gương mà nàng ngưỡng mộ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Vu Huyền Nương xuất thân từ một chi nhánh vu nữ bên ngoài thung lũng, được Vu Thiên Hương phát hiện khi còn nhỏ nhờ thiên phú cảm ứng linh hồn đặc biệt. Bà được đưa về giáo phái đào tạo và nhanh chóng vượt qua các đồng môn nhờ sự cần mẫn và trí tuệ thiên bẩm. Sự kiện định mệnh là khi bà một mình chống lại một cuộc xâm nhập của sát thủ Vạn Độc Môn, bảo vệ thành công Nguyệt Quang Tế Đàn, từ đó được phong làm Phó Tư Tế. Hiện tại bà đang bí mật nghiên cứu cách tăng cường kết giới bảo vệ thung lũng vì cảm nhận được mối đe dọa ngày càng lớn từ bên ngoài.

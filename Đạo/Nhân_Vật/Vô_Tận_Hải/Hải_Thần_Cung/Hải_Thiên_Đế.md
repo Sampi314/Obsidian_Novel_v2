@@ -106,6 +106,15 @@ arcs:
           tin: 85
           so: 0
           on: 0
+      - character: Xích Giác
+        description: Đàn Chủ Tạp Huyết Long Đàn, kẻ nổi loạn kỳ thị tạp huyết cần dẹp bỏ
+        feelings:
+          yeu: -30
+          han: 50
+          kinh: -20
+          tin: -60
+          so: 0
+          on: -40
 ---
 
 # HỒ SƠ NHÂN VẬT: HẢI THIÊN ĐẾ (海天帝)

@@ -38,6 +38,24 @@ arcs:
           tin: 50
           so: 0
           on: 0
+      - character: Tinh Hà
+        description: Lâu Chủ, cấp trên mà ông kính trọng và phục tùng
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 45
+          tin: 70
+          so: 0
+          on: 10
+      - character: Tinh Thần
+        description: Đệ tử của Lâu Chủ, đồng liêu trẻ tuổi mà ông đánh giá tài năng nhưng chê viển vông
+        feelings:
+          yeu: 15
+          han: 5
+          kinh: 20
+          tin: 40
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: KHẮC MINH (刻明)
