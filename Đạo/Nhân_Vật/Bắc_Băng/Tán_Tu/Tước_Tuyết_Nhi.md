@@ -33,6 +33,24 @@ arcs:
           tin: 35
           so: 0
           on: 5
+      - character: Sương Lệ Nhi
+        description: Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 10
+          tin: 30
+          so: 0
+          on: 0
+      - character: Tước Hàn
+        description: Đệ tử đồng tộc Tước được chỉ dẫn trong Tán Tu
+        feelings:
+          yeu: 15
+          han: 0
+          kinh: 0
+          tin: 35
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: TƯỚC TUYẾT NHI (雀雪兒)
