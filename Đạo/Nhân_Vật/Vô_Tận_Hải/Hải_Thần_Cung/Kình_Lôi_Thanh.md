@@ -32,9 +32,13 @@ arcs:
 Kình Lôi Thanh chuyên về âm ba chiến đấu và sức mạnh thể xác thuần túy, kế thừa năng lực bẩm sinh của Kình Tộc. *Kình Hống Vạn Lý* (鲸吼万里) là tuyệt kỹ phóng ra sóng âm tần số cực thấp, có thể chấn vỡ nội tạng và làm tê liệt thần thức của mọi sinh vật trong bán kính vài trăm dặm dưới nước. Chiêu thức *Lôi Thanh Toái Sơn Chùy* (雷声碎山锤) kết hợp sức mạnh thể xác khổng lồ với sóng chấn động, mỗi nhát chùy bổ xuống tạo ra sóng xung kích đủ sức xẻ đôi một ngọn núi ngầm. Điểm mạnh lớn nhất nằm ở sức bền và khả năng chiến đấu kéo dài — hắn có thể chiến đấu liên tục ba ngày ba đêm mà không hề mệt mỏi. Điểm yếu là tốc độ chậm chạp và không có kỹ năng phòng thủ tinh vi, dễ bị đánh trúng bởi những đối thủ nhanh nhẹn.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hà Kim Giáp** (Sư đồ): Kình Lôi Thanh chỉ dẫn Hà Kim Giáp trong Hải Thần Cung
+- **Lệ Nhược Thủy** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Lệ Nhược Thủy** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Hải Ngọc Lan** (Đồng minh): Đồng liêu cùng Hải Thần Cung
+- **Kình Thiên Lôi Âm** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
 - **Lệ Nhược Thủy:** Hải Vương, kẻ mà Kình Lôi Thanh ngưỡng mộ và trung thành tuyệt đối, không phải vì quyền lực mà vì nàng thực sự quan tâm đến đời sống binh sĩ.
 - **Sa Huyết Nha:** Bắc Hải Tướng Quân, bạn chiến đấu tốt nhất, dù hai kẻ tính cách trái ngược hoàn toàn — một bên nói nhiều cười hề hề, một bên im lặng lạnh lùng như đá.
 - **Lệ Vân Hải:** Ngoại Giao Sứ, người mà Kình Lôi Thanh đặt niềm tin vì nàng luôn giải quyết xung đột mà không cần đổ máu, điều mà hắn rất ngưỡng mộ dù bản thân không làm được.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Kình Lôi Thanh sinh ra trong một đàn Kình Ngư du mục ở vùng biển Đông Nam Vô Tận Hải, lớn lên giữa tiếng hát trầm hùng của đồng loại vang vọng khắp đại dương. Thuở nhỏ, hắn nổi tiếng vì có giọng gầm to nhất đàn — mỗi lần hắn hét lên, cá nhỏ trong bán kính mười dặm đều ngất xỉu. Năm hai trăm tuổi, đàn kình ngư của hắn bị hải tặc Hắc Hải tập kích, giết chết nhiều con non. Kình Lôi Thanh một mình lao vào giữa hạm đội hải tặc, dùng sóng âm đánh chìm năm chiến thuyền, nhưng cũng bị trọng thương. Đội tuần tra Hải Thần Cung đến kịp lúc cứu vớt và mời hắn gia nhập quân đội. Nhờ sức mạnh phi phàm và tính tình trung hậu, hắn nhanh chóng được phong làm Đông Nam Tướng Quân. Ước nguyện lớn nhất của hắn là xóa sổ hoàn toàn nạn hải tặc trên Vô Tận Hải, để những đàn cá kình nhỏ bé không bao giờ phải chịu bi kịch như đàn của hắn năm xưa.
