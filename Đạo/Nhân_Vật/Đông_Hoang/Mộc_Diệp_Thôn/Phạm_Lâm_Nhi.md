@@ -32,9 +32,8 @@ Vẻ ngoài khắc khổ với dáng người gầy gò nhưng tinh thần mạn
 Chuyên gia trị liệu của Mộc Diệp Thôn, tinh thông y thuật và dược lý. Chiêu thức 范林兒·Hồi Xuân Thuật (范林兒·回春術) chữa trị thương tích hiệu quả. Chiến đấu trực diện yếu nhưng khả năng hỗ trợ đồng đội là không thể thay thế.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lý Thanh Phong:** Trưởng Lão, đồng liêu quan trọng nhất trong Mộc Diệp Thôn.
-- **Nguyễn Tiểu Mộc:** Thôn Dân, đối tác thường xuyên phối hợp.
-- **Trần Mộc Diệp:** Phó Trưởng Lão, mối quan hệ tin cậy lẫn nhau.
-
+- **Trần Mộc Diệp** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Mộc Diệp Thôn
+- **Trần Mộc Diệp** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Trần Mộc Diệp
+- **Nguyễn Tiểu Mộc** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Mộc Diệp Thôn
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Phạm Lâm Nhi được phát hiện thiên phú từ nhỏ, sớm thể hiện tư chất phù hợp với Mộc Diệp Thôn. Một biến cố lớn đã thay đổi cuộc đời, hắn gia nhập Mộc Diệp Thôn và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Hậu Kỳ, hắn đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Dược Sư.
