@@ -45,6 +45,15 @@ arcs:
           tin: 60
           so: 15
           on: 0
+      - character: Bào Thiên Biến Hoa
+        description: Tiến Hóa Sư, đồng minh nghiên cứu quan trọng trong việc tìm hiểu cách thích nghi với Huyết Thần Độc
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 30
+          tin: 65
+          so: 0
+          on: 10
 ---
 
 # HỒ SƠ NHÂN VẬT: BÀO HUYẾT TỊNH (孢血淨)

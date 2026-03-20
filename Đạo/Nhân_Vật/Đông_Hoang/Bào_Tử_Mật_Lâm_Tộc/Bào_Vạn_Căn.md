@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Bào Hồng Tán
+        description: Tộc Trưởng, tiền bối coi hắn như hậu bối có tiềm năng kế thừa mạng sợi nấm ngầm
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 55
+          tin: 70
+          so: 0
+          on: 40
 ---
 
 # HỒ SƠ NHÂN VẬT: BÀO VẠN CĂN (孢萬根)

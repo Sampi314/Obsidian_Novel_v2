@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Bào Huyết Tịnh
+        description: Chuyên Gia Huyết Độc, sư phụ và đối tác nghiên cứu, thường xuyên tranh luận về phương pháp trị liệu
+        feelings:
+          yeu: 25
+          han: 0
+          kinh: 30
+          tin: 60
+          so: 0
+          on: 20
 ---
 
 # HỒ SƠ NHÂN VẬT: BÀO NGỌC QUANG (孢玉光)

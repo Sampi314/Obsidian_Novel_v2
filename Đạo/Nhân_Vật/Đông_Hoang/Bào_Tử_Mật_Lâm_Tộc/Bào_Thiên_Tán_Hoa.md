@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    relationships:
+      - character: Bào Lục Quang Thiên
+        description: Phát Quang Sư, sư phụ dạy dỗ từ bước đi đầu tiên, thường đi theo như bóng với hình
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 30
+          tin: 65
+          so: 0
+          on: 35
 ---
 
 # HỒ SƠ NHÂN VẬT: BÀO THIÊN TÁN HOA (孢千傘花)

@@ -36,12 +36,12 @@ arcs:
       - character: Cổ Lan
         description: Trưởng Lão Tế Tư, người mà ông tôn trọng dù hay bất đồng ý kiến
         feelings:
-          yeu: 0
+          yeu: 25
           han: 0
-          kinh: 0
-          tin: 0
+          kinh: 45
+          tin: 40
           so: 0
-          on: 0
+          on: 20
       - character: Tuyết Nguyệt
         description: Đại Tư Tế, ông trung thành nhưng thường xuyên phản biện các quyết định của bà một cách thẳng thắn
         feelings:
