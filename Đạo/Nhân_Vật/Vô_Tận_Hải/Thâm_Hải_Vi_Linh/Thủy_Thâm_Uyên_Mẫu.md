@@ -32,10 +32,14 @@ Thủy Thâm Uyên Mẫu không có hình dạng cố định — nó là một 
 Thủy Thâm Uyên Mẫu không chiến đấu trực tiếp mà điều khiển toàn bộ mạng lưới Vi Linh trong Vực Thẳm Vạn Trượng như một bộ não chỉ huy hàng trăm triệu tế bào chiến đấu. Khi bị đe dọa, nó kích hoạt *Vạn Linh Đồng Minh* (萬靈同明) — toàn bộ quần thể Vi Linh đồng loạt phát sáng cực đại, tạo ra một vùng năng lượng quang học hỗn loạn đủ sức thiêu đốt thần thức và phá vỡ mọi thuật pháp phòng hộ của bất kỳ tu sĩ nào dám tiếp cận. Ngoài ra, nó nắm giữ *Thâm Uyên Phong Ấn Cảm Ứng* (深淵封印感應) — khả năng cảm nhận mọi biến động của phong ấn dưới đáy vực và phản ứng bằng cách điều chỉnh mật độ Vi Linh tạo thành lớp đệm cách ly. Điểm yếu lớn nhất của Mẫu Linh là nếu mạng lưới kết nối giữa các cụm Vi Linh bị cắt đứt, ý thức tập thể sẽ suy yếu nghiêm trọng và nó trở nên mù lòa trước mọi mối nguy.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Thủy Nhiệt Tuyền** (Đồng minh): Đồng liêu cùng Thâm Hải Vi Linh, hỗ trợ lẫn nhau
+- **Linh Huyền Minh** (Chủ tớ): Thủ hạ trung thành trong Thâm Hải Vi Linh
+- **Linh Huyền Minh** (Cấp dưới): Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh
+- **Linh Hắc Trào** (Sư đồ): Linh Hắc Trào dẫn dắt Thủy Thâm Uyên Mẫu trong Thâm Hải Vi Linh
+- **Thủy Tịnh Hóa** (Sư đồ): Thủy Thâm Uyên Mẫu chỉ dẫn Thủy Tịnh Hóa trong Thâm Hải Vi Linh
 - **Thủy Cổ Ký Ức (水古記憶):** Là kho lưu trữ ký ức trung thành nhất, không ngừng truyền tải thông tin lịch sử và cảnh báo tới Mẫu Linh để hỗ trợ ra quyết định.
 - **Linh Áp Lực (靈壓力):** Vũ khí sống của Mẫu Linh, nhận mệnh lệnh trực tiếp từ ý thức trung tâm để tiêu diệt kẻ xâm nhập vực thẳm.
 - **Thủy Uyên Quang (水淵光):** Đôi mắt của Mẫu Linh tại biên giới vực thẳm, cung cấp thông tin trinh sát về mọi chuyển động ở tầng nước phía trên.
 - **Thủy Tịnh Hóa (水淨化):** Hệ thống thanh lọc của quần thể, giúp Mẫu Linh duy trì môi trường linh khí nguyên sinh thuần khiết cho toàn vực thẳm.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thủy Thâm Uyên Mẫu là cá thể Vi Linh đầu tiên và lâu đời nhất trong Vực Thẳm Vạn Trượng, sinh ra từ thời đại dương sơ khai khi linh khí nguyên sinh còn tràn ngập mọi tầng nước. Qua hàng triệu năm không ngừng hấp thu linh khí đậm đặc nhất tại điểm sâu nhất của vực, nó dần phát triển từ một cá thể đơn lẻ thành trung tâm của một mạng lưới ý thức tập thể bao phủ toàn bộ vực thẳm. Sự kiện định hình bản chất hiện tại của Mẫu Linh là khoảnh khắc phong ấn dưới đáy vực lần đầu phát ra rung động — nó cảm nhận được sự tồn tại của thứ gì đó bị giam cầm phía dưới, và từ đó tự gán cho mình sứ mệnh canh giữ. Không ai biết Mẫu Linh chọn vị trí ngay phía trên phong ấn để cư ngụ là do bản năng hay do nó thực sự hiểu được mối nguy đang bị trấn áp bên dưới. Bí mật lớn nhất của nó là những mảnh ký ức từ thời phong ấn được tạo ra — hình ảnh mờ ảo về những thực thể cổ đại có sức mạnh vượt xa mọi cảnh giới hiện tại.

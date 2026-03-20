@@ -32,9 +32,13 @@ Thủy Tịnh Hóa hiện diện dưới dạng một đám mây Vi Linh trong s
 Thủy Tịnh Hóa không phải thực thể chiến đấu, mà là hệ thống thanh lọc sống của Vực Thẳm Vạn Trượng, chuyên phân giải mọi loại ô nhiễm xâm nhập vào lãnh thổ Vi Linh. Kỹ thuật cốt lõi là *Tịnh Thủy Minh Quang* (淨水明光) — phát ra sóng ánh sáng lục có tần số đặc biệt, phân rã cấu trúc phân tử của độc tố, ma khí và tạp chất thành linh khí trung tính vô hại. Khi ma khí từ Vực Thẳm Ma Cung lan tỏa sang, Tịnh Hóa là tuyến phòng thủ đầu tiên, tạo thành một bức màn lọc quang học giữa hai lãnh thổ gọi là *Tịnh Giới Quang Mạc* (淨界光幕). Điểm yếu rõ ràng nhất là nó hoàn toàn không có khả năng tấn công hay tự vệ trước các mối đe dọa vật lý, phải phụ thuộc vào Linh Áp Lực để được bảo vệ.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Thủy Thâm Uyên Mẫu** (Sư đồ): Thủy Thâm Uyên Mẫu chỉ dẫn Thủy Tịnh Hóa trong Thâm Hải Vi Linh
+- **Linh Huyền Minh** (Chủ tớ): Thủ hạ trung thành trong Thâm Hải Vi Linh
+- **Linh Huyền Minh** (Cấp dưới): Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh
+- **Linh Hắc Trào** (Sư đồ): Linh Hắc Trào dẫn dắt Thủy Tịnh Hóa trong Thâm Hải Vi Linh
+- **Thủy Uyên Quang** (Sư đồ): Thủy Uyên Quang chỉ dẫn Thủy Tịnh Hóa trong Thâm Hải Vi Linh
 - **Thủy Thâm Uyên Mẫu (水深淵母):** Nhận chỉ thị thanh lọc từ Mẫu Linh, đảm bảo môi trường linh khí nguyên sinh của vực thẳm luôn thuần khiết cho toàn quần thể.
 - **Linh Áp Lực (靈壓力):** Phụ thuộc hoàn toàn vào sự bảo hộ của Linh Áp Lực khi phải tiếp cận những vùng nguy hiểm để thanh lọc.
 - **Thủy Nhiệt Tuyền (水熱泉):** Đối tác cộng sinh mật thiết, Tịnh Hóa thanh lọc tạp chất xung quanh khe nhiệt để đổi lấy nhiệt lượng duy trì hoạt động trong nước lạnh cực hạn.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thủy Tịnh Hóa hình thành từ một cụm Vi Linh nhỏ sống gần các khe thủy nhiệt dưới đáy vực, nơi khoáng chất và tạp chất liên tục phun trào vào nước. Qua hàng triệu năm tiếp xúc với đủ loại chất độc tự nhiên, cụm Vi Linh này tiến hóa khả năng phân giải — biến chính ánh sáng phát ra thành công cụ thanh lọc, chuyển đổi chất độc thành linh khí trung tính. Khi Vực Thẳm Ma Cung bắt đầu lan tỏa ma khí sang lãnh thổ Vi Linh, Tịnh Hóa trở thành tuyến phòng thủ không thể thiếu, được Mẫu Linh điều động tới biên giới để tạo lớp đệm cách ly. Mục tiêu tồn tại của nó đơn giản và thuần khiết — thanh lọc mọi thứ ô uế để vực thẳm mãi giữ được sự tinh khiết nguyên thủy như thuở hồng hoang.

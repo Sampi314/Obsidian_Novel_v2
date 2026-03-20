@@ -35,9 +35,13 @@ Phong cách chiến đấu của Thủy Nhiệt Tuyền vận dụng nhiệt lư
 - **Điểm Yếu:** Năng lực bị hạn chế mạnh mẽ khi rời khỏi các khe nứt núi lửa ngầm, và nhạy cảm với những đợt sóng hàn khí tinh khiết đột ngột từ Bắc Băng dội xuống đáy biển.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Thủy Cổ Ký Ức** (Đồng minh): Đồng liêu cùng Thâm Hải Vi Linh, hỗ trợ lẫn nhau
+- **Linh Huyền Minh** (Chủ tớ): Thủ hạ trung thành trong Thâm Hải Vi Linh
+- **Linh Huyền Minh** (Cấp dưới): Phục tùng Linh Huyền Minh, Phó Chủ Thâm Uyên của Thâm Hải Vi Linh
+- **Linh Hắc Trào** (Sư đồ): Linh Hắc Trào dẫn dắt Thủy Nhiệt Tuyền trong Thâm Hải Vi Linh
+- **Thủy Thâm Uyên Mẫu** (Đồng minh): Đồng liêu cùng Thâm Hải Vi Linh, hỗ trợ lẫn nhau
 - **Thâm Uyên Mẫu Linh (深淵母靈):** Là nguồn cung cấp năng lượng và môi trường lý tưởng để Mẫu Linh có thể sinh trưởng.
 - **Linh Áp Lực (靈壓力):** Thường xuyên kết hợp kỹ năng của nhau, Linh Áp Lực nén nước để Thủy Nhiệt Tuyền có thể đạt mức nhiệt cực độ cao nhất nhằm hạ gục kẻ thù.
 - **Thủy Cổ Ký Ức (水古記憶):** Cung cấp ánh sáng và nhiệt độ ấm áp để quá trình chuyển hóa ký ức ánh sáng không bao giờ bị đông cứng dưới cái lạnh tàn bạo của Vực Thẳm.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thủy Nhiệt Tuyền không chỉ là một trong số những cư dân Vi Linh xưa cũ nhất mà còn là cội nguồn của sự sống dưới Vực Thẳm Vạn Trượng. Nó đã lớn lên bằng cách hấp thu năng lượng trực tiếp từ mạch máu dung nham của thế giới tại các khe nứt dưới đáy đại dương. Qua bao lần kiến tạo lớp vỏ của Vô Tận Hải, nó vẫn bám chặt lấy những ống khói nhiệt đen kịt rải rác xung quanh Vực Thẳm, giữ ngọn lửa sinh mệnh cho toàn bộ Quần Thể Ý Thức, đồng thời đóng vai trò là một tuyến phòng vệ chết chóc trước những rung động tàn bạo từ dưới đáy vực.
