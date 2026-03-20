@@ -27,19 +27,19 @@ arcs:
       - character: Vu Huyền Nương
         description: Đệ tử yêu quý, người kế thừa truyền thừa vu thuật của bà
         feelings:
-          yeu: 0
+          yeu: 65
           han: 0
           kinh: 0
-          tin: 0
+          tin: 70
           so: 0
           on: 0
       - character: Vu Tiểu Linh
         description: Đệ tử nhỏ tuổi nhất, được bà chăm sóc đặc biệt vì nhìn thấy tiềm năng lớn
         feelings:
-          yeu: 0
+          yeu: 60
           han: 0
           kinh: 0
-          tin: 0
+          tin: 55
           so: 0
           on: 0
       - character: Cổ Lan
