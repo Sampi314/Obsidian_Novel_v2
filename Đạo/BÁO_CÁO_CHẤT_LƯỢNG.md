@@ -12,7 +12,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Tuyết Trung Cô Viện (Bắc Băng)
+### [Hiện Tại] - Hoàn thiện nhân vật Kim Sa Vi Mạch (Tây Mạc)
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Mạch Hoàng Kim, Mạch Thiết Cốt, Mạch Tiểu Quặng thuộc khu vực Tây Mạc.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Tuyết Trung Cô Viện (Bắc Băng)
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lý Mộ Tuyết, Lê Dược Nương, Phạm Thư Sinh thuộc khu vực Bắc Băng.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 

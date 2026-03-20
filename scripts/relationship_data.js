@@ -20930,8 +20930,9 @@ var relationshipData = {
       "pov": false,
       "avatar_color": "#4caf50",
       "race": "Vi Tộc",
-      "personality": "Cứng rắn",
-      "description": "Thân thể nhiễm quặng sắt, cực kỳ cứng rắn"
+      "cultivation_technique": "Thiết Cốt Biến Hóa",
+      "personality": "Lầm lì, bền bỉ",
+      "description": "Cơ thể xám đen pha rỉ sét chứ không lấp lánh ánh vàng. Là bức tường tiên phong trung thành nhất, dùng tuyệt kỹ 'Thiết Cốt Biến Hóa' chống đỡ cấu trúc mạch ngầm đang rung lắc để che chắn cho đồng loại chạy trốn."
     },
     {
       "id": "mach_tieu_quang",
@@ -20944,7 +20945,9 @@ var relationshipData = {
       "pov": false,
       "avatar_color": "#8bc34a",
       "race": "Vi Tộc",
-      "description": "Đang học cách cảm ứng mạch khoáng, hay lạc đường trong hang"
+      "cultivation_technique": "Vi Mạch Tham Trắc",
+      "personality": "Tò mò, hiếu động",
+      "description": "Bé xíu như hạt bụi lơ lửng, thường chớp tắt liên tục. Hay đi lạc trong mạng lưới ngầm do bản tính tò mò, đang học cách cảm nhận vi lượng kim linh để trở thành Trinh Sát thực thụ, nhưng đôi khi phát sáng bất cẩn gây nguy hiểm."
     },
     {
       "id": "mach_dong_tam",
@@ -51921,13 +51924,13 @@ var relationshipData = {
       "source": "mach_hoang_kim",
       "target": "mach_thiet_cot",
       "type": "mentor",
-      "description": "Mạch Hoàng Kim chỉ dẫn Mạch Thiết Cốt trong Kim Sa Vi Mạch"
+      "description": "Mạch Thiết Cốt là Thủ Vệ đáng tin cậy nhất được Mạch Hoàng Kim trọng dụng để dẫn đầu trong các cuộc di tản và bảo vệ vi thể non nớt."
     },
     {
       "source": "mach_hoang_kim",
       "target": "mach_tieu_quang",
       "type": "mentor",
-      "description": "Mạch Hoàng Kim chỉ dẫn Mạch Tiểu Quặng trong Kim Sa Vi Mạch"
+      "description": "Mạch Hoàng Kim thường giữ Tiểu Quặng ở gần để dạy cách đọc rung động vi tế."
     },
     {
       "source": "mach_ngan_quang",
@@ -51974,8 +51977,8 @@ var relationshipData = {
     {
       "source": "mach_thiet_cot",
       "target": "mach_tieu_quang",
-      "type": "mentor",
-      "description": "Mạch Thiết Cốt chỉ dẫn Mạch Tiểu Quặng trong Kim Sa Vi Mạch"
+      "type": "friend",
+      "description": "Tiểu Quặng coi Thiết Cốt là một bức tường vững chãi, thường được Thiết Cốt che chở mỗi khi đi lạc vào những đoạn mạch rung yếu sắp sập."
     },
     {
       "source": "mach_tieu_quang",

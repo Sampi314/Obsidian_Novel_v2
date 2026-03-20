@@ -827,6 +827,9 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hồ Minh Nguyệt (Dược Sư - Trúc Cơ Hậu Kỳ):** Dược sư lạnh lùng và tài năng, chuyên điều chế Mê Hồn Hương và độc dược dưới vỏ bọc yểu điệu.
   - **Hồ Phong Vân (Đệ Tử - Luyện Khí Viên Mãn):** Thiếu niên hồ ly ngây thơ, bốc đồng, luôn gặp rắc rối nhưng có khát khao mãnh liệt trở thành gián điệp giỏi.
 
+### Kim Sa Vi Mạch (Tây Mạc)
+- **Kim Sa Vi Mạch:** Chủng tộc vi thể sống trong mạch vàng ngầm Tây Mạc. Gồm Mạch Hoàng Kim (Mạch Chủ to lớn, dẫn dắt toàn tộc di tản), Mạch Thiết Cốt (Thủ Vệ Mỏ dùng "Thiết Cốt Biến Hóa" che chắn chống sập hầm), Mạch Tiểu Quặng (Đệ Tử Thăm Mạch bé nhỏ hay đi lạc). Đang bị đe dọa bởi Thiên Sa Thương Hội.
+
 ### San Hô Thợ Lặn Đội (Tây Mạc)
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **San Hô Thợ Lặn Đội** (Tây Mạc):
   - **Nguyễn Thủy Tiên:** Đội Trưởng Trúc Cơ Viên Mãn, trụ cột kiên nghị, tự luyện Ngưng Tức Thuật, tìm cách thoát khỏi sự ép giá của Thiên Sa Thương Hội.
