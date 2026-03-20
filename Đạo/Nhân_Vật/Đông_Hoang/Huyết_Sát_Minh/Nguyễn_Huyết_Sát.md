@@ -32,9 +32,13 @@ Dáng người cân đối với phong thái điềm tĩnh, gương mặt toát 
 Tu luyện công pháp cốt lõi của Huyết Sát Minh đạt trình độ cao thâm. Chiêu thức 阮血煞·Hộ Pháp Ấn (阮血煞·護法印) tạo ra sức mạnh phòng thủ và tấn công cân bằng. Kinh nghiệm chiến đấu phong phú nhưng tuổi tác khiến thể lực không còn ở đỉnh cao.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Hoàng Huyết Yến:** Đường Chủ Tình Báo Đường, đồng liêu quan trọng nhất trong Huyết Sát Minh.
-- **Lê Huyết La:** Đường Chủ Sát Thủ Đường, đối tác thường xuyên phối hợp.
-- **Lý Huyết Thần:** Minh Chủ, mối quan hệ tin cậy lẫn nhau.
-
+- **Lý Huyết Thần** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Huyết Sát Minh
+- **Lý Huyết Thần** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Huyết Thần
+- **Trần Tiểu Huyết** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Huyết Sát Minh
+- **Trần Huyết Ảnh** (Sư phụ): Tiền bối dẫn dắt hậu bối trong Huyết Sát Minh
+- **Lê Huyết La** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Huyết Sát Minh
+- **Vũ Huyết Cuồng** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Huyết Sát Minh
+- **Đặng Huyết Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Huyết Sát Minh
+- **Lý Huyết Vũ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Huyết Sát Minh
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyễn Huyết Sát xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Huyết Sát Minh. Trải qua thử thách sinh tử, nàng gia nhập Huyết Sát Minh và dần khẳng định vị trí của mình. Với tu vi Nguyên Anh Sơ Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Trưởng Lão.
