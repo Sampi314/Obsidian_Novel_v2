@@ -194,3 +194,4 @@ Tên file = tên nhân vật với `_` thay khoảng trắng (có dấu Tiếng 
 | 2026-03-20 | Claude Code | Lục Trần (DONE) | Checked 4 refs, fixed 1 missing bidirectional link (Đoạn Kiếm Sinh) |
 | 2026-03-20 | Claude Code | Ngô Công Trưởng Lão (DONE) | Checked 5 refs, fixed 3 missing bidirectional links (Âu Dương Vô Tích, Ân Mộc Thanh, Mạc Thiên Túc) |
 | 2026-03-20 | Claude Code | Hứa Thanh Vân (DONE) | Checked 1 ref (Hứa Nhược Thủy), already bidirectional, no fixes needed |
+| 2026-03-20 | Claude Code | Phương Vô Kỵ (DONE) | Checked 5 refs, fixed 2: added YAML entry for Lâm Phong, added markdown entries for Nham Thần. Diệp Tĩnh Sương, Ngao Đình, A Ngốc already bidirectional |
