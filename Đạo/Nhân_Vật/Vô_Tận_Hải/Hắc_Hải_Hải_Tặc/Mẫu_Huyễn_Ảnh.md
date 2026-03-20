@@ -32,9 +32,14 @@ Một thực thể hư ảo với cơ thể bán trong suốt tỏa ra ánh sán
 Chuyên tu huyễn thuật và các loại kịch độc thần kinh. Tuyệt kỹ "Huyễn Ảnh Mê Vụ" (幻影迷雾) cho phép nàng tạo ra một vùng sương mù rộng lớn bao trùm cả hạm đội, khiến đối phương tự tấn công lẫn nhau hoặc rơi vào trạng thái hoang tưởng cực độ. Điểm mạnh là khả năng ẩn nấp hoàn hảo và khống chế diện rộng, nhưng điểm yếu là thể chất cực kỳ mong manh, gần như không có khả năng chống chọi trước các đòn tấn công vật lý trực diện.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Kình Thiên Nộ Hải** (Sư đồ): Mẫu Huyễn Ảnh chỉ dẫn Kình Thiên Nộ Hải trong Hắc Hải Hải Tặc
+- **Loa Chiến Hào** (Sư đồ): Mẫu Huyễn Ảnh chỉ dẫn Loa Chiến Hào trong Hắc Hải Hải Tặc
+- **Sa Huyết Đao** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
+- **Ngư Hắc Lân** (Sư đồ): Mẫu Huyễn Ảnh chỉ dẫn Ngư Hắc Lân trong Hắc Hải Hải Tặc
+- **Ngư Thiên Lôi Hỏa** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
+- **Mẫu Độc Châm** (Sư đồ): Mẫu Huyễn Ảnh chỉ dẫn Mẫu Độc Châm trong Hắc Hải Hải Tặc
 - **Chương Thiên Tý Hắc:** Đối tác thân thiết, cả hai thường phối hợp để thực hiện các cuộc tập kích bất ngờ dưới sự bảo bọc của ảo ảnh.
 - **Mẫu Độc Châm:** Muội muội ruột, người chịu trách nhiệm ám sát những con mồi đã rơi vào bẫy ảo ảnh của nàng.
 - **Sa Huyết Đao:** Nàng coi hắn là một kẻ thô lỗ nhưng vẫn nể sợ sức mạnh bộc phát không thể lường trước của hắn.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Mẫu Huyễn Ảnh vốn là một linh vật canh giữ một khu vườn san hô cổ, nhưng đã bị tà khí của Hắc Hải xâm chiếm và tha hóa tâm tính. Nàng gia nhập Liên Minh Hắc Hải không phải vì tài vật, mà vì niềm vui bệnh hoạn khi được chứng kiến những linh hồn mạnh mẽ sụp đổ trong ảo ảnh của chính mình. Với khả năng che giấu hành tung tuyệt đỉnh, nàng đã giúp hạm đội hải tặc thực hiện hàng trăm vụ cướp bóc thành công mà không để lại bất kỳ dấu vết nào. Hiện tại, nàng đang nghiên cứu cách kết hợp huyễn thuật với kịch độc để tạo ra một loại "Vực Thẳm Ảo Ảnh" có thể giam cầm vĩnh viễn linh hồn đối phương.
