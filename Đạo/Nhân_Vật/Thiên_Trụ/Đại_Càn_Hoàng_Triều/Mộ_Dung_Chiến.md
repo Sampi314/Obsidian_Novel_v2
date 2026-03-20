@@ -32,9 +32,13 @@ Trung niên uy mãnh, thân hình rắn chắc như đúc từ tinh cương, khu
 Tu luyện Chiến Thần Quyết — công pháp chuyên cho chiến trường, tu vi càng cao thì sát khí càng mạnh. Song kiếm Phong Vân khi hợp bích tạo ra kiếm trận vạn nhận, có thể quét sạch cả quân đoàn. Là cường giả Hóa Thần Sơ Kỳ duy nhất trong Thần Sách Quân, một mình có thể chấn giữ cả chiến tuyến.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Lý Thiên Vũ]] — Càn Đế, chủ soái mà hắn tuyệt đối trung thành từ thuở hàn vi.
-- [[Vương Thiết Kỵ]] — Binh Bộ Thượng Thư, chiến hữu từ loạn Thất Vương, tri kỷ quân lữ.
-- [[Triệu Vạn Quân]] — Phó Tướng, phó thủ đáng tin cậy nhất, được hắn đích thân huấn luyện.
-
+- **Lý Nguyệt Nhi** (Sư đồ): Mộ Dung Chiến chỉ dẫn Lý Nguyệt Nhi trong Đại Càn Hoàng Triều
+- **Lý Thiên Long** (Sư đồ): Mộ Dung Chiến chỉ dẫn Lý Thiên Long trong Đại Càn Hoàng Triều
+- **Lý Thiên Phượng** (Sư đồ): Mộ Dung Chiến chỉ dẫn Lý Thiên Phượng trong Đại Càn Hoàng Triều
+- **Lý Thiên Vũ** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Triệu Vạn Quân** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Trương Văn Hàn** (Sư đồ): Mộ Dung Chiến chỉ dẫn Trương Văn Hàn trong Đại Càn Hoàng Triều
+- **Trần Bách Tài** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Tôn Hiền** (Sư đồ): Mộ Dung Chiến chỉ dẫn Tôn Hiền trong Đại Càn Hoàng Triều
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ Mộ Dung gia — gia tộc võ tướng truyền đời ở biên cương tây bắc. Theo Lý Thiên Vũ từ khi còn là phiên vương, cùng nhau chinh chiến trong loạn Thất Vương. Trận chiến Thiết Quan quyết định, Mộ Dung Chiến một mình chặn ba vạn phản quân, lập chiến công hiển hách. Sau khi Lý Thiên Vũ đăng cơ, được phong Thần Sách Đại Tướng, thống lĩnh đạo quân tinh nhuệ nhất hoàng triều.

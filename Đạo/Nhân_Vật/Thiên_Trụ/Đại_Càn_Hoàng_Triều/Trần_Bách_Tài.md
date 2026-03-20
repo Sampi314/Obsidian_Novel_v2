@@ -32,9 +32,12 @@ Người trung niên mập mạp, da trắng hồng hào, luôn mặc quan phụ
 Tu luyện Kim Toán Quyết, có thể dùng linh lực biến hóa thành kim ti vô hình để thăm dò, trói buộc hoặc phòng thủ. Không chuyên chiến đấu chính diện, nhưng khả năng bố trận phòng ngự bằng trận pháp tài vật cực kỳ tinh xảo. Thường mang theo Vạn Bảo Nang chứa vô số pháp khí phòng thân.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Lý Thiên Vũ]] — Càn Đế, chủ quân mà hắn tận trung phụng sự về tài chính.
-- [[Lỗ Thiên Kiều]] — Công Bộ Thượng Thư, đồng liêu thường xuyên phối hợp ngân sách.
-- [[Khổng Minh Đức]] — Lễ Bộ Thượng Thư, tri kỷ trong triều, thường luận đạo sau giờ hội triều.
-
+- **Lý Thiên Vũ** (Sư đồ): Lý Thiên Vũ chỉ dẫn Trần Bách Tài trong Đại Càn Hoàng Triều
+- **Mộ Dung Chiến** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Triệu Vạn Quân** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Trương Văn Hàn** (Sư đồ): Trần Bách Tài chỉ dẫn Trương Văn Hàn trong Đại Càn Hoàng Triều
+- **Tư Mã Tinh Vân** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Vương Thiết Kỵ** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Tôn Hiền** (Sư đồ): Trần Bách Tài chỉ dẫn Tôn Hiền trong Đại Càn Hoàng Triều
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Xuất thân từ thương gia đại tộc Trần gia ở Càn Dương Thành, từ nhỏ đã bộc lộ thiên phú quản lý tài vật. Sau khi bái nhập Nho giáo tu chân, hắn kết hợp thương đạo với tu luyện, phát triển Kim Toán Quyết độc đáo. Được Càn Đế bổ nhiệm Hộ Bộ Thượng Thư nhờ công lao ổn định tài chính quốc khố sau loạn Thất Vương. Quản lý toàn bộ thuế khóa, linh thạch, tài nguyên tu luyện của hoàng triều.

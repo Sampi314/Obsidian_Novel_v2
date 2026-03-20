@@ -32,9 +32,10 @@ Nho nhã thư sinh, dáng người mảnh khảnh, khuôn mặt thanh tú mang n
 Tu luyện Nhân Tâm Minh Giám Thuật, có thể đánh giá tài năng và phẩm chất của tu sĩ thông qua quan sát khí chất. Quạt gấp Nhân Hòa Phiến có thể phóng ra linh phong ôn hòa, dùng để bảo vệ hoặc trấn áp. Sở trường quản lý và đánh giá nhân sự, không phải chiến đấu gia, nhưng tự vệ quá đủ.
 
 ## IV. CÁC MỐI QUAN HỆ
-- [[Lý Thiên Vũ]] — Càn Đế, quân vương mà hắn tận tâm tuyển chọn nhân tài phục vụ.
-- [[Bao Chính]] — Hình Bộ Thượng Thư, cùng chí hướng thanh liêm, thường trao đổi ý kiến.
-- [[Lỗ Thiên Kiều]] — Công Bộ Thượng Thư, bạn cờ thân thiết, mối quan hệ nhẹ nhàng thoải mái.
-
+- **Mộ Dung Chiến** (Sư đồ): Mộ Dung Chiến chỉ dẫn Tôn Hiền trong Đại Càn Hoàng Triều
+- **Triệu Vạn Quân** (Sư đồ): Triệu Vạn Quân chỉ dẫn Tôn Hiền trong Đại Càn Hoàng Triều
+- **Trương Văn Hàn** (Đồng minh): Đồng liêu cùng Đại Càn Hoàng Triều, hỗ trợ lẫn nhau
+- **Trần Bách Tài** (Sư đồ): Trần Bách Tài chỉ dẫn Tôn Hiền trong Đại Càn Hoàng Triều
+- **Tư Mã Tinh Vân** (Sư đồ): Tư Mã Tinh Vân chỉ dẫn Tôn Hiền trong Đại Càn Hoàng Triều
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Con trai dòng chính Tôn gia, một gia tộc nho tu trung lưu. Từ nhỏ được giáo dục bài bản về đạo trị nhân, sớm nổi tiếng với khả năng nhìn người chuẩn xác. Bước vào quan trường từ chức vụ nhỏ, dần thăng tiến nhờ tài năng thực sự và sự liêm chính. Hiện quản lý toàn bộ nhân sự quan viên hoàng triều, quyết định bổ nhiệm, thăng giáng và luân chuyển.
