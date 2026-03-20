@@ -18,10 +18,10 @@ arcs:
       - character: Lam Nguyệt Nhi
         description: Thánh Nữ, chị thân nhất cùng trang lứa, hai người gần như không rời nhau
         feelings:
-          yeu: 0
+          yeu: 38
           han: 0
           kinh: 0
-          tin: 0
+          tin: 35
           so: 0
           on: 0
       - character: Vu Tiểu Linh
@@ -45,12 +45,12 @@ arcs:
       - character: Cổ Lan
         description: Trưởng Lão Tế Tư, sư bà dạy nàng các bài ca cổ xưa, nàng rất kính yêu bà
         feelings:
-          yeu: 0
+          yeu: 40
           han: 0
-          kinh: 0
-          tin: 0
+          kinh: 75
+          tin: 65
           so: 0
-          on: 0
+          on: 55
 ---
 
 # HỒ SƠ NHÂN VẬT: NGUYỆT NHI (月兒)
