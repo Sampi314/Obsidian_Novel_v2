@@ -32,7 +32,11 @@ Kiến lửa nhỏ bé, nhưng đoàn quân ngàn con đốt cháy cả rừng g
 *(Chưa xác định)*
 
 ## IV. CÁC MỐI QUAN HỆ
-*(Chưa xác định)*
-
+- **Thiết Trùng** (Sư đồ): Thiết Trùng chỉ dẫn Hỏa Kiến Vương trong Tán Tu
+- **Vân Nga Tiên Tử** (Sư đồ): Vân Nga Tiên Tử chỉ dẫn Hỏa Kiến Vương trong Tán Tu
+- **Yến Lạc Vũ** (Sư đồ): Yến Lạc Vũ chỉ dẫn Hỏa Kiến Vương trong Tán Tu
+- **Thiết Trùng** (Chủ tớ): Thủ hạ trung thành trong Tán Tu
+- **Vân Nga Tiên Tử** (Chủ tớ): Thủ hạ trung thành trong Tán Tu
+- **Yến Lạc Vũ** (Chủ tớ): Thủ hạ trung thành trong Tán Tu
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*
