@@ -125,6 +125,17 @@ Phải mất hai năm Lang Phong mới học lại tiếng người, nhờ Lê H
 
 Hiện tại ở Trúc Cơ Trung Kỳ, hắn vẫn loay hoay giữa bản năng sói muốn tự do lang thang và trách nhiệm với bầy đàn đã cưu mang mình.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Long Huyết Nhi** (Thủ lĩnh): Đứa bé mà cả thôn bảo vệ, Lang Phong thầm lo lắng đứa trẻ sẽ mang họa
+- **Lý Bán Nguyệt** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Lý Bán Nguyệt
+- **Trần Thiên Hổ** (Sư phụ): Sư phụ chiến đấu, kính sợ nhưng biết ơn sâu sắc, coi như cha nuôi
+- **Phạm Hùng Sơn** (Gia đình): Huynh đệ chiến đấu, người rèn vũ khí cho mình, uống rượu cùng nhau
+- **Hoàng Điểu Vũ Thiên** (Đồng minh): Chiến hữu phối hợp trinh sát-săn bắn, bạn thân nhất
+- **Lý Bán Nguyệt** (Đồng minh): Thợ săn trưởng, đánh giá cao năng lực nhưng lo ngại bản tính hoang dã
+- **Lê Hồ Nguyệt Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bán Yêu Thôn
+- **Vương Xà Nhi** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bán Yêu Thôn
+- **Nguyễn Kỳ Lân** (Đồng minh): Trưởng Lão Ngự Thú và Thợ Săn Trưởng Bán Yêu, trao đổi kinh nghiệm
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 ### Công Pháp

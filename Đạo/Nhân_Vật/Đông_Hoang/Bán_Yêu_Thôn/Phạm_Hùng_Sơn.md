@@ -138,6 +138,16 @@ Lý Bán Nguyệt tìm thấy hắn khi hắn 45 tuổi — theo tiếng búa va
 
 Sáu mươi năm qua, hắn là trụ cột hậu cần của thôn. Mọi vũ khí, công cụ, nông cụ — từ Hổ Nha Chiến Phủ của Thiên Hổ đến Song Lang Nha Đao của Lang Phong, từ giày đặc biệt cho Vũ Thiên đến kim châm cho Xà Nhi — đều từ tay hắn mà ra. Tu vi chậm vì dành hầu hết thời gian cho lò rèn, chỉ ở Trúc Cơ Sơ Kỳ, nhưng không ai dám nói hắn yếu — sức mạnh thể chất thuần túy của Hùng huyết cho phép hắn đánh ngang Trúc Cơ Trung Kỳ mà không cần pháp thuật.
 
+## IV. CÁC MỐI QUAN HỆ
+- **Lý Bán Nguyệt** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bán Yêu Thôn
+- **Nguyễn Lang Phong** (Gia đình): Huynh đệ chiến đấu, người rèn vũ khí cho mình, uống rượu cùng nhau
+- **Trần Thiên Hổ** (Gia đình): Đồng đội chiến đấu, huynh đệ kết nghĩa, quý mến chân thành
+- **Long Huyết Nhi** (Đồng minh): Chú gấu to lớn hay bế nó lên vai cho nhìn trời, vui nhất
+- **Hoàng Điểu Vũ Thiên** (Đồng minh): Đồng đội trinh sát, khách hàng đặt vũ khí kỳ quặc nhất
+- **Vương Xà Nhi** (Đồng minh): Y sư của thôn, người chữa bỏng luyện khí, thầm mến nhưng không dám nói
+- **Lê Hồ Nguyệt Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bán Yêu Thôn
+- **Lý Cơ Giới** (Đồng minh): Đồng nghiệp thợ rèn, trao đổi kỹ thuật luyện khí
+
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 ### Công Pháp
