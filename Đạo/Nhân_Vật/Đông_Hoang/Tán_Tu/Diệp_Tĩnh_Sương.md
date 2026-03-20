@@ -196,3 +196,4 @@ arcs:
 - **Tiền Bối:** Lục Trần (Cửu Hoa Kiếm Tông - Tông Chủ, bậc tiền bối kiếm đạo đáng kính, kỳ vọng nàng kế thừa).
 - **Đồng Đạo:** Hàn Thanh Nguyệt (Kiếm tu cùng trang lứa, chưa gặp mặt).
 - **Kẻ Thù:** Ngô Công Trưởng Lão (Vạn Độc Môn - Ngũ Độc Trưởng Lão, kẻ truy sát tại Huyết Mạch Thượng Cổ).
+- **Tiền Bối:** Nham Thần (Cự Tộc - Tiền bối từng gặp gỡ và chỉ dẫn trên hành trình).
