@@ -797,6 +797,8 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Phạm Thương Đạo (Tổng Quản Vận Tải - Kim Đan Viên Mãn):** Lão phu khoác cẩm bào thêu vàng, sòng phẳng trọng chữ tín. Tinh thông *Lưu Sa Xa Trận*, chịu trách nhiệm vận chuyển và bảo vệ an toàn cho các đoàn hàng.
   - **Trần Khoáng Sơn (Gia Chủ Khai Khoáng - Nguyên Anh Sơ Kỳ):** Gã khổng lồ thô lỗ, nhiều sẹo, xăm pháp trận rực đỏ. Dùng tuyệt kỹ *Toái Tinh Nham Chùy* độc quyền khai thác sa kim thạch và tìm kiếm khoáng thạch viễn cổ.
   - **Vô Danh (Thủ Lĩnh Sa Ảnh - Nguyên Anh Hậu Kỳ):** Sát thủ vô diện khoác sa y đen, tuyệt tình và vô hồn. Tu luyện *Sa Ảnh Quyết* ám sát kẻ thù ngáng đường và bảo vệ bí mật thương mại.
+  - **Vũ Thương Vân (Thương Nhân - Trúc Cơ Hậu Kỳ):** Nam nhân điềm đạm, toan tính, am hiểu *Kim Sa Khốn Trận*. Y luôn nỗ lực thăng tiến trong nội bộ và là cộng sự đắc lực của Đặng Thiên Hà.
+  - **Đặng Thiên Hà (Đội Trưởng Hộ Thương - Kim Đan Trung Kỳ):** Chiến binh vạm vỡ, trầm ổn, vung *Trọng Sa Cuồng Đao* bảo vệ hàng hóa. Bí mật tìm kiếm nguyên nhân gây ra bão cát thảm khốc trong quá khứ.
 
 ### Hoàng Sa Di Dân (Tây Mạc)
 - Cập nhật hồ sơ chi tiết cho các nhân vật thuộc **Hoàng Sa Di Dân** (Tây Mạc):

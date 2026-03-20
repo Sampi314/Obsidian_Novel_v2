@@ -481,3 +481,4 @@ Khi tất cả góc nhìn đã cân bằng, viết theo thứ tự xoay vòng:
 > Đã hoàn thành Task 9 cho 3 nhân vật Cực Quang Thần Điện (Thiên Trụ): Yến Phi, Yến Tiểu Tiểu, Ưng Liệt Phong.
 > Đã hoàn thành Task 9 cho 3 nhân vật Tuyết Trung Cô Viện (Bắc Băng): Lý Mộ Tuyết, Lê Dược Nương, Phạm Thư Sinh.
 > Đã hoàn thành Task 9 cho 3 nhân vật Hàn Phong Truyền Tin Đội (Bắc Băng): Vũ Khinh Hồng, Vũ Phiêu Linh, Vũ Tật Phong.
+> Đã hoàn thành Task 9 cho 2 nhân vật Thiên Sa Thương Hội (Tây Mạc): Vũ Thương Vân, Đặng Thiên Hà.
