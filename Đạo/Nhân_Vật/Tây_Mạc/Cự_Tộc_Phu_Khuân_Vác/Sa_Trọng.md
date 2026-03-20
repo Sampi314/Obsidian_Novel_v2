@@ -105,16 +105,10 @@ arcs:
     - Tu vi thấp, không có pháp thuật. Chậm chạp, phản xạ kém trước đòn đánh tốc độ cao. Dễ bị khích tướng vì nóng tính.
 
 ## VI. QUAN HỆ
-
-- **Sa Lực (Công Đầu):**
-    - Người lão kính trọng nhất trên đời. Lão không gọi Sa Lực là "Công Đầu" mà gọi là "Lão Lực" — cách gọi thân mật mà chỉ mình lão dám dùng. Khi Sa Lực ra lệnh đình công, lão là người đầu tiên đặt hàng xuống. Khi Sa Lực gặp khó khăn, lão là người duy nhất dám vỗ vai lão mà nói: "Sẽ ổn thôi."
-- **Sa Kiên (Tổ Trưởng):**
-    - Hai người cãi nhau như cơm bữa — Sa Trọng chê Sa Kiên "cứng đầu như đá," Sa Kiên mắng Sa Trọng "ồn ào như bão cát." Nhưng mỗi khi một trong hai gặp nguy, người kia chạy đến đầu tiên. Họ là hai mặt của cùng một tấm khiên: một người làm tinh thần, một người làm kỷ luật.
-- **Sa Mặc (Phu Khuân Vác):**
-    - Lão thích trêu Sa Mặc vì gã không bao giờ phản ứng — kể chuyện cười trước mặt gã, chờ gã cười mà không bao giờ được. Nhưng một lần, lão bắt gặp Sa Mặc đứng nhìn trời đêm, đôi mắt ướt. Từ đó lão không trêu nữa, chỉ lặng lẽ mang cho gã một bát canh nóng mỗi tối mà không nói gì.
-- **Phu Khuân Dưới Quyền:**
-    - Mười lăm Cự Nhân ở trạm Bắc Phong gọi lão là "Trọng ca." Lão nhớ tên vợ con từng người, biết ai đang thiếu tiền gửi về nhà, biết ai đang nhớ quê. Lão dùng tiếng cười để giữ cho trạm không bao giờ rơi vào tuyệt vọng.
-
+- **Sa Kiên** (Đồng minh): Hai người cãi nhau như cơm bữa — Sa Trọng chê Sa Kiên "cứng đầu như đá," Sa Kiên mắng Sa Trọng "ồn ào như bão cát." Nhưng mỗi khi một trong hai gặp nguy, người kia chạy đến đầu tiên. Họ là hai mặt của cùng một tấm khiên: một người làm tinh thần, một người làm kỷ luật.
+- **Sa Lực** (Đồng minh): Người lão kính trọng nhất trên đời. Lão không gọi Sa Lực là "Công Đầu" mà gọi là "Lão Lực" — cách gọi thân mật mà chỉ mình lão dám dùng. Khi Sa Lực ra lệnh đình công, lão là người đầu tiên đặt hàng xuống. Khi Sa Lực gặp khó khăn, lão là người duy nhất dám vỗ vai lão mà nói: "Sẽ ổn thôi."
+- **Sa Mặc** (Đồng minh): Lão thích trêu Sa Mặc vì gã không bao giờ phản ứng — kể chuyện cười trước mặt gã, chờ gã cười mà không bao giờ được. Nhưng một lần, lão bắt gặp Sa Mặc đứng nhìn trời đêm, đôi mắt ướt. Từ đó lão không trêu nữa, chỉ lặng lẽ mang cho gã một bát canh nóng mỗi tối mà không nói gì.
+- **Phu Khuân Dưới Quyền:** Mười lăm Cự Nhân ở trạm Bắc Phong gọi lão là "Trọng ca." Lão nhớ tên vợ con từng người, biết ai đang thiếu tiền gửi về nhà, biết ai đang nhớ quê. Lão dùng tiếng cười để giữ cho trạm không bao giờ rơi vào tuyệt vọng.
 ## VII. GIAI THOẠI
 
 > *"Ở Thiên Sa Thương Đạo, nghe tiếng cười vang thì biết trạm Bắc Phong còn hoạt động. Ngày nào im lặng, ngày đó sa mạc gặp chuyện lớn."*
