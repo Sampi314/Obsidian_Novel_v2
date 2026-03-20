@@ -51,6 +51,42 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Hắc Dạ
+        description: Tứ Sát, đồng đội chiến đấu phối hợp tốt nhất
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 0
+          tin: 40
+          so: 0
+          on: 0
+      - character: Diệp Thanh Trúc
+        description: Ngũ Sát, đồng đội trẻ muốn vượt qua hắn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 20
+          so: 0
+          on: 0
+      - character: Phùng Tiêu
+        description: Lục Sát, đồng đội lanh lợi mà hắn quản lý
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 20
+          so: 0
+          on: 0
+      - character: Tiêu Vô Hận
+        description: Thất Sát, đồng đội trẻ nhất coi hắn là hình mẫu
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 15
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HÀN PHONG (韓鋒)
