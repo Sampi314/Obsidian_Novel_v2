@@ -36,6 +36,15 @@ arcs:
           tin: 55
           so: 0
           on: 5
+      - character: Quy Huyền Thiên
+        description: Đệ Nhất Tế Tư và Viện Chủ, bậc trưởng bối mà Thiên Âm trung thành phục vụ
+        feelings:
+          yeu: 20
+          han: 0
+          kinh: 90
+          tin: 85
+          so: 5
+          on: 40
 ---
 
 # HỒ SƠ NHÂN VẬT: LOA THIÊN ÂM (螺天音)

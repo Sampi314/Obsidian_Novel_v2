@@ -51,6 +51,15 @@ arcs:
           tin: 0
           so: 45
           on: 0
+      - character: Cô Nguyệt Nương
+        description: Cổ Độc Sư, người mà hắn từng xin học cổ trùng thuật nhưng bị từ chối
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 40
+          tin: 20
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ÂN TIỂU ĐỘC (殷小毒)
