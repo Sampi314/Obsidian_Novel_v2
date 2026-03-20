@@ -32,9 +32,14 @@ Thường mặc y phục màu xanh lam nhạt như nước biển, mái tóc dà
 Chuyên tu thủy hệ công pháp, thiên về phòng ngự và trị liệu thương thế. Tuyệt kỹ "Thủy Lam Kết Giới" (水蓝结界) có thể tạo ra một màn chắn nước vững chắc, vừa bảo vệ học viện khỏi tác động bên ngoài, vừa ngăn chặn sức tàn phá của rồng con trong quá trình luyện tập. Điểm yếu là khả năng tấn công trực diện không mạnh, chủ yếu dựa vào trận pháp để áp chế đối thủ.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Long Ngọc** (Sư đồ): Lam Nguyệt chỉ dẫn Long Ngọc trong Ấu Long Học Viện
+- **Long Vân Nhi** (Sư đồ): Lam Nguyệt chỉ dẫn Long Vân Nhi trong Ấu Long Học Viện
+- **Ngao Tiểu Lôi** (Sư đồ): Lam Nguyệt chỉ dẫn Ngao Tiểu Lôi trong Ấu Long Học Viện
+- **Long Ngọc** (Cấp dưới): Phục tùng Lam Nguyệt, Bảo Mẫu Trưởng của Ấu Long Học Viện
+- **Long Vân Nhi** (Cấp dưới): Phục tùng Lam Nguyệt, Bảo Mẫu Trưởng của Ấu Long Học Viện
+- **Ngao Tiểu Lôi** (Cấp dưới): Phục tùng Lam Nguyệt, Bảo Mẫu Trưởng của Ấu Long Học Viện
 - **Long Vân Nhi:** Đệ tử đắc lực, người giúp bà quản lý các giáo trình và chăm sóc rồng con hằng ngày.
 - **Ngao Tiểu Lôi:** Trợ giảng trẻ tuổi, bà thường xuyên phải chỉ bảo và rèn luyện thêm về lòng kiên nhẫn cho cậu.
 - **Long Ngọc:** Một trong những học viên khiến bà lo lắng nhất vì sự nghịch ngợm nhưng cũng là người bà yêu quý vì thiên tư vượt trội.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nguyên là một nữ quan phục vụ trong Long Cung, nhưng vì tư chất tu luyện chỉ dừng lại ở mức trung bình nên bị điều đi làm Bảo Mẫu Trưởng tại Đảo Vân Vụ xa xôi. Ban đầu, bà coi đây là một hình thức lưu đày, nhưng theo thời gian, tình cảm dành cho bầy rồng nhỏ đã khiến bà quyết định gắn bó cả đời với nơi này. Hiện tại, mục tiêu lớn nhất của bà là nuôi dạy bầy rồng con trưởng thành khỏe mạnh để có thể quay về phục vụ Long Cung.
