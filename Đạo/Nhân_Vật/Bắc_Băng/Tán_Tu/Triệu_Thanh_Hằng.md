@@ -35,6 +35,51 @@ arcs:
           tin: 50
           so: 0
           on: 10
+      - character: Bằng Bắc Minh
+        description: Tiền bối Vũ Tộc chỉ dẫn nàng trong Tán Tu
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 60
+          tin: 50
+          so: 0
+          on: 40
+      - character: Hạc Tuyết Nhi
+        description: Tiền bối y sư Vũ Tộc chỉ dẫn nàng trong Tán Tu
+        feelings:
+          yeu: 10
+          han: 0
+          kinh: 65
+          tin: 55
+          so: 0
+          on: 45
+      - character: Sương Lệ Nhi
+        description: Tiền bối Trùng Tộc chỉ dẫn nàng trong Tán Tu
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 50
+          tin: 40
+          so: 0
+          on: 35
+      - character: Tước Hàn
+        description: Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 20
+          tin: 40
+          so: 0
+          on: 5
+      - character: Tước Tuyết Nhi
+        description: Đồng liêu cùng Tán Tu, hỗ trợ lẫn nhau
+        feelings:
+          yeu: 5
+          han: 0
+          kinh: 25
+          tin: 40
+          so: 0
+          on: 5
 ---
 
 # HỒ SƠ NHÂN VẬT: TRIỆU THANH HẰNG
