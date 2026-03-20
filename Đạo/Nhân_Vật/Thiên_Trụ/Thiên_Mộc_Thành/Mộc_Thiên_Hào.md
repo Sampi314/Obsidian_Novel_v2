@@ -37,10 +37,20 @@ arcs:
 - **Điểm Mạnh & Yếu:** Phòng thủ kiên cố vô song khi chiến đấu tại Thiên Mộc Thành. Tuy nhiên, sức mạnh tấn công đơn thể của ông không quá nổi trội và sức mạnh sẽ bị giảm sút phần nào nếu rời xa tầm ảnh hưởng của Cây Cổ Thụ.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Hồ Thương** (Chủ tớ): Thủ hạ trung thành trong Thiên Mộc Thành
+- **Hồ Thương** (Cấp dưới): Phục tùng Mộc Thiên Hào, Thành Chủ của Thiên Mộc Thành
+- **Lâm Thương** (Đồng minh): Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau
+- **Lâm Vạn Hóa** (Đồng minh): Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau
+- **Mộc Thiên Quân** (Sư đồ): Mộc Thiên Hào chỉ dẫn Mộc Thiên Quân trong Thiên Mộc Thành
+- **Mộc Vân** (Đồng minh): Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau
+- **Trần Thiết** (Sư đồ): Mộc Thiên Hào chỉ dẫn Trần Thiết trong Thiên Mộc Thành
+- **Vương Lương** (Sư đồ): Mộc Thiên Hào chỉ dẫn Vương Lương trong Thiên Mộc Thành
+- **Mộc Thiên Quân** (Cấp dưới): Phục tùng Mộc Thiên Hào, Thành Chủ của Thiên Mộc Thành
+- **Trần Thiết** (Cấp dưới): Phục tùng Mộc Thiên Hào, Thành Chủ của Thiên Mộc Thành
+- **Vương Lương** (Đồng minh): Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau
 - **Mộc Thiên Quân:** Em trai ruột và là Tướng Quân Thị Vệ. Dù thỉnh thoảng bất đồng về cách đối phó với các mối đe dọa bên ngoài, Mộc Thiên Hào luôn tin tưởng tuyệt đối vào lòng trung thành của người em này.
 - **Mộc Vân:** Phó Thành Chủ Quân Sự, cánh tay phải đắc lực. Mộc Thiên Hào rất trân trọng tài trí mưu lược và khả năng bày binh bố trận của Mộc Vân.
 - **Thương Hội Liên Minh:** Đối tác chiến lược quan trọng. Ông liên tục tạo điều kiện để giới thương nhân phát triển, thu về nguồn lợi kinh tế khổng lồ duy trì hoạt động của thành phố.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 - **Tiểu Sử:** Tiếp nhận chức vị Thành Chủ vào giai đoạn Thiên Mộc Thành vừa trải qua một đợt thú triều thảm khốc từ Nam Cương, Mộc Thiên Hào đã tự tay tu bổ Thiên Mộc Đại Trận. Bằng tầm nhìn chiến lược xuất sắc, ông biến thành phố thành điểm trung chuyển linh dược sầm uất, khôi phục lại thời kỳ hoàng kim.
 - **Hành Trình:** Hiện tại, ông không chỉ lo lắng duy trì sự cân bằng tinh tế giữa Đại Càn Hoàng Triều và Vạn Độc Môn, mà còn bí mật phái người canh giữ nghiêm ngặt lõi cây cổ thụ, chờ ngày "Thần Quả" chín muồi.

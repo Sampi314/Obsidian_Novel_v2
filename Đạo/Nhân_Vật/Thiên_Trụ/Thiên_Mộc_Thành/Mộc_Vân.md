@@ -37,10 +37,14 @@ arcs:
 - **Điểm Mạnh & Yếu:** Rất mạnh trong chiến đấu quân đoàn và đối phó với kẻ thù số đông nhờ khả năng thiết lập trận địa khéo léo. Tuy nhiên, sức mạnh thể chất của ông tương đối khiêm tốn, dễ gặp nguy hiểm nếu bị áp sát nhanh chóng.
 
 ## IV. CÁC MỐI QUAN HỆ
+- **Lâm Vạn Hóa** (Sư đồ): Mộc Vân chỉ dẫn Lâm Vạn Hóa trong Thiên Mộc Thành
+- **Mộc Thiên Hào** (Đồng minh): Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau
+- **Mộc Thiên Quân** (Đồng minh): Đồng liêu cùng Thiên Mộc Thành, hỗ trợ lẫn nhau
+- **Trần Thiết** (Sư đồ): Mộc Vân chỉ dẫn Trần Thiết trong Thiên Mộc Thành
+- **Vương Lương** (Sư đồ): Mộc Vân chỉ dẫn Vương Lương trong Thiên Mộc Thành
 - **Mộc Thiên Hào:** Thành Chủ, đồng thời là người Mộc Vân hết lòng phò tá. Mộc Thiên Hào rất tín nhiệm, giao toàn quyền điều động binh lực cho ông.
 - **Mộc Thiên Quân:** Tướng Quân Thị Vệ, thường xuyên chỉ huy tiền tuyến theo chiến thuật của ông. Dù hay bị cằn nhằn về sự "tính toán quá mức", Mộc Vân vẫn nể trọng dũng khí của Thiên Quân.
 - **Đại Càn Hoàng Triều:** Giữ quan hệ thông tin mật thiết, hiểu rõ tình hình quân sự của phe đế quốc để đảm bảo Thiên Mộc Thành luôn chủ động ứng phó.
-
 ## V. TIỂU SỬ & HÀNH TRÌNH
 - **Tiểu Sử:** Vốn chỉ là một đệ tử xuất thân từ nhánh phụ xa xôi của gia tộc Mộc, Mộc Vân vươn lên bằng trí tuệ quân sự trác tuyệt trong những năm tháng Thiên Mộc Thành bị bao vây bởi sự trỗi dậy của yêu thú và sự xâm nhập của Vạn Độc Môn. Khả năng thiết kế hệ thống phòng thủ tinh vi đã mang lại cho ông vị trí Phó Thành Chủ Quân Sự.
 - **Hành Trình:** Hiện tại, ông đang gia cố các tuyến phòng thủ và xây dựng mạng lưới mật thám ở rìa Nam Cương, luôn đề phòng các cuộc tập kích bất ngờ và những biến động chính trị đang ngấm ngầm diễn ra xung quanh "Thần Quả".
