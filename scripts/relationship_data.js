@@ -29349,6 +29349,216 @@ const relationshipData = {
       "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
       "personality": "Vô tư, Ham chơi, Phụ thuộc",
       "description": "Cổ Tử Vân có vóc dáng nhỏ bé, khuôn mặt tròn trịa dễ thương như búp bê. Làn da nàng trắng trẻo, hai má lúc nào cũng lúm đồng tiền khi cười. Nàng có đôi mắt to tròn, lúng liếng và mái tóc đen dày được búi thành hai quả đào hai bên, cài thêm vài bông hoa tử đằng tím nhạt."
+    },
+    {
+      "id": "o_thanh_duong",
+      "name": "Đỗ Thanh Dương",
+      "title": "Luyện Khí Hậu Kỳ",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "o_thanh_phong",
+      "name": "Đỗ Thanh Phong",
+      "title": "Luyện Khí Đỉnh Phong",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "o_tuyet_lan",
+      "name": "Đỗ Tuyết Lan",
+      "title": "Luyện Khí Sơ Kỳ",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "ho_thien_lang",
+      "name": "Hồ Thiên Lăng",
+      "title": "Luyện Khí Đỉnh Phong",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "ho_tieu_yen",
+      "name": "Hồ Tiểu Yến",
+      "title": "Luyện Khí Sơ Kỳ",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "ho_thanh_ha",
+      "name": "Hồ Thanh Hà",
+      "title": "Luyện Khí Hậu Kỳ",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "duong_tu_huyen",
+      "name": "Dương Tử Huyên",
+      "title": "Luyện Khí Trung Kỳ",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "duong_ngoc_van",
+      "name": "Dương Ngọc Vân",
+      "title": "Luyện Khí Hậu Kỳ",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "duong_thien_tuong",
+      "name": "Dương Thiên Tường",
+      "title": "Luyện Khí Sơ Kỳ",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "tao_phi_hung",
+      "name": "Tào Phi Hùng",
+      "title": "Luyện Khí Hậu Kỳ",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "tao_thanh_tam",
+      "name": "Tào Thanh Tâm",
+      "title": "Luyện Khí Sơ Kỳ",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "tao_kiem_anh",
+      "name": "Tào Kiếm Anh",
+      "title": "Luyện Khí Đỉnh Phong",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "thach_tieu_ong",
+      "name": "Thạch Tiểu Đồng",
+      "title": "Luyện Khí Sơ Kỳ",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "thach_thien_cuong",
+      "name": "Thạch Thiên Cương",
+      "title": "Luyện Khí Đỉnh Phong",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
+    },
+    {
+      "id": "thach_bach_van",
+      "name": "Thạch Bạch Vân",
+      "title": "Luyện Khí Sơ Kỳ",
+      "realm": "Luyện",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#1976d2",
+      "race": "Nhân Tộc",
+      "personality": "Ngoại Môn Đệ Tử",
+      "description": ""
     }
   ],
   "relationships": [
@@ -66531,6 +66741,396 @@ const relationshipData = {
         "tin": 70,
         "so": 0,
         "on": 0
+      }
+    },
+    {
+      "source": "o_thanh_duong",
+      "target": "o_thanh_phong",
+      "description": "Đường huynh, cùng xuất thân từ gia tộc họ Đỗ nhỏ bé, luôn bảo bọc nhau.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 70,
+        "tin": 80,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "o_thanh_duong",
+      "target": "o_tuyet_lan",
+      "description": "Đường muội, thông minh nhưng thể chất yếu, thường phải chăm sóc.",
+      "feelings": {
+        "yeu": 70,
+        "han": 0,
+        "kinh": 30,
+        "tin": 60,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "o_thanh_phong",
+      "target": "o_thanh_duong",
+      "description": "Đường đệ, to lớn và vững chãi, người bạn đồng hành không thể thiếu.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 50,
+        "tin": 85,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "o_thanh_phong",
+      "target": "o_tuyet_lan",
+      "description": "Đường muội, là đóa hoa nhỏ của gia tộc mà y và Thanh Dương luôn bảo vệ.",
+      "feelings": {
+        "yeu": 75,
+        "han": 0,
+        "kinh": 30,
+        "tin": 60,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "o_tuyet_lan",
+      "target": "o_thanh_phong",
+      "description": "Đường huynh lớn nhất, là chỗ dựa và người thông tuệ để nàng có thể chia sẻ những suy nghĩ sâu thẳm.",
+      "feelings": {
+        "yeu": 85,
+        "han": 0,
+        "kinh": 80,
+        "tin": 95,
+        "so": 0,
+        "on": 50
+      }
+    },
+    {
+      "source": "o_tuyet_lan",
+      "target": "o_thanh_duong",
+      "description": "Đường huynh bộc trực, như một bức tường vững chãi, luôn khiến nàng cảm thấy được che chở.",
+      "feelings": {
+        "yeu": 85,
+        "han": 0,
+        "kinh": 60,
+        "tin": 90,
+        "so": 0,
+        "on": 50
+      }
+    },
+    {
+      "source": "ho_thien_lang",
+      "target": "ho_tieu_yen",
+      "description": "Đường muội bướng bỉnh, hắn thường phải dùng biện pháp mạnh để bảo vệ và khuyên can.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 40,
+        "tin": 75,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "ho_thien_lang",
+      "target": "ho_thanh_ha",
+      "description": "Đường huynh lớn hơn, là đối trọng trong dòng họ Hồ tại Ngoại Môn, hắn luôn ganh đua ngầm.",
+      "feelings": {
+        "yeu": 40,
+        "han": 20,
+        "kinh": 50,
+        "tin": 30,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "ho_tieu_yen",
+      "target": "ho_thien_lang",
+      "description": "Đường huynh mặt lạnh, thường xuyên mắng mỏ nhưng nàng biết hắn rất tốt với mình.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 40,
+        "tin": 90,
+        "so": 30,
+        "on": 50
+      }
+    },
+    {
+      "source": "ho_tieu_yen",
+      "target": "ho_thanh_ha",
+      "description": "Đường huynh hào sảng, thường hay cho kẹo hồ lô và kể chuyện ma quỷ.",
+      "feelings": {
+        "yeu": 65,
+        "han": 0,
+        "kinh": 20,
+        "tin": 60,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "ho_thanh_ha",
+      "target": "ho_thien_lang",
+      "description": "Đường đệ, một tên mặt lạnh khó ưa nhưng tài năng xuất chúng. Hắn coi đó là cột mốc để đánh bại.",
+      "feelings": {
+        "yeu": 40,
+        "han": 20,
+        "kinh": 60,
+        "tin": 50,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "ho_thanh_ha",
+      "target": "ho_tieu_yen",
+      "description": "Đường muội nghịch ngợm, hắn khá cưng chiều nàng và thường dùng nàng để chọc tức Thiên Lăng.",
+      "feelings": {
+        "yeu": 75,
+        "han": 0,
+        "kinh": 30,
+        "tin": 70,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "duong_tu_huyen",
+      "target": "duong_ngoc_van",
+      "description": "Tỷ tỷ ruột, luôn lo lắng và chăm lo cho nàng như một người mẹ nhỏ.",
+      "feelings": {
+        "yeu": 90,
+        "han": 0,
+        "kinh": 80,
+        "tin": 95,
+        "so": 0,
+        "on": 70
+      }
+    },
+    {
+      "source": "duong_tu_huyen",
+      "target": "duong_thien_tuong",
+      "description": "Đường đệ nhút nhát, nàng hay dạy hắn cách vẽ những trận đồ bảo vệ cơ bản.",
+      "feelings": {
+        "yeu": 65,
+        "han": 0,
+        "kinh": 20,
+        "tin": 80,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "duong_ngoc_van",
+      "target": "duong_tu_huyen",
+      "description": "Muội muội ruột, người nàng thề sẽ bảo vệ bằng mọi giá, luôn là ưu tiên lớn nhất.",
+      "feelings": {
+        "yeu": 100,
+        "han": 0,
+        "kinh": 80,
+        "tin": 100,
+        "so": 0,
+        "on": 50
+      }
+    },
+    {
+      "source": "duong_ngoc_van",
+      "target": "duong_thien_tuong",
+      "description": "Đường đệ nhút nhát, nàng phải nghiêm khắc để hắn mạnh mẽ và tự lập hơn.",
+      "feelings": {
+        "yeu": 75,
+        "han": 0,
+        "kinh": 30,
+        "tin": 60,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "duong_thien_tuong",
+      "target": "duong_ngoc_van",
+      "description": "Đường tỷ đáng sợ, luôn ép hắn vào kỷ luật thép, khiến hắn lúc nào cũng lo lắng rụt rè.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 70,
+        "tin": 80,
+        "so": 85,
+        "on": 30
+      }
+    },
+    {
+      "source": "duong_thien_tuong",
+      "target": "duong_tu_huyen",
+      "description": "Đường tỷ, dịu dàng hướng dẫn hắn vẽ trận pháp, hắn rất thích ở cùng phòng sách với nàng.",
+      "feelings": {
+        "yeu": 85,
+        "han": 0,
+        "kinh": 60,
+        "tin": 90,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "tao_phi_hung",
+      "target": "tao_thanh_tam",
+      "description": "Đường muội mỏng manh, luôn là người duy nhất khiến hắn phải nhỏ nhẹ hạ giọng.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 40,
+        "tin": 85,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "tao_phi_hung",
+      "target": "tao_kiem_anh",
+      "description": "Đường đệ kiêu căng, hắn ghét cái lối ăn nói sắc sảo của y nhưng vẫn phải bảo vệ vì nhiệm vụ gia tộc.",
+      "feelings": {
+        "yeu": 50,
+        "han": 10,
+        "kinh": 30,
+        "tin": 60,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "tao_thanh_tam",
+      "target": "tao_phi_hung",
+      "description": "Đường huynh to lớn, thô lỗ nhưng lại là tấm khiên vững chắc nhất bảo vệ nàng.",
+      "feelings": {
+        "yeu": 85,
+        "han": 0,
+        "kinh": 70,
+        "tin": 90,
+        "so": 0,
+        "on": 60
+      }
+    },
+    {
+      "source": "tao_thanh_tam",
+      "target": "tao_kiem_anh",
+      "description": "Đường huynh kiêu ngạo, hay soi mói sự yếu ớt của nàng, nhưng đôi lúc lại kín đáo chỉ điểm kiếm pháp.",
+      "feelings": {
+        "yeu": 50,
+        "han": 10,
+        "kinh": 40,
+        "tin": 60,
+        "so": 20,
+        "on": 10
+      }
+    },
+    {
+      "source": "tao_kiem_anh",
+      "target": "tao_phi_hung",
+      "description": "Đường huynh thô lỗ, luôn dùng nắm đấm nói chuyện thay cho cái đầu. Hắn cảm thấy Phi Hùng là kẻ thiếu trí tuệ.",
+      "feelings": {
+        "yeu": 20,
+        "han": 30,
+        "kinh": 50,
+        "tin": 40,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "tao_kiem_anh",
+      "target": "tao_thanh_tam",
+      "description": "Đường muội yếu ớt, hắn cho rằng sự mềm yếu của nàng làm vấy bẩn danh tiếng họ Tào, nhưng sâu thẳm lại không nỡ để nàng bị thương.",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 40,
+        "tin": 60,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "thach_tieu_ong",
+      "target": "thach_thien_cuong",
+      "description": "Đại ca ruột, người luôn bắt ép hắn phải tập luyện cực khổ mỗi ngày để không bị bắt nạt.",
+      "feelings": {
+        "yeu": 85,
+        "han": 0,
+        "kinh": 70,
+        "tin": 90,
+        "so": 50,
+        "on": 60
+      }
+    },
+    {
+      "source": "thach_tieu_ong",
+      "target": "thach_bach_van",
+      "description": "Đường tỷ hiền lành, luôn giấu đồ ăn ngon cho hắn sau những trận đòn của Thiên Cương.",
+      "feelings": {
+        "yeu": 95,
+        "han": 0,
+        "kinh": 60,
+        "tin": 100,
+        "so": 0,
+        "on": 70
+      }
+    },
+    {
+      "source": "thach_thien_cuong",
+      "target": "thach_tieu_ong",
+      "description": "Đứa em ruột ngờ nghệch, hắn nghiêm khắc huấn luyện nó để sống sót giữa tu chân giới hiểm ác.",
+      "feelings": {
+        "yeu": 90,
+        "han": 0,
+        "kinh": 30,
+        "tin": 80,
+        "so": 0,
+        "on": 30
+      }
+    },
+    {
+      "source": "thach_thien_cuong",
+      "target": "thach_bach_van",
+      "description": "Đường muội nhu mì, hắn cảm kích nàng vì luôn chăm sóc Tiểu Đồng khi hắn bận rộn tu luyện.",
+      "feelings": {
+        "yeu": 75,
+        "han": 0,
+        "kinh": 60,
+        "tin": 85,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "thach_bach_van",
+      "target": "thach_tieu_ong",
+      "description": "Đường đệ tròn vo, nàng luôn thấy tội nghiệp khi hắn bị ăn đòn nên lén giấu thức ăn cho hắn.",
+      "feelings": {
+        "yeu": 85,
+        "han": 0,
+        "kinh": 50,
+        "tin": 95,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "thach_bach_van",
+      "target": "thach_thien_cuong",
+      "description": "Đường huynh nghiêm khắc, nàng tôn trọng nhưng đôi khi phản đối cách huấn luyện tàn nhẫn của hắn.",
+      "feelings": {
+        "yeu": 60,
+        "han": 10,
+        "kinh": 80,
+        "tin": 85,
+        "so": 40,
+        "on": 50
       }
     }
   ],
