@@ -1,7 +1,7 @@
 # Daily Tasks — Việc Mặc Định Khi Không Có Task Cụ Thể
 
-> Nếu `agent_schedule.md` không có task ưu tiên nào chưa hoàn thành,
-> hoặc tất cả task đang bị agent khác claim, thì làm việc trong danh sách này.
+> Nếu không có file `01_`, `02_`... nào trong `.claude/plans/`,
+> hoặc tất cả hàng trong bảng Work Queue đang 🔄/✅, thì làm việc trong danh sách này.
 
 ---
 
