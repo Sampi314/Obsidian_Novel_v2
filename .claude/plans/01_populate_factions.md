@@ -435,7 +435,7 @@ Thành Chủ
 | Cửu Hoa Kiếm Tông | 3. Nội Môn | 100 | 0 | 100 | ✅ |
 | Cửu Hoa Kiếm Tông | 4. Ngoại Môn | 180 | 20 | 200 | 🔄 |
 | Cửu Hoa Kiếm Tông | 5. Phàm Nhân | 12 | 15 | 10000 | 🔄 |
-| Thần Khí Phường | 1. Leadership | 0 | 0 | 20 | ⬜ |
+| Thần Khí Phường | 1. Leadership | 0 | 20 | 20 | 🔄 |
 | Thần Khí Phường | 2. Chân Truyền | 0 | 0 | 30 | ⬜ |
 | Thần Khí Phường | 3. Nội Môn | 0 | 0 | 100 | ⬜ |
 | Thần Khí Phường | 4. Ngoại Môn | 0 | 0 | 200 | ⬜ |
