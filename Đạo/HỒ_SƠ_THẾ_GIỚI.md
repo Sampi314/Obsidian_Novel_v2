@@ -867,3 +867,5 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Phong Thiết Nha** (Nguyên Anh Trung Kỳ): Hộ Pháp cường tráng, sử dụng Tật Phong Thiết Côn bảo vệ hạm đội.
 - **Vân Hải Đồ** (Kim Đan Viên Mãn): Hướng Đạo Sư trầm tĩnh, am hiểu hải lưu, la bàn định vị và tạo ảo ảnh sương mù.
 - **Đặng Thương Hà** (Kim Đan Hậu Kỳ): Đại Chưởng Quỹ mập mạp, mưu mô, coi trọng chữ tín và đàm phán thương mại.
+
+- **Nhân Vật Mới Điền Chi Tiết:** Mã Tử Linh, Mã Tử Vân, Mã Vân Sương (Cửu Hoa Kiếm Tông - Đông Hoang).
