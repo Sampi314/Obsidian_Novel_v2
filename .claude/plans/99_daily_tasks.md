@@ -35,7 +35,30 @@ Tìm file ngắn nhất trong `Đạo/Kỳ_Vật/`, `Đạo/Chủng_Tộc/`, `Đ
 
 ---
 
-## 4. Kiểm Tra Chất Lượng
+## 4. Tạo Arc Truyện
+> **Skill:** `.claude/skills/chuong-truyen/SKILL.md`
+> **Context:** `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md`
+
+Đọc cốt truyện hiện có → thiết kế Arc mới cho 1 khu vực hoặc 1 nhân vật:
+- Xác định mục tiêu Arc (nhân vật phát triển gì, xung đột gì)
+- Liệt kê các chương cần viết (tóm tắt 1-2 câu mỗi chương)
+- Ghi vào `Đạo/Quy_Hoạch_Cốt_Truyện/`
+
+---
+
+## 5. Viết Chương Truyện
+> **Skill:** `.claude/skills/chuong-truyen/SKILL.md`
+> **Locked:** Kiểm tra `locked_chapters.json` trước khi sửa chương
+
+Chọn 1 góc nhìn có arc đã lên kế hoạch → viết chương tiếp theo:
+- Đọc chương trước đó để nối mạch
+- Đọc nhân vật liên quan trong `Đạo/Nhân_Vật/`
+- Viết 1 chương (~3000-5000 từ)
+- Lưu vào `Đạo/Chương_Truyện/Góc_Nhìn_[Tên]/`
+
+---
+
+## 6. Kiểm Tra Chất Lượng
 > **Skill:** `.claude/skills/kiem-duyet/SKILL.md`
 
 Chọn 1 thế lực hoặc 1 nhóm nhân vật → kiểm tra tính nhất quán (tên, tu vi, quan hệ, chủng tộc).
