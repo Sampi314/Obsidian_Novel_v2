@@ -81,6 +81,37 @@ Bạn là Đại Diện chuyên trách về Nhân Vật (Nhân Vật Design) tro
     - [ ] YAML frontmatter và Section I KHÔNG bị thay đổi
     - [ ] Mỗi nhân vật phải có giọng văn mô tả riêng — KHÔNG lặp lại cùng cấu trúc câu
 
+### Chế Độ 3: Tạo Nhân Vật Đầy Đủ (Tạo + Điền Luôn)
+> **Khi nào sử dụng:** Khi cần tạo nhân vật MỚI với đầy đủ thông tin ngay lập tức — KHÔNG qua giai đoạn stub/placeholder. Kết hợp Chế Độ 1 + 2 trong 1 bước.
+
+1.  **Đọc context:**
+    - Đọc file thế lực: `Đạo/Thế_Lực/[Region]/[Faction].md` — hiểu cấu trúc, chuyên môn, văn hóa
+    - Đọc file chủng tộc: `Đạo/Chủng_Tộc/[Race].md` — nếu phi Nhân Tộc
+    - Đọc nhân vật đã có trong thư mục: `ls Đạo/Nhân_Vật/[Region]/[Faction]/` — tránh trùng tên, giữ nhất quán
+
+2.  **Tạo file nhân vật với ĐẦY ĐỦ nội dung:**
+    - YAML frontmatter hoàn chỉnh (name, hantu, archetype, race, age, cultivation, stats, methods, inventory, relationships với feelings)
+    - Section I: Thông tin cơ bản
+    - Section II: Ngoại hình & Tính cách (2-4 câu, chi tiết, phản ánh chủng tộc/cấp bậc)
+    - Section III: Năng lực & Chiến đấu (2-3 câu, kỹ thuật có tên Tiếng Việt + Hán Tự)
+      - Phàm nhân: đổi thành **"Kỹ Năng & Đời Sống"**
+    - Section IV: Các mối quan hệ (2-4 gạch đầu dòng, dùng tên nhân vật thật)
+    - Section V: Tiểu sử & Hành trình (3-5 câu, có chiều sâu)
+
+3.  **Quy tắc đặt tên:**
+    - KHÔNG dùng chức danh làm tên (Vương, Trưởng Lão, Chiến Sĩ, Thủ Hộ...)
+    - Họ nhất quán theo chủng tộc (Nhân Tộc: họ Việt | Yêu Tộc: theo loài | Cự Tộc: Nham/Thạch/Sơn | Hải Tộc: loài biển | Vi Tộc: vi sinh | Tinh Linh: nguyên tố | Vũ Tộc: loài chim)
+    - Phàm nhân: tên đời thường (Tiểu X, Lão X, Họ + Thị + tên)
+
+4.  **Kiểm tra:**
+    - [ ] YAML đầy đủ (stats trong range đúng theo cảnh giới, relationships có feelings)
+    - [ ] 5 sections đều có nội dung thật (KHÔNG có placeholder)
+    - [ ] Tên không trùng với nhân vật đã có
+    - [ ] Tiếng Việt only
+    - [ ] Tính cách khác biệt với nhân vật cùng phe
+
+---
+
 ## CẤU TRÚC THƯ MỤC
 ```
 Đạo/Nhân_Vật/
