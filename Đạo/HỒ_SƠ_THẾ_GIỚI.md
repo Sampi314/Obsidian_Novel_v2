@@ -871,3 +871,4 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Đặng Thương Hà** (Kim Đan Hậu Kỳ): Đại Chưởng Quỹ mập mạp, mưu mô, coi trọng chữ tín và đàm phán thương mại.
 
 - **Nhân Vật Mới Điền Chi Tiết:** Mã Tử Linh, Mã Tử Vân, Mã Vân Sương (Cửu Hoa Kiếm Tông - Đông Hoang).
+- **Nhân Vật Mới Điền Chi Tiết:** Vương Kim Tỏa, Vương Kim Đức, Vương Tiểu Kim (Cửu Hoa Kiếm Tông - Đông Hoang).
