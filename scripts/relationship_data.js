@@ -28914,6 +28914,216 @@ const relationshipData = {
       "race": "Nhân Tộc",
       "personality": "Tinh Ranh, Cuồng Thử Nghiệm, Tự Cao Ngầm",
       "description": "Khuôn mặt Đặng Tử Vận hình trái xoan, đôi mắt màu tím sẫm (do ảnh hưởng của Lôi Linh Căn) luôn nhấp nháy sự thông minh và tò mò. Làn da nàng trắng trẻo nhưng rất hay lấm lem vết muội than. Mái tóc đen dài thường được bới cao lộn xộn, cài vội bằng ..."
+    },
+    {
+      "id": "ha_thanh_mai",
+      "name": "Hà Thanh Mai",
+      "title": "Tiểu Thủy Mai",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Chăm chỉ, lạc quan, thích giúp đỡ",
+      "description": "Khuôn mặt tròn trĩnh, đôi mắt to tròn lấp lánh như sương, luôn nở nụ cười rạng rỡ và tỏa hương hoa mai nhè nhẹ."
+    },
+    {
+      "id": "ha_tu_lan",
+      "name": "Hà Tử Lan",
+      "title": "Lan Hỏa Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Quyết đoán, thẳng thắn, hiếu thắng",
+      "description": "Khuôn mặt sắc sảo, đôi mắt màu hổ phách luôn rực cháy ngọn lửa kiêu ngạo."
+    },
+    {
+      "id": "ha_phi_vu",
+      "name": "Hà Phi Vũ",
+      "title": "Phi Kiếm Vô Tình",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Tốc độ, lạnh lùng, ít nói",
+      "description": "Vóc dáng dong dỏng gầy, khuôn mặt góc cạnh với đôi mắt nheo lại như chim ưng."
+    },
+    {
+      "id": "hong_hoa_van",
+      "name": "Hồng Hỏa Vân",
+      "title": "Vân Hỏa Kiếm",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Hào sảng, liều mạng, nóng tính",
+      "description": "Thân hình vạm vỡ với làn da đỏ au và mái tóc lởm chởm như rễ tre, tỏa ra hơi nóng hầm hập."
+    },
+    {
+      "id": "hong_tieu_linh",
+      "name": "Hồng Tiểu Linh",
+      "title": "Linh Dược Tiểu Sư Muội",
+      "realm": "Luyện Khí Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Nhút nhát, tỉ mỉ, tốt bụng",
+      "description": "Nhỏ bé, gầy gò với khuôn mặt trẻ con, xung quanh lúc nào cũng thoang thoảng mùi linh dược."
+    },
+    {
+      "id": "hong_minh_chau",
+      "name": "Hồng Minh Châu",
+      "title": "Ngoại Môn Chưởng Quỹ",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Tham tiền, khôn khéo, thực dụng",
+      "description": "Khuôn mặt đầy đặn luôn nở nụ cười toan tính, y phục rực rỡ và lủng lẳng nhiều túi trữ vật."
+    },
+    {
+      "id": "kim_thiet_thach",
+      "name": "Kim Thiết Thạch",
+      "title": "Thiết Tí Sư Huynh",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Trầm tĩnh, kiên nhẫn, cứng đầu",
+      "description": "Vóc dáng rắn chắc như đá tảng, hai tay to lớn nổi đầy gân guốc và sẹo, luôn tỏa ra mùi khét."
+    },
+    {
+      "id": "kim_ngoc_lien",
+      "name": "Kim Ngọc Liên",
+      "title": "Hàn Kim Tiên Tử",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Cao ngạo, nguyên tắc, độc lập",
+      "description": "Xinh đẹp như đóa sen tuyết trắng muốt, xa cách và lạnh lẽo, mắc chứng sợ bẩn trầm trọng."
+    },
+    {
+      "id": "kim_bach_ho",
+      "name": "Kim Bạch Hổ",
+      "title": "Ngoại Môn Tiểu Hổ",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Hào sảng, hiếu chiến, nghĩa khí",
+      "description": "Mái tóc vằn trắng, vóc người săn chắc cơ bắp, tỏa ra sát khí hoang dã mãnh liệt."
+    },
+    {
+      "id": "dinh_thanh_thuy",
+      "name": "Đinh Thanh Thủy",
+      "title": "Ngoại Môn Tiểu Thủy",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Dịu dàng, nhẫn nại, bao dung",
+      "description": "Vóc dáng mỏng manh, khuôn mặt thanh tú với ánh nhìn hiền từ như làn suối vắt qua rừng thẳm."
+    },
+    {
+      "id": "dinh_hong_diep",
+      "name": "Đinh Hồng Diệp",
+      "title": "Lạc Diệp Kiếm",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Trầm tư, đa cảm, vô tình",
+      "description": "Vẻ ngoài tĩnh mịch và hiu quạnh như mùa thu tàn phai, thoắt ẩn thoắt hiện trong lá."
+    },
+    {
+      "id": "dinh_ngoc_thach",
+      "name": "Đinh Ngọc Thạch",
+      "title": "Ngoại Môn Trận Si",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Si mê, chậm chạp, trung thực",
+      "description": "Ngốc nghếch, lề mề, dáng người tròn trĩnh chậm chạp và thường xuyên lấm lem đất cát."
+    },
+    {
+      "id": "lao_hac_van",
+      "name": "Lão Hạc Vân",
+      "title": "Ngoại Môn Lão Hạc",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Phóng túng, lõi đời, khảng khái",
+      "description": "Một lãng tử nhàn tản, lười biếng với bầu rượu mang bên hông."
+    },
+    {
+      "id": "lao_thanh_tung",
+      "name": "Lão Thanh Tùng",
+      "title": "Ngoại Môn Lão Tùng",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Chính trực, bao dung, kiên nhẫn",
+      "description": "Vẻ ngoài phong trần, già nua trước tuổi như cây Tùng trăm năm."
+    },
+    {
+      "id": "lao_bach_van",
+      "name": "Lão Bạch Vân",
+      "title": "Ngoại Môn Lão Bạch",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Trí tuệ, xảo quyệt, nhàn nhã",
+      "description": "Một lãng tử phong lưu, dùng sương khói mây mù như trò tiêu khiển, luôn cười mỉm đầy tính toán."
     }
   ],
   "relationships": [
@@ -64761,6 +64971,186 @@ const relationshipData = {
       "target": "ngoai_mon_dai_truong_lao",
       "type": "ally",
       "description": "Vị trưởng lão khắt khe hay thở dài trước những đống lộn xộn bốc khói đen do bùa chú hỏng, nhưng lão chưa từng đuổi nàng đi vì tiếc rẻ tiềm năng biến dị Lôi Linh Căn."
+    },
+    {
+      "source": "ha_thanh_mai",
+      "target": "ha_ngoc_lam",
+      "type": "family",
+      "description": "Đường tỷ, rất ngưỡng mộ"
+    },
+    {
+      "source": "ha_thanh_mai",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "friend",
+      "description": "Kính sợ ngài"
+    },
+    {
+      "source": "ha_tu_lan",
+      "target": "ha_ngoc_lam",
+      "type": "family",
+      "description": "Đường tỷ, có chút ghen tị"
+    },
+    {
+      "source": "ha_tu_lan",
+      "target": "ha_thanh_mai",
+      "type": "family",
+      "description": "Đường muội, hay cạnh tranh"
+    },
+    {
+      "source": "ha_phi_vu",
+      "target": "ha_ngoc_lam",
+      "type": "family",
+      "description": "Đường tỷ, ngưỡng mộ kiếm pháp"
+    },
+    {
+      "source": "ha_phi_vu",
+      "target": "ha_thanh_mai",
+      "type": "family",
+      "description": "Đường muội, nhắc nhở phải nhanh hơn"
+    },
+    {
+      "source": "hong_hoa_van",
+      "target": "hong_diem",
+      "type": "family",
+      "description": "Đường đệ, hay bắt nạt nhưng bảo bọc"
+    },
+    {
+      "source": "hong_hoa_van",
+      "target": "hong_chien_thang",
+      "type": "family",
+      "description": "Ngưỡng mộ trưởng bối"
+    },
+    {
+      "source": "hong_tieu_linh",
+      "target": "hong_hoa_van",
+      "type": "family",
+      "description": "Đường huynh, người bảo vệ vững chắc"
+    },
+    {
+      "source": "hong_tieu_linh",
+      "target": "ly_ngoc_duoc",
+      "type": "friend",
+      "description": "Thần tượng nội môn"
+    },
+    {
+      "source": "hong_minh_chau",
+      "target": "hong_hoa_van",
+      "type": "family",
+      "description": "Lợi dụng hắn làm bảo kê"
+    },
+    {
+      "source": "hong_minh_chau",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Thường đút lót lấy mối"
+    },
+    {
+      "source": "kim_thiet_thach",
+      "target": "vuong_dai_chuy",
+      "type": "friend",
+      "description": "Kính trọng kỹ thuật rèn của ông"
+    },
+    {
+      "source": "kim_thiet_thach",
+      "target": "hong_hoa_van",
+      "type": "enemy",
+      "description": "Kình địch trong các cuộc thi"
+    },
+    {
+      "source": "kim_ngoc_lien",
+      "target": "kim_thiet_thach",
+      "type": "family",
+      "description": "Đường huynh họ xa, hay tránh né"
+    },
+    {
+      "source": "kim_ngoc_lien",
+      "target": "nguyen_kim_lien",
+      "type": "friend",
+      "description": "Sư tỷ thần tượng nội môn"
+    },
+    {
+      "source": "kim_bach_ho",
+      "target": "kim_thiet_thach",
+      "type": "family",
+      "description": "Đường đệ, hay tỷ thí"
+    },
+    {
+      "source": "kim_bach_ho",
+      "target": "hong_hoa_van",
+      "type": "enemy",
+      "description": "Kình địch ẩu đả thường xuyên"
+    },
+    {
+      "source": "dinh_thanh_thuy",
+      "target": "hong_tieu_linh",
+      "type": "friend",
+      "description": "Bạn cùng phòng ở Dược Viên"
+    },
+    {
+      "source": "dinh_thanh_thuy",
+      "target": "dinh_bach_phong",
+      "type": "family",
+      "description": "Ca ca ruột"
+    },
+    {
+      "source": "dinh_hong_diep",
+      "target": "dinh_thanh_thuy",
+      "type": "family",
+      "description": "Đường muội, bảo vệ và mang đồ ăn ngon"
+    },
+    {
+      "source": "dinh_hong_diep",
+      "target": "dinh_bach_phong",
+      "type": "family",
+      "description": "Thách đấu chưa từng thắng"
+    },
+    {
+      "source": "dinh_ngoc_thach",
+      "target": "ha_tran_linh",
+      "type": "friend",
+      "description": "Sư tỷ, thần tượng trận pháp"
+    },
+    {
+      "source": "dinh_ngoc_thach",
+      "target": "dinh_thanh_thuy",
+      "type": "family",
+      "description": "Thường bị sai vặt xới đất Dược Viên"
+    },
+    {
+      "source": "lao_hac_van",
+      "target": "lao_ly_quet_san",
+      "type": "friend",
+      "description": "Bạn vong niên, đổi rượu lấy bí mật"
+    },
+    {
+      "source": "lao_hac_van",
+      "target": "ha_phi_vu",
+      "type": "friend",
+      "description": "Hay trêu chọc và chỉ điểm khinh công"
+    },
+    {
+      "source": "lao_thanh_tung",
+      "target": "lao_hac_van",
+      "type": "friend",
+      "description": "Huynh đệ kết nghĩa, hay cằn nhằn Hạc Vân"
+    },
+    {
+      "source": "lao_thanh_tung",
+      "target": "dinh_ngoc_thach",
+      "type": "friend",
+      "description": "Thường trao đổi Thổ linh khí"
+    },
+    {
+      "source": "lao_bach_van",
+      "target": "lao_hac_van",
+      "type": "friend",
+      "description": "Huynh đệ kết nghĩa đại ca"
+    },
+    {
+      "source": "lao_bach_van",
+      "target": "lao_thanh_tung",
+      "type": "friend",
+      "description": "Nhị ca kết nghĩa, phàn nàn quá nghiêm túc"
     }
   ],
   "factions": [
@@ -65724,8 +66114,8 @@ const relationshipData = {
   ],
   "meta": {
     "last_updated": "2026-03-15",
-    "total_characters": 2053,
-    "total_relationships": 5938,
+    "total_characters": 2068,
+    "total_relationships": 5968,
     "scanned_chapters": {
       "Góc_Nhìn_A_Ngốc": 132,
       "Góc_Nhìn_Lệ_Vô_Tâm": 152,
