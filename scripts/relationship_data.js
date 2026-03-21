@@ -8068,8 +8068,8 @@ const relationshipData = {
       "avatar_color": "#f44336",
       "race": "Nhân Tộc",
       "cultivation_technique": "cốt lõi của Cửu Hoa Kiếm Tông đạt trình",
-      "personality": "Kiên nhẫn, Mạnh mẽ",
-      "description": "Vẻ ngoài khắc khổ với dáng người gầy gò nhưng tinh thần mạnh mẽ. Đôi mắt sáng rực chứa đầy trí tuệ."
+      "personality": "Trầm lặng, Kiên nhẫn, Nghiêm nghị",
+      "description": "Vẻ ngoài khắc khổ với dáng người vạm vỡ, rắn chắc. Hắn sử dụng Trọng Kim Kiếm, phong cách chiến đấu thiên về sức mạnh tuyệt đối và phòng thủ vững chắc. Là người bảo vệ tận tụy của Cửu Hoa."
     },
     {
       "id": "ly_luc_tran",
@@ -25963,8 +25963,8 @@ const relationshipData = {
       "avatar_color": "#f0f8ff",
       "race": "Nhân Tộc",
       "cultivation_technique": "Tuyết Liên Phá Không Trảm",
-      "personality": "Kiêu ngạo, Chính trực, Lạnh lùng",
-      "description": "Ngoại hình thanh tao thoát tục, tựa đóa tuyết liên nở rộ trên đỉnh Cửu Hoa. Nàng luôn khoác đạo bào màu trắng tinh khôi, ánh mắt sắc lạnh như sương, toát lên khí chất kiêu ngạo nhưng chính trực."
+      "personality": "Lạnh lùng, Kiêu ngạo, Chính trực",
+      "description": "Ngoại hình thanh tao thoát tục, tựa đóa tuyết liên nở rộ. Kế thừa tinh hoa Bạch Hoa Phong, phong cách kiếm thuật cực kỳ sắc bén và tàn nhẫn với kẻ thù. Ý chí diệt ma vô cùng mãnh liệt."
     },
     {
       "id": "ha_tran_linh",
@@ -25979,7 +25979,7 @@ const relationshipData = {
       "race": "Nhân Tộc",
       "cultivation_technique": "Tử Hoa Huyễn Trận Khí",
       "personality": "Điềm đạm, Cẩn thận, Tính toán",
-      "description": "Khuôn mặt thanh thoát, luôn mang nụ cười nhẹ nhàng và đôi mắt sâu thẳm ẩn chứa sự tính toán. Hắn ăn mặc chỉnh tề, trang phục luôn điểm xuyết những hoa văn trận pháp tinh xảo."
+      "description": "Khuôn mặt thanh thoát, nho nhã, tinh thông các loại cấm chế và trận pháp phòng ngự của Tử Hoa Phong. Hắn luôn tính toán kỹ lưỡng trước khi hành động, đặt sự an toàn lên hàng đầu."
     },
     {
       "id": "ha_tu_phong",
@@ -61164,6 +61164,48 @@ const relationshipData = {
       "strength": 80,
       "bidirectional": true,
       "description": "Đối thủ cạnh tranh thân thiết, hỗ trợ nhau"
+    },
+    {
+      "source": "hoang_thien_phong",
+      "target": "hoang_thien_duc",
+      "type": "family",
+      "description": "Con trai, Hoàng Thiên Phong cực kỳ nghiêm khắc với Dực."
+    },
+    {
+      "source": "hoang_thien_phong",
+      "target": "chu_van_phong",
+      "type": "colleague",
+      "description": "Hộ Pháp trẻ tuổi, Thiên Phong thường khuyên bảo hắn bớt nóng vội."
+    },
+    {
+      "source": "hoang_thien_phong",
+      "target": "luc_kiem_hoa",
+      "type": "colleague",
+      "description": "Thánh Nữ, Thiên Phong công nhận tài năng của nàng."
+    },
+    {
+      "source": "hoang_tuyet_lien",
+      "target": "le_han_suong",
+      "type": "student",
+      "description": "Sư tôn, người đã cứu mạng và dạy dỗ Tuyết Liên."
+    },
+    {
+      "source": "hoang_tuyet_lien",
+      "target": "truong_bach_kiem",
+      "type": "rival",
+      "description": "Đại sư huynh, đối thủ cạnh tranh gay gắt nhưng tôn trọng lẫn nhau."
+    },
+    {
+      "source": "ha_tran_linh",
+      "target": "ma_tu_van",
+      "type": "student",
+      "description": "Sư tôn, người truyền thụ toàn bộ kiến thức trận pháp cho hắn."
+    },
+    {
+      "source": "ha_tran_linh",
+      "target": "hoang_tuyet_lien",
+      "type": "friend",
+      "description": "Bạn chí giao, thường mượn sức mạnh kiếm ý của nàng để thử trận."
     }
   ],
   "factions": [
@@ -61735,3 +61777,5 @@ const relationshipData = {
     }
   }
 };
+
+export default relationshipData;

@@ -872,3 +872,4 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 
 - **Nhân Vật Mới Điền Chi Tiết:** Mã Tử Linh, Mã Tử Vân, Mã Vân Sương (Cửu Hoa Kiếm Tông - Đông Hoang).
 - **Nhân Vật Mới Điền Chi Tiết:** Vương Kim Tỏa, Vương Kim Đức, Vương Tiểu Kim (Cửu Hoa Kiếm Tông - Đông Hoang).
+- **Nhân Vật Mới Điền Chi Tiết:** Hoàng Thiên Phong, Hoàng Tuyết Liên, Hà Trận Linh (Cửu Hoa Kiếm Tông - Đông Hoang).

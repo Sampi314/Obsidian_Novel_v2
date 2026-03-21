@@ -19,3 +19,4 @@
 ## TỔNG HỢP LỊCH SỬ (tự động nén)
 - Điền chi tiết cho Lục Tiểu Vân, Mã Tiểu Trận, Mã Tiểu Tử.
 - Điền chi tiết cho Nguyễn Kim Tuyến, Nguyễn Kiếm Nhi, Nguyễn Thiên Thanh.
+- [2026-03-21]: Hoàn thành hồ sơ (Appearance, Abilities, Relationships, Biography) cho 3 nhân vật Cửu Hoa Kiếm Tông: Hoàng Thiên Phong (Hộ Pháp), Hoàng Tuyết Liên (Chân Truyền Đệ Tử), và Hà Trận Linh (Chân Truyền Đệ Tử). Đã cập nhật `scripts/relationship_data.js` và `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
