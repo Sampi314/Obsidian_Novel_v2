@@ -416,50 +416,94 @@ Thành Chủ
 
 ---
 
-# PHẦN 4: WORK QUEUE (Tích hợp trong plan)
+# PHẦN 4: WORK QUEUE
 
-> Agent đọc bảng dưới → tìm ⬜ Pending → đổi thành 🔄 → push → làm → đổi thành ✅ → push.
+> **Mỗi phiên:** Agent tạo **10-20 tên** cho 1 thế lực.
+> **Quy trình:** Tìm hàng 🔄 hoặc ⬜ đầu tiên → đổi ⬜ thành 🔄 → push → tạo 10-20 tên → cập nhật Xong/Cần → push → nếu Xong = Cần thì đổi thành ✅.
 
-## Phase 1: Leadership — Tiến Độ
-
-| Thế Lực | Khu Vực | Hạng | Có | Cần | Trạng Thái |
-|---------|---------|------|:--:|:---:|:----------:|
-| Cửu Hoa Kiếm Tông | Đông Hoang | Nhất | 92 | — | ✅ Done |
-| Thần Khí Phường | Đông Hoang | Nhất | 0 | ~20 | ⬜ |
-| Dược Vương Cốc | Đông Hoang | Nhất | 3 | ~20 | ⬜ |
-| Huyền Băng Cung | Bắc Băng | Nhất | 0 | ~20 | ⬜ |
-| Vân Tông | Đông Hoang | Nhất | 12 | ~15 | ⬜ |
-| Thanh Đế Cung | Đông Hoang | Nhất | 10 | ~15 | ⬜ |
-| Thái Ất Môn | Đông Hoang | Nhất | 10 | ~15 | ⬜ |
-| Vô Tranh Tự | Đông Hoang | Nhất | 10 | ~15 | ⬜ |
-| Vũ Hoàng Các | Đông Hoang | Nhất | 8 | ~15 | ⬜ |
-| Huyết Sát Minh | Đông Hoang | Nhất | 10 | ~15 | ⬜ |
-| Huyết Ma Tông | Nam Cương | Nhất | 10 | ~15 | ⬜ |
-| Vạn Độc Môn | Nam Cương | Nhất | 25 | ~10 | ⬜ |
-| Đan Hà Cốc | Nam Cương | Nhất | 20 | ~10 | ⬜ |
-| Kim Sa Tự | Tây Mạc | Nhất | 10 | ~15 | ⬜ |
-| Thiên Sa Thương Hội | Tây Mạc | Nhất | 11 | ~15 | ⬜ |
-| Hải Thần Cung | Vô Tận Hải | Nhất | 30 | ~10 | ⬜ |
-| Phong Bạo Thương Đội | Vô Tận Hải | Nhất | 9 | ~15 | ⬜ |
-| Long Cung | Vô Tận Hải | Nhất | 17 | ~10 | ⬜ |
-| Đại Càn Hoàng Triều | Thiên Trụ | Nhất | 16 | ~15 | ⬜ |
-| Cửu U Ma Tông | Thiên Trụ | Nhất | 14 | ~10 | ⬜ |
-| Thiên Kiêu Học Viện | Thiên Trụ | Nhất | 11 | ~15 | ⬜ |
-| Bách Bảo Các | Thiên Trụ | Nhất | 7 | ~15 | ⬜ |
-| Thiên Mộc Thành | Thiên Trụ | Nhất | 8 | ~15 | ⬜ |
-| Lôi Trì Thánh Địa | Thiên Trụ | Nhất | 8 | ~15 | ⬜ |
-| Thiên Môn Kính Đài | Thiên Trụ | Nhất | 6 | ~15 | ⬜ |
-| Trích Tinh Lâu | Thiên Trụ | Nhất | 5 | ~10 | ⬜ |
-| Bắc Hải Cự Yêu Hang | Bắc Băng | Nhất | 8 | ~10 | ⬜ |
-| Cực Quang Thần Điện | Bắc Băng | Nhất | 29 | ~10 | ⬜ |
-| Thiên Yêu Đình | Đông Hoang | Nhất | 33 | ~5 | ⬜ |
-| Tinh Linh Vương Đình | Đông Hoang | Nhất | 23 | ~10 | ⬜ |
-| Vạn Yêu Thành | Đông Hoang | Nhất | 20 | ~10 | ⬜ |
-| Thiên Trụ Hộ Vệ Đoàn | Đông Hoang | Nhất | 10 | ~15 | ⬜ |
-| Ảnh Nguyệt Uyển | Đông Hoang | Nhất | 10 | ~15 | ⬜ |
-
-## Phase 2-5: Tiến Độ
-_(Sẽ thêm bảng khi Phase 1 hoàn thành)_
+| Thế Lực | Phase | Xong | Cần | Trạng Thái |
+|---------|-------|:----:|:---:|:----------:|
+| Cửu Hoa Kiếm Tông | 1. Leadership | 35 | 35 | ✅ |
+| Cửu Hoa Kiếm Tông | 2. Chân Truyền | 18 | 40 | ⬜ |
+| Cửu Hoa Kiếm Tông | 3. Nội Môn | 27 | 100 | ⬜ |
+| Cửu Hoa Kiếm Tông | 4. Ngoại Môn | 15 | 200 | ⬜ |
+| Cửu Hoa Kiếm Tông | 5. Phàm Nhân | 10 | 10000 | ⬜ |
+| Thần Khí Phường | 1. Leadership | 0 | 20 | ⬜ |
+| Thần Khí Phường | 2. Chân Truyền | 0 | 30 | ⬜ |
+| Thần Khí Phường | 3. Nội Môn | 0 | 100 | ⬜ |
+| Thần Khí Phường | 4. Ngoại Môn | 0 | 200 | ⬜ |
+| Thần Khí Phường | 5. Phàm Nhân | 0 | 6000 | ⬜ |
+| Dược Vương Cốc | 1. Leadership | 3 | 20 | ⬜ |
+| Dược Vương Cốc | 2. Chân Truyền | 0 | 30 | ⬜ |
+| Dược Vương Cốc | 3. Nội Môn | 0 | 100 | ⬜ |
+| Dược Vương Cốc | 4. Ngoại Môn | 0 | 200 | ⬜ |
+| Dược Vương Cốc | 5. Phàm Nhân | 0 | 8000 | ⬜ |
+| Huyền Băng Cung | 1. Leadership | 0 | 20 | ⬜ |
+| Huyền Băng Cung | 2. Chân Truyền | 0 | 30 | ⬜ |
+| Huyền Băng Cung | 3. Nội Môn | 0 | 100 | ⬜ |
+| Huyền Băng Cung | 4. Ngoại Môn | 0 | 200 | ⬜ |
+| Huyền Băng Cung | 5. Phàm Nhân | 0 | 10000 | ⬜ |
+| Vân Tông | 1. Leadership | 12 | 20 | ⬜ |
+| Vân Tông | 2. Chân Truyền | 0 | 30 | ⬜ |
+| Vân Tông | 3. Nội Môn | 0 | 100 | ⬜ |
+| Vân Tông | 4. Ngoại Môn | 0 | 200 | ⬜ |
+| Vân Tông | 5. Phàm Nhân | 0 | 10000 | ⬜ |
+| Thanh Đế Cung | 1. Leadership | 10 | 20 | ⬜ |
+| Thanh Đế Cung | 2-5 | 0 | ~7300 | ⬜ |
+| Thái Ất Môn | 1. Leadership | 10 | 20 | ⬜ |
+| Thái Ất Môn | 2-5 | 0 | ~10300 | ⬜ |
+| Vô Tranh Tự | 1. Leadership | 10 | 20 | ⬜ |
+| Vô Tranh Tự | 2-5 | 0 | ~9400 | ⬜ |
+| Vũ Hoàng Các | 1. Leadership | 8 | 20 | ⬜ |
+| Vũ Hoàng Các | 2-5 | 0 | ~7400 | ⬜ |
+| Huyết Sát Minh | 1. Leadership | 10 | 20 | ⬜ |
+| Huyết Sát Minh | 2-5 | 0 | ~6100 | ⬜ |
+| Huyết Ma Tông | 1. Leadership | 10 | 20 | ⬜ |
+| Huyết Ma Tông | 2-5 | 0 | ~5100 | ⬜ |
+| Vạn Độc Môn | 1. Leadership | 25 | 25 | ⬜ |
+| Vạn Độc Môn | 2-5 | 0 | ~10100 | ⬜ |
+| Đan Hà Cốc | 1. Leadership | 20 | 20 | ⬜ |
+| Đan Hà Cốc | 2-5 | 0 | ~5200 | ⬜ |
+| Kim Sa Tự | 1. Leadership | 10 | 20 | ⬜ |
+| Kim Sa Tự | 2-5 | 0 | ~4400 | ⬜ |
+| Thiên Sa Thương Hội | 1. Leadership | 11 | 20 | ⬜ |
+| Thiên Sa Thương Hội | 2-5 | 0 | ~19400 | ⬜ |
+| Hải Thần Cung | 1. Leadership | 30 | 30 | ⬜ |
+| Hải Thần Cung | 2-5 | 0 | ~10000 | ⬜ |
+| Phong Bạo Thương Đội | 1. Leadership | 9 | 20 | ⬜ |
+| Phong Bạo Thương Đội | 2-5 | 0 | ~2400 | ⬜ |
+| Long Cung | 1. Leadership | 17 | 20 | ⬜ |
+| Long Cung | 2-5 | 0 | ~600 | ⬜ |
+| Đại Càn Hoàng Triều | 1. Leadership | 16 | 20 | ⬜ |
+| Đại Càn Hoàng Triều | 2-5 | 0 | ~50000 | ⬜ |
+| Cửu U Ma Tông | 1. Leadership | 14 | 20 | ⬜ |
+| Cửu U Ma Tông | 2-5 | 0 | ~9400 | ⬜ |
+| Thiên Kiêu Học Viện | 1. Leadership | 11 | 20 | ⬜ |
+| Thiên Kiêu Học Viện | 2-5 | 0 | ~4400 | ⬜ |
+| Bách Bảo Các | 1. Leadership | 7 | 20 | ⬜ |
+| Bách Bảo Các | 2-5 | 0 | ~14400 | ⬜ |
+| Thiên Mộc Thành | 1. Leadership | 8 | 20 | ⬜ |
+| Thiên Mộc Thành | 2-5 | 0 | ~100000 | ⬜ |
+| Lôi Trì Thánh Địa | 1. Leadership | 8 | 15 | ⬜ |
+| Lôi Trì Thánh Địa | 2-5 | 0 | ~350 | ⬜ |
+| Thiên Môn Kính Đài | 1. Leadership | 6 | 15 | ⬜ |
+| Thiên Môn Kính Đài | 2-5 | 0 | ~2400 | ⬜ |
+| Trích Tinh Lâu | 1. Leadership | 5 | 10 | ⬜ |
+| Trích Tinh Lâu | 2-5 | 0 | ~70 | ⬜ |
+| Bắc Hải Cự Yêu Hang | 1. Leadership | 8 | 15 | ⬜ |
+| Bắc Hải Cự Yêu Hang | 2-5 | 0 | ~400 | ⬜ |
+| Cực Quang Thần Điện | 1. Leadership | 29 | 30 | ⬜ |
+| Cực Quang Thần Điện | 2-5 | 0 | ~9400 | ⬜ |
+| Thiên Yêu Đình | 1. Leadership | 33 | 35 | ⬜ |
+| Thiên Yêu Đình | 2-5 | 0 | ~11400 | ⬜ |
+| Tinh Linh Vương Đình | 1. Leadership | 23 | 30 | ⬜ |
+| Tinh Linh Vương Đình | 2-5 | 0 | ~11400 | ⬜ |
+| Vạn Yêu Thành | 1. Leadership | 20 | 25 | ⬜ |
+| Vạn Yêu Thành | 2-5 | 0 | ~11400 | ⬜ |
+| Thiên Trụ Hộ Vệ Đoàn | 1. Leadership | 10 | 20 | ⬜ |
+| Thiên Trụ Hộ Vệ Đoàn | 2-5 | 0 | ~49400 | ⬜ |
+| Ảnh Nguyệt Uyển | 1. Leadership | 10 | 20 | ⬜ |
+| Ảnh Nguyệt Uyển | 2-5 | 0 | ~50000 | ⬜ |
 
 ---
 
@@ -467,13 +511,14 @@ _(Sẽ thêm bảng khi Phase 1 hoàn thành)_
 
 **Trước khi tạo:**
 - [ ] `git pull origin main`
-- [ ] Đọc bảng Work Queue ở PHẦN 4 → tìm ⬜ → đổi thành 🔄 → push
+- [ ] Đọc bảng PHẦN 4 → tìm hàng 🔄 hoặc ⬜ đầu tiên
+- [ ] Nếu ⬜ → đổi thành 🔄 → commit + push NGAY
 - [ ] Đọc `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
 - [ ] Đọc file thế lực `Đạo/Thế_Lực/[Region]/[Faction].md`
 - [ ] Đọc file chủng tộc `Đạo/Chủng_Tộc/[Race].md` (nếu phi Nhân Tộc)
 - [ ] Xem nhân vật đã có: `ls Đạo/Nhân_Vật/[Region]/[Faction]/`
 
-**Khi tạo:**
+**Khi tạo (10-20 tên mỗi phiên):**
 - [ ] Tên có ý nghĩa xianxia, KHÔNG random, KHÔNG chức danh
 - [ ] Họ nhất quán theo chủng tộc/phe phái (xem bảng ở PHẦN 1)
 - [ ] Tuổi hợp lý theo cảnh giới (xem bảng ở PHẦN 1)
@@ -485,5 +530,7 @@ _(Sẽ thêm bảng khi Phase 1 hoàn thành)_
 - [ ] Không trùng tên với nhân vật đã có
 
 **Sau khi tạo:**
-- [ ] Commit + push kết quả
-- [ ] Đổi 🔄 thành ✅ trong bảng Work Queue → commit + push
+- [ ] Commit + push nhân vật
+- [ ] Cập nhật cột Xong trong bảng PHẦN 4 (ví dụ: 0 → 15)
+- [ ] Nếu Xong = Cần → đổi 🔄 thành ✅
+- [ ] Commit + push bảng
