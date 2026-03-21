@@ -28704,6 +28704,216 @@ const relationshipData = {
       "race": "Nhân Tộc",
       "personality": "Nghiêm khắc, Cẩn thận",
       "description": "Trận tu tỉ mỉ, rất ghét sự thiếu quy củ."
+    },
+    {
+      "id": "truong_han_kiem",
+      "name": "Trương Hàn Kiếm",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Trầm Lặng, Kiên Định, Ngoài Lạnh Trong Nóng",
+      "description": "Trương Hàn Kiếm sở hữu khuôn mặt góc cạnh, các đường nét rắn rỏi nhưng có phần tái nhợt do tu luyện công pháp hệ Băng. Đôi mắt y sâu thẳm mang màu xám lạnh lẽo, luôn toát lên vẻ cảnh giác. Tóc y đen nhánh, thường được buộc gọn sau gáy bằng một dải..."
+    },
+    {
+      "id": "truong_thanh_y",
+      "name": "Trương Thanh Y",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Tận Tâm, Tỉ Mỉ, Hoạt Bát",
+      "description": "Nàng có khuôn mặt tròn trĩnh, phúc hậu, đôi mắt đen to lúng liếng như mặt nước hồ thu. Làn da trắng hồng, khỏe mạnh, phản chiếu sự sống dồi dào của Mộc Linh Căn. Mái tóc dài đen mượt thường được búi lỏng bằng một chiếc trâm gỗ đào mộc mạc."
+    },
+    {
+      "id": "truong_lac_lac",
+      "name": "Trương Lạc Lạc",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Tinh Nghịch, Nhiệt Huyết, Thẳng Thắn",
+      "description": "Gương mặt non nớt, bầu bĩnh với hai má lúm đồng tiền. Đôi mắt to tròn đen láy, tinh ranh và luôn đảo quanh tìm tòi thứ gì đó thú vị. Mái tóc đen nhánh được tết thành hai bím nhỏ vắt vẻo hai bên vai, trên đầu buộc những dải ruy băng đỏ chói lọi."
+    },
+    {
+      "id": "lam_phi_vu",
+      "name": "Lâm Phi Vũ",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Lãng Tử, Nhanh Trí, Trượng Nghĩa",
+      "description": "Khuôn mặt Lâm Phi Vũ tuấn tú, đường nét thanh tú và có phần lãng tử. Đôi mắt y hẹp dài, thường trực một nụ cười nửa miệng có phần cợt nhả. Mái tóc dài thường để xõa, chỉ buộc hờ bằng một sợi dây vải xanh nhạt, bay tung bay mỗi khi có gió lướt qua."
+    },
+    {
+      "id": "lam_tu_hoa",
+      "name": "Lâm Tử Họa",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Tỉ Mỉ & Chuyên Tâm, Trầm Tĩnh, Thực Tế",
+      "description": "Gương mặt nàng hình trái xoan nhỏ nhắn, cặp chân mày cong và đôi mắt sáng long lanh. Làn da nàng trắng trẻo nhưng đôi khi dính vài vệt mực mờ chưa lau sạch. Mái tóc đen dài được tết gọn thành một bím lớn xõa sau lưng, điểm xuyết một dải lụa màu tí..."
+    },
+    {
+      "id": "lam_thanh_van",
+      "name": "Lâm Thanh Vân",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Chín Chắn, Kiên Nhẫn, Bao Dung",
+      "description": "Khuôn mặt Lâm Thanh Vân vuông vức, nam tính và luôn mang biểu cảm điềm đạm, nghiêm túc. Đôi mắt y đen sẫm, tĩnh lặng như mặt nước giếng cổ. Mái tóc đen nhánh được búi gọn gàng bằng một chiếc trâm trúc đơn giản."
+    },
+    {
+      "id": "ton_hoa_liet",
+      "name": "Tôn Hỏa Liệt",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Hiếu Chiến, Nóng Nảy, Trực Tính",
+      "description": "Khuôn mặt Tôn Hỏa Liệt vuông vức, nam tính và thường mang biểu cảm kiêu ngạo, hiếu chiến. Đôi mắt y đỏ rực như than hồng, râu quai nón lởm chởm chưa cạo sạch. Mái tóc đỏ rực được cắt ngắn gọn gàng, trông y như một ngọn đuốc di động."
+    },
+    {
+      "id": "ton_nguyet_kiem",
+      "name": "Tôn Nguyệt Kiếm",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Nghiêm Túc, Sắc Sảo, Bảo Bọc",
+      "description": "Khuôn mặt Tôn Nguyệt Kiếm thanh tú, lạnh lùng, tựa như một ánh trăng khuyết giữa trời đêm. Đôi mắt nàng sắc sảo, mang màu hổ phách luôn ánh lên vẻ nghiêm nghị. Mái tóc đen dài được tết gọn gàng thành một bím lớn xõa lệch một bên vai, cố định bằng ..."
+    },
+    {
+      "id": "ton_bach_xuyen",
+      "name": "Tôn Bách Xuyên",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Nhút Nhát, Tỉ Mỉ, Cẩn Thận, Vị Tha",
+      "description": "Khuôn mặt Tôn Bách Xuyên tròn trịa, đôi mắt to luôn có vẻ rụt rè, bối rối. Y hơi mập mạp một chút so với các đệ tử kiếm tu khác vì ít hoạt động thể chất cường độ cao. Mái tóc đen nhánh của y hay bị rối tung lên mỗi khi y bỏ chạy."
+    },
+    {
+      "id": "luc_hong_dao",
+      "name": "Lục Hồng Đào",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Tự Tin, Cuồng Nhiệt, Gian Xảo (Một chút)",
+      "description": "Khuôn mặt Lục Hồng Đào kiều diễm, đôi mắt xếch cong quyến rũ và nụ cười luôn thường trực trên môi đỏ mọng. Nàng thích trang điểm nhẹ nhàng, cài một bông hoa đào bằng lụa đỏ rực trên mái tóc đen nhánh được vấn kiểu phi tiên."
+    },
+    {
+      "id": "luc_bach_ngon",
+      "name": "Lục Bạch Ngôn",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Trầm Lặng, Kỷ Luật Thép, Trọng Tình",
+      "description": "Lục Bạch Ngôn sở hữu khuôn mặt góc cạnh, đường nét lạnh lùng như được tạc từ băng thạch. Đôi mắt y hẹp dài, mang màu xám bạc sâu thẳm, gần như không bao giờ gợn sóng cảm xúc. Mái tóc đen dài được buộc hờ bằng một sợi dây lụa trắng, vài lọn tóc xõa..."
+    },
+    {
+      "id": "luc_thanh_mai",
+      "name": "Lục Thanh Mai",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Kiêu Hãnh Ngầm, Cần Cù, Cẩn Trọng",
+      "description": "Gương mặt nàng mang nét thanh tú, dịu dàng của người luyện mộc hệ nhưng lại ánh lên sự sắc sảo, kiên định. Đôi mắt nàng nâu nhạt, trong trẻo như mặt hồ mùa thu. Mái tóc nàng được vấn cao gọn gàng, trang điểm tinh tế bằng một chiếc trâm khảm ngọc b..."
+    },
+    {
+      "id": "dang_kim_dao",
+      "name": "Đặng Kim Đao",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Trực Tín, Che Chở, Thô Lỗ",
+      "description": "Khuôn mặt Đặng Kim Đao góc cạnh, chữ điền đầy nam tính. Đôi mắt to, mày rậm mang màu nâu đồng sáng rực. Mái tóc ngắn cũn cỡn như rễ tre, cằm lún phún râu khiến y trông già dặn hơn tuổi thật. Một vết sẹo vắt ngang vai trái do chạm trán yêu thú từ nhỏ."
+    },
+    {
+      "id": "dang_tieu_ha",
+      "name": "Đặng Tiểu Hà",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Nhút Nhát, Lương Thiện, Kiên Nhẫn",
+      "description": "Khuôn mặt Đặng Tiểu Hà tròn trịa, luôn ửng hồng. Đôi mắt nàng to, long lanh ngấn nước mang nét trong trẻo của một đứa trẻ chưa trải sự đời. Mái tóc đen mềm mại được thả dài xõa vai, điểm xuyết vài bím nhỏ. Nàng nhỏ nhắn, trông dễ vỡ vô cùng."
+    },
+    {
+      "id": "dang_tu_van",
+      "name": "Đặng Tử Vận",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a",
+      "race": "Nhân Tộc",
+      "personality": "Tinh Ranh, Cuồng Thử Nghiệm, Tự Cao Ngầm",
+      "description": "Khuôn mặt Đặng Tử Vận hình trái xoan, đôi mắt màu tím sẫm (do ảnh hưởng của Lôi Linh Căn) luôn nhấp nháy sự thông minh và tò mò. Làn da nàng trắng trẻo nhưng rất hay lấm lem vết muội than. Mái tóc đen dài thường được bới cao lộn xộn, cài vội bằng ..."
     }
   ],
   "relationships": [
@@ -64281,6 +64491,276 @@ const relationshipData = {
       "target": "pham_hoa_diem",
       "type": "family",
       "description": "Biểu đệ cứng đầu, ghét tính thiếu nghiêm túc."
+    },
+    {
+      "source": "truong_han_kiem",
+      "target": "truong_thanh_y",
+      "type": "ally",
+      "description": "Đường muội cùng gia tộc, thường xuyên nhắc nhở y cẩn thận và lo liệu thuốc men khi y bị thương."
+    },
+    {
+      "source": "truong_han_kiem",
+      "target": "truong_lac_lac",
+      "type": "ally",
+      "description": "Biểu muội nhỏ tuổi năng động, hay làm phiền y luyện kiếm nhưng y lại rất nuông chiều."
+    },
+    {
+      "source": "truong_han_kiem",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Kính nể Trưởng Lão nghiêm khắc, người đã hướng dẫn hắn khi mới nhập môn."
+    },
+    {
+      "source": "truong_thanh_y",
+      "target": "truong_han_kiem",
+      "type": "ally",
+      "description": "Đường huynh mặt lạnh nhưng ấm áp bên trong, nàng luôn phải mang thuốc cho y sau những lần y liều mạng luyện kiếm."
+    },
+    {
+      "source": "truong_thanh_y",
+      "target": "truong_lac_lac",
+      "type": "ally",
+      "description": "Đường muội bướng bỉnh, hay bị Thanh Y bắt uống thuốc đắng mỗi khi trốn học võ."
+    },
+    {
+      "source": "truong_thanh_y",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Tôn trọng người đứng đầu, thường xuyên nộp thảo dược tốt lên Viện."
+    },
+    {
+      "source": "truong_lac_lac",
+      "target": "truong_han_kiem",
+      "type": "ally",
+      "description": "Biểu huynh mặt lạnh mà nàng rất thích quấn quýt, thường bắt y cõng lên núi bắt chim."
+    },
+    {
+      "source": "truong_lac_lac",
+      "target": "truong_thanh_y",
+      "type": "ally",
+      "description": "Đường tỷ, một nữ ma đầu luôn bắt nàng uống thuốc đắng ngắt. Nàng hay trốn sau lưng Hàn Kiếm để tránh tỷ tỷ."
+    },
+    {
+      "source": "truong_lac_lac",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Ông lão nghiêm khắc thường hay gõ đầu nàng khi nàng lơ đãng lúc tập kiếm."
+    },
+    {
+      "source": "lam_phi_vu",
+      "target": "lam_tu_hoa",
+      "type": "ally",
+      "description": "Biểu muội chung gia tộc họ Lâm, thường bị hắn lấy làm trò đùa nhưng lại bảo vệ nàng vô cùng gắt gao."
+    },
+    {
+      "source": "lam_phi_vu",
+      "target": "lam_thanh_van",
+      "type": "ally",
+      "description": "Đường đệ trầm ngâm ít nói, hắn hay rủ rê đi uống rượu trộm nhưng toàn bị từ chối phũ phàng."
+    },
+    {
+      "source": "lam_phi_vu",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Luôn tìm cách lách luật của lão, bị phạt chép tông quy vô số lần."
+    },
+    {
+      "source": "lam_tu_hoa",
+      "target": "lam_phi_vu",
+      "type": "ally",
+      "description": "Biểu ca lêu lổng luôn làm nàng phải dọn dẹp bãi chiến trường, thi thoảng bị y trêu tức đến phát khóc."
+    },
+    {
+      "source": "lam_tu_hoa",
+      "target": "lam_thanh_van",
+      "type": "ally",
+      "description": "Đường ca điềm đạm, thường ngồi làm mẫu cho nàng vẽ bùa mỗi chiều và bảo vệ nàng."
+    },
+    {
+      "source": "lam_tu_hoa",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Kính mến ông vì thường xuyên cho phép nàng đọc ké các cuốn sách về trận pháp trong tàng thư viện nhỏ."
+    },
+    {
+      "source": "lam_thanh_van",
+      "target": "lam_tu_hoa",
+      "type": "ally",
+      "description": "Đường muội mà y luôn dành thời gian rảnh rỗi để làm người thử nghiệm trận pháp, rất cưng chiều nàng."
+    },
+    {
+      "source": "lam_thanh_van",
+      "target": "lam_phi_vu",
+      "type": "ally",
+      "description": "Biểu ca lêu lổng, người thường xuyên lôi y vào rắc rối nhưng y vẫn kiên nhẫn chịu đựng."
+    },
+    {
+      "source": "lam_thanh_van",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Rất được Đại Trưởng Lão tin tưởng giao phó nhiều nhiệm vụ quản lý đệ tử mới vì tính tình chín chắn."
+    },
+    {
+      "source": "ton_hoa_liet",
+      "target": "ton_nguyet_kiem",
+      "type": "ally",
+      "description": "Đường muội mà y luôn tỏ ra bề trên nhưng thực chất rất sợ nàng nổi giận."
+    },
+    {
+      "source": "ton_hoa_liet",
+      "target": "ton_bach_xuyen",
+      "type": "ally",
+      "description": "Biểu đệ nhát gan, y thường lôi hắn vào những cuộc săn thú để rèn luyện dũng khí."
+    },
+    {
+      "source": "ton_hoa_liet",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Hay bị lão quở trách vì tội phá hoại tài sản công cộng trong lúc tập luyện."
+    },
+    {
+      "source": "ton_nguyet_kiem",
+      "target": "ton_hoa_liet",
+      "type": "ally",
+      "description": "Đường ca thô lỗ, nàng thường xuyên phải đứng ra xin lỗi người khác thay y và kìm hãm tính nóng nảy của y."
+    },
+    {
+      "source": "ton_nguyet_kiem",
+      "target": "ton_bach_xuyen",
+      "type": "ally",
+      "description": "Biểu huynh hiền lành, hay mang đồ ăn vặt cho nàng và được nàng che chở khỏi Hỏa Liệt."
+    },
+    {
+      "source": "ton_nguyet_kiem",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Được lão ưu ái vì tính kỷ luật, hay được giao hướng dẫn các đệ tử nữ mới."
+    },
+    {
+      "source": "ton_bach_xuyen",
+      "target": "ton_nguyet_kiem",
+      "type": "ally",
+      "description": "Biểu muội mà y luôn nấp sau lưng mỗi khi Tôn Hỏa Liệt tìm tới, rất biết ơn sự bảo vệ của nàng."
+    },
+    {
+      "source": "ton_bach_xuyen",
+      "target": "ton_hoa_liet",
+      "type": "ally",
+      "description": "Biểu huynh cục súc, nỗi ám ảnh lớn nhất đời y. Mỗi lần nghe thấy tiếng cười của Hỏa Liệt là y run rẩy."
+    },
+    {
+      "source": "ton_bach_xuyen",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Lão không hài lòng với sự nhút nhát của y nhưng lại rất thích những viên đan dược cầm máu y luyện chế."
+    },
+    {
+      "source": "luc_hong_dao",
+      "target": "luc_bach_ngon",
+      "type": "ally",
+      "description": "Biểu huynh lạnh lùng, nàng luôn tìm cách chọc phá sự nghiêm túc của hắn, nhưng cũng rất nể phục kiếm thuật của hắn."
+    },
+    {
+      "source": "luc_hong_dao",
+      "target": "luc_thanh_mai",
+      "type": "ally",
+      "description": "Đường tỷ, đối thủ cạnh tranh nhan sắc và kiếm thuật, hai người luôn ngầm so kè nhau trong mọi nhiệm vụ."
+    },
+    {
+      "source": "luc_hong_dao",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Bị lão phạt cấm túc nhiều lần vì tội lén lút trồng đào hoa trước sân viện, nhưng lão cũng ngầm khen ngợi tiến bộ của nàng."
+    },
+    {
+      "source": "luc_bach_ngon",
+      "target": "luc_hong_dao",
+      "type": "ally",
+      "description": "Biểu muội phiền phức luôn tìm cách trêu chọc sự im lặng của y, nhưng y luôn đứng ra giải quyết hậu quả cho nàng."
+    },
+    {
+      "source": "luc_bach_ngon",
+      "target": "luc_thanh_mai",
+      "type": "ally",
+      "description": "Đường muội mà y rất coi trọng về tài năng, thường xuyên luận bàn kiếm thuật nghiêm túc với nàng."
+    },
+    {
+      "source": "luc_bach_ngon",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Luôn nhận được sự tôn trọng và đánh giá cao của lão vì tính kỷ luật thép và sự trầm tĩnh."
+    },
+    {
+      "source": "luc_thanh_mai",
+      "target": "luc_hong_dao",
+      "type": "ally",
+      "description": "Đường muội rực rỡ nhưng phiền phức, nàng luôn cảm thấy áp lực và cố gắng chứng minh bản thân không thua kém Hồng Đào về tài năng lẫn sắc đẹp."
+    },
+    {
+      "source": "luc_thanh_mai",
+      "target": "luc_bach_ngon",
+      "type": "ally",
+      "description": "Đường huynh im lặng mà nàng rất kính nể, coi y như một mục tiêu để vượt qua trong kiếm đạo."
+    },
+    {
+      "source": "luc_thanh_mai",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Tôn trọng sự chỉ dạy của lão, luôn hoàn thành nhiệm vụ thu thập mộc linh thạch đúng hạn."
+    },
+    {
+      "source": "dang_kim_dao",
+      "target": "dang_tieu_ha",
+      "type": "ally",
+      "description": "Đường muội nhút nhát, y luôn coi việc bảo vệ nàng khỏi nguy hiểm là trên hết, dù thô lỗ nhưng cực kỳ quan tâm."
+    },
+    {
+      "source": "dang_kim_dao",
+      "target": "dang_tu_van",
+      "type": "ally",
+      "description": "Biểu muội thông minh, y hay bị nàng lừa dọn dẹp hiện trường sau các vụ nổ thử nghiệm bùa chú, nhưng vẫn cam chịu."
+    },
+    {
+      "source": "dang_kim_dao",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Thường xuyên bị mắng vì đập phá lôi đài, nhưng lại là tay chân đắc lực mỗi khi cần giải quyết yêu thú mạnh."
+    },
+    {
+      "source": "dang_tieu_ha",
+      "target": "dang_kim_dao",
+      "type": "ally",
+      "description": "Đường huynh to xác thô lỗ, luôn chắn trước nàng mỗi khi có nguy hiểm. Nàng rất thương huynh ấy và luôn giữ thuốc trị bỏng do luyện đao."
+    },
+    {
+      "source": "dang_tieu_ha",
+      "target": "dang_tu_van",
+      "type": "ally",
+      "description": "Biểu tỷ thông minh, đôi khi nàng phải kéo tỷ tỷ ra khỏi các cuộc thí nghiệm trận pháp nổ tung phòng ở."
+    },
+    {
+      "source": "dang_tieu_ha",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Sợ hãi trước sự uy nghiêm của lão nhưng luôn được lão bảo ban nhẹ nhàng khi nàng giúp việc tại Y Đường Ngoại Môn."
+    },
+    {
+      "source": "dang_tu_van",
+      "target": "dang_kim_dao",
+      "type": "ally",
+      "description": "Biểu ca \"não cơ bắp\", nàng coi y như một người bảo vệ khổng lồ (và người dọn dẹp) cho các thí nghiệm phù chú đôi khi nổ tung của mình."
+    },
+    {
+      "source": "dang_tu_van",
+      "target": "dang_tieu_ha",
+      "type": "ally",
+      "description": "Biểu muội mít ướt, người duy nhất có khả năng xoa dịu nàng mỗi khi thất bại, thường dùng y thuật chữa bỏng cho nàng."
+    },
+    {
+      "source": "dang_tu_van",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "ally",
+      "description": "Vị trưởng lão khắt khe hay thở dài trước những đống lộn xộn bốc khói đen do bùa chú hỏng, nhưng lão chưa từng đuổi nàng đi vì tiếc rẻ tiềm năng biến dị Lôi Linh Căn."
     }
   ],
   "factions": [
@@ -65244,8 +65724,8 @@ const relationshipData = {
   ],
   "meta": {
     "last_updated": "2026-03-15",
-    "total_characters": 1885,
-    "total_relationships": 5679,
+    "total_characters": 2053,
+    "total_relationships": 5938,
     "scanned_chapters": {
       "Góc_Nhìn_A_Ngốc": 132,
       "Góc_Nhìn_Lệ_Vô_Tâm": 152,
