@@ -59883,6 +59883,51 @@ const relationshipData = {
             "leader": "ly_mo_tuyet"
         },
         {
+            "id": "ly_thanh_vy",
+            "name": "Lý Thanh Vỹ",
+            "title": "Chân Truyền Đệ Tử",
+            "realm": "Kim Đan Sơ Kỳ",
+            "faction": "Cửu Hoa Kiếm Tông",
+            "region": "Đông Hoang",
+            "role": "supporting",
+            "pov": false,
+            "avatar_color": "#4caf50",
+            "race": "Nhân Tộc",
+            "cultivation_technique": "Thanh Hoa Vô Ảnh Kiếm",
+            "personality": "Điềm tĩnh, Mưu mô",
+            "description": "Lý Thanh Vỹ có ngoại hình tuấn tú, nho nhã với nụ cười luôn thường trực trên môi, tạo cảm giác thân thiện và dễ gần. Hắn thường mặc thanh y của Thanh Hoa Phong, tay luôn cầm một chiếc quạt xếp gọn, ánh mắt sắc sảo luôn quan sát kỹ lưỡng mọi chi tiết xung quanh."
+        },
+        {
+            "id": "ly_tieu_kiem",
+            "name": "Lý Tiểu Kiếm",
+            "title": "Ngoại Môn Đệ Tử",
+            "realm": "Trúc Cơ Sơ Kỳ",
+            "faction": "Cửu Hoa Kiếm Tông",
+            "region": "Đông Hoang",
+            "role": "supporting",
+            "pov": false,
+            "avatar_color": "#8bc34a",
+            "race": "Nhân Tộc",
+            "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+            "personality": "Bộc trực, Cương trực",
+            "description": "Lý Tiểu Kiếm mang vẻ ngoài của một thanh niên cường tráng, da hơi ngăm đen vì những ngày tháng dãi nắng dầm sương tập luyện trên sườn núi Cửu Hoa. Hắn mặc đạo bào xám của đệ tử ngoại môn, trên lưng luôn mang một thanh thiết kiếm to bản dù đã rỉ sét nhưng vẫn được mài sắc bén."
+        },
+        {
+            "id": "luc_thien_thanh",
+            "name": "Lục Thiên Thanh",
+            "title": "Nội Môn Đệ Tử",
+            "realm": "Trúc Cơ Trung Kỳ",
+            "faction": "Cửu Hoa Kiếm Tông",
+            "region": "Đông Hoang",
+            "role": "supporting",
+            "pov": false,
+            "avatar_color": "#cddc39",
+            "race": "Nhân Tộc",
+            "cultivation_technique": "Thiên Hoa Kiếm Quyết",
+            "personality": "Kiêu ngạo, Tự tôn",
+            "description": "Lục Thiên Thanh sở hữu dung mạo khôi ngô, phong thái nho nhã toát lên khí chất quý tộc của một công tử dòng dõi Lục gia. Hắn mặc y phục nội môn viền vàng của Thiên Hoa Phong, dáng đi thẳng tắp, ánh mắt kiêu ngạo nhưng không giấu được sự cẩn trọng và áp lực phải hoàn mỹ mọi lúc mọi nơi."
+        },
+        {
             "source": "chu_thanh_truc",
             "target": "chu_tieu_thanh",
             "type": "Huynh Đệ",
@@ -60071,6 +60116,78 @@ const relationshipData = {
             "strength": 65,
             "bidirectional": true,
             "description": "Trao đổi tin tức giang hồ lấy đan dược."
+        },
+        {
+            "source": "ly_thanh_vy",
+            "target": "ly_thanh_phong",
+            "type": "master",
+            "description": "Sư tôn, người truyền dạy bí thuật tình báo và ngoại giao."
+        },
+        {
+            "source": "ly_thanh_phong",
+            "target": "ly_thanh_vy",
+            "type": "subordinate",
+            "description": "Đệ tử chân truyền được kỳ vọng."
+        },
+        {
+            "source": "ly_thanh_vy",
+            "target": "chu_minh_nguyet",
+            "type": "ally",
+            "description": "Sư muội đồng môn, thường phối hợp trong các nhiệm vụ thu thập tình báo."
+        },
+        {
+            "source": "chu_minh_nguyet",
+            "target": "ly_thanh_vy",
+            "type": "ally",
+            "description": "Sư huynh đồng môn, thường phối hợp trong các nhiệm vụ thu thập tình báo."
+        },
+        {
+            "source": "ly_tieu_kiem",
+            "target": "ngoai_mon_dai_truong_lao",
+            "type": "master",
+            "description": "Người hướng dẫn và đánh giá năng lực của Lý Tiểu Kiếm ở ngoại môn viện."
+        },
+        {
+            "source": "ngoai_mon_dai_truong_lao",
+            "target": "ly_tieu_kiem",
+            "type": "subordinate",
+            "description": "Đệ tử ngoại môn đang cố gắng luyện tập."
+        },
+        {
+            "source": "ly_tieu_kiem",
+            "target": "lam_phong",
+            "type": "ally",
+            "description": "Đồng môn ngoại môn, cả hai từng có một số lần phối hợp và trao đổi kiếm pháp cơ bản."
+        },
+        {
+            "source": "lam_phong",
+            "target": "ly_tieu_kiem",
+            "type": "ally",
+            "description": "Đồng môn ngoại môn, trao đổi kinh nghiệm sinh tồn."
+        },
+        {
+            "source": "luc_thien_thanh",
+            "target": "luc_tran",
+            "type": "master",
+            "description": "Gia chủ gia tộc, Tông chủ Cửu Hoa. Lục Thiên Thanh vừa kính sợ uy nghiêm của ngài vừa áp lực bởi cái danh dòng dõi."
+        },
+        {
+            "source": "luc_tran",
+            "target": "luc_thien_thanh",
+            "type": "subordinate",
+            "description": "Đệ tử nội môn, con cháu trong dòng tộc Lục gia."
+        },
+        {
+            "source": "luc_thien_thanh",
+            "target": "luc_kiem_hoa",
+            "type": "ally",
+            "description": "Đại tỷ cùng tộc, Thánh Nữ tông môn, là tấm gương sáng mà hắn không ngừng chạy theo."
+        },
+        {
+            "source": "luc_kiem_hoa",
+            "target": "luc_thien_thanh",
+            "type": "ally",
+            "description": "Đệ đệ cùng tộc, đệ tử nội môn tiềm năng."
         }
     ],
     "meta": {
