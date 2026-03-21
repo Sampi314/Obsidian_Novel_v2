@@ -26890,6 +26890,42 @@ const relationshipData = {
   ],
   "relationships": [
     {
+      "source": "nguyen_van_moc",
+      "target": "lao_truong",
+      "type": "Bạn Nhậu/Trao Đổi",
+      "value": 2
+    },
+    {
+      "source": "nguyen_van_moc",
+      "target": "nguyen_dai_chuy",
+      "type": "Đồng Hương/Khắc Khẩu",
+      "value": 2
+    },
+    {
+      "source": "pham_ganh_nuoc",
+      "target": "pham_thi_lan",
+      "type": "Cháu Họ/Chiếu Cố",
+      "value": 2
+    },
+    {
+      "source": "pham_ganh_nuoc",
+      "target": "lao_truong",
+      "type": "Cung Cấp/Quan Tâm",
+      "value": 2
+    },
+    {
+      "source": "pham_hong_diem",
+      "target": "tran_hong_kiem",
+      "type": "Kính Trọng/Sư Bá",
+      "value": 3
+    },
+    {
+      "source": "pham_hong_diem",
+      "target": "pham_liet_hoa",
+      "type": "Huynh Muội/Giám Sát",
+      "value": 3
+    },
+    {
       "source": "oanh_sa_ngan",
       "target": "vu_mao_nhi",
       "type": "Môn Đồ/Sư Phụ",
