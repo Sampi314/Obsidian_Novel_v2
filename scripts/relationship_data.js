@@ -29559,6 +29559,370 @@ const relationshipData = {
       "race": "Nhân Tộc",
       "personality": "Ngoại Môn Đệ Tử",
       "description": ""
+    },
+    {
+      "id": "duong_moc_cong",
+      "name": "Đường Mộc Công",
+      "title": "Bàn Tay Thần Khúc",
+      "realm": "Nguyên Anh Hậu Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Khôi Lỗi Đạo (傀儡道)",
+      "description": "Gương mặt gầy gò nhọn hoắt như điêu khắc, thường hiện lên nét tái nhợt của người ở lâu trong phòng kín. Đặc biệt, tay trái của y hoàn toàn là một chi giả bằng gỗ ngọc tinh xảo, mỗi khớp ngón tay đều có thể tách ra thành mười công cụ khác nhau."
+    },
+    {
+      "id": "lam_linh_truc",
+      "name": "Lâm Linh Trục",
+      "title": "Thiết Tâm Trục",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Đồng Tâm Đạo (同心道)",
+      "description": "Thân hình vững chãi, lưng thẳng tắp như một cây thước. Khuôn mặt vuông vức không biểu cảm, nước da nhợt nhạt do ít tiếp xúc ánh mặt trời. Mái tóc đen cắt cực kỳ ngắn, gọn gàng và không có một sợi nào lòa xòa."
+    },
+    {
+      "id": "dong_hoa_luyen",
+      "name": "Đổng Hỏa Luyện",
+      "title": "Xích Đồng Đại Cổ Đông",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Hỏa Ngọc Đạo (火玉道)",
+      "description": "Ngoại hình béo tốt, bụng phệ, đi lại chầm chậm nhàn nhã. Làn da ửng đỏ đặc trưng của người chơi lửa nhưng trên tay lại rủng rỉnh ngọc ngà châu báu phàm tục lẫn tu tiên. Răng bị bọc vàng chóe."
+    },
+    {
+      "id": "co_moc_luan",
+      "name": "Cơ Mộc Luân",
+      "title": "Luân Chuyển Tôn Giả",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Luân Hồi Đạo (轮回道)",
+      "description": "Thân hình tầm thước, tay chân thon dài với những ngón tay cực kỳ linh hoạt. Đôi mắt luôn đảo liên tục như hai chiếc bánh răng nhỏ, thường trực nụ cười tủm tỉm nhàn nhạt."
+    },
+    {
+      "id": "hoa_trong_son",
+      "name": "Hỏa Trọng Sơn",
+      "title": "Pháo Cuồng",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Bạo Liệt Đạo (爆裂道)",
+      "description": "Thân hình to lớn như một ngọn núi thịt, râu tóc đỏ rực bồng bềnh như ngọn lửa. Đôi tai gần như điếc hoàn toàn do những tiếng nổ cực lớn từ các loại pháo linh thạch, khiến y luôn nói chuyện rất to tiếng."
+    },
+    {
+      "id": "loi_bao_cuong",
+      "name": "Lôi Bạo Cương",
+      "title": "Lôi Pháo Ma",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Lôi Bạo Đạo (雷暴道)",
+      "description": "Cao gầy nhưng rắn chắc, nước da tái xanh xám xịt do ảnh hưởng của điện cao áp quanh năm. Mái tóc dựng đứng, thỉnh thoảng có những tia lửa điện xanh lép nhép nổ lách tách trên đầu."
+    },
+    {
+      "id": "pham_hoa_luu",
+      "name": "Phạm Hỏa Lưu",
+      "title": "Bạo Dược Cuồng",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Hỏa Dược Đạo (火药道)",
+      "description": "Dáng người nhỏ thó, đầu tóc luôn bù xù như ổ quạ xám xịt. Đeo một cặp kính lúp lồi to tướng để nhẩm tính từng lượng bột nhỏ, ngón tay ố vàng vì tẩm hóa chất quanh năm suốt tháng, đôi khi còn có những vệt cháy trên móng tay."
+    },
+    {
+      "id": "nguy_co_tam",
+      "name": "Ngụy Cơ Tâm",
+      "title": "Phế Cẩu Khí Sư",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Hồi Tái Đạo (回载道)",
+      "description": "Dáng vóc còng xuống vì lúc nào cũng phải khom lưng nhặt nhạnh. Gương mặt nhem nhuốc, mái tóc lởm chởm như cỏ dại và đôi bàn tay sần sùi có nhiều móng dài cáu bẩn. Răng y sắc như răng chó do thói quen cắn vào kim loại để kiểm tra độ cứng."
+    },
+    {
+      "id": "hac_thiet_thanh",
+      "name": "Hắc Thiết Thành",
+      "title": "Thiết Bích Hộ Sơn",
+      "realm": "Nguyên Anh Đỉnh Phong",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Kiên Trì Đạo (坚持道)",
+      "description": "Thân hình đồ sộ vạm vỡ, làn da đen bóng như quặng sắt mới luyện. Cơ bắp cuồn cuộn nổi rõ như đá tảng, khuôn mặt chữ điền cương nghị với đôi mắt luôn mở to quan sát xung quanh."
+    },
+    {
+      "id": "ha_chan_thien",
+      "name": "Hà Chấn Thiên",
+      "title": "Địa Chấn Pháo",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Động Địa Đạo (动地道)",
+      "description": "Thân hình như một khối vuông vức làm từ sắt vụn, hai má phệ sưng đỏ. Khuôn miệng lúc nào cũng há to như sắp la hét, răng cửa đã được thay bằng kim loại từ nhiều năm trước do phản lực của đại bác."
+    },
+    {
+      "id": "phong_phi_pham",
+      "name": "Phong Phi Phàm",
+      "title": "Liệt Phong Chu",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Phong Du Đạo (风游道)",
+      "description": "Dáng vẻ lãng tử, tóc dài tung bay dù trong phòng kín. Khuôn mặt thanh tú nhưng luôn có vài vết dầu mỡ nhỏ trên trán. Đôi mắt màu thiên thanh luôn nhìn đăm đăm lên bầu trời rộng lớn ngoài cửa sổ xưởng đúc."
+    },
+    {
+      "id": "ton_thiet_tinh",
+      "name": "Tôn Thiết Tinh",
+      "title": "Lão Quái Rèn Tinh",
+      "realm": "Luyện Hư Sơ Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Tinh Thần Đạo (星辰道)",
+      "description": "Là một lão nhân vóc dáng gầy gò nhưng ẩn chứa sức mạnh kinh người. Râu tóc bạc trắng như cước, thường được búi gọn gàng bằng một chiếc trâm sắt gỉ sét. Đôi mắt lão sáng như hai vì sao nhỏ, ánh nhìn thấu tận tâm can."
+    },
+    {
+      "id": "ton_co_minh",
+      "name": "Tôn Cơ Minh",
+      "title": "Thiên Cơ Nhãn",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Tri Nhãn Đạo (知眼道)",
+      "description": "Thân hình gầy gò nhọn hoắt, khuôn mặt luôn nhợt nhạt vì thiếu ngủ. Nổi bật nhất là một con mắt trái nhân tạo bằng pha lê đỏ rực liên tục thu phóng ống kính lách cách, giúp y nhìn thấy những dải linh lực vi mô nhất."
+    },
+    {
+      "id": "cao_luu_tinh",
+      "name": "Cao Lưu Tinh",
+      "title": "Lưu Tinh Đạn",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Vẫn Thạch Đạo (陨石道)",
+      "description": "Nét mặt sắc lạnh với xương quai hàm bạnh ra, tóc ngắn cụt lủn và một vết sẹo nhỏ vắt ngang lông mày phải. Đôi mắt luôn mở to với tròng đen thẫm tựa như vực sâu."
+    },
+    {
+      "id": "tran_tinh_dong",
+      "name": "Trần Tinh Đồng",
+      "title": "Tinh Kim Hỏa Nhãn",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Tinh Khiết Đạo (纯洁道)",
+      "description": "Ngoại hình giống như một thiếu niên, luôn sạch sẽ không một hạt bụi bẩn bất chấp môi trường xưởng đúc khắc nghiệt. Đôi mắt y có màu đỏ đồng rực rỡ, được đồn là có thể nhìn xuyên thấu qua các lớp tạp chất."
+    },
+    {
+      "id": "hoang_kim_giap",
+      "name": "Hoàng Kim Giáp",
+      "title": "Kim Giáp Hộ Sơn",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Kim Tường Đạo (金墙道)",
+      "description": "Thân hình to bè, trán hói, cằm vuông vức và lúc nào cũng bừng lên một sắc vàng óng ánh trên làn da. Cơ bắp y không cuồn cuộn như Hắc Thiết Thành mà đặc lại như những thỏi vàng khối."
+    },
+    {
+      "id": "nguyen_ngan_co",
+      "name": "Nguyễn Ngân Cơ",
+      "title": "Thủy Ngân Tiên Tử",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Bạc Quang Đạo (泊光道)",
+      "description": "Một nữ tử kiều diễm với làn da mềm mại như nước, mái tóc xõa màu bạc lấp lánh như một dòng suối thủy ngân. Đôi môi luôn mỉm cười quyến rũ nhưng khóe mắt lại sắc sảo lạnh lùng."
+    },
+    {
+      "id": "co_gioi_tu",
+      "name": "Cơ Giới Tử",
+      "title": "Thiên Cơ Thánh Thủ",
+      "realm": "Nguyên Anh Viên Mãn",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Cơ Giới Đạo (机械道)",
+      "description": "Khuôn mặt hằn những vệt đen do bồ hóng và khói lửa tích tụ nhiều năm không tan, đôi mắt sắc sảo luôn phản chiếu ánh lửa. Đeo một chiếc kính cận gọng vàng Huyền Kim đặc biệt với vô số thấu kính lật được để soi kỹ linh kiện. Nửa bên phải khuôn mặt có vết bỏng lớn do một vụ nổ lò từ thuở thiếu thời."
+    },
+    {
+      "id": "xich_hoa_diem",
+      "name": "Xích Hỏa Diệm",
+      "title": "Hỏa Lô Bạo",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Phần Thiên Đạo (焚天道)",
+      "description": "Ngoại hình thô lỗ, râu quai nón để xồm xoàm màu cam đỏ, tóc cạo trọc để tránh bị bắt lửa mỗi lần làm thí nghiệm hụt. Làn da nhám đỏ au như tôm luộc, có nhiều vệt sẹo phồng rộp chưa khỏi trên bắp tay."
+    },
+    {
+      "id": "ly_dong_nguyen",
+      "name": "Lý Đồng Nguyên",
+      "title": "Kim Bàn Tính",
+      "realm": "Nguyên Anh Hậu Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Đồng Nguyên Đạo (铜元道)",
+      "description": "Khuôn mặt tròn trịa, nước da hơi tái nhưng ánh mắt cực kỳ sắc bén. Y thường híp mắt cười, nhưng nụ cười đó thường khiến các thương nhân khác lạnh sống lưng. Nuôi một chòm râu dê được chải chuốt cẩn thận."
+    },
+    {
+      "id": "bach_kim_luyen",
+      "name": "Bạch Kim Luyện",
+      "title": "Xuyên Sứ",
+      "realm": "Nguyên Anh Đỉnh Phong",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Kim Duệ Đạo (金锐道)",
+      "description": "Dáng người cao gầy, nét mặt như tượng tạc bằng ngọc trắng pha kim loại, lông mày sắc lẹm như kiếm. Tóc xõa dài màu xám bạc ánh lên ánh kim khí. Đôi mắt y lạnh lẽo và tĩnh lặng, khác hẳn sự cuồng nhiệt của Đường chủ."
+    },
+    {
+      "id": "trinh_linh_tinh",
+      "name": "Trịnh Linh Tinh",
+      "title": "Tinh Trận Mạch",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Tinh Cốt Đạo (晶骨道)",
+      "description": "Nữ tử trung niên đoan trang, trán rộng, thường búi tóc gọn gàng ra sau bằng một cây trâm hình thoi. Làn da nàng mang sắc màu xanh nhạt lạ thường do tiếp xúc nhiều với lõi linh thạch cường độ cao. Ánh mắt tĩnh lặng chứa đựng vô vàn phù văn nhỏ bé nhấp nháy liên tục."
+    },
+    {
+      "id": "ly_huyen_khi",
+      "name": "Lý Huyền Khí",
+      "title": "Vạn Linh Trận Thủ",
+      "realm": "Nguyên Anh Trung Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Linh Khí Đạo (灵气道)",
+      "description": "Một gã đàn ông nho nhã trạc ngũ tuần, râu tóc lưa thưa để dài tự nhiên. Giữa trán khắc một đạo bùa bằng mực tím dạ quang không bao giờ mờ, đôi mắt sâu thẳm hệt như những bầu trời đêm chứa đựng cả một dải ngân hà."
+    },
+    {
+      "id": "vi_thien_luc",
+      "name": "Vi Thiên Lực",
+      "title": "Cự Lực Kình",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Bàn Thạch Đạo (磐石道)",
+      "description": "Thân hình cao gần một trượng (ba mét), cánh tay to lớn như hai cây cột đình. Làn da ngăm đen bóng mồ hôi, mái tóc ngắn ngủn, nụ cười hiền lành chất phác hoàn toàn trái ngược với thân hình đáng sợ."
+    },
+    {
+      "id": "chu_viem_tien",
+      "name": "Chu Viêm Tiễn",
+      "title": "Bạo Viêm Tiễn",
+      "realm": "Nguyên Anh Sơ Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Cực Xuyên Đạo (极穿道)",
+      "description": "Thân hình cao ráo, vai rộng nhưng không thô kệch. Hai cánh tay đặc biệt dài hơn người bình thường, săn chắc lộ rõ từng khối cơ bắp rắn rỏi. Khuôn mặt y thon gọn, lông mày nhô cao, ánh mắt cực kỳ rực rỡ và luôn liếc nhìn mọi thứ dưới góc độ của thước ngắm đạn đạo."
+    },
+    {
+      "id": "au_duong_thiet",
+      "name": "Âu Dương Thiết",
+      "title": "Thiết Diện Phán Quan",
+      "realm": "Nguyên Anh Hậu Kỳ",
+      "faction": "Thần Khí Phường",
+      "region": "Đông Hoang",
+      "role": "Thợ Rèn",
+      "pov": false,
+      "avatar_color": "#ff5722",
+      "race": "Nhân Tộc",
+      "personality": "Thiết Luật Đạo (铁律道)",
+      "description": "Khuôn mặt hốc hác, góc cạnh như bị búa đập ra, làn da sạm màu chì. Đôi mắt sắc lẹm không bao giờ chớp trước bất kỳ van xin nào. Đặc biệt, y luôn đeo một chiếc mặt nạ nửa mặt bằng Hắc Cương, chỉ để lộ đôi mắt và khóe miệng luôn nhếch xuống."
     }
   ],
   "relationships": [
@@ -67132,6 +67496,216 @@ const relationshipData = {
         "so": 40,
         "on": 50
       }
+    },
+    {
+      "source": "duong_moc_cong",
+      "target": "co_gioi_tu",
+      "type": "ally",
+      "description": "Đại sư huynh, người cùng thiết kế các hệ thống tinh vi nhất. Cực kỳ tôn trọng tài năng của huynh trưởng."
+    },
+    {
+      "source": "duong_moc_cong",
+      "target": "tran_tinh_dong",
+      "type": "ally",
+      "description": "Đệ tử chân truyền có khiếu chế tạo bánh răng cực kỳ tỉ mỉ, luôn được y cưng chiều."
+    },
+    {
+      "source": "lam_linh_truc",
+      "target": "co_moc_luan",
+      "type": "ally",
+      "description": "Bạn đồng tu am hiểu bánh răng, cùng y tạo ra hệ truyền động mạnh nhất."
+    },
+    {
+      "source": "dong_hoa_luyen",
+      "target": "ly_dong_nguyen",
+      "type": "ally",
+      "description": "Đối tác làm ăn thường xuyên, y đánh giá cao đầu óc kinh doanh của Lý Đồng Nguyên."
+    },
+    {
+      "source": "dong_hoa_luyen",
+      "target": "co_gioi_tu",
+      "type": "ally",
+      "description": "Cung cấp vật liệu tinh hỏa hiếm nhất Đông Hoang cho Phường Chủ để giữ vững mối quan hệ chiến lược."
+    },
+    {
+      "source": "co_moc_luan",
+      "target": "duong_moc_cong",
+      "type": "ally",
+      "description": "Viện chủ nghiêm khắc, người đã hướng dẫn y hiểu thấu các kết cấu cơ học xoay tròn."
+    },
+    {
+      "source": "hoa_trong_son",
+      "target": "ly_dong_nguyen",
+      "type": "ally",
+      "description": "Căm thù sự keo kiệt của Phó Phường Chủ mỗi khi ông cắt xén nguyên liệu nổ của y."
+    },
+    {
+      "source": "hoa_trong_son",
+      "target": "bach_kim_luyen",
+      "type": "ally",
+      "description": "Hộ pháp đắc lực luôn bảo vệ an toàn cho Hỏa Pháo Đường."
+    },
+    {
+      "source": "loi_bao_cuong",
+      "target": "xich_hoa_diem",
+      "type": "ally",
+      "description": "Bạn thân thích cháy nổ, cùng nhau kết hợp sấm sét và lửa trong các vụ thí nghiệm đinh tai nhức óc."
+    },
+    {
+      "source": "pham_hoa_luu",
+      "target": "xich_hoa_diem",
+      "type": "ally",
+      "description": "Cùng y nghiên cứu tính hỏa của linh thạch nhưng lại hay cáu gắt vì ông bạn kia ném thuốc quá bạo tay, thiếu độ chính xác."
+    },
+    {
+      "source": "pham_hoa_luu",
+      "target": "nguyen_ngan_co",
+      "type": "ally",
+      "description": "Ghét Thủy Ngân Tiên Tử vì cô ta luôn làm ẩm bột thuốc của mình để trêu đùa, nhưng rất nể trọng khả năng làm mát máy của ả."
+    },
+    {
+      "source": "nguy_co_tam",
+      "target": "co_gioi_tu",
+      "type": "ally",
+      "description": "Rất được Phường Chủ ưu ái vì giải quyết lượng rác thải linh thạch của phường một cách triệt để, tiết kiệm ngân quỹ."
+    },
+    {
+      "source": "nguy_co_tam",
+      "target": "ly_dong_nguyen",
+      "type": "ally",
+      "description": "Phó Phường Chủ thường gọi y là \"cứu tinh sổ sách\" mỗi khi tái chế lại số linh kiện hỏng do Hỏa Trọng Sơn làm nổ."
+    },
+    {
+      "source": "hac_thiet_thanh",
+      "target": "bach_kim_luyen",
+      "type": "ally",
+      "description": "Một công một thủ, phối hợp vô song bảo vệ an nguy tông môn. Tin tưởng đưa lưng cho huynh đệ."
+    },
+    {
+      "source": "hac_thiet_thanh",
+      "target": "hoa_trong_son",
+      "type": "ally",
+      "description": "Thường xuyên phải chắn đòn do các vụ nổ từ các thử nghiệm vũ khí của hắn, tuy hay cằn nhằn nhưng vẫn làm."
+    },
+    {
+      "source": "ha_chan_thien",
+      "target": "bach_kim_luyen",
+      "type": "ally",
+      "description": "Thường thử nghiệm độ cứng của đại bác và tường chắn bằng phi kiếm của Hộ Pháp."
+    },
+    {
+      "source": "phong_phi_pham",
+      "target": "duong_moc_cong",
+      "type": "ally",
+      "description": "Cảm kích Viện Chủ vì luôn ủng hộ các bản thiết kế khí động học siêu tưởng của y."
+    },
+    {
+      "source": "ton_thiet_tinh",
+      "target": "co_gioi_tu",
+      "type": "ally",
+      "description": "Đệ tử đắc ý nhất, kế thừa xuất sắc ý chí của Thần Khí Phường."
+    },
+    {
+      "source": "ton_thiet_tinh",
+      "target": "ly_dong_nguyen",
+      "type": "ally",
+      "description": "Một hậu bối rất có tài quản trị, thường xuyên xin ý kiến lão."
+    },
+    {
+      "source": "ton_co_minh",
+      "target": "au_duong_thiet",
+      "type": "ally",
+      "description": "Cung cấp bằng chứng, hình ảnh vi phạm của các đệ tử và Trưởng Lão khác cho vị Đường Chủ lạnh lùng này."
+    },
+    {
+      "source": "ton_co_minh",
+      "target": "co_gioi_tu",
+      "type": "ally",
+      "description": "Tôn sùng cách Phường Chủ ứng dụng cơ học, cố gắng bắt chước thiết kế các khôi lỗi bay trinh sát từ thiết kế hạm đội của y."
+    },
+    {
+      "source": "cao_luu_tinh",
+      "target": "hoa_trong_son",
+      "type": "ally",
+      "description": "Đường Chủ chuyên cung cấp linh đạn hạng nặng đặc biệt cho hắn sử dụng để bắn cự ly xa."
+    },
+    {
+      "source": "cao_luu_tinh",
+      "target": "chu_viem_tien",
+      "type": "ally",
+      "description": "Cạnh tranh với tay nỏ này xem vũ khí ai đâm xuyên mạnh hơn, thường cá cược bằng linh thạch rỗng."
+    },
+    {
+      "source": "hoang_kim_giap",
+      "target": "au_duong_thiet",
+      "type": "ally",
+      "description": "Cánh tay phải của Đường Chủ, luôn là người đi tiên phong bắt giữ những tội phạm phản kháng."
+    },
+    {
+      "source": "hoang_kim_giap",
+      "target": "hac_thiet_thanh",
+      "type": "ally",
+      "description": "Thường so tài phòng ngự với tên Hộ Pháp trâu bò kia xem khiên Hắc Thiết hay Kim Giáp ai cứng hơn."
+    },
+    {
+      "source": "nguyen_ngan_co",
+      "target": "tran_tinh_dong",
+      "type": "ally",
+      "description": "Thường trao đổi vật liệu tinh khiết, nhưng lại thích trêu chọc sự sạch sẽ quá mức của y."
+    },
+    {
+      "source": "ly_dong_nguyen",
+      "target": "co_gioi_tu",
+      "type": "ally",
+      "description": "Phường Chủ hiện tại, đối tác ăn ý trong việc quản lý, dù hay càu nhàu về ngân sách."
+    },
+    {
+      "source": "trinh_linh_tinh",
+      "target": "hoa_trong_son",
+      "type": "ally",
+      "description": "Phụ trách cung cấp linh thạch lõi cho các cỗ pháo khổng lồ của Đường Chủ, thường xuyên nhức đầu vì sự háu đói linh lực của vị sếp này."
+    },
+    {
+      "source": "trinh_linh_tinh",
+      "target": "ly_huyen_khi",
+      "type": "ally",
+      "description": "Cùng nhau thảo luận cách dùng Trận pháp để ổn định linh khí trong các tàu không gian lớn. Rất ăn ý với y."
+    },
+    {
+      "source": "ly_huyen_khi",
+      "target": "co_gioi_tu",
+      "type": "ally",
+      "description": "Thường xuyên được Phường Chủ nhờ cậy thiết kế hệ thống năng lượng cực phức tạp, nể phục trí óc của y."
+    },
+    {
+      "source": "vi_thien_luc",
+      "target": "hac_thiet_thanh",
+      "type": "ally",
+      "description": "Thường xuyên đọ sức khuân các nòng đại bác siêu nặng để phân thắng bại, rất sùng bái Hắc Hộ Pháp."
+    },
+    {
+      "source": "vi_thien_luc",
+      "target": "co_gioi_tu",
+      "type": "ally",
+      "description": "Cảm mến Phường Chủ vì đã chế tạo cho y hệ thống ròng rọc cơ giới làm giảm bớt sức nặng, tăng hiệu quả công việc."
+    },
+    {
+      "source": "chu_viem_tien",
+      "target": "hoa_trong_son",
+      "type": "ally",
+      "description": "Đường Chủ đánh giá cao khả năng chế tạo vũ khí xuyên phá và ngắm bắn thần sầu của y."
+    },
+    {
+      "source": "au_duong_thiet",
+      "target": "co_gioi_tu",
+      "type": "ally",
+      "description": "Tuyệt đối trung thành với Phường Chủ, là thanh gươm hành pháp dọn dẹp mọi kẻ phản bội và tham nhũng linh thạch."
+    },
+    {
+      "source": "au_duong_thiet",
+      "target": "ly_dong_nguyen",
+      "type": "ally",
+      "description": "Luôn giám sát gắt gao dòng tiền của Phó Phường Chủ này, nghi ngờ lão hay tuồn khoáng sản ra ngoài."
     }
   ],
   "factions": [
@@ -68095,8 +68669,8 @@ const relationshipData = {
   ],
   "meta": {
     "last_updated": "2026-03-15",
-    "total_characters": 2083,
-    "total_relationships": 6009,
+    "total_characters": 2109,
+    "total_relationships": 6044,
     "scanned_chapters": {
       "Góc_Nhìn_A_Ngốc": 132,
       "Góc_Nhìn_Lệ_Vô_Tâm": 152,
