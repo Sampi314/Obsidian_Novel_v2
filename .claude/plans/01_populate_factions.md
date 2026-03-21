@@ -4,7 +4,7 @@
 - **KHÔNG dùng script** — mỗi tên phải do AI đặt, có ý nghĩa xianxia
 - **KHÔNG dùng chức danh làm tên** (Vương, Trưởng Lão, Chiến Sĩ, Thủ Hộ...)
 - **KHÔNG trùng tên** trong cùng thế lực
-- **Skill duy nhất:** `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+- **Skill duy nhất:** `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 3)
 
 ---
 
@@ -363,7 +363,7 @@ Thành Chủ
 
 ## Phase 1: Leadership (Phiên 1-33)
 > 📖 **Đọc trước khi bắt đầu:**
-> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1: Tạo Nhân Vật Mới) — template YAML + 5 section
+> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 3: Tạo Nhân Vật Mới) — template YAML + 5 section
 > - `.claude/skills/the-luc/SKILL.md` — hiểu headcount schema theo faction_type
 > - File thế lực: `Đạo/Thế_Lực/[Region]/[Faction].md` — xem divisions, members hiện có
 > - File chủng tộc: `Đạo/Chủng_Tộc/[Race].md` — nếu phi Nhân Tộc
@@ -374,7 +374,7 @@ Thành Chủ
 
 ## Phase 2: Chân Truyền (Phiên 34-66)
 > 📖 **Đọc trước khi bắt đầu:**
-> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 3)
 > - File thế lực — xem danh sách Trưởng Lão/Phong Chủ (Phase 1 đã tạo)
 > - Nhân vật đã có: `ls Đạo/Nhân_Vật/[Region]/[Faction]/` — để gán sư phụ đúng
 
@@ -384,7 +384,7 @@ Thành Chủ
 
 ## Phase 3: Nội Môn (Phiên 67-132)
 > 📖 **Đọc trước khi bắt đầu:**
-> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 3)
 > - File thế lực — xem phong nào thuộc chức năng gì
 > - Nhân vật đã có — để phân nội môn vào đúng phong
 
@@ -394,7 +394,7 @@ Thành Chủ
 
 ## Phase 4: Ngoại Môn (Phiên 133-264)
 > 📖 **Đọc trước khi bắt đầu:**
-> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 3)
 
 **Mỗi phiên:** 50 Ngoại Môn (4 phiên/thế lực đạt 200)
 - Batch size: 50 chars/phiên
@@ -402,7 +402,7 @@ Thành Chủ
 
 ## Phase 5: Phàm Nhân (Phiên 265+)
 > 📖 **Đọc trước khi bắt đầu:**
-> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+> - `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 3)
 > - File thế lực — xem specialty để biết cần loại phàm nhân gì
 > - Phần "Phàm Nhân Theo Chuyên Môn Tông Môn" ở PHẦN 1 của plan này
 
@@ -520,7 +520,7 @@ Thành Chủ
 - [ ] `git pull origin main`
 - [ ] Đọc bảng PHẦN 4 → tìm hàng 🔄 hoặc ⬜ đầu tiên
 - [ ] Nếu ⬜ → đổi thành 🔄 → commit + push NGAY
-- [ ] Đọc `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+- [ ] Đọc `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 3)
 - [ ] Đọc file thế lực `Đạo/Thế_Lực/[Region]/[Faction].md`
 - [ ] Đọc file chủng tộc `Đạo/Chủng_Tộc/[Race].md` (nếu phi Nhân Tộc)
 - [ ] Xem nhân vật đã có: `ls Đạo/Nhân_Vật/[Region]/[Faction]/`
