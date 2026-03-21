@@ -12,7 +12,11 @@
 
 ## 10 BÁO CÁO GẦN NHẤT
 
-### [Hiện Tại] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang) - Phần 5
+### [Hiện Tại] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang) - Phần 6
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lục Tiểu Vân, Mã Tiểu Trận, Mã Tiểu Tử thuộc khu vực Đông Hoang.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
+### [Phiên Trước] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang) - Phần 5
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Lý Ngọc Dược, Lý Ngọc Phong, Lý Thanh Hà thuộc khu vực Đông Hoang.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
 
