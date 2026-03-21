@@ -26,11 +26,14 @@ Plan file ghi rõ:
 - Work queue (⬜/🔄/✅) để claim task
 - Checklist kiểm tra
 
-### 4. Claim → Push → Làm → Push
-- Tìm ⬜ trong plan → đổi thành 🔄 → push
-- Làm việc
+### 4. Claim → Push → Làm → Cập nhật số → Push
+- Tìm hàng ⬜ đầu tiên trong bảng Work Queue của plan
+- Đổi ⬜ → 🔄, ghi số vào cột **Đang Làm** (ví dụ: 15) → push
+- Làm việc (tạo 10-20 files)
 - Push kết quả
-- Đổi 🔄 → ✅ → push
+- Cập nhật bảng: cộng Đang Làm vào **Xong**, reset Đang Làm = 0
+- Nếu Xong = Cần → đổi 🔄 → ✅
+- Push bảng
 
 ### 5. Khi task hoàn thành
 Nếu TẤT CẢ mục trong plan đều ✅ → xóa file plan đó → push.

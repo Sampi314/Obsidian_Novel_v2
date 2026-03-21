@@ -419,7 +419,14 @@ Thành Chủ
 # PHẦN 4: WORK QUEUE
 
 > **Mỗi phiên:** Agent tạo **10-20 tên** cho 1 thế lực.
-> **Quy trình:** Tìm hàng 🔄 hoặc ⬜ đầu tiên → đổi ⬜ thành 🔄 → push → tạo 10-20 tên → cập nhật Xong/Cần → push → nếu Xong = Cần thì đổi thành ✅.
+>
+> **Quy trình:**
+> 1. Tìm hàng ⬜ đầu tiên → đổi thành 🔄
+> 2. Ghi số tên sẽ tạo vào cột **Đang Làm** (ví dụ: 15) → commit + push
+> 3. Tạo 10-20 character stubs → commit + push
+> 4. Cập nhật bảng: **Xong** += Đang Làm, **Đang Làm** = 0
+> 5. Nếu **Xong ≥ Cần** → đổi 🔄 thành ✅
+> 6. Commit + push bảng
 
 | Thế Lực | Phase | Xong | Đang Làm | Cần | Trạng Thái |
 |---------|-------|:----:|:--------:|:---:|:----------:|
