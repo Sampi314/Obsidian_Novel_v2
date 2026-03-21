@@ -27096,8 +27096,7 @@ const relationshipData = {
       "race": "Nhân Tộc",
       "personality": "Cam Chịu, Hay Càm Ràm, Tốt Bụng",
       "description": "Tóc và râu bạc trắng. Lưng còng như cây tùng già. Da nhăn nheo nhưng đôi mắt sáng và hiền từ."
-    }
-,
+    },
     {
       "id": "bach_van_xuyen",
       "name": "Bạch Vân Xuyên",
@@ -27307,6 +27306,1029 @@ const relationshipData = {
       "race": "Nhân Tộc",
       "personality": "Quyến rũ, Nguy hiểm",
       "description": "Vẻ đẹp ma mị, sắc sảo."
+    },
+    {
+      "id": "bach_kiem_phong",
+      "name": "Bạch Kiếm Phong",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "bach_van_phi",
+      "name": "Bạch Vân Phi",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "chu_bach_hac",
+      "name": "Chu Bạch Hạc",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "chu_thanh_kiem",
+      "name": "Chu Thanh Kiếm",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "chu_thanh_phong",
+      "name": "Chu Thanh Phong",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "chu_thanh_van",
+      "name": "Chu Thanh Vân",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "chu_tu_huyet",
+      "name": "Chu Tử Huyết",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "chu_tu_mac",
+      "name": "Chu Tử Mặc",
+      "title": "Kiếm Tu",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "diep_thien_han",
+      "name": "Diệp Thiên Hàn",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "duoc_thanh_binh",
+      "name": "Dược Thanh Bình",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "hoang_bach_vu",
+      "name": "Hoàng Bạch Vũ",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "hoang_kien_quoc",
+      "name": "Hoàng Kiến Quốc",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "hoang_liet_diem",
+      "name": "Hoàng Liệt Diệm",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "hoang_minh_tuan",
+      "name": "Hoàng Minh Tuấn",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "hoang_tu_tam",
+      "name": "Hoàng Tử Tâm",
+      "title": "Kiếm Tu",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "huyen_da_nguyet",
+      "name": "Huyền Dạ Nguyệt",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "huyen_da_quang",
+      "name": "Huyền Dạ Quang",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ha_ngoc_lam",
+      "name": "Hà Ngọc Lâm",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ha_tu_huyen",
+      "name": "Hà Tử Huyền",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "hong_chien_thang",
+      "name": "Hồng Chiến Thắng",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "hong_diem",
+      "name": "Hồng Diệm",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "kim_vinh_loi",
+      "name": "Kim Vĩnh Lợi",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "kim_van_loi",
+      "name": "Kim Vạn Lợi",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "liet_hoa_quan",
+      "name": "Liệt Hỏa Quân",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "liet_hoa_van",
+      "name": "Liệt Hỏa Vân",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "lam_bach_hac",
+      "name": "Lâm Bạch Hạc",
+      "title": "Kiếm Tu",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "lam_kim_ngoc",
+      "name": "Lâm Kim Ngọc",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "lam_nguyet_thanh",
+      "name": "Lâm Nguyệt Thanh",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "lam_tam_kiem",
+      "name": "Lâm Tâm Kiếm",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "lam_tam_vu",
+      "name": "Lâm Tâm Vũ",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "le_hong_phuong",
+      "name": "Lê Hồng Phượng",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "le_nguyet_lan",
+      "name": "Lê Nguyệt Lan",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "le_tuyet_kiem",
+      "name": "Lê Tuyết Kiếm",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ly_hong_hoa",
+      "name": "Lý Hồng Hoa",
+      "title": "Kiếm Tu",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ly_ngoc_suong",
+      "name": "Lý Ngọc Sương",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ly_thanh_nguyet",
+      "name": "Lý Thanh Nguyệt",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ly_van_thong",
+      "name": "Lý Vạn Thông",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "luc_thanh_van",
+      "name": "Lục Thanh Vân",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "luc_thien_kiem",
+      "name": "Lục Thiên Kiếm",
+      "title": "Kiếm Tu",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "luc_tu_dang",
+      "name": "Lục Tử Đằng",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "ma_huyen_kiem",
+      "name": "Mã Huyền Kiếm",
+      "title": "Kiếm Tu",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ma_hai_phong",
+      "name": "Mã Hải Phong",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "ma_thien_suong",
+      "name": "Mã Thiên Sương",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "ma_tran_phong",
+      "name": "Mã Trận Phong",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "ma_tu_thanh",
+      "name": "Mã Tử Thanh",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "nguyen_kim_lan",
+      "name": "Nguyễn Kim Lan",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "nguyen_kim_lien",
+      "name": "Nguyễn Kim Liên",
+      "title": "Y Tu",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "nguyen_kim_phong",
+      "name": "Nguyễn Kim Phong",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "nguyen_ngoc_van",
+      "name": "Nguyễn Ngọc Vân",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "nguyet_tinh_suong",
+      "name": "Nguyệt Tĩnh Sương",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "nguyet_tinh_yen",
+      "name": "Nguyệt Tĩnh Yên",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ngo_hong_liet",
+      "name": "Ngô Hồng Liệt",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ngoc_linh_chi",
+      "name": "Ngọc Linh Chi",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ngoc_linh_dan",
+      "name": "Ngọc Linh Đan",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "pham_huyen_nhi",
+      "name": "Phạm Huyền Nhi",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "pham_hong_van",
+      "name": "Phạm Hồng Vân",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "pham_kim_thiet",
+      "name": "Phạm Kim Thiết",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "pham_thanh_phong",
+      "name": "Phạm Thanh Phong",
+      "title": "Kiếm Tu",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "thanh_phong_vu",
+      "name": "Thanh Phong Vũ",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "thiet_trong_nghia",
+      "name": "Thiết Trọng Nghĩa",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "truong_bach_van",
+      "name": "Trương Bạch Vân",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "truong_han_phong",
+      "name": "Trương Hàn Phong",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "truong_ngoc_hoa",
+      "name": "Trương Ngọc Hoa",
+      "title": "Y Tu",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tran_huyen_van",
+      "name": "Trần Huyền Vân",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "tran_hong_diep",
+      "name": "Trần Hồng Diệp",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "tran_minh_dao",
+      "name": "Trần Minh Đạo",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tran_thien_minh",
+      "name": "Trần Thiên Minh",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tran_tieu_nguyet",
+      "name": "Trần Tiểu Nguyệt",
+      "title": "Kiếm Tu",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tran_vinh_an",
+      "name": "Trần Vĩnh An",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tuyet_lang_han",
+      "name": "Tuyết Lăng Hàn",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tuyet_vo_anh",
+      "name": "Tuyết Vô Ảnh",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ton_ngoc_kiem",
+      "name": "Tôn Ngọc Kiếm",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "ton_thien_vu",
+      "name": "Tôn Thiên Vũ",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "ton_tieu_khong",
+      "name": "Tôn Tiểu Không",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "tu_tinh_linh",
+      "name": "Tử Tinh Linh",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tu_van_tran",
+      "name": "Tử Vân Trận",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "vu_nguyet_ha",
+      "name": "Vũ Nguyệt Hà",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "vu_thanh_suong",
+      "name": "Vũ Thanh Sương",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "vu_thien_ha",
+      "name": "Vũ Thiên Hà",
+      "title": "Kiếm Tu",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "vu_tu_lang",
+      "name": "Vũ Tử Lăng",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "vu_tu_dang",
+      "name": "Vũ Tử Đằng",
+      "title": "Trận Tu",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "vuong_kim_linh",
+      "name": "Vương Kim Linh",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "vuong_thanh_phuong",
+      "name": "Vương Thanh Phượng",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "vuong_dai_chuy",
+      "name": "Vương Đại Chùy",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "dinh_bach_phong",
+      "name": "Đinh Bạch Phong",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "doan_nguyet_anh",
+      "name": "Đoàn Nguyệt Ảnh",
+      "title": "Kiếm Tu",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "doan_ngoc_lien",
+      "name": "Đoàn Ngọc Liên",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "dang_bach_van",
+      "name": "Đặng Bạch Vân",
+      "title": "Kiếm Tu",
+      "realm": "Trúc Cơ Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "dang_huyen_vu",
+      "name": "Đặng Huyền Vũ",
+      "title": "Chân Truyền Đệ Tử",
+      "realm": "Kim Đan Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ff9800"
+    },
+    {
+      "id": "dang_hai_trieu",
+      "name": "Đặng Hải Triều",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "dang_nguyet_minh",
+      "name": "Đặng Nguyệt Minh",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Viên Mãn",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
+    },
+    {
+      "id": "dang_phi_ho",
+      "name": "Đặng Phi Hổ",
+      "title": "Kiếm Tu",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#8bc34a"
+    },
+    {
+      "id": "do_ngoc_duyen",
+      "name": "Đỗ Ngọc Duyên",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50"
     }
   ],
   "relationships": [
@@ -61891,8 +62913,7 @@ const relationshipData = {
       "target": "ha_thanh_tung",
       "type": "enemy",
       "description": "Đồng Môn/Sư Đệ/Kẻ Máu Me"
-    }
-,
+    },
     {
       "source": "bach_van_xuyen",
       "target": "le_han_suong",
@@ -61997,6 +63018,618 @@ const relationshipData = {
       "type": "kinh",
       "strength": -50,
       "description": "Cạnh tranh"
+    },
+    {
+      "source": "bach_kiem_phong",
+      "target": "le_han_suong",
+      "type": "mentor",
+      "description": "Sư phụ tôn kính (Phong Chủ)"
+    },
+    {
+      "source": "bach_van_phi",
+      "target": "bach_kiem_phong",
+      "type": "family",
+      "description": "Sư huynh đồng môn"
+    },
+    {
+      "source": "chu_bach_hac",
+      "target": "chu_thanh_phong",
+      "type": "ally",
+      "description": "Ca ca ruột, Bạch Hạc rất sùng bái anh trai và luôn nghe theo sự sắp xếp của anh."
+    },
+    {
+      "source": "chu_thanh_phong",
+      "target": "chu_tu_huyet",
+      "type": "ally",
+      "description": "Đường đệ cùng gia tộc, Thanh Phong luôn tỏ ra khinh thường sự tàn bạo và xuất thân thấp kém của Tử Huyết."
+    },
+    {
+      "source": "chu_tu_mac",
+      "target": "vu_phi_kiem",
+      "type": "master",
+      "description": "Sư tôn phong chủ, tôn kính sự ung dung thiền định và kiếm khí tĩnh lặng của người."
+    },
+    {
+      "source": "chu_tu_mac",
+      "target": "lam_tinh_tam",
+      "type": "mentor",
+      "description": "Chân truyền sư tỷ, thường cùng nàng ngâm thơ dưới trăng và đàm đạo về kiếm lý."
+    },
+    {
+      "source": "diep_thien_han",
+      "target": "nguyen_tinh_kiem",
+      "type": "family",
+      "description": "Trưởng Lão Thiên Hoa Phong, người chiếu cố nàng vì thấy bóng dáng vợ quá cố trong tính cách lạnh lùng nhưng chính trực của nàng."
+    },
+    {
+      "source": "diep_thien_han",
+      "target": "nguyen_hoa_vu",
+      "type": "ally",
+      "description": "Đồng môn nội môn Thiên Hoa Phong, người duy nhất đủ kiên nhẫn chịu đựng sự lạnh nhạt của nàng mà vẫn mời đi ăn cơm."
+    },
+    {
+      "source": "duoc_thanh_binh",
+      "target": "ngoc_linh_dan",
+      "type": "ally",
+      "description": "Sư muội đồng môn"
+    },
+    {
+      "source": "hoang_kien_quoc",
+      "target": "tran_minh_dao",
+      "type": "ally",
+      "description": "Đồng môn thân thiết"
+    },
+    {
+      "source": "hoang_minh_tuan",
+      "target": "hoang_kien_quoc",
+      "type": "family",
+      "description": "Sư huynh đồng tộc"
+    },
+    {
+      "source": "hoang_tu_tam",
+      "target": "vuong_tieu_kim",
+      "type": "ally",
+      "description": "Bạn đồng môn luyện khí, thường xuyên qua lại trao đổi kinh nghiệm."
+    },
+    {
+      "source": "hoang_tu_tam",
+      "target": "hoang_tuyet_lien",
+      "type": "ally",
+      "description": "Cùng họ Hoàng, thầm ngưỡng mộ sự băng thanh ngọc khiết của nàng."
+    },
+    {
+      "source": "huyen_da_nguyet",
+      "target": "dang_huyen_da",
+      "type": "mentor",
+      "description": "Phong Chủ (sư phụ)"
+    },
+    {
+      "source": "huyen_da_quang",
+      "target": "huyen_da_nguyet",
+      "type": "ally",
+      "description": "Sư muội đồng môn"
+    },
+    {
+      "source": "ha_ngoc_lam",
+      "target": "do_ngoc_duyen",
+      "type": "ally",
+      "description": "Đồng môn nội môn, sư tỷ y thuật. Hai người hay cùng nhau nghiên cứu dược liệu, nàng hái, hắn phân loại."
+    },
+    {
+      "source": "ha_ngoc_lam",
+      "target": "ly_ngoc_duoc",
+      "type": "mentor",
+      "description": "Chân Truyền Đệ Tử, bậc thầy dược liệu. Hắn thường xin sư tỷ cho xem bộ sưu tập linh thảo quý hiếm và được giảng giải tỉ mỉ."
+    },
+    {
+      "source": "hong_chien_thang",
+      "target": "tran_hong_kiem",
+      "type": "ally",
+      "description": "Phong Chủ chỉ dẫn"
+    },
+    {
+      "source": "hong_diem",
+      "target": "hong_chien_thang",
+      "type": "family",
+      "description": "Sư huynh đồng môn"
+    },
+    {
+      "source": "kim_vinh_loi",
+      "target": "vuong_kim_toa",
+      "type": "mentor",
+      "description": "Phong Chủ chỉ dạy luyện khí"
+    },
+    {
+      "source": "kim_van_loi",
+      "target": "kim_vinh_loi",
+      "type": "family",
+      "description": "Sư huynh đồng tộc"
+    },
+    {
+      "source": "liet_hoa_quan",
+      "target": "liet_hoa_van",
+      "type": "family",
+      "description": "Sư đệ đồng môn"
+    },
+    {
+      "source": "liet_hoa_van",
+      "target": "hong_chien_thang",
+      "type": "ally",
+      "description": "Sư huynh thân thiết"
+    },
+    {
+      "source": "lam_bach_hac",
+      "target": "le_han_suong",
+      "type": "ally",
+      "description": "Sư bá phong chủ, rèn luyện sự dẻo dai và thân pháp nhẹ nhàng như hạc bay."
+    },
+    {
+      "source": "lam_bach_hac",
+      "target": "hoang_tuyet_lien",
+      "type": "mentor",
+      "description": "Chân truyền sư tỷ, thường làm mục tiêu cho hắn rèn tốc độ né tránh."
+    },
+    {
+      "source": "lam_kim_ngoc",
+      "target": "vuong_kim_toa",
+      "type": "ally",
+      "description": "Phong Chủ Kim Hoa Phong, người đánh giá cao tay nghề tinh xảo của nàng và giao cho nàng khắc linh văn trên pháp khí."
+    },
+    {
+      "source": "lam_kim_ngoc",
+      "target": "pham_kim_thiet",
+      "type": "family",
+      "description": "Đồng môn nội môn, sư huynh thợ rèn. Hắn rèn khung, nàng khắc hoa văn — hai người là cặp đôi hoàn hảo trong xưởng."
+    },
+    {
+      "source": "lam_tam_kiem",
+      "target": "nguyet_tinh_suong",
+      "type": "ally",
+      "description": "Sư tỷ đồng môn"
+    },
+    {
+      "source": "lam_tam_vu",
+      "target": "lam_tam_kiem",
+      "type": "family",
+      "description": "Sư huynh đồng môn"
+    },
+    {
+      "source": "le_hong_phuong",
+      "target": "tran_hong_kiem",
+      "type": "mentor",
+      "description": "Phong Chủ Hồng Hoa Phong, người mà nàng tôn sùng tuyệt đối, mơ ước được trở thành Chân Truyền Đệ Tử của ngài."
+    },
+    {
+      "source": "le_hong_phuong",
+      "target": "pham_hong_diem",
+      "type": "rival",
+      "description": "Đồng môn nội môn, đối thủ cạnh tranh kịch liệt trong mọi cuộc tỷ thí. Hai người vừa ghét vừa phục nhau."
+    },
+    {
+      "source": "le_hong_phuong",
+      "target": "hoang_hong_vu",
+      "type": "ally",
+      "description": "Đồng môn nội môn, tính tình nóng nảy như nàng, thường xuyên gây gổ vì tranh giành thứ hạng."
+    },
+    {
+      "source": "le_nguyet_lan",
+      "target": "vu_phi_kiem",
+      "type": "master",
+      "description": "Phong Chủ Nguyệt Hoa Phong, đại trưởng lão mà nàng tôn kính tuyệt đối, luôn mơ ước đạt được cảnh giới kiếm ý thuần khiết của ngài."
+    },
+    {
+      "source": "le_nguyet_lan",
+      "target": "vu_nguyet_suong",
+      "type": "ally",
+      "description": "Đồng môn nội môn, bạn thân từ thời ngoại môn. Hai người hay ngồi thiền cùng nhau dưới ánh trăng."
+    },
+    {
+      "source": "le_nguyet_lan",
+      "target": "lam_nguyet_hoa",
+      "type": "ally",
+      "description": "Đồng môn nội môn, tính cách hoạt bát đối lập với nàng. Nguyệt Hoa hay kéo nàng ra khỏi thiền phòng để 'đi chơi cho vui."
+    },
+    {
+      "source": "ly_hong_hoa",
+      "target": "tran_hong_kiem",
+      "type": "ally",
+      "description": "Sư tôn nghiêm khắc, luôn đốc thúc hắn luyện kiếm giữa biển lửa."
+    },
+    {
+      "source": "ly_hong_hoa",
+      "target": "pham_liet_hoa",
+      "type": "family",
+      "description": "Huynh đệ đồng sinh cộng tử, cả hai thường xuyên tỷ thí đọ sức cháy bỏng."
+    },
+    {
+      "source": "ly_van_thong",
+      "target": "thanh_phong_vu",
+      "type": "ally",
+      "description": "Đồng môn đồng hành"
+    },
+    {
+      "source": "luc_thanh_van",
+      "target": "luc_thien_kiem",
+      "type": "family",
+      "description": "Đường huynh trong gia tộc họ Lục, Thanh Vân luôn coi Thiên Kiếm là mục tiêu để vượt qua trong Ngoại Môn Viện."
+    },
+    {
+      "source": "luc_thien_kiem",
+      "target": "chu_tieu_thanh",
+      "type": "ally",
+      "description": "Bạn đồng môn trong Ngoại Môn Viện, thường xuyên giao đấu để trau dồi kiếm thuật."
+    },
+    {
+      "source": "luc_tu_dang",
+      "target": "luc_thien_kiem",
+      "type": "master",
+      "description": "Đường huynh, Tử Đằng rất kính trọng Thiên Kiếm và luôn cố gắng không làm vướng chân anh mình."
+    },
+    {
+      "source": "ma_huyen_kiem",
+      "target": "dang_huyen_da",
+      "type": "mentor",
+      "description": "Sư tôn phong chủ, người truyền dạy bí thuật ẩn nấp và ám sát trong bóng đêm."
+    },
+    {
+      "source": "ma_huyen_kiem",
+      "target": "dang_am_anh",
+      "type": "mentor",
+      "description": "Chân truyền sư huynh, thường xuyên giao nhiệm vụ tình báo và cùng thực hiện ám sát mục tiêu khó."
+    },
+    {
+      "source": "ma_hai_phong",
+      "target": "ma_thien_suong",
+      "type": "master",
+      "description": "Em gái ruột, Hải Phong luôn bảo vệ và cưng chiều muội muội trong môi trường khắc nghiệt của Ngoại Môn Viện."
+    },
+    {
+      "source": "nguyen_kim_lien",
+      "target": "nguyen_tinh_kiem",
+      "type": "mentor",
+      "description": "Sư tôn phong chủ, truyền dạy y thuật và đan đạo."
+    },
+    {
+      "source": "nguyen_kim_lien",
+      "target": "ly_ngoc_duoc",
+      "type": "family",
+      "description": "Sư huynh đồng môn, hay cùng nhau thảo luận phương tễ và phối hợp luyện đan."
+    },
+    {
+      "source": "nguyet_tinh_suong",
+      "target": "vu_phi_kiem",
+      "type": "ally",
+      "description": "Phong Chủ dẫn dắt tâm cảnh"
+    },
+    {
+      "source": "nguyet_tinh_yen",
+      "target": "nguyet_tinh_suong",
+      "type": "ally",
+      "description": "Sư tỷ đồng môn"
+    },
+    {
+      "source": "ngo_hong_liet",
+      "target": "pham_liet_hoa",
+      "type": "mentor",
+      "description": "Chân Truyền Đệ Tử, sư huynh mà hắn vô cùng ngưỡng mộ và luôn xin được đi theo trong các nhiệm vụ chiến đấu."
+    },
+    {
+      "source": "ngo_hong_liet",
+      "target": "le_hong_phuong",
+      "type": "enemy",
+      "description": "Đồng môn nội môn, nàng là đối thủ duy nhất trong Hồng Hoa Phong mà hắn thừa nhận mạnh hơn mình."
+    },
+    {
+      "source": "ngoc_linh_chi",
+      "target": "ngoc_linh_dan",
+      "type": "ally",
+      "description": "Sư tỷ đồng môn"
+    },
+    {
+      "source": "ngoc_linh_dan",
+      "target": "nguyen_tinh_kiem",
+      "type": "master",
+      "description": "Phong Chủ tôn kính"
+    },
+    {
+      "source": "pham_huyen_nhi",
+      "target": "dang_huyen_da",
+      "type": "ally",
+      "description": "Phong Chủ Huyền Hoa Phong, người mà nàng vô cùng sợ hãi nhưng cũng ngưỡng mộ. Ngài xuất hiện và biến mất không một tiếng động."
+    },
+    {
+      "source": "pham_huyen_nhi",
+      "target": "dang_huyen_phong",
+      "type": "family",
+      "description": "Đồng môn nội môn, sư huynh trầm lặng. Hai người hiếm khi nói chuyện nhưng phối hợp ám sát/trinh sát rất ăn ý."
+    },
+    {
+      "source": "pham_huyen_nhi",
+      "target": "tran_huyen_anh",
+      "type": "ally",
+      "description": "Đồng môn nội môn, sư tỷ hay chỉ bảo nàng kỹ thuật ẩn thân và di chuyển trong bóng tối."
+    },
+    {
+      "source": "pham_kim_thiet",
+      "target": "vuong_kim_toa",
+      "type": "mentor",
+      "description": "Phong Chủ Kim Hoa Phong, sư tôn nghiêm khắc nhưng công bằng, người dạy hắn rằng rèn kiếm cũng là rèn tâm."
+    },
+    {
+      "source": "pham_kim_thiet",
+      "target": "vuong_kim_duc",
+      "type": "ally",
+      "description": "Đồng môn nội môn, cháu ruột Phong Chủ. Hai người cạnh tranh ai rèn kiếm giỏi hơn, nhưng Thiết coi Đức là bạn tốt."
+    },
+    {
+      "source": "pham_thanh_phong",
+      "target": "ly_thanh_phong",
+      "type": "ally",
+      "description": "Sư tôn phong chủ, học hỏi từ ông cách phân tích cục diện và xử lý thông tin."
+    },
+    {
+      "source": "pham_thanh_phong",
+      "target": "chu_minh_nguyet",
+      "type": "ally",
+      "description": "Sư muội đồng môn, thường nhờ nàng hỗ trợ tổ chức các buổi trao đổi thông tin của phong."
+    },
+    {
+      "source": "thanh_phong_vu",
+      "target": "ly_thanh_phong",
+      "type": "ally",
+      "description": "Phong Chủ (sếp trực tiếp)"
+    },
+    {
+      "source": "thiet_trong_nghia",
+      "target": "vuong_dai_chuy",
+      "type": "ally",
+      "description": "Sư huynh thân thiết"
+    },
+    {
+      "source": "truong_bach_van",
+      "target": "le_han_suong",
+      "type": "mentor",
+      "description": "Phong Chủ Bạch Hoa Phong, sư phụ trực tiếp dạy kiếm pháp. Nàng ngưỡng mộ vẻ ung dung trầm tĩnh của Phong Chủ."
+    },
+    {
+      "source": "truong_bach_van",
+      "target": "le_bach_lien",
+      "type": "rival",
+      "description": "Đồng môn nội môn Bạch Hoa Phong, đối thủ luyện tập thường xuyên, hai người đẩy nhau tiến bộ."
+    },
+    {
+      "source": "truong_bach_van",
+      "target": "truong_bach_kiem",
+      "type": "mentor",
+      "description": "Chân Truyền Đệ Tử cùng họ Trương, anh họ xa. Nàng luôn cố chứng minh mình không phải nhờ quan hệ gia tộc mà vào nội môn."
+    },
+    {
+      "source": "truong_ngoc_hoa",
+      "target": "nguyen_tinh_kiem",
+      "type": "mentor",
+      "description": "Sư tôn phong chủ, truyền đạt bí thuật bảo quản dược liệu."
+    },
+    {
+      "source": "truong_ngoc_hoa",
+      "target": "doan_ngoc_tam",
+      "type": "ally",
+      "description": "Sư muội đồng môn, thường nhờ nàng quản lý vườn thảo dược."
+    },
+    {
+      "source": "tran_minh_dao",
+      "target": "luc_tran",
+      "type": "master",
+      "description": "Tông Chủ tôn kính"
+    },
+    {
+      "source": "tran_thien_minh",
+      "target": "nguyen_tinh_kiem",
+      "type": "master",
+      "description": "Trưởng Lão Thiên Hoa Phong, người mà Thiên Minh luôn kính trọng và coi là mục tiêu phấn đấu."
+    },
+    {
+      "source": "tran_thien_minh",
+      "target": "luc_thien_thanh",
+      "type": "ally",
+      "description": "Đồng môn nội môn, hai người thường xuyên tranh luận về phương pháp quản lý sự vụ tông môn."
+    },
+    {
+      "source": "tran_thien_minh",
+      "target": "le_thien_vu",
+      "type": "mentor",
+      "description": "Chân Truyền Đệ Tử mà Thiên Minh ngầm ganh đua, dù biết sư huynh vượt xa mình về kiếm đạo."
+    },
+    {
+      "source": "tran_tieu_nguyet",
+      "target": "vu_phi_kiem",
+      "type": "ally",
+      "description": "Sư bá phong chủ, thường xuyên được chỉ điểm về cách vận dụng kiếm ý thanh linh."
+    },
+    {
+      "source": "tran_tieu_nguyet",
+      "target": "vu_nguyet_nhi",
+      "type": "ally",
+      "description": "Tỉ muội cùng phong, hay luyện tập thiền định dưới trăng cùng nhau."
+    },
+    {
+      "source": "tran_vinh_an",
+      "target": "tran_minh_dao",
+      "type": "family",
+      "description": "Đường huynh (anh họ) đồng môn"
+    },
+    {
+      "source": "tuyet_lang_han",
+      "target": "tuyet_vo_anh",
+      "type": "ally",
+      "description": "Sư tỷ đồng môn"
+    },
+    {
+      "source": "tuyet_vo_anh",
+      "target": "bach_kiem_phong",
+      "type": "rival",
+      "description": "Đồng môn kiêm đối thủ"
+    },
+    {
+      "source": "ton_ngoc_kiem",
+      "target": "ton_tieu_khong",
+      "type": "family",
+      "description": "Đường huynh, Ngọc Kiếm coi Tiểu Không như tấm khiên che chắn nhưng bên trong lại cực kỳ mưu mô và hay xúi giục anh họ làm chuyện xấu thay mình."
+    },
+    {
+      "source": "ton_thien_vu",
+      "target": "nguyen_tinh_kiem",
+      "type": "mentor",
+      "description": "Trưởng Lão Thiên Hoa Phong, người đã ba lần từ chối đề cử hắn lên Chân Truyền vì cho rằng tâm tính chưa đủ."
+    },
+    {
+      "source": "ton_thien_vu",
+      "target": "le_thien_vu",
+      "type": "mentor",
+      "description": "Chân Truyền đệ tử trẻ hơn hắn 15 tuổi nhưng đã vượt mặt về thành tựu, nỗi đau lớn nhất trong sự nghiệp."
+    },
+    {
+      "source": "ton_thien_vu",
+      "target": "tran_thien_minh",
+      "type": "ally",
+      "description": "Đồng môn nội môn, người bạn hiếm hoi hiểu được nỗi khổ của kẻ tài năng tầm trung trong tông môn đầy thiên tài."
+    },
+    {
+      "source": "tu_tinh_linh",
+      "target": "tu_van_tran",
+      "type": "family",
+      "description": "Sư huynh đồng môn"
+    },
+    {
+      "source": "tu_van_tran",
+      "target": "ma_tu_van",
+      "type": "mentor",
+      "description": "Phong Chủ chỉ dạy trận pháp"
+    },
+    {
+      "source": "vu_thanh_suong",
+      "target": "vu_thien_ha",
+      "type": "ally",
+      "description": "Anh họ xa, Thanh Sương luôn bám đuôi và coi Thiên Hà như thần tượng."
+    },
+    {
+      "source": "vu_tu_lang",
+      "target": "ma_hai_phong",
+      "type": "enemy",
+      "description": "Kẻ tử thù trong Ngoại Môn Viện, Tử Lăng từng bị Hải Phong đánh gãy xương sườn vì bắt nạt Mã Thiên Sương."
+    },
+    {
+      "source": "vu_tu_dang",
+      "target": "ma_tu_van",
+      "type": "master",
+      "description": "Sư tôn phong chủ, kính trọng trí tuệ và sự tinh thông trận pháp của ông."
+    },
+    {
+      "source": "vu_tu_dang",
+      "target": "ha_tran_linh",
+      "type": "ally",
+      "description": "Sư muội đồng môn, thường nhờ nàng thử nghiệm sức ép của trận pháp và tư vấn chiến thuật."
+    },
+    {
+      "source": "vuong_thanh_phuong",
+      "target": "ly_thanh_phong",
+      "type": "ally",
+      "description": "Phong Chủ Thanh Hoa Phong, sư tôn ngoại giao. Ngài đánh giá cao tài ăn nói của nàng và giao cho nhiệm vụ giao tiếp bên ngoài."
+    },
+    {
+      "source": "vuong_thanh_phuong",
+      "target": "chu_thanh_truc",
+      "type": "ally",
+      "description": "Đồng môn nội môn Thanh Hoa Phong, chuyên gia tình báo. Hai người phối hợp: nàng giao tiếp mở, y thu thập thông tin ngầm."
+    },
+    {
+      "source": "vuong_thanh_phuong",
+      "target": "ly_thanh_ha",
+      "type": "family",
+      "description": "Đồng môn nội môn, sư huynh lớn tuổi hơn. Hà thường đưa nàng đi giao thiệp với các thế lực ngoài và chỉ bảo kinh nghiệm."
+    },
+    {
+      "source": "vuong_dai_chuy",
+      "target": "kim_vinh_loi",
+      "type": "family",
+      "description": "Sư huynh đồng môn"
+    },
+    {
+      "source": "dinh_bach_phong",
+      "target": "le_han_suong",
+      "type": "ally",
+      "description": "Phong Chủ Bạch Hoa Phong, người mà hắn luôn run rẩy mỗi khi phải báo cáo vì vẻ lạnh lùng uy nghiêm."
+    },
+    {
+      "source": "dinh_bach_phong",
+      "target": "truong_bach_van",
+      "type": "mentor",
+      "description": "Sư tỷ nội môn, người kiên nhẫn dạy hắn từng chiêu từng thức khi hắn không hiểu bài."
+    },
+    {
+      "source": "doan_nguyet_anh",
+      "target": "vu_phi_kiem",
+      "type": "mentor",
+      "description": "Sư bá phong chủ đáng kính, chỉ dạy sự tĩnh tâm."
+    },
+    {
+      "source": "doan_nguyet_anh",
+      "target": "dang_huyen_da",
+      "type": "ally",
+      "description": "Sư bá phong chủ bên Huyền Hoa Phong, có sự giao lưu bí quyết ẩn nấp dưới ánh trăng."
+    },
+    {
+      "source": "dang_bach_van",
+      "target": "le_han_suong",
+      "type": "mentor",
+      "description": "Sư bá phong chủ đáng kính, nghiêm khắc chỉ dạy kiếm thuật."
+    },
+    {
+      "source": "dang_bach_van",
+      "target": "truong_bach_kiem",
+      "type": "mentor",
+      "description": "Đệ tử chân truyền, luôn là tấm gương để hắn phấn đấu học hỏi tốc độ xuất kiếm."
+    },
+    {
+      "source": "dang_hai_trieu",
+      "target": "dang_phi_ho",
+      "type": "family",
+      "description": "Huynh trưởng sinh đôi, Hải Triều luôn là người nghĩ mưu kế, còn Phi Hổ là người thực hiện. Cả hai tạo thành cặp bài trùng trong Ngoại Môn Viện."
+    },
+    {
+      "source": "dang_nguyet_minh",
+      "target": "vu_phi_kiem",
+      "type": "mentor",
+      "description": "Phong Chủ Nguyệt Hoa Phong. Ngài đã hai lần từ chối đề cử hắn lên Chân Truyền nhưng hắn không oán, vì hiểu ngài muốn hắn tự ngộ."
+    },
+    {
+      "source": "dang_nguyet_minh",
+      "target": "lam_tinh_tam",
+      "type": "mentor",
+      "description": "Chân Truyền Đệ Tử Nguyệt Hoa Phong. Hắn coi sư tỷ là tri kỷ kiếm đạo, hai người thường thiền định cùng nhau và trao đổi kiếm ý."
+    },
+    {
+      "source": "dang_nguyet_minh",
+      "target": "le_nguyet_lan",
+      "type": "ally",
+      "description": "Đồng môn nội môn, sư muội trầm lặng mà hắn đánh giá rất cao về tiềm năng kiếm ý."
+    },
+    {
+      "source": "do_ngoc_duyen",
+      "target": "doan_ngoc_tam",
+      "type": "mentor",
+      "description": "Chân Truyền Đệ Tử kiêm y liệu bậc thầy, sư tỷ mà nàng coi là mục tiêu y thuật tối thượng."
+    },
+    {
+      "source": "do_ngoc_duyen",
+      "target": "ly_ngoc_phong",
+      "type": "ally",
+      "description": "Đồng môn nội môn Ngọc Hoa Phong, người hay cùng nàng nghiên cứu dược liệu và thử nghiệm phương thuốc mới."
+    },
+    {
+      "source": "do_ngoc_duyen",
+      "target": "doan_ngoc_ha",
+      "type": "ally",
+      "description": "Đồng môn nội môn, sư muội nhỏ tuổi mà nàng chăm sóc như em gái ruột."
     }
   ],
   "factions": [
@@ -62698,6 +64331,264 @@ const relationshipData = {
       "target": "dang_huyen_da",
       "type": "ally",
       "description": "Sư bá phong chủ bên Huyền Hoa Phong, có sự giao lưu bí quyết ẩn nấp dưới ánh trăng."
+    },
+    {
+      "source": "luc_thien_kiem",
+      "target": "chu_tieu_thanh",
+      "type": "ally",
+      "description": "Bạn đồng môn Ngoại Môn Viện, thường xuyên giao đấu"
+    },
+    {
+      "source": "luc_thien_kiem",
+      "target": "lao_truong",
+      "type": "ally",
+      "description": "Xem như ông nội, hay mang củi đổi lấy bánh bao"
+    },
+    {
+      "source": "luc_thanh_van",
+      "target": "luc_thien_kiem",
+      "type": "rival",
+      "description": "Đường huynh, vừa ganh tị vừa nể phục"
+    },
+    {
+      "source": "luc_thanh_van",
+      "target": "pham_thi_lan",
+      "type": "ally",
+      "description": "Quan hệ tốt, hay tặng trang sức đổi lấy sự chiếu cố"
+    },
+    {
+      "source": "luc_tu_dang",
+      "target": "luc_thien_kiem",
+      "type": "family",
+      "description": "Đường huynh, luôn tôn trọng và sợ làm vướng chân"
+    },
+    {
+      "source": "luc_tu_dang",
+      "target": "luc_thanh_van",
+      "type": "family",
+      "description": "Đường huynh, thấy phiền nhưng cũng thỉnh thoảng mượn linh thạch"
+    },
+    {
+      "source": "luc_tu_dang",
+      "target": "ly_ngoc_duoc",
+      "type": "mentor",
+      "description": "Sư tỷ Nội Môn, được chỉ bảo về thảo dược"
+    },
+    {
+      "source": "ma_hai_phong",
+      "target": "ma_thien_suong",
+      "type": "family",
+      "description": "Em gái ruột, là sinh mệnh và động lực bảo vệ"
+    },
+    {
+      "source": "ma_hai_phong",
+      "target": "luc_thien_kiem",
+      "type": "ally",
+      "description": "Đồng môn, thường giao đấu, tôn trọng sự kiên trì"
+    },
+    {
+      "source": "ma_hai_phong",
+      "target": "vu_tu_lang",
+      "type": "enemy",
+      "description": "Kẻ thù, từng đánh Vũ Tử Lăng để bảo vệ em gái"
+    },
+    {
+      "source": "ma_thien_suong",
+      "target": "ma_hai_phong",
+      "type": "family",
+      "description": "Anh trai ruột, người thân duy nhất, luôn dựa dẫm"
+    },
+    {
+      "source": "ma_thien_suong",
+      "target": "vu_tu_lang",
+      "type": "enemy",
+      "description": "Kẻ bắt nạt, rất sợ hãi hắn"
+    },
+    {
+      "source": "ma_thien_suong",
+      "target": "le_han_suong",
+      "type": "mentor",
+      "description": "Phong chủ Bạch Hoa Phong, từng chỉ điểm ổn định hàn khí"
+    },
+    {
+      "source": "vu_thien_ha",
+      "target": "vu_thanh_suong",
+      "type": "family",
+      "description": "Em họ xa, luôn cố gắng che chở và dẫn dắt"
+    },
+    {
+      "source": "vu_thien_ha",
+      "target": "luc_thien_kiem",
+      "type": "ally",
+      "description": "Đồng môn thưởng thức tính thẳng thắn, thường mời rượu"
+    },
+    {
+      "source": "vu_thien_ha",
+      "target": "vu_tu_lang",
+      "type": "rival",
+      "description": "Đồng tộc, chướng mắt với thái độ xấc xược"
+    },
+    {
+      "source": "vu_thanh_suong",
+      "target": "vu_thien_ha",
+      "type": "family",
+      "description": "Anh họ xa kiêm thần tượng tuyệt đối"
+    },
+    {
+      "source": "vu_thanh_suong",
+      "target": "lao_truong",
+      "type": "ally",
+      "description": "Làm việc vặt giúp Lão Trương để đổi lấy đồ ăn ngon"
+    },
+    {
+      "source": "vu_thanh_suong",
+      "target": "vu_tu_lang",
+      "type": "enemy",
+      "description": "Đồng tộc hay bắt nạt nàng, thường xuyên bị nàng trêu lại"
+    },
+    {
+      "source": "vu_tu_lang",
+      "target": "ma_hai_phong",
+      "type": "enemy",
+      "description": "Tử thù trong viện, từng bị đánh gãy xương"
+    },
+    {
+      "source": "vu_tu_lang",
+      "target": "vu_thien_ha",
+      "type": "rival",
+      "description": "Đồng tộc, ganh ghét danh tiếng của đối phương"
+    },
+    {
+      "source": "vu_tu_lang",
+      "target": "ma_thien_suong",
+      "type": "enemy",
+      "description": "Mục tiêu bắt nạt ưa thích"
+    },
+    {
+      "source": "dang_hai_trieu",
+      "target": "dang_phi_ho",
+      "type": "family",
+      "description": "Em sinh đôi kiêm não bộ chỉ đạo mọi việc"
+    },
+    {
+      "source": "dang_hai_trieu",
+      "target": "vu_tu_lang",
+      "type": "rival",
+      "description": "Không ưa tính kiêu ngạo, ngầm phá hoại"
+    },
+    {
+      "source": "dang_hai_trieu",
+      "target": "luc_thanh_van",
+      "type": "rival",
+      "description": "Đối thủ cạnh tranh trong viện, hai kẻ khôn ngoan kèn cựa"
+    },
+    {
+      "source": "dang_phi_ho",
+      "target": "dang_hai_trieu",
+      "type": "family",
+      "description": "Anh sinh đôi, tuyệt đối nghe lời em"
+    },
+    {
+      "source": "dang_phi_ho",
+      "target": "ma_hai_phong",
+      "type": "ally",
+      "description": "Kính trọng sức chịu đựng, thỉnh thoảng thi sức mạnh"
+    },
+    {
+      "source": "dang_phi_ho",
+      "target": "vu_tu_lang",
+      "type": "enemy",
+      "description": "Căm ghét thói ỷ mạnh hiếp yếu, muốn đấm vỡ mũi"
+    },
+    {
+      "source": "chu_tu_huyet",
+      "target": "chu_thanh_phong",
+      "type": "rival",
+      "description": "Đường huynh, ganh đua cực gắt để chứng tỏ bản thân"
+    },
+    {
+      "source": "chu_tu_huyet",
+      "target": "vu_tu_lang",
+      "type": "ally",
+      "description": "Đồng bọn ngầm, hợp tác chuyện mờ ám nhưng ngầm khinh bỉ"
+    },
+    {
+      "source": "chu_tu_huyet",
+      "target": "dang_hai_trieu",
+      "type": "rival",
+      "description": "Rất dè chừng vì từng bị lừa vào bẫy"
+    },
+    {
+      "source": "chu_thanh_phong",
+      "target": "chu_tu_huyet",
+      "type": "rival",
+      "description": "Đường đệ, khinh thường xuất thân và tính tàn bạo"
+    },
+    {
+      "source": "chu_thanh_phong",
+      "target": "chu_bach_hac",
+      "type": "family",
+      "description": "Em gái ruột, thương yêu và chu cấp tài nguyên"
+    },
+    {
+      "source": "chu_thanh_phong",
+      "target": "vu_thien_ha",
+      "type": "rival",
+      "description": "Đối thủ cạnh tranh vị trí thủ lĩnh nhóm ngoại môn mới"
+    },
+    {
+      "source": "chu_bach_hac",
+      "target": "chu_thanh_phong",
+      "type": "family",
+      "description": "Anh trai ruột, sùng bái và coi là tiêu chuẩn"
+    },
+    {
+      "source": "chu_bach_hac",
+      "target": "chu_tu_huyet",
+      "type": "enemy",
+      "description": "Anh họ, kinh tởm và ghê sợ"
+    },
+    {
+      "source": "chu_bach_hac",
+      "target": "vu_thanh_suong",
+      "type": "rival",
+      "description": "Không ưa sự ồn ào trẻ con của đối thủ"
+    },
+    {
+      "source": "ton_tieu_khong",
+      "target": "ton_ngoc_kiem",
+      "type": "family",
+      "description": "Đường đệ, chăm sóc và dẫn dắt các trò nghịch ngợm"
+    },
+    {
+      "source": "ton_tieu_khong",
+      "target": "luc_thanh_van",
+      "type": "rival",
+      "description": "Cạnh tranh xem ai lừa đồ tốt hơn"
+    },
+    {
+      "source": "ton_tieu_khong",
+      "target": "chu_thanh_phong",
+      "type": "enemy",
+      "description": "Rất ghét vẻ đạo mạo, từng chơi khăm trả thù"
+    },
+    {
+      "source": "ton_ngoc_kiem",
+      "target": "ton_tieu_khong",
+      "type": "family",
+      "description": "Đường huynh, tấm khiên thịt và người chịu tội thay hoàn hảo"
+    },
+    {
+      "source": "ton_ngoc_kiem",
+      "target": "luc_thanh_van",
+      "type": "rival",
+      "description": "Đối thủ cạnh tranh, hay hớt tay trên nhiệm vụ"
+    },
+    {
+      "source": "ton_ngoc_kiem",
+      "target": "vu_tu_lang",
+      "type": "enemy",
+      "description": "Từng bị bắt nạt, đã ngầm bỏ thuốc xổ trả thù"
     }
   ],
   "meta": {
