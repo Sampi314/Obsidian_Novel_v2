@@ -61631,6 +61631,54 @@ const relationshipData = {
       "target": "lao_ly_quet_san",
       "type": "ally",
       "description": "Bạn vong niên."
+    },
+    {
+      "source": "nguyen_hoa_vu",
+      "target": "luc_thien_thanh",
+      "type": "ally",
+      "description": "Đồng môn Nội Môn tại Thiên Hoa Phong. Hoa Vũ coi hắn là đối thủ cạnh tranh đáng gờm nhưng cũng thường xuyên hợp tác."
+    },
+    {
+      "source": "nguyen_hoa_vu",
+      "target": "nguyen_thiet_hoa",
+      "type": "ally",
+      "description": "Đại sư huynh cùng gia tộc hiện đang tu luyện tại Kim Hoa Phong. Hoa Vũ thường xuyên xin chỉ giáo."
+    },
+    {
+      "source": "nguyen_thiet_hoa",
+      "target": "nguyen_hoa_vu",
+      "type": "ally",
+      "description": "Đường muội trong dòng họ Nguyễn. Thiết Hoa rất yêu thương và thường chỉ dẫn muội muội này."
+    },
+    {
+      "source": "nguyen_thiet_hoa",
+      "target": "tran_cuu_hoa",
+      "type": "master",
+      "description": "Thái Thượng Trưởng Lão mà Thiết Hoa vô cùng ngưỡng mộ."
+    },
+    {
+      "source": "nguyen_thiet_hoa",
+      "target": "pham_kiem_tam",
+      "type": "ally",
+      "description": "Người đồng môn kiêm đối thủ tập luyện lý tưởng để nâng cao thể chất."
+    },
+    {
+      "source": "nguyen_tieu_ngoc",
+      "target": "ma_ngoc_hoa",
+      "type": "master",
+      "description": "Thái Thượng Trưởng Lão mà Tiểu Ngọc thường đến phụ giúp để nghe chuyện."
+    },
+    {
+      "source": "nguyen_tieu_ngoc",
+      "target": "nguyen_thiet_hoa",
+      "type": "ally",
+      "description": "Đường ca trong gia tộc. Thường bảo vệ nàng trong kỳ khảo hạch."
+    },
+    {
+      "source": "nguyen_tieu_ngoc",
+      "target": "tran_tieu_moc",
+      "type": "ally",
+      "description": "Bạn ngoại môn rất thân, hay rủ nhau đi khám phá."
     }
   ],
   "meta": {
