@@ -1,77 +1,146 @@
 # Agent Schedule — Cố Nguyên Giới
 
 > **Cách dùng:** Agent đọc file này để biết task nào ưu tiên nhất.
-> Mỗi task ghi rõ **plan file** nào cần đọc và **skill file** nào cần dùng.
+> Mỗi task ghi rõ **plan file** và **skill file** cần đọc.
 > Quy trình tổng: xem `PROMPT.md` tại repo root.
-> Nếu không có task → xem `.claude/plans/daily_tasks.md`.
+> Không có task phù hợp → xem `.claude/plans/daily_tasks.md`.
 
 ---
 
-## 📌 NHIỆM VỤ THEO ƯU TIÊN
+## 🔴 ƯU TIÊN CAO
 
-### 🔴 1. Task 10: Populate Faction Rosters
-> **Plan chi tiết:** `.claude/plans/populate_factions.md`
-> **Work queue:** `WORK_QUEUE.md`
-> **Skill:** `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+### Task 10: Populate Faction Rosters
+Tạo character stubs cho tất cả thế lực (leadership → chân truyền → nội/ngoại môn → phàm nhân).
 
-**Phân vùng gợi ý (tránh overlap qua WORK_QUEUE.md):**
+| | File |
+|---|---|
+| **Plan chi tiết** | `.claude/plans/populate_factions.md` |
+| **Skill chính** | `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1) |
+| **Skill phụ** | `.claude/skills/the-luc/SKILL.md` (headcount schema) |
+| **Skill phụ** | `.claude/skills/chung-toc/SKILL.md` (nếu phi Nhân Tộc) |
+| **Coordination** | `WORK_QUEUE.md` |
 
-| Slot | Khu Vực | Thế Lực Hạng Nhất |
-|------|---------|-------------------|
-| A | Đông Hoang | Cửu Hoa, Vân Tông, Thanh Đế Cung, Thái Ất, Huyết Sát Minh, Thần Khí Phường, Dược Vương Cốc, Vô Tranh Tự, Vạn Yêu Thành, Thiên Yêu Đình, Tinh Linh Vương Đình, Vũ Hoàng Các, Ảnh Nguyệt Uyển, Thiên Trụ Hộ Vệ Đoàn |
-| B | Nam Cương | Vạn Độc Môn, Đan Hà Cốc, Huyết Ma Tông |
-| C | Thiên Trụ | Đại Càn Hoàng Triều, Cửu U Ma Tông, Thiên Kiêu Học Viện, Bách Bảo Các, Thiên Mộc Thành, Lôi Trì, Trích Tinh Lâu, Thiên Môn Kính Đài |
-| D | Vô Tận Hải | Hải Thần Cung, Long Cung, Phong Bạo Thương Đội |
-| E | Bắc Băng | Huyền Băng Cung, Cực Quang Thần Điện, Bắc Hải Cự Yêu Hang |
-| F | Tây Mạc | Kim Sa Tự, Thiên Sa Thương Hội |
+### Task 9: Điền Chi Tiết Nhân Vật Có Placeholder
+Điền Section II-V cho nhân vật có `*(Chưa xác định)*`.
 
-**Mỗi phiên:** 1 thế lực, 10-100 chars tùy phase.
-
----
-
-### 🟡 2. Task 9: Điền Chi Tiết Nhân Vật
-> **Skill:** `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 2)
-> **Khi nào:** Song song với Task 10 hoặc sau khi Task 10 Phase 1-2 xong.
-
-```bash
-python3 scripts/find_unfilled_chars.py 3
-```
-Mỗi phiên điền 2-3 nhân vật có `*(Chưa xác định)*`.
+| | File |
+|---|---|
+| **Plan chi tiết** | `.claude/plans/fill_all_characters.md` |
+| **Skill chính** | `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 2) |
+| **Script tìm stub** | `python3 scripts/find_unfilled_chars.py 3` |
 
 ---
 
-### 🟢 3. Viết Chương (SAU Task 9+10 Phase 1-2)
+## 🟡 ƯU TIÊN TRUNG
 
-#### Task 2: Catch-up Lâm Phong
-- Viết chương 133+ cho Góc Nhìn Lâm Phong
-- Skill: `.claude/skills/chuong-truyen/SKILL.md`
+### Task 11: Enrichen Thế Lực Mỏng
+Mở rộng nội dung cho faction files dưới 130 dòng.
 
-#### Task 5: Arc 2 Tuyến Khu Vực
-| Khu Vực | Chương Cần Viết | Arc |
-|---------|----------------|-----|
-| Nam Cương | ch 21-28 | Arc 2 — Bão Lửa Sắp Đến |
-| Bắc Băng | ch 11-16 | Arc 2 — Băng Giải Huyết Hàn |
-| Đông Hoang | ch 11-16 | Arc 2 — Bước Chân Ra Ngoài |
-| Vô Tận Hải | ch 11-16 | Arc 2 — Đại Dương Nổi Sóng |
-| Tây Mạc | ch 11-16 | Arc 2 — Bão Cát Trỗi Dậy |
+| | File |
+|---|---|
+| **Skill** | `.claude/skills/the-luc/SKILL.md` |
+| **Tìm file mỏng** | `find Đạo/Thế_Lực -name "*.md" ! -name "index.md" -exec sh -c 'lines=$(wc -l < "$1"); if [ "$lines" -lt 130 ]; then echo "$lines $1"; fi' _ {} \| sort -n` |
 
-Tham khảo: `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md`
+### Task 12: Enrichen Kỳ Vật, Chủng Tộc, Công Pháp, Trận Pháp
+Mở rộng nội dung cho các file world-building còn ngắn.
 
-#### Task 6: Mở rộng chương 19 nhân vật phụ
+| Nội dung | Skill | Thư mục |
+|----------|-------|---------|
+| Kỳ Vật | `.claude/skills/ky-vat/SKILL.md` | `Đạo/Kỳ_Vật/` |
+| Chủng Tộc | `.claude/skills/chung-toc/SKILL.md` | `Đạo/Chủng_Tộc/` |
+| Công Pháp | `.claude/skills/cong-phap/SKILL.md` | `Đạo/Công_Pháp/` |
+| Trận Pháp | `.claude/skills/tran-phap/SKILL.md` | `Đạo/Trận_Pháp/` |
+| Đan Dược | `.claude/skills/dan-duoc/SKILL.md` | `Đạo/Đan_Dược/` |
+| Luyện Khí | `.claude/skills/luyen-khi/SKILL.md` | `Đạo/Luyện_Khí/` |
+| Tu Luyện | `.claude/skills/tu-luyen/SKILL.md` | `Đạo/Tu_Luyện/` |
+| Phù Lục | `.claude/skills/phu-luc/SKILL.md` | `Đạo/Phù_Lục/` |
+| Văn Hóa | `.claude/skills/van-hoa/SKILL.md` | `Đạo/Văn_Hóa/` |
+| Thế Giới | `.claude/skills/the-gioi/SKILL.md` | `Đạo/Thế_Giới_Và_Thời_Gian/` |
+
+### Task 13: Xây Dựng Quan Hệ Giữa Nhân Vật
+Bổ sung mối quan hệ (Section IV) cho nhân vật đã có nội dung nhưng thiếu relationship.
+
+| | File |
+|---|---|
+| **Skill** | `.claude/skills/quan-he/SKILL.md` |
+| **Script** | `python3 scripts/sync_relationship_data.py` |
+
+---
+
+## 🟢 ƯU TIÊN THẤP (SAU KHI CÁC TASK TRÊN HOÀN THÀNH)
+
+### Task 2: Catch-up Lâm Phong
+Viết chương 133+ cho Góc Nhìn Lâm Phong.
+
+| | File |
+|---|---|
+| **Skill** | `.claude/skills/chuong-truyen/SKILL.md` |
+| **Context** | `Đạo/Chương_Truyện/Góc_Nhìn_Lâm_Phong/` |
+| **Locked** | Kiểm tra `locked_chapters.json` trước khi sửa |
+
+### Task 5: Viết Arc 2 Tuyến Khu Vực
+| Khu Vực | Chương | Arc | Skill |
+|---------|--------|-----|-------|
+| Nam Cương | ch 21-28 | Bão Lửa Sắp Đến | `.claude/skills/chuong-truyen/SKILL.md` |
+| Bắc Băng | ch 11-16 | Băng Giải Huyết Hàn | `.claude/skills/chuong-truyen/SKILL.md` |
+| Đông Hoang | ch 11-16 | Bước Chân Ra Ngoài | `.claude/skills/chuong-truyen/SKILL.md` |
+| Vô Tận Hải | ch 11-16 | Đại Dương Nổi Sóng | `.claude/skills/chuong-truyen/SKILL.md` |
+| Tây Mạc | ch 11-16 | Bão Cát Trỗi Dậy | `.claude/skills/chuong-truyen/SKILL.md` |
+
+**Cốt truyện:** `Đạo/Quy_Hoạch_Cốt_Truyện/QUY_HOẠCH_GÓC_NHÌN_PHỤ.md`
+
+### Task 6: Mở Rộng Chương 19 Nhân Vật Phụ
 Tất cả đã hoàn thành ch 7-10. Chờ Arc 2 trước khi viết tiếp.
 
+| | File |
+|---|---|
+| **Skill** | `.claude/skills/chuong-truyen/SKILL.md` |
+| **Context** | Từng thư mục `Góc_Nhìn_[Tên]/` trong `Đạo/Chương_Truyện/` |
+
+### Task 14: Tạo Âm Nhạc & Thơ Ca
+Sáng tác bài hát, thơ cho các faction và sự kiện.
+
+| | File |
+|---|---|
+| **Skill Nhạc** | `.claude/skills/am-nhac/SKILL.md` |
+| **Skill Thơ** | `.claude/skills/tho-ca/SKILL.md` |
+| **Output** | `Đạo/Âm_Nhạc/`, `Đạo/Thơ_Ca/` |
+
+### Task 15: Tạo Hình Ảnh AI Prompt
+Tạo prompt cho AI image generation (nhân vật, cảnh, vật phẩm).
+
+| | File |
+|---|---|
+| **Skill** | `.claude/skills/hoa-si/SKILL.md` |
+| **Output** | `Đạo/Ảnh/` |
+
+### Task 16: Quản Lý Timeline
+Kiểm tra và cập nhật niên biểu, tránh paradox thời gian.
+
+| | File |
+|---|---|
+| **Skill** | `.claude/skills/thoi-gian/SKILL.md` |
+| **File chính** | `Đạo/Thế_Giới_Và_Thời_Gian/NIÊN_BIỂU_CHÍNH.md` |
+
+### Task 17: Kiểm Duyệt Chất Lượng
+Review logic, consistency, continuity của nội dung đã viết.
+
+| | File |
+|---|---|
+| **Skill** | `.claude/skills/kiem-duyet/SKILL.md` |
+
 ---
 
-## 📌 TIẾN ĐỘ CHƯƠNG TRUYỆN
+## 📊 TIẾN ĐỘ CHƯƠNG TRUYỆN
 
 ### Nam Cương (12 POV)
 | Góc Nhìn | Chương | Ghi Chú |
 |-----------|:------:|---------|
 | Nam Cương | 135 | Arc 6 — Băng Ngục Thành |
-| Diệp Tĩnh Sương | 10 | Arc 1 |
 | Lâm Phong | 132 | Catch-up |
-| Lệ Vô Tâm | 152 | ✅ Bridge Arc xong |
-| A Ngốc | 152 | ✅ Arc 14 xong |
+| Lệ Vô Tâm | 152 | ✅ Bridge Arc |
+| A Ngốc | 152 | ✅ Arc 14 |
+| Diệp Tĩnh Sương | 10 | Arc 1 |
 | Đan Dương Tử | 10 | ✅ ch 7-10 |
 | Diệp Thanh Y | 10 | ✅ ch 6-10 |
 | Hàn Thanh Nguyệt | 10 | ✅ ch 7-10 |
@@ -116,14 +185,3 @@ Tất cả đã hoàn thành ch 7-10. Chờ Arc 2 trước khi viết tiếp.
 | Góc Nhìn | Chương | Ghi Chú |
 |-----------|:------:|---------|
 | Thiên Trụ | — | Chưa bắt đầu |
-
----
-
-## 📌 QUY TẮC CHUNG
-
-- **Ngôn ngữ:** Vietnamese only (không English trong nội dung sáng tạo)
-- **Tên:** Mỗi tên do AI đặt, có ý nghĩa xianxia. KHÔNG dùng chức danh làm tên.
-- **Work Queue:** BẮT BUỘC claim trong `WORK_QUEUE.md` trước khi bắt đầu bất kỳ task nào
-- **Locked Chapters:** Kiểm tra `locked_chapters.json` trước khi sửa chương
-- **Skills:** Tất cả tại `.claude/skills/[tên]/SKILL.md`
-- **Plans:** Tất cả tại `.claude/plans/`
