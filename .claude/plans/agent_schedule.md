@@ -1,7 +1,9 @@
 # Agent Schedule — Cố Nguyên Giới
 
-> Tệp này là **nguồn chân lý duy nhất** cho tất cả agents (Claude, Jules, Gemini, hoặc bất kỳ agent nào).
-> Mọi skills nằm tại `.claude/skills/[tên]/SKILL.md`.
+> **Cách dùng:** Agent đọc file này để biết task nào ưu tiên nhất.
+> Mỗi task ghi rõ **plan file** nào cần đọc và **skill file** nào cần dùng.
+> Quy trình tổng: xem `PROMPT.md` tại repo root.
+> Nếu không có task → xem `.claude/plans/daily_tasks.md`.
 
 ---
 
