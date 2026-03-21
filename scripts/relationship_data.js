@@ -27097,6 +27097,217 @@ const relationshipData = {
       "personality": "Cam Chịu, Hay Càm Ràm, Tốt Bụng",
       "description": "Tóc và râu bạc trắng. Lưng còng như cây tùng già. Da nhăn nheo nhưng đôi mắt sáng và hiền từ."
     }
+,
+    {
+      "id": "bach_van_xuyen",
+      "name": "Bạch Vân Xuyên",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Trầm mặc, Kỷ luật",
+      "description": "Gương mặt tuấn tú nhưng lạnh lùng, tựa như tuyết đọng trên đỉnh núi cao."
+    },
+    {
+      "id": "hong_diem_liet",
+      "name": "Hồng Diễm Liệt",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#f44336",
+      "race": "Nhân Tộc",
+      "personality": "Nóng nảy, Bộc trực",
+      "description": "Mái tóc đỏ rực xõa tung như lửa cháy, ánh mắt sắc như dao."
+    },
+    {
+      "id": "kim_toan_thach",
+      "name": "Kim Toàn Thạch",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ffc107",
+      "race": "Nhân Tộc",
+      "personality": "Trầm tĩnh, Kiên nhẫn",
+      "description": "Thân hình to bè, vuông vức như một tảng đá."
+    },
+    {
+      "id": "ngoc_thuy_tinh",
+      "name": "Ngọc Thủy Tinh",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#03a9f4",
+      "race": "Nhân Tộc",
+      "personality": "Ôn hòa, Dịu dàng",
+      "description": "Dung mạo thanh tú, mỏng manh như sương sớm."
+    },
+    {
+      "id": "tu_vi_tinh",
+      "name": "Tử Vi Tinh",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#9c27b0",
+      "race": "Nhân Tộc",
+      "personality": "Lạnh lùng, Tính toán",
+      "description": "Khuôn mặt hẹp, ánh mắt sâu thẳm luôn phảng phất tia sáng tím bí ẩn."
+    },
+    {
+      "id": "thanh_khong_lenh",
+      "name": "Thanh Không Lệnh",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50",
+      "race": "Nhân Tộc",
+      "personality": "Thông minh, Lanh lợi",
+      "description": "Ngoại hình thư sinh, nho nhã với nụ cười thân thiện."
+    },
+    {
+      "id": "huyen_mac_dao",
+      "name": "Huyền Mặc Đao",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#607d8b",
+      "race": "Nhân Tộc",
+      "personality": "Ít nói, Tàn nhẫn",
+      "description": "Khuôn mặt gầy gò, xương xẩu, bị một vết sẹo dài cắt ngang má trái."
+    },
+    {
+      "id": "nguyet_da_suong",
+      "name": "Nguyệt Dạ Sương",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#e91e63",
+      "race": "Nhân Tộc",
+      "personality": "Thanh cao, Thoát tục",
+      "description": "Vẻ đẹp băng giá, thanh khiết như tiên nữ giáng trần."
+    },
+    {
+      "id": "bach_lan_khe",
+      "name": "Bạch Lan Khê",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Bề ngoài dịu dàng, Nội tâm cứng cỏi",
+      "description": "Khuôn mặt trái xoan, đôi mắt phượng hẹp dài lấp lánh như sương mai."
+    },
+    {
+      "id": "hong_hoa_quyen",
+      "name": "Hồng Hỏa Quyền",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#f44336",
+      "race": "Nhân Tộc",
+      "personality": "Thích đánh đấm, Hào sảng",
+      "description": "Thân hình vạm vỡ, cơ bắp cuồn cuộn như được rèn từ đồng đỏ."
+    },
+    {
+      "id": "kim_ngan_da",
+      "name": "Kim Ngân Dã",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#ffc107",
+      "race": "Nhân Tộc",
+      "personality": "Say mê, Tỉ mỉ",
+      "description": "Dáng người nhỏ nhắn nhưng rắn chắc."
+    },
+    {
+      "id": "ngoc_diep_tam",
+      "name": "Ngọc Diệp Tâm",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#03a9f4",
+      "race": "Nhân Tộc",
+      "personality": "Lương thiện, Yêu thiên nhiên",
+      "description": "Dung mạo ngọt ngào, tươi tắn như đóa hoa đang nở."
+    },
+    {
+      "id": "tu_loi_chan",
+      "name": "Tử Lôi Chấn",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#9c27b0",
+      "race": "Nhân Tộc",
+      "personality": "Hành động nhanh gọn, Không rườm rà",
+      "description": "Khuôn mặt góc cạnh, mái tóc ngắn dựng đứng như bị điện giật."
+    },
+    {
+      "id": "thanh_linh_vu",
+      "name": "Thanh Linh Vũ",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#4caf50",
+      "race": "Nhân Tộc",
+      "personality": "Hoạt ngôn, Lém lỉnh",
+      "description": "Vóc dáng nhỏ nhắn, lanh lợi."
+    },
+    {
+      "id": "huyen_da_tinh",
+      "name": "Huyền Dạ Tinh",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#607d8b",
+      "race": "Nhân Tộc",
+      "personality": "Quyến rũ, Nguy hiểm",
+      "description": "Vẻ đẹp ma mị, sắc sảo."
+    }
   ],
   "relationships": [
     {
@@ -61680,6 +61891,112 @@ const relationshipData = {
       "target": "ha_thanh_tung",
       "type": "enemy",
       "description": "Đồng Môn/Sư Đệ/Kẻ Máu Me"
+    }
+,
+    {
+      "source": "bach_van_xuyen",
+      "target": "le_han_suong",
+      "type": "kinh",
+      "strength": 80,
+      "description": "Tôn kính"
+    },
+    {
+      "source": "hong_diem_liet",
+      "target": "tran_hong_kiem",
+      "type": "kinh",
+      "strength": 80,
+      "description": "Tôn kính"
+    },
+    {
+      "source": "kim_toan_thach",
+      "target": "vuong_kim_toa",
+      "type": "kinh",
+      "strength": 80,
+      "description": "Kính trọng"
+    },
+    {
+      "source": "ngoc_thuy_tinh",
+      "target": "nguyen_tinh_kiem",
+      "type": "kinh",
+      "strength": 80,
+      "description": "Ngưỡng mộ"
+    },
+    {
+      "source": "tu_vi_tinh",
+      "target": "ma_tu_van",
+      "type": "kinh",
+      "strength": 80,
+      "description": "Khâm phục"
+    },
+    {
+      "source": "thanh_khong_lenh",
+      "target": "ly_thanh_phong",
+      "type": "tin",
+      "strength": 80,
+      "description": "Tin tưởng"
+    },
+    {
+      "source": "huyen_mac_dao",
+      "target": "dang_huyen_da",
+      "type": "on",
+      "strength": 80,
+      "description": "Trung thành"
+    },
+    {
+      "source": "nguyet_da_suong",
+      "target": "vu_phi_kiem",
+      "type": "kinh",
+      "strength": 80,
+      "description": "Khâm phục"
+    },
+    {
+      "source": "bach_lan_khe",
+      "target": "le_han_suong",
+      "type": "kinh",
+      "strength": 80,
+      "description": "Ngưỡng mộ"
+    },
+    {
+      "source": "hong_hoa_quyen",
+      "target": "tran_hong_kiem",
+      "type": "kinh",
+      "strength": 80,
+      "description": "Tôn kính"
+    },
+    {
+      "source": "kim_ngan_da",
+      "target": "vuong_tieu_kim",
+      "type": "tin",
+      "strength": 80,
+      "description": "Giao lưu"
+    },
+    {
+      "source": "ngoc_diep_tam",
+      "target": "ly_ngoc_duoc",
+      "type": "yeu",
+      "strength": 80,
+      "description": "Giúp đỡ"
+    },
+    {
+      "source": "tu_loi_chan",
+      "target": "ha_tran_linh",
+      "type": "kinh",
+      "strength": -50,
+      "description": "Cạnh tranh"
+    },
+    {
+      "source": "thanh_linh_vu",
+      "target": "chu_minh_nguyet",
+      "type": "tin",
+      "strength": 80,
+      "description": "Tin tưởng"
+    },
+    {
+      "source": "huyen_da_tinh",
+      "target": "tran_vo_thanh",
+      "type": "kinh",
+      "strength": -50,
+      "description": "Cạnh tranh"
     }
   ],
   "factions": [
