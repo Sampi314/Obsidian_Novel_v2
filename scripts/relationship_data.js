@@ -61577,6 +61577,60 @@ const relationshipData = {
       "target": "luc_thien_thanh",
       "type": "ally",
       "description": "Đệ đệ cùng tộc, đệ tử nội môn tiềm năng."
+    },
+    {
+      "source": "nguyen_kim_tuyen",
+      "target": "nguyen_kiem_nhi",
+      "type": "ally",
+      "description": "Đường muội, cùng gia tộc."
+    },
+    {
+      "source": "nguyen_kim_tuyen",
+      "target": "nguyen_thien_thanh",
+      "type": "ally",
+      "description": "Thúc phụ trong họ."
+    },
+    {
+      "source": "nguyen_kim_tuyen",
+      "target": "ma_ngoc_hoa",
+      "type": "ally",
+      "description": "Thái Thượng, được bà chỉ điểm tu hành."
+    },
+    {
+      "source": "nguyen_kiem_nhi",
+      "target": "nguyen_kim_tuyen",
+      "type": "ally",
+      "description": "Đường tỷ, luôn bao dung và nhắc nhở."
+    },
+    {
+      "source": "nguyen_kiem_nhi",
+      "target": "nguyen_thien_thanh",
+      "type": "ally",
+      "description": "Thúc phụ ngoại môn."
+    },
+    {
+      "source": "nguyen_kiem_nhi",
+      "target": "lao_ly_quet_san",
+      "type": "ally",
+      "description": "Lão bộc, bạn thân thiết."
+    },
+    {
+      "source": "nguyen_thien_thanh",
+      "target": "nguyen_kim_tuyen",
+      "type": "ally",
+      "description": "Chất nữ (cháu gái) Nội Môn."
+    },
+    {
+      "source": "nguyen_thien_thanh",
+      "target": "nguyen_kiem_nhi",
+      "type": "ally",
+      "description": "Chất nữ (cháu gái) Nội Môn."
+    },
+    {
+      "source": "nguyen_thien_thanh",
+      "target": "lao_ly_quet_san",
+      "type": "ally",
+      "description": "Bạn vong niên."
     }
   ],
   "meta": {

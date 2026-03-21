@@ -12,6 +12,10 @@
 - [Đã nén] [Phiên Trước] - Hoàn thiện nhân vật Tuyết Trung Cô Viện (Bắc Băng); [Phiên Trước] - Hoàn thiện nhân vật Cực Quang Thần Điện (Thiên Trụ); [Phiên Trước] - Hoàn thiện nhân vật San Hô Thợ Lặn Đội (Tây Mạc); [Phiên Trước] - Hoàn thiện nhân vật Long Cung (Vô Tận Hải); [Phiên Trước] - Hoàn thiện nhân vật Sa Mãng Tộc (Tây Mạc); [Phiên Trước 1] - Hoàn thiện nhân vật Sóng Vi Ba Liên Lạc (Vô Tận Hải);
 ## 10 BÁO CÁO GẦN NHẤT
 
+### [Hiện Tại] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang) - Phần 8
+- **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Nguyễn Kim Tuyến, Nguyễn Kiếm Nhi, Nguyễn Thiên Thanh thuộc khu vực Đông Hoang.
+- **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
+
 ### [Hiện Tại] - Hoàn thiện nhân vật Cửu Hoa Kiếm Tông (Đông Hoang) - Phần 7
 - **Trạng thái:** Hoàn thành điền chi tiết (Task 9) cho 3 nhân vật Mã Tử Linh, Mã Tử Vân, Mã Vân Sương thuộc khu vực Đông Hoang.
 - **Hành động:** Điền đủ các section II-V, thêm quan hệ vào `scripts/relationship_data.js`, cập nhật `Đạo/HỒ_SƠ_THẾ_GIỚI.md`.
