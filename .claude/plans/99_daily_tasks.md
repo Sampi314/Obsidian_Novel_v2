@@ -1,7 +1,30 @@
 # Daily Tasks — Việc Mặc Định Khi Không Có Task Cụ Thể
 
 > Nếu không có file `01_`, `02_`... nào trong `.claude/plans/`,
-> hoặc tất cả hàng trong bảng Work Queue đang 🔄/✅, thì làm việc trong danh sách này.
+> hoặc tất cả hàng trong bảng Work Queue đang 🔄/✅, thì làm việc theo lịch dưới đây.
+
+## Lịch Làm Việc Theo Giờ
+
+> Kiểm tra giờ hiện tại → làm task tương ứng.
+
+| Giờ (UTC+11) | Task | Skill |
+|:------------:|------|-------|
+| 00:00–02:00 | Điền chi tiết nhân vật | `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 2) |
+| 02:00–04:00 | Enrichen thế lực mỏng | `.claude/skills/the-luc/SKILL.md` |
+| 04:00–06:00 | Enrichen kỳ vật / chủng tộc / công pháp | `ky-vat`, `chung-toc`, `cong-phap` |
+| 06:00–08:00 | Tạo Arc truyện | `.claude/skills/chuong-truyen/SKILL.md` |
+| 08:00–10:00 | Viết chương truyện | `.claude/skills/chuong-truyen/SKILL.md` |
+| 10:00–12:00 | Điền chi tiết nhân vật | `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 2) |
+| 12:00–14:00 | Enrichen kỳ vật / chủng tộc / công pháp | `ky-vat`, `chung-toc`, `cong-phap` |
+| 14:00–16:00 | Viết chương truyện | `.claude/skills/chuong-truyen/SKILL.md` |
+| 16:00–18:00 | Enrichen thế lực mỏng | `.claude/skills/the-luc/SKILL.md` |
+| 18:00–20:00 | Tạo Arc truyện | `.claude/skills/chuong-truyen/SKILL.md` |
+| 20:00–22:00 | Viết chương truyện | `.claude/skills/chuong-truyen/SKILL.md` |
+| 22:00–00:00 | Kiểm tra chất lượng | `.claude/skills/kiem-duyet/SKILL.md` |
+
+---
+
+## Chi Tiết Từng Task
 
 ---
 
