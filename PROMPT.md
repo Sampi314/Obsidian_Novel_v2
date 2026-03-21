@@ -1,115 +1,67 @@
 # Agent Prompt — Cố Nguyên Giới
 
-Bạn là một agent tham gia dự án tiểu thuyết tu tiên Cố Nguyên Giới. Làm theo quy trình dưới đây.
+Bạn đang tham gia dự án tiểu thuyết tu tiên Cố Nguyên Giới.
 
----
+## Quy trình mỗi phiên
 
-## Bước 1: Giải quyết Merge Conflict (nếu có)
-
+### 1. Pull và giải quyết conflict
 ```bash
 git pull origin main
 ```
+Nếu có merge conflict → giải quyết → commit → push trước khi làm bất cứ gì.
 
-Nếu có conflict:
-```bash
-# Xem file conflict
-git status
-# Giải quyết bằng cách giữ cả hai thay đổi (hoặc chọn phiên bản mới nhất)
-# Sau đó:
-git add [file] && git commit -m "resolve merge conflict" && git push origin main
-```
-
----
-
-## Bước 2: Đọc Work Queue
-
+### 2. Đọc Work Queue và Claim
 ```bash
 cat WORK_QUEUE.md
 ```
-
-Kiểm tra:
-- Thế lực / task nào đang được agent khác claim? → **KHÔNG được chọn**
-- Thế lực / task nào đã hoàn thành? → bỏ qua
-- Thế lực / task nào chưa ai claim? → chọn 1 cái
-
----
-
-## Bước 3: Đọc Plan và nhận Task
-
-Đọc `.claude/plans/agent_schedule.md` để biết:
-- Task nào đang ưu tiên cao nhất (🔴 > 🟡 > 🟢)
-- Task đó cần đọc plan chi tiết nào
-- Task đó cần đọc skill nào
-
-**Nếu không có Task cụ thể** → đọc `.claude/plans/daily_tasks.md` để nhận việc mặc định.
-
----
-
-## Bước 4: Claim Task → Push NGAY
-
-Thêm 1 dòng vào `WORK_QUEUE.md` phần `## Đang Làm`:
-
-```markdown
-| [Tên thế lực / task] | [Khu vực] | [Thời gian claim] | claiming |
-```
-
-Rồi push:
+- Tìm **Task Hiện Tại** (🔴)
+- Xem sub-task nào đang ⬜ Pending → chọn 1 cái
+- **Đổi ⬜ thành 🔄 → commit + push NGAY** trước khi làm bất cứ gì:
 ```bash
-git add WORK_QUEUE.md && git commit -m "claim: [tên task]" && git push origin main
+# Sửa WORK_QUEUE.md: ⬜ Pending → 🔄 Đang làm
+git add WORK_QUEUE.md && git commit -m "claim: [tên sub-task]" && git push origin main
 ```
+⚠️ Nếu push fail → pull lại → kiểm tra sub-task đó còn ⬜ không. Nếu đã bị 🔄 → chọn cái khác.
 
-⚠️ **Push TRƯỚC khi bắt đầu làm việc** — để agent khác biết bạn đã claim.
+- Nếu không có Task Hiện Tại → đọc `.claude/plans/daily_tasks.md`
 
----
+### 3. Đọc Plan
+`WORK_QUEUE.md` ghi rõ plan file nào cần đọc. Ví dụ:
+- **Plan:** `.claude/plans/populate_factions.md`
 
-## Bước 5: Đọc Skill và Context
+Đọc plan để hiểu quy trình chi tiết, blueprint, headcount, naming rules.
 
-Plan file sẽ ghi rõ cần đọc skill nào. Ví dụ:
-- Tạo nhân vật → đọc `.claude/skills/nhan-vat/SKILL.md`
-- Thế lực → đọc `.claude/skills/the-luc/SKILL.md`
-- Chủng tộc → đọc `.claude/skills/chung-toc/SKILL.md`
-- Viết chương → đọc `.claude/skills/chuong-truyen/SKILL.md`
+### 4. Đọc Skill
+Plan file và `WORK_QUEUE.md` ghi rõ skill nào cần đọc. Ví dụ:
+- **Skill:** `.claude/skills/nhan-vat/SKILL.md`
 
-Đọc thêm context files mà plan yêu cầu (file thế lực, file chủng tộc, nhân vật đã có...).
+Đọc skill để biết template, format, quy tắc cụ thể.
 
----
+### 5. Đọc Context
+Tùy task, đọc thêm:
+- File thế lực: `Đạo/Thế_Lực/[Region]/[Faction].md`
+- File chủng tộc: `Đạo/Chủng_Tộc/[Race].md`
+- Nhân vật đã có: `Đạo/Nhân_Vật/[Region]/[Faction]/`
+- Cốt truyện: `Đạo/Quy_Hoạch_Cốt_Truyện/`
+- Locked chapters: `locked_chapters.json`
 
-## Bước 6: Làm việc
+### 6. Làm việc
+Thực hiện theo hướng dẫn trong plan + skill.
 
-Thực hiện task theo hướng dẫn trong plan + skill. Mỗi phiên tạo 10-100 files tùy task.
-
----
-
-## Bước 7: Push kết quả
-
+### 7. Push kết quả
 ```bash
-git add [files đã tạo/sửa] && git commit -m "docs: [mô tả ngắn]" && git push origin main
+git add [files] && git commit -m "docs: [mô tả]" && git push origin main
 ```
+Nếu push reject: `git pull --rebase origin main && git push origin main`
 
-Nếu push bị reject:
+### 8. Cập nhật Work Queue
+Trong `WORK_QUEUE.md`, đổi sub-task từ 🔄 sang ✅ Done.
 ```bash
-git pull --rebase origin main && git push origin main
+git add WORK_QUEUE.md && git commit -m "done: [tên sub-task]" && git push origin main
 ```
 
----
-
-## Bước 8: Cập nhật Work Queue → Push
-
-Chuyển task từ `## Đang Làm` sang `## Hoàn Thành` trong `WORK_QUEUE.md`:
-
-```markdown
-| [Tên task] | [Khu vực] | [Số chars/files tạo] | [Ngày] |
-```
-
-```bash
-git add WORK_QUEUE.md && git commit -m "done: [tên task]" && git push origin main
-```
-
----
-
-## Tóm tắt
-
-```
-Pull → Resolve conflicts → Read WORK_QUEUE → Read plan → Claim → Push
-→ Read skill → Do work → Push → Update queue → Push → Done
-```
+## Quy tắc chung
+- Tiếng Việt only trong nội dung sáng tạo
+- Kiểm tra `locked_chapters.json` trước khi sửa chương
+- Không dùng script tạo nội dung
+- Tên nhân vật có ý nghĩa, không dùng chức danh làm tên
