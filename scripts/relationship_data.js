@@ -28329,6 +28329,171 @@ const relationshipData = {
       "role": "member",
       "pov": false,
       "avatar_color": "#4caf50"
+    },
+    {
+      "id": "lam_tung_kiem",
+      "name": "Lâm Tùng Kiếm",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "lam_moc_van",
+      "name": "Lâm Mộc Vân",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "lam_tieu_dinh",
+      "name": "Lâm Tiểu Đình",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "truong_thiet_tru",
+      "name": "Trương Thiết Trụ",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "truong_kim_quyen",
+      "name": "Trương Kim Quyền",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "truong_thanh_cuc",
+      "name": "Trương Thanh Cúc",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "hoang_phi_vu",
+      "name": "Hoàng Phi Vũ",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "hoang_tieu_diep",
+      "name": "Hoàng Tiểu Điệp",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "hoang_hai_ba",
+      "name": "Hoàng Hải Ba",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "pham_tu_phong",
+      "name": "Phạm Tử Phong",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "pham_thanh_tuyen",
+      "name": "Phạm Thanh Tuyền",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "pham_tieu_thuy",
+      "name": "Phạm Tiểu Thúy",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "dinh_kim_ngon",
+      "name": "Đinh Kim Ngôn",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "dinh_ngoc_lan",
+      "name": "Đinh Ngọc Lan",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
+    },
+    {
+      "id": "dinh_hac_thach",
+      "name": "Đinh Hắc Thạch",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "disciple",
+      "pov": false,
+      "avatar_color": "#808080"
     }
   ],
   "relationships": [
@@ -63630,6 +63795,96 @@ const relationshipData = {
       "target": "doan_ngoc_ha",
       "type": "ally",
       "description": "Đồng môn nội môn, sư muội nhỏ tuổi mà nàng chăm sóc như em gái ruột."
+    },
+    {
+      "source": "lam_tung_kiem",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "superior",
+      "description": "Kính sợ Trưởng Lão"
+    },
+    {
+      "source": "lam_moc_van",
+      "target": "lam_tung_kiem",
+      "type": "ally",
+      "description": "Đồng hương"
+    },
+    {
+      "source": "lam_tieu_dinh",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "superior",
+      "description": "Kính mến"
+    },
+    {
+      "source": "truong_thiet_tru",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "superior",
+      "description": "Kính trọng và biết ơn"
+    },
+    {
+      "source": "truong_kim_quyen",
+      "target": "truong_thiet_tru",
+      "type": "rival",
+      "description": "Cạnh tranh và ghen tị"
+    },
+    {
+      "source": "truong_thanh_cuc",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "superior",
+      "description": "Kính trọng và biết ơn"
+    },
+    {
+      "source": "hoang_phi_vu",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "superior",
+      "description": "Cảm kích"
+    },
+    {
+      "source": "hoang_tieu_diep",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "superior",
+      "description": "Kính yêu"
+    },
+    {
+      "source": "hoang_hai_ba",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "superior",
+      "description": "Kính sợ"
+    },
+    {
+      "source": "pham_tu_phong",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "superior",
+      "description": "Kính trọng và e ngại"
+    },
+    {
+      "source": "pham_thanh_tuyen",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "superior",
+      "description": "Kính trọng và biết ơn"
+    },
+    {
+      "source": "pham_tieu_thuy",
+      "target": "lam_tieu_dinh",
+      "type": "ally",
+      "description": "Bạn thân chia sẻ nhiệm vụ"
+    },
+    {
+      "source": "dinh_kim_ngon",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "superior",
+      "description": "E dè"
+    },
+    {
+      "source": "dinh_ngoc_lan",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "superior",
+      "description": "Cảm mến và kính trọng"
+    },
+    {
+      "source": "dinh_hac_thach",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "superior",
+      "description": "Kính sợ Trưởng Lão"
     }
   ],
   "factions": [
