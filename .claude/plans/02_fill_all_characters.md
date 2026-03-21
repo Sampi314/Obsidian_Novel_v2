@@ -1,107 +1,121 @@
-# Plan: Fill All 1,670 Character Details
+# Plan: Điền Chi Tiết Nhân Vật (Section II-V)
 
-## Goal
-Fill sections II-V for all 1,670 characters that still have `*(Chưa xác định)*` placeholder text.
+## Mục Tiêu
+Điền Section II-V cho TẤT CẢ nhân vật có placeholder `*(Chưa xác định)*`.
+Bao gồm cả nhân vật cũ lẫn nhân vật mới tạo từ Task 01_populate.
 
-## Current State (2026-03-16)
-| Region | Unfilled | Total | Factions | Assigned To |
-|--------|:--------:|:-----:|:--------:|:-----------:|
-| Đông Hoang | 624 | 634 | 99 | **Claude** |
-| Nam Cương | 85 | 133 | 12 | **Claude** |
-| Tán Tu | 3 | 6 | 1 | **Claude** |
-| Vô Tận Hải | 318 | 320 | 42 | **Gemini** |
-| Bắc Băng | 274 | 277 | 45 | **Gemini** |
-| Tây Mạc | 269 | 271 | 49 | **Gemini** |
-| Thiên Trụ | 94 | 136 | 14 | **Gemini** |
-| **Total** | **1,667** | **1,777** | **262** | |
-
-## Task Split
-
-### Claude Code — 712 characters (3 regions)
-- **Đông Hoang** (624 unfilled, 99 factions) — largest region
-- **Nam Cương** (85 unfilled, 12 factions)
-- **Tán Tu** (3 unfilled, 1 faction)
-
-### Gemini — 955 characters (4 regions)
-- **Vô Tận Hải** (318 unfilled, 42 factions)
-- **Bắc Băng** (274 unfilled, 45 factions)
-- **Tây Mạc** (269 unfilled, 49 factions)
-- **Thiên Trụ** (94 unfilled, 14 factions)
-
-## IMPORTANT: No-Overlap Rule
-- Claude ONLY touches files in: `Đạo/Nhân_Vật/Đông_Hoang/`, `Đạo/Nhân_Vật/Nam_Cương/`, `Đạo/Nhân_Vật/Tán_Tu/`
-- Gemini ONLY touches files in: `Đạo/Nhân_Vật/Vô_Tận_Hải/`, `Đạo/Nhân_Vật/Bắc_Băng/`, `Đạo/Nhân_Vật/Tây_Mạc/`, `Đạo/Nhân_Vật/Thiên_Trụ/`
-- Both can READ `Đạo/Thế_Lực/*.md` (faction files) for context — these are read-only references
+## Skills Cần Đọc
+> 📖 **Skill chính:** `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 2: Điền Chi Tiết Nhân Vật Hiện Có)
+> 📖 **Skill phụ:** `.claude/skills/the-luc/SKILL.md` (hiểu faction context)
+> 📖 **Skill phụ:** `.claude/skills/chung-toc/SKILL.md` (nếu phi Nhân Tộc)
 
 ---
 
-## How To Fill Characters (Both Claude & Gemini)
+## Cách Tìm Nhân Vật Cần Điền
 
-### Step-by-Step Per Faction
-
-1. **Find unfilled characters**: Look for files containing `*(Chưa xác định)*` in the assigned region folders
-2. **Read faction context**: Read `Đạo/Thế_Lực/[Faction_Name].md` to understand culture, specialty, race, hierarchy
-3. **Read filled examples** (if any): Check if any characters in the same faction folder already have sections II-V filled — match their style
-4. **Fill sections II-V** for each unfilled character:
-
-#### Section II — Ngoại Hình & Tính Cách (2-4 sentences)
-- Physical appearance: build, face, hair, scars, clothing style
-- Personality: temperament, habits, how others perceive them
-- Must reflect the character's race and cultivation rank
-- Example:
+```bash
+python3 scripts/find_unfilled_chars.py 3
 ```
-Thân hình cao lớn, vai rộng, mái tóc bạch kim buộc cao. Đôi mắt màu hổ phách luôn mang vẻ cảnh giác. Tính cách trầm mặc, ít nói, nhưng khi đã mở lời thì từng câu đều có trọng lượng. Đồng môn kính nể vì sự công bằng và kỷ luật nghiêm khắc.
-```
-
-#### Section III — Năng Lực & Chiến Đấu (2-3 sentences)
-- Combat style tied to faction specialty
-- At least 1 signature technique with Vietnamese name + Hán Tự (漢字)
-- Mention strengths AND weaknesses
-- Example:
-```
-Chuyên về kiếm pháp băng hàn, mỗi nhát chém mang theo sát khí đông cứng không khí. Tuyệt chiêu "Băng Thiên Nhất Kiếm" (冰天一劍) có thể đóng băng mọi thứ trong bán kính mười trượng. Điểm yếu: tốc độ thi triển chậm, dễ bị đối thủ nhanh nhẹn khai thác kẽ hở.
-```
-
-#### Section IV — Các Mối Quan Hệ (2-4 bullet points)
-- Format: `- **[Tên Nhân Vật]:** [mô tả quan hệ]`
-- At least 1 relationship within the same faction (use actual character names from the same folder)
-- Cross-faction relationships are optional
-- Example:
-```
-- **Hàn Tiêu:** Sư phụ truyền thụ kiếm pháp, người duy nhất hắn tuyệt đối tin tưởng.
-- **Lang Bạch Sương:** Đồng môn sư muội, thường xuyên bất đồng quan điểm nhưng phối hợp chiến đấu ăn ý.
-- **Băng Tuyết Nhi:** Đệ tử yêu quý nhất, nhìn thấy bóng dáng bản thân thời trẻ.
-```
-
-#### Section V — Tiểu Sử & Hành Trình (3-5 sentences)
-- Origin: where they came from, how they joined the faction
-- A defining event that shaped who they are
-- Current goal or hidden secret
-- Example:
-```
-Sinh ra trong một thôn nhỏ ở rìa Băng Nguyên, từ nhỏ đã chứng kiến gia đình bị yêu thú tấn công. Được Hàn Tiêu cứu mạng và thu nhận làm đồ đệ năm 8 tuổi. Trải qua mười năm khổ luyện, cuối cùng đột phá Kim Đan, trở thành kiếm tu trẻ nhất trong lịch sử môn phái. Hiện tại đang truy tìm tung tích bọn yêu thú năm xưa, nghi ngờ có thế lực tà đạo đứng sau điều khiển.
-```
-
-### Quality Rules (CRITICAL)
-- **Vietnamese only** — absolutely no English in content
-- Each character's personality MUST differ from faction-mates
-- Combat abilities MUST match faction specialty (e.g., poison for Vạn Độc Môn, ice for Băng Lang)
-- **YAML frontmatter and Section I must NOT be changed** — only edit sections II-V
-- Every relationship must reference an actual character name (check the faction folder)
-- Replace `*(Chưa xác định)*` completely — no placeholders should remain
-
-### How to identify unfilled characters
-A character is "unfilled" if their file contains the text `*(Chưa xác định)*` in any of sections II-V.
+Script trả về 2-3 nhân vật cùng phe phái có `*(Chưa xác định)*`.
 
 ---
 
-## Post-Fill Verification
-After both Claude and Gemini finish:
+## Quy Trình Mỗi Phiên (10-20 nhân vật)
+
+### 1. Pull
+```bash
+git pull origin main
+```
+
+### 2. Cập nhật số liệu
 ```bash
 python3 scripts/find_unfilled_chars.py 1
 ```
-When output shows `"remaining": 0` → all done.
+Script chỉ ĐỌC — không ghi đè nội dung AI đã làm. Dùng kết quả để cập nhật bảng PHẦN 2.
 
-## Commit Convention
-- Claude commits: `docs: fill character details for Đông Hoang/Nam Cương/Tán Tu`
-- Gemini commits: `docs: fill character details for Vô Tận Hải/Bắc Băng/Tây Mạc/Thiên Trụ`
+### 3. Tìm nhân vật
+```bash
+python3 scripts/find_unfilled_chars.py 3
+```
+Hoặc chọn thủ công:
+```bash
+grep -rl 'Chưa xác định' Đạo/Nhân_Vật/[Region]/ | head -20
+```
+
+### 4. Đọc context
+- Đọc `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 2)
+- Đọc file thế lực: `Đạo/Thế_Lực/[Region]/[Faction].md`
+- Đọc file chủng tộc: `Đạo/Chủng_Tộc/[Race].md` (nếu phi Nhân Tộc)
+- Đọc nhân vật đã điền trong cùng thư mục để giữ nhất quán
+
+### 5. Điền 4 sections cho mỗi nhân vật
+
+⚠️ **KHÔNG thay đổi YAML frontmatter và Section I**
+
+#### Section II — Ngoại Hình & Tính Cách (2-4 câu)
+- Đặc điểm ngoại hình: thân hình, khuôn mặt, tóc, dấu hiệu đặc biệt, trang phục
+- Tính cách: khí chất, thói quen, cách người khác nhìn nhận
+- Phản ánh chủng tộc và cấp bậc
+- Phàm nhân: mô tả ngoại hình bình thường, đặc điểm nghề nghiệp
+
+#### Section III — Năng Lực & Chiến Đấu (2-3 câu)
+- Tu sĩ: phong cách chiến đấu gắn với chuyên môn phe phái
+- Kỹ thuật đặc trưng — đặt tên Tiếng Việt kèm Hán Tự (VD: *Băng Thiên Nhất Kiếm* (冰天一劍))
+- Điểm mạnh và yếu
+- Phàm nhân: đổi thành **"Kỹ Năng & Đời Sống"** — mô tả tay nghề, kinh nghiệm, điều đặc biệt
+
+#### Section IV — Các Mối Quan Hệ (2-4 gạch đầu dòng)
+- Format: `- **[Tên Nhân Vật]:** [mô tả quan hệ]`
+- Ít nhất 1 quan hệ trong phe phái (sư phụ, đồng môn, cấp dưới, đối thủ)
+- Quan hệ phải dùng tên nhân vật thật (kiểm tra thư mục cùng phe)
+- Phàm nhân: quan hệ với chủ nhân, đồng nghiệp, hoặc tu sĩ quen biết
+
+#### Section V — Tiểu Sử & Hành Trình (3-5 câu)
+- Xuất thân: quê quán, gia đình, hoàn cảnh
+- Cách gia nhập phe phái và lý do
+- Sự kiện quan trọng định hình tính cách
+- Mục tiêu, tham vọng, hoặc bí mật chưa tiết lộ
+- Phàm nhân: câu chuyện đời thường nhưng có chiều sâu
+
+### 6. Push
+```bash
+git add Đạo/Nhân_Vật/[Region]/[Faction]/ && git commit -m "docs: fill character details for [Faction]" && git push origin main
+```
+
+### 7. Cập nhật bảng tiến độ
+Cập nhật cột **Xong** và **Chưa Điền** trong bảng PHẦN 2 → push.
+
+---
+
+## Checklist Mỗi Nhân Vật
+- [ ] Section II có nội dung (không còn placeholder)
+- [ ] Section III có nội dung (không còn placeholder)
+- [ ] Section IV có ít nhất 1 quan hệ có tên thật
+- [ ] Section V có nội dung (không còn placeholder)
+- [ ] Tiếng Việt only
+- [ ] Tính cách KHÁC với nhân vật cùng phe
+- [ ] Năng lực phù hợp chuyên môn phe phái
+- [ ] YAML và Section I KHÔNG bị thay đổi
+
+---
+
+# PHẦN 2: WORK QUEUE
+
+> Cập nhật số liệu: `python3 scripts/find_unfilled_chars.py 1`
+> Script chỉ ĐỌC — không ghi đè nội dung AI đã làm.
+>
+> **Quy trình:** Tìm hàng ⬜ đầu tiên → đổi 🔄 → ghi Đang Làm → push → điền 10-20 chars → push → Xong += Đang Làm → push.
+
+| Khu Vực | Xong | Đang Làm | Chưa Điền | Tổng | Trạng Thái |
+|---------|:----:|:--------:|:---------:|:----:|:----------:|
+| Đông Hoang | 689 | 0 | 49 | 738 | ⬜ |
+| Vô Tận Hải | 306 | 0 | 15 | 321 | ⬜ |
+| Tây Mạc | 262 | 0 | 10 | 272 | ⬜ |
+| Bắc Băng | 270 | 0 | 8 | 278 | ⬜ |
+| Nam Cương | 134 | 0 | 0 | 134 | ✅ |
+| Thiên Trụ | 137 | 0 | 0 | 137 | ✅ |
+| Tán Tu | 7 | 0 | 0 | 7 | ✅ |
+
+> **Lưu ý:** Cột "Chưa Điền" sẽ TĂNG khi Task 01_ tạo thêm stubs mới.
+> Chạy `python3 scripts/find_unfilled_chars.py 1` để lấy số mới nhất.
+> Khi TẤT CẢ khu vực = ✅ và `"remaining": 0` → task hoàn thành → xóa file này.
