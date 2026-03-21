@@ -61679,6 +61679,48 @@ const relationshipData = {
       "target": "tran_tieu_moc",
       "type": "ally",
       "description": "Bạn ngoại môn rất thân, hay rủ nhau đi khám phá."
+    },
+    {
+      "source": "vuong_kim_toa",
+      "target": "vuong_kim_duc",
+      "type": "master",
+      "description": "Chú ruột kiêm Phong Chủ, ngài luôn khắt khe để đào tạo hắn thành người kế vị."
+    },
+    {
+      "source": "vuong_kim_toa",
+      "target": "vuong_tieu_kim",
+      "type": "master",
+      "description": "Phong Chủ, cưng chiều sự sáng tạo của nàng nhưng hay phát điên vì xưởng rèn bị nổ tung."
+    },
+    {
+      "source": "vuong_kim_toa",
+      "target": "ha_tu_phong",
+      "type": "enemy",
+      "description": "Ông luôn cho rằng Tử Phong xúi giục Tiểu Kim lãng phí vật liệu vào các trò bạo phá."
+    },
+    {
+      "source": "vuong_kim_toa",
+      "target": "ly_luc_tran",
+      "type": "ally",
+      "description": "Tông Chủ, người coi trọng ông vì khả năng cung cấp và sửa chữa vũ khí pháp bảo cho tông môn."
+    },
+    {
+      "source": "vuong_kim_duc",
+      "target": "vuong_tieu_kim",
+      "type": "ally",
+      "description": "Sư đệ dọn rác, thường xuyên dọn dẹp đống lộn xộn sau các thí nghiệm của nàng."
+    },
+    {
+      "source": "vuong_kim_duc",
+      "target": "ha_tu_phong",
+      "type": "ally",
+      "description": "Thường xuyên năn nỉ Đức tuồn phế liệu kim loại ra để thử nghiệm trận pháp."
+    },
+    {
+      "source": "vuong_tieu_kim",
+      "target": "ha_tu_phong",
+      "type": "ally",
+      "description": "Cạ cứng đam mê nổ trận pháp, hai người hợp tác lén lút tạo ra các loại băng hỏa bạo phá."
     }
   ],
   "meta": {
