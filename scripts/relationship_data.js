@@ -28494,6 +28494,216 @@ const relationshipData = {
       "role": "disciple",
       "pov": false,
       "avatar_color": "#808080"
+    },
+    {
+      "id": "le_thanh_binh",
+      "name": "Lê Thanh Bình",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Trầm tĩnh, Ôn hòa",
+      "description": "Lê Thanh Bình mang vẻ bình phàm nhưng cực kỳ kiên định, luôn cố gắng và không bao giờ chùn bước trước khó khăn."
+    },
+    {
+      "id": "le_phi_tuyet",
+      "name": "Lê Phi Tuyết",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Ngây thơ, Nhút nhát",
+      "description": "Thiếu nữ 16 tuổi với nước da trắng ngần, đôi mắt trong veo và mang vẻ đẹp thuần khiết."
+    },
+    {
+      "id": "le_tieu_bang",
+      "name": "Lê Tiểu Băng",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Nghịch ngợm, Bướng bỉnh",
+      "description": "Cô bé 14 tuổi luôn nghịch ngợm, bướng bỉnh nhưng lại cất giấu sự chăm chỉ tột cùng."
+    },
+    {
+      "id": "ly_thiet_han",
+      "name": "Lý Thiết Hán",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Hào sảng, Thô kệch",
+      "description": "Thiếu niên cao lớn, lực lưỡng, thiên về thể tu."
+    },
+    {
+      "id": "ly_tieu_vu",
+      "name": "Lý Tiểu Vũ",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Nhút nhát",
+      "description": "Cậu bé 15 tuổi gầy gò, ốm yếu nhưng cực kỳ say sưa với đan đạo."
+    },
+    {
+      "id": "ly_thanh_xuan",
+      "name": "Lý Thanh Xuân",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Trưởng thành, Ân cần",
+      "description": "Thiếu nữ 20 tuổi thanh tú, mang trong mình sinh cơ kiếm tâm đầy từ bi."
+    },
+    {
+      "id": "tran_hoa_chau",
+      "name": "Trần Hỏa Châu",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Nóng nảy, Thẳng thắn",
+      "description": "Thiếu nữ với phong cách rực lửa cả về ngoại hình lẫn kiếm pháp."
+    },
+    {
+      "id": "tran_thanh_thuy",
+      "name": "Trần Thanh Thủy",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Nhu nhược",
+      "description": "Thiếu niên nho nhã mang Thủy linh căn, rất nhu nhược sợ phiền."
+    },
+    {
+      "id": "tran_tu_bang",
+      "name": "Trần Tử Bằng",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Kiêu ngạo, Tự phụ",
+      "description": "Thiên tài Lôi hệ kiêu ngạo, thích mỉa mai kẻ khác."
+    },
+    {
+      "id": "doan_nguyet_tien",
+      "name": "Đoàn Nguyệt Tiên",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Cao ngạo, Trầm mặc",
+      "description": "Thiếu nữ 19 tuổi mang vẻ đẹp lạnh lùng, xa cách với Lãnh Nguyệt Kiếm Pháp."
+    },
+    {
+      "id": "doan_tu_kiem",
+      "name": "Đoàn Tử Kiếm",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Tàn nhẫn, Khát máu",
+      "description": "Thiếu niên điên cuồng ám ảnh với cái chết và Tử Vong Kiếm Quyết."
+    },
+    {
+      "id": "doan_thanh_hung",
+      "name": "Đoàn Thanh Hùng",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Lương thiện, Hiền lành",
+      "description": "Ngự thú sư phúc hậu thích chăm sóc động vật quanh Cửu Hoa Sơn."
+    },
+    {
+      "id": "pham_tieu_nguyet",
+      "name": "Phạm Tiểu Nguyệt",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Nghịch ngợm, Tò mò",
+      "description": "Cô bé 13 tuổi rất hay chạy lăng xăng phá phách."
+    },
+    {
+      "id": "pham_hoa_diem",
+      "name": "Phạm Hỏa Diệm",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Nóng vội",
+      "description": "Thiếu niên tóc đỏ rất hay gây rắc rối nhưng tốt bụng."
+    },
+    {
+      "id": "pham_thanh_son",
+      "name": "Phạm Thanh Sơn",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "follower",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Nghiêm khắc, Cẩn thận",
+      "description": "Trận tu tỉ mỉ, rất ghét sự thiếu quy củ."
     }
   ],
   "relationships": [
@@ -63885,6 +64095,192 @@ const relationshipData = {
       "target": "ngoai_mon_dai_truong_lao",
       "type": "superior",
       "description": "Kính sợ Trưởng Lão"
+    },
+    {
+      "source": "le_thanh_binh",
+      "target": "le_phi_tuyet",
+      "type": "family",
+      "description": "Đường muội thân thiết, luôn chăm sóc và bảo vệ."
+    },
+    {
+      "source": "le_thanh_binh",
+      "target": "lam_phong",
+      "type": "friend",
+      "description": "Bạn cùng khóa ở Ngoại Môn Viện, thường xuyên trao đổi kinh nghiệm."
+    },
+    {
+      "source": "le_thanh_binh",
+      "target": "le_tieu_bang",
+      "type": "family",
+      "description": "Tiểu muội hay gây rắc rối, thường phải đứng ra thu dọn tàn cuộc."
+    },
+    {
+      "source": "le_phi_tuyet",
+      "target": "le_thanh_binh",
+      "type": "family",
+      "description": "Đường huynh, người luôn che chở và động viên."
+    },
+    {
+      "source": "le_phi_tuyet",
+      "target": "le_tieu_bang",
+      "type": "family",
+      "description": "Đường muội nghịch ngợm, thường xuyên tị nạnh với nàng."
+    },
+    {
+      "source": "le_tieu_bang",
+      "target": "le_thanh_binh",
+      "type": "family",
+      "description": "Đường huynh, người mà cô hay bắt nạt nhưng lại rất kính nể."
+    },
+    {
+      "source": "le_tieu_bang",
+      "target": "le_phi_tuyet",
+      "type": "family",
+      "description": "Đường tỷ, đối tượng thường bị cô trêu chọc và ganh tị."
+    },
+    {
+      "source": "ly_thiet_han",
+      "target": "ly_tieu_vu",
+      "type": "family",
+      "description": "Biểu đệ gầy gò, luôn phải bao bọc."
+    },
+    {
+      "source": "ly_thiet_han",
+      "target": "ly_thanh_xuan",
+      "type": "family",
+      "description": "Đường tỷ, thường khuyên bảo nên tu luyện linh khí."
+    },
+    {
+      "source": "ly_tieu_vu",
+      "target": "ly_thiet_han",
+      "type": "family",
+      "description": "Biểu ca to lớn, một bức tường che chở vững chắc."
+    },
+    {
+      "source": "ly_tieu_vu",
+      "target": "ly_thanh_xuan",
+      "type": "family",
+      "description": "Đường tỷ, thường hay chỉ bảo y thuật."
+    },
+    {
+      "source": "ly_thanh_xuan",
+      "target": "ly_thiet_han",
+      "type": "family",
+      "description": "Đường đệ thô kệch, thường phải chỉ bảo tránh gây họa."
+    },
+    {
+      "source": "ly_thanh_xuan",
+      "target": "ly_tieu_vu",
+      "type": "family",
+      "description": "Đường đệ yếu ớt, luôn đem lòng thương cảm."
+    },
+    {
+      "source": "tran_hoa_chau",
+      "target": "tran_thanh_thuy",
+      "type": "family",
+      "description": "Huynh trưởng, tính tình nhu nhược khiến cô luôn bực mình."
+    },
+    {
+      "source": "tran_hoa_chau",
+      "target": "tran_tu_bang",
+      "type": "family",
+      "description": "Đường đệ kiêu ngạo, thường hay so đo thực lực."
+    },
+    {
+      "source": "tran_thanh_thuy",
+      "target": "tran_hoa_chau",
+      "type": "family",
+      "description": "Muội muội nóng nảy, thường khiến cậu lo âu."
+    },
+    {
+      "source": "tran_thanh_thuy",
+      "target": "tran_tu_bang",
+      "type": "family",
+      "description": "Biểu đệ khó chiều, luôn nhìn cậu bằng ánh mắt khinh miệt."
+    },
+    {
+      "source": "tran_tu_bang",
+      "target": "tran_hoa_chau",
+      "type": "family",
+      "description": "Đường tỷ kiêu ngạo, đối thủ không đội trời chung."
+    },
+    {
+      "source": "tran_tu_bang",
+      "target": "tran_thanh_thuy",
+      "type": "family",
+      "description": "Biểu huynh kém cỏi, cảm thấy xấu hổ vì có họ hàng."
+    },
+    {
+      "source": "doan_nguyet_tien",
+      "target": "doan_tu_kiem",
+      "type": "family",
+      "description": "Đường đệ cuồng kiếm, luôn phải kiềm chế tính hiếu chiến của hắn."
+    },
+    {
+      "source": "doan_nguyet_tien",
+      "target": "doan_thanh_hung",
+      "type": "family",
+      "description": "Biểu huynh thật thà, thường nhờ cậu làm các việc lặt vặt."
+    },
+    {
+      "source": "doan_tu_kiem",
+      "target": "doan_nguyet_tien",
+      "type": "family",
+      "description": "Đường tỷ kiêu ngạo, người duy nhất có thể ép hắn cúi đầu."
+    },
+    {
+      "source": "doan_tu_kiem",
+      "target": "doan_thanh_hung",
+      "type": "family",
+      "description": "Biểu huynh nhu nhược, thường hay lôi ra làm bao cát tập kiếm."
+    },
+    {
+      "source": "doan_thanh_hung",
+      "target": "doan_nguyet_tien",
+      "type": "family",
+      "description": "Biểu muội lạnh lùng, luôn tôn sùng nàng như tiên nữ."
+    },
+    {
+      "source": "doan_thanh_hung",
+      "target": "doan_tu_kiem",
+      "type": "family",
+      "description": "Biểu đệ điên rồ, luôn cố gắng chăm sóc nhưng lại bị hắn đánh."
+    },
+    {
+      "source": "pham_tieu_nguyet",
+      "target": "pham_hoa_diem",
+      "type": "family",
+      "description": "Đường huynh, hay trêu đùa nhưng luôn bảo vệ cô."
+    },
+    {
+      "source": "pham_tieu_nguyet",
+      "target": "pham_thanh_son",
+      "type": "family",
+      "description": "Biểu ca nghiêm túc, thường bị cậu mắng vì ham chơi."
+    },
+    {
+      "source": "pham_hoa_diem",
+      "target": "pham_tieu_nguyet",
+      "type": "family",
+      "description": "Đường muội nghịch ngợm, bảo bối nhỏ cần được cưng chiều."
+    },
+    {
+      "source": "pham_hoa_diem",
+      "target": "pham_thanh_son",
+      "type": "family",
+      "description": "Biểu huynh cứng nhắc, thường cãi lộn vì quan điểm sống khác biệt."
+    },
+    {
+      "source": "pham_thanh_son",
+      "target": "pham_tieu_nguyet",
+      "type": "family",
+      "description": "Biểu muội vô tư, phải uốn nắn thành tài."
+    },
+    {
+      "source": "pham_thanh_son",
+      "target": "pham_hoa_diem",
+      "type": "family",
+      "description": "Biểu đệ cứng đầu, ghét tính thiếu nghiêm túc."
     }
   ],
   "factions": [
