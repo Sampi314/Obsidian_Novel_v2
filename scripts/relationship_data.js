@@ -65622,6 +65622,591 @@ const relationshipData = {
       "target": "ngoai_mon_dai_truong_lao",
       "type": "master",
       "description": "Sư tôn, luôn sợ hãi ánh mắt nghiêm khắc của ngài khi kiểm tra công khóa."
+    },
+    {
+      "source": "Lương Tử Đằng",
+      "target": "Mã Tử Vân",
+      "description": "Rất chú ý đến cách phá trận của Phong Chủ Tử Hoa Phong, muốn học hỏi mưu trí của nàng",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 80,
+        "tin": 60,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Lương Tử Đằng",
+      "target": "Lương Bạch Hạc",
+      "description": "Tự hào về đường huynh tĩnh lặng này, thường lấy y làm gương để bản thân phấn đấu",
+      "feelings": {
+        "yeu": 70,
+        "han": 0,
+        "kinh": 60,
+        "tin": 80,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "Lương Tử Đằng",
+      "target": "Tạ Thanh Thủy",
+      "description": "Bạn cùng học trận pháp mộc mạc, thường tranh luận nảy lửa về việc bố trí bẫy rập",
+      "feelings": {
+        "yeu": 40,
+        "han": 20,
+        "kinh": 50,
+        "tin": 60,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Lương Bạch Hạc",
+      "target": "Vũ Phi Kiếm",
+      "description": "Khát khao thiền định tại Nguyệt Hoa Phong, rất sùng bái vị Phong Chủ này",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 100,
+        "tin": 80,
+        "so": 10,
+        "on": 0
+      }
+    },
+    {
+      "source": "Lương Bạch Hạc",
+      "target": "Lâm Tĩnh Tâm",
+      "description": "Từng thấy nàng múa kiếm dưới trăng, đem lòng kính phục",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 80,
+        "tin": 50,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Lương Bạch Hạc",
+      "target": "Kiều Nguyệt Bạch",
+      "description": "Mến mộ tài chữa thương nhẹ nhàng của y đạo tiểu muội",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 30,
+        "tin": 70,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Kiều Thanh Phong",
+      "target": "Lục Kiếm Hoa",
+      "description": "Ngưỡng mộ Thánh Nữ từ xa, xem nàng là mục tiêu phấn đấu",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 80,
+        "tin": 50,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Kiều Thanh Phong",
+      "target": "Kiều Tử Dương",
+      "description": "Huynh đệ cùng làng, cùng nhau gia nhập Cửu Hoa",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 20,
+        "tin": 90,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "Kiều Thanh Phong",
+      "target": "Đặng Ám Ảnh",
+      "description": "Từng thấy y thi hành nhiệm vụ và cảm thấy ớn lạnh",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 40,
+        "tin": 10,
+        "so": 60,
+        "on": 0
+      }
+    },
+    {
+      "source": "Lương Ngọc Thạch",
+      "target": "Vương Kim Tỏa",
+      "description": "Ngưỡng mộ khả năng rèn đúc thần kỳ và thân thể rắn chắc của Phong Chủ Kim Hoa Phong",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 90,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Lương Ngọc Thạch",
+      "target": "Kiều Tử Dương",
+      "description": "Thường xuyên đọ sức tay đôi với tên to con này trong những lúc nghỉ ngơi",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 40,
+        "tin": 90,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Lương Ngọc Thạch",
+      "target": "Lương Bạch Hạc",
+      "description": "Đường huynh đệ nhưng tính cách trái ngược hoàn toàn, hay bị nhắc nhở vì quá ồn ào",
+      "feelings": {
+        "yeu": 50,
+        "han": 10,
+        "kinh": 20,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Kiều Tử Dương",
+      "target": "Kiều Thanh Phong",
+      "description": "Cùng lớn lên ở một làng quê, coi nhau như ruột thịt",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 30,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "Kiều Tử Dương",
+      "target": "Hoàng Tuyết Liên",
+      "description": "Vô tình gặp khi nàng đang luyện kiếm, đem lòng ngưỡng mộ sâu sắc",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 80,
+        "tin": 50,
+        "so": 10,
+        "on": 0
+      }
+    },
+    {
+      "source": "Kiều Tử Dương",
+      "target": "Nguyễn Thiết Hoa",
+      "description": "Từng thấy y rèn kiếm ở Kim Hoa Phong, nể phục sức mạnh cơ bắp",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 70,
+        "tin": 30,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tống Thiên Kiếm",
+      "target": "Lê Hàn Sương",
+      "description": "Vô cùng khao khát được nàng chú ý để trở thành đệ tử Bạch Hoa Phong",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 100,
+        "tin": 80,
+        "so": 40,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tống Thiên Kiếm",
+      "target": "Lục Kiếm Hoa",
+      "description": "Bị áp đảo bởi khí thế của nàng trong một buổi diễn giảng",
+      "feelings": {
+        "yeu": 30,
+        "han": 0,
+        "kinh": 90,
+        "tin": 50,
+        "so": 20,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tống Thiên Kiếm",
+      "target": "Kiều Thanh Phong",
+      "description": "Luôn xem y là đối thủ cạnh tranh gay gắt trong các cuộc sát hạch",
+      "feelings": {
+        "yeu": 0,
+        "han": 30,
+        "kinh": 60,
+        "tin": 40,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tạ Thanh Thủy",
+      "target": "Mã Tử Vân",
+      "description": "Ngưỡng mộ tài nghệ trận pháp của vị Phong Chủ này, mong muốn gia nhập Tử Hoa Phong",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 100,
+        "tin": 80,
+        "so": 20,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tạ Thanh Thủy",
+      "target": "Hà Trận Linh",
+      "description": "Từng nghe y giảng giải về các nguyên lý cấm chế cơ bản",
+      "feelings": {
+        "yeu": 30,
+        "han": 0,
+        "kinh": 80,
+        "tin": 60,
+        "so": 10,
+        "on": 20
+      }
+    },
+    {
+      "source": "Tạ Thanh Thủy",
+      "target": "Tạ Hồng Diệp",
+      "description": "Muội muội ruột rắc rối lúc nào cũng gây phiền phức và phá hoại trận pháp y bày ra",
+      "feelings": {
+        "yeu": 60,
+        "han": 30,
+        "kinh": 10,
+        "tin": 70,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tống Hải Triều",
+      "target": "Trần Hồng Kiếm",
+      "description": "Vô tình quan sát y luyện kiếm, bị thu hút bởi khí thế dồn dập",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 80,
+        "tin": 50,
+        "so": 10,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tống Hải Triều",
+      "target": "Tống Thiên Kiếm",
+      "description": "Huynh đệ đồng môn hay cãi cọ vì triết lý kiếm đạo trái ngược",
+      "feelings": {
+        "yeu": 40,
+        "han": 20,
+        "kinh": 60,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tống Hải Triều",
+      "target": "Tống Tiểu Vân",
+      "description": "Rất khó chịu vì nàng lúc ẩn lúc hiện, không dám tung kiếm thoải mái",
+      "feelings": {
+        "yeu": 0,
+        "han": 50,
+        "kinh": 10,
+        "tin": 20,
+        "so": 40,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tạ Hồng Diệp",
+      "target": "Trần Hồng Kiếm",
+      "description": "Ngưỡng mộ phong cách tấn công như lửa cháy của vị Phong Chủ này",
+      "feelings": {
+        "yeu": 30,
+        "han": 0,
+        "kinh": 90,
+        "tin": 60,
+        "so": 10,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tạ Hồng Diệp",
+      "target": "Phạm Liệt Hỏa",
+      "description": "Thường xuyên quan sát hắn luyện kiếm, khao khát được thi đấu cùng",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 50,
+        "tin": 40,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tạ Hồng Diệp",
+      "target": "Kiều Nguyệt Bạch",
+      "description": "Từng được nàng băng bó vết bỏng sau khi nghịch lửa quá đà",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 20,
+        "tin": 80,
+        "so": 0,
+        "on": 60
+      }
+    },
+    {
+      "source": "Tạ Phi Vũ",
+      "target": "Lý Thanh Phong",
+      "description": "Ngưỡng mộ sự tự tại và khả năng thu thập thông tin của vị Phong Chủ Thanh Hoa Phong",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 90,
+        "tin": 70,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tạ Phi Vũ",
+      "target": "Tạ Thanh Thủy",
+      "description": "Thường lân la trò chuyện, mua chuộc trận bàn nhỏ để tiện tẩu thoát",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 30,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "Tạ Phi Vũ",
+      "target": "Chu Minh Nguyệt",
+      "description": "Trộm nhìn sư tỷ này khi nàng thi hành nhiệm vụ ngoại giao",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 80,
+        "tin": 60,
+        "so": 10,
+        "on": 0
+      }
+    },
+    {
+      "source": "Kiều Nguyệt Bạch",
+      "target": "Kiều Thanh Phong",
+      "description": "Huynh trưởng xa cách từ nhỏ, rất quan tâm bảo vệ nàng",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 20,
+        "tin": 90,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "Kiều Nguyệt Bạch",
+      "target": "Kiều Tử Dương",
+      "description": "Người từng xông pha cứu nàng lúc yêu thú tấn công làng",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 40,
+        "tin": 90,
+        "so": 0,
+        "on": 80
+      }
+    },
+    {
+      "source": "Kiều Nguyệt Bạch",
+      "target": "Lý Ngọc Dược",
+      "description": "Sư tỷ ở Ngọc Hoa Phong, thần tượng về đan dược",
+      "feelings": {
+        "yeu": 30,
+        "han": 0,
+        "kinh": 90,
+        "tin": 60,
+        "so": 10,
+        "on": 0
+      }
+    },
+    {
+      "source": "Dư Thiết Hán",
+      "target": "Vương Kim Tỏa",
+      "description": "Cực kỳ sùng bái sức mạnh và cơ bắp của Phong Chủ Kim Hoa Phong, mơ ước được tự tay rèn một thanh kiếm bự",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 90,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Dư Thiết Hán",
+      "target": "Kiều Tử Dương",
+      "description": "Đối thủ nặng ký thường rủ đi bốc vác đá tảng thi thố để rèn cơ bắp",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 50,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Dư Thiết Hán",
+      "target": "Lương Ngọc Thạch",
+      "description": "Huynh đệ thể tu chia sẻ các bài tập đập đầu vào tường để tăng độ cứng cáp",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 30,
+        "tin": 90,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Dư Tiểu Băng",
+      "target": "Lê Hàn Sương",
+      "description": "Cực kỳ sùng bái tính cách băng giá và kiếm pháp vô tình của Phong Chủ Bạch Hoa Phong",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 90,
+        "tin": 80,
+        "so": 30,
+        "on": 0
+      }
+    },
+    {
+      "source": "Dư Tiểu Băng",
+      "target": "Hoàng Tuyết Liên",
+      "description": "Thường lén đứng nhìn sư tỷ này luyện kiếm trong tuyết, ước mong trở nên thanh khiết như nàng",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 80,
+        "tin": 50,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Dư Tiểu Băng",
+      "target": "Tạ Hồng Diệp",
+      "description": "Căm ghét cái tính ồn ào và hệ Hỏa nóng bức của đối phương, thường xuyên đấu khẩu",
+      "feelings": {
+        "yeu": 0,
+        "han": 40,
+        "kinh": 10,
+        "tin": 20,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tống Tiểu Vân",
+      "target": "Đặng Huyền Dạ",
+      "description": "Cực kỳ sùng bái tài nghệ ám sát và muốn gia nhập Huyền Hoa Phong",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 90,
+        "tin": 50,
+        "so": 30,
+        "on": 0
+      }
+    },
+    {
+      "source": "Tống Tiểu Vân",
+      "target": "Trần Vô Thanh",
+      "description": "Gặp mặt ngẫu nhiên, được chỉ bảo vài chiêu ẩn nấp",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 60,
+        "tin": 80,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "Tống Tiểu Vân",
+      "target": "Kiều Tử Dương",
+      "description": "Ghét sự ồn ào và cơ bắp thô lỗ, thường trêu chọc hắn",
+      "feelings": {
+        "yeu": 0,
+        "han": 40,
+        "kinh": 0,
+        "tin": 10,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Dư Thanh Sơn",
+      "target": "Nguyễn Tĩnh Kiếm",
+      "description": "Rất chú tâm nghe lỏm mỗi khi vị Phong Chủ này giảng về dược lý ở Ngoại Môn",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 90,
+        "tin": 80,
+        "so": 10,
+        "on": 0
+      }
+    },
+    {
+      "source": "Dư Thanh Sơn",
+      "target": "Lý Ngọc Dược",
+      "description": "Thường xuyên xin đan dược phế liệu của sư tỷ này về để tự nghiên cứu",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 70,
+        "tin": 60,
+        "so": 0,
+        "on": 30
+      }
+    },
+    {
+      "source": "Dư Thanh Sơn",
+      "target": "Kiều Nguyệt Bạch",
+      "description": "Hai người bạn y tu thường xuyên trao đổi kinh nghiệm hái linh dược sau núi",
+      "feelings": {
+        "yeu": 70,
+        "han": 0,
+        "kinh": 50,
+        "tin": 90,
+        "so": 0,
+        "on": 0
+      }
     }
   ],
   "factions": [
@@ -66595,3 +67180,5 @@ const relationshipData = {
     }
   }
 };
+
+export default relationshipData;
