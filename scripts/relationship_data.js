@@ -66207,6 +66207,331 @@ const relationshipData = {
         "so": 0,
         "on": 0
       }
+    },
+    {
+      "source": "Trần Thanh Thạch",
+      "target": "Chu Thanh Phong",
+      "description": "Cùng là Ngoại Môn Đệ Tử, Trần Thanh Thạch không ưa thái độ cao ngạo của Chu Thanh Phong và thường tránh mặt.",
+      "feelings": {
+        "yeu": 0,
+        "han": 10,
+        "kinh": -20,
+        "tin": 0,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Lê Thanh Đức",
+      "target": "Lý Ngọc Dược",
+      "description": "Sư tỷ trên Nội Môn, Đức rất ngưỡng mộ tài năng y thuật của nàng và mơ ước một ngày được theo học.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 80,
+        "tin": 70,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "Nguyễn Tử Kiến",
+      "target": "Hà Trận Linh",
+      "description": "Sư tỷ ở Tử Hoa Phong mà Kiên luôn mong ước được thỉnh giáo về trận pháp.",
+      "feelings": {
+        "yeu": 15,
+        "han": 0,
+        "kinh": 80,
+        "tin": 60,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "Vũ Đại Hải",
+      "target": "Trần Thanh Thạch",
+      "description": "Kỳ phùng địch thủ ở Ngoại Môn Viện, Hải thường xuyên thách đấu Thạch để xem ai mạnh hơn.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 60,
+        "tin": 40,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Phạm Tiểu Vân",
+      "target": "Lê Thanh Đức",
+      "description": "Người sư huynh tốt bụng luôn che chở Tiểu Vân khỏi đám đệ tử ức hiếp.",
+      "feelings": {
+        "yeu": 30,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 70
+      }
+    },
+    {
+      "source": "Lâm Hồng Nhạn",
+      "target": "Nguyễn Tử Kiến",
+      "description": "Thấy Kiến yếu đuối nhưng thú vị với những món đồ vẽ bùa, thường bảo kê cậu khỏi những kẻ ức hiếp.",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 60,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Đặng Nguyệt Cầm",
+      "target": "Phạm Tiểu Vân",
+      "description": "Thường xuyên trao đổi hoa thơm của Tiểu Vân lấy những bản nhạc xoa dịu tâm hồn, thấy nàng thật mỏng manh đáng yêu.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 60,
+        "tin": 70,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "Hoàng Tử Kỳ",
+      "target": "Chu Thanh Phong",
+      "description": "Ghét sự phô trương của Phong và hay thách đấu hắn nhưng thường bị hắn dùng lời lẽ lảng tránh.",
+      "feelings": {
+        "yeu": 0,
+        "han": 30,
+        "kinh": -50,
+        "tin": 10,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Chu Thanh Tuyền",
+      "target": "Chu Thanh Phong",
+      "description": "Đường huynh trong gia tộc, Tuyền thường đứng sau lưng Phong hỗ trợ bề ngoài, nhưng thâm tâm lại có phần ghen tị.",
+      "feelings": {
+        "yeu": 0,
+        "han": 20,
+        "kinh": 30,
+        "tin": 50,
+        "so": 10,
+        "on": 40
+      }
+    },
+    {
+      "source": "Mã Đại Ngưu",
+      "target": "Vũ Đại Hải",
+      "description": "Cùng là hệ sức mạnh, Ngưu và Hải hay đọ cơ bắp và đập lộn phân cao thấp nhưng sau đó lại rủ nhau đi ăn nhậu.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 40,
+        "tin": 60,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Lục Bạch Thu",
+      "target": "Lê Thanh Đức",
+      "description": "Rất khâm phục y thuật của Đức, Thu thường hay chia sẻ những viên đan dược do nàng lén bào chế cho cậu.",
+      "feelings": {
+        "yeu": 15,
+        "han": 0,
+        "kinh": 70,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "Tống Kiếm Khách",
+      "target": "Lâm Hồng Nhạn",
+      "description": "Rất phục tính cách trượng nghĩa của Nhạn, hai người hay rủ nhau đi săn yêu thú hoặc trừ gian diệt ác dưới chân núi.",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "Kiều Thanh Bình",
+      "target": "Chu Thanh Phong",
+      "description": "Bình cực kỳ ghét việc Phong lách luật và dùng tiền của gia tộc hối lộ, luôn tìm cách bắt thóp hắn.",
+      "feelings": {
+        "yeu": 0,
+        "han": 50,
+        "kinh": 0,
+        "tin": 20,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Hà Minh Châu",
+      "target": "Chu Thanh Tuyền",
+      "description": "Cùng hội cùng thuyền trong việc mua bán vật phẩm sau lưng các trưởng lão Ngoại Môn, nhưng luôn đề phòng đối phương ăn gian.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 30,
+        "tin": 50,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "Đinh Bạch Hổ",
+      "target": "Phạm Tiểu Vân",
+      "description": "Hổ thường nhờ Tiểu Vân trồng linh thảo đặc biệt để nuôi dưỡng con linh miêu trắng của hắn.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 50,
+        "tin": 60,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "Ngô Tiểu Đao",
+      "target": "Hoàng Tử Kỳ",
+      "description": "Cùng là người chú trọng vào tốc độ và sát thương chí mạng, hai kẻ thường ganh đua săn đầu thú cấp thấp.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 50,
+        "tin": 60,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "Lương Huyền Điểu",
+      "target": "Hà Minh Châu",
+      "description": "Cung cấp thông tin thị trường chợ đen và mật báo cho Châu để ăn chia linh thạch.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 20,
+        "tin": 60,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "Lão Hắc Cẩu",
+      "target": "Hà Minh Châu",
+      "description": "Cung cấp ve chai linh khí và rác thảo dược cho Châu để đổi lấy ít rượu gạo.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 30,
+        "tin": 50,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "Lương Ngọc Chi",
+      "target": "Lục Bạch Thu",
+      "description": "Thường trao đổi thảo dược và đan phương với Thu, hai người cùng chung chí hướng vào Ngọc Hoa Phong.",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 60,
+        "tin": 80,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "Tạ Đại Sơn",
+      "target": "Mã Đại Ngưu",
+      "description": "Cùng hội cùng thuyền với Ngưu trong việc khuân vác, đập phá quặng mỏ và đọ sức chịu đựng.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 30,
+        "tin": 60,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "Lương Thanh Tâm",
+      "target": "Lương Ngọc Chi",
+      "description": "Đường tỷ, thường trao đổi thảo dược và đan phương để cùng hướng vào Ngọc Hoa Phong.",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 50,
+        "tin": 90,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "Lý Tiểu Tinh",
+      "target": "Nguyễn Tử Kiến",
+      "description": "Thường xuyên đàm luận và ganh đua về các trận bàn nhỏ, chia sẻ cách trốn việc ở Ngoại Môn Viện.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 40,
+        "tin": 80,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "Phan Nhược Thủy",
+      "target": "Đặng Nguyệt Cầm",
+      "description": "Thường thưởng thức tiếng đàn của Cầm và chia sẻ các thảo dược dưỡng nhan từ Thủy linh lực.",
+      "feelings": {
+        "yeu": 15,
+        "han": 0,
+        "kinh": 50,
+        "tin": 80,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "Dư Mộc Hỏa",
+      "target": "Phạm Tiểu Vân",
+      "description": "Giúp Tiểu Vân chăm bón linh thảo bằng xẻng Mộc Hỏa của mình, thường bị coi như kẻ làm vườn tốt bụng.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 40,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "Trần Phi Vũ",
+      "target": "Chu Thanh Phong",
+      "description": "Rất khâm phục phong thái tiêu sái của Phong, Vũ thường xuyên vây quanh lấy lòng và học hỏi cách ăn mặc của hắn.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 80,
+        "tin": 70,
+        "so": 0,
+        "on": 0
+      }
     }
   ],
   "factions": [
