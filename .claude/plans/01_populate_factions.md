@@ -421,89 +421,89 @@ Thành Chủ
 > **Mỗi phiên:** Agent tạo **10-20 tên** cho 1 thế lực.
 > **Quy trình:** Tìm hàng 🔄 hoặc ⬜ đầu tiên → đổi ⬜ thành 🔄 → push → tạo 10-20 tên → cập nhật Xong/Cần → push → nếu Xong = Cần thì đổi thành ✅.
 
-| Thế Lực | Phase | Xong | Cần | Trạng Thái |
-|---------|-------|:----:|:---:|:----------:|
-| Cửu Hoa Kiếm Tông | 1. Leadership | 35 | 35 | ✅ |
-| Cửu Hoa Kiếm Tông | 2. Chân Truyền | 18 | 40 | ⬜ |
-| Cửu Hoa Kiếm Tông | 3. Nội Môn | 27 | 100 | ⬜ |
-| Cửu Hoa Kiếm Tông | 4. Ngoại Môn | 15 | 200 | ⬜ |
-| Cửu Hoa Kiếm Tông | 5. Phàm Nhân | 10 | 10000 | ⬜ |
-| Thần Khí Phường | 1. Leadership | 0 | 20 | ⬜ |
-| Thần Khí Phường | 2. Chân Truyền | 0 | 30 | ⬜ |
-| Thần Khí Phường | 3. Nội Môn | 0 | 100 | ⬜ |
-| Thần Khí Phường | 4. Ngoại Môn | 0 | 200 | ⬜ |
-| Thần Khí Phường | 5. Phàm Nhân | 0 | 6000 | ⬜ |
-| Dược Vương Cốc | 1. Leadership | 3 | 20 | ⬜ |
-| Dược Vương Cốc | 2. Chân Truyền | 0 | 30 | ⬜ |
-| Dược Vương Cốc | 3. Nội Môn | 0 | 100 | ⬜ |
-| Dược Vương Cốc | 4. Ngoại Môn | 0 | 200 | ⬜ |
-| Dược Vương Cốc | 5. Phàm Nhân | 0 | 8000 | ⬜ |
-| Huyền Băng Cung | 1. Leadership | 0 | 20 | ⬜ |
-| Huyền Băng Cung | 2. Chân Truyền | 0 | 30 | ⬜ |
-| Huyền Băng Cung | 3. Nội Môn | 0 | 100 | ⬜ |
-| Huyền Băng Cung | 4. Ngoại Môn | 0 | 200 | ⬜ |
-| Huyền Băng Cung | 5. Phàm Nhân | 0 | 10000 | ⬜ |
-| Vân Tông | 1. Leadership | 12 | 20 | ⬜ |
-| Vân Tông | 2. Chân Truyền | 0 | 30 | ⬜ |
-| Vân Tông | 3. Nội Môn | 0 | 100 | ⬜ |
-| Vân Tông | 4. Ngoại Môn | 0 | 200 | ⬜ |
-| Vân Tông | 5. Phàm Nhân | 0 | 10000 | ⬜ |
-| Thanh Đế Cung | 1. Leadership | 10 | 20 | ⬜ |
-| Thanh Đế Cung | 2-5 | 0 | ~7300 | ⬜ |
-| Thái Ất Môn | 1. Leadership | 10 | 20 | ⬜ |
-| Thái Ất Môn | 2-5 | 0 | ~10300 | ⬜ |
-| Vô Tranh Tự | 1. Leadership | 10 | 20 | ⬜ |
-| Vô Tranh Tự | 2-5 | 0 | ~9400 | ⬜ |
-| Vũ Hoàng Các | 1. Leadership | 8 | 20 | ⬜ |
-| Vũ Hoàng Các | 2-5 | 0 | ~7400 | ⬜ |
-| Huyết Sát Minh | 1. Leadership | 10 | 20 | ⬜ |
-| Huyết Sát Minh | 2-5 | 0 | ~6100 | ⬜ |
-| Huyết Ma Tông | 1. Leadership | 10 | 20 | ⬜ |
-| Huyết Ma Tông | 2-5 | 0 | ~5100 | ⬜ |
-| Vạn Độc Môn | 1. Leadership | 25 | 25 | ⬜ |
-| Vạn Độc Môn | 2-5 | 0 | ~10100 | ⬜ |
-| Đan Hà Cốc | 1. Leadership | 20 | 20 | ⬜ |
-| Đan Hà Cốc | 2-5 | 0 | ~5200 | ⬜ |
-| Kim Sa Tự | 1. Leadership | 10 | 20 | ⬜ |
-| Kim Sa Tự | 2-5 | 0 | ~4400 | ⬜ |
-| Thiên Sa Thương Hội | 1. Leadership | 11 | 20 | ⬜ |
-| Thiên Sa Thương Hội | 2-5 | 0 | ~19400 | ⬜ |
-| Hải Thần Cung | 1. Leadership | 30 | 30 | ⬜ |
-| Hải Thần Cung | 2-5 | 0 | ~10000 | ⬜ |
-| Phong Bạo Thương Đội | 1. Leadership | 9 | 20 | ⬜ |
-| Phong Bạo Thương Đội | 2-5 | 0 | ~2400 | ⬜ |
-| Long Cung | 1. Leadership | 17 | 20 | ⬜ |
-| Long Cung | 2-5 | 0 | ~600 | ⬜ |
-| Đại Càn Hoàng Triều | 1. Leadership | 16 | 20 | ⬜ |
-| Đại Càn Hoàng Triều | 2-5 | 0 | ~50000 | ⬜ |
-| Cửu U Ma Tông | 1. Leadership | 14 | 20 | ⬜ |
-| Cửu U Ma Tông | 2-5 | 0 | ~9400 | ⬜ |
-| Thiên Kiêu Học Viện | 1. Leadership | 11 | 20 | ⬜ |
-| Thiên Kiêu Học Viện | 2-5 | 0 | ~4400 | ⬜ |
-| Bách Bảo Các | 1. Leadership | 7 | 20 | ⬜ |
-| Bách Bảo Các | 2-5 | 0 | ~14400 | ⬜ |
-| Thiên Mộc Thành | 1. Leadership | 8 | 20 | ⬜ |
-| Thiên Mộc Thành | 2-5 | 0 | ~100000 | ⬜ |
-| Lôi Trì Thánh Địa | 1. Leadership | 8 | 15 | ⬜ |
-| Lôi Trì Thánh Địa | 2-5 | 0 | ~350 | ⬜ |
-| Thiên Môn Kính Đài | 1. Leadership | 6 | 15 | ⬜ |
-| Thiên Môn Kính Đài | 2-5 | 0 | ~2400 | ⬜ |
-| Trích Tinh Lâu | 1. Leadership | 5 | 10 | ⬜ |
-| Trích Tinh Lâu | 2-5 | 0 | ~70 | ⬜ |
-| Bắc Hải Cự Yêu Hang | 1. Leadership | 8 | 15 | ⬜ |
-| Bắc Hải Cự Yêu Hang | 2-5 | 0 | ~400 | ⬜ |
-| Cực Quang Thần Điện | 1. Leadership | 29 | 30 | ⬜ |
-| Cực Quang Thần Điện | 2-5 | 0 | ~9400 | ⬜ |
-| Thiên Yêu Đình | 1. Leadership | 33 | 35 | ⬜ |
-| Thiên Yêu Đình | 2-5 | 0 | ~11400 | ⬜ |
-| Tinh Linh Vương Đình | 1. Leadership | 23 | 30 | ⬜ |
-| Tinh Linh Vương Đình | 2-5 | 0 | ~11400 | ⬜ |
-| Vạn Yêu Thành | 1. Leadership | 20 | 25 | ⬜ |
-| Vạn Yêu Thành | 2-5 | 0 | ~11400 | ⬜ |
-| Thiên Trụ Hộ Vệ Đoàn | 1. Leadership | 10 | 20 | ⬜ |
-| Thiên Trụ Hộ Vệ Đoàn | 2-5 | 0 | ~49400 | ⬜ |
-| Ảnh Nguyệt Uyển | 1. Leadership | 10 | 20 | ⬜ |
-| Ảnh Nguyệt Uyển | 2-5 | 0 | ~50000 | ⬜ |
+| Thế Lực | Phase | Xong | Đang Làm | Cần | Trạng Thái |
+|---------|-------|:----:|:--------:|:---:|:----------:|
+| Cửu Hoa Kiếm Tông | 1. Leadership | 35 | 0 | 35 | ✅ |
+| Cửu Hoa Kiếm Tông | 2. Chân Truyền | 18 | 0 | 40 | ⬜ |
+| Cửu Hoa Kiếm Tông | 3. Nội Môn | 27 | 0 | 100 | ⬜ |
+| Cửu Hoa Kiếm Tông | 4. Ngoại Môn | 15 | 0 | 200 | ⬜ |
+| Cửu Hoa Kiếm Tông | 5. Phàm Nhân | 10 | 0 | 10000 | ⬜ |
+| Thần Khí Phường | 1. Leadership | 0 | 0 | 20 | ⬜ |
+| Thần Khí Phường | 2. Chân Truyền | 0 | 0 | 30 | ⬜ |
+| Thần Khí Phường | 3. Nội Môn | 0 | 0 | 100 | ⬜ |
+| Thần Khí Phường | 4. Ngoại Môn | 0 | 0 | 200 | ⬜ |
+| Thần Khí Phường | 5. Phàm Nhân | 0 | 0 | 6000 | ⬜ |
+| Dược Vương Cốc | 1. Leadership | 3 | 0 | 20 | ⬜ |
+| Dược Vương Cốc | 2. Chân Truyền | 0 | 0 | 30 | ⬜ |
+| Dược Vương Cốc | 3. Nội Môn | 0 | 0 | 100 | ⬜ |
+| Dược Vương Cốc | 4. Ngoại Môn | 0 | 0 | 200 | ⬜ |
+| Dược Vương Cốc | 5. Phàm Nhân | 0 | 0 | 8000 | ⬜ |
+| Huyền Băng Cung | 1. Leadership | 0 | 0 | 20 | ⬜ |
+| Huyền Băng Cung | 2. Chân Truyền | 0 | 0 | 30 | ⬜ |
+| Huyền Băng Cung | 3. Nội Môn | 0 | 0 | 100 | ⬜ |
+| Huyền Băng Cung | 4. Ngoại Môn | 0 | 0 | 200 | ⬜ |
+| Huyền Băng Cung | 5. Phàm Nhân | 0 | 0 | 10000 | ⬜ |
+| Vân Tông | 1. Leadership | 12 | 0 | 20 | ⬜ |
+| Vân Tông | 2. Chân Truyền | 0 | 0 | 30 | ⬜ |
+| Vân Tông | 3. Nội Môn | 0 | 0 | 100 | ⬜ |
+| Vân Tông | 4. Ngoại Môn | 0 | 0 | 200 | ⬜ |
+| Vân Tông | 5. Phàm Nhân | 0 | 0 | 10000 | ⬜ |
+| Thanh Đế Cung | 1. Leadership | 10 | 0 | 20 | ⬜ |
+| Thanh Đế Cung | 2-5 | 0 | 0 | ~7300 | ⬜ |
+| Thái Ất Môn | 1. Leadership | 10 | 0 | 20 | ⬜ |
+| Thái Ất Môn | 2-5 | 0 | 0 | ~10300 | ⬜ |
+| Vô Tranh Tự | 1. Leadership | 10 | 0 | 20 | ⬜ |
+| Vô Tranh Tự | 2-5 | 0 | 0 | ~9400 | ⬜ |
+| Vũ Hoàng Các | 1. Leadership | 8 | 0 | 20 | ⬜ |
+| Vũ Hoàng Các | 2-5 | 0 | 0 | ~7400 | ⬜ |
+| Huyết Sát Minh | 1. Leadership | 10 | 0 | 20 | ⬜ |
+| Huyết Sát Minh | 2-5 | 0 | 0 | ~6100 | ⬜ |
+| Huyết Ma Tông | 1. Leadership | 10 | 0 | 20 | ⬜ |
+| Huyết Ma Tông | 2-5 | 0 | 0 | ~5100 | ⬜ |
+| Vạn Độc Môn | 1. Leadership | 25 | 0 | 25 | ⬜ |
+| Vạn Độc Môn | 2-5 | 0 | 0 | ~10100 | ⬜ |
+| Đan Hà Cốc | 1. Leadership | 20 | 0 | 20 | ⬜ |
+| Đan Hà Cốc | 2-5 | 0 | 0 | ~5200 | ⬜ |
+| Kim Sa Tự | 1. Leadership | 10 | 0 | 20 | ⬜ |
+| Kim Sa Tự | 2-5 | 0 | 0 | ~4400 | ⬜ |
+| Thiên Sa Thương Hội | 1. Leadership | 11 | 0 | 20 | ⬜ |
+| Thiên Sa Thương Hội | 2-5 | 0 | 0 | ~19400 | ⬜ |
+| Hải Thần Cung | 1. Leadership | 30 | 0 | 30 | ⬜ |
+| Hải Thần Cung | 2-5 | 0 | 0 | ~10000 | ⬜ |
+| Phong Bạo Thương Đội | 1. Leadership | 9 | 0 | 20 | ⬜ |
+| Phong Bạo Thương Đội | 2-5 | 0 | 0 | ~2400 | ⬜ |
+| Long Cung | 1. Leadership | 17 | 0 | 20 | ⬜ |
+| Long Cung | 2-5 | 0 | 0 | ~600 | ⬜ |
+| Đại Càn Hoàng Triều | 1. Leadership | 16 | 0 | 20 | ⬜ |
+| Đại Càn Hoàng Triều | 2-5 | 0 | 0 | ~50000 | ⬜ |
+| Cửu U Ma Tông | 1. Leadership | 14 | 0 | 20 | ⬜ |
+| Cửu U Ma Tông | 2-5 | 0 | 0 | ~9400 | ⬜ |
+| Thiên Kiêu Học Viện | 1. Leadership | 11 | 0 | 20 | ⬜ |
+| Thiên Kiêu Học Viện | 2-5 | 0 | 0 | ~4400 | ⬜ |
+| Bách Bảo Các | 1. Leadership | 7 | 0 | 20 | ⬜ |
+| Bách Bảo Các | 2-5 | 0 | 0 | ~14400 | ⬜ |
+| Thiên Mộc Thành | 1. Leadership | 8 | 0 | 20 | ⬜ |
+| Thiên Mộc Thành | 2-5 | 0 | 0 | ~100000 | ⬜ |
+| Lôi Trì Thánh Địa | 1. Leadership | 8 | 0 | 15 | ⬜ |
+| Lôi Trì Thánh Địa | 2-5 | 0 | 0 | ~350 | ⬜ |
+| Thiên Môn Kính Đài | 1. Leadership | 6 | 0 | 15 | ⬜ |
+| Thiên Môn Kính Đài | 2-5 | 0 | 0 | ~2400 | ⬜ |
+| Trích Tinh Lâu | 1. Leadership | 5 | 0 | 10 | ⬜ |
+| Trích Tinh Lâu | 2-5 | 0 | 0 | ~70 | ⬜ |
+| Bắc Hải Cự Yêu Hang | 1. Leadership | 8 | 0 | 15 | ⬜ |
+| Bắc Hải Cự Yêu Hang | 2-5 | 0 | 0 | ~400 | ⬜ |
+| Cực Quang Thần Điện | 1. Leadership | 29 | 0 | 30 | ⬜ |
+| Cực Quang Thần Điện | 2-5 | 0 | 0 | ~9400 | ⬜ |
+| Thiên Yêu Đình | 1. Leadership | 33 | 0 | 35 | ⬜ |
+| Thiên Yêu Đình | 2-5 | 0 | 0 | ~11400 | ⬜ |
+| Tinh Linh Vương Đình | 1. Leadership | 23 | 0 | 30 | ⬜ |
+| Tinh Linh Vương Đình | 2-5 | 0 | 0 | ~11400 | ⬜ |
+| Vạn Yêu Thành | 1. Leadership | 20 | 0 | 25 | ⬜ |
+| Vạn Yêu Thành | 2-5 | 0 | 0 | ~11400 | ⬜ |
+| Thiên Trụ Hộ Vệ Đoàn | 1. Leadership | 10 | 0 | 20 | ⬜ |
+| Thiên Trụ Hộ Vệ Đoàn | 2-5 | 0 | 0 | ~49400 | ⬜ |
+| Ảnh Nguyệt Uyển | 1. Leadership | 10 | 0 | 20 | ⬜ |
+| Ảnh Nguyệt Uyển | 2-5 | 0 | 0 | ~50000 | ⬜ |
 
 ---
 
