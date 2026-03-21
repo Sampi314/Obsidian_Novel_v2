@@ -26886,6 +26886,216 @@ const relationshipData = {
       "role": "combat",
       "pov": false,
       "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tran_thien_dien",
+      "name": "Trần Thiên Điền",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Cần Cù, Bảo Vệ, Thẳng Thắn",
+      "description": "Khuôn mặt vuông vức, lông mày rậm và ánh mắt sắc bén. Nước da ngăm đen vì thường xuyên phơi nắng gió trên Bạch Hoa Phong. Toát ra vẻ vững chãi như bàn thạch."
+    },
+    {
+      "id": "le_luc_van",
+      "name": "Lê Lục Vân",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Lanh Lợi, Hòa Đồng, Kiêu Ngạo Ngầm",
+      "description": "Khuôn mặt thanh tú, đôi mắt to tròn, sáng ngời vẻ lanh lợi. Toát ra sức sống mãnh liệt của mùa xuân, mềm mại uyển chuyển."
+    },
+    {
+      "id": "nguyen_bach_cot",
+      "name": "Nguyễn Bạch Cốt",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Cực Đoan, Độc Lai Độc Vãng, Nhẫn Tâm",
+      "description": "Thân hình gầy gò nhô cả xương, khuôn mặt nhợt nhạt với hai quầng thâm quanh mắt. Có một vết sẹo kéo dài từ cằm xuống cổ. Một cỗ sát khí cuồn cuộn bao phủ quanh y."
+    },
+    {
+      "id": "pham_bach_tuyet",
+      "name": "Phạm Bạch Tuyết",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Tỉ Mỉ, Lạnh Lùng Nửa Vời, Cố Chấp",
+      "description": "Làn da trắng như tuyết, đối lập với cái nóng của lò rèn. Mái tóc bạch kim, ánh mắt kiên định. Bàn tay nhỏ nhưng nổi gân xanh."
+    },
+    {
+      "id": "hoang_hong_diep",
+      "name": "Hoàng Hồng Diệp",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Cuồng Nhiệt, Rộng Rãi, Nóng Vội",
+      "description": "Vẻ đẹp bốc lửa và sắc sảo, mái tóc đỏ rực bồng bềnh. Làn da bánh mật khỏe khoắn bóng bẩy mồ hôi. Một khối nhiệt lượng tỏa ra xung quanh nàng."
+    },
+    {
+      "id": "dang_hong_quan",
+      "name": "Đặng Hồng Quân",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Nguyên Tắc, Thích Tranh Luận, Lý Trí",
+      "description": "Dáng người trung bình, tóc cắt ngắn. Có kính bảo hộ bằng lưu ly. Trông giống một thư sinh làm việc chân tay."
+    },
+    {
+      "id": "ma_kim_thach",
+      "name": "Mã Kim Thạch",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Thật Thà, Cứng Đầu, Yêu Thích Đập",
+      "description": "Cao to như một ngọn tháp đen, cơ bắp cuồn cuộn nổi rõ. Khuôn mặt chữ điền thật thà. Điểm tĩnh và cứng rắn."
+    },
+    {
+      "id": "vu_kim_son",
+      "name": "Vũ Kim Sơn",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Cẩn Thận, Đa Nghi, Trầm Lặng",
+      "description": "Khuôn mặt bình phàm, dễ bị lãng quên. Mặc trang phục màu xám tro, dễ hòa lẫn vào bóng đêm. Trầm tĩnh, vô hình."
+    },
+    {
+      "id": "lam_ngoc_dien",
+      "name": "Lâm Ngọc Điền",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Trí Tuệ, Sảo Trá, Thong Dong",
+      "description": "Thư sinh nho nhã, da trắng môi hồng, lúc nào cũng mỉm cười. Mặc y phục xanh nước biển nhẹ nhàng. Toát ra khí chất mưu sĩ thâm sâu."
+    },
+    {
+      "id": "truong_ngoc_hai",
+      "name": "Trương Ngọc Hải",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Xảo Ngôn, Trục Lợi, Hòa Đồng",
+      "description": "Thân hình hơi mập mạp, khuôn mặt tròn trịa luôn tươi cười hòa ái. Mặc trang phục làm từ lụa băng tằm thượng hạng. Toát ra khí tức của tiền bạc."
+    },
+    {
+      "id": "chu_tu_minh",
+      "name": "Chu Tử Minh",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Quy Củ, Khắc Kỷ, Quyết Đoán",
+      "description": "Nét mặt luôn căng thẳng, nghiêm nghị. Mặc võ phục tông môn phẳng phiu. Khí tức của một vị tướng quân trên sa trường."
+    },
+    {
+      "id": "doan_tu_duong",
+      "name": "Đoàn Tử Dương",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Tàn Nhẫn, Kỷ Luật, Bình Tĩnh",
+      "description": "Thân hình gầy gò, da xanh xao. Đôi mắt hẹp dài, con ngươi màu tím nhạt. Khí chất như độc xà chìm trong bóng tối."
+    },
+    {
+      "id": "ha_thanh_tung",
+      "name": "Hà Thanh Tùng",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Sạch Sẽ, Thực Dụng, Biết Điều",
+      "description": "Trông giống nông dân, da sạm nắng, tóc tết thành bím. Nụ cười vô hại nhưng giảo hoạt. Có vẻ thích dọn dẹp, ngăn nắp."
+    },
+    {
+      "id": "ton_huyen_khong",
+      "name": "Tôn Huyền Không",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Lười Biếng, An Nhiên, Giác Ngộ",
+      "description": "Gương mặt hốc hác, râu lởm chởm. Mắt thường nhắm nghiền. Tóc dài rối bù nhưng không bẩn. Toát ra sự thoát tục."
+    },
+    {
+      "id": "dinh_nguyet_lao",
+      "name": "Đinh Nguyệt Lão",
+      "title": "Nội Môn Đệ Tử",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "combat",
+      "pov": false,
+      "avatar_color": "#ffeb3b",
+      "race": "Nhân Tộc",
+      "personality": "Cam Chịu, Hay Càm Ràm, Tốt Bụng",
+      "description": "Tóc và râu bạc trắng. Lưng còng như cây tùng già. Da nhăn nheo nhưng đôi mắt sáng và hiền từ."
     }
   ],
   "relationships": [
@@ -61200,6 +61410,276 @@ const relationshipData = {
       "strength": 80,
       "bidirectional": true,
       "description": "Đối thủ cạnh tranh thân thiết, hỗ trợ nhau"
+    },
+    {
+      "source": "tran_thien_dien",
+      "target": "le_han_suong",
+      "type": "master",
+      "description": "Sư Bá/Kính Trọng"
+    },
+    {
+      "source": "tran_thien_dien",
+      "target": "le_luc_van",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Muội"
+    },
+    {
+      "source": "tran_thien_dien",
+      "target": "nguyen_bach_cot",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Đệ"
+    },
+    {
+      "source": "le_luc_van",
+      "target": "le_han_suong",
+      "type": "master",
+      "description": "Sư Bá/Ngưỡng Mộ"
+    },
+    {
+      "source": "le_luc_van",
+      "target": "tran_thien_dien",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Huynh"
+    },
+    {
+      "source": "le_luc_van",
+      "target": "nguyen_bach_cot",
+      "type": "enemy",
+      "description": "Đồng Môn/Tránh Né"
+    },
+    {
+      "source": "nguyen_bach_cot",
+      "target": "le_han_suong",
+      "type": "master",
+      "description": "Sư Bá/Kính Úy"
+    },
+    {
+      "source": "nguyen_bach_cot",
+      "target": "tran_thien_dien",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Huynh"
+    },
+    {
+      "source": "nguyen_bach_cot",
+      "target": "le_luc_van",
+      "type": "enemy",
+      "description": "Đồng Môn/Khinh Bỉ"
+    },
+    {
+      "source": "pham_bach_tuyet",
+      "target": "vuong_kim_toa",
+      "type": "master",
+      "description": "Sư Bá/Kính Nể"
+    },
+    {
+      "source": "pham_bach_tuyet",
+      "target": "hoang_hong_diep",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Tỷ/Ăn Ý"
+    },
+    {
+      "source": "pham_bach_tuyet",
+      "target": "dang_hong_quan",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Huynh/Hay Cãi Cọ"
+    },
+    {
+      "source": "hoang_hong_diep",
+      "target": "vuong_kim_toa",
+      "type": "master",
+      "description": "Sư Bá/Kính Trọng"
+    },
+    {
+      "source": "hoang_hong_diep",
+      "target": "pham_bach_tuyet",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Muội/Thân Thiết"
+    },
+    {
+      "source": "hoang_hong_diep",
+      "target": "ma_kim_thach",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Đệ/Nhiệt Tình Bắt Nạt"
+    },
+    {
+      "source": "dang_hong_quan",
+      "target": "vuong_kim_toa",
+      "type": "master",
+      "description": "Sư Bá/Kính Nể/Sợ Hãi"
+    },
+    {
+      "source": "dang_hong_quan",
+      "target": "hoang_hong_diep",
+      "type": "enemy",
+      "description": "Đồng Môn/Sư Tỷ/Khó Chịu"
+    },
+    {
+      "source": "dang_hong_quan",
+      "target": "pham_bach_tuyet",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Muội/Đánh Giá Cao"
+    },
+    {
+      "source": "ma_kim_thach",
+      "target": "vuong_kim_toa",
+      "type": "master",
+      "description": "Sư Bá/Cực Kính Trọng"
+    },
+    {
+      "source": "ma_kim_thach",
+      "target": "hoang_hong_diep",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Tỷ/Sợ Và Tôn Trọng"
+    },
+    {
+      "source": "ma_kim_thach",
+      "target": "dang_hong_quan",
+      "type": "enemy",
+      "description": "Đồng Môn/Sư Huynh/Nhức Đầu"
+    },
+    {
+      "source": "vu_kim_son",
+      "target": "ly_thanh_phong",
+      "type": "master",
+      "description": "Sư Bá/Kính Cẩn"
+    },
+    {
+      "source": "vu_kim_son",
+      "target": "lam_ngoc_dien",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Đệ/Đồng Đội"
+    },
+    {
+      "source": "vu_kim_son",
+      "target": "truong_ngoc_hai",
+      "type": "enemy",
+      "description": "Đồng Môn/Sư Huynh/Kẻ Thù Truyền Kiếp"
+    },
+    {
+      "source": "lam_ngoc_dien",
+      "target": "ly_thanh_phong",
+      "type": "master",
+      "description": "Sư Bá/Học Hỏi"
+    },
+    {
+      "source": "lam_ngoc_dien",
+      "target": "vu_kim_son",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Huynh/Tin Tưởng"
+    },
+    {
+      "source": "lam_ngoc_dien",
+      "target": "chu_tu_minh",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Huynh/Tranh Cãi"
+    },
+    {
+      "source": "truong_ngoc_hai",
+      "target": "ly_thanh_phong",
+      "type": "master",
+      "description": "Sư Bá/Sợ Hãi"
+    },
+    {
+      "source": "truong_ngoc_hai",
+      "target": "vu_kim_son",
+      "type": "enemy",
+      "description": "Đồng Môn/Sư Đệ/Chán Ghét"
+    },
+    {
+      "source": "truong_ngoc_hai",
+      "target": "lam_ngoc_dien",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Đệ/Giao Dịch"
+    },
+    {
+      "source": "chu_tu_minh",
+      "target": "ly_thanh_phong",
+      "type": "master",
+      "description": "Sư Bá/Kính Trọng"
+    },
+    {
+      "source": "chu_tu_minh",
+      "target": "lam_ngoc_dien",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Đệ/Đối Thủ Bàn Cờ"
+    },
+    {
+      "source": "chu_tu_minh",
+      "target": "vu_kim_son",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Đệ/Đánh Giá Cao"
+    },
+    {
+      "source": "doan_tu_duong",
+      "target": "dang_huyen_da",
+      "type": "master",
+      "description": "Sư Bá/Trung Thành"
+    },
+    {
+      "source": "doan_tu_duong",
+      "target": "ha_thanh_tung",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Đệ/Cộng Sự"
+    },
+    {
+      "source": "doan_tu_duong",
+      "target": "ton_huyen_khong",
+      "type": "enemy",
+      "description": "Đồng Môn/Gàn Dở"
+    },
+    {
+      "source": "ha_thanh_tung",
+      "target": "dang_huyen_da",
+      "type": "master",
+      "description": "Sư Bá/Kính Sợ"
+    },
+    {
+      "source": "ha_thanh_tung",
+      "target": "doan_tu_duong",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Huynh/Kẻ Tạo Việc"
+    },
+    {
+      "source": "ha_thanh_tung",
+      "target": "dinh_nguyet_lao",
+      "type": "enemy",
+      "description": "Đồng Môn/Lão Già Phiền Phức"
+    },
+    {
+      "source": "ton_huyen_khong",
+      "target": "vu_phi_kiem",
+      "type": "master",
+      "description": "Sư Bá/Bằng Hữu"
+    },
+    {
+      "source": "ton_huyen_khong",
+      "target": "dinh_nguyet_lao",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Huynh/Luận Đạo"
+    },
+    {
+      "source": "ton_huyen_khong",
+      "target": "doan_tu_duong",
+      "type": "enemy",
+      "description": "Đồng Môn/Sát Khí Nặng"
+    },
+    {
+      "source": "dinh_nguyet_lao",
+      "target": "vu_phi_kiem",
+      "type": "master",
+      "description": "Sư Bá/Kính Trọng"
+    },
+    {
+      "source": "dinh_nguyet_lao",
+      "target": "ton_huyen_khong",
+      "type": "ally",
+      "description": "Đồng Môn/Sư Đệ/Người Nghe Nhảm"
+    },
+    {
+      "source": "dinh_nguyet_lao",
+      "target": "ha_thanh_tung",
+      "type": "enemy",
+      "description": "Đồng Môn/Sư Đệ/Kẻ Máu Me"
     }
   ],
   "factions": [
