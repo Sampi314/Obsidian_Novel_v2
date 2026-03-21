@@ -6,19 +6,19 @@ Fill sections II-V for all 1,670 characters that still have `*(Chưa xác địn
 ## Current State (2026-03-16)
 | Region | Unfilled | Total | Factions | Assigned To |
 |--------|:--------:|:-----:|:--------:|:-----------:|
-| Đông Hoang | 627 | 634 | 99 | **Claude** |
+| Đông Hoang | 624 | 634 | 99 | **Claude** |
 | Nam Cương | 85 | 133 | 12 | **Claude** |
 | Tán Tu | 3 | 6 | 1 | **Claude** |
 | Vô Tận Hải | 318 | 320 | 42 | **Gemini** |
 | Bắc Băng | 274 | 277 | 45 | **Gemini** |
 | Tây Mạc | 269 | 271 | 49 | **Gemini** |
 | Thiên Trụ | 94 | 136 | 14 | **Gemini** |
-| **Total** | **1,670** | **1,777** | **262** | |
+| **Total** | **1,667** | **1,777** | **262** | |
 
 ## Task Split
 
-### Claude Code — 715 characters (3 regions)
-- **Đông Hoang** (627 unfilled, 99 factions) — largest region
+### Claude Code — 712 characters (3 regions)
+- **Đông Hoang** (624 unfilled, 99 factions) — largest region
 - **Nam Cương** (85 unfilled, 12 factions)
 - **Tán Tu** (3 unfilled, 1 faction)
 
