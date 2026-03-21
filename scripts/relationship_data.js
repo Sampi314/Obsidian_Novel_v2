@@ -27361,29 +27361,27 @@ const relationshipData = {
       "type": "positive"
     },
     {
-      "from": "trung_bach",
-      "to": "trung_ngoc_chau",
       "type": "đồng_minh",
       "subtype": "bảo_vệ",
-      "desc": "Coi như con gái"
+      "desc": "Coi như con gái",
+      "source": "trung_bach",
+      "target": "trung_ngoc_chau"
     },
     {
-      "from": "trung_bach",
-      "to": "trung_tieu_trai",
       "type": "đồng_minh",
       "subtype": "sư_đồ",
-      "desc": "Dạy bài ca buồn"
+      "desc": "Dạy bài ca buồn",
+      "source": "trung_bach",
+      "target": "trung_tieu_trai"
     },
     {
-      "from": "trung_ngoc_chau",
-      "to": "trung_tieu_trai",
       "type": "đồng_minh",
       "subtype": "chăm_sóc",
-      "desc": "Kể chuyện biển cả"
+      "desc": "Kể chuyện biển cả",
+      "source": "trung_ngoc_chau",
+      "target": "trung_tieu_trai"
     },
     {
-      "from": "a_ngoc",
-      "to": "le_vo_tam",
       "type": "đồng_minh",
       "subtype": "bảo_vệ",
       "label": "Bảo vệ / Bạn đồng hành",
@@ -27391,11 +27389,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 78,
       "bidirectional": false,
-      "notes": "A Ngốc dùng Hỗn Độn Kim Đan cứu Lệ Vô Tâm và đi theo làm khiên bảo vệ."
+      "notes": "A Ngốc dùng Hỗn Độn Kim Đan cứu Lệ Vô Tâm và đi theo làm khiên bảo vệ.",
+      "source": "a_ngoc",
+      "target": "le_vo_tam"
     },
     {
-      "from": "le_vo_tam",
-      "to": "a_ngoc",
       "type": "đồng_minh",
       "subtype": "che_chở",
       "label": "Che chở bất đắc dĩ",
@@ -27403,11 +27401,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 89,
       "bidirectional": false,
-      "notes": "Lệ Vô Tâm dần thay đổi tâm tính vì sự thuần khiết của A Ngốc."
+      "notes": "Lệ Vô Tâm dần thay đổi tâm tính vì sự thuần khiết của A Ngốc.",
+      "source": "le_vo_tam",
+      "target": "a_ngoc"
     },
     {
-      "from": "lam_phong",
-      "to": "diep_tinh_suong",
       "type": "đồng_minh",
       "subtype": "tri_kỷ",
       "label": "Đồng hành / Người bảo vệ",
@@ -27415,11 +27413,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 18,
       "bidirectional": true,
-      "notes": "Cùng thoát khỏi Rừng Huyết Độc và tiến vào Đông Hoang."
+      "notes": "Cùng thoát khỏi Rừng Huyết Độc và tiến vào Đông Hoang.",
+      "source": "lam_phong",
+      "target": "diep_tinh_suong"
     },
     {
-      "from": "hoang_dai_son",
-      "to": "ly_tuyet_phong",
       "type": "đồng_minh",
       "subtype": "đồng_môn",
       "label": "Đồng đội",
@@ -27427,11 +27425,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Thường xuyên cãi vã nhưng là đồng đội sinh tử, phối hợp ăn ý."
+      "notes": "Thường xuyên cãi vã nhưng là đồng đội sinh tử, phối hợp ăn ý.",
+      "source": "hoang_dai_son",
+      "target": "ly_tuyet_phong"
     },
     {
-      "from": "hoang_dai_son",
-      "to": "nguyen_han_suong",
       "type": "ngờ_vực",
       "subtype": "bất_hòa",
       "label": "Cảnh giác",
@@ -27439,11 +27437,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": false,
-      "notes": "Hoàng Đại Sơn không thích tính cách lươn lẹo của Hàn Sương."
+      "notes": "Hoàng Đại Sơn không thích tính cách lươn lẹo của Hàn Sương.",
+      "source": "hoang_dai_son",
+      "target": "nguyen_han_suong"
     },
     {
-      "from": "ly_tuyet_phong",
-      "to": "nguyen_han_suong",
       "type": "đồng_minh",
       "subtype": "cấp_trên_cấp_dưới",
       "label": "Tín nhiệm",
@@ -27451,11 +27449,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": false,
-      "notes": "Lý Tuyết Phong trọng dụng mưu trí của Hàn Sương."
+      "notes": "Lý Tuyết Phong trọng dụng mưu trí của Hàn Sương.",
+      "source": "ly_tuyet_phong",
+      "target": "nguyen_han_suong"
     },
     {
-      "from": "nguyet_quang",
-      "to": "trung_bach_quang",
       "type": "đồng_minh",
       "subtype": "cấp_trên_cấp_dưới",
       "label": "Tín nhiệm",
@@ -27463,11 +27461,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Nguyệt Quang dựa vào Bạch Quang để ổn định bầy đàn."
+      "notes": "Nguyệt Quang dựa vào Bạch Quang để ổn định bầy đàn.",
+      "source": "nguyet_quang",
+      "target": "trung_bach_quang"
     },
     {
-      "from": "nguyet_quang",
-      "to": "trung_hong_diem",
       "type": "đồng_minh",
       "subtype": "bảo_vệ",
       "label": "Bảo bọc",
@@ -27475,11 +27473,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Nguyệt Quang luôn phải trông chừng sự bốc đồng của Hồng Diệm."
+      "notes": "Nguyệt Quang luôn phải trông chừng sự bốc đồng của Hồng Diệm.",
+      "source": "nguyet_quang",
+      "target": "trung_hong_diem"
     },
     {
-      "from": "trung_bach_quang",
-      "to": "trung_hong_diem",
       "type": "đồng_minh",
       "subtype": "đồng_môn",
       "label": "Quản giáo",
@@ -27487,11 +27485,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": false,
-      "notes": "Bạch Quang thường xuyên phải dọn dẹp hậu quả cho Hồng Diệm."
+      "notes": "Bạch Quang thường xuyên phải dọn dẹp hậu quả cho Hồng Diệm.",
+      "source": "trung_bach_quang",
+      "target": "trung_hong_diem"
     },
     {
-      "from": "bao_hong_tan",
-      "to": "bao_huyet_tinh",
       "type": "đồng_minh",
       "subtype": "cấp_trên_cấp_dưới",
       "label": "Tin tưởng/Kìm hãm",
@@ -27499,11 +27497,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Tộc trưởng tôn trọng khả năng nhưng phải kìm hãm sự ám ảnh nghiên cứu độc của Huyết Tịnh."
+      "notes": "Tộc trưởng tôn trọng khả năng nhưng phải kìm hãm sự ám ảnh nghiên cứu độc của Huyết Tịnh.",
+      "source": "bao_hong_tan",
+      "target": "bao_huyet_tinh"
     },
     {
-      "from": "bao_hong_tan",
-      "to": "bao_hac_lam",
       "type": "đồng_minh",
       "subtype": "cấp_trên_cấp_dưới",
       "label": "Tai mắt",
@@ -27511,11 +27509,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Hắc Lâm là trinh sát tuyệt đối trung thành của Hồng Tán."
+      "notes": "Hắc Lâm là trinh sát tuyệt đối trung thành của Hồng Tán.",
+      "source": "bao_hong_tan",
+      "target": "bao_hac_lam"
     },
     {
-      "from": "bao_huyet_tinh",
-      "to": "bao_hac_lam",
       "type": "đồng_minh",
       "subtype": "đồng_môn",
       "label": "Đối tác",
@@ -27523,11 +27521,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Hắc Lâm mang mẫu vật về cho Huyết Tịnh nghiên cứu."
+      "notes": "Hắc Lâm mang mẫu vật về cho Huyết Tịnh nghiên cứu.",
+      "source": "bao_huyet_tinh",
+      "target": "bao_hac_lam"
     },
     {
-      "from": "am_diep",
-      "to": "am_da_hanh",
       "type": "đồng_minh",
       "subtype": "cấp_trên_cấp_dưới",
       "label": "Tuyệt đối trung thành",
@@ -27535,11 +27533,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Ám Dạ Hành là cánh tay phải đắc lực, tuyệt đối phục tùng mệnh lệnh bảo vệ cộng đồng."
+      "notes": "Ám Dạ Hành là cánh tay phải đắc lực, tuyệt đối phục tùng mệnh lệnh bảo vệ cộng đồng.",
+      "source": "am_diep",
+      "target": "am_da_hanh"
     },
     {
-      "from": "am_diep",
-      "to": "am_huyet",
       "type": "đồng_minh",
       "subtype": "cấp_trên_cấp_dưới",
       "label": "Tín nhiệm",
@@ -27547,11 +27545,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Ám Diệp cung cấp tài nguyên để Ám Huyết nghiên cứu bí mật huyết mạch của Hắc Tinh Linh."
+      "notes": "Ám Diệp cung cấp tài nguyên để Ám Huyết nghiên cứu bí mật huyết mạch của Hắc Tinh Linh.",
+      "source": "am_diep",
+      "target": "am_huyet"
     },
     {
-      "from": "am_da_hanh",
-      "to": "am_huyet",
       "type": "đồng_minh",
       "subtype": "đồng_môn",
       "label": "Đồng đội",
@@ -27559,11 +27557,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Ám Huyết cung cấp độc dược và dược thảo để Ám Dạ Hành thực hiện các nhiệm vụ ám sát."
+      "notes": "Ám Huyết cung cấp độc dược và dược thảo để Ám Dạ Hành thực hiện các nhiệm vụ ám sát.",
+      "source": "am_da_hanh",
+      "target": "am_huyet"
     },
     {
-      "from": "lang_bach_suong",
-      "to": "lang_bao_phong",
       "type": "đồng_minh",
       "subtype": "đồng_môn",
       "label": "Chữa Trị / Cằn Nhằn",
@@ -27571,11 +27569,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Bạch Sương thường xuyên dùng bạo lực y khoa răn đe Bạo Phong bớt liều lĩnh."
+      "notes": "Bạch Sương thường xuyên dùng bạo lực y khoa răn đe Bạo Phong bớt liều lĩnh.",
+      "source": "lang_bach_suong",
+      "target": "lang_bao_phong"
     },
     {
-      "from": "lang_co_han",
-      "to": "lang_bao_phong",
       "type": "đồng_minh",
       "subtype": "đồng_môn",
       "label": "Chiến Hữu / Bọc Hậu",
@@ -27583,11 +27581,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Cô Hàn dọn dẹp cạm bẫy giúp Bạo Phong yên tâm lao lên càn quét."
+      "notes": "Cô Hàn dọn dẹp cạm bẫy giúp Bạo Phong yên tâm lao lên càn quét.",
+      "source": "lang_co_han",
+      "target": "lang_bao_phong"
     },
     {
-      "from": "hac_phong_dai_vuong",
-      "to": "lang_anh_sa",
       "type": "đồng_minh",
       "subtype": "cấp_trên_cấp_dưới",
       "label": "Trọng Dụng / Đề Phòng",
@@ -27595,11 +27593,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": false,
-      "notes": "Hắc Phong Đại Vương giao Ảnh Sa Đội cho Lang Ảnh Sa quản lý nhưng vẫn đề phòng."
+      "notes": "Hắc Phong Đại Vương giao Ảnh Sa Đội cho Lang Ảnh Sa quản lý nhưng vẫn đề phòng.",
+      "source": "hac_phong_dai_vuong",
+      "target": "lang_anh_sa"
     },
     {
-      "from": "hac_phong_dai_vuong",
-      "to": "ly_huyet_lang",
       "type": "đồng_minh",
       "subtype": "cấp_trên_cấp_dưới",
       "label": "Tay Sai Đắc Lực",
@@ -27607,11 +27605,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": false,
-      "notes": "Hắc Phong Đại Vương lợi dụng sức mạnh cơ bắp của Huyết Lang để cướp bóc."
+      "notes": "Hắc Phong Đại Vương lợi dụng sức mạnh cơ bắp của Huyết Lang để cướp bóc.",
+      "source": "hac_phong_dai_vuong",
+      "target": "ly_huyet_lang"
     },
     {
-      "from": "lang_anh_sa",
-      "to": "ly_huyet_lang",
       "type": "ngờ_vực",
       "subtype": "bất_hòa",
       "label": "Khinh Bỉ",
@@ -27619,11 +27617,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Hai đội trưởng có phong cách trái ngược: một âm thầm ám sát, một bốc đồng ồn ào."
+      "notes": "Hai đội trưởng có phong cách trái ngược: một âm thầm ám sát, một bốc đồng ồn ào.",
+      "source": "lang_anh_sa",
+      "target": "ly_huyet_lang"
     },
     {
-      "from": "hac_phong_dai_vuong",
-      "to": "hac_phong",
       "type": "kẻ_thù",
       "subtype": "cạnh_tranh",
       "label": "Cạnh Tranh Phong Lực",
@@ -27631,7 +27629,9 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Hắc Phong Đại Vương và Hắc Phong (Phong Sát Cốc) tranh giành địa bàn Tây Mạc."
+      "notes": "Hắc Phong Đại Vương và Hắc Phong (Phong Sát Cốc) tranh giành địa bàn Tây Mạc.",
+      "source": "hac_phong_dai_vuong",
+      "target": "hac_phong"
     },
     {
       "source": "hac_trieu",
@@ -27670,8 +27670,6 @@ const relationshipData = {
       "label": "Tử địch"
     },
     {
-      "from": "khong_do",
-      "to": "gioi_tran",
       "type": "đồng_minh",
       "subtype": "sư_đệ",
       "label": "Sư huynh - Sư đệ",
@@ -27679,11 +27677,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Không Độ cố gắng độ hóa sát khí trong lòng Giới Trần, trong khi Giới Trần kính trọng Không Độ dù hay cằn nhằn."
+      "notes": "Không Độ cố gắng độ hóa sát khí trong lòng Giới Trần, trong khi Giới Trần kính trọng Không Độ dù hay cằn nhằn.",
+      "source": "khong_do",
+      "target": "gioi_tran"
     },
     {
-      "from": "khong_do",
-      "to": "hue_minh",
       "type": "đồng_minh",
       "subtype": "sư_đệ",
       "label": "Sư huynh - Sư đệ",
@@ -27691,11 +27689,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Không Độ tin tưởng giao trọng trách bảo tồn di sản cho Huệ Minh, Huệ Minh phục tùng và bàn luận kinh Phật cùng trụ trì."
+      "notes": "Không Độ tin tưởng giao trọng trách bảo tồn di sản cho Huệ Minh, Huệ Minh phục tùng và bàn luận kinh Phật cùng trụ trì.",
+      "source": "khong_do",
+      "target": "hue_minh"
     },
     {
-      "from": "gioi_tran",
-      "to": "hue_minh",
       "type": "đồng_minh",
       "subtype": "sư_huynh_đệ",
       "label": "Khắc Khẩu",
@@ -27703,11 +27701,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Hai người thường xuyên khắc khẩu do khác biệt quan điểm văn-võ."
+      "notes": "Hai người thường xuyên khắc khẩu do khác biệt quan điểm văn-võ.",
+      "source": "gioi_tran",
+      "target": "hue_minh"
     },
     {
-      "from": "khong_do",
-      "to": "hac_phong_dai_vuong",
       "type": "kẻ_thù",
       "subtype": "cần_độ_hóa",
       "label": "Hy Vọng Độ Hóa",
@@ -27715,11 +27713,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": false,
-      "notes": "Không Độ không muốn tiêu diệt mà luôn hy vọng có một ngày sẽ độ hóa được Hắc Phong Đại Vương."
+      "notes": "Không Độ không muốn tiêu diệt mà luôn hy vọng có một ngày sẽ độ hóa được Hắc Phong Đại Vương.",
+      "source": "khong_do",
+      "target": "hac_phong_dai_vuong"
     },
     {
-      "from": "gioi_tran",
-      "to": "hac_phong_dai_vuong",
       "type": "kẻ_thù",
       "subtype": "thề_giết",
       "label": "Không Đội Trời Chung",
@@ -27727,11 +27725,11 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Giới Trần thề nhổ cỏ tận gốc băng sa tặc của Hắc Phong Đại Vương."
+      "notes": "Giới Trần thề nhổ cỏ tận gốc băng sa tặc của Hắc Phong Đại Vương.",
+      "source": "gioi_tran",
+      "target": "hac_phong_dai_vuong"
     },
     {
-      "from": "hue_minh",
-      "to": "hua_nhuoc_thuy",
       "type": "đồng_minh",
       "subtype": "hợp_tác",
       "label": "Đối Tác Học Thuật",
@@ -27739,7 +27737,9 @@ const relationshipData = {
       "status": "active",
       "since_chapter": 1,
       "bidirectional": true,
-      "notes": "Huệ Minh giao dịch với Hứa Nhược Thủy để thu thập các bản kinh thư cổ thất lạc."
+      "notes": "Huệ Minh giao dịch với Hứa Nhược Thủy để thu thập các bản kinh thư cổ thất lạc.",
+      "source": "hue_minh",
+      "target": "hua_nhuoc_thuy"
     },
     {
       "source": "linh_quang_mau",
@@ -61140,6 +61140,30 @@ const relationshipData = {
       "target": "hoang_thien_phong",
       "type": "mentor",
       "description": "Hộ Pháp mà ông từng truyền thụ kiếm pháp"
+    },
+    {
+      "source": "ma_tu_van",
+      "target": "ma_tu_linh",
+      "type": "Sư Phụ/Đồ Đệ",
+      "strength": 90,
+      "bidirectional": false,
+      "description": "Sư phụ truyền thụ kiếm pháp và huyễn thuật"
+    },
+    {
+      "source": "ma_tu_van",
+      "target": "ma_van_suong",
+      "type": "Sư Phụ/Đồ Đệ",
+      "strength": 85,
+      "bidirectional": false,
+      "description": "Sư phụ hướng dẫn tu luyện và sáng tạo công pháp mới"
+    },
+    {
+      "source": "ma_tu_linh",
+      "target": "ma_van_suong",
+      "type": "Tỷ Muội Đồng Môn",
+      "strength": 80,
+      "bidirectional": true,
+      "description": "Đối thủ cạnh tranh thân thiết, hỗ trợ nhau"
     }
   ],
   "factions": [
@@ -61557,8 +61581,8 @@ const relationshipData = {
   ],
   "meta": {
     "last_updated": "2026-03-15",
-    "total_characters": 7,
-    "total_relationships": 7,
+    "total_characters": 1885,
+    "total_relationships": 5679,
     "scanned_chapters": {
       "Góc_Nhìn_A_Ngốc": 132,
       "Góc_Nhìn_Lệ_Vô_Tâm": 152,
