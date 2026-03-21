@@ -26886,6 +26886,202 @@ const relationshipData = {
       "role": "combat",
       "pov": false,
       "avatar_color": "#4caf50"
+    },
+    {
+      "id": "tran_lap_kiem",
+      "name": "Trần Lập Kiếm",
+      "title": "Bất Động Kiếm",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Kiên Định, Trầm Tĩnh",
+      "description": "Nội Môn Đệ Tử thuộc Thiên Hoa Phong. Vững chãi như núi, phòng ngự phản công tuyệt đỉnh."
+    },
+    {
+      "id": "le_thanh_van",
+      "name": "Lê Thanh Vân",
+      "title": "Băng Hoa Lạc Kiếm",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Lạnh Lùng, Kỷ Luật",
+      "description": "Nội Môn Đệ Tử thuộc Bạch Hoa Phong. Kiếm pháp lạnh lẽo, đóng băng mọi thứ."
+    },
+    {
+      "id": "vu_tinh_than",
+      "name": "Vũ Tinh Thần",
+      "title": "Dạ Tinh Kiếm",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Chăm Chỉ, Thực Dụng",
+      "description": "Nội Môn Đệ Tử thuộc Bạch Hoa Phong. Kiếm nặng như sao rơi, bền bỉ chịu đựng."
+    },
+    {
+      "id": "dang_le_hoa",
+      "name": "Đặng Lệ Hỏa",
+      "title": "Hỏa Yêu Kiếm",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Cuồng Nhiệt, Bốc Đồng",
+      "description": "Nội Môn Đệ Tử thuộc Hồng Hoa Phong. Kiếm thế bạo liệt, thiêu rụi cản trở."
+    },
+    {
+      "id": "pham_viem_khi",
+      "name": "Phạm Viêm Khí",
+      "title": "Hỏa Chùy Kiếm",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Thô Lỗ, Trượng Nghĩa",
+      "description": "Nội Môn Đệ Tử thuộc Hồng Hoa Phong. Lực công phá khổng lồ bằng búa kiếm."
+    },
+    {
+      "id": "hoang_kim_son",
+      "name": "Hoàng Kim Sơn",
+      "title": "Bất Hoại Thiết Sơn",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Tỉ Mỉ, Yêu Thiết Bị",
+      "description": "Nội Môn Đệ Tử thuộc Kim Hoa Phong. Thợ rèn đúc pháp khí tài ba."
+    },
+    {
+      "id": "nguyen_thiet_khi",
+      "name": "Nguyễn Thiết Khí",
+      "title": "Bạo Lô Kiếm Sư",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Sáng Tạo Điên Rồ, Cục Súc",
+      "description": "Nội Môn Đệ Tử thuộc Kim Hoa Phong. Thường xuyên gây nổ lò rèn khi đúc kiếm."
+    },
+    {
+      "id": "diep_tinh_binh",
+      "name": "Diệp Tĩnh Bình",
+      "title": "Lục Diệp Y Tiên",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Ôn Hòa, Tận Tâm",
+      "description": "Nội Môn Đệ Tử thuộc Ngọc Hoa Phong. Y sư tài ba dùng kim châm chữa bệnh."
+    },
+    {
+      "id": "ma_tinh_thuy",
+      "name": "Mã Tĩnh Thủy",
+      "title": "Nhu Thủy Đan Sư",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Tò Mò, Đáng Yêu",
+      "description": "Nội Môn Đệ Tử thuộc Ngọc Hoa Phong. Giỏi điều chế linh dịch chữa trị."
+    },
+    {
+      "id": "ton_tu_duong",
+      "name": "Tôn Tử Dương",
+      "title": "Tử Điện Trận Đồ",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Mưu Trí, Hoàn Hảo",
+      "description": "Nội Môn Đệ Tử thuộc Tử Hoa Phong. Tính toán trận pháp sấm sét tỉ mỉ."
+    },
+    {
+      "id": "ha_tran_loi",
+      "name": "Hà Trận Lôi",
+      "title": "Lôi Bạo Tiên Phong",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Trực Tiếp, Cuồng Nhiệt",
+      "description": "Nội Môn Đệ Tử thuộc Tử Hoa Phong. Dũng mãnh lao vào trận địa cắm trận kỳ nổ."
+    },
+    {
+      "id": "chau_thanh_thanh",
+      "name": "Châu Thanh Thanh",
+      "title": "Lục Diệp Phong Thanh",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Tinh Quái, Hoạt Ngôn",
+      "description": "Nội Môn Đệ Tử thuộc Thanh Hoa Phong. Chuyên thu thập thông tin và ngụy trang."
+    },
+    {
+      "id": "chau_thanh_ha",
+      "name": "Châu Thanh Hà",
+      "title": "Lạc Thủy Vô Thanh",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Trầm Tĩnh, Kín Đáo",
+      "description": "Nội Môn Đệ Tử thuộc Thanh Hoa Phong. Chuyên phân tích tin tức và lẩn trốn."
+    },
+    {
+      "id": "dang_am_tuyet",
+      "name": "Đặng Ám Tuyệt",
+      "title": "Tử Vong Sát Ảnh",
+      "realm": "Trúc Cơ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "member",
+      "pov": false,
+      "avatar_color": "#2196f3",
+      "race": "Nhân Tộc",
+      "personality": "Tàn Nhẫn, Nhẫn Nại",
+      "description": "Nội Môn Đệ Tử thuộc Huyền Hoa Phong. Sát thủ đáng sợ trong bóng tối."
     }
   ],
   "relationships": [
@@ -61200,6 +61396,150 @@ const relationshipData = {
       "strength": 80,
       "bidirectional": true,
       "description": "Đối thủ cạnh tranh thân thiết, hỗ trợ nhau"
+    },
+    {
+      "source": "tran_lap_kiem",
+      "target": "luc_kiem_hoa",
+      "type": "ally",
+      "description": "Sùng bái Thánh Nữ, lấy đó làm mục tiêu"
+    },
+    {
+      "source": "tran_lap_kiem",
+      "target": "ha_thien_ly",
+      "type": "ally",
+      "description": "Bằng hữu đồng môn, phối hợp ăn ý"
+    },
+    {
+      "source": "ha_thien_ly",
+      "target": "luc_thien_thanh",
+      "type": "rival",
+      "description": "Cạnh tranh danh hiệu kiếm khách nhanh nhất"
+    },
+    {
+      "source": "le_thanh_van",
+      "target": "le_han_suong",
+      "type": "master",
+      "description": "Kính sợ sư bá phong chủ"
+    },
+    {
+      "source": "le_thanh_van",
+      "target": "truong_bach_kiem",
+      "type": "ally",
+      "description": "Học hỏi sư huynh trong kiếm đạo"
+    },
+    {
+      "source": "vu_tinh_than",
+      "target": "le_han_suong",
+      "type": "master",
+      "description": "Luôn cố gắng không làm phong chủ thất vọng"
+    },
+    {
+      "source": "vu_tinh_than",
+      "target": "le_thanh_van",
+      "type": "ally",
+      "description": "Đồng môn hợp tác dọn dẹp yêu thú"
+    },
+    {
+      "source": "dang_le_hoa",
+      "target": "tran_hong_kiem",
+      "type": "master",
+      "description": "Sư phụ truyền dạy kiếm ý rực lửa"
+    },
+    {
+      "source": "dang_le_hoa",
+      "target": "pham_viem_khi",
+      "type": "ally",
+      "description": "Cặp bài trùng thiêu rụi chướng ngại"
+    },
+    {
+      "source": "pham_viem_khi",
+      "target": "tran_hong_kiem",
+      "type": "master",
+      "description": "Kính sợ phong chủ, hay bị phạt chung"
+    },
+    {
+      "source": "hoang_kim_son",
+      "target": "vuong_kim_toa",
+      "type": "master",
+      "description": "Kính trọng trình độ luyện khí của sư phụ"
+    },
+    {
+      "source": "hoang_kim_son",
+      "target": "nguyen_thiet_khi",
+      "type": "ally",
+      "description": "Cộng sự ăn ý phân tích vật liệu đúc"
+    },
+    {
+      "source": "nguyen_thiet_khi",
+      "target": "vuong_tieu_kim",
+      "type": "ally",
+      "description": "Hay xin vật liệu tốt từ sư bá"
+    },
+    {
+      "source": "diep_tinh_binh",
+      "target": "nguyen_tinh_kiem",
+      "type": "master",
+      "description": "Tuân thủ nghiêm ngặt sư phụ truyền dạy"
+    },
+    {
+      "source": "diep_tinh_binh",
+      "target": "ma_tinh_thuy",
+      "type": "ally",
+      "description": "Sư tỷ muội chăm sóc vườn dược thảo"
+    },
+    {
+      "source": "ma_tinh_thuy",
+      "target": "nguyen_tinh_kiem",
+      "type": "master",
+      "description": "Học hỏi sự điềm đạm của phong chủ"
+    },
+    {
+      "source": "ton_tu_duong",
+      "target": "ma_tu_van",
+      "type": "master",
+      "description": "Nể trọng phong chủ, xin làm phụ tá"
+    },
+    {
+      "source": "ton_tu_duong",
+      "target": "ha_tran_loi",
+      "type": "ally",
+      "description": "Bộ đôi thiết lập cạm bẫy lôi trận"
+    },
+    {
+      "source": "ha_tran_loi",
+      "target": "ma_tu_van",
+      "type": "master",
+      "description": "Kính trọng phong chủ dù hay gây rắc rối"
+    },
+    {
+      "source": "chau_thanh_thanh",
+      "target": "ly_thanh_phong",
+      "type": "master",
+      "description": "Muốn trở thành tai mắt đắc lực của sư phụ"
+    },
+    {
+      "source": "chau_thanh_thanh",
+      "target": "chau_thanh_ha",
+      "type": "family",
+      "description": "Tỷ muội song sinh đồng tâm"
+    },
+    {
+      "source": "chau_thanh_ha",
+      "target": "ly_thanh_phong",
+      "type": "master",
+      "description": "Kính trọng sư phụ dạy cách bảo vệ mình"
+    },
+    {
+      "source": "dang_am_tuyet",
+      "target": "dang_huyen_da",
+      "type": "master",
+      "description": "Tuyệt đối phục tùng mệnh lệnh phong chủ"
+    },
+    {
+      "source": "dang_am_tuyet",
+      "target": "tran_vo_thanh",
+      "type": "rival",
+      "description": "Ngầm so kè hạ mục tiêu ít dấu vết"
     }
   ],
   "factions": [
@@ -61761,8 +62101,8 @@ const relationshipData = {
   ],
   "meta": {
     "last_updated": "2026-03-15",
-    "total_characters": 1885,
-    "total_relationships": 5679,
+    "total_characters": 1899,
+    "total_relationships": 5709,
     "scanned_chapters": {
       "Góc_Nhìn_A_Ngốc": 132,
       "Góc_Nhìn_Lệ_Vô_Tâm": 152,
