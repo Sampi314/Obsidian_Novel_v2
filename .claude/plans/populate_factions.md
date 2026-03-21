@@ -416,37 +416,62 @@ Thành Chủ
 
 ---
 
-# PHẦN 4: WORK QUEUE
+# PHẦN 4: WORK QUEUE (Tích hợp trong plan)
 
-Xem `WORK_QUEUE.md` tại repo root.
+> Agent đọc bảng dưới → tìm ⬜ Pending → đổi thành 🔄 → push → làm → đổi thành ✅ → push.
 
-**Quy trình mỗi phiên (step-by-step):**
+## Phase 1: Leadership — Tiến Độ
 
-```
-1. git pull origin main
-2. cat WORK_QUEUE.md                              ← kiểm tra ai đang làm gì
-3. Thêm claim vào WORK_QUEUE.md → commit → push   ← claim TRƯỚC khi đọc skill
-4. Đọc .claude/skills/nhan-vat/SKILL.md (Chế Độ 1) ← template YAML + body
-5. Đọc .claude/skills/the-luc/SKILL.md            ← headcount schema (nếu cần)
-6. Đọc Đạo/Thế_Lực/[Region]/[Faction].md          ← divisions, members, specialty
-7. Đọc Đạo/Chủng_Tộc/[Race].md                    ← nếu phi Nhân Tộc
-8. Đọc nhân vật đã có: ls Đạo/Nhân_Vật/[Region]/[Faction]/
-9. Tạo character stubs (10-100 tùy phase)
-10. git add + commit + push
-11. Cập nhật WORK_QUEUE.md (chuyển sang Hoàn Thành) → commit → push
-```
+| Thế Lực | Khu Vực | Hạng | Có | Cần | Trạng Thái |
+|---------|---------|------|:--:|:---:|:----------:|
+| Cửu Hoa Kiếm Tông | Đông Hoang | Nhất | 92 | — | ✅ Done |
+| Thần Khí Phường | Đông Hoang | Nhất | 0 | ~20 | ⬜ |
+| Dược Vương Cốc | Đông Hoang | Nhất | 3 | ~20 | ⬜ |
+| Huyền Băng Cung | Bắc Băng | Nhất | 0 | ~20 | ⬜ |
+| Vân Tông | Đông Hoang | Nhất | 12 | ~15 | ⬜ |
+| Thanh Đế Cung | Đông Hoang | Nhất | 10 | ~15 | ⬜ |
+| Thái Ất Môn | Đông Hoang | Nhất | 10 | ~15 | ⬜ |
+| Vô Tranh Tự | Đông Hoang | Nhất | 10 | ~15 | ⬜ |
+| Vũ Hoàng Các | Đông Hoang | Nhất | 8 | ~15 | ⬜ |
+| Huyết Sát Minh | Đông Hoang | Nhất | 10 | ~15 | ⬜ |
+| Huyết Ma Tông | Nam Cương | Nhất | 10 | ~15 | ⬜ |
+| Vạn Độc Môn | Nam Cương | Nhất | 25 | ~10 | ⬜ |
+| Đan Hà Cốc | Nam Cương | Nhất | 20 | ~10 | ⬜ |
+| Kim Sa Tự | Tây Mạc | Nhất | 10 | ~15 | ⬜ |
+| Thiên Sa Thương Hội | Tây Mạc | Nhất | 11 | ~15 | ⬜ |
+| Hải Thần Cung | Vô Tận Hải | Nhất | 30 | ~10 | ⬜ |
+| Phong Bạo Thương Đội | Vô Tận Hải | Nhất | 9 | ~15 | ⬜ |
+| Long Cung | Vô Tận Hải | Nhất | 17 | ~10 | ⬜ |
+| Đại Càn Hoàng Triều | Thiên Trụ | Nhất | 16 | ~15 | ⬜ |
+| Cửu U Ma Tông | Thiên Trụ | Nhất | 14 | ~10 | ⬜ |
+| Thiên Kiêu Học Viện | Thiên Trụ | Nhất | 11 | ~15 | ⬜ |
+| Bách Bảo Các | Thiên Trụ | Nhất | 7 | ~15 | ⬜ |
+| Thiên Mộc Thành | Thiên Trụ | Nhất | 8 | ~15 | ⬜ |
+| Lôi Trì Thánh Địa | Thiên Trụ | Nhất | 8 | ~15 | ⬜ |
+| Thiên Môn Kính Đài | Thiên Trụ | Nhất | 6 | ~15 | ⬜ |
+| Trích Tinh Lâu | Thiên Trụ | Nhất | 5 | ~10 | ⬜ |
+| Bắc Hải Cự Yêu Hang | Bắc Băng | Nhất | 8 | ~10 | ⬜ |
+| Cực Quang Thần Điện | Bắc Băng | Nhất | 29 | ~10 | ⬜ |
+| Thiên Yêu Đình | Đông Hoang | Nhất | 33 | ~5 | ⬜ |
+| Tinh Linh Vương Đình | Đông Hoang | Nhất | 23 | ~10 | ⬜ |
+| Vạn Yêu Thành | Đông Hoang | Nhất | 20 | ~10 | ⬜ |
+| Thiên Trụ Hộ Vệ Đoàn | Đông Hoang | Nhất | 10 | ~15 | ⬜ |
+| Ảnh Nguyệt Uyển | Đông Hoang | Nhất | 10 | ~15 | ⬜ |
+
+## Phase 2-5: Tiến Độ
+_(Sẽ thêm bảng khi Phase 1 hoàn thành)_
 
 ---
 
 # PHẦN 5: CHECKLIST MỖI PHIÊN
 
 **Trước khi tạo:**
-- [ ] `git pull origin main` — mới nhất
-- [ ] Đã claim trong `WORK_QUEUE.md` và push
-- [ ] Đã đọc `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
-- [ ] Đã đọc file thế lực `Đạo/Thế_Lực/[Region]/[Faction].md`
-- [ ] Đã đọc file chủng tộc `Đạo/Chủng_Tộc/[Race].md` (nếu phi Nhân Tộc)
-- [ ] Đã xem nhân vật đã có trong thư mục
+- [ ] `git pull origin main`
+- [ ] Đọc bảng Work Queue ở PHẦN 4 → tìm ⬜ → đổi thành 🔄 → push
+- [ ] Đọc `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
+- [ ] Đọc file thế lực `Đạo/Thế_Lực/[Region]/[Faction].md`
+- [ ] Đọc file chủng tộc `Đạo/Chủng_Tộc/[Race].md` (nếu phi Nhân Tộc)
+- [ ] Xem nhân vật đã có: `ls Đạo/Nhân_Vật/[Region]/[Faction]/`
 
 **Khi tạo:**
 - [ ] Tên có ý nghĩa xianxia, KHÔNG random, KHÔNG chức danh
@@ -460,7 +485,5 @@ Xem `WORK_QUEUE.md` tại repo root.
 - [ ] Không trùng tên với nhân vật đã có
 
 **Sau khi tạo:**
-- [ ] Đã commit + push
-- [ ] Đã cập nhật `WORK_QUEUE.md` (chuyển sang Hoàn Thành)
-- [ ] Không trùng tên
-- [ ] Cập nhật WORK_QUEUE.md sau khi xong
+- [ ] Commit + push kết quả
+- [ ] Đổi 🔄 thành ✅ trong bảng Work Queue → commit + push

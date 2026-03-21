@@ -8,60 +8,60 @@ Bạn đang tham gia dự án tiểu thuyết tu tiên Cố Nguyên Giới.
 ```bash
 git pull origin main
 ```
-Nếu có merge conflict → giải quyết → commit → push trước khi làm bất cứ gì.
+Nếu có merge conflict → giải quyết → commit → push trước khi làm gì khác.
 
-### 2. Đọc Work Queue và Claim
+### 2. Đọc Schedule
+Đọc `.claude/plans/agent_schedule.md` để biết:
+- Task nào đang ưu tiên cao nhất (🔴 > 🟡 > 🟢)
+- Plan file nào cần đọc
+- Skill file nào cần dùng
+
+Nếu không có task phù hợp → đọc `.claude/plans/daily_tasks.md`.
+
+### 3. Đọc Plan + Claim
+Mở plan file được chỉ định (ví dụ `.claude/plans/populate_factions.md`).
+Trong plan có **bảng Work Queue** với trạng thái:
+- ⬜ = Pending (chưa ai làm)
+- 🔄 = Đang làm
+- ✅ = Done
+
+**Chọn 1 mục ⬜ → đổi thành 🔄 → commit + push NGAY:**
 ```bash
-cat WORK_QUEUE.md
+git add .claude/plans/[plan_file] && git commit -m "claim: [tên sub-task]" && git push origin main
 ```
-- Tìm **Task Hiện Tại** (🔴)
-- Xem sub-task nào đang ⬜ Pending → chọn 1 cái
-- **Đổi ⬜ thành 🔄 → commit + push NGAY** trước khi làm bất cứ gì:
-```bash
-# Sửa WORK_QUEUE.md: ⬜ Pending → 🔄 Đang làm
-git add WORK_QUEUE.md && git commit -m "claim: [tên sub-task]" && git push origin main
-```
-⚠️ Nếu push fail → pull lại → kiểm tra sub-task đó còn ⬜ không. Nếu đã bị 🔄 → chọn cái khác.
+⚠️ Push fail → pull lại → kiểm tra mục đó còn ⬜ không → nếu đã 🔄 thì chọn cái khác.
 
-- Nếu không có Task Hiện Tại → đọc `.claude/plans/daily_tasks.md`
+### 4. Đọc Skill + Context
+Plan file ghi rõ skill nào cần đọc. Ví dụ:
+> 📖 Đọc `.claude/skills/nhan-vat/SKILL.md` (Chế Độ 1)
 
-### 3. Đọc Plan
-`WORK_QUEUE.md` ghi rõ plan file nào cần đọc. Ví dụ:
-- **Plan:** `.claude/plans/populate_factions.md`
+Đọc thêm context mà plan yêu cầu:
+- File thế lực, file chủng tộc, nhân vật đã có, cốt truyện, v.v.
+- `locked_chapters.json` nếu liên quan đến chương truyện
 
-Đọc plan để hiểu quy trình chi tiết, blueprint, headcount, naming rules.
-
-### 4. Đọc Skill
-Plan file và `WORK_QUEUE.md` ghi rõ skill nào cần đọc. Ví dụ:
-- **Skill:** `.claude/skills/nhan-vat/SKILL.md`
-
-Đọc skill để biết template, format, quy tắc cụ thể.
-
-### 5. Đọc Context
-Tùy task, đọc thêm:
-- File thế lực: `Đạo/Thế_Lực/[Region]/[Faction].md`
-- File chủng tộc: `Đạo/Chủng_Tộc/[Race].md`
-- Nhân vật đã có: `Đạo/Nhân_Vật/[Region]/[Faction]/`
-- Cốt truyện: `Đạo/Quy_Hoạch_Cốt_Truyện/`
-- Locked chapters: `locked_chapters.json`
-
-### 6. Làm việc
+### 5. Làm việc
 Thực hiện theo hướng dẫn trong plan + skill.
 
-### 7. Push kết quả
+### 6. Push kết quả
 ```bash
 git add [files] && git commit -m "docs: [mô tả]" && git push origin main
 ```
-Nếu push reject: `git pull --rebase origin main && git push origin main`
+Push reject → `git pull --rebase origin main && git push origin main`
 
-### 8. Cập nhật Work Queue
-Trong `WORK_QUEUE.md`, đổi sub-task từ 🔄 sang ✅ Done.
+### 7. Cập nhật tiến độ
+Trong plan file, đổi mục từ 🔄 → ✅.
 ```bash
-git add WORK_QUEUE.md && git commit -m "done: [tên sub-task]" && git push origin main
+git add .claude/plans/[plan_file] && git commit -m "done: [tên sub-task]" && git push origin main
+```
+
+## Tóm tắt
+```
+Pull → Read schedule → Read plan → Claim ⬜→🔄 + Push
+→ Read skill → Work → Push → Update ✅ + Push
 ```
 
 ## Quy tắc chung
 - Tiếng Việt only trong nội dung sáng tạo
-- Kiểm tra `locked_chapters.json` trước khi sửa chương
 - Không dùng script tạo nội dung
 - Tên nhân vật có ý nghĩa, không dùng chức danh làm tên
+- Kiểm tra `locked_chapters.json` trước khi sửa chương
