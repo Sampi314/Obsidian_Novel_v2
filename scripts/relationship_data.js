@@ -29124,6 +29124,231 @@ const relationshipData = {
       "race": "Nhân Tộc",
       "personality": "Trí tuệ, xảo quyệt, nhàn nhã",
       "description": "Một lãng tử phong lưu, dùng sương khói mây mù như trò tiêu khiển, luôn cười mỉm đầy tính toán."
+    },
+    {
+      "id": "han_phi_tuyet",
+      "name": "Hàn Phi Tuyết",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#e0f7fa",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Nghiêm túc, Lạnh nhạt, Tận tụy",
+      "description": "Hàn Phi Tuyết có gương mặt thanh tao nhưng sắc lạnh như tảng băng trôi ngàn năm. Đôi mắt nàng màu lam nhạt, luôn nhìn thẳng vào đối phương với vẻ dò xét. Mái tóc đen dài thường được búi gọn gàng, cài trâm gỗ giản dị, chỉ điểm xuyết một dải lụa trắng. Nước da nàng tái nhợt do tu luyện công pháp mang tính hàn."
+    },
+    {
+      "id": "han_nguyet_bach",
+      "name": "Hàn Nguyệt Bạch",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#e0f7fa",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Hòa đồng, Sợ đau, Phụ thuộc",
+      "description": "Trái ngược với vẻ lạnh lùng của đường tỷ, Hàn Nguyệt Bạch mang khuôn mặt tròn trịa, đôi má lúc nào cũng ửng hồng. Đôi mắt nàng to tròn, trong veo như hồ nước mùa thu, luôn ánh lên sự tò mò. Nàng thích tết tóc hai bên, cài những bông hoa rừng nhỏ nhặt được trên đường luyện kiếm."
+    },
+    {
+      "id": "han_thanh_kiem",
+      "name": "Hàn Thanh Kiếm",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#e0f7fa",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Thực dụng, Bảo bọc, Kiên nhẫn",
+      "description": "Hàn Thanh Kiếm có gương mặt chữ điền góc cạnh, toát lên vẻ rắn rỏi của một thanh niên từng trải sương gió. Đôi mắt hắn màu xám sẫm, ánh nhìn luôn sắc bén như lưỡi kiếm vừa rút khỏi vỏ. Mái tóc đen dài thường được buộc gọn gàng sau gáy, trên lông mày trái có một vết sẹo mờ do luyện kiếm thuở nhỏ."
+    },
+    {
+      "id": "ngo_thanh_son",
+      "name": "Ngô Thanh Sơn",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#8d6e63",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Trầm ổn, Thật thà, Bền bỉ",
+      "description": "Ngô Thanh Sơn có khuôn mặt vuông vức, chữ điền điển hình của những người xuất thân từ nông thôn vùng núi. Làn da ngăm đen vì nắng gió, nhưng nụ cười luôn chân chất và thật thà. Đôi mắt hắn ánh lên sự điềm đạm, không bao giờ hấp tấp trong mọi tình huống."
+    },
+    {
+      "id": "ngo_phi_hung",
+      "name": "Ngô Phi Hùng",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#d84315",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Nóng nảy, Thẳng thắn, Cuồng nhiệt",
+      "description": "Ngô Phi Hùng sở hữu thân hình vạm vỡ, cao lớn hơn hẳn so với những thiếu niên cùng tuổi. Làn da hắn rám nắng đỏ au, luôn lấm tấm mồ hôi do tập luyện với cường độ cao. Đôi mắt hắn ánh lên vẻ hoang dã, mái tóc bờm xờm như sư tử, đôi khi bị xém một mảng vì chính hỏa linh khí của bản thân."
+    },
+    {
+      "id": "ngo_thanh_hai",
+      "name": "Ngô Thanh Hải",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#2e7d32",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Chăm chỉ, Quan sát, Hòa nhã",
+      "description": "Ngô Thanh Hải có vóc dáng mảnh khảnh nhưng rắn rỏi, khuôn mặt hiền lành với nụ cười thường trực. Làn da hắn mang màu ngăm khỏe khoắn do thường xuyên làm việc ngoài trời. Đôi mắt đen của hắn luôn ánh lên sự nhanh nhẹn, tò mò."
+    },
+    {
+      "id": "tiet_bach_van",
+      "name": "Tiết Bạch Vân",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#cfd8dc",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Yên tĩnh, Mơ mộng, Tinh tế",
+      "description": "Tiết Bạch Vân có khuôn mặt thanh thoát, nước da trắng trẻo thư sinh khác hẳn với vẻ phong trần của nhiều ngoại môn đệ tử khác. Đôi mắt trong sáng nhưng đôi lúc đượm chút u buồn. Mái tóc dài đen mượt thường được buộc hờ hững bằng một sợi chỉ trắng."
+    },
+    {
+      "id": "tiet_thanh_phong",
+      "name": "Tiết Thanh Phong",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#b0bec5",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Lãng tử, Tự tôn, Bao bọc",
+      "description": "Tiết Thanh Phong có dáng người cao ráo, thon gọn, khuôn mặt tuấn tú với hàng lông mày kiếm sắc nét. Làn da hắn mang màu ngăm nhẹ của những người thường xuyên di chuyển ngoài trời. Đôi mắt hắn ánh lên sự lanh lợi và phảng phất nét kiêu ngạo của một thư sinh có võ."
+    },
+    {
+      "id": "tiet_tu_duong",
+      "name": "Tiết Tử Dương",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Trúc Cơ Sơ Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#7e57c2",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Thô lỗ, Can đảm, Nóng nảy",
+      "description": "Tiết Tử Dương có ngoại hình thô kệch hơn hẳn những người trong họ Tiết. Vóc dáng hắn to lớn, bờ vai rộng và cơ bắp cuồn cuộn do phải rèn luyện nhiều hơn để che chở các em. Làn da hắn sạm đen, trên trán có một vết sẹo hình tia chớp nhỏ do một lần luyện công sai cách."
+    },
+    {
+      "id": "lai_thien_vu",
+      "name": "Lại Thiên Vũ",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Cẩn trọng, Ôn hòa, Bảo bọc",
+      "description": "Lại Thiên Vũ mang dáng vẻ thư sinh, với khuôn mặt thon dài và đôi mắt sâu thẳm như bầu trời đêm. Mái tóc đen dài được buộc gọn phía sau, thường buông vài lọn tóc lòa xòa trước trán. Làn da hắn trắng trẻo nhưng không yếu ớt, toát lên sự rèn luyện bền bỉ."
+    },
+    {
+      "id": "lai_thien_suong",
+      "name": "Lại Thiên Sương",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Đỉnh Phong",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#b2ebf2",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Dứt khoát, Lạnh lùng, Trọng tình",
+      "description": "Lại Thiên Sương có khuôn mặt trái xoan thanh tú, mang nét đẹp sắc sảo và lạnh lùng hơn hẳn huynh trưởng Lại Thiên Vũ. Làn da trắng như sứ điểm xuyết bởi một nốt ruồi son nhỏ dưới khóe mắt phải. Đôi mắt nàng màu lam thẫm, luôn lấp lánh sự lanh lợi."
+    },
+    {
+      "id": "lai_nguyet_nhi",
+      "name": "Lại Nguyệt Nhi",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#c8e6c9",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Nhút nhát, Tỉ mỉ, Kiên nhẫn",
+      "description": "Lại Nguyệt Nhi mang dáng vẻ nhỏ bé và đáng yêu, gương mặt tròn trịa luôn điểm một nụ cười rụt rè. Nàng có làn da trắng hồng và đôi mắt to tròn, sáng ngời như ánh trăng. Mái tóc đen nhánh của nàng được búi cao bằng một dải ruy băng màu xanh lục bảo."
+    },
+    {
+      "id": "co_thanh_phong",
+      "name": "Cổ Thanh Phong",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#dcedc8",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Hiếu thắng, Kiêu ngạo, Bao bọc",
+      "description": "Cổ Thanh Phong có vóc dáng cân đối, cao ráo, toát lên vẻ ngạo nghễ của một thiếu gia xuất thân từ gia tộc lớn. Gương mặt hắn góc cạnh, đôi mày kiếm xếch ngược và ánh mắt sáng quắc như sao. Mái tóc đen dài được buộc hờ phía sau, để lòa xòa vài lọn trước trán."
+    },
+    {
+      "id": "co_bach_hac",
+      "name": "Cổ Bạch Hạc",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Hậu Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#f5f5f5",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Ôn hòa, Bao dung, Sâu sắc",
+      "description": "Cổ Bạch Hạc sở hữu một khuôn mặt thanh tú, đường nét hài hòa mang đậm nét thư sinh của con cháu thế gia. Nước da hắn trắng trẻo, đôi mắt màu hổ phách luôn tĩnh lặng như nước mùa thu. Mái tóc đen nhánh của hắn được búi cao, cài bằng một thanh ngọc trâm giản dị."
+    },
+    {
+      "id": "co_tu_van",
+      "name": "Cổ Tử Vân",
+      "title": "Ngoại Môn Đệ Tử",
+      "realm": "Luyện Khí Trung Kỳ",
+      "faction": "Cửu Hoa Kiếm Tông",
+      "region": "Đông Hoang",
+      "role": "supporting",
+      "pov": false,
+      "avatar_color": "#d1c4e9",
+      "race": "Nhân Tộc",
+      "cultivation_technique": "Tiểu Cửu Hoa Kiếm Quyết",
+      "personality": "Vô tư, Ham chơi, Phụ thuộc",
+      "description": "Cổ Tử Vân có vóc dáng nhỏ bé, khuôn mặt tròn trịa dễ thương như búp bê. Làn da nàng trắng trẻo, hai má lúc nào cũng lúm đồng tiền khi cười. Nàng có đôi mắt to tròn, lúng liếng và mái tóc đen dày được búi thành hai quả đào hai bên, cài thêm vài bông hoa tử đằng tím nhạt."
     }
   ],
   "relationships": [
@@ -65151,6 +65376,252 @@ const relationshipData = {
       "target": "lao_thanh_tung",
       "type": "friend",
       "description": "Nhị ca kết nghĩa, phàn nàn quá nghiêm túc"
+    },
+    {
+      "source": "han_phi_tuyet",
+      "target": "han_nguyet_bach",
+      "type": "family",
+      "description": "Đường muội cùng gia tộc, Tuyết luôn tỏ ra nghiêm khắc để che chở muội muội."
+    },
+    {
+      "source": "han_phi_tuyet",
+      "target": "han_thanh_kiem",
+      "type": "family",
+      "description": "Biểu ca, người đưa Tuyết đến với con đường kiếm đạo."
+    },
+    {
+      "source": "han_phi_tuyet",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, vô cùng kính sợ và nể trọng."
+    },
+    {
+      "source": "han_nguyet_bach",
+      "target": "han_phi_tuyet",
+      "type": "family",
+      "description": "Đường tỷ kiêm tấm gương sáng. Nàng vừa kính trọng vừa sợ những lời quở trách của tỷ tỷ."
+    },
+    {
+      "source": "han_nguyet_bach",
+      "target": "han_thanh_kiem",
+      "type": "family",
+      "description": "Biểu ca, người hay lén cho nàng linh thạch để mua kẹo hồ lô."
+    },
+    {
+      "source": "han_nguyet_bach",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, vô cùng kính sợ và nể trọng."
+    },
+    {
+      "source": "han_thanh_kiem",
+      "target": "han_phi_tuyet",
+      "type": "family",
+      "description": "Biểu muội, người mà hắn dẫn dắt vào con đường kiếm đạo và luôn tự hào về sự tiến bộ của nàng."
+    },
+    {
+      "source": "han_thanh_kiem",
+      "target": "han_nguyet_bach",
+      "type": "family",
+      "description": "Biểu muội nhỏ tuổi, luôn thấy phiền nhưng lại không nỡ từ chối khi nàng xin xỏ linh thạch."
+    },
+    {
+      "source": "han_thanh_kiem",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, vô cùng kính sợ và nể trọng."
+    },
+    {
+      "source": "ngo_thanh_son",
+      "target": "ngo_phi_hung",
+      "type": "family",
+      "description": "Biểu đệ, hai người luôn đi chung với nhau từ nhỏ và thường xuyên luyện tập đối kháng."
+    },
+    {
+      "source": "ngo_thanh_son",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, nể trọng và luôn cố gắng hoàn thành tốt nhất các nhiệm vụ hậu cần."
+    },
+    {
+      "source": "ngo_phi_hung",
+      "target": "ngo_thanh_son",
+      "type": "family",
+      "description": "Biểu huynh, người luôn dọn dẹp hậu quả do tính tình nóng nảy của hắn gây ra."
+    },
+    {
+      "source": "ngo_phi_hung",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, tuy sợ bị phạt nhưng hắn vẫn hay cãi cọ vì tính bốc đồng."
+    },
+    {
+      "source": "ngo_thanh_hai",
+      "target": "ngo_thanh_son",
+      "type": "family",
+      "description": "Đường huynh, vô cùng ngưỡng mộ sự điềm tĩnh và đáng tin cậy của huynh ấy."
+    },
+    {
+      "source": "ngo_thanh_hai",
+      "target": "ngo_phi_hung",
+      "type": "family",
+      "description": "Biểu huynh, thường đi theo để quan sát học hỏi sức mạnh chiến đấu."
+    },
+    {
+      "source": "ngo_thanh_hai",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, luôn muốn được ông chỉ dạy nhiều hơn về tu luyện."
+    },
+    {
+      "source": "tiet_bach_van",
+      "target": "tiet_thanh_phong",
+      "type": "family",
+      "description": "Đường huynh, luôn sát cánh và cạnh tranh học hỏi kiếm thuật lẫn nhau."
+    },
+    {
+      "source": "tiet_bach_van",
+      "target": "tiet_tu_duong",
+      "type": "family",
+      "description": "Biểu ca, người hay bắt nạt hắn lúc nhỏ nhưng lại che chở hắn khi vào tông môn."
+    },
+    {
+      "source": "tiet_bach_van",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, vô cùng kính sợ và nể trọng sự nghiêm khắc."
+    },
+    {
+      "source": "tiet_thanh_phong",
+      "target": "tiet_bach_van",
+      "type": "family",
+      "description": "Đường đệ, vô cùng quan tâm và bảo vệ, đồng thời chia sẻ đam mê thi phú."
+    },
+    {
+      "source": "tiet_thanh_phong",
+      "target": "tiet_tu_duong",
+      "type": "family",
+      "description": "Biểu ca, người tuy thô lỗ nhưng là chỗ dựa vững chắc cho cả hai anh em."
+    },
+    {
+      "source": "tiet_thanh_phong",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, vô cùng kính sợ và nể trọng sự nghiêm khắc."
+    },
+    {
+      "source": "tiet_tu_duong",
+      "target": "tiet_bach_van",
+      "type": "family",
+      "description": "Biểu đệ, tuy bề ngoài hay mắng mỏ nhưng bên trong luôn bảo vệ Vân khỏi nguy hiểm."
+    },
+    {
+      "source": "tiet_tu_duong",
+      "target": "tiet_thanh_phong",
+      "type": "family",
+      "description": "Biểu đệ, thường hay cãi cọ về phương pháp luyện kiếm nhưng rất ăn ý khi đánh trận."
+    },
+    {
+      "source": "tiet_tu_duong",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, vô cùng kính sợ và nể trọng sự khắc nghiệt."
+    },
+    {
+      "source": "lai_thien_vu",
+      "target": "lai_thien_suong",
+      "type": "family",
+      "description": "Muội muội sinh đôi, hai người luôn tâm linh tương thông trong từng chiêu thức."
+    },
+    {
+      "source": "lai_thien_vu",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, vô cùng kính sợ và nể trọng sự sâu sắc của ông."
+    },
+    {
+      "source": "lai_thien_suong",
+      "target": "lai_thien_vu",
+      "type": "family",
+      "description": "Huynh trưởng sinh đôi, luôn là bức tường che chắn hoàn hảo cho mọi đòn tấn công của nàng."
+    },
+    {
+      "source": "lai_thien_suong",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, vô cùng kính sợ nhưng thường xuyên nhận được lời khen về thân pháp."
+    },
+    {
+      "source": "lai_nguyet_nhi",
+      "target": "lai_thien_vu",
+      "type": "family",
+      "description": "Biểu huynh, luôn nhìn lên huynh trưởng bằng ánh mắt ngưỡng mộ và muốn học hỏi sự điềm tĩnh của hắn."
+    },
+    {
+      "source": "lai_nguyet_nhi",
+      "target": "lai_thien_suong",
+      "type": "family",
+      "description": "Biểu tỷ, vừa sợ hãi sự lạnh lùng của tỷ tỷ vừa được che chở khỏi những trò bắt nạt."
+    },
+    {
+      "source": "lai_nguyet_nhi",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, vô cùng kính sợ và hay giấu giếm khuyết điểm trước mặt ông."
+    },
+    {
+      "source": "co_thanh_phong",
+      "target": "co_bach_hac",
+      "type": "family",
+      "description": "Biểu huynh, đối thủ truyền kiếp trong dòng họ, hai người luôn cạnh tranh nhau vị trí số một."
+    },
+    {
+      "source": "co_thanh_phong",
+      "target": "co_tu_van",
+      "type": "family",
+      "description": "Đường muội, rất cưng chiều và thường xuyên mang kẹo hồ lô mua ở chân núi cho nàng."
+    },
+    {
+      "source": "co_thanh_phong",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, vô cùng kính sợ nhưng luôn muốn chứng tỏ bản lĩnh để vượt qua cái bóng gia tộc."
+    },
+    {
+      "source": "co_bach_hac",
+      "target": "co_thanh_phong",
+      "type": "family",
+      "description": "Biểu đệ, đối thủ luôn tìm cách khiêu chiến nhưng Hạc luôn nhường nhịn một phần."
+    },
+    {
+      "source": "co_bach_hac",
+      "target": "co_tu_van",
+      "type": "family",
+      "description": "Biểu muội, người mà hắn coi như ánh dương nhỏ, hay mang sách về kể chuyện cho nàng nghe."
+    },
+    {
+      "source": "co_bach_hac",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, vô cùng kính sợ nhưng luôn được khen ngợi vì sự điềm đạm."
+    },
+    {
+      "source": "co_tu_van",
+      "target": "co_thanh_phong",
+      "type": "family",
+      "description": "Đường ca, ngưỡng mộ tốc độ của ca ca nhưng cũng sợ những lúc huynh ấy nổi giận."
+    },
+    {
+      "source": "co_tu_van",
+      "target": "co_bach_hac",
+      "type": "family",
+      "description": "Biểu ca, thích nghe hắn kể chuyện và rất thích quà bánh hắn mua về."
+    },
+    {
+      "source": "co_tu_van",
+      "target": "ngoai_mon_dai_truong_lao",
+      "type": "master",
+      "description": "Sư tôn, luôn sợ hãi ánh mắt nghiêm khắc của ngài khi kiểm tra công khóa."
     }
   ],
   "factions": [
@@ -66114,8 +66585,8 @@ const relationshipData = {
   ],
   "meta": {
     "last_updated": "2026-03-15",
-    "total_characters": 2068,
-    "total_relationships": 5968,
+    "total_characters": 2083,
+    "total_relationships": 6009,
     "scanned_chapters": {
       "Góc_Nhìn_A_Ngốc": 132,
       "Góc_Nhìn_Lệ_Vô_Tâm": 152,
