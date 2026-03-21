@@ -62554,6 +62554,150 @@ const relationshipData = {
       "target": "ha_tu_phong",
       "type": "ally",
       "description": "Cạ cứng đam mê nổ trận pháp, hai người hợp tác lén lút tạo ra các loại băng hỏa bạo phá."
+    },
+    {
+      "source": "hoang_tu_tam",
+      "target": "vuong_tieu_kim",
+      "type": "ally",
+      "description": "Bạn đồng môn luyện khí, thường xuyên qua lại trao đổi kinh nghiệm."
+    },
+    {
+      "source": "hoang_tu_tam",
+      "target": "hoang_tuyet_lien",
+      "type": "ally",
+      "description": "Cùng họ Hoàng, thầm ngưỡng mộ sự băng thanh ngọc khiết của nàng."
+    },
+    {
+      "source": "tran_tieu_nguyet",
+      "target": "vu_phi_kiem",
+      "type": "master",
+      "description": "Sư bá phong chủ, thường xuyên được chỉ điểm về cách vận dụng kiếm ý thanh linh."
+    },
+    {
+      "source": "tran_tieu_nguyet",
+      "target": "vu_nguyet_nhi",
+      "type": "ally",
+      "description": "Tỉ muội cùng phong, hay luyện tập thiền định dưới trăng cùng nhau."
+    },
+    {
+      "source": "ly_hong_hoa",
+      "target": "tran_hong_kiem",
+      "type": "master",
+      "description": "Sư tôn nghiêm khắc, luôn đốc thúc hắn luyện kiếm giữa biển lửa."
+    },
+    {
+      "source": "ly_hong_hoa",
+      "target": "pham_liet_hoa",
+      "type": "ally",
+      "description": "Huynh đệ đồng sinh cộng tử, cả hai thường xuyên tỷ thí đọ sức cháy bỏng."
+    },
+    {
+      "source": "dang_bach_van",
+      "target": "le_han_suong",
+      "type": "master",
+      "description": "Sư bá phong chủ đáng kính, nghiêm khắc chỉ dạy kiếm thuật."
+    },
+    {
+      "source": "dang_bach_van",
+      "target": "truong_bach_kiem",
+      "type": "ally",
+      "description": "Đệ tử chân truyền, luôn là tấm gương để hắn phấn đấu học hỏi tốc độ xuất kiếm."
+    },
+    {
+      "source": "ma_huyen_kiem",
+      "target": "dang_huyen_da",
+      "type": "master",
+      "description": "Sư tôn phong chủ, người truyền dạy bí thuật ẩn nấp và ám sát trong bóng đêm."
+    },
+    {
+      "source": "ma_huyen_kiem",
+      "target": "dang_am_anh",
+      "type": "ally",
+      "description": "Chân truyền sư huynh, thường xuyên giao nhiệm vụ tình báo và cùng thực hiện ám sát mục tiêu khó."
+    },
+    {
+      "source": "pham_thanh_phong",
+      "target": "ly_thanh_phong",
+      "type": "master",
+      "description": "Sư tôn phong chủ, học hỏi từ ông cách phân tích cục diện và xử lý thông tin."
+    },
+    {
+      "source": "pham_thanh_phong",
+      "target": "chu_minh_nguyet",
+      "type": "ally",
+      "description": "Sư muội đồng môn, thường nhờ nàng hỗ trợ tổ chức các buổi trao đổi thông tin của phong."
+    },
+    {
+      "source": "nguyen_kim_lien",
+      "target": "nguyen_tinh_kiem",
+      "type": "master",
+      "description": "Sư tôn phong chủ, truyền dạy y thuật và đan đạo."
+    },
+    {
+      "source": "nguyen_kim_lien",
+      "target": "ly_ngoc_duoc",
+      "type": "ally",
+      "description": "Sư huynh đồng môn, hay cùng nhau thảo luận phương tễ và phối hợp luyện đan."
+    },
+    {
+      "source": "vu_tu_dang",
+      "target": "ma_tu_van",
+      "type": "master",
+      "description": "Sư tôn phong chủ, kính trọng trí tuệ và sự tinh thông trận pháp của ông."
+    },
+    {
+      "source": "vu_tu_dang",
+      "target": "ha_tran_linh",
+      "type": "ally",
+      "description": "Sư muội đồng môn, thường nhờ nàng thử nghiệm sức ép của trận pháp và tư vấn chiến thuật."
+    },
+    {
+      "source": "truong_ngoc_hoa",
+      "target": "nguyen_tinh_kiem",
+      "type": "master",
+      "description": "Sư tôn phong chủ, truyền đạt bí thuật bảo quản dược liệu."
+    },
+    {
+      "source": "truong_ngoc_hoa",
+      "target": "doan_ngoc_tam",
+      "type": "ally",
+      "description": "Sư muội đồng môn, thường nhờ nàng quản lý vườn thảo dược."
+    },
+    {
+      "source": "lam_bach_hac",
+      "target": "le_han_suong",
+      "type": "master",
+      "description": "Sư bá phong chủ, rèn luyện sự dẻo dai và thân pháp nhẹ nhàng như hạc bay."
+    },
+    {
+      "source": "lam_bach_hac",
+      "target": "hoang_tuyet_lien",
+      "type": "ally",
+      "description": "Chân truyền sư tỷ, thường làm mục tiêu cho hắn rèn tốc độ né tránh."
+    },
+    {
+      "source": "chu_tu_mac",
+      "target": "vu_phi_kiem",
+      "type": "master",
+      "description": "Sư tôn phong chủ, tôn kính sự ung dung thiền định và kiếm khí tĩnh lặng của người."
+    },
+    {
+      "source": "chu_tu_mac",
+      "target": "lam_tinh_tam",
+      "type": "ally",
+      "description": "Chân truyền sư tỷ, thường cùng nàng ngâm thơ dưới trăng và đàm đạo về kiếm lý."
+    },
+    {
+      "source": "doan_nguyet_anh",
+      "target": "vu_phi_kiem",
+      "type": "master",
+      "description": "Sư bá phong chủ đáng kính, chỉ dạy sự tĩnh tâm."
+    },
+    {
+      "source": "doan_nguyet_anh",
+      "target": "dang_huyen_da",
+      "type": "ally",
+      "description": "Sư bá phong chủ bên Huyền Hoa Phong, có sự giao lưu bí quyết ẩn nấp dưới ánh trăng."
     }
   ],
   "meta": {
