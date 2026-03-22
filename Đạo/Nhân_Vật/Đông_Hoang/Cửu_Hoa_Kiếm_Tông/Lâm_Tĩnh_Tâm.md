@@ -13,8 +13,23 @@ arcs:
     cultivation: Kim Đan Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1000, 1300, 1250, 950, 1100, 1450]
+    relationships:
+      - character: Vũ Phi Kiếm
+        description: Sư phụ tôn kính, người đã khai sáng tâm cảnh và truyền dạy bí thuật thiền định của Nguyệt Hoa Phong cho nàng.
+        feelings: {yeu: 60, han: 0, kinh: 80, tin: 90, so: 0, on: 50}
+      - character: Vũ Nguyệt Nhi
+        description: Sư muội đồng môn, nàng luôn dành sự quan tâm đặc biệt và thường xuyên cùng muội muội đàm đạo về kiếm ý.
+        feelings: {yeu: 50, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
+      - character: Lý Lục Trần
+        description: Tông Chủ, vị lãnh đạo mà nàng vô cùng ngưỡng mộ về khả năng giữ vững tâm tính trước mọi biến động của thiên hạ.
+        feelings: {yeu: 10, han: 0, kinh: 70, tin: 80, so: 0, on: 10}
+      - character: Lâm Phong
+        description: Đồng tộc hiện là Ngoại Môn Đệ Tử, nàng thầm lo lắng cho hành trình tu luyện đầy trắc trở của y.
+        feelings: {yeu: 20, han: 0, kinh: 0, tin: 60, so: 0, on: 0}
+      - character: Nguyệt Tĩnh Sương
+        description: Sư muội Nội Môn có tâm cảnh thanh khiết, người nàng thường xuyên cùng tọa thiền tại suối linh khí.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 75, so: 0, on: 0}
 ---
 
 # Lâm Tĩnh Tâm (林靜心)

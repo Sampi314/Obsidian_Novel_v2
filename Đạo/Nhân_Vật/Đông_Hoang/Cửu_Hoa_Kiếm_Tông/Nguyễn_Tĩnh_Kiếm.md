@@ -13,8 +13,23 @@ arcs:
     cultivation: Nguyên Anh Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [2800, 4800, 4200, 3200, 3500, 4500]
+    relationships:
+      - character: Lý Lục Trần
+        description: Tông Chủ, vị lãnh đạo mà nàng hết lòng phò tá và tin tưởng tuyệt đối vào đại nghiệp phục hưng tông môn.
+        feelings: {yeu: 10, han: 0, kinh: 80, tin: 90, so: 0, on: 10}
+      - character: Lý Ngọc Dược
+        description: Chân Truyền Đệ Tử, người mà nàng hết mực yêu thương và truyền thụ toàn bộ y lý cũng như kiếm đạo của Ngọc Hoa Phong.
+        feelings: {yeu: 70, han: 0, kinh: 0, tin: 85, so: 0, on: 40}
+      - character: Đoàn Ngọc Tâm
+        description: Chân Truyền Đệ Tử, vị đệ tử có thiên phú mộc hệ xuất sắc, người nàng luôn nhắc nhở phải giữ vững đạo tâm.
+        feelings: {yeu: 60, han: 0, kinh: 0, tin: 80, so: 0, on: 30}
+      - character: Vũ Phi Kiếm
+        description: Đồng liêu Phong Chủ, người thường xuyên phối hợp cùng nàng trong việc cứu trợ và điều trị thương vong sau các trận chiến.
+        feelings: {yeu: 15, han: 0, kinh: 10, tin: 75, so: 0, on: 20}
+      - character: Diệp Tĩnh Sương
+        description: Đệ tử ngoại môn có tư chất băng linh căn hiếm thấy, nàng thầm quan tâm và hy vọng cô bé sẽ sớm vượt qua tâm ma.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 50, so: 0, on: 0}
 ---
 
 # HỒ SƠ NHÂN VẬT: NGUYỄN TĨNH KIẾM (阮靜劍)

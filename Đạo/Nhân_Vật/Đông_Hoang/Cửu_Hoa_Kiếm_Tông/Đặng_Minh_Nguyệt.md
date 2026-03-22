@@ -13,8 +13,23 @@ arcs:
     cultivation: Kim Đan Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1100, 1350, 1200, 1000, 1150, 1400]
+    relationships:
+      - character: Lý Lục Trần
+        description: Tông Chủ, vị lãnh đạo tối cao mà nàng hết mực tôn kính và nguyện cống hiến sức lực để bảo vệ tông môn.
+        feelings: {yeu: 10, han: 0, kinh: 85, tin: 90, so: 0, on: 20}
+      - character: Phạm Kiếm Tâm
+        description: Hộ Pháp, người tiền bối đã khai sáng và dìu dắt nàng những bước đi đầu tiên trên con đường kiếm đạo chân chính.
+        feelings: {yeu: 15, han: 0, kinh: 70, tin: 85, so: 0, on: 40}
+      - character: Đặng Huyền Dạ
+        description: Tộc huynh kiêm Phong Chủ Huyền Hoa Phong, vị tiền bối trong tộc mà nàng vừa kính trọng vừa thầm e sợ vì sự lạnh lùng.
+        feelings: {yeu: 10, han: 0, kinh: 60, tin: 70, so: 20, on: 0}
+      - character: Nguyễn Tĩnh Kiếm
+        description: Trưởng Lão, người thường xuyên dành cho nàng những lời khuyên sâu sắc về việc tu dưỡng tâm tính và y đạo cơ bản.
+        feelings: {yeu: 20, han: 0, kinh: 50, tin: 80, so: 0, on: 10}
+      - character: Diệp Tĩnh Sương
+        description: Sư muội Ngoại Môn, nàng nhận thấy tiềm năng to lớn của cô bé và thường xuyên dành thời gian để hướng dẫn tu luyện.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 60, so: 0, on: 0}
 ---
 
 # HỒ SƠ NHÂN VẬT: ĐẶNG MINH NGUYỆT (鄧明月)

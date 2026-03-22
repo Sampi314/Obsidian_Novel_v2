@@ -13,8 +13,26 @@ arcs:
     cultivation: Luyện Hư Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [6500, 12000, 14500, 8000, 9500, 13000]
+    relationships:
+      - character: Trần Thiên Hoa
+        description: Phó Tông Chủ, đối tác lãnh đạo tin cậy. Nàng lo ngoại giao chính trị, ta lo nội vụ tu luyện.
+        feelings: {yeu: 10, han: 0, kinh: 15, tin: 95, so: 0, on: 10}
+      - character: Lục Kiếm Hoa
+        description: Cháu gái ruột, Thánh Nữ của tông môn. Ta đặt nhiều kỳ vọng vào nàng nhưng cũng lo lắng áp lực sẽ khiến nàng gục ngã.
+        feelings: {yeu: 80, han: 0, kinh: 0, tin: 90, so: 0, on: 20}
+      - character: Vân Thanh Hà
+        description: Thái Thượng Trưởng Lão, vị tiền bối hộ đạo mà ta vô cùng kính trọng. Những lời chỉ điểm của lão tổ luôn là kim chỉ nam cho ta.
+        feelings: {yeu: 10, han: 0, kinh: 95, tin: 90, so: 0, on: 50}
+      - character: Hoàng Thiên Phong
+        description: Hộ Pháp, cánh tay phải đắc lực trong việc duy trì an ninh và quân sự của Cửu Hoa Sơn.
+        feelings: {yeu: 5, han: 0, kinh: 10, tin: 95, so: 0, on: 10}
+      - character: Lý Vân Thiên
+        description: Tông Chủ Vân Tông, vị đồng minh lâu năm và cũng là bằng hữu hiếm hoi có thể cùng ta đàm đạo về thiên hạ đại sự.
+        feelings: {yeu: 20, han: 0, kinh: 20, tin: 80, so: 0, on: 30}
+      - character: Nguyễn Tĩnh Kiếm
+        description: Phong Chủ Ngọc Hoa Phong, người y sư tận tụy mà ta luôn tin tưởng giao phó việc chăm sóc sức khỏe và đạo tâm cho đệ tử toàn tông.
+        feelings: {yeu: 15, han: 0, kinh: 10, tin: 90, so: 0, on: 10}
 ---
 
 # HỒ SƠ NHÂN VẬT: LÝ LỤC TRẦN (李六塵)

@@ -13,8 +13,23 @@ arcs:
     cultivation: Trúc Cơ Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [320, 350, 420, 450, 280, 440]
+    relationships:
+      - character: Lý Thanh Phong
+        description: Sư phụ kiêm Phong Chủ, người hắn tuyệt đối trung thành và coi là ân nhân cứu mạng đã khai sáng con đường tu tiên.
+        feelings: {yeu: 10, han: 0, kinh: 85, tin: 90, so: 0, on: 50}
+      - character: Chu Tiểu Thanh
+        description: Em trai ruột, người thân duy nhất còn lại trên đời, hắn luôn dành mọi tâm huyết để bảo vệ và định hướng cho y.
+        feelings: {yeu: 85, han: 0, kinh: 0, tin: 80, so: 0, on: 20}
+      - character: Lý Thanh Vũ
+        description: Sư tỷ đồng môn, cộng sự đáng tin cậy trong những nhiệm vụ trinh sát sinh tử tại vùng biên giới Đông Hoang.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 85, so: 0, on: 30}
+      - character: Chu Minh Nguyệt
+        description: Đồng môn Chân Truyền, người hắn nể phục về trí tuệ và khả năng xử lý thông tin tình báo đỉnh cao.
+        feelings: {yeu: 10, han: 0, kinh: 30, tin: 70, so: 0, on: 0}
+      - character: Chu Phong Kiếm
+        description: Đồng tộc, hắn thầm dõi theo và ủng hộ sự nỗ lực bền bỉ của y tại Ngoại Môn Viện.
+        feelings: {yeu: 15, han: 0, kinh: 0, tin: 65, so: 0, on: 0}
 ---
 
 # Chu Thanh Trúc (朱青竹)

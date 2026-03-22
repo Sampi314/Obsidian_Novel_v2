@@ -13,8 +13,23 @@ arcs:
     cultivation: Kim Đan Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [850, 1200, 1450, 1100, 900, 1250]
+    relationships:
+      - character: Lý Lục Trần
+        description: Tông Chủ, vị tiền bối tôn kính thường xuyên chỉ điểm cho nàng về cách thức dung hợp hoa đạo vào kiếm đạo.
+        feelings: {yeu: 10, han: 0, kinh: 80, tin: 85, so: 0, on: 20}
+      - character: Lý Thanh Phong
+        description: Sư phụ kiêm Phong Chủ, người đã khai phá thiên phú tình báo và dẫn dắt nàng bước vào con đường bảo vệ tông môn từ trong bóng tối.
+        feelings: {yeu: 40, han: 0, kinh: 20, tin: 90, so: 0, on: 50}
+      - character: Hoàng Thanh Trúc
+        description: Sư đệ Nội Môn, vị đệ tử chất phác mà nàng luôn tận tình chỉ bảo trong các nhiệm vụ tuần tra sơn môn.
+        feelings: {yeu: 50, han: 0, kinh: 0, tin: 75, so: 0, on: 30}
+      - character: Chu Phong Kiếm
+        description: Em họ hiện là Ngoại Môn Đệ Tử, người thân duy nhất của nàng tại Cửu Hoa Sơn, nàng luôn âm thầm dõi theo và hỗ trợ y.
+        feelings: {yeu: 70, han: 0, kinh: 0, tin: 80, so: 0, on: 40}
+      - character: Lục Kiếm Hoa
+        description: Thánh Nữ, người bạn đồng trang lứa mà nàng vừa ngưỡng mộ vừa thầm cạnh tranh về sự tinh diệu của kiếm ý diệu hoa.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 60, so: 10, on: 0}
 ---
 
 # Chu Minh Nguyệt (朱明月)

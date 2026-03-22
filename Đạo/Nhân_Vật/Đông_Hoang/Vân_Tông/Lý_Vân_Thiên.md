@@ -13,8 +13,23 @@ arcs:
     cultivation: Luyện Hư Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [7500, 14500, 13000, 15000, 11000, 14000]
+    relationships:
+      - character: Lý Lục Trần
+        description: Tông Chủ Cửu Hoa Kiếm Tông, vị đồng minh tri kỷ đã cùng ta ước định giữ gìn trật tự của Chính Đạo Đông Hoang suốt nhiều thế kỷ.
+        feelings: {yeu: 20, han: 0, kinh: 20, tin: 85, so: 0, on: 30}
+      - character: Trần Thái Hư
+        description: Thái Thượng Trưởng Lão Vân Tông, người tiền bối đã truyền dạy cho ta những tinh hoa sâu sắc nhất của Thái Hư Vân Du Kiếm.
+        feelings: {yeu: 10, han: 0, kinh: 90, tin: 95, so: 0, on: 50}
+      - character: Hoàng Vân Du
+        description: Chân Truyền Đệ Tử, vị đệ tử đắc ý nhất mà ta luôn đặt kỳ vọng sẽ mang ý chí của Vân Tông vươn xa hơn nữa.
+        feelings: {yeu: 60, han: 0, kinh: 0, tin: 80, so: 0, on: 40}
+      - character: Vân Thanh Hà
+        description: Thái Thượng Trưởng Lão Cửu Hoa Kiếm Tông, ta vô cùng nể trọng tài năng trận pháp vô song và sự hy sinh của nàng cho tông môn.
+        feelings: {yeu: 10, han: 0, kinh: 80, tin: 70, so: 0, on: 0}
+      - character: Lý Mộc Thanh
+        description: Cung Chủ Thanh Đế Cung, đồng minh chiến lược quan trọng trong việc duy trì sự cân bằng của linh mạch mộc hệ tại Đông Hoang.
+        feelings: {yeu: 10, han: 0, kinh: 10, tin: 75, so: 0, on: 20}
 ---
 
 # HỒ SƠ NHÂN VẬT: LÝ VÂN THIÊN (李雲天)

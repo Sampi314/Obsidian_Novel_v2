@@ -1,29 +1,49 @@
 ---
 type: character
-name: Chu Thanh Kiếm
-hantu: 朱清劍
+name: Lý Thanh Vũ
+hantu: 李青羽
 archetype: Chân Truyền Đệ Tử
 race: Nhân Tộc
-dao_tam: ''
+dao_tam: 'Nhất phiến thanh phong, lưu ảnh vô tung'
 age: 76
 avatar: ''
+faction_rank: Chân Truyền Đệ Tử — Thanh Hoa Phong (Đệ tử của Lý Thanh Phong)
 arcs:
   - arc: 1
     status: Còn Sống
     cultivation: Kim Đan Sơ Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    methods: [Thanh Phong Lưu Ảnh Kiếm, Vũ Y Bộ Pháp]
+    inventory:
+      - name: Thanh Vũ Phiến
+        type: Pháp Bảo
+    stats: [850, 1100, 1350, 1450, 800, 1200]
+    relationships:
+      - character: Lý Thanh Phong
+        description: Sư phụ tôn kính, người đã cứu mạng ta từ trong cuồng phong và truyền dạy toàn bộ tinh hoa của Thanh Hoa Phong.
+        feelings: {yeu: 70, han: 0, kinh: 80, tin: 95, so: 0, on: 90}
+      - character: Chu Minh Nguyệt
+        description: Sư muội đồng môn, nàng tuy có phần nghiêm nghị nhưng là cộng sự đáng tin cậy nhất của ta trong mọi nhiệm vụ tình báo.
+        feelings: {yeu: 50, han: 0, kinh: 10, tin: 85, so: 0, on: 30}
+      - character: Lý Lục Trần
+        description: Tông Chủ, vị minh chủ mà ta thề trung thành và nguyện trở thành tai mắt để ngài nắm rõ mọi biến động trong thiên hạ.
+        feelings: {yeu: 10, han: 0, kinh: 80, tin: 90, so: 0, on: 20}
+      - character: Đặng Ám Ảnh
+        description: Chân Truyền Đệ Tử Huyền Hoa Phong, đối thủ cạnh tranh đáng gờm về kỹ thuật ẩn thân và đột kích.
+        feelings: {yeu: 10, han: 0, kinh: 30, tin: 60, so: 10, on: 0}
+      - character: Chu Phong Kiếm
+        description: Sư đệ Ngoại Môn, ta thầm cảm phục sự kiên trì vượt qua nghịch cảnh của y dù thiên phú có hạn.
+        feelings: {yeu: 20, han: 0, kinh: 0, tin: 70, so: 0, on: 10}
 ---
 
-# Chu Thanh Kiếm (朱清劍)
+# HỒ SƠ NHÂN VẬT: LÝ THANH VŨ (李青羽)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Tên:** Chu Thanh Kiếm
-- **Chức Vụ:** Chân Truyền Đệ Tử — Thanh Hoa Phong. Đệ tử của Lý Thanh Phong
-- **Tu Vi:** Kim Đan Sơ Kỳ
-- **Phe Phái:** Cửu Hoa Kiếm Tông
+- **Họ Tên:** Lý Thanh Vũ (李青羽).
+- **Chủng Tộc:** Nhân Tộc.
+- **Tu Vi:** Kim Đan Sơ Kỳ.
+- **Khu Vực:** Đông Hoang.
+- **Thế Lực:** Cửu Hoa Kiếm Tông.
+- **Chức Vụ:** Chân Truyền Đệ Tử.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
 Lý Thanh Vũ sở hữu vóc dáng thư sinh, thanh tú với phong thái điềm đạm. Y thường khoác Thanh Sam có điểm xuyết họa tiết lông vũ bằng chỉ bạc, trên tay lúc nào cũng phe phẩy một chiếc quạt lông chim. Tính cách y bề ngoài hòa nhã, hay cười nhưng bên trong lại vô cùng sắc sảo, cẩn trọng và tính toán sâu xa, rất phù hợp với vị trí tình báo của Thanh Hoa Phong.

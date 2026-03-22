@@ -13,8 +13,23 @@ arcs:
     cultivation: Luyện Hư Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [7000, 13000, 14000, 8500, 11000, 13500]
+    relationships:
+      - character: Vân Thanh Hà
+        description: Đồng liêu Thái Thượng, vị tri kỷ đã cùng ta trải qua hơn hai ngàn năm thăng trầm của tông môn. Một tách trà, một ván cờ với nàng là đủ để thấu hiểu vạn sự.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 95, so: 0, on: 50}
+      - character: Lý Lục Trần
+        description: Tông Chủ hiện tại, vị hậu bối xuất sắc mà ta hết lòng tin tưởng giao phó trọng trách chèo lái con thuyền Cửu Hoa.
+        feelings: {yeu: 10, han: 0, kinh: 20, tin: 90, so: 0, on: 10}
+      - character: Trần Thiên Hoa
+        description: Hậu duệ trực hệ đời thứ 47 của dòng họ Trần, ta dành sự quan tâm đặc biệt và đã truyền thụ nhiều bí thuật cốt lõi của gia tộc cho nàng.
+        feelings: {yeu: 60, han: 0, kinh: 0, tin: 85, so: 0, on: 90}
+      - character: Đoàn Kiếm Sơn
+        description: Đàn em Thái Thượng, một kiếm tu nóng nảy nhưng trọng tình nghĩa, ta luôn phải đóng vai trò người hòa giải mỗi khi hắn và Thanh Hà có bất đồng.
+        feelings: {yeu: 25, han: 0, kinh: 0, tin: 85, so: 0, on: 20}
+      - character: Nguyễn Tĩnh Kiếm
+        description: Trưởng Lão, người thường xuyên cùng ta đàm đạo về sự liên kết giữa y đạo và quy luật sinh diệt của vạn hoa kiếm ý.
+        feelings: {yeu: 15, han: 0, kinh: 10, tin: 80, so: 0, on: 15}
 ---
 
 # HỒ SƠ NHÂN VẬT: TRẦN CỬU HOA (陳九花)

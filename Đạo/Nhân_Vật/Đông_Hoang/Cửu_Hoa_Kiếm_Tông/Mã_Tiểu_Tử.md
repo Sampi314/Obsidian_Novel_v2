@@ -13,8 +13,23 @@ arcs:
     cultivation: Kim Đan Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [850, 1450, 1400, 1100, 1200, 1300]
+    relationships:
+      - character: Mã Tử Vân
+        description: Cô ruột kiêm Sư phụ tôn kính, người đã khai sáng thiên phú trận đạo và truyền dạy bí thuật của Tử Hoa Phong cho nàng.
+        feelings: {yeu: 80, han: 0, kinh: 85, tin: 95, so: 0, on: 60}
+      - character: Hà Trận Linh
+        description: Sư huynh đồng môn, cộng sự ăn ý nhất trong việc triển khai các đại trận hộ sơn và phối hợp chiến đấu thực địa.
+        feelings: {yeu: 40, han: 0, kinh: 10, tin: 90, so: 0, on: 30}
+      - character: Mã Tiểu Trận
+        description: Sư đệ đồng tộc hiện ở Ngoại Môn, nàng luôn dành thời gian để hướng dẫn và truyền đạt kinh nghiệm trận pháp cho y.
+        feelings: {yeu: 60, han: 0, kinh: 0, tin: 80, so: 0, on: 20}
+      - character: Lý Lục Trần
+        description: Tông Chủ, vị lãnh đạo mà nàng hết lòng ngưỡng mộ và nguyện dùng trận đạo của mình để bảo vệ sự bình yên của tông môn.
+        feelings: {yeu: 10, han: 0, kinh: 70, tin: 85, so: 0, on: 10}
+      - character: Chu Minh Nguyệt
+        description: Bạn thân Chân Truyền, hai người thường xuyên cùng nhau thực hiện các nhiệm vụ đòi hỏi sự kết hợp giữa tình báo và cấm chế.
+        feelings: {yeu: 25, han: 0, kinh: 10, tin: 80, so: 0, on: 0}
 ---
 
 # Mã Tiểu Tử (馬小紫)

@@ -13,8 +13,23 @@ arcs:
     cultivation: Nguyên Anh Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [3500, 4500, 3800, 4200, 3200, 4800]
+    relationships:
+      - character: Lý Lục Trần
+        description: Tông Chủ, vị lãnh đạo mà nàng kính trọng về cả thực lực lẫn sự điềm tĩnh trong việc quản lý tông môn.
+        feelings: {yeu: 10, han: 0, kinh: 80, tin: 85, so: 0, on: 10}
+      - character: Trương Bạch Kiếm
+        description: Chân Truyền Đệ Tử, nàng đặt nhiều kỳ vọng vào việc hắn sẽ mang kiếm ý băng sương của Bạch Hoa Phong lên tầm cao mới.
+        feelings: {yeu: 40, han: 0, kinh: 0, tin: 80, so: 0, on: 30}
+      - character: Hoàng Tuyết Liên
+        description: Chân Truyền Đệ Tử, nàng quý trọng sự bền bỉ và đạo tâm vững vàng của cô bé này trong quá trình rèn luyện kiếm pháp.
+        feelings: {yeu: 50, han: 0, kinh: 0, tin: 75, so: 0, on: 20}
+      - character: Nguyễn Tĩnh Kiếm
+        description: Phong Chủ Ngọc Hoa Phong, vị bằng hữu hiếm hoi có thể hiểu được sự cô độc của nàng và thường xuyên đàm đạo về y lý, kiếm đạo.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 85, so: 0, on: 10}
+      - character: Vũ Phi Kiếm
+        description: Đồng liêu Phong Chủ, người thường xuyên cùng nàng thảo luận về việc làm sao để dung hợp tâm cảnh vào trong từng đường kiếm.
+        feelings: {yeu: 15, han: 0, kinh: 10, tin: 70, so: 0, on: 15}
 ---
 
 # HỒ SƠ NHÂN VẬT: LÊ HÀN SƯƠNG (黎寒霜)

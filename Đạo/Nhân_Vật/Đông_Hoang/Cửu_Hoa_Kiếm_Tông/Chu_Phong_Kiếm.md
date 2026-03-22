@@ -13,8 +13,23 @@ arcs:
     cultivation: Trúc Cơ Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [350, 320, 280, 310, 380, 420]
+    relationships:
+      - character: Chu Minh Nguyệt
+        description: Chị họ, vị sư tỷ Chân Truyền luôn là tấm gương sáng và là động lực lớn nhất để hắn nỗ lực xóa bỏ mặc cảm về thiên phú.
+        feelings: {yeu: 85, han: 0, kinh: 40, tin: 90, so: 0, on: 50}
+      - character: Hoàng Thanh Trúc
+        description: Sư huynh Nội Môn, người thường xuyên chỉ điểm cho hắn những sơ hở trong kiếm pháp mỗi khi gặp mặt tại Tàng Kinh Các.
+        feelings: {yeu: 10, han: 0, kinh: 50, tin: 80, so: 0, on: 20}
+      - character: Lâm Phong
+        description: Bằng hữu chí cốt, người đã cùng hắn xông pha trong vòng vây của Huyết Sát Minh để giành lấy sự sống.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 85, so: 0, on: 30}
+      - character: Diệp Tĩnh Sương
+        description: Đồng môn Ngoại Môn, hắn thầm cảm phục sự kiên định của nàng dù tính cách nàng vô cùng lãnh đạm.
+        feelings: {yeu: 15, han: 0, kinh: 30, tin: 70, so: 0, on: 0}
+      - character: Lão Trương
+        description: Tổng Bếp Trưởng, vị tiền bối tốt bụng thường dành cho hắn những phần cơm linh thực đầy đặn sau những giờ luyện kiếm quá muộn.
+        feelings: {yeu: 10, han: 0, kinh: 20, tin: 80, so: 0, on: 40}
 ---
 
 # Chu Phong Kiếm (朱風劍)

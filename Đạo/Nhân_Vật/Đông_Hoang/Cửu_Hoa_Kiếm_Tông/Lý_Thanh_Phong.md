@@ -2,19 +2,34 @@
 type: character
 name: Lý Thanh Phong
 hantu: 李青風
-archetype: Ngoại Môn Đệ Tử
+archetype: Phong Chủ (Quyền)
 race: Nhân Tộc
 origin: Đông Hoang
-faction_rank: Ngoại Môn Đệ Tử
+faction_rank: Phong Chủ — Thanh Hoa Phong (Tình báo & Ngoại giao)
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
-    methods: []
+    methods: [Thanh Hoa Tình Báo Thuật]
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [320, 450, 490, 380, 280, 420]
+    relationships:
+      - character: Lý Lục Trần
+        description: Tông Chủ, người giao phó trọng trách quản lý mạng lưới tình báo cho ta dù tu vi ta chưa cao. Ta thề sẽ không phụ lòng tin của ngài.
+        feelings: {yeu: 10, han: 0, kinh: 85, tin: 95, so: 0, on: 30}
+      - character: Chu Minh Nguyệt
+        description: Chân Truyền Đệ Tử xuất sắc, nàng là cộng sự đắc lực giúp ta xử lý các thông tin ngoại giao phức tạp.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 85, so: 0, on: 10}
+      - character: Lý Thanh Vũ
+        description: Chân Truyền Đệ Tử, đệ tử ta trực tiếp dẫn dắt, có thiên phú đặc biệt về thuật ẩn thân và đột kích.
+        feelings: {yeu: 50, han: 0, kinh: 0, tin: 80, so: 0, on: 40}
+      - character: Lý Vạn Thông
+        description: Tộc thúc, vị tiền bối đã khai sáng cho ta về thuật cảm thụ linh khí và lắng nghe tiếng gió của thiên địa.
+        feelings: {yeu: 10, han: 0, kinh: 70, tin: 90, so: 0, on: 60}
+      - character: Trần Thiên Hoa
+        description: Phó Tông Chủ, vị sư thúc mà ta thường xuyên phối hợp trong các nhiệm vụ đàm phán và thu thập tin tức từ các thế lực đối địch.
+        feelings: {yeu: 15, han: 0, kinh: 20, tin: 80, so: 0, on: 20}
 ---
 
 # HỒ SƠ NHÂN VẬT: LÝ THANH PHONG (李青風)

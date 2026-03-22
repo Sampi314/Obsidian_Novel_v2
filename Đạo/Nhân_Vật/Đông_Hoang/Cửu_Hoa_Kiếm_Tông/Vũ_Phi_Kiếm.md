@@ -5,16 +5,33 @@ hantu: 武飛劍
 archetype: Trưởng Lão
 race: Nhân Tộc
 origin: Đông Hoang
-faction_rank: Trưởng Lão
+faction_rank: Phong Chủ — Nguyệt Hoa Phong (Thiền định & Kiếm ý)
 avatar: ''
 arcs:
   - arc: 1
-    status: Chưa Xác Định
+    status: Còn Sống
     cultivation: Nguyên Anh Trung Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    methods: [Cửu Hoa Kiếm Quyết, Nguyệt Hoa Thiền Định]
+    inventory:
+      - name: Phi Kiếm
+        type: Pháp Bảo
+    stats: [4200, 3800, 3500, 3200, 4500, 4800]
+    relationships:
+      - character: Lý Lục Trần
+        description: Tông Chủ, vị minh chủ mà ta nguyện dâng hiến sức mạnh của Nguyệt Hoa Phong để phò tá.
+        feelings: {yeu: 10, han: 0, kinh: 85, tin: 90, so: 0, on: 20}
+      - character: Vũ Nguyệt Nhi
+        description: Chân Truyền Đệ Tử, nàng không chỉ là đồ đệ mà còn là niềm tự hào về khả năng ngộ đạo của Nguyệt Hoa Phong.
+        feelings: {yeu: 60, han: 0, kinh: 0, tin: 85, so: 0, on: 40}
+      - character: Lâm Tĩnh Tâm
+        description: Chân Truyền Đệ Tử, vị đệ tử có tâm cảnh vững vàng nhất mà ta từng dạy bảo.
+        feelings: {yeu: 50, han: 0, kinh: 0, tin: 80, so: 0, on: 30}
+      - character: Nguyễn Tĩnh Kiếm
+        description: Phong Chủ Ngọc Hoa Phong, vị bằng hữu tâm đầu ý hợp trong việc dùng y đạo và thiền định cứu giúp chúng sinh.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 75, so: 0, on: 10}
+      - character: Lê Hàn Sương
+        description: Phong Chủ Bạch Hoa Phong, ta nể phục tâm cảnh bất biến như băng sương của nàng, dù đôi khi quá mức lạnh lùng.
+        feelings: {yeu: 5, han: 0, kinh: 20, tin: 70, so: 0, on: 0}
 ---
 
 # HỒ SƠ NHÂN VẬT: VŨ PHI KIẾM (武飛劍)

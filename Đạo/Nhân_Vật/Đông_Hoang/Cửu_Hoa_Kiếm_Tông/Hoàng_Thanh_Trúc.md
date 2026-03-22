@@ -13,8 +13,23 @@ arcs:
     cultivation: Trúc Cơ Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [380, 420, 450, 310, 460, 440]
+    relationships:
+      - character: Lý Lục Trần
+        description: Tông Chủ kiêm ân nhân cứu mạng, người hắn thề trung thành tuyệt đối và nguyện làm lá chắn bảo vệ tông môn để đền đáp ơn nghĩa.
+        feelings: {yeu: 10, han: 0, kinh: 90, tin: 95, so: 0, on: 80}
+      - character: Chu Minh Nguyệt
+        description: Sư tỷ Chân Truyền, người hắn vô cùng nể trọng về bản lĩnh và thường xuyên sát cánh hỗ trợ trong các nhiệm vụ quan trọng.
+        feelings: {yeu: 15, han: 0, kinh: 70, tin: 85, so: 0, on: 20}
+      - character: Chu Phong Kiếm
+        description: Sư đệ Ngoại Môn, hắn nhìn thấy sự kiên trì của chính mình trong y nên thường xuyên dành thời gian để hướng dẫn và động viên y tu luyện.
+        feelings: {yeu: 50, han: 0, kinh: 0, tin: 80, so: 0, on: 40}
+      - character: Lý Thanh Phong
+        description: Phong Chủ Thanh Hoa Phong, vị tiền bối thường xuyên tin tưởng giao phó cho hắn những trọng trách canh phòng và bảo vệ các khu vực nhạy cảm.
+        feelings: {yeu: 5, han: 0, kinh: 20, tin: 75, so: 0, on: 0}
+      - character: Chu Thanh Trúc
+        description: Đồng môn Nội Môn, hai người có cùng sở thích nghiên cứu về các loại kiếm pháp phòng ngự dẻo dai và thường xuyên trao đổi kinh nghiệm thực chiến.
+        feelings: {yeu: 10, han: 0, kinh: 10, tin: 70, so: 0, on: 10}
 ---
 
 # Hoàng Thanh Trúc (黃青竹)
