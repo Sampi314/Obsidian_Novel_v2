@@ -38381,6 +38381,96 @@ const relationshipData = {
         "so": 0,
         "on": 30
       }
+    },
+    {
+      "source": "tran-linh-khi",
+      "target": "co-gioi-tu",
+      "value": 0.95,
+      "type": "sư đồ"
+    },
+    {
+      "source": "lam-co-thach",
+      "target": "co-gioi-tu",
+      "value": 0.85,
+      "type": "sư đồ"
+    },
+    {
+      "source": "nguyen-moc-van",
+      "target": "co-moc-luan",
+      "value": 0.95,
+      "type": "sư đồ"
+    },
+    {
+      "source": "le-thiet-kien",
+      "target": "ton-thiet-tinh",
+      "value": 0.9,
+      "type": "sư đồ"
+    },
+    {
+      "source": "vu-hoa-luyen",
+      "target": "hoa-trong-son",
+      "value": 0.9,
+      "type": "sư đồ"
+    },
+    {
+      "source": "chu-hoa-tinh",
+      "target": "hoa-trong-son",
+      "value": 0.9,
+      "type": "sư đồ"
+    },
+    {
+      "source": "dang-luu-tinh",
+      "target": "cao-luu-tinh",
+      "value": 0.9,
+      "type": "sư đồ"
+    },
+    {
+      "source": "pham-kim-giap",
+      "target": "hoang-kim-giap",
+      "value": 0.9,
+      "type": "sư đồ"
+    },
+    {
+      "source": "hoang-chan-loi",
+      "target": "ha-chan-thien",
+      "value": 0.95,
+      "type": "sư đồ"
+    },
+    {
+      "source": "ma-linh-truc",
+      "target": "lam-linh-truc",
+      "value": 0.9,
+      "type": "sư đồ"
+    },
+    {
+      "source": "ton-huyen-khi",
+      "target": "ly-huyen-khi",
+      "value": 0.95,
+      "type": "sư đồ"
+    },
+    {
+      "source": "ho-dong-nguyen",
+      "target": "ly-dong-nguyen",
+      "value": 0.95,
+      "type": "sư đồ"
+    },
+    {
+      "source": "do-ngan-co",
+      "target": "nguyen-ngan-co",
+      "value": 0.95,
+      "type": "sư đồ"
+    },
+    {
+      "source": "luc-co-tam",
+      "target": "nguy-co-tam",
+      "value": 0.9,
+      "type": "sư đồ"
+    },
+    {
+      "source": "truong-phi-pham",
+      "target": "phong-phi-pham",
+      "value": 0.95,
+      "type": "sư đồ"
     }
   ],
   "factions": [],
