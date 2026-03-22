@@ -13,8 +13,17 @@ arcs:
     cultivation: Trúc Cơ Viên Mãn
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [450, 380, 320, 350, 420, 400]
+    relationships:
+      - character: Lý Lục Trần
+        description: Tông chủ tôn kính, vị minh chủ mà hắn thề trung thành.
+        feelings: {yeu: 10, han: 0, kinh: 85, tin: 90, so: 0, on: 20}
+      - character: Phạm Kiếm Tâm
+        description: Hộ pháp trong tộc, vị tiền bối mà hắn luôn ngưỡng mộ.
+        feelings: {yeu: 20, han: 0, kinh: 70, tin: 85, so: 0, on: 30}
+      - character: Trương Bạch Kiếm
+        description: Bạn đồng môn Chân truyền, đối thủ cạnh tranh lành mạnh.
+        feelings: {yeu: 15, han: 0, kinh: 10, tin: 70, so: 0, on: 10}
 ---
 
 # Phạm Kiếm Đồng (范劍銅)

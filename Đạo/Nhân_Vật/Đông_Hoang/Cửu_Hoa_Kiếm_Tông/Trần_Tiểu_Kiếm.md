@@ -13,8 +13,17 @@ arcs:
     cultivation: Kim Đan Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [800, 1150, 1200, 1350, 900, 1300]
+    relationships:
+      - character: Hoàng Thiên Phong
+        description: Hộ pháp tôn kính, người hắn thề trung thành bảo vệ.
+        feelings: {yeu: 10, han: 0, kinh: 85, tin: 90, so: 0, on: 20}
+      - character: Lê Hàn Sương
+        description: Trưởng lão nghiêm khắc, người hắn thường xuyên phối hợp công tác.
+        feelings: {yeu: 5, han: 0, kinh: 70, tin: 80, so: 10, on: 0}
+      - character: Lý Lục Trần
+        description: Tông chủ, vị lãnh đạo mà hắn hết lòng ngưỡng mộ.
+        feelings: {yeu: 10, han: 0, kinh: 80, tin: 85, so: 0, on: 10}
 ---
 
 # HỒ SƠ NHÂN VẬT: TRẦN TIỂU KIẾM (陳小劍)

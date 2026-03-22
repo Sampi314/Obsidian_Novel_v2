@@ -15,6 +15,9 @@ arcs:
     inventory: []
     stats: [1000, 1300, 1250, 950, 1100, 1450]
     relationships:
+      - character: Vũ Nguyệt Hà
+        description: Sư tỷ đồng môn, người luôn dẫn dắt ta trong những ngày đầu bước vào cảnh giới thiền định.
+        feelings: {yeu: 30, han: 0, kinh: 20, tin: 85, so: 0, on: 20}
       - character: Vũ Phi Kiếm
         description: Sư phụ tôn kính, người đã khai sáng tâm cảnh và truyền dạy bí thuật thiền định của Nguyệt Hoa Phong cho nàng.
         feelings: {yeu: 60, han: 0, kinh: 80, tin: 90, so: 0, on: 50}

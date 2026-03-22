@@ -19,6 +19,9 @@ arcs:
         type: Pháp Bảo
     stats: [800, 1150, 1300, 1200, 950, 1400]
     relationships:
+      - character: Vũ Nguyệt Hà
+        description: Tỷ muội đồng tộc, người bạn thơ ấu đã cùng ta trải qua muôn vàn kỷ niệm dưới chân núi Cửu Hoa.
+        feelings: {yeu: 75, han: 0, kinh: 10, tin: 90, so: 0, on: 50}
       - character: Vũ Phi Kiếm
         description: Cha kiêm Sư phụ tôn kính, người đã dìu dắt nàng từ những bước chân đầu tiên trên con đường tu tiên và thiền định.
         feelings: {yeu: 85, han: 0, kinh: 80, tin: 95, so: 0, on: 60}

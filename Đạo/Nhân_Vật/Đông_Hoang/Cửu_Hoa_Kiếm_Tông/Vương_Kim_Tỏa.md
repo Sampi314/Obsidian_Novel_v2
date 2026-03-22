@@ -21,6 +21,9 @@ arcs:
         type: Vật Phẩm
     stats: [3100, 2900, 3600, 3200, 2700, 3500]
     relationships:
+      - character: Nguyễn Kim Lan
+        description: Chân truyền đệ tử, người nàng có thiên phú luyện khí ổn định và tâm tính kiên định.
+        feelings: {yeu: 10, han: 0, kinh: 0, tin: 85, so: 0, on: 20}
       - character: Vương Kim Đức
         description: Cháu trai kiêm Nội Môn Đệ Tử, người mà ông kỳ vọng sẽ kế thừa sản nghiệp rèn đúc của mình
         feelings: {yeu: 8, han: 0, kinh: 0, tin: 8, so: 0, on: 0}

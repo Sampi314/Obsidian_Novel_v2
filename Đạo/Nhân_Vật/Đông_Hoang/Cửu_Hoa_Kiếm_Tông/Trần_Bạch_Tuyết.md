@@ -13,8 +13,17 @@ arcs:
     cultivation: Trúc Cơ Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [380, 420, 450, 350, 320, 440]
+    relationships:
+      - character: Lê Hàn Sương
+        description: Phong chủ tôn kính, người dẫn dắt kiếm đạo băng hàn.
+        feelings: {yeu: 10, han: 0, kinh: 85, tin: 90, so: 0, on: 20}
+      - character: Hoàng Tuyết Liên
+        description: Sư tỷ Chân truyền, người nàng luôn ngưỡng mộ thực lực.
+        feelings: {yeu: 20, han: 0, kinh: 40, tin: 80, so: 0, on: 10}
+      - character: Trương Bạch Kiếm
+        description: Đồng môn thân thiết, cộng sự trong các nhiệm vụ tuần tra.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 85, so: 0, on: 15}
 ---
 
 # Trần Bạch Tuyết (陈白雪)

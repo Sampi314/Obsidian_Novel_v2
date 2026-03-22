@@ -13,8 +13,17 @@ arcs:
     cultivation: Phàm Nhân
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [70, 10, 150, 30, 40, 15]
+    relationships:
+      - character: Lão Trương
+        description: Bạn nhậu vong niên, người thường xuyên đổi củi lấy canh nóng.
+        feelings: {yeu: 50, han: 0, kinh: 10, tin: 90, so: 0, on: 40}
+      - character: Nguyễn Đại Chùy
+        description: Đồng hương khắc khẩu, đối thủ tranh luận về tầm quan trọng của nghề nghiệp.
+        feelings: {yeu: 20, han: 10, kinh: 30, tin: 80, so: 0, on: 10}
+      - character: Phạm Gánh Nước
+        description: Bạn đồng cảnh ngộ tại Hậu Cần Đường.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
 ---
 
 # Nguyễn Văn Mộc (阮文木)

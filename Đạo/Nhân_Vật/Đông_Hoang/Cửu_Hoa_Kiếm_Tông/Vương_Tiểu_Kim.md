@@ -21,6 +21,9 @@ arcs:
         type: Vật Phẩm
     stats: [2300, 2100, 2800, 2400, 1900, 2600]
     relationships:
+      - character: Nguyễn Kim Lan
+        description: Sư tỷ đồng môn, người luôn kiên nhẫn sửa chữa những món pháp bảo ta làm nổ tung.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 80, so: 0, on: 10}
       - character: Vương Kim Tỏa
         description: Sư tôn kiêm Phong Chủ, ngài cưng chiều sự sáng tạo của nàng nhưng cũng hay "đau tim" vì những vụ nổ
         feelings: {yeu: 8, han: 0, kinh: 8, tin: 9, so: 2, on: 9}

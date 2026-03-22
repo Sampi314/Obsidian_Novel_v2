@@ -13,8 +13,17 @@ arcs:
     cultivation: Phàm Nhân
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [60, 15, 120, 40, 30, 10]
+    relationships:
+      - character: Lão Trương
+        description: Cấp trên trực tiếp, người dạy nàng các món linh thực.
+        feelings: {yeu: 20, han: 0, kinh: 60, tin: 85, so: 10, on: 20}
+      - character: Phạm Gánh Nước
+        description: Người gánh nước cần mẫn, nàng thường để dành cơm cho lão.
+        feelings: {yeu: 40, han: 0, kinh: 10, tin: 80, so: 0, on: 15}
+      - character: Nguyễn Văn Mộc
+        description: Vị thợ mộc hay sửa bàn ghế cho nhà bếp.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 75, so: 0, on: 10}
 ---
 
 # Trần Thị Nấu (陳氏煮)

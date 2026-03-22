@@ -13,8 +13,17 @@ arcs:
     cultivation: Trúc Cơ Trung Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [350, 420, 310, 380, 320, 450]
+    relationships:
+      - character: Trần Hồng Kiếm
+        description: Sư bá tôn kính, Phong chủ Hồng Hoa Phong.
+        feelings: {yeu: 10, han: 0, kinh: 85, tin: 80, so: 20, on: 15}
+      - character: Phạm Liệt Hỏa
+        description: Anh trai ruột, vừa nghiêm khắc vừa bảo bọc muội muội hết mực.
+        feelings: {yeu: 90, han: 10, kinh: 20, tin: 95, so: 10, on: 50}
+      - character: Trần Hồng Nhi
+        description: Tỷ muội thân thiết, cộng sự trong những lần trốn tập đi chơi.
+        feelings: {yeu: 60, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
 ---
 
 # Phạm Hồng Diệm (范红焰)

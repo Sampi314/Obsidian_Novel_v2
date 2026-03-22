@@ -13,8 +13,17 @@ arcs:
     cultivation: Kim Đan Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1200, 1100, 950, 1350, 1000, 1450]
+    relationships:
+      - character: Trần Hồng Kiếm
+        description: Sư phụ tôn kính, người rèn giũa ý chí chiến đấu.
+        feelings: {yeu: 10, han: 0, kinh: 90, tin: 85, so: 0, on: 30}
+      - character: Trần Hồng Nhi
+        description: Sư muội đồng môn, người nàng luôn bảo bọc trong chiến đấu.
+        feelings: {yeu: 50, han: 0, kinh: 10, tin: 80, so: 0, on: 20}
+      - character: Phạm Liệt Hỏa
+        description: Đồng môn Chân truyền, vị chiến hữu dũng mãnh.
+        feelings: {yeu: 20, han: 0, kinh: 30, tin: 85, so: 0, on: 15}
 ---
 
 # Trần Hồng Diệp (陳紅葉)

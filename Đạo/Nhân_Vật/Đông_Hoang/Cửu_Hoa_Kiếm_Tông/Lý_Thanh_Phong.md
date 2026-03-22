@@ -15,6 +15,9 @@ arcs:
     inventory: []
     stats: [320, 450, 490, 380, 280, 420]
     relationships:
+      - character: Lý Thanh Hà
+        description: Đệ tử nội môn đắc lực, tai mắt tin cậy của ta trong việc thu thập tin tức giang hồ.
+        feelings: {yeu: 10, han: 0, kinh: 0, tin: 90, so: 0, on: 20}
       - character: Lý Lục Trần
         description: Tông Chủ, người giao phó trọng trách quản lý mạng lưới tình báo cho ta dù tu vi ta chưa cao. Ta thề sẽ không phụ lòng tin của ngài.
         feelings: {yeu: 10, han: 0, kinh: 85, tin: 95, so: 0, on: 30}

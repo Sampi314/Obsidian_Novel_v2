@@ -15,6 +15,15 @@ arcs:
     inventory: []
     stats: [3500, 4500, 3800, 4200, 3200, 4800]
     relationships:
+      - character: Trần Bạch Tuyết
+        description: Đệ tử nội môn kiên định, người mang kiếm ý băng sương thuần khiết nhất của Bạch Hoa Phong.
+        feelings: {yeu: 10, han: 0, kinh: 0, tin: 85, so: 0, on: 20}
+      - character: Trương Bạch Kiếm
+        description: Chân truyền đệ tử, niềm hy vọng lớn nhất của ta về việc kế thừa ý chí của Bạch Hoa.
+        feelings: {yeu: 30, han: 0, kinh: 0, tin: 90, so: 0, on: 40}
+      - character: Trần Tiểu Kiếm
+        description: Hậu bối nội môn, ta đánh giá cao sự nỗ lực và phối hợp nhịp nhàng của hắn trong nhiệm vụ.
+        feelings: {yeu: 5, han: 0, kinh: 0, tin: 80, so: 0, on: 10}
       - character: Lý Lục Trần
         description: Tông Chủ, vị lãnh đạo mà nàng kính trọng về cả thực lực lẫn sự điềm tĩnh trong việc quản lý tông môn.
         feelings: {yeu: 10, han: 0, kinh: 80, tin: 85, so: 0, on: 10}

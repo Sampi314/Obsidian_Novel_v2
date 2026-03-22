@@ -13,8 +13,17 @@ arcs:
     cultivation: Kim Đan Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1100, 1350, 1200, 1400, 950, 1300]
+    relationships:
+      - character: Vương Kim Tỏa
+        description: Sư phụ tôn kính, Phong chủ Kim Hoa Phong.
+        feelings: {yeu: 10, han: 0, kinh: 90, tin: 85, so: 0, on: 30}
+      - character: Vương Tiểu Kim
+        description: Sư muội đồng môn, thiên tài luyện khí đầy phá hoại.
+        feelings: {yeu: 40, han: 0, kinh: 10, tin: 70, so: 20, on: 10}
+      - character: Vương Kim Đức
+        description: Sư đệ Nội môn, người nàng hay hướng dẫn kỹ thuật rèn đúc.
+        feelings: {yeu: 30, han: 0, kinh: 0, tin: 80, so: 0, on: 15}
 ---
 
 # Nguyễn Kim Lan (阮金蘭)

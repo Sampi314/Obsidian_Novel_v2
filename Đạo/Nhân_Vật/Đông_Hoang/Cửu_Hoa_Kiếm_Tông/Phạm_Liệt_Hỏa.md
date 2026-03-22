@@ -23,6 +23,12 @@ arcs:
         type: Pháp Bảo
     stats: [1400, 1200, 800, 900, 1100, 900]
     relationships:
+      - character: Phạm Hồng Diệm
+        description: Muội muội ruột thịt, dù tính cách bốc đồng nhưng ta sẽ dùng cả mạng sống bảo vệ nàng.
+        feelings: {yeu: 95, han: 0, kinh: 0, tin: 90, so: 0, on: 60}
+      - character: Trần Hồng Diệp
+        description: Sư tỷ đồng môn, cộng sự ăn ý trong các trận chiến càn quét ma đạo.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 85, so: 0, on: 10}
       - character: Trần Hồng Kiếm
         description: Sư phụ Hồng Hoa Phong Chủ, người nhặt hắn từ chiến trường khi mới 14 tuổi. Hắn trung thành tuyệt đối — không phải vì sư đồ mà vì sư phụ là người đầu tiên cho hắn lý do sống ngoài sự thù hận.
         feelings:

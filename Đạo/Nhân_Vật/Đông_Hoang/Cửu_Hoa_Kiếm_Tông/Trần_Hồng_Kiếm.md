@@ -26,6 +26,12 @@ arcs:
         type: Pháp Bảo
     stats: [6500, 5800, 4500, 4000, 5000, 5500]
     relationships:
+      - character: Phạm Hồng Diệm
+        description: Đệ tử nội môn có nhiệt huyết rực lửa, ta thấy được tiềm năng chiến thần trong mắt cô bé.
+        feelings: {yeu: 10, han: 0, kinh: 0, tin: 80, so: 0, on: 20}
+      - character: Trần Hồng Diệp
+        description: Chân truyền đệ tử, vị chiến hữu đáng tin cậy luôn bảo vệ hậu phương cho đội đột kích.
+        feelings: {yeu: 20, han: 0, kinh: 0, tin: 85, so: 0, on: 15}
       - character: Trần Hồng Nhi
         description: Con gái duy nhất, huyết mạch Hồng Hoa. Ông yêu thương con vô hạn nhưng không bao giờ cho con đặc quyền — "trên chiến trường không có con gái Phong Chủ, chỉ có đệ tử Hồng Hoa." Nỗi đau lớn nhất của ông là biết con gái sẽ phải đối mặt chiến trận mà ông không thể bảo vệ mãi.
         feelings:

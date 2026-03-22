@@ -13,8 +13,17 @@ arcs:
     cultivation: Kim Đan Sơ Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [1000, 1450, 1300, 1150, 900, 1250]
+    relationships:
+      - character: Vũ Phi Kiếm
+        description: Sư phụ tôn kính, Phong chủ Nguyệt Hoa Phong.
+        feelings: {yeu: 10, han: 0, kinh: 90, tin: 85, so: 0, on: 30}
+      - character: Lâm Tĩnh Tâm
+        description: Sư huynh đồng môn, người nàng luôn học hỏi về tâm cảnh.
+        feelings: {yeu: 40, han: 0, kinh: 20, tin: 80, so: 0, on: 15}
+      - character: Vũ Nguyệt Nhi
+        description: Tỷ muội đồng tộc, cùng nhau lớn lên dưới chân núi Cửu Hoa.
+        feelings: {yeu: 70, han: 0, kinh: 10, tin: 90, so: 0, on: 40}
 ---
 
 # Vũ Nguyệt Hà (武月河)

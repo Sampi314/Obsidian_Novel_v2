@@ -23,6 +23,12 @@ arcs:
         type: Pháp Bảo
     stats: [1300, 1300, 1000, 1100, 1000, 1200]
     relationships:
+      - character: Phạm Hồng Diệm
+        description: Tỷ muội thân thiết, người luôn cùng ta chia sẻ những rắc rối và niềm vui trong tu luyện.
+        feelings: {yeu: 70, han: 0, kinh: 0, tin: 85, so: 0, on: 30}
+      - character: Trần Hồng Diệp
+        description: Sư tỷ Chân truyền, người nàng luôn kính trọng và học hỏi về sự điềm tĩnh trong chiến đấu.
+        feelings: {yeu: 40, han: 0, kinh: 20, tin: 80, so: 0, on: 10}
       - character: Trần Hồng Kiếm
         description: Cha và sư phụ. Ông không bao giờ cho nàng đặc quyền — nghiêm khắc nhất với nàng trong ba đệ tử. Nàng vừa yêu cha vừa oán vì ông giấu mọi thứ về mẹ. Nhưng nàng biết: mỗi đêm ông lén kiểm tra phòng nàng, 90 năm không ngừng.
         feelings:

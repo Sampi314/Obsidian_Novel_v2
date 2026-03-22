@@ -21,6 +21,15 @@ arcs:
         type: Vật Phẩm
     stats: [2, 1, 2, 5, 4, 3]
     relationships:
+      - character: Nguyễn Văn Mộc
+        description: Bạn rượu thân thiết, thợ mộc tài hoa hay giúp ta sửa sang vật dụng trong bếp.
+        feelings: {yeu: 50, han: 0, kinh: 10, tin: 90, so: 0, on: 30}
+      - character: Phạm Gánh Nước
+        description: Người gánh nước lầm lì, ta luôn nể phục sự bền bỉ vô song của lão.
+        feelings: {yeu: 40, han: 0, kinh: 20, tin: 85, so: 0, on: 20}
+      - character: Trần Thị Nấu
+        description: Phụ tá bếp núc siêng năng, người học trò ta tin tưởng nhất trong việc nấu linh thực.
+        feelings: {yeu: 30, han: 0, kinh: 0, tin: 85, so: 0, on: 10}
       - character: Lý Lục Trần
         description: Tông Chủ hiện tại, vị thứ ba mà ông phục vụ, ông biết ngài thích ăn gì lúc vui lúc buồn
         feelings: {yeu: 5, han: 0, kinh: 7, tin: 8, so: 0, on: 6}

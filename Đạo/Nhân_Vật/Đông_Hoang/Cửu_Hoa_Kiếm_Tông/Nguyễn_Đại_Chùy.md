@@ -21,6 +21,9 @@ arcs:
         type: Vật Phẩm
     stats: [5, 2, 4, 3, 3, 5]
     relationships:
+      - character: Nguyễn Văn Mộc
+        description: Đồng hương đồng khói, dù hay cãi vã nhưng ta rất trọng tay nghề mộc của lão.
+        feelings: {yeu: 20, han: 10, kinh: 10, tin: 80, so: 0, on: 10}
       - character: Vương Thiết Kiếm
         description: Hộ Pháp canh cổng, khách hàng thường xuyên, ông Vương hay mang kiếm đến sửa
         feelings: {yeu: 3, han: 0, kinh: 5, tin: 8, so: 0, on: 4}

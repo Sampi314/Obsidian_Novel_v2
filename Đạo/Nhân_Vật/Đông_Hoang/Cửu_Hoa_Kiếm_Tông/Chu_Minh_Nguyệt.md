@@ -15,6 +15,9 @@ arcs:
     inventory: []
     stats: [850, 1200, 1450, 1100, 900, 1250]
     relationships:
+      - character: Lý Thanh Hà
+        description: Sư muội Nội môn, cộng sự nhạy bén thường xuyên hỗ trợ ta trong các nhiệm vụ ngoại giao.
+        feelings: {yeu: 15, han: 0, kinh: 0, tin: 85, so: 0, on: 10}
       - character: Lý Lục Trần
         description: Tông Chủ, vị tiền bối tôn kính thường xuyên chỉ điểm cho nàng về cách thức dung hợp hoa đạo vào kiếm đạo.
         feelings: {yeu: 10, han: 0, kinh: 80, tin: 85, so: 0, on: 20}

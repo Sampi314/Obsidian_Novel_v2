@@ -13,8 +13,17 @@ arcs:
     cultivation: Trúc Cơ Hậu Kỳ
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [320, 450, 490, 410, 280, 350]
+    relationships:
+      - character: Lý Thanh Phong
+        description: Phong chủ tôn kính, người trực tiếp truyền dạy kỹ năng tình báo.
+        feelings: {yeu: 10, han: 0, kinh: 80, tin: 90, so: 0, on: 20}
+      - character: Chu Minh Nguyệt
+        description: Đồng môn Chân truyền, cộng sự tin cậy trong các nhiệm vụ ngoại giao.
+        feelings: {yeu: 20, han: 0, kinh: 30, tin: 85, so: 0, on: 10}
+      - character: Lý Ngọc Phong
+        description: Bằng hữu thân thiết khác phong, đối tác trao đổi tin tức và đan dược.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 80, so: 0, on: 15}
 ---
 
 # Lý Thanh Hà (李青霞)

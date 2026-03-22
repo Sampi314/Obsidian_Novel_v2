@@ -18,6 +18,9 @@ arcs:
         type: Pháp Bảo
     stats: [320, 410, 450, 350, 300, 420]
     relationships:
+      - character: Lý Thanh Hà
+        description: Bạn tâm giao khác phong, người thường xuyên mang đến những tin tức thú vị đổi lấy linh thảo.
+        feelings: {yeu: 10, han: 0, kinh: 0, tin: 85, so: 0, on: 10}
       - character: Lý Ngọc Dược
         description: Sư huynh Chân Truyền, hình mẫu lý tưởng mà hắn luôn bám gót để học hỏi kỹ thuật luyện đan.
         feelings: {yeu: 75, han: 0, kinh: 60, tin: 90, so: 0, on: 50}

@@ -13,8 +13,17 @@ arcs:
     cultivation: Phàm Nhân
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [120, 10, 180, 50, 100, 30]
+    relationships:
+      - character: Phạm Thị Lan
+        description: Người cháu họ xa, người lão luôn dành phần nước sạch nhất.
+        feelings: {yeu: 60, han: 0, kinh: 10, tin: 80, so: 0, on: 30}
+      - character: Lão Trương
+        description: Bạn thân tốt bụng, thường để dành cơm thịt cho lão.
+        feelings: {yeu: 50, han: 0, kinh: 10, tin: 90, so: 0, on: 40}
+      - character: Nguyễn Văn Mộc
+        description: Bạn bè tại Hậu Cần Đường.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
 ---
 
 # Phạm Gánh Nước (范擔水)

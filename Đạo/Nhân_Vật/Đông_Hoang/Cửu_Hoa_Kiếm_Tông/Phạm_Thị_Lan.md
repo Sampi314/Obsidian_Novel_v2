@@ -19,6 +19,9 @@ arcs:
         type: Vật Phẩm
     stats: [2, 1, 1, 5, 4, 3]
     relationships:
+      - character: Phạm Gánh Nước
+        description: Tộc thúc tôn kính, người ông luôn dành cho ta nguồn nước tinh khiết nhất để giặt đồ.
+        feelings: {yeu: 60, han: 0, kinh: 30, tin: 90, so: 0, on: 40}
       - character: Lý Thanh Liên
         description: Hộ Pháp y sư, hay gửi đồ giặt dính máu thương binh, rất cảm kích bà ấy cứu người
         feelings: {yeu: 4, han: 0, kinh: 5, tin: 8, so: 0, on: 3}

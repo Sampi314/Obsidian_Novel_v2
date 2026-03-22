@@ -13,8 +13,20 @@ arcs:
     cultivation: Nguyên Anh Đỉnh Phong
     methods: []
     inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    stats: [4500, 4200, 3800, 4800, 4600, 4400]
+    relationships:
+      - character: Lý Lục Trần
+        description: Tông chủ, vị lãnh đạo tối cao mà nàng hết mực phò tá.
+        feelings: {yeu: 10, han: 0, kinh: 90, tin: 95, so: 0, on: 30}
+      - character: Hoàng Thiên Phong
+        description: Đồng liêu Hộ pháp, người bạn già chiến đấu đáng tin cậy.
+        feelings: {yeu: 15, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
+      - character: Nguyễn Tĩnh Kiếm
+        description: Phong chủ Ngọc Hoa, vị bằng hữu thường xuyên hỗ trợ y thuật.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 80, so: 0, on: 15}
+      - character: Phạm Kiếm Đồng
+        description: Hậu bối trong tộc, người nàng đặt nhiều kỳ vọng.
+        feelings: {yeu: 40, han: 0, kinh: 0, tin: 85, so: 0, on: 25}
 ---
 
 # HỒ SƠ NHÂN VẬT: PHẠM KIẾM TÂM (范劍心)

@@ -14,7 +14,16 @@ arcs:
     methods: []
     inventory: []
     stats: [60, 55, 70, 80, 45, 65]
-    relationships: []
+    relationships:
+      - character: Tần Thanh Vũ
+        description: Sư huynh đồng môn, người luôn kiên nhẫn chỉ bảo.
+        feelings: {yeu: 50, han: 0, kinh: 20, tin: 90, so: 0, on: 30}
+      - character: Lục Tiểu Vân
+        description: Bạn cùng khóa, đối thủ cạnh tranh tích cực.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 80, so: 0, on: 10}
+      - character: Cao Phong Kiếm
+        description: Sư huynh giúp đỡ hướng dẫn kiếm thuật cơ bản.
+        feelings: {yeu: 15, han: 0, kinh: 40, tin: 70, so: 0, on: 5}
 ---
 
 # Tần Tiểu Kiếm (秦小剑)

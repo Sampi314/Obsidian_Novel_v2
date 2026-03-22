@@ -15,6 +15,15 @@ arcs:
     inventory: []
     stats: [6500, 12000, 14500, 8000, 9500, 13000]
     relationships:
+      - character: Phạm Kiếm Đồng
+        description: Đệ tử nội môn trung thành, người luôn tận tụy trong các công việc sự vụ của tông môn.
+        feelings: {yeu: 10, han: 0, kinh: 0, tin: 85, so: 0, on: 10}
+      - character: Phạm Kiếm Tâm
+        description: Hộ pháp đắc lực, cánh tay trái vững chắc trong việc duy trì trật tự và an ninh sơn môn.
+        feelings: {yeu: 10, han: 0, kinh: 15, tin: 95, so: 0, on: 20}
+      - character: Trần Tiểu Kiếm
+        description: Hậu bối nội môn tiềm năng, ta thấy được bóng dáng của sự kiên định trong đường kiếm của hắn.
+        feelings: {yeu: 5, han: 0, kinh: 0, tin: 80, so: 0, on: 5}
       - character: Trần Thiên Hoa
         description: Phó Tông Chủ, đối tác lãnh đạo tin cậy. Nàng lo ngoại giao chính trị, ta lo nội vụ tu luyện.
         feelings: {yeu: 10, han: 0, kinh: 15, tin: 95, so: 0, on: 10}

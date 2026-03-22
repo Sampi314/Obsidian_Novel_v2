@@ -23,6 +23,12 @@ arcs:
         type: Vật Phẩm
     stats: [3800, 3100, 4000, 2500, 2800, 3200]
     relationships:
+      - character: Phạm Kiếm Tâm
+        description: Đồng liêu Hộ pháp, vị bằng hữu đã cùng ta xông pha bao trận chiến sinh tử.
+        feelings: {yeu: 15, han: 0, kinh: 10, tin: 90, so: 0, on: 20}
+      - character: Trần Tiểu Kiếm
+        description: Sư đệ nội môn, người ta tin tưởng giao phó việc tuần tra các khu vực trọng yếu.
+        feelings: {yeu: 5, han: 0, kinh: 0, tin: 85, so: 0, on: 10}
       - character: Hoàng Thiên Dực
         description: Con trai, hắn luôn đặt kỳ vọng cao và rèn luyện nghiêm khắc, hy vọng con sẽ trở thành trụ cột của tông môn.
         feelings: {yeu: 8, han: 0, kinh: 0, tin: 7, so: 0, on: 0}

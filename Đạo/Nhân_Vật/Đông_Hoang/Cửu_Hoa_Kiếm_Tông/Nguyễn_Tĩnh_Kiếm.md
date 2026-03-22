@@ -15,6 +15,12 @@ arcs:
     inventory: []
     stats: [2800, 4800, 4200, 3200, 3500, 4500]
     relationships:
+      - character: Phạm Kiếm Tâm
+        description: Hộ pháp thân thiết, người luôn hỗ trợ ta trong việc thiết lập các trạm cứu thương tiền tuyến.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 85, so: 0, on: 15}
+      - character: Đoàn Ngọc Hà
+        description: Đệ tử nội môn tận tụy, người y sư trẻ có thiên phú và tấm lòng nhân hậu hiếm thấy.
+        feelings: {yeu: 50, han: 0, kinh: 0, tin: 90, so: 0, on: 40}
       - character: Lý Lục Trần
         description: Tông Chủ, vị lãnh đạo mà nàng hết lòng phò tá và tin tưởng tuyệt đối vào đại nghiệp phục hưng tông môn.
         feelings: {yeu: 10, han: 0, kinh: 80, tin: 90, so: 0, on: 10}

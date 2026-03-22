@@ -1,28 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(rm:*)",
-      "Bash(ls:*)",
-      "Bash(mv:*)",
-      "Bash(xargs grep:*)",
-      "Bash(wc:*)",
-      "Bash(for f in Chương_00036_Bí_Mật_Rừng_Thiên_Trụ.md Chương_00038_Lối_Mòn_Trong_Bão.md Chương_00039_Ranh_Giới_Tử_Thần.md Chương_00040_Vòng_Vây_Huyết_Lang.md Chương_Mẫu_Huyền_Băng.md)",
-      "Bash(do echo \"=== $f ===\")",
-      "Read(//c/Users/SamNgo/Documents/GitHub/Obsidian_Novel_v2/**)",
-      "Bash(done)",
-      "Bash(for f in Chương_00036_Bí_Mật_Rừng_Thiên_Trụ.md Chương_00038_Lối_Mòn_Trong_Bão.md Chương_00039_Ranh_Giới_Tử_Thần.md Chương_00040_Vòng_Vây_Huyết_Lang.md)",
-      "Bash(grep:*)",
-      "Bash(node:*)",
-      "Bash(git push:*)",
-      "Bash(git:*)",
-      "mcp__plugin_playwright_playwright__browser_navigate",
-      "mcp__plugin_playwright_playwright__browser_take_screenshot",
-      "mcp__plugin_playwright_playwright__browser_press_key",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8765/index.html 2>/dev/null || echo \"Server not running\")",
-      "mcp__plugin_playwright_playwright__browser_evaluate",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://127.0.0.1:8001/voices 2>/dev/null || echo \"NOT_RUNNING\")",
-      "Bash(curl -s -o /tmp/test_tts.mp3 -w \"HTTP %{http_code}, size: %{size_download} bytes\" \"https://tts.travisvn.com/api/tts?text=Xin+ch%C3%A0o&voice=vi-VN-HoaiMyNeural&rate=0%25\" 2>&1)",
-      "Bash(python3 scripts/faction_population_gap.py all)"
+      "Bash(*)",
+      "Read(*)",
+      "Write(*)",
+      "Edit(*)",
+      "Agent(*)",
+      "mcp__plugin_playwright_playwright__*",
+      "mcp__claude-in-chrome__*"
     ]
   },
   "remote": {
