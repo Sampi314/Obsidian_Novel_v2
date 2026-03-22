@@ -38471,6 +38471,396 @@ const relationshipData = {
       "target": "phong-phi-pham",
       "value": 0.95,
       "type": "sư đồ"
+    },
+    {
+      "source": "duong-co-kiem",
+      "target": "nguyen-dai-chuy",
+      "description": "Tổng Quản Rèn Đúc là nguồn cung cấp phế phẩm kiếm cho Dương Cổ Kiếm đi bán dạo.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 40,
+        "tin": 60,
+        "so": 20,
+        "on": 30
+      }
+    },
+    {
+      "source": "duong-co-kiem",
+      "target": "duong-tram-moc",
+      "description": "Em trai họ, thường nhờ Trầm Mộc đẽo vỏ kiếm gỗ cho các thanh phi kiếm phế phẩm.",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 0,
+        "tin": 70,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "duong-tram-moc",
+      "target": "duong-co-kiem",
+      "description": "Anh họ làm thợ bán kiếm dạo, thường xuyên nhờ đẽo vỏ kiếm và chuôi kiếm bằng gỗ.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 20,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "duong-tram-moc",
+      "target": "truong-truc-thanh",
+      "description": "Người xây tường cùng làm ở Hậu Cần Đường, hay đổi ván gỗ lấy gạch vụn và thức ăn ngon.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 10,
+        "tin": 50,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "duong-thanh-y",
+      "target": "pham-thi-lan",
+      "description": "Quản Sự Giặt Giũ trực tiếp quản lý, cung cấp vải lụa đã giặt để Thanh Y nhuộm lại cho đệ tử.",
+      "feelings": {
+        "yeu": 30,
+        "han": 0,
+        "kinh": 50,
+        "tin": 60,
+        "so": 10,
+        "on": 20
+      }
+    },
+    {
+      "source": "duong-thanh-y",
+      "target": "duong-co-kiem",
+      "description": "Thúc phụ (chú họ), thường mang những dải lụa hỏng về cho Thanh Y làm nơ buộc chuôi kiếm bán dạo.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 20,
+        "tin": 50,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "tao-tai-dao",
+      "target": "lao-truong",
+      "description": "Tổng Bếp Trưởng, người chuyên giao nhiệm vụ cõng gạo và rau củ lên đỉnh Thiên Hoa Phong.",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 60,
+        "tin": 70,
+        "so": 10,
+        "on": 40
+      }
+    },
+    {
+      "source": "tao-tai-dao",
+      "target": "tao-tuu-su",
+      "description": "Bác ruột, người thợ ủ rượu, hay thưởng cho một gáo rượu gạo sau những chuyến vận chuyển dài vất vả.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 30,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "tao-hoa-lo",
+      "target": "nguyen-dai-chuy",
+      "description": "Tổng Quản Rèn Đúc là người giao việc giữ ngọn lửa trong lò rèn luôn hừng hực.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 50,
+        "tin": 60,
+        "so": 30,
+        "on": 20
+      }
+    },
+    {
+      "source": "tao-hoa-lo",
+      "target": "tao-tai-dao",
+      "description": "Anh họ làm phu vận chuyển, hay mang than chất lượng cao từ dưới núi lên cho Hỏa Lò.",
+      "feelings": {
+        "yeu": 70,
+        "han": 0,
+        "kinh": 10,
+        "tin": 80,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "tao-tuu-su",
+      "target": "lao-truong",
+      "description": "Tổng Bếp Trưởng, người thu mua rượu do Tửu Sư cất để cung cấp cho các buổi yến tiệc nhỏ hoặc trưởng lão thích nhậu.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 30,
+        "tin": 70,
+        "so": 10,
+        "on": 20
+      }
+    },
+    {
+      "source": "tao-tuu-su",
+      "target": "tao-tai-dao",
+      "description": "Cháu ruột, phu vận chuyển lương thực hay được Tửu Sư thưởng rượu để làm ấm người.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 10,
+        "tin": 90,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "ho-luc-dien",
+      "target": "nguyen-dai-chuy",
+      "description": "Tổng Quản Rèn Đúc là người giao chỉ tiêu khối lượng quặng Huyền Thiết phải vác mỗi ngày.",
+      "feelings": {
+        "yeu": 10,
+        "han": 20,
+        "kinh": 50,
+        "tin": 60,
+        "so": 40,
+        "on": 10
+      }
+    },
+    {
+      "source": "ho-luc-dien",
+      "target": "ho-thanh-thuy",
+      "description": "Em gái, người thường gánh nước suối đến cho Lực Điền rửa mặt và uống sau giờ làm trong hầm mỏ.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 0,
+        "tin": 90,
+        "so": 0,
+        "on": 50
+      }
+    },
+    {
+      "source": "ho-thanh-thuy",
+      "target": "ho-luc-dien",
+      "description": "Anh trai ruột làm phu khuân vác Huyền Thiết, người mà Thanh Thủy thương nhất và luôn gánh nước mang đến cho anh.",
+      "feelings": {
+        "yeu": 90,
+        "han": 0,
+        "kinh": 60,
+        "tin": 90,
+        "so": 0,
+        "on": 80
+      }
+    },
+    {
+      "source": "ho-thanh-thuy",
+      "target": "pham-thi-lan",
+      "description": "Quản Sự Giặt Giũ là người phân công tuyến gánh nước từ suối Thiên Hoa cho Thanh Thủy, thường ưu ái cô vì tính nết ngoan ngoãn.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 50,
+        "tin": 60,
+        "so": 10,
+        "on": 30
+      }
+    },
+    {
+      "source": "ho-tinh-bon",
+      "target": "lao-truong",
+      "description": "Tổng Bếp Trưởng là người chỉ đạo trực tiếp, mắng mỏ Tịnh Bồn hàng ngày nhưng lại thường để phần cơm cháy giòn nhất cho gã.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 60,
+        "tin": 50,
+        "so": 30,
+        "on": 20
+      }
+    },
+    {
+      "source": "ho-tinh-bon",
+      "target": "ho-thanh-thuy",
+      "description": "Chị họ gánh nước, người cung cấp nguồn nước suối sạch dồi dào để Tịnh Bồn hoàn thành hàng ngàn chiếc bát đĩa mỗi bữa tiệc.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 0,
+        "tin": 80,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "lam-thanh-diep",
+      "target": "lam-phong",
+      "description": "Đệ tử Ngoại Môn (cháu ruột), người mà Thanh Diệp luôn dõi theo và quét dọn con đường lên viện mỗi sáng sớm.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 40,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "lam-thanh-diep",
+      "target": "lam-duoc-thao",
+      "description": "Em trai họ trồng cỏ Kiếm Thảo, hay gom lá mục của Thanh Diệp làm phân bón.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 0,
+        "tin": 70,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "lam-duoc-thao",
+      "target": "nguyen-tinh-kiem",
+      "description": "Phong Chủ Ngọc Hoa Phong (Đan dược), người giám sát trực tiếp chất lượng Kiếm Thảo mà Dược Thảo canh tác để luyện đan.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 80,
+        "tin": 60,
+        "so": 20,
+        "on": 30
+      }
+    },
+    {
+      "source": "lam-duoc-thao",
+      "target": "lam-thanh-diep",
+      "description": "Anh họ làm phu quét lá, nguồn cung cấp lớp phân mùn tự nhiên vô giá để bón cho những luống Kiếm Thảo non nớt.",
+      "feelings": {
+        "yeu": 70,
+        "han": 0,
+        "kinh": 20,
+        "tin": 80,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "lam-dot-than",
+      "target": "nguyen-dai-chuy",
+      "description": "Tổng Quản Rèn Đúc là khách hàng lớn nhất, thường kiểm tra chất lượng than củi để luyện quặng Huyền Thiết.",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 50,
+        "tin": 70,
+        "so": 30,
+        "on": 10
+      }
+    },
+    {
+      "source": "lam-dot-than",
+      "target": "duong-tram-moc",
+      "description": "Phu xẻ gỗ (đồng nghiệp), người cung cấp nguồn gỗ dư thừa dồi dào từ rừng Cửu Hoa cho lò than của Đốt Than.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 10,
+        "tin": 80,
+        "so": 0,
+        "on": 30
+      }
+    },
+    {
+      "source": "truong-thach-bi",
+      "target": "truong-truc-thanh",
+      "description": "Em họ làm thợ hồ (xây tường), người thường pha trộn vữa đá bám dính để dựng bia đá của Thạch Bi lên vững vàng.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 20,
+        "tin": 70,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "truong-thach-bi",
+      "target": "lao-truong",
+      "description": "Bác ruột (Tổng Bếp Trưởng), người luôn dành những món thịt ngon và rượu nhạt bồi bổ cho đôi bàn tay đục đá của Thạch Bi.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 60,
+        "tin": 90,
+        "so": 0,
+        "on": 50
+      }
+    },
+    {
+      "source": "truong-truc-thanh",
+      "target": "truong-thach-bi",
+      "description": "Anh họ làm thợ đục đá, người thường khắc các mảng phù điêu trang trí để Trúc Thành gắn lên bức tường mới xây cho Tông Môn.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 30,
+        "tin": 80,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "truong-truc-thanh",
+      "target": "duong-tram-moc",
+      "description": "Phu xẻ gỗ (bạn thân), người đẽo các cột nhà và dầm ngang, hợp tác ăn ý để lợp mái và dựng vách cho Ngoại Môn Viện.",
+      "feelings": {
+        "yeu": 70,
+        "han": 0,
+        "kinh": 10,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "truong-ngoi-do",
+      "target": "truong-truc-thanh",
+      "description": "Chú họ làm thợ hồ (xây tường), người thường cung cấp vữa bám dính để Ngói Đỏ lợp những viên ngọc lưu ly trên mái chóp của Tông Môn.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 40,
+        "tin": 70,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "truong-ngoi-do",
+      "target": "duong-tram-moc",
+      "description": "Phu xẻ gỗ (đồng nghiệp), người dựng khung mái nhà bằng gỗ thông dẻo dai để Ngói Đỏ yên tâm leo trèo lợp mái.",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 20,
+        "tin": 80,
+        "so": 0,
+        "on": 10
+      }
     }
   ],
   "factions": [],
