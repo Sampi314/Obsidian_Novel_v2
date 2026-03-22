@@ -4,17 +4,37 @@ name: Lý Tiểu Kiếm
 hantu: 李小劍
 archetype: Ngoại Môn Đệ Tử
 race: Nhân Tộc
-dao_tam: ''
+dao_tam: 'Nhất Tâm Trảm Ác'
 age: 20
 avatar: ''
 arcs:
   - arc: 1
     status: Còn Sống
     cultivation: Trúc Cơ Sơ Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    methods: [Tiểu Cửu Hoa Kiếm Quyết, Bạch Liên Tảo Tuyết]
+    inventory:
+      - name: Thanh Cương Kiếm
+        type: Vũ Khí
+    stats: [300, 250, 180, 220, 200, 350]
+    relationships:
+      - character: "[Ngoại Môn Đại Trưởng Lão]"
+        description: "Người hướng dẫn và đánh giá năng lực của Lý Tiểu Kiếm ở ngoại môn viện."
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 85
+          tin: 70
+          so: 20
+          on: 40
+      - character: Lâm Phong
+        description: "Đồng môn ngoại môn, cả hai từng có một số lần phối hợp và trao đổi kiếm pháp cơ bản."
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 40
+          tin: 50
+          so: 0
+          on: 10
 ---
 
 # Lý Tiểu Kiếm (李小劍)
@@ -26,15 +46,17 @@ arcs:
 - **Phe Phái:** Cửu Hoa Kiếm Tông
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Lý Tiểu Kiếm là một thiếu niên gầy gò, mặt hay lem luốc do tập luyện nhưng lại vác trên lưng một thanh thiết kiếm to bản đen nhánh, nặng hơn nhiều so với trọng lượng cơ thể cậu. Tính cách bướng bỉnh, chân thật và vô cùng chăm chỉ, Tiểu Kiếm luôn tin rằng chỉ cần cố gắng gấp trăm lần thì có thể đền bù tư chất hạn hẹp của mình.
+Lý Tiểu Kiếm mang vẻ ngoài của một thanh niên cường tráng, da hơi ngăm đen vì những ngày tháng dãi nắng dầm sương tập luyện trên sườn núi Cửu Hoa. Hắn mặc đạo bào xám của đệ tử ngoại môn, trên lưng luôn mang một thanh thiết kiếm to bản dù đã rỉ sét nhưng vẫn được mài sắc bén.
+Tính cách của hắn bộc trực, đôi khi hơi nóng nảy nhưng vô cùng cương trực và căm ghét cái ác. Đạo tâm "Nhất Tâm Trảm Ác" của hắn dù giản đơn nhưng lại mang đến ý chí chiến đấu kiên cường và lòng can đảm bất khuất trước những kẻ thù hùng mạnh hơn.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-Bị đánh giá là kém cỏi do ngộ tính không cao, cậu lại rèn luyện *Ngoại Môn Cơ Bản Kiếm Pháp* (外门基本剑法) tới cảnh giới lô hỏa thuần thanh. Khi lâm trận, sức nặng từ trường kiếm *Cự Thiết Kiếm Thức* (巨铁剑式) bù đắp cho điểm yếu về linh lực, tạo ra những đòn chém uy dũng như một chiến binh dùng đao hơn là kiếm tu thanh thoát.
+Dù tu vi chỉ mới đạt Trúc Cơ Sơ Kỳ, phong cách chiến đấu của hắn rất bạo liệt, lấy công làm thủ dựa trên thể lực bền bỉ. Hắn chuyên tu *Tiểu Cửu Hoa Kiếm Quyết* (小九花劍訣) - phiên bản đơn giản hóa của chấn phái kiếm quyết, phát huy uy lực từ những nhát chém cơ bản.
+Trong thực chiến, hắn thường dùng chiêu *Bạch Liên Tảo Tuyết* (白蓮掃雪) vung kiếm càn quét diện rộng, tuy nhiên do linh lực thấp và thiếu sự biến hóa nên dễ bị các đối thủ tinh ranh né tránh và phản công.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Lâm Phong:** Người bạn đồng môn cùng chịu khó luyện tập, thường đàm đạo võ học và an ủi nhau khi bị các đệ tử gia thế ức hiếp.
-- **Lão Trương (Tổng Bếp Trưởng):** Vì Tiểu Kiếm ăn nhiều do vác cự kiếm, Lão Trương hay giấu phần cơm thêm ở Hậu Cần Đường cho cậu.
-- **Diệp Tĩnh Sương:** Đàn tỷ mà Tiểu Kiếm thầm ngưỡng mộ ý chí kiên định, luôn nhìn theo bóng lưng nàng để tiếp tục vung kiếm mỗi khi kiệt sức.
+- **[Ngoại Môn Đại Trưởng Lão]:** Người trực tiếp quản lý và đánh giá quá trình tiến bộ của hắn trong việc tu luyện kiếm pháp. Hắn luôn nỗ lực để giành được sự công nhận từ trưởng lão này.
+- **Lâm Phong:** Một đệ tử ngoại môn nổi bật, người mà Lý Tiểu Kiếm coi là mục tiêu cạnh tranh lành mạnh và thỉnh thoảng trao đổi những kinh nghiệm sinh tồn trong các kỳ khảo hạch.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-Sinh ra ở một gia đình thợ rèn nghèo dưới chân Cửu Hoa Sơn, cái tên "Tiểu Kiếm" được cha mẹ đặt với kỳ vọng nhỏ nhoi con mình có một chút kiếm duyên. Bất chấp sự chê cười, cậu từng bước thi đỗ Ngoại Môn Viện và kiên trì không ngừng nghỉ. Hiện tại, dù đối mặt với nạn Huyết Sát Minh thâm nhập ngoại môn, Lý Tiểu Kiếm vẫn quyết cầm cự kiếm bảo vệ bạn bè cùng tông môn.
+Lý Tiểu Kiếm vốn là một đứa trẻ mồ côi lưu lạc được các đệ tử ngoại môn Cửu Hoa Kiếm Tông nhặt về trong một lần đi tuần tra giáp ranh. Hắn lớn lên cùng với tiếng va chạm của đao kiếm và khao khát cháy bỏng được trở thành một kiếm tu chân chính bảo vệ kẻ yếu.
+Với tư chất không mấy xuất sắc, hắn phải đền bù bằng mồ hôi và sự nỗ lực phi thường so với bạn đồng lứa, vừa làm tạp dịch vừa vung kiếm hàng vạn lần mỗi ngày. Hiện tại, hắn đang dốc sức chuẩn bị cho kỳ tuyển chọn Nội Môn sắp tới, ôm hy vọng bước vào một trong Bát Đại Phụ Phong để tiếp tục theo đuổi kiếm đạo.

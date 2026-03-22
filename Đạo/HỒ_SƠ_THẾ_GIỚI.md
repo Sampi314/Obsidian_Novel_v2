@@ -1,7 +1,9 @@
 # Hồ Sơ Thế Giới: Cố Nguyên Giới
 
 ### Tình trạng cập nhật gần nhất
-- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Cửu Hoa Kiếm Tông** (Đông Hoang): **Lý Thanh Vũ**, **Lý Tiểu Kiếm**, và **Lục Thiên Thanh**.
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Cửu Hoa Kiếm Tông** (Đông Hoang): **Nguyễn Văn Mộc**, **Phạm Gánh Nước**, và **Phạm Hồng Diệm**.
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Cửu Hoa Kiếm Tông** (Đông Hoang): **Nguyễn Kim Tuyến**, **Nguyễn Kiếm Nhi**, và **Nguyễn Thiên Thanh**.
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Cửu Hoa Kiếm Tông** (Đông Hoang): **Lục Tiểu Vân**, **Mã Tiểu Trận**, và **Mã Tiểu Tử**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Cửu Hoa Kiếm Tông** (Đông Hoang): **Lý Ngọc Dược**, **Lý Ngọc Phong**, và **Lý Thanh Hà**.
 - Đã cập nhật hồ sơ chi tiết cho 2 nhân vật phe **Ngư Dân Tu Luyện Hội** (Vô Tận Hải): **Lý Vạn Triều**, và **Trần Hải Yến**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Tuyết Trung Cô Viện** (Bắc Băng): **Lý Mộ Tuyết**, **Lê Dược Nương**, và **Phạm Thư Sinh**.
@@ -692,6 +694,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
   - **Hỏa Tiểu Viêm (Học Việc)**: Linh hoạt, năng nổ nhưng bộp chộp. Thích thử nghiệm công thức nổ mới, mang trong mình giấc mơ rèn pháp bảo trả thù cho bộ lạc.
 
 ## Cập Nhật Mới
+- **Nhân Vật Mới Điền Chi Tiết:** Nguyễn Hoa Vũ, Nguyễn Thiết Hoa, Nguyễn Tiểu Ngọc (Cửu Hoa Kiếm Tông - Đông Hoang).
 - **Nhân Vật Mới Điền Chi Tiết:** Lê Bạch Liên, Lê Thiên Vũ, Lê Tiểu Liên (Cửu Hoa Kiếm Tông - Đông Hoang).
 - **Nhân Vật Mới Điền Chi Tiết:** Lâm Nguyệt Hoa, Lâm Tĩnh Tâm, Lão Lý Quét Sân (Cửu Hoa Kiếm Tông - Đông Hoang).
 - **Nhân Vật Mới Điền Chi Tiết:** Hoàng Tuyết Liên, Hà Trận Linh, Hà Tử Phong (Cửu Hoa Kiếm Tông - Đông Hoang).
@@ -701,6 +704,7 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Nhân Vật Mới Điền Chi Tiết:** Sương Vô Tình, Tuyệt Tình Hàn, Ám Băng Nhi (Sương Ma Uyển - Bắc Băng).
 - **Nhân Vật Mới Điền Chi Tiết:** Chu Minh Nguyệt, Chu Phong Kiếm, Hoàng Thanh Trúc, Chu Thanh Trúc, Chu Tiểu Thanh, Hoàng Hồng Vũ (Cửu Hoa Kiếm Tông - Đông Hoang).
 - **Nhân Vật Mới Điền Chi Tiết:** Phạm Linh Kế, Đặng Hỏa Nhi (Phá Băng Thương Đội - Bắc Băng).
+- **Nhân Vật Mới Điền Chi Tiết:** Lý Thanh Vỹ, Lý Tiểu Kiếm, Lục Thiên Thanh (Cửu Hoa Kiếm Tông - Đông Hoang).
 ### Các Nhân Vật Gần Đây Được Cập Nhật
 - **Thủy Tinh Thạch Phường (Tây Mạc):** Hoàn thiện hồ sơ chi tiết cho Phường Chủ Tinh Minh, cùng 2 Thợ Cả là Tinh Sắc và Tinh Thấu. Phe phái Thạch Tộc này hiện đang chịu sự áp bức của Thiên Sa Thương Hội và đang tìm cách thoát khỏi sự kìm kẹp.
 
@@ -866,3 +870,6 @@ Cùng lúc đó, Hứa Thanh Vân — con trai nàng, chán ngán với thương
 - **Phong Thiết Nha** (Nguyên Anh Trung Kỳ): Hộ Pháp cường tráng, sử dụng Tật Phong Thiết Côn bảo vệ hạm đội.
 - **Vân Hải Đồ** (Kim Đan Viên Mãn): Hướng Đạo Sư trầm tĩnh, am hiểu hải lưu, la bàn định vị và tạo ảo ảnh sương mù.
 - **Đặng Thương Hà** (Kim Đan Hậu Kỳ): Đại Chưởng Quỹ mập mạp, mưu mô, coi trọng chữ tín và đàm phán thương mại.
+
+- **Nhân Vật Mới Điền Chi Tiết:** Mã Tử Linh, Mã Tử Vân, Mã Vân Sương (Cửu Hoa Kiếm Tông - Đông Hoang).
+- **Nhân Vật Mới Điền Chi Tiết:** Vương Kim Tỏa, Vương Kim Đức, Vương Tiểu Kim (Cửu Hoa Kiếm Tông - Đông Hoang).
