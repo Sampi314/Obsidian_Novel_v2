@@ -17,7 +17,8 @@ arcs:
     relationships:
       - character: Phan Kiếm Hoa
         description: Đối thủ cạnh tranh, người thúc đẩy ta không bao giờ được phép lơ là.
-        feelings: {yeu: 15, han: 0, kinh: 20, tin: 70, so: 0, on: 5}      - character: Tô Vân Thanh
+        feelings: {yeu: 15, han: 0, kinh: 20, tin: 70, so: 0, on: 5}
+      - character: Tô Vân Thanh
         description: Em gái ruột, người duy nhất có thể khiến hắn mỉm cười. Luôn âm thầm bảo vệ muội muội từ phía sau.
         feelings:
           yeu: 90

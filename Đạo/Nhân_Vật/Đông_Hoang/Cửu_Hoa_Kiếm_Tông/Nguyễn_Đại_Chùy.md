@@ -21,6 +21,9 @@ arcs:
         type: Vật Phẩm
     stats: [5, 2, 4, 3, 3, 5]
     relationships:
+      - character: Mã Kim Thạch
+        description: Vị tiền bối thợ rèn lực lưỡng, người hay cùng lão đọ sức quai búa rèn linh thiết.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
       - character: Nguyễn Văn Mộc
         description: Đồng hương đồng khói, dù hay cãi vã nhưng ta rất trọng tay nghề mộc của lão.
         feelings: {yeu: 20, han: 10, kinh: 10, tin: 80, so: 0, on: 10}

@@ -17,13 +17,19 @@ arcs:
     relationships:
       - character: Tô Vân Thanh
         description: Tiểu sư muội hoạt bát, Kiếm Hoa ngầm thích sự vô tư của nàng nhưng không bao giờ thể hiện, chỉ lặng lẽ để lại hoa tươi trước cửa phòng nàng.
-        feelings:
-          yeu: 50
-          han: 0
-          kinh: 10
-          tin: 40
-          so: 0
-          on: 0
+        feelings: { yeu: 50, han: 0, kinh: 10, tin: 40, so: 0, on: 0 }
+      - character: Ngoại Môn Đại Trưởng Lão
+        description: Sư tôn nghiêm khắc, người nàng luôn nỗ lực để đạt được sự công nhận.
+        feelings: { yeu: 0, han: 0, kinh: 85, tin: 70, so: 30, on: 20 }
+      - character: Lục Thanh Mai
+        description: Đối thủ cạnh tranh sắc đẹp và tài năng trong nhóm nữ đệ tử.
+        feelings: { yeu: 10, han: 20, kinh: 30, tin: 50, so: 0, on: 0 }
+      - character: Châu Thanh Hồng
+        description: Bạn cùng phòng, người hay làm phiền nàng bằng sự nhiệt tình quá mức.
+        feelings: { yeu: 30, han: 0, kinh: 10, tin: 80, so: 0, on: 15 }
+      - character: Nguyệt Tĩnh Sương
+        description: Người nàng thầm ngưỡng mộ vì sự lạnh lùng và tâm cảnh bất biến.
+        feelings: { yeu: 20, han: 0, kinh: 50, tin: 40, so: 0, on: 0 }
 ---
 
 # HỒ SƠ NHÂN VẬT: PHAN KIẾM HOA (潘劍花)

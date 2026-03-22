@@ -16,6 +16,9 @@ arcs:
     inventory: []
     stats: [50, 10, 450, 80, 100, 500]
     relationships:
+      - character: Dương Bạch Hải
+        description: Cậu nhóc Hậu cần đường hay giúp lão quét dọn những đoạn đường khó đi.
+        feelings: {yeu: 25, han: 0, kinh: 10, tin: 75, so: 0, on: 10}
       - character: Lâm Nguyệt Hoa
         description: Cô cháu gái nhỏ tốt bụng thường xuyên cho lão thuốc bổ, lão thầm cầu nguyện cho nàng sớm ngày đột phá.
         feelings: {yeu: 85, han: 0, kinh: 10, tin: 90, so: 0, on: 60}

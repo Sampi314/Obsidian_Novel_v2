@@ -19,31 +19,19 @@ arcs:
     relationships:
       - character: Vũ Phi Kiếm
         description: "Phong Chủ Nguyệt Hoa Phong, đại trưởng lão mà nàng tôn kính tuyệt đối, luôn mơ ước đạt được cảnh giới kiếm ý thuần khiết của ngài."
-        feelings:
-          yeu: 5
-          han: 0
-          kinh: 95
-          tin: 90
-          so: 30
-          on: 40
+        feelings: { yeu: 5, han: 0, kinh: 95, tin: 90, so: 30, on: 40 }
       - character: Vũ Nguyệt Sương
         description: "Đồng môn nội môn, bạn thân từ thời ngoại môn. Hai người hay ngồi thiền cùng nhau dưới ánh trăng."
-        feelings:
-          yeu: 35
-          han: 0
-          kinh: 20
-          tin: 90
-          so: 0
-          on: 25
+        feelings: { yeu: 35, han: 0, kinh: 20, tin: 90, so: 0, on: 25 }
       - character: Lâm Nguyệt Hoa
         description: "Đồng môn nội môn, tính cách hoạt bát đối lập với nàng. Nguyệt Hoa hay kéo nàng ra khỏi thiền phòng để 'đi chơi cho vui.'"
-        feelings:
-          yeu: 25
-          han: 0
-          kinh: 10
-          tin: 75
-          so: 0
-          on: 10
+        feelings: { yeu: 25, han: 0, kinh: 10, tin: 75, so: 0, on: 10 }
+      - character: Lê Bạch Liên
+        description: Đường tỷ, người nàng thầm kính trọng về sự kỷ luật và thanh cao trong kiếm đạo.
+        feelings: { yeu: 20, han: 0, kinh: 60, tin: 80, so: 0, on: 15 }
+      - character: Nguyệt Tĩnh Sương
+        description: Sư tỷ đồng môn, người nàng thường xuyên cùng trao đổi kinh nghiệm thiền định.
+        feelings: { yeu: 30, han: 0, kinh: 40, tin: 85, so: 0, on: 10 }
 ---
 
 # Lê Nguyệt Lan (黎月蘭)

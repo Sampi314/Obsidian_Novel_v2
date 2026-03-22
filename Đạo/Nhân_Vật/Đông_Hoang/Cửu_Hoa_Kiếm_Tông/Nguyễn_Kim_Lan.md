@@ -17,7 +17,8 @@ arcs:
     relationships:
       - character: Phạm Kim Thiết
         description: Sư đệ Nội môn siêng năng, ta đánh giá cao sự kiên trì luyện khí của y.
-        feelings: {yeu: 20, han: 0, kinh: 10, tin: 80, so: 0, on: 10}      - character: Vương Kim Tỏa
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 80, so: 0, on: 10}
+      - character: Vương Kim Tỏa
         description: Sư phụ tôn kính, Phong chủ Kim Hoa Phong.
         feelings: {yeu: 10, han: 0, kinh: 90, tin: 85, so: 0, on: 30}
       - character: Vương Tiểu Kim

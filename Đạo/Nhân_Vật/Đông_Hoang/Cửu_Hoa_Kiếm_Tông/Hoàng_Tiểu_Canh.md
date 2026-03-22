@@ -21,6 +21,9 @@ arcs:
         type: Vật Phẩm Thường
     stats: [10, 0, 15, 20, 8, 30]
     relationships:
+      - character: Dương Bạch Hải
+        description: Bạn cùng lứa, người hay cùng ta đi hái thảo dược dại quanh chân núi.
+        feelings: {yeu: 50, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
       - character: Nguyễn Tĩnh Kiếm
         description: Cực kỳ sùng bái vị Phong Chủ này, luôn lén nhìn ngài từ xa mỗi khi ngài đi tuần tra dược viên.
         feelings:

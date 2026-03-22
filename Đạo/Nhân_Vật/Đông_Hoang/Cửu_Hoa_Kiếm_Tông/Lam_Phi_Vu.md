@@ -26,40 +26,28 @@ arcs:
     relationships:
       - character: Lâm Tử Họa
         description: Biểu muội chung gia tộc họ Lâm, thường bị hắn lấy làm trò đùa nhưng lại bảo vệ nàng vô cùng gắt gao.
-        feelings:
-          yeu: 60
-          han: 0
-          kinh: 0
-          tin: 70
-          so: 0
-          on: 20
+        feelings: { yeu: 60, han: 0, kinh: 0, tin: 70, so: 0, on: 20 }
       - character: Lâm Thanh Vân
         description: Đường đệ trầm ngâm ít nói, hắn hay rủ rê đi uống rượu trộm nhưng toàn bị từ chối phũ phàng.
-        feelings:
-          yeu: 65
-          han: 0
-          kinh: 0
-          tin: 80
-          so: 0
-          on: 0
-      - character: Ngoại Môn Đại Trưởng Lão
-        description: Luôn tìm cách lách luật của lão, bị phạt chép tông quy vô số lần.
-        feelings:
-          yeu: 0
-          han: 10
-          kinh: 60
-          tin: 40
-          so: 50
-          on: 0
+        feelings: { yeu: 65, han: 0, kinh: 10, tin: 80, so: 0, on: 10 }
+      - character: Lý Lục Trần
+        description: Tông chủ tôn kính, người y thề nguyện sẽ nỗ lực để xứng đáng được đứng dưới bóng của ngài.
+        feelings: { yeu: 10, han: 0, kinh: 90, tin: 85, so: 0, on: 30 }
+      - character: Lý Thanh Phong
+        description: Phong chủ, người y thường xuyên báo cáo các biến động linh lực trong không trung.
+        feelings: { yeu: 10, han: 0, kinh: 75, tin: 85, so: 0, on: 20 }
+      - character: Lâm Hồng Nhạn
+        description: Sư tỷ nhiệt huyết, người y thầm ngưỡng mộ về bản lĩnh hiệp nghĩa.
+        feelings: { yeu: 30, han: 0, kinh: 40, tin: 70, so: 0, on: 10 }
 ---
 
 # HỒ SƠ NHÂN VẬT: LÂM PHI VŨ (林飛羽)
 
 ## I. THÔNG TIN CƠ BẢN
 - **Họ Tên:** Lâm Phi Vũ (林飛羽)
-- **Tên Khai Sinh:** Lâm Phi (林飛)
+- **Tên Khai Sinh:** Lâm Vũ (林羽)
 - **Danh Hiệu:** Phi Vũ
-- **Tuổi / Thọ Nguyên:** 19 / 200
+- **Tuổi / Thọ Nguyên:** 19 / 150
 - **Cảnh Giới:** Trúc Cơ Sơ Kỳ (Sắp đột phá)
 - **Khu Vực:** Đông Hoang
 - **Thế Lực:** Cửu Hoa Kiếm Tông
@@ -69,63 +57,60 @@ arcs:
 ## II. NGOẠI HÌNH & KHÍ CHẤT
 
 ### Dung Mạo
-Khuôn mặt Lâm Phi Vũ tuấn tú, đường nét thanh tú và có phần lãng tử. Đôi mắt y hẹp dài, thường trực một nụ cười nửa miệng có phần cợt nhả. Mái tóc dài thường để xõa, chỉ buộc hờ bằng một sợi dây vải xanh nhạt, bay tung bay mỗi khi có gió lướt qua.
+Lâm Phi Vũ có vóc dáng cao ráo, thanh mảnh, đôi mắt sáng lanh lợi luôn ẩn chứa ý cười. Mái tóc hắn thường được buộc cao bằng một dải lụa xanh, để vài lọn tóc bay tự do trước trán. Gương mặt hắn toát lên vẻ tuấn tú nhưng có phần lông bông, bất cần đời của một thiếu niên lãng tử.
 
 ### Trang Phục
-Y phục của y luôn xộc xệch, vạt áo trước thường mở hé lộ phần ngực rắn rỏi. Đạo bào ngoại môn Cửu Hoa được y chỉnh sửa lại cho rộng rãi hơn, tay áo thụng dài để giấu linh phù gia tốc. Thanh kiếm mỏng nhẹ dắt xéo bên eo.
+Hắn mặc đạo bào ngoại môn Cửu Hoa màu xám nhạt nhưng luôn cố tình mặc xộc xệch, vạt áo tung bay mỗi khi di chuyển. Hắn đeo thanh Thanh Nhạn Kiếm sau lưng theo một góc nghiêng đặc biệt, cùng một chiếc hồ lô rượu nhỏ lủng lẳng bên hông.
 
 ### Khí Chất
-Toát ra khí tức phóng khoáng, tự do và bất cần đời. Ở gần y, người ta luôn có cảm giác có một luồng gió mát mẻ, nhẹ bẫng không chịu sự ràng buộc của bất kỳ nguyên tắc nào.
+Toát ra vẻ phiêu dật, tự tại và không thể nắm bắt tựa như gió ngàn. Ở gần hắn, người ta cảm thấy một sự nhẹ nhàng, không gò bó nhưng cũng khó lòng đoán biết được hắn đang nghĩ gì.
 
 ## III. TÍNH CÁCH & ĐẠO TÂM
 
 ### Tính Cách
-- **Lãng Tử:** Yêu thích tự do, ghét bị gò bó bởi các tông quy cứng nhắc. Thường hay trốn việc đi dạo khắp núi Cửu Hoa.
-- **Nhanh Trí:** Rất giỏi trong việc tìm đường lui, "chạy là thượng sách" nếu đánh không lại.
-- **Trượng Nghĩa:** Tuy ngoài miệng cợt nhả nhưng sẵn sàng ra tay tương trợ đồng môn bị bắt nạt.
+- **Phóng Khoáng:** Yêu thích tự do, ghét mọi sự ràng buộc và quy tắc giáo điều. Hắn thường xuyên lẻn ra ngoài tông môn để dạo chơi phố thị.
+- **Lạc Quan:** Luôn nhìn vào mặt tích cực của vấn đề, là cây hài của nhóm đệ tử ngoại môn cùng khóa.
+- **Nghịch Ngợm:** Thích bày trò trêu chọc đồng môn, đặc biệt là biểu muội Lâm Tử Họa, nhưng luôn biết điểm dừng.
 
 ### Đạo Tâm
-- **Khinh Phong Vô Trụ Tâm (輕風無住心):** Đạo tâm không dính mắc, coi mọi sự ở đời như mây bay gió thoảng. Chính nhờ sự buông bỏ này, thân pháp và tốc độ của y trong kiếm đạo đạt tới mức kinh người ở Ngoại Môn Viện.
+- **Khinh Phong Vô Trụ Tâm (輕風無住心):** Đạo tâm tựa như gió thoảng, không dừng lại ở bất kỳ đâu, không bị vướng bận bởi tham sân si hay danh lợi trần thế. Sức mạnh của hắn đến từ sự thanh thản và tốc độ tối thượng.
 
 ## IV. LỊCH SỬ & XUẤT THÂN
 
 ### Xuất Thân
-Sinh ra trong gia tộc họ Lâm ở chân núi phía đông, gia đình vốn có truyền thống buôn bán thảo dược. Tuy nhiên, Phi Vũ lại bộc lộ thiên phú kiếm đạo từ nhỏ khi luôn thích trèo cây, nhảy nhót, và cầm nhánh cây vung vẩy.
+Sinh ra trong một gia đình thương nhân có máu mặt ở kinh đô, nhưng từ nhỏ hắn đã không màng chuyện tiền bạc hay kế thừa nghiệp gia đình mà chỉ thích nghe kể chuyện về những kiếm khách ngao du thiên hạ.
 
 ### Biến Cố
-Một lần gia tộc bị sơn tặc tấn công, y đã dùng một thanh mộc kiếm và thân pháp kỳ ảo để dụ dỗ bọn cướp lạc vào rừng sâu, cứu sống cả nhà nhưng bản thân mang một vết sẹo dài ở lưng.
+Một lần tình cờ bắt gặp một vị kiếm tu đang ngự kiếm phi hành trên bầu trời, hắn đã bị mê hoặc bởi vẻ đẹp tự do đó và quyết tâm rời nhà đi tìm tầm đạo, bất chấp sự phản đối của gia đình.
 
 ### Gia Nhập Phe Phái
-Vào tông môn một phần vì muốn trốn tránh công việc kinh doanh nhàm chán của gia đình, phần vì mê mẩn những đường kiếm uyển chuyển của Cửu Hoa Kiếm Tông.
+Vào Ngoại Môn Viện, hắn nhanh chóng bộc lộ thiên phú về tốc độ và thân pháp, dù thường xuyên bị các sư thúc quở trách vì tính cách lười biếng, ham chơi hơn luyện tập.
 
 ### Chiến Tích
-- Đoạt giải nhất cuộc thi thân pháp Ngoại Môn Viện năm ngoái bằng cách "bay" qua chuỗi cọc gỗ trên hồ nước.
-- Sống sót sau một cuộc vây háp của đàn Huyết Bức (Dơi máu cấp 2) nhờ bôi bùa gia tốc lên chân chạy suốt ba canh giờ.
+- Dùng tốc độ phi phàm của mình để thoát khỏi sự truy đuổi của một đàn Linh Phong Hổ (yêu thú cấp 1) khi đang làm nhiệm vụ thu thập nguyên liệu.
+- Giành giải nhất trong cuộc thi chạy việt dã vượt địa hình của Ngoại Môn Viện ba năm liên tiếp.
 
 ## V. CÔNG PHÁP & SỞ TRƯỜNG
 
 ### Sở Trường
-- **Tốc Độ Khinh Công:** Vượt trội so với đồng cấp, rất khó để bắt được bóng dáng của y trong chiến đấu.
-- **Trinh Sát:** Khả năng nghe ngóng tin tức và trinh sát địa hình cực tốt.
+- **Tốc Độ Tuyệt Đối:** Là người nhanh nhất trong các đệ tử ngoại môn cùng tu vi, cực kỳ giỏi trong việc né tránh và thám thính.
+- **Thân Pháp Biến Ảo:** Có thể di chuyển trên những địa hình hiểm trở nhất như đi trên bình địa.
 
 ### Công Pháp
-- **Lạc Diệp Kiếm Quyết (落葉劍訣):** Công pháp Trúc Cơ Sơ Cấp (Tầng 4) - Kiếm pháp mỏng nhẹ nhưng liên miên bất tuyệt như lá rụng mùa thu.
-  - *Chiêu thức:* **Toàn Phong Tảo Hàng (旋風掃杭) - Toàn Phong Tảo Hàng** - Tạo ra một luồng kiếm khí lốc xoáy sắc bén bao bọc quanh người, vừa phòng thủ vừa xé toạc mọi thứ tiếp cận.
-- **Đạp Vân Bộ (踏雲步):** Thân pháp bí truyền giúp y mượn sức gió để bật nhảy và đổi hướng đột ngột trên không.
+- **Lạc Diệp Kiếm Quyết (落葉劍訣):** Công pháp Luyện Khí/Trúc Cơ - Kiếm pháp nhanh, nhẹ, tập trung vào việc quấy nhiễu và làm tiêu hao sinh lực đối thủ.
+  - *Chiêu thức:* **Phi Vũ Nhất Thiểm (飛羽一閃)** - Một nhát kiếm nhanh đến mức chỉ thấy một vệt sáng mờ lướt qua, nhắm vào những điểm yếu nhất của đối thủ.
+- **Đạp Vân Bộ (踏雲步):** Bộ pháp giúp hắn có thể bước đi trên không trung trong một khoảng thời gian ngắn hoặc nhảy vọt qua những khoảng cách lớn.
 
 ### Pháp Bảo / Vật Phẩm
-- **Thanh Nhạn Kiếm (Pháp Khí Trung Phẩm):** Thanh kiếm thân hẹp, nhẹ như lông chim nhạn, đúc bằng thanh linh thạch phong hệ.
-- **Bùa Gia Tốc (Vật Phẩm):** Luôn trữ sẵn trong ngực áo để dùng khi khẩn cấp.
+- **Thanh Nhạn Kiếm (Pháp Khí Trung Phẩm):** Kiếm mỏng, cực kỳ nhẹ, được rèn từ cánh của loài linh nhạn cấp cao, giúp tăng cường tốc độ tấn công.
+- **Bùa Gia Tốc:** Luôn dự trữ sẵn trong người để dùng trong những tình huống thoát hiểm khẩn cấp.
 
 ## VI. QUAN HỆ
 
 ### Gia Đình
-- **Lâm Tử Họa (Biểu muội):** Y thích trêu ghẹo nàng khóc rồi lại phải tốn tiền đi mua kẹo hồ lô dỗ dành. Hễ ai trong ngoại môn đụng tới nàng đều bị y "hỏi thăm" ngay lập tức.
-- **Lâm Thanh Vân (Đường đệ):** Thanh Vân nghiêm túc là mục tiêu trêu chọc số một của y, dù y rất tôn trọng sự tĩnh tại của người em này.
-
-### Thượng Cấp
-- **Ngoại Môn Đại Trưởng Lão:** Kẻ thù của sự tự do. Y luôn tìm cách qua mặt lão nhưng lần nào cũng bị tóm lại phạt quét dọn bậc thang núi.
+- **Lâm Tử Họa (Biểu muội):** Người hắn hay trêu chọc nhất nhưng cũng là người hắn yêu quý nhất. Hắn luôn âm thầm theo dõi và bảo vệ nàng mỗi khi nàng đi làm nhiệm vụ.
+- **Lâm Thanh Vân (Đường đệ):** Hắn thường xuyên tìm cách kéo Thanh Vân đi chơi nhưng hiếm khi thành công vì tính cách quá nghiêm túc của đối phương.
 
 ## VII. GIAI THOẠI
-- *"Đánh không trúng ta, thì tu vi ngươi cao hơn ta một cảnh giới cũng vô dụng thôi!"* - Lâm Phi Vũ đắc ý khi tránh được đòn chí mạng của một đệ tử Nội Môn xuống bắt nạt Tân đệ tử.
-- Có lời đồn rằng y từng trộm một bình rượu đào quý của trưởng lão mà không để lại một dấu chân nào.
+- *"Gió không bao giờ bị bắt, và ta cũng vậy."* - Câu nói kinh điển của Phi Vũ mỗi khi lẻn ra ngoài bị các sư huynh gác cổng phát hiện nhưng không thể đuổi kịp.
+- Từng bị phạt quét dọn toàn bộ khu vực luyện tập của Ngoại Môn Viện trong một tháng vì tội giấu hài của sư huynh vào tổ chim, nhưng hắn lại dùng Đạp Vân Bộ để vừa quét vừa nhảy múa, biến hình phạt thành một màn biểu diễn thú vị cho các đệ tử khác xem.

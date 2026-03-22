@@ -17,6 +17,9 @@ arcs:
         type: Pháp Bảo
     stats: [85, 110, 80, 95, 70, 115]
     relationships:
+      - character: Lâm Tiểu Tâm
+        description: Bạn thân thiền định, người cùng ta chia sẻ những phút giây tĩnh lặng bên suối linh khí.
+        feelings: {yeu: 65, han: 0, kinh: 10, tin: 90, so: 0, on: 30}
       - character: Vũ Phi Kiếm
         description: Tộc thúc ở Nội Môn
         feelings: { yeu: 10, han: 0, kinh: 50, tin: 85, so: 0, on: 0 }

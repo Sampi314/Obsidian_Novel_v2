@@ -15,6 +15,9 @@ arcs:
         type: Trọng Kiếm (lai đao)
     stats: [155, 115, 105, 125, 140, 130]
     relationships:
+      - character: Lâm Hồng Nhạn
+        description: Bạn đồng môn tửu lượng khá, đối thủ đấu khẩu thú vị tại các quán rượu chân núi.
+        feelings: {yeu: 35, han: 0, kinh: 10, tin: 75, so: 0, on: 15}
       - character: Trần Thanh Thạch
         description: Kỳ phùng địch thủ ở Ngoại Môn Viện, Hải thường xuyên thách đấu Thạch để xem ai mạnh hơn.
         feelings:

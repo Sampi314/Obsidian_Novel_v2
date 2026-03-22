@@ -17,22 +17,19 @@ arcs:
     relationships:
       - character: Đàm Ngọc Thanh
         description: Thất muội đồng khóa, thường cùng nhau ôn bài kiếm quyết buổi tối.
-        feelings:
-          yeu: 50
-          han: 0
-          kinh: 30
-          tin: 60
-          so: 0
-          on: 10
+        feelings: { yeu: 50, han: 0, kinh: 30, tin: 60, so: 0, on: 10 }
       - character: Cao Hồng Yến
         description: Sư tỷ lớn hơn hai khóa, từng giúp đỡ nàng khi mới nhập môn.
-        feelings:
-          yeu: 40
-          han: 0
-          kinh: 50
-          tin: 70
-          so: 0
-          on: 30
+        feelings: { yeu: 40, han: 0, kinh: 50, tin: 70, so: 0, on: 30 }
+      - character: Lý Lục Trần
+        description: Tông chủ tôn kính, hình mẫu lý tưởng về thực lực và khí độ mà nàng hằng mơ ước.
+        feelings: { yeu: 10, han: 0, kinh: 90, tin: 80, so: 20, on: 10 }
+      - character: Vân Thanh Hà
+        description: Thái thượng tiền bối, người nàng luôn cảm thấy áp lực nhưng vô cùng nể trọng tài năng trận pháp.
+        feelings: { yeu: 5, han: 0, kinh: 95, tin: 70, so: 40, on: 0 }
+      - character: Tăng Hữu Nghĩa
+        description: Anh trai ruột, người nàng luôn dựa dẫm và tin tưởng tuyệt đối trong mọi tình huống.
+        feelings: { yeu: 90, han: 0, kinh: 30, tin: 95, so: 0, on: 50 }
 ---
 
 # HỒ SƠ NHÂN VẬT: TĂNG LỆ HÀ (曾麗荷)

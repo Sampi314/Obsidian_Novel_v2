@@ -25,7 +25,8 @@ arcs:
     relationships:
       - character: Đoàn Tử Dương
         description: Đối thủ xứng tầm trong bóng tối, người khiến ta không bao giờ được phép lơ là.
-        feelings: {yeu: 5, han: 0, kinh: 40, tin: 55, so: 35, on: 0}      - character: Đặng Huyền Dạ
+        feelings: {yeu: 5, han: 0, kinh: 40, tin: 55, so: 35, on: 0}
+      - character: Đặng Huyền Dạ
         description: Sư phụ Huyền Hoa Phong Chủ. Quan hệ phức tạp — sư phụ cứu hắn và dạy hắn kiềm chế bóng tối, nhưng hắn dần cảm thấy sư phụ đang cầm tù hắn. "Sư phụ muốn con kiểm soát bóng tối. Nhưng nếu bóng tối mạnh hơn khi được tự do thì sao?"
         feelings:
           yeu: 20

@@ -17,7 +17,8 @@ arcs:
     relationships:
       - character: Tiết Thanh Phong
         description: Biểu đệ, dù ta hay mắng y lơ là tu luyện nhưng thực chất rất nể trọng tốc độ kiếm của y.
-        feelings: {yeu: 70, han: 0, kinh: 20, tin: 85, so: 0, on: 30}      - character: Tiết Bạch Vân
+        feelings: {yeu: 70, han: 0, kinh: 20, tin: 85, so: 0, on: 30}
+      - character: Tiết Bạch Vân
         description: Biểu đệ, tuy bề ngoài hay mắng mỏ nhưng bên trong luôn bảo vệ Vân khỏi nguy hiểm.
         feelings:
           yeu: 60

@@ -17,7 +17,8 @@ arcs:
     relationships:
       - character: Phan Kiếm Hoa
         description: Sư muội đội tuần tra, người thường xuyên nỗ lực kết giao với ta dù ta luôn lãnh đạm.
-        feelings: {yeu: 10, han: 0, kinh: 0, tin: 65, so: 0, on: 0}      - character: Giang Tiểu Liên
+        feelings: {yeu: 10, han: 0, kinh: 0, tin: 65, so: 0, on: 0}
+      - character: Giang Tiểu Liên
         description: Sư muội cùng nhóm tuần tra ngoại môn, Huyền Phong âm thầm ngưỡng mộ kiếm thuật nhẹ nhàng của Tiểu Liên nhưng không bao giờ mở miệng khen.
         feelings:
           yeu: 30

@@ -17,7 +17,8 @@ arcs:
     relationships:
       - character: Lý Tiểu Kiếm
         description: Sư huynh Nội môn, người luôn khích lệ và dạy bảo ta từng chút một.
-        feelings: {yeu: 50, han: 0, kinh: 30, tin: 90, so: 0, on: 40}      - character: Tần Thanh Vũ
+        feelings: {yeu: 50, han: 0, kinh: 30, tin: 90, so: 0, on: 40}
+      - character: Tần Thanh Vũ
         description: Sư huynh đồng môn, người luôn kiên nhẫn chỉ bảo.
         feelings: {yeu: 50, han: 0, kinh: 20, tin: 90, so: 0, on: 30}
       - character: Lục Tiểu Vân

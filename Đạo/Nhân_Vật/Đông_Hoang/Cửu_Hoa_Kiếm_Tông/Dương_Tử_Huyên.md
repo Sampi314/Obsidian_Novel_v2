@@ -19,7 +19,8 @@ arcs:
     relationships:
       - character: Dương Bạch Hải
         description: Anh họ đáng tin cậy, người luôn bảo bọc ta trước mọi sóng gió.
-        feelings: {yeu: 90, han: 0, kinh: 20, tin: 95, so: 0, on: 60}      - character: Dương Ngọc Vân
+        feelings: {yeu: 90, han: 0, kinh: 20, tin: 95, so: 0, on: 60}
+      - character: Dương Ngọc Vân
         description: Tỷ tỷ ruột, luôn lo lắng và chăm lo cho nàng như một người mẹ nhỏ.
         feelings:
           yeu: 90

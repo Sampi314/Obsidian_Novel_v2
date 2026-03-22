@@ -26,6 +26,9 @@ arcs:
         type: Pháp Bảo
     stats: [6500, 5800, 4500, 4000, 5000, 5500]
     relationships:
+      - character: Liệt Hỏa Vân
+        description: Đệ tử nội môn có nhiệt huyết rực lửa, ta thấy được tiềm năng của y trong các trận đột kích.
+        feelings: {yeu: 10, han: 0, kinh: 0, tin: 85, so: 0, on: 15}
       - character: Phạm Hồng Diệm
         description: Đệ tử nội môn có nhiệt huyết rực lửa, ta thấy được tiềm năng chiến thần trong mắt cô bé.
         feelings: {yeu: 10, han: 0, kinh: 0, tin: 80, so: 0, on: 20}

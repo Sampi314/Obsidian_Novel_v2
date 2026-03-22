@@ -19,13 +19,19 @@ arcs:
     relationships:
       - character: Dương Mộc Thảo
         description: Anh trai, thường chỉ dẫn Hải cách cắt gốc cỏ không đứt rễ.
-        feelings:
-          yeu: 60
-          han: 0
-          kinh: 20
-          tin: 80
-          so: 0
-          on: 20
+        feelings: { yeu: 60, han: 0, kinh: 20, tin: 80, so: 0, on: 20 }
+      - character: Lão Trương
+        description: Người đầu bếp tốt bụng hay cho Hải đồ ăn thừa sau bếp khi lão thấy cậu gầy gò.
+        feelings: { yeu: 40, han: 0, kinh: 10, tin: 85, so: 0, on: 30 }
+      - character: Hoàng Tiểu Canh
+        description: Bạn cùng lứa tại Hậu Cần Đường, hay cùng nhau đi hái thảo dược dại.
+        feelings: { yeu: 50, han: 0, kinh: 0, tin: 80, so: 0, on: 10 }
+      - character: Dương Ngọc Vân
+        description: Chị họ nghiêm khắc, người Hải rất sợ mỗi khi bị kiểm tra bài vở nhưng vô cùng kính trọng.
+        feelings: { yeu: 70, han: 0, kinh: 50, tin: 90, so: 40, on: 20 }
+      - character: Lão Lý Quét Sân
+        description: Vị lão bộc mà Hải hay giúp quét dọn đoạn đường dốc mỗi khi gánh thảo dược ngang qua.
+        feelings: { yeu: 30, han: 0, kinh: 20, tin: 75, so: 0, on: 10 }
 ---
 
 # HỒ SƠ NHÂN VẬT: DƯƠNG BẠCH HẢI (杨白海)

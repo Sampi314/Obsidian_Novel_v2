@@ -15,6 +15,9 @@ arcs:
         type: Thiết Kiếm
     stats: [25, 40, 30, 45, 35, 50]
     relationships:
+      - character: Phan Kiếm Hoa
+        description: Sư tỷ đồng môn, người hay để lại những bông hoa tươi trước cửa phòng ta.
+        feelings: {yeu: 40, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
       - character: Tô Thiên Lam
         description: Anh trai ruột, người nàng kính trọng và yêu thương nhất. Luôn muốn trở nên mạnh mẽ để anh không phải lo lắng.
         feelings:

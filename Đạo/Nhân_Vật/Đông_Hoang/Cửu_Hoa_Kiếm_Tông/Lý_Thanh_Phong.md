@@ -15,6 +15,9 @@ arcs:
     inventory: []
     stats: [320, 450, 490, 380, 280, 420]
     relationships:
+      - character: Lâm Phi Vũ
+        description: Đệ tử ngoại môn có tốc độ xuất sắc, tai mắt tin cậy của ta trong các báo cáo không trung.
+        feelings: {yeu: 10, han: 0, kinh: 0, tin: 85, so: 0, on: 10}
       - character: Lý Thanh Hà
         description: Đệ tử nội môn đắc lực, tai mắt tin cậy của ta trong việc thu thập tin tức giang hồ.
         feelings: {yeu: 10, han: 0, kinh: 0, tin: 90, so: 0, on: 20}

@@ -21,6 +21,9 @@ arcs:
         type: Vật Phẩm Tiêu Hao
     stats: [28, 0, 8, 15, 20, 18]
     relationships:
+      - character: Mã Kim Thạch
+        description: Đường huynh đáng tin cậy, người luôn bảo vệ ta khỏi những nguy hiểm nơi mỏ quặng.
+        feelings: {yeu: 85, han: 0, kinh: 20, tin: 90, so: 0, on: 40}
       - character: Mã Tiểu Tử
         description: Sư tỷ tinh quái, người nàng thường xuyên bày ra những trò đùa khiến hắn dở khóc dở cười.
         feelings: {yeu: 30, han: 0, kinh: 10, tin: 75, so: 0, on: 10}

@@ -19,7 +19,8 @@ arcs:
     relationships:
       - character: Châu Thanh Hồng
         description: Sư tỷ nhiệt huyết, người nàng luôn ngưỡng mộ về sự thẳng thắn.
-        feelings: {yeu: 50, han: 0, kinh: 20, tin: 85, so: 0, on: 25}      - character: Hồng Diệm
+        feelings: {yeu: 50, han: 0, kinh: 20, tin: 85, so: 0, on: 25}
+      - character: Hồng Diệm
         description: Chị họ ở Nội Môn, người đã khai sáng và dạy cho nàng những chiêu thức kiếm pháp hỏa hệ cơ bản đầu tiên.
         feelings: {yeu: 85, han: 0, kinh: 40, tin: 85, so: 0, on: 50}
       - character: Hoàng Tiểu Long

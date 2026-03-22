@@ -18,6 +18,9 @@ arcs:
         type: Pháp Bảo
     stats: [330, 380, 420, 410, 350, 460]
     relationships:
+      - character: Lê Nguyệt Lan
+        description: Đường muội trầm mặc, ta nể phục sự thiền định và tâm cảnh bất biến của nàng.
+        feelings: {yeu: 30, han: 0, kinh: 20, tin: 85, so: 0, on: 10}
       - character: Lê Hàn Sương
         description: Phong Chủ tôn kính, nàng luôn nỗ lực tu luyện để một ngày đạt được sự lạnh lùng và chuẩn xác như ngài.
         feelings: {yeu: 10, han: 0, kinh: 85, tin: 90, so: 0, on: 20}

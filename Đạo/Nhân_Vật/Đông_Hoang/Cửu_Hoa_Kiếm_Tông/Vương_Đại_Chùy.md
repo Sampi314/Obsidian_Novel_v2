@@ -17,9 +17,13 @@ arcs:
         type: Pháp Bảo
     stats: [490, 280, 250, 200, 470, 350]
     relationships:
+      - character: Liệt Hỏa Vân
+        description: Vị khách quen thuộc của lò rèn, người hay nhờ ta gia cố binh khí sau mỗi trận chiến.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 80, so: 0, on: 10}
       - character: Phạm Kim Thiết
         description: Người thợ rèn trẻ đầy tiềm năng, ta luôn ưu tiên những nguyên liệu hiếm cho hắn.
-        feelings: {yeu: 10, han: 0, kinh: 0, tin: 85, so: 0, on: 30}      - character: Kim Vĩnh Lợi
+        feelings: {yeu: 10, han: 0, kinh: 0, tin: 85, so: 0, on: 30}
+      - character: Kim Vĩnh Lợi
         description: Sư huynh đồng môn
         feelings: { yeu: 10, han: 0, kinh: 50, tin: 85, so: 0, on: 10 }
 ---

@@ -20,7 +20,8 @@ arcs:
     relationships:
       - character: Đoàn Nguyệt Tiên
         description: Tỷ muội đồng môn, người bạn tâm giao hay cùng ta tọa thiền ngắm trăng.
-        feelings: {yeu: 50, han: 0, kinh: 15, tin: 80, so: 0, on: 15}      - character: Vũ Phi Kiếm
+        feelings: {yeu: 50, han: 0, kinh: 15, tin: 80, so: 0, on: 15}
+      - character: Vũ Phi Kiếm
         description: Sư phụ tôn kính, người đã cứu vớt cuộc đời nàng từ đống tro tàn của dịch bệnh và dạy nàng cách tìm thấy sự bình yên.
         feelings: {yeu: 20, han: 0, kinh: 90, tin: 95, so: 0, on: 80}
       - character: Lâm Tĩnh Tâm

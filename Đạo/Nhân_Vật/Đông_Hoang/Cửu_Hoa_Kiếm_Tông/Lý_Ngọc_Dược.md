@@ -18,6 +18,9 @@ arcs:
         type: Pháp Bảo
     stats: [1000, 1400, 1350, 1100, 1200, 1450]
     relationships:
+      - character: Tôn Bách Xuyên
+        description: Sư đệ Nội môn nhút nhát nhưng có tài luyện đan, ta đánh giá cao sự tỉ mỉ của y.
+        feelings: {yeu: 20, han: 0, kinh: 0, tin: 85, so: 0, on: 10}
       - character: Nguyễn Tĩnh Kiếm
         description: Sư phụ tôn kính, người cha tinh thần đã dạy nàng y đức và tinh hoa của Ngọc Hoa Phong.
         feelings: {yeu: 85, han: 0, kinh: 90, tin: 95, so: 0, on: 80}

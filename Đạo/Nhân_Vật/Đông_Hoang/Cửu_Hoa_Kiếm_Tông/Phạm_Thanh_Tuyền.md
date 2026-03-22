@@ -16,14 +16,20 @@ arcs:
     stats: [60, 90, 85, 95, 55, 75]
     relationships:
       - character: Ngoại Môn Đại Trưởng Lão
-        description: Kính trọng và biết ơn
-        feelings:
-          yeu: 10
-          han: 0
-          kinh: 70
-          tin: 80
-          so: 20
-          on: 50
+        description: Kính trọng và biết ơn vì ngài đã từng ra tay cứu mạng hai anh em nàng lúc mới vào tông môn.
+        feelings: { yeu: 10, han: 0, kinh: 70, tin: 80, so: 20, on: 50 }
+      - character: Phạm Tử Phong
+        description: Anh trai sinh đôi, người nàng hết lòng yêu thương và luôn là hậu phương vững chắc trong mọi cuộc giao tranh.
+        feelings: { yeu: 95, han: 0, kinh: 10, tin: 100, so: 0, on: 60 }
+      - character: Chu Minh Nguyệt
+        description: Sư tỷ Chân truyền, người nàng thầm ngưỡng mộ về vẻ đẹp và tài năng tình báo, coi đó là hình mẫu lý tưởng.
+        feelings: { yeu: 20, han: 0, kinh: 60, tin: 75, so: 0, on: 10 }
+      - character: Lâm Hồng Nhạn
+        description: Nữ hiệp cùng khóa, nàng nể phục sự hào sảng và trượng nghĩa của Hồng Nhạn dù đôi khi thấy nàng quá nóng nảy.
+        feelings: { yeu: 40, han: 0, kinh: 10, tin: 85, so: 0, on: 20 }
+      - character: Lý Thanh Phong
+        description: Phong chủ Thanh Hoa, vị tiên nhân nàng hằng mơ ước được bái sư để theo đuổi con đường tình báo.
+        feelings: { yeu: 5, han: 0, kinh: 85, tin: 70, so: 30, on: 10 }
 ---
 
 # HỒ SƠ NHÂN VẬT: PHẠM THANH TUYỀN (范青泉)

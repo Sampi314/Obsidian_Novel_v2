@@ -17,6 +17,9 @@ arcs:
         type: Pháp Bảo
     stats: [480, 300, 380, 220, 450, 420]
     relationships:
+      - character: Thiết Trọng Nghĩa
+        description: Sư đệ Nội môn kiên định, ta thấy được bóng dáng của sự bền bỉ trong tay búa của y.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 85, so: 0, on: 10}
       - character: Vương Kim Tỏa
         description: Phong Chủ chỉ dạy luyện khí
         feelings: { yeu: 0, han: 0, kinh: 90, tin: 80, so: 10, on: 60 }

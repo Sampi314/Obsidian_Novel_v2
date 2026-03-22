@@ -19,7 +19,8 @@ arcs:
     relationships:
       - character: Nguyệt Tĩnh Yên
         description: Đệ tử nội môn có tâm cảnh tĩnh lặng hiếm thấy, nàng là tương lai của Nguyệt Hoa.
-        feelings: {yeu: 10, han: 0, kinh: 0, tin: 90, so: 0, on: 20}      - character: Vũ Nguyệt Hà
+        feelings: {yeu: 10, han: 0, kinh: 0, tin: 90, so: 0, on: 20}
+      - character: Vũ Nguyệt Hà
         description: Chân truyền đệ tử, nàng có ngộ tính thiền định trác tuyệt, là viên ngọc quý của Nguyệt Hoa.
         feelings: {yeu: 20, han: 0, kinh: 0, tin: 90, so: 0, on: 30}
       - character: Lý Lục Trần

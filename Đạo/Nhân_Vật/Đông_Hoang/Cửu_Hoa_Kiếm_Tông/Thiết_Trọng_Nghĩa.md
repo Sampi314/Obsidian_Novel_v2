@@ -18,8 +18,20 @@ arcs:
     stats: [490, 250, 280, 200, 480, 430]
     relationships:
       - character: Vương Đại Chùy
-        description: Sư huynh thân thiết
-        feelings: { yeu: 10, han: 0, kinh: 30, tin: 90, so: 0, on: 0 }
+        description: Sư huynh thân thiết, người cùng hắn thức đêm rèn kiếm trong những ngày đầu và luôn là chỗ dựa tin cậy.
+        feelings: { yeu: 85, han: 0, kinh: 30, tin: 95, so: 0, on: 50 }
+      - character: Kim Vĩnh Lợi
+        description: Sư huynh đồng môn, người hắn luôn ngưỡng mộ về tay nghề luyện khí đỉnh cao và sự tỉ mỉ.
+        feelings: { yeu: 20, han: 0, kinh: 75, tin: 85, so: 0, on: 20 }
+      - character: Vương Kim Tỏa
+        description: Phong chủ Kim Hoa, vị sư tôn nghiêm khắc đã dạy hắn cách dùng búa để tôi luyện ý chí.
+        feelings: { yeu: 10, han: 0, kinh: 90, tin: 80, so: 25, on: 15 }
+      - character: Thiết Tiểu Nghĩa
+        description: Em họ ở Ngoại môn, người hắn luôn lấy bản thân làm gương để răn dạy về lòng dũng cảm.
+        feelings: { yeu: 70, han: 0, kinh: 10, tin: 85, so: 0, on: 30 }
+      - character: Mã Kim Thạch
+        description: Đồng môn Nội môn, vị bằng hữu cùng sở thích rèn đúc và thường xuyên đọ sức mạnh thể chất.
+        feelings: { yeu: 30, han: 0, kinh: 40, tin: 80, so: 0, on: 10 }
 ---
 
 # HỒ SƠ NHÂN VẬT: THIẾT TRỌNG NGHĨA (鐵重義)

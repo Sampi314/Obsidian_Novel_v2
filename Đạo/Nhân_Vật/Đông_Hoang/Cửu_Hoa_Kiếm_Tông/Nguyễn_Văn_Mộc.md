@@ -15,6 +15,9 @@ arcs:
     inventory: []
     stats: [70, 10, 150, 30, 40, 15]
     relationships:
+      - character: Đoàn Nông Phu
+        description: Lão tá điền vui tính, thợ mộc tài hoa này hay giúp lão sửa sang chuồng trâu.
+        feelings: {yeu: 40, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
       - character: Lão Trương
         description: Bạn nhậu vong niên, người thường xuyên đổi củi lấy canh nóng.
         feelings: {yeu: 50, han: 0, kinh: 10, tin: 90, so: 0, on: 40}

@@ -15,6 +15,9 @@ arcs:
     inventory: []
     stats: [6500, 12000, 14500, 8000, 9500, 13000]
     relationships:
+      - character: Tăng Lệ Hà
+        description: Đệ tử nội môn có ý chí kiên định, ta thấy được sự nhiệt huyết của nàng đối với tông môn.
+        feelings: {yeu: 10, han: 0, kinh: 0, tin: 80, so: 0, on: 10}
       - character: Phạm Kiếm Đồng
         description: Đệ tử nội môn trung thành, người luôn tận tụy trong các công việc sự vụ của tông môn.
         feelings: {yeu: 10, han: 0, kinh: 0, tin: 85, so: 0, on: 10}

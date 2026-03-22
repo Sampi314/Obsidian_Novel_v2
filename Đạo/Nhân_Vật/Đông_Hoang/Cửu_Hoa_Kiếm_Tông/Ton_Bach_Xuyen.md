@@ -26,31 +26,19 @@ arcs:
     relationships:
       - character: Tôn Nguyệt Kiếm
         description: Biểu muội mà y luôn nấp sau lưng mỗi khi Tôn Hỏa Liệt tìm tới, rất biết ơn sự bảo vệ của nàng.
-        feelings:
-          yeu: 85
-          han: 0
-          kinh: 0
-          tin: 90
-          so: 0
-          on: 50
+        feelings: { yeu: 85, han: 0, kinh: 0, tin: 90, so: 0, on: 50 }
       - character: Tôn Hỏa Liệt
         description: Biểu huynh cục súc, nỗi ám ảnh lớn nhất đời y. Mỗi lần nghe thấy tiếng cười của Hỏa Liệt là y run rẩy.
-        feelings:
-          yeu: 50
-          han: 0
-          kinh: 0
-          tin: 60
-          so: 85
-          on: 0
+        feelings: { yeu: 50, han: 0, kinh: 0, tin: 60, so: 85, on: 0 }
       - character: Ngoại Môn Đại Trưởng Lão
         description: Lão không hài lòng với sự nhút nhát của y nhưng lại rất thích những viên đan dược cầm máu y luyện chế.
-        feelings:
-          yeu: 0
-          han: 0
-          kinh: 70
-          tin: 60
-          so: 60
-          on: 0
+        feelings: { yeu: 0, han: 0, kinh: 70, tin: 60, so: 60, on: 0 }
+      - character: Lý Ngọc Dược
+        description: Sư huynh Chân truyền, người y hằng mơ ước được trở thành đệ tử ký danh để học hỏi y thuật đỉnh cao.
+        feelings: { yeu: 10, han: 0, kinh: 90, tin: 85, so: 0, on: 20 }
+      - character: Nguyễn Tĩnh Kiếm
+        description: Phong chủ Ngọc Hoa, vị tiên nhân nhân từ mà y luôn thầm cầu nguyện cho sức khỏe của ngài.
+        feelings: { yeu: 15, han: 0, kinh: 95, tin: 80, so: 10, on: 10 }
 ---
 
 # HỒ SƠ NHÂN VẬT: TÔN BÁCH XUYÊN (孫百川)

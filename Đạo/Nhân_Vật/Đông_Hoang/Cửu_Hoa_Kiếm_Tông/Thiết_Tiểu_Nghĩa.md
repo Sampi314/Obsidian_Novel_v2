@@ -18,6 +18,9 @@ arcs:
     stats: [125, 75, 65, 70, 115, 105]
     relationships:
       - character: Thiết Trọng Nghĩa
+        description: Đường huynh gương mẫu, người ta hằng lấy làm mục tiêu để rèn luyện lòng dũng cảm.
+        feelings: {yeu: 80, han: 0, kinh: 30, tin: 90, so: 0, on: 40}
+      - character: Thiết Trọng Nghĩa
         description: Tộc huynh ở Nội Môn
         feelings: { yeu: 10, han: 0, kinh: 45, tin: 85, so: 0, on: 0 }
 ---

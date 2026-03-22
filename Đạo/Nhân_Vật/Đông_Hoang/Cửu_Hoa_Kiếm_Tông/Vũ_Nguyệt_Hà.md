@@ -17,7 +17,8 @@ arcs:
     relationships:
       - character: Đoàn Nguyệt Tiên
         description: Bạn đồng niên, đối thủ cạnh tranh lành mạnh để cùng nhau tiến bộ.
-        feelings: {yeu: 35, han: 0, kinh: 10, tin: 75, so: 0, on: 10}      - character: Vũ Phi Kiếm
+        feelings: {yeu: 35, han: 0, kinh: 10, tin: 75, so: 0, on: 10}
+      - character: Vũ Phi Kiếm
         description: Sư phụ tôn kính, Phong chủ Nguyệt Hoa Phong.
         feelings: {yeu: 10, han: 0, kinh: 90, tin: 85, so: 0, on: 30}
       - character: Lâm Tĩnh Tâm

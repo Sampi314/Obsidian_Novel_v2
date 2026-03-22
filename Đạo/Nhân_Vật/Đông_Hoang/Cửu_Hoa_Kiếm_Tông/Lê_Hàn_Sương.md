@@ -15,6 +15,9 @@ arcs:
     inventory: []
     stats: [3500, 4500, 3800, 4200, 3200, 4800]
     relationships:
+      - character: Lại Thiên Sương
+        description: Đệ tử ngoại môn có tâm cảnh băng hàn đáng nể, người ta thầm dõi theo sự tiến bộ.
+        feelings: {yeu: 10, han: 0, kinh: 30, tin: 75, so: 0, on: 10}
       - character: Trần Bạch Tuyết
         description: Đệ tử nội môn kiên định, người mang kiếm ý băng sương thuần khiết nhất của Bạch Hoa Phong.
         feelings: {yeu: 10, han: 0, kinh: 0, tin: 85, so: 0, on: 20}

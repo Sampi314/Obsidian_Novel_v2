@@ -18,8 +18,20 @@ arcs:
     stats: [330, 410, 300, 350, 250, 320]
     relationships:
       - character: Hồng Chiến Thắng
-        description: Sư huynh thân thiết
+        description: Sư huynh thân thiết, người luôn che chắn và dẫn dắt y trong các trận chiến thực địa.
         feelings: { yeu: 10, han: 0, kinh: 40, tin: 80, so: 0, on: 0 }
+      - character: Trần Hồng Kiếm
+        description: Phong chủ Hồng Hoa, vị sư tôn uy nghiêm mà y hết mực kính sợ và sùng bái.
+        feelings: { yeu: 5, han: 0, kinh: 90, tin: 85, so: 30, on: 20 }
+      - character: Hồng Diệm
+        description: Sư tỷ đồng môn, hai người thường xuyên cùng nhau luyện tập kỹ thuật hỏa hệ kiếm khí.
+        feelings: { yeu: 30, han: 0, kinh: 10, tin: 75, so: 0, on: 10 }
+      - character: Liệt Hỏa Quân
+        description: Sư đệ đồng môn, người y thường xuyên chỉ điểm về cách thức kiểm soát hỏa hầu.
+        feelings: { yeu: 40, han: 0, kinh: 0, tin: 85, so: 0, on: 15 }
+      - character: Vương Đại Chùy
+        description: Vị tiền bối thợ rèn ở Hậu Cần Đường, người thường xuyên giúp y rèn lại binh khí sau các trận chiến.
+        feelings: { yeu: 20, han: 0, kinh: 50, tin: 80, so: 0, on: 10 }
 ---
 
 # HỒ SƠ NHÂN VẬT: LIỆT HỎA VÂN (烈火雲)

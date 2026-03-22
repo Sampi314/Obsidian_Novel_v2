@@ -18,6 +18,9 @@ arcs:
     stats: [450, 380, 310, 290, 360, 410]
     relationships:
       - character: Liệt Hỏa Vân
+        description: Sư huynh nhiệt tình, người hay giúp ta rèn luyện cách kiểm soát hỏa linh lực.
+        feelings: {yeu: 45, han: 0, kinh: 20, tin: 85, so: 0, on: 20}
+      - character: Liệt Hỏa Vân
         description: Sư đệ đồng môn
         feelings: { yeu: 10, han: 0, kinh: 30, tin: 85, so: 0, on: 0 }
 ---

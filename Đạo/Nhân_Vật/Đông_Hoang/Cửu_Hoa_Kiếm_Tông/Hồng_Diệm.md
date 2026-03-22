@@ -17,6 +17,9 @@ arcs:
         type: Pháp Bảo
     stats: [380, 410, 290, 320, 280, 360]
     relationships:
+      - character: Liệt Hỏa Vân
+        description: Sư đệ đồng môn, người ta luôn tin tưởng giao phó nhiệm vụ yểm trợ hỏa lực.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 80, so: 0, on: 10}
       - character: Hồng Chiến Thắng
         description: Sư huynh đồng môn
         feelings: { yeu: 10, han: 0, kinh: 50, tin: 80, so: 0, on: 0 }

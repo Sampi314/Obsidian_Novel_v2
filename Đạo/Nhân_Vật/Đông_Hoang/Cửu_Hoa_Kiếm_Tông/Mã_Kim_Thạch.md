@@ -17,33 +17,24 @@ arcs:
         type: Trang Bị
     stats: [500, 150, 100, 200, 450, 250]
     relationships:
+      - character: Thiết Trọng Nghĩa
+        description: Bạn đồng môn cùng sở thích đập nát những tảng đá khổng lồ để giải tỏa áp lực.
+        feelings: {yeu: 35, han: 0, kinh: 10, tin: 80, so: 0, on: 15}
       - character: Vương Kim Tỏa
-        description: Sư bá
-        feelings:
-          yeu: 10
-          han: 0
-          kinh: 80
-          tin: 80
-          so: 10
-          on: 30
+        description: Sư bá tôn kính, người đã phát hiện thiên phú và mang y về Kim Hoa Phong để rèn luyện thể chất.
+        feelings: { yeu: 10, han: 0, kinh: 80, tin: 80, so: 10, on: 30 }
       - character: Hoàng Hồng Diệp
-        description: Đồng môn sư tỷ, rất đáng sợ khi nàng nổi nóng
-        feelings:
-          yeu: 20
-          han: 0
-          kinh: 40
-          tin: 60
-          so: 30
-          on: 10
+        description: Đồng môn sư tỷ, nàng tuy hay mắng mỏ nhưng thực chất luôn quan tâm đến sự an toàn của y trong các buổi luyện tập.
+        feelings: { yeu: 20, han: 0, kinh: 40, tin: 60, so: 30, on: 10 }
       - character: Đặng Hồng Quân
-        description: Đồng môn sư huynh, hay càu nhàu về việc đập quặng quá mạnh tay
-        feelings:
-          yeu: 10
-          han: 10
-          kinh: 20
-          tin: 30
-          so: 0
-          on: 0
+        description: Đồng môn sư huynh, người hay càu nhàu về việc y dùng sức quá mạnh làm hỏng linh tài quý.
+        feelings: { yeu: 10, han: 10, kinh: 20, tin: 30, so: 0, on: 0 }
+      - character: Nguyễn Đại Chùy
+        description: Vị tiền bối thợ rèn mà y vô cùng kính trọng, hai người thường xuyên cùng nhau đọ sức mạnh quai búa.
+        feelings: { yeu: 30, han: 0, kinh: 50, tin: 85, so: 0, on: 20 }
+      - character: Mã Hắc Ngưu
+        description: Em họ, người y luôn cố gắng bảo vệ và truyền đạt những kinh nghiệm sinh tồn nơi mỏ quặng.
+        feelings: { yeu: 70, han: 0, kinh: 10, tin: 80, so: 0, on: 15 }
 ---
 
 # HỒ SƠ NHÂN VẬT: MẠ KIM THẠCH (马金石)

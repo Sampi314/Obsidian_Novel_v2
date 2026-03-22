@@ -15,6 +15,9 @@ arcs:
     inventory: []
     stats: [2800, 4800, 4200, 3200, 3500, 4500]
     relationships:
+      - character: Tôn Bách Xuyên
+        description: Đệ tử nội môn có tâm tính thiện lương, ta thầm cầu nguyện cho sự tiến bộ của y.
+        feelings: {yeu: 15, han: 0, kinh: 10, tin: 80, so: 0, on: 10}
       - character: Phạm Kiếm Tâm
         description: Hộ pháp thân thiết, người luôn hỗ trợ ta trong việc thiết lập các trạm cứu thương tiền tuyến.
         feelings: {yeu: 20, han: 0, kinh: 10, tin: 85, so: 0, on: 15}

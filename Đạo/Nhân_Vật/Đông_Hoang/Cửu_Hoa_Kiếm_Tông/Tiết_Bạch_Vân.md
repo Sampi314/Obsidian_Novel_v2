@@ -17,7 +17,8 @@ arcs:
     relationships:
       - character: Tiết Thanh Phong
         description: Đường huynh lãng tử, người luôn che chở ta khỏi những rắc rối ở Ngoại môn.
-        feelings: {yeu: 85, han: 0, kinh: 40, tin: 95, so: 0, on: 50}      - character: Tiết Thanh Phong
+        feelings: {yeu: 85, han: 0, kinh: 40, tin: 95, so: 0, on: 50}
+      - character: Tiết Thanh Phong
         description: Đường huynh, luôn sát cánh và cạnh tranh học hỏi kiếm thuật lẫn nhau.
         feelings:
           yeu: 60

@@ -24,6 +24,9 @@ arcs:
         type: Pháp Bảo
     stats: [160, 180, 150, 190, 170, 160]
     relationships:
+      - character: Phan Kiếm Hoa
+        description: Đối thủ cạnh tranh sắc đẹp và tài năng, ta nể phục sự tỉ mỉ của nàng trong kiếm đạo.
+        feelings: {yeu: 10, han: 10, kinh: 20, tin: 60, so: 0, on: 0}
       - character: Lục Tiểu Vân
         description: Đồng môn chính nghĩa, người nàng đánh giá cao về tấm lòng hiền hậu.
         feelings: {yeu: 25, han: 0, kinh: 10, tin: 80, so: 0, on: 15}

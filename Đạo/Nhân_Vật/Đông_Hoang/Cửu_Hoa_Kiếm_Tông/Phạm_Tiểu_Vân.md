@@ -15,6 +15,9 @@ arcs:
         type: Túi Trữ Vật Hạ Phẩm
     stats: [110, 145, 125, 135, 115, 140]
     relationships:
+      - character: Lâm Hồng Nhạn
+        description: Sư tỷ hiệp nghĩa, người hay mang bánh kẹo từ Bếp Đường xuống chia cho ta.
+        feelings: {yeu: 80, han: 0, kinh: 20, tin: 90, so: 0, on: 40}
       - character: Lê Thanh Đức
         description: Người sư huynh tốt bụng luôn che chở Tiểu Vân khỏi đám đệ tử ức hiếp.
         feelings:

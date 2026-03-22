@@ -18,8 +18,20 @@ arcs:
     stats: [70, 105, 90, 85, 65, 125]
     relationships:
       - character: Lâm Tâm Kiếm
-        description: Tộc huynh ở Nội Môn
-        feelings: { yeu: 15, han: 0, kinh: 45, tin: 90, so: 0, on: 0 }
+        description: Anh họ ở Nội Môn, người đã dạy cho nàng rằng sức mạnh lớn nhất nằm ở sự tĩnh lặng của trái tim.
+        feelings: { yeu: 85, han: 0, kinh: 45, tin: 90, so: 0, on: 50 }
+      - character: Vũ Tiểu Hà
+        description: Bạn thân, người thường cùng nàng trao đổi về kinh nghiệm tu luyện tâm cảnh bên suối linh khí.
+        feelings: { yeu: 60, han: 0, kinh: 10, tin: 85, so: 0, on: 20 }
+      - character: Vũ Phi Kiếm
+        description: Phong chủ Nguyệt Hoa, vị tiền bối mà nàng luôn kính ngưỡng về tâm cảnh thoát tục.
+        feelings: { yeu: 10, han: 0, kinh: 90, tin: 80, so: 20, on: 15 }
+      - character: Nguyệt Tĩnh Sương
+        description: Sư tỷ đồng môn, người nàng luôn lấy làm hình mẫu về sự điềm tĩnh và thanh khiết.
+        feelings: { yeu: 30, han: 0, kinh: 50, tin: 85, so: 0, on: 10 }
+      - character: Lục Tiểu Vân
+        description: Bạn đồng môn tốt bụng, người hay giúp nàng bảo vệ linh điền khỏi thú hoang.
+        feelings: { yeu: 40, han: 0, kinh: 10, tin: 80, so: 0, on: 10 }
 ---
 
 # HỒ SƠ NHÂN VẬT: LÂM TIỂU TÂM (林小心)

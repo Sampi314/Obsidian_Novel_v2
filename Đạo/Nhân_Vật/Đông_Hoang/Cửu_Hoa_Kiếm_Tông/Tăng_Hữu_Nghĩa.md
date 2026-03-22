@@ -22,6 +22,9 @@ arcs:
         type: Linh Vật (Phù hộ thể)
     stats: [140, 100, 80, 90, 130, 145]
     relationships:
+      - character: Tăng Lệ Hà
+        description: Hậu bối đồng tộc, người ta luôn dành sự quan tâm và bảo vệ.
+        feelings: {yeu: 85, han: 0, kinh: 10, tin: 90, so: 0, on: 40}
       - character: Hứa Bạch Phàm
         description: Bạn đồng môn thân thiết, thường xuyên cùng nhau tuần tra Ngoại Môn Viện, hai người bổ sung cho nhau rất tốt.
         feelings:

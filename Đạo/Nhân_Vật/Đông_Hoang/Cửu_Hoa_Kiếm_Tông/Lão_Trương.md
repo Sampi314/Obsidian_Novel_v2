@@ -21,12 +21,16 @@ arcs:
         type: Vật Phẩm
     stats: [2, 1, 2, 5, 4, 3]
     relationships:
+      - character: Dương Bạch Hải
+        description: Cậu thiếu niên Ngoại môn gầy gò, ta thường lén để dành đồ ăn cho cậu khi thấy cậu làm việc vất vả.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 80, so: 0, on: 15}
       - character: Lý Tiểu Kiếm
         description: Chàng trai Ngoại môn thật thà, người hay giúp ta những việc nặng nhọc.
         feelings: {yeu: 25, han: 0, kinh: 10, tin: 80, so: 0, on: 15}
       - character: Châu Thanh Hồng
         description: Nữ đệ tử tháo vát, người nàng thường giúp ta sửa sang vật dụng bếp.
-        feelings: {yeu: 30, han: 0, kinh: 10, tin: 85, so: 0, on: 20}      - character: Nguyễn Văn Mộc
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
+      - character: Nguyễn Văn Mộc
         description: Bạn rượu thân thiết, thợ mộc tài hoa hay giúp ta sửa sang vật dụng trong bếp.
         feelings: {yeu: 50, han: 0, kinh: 10, tin: 90, so: 0, on: 30}
       - character: Phạm Gánh Nước

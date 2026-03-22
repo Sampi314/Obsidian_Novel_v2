@@ -19,7 +19,8 @@ arcs:
     relationships:
       - character: Hàn Phi Tuyết
         description: Đệ tử Ngoại môn có tâm cảnh băng hàn đáng nể, người ta thầm dõi theo.
-        feelings: {yeu: 10, han: 0, kinh: 30, tin: 70, so: 0, on: 10}      - character: Bạch Kiếm Phong
+        feelings: {yeu: 10, han: 0, kinh: 30, tin: 70, so: 0, on: 10}
+      - character: Bạch Kiếm Phong
         description: Đồng môn kiêm đối thủ
         feelings: { yeu: 0, han: 0, kinh: 40, tin: 50, so: 0, on: 0 }
 ---

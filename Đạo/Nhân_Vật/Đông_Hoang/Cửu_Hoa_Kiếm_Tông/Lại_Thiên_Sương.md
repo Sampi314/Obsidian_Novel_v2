@@ -17,22 +17,19 @@ arcs:
     relationships:
       - character: Lại Thiên Vũ
         description: Huynh trưởng sinh đôi, luôn là bức tường che chắn hoàn hảo cho mọi đòn tấn công của nàng.
-        feelings:
-          yeu: 90
-          han: 0
-          kinh: 50
-          tin: 100
-          so: 0
-          on: 40
+        feelings: { yeu: 90, han: 0, kinh: 50, tin: 100, so: 0, on: 40 }
       - character: Ngoại Môn Đại Trưởng Lão
         description: Sư tôn, vô cùng kính sợ nhưng thường xuyên nhận được lời khen về thân pháp.
-        feelings:
-          yeu: 10
-          han: 0
-          kinh: 80
-          tin: 70
-          so: 40
-          on: 30
+        feelings: { yeu: 10, han: 0, kinh: 80, tin: 70, so: 40, on: 30 }
+      - character: Lê Hàn Sương
+        description: Phong chủ Bạch Hoa, hình mẫu kiếm đạo băng hàn lý tưởng mà nàng hằng theo đuổi.
+        feelings: { yeu: 10, han: 0, kinh: 90, tin: 80, so: 20, on: 15 }
+      - character: Nguyệt Tĩnh Sương
+        description: Bạn tâm giao, hai người có sự đồng điệu kỳ lạ về linh căn và tính cách lạnh lùng.
+        feelings: { yeu: 40, han: 0, kinh: 20, tin: 85, so: 0, on: 10 }
+      - character: Nguyễn Tĩnh Kiếm
+        description: Trưởng lão Ngọc Hoa, người thường xuyên điều trị hàn tật và cho nàng những lời khuyên ấm áp.
+        feelings: { yeu: 20, han: 0, kinh: 50, tin: 90, so: 0, on: 30 }
 ---
 
 # HỒ SƠ NHÂN VẬT: LẠI THIÊN SƯƠNG (賴天霜)

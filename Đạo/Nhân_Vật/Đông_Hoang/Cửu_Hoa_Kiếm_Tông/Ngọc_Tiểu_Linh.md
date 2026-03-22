@@ -19,7 +19,8 @@ arcs:
     relationships:
       - character: Đỗ Tuyết Lan
         description: Tỷ muội thân thiết, cộng sự trong những lần hái thuốc đầy cam go.
-        feelings: {yeu: 60, han: 0, kinh: 10, tin: 90, so: 0, on: 30}      - character: Ngọc Linh Chi
+        feelings: {yeu: 60, han: 0, kinh: 10, tin: 90, so: 0, on: 30}
+      - character: Ngọc Linh Chi
         description: Tộc tỷ ở Nội Môn
         feelings: { yeu: 20, han: 0, kinh: 35, tin: 90, so: 0, on: 0 }
 ---

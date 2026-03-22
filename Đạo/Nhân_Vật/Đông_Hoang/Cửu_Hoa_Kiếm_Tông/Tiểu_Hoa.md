@@ -21,6 +21,9 @@ arcs:
         type: Vật Phẩm
     stats: [1, 2, 1, 4, 3, 2]
     relationships:
+      - character: Vũ Tiểu Nguyệt
+        description: Sư tỷ Ngoại môn hay cho ta bánh kẹo và kể chuyện về rừng linh thảo.
+        feelings: {yeu: 60, han: 0, kinh: 20, tin: 90, so: 0, on: 30}
       - character: Lý Lục Trần
         description: Tông Chủ đại nhân, người cô bé ngưỡng mộ từ xa, ngài thích món canh linh thảo của cô
         feelings: {yeu: 3, han: 0, kinh: 9, tin: 7, so: 0, on: 9}

@@ -15,6 +15,9 @@ arcs:
         type: Vũ Khí
     stats: [110, 160, 140, 180, 100, 120]
     relationships:
+      - character: Phạm Thanh Tuyền
+        description: Muội muội sinh đôi, người ta thề sẽ dùng cả mạng sống bảo vệ bằng mọi giá.
+        feelings: {yeu: 98, han: 0, kinh: 0, tin: 100, so: 0, on: 70}
       - character: Ngoại Môn Đại Trưởng Lão
         description: Kính trọng và e ngại
         feelings:

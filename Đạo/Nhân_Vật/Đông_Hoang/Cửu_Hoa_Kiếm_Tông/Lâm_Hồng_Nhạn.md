@@ -17,13 +17,19 @@ arcs:
     relationships:
       - character: Nguyễn Tử Kiến
         description: Thấy Kiến yếu đuối nhưng thú vị với những món đồ vẽ bùa, thường bảo kê cậu khỏi những kẻ ức hiếp.
-        feelings:
-          yeu: 20
-          han: 0
-          kinh: 60
-          tin: 80
-          so: 0
-          "on": 0
+        feelings: { yeu: 20, han: 0, kinh: 60, tin: 80, so: 0, on: 0 }
+      - character: Phạm Tiểu Vân
+        description: Coi Vân như em gái ruột, luôn mang bánh kẹo từ Bếp Đường xuống chia cho muội muội.
+        feelings: { yeu: 85, han: 0, kinh: 10, tin: 90, so: 0, on: 40 }
+      - character: Vũ Đại Hải
+        description: Bạn đồng môn, hai người thường xuyên đấu khẩu và đọ tửu lượng tại các quán rượu chân núi.
+        feelings: { yeu: 30, han: 0, kinh: 20, tin: 75, so: 0, on: 10 }
+      - character: Phan Kiếm Hoa
+        description: Đối thủ cạnh tranh về uy danh trong nhóm đệ tử nữ, nàng thường trêu chọc vẻ cao ngạo của Kiếm Hoa.
+        feelings: { yeu: 15, han: 10, kinh: 20, tin: 60, so: 0, on: 0 }
+      - character: Lão Trương
+        description: Bạn vong niên tại Bếp Đường, người thường lén để dành đùi gà linh nhục cho hiệp nữ.
+        feelings: { yeu: 40, han: 0, kinh: 10, tin: 85, so: 0, on: 30 }
 ---
 
 # HỒ SƠ NHÂN VẬT: LÂM HỒNG NHẠN (林紅雁)
