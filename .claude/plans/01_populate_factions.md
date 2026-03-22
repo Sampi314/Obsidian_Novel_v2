@@ -432,20 +432,20 @@ Thành Chủ
 |---------|-------|:----:|:--------:|:---:|:----------:|
 | Cửu Hoa Kiếm Tông | 1. Leadership | 35 | 0 | 35 | ✅ |
 | Cửu Hoa Kiếm Tông | 2. Chân Truyền | 40 | 0 | 40 | ✅ |
-| Cửu Hoa Kiếm Tông | 3. Nội Môn | 43 | 0 | 100 | 🔄 |
-| Cửu Hoa Kiếm Tông | 4. Ngoại Môn | 15 | 0 | 200 | ⬜ |
-| Cửu Hoa Kiếm Tông | 5. Phàm Nhân | 12 | 0 | 10000 | ⬜ |
-| Thần Khí Phường | 1. Leadership | 0 | 0 | 20 | ⬜ |
-| Thần Khí Phường | 2. Chân Truyền | 0 | 0 | 30 | ⬜ |
-| Thần Khí Phường | 3. Nội Môn | 0 | 0 | 100 | ⬜ |
+| Cửu Hoa Kiếm Tông | 3. Nội Môn | 100 | 0 | 100 | ✅ |
+| Cửu Hoa Kiếm Tông | 4. Ngoại Môn | 200 | 0 | 200 | ✅ |
+| Cửu Hoa Kiếm Tông | 5. Phàm Nhân | 77 | 0 | 10000 | 🔄 |
+| Thần Khí Phường | 1. Leadership | 20 | 0 | 20 | ✅ |
+| Thần Khí Phường | 2. Chân Truyền | 31 | 0 | 30 | ✅ |
+| Thần Khí Phường | 3. Nội Môn | 0 | 20 | 100 | 🔄 |
 | Thần Khí Phường | 4. Ngoại Môn | 0 | 0 | 200 | ⬜ |
 | Thần Khí Phường | 5. Phàm Nhân | 0 | 0 | 6000 | ⬜ |
-| Dược Vương Cốc | 1. Leadership | 3 | 0 | 20 | ⬜ |
+| Dược Vương Cốc | 1. Leadership | 18 | 0 | 20 | 🔄 |
 | Dược Vương Cốc | 2. Chân Truyền | 0 | 0 | 30 | ⬜ |
 | Dược Vương Cốc | 3. Nội Môn | 0 | 0 | 100 | ⬜ |
 | Dược Vương Cốc | 4. Ngoại Môn | 0 | 0 | 200 | ⬜ |
 | Dược Vương Cốc | 5. Phàm Nhân | 0 | 0 | 8000 | ⬜ |
-| Huyền Băng Cung | 1. Leadership | 0 | 0 | 20 | ⬜ |
+| Huyền Băng Cung | 1. Leadership | 20 | 0 | 20 | ✅ |
 | Huyền Băng Cung | 2. Chân Truyền | 0 | 0 | 30 | ⬜ |
 | Huyền Băng Cung | 3. Nội Môn | 0 | 0 | 100 | ⬜ |
 | Huyền Băng Cung | 4. Ngoại Môn | 0 | 0 | 200 | ⬜ |
