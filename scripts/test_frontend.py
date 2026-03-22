@@ -1,26 +1,36 @@
-from playwright.sync_api import sync_playwright
 import os
+import time
+from playwright.sync_api import sync_playwright, expect
 
-def test_chapter_generation():
+def test_frontend():
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch()
         page = browser.new_page()
 
-        # Navigate to one of the newly generated markdown files via reader.html
-        page.goto(f"file://{os.getcwd()}/reader.html?file=%C4%90%E1%BA%A1o/Ch%C6%B0%C6%A1ng_Truy%E1%BB%87n/G%C3%B3c_Nh%C3%ACn_L%C3%A2m_Phong/Ch%C6%B0%C6%A1ng_00006_Th%E1%BB%8B_Tr%E1%BA%A5n_V%C3%B9ng_Bi%C3%AAn.md")
-        page.wait_for_selector("#content")
+        # Get the absolute path to relationship.html
+        base_path = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
+        file_url = f"file://{base_path}/relationship.html"
+
+        # Navigate to the local file
+        page.goto(file_url)
+
+        # Wait for the page to load completely and graph to render
+        page.wait_for_load_state("networkidle")
+        page.wait_for_timeout(2000) # Give D3 some time to settle
+
+        # Search for one of our new characters
+        page.fill("#search-box", "Trương Hàn Kiếm")
+
+        # Wait for search results to filter
+        page.wait_for_timeout(1000)
+
+        # Create verification directory if it doesn't exist
+        os.makedirs("/home/jules/verification", exist_ok=True)
 
         # Take a screenshot
-        page.screenshot(path="chapter_06_lam_phong.png", full_page=True)
-
-        # Navigate to the second newly generated markdown file via reader.html
-        page.goto(f"file://{os.getcwd()}/reader.html?file=%C4%90%E1%BA%A1o/Ch%C6%B0%C6%A1ng_Truy%E1%BB%87n/G%C3%B3c_Nh%C3%ACn_L%C3%A2m_Phong/Ch%C6%B0%C6%A1ng_00007_%C4%90%C6%B0%E1%BB%9Dng_V%C3%A0o_Nam_C%C6%B0%C6%A1ng.md")
-        page.wait_for_selector("#content")
-
-        # Take a screenshot
-        page.screenshot(path="chapter_07_lam_phong.png", full_page=True)
+        page.screenshot(path="/home/jules/verification/verification.png")
 
         browser.close()
 
 if __name__ == "__main__":
-    test_chapter_generation()
+    test_frontend()

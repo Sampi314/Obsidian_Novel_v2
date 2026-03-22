@@ -1,44 +1,46 @@
 ---
 type: character
 name: Mã Tiểu Trận
-hantu: 马小阵
+hantu: 馬小陣
 archetype: Ngoại Môn Đệ Tử
 race: Nhân Tộc
-dao_tam: ''
-age: 21
+dao_tam: 'Tiểu trận huyền ảo, tâm tạng vạn cơ'
+age: 18
 avatar: ''
 arcs:
   - arc: 1
     status: Còn Sống
-    cultivation: Trúc Cơ Sơ Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    cultivation: Luyện Khí Thất Tầng
+    methods: [Cửu Hoa Kiếm Quyết (Sơ Cấp)]
+    inventory:
+      - name: Trận Pháp Kiếm
+        type: Pháp Bảo
+    stats: [80, 100, 120, 80, 85, 95]
+    relationships:
+      - character: Mã Tử Vân
+        description: Tộc thúc ở Nội Môn
+        feelings: { yeu: 5, han: 0, kinh: 50, tin: 80, so: 10, on: 0 }
 ---
 
-# Mã Tiểu Trận (马小阵)
+# HỒ SƠ NHÂN VẬT: MÃ TIỂU TRẬN (馬小陣)
 
 ## I. THÔNG TIN CƠ BẢN
-- **Tên:** Mã Tiểu Trận
-- **Chức Vụ:** Ngoại Môn Đệ Tử — Tử Hoa Phong
-- **Tu Vi:** Trúc Cơ Sơ Kỳ
-- **Phe Phái:** Cửu Hoa Kiếm Tông
+- **Họ Tên:** Mã Tiểu Trận (馬小陣).
+- **Chủng Tộc:** Nhân Tộc.
+- **Tu Vi:** Luyện Khí Thất Tầng.
+- **Khu Vực:** Đông Hoang.
+- **Thế Lực:** Cửu Hoa Kiếm Tông.
+- **Chức Vụ:** Ngoại Môn Đệ Tử — Thuộc Ngoại Môn Viện.
 
 ## II. NGOẠI HÌNH & TÍNH CÁCH
-Mã Tiểu Trận có dáng người hơi gầy gò, đôi mắt tinh anh thường ẩn sau mái tóc xõa che nửa khuôn mặt. Hắn thường khoác áo bào có họa tiết trận pháp chằng chịt, bên hông lúc nào cũng đeo một chiếc la bàn bằng ngọc bích đã sờn cũ.
-Tính tình trầm lặng, cực kỳ tập trung khi nghiên cứu. Đạo tâm là lấy trận đạo đoạt thiên địa, tính toán tận cùng mọi diễn biến của trời đất.
+Vẻ ngoài có chút lơ đễnh, ánh mắt luôn suy tính điều gì đó. Tính tình cẩn thận, có khả năng tập trung cao độ khi nghiên cứu bùa chú.
 
 ## III. NĂNG LỰC & CHIẾN ĐẤU
-Tu vi Trúc Cơ Sơ Kỳ, sở trường thiết lập tiểu trận pháp hỗ trợ chiến đấu và bố trí cạm bẫy trong thời gian ngắn.
-Kỹ năng tiêu biểu là *Tử Tinh Khốn Trận* (紫星困陣) - dùng 12 lá cờ nhỏ tạo thành nhà giam linh khí khiến đối thủ không thể di chuyển.
-Điểm yếu là thể chất yếu ớt, tốc độ thi triển chậm, không thích hợp cho những trận chiến cần tốc độ và sức mạnh cận chiến.
+Khả năng sử dụng các trận pháp mini để bẫy đối thủ, biến hóa kiếm chiêu theo quy luật trận đồ. Tuyệt kỹ: *Tiểu Trận Kiếm Quyết*.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Mã Tử Vân:** Phong Chủ Tử Hoa Phong, sư bá trong gia tộc, người bảo lãnh đưa hắn vào nội môn học hỏi.
-- **Mã Tiểu Tử:** Sư tỷ đồng tông, thường xuyên hỗ trợ giải đáp các khúc mắc về trận pháp cho hắn.
-- **Hà Trận Linh:** Đồng môn sư huynh, người Mã Tiểu Trận thường rủ cùng nghiên cứu các cấm chế cổ xưa.
+- **Mã Tử Vân:** Chú họ, người đã truyền cảm hứng cho hắn về sự vi diệu của trận pháp.
+- **Tử Tiểu Tinh:** Đồng môn cùng đam mê nghiên cứu cổ trận.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
-Mã Tiểu Trận xuất thân từ nhánh phụ của Mã gia – một gia tộc nhỏ có truyền thống trận pháp từng vang danh một thời nhưng nay đã suy tàn. Được Mã Tử Vân tình cờ phát hiện tư chất khi tự tay phá giải một cấm chế cấp thấp, hắn được đặc cách đưa vào Tử Hoa Phong để bồi dưỡng.
-Hiện tại, mục tiêu lớn nhất của hắn là phục hưng lại danh tiếng trận đạo của gia tộc và sáng tạo ra loại trận pháp di động có thể kết hợp cùng phi kiếm.
+Mã Tiểu Trận gia nhập Cửu Hoa Kiếm Tông để tìm kiếm những mảnh ghép còn thiếu của các bộ trận pháp cổ gia truyền. Hắn hiện là một trong những đệ tử am hiểu cấm chế nhất tại Ngoại Môn Viện.

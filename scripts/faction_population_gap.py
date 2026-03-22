@@ -7,11 +7,11 @@ ROOT = Path(__file__).resolve().parent.parent
 
 # Target named characters by rank
 TARGETS = {
-    'Hạng Nhất': 35,
-    'Hạng Nhì': 20,
-    'Hạng Ba': 12,
-    'Hạng Tư': 7,
-    'Hạng Năm': 4,
+    'Hạng Nhất': 70,
+    'Hạng Nhì': 35,
+    'Hạng Ba': 18,
+    'Hạng Tư': 10,
+    'Hạng Năm': 6,
     'Không Xếp Hạng': 3,
 }
 

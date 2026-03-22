@@ -1,6 +1,7 @@
 # Hồ Sơ Thế Giới: Cố Nguyên Giới
 
 ### Tình trạng cập nhật gần nhất
+- Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Cửu Hoa Kiếm Tông** (Đông Hoang): **Nguyễn Văn Mộc**, **Phạm Gánh Nước**, và **Phạm Hồng Diệm**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Cửu Hoa Kiếm Tông** (Đông Hoang): **Nguyễn Kim Tuyến**, **Nguyễn Kiếm Nhi**, và **Nguyễn Thiên Thanh**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Cửu Hoa Kiếm Tông** (Đông Hoang): **Lục Tiểu Vân**, **Mã Tiểu Trận**, và **Mã Tiểu Tử**.
 - Đã cập nhật hồ sơ chi tiết cho 3 nhân vật phe **Cửu Hoa Kiếm Tông** (Đông Hoang): **Lý Ngọc Dược**, **Lý Ngọc Phong**, và **Lý Thanh Hà**.
