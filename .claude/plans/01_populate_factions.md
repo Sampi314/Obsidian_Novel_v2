@@ -440,7 +440,7 @@ Thành Chủ
 | Thần Khí Phường | 3. Nội Môn | 0 | 0 | 100 | ⬜ |
 | Thần Khí Phường | 4. Ngoại Môn | 0 | 0 | 200 | ⬜ |
 | Thần Khí Phường | 5. Phàm Nhân | 0 | 0 | 6000 | ⬜ |
-| Dược Vương Cốc | 1. Leadership | 3 | 15 | 20 | 🔄 |
+| Dược Vương Cốc | 1. Leadership | 18 | 0 | 20 | 🔄 |
 | Dược Vương Cốc | 2. Chân Truyền | 0 | 0 | 30 | ⬜ |
 | Dược Vương Cốc | 3. Nội Môn | 0 | 0 | 100 | ⬜ |
 | Dược Vương Cốc | 4. Ngoại Môn | 0 | 0 | 200 | ⬜ |
