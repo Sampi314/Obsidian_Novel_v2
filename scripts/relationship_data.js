@@ -37274,6 +37274,513 @@ const relationshipData = {
       "target": "nam_co_thu",
       "type": "master",
       "description": "Đồng liêu Vi Tộc trong nhóm Độc Lập, hỗ trợ lẫn nhau bảo vệ rừng"
+    },
+    {
+      "source": "truong-thach-lao",
+      "target": "truong-thach-tu",
+      "description": "Con trai duy nhất, nối nghiệp phu mỏ.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 0,
+        "tin": 90,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "truong-thach-lao",
+      "target": "lao-truong",
+      "description": "Bạn vong niên làm bếp, thỉnh thoảng cho rượu.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 20,
+        "tin": 60,
+        "so": 0,
+        "on": 30
+      }
+    },
+    {
+      "source": "truong-thach-tu",
+      "target": "truong-thach-lao",
+      "description": "Cha ruột, lo lắng cho sức khỏe ngày càng yếu của ông.",
+      "feelings": {
+        "yeu": 90,
+        "han": 0,
+        "kinh": 80,
+        "tin": 80,
+        "so": 0,
+        "on": 70
+      }
+    },
+    {
+      "source": "truong-thach-tu",
+      "target": "nguyen-dai-chuy",
+      "description": "Tổng Quản Rèn Đúc, hay giúp đổi công cụ hỏng lấy cái mới.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 50,
+        "tin": 40,
+        "so": 10,
+        "on": 20
+      }
+    },
+    {
+      "source": "le-kiem-mai",
+      "target": "le-tieu-dao",
+      "description": "Cháu ruột, nhận nuôi và truyền nghề mài kiếm.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 0,
+        "tin": 70,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "le-kiem-mai",
+      "target": "nguyen-dai-chuy",
+      "description": "Tổng Quản Rèn Đúc, hay đem phi kiếm rỉ sét cho Lê Kiếm Mài sửa chữa cơ bản.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 60,
+        "tin": 50,
+        "so": 20,
+        "on": 40
+      }
+    },
+    {
+      "source": "le-tieu-dao",
+      "target": "le-kiem-mai",
+      "description": "Ông nội nuôi, vô cùng kính trọng và học hỏi từng chút một.",
+      "feelings": {
+        "yeu": 90,
+        "han": 0,
+        "kinh": 80,
+        "tin": 100,
+        "so": 0,
+        "on": 100
+      }
+    },
+    {
+      "source": "nguyen-thao-duoc",
+      "target": "nguyen-thanh-thao",
+      "description": "Vợ, cùng chăm sóc linh điền Kiếm Thảo, đồng cam cộng khổ.",
+      "feelings": {
+        "yeu": 100,
+        "han": 0,
+        "kinh": 50,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "nguyen-thao-duoc",
+      "target": "le-kiem-mai",
+      "description": "Ông bạn nhậu thỉnh thoảng đem cỏ gãy hỏng cho ông ấy lấy sương mài kiếm.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 30,
+        "tin": 40,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "nguyen-thanh-thao",
+      "target": "nguyen-thao-duoc",
+      "description": "Chồng, chỗ dựa vững chắc trên linh điền.",
+      "feelings": {
+        "yeu": 100,
+        "han": 0,
+        "kinh": 80,
+        "tin": 100,
+        "so": 0,
+        "on": 30
+      }
+    },
+    {
+      "source": "nguyen-thanh-thao",
+      "target": "pham-tieu-quang",
+      "description": "Bà dì thân thiết, hay đổi nấm linh chi dại lấy vụn quặng đun bếp.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 20,
+        "tin": 50,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "pham-thiet-phu",
+      "target": "pham-tieu-quang",
+      "description": "Em gái, phụ trách phân loại quặng hắn gánh ra, thường xuyên bảo kê em.",
+      "feelings": {
+        "yeu": 100,
+        "han": 0,
+        "kinh": 0,
+        "tin": 90,
+        "so": 0,
+        "on": 50
+      }
+    },
+    {
+      "source": "pham-thiet-phu",
+      "target": "truong-thach-tu",
+      "description": "Bạn trong hầm mỏ, hay đọ sức nâng đá với nhau.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 40,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "pham-tieu-quang",
+      "target": "pham-thiet-phu",
+      "description": "Anh trai sinh tử có nhau, xót xa khi thấy anh chịu đòn roi thay mình.",
+      "feelings": {
+        "yeu": 100,
+        "han": 0,
+        "kinh": 80,
+        "tin": 100,
+        "so": 0,
+        "on": 100
+      }
+    },
+    {
+      "source": "pham-tieu-quang",
+      "target": "nguyen-thanh-thao",
+      "description": "Coi như người dì/mẹ lớn, hay lén đem rau củ và thuốc sang đổi quặng.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 50,
+        "tin": 70,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "hoang-lo-ren",
+      "target": "hoang-linh-moc",
+      "description": "Em trai kết nghĩa, làm thợ mộc đóng hộp, thường uống rượu phàm chung.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 30,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "hoang-lo-ren",
+      "target": "nguyen-dai-chuy",
+      "description": "Kính nể Tổng Quản Rèn Đúc, coi ông như sư phụ trên con đường bễ lửa.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 90,
+        "tin": 70,
+        "so": 40,
+        "on": 60
+      }
+    },
+    {
+      "source": "hoang-linh-moc",
+      "target": "hoang-lo-ren",
+      "description": "Anh trai kết nghĩa, làm thợ rèn, thường xuyên gắt gỏng nhưng tốt bụng.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 40,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "hoang-linh-moc",
+      "target": "lam-ban-kiem",
+      "description": "Chưởng quầy lấy hộp gỗ phàm từ ông đem bán kèm phi kiếm.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 10,
+        "tin": 60,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "dang-thiet-chuy",
+      "target": "dang-thiet-hoa",
+      "description": "Con gái, truyền nghề phụ bễ lò cho con mong nó cứng cỏi.",
+      "feelings": {
+        "yeu": 90,
+        "han": 0,
+        "kinh": 0,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "dang-thiet-chuy",
+      "target": "hoang-lo-ren",
+      "description": "Bạn đồng nghiệp lò rèn, thường xuyên to tiếng cãi vã xem ai nung sắt giỏi hơn.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 50,
+        "tin": 60,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "dang-thiet-hoa",
+      "target": "dang-thiet-chuy",
+      "description": "Cha ruột cộc cằn, thương nhưng hay cãi lại vì muốn tự chứng minh năng lực.",
+      "feelings": {
+        "yeu": 100,
+        "han": 0,
+        "kinh": 70,
+        "tin": 90,
+        "so": 0,
+        "on": 50
+      }
+    },
+    {
+      "source": "dang-thiet-hoa",
+      "target": "hoang-lo-ren",
+      "description": "Bạn của cha, thường gọi bằng chú nhưng thỉnh thoảng mách cha chuyện chú ấy uống say ném hỏng kìm.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 30,
+        "tin": 50,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "ma-toc-hanh",
+      "target": "ma-toc-dat",
+      "description": "Em trai, làm phụ xe, thường xuyên chỉ bảo nó cách điều khiển la thồ núi.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 0,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "ma-toc-hanh",
+      "target": "lam-ban-kiem",
+      "description": "Chưởng quầy cửa hàng kiếm, hay chở hàng cho ông ấy và nhận thù lao.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 20,
+        "tin": 60,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "ma-toc-dat",
+      "target": "ma-toc-hanh",
+      "description": "Anh trai, ngưỡng mộ tài cầm cương nhưng đôi khi thấy anh nói quá nhiều.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 70,
+        "tin": 90,
+        "so": 20,
+        "on": 50
+      }
+    },
+    {
+      "source": "ma-toc-dat",
+      "target": "vu-thu-duoc",
+      "description": "Thường xuyên giao hàng thảo mộc cho dì này, được dì cho quả ngọt.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 40,
+        "tin": 60,
+        "so": 0,
+        "on": 30
+      }
+    },
+    {
+      "source": "vu-linh-duoc",
+      "target": "vu-thu-duoc",
+      "description": "Vợ yêu quý, làm công đoạn phơi sấy, chồng tưới vợ thu.",
+      "feelings": {
+        "yeu": 100,
+        "han": 0,
+        "kinh": 60,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "vu-linh-duoc",
+      "target": "nguyen-thao-duoc",
+      "description": "Người hàng xóm chung cánh đồng, hay trao đổi kinh nghiệm pha nước linh dược phàm.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 40,
+        "tin": 60,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "vu-thu-duoc",
+      "target": "vu-linh-duoc",
+      "description": "Chồng thương yêu, cùng chăm bón trên Hậu Cần Đường điền trang thảo dược.",
+      "feelings": {
+        "yeu": 100,
+        "han": 0,
+        "kinh": 80,
+        "tin": 100,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "vu-thu-duoc",
+      "target": "ma-toc-dat",
+      "description": "Thương thằng nhỏ vận chuyển như con, hay cho nó quà vặt.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 0,
+        "tin": 70,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "lam-ban-kiem",
+      "target": "hoang-linh-moc",
+      "description": "Lấy hộp đựng kiếm từ thợ mộc này, chuyên gia kì kèo bớt một thêm hai.",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 40,
+        "tin": 50,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "lam-ban-kiem",
+      "target": "ma-toc-hanh",
+      "description": "Hay gọi chiếc xe la của gã phu này chở hàng đao kiếm phàm xuống chợ bán kiếm lời.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 30,
+        "tin": 60,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "lam-ghi-so",
+      "target": "lam-ban-kiem",
+      "description": "Chú ruột, làm sổ sách ghi nợ phế phẩm phi kiếm, hay bực vì chú lừa gạt tiền bạc.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 30,
+        "tin": 50,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "lam-ghi-so",
+      "target": "chu-bao-quan",
+      "description": "Người lau dầu rỉ sét kiếm dưới kho, hay phải chạy đi xác nhận số lượng đao với anh chàng này.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 60,
+        "tin": 80,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "chu-kiem-kho",
+      "target": "chu-bao-quan",
+      "description": "Em họ, chịu trách nhiệm mảng kiếm khí phế, còn mình là mảng thảo mộc khô, thường bù trừ sai sót cho nhau.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 30,
+        "tin": 80,
+        "so": 0,
+        "on": 50
+      }
+    },
+    {
+      "source": "chu-kiem-kho",
+      "target": "lam-ghi-so",
+      "description": "Kế toán trưởng hay cằn nhằn bắt đếm lại từng bao Kiếm Thảo.",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 50,
+        "tin": 70,
+        "so": 30,
+        "on": 0
+      }
+    },
+    {
+      "source": "chu-bao-quan",
+      "target": "chu-kiem-kho",
+      "description": "Anh họ mập mạp béo tốt, mình hay làm phần việc lau vũ khí phàm bên dưới hầm cho ổng trông thảo dược bên trên.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 30,
+        "tin": 80,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "chu-bao-quan",
+      "target": "lam-ban-kiem",
+      "description": "Đối tác lớn nhất thu mua mấy món hỏng, rất hay cãi cọ việc gỉ sét bị lau quá kĩ đi.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 20,
+        "tin": 60,
+        "so": 0,
+        "on": 10
+      }
     }
   ],
   "factions": []
