@@ -3267,17 +3267,17 @@ const relationshipData = {
     {
       "id": "ly_tuyet_ung",
       "name": "Lý Tuyết Ưng",
-      "title": "Cầm Sư",
+      "title": "Cung Chủ",
       "realm": "Nguyên Anh Hậu Kỳ",
-      "faction": "Huyền Băng Cung (Cung Chủ)",
+      "faction": "Huyền Băng Cung",
       "region": "Bắc Băng",
-      "role": "member",
+      "role": "leader",
       "pov": false,
-      "avatar_color": "#f44336",
+      "avatar_color": "#b3e5fc",
       "race": "Băng Tộc",
       "cultivation_technique": "Băng Tâm Quyết",
-      "personality": "Lạnh lùng, Cô độc, Quyết đoán",
-      "description": "- Cao ráo, thanh mảnh, dáng đi nhẹ nhàng như lướt trên tuyết.\n    - Mái tóc bạch kim dài đến gót chân, luôn tỏa ra hàn khí nhẹ."
+      "personality": "Trầm ổn, Quyết đoán, Bảo bọc",
+      "description": "Lý Tuyết Ưng mang vẻ đẹp băng lãnh không vướng bụi trần, khuôn mặt thanh tú như ngọc điêu khắc tinh xảo. Đôi mắt nàng màu xanh lam nhạt, sâu thẳm như băng nguyên ngàn năm, tỏa ra hàn khí khiến người khác e ngại. Trên trán có một ấn ký hình hoa tuyết bạc nhỏ, minh chứng cho huyết mạch Băng Tộc thuần khiết. Toát ra khí thế uy nghiêm của một vị tông chủ, đồng thời lại lạnh lẽo cự người ngàn dặm. Mùi hương trên người nàng là mùi của tuyết mới rơi, thanh khiết và sắc bén, tạo ra áp lực vô hình cho những ai đứng gần."
     },
     {
       "id": "le_thach_ban",
@@ -29923,6 +29923,272 @@ const relationshipData = {
       "race": "Nhân Tộc",
       "personality": "Thiết Luật Đạo (铁律道)",
       "description": "Khuôn mặt hốc hác, góc cạnh như bị búa đập ra, làn da sạm màu chì. Đôi mắt sắc lẹm không bao giờ chớp trước bất kỳ van xin nào. Đặc biệt, y luôn đeo một chiếc mặt nạ nửa mặt bằng Hắc Cương, chỉ để lộ đôi mắt và khóe miệng luôn nhếch xuống."
+    },
+    {
+      "id": "tu_tuyet_phuong",
+      "name": "Từ Tuyết Phương",
+      "title": "Trưởng Lão",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Tỉ mỉ, Bao dung, Say mê",
+      "description": "Nàng có dáng người thấp bé, đẫy đà nhưng đôi bàn tay cực kỳ nhanh nhẹn và khéo léo. Trên mặt thường vương chút nhọ từ bếp lò luyện đan, nhưng không che giấu được làn da trắng mịn như tuyết. Mái tóc bới cao bằng những chiếc trâm gỗ có đính hoa linh thảo. Một người phụ nữ tất bật nhưng luôn tỏa ra hơi ấm kỳ lạ giữa Băng Cung giá lạnh. Nàng luôn có mùi hương thoang thoảng của thảo mộc và đan dược vừa ra lò, khiến ai tiếp xúc cũng cảm thấy an tâm và thư giãn."
+    },
+    {
+      "id": "sanh_nguyet_han",
+      "name": "Sảnh Nguyệt Hàn",
+      "title": "Hộ Pháp",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Tàn Nhẫn, Trầm Lặng, Trọng Tình Trọng Nghĩa",
+      "description": "Nàng sở hữu nhan sắc ma mị và nhợt nhạt, như vầng trăng khuyết ẩn hiện sau làn sương mù Bắc Băng. Mái tóc dài màu bạch kim thường xõa tự nhiên, che khuất một phần khuôn mặt thanh tú với đôi mắt luôn buồn bã. Một cảm giác u sầu nhưng cực kỳ sắc bén, như một lưỡi dao giấu trong bóng tối. Nàng ít nói, nhưng sự hiện diện của nàng khiến người khác không rét mà run."
+    },
+    {
+      "id": "ly_bang_cam",
+      "name": "Lý Băng Cầm",
+      "title": "Các Chủ",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Uyển chuyển, Nhạy cảm, Kiên nhẫn",
+      "description": "Lý Băng Cầm sở hữu khuôn mặt tròn nhỏ nhắn và đôi mắt to trong veo như mặt hồ mùa thu đóng băng. Mái tóc đen dài thường được bối lỏng lẻo bằng một cây trâm băng đơn giản. So với Lý Tuyết Ưng, dung mạo nàng có phần mềm mại và gần gũi hơn. Toát ra khí chất của một nữ nhạc sư thanh nhã, tiếng nói trong trẻo như tiếng ngọc va vào nhau. Dù đứng giữa bão tuyết, nàng vẫn mang lại cảm giác tĩnh lặng và yên bình cho người đối diện."
+    },
+    {
+      "id": "chu_tuyet_lien",
+      "name": "Chu Tuyết Liên",
+      "title": "Trưởng Lão",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Tỉ mỉ, Ham học, Thực tế",
+      "description": "Dáng vóc nhỏ nhắn nhưng vững vàng, Chu Tuyết Liên toát lên vẻ đẹp trong trẻo như đóa sen tuyết vùng cực. Đôi mắt nàng to tròn, mang sắc xanh lục bảo hiếm thấy ở Băng Nguyên. Tóc đen nhánh búi cao, cài một đóa hoa sen băng do linh lực ngưng tụ. Điềm tĩnh, uyên bác và đầy tính toán. Ở cạnh nàng luôn cảm nhận được sự ổn định và an toàn, như đang đứng trong mắt bão hoặc tâm trận pháp phòng ngự kiên cố."
+    },
+    {
+      "id": "tieu_bang_tam",
+      "name": "Tiêu Băng Tâm",
+      "title": "Hộ Pháp",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Cứng cỏi, Nóng nảy, Chính trực",
+      "description": "Thân hình cao lớn, tráng kiện, gương mặt chữ điền cương nghị, đôi mắt ẩn chứa tia chớp nhỏ khi giận dữ. Cằm vuông vức và thường có râu quai nón ngắn gọn gàng pha chút bạc trắng. Toát ra khí thế vừa lạnh lẽo lại cuồng bạo như bão tuyết pha sấm sét. Đứng cạnh hắn, cảm nhận được uy lực của một hàng phòng ngự kiên cố không thể xâm phạm."
+    },
+    {
+      "id": "thieu_han_cung",
+      "name": "Thiều Hàn Cung",
+      "title": "Trưởng Lão",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Kiên nhẫn, Tính toán, Ít nói",
+      "description": "Thân hình cao gầy, dong dỏng với những đường nét góc cạnh, sắc bén như một mũi tên. Mái tóc màu bạch kim được búi gọn gàng ra phía sau để không che khuất tầm nhìn, đuôi tóc dài tung bay theo gió. Đôi mắt màu lam xám vô cùng tinh anh, có thể nhìn thấu một điểm nhỏ cách xa vài dặm trong bão tuyết. Một sự tĩnh lặng chết người. Hắn là một sát thủ tầm xa không bao giờ bộc lộ cảm xúc, giống như con thú săn mồi kiên nhẫn nhất Băng Nguyên. Ở gần hắn, người ta luôn có cảm giác mình đang nằm trong hồng tâm."
+    },
+    {
+      "id": "gia_han_thien",
+      "name": "Giả Hàn Thiên",
+      "title": "Trưởng Lão",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Bộc trực, Nhiệt huyết, Trọng khí phách",
+      "description": "Thân hình cao ráo, cân đối nhưng ẩn chứa sức mạnh bùng nổ. Khuôn mặt vuông vức, nam tính với vết sẹo kéo dài từ chân mày xuống má trái, dấu tích của một lần chiến đấu với thú hoang từ thời trẻ. Mái tóc cắt ngắn, vuốt ngược ra sau tạo thành những gờ băng nhọn hoắt. Một chiến binh bạo dạn và trực tính. Mọi cử chỉ đều dứt khoát, không có động tác thừa. Ánh mắt luôn nhìn thẳng, đầy tính khiêu khích đối với kẻ mạnh hơn mình."
+    },
+    {
+      "id": "dong_tuyet_hoa",
+      "name": "Đông Tuyết Hoa",
+      "title": "Hộ Pháp",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Nhẹ nhàng, Tinh tế, Che giấu",
+      "description": "Nàng như đóa hoa duy nhất nở trên đỉnh tuyết sơn lạnh giá. Gương mặt thanh tú, da dẻ hồng hào hiếm có so với những đệ tử Băng Tộc thường có làn da xanh nhạt. Tóc nàng luôn cài những đóa Tuyết Liên nhỏ, hương thơm nhẹ lan tỏa bốn bề. Một cảm giác xuân ý giữa trời đông. Sự hiện diện của Đông Tuyết Hoa làm dịu bớt cái khắc nghiệt của sơn môn, khiến ai cũng cảm thấy thư thái. Tuy nhiên, khi vào trận mạc, hơi thở đó trở thành ảo ảnh chết chóc."
+    },
+    {
+      "id": "lam_tuyet_nhan",
+      "name": "Lâm Tuyết Nhan",
+      "title": "Thái Thượng Trưởng Lão",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Trí tuệ, Bao dung, Tách biệt",
+      "description": "Mặc dù đã trải qua hàng nghìn năm tu luyện, Lâm Tuyết Nhan vẫn giữ được nhan sắc như thuở đôi mươi nhờ công pháp Băng Tinh Ngọc Cốt. Khuôn mặt bà đẹp rạng rỡ nhưng lạnh lẽo, mái tóc bạc trắng ánh lên sắc lam huyền ảo trong ánh trăng. Ánh mắt luôn mang một sự tĩnh lặng của tuế nguyệt ngàn vạn năm không đổi. Là trụ cột tinh thần của Huyền Băng Cung, khí chất của bà thâm sâu khó lường. Mỗi khi bà xuất hiện, toàn bộ không gian xung quanh dường như ngưng trệ, tuyết rơi chậm lại như thể tuân theo ý chí của bà."
+    },
+    {
+      "id": "yen_tuyet_son",
+      "name": "Yến Tuyết Sơn",
+      "title": "Trưởng Lão",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Tò mò cực đoan, Vô tư, Thực dụng",
+      "description": "Thân hình cao gầy, dong dỏng với những đường nét trên khuôn mặt thường lấm lem, tóc tai bù xù như vừa trải qua một vụ nổ nhỏ. Mái tóc màu tro được buộc lại cẩu thả bằng một sợi cỏ linh thảo đã khô. Đôi mắt luôn có quầng thâm do thức đêm và ánh lên sự điên rồ của một học giả đam mê. Khí chất lập dị, vừa có sự lạnh lẽo của một Băng Tu vừa có sự khó lường của một kẻ chuyên nghịch dại. Người khác thường tránh xa hắn vì sợ bị vạ lây từ những phát minh hỗn hợp nổ tung."
+    },
+    {
+      "id": "luu_bang_nhan",
+      "name": "Lưu Băng Nhạn",
+      "title": "Trưởng Lão",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Nhạy bén, Bình thản, Hiếu kỳ",
+      "description": "Dung mạo nàng tựa như một đóa băng mai nở muộn, thanh mảnh và có vẻ yếu ớt với nước da tái nhợt của Băng Tộc. Đôi mắt nàng đặc biệt tinh anh, đen láy như bầu trời đêm tĩnh lặng vùng cực Bắc. Toát ra khí chất của một người luôn lặng lẽ quan sát, như một con nhạn bay lướt qua bầu trời đông, thu nhận vạn vật nhưng không lưu dấu vết. Ở gần nàng, người ta thường có cảm giác mình bị nhìn thấu tâm can."
+    },
+    {
+      "id": "ngan_huyen_bang",
+      "name": "Ngân Huyền Băng",
+      "title": "Trưởng Lão",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Quyết đoán, Bền bỉ, Lạnh lùng",
+      "description": "Cao ráo, vạm vỡ, khuôn mặt sắc sảo như tạc từ một tảng băng nguyên khối. Đôi mắt màu xám tro không bộc lộ cảm xúc, tóc mang một màu bạc chói lòa như tuyết dưới ánh mặt trời. Ngạo nghễ và vô tình. Như một con sói tuyết luôn trong tư thế sẵn sàng vồ mồi, toát lên sát khí lạnh gáy đối với những kẻ phản bội hoặc có ý đồ lẩn trốn."
+    },
+    {
+      "id": "hoang_tinh_bang",
+      "name": "Hoàng Tinh Băng",
+      "title": "Hộ Pháp",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Chân thành, Bảo Vệ, Gan lỳ",
+      "description": "Hoàng Tinh Băng cao hơn phần lớn tu sĩ Băng Tộc bình thường, cơ bắp cuồn cuộn như đá tảng. Khuôn mặt vuông vức với nước da nhợt nhạt pha chút ánh vàng kim loại do công pháp luyện thể. Tóc được cạo ngắn, chỉ để lại một chỏm nhỏ trên đỉnh đầu kết băng. Một tòa thành di động, vững chãi và áp đảo bằng thể chất. Hơi thở của hắn mạnh như gió bão, ánh mắt không dao động trước mọi khó khăn."
+    },
+    {
+      "id": "doan_tuyet_am",
+      "name": "Đoàn Tuyết Âm",
+      "title": "Trưởng Lão",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Nhẹ nhàng, Tận tụy, Lảng tránh",
+      "description": "Nàng như một đóa lan mùa đông thanh nhã, nét mặt không quá diễm lệ nhưng vô cùng hài hòa. Mắt nàng hơi nhắm, dáng điệu mơ màng như luôn chìm đắm vào một giai điệu nào đó trong tâm trí. Tóc dài đen óng cài Trâm Bạch Băng đơn điệu. Một người phụ nữ nhẹ nhàng, u buồn và lãng mạn. Dường như nàng không quan tâm mấy đến thế sự tranh đấu, mà chỉ chuyên tâm đem linh lực biến thành những nốt nhạc làm lay động trái tim người nghe."
+    },
+    {
+      "id": "han_thien_suong",
+      "name": "Hàn Thiên Sương",
+      "title": "Thái Thượng Trưởng Lão",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Thẳng thắn, Sát phạt, Cố chấp",
+      "description": "Hàn Thiên Sương mang dáng dấp của một lão già cộc cằn nhưng vô cùng gân guốc. Khuôn mặt nhăn nheo như vỏ cây thông cổ thụ bị phong hóa bởi bão tuyết. Điểm nổi bật nhất là đôi lông mày trắng xóa rủ xuống dài tận cằm và một vết sẹo chéo qua mắt trái, chứng tích của những trận huyết chiến xa xưa. Toát ra khí thế trầm ổn nhưng bạo liệt. Mỗi khi lão thở, sương mù kết lại thành băng rơi xuống lả tả. Một áp lực đè nặng lên ngực những kẻ yếu bóng vía dám đứng gần."
+    },
+    {
+      "id": "phuong_han_nguyet",
+      "name": "Phương Hàn Nguyệt",
+      "title": "Trưởng Lão Chấp Pháp",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Thiết diện vô tư, Đa nghi, Mâu thuẫn nội tâm",
+      "description": "Khuôn mặt góc cạnh, ánh mắt luôn lạnh lùng dò xét như muốn nhìn thấu tâm can người khác. Nàng luôn bôi một vệt chu sa đỏ giữa trán - biểu tượng của việc đã từng tự tay trừng phạt người thân vi phạm môn quy. Tóc búi chặt, không một sợi lòa xòa. Ngột ngạt và đầy tính áp chế. Bất kỳ đệ tử nào chạm mắt với nàng đều vô thức lảng tránh. Sự xuất hiện của nàng đồng nghĩa với việc có kẻ sắp phải chịu hình phạt."
+    },
+    {
+      "id": "mac_bang_vu",
+      "name": "Mạc Băng Vũ",
+      "title": "Trưởng Lão",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Trầm tư, Xảo diệu, Tận tụy",
+      "description": "Khuôn mặt luôn ẩn hiện sau một lớp màn sương mờ ảo do công pháp phát ra tự nhiên. Ánh mắt sâu thẳm mang màu xám tro, luôn có vẻ đang suy tư điều gì xa xăm. Tóc dài thả lỏng được buộc lại bằng một dải lụa màu sương sớm. Toát ra vẻ bí ẩn, khó lường và đầy mị lực. Mạc Băng Vũ mang đến cảm giác như một giấc mơ vừa đẹp đẽ vừa nguy hiểm, người tiếp xúc khó phân biệt đâu là thật, đâu là ảo ảnh do nàng tạo ra."
+    },
+    {
+      "id": "kieu_bang_kieu",
+      "name": "Kiều Băng Kiều",
+      "title": "Trưởng Lão",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Tự tôn cao, Tinh tế, Có phần nông cạn (bề ngoài)",
+      "description": "Nhan sắc kiều diễm, luôn chăm chút bản thân tỉ mỉ. Làn da nàng mịn màng như sương ngọc, đôi môi đỏ mọng hiếm hoi giữa Băng Nguyên. Mái tóc dài xoăn bồng bềnh luôn vương vấn mùi hương Tuyết Liên nhẹ nhàng. Kiêu sa, thanh lịch nhưng cũng đầy kiêu ngạo. Nàng thu hút ánh nhìn không chỉ bởi vẻ đẹp mà còn sự tự tin vào khí chất quý phái độc tôn của một \"băng mỹ nhân\"."
+    },
+    {
+      "id": "bach_huyen_thanh",
+      "name": "Bạch Huyền Thanh",
+      "title": "Hộ Pháp",
+      "realm": "",
+      "faction": "Huyền Băng Cung",
+      "region": "Bắc Băng",
+      "role": "leader",
+      "pov": false,
+      "avatar_color": "#b3e5fc",
+      "race": "Nhân Tộc (Băng Tộc)",
+      "personality": "Cẩn trọng, Kín đáo, Trung thành",
+      "description": "Nàng có khuôn mặt thon dài, thanh tú với hàng lông mi trắng phủ lớp sương mỏng manh. Ánh mắt nhạy bén, quét qua người đối diện như có thể xuyên thấu ý định của họ. Trầm tĩnh, bí ẩn và linh hoạt. Không mang lại áp lực như Lý Tuyết Ưng hay Hàn Thiên Sương, Bạch Huyền Thanh tỏa ra cảm giác lạnh lẽo nhưng nhẹ nhàng của một bông tuyết rơi."
     }
   ],
   "relationships": [
@@ -67706,6 +67972,580 @@ const relationshipData = {
       "target": "ly_dong_nguyen",
       "type": "ally",
       "description": "Luôn giám sát gắt gao dòng tiền của Phó Phường Chủ này, nghi ngờ lão hay tuồn khoáng sản ra ngoài."
+    },
+    {
+      "source": "tu_tuyet_phuong",
+      "target": "dong_tuyet_hoa",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "tu_tuyet_phuong",
+      "target": "ly_bang_cam",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 60,
+        "tin": 70,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "sanh_nguyet_han",
+      "target": "ly_tuyet_ung",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "sanh_nguyet_han",
+      "target": "bach_huyen_thanh",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 30,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "ly_bang_cam",
+      "target": "ly_tuyet_ung",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 70,
+        "tin": 90,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "ly_bang_cam",
+      "target": "lam_tuyet_nhan",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 80
+      }
+    },
+    {
+      "source": "chu_tuyet_lien",
+      "target": "tu_tuyet_phuong",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "chu_tuyet_lien",
+      "target": "ly_tuyet_ung",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 70,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "tieu_bang_tam",
+      "target": "bach_huyen_thanh",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 30,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "tieu_bang_tam",
+      "target": "ly_tuyet_ung",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 70,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "thieu_han_cung",
+      "target": "bach_huyen_thanh",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "thieu_han_cung",
+      "target": "gia_han_thien",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 30,
+        "han": 0,
+        "kinh": 70,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "gia_han_thien",
+      "target": "tieu_bang_tam",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "gia_han_thien",
+      "target": "hoang_tinh_bang",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 70,
+        "tin": 80,
+        "so": 0,
+        "on": 30
+      }
+    },
+    {
+      "source": "ly_tuyet_ung",
+      "target": "lam_tuyet_nhan",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 70
+      }
+    },
+    {
+      "source": "ly_tuyet_ung",
+      "target": "ly_bang_cam",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 40,
+        "tin": 80,
+        "so": 0,
+        "on": 30
+      }
+    },
+    {
+      "source": "ly_tuyet_ung",
+      "target": "dan_duong_tu",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 40,
+        "tin": 60,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "dong_tuyet_hoa",
+      "target": "ly_bang_cam",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 70,
+        "han": 0,
+        "kinh": 50,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "dong_tuyet_hoa",
+      "target": "bach_huyen_thanh",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 40,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "lam_tuyet_nhan",
+      "target": "ly_tuyet_ung",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 20,
+        "tin": 100,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "lam_tuyet_nhan",
+      "target": "ly_bang_cam",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 0,
+        "tin": 80,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "yen_tuyet_son",
+      "target": "han_thien_suong",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "yen_tuyet_son",
+      "target": "tu_tuyet_phuong",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 60,
+        "tin": 80,
+        "so": 0,
+        "on": 30
+      }
+    },
+    {
+      "source": "luu_bang_nhan",
+      "target": "bach_huyen_thanh",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 70,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "luu_bang_nhan",
+      "target": "phuong_han_nguyet",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 80,
+        "tin": 80,
+        "so": 40,
+        "on": 0
+      }
+    },
+    {
+      "source": "ngan_huyen_bang",
+      "target": "phuong_han_nguyet",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 10,
+        "on": 0
+      }
+    },
+    {
+      "source": "ngan_huyen_bang",
+      "target": "luu_bang_nhan",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 60,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "hoang_tinh_bang",
+      "target": "tieu_bang_tam",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 60,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "hoang_tinh_bang",
+      "target": "han_thien_suong",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 80,
+        "tin": 70,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "doan_tuyet_am",
+      "target": "ly_bang_cam",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "doan_tuyet_am",
+      "target": "mac_bang_vu",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 60,
+        "tin": 70,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "han_thien_suong",
+      "target": "lam_tuyet_nhan",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "han_thien_suong",
+      "target": "ly_tuyet_ung",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 30,
+        "han": 0,
+        "kinh": 50,
+        "tin": 70,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "phuong_han_nguyet",
+      "target": "ly_tuyet_ung",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "phuong_han_nguyet",
+      "target": "han_thien_suong",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 0,
+        "han": 0,
+        "kinh": 90,
+        "tin": 70,
+        "so": 30,
+        "on": 0
+      }
+    },
+    {
+      "source": "mac_bang_vu",
+      "target": "ly_bang_cam",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 50,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "mac_bang_vu",
+      "target": "sanh_nguyet_han",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 60,
+        "tin": 70,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "kieu_bang_kieu",
+      "target": "ly_bang_cam",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 10,
+        "kinh": 80,
+        "tin": 70,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "kieu_bang_kieu",
+      "target": "dong_tuyet_hoa",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 50,
+        "tin": 80,
+        "so": 0,
+        "on": 30
+      }
+    },
+    {
+      "source": "bach_huyen_thanh",
+      "target": "ly_tuyet_ung",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 0,
+        "on": 50
+      }
+    },
+    {
+      "source": "bach_huyen_thanh",
+      "target": "tieu_bang_tam",
+      "type": "ally",
+      "description": "",
+      "feelings": {
+        "yeu": 30,
+        "han": 0,
+        "kinh": 40,
+        "tin": 80,
+        "so": 0,
+        "on": 10
+      }
     }
   ],
   "factions": [
