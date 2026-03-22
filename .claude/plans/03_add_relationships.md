@@ -75,7 +75,7 @@ Xong += Đang Làm, Đang Làm = 0. Nếu Xong ≥ Cần → ✅. Push.
 
 | Faction | Xong | Đang Làm | Thiếu | Trạng Thái |
 |---------|:----:|:--------:|:-----:|:----------:|
-| Cửu Hoa Kiếm Tông | 33 | 0 | 225 | 🔄 |
+| Cửu Hoa Kiếm Tông | 33 | 15 | 225 | 🔄 |
 | Thần Khí Phường | 0 | 0 | 31 | ⬜ |
 | Vân Tông | 0 | 0 | 27 | ⬜ |
 | Thanh Đế Cung | 0 | 0 | 21 | ⬜ |
