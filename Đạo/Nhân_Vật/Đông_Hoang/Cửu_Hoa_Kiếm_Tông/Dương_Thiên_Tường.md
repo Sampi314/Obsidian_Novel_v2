@@ -15,7 +15,9 @@ arcs:
         type: Pháp Bảo
     stats: [65, 80, 100, 95, 70, 60]
     relationships:
-      - character: Dương Ngọc Vân
+      - character: Dương Bạch Hải
+        description: Đường đệ đầy chí khí, người luôn khích lệ ta mạnh mẽ hơn.
+        feelings: {yeu: 75, han: 0, kinh: 10, tin: 90, so: 0, on: 30}      - character: Dương Ngọc Vân
         description: Đường tỷ đáng sợ, luôn ép hắn vào kỷ luật thép, khiến hắn lúc nào cũng lo lắng rụt rè.
         feelings:
           yeu: 60

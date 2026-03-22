@@ -18,7 +18,9 @@ arcs:
         type: Pháp Bảo
     stats: [250, 310, 350, 280, 380, 420]
     relationships:
-      - character: Lý Lục Trần
+      - character: Tiết Thanh Phong
+        description: Đồng môn linh hoạt, đối thủ luyện tập tốc độ khiến ta phải nể phục.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 75, so: 0, on: 10}      - character: Lý Lục Trần
         description: Tông Chủ, vị anh hùng vĩ đại nhất trong lòng hắn, người hắn thề nguyện sẽ nỗ lực để xứng đáng được đứng dưới bóng của ngài.
         feelings: {yeu: 10, han: 0, kinh: 95, tin: 90, so: 0, on: 50}
       - character: Diệp Tĩnh Sương

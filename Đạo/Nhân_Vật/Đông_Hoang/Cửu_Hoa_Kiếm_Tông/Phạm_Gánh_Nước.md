@@ -15,7 +15,9 @@ arcs:
     inventory: []
     stats: [120, 10, 180, 50, 100, 30]
     relationships:
-      - character: Phạm Thị Lan
+      - character: Phạm Kim Thiết
+        description: Đứa cháu họ giỏi giang, người thường xuyên sửa chữa các vật dụng gia đình giúp lão.
+        feelings: {yeu: 60, han: 0, kinh: 10, tin: 90, so: 0, on: 40}      - character: Phạm Thị Lan
         description: Người cháu họ xa, người lão luôn dành phần nước sạch nhất.
         feelings: {yeu: 60, han: 0, kinh: 10, tin: 80, so: 0, on: 30}
       - character: Lão Trương

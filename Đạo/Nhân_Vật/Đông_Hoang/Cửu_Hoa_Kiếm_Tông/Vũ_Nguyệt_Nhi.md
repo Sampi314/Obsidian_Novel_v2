@@ -19,7 +19,9 @@ arcs:
         type: Pháp Bảo
     stats: [800, 1150, 1300, 1200, 950, 1400]
     relationships:
-      - character: Vũ Nguyệt Hà
+      - character: Đoàn Nguyệt Tiên
+        description: Sư muội Nội môn, nàng có tâm cảnh thanh thuần, rất phù hợp với đạo thống Nguyệt Hoa.
+        feelings: {yeu: 25, han: 0, kinh: 10, tin: 85, so: 0, on: 20}      - character: Vũ Nguyệt Hà
         description: Tỷ muội đồng tộc, người bạn thơ ấu đã cùng ta trải qua muôn vàn kỷ niệm dưới chân núi Cửu Hoa.
         feelings: {yeu: 75, han: 0, kinh: 10, tin: 90, so: 0, on: 50}
       - character: Vũ Phi Kiếm

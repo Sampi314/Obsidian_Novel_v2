@@ -24,7 +24,9 @@ arcs:
         type: Pháp Bảo
     stats: [170, 190, 160, 210, 180, 200]
     relationships:
-      - character: Lục Hồng Đào
+      - character: Lục Thanh Mai
+        description: Đường muội kiên định, ta đánh giá cao sự nỗ lực bền bỉ của nàng.
+        feelings: {yeu: 50, han: 0, kinh: 10, tin: 85, so: 0, on: 20}      - character: Lục Hồng Đào
         description: Biểu muội phiền phức luôn tìm cách trêu chọc sự im lặng của y, nhưng y luôn đứng ra giải quyết hậu quả cho nàng.
         feelings:
           yeu: 60

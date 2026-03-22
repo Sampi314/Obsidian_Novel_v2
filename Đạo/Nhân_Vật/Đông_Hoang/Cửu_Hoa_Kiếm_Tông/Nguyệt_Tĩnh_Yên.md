@@ -17,6 +17,18 @@ arcs:
         type: Pháp Bảo
     stats: [230, 450, 390, 350, 260, 480]
     relationships:
+      - character: Vũ Phi Kiếm
+        description: Phong chủ tôn kính, người nàng hết lòng ngưỡng mộ về khả năng tĩnh tâm tuyệt đối.
+        feelings: {yeu: 5, han: 0, kinh: 90, tin: 85, so: 10, on: 30}
+      - character: Lâm Nguyệt Hoa
+        description: Sư tỷ hướng nội, người bạn tâm giao có cùng sở thích thiền định yên tĩnh.
+        feelings: {yeu: 50, han: 0, kinh: 20, tin: 80, so: 0, on: 20}
+      - character: Vũ Nguyệt Nhi
+        description: Chân truyền thân thiện, người nàng luôn coi là hình mẫu lý tưởng về nữ kiếm tu.
+        feelings: {yeu: 35, han: 0, kinh: 30, tin: 85, so: 0, on: 15}
+      - character: Lâm Tĩnh Tâm
+        description: Thần tượng sư huynh, người nàng thầm khâm phục về tâm cảnh bất biến.
+        feelings: {yeu: 45, han: 0, kinh: 50, tin: 70, so: 0, on: 10}
       - character: Nguyệt Tĩnh Sương
         description: Sư tỷ đồng môn
         feelings: { yeu: 10, han: 0, kinh: 50, tin: 85, so: 0, on: 0 }

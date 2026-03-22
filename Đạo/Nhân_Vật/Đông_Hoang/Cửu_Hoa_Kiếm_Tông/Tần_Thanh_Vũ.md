@@ -15,7 +15,9 @@ arcs:
     inventory: []
     stats: [85, 110, 95, 100, 70, 90]
     relationships:
-      - character: Tần Tiểu Kiếm
+      - character: Lý Tiểu Kiếm
+        description: Sư đệ Ngoại môn cương trực, người ta tin tưởng giao phó hậu phương.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 85, so: 0, on: 10}      - character: Tần Tiểu Kiếm
         description: Sư đệ đồng môn, người hắn thường xuyên cùng luyện tập.
         feelings: {yeu: 40, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
       - character: Lý Tiểu Kiếm

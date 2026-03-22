@@ -15,7 +15,9 @@ arcs:
     inventory: []
     stats: [850, 1450, 1400, 1100, 1200, 1300]
     relationships:
-      - character: Mã Tử Vân
+      - character: Mã Hắc Ngưu
+        description: Sư đệ Nội môn ngốc nghếch nhưng tốt bụng, tiêu điểm trêu chọc của ta.
+        feelings: {yeu: 40, han: 0, kinh: 0, tin: 80, so: 0, on: 15}      - character: Mã Tử Vân
         description: Cô ruột kiêm Sư phụ tôn kính, người đã khai sáng thiên phú trận đạo và truyền dạy bí thuật của Tử Hoa Phong cho nàng.
         feelings: {yeu: 80, han: 0, kinh: 85, tin: 95, so: 0, on: 60}
       - character: Hà Trận Linh

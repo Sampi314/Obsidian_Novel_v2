@@ -21,7 +21,9 @@ arcs:
         type: Vật Phẩm
     stats: [2300, 2100, 2800, 2400, 1900, 2600]
     relationships:
-      - character: Nguyễn Kim Lan
+      - character: Vương Kim Đức
+        description: Sư đệ đồng môn, người luôn kiên nhẫn thu dọn tàn cuộc cho ta sau mỗi lần thử nghiệm.
+        feelings: {yeu: 40, han: 0, kinh: 10, tin: 85, so: 0, on: 20}      - character: Nguyễn Kim Lan
         description: Sư tỷ đồng môn, người luôn kiên nhẫn sửa chữa những món pháp bảo ta làm nổ tung.
         feelings: {yeu: 30, han: 0, kinh: 10, tin: 80, so: 0, on: 10}
       - character: Vương Kim Tỏa

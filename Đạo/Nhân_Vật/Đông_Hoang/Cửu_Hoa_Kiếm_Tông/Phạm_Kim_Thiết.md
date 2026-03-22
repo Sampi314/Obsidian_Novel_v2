@@ -19,6 +19,15 @@ arcs:
         type: Pháp Bảo
     stats: [420, 300, 350, 250, 380, 330]
     relationships:
+      - character: Vương Đại Chùy
+        description: Vị tiền bối ở Hậu Cần Đường luôn dành cho hắn những linh tài tốt nhất.
+        feelings: {yeu: 10, han: 0, kinh: 70, tin: 85, so: 0, on: 30}
+      - character: Phạm Gánh Nước
+        description: Người chú họ xa, thỉnh thoảng mang nước suối linh khiết cho hắn rèn kiếm.
+        feelings: {yeu: 50, han: 0, kinh: 10, tin: 90, so: 0, on: 20}
+      - character: Nguyễn Kim Lan
+        description: Sư tỷ Chân truyền, người hắn luôn kính nể về đạo tâm kiên định.
+        feelings: {yeu: 15, han: 0, kinh: 20, tin: 75, so: 0, on: 10}
       - character: Vương Kim Tỏa
         description: "Phong Chủ Kim Hoa Phong, sư tôn nghiêm khắc nhưng công bằng, người dạy hắn rằng rèn kiếm cũng là rèn tâm."
         feelings:

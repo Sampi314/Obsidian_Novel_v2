@@ -15,6 +15,12 @@ arcs:
         type: Pháp Bảo Luyện Khí
     stats: [180, 160, 150, 200, 140, 170]
     relationships:
+      - character: Tuyết Vô Ảnh
+        description: Thần tượng phong cách ám ảnh, nàng luôn nỗ lực để đạt được trình độ vô hình như vị sư tỷ này.
+        feelings: {yeu: 10, han: 0, kinh: 95, tin: 80, so: 10, on: 20}
+      - character: Diệp Tĩnh Sương
+        description: Bạn tâm giao lạnh lùng, người duy nhất nàng cảm thấy không cần dùng lời nói vẫn thấu hiểu nhau.
+        feelings: {yeu: 40, han: 0, kinh: 30, tin: 85, so: 0, on: 15}
       - character: Hàn Nguyệt Bạch
         description: Đường muội cùng gia tộc, Tuyết luôn tỏ ra nghiêm khắc để che chở muội muội.
         feelings:

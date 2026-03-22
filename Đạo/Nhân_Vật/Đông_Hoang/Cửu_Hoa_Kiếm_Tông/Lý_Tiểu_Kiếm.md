@@ -17,6 +17,15 @@ arcs:
         type: Vũ Khí
     stats: [300, 250, 180, 220, 200, 350]
     relationships:
+      - character: Tần Thanh Vũ
+        description: Đồng môn trầm lặng, người bạn luyện tập thường xuyên nhất tại kiếm trường.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 85, so: 0, on: 10}
+      - character: Tần Tiểu Kiếm
+        description: Đứa em hăng hái, người hắn luôn phải nhắc nhở về sự kiên nhẫn khi tu luyện.
+        feelings: {yeu: 45, han: 0, kinh: 0, tin: 80, so: 0, on: 20}
+      - character: Lão Trương
+        description: Người tiền bối tốt bụng, thường cho hắn những phần cơm đầy đặn nhất.
+        feelings: {yeu: 15, han: 0, kinh: 30, tin: 90, so: 0, on: 10}
       - character: "[Ngoại Môn Đại Trưởng Lão]"
         description: "Người hướng dẫn và đánh giá năng lực của Lý Tiểu Kiếm ở ngoại môn viện."
         feelings:

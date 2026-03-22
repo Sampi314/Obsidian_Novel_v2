@@ -21,6 +21,12 @@ arcs:
         type: Vật Phẩm Tiêu Hao
     stats: [28, 0, 8, 15, 20, 18]
     relationships:
+      - character: Mã Tiểu Tử
+        description: Sư tỷ tinh quái, người nàng thường xuyên bày ra những trò đùa khiến hắn dở khóc dở cười.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 75, so: 0, on: 10}
+      - character: Hà Trận Linh
+        description: Đồng môn thông thái, vị sư huynh hắn luôn tìm đến khi gặp khó khăn về cấm chế.
+        feelings: {yeu: 10, han: 0, kinh: 40, tin: 85, so: 0, on: 20}
       - character: Trần Tiểu Mộc
         description: Cấp dưới thân thiết của Mã Phòng Quản Sự, thường bị phàn nàn vì quá nuông chiều đám linh mã non yếu.
         feelings:

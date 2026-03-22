@@ -17,7 +17,9 @@ arcs:
         type: Công Cụ
     stats: [150, 10, 15, 60, 50, 45]
     relationships:
-      - character: Đỗ Thanh Thạch
+      - character: Đỗ Tuyết Lan
+        description: Đường muội mỏng manh, ta nguyện trở thành tấm khiên vững chắc nhất cho nàng.
+        feelings: {yeu: 90, han: 0, kinh: 10, tin: 95, so: 0, on: 50}      - character: Đỗ Thanh Thạch
         description: Anh họ, rất nghe lời, hay được chia đồ ăn.
         feelings:
           yeu: 40

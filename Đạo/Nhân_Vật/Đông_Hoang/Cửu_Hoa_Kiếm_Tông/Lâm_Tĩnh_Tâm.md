@@ -15,7 +15,9 @@ arcs:
     inventory: []
     stats: [1000, 1300, 1250, 950, 1100, 1450]
     relationships:
-      - character: Vũ Nguyệt Hà
+      - character: Nguyệt Tĩnh Yên
+        description: Sư muội đồng môn, người ta thầm ngưỡng mộ về khả năng thiền định tập trung.
+        feelings: {yeu: 30, han: 0, kinh: 15, tin: 85, so: 0, on: 10}      - character: Vũ Nguyệt Hà
         description: Sư tỷ đồng môn, người luôn dẫn dắt ta trong những ngày đầu bước vào cảnh giới thiền định.
         feelings: {yeu: 30, han: 0, kinh: 20, tin: 85, so: 0, on: 20}
       - character: Vũ Phi Kiếm

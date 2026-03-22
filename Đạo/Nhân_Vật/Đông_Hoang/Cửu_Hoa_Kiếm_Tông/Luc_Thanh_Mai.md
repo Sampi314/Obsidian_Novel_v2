@@ -24,6 +24,12 @@ arcs:
         type: Pháp Bảo
     stats: [160, 180, 150, 190, 170, 160]
     relationships:
+      - character: Lục Tiểu Vân
+        description: Đồng môn chính nghĩa, người nàng đánh giá cao về tấm lòng hiền hậu.
+        feelings: {yeu: 25, han: 0, kinh: 10, tin: 80, so: 0, on: 15}
+      - character: Dương Ngọc Vân
+        description: Sư tỷ gương mẫu, người nàng luôn kính trọng về sự quyết đoán trong chiến đấu.
+        feelings: {yeu: 15, han: 0, kinh: 60, tin: 85, so: 0, on: 20}
       - character: Lục Hồng Đào
         description: Đường muội rực rỡ nhưng phiền phức, nàng luôn cảm thấy áp lực và cố gắng chứng minh bản thân không thua kém Hồng Đào về tài năng lẫn sắc đẹp.
         feelings:

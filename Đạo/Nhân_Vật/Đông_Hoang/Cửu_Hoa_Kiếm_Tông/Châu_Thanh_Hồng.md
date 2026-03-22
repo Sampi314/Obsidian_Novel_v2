@@ -17,6 +17,12 @@ arcs:
         type: Trang Sức (Phàm Khí)
     stats: [120, 140, 115, 130, 110, 100]
     relationships:
+      - character: Hồng Tiểu Diệm
+        description: Tỷ muội nhiệt huyết, hai người thường cùng nhau khuấy động bầu không khí Ngoại môn.
+        feelings: {yeu: 65, han: 0, kinh: 10, tin: 85, so: 0, on: 30}
+      - character: Lão Trương
+        description: Vị lão bá tốt bụng, người nàng thường giúp rèn đúc và mài lại dao bếp linh lực.
+        feelings: {yeu: 20, han: 0, kinh: 15, tin: 90, so: 0, on: 20}
       - character: Phan Kiếm Hoa
         description: Sư tỷ thân thiết cùng nhóm tuần tra, Kiếm Hoa điềm đạm bao nhiêu thì Thanh Hồng sôi nổi bấy nhiêu. Hai người bổ sung cho nhau trong chiến đấu.
         feelings:

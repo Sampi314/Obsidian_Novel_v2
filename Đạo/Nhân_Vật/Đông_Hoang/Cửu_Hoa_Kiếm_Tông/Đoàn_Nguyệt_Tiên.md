@@ -15,6 +15,15 @@ arcs:
         type: Vũ Khí
     stats: [140, 190, 160, 200, 130, 180]
     relationships:
+      - character: Vũ Nguyệt Nhi
+        description: Sư tỷ Chân truyền thân thiết, người đã dìu dắt nàng trong những ngày đầu nhập môn.
+        feelings: {yeu: 50, han: 0, kinh: 30, tin: 90, so: 0, on: 40}
+      - character: Lâm Nguyệt Hoa
+        description: Tỷ muội đồng môn, người nàng thường xuyên cùng đàm đạo về kiếm ý dưới ánh trăng.
+        feelings: {yeu: 45, han: 0, kinh: 15, tin: 85, so: 0, on: 20}
+      - character: Vũ Nguyệt Hà
+        description: Bạn đồng niên, người nàng luôn coi là đối thủ cạnh tranh lành mạnh nhất.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 80, so: 0, on: 10}
       - character: Đoàn Tử Kiếm
         description: Đường đệ cuồng kiếm, luôn phải kiềm chế tính hiếu chiến của hắn.
         feelings:

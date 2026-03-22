@@ -24,7 +24,9 @@ arcs:
         type: Vật Phẩm
     stats: [1200, 2800, 1500, 2500, 3000, 1800]
     relationships:
-      - character: Mã Tử Vân
+      - character: Mã Hắc Ngưu
+        description: Đồng môn Nội môn, người ta tin tưởng giao phó các trọng trách bảo vệ cấm chế.
+        feelings: {yeu: 15, han: 0, kinh: 10, tin: 85, so: 0, on: 10}      - character: Mã Tử Vân
         description: Sư tôn, người đã truyền thụ toàn bộ kiến thức về trận pháp cho hắn.
         feelings: {yeu: 0, han: 0, kinh: 9, tin: 9, so: 0, on: 8}
       - character: Hoàng Tuyết Liên

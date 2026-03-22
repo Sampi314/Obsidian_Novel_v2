@@ -15,6 +15,15 @@ arcs:
         type: Phi Kiếm
     stats: [105, 110, 95, 115, 80, 105]
     relationships:
+      - character: Dương Bạch Hải
+        description: Em họ cần dạy bảo, nàng luôn dành cho y những bài tập khắc nghiệt nhất để trưởng thành.
+        feelings: {yeu: 80, han: 0, kinh: 15, tin: 90, so: 0, on: 40}
+      - character: Lục Thanh Mai
+        description: Đối thủ tôn trọng, người nàng đánh giá cao về sự bền bỉ trong tu luyện.
+        feelings: {yeu: 15, han: 0, kinh: 40, tin: 75, so: 0, on: 10}
+      - character: Diệp Tĩnh Sương
+        description: Người khiến nàng dè chừng vì tiềm năng băng hàn cực lớn và sự lạnh lùng khó đoán.
+        feelings: {yeu: 10, han: 0, kinh: 25, tin: 50, so: 20, on: 0}
       - character: Dương Tử Huyên
         description: Muội muội ruột, người nàng thề sẽ bảo vệ bằng mọi giá, luôn là ưu tiên lớn nhất.
         feelings:

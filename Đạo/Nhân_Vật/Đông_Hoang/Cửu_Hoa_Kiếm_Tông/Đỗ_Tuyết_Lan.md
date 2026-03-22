@@ -17,6 +17,15 @@ arcs:
         type: Vật Phẩm
     stats: [50, 95, 110, 75, 45, 120]
     relationships:
+      - character: Đỗ Đại Ngưu
+        description: Anh họ lực lưỡng, người hắn thề sẽ dùng cả mạng sống bảo vệ nàng.
+        feelings: {yeu: 85, han: 0, kinh: 10, tin: 95, so: 0, on: 60}
+      - character: Diệp Tĩnh Sương
+        description: Bạn đồng môn lạnh lùng, người nàng cảm thấy có sự đồng điệu về nỗi cô đơn.
+        feelings: {yeu: 30, han: 0, kinh: 15, tin: 70, so: 0, on: 10}
+      - character: Ngọc Tiểu Linh
+        description: Bạn cùng đam mê y thuật, người thường xuyên cùng nàng hái dược thảo vùng biên.
+        feelings: {yeu: 55, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
       - character: Đỗ Thanh Phong
         description: Đường huynh lớn nhất, là chỗ dựa và người thông tuệ để nàng có thể chia sẻ những suy nghĩ sâu thẳm.
         feelings:

@@ -24,7 +24,9 @@ arcs:
         type: Pháp Bảo
     stats: [150, 170, 130, 200, 110, 160]
     relationships:
-      - character: Lục Bạch Ngôn
+      - character: Lục Thanh Mai
+        description: Đường tỷ gương mẫu, người ta luôn lấy làm động lực để vượt qua áp lực so sánh.
+        feelings: {yeu: 45, han: 10, kinh: 20, tin: 70, so: 0, on: 15}      - character: Lục Bạch Ngôn
         description: Biểu huynh lạnh lùng, nàng luôn tìm cách chọc phá sự nghiêm túc của hắn, nhưng cũng rất nể phục kiếm thuật của hắn.
         feelings:
           yeu: 65

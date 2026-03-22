@@ -15,6 +15,12 @@ arcs:
         type: Pháp Bảo Luyện Khí
     stats: [150, 160, 140, 180, 130, 140]
     relationships:
+      - character: Chu Phong Kiếm
+        description: Bạn cùng khóa Ngoại môn, hai người thường chia sẻ về những ước mơ bay bổng.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 80, so: 0, on: 15}
+      - character: Lục Tiểu Vân
+        description: Đồng môn nhiệt huyết, đối thủ trong những buổi luyện tập tốc độ.
+        feelings: {yeu: 15, han: 0, kinh: 20, tin: 75, so: 0, on: 10}
       - character: Tiết Bạch Vân
         description: Đường đệ, vô cùng quan tâm và bảo vệ, đồng thời chia sẻ đam mê thi phú.
         feelings:

@@ -21,6 +21,12 @@ arcs:
         type: Vật Phẩm
     stats: [1800, 1500, 2100, 1200, 1000, 1900]
     relationships:
+      - character: Vương Tiểu Kim
+        description: Sư tỷ thiên tài phá hoại, người hắn vừa ngưỡng mộ vừa đau đầu khi phải thu dọn tàn cuộc.
+        feelings: {yeu: 25, han: 0, kinh: 40, tin: 70, so: 10, on: 15}
+      - character: Vương Kim Linh
+        description: Em gái nhỏ, người thân duy nhất của hắn tại Kim Hoa Phong.
+        feelings: {yeu: 90, han: 0, kinh: 0, tin: 85, so: 0, on: 50}
       - character: Vương Kim Tỏa
         description: Chú ruột kiêm Phong Chủ, ngài luôn khắt khe với hắn, khiến hắn vừa kính trọng vừa áp lực
         feelings: {yeu: 6, han: 0, kinh: 8, tin: 9, so: 4, on: 0}

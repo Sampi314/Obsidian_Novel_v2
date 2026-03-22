@@ -15,7 +15,9 @@ arcs:
     inventory: []
     stats: [350, 320, 280, 310, 380, 420]
     relationships:
-      - character: Chu Minh Nguyệt
+      - character: Tiết Thanh Phong
+        description: Bạn cùng khóa Ngoại môn, người cùng ta đàm đạo về những hoài bão xa xôi.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 80, so: 0, on: 20}      - character: Chu Minh Nguyệt
         description: Chị họ, vị sư tỷ Chân Truyền luôn là tấm gương sáng và là động lực lớn nhất để hắn nỗ lực xóa bỏ mặc cảm về thiên phú.
         feelings: {yeu: 85, han: 0, kinh: 40, tin: 90, so: 0, on: 50}
       - character: Hoàng Thanh Trúc

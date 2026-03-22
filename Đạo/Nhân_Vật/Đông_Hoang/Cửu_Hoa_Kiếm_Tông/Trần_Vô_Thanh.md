@@ -23,7 +23,9 @@ arcs:
         type: Vật Phẩm
     stats: [1000, 800, 1300, 1700, 600, 1400]
     relationships:
-      - character: Đặng Huyền Dạ
+      - character: Đoàn Tử Dương
+        description: Đồng môn Nội môn, vị thính giả trầm lặng nhất của phong.
+        feelings: {yeu: 15, han: 0, kinh: 20, tin: 80, so: 0, on: 10}      - character: Đặng Huyền Dạ
         description: Sư phụ Huyền Hoa Phong Chủ. Người duy nhất hiểu tại sao hắn không nói — không phải câm, mà là chọn im lặng. Sư phụ dạy hắn biến sự im lặng thành vũ khí.
         feelings:
           yeu: 60

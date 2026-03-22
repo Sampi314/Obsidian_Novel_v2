@@ -17,6 +17,12 @@ arcs:
         type: Trang Bị
     stats: [200, 300, 350, 500, 100, 250]
     relationships:
+      - character: Đặng Ám Ảnh
+        description: Đối thủ trong bóng tối, hai người luôn so tài về kỹ thuật ám sát vô hình.
+        feelings: {yeu: 5, han: 0, kinh: 45, tin: 60, so: 30, on: 0}
+      - character: Trần Vô Thanh
+        description: Sư huynh trầm mặc, người hắn nể trọng về khả năng kiềm chế sát tâm.
+        feelings: {yeu: 10, han: 0, kinh: 50, tin: 85, so: 0, on: 10}
       - character: Đặng Huyền Dạ
         description: Sư bá
         feelings:
