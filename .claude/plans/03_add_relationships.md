@@ -2,7 +2,7 @@
 
 ## Mục Tiêu
 Thêm `relationships` vào YAML frontmatter cho tất cả nhân vật có `relationships: []`.
-Mỗi nhân vật cần ít nhất 2-3 relationships với feelings 6 trục.
+Mỗi nhân vật cần ít nhất 5-unlimited relationships với feelings 6 trục.
 
 ## Skills Cần Đọc
 > 📖 **Skill chính:** `.claude/skills/nhan-vat/SKILL.md` (phần Quy Tắc Relationships)
