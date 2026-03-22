@@ -445,7 +445,7 @@ Thành Chủ
 | Dược Vương Cốc | 3. Nội Môn | 0 | 0 | 100 | ⬜ |
 | Dược Vương Cốc | 4. Ngoại Môn | 0 | 0 | 200 | ⬜ |
 | Dược Vương Cốc | 5. Phàm Nhân | 0 | 0 | 8000 | ⬜ |
-| Huyền Băng Cung | 1. Leadership | 0 | 20 | 20 | 🔄 |
+| Huyền Băng Cung | 1. Leadership | 20 | 0 | 20 | ✅ |
 | Huyền Băng Cung | 2. Chân Truyền | 0 | 0 | 30 | ⬜ |
 | Huyền Băng Cung | 3. Nội Môn | 0 | 0 | 100 | ⬜ |
 | Huyền Băng Cung | 4. Ngoại Môn | 0 | 0 | 200 | ⬜ |
