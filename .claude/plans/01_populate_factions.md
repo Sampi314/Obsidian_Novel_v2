@@ -438,7 +438,7 @@ Thành Chủ
 | Thần Khí Phường | 1. Leadership | 20 | 0 | 20 | ✅ |
 | Thần Khí Phường | 2. Chân Truyền | 31 | 0 | 30 | ✅ |
 | Thần Khí Phường | 3. Nội Môn | 100 | 0 | 100 | ✅ |
-| Thần Khí Phường | 4. Ngoại Môn | 40 | 0 | 200 | 🔄 |
+| Thần Khí Phường | 4. Ngoại Môn | 40 | 20 | 200 | 🔄 |
 | Thần Khí Phường | 5. Phàm Nhân | 0 | 0 | 6000 | ⬜ |
 | Dược Vương Cốc | 1. Leadership | 18 | 0 | 20 | 🔄 |
 | Dược Vương Cốc | 2. Chân Truyền | 0 | 0 | 30 | ⬜ |
