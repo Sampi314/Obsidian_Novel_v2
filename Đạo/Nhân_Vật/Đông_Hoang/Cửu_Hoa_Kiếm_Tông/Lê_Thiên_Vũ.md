@@ -4,17 +4,35 @@ name: Lê Thiên Vũ
 hantu: 黎天羽
 archetype: Chân Truyền Đệ Tử
 race: Nhân Tộc
-dao_tam: ''
+dao_tam: 'Thiên vũ phi không, nhất tâm quy nhất'
 age: 150
 avatar: ''
+faction_rank: Chân Truyền Đệ Tử — Thiên Hoa Phong (Đệ tử của Lục Trần)
 arcs:
   - arc: 1
     status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    methods: [Cửu Hoa Kiếm Quyết, Thiên Vũ Phá Không Kiếm]
+    inventory:
+      - name: Thiên Vũ Kiếm
+        type: Pháp Bảo
+    stats: [1100, 1300, 1450, 1200, 1150, 1400]
+    relationships:
+      - character: Lý Lục Trần
+        description: Sư phụ tôn kính kiêm Tông Chủ, người hắn thề trọn đời phò tá để thực hiện lý tưởng phục hưng tông môn.
+        feelings: {yeu: 10, han: 0, kinh: 95, tin: 98, so: 0, on: 80}
+      - character: Hoàng Thiên Dực
+        description: Thánh Tử, vị bằng hữu đồng thời là đối thủ cạnh tranh lành mạnh nhất của hắn trên con đường tu luyện.
+        feelings: {yeu: 30, han: 0, kinh: 40, tin: 85, so: 0, on: 20}
+      - character: Lê Bạch Liên
+        description: Em họ Nội Môn, hắn luôn âm thầm dõi theo và khích lệ nàng nỗ lực để khôi phục vinh quang cho Lê tộc.
+        feelings: {yeu: 60, han: 0, kinh: 10, tin: 80, so: 0, on: 40}
+      - character: Lê Tiểu Liên
+        description: Em họ Nội Môn, hắn thường xuyên đứng ra bảo bọc muội muội trước những trận mắng mỏ của Bạch Liên.
+        feelings: {yeu: 70, han: 0, kinh: 0, tin: 75, so: 0, on: 30}
+      - character: Trần Thiên Hoa
+        description: Phó Tông Chủ, vị tiền bối hắn vô cùng nể trọng về tài ngoại giao và tầm nhìn xa trông rộng.
+        feelings: {yeu: 15, han: 0, kinh: 80, tin: 90, so: 0, on: 10}
 ---
 
 # Lê Thiên Vũ (黎天羽)

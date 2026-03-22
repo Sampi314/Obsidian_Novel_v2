@@ -4,17 +4,35 @@ name: Hà Tử Phong
 hantu: 何紫风
 archetype: Nội Môn Đệ Tử
 race: Nhân Tộc
-dao_tam: ''
+dao_tam: 'Tử phong bạo liệt, trận pháp kinh thiên'
 age: 27
 avatar: ''
+faction_rank: Nội Môn Đệ Tử — Tử Hoa Phong
 arcs:
   - arc: 1
     status: Còn Sống
     cultivation: Trúc Cơ Trung Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    methods: [Cửu Hoa Kiếm Quyết, Viêm Tử Phá Trận Thuật]
+    inventory:
+      - name: Bạo Phá Linh Phù
+        type: Vật Phẩm
+    stats: [380, 410, 320, 350, 280, 310]
+    relationships:
+      - character: Hà Trận Linh
+        description: Anh trai ruột, người hắn vừa yêu quý vừa luôn cảm thấy ngột ngạt vì sự quản thúc quá mức nghiêm khắc.
+        feelings: {yeu: 85, han: 0, kinh: 40, tin: 90, so: 0, on: 50}
+      - character: Vương Tiểu Kim
+        description: Bạn thân khác phong, người đồng điệu về đam mê chế tạo những món pháp bảo bạo phá đầy nguy hiểm.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 85, so: 0, on: 40}
+      - character: Mã Tử Vân
+        description: Sư phụ, vị tiền bối mà hắn vừa kính trọng vừa thầm e sợ mỗi khi làm nổ tung phòng thí nghiệm của phong.
+        feelings: {yeu: 10, han: 0, kinh: 60, tin: 75, so: 40, on: 10}
+      - character: Hà Tử Huyền
+        description: Chị họ, người hắn luôn tìm cách trốn tránh để khỏi phải nghe những bài giáo huấn về sự cẩn trọng.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 60, so: 20, on: 0}
+      - character: Vương Kim Tỏa
+        description: Phong Chủ Kim Hoa Phong, người luôn muốn dùng cự chùy để "dạy bảo" hắn vì tội dụ dỗ Tiểu Kim làm loạn.
+        feelings: {yeu: 0, han: 0, kinh: 10, tin: 40, so: 50, on: 0}
 ---
 
 # Hà Tử Phong (何紫风)

@@ -18,8 +18,20 @@ arcs:
     stats: [90, 105, 75, 95, 65, 90]
     relationships:
       - character: Hồng Diệm
-        description: Tộc tỷ ở Nội Môn
-        feelings: { yeu: 15, han: 0, kinh: 40, tin: 85, so: 0, on: 0 }
+        description: Chị họ ở Nội Môn, người đã khai sáng và dạy cho nàng những chiêu thức kiếm pháp hỏa hệ cơ bản đầu tiên.
+        feelings: {yeu: 85, han: 0, kinh: 40, tin: 85, so: 0, on: 50}
+      - character: Hoàng Tiểu Long
+        description: Đối thủ cạnh tranh lành mạnh tại võ trường Ngoại Môn, người hay cùng nàng so tài thực lực.
+        feelings: {yeu: 20, han: 0, kinh: 10, tin: 80, so: 0, on: 10}
+      - character: Hoàng Liệt Diệm
+        description: Anh họ Chân Truyền, vị tiền bối trong tộc thường xuyên dành thời gian quý báu để trực tiếp chỉ điểm và nâng cao kỹ năng cho nàng.
+        feelings: {yeu: 75, han: 0, kinh: 30, tin: 85, so: 0, on: 40}
+      - character: Lục Kiếm Hoa
+        description: Thánh Nữ tôn kính, nàng luôn coi Kiếm Hoa tỷ tỷ là hình mẫu lý tưởng về một nữ kiếm tu tài sắc vẹn toàn.
+        feelings: {yeu: 15, han: 0, kinh: 60, tin: 70, so: 0, on: 0}
+      - character: Chu Phong Kiếm
+        description: Đồng môn thân thiết, người bạn thường xuyên cùng nàng chia sẻ những kinh nghiệm và khó khăn trong quá trình tu luyện.
+        feelings: {yeu: 30, han: 0, kinh: 0, tin: 75, so: 0, on: 0}
 ---
 
 # HỒ SƠ NHÂN VẬT: HỒNG TIỂU DIỆM (紅小焰)

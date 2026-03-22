@@ -4,17 +4,35 @@ name: Lê Bạch Liên
 hantu: 黎白莲
 archetype: Nội Môn Đệ Tử
 race: Nhân Tộc
-dao_tam: ''
+dao_tam: 'Bạch liên bất nhiễm, nhất kiếm thanh cao'
 age: 30
 avatar: ''
+faction_rank: Nội Môn Đệ Tử — Bạch Hoa Phong
 arcs:
   - arc: 1
     status: Còn Sống
     cultivation: Trúc Cơ Trung Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    methods: [Cửu Hoa Kiếm Quyết, Bạch Liên Vô Tạp Kiếm]
+    inventory:
+      - name: Bạch Liên Kiếm
+        type: Pháp Bảo
+    stats: [330, 380, 420, 410, 350, 460]
+    relationships:
+      - character: Lê Hàn Sương
+        description: Phong Chủ tôn kính, nàng luôn nỗ lực tu luyện để một ngày đạt được sự lạnh lùng và chuẩn xác như ngài.
+        feelings: {yeu: 10, han: 0, kinh: 85, tin: 90, so: 0, on: 20}
+      - character: Lê Thiên Vũ
+        description: Anh họ Chân Truyền, người đại diện cho vinh quang của Lê tộc mà nàng luôn lấy làm mục tiêu để hướng tới.
+        feelings: {yeu: 15, han: 0, kinh: 75, tin: 85, so: 0, on: 30}
+      - character: Lê Tiểu Liên
+        description: Em gái ruột, nàng vừa yêu thương vừa vô cùng nghiêm khắc để uốn nắn tính cách bốc đồng của muội muội.
+        feelings: {yeu: 90, han: 0, kinh: 0, tin: 80, so: 0, on: 50}
+      - character: Hoàng Tuyết Liên
+        description: Sư tỷ đồng môn Chân Truyền, người nàng thầm cạnh tranh lành mạnh về độ tinh thuần của kiếm ý băng sương.
+        feelings: {yeu: 10, han: 0, kinh: 20, tin: 70, so: 10, on: 0}
+      - character: Trần Hồng Nhi
+        description: Bạn của em gái, nàng thường xuyên phải đứng ra can ngăn những trò đùa tai quái của hai người bọn họ.
+        feelings: {yeu: 15, han: 0, kinh: 10, tin: 60, so: 0, on: 10}
 ---
 
 # Lê Bạch Liên (黎白莲)

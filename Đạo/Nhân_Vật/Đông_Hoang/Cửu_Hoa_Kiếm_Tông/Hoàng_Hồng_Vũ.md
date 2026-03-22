@@ -4,17 +4,35 @@ name: Hoàng Hồng Vũ
 hantu: 黄红雨
 archetype: Nội Môn Đệ Tử
 race: Nhân Tộc
-dao_tam: ''
+dao_tam: 'Hồng vũ hãm trận, nhất kiếm trảm tà'
 age: 48
 avatar: ''
+faction_rank: Nội Môn Đệ Tử — Hồng Hoa Phong
 arcs:
   - arc: 1
     status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    methods: [Cửu Hoa Kiếm Quyết, Hồng Liên Cự Kiếm Quyết]
+    inventory:
+      - name: Xích Hồng Kiếm
+        type: Pháp Bảo
+    stats: [480, 350, 280, 320, 360, 390]
+    relationships:
+      - character: Trần Hồng Kiếm
+        description: Sư phụ tôn kính, người đã rèn giũa ý chí chiến đấu của hắn thành ngọn lửa không thể dập tắt.
+        feelings: {yeu: 10, han: 0, kinh: 90, tin: 95, so: 0, on: 60}
+      - character: Trần Hồng Nhi
+        description: Sư muội Chân Truyền, người hắn thầm ngưỡng mộ về bản lĩnh và luôn sẵn sàng xả thân để bảo vệ.
+        feelings: {yeu: 35, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
+      - character: Hoàng Thiên Dực
+        description: Anh họ kiêm Thánh Tử, người hắn luôn lấy làm mục tiêu để phấn đấu về mặt tu vi và địa vị.
+        feelings: {yeu: 20, han: 0, kinh: 50, tin: 80, so: 0, on: 10}
+      - character: Phạm Liệt Hỏa
+        description: Sư huynh đồng môn, vị chiến hữu tin cậy nhất của hắn trong mọi cuộc càn quét ma tu.
+        feelings: {yeu: 15, han: 0, kinh: 20, tin: 85, so: 0, on: 30}
+      - character: Hoàng Tiểu Long
+        description: Sư đệ đồng tộc hiện ở Ngoại Môn, hắn thường xuyên dành thời gian để hướng dẫn thực chiến cho y.
+        feelings: {yeu: 50, han: 0, kinh: 0, tin: 75, so: 0, on: 10}
 ---
 
 # Hoàng Hồng Vũ (黄红雨)
@@ -33,7 +51,7 @@ Thuộc Hồng Hoa Phong, nơi chuyên về công kích và trận chiến thự
 
 ## IV. CÁC MỐI QUAN HỆ
 - **Trần Hồng Kiếm (Phong Chủ Hồng Hoa Phong):** Sư tôn, người đã kiên nhẫn rèn giũa tính tình nóng nảy của y và truyền thụ Hồng Liên Cự Kiếm Quyết.
-- **Trần Hồng Nhi:** Sư muội đồng môn kiêm Chân Truyền Đệ Tử, người thường xuyên phải đi theo "dọn dẹp" tàn cuộc sau những lần Hoàng Hồng Vũ nổi điên đập phá trong chiến đấu.
+- **Trần Hồng Nhi:** Sư muội đồng môn kiêm Chân Truyền Đệ Tử, người thường xuyên phải đi theo "dọn dép" tàn cuộc sau những lần Hoàng Hồng Vũ nổi điên đập phá trong chiến đấu.
 - **Hoàng Thiên Dực:** Thánh Tử của tông môn và là biểu ca họ xa, người luôn kỳ vọng y sẽ trở thành một trong những trụ cột tương lai của Hồng Hoa Phong.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH

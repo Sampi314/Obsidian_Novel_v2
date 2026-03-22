@@ -4,17 +4,35 @@ name: Lê Tiểu Liên
 hantu: 黎小蓮
 archetype: Nội Môn Đệ Tử
 race: Nhân Tộc
-dao_tam: ''
+dao_tam: 'Hồng liên ảo ảnh, tâm niệm tương thông'
 age: 35
 avatar: ''
+faction_rank: Nội Môn Đệ Tử — Hồng Hoa Phong
 arcs:
   - arc: 1
     status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    methods: [Cửu Hoa Kiếm Quyết, Hồng Liên Ảo Kiếm]
+    inventory:
+      - name: Ảo Hoa Kiếm
+        type: Pháp Bảo
+    stats: [310, 450, 380, 430, 260, 350]
+    relationships:
+      - character: Lê Bạch Liên
+        description: Chị gái ruột, nàng vừa yêu thương vừa e sợ sự nghiêm khắc tuyệt đối và những bài thuyết giảng của chị mình.
+        feelings: {yeu: 90, han: 0, kinh: 50, tin: 85, so: 40, on: 30}
+      - character: Trần Hồng Nhi
+        description: Tỷ muội tốt, người cùng nàng bày ra đủ mọi trò tinh quái và cùng nhau khám phá thế gian bên ngoài tông môn.
+        feelings: {yeu: 85, han: 0, kinh: 10, tin: 90, so: 0, on: 50}
+      - character: Lê Thiên Vũ
+        description: Anh họ Chân Truyền, vị cứu tinh luôn che chở nàng mỗi khi bị chị gái Bạch Liên trách phạt.
+        feelings: {yeu: 80, han: 0, kinh: 20, tin: 85, so: 0, on: 40}
+      - character: Lê Hàn Sương
+        description: Phong Chủ Bạch Hoa, nàng luôn cảm thấy áp lực và nhỏ bé mỗi khi phải đối diện với khí chất lạnh lùng của ngài.
+        feelings: {yeu: 10, han: 0, kinh: 60, tin: 70, so: 30, on: 0}
+      - character: Bạch Tiểu Vân
+        description: Bạn đồng môn Ngoại Môn, người hay cùng nàng chia sẻ những món quà vặt và bí mật nhỏ dưới chân núi.
+        feelings: {yeu: 50, han: 0, kinh: 0, tin: 80, so: 0, on: 10}
 ---
 
 # Lê Tiểu Liên (黎小蓮)

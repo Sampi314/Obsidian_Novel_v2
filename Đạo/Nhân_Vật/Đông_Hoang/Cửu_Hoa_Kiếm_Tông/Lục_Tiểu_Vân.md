@@ -4,17 +4,35 @@ name: Lục Tiểu Vân
 hantu: 陆小云
 archetype: Ngoại Môn Đệ Tử
 race: Nhân Tộc
-dao_tam: ''
+dao_tam: 'Dùng kiếm hộ tâm, vạn vân quy sơn'
 age: 17
 avatar: ''
+faction_rank: Ngoại Môn Đệ Tử — Thiên Hoa Phong
 arcs:
   - arc: 1
     status: Còn Sống
     cultivation: Trúc Cơ Sơ Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    methods: [Cửu Hoa Kiếm Quyết, Hoa Vân Kiếm Thuẫn]
+    inventory:
+      - name: Vân Thiết Kiếm
+        type: Pháp Bảo
+    stats: [250, 310, 350, 280, 380, 420]
+    relationships:
+      - character: Lý Lục Trần
+        description: Tông Chủ, vị anh hùng vĩ đại nhất trong lòng hắn, người hắn thề nguyện sẽ nỗ lực để xứng đáng được đứng dưới bóng của ngài.
+        feelings: {yeu: 10, han: 0, kinh: 95, tin: 90, so: 0, on: 50}
+      - character: Diệp Tĩnh Sương
+        description: Đồng môn Ngoại Môn, nàng là đối thủ tập luyện kiêm bằng hữu mà hắn luôn âm thầm quan tâm và khích lệ.
+        feelings: {yeu: 30, han: 0, kinh: 10, tin: 75, so: 0, on: 10}
+      - character: Lục Kiếm Hoa
+        description: Thánh Nữ, vị tỷ tỷ hắn thầm ngưỡng mộ về cả thiên phú lẫn tấm lòng bao dung đối với đệ tử thấp kém.
+        feelings: {yeu: 20, han: 0, kinh: 70, tin: 80, so: 0, on: 15}
+      - character: Lâm Phong
+        description: Đồng môn Ngoại Môn, vị bằng hữu trượng nghĩa mà hắn thường xuyên cùng thảo luận về công lý và đạo đức kiếm tu.
+        feelings: {yeu: 40, han: 0, kinh: 10, tin: 85, so: 0, on: 20}
+      - character: Lão Lý Quét Sân
+        description: Vị lão bộc bí ẩn mà hắn thường xuyên giúp đỡ việc nặng, hắn cảm nhận được một sự điềm tĩnh phi thường từ lão.
+        feelings: {yeu: 20, han: 0, kinh: 50, tin: 80, so: 0, on: 10}
 ---
 
 # Lục Tiểu Vân (陆小云)

@@ -4,17 +4,35 @@ name: Lý Ngọc Dược
 hantu: 李玉藥
 archetype: Chân Truyền Đệ Tử
 race: Nhân Tộc
-dao_tam: ''
+dao_tam: 'Ngọc tâm hướng thiện, dược trị nhân tâm'
 age: 140
 avatar: ''
+faction_rank: Chân Truyền Đệ Tử — Ngọc Hoa Phong (Đệ tử của Nguyễn Tĩnh Kiếm)
 arcs:
   - arc: 1
     status: Còn Sống
     cultivation: Kim Đan Trung Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    methods: [Cửu Hoa Kiếm Quyết, Ngọc Hoa Linh Y Quyết]
+    inventory:
+      - name: Ngọc Linh Châm
+        type: Pháp Bảo
+    stats: [1000, 1400, 1350, 1100, 1200, 1450]
+    relationships:
+      - character: Nguyễn Tĩnh Kiếm
+        description: Sư phụ tôn kính, người cha tinh thần đã dạy nàng y đức và tinh hoa của Ngọc Hoa Phong.
+        feelings: {yeu: 85, han: 0, kinh: 90, tin: 95, so: 0, on: 80}
+      - character: Lý Ngọc Phong
+        description: Sư đệ Nội Môn, người nàng hết lòng dìu dắt và chỉ bảo từng loại dược thảo một cách kiên nhẫn.
+        feelings: {yeu: 70, han: 0, kinh: 10, tin: 85, so: 0, on: 50}
+      - character: Đoàn Ngọc Tâm
+        description: Đồng môn thân thiết, cộng sự đáng tin cậy trong các dự án luyện chế đan dược quy mô lớn của phong.
+        feelings: {yeu: 50, han: 0, kinh: 10, tin: 90, so: 0, on: 30}
+      - character: Lý Thanh Hà
+        description: Sư muội (khác phong), nàng là nguồn vui và cũng là khách hàng thường xuyên của các loại đan dược trị thương nhẹ.
+        feelings: {yeu: 40, han: 0, kinh: 0, tin: 85, so: 0, on: 20}
+      - character: Lý Lục Trần
+        description: Tông Chủ, người nàng luôn nỗ lực nghiên cứu các phương thuốc bồi bổ để san sẻ gánh nặng lãnh đạo cho ngài.
+        feelings: {yeu: 10, han: 0, kinh: 80, tin: 90, so: 0, on: 10}
 ---
 
 # Lý Ngọc Dược (李玉藥)

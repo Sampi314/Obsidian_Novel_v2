@@ -4,17 +4,35 @@ name: Lý Ngọc Phong
 hantu: 李玉风
 archetype: Nội Môn Đệ Tử
 race: Nhân Tộc
-dao_tam: ''
+dao_tam: 'Ngọc phong mộc linh, nhất tâm nhất ý'
 age: 45
 avatar: ''
+faction_rank: Nội Môn Đệ Tử — Ngọc Hoa Phong
 arcs:
   - arc: 1
     status: Còn Sống
     cultivation: Trúc Cơ Hậu Kỳ
-    methods: []
-    inventory: []
-    stats: [0, 0, 0, 0, 0, 0]
-    relationships: []
+    methods: [Cửu Hoa Kiếm Quyết, Bách Thảo Kiếm Pháp]
+    inventory:
+      - name: Thanh Mộc Kiếm
+        type: Pháp Bảo
+    stats: [320, 410, 450, 350, 300, 420]
+    relationships:
+      - character: Lý Ngọc Dược
+        description: Sư huynh Chân Truyền, hình mẫu lý tưởng mà hắn luôn bám gót để học hỏi kỹ thuật luyện đan.
+        feelings: {yeu: 75, han: 0, kinh: 60, tin: 90, so: 0, on: 50}
+      - character: Nguyễn Tĩnh Kiếm
+        description: Sư phụ, vị tiền bối nghiêm khắc mà hắn luôn khát khao được một lần chứng tỏ năng lực của mình.
+        feelings: {yeu: 10, han: 0, kinh: 85, tin: 80, so: 20, on: 10}
+      - character: Lý Thanh Hà
+        description: Sư tỷ đồng tộc khác phong, người bạn tâm giao hay mang đến những mẩu chuyện thú vị từ thế gian.
+        feelings: {yeu: 50, han: 0, kinh: 0, tin: 85, so: 0, on: 30}
+      - character: Đoàn Ngọc Hà
+        description: Đồng môn Nội Môn, người thường xuyên phối hợp cùng hắn trong việc tìm kiếm các loại dược thảo hiếm.
+        feelings: {yeu: 40, han: 0, kinh: 10, tin: 80, so: 0, on: 10}
+      - character: Lão Trương
+        description: Tổng Bếp Trưởng, hắn thường tặng linh dược tẩm bổ cho lão để đổi lấy những bữa cơm ngon lành.
+        feelings: {yeu: 30, han: 0, kinh: 0, tin: 80, so: 0, on: 10}
 ---
 
 # Lý Ngọc Phong (李玉风)
