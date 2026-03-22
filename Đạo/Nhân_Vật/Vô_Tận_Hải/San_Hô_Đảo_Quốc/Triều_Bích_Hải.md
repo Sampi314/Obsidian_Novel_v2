@@ -38,9 +38,9 @@ Với tu vi Kim Đan Trung Kỳ, Triều Bích Hải nổi tiếng với phong c
 - **Thủy Tinh** (Sư đồ): Triều Bích Hải chỉ dẫn Thủy Tinh trong San Hô Đảo Quốc
 - **Hải Nguyệt Ca** (Chủ tớ): Thủ hạ trung thành trong San Hô Đảo Quốc
 - **Hải Nguyệt Ca** (Cấp dưới): Phục tùng Hải Nguyệt Ca, Viện Chủ của San Hô Đảo Quốc
-- **Triều Thiên Vệ** (Sư đồ): Triều Thiên Vệ chỉ dẫn Triều Bích Hải trong San Hô Đảo Quốc
-- **Triều Thiên Vệ (潮天卫):** Vừa là cấp trên vừa là sư phụ, người luôn rèn luyện tính kiên nhẫn và kỷ luật cho y.
+- **Triều Thiên Phong** (Sư đồ): Triều Thiên Phong chỉ dẫn Triều Bích Hải trong San Hô Đảo Quốc
+- **Triều Thiên Phong (潮天卫):** Vừa là cấp trên vừa là sư phụ, người luôn rèn luyện tính kiên nhẫn và kỷ luật cho y.
 - **Hải Tiểu Loa (海小螺):** Là người bạn thân thiết từ thuở nhỏ, thường xuyên chế tạo các pháp khí từ vỏ ốc để y sử dụng trong các chuyến đi săn.
 - **Giảo Thiết Kìm (绞铁钳 - San Hô Thủ Hộ Đoàn):** Từng giao đấu và nảy sinh sự kính trọng lẫn nhau do cùng chung chí hướng bảo vệ biển cả.
 ## V. TIỂU SỬ & HÀNH TRÌNH
-Sinh ra trong một gia đình bình dân của San Hô Đảo Quốc, Triều Bích Hải đã mồ côi từ sớm sau một đợt tấn công từ Hải Yêu Mê Cung. Nỗi đau ấy biến thành ý chí mạnh mẽ, thúc đẩy y gia nhập Hải Vệ Quân ngay khi đủ tuổi. Nhờ sự gan dạ trong việc bảo vệ các vườn ngọc trai, y được Triều Thiên Vệ thu nạp và thăng cấp làm Đội Trưởng đội tuần tra tiên phong. Mục tiêu hiện tại của y không chỉ là quét sạch bọn hải yêu quấy nhiễu mà còn trở thành cánh tay phải vững chắc của Nữ Vương.
+Sinh ra trong một gia đình bình dân của San Hô Đảo Quốc, Triều Bích Hải đã mồ côi từ sớm sau một đợt tấn công từ Hải Yêu Mê Cung. Nỗi đau ấy biến thành ý chí mạnh mẽ, thúc đẩy y gia nhập Hải Vệ Quân ngay khi đủ tuổi. Nhờ sự gan dạ trong việc bảo vệ các vườn ngọc trai, y được Triều Thiên Phong thu nạp và thăng cấp làm Đội Trưởng đội tuần tra tiên phong. Mục tiêu hiện tại của y không chỉ là quét sạch bọn hải yêu quấy nhiễu mà còn trở thành cánh tay phải vững chắc của Nữ Vương.

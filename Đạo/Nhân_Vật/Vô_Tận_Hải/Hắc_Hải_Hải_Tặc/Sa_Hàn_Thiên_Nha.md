@@ -42,6 +42,6 @@ Chuyên tu về các công pháp hàn băng và kỹ thuật xử tử dứt đi
 - **Sa Tiểu Bạch Nha** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
 - **Sa Huyết Đao:** Chủ nhân mà hắn tuyệt đối trung thành, người trực tiếp ra lệnh cho hắn xử tử những kẻ phản bội.
 - **Sa Bạch Cốt:** Người thường xuyên cung cấp cho hắn những "dụng cụ" bằng xương để tăng hiệu quả cho các buổi hành quyết.
-- **Chương Huyết Mực Vương:** Đồng nghiệp thường phối hợp để thực hiện các màn tra tấn và xử tử công khai trên Đảo Xương Sọ.
+- **Chương Huyết Mực:** Đồng nghiệp thường phối hợp để thực hiện các màn tra tấn và xử tử công khai trên Đảo Xương Sọ.
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sa Hàn Thiên Nha vốn là một quản ngục nghiêm khắc trong một nhà tù của Long Cung trước khi bị hãm hại và phải bỏ trốn. Hắn đã tìm thấy ý nghĩa cuộc đời mình trong việc trở thành đao phủ cho Hắc Hải Hải Tặc, nơi hắn có thể tự do thực thi "công lý" của kẻ mạnh. Với hắn, sự phản bội là tội lỗi duy nhất không thể dung thứ. Hiện tại, hắn là nỗi khiếp sợ của mọi thành viên trong liên minh, luôn âm thầm quan sát và sẵn sàng ra tay với bất kỳ ai có ý định làm phản.

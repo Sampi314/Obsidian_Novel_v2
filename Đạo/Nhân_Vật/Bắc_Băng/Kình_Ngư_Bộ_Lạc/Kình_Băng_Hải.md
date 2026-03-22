@@ -26,7 +26,7 @@ arcs:
         type: Linh Vật
     stats: [450, 300, 350, 180, 400, 380]
     relationships:
-      - character: Kình Thiên Hải Vương
+      - character: Kình Thiên Hải
         description: Tộc Trưởng và phụ thân, người giao trọng trách dẫn đoàn tiền tiêu ra Bắc Băng
         feelings:
           yeu: 30
@@ -66,7 +66,7 @@ arcs:
 - **Khu Vực:** Bắc Băng — vùng biển đóng băng phía bắc, nơi hải lưu ấm ngầm chảy dưới lớp băng dày tạo thành không gian sống cho Hải Tộc.
 - **Thế Lực:** Kình Ngư Bộ Lạc (鯨魚部落) — bộ lạc Hải Tộc cổ xưa sống cùng các bầy cá voi, chi nhánh Bắc Hải tách ra từ bộ lạc chính ở Vô Tận Hải.
 - **Chức Vụ:** Bắc Hải Trưởng — thủ lĩnh đoàn tiền tiêu Kình Ngư Bộ Lạc tại vùng Bắc Băng, chịu trách nhiệm dẫn dắt ba trăm tộc nhân và một đàn cá voi băng ba mươi con sinh tồn dưới lớp băng vĩnh cửu.
-- **Xuất Thân:** Con trai thứ ba của Kình Thiên Hải Vương — Tộc Trưởng Kình Ngư Bộ Lạc. Được phái đến Bắc Băng để thăm dò tuyến hải lưu ấm mới sau khi tuyến cũ bị Hắc Hải Hải Tặc phong tỏa.
+- **Xuất Thân:** Con trai thứ ba của Kình Thiên Hải — Tộc Trưởng Kình Ngư Bộ Lạc. Được phái đến Bắc Băng để thăm dò tuyến hải lưu ấm mới sau khi tuyến cũ bị Hắc Hải Hải Tặc phong tỏa.
 
 ## II. NGOẠI HÌNH & KHÍ CHẤT
 - **Dung Mạo:**
@@ -95,11 +95,11 @@ arcs:
 
 ## IV. LỊCH SỬ & XUẤT THÂN
 - **Xuất Thân — Con Trai Tộc Trưởng:**
-    - Kình Băng Hải sinh ra giữa Vô Tận Hải, trong một hang san hô ngọc khổng lồ nằm sâu dưới đáy biển. Cha y — Kình Thiên Hải Vương — là Tộc Trưởng đời thứ mười bảy, tu vi Nguyên Anh Sơ Kỳ, nắm giữ toàn bộ tám nghìn tộc nhân và hàng trăm đàn cá voi. Mẹ y — Kình Nguyệt Âm — là ca sĩ bộ lạc đời trước, giọng hát mê hoặc đến mức cá voi từ nghìn dặm bơi đến nghe. Bà mất khi sinh Băng Hải — y chưa bao giờ nghe mẹ hát bằng tai thịt, chỉ nghe qua Trân Châu Lưu Âm mà bà để lại.
+    - Kình Băng Hải sinh ra giữa Vô Tận Hải, trong một hang san hô ngọc khổng lồ nằm sâu dưới đáy biển. Cha y — Kình Thiên Hải — là Tộc Trưởng đời thứ mười bảy, tu vi Nguyên Anh Sơ Kỳ, nắm giữ toàn bộ tám nghìn tộc nhân và hàng trăm đàn cá voi. Mẹ y — Kình Nguyệt Âm — là ca sĩ bộ lạc đời trước, giọng hát mê hoặc đến mức cá voi từ nghìn dặm bơi đến nghe. Bà mất khi sinh Băng Hải — y chưa bao giờ nghe mẹ hát bằng tai thịt, chỉ nghe qua Trân Châu Lưu Âm mà bà để lại.
     - Là con trai thứ ba, y không được kỳ vọng kế vị — hai anh trai đều mạnh hơn, tu vi cao hơn, và được cha trực tiếp truyền dạy. Băng Hải lớn lên trong bóng tối của hai người anh, nhưng y sở hữu một thứ họ không có: khả năng giao tiếp với cá voi bằng âm ba thuần túy, không cần linh lực — thiên phú di truyền từ mẹ. Y có thể nghe hiểu "ngôn ngữ" của cá voi, cảm nhận cảm xúc của chúng, và dẫn dắt đàn cá voi đi theo ý muốn chỉ bằng giọng hát.
     - Từ năm mười tuổi, y đã theo các đoàn tuần tra bảo vệ đàn cá voi khỏi cá mập băng và hải tặc. Năm hai mươi tuổi, y một mình dẫn một đàn cá voi con hai mươi con vượt qua vùng biển Hắc Hải Hải Tặc mà không mất con nào — thành tích khiến cha y lần đầu tiên nhìn y bằng ánh mắt trân trọng.
 - **Biến Cố — "Tuyến Hải Lưu Bị Phong Tỏa" (năm 90 tuổi):**
-    - Hắc Hải Hải Tặc mở rộng lãnh thổ, phong tỏa tuyến hải lưu ấm chính mà Kình Ngư Bộ Lạc sử dụng để di cư theo mùa. Đàn cá voi không thể đi qua vùng nước bị nhiễm độc khí hải tặc, buộc bộ lạc phải tìm tuyến đường mới. Kình Thiên Hải Vương triệu tập hội đồng trưởng lão, quyết định phái một đoàn tiền tiêu ra vùng biển cực bắc — Bắc Băng — nơi có tin đồn về những dòng hải lưu ấm ngầm chảy dưới lớp băng vĩnh cửu.
+    - Hắc Hải Hải Tặc mở rộng lãnh thổ, phong tỏa tuyến hải lưu ấm chính mà Kình Ngư Bộ Lạc sử dụng để di cư theo mùa. Đàn cá voi không thể đi qua vùng nước bị nhiễm độc khí hải tặc, buộc bộ lạc phải tìm tuyến đường mới. Kình Thiên Hải triệu tập hội đồng trưởng lão, quyết định phái một đoàn tiền tiêu ra vùng biển cực bắc — Bắc Băng — nơi có tin đồn về những dòng hải lưu ấm ngầm chảy dưới lớp băng vĩnh cửu.
     - Hai anh trai từ chối — vùng biển Bắc Băng quá lạnh, quá nguy hiểm, và quá xa để quay về nếu thất bại. Kình Băng Hải xung phong. Cha y nhìn y lâu, rồi gật đầu, trao cho y Hải Triều Xoa và ba trăm tình nguyện viên. Y dẫn đoàn rời Vô Tận Hải vào một đêm trăng tròn, tiếng hát tạm biệt của nghìn tộc nhân vang vọng theo y suốt vạn dặm.
 - **Hành Trình Đến Bắc Băng — "Ba Năm Dưới Băng" (90-93 tuổi):**
     - Hành trình từ Vô Tận Hải đến Bắc Băng kéo dài ba năm — vượt qua biển mở, biển đóng băng mỏng, rồi biển đóng băng hoàn toàn. Đoàn mất bốn mươi ba tộc nhân và năm con cá voi trên đường — do lạnh, do thiếu thức ăn, do cá mập băng phục kích dưới mặt băng. Y chôn mỗi tộc nhân mất bằng cách hát bài hát tiễn biệt truyền thống, rồi thả thi thể chìm vào dòng hải lưu lạnh — để biển đưa họ về với Kình Tổ.
@@ -126,7 +126,7 @@ arcs:
         Kỹ thuật tấn công cực đoan — y tạo ra một xoáy nước khổng lồ bằng cách xoay cơ thể với tốc độ cao kết hợp linh lực thủy hệ, hút kẻ thù vào trung tâm xoáy rồi đè bẹp bằng áp suất nước. Chiêu này tiêu hao linh lực khủng khiếp — chỉ dùng trong tình huống sống chết.
 - **Pháp Bảo/Trang Bị:**
     - **Băng Kình Cốt Giáp (冰鯨骨甲):** Bộ giáp chế từ xương cá voi cổ đại — xương cá voi sống hàng ngàn năm dưới biển sâu tích tụ hàn khí tự nhiên, cứng hơn hàn thiết thông thường. Giáp bao phủ ngực, vai, và cẳng tay, để lộ phần bụng và lưng cho linh hoạt khi bơi. Trong nước, giáp gần như bất khả xâm phạm trước vũ khí thông thường; trên cạn, hiệu quả giảm đi do thiếu môi trường nước để khuếch đại hàn khí.
-    - **Hải Triều Xoa (海潮叉):** Xoa ba nhánh chế từ xương sống cá voi thượng cổ, dài hơn một trượng, bề mặt khắc phù văn thủy hệ cổ xưa. Khi được linh lực kích hoạt, xoa có thể điều khiển dòng nước trong phạm vi mười trượng, tạo sóng, tạo xoáy, hoặc đóng băng tức thì vùng nước xung quanh. Đây là pháp bảo gia truyền mà Kình Thiên Hải Vương trao cho y trước chuyến đi — biểu tượng quyền lực của Bắc Hải Trưởng.
+    - **Hải Triều Xoa (海潮叉):** Xoa ba nhánh chế từ xương sống cá voi thượng cổ, dài hơn một trượng, bề mặt khắc phù văn thủy hệ cổ xưa. Khi được linh lực kích hoạt, xoa có thể điều khiển dòng nước trong phạm vi mười trượng, tạo sóng, tạo xoáy, hoặc đóng băng tức thì vùng nước xung quanh. Đây là pháp bảo gia truyền mà Kình Thiên Hải trao cho y trước chuyến đi — biểu tượng quyền lực của Bắc Hải Trưởng.
     - **Trân Châu Lưu Âm Mẫu (珍珠留音母):** Viên ngọc trai lớn nhất trong chuỗi trên cổ y, chứa đoạn hát cuối cùng của mẹ y — một bài hát ru không lời, giai điệu trầm buồn. Không có giá trị chiến đấu, nhưng là thứ y sẽ bảo vệ bằng tất cả — kể cả đánh đổi mạng sống.
 - **Điểm Yếu:**
     - **Chiến đấu trên cạn:** Mất gần bảy mươi phần trăm sức mạnh khi rời khỏi nước. Trên đất liền, y chậm chạp, vụng về, linh lực thủy hệ không có môi trường khuếch đại, và da khô nhanh dưới gió lạnh khiến y đau đớn. Y chỉ có thể ở trên cạn tối đa hai canh giờ trước khi phải quay về nước.
@@ -136,7 +136,7 @@ arcs:
     Điều này khiến y lo lắng, vì Nguyệt Ấn chỉ phản ứng khi dòng máu trưởng tử cảm nhận được mối nguy cho bộ lạc.
 
 ## VI. QUAN HỆ
-- **Kình Thiên Hải Vương — Tộc Trưởng & Phụ Thân:**
+- **Kình Thiên Hải — Tộc Trưởng & Phụ Thân:**
     - Quan hệ phức tạp — y kính trọng cha nhưng cũng oán giận thầm vì bị phái đến nơi nguy hiểm nhất trong khi hai anh ở lại an toàn. Y hiểu đây là phép thử, nhưng ba mươi năm không một lời hỏi thăm, không một tin nhắn, khiến y tự hỏi liệu cha có thực sự quan tâm hay chỉ coi y như quân cờ thí. Dù vậy, y vẫn mang Hải Triều Xoa trên tay mỗi ngày — vì đó là thứ duy nhất cha trao cho y, và y sẽ chứng minh mình xứng đáng.
 - **Kình Hải Âm Thiên — Ca Sĩ Bộ Lạc & Người Bạn Thuở Nhỏ:**
     - Âm Thiên là bạn thân duy nhất của y từ thuở nhỏ — cô gái Kình Ngư có giọng hát đẹp nhất bộ lạc kể từ mẹ y. Y lớn lên nghe cô hát, và trong tiếng hát ấy, y tìm thấy bóng dáng mẹ. Tình cảm y dành cho Âm Thiên vượt qua tình bạn nhưng y chưa bao giờ nói ra — vì y biết mình có thể không bao giờ quay về Vô Tận Hải, và y không muốn để cô chờ đợi một kẻ có thể chết dưới băng bất cứ lúc nào.

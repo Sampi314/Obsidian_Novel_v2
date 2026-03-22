@@ -34,7 +34,7 @@ Một tộc nhân tí hon thuộc chi Tôm với thân hình mảnh khảnh, kho
 Chuyên về thuật ám sát tốc độ cao và kỹ thuật cắt đứt kinh mạch trong tích tắc. Tuyệt kỹ "Phong Nhận Nhất Sát" (风刃一杀) cho phép hắn lướt đi trên mặt nước với tốc độ không thể nhìn thấy bằng mắt thường, tung ra một nhát chém chí mạng vào cổ họng đối phương trước khi chúng kịp nhận ra sự hiện diện của hắn. Điểm mạnh là tốc độ và khả năng ẩn nấp tuyệt đỉnh, nhưng điểm yếu là sức chịu đựng cực thấp, hầu như sẽ chết nếu trúng phải một đòn đánh trực diện.
 
 ## IV. CÁC MỐI QUAN HỆ
-- **Giải Thiên Giáp Vương** (Sư đồ): Giải Thiên Giáp Vương chỉ dẫn Hà Phong Nhận trong Hắc Hải Hải Tặc
+- **Giải Thiên Giáp** (Sư đồ): Giải Thiên Giáp chỉ dẫn Hà Phong Nhận trong Hắc Hải Hải Tặc
 - **Giải Thiết Quyền** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
 - **Sa Huyết Đao** (Chủ tớ): Thủ hạ trung thành trong Hắc Hải Hải Tặc
 - **Sa Huyết Đao** (Cấp dưới): Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc

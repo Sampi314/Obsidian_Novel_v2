@@ -37,7 +37,7 @@ Thành viên của Nấm Linh Mạng Lưới, tu luyện công pháp đặc trư
 - **Nấm Thiên Căn** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Nấm Linh Mạng Lưới
 - **Nấm Thiên Căn** (Thuộc hạ): Tôn kính và phục tùng thủ lĩnh Nấm Thiên Căn
 - **Nấm Thâm Căn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
-- **Nấm Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Độc Tâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
 - **Nấm Hồng Tán** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
 - **Nấm Ngọc Tán** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
 - **Nấm Thiên Nhĩ** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới

@@ -72,7 +72,7 @@ Tu luyện *Tịnh Hóa Ngọc Thể Thuật* (淨化玉體術) — pháp môn b
 - **Bào Thâm Thổ** (Đồng minh): Thổ Dưỡng Sư, đối tác hoàn hảo — nàng thanh lọc, Thâm Thổ phục hồi đất đai sau đó
 - **Bào Thiên Biến Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Thiên Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
-- **Bào Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Độc Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Hắc Lâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Lục Quang Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 ## V. TIỂU SỬ & HÀNH TRÌNH

@@ -38,9 +38,9 @@ Chuyên về sức mạnh vật lý thuần túy và kỹ thuật công phá đi
 - **Chương Thiên Tý Hắc** (Sư đồ): Chương Thiên Tý Hắc chỉ dẫn Giải Cự Kìm trong Hắc Hải Hải Tặc
 - **Sa Huyết Đao** (Chủ tớ): Thủ hạ trung thành trong Hắc Hải Hải Tặc
 - **Sa Huyết Đao** (Cấp dưới): Phục tùng Sa Huyết Đao, Đệ Nhất Hải Tặc Vương của Hắc Hải Hải Tặc
-- **Giải Thiên Giáp Vương** (Sư đồ): Giải Thiên Giáp Vương chỉ dẫn Giải Cự Kìm trong Hắc Hải Hải Tặc
+- **Giải Thiên Giáp** (Sư đồ): Giải Thiên Giáp chỉ dẫn Giải Cự Kìm trong Hắc Hải Hải Tặc
 - **Giải Thiết Quyền** (Đồng minh): Đồng liêu cùng Hắc Hải Hải Tặc, hỗ trợ lẫn nhau
-- **Giải Thiên Giáp Vương:** Vị vương mà hắn hết mực trung thành, người luôn chỉ điểm cho hắn những vị trí cần phá hủy trên chiến trường.
+- **Giải Thiên Giáp:** Vị vương mà hắn hết mực trung thành, người luôn chỉ điểm cho hắn những vị trí cần phá hủy trên chiến trường.
 - **Kình Phá Lãng:** Hắn thường phối hợp với Kình Phá Lãng để tạo ra những cuộc tấn công "đâm và phá" quy mô lớn vào các căn cứ hải đảo.
 - **Giải Thiết Quyền:** Huynh đệ cùng tộc, người thường giúp hắn tập luyện để tăng cường sức chịu đựng của lớp vỏ.
 ## V. TIỂU SỬ & HÀNH TRÌNH

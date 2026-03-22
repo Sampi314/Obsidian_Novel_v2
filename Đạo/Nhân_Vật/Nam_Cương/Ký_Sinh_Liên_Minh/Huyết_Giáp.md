@@ -42,6 +42,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Ngọc Thiết Lôi
+        description: Bán Thạch Cự Nhân, quen biết qua Ngọc Sơn, đôi khi gặp nhau trong chuyện buôn bán
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 0
+          tin: 0
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HUYẾT GIÁP (血甲)
@@ -64,6 +73,7 @@ Huyết Giáp tu luyện Huyết Giáp Cương Thể Thuật (血甲鋼體術), 
 - **Linh Vi Trần:** Gián Điệp Vi Tộc, đồng minh bí mật cung cấp tin tức tình báo, mối quan hệ ngoài mặt như người lạ.
 - **Ngọc Sơn:** Hội Trưởng Bán Cự Nhân Hội, đối tác thương mại đáng tin cậy, hai người tôn trọng lẫn nhau.
 - **Mặc Kén Tử:** Kén Sư Cổ Kén Tu Luyện Xã, đồng tộc Trùng Tộc hay gặp nhau trao đổi kinh nghiệm tu luyện.
+- **Ngọc Thiết Lôi:** Bán Thạch Cự Nhân, quen biết qua Ngọc Sơn, đôi khi gặp nhau trong chuyện buôn bán.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Huyết Giáp sinh ra trong bộ lạc bọ hung sống dưới lòng đất Nam Cương, từ nhỏ đã có mai giáp dày hơn đồng trang lứa gấp ba lần. Khi bộ lạc bị yêu thú tấn công tan tác, hắn là chiến binh cuối cùng đứng vững bảo vệ ấu trùng, dù bị thương nặng vẫn không lùi một bước. Sau đó được Ký Sinh Liên Minh thu nhận, trở thành giáp chiến sĩ chuyên bảo hộ các thành viên yếu đuối của liên minh. Mục tiêu hiện tại là tìm kiếm đồng tộc còn sống sót và xây dựng lại bộ lạc bọ hung dưới sự bảo trợ của Ký Sinh Liên Minh.

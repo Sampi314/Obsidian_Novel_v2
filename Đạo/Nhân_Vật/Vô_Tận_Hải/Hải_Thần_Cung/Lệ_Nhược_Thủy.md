@@ -112,8 +112,8 @@ arcs:
 - **Giao Vân Hà** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
 - **Giải Huyền Giáp** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
 - **Giải Huyền Giáp** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
-- **Giải Thiết Giáp Vương** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
-- **Giải Thiết Giáp Vương** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
+- **Giải Thiết Giáp** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
+- **Giải Thiết Giáp** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung
 - **Hà Kim Giáp** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
 - **Kình Lôi Thanh** (Chủ tớ): Thủ hạ trung thành trong Hải Thần Cung
 - **Kình Lôi Thanh** (Cấp dưới): Phục tùng Lệ Nhược Thủy, Hải Yêu Vương của Hải Thần Cung

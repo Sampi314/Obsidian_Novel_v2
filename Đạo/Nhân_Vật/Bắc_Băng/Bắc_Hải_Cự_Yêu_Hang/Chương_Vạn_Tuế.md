@@ -40,7 +40,7 @@ arcs:
           tin: 60
           so: 0
           on: 30
-      - character: Xà Hải Mãng Vương
+      - character: Xà Hải Mãng
         description: Đồng minh trong hang, tôn trọng lẫn nhau nhưng giữ khoảng cách
         feelings:
           yeu: 10
@@ -153,7 +153,7 @@ Hiện tại, Vạn Tuế đang ở giai đoạn Nguyên Anh Trung Kỳ, phần 
 - **Kraken Già (Hóa Thần Hậu Kỳ):** Tổ tiên truyền thừa, đấng tối cao trong hang ổ. Vạn Tuế kính sợ Kraken Già từ tận xương cốt — không phải vì bị ép buộc, mà vì bản năng huyết mạch khiến hắn tự nhiên cúi đầu trước sức mạnh Thượng Cổ. Dù vậy, hắn cũng lo lắng vì Kraken Già đã ngủ đông quá lâu, không biết còn có thể tỉnh lại hay không.
 - **Chương Thiên Tý (Kim Đan Viên Mãn):** Đệ muội cùng huyết mạch Kraken, phó chủ đáng tin cậy nhất. Vạn Tuế giao phó việc canh gác hang ổ cho Thiên Tý khi hắn đi tuần tra hoặc bán ngủ đông. Hai Kraken có một mối liên kết sóng âm riêng, có thể giao tiếp xuyên qua hàng trăm dặm nước biển.
 - **Chương Tiểu Vạn (Luyện Khí Viên Mãn):** Hậu duệ duy nhất, Vạn Tuế đặt toàn bộ hy vọng tương lai dòng Kraken lên đứa trẻ này. Hắn dạy dỗ Tiểu Vạn theo cách hoang dã — ném con vào vùng biển nguy hiểm để tự sinh tồn, nhưng luôn âm thầm theo dõi từ xa, sẵn sàng ra tay nếu có chuyện.
-- **Xà Hải Mãng Vương (Kim Đan Hậu Kỳ):** Đồng minh lỏng lẻo. Vạn Tuế tôn trọng sức mạnh của Mãng Vương nhưng không hoàn toàn tin tưởng — loài xà luôn có bản tính xảo quyệt hơn loài chương. Hai bên duy trì hòa bình dựa trên nguyên tắc "không xâm phạm lãnh thổ của nhau trong hang".
+- **Xà Hải Mãng (Kim Đan Hậu Kỳ):** Đồng minh lỏng lẻo. Vạn Tuế tôn trọng sức mạnh của Mãng Vương nhưng không hoàn toàn tin tưởng — loài xà luôn có bản tính xảo quyệt hơn loài chương. Hai bên duy trì hòa bình dựa trên nguyên tắc "không xâm phạm lãnh thổ của nhau trong hang".
 - **Quy Cổ Băng (Kim Đan Trung Kỳ):** Lão rùa là sinh vật sống lâu nhất trong hang (không tính Kraken Già), và Vạn Tuế thường "nghe" những sóng âm ký ức mà Cổ Băng phát ra — đó là cách lão rùa truyền đạt kinh nghiệm. Vạn Tuế coi lão là "ký ức sống" của hang ổ.
 - **Sa Cổ Hải Thú (Kim Đan Viên Mãn):** Cự ngư tuần tra vòng ngoài. Vạn Tuế coi hắn là lính gác đáng tin cậy nhưng không giao thiệp nhiều — loài sa (cá mập) quá hung bạo và thiếu kiên nhẫn cho những cuộc trò chuyện dài.
 - **Chương Băng Hải** (Kẻ thù): Chủ nhân tuyệt đối, nhận lệnh tuần tra

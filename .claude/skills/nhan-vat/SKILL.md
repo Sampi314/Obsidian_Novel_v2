@@ -81,6 +81,81 @@ Bạn là Đại Diện chuyên trách về Nhân Vật (Nhân Vật Design) tro
     - [ ] YAML frontmatter và Section I KHÔNG bị thay đổi
     - [ ] Mỗi nhân vật phải có giọng văn mô tả riêng — KHÔNG lặp lại cùng cấu trúc câu
 
+### Chế Độ 3: Tạo Nhân Vật Đầy Đủ Chi Tiết (Tạo + Điền Luôn)
+> **Khi nào sử dụng:** Khi cần tạo nhân vật MỚI với đầy đủ thông tin chi tiết ngay lập tức — KHÔNG qua giai đoạn stub/placeholder.
+> **Tham khảo chất lượng tối thiểu:** `Đạo/Nhân_Vật/Nam_Cương/Vạn_Độc_Môn/Lệ_Vô_Tâm.md` (~185 dòng). Mọi nhân vật tạo bằng Chế Độ 3 phải ĐẠT HOẶC VƯỢT mức chi tiết này.
+
+1.  **Đọc context:**
+    - Đọc file thế lực: `Đạo/Thế_Lực/[Region]/[Faction].md`
+    - Đọc file chủng tộc: `Đạo/Chủng_Tộc/[Race].md` (nếu phi Nhân Tộc)
+    - Đọc nhân vật đã có: `ls Đạo/Nhân_Vật/[Region]/[Faction]/`
+
+2.  **YAML Frontmatter — HOÀN CHỈNH:**
+    - name, hantu, archetype, race, age, avatar
+    - `lingan:` (Loại linh căn + nguồn gốc biến dị)
+    - `dao_tam:` (Câu tóm tắt đạo tâm)
+    - `aliases:` (Danh hiệu, biệt danh nếu có)
+    - `faction_rank:` (Vị trí trong phe phái)
+    - `arcs:` với cultivation, methods, inventory (tên + type cho mỗi vật phẩm)
+    - `stats:` (6 giá trị đúng range theo cảnh giới)
+    - `relationships:` (MỖI quan hệ có description CHI TIẾT + feelings 6 trục)
+
+3.  **7 Sections Body — TẤT CẢ phải chi tiết:**
+
+    **Section I — THÔNG TIN CƠ BẢN**
+    - Tên, Tên khai sinh (nếu khác), Danh hiệu
+    - Tuổi / Thọ nguyên
+    - Cảnh giới (ghi thêm trạng thái: "sắp đột phá", "ổn định"...)
+    - Thân phận trong phe phái
+    - Linh căn (chi tiết loại + nguồn gốc)
+
+    **Section II — NGOẠI HÌNH & KHÍ CHẤT** (chia sub-section)
+    - **Dung Mạo:** 3-4 câu mô tả khuôn mặt, đặc điểm nổi bật, dấu ấn đặc biệt
+    - **Trang Phục:** 2-3 câu mô tả y phục, phụ kiện, vũ khí mang theo
+    - **Khí Chất:** 2-3 câu mô tả ấn tượng người khác khi gặp, mùi hương/áp lực đặc trưng
+
+    **Section III — TÍNH CÁCH & ĐẠO TÂM** (chia sub-section)
+    - **Tính Cách:** 3 đặc điểm chính, mỗi đặc điểm 1-2 câu giải thích + ví dụ hành vi
+    - **Đạo Tâm:** Tên đạo tâm bằng Tiếng Việt + Hán Tự + 2-3 câu giải thích triết lý
+
+    **Section IV — LỊCH SỬ & XUẤT THÂN** (chia thành các giai đoạn)
+    - **Xuất thân:** Gia đình, quê quán, hoàn cảnh (3-4 câu)
+    - **Biến cố:** Sự kiện định hình tính cách (3-4 câu, cụ thể, có tên người/địa danh)
+    - **Gia nhập phe phái:** Lý do, quá trình (2-3 câu)
+    - **Chiến tích:** 2-3 sự kiện đáng nhớ với tuổi/cảnh giới cụ thể
+
+    **Section V — CÔNG PHÁP & SỞ TRƯỜNG** (chia sub-section)
+    - **Sở Trường:** 2-3 lĩnh vực chuyên môn, mỗi lĩnh vực 1-2 câu
+    - **Công Pháp:** Tên (Hán Tự) + Cấp + Tầng + mô tả chi tiết + chiêu thức cụ thể
+    - **Pháp Bảo:** Mỗi vật phẩm: Tên (Cấp) + mô tả ngoại hình + khả năng đặc biệt
+
+    **Section VI — QUAN HỆ** (chi tiết hơn Section IV YAML)
+    - Phân nhóm: Sư phụ, Kẻ thù, Đồng minh, Đồng môn, Thuộc hạ, Gia đình
+    - Mỗi quan hệ: 1-2 câu mô tả, giải thích TẠI SAO có cảm xúc đó
+
+    **Section VII — GIAI THOẠI**
+    - 1 câu trích dẫn nổi tiếng (> *"..."* format) + nguồn
+    - 1-2 tin đồn/bí mật về nhân vật
+
+    Phàm nhân: Section III → **"TÍNH CÁCH & ĐỜI SỐNG"**, Section V → **"KỸ NĂNG & NGHỀ NGHIỆP"**
+
+4.  **Quy tắc đặt tên:**
+    - KHÔNG dùng chức danh làm tên
+    - Họ nhất quán theo chủng tộc
+    - Phàm nhân: tên đời thường
+
+5.  **Checklist:**
+    - [ ] YAML: stats đúng range, relationships có feelings 6 trục, inventory đầy đủ
+    - [ ] 7 sections đều có nội dung chi tiết (KHÔNG placeholder)
+    - [ ] Mỗi section có sub-sections rõ ràng
+    - [ ] Ít nhất 1 chiêu thức có tên Tiếng Việt + Hán Tự
+    - [ ] Ít nhất 3 relationships với description chi tiết
+    - [ ] Có giai thoại / trích dẫn
+    - [ ] File ≥ 80 dòng (nhân vật lãnh đạo ≥ 120 dòng)
+    - [ ] Tên không trùng, tiếng Việt only
+
+---
+
 ## CẤU TRÚC THƯ MỤC
 ```
 Đạo/Nhân_Vật/

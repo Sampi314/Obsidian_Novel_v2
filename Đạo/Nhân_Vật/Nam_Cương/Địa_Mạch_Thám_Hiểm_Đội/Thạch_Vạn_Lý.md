@@ -42,6 +42,15 @@ arcs:
           tin: 0
           so: 0
           on: 0
+      - character: Lâm Tiểu Đăng
+        description: Thám Hiểm Viên trẻ nhất đội, đệ tử mà hắn đào tạo từ nhỏ
+        feelings:
+          yeu: 50
+          han: 0
+          kinh: 0
+          tin: 35
+          so: 0
+          on: 30
 ---
 
 # HỒ SƠ NHÂN VẬT: THẠCH VẠN LÝ (石萬里)
@@ -64,6 +73,7 @@ Tu luyện Địa Hành Thuật — cảm nhận rung động của đất đá,
 - **[[Lý Ám Dạ]]** — Phó Đội, cánh tay phải đáng tin cậy nhất, phụ trách an toàn đội.
 - **[[Châu Hàn Dạ]]** — Bản Đồ Sư, người vẽ bản đồ dẫn đường dưới lòng đất.
 - **[[Trần Thạch Nham]]** — Khai Khoáng Sư, chuyên gia khai thác tài nguyên.
+- **[[Lâm Tiểu Đăng]]** — Thám Hiểm Viên trẻ nhất đội, đệ tử mà hắn đào tạo từ nhỏ.
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Thạch Vạn Lý xuất thân từ gia tộc thợ mỏ ở Nam Cương, từ nhỏ đã theo cha xuống hầm đào khoáng. Sau khi phát hiện thiên phú cảm nhận đất đá, bắt đầu tu luyện và lập Địa Mạch Thám Hiểm Đội. Đã dẫn đội khám phá hàng chục hệ thống hang động chưa ai biết, phát hiện nhiều mỏ quặng quý hiếm. Ước mơ lớn nhất là lập bản đồ toàn bộ hệ thống địa mạch dưới lòng Nam Cương.

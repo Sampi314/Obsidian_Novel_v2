@@ -29,7 +29,7 @@ arcs:
           tin: 90
           so: 0
           on: 35
-      - character: Bào Độc Vương
+      - character: Bào Độc Linh
         description: Hộ Pháp trung thành, chiến binh duy nhất của tộc dám đối đầu trực diện với kẻ thù
         feelings:
           yeu: 25
@@ -114,7 +114,7 @@ Tu luyện *Hồng Tán Địa Mạch Quyết* (紅傘地脈訣) — công pháp
 
 ## IV. CÁC MỐI QUAN HỆ
 - **Bào Thiên Biến Hoa** (Thủ lĩnh): Tộc Trưởng, cấp trên trực tiếp và người nàng kính trọng nhất, đồng thời là người giao cho nàng trọng trách nghiên cứu tiến hóa
-- **Bào Độc Vương** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
+- **Bào Độc Linh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
 - **Bào Huyết Tịnh** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
 - **Bào Thiên Phong** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc
 - **Bào Tịnh Hóa** (Thủ lĩnh): Thủ hạ trung thành, phục vụ dưới quyền tại Bào Tử Mật Lâm Tộc

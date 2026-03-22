@@ -36,12 +36,12 @@ Ngân Hải Thiên sở trường tốc độ bơi và khả năng truyền tin 
 ## IV. CÁC MỐI QUAN HỆ
 - **Kình Lôi Âm** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
 - **Kình Mẫu Từ** (Đồng minh): Đồng liêu cùng Kình Ngư Bộ Lạc, hỗ trợ lẫn nhau
-- **Kình Thiên Hải Vương** (Chủ tớ): Thủ hạ trung thành trong Kình Ngư Bộ Lạc
-- **Kình Thiên Hải Vương** (Cấp dưới): Phục tùng Kình Thiên Hải Vương, Tộc Trưởng của Kình Ngư Bộ Lạc
+- **Kình Thiên Hải** (Chủ tớ): Thủ hạ trung thành trong Kình Ngư Bộ Lạc
+- **Kình Thiên Hải** (Cấp dưới): Phục tùng Kình Thiên Hải, Tộc Trưởng của Kình Ngư Bộ Lạc
 - **Kình Thiết Đầu** (Sư đồ): Kình Thiết Đầu chỉ dẫn Kình Ngân Hải Thiên trong Kình Ngư Bộ Lạc
 - **Kình Thâm Uyên Hải** (Sư đồ): Kình Thâm Uyên Hải chỉ dẫn Kình Ngân Hải Thiên trong Kình Ngư Bộ Lạc
-- **Kình Thiên Hải Vương:** Tộc Trưởng tin cậy nhất trong lĩnh vực ngoại giao; Hải Vương giao cho nàng toàn quyền đàm phán với các thế lực bên ngoài.
+- **Kình Thiên Hải:** Tộc Trưởng tin cậy nhất trong lĩnh vực ngoại giao; Hải Vương giao cho nàng toàn quyền đàm phán với các thế lực bên ngoài.
 - **Kình Thiết Đầu:** Thường xuyên mâu thuẫn; Thiết Đầu coi nàng là "kẻ suốt ngày nói suông" trong khi nàng cho rằng Thiết Đầu chỉ biết dùng đầu húc mà không biết suy nghĩ.
 - **Giao Vân Hà (Hải Thần Cung):** Bạn thân tại Hải Thần Cung; hai người gặp nhau trong một chuyến ngoại giao và trở nên thân thiết vì cùng chia sẻ tính cách ôn hòa, thường trao đổi thông tin về tình hình biển cả.
 ## V. TIỂU SỬ & HÀNH TRÌNH
-Kình Ngân Hải Thiên sinh ra với bộ lông da bạc hiếm gặp, khiến nàng nổi bật giữa đàn cá voi xanh thẫm và trở thành tâm điểm chú ý từ nhỏ. Thay vì theo đuổi con đường chiến binh, nàng bộc lộ tài năng giao tiếp và ngoại giao khi còn rất trẻ — trong lần đầu gặp thương nhân San Hô Đảo Quốc tại phiên chợ Kình Thị, nàng đã tự mình đàm phán được giá Trân Châu Lưu Âm cao hơn gấp đôi so với mọi năm. Kình Thiên Hải Vương nhận ra giá trị này và phong nàng làm Sứ Giả chính thức, phụ trách toàn bộ quan hệ ngoại giao của bộ lạc. Hiện tại, nàng đang vô cùng bận rộn vì phải liên lạc với Hải Thần Cung và Cự Kình Bảo về hiện tượng cá voi bơi về hướng nam bất thường, đồng thời bí mật thu thập tin tức về Huyết Độc qua mạng lưới quen biết rộng khắp Vô Tận Hải.
+Kình Ngân Hải Thiên sinh ra với bộ lông da bạc hiếm gặp, khiến nàng nổi bật giữa đàn cá voi xanh thẫm và trở thành tâm điểm chú ý từ nhỏ. Thay vì theo đuổi con đường chiến binh, nàng bộc lộ tài năng giao tiếp và ngoại giao khi còn rất trẻ — trong lần đầu gặp thương nhân San Hô Đảo Quốc tại phiên chợ Kình Thị, nàng đã tự mình đàm phán được giá Trân Châu Lưu Âm cao hơn gấp đôi so với mọi năm. Kình Thiên Hải nhận ra giá trị này và phong nàng làm Sứ Giả chính thức, phụ trách toàn bộ quan hệ ngoại giao của bộ lạc. Hiện tại, nàng đang vô cùng bận rộn vì phải liên lạc với Hải Thần Cung và Cự Kình Bảo về hiện tượng cá voi bơi về hướng nam bất thường, đồng thời bí mật thu thập tin tức về Huyết Độc qua mạng lưới quen biết rộng khắp Vô Tận Hải.

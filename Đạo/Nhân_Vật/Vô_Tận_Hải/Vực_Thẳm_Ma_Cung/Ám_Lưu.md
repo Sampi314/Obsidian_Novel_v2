@@ -24,6 +24,15 @@ arcs:
           tin: 50
           so: 70
           on: 30
+      - character: Hải Huyền Thảo
+        description: Đối tác tình báo từ Hải Thảo Dược Sư, cung cấp tin tức có giới hạn
+        feelings:
+          yeu: 0
+          han: 0
+          kinh: 10
+          tin: 20
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: ÁM LƯU (暗流)
@@ -44,6 +53,7 @@ arcs:
 
 ## IV. CÁC MỐI QUAN HỆ
 - **Thâm Hải** (Cấp dưới): Cung Chủ tối cao, phụng sự trung thành tuyệt đối vì nỗi sợ hãi tuyệt đối
+- **Hải Huyền Thảo** (Đồng minh): Đối tác tình báo từ Hải Thảo Dược Sư, cung cấp tin tức có giới hạn
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 *(Chưa xác định)*

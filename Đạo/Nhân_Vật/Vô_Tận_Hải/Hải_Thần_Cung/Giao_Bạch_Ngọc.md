@@ -45,7 +45,7 @@ Sở trường của nàng không nằm ở chiến đấu trực diện mà là
 - **Chương Thiên Cơ Huyền** (Sư đồ): Chương Thiên Cơ Huyền chỉ dẫn Giao Bạch Ngọc trong Hải Thần Cung
 - **Chương Thiên Nhãn** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
 - **Giải Huyền Giáp** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
-- **Giải Thiết Giáp Vương** (Sư đồ): Giải Thiết Giáp Vương chỉ dẫn Giao Bạch Ngọc trong Hải Thần Cung
+- **Giải Thiết Giáp** (Sư đồ): Giải Thiết Giáp chỉ dẫn Giao Bạch Ngọc trong Hải Thần Cung
 - **Quy Huyền Thiên** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
 - **Sa Cuồng Đào** (Đồng minh): Đồng liêu cùng Hải Thần Cung, hỗ trợ lẫn nhau
 - **Giao Thiên Lệ Nguyệt:** Bạn tâm giao và là đối tác ăn ý trong xưởng dệt. Bạch Ngọc thường dùng ngọc trai của Lệ Nguyệt để khảm lên những tấm lụa quý giá nhất.

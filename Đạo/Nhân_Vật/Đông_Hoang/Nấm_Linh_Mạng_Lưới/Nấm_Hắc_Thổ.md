@@ -41,6 +41,6 @@ Thành viên của Nấm Linh Mạng Lưới, tu luyện công pháp đặc trư
 - **Nấm Cộng Sinh Thiên** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
 - **Nấm Linh Quang** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
 - **Nấm Thâm Căn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
-- **Nấm Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
+- **Nấm Độc Tâm** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Nấm Linh Mạng Lưới
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Nấm Hắc Thổ xuất thân từ vùng đất xa xôi, sớm thể hiện tư chất phù hợp với Nấm Linh Mạng Lưới. Trải qua thử thách sinh tử, nàng gia nhập Nấm Linh Mạng Lưới và dần khẳng định vị trí của mình. Với tu vi Trúc Cơ Trung Kỳ, nàng đang nỗ lực phát triển bản thân để cống hiến cho thế lực. Mục tiêu hiện tại là nâng cao thực lực và hoàn thành trách nhiệm với tư cách Phân Giải Sư.

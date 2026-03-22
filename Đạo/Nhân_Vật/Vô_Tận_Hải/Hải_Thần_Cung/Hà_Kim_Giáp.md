@@ -40,7 +40,7 @@ Hà Kim Giáp sở trường cận chiến dưới nước với tốc độ bù
 - **Hải Ngọc Lan** (Sư đồ): Hải Ngọc Lan dẫn dắt Hà Kim Giáp trong Hải Thần Cung
 - **Kình Lôi Thanh** (Sư đồ): Kình Lôi Thanh chỉ dẫn Hà Kim Giáp trong Hải Thần Cung
 - **Kình Thiên Lôi Âm:** Cấp trên trực tiếp; Kim Giáp kính trọng Lôi Âm như huynh trưởng, luôn là người đầu tiên xung phong khi Lôi Âm hạ lệnh tuần tra.
-- **Giải Thiết Giáp Vương:** Đồng liêu và là đối thủ luyện công; hai người thường so tài xem giáp ai cứng hơn, tạo nên tiếng ầm vang khắp đáy biển.
+- **Giải Thiết Giáp:** Đồng liêu và là đối thủ luyện công; hai người thường so tài xem giáp ai cứng hơn, tạo nên tiếng ầm vang khắp đáy biển.
 - **Giao Vân Hà:** Kim Giáp thường xuyên bị thương ở các khớp giáp sau mỗi trận chiến và phải nhờ Vân Hà chữa trị, dù hắn luôn cố tỏ ra mình không đau.
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Hà Kim Giáp xuất thân từ một bộ lạc tôm hùm nhỏ sống tại rạn san hô ngoại vi Hải Thần Cung. Bộ lạc hắn từng bị một băng hải tặc tàn sát gần hết trong một đêm, chỉ còn lại Kim Giáp lúc đó mới chỉ là ấu trùng trốn trong khe đá. Được binh lính Hải Thần Cung cứu và nuôi dưỡng, hắn lớn lên với lòng căm hận hải tặc cháy bỏng và lòng trung thành tuyệt đối với Hải Thần Cung. Nhờ thể chất bẩm sinh mạnh mẽ và ý chí kiên cường, hắn nhanh chóng thăng tiến lên vị trí Vệ Binh Trưởng, phụ trách đội cận vệ bảo vệ cổng chính Thủy Tinh Cung. Mục tiêu lớn nhất của hắn là đột phá Kim Đan để đủ tư cách gia nhập đội tuần tra biên giới của Kình Thiên Lôi Âm, trực tiếp truy quét hải tặc.

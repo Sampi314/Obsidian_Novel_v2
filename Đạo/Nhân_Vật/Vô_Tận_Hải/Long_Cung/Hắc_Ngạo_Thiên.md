@@ -60,6 +60,15 @@ arcs:
           tin: 35
           so: 0
           on: 5
+      - character: Ba Thanh Tần
+        description: Thủ lĩnh Hắc Hải Hải Tặc, kẻ thù vô hình coi hắn là mục tiêu triệt tiêu
+        feelings:
+          yeu: 0
+          han: 20
+          kinh: 10
+          tin: -20
+          so: 0
+          on: 0
 ---
 
 # HỒ SƠ NHÂN VẬT: HẮC NGẠO THIÊN (黑傲天)

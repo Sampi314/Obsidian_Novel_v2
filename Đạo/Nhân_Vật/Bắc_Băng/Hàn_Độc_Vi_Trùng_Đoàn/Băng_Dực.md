@@ -37,7 +37,7 @@ Băng Dực hiếm khi tham gia chiến đấu trực diện, mà thay vào đó
 - **Vi Thanh (Đoàn Trưởng):** Cấp trên trực tiếp và là người Băng Dực vô cùng trung thành; hắn chính là tai mắt đắc lực giúp Vi Thanh nắm bắt tình hình của Bắc Băng.
 - **Trùng Băng Châm (Phó Đoàn Trưởng):** Đối tác phối hợp ăn ý trong các nhiệm vụ xâm nhập, thường cung cấp vỏ bọc tấn công khi Băng Dực cần mở đường trinh sát.
 - **Trùng Bạch Lân (Trinh Sát Độc):** Đồng nghiệp và đối thủ cạnh tranh ngầm; cả hai thường xuyên thi tài về khả năng ẩn mình trong các cơn bão tuyết dữ dội nhất.
-- **Trùng Hàn Độc Vương** (Thuộc hạ): Phục tùng Trùng Hàn Độc Vương, Đoàn Trưởng của Hàn Độc Vi Trùng Đoàn
+- **Trùng Hàn Độc** (Thuộc hạ): Phục tùng Trùng Hàn Độc, Đoàn Trưởng của Hàn Độc Vi Trùng Đoàn
 
 ## V. TIỂU SỬ & HÀNH TRÌNH
 Sinh ra từ một kén trú đông bị chôn vùi dưới lớp tuyết vĩnh cửu sau một trận lở tuyết kinh hoàng ngàn năm trước, Băng Dực đã tự mình học cách sinh tồn và tiến hóa khả năng lẩn trốn trong môi trường khắc nghiệt. Trải qua hàng trăm cuộc trinh sát vào sâu trong lãnh địa của Sương Ma Uyển để cảnh báo bầy đàn về những cuộc săn lùng, hắn dần trở thành trinh sát hàng đầu của Quần Thể Phân Giải. Hiện tại, Băng Dực đang dốc sức truy tìm nguồn phát tán ma khí bí ẩn ở phía Bắc, với mục tiêu giúp Đoàn Trưởng Vi Thanh hoàn thiện khả năng phân giải "Ma Độc".

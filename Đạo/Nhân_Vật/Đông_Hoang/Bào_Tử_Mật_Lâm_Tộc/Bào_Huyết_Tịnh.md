@@ -80,7 +80,7 @@ Tu luyện *Huyết Tịnh Phân Giải Pháp* (血淨分解法) — pháp môn 
 - **Bào Thiên Biến Hoa** (Đồng minh): Chuyên gia huyết độc, đồng minh nghiên cứu quan trọng trong việc tìm hiểu cách thích nghi với Huyết Thần Độc
 - **Bào Tịnh Hóa** (Đồng minh): Chuyên gia huyết độc, đồng nghiệp cùng lĩnh vực nhưng phương pháp đối lập — nàng dùng thân hấp thụ, hắn dùng trí phân tích
 - **Bào Thiên Phong** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
-- **Bào Độc Vương** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
+- **Bào Độc Linh** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Thiên Tán Hoa** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Vạn Căn** (Đồng minh): Đồng liêu cùng thế lực, hỗ trợ lẫn nhau tại Bào Tử Mật Lâm Tộc
 - **Bào Ngọc Quang** (Đồng minh): Chuyên Gia Huyết Độc và Dược Sư, hợp tác nghiên cứu
