@@ -37781,7 +37781,328 @@ const relationshipData = {
         "so": 0,
         "on": 10
       }
+    },
+    {
+      "source": "do-thanh-thach",
+      "target": "do-dai-nguu",
+      "type": "friend",
+      "description": "Em họ, cùng làm việc trong khu mỏ Huyền Thiết.",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 10,
+        "tin": 50,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "do-dai-nguu",
+      "target": "do-thanh-thach",
+      "type": "friend",
+      "description": "Anh họ, rất nghe lời, hay được chia đồ ăn.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 30,
+        "tin": 50,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "do-tieu-nguyet",
+      "target": "do-thanh-thach",
+      "type": "friend",
+      "description": "Cùng họ Đỗ, hay gọi Thạch là chú.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 20,
+        "tin": 30,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "ho-hoa-luyen",
+      "target": "ho-minh-chau",
+      "type": "friend",
+      "description": "Chị ruột, thợ mài kiếm cạnh xưởng rèn.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 30,
+        "tin": 80,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "ho-minh-chau",
+      "target": "ho-hoa-luyen",
+      "type": "friend",
+      "description": "Em trai rèn kiếm, rất tự hào về tài năng của nó.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 30,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "ho-thanh-binh-ly",
+      "target": "ho-hoa-luyen",
+      "type": "friend",
+      "description": "Họ hàng xa, thỉnh thoảng nhờ Luyện sửa giúp đồ lặt vặt.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 20,
+        "tin": 50,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "duong-moc-thao",
+      "target": "duong-bach-hai",
+      "type": "friend",
+      "description": "Em trai, làm việc thu hoạch Kiếm Thảo cùng.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 20,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "duong-bach-hai",
+      "target": "duong-moc-thao",
+      "type": "friend",
+      "description": "Anh trai, thường chỉ dẫn Hải cách cắt gốc cỏ không đứt rễ.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 20,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "duong-tu-tam",
+      "target": "duong-moc-thao",
+      "type": "master",
+      "description": "Cha, luôn chọn thảo dược tốt nhất cho mình kinh doanh.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 50,
+        "tin": 90,
+        "so": 0,
+        "on": 30
+      }
+    },
+    {
+      "source": "tao-hac-thach",
+      "target": "do-thanh-thach",
+      "type": "master",
+      "description": "Thợ mỏ giỏi, luôn hoàn thành trước chỉ tiêu, rất tôn trọng Thạch.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 60,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "tao-bach-kim",
+      "target": "ho-minh-chau",
+      "type": "friend",
+      "description": "Bạn bè thợ mài, thường nhận kiếm mài xong để chạm khắc hoa văn.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 30,
+        "tin": 70,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "tao-linh-canh",
+      "target": "duong-tu-tam",
+      "type": "friend",
+      "description": "Khách quen của kho, Tâm hay lấy Kiếm Thảo khô do Cảnh bảo quản để bán lẻ.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 30,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "thach-thiet-tru",
+      "target": "do-dai-nguu",
+      "type": "master",
+      "description": "Bạn đồng nghiệp, là đối thủ lớn nhất trong các cuộc thi vác quặng ngầm.",
+      "feelings": {
+        "yeu": 50,
+        "han": 0,
+        "kinh": 60,
+        "tin": 80,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "thach-tieu-kim",
+      "target": "ho-hoa-luyen",
+      "type": "master",
+      "description": "Sư phụ nghề rèn, luôn bị la rầy nhưng rất trung thành bám theo.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 80,
+        "tin": 90,
+        "so": 40,
+        "on": 50
+      }
+    },
+    {
+      "source": "thach-linh-chi",
+      "target": "duong-bach-hai",
+      "type": "friend",
+      "description": "Phu thu hoạch, thường hái hoa dại tặng cho Chi mỗi khi đưa cỏ về phơi.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 20,
+        "tin": 80,
+        "so": 0,
+        "on": 40
+      }
     }
   ],
-  "factions": []
+  "factions": [],
+  "nodes": [
+    {
+      "id": "do-thanh-thach",
+      "name": "Đỗ Thanh Thạch",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "do-dai-nguu",
+      "name": "Đỗ Đại Ngưu",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "do-tieu-nguyet",
+      "name": "Đỗ Tiểu Nguyệt",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "ho-hoa-luyen",
+      "name": "Hồ Hỏa Luyện",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "ho-minh-chau",
+      "name": "Hồ Minh Châu",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "ho-thanh-binh-ly",
+      "name": "Hồ Thanh Bình Lý",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "duong-moc-thao",
+      "name": "Dương Mộc Thảo",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "duong-bach-hai",
+      "name": "Dương Bạch Hải",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "duong-tu-tam",
+      "name": "Dương Tử Tâm",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "tao-hac-thach",
+      "name": "Tào Hắc Thạch",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "tao-bach-kim",
+      "name": "Tào Bạch Kim",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "tao-linh-canh",
+      "name": "Tào Linh Cảnh",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "thach-thiet-tru",
+      "name": "Thạch Thiết Trụ",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "thach-tieu-kim",
+      "name": "Thạch Tiểu Kim",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    },
+    {
+      "id": "thach-linh-chi",
+      "name": "Thạch Linh Chi",
+      "group": 2,
+      "faction": "Cửu Hoa Kiếm Tông",
+      "cultivation": "Phàm Nhân"
+    }
+  ],
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2024-03-20"
+  }
 };
