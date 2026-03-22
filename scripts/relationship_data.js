@@ -37991,6 +37991,396 @@ const relationshipData = {
         "so": 0,
         "on": 40
       }
+    },
+    {
+      "source": "lam-moc-tu",
+      "target": "nguyen-tu-moc",
+      "description": "Đồng nghiệp cùng xưởng mộc, hay tranh cãi về cách đóng bàn ghế nhưng rất ăn ý khi làm việc chung.",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 10,
+        "tin": 50,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "lam-moc-tu",
+      "target": "pham-thi-lan",
+      "description": "Quản sự giặt giũ, hay nhờ Lâm Mộc Tử sửa chữa chậu giặt và giá phơi đồ.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 20,
+        "tin": 40,
+        "so": 5,
+        "on": 15
+      }
+    },
+    {
+      "source": "lam-thanh-thuy",
+      "target": "lao-truong",
+      "description": "Tổng Bếp Trưởng, cung cấp nước sạch mỗi sáng sớm cho bếp ăn.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 30,
+        "tin": 60,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "lam-thanh-thuy",
+      "target": "nguyen-dai-chuy",
+      "description": "Tổng Quản Rèn Đúc, hay phàn nàn về nước múc lên có vẩn đục cặn bã làm giảm chất lượng khi rèn kiếm.",
+      "feelings": {
+        "yeu": -10,
+        "han": 0,
+        "kinh": 15,
+        "tin": 20,
+        "so": 10,
+        "on": -5
+      }
+    },
+    {
+      "source": "chu-hoa-thuc",
+      "target": "lao-truong",
+      "description": "Tổng Bếp Trưởng, thường quát mắng Hỏa Thực nhưng lại dạy cho y nhiều mẹo nhặt rau thái thịt nhanh.",
+      "feelings": {
+        "yeu": 15,
+        "han": 5,
+        "kinh": 40,
+        "tin": 60,
+        "so": 20,
+        "on": 30
+      }
+    },
+    {
+      "source": "chu-hoa-thuc",
+      "target": "do-dai-nguu",
+      "description": "Phàm nhân phụ trách làm cỏ, thỉnh thoảng mang cho Hỏa Thực vài loại củ rừng lạ để nướng ăn vụng.",
+      "feelings": {
+        "yeu": 30,
+        "han": 0,
+        "kinh": 10,
+        "tin": 50,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "chu-tieu-dich",
+      "target": "chu-hoa-thuc",
+      "description": "Anh trai ruột cùng bán vào tông môn, hay được anh lén cho ăn vụng.",
+      "feelings": {
+        "yeu": 80,
+        "han": 0,
+        "kinh": 30,
+        "tin": 90,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "chu-tieu-dich",
+      "target": "tran-tieu-moc",
+      "description": "Mã Phòng Quản Sự, thường bắt Tiểu Dịch chạy lấy cỏ khô cho ngựa bay.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 40,
+        "tin": 50,
+        "so": 25,
+        "on": 0
+      }
+    },
+    {
+      "source": "truong-dien-nong",
+      "target": "nguyen-dai-chuy",
+      "description": "Tổng Quản Rèn Đúc, thường mài lại lưỡi cuốc bị mẻ do cuốc phải đá tảng.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 20,
+        "tin": 50,
+        "so": 0,
+        "on": 15
+      }
+    },
+    {
+      "source": "truong-dien-nong",
+      "target": "do-dai-nguu",
+      "description": "Cùng làm ruộng nhưng ở phân khu khác, thỉnh thoảng hai lão nông hay ngồi uống nước trà tán dóc về thời tiết.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 10,
+        "tin": 60,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "truong-cau-dich",
+      "target": "pham-thi-lan",
+      "description": "Quản sự giặt giũ, hay chửi rủa Cẩu Dịch khi y vô tình quét bụi vào đống áo mới phơi.",
+      "feelings": {
+        "yeu": -20,
+        "han": 10,
+        "kinh": -10,
+        "tin": 50,
+        "so": 30,
+        "on": 0
+      }
+    },
+    {
+      "source": "truong-cau-dich",
+      "target": "tran-tieu-moc",
+      "description": "Mã Phòng Quản Sự, giao phân ngựa cho Cẩu Dịch dọn dẹp hàng ngày.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 20,
+        "tin": 60,
+        "so": 15,
+        "on": 5
+      }
+    },
+    {
+      "source": "le-moc-xa",
+      "target": "lam-moc-tu",
+      "description": "Thợ mộc giỏi hay sửa chữa bánh xe bị hỏng giúp Mộc Xa.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 20,
+        "tin": 60,
+        "so": 0,
+        "on": 30
+      }
+    },
+    {
+      "source": "le-moc-xa",
+      "target": "nguyen-dai-chuy",
+      "description": "Tổng Quản Rèn Đúc, bắt Mộc Xa chở hàng tấn than củi nặng trịch mỗi tuần.",
+      "feelings": {
+        "yeu": 5,
+        "han": 15,
+        "kinh": 15,
+        "tin": 40,
+        "so": 10,
+        "on": 5
+      }
+    },
+    {
+      "source": "le-tran-tao",
+      "target": "truong-cau-dich",
+      "description": "Bà lão quét lá quanh sân trước, thường cùng Dịch than thân trách phận về chuyện tuổi già sức yếu.",
+      "feelings": {
+        "yeu": 20,
+        "han": 0,
+        "kinh": 15,
+        "tin": 30,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "le-tran-tao",
+      "target": "pham-thi-lan",
+      "description": "Quản sự Giặt Giũ, thường đưa xà phòng thừa để Trần Tảo tẩy bớt mùi hôi trên quần áo rách.",
+      "feelings": {
+        "yeu": 15,
+        "han": 0,
+        "kinh": 25,
+        "tin": 50,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "nguyen-luc-phu",
+      "target": "le-moc-xa",
+      "description": "Phu xe gỗ, hợp tác cùng nhau vận chuyển các tảng đá khổng lồ lên núi Cửu Hoa.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 30,
+        "tin": 70,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "nguyen-luc-phu",
+      "target": "nguyen-dai-chuy",
+      "description": "Tổng Quản Rèn Đúc, là họ hàng xa, hay nhờ Lực Phu bưng bê các loại búa và đe rèn đúc.",
+      "feelings": {
+        "yeu": 15,
+        "han": 0,
+        "kinh": 40,
+        "tin": 80,
+        "so": 0,
+        "on": 40
+      }
+    },
+    {
+      "source": "nguyen-tu-moc",
+      "target": "lam-moc-tu",
+      "description": "Người bạn làm mộc, tay nghề giỏi nhưng tính tình cục súc, hai người thường xuyên cãi vã chuyện hoa văn điêu khắc.",
+      "feelings": {
+        "yeu": 15,
+        "han": 0,
+        "kinh": 20,
+        "tin": 60,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "nguyen-tu-moc",
+      "target": "le-moc-xa",
+      "description": "Phu chở củi, chuyên chở những khối gỗ quý lên xưởng để Tu Mộc tiện chọn lựa.",
+      "feelings": {
+        "yeu": 30,
+        "han": 0,
+        "kinh": 15,
+        "tin": 50,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "pham-thiet-mon",
+      "target": "nguyen-luc-phu",
+      "description": "Thợ bốc vác, Phạm Thiết Môn hay phải nhờ Lực Phu đẩy cánh cổng lớn vào lúc chạng vạng.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 20,
+        "tin": 60,
+        "so": 0,
+        "on": 15
+      }
+    },
+    {
+      "source": "pham-thiet-mon",
+      "target": "pham-tieu-xa",
+      "description": "Em trai, làm phụ đẩy xe bò chở cỏ cho ngựa bay, luôn bị Thiết Môn quản lý.",
+      "feelings": {
+        "yeu": 60,
+        "han": 0,
+        "kinh": 10,
+        "tin": 50,
+        "so": 0,
+        "on": 0
+      }
+    },
+    {
+      "source": "pham-tieu-xa",
+      "target": "pham-thiet-mon",
+      "description": "Người gác cổng nghiêm khắc, là anh ruột của Tiểu Xa, thường xét nét kỹ lưỡng xe cỏ xem có giấu đồ lậu hay không.",
+      "feelings": {
+        "yeu": 60,
+        "han": 5,
+        "kinh": 40,
+        "tin": 80,
+        "so": 20,
+        "on": 30
+      }
+    },
+    {
+      "source": "pham-tieu-xa",
+      "target": "tran-tieu-moc",
+      "description": "Mã Phòng Quản Sự, thường xuyên quát nạt Tiểu Xa vì giao cỏ chậm trễ làm bầy ngựa bay đói.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 20,
+        "tin": 50,
+        "so": 15,
+        "on": 5
+      }
+    },
+    {
+      "source": "hoang-minh-dang",
+      "target": "pham-thiet-mon",
+      "description": "Gác cổng đêm, luôn nhắc Minh Đăng phải châm đèn thật sáng quanh khu cổng sau.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 30,
+        "tin": 60,
+        "so": 15,
+        "on": 20
+      }
+    },
+    {
+      "source": "hoang-minh-dang",
+      "target": "chu-tieu-dich",
+      "description": "Cậu bé chạy vặt, hay núp vào các trụ đèn để trốn việc, đôi khi thắp lại đèn bị gió thổi tắt thay cho Minh Đăng.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 10,
+        "tin": 50,
+        "so": 0,
+        "on": 10
+      }
+    },
+    {
+      "source": "hoang-phi-tin",
+      "target": "chu-tieu-dich",
+      "description": "Cùng là người chạy vặt nhưng Phi Tín chịu trách nhiệm đưa thư ở các chặng xa, hay coi Tiểu Dịch là đàn em.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 15,
+        "tin": 50,
+        "so": 0,
+        "on": 20
+      }
+    },
+    {
+      "source": "hoang-phi-tin",
+      "target": "pham-thiet-mon",
+      "description": "Gác cổng đêm, Phi Tín thường là người duy nhất chạy qua cổng sau lúc nửa đêm khi có thư hỏa tốc.",
+      "feelings": {
+        "yeu": 10,
+        "han": 0,
+        "kinh": 30,
+        "tin": 60,
+        "so": 15,
+        "on": 5
+      }
+    },
+    {
+      "source": "dang-bach-y",
+      "target": "pham-thi-lan",
+      "description": "Bà quản sự giặt giũ khét tiếng, là cấp trên trực tiếp, hay la rầy Bạch Y vì giặt chưa sạch vết máu yêu thú.",
+      "feelings": {
+        "yeu": 15,
+        "han": 5,
+        "kinh": 30,
+        "tin": 50,
+        "so": 25,
+        "on": 10
+      }
+    },
+    {
+      "source": "dang-bach-y",
+      "target": "lam-thanh-thuy",
+      "description": "Người gánh nước, Bạch Y luôn cần Thanh Thủy gánh nước suối trong về để giặt áo cho các đệ tử.",
+      "feelings": {
+        "yeu": 40,
+        "han": 0,
+        "kinh": 20,
+        "tin": 60,
+        "so": 0,
+        "on": 30
+      }
     }
   ],
   "factions": [],
